@@ -3,11 +3,11 @@ sr: "235.22"
 title: "Ordinanza del 17 agosto 2016 concernente il sistema d'informazione E-VERA (Ordinanza E-VERA)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/487"
 language: it
-version: 2025-06-01
+version: 2026-04-01
 adopted: 2016-08-17
 in_force: 2016-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/487/20250601/it/xml/fedlex-data-admin-ch-eli-cc-2016-487-20250601-it-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/487/20250601/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/487/20260401/it/xml/fedlex-data-admin-ch-eli-cc-2016-487-20260401-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/487/20260401/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/487/20250601/it"
 
 (Ordinanza E-VERA)
 
-del 17 agosto 2016 (Stato 1° giugno 2025)
+del 17 agosto 2016 (Stato 1° aprile 2026)
 
 Il Consiglio federale svizzero,
 
@@ -24,8 +24,8 @@ visto l’articolo 29 capoverso 1 lettera a della legge federale del 18 dicembre
 
 ordina:
 
-[^ingress-1]: [RS 235.2](https://fedlex.data.admin.ch/eli/cc/2021/650)
-[^ingress-2]: [RS 195.1](https://fedlex.data.admin.ch/eli/cc/2015/653)
+[^ingress-1]: [RS 235.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6021)
+[^ingress-2]: [RS 195.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5690)
 [^ingress-3]: Nuovo testo giusta la cifra I dell’O del 25 ott. 2023, in vigore dal 1° dic. 2023 ([RU 2023 636](https://fedlex.data.admin.ch/eli/oc/2023/636)).
 
 ## Sezione 1: Disposizioni generali
@@ -49,8 +49,8 @@ E-VERA serve al DFAE per adempiere i compiti consolari tramite le rappresentanze
 - e. far fronte a crisi e catastrofi;
 - f. sostenere la Cassa svizzera di compensazione (CSC) nell’ambito dell’assicurazione facoltativa ai sensi dell’articolo 2 della legge federale del 20 dicembre 1946[^2-1] su l’assicurazione per la vecchiaia e per i superstiti (LAVS) e dell’articolo 3 dell’ordinanza del 26 maggio 1961[^2-2] concernente l’assicurazione facoltativa per la vecchiaia, i superstiti e l’invalidità.
 
-[^2-1]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
-[^2-2]: [RS 831.111](https://fedlex.data.admin.ch/eli/cc/1961/419_429_439)
+[^2-1]: [RS 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
+[^2-2]: [RS 831.111](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10019)
 
 #### Art. 3
 
@@ -97,9 +97,9 @@ In E-VERA sono trattati i dati delle persone seguenti:
 <sup>3</sup> E-VERA verifica mediante una consultazione online se le persone registrate in E‑VERA sono segnalate nel sistema di ricerca informatizzato di polizia (RIPOL) per aver commesso un crimine o un delitto. Il risultato della consultazione non viene memorizzato in E-VERA.
 
 [^6-1]: Introdotto dalla cifra I dell’O del 25 ott. 2023, in vigore dal 1° dic. 2023 ([RU 2023 636](https://fedlex.data.admin.ch/eli/oc/2023/636)).
-[^6-2]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^6-2]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 [^6-3]: Introdotto dalla cifra I dell’O del 25 ott. 2023, in vigore dal 1° dic. 2023 ([RU 2023 636](https://fedlex.data.admin.ch/eli/oc/2023/636)).
-[^6-4]: [RS 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
+[^6-4]: [RS 831.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10007)
 [^6-5]: Nuovo testo giusta l’all. cifra II n. 11 dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)).
 
 #### Art. 7
@@ -114,20 +114,22 @@ In E-VERA sono trattati i dati delle persone seguenti:
 
 I seguenti servizi possono consultare mediante procedura di richiamo tutti i dati di cui all’allegato 1 per gli scopi indicati di seguito:
 
-- a. l’Organo per la protezione dei dati, trasparenza e sicurezza dell’informazione DFAE: per fornire informazioni su richiesta nel proprio ambito di competenza;
+- a.[^7-2] la Divisione Protezione dei dati, sicurezza delle informazioni e accesso alle informazioni DFAE: per fornire informazioni su richiesta nel proprio ambito di competenza;
 - b. la Revisione interna DFAE: per preparare e svolgere audit presso rappresentanze all’estero;
-- c. il Centro di gestione delle crisi DFAE: per localizzare rapidamente i cittadini svizzeri nelle situazioni di crisi;
+- c.[^7-3] …
 - d. l’Ufficio passaporti DFAE: per rintracciare i titolari di passaporti diplomatici o di servizio all’estero;
 - e. la CSC: per adempiere i compiti previsti dalla legge nell’ambito dell’assicurazione per la vecchiaia e per i superstiti e dell’assicurazione per l’invalidità;
-- f. l’UCC: per assegnare il numero AVS[^7-2].
+- f. l’UCC: per assegnare il numero AVS[^7-4].
 
 <sup>4</sup> L’unità Informatica DFAE dispone dei diritti di accesso necessari per adempiere i propri compiti.
 
-<sup>5</sup> Le autorità competenti per il catalogo elettorale dispongono, per lo sportello online, dei diritti di accesso necessari a ricevere le notifiche concernenti cambiamenti relativi al diritto di voto.[^7-3]
+<sup>5</sup> Le autorità competenti per il catalogo elettorale dispongono, per lo sportello online, dei diritti di accesso necessari a ricevere le notifiche concernenti cambiamenti relativi al diritto di voto.[^7-5]
 
 [^7-1]: Nuovo testo giusta la cifra I dell’O del 25 ott. 2023, in vigore dal 1° dic. 2023 ([RU 2023 636](https://fedlex.data.admin.ch/eli/oc/2023/636)).
-[^7-2]: Nuova espr. giusta l’all. cifra II n. 11 dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)). Di detta mod. é tenuto conto unicamente nelle disp. menzionate nella RU.
-[^7-3]: Introdotto dalla cifra I dell’O del 25 ott. 2023, in vigore dal 1° dic. 2023 ([RU 2023 636](https://fedlex.data.admin.ch/eli/oc/2023/636)).
+[^7-2]: Nuovo testo giusta la cifra II n. 1 dell’O dell’11 feb. 2026, in vigore dal 1° apr. 2026 ([RU 2026 93](https://fedlex.data.admin.ch/eli/oc/2026/93)).
+[^7-3]: Abrogata dalla cifra II n. 1 dell’O dell’11 feb. 2026, con effetto dal 1° apr. 2026 ([RU 2026 93](https://fedlex.data.admin.ch/eli/oc/2026/93)).
+[^7-4]: Nuova espr. giusta l’all. cifra II n. 11 dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)). Di detta mod. é tenuto conto unicamente nelle disp. menzionate nella RU.
+[^7-5]: Introdotto dalla cifra I dell’O del 25 ott. 2023, in vigore dal 1° dic. 2023 ([RU 2023 636](https://fedlex.data.admin.ch/eli/oc/2023/636)).
 
 #### Art. 8
 
@@ -148,8 +150,8 @@ I dati di cui all’allegato 1 vengono trasmessi automaticamente e in forma cifr
 <sup>4</sup> Le notifiche concernenti cambiamenti relativi al diritto di voto vengono trasmesse alle autorità competenti per il catalogo elettorale automaticamente e in forma cifrata oppure mediante lo sportello online.[^8-4]
 
 [^8-1]: Nuovo testo giusta l’all. 3 n. 4 dell’O del 30 apr. 2025 sulla statistica federale, in vigore dal 1° giu. 2025 ([RU 2025 318](https://fedlex.data.admin.ch/eli/oc/2025/318)).
-[^8-2]: [RS 431.011](https://fedlex.data.admin.ch/eli/cc/1993/2093_2093_2093)
-[^8-3]: [RS 431.021](https://fedlex.data.admin.ch/eli/cc/2007/868)
+[^8-2]: [RS 431.011](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6947)
+[^8-3]: [RS 431.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6951)
 [^8-4]: Introdotto dalla cifra I dell’O del 25 ott. 2023, in vigore dal 1° dic. 2023 ([RU 2023 636](https://fedlex.data.admin.ch/eli/oc/2023/636)).
 
 #### Art. 8a
@@ -212,7 +214,7 @@ I dati relativi a una persona vengono distrutti dopo cinque anni dalla registraz
 <sup>4</sup> I dati necessari per creare dossier personali elettronici nel sistema di gestione degli affari standardizzato GEVER sono trasmessi a GEVER mediante un’interfaccia.
 
 [^12-1]: Nuovo testo giusta la cifra I dell’O del 25 ott. 2023, in vigore dal 1° dic. 2023 ([RU 2023 636](https://fedlex.data.admin.ch/eli/oc/2023/636)).
-[^12-2]: [RS 852.12](https://fedlex.data.admin.ch/eli/cc/2021/396)
+[^12-2]: [RS 852.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10367)
 
 ## Sezione 4: Sicurezza dei dati
 
@@ -240,9 +242,9 @@ La sicurezza dei dati e delle informazioni è retta:[^14-1]
 
 [^14-1]: Nuovo testo giusta l’all. 2 cifra II n. 12 dell’O dell’8 nov. 2023 sulla sicurezza delle informazioni, in vigore dal 1° gen. 2024 ([RU 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
 [^14-2]: Nuovo testo giusta l’all. 2 cifra II n. 31 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
-[^14-3]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^14-3]: [RS 235.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5994)
 [^14-4]: Nuovo testo giusta l’all. 2 cifra II n. 12 dell’O dell’8 nov. 2023 sulla sicurezza delle informazioni, in vigore dal 1° gen. 2024 ([RU 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
-[^14-5]: [RS 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
+[^14-5]: [RS 128.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40166)
 [^14-6]: Abrogata dall’all. n. 12 dell’O del 24 feb. 2021, con effetto dal 1° apr. 2021 ([RU 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
 
 #### Art. 15
@@ -285,26 +287,34 @@ Allegato 1[^t-1]
 
 (art. 5 cpv. 2)
 
+<table>
+<tr><th colspan="2">Servizi con diritti di accesso / che ricevono i dati</th></tr>
+<tr><td>Rappresentanze</td><td>Rappresentanze svizzere all’estero</td></tr>
+<tr><td>DC</td><td>Direzione consolare</td></tr>
+<tr><td>PSA</td><td>Divisione Protezione dei dati, sicurezza delle informazioni e accesso alle informazioni DFAE</td></tr>
+<tr><td>RI</td><td>Revisione interna DFAE</td></tr>
+<tr><td>KMZ</td><td>Centro di gestione delle crisi</td></tr>
+<tr><td>CSC</td><td>Cassa svizzera di compensazione</td></tr>
+<tr><td>UCC</td><td>Ufficio centrale di compensazione</td></tr>
+<tr><td>UST</td><td>Ufficio federale di statistica</td></tr>
+</table>
+
 ## Diritti di trattamento
 
-[^t-1]: Nuovo testo giusta la cifra II dell’O del 25 ott. 2023, in vigore dal 1° dic. 2023 ([RU 2023 636](https://fedlex.data.admin.ch/eli/oc/2023/636)).
+[^t-1]: Nuovo testo giusta la cifra II dell’O del 25 ott. 2023 ([RU 2023 636](https://fedlex.data.admin.ch/eli/oc/2023/636)). Aggiornato dalla cifra II n. 1 dell’O dell’11 feb. 2026, in vigore dal 1° apr. 2026 ([RU 2026 93](https://fedlex.data.admin.ch/eli/oc/2026/93), [102](https://fedlex.data.admin.ch/eli/oc/2026/102)).
 
 Legenda:
 
 <table>
-<tr><th colspan="2">Servizi con diritti di accesso / che ricevono i dati</th><th></th><th colspan="2">Diritti di trattamento</th><th></th></tr>
-<tr><td>Rappresentanze</td><td colspan="2">Rappresentanze svizzere all’estero</td><td>A</td><td colspan="2">Diritti di trattamento completi</td></tr>
-<tr><td>DC</td><td colspan="2">Direzione consolare</td><td>B</td><td colspan="2">Diritto di lettura</td></tr>
-<tr><td>Organo</td><td colspan="2">Organo per la protezione dei dati, trasparenza e sicurezza dell’informazione DFAE</td><td>C</td><td colspan="2">Diritto di lettura e di richiesta</td></tr>
-<tr><td>RI</td><td colspan="2">Revisione interna DFAE</td><td>D</td><td colspan="2">Trasmissione cifrata dei dati</td></tr>
-<tr><td>KMZ</td><td colspan="2">Centro di gestione delle crisi</td><td></td><td colspan="2"></td></tr>
-<tr><td>CSC</td><td colspan="2">Cassa svizzera di compensazione</td><td></td><td colspan="2"></td></tr>
-<tr><td>UCC</td><td colspan="2">Ufficio centrale di compensazione</td><td></td><td colspan="2"></td></tr>
-<tr><td>UST</td><td colspan="2">Ufficio federale di statistica</td><td></td><td colspan="2"></td></tr>
+<tr><th colspan="2">Diritti di trattamento</th></tr>
+<tr><td>A</td><td>Diritti di trattamento completi</td></tr>
+<tr><td>B</td><td>Diritto di lettura</td></tr>
+<tr><td>C</td><td>Diritto di lettura e di richiesta</td></tr>
+<tr><td>D</td><td>Trasmissione cifrata dei dati</td></tr>
 </table>
 
 <table>
-<tr><th>Dati</th><th>Rappresentanze</th><th>DC</th><th>Organo</th><th>RI</th><th>KMZ</th><th>Ufficio passaporti DFAE</th><th>CSC</th><th>UCC</th><th>UST</th><th>Persone interessate (art. 5)</th></tr>
+<tr><th>Dati</th><th>Rappresentanze</th><th>DC</th><th>PSA</th><th>RI</th><th>KMZ</th><th>Ufficio passaporti DFAE</th><th>CSC</th><th>UCC</th><th>UST</th><th>Persone interessate (art. 5)</th></tr>
 <tr><td>Cognomi</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B/D</td><td>B/D</td><td>D</td><td>C</td></tr>
 <tr><td>Nomi</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B/D</td><td>B/D</td><td>D</td><td>C</td></tr>
 <tr><td>Data di nascita</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B/D</td><td>B/D</td><td>D</td><td>C</td></tr>

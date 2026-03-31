@@ -4,11 +4,11 @@ title: Ordonnance du 17 août 2016 sur le système d’information E-VERA
 short: O E-VERA
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/487"
 language: fr
-version: 2025-06-01
+version: 2026-04-01
 adopted: 2016-08-17
 in_force: 2016-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/487/20250601/fr/xml/fedlex-data-admin-ch-eli-cc-2016-487-20250601-fr-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/487/20250601/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/487/20260401/fr/xml/fedlex-data-admin-ch-eli-cc-2016-487-20260401-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/487/20260401/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/487/20250601/fr"
 
 (O E-VERA)
 
-du 17 août 2016 (État le 1<sup>er</sup> juin 2025)
+du 17 août 2016 (État le 1<sup>er</sup> avril 2026)
 
 Le Conseil fédéral suisse,
 
@@ -25,8 +25,8 @@ vu l’art. 29, al. 1, let. a, de la loi fédérale du 18 décembre 2020 sur le 
 
 arrête:
 
-[^ingress-1]: [RS 235.2](https://fedlex.data.admin.ch/eli/cc/2021/650)
-[^ingress-2]: [RS 195.1](https://fedlex.data.admin.ch/eli/cc/2015/653)
+[^ingress-1]: [RS 235.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6021)
+[^ingress-2]: [RS 195.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5690)
 [^ingress-3]: Nouvelle teneur selon le ch. I de l’O du 25 oct. 2023, en vigueur depuis le 1<sup>er</sup> déc. 2023 ([RO 2023 636](https://fedlex.data.admin.ch/eli/oc/2023/636)).
 
 ## Section 1 Dispositions générales
@@ -50,8 +50,8 @@ E-VERA permet au DFAE de remplir ses tâches consulaires au sein des représenta
 - e la gestion de crises et de catastrophes;
 - f. le concours prêté à la Caisse suisse de compensation (CSC) dans le cadre de l’assurance facultative conformément à l’art. 2 de la loi fédérale du 20 décembre 1946 sur l’assurance-vieillesse et survivants (LAVS)[^2-1] et à l’art. 3 de l’ordonnance du 26 mai 1961 concernant l’assurance-vieillesse, survivants et invalidité facultative (OAF)[^2-2].
 
-[^2-1]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
-[^2-2]: [RS 831.111](https://fedlex.data.admin.ch/eli/cc/1961/419_429_439)
+[^2-1]: [RS 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
+[^2-2]: [RS 831.111](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10019)
 
 #### Art. 3
 
@@ -98,9 +98,9 @@ Sont traitées dans E-VERA les données relatives aux personnnes ci‑après:
 <sup>3</sup> E-VERA vérifie par consultation en ligne si les personnes qui y sont saisies sont inscrites dans le système de recherches informatisées de police (RIPOL) en raison d’un crime ou d’un délit. Le résultat de la consultation n’est pas enregistré dans E‑VERA.
 
 [^6-1]: Introduit par le ch. I de l’O du 25 oct. 2023, en vigueur depuis le 1<sup>er</sup> déc. 2023 ([RO 2023 636](https://fedlex.data.admin.ch/eli/oc/2023/636)).
-[^6-2]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^6-2]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 [^6-3]: Introduit par le ch. I de l’O du 25 oct. 2023, en vigueur depuis le 1<sup>er</sup> déc. 2023 ([RO 2023 636](https://fedlex.data.admin.ch/eli/oc/2023/636)).
-[^6-4]: [RS 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
+[^6-4]: [RS 831.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10007)
 [^6-5]: Nouvelle teneur selon l’annexe ch. II 11 de l’O du 17 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)).
 
 #### Art. 7
@@ -115,19 +115,21 @@ Sont traitées dans E-VERA les données relatives aux personnnes ci‑après:
 
 Les services énumérés ci-après peuvent consulter en ligne les données mentionnées à l’annexe 1 pour les motifs suivants:
 
-- a. l’Organe pour la protection des données, la transparence et la sécurité de l’information DFAE: pour la fourniture de renseignements en réponse à des demandes concernant son domaine de compétence;
+- a.[^7-2] la division Protection des données, sécurité de l’information et accès à l’information DFAE: pour la fourniture de renseignements en réponse à des demandes concernant son domaine de compétence;
 - b. l’Audit interne DFAE: pour la préparation et la réalisation d’audits dans les représentations à l’étranger;
-- c. le Centre de gestion des crises du DFAE: pour la localisation rapide de ressortissants suisses dans les situations de crise;
+- c.[^7-3] …
 - d. le Bureau des passeports DFAE: pour l’identification des titulaires de passeports diplomatiques ou de service à l’étranger;
 - e. la CSC: pour l’accomplissement des tâches prévues par la loi dans le domaine de l’AVS/AI;
 - f. la CdC: pour l’attribution du numéro AVS.
 
 <sup>4</sup> L’unité Informatique DFAE dispose des droits d’accès nécessaires à l’accomplissement de ses tâches.
 
-<sup>5</sup> Les autorités responsables du registre électoral disposent des droits nécessaires pour obtenir, sur le guichet en ligne, les annonces relatives aux changements concernant le droit de vote.[^7-2]
+<sup>5</sup> Les autorités responsables du registre électoral disposent des droits nécessaires pour obtenir, sur le guichet en ligne, les annonces relatives aux changements concernant le droit de vote.[^7-4]
 
 [^7-1]: Nouvelle teneur selon le ch. I de l’O du 25 oct. 2023, en vigueur depuis le 1<sup>er</sup> déc. 2023 ([RO 2023 636](https://fedlex.data.admin.ch/eli/oc/2023/636)).
-[^7-2]: Introduit par le ch. I de l’O du 25 oct. 2023, en vigueur depuis le 1<sup>er</sup> déc. 2023 ([RO 2023 636](https://fedlex.data.admin.ch/eli/oc/2023/636)).
+[^7-2]: Nouvelle teneur selon le ch. II 1 de l’O du 11 fév. 2026, en vigueur depuis le 1<sup>er</sup> avr. 2026 ([RO 2026 93](https://fedlex.data.admin.ch/eli/oc/2026/93)).
+[^7-3]: Abrogée par le ch. II 1 de l’O du 11 fév. 2026, avec effet au 1<sup>er</sup> avr. 2026 ([RO 2026 93](https://fedlex.data.admin.ch/eli/oc/2026/93)).
+[^7-4]: Introduit par le ch. I de l’O du 25 oct. 2023, en vigueur depuis le 1<sup>er</sup> déc. 2023 ([RO 2023 636](https://fedlex.data.admin.ch/eli/oc/2023/636)).
 
 #### Art. 8
 
@@ -148,8 +150,8 @@ Les données mentionnées à l’annexe 1 sont transmises automatiquement et sou
 <sup>4</sup> Les annonces relatives aux changements concernant le droit de vote sont transmises de manière automatique et chiffrée aux autorités responsables du registre électoral, ou mises à leur disposition au moyen du guichet en ligne.[^8-4]
 
 [^8-1]: Nouvelle teneur selon l’annexe 3 ch. 4 de l’O du 30 avr. 2025 sur la statistique fédérale, en vigueur depuis le 1<sup>er</sup> juin 2025 ([RO 2025 318](https://fedlex.data.admin.ch/eli/oc/2025/318)).
-[^8-2]: [RS 431.011](https://fedlex.data.admin.ch/eli/cc/1993/2093_2093_2093)
-[^8-3]: [RS 431.021](https://fedlex.data.admin.ch/eli/cc/2007/868)
+[^8-2]: [RS 431.011](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6947)
+[^8-3]: [RS 431.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6951)
 [^8-4]: Introduit par le ch. I de l’O du 25 oct. 2023, en vigueur depuis le 1<sup>er</sup> déc. 2023 ([RO 2023 636](https://fedlex.data.admin.ch/eli/oc/2023/636)).
 
 #### Art. 8a
@@ -212,7 +214,7 @@ Les données relatives à une personne sont détruites cinq ans après la saisie
 <sup>4</sup> Les données nécessaires à la création de dossiers personnels électroniques dans le système standardisé de gestion des affaires GEVER sont transmises au système au moyen d’une interface.
 
 [^12-1]: Nouvelle teneur selon le ch. I de l’O du 25 oct. 2023, en vigueur depuis le 1<sup>er</sup> déc. 2023 ([RO 2023 636](https://fedlex.data.admin.ch/eli/oc/2023/636)).
-[^12-2]: [RS 852.12](https://fedlex.data.admin.ch/eli/cc/2021/396)
+[^12-2]: [RS 852.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10367)
 
 ## Section 4 Sécurité des données
 
@@ -240,9 +242,9 @@ La sécurité des données et la sécurité de l’information sont régies par:
 
 [^14-1]: Nouvelle teneur selon l’annexe 2 ch. II 12 de l’O du 8 nov. 2023 sur la sécurité de l’information, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
 [^14-2]: Nouvelle teneur selon l’annexe 2 ch. II 31 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
-[^14-3]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^14-3]: [RS 235.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5994)
 [^14-4]: Nouvelle teneur selon l’annexe 2 ch. II 12 de l’O du 8 nov. 2023 sur la sécurité de l’information, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
-[^14-5]: [RS 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
+[^14-5]: [RS 128.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40166)
 [^14-6]: Abrogée par l’annexe ch. 12 de l’O du 24 fév. 2021, avec effet au 1<sup>er</sup> avr. 2021 ([RO 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
 
 #### Art. 15
@@ -287,25 +289,32 @@ Annexe 1[^t-1]
 
 ## Droits de traitement
 
-[^t-1]: Nouvelle teneur selon le ch. II de l’O du 25 oct. 2023, en vigueur depuis le 1<sup>er</sup> déc. 2023 ([RO 2023 636](https://fedlex.data.admin.ch/eli/oc/2023/636)).
+[^t-1]: Nouvelle teneur selon le ch. II de l’O du 25 oct. 2023 ([RO 2023 636](https://fedlex.data.admin.ch/eli/oc/2023/636)). Mise à jour par le ch. II 1 de l’O du 11 fév. 2026, en vigueur depuis le 1<sup>er</sup> avr. 2026 ([RO 2026 93](https://fedlex.data.admin.ch/eli/oc/2026/93), [102](https://fedlex.data.admin.ch/eli/oc/2026/102)).
 
 Explication des signes
 
 <table>
-<tr><th colspan="2">Bénéficiaires de droits d’accès / destinataires de données</th><th></th><th colspan="2">Droits de traitement</th><th></th></tr>
-<tr><td>Représentations</td><td colspan="2">Représentations suisses à l’étranger</td><td>A</td><td colspan="2">Tous les droits de traitement</td></tr>
-<tr><td>DC</td><td colspan="2">Direction consulaire</td><td>B</td><td colspan="2">Droit de lecture</td></tr>
-<tr><td>Organe</td><td colspan="2">Organe pour la protection des données, la transparence et la sécurité de l’information DFAE</td><td>C</td><td colspan="2">Droit de requête et droit de lecture</td></tr>
-<tr><td></td><td colspan="2">la transparence et la sécurité de l’information</td><td>D</td><td colspan="2">Transmission des données sous forme chiffrée</td></tr>
-<tr><td>AI</td><td colspan="2">Audit interne DFAE</td><td></td><td colspan="2"></td></tr>
-<tr><td>KMZ</td><td colspan="2">Centre de gestion des crises</td><td></td><td colspan="2"></td></tr>
-<tr><td>CSC</td><td colspan="2">Caisse suisse de compensation</td><td></td><td colspan="2"></td></tr>
-<tr><td>CdC</td><td colspan="2">Centrale de compensation</td><td></td><td colspan="2"></td></tr>
-<tr><td>OFS</td><td colspan="2">Office fédéral de la statistique</td><td></td><td colspan="2"></td></tr>
+<tr><th colspan="2">Bénéficiaires de droits d’accès / destinataires de données</th></tr>
+<tr><td>Représentations</td><td>Représentations suisses à l’étranger</td></tr>
+<tr><td>DC</td><td>Direction consulaire</td></tr>
+<tr><td>PSA</td><td>Division Protection des données, sécurité de l’information et accès à l’information DFAE</td></tr>
+<tr><td>AI</td><td>Audit interne DFAE</td></tr>
+<tr><td>KMZ</td><td>Centre de gestion des crises</td></tr>
+<tr><td>CSC</td><td>Caisse suisse de compensation</td></tr>
+<tr><td>CdC</td><td>Centrale de compensation</td></tr>
+<tr><td>OFS</td><td>Office fédéral de la statistique</td></tr>
 </table>
 
 <table>
-<tr><th>Données</th><th>Représentations</th><th>DC</th><th>Organe</th><th>AI</th><th>KMZ</th><th>Bureau des passeports DFAE</th><th>CSC</th><th>CdC</th><th>OFS</th><th>Personnes concernées (art. 5)</th></tr>
+<tr><th colspan="2">Droits de traitement</th></tr>
+<tr><td>A</td><td>Tous les droits de traitement</td></tr>
+<tr><td>B</td><td>Droit de lecture</td></tr>
+<tr><td>C</td><td>Droit de requête et droit de lecture</td></tr>
+<tr><td>D</td><td>Transmission des données sous forme chiffrée</td></tr>
+</table>
+
+<table>
+<tr><th>Données</th><th>Représentations</th><th>DC</th><th>PSA</th><th>AI</th><th>KMZ</th><th>Bureau des passeports DFAE</th><th>CSC</th><th>CdC</th><th>OFS</th><th>Personnes concernées (art. 5)</th></tr>
 <tr><td>Nom</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B / D</td><td>B / D</td><td>D</td><td>C</td></tr>
 <tr><td>Prénom</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B / D</td><td>B / D</td><td>D</td><td>C</td></tr>
 <tr><td>Date de naissance</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B / D</td><td>B / D</td><td>D</td><td>C</td></tr>

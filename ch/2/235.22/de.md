@@ -4,11 +4,11 @@ title: "Verordnung vom 17. August 2016 über das Informationssystem E-VERA (Vero
 short: VEVERA
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/487"
 language: de
-version: 2025-06-01
+version: 2026-04-01
 adopted: 2016-08-17
 in_force: 2016-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/487/20250601/de/xml/fedlex-data-admin-ch-eli-cc-2016-487-20250601-de-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/487/20250601/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/487/20260401/de/xml/fedlex-data-admin-ch-eli-cc-2016-487-20260401-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/487/20260401/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/487/20250601/de"
 
 (Verordnung E-VERA, VEVERA)
 
-vom 17. August 2016 (Stand am 1. Juni 2025)
+vom 17. August 2016 (Stand am 1. April 2026)
 
 Der Schweizerische Bundesrat,
 
@@ -25,8 +25,8 @@ gestützt auf Artikel 29 Absatz 1 Buchstabe a des Bundesgesetzes vom 18. Dezembe
 
 verordnet:
 
-[^ingress-1]: [SR 235.2](https://fedlex.data.admin.ch/eli/cc/2021/650)
-[^ingress-2]: [SR 195.1](https://fedlex.data.admin.ch/eli/cc/2015/653)
+[^ingress-1]: [SR 235.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6021)
+[^ingress-2]: [SR 195.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5690)
 [^ingress-3]: Fassung gemäss Ziff. I der V vom 25. Okt. 2023, in Kraft seit 1. Dez. 2023 ([AS 2023 636](https://fedlex.data.admin.ch/eli/oc/2023/636)).
 
 ## 1. Abschnitt: Allgemeine Bestimmungen
@@ -50,8 +50,8 @@ Das E-VERA dient dem EDA zur Erfüllung der konsularischen Aufgaben durch die sc
 - e die Bewältigung von Krisen und Katastrophen;
 - f. die Unterstützung der Schweizerischen Ausgleichskasse (SAK) im Rahmen der freiwilligen Versicherung nach Artikel 2 des Bundesgesetzes vom 20. Dezember 1946[^2-1] über die Alters- und Hinterlassenenversicherung (AHVG) und Artikel 3 der Verordnung vom 26. Mai 1961[^2-2] über die freiwillige Alters-, Hinterlassenen- und Invalidenversicherung.
 
-[^2-1]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
-[^2-2]: [SR 831.111](https://fedlex.data.admin.ch/eli/cc/1961/419_429_439)
+[^2-1]: [SR 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
+[^2-2]: [SR 831.111](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10019)
 
 #### Art. 3
 
@@ -98,9 +98,9 @@ Im E-VERA werden die Daten folgender Personen bearbeitet:
 <sup>3</sup> Das E-VERA überprüft mittels Online-Abfrage, ob im E-VERA erfasste Personen wegen eines Verbrechens oder Vergehens im automatisierten Polizeifahndungssystem (RIPOL) verzeichnet sind. Das Resultat der Abfrage wird im E-VERA nicht gespeichert.
 
 [^6-1]: Eingefügt durch Ziff. I der V vom 25. Okt. 2023, in Kraft seit 1. Dez. 2023 ([AS 2023 636](https://fedlex.data.admin.ch/eli/oc/2023/636)).
-[^6-2]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^6-2]: [SR 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 [^6-3]: Eingefügt durch Ziff. I der V vom 25. Okt. 2023, in Kraft seit 1. Dez. 2023 ([AS 2023 636](https://fedlex.data.admin.ch/eli/oc/2023/636)).
-[^6-4]: [SR 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
+[^6-4]: [SR 831.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10007)
 [^6-5]: Fassung gemäss Anhang Ziff. II 11 der V vom 17. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)).
 
 #### Art. 7
@@ -115,20 +115,22 @@ Im E-VERA werden die Daten folgender Personen bearbeitet:
 
 Die folgenden Stellen können für die nachstehenden Zwecke die Daten nach Anhang 1 im Abrufverfahren einsehen:
 
-- a. die Fachstelle Datenschutz, Öffentlichkeitsprinzip und Informationssicherheit EDA: zur Erteilung von Auskünften bei Anfragen in ihrem Zuständigkeitsbereich;
+- a.[^7-2] die Abteilung Datenschutz, Informationssicherheit und Informationszugang des EDA: zur Erteilung von Auskünften bei Anfragen in ihrem Zuständigkeitsbereich;
 - b. die Interne Revision EDA: zur Vorbereitung und Durchführung von Audits auf Auslandvertretungen;
-- c. das Krisenmanagementzentrum des EDA: zur raschen Lokalisierung von Schweizer Bürgerinnen und Bürgern in Krisensituationen;
+- c.[^7-3] …
 - d. das Passbüro EDA: zum Auffinden von Inhaberinnen und Inhabern von Diplomaten- und Dienstpässen im Ausland;
 - e. die SAK: zur Erfüllung der gesetzlichen Aufgaben im Bereich der Alters- und Hinterlassenenversicherung sowie der Invalidenversicherung;
-- f. die ZAS: zur Zuweisung der AHV-Nummer[^7-2].
+- f. die ZAS: zur Zuweisung der AHV-Nummer[^7-4].
 
 <sup>4</sup> Die Einheit für Informatik des EDA verfügt über diejenigen Zugriffsrechte, die zur Erfüllung ihrer Aufgaben notwendig sind.
 
-<sup>5</sup> Die für das Stimmregister zuständigen Behörden verfügen für den Online-Schalter über diejenigen Zugriffsrechte, die für den Bezug von Meldungen zu Änderungen betreffend das Stimmrecht notwendig sind.[^7-3]
+<sup>5</sup> Die für das Stimmregister zuständigen Behörden verfügen für den Online-Schalter über diejenigen Zugriffsrechte, die für den Bezug von Meldungen zu Änderungen betreffend das Stimmrecht notwendig sind.[^7-5]
 
 [^7-1]: Fassung gemäss Ziff. I der V vom 25. Okt. 2023, in Kraft seit 1. Dez. 2023 ([AS 2023 636](https://fedlex.data.admin.ch/eli/oc/2023/636)).
-[^7-2]: Ausdruck gemäss Anhang Ziff. II 11 der V vom 17. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)). Diese Änd. wurde in den in der AS genannten Bestimmungen vorgenommen.
-[^7-3]: Eingefügt durch Ziff. I der V vom 25. Okt. 2023, in Kraft seit 1. Dez. 2023 ([AS 2023 636](https://fedlex.data.admin.ch/eli/oc/2023/636)).
+[^7-2]: Fassung gemäss Ziff. II 1 der V vom 11. Febr. 2026, in Kraft seit 1. April 2026 ([AS 2026 93](https://fedlex.data.admin.ch/eli/oc/2026/93)).
+[^7-3]: Aufgehoben durch Ziff. II 1 der V vom 11. Febr. 2026, mit Wirkung seit 1. April 2026 ([AS 2026 93](https://fedlex.data.admin.ch/eli/oc/2026/93)).
+[^7-4]: Ausdruck gemäss Anhang Ziff. II 11 der V vom 17. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)). Diese Änd. wurde in den in der AS genannten Bestimmungen vorgenommen.
+[^7-5]: Eingefügt durch Ziff. I der V vom 25. Okt. 2023, in Kraft seit 1. Dez. 2023 ([AS 2023 636](https://fedlex.data.admin.ch/eli/oc/2023/636)).
 
 #### Art. 8
 
@@ -149,8 +151,8 @@ Den folgenden Stellen werden die Daten nach Anhang 1 automatisch und verschlüss
 <sup>4</sup> Den für das Stimmregister zuständigen Behörden werden Meldungen zu Änderungen betreffend das Stimmrecht automatisch und verschlüsselt übermittelt oder über den Online-Schalter bereitgestellt.[^8-4]
 
 [^8-1]: Fassung gemäss Anhang 3 Ziff. 4 der Bundesstatistikverordnung vom 30. April 2025, in Kraft seit 1. Juni 2025 ([AS 2025 318](https://fedlex.data.admin.ch/eli/oc/2025/318)).
-[^8-2]: [SR 431.011](https://fedlex.data.admin.ch/eli/cc/1993/2093_2093_2093)
-[^8-3]: [SR 431.021](https://fedlex.data.admin.ch/eli/cc/2007/868)
+[^8-2]: [SR 431.011](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6947)
+[^8-3]: [SR 431.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6951)
 [^8-4]: Eingefügt durch Ziff. I der V vom 25. Okt. 2023, in Kraft seit 1. Dez. 2023 ([AS 2023 636](https://fedlex.data.admin.ch/eli/oc/2023/636)).
 
 #### Art. 8a
@@ -213,7 +215,7 @@ Fünf Jahre nach der Erfassung einer der folgenden Angaben, spätestens aber nac
 <sup>4</sup> Zur Erstellung elektronischer Personendossiers im standardisierten Geschäftsverwaltungssystem GEVER werden die erforderlichen Daten über eine Schnittstelle an GEVER übermittelt.
 
 [^12-1]: Fassung gemäss Ziff. I der V vom 25. Okt. 2023, in Kraft seit 1. Dez. 2023 ([AS 2023 636](https://fedlex.data.admin.ch/eli/oc/2023/636)).
-[^12-2]: [SR 852.12](https://fedlex.data.admin.ch/eli/cc/2021/396)
+[^12-2]: [SR 852.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10367)
 
 ## 4. Abschnitt: Datensicherheit
 
@@ -241,9 +243,9 @@ Die Informationssicherheit richtet sich nach:[^14-1]
 
 [^14-1]: Fassung gemäss Anhang 2 Ziff. II 12 der Informationssicherheitsverordnung vom 8. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
 [^14-2]: Fassung gemäss Anhang 2 Ziff. II 31 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
-[^14-3]: [SR 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^14-3]: [SR 235.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5994)
 [^14-4]: Fassung gemäss Anhang 2 Ziff. II 12 der Informationssicherheitsverordnung vom 8. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
-[^14-5]: [SR 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
+[^14-5]: [SR 128.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40166)
 [^14-6]: Aufgehoben durch Anhang Ziff. 12 der V vom 24. Febr. 2021, mit Wirkung seit 1. April 2021 ([AS 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
 
 #### Art. 15
@@ -288,25 +290,29 @@ Anhang 1[^t-1]
 
 ## Bearbeitungsrechte
 
-[^t-1]: Fassung gemäss Ziff. II der V vom 25. Okt. 2023, in Kraft seit 1. Dez. 2023 ([AS 2023 636](https://fedlex.data.admin.ch/eli/oc/2023/636)).
+[^t-1]: Fassung gemäss Ziff. II der V vom 25. Okt. 2023 ([AS 2023 636](https://fedlex.data.admin.ch/eli/oc/2023/636)). Bereinigt gemäss Ziff. II 1 der V vom 11. Febr. 2026, in Kraft seit 1. April 2026 ([AS 2026 93](https://fedlex.data.admin.ch/eli/oc/2026/93), [102](https://fedlex.data.admin.ch/eli/oc/2026/102)).
 
 Zeichenerklärung:
 
 <table>
-<tr><th colspan="2">Zugriffsberechtigte / Daten-empfangende Stellen</th><th></th><th colspan="2">Bearbeitungsrechte</th><th></th></tr>
-<tr><td>Vertretungen</td><td colspan="2">Schweizerische Vertretungen im Ausland</td><td>A</td><td colspan="2">Sämtliche Bearbeitungsrechte</td></tr>
-<tr><td>KD</td><td colspan="2">Konsularische Direktion</td><td>B</td><td colspan="2">Leserecht</td></tr>
-<tr><td>Fachstelle</td><td colspan="2">Fachstelle Datenschutz, Öffentlichkeitsprinzip</td><td>C</td><td colspan="2">Antrags- und Leserecht</td></tr>
-<tr><td></td><td colspan="2">und Informationssicherheit EDA</td><td>D</td><td colspan="2">Datenübermittlung verschlüsselt</td></tr>
-<tr><td>IR</td><td colspan="2">Interne Revision EDA</td><td></td><td colspan="2"></td></tr>
-<tr><td>KMZ</td><td colspan="2">Krisenmanagementzentrum</td><td></td><td colspan="2"></td></tr>
-<tr><td>SAK</td><td colspan="2">Schweizerische Ausgleichskasse</td><td></td><td colspan="2"></td></tr>
-<tr><td>ZAS</td><td colspan="2">Zentrale Ausgleichsstelle</td><td></td><td colspan="2"></td></tr>
-<tr><td>BFS</td><td colspan="2">Bundesamt für Statistik</td><td></td><td colspan="2"></td></tr>
+<tr><th colspan="2">Zugriffsberechtigte / Daten-empfangende Stellen</th><th colspan="2"></th></tr>
+<tr><td>Vertretungen</td><td colspan="3">Schweizerische Vertretungen im Ausland</td></tr>
+<tr><td>KD</td><td colspan="3">Konsularische Direktion</td></tr>
+<tr><td>DII</td><td colspan="3">Abteilung Datenschutz, Informationssicherheit und Informationszugang EDA</td></tr>
+<tr><td>IR</td><td colspan="3">Interne Revision EDA</td></tr>
+<tr><td>KMZ</td><td colspan="3">Krisenmanagementzentrum</td></tr>
+<tr><td>SAK</td><td colspan="3">Schweizerische Ausgleichskasse</td></tr>
+<tr><td>ZAS</td><td colspan="3">Zentrale Ausgleichsstelle</td></tr>
+<tr><td>BFS</td><td colspan="3">Bundesamt für Statistik</td></tr>
+<tr><th colspan="3">Bearbeitungsrechte</th><th></th></tr>
+<tr><td>A</td><td colspan="3">Sämtliche Bearbeitungsrechte</td></tr>
+<tr><td>B</td><td colspan="3">Leserecht</td></tr>
+<tr><td>C</td><td colspan="3">Antrags- und Leserecht</td></tr>
+<tr><td>D</td><td colspan="3">Datenübermittlung verschlüsselt</td></tr>
 </table>
 
 <table>
-<tr><th>Daten</th><th>Vertretungen</th><th>KD</th><th>Fachstelle</th><th>IR</th><th>KMZ</th><th>Passbüro EDA</th><th>SAK</th><th>ZAS</th><th>BFS</th><th>Betroffene Personen (Art. 5)</th></tr>
+<tr><th>Daten</th><th>Vertretungen</th><th>KD</th><th>DII</th><th>IR</th><th>KMZ</th><th>Passbüro EDA</th><th>SAK</th><th>ZAS</th><th>BFS</th><th>Betroffene Personen (Art. 5)</th></tr>
 <tr><td>Namen</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B/D</td><td>B/D</td><td>D</td><td>C</td></tr>
 <tr><td>Vornamen</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B/D</td><td>B/D</td><td>D</td><td>C</td></tr>
 <tr><td>Geburtsdatum</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B/D</td><td>B/D</td><td>D</td><td>C</td></tr>
