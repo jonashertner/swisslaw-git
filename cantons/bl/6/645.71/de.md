@@ -4,24 +4,30 @@ number: "645.71"
 title: Verordnung über die Schulbibliotheken
 short: Vo SB
 language: de
-version: 2006-08-01
-valid_until: 2026-03-31
-version_adopted: 2006-06-27
+version: 2026-04-01
+version_adopted: 2026-03-10
 adopted: 2026-03-10
 in_force: 2026-04-01
 url: "https://bl.clex.ch/app/de/texts_of_law/645.71"
-pdf: "https://bl.clex.ch/api/de/versions/203/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/4449/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die Schulbibliotheken
 
-Vom 27.06.2006 (Stand 01.08.2006)
+(Vo SB)
 
-Der Regierungsrat des Kantons Basel-Landschaft, gestützt auf § 74 Absatz 2 der Verfassung des Kantons Basel-Landschaft vom 17. Mai 1984[^ingress-1], beschliesst:
+Vom 10.03.2026 (Stand 01.04.2026)
 
-[^ingress-1]: GS 29.276, SGS 100
+Der Regierungsrat des Kantons Basel-Landschaft,
+
+gestützt auf § 74 Abs. 2 der Verfassung des Kantons Basel-Landschaft vom 17. Mai 1984[^ingress-1] sowie auf das Bildungsgesetz vom 6. Juni 2002[^ingress-2],
+
+beschliesst:
+
+[^ingress-1]: [SGS 100](https://bl.clex.ch/data/100/de/art74)
+[^ingress-2]: [SGS 640](https://bl.clex.ch/data/640/de)
 
 ## 1 Allgemeines
 
@@ -33,96 +39,100 @@ Der Regierungsrat des Kantons Basel-Landschaft, gestützt auf § 74 Absatz 2 der
 
 #### § 2
 
-**Auftrag**
+**Lesezentren**
 
-<sup>1</sup> Die Schulbibliotheken:
+<sup>1</sup> Die Schulbibliotheken auf der Sekundarstufe I können als Lesezentrum geführt werden.
 
-- a. unterstützen den Unterricht der Lehrerinnen und Lehrer;
-- b. fördern die Lesekompetenz, die Lesefreude und das selbstständige Arbeiten der Schülerinnen und Schüler;
-- c. helfen den Schülerinnen und Schülern sowie den Lehrerinnen und Lehrern, einen bewussten Umgang mit Information und verschiedenen Medien zu finden.
-
-<sup>2</sup> Die Schulbibliotheken arbeiten nach den Richtlinien für Schulbibliotheken der Schweizerischen Arbeitsgemeinschaft der allgemeinen öffentlichen Bibliotheken SAB.
+<sup>2</sup> Für Lesezentren auf der Sekundarstufe I erlässt das Amt für Volksschulen Weisungen.
 
 #### § 3
 
-**Rahmenbedingungen**
+**Auftrag**
 
-<sup>1</sup> Jede Schulanlage verfügt über eine Schulbibliothek für ihre Schülerinnen und Schüler, ihre Lehrerinnen und Lehrer und für das nichtunterrichtende Schulpersonal.
+<sup>1</sup> Die Schulbibliotheken erfüllen folgende Aufgaben:
 
-<sup>2</sup> Die Schulbibliotheken sind als Freihandbibliotheken organisiert.
+- a. Sie unterstützen als Lehr- und Lernort den Unterricht der Lehrerinnen und Lehrer.
+- b. Sie fördern die Lese- und Bibliothekskompetenz, die literarische Kompetenz, die Lesemotivation und das selbständige Arbeiten der Schülerinnen und Schüler.
+- c. Sie helfen Schülerinnen und Schülern sowie Lehrerinnen und Lehrern bei Fragen der Medien-, Informations- und Recherchekompetenz.
+- d. Sie dienen als partizipativer Aufenthaltsort.
 
-<sup>3</sup> Sie weisen in der Regel die Grösse eines Klassenzimmers auf.
-
-<sup>4</sup> In Schulanlagen mit drei oder weniger Klassen kann eine Kleinbibliothek geführt werden.
-
-## 2 Angebot, Dienstleistungen, Benutzung
+<sup>2</sup> Die Schulbibliotheken arbeiten nach den Richtlinien für Schulbibliotheken von Bibliosuisse.
 
 #### § 4
 
-**Buch- und Medienangebot**
+**Rahmenbedingungen**
 
-<sup>1</sup> Die Schulbibliotheken führen unterrichtsbezogene Angebote und bieten Unterhaltungs-, Berufs- und Schulwahlliteratur sowie Zeitschriften und Nachschlagewerke an.
+<sup>1</sup> Jede Schulanlage verfügt über eine Schulbibliothek für ihre Schülerinnen und Schüler und Mitarbeiterinnen und Mitarbeiter.
 
-<sup>2</sup> Das Angebot an Büchern und Nonbooks (audiovisuelle und elektronische Medien) pro Schülerin und Schüler umfasst in der Regel:
+<sup>2</sup> Bei Schulanlagen mit weniger als 4 Klassen kann auf das Führen einer Schulbibliothek verzichtet werden.
 
-- a. Sekundarstufe I: 10 Bücher, 2 Nonbooks
-- b. Sekundarstufe II: 20 Bücher, 4 Nonbooks
+<sup>3</sup> Die Schulbibliotheken sind als Freihandbibliotheken organisiert.
 
-<sup>3</sup> Jährlich sollen 10 Prozent des Buch- und Medienbestandes ausgeschieden und durch Neuanschaffungen ersetzt werden.
+<sup>4</sup> Sie weisen in der Regel mindestens die Grösse eines Klassenzimmers auf.
+
+## 2 Angebot, Dienstleistungen, Benutzung
 
 #### § 5
 
-**Dienstleistungen**
+**Medienangebot**
 
-<sup>1</sup> Die Schulbibliotheken erfassen ihre Buch- und Medienbestände in Katalogen, welche insbesondere für die Schülerinnen und Schüler zugänglich sind.
+<sup>1</sup> Die Schulbibliotheken bieten Zugang zu analogen und digitalen unterrichts- und berufswahlbezogenen Angeboten, zielgruppenorientierten Unterhaltungsmedien sowie zu Recherchedatenbanken an.
 
-<sup>2</sup> Sie bieten nach Möglichkeit Arbeits- und Leseplätze für eine ganze Schulklasse an. Davon ausgenommen sind Kleinbibliotheken.
+<sup>2</sup> Der Medienbestand der Schulbibliotheken richtet sich nach den Richtlinien für Schulbibliotheken von Bibliosuisse.
 
-<sup>3</sup> Sie ermöglichen einen Internetzugriff und durch diesen den Zugriff auf Angebote anderer Bibliotheken.
+<sup>3</sup> Jährlich werden 10 % des analogen Medienbestands ausgeschieden und durch Neuanschaffungen ersetzt.
+
+<sup>4</sup> Die Schulbibliotheken ermöglichen den Zugriff auf digitale Angebote anderer Bibliotheken.
 
 #### § 6
 
+**Weitere Dienstleistungen**
+
+<sup>1</sup> Die Schulbibliotheken erfassen ihre Medienbestände in Katalogen.
+
+<sup>2</sup> Sie bieten nach Möglichkeit Arbeits- und Leseplätze für eine ganze Schulklasse an.
+
+<sup>3</sup> Sie bieten bedarfsgerechte Einführungen sowie lehrplanbezogene Vermittlungsangebote an.
+
+#### § 7
+
 **Benutzung**
 
-<sup>1</sup> Die Schulbibliotheken können während der Unterrichtszeit von den Lehrerinnen und Lehrern mit ihren Schulklassen benutzt werden.
+<sup>1</sup> Die Schulbibliotheken der Sekundarstufe I sind werktags und ausserhalb der Schulferien mindestens während der grossen Pause geöffnet. Zusätzliche Öffnungszeiten, z. B. nach Unterrichtsschluss, sind anzustreben.
 
-<sup>2</sup> Die Schulbibliotheken der Sekundarstufe I sind täglich während der grossen Pause und soweit möglich auch nach Unterrichtsschluss zur Benutzung geöffnet.
+<sup>2</sup> Die Schulbibliotheken der Sekundarstufe II sind werktags und ausserhalb der Schulferien ganztägig geöffnet.
 
-<sup>3</sup> Die Schulbibliotheken der Sekundarstufe II sind sowohl während der Unterrichtszeit als auch über Mittag geöffnet.
+<sup>3</sup> Die Räume der Schulbibliotheken sind den Nutzerinnen und Nutzern während der Unterrichtszeiten jederzeit zugänglich.
 
-<sup>4</sup> Die Buch- und Medienausleihe ist für Schülerinnen und Schüler, Lehrerinnen und Lehrer sowie für das nichtunterrichtende Schulpersonal kostenlos.
+<sup>4</sup> Die Medienausleihe ist für alle Nutzerinnen und Nutzer kostenlos.
 
-<sup>5</sup> Zur Regelung der Benutzungsbedingungen erlässt die Schulleitung eine Benutzungsordnung.
+<sup>5</sup> Zur Regelung der weiteren Nutzungsbedingungen erlässt die Schulleitung eine Benutzungsordnung.
 
 ## 3 Aufsicht und Leitung
 
-#### § 7
+#### § 8
 
 **Aufsicht**
 
 <sup>1</sup> Die Schulbibliotheken unterstehen in personellen, organisatorischen und administrativen Belangen der Schulleitung.
 
-#### § 8
+#### § 9
 
 **Leitung**
 
-<sup>1</sup> Die Schulbibliotheken der Sekundarstufe I werden von Lehrerinnen und Lehrern geleitet, die den kantonalen Grundkurs für Schulbibliothekarinnen und Schulbibliothekare absolviert haben.
+<sup>1</sup> Die Schulbibliotheken der Sekundarstufe I, mit Ausnahme der Lesezentren, werden in der Regel von Lehrpersonen der entsprechenden Schule geleitet, die den kantonalen Grundkurs oder eine äquivalente Ausbildung absolviert haben.
 
-<sup>2</sup> Die Schulbibliothekarinnen und Schulbibliothekare besuchen regelmässig Fortbildungskurse.
+<sup>2</sup> Die Lesezentren der Sekundarstufe I und die Schulbibliotheken der Sekundarstufe II werden von Fachkräften mit einer bibliothekarischen und/oder medienpädagogischen Berufsausbildung geleitet.
 
-<sup>3</sup> Den Schulbibliothekarinnen und Schulbibliothekaren der Sekundarstufe I wird gemäss der Verordnung vom 15. März 2005[^8-1] über Schulvergütungen an den Schulen des Kantons Basel-Landschaft eine Vergütung oder eine Entlastung gewährt.
+<sup>3</sup> Die Schulbibliotheksverantwortlichen und die Leitungen der Lesezentren besuchen regelmässig Fortbildungskurse.
 
-<sup>4</sup> Die Schulbibliotheken der Sekundarstufe II werden von Fachkräften mit bibliothekarischer Berufsausbildung geführt.
-
-[^8-1]: GS 35.478, SGS 156.11
-
-#### § 9
+#### § 10
 
 **Beratung und Unterstützung**
 
-<sup>1</sup> Die Fachstelle Schulbibliotheken der Kantonsbibliothek (kurz: Fachstelle) und die Arbeitsgruppe Schulbibliotheken der kantonalen Bibliothekskommission bieten Schulleitungen, Schulräten, Gemeindebehörden sowie Leiterinnen und Leitern der Schulbibliotheken Beratung und Unterstützung an.
+<sup>1</sup> Die Fachstelle Schulbibliotheken der Kantonsbibliothek (kurz: Fachstelle) bietet Schulleitungen, Schulräten, Gemeindebehörden sowie Schulbibliotheksverantwortlichen Beratung und Unterstützung an.
 
-#### § 10
+#### § 11
 
 **Statistik**
 
@@ -130,32 +140,10 @@ Der Regierungsrat des Kantons Basel-Landschaft, gestützt auf § 74 Absatz 2 der
 
 ## 4 Finanzielles
 
-#### § 11
+#### § 12
 
 **Kosten**
 
-<sup>1</sup> Die Kosten für die Buch- und Medienanschaffungen der Schulbibliotheken der Sekundarstufe I werden durch Kantonsbeiträge gedeckt, die pro Schülerin und Schüler berechnet werden.
+<sup>1</sup> Die Kosten der Schulbibliotheken werden aus den Schulbudgets gedeckt.
 
-<sup>2</sup> Die Höhe des Beitrags pro Schülerin und Schüler wird durch den Regierungsrat im Rahmen des Budgets festgelegt.
-
-<sup>3</sup> Zusätzliche Beiträge für die Schulbibliotheken der Sekundarstufe I können bei der Fachstelle beantragt werden.
-
-<sup>4</sup> Die Kosten der Schulbibliotheken der Sekundarstufe II werden aus den Schulbudgets gedeckt.
-
-## 5 Schlussbestimmungen
-
-#### § 12
-
-**Aufhebung bisherigen Rechts**
-
-<sup>1</sup> Die Regierungsverordnung vom 27. März 1984[^12-1] über die Bibliotheken der vom Kanton geführten Schulen wird aufgehoben.
-
-[^12-1]: GS 28.535, SGS 645.71
-
-#### § 13
-
-**In-Kraft-Treten**
-
-<sup>1</sup> Diese Verordnung tritt am 1. August 2006 in Kraft.
-
-GS 35.0944
+2026.013
