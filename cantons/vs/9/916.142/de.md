@@ -4,13 +4,12 @@ number: "916.142"
 title: Verordnung über den Rebbau und den Wein
 short: VRW
 language: de
-version: 2022-07-01
-valid_until: 2026-03-31
-version_adopted: 2022-07-13
+version: 2026-04-01
+version_adopted: 2026-02-25
 adopted: 2004-03-17
 in_force: 2004-05-01
 url: "https://lex.vs.ch/app/de/texts_of_law/916.142"
-pdf: "https://lex.vs.ch/api/de/versions/3051/pdf_file"
+pdf: "https://lex.vs.ch/api/de/versions/3580/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://lex.vs.ch/api/de/versions/3051/pdf_file"
 
 (VRW)
 
-vom 17.03.2004 (Stand 01.07.2022)
+vom 17.03.2004 (Stand 01.04.2026)
 
 Der Staatsrat des Kantons Wallis
 
@@ -74,6 +73,7 @@ verordnet:
 - b) die Führung des Rebbaukatasters;
 - c) die Führung des Rebbergregisters in Zusammenarbeit mit den Gemeinden;
 - d) den Entscheid über phytosanitäre Massnahmen des Kantons und die Anwendung der phytosanitären Massnahmen des Bundes;
+- d<sup>bis</sup> die Bestandsaufnahme der aufgegebenen oder schlecht gepflegten Reben und die daraus resultierenden Entscheidungen bekannt zu geben;
 - e) die Anwendung der Bestimmungen über die Rebsorten und die Unterlagenhölzer;
 - f) die Sicherstellung der Beratung und der Kontrolle der umweltverträglichen Bewirtschaftungsmethoden;
 - g) die Erstellung und die Verteilung der Produktionsrechte (Bescheinungen);
@@ -211,9 +211,9 @@ verordnet:
 
 **Tafeltrauben**
 
-<sup>1</sup> Die Anpflanzung von Reben zur kommerziellen Produktion von Tafeltrauben wird nur auf Parzellen bewilligt, die ausserhalb der Rebbauzone liegen.
+<sup>1</sup> …
 
-<sup>2</sup> Die Dienststelle erstellt die Liste der Rebsorten für die Produktion von Tafeltrauben. Von dieser Liste sind Sorten, die für die Weinbereitung genehmigt sind, ausgeschlossen.
+<sup>2</sup> …
 
 <sup>3</sup> Der Chasselas (Gutedel) kann als Tafeltraube nur im Rebbaugebiet angepflanzt werden. Seine Anpflanzung ausserhalb dieser Zone ist verboten.
 
@@ -345,9 +345,11 @@ verordnet:
 
 #### Art. 21
 
-**Vernachlässigte oder aufgegebene Reben**
+**Aufgegebene oder schlecht gepflegte Reben**
 
-<sup>1</sup> Vernachlässigte oder aufgegebene Reben, die ein Pflanzenschutzrisiko für andere Reben darstellen, müssen im darauf folgenden Jahr vor dem Vegetationsbeginn verpachtet oder ausgerissen werden.
+<sup>1</sup> Reben, die am 30. April nicht geschnitten sind, gelten als aufgegeben. Die Feststellung ist Gegenstand eines Entscheids mit Verpflichtung zur Rodung innerhalb von 30 Tagen. Werden die Reben vor Ablauf der Frist für die Rodungspflicht geschnitten und wieder in Produktion genommen, so gelten sie im laufenden Jahr als schlecht gepflegt.
+
+<sup>2</sup> Reben, in denen die Hauptarbeiten (Foltern, Aufbinden), mit Ausnahme des Schneidens, nicht bis zum 30. Juni durchgeführt wurden, gelten als schlecht gepflegt. Die Feststellung ist Gegenstand einer Mitteilung an den Eigentümer.
 
 #### Art. 22
 
@@ -376,7 +378,7 @@ verordnet:
 <sup>4</sup> Geben kein Anrecht auf eine Bescheinigung:
 
 - a) die den gesetzlichen Anforderungen nicht entsprechenden Rebflächen;
-- b) die vernachlässigten oder derelinquierten Parzellen;
+- b) aufgegebene Rebenparzellen;
 - c) Rebberge, deren Anpflanzung gemäss Artikel 9 Absatz 4 bewilligt wurde.
 
 <sup>5</sup> In speziellen Fällen kann die Dienststelle für ein begründetes Gesuch ein Doppel der Bescheinigung ausstellen.
@@ -576,6 +578,8 @@ verordnet:
 
 <sup>1</sup> Die kontrollierte Ursprungsbezeichnung "AOC Wallis" wird nur Weinen zugeteilt, die aus Walliser AOC-Weinernten stammen und den Anforderungen, die in den Artikeln 41 und 43 vorgesehen sind, entsprechen.
 
+<sup>1<sup>bis</sup></sup> Die Bezeichnung AOC Wallis ist ausgeschlossen für Weine, die von Lesegut aus schlecht gepflegten Reben im Sinne von Artikel 21 stammen.
+
 <sup>2</sup> Sie wird für alle Rebsorten bei denen die Anpflanzung in den Artikeln 32 und 33 erlaubt ist, erteilt.
 
 <sup>3</sup> Schaum- und Perlweine mit der kontrollierten Ursprungsbezeichnung AOC Wallis sind das Erzeugnis aus Stillweinen, die alle Bestimmungen der Walliser AOC erfüllen.
@@ -647,9 +651,9 @@ verordnet:
 
 **Zuständigkeit der Branchenorganisation in Bezug auf den Ertrag**
 
-<sup>1</sup> Durch einen spätestens bis Ende Juni gefällten Entscheid kann die Branchenorganisation die Ertragsgrenzen bei der Kategorie AOC-Weine maximal um 0.2kg/m² Trauben anpassen, sofern die eidgenössischen Anforderungen eingehalten sind.
+<sup>1</sup> Durch einen spätestens bis Ende Juni gefällten Entscheid kann die Branchenorganisation die Ertragsgrenzen bei der Kategorie AOC-Weine maximal um 0,4kg/m² Trauben anpassen, sofern die eidgenössischen Anforderungen eingehalten sind.
 
-<sup>2</sup> Bei der Kategorie Landweine mit traditioneller Bezeichnung kann sie maximal um 0.3kg/m² Trauben herabsetzen.
+<sup>2</sup> Bei der Kategorie LW mit traditioneller Bezeichnung kann sie maximal um 0,6kg/m² Trauben herabsetzen.
 
 <sup>3</sup> Wenn sie die quantitative Ertragsgrenze der AOC-Weine herabsetzt, entscheidet die Branchenorganisation, in welcher anderen Weinklasse als AOC die Mengen zwischen der herabgesetzten und der gesetzlich festgelegten maximalen Ertragsgrenze klassiert werden.
 

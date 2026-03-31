@@ -4,13 +4,12 @@ number: "916.142"
 title: Ordonnance sur la vigne et le vin
 short: OVV
 language: fr
-version: 2022-07-01
-valid_until: 2026-03-31
-version_adopted: 2022-07-13
+version: 2026-04-01
+version_adopted: 2026-02-25
 adopted: 2004-03-17
 in_force: 2004-05-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/916.142"
-pdf: "https://lex.vs.ch/api/fr/versions/3051/pdf_file"
+pdf: "https://lex.vs.ch/api/fr/versions/3580/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://lex.vs.ch/api/fr/versions/3051/pdf_file"
 
 (OVV)
 
-du 17.03.2004 (état 01.07.2022)
+du 17.03.2004 (état 01.04.2026)
 
 Le Conseil d'Etat du canton du Valais
 
@@ -74,6 +73,7 @@ ordonne:
 - b) tenir le cadastre viticole;
 - c) tenir le registre des vignes, en collaboration avec les communes;
 - d) décider les mesures phytosanitaires cantonales et appliquer les mesures phytosanitaires fédérales;
+- d<sup>bis</sup> établir les constats des vignes abandonnées ou mal entretenues et prononcer les décisions consécutives à ceux-ci;
 - e) appliquer les dispositions relatives aux cépages et aux porte-greffes autorisés;
 - f) assurer la vulgarisation et le contrôle des méthodes de culture respectueuses de l'environnement;
 - g) établir et distribuer les droits de production (acquits);
@@ -211,9 +211,9 @@ ordonne:
 
 **Raisin de table**
 
-<sup>1</sup> La plantation de vignes destinées à la production commerciale de raisin de table n'est autorisée que sur des parcelles situées en dehors de l'aire vinicole.
+<sup>1</sup> …
 
-<sup>2</sup> Le service établit la liste des variétés destinées à la production de raisin de table. Celle-ci exclut expressément les cépages à raisin de cuve.
+<sup>2</sup> …
 
 <sup>3</sup> Le Chasselas ne peut être élaboré en raisin de table que dans les parcelles situées dans l'aire vinicole. Sa plantation est exclue en dehors de ce périmètre.
 
@@ -345,9 +345,11 @@ ordonne:
 
 #### Art. 21
 
-**Vignes mal entretenues ou laissées à l'abandon**
+**Vignes abandonnées ou mal entretenues**
 
-<sup>1</sup> Les vignes mal entretenues ou laissées à l'abandon et qui présentent un risque phytosanitaire pour d'autres vignes doivent être mises en fermage ou arrachées avant le départ de la végétation l'année qui suit la constatation.
+<sup>1</sup> Les vignes non taillées au 30 avril sont considérées comme abandonnées. Le constat fait l’objet d’une décision d’obligation d’arracher dans les 30 jours. Si la vigne est taillée et remise en production avant l'échéance du délai pour l'obligation d'arracher, elle est considérée pendant l'année en cours comme mal entretenue.
+
+<sup>2</sup> Les vignes dans lesquelles les principaux travaux (ébourgeonnage, palissage), hormis la taille, n’ont pas été effectués avant le 30 juin sont considérées comme mal entretenues. Le constat fait l’objet d’une notification au propriétaire.
 
 #### Art. 22
 
@@ -376,7 +378,7 @@ ordonne:
 <sup>4</sup> Ne donnent pas droit à un acquit:
 
 - a) les surfaces non conformes aux exigences légales;
-- b) les parcelles mal entretenues ou laissées à l'abandon;
+- b) les parcelles de vignes abandonnées;
 - c) les vignes dont la plantation a été autorisée en vertu de l'article 9 alinéa 4.
 
 <sup>5</sup> Dans les cas de rigueur, le service peut, sur requête dûment justifiée, délivrer un duplicata d'acquit.
@@ -576,6 +578,8 @@ ordonne:
 
 <sup>1</sup> L’appellation d’origine contrôlée "AOC Valais" est attribuée uniquement aux vins issus de vendanges valaisannes AOC répondant aux exigences prévues aux articles 41 et 43.
 
+<sup>1<sup>bis</sup></sup> L’appellation AOC Valais est exclue pour les vins issus de vendanges provenant de vignes mal entretenues au sens de l’article 21.
+
 <sup>2</sup> Elle est attribuée à tous les cépages dont la plantation est autorisée en Valais selon les articles 32 et 33.
 
 <sup>3</sup> Les vins mousseux, pétillants ou perlés, portant l'appellation AOC Valais sont élaborés à partir de vins tranquilles respectant tous les critères de l'AOC Valais.
@@ -647,9 +651,9 @@ ordonne:
 
 **Compétence de l'Interprofession en matière de rendement**
 
-<sup>1</sup> Par décision prise au plus tard à la fin juin, l'Interprofession peut modifier les limites quantitatives de production des vins AOC au maximum de 0.2kg/m² de raisins, dans la mesure où les exigences fédérales sont respectées.
+<sup>1</sup> Par décision prise au plus tard à la fin juin, l'Interprofession peut modifier les limites quantitatives de production des vins AOC au maximum de 0,4kg/m² de raisins, dans la mesure où les exigences fédérales sont respectées.
 
-<sup>2</sup> Pour les VDP avec dénomination traditionnelle, elle peut réduire les limites quantitatives de production au maximum de 0.3kg/m² de raisins.
+<sup>2</sup> Pour les VDP avec dénomination traditionnelle, elle peut réduire les limites quantitatives de production au maximum de 0,6kg/m² de raisins.
 
 <sup>3</sup> Lorsqu'elle réduit les limites quantitatives de production des vins AOC, l'Interprofession décide de la classe de vin autre que l'AOC dans laquelle seront inscrites les quantités comprises entre la limite abaissée et la limite maximale fixée par la législation.
 
