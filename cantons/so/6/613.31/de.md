@@ -3,20 +3,19 @@ canton: SO
 number: "613.31"
 title: Vollzugsverordnung zum Bundesgesetz über die direkte Bundessteuer
 language: de
-version: 2016-01-01
-valid_until: 2026-03-31
-version_adopted: 2015-08-31
+version: 2026-04-01
+version_adopted: 2026-02-24
 adopted: 1994-10-18
 in_force: 1995-01-01
 url: "https://bgs.so.ch/app/de/texts_of_law/613.31"
-pdf: "https://bgs.so.ch/api/de/versions/4438/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5630/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Vollzugsverordnung zum Bundesgesetz über die direkte Bundessteuer
 
-Vom 18.10.1994 (Stand 01.01.2016)
+Vom 18.10.1994 (Stand 01.04.2026)
 
 Der Regierungsrat des Kantons Solothurn
 
@@ -47,19 +46,19 @@ beschliesst:
 
 **Veranlagungsbehörden; Art. 104 DBG**
 
-<sup>1</sup> Die Veranlagungsbehörden nach § 121 des Gesetzes über die Staats- und Gemeindesteuern vom 1. Dezember 1985[^2-1] veranlagen die natürlichen Personen.
+<sup>1</sup> Die natürlichen Personen werden durch das Kantonale Steueramt veranlagt.
 
 <sup>2</sup> Die juristischen Personen werden durch das Kantonale Steueramt veranlagt.
 
 <sup>3</sup> Die übrigen Veranlagungen (Quellensteuer, Nachsteuern, Besteuerung nach dem Aufwand usw.) nimmt ebenfalls das Kantonale Steueramt vor.
 
-[^2-1]: BGS [614.11](https://bgs.so.ch/data/614.11/de).
-
 #### § 3
 
 **Hilfsorgane; Art. 122 DBG**
 
-<sup>1</sup> Die nach § 124 des Gesetzes über die Staats- und Gemeindesteuern gewählten Staatssteuerregisterführer und -führerinnen bereiten nach Weisung des Kantonalen Steueramtes und des Leiters oder der Leiterin der Veranlagungsbehörde die Veranlagung vor.
+<sup>1</sup> Die nach § 124 Gesetzes über die Staats- und Gemeindesteuern vom 1. Dezember 1985[^3-1] gewählten Staatssteuerregisterführerinnen und -führer bereiten nach Weisung des Kantonalen Steueramtes die Veranlagung vor.
+
+[^3-1]: BGS [614.11](https://bgs.so.ch/data/614.11/de).
 
 #### § 4
 
@@ -73,7 +72,9 @@ beschliesst:
 
 **Ausstand; Art. 109 DBG**
 
-<sup>1</sup> Über Ausstand und Ablehnung von Mitgliedern des Kantonalen Steuergerichts entscheidet das Gericht nach den §§ 94-100 des Gesetzes über die Gerichtsorganisation, über den Ausstand von Beamten und Angestellten des Kantonalen Steueramtes und der Veranlagungsbehörden das Finanzdepartement.
+<sup>1</sup> Über Ausstand und Ablehnung von Mitgliedern des Kantonalen Steuergerichts entscheidet das Gericht nach den §§ 94-100 des Gesetzes über die Gerichtsorganisation[^5-1], über den Ausstand von Beamten und Angestellten des Kantonalen Steueramtes das Finanzdepartement.
+
+[^5-1]: BGS [125.12](https://bgs.so.ch/data/125.12/de).
 
 #### § 6
 
@@ -85,9 +86,9 @@ beschliesst:
 
 #### § 7
 
-**Veranlagungskreise**
+**Veranlagungskreis**
 
-<sup>1</sup> Die Veranlagungskreise für die natürlichen Personen sind die vom Regierungsrat für die Veranlagung der Staats- und Gemeindesteuern bezeichneten Veranlagungskreise.
+<sup>1</sup> Veranlagungskreis für die natürlichen Personen ist der Kanton Solothurn.
 
 <sup>2</sup> Veranlagungskreis für die juristischen Personen ist der Kanton.
 
@@ -177,7 +178,7 @@ beschliesst:
 
 **Eintrag im Grundbuch; Art. 172 DBG**
 
-<sup>1</sup> Die Zustimmung zur Eintragung des Erwerbers oder der Erwerberin als neuer Eigentümer oder neue Eigentümerin im Grundbuch, wenn der Veräusserer oder die Veräussererin ausschliesslich aufgrund von Grundbesitz steuerpflichtig ist, erteilt oder verweigert die zuständige Veranlagungsbehörde.
+<sup>1</sup> Die Zustimmung zur Eintragung des Erwerbers oder der Erwerberin als neuer Eigentümer oder neue Eigentümerin im Grundbuch, wenn die Veräusserin oder der Veräusserer ausschliesslich aufgrund von Grundbesitz steuerpflichtig ist, erteilt oder verweigert das Kantonale Steueramt.
 
 #### § 17
 
