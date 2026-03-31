@@ -4,11 +4,11 @@ title: Ordonnance du 15 décembre 1986 sur la protection contre le bruit (OPB)
 short: OPB
 eli: "https://fedlex.data.admin.ch/eli/cc/1987/338_338_338"
 language: fr
-version: 2025-01-01
+version: 2026-04-01
 adopted: 1986-12-15
 in_force: 1987-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-1987-338_338_338-20250101-fr-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1987/338_338_338/20250101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20260401/fr/xml/fedlex-data-admin-ch-eli-cc-1987-338_338_338-20260401-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1987/338_338_338/20260401/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1987/338_338_338/20250101/fr"
 
 (OPB)
 
-du 15 décembre 1986 (État le 1<sup>er</sup> janvier 2025)
+du 15 décembre 1986 (État le 1<sup>er</sup> avril 2026)
 
 Le Conseil fédéral suisse,
 
@@ -25,7 +25,7 @@ vu les art. 5, 12, al. 2, 13, al. 1, 16, al. 2, 19, 21, al. 2, 23, 39, al. 1, 40
 
 arrête:
 
-[^ingress-1]: [RS 814.01](https://fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122)
+[^ingress-1]: [RS 814.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9437)
 
 ## Chapitre 1 Dispositions générales
 
@@ -40,7 +40,7 @@ arrête:
 Elle régit:
 
 - a. la limitation des émissions de bruit extérieur produites par l’exploitation d’installations nouvelles ou existantes au sens de l’art. 7 de la loi;
-- b. la délimitation et l’équipement de zones à bâtir dans des secteurs exposés au bruit;
+- b.[^1-1] la délimitation de zones à bâtir et la modification de plans d’affectation dans des secteurs exposés au bruit;
 - c. l’attribution du permis de construire pour les bâtiments disposant de locaux à usage sensible au bruit et situés dans des secteurs exposés au bruit;
 - d. l’isolation contre le bruit extérieur et intérieur des nouveaux bâtiments disposant de locaux à usage sensible au bruit;
 - e. l’isolation contre le bruit extérieur des bâtiments existants disposant de locaux à usage sensible au bruit;
@@ -53,9 +53,10 @@ Elle ne régit pas:
 - a. la protection contre le bruit produit sur l’aire d’une exploitation, dans la mesure où il affecte les bâtiments d’exploitation et les appartements qui s’y trouvent;
 - b. la protection contre les infrasons et les ultrasons.
 
-<sup>4</sup> …[^1-1]
+<sup>4</sup> …[^1-2]
 
-[^1-1]: Abrogé par le ch. I de l’O du 12 avr. 2000, avec effet au 1<sup>er</sup> mai 2000 ([RO 2000 1388](https://fedlex.data.admin.ch/eli/oc/2000/218)).
+[^1-1]: Nouvelle teneur selon le ch. I de l’O du 25 fév. 2026, en vigueur depuis le 1<sup>er</sup> avr. 2026 ([RO 2026 114](https://fedlex.data.admin.ch/eli/oc/2026/114)).
+[^1-2]: Abrogé par le ch. I de l’O du 12 avr. 2000, avec effet au 1<sup>er</sup> mai 2000 ([RO 2000 1388](https://fedlex.data.admin.ch/eli/oc/2000/218)).
 
 #### Art. 2
 
@@ -325,9 +326,9 @@ L’assainissement et les mesures d’isolation acoustique doivent avoir été m
 - c. pour les installations de tir civiles devant être assainies en vertu de la modification du 23 août 2006[^17-5] de l’annexe 7: au 1<sup>er</sup> novembre 2016;
 - d. pour les places d’armes, de tir et d’exercice militaires: au 31 juillet 2025.[^17-6]
 
-[^17-1]: [RS 725.116.2](https://fedlex.data.admin.ch/eli/cc/1985/834_834_834)
+[^17-1]: [RS 725.116.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8462)
 [^17-2]: Introduit par le ch. I de l’O du 1<sup>er</sup> sept. 2004, en vigueur depuis le 1<sup>er</sup> oct. 2004 ([RO 2004 4167](https://fedlex.data.admin.ch/eli/oc/2004/623)).
-[^17-3]: [RS 742.144](https://fedlex.data.admin.ch/eli/cc/2000/342)
+[^17-3]: [RS 742.144](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8764)
 [^17-4]: Introduit par le ch. I de l’O du 1<sup>er</sup> sept. 2004, en vigueur depuis le 1<sup>er</sup> oct. 2004 ([RO 2004 4167](https://fedlex.data.admin.ch/eli/oc/2004/623)).
 [^17-5]: [RO 2006 3693](https://fedlex.data.admin.ch/eli/oc/2006/562)
 [^17-6]: Introduit par le ch. I de l’O du 23 août 2006 ([RO 2006 3693](https://fedlex.data.admin.ch/eli/oc/2006/562)). Nouvelle teneur selon le ch. I de l’O du 30 juin 2010, en vigueur depuis le 1<sup>er</sup> août 2010 ([RO 2010 3223](https://fedlex.data.admin.ch/eli/oc/2010/433)).
@@ -399,7 +400,7 @@ La Confédération alloue des subventions en faveur de l’assainissement et des
 <sup>3</sup> …[^21-4]
 
 [^21-1]: Nouvelle teneur selon le ch. I de l’O du 21 fév. 2018, en vigueur depuis le 1<sup>er</sup> avr. 2018 ([RO 2018 965](https://fedlex.data.admin.ch/eli/oc/2018/137)).
-[^21-2]: [RS 725.116.2](https://fedlex.data.admin.ch/eli/cc/1985/834_834_834)
+[^21-2]: [RS 725.116.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8462)
 [^21-3]: Nouvelle teneur de la phrase selon le ch. I de l’O du 12 mai 2021, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2021 293](https://fedlex.data.admin.ch/eli/oc/2021/293)).
 [^21-4]: Introduit par le ch. I de l’O du 21 fév. 2018 ([RO 2018 965](https://fedlex.data.admin.ch/eli/oc/2018/137)). Abrogé par le ch. I de l’O du 12 mai 2021, avec effet au 1<sup>er</sup> juil. 2021 ([RO 2021 293](https://fedlex.data.admin.ch/eli/oc/2021/293)).
 
@@ -501,7 +502,7 @@ L’OFEV retient tout ou partie des paiements échelonnés, pendant la durée du
 
 <sup>4</sup> Si le canton n’exécute pas correctement la prestation malgré l’injonction de l’OFEV ou s’il renonce pas à la désaffectation ou ne l’annule pas, la restitution est régie par les art. 28 et 29 de la loi du 5 octobre 1990 sur les subventions (LSu)[^27-1].
 
-[^27-1]: [RS 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
+[^27-1]: [RS 616.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7794)
 
 #### Art. 28
 
@@ -511,21 +512,21 @@ Abrogé
 
 #### Art. 29
 
-**Délimitation de nouvelles zones à bâtir et de nouvelles zones requérant une protection accrue contre le bruit**
+**Délimitation de zones à bâtir et modification de plans d’affectation dans des secteurs exposés au bruit**[^29-1]
 
-<sup>1</sup> Les nouvelles zones à bâtir destinées à des bâtiments comprenant des locaux à usage sensible au bruit, et les nouvelles zones non constructibles qui requièrent une protection accrue contre le bruit, ne peuvent être délimitées qu’en des secteurs où les immissions de bruit ne dépassent pas les valeurs de planification ou en des secteurs dans lesquels des mesures de planification, d’aménagement ou de construction permettent de respecter ces valeurs.
+<sup>1</sup> Les valeurs limites d’exposition en vigueur peuvent être respectées au moyen de mesures de planification, d’aménagement ou de construction.
 
-<sup>2</sup> …[^29-1]
+<sup>2</sup> Les espaces ouverts visés à l’art. 24, al. 3, let. b, de la loi doivent avoir une taille appropriée et être accessibles à pied et sans obstacle. Leur aménagement et leurs infrastructures doivent servir à la détente.
 
-[^29-1]: Abrogé par le ch. I de l’O du 16 juin 1997, avec effet au 1<sup>er</sup> août 1997 ([RO 1997 1588](https://fedlex.data.admin.ch/eli/oc/1997/1588_1588_1588)).
+<sup>3</sup> Les mesures visées à l’art. 24, al. 3, let. c, de la loi doivent être fixées à l’échelon approprié. Elles garantissent une qualité de l’habitat appropriée du point de vue sonore si elles limitent les émissions de bruit ou réduisent de toute autre manière les atteintes au bien-être.
+
+[^29-1]: Nouvelle teneur selon le ch. I de l’O du 25 fév. 2026, en vigueur depuis le 1<sup>er</sup> avr. 2026 ([RO 2026 114](https://fedlex.data.admin.ch/eli/oc/2026/114)).
 
 #### Art. 30
 
-**Équipement des zones à bâtir**[^30-1]
+[^30-1]
 
-Les zones à bâtir destinées à des bâtiments comprenant des locaux à usage sensible au bruit, qui ne sont pas encore équipées au moment de l’entrée en vigueur de la loi, ne pourront être équipées que dans la mesure où les valeurs de planification sont respectées ou peuvent l’être par un changement du mode d’affectation ou par des mesures de planification, d’aménagement ou de construction. L’autorité d’exécution peut accorder des exceptions pour de petites parties de zones à bâtir.
-
-[^30-1]: Nouvelle teneur selon le ch. I de l’O du 30 juin 2010, en vigueur depuis le 1<sup>er</sup> août 2010 ([RO 2010 3223](https://fedlex.data.admin.ch/eli/oc/2010/433)).
+[^30-1]: Abrogé par le ch. I de l’O du 25 fév. 2026, avec effet au 1<sup>er</sup> avr. 2026 ([RO 2026 114](https://fedlex.data.admin.ch/eli/oc/2026/114)).
 
 #### Art. 31
 
@@ -538,35 +539,21 @@ Lorsque les valeurs limites d’immission sont dépassées, les nouvelles constr
 - a. la disposition des locaux à usage sensible au bruit sur le côté du bâtiment opposé au bruit, ou
 - b. des mesures de construction ou d’aménagement susceptibles de protéger le bâtiment contre le bruit.[^31-1]
 
-<sup>2</sup> Si les mesures fixées à l’al. 1 ne permettent pas de respecter les valeurs limites d’immission, le permis de construire ne sera délivré qu’avec l’assentiment de l’autorité cantonale et pour autant que l’édification du bâtiment présente un intérêt prépondérant.
+<sup>1bis</sup> La ventilation contrôlée des pièces d’habitation et les systèmes de refroidissement doivent correspondre à l’état de la technique.[^31-2]
+
+<sup>2</sup> Si les exigences fixées à l’art. 22, al. 2, let. a, de la loi ne peuvent pas être respectées pour le bruit aérien ou pour 10 % au plus des unités d’habitation de grands lotissements, le permis de construire ne sera délivré, à titre exceptionnel, qu’avec l’assentiment de l’autorité cantonale et pour autant que l’édification du bâtiment présente un intérêt prépondérant.[^31-3]
 
 <sup>3</sup> Le coût des mesures est à la charge des propriétaires du terrain.
 
 [^31-1]: Nouvelle teneur selon le ch. I de l’O du 16 juin 1997, en vigueur depuis le 1<sup>er</sup> août 1997 ([RO 1997 1588](https://fedlex.data.admin.ch/eli/oc/1997/1588_1588_1588)).
+[^31-2]: Introduit par le ch. I de l’O du 25 fév. 2026, en vigueur depuis le 1<sup>er</sup> avr. 2026 ([RO 2026 114](https://fedlex.data.admin.ch/eli/oc/2026/114)).
+[^31-3]: Nouvelle teneur selon le ch. I de l’O du 25 fév. 2026, en vigueur depuis le 1<sup>er</sup> avr. 2026 ([RO 2026 114](https://fedlex.data.admin.ch/eli/oc/2026/114)).
 
 #### Art. 31a
 
-**Dispositions spéciales concernant les aéroports où circulent de grands avions**[^31a-1]
+[^31a-1]
 
-<sup>1</sup>
-
-Pour les aéroports où circulent de grands avions, les valeurs limites de planification et les valeurs limites d’immissions selon l’annexe 5, ch. 222, pour les heures de la nuit sont considérées comme respectées si:
-
-- a. aucune opération de vol n’est prévue entre 24 et 6 heures;
-- b. les locaux à usage sensible au bruit bénéficient d’une isolation acoustique contre le bruit, extérieur et intérieur, répondant au moins aux exigences accrues de la norme SIA 181 du 1<sup>er</sup> juin 2006 de la Société suisse des ingénieurs et des architectes[^31a-2], et que
-- c.
-
-  les chambres à coucher:
-
-  - 1\. disposent d’une fenêtre qui se ferme automatiquement entre 22 et 24 heures et peut s’ouvrir automatiquement le reste du temps, et
-  - 2\. sont construites de manière à assurer un climat adéquat.
-
-<sup>2</sup> L’autorité chargée de la délimitation ou de l’équipement de zones à bâtir veille à ce que les exigences formulées à l’al. 1, let. b et c, soient contraignantes pour les propriétaires fonciers.
-
-<sup>3</sup> L’OFEV peut édicter des recommandations relatives à l’exécution de l’al. 1, let. c. Il y tient compte des normes techniques pertinentes.
-
-[^31a-1]: Introduit par le ch. I de l’O du 28 nov. 2014, en vigueur depuis le 1<sup>er</sup> fév. 2015 ([RO 2014 4501](https://fedlex.data.admin.ch/eli/oc/2014/751)).
-[^31a-2]: Cette norme peut être consultée gratuitement auprès de la Société suisse des ingénieurs et des architectes (SIA), Selnaustrasse 16, 8027 Zurich, ou être téléchargée contre paiement sur le site Internet [www.sia.ch](https://www.sia.ch)
+[^31a-1]: Introduit par le ch. I de l’O du 28 nov. 2014 ([RO 2014 4501](https://fedlex.data.admin.ch/eli/oc/2014/751)). Abrogé par le ch. I de l’O du 25 fév. 2026, avec effet au 1<sup>er</sup> avr. 2026 ([RO 2026 114](https://fedlex.data.admin.ch/eli/oc/2026/114)).
 
 ## Chapitre 6 Isolation acoustique des nouveaux bâtiments
 
@@ -576,11 +563,12 @@ Pour les aéroports où circulent de grands avions, les valeurs limites de plani
 
 <sup>1</sup> Le maître de l’ouvrage d’un nouveau bâtiment doit s’assurer que l’isolation acoustique des éléments extérieurs et des éléments de séparation des locaux à usage sensible au bruit, ainsi que des escaliers et des équipements, satisfont aux règles reconnues de la construction. Sont notamment applicables, contre le bruit des aérodromes civils où circulent de grands avions, les exigences renforcées, et contre le bruit des autres installations stationnaires, les exigences minimales selon la norme SIA 181 de l’Association suisse des ingénieurs et architectes.[^32-1]
 
-<sup>2</sup> Lorsque les valeurs limites d’immission sont dépassées et que les conditions fixées à l’art. 31, al. 2, pour l’attribution du permis de construire sont remplies, l’autorité d’exécution renforce dans une mesure appropriée les exigences posées en matière d’insonorisation des éléments extérieurs.
+<sup>2</sup> Lorsque les valeurs limites d’immission sont dépassées et que les conditions fixées à l’art. 22 de la loi pour l’attribution du permis de construire sont remplies, l’autorité d’exécution renforce dans une mesure appropriée les exigences posées en matière d’insonorisation des éléments extérieurs. Les coûts qui en résultent sont considérés comme appropriés s’ils s’élèvent à 1 % au plus des coûts du bâtiment.[^32-2]
 
 <sup>3</sup> Les exigences s’appliquent également aux éléments extérieurs, aux éléments de séparation, aux escaliers et aux équipements qui sont transformés, remplacés ou montés à neuf. Sur requête, l’autorité d’exécution accorde des allégements lorsque le respect des exigences est disproportionné.
 
 [^32-1]: Nouvelle teneur de la phrase selon le ch. I de l’O du 12 avr. 2000, en vigueur depuis le 1<sup>er</sup> mai 2000 ([RO 2000 1388](https://fedlex.data.admin.ch/eli/oc/2000/218)).
+[^32-2]: Nouvelle teneur selon le ch. I de l’O du 25 fév. 2026, en vigueur depuis le 1<sup>er</sup> avr. 2026 ([RO 2026 114](https://fedlex.data.admin.ch/eli/oc/2026/114)).
 
 #### Art. 33
 
@@ -600,11 +588,13 @@ Pour les aéroports où circulent de grands avions, les valeurs limites de plani
 
 Dans la demande de permis de construire, le maître de l’ouvrage doit indiquer:
 
-- a. le bruit extérieur, dans la mesure où les valeurs limites d’immission sont dépassées;
+- a.[^34-1] le bruit extérieur et les mesures fixées à l’art. 31, al. 1, qu’il a examinées, dans la mesure où les valeurs limites d’immission sont dépassées;
 - b. l’affectation des locaux;
 - c. les éléments extérieurs et les éléments de séparation des locaux à usage sensible au bruit.
 
 <sup>2</sup> Pour les projets de construction en des secteurs où les valeurs limites d’immission sont dépassées, l’autorité d’exécution peut requérir des renseignements sur l’isolation acoustique des éléments extérieurs.
+
+[^34-1]: Nouvelle teneur selon le ch. I de l’O du 25 fév. 2026, en vigueur depuis le 1<sup>er</sup> avr. 2026 ([RO 2026 114](https://fedlex.data.admin.ch/eli/oc/2026/114)).
 
 #### Art. 35
 
@@ -703,7 +693,10 @@ Les cadastres de bruit indiquent:
 
 <sup>3</sup> Dans les zones à bâtir non encore construites, les immissions de bruit seront déterminées là où, conformément au droit sur l’aménagement du territoire et des constructions, pourront être érigés des bâtiments comprenant des locaux à usage sensible au bruit.
 
+<sup>4</sup> Pour les espaces extérieurs utilisables de manière privée, les immissions de bruit seront déterminées à 1,5 m du sol de l’espace extérieur.[^39-2]
+
 [^39-1]: Erratum du 7 mai 2019 ([RO 2019 1337](https://fedlex.data.admin.ch/eli/oc/2019/259)).
+[^39-2]: Introduit par le ch. I de l’O du 25 fév. 2026, en vigueur depuis le 1<sup>er</sup> avr. 2026 ([RO 2026 114](https://fedlex.data.admin.ch/eli/oc/2026/114)).
 
 ### Section 2 Évaluation
 
@@ -730,7 +723,11 @@ Elles sont également valables:
 - a. dans les zones à bâtir non encore construites où, conformément au droit sur l’aménagement du territoire et des constructions, pourront être érigés des bâtiments comprenant des locaux à usage sensible au bruit;
 - b. sur le secteur non construit de zones qui requièrent une protection accrue contre le bruit.
 
+<sup>2bis</sup> Lors de l’attribution du permis de construire, les valeurs limites d’immission sont en outre valables sur la totalité de la surface des espaces extérieurs utilisables de manière privée visés à l’art. 22, al. 2, let. a, ch. 3, de la loi.[^41-1]
+
 <sup>3</sup> Pour les secteurs et bâtiments dans lesquels des personnes ne séjournent généralement que de jour ou de nuit, aucune valeur limite d’exposition ne s’appliquera pour la nuit ou le jour respectivement.
+
+[^41-1]: Introduit par le ch. I de l’O du 25 fév. 2026, en vigueur depuis le 1<sup>er</sup> avr. 2026 ([RO 2026 114](https://fedlex.data.admin.ch/eli/oc/2026/114)).
 
 #### Art. 42
 
@@ -755,7 +752,7 @@ Dans les zones d’affectation selon les art. 14 et suivants de la loi fédéral
 
 <sup>2</sup> On peut déclasser d’un degré les parties de zones d’affectation du degré de sensibilité I ou II, lorsqu’elles sont déjà exposées au bruit.
 
-[^43-1]: [RS 700](https://fedlex.data.admin.ch/eli/cc/1979/1573_1573_1573)
+[^43-1]: [RS 700](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8351)
 
 #### Art. 44
 
@@ -814,7 +811,7 @@ Sont tenus de veiller à l’exécution des prescriptions sur la limitation des 
 
   pour les installations électriques:
 
-  - 1\. l’Office fédéral de l’énergie, dans les cas où l’Inspection fédérale des installations à courant fort (ESTI) n’a pas réussi à régler les oppositions ou à supprimer les divergences entre autorités fédérales au sens de l’art. 16, al. 2, let. b, de la loi du 24 juin 1902 sur les installations électriques[^45-5],
+  - 1\. l’Office fédéral de l’énergie, dans les cas où l’Inspection fédérale des installations à courant fort ( ESTI ) n’a pas réussi à régler les oppositions ou à supprimer les divergences entre autorités fédérales au sens de l’art. 16, al. 2, let. b, de la loi du 24 juin 1902 sur les installations électriques[^45-5],
   - 2\. dans les autres cas, l’ESTI;
 
 - f. pour les installations à câbles au sens de l’art. 2 de la loi du 23 juin 2006 sur les installations à câbles[^45-6]: l’Office fédéral des transports.[^45-7]
@@ -825,10 +822,10 @@ Sont tenus de veiller à l’exécution des prescriptions sur la limitation des 
 
 [^45-1]: Nouvelle teneur selon le ch. II 14 de l’O du 2 fév. 2000 relative à la LF sur la coordination et la simplification des procédures de décision, en vigueur depuis le 1<sup>er</sup> mars 2000 ([RO 2000 703](https://fedlex.data.admin.ch/eli/oc/2000/121)).
 [^45-2]: Introduit par l’annexe 2 ch. 9 de l’O du 21 mai 2008 sur la géoinformation, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2809](https://fedlex.data.admin.ch/eli/oc/2008/389)).
-[^45-3]: [RS 742.101](https://fedlex.data.admin.ch/eli/cc/1958/335_341_347)
-[^45-4]: [RS 748.0](https://fedlex.data.admin.ch/eli/cc/1950/471_491_479)
-[^45-5]: [RS 734.0](https://fedlex.data.admin.ch/eli/cc/19/259_252_257)
-[^45-6]: [RS 743.01](https://fedlex.data.admin.ch/eli/cc/2006/853)
+[^45-3]: [RS 742.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8719)
+[^45-4]: [RS 748.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9033)
+[^45-5]: [RS 734.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8570)
+[^45-6]: [RS 743.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8834)
 [^45-7]: Nouvelle teneur selon le ch. I de l’O du 30 juin 2010, en vigueur depuis le 1<sup>er</sup> août 2010 ([RO 2010 3223](https://fedlex.data.admin.ch/eli/oc/2010/433)).
 [^45-8]: Introduit par le ch. I de l’O du 30 juin 2010, en vigueur depuis le 1<sup>er</sup> août 2010 ([RO 2010 3223](https://fedlex.data.admin.ch/eli/oc/2010/433)).
 
@@ -847,7 +844,7 @@ L’OFEV tient une vue d’ensemble nationale de l’exposition au bruit. Il pub
 L’OFEV prescrit les modèles de géodonnées et les modèles de représentation minimaux pour les géodonnées de base visées par la présente ordonnance, lorsqu’il est désigné comme service spécialisé de la Confédération dans l’annexe 1 de l’ordonnance du 21 mai 2008 sur la géoinformation[^46-2].
 
 [^46-1]: Nouvelle teneur selon l’annexe 2 ch. 9 de l’O du 21 mai 2008 sur la géoinformation, en vigueur depuis le 1<sup>er</sup> juil. 2008 ([RO 2008 2809](https://fedlex.data.admin.ch/eli/oc/2008/389)).
-[^46-2]: [RS 510.620](https://fedlex.data.admin.ch/eli/cc/2008/389)
+[^46-2]: [RS 510.620](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7339)
 
 ### Section 2 Dispositions transitoires
 
@@ -939,7 +936,7 @@ Annexe 2[^t-2]
 
 L’ordonnance du 15 février 2006 sur les instruments de mesure[^annex2-lvlu1-lvl2-1] et les dispositions d’exécution du Département fédéral de justice et police s’appliquent aux instruments de mesure des immissions de bruit.
 
-[^annex2-lvlu1-lvl2-1]: [RS 941.210](https://fedlex.data.admin.ch/eli/cc/2006/245)
+[^annex2-lvlu1-lvl2-1]: [RS 941.210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11180)
 
 Annexe 3
 
@@ -1168,13 +1165,13 @@ Pour le bruit causé par l’ensemble du trafic sur les aérodromes civils où c
 <tr><td colspan="4"><sup>1</sup> Les valeurs plus élevées sont applicables pour la première heure de la nuit (22 à 23 heures).</td></tr>
 </table>
 
-### 23 Valeurs limites d’exposition en <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20250101/fr/xml/image/image1.png)</sub>max
+### 23 Valeurs limites d’exposition en <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20260401/fr/xml/image/image1.png)</sub>max
 
-Pour le bruit causé par le trafic sur les aérodromes civils utilisés exclusivement par des hélicoptères (hélistations), les valeurs limites d’exposition suivantes, en <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20250101/fr/xml/image/image2.png)</sub>max, sont applicables en plus des valeurs limites d’exposition en Lr<sub>k</sub>:
+Pour le bruit causé par le trafic sur les aérodromes civils utilisés exclusivement par des hélicoptères (hélistations), les valeurs limites d’exposition suivantes, en <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20260401/fr/xml/image/image2.png)</sub>max, sont applicables en plus des valeurs limites d’exposition en Lr<sub>k</sub>:
 
 <table>
 <tr><td>Degré de sensibilité (art. 43)</td><td>Valeur de planification</td><td>Valeur limite d’immissions</td><td>Valeur d’alarme</td></tr>
-<tr><td></td><td><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20250101/fr/xml/image/image3.png)</sub>max en dB(A)</td><td><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20250101/fr/xml/image/image3.png)</sub>max en dB(A)</td><td><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20250101/fr/xml/image/image3.png)</sub>max en dB(A)</td></tr>
+<tr><td></td><td><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20260401/fr/xml/image/image3.png)</sub>max en dB(A)</td><td><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20260401/fr/xml/image/image3.png)</sub>max en dB(A)</td><td><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20260401/fr/xml/image/image3.png)</sub>max en dB(A)</td></tr>
 <tr><td>I</td><td>70</td><td>75</td><td>85</td></tr>
 <tr><td>II</td><td>75</td><td>80</td><td>90</td></tr>
 <tr><td>III</td><td>80</td><td>85</td><td>90</td></tr>
@@ -1244,11 +1241,11 @@ Lr<sub>n</sub> = Leq<sub>n</sub>
 
 <sup>3</sup> Les vols qui ont lieu après la deuxième (23 à 24 heures) et avant la dernière heure de la nuit (05 à 06 heures) sont attribués à la deuxième heure de la nuit (23 à 24 heures).
 
-### 5 Détermination du niveau de bruit maximum moyen <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20250101/fr/xml/image/image4.png)</sub>max pour les hélistations
+### 5 Détermination du niveau de bruit maximum moyen <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20260401/fr/xml/image/image4.png)</sub>max pour les hélistations
 
-<sup>1</sup> Pour les hélistations, le niveau de bruit maximum moyen <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20250101/fr/xml/image/image2.png)</sub>max est la moyenne énergétique du niveau de bruit maximum d’un nombre représentatif de survols ou de passages.
+<sup>1</sup> Pour les hélistations, le niveau de bruit maximum moyen <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20260401/fr/xml/image/image2.png)</sub>max est la moyenne énergétique du niveau de bruit maximum d’un nombre représentatif de survols ou de passages.
 
-<sup>2</sup> Pour déterminer <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20250101/fr/xml/image/image5.png)</sub>max, les mesures se feront avec les appareils réglés sur SLOW.
+<sup>2</sup> Pour déterminer <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20260401/fr/xml/image/image5.png)</sub>max, les mesures se feront avec les appareils réglés sur SLOW.
 
 Annexe 6[^t-4]
 
@@ -1287,7 +1284,7 @@ Annexe 6[^t-4]
 
 <sup>1</sup> Le niveau d’évaluation Lr pour le bruit de l’industrie, des arts et métiers et autres bruits semblables se calcule séparément pour le jour (7 à 19 h) et pour la nuit (19 à 7 h) à partir des niveaux d’évaluation partiels Lr,i de chaque phase de bruit:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20250101/fr/xml/image/image6.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20260401/fr/xml/image/image6.png)
 
 <sup>2</sup> Le niveau d’évaluation partiel Lr,i se calcule pour la durée moyenne journalière de la phase de bruit i comme il suit:
 
@@ -1367,7 +1364,7 @@ Annexe 7[^t-5]
 
 <sup>3</sup> Les installations de tir civiles sont réputées publiques dès qu’elles accueillent des exercices de tir selon les art. 62 et 63 de la loi du 3 février 1995 sur l’armée et l’administration militaire[^annex7-lvlu1-lvl1-1].
 
-[^annex7-lvlu1-lvl1-1]: [RS 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
+[^annex7-lvlu1-lvl1-1]: [RS 510.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7242)
 
 ### 2 Valeurs limites d’exposition
 
@@ -1382,7 +1379,7 @@ Annexe 7[^t-5]
 
 Aucune valeur d’alarme n’est valable pour le bruit des installations publiques selon le ch. 1, al. 3[^annex7-lvlu1-lvl2-1], où les catégories d’armes a ou b affichent une correction de niveau Ki &lt; –15. Pour ces installations, des mesures d’isolation acoustique au sens de l’art. 15 ne sont pas nécessaires. La correction de niveau Ki est calculée selon le ch. 321.
 
-[^annex7-lvlu1-lvl2-1]: Le renvoi a été adapté au 1<sup>er</sup> août 2010 en application de l’art. 12 al. 2 de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)).
+[^annex7-lvlu1-lvl2-1]: Le renvoi a été adapté au 1<sup>er</sup> août 2010 en application de l’art. 12 al. 2 de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)).
 
 ### 3 Détermination du niveau d’évaluation
 
@@ -1390,7 +1387,7 @@ Aucune valeur d’alarme n’est valable pour le bruit des installations publiqu
 
 <sup>1</sup> Le niveau d’évaluation Lr pour le bruit des installations de tir est la somme énergétique des niveaux d’évaluation partiels Lri des catégories d’armes:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20250101/fr/xml/image/image7.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20260401/fr/xml/image/image7.png)
 
 <sup>2</sup> Le niveau d’évaluation partiel Lri est la somme du niveau de bruit moyen d’un coup de feu Li d’une catégorie d’armes et de la correction de niveau Ki:
 
@@ -1398,7 +1395,7 @@ Lri = Li + Ki
 
 <sup>3</sup> Le niveau de bruit moyen d’un coup de feu Li est la moyenne énergétique, pondérée en fonction du nombre de coups de feu, des niveaux de bruit moyens des coups de feu Lj d’un type d’arme, respectivement d’un type de munition:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20250101/fr/xml/image/image8.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20260401/fr/xml/image/image8.png)
 
 <sup>4</sup> La moyenne énergétique du niveau de bruit d’un coup de feu Lj est déterminée au moyen de mesures du niveau maximal, pondéré A, avec la constante de temps FAST.
 

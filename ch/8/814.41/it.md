@@ -4,11 +4,11 @@ title: "Ordinanza del 15 dicembre 1986 contro l'inquinamento fonico (OIF)"
 short: OIF
 eli: "https://fedlex.data.admin.ch/eli/cc/1987/338_338_338"
 language: it
-version: 2025-01-01
+version: 2026-04-01
 adopted: 1986-12-15
 in_force: 1987-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20250101/it/xml/fedlex-data-admin-ch-eli-cc-1987-338_338_338-20250101-it-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1987/338_338_338/20250101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20260401/it/xml/fedlex-data-admin-ch-eli-cc-1987-338_338_338-20260401-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1987/338_338_338/20260401/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1987/338_338_338/20250101/it"
 
 (OIF)
 
-del 15 dicembre 1986 (Stato 1° gennaio 2025)
+del 15 dicembre 1986 (Stato 1° aprile 2026)
 
 Il Consiglio federale svizzero,
 
@@ -25,7 +25,7 @@ visti gli articoli 5, 12 capoverso 2, 13 capoverso 1, 16 capoverso 2, 19, 21 cap
 
 ordina:
 
-[^ingress-1]: [RS 814.01](https://fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122)
+[^ingress-1]: [RS 814.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9437)
 
 ## Capitolo 1: Disposizioni generali
 
@@ -40,7 +40,7 @@ ordina:
 Essa regola:
 
 - a. la limitazione delle emissioni foniche esterne prodotte dall’esercizio di impianti nuovi o esistenti ai sensi dell’articolo 7 della legge;
-- b. la delimitazione e l’urbanizzazione delle zone edificabili nelle zone esposte ai rumori;
+- b.[^1-1] la delimitazione delle zone edificabili e la modifica dei piani d’utilizzazione nelle zone esposte ai rumori;
 - c. il rilascio di autorizzazioni di costruire, in zone esposte ai rumori, edifici con locali sensibili al rumore;
 - d. l’isolamento contro i rumori esterni e interni nei nuovi edifici con locali sensibili al rumore;
 - e. l’isolamento contro i rumori esterni negli edifici esistenti con locali sensibili al rumore;
@@ -53,9 +53,10 @@ Essa non regola:
 - a. la protezione contro il rumore prodotto sull’area di un’azienda nella misura in cui colpisce l’edificio aziendale e le abitazioni annesse all’interno di detta area;
 - b. la protezione contro gli infrasuoni e gli ultrasuoni.
 
-<sup>4</sup> …[^1-1]
+<sup>4</sup> …[^1-2]
 
-[^1-1]: Abrogato dal n. I dell’O del 12 apr. 2000, con effetto dal 1° mag. 2000 ([RU 2000 1388](https://fedlex.data.admin.ch/eli/oc/2000/218)).
+[^1-1]: Nuovo testo giusta la cifra I dell’O del 25 feb. 2026, in vigore dal 1° apr. 2026 ([RU 2026 114](https://fedlex.data.admin.ch/eli/oc/2026/114)).
+[^1-2]: Abrogato dalla cifra I dell’O del 12 apr. 2000, con effetto dal 1° mag. 2000 ([RU 2000 1388](https://fedlex.data.admin.ch/eli/oc/2000/218)).
 
 #### Art. 2
 
@@ -126,8 +127,8 @@ Il Dipartimento federale dell’ambiente, dei trasporti, dell’energia e delle 
 - e. il controllo successivo;
 - f. il riconoscimento di risultati d’esame e di contrassegni esteri.
 
-[^5-1]: Nuovo testo giusta il n. I dell’O del 23 ago. 2006, in vigore dal 1° nov. 2006 ([RU 2006 3693](https://fedlex.data.admin.ch/eli/oc/2006/562)).
-[^5-2]: Nuovo testo giusta il n. I dell’O del 30 giu. 2010, in vigore dal 1° ago. 2010 ([RU 2010 3223](https://fedlex.data.admin.ch/eli/oc/2010/433)).
+[^5-1]: Nuovo testo giusta la cifra I dell’O del 23 ago. 2006, in vigore dal 1° nov. 2006 ([RU 2006 3693](https://fedlex.data.admin.ch/eli/oc/2006/562)).
+[^5-2]: Nuovo testo giusta la cifra I dell’O del 30 giu. 2010, in vigore dal 1° ago. 2010 ([RU 2010 3223](https://fedlex.data.admin.ch/eli/oc/2010/433)).
 
 #### Art. 6
 
@@ -135,7 +136,7 @@ Il Dipartimento federale dell’ambiente, dei trasporti, dell’energia e delle 
 
 L’Ufficio federale dell’ambiente (UFAM) emana direttive sui provvedimenti di costruzione e d’esercizio per limitare il rumore dei cantieri.
 
-[^6-1]: Nuovo testo giusta il n. I dell’O del 29 set. 2023, in vigore dal 1° nov. 2023 ([RU 2023 582](https://fedlex.data.admin.ch/eli/oc/2023/582)).
+[^6-1]: Nuovo testo giusta la cifra I dell’O del 29 set. 2023, in vigore dal 1° nov. 2023 ([RU 2023 582](https://fedlex.data.admin.ch/eli/oc/2023/582)).
 
 ## Capitolo 3: Impianti fissi nuovi o modificati
 
@@ -154,8 +155,8 @@ Le emissioni foniche di un impianto fisso nuovo devono essere limitate secondo l
 
 <sup>3</sup> Nel caso di pompe di calore aria-acqua nuove utilizzate prevalentemente per il riscaldamento di locali o di acqua potabile e le cui immissioni foniche non superano i valori di pianificazione, le ulteriori limitazioni delle emissioni di cui al capoverso 1 lettera a devono essere adottate solo se è possibile ottenere una limitazione delle emissioni di almeno 3 dB con al massimo l’1 per cento dei costi di investimento dell’impianto.[^7-2]
 
-[^7-1]: Nuovo testo giusta il n. I dell’O del 16 giu. 1997, in vigore dal 1° ago. 1997 ([RU 1997 1588](https://fedlex.data.admin.ch/eli/oc/1997/1588_1588_1588)).
-[^7-2]: Introdotto dal n. I dell’O del 29 set. 2023, in vigore dal 1° nov. 2023 ([RU 2023 582](https://fedlex.data.admin.ch/eli/oc/2023/582)).
+[^7-1]: Nuovo testo giusta la cifra I dell’O del 16 giu. 1997, in vigore dal 1° ago. 1997 ([RU 1997 1588](https://fedlex.data.admin.ch/eli/oc/1997/1588_1588_1588)).
+[^7-2]: Introdotto dalla cifra I dell’O del 29 set. 2023, in vigore dal 1° nov. 2023 ([RU 2023 582](https://fedlex.data.admin.ch/eli/oc/2023/582)).
 
 #### Art. 8
 
@@ -169,8 +170,8 @@ Le emissioni foniche di un impianto fisso nuovo devono essere limitate secondo l
 
 <sup>4</sup> Nel caso in cui un impianto fisso nuovo venga modificato, vale l’articolo 7.[^8-2]
 
-[^8-1]: Nuovo testo giusta il n. I dell’O del 30 giu. 2010, in vigore dal 1° ago. 2010 ([RU 2010 3223](https://fedlex.data.admin.ch/eli/oc/2010/433)).
-[^8-2]: Nuovo testo giusta il n. I dell’O del 16 giu. 1997, in vigore dal 1° ago. 1997 ([RU 1997 1588](https://fedlex.data.admin.ch/eli/oc/1997/1588_1588_1588)).
+[^8-1]: Nuovo testo giusta la cifra I dell’O del 30 giu. 2010, in vigore dal 1° ago. 2010 ([RU 2010 3223](https://fedlex.data.admin.ch/eli/oc/2010/433)).
+[^8-2]: Nuovo testo giusta la cifra I dell’O del 16 giu. 1997, in vigore dal 1° ago. 1997 ([RU 1997 1588](https://fedlex.data.admin.ch/eli/oc/1997/1588_1588_1588)).
 
 #### Art. 9
 
@@ -325,12 +326,12 @@ I risanamenti e i provvedimenti d’isolamento acustico devono essere realizzati
 - c. entro il 1° novembre 2016, per gli impianti di tiro civili per i quali vige l’obbligo di risanamento in base alla modifica del 23 agosto 2006[^17-5] dell’allegato 7;
 - d. entro il 31 luglio 2025, per le piazze d’armi, di tiro e d’esercizio militari.[^17-6]
 
-[^17-1]: [RS 725.116.2](https://fedlex.data.admin.ch/eli/cc/1985/834_834_834)
-[^17-2]: Introdotto dal n. I dell’O del 1° set. 2004, in vigore dal 1° ott. 2004 ([RU 2004 4167](https://fedlex.data.admin.ch/eli/oc/2004/623)).
-[^17-3]: [RS 742.144](https://fedlex.data.admin.ch/eli/cc/2000/342)
-[^17-4]: Introdotto dal n. I dell’O del 1° set. 2004, in vigore dal 1° ott. 2004 ([RU 2004 4167](https://fedlex.data.admin.ch/eli/oc/2004/623)).
+[^17-1]: [RS 725.116.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8462)
+[^17-2]: Introdotto dalla cifra I dell’O del 1° set. 2004, in vigore dal 1° ott. 2004 ([RU 2004 4167](https://fedlex.data.admin.ch/eli/oc/2004/623)).
+[^17-3]: [RS 742.144](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8764)
+[^17-4]: Introdotto dalla cifra I dell’O del 1° set. 2004, in vigore dal 1° ott. 2004 ([RU 2004 4167](https://fedlex.data.admin.ch/eli/oc/2004/623)).
 [^17-5]: [RU 2006 3693](https://fedlex.data.admin.ch/eli/oc/2006/562)
-[^17-6]: Introdotto dal n. I dell’O del 23 ago. 2006 ([RU 2006 3693](https://fedlex.data.admin.ch/eli/oc/2006/562)). Nuovo testo giusta il n. I dell’O del 30 giu. 2010, in vigore dal 1° ago. 2010 ([RU 2010 3223](https://fedlex.data.admin.ch/eli/oc/2010/433)).
+[^17-6]: Introdotto dalla cifra I dell’O del 23 ago. 2006 ([RU 2006 3693](https://fedlex.data.admin.ch/eli/oc/2006/562)). Nuovo testo giusta la cifra I dell’O del 30 giu. 2010, in vigore dal 1° ago. 2010 ([RU 2010 3223](https://fedlex.data.admin.ch/eli/oc/2010/433)).
 
 #### Art. 18
 
@@ -342,7 +343,7 @@ L’autorità esecutiva controlla, al più tardi un anno dopo l’esecuzione del
 
 [^19-1]
 
-[^19-1]: Abrogato dal n. I dell’O del 1° set. 2004, con effetto dal 1° ott. 2004 ([RU 2004 4167](https://fedlex.data.admin.ch/eli/oc/2004/623)).
+[^19-1]: Abrogato dalla cifra I dell’O del 1° set. 2004, con effetto dal 1° ott. 2004 ([RU 2004 4167](https://fedlex.data.admin.ch/eli/oc/2004/623)).
 
 #### Art. 20
 
@@ -374,14 +375,14 @@ Per le strade, l’UFAM chiede alle autorità esecutive di presentare, entro il 
 
 <sup>4</sup> L’UFAM valuta le informazioni raccolte, con particolare attenzione allo stato di avanzamento dei risanamenti, nonché all’efficacia dei provvedimenti e alle relative spese. Infine, comunica alle autorità esecutive i risultati della valutazione e li pubblica.
 
-[^20-1]: Nuovo testo giusta il n. I 14 dell’O del 7 nov. 2007 sulla Nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni, in vigore dal 1° gen. 2008 ([RU 2007 5823](https://fedlex.data.admin.ch/eli/oc/2007/789)).
-[^20-2]: Nuova espr. giusta il n. I dell’O del 29 set. 2023, in vigore dal 1° nov. 2023 ([RU 2023 582](https://fedlex.data.admin.ch/eli/oc/2023/582)). Di detta mod. é tenuto conto in tutto il presente testo.
+[^20-1]: Nuovo testo giusta la cifra I n. 14 dell’O del 7 nov. 2007 sulla Nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni, in vigore dal 1° gen. 2008 ([RU 2007 5823](https://fedlex.data.admin.ch/eli/oc/2007/789)).
+[^20-2]: Nuova espr. giusta la cifra I dell’O del 29 set. 2023, in vigore dal 1° nov. 2023 ([RU 2023 582](https://fedlex.data.admin.ch/eli/oc/2023/582)). Di detta mod. é tenuto conto in tutto il presente testo.
 
 ### Sezione 2: Sussidi federali per il risanamento e i provvedimenti d’isolamento acustico nel caso di strade principali e altre strade esistenti
 
 [^chap4-sec2-1]
 
-[^chap4-sec2-1]: Nuovo testo giusta il n. I 14 dell’O del 7 nov. 2007 sulla Nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni, in vigore dal 1° gen. 2008 ([RU 2007 5823](https://fedlex.data.admin.ch/eli/oc/2007/789)).
+[^chap4-sec2-1]: Nuovo testo giusta la cifra I n. 14 dell’O del 7 nov. 2007 sulla Nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni, in vigore dal 1° gen. 2008 ([RU 2007 5823](https://fedlex.data.admin.ch/eli/oc/2007/789)).
 
 #### Art. 21
 
@@ -398,10 +399,10 @@ La Confederazione accorda sussidi per risanamenti e provvedimenti d’isolamento
 
 <sup>3</sup> …[^21-4]
 
-[^21-1]: Nuovo testo giusta il n. I dell’O del 21 feb. 2018, in vigore dal 1° apr. 2018 ([RU 2018 965](https://fedlex.data.admin.ch/eli/oc/2018/137)).
-[^21-2]: [RS 725.116.2](https://fedlex.data.admin.ch/eli/cc/1985/834_834_834)
-[^21-3]: Nuovo testo giusta il n. I dell’O del 12 mag. 2021, in vigore dal 1° gen. 2025 ([RU 2021 293](https://fedlex.data.admin.ch/eli/oc/2021/293)).
-[^21-4]: Introdotto dal n. I dell’O del 21 feb. 2018 ([RU 2018 965](https://fedlex.data.admin.ch/eli/oc/2018/137)). Abrogato dal n. I dell’O del 12 mag. 2021, con effetto dal 1° lug. 2021 ([RU 2021 293](https://fedlex.data.admin.ch/eli/oc/2021/293)).
+[^21-1]: Nuovo testo giusta la cifra I dell’O del 21 feb. 2018, in vigore dal 1° apr. 2018 ([RU 2018 965](https://fedlex.data.admin.ch/eli/oc/2018/137)).
+[^21-2]: [RS 725.116.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8462)
+[^21-3]: Nuovo testo giusta la cifra I dell’O del 12 mag. 2021, in vigore dal 1° gen. 2025 ([RU 2021 293](https://fedlex.data.admin.ch/eli/oc/2021/293)).
+[^21-4]: Introdotto dalla cifra I dell’O del 21 feb. 2018 ([RU 2018 965](https://fedlex.data.admin.ch/eli/oc/2018/137)). Abrogato dalla cifra I dell’O del 12 mag. 2021, con effetto dal 1° lug. 2021 ([RU 2021 293](https://fedlex.data.admin.ch/eli/oc/2021/293)).
 
 #### Art. 22
 
@@ -417,8 +418,8 @@ La domanda deve contenere in particolare informazioni concernenti:
 - b. i provvedimenti di risanamento e d’isolamento acustico previsti e le relative spese;
 - c.[^22-2] l’efficacia perseguita con i provvedimenti di risanamento.
 
-[^22-1]: Abrogata dal n. I dell’O del 12 mag. 2021, con effetto dal 1° gen. 2025 ([RU 2021 293](https://fedlex.data.admin.ch/eli/oc/2021/293)).
-[^22-2]: Nuovo testo giusta il n. I dell’O del 12 mag. 2021, in vigore dal 1° gen. 2025 ([RU 2021 293](https://fedlex.data.admin.ch/eli/oc/2021/293)).
+[^22-1]: Abrogata dalla cifra I dell’O del 12 mag. 2021, con effetto dal 1° gen. 2025 ([RU 2021 293](https://fedlex.data.admin.ch/eli/oc/2021/293)).
+[^22-2]: Nuovo testo giusta la cifra I dell’O del 12 mag. 2021, in vigore dal 1° gen. 2025 ([RU 2021 293](https://fedlex.data.admin.ch/eli/oc/2021/293)).
 
 #### Art. 23
 
@@ -439,9 +440,9 @@ Oggetto dell’accordo programmatico sono in particolare:
 
 <sup>4</sup> L’UFAM emana direttive relative alla procedura in materia di accordi programmatici, nonché alle informazioni e ai documenti riguardanti l’oggetto dell’accordo programmatico.
 
-[^23-1]: Nuovo testo giusta il n. I dell’O del 12 mag. 2021, in vigore dal 1° gen. 2025 ([RU 2021 293](https://fedlex.data.admin.ch/eli/oc/2021/293)).
-[^23-2]: Introdotta dal n. I dell’O del 12 mag. 2021, in vigore dal 1° gen. 2025 ([RU 2021 293](https://fedlex.data.admin.ch/eli/oc/2021/293)).
-[^23-3]: Nuovo testo giusta il n. I dell’O del 21 feb. 2018, in vigore dal 1° apr. 2018 ([RU 2018 965](https://fedlex.data.admin.ch/eli/oc/2018/137)).
+[^23-1]: Nuovo testo giusta la cifra I dell’O del 12 mag. 2021, in vigore dal 1° gen. 2025 ([RU 2021 293](https://fedlex.data.admin.ch/eli/oc/2021/293)).
+[^23-2]: Introdotta dalla cifra I dell’O del 12 mag. 2021, in vigore dal 1° gen. 2025 ([RU 2021 293](https://fedlex.data.admin.ch/eli/oc/2021/293)).
+[^23-3]: Nuovo testo giusta la cifra I dell’O del 21 feb. 2018, in vigore dal 1° apr. 2018 ([RU 2018 965](https://fedlex.data.admin.ch/eli/oc/2018/137)).
 
 #### Art. 24
 
@@ -458,8 +459,8 @@ L’ammontare dei sussidi per i risanamenti è stabilito in base all’efficacia
 
 <sup>3</sup> L’ammontare dei sussidi è negoziato tra la Confederazione e il Cantone.
 
-[^24-1]: Nuovo testo giusta il n. I dell’O del 12 mag. 2021, in vigore dal 1° gen. 2025 ([RU 2021 293](https://fedlex.data.admin.ch/eli/oc/2021/293)).
-[^24-2]: Nuovo testo giusta il n. I dell’O del 12 mag. 2021, in vigore dal 1° gen. 2025 ([RU 2021 293](https://fedlex.data.admin.ch/eli/oc/2021/293)).
+[^24-1]: Nuovo testo giusta la cifra I dell’O del 12 mag. 2021, in vigore dal 1° gen. 2025 ([RU 2021 293](https://fedlex.data.admin.ch/eli/oc/2021/293)).
+[^24-2]: Nuovo testo giusta la cifra I dell’O del 12 mag. 2021, in vigore dal 1° gen. 2025 ([RU 2021 293](https://fedlex.data.admin.ch/eli/oc/2021/293)).
 
 #### Art. 24a e 24b
 
@@ -501,7 +502,7 @@ L’UFAM sospende totalmente o in parte i pagamenti rateali nel corso del progra
 
 <sup>4</sup> Se le lacune non sono colmate o la sottrazione allo scopo non cessa o non è annullata, la restituzione è retta dagli articoli 28 e 29 della legge del 5 ottobre 1990[^27-1] sui sussidi.
 
-[^27-1]: [RS 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
+[^27-1]: [RS 616.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7794)
 
 #### Art. 28
 
@@ -511,21 +512,21 @@ Abrogato
 
 #### Art. 29
 
-**Delimitazione di nuove zone edificabili e di nuove zone che richiedono una protezione fonica elevata**
+**Delimitazione di zone edificabili e modifica di piani d’utilizzazione in zone esposte ai rumori**[^29-1]
 
-<sup>1</sup> Le nuove zone edificabili destinate ad edifici con locali sensibili al rumore e le nuove zone non edificabili che richiedono una protezione fonica elevata possono essere delimitate solo nelle zone nelle quali le immissioni foniche non superano i valori di pianificazione o nelle quali tali valori possono essere rispettati grazie a misure di pianificazione, sistemazione o costruzione.
+<sup>1</sup> I valori limite d’esposizione determinanti possono essere rispettati mediante misure di pianificazione, sistemazione o costruzione.
 
-<sup>2</sup> …[^29-1]
+<sup>2</sup> Gli spazi liberi di cui all’articolo 24 capoverso 3 lettera b della legge devono essere di dimensioni adeguate, raggiungibili a piedi e senza ostacoli. La loro configurazione e infrastruttura devono essere destinate allo svago.
 
-[^29-1]: Abrogato dal n. I dell’O del 16 giu. 1997, con effetto dal 1° ago. 1997 ([RU 1997 1588](https://fedlex.data.admin.ch/eli/oc/1997/1588_1588_1588)).
+<sup>3</sup> Le misure di cui all’articolo 24 capoverso 3 lettera c della legge devono essere stabilite al livello opportuno. Le misure concorrono ad assicurare una qualità abitativa adeguata sotto il profilo acustico in quanto limitino le emissioni foniche o riducano in altro modo il disturbo del benessere.
+
+[^29-1]: Nuovo testo giusta la cifra I dell’O del 25 feb. 2026, in vigore dal 1° apr. 2026 ([RU 2026 114](https://fedlex.data.admin.ch/eli/oc/2026/114)).
 
 #### Art. 30
 
-**Urbanizzazione delle zone edificabili**[^30-1]
+[^30-1]
 
-Le zone edificabili destinate ad edifici con locali sensibili al rumore che al momento dell’entrata in vigore della legge non erano ancora urbanizzate possono essere urbanizzate solo nella misura in cui i valori di pianificazione sono rispettati oppure possono esserlo sia mediante il cambiamento della destinazione delle zone sia mediante misure di pianificazione, sistemazione o costruzione. L’autorità esecutiva può accordare delle eccezioni per piccole parti di zone edificabili.
-
-[^30-1]: Nuovo testo giusta il n. I dell’O del 30 giu. 2010, in vigore dal 1° ago. 2010 ([RU 2010 3223](https://fedlex.data.admin.ch/eli/oc/2010/433)).
+[^30-1]: Abrogato dalla cifra I dell’O del 25 feb. 2026, con effetto dal 1° apr. 2026 ([RU 2026 114](https://fedlex.data.admin.ch/eli/oc/2026/114)).
 
 #### Art. 31
 
@@ -538,35 +539,22 @@ Quando i valori limite d’immissione sono superati, la costruzione o la modific
 - a. grazie alla disposizione dei locali sensibili al rumore sul lato opposto dell’edificio rispetto al rumore stesso; oppure
 - b. grazie a misure di costruzione o di sistemazione che proteggano l’edificio dai rumori.[^31-1]
 
-<sup>2</sup> Se i provvedimenti di cui al capoverso 1 non permettono di rispettare i valori limite d’immissione, l’autorizzazione di costruire può essere accordata solo se esiste un interesse preponderante per la costruzione dell’edificio e se l’autorità cantonale è consenziente.
+<sup>1bis</sup> Gli impianti di ventilazione controllata dei locali abitativi e gli impianti di raffrescamento devono corrispondere allo stato della tecnica.[^31-2]
 
-<sup>3</sup> Le spese per detti provvedimenti sono a carico del proprietario del terreno.
+<sup>2</sup> Se il mancato rispetto delle esigenze di cui all’articolo 22 capoverso 2 lettera a della legge è dovuto al rumore prodotto da aeromobili o concerne al massimo il dieci per cento delle unità abitative di un grande complesso residenziale, il rilascio dell’autorizzazione di costruire è consentito eccezionalmente a condizione che esista un interesse preponderante alla costruzione dell’edificio e che l’autorità cantonale sia consenziente.[^31-3]
 
-[^31-1]: Nuovo testo giusta il n. I dell’O del 16 giu. 1997, in vigore dal 1° ago. 1997 ([RU 1997 1588](https://fedlex.data.admin.ch/eli/oc/1997/1588_1588_1588)).
+<sup>3</sup> Le spese per le misure sono a carico del proprietario del terreno.[^31-4]
+
+[^31-1]: Nuovo testo giusta la cifra I dell’O del 16 giu. 1997, in vigore dal 1° ago. 1997 ([RU 1997 1588](https://fedlex.data.admin.ch/eli/oc/1997/1588_1588_1588)).
+[^31-2]: Introdotto dalla cifra I dell’O del 25 feb. 2026, in vigore dal 1° apr. 2026 ([RU 2026 114](https://fedlex.data.admin.ch/eli/oc/2026/114)).
+[^31-3]: Nuovo testo giusta la cifra I dell’O del 25 feb. 2026, in vigore dal 1° apr. 2026 ([RU 2026 114](https://fedlex.data.admin.ch/eli/oc/2026/114)).
+[^31-4]: Nuovo testo giusta la cifra I dell’O del 25 feb. 2026, in vigore dal 1° apr. 2026 ([RU 2026 114](https://fedlex.data.admin.ch/eli/oc/2026/114)).
 
 #### Art. 31a
 
-**Disposizioni speciali per gli aeroporti con traffico di velivoli grandi**[^31a-1]
+[^31a-1]
 
-<sup>1</sup>
-
-In prossimità di aeroporti sui quali circolano velivoli grandi, i valori di pianificazione e i valori limite d’immissione secondo l’allegato 5 numero 222 sono rispettati durante le ore notturne se:
-
-- a. dalle ore 24 alle 6 non è prevista alcuna attività aerea;
-- b. i locali sensibili al rumore sono protetti contro il rumore esterno e interno almeno secondo le esigenze maggiorate in materia di isolamento acustico previste dalla norma SIA 181 del 1° giugno 2006[^31a-2] della Società svizzera degli ingegneri e degli architetti; e
-- c.
-
-  le camere da letto:
-
-  - 1\. dispongono di una finestra che si chiude automaticamente tra le ore 22 e le 24 e si può aprire automaticamente nelle restanti ore, e
-  - 2\. sono concepite in modo da garantire un clima adeguato dei locali.
-
-<sup>2</sup> Al momento della delimitazione o dell’urbanizzazione di zone edificabili, l’autorità competente provvede affinché le esigenze di cui al capoverso 1 lettere b e c siano definite in modo vincolante per i proprietari fondiari.
-
-<sup>3</sup> L’UFAM emana raccomandazioni per l’esecuzione del capoverso 1 lettera c. A tal fine, tiene conto delle norme tecniche determinanti.
-
-[^31a-1]: Introdotto dal n. I dell’O del 28 nov. 2014, in vigore dal 1° feb. 2015 ([RU 2014 4501](https://fedlex.data.admin.ch/eli/oc/2014/751)).
-[^31a-2]: La norma menzionata può essere consultata gratuitamente presso la Società svizzera degli ingegneri e degli architetti (SIA), Selnaustrasse 16, 8027 Zurigo, o ordinata dietro pagamento all’indirizzo Internet: www.sia.ch.
+[^31a-1]: Introdotto dalla cifra I dell’O del 28 nov. 2014 ([RU 2014 4501](https://fedlex.data.admin.ch/eli/oc/2014/751)). Abrogato dalla cifra I dell’O del 25 feb. 2026, con effetto dal 1° apr. 2026 ([RU 2026 114](https://fedlex.data.admin.ch/eli/oc/2026/114)).
 
 ## Capitolo 6: Isolamento acustico dei nuovi edifici
 
@@ -576,11 +564,12 @@ In prossimità di aeroporti sui quali circolano velivoli grandi, i valori di pia
 
 <sup>1</sup> Il committente di un nuovo edificio provvede affinché l’isolamento acustico degli elementi edili esterni e di quelli di separazione dei locali sensibili al rumore come pure delle scale e degli impianti tecnici dell’edificio corrisponda alle regole riconosciute dell’edilizia. Come tali valgono in particolare, per il rumore degli aerodromi con traffico di velivoli grandi, le esigenze più severe e, per il rumore degli altri impianti fissi, le esigenze minime secondo la norma SIA 181 della Società svizzera degli ingegneri e degli architetti.[^32-1]
 
-<sup>2</sup> Quando i valori limite d’immissione sono superati e le premesse ai sensi dell’articolo 31 capoverso 2 per l’accordo dell’autorizzazione di costruire sono adempite, l’autorità esecutiva inasprisce in misura adeguata le esigenze in materia d’isolamento acustico degli elementi edili esterni.
+<sup>2</sup> Se i valori limite d’immissione sono superati e le premesse di cui all’articolo 22 della legge per l’accordo dell’autorizzazione di costruire sono adempite, l’autorità esecutiva inasprisce in misura adeguata le esigenze in materia d’isolamento acustico degli elementi edili esterni. Di norma i costi causati da tale inasprimento sono considerati adeguati se ammontano al massimo all’uno per cento dei costi dell’edificio.[^32-2]
 
 <sup>3</sup> Le esigenze si applicano anche agli elementi edili esterni, a quelli di separazione, alle scale e agli impianti tecnici dell’edificio che devono essere modificati, sostituiti o montati come elementi nuovi. Su richiesta, l’autorità esecutiva accorda facilitazioni, se il rispetto delle esigenze è sproporzionato.
 
-[^32-1]: Nuovo testo del per. giusta il n. I dell’O del 12 apr. 2000, in vigore dal 1° mag. 2000 ([RU 2000 1388](https://fedlex.data.admin.ch/eli/oc/2000/218)).
+[^32-1]: Nuovo testo del per. giusta la cifra I dell’O del 12 apr. 2000, in vigore dal 1° mag. 2000 ([RU 2000 1388](https://fedlex.data.admin.ch/eli/oc/2000/218)).
+[^32-2]: Nuovo testo giusta la cifra I dell’O del 25 feb. 2026, in vigore dal 1° apr. 2026 ([RU 2026 114](https://fedlex.data.admin.ch/eli/oc/2026/114)).
 
 #### Art. 33
 
@@ -600,11 +589,13 @@ In prossimità di aeroporti sui quali circolano velivoli grandi, i valori di pia
 
 Nella richiesta dell’autorizzazione di costruire il committente deve indicare:
 
-- a. il carico fonico esterno, se i valori limite d’immissione sono superati;
+- a.[^34-1] il carico fonico esterno e le misure verificate secondo l’articolo 31 capoverso 1, se i valori limite d’immissione sono superati;
 - b. l’utilizzazione dei locali;
 - c. gli elementi edili esterni e quelli di separazione dei locali sensibili al rumore.
 
 <sup>2</sup> Per i progetti di costruzione nelle zone in cui i valori limite d’immissione sono superati, l’autorità esecutiva può esigere indicazioni sull’isolamento acustico degli elementi edili esterni.
+
+[^34-1]: Nuovo testo giusta la cifra I dell’O del 25 feb. 2026, in vigore dal 1° apr. 2026 ([RU 2026 114](https://fedlex.data.admin.ch/eli/oc/2026/114)).
 
 #### Art. 35
 
@@ -616,7 +607,7 @@ Al termine dei lavori di costruzione l’autorità esecutiva verifica, mediante 
 
 [^chap7-1]
 
-[^chap7-1]: Nuovo testo giusta il n. I dell’O del 1° set. 2004, in vigore dal 1° ott. 2004 ([RU 2004 4167](https://fedlex.data.admin.ch/eli/oc/2004/623)).
+[^chap7-1]: Nuovo testo giusta la cifra I dell’O del 1° set. 2004, in vigore dal 1° ott. 2004 ([RU 2004 4167](https://fedlex.data.admin.ch/eli/oc/2004/623)).
 
 ### Sezione 1: Determinazione
 
@@ -635,7 +626,7 @@ Essa tiene conto a tal fine degli aumenti o delle diminuzioni prevedibili delle 
 
 <sup>3</sup> …[^36-2]
 
-[^36-1]: Nuovo testo giusta il n. I dell’O del 1° set. 2004, in vigore dal 1° ott. 2004 ([RU 2004 4167](https://fedlex.data.admin.ch/eli/oc/2004/623)).
+[^36-1]: Nuovo testo giusta la cifra I dell’O del 1° set. 2004, in vigore dal 1° ott. 2004 ([RU 2004 4167](https://fedlex.data.admin.ch/eli/oc/2004/623)).
 [^36-2]: Abrogato dell’art. 15 dell’O del 4 dic. 2015 concernente il risanamento fonico delle ferrovie, con effetto dal 1° gen. 2016 ([RU 2015 5691](https://fedlex.data.admin.ch/eli/oc/2015/890)).
 
 #### Art. 37
@@ -664,8 +655,8 @@ Nel catasto dei rumori sono contemplati:
 
 <sup>6</sup> Chiunque può prendere visione dei catasti dei rumori, a condizione che il segreto di fabbricazione e d’affari siano garantiti e che nessun altro interesse preponderante vi si opponga.
 
-[^37-1]: Nuovo testo giusta il n. I dell’O del 1° set. 2004, in vigore dal 1° ott. 2004 ([RU 2004 4167](https://fedlex.data.admin.ch/eli/oc/2004/623)).
-[^37-2]: Nuovo testo giusta il n. I dell’O del 30 giu. 2010, in vigore dal 1° ago. 2010 ([RU 2010 3223](https://fedlex.data.admin.ch/eli/oc/2010/433)).
+[^37-1]: Nuovo testo giusta la cifra I dell’O del 1° set. 2004, in vigore dal 1° ott. 2004 ([RU 2004 4167](https://fedlex.data.admin.ch/eli/oc/2004/623)).
+[^37-2]: Nuovo testo giusta la cifra I dell’O del 30 giu. 2010, in vigore dal 1° ago. 2010 ([RU 2010 3223](https://fedlex.data.admin.ch/eli/oc/2010/433)).
 
 #### Art. 37a
 
@@ -677,7 +668,7 @@ Nel catasto dei rumori sono contemplati:
 
 <sup>3</sup> L’UFAM può emanare raccomandazioni volte ad assicurare la comparabilità dei rilevamenti e della rappresentazione dei dati relativi alle immissioni foniche definite in tali decisioni.
 
-[^37a-1]: Introdotto dal n. I dell’O del 12 apr. 2000 ([RU 2000 1388](https://fedlex.data.admin.ch/eli/oc/2000/218)). Nuovo testo giusta il n. I dell’O del 1° set. 2004, in vigore dal 1° ott. 2004 ([RU 2004 4167](https://fedlex.data.admin.ch/eli/oc/2004/623)).
+[^37a-1]: Introdotto dalla cifra I dell’O del 12 apr. 2000 ([RU 2000 1388](https://fedlex.data.admin.ch/eli/oc/2000/218)). Nuovo testo giusta la cifra I dell’O del 1° set. 2004, in vigore dal 1° ott. 2004 ([RU 2004 4167](https://fedlex.data.admin.ch/eli/oc/2004/623)).
 
 #### Art. 38
 
@@ -689,21 +680,23 @@ Nel catasto dei rumori sono contemplati:
 
 <sup>3</sup> Le esigenze poste ai metodi di calcolo e agli apparecchi di misura sono rette dall’allegato 2.[^38-3]
 
-[^38-1]: Nuovo testo giusta il n. I dell’O del 1° set. 2004, in vigore dal 1° ott. 2004 ([RU 2004 4167](https://fedlex.data.admin.ch/eli/oc/2004/623)[4313](https://fedlex.data.admin.ch/eli/oc/2004/649)).
-[^38-2]: Introdotto dal n. I dell’O del 12 apr. 2000, in vigore dal 1° mag. 2000 ([RU 2000 1388](https://fedlex.data.admin.ch/eli/oc/2000/218)).
+[^38-1]: Nuovo testo giusta la cifra I dell’O del 1° set. 2004, in vigore dal 1° ott. 2004 ([RU 2004 4167](https://fedlex.data.admin.ch/eli/oc/2004/623)[4313](https://fedlex.data.admin.ch/eli/oc/2004/649)).
+[^38-2]: Introdotto dalla cifra I dell’O del 12 apr. 2000, in vigore dal 1° mag. 2000 ([RU 2000 1388](https://fedlex.data.admin.ch/eli/oc/2000/218)).
 [^38-3]: Originario cpv. 2.
 
 #### Art. 39
 
 **Luogo della determinazione**
 
-<sup>1</sup> Per gli edifici, le immissioni foniche devono essere determinate al centro delle finestre aperte dei locali sensibili al rumore. Le immissioni foniche degli aeroplani possono essere determinate anche in prossimità dell’edificio.[^39-1]
+<sup>1</sup> Per gli edifici, le immissioni foniche devono essere determinate al centro delle finestre aperte dei locali sensibili al rumore. Le immissioni foniche degli aeroplani possono essere determinate anche in prossimità dell’edificio.
 
 <sup>2</sup> Nelle zone non edificate di zone che richiedono una protezione fonica elevata, le immissioni foniche devono essere determinate ad 1,5 m dal suolo.
 
 <sup>3</sup> Nelle zone edificabili non ancora edificate le immissioni foniche devono essere determinate nel luogo dove, in base al diritto di costruzione e alla pianificazione, potranno sorgere edifici con locali sensibili al rumore.
 
-[^39-1]: La correzione del 7 mag. 2019 concerne soltanto il testo francese ([RU 2019 1337](https://fedlex.data.admin.ch/eli/oc/2019/259)).
+<sup>4</sup> Per gli spazi esterni ad uso privato, le immissioni foniche devono essere determinate a 1,5 m dal suolo dello spazio esterno.[^39-1]
+
+[^39-1]: Introdotto dalla cifra I dell’O del 25 feb. 2026, in vigore dal 1° apr. 2026 ([RU 2026 114](https://fedlex.data.admin.ch/eli/oc/2026/114)).
 
 ### Sezione 2: Valutazione
 
@@ -730,7 +723,11 @@ Sono inoltre applicabili:
 - a. nelle zone edificabili non ancora edificate dove secondo il diritto di costruzione e di pianificazione possono sorgere edifici con locali sensibili al rumore;
 - b. nelle zone non edificate delle zone che richiedono una protezione fonica elevata.
 
+<sup>2bis</sup> Ai fini del rilascio dell’autorizzazione di costruire, i valori limite d’esposizione al rumore sono inoltre applicabili all’intera superficie dello spazio esterno ad uso privato di cui all’articolo 22 capoverso 2 lettera a numero 3 della legge.[^41-1]
+
 <sup>3</sup> Per le zone e gli edifici nei quali solitamente le persone soggiornano soltanto durante il giorno o durante la notte, i valori limite d’esposizione al rumore per la notte, rispettivamente per il giorno non sono applicabili.
+
+[^41-1]: Introdotto dalla cifra I dell’O del 25 feb. 2026, in vigore dal 1° apr. 2026 ([RU 2026 114](https://fedlex.data.admin.ch/eli/oc/2026/114)).
 
 #### Art. 42
 
@@ -755,7 +752,7 @@ Nelle zone d’utilizzazione ai sensi degli articoli 14 e seguenti della legge f
 
 <sup>2</sup> Parti delle zone d’utilizzazione con grado di sensibilità I o II possono essere declassate di un grado, se sono già esposte al rumore.
 
-[^43-1]: [RS 700](https://fedlex.data.admin.ch/eli/cc/1979/1573_1573_1573)
+[^43-1]: [RS 700](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8351)
 
 #### Art. 44
 
@@ -769,8 +766,8 @@ Nelle zone d’utilizzazione ai sensi degli articoli 14 e seguenti della legge f
 
 <sup>4</sup> …[^44-2]
 
-[^44-1]: Nuovo testo giusta il n. IV 31 dell’O del 22 ago. 2007 concernente l’aggiornamento formale del diritto federale, in vigore dal 1° gen. 2008 ([RU 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)).
-[^44-2]: Abrogato dal n. I dell’O del 27 giu. 1995, con effetto dal 1° ago. 1995 ([RU 1995 3694](https://fedlex.data.admin.ch/eli/oc/1995/3694_3694_3694)).
+[^44-1]: Nuovo testo giusta la cifra IV n. 31 dell’O del 22 ago. 2007 concernente l’aggiornamento formale del diritto federale, in vigore dal 1° gen. 2008 ([RU 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)).
+[^44-2]: Abrogato dalla cifra I dell’O del 27 giu. 1995, con effetto dal 1° ago. 1995 ([RU 1995 3694](https://fedlex.data.admin.ch/eli/oc/1995/3694_3694_3694)).
 
 ## Capitolo 8: Disposizioni finali
 
@@ -814,7 +811,7 @@ Per l’esecuzione delle prescrizioni sulla limitazione delle emissioni (art. 4,
 
   per gli impianti elettrici:
 
-  - 1\. l’Ufficio federale dell’energia, nei casi in cui l’Ispettorato federale degli impianti a corrente forte (ESTI) non ha potuto dirimere opposizioni o divergenze con le autorità federali coinvolte secondo l’articolo 16 capoverso 2 lettera b della legge del 24 giugno 1902[^45-5] sugli impianti elettrici,
+  - 1\. l’Ufficio federale dell’energia, nei casi in cui l’Ispettorato federale degli impianti a corrente forte ( ESTI ) non ha potuto dirimere opposizioni o divergenze con le autorità federali coinvolte secondo l’articolo 16 capoverso 2 lettera b della legge del 24 giugno 1902[^45-5] sugli impianti elettrici,
   - 2\. l’ESTI, negli altri casi;
 
 - f. per gli impianti a fune secondo l’articolo 2 della legge del 23 giugno 2006[^45-6] sugli impianti a fune: l’Ufficio federale dei trasporti.[^45-7]
@@ -823,14 +820,14 @@ Per l’esecuzione delle prescrizioni sulla limitazione delle emissioni (art. 4,
 
 <sup>5</sup> Per le strade nazionali, il DATEC provvede anche all’esecuzione delle prescrizioni concernenti i provvedimenti d’isolamento acustico (art. 10 e 15). Coordina l’esecuzione di tali prescrizioni con i provvedimenti d’isolamento acustico ordinati dai Cantoni.[^45-8]
 
-[^45-1]: Nuovo testo giusta il n. II 14 dell’O del 2 feb. 2000 relativa alla LF sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° mar. 2000 ([RU 2000 703](https://fedlex.data.admin.ch/eli/oc/2000/121)).
+[^45-1]: Nuovo testo giusta la cifra II n. 14 dell’O del 2 feb. 2000 relativa alla LF sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° mar. 2000 ([RU 2000 703](https://fedlex.data.admin.ch/eli/oc/2000/121)).
 [^45-2]: Introdotta dall’all. 2 n. 9 dell’O del 21 mag. 2008 sulla geoinformazione, in vigore dal 1° lug. 2008 ([RU 2008 2809](https://fedlex.data.admin.ch/eli/oc/2008/389)).
-[^45-3]: [RS 742.101](https://fedlex.data.admin.ch/eli/cc/1958/335_341_347)
-[^45-4]: [RS 748.0](https://fedlex.data.admin.ch/eli/cc/1950/471_491_479)
-[^45-5]: [RS 734.0](https://fedlex.data.admin.ch/eli/cc/19/259_252_257)
-[^45-6]: [RS 743.01](https://fedlex.data.admin.ch/eli/cc/2006/853)
-[^45-7]: Nuovo testo giusta il n. I dell’O del 30 giu. 2010, in vigore dal 1° ago. 2010 ([RU 2010 3223](https://fedlex.data.admin.ch/eli/oc/2010/433)).
-[^45-8]: Introdotto dal n. I dell’O del 30 giu. 2010, in vigore dal 1° ago. 2010 ([RU 2010 3223](https://fedlex.data.admin.ch/eli/oc/2010/433)).
+[^45-3]: [RS 742.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8719)
+[^45-4]: [RS 748.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9033)
+[^45-5]: [RS 734.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8570)
+[^45-6]: [RS 743.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8834)
+[^45-7]: Nuovo testo giusta la cifra I dell’O del 30 giu. 2010, in vigore dal 1° ago. 2010 ([RU 2010 3223](https://fedlex.data.admin.ch/eli/oc/2010/433)).
+[^45-8]: Introdotto dalla cifra I dell’O del 30 giu. 2010, in vigore dal 1° ago. 2010 ([RU 2010 3223](https://fedlex.data.admin.ch/eli/oc/2010/433)).
 
 #### Art. 45a
 
@@ -838,7 +835,7 @@ Per l’esecuzione delle prescrizioni sulla limitazione delle emissioni (art. 4,
 
 L’UFAM cura una panoramica nazionale dell’inquinamento fonico. Pubblica una rappresentazione georeferenziata dell’inquinamento fonico in particolare per il rumore del traffico stradale, ferroviario e aereo, nonché per il rumore delle piazze d’armi, di tiro e d’esercizio militari. Aggiorna tale rappresentazione almeno ogni cinque anni.
 
-[^45a-1]: Introdotto dal n. I dell’O del 30 giu. 2010, in vigore dal 1° ago. 2010 ([RU 2010 3223](https://fedlex.data.admin.ch/eli/oc/2010/433)).
+[^45a-1]: Introdotto dalla cifra I dell’O del 30 giu. 2010, in vigore dal 1° ago. 2010 ([RU 2010 3223](https://fedlex.data.admin.ch/eli/oc/2010/433)).
 
 #### Art. 46
 
@@ -847,7 +844,7 @@ L’UFAM cura una panoramica nazionale dell’inquinamento fonico. Pubblica una 
 L’UFAM stabilisce i modelli di geodati e i modelli di rappresentazione minimi per i geodati di base ai sensi della presente ordinanza per i quali è designato quale servizio specializzato della Confederazione nell’allegato 1 dell’ordinanza del 21 maggio 2008[^46-2] sulla geoinformazione.
 
 [^46-1]: Nuovo testo giusta l’all. 2 n. 9 dell’O del 21 mag. 2008 sulla geoinformazione, in vigore dal 1° lug. 2008 ([RU 2008 2809](https://fedlex.data.admin.ch/eli/oc/2008/389)).
-[^46-2]: [RS 510.620](https://fedlex.data.admin.ch/eli/cc/2008/389)
+[^46-2]: [RS 510.620](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7339)
 
 ### Sezione 2: Disposizioni transitorie
 
@@ -863,25 +860,25 @@ L’UFAM stabilisce i modelli di geodati e i modelli di rappresentazione minimi 
 
 <sup>4</sup> Per gli edifici che devono essere modificati, gli articoli 31 e 32 capoverso 3 valgono solo se al momento dell’entrata in vigore della legge l’autorizzazione di costruzione non ha ancora valore legale.
 
-[^47-1]: Nuovo testo giusta il n. I dell’O del 23 ago. 2006, in vigore dal 1° nov. 2006 ([RU 2006 3693](https://fedlex.data.admin.ch/eli/oc/2006/562)).
+[^47-1]: Nuovo testo giusta la cifra I dell’O del 23 ago. 2006, in vigore dal 1° nov. 2006 ([RU 2006 3693](https://fedlex.data.admin.ch/eli/oc/2006/562)).
 
 #### Art. 48
 
 [^48-1]
 
-[^48-1]: Abrogato dal n. I dell’O del 30 giu. 2010, con effetto dal 1° ago. 2010 ([RU 2010 3223](https://fedlex.data.admin.ch/eli/oc/2010/433)).
+[^48-1]: Abrogato dalla cifra I dell’O del 30 giu. 2010, con effetto dal 1° ago. 2010 ([RU 2010 3223](https://fedlex.data.admin.ch/eli/oc/2010/433)).
 
 #### Art. 48a
 
 [^48a-1]
 
-[^48a-1]: Introdotto dal n. I dell’O del 1° set. 2004 ([RU 2004 4167](https://fedlex.data.admin.ch/eli/oc/2004/623)). Abrogato dal n. I dell’O del 21 feb. 2018, con effetto dal 1° apr. 2018 ([RU 2018 965](https://fedlex.data.admin.ch/eli/oc/2018/137)).
+[^48a-1]: Introdotto dalla cifra I dell’O del 1° set. 2004 ([RU 2004 4167](https://fedlex.data.admin.ch/eli/oc/2004/623)). Abrogato dalla cifra I dell’O del 21 feb. 2018, con effetto dal 1° apr. 2018 ([RU 2018 965](https://fedlex.data.admin.ch/eli/oc/2018/137)).
 
 #### Art. 49
 
 [^49-1]
 
-[^49-1]: Abrogato dal n. IV 31 dell’O del 22 ago. 2007 concernente l’aggiornamento formale del diritto federale, con effetto dal 1° gen. 2008 ([RU 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)).
+[^49-1]: Abrogato dalla cifra IV n. 31 dell’O del 22 ago. 2007 concernente l’aggiornamento formale del diritto federale, con effetto dal 1° gen. 2008 ([RU 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)).
 
 ### Sezione 3: Entrata in vigore
 
@@ -895,7 +892,7 @@ Allegato 1[^t-1]
 
 ## Esigenze per l’isolamento acustico delle finestre
 
-[^t-1]: Nuovo testo giusta il n. II cpv. 1 dell’O del 23 ago. 2006, in vigore dal 1° nov. 2006 ([RU 2006 3693](https://fedlex.data.admin.ch/eli/oc/2006/562)).
+[^t-1]: Nuovo testo giusta la cifra II cpv. 1 dell’O del 23 ago. 2006, in vigore dal 1° nov. 2006 ([RU 2006 3693](https://fedlex.data.admin.ch/eli/oc/2006/562)).
 
 <sup>1</sup> L’indice d’attenuazione sonora apparente ponderato risultante con il termine di adattamento allo spettro R’w + (C o C<sub>tr</sub>) delle finestre misurato in opera, compresi gli elementi di costruzione che ne fanno parte, come cassoni per avvolgibili e ventilatori insonorizzati, deve presentare almeno i seguenti valori in funzione del livello di valutazione determinato del rumore Lr:
 
@@ -922,7 +919,7 @@ Allegato 2[^t-2]
 
 ## Esigenze relative ai metodi di calcolo e agli strumenti di misura
 
-[^t-2]: Nuovo testo giusta il n. II cpv. 1 dell’O del 23 ago. 2006 ([RU 2006 3693](https://fedlex.data.admin.ch/eli/oc/2006/562)). Aggiornato dal n. II cpv. 1 dell’O del 30 giu. 2010, in vigore dal 1° ago. 2010 ([RU 2010 3223](https://fedlex.data.admin.ch/eli/oc/2010/433)).
+[^t-2]: Nuovo testo giusta la cifra II cpv. 1 dell’O del 23 ago. 2006 ([RU 2006 3693](https://fedlex.data.admin.ch/eli/oc/2006/562)). Aggiornato dalla cifra II cpv. 1 dell’O del 30 giu. 2010, in vigore dal 1° ago. 2010 ([RU 2010 3223](https://fedlex.data.admin.ch/eli/oc/2010/433)).
 
 ### 1 Metodi di calcolo
 
@@ -939,7 +936,7 @@ Allegato 2[^t-2]
 
 Agli strumenti di misurazione utilizzati per misurare le immissioni foniche si applicano i requisiti previsti nell’ordinanza del 15 febbraio 2006[^annex2-lvlu1-lvl2-1] sugli strumenti di misurazione e nelle relative prescrizioni esecutive del Dipartimento federale di giustizia e polizia.
 
-[^annex2-lvlu1-lvl2-1]: [RS 941.210](https://fedlex.data.admin.ch/eli/cc/2006/245)
+[^annex2-lvlu1-lvl2-1]: [RS 941.210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11180)
 
 Allegato 3
 
@@ -1114,7 +1111,7 @@ Allegato 5[^t-3]
 
 ## Valori limite d’esposizione al rumore degli aerodromi civili
 
-[^t-3]: Nuovo testo giusta il n. I dell’O del 30 mag. 2001 ([RU 2001 1610](https://fedlex.data.admin.ch/eli/oc/2001/237)). Aggiornato dal n. II cpv. 1 dell’O del 30 giu. 2010, in vigore dal 1° ago. 2010 ([RU 2010 3223](https://fedlex.data.admin.ch/eli/oc/2010/433)).
+[^t-3]: Nuovo testo giusta la cifra I dell’O del 30 mag. 2001 ([RU 2001 1610](https://fedlex.data.admin.ch/eli/oc/2001/237)). Aggiornato dalla cifra II cpv. 1 dell’O del 30 giu. 2010, in vigore dal 1° ago. 2010 ([RU 2010 3223](https://fedlex.data.admin.ch/eli/oc/2010/433)).
 
 ### 1 Campo d’applicazione e definizioni
 
@@ -1168,13 +1165,13 @@ Oltre ai valori limite d’esposizione in Lr<sub>k</sub>, per il rumore del traf
 <tr><td colspan="4"><sup>1</sup> I valori più alti valgono per la prima ora della notte (ore 22–23).</td></tr>
 </table>
 
-### 23 Valori limite d’esposizione in ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20250101/it/xml/image/image1.png)max
+### 23 Valori limite d’esposizione in ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20260401/it/xml/image/image1.png)max
 
-Oltre ai valori limite d’esposizione in Lr<sub>k</sub>, per il rumore del traffico sugli aerodromi civili sui quali circolano esclusivamente elicotteri (eliporti) valgono i valori limite d’esposizione seguenti in <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20250101/it/xml/image/image2.png)</sub>max:
+Oltre ai valori limite d’esposizione in Lr<sub>k</sub>, per il rumore del traffico sugli aerodromi civili sui quali circolano esclusivamente elicotteri (eliporti) valgono i valori limite d’esposizione seguenti in <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20260401/it/xml/image/image2.png)</sub>max:
 
 <table>
 <tr><td>Grado di sensibilità (art. 43)</td><td>Valore di pianificazione</td><td>Valore limite d’immissione</td><td>Valore d’allarme</td></tr>
-<tr><td></td><td><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20250101/it/xml/image/image3.png)</sub>max in dB(A)</td><td><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20250101/it/xml/image/image3.png)</sub>max in dB(A)</td><td><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20250101/it/xml/image/image3.png)</sub>max in dB(A)</td></tr>
+<tr><td></td><td><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20260401/it/xml/image/image3.png)</sub>max in dB(A)</td><td><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20260401/it/xml/image/image3.png)</sub>max in dB(A)</td><td><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20260401/it/xml/image/image3.png)</sub>max in dB(A)</td></tr>
 <tr><td>I</td><td>70</td><td>75</td><td>85</td></tr>
 <tr><td>II</td><td>75</td><td>80</td><td>90</td></tr>
 <tr><td>III</td><td>80</td><td>85</td><td>90</td></tr>
@@ -1244,11 +1241,11 @@ Lr<sub>n</sub> = Leq<sub>n</sub>
 
 <sup>3</sup> I voli effettuati dopo la seconda (ore 23–24) e prima dell’ultima ora della notte (ore 5–6) sono computati nella seconda ora della notte (ore 23–24).
 
-### 5 Determinazione del livello di rumore massimo medio <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20250101/it/xml/image/image4.png)</sub>max per gli eliporti
+### 5 Determinazione del livello di rumore massimo medio <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20260401/it/xml/image/image4.png)</sub>max per gli eliporti
 
-<sup>1</sup> Per gli eliporti, il livello di rumore massimo medio <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20250101/it/xml/image/image2.png)</sub>max è la media energetica del livello di rumore massimo di un numero rappresentativo di sorvoli o di passaggi.
+<sup>1</sup> Per gli eliporti, il livello di rumore massimo medio <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20260401/it/xml/image/image2.png)</sub>max è la media energetica del livello di rumore massimo di un numero rappresentativo di sorvoli o di passaggi.
 
-<sup>2</sup> Le misurazioni per determinare il livello di rumore massimo medio <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20250101/it/xml/image/image5.png)</sub>max devono essere effettuate con il sonometro regolato su «SLOW».
+<sup>2</sup> Le misurazioni per determinare il livello di rumore massimo medio <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20260401/it/xml/image/image5.png)</sub>max devono essere effettuate con il sonometro regolato su «SLOW».
 
 Allegato 6[^t-4]
 
@@ -1256,7 +1253,7 @@ Allegato 6[^t-4]
 
 ## Valori limite d’esposizione al rumore dell’industria e delle arti e mestieri
 
-[^t-4]: Aggiornato dal n. II dell’O del 29 set. 2023, in vigore dal 1° nov. 2023 ([RU 2023 582](https://fedlex.data.admin.ch/eli/oc/2023/582)).
+[^t-4]: Aggiornato dalla cifra II dell’O del 29 set. 2023, in vigore dal 1° nov. 2023 ([RU 2023 582](https://fedlex.data.admin.ch/eli/oc/2023/582)).
 
 ### 1 Campo d’applicazione
 
@@ -1287,7 +1284,7 @@ Allegato 6[^t-4]
 
 <sup>1</sup> Il livello di valutazione del rumore Lr dell’industria e delle arti e mestieri e degli altri rumori simili è calcolato separatamente per il giorno (dalle ore 7 alle 19) e per la notte (dalle ore 19 alle 7) a partire dai livelli di valutazione parziali Lr,i di ciascuna fase di rumore:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20250101/it/xml/image/image6.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20260401/it/xml/image/image6.png)
 
 <sup>2</sup> Il livello di valutazione parziale Lr,i è calcolato per la durata media giornaliera della fase di rumore, con la formula seguente:
 
@@ -1347,7 +1344,7 @@ Allegato 7 [^t-5]
 
 ## Valori limite d’esposizione al rumore degli impianti di tiro civili
 
-[^t-5]: Nuovo testo giusta il n. II cpv. 1 dell’O del 23 ago. 2006, in vigore dal 1° nov. 2006 ([RU 2006 3693](https://fedlex.data.admin.ch/eli/oc/2006/562)). Aggiornato dal n. II cpv. 1 dell’O del 30 giu. 2010, in vigore dal 1° ago. 2010 ([RU 2010 3223](https://fedlex.data.admin.ch/eli/oc/2010/433)).
+[^t-5]: Nuovo testo giusta la cifra II cpv. 1 dell’O del 23 ago. 2006, in vigore dal 1° nov. 2006 ([RU 2006 3693](https://fedlex.data.admin.ch/eli/oc/2006/562)). Aggiornato dalla cifra II cpv. 1 dell’O del 30 giu. 2010, in vigore dal 1° ago. 2010 ([RU 2010 3223](https://fedlex.data.admin.ch/eli/oc/2010/433)).
 
 ### 1 Campo d’applicazione
 
@@ -1365,7 +1362,7 @@ Allegato 7 [^t-5]
 
 <sup>3</sup> Gli impianti di tiro civili sono considerati pubblici se vi vengono effettuati esercizi di tiro conformemente agli articoli 62 e 63 della legge militare del 3 febbraio 1995[^annex7-lvlu1-lvl1-1].
 
-[^annex7-lvlu1-lvl1-1]: [RS 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
+[^annex7-lvlu1-lvl1-1]: [RS 510.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7242)
 
 ### 2 Valori limite d’esposizione al rumore
 
@@ -1380,7 +1377,7 @@ Allegato 7 [^t-5]
 
 Per il rumore causato da impianti pubblici secondo la cifra 1 capoverso 3[^annex7-lvlu1-lvl2-1] nei quali le categorie di armi a o b presentano una correzione del livello Ki &lt; -15 non si applica nessun valore d’allarme. Per tali impianti i provvedimenti d’isolamento acustico di cui all’articolo 15 non sono necessari. La correzione del livello Ki determinata è calcolata secondo la cifra 321.
 
-[^annex7-lvlu1-lvl2-1]: Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), con effetto dal 1° ago. 2010.
+[^annex7-lvlu1-lvl2-1]: Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)), con effetto dal 1° ago. 2010.
 
 ### 3 Determinazione del livello di valutazione
 
@@ -1388,7 +1385,7 @@ Per il rumore causato da impianti pubblici secondo la cifra 1 capoverso 3[^annex
 
 <sup>1</sup> Il livello di valutazione Lr per il rumore degli impianti di tiro è la somma energetica dei livelli di valutazione parziali Lri delle diverse categorie di armi:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20250101/it/xml/image/image7.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20260401/it/xml/image/image7.png)
 
 <sup>2</sup> Il livello di valutazione parziale Lri è la somma del livello di rumore medio di un singolo colpo Li relativo a una categoria di armi e della correzione del livello Ki:
 
@@ -1396,7 +1393,7 @@ Lri = Li + Ki
 
 <sup>3</sup> Il livello di rumore medio di un singolo colpo Li è la media energetica ponderata, in base al numero di colpi sparati, del livello di rumore dei singoli colpi Lj relativi a un tipo di arma e di munizioni calcolato come media energetica:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20250101/it/xml/image/image8.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20260401/it/xml/image/image8.png)
 
 <sup>4</sup> Il livello di rumore dei singoli colpi Lj calcolato come media energetica deve essere determinato sulla base di misurazioni del livello massimo ponderato A con la costante di tempo FAST.
 
@@ -1438,7 +1435,7 @@ Allegato 8[^t-6]
 
 ## Valori limite d’esposizione al rumore degli aerodromi militari
 
-[^t-6]: Introdotto dal n. II dell’O del 27 giu. 1995 ([RU 1995 3694](https://fedlex.data.admin.ch/eli/oc/1995/3694_3694_3694)). Aggiornato giusta i n. II cpv. 2 delle O del 12 apr. 2000 ([RU 2000 1388](https://fedlex.data.admin.ch/eli/oc/2000/218)) e del 23 ago. 2006, in vigore dal 1° nov. 2006 ([RU 2006 3693](https://fedlex.data.admin.ch/eli/oc/2006/562)).
+[^t-6]: Introdotto dalla cifra II dell’O del 27 giu. 1995 ([RU 1995 3694](https://fedlex.data.admin.ch/eli/oc/1995/3694_3694_3694)). Aggiornato giusta i cifra II cpv. 2 delle O del 12 apr. 2000 ([RU 2000 1388](https://fedlex.data.admin.ch/eli/oc/2000/218)) e del 23 ago. 2006, in vigore dal 1° nov. 2006 ([RU 2006 3693](https://fedlex.data.admin.ch/eli/oc/2006/562)).
 
 ### 1 Campo d’applicazione
 
@@ -1526,7 +1523,7 @@ Allegato 9[^t-7]
 
 ## Valori limite d’esposizione al rumore su piazze d’armi, di tiro e d’esercizio militari
 
-[^t-7]: Introdotto dal n. II cpv. 2 dell’O del 30 giu. 2010, in vigore dal 1° ago. 2010 ([RU 2010 3223](https://fedlex.data.admin.ch/eli/oc/2010/433)).
+[^t-7]: Introdotto dalla cifra II cpv. 2 dell’O del 30 giu. 2010, in vigore dal 1° ago. 2010 ([RU 2010 3223](https://fedlex.data.admin.ch/eli/oc/2010/433)).
 
 ### 1 Campo d’applicazione
 

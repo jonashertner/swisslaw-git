@@ -4,11 +4,11 @@ title: Lärmschutz-Verordnung vom 15. Dezember 1986 (LSV)
 short: LSV
 eli: "https://fedlex.data.admin.ch/eli/cc/1987/338_338_338"
 language: de
-version: 2025-01-01
+version: 2026-04-01
 adopted: 1986-12-15
 in_force: 1987-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20250101/de/xml/fedlex-data-admin-ch-eli-cc-1987-338_338_338-20250101-de-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1987/338_338_338/20250101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20260401/de/xml/fedlex-data-admin-ch-eli-cc-1987-338_338_338-20260401-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1987/338_338_338/20260401/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1987/338_338_338/20250101/de"
 
 (LSV)
 
-vom 15. Dezember 1986 (Stand am 1. Januar 2025)
+vom 15. Dezember 1986 (Stand am 1. April 2026)
 
 Der Schweizerische Bundesrat,
 
@@ -25,7 +25,7 @@ gestützt auf die Artikel 5, 12 Absatz 2, 13 Absatz 1, 16 Absatz 2, 19, 21 Absat
 
 verordnet:
 
-[^ingress-1]: [SR 814.01](https://fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122)
+[^ingress-1]: [SR 814.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9437)
 
 ## 1. Kapitel: Allgemeine Bestimmungen
 
@@ -40,7 +40,7 @@ verordnet:
 Sie regelt:
 
 - a. die Begrenzung von Aussenlärmemissionen, die beim Betrieb neuer und bestehender Anlagen nach Artikel 7 des Gesetzes erzeugt werden;
-- b. die Ausscheidung und Erschliessung von Bauzonen in lärmbelasteten Gebieten;
+- b.[^1-1] die Ausscheidung von Bauzonen und die Änderung von Nutzungsplänen in lärmbelasteten Gebieten;
 - c. die Erteilung von Baubewilligungen für Gebäude, die lärmempfindliche Räume enthalten und in lärmbelasteten Gebieten liegen;
 - d. den Schallschutz gegen Aussen- und Innenlärm an neuen Gebäuden mit lärmempfindlichen Räumen;
 - e. den Schallschutz gegen Aussenlärm an bestehenden Gebäuden mit lärmempfindlichen Räumen;
@@ -53,9 +53,10 @@ Sie regelt nicht:
 - a. den Schutz gegen Lärm, der in einem Betriebsareal erzeugt wird, soweit er auf Betriebsgebäude und zugehörige Wohnungen innerhalb dieses Areals einwirkt;
 - b. den Schutz gegen Infra- und Ultraschall.
 
-<sup>4</sup> …[^1-1]
+<sup>4</sup> …[^1-2]
 
-[^1-1]: Aufgehoben durch Ziff. I der V vom 12. April 2000, mit Wirkung seit 1. Mai 2000 ([AS 2000 1388](https://fedlex.data.admin.ch/eli/oc/2000/218)).
+[^1-1]: Fassung gemäss Ziff. I der V vom 25. Febr. 2026, in Kraft seit 1. April 2026 ([AS 2026 114](https://fedlex.data.admin.ch/eli/oc/2026/114)).
+[^1-2]: Aufgehoben durch Ziff. I der V vom 12. April 2000, mit Wirkung seit 1. Mai 2000 ([AS 2000 1388](https://fedlex.data.admin.ch/eli/oc/2000/218)).
 
 #### Art. 2
 
@@ -325,9 +326,9 @@ Die Sanierungen und Schallschutzmassnahmen müssen durchgeführt sein:
 - c. bei zivilen Schiessanlagen, die aufgrund der Änderung vom 23. August 2006[^17-5] von Anhang 7 sanierungspflichtig wurden: am 1. November 2016;
 - d. bei militärischen Waffen-, Schiess- und Übungsplätzen: am 31. Juli 2025.[^17-6]
 
-[^17-1]: [SR 725.116.2](https://fedlex.data.admin.ch/eli/cc/1985/834_834_834)
+[^17-1]: [SR 725.116.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8462)
 [^17-2]: Eingefügt durch Ziff. I der V vom 1. Sept. 2004, in Kraft seit 1. Okt. 2004 ([AS 2004 4167](https://fedlex.data.admin.ch/eli/oc/2004/623)).
-[^17-3]: [SR 742.144](https://fedlex.data.admin.ch/eli/cc/2000/342)
+[^17-3]: [SR 742.144](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8764)
 [^17-4]: Eingefügt durch Ziff. I der V vom 1. Sept. 2004, in Kraft seit 1. Okt. 2004 ([AS 2004 4167](https://fedlex.data.admin.ch/eli/oc/2004/623)).
 [^17-5]: [AS 2006 3693](https://fedlex.data.admin.ch/eli/oc/2006/562)
 [^17-6]: Eingefügt durch Ziff. I der V vom 23. Aug. 2006 ([AS 2006 3693](https://fedlex.data.admin.ch/eli/oc/2006/562)). Fassung gemäss Ziff. I der V vom 30. Juni 2010, in Kraft seit 1. Aug. 2010 ([AS 2010 3223](https://fedlex.data.admin.ch/eli/oc/2010/433)).
@@ -399,7 +400,7 @@ Der Bund gewährt Beiträge für Sanierungen und Schallschutzmassnahmen an beste
 <sup>3</sup> …[^21-4]
 
 [^21-1]: Fassung gemäss Ziff. I der V vom 21. Febr. 2018, in Kraft seit 1. April 2018 ([AS 2018 965](https://fedlex.data.admin.ch/eli/oc/2018/137)).
-[^21-2]: [SR 725.116.2](https://fedlex.data.admin.ch/eli/cc/1985/834_834_834)
+[^21-2]: [SR 725.116.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8462)
 [^21-3]: Fassung des zweiten Satzes gemäss Ziff. I der V vom 12. Mai 2021, in Kraft seit 1. Jan. 2025 ([AS 2021 293](https://fedlex.data.admin.ch/eli/oc/2021/293)).
 [^21-4]: Eingefügt durch Ziff. I der V vom 21. Febr. 2018 ([AS 2018 965](https://fedlex.data.admin.ch/eli/oc/2018/137)). Aufgehoben durch Ziff. I der V vom 12. Mai 2021, mit Wirkung seit 1. Juli 2021 ([AS 2021 293](https://fedlex.data.admin.ch/eli/oc/2021/293)).
 
@@ -501,7 +502,7 @@ Das BAFU hält die Tranchenzahlungen während der Programmdauer ganz oder teilwe
 
 <sup>4</sup> Werden die Mängel nicht behoben oder wird die Zweckentfremdung nicht unterlassen oder nicht rückgängig gemacht, so richtet sich die Rückforderung nach den Artikeln 28 und 29 des Subventionsgesetzes vom 5. Oktober 1990[^27-1].
 
-[^27-1]: [SR 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
+[^27-1]: [SR 616.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7794)
 
 #### Art. 28
 
@@ -511,21 +512,21 @@ Aufgehoben
 
 #### Art. 29
 
-**Ausscheidung neuer Bauzonen und neuer Zonen mit erhöhtem Lärmschutzbedürfnis**
+**Ausscheidung von Bauzonen und Änderung von Nutzungsplänen in lärmbelasteten Gebieten**[^29-1]
 
-<sup>1</sup> Neue Bauzonen für Gebäude mit lärmempfindlichen Räumen und neue nicht überbaubare Zonen mit erhöhtem Lärmschutzbedürfnis dürfen nur in Gebieten ausgeschieden werden, in denen die Lärmimmissionen die Planungswerte nicht überschreiten oder in denen diese Werte durch planerische, gestalterische oder bauliche Massnahmen eingehalten werden können.
+<sup>1</sup> Die massgebenden Belastungsgrenzwerte können durch planerische, gestalterische oder bauliche Massnahmen eingehalten werden.
 
-<sup>2</sup> …[^29-1]
+<sup>2</sup> Freiräume nach Artikel 24 Absatz 3 Buchstabe b des Gesetzes müssen eine angemessene Grösse aufweisen sowie zu Fuss und hindernisfrei erreichbar sein. Sie weisen eine auf die Erholung ausgerichtete Gestaltung und Infrastruktur auf.
 
-[^29-1]: Aufgehoben durch Ziff. I der V vom 16. Juni 1997, mit Wirkung seit 1. Aug. 1997 ([AS 1997 1588](https://fedlex.data.admin.ch/eli/oc/1997/1588_1588_1588)).
+<sup>3</sup> Die Massnahmen nach Artikel 24 Absatz 3 Buchstabe c des Gesetzes müssen stufengerecht festgelegt werden. Sie tragen in akustischer Hinsicht zu einer angemessenen Wohnqualität bei, wenn sie die Lärmemissionen begrenzen oder die Störung des Wohlbefindens auf andere Weise mindern.
+
+[^29-1]: Fassung gemäss Ziff. I der V vom 25. Febr. 2026, in Kraft seit 1. April 2026 ([AS 2026 114](https://fedlex.data.admin.ch/eli/oc/2026/114)).
 
 #### Art. 30
 
-**Erschliessung von Bauzonen**[^30-1]
+[^30-1]
 
-Die Bauzonen für Gebäude mit lärmempfindlichen Räumen, die bei Inkrafttreten des Gesetzes noch nicht erschlossen waren, dürfen nur so weit erschlossen werden, als die Planungswerte eingehalten sind oder durch eine Änderung der Nutzungsart oder durch planerische, gestalterische oder bauliche Massnahmen eingehalten werden können. Die Vollzugsbehörde kann für kleine Teile von Bauzonen Ausnahmen gestatten.
-
-[^30-1]: Fassung gemäss Ziff. I der V vom 30. Juni 2010, in Kraft seit 1. Aug. 2010 ([AS 2010 3223](https://fedlex.data.admin.ch/eli/oc/2010/433)).
+[^30-1]: Aufgehoben durch Ziff. I der V vom 25. Febr. 2026, mit Wirkung seit 1. April 2026 ([AS 2026 114](https://fedlex.data.admin.ch/eli/oc/2026/114)).
 
 #### Art. 31
 
@@ -538,35 +539,21 @@ Sind die Immissionsgrenzwerte überschritten, so dürfen Neubauten und wesentlic
 - a. durch die Anordnung der lärmempfindlichen Räume auf der dem Lärm abgewandten Seite des Gebäudes; oder
 - b. durch bauliche oder gestalterische Massnahmen, die das Gebäude gegen Lärm abschirmen.[^31-1]
 
-<sup>2</sup> Können die Immissionsgrenzwerte durch Massnahmen nach Absatz 1 nicht eingehalten werden, so darf die Baubewilligung nur erteilt werden, wenn an der Errichtung des Gebäudes ein überwiegendes Interesse besteht und die kantonale Behörde zustimmt.
+<sup>1bis</sup> Kontrollierte Wohnraumlüftungen und Kühlsysteme müssen dem Stand der Technik entsprechen.[^31-2]
+
+<sup>2</sup> Können die Anforderungen nach Artikel 22 Absatz 2 Buchstabe a des Gesetzes bei Fluglärm oder bei höchstens zehn Prozent der Wohneinheiten von grossen Wohnüberbauungen nicht eingehalten werden, so darf die Baubewilligung ausnahmsweise erteilt werden, wenn an der Errichtung des Gebäudes ein überwiegendes Interesse besteht und die kantonale Behörde zustimmt.[^31-3]
 
 <sup>3</sup> Die Grundeigentümer tragen die Kosten für die Massnahmen.
 
 [^31-1]: Fassung gemäss Ziff. I der V vom 16. Juni 1997, in Kraft seit 1. Aug. 1997 ([AS 1997 1588](https://fedlex.data.admin.ch/eli/oc/1997/1588_1588_1588)).
+[^31-2]: Eingefügt durch Ziff. I der V vom 25. Febr. 2026, in Kraft seit 1. April 2026 ([AS 2026 114](https://fedlex.data.admin.ch/eli/oc/2026/114)).
+[^31-3]: Fassung gemäss Ziff. I der V vom 25. Febr. 2026, in Kraft seit 1. April 2026 ([AS 2026 114](https://fedlex.data.admin.ch/eli/oc/2026/114)).
 
 #### Art. 31a
 
-**Besondere Bestimmungen bei Flughäfen mit Verkehr von Grossflugzeugen**[^31a-1]
+[^31a-1]
 
-<sup>1</sup>
-
-Bei Flughäfen, auf denen Grossflugzeuge verkehren, gelten die Planungs- und Immissionsgrenzwerte nach Anhang 5 Ziffer 222 für die Nachtstunden als eingehalten, wenn:
-
-- a. zwischen 24 und 06 Uhr kein Flugbetrieb vorgesehen ist;
-- b. die lärmempfindlichen Räume mindestens gemäss den erhöhten Anforderungen an den Schallschutz nach der SIA-Norm 181 vom 1. Juni 2006[^31a-2] des Schweizerischen Ingenieur- und Architekten-Vereins gegen Aussen- und Innenlärm geschützt sind; und
-- c.
-
-  die Schlafräume:
-
-  - 1\. über ein Fenster verfügen, das sich in der Zeit von 22–24 Uhr automatisch schliesst und in den übrigen Zeiten automatisch öffnen lässt, und
-  - 2\. so erstellt werden, dass ein angemessenes Raumklima gewährleistet wird.
-
-<sup>2</sup> Bei der Ausscheidung oder Erschliessung von Bauzonen sorgt die zuständige Behörde dafür, dass die Anforderungen gemäss Absatz 1 Buchstaben b und c grundeigentümerverbindlich festgehalten werden.
-
-<sup>3</sup> Das BAFU kann Empfehlungen zum Vollzug von Absatz 1 Buchstabe c erlassen. Es berücksichtigt dabei die massgebenden technischen Normen.
-
-[^31a-1]: Eingefügt durch Ziff. I der V vom 28. Nov. 2014, in Kraft seit 2. Febr. 2015 ([AS 2014 4501](https://fedlex.data.admin.ch/eli/oc/2014/751)).
-[^31a-2]: Die aufgeführte Norm kann beim Schweizerischen Ingenieur- und Architekten-Verein (SIA), Selnaustrasse 16, 8027 Zürich, kostenlos eingesehen oder unter www.sia.ch gegen Bezahlung bezogen werden.
+[^31a-1]: Eingefügt durch Ziff. I der V vom 28. Nov. 2014 ([AS 2014 4501](https://fedlex.data.admin.ch/eli/oc/2014/751)). Aufgehoben durch Ziff. I der V vom 25. Febr. 2026, mit Wirkung seit 1. April 2026 ([AS 2026 114](https://fedlex.data.admin.ch/eli/oc/2026/114)).
 
 ## 6. Kapitel: Schallschutz an neuen Gebäuden
 
@@ -576,11 +563,12 @@ Bei Flughäfen, auf denen Grossflugzeuge verkehren, gelten die Planungs- und Imm
 
 <sup>1</sup> Der Bauherr eines neuen Gebäudes sorgt dafür, dass der Schallschutz bei Aussenbauteilen und Trennbauteilen lärmempfindlicher Räume sowie bei Treppen und haustechnischen Anlagen den anerkannten Regeln der Baukunde entspricht. Als solche gelten beim Lärm der zivilen Flugplätze mit Verkehr von Grossflugzeugen insbesondere die erhöhten Anforderungen und beim Lärm der übrigen ortsfesten Anlagen insbesondere die Mindestanforderungen nach der SIA-Norm 181 des Schweizerischen Ingenieur- und Architekten-Vereins.[^32-1]
 
-<sup>2</sup> Sind zwar die Immissionsgrenzwerte überschritten, jedoch die Voraussetzungen nach Artikel 31 Absatz 2 für die Erteilung der Baubewilligung erfüllt, so verschärft die Vollzugsbehörde die Anforderungen an die Schalldämmung der Aussenbauteile angemessen.
+<sup>2</sup> Sind zwar die Immissionsgrenzwerte überschritten, jedoch die Voraussetzungen nach Artikel 22 des Gesetzes für die Erteilung der Baubewilligung erfüllt, so verschärft die Vollzugsbehörde die Anforderungen an die Schalldämmung der Aussenbauteile angemessen. Die Kosten für diese Verschärfung gelten in der Regel als angemessen, wenn sie höchstens ein Prozent der Gebäudekosten betragen.[^32-2]
 
 <sup>3</sup> Die Anforderungen gelten auch für Aussenbauteile, Trennbauteile, Treppen und haustechnische Anlagen, die umgebaut, ersetzt oder neu eingebaut werden. Die Vollzugsbehörde gewährt auf Gesuch hin Erleichterungen, wenn die Einhaltung der Anforderungen unverhältnismässig ist.
 
 [^32-1]: Fassung des zweiten Satzes gemäss Ziff. I der V vom 12. April 2000, in Kraft seit 1. Mai 2000 ([AS 2000 1388](https://fedlex.data.admin.ch/eli/oc/2000/218)).
+[^32-2]: Fassung gemäss Ziff. I der V vom 25. Febr. 2026, in Kraft seit 1. April 2026 ([AS 2026 114](https://fedlex.data.admin.ch/eli/oc/2026/114)).
 
 #### Art. 33
 
@@ -600,11 +588,13 @@ Bei Flughäfen, auf denen Grossflugzeuge verkehren, gelten die Planungs- und Imm
 
 Der Bauherr muss im Baugesuch angeben:
 
-- a. die Aussenlärmbelastung, sofern die Immissionsgrenzwerte überschritten sind;
+- a.[^34-1] die Aussenlärmbelastung und die nach Artikel 31 Absatz 1 geprüften Massnahmen, sofern die Immissionsgrenzwerte überschritten sind;
 - b. die Nutzung der Räume;
 - c. die Aussenbauteile und Trennbauteile lärmempfindlicher Räume.
 
 <sup>2</sup> Bei Bauvorhaben in Gebieten, in denen die Immissionsgrenzwerte überschritten sind, kann die Vollzugsbehörde Angaben über die Schalldämmung der Aussenbauteile verlangen.
+
+[^34-1]: Fassung gemäss Ziff. I der V vom 25. Febr. 2026, in Kraft seit 1. April 2026 ([AS 2026 114](https://fedlex.data.admin.ch/eli/oc/2026/114)).
 
 #### Art. 35
 
@@ -703,7 +693,10 @@ Die Lärmbelastungskataster geben an:
 
 <sup>3</sup> In noch nicht überbauten Bauzonen werden die Lärmimmissionen dort ermittelt, wo nach dem Bau- und Planungsrecht Gebäude mit lärmempfindlichen Räumen erstellt werden dürfen.
 
+<sup>4</sup> Bei privat nutzbaren Aussenräumen werden die Lärmimmissionen 1,5 m über dem Boden des Aussenraums ermittelt.[^39-2]
+
 [^39-1]: Die Berichtigung vom 7. Mai 2019 betrifft nur den französischen Text ([AS 2019 1337](https://fedlex.data.admin.ch/eli/oc/2019/259)).
+[^39-2]: Eingefügt durch Ziff. I der V vom 25. Febr. 2026, in Kraft seit 1. April 2026 ([AS 2026 114](https://fedlex.data.admin.ch/eli/oc/2026/114)).
 
 ### 2. Abschnitt: Beurteilung
 
@@ -730,7 +723,11 @@ Sie gelten ausserdem:
 - a. in noch nicht überbauten Bauzonen dort, wo nach dem Bau- und Planungsrecht Gebäude mit lärmempfindlichen Räumen erstellt werden dürfen;
 - b. im nicht überbauten Gebiet von Zonen mit erhöhtem Lärmschutzbedürfnis.
 
+<sup>2bis</sup> Die Immissionsgrenzwerte gelten zusätzlich bei der Erteilung der Baubewilligung auf der gesamten Fläche des privat nutzbaren Aussenraums nach Artikel 22 Absatz 2 Buchstabe a Ziffer 3 des Gesetzes.[^41-1]
+
 <sup>3</sup> Für Gebiete und Gebäude, in denen sich Personen in der Regel nur am Tag oder in der Nacht aufhalten, gelten für die Nacht bzw. den Tag keine Belastungsgrenzwerte.
+
+[^41-1]: Eingefügt durch Ziff. I der V vom 25. Febr. 2026, in Kraft seit 1. April 2026 ([AS 2026 114](https://fedlex.data.admin.ch/eli/oc/2026/114)).
 
 #### Art. 42
 
@@ -755,7 +752,7 @@ In Nutzungszonen nach Artikel 14 ff. des Raumplanungsgesetzes vom 22. Juni 1979[
 
 <sup>2</sup> Teilen von Nutzungszonen der Empfindlichkeitsstufe I oder II kann die nächst höhere Stufe zugeordnet werden, wenn sie mit Lärm vorbelastet sind.
 
-[^43-1]: [SR 700](https://fedlex.data.admin.ch/eli/cc/1979/1573_1573_1573)
+[^43-1]: [SR 700](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8351)
 
 #### Art. 44
 
@@ -814,8 +811,8 @@ Für den Vollzug der Vorschriften über Emissionsbegrenzungen (Art. 4, 7–9 und
 
   bei elektrischen Anlagen:
 
-  - 1\. das Bundesamt für Energie in den Fällen, in denen das Eidgenössische Starkstrominspektorat (ESTI) nach Artikel 16 Absatz 2 Buchstabe b des Elektrizitätsgesetzes vom 24. Juni 1902[^45-5] Einsprachen nicht erledigen oder Differenzen mit den beteiligten Bundesbehörden nicht ausräumen konnte,
-  - 2\. in den anderen Fällen das ESTI;
+  - 1\. das Bundesamt für Energie in den Fällen, in denen das Eidgenössische Starkstrominspektorat ( ESTI ) nach Artikel 16 Absatz 2 Buchstabe b des Elektrizitätsgesetzes vom 24. Juni 1902[^45-5] Einsprachen nicht erledigen oder Differenzen mit den beteiligten Bundesbehörden nicht ausräumen konnte,
+  - 2\. in den anderen Fällen das ESTI ;
 
 - f. bei Seilbahnanlagen nach Artikel 2 des Seilbahngesetzes vom 23. Juni 2006[^45-6]: das Bundesamt für Verkehr.[^45-7]
 
@@ -825,10 +822,10 @@ Für den Vollzug der Vorschriften über Emissionsbegrenzungen (Art. 4, 7–9 und
 
 [^45-1]: Fassung gemäss Ziff. II 14 der V vom 2. Febr. 2000 zum BG über die Koordination und Vereinfachung von Entscheidverfahren, in Kraft seit 1. März 2000 ([AS 2000 703](https://fedlex.data.admin.ch/eli/oc/2000/121)).
 [^45-2]: Eingefügt gemäss Anhang 2 Ziff. 9 der V vom 21. Mai 2008 über Geoinformation, in Kraft seit 1. Juli 2008 ([AS 2008 2809](https://fedlex.data.admin.ch/eli/oc/2008/389)).
-[^45-3]: [SR 742.101](https://fedlex.data.admin.ch/eli/cc/1958/335_341_347)
-[^45-4]: [SR 748.0](https://fedlex.data.admin.ch/eli/cc/1950/471_491_479)
-[^45-5]: [SR 734.0](https://fedlex.data.admin.ch/eli/cc/19/259_252_257)
-[^45-6]: [SR 743.01](https://fedlex.data.admin.ch/eli/cc/2006/853)
+[^45-3]: [SR 742.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8719)
+[^45-4]: [SR 748.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9033)
+[^45-5]: [SR 734.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8570)
+[^45-6]: [SR 743.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8834)
 [^45-7]: Fassung gemäss Ziff. I der V vom 30. Juni 2010, in Kraft seit 1. Aug. 2010 ([AS 2010 3223](https://fedlex.data.admin.ch/eli/oc/2010/433)).
 [^45-8]: Eingefügt durch Ziff. I der V vom 30. Juni 2010, in Kraft seit 1. Aug. 2010 ([AS 2010 3223](https://fedlex.data.admin.ch/eli/oc/2010/433)).
 
@@ -847,7 +844,7 @@ Das BAFU führt eine nationale Übersicht über die Lärmbelastung. Es veröffen
 Das BAFU gibt die minimalen Geodatenmodelle und Darstellungsmodelle für Geobasisdaten nach dieser Verordnung vor, für die es im Anhang 1 der Geoinformationsverordnung vom 21. Mai 2008[^46-2] als Fachstelle des Bundes bezeichnet ist.
 
 [^46-1]: Fassung gemäss Anhang 2 Ziff. 9 der V vom 21. Mai 2008 über Geoinformation, in Kraft seit 1. Juli 2008 ([AS 2008 2809](https://fedlex.data.admin.ch/eli/oc/2008/389)).
-[^46-2]: [SR 510.620](https://fedlex.data.admin.ch/eli/cc/2008/389)
+[^46-2]: [SR 510.620](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7339)
 
 ### 2. Abschnitt: Übergangsbestimmungen
 
@@ -939,7 +936,7 @@ Anhang 2[^t-2]
 
 Für die Messgeräte, die zur Messung der Lärmimmissionen verwendet werden, gelten die Anforderungen der Messmittelverordnung vom 15. Februar 2006[^annex2-lvlu1-lvl2-1] und der entsprechenden Ausführungsvorschriften des Eidgenössischen Justiz- und Polizeidepartements.
 
-[^annex2-lvlu1-lvl2-1]: [SR 941.210](https://fedlex.data.admin.ch/eli/cc/2006/245)
+[^annex2-lvlu1-lvl2-1]: [SR 941.210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11180)
 
 Anhang 3
 
@@ -1168,13 +1165,13 @@ Zusätzlich zu den Belastungsgrenzwerten in Lr<sub>k</sub> gelten für den Lärm
 <tr><td colspan="4">[tab] <sup>1</sup> Die höheren Werte gelten für die erste Nachtstunde (22–23 Uhr)</td></tr>
 </table>
 
-### 23 Belastungsgrenzwerte in <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20250101/de/xml/image/image1.png)</sub>max
+### 23 Belastungsgrenzwerte in <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20260401/de/xml/image/image1.png)</sub>max
 
-Zusätzlich zu den Belastungsgrenzwerten in Lr<sub>k</sub> gelten für den Lärm des Verkehrs auf zivilen Flugplätzen, auf denen ausschliesslich Helikopter verkehren (Helikopterflugplätze), die nachfolgenden Belastungsgrenzwerte in <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20250101/de/xml/image/image2.png)</sub>max:
+Zusätzlich zu den Belastungsgrenzwerten in Lr<sub>k</sub> gelten für den Lärm des Verkehrs auf zivilen Flugplätzen, auf denen ausschliesslich Helikopter verkehren (Helikopterflugplätze), die nachfolgenden Belastungsgrenzwerte in <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20260401/de/xml/image/image2.png)</sub>max:
 
 <table>
 <tr><td>Empfindlichkeitsstufe (Art. 43)</td><td>Planungswert</td><td>Immissionsgrenzwert</td><td>Alarmwert</td></tr>
-<tr><td></td><td><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20250101/de/xml/image/image3.png)</sub>in dB(A)</td><td><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20250101/de/xml/image/image4.png)</sub>in dB(A)</td><td><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20250101/de/xml/image/image4.png)</sub>in dB(A)</td></tr>
+<tr><td></td><td><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20260401/de/xml/image/image3.png)</sub>in dB(A)</td><td><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20260401/de/xml/image/image4.png)</sub>in dB(A)</td><td><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20260401/de/xml/image/image4.png)</sub>in dB(A)</td></tr>
 <tr><td>I</td><td>70</td><td>75</td><td>85</td></tr>
 <tr><td>II</td><td>75</td><td>80</td><td>90</td></tr>
 <tr><td>III</td><td>80</td><td>85</td><td>90</td></tr>
@@ -1244,11 +1241,11 @@ Lr<sub>n</sub> = Leq<sub>n</sub>
 
 <sup>3</sup> Flüge nach der zweiten (23–24 Uhr) und vor der letzten Nachtstunde (05–06 Uhr) werden der zweiten Nachtstunde (23–24 Uhr) zugerechnet.
 
-### 5 Ermittlung des mittleren maximalen Lärmpegels <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20250101/de/xml/image/image5.png)</sub>max bei Helikopterflugplätzen
+### 5 Ermittlung des mittleren maximalen Lärmpegels <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20260401/de/xml/image/image5.png)</sub>max bei Helikopterflugplätzen
 
-<sup>1</sup> Der mittlere maximale Lärmpegel <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20250101/de/xml/image/image2.png)</sub>max bei Helikopterflugplätzen ist das energetische Mittel der maximalen Lärmpegel einer repräsentativen Anzahl Über- oder Vorbeiflüge.
+<sup>1</sup> Der mittlere maximale Lärmpegel <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20260401/de/xml/image/image2.png)</sub>max bei Helikopterflugplätzen ist das energetische Mittel der maximalen Lärmpegel einer repräsentativen Anzahl Über- oder Vorbeiflüge.
 
-<sup>2</sup> Messungen zur Ermittlung des <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20250101/de/xml/image/image6.png)</sub>max müssen mit der Geräteeinstellung SLOW durchgeführt werden.
+<sup>2</sup> Messungen zur Ermittlung des <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20260401/de/xml/image/image6.png)</sub>max müssen mit der Geräteeinstellung SLOW durchgeführt werden.
 
 Anhang 6[^t-4]
 
@@ -1287,7 +1284,7 @@ Anhang 6[^t-4]
 
 <sup>1</sup> Der Beurteilungspegel Lr für Industrie- und Gewerbelärm und ähnliche Lärmarten wird, getrennt für den Tag (07 bis 19 Uhr) und die Nacht (19 bis 07 Uhr), aus den Teilbeurteilungspegeln Lr,i der einzelnen Lärmphasen wie folgt berechnet:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20250101/de/xml/image/image7.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20260401/de/xml/image/image7.png)
 
 <sup>2</sup> Der Teilbeurteilungspegel Lr,i wird für die durchschnittliche tägliche Dauer der Lärmphase i wie folgt berechnet:
 
@@ -1367,7 +1364,7 @@ Anhang 7[^t-5]
 
 <sup>3</sup> Die zivilen Schiessanlagen gelten als öffentlich, soweit auf diesen Schiessübungen nach den Artikeln 62 und 63 des Militärgesetzes vom 3. Februar 1995[^annex7-lvlu1-lvl1-1] durchgeführt werden.
 
-[^annex7-lvlu1-lvl1-1]: [SR 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
+[^annex7-lvlu1-lvl1-1]: [SR 510.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7242)
 
 ### 2 Belastungsgrenzwerte
 
@@ -1382,7 +1379,7 @@ Anhang 7[^t-5]
 
 Für Lärm von öffentlichen Anlagen nach Ziffer 1 Absatz 3[^annex7-lvlu1-lvl2-1], bei welchen die Waffenkategorien a oder b eine Pegelkorrektur Ki &lt; –15 aufweisen, gelten keine Alarmwerte. Für solche Anlagen entfallen Schallschutzmassnahmen nach Artikel 15. Die ermittelte Pegelkorrektur Ki berechnet sich nach Ziffer 321.
 
-[^annex7-lvlu1-lvl2-1]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) auf den 1. Aug. 2010 angepasst.
+[^annex7-lvlu1-lvl2-1]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)) auf den 1. Aug. 2010 angepasst.
 
 ### 3 Ermittlung des Beurteilungspegels
 
@@ -1390,7 +1387,7 @@ Für Lärm von öffentlichen Anlagen nach Ziffer 1 Absatz 3[^annex7-lvlu1-lvl2-1
 
 <sup>1</sup> Der Beurteilungspegel Lr für den Lärm von Schiessanlagen ist die energetische Summe der Teilbeurteilungspegel Lri der Waffenkategorien:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20250101/de/xml/image/image8.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20260401/de/xml/image/image8.png)
 
 <sup>2</sup> Der Teilbeurteilungspegel Lri ist die Summe des mittleren Einzelschusspegels Li einer Waffenkategorie und der Pegelkorrektur Ki:
 
@@ -1398,7 +1395,7 @@ Lri = Li + Ki
 
 <sup>3</sup> Der mittlere Einzelschusspegel Li ist das über die Schusszahlen gewichtete energetische Mittel der energetisch gemittelten Einzelschusspegel Lj eines Waffen- bzw. Munitionstyps:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20250101/de/xml/image/image9.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20260401/de/xml/image/image9.png)
 
 <sup>4</sup> Der energetisch gemittelte Einzelschusspegel Lj ist anhand von Messungen des A‑bewerteten Maximalpegels mit der Zeitkonstanten FAST zu ermitteln.
 

@@ -4,11 +4,11 @@ title: Noise Abatement Ordinance of 15 December 1986 (NAO)
 short: NAO
 eli: "https://fedlex.data.admin.ch/eli/cc/1987/338_338_338"
 language: en
-version: 2025-01-01
+version: 2026-04-01
 adopted: 1986-12-15
 in_force: 1987-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20250101/en/xml/fedlex-data-admin-ch-eli-cc-1987-338_338_338-20250101-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1987/338_338_338/20250101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20260401/en/xml/fedlex-data-admin-ch-eli-cc-1987-338_338_338-20260401-en-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1987/338_338_338/20260401/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (NAO)
 
-of 15 December 1986 (Status as of 1 January 2025)
+of 15 December 1986 (Last amended on 1 April 2026)
 
 The Swiss Federal Council,
 
@@ -27,7 +27,7 @@ on the basis of Articles 5, 12 paragraph 2, 13 paragraph 1, 16 paragraph 2, 19, 
 
 ordains:
 
-[^ingress-1]: [SR 814.01](https://fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122)
+[^ingress-1]: [SR 814.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9437)
 
 ## Chapter 1 General Provisions
 
@@ -42,7 +42,7 @@ ordains:
 It regulates:
 
 - a. the limitation of exterior noise emissions caused by the operation of new and existing installations in accordance with Article 7 of the Act;
-- b. the designation and development of building zones in areas exposed to noise;
+- b.[^1-1] the designation of building zones and the amendment of land-use plans in areas exposed to noise;
 - c. the issuing of planning permission for buildings with rooms sensitive to noise and lying in areas exposed to noise;
 - d. the soundproofing against exterior and interior noise of new buildings with rooms sensitive to noise;
 - e. the soundproofing against exterior noise of existing buildings with rooms sensitive to noise;
@@ -55,9 +55,10 @@ It does not regulate:
 - a. protection against noise originating from an industrial site as long as this only affects industrial buildings and dwellings within the site;
 - b. protection against infra- and ultrasound.
 
-<sup>4</sup> …[^1-1]
+<sup>4</sup> …[^1-2]
 
-[^1-1]: Repealed by No I of the O of 12 April 2000, with effect from 1 May 2000 ([AS 2000 1388](https://fedlex.data.admin.ch/eli/oc/2000/218)).
+[^1-1]: Amended by No I of the O of 25 Feb. 2026, in force since 1 April 2026 ([AS 2026 114](https://fedlex.data.admin.ch/eli/oc/2026/114)).
+[^1-2]: Repealed by No I of the O of 12 April 2000, with effect from 1 May 2000 ([AS 2000 1388](https://fedlex.data.admin.ch/eli/oc/2000/218)).
 
 #### Art. 2
 
@@ -313,8 +314,8 @@ In assessing urgency, the following factors are decisive:
 
 The time limit (para. 3) for improvements and soundproofing measures on roads are extended:
 
-- a. for national roads until 31 March 2015;
-- b. for trunk roads according to Article 12 of the Federal Act of 22 March 1985[^17-1] on the Application of the Earmarked Mineral Oil Tax (MinOA), and for other roads until 31 March 2018[^17-2].
+- for national roads until 31 March 2015;
+- for trunk roads according to Article 12 of the Federal Act of 22 March 1985[^17-1] on the Application of the Earmarked Mineral Oil Tax (MinOA), and for other roads until 31 March 2018[^17-2].
 
 <sup>5</sup> The time limits specified in the Federal Act of 24 March 2000[^17-3] on Railways Noise Abatement apply to the completion of improvements and soundproofing measures on railway installations.[^17-4]
 
@@ -322,14 +323,14 @@ The time limit (para. 3) for improvements and soundproofing measures on roads ar
 
 The improvements and soundproofing measures must be completed:
 
-- a. at military aerodromes by 31 July 2020;
-- b. at civil aerodromes that are used by heavy aircraft by 31 May 2016;
-- c. at civil shooting ranges that require compulsory improvements as a result of the Amendment of 23 August 2006[^17-5] of Annex 7: by 1 November 2016;
-- d. at military firing ranges and training grounds: by 31 July 2025.[^17-6]
+- at military aerodromes by 31 July 2020;
+- at civil aerodromes that are used by heavy aircraft by 31 May 2016;
+- at civil shooting ranges that require compulsory improvements as a result of the Amendment of 23 August 2006[^17-5] of Annex 7: by 1 November 2016;
+- at military firing ranges and training grounds: by 31 July 2025.[^17-6]
 
-[^17-1]: [SR 725.116.2](https://fedlex.data.admin.ch/eli/cc/1985/834_834_834)
+[^17-1]: [SR 725.116.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8462)
 [^17-2]: Inserted by No I of the O of 1 Sept. 2004, in force since 1 Oct. 2004 ([AS 2004 4167](https://fedlex.data.admin.ch/eli/oc/2004/623)).
-[^17-3]: [SR 742.144](https://fedlex.data.admin.ch/eli/cc/2000/342)
+[^17-3]: [SR 742.144](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8764)
 [^17-4]: Inserted by No I of the O of 1 Sept. 2004, in force since 1 Oct. 2004 ([AS 2004 4167](https://fedlex.data.admin.ch/eli/oc/2004/623)).
 [^17-5]: [AS 2006 3693](https://fedlex.data.admin.ch/eli/oc/2006/562)
 [^17-6]: Inserted by No I of the O of 23 Aug. 2006 ([AS 2006 3693](https://fedlex.data.admin.ch/eli/oc/2006/562)). Amended by No I of the O of 30 June 2010, in force since 1 Aug. 2010 ([AS 2010 3223](https://fedlex.data.admin.ch/eli/oc/2010/433)).
@@ -356,7 +357,7 @@ Within one year of completion, the enforcement authorities shall inspect the imp
 
 For roads, the enforcement authorities must provide the following documents in particular by 31 March each year:
 
-- a.
+-
 
   a summary of:
 
@@ -393,15 +394,15 @@ For roads, the enforcement authorities must provide the following documents in p
 
 The Confederation shall grant subsidies for improvements and soundproofing measures on existing infrastructure for:[^21-1]
 
-- a. trunk roads according to Article 12 MinOA[^21-2];
-- b. other roads.
+- trunk roads according to Article 12 MinOA[^21-2];
+- other roads.
 
 <sup>2</sup> The subsidies granted under paragraph 1 letter a form part of the global payments according to Article 13 MinOA. The payments under paragraph 1 letter b are granted globally in terms of programme agreements with the cantons.[^21-3]
 
 <sup>3</sup> ...[^21-4]
 
 [^21-1]: Amended by No I of the O of 21 Feb. 2018, in force since 1 April 2018 ([AS 2018 965](https://fedlex.data.admin.ch/eli/oc/2018/137)).
-[^21-2]: [SR 725.116.2](https://fedlex.data.admin.ch/eli/cc/1985/834_834_834)
+[^21-2]: [SR 725.116.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8462)
 [^21-3]: Sentence amended by No I of the O of 12 May 2021, in force since 1 Jan. 2025 ([AS 2021 293](https://fedlex.data.admin.ch/eli/oc/2021/293)).
 [^21-4]: Inserted by No I of the O of 21 Feb. 2018 ([AS 2018 965](https://fedlex.data.admin.ch/eli/oc/2018/137)). Repealed by No I of the O of 12 May 2021, with effect from 1 July 2021 ([AS 2021 293](https://fedlex.data.admin.ch/eli/oc/2021/293)).
 
@@ -483,8 +484,8 @@ Global subsidies are paid out in instalments.
 
 The FOEN shall verify by random sample:
 
-- a. implementation of individual measures in accordance with the programme goals;
-- b. use of the payments made.
+- implementation of individual measures in accordance with the programme goals;
+- use of the payments made.
 
 #### Art. 27
 
@@ -494,8 +495,8 @@ The FOEN shall verify by random sample:
 
 The FOEN shall withhold all or part of the instalment payments during the programme if the canton:
 
-- a. fails to fulfil its reporting duty (Art. 26 para. 1);
-- b. fails to meet its obligations to a substantial extent through its own fault.
+- fails to fulfil its reporting duty (Art. 26 para. 1);
+- fails to meet its obligations to a substantial extent through its own fault.
 
 <sup>2</sup> If on conclusion of the programme it emerges that the canton has failed to meet its obligations, the competent Federal Office shall require the canton to rectify the situation; it shall set the Canton an appropriate deadline for doing so.
 
@@ -503,7 +504,7 @@ The FOEN shall withhold all or part of the instalment payments during the progra
 
 <sup>4</sup> If the defects are not rectified or the misuse does not stop or is not remedied, the subsidies may be reclaimed in accordance with Articles 28 and 29 of the Subsidies Act of 5 October 1990[^27-1].
 
-[^27-1]: [SR 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
+[^27-1]: [SR 616.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7794)
 
 #### Art. 28
 
@@ -513,21 +514,21 @@ Repealed
 
 #### Art. 29
 
-**Designation of new building zones and new zones with higher noise abatement requirements**
+**Designation of building zones and amendments to land-use plans in areas exposed to noise**[^29-1]
 
-<sup>1</sup> New building zones for buildings with rooms sensitive to noise and new no-build zones with higher noise abatement requirements shall be designated only in areas in which noise exposure does not exceed the planning values or in which these values can be complied with by planning, design or structural measures.
+<sup>1</sup> The relevant exposure limit values can be met through planning, design or construction measures.
 
-<sup>2</sup> …[^29-1]
+<sup>2</sup> Open spaces referred to in Article 24 paragraph 3 letter b of the Act must be of a reasonable size and accessible on foot without any obstacles. They shall feature a design and infrastructure geared towards recreation.
 
-[^29-1]: Repealed by No I of the O of 16 June 1997, with effect from 1 Aug. 1997 ([AS 1997 1588](https://fedlex.data.admin.ch/eli/oc/1997/1588_1588_1588)).
+<sup>3</sup> The measures referred to in Article 24 paragraph 3 letter c of the Act must be determined according to the relevant level. From an acoustic point of view, they shall contribute to an appropriate quality of life by limiting noise emissions or otherwise reducing any impairment of well-being.
+
+[^29-1]: Amended by No I of the O of 25 Feb. 2026, with effect from 1 April 2026 ([AS 2026 114](https://fedlex.data.admin.ch/eli/oc/2026/114)).
 
 #### Art. 30
 
-**Development of building zones**[^30-1]
+[^30-1]
 
-Building zones for buildings with rooms sensitive to noise that have not yet been developed when the Act comes into force may only be developed to the extent that the planning values are complied with or can be complied with by a change in the type of use, or by planning, design or structural measures. The enforcement authorities may grant exceptions for small sections of building zones.
-
-[^30-1]: Amended by No I of the O of 30 June 2010, in force since 1 Aug. 2010 ([AS 2010 3223](https://fedlex.data.admin.ch/eli/oc/2010/433)).
+[^30-1]: Repealed by No I of the O of 25 Feb. 2026, with effect from 1 April 2026 ([AS 2026 114](https://fedlex.data.admin.ch/eli/oc/2026/114)).
 
 #### Art. 31
 
@@ -537,38 +538,24 @@ Building zones for buildings with rooms sensitive to noise that have not yet bee
 
 If the impact thresholds are exceeded, new buildings and significant modifications to buildings with rooms sensitive to noise may only be authorised if the values can be complied with:
 
-- a. by locating the rooms sensitive to noise on the side of the building away from the source of the noise; or
-- b. by structural or design measures which shield the building against noise.[^31-1]
+- by locating the rooms sensitive to noise on the side of the building away from the source of the noise; or
+- by structural or design measures which shield the building against noise.[^31-1]
 
-<sup>2</sup> If the impact thresholds cannot be complied with by measures under paragraph 1, planning permission may be granted only if there is an overriding interest in constructing the building and the cantonal authorities agree.
+<sup>1bis</sup> Controlled domestic ventilation and cooling systems must be state of the art.[^31-2]
+
+<sup>2</sup> If the requirements of Article 22 paragraph 2 letter a of the Act cannot be met in relation to aircraft noise or where no more than ten per cent of the residential units in large housing developments are affected, a building permit may be granted by way of exception if there is an overriding interest in the construction of the building and the cantonal authority gives its consent.[^31-3]
 
 <sup>3</sup> The landowners bear the costs of the measures.
 
 [^31-1]: Amended by No I of the O of 16 June 1997, in force since 1 Aug. 1997 ([AS 1997 1588](https://fedlex.data.admin.ch/eli/oc/1997/1588_1588_1588)).
+[^31-2]: Inserted by No I of the O of 25 Feb. 2026, in force since 1 April 2026 ([AS 2026 114](https://fedlex.data.admin.ch/eli/oc/2026/114)).
+[^31-3]: Amended by No I of the O of 25 Feb. 2026, in force since 1 April 2026 ([AS 2026 114](https://fedlex.data.admin.ch/eli/oc/2026/114)).
 
 #### Art. 31a
 
-**Special provisions for airports used by large aircraft**[^31a-1]
+[^31a-1]
 
-<sup>1</sup>
-
-In the case of airports that are used by large aircraft, the planning values and impact thresholds under Annex 5 number 222 are complied with at night if:
-
-- a. no flight operations are planned between 24 and 06 hours;
-- b. rooms sensitive to noise are protected against exterior and interior noise as a minimum in accordance with the increased requirements for soundproofing under SIA Standard 181 of 1 June 2006[^31a-2] of the Swiss Society of Engineers and Architects; and
-- c.
-
-  the bedrooms:
-
-  - 1\. have a window that closes automatically between 22 and 24 hours and can be opened automatically at other times, and
-  - 2\. are designed to guarantee an appropriate indoor climate.
-
-<sup>2</sup> When designating or developing building zones, the competent authority shall ensure that the requirements set out in paragraph 1 letters b and c are made binding on property owners.
-
-<sup>3</sup> The FOEN may issue recommendations on the enforcement of paragraph 1 letter c. In doing so, it shall take account of the relevant technical standards.
-
-[^31a-1]: Inserted by No I of the O of 28 Nov. 2014, in force since 2 Feb. 2015 ([AS 2014 4501](https://fedlex.data.admin.ch/eli/oc/2014/751)).
-[^31a-2]: The said standard may be inspected free of charge at the Swiss Society of Engineers and Architects (SIA), Selnaustrasse 16, 8027 Zurich, or obtained for a free from www.sia.ch.
+[^31a-1]: Inserted by No I of the O of 28 Nov. 2014 ([AS 2014 4501](https://fedlex.data.admin.ch/eli/oc/2014/751)). Repealed by No I of the O of 25 Feb. 2026, with effect from 1 April 2026 ([AS 2026 114](https://fedlex.data.admin.ch/eli/oc/2026/114)).
 
 ## Chapter 6 Soundproofing of New Buildings
 
@@ -578,11 +565,12 @@ In the case of airports that are used by large aircraft, the planning values and
 
 <sup>1</sup> The project owner of a new building shall ensure that the soundproofing of the external building elements and partitions of rooms sensitive to noise, and of the stairs and building facilities complies with recognised codes of building practice. These are in particular, for noise from civil aerodromes that are used by heavy aircraft, the stricter requirements, and for noise from other stationary installations, the minimum requirements, of SIA Standard No 181 of the Swiss Society of Engineers and Architects.[^32-1]
 
-<sup>2</sup> If the impact thresholds are exceeded but the requirements of Article 31 paragraph 2 for granting planning permission are fulfilled, the enforcement authorities shall impose stricter requirements for the soundproofing of the external building elements appropriately.
+<sup>2</sup> If the ambient limit values are exceeded but the requirements of Article paragraph 22 for granting a building permit are met, the enforcement authorities shall impose stricter requirements for the soundproofing of the external building elements appropriately. The costs associated with these stricter requirements shall generally be considered reasonable if they do not exceed one per cent of the building costs.[^32-2]
 
 <sup>3</sup> The requirements also apply to the external building elements, partitions, stairways and building facilities that are converted, replaced or newly installed. On request, the enforcement authorities grant relief if compliance with the requirements would involve unreasonable cost.
 
 [^32-1]: Sentence amended by No I of the O of 12 April 2000, in force since 1 May 2000 ([AS 2000 1388](https://fedlex.data.admin.ch/eli/oc/2000/218)).
+[^32-2]: Amended by No I of the O of 25 Feb. 2026, in force since 1 April 2026 ([AS 2026 114](https://fedlex.data.admin.ch/eli/oc/2026/114)).
 
 #### Art. 33
 
@@ -602,11 +590,13 @@ In the case of airports that are used by large aircraft, the planning values and
 
 The project owner must specify in the application:
 
-- a. the exterior noise pollution in the event that the impact thresholds are exceeded;
+- a.[^34-1] the exterior noise pollution and the measures assessed in accordance with Article 31 paragraph 1 in the event that the ambient limit values have been exceeded;
 - b. the use to which the rooms are put;
 - c. the external building elements and partitions of rooms sensitive to noise.
 
 <sup>2</sup> For building projects in areas in which the impact thresholds are exceeded, the enforcement authorities may demand details of the soundproofing of the external building elements.
+
+[^34-1]: Amended by No I of the O of 25 Feb. 2026, in force since 1 April 2026 ([AS 2026 114](https://fedlex.data.admin.ch/eli/oc/2026/114)).
 
 #### Art. 35
 
@@ -632,8 +622,8 @@ After building works are completed, the enforcement authorities shall make rando
 
 They shall take account of increases and reductions in noise exposure levels that are to be expected due to:
 
-- a. the construction, alteration or improvement of stationary installations, in particular if the projects in question have already been approved or made available for public inspection at the time of the investigation; and
-- b. the construction, alteration or demolition of other structures if the projects have been made available for public inspection at the time of the investigation.
+- the construction, alteration or improvement of stationary installations, in particular if the projects in question have already been approved or made available for public inspection at the time of the investigation; and
+- the construction, alteration or demolition of other structures if the projects have been made available for public inspection at the time of the investigation.
 
 <sup>3</sup> …[^36-2]
 
@@ -650,13 +640,13 @@ They shall take account of increases and reductions in noise exposure levels tha
 
 The noise pollution registers specify:
 
-- a. the noise pollution measured;
-- b. the calculation procedure used;
-- c. the input data for the calculation;
-- d. the classification of the areas exposed to noise in the land use plan;
-- e. the sensitivity levels applicable;
-- f. the installations and their owners;
-- g. the number of persons who are affected by noise exposure levels above the applicable exposure limit values.
+- the noise pollution measured;
+- the calculation procedure used;
+- the input data for the calculation;
+- the classification of the areas exposed to noise in the land use plan;
+- the sensitivity levels applicable;
+- the installations and their owners;
+- the number of persons who are affected by noise exposure levels above the applicable exposure limit values.
 
 <sup>3</sup> The enforcement authorities are responsible for the supervision and revision of the registers.
 
@@ -705,7 +695,10 @@ The noise pollution registers specify:
 
 <sup>3</sup> In building zones that have not yet been developed, noise exposure levels shall be measured at points where the building and planning legislation allows the building of rooms sensitive to noise.
 
+<sup>4</sup> For outdoor areas intended for private use, noise levels are measured 1.5 metres above the ground in the outdoor area.[^39-2]
+
 [^39-1]: The correction of 7 May 2019 concerns the French text only ([AS 2019 1337](https://fedlex.data.admin.ch/eli/oc/2019/259)).
+[^39-2]: Inserted by No I of the O of 25 Feb. 2026, in force since 1 April 2026 ([AS 2026 114](https://fedlex.data.admin.ch/eli/oc/2026/114)).
 
 ### Section 2 Rating
 
@@ -729,10 +722,14 @@ The noise pollution registers specify:
 
 They also apply:
 
-- a. in yet undeveloped building zones in areas where the construction of buildings with rooms sensitive to noise is allowed under the building and planning legislation;
-- b. in the non-developed areas of zones with higher noise abatement requirements.
+- in yet undeveloped building zones in areas where the construction of buildings with rooms sensitive to noise is allowed under the building and planning legislation;
+- in the non-developed areas of zones with higher noise abatement requirements.
+
+<sup>2bis</sup> The ambient limit values also apply if a building permit is granted to the entire area of the privately used outdoor space specified in Article 22 paragraph 2 letter a number 3 of the Act.[^41-1]
 
 <sup>3</sup> For areas and buildings in which, as a rule, people are present either only during the day or only at night, no exposure limit values apply at night or during the day.
+
+[^41-1]: Inserted by No I of the O of 25 Feb. 2026, in force since 1 April 2026 ([AS 2026 114](https://fedlex.data.admin.ch/eli/oc/2026/114)).
 
 #### Art. 42
 
@@ -750,14 +747,14 @@ They also apply:
 
 In land use zones according to Articles 14 ff. of the Spatial Planning Act of 22 June 1979[^43-1], the following sensitivity levels apply:
 
-- a. sensitivity level I in zones with higher noise abatement requirements, notably in leisure zones;
-- b. sensitivity level II in zones in which operations that emit noise are not permitted, notably in residential zones and zones for public buildings and installations;
-- c. sensitivity level III in zones in which operations emitting a certain level of noise are permitted, notably in residential and industrial zones (mixed zones) and agricultural zones;
-- d. sensitivity level IV in zones in which operations emitting a high level of noise are permitted, notably in industrial zones.
+- sensitivity level I in zones with higher noise abatement requirements, notably in leisure zones;
+- sensitivity level II in zones in which operations that emit noise are not permitted, notably in residential zones and zones for public buildings and installations;
+- sensitivity level III in zones in which operations emitting a certain level of noise are permitted, notably in residential and industrial zones (mixed zones) and agricultural zones;
+- sensitivity level IV in zones in which operations emitting a high level of noise are permitted, notably in industrial zones.
 
 <sup>2</sup> Parts of land use zones rated as sensitivity levels I or II may be assigned the next higher level if they are already exposed to noise.
 
-[^43-1]: [SR 700](https://fedlex.data.admin.ch/eli/cc/1979/1573_1573_1573)
+[^43-1]: [SR 700](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8351)
 
 #### Art. 44
 
@@ -790,36 +787,36 @@ In land use zones according to Articles 14 ff. of the Spatial Planning Act of 22
 
 The following authorities are responsible for enforcing the provisions governing emission limitation measures (Art. 4, 7–9 and 12), improvements (Art. 13, 14, 16–18 and 20) and the determination and control of noise exposure levels (Art. 36, 37, 37a and 40):
 
-- a.
+-
 
   for railway installations:
 
-  - 1\. DETEC, where the provisions relate to major railway projects under the Annex to the Railways Act of 20 December 1957[^45-3] and are implemented by means of a planning approval procedure,
-  - 2\. in other cases, the Federal Office of Transport;
+  - DETEC, where the provisions relate to major railway projects under the Annex to the Railways Act of 20 December 1957[^45-3] and are implemented by means of a planning approval procedure,
+  - in other cases, the Federal Office of Transport;
 
-- b.
+-
 
   for civil aerodromes:
 
-  - 1\. DETEC, where the provisions relate to buildings and installations under Article 37 of the Air Navigation Act of 21 December 1948[^45-4] that are used for operation of an aerodrome and are implemented by means of a planning approval procedure,
-  - 2\. in other cases, the Federal Office of Civil Aviation;
+  - DETEC, where the provisions relate to buildings and installations under Article 37 of the Air Navigation Act of 21 December 1948[^45-4] that are used for operation of an aerodrome and are implemented by means of a planning approval procedure,
+  - in other cases, the Federal Office of Civil Aviation;
 
-- c.
+-
 
   for national roads:
 
-  - 1\. DETEC, where the provisions are implemented by means of a planning approval procedure,
-  - 2\. in other cases the Federal Roads Office;
+  - DETEC, where the provisions are implemented by means of a planning approval procedure,
+  - in other cases the Federal Roads Office;
 
-- d. for national defence installations: the Federal Department of Defence, Civil Protection and Sport;
-- e.
+- for national defence installations: the Federal Department of Defence, Civil Protection and Sport;
+-
 
   for electrical installations:
 
-  - 1\. the Swiss Federal Office of Energy in cases where the Federal Inspectorate for Heavy Current Installations (ESTI) has been unable to deal with objections from or resolve disputes with the Federal authorities concerned, in accordance with Article 16 paragraph 2 letter b of the Electricity Act of 24 June 1902[^45-5],
-  - 2\. in other cases the ESTI;
+  - the Swiss Federal Office of Energy in cases where the Federal Inspectorate for Heavy Current Installations (ESTI) has been unable to deal with objections from or resolve disputes with the Federal authorities concerned, in accordance with Article 16 paragraph 2 letter b of the Electricity Act of 24 June 1902[^45-5],
+  - in other cases the ESTI;
 
-- f. for cable railway installations according to Article 2 of the Cable Railways Act of 23 June 2006[^45-6]: the Federal Office of Transport[^45-7].
+- for cable railway installations according to Article 2 of the Cable Railways Act of 23 June 2006[^45-6]: the Federal Office of Transport[^45-7].
 
 <sup>4</sup> In cases where the responsibility for ordering emission limitation measures and improvements lies with the federal authorities, but that for noise protection lies with the cantonal authorities, the two authorities shall coordinate the necessary measures.
 
@@ -827,10 +824,10 @@ The following authorities are responsible for enforcing the provisions governing
 
 [^45-1]: Amended by No II 14 of the O of 2 Feb. 2000 to the Federal Act on the Coordination and Simplification of Decision-making Procedures, in force since 1 March 2000 ([AS 2000 703](https://fedlex.data.admin.ch/eli/oc/2000/121)).
 [^45-2]: Inserted by Annex 2 No 9 of the O of 21 May 2008 on Geoinformation, in force since 1 July 2008 ([AS 2008 2809](https://fedlex.data.admin.ch/eli/oc/2008/389)).
-[^45-3]: [SR 742.101](https://fedlex.data.admin.ch/eli/cc/1958/335_341_347)
-[^45-4]: [SR 748.0](https://fedlex.data.admin.ch/eli/cc/1950/471_491_479)
-[^45-5]: [SR 734.0](https://fedlex.data.admin.ch/eli/cc/19/259_252_257)
-[^45-6]: [SR 743.01](https://fedlex.data.admin.ch/eli/cc/2006/853)
+[^45-3]: [SR 742.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8719)
+[^45-4]: [SR 748.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9033)
+[^45-5]: [SR 734.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8570)
+[^45-6]: [SR 743.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8834)
 [^45-7]: Amended by No I of the O of 30 June 2010, in force since 1 Aug. 2010 ([AS 2010 3223](https://fedlex.data.admin.ch/eli/oc/2010/433)).
 [^45-8]: Inserted by No I of the O of 30 June 2010, in force since 1 Aug. 2010 ([AS 2010 3223](https://fedlex.data.admin.ch/eli/oc/2010/433)).
 
@@ -849,7 +846,7 @@ The FOEN shall conduct a national survey of noise pollution. It shall publish a 
 The FOEN shall provide specifications for the minimal geodata models and presentation models for official geodata under this Ordinance, for which it is designated as the federal specialist authority in Annex 1 to the Geoinformation Ordinance of 21 May 2008[^46-2].
 
 [^46-1]: Amended by Annex 2 No 9 of the O of 21 May 2008 on Geoinformation, in force since 1 July 2008 ([AS 2008 2809](https://fedlex.data.admin.ch/eli/oc/2008/389)).
-[^46-2]: [SR 510.620](https://fedlex.data.admin.ch/eli/cc/2008/389)
+[^46-2]: [SR 510.620](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7339)
 
 ### Section 2 Transitional Provisions
 
@@ -930,10 +927,10 @@ Annex 2[^t-2]
 
 <sup>1</sup> The procedures used to calculate noise exposure levels must take account of:
 
-- a. the emissions from the noise source of the installation;
-- b. the distance between the exposure point and the noise source of the installation or the flight paths (attenuation due to propagation and dissipation);
-- c. the influence of the ground on the propagation of the noise (ground effects);
-- d. the influence of buildings and natural obstacles on the propagation of the noise (attenuation due to obstacles and reflection).
+- the emissions from the noise source of the installation;
+- the distance between the exposure point and the noise source of the installation or the flight paths (attenuation due to propagation and dissipation);
+- the influence of the ground on the propagation of the noise (ground effects);
+- the influence of buildings and natural obstacles on the propagation of the noise (attenuation due to obstacles and reflection).
 
 <sup>2</sup> The FOEN (FOEN) recommends suitable state-of-the-art calculation procedures to the enforcement authorities.
 
@@ -941,7 +938,7 @@ Annex 2[^t-2]
 
 The requirements of the Measuring Instruments Ordinance of 15 February 2006[^annex2-lvlu1-lvl2-1] and the corresponding implementing provisions of the Federal Justice and Police Department apply to the instruments used to measure noise exposure levels.
 
-[^annex2-lvlu1-lvl2-1]: [SR 941.210](https://fedlex.data.admin.ch/eli/cc/2006/245)
+[^annex2-lvlu1-lvl2-1]: [SR 941.210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11180)
 
 Annex 3
 
@@ -998,8 +995,8 @@ Lr2 = Leq,b + K2
 
 <sup>1</sup> The average day and night traffic (Nt, Nn) and the partial traffic flows (Nt1, Nt2, Nn1, Nn2) are determined:
 
-- a. from traffic surveys for existing roads;
-- b. from forecasts of traffic volume for roads which are to be built or modified.
+- from traffic surveys for existing roads;
+- from forecasts of traffic volume for roads which are to be built or modified.
 
 <sup>2</sup> Where insufficient data is available from traffic surveys, or no detailed forecasts exist, the traffic flows Nt, Nn, Nt1, Nt2, Nn1 and Nn2 are calculated from the average daily traffic (ADT; vehicles per 24 h) as follows:
 
@@ -1015,8 +1012,8 @@ Nt2 = 0.10 ⋅ Nt Nn2 = 0.05 ⋅ Nn
 
 The average day and night traffic for railways is determined:
 
-- a. from the timetable and traffic data for existing railway installations;
-- b. from traffic volume forecasts for railway installations which are to be built or modified.
+- from the timetable and traffic data for existing railway installations;
+- from traffic volume forecasts for railway installations which are to be built or modified.
 
 ### 35 Level Corrections
 
@@ -1063,7 +1060,7 @@ Annex 4
 
 <sup>1</sup> The rating sound level Lr for railway noise is determined from the partial rating sound levels for vehicle noise (Lr1) and shunting noise (Lr2) as follows:
 
-Lr = 10 ⋅ log (10<sup>01,</sup> <sup>⋅</sup> <sup>Lr1</sup> + 10<sup>01,</sup> <sup>⋅</sup> <sup>Lr2</sup>)
+Lr = 10 ⋅ log (10<sup>01,</sup> ⋅ <sup>Lr1</sup> + 10<sup>01,</sup> ⋅ <sup>Lr2</sup>)
 
 <sup>2</sup> The partial rating sound level Lr1 is the sum of the equivalent continuous A‑weighted sound level Leq,f resulting from vehicle operation, and the level correction K1:
 
@@ -1170,13 +1167,13 @@ For the total traffic noise from civil aerodromes used by heavy aircraft, the fo
 <tr><td colspan="4">[tab] <sup>1</sup> The higher value applies for the first night hour (22-23 hours)</td></tr>
 </table>
 
-### 23 Exposure Limit Values expressed as <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20250101/en/xml/image/image1.png)</sub>max
+### 23 Exposure Limit Values expressed as <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20260401/en/xml/image/image1.png)</sub>max
 
-For civil aerodromes used exclusively by helicopters (heliports), the following exposure limit values, expressed as <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20250101/en/xml/image/image2.png)</sub>max, apply in addition to the exposure limits expressed as Lr<sub>k</sub>:
+For civil aerodromes used exclusively by helicopters (heliports), the following exposure limit values, expressed as <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20260401/en/xml/image/image2.png)</sub>max, apply in addition to the exposure limits expressed as Lr<sub>k</sub>:
 
 <table>
 <tr><td>Sensitivity level (Art. 43)</td><td>Planning value</td><td>Impact threshold</td><td>Alarm value</td></tr>
-<tr><td></td><td><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20250101/en/xml/image/image3.png)</sub>in dB(A)</td><td><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20250101/en/xml/image/image4.png)</sub>in dB(A)</td><td><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20250101/en/xml/image/image4.png)</sub>in dB(A)</td></tr>
+<tr><td></td><td><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20260401/en/xml/image/image3.png)</sub>in dB(A)</td><td><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20260401/en/xml/image/image4.png)</sub>in dB(A)</td><td><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20260401/en/xml/image/image4.png)</sub>in dB(A)</td></tr>
 <tr><td>I</td><td>70</td><td>75</td><td>85</td></tr>
 <tr><td>II</td><td>75</td><td>80</td><td>90</td></tr>
 <tr><td>III</td><td>80</td><td>85</td><td>90</td></tr>
@@ -1199,9 +1196,9 @@ Lr<sub>k</sub> = Leq<sub>k</sub> + K
 
 For existing civil aerodromes, the number of aircraft movements n is determined as follows:
 
-- a. the six months with the greatest amount of traffic during the operating year are identified;
-- b. for these six months, the average daily number of flight movements is determined separately for each of the seven days of the week. The average daily values for the two days of the week with the most traffic are designated as N1 and N2;
-- c. n is determined by averaging N1 and N2 over the twelve daytime hours as follows:
+- the six months with the greatest amount of traffic during the operating year are identified;
+- for these six months, the average daily number of flight movements is determined separately for each of the seven days of the week. The average daily values for the two days of the week with the most traffic are designated as N1 and N2;
+- n is determined by averaging N1 and N2 over the twelve daytime hours as follows:
 - n = (N1 + N2)/24
 
 ### 33 Number of Aircraft Movements n for new Civil Aerodromes
@@ -1246,13 +1243,13 @@ Lr<sub>n</sub> = Leq<sub>n</sub>
 
 <sup>3</sup> Flights taking place after the second night hour (23-24 hours) and before the last night hour (05-06) are assigned to the second night hour (23-24 hours).
 
-### 5 Determination of the Average Maximum Noise Level <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20250101/en/xml/image/image5.png)</sub>max for Heliports
+### 5 Determination of the Average Maximum Noise Level <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20260401/en/xml/image/image5.png)</sub>max for Heliports
 
-<sup>1</sup> The average maximum noise level <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20250101/en/xml/image/image2.png)</sub>max for heliports is the energetic average of the maximum noise level of a representative number of passing flights or overflights.
+<sup>1</sup> The average maximum noise level <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20260401/en/xml/image/image2.png)</sub>max for heliports is the energetic average of the maximum noise level of a representative number of passing flights or overflights.
 
-<sup>2</sup> Measurements of <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20250101/en/xml/image/image6.png)</sub>max are carried out with the instruments set on SLOW.
+<sup>2</sup> Measurements of <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20260401/en/xml/image/image6.png)</sub>max are carried out with the instruments set on SLOW.
 
-Annex 6 [^t-4]
+Annex 6[^t-4]
 
 (Art. 40 para. 1)
 
@@ -1264,11 +1261,11 @@ Annex 6 [^t-4]
 
 <sup>1</sup> The exposure limit values specified in Number 2 apply to noise:
 
-- a. from industrial, commercial and agricultural installations;
-- b. from goods handling in industrial, commercial and agricultural installations and at railway stations, aerodromes, etc.;
-- c. from traffic within the perimeter of industrial and commercial installations and farmyards;
-- d. from multi-storey car parks and from larger off-road car parks;
-- e. from heating, ventilation and air-conditioning installations.
+- from industrial, commercial and agricultural installations;
+- from goods handling in industrial, commercial and agricultural installations and at railway stations, aerodromes, etc.;
+- from traffic within the perimeter of industrial and commercial installations and farmyards;
+- from multi-storey car parks and from larger off-road car parks;
+- from heating, ventilation and air-conditioning installations.
 
 <sup>2</sup> Energy, waste processing and transport installations, aerial cableways and cable railways, ski lifts and racing tracks that are used regularly for sustained periods of time are considered equivalent to industrial and commercial installations.
 
@@ -1289,7 +1286,7 @@ Annex 6 [^t-4]
 
 <sup>1</sup> The rating sound level Lr for industrial, commercial and similar types of noise is determined from the partial rating sound levels Lr,i for each noise phase as follows, whereby separate calculations are made for daytime (07 to 19 hours) and night-time (19 to 07 hours):
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20250101/en/xml/image/image7.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20260401/en/xml/image/image7.png)
 
 <sup>2</sup> The partial rating sound level Lr,i is determined for the average daily duration of the noise phase i as follows:
 
@@ -1364,17 +1361,17 @@ Annex 7[^t-5]
 
 <sup>2</sup> The hand guns or small arms used at the firing range installations are allocated to the following weapons categories:
 
-- a. assault rifles and portable firearms of comparable calibre;
-- b. small arms with centre fire cartridges, in particular ordnance pistols;
-- c. small arms with rim fire cartridges;
-- d. portable firearms with rim fire cartridges;
-- e. sporting guns with ball cartridges;
-- f. shotguns;
-- g. other firearms.
+- assault rifles and portable firearms of comparable calibre;
+- small arms with centre fire cartridges, in particular ordnance pistols;
+- small arms with rim fire cartridges;
+- portable firearms with rim fire cartridges;
+- sporting guns with ball cartridges;
+- shotguns;
+- other firearms.
 
 <sup>3</sup> Firing range installations are public if they are used for shooting practice in accordance with Articles 62 and 63 of the Armed Forces Act of 3 February 1995[^annex7-lvlu1-lvl1-1].
 
-[^annex7-lvlu1-lvl1-1]: [SR 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
+[^annex7-lvlu1-lvl1-1]: [SR 510.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7242)
 
 ### 2 Exposure Limit Values
 
@@ -1389,7 +1386,7 @@ Annex 7[^t-5]
 
 For noise from public installations according to Number 1 paragraph 3[^annex7-lvlu1-lvl2-1], at which, for weapons in categories a or b, the level correction Ki &lt; –15, no alarm values apply. For such installations, no soundproofing measures under Article 15 are required. The level correction Ki is calculated as specified in Number 321.
 
-[^annex7-lvlu1-lvl2-1]: The reference was amended on 1 Aug. 2010 pursuant to Art. 12 para. 2 of the Publications Act of 18 June 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)).
+[^annex7-lvlu1-lvl2-1]: The reference was amended on 1 Aug. 2010 pursuant to Art. 12 para. 2 of the Publications Act of 18 June 2004 ([SR 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)).
 
 ### 3 Determination of rating sound level
 
@@ -1397,7 +1394,7 @@ For noise from public installations according to Number 1 paragraph 3[^annex7-lv
 
 <sup>1</sup> The rating sound level Lr for the noise from firing range installations is the energetic sum of the partial rating sound level Lri for the weapons categories:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20250101/en/xml/image/image8.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20260401/en/xml/image/image8.png)
 
 <sup>2</sup> The partial rating sound level Lri is the sum of the average single shot sound level Li of a weapons category and the level correction Ki:
 
@@ -1405,7 +1402,7 @@ Lri = Li + Ki
 
 <sup>3</sup> The average single shot sound level Li is the energetic average weighted according to the number of shots of the energetically averaged single shot sound level Lj of a type of weapon or type of ammunition:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20250101/en/xml/image/image9.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/338_338_338/20260401/en/xml/image/image9.png)
 
 <sup>4</sup> The energetically averaged single shot sound level Lj must be determined using the measurements of the A-weighted maximum sound level with the FAST time constants.
 
