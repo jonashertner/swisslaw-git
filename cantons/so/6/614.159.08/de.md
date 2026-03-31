@@ -3,20 +3,19 @@ canton: SO
 number: "614.159.08"
 title: "Steuerverordnung Nr. 8: Auskünfte aus dem Steuerregister"
 language: de
-version: 2010-01-01
-valid_until: 2026-03-31
-version_adopted: 2009-08-24
+version: 2026-04-01
+version_adopted: 2026-02-24
 adopted: 1986-07-01
 in_force: 1986-07-01
 url: "https://bgs.so.ch/app/de/texts_of_law/614.159.08"
-pdf: "https://bgs.so.ch/api/de/versions/3412/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5637/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Steuerverordnung Nr. 8: Auskünfte aus dem Steuerregister
 
-Vom 01.07.1986 (Stand 01.01.2010)
+Vom 01.07.1986 (Stand 01.04.2026)
 
 Der Regierungsrat des Kantons Solothurn
 
@@ -60,7 +59,7 @@ beschliesst:
 
 **b) Auskunftsstelle**
 
-<sup>1</sup> Auskünfte aus dem Steuerregister werden über natürliche Personen von der Veranlagungsbehörde, über juristische Personen von der kantonalen Steuerverwaltung erteilt. Auskünfte aus dem Steuerregister über natürliche und juristische Personen können auch die im Gemeindesteuerreglement bezeichneten Behörden erteilen.
+<sup>1</sup> Auskünfte aus dem Steuerregister werden über natürliche Personen wie auch über juristische Personen vom Kantonalen Steueramt erteilt. Auskünfte aus dem Steuerregister über natürliche und juristische Personen können auch die im Gemeindesteuerreglement bezeichneten Behörden erteilen.
 
 #### § 5
 
