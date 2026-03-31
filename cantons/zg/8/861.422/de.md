@@ -4,13 +4,12 @@ number: "861.422"
 title: Richtlinie betreffend Unterstützungsleistungen für Personen aus dem Asylbereich ohne Aufenthaltsbewilligung
 short: Unterstützungsrichtlinie
 language: de
-version: 2025-01-01
-valid_until: 2026-03-31
-version_adopted: 2024-12-17
+version: 2026-04-01
+version_adopted: 2026-03-23
 adopted: 2022-09-21
 in_force: 2022-10-01
 url: "https://bgs.zg.ch/app/de/texts_of_law/861.422"
-pdf: "https://bgs.zg.ch/api/de/versions/2654/pdf_file"
+pdf: "https://bgs.zg.ch/api/de/versions/2993/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://bgs.zg.ch/api/de/versions/2654/pdf_file"
 
 (Unterstützungsrichtlinie)
 
-Vom 21. September 2022 (Stand 1. Januar 2025)
+Vom 21. September 2022 (Stand 1. April 2026)
 
 Die Direktion des Innern des Kantons Zug,
 
@@ -53,6 +52,16 @@ verfügt:
 <sup>1</sup> Die Anpassung des Grundbedarfs für den Lebensunterhalt an die Teuerung erfolgt im gleichen prozentualen Umfang wie die Teuerungsanpassung der Ergänzungsleistungen zu AHV/IV, spätestens mit einem Jahr Verzögerung.
 
 <sup>2</sup> Die Beträge werden für Personengruppen im Asylbereich nach § 1 Abs. 1 dieser Richtlinie auf den nächsten Franken gerundet.
+
+#### § 2a
+
+**Bezahlkarte**
+
+<sup>1</sup> Pro Unterstützungseinheit wird grundsätzlich eine Bezahlkarte abgegeben. In begründeten Ausnahmefällen kann für dieselbe Unterstützungseinheit eine zusätzliche Bezahlkarte abgegeben werden.
+
+<sup>2</sup> Pro Karte ist ein Bargeldbezug von maximal 150 Franken pro Monat zulässig.
+
+<sup>3</sup> In begründeten Ausnahmefällen kann ganz oder teilweise auf die Ausrichtung der Unterstützungsleistungen über eine Bezahlkarte verzichtet werden.
 
 ## 2. Unterstützungsleistungen im Asylbereich
 
