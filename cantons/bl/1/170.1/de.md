@@ -4,13 +4,12 @@ number: "170.1"
 title: Dekret zum Gesetz über die Organisation der Gerichte
 short: "Gerichtsorganisationsdekret, GOD"
 language: de
-version: 2022-06-16
-valid_until: 2026-03-31
-version_adopted: 2022-06-16
+version: 2026-04-01
+version_adopted: 2025-06-12
 adopted: 2001-02-22
 in_force: 2002-04-01
 url: "https://bl.clex.ch/app/de/texts_of_law/170.1"
-pdf: "https://bl.clex.ch/api/de/versions/3350/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/4296/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://bl.clex.ch/api/de/versions/3350/pdf_file"
 
 (Gerichtsorganisationsdekret, GOD)
 
-Vom 22.02.2001 (Stand 16.06.2022)
+Vom 22.02.2001 (Stand 01.04.2026)
 
 Der Landrat des Kantons Basel-Landschaft,
 
@@ -66,9 +65,9 @@ beschliesst:
 
 <sup>2<sup>bis</sup></sup> Die Abteilung Strafrecht besteht aus 2 Präsidien mit einem Gesamtpensum von 200 % und insgesamt 6 Richterinnen und Richtern.
 
-<sup>3</sup> Die Abteilung Sozialversicherungsrecht besteht aus 2 Präsidien mit einem Gesamtpensum von 130 % und 6 Richterinnen und Richtern.
+<sup>3</sup> Die Abteilung Sozialversicherungsrecht besteht aus 2 Präsidien mit einem Gesamtpensum von 130 % und 7 Richterinnen und Richtern.
 
-<sup>4</sup> Aus der Mitte der Abteilungspräsidien wird 1 Kantonsgerichtspräsidium mit einem zusätzlichen Pensum von 30 % bestellt.
+<sup>4</sup> Aus der Mitte der Abteilungspräsidien wird 1 Kantonsgerichtspräsidium mit einem zusätzlichen Pensum von 40 % bestellt.
 
 <sup>5</sup> ...
 
@@ -78,9 +77,9 @@ beschliesst:
 
 **Zivilkreisgerichte**
 
-<sup>1</sup> Das Zivilkreisgericht Basel-Landschaft Ost mit Sitz in Sissach verfügt über 4 Präsidien mit einem Gesamtpensum von 280 %, aufgeteilt in 3 Pensen von je 80 % und 1 Pensum von 40 %, sowie über 8 Richterinnen und Richter.
+<sup>1</sup> Das Zivilkreisgericht Basel-Landschaft Ost mit Sitz in Sissach verfügt über 4 Präsidien mit einem Gesamtpensum von 340 % sowie über 8 Richterinnen und Richter.
 
-<sup>2</sup> Das Zivilkreisgericht Basel-Landschaft West mit Sitz in Arlesheim verfügt über 5 Präsidien mit einem Gesamtpensum von 470 %, aufgeteilt in 4 Pensen von je 100 % und 1 Pensum von 70 %, sowie über 12 Richterinnen und Richter.
+<sup>2</sup> Das Zivilkreisgericht Basel-Landschaft West mit Sitz in Arlesheim verfügt über 6 Präsidien mit einem Gesamtpensum von 540 % sowie über 12 Richterinnen und Richter.
 
 <sup>3</sup> ...
 
@@ -88,7 +87,7 @@ beschliesst:
 
 **Strafgericht**
 
-<sup>1</sup> Das Strafgericht besteht aus 5 vollamtlichen und 2 teilamtlichen Präsidien, letztere je mit einem 50-%-Pensum, und insgesamt 20 Richterinnen und Richtern.
+<sup>1</sup> Das Strafgericht verfügt über 8 Präsidien mit einem Gesamtpensum von 700 % und insgesamt 20 Richterinnen und Richtern.
 
 <sup>2</sup> Das Strafgericht ergänzt sich aus den Richterinnen und Richtern des Jugendgerichts.
 
@@ -120,7 +119,7 @@ beschliesst:
 
 **Pensenänderung**
 
-<sup>1</sup> Sind in einer Abteilung des Kantonsgerichts oder in einem andern Gericht mehrere Präsidien tätig, ohne dass das Gesamtpensum eine vollamtliche Tätigkeit aller Präsidien verlangt, so können die Präsidien ihr Pensum in gegenseitigem Einvernehmen und im Rahmen des Gesamtpensums verändern, wobei das Pensum mindestens 30 % betragen muss. Eine Pensenverschiebung von mehr als 30 % bedarf der Zustimmung des Landrats.
+<sup>1</sup> Sind in einer Abteilung des Kantonsgerichts oder in einem anderen Gericht mehrere Präsidien tätig, ohne dass das Gesamtpensum eine vollamtliche Tätigkeit aller Präsidien verlangt, so können die Präsidien ihr Pensum in gegenseitigem Einvernehmen und im Rahmen des Gesamtpensums verändern, wobei das Pensum mindestens 40 % betragen muss. Eine Pensenverschiebung von mehr als 30 % bedarf der Zustimmung des Landrats.
 
 <sup>2</sup> Das Kantonsgericht informiert den Landrat und den Regierungsrat über die Änderung.
 
