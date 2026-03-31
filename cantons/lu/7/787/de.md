@@ -3,20 +3,19 @@ canton: LU
 number: "787"
 title: Verordnung über die Schifffahrt
 language: de
-version: 2026-01-01
-valid_until: 2026-03-31
-version_adopted: 2025-12-09
+version: 2026-04-01
+version_adopted: 2026-03-17
 adopted: 2011-02-18
 in_force: 2011-03-01
 url: "https://srl.lu.ch/app/de/texts_of_law/787"
-pdf: "https://srl.lu.ch/api/de/versions/4619/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4726/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die Schifffahrt
 
-vom 18.02.2011 (Stand 01.01.2026)
+vom 18.02.2011 (Stand 01.04.2026)
 
 Der Regierungsrat des Kantons Luzern,
 
@@ -136,7 +135,7 @@ beschliesst:
 
 <sup>2</sup> Die übrigen Schiffe sind an den behördlich bewilligten Wasserungsstellen ein- und auszuwassern.
 
-<sup>3</sup> Zur Verhinderung der Verbreitung gebietsfremder Pflanzen, Tiere und anderer Organismen müssen Schiffe, die zuvor in einem anderen Gewässer lagen, vor dem Einwassern gereinigt werden. Das Bau-, Umwelt- und Wirtschaftsdepartement erlässt Weisungen über die Reinigung.
+<sup>3</sup> …
 
 #### § 10
 
@@ -156,7 +155,7 @@ beschliesst:
 - b. Sempachersee: — LU 6000 bis 7999
 - c. Hallwilersee: — LU 8000 bis 8599
 - d. Zugersee: — LU 8600 bis 8699
-- e. Schiffe auf einem Binnengrundstück: — LU 10 000 und höher
+- e. Schiffe für den Vierwaldstättersee auf einem Binnengrundstück: — LU 10 000 und höher
 
 ### 1.3 Erteilung und Entzug der Ausweise
 
