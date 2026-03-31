@@ -3,18 +3,18 @@ sr: "852.12"
 title: Ordinanza del 18 giugno 2021 sui sistemi d’informazione consolare del Dipartimento federale degli affari esteri
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/396"
 language: it
-version: 2023-09-01
+version: 2026-04-01
 adopted: 2021-06-18
 in_force: 2021-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/396/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2021-396-20230901-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/396/20230901/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/396/20260401/it/xml/fedlex-data-admin-ch-eli-cc-2021-396-20260401-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/396/20260401/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza sui sistemi d’informazione consolare del Dipartimento federale degli affari esteri
 
-del 18 giugno 2021 (Stato 1° settembre 2023)
+del 18 giugno 2021 (Stato 1° aprile 2026)
 
 Il Consiglio federale svizzero,
 
@@ -117,9 +117,11 @@ I dati sono registrati:
 
 - a. dalla DC;
 - b. dalle rappresentanze diplomatiche e consolari svizzere all’estero;
-- c. dal Centro di gestione delle crisi (KMZ) nel modulo hotline.
+- c.[^9-1] ...
 
 <sup>3</sup> I dati relativi alle persone registrate nei sistemi d’informazione E-VERA o Travel Admin sono ripresi da questi sistemi con una procedura automatizzata tramite un’interfaccia. L’allegato 2 elenca quali dati possono essere ripresi.
+
+[^9-1]: Abrogata dalla cifra II n. 4 dell’O dell’11 feb. 2026, con effetto dal 1° apr. 2026 ([RU 2026 93](https://fedlex.data.admin.ch/eli/oc/2026/93)).
 
 #### Art. 10
 
@@ -127,17 +129,21 @@ I dati sono registrati:
 
 <sup>1</sup> La DC e le rappresentanze hanno il diritto di trattare tutti i dati in EDAssist+ nel quadro dei loro diritti di accesso.
 
-<sup>2</sup> Per l’adempimento dei suoi compiti, il KMZ ha il diritto di trattare tutti i dati dei moduli hotline, helpline e protezione consolare nel quadro dei suoi diritti di accesso.
+<sup>2</sup> ...[^10-1]
 
 <sup>3</sup> L’unità Informatica DFAE dispone dei diritti di trattamento necessari per adempiere i propri compiti.
 
 <sup>4</sup> Tutti i diritti di trattamento sono esercitati mediante procedura di richiamo.
 
+[^10-1]: Abrogato dalla cifra II n. 4 dell’O dell’11 feb. 2026, con effetto dal 1° apr. 2026 ([RU 2026 93](https://fedlex.data.admin.ch/eli/oc/2026/93)).
+
 #### Art. 11
 
-**Comunicazione di dati**
+**Comunicazione di dati**[^11-1]
 
-La DC, le rappresentanze e il KMZ possono comunicare ai servizi di soccorso, a rappresentanze estere e alle autorità locali i dati di persone registrate nei moduli hotline, helpline e protezione consolare e coinvolte in una crisi o in una catastrofe se questo è nell’interesse di tali persone.
+La DC e le rappresentanze possono comunicare ai servizi di soccorso, a rappresentanze estere e alle autorità locali i dati di persone registrate nei moduli hotline, helpline e protezione consolare e coinvolte in una crisi o in una catastrofe se questo è nell’interesse di tali persone.
+
+[^11-1]: Nuovo testo giusta la cifra II n. 4 dell’O dell’11 feb. 2026, in vigore dal 1° apr. 2026 ([RU 2026 93](https://fedlex.data.admin.ch/eli/oc/2026/93)).
 
 #### Art. 12
 
@@ -187,7 +193,7 @@ Travel Admin contiene dati sulle persone di cui all’articolo 4 capoversi 1 e 2
 
 **Diritti di trattamento**
 
-<sup>1</sup> La DC, le rappresentanze e il KMZ hanno il diritto di trattare tutti i dati in Travel Admin nel quadro dei loro diritti di accesso.
+<sup>1</sup> La DCe le rappresentanze hanno il diritto di trattare tutti i dati in Travel Admin nel quadro dei loro diritti di accesso.[^18-1]
 
 <sup>2</sup> I viaggiatori dispongono dei diritti di trattamento completi dei loro dati.
 
@@ -195,13 +201,17 @@ Travel Admin contiene dati sulle persone di cui all’articolo 4 capoversi 1 e 2
 
 <sup>4</sup> Tutti i diritti di trattamento sono esercitati mediante procedura di richiamo.
 
+[^18-1]: Nuovo testo giusta la cifra II n. 4 dell’O dell’11 feb. 2026, in vigore dal 1° apr. 2026 ([RU 2026 93](https://fedlex.data.admin.ch/eli/oc/2026/93)).
+
 #### Art. 19
 
 **Comunicazione di dati**
 
-<sup>1</sup> La DC, le rappresentanze e il KMZ possono comunicare ai servizi di soccorso, a rappresentanze estere e alle autorità locali i dati di persone registrate coinvolte in una crisi o in una catastrofe se questo è nell’interesse di tali persone.
+<sup>1</sup> La DC e le rappresentanze possono comunicare ai servizi di soccorso, a rappresentanze estere e alle autorità locali i dati di persone registrate coinvolte in una crisi o in una catastrofe se questo è nell’interesse di tali persone.[^19-1]
 
 <sup>2</sup> In caso di necessità i dati di cui all’allegato 2 vengono trasmessi a EDAssist+ con una procedura automatizzata tramite un’interfaccia.
+
+[^19-1]: Nuovo testo giusta la cifra II n. 4 dell’O dell’11 feb. 2026, in vigore dal 1° apr. 2026 ([RU 2026 93](https://fedlex.data.admin.ch/eli/oc/2026/93)).
 
 #### Art. 20
 

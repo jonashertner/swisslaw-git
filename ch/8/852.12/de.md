@@ -3,18 +3,18 @@ sr: "852.12"
 title: Verordnung vom 18. Juni 2021 über die konsularischen Informationssysteme des Eidgenössischen Departements für auswärtige Angelegenheiten
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/396"
 language: de
-version: 2023-09-01
+version: 2026-04-01
 adopted: 2021-06-18
 in_force: 2021-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/396/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2021-396-20230901-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/396/20230901/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/396/20260401/de/xml/fedlex-data-admin-ch-eli-cc-2021-396-20260401-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/396/20260401/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über die konsularischen Informationssysteme des Eidgenössischen Departements für auswärtige Angelegenheiten
 
-vom 18. Juni 2021 (Stand am 1. September 2023)
+vom 18. Juni 2021 (Stand am 1. April 2026)
 
 Der Schweizerische Bundesrat,
 
@@ -117,9 +117,11 @@ Die Daten werden erfasst von:
 
 - a. der KD;
 - b. den schweizerischen diplomatischen und konsularischen Vertretungen im Ausland;
-- c. dem Krisenmanagementzentrum des EDA (KMZ) im Modul Hotline.
+- c.[^9-1] …
 
 <sup>3</sup> Daten, die Personen betreffen, die in den Informationssystemen E-VERA oder Travel Admin eingetragen sind, werden in einem automatisierten Verfahren über eine Schnittstelle aus diesen Systemen übernommen. Welche Daten übernommen werden können, ist in Anhang 2 aufgeführt.
+
+[^9-1]: Aufgehoben durch Ziff. II 4 der V vom 11. Febr. 2026, mit Wirkung seit 1. April 2026 ([AS 2026 93](https://fedlex.data.admin.ch/eli/oc/2026/93)).
 
 #### Art. 10
 
@@ -127,17 +129,21 @@ Die Daten werden erfasst von:
 
 <sup>1</sup> Die KD und die Vertretungen haben das Recht, alle Daten im EDAssist+ im Rahmen ihrer Zugriffsrechte zu bearbeiten.
 
-<sup>2</sup> Das KMZ hat zur Erfüllung seiner Aufgaben das Recht, alle Daten der Module Hotline, Helpline und Konsularschutz im Rahmen seiner Zugriffsrechte zu bearbeiten.
+<sup>2</sup> …[^10-1]
 
 <sup>3</sup> Die Einheit für Informatik des EDA verfügt über diejenigen Bearbeitungsrechte, die zur Erfüllung ihrer Aufgaben notwendig sind.
 
 <sup>4</sup> Alle Bearbeitungsrechte werden im Abrufverfahren ausgeübt.
 
+[^10-1]: Aufgehoben durch Ziff. II 4 der V vom 11. Febr. 2026, mit Wirkung seit 1. April 2026 ([AS 2026 93](https://fedlex.data.admin.ch/eli/oc/2026/93)).
+
 #### Art. 11
 
-**Bekanntgabe von Daten**
+**Bekanntgabe von Daten**[^11-1]
 
-Die KD, die Vertretungen und das KMZ können Daten von Personen, die in den Modulen Hotline, Helpline und Konsularschutz erfasst und von einer Krise oder Katastrophe betroffen sind, Rettungskräften, ausländischen Vertretungen und lokalen Behörden bekanntgeben, wenn dies im Interesse der Betroffenen ist.
+Die KD und die Vertretungen können Daten von Personen, die in den Modulen Hotline, Helpline und Konsularschutz erfasst und von einer Krise oder Katastrophe betroffen sind, Rettungskräften, ausländischen Vertretungen und lokalen Behörden bekanntgeben, wenn dies im Interesse der Betroffenen ist.
+
+[^11-1]: Fassung gemäss Ziff. II 4 der V vom 11. Febr. 2026, in Kraft seit 1. April 2026 ([AS 2026 93](https://fedlex.data.admin.ch/eli/oc/2026/93)).
 
 #### Art. 12
 
@@ -187,7 +193,7 @@ Das Travel Admin enthält Daten von Personen nach Artikel 4 Absätze 1 und 2 des
 
 **Bearbeitungsrechte**
 
-<sup>1</sup> Die KD, die Vertretungen und das KMZ haben das Recht, alle Daten im Travel Admin im Rahmen ihrer Zugriffsrechte zu bearbeiten.
+<sup>1</sup> Die KD und die Vertretungen haben das Recht, alle Daten im Travel Admin im Rahmen ihrer Zugriffsrechte zu bearbeiten.[^18-1]
 
 <sup>2</sup> Die Reisenden verfügen für ihre eigenen Daten über sämtliche Bearbeitungsrechte.
 
@@ -195,13 +201,17 @@ Das Travel Admin enthält Daten von Personen nach Artikel 4 Absätze 1 und 2 des
 
 <sup>4</sup> Alle Bearbeitungsrechte werden im Abrufverfahren ausgeübt.
 
+[^18-1]: Fassung gemäss Ziff. II 4 der V vom 11. Febr. 2026, in Kraft seit 1. April 2026 ([AS 2026 93](https://fedlex.data.admin.ch/eli/oc/2026/93)).
+
 #### Art. 19
 
 **Bekanntgabe von Daten**
 
-<sup>1</sup> Die KD, die Vertretungen und das KMZ können Daten von erfassten Personen, die von einer Krise oder Katastrophe betroffen sind, Rettungskräften, ausländischen Vertretungen und lokalen Behörden bekanntgeben, wenn dies im Interesse der Betroffenen ist.
+<sup>1</sup> Die KD und die Vertretungen können Daten von erfassten Personen, die von einer Krise oder Katastrophe betroffen sind, Rettungskräften, ausländischen Vertretungen und lokalen Behörden bekanntgeben, wenn dies im Interesse der Betroffenen ist.[^19-1]
 
 <sup>2</sup> Die Daten nach Anhang 2 werden bei Bedarf über eine Schnittstelle in einem automatisierten Verfahren an das EDAssist+ übermittelt.
+
+[^19-1]: Fassung gemäss Ziff. II 4 der V vom 11. Febr. 2026, in Kraft seit 1. April 2026 ([AS 2026 93](https://fedlex.data.admin.ch/eli/oc/2026/93)).
 
 #### Art. 20
 
