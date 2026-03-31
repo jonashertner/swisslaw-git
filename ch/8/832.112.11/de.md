@@ -4,11 +4,11 @@ title: Verordnung des EDI vom 14. Oktober 2019 über die Umsetzung des Risikoaus
 short: VORA-EDI
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/618"
 language: de
-version: 2025-04-01
+version: 2026-04-01
 adopted: 2019-10-14
 in_force: 2020-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/618/20250401/de/xml/fedlex-data-admin-ch-eli-cc-2019-618-20250401-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/618/20250401/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/618/20260401/de/xml/fedlex-data-admin-ch-eli-cc-2019-618-20260401-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/618/20260401/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2019/618/20250401/de"
 
 (VORA-EDI)
 
-vom 14. Oktober 2019 (Stand am 1. April 2025)
+vom 14. Oktober 2019 (Stand am 1. April 2026)
 
 Das Eidgenössische Departement des Innern (EDI),
 
@@ -96,5 +96,5 @@ Anhang[^t-1]
 
 [^annexu1-lvlu1-1]
 
-[^t-1]: Fassung gemäss Ziff. I der V des EDI vom 24. Febr. 2025, in Kraft seit 1. April 2025 ([AS 2025 146](https://fedlex.data.admin.ch/eli/oc/2025/146)).
-[^annexu1-lvlu1-1]: Der Inhalt dieses Anhangs wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter [https://fedlex.data.admin.ch/eli/oc/2025/146](https://fedlex.data.admin.ch/eli/oc/2025/146) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
+[^t-1]: Fassung gemäss Ziff. II der V des EDI vom 2. März 2026, in Kraft seit 1. April 2026 ([AS 2026 119](https://fedlex.data.admin.ch/eli/oc/2026/119)).
+[^annexu1-lvlu1-1]: Der Inhalt dieses Anhangs wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter [https://fedlex.data.admin.ch/eli/oc/2026/119](https://fedlex.data.admin.ch/eli/oc/2026/119) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
