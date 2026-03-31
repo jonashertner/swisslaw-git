@@ -3,20 +3,19 @@ canton: BL
 number: "481.13"
 title: Verordnung über den Online-Zugriff auf die Fahrzeugzulassungsdaten der Motorfahrzeugkontrolle
 language: de
-version: 2020-06-01
-valid_until: 2026-03-31
-version_adopted: 2020-05-19
+version: 2026-04-01
+version_adopted: 2026-03-10
 adopted: 2014-02-11
 in_force: 2014-03-01
 url: "https://bl.clex.ch/app/de/texts_of_law/481.13"
-pdf: "https://bl.clex.ch/api/de/versions/2666/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/4450/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über den Online-Zugriff auf die Fahrzeugzulassungsdaten der Motorfahrzeugkontrolle
 
-Vom 11.02.2014 (Stand 01.06.2020)
+Vom 11.02.2014 (Stand 01.04.2026)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -33,24 +32,27 @@ beschliesst:
 
 <sup>1</sup> Der Online-Zugriff auf die Fahrzeugzulassungsdaten der Motorfahrzeugkontrolle Basel-Landschaft umfasst die folgenden Angaben:
 
-- a. Personendaten von natürlichen Personen (Anrede, Vorname, Name, Adresse, Postzustelladresse, Geburtsdatum, Todesdatum, Nationalität, Versicherungsgesellschaft);
-- b. Personendaten von juristischen Personen (Firmenbezeichnung gemäss Handelsregistereintrag, Adresse, Postzustelladresse, Versicherungsgesellschaft);
-- c. Fahrzeugdaten (Kontrollschilder einschliesslich Deponierungsangaben, Stammnummer, Fahrgestellnummer, Typenschein, Datum der letzten amtlichen Prüfung, fahrzeugbezogene Verfügungen der Behörden).
+- a. Personendaten von natürlichen Personen (Anrede, Vornamen, Rufname, amtlicher Name, Wohnadresse, Zustelladresse, Geburtsdatum, Todesdatum, Nationalität, Telefonnummer, E-Mail-Adresse, Internetseite, Versicherungsgesellschaft);
+- b. Personendaten von juristischen Personen (Firmenbezeichnung gemäss Handelsregistereintrag, Adresse, Postzustelladresse, Telefonnummer, E-Mail-Adresse, Internetseite, Versicherungsgesellschaft);
+- c. Fahrzeugdaten (Kontrollschilder einschliesslich Deponierungsangaben, Stammnummer, Fahrgestellnummer, Typenschein, Datum der letzten amtlichen Prüfung, fahrzeugbezogene Verfügungen der Behörden);
+- d. Bankverbindungsdaten natürlicher und juristischer Personen.
 
 #### § 2
 
 **Zugriffsberechtigung für Amtsstellen**
 
-<sup>1</sup> Zur Erfüllung ihrer gesetzlichen Aufgaben erhalten folgende Amtsstellen auf Antrag (§ 3 Abs. 1 und 2) den Online-Zugriff auf die Daten der Fahrzeugzulassung der Motorfahrzeugkontrolle Basel-Landschaft gemäss § 1:
+<sup>1</sup> Zur Erfüllung ihrer gesetzlichen Aufgaben erhalten folgende Amtsstellen auf Antrag (§ 3 Abs. 1 und 2) den Online-Zugriff auf die Daten der Fahrzeugzulassung der Motorfahrzeugkontrolle Basel-Landschaft gemäss § 1 Abs. 1 Bst. a–c:
 
 - a. die Polizei Basel-Landschaft;
 - b. die Motorfahrzeugprüfstation beider Basel;
 - c. die Motorfahrzeugkontrolle Basel-Stadt;
 - d. die Steuerverwaltung Basel-Landschaft;
-- e. die Hauptabteilung Betreibungs- und Konkursamt und die Abteilung Erbschaftsamt der Zivilrechtsverwaltung Basel-Landschaft;
+- e. die Abteilung Erbschaftsamt der Zivilrechtsverwaltung Basel-Landschaft;
 - f. die kommunalen Sozialhilfebehörden des Kantons Basel-Landschaft;
 - g. die Gemeindepolizeien des Kantons Basel-Landschaft;
 - h. die Vollzugsstelle ARV des KIGA Basel-Landschaft.
+
+<sup>1<sup>bis</sup></sup> Zur Erfüllung ihrer gesetzlichen Aufgaben erhält die Hauptabteilung Betreibungs- und Konkursamt der Zivilrechtsverwaltung Basel-Landschaft auf Antrag (§ 3 Abs. 1 und 2) den Online-Zugriff auf die Daten der Fahrzeugzulassung der Motorfahrzeugkontrolle Basel-Landschaft gemäss § 1 Abs. 1 Bst. a–d:
 
 <sup>2</sup> Die Suche erfolgt:
 
