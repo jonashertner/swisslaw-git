@@ -3,20 +3,19 @@ canton: SO
 number: "614.159.01"
 title: "Steuerverordnung Nr. 1: Organisation des kantonalen Steuerwesens für die Veranlagung der Haupt- und Nebensteuern des Staates und der direkten Bundessteuer"
 language: de
-version: 2014-10-01
-valid_until: 2026-03-31
-version_adopted: 2014-03-11
+version: 2026-04-01
+version_adopted: 2026-02-24
 adopted: 1995-03-28
 in_force: 1995-01-01
 url: "https://bgs.so.ch/app/de/texts_of_law/614.159.01"
-pdf: "https://bgs.so.ch/api/de/versions/4326/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5633/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Steuerverordnung Nr. 1: Organisation des kantonalen Steuerwesens für die Veranlagung der Haupt- und Nebensteuern des Staates und der direkten Bundessteuer
 
-Vom 28.03.1995 (Stand 01.10.2014)
+Vom 28.03.1995 (Stand 01.04.2026)
 
 Der Regierungsrat des Kantons Solothurn
 
@@ -26,7 +25,7 @@ beschliesst:
 
 [^ingress-1]: BGS [614.11](https://bgs.so.ch/data/614.11/de).
 
-## 1. Das kantonale Steueramt
+## 1. Das Kantonale Steueramt
 
 [^t-1]
 
@@ -46,7 +45,7 @@ beschliesst:
 
 <sup>1</sup> Das Kantonale Steueramt leitet den Vollzug des Gesetzes und führt die Aufsicht über die Steuerveranlagung. Es sorgt für die richtige und einheitliche Veranlagung und trifft die dazu erforderlichen Anordnungen.
 
-<sup>2</sup> Das Kantonale Steueramt veranlagt die Steuern der juristischen Personen sowie die Nebensteuern (Handänderungssteuer, Nachlasstaxe, Erbschafts- und Schenkungssteuer) gemäss besonderer Verordnung.
+<sup>2</sup> Das Kantonale Steueramt veranlagt die Steuern der natürlichen und juristischen Personen sowie die Nebensteuern (Handänderungssteuer, Nachlasstaxe, Erbschafts- und Schenkungssteuer) gemäss besonderer Verordnung.
 
 #### § 3
 
@@ -67,9 +66,9 @@ beschliesst:
 - c) den Erlass der in die Zuständigkeit des Kantonalen Steueramtes fallenden allgemeinen Anordnungen;
 - d) die Ausarbeitung von Gesetzesvorlagen, Verordnungen, Anweisungen, Berichten und Gutachten;
 - e) die Antragstellung über die Erledigung von Aufsichtsbeschwerden gegen Steuerbehörden;
-- f) eine fristgerechte und rechtsgleiche Einschätzungspraxis für die Staatssteuer und die direkte Bundessteuer im ganzen Kanton;
+- f) eine fristgerechte und rechtsgleiche Veranlagungspraxis für die Staatssteuer und die direkte Bundessteuer;
 - g) die Instruktion und Weiterbildung des Personals;
-- h) periodische Kontrollen der Einschätzungsarbeiten der Veranlagungsbehörden;
+- h) …
 - i) Bezug der Haupt- und Nebensteuern des Staates gemäss besonderer Verordnung und der direkten Bundessteuer.
 
 <sup>2</sup> Die Abteilungen und Dienststellen des Kantonalen Steueramtes werden nach den Weisungen der Leitung zur Durchführung ihrer Aufgaben beigezogen.
@@ -78,41 +77,40 @@ beschliesst:
 
 #### § 5
 
-**1. Veranlagung der natürlichen Personen a) Veranlagungsbehörden**
+**1. Veranlagung der natürlichen Personen**
 
-<sup>1</sup> Für die Veranlagung der natürlichen Personen wird der Kanton in vier Veranlagungskreise eingeteilt:
+<sup>1</sup> Die Veranlagung der natürlichen Personen obliegt dem Kantonalen Steueramt.
 
-- a) Solothurn (Bezirke Solothurn, Lebern, Bucheggberg und Wasseramt);
+- a) …
 - b) …
-- c) Thal-Gäu;
-- d) Olten-Gösgen;
-- e) Dorneck-Thierstein.
+- c) …
+- d) …
+- e) …
 
-<sup>2</sup> Für jeden Veranlagungskreis besteht eine Veranlagungsbehörde unter der Leitung eines Steuerpräsidenten oder einer Steuerpräsidentin. Die Veranlagungsbehörden erhalten das notwendige Verwaltungspersonal.
+<sup>2</sup> …
+
+<sup>3</sup> Das Kantonale Steueramt trifft von Amtes wegen die Veranlagungen der einzelnen Steuerpflichtigen und führt die Einspracheverfahren durch.
+
+<sup>4</sup> Es ist insbesondere zuständig und verantwortlich für:
+
+- a) die fristgerechte Veranlagung der natürlichen Personen für die direkte Staats- und Bundessteuer;
+- b) die Festsetzung des Anspruchs auf ordentliche Rückerstattung der Verrechnungssteuer für natürliche Personen;
+- c) die Vertretung des Staates hinsichtlich der direkten Staats- und Bundessteuer und der Verrechnungssteuer der natürlichen Personen im Verfahren vor dem Kantonalen Steuergericht.
+
+<sup>5</sup> Die Veranlagung der natürlichen Personen erfolgt an folgenden Standorten:
+
+- a) Solothurn
+- b) Balsthal
+- c) Olten
+- d) Dornach
 
 #### § 6
 
-**b) Aufgaben**
-
-<sup>1</sup> Die Veranlagungsbehörden treffen von Amtes wegen die Veranlagungen der einzelnen Steuerpflichtigen und führen die Einspracheverfahren durch.
-
-<sup>2</sup> Sie sind insbesondere zuständig und verantwortlich für.
-
-- a) die fristgerechte Veranlagung der natürlichen Personen für die Staatssteuer;
-- b) die Vornahme von Bücheruntersuchungen bei den Selbständigerwerbenden;
-- c) die fristgerechte Veranlagung der natürlichen Personen für die direkte Bundessteuer;
-- d) die Festsetzung des Anspruchs auf ordentliche Rückerstattung der Verrechnungssteuer für natürliche Personen;
-- e) …
-- f) die Erledigung der Meldungen und Auskünfte für andere Amtsstellen (wie AHV-Organe, Wehrpflichtersatzverwaltung usw.) nach besonderen Anordnungen des Kantonalen Steueramtes;
-- g) das Ausfertigen und Auswerten der Meldungen über steuerbare Einkünfte und Vermögenswerte;
-- h) das Durchführen der Einspracheverfahren;
-- i) die Vertretung des Staates hinsichtlich der direkten Staats- und Bundessteuer und der Verrechnungssteuer der natürlichen Personen im Verfahren vor dem Kantonalen Steuergericht.
+**…**
 
 #### § 7
 
-**c) Organisation**
-
-<sup>1</sup> Die Veranlagungsbehörden gliedern sich in Abteilungen für die Veranlagung der unselbständigerwerbenden und selbständigerwerbenden Steuerpflichtigen und führen ein Sekretariat.
+**…**
 
 #### § 8
 
@@ -132,9 +130,9 @@ beschliesst:
 
 **Funktion, Aufgaben**
 
-<sup>1</sup> Die Aufgaben und Befugnisse der Staatssteuerregisterführer und Staatssteuerregisterführerinnen sind im Steuergesetz und in der Vollzugsverordnung geregelt. Sie erfüllen ihre Aufgaben nach Weisung des Kantonalen Steueramtes und des Steuerpräsidenten oder der Steuerpräsidentin.
+<sup>1</sup> Die Aufgaben und Befugnisse der Staatssteuerregisterführer und Staatssteuerregisterführerinnen sind im Steuergesetz und in der Vollzugsverordnung geregelt. Sie erfüllen ihre Aufgaben nach Weisung des Kantonalen Steueramtes.
 
-<sup>2</sup> Sie können der Veranlagungsbehörde Einschätzungsvorschläge unterbreiten.
+<sup>2</sup> Sie können dem Kantonalen Steueramt Einschätzungsvorschläge unterbreiten.
 
 <sup>3</sup> Im Rahmen der Vorbereitung der Veranlagung der natürlichen Personen obliegt ihnen insbesondere
 
