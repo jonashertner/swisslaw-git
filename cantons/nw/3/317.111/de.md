@@ -4,20 +4,21 @@ number: "317.111"
 title: Zentralschweizer Fachhochschul-Verordnung
 short: ZFHVo
 language: de
-version: 2023-01-01
-valid_until: 2026-03-31
-version_adopted: 2022-12-22
+version: 2026-04-01
+version_adopted: 2026-03-06
 adopted: 2012-12-14
 in_force: 2013-01-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/317.111"
-pdf: "https://gesetze.nw.ch/api/de/versions/1126/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/1529/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Zentralschweizer Fachhochschul-Verordnung
 
-vom 14.12.2012 (Stand 01.01.2023)
+(ZFHVo)
+
+vom 14.12.2012 (Stand 01.04.2026)
 
 Der Konkordatsrat der Fachhochschule Zentralschweiz,
 
@@ -63,7 +64,7 @@ beschliesst:
 
 <sup>1</sup> Für die Rechnungslegung der Fachhochschule sind die Standards von Swiss GAAP FER mit Ausnahme von Standard Nr. 13 anzuwenden.
 
-<sup>2</sup> Die langfristigen Mietverträge werden im Anhang zur Jahresrechnung offengelegt.
+<sup>2</sup> Die langfristigen Mietverträge werden im Anhang zur Jahresrechnung summarisch offengelegt.
 
 #### Art. 5
 
@@ -86,7 +87,9 @@ beschliesst:
 
 <sup>1</sup> Die Pauschale für die Finanzierung der Aufwendungen des Konkordatsrates und der Interparlamentarischen Fachhochschulkommission beträgt 20'000 Franken pro Kanton und Jahr.
 
-<sup>2</sup> Den Trägerkantonen wird für die Beiträge pro studierende Person nach den Vorgaben der Interkantonalen Fachhochschulvereinbarung (FHV) vom 12. Juni 2003 Rechnung gestellt. Für die übrigen Beiträge werden zwei Teilrechnungen – zahlbar per 31. März und per 31. Oktober – erstellt. Das Rechnungsjahr ist das Kalenderjahr.
+<sup>2</sup> Den Trägerkantonen wird für die Beiträge pro studierende Person nach den Vorgaben der Interkantonalen Fachhochschulvereinbarung (FHV) vom 12. Juni 2003 Rechnung gestellt. Für die übrigen Beiträge werden zwei Teilrechnungen – zahlbar zwei Drittel per 28. Februar und ein Drittel per 31. August – erstellt. Das Rechnungsjahr ist das Kalenderjahr.
+
+<sup>3</sup> Die Fachhochschule kann bei Liquiditätsengpässen bei den Trägerkantonen von bis zu 80 Prozent der budgetierten FHV-Beiträge als Akontorechnung fakturieren.
 
 #### Art. 7
 
@@ -118,7 +121,7 @@ beschliesst:
 
 **Kompetenzen für den Abschluss von Mietverträgen**
 
-<sup>1</sup> Mietverträge mit einer Mietzinssumme von über 200'000 Franken pro Jahr bedürfen der einstimmigen Genehmigung durch den Konkordatsrat.
+<sup>1</sup> Mietverträge mit einer Mietzinssumme von über 250'000 Franken pro Jahr bedürfen der einstimmigen Genehmigung durch den Konkordatsrat.
 
 <sup>2</sup> Davon ausgenommen sind Mietverträge für Studierendenwohnungen, welche die Fachhochschule ohne Genehmigung durch den Konkordatsrat abschliessen kann.
 
