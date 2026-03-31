@@ -3,20 +3,19 @@ canton: SO
 number: "926.712.1"
 title: Verordnung über die Festsetzung der Tierhalterbeiträge für die kantonale Tierseuchenkasse
 language: de
-version: 2010-01-01
-valid_until: 2026-03-31
-version_adopted: 2009-10-26
+version: 2026-04-01
+version_adopted: 2025-12-23
 adopted: 2004-11-16
 in_force: 2005-01-01
 url: "https://bgs.so.ch/app/de/texts_of_law/926.712.1"
-pdf: "https://bgs.so.ch/api/de/versions/3317/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5618/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die Festsetzung der Tierhalterbeiträge für die kantonale Tierseuchenkasse
 
-Vom 16.11.2004 (Stand 01.01.2010)
+Vom 16.11.2004 (Stand 01.04.2026)
 
 Der Regierungsrat des Kantons Solothurn
 
@@ -32,7 +31,7 @@ beschliesst:
 
 <sup>1</sup> Die jährlich zu leistenden Tierhalterbeiträge an die Tierseuchenkasse werden wie folgt festgesetzt:
 
-- a) Für Haustiere der Pferde-, Rinder-, Schweine-, Schaf- und Ziegengattung einschliesslich Büffel und Neuweltkameliden (Lamas, Alpakas) sowie in Gehegen gehaltenes Wild der Ordnung Paarhufer 10 Franken je Grossvieheinheit GVE, jedoch mindestens 40 Franken.
+- a) Für Haustiere der Pferde-, Rinder-, Schweine-, Schaf- und Ziegengattung einschliesslich Büffel und Neuweltkameliden (Lamas, Alpakas) sowie in Gehegen gehaltenes Wild der Ordnung Paarhufer 12 Franken je Grossvieheinheit GVE, jedoch mindestens 40 Franken.
 - b) Für Bienen 1 Franken je Volk.
 
 #### § 2
