@@ -4,24 +4,23 @@ number: "781.220"
 title: Verordnung über die Verschärfung von Emissionsbegrenzungen für stationäre Anlagen
 short: Massnahmenverordnung
 language: de
-version: 2018-07-01
-valid_until: 2026-03-31
-version_adopted: 2018-06-19
+version: 2026-04-01
+version_adopted: 2026-02-03
 adopted: 1990-08-14
 in_force: 1990-09-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/781.220"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/4456/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6769/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die Verschärfung von Emissionsbegrenzungen für stationäre Anlagen
 
-Emissionsbegrenzungen für stationäre Anlagen: Massnahmenverordnung | Lufthygiene
+Lufthygiene
 
 (Massnahmenverordnung)
 
-Vom 14. August 1990 (Stand 1. Juli 2018)
+Vom 14. August 1990 (Stand 1. April 2026)
 
 Der Regierungsrat des Kantons Basel-Stadt,
 
@@ -55,9 +54,7 @@ beschliesst:
 
 #### § 4
 
-**Sanierungspflicht**
-
-<sup>1</sup> Die Fristen nach § 5 Abs. 2, § 6 Abs. 3, § 8 Abs. 4, § 9 Abs. 4 und § 12 Abs. 6 können höchstens bis zum 31. Dezember 1998 verlängert werden, wenn die Emissionen weniger als das Anderthalbfache des verschärften Emissionsgrenzwertes betragen.
+**…**
 
 ## B. Verschärfung von allgemeinen Emissionsbegrenzungen
 
@@ -67,20 +64,20 @@ beschliesst:
 
 <sup>1</sup> Die Emissionskonzentration von Stickoxiden, angegeben als Stickstoffdioxid, darf bei einer Fracht von mehr als 5 t/Jahr 100 mg/m³ nicht übersteigen.
 
-<sup>2</sup> Bestehende Anlagen, welche Abs. 1 oder Anh. 1 Ziff. 61 lit. d der Luftreinhalte-Verordnung nicht entsprechen, müssen bis zum 31. Dezember 1994 saniert werden.
+<sup>2</sup> …
 
 #### § 6
 
 **Emissionsgrenzwerte für organische gas-, dampf- oder partikelförmige Stoffe**
 
-<sup>1</sup> Diese Bestimmungen gelten für Stoffe nach Anh. 1 Ziff. 72 der Luftreinhalte-Verordnung.
+<sup>1</sup> Diese Bestimmungen gelten für Stoffe nach Anhang 1 Ziff. 72 der Luftreinhalte-Verordnung.
 
 <sup>2</sup> Die Emissionskonzentration von Stoffen der Klassen 2 und 3 sowie die Summe der Emissionskonzentrationen von Stoffen der Klassen 1 bis 3 darf folgende Werte nicht übersteigen:
 
 - a) bei einer Fracht von 5 bis 10 t/Jahr sowie einem Massenstrom von 1,5 kg/h oder mehr — 75 mg/m³
 - b) bei einer Fracht über 10 t/Jahr — 50 mg/m³
 
-<sup>3</sup> Bestehende Anlagen müssen bis zum 31. Dezember 1994 saniert werden.
+<sup>3</sup> …
 
 <sup>4</sup> …
 
@@ -141,58 +138,56 @@ beschliesst:
 
 **Anlagen zum Beschichten und Bedrucken mit organischen Stoffen**
 
-<sup>1</sup> Bestehende Anlagen zum Beschichten und Bedrucken mit organischen Stoffen, welche Anh. 2 Ziff. 613 Abs. 2 und 3 der Luftreinhalte-Verordnung nicht entsprechen, müssen bis zum 31. Dezember 1994 saniert werden.
+<sup>1</sup> Für Anlagen zum Beschichten und Bedrucken mit organischen Stoffen gilt § 6 Abs. 2.
 
-<sup>2</sup> § 6 bleibt vorbehalten.
+<sup>2</sup> …
 
 #### § 9
 
 **Abfallverbrennungsanlagen**
 
-<sup>1</sup> Bestehende Abfallverbrennungsanlagen, welche die Emissionsbegrenzungen für Stickoxide nach Anh. 2 Ziff. 713 und 714 Abs. 1 lit. e der Luftreinhalte-Verordnung übersteigen, müssen bis zum 31. Dezember 1994 saniert werden.
+<sup>1</sup> …
 
-<sup>2</sup> In Abweichung von Anh. 2 Ziff. 714 Abs. 1 lit. e gilt der Emissionsgrenzwert unabhängig von dem dort festgelegten Massenstrom.
+<sup>2</sup> In Abweichung von Anhang 2 Ziff. 714 Abs. 1 lit. e der Luftreinhalte-Verordnung gilt der Emissionsgrenzwert unabhängig von dem dort festgelegten Massenstrom.
+
+<sup>3</sup> Neue Anlagen zur Verbrennung von Altholz nach Anhang 2 Ziff. 721 Abs. 2 lit. a der Luftreinhalte-Verordnung mit einer Feuerungswärmeleistung (FWL) bis 10 MW müssen folgende Grenzwerte einhalten:
+
+- a) Kohlenmonoxid — 150 mg/m³
+- b) Stickoxide — 150 mg/m³
+- c) Feststoffe — 10 mg/m³
+
+<sup>4</sup> Für bestehende Anlagen zur Verbrennung von Altholz nach Anhang 2 Ziff. 721 Abs. 2 lit. a der Luftreinhalte-Verordnung mit einer FWL bis 10 MW mit zu hohen Emissionen wird eine Sanierungspflicht von zehn Jahren ab Inkrafttreten dieser Bestimmung gewährt.
 
 #### § 10
 
 **Stationäre Verbrennungsmotoren**
 
-<sup>1</sup> Diese Bestimmungen gelten für alle stationären Otto- und Dieselmotoren, unabhängig vom Treibstoffverbrauch.
+<sup>1</sup> Diese Bestimmungen gelten in der Regel für alle Otto- und Dieselmotoren, die länger als einen Tag an einem Ort eingesetzt werden, unabhängig vom Treibstoffverbrauch und der Betriebsdauer.
 
 <sup>2</sup> Notstromgruppen müssen mit einem Betriebsstundenzähler ausgerüstet werden.
 
-<sup>2<sup>bis</sup></sup> Neue Notstromgruppen ab einer Motorleistung von 19 kW müssen mit einem den geltenden Anforderungen der Filterliste des Bundesamtes für Umwelt entsprechenden Partikelfiltersystem ausgerüstet sein.
+<sup>2<sup>bis</sup></sup> Neue Notstromgruppen ab einer FWL von 50 kW, müssen mit einem Partikelfiltersystem zur Abscheidung von Dieselruss ausgerüstet sein, das die Anforderungen nach Anhang 4 Ziff. 32 der Luftreinhalte-Verordnung erfüllt.
 
-<sup>3</sup> Die Emissionen von Stickoxiden, angegeben als Stickstoffdioxid, dürfen bei Anlagen, welche mehr als 30 Stunden im Jahr betrieben werden, folgende Werte nicht überschreiten:
+<sup>3</sup> Die Emissionen von Stickoxiden, angegeben als Stickstoffdioxid, dürfen bei Anlagen ab einer FWL von 100 kW, welche mehr als 30 Stunden im Jahr betrieben werden, folgende Werte nicht überschreiten:
 
 - a) bei Verwendung von Gasbrennstoffen — 70 mg/m³
 - b) bei Verwendung von Dieselöl — 110 mg/m³
+- c) bei Verwendung von Bio-, Holz- und Klärgas in der Regel — 100 mg/m³
 
-<sup>3<sup>bis</sup></sup> Für Notstromgruppen, die während höchstens 30 Stunden im Jahr betrieben werden, gelten folgende Grenzwerte:
+<sup>3<sup>bis</sup></sup> Für Notstromgruppen ab einer FWL von 350 kW, die während höchstens 30 Stunden im Jahr betrieben werden, gelten folgende Grenzwerte:
 
 - a) Kohlenmonoxid — 650 mg/m³
 - b) Stickoxide — 2000 mg/m³
 
 <sup>4</sup> Diese Grenzwerte beziehen sich auf einen Sauerstoffgehalt im Abgas von 5%.
 
-<sup>5</sup> Bestehende Anlagen, die ein Alter von 15 Jahren erreichen oder erreicht haben, müssen jeweils innert drei Jahren saniert werden.
+<sup>5</sup> Für Anlagen, die aufgrund der Bestimmungen in Abs. 3 und Abs. 3<sup>bis</sup> sanierungspflichtig werden, wird abweichend von Art. 10 der Luftreinhalte-Verordnung eine Sanierungsfrist von zehn Jahren gewährt. Vorbehalten bleiben die Bestimmungen von Art. 10 Abs. 2 lit. a und c der Luftreinhalte-Verordnung.
 
 <sup>6</sup> Für neue Anlagen mit Magermotortechnik, die vor dem 1. Juli 1994 in Betrieb gesetzt werden, können auf begründetes Gesuch hin Erleichterungen gewährt werden.
 
 #### § 11
 
-**Gasturbinen**
-
-<sup>1</sup> Die Emissionen von Stickoxiden, angegeben als Stickstoffdioxid, dürfen folgende Werte nicht überschreiten:
-
-- a) bei Verbrennung von Gasbrennstoffen — 40 mg/m³
-- b) bei Verwendung von Heizöl «Extra leicht» — 50 mg/m³
-
-<sup>2</sup> Diese Grenzwerte beziehen sich auf einen Sauerstoffgehalt im Abgas von 15%.
-
-<sup>3</sup> Bestehende Anlagen, die ein Alter von 15 Jahren erreichen oder erreicht haben, müssen jeweils innert drei Jahren saniert werden.
-
-<sup>4</sup> Für neue Anlagen, die vor dem 1. Juli 1994 in Betrieb gesetzt werden, können auf begründetes Gesuch hin Erleichterungen gewährt werden.
+**…**
 
 #### § 11a
 
@@ -202,11 +197,11 @@ beschliesst:
 
 #### § 11b
 
-**Dieselbetriebene Maschinen und Geräte auf baustellen- ähnlichen Anlagen**
+**Dieselbetriebene Maschinen und Geräte auf baustellenähnlichen Anlagen**
 
 <sup>1</sup> Dieselbetriebene Maschinen und Geräte auf baustellenähnlichen Anlagen wie Steinbrüche, Deponien, Bauschuttrecyclinganlagen, Kies- und Betonwerke, Kompostierungs- und Vergärungsanlagen müssen mit einem Partikelfiltersystem zur Abscheidung von Dieselruss ausgerüstet sein, das die Anforderungen von Anhang 4 Ziff. 32 der Luftreinhalte-Verordnung erfüllt.
 
-<sup>2</sup> Die zuständige Behörde ordnet die Nachrüstung von bereits im Einsatz stehenden Maschinen und Geräten innert 5 Jahren an.
+<sup>2</sup> …
 
 ## D. Verschärfung von Emissionsbegrenzungen für Feuerungsanlagen
 
@@ -214,15 +209,15 @@ beschliesst:
 
 **Feuerungsanlagen für Heizöl «Extra leicht» und Gasbrennstoffe**
 
-<sup>1</sup> Diese Bestimmungen gelten für Feuerungsanlagen für Heizöl «Extra leicht» und Gasbrennstoffe mit einer Feuerungswärmeleistung über 70 kW.
+<sup>1</sup> Diese Bestimmungen gelten für Feuerungsanlagen für Heizöl «Extra leicht» und Gasbrennstoffe mit einer FWL über 70 kW.
 
-<sup>2</sup> Für die Emissionen von Stickoxiden gelten die Anforderungen nach Anh. 3 Ziff. 41, 61 und 62 der Luftreinhalte-Verordnung.
+<sup>2</sup> Für die Emissionen von Stickoxiden gelten die Anforderungen nach Anhang 3 Ziff. 41, 61 und 62 der Luftreinhalte-Verordnung.
 
-<sup>3</sup> In Abweichung von Anh. 3 Ziff. 412 Abs. 1 und 62 Abs. 1 der Luftreinhalte-Verordnung gelten folgende Übergangsbestimmungen:
+<sup>3</sup> In Abweichung von Anhang 3 Ziff. 412 Abs. 1 und 62 Abs. 1 der Luftreinhalte-Verordnung gelten folgende Übergangsbestimmungen:
 
-- a) für Neuanlagen mit einer Feuerungswärmeleistung unter 1 MW gelten die Emissionsgrenzwerte ab 1. Juli 1992;
-- b) bestehende Anlagen mit einer Feuerungswärmeleistung bis 5 MW, die ein Alter von 20 Jahren erreichen oder erreicht haben, müssen ab 1. Juli 1992 innert zwei Jahren saniert werden; ab 1. Januar 1995 gilt die Sanierungspflicht für Anlagen, die ein Alter von 15 Jahren erreichen;
-- c) bestehende Anlagen mit einer Feuerungswärmeleistung über 5 MW müssen bis zum 31. Dezember 1994 saniert werden.
+- a) für Neuanlagen mit einer FWL unter 1 MW gelten die Emissionsgrenzwerte ab 1. Juli 1992;
+- b) bestehende Anlagen mit einer FWL bis 5 MW, die ein Alter von 20 Jahren erreichen oder erreicht haben, müssen ab 1. Juli 1992 innert zwei Jahren saniert werden; ab 1. Januar 1995 gilt die Sanierungspflicht für Anlagen, die ein Alter von 15 Jahren erreichen;
+- c) …
 
 <sup>4</sup> …
 
@@ -234,20 +229,24 @@ beschliesst:
 
 **Feuerungsanlagen für Heizöl «Mittel», Heizöl «Schwer» und Kohle**
 
-<sup>1</sup> Die Verbrennung von Kohle, Kohlebriketts oder Koks in Anlagen mit einer Feuerungswärmeleistung über 70 kW sowie von Heizöl «Mittel» und Heizöl «Schwer» ist nur in Anlagen gestattet, deren Stickoxid-Emissionen (beim jeweils gültigen Sauerstoffbezugsgehalt gemäss LRV) nicht höher sind als bei der Verwendung von Heizöl «Extra leicht».
+<sup>1</sup> Die Verbrennung von Kohle, Kohlebriketts oder Koks in Anlagen mit einer FWL über 70 kW sowie von Heizöl «Mittel» und Heizöl «Schwer» ist nur in Anlagen gestattet, deren Stickoxid-Emissionen (beim jeweils gültigen Sauerstoffbezugsgehalt gemäss Luftreinhalte-Verordnung) nicht höher sind als bei der Verwendung von Heizöl «Extra leicht».
 
-<sup>2</sup> Bestehende Anlagen müssen bis zum 31. Dezember 1991 saniert werden.
+<sup>2</sup> …
 
 #### § 14
 
 **Holzfeuerungen**
 
-<sup>1</sup> Diese Bestimmungen gelten für Holzfeuerungen, für Holzbrennstoffe gemäss der Luftreinhalte-Verordnung mit einer Feuerungswärmeleistung über 350 kW, die nach dem 1. Januar 1997 bewilligt oder ersetzt werden.
+<sup>1</sup> Diese Bestimmungen gelten für Holzfeuerungen mit Holzbrennstoffen gemäss Anhang 5 Ziffer 3 der Luftreinhalteverordnung, die nach dem 1. Januar 1997 bewilligt oder ersetzt werden.
 
 <sup>2</sup> Die Emissionen von Stickoxiden, angegeben als Stickstoffdioxid, dürfen folgende Grenzwerte nicht überschreiten:
 
-- a) für Anlagen mit einer Feuerungswärmeleistung von 350 kW bis 1 MW: 200 mg/m³
-- b) für Anlagen mit einer Feuerungswärmeleistung über 1 MW in der Regel: 150 mg/m³. Die Bezugswerte des Sauerstoffgehaltes im Abgas richten sich nach der Luftreinhalte-Verordnung.
+- a) für Anlagen mit einer FWL von 350 kW bis 1 MW: 200 mg/m³
+- b) für Anlagen mit einer FWL über 1 MW in der Regel: 150 mg/m³. Die Bezugswerte des Sauerstoffgehaltes im Abgas richten sich nach der Luftreinhalte-Verordnung.
+
+<sup>3</sup> Die Emissionen für Feststoffe dürfen bei Neuanlagen mit einer FWL ab 70 kW bis 500 kW den Wert von 20 mg/m³ nicht überschreiten.
+
+<sup>4</sup> Neue automatische Heizkessel für Holzpellets bis 70 kW FWL müssen mit einem Wärmespeicher eines Volumens von mindestens 20 Litern pro kW Nennwärmeleistung ausgerüstet werden. Aus betrieblichen oder aus technischen Gründen kann die Behörde kleinere Speichergrössen festlegen.
 
 ## E. Schlussbestimmungen
 
@@ -258,6 +257,8 @@ beschliesst:
 <sup>1</sup> Das Amt für Umwelt und Energie vollzieht die Vorschriften über Feuerungen mit definierten Brennstoffen, das Lufthygieneamt die anderen Vorschriften.
 
 <sup>2</sup> Die Inhaberinnen und Inhaber der sanierungspflichtigen Anlagen sind rechtzeitig vor Ablauf der Sanierungsfrist aufzufordern, Sanierungsvorschläge einzureichen.
+
+*Schlussbestimmung*
 
 Diese Verordnung ist zu publizieren; sie wird auf den 1. September 1990 wirksam.
 
