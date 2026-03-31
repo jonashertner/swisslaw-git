@@ -4,11 +4,11 @@ title: "Verordnung des EFD vom 4. April 2007 über Zollerleichterungen für Ware
 short: ZEV
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/252"
 language: de
-version: 2026-02-01
+version: 2026-04-01
 adopted: 2007-04-04
 in_force: 2007-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/252/20260201/de/xml/fedlex-data-admin-ch-eli-cc-2007-252-20260201-de-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/252/20260201/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/252/20260401/de/xml/fedlex-data-admin-ch-eli-cc-2007-252-20260401-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/252/20260401/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/252/20260201/de"
 
 (Zollerleichterungsverordnung, ZEV)
 
-vom 4. April 2007 (Stand am 1. Februar 2026)
+vom 4. April 2007 (Stand am 1. April 2026)
 
 Das Eidgenössische Finanzdepartement (EFD),
 
@@ -426,7 +426,7 @@ Anhang 1[^t-1]
 
 ## Zollerleichterungen je nach Verwendungszweck
 
-[^t-1]: Fassung gemäss Ziff. I der V des EFD vom 16. März 2016 ([AS 2016 1093](https://fedlex.data.admin.ch/eli/oc/2016/206)). Bereinigt gemäss Ziff. I der V des EFD vom 12. Aug. 2016 ([AS 2016 2947](https://fedlex.data.admin.ch/eli/oc/2016/489)), vom 28. Okt. 2016 ([AS 2016 4031](https://fedlex.data.admin.ch/eli/oc/2016/667)), vom 28. Okt. 2016 ([AS 2016 4033](https://fedlex.data.admin.ch/eli/oc/2016/668)), der OZD vom 11. Nov. 2016 ([AS 2016 4035](https://fedlex.data.admin.ch/eli/oc/2016/669)), des EFD vom 11. Aug. 2017 ([AS 2017 4889](https://fedlex.data.admin.ch/eli/oc/2017/534)), vom 1. Nov. 2017 ([AS 2017 6665](https://fedlex.data.admin.ch/eli/oc/2017/741)), der OZD vom 22. Sept. 2020 ([AS 2020 3867](https://fedlex.data.admin.ch/eli/oc/2020/716)), des EFD vom 17. Nov. 2020 ([AS 2020 5431](https://fedlex.data.admin.ch/eli/oc/2020/944)), Ziff. I und II der V des EFD vom 8. Sept. 2021 ([AS 2021 577](https://fedlex.data.admin.ch/eli/oc/2021/577)), Ziff. I der V des EFD vom 15. Nov. 2021 ([AS 2021 737](https://fedlex.data.admin.ch/eli/oc/2021/737)), Ziff. I der V des BAZG vom 21. April 2022 ([AS 2022 252](https://fedlex.data.admin.ch/eli/oc/2022/252)), vom 20. Okt. 2023 ([AS 2023 602](https://fedlex.data.admin.ch/eli/oc/2023/602)), Ziff. I der V des EFD vom 16. Juli 2024 ([AS 2024 375](https://fedlex.data.admin.ch/eli/oc/2024/375)), Ziff. I der V des BAZG vom 18. Dez. 2025 ([AS 2025 855](https://fedlex.data.admin.ch/eli/oc/2025/855)) und vom 21. Jan. 2026, in Kraft seit 1. Febr. 2026 (AS **202****6** 30).
+[^t-1]: Fassung gemäss Ziff. I der V des EFD vom 16. März 2016 ([AS 2016 1093](https://fedlex.data.admin.ch/eli/oc/2016/206)). Bereinigt gemäss Ziff. I der V des EFD vom 12. Aug. 2016 ([AS 2016 2947](https://fedlex.data.admin.ch/eli/oc/2016/489)), vom 28. Okt. 2016 ([AS 2016 4031](https://fedlex.data.admin.ch/eli/oc/2016/667)), vom 28. Okt. 2016 ([AS 2016 4033](https://fedlex.data.admin.ch/eli/oc/2016/668)), der OZD vom 11. Nov. 2016 ([AS 2016 4035](https://fedlex.data.admin.ch/eli/oc/2016/669)), des EFD vom 11. Aug. 2017 ([AS 2017 4889](https://fedlex.data.admin.ch/eli/oc/2017/534)), vom 1. Nov. 2017 ([AS 2017 6665](https://fedlex.data.admin.ch/eli/oc/2017/741)), der OZD vom 22. Sept. 2020 ([AS 2020 3867](https://fedlex.data.admin.ch/eli/oc/2020/716)), des EFD vom 17. Nov. 2020 ([AS 2020 5431](https://fedlex.data.admin.ch/eli/oc/2020/944)), Ziff. I und II der V des EFD vom 8. Sept. 2021 ([AS 2021 577](https://fedlex.data.admin.ch/eli/oc/2021/577)), Ziff. I der V des EFD vom 15. Nov. 2021 ([AS 2021 737](https://fedlex.data.admin.ch/eli/oc/2021/737)), Ziff. I der V des BAZG vom 21. April 2022 ([AS 2022 252](https://fedlex.data.admin.ch/eli/oc/2022/252)), vom 20. Okt. 2023 ([AS 2023 602](https://fedlex.data.admin.ch/eli/oc/2023/602)), Ziff. I der V des EFD vom 16. Juli 2024 ([AS 2024 375](https://fedlex.data.admin.ch/eli/oc/2024/375)), Ziff. I der V des BAZG vom 18. Dez. 2025 ([AS 2025 855](https://fedlex.data.admin.ch/eli/oc/2025/855)), vom 21. Jan. 2026 ([AS 2026 30](https://fedlex.data.admin.ch/eli/oc/2026/30)) und vom 23. März 2026, in Kraft seit 1. April 2026 ([AS 2026 127](https://fedlex.data.admin.ch/eli/oc/2026/127)).
 
 <table>
 <tr><th>Tarifnummer</th><th>Warenbezeichnung</th><th colspan="2">Verwendung</th><th colspan="2">Zollansatz Fr. je 100 kg brutto</th></tr>
@@ -470,10 +470,10 @@ Anhang 1[^t-1]
 <tr><td>1008. 10 29</td><td>Buchweizen</td><td colspan="2">zur Herstellung von Nahrungsmitteln mit Futtermittelanfall</td><td colspan="2">frei</td></tr>
 <tr><td>1008. 29 29</td><td>Hirse</td><td colspan="2">zur Herstellung von Nahrungsmitteln mit Futtermittelanfall</td><td colspan="2">frei</td></tr>
 <tr><td>1008. 30 20</td><td>Kanariensaat</td><td colspan="2">zur Herstellung von Nahrungsmitteln mit Futtermittelanfall</td><td colspan="2">frei</td></tr>
-<tr><td>1008. 40 29</td><td>Fonio (*Digitaria* spp.)</td><td colspan="2">zur Herstellung von Nahrungsmitteln mit Futtermittelanfall</td><td colspan="2">5.00</td></tr>
-<tr><td>1008. 50 29</td><td>Quinoa (*Chenopodium quinoa*)</td><td colspan="2">zur Herstellung von Nahrungsmitteln mit Futtermittelanfall</td><td colspan="2">5.00</td></tr>
+<tr><td>1008. 40 29</td><td>Fonio (*Digitaria* spp.)</td><td colspan="2">zur Herstellung von Nahrungsmitteln mit Futtermittelanfall</td><td colspan="2">4.50</td></tr>
+<tr><td>1008. 50 29</td><td>Quinoa (*Chenopodium quinoa*)</td><td colspan="2">zur Herstellung von Nahrungsmitteln mit Futtermittelanfall</td><td colspan="2">4.50</td></tr>
 <tr><td>1008. 60 39</td><td>Triticale</td><td colspan="2">zur Herstellung von Nahrungsmitteln mit Futtermittelanfall</td><td colspan="2">5.50</td></tr>
-<tr><td>1008. 90 27</td><td>Anderes Getreide</td><td colspan="2">zur Herstellung von Nahrungsmitteln mit Futtermittelanfall</td><td colspan="2">5.00</td></tr>
+<tr><td>1008. 90 27</td><td>Anderes Getreide</td><td colspan="2">zur Herstellung von Nahrungsmitteln mit Futtermittelanfall</td><td colspan="2">4.50</td></tr>
 <tr><td>1101. 00 43</td><td>Dinkelmehl</td><td colspan="2">zur industriellen Herstellung von Stärke, Kleber und Glukose</td><td>—.75</td></tr>
 <tr><td>1101. 00 48</td><td>Weizenmehl</td><td colspan="2">zur industriellen Herstellung von Stärke, Kleber und Glukose</td><td>—.75</td></tr>
 <tr><td>1102. 20 10</td><td>Mehl von Mais</td><td colspan="2">zur menschlichen Ernährung ohne Futtermittelanfall</td><td colspan="2">20.—</td></tr>
@@ -494,7 +494,7 @@ Anhang 1[^t-1]
 <tr><td>1104. 19 29</td><td>Körner von Gerste, gequetscht oder in Flocken</td><td colspan="2">zur menschlichen Ernährung ohne Futtermittelanfall</td><td colspan="2">10.—</td></tr>
 <tr><td>1104. 19 99</td><td>Körner von anderem Getreide, gequetscht oder in Flocken</td><td colspan="2">zur menschlichen Ernährung ohne Futtermittelanfall</td><td colspan="2">10.—</td></tr>
 <tr><td>1104. 22 20</td><td>Anders bearbeitete Körner von Hafer</td><td colspan="2">zur Herstellung von Nahrungsmitteln ohne Futtermittelanfall</td><td colspan="2">10.—</td></tr>
-<tr><td>1104. 22 20</td><td colspan="2">Anders bearbeitete Körner von Hafer</td><td>zur Herstellung von Nahrungsmitteln mit Futtermittelanfall</td><td colspan="2">13.20</td></tr>
+<tr><td>1104. 22 20</td><td colspan="2">Anders bearbeitete Körner von Hafer</td><td>zur Herstellung von Nahrungsmitteln mit Futtermittelanfall</td><td colspan="2">13.80</td></tr>
 <tr><td>1104. 22 20</td><td>Mahlhafer, geschält, noch circa 10 % ungeschälte Körner enthaltend</td><td colspan="2">zur Herstellung von fertigen Haferprodukten für die menschliche Ernährung</td><td colspan="2">—.60</td></tr>
 <tr><td>1104. 23 90</td><td>Anders bearbeitete Körner von Mais</td><td colspan="2">zur menschlichen Ernährung ohne Futtermittelanfall</td><td colspan="2">10.—</td></tr>
 <tr><td>1104. 23 90</td><td>Maisgrütze, d.h. grob gebrochene (geschrotete) Maiskörner, entkeimt und geschält</td><td colspan="2">zur Herstellung von Cornflakes</td><td colspan="2">—.20</td></tr>
@@ -503,7 +503,7 @@ Anhang 1[^t-1]
 <tr><td>1104. 29 18</td><td>Anders bearbeitete Körner von Weizen, Roggen, Mengkorn oder Triticale, geschält oder gerollt</td><td colspan="2">zu technischen Zwecken</td><td colspan="2">40.—</td></tr>
 <tr><td>1104. 29 22</td><td>Anders bearbeitete Körner von Hirse</td><td colspan="2">zur Herstellung von Nahrungsmitteln mit Futtermittelanfall</td><td colspan="2">0.00</td></tr>
 <tr><td>1104. 29 22</td><td>Anders bearbeitete Körner von Hirse</td><td colspan="2">zur menschlichen Ernährung ohne Futtermittelanfall</td><td colspan="2">10.—</td></tr>
-<tr><td>1104. 29 32</td><td>Anders bearbeitete Körner von Gerste</td><td colspan="2">zur Herstellung von Nahrungsmitteln mit Futtermittelanfall</td><td colspan="2">10.20</td></tr>
+<tr><td>1104. 29 32</td><td>Anders bearbeitete Körner von Gerste</td><td colspan="2">zur Herstellung von Nahrungsmitteln mit Futtermittelanfall</td><td colspan="2">9.60</td></tr>
 <tr><td>1104. 29 32</td><td>Anders bearbeitete Körner von Gerste</td><td colspan="2">zur menschlichen Ernährung ohne Futtermittelanfall</td><td colspan="2">10.—</td></tr>
 <tr><td>1104. 29 99</td><td>Anders bearbeitete Körner von anderem Getreide</td><td colspan="2">zur menschlichen Ernährung ohne Futtermittelanfall</td><td colspan="2">10.—</td></tr>
 <tr><td>1104. 30 89</td><td>Weizenkeime</td><td colspan="2">zur Teilentfettung für die menschliche Ernährung</td><td colspan="2">28.80</td></tr>
