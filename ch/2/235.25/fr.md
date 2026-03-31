@@ -3,20 +3,22 @@ sr: "235.25"
 title: Ordonnance du 17 octobre 2018 sur le système de traitement des données «e-vent» de Communication DFAE (Ordonnance «e-vent»)
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/650"
 language: fr
-version: 2023-09-01
+version: 2026-04-01
 adopted: 2018-10-17
 in_force: 2018-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/650/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2018-650-20230901-fr-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/650/20230901/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/650/20260401/fr/xml/fedlex-data-admin-ch-eli-cc-2018-650-20260401-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/650/20260401/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
-# Ordonnance sur le système de traitement des données «e-vent» du Service des conférences du DFAE
+# Ordonnance sur le système de traitement des données «e-vent» de Communication DFAE
 
-(Ordonnance «e-vent»)
+(Ordonnance «e-vent»)[^t-1]
 
-du 17 octobre 2018 (État le 1<sup>er</sup> septembre 2023)
+du 17 octobre 2018 (État le 1<sup>er</sup> avril 2026)
+
+[^t-1]: Nouvelle teneur selon le ch. II 2 de l’O du 11 fév. 2026, en vigueur depuis le 1<sup>er</sup> avr. 2026 ([RO 2026 93](https://fedlex.data.admin.ch/eli/oc/2026/93)).
 
 Le Conseil fédéral suisse,
 
@@ -31,21 +33,25 @@ arrête:
 
 #### Art. 1
 
-**Objet**
+**Objet**[^1-1]
 
-La présente ordonnance règle l’exploitation et l’utilisation du système de traitement des données «e-vent» (système) du Service des conférences du Département fédéral des affaires étrangères (Services des conférences DFAE), rattaché au Secrétariat d’État du DFAE.
+La présente ordonnance règle l’exploitation et l’utilisation du système de traitement des données «e-vent» (système) de la division Communication du Département fédéral des affaires étrangères (Communication DFAE), rattachée au Secrétariat général du DFAE.
+
+[^1-1]: Nouvelle teneur selon le ch. II 2 de l’O du 11 fév. 2026, en vigueur depuis le 1<sup>er</sup> avr. 2026 ([RO 2026 93](https://fedlex.data.admin.ch/eli/oc/2026/93)).
 
 #### Art. 2
 
 **But**
 
-Le système permet au Service des conférences DFAE d’accomplir les tâches qui lui incombent en matière de planification, d’organisation et de réalisation de conférences et d’autres événements.
+Le système permet à la Communication DFAE[^2-1] d’accomplir les tâches qui lui incombent en matière de planification, d’organisation et de réalisation de conférences et d’autres événements.
+
+[^2-1]: Nouvelle expression selon le ch. II 2 de l’O du 11 fév. 2026, en vigueur depuis le 1<sup>er</sup> avr. 2026 ([RO 2026 93](https://fedlex.data.admin.ch/eli/oc/2026/93)). Il a été tenu compte de cette mod. dans tout le texte.
 
 #### Art. 3
 
 **Responsabilité**
 
-Le Service des conférences DFAE est responsable du système.
+La Communication DFAE est responsable du système.
 
 #### Art. 4
 
@@ -67,11 +73,11 @@ Le système se compose d’une base de données et de deux plateformes, dont l�
 
 **Provenance des données et droits de traitement**
 
-<sup>1</sup> Les données sont saisies par les participants ou par le Service des conférences DFAE.
+<sup>1</sup> Les données sont saisies par les participants ou par la Communication DFAE.
 
 <sup>2</sup> Les participants disposent de l’intégralité des droits de traitement pour leurs données personnelles saisies dans le système.
 
-<sup>3</sup> Le Service des conférences DFAE dispose de l’intégralité des droits de traitement pour l’ensemble des données saisies dans le système.
+<sup>3</sup> La Communication DFAE dispose de l’intégralité des droits de traitement pour l’ensemble des données saisies dans le système.
 
 <sup>4</sup> Le secteur Informatique DFAE dispose des droits d’accès nécessaires à l’accomplissement de ses tâches.
 
@@ -103,7 +109,7 @@ Tout document relatif à une conférence, à un événement ou aux personnes y p
 
 <sup>2</sup> L’administrateur système est rattaché au secteur Informatique DFAE. Il gère le système informatique, la base de données et les applications.
 
-<sup>3</sup> Le responsable du programme est rattaché au Service des conférences DFAE. Il sert d’interface entre l’administrateur et les utilisateurs.
+<sup>3</sup> Le responsable du programme est rattaché à la Communication DFAE. Il sert d’interface entre l’administrateur et les utilisateurs.
 
 #### Art. 10
 
@@ -111,7 +117,7 @@ Tout document relatif à une conférence, à un événement ou aux personnes y p
 
 <sup>1</sup> Le responsable du programme attribue les droits d’accès individuels aux utilisateurs du système.
 
-<sup>2</sup> Le Service des conférences DFAE vérifie une fois par an si les conditions relatives aux droits d’accès sont toujours remplies.
+<sup>2</sup> La Communication DFAE vérifie une fois par an si les conditions relatives aux droits d’accès sont toujours remplies.
 
 ## Section 4 Sécurité des données
 
@@ -119,15 +125,15 @@ Tout document relatif à une conférence, à un événement ou aux personnes y p
 
 **Devoir de diligence**
 
-<sup>1</sup> Le Service des conférences DFAE veille à ce que le traitement des données dans le système respecte les dispositions en vigueur.
+<sup>1</sup> La Communication DFAE veille à ce que le traitement des données dans le système respecte les dispositions en vigueur.
 
-<sup>2</sup> Il s’assure que les données personnelles sont exactes, complètes et à jour.
+<sup>2</sup> Elle s’assure que les données personnelles sont exactes, complètes et à jour.
 
 #### Art. 12
 
 **Règlement relatif au traitement des données**
 
-Le Service des conférences DFAE édicte un règlement relatif au traitement des données. Ce dernier contient les mesures techniques et organisationnelles requises pour assurer la sécurité des données et le contrôle du traitement des données.
+La Communication DFAE édicte un règlement relatif au traitement des données. Ce dernier contient les mesures techniques et organisationnelles requises pour assurer la sécurité des données et le contrôle du traitement des données.
 
 #### Art. 13
 

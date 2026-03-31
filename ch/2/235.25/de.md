@@ -3,20 +3,22 @@ sr: "235.25"
 title: Verordnung vom 17. Oktober 2018 über das Datenbearbeitungssystem «e-vent» der Kommunikation EDA (Verordnung «e-vent»)
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/650"
 language: de
-version: 2023-09-01
+version: 2026-04-01
 adopted: 2018-10-17
 in_force: 2018-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/650/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2018-650-20230901-de-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/650/20230901/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/650/20260401/de/xml/fedlex-data-admin-ch-eli-cc-2018-650-20260401-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/650/20260401/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
-# Verordnung über das Datenbearbeitungssystem «e-vent» des Konferenzdienstes EDA
+# Verordnung über das Datenbearbeitungssystem «e-vent» der Kommunikation EDA
 
-(Verordnung «e-vent»)
+(Verordnung «e-vent»)[^t-1]
 
-vom 17. Oktober 2018 (Stand am 1. September 2023)
+vom 17. Oktober 2018 (Stand am 1. April 2026)
+
+[^t-1]: Fassung gemäss Ziff. II 2 der V vom 11. Febr. 2026, in Kraft seit 1. April 2026 ([AS 2026 93](https://fedlex.data.admin.ch/eli/oc/2026/93)).
 
 Der Schweizerische Bundesrat,
 
@@ -31,21 +33,25 @@ verordnet:
 
 #### Art. 1
 
-**Gegenstand**
+**Gegenstand**[^1-1]
 
-Diese Verordnung regelt den Betrieb und die Benützung des Datenbearbeitungssystems «e-vent» (System) des Konferenzdienstes des Eidgenössischen Departements für auswärtige Angelegenheiten (Konferenzdienst EDA) im Staatssekretariat des EDA.
+Diese Verordnung regelt den Betrieb und die Benützung des Datenbearbeitungssystems «e-vent» (System) der Kommunikation des Eidgenössischen Departements für auswärtige Angelegenheiten (Kommunikation EDA) im Generalsekretariat des EDA.
+
+[^1-1]: Fassung gemäss Ziff. II 2 der V vom 11. Febr. 2026, in Kraft seit 1. April 2026 ([AS 2026 93](https://fedlex.data.admin.ch/eli/oc/2026/93)).
 
 #### Art. 2
 
 **Zweck**
 
-Das System dient dem Konferenzdienst EDA zur Wahrnehmung seiner Aufgaben im Rahmen der Planung, Organisation und Durchführung von Konferenzen und Veranstaltungen.
+Das System dient der Kommunikation EDA[^2-1] zur Wahrnehmung ihrer Aufgaben im Rahmen der Planung, Organisation und Durchführung von Konferenzen und Veranstaltungen.
+
+[^2-1]: Ausdruck gemäss Ziff. II 2 der V vom 11. Febr. 2026, in Kraft seit 1. April 2026 ([AS 2026 93](https://fedlex.data.admin.ch/eli/oc/2026/93)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
 
 #### Art. 3
 
 **Verantwortliche Behörde**
 
-Der Konferenzdienst EDA trägt die Verantwortung für das System.
+Die Kommunikation EDA trägt die Verantwortung für das System.
 
 #### Art. 4
 
@@ -67,11 +73,11 @@ Das System besteht aus einer Datenbank und je einem Online-Portal für den Zugri
 
 **Herkunft der Daten und Bearbeitungsrechte**
 
-<sup>1</sup> Die Daten werden von den Teilnehmerinnen und Teilnehmern oder vom Konferenzdienst EDA erfasst.
+<sup>1</sup> Die Daten werden von den Teilnehmerinnen und Teilnehmern oder von der Kommunikation EDA erfasst.
 
 <sup>2</sup> Die Teilnehmerinnen und Teilnehmer verfügen für die eigenen Daten im System über vollständige Bearbeitungsrechte.
 
-<sup>3</sup> Der Konferenzdienst EDA verfügt für alle Daten im System über vollständige Bearbeitungsrechte.
+<sup>3</sup> Die Kommunikation EDA verfügt für alle Daten im System über vollständige Bearbeitungsrechte.
 
 <sup>4</sup> Die Einheit für Informatik des EDA verfügt über diejenigen Zugriffsrechte, die zur Erfüllung ihrer Aufgaben notwendig sind.
 
@@ -103,7 +109,7 @@ Im System können alle Dokumente zu Konferenzen, Veranstaltungen und den daran t
 
 <sup>2</sup> Die Systemadministratorin oder der Systemadministrator gehört der Einheit für Informatik des EDA an. Sie oder er verwaltet das Computersystem, die Datenbank und die Anwendungen.
 
-<sup>3</sup> Die oder der Anwendungsverantwortliche gehört dem Konferenzdienst EDA an. Sie oder er bildet die Schnittstelle zwischen der Systemadministratorin oder dem Systemadministrator und den Benutzerinnen und Benutzern.
+<sup>3</sup> Die oder der Anwendungsverantwortliche gehört der Kommunikation EDA an. Sie oder er bildet die Schnittstelle zwischen der Systemadministratorin oder dem Systemadministrator und den Benutzerinnen und Benutzern.
 
 #### Art. 10
 
@@ -111,7 +117,7 @@ Im System können alle Dokumente zu Konferenzen, Veranstaltungen und den daran t
 
 <sup>1</sup> Die oder der Anwendungsverantwortliche erteilt den Benutzerinnen und Benutzern des Systems die individuellen Zugriffsrechte.
 
-<sup>2</sup> Der Konferenzdienst EDA überprüft jährlich, ob die Voraussetzungen für die Zugriffsberechtigungen weiterhin bestehen.
+<sup>2</sup> Die Kommunikation EDA überprüft jährlich, ob die Voraussetzungen für die Zugriffsberechtigungen weiterhin bestehen.
 
 ## 4. Abschnitt: Datensicherheit
 
@@ -119,15 +125,15 @@ Im System können alle Dokumente zu Konferenzen, Veranstaltungen und den daran t
 
 **Sorgfaltspflichten**
 
-<sup>1</sup> Der Konferenzdienst EDA sorgt dafür, dass die Daten im System vorschriftsgemäss bearbeitet werden.
+<sup>1</sup> Die Kommunikation EDA sorgt dafür, dass die Daten im System vorschriftsgemäss bearbeitet werden.
 
-<sup>2</sup> Er stellt sicher, dass die Personendaten richtig, vollständig und nachgeführt sind.
+<sup>2</sup> Sie stellt sicher, dass die Personendaten richtig, vollständig und nachgeführt sind.
 
 #### Art. 12
 
 **Bearbeitungsreglement**
 
-Der Konferenzdienst EDA erlässt ein Bearbeitungsreglement. Dieses enthält die organisatorischen und technischen Massnahmen zur Gewährleistung der Datensicherheit sowie zur Kontrolle der Datenbearbeitung.
+Die Kommunikation EDA erlässt ein Bearbeitungsreglement. Dieses enthält die organisatorischen und technischen Massnahmen zur Gewährleistung der Datensicherheit sowie zur Kontrolle der Datenbearbeitung.
 
 #### Art. 13
 

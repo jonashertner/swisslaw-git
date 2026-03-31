@@ -3,20 +3,22 @@ sr: "235.25"
 title: Ordinanza del 17 ottobre 2018 concernente il trattamento dei dati nel sistema «e-vent» di Comunicazione DFAE (Ordinanza «e-vent»)
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/650"
 language: it
-version: 2023-09-01
+version: 2026-04-01
 adopted: 2018-10-17
 in_force: 2018-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/650/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2018-650-20230901-it-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/650/20230901/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/650/20260401/it/xml/fedlex-data-admin-ch-eli-cc-2018-650-20260401-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/650/20260401/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
-# Ordinanza concernente il trattamento dei dati nel sistema «e-vent» del Servizio delle conferenze DFAE
+# Ordinanza concernente il trattamento dei dati nel sistema «e-vent» di Comunicazione DFAE
 
-(Ordinanza «e-vent»)
+(Ordinanza «e-vent»)[^t-1]
 
-del 17 ottobre 2018 (Stato 1° settembre 2023)
+del 17 ottobre 2018 (Stato 1° aprile 2026)
+
+[^t-1]: Nuovo testo giusta la cifra II n. 2 dell’O dell’11 feb. 2026, in vigore dal 1° apr. 2026 ([RU 2026 93](https://fedlex.data.admin.ch/eli/oc/2026/93)).
 
 Il Consiglio federale svizzero,
 
@@ -31,21 +33,25 @@ ordina:
 
 #### Art. 1
 
-**Oggetto**
+**Oggetto**[^1-1]
 
-La presente ordinanza disciplina il trattamento dei dati nel sistema «e-vent» (sistema) del Servizio delle conferenze del Dipartimento federale degli affari esteri (Servizio delle conferenze DFAE) in seno alla Segreteria di Stato del DFAE.
+La presente ordinanza disciplina il trattamento dei dati nel sistema «e-vent» (sistema) di Comunicazione del Dipartimento federale degli affari esteri (Comunicazione DFAE) in seno alla Segreteria generale del DFAE.
+
+[^1-1]: Nuovo testo giusta la cifra II n. 2 dell’O dell’11 feb. 2026, in vigore dal 1° apr. 2026 ([RU 2026 93](https://fedlex.data.admin.ch/eli/oc/2026/93)).
 
 #### Art. 2
 
 **Scopo**
 
-Il sistema consente al Servizio delle conferenze DFAE di svolgere i suoi compiti nell’ambito della pianificazione, dell’organizzazione e dello svolgimento di conferenze e manifestazioni.
+Il sistema consente alla Comunicazione DFAE[^2-1] di svolgere i suoi compiti nell’ambito della pianificazione, dell’organizzazione e dello svolgimento di conferenze e manifestazioni.
+
+[^2-1]: Nuova espr. giusta la cifra II n. 2 dell’O dell’11 feb. 2026, in vigore dal 1° apr. 2026 ([RU 2026 93](https://fedlex.data.admin.ch/eli/oc/2026/93)). Di detta mod. é tenuto conto in tutto il presente testo.
 
 #### Art. 3
 
 **Autorità responsabile**
 
-Il Servizio delle conferenze DFAE è responsabile del sistema.
+La Comunicazione DFAE è responsabile del sistema.
 
 #### Art. 4
 
@@ -67,11 +73,11 @@ Il sistema consiste in una banca dati e in un portale online per l’accesso dal
 
 **Provenienza dei dati e diritti di trattamento**
 
-<sup>1</sup> I dati sono registrati dai partecipanti o dal Servizio delle conferenze DFAE.
+<sup>1</sup> I dati sono registrati dai partecipanti o dalla Comunicazione DFAE.
 
 <sup>2</sup> I partecipanti dispongono di diritti di trattamento completi dei loro dati registrati nel sistema.
 
-<sup>3</sup> Il Servizio delle conferenze DFAE dispone di diritti di trattamento completi di tutti i dati registrati nel sistema.
+<sup>3</sup> La Comunicazione DFAE dispone di diritti di trattamento completi di tutti i dati registrati nel sistema.
 
 <sup>4</sup> L’unità Informatica DFAE dispone dei diritti di accesso necessari per adempiere i propri compiti.
 
@@ -103,7 +109,7 @@ Nel sistema possono essere registrati tutti i documenti relativi a conferenze, m
 
 <sup>2</sup> L’amministratore di sistema fa parte dell’unità Informatica DFAE. Gestisce il sistema informatico, la banca dati e le applicazioni.
 
-<sup>3</sup> Il responsabile delle applicazioni fa parte del Servizio delle conferenze DFAE. È l’intermediario tra l’amministratore di sistema e gli utenti.
+<sup>3</sup> Il responsabile delle applicazioni fa parte della Comunicazione DFAE. È l’intermediario tra l’amministratore di sistema e gli utenti.
 
 #### Art. 10
 
@@ -111,7 +117,7 @@ Nel sistema possono essere registrati tutti i documenti relativi a conferenze, m
 
 <sup>1</sup> Il responsabile delle applicazioni concede agli utenti del sistema i diritti di accesso individuali.
 
-<sup>2</sup> Il Servizio delle conferenze DFAE verifica una volta all’anno se le condizioni per la concessione dei diritti di accesso continuano a essere adempiute.
+<sup>2</sup> La Comunicazione DFAE verifica una volta all’anno se le condizioni per la concessione dei diritti di accesso continuano a essere adempiute.
 
 ## Sezione 4: Sicurezza dei dati
 
@@ -119,7 +125,7 @@ Nel sistema possono essere registrati tutti i documenti relativi a conferenze, m
 
 **Obblighi di diligenza**
 
-<sup>1</sup> Il Servizio delle conferenze DFAE provvede affinché il trattamento dei dati nel sistema sia conforme alle prescrizioni.
+<sup>1</sup> La Comunicazione DFAE provvede affinché il trattamento dei dati nel sistema sia conforme alle prescrizioni.
 
 <sup>2</sup> Si assicura che i dati personali siano esatti, completi e aggiornati.
 
@@ -127,7 +133,7 @@ Nel sistema possono essere registrati tutti i documenti relativi a conferenze, m
 
 **Regolamento sul trattamento dei dati**
 
-Il Servizio delle conferenze DFAE emana un regolamento sul trattamento dei dati. Questo documento contiene le misure organizzative e tecniche volte a garantire la sicurezza dei dati e il controllo del trattamento dei dati.
+La Comunicazione DFAE emana un regolamento sul trattamento dei dati. Questo documento contiene le misure organizzative e tecniche volte a garantire la sicurezza dei dati e il controllo del trattamento dei dati.
 
 #### Art. 13
 
