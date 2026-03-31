@@ -4,13 +4,12 @@ number: "400.11"
 title: Verordnung zum Raumplanungs- und Baugesetz
 short: RBV
 language: de
-version: 2025-03-01
-valid_until: 2026-03-31
-version_adopted: 2025-02-18
+version: 2026-04-01
+version_adopted: 2026-03-17
 adopted: 1998-10-27
 in_force: 1999-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/400.11"
-pdf: "https://bl.clex.ch/api/de/versions/4245/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/4451/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://bl.clex.ch/api/de/versions/4245/pdf_file"
 
 (RBV)
 
-Vom 27.10.1998 (Stand 01.03.2025)
+Vom 27.10.1998 (Stand 01.04.2026)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -1116,7 +1115,8 @@ Hauptdächer, Vordächer und offene, durchgehende Balkone. Andere Bauteile dürf
 - g. die statischen Berechnungen auf Verlangen der Baubewilligungsbehörde. Im statischen Nachweis sind die Belastungsannahmen, die massgebenden Grundlagen und die Materialbeanspruchungen in den Haupttragelementen darzulegen. Der Ingenieur trägt die Verantwortung für die statischen Berechnungen;
 - h. der Nachweis von Massnahmen zum Schutz vor Schäden durch gravitative Naturgefahren gemäss § 101 Abs. 1 Bst. c. Raumplanungs- und Baugesetz[^87-1];
 - i. bei Bau- und Rückbauvorhaben, bei denen mehr als 200 m³ Bauabfälle oder bei denen belastete Bauabfälle anfallen, sowie beim Rückbau von Gebäuden ein Entsorgungskonzept mit Angaben, wie insbesondere zur Vorgehensweise, zu den vorgesehenen Verwertungs- und Entsorgungswegen sowie zur Art, Qualität und Menge der anfallenden Abfälle;
-- j. bei Rückbauvorhaben von Gebäuden oder Gebäudeteilen, die vor 1990 erstellt wurden, bei Boden- und Aushubarbeiten, bei denen ein Verdacht auf eine Schadstoffbelastung besteht, sowie bei Strassenrückbauten ein Bericht über die Schadstoffermittlung.
+- j. bei Rückbauvorhaben von Gebäuden oder Gebäudeteilen, die vor 1990 erstellt wurden, bei Boden- und Aushubarbeiten, bei denen ein Verdacht auf eine Schadstoffbelastung besteht, sowie bei Strassenrückbauten ein Bericht über die Schadstoffermittlung;
+- k. bei Neu- und Ersatzbauten ein Nachweis zur Umgebungsgestaltung (Umgebungsplan), soweit die Zonen- bzw. Quartierplanvorschriften dies vorschreiben.
 
 <sup>4</sup> Die Baubewilligungsbehörde kann:
 
