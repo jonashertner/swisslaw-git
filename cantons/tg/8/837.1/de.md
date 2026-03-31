@@ -4,22 +4,23 @@ number: "837.1"
 title: Gesetz über Massnahmen gegen die Arbeitslosigkeit und zur Standortförderung
 short: MASG
 language: de
-version: 2008-01-01
-valid_until: 2026-03-31
-version_adopted: 2007-03-21
+version: 2026-04-01
+version_adopted: 2025-05-07
 adopted: 1988-11-28
 in_force: 1990-07-01
 url: "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/837.1"
-pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2289/pdf_file"
+pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/3036/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons TG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Gesetz über Massnahmen gegen die Arbeitslosigkeit und zur Standortförderung
 
-G Massnahmen gegen die Arbeitslosigkeit und zur Standortförderung
+MASG
 
-vom 28.11.1988 (Stand 01.01.2008)
+(MASG)
+
+vom 28.11.1988 (Stand 01.04.2026)
 
 ## 1. Allgemeines
 
@@ -29,13 +30,13 @@ vom 28.11.1988 (Stand 01.01.2008)
 
 <sup>1</sup> Dieses Gesetz enthält Bestimmungen über:
 
-- 1\. den Vollzug des Bundesgesetzes über die obligatorische Arbeitslosenversicherung und die Insolvenzentschädigung (Arbeitslosenversicherungsgesetz)[^1-1];
-- 2\. den Vollzug des Bundesgesetzes über die Arbeitsvermittlung und den Personalverleih (Arbeitsvermittlungsgesetz)[^1-2];
-- 3\. die Arbeitsplatzförderung;
-- 3a. die Standortförderung;
-- 4\. Massnahmen zur Verhütung und Bekämpfung der Arbeitslosigkeit;
+- 1\. den Vollzug des Bundesgesetzes über die obligatorische Arbeitslosenversicherung und die Insolvenzentschädigung (Arbeitslosenversicherungsgesetz)[^1-1]
+- 2\. den Vollzug des Bundesgesetzes über die Arbeitsvermittlung und den Personalverleih (Arbeitsvermittlungsgesetz)[^1-2]
+- 3\. die Arbeitsplatzförderung
+- 3a. die Standortförderung
+- 4\. Massnahmen zur Verhütung und Bekämpfung der Arbeitslosigkeit
 - 5\. …
-- 6\. den Arbeitsmarktfonds.
+- 6\. den Arbeitsmarkt- und Innovationsfonds
 
 [^1-1]: SR [837.0](https://db.clex.ch/link/Bund/837.0/de)
 [^1-2]: SR [823.11](https://db.clex.ch/link/Bund/823.11/de)
@@ -128,15 +129,18 @@ vom 28.11.1988 (Stand 01.01.2008)
 
 <sup>2</sup> Solche Unterstützungsmassnahmen bestehen in:
 
-- 1\. Information, Vermittlung oder Beratung;
-- 2\. Bürgschaften;
-- 3\. Zinskostenbeiträgen.
+- 1\. Information, Vermittlung oder Beratung
+- 2\.–3. …
 
 #### § 11
 
-**Technologietransfer, Innovationsberatung**
+**Technologietransfer, Innovationsförderung**
 
-<sup>1</sup> Der Kanton kann den Technologietransfer und die Innovationsberatung fördern.
+<sup>1</sup> Der Kanton kann den Technologietransfer und die Innovation fördern und in diesen Bereichen insbesondere Veranstaltungen, Betreuungen und Beratungen, Machbarkeitsstudien sowie Forschungs- und Entwicklungsprojekte von im Kanton Thurgau steuerpflichtigen Unternehmen mit Beiträgen unterstützen.
+
+<sup>2</sup> Förderbeiträge für Machbarkeitsstudien sowie Forschungs- und Entwicklungsprojekte können nur an anerkannte Hochschul- und Forschungspartner geleistet werden und stehen unter der Voraussetzung, dass sich das Unternehmen an den Kosten der Studien und der Projekte beteiligt.
+
+<sup>3</sup> Der Regierungsrat bestimmt oder errichtet eine verwaltungsexterne Stelle, die für die Tätigkeiten nach Abs. 1 zuständig ist.
 
 ## 4. Arbeitsmarktliche Massnahmen
 
@@ -164,19 +168,19 @@ vom 28.11.1988 (Stand 01.01.2008)
 
 **Finanzierungshilfen**
 
-<sup>1</sup> Der Regierungsrat kann zur Erhaltung von Arbeitsplätzen die Gewährung von Bürgschaften, Zinskostenbeiträgen oder Darlehen an Unternehmungen von arbeitsmarktlicher Bedeutung beschliessen, sofern diese danach längerfristig selbständig lebensfähig sind und ohne staatliche Finanzierungshilfen ihren Betrieb einstellen oder stark einschränken müssten.
+<sup>1</sup> Der Regierungsrat kann zur Erhaltung von Arbeitsplätzen die Gewährung von Darlehen an Unternehmungen von arbeitsmarktlicher Bedeutung beschliessen, sofern diese danach längerfristig selbständig lebensfähig sind und ohne staatliche Finanzierungshilfen ihren Betrieb einstellen oder stark einschränken müssten.
 
 #### § 16–18
 
 **…**
 
-## 5. Arbeitsmarktfonds
+## 5. Arbeitsmarkt- und Innovationsfonds
 
 #### § 19
 
 **Errichtung, Zweck**
 
-<sup>1</sup> Der Kanton errichtet einen Arbeitsmarktfonds.
+<sup>1</sup> Der Kanton errichtet einen Arbeitsmarkt- und Innovationsfonds.
 
 <sup>2</sup> Dieser dient zur Finanzierung der Leistungen des Kantons aus den Verpflichtungen gemäss dem Arbeitslosenversicherungsgesetz und den Massnahmen nach § 6, § 7, § 9, § 9a, § 10 bis § 12 sowie § 14 und § 15.
 
@@ -184,11 +188,11 @@ vom 28.11.1988 (Stand 01.01.2008)
 
 **Finanzierung**
 
-<sup>1</sup> Der Arbeitsmarktfonds wird geäufnet durch:
+<sup>1</sup> Der Arbeitsmarkt- und Innovationsfonds wird geäufnet durch:
 
-- 1\. das Vermögen des bisherigen Krisenfonds;
-- 2\. Fonds- und Darlehenszinsen;
-- 3\. allgemeine Staatsmittel.
+- 1\. das Vermögen des bisherigen Krisenfonds
+- 2\. Fonds- und Darlehenszinsen
+- 3\. allgemeine Staatsmittel
 
 #### § 21
 
@@ -208,7 +212,7 @@ vom 28.11.1988 (Stand 01.01.2008)
 
 **Kantonsbeiträge**
 
-<sup>1</sup> Der Arbeitsmarktfonds wird bis zu einem Bestand von 20 Millionen Franken durch jährliche Beiträge aus den allgemeinen Staatsmitteln von einem halben Prozent des jeweiligen Staatssteuerertrages gespiesen. Darlehen gemäss § 15 gehören zum Fondsbestand.
+<sup>1</sup> Der Arbeitsmarkt- und Innovationsfonds wird bis zu einem Bestand von 20 Millionen Franken durch jährliche Beiträge aus den allgemeinen Staatsmitteln von einem halben Prozent des jeweiligen Staatssteuerertrages gespiesen. Darlehen gemäss § 15 gehören zum Fondsbestand.
 
 <sup>2</sup> Der Grosse Rat kann diesen Ansatz erhöhen, wenn der Fondsbestand 10 Millionen Franken unterschreitet oder zu erwartende Belastungen eine Erhöhung erfordern.
 
@@ -228,18 +232,8 @@ vom 28.11.1988 (Stand 01.01.2008)
 
 [^25-1]: SR [837.0](https://db.clex.ch/link/Bund/837.0/de)
 
-#### § 26
+#### § 26–27
 
-**...[^26-1]**
-
-[^26-1]: Aufhebung bisherigen Rechtes, ABl. 1989, Seite 93.
-
-#### § 27
-
-**Inkrafttreten**
-
-<sup>1</sup> Dieses Gesetz tritt nach Annahme durch das Volk auf einen vom Regierungsrat festzusetzenden Zeitpunkt in Kraft[^27-1].
-
-[^27-1]: In Kraft gesetzt auf den 1. Juli 1990.
+**…**
 
 3/1989
