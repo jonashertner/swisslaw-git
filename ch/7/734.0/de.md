@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 24. Juni 1902 betreffend die elektrischen Schwach- und 
 short: EleG
 eli: "https://fedlex.data.admin.ch/eli/cc/19/259_252_257"
 language: de
-version: 2024-07-01
+version: 2026-04-01
 adopted: 1902-06-24
 in_force: 1903-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/19/259_252_257/20240701/de/xml/fedlex-data-admin-ch-eli-cc-19-259_252_257-20240701-de-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/19/259_252_257/20240701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/19/259_252_257/20260401/de/xml/fedlex-data-admin-ch-eli-cc-19-259_252_257-20260401-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/19/259_252_257/20260401/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/19/259_252_257/20240701/de"
 
 (Elektrizitätsgesetz, EleG)[^t-1]
 
-vom 24. Juni 1902 (Stand am 1. Juli 2024)
+vom 24. Juni 1902 (Stand am 1. April 2026)
 
 [^t-1]: Eingefügt durch Anhang Ziff. 11 des Telekommunikationsunternehmungsgesetzes vom 30. April 1997, in Kraft seit 1. Jan. 1998 ([AS 1997 2480](https://fedlex.data.admin.ch/eli/oc/1997/2480_2480_2480); [BBl 1996 III 1306](https://fedlex.data.admin.ch/eli/fga/1996/3_1306_1260_1201)).
 
@@ -27,7 +27,7 @@ gestützt auf die Artikel 81, 87, 89 und 91 Absatz 1 der Bundesverfassung[^ingre
 
 beschliesst:
 
-[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: Fassung gemäss Ziff. I 1 des BG vom 15. Dez. 2017 über den Um- und Ausbau der Stromnetze, in Kraft seit 1. Juni 2019 ([AS 2019 1349](https://fedlex.data.admin.ch/eli/oc/2019/264); [BBl 2016 3865](https://fedlex.data.admin.ch/eli/fga/2016/785)).
 [^ingress-3]: [BBl 1899 III 786](https://fedlex.data.admin.ch/eli/fga/1899/3_786_441_)
 
@@ -68,7 +68,7 @@ Er regelt:[^3-2]
 [^3-1]: Fassung gemäss Anhang Ziff. 4 zum Fernmeldegesetz vom 21. Juni 1991, in Kraft seit 1. Mai 1992 ([AS 1992 581](https://fedlex.data.admin.ch/eli/oc/1992/581_581_581); [BBl 1988 I 1311](https://fedlex.data.admin.ch/eli/fga/1988/1_1311_1260_1077)).
 [^3-2]: Fassung gemäss Anhang Ziff. 4 zum Fernmeldegesetz vom 21. Juni 1991, in Kraft seit 1. Mai 1992 ([AS 1992 581](https://fedlex.data.admin.ch/eli/oc/1992/581_581_581); [BBl 1988 I 1311](https://fedlex.data.admin.ch/eli/fga/1988/1_1311_1260_1077)).
 [^3-3]: Eingefügt durch Anhang Ziff. 4 zum Fernmeldegesetz vom 21. Juni 1991, in Kraft seit 1. Mai 1992 ([AS 1992 581](https://fedlex.data.admin.ch/eli/oc/1992/581_581_581); [BBl 1988 I 1311](https://fedlex.data.admin.ch/eli/fga/1988/1_1311_1260_1077)).
-[^3-4]: [[AS 1992 581](https://fedlex.data.admin.ch/eli/oc/1992/581_581_581), [1993 901](https://fedlex.data.admin.ch/eli/oc/1993/901_901_901)Anhang Ziff. 18. [AS 1997 2187](https://fedlex.data.admin.ch/eli/oc/1997/2187_2187_2187)Art. 65]. Siehe heute das Fernmeldegesetz vom 30. April 1997 ([SR 784.10](https://fedlex.data.admin.ch/eli/cc/1997/2187_2187_2187)).
+[^3-4]: [[AS 1992 581](https://fedlex.data.admin.ch/eli/oc/1992/581_581_581), [1993 901](https://fedlex.data.admin.ch/eli/oc/1993/901_901_901)Anhang Ziff. 18. [AS 1997 2187](https://fedlex.data.admin.ch/eli/oc/1997/2187_2187_2187)Art. 65]. Siehe heute das Fernmeldegesetz vom 30. April 1997 ([SR 784.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9171)).
 [^3-5]: Aufgehoben durch Ziff. II 30 des BG vom 20. März 2008 zur formellen Bereinigung des Bundesrechts, mit Wirkung seit 1. Aug. 2008 ([AS 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447); [BBl 2007 6121](https://fedlex.data.admin.ch/eli/fga/2007/885)).
 
 #### Art. 3a
@@ -80,7 +80,7 @@ Er regelt:[^3-2]
 <sup>2</sup> Er sieht vor, dass das Bundesamt für Energie (BFE) von den Betreiberinnen von Stark- und Schwachstromanlagen (Unternehmungen) angemessene Gebühren für den Aufwand erhebt, der in den Kantonen gemäss den Leistungsvereinbarungen nach Artikel 9*e* Absatz 2 des Stromversorgungsgesetzes vom 23. März 2007[^3a-2] (StromVG) anfällt.
 
 [^3a-1]: Eingefügt durch Anhang Ziff. II 8 des Energiegesetzes vom 30. Sept. 2016 ([AS 2017 6839](https://fedlex.data.admin.ch/eli/oc/2017/762); [BBl 2013 7561](https://fedlex.data.admin.ch/eli/fga/2013/1476)). Fassung gemäss Ziff. I 1 des BG vom 15. Dez. 2017 über den Um- und Ausbau der Stromnetze, in Kraft seit 1. Juni 2019 ([AS 2019 1349](https://fedlex.data.admin.ch/eli/oc/2019/264); [BBl 2016 3865](https://fedlex.data.admin.ch/eli/fga/2016/785)).
-[^3a-2]: [SR 734.7](https://fedlex.data.admin.ch/eli/cc/2007/418)
+[^3a-2]: [SR 734.7](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8592)
 
 #### Art. 3b
 
@@ -153,7 +153,7 @@ Hausinstallationen im Sinne dieses Gesetzes sind elektrische Einrichtungen in H�
 
 [^15-1]: Fassung gemäss Ziff. I 8 des BG vom 18. Juni 1999 über die Koordination und Vereinfachung von Entscheidverfahren, in Kraft seit 1. Jan. 2000 ([AS 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); BBl **1998** 2591).
 [^15-2]: Fassung gemäss Anhang Ziff. 3 des Stromversorgungsgesetzes vom 23. März 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 3425](https://fedlex.data.admin.ch/eli/oc/2007/418); [BBl 2005 1611](https://fedlex.data.admin.ch/eli/fga/2005/197)).
-[^15-3]: [SR 173.110](https://fedlex.data.admin.ch/eli/cc/2006/218)
+[^15-3]: [SR 173.110](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5575)
 [^15-4]: Fassung des zweiten Satzes gemäss Ziff. I 1 des BG vom 15. Dez. 2017 über den Um- und Ausbau der Stromnetze, in Kraft seit 1. Juni 2019 ([AS 2019 1349](https://fedlex.data.admin.ch/eli/oc/2019/264); [BBl 2016 3865](https://fedlex.data.admin.ch/eli/fga/2016/785)).
 
 #### Art. 15a
@@ -170,11 +170,12 @@ Leitungen mit den erforderlichen Nebenanlagen zur Übertragung und Verteilung vo
 
 <sup>1</sup> Eine Leitung mit einer Nennspannung von 220 kV oder höher kann als Freileitung oder Erdkabel ausgeführt werden.
 
-<sup>2</sup> Sind gestützt auf die Umweltschutzgesetzgebung und die Natur- und Heimatschutzgesetzgebung Ersatzmassnahmen vorzunehmen, so kann die Unternehmung der Genehmigungsbehörde nach Artikel 16 Absatz 2 beantragen, andere Unternehmungen zur Vornahme dieser Massnahmen an Starkstromanlagen zu verpflichten, die diesen anderen Unternehmungen gehören und die sich in der Regel innerhalb des betreffenden Planungsgebietes befinden müssen.
+<sup>2</sup> Sind gestützt auf die Umweltschutzgesetzgebung und die Natur- und Heimatschutzgesetzgebung Ersatzmassnahmen vorzunehmen, so kann die Unternehmung der Genehmigungsbehörde nach Artikel 16 Absatz 2 beantragen, andere Unternehmungen zur Vornahme dieser Massnahmen an Starkstromanlagen zu verpflichten, die diesen anderen Unternehmungen gehören und die sich in der Regel innerhalb der von der geplanten Leitung betroffenen Gegend befinden müssen.[^15b-2]
 
 <sup>3</sup> Die betroffenen Unternehmungen werden dafür von der beantragenden Unternehmung voll entschädigt. Der Bundesrat regelt die Einzelheiten.
 
 [^15b-1]: Eingefügt durch Ziff. I 1 des BG vom 15. Dez. 2017 über den Um- und Ausbau der Stromnetze, in Kraft seit 1. Juni 2019 ([AS 2019 1349](https://fedlex.data.admin.ch/eli/oc/2019/264); [BBl 2016 3865](https://fedlex.data.admin.ch/eli/fga/2016/785)).
+[^15b-2]: Fassung gemäss Anhang Ziff. 4 des BG vom 26. Sept. 2025, in Kraft seit 1. April 2026 ([AS 2026 99](https://fedlex.data.admin.ch/eli/oc/2026/99); [BBl 2023 1602](https://fedlex.data.admin.ch/eli/fga/2023/1602)).
 
 #### Art. 15c
 
@@ -192,7 +193,7 @@ Der Bundesrat kann vorsehen, dass:
 - b. trotz Einhaltung oder Unterschreitung des Mehrkostenfaktors teilweise oder vollständig eine Freileitung erstellt werden muss, wenn dadurch insgesamt weniger Nachteile für Raum und Umwelt entstehen.
 
 [^15c-1]: Eingefügt durch Ziff. I 1 des BG vom 15. Dez. 2017 über den Um- und Ausbau der Stromnetze, in Kraft seit 1. Juni 2020 ([AS 2019 1349](https://fedlex.data.admin.ch/eli/oc/2019/264); [BBl 2016 3865](https://fedlex.data.admin.ch/eli/fga/2016/785)).
-[^15c-2]: [SR 734.7](https://fedlex.data.admin.ch/eli/cc/2007/418)
+[^15c-2]: [SR 734.7](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8592)
 
 #### Art. 15d
 
@@ -207,7 +208,7 @@ Der Bundesrat kann vorsehen, dass:
 <sup>4</sup> Hat die Genehmigungsbehörde nach Artikel 16 Absatz 2 über die Bewilligung eines Vorhabens, das eine Anlage nach Absatz 2 oder 3 betrifft, zu entscheiden, so ist das nationale Interesse an der Realisierung dieser Vorhaben bei der Interessenabwägung als gleichrangig zu betrachten mit anderen nationalen Interessen. Betrifft das Vorhaben ein Objekt, das in einem Inventar nach Artikel 5 NHG aufgeführt ist, darf ein Abweichen von der ungeschmälerten Erhaltung in Erwägung gezogen werden.
 
 [^15d-1]: Eingefügt durch Ziff. I 1 des BG vom 15. Dez. 2017 über den Um- und Ausbau der Stromnetze, in Kraft seit 1. Juni 2019 ([AS 2019 1349](https://fedlex.data.admin.ch/eli/oc/2019/264); [BBl 2016 3865](https://fedlex.data.admin.ch/eli/fga/2016/785)).
-[^15d-2]: [SR 451](https://fedlex.data.admin.ch/eli/cc/1966/1637_1694_1679)
+[^15d-2]: [SR 451](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7166)
 
 ## III*a*. Sachplanverfahren
 
@@ -221,7 +222,7 @@ Der Bundesrat kann vorsehen, dass:
 
 <sup>2</sup> Der Bundesrat regelt die Ausnahmen von der Sachplanpflicht.
 
-[^15e-1]: [SR 700](https://fedlex.data.admin.ch/eli/cc/1979/1573_1573_1573)
+[^15e-1]: [SR 700](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8351)
 
 #### Art. 15f
 
@@ -241,11 +242,9 @@ Der Bundesrat kann vorsehen, dass:
 
 #### Art. 15h
 
-<sup>1</sup> Die Begleitgruppe empfiehlt dem BFE ein Planungsgebiet. Das Planungsgebiet muss so gross sein, dass mehrere Korridorvarianten ausgearbeitet werden können.
+[^15h-1]
 
-<sup>2</sup> Der Bundesrat setzt das Planungsgebiet fest.
-
-<sup>3</sup> Er regelt, in welchen Fällen auf die Festsetzung eines Planungsgebiets verzichtet werden kann.
+[^15h-1]: Aufgehoben durch Anhang Ziff. 4 des BG vom 26. Sept. 2025, mit Wirkung seit 1. April 2026 ([AS 2026 99](https://fedlex.data.admin.ch/eli/oc/2026/99); [BBl 2023 1602](https://fedlex.data.admin.ch/eli/fga/2023/1602)).
 
 #### Art. 15i
 
@@ -259,7 +258,11 @@ Der Bundesrat kann vorsehen, dass:
 
 #### Art. 15k
 
-Der Bundesrat kann das Festlegen von Planungsgebieten nach Artikel 15*h* Absatz 2 und Planungskorridoren nach Artikel 15*i* Absatz 3 in Fällen von untergeordneter Bedeutung an das UVEK übertragen.
+[^15k-1]
+
+Der Bundesrat kann das Festlegen von Planungskorridoren nach Artikel 15*i* Absatz 3 in Fällen von untergeordneter Bedeutung an das UVEK übertragen.
+
+[^15k-1]: Fassung gemäss Anhang Ziff. 4 des BG vom 26. Sept. 2025, in Kraft seit 1. April 2026 ([AS 2026 99](https://fedlex.data.admin.ch/eli/oc/2026/99); [BBl 2023 1602](https://fedlex.data.admin.ch/eli/fga/2023/1602)).
 
 ## III*b*. Plangenehmigungsverfahren
 
@@ -307,8 +310,8 @@ Genehmigungsbehörde ist:
 <sup>2</sup> Sind Enteignungen notwendig, finden zudem die Vorschriften des Bundesgesetzes vom 20. Juni 1930[^16a-3] über die Enteignung (EntG) Anwendung.
 
 [^16a-1]: Eingefügt durch Ziff. I 8 des BG vom 18. Juni 1999 über die Koordination und Vereinfachung von Entscheidverfahren ([AS 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); BBl **1998** 2591). Fassung gemäss Anhang Ziff. 12 des BG vom 19. Juni 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 4085](https://fedlex.data.admin.ch/eli/oc/2020/748); [BBl 2018 4713](https://fedlex.data.admin.ch/eli/fga/2018/1660)).
-[^16a-2]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
-[^16a-3]: [SR 711](https://fedlex.data.admin.ch/eli/cc/47/689_701_723)
+[^16a-2]: [SR 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
+[^16a-3]: [SR 711](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8369)
 
 #### Art. 16a<sup>bis</sup>
 
@@ -368,9 +371,9 @@ Das Plangenehmigungsgesuch ist mit den erforderlichen Unterlagen bei der Genehmi
 <sup>3</sup> Die betroffenen Gemeinden wahren ihre Interessen mit Einsprache.
 
 [^16f-1]: Eingefügt durch Ziff. I 8 des BG vom 18. Juni 1999 über die Koordination und Vereinfachung von Entscheidverfahren, in Kraft seit 1. Jan. 2000 ([AS 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); BBl **1998** 2591).
-[^16f-2]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^16f-2]: [SR 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 [^16f-3]: Fassung gemäss Anhang Ziff. 12 des BG vom 19. Juni 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 4085](https://fedlex.data.admin.ch/eli/oc/2020/748); [BBl 2018 4713](https://fedlex.data.admin.ch/eli/fga/2018/1660)).
-[^16f-4]: [SR 711](https://fedlex.data.admin.ch/eli/cc/47/689_701_723)
+[^16f-4]: [SR 711](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8369)
 [^16f-5]: Fassung gemäss Anhang Ziff. 12 des BG vom 19. Juni 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 4085](https://fedlex.data.admin.ch/eli/oc/2020/748); [BBl 2018 4713](https://fedlex.data.admin.ch/eli/fga/2018/1660)).
 
 #### Art. 16g
@@ -382,8 +385,8 @@ Das Plangenehmigungsgesuch ist mit den erforderlichen Unterlagen bei der Genehmi
 <sup>2</sup> Die Kommissionen nach Artikel 25 NHG[^16g-3] reichen ihre Gutachten innert dreier Monate nach der Aufforderung durch die Genehmigungsbehörde bei dieser ein. Wird innerhalb der gesetzten Fristen kein Gutachten eingereicht, so entscheidet die Genehmigungsbehörde aufgrund der Akten.[^16g-4]
 
 [^16g-1]: Eingefügt durch Ziff. I 8 des BG vom 18. Juni 1999 über die Koordination und Vereinfachung von Entscheidverfahren, in Kraft seit 1. Jan. 2000 ([AS 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); BBl **1998** 2591).
-[^16g-2]: [SR 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
-[^16g-3]: [SR 451](https://fedlex.data.admin.ch/eli/cc/1966/1637_1694_1679)
+[^16g-2]: [SR 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
+[^16g-3]: [SR 451](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7166)
 [^16g-4]: Eingefügt durch Ziff. I 1 des BG vom 15. Dez. 2017 über den Um- und Ausbau der Stromnetze, in Kraft seit 1. Juni 2019 ([AS 2019 1349](https://fedlex.data.admin.ch/eli/oc/2019/264); [BBl 2016 3865](https://fedlex.data.admin.ch/eli/fga/2016/785)).
 
 #### Art. 16h
@@ -491,7 +494,7 @@ Das vereinfachte Plangenehmigungsverfahren wird angewendet bei:
 <sup>3</sup> In den festgelegten oder beantragten Projektierungszonen und innerhalb der festgelegten oder beantragten Baulinien dürfen die Unternehmungen vorbereitende Handlungen vornehmen. Artikel 15 EntG[^18c-2] gilt sinngemäss.
 
 [^18c-1]: Eingefügt durch Ziff. I 1 des BG vom 15. Dez. 2017 über den Um- und Ausbau der Stromnetze, in Kraft seit 1. Juni 2019 ([AS 2019 1349](https://fedlex.data.admin.ch/eli/oc/2019/264); [BBl 2016 3865](https://fedlex.data.admin.ch/eli/fga/2016/785)).
-[^18c-2]: [SR 711](https://fedlex.data.admin.ch/eli/cc/47/689_701_723)
+[^18c-2]: [SR 711](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8369)
 
 #### Art. 18d
 
@@ -508,7 +511,7 @@ Das vereinfachte Plangenehmigungsverfahren wird angewendet bei:
 <sup>5</sup> Die Entschädigung wird vom Zeitpunkt an verzinst, in dem die Eigentumsbeschränkung wirksam wird.
 
 [^18d-1]: Eingefügt durch Ziff. I 1 des BG vom 15. Dez. 2017 über den Um- und Ausbau der Stromnetze, in Kraft seit 1. Juni 2019 ([AS 2019 1349](https://fedlex.data.admin.ch/eli/oc/2019/264); [BBl 2016 3865](https://fedlex.data.admin.ch/eli/fga/2016/785)).
-[^18d-2]: [SR 711](https://fedlex.data.admin.ch/eli/cc/47/689_701_723)
+[^18d-2]: [SR 711](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8369)
 
 ## IV. Kontrolle
 
@@ -601,7 +604,7 @@ Die in Abschnitt IV vorgesehene Kontrolle erstreckt sich nicht auf die Hausinsta
 
 [^lvlV-1]
 
-[^lvlV-1]: Soweit sie das Verhältnis des Betriebsinhabers zu seinen obligatorisch versicherten Arbeitnehmern betreffen, sind diese Bestimmungen aufgehoben durch Art. 128 Ziff. 2 des Krankenversicherungsgesetzes [BS **8** 281] und Art. 44 Abs. 2 des Unfallversicherungsgesetzes ([SR 832.20](https://fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676)).
+[^lvlV-1]: Soweit sie das Verhältnis des Betriebsinhabers zu seinen obligatorisch versicherten Arbeitnehmern betreffen, sind diese Bestimmungen aufgehoben durch Art. 128 Ziff. 2 des Krankenversicherungsgesetzes [BS **8** 281] und Art. 44 Abs. 2 des Unfallversicherungsgesetzes ([SR 832.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10190)).
 
 #### Art. 27
 
@@ -624,7 +627,7 @@ Besteht die elektrische Anlage aus mehreren Teilen mit verschiedenen Betriebsinh
 
 In Fällen von Sachbeschädigung infolge eines durch den Betrieb einer elektrischen Anlage verursachten Brandes gelten die Bestimmungen des Obligationenrechtes[^29-1].
 
-[^29-1]: [[AS 5 635](https://fedlex.data.admin.ch/eli/oc/5/635_577_577), **11** 490, [24 719](https://fedlex.data.admin.ch/eli/oc/24/719_735_717)Art. 103 Abs. 1. [AS 27 317](https://fedlex.data.admin.ch/eli/oc/27/317_321_377)UeB I, **53** 185 am Schluss, Art. 18 Schl- und UeB zu den Tit. XXIV–XXXIII]. Heute: die Bestimmungen des OR ([SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)).
+[^29-1]: [[AS 5 635](https://fedlex.data.admin.ch/eli/oc/5/635_577_577), **11** 490, [24 719](https://fedlex.data.admin.ch/eli/oc/24/719_735_717)Art. 103 Abs. 1. [AS 27 317](https://fedlex.data.admin.ch/eli/oc/27/317_321_377)UeB I, **53** 185 am Schluss, Art. 18 Schl- und UeB zu den Tit. XXIV–XXXIII]. Heute: die Bestimmungen des OR ([SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)).
 
 #### Art. 30
 
@@ -665,7 +668,7 @@ Wenn nachgewiesen werden kann, dass der Getötete oder Verletzte oder der an sei
 
 <sup>3</sup> Wenn im Momente der Urteilsfällung die Folgen einer Körperverletzung noch nicht genügend klar vorliegen, so kann der Richter ausnahmsweise sowohl für den Fall des nachfolgenden Todes oder einer Verschlimmerung als auch im Falle einer Verbesserung des Gesundheitszustandes des Verletzten eine spätere Berichtigung des Urteils vorbehalten. Ein bezügliches Begehren muss längstens innert Jahresfrist nach Ausfällung des Urteils gestellt werden.
 
-[^36-1]: Heute: die Bestimmungen des OR ([SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)).
+[^36-1]: Heute: die Bestimmungen des OR ([SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)).
 
 #### Art. 37
 
@@ -674,7 +677,7 @@ Wenn nachgewiesen werden kann, dass der Getötete oder Verletzte oder der an sei
 Die in diesem Gesetz erwähnten Schadenersatzansprüche für Personen und Sachen verjähren nach den Bestimmungen des Obligationenrechts[^37-2] über die unerlaubten Handlungen.
 
 [^37-1]: Fassung gemäss Anhang Ziff. 11 des BG vom 15. Juni 2018 (Revision des Verjährungsrechts), in Kraft seit 1. Jan. 2020 ([AS 2018 5343](https://fedlex.data.admin.ch/eli/oc/2018/807); [BBl 2014 235](https://fedlex.data.admin.ch/eli/fga/2014/65)).
-[^37-2]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^37-2]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 38
 
@@ -735,7 +738,7 @@ Das Enteignungsrecht kann für die Erstellung und Änderung von Einrichtungen zu
 <sup>3</sup> Der Präsident der Schätzungskommission kann gestützt auf einen vollstreckbaren Plangenehmigungsentscheid die vorzeitige Besitzeinweisung bewilligen. Dabei wird vermutet, dass dem Enteigner ohne die vorzeitige Besitzeinweisung bedeutende Nachteile entstünden. Im Übrigen gilt Artikel 76 EntG.
 
 [^45-1]: Fassung gemäss Ziff. I 8 des BG vom 18. Juni 1999 über die Koordination und Vereinfachung von Entscheidverfahren, in Kraft seit 1. Jan. 2000 ([AS 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); BBl **1998** 2591).
-[^45-2]: [SR 711](https://fedlex.data.admin.ch/eli/cc/47/689_701_723)
+[^45-2]: [SR 711](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8369)
 [^45-3]: Fassung gemäss Anhang Ziff. 12 des BG vom 19. Juni 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 4085](https://fedlex.data.admin.ch/eli/oc/2020/748); [BBl 2018 4713](https://fedlex.data.admin.ch/eli/fga/2018/1660)).
 [^45-4]: Aufgehoben durch Anhang Ziff. 12 des BG vom 19. Juni 2020, mit Wirkung seit 1. Jan. 2021 ([AS 2020 4085](https://fedlex.data.admin.ch/eli/oc/2020/748); [BBl 2018 4713](https://fedlex.data.admin.ch/eli/fga/2018/1660)).
 
@@ -791,12 +794,12 @@ Mit Busse bis zu 100 000 Franken wird bestraft, sofern nicht nach dem Strafgeset
 <sup>3</sup> Der Bundesrat kann Widerhandlungen gegen Ausführungsvorschriften, durch welche bestimmte Tätigkeiten bewilligungspflichtig erklärt werden, mit den gleichen Strafen bedrohen.
 
 [^55-1]: Fassung gemäss Anhang Ziff. 1 des Stromversorgungsgesetzes vom 23. März 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 3425](https://fedlex.data.admin.ch/eli/oc/2007/418); [BBl 2005 1611](https://fedlex.data.admin.ch/eli/fga/2005/197)).
-[^55-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^55-2]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 [^55-3]: Fassung gemäss Ziff. I 1 des BG vom 15. Dez. 2017 über den Um- und Ausbau der Stromnetze, in Kraft seit 1. Juni 2019 ([AS 2019 1349](https://fedlex.data.admin.ch/eli/oc/2019/264); [BBl 2016 3865](https://fedlex.data.admin.ch/eli/fga/2016/785)).
 [^55-4]: Eingefügt durch Anhang Ziff. 3 des BG vom 22. März 2019, in Kraft seit 1. Jan. 2021 ([AS 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [BBl 2017 6559](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
 [^55-5]: Eingefügt durch Anhang Ziff. 3 des BG vom 22. März 2019, in Kraft seit 1. Jan. 2021 ([AS 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [BBl 2017 6559](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
 [^55-6]: Fassung gemäss Ziff. I 1 des BG vom 15. Dez. 2017 über den Um- und Ausbau der Stromnetze, in Kraft seit 1. Juni 2019 ([AS 2019 1349](https://fedlex.data.admin.ch/eli/oc/2019/264); [BBl 2016 3865](https://fedlex.data.admin.ch/eli/fga/2016/785)).
-[^55-7]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^55-7]: [SR 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 [^55-8]: Eingefügt durch Ziff. I 1 des BG vom 15. Dez. 2017 über den Um- und Ausbau der Stromnetze, in Kraft seit 1. Juni 2019 ([AS 2019 1349](https://fedlex.data.admin.ch/eli/oc/2019/264); [BBl 2016 3865](https://fedlex.data.admin.ch/eli/fga/2016/785)).
 
 #### Art. 56
@@ -808,7 +811,7 @@ Mit Busse bis zu 100 000 Franken wird bestraft, sofern nicht nach dem Strafgeset
 <sup>2</sup> Vorbehalten bleibt die Überweisung an den Strafrichter auf Grund von Artikel 285 oder 286 des Strafgesetzbuches[^56-2].
 
 [^56-1]: Fassung gemäss Ziff. 12 des Anhangs zum BG vom 22. März 1974 über das Verwaltungsstrafrecht, in Kraft seit 1. Jan. 1975 ([AS 1974 1857](https://fedlex.data.admin.ch/eli/oc/1974/1857_1857_1857); [BBl 1971 I 993](https://fedlex.data.admin.ch/eli/fga/1971/1_993_1017_727)).
-[^56-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^56-2]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 #### Art. 57
 
@@ -828,14 +831,14 @@ Das Bundesgesetz vom 22. März 1974[^57-2] über das Verwaltungsstrafrecht finde
 <sup>4</sup> Wird beim Bau oder Betrieb von Eisenbahnen oder anderen öffentlichen konzessionierten Transportunternehmen eine in den Aufsichtsbereich der Eisenbahnaufsichtsbehörde fallende Widerhandlung im Sinne der Artikel 55 Absatz 1 Buchstaben a und b sowie 56 begangen, so wird die Strafverfolgung auf Anzeige dieser Behörde eingeleitet. Die Zuständigkeit zur Strafverfolgung richtet sich nach Artikel 88*a* des Eisenbahngesetzes vom 20. Dezember 1957[^57-3].
 
 [^57-1]: Fassung gemäss Anhang Ziff. 3 des BG vom 22. März 2019, in Kraft seit 1. Jan. 2021 ([AS 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [BBl 2017 6559](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
-[^57-2]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
-[^57-3]: [SR 742.101](https://fedlex.data.admin.ch/eli/cc/1958/335_341_347)
+[^57-2]: [SR 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
+[^57-3]: [SR 742.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8719)
 
 #### Art. 58–59
 
 [^5859-1]
 
-[^5859-1]: Aufgehoben (Art. 398 Abs. 2 Bst. e StGB – BS **3** 203). Siehe heute Art. 146 StGB ([SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)).
+[^5859-1]: Aufgehoben (Art. 398 Abs. 2 Bst. e StGB – BS **3** 203). Siehe heute Art. 146 StGB ([SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)).
 
 #### Art. 60
 

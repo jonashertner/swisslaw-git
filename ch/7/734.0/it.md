@@ -4,11 +4,11 @@ title: "Legge federale del 24 giugno 1902 concernente gli impianti elettrici a c
 short: LIE
 eli: "https://fedlex.data.admin.ch/eli/cc/19/259_252_257"
 language: it
-version: 2024-07-01
+version: 2026-04-01
 adopted: 1902-06-24
 in_force: 1903-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/19/259_252_257/20240701/it/xml/fedlex-data-admin-ch-eli-cc-19-259_252_257-20240701-it-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/19/259_252_257/20240701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/19/259_252_257/20260401/it/xml/fedlex-data-admin-ch-eli-cc-19-259_252_257-20260401-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/19/259_252_257/20260401/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/19/259_252_257/20240701/it"
 
 (Legge sugli impianti elettrici, LIE)[^t-1]
 
-del 24 giugno 1902 (Stato 1° luglio 2024)
+del 24 giugno 1902 (Stato 1° aprile 2026)
 
 [^t-1]: Introdotto dall’all. n. 11 della LF del 30 apr. 1997 sull’azienda delle telecomunicazioni, in vigore dal 1° gen. 1998 ([RU 1997 2480](https://fedlex.data.admin.ch/eli/oc/1997/2480_2480_2480); [FF 1996 III 1201](https://fedlex.data.admin.ch/eli/fga/1996/3_1306_1260_1201)).
 
@@ -27,8 +27,8 @@ visti gli articoli 81, 87, 89 e 91 capoverso 1 della Costituzione federale[^ingr
 
 decreta:
 
-[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
-[^ingress-2]: Nuovo testo giusta il n. I 1 della LF del 15 dic. 2017 sulla trasformazione e l’ampliamento delle reti elettriche, in vigore dal 1° giu. 2019 ([RU 2019 1349](https://fedlex.data.admin.ch/eli/oc/2019/264); [FF 2016 3393](https://fedlex.data.admin.ch/eli/fga/2016/785)).
+[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
+[^ingress-2]: Nuovo testo giusta la cifra I n. 1 della LF del 15 dic. 2017 sulla trasformazione e l’ampliamento delle reti elettriche, in vigore dal 1° giu. 2019 ([RU 2019 1349](https://fedlex.data.admin.ch/eli/oc/2019/264); [FF 2016 3393](https://fedlex.data.admin.ch/eli/fga/2016/785)).
 
 ## I. Disposizioni generali
 
@@ -44,8 +44,8 @@ Lo stabilimento e l’esercizio degl’impianti elettrici a corrente forte e a c
 
 <sup>3</sup> Ove sorga dubbio se, agli effetti della presente legge, un impianto elettrico è da considerare fra quelli a corrente forte o fra quelli a corrente debole, decide in ultima istanza il Dipartimento federale dell’ambiente, dei trasporti, dell’energia e delle comunicazioni (DATEC[^2-1]).[^2-2]
 
-[^2-1]: Nuova espr. giusta il n. I 1 della LF del 15 dic. 2017 sulla trasformazione e l’ampliamento delle reti elettriche, in vigore dal 1° giu. 2019 ([RU 2019 1349](https://fedlex.data.admin.ch/eli/oc/2019/264); [FF 2016 3393](https://fedlex.data.admin.ch/eli/fga/2016/785)). Di detta mod. é tenuto conto in tutto il presente testo.
-[^2-2]: Nuovo testo giusta il n. I 8 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2029).
+[^2-1]: Nuova espr. giusta la cifra I n. 1 della LF del 15 dic. 2017 sulla trasformazione e l’ampliamento delle reti elettriche, in vigore dal 1° giu. 2019 ([RU 2019 1349](https://fedlex.data.admin.ch/eli/oc/2019/264); [FF 2016 3393](https://fedlex.data.admin.ch/eli/fga/2016/785)). Di detta mod. é tenuto conto in tutto il presente testo.
+[^2-2]: Nuovo testo giusta la cifra I n. 8 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2029).
 
 #### Art. 3
 
@@ -67,8 +67,8 @@ Il Consiglio federale regola:[^3-2]
 [^3-1]: Nuovo testo giusta l’all. n. 4 della L del 21 giu. 1991 sulle telecomunicazioni, in vigore dal 1° mag. 1992 ([RU 1992 581](https://fedlex.data.admin.ch/eli/oc/1992/581_581_581); [FF 1988 I 1077](https://fedlex.data.admin.ch/eli/fga/1988/1_1311_1260_1077)).
 [^3-2]: Nuovo testo giusta l’all. n. 4 della L del 21 giu. 1991 sulle telecomunicazioni, in vigore dal 1° mag. 1992 ([RU 1992 581](https://fedlex.data.admin.ch/eli/oc/1992/581_581_581); [FF 1988 I 1077](https://fedlex.data.admin.ch/eli/fga/1988/1_1311_1260_1077)).
 [^3-3]: Introdotta dall’all. n. 4 della L del 21 giu. 1991 sulle telecomunicazioni, in vigore dal 1° mag. 1992 ([RU 1992 581](https://fedlex.data.admin.ch/eli/oc/1992/581_581_581); [FF 1988 I 1077](https://fedlex.data.admin.ch/eli/fga/1988/1_1311_1260_1077)).
-[^3-4]: [[RU 1992 581](https://fedlex.data.admin.ch/eli/oc/1992/581_581_581); [RU 1993 901](https://fedlex.data.admin.ch/eli/oc/1993/901_901_901)allegato n. 18. [RU 1997 2187](https://fedlex.data.admin.ch/eli/oc/1997/2187_2187_2187)art. 65]. Vedi ora la L del 30 aprile 1997 ([RS 784.10](https://fedlex.data.admin.ch/eli/cc/1997/2187_2187_2187)).
-[^3-5]: Abrogato dal n. II 30 della LF del 20 mar. 2008 concernente l’aggiornamento formale del diritto federale, con effetto dal 1° ago. 2008 ([RU 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447); [FF 2007 5575](https://fedlex.data.admin.ch/eli/fga/2007/885)).
+[^3-4]: [[RU 1992 581](https://fedlex.data.admin.ch/eli/oc/1992/581_581_581); [RU 1993 901](https://fedlex.data.admin.ch/eli/oc/1993/901_901_901)all. n. 18. [RU 1997 2187](https://fedlex.data.admin.ch/eli/oc/1997/2187_2187_2187)art. 65]. Vedi ora la L del 30 apr. 1997 ([RS 784.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9171)).
+[^3-5]: Abrogato dalla cifra II n. 30 della LF del 20 mar. 2008 concernente l’aggiornamento formale del diritto federale, con effetto dal 1° ago. 2008 ([RU 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447); [FF 2007 5575](https://fedlex.data.admin.ch/eli/fga/2007/885)).
 
 #### Art. 3a
 
@@ -78,8 +78,8 @@ Il Consiglio federale regola:[^3-2]
 
 <sup>2</sup> Il Consiglio federale prevede che l’Ufficio federale dell’energia (UFE) riscuota dai gestori di impianti elettrici a corrente forte e a corrente debole (imprese) emolumenti adeguati per le spese sostenute dai Cantoni conformemente agli accordi di prestazioni di cui all’articolo 9*e* capoverso 2 della legge del 23 marzo 2007[^3a-2] sull’approvvigionamento elettrico (LAEl).
 
-[^3a-1]: Introdotto dall’all. n. II 8 della LF del 30 set. 2016 sull’energia ([RU 2017 6839](https://fedlex.data.admin.ch/eli/oc/2017/762); [FF 2013 6489](https://fedlex.data.admin.ch/eli/fga/2013/1476)). Nuovo testo giusta il n. I 1 della LF del 15 dic. 2017 sulla trasformazione e l’ampliamento delle reti elettriche, in vigore dal 1° giu. 2019 ([RU 2019 1349](https://fedlex.data.admin.ch/eli/oc/2019/264); [FF 2016 3393](https://fedlex.data.admin.ch/eli/fga/2016/785)).
-[^3a-2]: [RS 734.7](https://fedlex.data.admin.ch/eli/cc/2007/418)
+[^3a-1]: Introdotto dall’all. cifra II n. 8 della LF del 30 set. 2016 sull’energia ([RU 2017 6839](https://fedlex.data.admin.ch/eli/oc/2017/762); [FF 2013 6489](https://fedlex.data.admin.ch/eli/fga/2013/1476)). Nuovo testo giusta la cifra I n. 1 della LF del 15 dic. 2017 sulla trasformazione e l’ampliamento delle reti elettriche, in vigore dal 1° giu. 2019 ([RU 2019 1349](https://fedlex.data.admin.ch/eli/oc/2019/264); [FF 2016 3393](https://fedlex.data.admin.ch/eli/fga/2016/785)).
+[^3a-2]: [RS 734.7](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8592)
 
 #### Art. 3b
 
@@ -98,7 +98,7 @@ Il Consiglio federale disciplina la riscossione degli emolumenti, in particolare
 
 <sup>3</sup> Può prevedere deroghe alla riscossione degli emolumenti se la decisione, il controllo o la prestazione riveste un interesse pubblico preponderante.
 
-[^3b-1]: Introdotto dal n. I 1 della LF del 15 dic. 2017 sulla trasformazione e l’ampliamento delle reti elettriche, in vigore dal 1° giu. 2019 ([RU 2019 1349](https://fedlex.data.admin.ch/eli/oc/2019/264); [FF 2016 3393](https://fedlex.data.admin.ch/eli/fga/2016/785)).
+[^3b-1]: Introdotto dalla cifra I n. 1 della LF del 15 dic. 2017 sulla trasformazione e l’ampliamento delle reti elettriche, in vigore dal 1° giu. 2019 ([RU 2019 1349](https://fedlex.data.admin.ch/eli/oc/2019/264); [FF 2016 3393](https://fedlex.data.admin.ch/eli/fga/2016/785)).
 
 ## II. Impianti elettrici a corrente debole
 
@@ -110,7 +110,7 @@ Il Consiglio federale disciplina la riscossione degli emolumenti, in particolare
 
 <sup>3</sup> Il Consiglio federale designa gli impianti a corrente debole sottoposti all’obbligo d’approvazione dei piani.[^4-1]
 
-[^4-1]: Introdotto dal n. I 8 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2029).
+[^4-1]: Introdotto dalla cifra I n. 8 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2029).
 
 #### Art. 5 a 12
 
@@ -132,7 +132,7 @@ Il Consiglio federale disciplina la riscossione degli emolumenti, in particolare
 
 Per «impianti domestici», agli effetti della presente legge, s’intendono gli impianti elettrici nell’interno delle case e delle loro appartenenze e adiacenze, in cui si riscontrino tensioni elettriche non superiori a quelle autorizzate dal Consiglio federale.
 
-[^14-1]: Nuovo testo giusta il n. I 8 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2029).
+[^14-1]: Nuovo testo giusta la cifra I n. 8 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2029).
 
 #### Art. 15
 
@@ -150,10 +150,10 @@ Per «impianti domestici», agli effetti della presente legge, s’intendono gli
 
 <sup>6</sup> Le prescrizioni del presente articolo non si applicano agli impianti domestici.
 
-[^15-1]: Nuovo testo giusta il n. I 8 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2029).
+[^15-1]: Nuovo testo giusta la cifra I n. 8 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2029).
 [^15-2]: Nuovo testo giusta l’all. n. 3 della L del 23 mar. 2007 sull’approvvigionamento elettrico, in vigore dal 1° gen. 2008 ([RU 2007 3425](https://fedlex.data.admin.ch/eli/oc/2007/418); [FF 2005 1447](https://fedlex.data.admin.ch/eli/fga/2005/197)).
-[^15-3]: [RS 173.110](https://fedlex.data.admin.ch/eli/cc/2006/218)
-[^15-4]: Nuovo testo del per. giusta il n. I 1 della LF del 15 dic. 2017 sulla trasformazione e l’ampliamento delle reti elettriche, in vigore dal 1° giu. 2019 ([RU 2019 1349](https://fedlex.data.admin.ch/eli/oc/2019/264); [FF 2016 3393](https://fedlex.data.admin.ch/eli/fga/2016/785)).
+[^15-3]: [RS 173.110](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5575)
+[^15-4]: Nuovo testo del per. giusta la cifra I n. 1 della LF del 15 dic. 2017 sulla trasformazione e l’ampliamento delle reti elettriche, in vigore dal 1° giu. 2019 ([RU 2019 1349](https://fedlex.data.admin.ch/eli/oc/2019/264); [FF 2016 3393](https://fedlex.data.admin.ch/eli/fga/2016/785)).
 
 #### Art. 15a
 
@@ -169,13 +169,13 @@ Le linee e gli impianti accessori necessari per il trasporto e la distribuzione 
 
 <sup>1</sup> Le linee con una tensione nominale pari o superiore a 220 kV possono essere posate come linee aeree o cavi interrati.
 
-<sup>2</sup> Laddove sia richiesta la realizzazione di provvedimenti di sostituzione in virtù della legislazione in materia di protezione dell’ambiente o della legislazione in materia di protezione della natura e del paesaggio, l’impresa può richiedere all’autorità competente per l’approvazione dei piani di cui all’articolo 16 capoverso 2 di ordinare che questi provvedimenti siano realizzati da altre imprese su impianti a corrente forte che sono di loro proprietà e che di norma devono trovarsi all’interno della zona di pianificazione in questione[^15b-2].
+<sup>2</sup> Laddove sia richiesta la realizzazione di provvedimenti di sostituzione in virtù della legislazione in materia di protezione dell’ambiente o della legislazione in materia di protezione della natura e del paesaggio, l’impresa può richiedere all’autorità competente per l’approvazione dei piani di cui all’articolo 16 capoverso 2 di ordinare che questi provvedimenti siano realizzati da altre imprese su impianti a corrente forte che sono di loro proprietà e che di norma devono trovarsi all’interno della zona interessata dalla linea prevista.[^15b-2]
 
 <sup>3</sup> Le imprese interessate sono integralmente indennizzate dall’impresa che ha richiesto la realizzazione dei provvedimenti di sostituzione[^15b-3]. Il Consiglio federale disciplina i dettagli.
 
-[^15b-1]: Introdotto dal n. I 1 della LF del 15 dic. 2017 sulla trasformazione e l’ampliamento delle reti elettriche, in vigore dal 1° giu. 2019 ([RU 2019 1349](https://fedlex.data.admin.ch/eli/oc/2019/264); [FF 2016 3393](https://fedlex.data.admin.ch/eli/fga/2016/785)).
-[^15b-2]: Testo rettificato dalla Commissione di redazione dell’AF (art. 58 cpv. 1 LParl; [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
-[^15b-3]: Testo rettificato dalla Commissione di redazione dell’AF (art. 58 cpv. 1 LParl; [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
+[^15b-1]: Introdotto dalla cifra I n. 1 della LF del 15 dic. 2017 sulla trasformazione e l’ampliamento delle reti elettriche, in vigore dal 1° giu. 2019 ([RU 2019 1349](https://fedlex.data.admin.ch/eli/oc/2019/264); [FF 2016 3393](https://fedlex.data.admin.ch/eli/fga/2016/785)).
+[^15b-2]: Nuovo testo giusta l’all. n. 4 della LF del 26 set. 2025, in vigore dal 1° apr. 2026 ([RU 2026 99](https://fedlex.data.admin.ch/eli/oc/2026/99); [FF 2023 1602](https://fedlex.data.admin.ch/eli/fga/2023/1602)).
+[^15b-3]: Testo rettificato dalla Commissione di redazione dell’AF (art. 58 cpv. 1 LParl; [RS 171.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4991)).
 
 #### Art. 15c
 
@@ -192,8 +192,8 @@ Il Consiglio federale può prevedere che:
 - a. si possa procedere a un interramento parziale o completo nonostante il superamento del fattore dei costi aggiuntivi, qualora un terzo si assuma l’importo eccedente il fattore dei costi aggiuntivi;
 - b. si proceda alla realizzazione di una linea aerea parziale o completa anche laddove il fattore dei costi aggiuntivi sia rispettato o risulti inferiore, qualora gli svantaggi risultanti per il territorio e l’ambiente siano complessivamente minori.
 
-[^15c-1]: Introdotto dal n. I 1 della LF del 15 dic. 2017 sulla trasformazione e l’ampliamento delle reti elettriche, in vigore dal 1° giu. 2020 ([RU 2019 1349](https://fedlex.data.admin.ch/eli/oc/2019/264); [FF 2016 3393](https://fedlex.data.admin.ch/eli/fga/2016/785)).
-[^15c-2]: [RS 734.7](https://fedlex.data.admin.ch/eli/cc/2007/418)
+[^15c-1]: Introdotto dalla cifra I n. 1 della LF del 15 dic. 2017 sulla trasformazione e l’ampliamento delle reti elettriche, in vigore dal 1° giu. 2020 ([RU 2019 1349](https://fedlex.data.admin.ch/eli/oc/2019/264); [FF 2016 3393](https://fedlex.data.admin.ch/eli/fga/2016/785)).
+[^15c-2]: [RS 734.7](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8592)
 
 #### Art. 15d
 
@@ -207,14 +207,14 @@ Il Consiglio federale può prevedere che:
 
 <sup>4</sup> Quando l’autorità competente per l’approvazione dei piani di cui all’articolo 16 capoverso 2 decide in merito all’autorizzazione di un progetto relativo a un impianto di cui al capoverso 2 o 3, nella ponderazione degli interessi in causa l’interesse nazionale alla realizzazione di detto progetto è considerato equivalente ad altri interessi nazionali. Nel caso in cui il progetto riguardi un oggetto iscritto in un inventario di cui all’articolo 5 LPN, si può ipotizzare una deroga al principio secondo il quale un oggetto dev’essere conservato intatto.
 
-[^15d-1]: Introdotto dal n. I 1 della LF del 15 dic. 2017 sulla trasformazione e l’ampliamento delle reti elettriche, in vigore dal 1° giu. 2019 ([RU 2019 1349](https://fedlex.data.admin.ch/eli/oc/2019/264); [FF 2016 3393](https://fedlex.data.admin.ch/eli/fga/2016/785)).
-[^15d-2]: [RS 451](https://fedlex.data.admin.ch/eli/cc/1966/1637_1694_1679)
+[^15d-1]: Introdotto dalla cifra I n. 1 della LF del 15 dic. 2017 sulla trasformazione e l’ampliamento delle reti elettriche, in vigore dal 1° giu. 2019 ([RU 2019 1349](https://fedlex.data.admin.ch/eli/oc/2019/264); [FF 2016 3393](https://fedlex.data.admin.ch/eli/fga/2016/785)).
+[^15d-2]: [RS 451](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7166)
 
 ## III*a* *.* Procedura del piano settoriale
 
 [^lvlIIIa-1]
 
-[^lvlIIIa-1]: Introdotta dal n. I 1 della LF del 15 dic. 2017 sulla trasformazione e l’ampliamento delle reti elettriche, in vigore dal 1° giu. 2019 ([RU 2019 1349](https://fedlex.data.admin.ch/eli/oc/2019/264); [FF 2016 3393](https://fedlex.data.admin.ch/eli/fga/2016/785)).
+[^lvlIIIa-1]: Introdotta dalla cifra I n. 1 della LF del 15 dic. 2017 sulla trasformazione e l’ampliamento delle reti elettriche, in vigore dal 1° giu. 2019 ([RU 2019 1349](https://fedlex.data.admin.ch/eli/oc/2019/264); [FF 2016 3393](https://fedlex.data.admin.ch/eli/fga/2016/785)).
 
 #### Art. 15e
 
@@ -222,9 +222,9 @@ Il Consiglio federale può prevedere che:
 
 <sup>2</sup> Il Consiglio federale disciplina le deroghe all’obbligo del piano settoriale[^15e-3].
 
-[^15e-1]: Testo rettificato dalla Commissione di redazione dell’AF (art. 58 cpv. 1 LParl; [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
-[^15e-2]: [RS 700](https://fedlex.data.admin.ch/eli/cc/1979/1573_1573_1573)
-[^15e-3]: Testo rettificato dalla Commissione di redazione dell’AF (art. 58 cpv. 1 LParl; [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
+[^15e-1]: Testo rettificato dalla Commissione di redazione dell’AF (art. 58 cpv. 1 LParl; [RS 171.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4991)).
+[^15e-2]: [RS 700](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8351)
+[^15e-3]: Testo rettificato dalla Commissione di redazione dell’AF (art. 58 cpv. 1 LParl; [RS 171.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4991)).
 
 #### Art. 15f
 
@@ -244,14 +244,9 @@ Il Consiglio federale può prevedere che:
 
 #### Art. 15h
 
-<sup>1</sup> Il gruppo di accompagnamento raccomanda all’UFE una zona di pianificazione. La zona di pianificazione deve essere sufficientemente ampia da consentire l’elaborazione di diverse varianti di corridoio.
+[^15h-1]
 
-<sup>2</sup> Il Consiglio federale definisce la zona di pianificazione quale dato acquisito[^15h-1].
-
-<sup>3</sup> Il Consiglio federale disciplina i casi in cui si può rinunciare alla definizione di una zona di pianificazione quale dato acquisito[^15h-2].
-
-[^15h-1]: Testo rettificato dalla Commissione di redazione dell’AF (art. 58 cpv. 1 LParl; [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
-[^15h-2]: Testo rettificato dalla Commissione di redazione dell’AF (art. 58 cpv. 1 LParl; [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
+[^15h-1]: Abrogato dall’all. n. 4 della LF del 26 set. 2025, con effetto dal 1° apr. 2026 ([RU 2026 99](https://fedlex.data.admin.ch/eli/oc/2026/99); [FF 2023 1602](https://fedlex.data.admin.ch/eli/fga/2023/1602)).
 
 #### Art. 15i
 
@@ -263,19 +258,21 @@ Il Consiglio federale può prevedere che:
 
 <sup>4</sup> La scelta della tecnologia di trasporto da impiegare è fatta ponderando l’impatto sul territorio e sull’ambiente, gli aspetti tecnici e l’economicità.
 
-[^15i-1]: Testo rettificato dalla Commissione di redazione dell’AF (art. 58 cpv. 1 LParl; [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
+[^15i-1]: Testo rettificato dalla Commissione di redazione dell’AF (art. 58 cpv. 1 LParl; [RS 171.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4991)).
 
 #### Art. 15k
 
-In casi di secondaria importanza, il Consiglio federale può delegare al DATEC la definizione delle zone di pianificazione quale dato acquisito[^15k-1] ai sensi dell’articolo 15*h* capoverso 2 e quella dei corridoi di pianificazione ai sensi dell’articolo 15*i* capoverso 3.
+[^15k-1]
 
-[^15k-1]: Testo rettificato dalla Commissione di redazione dell’AF (art. 58 cpv. 1 LParl; [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
+In casi di secondaria importanza, il Consiglio federale può delegare al DATEC la definizione di corridoi di pianificazione ai sensi dell’articolo 15*i* capoverso 3.
+
+[^15k-1]: Nuovo testo giusta l’all. n. 4 della LF del 26 set. 2025, in vigore dal 1° apr. 2026 ([RU 2026 99](https://fedlex.data.admin.ch/eli/oc/2026/99); [FF 2023 1602](https://fedlex.data.admin.ch/eli/fga/2023/1602)).
 
 ## III*b*. Procedura di approvazione dei piani
 
 [^lvlIIIb-1]
 
-[^lvlIIIb-1]: Originario III*a*. Introdotta dal n. I 8 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2029).
+[^lvlIIIb-1]: Originario III*a*. Introdotta dalla cifra I n. 8 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2029).
 
 #### Art. 16
 
@@ -301,12 +298,12 @@ L’autorità competente per l’approvazione dei piani è:
 
 <sup>7</sup> Il Consiglio federale può prevedere deroghe all’obbligo dell’approvazione dei piani nonché facilitazioni procedurali.[^16-6]
 
-[^16-1]: Nuovo testo giusta il n. I 8 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2029).
-[^16-2]: Nuovo testo giusta l’all. n. II 8 della LF del 30 set. 2016 sull’energia, in vigore dal 1° gen. 2018 ([RU 2017 6839](https://fedlex.data.admin.ch/eli/oc/2017/762); [FF 2013 6489](https://fedlex.data.admin.ch/eli/fga/2013/1476)).
-[^16-3]: Nuova espr. giusta il n. I 1 della LF del 15 dic. 2017 sulla trasformazione e l’ampliamento delle reti elettriche, in vigore dal 1° giu. 2019 ([RU 2019 1349](https://fedlex.data.admin.ch/eli/oc/2019/264); [FF 2016 3393](https://fedlex.data.admin.ch/eli/fga/2016/785)). Di detta mod. é tenuto conto in tutto il presente testo.
-[^16-4]: Nuovo testo del per. giusta il n. I 1 della LF del 15 dic. 2017 sulla trasformazione e l’ampliamento delle reti elettriche, in vigore dal 1° giu. 2019 ([RU 2019 1349](https://fedlex.data.admin.ch/eli/oc/2019/264); [FF 2016 3393](https://fedlex.data.admin.ch/eli/fga/2016/785)).
-[^16-5]: Nuovo testo giusta il n. I 1 della LF del 15 dic. 2017 sulla trasformazione e l’ampliamento delle reti elettriche, in vigore dal 1° giu. 2019 ([RU 2019 1349](https://fedlex.data.admin.ch/eli/oc/2019/264); [FF 2016 3393](https://fedlex.data.admin.ch/eli/fga/2016/785)).
-[^16-6]: Nuovo testo giusta il n. I 1 della LF del 15 dic. 2017 sulla trasformazione e l’ampliamento delle reti elettriche, in vigore dal 1° giu. 2019 ([RU 2019 1349](https://fedlex.data.admin.ch/eli/oc/2019/264); [FF 2016 3393](https://fedlex.data.admin.ch/eli/fga/2016/785)).
+[^16-1]: Nuovo testo giusta la cifra I n. 8 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2029).
+[^16-2]: Nuovo testo giusta l’all. cifra II n. 8 della LF del 30 set. 2016 sull’energia, in vigore dal 1° gen. 2018 ([RU 2017 6839](https://fedlex.data.admin.ch/eli/oc/2017/762); [FF 2013 6489](https://fedlex.data.admin.ch/eli/fga/2013/1476)).
+[^16-3]: Nuova espr. giusta la cifra I n. 1 della LF del 15 dic. 2017 sulla trasformazione e l’ampliamento delle reti elettriche, in vigore dal 1° giu. 2019 ([RU 2019 1349](https://fedlex.data.admin.ch/eli/oc/2019/264); [FF 2016 3393](https://fedlex.data.admin.ch/eli/fga/2016/785)). Di detta mod. é tenuto conto in tutto il presente testo.
+[^16-4]: Nuovo testo del per. giusta la cifra I n. 1 della LF del 15 dic. 2017 sulla trasformazione e l’ampliamento delle reti elettriche, in vigore dal 1° giu. 2019 ([RU 2019 1349](https://fedlex.data.admin.ch/eli/oc/2019/264); [FF 2016 3393](https://fedlex.data.admin.ch/eli/fga/2016/785)).
+[^16-5]: Nuovo testo giusta la cifra I n. 1 della LF del 15 dic. 2017 sulla trasformazione e l’ampliamento delle reti elettriche, in vigore dal 1° giu. 2019 ([RU 2019 1349](https://fedlex.data.admin.ch/eli/oc/2019/264); [FF 2016 3393](https://fedlex.data.admin.ch/eli/fga/2016/785)).
+[^16-6]: Nuovo testo giusta la cifra I n. 1 della LF del 15 dic. 2017 sulla trasformazione e l’ampliamento delle reti elettriche, in vigore dal 1° giu. 2019 ([RU 2019 1349](https://fedlex.data.admin.ch/eli/oc/2019/264); [FF 2016 3393](https://fedlex.data.admin.ch/eli/fga/2016/785)).
 
 #### Art. 16a
 
@@ -316,9 +313,9 @@ L’autorità competente per l’approvazione dei piani è:
 
 <sup>2</sup> Se sono necessarie espropriazioni, si applicano inoltre le disposizioni della legge federale del 20 giugno 1930[^16a-3] sull’espropriazione (LEspr).
 
-[^16a-1]: Introdotto dal n. I 8 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2029). Nuovo testo giusta l’all. n. 12 della LF del 19 giu. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4085](https://fedlex.data.admin.ch/eli/oc/2020/748); [FF 2018 4031](https://fedlex.data.admin.ch/eli/fga/2018/1660)).
-[^16a-2]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
-[^16a-3]: [RS 711](https://fedlex.data.admin.ch/eli/cc/47/689_701_723)
+[^16a-1]: Introdotto dalla cifra I n. 8 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2029). Nuovo testo giusta l’all. n. 12 della LF del 19 giu. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4085](https://fedlex.data.admin.ch/eli/oc/2020/748); [FF 2018 4031](https://fedlex.data.admin.ch/eli/fga/2018/1660)).
+[^16a-2]: [RS 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
+[^16a-3]: [RS 711](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8369)
 
 #### Art. 16a<sup>bis</sup>
 
@@ -328,7 +325,7 @@ L’autorità competente per l’approvazione dei piani è:
 
 <sup>2</sup> Il Consiglio federale stabilisce scadenze per le singole fasi procedurali.
 
-[^16abis-1]: Introdotto dall’all. n. II 8 della LF del 30 set. 2016 sull’energia, in vigore dal 1° gen. 2018 ([RU 2017 6839](https://fedlex.data.admin.ch/eli/oc/2017/762); [FF 2013 6489](https://fedlex.data.admin.ch/eli/fga/2013/1476)).
+[^16abis-1]: Introdotto dall’all. cifra II n. 8 della LF del 30 set. 2016 sull’energia, in vigore dal 1° gen. 2018 ([RU 2017 6839](https://fedlex.data.admin.ch/eli/oc/2017/762); [FF 2013 6489](https://fedlex.data.admin.ch/eli/fga/2013/1476)).
 
 #### Art. 16b
 
@@ -336,7 +333,7 @@ L’autorità competente per l’approvazione dei piani è:
 
 La domanda di approvazione dei piani va presentata con la documentazione necessaria all’autorità competente. Questa esamina se la documentazione è completa e, se del caso, chiede di completarla.
 
-[^16b-1]: Introdotto dal n. I 8 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2029).
+[^16b-1]: Introdotto dalla cifra I n. 8 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2029).
 
 #### Art. 16c
 
@@ -346,7 +343,7 @@ La domanda di approvazione dei piani va presentata con la documentazione necessa
 
 <sup>2</sup> Le obiezioni contro il picchettamento o l’indicazione dei profili devono essere presentate subito, in ogni caso però entro il termine di deposito dei piani, mediante opposizione presso l’Ispettorato.
 
-[^16c-1]: Introdotto dal n. I 8 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2029).
+[^16c-1]: Introdotto dalla cifra I n. 8 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2029).
 
 #### Art. 16d
 
@@ -358,14 +355,14 @@ La domanda di approvazione dei piani va presentata con la documentazione necessa
 
 <sup>3</sup> ...[^16d-2]
 
-[^16d-1]: Introdotto dal n. I 8 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2029).
+[^16d-1]: Introdotto dalla cifra I n. 8 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2029).
 [^16d-2]: Abrogato dall’all. n. 12 della LF del 19 giu. 2020, con effetto dal 1° gen. 2021 ([RU 2020 4085](https://fedlex.data.admin.ch/eli/oc/2020/748); [FF 2018 4031](https://fedlex.data.admin.ch/eli/fga/2018/1660)).
 
 #### Art. 16e
 
 [^16e-1]
 
-[^16e-1]: Introdotto dal n. I 8 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2029). Abrogato dall’all. n. 12 della LF del 19 giu. 2020, con effetto dal 1° gen. 2021 ([RU 2020 4085](https://fedlex.data.admin.ch/eli/oc/2020/748); [FF 2018 4031](https://fedlex.data.admin.ch/eli/fga/2018/1660)).
+[^16e-1]: Introdotto dalla cifra I n. 8 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2029). Abrogato dall’all. n. 12 della LF del 19 giu. 2020, con effetto dal 1° gen. 2021 ([RU 2020 4085](https://fedlex.data.admin.ch/eli/oc/2020/748); [FF 2018 4031](https://fedlex.data.admin.ch/eli/fga/2018/1660)).
 
 #### Art. 16f
 
@@ -377,10 +374,10 @@ La domanda di approvazione dei piani va presentata con la documentazione necessa
 
 <sup>3</sup> I Comuni salvaguardano i loro interessi mediante opposizione.
 
-[^16f-1]: Introdotto dal n. I 8 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2029).
-[^16f-2]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^16f-1]: Introdotto dalla cifra I n. 8 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2029).
+[^16f-2]: [RS 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 [^16f-3]: Nuovo testo giusta l’all. n. 12 della LF del 19 giu. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4085](https://fedlex.data.admin.ch/eli/oc/2020/748); [FF 2018 4031](https://fedlex.data.admin.ch/eli/fga/2018/1660)).
-[^16f-4]: [RS 711](https://fedlex.data.admin.ch/eli/cc/47/689_701_723)
+[^16f-4]: [RS 711](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8369)
 [^16f-5]: Nuovo testo giusta l’all. n. 12 della LF del 19 giu. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4085](https://fedlex.data.admin.ch/eli/oc/2020/748); [FF 2018 4031](https://fedlex.data.admin.ch/eli/fga/2018/1660)).
 
 #### Art. 16g
@@ -391,10 +388,10 @@ La domanda di approvazione dei piani va presentata con la documentazione necessa
 
 <sup>2</sup> Le commissioni di cui all’articolo 25 LPN[^16g-3] inoltrano le proprie perizie all’autorità competente per l’approvazione entro tre mesi dalla richiesta di quest’ultima. Se entro i termini stabiliti non è presentata alcuna perizia, l’autorità competente per l’approvazione decide sulla base degli atti.[^16g-4]
 
-[^16g-1]: Introdotto dal n. I 8 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2029).
-[^16g-2]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
-[^16g-3]: [RS 451](https://fedlex.data.admin.ch/eli/cc/1966/1637_1694_1679)
-[^16g-4]: Introdotto dal n. I 1 della LF del 15 dic. 2017 sulla trasformazione e l’ampliamento delle reti elettriche, in vigore dal 1° giu. 2019 ([RU 2019 1349](https://fedlex.data.admin.ch/eli/oc/2019/264); [FF 2016 3393](https://fedlex.data.admin.ch/eli/fga/2016/785)).
+[^16g-1]: Introdotto dalla cifra I n. 8 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2029).
+[^16g-2]: [RS 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
+[^16g-3]: [RS 451](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7166)
+[^16g-4]: Introdotto dalla cifra I n. 1 della LF del 15 dic. 2017 sulla trasformazione e l’ampliamento delle reti elettriche, in vigore dal 1° giu. 2019 ([RU 2019 1349](https://fedlex.data.admin.ch/eli/oc/2019/264); [FF 2016 3393](https://fedlex.data.admin.ch/eli/fga/2016/785)).
 
 #### Art. 16h
 
@@ -404,7 +401,7 @@ La domanda di approvazione dei piani va presentata con la documentazione necessa
 
 <sup>2</sup> Se, in caso di opposizioni o divergenze tra autorità federali, può mediare un’intesa, l’Ispettorato accorda l’approvazione dei piani. In caso contrario trasmette i documenti all’UFE, che prosegue la procedura e decide.
 
-[^16h-1]: Introdotto dal n. I 8 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2029).
+[^16h-1]: Introdotto dalla cifra I n. 8 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2029).
 
 #### Art. 16i
 
@@ -414,7 +411,7 @@ La domanda di approvazione dei piani va presentata con la documentazione necessa
 
 <sup>2</sup> Per gravi motivi, l’autorità competente per l’approvazione dei piani può prorogare adeguatamente la durata di validità dell’approvazione. La proroga è esclusa se la situazione determinante di fatto o di diritto si è sostanzialmente modificata dal passaggio in giudicato dell’approvazione.
 
-[^16i-1]: Introdotto dal n. I 8 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2029).
+[^16i-1]: Introdotto dalla cifra I n. 8 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2029).
 
 #### Art. 17
 
@@ -434,7 +431,7 @@ La procedura semplificata di approvazione dei piani è applicata a:
 
 <sup>4</sup> Per il rimanente si applicano le disposizioni della procedura ordinaria. In caso di dubbio è eseguita la procedura ordinaria.
 
-[^17-1]: Nuovo testo giusta il n. I 8 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2029).
+[^17-1]: Nuovo testo giusta la cifra I n. 8 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2029).
 
 #### Art. 17a
 
@@ -444,13 +441,13 @@ La procedura semplificata di approvazione dei piani è applicata a:
 
 <sup>2</sup> Le persone estranee all’Amministrazione federale non hanno alcun potere decisionale; possono prendere tutte le disposizioni ordinatorie, sempre che queste ultime non siano impugnabili a titolo indipendente.
 
-[^17a-1]: Introdotto dal n. I 1 della LF del 15 dic. 2017 sulla trasformazione e l’ampliamento delle reti elettriche, in vigore dal 1° giu. 2019 ([RU 2019 1349](https://fedlex.data.admin.ch/eli/oc/2019/264); [FF 2016 3393](https://fedlex.data.admin.ch/eli/fga/2016/785)).
+[^17a-1]: Introdotto dalla cifra I n. 1 della LF del 15 dic. 2017 sulla trasformazione e l’ampliamento delle reti elettriche, in vigore dal 1° giu. 2019 ([RU 2019 1349](https://fedlex.data.admin.ch/eli/oc/2019/264); [FF 2016 3393](https://fedlex.data.admin.ch/eli/fga/2016/785)).
 
 ## III*c*. Zone riservate e allineamenti
 
 [^lvlIIIc-1]
 
-[^lvlIIIc-1]: Introdotto dal n. I 1 della LF del 15 dic. 2017 sulla trasformazione e l’ampliamento delle reti elettriche, in vigore dal 1° giu. 2019 ([RU 2019 1349](https://fedlex.data.admin.ch/eli/oc/2019/264); [FF 2016 3393](https://fedlex.data.admin.ch/eli/fga/2016/785)).
+[^lvlIIIc-1]: Introdotto dalla cifra I n. 1 della LF del 15 dic. 2017 sulla trasformazione e l’ampliamento delle reti elettriche, in vigore dal 1° giu. 2019 ([RU 2019 1349](https://fedlex.data.admin.ch/eli/oc/2019/264); [FF 2016 3393](https://fedlex.data.admin.ch/eli/fga/2016/785)).
 
 #### Art. 18
 
@@ -462,7 +459,7 @@ La procedura semplificata di approvazione dei piani è applicata a:
 
 <sup>3</sup> Le decisioni relative all’istituzione di zone riservate sono pubblicate nei Comuni interessati. I ricorsi non hanno effetto sospensivo.
 
-[^18-1]: Nuovo testo giusta il n. I 1 della LF del 15 dic. 2017 sulla trasformazione e l’ampliamento delle reti elettriche, in vigore dal 1° giu. 2019 ([RU 2019 1349](https://fedlex.data.admin.ch/eli/oc/2019/264); [FF 2016 3393](https://fedlex.data.admin.ch/eli/fga/2016/785)).
+[^18-1]: Nuovo testo giusta la cifra I n. 1 della LF del 15 dic. 2017 sulla trasformazione e l’ampliamento delle reti elettriche, in vigore dal 1° giu. 2019 ([RU 2019 1349](https://fedlex.data.admin.ch/eli/oc/2019/264); [FF 2016 3393](https://fedlex.data.admin.ch/eli/fga/2016/785)).
 
 #### Art. 18a
 
@@ -474,7 +471,7 @@ La procedura semplificata di approvazione dei piani è applicata a:
 
 <sup>3</sup> Le decisioni concernenti la soppressione delle zone riservate sono pubblicate nei Comuni interessati.
 
-[^18a-1]: Introdotto dal n. I 1 della LF del 15 dic. 2017 sulla trasformazione e l’ampliamento delle reti elettriche, in vigore dal 1° giu. 2019 ([RU 2019 1349](https://fedlex.data.admin.ch/eli/oc/2019/264); [FF 2016 3393](https://fedlex.data.admin.ch/eli/fga/2016/785)).
+[^18a-1]: Introdotto dalla cifra I n. 1 della LF del 15 dic. 2017 sulla trasformazione e l’ampliamento delle reti elettriche, in vigore dal 1° giu. 2019 ([RU 2019 1349](https://fedlex.data.admin.ch/eli/oc/2019/264); [FF 2016 3393](https://fedlex.data.admin.ch/eli/fga/2016/785)).
 
 #### Art. 18b
 
@@ -488,7 +485,7 @@ La procedura semplificata di approvazione dei piani è applicata a:
 
 <sup>4</sup> Se un allineamento per il quale è stata versata un’indennità decade, si applicano per analogia i principi dell’indebito arricchimento. In caso di alienazione, il nuovo proprietario fondiario è tenuto alla restituzione. In caso di controversia, decide la Commissione di stima.
 
-[^18b-1]: Introdotto dal n. I 1 della LF del 15 dic. 2017 sulla trasformazione e l’ampliamento delle reti elettriche, in vigore dal 1° giu. 2019 ([RU 2019 1349](https://fedlex.data.admin.ch/eli/oc/2019/264); [FF 2016 3393](https://fedlex.data.admin.ch/eli/fga/2016/785)).
+[^18b-1]: Introdotto dalla cifra I n. 1 della LF del 15 dic. 2017 sulla trasformazione e l’ampliamento delle reti elettriche, in vigore dal 1° giu. 2019 ([RU 2019 1349](https://fedlex.data.admin.ch/eli/oc/2019/264); [FF 2016 3393](https://fedlex.data.admin.ch/eli/fga/2016/785)).
 
 #### Art. 18c
 
@@ -500,8 +497,8 @@ La procedura semplificata di approvazione dei piani è applicata a:
 
 <sup>3</sup> Nelle zone riservate determinate o richieste, e all’interno degli allineamenti determinati o richiesti, le imprese possono eseguire atti preparatori. L’articolo 15 LEspr[^18c-2] si applica per analogia.
 
-[^18c-1]: Introdotto dal n. I 1 della LF del 15 dic. 2017 sulla trasformazione e l’ampliamento delle reti elettriche, in vigore dal 1° giu. 2019 ([RU 2019 1349](https://fedlex.data.admin.ch/eli/oc/2019/264); [FF 2016 3393](https://fedlex.data.admin.ch/eli/fga/2016/785)).
-[^18c-2]: [RS 711](https://fedlex.data.admin.ch/eli/cc/47/689_701_723)
+[^18c-1]: Introdotto dalla cifra I n. 1 della LF del 15 dic. 2017 sulla trasformazione e l’ampliamento delle reti elettriche, in vigore dal 1° giu. 2019 ([RU 2019 1349](https://fedlex.data.admin.ch/eli/oc/2019/264); [FF 2016 3393](https://fedlex.data.admin.ch/eli/fga/2016/785)).
+[^18c-2]: [RS 711](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8369)
 
 #### Art. 18d
 
@@ -517,8 +514,8 @@ La procedura semplificata di approvazione dei piani è applicata a:
 
 <sup>5</sup> L’indennità produce interessi dal momento in cui ha effetto la restrizione della proprietà.
 
-[^18d-1]: Introdotto dal n. I 1 della LF del 15 dic. 2017 sulla trasformazione e l’ampliamento delle reti elettriche, in vigore dal 1° giu. 2019 ([RU 2019 1349](https://fedlex.data.admin.ch/eli/oc/2019/264); [FF 2016 3393](https://fedlex.data.admin.ch/eli/fga/2016/785)).
-[^18d-2]: [RS 711](https://fedlex.data.admin.ch/eli/cc/47/689_701_723)
+[^18d-1]: Introdotto dalla cifra I n. 1 della LF del 15 dic. 2017 sulla trasformazione e l’ampliamento delle reti elettriche, in vigore dal 1° giu. 2019 ([RU 2019 1349](https://fedlex.data.admin.ch/eli/oc/2019/264); [FF 2016 3393](https://fedlex.data.admin.ch/eli/fga/2016/785)).
+[^18d-2]: [RS 711](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8369)
 
 ## IV. Controllo
 
@@ -534,7 +531,7 @@ La procedura semplificata di approvazione dei piani è applicata a:
 
 <sup>2</sup> Il gestore di condotte elettriche stabilite sul territorio delle strade ferrate, deve provvedere alla vigilanza e al mantenimento di queste condotte, epperò dovrà esser permesso tanto a lui che ai suoi mandatari l’accesso alla ferrovia, mediante preavviso agli agenti della società ferroviaria.
 
-[^20-1]: Nuova espr. giusta il n. I 1 della LF del 15 dic. 2017 sulla trasformazione e l’ampliamento delle reti elettriche, in vigore dal 1° giu. 2019 ([RU 2019 1349](https://fedlex.data.admin.ch/eli/oc/2019/264); [FF 2016 3393](https://fedlex.data.admin.ch/eli/fga/2016/785)). Di detta mod. é tenuto conto nelle disp. menzionate nella RU.
+[^20-1]: Nuova espr. giusta la cifra I n. 1 della LF del 15 dic. 2017 sulla trasformazione e l’ampliamento delle reti elettriche, in vigore dal 1° giu. 2019 ([RU 2019 1349](https://fedlex.data.admin.ch/eli/oc/2019/264); [FF 2016 3393](https://fedlex.data.admin.ch/eli/fga/2016/785)). Di detta mod. é tenuto conto nelle disp. menzionate nella RU.
 
 #### Art. 21
 
@@ -552,7 +549,7 @@ Il controllo sull’esecuzione delle prescrizioni menzionate all’articolo 3 è
 
 - b. a un Ispettorato da designarsi dal Consiglio federale per gli altri impianti elettrici e per i prodotti elettrici.
 
-[^21-1]: Nuovo testo giusta il n. II della LF del 29 set. 2023 (Attuazione del pilastro tecnico del 4° pacchetto ferroviario dell’UE), in vigore dal 1° lug. 2024 ([RU 2024 152](https://fedlex.data.admin.ch/eli/oc/2024/152); [FF 2023 703](https://fedlex.data.admin.ch/eli/fga/2023/703)).
+[^21-1]: Nuovo testo giusta la cifra II della LF del 29 set. 2023 (Attuazione del pilastro tecnico del 4° pacchetto ferroviario dell’UE), in vigore dal 1° lug. 2024 ([RU 2024 152](https://fedlex.data.admin.ch/eli/oc/2024/152); [FF 2023 703](https://fedlex.data.admin.ch/eli/fga/2023/703)).
 
 #### Art. 22
 
@@ -560,7 +557,7 @@ Il controllo sull’esecuzione delle prescrizioni menzionate all’articolo 3 è
 
 Al posto delle due istanze di controllo secondo l’articolo 21 il Consiglio federale può istituire un ispettorato unico.
 
-[^22-1]: Nuovo testo giusta il n. I 8 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2029).
+[^22-1]: Nuovo testo giusta la cifra I n. 8 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2029).
 
 #### Art. 23
 
@@ -576,7 +573,7 @@ Le decisioni delle autorità competenti per l’approvazione dei piani secondo l
 
 Il DATEC decide circa le contestazioni fra le istanze di controllo di cui all’articolo 21.
 
-[^24-1]: Nuovo testo giusta il n. I 8 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2029).
+[^24-1]: Nuovo testo giusta la cifra I n. 8 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2029).
 
 #### Art. 25
 
@@ -590,8 +587,8 @@ Le imprese d’impianti a corrente forte devono fornire all’Ispettorato i dati
 
 <sup>2</sup> Possono scambiarsi tali dati, se necessario per l’esecuzione unitaria della presente legge.[^25a-2]
 
-[^25a-1]: Introdotto dal n. I 8 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2029).
-[^25a-2]: Nuovo testo giusta l’all. 1 n. II 58 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^25a-1]: Introdotto dalla cifra I n. 8 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2029).
+[^25a-2]: Nuovo testo giusta l’all. 1 cifra II n. 58 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 26
 
@@ -607,13 +604,13 @@ Il controllo di cui al capitolo IV non si estende agl’impianti domestici. Per�
 
 <sup>3</sup> Il Consiglio federale può imporre l’obbligo di documentazione di cui al capoverso 1 anche per gli impianti elettrici con una tensione nominale pari o inferiore a 36 kV. Definisce i diritti di accesso a questi dati.
 
-[^26a-1]: Introdotto dal n. I 1 della LF del 15 dic. 2017 sulla trasformazione e l’ampliamento delle reti elettriche, in vigore dal 1° giu. 2019 ([RU 2019 1349](https://fedlex.data.admin.ch/eli/oc/2019/264); [FF 2016 3393](https://fedlex.data.admin.ch/eli/fga/2016/785)).
+[^26a-1]: Introdotto dalla cifra I n. 1 della LF del 15 dic. 2017 sulla trasformazione e l’ampliamento delle reti elettriche, in vigore dal 1° giu. 2019 ([RU 2019 1349](https://fedlex.data.admin.ch/eli/oc/2019/264); [FF 2016 3393](https://fedlex.data.admin.ch/eli/fga/2016/785)).
 
 ## V. Disposizioni concernenti la responsabilità
 
 [^lvlV-1]
 
-[^lvlV-1]: Queste disp. sono abrogate, in quanto concernano i rapporti del possessore d’un impianto con i suoi dipendenti soggetti all’assicurazione obbligatoria, dall’art. 128 n. 2 della LF del 13 giu. 1911 sull’assicurazione contro le malattie (CS **8** 273) e dall’art. 44 cpv. 2 della LF del 20 mar. 1981 sull’assicurazione contro gli infortuni ([RS 832.20](https://fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676)).
+[^lvlV-1]: Queste disp. sono abrogate, in quanto concernano i rapporti del possessore d’un impianto con i suoi dipendenti soggetti all’assicurazione obbligatoria, dall’art. 128 n. 2 della LF del 13 giu. 1911 sull’assicurazione contro le malattie (CS **8** 273) e dall’art. 44 cpv. 2 della LF del 20 mar. 1981 sull’assicurazione contro gli infortuni ([RS 832.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10190)).
 
 #### Art. 27
 
@@ -636,7 +633,7 @@ Se l’impianto elettrico si compone di più parti esercitate da imprenditori di
 
 Le indennità per danni derivanti da un incendio causato dall’esercizio di un impianto elettrico, sono regolate dalle disposizioni del Codice delle obbligazioni[^29-1].
 
-[^29-1]: [[RU 5 577](https://fedlex.data.admin.ch/eli/oc/5/635_577_577), **11** 490, **24** 718 art. 103 cpv. 1. [RU 27 377](https://fedlex.data.admin.ch/eli/oc/27/317_321_377)disp. trans., **53** 189 in fine, art. 18 disp. fin. e trans. tit. XXIV–XXXIII]. Ora: dalle disposizioni del CO ([RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)). Nuova espr. giusta l’all. n. 11 della LF del 25 giu. 2018 (Revisione della disciplina della prescrizione), in vigore dal 1° gen. 2020 ([RU 2018 5343](https://fedlex.data.admin.ch/eli/oc/2018/807); [FF 2014 211](https://fedlex.data.admin.ch/eli/fga/2014/65)). Di detta mod. é tenuto conto in tutto il presente testo.
+[^29-1]: [[RU 5 577](https://fedlex.data.admin.ch/eli/oc/5/635_577_577), **11** 490, **24** 718 art. 103 cpv. 1. [RU 27 377](https://fedlex.data.admin.ch/eli/oc/27/317_321_377)disp. trans., **53** 189 in fine, art. 18 disp. fin. e trans. tit. XXIV–XXXIII]. Ora: dalle disposizioni del CO ([RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)). Nuova espr. giusta l’all. n. 11 della LF del 25 giu. 2018 (Revisione della disciplina della prescrizione), in vigore dal 1° gen. 2020 ([RU 2018 5343](https://fedlex.data.admin.ch/eli/oc/2018/807); [FF 2014 211](https://fedlex.data.admin.ch/eli/fga/2014/65)). Di detta mod. é tenuto conto in tutto il presente testo.
 
 #### Art. 30
 
@@ -653,7 +650,7 @@ Se degli impianti elettrici si danneggiano vicendevolmente, il danno cagionato d
 <sup>2</sup> Quest’autorità avvia senza indugio un’inchiesta ufficiale sulla causa e le conseguenze dell’infortunio e può farsi assistere da esperti nei casi importanti. Informa dell’infortunio il Governo cantonale, affinché ne dia comunicazione al DATEC.[^32-2]
 
 [^32-1]: [RU **3** 241. CS **8** 3 art. 95 cpv. 1]. Ancorchè le disp. cit. non siano state riprese nella legislazione federale, il presente articolo è sempre applicato.
-[^32-2]: Nuovo testo giusta il n. I 8 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2029).
+[^32-2]: Nuovo testo giusta la cifra I n. 8 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2029).
 
 #### Art. 33
 
@@ -677,7 +674,7 @@ Se può esser provato che l’ucciso o il ferito, o la persona lesa nella sua pr
 
 <sup>3</sup> Se le conseguenze d’una lesione corporale non possono essere ancora esattamente apprezzate al momento in cui è pronunziata la sentenza, il giudice può eccezionalmente riservare una revisione ulteriore del giudicato, tanto pel caso di morte o d’un peggioramento, quanto pel caso d’un miglioramento nello stato del ferito. Le domande in proposito devono essere presentate, al più tardi, entro un anno dalla data della sentenza.
 
-[^36-1]: Ora: le disposizioni del CO ([RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)).
+[^36-1]: Ora: le disposizioni del CO ([RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)).
 
 #### Art. 37
 
@@ -686,7 +683,7 @@ Se può esser provato che l’ucciso o il ferito, o la persona lesa nella sua pr
 Le domande per risarcimento di danni menzionate nella presente legge si prescrivono secondo le disposizioni del Codice delle obbligazioni[^37-2] sugli atti illeciti.
 
 [^37-1]: Nuovo testo giusta l’all. n. 11 della LF del 25 giu. 2018 (Revisione della disciplina della prescrizione), in vigore dal 1° gen. 2020 ([RU 2018 5343](https://fedlex.data.admin.ch/eli/oc/2018/807); [FF 2014 211](https://fedlex.data.admin.ch/eli/fga/2014/65)).
-[^37-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^37-2]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 38
 
@@ -712,7 +709,7 @@ Le disposizioni concernenti la responsabilità, contenute nel capitolo V, non so
 
 [^42-1]
 
-[^42-1]: Abrogato dal n. I 8 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, con effetto dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2029).
+[^42-1]: Abrogato dalla cifra I n. 8 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, con effetto dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2029).
 
 #### Art. 43
 
@@ -722,7 +719,7 @@ Le disposizioni concernenti la responsabilità, contenute nel capitolo V, non so
 
 <sup>2</sup> Il DATEC può accordare il diritto di espropriazione agli utenti d’energia elettrica.
 
-[^43-1]: Nuovo testo giusta il n. I 8 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2029).
+[^43-1]: Nuovo testo giusta la cifra I n. 8 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2029).
 
 #### Art. 44
 
@@ -742,8 +739,8 @@ Il diritto di espropriazione può essere fatto valere, nel singolo caso, per la 
 
 <sup>3</sup> Il presidente della Commissione di stima può, sulla base di una decisione esecutiva d’approvazione dei piani, autorizzare l’immissione in possesso anticipata. Si presume che, senza l’immissione in possesso anticipata, l’espropriante subirebbe un significativo pregiudizio. Per il rimanente si applica l’articolo 76 LEspr.
 
-[^45-1]: Nuovo testo giusta il n. I 8 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2029).
-[^45-2]: [RS 711](https://fedlex.data.admin.ch/eli/cc/47/689_701_723)
+[^45-1]: Nuovo testo giusta la cifra I n. 8 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2029).
+[^45-2]: [RS 711](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8369)
 [^45-3]: Nuovo testo giusta l’all. n. 12 della LF del 19 giu. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4085](https://fedlex.data.admin.ch/eli/oc/2020/748); [FF 2018 4031](https://fedlex.data.admin.ch/eli/fga/2018/1660)).
 [^45-4]: Abrogato dall’all. n. 12 della LF del 19 giu. 2020, con effetto dal 1° gen. 2021 ([RU 2020 4085](https://fedlex.data.admin.ch/eli/oc/2020/748); [FF 2018 4031](https://fedlex.data.admin.ch/eli/fga/2018/1660)).
 
@@ -751,7 +748,7 @@ Il diritto di espropriazione può essere fatto valere, nel singolo caso, per la 
 
 [^4650-1]
 
-[^4650-1]: Abrogati dal n. I 8 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, con effetto dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2029).
+[^4650-1]: Abrogati dalla cifra I n. 8 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, con effetto dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2029).
 
 #### Art. 51 e 52
 
@@ -763,13 +760,13 @@ Il diritto di espropriazione può essere fatto valere, nel singolo caso, per la 
 
 [^53-1]
 
-[^53-1]: Abrogato dal n. I 8 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, con effetto dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2029).
+[^53-1]: Abrogato dalla cifra I n. 8 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, con effetto dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2029).
 
 #### Art. 53<sup>bis</sup>
 
 [^53bis-1]
 
-[^53bis-1]: Introdotto dall’art. 121 lett. e della LF del 20 giu. 1930 sull’espropriazione (CS **4** 1145). Abrogato dal n. I 8 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, con effetto dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2029).
+[^53bis-1]: Introdotto dall’art. 121 lett. e della LF del 20 giu. 1930 sull’espropriazione (CS **4** 1145). Abrogato dalla cifra I n. 8 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, con effetto dal 1° gen. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2029).
 
 #### Art. 54
 
@@ -799,13 +796,13 @@ Il diritto di espropriazione può essere fatto valere, nel singolo caso, per la 
 <sup>3</sup> Il Consiglio federale può comminare le medesime pene per le infrazioni alle prescrizioni d’esecuzione che, per determinate attività, prevedono l’obbligo dell’autorizzazione.
 
 [^55-1]: Nuovo testo giusta l’all. n. 3 della L del 23 mar. 2007 sull’approvvigionamento elettrico, in vigore dal 1° gen. 2008 ([RU 2007 3425](https://fedlex.data.admin.ch/eli/oc/2007/418); [FF 2005 1447](https://fedlex.data.admin.ch/eli/fga/2005/197)).
-[^55-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^55-3]: Nuovo testo giusta il n. I 1 della LF del 15 dic. 2017 sulla trasformazione e l’ampliamento delle reti elettriche, in vigore dal 1° giu. 2019 ([RU 2019 1349](https://fedlex.data.admin.ch/eli/oc/2019/264); [FF 2016 3393](https://fedlex.data.admin.ch/eli/fga/2016/785)).
+[^55-2]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^55-3]: Nuovo testo giusta la cifra I n. 1 della LF del 15 dic. 2017 sulla trasformazione e l’ampliamento delle reti elettriche, in vigore dal 1° giu. 2019 ([RU 2019 1349](https://fedlex.data.admin.ch/eli/oc/2019/264); [FF 2016 3393](https://fedlex.data.admin.ch/eli/fga/2016/785)).
 [^55-4]: Introdotta dall’all. n. 3 della LF del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 5599](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
 [^55-5]: Introdotta dall’all. n. 3 della LF del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 5599](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
-[^55-6]: Nuovo testo giusta il n. I 1 della LF del 15 dic. 2017 sulla trasformazione e l’ampliamento delle reti elettriche, in vigore dal 1° giu. 2019 ([RU 2019 1349](https://fedlex.data.admin.ch/eli/oc/2019/264); [FF 2016 3393](https://fedlex.data.admin.ch/eli/fga/2016/785)).
-[^55-7]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
-[^55-8]: Introdotto dal n. I 1 della LF del 15 dic. 2017 sulla trasformazione e l’ampliamento delle reti elettriche, in vigore dal 1° giu. 2019 ([RU 2019 1349](https://fedlex.data.admin.ch/eli/oc/2019/264); [FF 2016 3393](https://fedlex.data.admin.ch/eli/fga/2016/785)).
+[^55-6]: Nuovo testo giusta la cifra I n. 1 della LF del 15 dic. 2017 sulla trasformazione e l’ampliamento delle reti elettriche, in vigore dal 1° giu. 2019 ([RU 2019 1349](https://fedlex.data.admin.ch/eli/oc/2019/264); [FF 2016 3393](https://fedlex.data.admin.ch/eli/fga/2016/785)).
+[^55-7]: [RS 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
+[^55-8]: Introdotto dalla cifra I n. 1 della LF del 15 dic. 2017 sulla trasformazione e l’ampliamento delle reti elettriche, in vigore dal 1° giu. 2019 ([RU 2019 1349](https://fedlex.data.admin.ch/eli/oc/2019/264); [FF 2016 3393](https://fedlex.data.admin.ch/eli/fga/2016/785)).
 
 #### Art. 56
 
@@ -816,7 +813,7 @@ Il diritto di espropriazione può essere fatto valere, nel singolo caso, per la 
 <sup>2</sup> Rimane riservato il rinvio a giudizio in virtù degli articoli 285 o 286 del Codice penale svizzero[^56-2].
 
 [^56-1]: Nuovo testo giusta l’all. n. 12 della LF del 22 mar. 1974 sul diritto penale amministrativo, in vigore dal 1° gen. 1975 ([RU 1974 1857](https://fedlex.data.admin.ch/eli/oc/1974/1857_1857_1857); [FF 1971 I 727](https://fedlex.data.admin.ch/eli/fga/1971/1_993_1017_727)).
-[^56-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^56-2]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 #### Art. 57
 
@@ -836,14 +833,14 @@ La legge federale del 22 marzo 1974[^57-2] sul diritto penale amministrativo è 
 <sup>4</sup> Se nella costruzione o nell’esercizio di ferrovie o di altre imprese di trasporto pubbliche concessionarie, è commessa, a tenore dell’articolo 55 capoverso 1 lettere a e b nonché dell’articolo 56, un’infrazione che ricade nell’ambito delle competenze dell’autorità di vigilanza delle ferrovie, l’azione penale è promossa su denuncia di questa autorità. La competenza a procedere si determina secondo l’articolo 88*a* della legge federale del 20 dicembre 1957[^57-3] sulle ferrovie.
 
 [^57-1]: Nuovo testo giusta l’all. n. 3 della LF del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 5599](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
-[^57-2]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
-[^57-3]: [RS 742.101](https://fedlex.data.admin.ch/eli/cc/1958/335_341_347)
+[^57-2]: [RS 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
+[^57-3]: [RS 742.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8719)
 
 #### Art. 58 e 59
 
 [^5859-1]
 
-[^5859-1]: Abrogati (art. 398 cpv. 2 lett. e CP – CS **3** 187). Vedi ora l’art. 146 CP ([RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)).
+[^5859-1]: Abrogati (art. 398 cpv. 2 lett. e CP – CS **3** 187). Vedi ora l’art. 146 CP ([RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)).
 
 #### Art. 60
 
@@ -864,7 +861,7 @@ La legge federale del 26 giugno 1889[^61-1] sull’impianto di linee telegrafich
 
 [^62-1]
 
-[^62-1]: Abrogato dal n. II 30 della LF del 20 mar. 2008 concernente l’aggiornamento formale del diritto federale, con effetto dal 1° ago. 2008 ([RU 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447); [FF 2007 5575](https://fedlex.data.admin.ch/eli/fga/2007/885)).
+[^62-1]: Abrogato dalla cifra II n. 30 della LF del 20 mar. 2008 concernente l’aggiornamento formale del diritto federale, con effetto dal 1° ago. 2008 ([RU 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447); [FF 2007 5575](https://fedlex.data.admin.ch/eli/fga/2007/885)).
 
 #### Art. 63
 
@@ -886,5 +883,5 @@ Data dell’entrata in vigore:[^64-2] 1° febbraio 1903
 
 art. 19: 17 ottobre 1902
 
-[^64-1]: Introdotto dal n. I 1 della LF del 15 dic. 2017 sulla trasformazione e l’ampliamento delle reti elettriche, in vigore dal 1° giu. 2019 ([RU 2019 1349](https://fedlex.data.admin.ch/eli/oc/2019/264); [FF 2016 3393](https://fedlex.data.admin.ch/eli/fga/2016/785)).
+[^64-1]: Introdotto dalla cifra I n. 1 della LF del 15 dic. 2017 sulla trasformazione e l’ampliamento delle reti elettriche, in vigore dal 1° giu. 2019 ([RU 2019 1349](https://fedlex.data.admin.ch/eli/oc/2019/264); [FF 2016 3393](https://fedlex.data.admin.ch/eli/fga/2016/785)).
 [^64-2]: DCF del 17 ott. 1902.
