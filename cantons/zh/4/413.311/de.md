@@ -4,11 +4,10 @@ number: "413.311"
 title: Verordnung zum EG BBG (VEG BBG)
 short: VEG BBG
 language: de
-version: "2014-08-18"
-nachtrag: "86"
-valid_until: 2026-04-01
+version: "2026-04-01"
+nachtrag: "132"
 adopted: 2009-07-08
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-413_311-2009_07_08-2009_08_17-086.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-413_311-2009_07_08-2009_08_17-132.html"
 text: pdf
 ---
 
@@ -56,7 +55,7 @@ Der Regierungsrat beschliesst:
 
 **1**
 
-- 1\. 10. 14 - 86
+- 1\. 4. 26 - 132
 
 <sup>2</sup> Als Fördermassnahmen gelten insbesondere:
 
@@ -136,6 +135,10 @@ Ansprechpartner des Kantons sind die jeweiligen für einen Beruf oder ein Berufs
 
 § 9 b.<sup>9</sup> <sup>1</sup> Die anbietende Organisation teilt der Bewerberin oder dem Bewerber den Entscheid über die Aufnahme mit.
 
+**3**
+
+- 1\. 4. 26 - 132
+
 <sup>2</sup> Zugelassene Lernende werden informiert über:
 
 - a. ihren Beitrag oder den Beitrag ihrer Eltern,
@@ -144,13 +147,11 @@ Ansprechpartner des Kantons sind die jeweiligen für einen Beruf oder ein Berufs
 
 - c. die Folgen einer vorzeitigen Beendigung des Berufsvorbereitungsjahrs.
 
-**3**
-
-- 1\. 10. 14 - 86 § 10.<sup>10</sup> Für Vorlehren an Berufsfachschulen gelten §§ 26–32 sinngemäss.
-
 **Vorlehre**
 
-[^h2AbschnittBerufs-1]: SR 837.0.
+§ 10.<sup>10</sup> Für Vorlehren an Berufsfachschulen gelten §§ 26–32 sinngemäss.
+
+[^h2AbschnittBerufs-1]: SR 837.0. 1. 4. 26 - 132 15
 
 ### 3. Abschnitt: Berufliche Praxis
 
@@ -236,11 +237,11 @@ Die Lehre beginnt spätestens bei Unterrichtsaufnahme der Berufsfach- und Berufs
 
 <sup>3</sup> Die Schulkommission schlägt aus ihrem Kreis eine Präsidentin oder einen Präsidenten sowie eine Vizepräsidentin oder einen Vizepräsidenten zur Wahl durch die Bildungsdirektion vor.
 
-#### § 19
+**5**
+
+- 1\. 4. 26 - 132 § 19. <sup>1</sup> Die Schulkommission wird durch die Präsidentin oder den Präsidenten oder auf Antrag von mindestens einem Drittel der Kommissionsmitglieder einberufen.
 
 **Einberufung und Sekretariat**
-
-<sup>1</sup> Die Schulkommission wird durch die Präsidentin oder den Präsidenten oder auf Antrag von mindestens einem Drittel der Kommissionsmitglieder einberufen.
 
 <sup>2</sup> Das Sekretariat wird durch die Schule geführt. Es trifft die administrativen und organisatorischen Massnahmen zur Vorbereitung und Erledigung der Geschäfte der Schulkommission.
 
@@ -249,10 +250,6 @@ Die Lehre beginnt spätestens bei Unterrichtsaufnahme der Berufsfach- und Berufs
 **Sitzungen**
 
 <sup>1</sup> Die Mitglieder der Schulkommission haben Antrags- und Stimmrecht. Sie sind zur Stimmabgabe verpflichtet.
-
-**5**
-
-- 1\. 10. 14 - 86
 
 <sup>2</sup> Die Schulkommission ist beschlussfähig, wenn die Mehrheit der Mitglieder anwesend ist. Sie fasst ihre Beschlüsse mit dem einfachen Mehr der Stimmen. Bei Stimmengleichheit hat die Präsidentin oder der Präsident den Stichentscheid.
 
@@ -330,7 +327,39 @@ Die Lehre beginnt spätestens bei Unterrichtsaufnahme der Berufsfach- und Berufs
 
 Die Schulleitung kann aus wichtigen Gründen Lernende vom Besuch einzelner Lektionen befreien.
 
-### D. Schulbetrieb
+**7**
+
+- 1\. 4. 26 - 132
+
+### D. Schulsozialarbeitende<sup>11</sup>
+
+**Angebot**
+
+§ 27 a.<sup>11</sup> <sup>1</sup> Die Schulen gewährleisten das Angebot an Schulsozialarbeit durch den Einsatz von Fachpersonen der Sozialen Arbeit. Das Angebot kann durch den Einsatz von Lehrpersonen mit Zusatzausbildung ergänzt werden.
+
+<sup>2</sup> Zur Sicherstellung des Angebots können sich die Schulen zusammenschliessen.
+
+**Freiwilligkeit**
+
+§ 27 b.<sup>11</sup> <sup>1</sup> Die Nutzung des Angebots an Schulsozialarbeit ist freiwillig.
+
+<sup>2</sup> Die Klassenlehrperson oder die Schulleitung kann Lernende zu einem Informationsgespräch mit der oder dem Schulsozialarbeitenden anmelden.
+
+<sup>3</sup> Die Teilnahme am Angebot gemäss § 14 c Abs. 2 lit. b des Einführungsgesetzes zum Berufsbildungsgesetz vom 14. Januar 2008[^hDSchulsozialarbeit-1] ist für die Lernenden obligatorisch, wenn es während der Unterrichtszeiten oder der von der Schulleitung für obligatorisch erklärten Schulanlässe stattfindet.
+
+**Schweigepflicht**
+
+§ 27 c.<sup>11</sup> <sup>1</sup> Die Schulsozialarbeitenden sind verpflichtet, über vertrauliche Informationen, die ihnen bei der Ausübung ihrer Funktion zur Kenntnis gelangen, Verschwiegenheit zu bewahren.
+
+<sup>2</sup> Minderjährige Lernende können die Schulsozialarbeitenden ohne Zustimmung der Inhaberin oder des Inhabers der elterlichen Sorge oder anderer Erziehungsberechtigter von der Schweigepflicht entbinden.
+
+**Aktenführung**
+
+§ 27 d.<sup>11</sup> Die Schulsozialarbeitenden führen die Akten elektronisch.
+
+[^hDSchulsozialarbeit-1]: LS 413.31.
+
+### E.<sup>12</sup> Schulbetrieb
 
 #### § 28
 
@@ -340,11 +369,11 @@ Die Schulleitung kann aus wichtigen Gründen Lernende vom Besuch einzelner Lekti
 
 <sup>2</sup> Massgebend sind dabei die vorgesehenen Klassenbestände sowie die besonderen Umstände, welche die lernende Person oder der Lehrbetrieb geltend macht.
 
-**7**
-
-- 1\. 10. 14 - 86 § 29. <sup>1</sup> Die Schulleitung stellt die nach der Gesundheitsgesetzgebung erforderlichen Beratungsangebote für die Gesundheitsförderung und die Suchtprävention sowie die Beratung bei sexueller Belästigung und bei Diskriminierung sicher.
+#### § 29
 
 **Beratung und vertrauensärztliche Aufgaben**
+
+<sup>1</sup> Die Schulleitung stellt die nach der Gesundheitsgesetzgebung erforderlichen Beratungsangebote für die Gesundheitsförderung und die Suchtprävention sowie die Beratung bei sexueller Belästigung und bei Diskriminierung sicher.
 
 <sup>2</sup> Sie kann Ärztinnen oder Ärzte beauftragen, vertrauensärztliche Abklärungen vorzunehmen, namentlich wenn Zweifel über gesundheitlich bedingte Absenzen oder die Schulfähigkeit bestehen.
 
@@ -356,7 +385,7 @@ Die Schulleitung kann aus wichtigen Gründen Lernende vom Besuch einzelner Lekti
 
 <sup>2</sup> In Ausnahmefällen kann das Amt auf Antrag der Schulen branchenspezifische Regelungen treffen.
 
-### E. Fördermassnahmen
+### F.<sup>12</sup> Fördermassnahmen
 
 #### § 31
 
@@ -374,7 +403,7 @@ Die Schulleitung kann aus wichtigen Gründen Lernende vom Besuch einzelner Lekti
 
 <sup>2</sup> Die Richtlinien regeln insbesondere die Feststellung der Anspruchsberechtigung, das Leistungsangebot und die Anforderungen an die Begleiterinnen und Begleiter.
 
-### F. Organisation der nicht kantonalen Berufsfachschulen
+### G.<sup>12</sup> Organisation der nicht kantonalen Berufsfachschulen
 
 #### § 33
 
@@ -391,6 +420,10 @@ Die Schulleitung kann aus wichtigen Gründen Lernende vom Besuch einzelner Lekti
 <sup>1</sup> Das Aufsichtsorgan der nicht kantonalen Berufsfachschule ist von der operativen Führung der Schule unabhängig.
 
 <sup>2</sup> Dem Aufsichtsorgan gehören Vertretungen der Organisationen der Arbeitswelt und der Arbeitgeber- und der Arbeitnehmerschaft an. Es bestellt eine Person, die als Mitglied an der Präsidialkonferenz gemäss § 22 teilnimmt.
+
+**9**
+
+- 1\. 4. 26 - 132
 
 <sup>3</sup> Das Aufsichtsorgan prüft regelmässig die Qualität und die Wirtschaftlichkeit der Auftragserfüllung.
 
@@ -434,10 +467,6 @@ Die Bestimmungen über die Organisation der kantonalen Berufsfachschulen gelten 
 
 <sup>1</sup> Das Amt sorgt in Absprache mit den Berufsfachschulen für ergänzende Angebote der Nachholbildung, die ausserhalb eines geregelten Bildungsgangs zum Erwerb eines eidgenössischen Fähigkeitszeugnisses oder eines eidgenössischen Berufsattests führen (Art. 31 und 32 BBV).
 
-**9**
-
-- 1\. 10. 14 - 86
-
 <sup>2</sup> Es kann Berufsfachschulen oder Dritte mit der Organisation und Durchführung beauftragen.
 
 <sup>3</sup> Die Schulleitung entscheidet über die Zulassung nach Massgabe der von der Bildungsdirektion festgelegten Aufnahmekriterien und der verfügbaren Plätze. Es besteht kein Anspruch auf Aufnahme in einen Ausbildungsgang der Nachholbildung.
@@ -474,6 +503,10 @@ Die Bestimmungen über die Organisation der kantonalen Berufsfachschulen gelten 
 
 <sup>3</sup> Dauert ein Praktikum länger als sechs Monate, ist der Vertrag vor Beginn des Praktikums dem Amt zur Genehmigung einzureichen.
 
+**11**
+
+- 1\. 4. 26 - 132
+
 ### D. Überbetriebliche Kurse und vergleichbare dritte Lernorte
 
 #### § 41
@@ -509,10 +542,6 @@ Zum Besuch der überbetrieblichen Kurse sind Lernende ohne Lehrvertrag berechtig
 - c. die personellen Voraussetzungen für die Ausbildung und die Mitwirkung im Qualifikationsverfahren erfüllt sind.
 
 <sup>2</sup> Eine Befreiung gemäss Abs. 1 begründet keinen Anspruch auf Ausrichtung von Staatsbeiträgen. Der Kanton kann nach Absprache mit der Organisation der Arbeitswelt gemäss § 41 Abs.1 Staatsbeiträge leisten, wenn mit der Befreiung nicht auf ein Kursangebot verzichtet wird, für dessen Bereitstellung der Kanton bereits Beiträge zugesichert oder geleistet hat.
-
-**11**
-
-- 1\. 10. 14 - 86
 
 ### E. Berufsmaturitätsunterricht
 
@@ -554,11 +583,11 @@ Der Besuch des Berufsmaturitätsunterrichts setzt genügende Leistungen im Betri
 
 <sup>3</sup> Als Mitglied einer Prüfungskommission ist wählbar, wer die Anforderungen an Berufsbildungsverantwortliche erfüllt und vorzugsweise über Erfahrungen als Prüfungsexpertin oder Prüfungsexperte verfügt. Das Amt kann Ausnahmen gestatten.
 
-#### § 47
+**13**
+
+- 1\. 4. 26 - 132 § 47. <sup>1</sup> Als Prüfungsexpertin oder Prüfungsexperte ist wählbar, wer die Anforderungen an Berufsbildungsverantwortliche erfüllt.
 
 **Prüfungsexpertinnen und -experten**
-
-<sup>1</sup> Als Prüfungsexpertin oder Prüfungsexperte ist wählbar, wer die Anforderungen an Berufsbildungsverantwortliche erfüllt.
 
 <sup>2</sup> Die Prüfungsexpertinnen und Prüfungsexperten sind verpflichtet, Schulungs- und Instruktionsveranstaltungen des Bundes, des Amtes und der Prüfungskommission zu besuchen.
 
@@ -602,10 +631,6 @@ Für Personen, die weder über ein eidgenössisches Fähigkeitszeugnis oder eidg
 
 §§ 52 und 53.<sup>8</sup>
 
-**13**
-
-- 1\. 10. 14 - 86
-
 ### 3.<sup>7</sup> Teil: Rechtspflege
 
 **Einsprache**
@@ -648,6 +673,6 @@ Diese Verordnung tritt auf Beginn des Schuljahres 2009/ 2010 (17. August 2009) i
 
 <sup>10</sup> Fassung gemäss RRB vom 30. April 2014 (OS 69, 311; ABl 2014-05-09). In Kraft seit 18. August 2014.
 
-**15**
+<sup>11</sup> Eingefügt durch RRB vom 24. September 2025 (OS 81, 94; ABl 2025-10-10). In Kraft seit 1. April 2026.
 
-- 1\. 10. 14 - 86
+<sup>12</sup> Fassung gemäss RRB vom 24. September 2025 (OS 81, 94; ABl 2025-10-10). In Kraft seit 1. April 2026.
