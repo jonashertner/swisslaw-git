@@ -3,20 +3,19 @@ canton: SG
 number: "141.81"
 title: Verordnung über die Raumnutzung im Regierungsgebäude
 language: de
-version: 2025-05-01
-valid_until: 2026-03-31
-version_adopted: 2025-03-18
+version: 2026-04-01
+version_adopted: 2026-02-24
 adopted: 2011-09-20
 in_force: 2012-01-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/141.81"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3762/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3884/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die Raumnutzung im Regierungsgebäude
 
-vom 20.09.2011 (Stand 01.05.2025)
+vom 20.09.2011 (Stand 01.04.2026)
 
 Die Regierung des Kantons St.Gallen
 
@@ -47,28 +46,36 @@ als Verordnung:[^ingress-1]
 
 #### Art. 2
 
-**Persönlicher Geltungsbereich**
+**…**
 
-<sup>1</sup> Dieser Erlass wird auf natürliche Personen sowie auf juristische Personen des privaten und des öffentlichen Rechts angewendet.
+#### Art. 2a
 
-<sup>2</sup> Er wird nicht angewendet auf:
+**Nutzende**
 
-- a) den Kantonsrat und dessen Organe sowie die Parlamentsdienste;
-- b) die Regierung sowie dieser nachgeordnete Behörden und Dienststellen;
-- c) das Kantonsgericht und das Verwaltungsgericht;
-- d) selbständige öffentlich-rechtliche Anstalten, soweit diese die Räume für Veranstaltungen nutzen, die für die Teilnehmenden kostenlos sind;
-- e) Organe und Behörden der öffentlich-rechtlich anerkannten Religionsgemeinschaften des Kantons St.Gallen.
+<sup>1</sup> Nutzende nach diesem Erlass sind:
 
-<sup>3</sup> Er wird auf Mitglieder oder Mitarbeitende von den in Abs. 2 dieser Bestimmung genannten Organen, Behörden und Dienststellen sowie Gerichten und selbständigen öffentlich-rechtlichen Anstalten angewendet, wenn diese die Räume in privater Eigenschaft nutzen.
+- a) der Kantonsrat und seine Organe, die Regierung sowie die Organe der als öffentlich-rechtliche Körperschaften anerkannten Religionsgemeinschaften;
+- b) interne Nutzende:
+  - 1\. der Regierung nachgeordnete Behörden und Dienststellen;
+  - 2\. Parlamentsdienste;
+  - 3\. kantonale Gerichte und andere Justizbehörden;
+  - 4\. Finanzkontrolle;
+  - 5\. Fachstelle für Datenschutz;
+- c) selbständige öffentlich-rechtliche Anstalten, soweit diese die Räume für Veranstaltungen nutzen, die für die Teilnehmenden kostenlos sind;
+- d) externe Nutzende, insbesondere:
+  - 1\. öffentlich-rechtliche Körperschaften und selbständige öffentlich-rechtliche Anstalten, soweit sie nicht unter Bst. a–c dieser Bestimmung fallen;
+  - 2\. Private.
+
+<sup>2</sup> Nutzen Mitglieder oder Mitarbeitende der in Abs. 1 Bst. a–c dieser Bestimmung genannten Nutzenden die Räume in privater Eigenschaft, gelten sie als externe Nutzende.
 
 #### Art. 3
 
 **Nutzungsberechtigte Personen**
 
-<sup>1</sup> Nutzungsberechtigte Personen nach diesem Erlass sind:
+<sup>1</sup> Nutzungsberechtigte Personen sind die nach Erteilung der Bewilligung zur Nutzung von Räumen im Regierungsgebäude zugelassenen Personen. Sie handeln für die oder den jeweiligen Nutzenden.
 
-- a) die vom persönlichen Geltungsbereich nach Art. 2 dieses Erlasses erfassten Personen;
-- b) die nach Erteilung der Bewilligung zur Nutzung von Räumen im Regierungsgebäude zugelassenen Personen.
+- a) …
+- b) …
 
 ### 2. Nutzung
 
@@ -76,7 +83,7 @@ als Verordnung:[^ingress-1]
 
 **Umfang**
 
-<sup>1</sup> Nutzungsberechtigte Personen können Räume benutzen, soweit diese nicht für Bedürfnisse des Kantonsrates, der Regierung sowie dieser nachgeordneten Behörden und Dienststellen oder der Parlamente von Katholischem Konfessionsteil und Evangelischer Kirche benötigt werden.
+<sup>1</sup> Soweit Räume nicht für Bedürfnisse des Kantonsrates und seiner Organe, der Regierung oder der Parlamente von Katholischem Konfessionsteil und Evangelischer Kirche benötigt werden, stehen sie anderen Nutzenden zur Verfügung.
 
 <sup>2</sup> Ein Rechtsanspruch auf Nutzung der Räume besteht nicht.
 
@@ -112,7 +119,7 @@ als Verordnung:[^ingress-1]
 
 <sup>1</sup> Kantonsratssaal und Ratsstübli stehen für Veranstaltungen mit politischem, kulturellem, sozialem oder wirtschaftlichem Bezug zum Kanton zur Verfügung.
 
-<sup>2</sup> Das Ratsstübli kann von nutzungsberechtigten Personen gemeinsam mit dem Kantonsratssaal benutzt werden. Eine ausschliesslich auf das Ratsstübli beschränkte Nutzung ist ausgeschlossen.
+<sup>2</sup> Das Ratsstübli kann von Nutzenden gemeinsam mit dem Kantonsratssaal benutzt werden. Eine ausschliesslich auf das Ratsstübli beschränkte Nutzung ist ausgeschlossen.
 
 #### Art. 8
 
@@ -126,7 +133,7 @@ als Verordnung:[^ingress-1]
 - c) das Sitzungszimmer Nr. 308;
 - d) das Sitzungszimmer Nr. 310;
 - e) …
-- f) das Botschafterzimmer Nr. 315.
+- f) …
 
 <sup>2</sup> Die Sitzungszimmer stehen gemeinsam mit der Nutzung eines anderen Raums oder separat für Sitzungen, Besprechungen, Zusammenkünfte von Projekt- und Arbeitsgruppen zur Verfügung.
 
@@ -134,7 +141,7 @@ als Verordnung:[^ingress-1]
 
 **Bewirtung**
 
-<sup>1</sup> Die Bewirtung im Pfalzkeller sowie im Forum des Pfalzkellers und im Hofkeller erfolgt durch die von der Staatskanzlei bezeichneten Catering-Unternehmen. Im Pfalzkeller sowie im Forum des Pfalzkellers kann die nutzungsberechtigte Person in Absprache mit der Raumnutzung der Staatskanzlei ein anderes Catering-Unternehmen oder andere Private mit der Bewirtung beauftragen oder die Bewirtung selbst besorgen.
+<sup>1</sup> Für die Bewirtung im Pfalzkeller sowie im Forum des Pfalzkellers und im Hofkeller kann die nutzungsberechtigte Person in Absprache mit der Raumnutzung der Staatskanzlei ein Catering-Unternehmen oder andere Private mit der Bewirtung beauftragen oder die Bewirtung selbst besorgen.
 
 <sup>2</sup> Die Bewirtung im Ratsstübli und in den Sitzungszimmern erfolgt in Absprache mit der Raumnutzung der Staatskanzlei.
 
@@ -158,7 +165,8 @@ als Verordnung:[^ingress-1]
 - b) Zeitpunkt und Dauer der Veranstaltung;
 - c) Anzahl beteiligter oder erwarteter Personen;
 - d) verantwortliche, für den Verkehr mit der Staatskanzlei zuständige Person;
-- e) allfällige Bewirtung und damit verbundene Informationen.
+- e) allfällige Bewirtung und damit verbundene Informationen;
+- f) allfällige Foto- oder Filmaufnahmen, die nicht ausschliesslich der privaten Verwendung dienen.
 
 <sup>2</sup> Die Raumnutzung der Staatskanzlei kann weitere Angaben verlangen.
 
@@ -168,7 +176,7 @@ als Verordnung:[^ingress-1]
 
 <sup>1</sup> Die Staatskanzlei:
 
-- a) erteilt die Nutzungsbewilligung;
+- a) erteilt die Nutzungsbewilligung. Bei Foto- oder Filmaufnahmen nach [Art. 11](https://www.gesetzessammlung.sg.ch/data/141.81/de/art11) Abs. 1 Bst. f dieses Erlasses, die den Kantonsratssaal betreffen, spricht sie sich mit den Parlamentsdiensten ab;
 - b) kann Auflagen und Bedingungen festlegen;
 - c) setzt die Nutzungsentschädigung fest.
 
@@ -216,13 +224,13 @@ als Verordnung:[^ingress-1]
 
 **Benützungsgebühr a) Ansätze**
 
-<sup>1</sup> Die Benützungsgebühr beträgt für:
+<sup>1</sup> Bei externen Nutzenden beträgt die Benützungsgebühr einschliesslich Einrichten und Reinigung der Räume für:
 
-- a) den Pfalzkeller: halber Tag Fr. 750.–, ganzer Tag Fr. 1200.–
-- b) das Forum des Pfalzkellers: halber Tag Fr. 600.–, ganzer Tag Fr. 900.–
-- c) den Pfalzkeller mit Forum: halber Tag Fr. 1200.–, ganzer Tag Fr. 1800.–
-- d) den Hofkeller: halber Tag Fr. 500.–, ganzer Tag Fr. 800.–
-- e) den Kantonsratssaal: halber Tag Fr. 900.–, ganzer Tag Fr. 1400.–
+- a) den Pfalzkeller: halber Tag Fr. 900.–, ganzer Tag Fr. 1400.–
+- b) das Forum des Pfalzkellers: halber Tag Fr. 800.–, ganzer Tag Fr. 1100.–
+- c) den Pfalzkeller mit Forum: halber Tag Fr. 1500.–, ganzer Tag Fr. 2100.–
+- d) den Hofkeller: halber Tag Fr. 700.–, ganzer Tag Fr. 1000.–
+- e) den Kantonsratssaal: halber Tag Fr. 1100.–, ganzer Tag Fr. 1600.–
 - f) das Sitzungszimmer:
   - 1\. Nummer 200 (Tafelzimmer): halber Tag Fr. 300.–, ganzer Tag Fr. 500.–
   - 2\. Nummer 215 a (Lesezimmer): halber Tag Fr. 110.–, ganzer Tag Fr. 150.–
@@ -230,19 +238,30 @@ als Verordnung:[^ingress-1]
   - 3\. Nummer 308: halber Tag Fr. 110.–, ganzer Tag Fr. 150.–
   - 4\. Nummer 310: halber Tag Fr. 110.–, ganzer Tag Fr. 150.–
   - 5\. …
-  - 6\. Nummer 315 (Botschafterzimmer): halber Tag Fr. 200.–, ganzer Tag Fr. 400.–
+  - 6\. …
+
+<sup>1<sup>bis</sup></sup> Bei selbständigen öffentlich-rechtlichen Anstalten, soweit diese die Räume für Veranstaltungen nutzen, die für die Teilnehmenden kostenlos sind, beträgt die Benützungsgebühr die Hälfte der Ansätze für externe Nutzende.
+
+<sup>1<sup>ter</sup></sup> Bei internen Nutzenden:
+
+- a) beträgt die Benützungsgebühr für Räume nach Abs. 1 Bst. a–e dieser Bestimmung Fr. 300.– je Raum und Tag. Der Pfalzkeller und das Forum des Pfalzkellers gelten als zwei Räume;
+- b) wird keine Benützungsgebühr für Sitzungszimmer erhoben.
 
 <sup>2</sup> Die Benützungsgebühr wird zusätzlich für die Tage oder die halben Tage, die für die Bereitstellung der Räume sowie für den Auf- und Abbau von Einrichtungen benötigt werden, entrichtet.
+
+<sup>3</sup> Bei ausserordentlichem Aufwand für das Einrichten oder die Reinigung der Räume kann die Staatskanzlei die Benützungsgebühr nach Abs. 1 ff. dieser Bestimmung erhöhen. Die Erhöhung entspricht höchstens den tatsächlichen Kosten des ausserordentlichen Aufwands.
+
+<sup>4</sup> Bei Nutzenden nach [Art. 2a](https://www.gesetzessammlung.sg.ch/data/141.81/de/art2a) Abs. 1 Bst. a dieses Erlasses wird keine Benützungsgebühr erhoben.
 
 #### Art. 18
 
 **b) Ermässigung**
 
-<sup>1</sup> Die Benützungsgebühr wird bei länger dauernder, zusammenhängender Nutzung ermässigt um:
+<sup>1</sup> Die gesamte Benützungsgebühr wird bei länger dauernder, zusammenhängender Nutzung ermässigt um 10 Prozent ab drei Tagen.
 
-- a) 5 Prozent bei zwei Tagen;
-- b) 10 Prozent bei drei Tagen;
-- c) 15 Prozent ab vier Tagen.
+- a) …
+- b) …
+- c) …
 
 #### Art. 19
 
@@ -256,13 +275,11 @@ als Verordnung:[^ingress-1]
 - d) der politischen Meinungsbildung der Allgemeinheit dient;
 - e) von militärischen Organisationen sowie von Organisationen des Bevölkerungsschutzes durchgeführt wird und der Wissensvermittlung oder dem Erfahrungsaustausch dient.
 
+<sup>2</sup> In Fällen, in denen nach Abs. 1 dieser Bestimmung auf die Erhebung der Benützungsgebühr verzichtet wird, wird den Nutzenden für Räume nach [Art. 17](https://www.gesetzessammlung.sg.ch/data/141.81/de/art17) Abs. 1 Bst. a–e dieses Erlasses eine Pauschale für das Einrichten und die Reinigung der Räume in Höhe von Fr. 200.– je Raum in Rechnung gestellt. Der Pfalzkeller und das Forum des Pfalzkellers gelten als zwei Räume.
+
 #### Art. 20
 
-**Bereitstellungsgebühr**
-
-<sup>1</sup> Die Bereitstellungsgebühr wird für das Einrichten der Räume sowie deren Reinigung und den Einsatz von Hilfspersonal während der Veranstaltung entrichtet.
-
-<sup>2</sup> Sie entspricht den tatsächlichen Kosten.
+**…**
 
 #### Art. 21
 
@@ -279,13 +296,19 @@ als Verordnung:[^ingress-1]
 - a) 50 Prozent der Benützungsgebühr bei Annullierung zwischen dem 60. und dem 15. Tag vor Veranstaltungsbeginn;
 - b) 100 Prozent der Benützungsgebühr ab dem 14. Tag vor Veranstaltungsbeginn.
 
-<sup>3</sup> Zusätzlich werden die tatsächlichen Sach- und Personalkosten, die der Raumnutzung der Staatskanzlei bei der Vorbereitung der Veranstaltung entstanden sind, ersetzt.
+<sup>3</sup> …
 
 #### Art. 23
 
 **Mehrwertsteuer**
 
 <sup>1</sup> Für die Erhebung der Nutzungsgebühren bleiben die Bestimmungen der Bundesgesetzgebung über die Mehrwertsteuer vorbehalten.
+
+#### Art. 23a
+
+**Vereinbarungen mit als öffentlich-rechtliche Körperschaften anerkannten Religionsgemeinschaften oder externen Nutzenden**
+
+<sup>1</sup> Die Staatskanzlei kann mit als öffentlich-rechtliche Körperschaften anerkannten Religionsgemeinschaften, soweit sie nicht unter [Art. 2a](https://www.gesetzessammlung.sg.ch/data/141.81/de/art2a) Abs. 1 Bst. a dieses Erlasses fallen, oder externen Nutzenden vergünstigte Konditionen oder einen Verzicht auf die Erhebung von Gebühren für die Raumnutzung vereinbaren, wenn die andere Partei dem Kanton für die Nutzung ihrer Räumlichkeiten vergleichbare Konditionen gewährt.
 
 ## V. Schlussbestimmungen
 
@@ -300,6 +323,12 @@ als Verordnung:[^ingress-1]
 **Übergangsbestimmung**
 
 <sup>1</sup> Die bei Vollzugsbeginn dieses Erlasses hängigen Gesuche um Nutzung von Räumen im Regierungsgebäude werden nach der bisherigen Regelung behandelt.
+
+#### Art. 25a
+
+**Übergangsbestimmung des III. Nachtrags vom 24. Februar 2026**
+
+<sup>1</sup> Die bei Vollzugsbeginn dieses Nachtrags hängigen Gesuche um Nutzung von Räumen im Regierungsgebäude werden nach der bisherigen Regelung behandelt.
 
 #### Art. 26
 
