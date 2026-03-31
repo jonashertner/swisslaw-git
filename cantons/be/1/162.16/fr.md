@@ -1,25 +1,24 @@
 ---
 canton: BE
 number: "162.16"
-title: "Règlement sur la gestion des archives des tribunaux civils et pénaux de première instance et d’instance supérieure du canton de Berne *"
-short: RArch JCP
+title: "Règlement sur la conservation des documents des tribunaux civils et pénaux de première instance et d'instance supérieure *"
+short: "Règlement sur la conservation, RC JCP"
 language: fr
-version: 2023-06-01
-valid_until: 2026-03-31
-version_adopted: 2023-02-14
+version: 2026-04-01
+version_adopted: 2026-01-19
 adopted: 2010-11-29
 in_force: 2011-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/162.16"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2832/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3353/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
 
-# Règlement sur la gestion des archives des tribunaux civils et pénaux de première instance et d’instance supérieure du canton de Berne
+# Règlement sur la conservation des documents des tribunaux civils et pénaux de première instance et d'instance supérieure
 
-(RArch JCP)
+(Règlement sur la conservation, RC JCP)
 
-du 29.11.2010 (état au 01.06.2023)
+du 29.11.2010 (état au 01.04.2026)
 
 La Cour suprême du canton de Berne,
 
@@ -27,7 +26,7 @@ vu l’article 12, alinéa 1 de la loi du 31 mars 2009 sur l’archivage (LArch)
 
 arrête:
 
-[^ingress-1]: RSB 108.1
+[^ingress-1]: RSB [108.1](https://www.belex.sites.be.ch/data/108.1/fr)
 
 ## 1 Généralités
 
@@ -35,7 +34,7 @@ arrête:
 
 **Champ d’application**
 
-<sup>1</sup> Le présent règlement règle la conservation et le versement des documents de la Cour suprême, du Tribunal cantonal des mesures de contrainte dans la mesure où des affaires pénales sont concernées, du Tribunal pénal économique, du Tribunal des mineurs, des tribunaux régionaux, des tribunaux régionaux des mesures de contrainte ainsi que des autorités régionales de conciliation.
+<sup>1</sup> Le présent règlement règle l’organisation, la gestion et la conservation ainsi que le versement des documents de la Cour suprême, du Tribunal cantonal des mesures de contrainte dans la mesure où des affaires pénales sont concernées, du Tribunal pénal économique, du Tribunal des mineurs, des tribunaux régionaux, des tribunaux régionaux des mesures de contrainte ainsi que des autorités régionales de conciliation.
 
 <sup>2</sup> La conservation des données du droit du personnel est régie par la législation sur le personnel.
 
@@ -43,20 +42,11 @@ arrête:
 
 **Définitions**
 
-<sup>1</sup> Par documents il est entendu toute information enregistrée sur quelque support que ce soit, ainsi que tous les outils et toutes les données complémentaires qui sont nécessaires à la compréhension et à l’utilisation de ces informations.
+<sup>1</sup> Les définitions figurant à l'article 3 LArch et à l'article 3 de l'ordonnance du 4 novembre 2009 sur l'archivage (OArch)[^2-1] s'appliquent.
 
-<sup>2</sup> Les supports sont tous les matériaux utilisés pour l’enregistrement ou la reproduction d’informations sous forme analogique ou numérique.
+<sup>2–4</sup> …
 
-<sup>3</sup> Les instruments de recherche sont les outils nécessaires pour trouver, consulter et comprendre les documents, comme les inventaires, les répertoires, les fichiers, les listes et les tableaux sommaires, sur support physique ou électronique. Ils fournissent les renseignements complémentaires suivants sur les données primaires:
-
-- a structure (division, présentation, formation, etc.),
-- b contexte de traitement (personnes, services impliqués, périphériques de sortie, transactions, etc.),
-- c indications sur le contenu.
-
-<sup>4</sup> Les documents électroniques sont
-
-- a les sous-produits, les produits dérivés ou les produits finis issus de processus de traitement électroniques, dont le support peut être numérique ou analogique;
-- b les documents accessibles exclusivement sous forme numérique et lisibles uniquement à l’aide d’outils électroniques (documents numériques).
+[^2-1]: RSB [108.111](https://www.belex.sites.be.ch/data/108.111/fr)
 
 ## 2 Conservation des documents et gestion de l’archivage
 
@@ -64,55 +54,58 @@ arrête:
 
 **Obligation de conservation**
 
-<sup>1</sup> Les autorités de l’article 1, alinéa 1 conservent leurs dossiers de procédure de manière exhaustive et collectent, classent et conservent les autres documents de manière à rendre compte en tout temps des processus essentiels et du résultat de leurs activités et de permettre de les vérifier.
+<sup>1</sup> Les autorités de l’article 1, alinéa 1 conservent leurs dossiers de procédure de manière exhaustive et sauvegardent, classent et conservent les autres documents de manière à rendre compte en tout temps des processus essentiels et du résultat de leurs activités et de permettre de les vérifier.
 
 #### Art. 4
 
 **Valeur archivistique**
 
-<sup>1</sup> Sont réputés avoir une valeur archivistique les documents qui ont une valeur durable
+<sup>1</sup> Sont réputés avoir une valeur archivistique les documents qui ont une valeur informative importante et durable
 
 - a pour la jurisprudence,
 - b pour la documentation de l’activité et de l’organisation des autorités,
 - c pour la compréhension du présent et de l’histoire ou
 - d pour la science et pour la recherche.
 
-<sup>2</sup> Les documents pour lesquels la conservation durable est prescrite sont réputés avoir une valeur archivistique.
+<sup>2–3</sup> …
 
-<sup>3</sup> Les documents pour lesquels il existe un délai d’archivage limité ne sont en principe pas réputés avoir une valeur archivistique, sauf s’ils sont évalués dans le cas concret comme en ayant une.
+<sup>4</sup> Les documents jugés sans valeur archivistique doivent être détruits à l’expiration du délai de conservation, dans le respect de la législation sur la protection des données.
 
 #### Art. 5
 
-**Plans de classement**
+**Systèmes de classement**
 
-<sup>1</sup> Chaque autorité selon l’article 1, alinéa 1 dresse et tient à jour un plan de classement de ses documents. Elle archive ses documents selon ce classement.
+<sup>1</sup> Chaque autorité selon l’article 1, alinéa 1 dresse et tient à jour un système de classement. Elle archive ses documents conformément à ce système.
 
-<sup>2</sup> Les plans de classement fixent
+<sup>2</sup> Les systèmes de classement contiennent
 
 - a le cadre de classement des documents,
-- b les prescriptions relatives à la gestion des documents,
+- b …
 - c les délais de conservation,
-- d une proposition pour l’évaluation de la valeur archivistique compte tenu de la reprise des documents par les Archives de l’Etat.
+- d des indications pour l’évaluation des documents,
+- e d’autres métadonnées.
 
-<sup>3</sup> Le cadre de classement des documents doit être aussi simple que possible, clair et adéquat.
+<sup>3</sup> La systématique pour le classement des documents reflète toutes les tâches de l’autorité. Elle doit être aussi simple, claire et adéquate que possible.
 
 #### Art. 6
 
 **Coordination avec les Archives de l’Etat**
 
-<sup>1</sup> Les autorités selon l’article 1, alinéa 1 s’accordent avec les Archives de l’Etat lors de l’élaboration de leurs plans de classement et de leurs instruments de recherche afin que les Archives de l’Etat puissent ensuite autant que possible les reprendre intégralement et les utiliser pour trouver les documents.
+<sup>1</sup> Lors de la première élaboration, les autorités selon l’article 1, alinéa 1 soumettent leurs systèmes de classement aux Archives de l’Etat pour examen et approbation. Les modifications apportées aux systèmes de classement sont soumises aux Archives de l’Etat périodiquement ou selon les instructions de celles-ci pour un contrôle continu.
 
 #### Art. 7
 
-**Archives courantes et sécurisation**
+**Sécurisation et conservation**
 
-<sup>1</sup> Lors de l’établissement, de l’administration et de la conservation de leurs documents, les autorités selon l’article 1, alinéa 1 s’assurent que
+<sup>1</sup> Lors de la conservation de documents analogiques et numériques, l’autorité compétente s’assure que la confidentialité, l’intégrité, la disponibilité et la traçabilité des documents sont garanties par des mesures techniques et organisationnelles appropriées. Les principes de la législation sur la sécurité de l’information s’appliquent par analogie.
 
-- a les supports, les encres et les autres outils utilisés résistent au temps et offrent la garantie d’une durée de vie suffisante qui correspond au minimum aux délais de conservation en vigueur;
-- b les dépôts d’archives ferment à clé et que les documents sont protégés des effets nuisibles du feu, de la poussière, de l’humidité, des nuisibles et de l’exposition au soleil;
+<sup>1a</sup> Dans le cas de documents analogiques, l’autorité responsable de la gestion des archives courantes s’assure que
+
+- a les supports, les encres et les autres outils utilisés résistent au temps et offrent la garantie d’une durée de vie suffisante;
+- b les dépôts d’archives ferment à clé et que les documents sont protégés des effets nuisibles du feu, de l'eau, de la saleté, de l’humidité, de l’exposition au soleil et des nuisibles;
 - c les personnes non autorisées n’ont pas accès aux documents.
 
-<sup>2</sup> Chaque autorité selon l’article 1, alinéa 1 désigne une personne responsable de la gestion des archives courantes.
+<sup>2</sup> Chaque autorité selon l’article 1, alinéa 1 détermine à qui incombe la sauvegarde et la conservation des documents.
 
 <sup>3</sup> La personne responsable est l’interlocutrice pour tout ce qui touche à la gestion des archives.
 
@@ -120,11 +113,11 @@ arrête:
 
 #### Art. 8
 
-**Début de l’archivage**
+**Début de la conservation**
 
-<sup>1</sup> L’archivage des dossiers en matière civile et pénale a lieu une fois la procédure close. Une procédure est close lorsqu’elle a acquis force de chose jugée formelle.
+<sup>1</sup> La conservation des dossiers en matière civile et pénale a lieu une fois la procédure close. Une procédure est close lorsqu’elle a acquis force de chose jugée formelle.
 
-<sup>2</sup> L’archivage d’autres documents considérés comme étant dignes d’être conservés provisoirement ou durablement a lieu une fois que l’affaire concernée est terminée.
+<sup>2</sup> La conservation d’autres documents a lieu une fois que l’affaire concernée est terminée.
 
 #### Art. 9
 
@@ -134,23 +127,23 @@ arrête:
 
 **Dossiers de l’administration judiciaire**
 
-<sup>1</sup> Les dossiers de l’administration judiciaire sont conservés pendant dix ans après la clôture de l’affaire. lls ne doivent pas être proposés aux Archives de l’Etat.
+<sup>1</sup> Les dossiers de l’administration judiciaire sont conservés pendant dix ans après la clôture de l’affaire.
 
 <sup>2</sup> Les documents concernant les examens d’avocat sont conservés pendant cinq ans.
 
-<sup>3</sup> Les décisions, les arrêts et les procès-verbaux sont en plus conservés durablement dans des recueils physiques ou électroniques.
+<sup>3</sup> Les décisions, les arrêts et les procès-verbaux sont en plus conservés dans des recueils physiques ou numériques.
 
 #### Art. 11
 
 **Dossiers de la Cour suprême**
 
-<sup>1</sup> Les dossiers de procédure de la Cour suprême sont conservés pendant dix ans à partir de l’entrée en force de chose jugée. Ils sont ensuite versés aux Archives de l’Etat en vue d’une conservation durable.
+<sup>1</sup> Les dossiers de procédure de la Cour suprême sont conservés pendant dix ans à partir de l’entrée en force de chose jugée. Ils sont ensuite versés aux Archives de l’Etat.
 
 #### Art. 12
 
 **Dossiers des autorités de conciliation et des tribunaux civils de première instance**
 
-<sup>1</sup> Les délais suivants sont applicables aux dossiers des tribunaux civils de première instance:
+<sup>1</sup> Les délais de conservation suivants sont applicables aux dossiers des tribunaux civils de première instance:
 
 - a procédure de conciliation:
   - 1 conciliation, autorisation de procéder, proposition de jugement: 5 ans
@@ -169,14 +162,14 @@ arrête:
   - 2 retrait en procédure de faillite: 2 ans
   - 3 autorisations de séquestre: 2 ans
   - 4 sursis concordataires: 40 ans
-  - 5 interdiction judiciaire: durablement
+  - 5 interdiction judiciaire: 10 ans
 - e commissions rogatoires: 10 ans
 
 #### Art. 13
 
 **Dossiers des tribunaux pénaux de première instance**
 
-<sup>1</sup> Les délais suivants sont applicables aux dossiers des tribunaux pénaux de première instance:
+<sup>1</sup> Les délais de conservation suivants sont applicables aux dossiers des tribunaux pénaux de première instance:
 
 - a dossiers juge unique: 30 ans
 - b dossiers tribunal collégial: 50 ans
@@ -188,11 +181,11 @@ arrête:
 
 #### Art. 13a
 
-**Conservation durable**
+**Contrôles des affaires et recueil de jugements**
 
-<sup>1</sup> Les contrôles des affaires sont conservés durablement sur support physique ou électronique.
+<sup>1</sup> Les contrôles des affaires sont conservés sur support physique ou numérique.
 
-<sup>2</sup> Les jugements et les décisions mettant fin au procès de la Cour suprême, y compris les motifs, sont conservés durablement dans un recueil de jugements.
+<sup>2</sup> Les jugements et les décisions mettant fin au procès de la Cour suprême, y compris les motifs, sont conservés dans un recueil de jugements.
 
 <sup>3</sup> …
 
@@ -204,9 +197,11 @@ arrête:
 
 **Dossiers de la Cour suprême**
 
-<sup>1</sup> La Cour suprême verse aux Archives de l’Etat en vue d’une conservation durable tous les documents qu’elle doit conserver selon les articles 11 et 13a, après l’écoulement de dix ans suivant l’entrée en force de chose jugée.
+<sup>1</sup> La Cour suprême verse aux Archives de l’Etat, pour archivage, tous les documents qu’elle doit conserver selon les articles 11 et 13a, après l’écoulement de dix ans suivant l’entrée en force de chose jugée.
 
 <sup>2</sup> Les Archives de l’Etat ne détruisent aucun document sans l’accord de la Cour suprême.
+
+<sup>3</sup> Les Archives de l’Etat règlent les détails de l’obligation de proposition et du versement dans une convention de versement bilatérale contraignante.
 
 #### Art. 15
 
@@ -248,30 +243,35 @@ arrête:
 
 #### Art. 16
 
-**Documents électroniques**
+**Documents issus de systèmes numériques**
 
-<sup>1</sup> Pour l’évaluation des documents électroniques, les autorités selon l’article 1, alinéa 1 consultent les Archives de l’Etat dès la planification de nouveaux systèmes. Elles doivent impliquer de manière adéquate les Archives de l’Etat dans le projet.
+<sup>1</sup> Lorsque des documents ayant une valeur archivistique sont traités dans des systèmes numériques, les Archives de l’Etat doivent être impliquées suffisamment tôt et de manière appropriée dans la planification des systèmes.
 
-<sup>2</sup> Les Archives de l’Etat doivent pouvoir accéder à tous les systèmes dont les données sont soumises à l’obligation de proposition et dont la valeur archivistique doit être évaluée, en particulier à toute la documentation de projet et de système et aux notices d’utilisation, dans la mesure où elles en ont besoin pour accomplir leurs tâches. L’accès par une procédure d’appel est exclu.
+<sup>2</sup> Les Archives de l’Etat ont accès à tous les systèmes dont les données doivent être évaluées quant à leur valeur archivistique, en particulier à toute la documentation de projet et de système et aux notices d’utilisation, dans la mesure où elles en ont besoin pour accomplir leurs tâches. L’accès par une procédure d’appel est exclu.
 
-<sup>3</sup> Si des documents électroniques soumis à l’obligation de proposition sont totalement conservés sur support analogique (papier ou microfilm) et que leur fiabilité est préservée, l’autorité judiciaire responsable peut être libérée de l’obligation de proposer les données contenues dans le système.
+<sup>3</sup> …
+
+<sup>4</sup> Les Archives de l'Etat peuvent prendre en charge des documents numériques sous forme de copies de manière anticipée, en règle générale cinq ans après la clôture de l'affaire (modèle de triage). Elles en fixent les modalités dans une convention de versement.
 
 #### Art. 17
 
 **Versement**
 
-<sup>1</sup> Les documents proposés aux Archives de l’Etat en vue d’un versement doivent être accompagnés de leurs instruments de recherche et d’autres outils éventuels. Les autorités judiciaires conviennent au cas par cas avec les Archives de l’Etat de dispositions dérogeant à cette règle.
+<sup>1</sup> Lors du versement de documents analogiques, il doit être proposé aux Archives de l’Etat, avec les documents, les instruments de recherche correspondants et d’autres outils éventuels pour le versement. Les autorités judiciaires conviennent au cas par cas avec les Archives de l’Etat de dispositions dérogeant à cette règle.
 
 <sup>2</sup> Un inventaire des documents versés est joint au versement. Il contient les informations suivantes:
 
 - a contenu des documents décrit de manière concise,
-- b indication quant aux données personnelles.
+- b indication quant aux données personnelles,
+- c durées de vie des séries de documents versés.
 
 <sup>3</sup> Les autorités soumises à l’obligation de proposer leurs documents sont responsables du transfert de leurs archives.
 
 <sup>4</sup> Les Archives de l’Etat rédigent un bordereau de versement servant de reçu à l’autorité versante.
 
 <sup>5</sup> Les autorités judiciaires se mettent d’accord avec les Archives de l’Etat concernant les détails du versement.
+
+<sup>6</sup> Les alinéas 1 à 5 s’appliquent par analogie au versement de documents numériques.
 
 ## 5 Dispositions transitoires et dispositions finales
 
