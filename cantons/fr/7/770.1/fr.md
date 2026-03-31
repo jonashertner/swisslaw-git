@@ -4,13 +4,12 @@ number: "770.1"
 title: "Loi sur l'énergie"
 short: LEn
 language: fr
-version: 2023-06-01
-valid_until: 2026-03-31
-version_adopted: 2023-02-10
+version: 2026-04-01
+version_adopted: 2026-02-11
 adopted: 2000-06-09
 in_force: 2000-10-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/770.1"
-pdf: "https://bdlf.fr.ch/api/fr/versions/7755/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/8492/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +20,7 @@ Energie – L
 
 (LEn)
 
-du 09.06.2000 (version entrée en vigueur le 01.06.2023)
+du 09.06.2000 (version entrée en vigueur le 01.04.2026)
 
 Le Grand Conseil du canton de Fribourg
 
@@ -176,6 +175,22 @@ Décrète:
 <sup>2</sup> A cet effet, il est habilité à demander les renseignements et documents nécessaires.
 
 <sup>3</sup> Les collaborateurs du Service et les personnes mandatées par lui sont tenus d'observer les règles découlant du secret de fonction et de la protection des données; le secret de fabrication et le secret d'affaires sont garantis dans tous les cas.
+
+#### Art. 10a
+
+**Informations sur les réseaux thermiques**
+
+<sup>1</sup> Les gestionnaires des réseaux thermiques, sis sur le territoire cantonal et alimentant plus de cinq bâtiments, ont l'obligation de tenir à jour les informations suivantes:
+
+- a) la quantité d'énergie thermique finale fournie au réseau interconnecté ou en passe de l'être;
+- b) le pourcentage de cette énergie alimenté par des énergies renouvelables, des rejets de chaleur ou des énergies fossiles;
+- c) les agents énergétiques utilisés;
+- d) les lieux de production;
+- e) le nombre de raccordements par réseau.
+
+<sup>2</sup> Ils rendent publiques ces informations de l'année précédente, au plus tard le 30 juin de l'année civile en cours.
+
+<sup>3</sup> Ils fournissent sans frais ces informations, propres aux consommateurs finaux et tenant compte des termes contractuels respectifs, au moment de la facturation.
 
 ## 3 Utilisation rationnelle et économe de l'énergie
 

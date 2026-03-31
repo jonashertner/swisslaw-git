@@ -4,13 +4,12 @@ number: "770.1"
 title: Energiegesetz
 short: EnGe
 language: de
-version: 2023-06-01
-valid_until: 2026-03-31
-version_adopted: 2023-02-10
+version: 2026-04-01
+version_adopted: 2026-02-11
 adopted: 2000-06-09
 in_force: 2000-10-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/770.1"
-pdf: "https://bdlf.fr.ch/api/de/versions/7755/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/8492/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ Energiegesetz
 
 (EnGe)
 
-vom 09.06.2000 (Fassung in Kraft getreten am 01.06.2023)
+vom 09.06.2000 (Fassung in Kraft getreten am 01.04.2026)
 
 Der Grosse Rat des Kantons Freiburg
 
@@ -176,6 +175,22 @@ beschliesst:
 <sup>2</sup> Zu diesem Zweck kann es die nötigen Auskünfte und Dokumente verlangen.
 
 <sup>3</sup> Die Mitarbeiterinnen und Mitarbeiter des Amtes und die von diesem beauftragten Personen sind verpflichtet, das Amtsgeheimnis zu wahren und die Regeln des Datenschutzes zu beachten; das Fabrikations- und Geschäftsgeheimnis bleibt in jedem Fall gewahrt.
+
+#### Art. 10a
+
+**Informationen über die thermischen Netze**
+
+<sup>1</sup> Die Betreiber von thermischen Netzen auf dem Kantonsgebiet, die mehr als fünf Gebäude versorgen, sind verpflichtet, folgende Informationen ständig nachzuführen:
+
+- a) die Menge der thermischen Endenergie, die über das bestehende oder demnächst fertiggestellte Verbundnetz geliefert wird;
+- b) den Prozentsatz dieser Energie, der aus erneuerbaren Energiequellen, Abwärme und fossilen Energieträgern stammt;
+- c) die verwendeten Energieträger;
+- d) die Produktionsstandorte;
+- e) die Anzahl der Anschlüsse pro Netz.
+
+<sup>2</sup> Sie veröffentlichen die Informationen des Vorjahres bis zum 30. Juni des laufenden Kalenderjahres.
+
+<sup>3</sup> Sie übermitteln diese Informationen kostenlos jeweils zum Zeitpunkt der Rechnungsstellung für jede Endverbrauchsstelle einzeln gemäss den für diese geltenden Vertragsbedingungen.
 
 ## 3 Rationelle und sparsame Energienutzung
 
