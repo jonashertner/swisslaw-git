@@ -4,13 +4,12 @@ number: 520b
 title: "Statut der Hochschule Luzern, FH Zentralschweiz"
 short: FHZ-Statut
 language: de
-version: 2026-01-01
-valid_until: 2026-03-31
-version_adopted: 2025-04-01
+version: 2026-04-01
+version_adopted: 2026-03-31
 adopted: 2021-08-26
 in_force: 2021-09-01
 url: "https://srl.lu.ch/app/de/texts_of_law/520b"
-pdf: "https://srl.lu.ch/api/de/versions/4568/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4729/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://srl.lu.ch/api/de/versions/4568/pdf_file"
 
 (FHZ-Statut)
 
-vom 26.08.2021 (Stand 01.01.2026)
+vom 26.08.2021 (Stand 01.04.2026)
 
 Der Fachhochschulrat,
 
@@ -398,6 +397,14 @@ beschliesst:
 <sup>1</sup> Die Hochschule Luzern unterhält eine von ihr unabhängige Meldestelle für Hinweise betreffend vermutete oder tatsächliche Verstösse gegen Gesetze und Verordnungen oder andere Unregelmässigkeiten sowie Mängel und Risiken, welche die Hochschule Luzern oder deren Angehörige betreffen.
 
 <sup>2</sup> Der Fachhochschulrat regelt die Einzelheiten zu den Zuständigkeiten und zum Verfahren.
+
+#### Art. 28c
+
+**Assoziierte Institute**
+
+<sup>1</sup> Die Hochschule Luzern kann ein in einem bestimmten Wissenschaftsbereich tätiges Institut einer hochschulexternen Trägerschaft als «assoziiertes Institut» anerkennen.
+
+<sup>2</sup> Der Fachhochschulrat regelt die Anforderungen an assoziierte Institute in einem Reglement.
 
 ## 3 Angehörige der Hochschule Luzern
 
