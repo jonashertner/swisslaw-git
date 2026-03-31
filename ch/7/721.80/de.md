@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 22. Dezember 1916 über die Nutzbarmachung der Wasserkr
 short: WRG
 eli: "https://fedlex.data.admin.ch/eli/cc/33/189_191_191"
 language: de
-version: 2025-08-01
+version: 2026-04-01
 adopted: 1916-12-22
 in_force: 1918-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/33/189_191_191/20250801/de/xml/fedlex-data-admin-ch-eli-cc-33-189_191_191-20250801-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/33/189_191_191/20250801/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/33/189_191_191/20260401/de/xml/fedlex-data-admin-ch-eli-cc-33-189_191_191-20260401-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/33/189_191_191/20260401/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/33/189_191_191/20250801/de"
 
 (Wasserrechtsgesetz, WRG)[^t-1]
 
-vom 22. Dezember 1916 (Stand am 1. August 2025)
+vom 22. Dezember 1916 (Stand am 1. April 2026)
 
 [^t-1]: Eingefügt durch Ziff. I des BG vom 13. Dez. 1996, in Kraft seit 1. Mai 1997 ([AS 1997 991](https://fedlex.data.admin.ch/eli/oc/1997/991_991_991); [BBl 1995 IV 991](https://fedlex.data.admin.ch/eli/fga/1995/4_991_964_903)).
 
@@ -433,10 +433,11 @@ Für die Schiffbarmachung der Gewässer nach Artikel 24 Absatz 2 erstellt der Bu
 
 <sup>3</sup> Im Einvernehmen mit dem Besitzer kann der Bund die Erhebungen nach Absatz 2 durchführen. Soweit sie wegen der Anlage notwendig sind, trägt der Besitzer die Kosten; andernfalls werden diese vom anordnenden Gemeinwesen getragen.
 
-<sup>4</sup> Die im Gewässerschutzgesetz vom 24. Januar 1991[^29-2] vorgesehenen Erhebungen bleiben vorbehalten.
+<sup>4</sup> Die im Gewässerschutzgesetz vom 24. Januar 1991[^29-2] (GSchG)vorgesehenen Erhebungen bleiben vorbehalten.[^29-3]
 
 [^29-1]: Fassung gemäss Ziff. I des BG vom 13. Dez. 1996, in Kraft seit 1. Mai 1997 ([AS 1997 991](https://fedlex.data.admin.ch/eli/oc/1997/991_991_991); [BBl 1995 IV 991](https://fedlex.data.admin.ch/eli/fga/1995/4_991_964_903)).
 [^29-2]: [SR 814.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9477)
+[^29-3]: Fassung gemäss Anhang Ziff. 3 des BG vom 26. Sept. 2025, in Kraft seit 1. April 2026 ([AS 2026 99](https://fedlex.data.admin.ch/eli/oc/2026/99); [BBl 2023 1602](https://fedlex.data.admin.ch/eli/fga/2023/1602)).
 
 ### 2. Statistiken und Untersuchungen
 
@@ -815,6 +816,8 @@ Für die Aufsicht über die Grenzkraftwerke und für Verwaltungsaufwand erhebt d
 
 [^54-1]
 
+<sup>1</sup>
+
 Alle Konzessionen sollen bestimmen:
 
 - a. die Person des Konzessionärs;
@@ -829,7 +832,22 @@ Alle Konzessionen sollen bestimmen:
 - k. das Schicksal der Anlagen beim Ende der Konzession;
 - l. das Schicksal allfälliger Ersatzleistungen an andere Konzessionäre beim Ende von deren Konzessionen.
 
+<sup>2</sup>
+
+Bei Projekten von nationaler Bedeutung sind Zusatzkonzessionen anstelle einer Neukonzessionierung zulässig. Sie beeinflussen die Hauptkonzession bis zum Konzessionsablauf nicht. In der Zusatzkonzession kann das verfügungsberechtigte Gemeinwesen unter anderem gegenüber der Hauptkonzession abweichend festlegen:
+
+- a. die Nutzung von Wasser aus einem anderen Gewässer;
+- b. die Erhöhung der konzedierten Wassermenge;
+- c. die Erhöhung der konzedierten Bruttofallhöhe;
+- d. die Änderung der Art der Nutzung;
+- e. die Erhöhung oder den Bau neuer Staumauern.[^54-2]
+
+<sup>3</sup> Die Zusatzkonzessionen dauern in der Regel gleich lang wie die Hauptkonzession. Insoweit die Zusatzkonzession Auswirkungen im Bereich Schwall und Sunk hat, sind die Anforderungen nach Artikel 39*a* des GSchG[^54-3] erst in der nachgelagerten Sanierung nach Artikel 83*a* GSchG zu erfüllen.[^54-4]
+
 [^54-1]: Fassung gemäss Ziff. I des BG vom 13. Dez. 1996, in Kraft seit 1. Mai 1997 ([AS 1997 991](https://fedlex.data.admin.ch/eli/oc/1997/991_991_991); [BBl 1995 IV 991](https://fedlex.data.admin.ch/eli/fga/1995/4_991_964_903)).
+[^54-2]: Eingefügt durch Anhang Ziff. 3 des BG vom 26. Sept. 2025, in Kraft seit 1. April 2026 ([AS 2026 99](https://fedlex.data.admin.ch/eli/oc/2026/99); [BBl 2023 1602](https://fedlex.data.admin.ch/eli/fga/2023/1602)).
+[^54-3]: [SR 814.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9477)
+[^54-4]: Eingefügt durch Anhang Ziff. 3 des BG vom 26. Sept. 2025, in Kraft seit 1. April 2026 ([AS 2026 99](https://fedlex.data.admin.ch/eli/oc/2026/99); [BBl 2023 1602](https://fedlex.data.admin.ch/eli/fga/2023/1602)).
 
 ### II. Fakultativer
 

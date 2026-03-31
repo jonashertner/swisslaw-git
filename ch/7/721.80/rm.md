@@ -4,11 +4,11 @@ title: "Lescha federala dals 22 da december 1916 davart l'utilisaziun da las for
 short: LDA
 eli: "https://fedlex.data.admin.ch/eli/cc/33/189_191_191"
 language: rm
-version: 2025-08-01
+version: 2026-04-01
 adopted: 1916-12-22
 in_force: 1918-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/33/189_191_191/20250801/rm/xml/fedlex-data-admin-ch-eli-cc-33-189_191_191-20250801-rm-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/33/189_191_191/20250801/rm"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/33/189_191_191/20260401/rm/xml/fedlex-data-admin-ch-eli-cc-33-189_191_191-20260401-rm-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/33/189_191_191/20260401/rm"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -19,7 +19,7 @@ Rumantsch è ina lingua naziunala, ma ina lingua parzialmain uffiziala da la Con
 
 (Lescha davart il dretg da las auas, LDA)[^t-1]
 
-dals 22 da december 1916 (versiun dal 1. d’avust 2025)
+dals 22 da december 1916 (versiun dal 1. d’avrigl 2026)
 
 [^t-1]: Integrà tras la cifra I da la LF dals 13 da dec. 1996, en vigur dapi il 1. da matg 1997 ([AS 1997 991](https://fedlex.data.admin.ch/eli/oc/1997/991_991_991); [BBl 1995 IV 991](https://fedlex.data.admin.ch/eli/fga/1995/4_991_964_903)).
 
@@ -435,10 +435,11 @@ Per render navigabels ils trajects tenor l’artitgel 24 alinea 2 elavura la Con
 
 <sup>3</sup> En enclegientscha cun il possessur po la Confederaziun far las retschertgas tenor l’alinea 2. Sche quellas èn necessarias pervia dal stabiliment, van ils custs a quint dal possessur; cas cuntrari vegnan ils custs surpigliads da la communitad che ha ordinà las retschertgas.
 
-<sup>4</sup> Las retschertgas previsas en la Lescha federala dals 24 schaner 1991[^29-2] davart la protecziun da las auas restan resalvadas.
+<sup>4</sup> Las retschertgas previsas en la Lescha federala dals 24 schaner 1991[^29-2] davart la protecziun da las auas (LPAuas) restan resalvadas.[^29-3]
 
 [^29-1]: Versiun tenor la cifra I da la LF dals 13 da dec. 1996, en vigur dapi il 1. da matg 1997 ([AS 1997 991](https://fedlex.data.admin.ch/eli/oc/1997/991_991_991); [BBl 1995 IV 991](https://fedlex.data.admin.ch/eli/fga/1995/4_991_964_903)).
 [^29-2]: [SR 814.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9477)
+[^29-3]: Versiun tenor la cifra 3 da l’agiunta da la LF dals 26 da sett. 2025, en vigur dapi il 1. d’avr. 2026 ([AS 2026 99](https://fedlex.data.admin.ch/eli/oc/2026/99); [BBl 2023 1602](https://fedlex.data.admin.ch/eli/fga/2023/1602)).
 
 ### 2. Statisticas e retschertgas
 
@@ -817,6 +818,8 @@ Per survegliar las ovras idraulicas da cunfin e per la lavur administrativa inca
 
 [^54-1]
 
+<sup>1</sup>
+
 Tut las concessiuns duain determinar:
 
 - a. la persuna dal concessiunari;
@@ -831,7 +834,22 @@ Tut las concessiuns duain determinar:
 - k. il destin dals stabiliments a la fin da la concessiun;
 - l. il destin d’eventualas prestaziuns da cumpensaziun ad auters concessiunaris a la fin da la concessiun.
 
+<sup>2</sup>
+
+Per projects d’impurtanza naziunala èn admessas concessiuns supplementaras empè da novs concessiunaments. Las concessiuns supplementaras n’influenzeschan betg la concessiun principala fin a la scadenza da la concessiun. En divergenza da las disposiziuns da la concessiun principala po la communitad autorisada da disponer fixar en la concessiun supplementara tranter auter:
+
+- a. l’utilisaziun da l’aua d’in auter curs d’aua;
+- b. l’augment da la quantitad d’aua concessiunada;
+- c. l’augment da l’autezza da crudada brutta concessiunada;
+- d. la midada dal gener da l’utilisaziun;
+- e. l’auzament da mirs d’accumulaziun existents u la construcziun da novs mirs d’accumulaziun.[^54-2]
+
+<sup>3</sup> Las concessiuns supplementaras duran per regla tuttina ditg sco la concessiun principala. Uschenavant che la concessiun supplementara ha consequenzas en il sectur da las midadas da la deflussiun da l’aua, ston las pretensiuns tenor l’artitgel 39*a* LPAuas[^54-3] vegnir ademplidas pir en il rom da la sanaziun posteriura tenor l’artitgel 83*a* LPAuas.[^54-4]
+
 [^54-1]: Versiun tenor la cifra I da la LF dals 13 da dec. 1996, en vigur dapi il 1. da matg 1997 ([AS 1997 991](https://fedlex.data.admin.ch/eli/oc/1997/991_991_991); [BBl 1995 IV 991](https://fedlex.data.admin.ch/eli/fga/1995/4_991_964_903)).
+[^54-2]: Integrà tras la cifra 3 da l’agiunta da la LF dals 26 da sett. 2025, en vigur dapi il 1. d’avr. 2026 ([AS 2026 99](https://fedlex.data.admin.ch/eli/oc/2026/99); [BBl 2023 1602](https://fedlex.data.admin.ch/eli/fga/2023/1602)).
+[^54-3]: [SR 814.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9477)
+[^54-4]: Integrà tras la cifra 3 da l’agiunta da la LF dals 26 da sett. 2025, en vigur dapi il 1. d’avr. 2026 ([AS 2026 99](https://fedlex.data.admin.ch/eli/oc/2026/99); [BBl 2023 1602](https://fedlex.data.admin.ch/eli/fga/2023/1602)).
 
 ### II. Disposiziuns facultativas
 
@@ -1180,13 +1198,11 @@ En cas dal return da las ovras idraulicas ha la communitad concedenta – nun ch
 
 <sup>3</sup> Il concessiunari è obligà da mantegnair en funcziun ils stabiliments ed ils indrizs ch’èn suttamess al dretg da return.
 
-<sup>4</sup> Investiziuns da modernisaziun e d’engrondiment vegnan indemnisadas al concessiunari il mument dal return, sch’el ha fatg la modernisaziun u l’engrondiment en enclegientscha cun la communitad che ha dà la concessiun. L’indemnisaziun correspunda maximalmain a la valur restanta da l’investiziun, resguardond l’amortisaziun usitada en la branscha e la midada da la valur monetara.[^67-2]
+<sup>4</sup> Investiziuns da modernisaziun e d’engrondiment vegnan indemnisadas al concessiunari il mument dal return, sch’el ha fatg la modernisaziun u l’engrondiment en enclegientscha cun la communitad che ha dà la concessiun. L’indemnisaziun correspunda maximalmain a la valur restanta da l’investiziun, resguardond l’amortisaziun usitada en la branscha e la midada da la valur monetara.
 
-<sup>5</sup> La communitad che ha surdà la concessiun po apportar la valur dal dretg da return en l’interpresa existenta sco quota da participaziun, sch’il concessiunari è perencletg cun quai. Ella po duvrar il dretg da return er en in’autra moda che stat en l’interess public.[^67-3]
+<sup>5</sup> La communitad che ha surdà la concessiun po apportar la valur dal dretg da return en l’interpresa existenta sco quota da participaziun, sch’il concessiunari è perencletg cun quai. Ella po duvrar il dretg da return er en in’autra moda che stat en l’interess public.
 
 [^67-1]: Versiun tenor la cifra I da la LF dals 13 da dec. 1996, en vigur dapi il 1. da matg 1997 ([AS 1997 991](https://fedlex.data.admin.ch/eli/oc/1997/991_991_991); [BBl 1995 IV 991](https://fedlex.data.admin.ch/eli/fga/1995/4_991_964_903)).
-[^67-2]: Integrà tras la cifra I da la LF dals 13 da dec. 1996, en vigur dapi il 1. da matg 1997 ([AS 1997 991](https://fedlex.data.admin.ch/eli/oc/1997/991_991_991); [BBl 1995 IV 991](https://fedlex.data.admin.ch/eli/fga/1995/4_991_964_903)).
-[^67-3]: Integrà tras la cifra I da la LF dals 13 da dec. 1996, en vigur dapi il 1. da matg 1997 ([AS 1997 991](https://fedlex.data.admin.ch/eli/oc/1997/991_991_991); [BBl 1995 IV 991](https://fedlex.data.admin.ch/eli/fga/1995/4_991_964_903)).
 
 ### b. En cas d’auas situadas sin il territori da plirs chantuns
 

@@ -4,11 +4,11 @@ title: "Loi fédérale du 22 décembre 1916 sur l'utilisation des forces hydraul
 short: LFH
 eli: "https://fedlex.data.admin.ch/eli/cc/33/189_191_191"
 language: fr
-version: 2025-08-01
+version: 2026-04-01
 adopted: 1916-12-22
 in_force: 1918-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/33/189_191_191/20250801/fr/xml/fedlex-data-admin-ch-eli-cc-33-189_191_191-20250801-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/33/189_191_191/20250801/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/33/189_191_191/20260401/fr/xml/fedlex-data-admin-ch-eli-cc-33-189_191_191-20260401-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/33/189_191_191/20260401/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/33/189_191_191/20250801/fr"
 
 (Loi sur les forces hydrauliques[^t-1], LFH[^t-2])
 
-du 22 décembre 1916 (État le 1<sup>er</sup> août 2025)
+du 22 décembre 1916 (État le 1<sup>er</sup> avril 2026)
 
 [^t-1]: Introduit par le ch. I 1 de la LF du 18 juin 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 5061](https://fedlex.data.admin.ch/eli/oc/2010/727); [FF 2009 1019](https://fedlex.data.admin.ch/eli/fga/2009/267), [1045](https://fedlex.data.admin.ch/eli/fga/2009/269); [2010 321](https://fedlex.data.admin.ch/eli/fga/2010/91)).
 [^t-2]: Introduite par le ch. I de la LF du 13 déc. 1996, en vigueur depuis le 1<sup>er</sup> mai 1997 ([RO 1997 991](https://fedlex.data.admin.ch/eli/oc/1997/991_991_991); [FF 1995 IV 964](https://fedlex.data.admin.ch/eli/fga/1995/4_991_964_903)).
@@ -297,15 +297,15 @@ Si le canton perçoit un impôt spécial sur l’énergie produite par des usine
 
 ## Chapitre II De l’utilisation des cours d’eau
 
+### A. Droit de surveillance des autorités
+
 ### I. Protection contre les crues et police des eaux
 
-[^chap2-lvlI-1]
+[^chap2-lvlA-lvlI-1]
 
-[^chap2-lvlI-1]: Nouvelle teneur selon l’annexe ch. 2 de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> août 2025 ([RO 2025 430](https://fedlex.data.admin.ch/eli/oc/2025/430); [FF 2023 858](https://fedlex.data.admin.ch/eli/fga/2023/858)).
+[^chap2-lvlA-lvlI-1]: Nouvelle teneur selon l’annexe ch. 2 de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> août 2025 ([RO 2025 430](https://fedlex.data.admin.ch/eli/oc/2025/430); [FF 2023 858](https://fedlex.data.admin.ch/eli/fga/2023/858)).
 
 #### Art. 21
-
-A. Droit de surveillance des autorités
 
 <sup>1</sup> Les usines hydrauliques doivent être établies conformément aux dispositions fédérales et cantonales sur la protection contre les crues et la police des eaux.[^21-1]
 
@@ -420,10 +420,11 @@ Dans la perspective d’aménager, pour la navigation, les cours d’eau cités 
 
 <sup>3</sup> La Confédération peut effectuer les relevés prévus à l’al. 2 en accord avec le détenteur de l’installation. S’ils sont nécessaires du fait de l’installation, son détenteur en supporte les coûts; à défaut, les frais sont supportés par la collectivité publique qui les a ordonnés.
 
-<sup>4</sup> Les relevés prévus par la loi fédérale du 24 janvier 1991[^29-2] sur la protection des eaux demeurent réservés.
+<sup>4</sup> Les relevés prévus par la loi fédérale du 24 janvier 1991 sur la protection des eaux (LEaux)[^29-2] demeurent réservés.[^29-3]
 
 [^29-1]: Nouvelle teneur selon le ch. I de la LF du 13 déc. 1996, en vigueur depuis le 1<sup>er</sup> mai 1997 ([RO 1997 991](https://fedlex.data.admin.ch/eli/oc/1997/991_991_991); [FF 1995 IV 964](https://fedlex.data.admin.ch/eli/fga/1995/4_991_964_903)).
 [^29-2]: [RS 814.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9477)
+[^29-3]: Nouvelle teneur selon l’annexe ch. 3 de la LF du 26 sept. 2025, en vigueur depuis le 1<sup>er</sup> avr. 2026 ([RO 2026 99](https://fedlex.data.admin.ch/eli/oc/2026/99); [FF 2023 1602](https://fedlex.data.admin.ch/eli/fga/2023/1602)).
 
 ### 2. Statistiques et recherches
 
@@ -779,6 +780,8 @@ La Confédération perçoit des émoluments pour la surveillance exercée sur le
 
 [^54-1]
 
+<sup>1</sup>
+
 Toute concession doit indiquer:
 
 - a. la personne du concessionnaire;
@@ -793,7 +796,22 @@ Toute concession doit indiquer:
 - k. le sort des installations à la fin de la concession;
 - l. le sort des prestations compensatoires dues à d’autres concessionnaires, à la fin de leur concession.
 
+<sup>2</sup>
+
+Pour les projets d’importance nationale, les avenants à la concession sont autorisés en lieu et place d’une nouvelle concession. L’avenant à la concession n’influence pas la concession principale jusqu’à l’expiration de la concession. Dans l’avenant à la concession, la communauté investie du droit de disposition peut notamment prévoir des dispositions différentes de celles de la concession principale, comme:
+
+- a. l’utilisation de l’eau d’un autre cours d’eau;
+- b. l’augmentation de la quantité d’eau concédée;
+- c. l’augmentation de la hauteur de chute brute concédée;
+- d. la modification du type d’utilisation;
+- e. la surélévation du barrage ou la construction de nouveaux barrages.[^54-2]
+
+<sup>3</sup> La durée de l’avenant à la concession est généralement identique à celle de la concession principale. Si l’avenant à la concession a des incidences dans le domaine des éclusées, les exigences formulées à l’art. 39*a* LEaux[^54-3] ne doivent être remplies que dans le cadre des mesures d’assainissement visées à l’art. 83*a* LEaux.[^54-4]
+
 [^54-1]: Nouvelle teneur selon le ch. I de la LF du 13 déc. 1996, en vigueur depuis le 1<sup>er</sup> mai 1997 ([RO 1997 991](https://fedlex.data.admin.ch/eli/oc/1997/991_991_991); [FF 1995 IV 964](https://fedlex.data.admin.ch/eli/fga/1995/4_991_964_903)).
+[^54-2]: Introduit par l’annexe ch. 3 de la LF du 26 sept. 2025, en vigueur depuis le 1<sup>er</sup> avr. 2026 ([RO 2026 99](https://fedlex.data.admin.ch/eli/oc/2026/99); [FF 2023 1602](https://fedlex.data.admin.ch/eli/fga/2023/1602)).
+[^54-3]: [RS 814.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9477)
+[^54-4]: Introduit par l’annexe ch. 3 de la LF du 26 sept. 2025, en vigueur depuis le 1<sup>er</sup> avr. 2026 ([RO 2026 99](https://fedlex.data.admin.ch/eli/oc/2026/99); [FF 2023 1602](https://fedlex.data.admin.ch/eli/fga/2023/1602)).
 
 ### II. Dispositions facultatives
 

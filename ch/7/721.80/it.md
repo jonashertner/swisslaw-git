@@ -4,11 +4,11 @@ title: "Legge federale del 22 dicembre 1916 sull'utilizzazione delle forze idric
 short: LUFI
 eli: "https://fedlex.data.admin.ch/eli/cc/33/189_191_191"
 language: it
-version: 2025-08-01
+version: 2026-04-01
 adopted: 1916-12-22
 in_force: 1918-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/33/189_191_191/20250801/it/xml/fedlex-data-admin-ch-eli-cc-33-189_191_191-20250801-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/33/189_191_191/20250801/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/33/189_191_191/20260401/it/xml/fedlex-data-admin-ch-eli-cc-33-189_191_191-20260401-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/33/189_191_191/20260401/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/33/189_191_191/20250801/it"
 
 (Legge sulle forze idriche, LUFI[^t-2])[^t-1]
 
-del 22 dicembre 1916 (Stato 1° agosto 2025)
+del 22 dicembre 1916 (Stato 1° aprile 2026)
 
 [^t-1]: Nuovo tit. giusta della LF dell’8 ott. 1976, in vigore dal 1° gen. 1977 ([RU 1977 171](https://fedlex.data.admin.ch/eli/oc/1977/171_171_171); [FF 1975 II 2083](https://fedlex.data.admin.ch/eli/fga/1975/2_2138_2140_2083)). Per questa mod. alle locuzioni «forze idrauliche» e «forza idraulica» sono sostituite le locuzioni «forze idriche» e «forza idrica».
 [^t-2]: Abbreviazione introdotta dalla cifra I della LF del 13 dic. 1996, in vigore dal 1° mag. 1997 ([RU 1997 991](https://fedlex.data.admin.ch/eli/oc/1997/991_991_991); [FF 1995 IV 903](https://fedlex.data.admin.ch/eli/fga/1995/4_991_964_903)).
@@ -192,7 +192,7 @@ Per l’utilizzazione delle forze idriche delle sezioni di corsi d’acqua che t
 <sup>3</sup> Se la Confederazione non ha ancora modo d’impiegare la forza idrica acquistata, le è data facoltà di cedere nel frattempo a un terzo l’esercizio del diritto di utilizzazione.
 
 [^12-1]: Nuovo testo giusta la cifra I della LF del 21 giu. 1985, in vigore dal 1° gen. 1986 ([RU 1985 1839](https://fedlex.data.admin.ch/eli/oc/1985/1839_1839_1839); [FF 1984 III 1401](https://fedlex.data.admin.ch/eli/fga/1984/3_1441_1445_1401)).
-[^12-2]: Introdotto dalla cifra I della LF del 13 dic. 1996, in vigore dal 1° mag. 1997([RU 1997 991](https://fedlex.data.admin.ch/eli/oc/1997/991_991_991); [FF 1995 IV 903](https://fedlex.data.admin.ch/eli/fga/1995/4_991_964_903)).
+[^12-2]: Introdotto dalla cifra I della LF del 13 dic. 1996, in vigore dal 1° mag. 1997 ([RU 1997 991](https://fedlex.data.admin.ch/eli/oc/1997/991_991_991); [FF 1995 IV 903](https://fedlex.data.admin.ch/eli/fga/1995/4_991_964_903)).
 
 ### b. Risarcimento alla comunità
 
@@ -419,10 +419,11 @@ Per rendere navigabili i corsi d’acqua, conformemente all’articolo 24 capove
 
 <sup>3</sup> Di comune accordo con il possessore dell’impianto, la Confederazione può effettuare i rilevamenti previsti nel capoverso 2. Se i rilevamenti si rendono necessari a causa dell’impianto, i costi sono a carico del possessore; in caso contrario, sono a carico dell’ente pubblico che li ha ordinati.
 
-<sup>4</sup> Sono salvi i rilevamenti previsti dalla legge federale del 24 gennaio 1991[^29-2] sulla protezione delle acque.
+<sup>4</sup> Sono salvi i rilevamenti previsti dalla legge federale del 24 gennaio 1991[^29-2] sulla protezione delle acque (LPAc).[^29-3]
 
 [^29-1]: Nuovo testo giusta la cifra I della LF del 13 dic. 1996, in vigore dal 1° mag. 1997 ([RU 1997 991](https://fedlex.data.admin.ch/eli/oc/1997/991_991_991); [FF 1995 IV 903](https://fedlex.data.admin.ch/eli/fga/1995/4_991_964_903)).
 [^29-2]: [RS 814.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9477)
+[^29-3]: Nuovo testo giusta l’all. n. 3 della LF del 26 set. 2025, in vigore dal 1° apr. 2026 ([RU 2026 99](https://fedlex.data.admin.ch/eli/oc/2026/99); [FF 2023 1602](https://fedlex.data.admin.ch/eli/fga/2023/1602)).
 
 ### 2. Statistiche e ricerche
 
@@ -777,6 +778,8 @@ La Confederazione preleva emolumenti per la sorveglianza esercitata sugli impian
 
 [^54-1]
 
+<sup>1</sup>
+
 Ciascun atto di concessione deve indicare:
 
 - a. la persona del concessionario;
@@ -791,7 +794,22 @@ Ciascun atto di concessione deve indicare:
 - k. il futuro degli impianti al termine della concessione;
 - l. il futuro di eventuali prestazioni d’indennità dovute ad altri concessionari al termine della loro concessione.
 
+<sup>2</sup>
+
+In luogo di una nuova concessione, i progetti d’importanza nazionale possono beneficiare di una concessione complementare. Fino alla scadenza della concessione la concessione complementare non influisce su quella principale. Diversamente da quanto disposto nella concessione principale, nella concessione complementare la comunità competente a disporre può prevedere segnatamente:
+
+- a. l’utilizzazione di acque appartenenti a un altro corso d’acqua;
+- b. l’aumento del deflusso concesso;
+- c. l’aumento del dislivello lordo concesso;
+- d. la modifica del modo di utilizzazione;
+- e. l’innalzamento della diga o la costruzione di nuove dighe.[^54-2]
+
+<sup>3</sup> La durata della concessione complementare è di regola identica a quella della concessione principale. Se la concessione complementare comporta conseguenze in relazione ai deflussi discontinui, le esigenze di cui all’articolo 39*a* LPAc[^54-3] devono essere soddisfatte soltanto nel quadro delle misure di risanamento di cui all’articolo 83*a* LPAc.[^54-4]
+
 [^54-1]: Nuovo testo giusta la cifra I della LF del 13 dic. 1996, in vigore dal 1° mag. 1997 ([RU 1997 991](https://fedlex.data.admin.ch/eli/oc/1997/991_991_991); [FF 1995 IV 903](https://fedlex.data.admin.ch/eli/fga/1995/4_991_964_903)).
+[^54-2]: Introdotto dall’all. n. 3 della LF del 26 set. 2025, in vigore dal 1° apr. 2026 ([RU 2026 99](https://fedlex.data.admin.ch/eli/oc/2026/99); [FF 2023 1602](https://fedlex.data.admin.ch/eli/fga/2023/1602)).
+[^54-3]: [RS 814.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9477)
+[^54-4]: Introdotto dall’all. n. 3 della LF del 26 set. 2025, in vigore dal 1° apr. 2026 ([RU 2026 99](https://fedlex.data.admin.ch/eli/oc/2026/99); [FF 2023 1602](https://fedlex.data.admin.ch/eli/fga/2023/1602)).
 
 ### II. Disposizioni facoltative
 
@@ -937,7 +955,7 @@ La domanda di approvazione dei piani va presentata con la documentazione necessa
 
 <sup>2</sup> Le obiezioni contro il picchettamento o l’indicazione dei profili devono essere presentate subito, al più tardi però entro il termine di deposito dei piani, presso l’Ufficio federale.
 
-[^62b-1]: Introdotto dalla cifra I 6 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° mar. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2029).
+[^62b-1]: Introdotto dalla cifra I 6 della LF del 18 giu. 1999 sul coordinamento e la semplificazione delle procedure d’approvazione dei piani, in vigore dal 1° mar. 2000 ([RU 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472);FF **1998** 2029).
 
 ### c. Consultazione, pubblicazione e deposito dei piani
 
