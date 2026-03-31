@@ -4,11 +4,11 @@ title: "Lescha dals 30 da settember 2016 d'energia (LEn)"
 short: LEn
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/762"
 language: rm
-version: 2026-01-01
+version: 2026-04-01
 adopted: 2016-09-30
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/762/20260101/rm/xml/fedlex-data-admin-ch-eli-cc-2017-762-20260101-rm-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/762/20260101/rm"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/762/20260401/rm/xml/fedlex-data-admin-ch-eli-cc-2017-762-20260401-rm-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/762/20260401/rm"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -19,7 +19,7 @@ Rumantsch è ina lingua naziunala, ma ina lingua parzialmain uffiziala da la Con
 
 (LEn)
 
-dals 30 da settember 2016 (versiun dal 1. da schaner 2026)
+dals 30 da settember 2016 (versiun dal 1. d’avrigl 2026)
 
 L’Assamblea federala da la Confederaziun svizra,
 
@@ -192,12 +192,20 @@ Tgi che furnescha electricitad a consuments finals sto:
 
 <sup>1ter</sup> Cun determinar ils territoris per implants solars e per implants eroelectrics ston ils chantuns resguardar ils interess da la protecziun da la cuntrada e dals biotops sco er ils interess dal mantegniment dal guaud e da l’agricultura, spezialmain da la protecziun da la cuntrada cultivada e da la protecziun da las culturas alternantas.[^10-4]
 
-<sup>2</sup> Sche necessari, procuran els ch’i vegnian etablids plans d’utilisaziun u ch’i vegnian adattads plans d’utilisaziun existents.
+<sup>1quater</sup> Per implants solars ed eroelectrics d’interess naziunal tenor ils artitgels 12 alinea 2 e 13 alinea 1 ch’èn situads en tals territoris, n’èsi betg necessari da determinar in project specific en il plan directiv chantunal.[^10-5]
+
+<sup>2</sup> Sche necessari procuran ils chantuns, ch’i vegnian etablids plans d’utilisaziun u ch’i vegnian adattads plans d’utilisaziun existents. Quai po er vegnir fatg en il rom d’ina procedura chantunala d’approvaziun dals plans concentrada tenor l’artitgel 14*a* (procedura chantunala d’approvaziun dals plans).[^10-6]
+
+<sup>3</sup> Per projects tenor l’artitgel 8 alinea 2 da la Lescha dals 22 da zercladur 1979[^10-7] davart la planisaziun dal territori realiseschan las autoritads cumpetentas, en cas adattads, la procedura dal plan directiv parallelamain cun la procedura dal plan d’utilisaziun u cun la procedura chantunala d’approvaziun dals plans.[^10-8]
 
 [^10-1]: [SR 700](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8351)
 [^10-2]: Versiun tenor la cifra I 1 da la LF dals 29 da sett. 2023 davart in provediment d’electricitad segir cun energias regenerablas, en vigur dapi il 1. da schan. 2025 ([AS 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [BBl 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
 [^10-3]: Integrà tras la cifra I 1 da la LF dals 29 da sett. 2023 davart in provediment d’electricitad segir cun energias regenerablas, en vigur dapi il 1. da schan. 2025 ([AS 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [BBl 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
 [^10-4]: Integrà tras la cifra I 1 da la LF dals 29 da sett. 2023 davart in provediment d’electricitad segir cun energias regenerablas, en vigur dapi il 1. da schan. 2025 ([AS 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [BBl 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
+[^10-5]: Integrà tras la cifra I da la LF dals 26 da sett. 2025, en vigur dapi il 1. d’avr. 2026 ([AS 2026 99](https://fedlex.data.admin.ch/eli/oc/2026/99); [BBl 2023 1602](https://fedlex.data.admin.ch/eli/fga/2023/1602)).
+[^10-6]: Versiun tenor la cifra I da la LF dals 26 da sett. 2025, en vigur dapi il 1. d’avr. 2026 ([AS 2026 99](https://fedlex.data.admin.ch/eli/oc/2026/99); [BBl 2023 1602](https://fedlex.data.admin.ch/eli/fga/2023/1602)).
+[^10-7]: [SR 700](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8351)
+[^10-8]: Integrà tras la cifra I da la LF dals 26 da sett. 2025, en vigur dapi il 1. d’avr. 2026 ([AS 2026 99](https://fedlex.data.admin.ch/eli/oc/2026/99); [BBl 2023 1602](https://fedlex.data.admin.ch/eli/fga/2023/1602)).
 
 #### Art. 11
 
@@ -254,12 +262,12 @@ Uschè ditg che las finamiras per augmentar la producziun d’electricitad or d�
 
 <sup>2</sup> …[^13-3]
 
-<sup>3</sup> Sch’il Cussegl federal renconuscha ad in implant in interess naziunal en il senn da l’artitgel 12, po il Cussegl federal concluder ultra da quai, che las permissiuns necessarias vegnian concedidas en ina procedura concentrada e scursanida.[^13-4]
+<sup>3</sup> …[^13-4]
 
 [^13-1]: Versiun tenor la cifra I 1 da la LF dals 29 da sett. 2023 davart in provediment d’electricitad segir cun energias regenerablas, en vigur dapi il 1. da schan. 2025 ([AS 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [BBl 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
 [^13-2]: Versiun tenor la cifra I 1 da la LF dals 29 da sett. 2023 davart in provediment d’electricitad segir cun energias regenerablas, en vigur dapi il 1. da schan. 2025 ([AS 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [BBl 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
 [^13-3]: Abolì tras la cifra I 1 da la LF dals 29 da sett. 2023 davart in provediment d’electricitad segir cun energias regenerablas, cun effect dapi il 1. da schan. 2025 ([AS 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [BBl 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
-[^13-4]: Integrà tras la cifra I 1 da la LF dals 29 da sett. 2023 davart in provediment d’electricitad segir cun energias regenerablas, en vigur dapi il 1. da schan. 2025 ([AS 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [BBl 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
+[^13-4]: Integrà tras la cifra I 1 da la LF dals 29 da sett. 2023 davart in provediment d’electricitad segir cun energias regenerablas ([AS 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [BBl 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)). Abolì tras la cifra I da la LF dals 26 da sett. 2025, cun effect dapi il 1. d’avr. 2026 ([AS 2026 99](https://fedlex.data.admin.ch/eli/oc/2026/99); [BBl 2023 1602](https://fedlex.data.admin.ch/eli/fga/2023/1602)).
 
 #### Art. 14
 
@@ -275,6 +283,72 @@ Uschè ditg che las finamiras per augmentar la producziun d’electricitad or d�
 
 [^14-1]: [SR 451](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7166)
 
+#### Art. 14a
+
+**Procedura chantunala d’approvaziun dals plans per implants solars ed eroelectrics d’interess naziunal**[^14a-1]
+
+<sup>1</sup> Per construir, engrondir e renovar implants solars ed eroelectrics d’interess naziunal tenor ils artitgels 12 alinea 2 e 13 alinea 1 prevesan ils chantuns ina procedura d’approvaziun dals plans concentrada. Els procuran, che las vischnancas pertutgadas vegnian involvidas a temp en la procedura.
+
+<sup>2</sup> Sch’il dretg chantunal na dispona nagut auter, dovri il consentiment da las vischnancas da staziunament.
+
+<sup>3</sup> Fin a l’entrada en vigur da las disposiziuns legalas chantunalas davart la procedura chantunala d’approvaziun dals plans pon ils chantuns reglar la procedura en in’ordinaziun. Uschè ditg ch’ina regulaziun chantunala n’è betg avant maun, èn ils artitgels 16–17 da la Lescha dals 24 da zercladur 1902[^14a-2] davart ils implants electrics applitgabels tenor il senn sco dretg chantunal.
+
+<sup>4</sup>
+
+Cun l’approvaziun dals plans:
+
+- a. vegn determinada l’utilisaziun admessa dal terren;
+- b. vegnan concedidas las permissiuns ed ils dretgs d’expropriaziun ch’èn en la cumpetenza dals chantuns e da las vischnancas e ch’i dovra per construir, engrondir u renovar l’implant;
+- c. vegn reglada l’avertura e vegnan fixads ils plazs d’installaziun necessaris;
+- d. vegnan fixadas per ils implants eroelectrics las dimensiuns prescrittas ch’il model tschernì sto observar, cura che las permissiuns entran en vigur; ils effects dals implants ston vegnir evaluads sin basa da las valurs maximalas, quai cun documentar ils aspects geometrics, energetics ed ecologics.
+
+<sup>5</sup> La regenza chantunala è cumpetenta per l’approvaziun dals plans. Ella po delegar questa incumbensa ad in post administrativ chantunal.
+
+<sup>6</sup> L’autoritad d’approvaziun dals plans decida entaifer 180 dis a partir dal mument ch’ella è en possess da tut ils documents da la dumonda.
+
+<sup>7</sup> L’artitgel 14 alinea 3 vala tenor il senn.
+
+<sup>8</sup> Implants solars ed eroelectrics d’interess naziunal tenor ils artitgels 12 alinea 2 e 13 alinea 1, che na produceschan definitivamain nagina energia pli, ston vegnir demontads. L’autoritad d’approvaziun dals plans decida, quant enavant ch’il stadi oriund sto vegnir restabilì.
+
+<sup>9</sup> Per implants che vegnan planisads sin il territori da plirs chantuns (implants interchantunals), pon ils chantuns participads determinar en enclegientscha vicendaivla in chantun directiv. Quest chantun approvescha en moda concentrada ils plans per l’entir implant. La procedura sa drizza tenor las prescripziuns dal chantun directiv.
+
+[^14a-1]: Integrà tras la cifra I da la LF dals 26 da sett. 2025, en vigur dapi il 1. d’avr. 2026 ([AS 2026 99](https://fedlex.data.admin.ch/eli/oc/2026/99); [BBl 2023 1602](https://fedlex.data.admin.ch/eli/fga/2023/1602)).
+[^14a-2]: [SR 734.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8570)
+
+#### Art. 14b
+
+**Realisaziun da la procedura ordinaria empè da la procedura chantunala d’approvaziun dals plans per implants solars ed eroelectrics d’interess naziunal**[^14b-1]
+
+Ils petents pon pretender, che la procedura ordinaria da planisaziun e da permissiun da construcziun vegnia realisada per implants solars ed eroelectrics d’interess naziunal tenor ils artitgels 12 alinea 2 e 13 alinea 1, empè da la procedura chantunala d’approvaziun dals plans.
+
+[^14b-1]: Integrà tras la cifra I da la LF dals 26 da sett. 2025, en vigur dapi il 1. d’avr. 2026 ([AS 2026 99](https://fedlex.data.admin.ch/eli/oc/2026/99); [BBl 2023 1602](https://fedlex.data.admin.ch/eli/fga/2023/1602)).
+
+#### Art. 14c
+
+**Protecziun giuridica en connex cun implants solars ed eroelectrics e cun ovras idraulicas d’interess naziunal**[^14c-1]
+
+<sup>1</sup>
+
+Cunter ils suandants plans e cunter las suandantas decisiuns poi vegnir fatg recurs sin plaun chantunal mo tar la dretgira chantunala superiura tenor l’artitgel 86 alinea 2 da la Lescha dals 17 da zercladur 2005[^14c-2] davart il Tribunal federal (LTF):
+
+- a. approvaziuns da plans tenor l’artitgel 14*a* concernent implants solars ed eroelectrics d’interess naziunal tenor ils artitgels 12 alinea 2 e 13 alinea 1;
+- b. plans d’utilisaziun, decisiuns da permissiun e decisiuns da concessiun concernent ovras idraulicas d’interess naziunal tenor ils artitgels 12 alinea 2 e 13 alinea 1.
+
+<sup>2</sup> La decisiun da la dretgira chantunala superiura po vegnir contestada cun in recurs en chaussas da dretg public davant il Tribunal federal.
+
+<sup>3</sup> Sch’ina persuna cun dretg da far recurs n’ha betg fatg las contestaziuns admissiblas cunter in plan d’utilisaziun cun caracter da disposiziun u sche las contestaziuns èn vegnidas refusadas cun vigur legala, na dastga la persuna betg pli far valair questas contestaziuns en la procedura per la permissiun da construcziun.
+
+<sup>4</sup> Far recurs tar la dretgira chantunala superiura e tar il Tribunal federal po mo, tgi che ha il dretg da far recurs tar il Tribunal federal tenor l’artitgel 89 LTF. Il dretg da far recurs han er ils chantuns pertutgads e las vischnancas pertutgadas (art. 89 al. 2 lit. d LTF).
+
+<sup>5</sup> La contestaziun da l’inadequatezza è inadmissibla.
+
+<sup>6</sup> Sche pussaivel decidan las dretgiras sezzas en chaussa, e quai entaifer 180 dis suenter la terminaziun da la correspundenza.
+
+<sup>7</sup> Sch’il Tribunal federal na decida betg sez en chaussa e returna excepziunalmain la chaussa a l’instanza precedenta, cuntegna sia decisiun l’examinaziun da tut las contestaziuns fatgas en moda giuridicamain suffizienta, che pudessan esser decisivas per il resultat da la dispita giuridica.
+
+[^14c-1]: Integrà tras la cifra I da la LF dals 26 da sett. 2025, en vigur dapi il 1. d’avr. 2026 ([AS 2026 99](https://fedlex.data.admin.ch/eli/oc/2026/99); [BBl 2023 1602](https://fedlex.data.admin.ch/eli/fga/2023/1602)).
+[^14c-2]: [SR 173.110](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5575)
+
 ## 3. chapitel Furniziun d’energia da rait ed agen consum
 
 #### Art. 15
@@ -285,7 +359,7 @@ Uschè ditg che las finamiras per augmentar la producziun d’electricitad or d�
 
 <sup>1bis</sup> L’indemnisaziun per l’electricitad or d’energias regenerablas sa drizza tenor la media dal pretsch dal martgà per quartal il mument da l’inducziun en la rait. Il Cussegl federal fixescha indemnisaziuns minimalas per implants cun ina prestaziun da main che 150 kW. Questas indemnisaziuns minimalas s’orienteschan a l’amortisaziun d’implants da referenza en il decurs da lur durada da vita.[^15-2]
 
-<sup>1ter</sup> L’indemnisaziun per l’electricitad or d’implants che cumbineschan chalur e forza, sa drizza tenor il pretsch mesaun dal martgà, che vegn eruì mintga quartal e che vala il mument da l’inducziun en la rait.[^15-3]
+<sup>1ter</sup> L’indemnisaziun per l’electricitad or d’implants che cumbineschan chalur e forza, sa drizza tenor il pretsch dal martgà che vala il mument da l’inducziun en la rait.[^15-3]
 
 <sup>1quater</sup> L’indemnisaziun per il gas regenerabel s’orientescha al pretsch ch’il gestiunari da la rait stuess pajar, sch’el cumprass l’energia d’in terz purschider.[^15-4]
 
@@ -297,7 +371,7 @@ Uschè ditg che las finamiras per augmentar la producziun d’electricitad or d�
 
 [^15-1]: Versiun tenor la cifra I 1 da la LF dals 29 da sett. 2023 davart in provediment d’electricitad segir cun energias regenerablas, en vigur dapi il 1. da schan. 2026 ([AS 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [BBl 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
 [^15-2]: Integrà tras la cifra I 1 da la LF dals 29 da sett. 2023 davart in provediment d’electricitad segir cun energias regenerablas, en vigur dapi il 1. da schan. 2026 ([AS 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [BBl 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)). Rectifitgà da la CdR da la AF ils 22 da favr. 2024 (art. 58 al. 1 LParl; [SR 171.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4991)).
-[^15-3]: Integrà tras la cifra I 1 da la LF dals 29 da sett. 2023 davart in provediment d’electricitad segir cun energias regenerablas, en vigur dapi il 1. da schan. 2026 ([AS 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [BBl 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
+[^15-3]: Integrà tras la cifra I 1 da la LF dals 29 da sett. 2023 davart in provediment d’electricitad segir cun energias regenerablas ([AS 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [BBl 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)). Versiun tenor la cifra I da la LF dals 26 da sett. 2025, en vigur dapi il 1. d’avr. 2026 ([AS 2026 99](https://fedlex.data.admin.ch/eli/oc/2026/99); [BBl 2023 1602](https://fedlex.data.admin.ch/eli/fga/2023/1602)).
 [^15-4]: Integrà tras la cifra I 1 da la LF dals 29 da sett. 2023 davart in provediment d’electricitad segir cun energias regenerablas, en vigur dapi il 1. da schan. 2026 ([AS 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [BBl 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
 [^15-5]: [SR 734.7](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8592)
 [^15-6]: Versiun tenor la cifra I 1 da la LF dals 29 da sett. 2023 davart in provediment d’electricitad segir cun energias regenerablas, en vigur dapi il 1. da schan. 2026 ([AS 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [BBl 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
@@ -1746,6 +1820,14 @@ Per consuments finals che han fatg ina cunvegna da finamiras tenor il dretg vert
 Il Cussegl federal regla l’imputabladad da las mesiras chantunalas e communalas ch’èn vegnidas realisadas avant l’entrada en vigur da la midada dals 29 da settember 2023.
 
 [^75c-1]: Integrà tras la cifra I 1 da la LF dals 29 da sett. 2023 davart in provediment d’electricitad segir cun energias regenerablas, en vigur dapi il 1. da schan. 2025 ([AS 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [BBl 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
+
+#### Art. 75d
+
+**Disposiziun transitorica da la midada dals 26 da settember 2025**[^75d-1]
+
+Las proceduras concernent la construcziun, l’engrondiment e la renovaziun d’implants solars ed eroelectrics d’interess naziunal tenor ils artitgels 12 alinea 2 e 13 alinea 1, ch’èn pendentas davant l’emprima instanza il mument da l’entrada en vigur da la midada dals 26 da settember 2025, sa drizzan tenor il dretg nov.
+
+[^75d-1]: Integrà tras la cifra I da la LF dals 26 da sett. 2025, en vigur dapi il 1. d’avr. 2026 ([AS 2026 99](https://fedlex.data.admin.ch/eli/oc/2026/99); [BBl 2023 1602](https://fedlex.data.admin.ch/eli/fga/2023/1602)).
 
 #### Art. 76
 

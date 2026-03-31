@@ -4,11 +4,11 @@ title: "Legge federale sull'energia del 30 settembre 2016 (LEne)"
 short: LEne
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/762"
 language: it
-version: 2026-01-01
+version: 2026-04-01
 adopted: 2016-09-30
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/762/20260101/it/xml/fedlex-data-admin-ch-eli-cc-2017-762-20260101-it-xml-8.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/762/20260101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/762/20260401/it/xml/fedlex-data-admin-ch-eli-cc-2017-762-20260401-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/762/20260401/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/762/20260101/it"
 
 (LEne)
 
-del 30 settembre 2016 (Stato 1° gennaio 2026)
+del 30 settembre 2016 (Stato 1° aprile 2026)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -190,12 +190,20 @@ Chi fornisce elettricità ai consumatori finali è tenuto a:
 
 <sup>1ter</sup> Nel definire i territori per gli impianti solari ed eolici i Cantoni tengono conto degli interessi della protezione del paesaggio e dei biotopi e della conservazione della foresta, nonché di quelli dell’agricoltura, in particolare della protezione dei terreni coltivi e delle superfici per l’avvicendamento delle colture.[^10-4]
 
-<sup>2</sup> Se necessario, i Cantoni provvedono affinché siano allestiti nuovi piani di utilizzazione o siano adeguati quelli esistenti.
+<sup>1quater</sup> Per gli impianti solari ed eolici di interesse nazionale secondo gli articoli 12 capoverso 2 e 13 capoverso 1 situati in tali territori non è necessario definire un progetto specifico nel piano direttore cantonale.[^10-5]
+
+<sup>2</sup> Se necessario, i Cantoni provvedono affinché siano allestiti nuovi piani di utilizzazione o siano adeguati quelli esistenti. Ciò può avvenire anche nel quadro di una procedura cantonale di approvazione dei piani accentrata secondo l’articolo 14*a* (procedura cantonale di approvazione dei piani).[^10-6]
+
+<sup>3</sup> Se opportuno, per i progetti di cui all’articolo 8 capoverso 2 della legge del 22 giugno 1979[^10-7] sulla pianificazione del territorio, le autorità competenti svolgono la procedura del piano direttore parallelamente alla procedura del piano di utilizzazione o alla procedura cantonale di approvazione dei piani.[^10-8]
 
 [^10-1]: [RS 700](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8351)
 [^10-2]: Nuovo testo giusta la cifra I n. 1 della LF del 29 set. 2023 su un approvvigionamento elettrico sicuro con le energie rinnovabili, in vigore dal 1° gen. 2025 ([RU 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [FF 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
 [^10-3]: Introdotto dalla cifra I n. 1 della LF del 29 set. 2023 su un approvvigionamento elettrico sicuro con le energie rinnovabili, in vigore dal 1° gen. 2025 ([RU 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [FF 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
 [^10-4]: Introdotto dalla cifra I n. 1 della LF del 29 set. 2023 su un approvvigionamento elettrico sicuro con le energie rinnovabili, in vigore dal 1° gen. 2025 ([RU 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [FF 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
+[^10-5]: Introdotto dalla cifra I della LF del 26 set. 2025, in vigore dal 1° apr. 2026 ([RU 2026 99](https://fedlex.data.admin.ch/eli/oc/2026/99); [FF 2023 1602](https://fedlex.data.admin.ch/eli/fga/2023/1602)).
+[^10-6]: Nuovo testo giusta la cifra I della LF del 26 set. 2025, in vigore dal 1° apr. 2026 ([RU 2026 99](https://fedlex.data.admin.ch/eli/oc/2026/99); [FF 2023 1602](https://fedlex.data.admin.ch/eli/fga/2023/1602)).
+[^10-7]: [RS 700](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8351)
+[^10-8]: Introdotto dalla cifra I della LF del 26 set. 2025, in vigore dal 1° apr. 2026 ([RU 2026 99](https://fedlex.data.admin.ch/eli/oc/2026/99); [FF 2023 1602](https://fedlex.data.admin.ch/eli/fga/2023/1602)).
 
 #### Art. 11
 
@@ -252,12 +260,12 @@ Finché non è raggiunto l’obiettivo di incremento della produzione di elettri
 
 <sup>2</sup> ...[^13-3]
 
-<sup>3</sup> Se riconosce a un impianto un interesse nazionale secondo l’articolo 12, il Consiglio federale può inoltre decidere che le autorizzazioni necessarie siano concesse mediante una procedura abbreviata e accentrata.[^13-4]
+<sup>3</sup> ...[^13-4]
 
 [^13-1]: Nuovo testo giusta la cifra I n. 1 della LF del 29 set. 2023 su un approvvigionamento elettrico sicuro con le energie rinnovabili, in vigore dal 1° gen. 2025 ([RU 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [FF 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
 [^13-2]: Nuovo testo giusta la cifra I n. 1 della LF del 29 set. 2023 su un approvvigionamento elettrico sicuro con le energie rinnovabili, in vigore dal 1° gen. 2025 ([RU 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [FF 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
 [^13-3]: Abrogato dalla cifra I n. 1 della LF del 29 set. 2023 su un approvvigionamento elettrico sicuro con le energie rinnovabili, con effetto dal 1° gen. 2025 ([RU 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [FF 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
-[^13-4]: Introdotto dalla cifra I n. 1 della LF del 29 set. 2023 su un approvvigionamento elettrico sicuro con le energie rinnovabili, in vigore dal 1° gen. 2025 ([RU 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [FF 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
+[^13-4]: Introdotto dalla cifra I n. 1 della LF del 29 set. 2023 su un approvvigionamento elettrico sicuro con le energie rinnovabili ([RU 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [FF 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)). Abrogato dalla cifra I della LF del 26 set. 2025, con effetto dal 1° apr. 2026 ([RU 2026 99](https://fedlex.data.admin.ch/eli/oc/2026/99); [FF 2023 1602](https://fedlex.data.admin.ch/eli/fga/2023/1602)).
 
 #### Art. 14
 
@@ -273,6 +281,72 @@ Finché non è raggiunto l’obiettivo di incremento della produzione di elettri
 
 [^14-1]: [RS 451](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7166)
 
+#### Art. 14a
+
+**Procedura cantonale di approvazione dei piani per gli impianti solari ed eolici di interesse nazionale**[^14a-1]
+
+<sup>1</sup> Per la costruzione, l’ampliamento e il rinnovamento di impianti solari ed eolici di interesse nazionale secondo gli articoli 12 capoverso 2 e 13 capoverso 1 i Cantoni prevedono una procedura di approvazione dei piani accentrata. Provvedono affinché i Comuni interessati siano coinvolti tempestivamente nella procedura.
+
+<sup>2</sup> Sempre che il diritto cantonale non preveda altrimenti, l’approvazione è subordinata all’accordo dei Comuni di ubicazione.
+
+<sup>3</sup> Fino all’entrata in vigore delle disposizioni di legge cantonali concernenti la procedura cantonale di approvazione dei piani, i Cantoni possono disciplinare la procedura per via di ordinanza. Fino all’entrata in vigore di un disciplinamento cantonale, si applicano per analogia a titolo di diritto cantonale gli articoli 16−17 della legge del 24 giugno 1902[^14a-2] sugli impianti elettrici.
+
+<sup>4</sup>
+
+Nell’ambito dell’approvazione dei piani:
+
+- a. è stabilito l’uso ammissibile del suolo;
+- b. sono rilasciate le autorizzazioni e conferiti i diritti di espropriazione di competenza dei Cantoni e dei Comuni necessari per la costruzione, l’ampliamento o il rinnovamento dell’impianto;
+- c. è disciplinato l’allacciamento e sono stabilite le necessarie aree di cantiere;
+- d. per gli impianti eolici, sono stabilite le dimensioni che il modello scelto deve rispettare al momento del passaggio in giudicato dell’autorizzazione; l’impatto degli impianti è valutato sulla base dei parametri massimi ed è documentato sotto il profilo geometrico, energetico ed ecologico.
+
+<sup>5</sup> Il Governo cantonale è competente per l’approvazione dei piani. Può affidare tale compito a un servizio amministrativo cantonale.
+
+<sup>6</sup> Una volta in possesso della documentazione completa relativa alla domanda, l’autorità competente per l’approvazione dei piani decide entro 180 giorni.
+
+<sup>7</sup> L’articolo 14 capoverso 3 si applica per analogia.
+
+<sup>8</sup> Gli impianti solari ed eolici di interesse nazionale secondo gli articoli 12 capoverso 2 e 13 capoverso 1 la cui produzione di energia cessa definitivamente sono smantellati. L’autorità competente per l’approvazione dei piani decide in quale misura deve essere ripristinato lo stato anteriore.
+
+<sup>9</sup> Per gli impianti la cui ubicazione è pianificata sul territorio di più Cantoni (impianti intercantonali), i Cantoni interessati possono designare un Cantone coordinatore; quest’ultimo è designato di comune accordo dai Cantoni interessati. Esso approva i piani per l’intero impianto secondo la procedura accentrata. La procedura è retta dalle disposizioni del Cantone coordinatore.
+
+[^14a-1]: Introdotto dalla cifra I della LF del 26 set. 2025, in vigore dal 1° apr. 2026 ([RU 2026 99](https://fedlex.data.admin.ch/eli/oc/2026/99); [FF 2023 1602](https://fedlex.data.admin.ch/eli/fga/2023/1602)).
+[^14a-2]: [RS 734.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8570)
+
+#### Art. 14b
+
+**Svolgimento della procedura ordinaria invece della procedura cantonale di approvazione dei piani per gli impianti solari ed eolici di interesse nazionale**[^14b-1]
+
+Per gli impianti solari ed eolici di interesse nazionale secondo gli articoli 12 capoverso 2 e 13 capoverso 1, il richiedente può optare per lo svolgimento della procedura ordinaria di pianificazione e di autorizzazione edilizia invece della procedura cantonale di approvazione dei piani.
+
+[^14b-1]: Introdotto dalla cifra I della LF del 26 set. 2025, in vigore dal 1° apr. 2026 ([RU 2026 99](https://fedlex.data.admin.ch/eli/oc/2026/99); [FF 2023 1602](https://fedlex.data.admin.ch/eli/fga/2023/1602)).
+
+#### Art. 14c
+
+**Tutela giurisdizionale in relazione agli impianti solari ed eolici e alle centrali idroelettriche di interesse nazionale**[^14c-1]
+
+<sup>1</sup>
+
+A livello cantonale, il ricorso contro i seguenti piani e decisioni è ammissibile soltanto dinanzi al tribunale cantonale superiore ai sensi dell’articolo 86 capoverso 2 della legge del 17 giugno 2005[^14c-2] sul Tribunale federale (LTF):
+
+- a. approvazioni dei piani secondo l’articolo 14*a* concernenti impianti solari ed eolici di interesse nazionale secondo gli articoli 12 capoverso 2 e 13 capoverso 1;
+- b. piani di utilizzazione, nonché decisioni relative ad autorizzazioni e concessioni di centrali idroelettriche di interesse nazionale secondo gli articoli 12 capoverso 2 e 13 capoverso 1.
+
+<sup>2</sup> La decisione del tribunale cantonale superiore è impugnabile mediante ricorso in materia di diritto pubblico dinanzi al Tribunale federale.
+
+<sup>3</sup> Se ha omesso di fare valere censure ammissibili contro un piano di utilizzazione avente carattere di decisione o se tali censure sono state definitivamente respinte, chi è legittimato a ricorrere non può più sollevare le stesse censure nella procedura di autorizzazione edilizia.
+
+<sup>4</sup> Può interporre ricorso dinanzi al tribunale cantonale superiore e al Tribunale federale soltanto chi ha diritto di adire il Tribunale federale conformemente all’articolo 89 LTF. Hanno diritto di ricorrere anche i Cantoni e Comuni interessati (art. 89 cpv. 2 lett. d LTF).
+
+<sup>5</sup> Il ricorrente non può invocare l’inopportunità.
+
+<sup>6</sup> Per quanto possibile, i tribunali decidono nel merito ed entro 180 giorni dalla chiusura dello scambio di scritti.
+
+<sup>7</sup> Se non decide nel merito e rinvia eccezionalmente la causa all’autorità inferiore, nella sua decisione il Tribunale federale esamina tutte le censure giuridicamente fondate che possono essere determinanti per l’esito della controversia.
+
+[^14c-1]: Introdotto dalla cifra I della LF del 26 set. 2025, in vigore dal 1° apr. 2026 ([RU 2026 99](https://fedlex.data.admin.ch/eli/oc/2026/99); [FF 2023 1602](https://fedlex.data.admin.ch/eli/fga/2023/1602)).
+[^14c-2]: [RS 173.110](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5575)
+
 ## Capitolo 3: Immissione di energia di rete e consumo proprio
 
 #### Art. 15
@@ -283,7 +357,7 @@ Finché non è raggiunto l’obiettivo di incremento della produzione di elettri
 
 <sup>1bis</sup> Per l’elettricità generata da energie rinnovabili la rimunerazione si fonda sul prezzo di mercato medio trimestrale al momento dell’immissione. Per gli impianti con una potenza inferiore a 150 kW il Consiglio federale stabilisce le rimunerazioni minime. Queste si fondano sull’ammortamento di impianti di riferimento nel corso della loro durata di vita.[^15-2]
 
-<sup>1ter</sup> Per l’elettricità proveniente da impianti di cogenerazione forza-calore la rimunerazione si fonda sul prezzo di mercato medio trimestrale al momento dell’immissione.[^15-3]
+<sup>1ter</sup> Per l’elettricità proveniente da impianti di cogenerazione forza-calore la rimunerazione si fonda sul prezzo di mercato al momento dell’immissione.[^15-3]
 
 <sup>1quater</sup> Per il gas rinnovabile la rimunerazione si orienta al prezzo che il gestore di rete dovrebbe pagare in caso di acquisto presso terzi.[^15-4]
 
@@ -295,7 +369,7 @@ Finché non è raggiunto l’obiettivo di incremento della produzione di elettri
 
 [^15-1]: Nuovo testo giusta la cifra I n. 1 della LF del 29 set. 2023 su un approvvigionamento elettrico sicuro con le energie rinnovabili, in vigore dal 1° gen. 2026 ([RU 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [FF 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
 [^15-2]: Introdotto dalla cifra I n. 1 della LF del 29 set. 2023 su un approvvigionamento elettrico sicuro con le energie rinnovabili, in vigore dal 1° gen. 2026 ([RU 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [FF 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)). Rettificato dalla Commissione di redazione dell’AF il 22 feb. 2024 (art. 58 cpv. 1 LParl; [RS 171.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4991)).
-[^15-3]: Introdotto dalla cifra I n. 1 della LF del 29 set. 2023 su un approvvigionamento elettrico sicuro con le energie rinnovabili, in vigore dal 1° gen. 2026 ([RU 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [FF 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
+[^15-3]: Introdotto dalla cifra I n. 1 della LF del 29 set. 2023 su un approvvigionamento elettrico sicuro con le energie rinnovabili ([RU 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [FF 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)). Nuovo testo giusta la cifra I della LF del 26 set. 2025, in vigore dal 1° apr. 2026 ([RU 2026 99](https://fedlex.data.admin.ch/eli/oc/2026/99); [FF 2023 1602](https://fedlex.data.admin.ch/eli/fga/2023/1602)).
 [^15-4]: Introdotto dalla cifra I n. 1 della LF del 29 set. 2023 su un approvvigionamento elettrico sicuro con le energie rinnovabili, in vigore dal 1° gen. 2026 ([RU 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [FF 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
 [^15-5]: [RS 734.7](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8592)
 [^15-6]: Nuovo testo giusta la cifra I n. 1 della LF del 29 set. 2023 su un approvvigionamento elettrico sicuro con le energie rinnovabili, in vigore dal 1° gen. 2026 ([RU 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [FF 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
@@ -1744,6 +1818,14 @@ Il Consiglio federale disciplina la computabilità delle misure cantonali o comu
 
 [^75c-1]: Introdotto dalla cifra I n. 1 della LF del 29 set. 2023 su un approvvigionamento elettrico sicuro con le energie rinnovabili, in vigore dal 1° gen. 2025 ([RU 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [FF 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
 
+#### Art. 75d
+
+**Disposizione transitoria della modifica del 26 settembre 2025**[^75d-1]
+
+Le procedure per la costruzione, l’ampliamento e il rinnovamento di impianti solari ed eolici di interesse nazionale secondo gli articoli 12 capoverso 2 e 13 capoverso 1 che sono pendenti dinanzi all’autorità di prima istanza al momento dell’entrata in vigore della modifica del 26 settembre 2025 sono rette dal nuovo diritto.
+
+[^75d-1]: Introdotto dalla cifra I della LF del 26 set. 2025, in vigore dal 1° apr. 2026 ([RU 2026 99](https://fedlex.data.admin.ch/eli/oc/2026/99); [FF 2023 1602](https://fedlex.data.admin.ch/eli/fga/2023/1602)).
+
 #### Art. 76
 
 **Abrogazione e modifica di altri atti normativi**
@@ -1778,5 +1860,5 @@ Gli atti normativi qui appresso sono modificati come segue:
 
 ...[^annexu1-lvlu1-2]
 
-[^annexu1-lvlu1-1]: [[RU 1999 197](https://fedlex.data.admin.ch/eli/oc/1999/27); [2004 4719](https://fedlex.data.admin.ch/eli/oc/2004/723)all. cifra II n. 6; [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)all. n. 69; [2007 3425](https://fedlex.data.admin.ch/eli/oc/2007/418)all. n. 2; [2010 4285](https://fedlex.data.admin.ch/eli/oc/2010/620)cifra II n. 2, [5061](https://fedlex.data.admin.ch/eli/oc/2010/727)cifra I n. 2, [5065](https://fedlex.data.admin.ch/eli/oc/2010/728); [2012 3231](https://fedlex.data.admin.ch/eli/oc/2012/370); [2013 4505](https://fedlex.data.admin.ch/eli/oc/2013/794); [2014 899](https://fedlex.data.admin.ch/eli/oc/2014/197)cifra I;, [2016 689](https://fedlex.data.admin.ch/eli/oc/2016/132)all. n. 26]
+[^annexu1-lvlu1-1]: [[RU 1999 197](https://fedlex.data.admin.ch/eli/oc/1999/27); [2004 4719](https://fedlex.data.admin.ch/eli/oc/2004/723)all. cifra II n. 6; [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)all. n. 69; [2007 3425](https://fedlex.data.admin.ch/eli/oc/2007/418)all. n. 2; [2010 4285](https://fedlex.data.admin.ch/eli/oc/2010/620)cifra II n. 2, [5061](https://fedlex.data.admin.ch/eli/oc/2010/727)cifra I n. 2, [5065](https://fedlex.data.admin.ch/eli/oc/2010/728); [2012 3231](https://fedlex.data.admin.ch/eli/oc/2012/370); [2013 4505](https://fedlex.data.admin.ch/eli/oc/2013/794); [2014 899](https://fedlex.data.admin.ch/eli/oc/2014/197)cifra I; [2016 689](https://fedlex.data.admin.ch/eli/oc/2016/132)all. n. 26]
 [^annexu1-lvlu1-2]: Le mod. possono essere consultate alla [RU 2017 6839](https://fedlex.data.admin.ch/eli/oc/2017/762).

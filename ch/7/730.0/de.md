@@ -4,11 +4,11 @@ title: Energiegesetz vom 30. September 2016 (EnG)
 short: EnG
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/762"
 language: de
-version: 2026-01-01
+version: 2026-04-01
 adopted: 2016-09-30
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/762/20260101/de/xml/fedlex-data-admin-ch-eli-cc-2017-762-20260101-de-xml-8.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/762/20260101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/762/20260401/de/xml/fedlex-data-admin-ch-eli-cc-2017-762-20260401-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/762/20260401/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/762/20260101/de"
 
 (EnG)
 
-vom 30. September 2016 (Stand am 1. Januar 2026)
+vom 30. September 2016 (Stand am 1. April 2026)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -190,12 +190,20 @@ Wer Endverbraucherinnen und Endverbraucher beliefert, muss:
 
 <sup>1ter</sup> Bei der Festlegung der Gebiete für Solar- und Windkraftanlagen müssen die Kantone die Interessen des Landschaft- und Biotopschutzes und der Walderhaltung sowie die Interessen der Landwirtschaft, insbesondere des Kulturlandschutzes und des Schutzes der Fruchtfolgeflächen, berücksichtigen.[^10-4]
 
-<sup>2</sup> Soweit nötig, sorgen sie dafür, dass Nutzungspläne erstellt oder bestehende Nutzungspläne angepasst werden.
+<sup>1quater</sup> Für Solar- und Windenergieanlagen von nationalem Interesse gemäss den Artikeln 12 Absatz 2 und 13 Absatz 1 in solchen Gebieten ist keine projektbezogene Festsetzung im kantonalen Richtplan erforderlich.[^10-5]
+
+<sup>2</sup> Soweit nötig, sorgen die Kantone dafür, dass Nutzungspläne erstellt oder bestehende Nutzungspläne angepasst werden. Dies kann auch im Rahmen eines kantonalen konzentrierten Plangenehmigungsverfahrens nach Artikel 14*a* (kantonales Plangenehmigungsverfahren) erfolgen.[^10-6]
+
+<sup>3</sup> In geeigneten Fällen führen die zuständigen Behörden für Vorhaben nach Artikel 8 Absatz 2 des Raumplanungsgesetzes vom 22. Juni 1979[^10-7] das Richtplanverfahren parallel mit dem Nutzungsplanverfahren oder dem kantonalen Plangenehmigungsverfahren durch.[^10-8]
 
 [^10-1]: [SR 700](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8351)
 [^10-2]: Fassung gemäss Ziff. I 1 des BG vom 29. Sept. 2023 über eine sichere Stromversorgung mit erneuerbaren Energien, in Kraft seit 1. Jan. 2025 ([AS 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [BBl 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
 [^10-3]: Eingefügt durch Ziff. I 1 des BG vom 29. Sept. 2023 über eine sichere Stromversorgung mit erneuerbaren Energien, in Kraft seit 1. Jan. 2025 ([AS 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [BBl 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
 [^10-4]: Eingefügt durch Ziff. I 1 des BG vom 29. Sept. 2023 über eine sichere Stromversorgung mit erneuerbaren Energien, in Kraft seit 1. Jan. 2025 ([AS 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [BBl 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
+[^10-5]: Eingefügt durch Ziff. I des BG vom 26. Sept. 2025, in Kraft seit 1. April 2026 ([AS 2026 99](https://fedlex.data.admin.ch/eli/oc/2026/99); [BBl 2023 1602](https://fedlex.data.admin.ch/eli/fga/2023/1602)).
+[^10-6]: Fassung gemäss Ziff. I des BG vom 26. Sept. 2025, in Kraft seit 1. April 2026 ([AS 2026 99](https://fedlex.data.admin.ch/eli/oc/2026/99); [BBl 2023 1602](https://fedlex.data.admin.ch/eli/fga/2023/1602)).
+[^10-7]: [SR 700](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8351)
+[^10-8]: Eingefügt durch Ziff. I des BG vom 26. Sept. 2025, in Kraft seit 1. April 2026 ([AS 2026 99](https://fedlex.data.admin.ch/eli/oc/2026/99); [BBl 2023 1602](https://fedlex.data.admin.ch/eli/fga/2023/1602)).
 
 #### Art. 11
 
@@ -252,12 +260,12 @@ Solange die Ziele für den Ausbau der Produktion von Elektrizität aus erneuerba
 
 <sup>2</sup> …[^13-3]
 
-<sup>3</sup> Erkennt der Bundesrat einer Anlage ein nationales Interesse im Sinne von Artikel 12 zu, so kann der Bundesrat zudem beschliessen, dass die notwendigen Bewilligungen in einem konzentrierten und abgekürzten Verfahren erteilt werden.[^13-4]
+<sup>3</sup> …[^13-4]
 
 [^13-1]: Fassung gemäss Ziff. I 1 des BG vom 29. Sept. 2023 über eine sichere Stromversorgung mit erneuerbaren Energien, in Kraft seit 1. Jan. 2025 ([AS 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [BBl 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
 [^13-2]: Fassung gemäss Ziff. I 1 des BG vom 29. Sept. 2023 über eine sichere Stromversorgung mit erneuerbaren Energien, in Kraft seit 1. Jan. 2025 ([AS 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [BBl 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
 [^13-3]: Aufgehoben durch Ziff. I 1 des BG vom 29. Sept. 2023 über eine sichere Stromversorgung mit erneuerbaren Energien, mit Wirkung seit 1. Jan. 2025 ([AS 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [BBl 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
-[^13-4]: Eingefügt durch Ziff. I 1 des BG vom 29. Sept. 2023 über eine sichere Stromversorgung mit erneuerbaren Energien, in Kraft seit 1. Jan. 2025 ([AS 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [BBl 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
+[^13-4]: Eingefügt durch Ziff. I 1 des BG vom 29. Sept. 2023 über eine sichere Stromversorgung mit erneuerbaren Energien ([AS 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [BBl 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)). Aufgehoben durch Ziff. I des BG vom 26. Sept. 2025, mit Wirkung seit 1. April 2026 ([AS 2026 99](https://fedlex.data.admin.ch/eli/oc/2026/99); [BBl 2023 1602](https://fedlex.data.admin.ch/eli/fga/2023/1602)).
 
 #### Art. 14
 
@@ -273,6 +281,72 @@ Solange die Ziele für den Ausbau der Produktion von Elektrizität aus erneuerba
 
 [^14-1]: [SR 451](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7166)
 
+#### Art. 14a
+
+**Kantonales Plangenehmigungsverfahren bei Solar- und Windenergieanlagen von nationalem Interesse**[^14a-1]
+
+<sup>1</sup> Die Kantone sehen für den Bau, die Erweiterung und die Erneuerung von Solar- und Windenergieanlagen von nationalem Interesse nach den Artikeln 12 Absatz 2 und 13 Absatz 1 ein konzentriertes Plangenehmigungsverfahren vor. Sie sorgen dafür, dass die betroffenen Gemeinden frühzeitig in das Verfahren einbezogen werden.
+
+<sup>2</sup> Soweit das kantonale Recht nichts anderes bestimmt, ist die Zustimmung der Standortgemeinden erforderlich.
+
+<sup>3</sup> Bis zum Inkrafttreten der kantonalen Gesetzesbestimmungen zum kantonalen Plangenehmigungsverfahren können die Kantone das Verfahren auf Verordnungsstufe regeln. Solange keine kantonale Regelung vorliegt, sind die Artikel 16–17 des Elektrizitätsgesetzes vom 24. Juni 1902[^14a-2] als kantonales Recht sinngemäss anwendbar.
+
+<sup>4</sup>
+
+Mit der Plangenehmigung werden:
+
+- a. die zulässige Nutzung des Bodens festgelegt;
+- b. die für den Bau, die Erweiterung oder die Erneuerung der Anlage notwendigen und in der Kompetenz der Kantone und der Gemeinden liegenden Bewilligungen und Enteignungsrechte erteilt;
+- c. die Erschliessung geregelt und die erforderlichen Installationsplätze festgelegt;
+- d. für die Windkraftanlagen vorgegebene Abmessungen festgelegt, welche das beim Eintreten der Rechtskraft der Bewilligungen gewählte Modell der Anlage einhalten muss; die Auswirkungen der Anlagen sind auf der Grundlage der Höchstwerte zu evaluieren, wobei die geometrischen, energetischen und ökologischen Aspekte zu dokumentieren sind.
+
+<sup>5</sup> Die Kantonsregierung ist für die Erteilung der Plangenehmigung zuständig. Sie kann diese Aufgabe einer kantonalen Verwaltungsstelle übertragen.
+
+<sup>6</sup> Die Plangenehmigungsbehörde entscheidet innerhalb von 180 Tagen nachdem ihr die vollständigen Gesuchsunterlagen vorliegen.
+
+<sup>7</sup> Artikel 14 Absatz 3 gilt sinngemäss.
+
+<sup>8</sup> Solar- und Windenergieanlagen von nationalem Interesse nach den Artikeln 12 Absatz 2 und 13 Absatz 1, deren Energieproduktion definitiv eingestellt wird, sind zurückzubauen. Die Plangenehmigungsbehörde entscheidet, inwieweit der ursprüngliche Zustand wiederherzustellen ist.
+
+<sup>9</sup> Bei Anlagen, die auf dem Gebiet mehrerer Kantone geplant werden (interkantonale Anlagen), können die beteiligten Kantone einen Leitkanton bestimmen; dieser wird von den beteiligten Kantonen einvernehmlich bestimmt. Er erteilt die konzentrierte Plangenehmigung für die gesamte Anlage. Das Verfahren richtet sich nach den Vorschriften des Leitkantons.
+
+[^14a-1]: Eingefügt durch Ziff. I des BG vom 26. Sept. 2025, in Kraft seit 1. April 2026 ([AS 2026 99](https://fedlex.data.admin.ch/eli/oc/2026/99); [BBl 2023 1602](https://fedlex.data.admin.ch/eli/fga/2023/1602)).
+[^14a-2]: [SR 734.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8570)
+
+#### Art. 14b
+
+**Durchführung des ordentlichen Verfahrens anstelle des kantonalen Plangenehmigungsverfahrens bei Solar- und Windenergieanlagen von nationalem Interesse**[^14b-1]
+
+Gesuchstellerinnen oder Gesuchsteller können verlangen, dass für Solar- und Windenergieanlagen von nationalem Interesse nach den Artikeln 12 Absatz 2 und 13 Absatz 1 anstelle des kantonalen Plangenehmigungsverfahrens das ordentliche Planungs- und Baubewilligungsverfahren durchgeführt wird.
+
+[^14b-1]: Eingefügt durch Ziff. I des BG vom 26. Sept. 2025, in Kraft seit 1. April 2026 ([AS 2026 99](https://fedlex.data.admin.ch/eli/oc/2026/99); [BBl 2023 1602](https://fedlex.data.admin.ch/eli/fga/2023/1602)).
+
+#### Art. 14c
+
+**Rechtsschutz im Zusammenhang mit Solar- und Windenergieanlagen und Wasserkraftwerken von nationalem Interesse**[^14c-1]
+
+<sup>1</sup>
+
+Gegen die folgenden Pläne und Entscheide ist auf kantonaler Ebene nur Beschwerde an das obere kantonale Gericht nach Artikel 86 Absatz 2 des Bundesgerichtsgesetzes vom 17. Juni 2005[^14c-2] (BGG) zulässig:
+
+- a. Plangenehmigungen nach Artikel 14*a* betreffend Solar- und Windenergieanlagen von nationalem Interesse nach den Artikeln 12 Absatz 2 und 13 Absatz 1;
+- b. Nutzungspläne, Bewilligungs- und Konzessionsentscheide betreffend Wasserkraftwerke von nationalem Interesse nach den Artikeln 12 Absatz 2 und 13 Absatz 1.
+
+<sup>2</sup> Der Entscheid des oberen kantonalen Gerichts kann mit Beschwerde in öffentlich-rechtlichen Angelegenheiten beim Bundesgericht angefochten werden.
+
+<sup>3</sup> Hat eine beschwerdeberechtigte Person gegen einen Nutzungsplan mit Verfügungscharakter zulässige Rügen nicht erhoben oder sind die Rügen rechtskräftig abgelehnt worden, so darf die Person diese Rügen im Baubewilligungsverfahren nicht mehr vorbringen.
+
+<sup>4</sup> Beim oberen kantonalen Gericht und beim Bundesgericht kann nur Beschwerde führen, wer nach Artikel 89 BGG zur Beschwerde an das Bundesgericht berechtigt ist. Zur Beschwerde berechtigt sind auch die betroffenen Kantone und Gemeinden (Art. 89 Abs. 2 Bst. d BGG).
+
+<sup>5</sup> Die Rüge der Unangemessenheit ist unzulässig.
+
+<sup>6</sup> Die Gerichte entscheiden soweit möglich in der Sache selbst und innerhalb von 180 Tagen nach Abschluss des Schriftenwechsels.
+
+<sup>7</sup> Sollte das Bundesgericht nicht in der Sache selbst entscheiden und diese ausnahmsweise an die Vorinstanz zurückweisen, so enthält der entsprechende Entscheid die Prüfung sämtlicher rechtsgenügend vorgebrachter Rügen, die für den Ausgang des Rechtsstreits massgebend sein können.
+
+[^14c-1]: Eingefügt durch Ziff. I des BG vom 26. Sept. 2025, in Kraft seit 1. April 2026 ([AS 2026 99](https://fedlex.data.admin.ch/eli/oc/2026/99); [BBl 2023 1602](https://fedlex.data.admin.ch/eli/fga/2023/1602)).
+[^14c-2]: [SR 173.110](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5575)
+
 ## 3. Kapitel: Einspeisung netzgebundener Energie und Eigenverbrauch
 
 #### Art. 15
@@ -283,7 +357,7 @@ Solange die Ziele für den Ausbau der Produktion von Elektrizität aus erneuerba
 
 <sup>1bis</sup> Die Vergütung für Elektrizität aus erneuerbaren Energien richtet sich nach dem vierteljährlich gemittelten Marktpreis zum Zeitpunkt der Einspeisung. Der Bundesrat legt für Anlagen mit einer Leistung von weniger als 150 kW Minimalvergütungen fest. Diese orientieren sich an der Amortisation von Referenzanlagen über ihre Lebensdauer.[^15-2]
 
-<sup>1ter</sup> Die Vergütung für Elektrizität aus Wärme-Kraft-Kopplungsanlagen richtet sich nach dem vierteljährlich gemittelten Marktpreis im Zeitpunkt der Einspeisung.[^15-3]
+<sup>1ter</sup> Die Vergütung für Elektrizität aus Wärme-Kraft-Kopplungsanlagen richtet sich nach dem Marktpreis im Zeitpunkt der Einspeisung.[^15-3]
 
 <sup>1quater</sup> Die Vergütung für erneuerbares Gas orientiert sich am Preis, den der Netzbetreiber für den Kauf bei einem Dritten zu bezahlen hätte.[^15-4]
 
@@ -295,7 +369,7 @@ Solange die Ziele für den Ausbau der Produktion von Elektrizität aus erneuerba
 
 [^15-1]: Fassung gemäss Ziff. I 1 des BG vom 29. Sept. 2023 über eine sichere Stromversorgung mit erneuerbaren Energien, in Kraft seit 1. Jan. 2026 ([AS 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [BBl 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
 [^15-2]: Eingefügt durch Ziff. I 1 des BG vom 29. Sept. 2023 über eine sichere Stromversorgung mit erneuerbaren Energien, in Kraft seit 1. Jan. 2026 ([AS 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [BBl 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)). Berichtigt von der RedK der BVers am 22. Febr. 2024 (Art. 58 Abs. 1 ParlG; [SR 171.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4991)).
-[^15-3]: Eingefügt durch Ziff. I 1 des BG vom 29. Sept. 2023 über eine sichere Stromversorgung mit erneuerbaren Energien, in Kraft seit 1. Jan. 2026 ([AS 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [BBl 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
+[^15-3]: Eingefügt durch Ziff. I 1 des BG vom 29. Sept. 2023 über eine sichere Stromversorgung mit erneuerbaren Energien ([AS 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [BBl 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)). Fassung gemäss Ziff. I des BG vom 26. Sept. 2025, in Kraft seit 1. April 2026 ([AS 2026 99](https://fedlex.data.admin.ch/eli/oc/2026/99); [BBl 2023 1602](https://fedlex.data.admin.ch/eli/fga/2023/1602)).
 [^15-4]: Eingefügt durch Ziff. I 1 des BG vom 29. Sept. 2023 über eine sichere Stromversorgung mit erneuerbaren Energien, in Kraft seit 1. Jan. 2026 ([AS 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [BBl 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
 [^15-5]: [SR 734.7](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8592)
 [^15-6]: Fassung gemäss Ziff. I 1 des BG vom 29. Sept. 2023 über eine sichere Stromversorgung mit erneuerbaren Energien, in Kraft seit 1. Jan. 2026 ([AS 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [BBl 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
@@ -1742,6 +1816,14 @@ Für Endverbraucherinnen und Endverbraucher, die eine Zielvereinbarung nach bish
 Der Bundesrat regelt die Anrechenbarkeit kantonaler und kommunaler Massnahmen, die vor Inkrafttreten der Änderung vom 29. September 2023 umgesetzt worden sind.
 
 [^75c-1]: Eingefügt durch Ziff. I 1 des BG vom 29. Sept. 2023 über eine sichere Stromversorgung mit erneuerbaren Energien, in Kraft seit 1. Jan. 2025 ([AS 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [BBl 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
+
+#### Art. 75d
+
+**Übergangsbestimmung zur Änderung vom 26. September 2025**[^75d-1]
+
+Verfahren betreffend den Bau, die Erweiterung und die Erneuerung von Solar- und Windenergieanlagen von nationalem Interesse nach den Artikeln 12 Absatz 2 und 13 Absatz 1, die beim Inkrafttreten der Änderung vom 26. September 2025 vor erster Instanz hängig sind, richten sich nach neuem Recht.
+
+[^75d-1]: Eingefügt durch Ziff. I des BG vom 26. Sept. 2025, in Kraft seit 1. April 2026 ([AS 2026 99](https://fedlex.data.admin.ch/eli/oc/2026/99); [BBl 2023 1602](https://fedlex.data.admin.ch/eli/fga/2023/1602)).
 
 #### Art. 76
 
