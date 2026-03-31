@@ -3,20 +3,19 @@ canton: SO
 number: "614.159.15"
 title: "Steuerverordnung Nr. 15: Bemessung des Mietwertes der eigenen Wohnung"
 language: de
-version: 2021-01-01
-valid_until: 2026-03-31
-version_adopted: 2020-10-27
+version: 2026-04-01
+version_adopted: 2026-02-24
 adopted: 1986-01-28
 in_force: 1986-01-01
 url: "https://bgs.so.ch/app/de/texts_of_law/614.159.15"
-pdf: "https://bgs.so.ch/api/de/versions/5045/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5639/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Steuerverordnung Nr. 15: Bemessung des Mietwertes der eigenen Wohnung
 
-Vom 28.01.1986 (Stand 01.01.2021)
+Vom 28.01.1986 (Stand 01.04.2026)
 
 Der Regierungsrat des Kantons Solothurn
 
@@ -51,9 +50,9 @@ beschliesst:
 
 - a) Gruppe I: Solothurn; Feldbrunnen-St.Niklaus, Grenchen (ausser Staad); Olten.
 - b) Gruppe II: Bellach, Bettlach, Langendorf; Biberist, Derendingen, Gerlafingen, Zuchwil; Balsthal, Egerkingen, Oensingen; Schönenwerd, Starrkirch-Wil, Wangen bei Olten; Trimbach; Dornach; Breitenbach.
-- c) Gruppe III: Grenchen (nur Staad), Lommiswil, Oberdorf, Riedholz, Rüttenen, Selzach (ausser Altreu, Haag, Oberes Moos und Känelmoos); Lüsslingen-Nennigkofen, Lüterkofen-Ichertswil (ausser Ichertswil); Aeschi (ausser Burgäschi und Steinhof), Deitingen, Etziken, Kriegstetten, Lohn-Ammannsegg, Luterbach, Subingen; Härkingen, Kestenholz, Neuendorf, Niederbuchsiten, Oberbuchsiten; Däniken, Dulliken, Gretzenbach (ausser Grod), Gunzgen (ausser Allmend), Hägendorf, Kappel, Rickenbach; Erlinsbach (nur Niedererlinsbach), Lostorf (ausser Mahren), Niedergösgen, Obergösgen, Winznau; Gempen, Hochwald, Hofstetten-Flüh (ausser Flüh); Büsserach, Kleinlützel, Nunningen.
-- d) Gruppe IV: Flumenthal, Günsberg, Hubersdorf, Selzach (nur Altreu, Haag, Oberes Moos und Känelmoos); Buchegg (nur Aetingen, Buchegg, Hessigkofen, Küttigkofen, Kyburg und Mühledorf), Lüterkofen-Ichertswil (nur Ichertswil), Lüterswil- Gächliwil (ausser Gächliwil), Messen (ausser Balm, Brunnenthal und Oberramsern), Schnottwil; Halten, Horriwil, Obergerlafingen, Oekingen, Recherswil; Aedermannsdorf, Herbetswil, Holderbank, Laupersdorf (ohne Höngen), Matzendorf, Mümliswil-Ramiswil (ausser Ramiswil), Welschenrohr; Wolfwil; Boningen, Eppenberg- Wöschnau, Fulenbach, Gretzenbach (nur Grod), Gunzgen (nur Allmend), Walterswil; Erlinsbach (nur Obererlinsbach), Lostorf (nur Mahren), Stüsslingen (ausser Rohr), Wisen; Bättwil, Büren, Hofstetten-Flüh (nur Flüh), Metzerlen-Mariastein, Nuglar- St.Pantaleon, Rodersdorf, Seewen, Witterswil; Bärschwil, Erschwil, Fehren, Himmelried, Meltingen, Zullwil.
-- e) Gruppe V: Balm bei Günsberg, Kammersrohr; Biezwil, Buchegg (nur Aetigkofen, Bibern, Brittern, Brügglen, Gossliwil und Tscheppach), Lüterswil-Gächliwil (nur Gächliwil), Messen (nur Balm, Brunnenthal und Oberramsern), Unterramsern; Aeschi (nur Burgäschi und Steinhof), Bolken, Drei Höfe, Hüniken; Gänsbrunnen, Laupersdorf (nur Höngen), Mümliswil-Ramiswil (nur Ramiswil); Hauenstein-Ifenthal, Kienberg, Stüsslingen (nur Rohr); Beinwil, Grindel.
+- c) Gruppe III: Grenchen (nur Staad), Lommiswil, Oberdorf, Riedholz, Rüttenen, Selzach (ausser Altreu, Haag, Oberes Moos und Känelmoos); Lüsslingen-Nennigkofen, Lüterkofen-Ichertswil (ausser Ichertswil); Aeschi (ausser Burgäschi und Steinhof), Deitingen, Etziken, Kriegstetten (ausser Halten und Oekingen), Lohn-Ammannsegg, Luterbach, Subingen; Härkingen, Kestenholz, Neuendorf, Niederbuchsiten, Oberbuchsiten; Däniken, Dulliken, Gretzenbach (ausser Grod), Gunzgen (ausser Allmend), Hägendorf, Kappel, Rickenbach; Erlinsbach (nur Niedererlinsbach), Lostorf (ausser Mahren), Niedergösgen, Obergösgen, Winznau; Gempen, Hochwald, Hofstetten-Flüh (ausser Flüh); Büsserach, Kleinlützel, Nunningen.
+- d) Gruppe IV: Flumenthal, Günsberg, Hubersdorf, Selzach (nur Altreu, Haag, Oberes Moos und Känelmoos); Buchegg (nur Aetingen, Buchegg, Hessigkofen, Küttigkofen, Kyburg, Mühledorf und Lüterswil), Lüterkofen-Ichertswil (nur Ichertswil), Messen (ausser Balm, Brunnenthal und Oberramsern), Schnottwil; Kriegstetten (nur Halten und Oekingen), Horriwil, Obergerlafingen, Recherswil; Aedermannsdorf, Herbetswil, Holderbank, Laupersdorf (ohne Höngen), Matzendorf, Mümliswil-Ramiswil (ausser Ramiswil), Welschenrohr-Gänsbrunnen (nur Welschenrohr); Wolfwil; Boningen, Eppenberg- Wöschnau, Fulenbach, Gretzenbach (nur Grod), Gunzgen (nur Allmend), Walterswil; Erlinsbach (nur Obererlinsbach), Lostorf (nur Mahren), Stüsslingen (ausser Rohr), Wisen; Bättwil, Büren, Hofstetten-Flüh (nur Flüh), Metzerlen-Mariastein, Nuglar- St.Pantaleon, Rodersdorf, Seewen, Witterswil; Bärschwil, Erschwil, Fehren, Himmelried, Meltingen, Zullwil.
+- e) Gruppe V: Balm bei Günsberg, Kammersrohr; Biezwil, Buchegg (nur Aetigkofen, Bibern, Brittern, Brügglen, Gossliwil, Tscheppach und Gächliwil), Messen (nur Balm, Brunnenthal und Oberramsern), Unterramsern; Aeschi (nur Burgäschi und Steinhof), Bolken, Drei Höfe, Hüniken; Welschenrohr-Gänsbrunnen (nur Gänsbrunnen), Laupersdorf (nur Höngen), Mümliswil-Ramiswil (nur Ramiswil); Hauenstein-Ifenthal, Kienberg, Stüsslingen (nur Rohr); Beinwil, Grindel.
 
 #### § 3
 
@@ -142,7 +141,7 @@ beschliesst:
 
 <sup>1</sup> In besonderen Fällen sind die in § 1 und § 8 genannten Pauschalansätze nicht massgebend, so etwa einerseits für alte, primitiv eingerichtete oder sehr schlecht unterhaltene Häuser oder anderseits für Gebäude mit höchstem Komfort.
 
-<sup>1<sup>bis</sup></sup> Beträgt der nach den §§ 1, 5 und 8 ermittelte Mietwert weniger als 60% des Betrages, der für die Miete einer gleichartigen Wohnung aufgewendet werden müsste (Wohnwert), setzt die Veranlagungsbehörde den Mietwert auf 60% des Wohnwertes fest. Beträgt der nach den §§ 1, 5 und 8 ermittelte Mietwert mehr als 90% des Wohnwertes, setzt die Veranlagungsbehörde den Mietwert auf 90% des Wohnwertes fest.
+<sup>1<sup>bis</sup></sup> Beträgt der nach den §§ 1, 5 und 8 ermittelte Mietwert weniger als 60% des Betrages, der für die Miete einer gleichartigen Wohnung aufgewendet werden müsste (Wohnwert), setzt das Kantonale Steueramt den Mietwert auf 60% des Wohnwertes fest. Beträgt der nach den §§ 1, 5 und 8 ermittelte Mietwert mehr als 90% des Wohnwertes, setzt das Kantonale Steueramt den Mietwert auf 90% des Wohnwertes fest.
 
 <sup>2</sup> …
 
