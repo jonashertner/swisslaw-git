@@ -3,20 +3,19 @@ canton: ZG
 number: "861.42"
 title: Verordnung betreffend Sozialhilfe für Personen aus dem Asylbereich
 language: de
-version: 2023-10-06
-valid_until: 2026-03-31
-version_adopted: 2023-10-03
+version: 2026-04-01
+version_adopted: 2026-02-17
 adopted: 2009-01-27
 in_force: 2009-07-01
 url: "https://bgs.zg.ch/app/de/texts_of_law/861.42"
-pdf: "https://bgs.zg.ch/api/de/versions/2491/pdf_file"
+pdf: "https://bgs.zg.ch/api/de/versions/2987/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung betreffend Sozialhilfe für Personen aus dem Asylbereich
 
-Vom 27. Januar 2009 (Stand 6. Oktober 2023)
+Vom 27. Januar 2009 (Stand 1. April 2026)
 
 Der Regierungsrat des Kantons Zug,
 
@@ -75,6 +74,14 @@ beschliesst:
 
 [^5-1]: BGS [861.4](https://bgs.zg.ch/data/861.4/de)
 [^5-2]: BGS [861.61](https://bgs.zg.ch/data/861.61/de)
+
+#### § 5a
+
+**Sachleistungen**
+
+<sup>1</sup> Die Unterstützungsleistungen für Personen ohne Aufenthaltsbewilligung (B-Ausweis) werden grundsätzlich in Form von Sachleistungen ausgerichtet.
+
+<sup>2</sup> Über Bezahlkarten ausgerichtete Unterstützungsleistungen gelten als Sachleistungen.
 
 #### § 6
 
