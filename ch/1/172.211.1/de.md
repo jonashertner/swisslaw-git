@@ -4,11 +4,11 @@ title: Organisationsverordnung vom 20. April 2011 für das Eidgenössische Depar
 short: OV-EDA
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/248"
 language: de
-version: 2021-01-01
+version: 2026-04-01
 adopted: 2011-04-20
 in_force: 2011-05-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/248/20210101/de/xml/fedlex-data-admin-ch-eli-cc-2011-248-20210101-de-xml-8.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/248/20210101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/248/20260401/de/xml/fedlex-data-admin-ch-eli-cc-2011-248-20260401-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/248/20260401/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2011/248/20210101/de"
 
 (OV-EDA)
 
-vom 20. April 2011 (Stand am 1. Januar 2021)
+vom 20. April 2011 (Stand am 1. April 2026)
 
 Der Schweizerische Bundesrat,
 
@@ -70,11 +70,14 @@ Das EDA beachtet bei der Verfolgung seiner Ziele und Tätigkeiten neben den allg
 
 **Besondere Zuständigkeiten**
 
-Das EDA entscheidet über:
+Die Vorsteherin oder der Vorsteher des EDA entscheidet über:[^3-1]
 
 - a. die Eröffnung und Schliessung der konsularischen Posten;
-- b. den Übergang der diplomatischen Zuständigkeit für ein Land von einer Mission auf eine andere;
+- b.[^3-2] den Übergang der diplomatischen oder konsularischen Zuständigkeit für ein Land von einer Mission auf eine andere;
 - c. die Vertretung der Schweiz vor internationalen Gerichten und Streitbeilegungsorganen; die Zuständigkeiten anderer Departemente bleiben vorbehalten.
+
+[^3-1]: Fassung gemäss Ziff. I der V vom 11. Febr. 2026, in Kraft seit 1. April 2026 ([AS 2026 93](https://fedlex.data.admin.ch/eli/oc/2026/93)).
+[^3-2]: Fassung gemäss Ziff. I der V vom 11. Febr. 2026, in Kraft seit 1. April 2026 ([AS 2026 93](https://fedlex.data.admin.ch/eli/oc/2026/93)).
 
 #### Art. 4
 
@@ -96,28 +99,37 @@ Das Generalsekretariat (GS-EDA) übt die Funktionen nach Artikel 42 RVOG aus und
 - a<sup>bis</sup>.[^5-2] Es vertritt die Vorsteherin oder den Vorsteher des EDA in allen das Generalsekretariat betreffenden Fragen nach innen und nach aussen. In Absprache mit der verantwortlichen Direktion für Ressourcen vertritt es die strategischen Interessen des Departements in Ressourcenfragen.
 - b. Es plant, koordiniert, kontrolliert und initiiert die Departementsgeschäfte und begleitet insbesondere die wichtigen departementsübergreifenden Geschäfte.
 - c. Es plant, gestaltet und koordiniert die Information und Kommunikation des EDA gegenüber der Öffentlichkeit im In- und Ausland.
-- d.[^5-3] Es stellt die historischen Folgearbeiten im Nachgang zur Unabhängigen Expertenkommission «Schweiz – zweiter Weltkrieg» sicher, vertritt das EDA in der Kommission für die Veröffentlichung Diplomatischer Dokumente der Schweiz und ist zuständig für die Behandlung aller Gesuche um Einsichtnahme in das Archivgut des EDA, das noch einer Schutzfrist unterliegt.
-- e.[^5-4] Es erfüllt die Aufgaben, die dem EDA durch die Gesetzgebung über die Landeskommunikation übertragen werden; namentlich informiert es im In‑ und Ausland über die Aussenpolitik der Schweiz und fördert das Ansehen der Schweiz im Ausland. Es koordiniert seine Tätigkeiten mit entsprechenden Tätigkeiten anderer bundesinterner oder -externer Stellen.
-- f.[^5-5] Es stellt in Zusammenarbeit mit dem Eidgenössischen Departement des Innern die aussenpolitische Koordination im Bereich Kulturpolitik sicher.
-- g.[^5-6] Es übt die Aufsicht über die Geschäftsführung des EDA aus.
-- h.[^5-7] Es stellt im EDA die Chancengleichheit in Bezug auf Geschlecht und Sprache sicher.
-- i.[^5-8] Es führt das Kompetenzzentrum Verträge und Beschaffungen für das gesamte EDA und übt die Aufsicht über die öffentlichen Beschaffungen und das Vertragsmanagement für das EDA aus.
-- j.[^5-9] Es führt das «Compliance Office» als Anlaufstelle für Meldungen von Unregelmässigkeiten und Missständen, die im Zusammenhang mit EDA-Aufgaben stehen, und ist in Zusammenarbeit mit der Interdepartementalen Arbeitsgruppe zur Korruptionsbekämpfung und mit der Abteilung Sektorielle Aussenpolitiken des EDA für die Korruptions- und Missbrauchsprävention im EDA zuständig.
-- k.[^5-10] Es nimmt den internen Beschwerdedienst des EDA wahr.
+- c<sup>bis</sup>.[^5-3] Es unterstützt das Departement bei der operationellen und logistischen Organisation von multilateralen Konferenzen und Grossanlässen.
+- d.[^5-4] Es behandelt Gesuche um Einsichtnahme in das Archivgut des EDA, das noch einer Schutzfrist unterliegt.
+- e.[^5-5] Es fördert das Ansehen der Schweiz im Ausland und stärkt ihre Netzwerke nach den Vorgaben der Gesetzgebung über die Landeskommunikation und der Strategie Landeskommunikation des Bundesrates; es koordiniert seine Tätigkeiten mit entsprechenden Tätigkeiten anderer bundesinterner oder -externer Stellen.
+- f.[^5-6] Es stellt in Zusammenarbeit mit dem Eidgenössischen Departement des Innern die aussenpolitische Koordination im Bereich Kulturpolitik sicher.
+- g.[^5-7] Es übt die Aufsicht über die Geschäftsführung des EDA aus.
+- h.[^5-8] Es stellt im EDA die Chancengleichheit in Bezug auf Geschlecht, Sprache und Behinderungen sicher.
+- i.[^5-9] Es übt die Aufsicht über die öffentlichen Beschaffungen und das Vertragsmanagement des EDA aus.
+- j.[^5-10] Es ist Anlaufstelle für Meldungen von Unregelmässigkeiten und Missständen, die im Zusammenhang mit Aufgaben des EDA stehen.
+- k.[^5-11] Es ist in Zusammenarbeit mit anderen Stellen inner- und ausserhalb des EDA für die Korruptions- und Missbrauchsprävention im EDA zuständig.
+- l.[^5-12] Es gewährleistet die Umsetzung der Vorschriften zur Informationssicherheit, zum Datenschutz und zum Öffentlichkeitsprinzip.
+- m.[^5-13] Es dient als interner Beschwerdedienst des EDA.
 
-<sup>2</sup> Die dem Generalsekretariat unterstellte Interne Revision EDA (IR EDA) übt ihre Tätigkeit im Rahmen der gesetzlichen Vorschriften und der Geschäftsordnung selbstständig und unabhängig aus und unterstützt damit das Generalsekretariat und die Departementsleitung in der Wahrnehmung ihrer Aufsichtsverantwortung.[^5-11]
+<sup>2</sup> Die dem Generalsekretariat unterstellte Interne Revision EDA (IR EDA) übt ihre Tätigkeit im Rahmen der gesetzlichen Vorschriften und der Geschäftsordnung selbstständig und unabhängig aus und unterstützt damit das Generalsekretariat und die Departementsleitung in der Wahrnehmung ihrer Aufsichtsverantwortung.[^5-14]
+
+<sup>3</sup> Dem GS-EDA unterstellt sind ausserdem die oder der Informationssicherheitsbeauftragte des EDA, die Beraterin oder der Berater des EDA für Datenschutz und die Beraterin oder der Berater des EDA für das Öffentlichkeitsprinzip.[^5-15]
 
 [^5-1]: Fassung gemäss Ziff. I der V vom 23. Mai 2018, in Kraft seit 1. Juli 2018 ([AS 2018 2241](https://fedlex.data.admin.ch/eli/oc/2018/313)).
 [^5-2]: Eingefügt durch Ziff. I der V vom 23. Mai 2018, in Kraft seit 1. Juli 2018 ([AS 2018 2241](https://fedlex.data.admin.ch/eli/oc/2018/313)).
-[^5-3]: Fassung gemäss Ziff. I der V vom 21. Jan. 2015, in Kraft seit 1. März 2015 ([AS 2015 357](https://fedlex.data.admin.ch/eli/oc/2015/47)).
-[^5-4]: Fassung gemäss Ziff. I der V vom 21. Jan. 2015, in Kraft seit 1. März 2015 ([AS 2015 357](https://fedlex.data.admin.ch/eli/oc/2015/47)).
-[^5-5]: Fassung gemäss Ziff. I der V vom 21. Jan. 2015, in Kraft seit 1. März 2015 ([AS 2015 357](https://fedlex.data.admin.ch/eli/oc/2015/47)).
+[^5-3]: Eingefügt durch Ziff. I der V vom 11. Febr. 2026, in Kraft seit 1. April 2026 ([AS 2026 93](https://fedlex.data.admin.ch/eli/oc/2026/93)).
+[^5-4]: Fassung gemäss Ziff. I der V vom 11. Febr. 2026, in Kraft seit 1. April 2026 ([AS 2026 93](https://fedlex.data.admin.ch/eli/oc/2026/93)).
+[^5-5]: Fassung gemäss Ziff. I der V vom 11. Febr. 2026, in Kraft seit 1. April 2026 ([AS 2026 93](https://fedlex.data.admin.ch/eli/oc/2026/93)).
 [^5-6]: Fassung gemäss Ziff. I der V vom 21. Jan. 2015, in Kraft seit 1. März 2015 ([AS 2015 357](https://fedlex.data.admin.ch/eli/oc/2015/47)).
 [^5-7]: Fassung gemäss Ziff. I der V vom 21. Jan. 2015, in Kraft seit 1. März 2015 ([AS 2015 357](https://fedlex.data.admin.ch/eli/oc/2015/47)).
-[^5-8]: Fassung gemäss Ziff. I der V vom 21. Jan. 2015, in Kraft seit 1. März 2015 ([AS 2015 357](https://fedlex.data.admin.ch/eli/oc/2015/47)).
-[^5-9]: Eingefügt durch Ziff. I der V vom 21. Jan. 2015, in Kraft seit 1. März 2015 ([AS 2015 357](https://fedlex.data.admin.ch/eli/oc/2015/47)).
-[^5-10]: Eingefügt durch Ziff. I der V vom 21. Jan. 2015, in Kraft seit 1. März 2015 ([AS 2015 357](https://fedlex.data.admin.ch/eli/oc/2015/47)).
-[^5-11]: Fassung gemäss Ziff. I der V vom 21. Jan. 2015, in Kraft seit 1. März 2015 ([AS 2015 357](https://fedlex.data.admin.ch/eli/oc/2015/47)).
+[^5-8]: Fassung gemäss Ziff. I der V vom 11. Febr. 2026, in Kraft seit 1. April 2026 ([AS 2026 93](https://fedlex.data.admin.ch/eli/oc/2026/93)).
+[^5-9]: Fassung gemäss Ziff. I der V vom 11. Febr. 2026, in Kraft seit 1. April 2026 ([AS 2026 93](https://fedlex.data.admin.ch/eli/oc/2026/93)).
+[^5-10]: Eingefügt durch Ziff. I der V vom 21. Jan. 2015 ([AS 2015 357](https://fedlex.data.admin.ch/eli/oc/2015/47)). Fassung gemäss Ziff. I der V vom 11. Febr. 2026, in Kraft seit 1. April 2026 ([AS 2026 93](https://fedlex.data.admin.ch/eli/oc/2026/93)).
+[^5-11]: Eingefügt durch Ziff. I der V vom 21. Jan. 2015 ([AS 2015 357](https://fedlex.data.admin.ch/eli/oc/2015/47)). Fassung gemäss Ziff. I der V vom 11. Febr. 2026, in Kraft seit 1. April 2026 ([AS 2026 93](https://fedlex.data.admin.ch/eli/oc/2026/93)).
+[^5-12]: Eingefügt durch Ziff. I der V vom 11. Febr. 2026, in Kraft seit 1. April 2026 ([AS 2026 93](https://fedlex.data.admin.ch/eli/oc/2026/93)).
+[^5-13]: Eingefügt durch Ziff. I der V vom 11. Febr. 2026, in Kraft seit 1. April 2026 ([AS 2026 93](https://fedlex.data.admin.ch/eli/oc/2026/93)).
+[^5-14]: Fassung gemäss Ziff. I der V vom 21. Jan. 2015, in Kraft seit 1. März 2015 ([AS 2015 357](https://fedlex.data.admin.ch/eli/oc/2015/47)).
+[^5-15]: Eingefügt durch Ziff. I der V vom 11. Febr. 2026, in Kraft seit 1. April 2026 ([AS 2026 93](https://fedlex.data.admin.ch/eli/oc/2026/93)).
 
 ### 2. Abschnitt: Staatssekretariat EDA
 
@@ -137,18 +149,20 @@ Die Staatssekretärin oder der Staatssekretär:
 - b. vertritt die Vorsteherin oder den Vorsteher des EDA nach innen und nach aussen, soweit es nicht um Fragen geht, die das Generalsekretariat betreffen;
 - c. hat in Vertretung der Vorsteherin oder des Vorstehers des EDA umfassende Weisungsbefugnisse gegenüber den Direktorinnen und Direktoren.
 
+<sup>2bis</sup> Das Staatssekretariat EDA ist in thematische Abteilungen, geografische Abteilungen und Dienstleistungsbereiche untergliedert.[^6-1]
+
 <sup>3</sup>
 
 Das Staatssekretariat EDA nimmt im Bereich der thematischen Abteilungen folgende Funktionen wahr:
 
-- a. In Absprache mit den zuständigen Departementen setzt es friedenspolitische Massnahmen und Interventionen zum Schutz der Menschenrechte und der Demokratie um und bearbeitet Fragen der Sanktionenpolitik.
-- b. Es betreut die internationale Sicherheits- und Abrüstungspolitik, trägt zur Rüstungskontrolle bei, unterstützt die Departementsleitung in den sicherheitspolitischen Organen des Bundes und führt einen Dokumentationsdienst.
+- a.[^6-2] Es setzt in Absprache mit den zuständigen Departementen friedenspolitische Massnahmen und Interventionen zum Schutz der Menschenrechte und der Demokratie um.
+- b.[^6-3] Es betreut die internationale Sicherheits- und Abrüstungspolitik, trägt zur Rüstungskontrolle bei, unterstützt die Departementsleitung in den sicherheitspolitischen Organen des Bundes und bearbeitet Fragen der Sanktionenpolitik.
 - c. Es erfüllt die Aufsichts- und Vollzugsaufgaben im Bereich der im Ausland erbrachten privaten Sicherheitsdienstleistungen.
-- d. Es ist verantwortlich für die Sicherheit der schweizerischen Auslandsvertretungen und ihres Personals und bewältigt Sicherheitszwischenfälle, die das Personal der schweizerischen Vertretungen betreffen.
+- d. …[^6-4]
 - e. Es stellt die Kohärenz der schweizerischen Position in internationalen Organisationen und Gremien sicher.
 - f. Es wirkt in internationalen Organisationen und Gremien bei der Bearbeitung politischer, institutioneller, personeller und budgetärer Fragen mit; dies gilt auch dort, wo die Federführung bei anderen Departementen liegt.
 - g. Es fördert die Rolle der Schweiz als Gaststaat internationaler Organisationen sowie die Präsenz von Schweizerinnen und Schweizern in internationalen Organisationen.
-- h. Es stellt die aussenpolitische Koordination in den Bereichen Migrations-, Wirtschafts-, Finanzplatz-, Umwelt-, Gesundheits-, Verkehrs-, Energie-, Digitalisierungs-, Bildungs- und Wissenschaftspolitik sicher.
+- h.[^6-5] Es stellt die aussenpolitische Koordination in den Bereichen Wirtschafts-, Finanzplatz-, Umwelt-, Gesundheits-, Energie-, Digitalisierungs-, Bildungs- und Wissenschaftspolitik sicher.
 
 <sup>4</sup>
 
@@ -165,13 +179,23 @@ Es nimmt im Bereich der geografischen Abteilungen folgende Funktionen wahr:
 Es nimmt im Dienstleistungsbereich folgende Funktionen wahr:
 
 - a. Es entwickelt aussenpolitische Strategien und Konzepte.
+- a<sup>bis</sup>.[^6-6] Es dient als Anlaufstelle für historische Fragestellungen, die das Departement betreffen.
 - b. Es berät und unterstützt die Bundespräsidentin oder den Bundespräsidenten bei der Planung, Koordination und Wahrnehmung der aussenpolitischen Kontakte.
 - c. Es koordiniert die aussenpolitischen Tätigkeiten innerhalb des EDA und zwischen den Departementen und nimmt departementsintern die dazugehörigen Aufsichtsaufgaben wahr.
 - d. Es nimmt den Protokolldienst wahr.
-- e. Es ist verantwortlich für die Krisenprävention, die Krisenvorbereitung und das Krisenmanagement des EDA und bewältigt Krisen im Ausland, von denen Schweizer Bürgerinnen und Bürger betroffen sind.
+- [tab] e. und f. …[^6-7]
 - f. Es führt das Zentrum für Analyse und Prospektion.
 - g. Es stellt den Geschäftsverkehr zwischen den Verwaltungseinheiten und den schweizerischen Vertretungen im Ausland sicher und koordiniert ihn, unter Vorbehalt derjenigen Geschäftsbereiche, in denen die Verwaltungseinheiten aufgrund spezieller Regelungen direkt mit den schweizerischen Vertretungen im Ausland verkehren; es erteilt den schweizerischen Vertretungen im Ausland die entsprechenden Weisungen.
-- h. Es unterstützt das Departement bei der operationellen und logistischen Organisation von multilateralen Konferenzen.
+- h. …[^6-8]
+
+[^6-1]: Eingefügt durch Ziff. I der V vom 11. Febr. 2026, in Kraft seit 1. April 2026 ([AS 2026 93](https://fedlex.data.admin.ch/eli/oc/2026/93)).
+[^6-2]: Fassung gemäss Ziff. I der V vom 11. Febr. 2026, in Kraft seit 1. April 2026 ([AS 2026 93](https://fedlex.data.admin.ch/eli/oc/2026/93)).
+[^6-3]: Fassung gemäss Ziff. I der V vom 11. Febr. 2026, in Kraft seit 1. April 2026 ([AS 2026 93](https://fedlex.data.admin.ch/eli/oc/2026/93)).
+[^6-4]: Aufgehoben durch Ziff. I der V vom 11. Febr. 2026, mit Wirkung seit 1. April 2026 ([AS 2026 93](https://fedlex.data.admin.ch/eli/oc/2026/93)).
+[^6-5]: Fassung gemäss Ziff. I der V vom 11. Febr. 2026, in Kraft seit 1. April 2026 ([AS 2026 93](https://fedlex.data.admin.ch/eli/oc/2026/93)).
+[^6-6]: Eingefügt durch Ziff. I der V vom 11. Febr. 2026, in Kraft seit 1. April 2026 ([AS 2026 93](https://fedlex.data.admin.ch/eli/oc/2026/93)).
+[^6-7]: Aufgehoben durch Ziff. I der V vom 11. Febr. 2026, mit Wirkung seit 1. April 2026 ([AS 2026 93](https://fedlex.data.admin.ch/eli/oc/2026/93)).
+[^6-8]: Aufgehoben durch Ziff. I der V vom 11. Febr. 2026, mit Wirkung seit 1. April 2026 ([AS 2026 93](https://fedlex.data.admin.ch/eli/oc/2026/93)).
 
 ### 3. Abschnitt: Ämter
 
@@ -205,23 +229,24 @@ Zur Verfolgung dieser Ziele nimmt die Direktion für Völkerrecht namentlich fol
 - c.[^8-1] Sie pflegt die nachbarrechtliche und grenzüberschreitende Zusammenarbeit und kümmert sich um die rechtlichen Aspekte der Beziehungen zum Fürstentum Liechtenstein sowie um die Wahrung der Interessen der liechtensteinischen Staatsangehörigen im Ausland.
 - d. Sie betreut das Verfahren zum Abschluss von Staatsverträgen, führt die dazugehörige Dokumentation und nimmt Depositarfunktionen wahr.
 - e.[^8-2] Sie übt die Aufsichts- und Vollzugsaufgaben in der Seeschifffahrt aus, betreut das Seerecht und das Recht der Antarktis und führt die Delegation bei der Zentralkommission für die Rheinschifffahrt.
-- f. Sie koordiniert die Terrorismusbekämpfung auf aussenpolitischer Ebene.
-- f<sup>bis</sup>.[^8-3] Sie definiert und vertritt die Haltung des EDA gegenüber schweizerischen Verwaltungs- und Justizorganen bei Rechtsfragen, die das Völkerrecht und die Aussenbeziehungen der Schweiz betreffen.
-- g.[^8-4]
+- f. …[^8-3]
+- f<sup>bis</sup>.[^8-4] Sie definiert und vertritt die Haltung des EDA gegenüber schweizerischen Verwaltungs- und Justizorganen bei Rechtsfragen, die das Völkerrecht und die Aussenbeziehungen der Schweiz betreffen.
+- g.[^8-5]
 
   Sie bearbeitet überdies folgende Aufgabenbereiche:
 
   - 1\. Menschenrechte, humanitäres Völkerrecht und internationale Strafjustiz; die Zuständigkeit anderer Departemente bleibt vorbehalten,
   - 2\. Rechtsfragen der internationalen Sicherheit und Neutralität,
   - 3\. diplomatischer Schutz,
-  - 4\. diplomatisches und konsularisches Recht, einschliesslich der Vollzugsaufgaben, die dem EDA in den internationalen Abkommen über das diplomatische und konsularische Recht, insbesondere in den vom Bundesrat abgeschlossenen Abkommen mit institutionellen Begünstigten im Sinne des Gaststaatgesetzes vom 22. Juni 2007[^8-5] zugewiesen werden,
+  - 4\. diplomatisches und konsularisches Recht, einschliesslich der Vollzugsaufgaben, die dem EDA in den internationalen Abkommen über das diplomatische und konsularische Recht, insbesondere in den vom Bundesrat abgeschlossenen Abkommen mit institutionellen Begünstigten im Sinne des Gaststaatgesetzes vom 22. Juni 2007[^8-6] zugewiesen werden,
   - 5\. Koordination der schweizerischen Politik bezüglich unrechtmässig erworbener Vermögenswerte politisch exponierter Personen; die Zuständigkeit anderer Departemente bleibt vorbehalten.
 
 [^8-1]: Fassung gemäss Ziff. I der V vom 21. Jan. 2015, in Kraft seit 1. März 2015 ([AS 2015 357](https://fedlex.data.admin.ch/eli/oc/2015/47)).
 [^8-2]: Fassung gemäss Ziff. I der V vom 21. Jan. 2015, in Kraft seit 1. März 2015 ([AS 2015 357](https://fedlex.data.admin.ch/eli/oc/2015/47)).
-[^8-3]: Eingefügt durch Ziff. I der V vom 21. Jan. 2015, in Kraft seit 1. März 2015 ([AS 2015 357](https://fedlex.data.admin.ch/eli/oc/2015/47)).
-[^8-4]: Fassung gemäss Ziff. I der V vom 21. Jan. 2015, in Kraft seit 1. März 2015 ([AS 2015 357](https://fedlex.data.admin.ch/eli/oc/2015/47)).
-[^8-5]: [SR 192.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5676)
+[^8-3]: Aufgehoben durch Ziff. I der V vom 11. Febr. 2026, mit Wirkung seit 1. April 2026 ([AS 2026 93](https://fedlex.data.admin.ch/eli/oc/2026/93)).
+[^8-4]: Eingefügt durch Ziff. I der V vom 21. Jan. 2015, in Kraft seit 1. März 2015 ([AS 2015 357](https://fedlex.data.admin.ch/eli/oc/2015/47)).
+[^8-5]: Fassung gemäss Ziff. I der V vom 21. Jan. 2015, in Kraft seit 1. März 2015 ([AS 2015 357](https://fedlex.data.admin.ch/eli/oc/2015/47)).
+[^8-6]: [SR 192.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5676)
 
 #### Art. 9
 
@@ -284,29 +309,25 @@ Sie verfolgt dabei folgende Ziele:
 
 Bei der Verfolgung dieser Ziele nimmt sie folgende Funktionen wahr, soweit diese nicht den anderen Direktionen übertragen sind:
 
-- a. Sie bewirtschaftet Personal und Finanzen und erbringt Logistik- und Telematikdienstleistungen.
-- b.[^10-1] Sie ernennt die Honorarpostenchefinnen und -chefs und die Honorarvizekonsulinnen und -konsuln, die nicht Postenchefs sind.
-- c.[^10-2] Sie besorgt die Rechtsetzung, Rechtsanwendung und Rechtsberatung für das EDA; vorbehalten bleiben die Zuständigkeiten der Direktion für Völkerrecht sowie des GS-EDA.
+- a.[^10-1] Sie bewirtschaftet Personal und Finanzen und erbringt Logistik- und Informatikdienstleistungen.
+- b.[^10-2] Sie ernennt die Honorarpostenchefinnen und -chefs und die Honorarvizekonsulinnen und -konsuln, die nicht Postenchefs sind.
+- c.[^10-3] Sie besorgt die Rechtsetzung, Rechtsanwendung und Rechtsberatung für das EDA; vorbehalten bleiben die Zuständigkeiten der Direktion für Völkerrecht sowie des GS-EDA.
 
 <sup>4</sup>
 
-Der Direktion für Ressourcen unterstellt sind:
-
-- a.[^10-3] die oder der Informationssicherheitsbeauftragte, die Beraterin oder der Berater für Datenschutz und die Beraterin oder der Berater für das Öffentlichkeitsprinzip im EDA.
-- b. die Bundesreisezentrale.
-
-<sup>5</sup>
-
-Die Bundesreisezentrale erbringt namentlich folgende Leistungen zugunsten oder im Auftrag des Bundes:
+Der Direktion für Ressourcen unterstellt ist die Bundesreisezentrale. Sie erbringt folgende Leistungen zugunsten oder im Auftrag des Bundes:
 
 - a. weltweite Reisedienstleistungen und Sicherstellung günstiger Reisekonditionen;
 - b. Dienstleistungen im Zusammenhang mit dem Vollzug der Weg- und Ausweisung ausländischer Personen;
 - c. Dienstleistungen im Zusammenhang mit der Organisation von Konferenzen.[^10-4]
 
-[^10-1]: Fassung gemäss Ziff. I der V vom 21. Jan. 2015, in Kraft seit 1. März 2015 ([AS 2015 357](https://fedlex.data.admin.ch/eli/oc/2015/47)).
+<sup>5</sup> …[^10-5]
+
+[^10-1]: Fassung gemäss Ziff. I der V vom 11. Febr. 2026, in Kraft seit 1. April 2026 ([AS 2026 93](https://fedlex.data.admin.ch/eli/oc/2026/93)).
 [^10-2]: Fassung gemäss Ziff. I der V vom 21. Jan. 2015, in Kraft seit 1. März 2015 ([AS 2015 357](https://fedlex.data.admin.ch/eli/oc/2015/47)).
 [^10-3]: Fassung gemäss Ziff. I der V vom 21. Jan. 2015, in Kraft seit 1. März 2015 ([AS 2015 357](https://fedlex.data.admin.ch/eli/oc/2015/47)).
-[^10-4]: Fassung gemäss Ziff. I 3 der V vom 15. Juni 2012 (Neugliederung der Departemente), in Kraft seit 1. Jan. 2013 ([AS 2012 3631](https://fedlex.data.admin.ch/eli/oc/2012/418)).
+[^10-4]: Fassung gemäss Ziff. I der V vom 11. Febr. 2026, in Kraft seit 1. April 2026 ([AS 2026 93](https://fedlex.data.admin.ch/eli/oc/2026/93)).
+[^10-5]: Aufgehoben durch Ziff. I der V vom 11. Febr. 2026, mit Wirkung seit 1. April 2026 ([AS 2026 93](https://fedlex.data.admin.ch/eli/oc/2026/93)).
 
 #### Art. 11
 
@@ -318,19 +339,36 @@ Die Bundesreisezentrale erbringt namentlich folgende Leistungen zugunsten oder i
 
 Zur Verfolgung dieser Ziele nimmt die Konsularische Direktion insbesondere folgende Funktionen wahr:
 
-- a. Sie schafft die nötigen Grundlagen für die konsularischen Dienstleistungen, die für Auslandschweizerinnen und -schweizer, durchreisende Bürgerinnen und Bürger sowie ausländische Leistungsbezügerinnen und -bezüger weltweit erbracht werden.
-- b. Sie unterstützt die konsularischen Abteilungen im Ausland bei der Erbringung ihrer Dienstleistungen und stellt ihnen zweckdienliche Arbeitsinstrumente zur Verfügung.
+- a.[^11-2] Sie schafft die nötigen Grundlagen für die konsularischen Dienstleistungen, die für Schweizerinnen und Schweizer im Ausland sowie ausländische Leistungsbezügerinnen und -bezüger weltweit erbracht werden.
+- b.[^11-3] Sie unterstützt die konsularischen Abteilungen im Ausland bei der Erbringung ihrer Dienstleistungen, stellt den Auslandvertretungen zweckdienliche Arbeitsinstrumente sowie ein konsularisches Aus- und Weiterbildungsangebot zur Verfügung und arbeitet im Rahmen von Kooperationsvereinbarungen mit internationalen und privaten Partnern zusammen.
 - c. Sie dient als Schnittstelle und Informationsdrehscheibe zwischen den Auslandvertretungen und den Ansprechpartnern in der Schweiz und im Ausland.
-- d. Sie koordiniert und optimiert die Zusammenarbeit bei der Erbringung konsularischer Dienstleistungen innerhalb des EDA, mit anderen Bundesstellen und kantonalen Gremien sowie mit ausländischen Aussenministerien und weiteren internationalen Partnern.
-- e. Sie betreibt eine Helpline, die rund um die Uhr Auskünfte über sämtliche konsularischen Dienstleistungen erteilt.
-- f. Sie betreut konsularische Schutzfälle; vorbehalten bleibt die Zuständigkeit des Eidgenössischen Justiz- und Polizeidepartements im Bereich der internationalen Kindsentführungen.
-- g. Sie betreut die Belange der Auslandschweizerinnen und -schweizer sowie von schweizerischen Institutionen im Ausland. Dabei unterstützt und fördert sie insbesondere die politischen, wirtschaftlichen und kulturellen Interessen der Auslandschweizergemeinschaft und stellt die Information zu auslandschweizerspezifischen Fragen sicher.
+- d.[^11-4] Sie koordiniert und optimiert die Zusammenarbeit bei der Erbringung ihrer Dienstleistungen mit den weiteren Organisationseinheiten des EDA, mit anderen Bundesstellen und kantonalen Gremien sowie mit ausländischen Aussenministerien und weiteren internationalen Partnern.
+- e.[^11-5] Sie erteilt rund um die Uhr Auskünfte über die konsularischen Dienstleistungen, übernimmt dabei Beratungs- und Unterstützungsaufgaben und erstellt die Reisehinweise des EDA.
+- f.[^11-6] Sie betreut konsularische Schutzfälle; vorbehalten bleibt die Zuständigkeit des Eidgenössischen Justiz- und Polizeidepartements im Bereich der internationalen Kindsentführungen in Ländern, die dem Übereinkommen vom 25. Oktober 1980[^11-7] über die zivilrechtlichen Aspekte internationaler Kindesentführungen beigetreten sind.
+- g.[^11-8] Sie betreut die Belange der Auslandschweizerinnen und -schweizer sowie von schweizerischen Institutionen im Ausland; dabei unterstützt und fördert sie insbesondere die politischen, wirtschaftlichen und kulturellen Interessen der Auslandschweizergemeinschaft und stellt sicher, dass die Schweizerinnen und Schweizer im Ausland die Informationen nach Artikel 10 des Auslandschweizergesetzes vom 26. September 2014[^11-9] erhalten.
 - h. Sie gewährt Sozialhilfe an bedürftige Auslandschweizerinnen und -schweizer.
-- i. Sie unterhält einen Beratungsdienst. Die Beratung umfasst die Abgabe von allgemeinen Informationen zu Auslandaufenthalt, Aus- und Rückwanderung.
+- i. …[^11-10]
+- j.[^11-11] Sie unterstützt die schweizerischen Vertretungen im Ausland bei der Krisenvorbereitung und koordiniert die Bewältigung von Krisen im Ausland, von denen schweizerische Vertretungen oder Schweizer Bürgerinnen und Bürger betroffen sind.
+- k.[^11-12] Sie ist verantwortlich für die Sicherheit der schweizerischen Vertretungen im Ausland und ihres Personals und behandelt Sicherheitszwischenfälle, die das Personal der schweizerischen Vertretungen betreffen.
 
 [^11-1]: Fassung gemäss Ziff. I der V vom 21. Jan. 2015, in Kraft seit 1. März 2015 ([AS 2015 357](https://fedlex.data.admin.ch/eli/oc/2015/47)).
+[^11-2]: Fassung gemäss Ziff. I der V vom 11. Febr. 2026, in Kraft seit 1. April 2026 ([AS 2026 93](https://fedlex.data.admin.ch/eli/oc/2026/93)).
+[^11-3]: Fassung gemäss Ziff. I der V vom 11. Febr. 2026, in Kraft seit 1. April 2026 ([AS 2026 93](https://fedlex.data.admin.ch/eli/oc/2026/93)).
+[^11-4]: Fassung gemäss Ziff. I der V vom 11. Febr. 2026, in Kraft seit 1. April 2026 ([AS 2026 93](https://fedlex.data.admin.ch/eli/oc/2026/93)).
+[^11-5]: Fassung gemäss Ziff. I der V vom 11. Febr. 2026, in Kraft seit 1. April 2026 ([AS 2026 93](https://fedlex.data.admin.ch/eli/oc/2026/93)).
+[^11-6]: Fassung gemäss Ziff. I der V vom 11. Febr. 2026, in Kraft seit 1. April 2026 ([AS 2026 93](https://fedlex.data.admin.ch/eli/oc/2026/93)).
+[^11-7]: [SR 0.211.230.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/856)
+[^11-8]: Fassung gemäss Ziff. I der V vom 11. Febr. 2026, in Kraft seit 1. April 2026 ([AS 2026 93](https://fedlex.data.admin.ch/eli/oc/2026/93)).
+[^11-9]: [SR 195.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5690)
+[^11-10]: Aufgehoben durch Ziff. I der V vom 11. Febr. 2026, mit Wirkung seit 1. April 2026 ([AS 2026 93](https://fedlex.data.admin.ch/eli/oc/2026/93)).
+[^11-11]: Eingefügt durch Ziff. I der V vom 11. Febr. 2026, in Kraft seit 1. April 2026 ([AS 2026 93](https://fedlex.data.admin.ch/eli/oc/2026/93)).
+[^11-12]: Eingefügt durch Ziff. I der V vom 11. Febr. 2026, in Kraft seit 1. April 2026 ([AS 2026 93](https://fedlex.data.admin.ch/eli/oc/2026/93)).
 
 ### 4. Abschnitt: Schweizerische Vertretungen im Ausland
+
+[^chap2-sec4-1]
+
+[^chap2-sec4-1]: Fassung gemäss Ziff. I der V vom 11. Febr. 2026, in Kraft seit 1. April 2026 ([AS 2026 93](https://fedlex.data.admin.ch/eli/oc/2026/93)).
 
 #### Art. 12
 
@@ -354,7 +392,47 @@ Zur Verfolgung dieser Ziele nimmt die Konsularische Direktion insbesondere folge
 
 [^13-1]: Aufgehoben durch Ziff. I 3 der V vom 15. Juni 2012 (Neugliederung der Departemente), mit Wirkung seit 1. Jan. 2013 ([AS 2012 3631](https://fedlex.data.admin.ch/eli/oc/2012/418)).
 
-## 3. Kapitel: Schlussbestimmungen
+## 3. Kapitel: Krisenorganisation des EDA
+
+[^chap3-1]
+
+[^chap3-1]: Eingefügt durch Ziff. I der V vom 11. Febr. 2026, in Kraft seit 1. April 2026 ([AS 2026 93](https://fedlex.data.admin.ch/eli/oc/2026/93)).
+
+#### Art. 13a
+
+**Aufgaben**
+
+<sup>1</sup> Das EDA verfügt für Krisen, die nicht durch das Mandat anderer Einheiten des EDA abgedeckt sind, über eine Krisenorganisation auf Stufe Departement (Krisenorganisation des EDA).
+
+<sup>2</sup>
+
+Diese hat insbesondere folgende Aufgaben:
+
+- a. Steuerung und Koordination des Krisenmanagements innerhalb des EDA;
+- b. Lageverfolgung und -beurteilung;
+- c. Kommunikation nach innen und aussen.
+
+#### Art. 13b
+
+**Aktivierung**
+
+Die Vorsteherin oder der Vorsteher des EDA entscheidet über die Aktivierung der Krisenorganisation des EDA.
+
+#### Art. 13c
+
+**Leitung**
+
+<sup>1</sup> Die Krisenorganisation des EDA wird von der Generalsekretärin oder vom Generalsekretär des EDA geleitet.
+
+<sup>2</sup> Sie oder er kann für die Bildung der Krisenorganisation auf die personellen und technischen Ressourcen der Organisationseinheiten des Departements zurückgreifen und ist diesen gegenüber weisungsbefugt.
+
+<sup>3</sup> Sie oder er kann die Leitung der Krisenorganisation des EDA an die Staatssekretärin oder den Staatssekretär des EDA oder an eine Direktorin oder einen Direktor des EDA delegieren.
+
+## 4. Kapitel: Schlussbestimmungen
+
+[^chap4-1]
+
+[^chap4-1]: Ursprünglich 3. Kap.
 
 #### Art. 14
 

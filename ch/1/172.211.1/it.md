@@ -4,11 +4,11 @@ title: "Ordinanza del 20 aprile 2011 sull'organizzazione del Dipartimento federa
 short: OOrg-DFAE
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/248"
 language: it
-version: 2021-01-01
+version: 2026-04-01
 adopted: 2011-04-20
 in_force: 2011-05-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/248/20210101/it/xml/fedlex-data-admin-ch-eli-cc-2011-248-20210101-it-xml-8.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/248/20210101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/248/20260401/it/xml/fedlex-data-admin-ch-eli-cc-2011-248-20260401-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/248/20260401/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2011/248/20210101/it"
 
 (OOrg-DFAE)
 
-del 20 aprile 2011 (Stato 1° gennaio 2021)
+del 20 aprile 2011 (Stato 1° aprile 2026)
 
 Il Consiglio federale svizzero,
 
@@ -70,11 +70,14 @@ Nel realizzare i suoi obiettivi e le sue attività, oltre che dei principi gener
 
 **Competenze particolari**
 
-Il DFAE decide circa:
+Il capo del DFAE decide circa:[^3-1]
 
 - a. l’apertura e la chiusura di sedi consolari;
-- b. il trasferimento, da una missione all’altra, della competenza diplomatica per un Paese;
+- b.[^3-2] il trasferimento, da una missione all’altra, della competenza diplomatica o consolare per un Paese;
 - c. la rappresentanza della Svizzera davanti a tribunali internazionali e organi di risoluzione delle controversie; sono fatte salve le competenze degli altri dipartimenti.
+
+[^3-1]: Nuovo testo giusta la cifra I dell’O dell’11 feb. 2026, in vigore dal 1° apr. 2026 ([RU 2026 93](https://fedlex.data.admin.ch/eli/oc/2026/93)).
+[^3-2]: Nuovo testo giusta la cifra I dell’O dell’11 feb. 2026, in vigore dal 1° apr. 2026 ([RU 2026 93](https://fedlex.data.admin.ch/eli/oc/2026/93)).
 
 #### Art. 4
 
@@ -96,27 +99,36 @@ La Segreteria generale (SG-DFAE) svolge le funzioni di cui all’articolo 42 LOG
 - a<sup>bis</sup>.[^5-1] rappresenta il capo del Dipartimento all’interno e all’esterno in tutte le questioni che riguardano la Segreteria generale. D’intesa con la Direzione delle risorse responsabile difende gli interessi strategici del Dipartimento per le questioni che riguardano le risorse;
 - b. pianifica, coordina, controlla e avvia gli affari del Dipartimento e segue in particolare gli affari interdipartimentali importanti;
 - c. pianifica, sviluppa e coordina l’informazione e la comunicazione del DFAE nei confronti dell’opinione pubblica in Svizzera e all’estero;
-- d.[^5-2] garantisce il proseguimento della ricerca storica nell’ambito dei lavori della commissione indipendente di esperti «Svizzera – Seconda guerra mondiale», rappresenta il DFAE nella Commissione nazionale per la pubblicazione di documenti diplomatici svizzeri ed è responsabile del trattamento di tutte le richieste di consultazione di archivi del DFAE ancora soggetti a un termine di protezione;
-- e.[^5-3] svolge gli incarichi conferiti al DFAE ai sensi della legislazione sulla comunicazione dell’immagine nazionale; in particolare, trasmette informazioni all’interno e all’esterno del Paese sulla politica estera della Svizzera e promuove l’immagine nazionale all’estero. Coordina le sue attività con quelle che altri uffici, interni o esterni alla Confederazione, svolgono in questo ambito;
-- f.[^5-4] assicura, d’intesa con il Dipartimento federale dell’interno, il coordinamento della politica estera in materia di politica culturale;
-- g.[^5-5] esercita la vigilanza sulla gestione del DFAE;
-- h.[^5-6] garantisce la parità delle opportunità all’interno del DFAE in relazione al sesso e alla lingua;
-- i.[^5-7] dirige il Centro di competenza in contratti e acquisti pubblici per tutto il DFAE ed esercita la vigilanza sugli acquisti pubblici e la gestione dei contratti per il DFAE;
-- j.[^5-8] dirige il «Compliance Office» come interlocutore per le segnalazioni di irregolarità e malfunzionamenti connessi a compiti del DFAE ed è responsabile, in collaborazione con il Gruppo di lavoro interdipartimentale per la lotta contro la corruzione e la Divisione Politiche estere settoriali del DFAE, della prevenzione della corruzione e degli abusi all’interno del DFAE;
-- k.[^5-9] funge da servizio dei ricorsi interno del DFAE.
+- c<sup>bis</sup>.[^5-2] sostiene il Dipartimento nell’organizzazione operativa e logistica di conferenze multilaterali ed eventi importanti;
+- d.[^5-3] tratta le richieste di consultazione di archivi del DFAE ancora soggetti a un termine di protezione;
+- e.[^5-4] promuove l’immagine nazionale all’estero e consolida le sue reti di contatti ai sensi delle disposizioni della legislazione sulla comunicazione dell’immagine nazionale e della Strategia di comunicazione internazionale del Consiglio federale; coordina le sue attività con quelle che altri uffici, interni o esterni alla Confederazione, svolgono in questo ambito;
+- f.[^5-5] assicura, d’intesa con il Dipartimento federale dell’interno, il coordinamento della politica estera in materia di politica culturale;
+- g.[^5-6] esercita la vigilanza sulla gestione del DFAE;
+- h.[^5-7] garantisce la parità delle opportunità all’interno del DFAE in relazione al sesso, alla lingua e alle disabilità;
+- i.[^5-8] esercita la vigilanza sugli acquisti pubblici e la gestione dei contratti per il DFAE;
+- j.[^5-9] è l’interlocutore per le segnalazioni di irregolarità e malfunzionamenti connessi a compiti del DFAE;
+- k.[^5-10] è responsabile, in collaborazione con altri uffici interni ed esterni al DFAE, della prevenzione della corruzione e degli abusi all’interno del DFAE;
+- l.[^5-11] garantisce l’attuazione delle disposizioni sulla sicurezza delle informazioni, sulla protezione dei dati e sul principio della trasparenza;
+- m.[^5-12] funge da servizio dei ricorsi interno del DFAE.
 
-<sup>2</sup> La Revisione interna DFAE (RI DFAE), sottoposta alla SG-DFAE, esercita la sua attività in modo autonomo e indipendente nel rispetto delle disposizioni legali e del suo regolamento e in tal modo sostiene la SG-DFAE e la direzione del DFAE nell’esercizio delle loro funzioni di vigilanza.[^5-10]
+<sup>2</sup> La Revisione interna DFAE (RI DFAE), sottoposta alla SG-DFAE, esercita la sua attività in modo autonomo e indipendente nel rispetto delle disposizioni legali e del suo regolamento e in tal modo sostiene la SG-DFAE e la direzione del DFAE nell’esercizio delle loro funzioni di vigilanza.[^5-13]
+
+<sup>3</sup> Sono subordinati alla SG-DFAE anche l’incaricato della sicurezza delle informazioni presso il DFAE, il consulente per la protezione dei dati presso il DFAE e il consulente per il principio di trasparenza presso il DFAE.[^5-14]
 
 [^5-1]: Introdotta dalla cifra I dell’O del 23 mag. 2018, in vigore dal 1° lug. 2018 ([RU 2018 2241](https://fedlex.data.admin.ch/eli/oc/2018/313)).
-[^5-2]: Nuovo testo giusta la cifra I dell’O del 21 gen. 2015, in vigore dal 1° mar. 2015 ([RU 2015 357](https://fedlex.data.admin.ch/eli/oc/2015/47)).
-[^5-3]: Nuovo testo giusta la cifra I dell’O del 21 gen. 2015, in vigore dal 1° mar. 2015 ([RU 2015 357](https://fedlex.data.admin.ch/eli/oc/2015/47)).
-[^5-4]: Nuovo testo giusta la cifra I dell’O del 21 gen. 2015, in vigore dal 1° mar. 2015 ([RU 2015 357](https://fedlex.data.admin.ch/eli/oc/2015/47)).
+[^5-2]: Introdotta dalla cifra I dell’O dell’11 feb. 2026, in vigore dal 1° apr. 2026 ([RU 2026 93](https://fedlex.data.admin.ch/eli/oc/2026/93)).
+[^5-3]: Nuovo testo giusta la cifra I dell’O dell’11 feb. 2026, in vigore dal 1° apr. 2026 ([RU 2026 93](https://fedlex.data.admin.ch/eli/oc/2026/93)).
+[^5-4]: Nuovo testo giusta la cifra I dell’O dell’11 feb. 2026, in vigore dal 1° apr. 2026 ([RU 2026 93](https://fedlex.data.admin.ch/eli/oc/2026/93)).
 [^5-5]: Nuovo testo giusta la cifra I dell’O del 21 gen. 2015, in vigore dal 1° mar. 2015 ([RU 2015 357](https://fedlex.data.admin.ch/eli/oc/2015/47)).
 [^5-6]: Nuovo testo giusta la cifra I dell’O del 21 gen. 2015, in vigore dal 1° mar. 2015 ([RU 2015 357](https://fedlex.data.admin.ch/eli/oc/2015/47)).
-[^5-7]: Nuovo testo giusta la cifra I dell’O del 21 gen. 2015, in vigore dal 1° mar. 2015 ([RU 2015 357](https://fedlex.data.admin.ch/eli/oc/2015/47)).
-[^5-8]: Introdotta dalla cifra I dell’O del 21 gen. 2015, in vigore dal 1° mar. 2015 ([RU 2015 357](https://fedlex.data.admin.ch/eli/oc/2015/47)).
-[^5-9]: Introdotta dalla cifra I dell’O del 21 gen. 2015, in vigore dal 1° mar. 2015 ([RU 2015 357](https://fedlex.data.admin.ch/eli/oc/2015/47)).
-[^5-10]: Nuovo testo giusta la cifra I dell’O del 21 gen. 2015, in vigore dal 1° mar. 2015 ([RU 2015 357](https://fedlex.data.admin.ch/eli/oc/2015/47)).
+[^5-7]: Nuovo testo giusta la cifra I dell’O dell’11 feb. 2026, in vigore dal 1° apr. 2026 ([RU 2026 93](https://fedlex.data.admin.ch/eli/oc/2026/93)).
+[^5-8]: Nuovo testo giusta la cifra I dell’O dell’11 feb. 2026, in vigore dal 1° apr. 2026 ([RU 2026 93](https://fedlex.data.admin.ch/eli/oc/2026/93)).
+[^5-9]: Introdotta dalla cifra I dell’O del 21 gen. 2015 ([RU 2015 357](https://fedlex.data.admin.ch/eli/oc/2015/47)). Nuovo testo giusta la cifra I dell’O dell’11 feb. 2026, in vigore dal 1° apr. 2026 ([RU 2026 93](https://fedlex.data.admin.ch/eli/oc/2026/93)).
+[^5-10]: Introdotta dalla cifra I dell’O del 21 gen. 2015 ([RU 2015 357](https://fedlex.data.admin.ch/eli/oc/2015/47)). Nuovo testo giusta la cifra I dell’O dell’11 feb. 2026, in vigore dal 1° apr. 2026 ([RU 2026 93](https://fedlex.data.admin.ch/eli/oc/2026/93)).
+[^5-11]: Introdotta dalla cifra I dell’O dell’11 feb. 2026, in vigore dal 1° apr. 2026 ([RU 2026 93](https://fedlex.data.admin.ch/eli/oc/2026/93)).
+[^5-12]: Introdotta dalla cifra I dell’O dell’11 feb. 2026, in vigore dal 1° apr. 2026 ([RU 2026 93](https://fedlex.data.admin.ch/eli/oc/2026/93)).
+[^5-13]: Nuovo testo giusta la cifra I dell’O del 21 gen. 2015, in vigore dal 1° mar. 2015 ([RU 2015 357](https://fedlex.data.admin.ch/eli/oc/2015/47)).
+[^5-14]: Introdotto dalla cifra I dell’O dell’11 feb. 2026, in vigore dal 1° apr. 2026 ([RU 2026 93](https://fedlex.data.admin.ch/eli/oc/2026/93)).
 
 ### Sezione 2: Segreteria di Stato del DFAE
 
@@ -136,18 +148,20 @@ Il segretario di Stato:
 - b. rappresenta il capo del DFAE sul piano interno ed esterno, a meno che non si tratti di questioni che riguardano la Segreteria generale;
 - c. dispone, come rappresentante del capo del DFAE, di un ampio potere di impartire istruzioni ai direttori.
 
+<sup>2bis</sup> La Segreteria di Stato del DFAE è suddivisa in divisioni tematiche, divisioni geografiche e servizi.[^6-1]
+
 <sup>3</sup>
 
 La Segreteria di Stato del DFAE svolge le seguenti funzioni nell’ambito delle divisioni tematiche:
 
-- a. attua, d’intesa con i dipartimenti competenti, provvedimenti e interventi di politica di pace al fine di tutelare i diritti dell’uomo e la democrazia e tratta questioni relative alla politica delle sanzioni;
-- b. si occupa della politica internazionale in materia di sicurezza e disarmo, contribuisce al controllo degli armamenti, sostiene la direzione del DFAE negli organi della Confederazione che si occupano di politica della sicurezza e gestisce un centro di documentazione;
+- a.[^6-2] attua, d’intesa con i dipartimenti competenti, provvedimenti e interventi di politica di pace al fine di tutelare i diritti dell’uomo e la democrazia;
+- b.[^6-3] si occupa della politica internazionale in materia di sicurezza e disarmo, contribuisce al controllo degli armamenti, sostiene la direzione del DFAE negli organi della Confederazione che si occupano di politica della sicurezza e tratta questioni relative alla politica delle sanzioni;
 - c. adempie i compiti esecutivi e di vigilanza nel campo dei servizi di sicurezza privati forniti all’estero;
-- d. è responsabile della sicurezza delle rappresentanze svizzere all’estero e del loro personale e affronta i problemi di sicurezza che coinvolgono il personale delle rappresentanze svizzere;
+- d.[^6-4] ...
 - e. garantisce la coerenza della posizione svizzera in organizzazioni e organismi internazionali;
 - f. partecipa, in organizzazioni e organismi internazionali, alla trattazione di questioni politiche, istituzionali, in materia di personale e budgetarie; questo vale anche quando la responsabilità spetta ad altri dipartimenti;
 - g. promuove il ruolo della Svizzera quale Stato ospite di organizzazioni internazionali e la presenza di Svizzeri nelle organizzazioni internazionali;
-- h. assicura il coordinamento in materia di politica estera nei settori della politica delle migrazioni, della politica economica, della politica della piazza finanziaria nonché della politica ambientale, sanitaria, dei trasporti, dell’energia, della digitalizzazione, della formazione e della scienza.
+- h.[^6-5] assicura il coordinamento in materia di politica estera nei settori della politica economica, della politica della piazza finanziaria nonché della politica ambientale, sanitaria, dell’energia, della trasformazione digitale, della formazione e della politica scientifica.
 
 <sup>4</sup>
 
@@ -161,16 +175,26 @@ La Segreteria di Stato del DFAE svolge le seguenti funzioni nell’ambito delle 
 
 <sup>5</sup>
 
-La Segreteria di Stato del DFAE svolge le seguenti funzioni nell’ambito dei servizi:
+Svolge le seguenti funzioni nell’ambito dei servizi:[^6-6]
 
 - a. sviluppa strategie e modelli di politica estera;
+- a<sup>bis</sup>.[^6-7] è l’interlocutore per le questioni storiche che concernono il Dipartimento;
 - b. consiglia e sostiene il presidente della Confederazione nella pianificazione, nel coordinamento e nella gestione dei contatti nell’ambito della politica estera;
 - c. coordina le attività di politica estera all’interno del DFAE e fra i dipartimenti e si assume i relativi compiti di vigilanza all’interno del Dipartimento;
 - d. gestisce il servizio del protocollo;
-- e. è responsabile della prevenzione delle crisi, della preparazione alle crisi e della gestione delle crisi all’interno del DFAE e affronta le crisi all’estero in cui sono coinvolti cittadini svizzeri;
-- f. dirige il Centro di analisi e previsione;
+- e. e f[^6-8] ...
 - g. assicura la trasmissione degli affari fra le unità amministrative e le rappresentanze svizzere all’estero e la coordina, fatti salvi i settori specifici in cui le unità amministrative, in virtù di disposizioni speciali, trattano direttamente con le rappresentanze svizzere all’estero; impartisce alle rappresentanze svizzere all’estero le istruzioni necessarie;
-- h. sostiene il Dipartimento nell’organizzazione operativa e logistica di conferenze multilaterali.
+- h.[^6-9] ...
+
+[^6-1]: Introdotto dalla cifra I dell’O dell’11 feb. 2026, in vigore dal 1° apr. 2026 ([RU 2026 93](https://fedlex.data.admin.ch/eli/oc/2026/93)).
+[^6-2]: Nuovo testo giusta la cifra I dell’O dell’11 feb. 2026, in vigore dal 1° apr. 2026 ([RU 2026 93](https://fedlex.data.admin.ch/eli/oc/2026/93)).
+[^6-3]: Nuovo testo giusta la cifra I dell’O dell’11 feb. 2026, in vigore dal 1° apr. 2026 ([RU 2026 93](https://fedlex.data.admin.ch/eli/oc/2026/93)).
+[^6-4]: Abrogata dalla cifra I dell’O dell’11 feb. 2026, con effetto dal 1° apr. 2026 ([RU 2026 93](https://fedlex.data.admin.ch/eli/oc/2026/93)).
+[^6-5]: Nuovo testo giusta la cifra I dell’O dell’11 feb. 2026, in vigore dal 1° apr. 2026 ([RU 2026 93](https://fedlex.data.admin.ch/eli/oc/2026/93)).
+[^6-6]: Nuovo testo giusta la cifra I dell’O dell’11 feb. 2026, in vigore dal 1° apr. 2026 ([RU 2026 93](https://fedlex.data.admin.ch/eli/oc/2026/93)).
+[^6-7]: Introdotta dalla cifra I dell’O dell’11 feb. 2026, in vigore dal 1° apr. 2026 ([RU 2026 93](https://fedlex.data.admin.ch/eli/oc/2026/93)).
+[^6-8]: Abrogate dalla cifra I dell’O dell’11 feb. 2026, con effetto dal 1° apr. 2026 ([RU 2026 93](https://fedlex.data.admin.ch/eli/oc/2026/93)).
+[^6-9]: Abrogata dalla cifra I dell’O dell’11 feb. 2026, con effetto dal 1° apr. 2026 ([RU 2026 93](https://fedlex.data.admin.ch/eli/oc/2026/93)).
 
 ### Sezione 3: Uffici
 
@@ -204,23 +228,24 @@ Nel perseguire questi obiettivi, la Direzione del diritto internazionale pubblic
 - c.[^8-1] si occupa della collaborazione nell’ambito del diritto di vicinato e transfrontaliera e cura gli aspetti giuridici delle relazioni con il Principato del Liechtenstein nonché la tutela degli interessi dei cittadini del Principato del Liechtenstein all’estero;
 - d. cura la procedura in vista della conclusione di trattati internazionali, tiene la relativa documentazione e svolge le funzioni di depositario;
 - e.[^8-2] esercita compiti esecutivi e di vigilanza nell’ambito della navigazione marittima, si occupa del diritto marittimo e del diritto dell’Antartide ed è a capo della delegazione svizzera presso la Commissione centrale per la navigazione sul Reno;
-- f. coordina la lotta al terrorismo a livello di politica estera;
-- f<sup>bis</sup>.[^8-3] definisce e rappresenta la posizione del DFAE nei confronti degli organi amministrativi e di giustizia svizzeri in questioni giuridiche che riguardano il diritto internazionale pubblico e le relazioni estere della Svizzera;
-- g.[^8-4]
+- f.[^8-3] ...
+- f<sup>bis</sup>.[^8-4] definisce e rappresenta la posizione del DFAE nei confronti degli organi amministrativi e di giustizia svizzeri in questioni giuridiche che riguardano il diritto internazionale pubblico e le relazioni estere della Svizzera;
+- g.[^8-5]
 
   si occupa inoltre dei seguenti settori di attività:
 
   - 1\. diritti dell’uomo, diritto internazionale umanitario e giustizia penale internazionale; sono fatte salve le competenze di altri dipartimenti,
   - 2\. questioni giuridiche relative alla sicurezza internazionale e alla neutralità,
   - 3\. protezione diplomatica,
-  - 4\. diritto diplomatico e consolare compresi i compiti esecutivi assegnati al DFAE dalle convenzioni internazionali relative al diritto diplomatico e consolare, in particolare dagli accordi conclusi dal Consiglio federale con beneficiari istituzionali ai sensi della legge del 22 giugno 2007[^8-5] sullo Stato ospite,
+  - 4\. diritto diplomatico e consolare compresi i compiti esecutivi assegnati al DFAE dalle convenzioni internazionali relative al diritto diplomatico e consolare, in particolare dagli accordi conclusi dal Consiglio federale con beneficiari istituzionali ai sensi della legge del 22 giugno 2007[^8-6] sullo Stato ospite,
   - 5\. coordinamento della politica svizzera in materia di valori patrimoniali di provenienza illecita di persone politicamente esposte; sono fatte salve le competenze di altri dipartimenti.
 
 [^8-1]: Nuovo testo giusta la cifra I dell’O del 21 gen. 2015, in vigore dal 1° mar. 2015 ([RU 2015 357](https://fedlex.data.admin.ch/eli/oc/2015/47)).
 [^8-2]: Nuovo testo giusta la cifra I dell’O del 21 gen. 2015, in vigore dal 1° mar. 2015 ([RU 2015 357](https://fedlex.data.admin.ch/eli/oc/2015/47)).
-[^8-3]: Introdotta dalla cifra I dell’O del 21 gen. 2015, in vigore dal 1° mar. 2015 ([RU 2015 357](https://fedlex.data.admin.ch/eli/oc/2015/47)).
-[^8-4]: Nuovo testo giusta la cifra I dell’O del 21 gen. 2015, in vigore dal 1° mar. 2015 ([RU 2015 357](https://fedlex.data.admin.ch/eli/oc/2015/47)).
-[^8-5]: [RS 192.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5676)
+[^8-3]: Abrogata dalla cifra I dell’O dell’11 feb. 2026, con effetto dal 1° apr. 2026 ([RU 2026 93](https://fedlex.data.admin.ch/eli/oc/2026/93)).
+[^8-4]: Introdotta dalla cifra I dell’O del 21 gen. 2015, in vigore dal 1° mar. 2015 ([RU 2015 357](https://fedlex.data.admin.ch/eli/oc/2015/47)).
+[^8-5]: Nuovo testo giusta la cifra I dell’O del 21 gen. 2015, in vigore dal 1° mar. 2015 ([RU 2015 357](https://fedlex.data.admin.ch/eli/oc/2015/47)).
+[^8-6]: [RS 192.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5676)
 
 #### Art. 9
 
@@ -283,29 +308,25 @@ Persegue in merito i seguenti obiettivi:
 
 Nel perseguire questi obiettivi svolge le seguenti funzioni, sempre che non siano delegate ad altre Direzioni:
 
-- a. gestisce il personale e le finanze e fornisce prestazioni logistiche e telematiche;
-- b.[^10-1] nomina i capiposto onorari e i viceconsoli onorari che non sono capiposto;
-- c.[^10-2] provvede alla legislazione, all’applicazione del diritto e alla consulenza giuridica per il DFAE; sono fatte salve le competenze della Direzione del diritto internazionale pubblico e della SG-DFAE.
+- a.[^10-1] gestisce il personale e le finanze e fornisce prestazioni logistiche e informatiche;
+- b.[^10-2] nomina i capiposto onorari e i viceconsoli onorari che non sono capiposto;
+- c.[^10-3] provvede alla legislazione, all’applicazione del diritto e alla consulenza giuridica per il DFAE; sono fatte salve le competenze della Direzione del diritto internazionale pubblico e della SG-DFAE.
 
 <sup>4</sup>
 
-Sono subordinati alla Direzione delle risorse:
-
-- a.[^10-3] l’incaricato della sicurezza delle informazioni, il consulente per la protezione dei dati e il consulente per il principio di trasparenza nel DFAE;
-- b. la Centrale viaggi della Confederazione.
-
-<sup>5</sup>
-
-La Centrale viaggi della Confederazione fornisce segnatamente le seguenti prestazioni a profitto o su mandato della Confederazione:
+La Centrale viaggi della Confederazione è subordinata alla Direzione delle risorse. Fornisce le seguenti prestazioni a profitto o su mandato della Confederazione:
 
 - a. prestazioni di viaggio a livello mondiale, con garanzia di condizioni economicamente vantaggiose;
 - b. prestazioni di servizi nell’ambito dell’esecuzione dell’allontanamento e dell’espulsione di stranieri;
 - c. prestazioni di servizi nell’ambito dell’organizzazione di conferenze.[^10-4]
 
-[^10-1]: Nuovo testo giusta la cifra I dell’O del 21 gen. 2015, in vigore dal 1° mar. 2015 ([RU 2015 357](https://fedlex.data.admin.ch/eli/oc/2015/47)).
+<sup>5</sup> ...[^10-5]
+
+[^10-1]: Nuovo testo giusta la cifra I dell’O dell’11 feb. 2026, in vigore dal 1° apr. 2026 ([RU 2026 93](https://fedlex.data.admin.ch/eli/oc/2026/93)).
 [^10-2]: Nuovo testo giusta la cifra I dell’O del 21 gen. 2015, in vigore dal 1° mar. 2015 ([RU 2015 357](https://fedlex.data.admin.ch/eli/oc/2015/47)).
 [^10-3]: Nuovo testo giusta la cifra I dell’O del 21 gen. 2015, in vigore dal 1° mar. 2015 ([RU 2015 357](https://fedlex.data.admin.ch/eli/oc/2015/47)).
-[^10-4]: Nuovo testo giusta la cifra I 3 dell’O del 15 giu. 2012 (Riorganizzazione dei dipartimenti), in vigore dal 1° gen. 2013 ([RU 2012 3631](https://fedlex.data.admin.ch/eli/oc/2012/418)).
+[^10-4]: Nuovo testo giusta la cifra I dell’O dell’11 feb. 2026, in vigore dal 1° apr. 2026 ([RU 2026 93](https://fedlex.data.admin.ch/eli/oc/2026/93)).
+[^10-5]: Abrogato dalla cifra I dell’O dell’11 feb. 2026, con effetto dal 1° apr. 2026 ([RU 2026 93](https://fedlex.data.admin.ch/eli/oc/2026/93)).
 
 #### Art. 11
 
@@ -317,17 +338,30 @@ La Centrale viaggi della Confederazione fornisce segnatamente le seguenti presta
 
 Nel perseguire questi obiettivi la Direzione consolare svolge segnatamente le seguenti funzioni:
 
-- a. crea le basi necessarie per garantire le prestazioni consolari fornite in tutto il mondo agli Svizzeri all’estero, ai cittadini svizzeri in viaggio nonché a beneficiari di prestazioni stranieri;
-- b. supporta le sezioni consolari all’estero nella fornitura delle loro prestazioni e mette a loro disposizione strumenti di lavoro adatti allo scopo;
+- a.[^11-2] crea le basi necessarie per garantire le prestazioni consolari fornite in tutto il mondo agli Svizzeri all’estero nonché a beneficiari di prestazioni stranieri;
+- b.[^11-3] supporta le sezioni consolari all’estero nella fornitura delle loro prestazioni e mette a disposizione delle rappresentanze all’estero strumenti di lavoro adatti allo scopo nonché offerte di formazione e perfezionamento in ambito consolare, e collabora con partner internazionali e privati nel quadro di accordi di cooperazione;
 - c. funge da interfaccia e da piattaforma informativa tra le rappresentanze all’estero e gli interlocutori in Svizzera e all’estero;
-- d. coordina e ottimizza la collaborazione nella fornitura di prestazioni consolari all’interno del DFAE, con altri servizi federali e organismi cantonali nonché con ministeri degli esteri di altri Paesi e altri interlocutori internazionali.
-- e. gestisce una helpline che fornisce 24 ore su 24 informazioni su tutte le prestazioni consolari;
-- f. si occupa dei casi di protezione consolare; sono fatte salve le competenze del Dipartimento federale di giustizia e polizia nell’ambito del rapimento internazionale di minori;
-- g. cura gli interessi degli Svizzeri e delle istituzioni svizzere all’estero. Sostiene e promuove in particolare gli interessi politici, economici e culturali della comunità svizzera all’estero e assicura l’informazione in merito a questioni che riguardano specificamente gli Svizzeri all’estero;
+- d.[^11-4] coordina e ottimizza la collaborazione nella fornitura di prestazioni consolari con le altre unità organizzative del DFAE, con altri servizi federali e organismi cantonali nonché con ministeri degli esteri di altri Paesi e altri interlocutori internazionali;
+- e.[^11-5] fornisce, 24 ore su 24, informazioni sulle prestazioni consolari, offre consulenza e assistenza e cura i consigli di viaggio del DFAE;
+- f.[^11-6] si occupa dei casi di protezione consolare; sono fatte salve le competenze del Dipartimento federale di giustizia e polizia nell’ambito del rapimento internazionale di minori in Paesi che hanno aderito alla Convenzione del 25 ottobre 1980[^11-7] sugli aspetti civili del rapimento internazionale di minori;
+- g.[^11-8] cura gli interessi degli Svizzeri e delle istituzioni svizzere all’estero; sostiene e promuove in particolare gli interessi politici, economici e culturali della comunità svizzera all’estero e assicura che gli Svizzeri all’estero ricevano le informazioni conformemente all’articolo 10 della legge del 26 settembre 2014[^11-9] sugli Svizzeri all’estero;
 - h. concede aiuto sociale agli Svizzeri all’estero che ne hanno bisogno;
-- i. gestisce un servizio di consulenza. La consulenza comprende informazioni generali sul soggiorno all’estero, l’emigrazione e il rientro in Svizzera.
+- i.[^11-10] ...
+- j.[^11-11] assiste le rappresentanze svizzere all’estero nella preparazione alle crisi e coordina la gestione delle crisi all’estero in cui sono coinvolti rappresentanze o cittadini svizzeri;
+- k.[^11-12] è responsabile della sicurezza delle rappresentanze svizzere all’estero e del loro personale, e gestisce i problemi di sicurezza che coinvolgono il personale delle rappresentanze svizzere.
 
 [^11-1]: Nuovo testo giusta la cifra I dell’O del 21 gen. 2015, in vigore dal 1° mar. 2015 ([RU 2015 357](https://fedlex.data.admin.ch/eli/oc/2015/47)).
+[^11-2]: Nuovo testo giusta la cifra I dell’O dell’11 feb. 2026, in vigore dal 1° apr. 2026 ([RU 2026 93](https://fedlex.data.admin.ch/eli/oc/2026/93)).
+[^11-3]: Nuovo testo giusta la cifra I dell’O dell’11 feb. 2026, in vigore dal 1° apr. 2026 ([RU 2026 93](https://fedlex.data.admin.ch/eli/oc/2026/93)).
+[^11-4]: Nuovo testo giusta la cifra I dell’O dell’11 feb. 2026, in vigore dal 1° apr. 2026 ([RU 2026 93](https://fedlex.data.admin.ch/eli/oc/2026/93)).
+[^11-5]: Nuovo testo giusta la cifra I dell’O dell’11 feb. 2026, in vigore dal 1° apr. 2026 ([RU 2026 93](https://fedlex.data.admin.ch/eli/oc/2026/93)).
+[^11-6]: Nuovo testo giusta la cifra I dell’O dell’11 feb. 2026, in vigore dal 1° apr. 2026 ([RU 2026 93](https://fedlex.data.admin.ch/eli/oc/2026/93)).
+[^11-7]: [RS 0.211.230.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/856)
+[^11-8]: Nuovo testo giusta la cifra I dell’O dell’11 feb. 2026, in vigore dal 1° apr. 2026 ([RU 2026 93](https://fedlex.data.admin.ch/eli/oc/2026/93)).
+[^11-9]: [RS 195.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5690)
+[^11-10]: Abrogata dalla cifra I dell’O dell’11 feb. 2026, con effetto dal 1° apr. 2026 ([RU 2026 93](https://fedlex.data.admin.ch/eli/oc/2026/93)).
+[^11-11]: Introdotta dalla cifra I dell’O dell’11 feb. 2026, in vigore dal 1° apr. 2026 ([RU 2026 93](https://fedlex.data.admin.ch/eli/oc/2026/93)).
+[^11-12]: Introdotta dalla cifra I dell’O dell’11 feb. 2026, in vigore dal 1° apr. 2026 ([RU 2026 93](https://fedlex.data.admin.ch/eli/oc/2026/93)).
 
 ### Sezione 4: Rappresentanze svizzere all’estero
 
@@ -353,7 +387,47 @@ Nel perseguire questi obiettivi la Direzione consolare svolge segnatamente le se
 
 [^13-1]: Abrogato dalla cifra I n. 3 dell’O del 15 giu. 2012 (Riorganizzazione dei dipartimenti), con effetto dal 1° gen. 2013 ([RU 2012 3631](https://fedlex.data.admin.ch/eli/oc/2012/418)).
 
-## Capitolo 3: Disposizioni finali
+## Capitolo 3: Organizzazione di crisi del DFAE
+
+[^chap3-1]
+
+[^chap3-1]: Introdotta dalla cifra I dell’O dell’11 feb. 2026, in vigore dal 1° apr. 2026 ([RU 2026 93](https://fedlex.data.admin.ch/eli/oc/2026/93)).
+
+#### Art. 13a
+
+**Compiti**
+
+<sup>1</sup> Il DFAE dispone di un’organizzazione di crisi a livello dipartimentale (organizzazione di crisi del DFAE) per le crisi che non rientrano nel mandato di altre unità del DFAE.
+
+<sup>2</sup>
+
+In particolare, adempie i seguenti compiti:
+
+- a. dirige e coordina la gestione delle crisi in seno al DFAE;
+- b. monitora e valuta la situazione;
+- c. è incaricata della comunicazione interna e verso l’esterno.
+
+#### Art. 13b
+
+**Attivazione**
+
+Il capo del DFAE decide circa l’attivazione dell’organizzazione di crisi del DFAE.
+
+#### Art. 13c
+
+**Direzione**
+
+<sup>1</sup> L’organizzazione di crisi del DFAE è diretta dal segretario generale del DFAE.
+
+<sup>2</sup> Il segretario generale può attingere all’effettivo di personale e alle risorse tecniche delle unità organizzative del dipartimento per formare l’organizzazione di crisi ed è autorizzato a impartire loro istruzioni.
+
+<sup>3</sup> Può delegare la direzione dell’organizzazione di crisi del DFAE al segretario di Stato del DFAE o a un direttore del DFAE.
+
+## Capitolo 4: Disposizioni finali
+
+[^chap4-1]
+
+[^chap4-1]: Originario Cap. 3.
 
 #### Art. 14
 
