@@ -4,13 +4,12 @@ number: "700.010"
 title: Verordnung zum Baugesetz
 short: BauV
 language: de
-version: 2021-11-01
-valid_until: 2026-03-31
-version_adopted: 2021-10-25
+version: 2026-04-01
+version_adopted: 2026-03-30
 adopted: 2012-10-22
 in_force: 2013-01-01
 url: "https://ai.clex.ch/app/de/texts_of_law/700.010"
-pdf: "https://ai.clex.ch/api/de/versions/1962/pdf_file"
+pdf: "https://ai.clex.ch/api/de/versions/2439/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AI. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://ai.clex.ch/api/de/versions/1962/pdf_file"
 
 (BauV)
 
-vom 22.10.2012 (Stand 01.11.2021)
+vom 22.10.2012 (Stand 01.04.2026)
 
 Der Grosse Rat des Kantons Appenzell I. Rh.,
 
@@ -682,6 +681,8 @@ beschliesst:
 
 <sup>2</sup> Gegenüber angrenzenden Zonen ist der Grenzabstand der empfindlicheren Zone einzuhalten. Gebäude in der Gewerbe- und Industriezone haben gegenüber anderen Zonen einen Drittel der traufseitigen Fassadenhöhe, mindestens aber 5 m Grenzabstand einzuhalten.
 
+<sup>2<sup>bis</sup></sup> Für Erdsonden ist ein Grenzabstand von mindestens 3 m einzuhalten, der mit schriftlicher Zustimmung des Nachbarn unterschritten werden kann.
+
 <sup>3</sup> Die Bezirke können in Reglementen die Grenzabstandsvorschriften erhöhen oder mit Quartierplänen verringern, sofern dadurch die öffentlichen Interessen an einer gesunden, zweckmässigen Bauweise trotzdem gewahrt werden können.
 
 <sup>4</sup> Vorbehalten bleibt die Strassengesetzgebung.
@@ -788,6 +789,8 @@ beschliesst:
 
 <sup>1</sup> Wird die Konstruktionsstärke der Aussenwand und des Dachs aufgrund der Wärmedämmung grösser als 35 cm, ist sie für die Berechnung der Nutzungsziffern nur mit 35 cm zu berücksichtigen.
 
+<sup>2</sup> An bestehenden Gebäuden dürfen unbesehen rechtlicher Abstandsvorschriften, Längenmassen und Nutzungsziffern zusätzliche Aussenwärmedämmungen bis zu 35cm Stärke, inklusive Aufbau und Fassade, angebracht werden. Entgegenstehende überwiegende öffentliche Interessen bleiben vorbehalten.
+
 #### Art. 72
 
 **Einzelne Vorschriften**
@@ -840,7 +843,7 @@ beschliesst:
 
 <sup>1</sup> Für Bewilligungen nach den Art. 74 und 75 dieser Verordnung gelten die Voraussetzungen von Art. 39 der Raumplanungsverordnung vom 28. Juni 2000 (RPV).
 
-<sup>2</sup> Die äussere Erscheinung im Sinne von Art. 39 Abs. 3 lit. c RPV gilt dann als im Wesentlichen gewahrt, wenn die geänderte Baute die prägenden gestalterischen Elemente und die Proportionen der herkömmlichen Bauweise im Streusiedlungsgebiet übernimmt. Ausnahmen können nur bewilligt werden, wenn gestalterische Verbesserungen erzielt werden.
+<sup>2</sup> Die äussere Erscheinung im Sinne von Art. 39 Abs. 3 RPV gilt dann als im Wesentlichen unverändert, wenn die geänderte Baute die prägenden gestalterischen Elemente und die Proportionen der herkömmlichen Bauweise im Streusiedlungsgebiet übernimmt. Ausnahmen können nur bewilligt werden, wenn gestalterische Verbesserungen erzielt werden.
 
 <sup>3</sup> Die für alle alten und neuen Nutzungen objektiv erforderlichen Wohn- und Nebenräume müssen im bestehenden angebauten oder frei stehenden, für den bisherigen Zweck nicht mehr benötigten Gebäudevolumen untergebracht werden. An- und Kleinbauten können als Ausnahme bewilligt werden, wenn das bestehende Gebäudevolumen zur Aufnahme der Wohn- und Nebenräume objektiv nicht ausreicht und eine gute gestalterische Lösung sichergestellt ist.
 
@@ -880,7 +883,7 @@ beschliesst:
 
 **Baugesuch**
 
-<sup>1</sup> Das Baugesuch hat die für die baupolizeiliche Prüfung notwendigen Unterlagen wie Situations- und Grundbuchplan, Grundriss, Ansichten, Schnitte (mit massgebendem Terrain) und Erschliessungspläne (insbesondere Strassen und Kanäle) zu enthalten. In den Plänen sind Bauwerk (Neubau, Abbruch und bestehende Bauteile) und Umgebungsgestaltung darzustellen.
+<sup>1</sup> Das Baugesuch hat die für die baupolizeiliche Prüfung notwendigen Unterlagen wie Situations- und Grundbuchplan, Grundriss, Ansichten, Schnitte (mit massgebendem Terrain) und Erschliessungspläne (insbesondere Strassen und Kanäle) zu enthalten. In den Plänen sind Bauwerk (Neubau, Abbruch und bestehende Bauteile) und Umgebungsgestaltung darzustellen. Es ist von der Bauherrschaft und vom Grundeigentümer, bzw. vom Baurechtsnehmer zu unterzeichnen.
 
 <sup>2</sup> Die Baubewilligungsbehörde kann weitere Unterlagen verlangen soweit sie für die Beurteilung der Gesuche unerlässlich sind. Gesuche für Materialablagerungs- und Materialentnahmestellen haben folgende zusätzlichen Unterlagen zu enthalten: Höhenlinienplan mit den ursprünglichen und den geänderten Höhenlinien, aussagekräftige Geländeschnitte, Etappierungsplan für den Ablagerungs- bzw. Abbauvorgang, Rekultivierungsplan und Angaben über Massnahmen zur Minimierung der visuellen und übrigen Immissionen während des Betriebs.
 
@@ -889,6 +892,10 @@ beschliesst:
 <sup>4</sup> Die Baubewilligungsbehörde prüft die Unterlagen auf Vollständigkeit. Sie weist unvollständige Gesuche zurück bzw. fordert fehlende Unterlagen an.
 
 <sup>5</sup> Die Baubewilligungsbehörde leitet die vollständigen Unterlagen unverzüglich an das Departement weiter; dem Nachführungsgeometer ist eine Bauanzeige zuzustellen.
+
+<sup>6</sup> Die Baubewilligungsbehörde kann für die öffentliche Auflage einzelne persönlichkeitsbezogene Angaben in den Unterlagen abdecken, welche nur bei Vorliegen eines berechtigten Interesses offengelegt werden dürfen.
+
+<sup>7</sup> Für die öffentliche Auflage im Internet hat die Baubewilligungsbehörde geeignete technische Vorkehren zu treffen, welche das automatische Sammeln von Daten aus Baugesuchen verhindern.
 
 #### Art. 81
 
@@ -971,15 +978,16 @@ beschliesst:
 
 **Baukontrollen**
 
-<sup>1</sup> Kontrollpflichtige Baustadien sind:
+<sup>1</sup> Meldepflichtige Baustadien sind:
 
-- a) Erstellung des Schnurgerüstes;
-- b) Vollendung des Rohbaues;
-- c) Vollendung der Feuerungsanlagen;
-- d) Anschluss an die Kanalisation vor Eindeckung des Grabens;
-- e) Vollendung des Baues vor dem Bezug.
+- a) Baubeginn;
+- b) Erstellung des Schnurgerüsts bzw. Festlegen der Lage und Geometrie des Fundamentes;
+- c) Vollendung des Rohbaus;
+- d) Vollendung von Heizungsanlagen;
+- e) Anschluss an die Kanalisation vor Eindeckung des Grabens;
+- f) Vollendung des Baues vor dem Bezug.
 
-<sup>2</sup> Die Behörde hat die Bauten und Anlagen in der Regel innert drei Tagen nach dem Zugang der Anzeige auf ihre Übereinstimmung mit den genehmigten Plänen zu überprüfen bzw. überprüfen zu lassen.
+<sup>2</sup> Die Behörde hat die meldepflichtigen Baustadien in geeigneter Weise auf ihre Übereinstimmung mit den genehmigten Plänen zu überprüfen bzw. überprüfen zu lassen, wobei die Baubewilligungsbehörde die Bauherrschaft zu eine entsprechenden Selbstdeklaration verpflichten kann.
 
 <sup>3</sup> Mängel sind unverzüglich zu beheben. Behebt die Bauherrschaft die Mängel nicht freiwillig, verfügt die Baubewilligungsbehörde die Einstellung der Bauarbeiten, sofern durch deren Fortsetzung die Beseitigung der Mängel erschwert würde und ordnet die notwendigen Massnahmen an.
 
@@ -1044,6 +1052,8 @@ beschliesst:
 <sup>4</sup> Baugesuche für Bauvorhaben in Gebieten, für welche ein Quartierplan erlassen wurde, werden bis zur Anpassung der Quartierplanung nach den bisherigen Einzelbauvorschriften erledigt.
 
 <sup>5</sup> Unter bisherigem Recht bewilligte Bauten bleiben in ihrem Bestand gewährleistet.
+
+<sup>6</sup> Unter bisherigem Recht verfügte Mehrwertabgaben werden nach bisherigem Recht fällig.
 
 #### Art. 89
 
