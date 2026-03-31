@@ -3,20 +3,19 @@ canton: SO
 number: "122.218"
 title: Verordnung über die Delegation der Unterschriftsberechtigung in den Departementen
 language: de
-version: 2025-03-01
-valid_until: 2026-03-31
-version_adopted: 2024-12-09
+version: 2026-04-01
+version_adopted: 2026-01-26
 adopted: 2004-05-25
 in_force: 2004-08-01
 url: "https://bgs.so.ch/app/de/texts_of_law/122.218"
-pdf: "https://bgs.so.ch/api/de/versions/5528/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5619/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die Delegation der Unterschriftsberechtigung in den Departementen
 
-Vom 25.05.2004 (Stand 01.03.2025)
+Vom 25.05.2004 (Stand 01.04.2026)
 
 Der Regierungsrat des Kantons Solothurn
 
@@ -97,7 +96,7 @@ beschliesst:
 
 - a) vom Chef oder von der Chefin des Gesundheitsamtes:
   - 1\. …
-  - 1<sup>bis</sup>. Massnahmen im Zusammenhang mit Bewilligungsentzugs- und Disziplinarverfahren gemäss der Gesundheitsgesetzgebung;
+  - 1<sup>bis</sup>. Massnahmen im Zusammenhang mit Administrativ- und Disziplinarverfahren gemäss der Gesundheitsgesetzgebung;
   - 2\. Verfügungen über Zulassungsentzugs- und Disziplinarverfahren gemäss der Krankenversicherungsgesetzgebung;
   - 3\. …
   - 4\. die dem Departementssekretär oder der Departementssekretärin im Amtsbereich zugewiesenen Verrichtungen;
@@ -107,7 +106,8 @@ beschliesst:
 - b<sup>bis</sup>) vom Leiter oder von der Leiterin der Abteilung Gesundheitsversorgung:
   - 1\. Betriebs- und Berufsausübungsbewilligungen sowie Bewilligungen von Zweigpraxen;
   - 2\. Verfügungen gemäss der Heilmittel- und Betäubungsmittelgesetzgebung;
-  - 3\. Verfügungen über die Zulassung bzw. Nichtzulassung von Leistungserbringern zur Tätigkeit zulasten der obligatorischen Krankenpflegeversicherung.
+  - 3\. Verfügungen über die Zulassung bzw. Nichtzulassung von Leistungserbringern zur Tätigkeit zulasten der obligatorischen Krankenpflegeversicherung;
+  - 3<sup>bis</sup>. ausserhalb von Administrativ- und Disziplinarverfahren angeordnete Aufsichts- und Verwaltungsmassnahmen gemäss der Gesundheitsgesetzgebung.
   - 4\. …
   - 5\. …
   - 6\. …
@@ -116,7 +116,9 @@ beschliesst:
   - 1\. Verfügungen und Anordnungen im Bereich der ambulanten Pflege (Spitex) und der Langzeitpflege (Alters- und Pflegeheime), wie insbesondere Betriebsbewilligungen, sowie in den übrigen Belangen im Zusammenhang mit dem Alter;
   - 2\. Verfügungen und Anordnungen im Zusammenhang mit Einzelfallanerkennungen für Solothurner und Solothurnerinnen mit ausserkantonalem Heimaufenthalt;
   - 3\. Verfügungen und Anordnungen im Suchtbereich;
-  - 4\. Verfügungen und Anordnungen im Zusammenhang mit dem Vollzug der Ausbildungsverpflichtung und der Gewährung von Beiträgen für Ausbildungsleistungen gemäss dem Einführungsgesetz zum Bundesgesetz über die Förderung der Ausbildung im Bereich der Pflege (EG Ausbildungsfördergesetz Pflege) vom 15. Mai 2024[^4-1].
+  - 3<sup>bis</sup>. Verfügungen und Anordnungen im Zusammenhang mit dem Vollzug der Aus- und Weiterbildungsverpflichtung gemäss der Sozial- und Spitalgesetzgebung;
+  - 4\. Verfügungen und Anordnungen im Zusammenhang mit dem Vollzug der Ausbildungsverpflichtung und der Gewährung von Beiträgen für Ausbildungsleistungen gemäss dem Einführungsgesetz zum Bundesgesetz über die Förderung der Ausbildung im Bereich der Pflege (EG Ausbildungsfördergesetz Pflege) vom 15. Mai 2024[^4-1];
+  - 5\. ausserhalb von Administrativ- und Disziplinarverfahren angeordnete Aufsichts- und Verwaltungsmassnahmen gemäss der Gesundheitsgesetzgebung.
 - c) vom Leiter oder von der Leiterin der Abteilung Kantonsärztlicher Dienst:
   - 1\. Verfügungen im Bereich der Spitalaufenthalte nach der Gesetzgebung über die Krankenversicherung;
   - 1<sup>bis</sup>. Verfügungen betreffend den ärztlichen Nachweis für eine einwandfreie Berufsausübung von Gesundheitsfachpersonen mit vollendetem 75. Altersjahr;
@@ -140,13 +142,13 @@ beschliesst:
   - 3\. Verfügungen und Anordnungen im Zusammenhang mit der Tätigkeit als Clearingstelle der Pflegefinanzierung.
 - d) vom Leiter oder von der Leiterin Rechtsdienst oder von den durch ihn oder sie bezeichneten juristischen Mitarbeitenden:
   - 1\. Entbindungen von der ärztlichen Schweigepflicht;
-  - 1<sup>bis</sup>. Massnahmen im Zusammenhang mit Bewilligungsentzugs- und Disziplinarverfahren gemäss der Gesundheitsgesetzgebung;
+  - 1<sup>bis</sup>. Massnahmen im Zusammenhang mit Administrativ- und Disziplinarverfahren gemäss der Gesundheitsgesetzgebung;
   - 1<sup>ter</sup>. Verfügungen über Zulassungsentzugs- und Disziplinarverfahren gemäss der Krankenversicherungsgesetzgebung;
   - 1<sup>quater</sup>. Genehmigungsentscheide betreffend kommunale Reglemente in den Bereichen schulärztlicher Dienst und Schulzahnpflege;
   - 1<sup>quinquies</sup>. Verfügungen und Anordnungen im Zusammenhang mit Aufsichtsbeschwerden und Ausstandsbegehren im Bereich des Kindes- und Erwachsenenschutzes;
   - 1<sup>sexies</sup>. Beschwerdeentscheide im Bereich des Notfalldienstes;
   - 1<sup>septies</sup>. Beschwerdeentscheide in den Bereichen schulärztlicher Dienst und Schulzahnpflege;
-  - 1<sup>octies</sup>. Beschwerdeentscheide im Bereich der Ausbildungsverpflichtung in Spitälern, Heimen und bei der Spitex;
+  - 1<sup>octies</sup>. …
   - 1<sup>novies</sup>. Beschwerdeentscheide im Bereich der Hundehaltung, für welche das Departement zuständig ist;
   - 2\. …
   - 3\. Beschwerdeentscheide nach der Lebensmittelgesetzgebung;
