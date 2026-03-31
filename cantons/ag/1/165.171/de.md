@@ -4,13 +4,12 @@ number: "165.171"
 title: "Verordnung über Spesen, Sitzungsgelder und übrige Entschädigungen"
 short: "Spesenverordnung, SpesenV"
 language: de
-version: 2023-01-01
-valid_until: 2026-03-31
-version_adopted: 2022-11-23
+version: 2026-04-01
+version_adopted: 2026-02-11
 adopted: 2001-01-31
 in_force: 2001-04-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/165.171"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3590/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3930/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,11 +18,11 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3590/pdf_file"
 
 (Spesenverordnung, SpesenV)
 
-Vom 31.01.2001 (Stand 01.01.2023)
+Vom 31.01.2001 (Stand 01.04.2026)
 
 Der Regierungsrat des Kantons Aargau,
 
-gestützt auf die §§ 1 Abs. 3, 2 und 7 des Dekretes über Spesen, Sitzungsgelder und übrige Entschädigungen vom 14. März 2000[^ingress-1],
+gestützt auf die §§ 1 Abs. 3, 2, 4 Abs. 3, 6 und 7 des Dekrets über Spesen, Sitzungsgelder und übrige Entschädigungen vom 14. März 2000[^ingress-1],
 
 beschliesst:
 
@@ -186,6 +185,14 @@ beschliesst:
 - b) Mitglieder — Fr. 100.–
 
 <sup>2</sup> Neben der Pauschalentschädigung wird die Wahlbüroarbeit mit Fr. 30.– pro Stunde abgegolten.
+
+#### § 15b
+
+**Prüfungsentschädigungen**
+
+<sup>1</sup> Die Entschädigung der Prüfungskommissionsmitglieder sowie der Prüfungsexpertinnen und ‑experten beziehungsweise ihrer Stellvertretungen beträgt für Prüfungen an Mittelschulen gemäss Auftrag Fr. 60.– pro Stunde.
+
+<sup>2</sup> Die Entschädigung der Prüfungsexpertinnen und ‑experten beziehungsweise ihrer Stellvertretungen beträgt für die Abnahme der Jagdprüfungen Fr. 150.– pro Prüfungshalbtag.
 
 ## 3. Schluss- und Übergangsbestimmungen
 
