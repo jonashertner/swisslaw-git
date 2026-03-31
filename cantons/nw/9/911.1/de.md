@@ -4,13 +4,12 @@ number: "911.1"
 title: Gesetz über das Polizeiwesen
 short: "Polizeigesetz, PolG"
 language: de
-version: 2025-03-01
-valid_until: 2026-03-31
-version_adopted: 2024-11-27
+version: 2026-04-01
+version_adopted: 2025-11-26
 adopted: 2014-06-11
 in_force: 2014-11-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/911.1"
-pdf: "https://gesetze.nw.ch/api/de/versions/1349/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/1474/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://gesetze.nw.ch/api/de/versions/1349/pdf_file"
 
 (Polizeigesetz, PolG)
 
-vom 11.06.2014 (Stand 01.03.2025)
+vom 11.06.2014 (Stand 01.04.2026)
 
 Der Landrat von Nidwalden,
 
@@ -838,6 +837,16 @@ beschliesst:
 
 <sup>1</sup> Private Alarmanlagen, mit denen die Polizei direkt alarmiert werden kann, bedürfen einer Bewilligung der Polizei.
 
+## 7a Sprengstoff
+
+#### Art. 64a
+
+**Verwendung von Schiesspulver für historische Anlässe**
+
+<sup>1</sup> Der Regierungsrat regelt in einer Verordnung die Voraussetzungen für die Verwendung von Schiesspulver für die Feier historischer Anlässe oder ähnlicher Bräuche gemäss Art. 15 Abs. 5 des eidgenössischen Sprengstoffgesetzes[^64a-1]. Er kann insbesondere eine Versicherungspflicht vorschreiben.
+
+[^64a-1]: SR 941.41
+
 ## 8 Rechtsschutz
 
 #### Art. 65
@@ -848,7 +857,10 @@ beschliesst:
 
 <sup>2</sup> Im Übrigen richtet sich das Verfahren nach dem Verwaltungsrechtspflegegesetz[^65-1].
 
+<sup>3</sup> Vorbehalten bleibt das Rechtsmittelverfahren gemäss Art. 36 des eidgenössischen Sprengstoffgesetzes[^65-2].
+
 [^65-1]: NG 265.1
+[^65-2]: SR 941.41
 
 ## 9 Vollzugs-, Übergangs- und Schlussbestimmungen
 
