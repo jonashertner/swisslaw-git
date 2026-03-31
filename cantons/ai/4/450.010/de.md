@@ -4,37 +4,37 @@ number: "450.010"
 title: Verordnung über den Natur- und Heimatschutz
 short: VNH
 language: de
-version: 2017-01-01
-corrected: 2018-12-17
-version_adopted: 2016-12-05
+version: 2026-04-01
+version_adopted: 2026-03-30
 adopted: 1989-03-13
 in_force: 1989-03-13
 url: "https://ai.clex.ch/app/de/texts_of_law/450.010"
-pdf: "https://ai.clex.ch/api/de/versions/517/pdf_file"
-text: pdf
+pdf: "https://ai.clex.ch/api/de/versions/2438/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AI. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AI. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Verordnung über den Natur- und Heimatschutz (VNH)
+# Verordnung über den Natur- und Heimatschutz
 
-vom 13. März 19891
+(VNH)
+
+vom 13.03.1989 (Stand 01.04.2026)
 
 Der Grosse Rat des Kantons Appenzell I. Rh.,
 
-gestützt auf die Bundesgesetzgebung über den Natur- und Heimatschutz und Art. 92 des Baugesetzes vom 29. April 2012 (BauG),2
+gestützt auf die Bundesgesetzgebung über den Natur- und Heimatschutz und Art. 92 des Baugesetzes vom 29. April 2012 (BauG),
 
 beschliesst:
 
-### I. Allgemeine Bestimmungen
+## I. Allgemeine Bestimmungen
 
 #### Art. 1
 
 **Zweck**
 
-Diese Verordnung bezweckt den Schutz der einheimischen Tier- und Pflanzenwelt und ihrer natürlichen Lebensräume, des überlieferten Landschafts- und Ortsbildes sowie der Natur- und Kulturdenkmäler.
+<sup>1</sup> Diese Verordnung bezweckt den Schutz der einheimischen Tier- und Pflanzenwelt und ihrer natürlichen Lebensräume, des überlieferten Landschafts- und Ortsbildes sowie der Natur- und Kulturdenkmäler.
 
-#### Art. 23
+#### Art. 2
 
 **Schutzmassnahmen**
 
@@ -46,43 +46,49 @@ Diese Verordnung bezweckt den Schutz der einheimischen Tier- und Pflanzenwelt un
 
 <sup>4</sup> Geschützte Gebiete und Gegenstände werden von der Standeskommission, gegebenenfalls auf Antrag der zuständigen Behörde entsprechend ihrer Schutzwürdigkeit in solche von regionaler oder von lokaler Bedeutung eingeteilt. Bewertungskriterien sind unter anderen: Seltenheit, Gefährdung, Eigenart, wissenschaftlicher oder pädagogischer Wert, Lage und Verteilung.
 
-#### Art. 31
+#### Art. 3
 
-Aufgaben von <sup>1</sup>Kanton und Bezirke haben bei der Erfüllung ihrer Aufgaben die Gesichtspunkte Kanton und des Natur- und Heimatschutzes zu beachten. Die kantonalen Fachstellen und Bezirken Fachkommissionen übernehmen die Beratung und stellen geeignete Unterlagen zur Verfügung.
+**Aufgaben von Kanton und Bezirken**
 
-<sup>2</sup> Der Kanton und die Bezirke arbeiten nach Möglichkeit mit den örtlichen privaten
+<sup>1</sup> Kanton und Bezirke haben bei der Erfüllung ihrer Aufgaben die Gesichtspunkte des Natur- und Heimatschutzes zu beachten. Die kantonalen Fachstellen und Fachkommissionen übernehmen die Beratung und stellen geeignete Unterlagen zur Verfügung.
 
-Organisationen des Natur- und Heimatschutzes zusammen.
+<sup>2</sup> Der Kanton und die Bezirke arbeiten nach Möglichkeit mit den örtlichen privaten Organisationen des Natur- und Heimatschutzes zusammen.
 
 <sup>3</sup> Sie können die Wiederherstellung oder Neuschaffung naturnaher und artenreicher Lebensräume unterstützen.
 
-### II. Landschaftsschutzzonen
+## II. Landschaftsschutzzonen
 
-#### Art. 42
+#### Art. 4
 
-Grundregelung Der Erlass von Landschaftsschutzzonen richtet sich nach der Baugesetzgebung.
+**Grundregelung**
+
+<sup>1</sup> Der Erlass von Landschaftsschutzzonen richtet sich nach der Baugesetzgebung.
 
 #### Art. 5
 
-Schutzziel Die Landschaftsschutzzone dient der Erhaltung des Landschaftsbildes und der dieses prägenden Elemente.
+**Schutzziel**
 
-#### Art. 63
+<sup>1</sup> Die Landschaftsschutzzone dient der Erhaltung des Landschaftsbildes und der dieses prägenden Elemente.
 
-Rechtswirkung <sup>1</sup>Die grundsätzliche Zulässigkeit von Bauten und Anlagen richtet sich nach den Bestimmungen für die jeweilige Grundnutzungszone.
+#### Art. 6
+
+**Rechtswirkung**
+
+<sup>1</sup> Die grundsätzliche Zulässigkeit von Bauten und Anlagen richtet sich nach den Bestimmungen für die jeweilige Grundnutzungszone.
 
 <sup>2</sup> Nicht zulässig sind Materialentnahmestellen wie Kies- und Sandgruben, Steinbrüche und Kieswaschanlagen, Deponien und dergleichen sowie damit verbundene Terrainveränderungen.
 
 <sup>3</sup> Zulässige Bauten, Anlagen und landschaftsverändernde Massnahmen haben erhöhten Anforderungen in Bezug auf Gestaltung, Farbgebung und Einpassung ins Landschaftsbild zu genügen, Verkleidung der Fassaden, die Bedachung, die Fenstereinteilung und die Umgebungsgestaltung sind nach der herkömmlichen Bauart zu richten. Das Landschaftsbild prägende Hecken und Baumgruppen sind zu erhalten.
 
-### III. Ortsbildschutzzonen
+## III. Ortsbildschutzzonen
 
-#### Art. 71
+#### Art. 7
 
 **Erlass von Ortsbildschutzzonen**
 
-Der Erlass von Ortsbildschutzzonen richtet sich nach der Baugesetzgebung.
+<sup>1</sup> Der Erlass von Ortsbildschutzzonen richtet sich nach der Baugesetzgebung.
 
-#### Art. 82
+#### Art. 8
 
 **Schutzkategorien und -bereiche**
 
@@ -90,9 +96,9 @@ Der Erlass von Ortsbildschutzzonen richtet sich nach der Baugesetzgebung.
 
 <sup>2</sup> Einzelverfügungen sind als öffentlich-rechtliche Eigentumsbeschränkung im Grundbuch anzumerken
 
-### IV. Naturschutzzonen
+## IV. Naturschutzzonen
 
-#### Art. 93
+#### Art. 9
 
 **Schutzkategorien und -bereiche**
 
@@ -100,75 +106,76 @@ Der Erlass von Ortsbildschutzzonen richtet sich nach der Baugesetzgebung.
 
 <sup>2</sup> Sofern das Schutzziel dies erfordert, sind ökologisch ausreichende Pufferzonen auszuscheiden.
 
-#### Art. 104
+#### Art. 10
 
 **Rechtswirkung im Allgemeinen**
 
 <sup>1</sup> In Naturschutzzonen sind Nutzungen und Massnahmen, die den Lebensraum der darin vorkommenden Pflanzen und Tiere beeinträchtigen, unzulässig. Insbesondere sind untersagt:
 
 - a) Terrainveränderungen;
-
 - b) Materialablagerungen aller Art;
-
 - c) das Beseitigen von Schilf, Hecken, Feld- und Ufergehölzen;
-
 - d) das Aufforsten;
-
 - e) das Ausbringen von Giftstoffen;
-
 - f) das Umpflügen;
-
 - g) das Abbrennen von Pflanzenbeständen.
 
-<sup>2</sup> Bauten und Anlagen können nur bewilligt werden, wenn die land- und forstwirtschaftliche Nutzung der Naturschutzzone dies unbedingt erfordert und die Baute
+<sup>2</sup> Bauten und Anlagen können nur bewilligt werden, wenn die land- und forstwirtschaftliche Nutzung der Naturschutzzone dies unbedingt erfordert und die Baute oder Anlage nicht ausserhalb der Schutzzone erstellt werden kann.
 
-oder Anlage nicht ausserhalb der Schutzzone erstellt werden kann.
+#### Art. 11
 
-#### Art. 111
+**Besondere Bewirtschaftungsauflagen**
 
-Besondere Be- <sup>1</sup>In Naturschutz- und Pufferzonen ist untersagt:
+<sup>1</sup> In Naturschutz- und Pufferzonen ist untersagt:
 
-wirtschaftungs- a) das Neuanlegen, Erweitern und Ersetzen von Drainagen und Entwässerungen; auflagen b) das Ausbringen von natürlichen oder künstlichen Düngemitteln.
+- a) das Neuanlegen, Erweitern und Ersetzen von Drainagen und Entwässerungen;
+- b) das Ausbringen von natürlichen oder künstlichen Düngemitteln.
 
 <sup>2</sup> Flächen in den Naturschutzzonen müssen in der Regel einmal pro Jahr bewirtschaftet werden.
 
 <sup>3</sup> In Hochmooren ist der Weidegang verboten.
 
-<sup>4</sup> Durch Vereinbarung mit dem Bewirtschafter kann von diesen Vorschriften abgewi-
+<sup>4</sup> Durch Vereinbarung mit dem Bewirtschafter kann von diesen Vorschriften abgewichen werden, sofern dies dem Schutzziel nicht widerspricht.
 
-chen werden, sofern dies dem Schutzziel nicht widerspricht.
+#### Art. 12
 
-#### Art. 122
+**…**
 
-#### Art. 133
+#### Art. 13
 
-#### Art. 144
+**…**
 
-Vereinbarungen Mit dem Bewirtschafter oder Grundeigentümer können weitere Massnahmen zum zum Erhalt und Erhalt und zur Förderung von Naturschutzzonen vereinbart werden.
+#### Art. 14
 
-zur Förderung
+**Vereinbarungen zum Erhalt und zur Förderung**
 
-### V. Uferschutz
+<sup>1</sup> Mit dem Bewirtschafter oder Grundeigentümer können weitere Massnahmen zum Erhalt und zur Förderung von Naturschutzzonen vereinbart werden.
 
-#### Art. 155
+## V. Uferschutz
 
-Schutzziel Die Ufer aller Wasserflächen und Wasserläufe sind in ihrem natürlichen Bestand zu erhalten und schonend zu bewirtschaften. Vorbehalten bleiben notwendige Vorkehren gemäss der Wasserbaugesetzgebung.
+#### Art. 15
 
-#### Art. 161
+**Schutzziel**
+
+<sup>1</sup> Die Ufer aller Wasserflächen und Wasserläufe sind in ihrem natürlichen Bestand zu erhalten und schonend zu bewirtschaften. Vorbehalten bleiben notwendige Vorkehren gemäss der Wasserbaugesetzgebung.
+
+#### Art. 16
 
 **Bewirtschaftung**
 
-Die bestehende Ufervegetation (Schilf- und Binsenbestände, Auenvegetationen sowie andere natürliche Pflanzengesellschaften im Uferbereich) ist zu erhalten. Sie darf weder gerodet noch überschüttet noch auf andere Weise zum Absterben gebracht werden.
+<sup>1</sup> Die bestehende Ufervegetation (Schilf- und Binsenbestände, Auenvegetationen sowie andere natürliche Pflanzengesellschaften im Uferbereich) ist zu erhalten. Sie darf weder gerodet noch überschüttet noch auf andere Weise zum Absterben gebracht werden.
 
-### VI. Artenschutz
+## VI. Artenschutz
 
-#### Art. 172
+#### Art. 17
 
 **Umfang**
 
-Artenschutz umfasst gezielte Massnahmen zur Erhaltung, Förderung oder zur Wiederansiedlung einzelner Tier- und Pflanzenarten.
+<sup>1</sup> Artenschutz umfasst gezielte Massnahmen zur Erhaltung, Förderung oder zur Wiederansiedlung einzelner Tier- und Pflanzenarten.
 
-#### Art. 183
+#### Art. 18
+
+**…**
 
 #### Art. 19
 
@@ -178,13 +185,13 @@ Artenschutz umfasst gezielte Massnahmen zur Erhaltung, Förderung oder zur Wiede
 
 <sup>2</sup> Die Schutzgebiete sind kenntlich zu machen.
 
-#### Art. 204
+#### Art. 20
 
 **Wiederansiedlung**
 
-Die Wiederansiedlung lokal ausgestorbener Arten kann durch die Standeskommission bewilligt werden, falls sie von Fachleuten durchgeführt wird.
+<sup>1</sup> Die Wiederansiedlung lokal ausgestorbener Arten kann durch die Standeskommission bewilligt werden, falls sie von Fachleuten durchgeführt wird.
 
-#### Art. 215
+#### Art. 21
 
 **Geschützte Arten**
 
@@ -194,50 +201,63 @@ Die Wiederansiedlung lokal ausgestorbener Arten kann durch die Standeskommission
 
 <sup>3</sup> Die geschützten Arten sind in geeigneter Weise bekanntzumachen.
 
-#### Art. 221
+#### Art. 22
 
-Ausnahme- <sup>1</sup>Zu wissenschaftlichen, zu Schul- oder zu Heilzwecken kann das Sammeln und bewilligung Ausgraben geschützter Pflanzen bewilligt werden, wenn dadurch deren Fortbestand in der betreffenden Gegend nicht gefährdet wird.
+**Ausnahmebewilligung**
 
-<sup>2</sup> Zu wissenschaftlichen oder schulischen Zwecken kann das Fangen und vorübergehende Halten einzelner geschützter Tiere bewilligt werden, wenn dadurch deren
+<sup>1</sup> Zu wissenschaftlichen, zu Schul- oder zu Heilzwecken kann das Sammeln und Ausgraben geschützter Pflanzen bewilligt werden, wenn dadurch deren Fortbestand in der betreffenden Gegend nicht gefährdet wird.
 
-Fortbestand in der betreffenden Gegend nicht gefährdet wird.
+<sup>2</sup> Zu wissenschaftlichen oder schulischen Zwecken kann das Fangen und vorübergehende Halten einzelner geschützter Tiere bewilligt werden, wenn dadurch deren Fortbestand in der betreffenden Gegend nicht gefährdet wird.
 
 <sup>3</sup> Die Bewilligung begrenzt Gebiet, Zeit und Menge.
 
 <sup>4</sup> Bewilligungen sind mitzuführen und auf Verlangen zusammen mit dem Sammelgut den Aufsichtsorganen vorzuweisen.
 
-#### Art. 232
+#### Art. 23
+
+**…**
 
 #### Art. 24
 
-Pflücken von <sup>1</sup>Ausserhalb von Natur- und Artenschutzgebieten dürfen von ungeschützten Pflanungeschützten zen in vernünftigem Mass Sträusse gepflückt sowie Früchte oder Pflanzenteile zum Pflanzen Genuss oder zu Heilzwecken gesammelt werden.
+**Pflücken von ungeschützten Pflanzen**
+
+<sup>1</sup> Ausserhalb von Natur- und Artenschutzgebieten dürfen von ungeschützten Pflanzen in vernünftigem Mass Sträusse gepflückt sowie Früchte oder Pflanzenteile zum Genuss oder zu Heilzwecken gesammelt werden.
 
 <sup>2</sup> Das Pflücken von Beeren ist auch in Pflanzenschutzgebieten gestattet.
 
-#### Art. 253
+#### Art. 25
 
-Spezieller <sup>1</sup>Das Sammeln von Pilzen ist bis zu maximal 2 kg pro Person und Tag gestattet. Pilzschutz <sup>2</sup>Pilze sind schonend von Hand zu pflücken.
+**Spezieller Pilzschutz**
+
+<sup>1</sup> Das Sammeln von Pilzen ist bis zu maximal 2 kg pro Person und Tag gestattet.
+
+<sup>2</sup> Pilze sind schonend von Hand zu pflücken.
 
 #### Art. 26
 
-Schonzeiten für <sup>1</sup>Die Standeskommission kann für das ganze Kantonsgebiet Schonzeiten festlegen, Pilze in denen jedes Pflücken und Sammeln von Pilzen untersagt ist.
+**Schonzeiten für Pilze**
+
+<sup>1</sup> Die Standeskommission kann für das ganze Kantonsgebiet Schonzeiten festlegen, in denen jedes Pflücken und Sammeln von Pilzen untersagt ist.
 
 <sup>2</sup> Für wissenschaftliche Zwecke ist das Pflücken einzelner Exemplare auch in Schonzeiten gestattet.
 
-#### Art. 271
+#### Art. 27
 
-#### Art. 282
+**…**
 
-### VII. Objektschutz
+#### Art. 28
+
+**…**
+
+## VII. Objektschutz
 
 #### Art. 29
 
 **Schutzziele und Begriffe**
 
-Schützenswerte Objekte sind insbesondere:
+<sup>1</sup> Schützenswerte Objekte sind insbesondere:
 
 - a) Naturobjekte mit besonderem Schönheits- oder Seltenheitswert wie Einzelbäume, Baumgruppen, Hecken, Feldgehölze, Waldränder, Quellen, Wasserfälle, Höhlen, geologische Aufschlüsse und Formationen, erratische Blöcke, Fundstellen von Mineralien, Weiher;
-
 - b) Kulturobjekte wie Gebäude, Stätten und Einrichtungen, soweit sie von besonderem historischen, kunstgeschichtlichen, architektonischen oder handwerklichen Wert sind.
 
 #### Art. 30
@@ -248,7 +268,7 @@ Schützenswerte Objekte sind insbesondere:
 
 <sup>2</sup> Die im Schutzregister aufgeführten Einzelobjekte sind im Zonen- oder im Ortsbildschutzplan zu bezeichnen.
 
-#### Art. 313
+#### Art. 31
 
 **Rechtswirkung im Allgemeinen**
 
@@ -262,29 +282,37 @@ Schützenswerte Objekte sind insbesondere:
 
 #### Art. 32
 
-bei Naturobjek- Alle Massnahmen, die an registrierten Naturobjekten oder an ihrer unmittelbaren ten Umgebung tatsächliche Veränderungen bewirken oder diese in ihrer Eigenart oder Wirkung beeinträchtigen, sind bewilligungspflichtig, insbesondere das Entfernen von geschützten Einzelbäumen, Baumgruppen, Hecken, Ufer- und anderen Gehölzen sowie des Waldmantels.
+**bei Naturobjekten**
 
-#### Art. 331
+<sup>1</sup> Alle Massnahmen, die an registrierten Naturobjekten oder an ihrer unmittelbaren Umgebung tatsächliche Veränderungen bewirken oder diese in ihrer Eigenart oder Wirkung beeinträchtigen, sind bewilligungspflichtig, insbesondere das Entfernen von geschützten Einzelbäumen, Baumgruppen, Hecken, Ufer- und anderen Gehölzen sowie des Waldmantels.
 
-bei Kulturobjek- An Kulturobjekten sind innere und äussere bauliche Änderungen, umfassende oder ten teilweise Renovationen (inklusive neue Fenster oder Farbgebung) sowie Zweckänderungen jeder Art bewilligungspflichtig.
+#### Art. 33
 
-### VIII. Zuständigkeit und Verfahren
+**bei Kulturobjekten**
 
-#### Art. 342
+<sup>1</sup> An Kulturobjekten sind innere und äussere bauliche Änderungen, umfassende oder teilweise Renovationen (inklusive neue Fenster oder Farbgebung) sowie Zweckänderungen jeder Art bewilligungspflichtig.
 
-Schutzzonen und <sup>1</sup>Natur-, Landschafts- und Ortsbildschutzzonen sowie Objektschutzregister werden -register im Nutzungsplanverfahren erlassen.
+## VIII. Zuständigkeit und Verfahren
+
+#### Art. 34
+
+**Schutzzonen und -register**
+
+<sup>1</sup> Natur-, Landschafts- und Ortsbildschutzzonen sowie Objektschutzregister werden im Nutzungsplanverfahren erlassen.
 
 <sup>2</sup> Schutzzonen und -register bedürfen zu ihrer Rechtskraft der Genehmigung durch die Standeskommission.
 
-#### Art. 353
+#### Art. 35
 
-Vereinbarungen <sup>1</sup>Vereinbarungen über den Natur- und Landschaftsschutz mit Grundeigentümern oder Bewirtschaftern werden nach den Vorgaben der Fachstelle für Natur- und Landschaftsschutz vom Bezirksrat am Ort der gelegenen Sache abgeschlossen.
+**Vereinbarungen**
+
+<sup>1</sup> Vereinbarungen über den Natur- und Landschaftsschutz mit Grundeigentümern oder Bewirtschaftern werden nach den Vorgaben der Fachstelle für Natur- und Landschaftsschutz vom Bezirksrat am Ort der gelegenen Sache abgeschlossen.
 
 <sup>2</sup> Die Standeskommission kann bei den Schnittperioden und der Beweidung Abweichungen von den vereinbarten Zeiten oder einen Verzicht auf einen Schnitt oder eine Beweidung vorsehen. Die zuständigen Bezirke sind vor der Erteilung der Bewilligung anzuhören.
 
 <sup>3</sup> Der Bezirksrat kontrolliert die Einhaltung der Vereinbarungen.
 
-#### Art. 361
+#### Art. 36
 
 **Baubewilligungen**
 
@@ -294,13 +322,13 @@ Vereinbarungen <sup>1</sup>Vereinbarungen über den Natur- und Landschaftsschutz
 
 <sup>3</sup> Bei Bauvorhaben in Landschafts- und Ortsbildschutzzonen sowie an Kulturobjekten können die Baubewilligungsbehörden das Anbringen von Bemusterungen verfügen, die in Struktur und Farbe verbindlich sind.
 
-#### Art. 372
+#### Art. 37
 
 **Fachkommission Heimatschutz**
 
-Die Zuständigkeit und die Aufgaben der Fachkommission Heimatschutz richten sich nach der Baugesetzgebung.
+<sup>1</sup> Die Zuständigkeit und die Aufgaben der Fachkommission Heimatschutz richten sich nach der Baugesetzgebung.
 
-#### Art. 383
+#### Art. 38
 
 **Fachkommission Denkmalpflege**
 
@@ -308,7 +336,7 @@ Die Zuständigkeit und die Aufgaben der Fachkommission Heimatschutz richten sich
 
 <sup>2</sup> Die Kommission ist dem Erziehungsdepartement angegliedert.
 
-#### Art. 394
+#### Art. 39
 
 **Fachstellen**
 
@@ -316,27 +344,31 @@ Die Zuständigkeit und die Aufgaben der Fachkommission Heimatschutz richten sich
 
 <sup>2</sup> Soweit nicht andere Stellen zuständig sind, vollzieht die Fachstelle für Natur- und Landschaftsschutz die Vorschriften dieses Erlasses über den Natur- und Landschaftsschutz.
 
-Art. 39a5
+#### Art. 39a
 
 **Freiwillige Naturschutzaufseher**
 
-Die Standeskommission kann im Einvernehmen mit den Bezirken freiwillige Naturschutzaufseher einsetzen.
+<sup>1</sup> Die Standeskommission kann im Einvernehmen mit den Bezirken freiwillige Naturschutzaufseher einsetzen.
 
-Art. 39b1 Aufsichtsorgane <sup>1</sup>Die Organe der Kantonspolizei, das kantonale Forstpersonal, der Jagd- und Fi- und polizeiliche schereiverwalter, der Leiter der Fachstelle für Natur- und Landschaftsschutz sowie Befugnisse die freiwilligen Naturschutzaufseher zeigen Übertretungen der Vorschriften über den Natur-, Ufer- und Artenschutz an.
+#### Art. 39b
+
+**Aufsichtsorgane und polizeiliche Befugnisse**
+
+<sup>1</sup> Die Organe der Kantonspolizei, das kantonale Forstpersonal, der Jagd- und Fischereiverwalter, der Leiter der Fachstelle für Natur- und Landschaftsschutz sowie die freiwilligen Naturschutzaufseher zeigen Übertretungen der Vorschriften über den Natur-, Ufer- und Artenschutz an.
 
 <sup>2</sup> Sie können zu Kontrollzwecken eine Person anhalten, sich Ausweise und Ausnahmebewilligungen vorzeigen lassen sowie Fahrzeuge und Behältnisse wie Taschen und Rucksäcke durchsuchen.
 
-<sup>3</sup> Sie beschlagnahmen widerrechtlich gesammelte oder feilgebotene Pflanzen und
-
-Pilze sowie widerrechtlich gefangene oder feilgebotene Tiere.
+<sup>3</sup> Sie beschlagnahmen widerrechtlich gesammelte oder feilgebotene Pflanzen und Pilze sowie widerrechtlich gefangene oder feilgebotene Tiere.
 
 <sup>4</sup> Sie weisen sich bei solchen Handlungen als Aufsichtsorgan aus.
 
-### IX. Beiträge der öffentlichen Hand
+## IX. Beiträge der öffentlichen Hand
 
-#### Art. 402
+#### Art. 40
 
-Grundsatz <sup>1</sup>An die Pflege und den Unterhalt von Naturschutz- und Pufferzonen leistet der Kanton angemessene Beiträge.
+**Grundsatz**
+
+<sup>1</sup> An die Pflege und den Unterhalt von Naturschutz- und Pufferzonen leistet der Kanton angemessene Beiträge.
 
 <sup>2</sup> An die Renovation von registrierten Kulturobjekten leisten der Kanton und die Bezirke angemessene Beiträge.
 
@@ -344,35 +376,33 @@ Grundsatz <sup>1</sup>An die Pflege und den Unterhalt von Naturschutz- und Puffe
 
 <sup>4</sup> Der Kanton kann einen Fonds einrichten und unterhalten.
 
-#### Art. 413
+#### Art. 41
 
-Naturschutz- <sup>1</sup>Beiträge zur Abgeltung von Bewirtschaftungsauflagen und Pflegemassnahmen in beiträge Naturschutz- und Pufferzonen werden geleistet, wenn:
+**Naturschutzbeiträge**
+
+<sup>1</sup> Beiträge zur Abgeltung von Bewirtschaftungsauflagen und Pflegemassnahmen in Naturschutz- und Pufferzonen werden geleistet, wenn:
 
 - a) der Bewirtschafter oder Grundeigentümer Leistungen erbringt; für das reine Dulden einer Naturschutz- oder Pufferzone werden keine Beiträge geleistet;
-
 - b) eine Vereinbarung des Bezirks mit dem Bewirtschafter vorliegt; werden Flächen im Sömmerungsgebiet von mehreren Personen bewirtschaftet, schliesst der Bezirk eine Vereinbarung mit allen Bewirtschaftern gemeinsam ab, wobei die Gemeinschaft der Bewirtschafter entscheidet, wie sie die Beiträge unter sich aufteilt;
-
 - c) das Land- und Forstwirtschaftsdepartement bestätigt hat, dass ein vom Bewirtschafter zu entrichtender Pachtzins den amtlich berechneten Höchstpachtzins nicht übersteigt; das Schatzungsamt stellt dem Land- und Forstwirtschaftsdepartement für die Überprüfung das Protokoll der amtlichen Schätzung des Pachtobjekts zur Verfügung;
-
 - d) der Bezirk überprüft und festgestellt hat, dass der Bewirtschafter oder der Grundeigentümer die Vereinbarung erfüllt hat.
 
 <sup>2</sup> Die Standeskommission erlässt Vorschriften über:
 
 - a) die Beitragsansätze;
-
 - b) die Kürzungen bei Verletzungen einer Vereinbarung;
-
 - c) die Dauer, Kündigung und Verlängerung einer Vereinbarung.
 
 <sup>3</sup> Die Beitragsansätze entsprechen:
 
 - a) bei Flächenbeiträgen höchstens den Beitragsansätzen der eidgenössischen Direktzahlungsverordnung bei vergleichbaren Flächen;
-
 - b) bei der Abgeltung eines Zeitaufwandes höchstens dem Stundenansatz nach dem jeweiligen Tarif der Eidgenössischen Forschungsanstalt Agroscope Reckenholz Tänikon (ART-Tarif).
 
-Art. 41bis1
+#### Art. 41bis
 
-#### Art. 422
+**…**
+
+#### Art. 42
 
 **Beiträge an Kulturobjekte**
 
@@ -380,39 +410,43 @@ Art. 41bis1
 
 <sup>2</sup> Die Beitragsvoraussetzungen und das Verfahren richten sich nach den einschlägigen Bundesbestimmungen. Beitragsgesuche sind nach Vorliegen des Kostenvoranschlages, spätestens jedoch zum Zeitpunkt der Einreichung des Baugesuches den Bezirksbehörden einzureichen. Diese leiten sie mit einem Antrag versehen der Standeskommission weiter.
 
-#### Art. 433
+#### Art. 43
 
 **Beiträge an andere Massnahmen**
 
 <sup>1</sup> Beiträge im Sinne von Art. 40 Abs. 3 dieser Verordnung können insbesondere an folgende Massnahmen gesprochen werden:
 
 - a) besondere gestalterische, freiwillige oder aufgrund behördlicher Auflagen vorgenommene Aufwendungen bei Bauten, die nicht als Kulturobjekte registriert sind;
-
 - b) Schutz und Pflege von registrierten Naturobjekten.
 
-<sup>2</sup> Die Beiträge betragen a) bis zu 80 Prozent der Mehrkosten im Vergleich zur herkömmlichen Bauweise bei Beiträgen im Sinne von Abs. 1 dieses Artikels;
+<sup>2</sup> Die Beiträge betragen
 
+- a) bis zu 80 Prozent der Mehrkosten im Vergleich zur herkömmlichen Bauweise bei Beiträgen im Sinne von Abs. 1 dieses Artikels;
 - b) bis zu 20 Prozent der Gesamtkosten in den übrigen Fällen.
 
 <sup>3</sup> Bei der Beitragsbemessung ist die finanzielle Leistungsfähigkeit des Empfängers zu berücksichtigen. Der Kanton und der Bezirk der gelegenen Sache tragen die Beiträge je zur Hälfte.
 
 <sup>4</sup> Beitragsgesuche sind frühzeitig vor Inangriffnahme der Arbeiten, in Fällen, wo eine Baubewilligung erforderlich ist, spätestens mit der Einreichung des Baugesuches den Bezirksbehörden einzureichen. Diese leiten sie mit einem Antrag versehen der Standeskommission weiter.
 
-### X. Schluss- und Übergangsbestimmungen
+## X. Schluss- und Übergangsbestimmungen
 
-#### Art. 441
+#### Art. 44
 
-Ausnahmen Wenn ausserordentliche Verhältnisse vorliegen, und wenn weder öffentliche noch nachbarliche Interessen erheblich beeinträchtigt werden, kann die Standeskommission im Sinne von Art. 77 BauG Ausnahmen von den Bestimmungen dieser Verord-
+**Ausnahmen**
 
-nung oder sich darauf abstützender Verfügungen bewilligen.
+<sup>1</sup> Wenn ausserordentliche Verhältnisse vorliegen, und wenn weder öffentliche noch nachbarliche Interessen erheblich beeinträchtigt werden, können die Standeskommission oder das zuständige Departement im Sinne von Art. 77 BauG Ausnahmen von den Bestimmungen dieser Verordnung oder sich darauf abstützender Verfügungen bewilligen.
 
-#### Art. 452
+#### Art. 45
 
-Widerhandlun- <sup>1</sup>Widerhandlungen gegen diese Verordnung werden im Sinne von Art. 91 BauG mit gen und Busse bestraft.
+**Widerhandlungen und Rechtsmittel**
 
-Rechtsmittel <sup>2</sup>Der Bezirk veranlasst bei Beschädigung oder Zerstörung einer geschützten Sache deren Wiederherstellung, soweit dies noch möglich oder sinnvoll ist. Die Kosten trägt der Verursacher. Ist dieser unbekannt, übernimmt die öffentliche Hand die Wiederherstellungskosten.
+<sup>1</sup> Widerhandlungen gegen diese Verordnung werden im Sinne von Art. 91 BauG mit Busse bestraft.
 
-#### Art. 461
+<sup>2</sup> Der Bezirk veranlasst bei Beschädigung oder Zerstörung einer geschützten Sache deren Wiederherstellung, soweit dies noch möglich oder sinnvoll ist. Die Kosten trägt der Verursacher. Ist dieser unbekannt, übernimmt die öffentliche Hand die Wiederherstellungskosten.
+
+<sup>3</sup> …
+
+#### Art. 46
 
 **Übergangsbestimmungen**
 
@@ -424,80 +458,75 @@ Rechtsmittel <sup>2</sup>Der Bezirk veranlasst bei Beschädigung oder Zerstörun
 
 <sup>4</sup> Vereinbarungen zwischen Grundeigentümern und Bewirtschaftern und den Bezirken über den Schutz von Naturschutzzonen, die gestützt auf das vor dem Inkrafttreten des Grossratsbeschlusses über die Änderung der Verordnung über den Natur- und Heimatschutz vom 5. Dezember 2016 geltenden Recht abgeschlossen wurden, gelten längstens bis zum Inkrafttreten des Grossratsbeschlusses.
 
-#### Art. 472
+#### Art. 47
+
+**…**
 
 #### Art. 48
 
 **Inkrafttreten**
 
-Diese Verordnung tritt nach der Annahme durch den Grossen Rat in Kraft.
+<sup>1</sup> Diese Verordnung tritt nach der Annahme durch den Grossen Rat in Kraft.
 
-### Anhang1
+## A1. Anhang 1: Artenschutz (Art. 21 VNH)
 
-### Artenschutz (Art. 21 VNH)
+#### Art. A1-1
 
-- 1\. Tiere Wie die durch die Bundesgesetzgebung über den Natur- und Heimatschutz gesamtschweizerisch geschützten Tiere sind geschützt:
+**Tiere**
+
+<sup>1</sup> Wie die durch die Bundesgesetzgebung über den Natur- und Heimatschutz gesamtschweizerisch geschützten Tiere sind geschützt:
 
 - a) die in Anhang 4 der Bundesverordnung über den Natur- und Heimatschutz vom 16. Januar 1991 (NHV) aufgeführten Tiere;
-
 - b) die in Art. 20 der Verordnung zum Jagdgesetz vom 13. Juni 1989 (JaV) aufgeführten Tiere.
 
-- 2\. Pflanzen
+#### Art. A1-2
 
-- a) Vollständig geschützte Pflanzen Wie die durch die Bundesgesetzgebung über den Natur- und Heimatschutz gesamtschweizerisch geschützten Pflanzen sind geschützt:
+**Pflanzen**
 
-- aa) die in Anhang 4 der Bundesverordnung über den Natur- und Heimatschutz vom 16. Januar 1991 (NHV) aufgeführten Pflanzen;
+<sup>1</sup> Vollständig geschützte Pflanzen: Wie die durch die Bundesgesetzgebung über den Natur- und Heimatschutz gesamtschweizerisch geschützten Pflanzen sind geschützt:
 
-- bb) die folgenden Pflanzen:
+- a) die in Anhang 4 der Bundesverordnung über den Natur- und Heimatschutz vom 16. Januar 1991 (NHV) aufgeführten Pflanzen;
+- b) die folgenden Pflanzen:
+  - 1\. Akelei, gewöhnliche (Aquilegia vulgaris)
+  - 2\. Alpen-Anemone, Kuhschelle (Pulsatilla alpina)
+  - 3\. Alpen-Aster (Aster alpinus)
+  - 4\. Alpen-Leinkraut (Linaria alpina)
+  - 5\. Aurikel (Flühblümchen) (Primula auricula)
+  - 6\. Berg-Arnika (Arnica montana)
+  - 7\. Bitterklee, Fieberklee (Menyanthes trifoliata)
+  - 8\. Blutauge (Potentilla palustris)
+  - 9\. Edelweiss (Leontopodium alpinum)
+  - 10\. Enziane (Gentiana )
+  - 11\. Faltenlilie (Lloydia serotina)
+  - 12\. Fettblatt, alle Arten (Pinguicula)
+  - 13\. Fingerhut, grosser (gelber) (Digitalis grandiflora)
+  - 14\. Frühlingsanemone, Pelzanemone (Pulsatilla vernalis)
+  - 15\. Hauswurz, spinnwebige (Sempervivum arachnoideum)
+  - 16\. Leberbalsam (Erinus alpinus)
+  - 17\. Leimkraut, stengelloses (Silene acaulis)
+  - 18\. Maiglöcklein (Convallaria majalis)
+  - 19\. Moorenzian (Swertia perennis)
+  - 20\. Pyrenäen-Steinschmückel (Petrocallis pyrenaica)
+  - 21\. Schlüsselblume, ganzblättrige (Primula integrifolia)
+  - 22\. Schwalbenwurz-Enzian (Gentiana asclepiadea)
+  - 23\. Seidelbast (Daphne mezereum)
+  - 24\. Sterndolde, grosse (Astrantia major)
+  - 25\. Strauss-Glockenblume (Campanula thyrsoides)
+  - 26\. Sumpf-Herzblatt (Parnassia palustris)
+  - 27\. Wiesenraute, akeleiblättrige (Thalictrum aquilegifolium)
+  - 28\. Wintergrün, alle Arten (Pyrola)
+  - 29\. Zwergbirke (Betula nana)
 
-Akelei, gewöhnliche (Aquilegia vulgaris) Alpen-Anemone, Kuhschelle (Pulsatilla alpina) Alpen-Aster (Aster alpinus) Alpen-Leinkraut (Linaria alpina) Aurikel (Flühblümchen) (Primula auricula) Berg-Arnika (Arnica montana) Bitterklee, Fieberklee (Menyanthes trifoliata) Blutauge (Potentilla palustris) Edelweiss (Leontopodium alpinum) Enziane (Gentiana ) Faltenlilie (Lloydia serotina) Fettblatt, alle Arten (Pinguicula) Fingerhut, grosser (gelber) (Digitalis grandiflora) Frühlingsanemone, Pelzanemone (Pulsatilla vernalis) Hauswurz, spinnwebige (Sempervivum arachnoideum) Leberbalsam (Erinus alpinus) Leimkraut, stengelloses (Silene acaulis) Maiglöcklein (Convallaria majalis) Moorenzian (Swertia perennis) Pyrenäen-Steinschmückel (Petrocallis pyrenaica) Schlüsselblume, ganzblättrige (Primula integrifolia) Schwalbenwurz-Enzian (Gentiana asclepiadea) Seidelbast (Daphne mezereum) Sterndolde, grosse (Astrantia major) Strauss-Glockenblume (Campanula thyrsoides) Sumpf-Herzblatt (Parnassia palustris) Wiesenraute, akeleiblättrige (Thalictrum aquilegifolium) Wintergrün, alle Arten (Pyrola) Zwergbirke (Betula nana) b) Teilweise geschützte Pflanzen Bei folgenden Pflanzen ist das Pflücken von drei Blühtrieben, Fruchttrieben oder Zweigen gestattet; im Übrigen sind sie geschützt wie die durch die Bundesgesetzgebung über den Natur- und Heimatschutz gesamtschweizerisch geschützten Pflanzen:
+<sup>2</sup> Teilweise geschützte Pflanzen: Bei folgenden Pflanzen ist das Pflücken von drei Blühtrieben, Fruchttrieben oder Zweigen gestattet; im Übrigen sind sie geschützt wie die durch die Bundesgesetzgebung über den Natur- und Heimatschutz gesamtschweizerisch geschützten Pflanzen:
 
-Alpenglöckchen, Soldanelle (Soldanella) Alpenrose, beide Arten (Rhododendron) Eisenhut, blauer (Aconitum compactum) Eisenhut, gelber (Aconitum vulparia) Berg-Flockenblume (Centaurea montana) Mehlprimel, rosarote (Primula farinosa) Stechpalme (llex aquifolium) Trollblume, europ. (Trollius europaeus) Wollgras, scheidiges (Eriophorum vaginatum)
+- a) Alpenglöckchen, Soldanelle (Soldanella)
+- b) Alpenrose, beide Arten (Rhododendron)
+- c) Eisenhut, blauer (Aconitum compactum)
+- d) Eisenhut, gelber (Aconitum vulparia)
+- e) Berg-Flockenblume (Centaurea montana)
+- f) Mehlprimel, rosarote (Primula farinosa)
+- g) Stechpalme (llex aquifolium)
+- h) Trollblume, europ. (Trollius europaeus)
+- i) Wollgras, scheidiges (Eriophorum vaginatum)
 
-## Weitere Fussnoten
-
-- [1] Mit Revisionen vom 18. Juni 1990, 11. September 2000, 19. November 2001, 24. November 2003, 23. Oktober 2006, 5. Dezember 2011, 22. Oktober 2012, 23. Juni 2014, 1. Dezember 2014 und 5. Dezember 2016.
-- [2] Titel ergänzt und Ingress abgeändert durch GrRB vom 23. Oktober 2006. Ingress abgeändert durch Verordnung zum Baugesetz vom 22. Oktober 2012 (Inkrafttreten: 1. Januar 2013) und GrRB vom 1. Dezember 2014.
-- [3] Abgeändert (Abs. 2) durch GrRB vom 5. Dezember 2011 (Inkrafttreten: 1. Januar 2012). Abgeändert (Abs. 2) durch GrRB vom 5. Dezember 2016 (Inkrafttreten: 1. Januar 2017).
-- [1] Abgeändert (Abs. 1) durch GrRB vom 23. Juni 2014 (Inkrafttreten: 1. Januar 2014).
-- [2] Neue Fassung durch GrRB vom 23. Juni 2014 (Inkrafttreten: 1. Januar 2014).
-- [3] Abgeändert (Abs. 1) durch Verordnung zum Baugesetz vom 22. Oktober 2012 (Inkrafttreten: 1. Januar 2013). Abgeändert (Abs. 1) durch GrRB vom 23. Juni 2014 (Inkrafttreten: 1. Januar 2014).
-- [1] Neue Fassung durch GrRB vom 23. Juni 2014 (Inkrafttreten: 1. Januar 2014).
-- [2] Abgeändert (Abs. 3) durch GrRB vom 23. Oktober 2006. Abgeändert durch Verordnung zum Baugesetz vom 22. Oktober 2012 (Inkrafttreten: 1. Januar 2013). Neue Fassung durch GrRB vom 23. Juni 2014 (Inkrafttreten: 1. Januar 2014).
-- [3] Abgeändert (Abs. 2 lit. a und Abs. 1 lit. a) durch GrRB vom 23. Oktober 2006 und vom 5. Dezember 2011. Abgeändert (Abs. 2) und aufgehoben (Abs. 3) durch GrRB vom 5. Dezember 2016 (Inkrafttreten: 1. Januar 2017).
-- [4] Aufgehoben (Abs. 4) durch GrRB vom 18. Juni 1990. Abgeändert (Abs. 1 lit. a) durch GrRB vom 5. Dezember 2011 (Inkrafttreten: 1. Januar 2012). Abgeändert durch GrRB vom 5. Dezember 2016 (Inkrafttreten: 1. Januar 2017).
-- [1] Abgeändert durch GrRB vom 5. Dezember 2011 (Inkrafttreten: 1. Januar 2012). Abgeändert durch GrRB vom 5. Dezember 2016 (Inkrafttreten: 1. Januar 2017).
-- [2] Aufgehoben durch GrRB vom 5. Dezember 2016 (Inkrafttreten: 1. Januar 2017).
-- [3] Aufgehoben durch GrRB vom 5. Dezember 2016 (Inkrafttreten: 1. Januar 2017).
-- [4] Abgeändert durch GrRB vom 5. Dezember 2016 (Inkrafttreten: 1. Januar 2017).
-- [5] Abgeändert durch GrRB vom 5. Dezember 2016 (Inkrafttreten: 1. Januar 2017).
-- [1] Abgeändert (Abs. 1) durch GrRB vom 23. Oktober 2006. Abgeändert durch GrRB vom 5. Dezember 2016 (Inkrafttreten: 1. Januar 2017).
-- [2] Abgeändert durch GrRB vom 5. Dezember 2016 (Inkrafttreten: 1. Januar 2017).
-- [3] Aufgehoben durch GrRB vom 5. Dezember 2016 (Inkrafttreten: 1. Januar 2017).
-- [4] Abgeändert durch GrRB vom 23. Oktober 2006.
-- [5] Abgeändert (Abs. 1) durch GrRB vom 19. November 2001. Aufgehoben (Abs. 3) durch GrRB vom 23. Oktober 2006. Abgeändert durch GrRB vom 5. Dezember 2016 (Inkrafttreten: 1. Januar 2017).
-- [1] Abgeändert durch GrRB vom 5. Dezember 2016 (Inkrafttreten: 1. Januar 2017).
-- [2] Abgeändert (Abs. 2) durch GrRB vom 23. Oktober 2006. Aufgehoben durch GrRB vom 5. Dezember 2016 (Inkrafttreten: 1. Januar 2017).
-- [3] Abgeändert (Abs. 1) und aufgehoben (Abs. 2) durch GrRB vom 19. November 2001. Abgeändert durch GrRB vom 5. Dezember 2016 (Inkrafttreten: 1. Januar 2017).
-- [1] Abgeändert (Abs. 5) durch GrRB vom 23. Oktober 2006. Aufgehoben durch GrRB vom 5. Dezember 2016 (Inkrafttreten: 1. Januar 2017).
-- [2] Aufgehoben durch GrRB vom 5. Dezember 2016 (Inkrafttreten: 1. Januar 2017).
-- [3] Neue Fassung durch Archäologieverordnung vom 22. Oktober 2012 (Inkrafttreten: 1. Januar 2013).
-- [1] Abgeändert durch Archäologieverordnung vom 22. Oktober 2012 (Inkrafttreten: 1. Januar 2013).
-- [2] Abgeändert (Abs. 1) durch GrRB vom 23. Oktober 2006 und Verordnung zum Baugesetz vom 22. Oktober 2012 (Inkrafttreten: 1. Januar 2013). Abgeändert durch GrRB vom 5. Dezember 2016 (Inkrafttreten: 1. Januar 2017).
-- [3] Abgeändert durch GrRB vom 5. Dezember 2011 (Inkrafttreten: 1. Januar 2012). Abgeändert durch GrRB vom 5. Dezember 2016 (Inkrafttreten: 1. Januar 2017).
-- [1] Abgeändert (Abs. 1 und 2) durch GrRB vom 23. Oktober 2006. Abgeändert (Abs. 1) durch Verordnung zum Baugesetz vom 22. Oktober 2012 (Inkrafttreten: 1. Januar 2013).
-- [2] Aufgehoben durch GrRB vom 24. November 2003. Eingefügt durch GrRB vom 23. Juni 2014 (Inkrafttreten: 1. Januar 2014).
-- [3] Neue Fassung durch GrRB vom 23. Juni 2014 (Inkrafttreten: 1. Januar 2014).
-- [4] Abgeändert durch GrRB vom 11. September 2000. Neue Fassung durch GrRB vom 23. Juni 2014 (Inkrafttreten: 1. Januar 2014). Abgeändert durch GrRB vom 5. Dezember 2016 (Inkrafttreten: 1. Januar 2017).
-- [5] Eingefügt durch GrRB vom 5. Dezember 2016 (Inkrafttreten: 1. Januar 2017).
-- [1] Eingefügt durch GrRB vom 5. Dezember 2016 (Inkrafttreten: 1. Januar 2017).
-- [2] Abgeändert durch GrRB vom 5. Dezember 2011 (Inkrafttreten: 1. Januar 2012). Angefügt (Abs. 4) durch GrRB vom 23. Juni 2014 (Inkrafttreten: 1. Januar 2014).
-- [3] Ergänzt und abgeändert durch GrRB vom 18. Juni 1990 (Abs. 3 und 4). Ergänzt (Abs. 1 lit. b) und abgeändert (Abs. 4) durch GrRB vom 11. September 2000. Abgeändert durch GrRB vom 23. Oktober 2006. Abgeändert durch GrRB vom 5. Dezember 2011 (Inkrafttreten: 1. Januar 2012). Neue Fassung durch GrRB vom 23. Juni 2014 (Inkrafttreten: 1. Januar 2014). Abgeändert durch GrRB vom 5. Dezember 2016 (Inkrafttreten: 1. Januar 2017).
-- [1] Eingefügt durch GrRB vom 11. September 2000. Abgeändert durch GrRB vom 23. Oktober 2006. Aufgehoben durch GrRB vom 5. Dezember 2016 (Inkrafttreten: 1. Januar 2017).
-- [2] Abgeändert (Abs. 1) durch GrRB vom 23. Oktober 2006.
-- [3] Abgeändert (Abs. 1) durch GrRB vom 5. Dezember 2011.
-- [1] Abgeändert durch GrRB vom 23. Oktober 2006 und Verordnung zum Baugesetz vom 22. Oktober 2012 (Inkrafttreten: 1. Januar 2013).
-- [2] Abgeändert (Abs. 1 und 3) durch GrRB vom 23. Oktober 2006. Abgeändert (Abs. 1) und aufgehoben (Abs. 3) durch Verordnung zum Baugesetz vom 22. Oktober 2012 (Inkrafttreten: 1. Januar 2013).
-- [1] Abgeändert (Abs. 2) durch GrRB vom 23. Oktober 2006 und Verordnung zum Baugesetz vom 22. Oktober 2012 (Inkrafttreten: 1. Januar 2013). Eingefügt (Abs. 4) durch GrRB vom 5. Dezember 2016 (Inkrafttreten: 1. Januar 2017).
-- [2] Aufgehoben durch GrRB vom 23. Oktober 2006.
-- [1] Abgeändert durch GrRB vom 5. Dezember 2016 (Inkrafttreten 1. Januar 2017).
+cGS -
