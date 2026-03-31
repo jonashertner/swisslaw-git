@@ -3,20 +3,19 @@ canton: SO
 number: "614.159.11"
 title: "Steuerverordnung Nr. 11: Zahlungserleichterungen, Erlass und Abschreibungen"
 language: de
-version: 2024-01-01
-valid_until: 2026-03-31
-version_adopted: 2023-05-08
+version: 2026-04-01
+version_adopted: 2026-02-24
 adopted: 1986-05-13
 in_force: 1986-01-01
 url: "https://bgs.so.ch/app/de/texts_of_law/614.159.11"
-pdf: "https://bgs.so.ch/api/de/versions/5386/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5638/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Steuerverordnung Nr. 11: Zahlungserleichterungen, Erlass und Abschreibungen
 
-Vom 13.05.1986 (Stand 01.01.2024)
+Vom 13.05.1986 (Stand 01.04.2026)
 
 Der Regierungsrat des Kantons Solothurn
 
@@ -70,7 +69,7 @@ beschliesst:
 
 <sup>1<sup>bis</sup></sup> Im Rahmen des Einheitsbezugs gewährt das Finanzdepartement Erlass von rechtskräftigen Gemeindesteuern und der Feuerwehrersatzabgabe.
 
-<sup>2</sup> Die Veranlagungsbehörden für natürliche Personen entscheiden mit Zustimmung der Einwohnergemeinde im Veranlagungsverfahren über den vollständigen Erlass der direkten Staatssteuer mit Verbindlichkeit für die Gemeindesteuern (§§ 14<sup>bis</sup> und 14<sup>ter</sup>).
+<sup>2</sup> Das Kantonale Steueramt entscheidet mit Zustimmung der Einwohnergemeinde im Veranlagungsverfahren über den vollständigen Erlass der direkten Staatssteuer mit Verbindlichkeit für die Gemeindesteuern (§§ 14<sup>bis</sup> und 14<sup>ter</sup>).
 
 #### § 6
 
