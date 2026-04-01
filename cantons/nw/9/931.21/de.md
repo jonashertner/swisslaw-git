@@ -5,11 +5,12 @@ title: Verordnung zum Bundesgesetz über Sprengstoffe
 short: "Kantonale Sprengstoffverordnung, kSprstV"
 language: de
 version: 2026-04-01
+corrected: 2026-04-02
 version_adopted: 2026-02-24
 adopted: 2026-02-24
 in_force: 2026-04-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/931.21"
-pdf: "https://gesetze.nw.ch/api/de/versions/1491/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/1473/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,16 +20,6 @@ pdf: "https://gesetze.nw.ch/api/de/versions/1491/pdf_file"
 (Kantonale Sprengstoffverordnung, kSprstV)
 
 vom 24.02.2026 (Stand 01.04.2026)
-
-Der Regierungsrat von Nidwalden,
-
-gestützt auf Art. 64 Abs. 1 Ziff. 1 und 2 der Kantonsverfassung, in Ausführung von Art. 42 Abs. 2 und 3 des Bundesgesetzes vom 25. März 1977 über Sprengstoffe (Sprengstoffgesetz, SprstG)[^ingress-1], der Sprengstoffverordnung vom 27. November 2000 (SprstV)[^ingress-2] und Art. 64a des Gesetzes vom 11. Juni 2014 über das Polizeiwesen (Polizeigesetz, PolG)[^ingress-3],
-
-beschliesst:
-
-[^ingress-1]: SR 941.41
-[^ingress-2]: SR 941.411
-[^ingress-3]: NG 911.1
 
 #### § 1
 
