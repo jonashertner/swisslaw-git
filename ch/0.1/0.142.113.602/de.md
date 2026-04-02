@@ -3,11 +3,11 @@ sr: "0.142.113.602"
 title: Abkommen vom 13. September 2013 zwischen der Schweiz und Georgien über die Erleichterung der Visaerteilung
 eli: "https://fedlex.data.admin.ch/eli/cc/2014/73"
 language: de
-version: 2014-01-01
+version: 2026-04-03
 adopted: 2013-09-13
 in_force: 2014-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/73/20140101/de/xml/fedlex-data-admin-ch-eli-cc-2014-73-20140101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2014/73/20140101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/73/20260403/de/xml/fedlex-data-admin-ch-eli-cc-2014-73-20260403-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2014/73/20260403/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -20,7 +20,7 @@ Originaltext
 
 Abgeschlossen am 13. September 2013 In Kraft getreten durch Notenaustausch am 1. Januar 2014
 
-(Stand am 1. Januar 2014)
+(Stand am 3. April 2026)
 
 Die Schweiz, und Georgien
 
@@ -38,13 +38,13 @@ in der Erkenntnis, dass Visaerleichterungen nicht zu illegaler Migration führen
 
 unter Berücksichtigung des Abkommens zwischen der Europäischen Union, der Europäischen Gemeinschaft und der Schweizerischen Eidgenossenschaft über die Assoziierung der Schweizerischen Eidgenossenschaft bei der Umsetzung, Anwendung und Entwicklung des Schengen-Besitzstands, unterzeichnet am 26. Oktober 2004[^ingress-1],
 
-unter Berücksichtigung des Abkommens zwischen Georgien und der Europäischen Union über die Erleichterung der Visaerteilung, das am 17. Juni 2010 unterzeichnet
+unter Berücksichtigung des Abkommens zwischen Georgien und der Europäischen Union über die Erleichterung der Visaerteilung, das am 17. Juni 2010 unterzeichnet,
 
 und am 1. März 2011 in Kraft getreten ist, sowie der gemeinsamen Erklärung zu der Schweiz, Island, Liechtenstein und Norwegen im Anhang zu diesem Abkommen,
 
 sind wie folgt übereingekommen:
 
-[^ingress-1]: [SR 0.362.31](https://fedlex.data.admin.ch/eli/cc/2008/113)
+[^ingress-1]: [SR 0.362.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1513)
 
 #### Art. 1
 
@@ -89,7 +89,7 @@ Für folgende Kategorien von Staatsangehörigen Georgiens genügen die nachstehe
 
   - – eine schriftliche Einladung der Gastgeberin bzw. des Gastgebers;
 
-- (b)
+- (b)[^4-1]
 
   für Mitglieder offizieller Delegationen, die aufgrund einer an Georgien gerichteten offiziellen Einladung an Treffen, Beratungen, Verhandlungen oder Austauschprogrammen sowie an Veranstaltungen, die von zwischenstaatlichen Organisationen im Hoheitsgebiet der Schweiz durchgeführt werden, teilnehmen:
 
@@ -176,6 +176,8 @@ Die in Absatz 1 des vorliegenden Artikels genannten schriftlichen Einladungen m�
 
 <sup>3.</sup> Den in Absatz 1 des vorliegenden Artikels genannten Kategorien von Personen werden alle Arten von Visa nach dem vereinfachten Verfahren ausgestellt, ohne dass in der nationalen Gesetzgebung der Schweiz vorgesehene weitere Begründungen, Einladungen oder Bestätigungen zum Reisezweck erforderlich sind.
 
+[^4-1]: Suspendiert durch diplomatische Note des BR vom 1. April 2026, in Kraft seit 3. April 2026 um 12.00 Uhr ([AS 2026 140](https://fedlex.data.admin.ch/eli/oc/2026/140)).
+
 #### Art. 5
 
 **Ausstellung von Mehrfachvisa**
@@ -185,14 +187,14 @@ Die in Absatz 1 des vorliegenden Artikels genannten schriftlichen Einladungen m�
 Die diplomatischen Missionen und die konsularischen Vertretungen der Schweiz stellen den folgenden Kategorien von Staatsangehörigen Georgiens Mehrfachvisa mit einer Gültigkeitsdauer von bis zu fünf Jahren aus:
 
 - (a) Ehepartnern, Kindern (auch Adoptivkindern) unter 21 Jahren oder mit Unterhaltsanspruch und Eltern, die Staatsangehörige Georgiens besuchen, die sich rechtmässig im Hoheitsgebiet der Schweizerischen Eidgenossenschaft aufhalten, mit einer Gültigkeit, die auf die Gültigkeitsdauer der Aufenthaltsbewilligung dieser Staatsangehörigen begrenzt ist;
-- (b) Mitgliedern von nationalen und regionalen Regierungen, von Verfassungsgerichten und obersten Gerichten zur Ausübung ihrer Amtsaufgaben und mit einer auf ihre Amtszeit begrenzten Gültigkeit, wenn die Amtszeit weniger als fünf Jahre dauert;
-- (c) ständigen Mitgliedern offizieller Delegationen, die aufgrund von an Georgien gerichteten offiziellen Einladungen regelmässig an Treffen, Beratungen, Verhandlungen oder Austauschprogrammen sowie an Veranstaltungen, die von zwischenstaatlichen Organisationen im Hoheitsgebiet der Schweiz durchgeführt werden, teilnehmen.
+- (b)[^5-1] Mitgliedern von nationalen und regionalen Regierungen, von Verfassungsgerichten und obersten Gerichten zur Ausübung ihrer Amtsaufgaben und mit einer auf ihre Amtszeit begrenzten Gültigkeit, wenn die Amtszeit weniger als fünf Jahre dauert;
+- (c)[^5-2] ständigen Mitgliedern offizieller Delegationen, die aufgrund von an Georgien gerichteten offiziellen Einladungen regelmässig an Treffen, Beratungen, Verhandlungen oder Austauschprogrammen sowie an Veranstaltungen, die von zwischenstaatlichen Organisationen im Hoheitsgebiet der Schweiz durchgeführt werden, teilnehmen.
 
 <sup>2.</sup>
 
 Die diplomatischen Missionen und die konsularischen Vertretungen der Schweiz stellen den folgenden Kategorien von Staatsangehörigen Georgiens Mehrfachvisa mit einer Gültigkeitsdauer von bis zu einem Jahr aus, wenn diese im vorangehenden Jahr mindestens ein Visum erhalten und dieses gemäss den in der Schweiz oder in einem der Schengen-Mitgliedstaaten geltenden nationalen Einreise- und Aufenthaltsbestimmungen verwendet haben und wenn Gründe für die Beantragung eines Mehrfachvisums vorliegen:
 
-- (a) Mitgliedern offizieller Delegationen, die aufgrund von offiziellen Einladungen regelmässig an Treffen, Beratungen, Verhandlungen oder Austauschprogrammen sowie an Veranstaltungen, die von zwischenstaatlichen Organisationen im Hoheitsgebiet der Schweiz durchgeführt werden, teilnehmen;
+- (a)[^5-3] Mitgliedern offizieller Delegationen, die aufgrund von offiziellen Einladungen regelmässig an Treffen, Beratungen, Verhandlungen oder Austauschprogrammen sowie an Veranstaltungen, die von zwischenstaatlichen Organisationen im Hoheitsgebiet der Schweiz durchgeführt werden, teilnehmen;
 - (b) Vertretern zivilgesellschaftlicher Organisationen, die regelmässig zu Kursen, Seminaren oder Konferenzen in die Schweiz reisen, auch im Rahmen von Austauschprogrammen;
 - (c) Angehörigen der freien Berufe, die an internationalen Ausstellungen, Konferenzen, Symposien, Seminaren oder ähnlichen Veranstaltungen teilnehmen und regelmässig in die Schweiz reisen;
 - (d) Personen, die an wissenschaftlichen, kulturellen und künstlerischen Aktivitäten, inklusive Hochschul- und anderen Austauschprogrammen, teilnehmen und regelmässig in die Schweiz reisen;
@@ -207,6 +209,10 @@ Die diplomatischen Missionen und die konsularischen Vertretungen der Schweiz ste
 <sup>3.</sup> Die diplomatischen Missionen und die konsularischen Vertretungen der Schweiz stellen den in Absatz 2 des vorliegenden Artikels genannten Kategorien von Staatsangehörigen Georgiens Mehrfachvisa mit einer Gültigkeitsdauer von mindestens zwei und höchstens fünf Jahren aus, wenn diese Personen in den zwei vorangegangenen Jahren die ein Jahr gültigen Mehrfachvisa gemäss den in der Schweiz oder in einem der Schengen-Mitgliedstaaten geltenden nationalen Einreise- und Aufenthaltsbestimmungen verwendet haben und die Gründe für die Beantragung eines Mehrfachvisums immer noch vorliegen.
 
 <sup>4.</sup> Die Gesamtdauer des Aufenthalts der in den Absätzen 1−3 des vorliegenden Artikels genannten Personen im Hoheitsgebiet der Schweiz oder eines anderen Schengen-Mitgliedstaates darf pro Zeitraum von 180 Tagen 90 Tage nicht übersteigen.
+
+[^5-1]: Suspendiert durch diplomatische Note des BR vom 1. April 2026, in Kraft seit 3. April 2026 um 12.00 Uhr ([AS 2026 140](https://fedlex.data.admin.ch/eli/oc/2026/140)).
+[^5-2]: Suspendiert durch diplomatische Note des BR vom 1. April 2026, in Kraft seit 3. April 2026 um 12.00 Uhr ([AS 2026 140](https://fedlex.data.admin.ch/eli/oc/2026/140)).
+[^5-3]: Suspendiert durch diplomatische Note des BR vom 1. April 2026, in Kraft seit 3. April 2026 um 12.00 Uhr ([AS 2026 140](https://fedlex.data.admin.ch/eli/oc/2026/140)).
 
 #### Art. 6
 
@@ -263,11 +269,13 @@ Die Gültigkeitsdauer eines einem Staatsangehörigen Georgiens erteilten Visums 
 
 #### Art. 10
 
-**Diplomatenpässe**
+**Diplomatenpässe**[^10-1]
 
 <sup>1.</sup> Staatsangehörige Georgiens, die im Besitz eines gültigen Diplomatenpasses sind, können ohne Visum in das Hoheitsgebiet der Schweiz einreisen, aus diesem ausreisen und durch dieses durchreisen.
 
 <sup>2.</sup> Die Gesamtdauer des Aufenthalts der in Absatz 1 des vorliegenden Artikels genannten Personen im Hoheitsgebiet der Schweiz oder eines anderen Schengen-Mitgliedstaates darf pro Zeitraum von 180 Tagen 90 Tage nicht übersteigen.
+
+[^10-1]: Suspendiert durch diplomatische Note des BR vom 1. April 2026, in Kraft seit 3. April 2026 um 12.00 Uhr ([AS 2026 140](https://fedlex.data.admin.ch/eli/oc/2026/140)).
 
 #### Art. 11
 
@@ -310,6 +318,5 @@ Dieses Abkommen hat ab seinem Inkrafttreten Vorrang vor den Bestimmungen bilater
 Geschehen zu Neuenburg am 13. September 2013 in je zwei Urschriften in deutscher, georgischer und englischer Sprache, wobei alle Texte gleichermassen authentisch sind. Für die Auslegung dieses Abkommens wird der englische Text verwendet.
 
 <table>
-<tr><td>Für die Schweiz:</td><td>Für Georgien:</td></tr>
-<tr><td>Didier Burkhalter</td><td>Maïa Panjikidze</td></tr>
+<tr><td>Für die Schweiz: Didier Burkhalter</td><td>Für Georgien: Maïa Panjikidze</td></tr>
 </table>

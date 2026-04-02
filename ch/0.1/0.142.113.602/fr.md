@@ -3,11 +3,11 @@ sr: "0.142.113.602"
 title: Accord du 13 septembre 2013 entre la Suisse et la Géorgie visant à faciliter la délivrance des visas
 eli: "https://fedlex.data.admin.ch/eli/cc/2014/73"
 language: fr
-version: 2014-01-01
+version: 2026-04-03
 adopted: 2013-09-13
 in_force: 2014-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/73/20140101/fr/xml/fedlex-data-admin-ch-eli-cc-2014-73-20140101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2014/73/20140101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/73/20260403/fr/xml/fedlex-data-admin-ch-eli-cc-2014-73-20260403-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2014/73/20260403/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,37 +16,35 @@ url: "https://www.fedlex.admin.ch/eli/cc/2014/73/20140101/fr"
 
 RO **2014** 439
 
-Traduction*[^t-1]*
+Traduction
 
 Conclu le 13 septembre 2013
 
 Entré en vigueur par échange de notes le 1<sup>er</sup> janvier 2014
 
-(Etat le 1<sup>er</sup> janvier 2014)
-
-[^t-1]: Le texte original allemand est publié, sous le même chiffre, dans l’édition allemande du présent recueil.
+(État le 3 avril 2026)
 
 La Suisse, et la Géorgie,
 
 ci-après désignés «Parties»,
 
-désireuses de promouvoir les contacts entre leurs peuples comme condition importante d’un développement constant de leurs liens économiques, humanitaires, culturels, scientifiques et autres, en facilitant la délivrance de visas aux citoyens de la Géorgie;
+désireuses de promouvoir les contacts entre leurs peuples comme condition importante d’un développement constant de leurs liens économiques, humanitaires, culturels, scientifiques et autres, en facilitant la délivrance de visas aux citoyens de la Géorgie,
 
-réaffirmant leur intention d’instaurer un régime de déplacement sans obligation de visa pour leurs citoyens comme perspective à long terme, pourvu que toutes les conditions d’une mobilité bien gérée et sûre soient respectées;
+réaffirmant leur intention d’instaurer un régime de déplacement sans obligation de visa pour leurs citoyens comme perspective à long terme, pourvu que toutes les conditions d’une mobilité bien gérée et sûre soient respectées,
 
-rappelant que, depuis le 1<sup>er</sup> juin 2006, les citoyens de Suisse sont dispensés de l’obligation de visa pour leurs voyages en Géorgie d’une durée n’excédant pas 90 jours ou pour leur transit par le territoire de la Géorgie;
+rappelant que, depuis le 1<sup>er</sup> juin 2006, les citoyens de Suisse sont dispensés de l’obligation de visa pour leurs voyages en Géorgie d’une durée n’excédant pas 90 jours ou pour leur transit par le territoire de la Géorgie,
 
-reconnaissant que si la Géorgie réintroduisait l’obligation de visa pour les citoyens de Suisse ou certaines catégories de ces citoyens, les mesures visant à faciliter la délivrance de visas prévues dans le présent Accord en faveur des citoyens de Géorgie s’appliqueraient automatiquement, sur la base de la réciprocité, aux citoyens de Suisse concernés;
+reconnaissant que si la Géorgie réintroduisait l’obligation de visa pour les citoyens de Suisse ou certaines catégories de ces citoyens, les mesures visant à faciliter la délivrance de visas prévues dans le présent Accord en faveur des citoyens de Géorgie s’appliqueraient automatiquement, sur la base de la réciprocité, aux citoyens de Suisse concernés,
 
-reconnaissant que cette facilitation ne devrait pas favoriser la migration illégale, et prêtant une attention particulière aux questions de sécurité et de réadmission;
+reconnaissant que cette facilitation ne devrait pas favoriser la migration illégale, et prêtant une attention particulière aux questions de sécurité et de réadmission,
 
-vu l’Accord du 26 octobre 2004 entre la Confédération suisse, l’Union européenne et la Communauté européenne sur l’association de la Confédération suisse à la mise en œuvre, à l’application et au développement de l’acquis de Schengen[^ingress-1];
+vu l’Accord du 26 octobre 2004 entre la Confédération suisse, l’Union européenne et la Communauté européenne sur l’association de la Confédération suisse à la mise en œuvre, à l’application et au développement de l’acquis de Schengen[^ingress-1],
 
-vu l’accord du 17 juin 2010 entre l’Union européenne et la Géorgie visant à faciliter la délivrance de visas, entré en vigueur le 1<sup>er</sup> mars 2011, et la déclaration commune concernant la Suisse, l’Islande, le Liechtenstein et la Norvège, jointe à ce dernier;
+vu l’accord du 17 juin 2010 entre l’Union européenne et la Géorgie visant à faciliter la délivrance de visas, entré en vigueur le 1<sup>er</sup> mars 2011, et la déclaration commune concernant la Suisse, l’Islande, le Liechtenstein et la Norvège, jointe à ce dernier,
 
 sont convenus des dispositions suivantes:
 
-[^ingress-1]: [RS 0.362.31](https://fedlex.data.admin.ch/eli/cc/2008/113)
+[^ingress-1]: [RS 0.362.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1513)
 
 #### Art. 1
 
@@ -72,10 +70,10 @@ Aux fins du présent Accord, on entend par:
 
 - (a) «citoyen de Suisse»: toute personne ayant la nationalité suisse conformément à la législation nationale de la Suisse;
 - (b) «citoyen de Géorgie»: toute personne ayant la nationalité géorgienne conformément à la législation nationale de la Géorgie;
-- (c) «visa»: une autorisation délivrée par la Suisse, en vue du transit ou du séjour prévu sur le territoire de la Suisse ou d’un ou de plusieurs Etats membres de Schengen, pour une durée totale n’excédant pas 90 jours sur une période de 180 jours à compter de la date de la première entrée sur le territoire de la Suisse ou d’un autre Etat membre de Schengen;
+- (c) «visa»: une autorisation délivrée par la Suisse, en vue du transit ou du séjour prévu sur le territoire de la Suisse ou d’un ou de plusieurs États membres de Schengen, pour une durée totale n’excédant pas 90 jours sur une période de 180 jours à compter de la date de la première entrée sur le territoire de la Suisse ou d’un autre État membre de Schengen;
 - (d) «personne en séjour régulier»: citoyen de Géorgie autorisé ou habilité, en vertu du droit national, à séjourner plus de 90 jours sur le territoire de la Suisse;
-- (e) «Etat membre de Schengen»: tout Etat qui applique l’acquis de Schengen dans son intégralité au sens de l’accord du 26 octobre 2004 entre l’Union européenne, la Communauté européenne et la Confédération suisse sur l’association de la Confédération suisse à la mise en œuvre, à l’application et au développement de l’acquis de Schengen;
-- (f) «espace Schengen»: l’espace des Etats membres de Schengen.
+- (e) «État membre de Schengen»: tout État qui applique l’acquis de Schengen dans son intégralité au sens de l’accord du 26 octobre 2004 entre l’Union européenne, la Communauté européenne et la Confédération suisse sur l’association de la Confédération suisse à la mise en œuvre, à l’application et au développement de l’acquis de Schengen;
+- (f) «espace Schengen»: l’espace des États membres de Schengen.
 
 #### Art. 4
 
@@ -91,7 +89,7 @@ Pour les catégories suivantes de citoyens de Géorgie, les documents énuméré
 
   - – une invitation écrite émanant de la personne hôte;
 
-- (b)
+- (b)[^4-1]
 
   pour les membres de délégations officielles qui, à la suite d’une invitation officielle adressée à la Géorgie, participent à des réunions, consultations, négociations ou programmes d’échanges ainsi qu’à des événements ayant lieu sur le territoire de la Suisse à l’initiative d’organisations intergouvernementales:
 
@@ -178,6 +176,8 @@ L’invitation ou la demande écrite visée au par. 1 du présent article doit c
 
 <sup>3.</sup> Pour les catégories de personnes visées au par. 1 du présent article, toutes les catégories de visas sont délivrées selon la procédure simplifiée, sans qu’il y ait lieu de produire une autre justification, invitation ou validation concernant l’objet du voyage, tel que requis par la législation nationale de la Suisse.
 
+[^4-1]: Suspendue par la note diplomatique du CF du 1<sup>er</sup> avr. 2026, en vigueur depuis le 3 avr. 2026 à 12 heures ([RO 2026 140](https://fedlex.data.admin.ch/eli/oc/2026/140)).
+
 #### Art. 5
 
 **Délivrance de visas à entrées multiples**
@@ -187,14 +187,14 @@ L’invitation ou la demande écrite visée au par. 1 du présent article doit c
 Les missions diplomatiques et les postes consulaires suisses délivrent des visas à entrées multiples, d’une durée de validité pouvant aller jusqu’à cinq ans, aux catégories suivantes de citoyens de Géorgie:
 
 - (a) les conjoints, les enfants (y compris adoptifs) de moins de 21 ans ou à charge et les parents qui rendent visite à des citoyens de Géorgie en séjour régulier sur le territoire de la Suisse, pour une durée de validité limitée à celle de l’autorisation de séjour de ces citoyens;
-- (b) les membres des gouvernements nationaux et régionaux ainsi que les membres des cours constitutionnelle et suprême dans l’exercice de leurs fonctions et pour une durée de validité limitée à leur mandat, si celui-ci est inférieur à cinq ans;
-- (c) les membres permanents de délégations officielles qui, à la suite d’une invitation officielle adressée à la Géorgie, participent régulièrement à des réunions, consultations, négociations ou programmes d’échanges ainsi qu’à des événements ayant lieu sur le territoire de la Suisse à l’initiative d’organisations intergouvernementales;
+- (b)[^5-1] les membres des gouvernements nationaux et régionaux ainsi que les membres des cours constitutionnelle et suprême dans l’exercice de leurs fonctions et pour une durée de validité limitée à leur mandat, si celui-ci est inférieur à cinq ans;
+- (c)[^5-2] les membres permanents de délégations officielles qui, à la suite d’une invitation officielle adressée à la Géorgie, participent régulièrement à des réunions, consultations, négociations ou programmes d’échanges ainsi qu’à des événements ayant lieu sur le territoire de la Suisse à l’initiative d’organisations intergouvernementales;
 
 <sup>2.</sup>
 
-Les missions diplomatiques et les services consulaires suisses délivrent des visas à entrées multiples, d’une durée de validité pouvant aller jusqu’à un an, aux catégories suivantes de citoyens de Géorgie, sous réserve que, durant l’année précédant la demande, ces personnes aient obtenu au moins un visa, qu’elles l’aient utilisé dans le respect de la législation régissant l’entrée et le séjour sur le territoire de la Suisse ou de tout autre Etat membre de Schengen et qu’elles aient des raisons de solliciter un visa à entrées multiples:
+Les missions diplomatiques et les services consulaires suisses délivrent des visas à entrées multiples, d’une durée de validité pouvant aller jusqu’à un an, aux catégories suivantes de citoyens de Géorgie, sous réserve que, durant l’année précédant la demande, ces personnes aient obtenu au moins un visa, qu’elles l’aient utilisé dans le respect de la législation régissant l’entrée et le séjour sur le territoire de la Suisse ou de tout autre État membre de Schengen et qu’elles aient des raisons de solliciter un visa à entrées multiples:
 
-- (a) les membres de délégations officielles qui, à la suite d’une invitation officielle, participent régulièrement à des réunions, consultations, négociations ou programmes d’échange ainsi qu’à des événements ayant lieu sur le territoire de la Suisse à l’initiative d’organisations intergouvernementales;
+- (a)[^5-3] les membres de délégations officielles qui, à la suite d’une invitation officielle, participent régulièrement à des réunions, consultations, négociations ou programmes d’échange ainsi qu’à des événements ayant lieu sur le territoire de la Suisse à l’initiative d’organisations intergouvernementales;
 - (b) les représentants d’organisations de la société civile qui se rendent régulièrement en Suisse dans un but éducatif ou pour participer à des séminaires ou à des conférences, y compris dans le cadre de programmes d’échanges;
 - (c) les membres de professions libérales participant à des salons, conférences, symposiums ou séminaires internationaux ou à d’autres événements analogues, qui se rendent régulièrement en Suisse;
 - (d) les personnes participant à des activités scientifiques, culturelles et artistiques, y compris des programmes d’échanges universitaires ou autres, qui se rendent régulièrement en Suisse;
@@ -206,9 +206,13 @@ Les missions diplomatiques et les services consulaires suisses délivrent des vi
 - (j) les participants à des manifestations sportives internationales et les personnes qui les accompagnent à titre professionnel;
 - (k) les conducteurs fournissant des services de transport international de marchandises et de passagers vers le territoire de la Suisse dans des véhicules immatriculés en Géorgie.
 
-<sup>3.</sup> Les missions diplomatiques et les services consulaires suisses délivrent des visas à entrées multiples, d’une durée de validité de deux ans au minimum et de cinq ans au maximum, aux catégories de citoyens de Géorgie visés au par. 2 du présent article, sous réserve que, durant les deux années précédant la demande, ces personnes aient utilisé leur visa à entrées multiples d’une durée d’un an dans le respect de la législation régissant l’entrée et le séjour sur le territoire de la Suisse ou d’un autre Etat membre de Schengen et que leurs raisons de solliciter un visa à entrées multiples soient toujours valables.
+<sup>3.</sup> Les missions diplomatiques et les services consulaires suisses délivrent des visas à entrées multiples, d’une durée de validité de deux ans au minimum et de cinq ans au maximum, aux catégories de citoyens de Géorgie visés au par. 2 du présent article, sous réserve que, durant les deux années précédant la demande, ces personnes aient utilisé leur visa à entrées multiples d’une durée d’un an dans le respect de la législation régissant l’entrée et le séjour sur le territoire de la Suisse ou d’un autre État membre de Schengen et que leurs raisons de solliciter un visa à entrées multiples soient toujours valables.
 
-<sup>4.</sup> La durée totale du séjour des personnes visées aux par. 1 à 3 du présent article sur le territoire de la Suisse ou d’un autre Etat membre de Schengen ne peut excéder 90 jours par période de 180 jours.
+<sup>4.</sup> La durée totale du séjour des personnes visées aux par. 1 à 3 du présent article sur le territoire de la Suisse ou d’un autre État membre de Schengen ne peut excéder 90 jours par période de 180 jours.
+
+[^5-1]: Suspendue par la note diplomatique du CF du 1<sup>er</sup> avr. 2026, en vigueur depuis le 3 avr. 2026 à 12 heures ([RO 2026 140](https://fedlex.data.admin.ch/eli/oc/2026/140)).
+[^5-2]: Suspendue par la note diplomatique du CF du 1<sup>er</sup> avr. 2026, en vigueur depuis le 3 avr. 2026 à 12 heures ([RO 2026 140](https://fedlex.data.admin.ch/eli/oc/2026/140)).
+[^5-3]: Suspendue par la note diplomatique du CF du 1<sup>er</sup> avr. 2026, en vigueur depuis le 3 avr. 2026 à 12 heures ([RO 2026 140](https://fedlex.data.admin.ch/eli/oc/2026/140)).
 
 #### Art. 6
 
@@ -265,15 +269,17 @@ La durée de validité et/ou la durée de séjour prévue dans un visa délivré
 
 #### Art. 10
 
-**Passeports diplomatiques**
+**Passeports diplomatiques**[^10-1]
 
 <sup>1.</sup> Les citoyens de Géorgie titulaires d’un passeport diplomatique en cours de validité peuvent entrer sur le territoire suisse, le quitter et le traverser sans visa.
 
-<sup>2.</sup> Les personnes visées au par. 1 du présent article peuvent séjourner sur le territoire de la Suisse ou d’un autre Etat membre de Schengen pendant une durée n’excédant pas 90 jours, par période de 180 jours.
+<sup>2.</sup> Les personnes visées au par. 1 du présent article peuvent séjourner sur le territoire de la Suisse ou d’un autre État membre de Schengen pendant une durée n’excédant pas 90 jours, par période de 180 jours.
+
+[^10-1]: Suspendu par la note diplomatique du CF du 1<sup>er</sup> avr. 2026, en vigueur depuis le 3 avr. 2026 à 12 heures ([RO 2026 140](https://fedlex.data.admin.ch/eli/oc/2026/140)).
 
 #### Art. 11
 
-**Echange de modèles de documents**
+**Échange de modèles de documents**
 
 Les Parties s’échangent les modèles de leurs passeports ainsi que toute autre information pertinente au sujet de leur usage au plus tard 30 jours après la date de signature du présent accord. Elles s’informent mutuellement de tout changement concernant la forme de ces passeports et se transmettent les modèles des nouveaux passeports avant leur mise en circulation.
 
@@ -287,13 +293,13 @@ Des représentants des Parties se rencontrent à la demande de l’une des Parti
 
 **Protection des données personnelles**
 
-Dans la mesure où des données personnelles sont nécessaires à l’application du présent Accord, elles sont traitées et protégées conformément à la législation nationale en matière de protection des données de la Suisse et de la Géorgie et dans le respect des dispositions des accords internationaux auxquels ces Etats sont Parties.
+Dans la mesure où des données personnelles sont nécessaires à l’application du présent Accord, elles sont traitées et protégées conformément à la législation nationale en matière de protection des données de la Suisse et de la Géorgie et dans le respect des dispositions des accords internationaux auxquels ces États sont Parties.
 
 #### Art. 14
 
 **Relation entre le présent Accord et les accords bilatéraux conclus entre la Suisse et la Géorgie**
 
-A dater de son entrée en vigueur, le présent Accord prime les dispositions de toute convention ou de tout accord bilatéral(e) ou multilatéral(e) conclu(e) entre la Suisse et la Géorgie, dans la mesure où ces dispositions traitent de questions régies par le présent Accord.
+À dater de son entrée en vigueur, le présent Accord prime les dispositions de toute convention ou de tout accord bilatéral(e) ou multilatéral(e) conclu(e) entre la Suisse et la Géorgie, dans la mesure où ces dispositions traitent de questions régies par le présent Accord.
 
 #### Art. 15
 
@@ -312,6 +318,5 @@ A dater de son entrée en vigueur, le présent Accord prime les dispositions de 
 Fait à Neuchâtel le 13 septembre 2013, en double exemplaire, en langues allemande, géorgienne et anglaise, chacun de ces textes faisant également foi. En cas de divergences d’interprétation, le texte anglais est utilisé.
 
 <table>
-<tr><td>Pour la Suisse:</td><td>Pour la Géorgie:</td></tr>
-<tr><td>Didier Burkhalter</td><td>Maïa Panjikidze</td></tr>
+<tr><td>Pour la Suisse: Didier Burkhalter</td><td>Pour la Géorgie: Maïa Panjikidze</td></tr>
 </table>

@@ -3,11 +3,11 @@ sr: "0.142.113.602"
 title: Accordo del 13 settembre 2013 tra la Svizzera e la Georgia di facilitazione del rilascio dei visti
 eli: "https://fedlex.data.admin.ch/eli/cc/2014/73"
 language: it
-version: 2014-01-01
+version: 2026-04-03
 adopted: 2013-09-13
 in_force: 2014-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/73/20140101/it/xml/fedlex-data-admin-ch-eli-cc-2014-73-20140101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2014/73/20140101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/73/20260403/it/xml/fedlex-data-admin-ch-eli-cc-2014-73-20260403-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2014/73/20260403/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,15 +16,13 @@ url: "https://www.fedlex.admin.ch/eli/cc/2014/73/20140101/it"
 
 RU **2014** 439
 
-Traduzione*[^t-1]*
+Traduzione
 
 Concluso il 13 settembre 2013
 
 Entrato in vigore mediante scambio di note il 1° gennaio 2014
 
-(Stato 1° gennaio 2014)
-
-[^t-1]: Il testo originale tedesco è pubblicato sotto lo stesso numero nell’ediz. ted. della presente Raccolta.
+(Stato 3 aprile 2026)
 
 La Svizzera e la Georgia,
 
@@ -46,7 +44,7 @@ tenendo conto dell’Accordo del 17 giugno 2010 tra l’Unione europea e la Geor
 
 hanno convenuto quanto segue:
 
-[^ingress-1]: [RS 0.362.31](https://fedlex.data.admin.ch/eli/cc/2008/113)
+[^ingress-1]: [RS 0.362.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1513)
 
 #### Art. 1
 
@@ -91,7 +89,7 @@ Per le seguenti categorie di cittadini georgiani, i documenti di seguito indicat
 
   - – una richiesta scritta della persona ospitante;
 
-- (b)
+- (b)[^4-1]
 
   membri di delegazioni ufficiali che, su invito ufficiale alla Georgia, partecipano a riunioni, consultazioni, negoziati o programmi di scambio, o a eventi organizzati nel territorio della Svizzera da organizzazioni intergovernative:
 
@@ -178,6 +176,8 @@ La richiesta scritta di cui al paragrafo 1 di questo articolo deve indicare:
 
 <sup>3.</sup> Per le categorie di persone di cui al paragrafo 1 di questo articolo, tutti i tipi di visto sono rilasciati secondo la procedura semplificata, senza che siano necessari altri inviti, convalide o giustificazioni della finalità del viaggio previsti dalla legislazione nazionale della Svizzera.
 
+[^4-1]: Sospesa dalla nota diplomatica del CF del 1° apr. 2026, in vigore dal 3 apr. 2026 alle ore 12.00 ([RU 2026 140](https://fedlex.data.admin.ch/eli/oc/2026/140)).
+
 #### Art. 5
 
 **Rilascio di visti per più entrate**
@@ -187,14 +187,14 @@ La richiesta scritta di cui al paragrafo 1 di questo articolo deve indicare:
 Le missioni diplomatiche e le rappresentanze consolari della Svizzera rilasciano visti per più entrate validi fino a cinque anni alle seguenti categorie di cittadini georgiani:
 
 - (a) coniugi, figli (anche adottivi) di età inferiore a 21 anni o a carico e genitori in visita a cittadini della Georgia regolarmente soggiornanti nel territorio della Svizzera, con validità limitata alla validità dell’autorizzazione di soggiorno regolare di tali cittadini;
-- (b) membri dei Governi nazionali e regionali, delle Corti costituzionali e delle Corti supreme nell’esercizio delle loro funzioni, con validità limitata alla durata dell’incarico, se inferiore a cinque anni;
-- (c) membri permanenti di delegazioni ufficiali che, su invito ufficiale rivolto alla Georgia, devono partecipare periodicamente a riunioni, consultazioni, negoziati o programmi di scambio ovvero a eventi organizzati nel territorio della Svizzera da organizzazioni intergovernative.
+- (b)[^5-1] membri dei Governi nazionali e regionali, delle Corti costituzionali e delle Corti supreme nell’esercizio delle loro funzioni, con validità limitata alla durata dell’incarico, se inferiore a cinque anni;
+- (c)[^5-2] membri permanenti di delegazioni ufficiali che, su invito ufficiale rivolto alla Georgia, devono partecipare periodicamente a riunioni, consultazioni, negoziati o programmi di scambio ovvero a eventi organizzati nel territorio della Svizzera da organizzazioni intergovernative.
 
 <sup>2.</sup>
 
 Le missioni diplomatiche e le rappresentanze consolari della Svizzera rilasciano visti per più entrate validi fino a un anno alle seguenti categorie di cittadini georgiani, a condizione che nell’anno precedente tali persone abbiano ottenuto almeno un visto e l’abbiano usato conformemente alle disposizioni nazionali in materia d’entrata e di soggiorno vigenti in Svizzera o in un altro Stato Schengen, e che sussistano motivi per richiedere un visto per più entrate:
 
-- (a) membri di delegazioni ufficiali che, su invito ufficiale, partecipano periodicamente a riunioni, consultazioni, negoziati o programmi di scambio ovvero a eventi organizzati nel territorio della Svizzera da organizzazioni intergovernative;
+- (a)[^5-3] membri di delegazioni ufficiali che, su invito ufficiale, partecipano periodicamente a riunioni, consultazioni, negoziati o programmi di scambio ovvero a eventi organizzati nel territorio della Svizzera da organizzazioni intergovernative;
 - (b) rappresentanti di organizzazioni della società civile che si recano periodicamente in Svizzera per partecipare a corsi, seminari, conferenze, anche nel quadro di programmi di scambio;
 - (c) liberi professionisti partecipanti a fiere, conferenze, convegni, seminari internazionali o altri eventi analoghi, che si recano periodicamente in Svizzera;
 - (d) persone partecipanti ad attività scientifiche, culturali e artistiche, inclusi i programmi di scambio universitario o di altro tipo, le quali si recano regolarmente in Svizzera;
@@ -209,6 +209,10 @@ Le missioni diplomatiche e le rappresentanze consolari della Svizzera rilasciano
 <sup>3.</sup> Le missioni diplomatiche e le rappresentanze consolari della Svizzera rilasciano visti per più entrate validi da un minimo di due a un massimo di cinque anni alle categorie di cittadini georgiani di cui al paragrafo 2 del presente articolo, a condizione che nei due anni precedenti tali persone abbiano utilizzato un visto annuale per più entrate conformemente alle disposizioni nazionali in materia d’entrata e di soggiorno vigenti in Svizzera o in un altro Stato Schengen, e che i motivi per richiedere un visto per più entrate siano ancora validi.
 
 <sup>4.</sup> La durata totale del soggiorno nel territorio della Svizzera o di un altro Stato Schengen delle persone di cui ai paragrafi 1–3 del presente articolo non può essere superiore a 90 giorni su un periodo di 180 giorni.
+
+[^5-1]: Sospesa dalla nota diplomatica del CF del 1° apr. 2026, in vigore dal 3 apr. 2026 alle ore 12.00 ([RU 2026 140](https://fedlex.data.admin.ch/eli/oc/2026/140)).
+[^5-2]: Sospesa dalla nota diplomatica del CF del 1° apr. 2026, in vigore dal 3 apr. 2026 alle ore 12.00 ([RU 2026 140](https://fedlex.data.admin.ch/eli/oc/2026/140)).
+[^5-3]: Sospesa dalla nota diplomatica del CF del 1° apr. 2026, in vigore dal 3 apr. 2026 alle ore 12.00 ([RU 2026 140](https://fedlex.data.admin.ch/eli/oc/2026/140)).
 
 #### Art. 6
 
@@ -265,11 +269,13 @@ Il periodo di validità e/o la durata del soggiorno previsti da un visto rilasci
 
 #### Art. 10
 
-**Passaporti diplomatici**
+**Passaporti diplomatici**[^10-1]
 
 <sup>1.</sup> I cittadini della Georgia titolari di un passaporto diplomatico valido possono entrare nel territorio della Svizzera, uscirne e transitarvi senza visto.
 
 <sup>2.</sup> Le persone di cui al paragrafo 1 di questo articolo possono soggiornare nei territori della Svizzera o di un altro Stato Schengen per un massimo di 90 giorni su periodi di 180 giorni.
+
+[^10-1]: Sospeso dalla nota diplomatica del CF del 1° apr. 2026, in vigore dal 3 apr. 2026 alle ore 12.00 ([RU 2026 140](https://fedlex.data.admin.ch/eli/oc/2026/140)).
 
 #### Art. 11
 
@@ -312,6 +318,5 @@ Sin dall’entrata in vigore del presente Accordo, le disposizioni ivi contenute
 Fatto a Neuchâtel il 13 settembre 2013 in duplice esemplare in lingua tedesca, georgiana e inglese, ciascun testo facente ugualmente fede. Per l’interpretazione del presente Accordo è utilizzato il testo inglese.
 
 <table>
-<tr><td>Per la Svizzera:</td><td>Per la Georgia:</td></tr>
-<tr><td>Didier Burkhalter</td><td>Maïa Panjikidze</td></tr>
+<tr><td>Per la Svizzera: Didier Burkhalter</td><td>Per la Georgia: Maïa Panjikidze</td></tr>
 </table>
