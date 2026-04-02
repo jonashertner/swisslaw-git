@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Révision de l’ordonnance sur l’assurance-accidents (OLAA)
 document: Projet mis en consultation
 language: fr

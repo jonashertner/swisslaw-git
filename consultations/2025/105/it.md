@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Ordinanza sull’assicurazione contro gli infortuni (OAINF)
 document: Progetto posto in consultazione
 language: it

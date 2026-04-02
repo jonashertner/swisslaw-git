@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Revision der Verordnung über die Unfallversicherung (UVV)
 document: Vernehmlassungsvorlage
 language: de
