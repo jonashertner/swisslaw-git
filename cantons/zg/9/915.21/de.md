@@ -4,13 +4,12 @@ number: "915.21"
 title: Vollziehungsverordnung zum Gesetz über Standortentwicklung
 short: Standortentwicklungsverordnung; SEVO
 language: de
-version: 2026-02-27
-valid_until: 2026-04-02
-version_adopted: 2026-02-24
+version: 2026-04-03
+version_adopted: 2026-03-31
 adopted: 2025-12-09
 in_force: 2026-01-01
 url: "https://bgs.zg.ch/app/de/texts_of_law/915.21"
-pdf: "https://bgs.zg.ch/api/de/versions/2988/pdf_file"
+pdf: "https://bgs.zg.ch/api/de/versions/2994/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://bgs.zg.ch/api/de/versions/2988/pdf_file"
 
 (Standortentwicklungsverordnung; SEVO)
 
-Vom 9. Dezember 2025 (Stand 27. Februar 2026)
+Vom 9. Dezember 2025 (Stand 3. April 2026)
 
 Der Regierungsrat des Kantons Zug,
 
@@ -45,11 +44,16 @@ beschliesst:
 
 **Förderungsberechtigte Unternehmen**
 
-<sup>1</sup> Förderberechtigt sind persönlich und wirtschaftlich zugehörige juristische Personen nach §§ 51 und 52 Steuergesetz[^2-1], sofern die Voraussetzungen der beantragten Förderinstrumente nach §§ 3 ff. erfüllt sind.
+<sup>1</sup> Förderberechtigt sind, sofern die Voraussetzungen der beantragten Förderinstrumente nach §§ 3 ff. erfüllt sind:
+
+- a) juristische Personen, die dem Kanton Zug nach § 51 und § 52 Steuergesetz[^2-1] persönlich oder wirtschaftlich zugehörig sind;
+- b) natürliche Personen, die eine selbstständige Erwerbstätigkeit nach § 17 Steuergesetz[^2-2] ausüben und dem Kanton Zug nach § 3 und § 4 Steuergesetz[^2-3] persönlich oder wirtschaftlich zugehörig sind.
 
 <sup>2</sup> Gesuche von Unternehmen in Liquidation oder mit substanziellen Zahlungsausständen können abgelehnt werden.
 
 [^2-1]: BGS [632.1](https://bgs.zg.ch/data/632.1/de)
+[^2-2]: BGS [632.1](https://bgs.zg.ch/data/632.1/de)
+[^2-3]: BGS [632.1](https://bgs.zg.ch/data/632.1/de)
 
 ## 2. Wirkungsorientierte Förderung der Nachhaltigkeit
 
@@ -169,7 +173,7 @@ beschliesst:
 
 <sup>4</sup> Zum Zeitpunkt der Einreichung des Fördergesuchs muss das gesuchstellende Unternehmen die Voraussetzung der Zugehörigkeit gemäss § 2 Abs. 1 erfüllen.
 
-<sup>5</sup> Den Gesuchen ist die ordentlich geprüfte Jahresrechnung inklusive dazugehörigem Bericht der Revisionsstelle beizulegen.
+<sup>5</sup> Den Gesuchen ist die ordentlich geprüfte Jahresrechnung inklusive dazugehörigem Bericht der Revisionsstelle beizulegen. Bei natürlichen Personen und Personengesellschaften tritt an die Stelle der ordentlich geprüften Jahresrechnung eine Abschlussprüfung gemäss Prüfungsstandard ISA-CH 700 durch einen bei der Eidgenössischen Revisionsaufsichtsbehörde (RAB) zugelassenen Revisionsexperten.
 
 <sup>6</sup> Entscheide können elektronisch über die elektronische Plattform oder schriftlich per Post zugestellt werden.
 
