@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Révision partielle de cinq ordonnances relevant du droit de la circulation routière aux fins de la mise en œuvre des motions 16.3066 et 17.3924 Nantermod et 16.3068 Derder en matière de transport professionnel de personnes.
 document: Projet mis en consultation
 language: fr

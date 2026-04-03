@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Teilrevision von fünf Verordnungen des Strassenverkehrsrechts zur Umsetzung der Motionen 16.3066 und 17.3924 Nantermod sowie 16.3068 Derder in Sachen berufsmässige Personentransporte
 document: Vernehmlassungsvorlage-5
 language: de

@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Revisione parziale di cinque ordinanze del diritto stradale in attuazione delle mozioni 16.3066 e 17.3924 Nantermod nonché 16.3068 Derder in riferimento ai trasporti professionali di persone
 document: Progetto posto in consultazione-5
 language: it
