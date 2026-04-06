@@ -4,11 +4,11 @@ title: "Ordonnance du DDPS du 25 mai 2012 sur les programmes et les projets d'en
 short: OPESp
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/462"
 language: fr
-version: 2026-01-01
+version: 2026-04-07
 adopted: 2012-05-25
 in_force: 2012-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/462/20260101/fr/xml/fedlex-data-admin-ch-eli-cc-2012-462-20260101-fr-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/462/20260101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/462/20260407/fr/xml/fedlex-data-admin-ch-eli-cc-2012-462-20260407-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/462/20260407/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/462/20260101/fr"
 
 (OPESp)
 
-du 25 mai 2012 (État le 1<sup>er</sup> janvier 2026)
+du 25 mai 2012 (État le 7 avril 2026)
 
 Le Département fédéral de la défense, de la protection de la population et des sports (DDPS),
 
@@ -1072,7 +1072,7 @@ Annexe 2[^t-3]
 
 ## Dispositions spécifiques pour l’engagement de moniteurs J+S selon la taille des groupes
 
-[^t-3]: Nouvelle teneur selon le ch. II de l’O du DDPS du 29 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 674](https://fedlex.data.admin.ch/eli/oc/2025/674)).
+[^t-3]: Nouvelle teneur selon le ch. II de l’O du DDPS du 29 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 674](https://fedlex.data.admin.ch/eli/oc/2025/674)). Mise à jour par l’erratum du 7 avr. 2026 ([RO 2026 141](https://fedlex.data.admin.ch/eli/oc/2026/141)).
 
 ### A. Dispositions pour les sports J+S
 
@@ -1082,7 +1082,7 @@ Annexe 2[^t-3]
 
 ### B. Dispositions particulières pour le groupe d’utilisateurs 5
 
-- 1\. Dans toutes les activités des sports visés à la lettre A, ch. 1 et 2, la taille des groupes ne doit pas dépasser 24 participants par moniteur. Pour les groupes de 25 participants ou plus, une personne habilitée à diriger doit être engagée en plus par tranche de douze participants supplémentaires.
+- 1\. Dans toutes les activités des sports visés à la lettre A, ch. 1 et 2, la taille des groupes ne doit pas dépasser 24 participants par moniteur. Pour les groupes de 25 participants ou plus, une personne habilitée à diriger doit être engagée en plus par tranche de vingt-quatre participants supplémentaires.
 - 2\. Toutes les activités des sports visés à la lettre A, ch. 3 ainsi que pour l’arbalète, la carabine, la natation, la natation artistique, la natation de sauvetage, le pistolet, le plongeon, le tir à l’arc, le triathlon et le waterpolo sont soumises aux dispositions particulières régissant les sports concernés.
 
 ### C. Dispositions particulières pour les entraînements de condition physique et les entraînements mentaux

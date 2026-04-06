@@ -4,11 +4,11 @@ title: Verordnung des VBS vom 25. Mai 2012 über Sportförderungsprogramme und -
 short: VSpoFöP
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/462"
 language: de
-version: 2026-01-01
+version: 2026-04-07
 adopted: 2012-05-25
 in_force: 2012-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/462/20260101/de/xml/fedlex-data-admin-ch-eli-cc-2012-462-20260101-de-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/462/20260101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/462/20260407/de/xml/fedlex-data-admin-ch-eli-cc-2012-462-20260407-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/462/20260407/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/462/20260101/de"
 
 (VSpoFöP)
 
-vom 25. Mai 2012 (Stand am 1. Januar 2026)
+vom 25. Mai 2012 (Stand am 7. April 2026)
 
 Das Eidgenössische Departement für Verteidigung, Bevölkerungsschutz und Sport (VBS),
 
@@ -1072,7 +1072,7 @@ Anhang 2[^t-3]
 
 ## Spezifische Bestimmungen für den Einsatz von J+S-Leiterinnen und -Leitern im Zusammenhang mit der Gruppengrösse
 
-[^t-3]: Fassung gemäss Ziff. II der V des VBS vom 29. Okt. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 674](https://fedlex.data.admin.ch/eli/oc/2025/674)).
+[^t-3]: Fassung gemäss Ziff. II der V des VBS vom 29. Okt. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 674](https://fedlex.data.admin.ch/eli/oc/2025/674)). Bereinigt gemäss Berichtigung vom 7. April 2026 ([AS 2026 141](https://fedlex.data.admin.ch/eli/oc/2026/141)).
 
 ### A. Bestimmungen für J+S-Sportarten
 
@@ -1082,7 +1082,7 @@ Anhang 2[^t-3]
 
 ### B. Spezielle Bestimmungen für die Nutzergruppe 5
 
-- 1\. In allen Aktivitäten von Sportarten nach Buchstabe A Ziffer 1 und 2 darf die Gruppengrösse von 24 Teilnehmerinnen und Teilnehmern pro Leiterin oder Leiter nicht überschritten werden. Ab 25 Teilnehmerinnen und Teilnehmern muss jeweils für 12 weitere Teilnehmerinnen und Teilnehmer eine zusätzliche zur Leitung berechtigte Person eingesetzt werden.
+- 1\. In allen Aktivitäten von Sportarten nach Buchstabe A Ziffer 1 und 2 darf die Gruppengrösse von 24 Teilnehmerinnen und Teilnehmern pro Leiterin oder Leiter nicht überschritten werden. Ab 25 Teilnehmerinnen und Teilnehmern muss jeweils für 24 weitere Teilnehmerinnen und Teilnehmer eine zusätzliche zur Leitung berechtigte Person eingesetzt werden.
 - 2\. In allen Aktivitäten von Sportarten nach Buchstabe A Ziffer 3 sowie für Armbrust, Artistic Swimming, Bogenschiessen, Gewehr, Pistole, Rettungsschwimmen, Schwimmen, Triathlon, Wasserball und Wasserspringen gelten die jeweiligen Bestimmungen der einzelnen Sportarten.
 
 ### C. Spezielle Bestimmungen für Konditions- und Mentaltrainings

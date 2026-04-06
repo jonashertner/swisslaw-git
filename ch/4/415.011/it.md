@@ -4,11 +4,11 @@ title: Ordinanza del DDPS del 25 maggio 2012 su programmi e progetti per la prom
 short: OPPSpo
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/462"
 language: it
-version: 2026-01-01
+version: 2026-04-07
 adopted: 2012-05-25
 in_force: 2012-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/462/20260101/it/xml/fedlex-data-admin-ch-eli-cc-2012-462-20260101-it-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/462/20260101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/462/20260407/it/xml/fedlex-data-admin-ch-eli-cc-2012-462-20260407-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/462/20260407/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/462/20260101/it"
 
 (OPPSpo)
 
-del 25 maggio 2012 (Stato 1° gennaio 2026)
+del 25 maggio 2012 (Stato 7 aprile 2026)
 
 Il Dipartimento federale della difesa, della protezione della popolazione e dello sport (DDPS),
 
@@ -988,7 +988,7 @@ L’ammontare dei contributi e l’ordine di priorità delle richieste di contri
 - d. uso previsto per manifestazioni di importanza nazionale;
 - e. investimenti complessivi generati a favore dello sport e ulteriori effetti della decisione.
 
-[^80-1]: Concezione degli impianti sportivi di importanza nazionale
+[^80-1]: Concezione degli impianti sportivi di importanza nazionale.
 
 #### Art. 81
 
@@ -1074,7 +1074,7 @@ Allegato 2[^t-3]
 
 ## Disposizioni specifiche concernenti l’impiego di monitori G+S in relazione con la dimensione dei gruppi
 
-[^t-3]: Nuovo testo giusta la cifra II dell’O del DDPS del 29 ott. 2025, in vigore dal 1° gen. 2026 ([RU 2025 674](https://fedlex.data.admin.ch/eli/oc/2025/674)).
+[^t-3]: Nuovo testo giusta la cifra II dell’O del DDPS del 29 ott. 2025, in vigore dal 1° gen. 2026 ([RU 2025 674](https://fedlex.data.admin.ch/eli/oc/2025/674)). Aggiornato dalla correzione del 7 apr. 2026 ([RU 2026 141](https://fedlex.data.admin.ch/eli/oc/2026/141)).
 
 ### A. Disposizioni per le discipline sportive G+S
 
@@ -1084,7 +1084,7 @@ Allegato 2[^t-3]
 
 ### B. Disposizioni speciali per il gruppo di utenti 5
 
-- 1\. In tutte le attività delle discipline sportive di cui alla lettera A numeri 1 e 2 i gruppi non possono essere formati da più di 24 partecipanti per monitore. A partire da 25 partecipanti, un’ulteriore persona autorizzata a dirigere l’attività è impiegata per ciascun gruppo supplementare di 12 partecipanti.
+- 1\. In tutte le attività delle discipline sportive di cui alla lettera A numeri 1 e 2 i gruppi non possono essere formati da più di 24 partecipanti per monitore. A partire da 25 partecipanti, un’ulteriore persona autorizzata a dirigere l’attività è impiegata per ciascun gruppo supplementare di 24 partecipanti.
 - 2\. In tutte le attività delle discipline sportive di cui alla lettera A numero 3 nonché per l’artistic swimming, la balestra, la carabina, la pallanuoto, la pistola, il nuoto, il nuoto di salvataggio, il tiro con l’arco, il triathlon e i tuffi si applicano le disposizioni di sicurezza delle singole discipline.
 
 ### C. Disposizioni particolari per l’allenamento della condizione fisica e mentale
@@ -1150,7 +1150,7 @@ Allegato 4[^t-5]
 
 Allegato 5[^t-6]
 
-art. 48)
+(art. 48)
 
 ## Contributi supplementari per le guide alpine con attestato professionale federale e riconoscimento G+S
 
