@@ -3,11 +3,11 @@ sr: "0.518.61"
 title: Vertrag vom 2. April 2013 über den Waffenhandel
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/93"
 language: de
-version: 2023-06-20
+version: 2026-04-08
 adopted: 2013-04-02
 in_force: 2015-01-30
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/93/20230620/de/xml/fedlex-data-admin-ch-eli-cc-2015-93-20230620-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/93/20230620/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/93/20260408/de/xml/fedlex-data-admin-ch-eli-cc-2015-93-20260408-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/93/20260408/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -20,7 +20,7 @@ AS **2015** 595; BBl **2014** 1541
 
 Abgeschlossen in New York am 2. April 2013 Von der Bundesversammlung genehmigt am 26. September 2014[^t-1] Schweizerische Ratifikationsurkunde hinterlegt am 30. Januar 2015 Vorläufige Anwendung von Artikel 6 und 7 durch die Schweiz ab dem 30. Januar 2015 In Kraft getreten für die Schweiz am 30. April 2015
 
-(Stand am 20. Juni 2023)
+(Stand am 8. April 2026)
 
 [^t-1]: [AS 2015 593](https://fedlex.data.admin.ch/eli/oc/2015/92)
 
@@ -77,13 +77,13 @@ Grundsätze:
 
 sind wie folgt übereingekommen:
 
-[^ingress-1]: [SR 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
+[^ingress-1]: [SR 0.120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/41)
 [^ingress-2]: Deutschland (D): Hilfsquellen
-[^ingress-3]: [SR 0.311.544](https://fedlex.data.admin.ch/eli/cc/2013/14)
-[^ingress-4]: [SR 0.311.54](https://fedlex.data.admin.ch/eli/cc/2006/862)
+[^ingress-3]: [SR 0.311.544](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1312)
+[^ingress-4]: [SR 0.311.54](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1308)
 [^ingress-5]: D: des Zusatzprotokolls gegen die unerlaubte Herstellung von Feuerwaffen, deren Teilen, Komponenten und Munition sowie gegen den unerlaubten Handel damit zum Übereinkommen der Vereinten Nationen gegen die grenzüberschreitende organisierte Kriminalität
 [^ingress-6]: D: des Internationalen Rechtsinstruments zur Ermöglichung der rechtzeitigen und zuverlässigen Identifikation und Rückverfolgung illegaler Kleinwaffen und leichter Waffen durch die Staaten
-[^ingress-7]: [SR 0.518.12](https://fedlex.data.admin.ch/eli/cc/1951/181_184_180);[0.518.23](https://fedlex.data.admin.ch/eli/cc/1951/207_209_205);[0.518.42](https://fedlex.data.admin.ch/eli/cc/1951/228_230_226);[0.518.51](https://fedlex.data.admin.ch/eli/cc/1951/300_302_297)
+[^ingress-7]: [SR 0.518.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1960);[0.518.23](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1964);[0.518.42](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1966);[0.518.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1967)
 
 #### Art. 1
 
@@ -421,7 +421,7 @@ Geschehen zu New York am 2. April 2013.
 
 (Es folgen die Unterschriften)
 
-Geltungsbereich am 20. Juni 2023[^t-2]
+Geltungsbereich am 8. April 2026[^t-2]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -451,11 +451,13 @@ Geltungsbereich am 20. Juni 2023[^t-2]
 <tr><td>Deutschland</td><td>2. April</td><td>2014</td><td>24. Dezember</td><td>2014</td></tr>
 <tr><td>Dominica</td><td>21. Mai</td><td>2015</td><td>19. August</td><td>2015</td></tr>
 <tr><td>Dominikanische Republik</td><td>7. August</td><td>2014</td><td>24. Dezember</td><td>2014</td></tr>
+<tr><td>Ecuador</td><td>25. Februar</td><td>2026 B</td><td>26. Mai</td><td>2026</td></tr>
 <tr><td>El Salvador</td><td>2. April</td><td>2014</td><td>24. Dezember</td><td>2014</td></tr>
 <tr><td>Estland</td><td>2. April</td><td>2014</td><td>24. Dezember</td><td>2014</td></tr>
 <tr><td>Finnland</td><td>2. April</td><td>2014</td><td>2. April</td><td>2014</td></tr>
 <tr><td>Frankreich</td><td>2. April</td><td>2014</td><td>24. Dezember</td><td>2014</td></tr>
 <tr><td>Gabun</td><td>21. September</td><td>2022</td><td>20. Dezember</td><td>2022</td></tr>
+<tr><td>Gambia</td><td>13. Juni</td><td>2024 B</td><td>11. September</td><td>2024</td></tr>
 <tr><td>Georgien</td><td>23. Mai</td><td>2016</td><td>21. August</td><td>2016</td></tr>
 <tr><td>Ghana</td><td>22. Dezember</td><td>2015</td><td>21. März</td><td>2016</td></tr>
 <tr><td>Grenada</td><td>21. Oktober</td><td>2013</td><td>24. Dezember</td><td>2014</td></tr>
@@ -474,6 +476,7 @@ Geltungsbereich am 20. Juni 2023[^t-2]
 <tr><td>Kanada</td><td>19. Juni</td><td>2019 B</td><td>17. September</td><td>2019</td></tr>
 <tr><td>Kap Verde</td><td>23. September</td><td>2016</td><td>22. Dezember</td><td>2016</td></tr>
 <tr><td>Kasachstan<sup>\*</sup></td><td>8. Dezember</td><td>2017 B</td><td>8. März</td><td>2018</td></tr>
+<tr><td>Kolumbien</td><td>15. Oktober</td><td>2024</td><td>13. Januar</td><td>2025</td></tr>
 <tr><td>Korea (Süd-)</td><td>28. November</td><td>2016</td><td>26. Februar</td><td>2017</td></tr>
 <tr><td>Kroatien</td><td>2. April</td><td>2014</td><td>24. Dezember</td><td>2014</td></tr>
 <tr><td>Lesotho</td><td>25. Januar</td><td>2016</td><td>24. April</td><td>2016</td></tr>
@@ -484,6 +487,7 @@ Geltungsbereich am 20. Juni 2023[^t-2]
 <tr><td>Litauen</td><td>18. Dezember</td><td>2014</td><td>24. Dezember</td><td>2014</td></tr>
 <tr><td>Luxemburg</td><td>3. Juni</td><td>2014</td><td>24. Dezember</td><td>2014</td></tr>
 <tr><td>Madagaskar</td><td>22. September</td><td>2016</td><td>21. Dezember</td><td>2016</td></tr>
+<tr><td>Malawi</td><td>11. Juli</td><td>2024</td><td>9. Oktober</td><td>2024</td></tr>
 <tr><td>Malediven</td><td>27. September</td><td>2019 B</td><td>26. Dezember</td><td>2019</td></tr>
 <tr><td>Mali</td><td>3. Dezember</td><td>2013</td><td>24. Dezember</td><td>2014</td></tr>
 <tr><td>Malta</td><td>2. April</td><td>2014</td><td>24. Dezember</td><td>2014</td></tr>
@@ -538,43 +542,45 @@ Geltungsbereich am 20. Juni 2023[^t-2]
 <tr><td>Tuvalu</td><td>4. September</td><td>2015</td><td>3. Dezember</td><td>2015</td></tr>
 <tr><td>Ungarn</td><td>2. April</td><td>2014</td><td>24. Dezember</td><td>2014</td></tr>
 <tr><td>Uruguay</td><td>25. September</td><td>2014</td><td>24. Dezember</td><td>2014</td></tr>
+<tr><td>Vanuatu</td><td>5. September</td><td>2025</td><td>4. Dezember</td><td>2025</td></tr>
 <tr><td>Vereinigtes Königreich</td><td>2. April</td><td>2014</td><td>24. Dezember</td><td>2014</td></tr>
 <tr><td>Zentralafrikanische Republik</td><td>7. Oktober</td><td>2015 B</td><td>5. Januar</td><td>2016</td></tr>
 <tr><td>Zypern</td><td>10. Mai</td><td>2016</td><td>18. August</td><td>2016</td></tr>
-<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht, mit Ausnahme jener der Schweiz. Die französischen und englischen Texte können auf der Internetseite der Vereinten Nationen: http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern bezogen werden. <sup>a</sup> Der Vertrag gilt nicht für die Färöer und Grönland. <sup>b</sup> Der Vertrag gilt nicht für Tokelau.</td></tr>
+<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht, mit Ausnahme jener der Schweiz. Die französischen und englischen Texte können auf der Internetseite der Vereinten Nationen: [http://treaties.un.org](http://treaties.un.org/) eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern bezogen werden. <sup>a</sup> Der Vertrag gilt nicht für die Färöer und Grönland. <sup>b</sup> Der Vertrag gilt nicht für Tokelau.</td></tr>
 </table>
 
-[^t-2]: [AS 2015 595](https://fedlex.data.admin.ch/eli/oc/2015/93), [1291](https://fedlex.data.admin.ch/eli/oc/2015/266), [2733](https://fedlex.data.admin.ch/eli/oc/2015/514); [2016 423](https://fedlex.data.admin.ch/eli/oc/2016/68), [1747](https://fedlex.data.admin.ch/eli/oc/2016/315), [4189](https://fedlex.data.admin.ch/eli/oc/2016/701); [2018 2549](https://fedlex.data.admin.ch/eli/oc/2018/375); [2019 373](https://fedlex.data.admin.ch/eli/oc/2019/65), [3431](https://fedlex.data.admin.ch/eli/oc/2019/623); [2020 3521](https://fedlex.data.admin.ch/eli/oc/2020/620); [2023 321](https://fedlex.data.admin.ch/eli/oc/2023/321). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
+[^t-2]: [AS 2015 595](https://fedlex.data.admin.ch/eli/oc/2015/93), [1291](https://fedlex.data.admin.ch/eli/oc/2015/266), [2733](https://fedlex.data.admin.ch/eli/oc/2015/514); [2016 423](https://fedlex.data.admin.ch/eli/oc/2016/68), [1747](https://fedlex.data.admin.ch/eli/oc/2016/315), [4189](https://fedlex.data.admin.ch/eli/oc/2016/701); [2018 2549](https://fedlex.data.admin.ch/eli/oc/2018/375); [2019 373](https://fedlex.data.admin.ch/eli/oc/2019/65), [3431](https://fedlex.data.admin.ch/eli/oc/2019/623); [2020 3521](https://fedlex.data.admin.ch/eli/oc/2020/620); [2023 321](https://fedlex.data.admin.ch/eli/oc/2023/321); [2026 161](https://fedlex.data.admin.ch/eli/oc/2026/161). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](http://www.fedlex.admin.ch/de/treaty).
 
 Erklärungen der Schweiz
 
 Die Schweiz hat am 30. Januar 2015 beim Generalsekretär der Vereinten Nationen die folgenden Erklärungen hinterlegt:
 
-Erklärung zu Art. 23
+## *Erklärung zu Art. 23*
 
 Die Schweiz erklärt, dass sie gemäss Artikel 23 die Bestimmungen in Artikel 6 und 7 ab dem 30. Januar 2015 vorläufig, bis zum Inkrafttreten des Vertrags über den Waffenhandel, anwenden wird.
 
-Erklärung zu Art. 2 Abs. 2
+## *Erklärung zu Art. 2 Abs. 2*
 
 Gemäss der Auslegung der Schweiz umfassen die Begriffe «Ausfuhr», «Einfuhr», «Durchfuhr», «Umladung» und «Vermittlungstätigkeit» in Artikel 2 Absatz 2 im Lichte von Ziel und Zweck dieses Vertrags und in Übereinstimmung mit der ihnen gewöhnlich zukommenden Bedeutung, entgeltliche oder unentgeltliche Transaktionen, wie Schenkung, Leihe oder Miete, weshalb diese Tätigkeiten in den Geltungsbereich des Vertrags fallen.
 
-Erklärung zu Art. 6 Abs. 3
+## *Erklärung zu Art. 6 Abs. 3*
 
-Gemäss der Auslegung der Schweiz schliesst die Formulierung «von schweren Verletzungen der Genfer Abkommen von 1949, Angriffen auf zivile Objekte oder Zivilpersonen, die als solche geschützt werden, oder anderen Kriegsverbrechen im Sinne völkerrechtlicher Übereinkünfte, deren Vertragspartei er ist» in Artikel 6 Absatz 3 Handlungen mit ein, die im Rahmen internationaler oder nicht internationaler bewaffneter Konflikte begangen werden. Die Formulierung umfasst insbesondere schwere Verstösse gegen den gemeinsamen Artikel 3 der Genfer Abkommen von 1949 sowie für die Vertragsstaaten der einschlägigen Abkommen Kriegsverbrechen, wie sie im IV. Haager Abkommen von 1907[^t-3] sowie in dessen beigefügten Ordnung, in den Zusatzprotokollen von 1977[^t-4] zu den Genfer Abkommen und im Römer Statut des Internationalen Strafgerichtshofs von 1998[^t-5] beschrieben sind.
+Gemäss der Auslegung der Schweiz schliesst die Formulierung «von schweren Verletzungen der Genfer Abkommen von 1949, Angriffen auf zivile Objekte oder Zivilpersonen, die als solche geschützt werden, oder anderen Kriegsverbrechen im Sinne völkerrechtlicher Übereinkünfte, deren Vertragspartei er ist» in Artikel 6 Absatz 3 Handlungen mit ein, die im Rahmen internationaler oder nicht internationaler bewaffneter Konflikte begangen werden. Die Formulierung umfasst insbesondere schwere Verstösse gegen den gemeinsamen Artikel 3 der Genfer Abkommen von 1949 sowie für die Vertragsstaaten der einschlägigen Abkommen Kriegsverbrechen, wie sie im IV. Haager Abkommen von 1907[^declu2-lvlu3-1] sowie in dessen beigefügten Ordnung, in den Zusatzprotokollen von 1977[^declu2-lvlu3-2] zu den Genfer Abkommen und im Römer Statut des Internationalen Strafgerichtshofs von 1998[^declu2-lvlu3-3] beschrieben sind.
 
-Erklärung zu Art. 6 Abs. 3
+[^declu2-lvlu3-1]: [SR 0.515.112](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1945)
+[^declu2-lvlu3-2]: [SR 0.518.521](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1968);[0.518.522](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1969);[0.518.523](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1970)
+[^declu2-lvlu3-3]: [SR 0.312.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1326)
+
+## *Erklärung zu Art. 6 Abs. 3*
 
 Gemäss der Auslegung der Schweiz bedeutet der Begriff «Kenntnis» in Artikel 6 Absatz 3 im Lichte von Ziel und Zweck dieses Vertrags und in Übereinstimmung mit der ihm gewöhnlich zukommenden Bedeutung, dass der betroffene Vertragsstaat den Transfer nicht genehmigt, wenn er über zuverlässige Informationen verfügt, die wesentlichen Grund zur Annahme geben, dass die Waffen oder Güter zur Begehung der aufgeführten Verbrechen verwendet würden.
 
-Erklärung zu Art. 7 Abs. 3
+## *Erklärung zu Art. 7 Abs. 3*
 
 Gemäss der Auslegung der Schweiz beinhaltet der Begriff «überwiegendes Risiko» in Artikel 7 Absatz 3 im Lichte von Ziel und Zweck dieses Vertrags und in Übereinstimmung mit der diesem Begriff in diesem Vertrag in allen gleichermassen verbindlichen Sprachversionen gewöhnlich zukommenden Bedeutung die Verpflichtung für den betroffenen Vertragsstaat, die Ausfuhr nicht zu genehmigen, sofern er feststellt, dass die Wahrscheinlichkeit des Eintretens einer der in Absatz 1 genannten negativen Folgen selbst nach der Prüfung der durch die Massnahmen zur Risikominderung erwarteten Auswirkungen grösser ist als die Wahrscheinlichkeit ihres Nichteintretens
 
-Erklärung zu Art. 26 Abs. 2
+## *Erklärung zu Art. 26 Abs. 2*
 
-Gemäss der Auslegung der Schweiz soll Artikel 26 Absatz 2 gewährleisten, dass dieser Vertrag im Rahmen einer privatrechtlichen Streitigkeit nicht als Begründung herangezogen werden kann, um bestehende oder zukünftige Übereinkünfte über Verteidigungszusammenarbeit zwischen Vertragsstaaten für ungültig zu erklären. Folglich bleibt dieser Vertrag ungeachtet der Verpflichtungen aus einer Übereinkunft über Verteidigungszusammenarbeit im Einklang mit dem Wiener Übereinkommen von 1969[^t-6] über das Recht der Verträge für alle Vertragsstaaten anwendbar.
+Gemäss der Auslegung der Schweiz soll Artikel 26 Absatz 2 gewährleisten, dass dieser Vertrag im Rahmen einer privatrechtlichen Streitigkeit nicht als Begründung herangezogen werden kann, um bestehende oder zukünftige Übereinkünfte über Verteidigungszusammenarbeit zwischen Vertragsstaaten für ungültig zu erklären. Folglich bleibt dieser Vertrag ungeachtet der Verpflichtungen aus einer Übereinkunft über Verteidigungszusammenarbeit im Einklang mit dem Wiener Übereinkommen von 1969[^declu2-lvlu6-1] über das Recht der Verträge für alle Vertragsstaaten anwendbar.
 
-[^t-3]: [SR 0.515.112](https://fedlex.data.admin.ch/eli/cc/26/429_338_411)
-[^t-4]: [SR 0.518.521](https://fedlex.data.admin.ch/eli/cc/1982/1362_1362_1362);[0.518.522](https://fedlex.data.admin.ch/eli/cc/1982/1432_1432_1432);[0.518.523](https://fedlex.data.admin.ch/eli/cc/2007/38)
-[^t-5]: [SR 0.312.1](https://fedlex.data.admin.ch/eli/cc/2002/586)
-[^t-6]: [SR 0.111](https://fedlex.data.admin.ch/eli/cc/1990/1112_1112_1112)
+[^declu2-lvlu6-1]: [SR 0.111](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/39)

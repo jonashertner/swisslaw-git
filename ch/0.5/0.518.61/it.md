@@ -3,11 +3,11 @@ sr: "0.518.61"
 title: Trattato del 2 aprile 2013 sul commercio delle armi
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/93"
 language: it
-version: 2023-06-20
+version: 2026-04-08
 adopted: 2013-04-02
 in_force: 2015-01-30
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/93/20230620/it/xml/fedlex-data-admin-ch-eli-cc-2015-93-20230620-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/93/20230620/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/93/20260408/it/xml/fedlex-data-admin-ch-eli-cc-2015-93-20260408-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/93/20260408/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -22,7 +22,7 @@ Concluso a New York il 2 aprile 2013 Approvato dall’Assemblea federale il 26 s
 
 Strumento di ratifica depositato dalla Svizzera il 30 gennaio 2015 Applicazione provvisoria degli articoli 6 e 7 da parte della Svizzera a partire dal 30 gennaio 2015 Entrato in vigore per la Svizzera il 30 aprile 2015
 
-(Stato 20 giugno 2023)
+(Stato 8 aprile 2026)
 
 [^t-1]: [RU 2015 593](https://fedlex.data.admin.ch/eli/oc/2015/92)
 
@@ -79,10 +79,10 @@ Principi:
 
 hanno convenuto quanto segue:
 
-[^ingress-1]: [RS 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
-[^ingress-2]: [RS 0.311.544](https://fedlex.data.admin.ch/eli/cc/2013/14)
-[^ingress-3]: [RS 0.311.54](https://fedlex.data.admin.ch/eli/cc/2006/862)
-[^ingress-4]: RS **0**.**518.12**; [0.518.23](https://fedlex.data.admin.ch/eli/cc/1951/207_209_205); [0.518.42](https://fedlex.data.admin.ch/eli/cc/1951/228_230_226); [0.518.51](https://fedlex.data.admin.ch/eli/cc/1951/300_302_297)
+[^ingress-1]: [RS 0.120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/41)
+[^ingress-2]: [RS 0.311.544](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1312)
+[^ingress-3]: [RS 0.311.54](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1308)
+[^ingress-4]: [RS 0.518.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1960); [0.518.23](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1964); [0.518.42](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1966); [0.518.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1967)
 
 #### Art. 1
 
@@ -412,7 +412,7 @@ Fatto a New York, il 2 aprile 2013.
 
 (Seguono le firme)
 
-Campo d’applicazione il 20 giugno 2023[^t-2]
+Campo d’applicazione l’8 aprile 2026[^t-2]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -444,6 +444,7 @@ Campo d’applicazione il 20 giugno 2023[^t-2]
 <tr><td>Cina</td><td>6 luglio</td><td>2020 A</td><td>4 ottobre</td><td>2020</td></tr>
 <tr><td>Hong Kong</td><td>6 luglio</td><td>2020</td><td>4 ottobre</td><td>2020</td></tr>
 <tr><td>Macao</td><td>6 luglio</td><td>2020</td><td>4 ottobre</td><td>2020</td></tr>
+<tr><td>Colombia</td><td>15 ottobre</td><td>2024</td><td>13 gennaio</td><td>2025</td></tr>
 <tr><td>Corea del Sud</td><td>28 novembre</td><td>2016</td><td>26 febbraio</td><td>2017</td></tr>
 <tr><td>Costa d’Avorio</td><td>26 febbraio</td><td>2015</td><td>27 maggio</td><td>2015</td></tr>
 <tr><td>Costa Rica</td><td>25 settembre</td><td>2013</td><td>24 dicembre</td><td>2014</td></tr>
@@ -451,12 +452,14 @@ Campo d’applicazione il 20 giugno 2023[^t-2]
 <tr><td>Danimarca <sup>a</sup></td><td>2 aprile</td><td>2014</td><td>24 dicembre</td><td>2014</td></tr>
 <tr><td>Dominica</td><td>21 maggio</td><td>2015</td><td>19 agosto</td><td>2015</td></tr>
 <tr><td>Dominicana, Repubblica</td><td>7 agosto</td><td>2014</td><td>24 dicembre</td><td>2014</td></tr>
+<tr><td>Ecuador</td><td>25 febbraio</td><td>2026 A</td><td>26 maggio</td><td>2026</td></tr>
 <tr><td>El Salvador</td><td>2 aprile</td><td>2014</td><td>24 dicembre</td><td>2014</td></tr>
 <tr><td>Estonia</td><td>2 aprile</td><td>2014</td><td>24 dicembre</td><td>2014</td></tr>
 <tr><td>Filippine</td><td>24 marzo</td><td>2022</td><td>22 giugno</td><td>2022</td></tr>
 <tr><td>Finlandia</td><td>2 aprile</td><td>2014</td><td>2 aprile</td><td>2014</td></tr>
 <tr><td>Francia</td><td>2 aprile</td><td>2014</td><td>24 dicembre</td><td>2014</td></tr>
 <tr><td>Gabon</td><td>21 settembre</td><td>2022</td><td>20 dicembre</td><td>2022</td></tr>
+<tr><td>Gambia</td><td>13 giugno</td><td>2024 A</td><td>11 settembre</td><td>2024</td></tr>
 <tr><td>Georgia</td><td>23 maggio</td><td>2016</td><td>21 agosto</td><td>2016</td></tr>
 <tr><td>Germania</td><td>2 aprile</td><td>2014</td><td>24 dicembre</td><td>2014</td></tr>
 <tr><td>Ghana</td><td>22 dicembre</td><td>2015</td><td>21 marzo</td><td>2016</td></tr>
@@ -482,6 +485,7 @@ Campo d’applicazione il 20 giugno 2023[^t-2]
 <tr><td>Lussemburgo</td><td>3 giugno</td><td>2014</td><td>24 dicembre</td><td>2014</td></tr>
 <tr><td>Macedonia del Nord</td><td>6 marzo</td><td>2014</td><td>24 dicembre</td><td>2014</td></tr>
 <tr><td>Madagascar</td><td>22 settembre</td><td>2016</td><td>21 dicembre</td><td>2016</td></tr>
+<tr><td>Malawi</td><td>11 luglio</td><td>2024</td><td>9 ottobre</td><td>2024</td></tr>
 <tr><td>Maldive</td><td>27 settembre</td><td>2019 A</td><td>26 dicembre</td><td>2019</td></tr>
 <tr><td>Mali</td><td>3 dicembre</td><td>2013</td><td>24 dicembre</td><td>2014</td></tr>
 <tr><td>Malta</td><td>2 aprile</td><td>2014</td><td>24 dicembre</td><td>2014</td></tr>
@@ -531,13 +535,12 @@ Campo d’applicazione il 20 giugno 2023[^t-2]
 <tr><td>Tuvalu</td><td>4 settembre</td><td>2015</td><td>3 dicembre</td><td>2015</td></tr>
 <tr><td>Ungheria</td><td>2 aprile</td><td>2014</td><td>24 dicembre</td><td>2014</td></tr>
 <tr><td>Uruguay</td><td>25 settembre</td><td>2014</td><td>24 dicembre</td><td>2014</td></tr>
+<tr><td>Vanuatu</td><td>5 settembre</td><td>2025</td><td>4 dicembre</td><td>2025</td></tr>
 <tr><td>Zambia</td><td>20 maggio</td><td>2016</td><td>18 agosto</td><td>2016</td></tr>
-<tr><td colspan="5"><sup>\*</sup> Riserve e dichiarazioni. Le riserve e le dichiarazioni non sono pubblicate nella RU, eccetto quelle della Svizzera. Il testo, francese ed inglese, può essere consultato sul sito Internet dell’Organizzazione delle Nazioni Unite: [http://treaties.un.org/](http://treaties.un.org/) &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies, oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
-<tr><td colspan="5"><sup>a</sup> Il Trattato non si applica alle Isole Färöer e alla Groenlandia.</td></tr>
-<tr><td colspan="5"><sup>b</sup> Il Trattato non si applica al Tokélau.</td></tr>
+<tr><td colspan="5"><sup>\*</sup> Riserve e dichiarazioni. Le riserve e le dichiarazioni non sono pubblicate nella RU, eccetto quelle della Svizzera. Il testo, francese ed inglese, può essere consultato sul sito Internet dell’Organizzazione delle Nazioni Unite: [http://treaties.un.org](http://treaties.un.org/)oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna. <sup>a</sup> Il Trattato non si applica alle Isole Färöer e alla Groenlandia. <sup>b</sup> Il Trattato non si applica al Tokélau.</td></tr>
 </table>
 
-[^t-2]: [RU 2015 595](https://fedlex.data.admin.ch/eli/oc/2015/93), [1291](https://fedlex.data.admin.ch/eli/oc/2015/266), [2733](https://fedlex.data.admin.ch/eli/oc/2015/514); [2016 423](https://fedlex.data.admin.ch/eli/oc/2016/68), [1747](https://fedlex.data.admin.ch/eli/oc/2016/315), [4189](https://fedlex.data.admin.ch/eli/oc/2016/701); [2018 2549](https://fedlex.data.admin.ch/eli/oc/2018/375); [2019 373](https://fedlex.data.admin.ch/eli/oc/2019/65), [3431](https://fedlex.data.admin.ch/eli/oc/2019/623); [2020 3521](https://fedlex.data.admin.ch/eli/oc/2020/620); [2023 321](https://fedlex.data.admin.ch/eli/oc/2023/321). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» (www.fedlex.admin.ch/it/treaty).
+[^t-2]: [RU 2015 595](https://fedlex.data.admin.ch/eli/oc/2015/93), [1291](https://fedlex.data.admin.ch/eli/oc/2015/266), [2733](https://fedlex.data.admin.ch/eli/oc/2015/514); [2016 423](https://fedlex.data.admin.ch/eli/oc/2016/68), [1747](https://fedlex.data.admin.ch/eli/oc/2016/315), [4189](https://fedlex.data.admin.ch/eli/oc/2016/701); [2018 2549](https://fedlex.data.admin.ch/eli/oc/2018/375); [2019 373](https://fedlex.data.admin.ch/eli/oc/2019/65), [3431](https://fedlex.data.admin.ch/eli/oc/2019/623); [2020 3521](https://fedlex.data.admin.ch/eli/oc/2020/620); [2023 321](https://fedlex.data.admin.ch/eli/oc/2023/321), [2026 161](https://fedlex.data.admin.ch/eli/oc/2026/161). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty).
 
 Dichiarazioni della Svizzera
 
@@ -555,9 +558,9 @@ La Svizzera ritiene che i termini «esportazione», «importazione», «transito
 
 La Svizzera ritiene che la frase «gravi violazioni delle Convenzioni di Ginevra del 1949, attacchi diretti a obiettivi o soggetti civili protetti in quanto tali o altri crimini di guerra definiti come tali dagli accordi internazionali di cui lo Stato è parte» dell’articolo 6 paragrafo 3 si riferisce ad atti commessi sia in conflitti armati internazionali che in conflitti armati non internazionali, e include in particolare le violazioni gravi di cui all’articolo 3 comune alle Convenzioni di Ginevra del 1949 e i crimini di guerra descritti come tali da altri accordi di cui gli Stati sono parte: la Convenzione IV dell’Aja del 1907[^declu2-lvlu3-1] e il relativo regolamento, i protocolli aggiuntivi del 1977[^declu2-lvlu3-2] alle Convenzioni di Ginevra e lo Statuto di Roma della Corte penale internazionale del 1998[^declu2-lvlu3-3].
 
-[^declu2-lvlu3-1]: [RS 0.515.112](https://fedlex.data.admin.ch/eli/cc/26/429_338_411)
-[^declu2-lvlu3-2]: [RS 0.518.521](https://fedlex.data.admin.ch/eli/cc/1982/1362_1362_1362); [0.518.522](https://fedlex.data.admin.ch/eli/cc/1982/1432_1432_1432); [0.518.523](https://fedlex.data.admin.ch/eli/cc/2007/38)
-[^declu2-lvlu3-3]: [RS 0.312.1](https://fedlex.data.admin.ch/eli/cc/2002/586)
+[^declu2-lvlu3-1]: [RS 0.515.112](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1945)
+[^declu2-lvlu3-2]: [RS 0.518.521](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1968); [0.518.522](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1969); [0.518.523](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1970)
+[^declu2-lvlu3-3]: [RS 0.312.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1326)
 
 ## *Dichiarazione ad art. 6 par. 3*
 
@@ -571,4 +574,4 @@ La Svizzera ritiene che il termine «rischio rilevante» dell’articolo 7 parag
 
 La Svizzera ritiene che l’articolo 26 paragrafo 2 ha lo scopo di assicurare che, in una controversia di diritto privato, il presente Trattato non venga invocato come motivo per dichiarare nulli accordi internazionali di cooperazione esistenti o futuri in materia di difesa tra gli Stati Parte. Di conseguenza, il presente Trattato rimane valido per ogni Stato Parte indipendentemente dagli obblighi derivanti da un eventuale accordo di cooperazione in materia di difesa, conformemente alla Convenzione di Vienna del 1969[^declu2-lvlu6-1] sul diritto dei trattati.
 
-[^declu2-lvlu6-1]: [RS 0.111](https://fedlex.data.admin.ch/eli/cc/1990/1112_1112_1112)
+[^declu2-lvlu6-1]: [RS 0.111](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/39)
