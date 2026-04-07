@@ -4,11 +4,11 @@ title: Verordnung vom 15. August 2018 über die Einreise und die Visumerteilung 
 short: VEV
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/493"
 language: de
-version: 2026-02-01
+version: 2026-04-08
 adopted: 2018-08-15
 in_force: 2018-09-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/493/20260201/de/xml/fedlex-data-admin-ch-eli-cc-2018-493-20260201-de-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/493/20260201/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/493/20260408/de/xml/fedlex-data-admin-ch-eli-cc-2018-493-20260408-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/493/20260408/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/493/20260201/de"
 
 (VEV)
 
-vom 15. August 2018 (Stand am 1. Februar 2026)
+vom 15. August 2018 (Stand am 8. April 2026)
 
 Der Schweizerische Bundesrat,
 
@@ -1443,8 +1443,8 @@ Anhang 5[^t-4]
 
 (Art. 8 Abs. 3)
 
-## Durchführungsrechtsakte und delegierte Rechtsakte der Europäischen Kommission zur vorübergehenden Aussetzung der Befreiung von der Visumpflicht für den kurzfristigen Aufenthalt, die gestützt auf die Verordnung (EU) 2018/1806 erlassen wurden
+## Durchführungs- und delegierte Rechtsakte der Europäischen Kommission zur vorübergehenden Aussetzung der Befreiung von der Visumpflicht für den kurzfristigen Aufenthalt
 
-[^t-4]: Eingefügt durch Ziff. II der V vom 10. Juni 2022 ([AS 2022 344](https://fedlex.data.admin.ch/eli/oc/2022/344)). Fassung gemäss Ziff. II der V vom 15. Jan. 2025, in Kraft seit 4. Febr. 2025 ([AS 2025 45](https://fedlex.data.admin.ch/eli/oc/2025/45)).
+[^t-4]: Eingefügt durch Ziff. II der V vom 10. Juni 2022 ([AS 2022 344](https://fedlex.data.admin.ch/eli/oc/2022/344)). Fassung gemäss Ziff. I der V vom 1. April 2026, in Kraft seit 8. April 2026 ([AS 2026 136](https://fedlex.data.admin.ch/eli/oc/2026/136)).
 
-Diese Liste enthält zurzeit keine Einträge.
+Durchführungsverordnung (EU) 2026/496 der Kommission vom 6. März 2026 über die vorübergehende Aussetzung der Befreiung von der Visumpflicht für Staatsangehörige Georgiens, die Inhaber von Diplomaten-, Dienst- oder Amtspässen sind, Fassung gemäss ABl. L, 2026/496, 6.3.2026.

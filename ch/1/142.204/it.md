@@ -4,11 +4,11 @@ title: "Ordinanza del 15 agosto 2018 concernente l'entrata e il rilascio del vis
 short: OEV
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/493"
 language: it
-version: 2026-02-01
+version: 2026-04-08
 adopted: 2018-08-15
 in_force: 2018-09-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/493/20260201/it/xml/fedlex-data-admin-ch-eli-cc-2018-493-20260201-it-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/493/20260201/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/493/20260408/it/xml/fedlex-data-admin-ch-eli-cc-2018-493-20260408-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/493/20260408/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/493/20260201/it"
 
 (OEV)
 
-del 15 agosto 2018 (Stato 1° febbraio 2026)
+del 15 agosto 2018 (Stato 8 aprile 2026)
 
 Il Consiglio federale svizzero,
 
@@ -1442,8 +1442,8 @@ Allegato 5[^t-4]
 
 (art. 8 cpv. 3)
 
-## Atti di esecuzione e atti delegati della Commissione europea per sospendere in via temporanea l’esenzione dall’obbligo del visto per soggiorni di breve durata, emanati in virtù del regolamento (UE) 2018/1806
+## Atti di esecuzione e atti delegati della Commissione europea per sospendere in via temporanea l’esenzione dall’obbligo del visto per soggiorni di breve durata
 
-[^t-4]: Introdotto dalla cifra II dell’O del 10 giu. 2022 ([RU 2022 344](https://fedlex.data.admin.ch/eli/oc/2022/344)). Nuovo testo giusta la cifra II dell’O del 15 gen. 2025, in vigore dal 4 feb. 2025 ([RU 2025 45](https://fedlex.data.admin.ch/eli/oc/2025/45)).
+[^t-4]: Introdotto dalla cifra II dell’O del 10 giu. 2022 ([RU 2022 344](https://fedlex.data.admin.ch/eli/oc/2022/344)). Nuovo testo giusta la cifra I dell’O del 1° apr. 2026, in vigore dall’8 apr. 2026 ([RU 2026 136](https://fedlex.data.admin.ch/eli/oc/2026/136)).
 
-*Attualmente la lista non contiene alcuna voce.*
+Regolamento di esecuzione (UE) 2026/496 della Commissione, del 6 marzo 2026, sulla sospensione temporanea dell’esenzione dall’obbligo del visto per i cittadini della Georgia titolari di passaporti diplomatici, di servizio e ufficiali, GU L, 2026/496, 06.03.2026.

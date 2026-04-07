@@ -4,11 +4,11 @@ title: "Ordonnance du 15 août 2018 sur l'entrée et l'octroi de visas (OEV)"
 short: OEV
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/493"
 language: fr
-version: 2026-02-01
+version: 2026-04-08
 adopted: 2018-08-15
 in_force: 2018-09-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/493/20260201/fr/xml/fedlex-data-admin-ch-eli-cc-2018-493-20260201-fr-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/493/20260201/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/493/20260408/fr/xml/fedlex-data-admin-ch-eli-cc-2018-493-20260408-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/493/20260408/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/493/20260201/fr"
 
 (OEV)
 
-du 15 août 2018 (État le 1<sup>er</sup> février 2026)
+du 15 août 2018 (État le 8 avril 2026)
 
 Le Conseil fédéral suisse,
 
@@ -1441,8 +1441,8 @@ Annexe 5[^t-4]
 
 (art. 8, al. 3)
 
-## Actes d’exécution et actes délégués de la Commission européenne portant suspension temporaire de l’exemption de visa pour les séjours de courte durée fondés sur le règlement (UE) 2018/1806
+## Actes d’exécution et actes délégués de la Commission européenne portant suspension temporaire de l’exemption de visa pour les séjours de courte durée
 
-[^t-4]: Introduite par le ch. II de l’O du 10 juin 2022 ([RO 2022 344](https://fedlex.data.admin.ch/eli/oc/2022/344)). Nouvelle teneur selon le ch. II de l’O du 15 janv. 2025, en vigueur depuis le 4 fév. 2025 ([RO 2025 45](https://fedlex.data.admin.ch/eli/oc/2025/45)).
+[^t-4]: Introduite par le ch. II de l’O du 10 juin 2022 ([RO 2022 344](https://fedlex.data.admin.ch/eli/oc/2022/344)). Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> avr. 2026, en vigueur depuis le 8 avr. 2026 ([RO 2026 136](https://fedlex.data.admin.ch/eli/oc/2026/136)).
 
-Actuellement, cette liste ne contient aucune entrée.
+Règlement d’exécution (UE) 2026/496 de la Commission du 6 mars 2026 relatif à la suspension temporaire de l’exemption de l’obligation de visa à l’égard des ressortissants géorgiens titulaires d’un passeport diplomatique ou de service/officiel, JO L, 2026/496, 6.3.2026.
