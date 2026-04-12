@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Verordnungspaket Umwelt Herbst 2026
 document: Vernehmlassungsvorlage - VVEA
 language: de

@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Pachetto d’ordinanze in materie ambientale, autunno 2026"
 document: Progetto posto in consultazione - OSiti
 language: it
