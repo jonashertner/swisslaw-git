@@ -3,11 +3,11 @@ sr: "0.105.1"
 title: "Protocole facultatif du 18 décembre 2002 se rapportant à la Convention contre la torture et autres peines ou traitements cruels, inhumains ou dégradants"
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/664"
 language: fr
-version: 2022-01-25
+version: 2026-04-13
 adopted: 2002-12-18
 in_force: 2009-10-24
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/664/20220125/fr/xml/fedlex-data-admin-ch-eli-cc-2009-664-20220125-fr-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/664/20220125/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/664/20260413/fr/xml/fedlex-data-admin-ch-eli-cc-2009-664-20260413-fr-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/664/20260413/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -26,7 +26,7 @@ Instrument de ratification suisse déposé le 24 septembre 2009
 
 Entré en vigueur pour la Suisse le 24 octobre 2009
 
-(État le 25 janvier 2022)
+(État le 13 avril 2026)
 
 [^t-1]: Art. 1 al. 1 de l’AF du 20 mars 2009 ([RO 2009 5443](https://fedlex.data.admin.ch/eli/oc/2009/662)).
 
@@ -221,7 +221,7 @@ Chaque État partie administre, désigne ou met en place au plus tard un an apr�
 
 #### Art. 18
 
-<sup>1.</sup> Les États parties garantissent l’indépendance des mécanismes nationaux de prévention dans l'exercice de leurs fonctions et l’indépendance de leur personnel.
+<sup>1.</sup> Les États parties garantissent l’indépendance des mécanismes nationaux de prévention dans l’exercice de leurs fonctions et l’indépendance de leur personnel.
 
 <sup>2.</sup> Les États parties prennent les mesures nécessaires pour veiller à ce que les experts du mécanisme national de prévention possèdent les compétences et les connaissances professionnelles requises. Ils s’efforcent d’assurer l’équilibre entre les sexes et une représentation adéquate des groupes ethniques et minoritaires du pays.
 
@@ -327,7 +327,7 @@ Les dispositions du présent Protocole sont sans effet sur les obligations qui i
 
 <sup>1.</sup> Tout État partie peut dénoncer le présent Protocole à tout moment, par notification écrite adressée au Secrétaire général de l’Organisation des Nations Unies, qui en informe alors les autres États parties au Protocole et à la Convention. La dénonciation prend effet un an après la date à laquelle la notification est reçue par le Secrétaire général.
 
-<sup>2.</sup> Une telle dénonciation ne libère pas l’État partie des obligations qui lui incombent en vertu du présent Protocole en ce qui concerne tout acte ou toute situation qui se sera produit avant la date à laquelle la dénonciation prendra effet, ou toute mesure que le Sous-Comité de la prévention aura décidé ou pourra décider d’adopter à l’égard de l’État partie concerné ; elle ne fera nullement obstacle à la poursuite de l’examen de questions dont le Sous-Comité de la prévention était déjà saisi avant la date à laquelle la dénonciation a pris effet.
+<sup>2.</sup> Une telle dénonciation ne libère pas l’État partie des obligations qui lui incombent en vertu du présent Protocole en ce qui concerne tout acte ou toute situation qui se sera produit avant la date à laquelle la dénonciation prendra effet, ou toute mesure que le Sous-Comité de la prévention aura décidé ou pourra décider d’adopter à l’égard de l’État partie concerné<sub>;</sub> elle ne fera nullement obstacle à la poursuite de l’examen de questions dont le Sous-Comité de la prévention était déjà saisi avant la date à laquelle la dénonciation a pris effet.
 
 <sup>3.</sup> Après la date à laquelle la dénonciation par un État partie prend effet, le Sous-Comité de la prévention n’entreprend l’examen d’aucune question nouvelle concernant cet État.
 
@@ -360,7 +360,7 @@ Lorsqu’ils se rendent dans un État partie, les membres du Sous-Comité de la 
 
 (Suivent les signatures)
 
-Champ d’application le 25 janvier 2022[^t-2]
+Champ d’application le 13 avril 2026[^t-2]
 
 <table>
 <tr><th>États parties</th><th>Ratification Adhésion (A)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
@@ -370,9 +370,10 @@ Champ d’application le 25 janvier 2022[^t-2]
 <tr><td>Allemagne\*</td><td>4 décembre</td><td>2008</td><td>3 janvier</td><td>2009</td></tr>
 <tr><td>Argentine</td><td>15 novembre</td><td>2004</td><td>22 juin</td><td>2006</td></tr>
 <tr><td>Arménie</td><td>14 septembre</td><td>2006 A</td><td>14 octobre</td><td>2006</td></tr>
-<tr><td>Australie<sup>\*</sup></td><td>21 décembre</td><td>2017</td><td>20 janvier</td><td>2018</td></tr>
+<tr><td>Australie\*</td><td>21 décembre</td><td>2017</td><td>20 janvier</td><td>2018</td></tr>
 <tr><td>Autriche</td><td>4 décembre</td><td>2012</td><td>3 janvier</td><td>2013</td></tr>
 <tr><td>Azerbaïdjan\*</td><td>28 janvier</td><td>2009</td><td>27 février</td><td>2009</td></tr>
+<tr><td>Bangladesh</td><td>17 juillet</td><td>2025 A</td><td>16 août</td><td>2025</td></tr>
 <tr><td>Belize</td><td>4 septembre</td><td>2015 A</td><td>4 octobre</td><td>2015</td></tr>
 <tr><td>Bénin</td><td>20 septembre</td><td>2006</td><td>20 octobre</td><td>2006</td></tr>
 <tr><td>Bolivie</td><td>23 mai</td><td>2006</td><td>22 juin</td><td>2006</td></tr>
@@ -385,8 +386,11 @@ Champ d’application le 25 janvier 2022[^t-2]
 <tr><td>Cap-Vert</td><td>1<sup>er</sup> avril</td><td>2016</td><td>1<sup>er</sup> mai</td><td>2016</td></tr>
 <tr><td>Chili</td><td>12 décembre</td><td>2008</td><td>11 janvier</td><td>2009</td></tr>
 <tr><td>Chypre</td><td>29 avril</td><td>2009</td><td>29 mai</td><td>2009</td></tr>
+<tr><td>Colombie</td><td>10 novembre</td><td>2025 A</td><td>10 décembre</td><td>2025</td></tr>
+<tr><td>Congo (Brazzaville)</td><td>26 avril</td><td>2024</td><td>26 mai</td><td>2024</td></tr>
 <tr><td>Congo (Kinshasa)</td><td>23 septembre</td><td>2010 A</td><td>23 octobre</td><td>2010</td></tr>
 <tr><td>Costa Rica</td><td>1<sup>er</sup> décembre</td><td>2005</td><td>22 juin</td><td>2006</td></tr>
+<tr><td>Côte d’Ivoire</td><td>1<sup>er</sup> mars</td><td>2023 A</td><td>31 mars</td><td>2023</td></tr>
 <tr><td>Croatie</td><td>25 avril</td><td>2005</td><td>22 juin</td><td>2006</td></tr>
 <tr><td>Danemark</td><td>25 juin</td><td>2004</td><td>22 juin</td><td>2006</td></tr>
 <tr><td>Équateur</td><td>20 juillet</td><td>2010</td><td>19 août</td><td>2010</td></tr>
@@ -443,10 +447,11 @@ Champ d’application le 25 janvier 2022[^t-2]
 <tr><td>République tchèque</td><td>10 juillet</td><td>2006</td><td>9 août</td><td>2006</td></tr>
 <tr><td>Roumanie\*</td><td>2 juillet</td><td>2009</td><td>1<sup>er</sup> août</td><td>2009</td></tr>
 <tr><td>Royaume-Uni</td><td>10 décembre</td><td>2003</td><td>22 juin</td><td>2006</td></tr>
-<tr><td>[tab] Île de Man</td><td>24 février</td><td>2014</td><td>24 février</td><td>2014</td></tr>
+<tr><td>Île de Man</td><td>24 février</td><td>2014</td><td>24 février</td><td>2014</td></tr>
 <tr><td>Rwanda</td><td>30 juin</td><td>2015 A</td><td>30 juillet</td><td>2015</td></tr>
 <tr><td>Sénégal</td><td>18 octobre</td><td>2006</td><td>17 novembre</td><td>2006</td></tr>
 <tr><td>Serbie</td><td>26 septembre</td><td>2006</td><td>26 octobre</td><td>2006</td></tr>
+<tr><td>Slovaquie</td><td>19 septembre</td><td>2023</td><td>19 octobre</td><td>2023</td></tr>
 <tr><td>Slovénie</td><td>23 janvier</td><td>2007 A</td><td>22 février</td><td>2007</td></tr>
 <tr><td>Soudan du Sud</td><td>30 avril</td><td>2015 A</td><td>30 mai</td><td>2015</td></tr>
 <tr><td>Sri Lanka</td><td>5 décembre</td><td>2017 A</td><td>4 janvier</td><td>2018</td></tr>
@@ -457,7 +462,7 @@ Champ d’application le 25 janvier 2022[^t-2]
 <tr><td>Turquie</td><td>27 septembre</td><td>2011</td><td>27 octobre</td><td>2011</td></tr>
 <tr><td>Ukraine</td><td>19 septembre</td><td>2006</td><td>19 octobre</td><td>2006</td></tr>
 <tr><td>Uruguay</td><td>8 décembre</td><td>2005</td><td>22 juin</td><td>2006</td></tr>
-<tr><td colspan="5">\* Réserves et déclarations Les réserves et déclarations ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet des Nations Unies: http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies, ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> Le protocole ne s’applique pas à Tokélaou. <sup>b</sup> Pour le Royaume en Europe.</td></tr>
+<tr><td colspan="5">\* Réserves et déclarations Les réserves et déclarations ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet des Nations Unies: [http://treaties.un.org](http://treaties.un.org/) ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> Le protocole ne s’applique pas à Tokélaou. <sup>b</sup> Pour le Royaume en Europe.</td></tr>
 </table>
 
-[^t-2]: [RO 2009 5449](https://fedlex.data.admin.ch/eli/oc/2009/664); [2010 6407](https://fedlex.data.admin.ch/eli/oc/2010/902); [2011 4555](https://fedlex.data.admin.ch/eli/oc/2011/639); [2013 697](https://fedlex.data.admin.ch/eli/oc/2013/131); [2014 511](https://fedlex.data.admin.ch/eli/oc/2014/99); [2015 379](https://fedlex.data.admin.ch/eli/oc/2015/56); [2016 2951](https://fedlex.data.admin.ch/eli/oc/2016/491); [2018 871](https://fedlex.data.admin.ch/eli/oc/2018/117); [2022 49](https://fedlex.data.admin.ch/eli/oc/2022/49). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: www.fedlex.admin.ch/fr/treaty
+[^t-2]: [RO 2009 5449](https://fedlex.data.admin.ch/eli/oc/2009/664); [2010 6407](https://fedlex.data.admin.ch/eli/oc/2010/902); [2011 4555](https://fedlex.data.admin.ch/eli/oc/2011/639); [2013 697](https://fedlex.data.admin.ch/eli/oc/2013/131); [2014 511](https://fedlex.data.admin.ch/eli/oc/2014/99); [2015 379](https://fedlex.data.admin.ch/eli/oc/2015/56); [2016 2951](https://fedlex.data.admin.ch/eli/oc/2016/491); [2018 871](https://fedlex.data.admin.ch/eli/oc/2018/117); [2022 49](https://fedlex.data.admin.ch/eli/oc/2022/49); [2026 160](https://fedlex.data.admin.ch/eli/oc/2026/160). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty)

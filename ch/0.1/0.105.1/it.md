@@ -3,11 +3,11 @@ sr: "0.105.1"
 title: "Protocollo facoltativo del 18 dicembre 2002 alla Convenzione contro la tortura ed altre pene o trattamenti crudeli, inumani o degradanti"
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/664"
 language: it
-version: 2022-01-25
+version: 2026-04-13
 adopted: 2002-12-18
 in_force: 2009-10-24
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/664/20220125/it/xml/fedlex-data-admin-ch-eli-cc-2009-664-20220125-it-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/664/20220125/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/664/20260413/it/xml/fedlex-data-admin-ch-eli-cc-2009-664-20260413-it-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/664/20260413/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -20,7 +20,7 @@ Traduzione
 
 Concluso a New York il 18 dicembre 2002 Approvato dall'Assemblea federale il 20 marzo 2009[^t-1] Strumento di ratificazione depositato dalla Svizzera il 24 settembre 2009 Entrato in vigore per la Svizzera il 24 ottobre 2009
 
-(Stato 25 gennaio 2022)
+(Stato 13 aprile 2026)
 
 [^t-1]: Art. 1 cpv. 1 del DF del 20 mar. 2009 ([RU 2009 5443](https://fedlex.data.admin.ch/eli/oc/2009/662)).
 
@@ -354,7 +354,7 @@ Quando si recano in uno Stato Parte, i membri del Sottocomitato per la prevenzio
 
 *(Seguono le firme)*
 
-Campo d’applicazione il 25 gennaio 2022[^t-2]
+Campo d’applicazione il 13 aprile 2026[^t-2]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -365,6 +365,7 @@ Campo d’applicazione il 25 gennaio 2022[^t-2]
 <tr><td>Australia\*</td><td>21 dicembre</td><td>2017</td><td>20 gennaio</td><td>2018</td></tr>
 <tr><td>Austria</td><td>4 dicembre</td><td>2012</td><td>3 gennaio</td><td>2013</td></tr>
 <tr><td>Azerbaigian\*</td><td>28 gennaio</td><td>2009</td><td>27 febbraio</td><td>2009</td></tr>
+<tr><td>Bangladesh</td><td>17 luglio</td><td>2025 A</td><td>16 agosto</td><td>2025</td></tr>
 <tr><td>Belize</td><td>4 settembre</td><td>2015 A</td><td>4 ottobre</td><td>2015</td></tr>
 <tr><td>Benin</td><td>20 settembre</td><td>2006</td><td>20 ottobre</td><td>2006</td></tr>
 <tr><td>Bolivia</td><td>23 maggio</td><td>2006</td><td>22 giugno</td><td>2006</td></tr>
@@ -379,7 +380,10 @@ Campo d’applicazione il 25 gennaio 2022[^t-2]
 <tr><td>Centrafricana, Repubblica</td><td>11 ottobre</td><td>2016 A</td><td>10 novembre</td><td>2016</td></tr>
 <tr><td>Cile</td><td>12 dicembre</td><td>2008</td><td>11 gennaio</td><td>2009</td></tr>
 <tr><td>Cipro</td><td>29 aprile</td><td>2009</td><td>29 maggio</td><td>2009</td></tr>
+<tr><td>Colombia</td><td>10 novembre</td><td>2025 A</td><td>10 dicembre</td><td>2025</td></tr>
+<tr><td>Congo (Brazzaville)</td><td>26 aprile</td><td>2024</td><td>26 maggio</td><td>2024</td></tr>
 <tr><td>Congo (Kinshasa)</td><td>23 settembre</td><td>2010 A</td><td>23 ottobre</td><td>2010</td></tr>
+<tr><td>Costa d’Avorio</td><td>1° marzo</td><td>2023 A</td><td>31 marzo</td><td>2023</td></tr>
 <tr><td>Costa Rica</td><td>1° dicembre</td><td>2005</td><td>22 giugno</td><td>2006</td></tr>
 <tr><td>Croazia</td><td>25 aprile</td><td>2005</td><td>22 giugno</td><td>2006</td></tr>
 <tr><td>Danimarca</td><td>25 giugno</td><td>2004</td><td>22 giugno</td><td>2006</td></tr>
@@ -438,6 +442,7 @@ Campo d’applicazione il 25 gennaio 2022[^t-2]
 <tr><td>Ruanda</td><td>30 giugno</td><td>2015 A</td><td>30 luglio</td><td>2015</td></tr>
 <tr><td>Senegal</td><td>18 ottobre</td><td>2006</td><td>17 novembre</td><td>2006</td></tr>
 <tr><td>Serbia</td><td>26 settembre</td><td>2006</td><td>26 ottobre</td><td>2006</td></tr>
+<tr><td>Slovacchia</td><td>19 settembre</td><td>2023</td><td>19 ottobre</td><td>2023</td></tr>
 <tr><td>Slovenia</td><td>23 gennaio</td><td>2007 A</td><td>22 febbraio</td><td>2007</td></tr>
 <tr><td>Spagna</td><td>4 aprile</td><td>2006</td><td>22 giugno</td><td>2006</td></tr>
 <tr><td>Sri Lanka</td><td>5 dicembre</td><td>2017 A</td><td>4 gennaio</td><td>2018</td></tr>
@@ -451,9 +456,7 @@ Campo d’applicazione il 25 gennaio 2022[^t-2]
 <tr><td>Ucraina</td><td>19 settembre</td><td>2006</td><td>19 ottobre</td><td>2006</td></tr>
 <tr><td>Ungheria\*</td><td>12 gennaio</td><td>2012 A</td><td>11 febbraio</td><td>2012</td></tr>
 <tr><td>Uruguay</td><td>8 dicembre</td><td>2005</td><td>22 giugno</td><td>2006</td></tr>
-<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e dichiarazioni non sono pubblicate nella RU. Il testo, in francese e inglese, può essere consultato sul sito Internet dell’Organizzazione delle Nazioni Unite: http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
-<tr><td colspan="5"><sup>a</sup> Il Prot. non vale per Tokelau.</td></tr>
-<tr><td colspan="5"><sup>b</sup> Il Prot. si applica al Regno in Europa.</td></tr>
+<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e dichiarazioni non sono pubblicate nella RU. Il testo, in francese e inglese, può essere consultato sul sito Internet dell’Organizzazione delle Nazioni Unite: [http://treaties.un.org](http://treaties.un.org) oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna. <sup>a</sup> Il Prot. non vale per Tokelau. <sup>b</sup> Il Prot. si applica al Regno in Europa.</td></tr>
 </table>
 
-[^t-2]: [RU 2009 5449](https://fedlex.data.admin.ch/eli/oc/2009/664); [2010 6407](https://fedlex.data.admin.ch/eli/oc/2010/902); [2011 4555](https://fedlex.data.admin.ch/eli/oc/2011/639); [2013 697](https://fedlex.data.admin.ch/eli/oc/2013/131); [2014 511](https://fedlex.data.admin.ch/eli/oc/2014/99); [2015 379](https://fedlex.data.admin.ch/eli/oc/2015/56); [2016 2951](https://fedlex.data.admin.ch/eli/oc/2016/491); [2018 871](https://fedlex.data.admin.ch/eli/oc/2018/117); [2022 49](https://fedlex.data.admin.ch/eli/oc/2022/49). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: www.fedlex.admin.ch/it/treaty
+[^t-2]: [RU 2009 5449](https://fedlex.data.admin.ch/eli/oc/2009/664); [2010 6407](https://fedlex.data.admin.ch/eli/oc/2010/902); [2011 4555](https://fedlex.data.admin.ch/eli/oc/2011/639); [2013 697](https://fedlex.data.admin.ch/eli/oc/2013/131); [2014 511](https://fedlex.data.admin.ch/eli/oc/2014/99); [2015 379](https://fedlex.data.admin.ch/eli/oc/2015/56); [2016 2951](https://fedlex.data.admin.ch/eli/oc/2016/491); [2018 871](https://fedlex.data.admin.ch/eli/oc/2018/117); [2022 49](https://fedlex.data.admin.ch/eli/oc/2022/49); [2026 160](https://fedlex.data.admin.ch/eli/oc/2026/160). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty).

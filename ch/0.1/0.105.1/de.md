@@ -3,11 +3,11 @@ sr: "0.105.1"
 title: "Fakultativprotokoll vom 18. Dezember 2002 zum Übereinkommen gegen Folter und andere grausame, unmenschliche oder erniedrigende Behandlung oder Strafe"
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/664"
 language: de
-version: 2022-01-25
+version: 2026-04-13
 adopted: 2002-12-18
 in_force: 2009-10-24
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/664/20220125/de/xml/fedlex-data-admin-ch-eli-cc-2009-664-20220125-de-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/664/20220125/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/664/20260413/de/xml/fedlex-data-admin-ch-eli-cc-2009-664-20260413-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/664/20260413/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -20,7 +20,7 @@ AS **2009** 5449; BBl **2007** 265
 
 Abgeschlossen in New York am 18. Dezember 2002 Von der Bundesversammlung genehmigt am 20. März 2009[^t-1] Schweizerische Ratifikationsurkunde hinterlegt am 24. September 2009 In Kraft getreten für die Schweiz am 24. Oktober 2009
 
-(Stand am 25. Januar 2022)
+(Stand am 13. April 2026)
 
 [^t-1]: Art. 1 Abs. 1 des BB vom 20. März 2009 ([AS 2009 5443](https://fedlex.data.admin.ch/eli/oc/2009/662)).
 
@@ -354,7 +354,7 @@ Besuchen die Mitglieder des Unterausschusses für Prävention einen Vertragsstaa
 
 (Es folgen die Unterschriften)
 
-Geltungsbereich am 25. Januar 2022[^t-2]
+Geltungsbereich am 13. April 2026[^t-2]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -364,6 +364,7 @@ Geltungsbereich am 25. Januar 2022[^t-2]
 <tr><td>Armenien</td><td>14. September</td><td>2006 B</td><td>14. Oktober</td><td>2006</td></tr>
 <tr><td>Aserbaidschan\*</td><td>28. Januar</td><td>2009</td><td>27. Februar</td><td>2009</td></tr>
 <tr><td>Australien<sup>\*</sup></td><td>21. Dezember</td><td>2017</td><td>20. Januar</td><td>2018</td></tr>
+<tr><td>Bangladesch</td><td>17. Juli</td><td>2025 B</td><td>16. August</td><td>2025</td></tr>
 <tr><td>Belize</td><td>4. September</td><td>2015 B</td><td>4. Oktober</td><td>2015</td></tr>
 <tr><td>Benin</td><td>20. September</td><td>2006</td><td>20. Oktober</td><td>2006</td></tr>
 <tr><td>Bolivien</td><td>23. Mai</td><td>2006</td><td>22. Juni</td><td>2006</td></tr>
@@ -374,6 +375,7 @@ Geltungsbereich am 25. Januar 2022[^t-2]
 <tr><td>Burundi</td><td>18. Oktober</td><td>2013 B</td><td>17. November</td><td>2013</td></tr>
 <tr><td>Chile</td><td>12. Dezember</td><td>2008</td><td>11. Januar</td><td>2009</td></tr>
 <tr><td>Costa Rica</td><td>1. Dezember</td><td>2005</td><td>22. Juni</td><td>2006</td></tr>
+<tr><td>Côte d’Ivoire</td><td>1. März</td><td>2023 B</td><td>31. März</td><td>2023</td></tr>
 <tr><td>Dänemark</td><td>25. Juni</td><td>2004</td><td>22. Juni</td><td>2006</td></tr>
 <tr><td>Deutschland\*</td><td>4. Dezember</td><td>2008</td><td>3. Januar</td><td>2009</td></tr>
 <tr><td>Ecuador</td><td>20. Juli</td><td>2010</td><td>19. August</td><td>2010</td></tr>
@@ -392,6 +394,8 @@ Geltungsbereich am 25. Januar 2022[^t-2]
 <tr><td>Kap Verde</td><td>1. April</td><td>2016</td><td>1. Mai</td><td>2016</td></tr>
 <tr><td>Kasachstan\*</td><td>22. Oktober</td><td>2008</td><td>21. November</td><td>2008</td></tr>
 <tr><td>Kirgisistan</td><td>29. Dezember</td><td>2008 B</td><td>28. Januar</td><td>2009</td></tr>
+<tr><td>Kolumbien</td><td>10. November</td><td>2025 B</td><td>10. Dezember</td><td>2025</td></tr>
+<tr><td>Kongo (Brazzaville)</td><td>26. April</td><td>2024</td><td>26. Mai</td><td>2024</td></tr>
 <tr><td>Kongo (Kinshasa)</td><td>23. September</td><td>2010 B</td><td>23. Oktober</td><td>2010</td></tr>
 <tr><td>Kroatien</td><td>25. April</td><td>2005</td><td>22. Juni</td><td>2006</td></tr>
 <tr><td>Lettland</td><td>10. Dezember</td><td>2021 B</td><td>9. Januar</td><td>2022</td></tr>
@@ -435,6 +439,7 @@ Geltungsbereich am 25. Januar 2022[^t-2]
 <tr><td>Schweiz</td><td>24. September</td><td>2009</td><td>24. Oktober</td><td>2009</td></tr>
 <tr><td>Senegal</td><td>18. Oktober</td><td>2006</td><td>17. November</td><td>2006</td></tr>
 <tr><td>Serbien</td><td>26. September</td><td>2006</td><td>26. Oktober</td><td>2006</td></tr>
+<tr><td>Slowakei</td><td>19. September</td><td>2023</td><td>19. Oktober</td><td>2023</td></tr>
 <tr><td>Slowenien</td><td>23. Januar</td><td>2007 B</td><td>22. Februar</td><td>2007</td></tr>
 <tr><td>Spanien</td><td>4. April</td><td>2006</td><td>22. Juni</td><td>2006</td></tr>
 <tr><td>Sri Lanka</td><td>5. Dezember</td><td>2017 B</td><td>4. Januar</td><td>2018</td></tr>
@@ -454,7 +459,7 @@ Geltungsbereich am 25. Januar 2022[^t-2]
 </table>
 
 <table>
-<tr><td><sup>\*</sup> Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht, mit Ausnahme jener der Schweiz. Die französischen und englischen Texte können auf der Internetseite der Vereinten Nationen: http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden. <sup>a</sup> Das Protokoll gilt nicht für Tokelau. <sup>b</sup> Für das Königreich in Europa.</td></tr>
+<tr><td><sup>\*</sup> Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht, mit Ausnahme jener der Schweiz. Die französischen und englischen Texte können auf der Internetseite der Vereinten Nationen: [http://treaties.un.org](http://treaties.un.org/) eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden. <sup>a</sup> Das Protokoll gilt nicht für Tokelau. <sup>b</sup> Für das Königreich in Europa.</td></tr>
 </table>
 
-[^t-2]: [AS 2009 5449](https://fedlex.data.admin.ch/eli/oc/2009/664); [2010 6407](https://fedlex.data.admin.ch/eli/oc/2010/902); [2011 4555](https://fedlex.data.admin.ch/eli/oc/2011/639); [2013 697](https://fedlex.data.admin.ch/eli/oc/2013/131); [2014 511](https://fedlex.data.admin.ch/eli/oc/2014/99); [2015 379](https://fedlex.data.admin.ch/eli/oc/2015/56); [2016 2951](https://fedlex.data.admin.ch/eli/oc/2016/491); [2018 871](https://fedlex.data.admin.ch/eli/oc/2018/117); [2022 49](https://fedlex.data.admin.ch/eli/oc/2022/49). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: www.fedlex.admin.ch/de/treaty
+[^t-2]: [AS 2009 5449](https://fedlex.data.admin.ch/eli/oc/2009/664); [2010 6407](https://fedlex.data.admin.ch/eli/oc/2010/902); [2011 4555](https://fedlex.data.admin.ch/eli/oc/2011/639); [2013 697](https://fedlex.data.admin.ch/eli/oc/2013/131); [2014 511](https://fedlex.data.admin.ch/eli/oc/2014/99); [2015 379](https://fedlex.data.admin.ch/eli/oc/2015/56); [2016 2951](https://fedlex.data.admin.ch/eli/oc/2016/491); [2018 871](https://fedlex.data.admin.ch/eli/oc/2018/117); [2022 49](https://fedlex.data.admin.ch/eli/oc/2022/49); [2026 160](https://fedlex.data.admin.ch/eli/oc/2026/160). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](http://www.fedlex.admin.ch/de/treaty).
