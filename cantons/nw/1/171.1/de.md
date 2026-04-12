@@ -5,12 +5,12 @@ title: Gesetz über Organisation und Verwaltung der Gemeinden
 short: "Gemeindegesetz, GemG"
 language: de
 version: 2026-01-01
-corrected: 2026-02-03
+corrected: 2026-04-13
 version_adopted: 2024-10-23
 adopted: 1974-04-28
 in_force: 1974-04-28
 url: "https://gesetze.nw.ch/app/de/texts_of_law/171.1"
-pdf: "https://gesetze.nw.ch/api/de/versions/1470/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/1471/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -1942,7 +1942,7 @@ beschliesst:
 
 #### Art. 232a
 
-**Übergangsbestimmungen zur Änderung vom … 1. Allgemein**
+**Übergangsbestimmungen zur Änderung vom 23. Oktober 2024 1. Allgemein**
 
 <sup>1</sup> Für Wahl- und Abstimmungsgeschäfte der Gemeindeversammlung, die im Zeitpunkt des Inkrafttretens dieser Änderung bereits gemäss Art. 37 veröffentlicht wurden, kommt das bisherige Recht zur Anwendung.
 
