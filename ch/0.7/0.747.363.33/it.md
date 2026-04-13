@@ -3,11 +3,11 @@ sr: "0.747.363.33"
 title: "Convenzione internazionale del 1<sup>o</sup> novembre 1974 per la salvaguardia della vita umana in mare"
 eli: "https://fedlex.data.admin.ch/eli/cc/1982/128_128_128"
 language: it
-version: 2026-01-01
+version: 2026-04-14
 adopted: 1974-11-01
 in_force: 1982-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/128_128_128/20260101/it/xml/fedlex-data-admin-ch-eli-cc-1982-128_128_128-20260101-it-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1982/128_128_128/20260101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/128_128_128/20260414/it/xml/fedlex-data-admin-ch-eli-cc-1982-128_128_128-20260414-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1982/128_128_128/20260414/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -20,7 +20,7 @@ Traduzione
 
 Conchiusa a Londra il 1<sup>o</sup> novembre 1974 Approvata dall’Assemblea federale il 9 giugno 1981[^t-1] Ratificata con strumenti scambiati dalla Svizzera il 1<sup>o</sup> ottobre 1981 Entrata in vigore per la Svizzera il 1<sup>o</sup> gennaio 1982
 
-(Stato 1° gennaio 2026)
+(Stato 14 aprile 2026)
 
 [^t-1]: [RU 1982 125](https://fedlex.data.admin.ch/eli/oc/1982/125_125_125)
 
@@ -191,7 +191,7 @@ La presente Convenzione è stata fatta in un solo esemplare in lingua cinese, fr
 
 *In fede di che*, i sottoscritti, debitamente autorizzati a tale scopo dai loro Governi, hanno apposto le loro firme alla presente Convenzione. Fatto a Londra il primo novembre millenovecentosettantaquattro. (Si omettono le firme)
 
-Campo d’applicazione il 7 settembre 2021[^t-2]
+Campo d’applicazione il 14 aprile 2026[^t-2]
 
 <table>
 <tr><th colspan="2">Stati partecipanti</th><th colspan="2">Ratifica Adesione (A) Dichiarazione di successione (S) Firmato senza riserva di ratificazione (F)</th><th colspan="2"></th><th>Entrata in vigore</th><th></th></tr>
@@ -365,6 +365,7 @@ Campo d’applicazione il 7 settembre 2021[^t-2]
 <tr><td colspan="2">Svizzera</td><td colspan="2">1° ottobre</td><td colspan="2">1981</td><td>1° gennaio</td><td>1982</td></tr>
 <tr><td colspan="2">Tanzania</td><td colspan="2">28 marzo</td><td colspan="2">2001 A</td><td>28 giugno</td><td>2001</td></tr>
 <tr><td colspan="2">Thailandia</td><td colspan="2">18 dicembre</td><td colspan="2">1984 A</td><td>18 marzo</td><td>1985</td></tr>
+<tr><td colspan="2">Timor Est</td><td colspan="2">12 ottobre</td><td colspan="2">2022 A</td><td>12 gennaio</td><td>2023</td></tr>
 <tr><td colspan="2">Togo</td><td colspan="2">19 luglio</td><td colspan="2">1989 A</td><td>19 ottobre</td><td>1989</td></tr>
 <tr><td colspan="2">Tonga</td><td colspan="2">12 aprile</td><td colspan="2">1977 A</td><td>25 maggio</td><td>1980</td></tr>
 <tr><td colspan="2">Trinidad e Tobago</td><td colspan="2">15 febbraio</td><td colspan="2">1979 A</td><td>25 maggio</td><td>1980</td></tr>
@@ -387,4 +388,4 @@ Campo d’applicazione il 7 settembre 2021[^t-2]
 <tr><td colspan="8"><sup>d</sup> Al Regno in Europa.</td></tr>
 </table>
 
-[^t-2]: [RU 1982 128](https://fedlex.data.admin.ch/eli/oc/1982/128_128_128), [1562](https://fedlex.data.admin.ch/eli/oc/1982/1562_1562_1562); [1984 255](https://fedlex.data.admin.ch/eli/oc/1984/255_255_255); [1985 231](https://fedlex.data.admin.ch/eli/oc/1985/231_231_231); [1986 871](https://fedlex.data.admin.ch/eli/oc/1986/871_871_871); [1987 1153](https://fedlex.data.admin.ch/eli/oc/1987/1153_1153_1153); [1989 841](https://fedlex.data.admin.ch/eli/oc/1989/841_841_841); [1990 1869](https://fedlex.data.admin.ch/eli/oc/1990/1869_1869_1869); [1997 463](https://fedlex.data.admin.ch/eli/oc/1997/463_463_463); [2005 1313](https://fedlex.data.admin.ch/eli/oc/2005/199); [2012 5791](https://fedlex.data.admin.ch/eli/oc/2012/671); [2019 1073](https://fedlex.data.admin.ch/eli/oc/2019/201); [2021 544](https://fedlex.data.admin.ch/eli/oc/2021/544). Una versione aggiornata del campo di applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: www.fedlex.admin.ch/it/treaty
+[^t-2]: [RU 1982 128](https://fedlex.data.admin.ch/eli/oc/1982/128_128_128), [1562](https://fedlex.data.admin.ch/eli/oc/1982/1562_1562_1562); [1984 255](https://fedlex.data.admin.ch/eli/oc/1984/255_255_255); [1985 231](https://fedlex.data.admin.ch/eli/oc/1985/231_231_231); [1986 871](https://fedlex.data.admin.ch/eli/oc/1986/871_871_871); [1987 1153](https://fedlex.data.admin.ch/eli/oc/1987/1153_1153_1153); [1989 841](https://fedlex.data.admin.ch/eli/oc/1989/841_841_841); [1990 1869](https://fedlex.data.admin.ch/eli/oc/1990/1869_1869_1869); [1997 463](https://fedlex.data.admin.ch/eli/oc/1997/463_463_463); [2005 1313](https://fedlex.data.admin.ch/eli/oc/2005/199); [2012 5791](https://fedlex.data.admin.ch/eli/oc/2012/671); [2019 1073](https://fedlex.data.admin.ch/eli/oc/2019/201); [2021 544](https://fedlex.data.admin.ch/eli/oc/2021/544); [2026 162](https://fedlex.data.admin.ch/eli/oc/2026/162). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](http://www.fedlex.admin.ch/it/treaty).

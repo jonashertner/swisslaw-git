@@ -3,11 +3,11 @@ sr: "0.747.363.33"
 title: "Convention internationale du 1<sup>er</sup> novembre 1974 pour la sauvegarde de la vie humaine en mer"
 eli: "https://fedlex.data.admin.ch/eli/cc/1982/128_128_128"
 language: fr
-version: 2026-01-01
+version: 2026-04-14
 adopted: 1974-11-01
 in_force: 1982-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/128_128_128/20260101/fr/xml/fedlex-data-admin-ch-eli-cc-1982-128_128_128-20260101-fr-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1982/128_128_128/20260101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/128_128_128/20260414/fr/xml/fedlex-data-admin-ch-eli-cc-1982-128_128_128-20260414-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1982/128_128_128/20260414/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -20,7 +20,7 @@ Texte original
 
 Conclue à Londres le 1<sup>er</sup> novembre 1974 Approuvée par l’Assemblée fédérale le 9 juin 1981[^t-1] Instrument de ratification déposé par la Suisse le 1<sup>er</sup> octobre 1981 Entrée en vigueur pour la Suisse le 1<sup>er</sup> janvier 1982
 
-(État le 1<sup>er</sup> janvier 2026)
+(État le 14 avril 2026)
 
 [^t-1]: [RO 1982 127](https://fedlex.data.admin.ch/eli/oc/1982/127_127_127)
 
@@ -191,7 +191,7 @@ La présente Convention est établie en un seul exemplaire en langues anglaise, 
 
 *En foi de quoi*, les soussignés, dûment autorisés à cet effet par leurs gouvernements, ont apposé leur signature à la présente Convention. Fait à Londres ce premier novembre mil neuf cent soixante-quatorze. (Suivent les signatures)
 
-Champ d’application de la convention le 7 septembre 2021[^t-2]
+Champ d’application de la convention le 14 avril 2026[^t-2]
 
 <table>
 <tr><th>États parties</th><th>Ratification Adhésion (A) Déclaration de succession (S) Signature sans réserve de ratification (Si)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
@@ -317,7 +317,7 @@ Champ d’application de la convention le 7 septembre 2021[^t-2]
 <tr><td>Panama</td><td>9 mars</td><td>1978 A</td><td>25 mai</td><td>1980</td></tr>
 <tr><td>Papouasie-Nouvelle-Guinée</td><td>12 novembre</td><td>1980 A</td><td>12 février</td><td>1981</td></tr>
 <tr><td>Paraguay</td><td>15 juin</td><td>2004 A</td><td>15 septembre</td><td>2004</td></tr>
-<tr><td>Pays-Bas<sup>d</sup></td><td>10 juillet</td><td>1978 A</td><td>25 mai</td><td>1980</td></tr>
+<tr><td>Pays-Bas <sup>d</sup></td><td>10 juillet</td><td>1978 A</td><td>25 mai</td><td>1980</td></tr>
 <tr><td>Aruba</td><td>24 décembre</td><td>1995</td><td>1<sup>er</sup> janvier</td><td>1986</td></tr>
 <tr><td>Curaçao</td><td>10 juillet</td><td>1978</td><td>25 mai</td><td>1980</td></tr>
 <tr><td>Partie caraïbe (Bonaire, Sint Eustatius et Saba)</td><td>10 juillet</td><td>1978</td><td>25 mai</td><td>1980</td></tr>
@@ -367,6 +367,7 @@ Champ d’application de la convention le 7 septembre 2021[^t-2]
 <tr><td>Syrie</td><td>20 juillet</td><td>2001 A</td><td>20 octobre</td><td>2001</td></tr>
 <tr><td>Tanzanie</td><td>28 mars</td><td>2001 A</td><td>28 juin</td><td>2001</td></tr>
 <tr><td>Thaïlande</td><td>18 décembre</td><td>1984 A</td><td>18 mars</td><td>1985</td></tr>
+<tr><td>Timor-Leste</td><td>12 octobre</td><td>2022 A</td><td>12 janvier</td><td>2023</td></tr>
 <tr><td>Togo</td><td>19 juillet</td><td>1989 A</td><td>19 octobre</td><td>1989</td></tr>
 <tr><td>Tonga</td><td>12 avril</td><td>1977 A</td><td>25 mai</td><td>1980</td></tr>
 <tr><td>Trinité-et-Tobago</td><td>15 février</td><td>1979 A</td><td>25 mai</td><td>1980</td></tr>
@@ -383,4 +384,4 @@ Champ d’application de la convention le 7 septembre 2021[^t-2]
 <tr><td colspan="5">\* Réserves et déclarations. Les réserves, déclarations ne sont pas publiées au RO. Les textes en anglais peuvent être obtenus à l’adresse du site Internet l’Organisation maritime internationale (OMI): [www.imo.org](http://www.imo.org) &gt; Publications &gt; Catalogue & listes de code, ou auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> Du 25 mai 1980 au 30 juin 1997, la conv. était applicable à Hong Kong sur la base d’une déclaration d’extension territoriale du Royaume-Uni. À partir du 1<sup>er</sup> juillet 1997, Hong Kong est devenue une Région administrative spéciale (RAS) de la République populaire de Chine. En vertu de la déclaration chinoise du 5 juin 1997, la conv. est également applicable à la RAS Hong Kong à partir du 1<sup>er</sup> juillet 1997. <sup>b</sup> Du 24 août 1999 au 19 déc. 1999, la conv. était applicable à Macao sur la base d’une déclaration d’extension territoriale du Portugal. À partir du 20 déc. 1999, Macao est devenue une Région administrative spéciale (RAS) de la République populaire de Chine. En vertu de la déclaration chinoise du 10 déc. 1999, la conv. est également applicable à la RAS Macao à partir du 20 déc. 1999. <sup>c</sup> La conv. n’est pas applicable à Tokelau. <sup>d</sup> La conv. s’applique au Royaume en Europe.</td></tr>
 </table>
 
-[^t-2]: [RO 1982 128](https://fedlex.data.admin.ch/eli/oc/1982/128_128_128), [1562](https://fedlex.data.admin.ch/eli/oc/1982/1562_1562_1562); [1984 255](https://fedlex.data.admin.ch/eli/oc/1984/255_255_255); [1985 231](https://fedlex.data.admin.ch/eli/oc/1985/231_231_231); [1986 871](https://fedlex.data.admin.ch/eli/oc/1986/871_871_871); [1987 1153](https://fedlex.data.admin.ch/eli/oc/1987/1153_1153_1153); [1989 841](https://fedlex.data.admin.ch/eli/oc/1989/841_841_841); [1990 1869](https://fedlex.data.admin.ch/eli/oc/1990/1869_1869_1869); [1997 463](https://fedlex.data.admin.ch/eli/oc/1997/463_463_463); [2005 1313](https://fedlex.data.admin.ch/eli/oc/2005/199); [2012 5791](https://fedlex.data.admin.ch/eli/oc/2012/671); [2019 1073](https://fedlex.data.admin.ch/eli/oc/2019/201); [2021 544](https://fedlex.data.admin.ch/eli/oc/2021/544). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty)
+[^t-2]: [RO 1982 128](https://fedlex.data.admin.ch/eli/oc/1982/128_128_128), [1562](https://fedlex.data.admin.ch/eli/oc/1982/1562_1562_1562); [1984 255](https://fedlex.data.admin.ch/eli/oc/1984/255_255_255); [1985 231](https://fedlex.data.admin.ch/eli/oc/1985/231_231_231); [1986 871](https://fedlex.data.admin.ch/eli/oc/1986/871_871_871); [1987 1153](https://fedlex.data.admin.ch/eli/oc/1987/1153_1153_1153); [1989 841](https://fedlex.data.admin.ch/eli/oc/1989/841_841_841); [1990 1869](https://fedlex.data.admin.ch/eli/oc/1990/1869_1869_1869); [1997 463](https://fedlex.data.admin.ch/eli/oc/1997/463_463_463); [2005 1313](https://fedlex.data.admin.ch/eli/oc/2005/199); [2012 5791](https://fedlex.data.admin.ch/eli/oc/2012/671); [2019 1073](https://fedlex.data.admin.ch/eli/oc/2019/201); [2021 544](https://fedlex.data.admin.ch/eli/oc/2021/544); [2026 162](https://fedlex.data.admin.ch/eli/oc/2026/162). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty)

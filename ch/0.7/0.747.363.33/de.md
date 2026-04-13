@@ -3,11 +3,11 @@ sr: "0.747.363.33"
 title: Internationales Übereinkommen vom 1. November 1974 zum Schutz des menschlichen Lebens auf See
 eli: "https://fedlex.data.admin.ch/eli/cc/1982/128_128_128"
 language: de
-version: 2026-01-01
+version: 2026-04-14
 adopted: 1974-11-01
 in_force: 1982-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/128_128_128/20260101/de/xml/fedlex-data-admin-ch-eli-cc-1982-128_128_128-20260101-de-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1982/128_128_128/20260101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/128_128_128/20260414/de/xml/fedlex-data-admin-ch-eli-cc-1982-128_128_128-20260414-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1982/128_128_128/20260414/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -20,7 +20,7 @@ AS **1982** 128
 
 Abgeschlossen in London am 1. November 1974 Von der Bundesversammlung genehmigt am 9. Juni 1981[^t-1] Schweizerische Ratifikationsurkunde hinterlegt am 1. Oktober 1981 In Kraft getreten für die Schweiz am 1. Januar 1982
 
-(Stand am 1. Januar 2026)
+(Stand am 14. April 2026)
 
 [^t-1]: [AS 1982 127](https://fedlex.data.admin.ch/eli/oc/1982/127_127_127)
 
@@ -188,7 +188,7 @@ Dieses Übereinkommen ist in einer Urschrift in chinesischer, englischer, franz�
 
 *Zu Urkund dessen* haben die von ihren Regierungen hierzu gehörig befugten Unterzeichneten dieses Übereinkommen unterschrieben. Geschehen zu London am 1. November 1974 (Es folgen die Unterschriften)
 
-Geltungsbereich am 7. September 2021[^t-2]
+Geltungsbereich am 14. April 2026[^t-2]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B) Nachfolgeerklärung (N) Unterzeichnet ohne Ratifikationsvorbehalt (U)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -345,6 +345,7 @@ Geltungsbereich am 7. September 2021[^t-2]
 <tr><td>Syrien</td><td>20. Juli</td><td>2001 B</td><td>20. Oktober</td><td>2001</td></tr>
 <tr><td>Tansania</td><td>28. März</td><td>2001 B</td><td>28. Juni</td><td>2001</td></tr>
 <tr><td>Thailand</td><td>18. Dezember</td><td>1984 B</td><td>18. März</td><td>1985</td></tr>
+<tr><td>Timor-Leste</td><td>12. Oktober</td><td>2022 B</td><td>12. Januar</td><td>2023</td></tr>
 <tr><td>Togo</td><td>19. Juli</td><td>1989 B</td><td>19. Oktober</td><td>1989</td></tr>
 <tr><td>Tonga</td><td>12. April</td><td>1977 B</td><td>25. Mai</td><td>1980</td></tr>
 <tr><td>Trinidad und Tobago</td><td>15. Februar</td><td>1979 B</td><td>25. Mai</td><td>1980</td></tr>
@@ -380,4 +381,4 @@ Geltungsbereich am 7. September 2021[^t-2]
 <tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite der Internationale Seeschifffahrts-Organisation (IMO), [www.imo.org](https://www.imo.org/en/publications/Pages/CatalogueAndBookCodeLists.aspx) &gt; fr &gt; Qui nous sommes &gt; Conventions &gt; Liste des conventions eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden. <sup>a</sup> Vom 25. Mai 1980 bis zum 30. Juni 1997 war das Übereink. auf Grund einer Ausdehnungserklärung des Vereinigten Königreichs in Hongkong anwendbar. Seit dem 1. Juli 1997 bildet Hongkong eine Besondere Verwaltungsregion (SAR) der Volksrepublik China. Auf Grund der chinesischen Erklärung vom 5. Juni 1997 ist das Übereink. seit dem 1. Juli 1997 auch in der SAR Hongkong anwendbar. <sup>b</sup> Vom 24. Aug. 1999 bis zum 19. Dez. 1999 war das Übereink. auf Grund einer Ausdehnungserklärung Portugals in Macau anwendbar. Seit dem 20. Dez. 1999 bildet Macau eine Besondere Verwaltungsregion (SAR) der Volksrepublik China. Auf Grund der chinesischen Erklärung vom 10. Dez. 1999 ist das Übereink. seit dem 20. Dez. 1999 auch in der SAR Macau anwendbar. <sup>c</sup> Das Übereinkommen gilt nicht für Tokelau. <sup>d</sup> Für das Königreich in Europa.</td></tr>
 </table>
 
-[^t-2]: [AS 1982 128](https://fedlex.data.admin.ch/eli/oc/1982/128_128_128), [1562](https://fedlex.data.admin.ch/eli/oc/1982/1562_1562_1562); [1984 255](https://fedlex.data.admin.ch/eli/oc/1984/255_255_255); [1985 231](https://fedlex.data.admin.ch/eli/oc/1985/231_231_231); [1986 871](https://fedlex.data.admin.ch/eli/oc/1986/871_871_871); [1987 1153](https://fedlex.data.admin.ch/eli/oc/1987/1153_1153_1153); [1989 841](https://fedlex.data.admin.ch/eli/oc/1989/841_841_841); [1990 1869](https://fedlex.data.admin.ch/eli/oc/1990/1869_1869_1869); [1997 463](https://fedlex.data.admin.ch/eli/oc/1997/463_463_463); [2005 1313](https://fedlex.data.admin.ch/eli/oc/2005/199); [2012 5791](https://fedlex.data.admin.ch/eli/oc/2012/671); [2019 1073](https://fedlex.data.admin.ch/eli/oc/2019/201); [2021 544](https://fedlex.data.admin.ch/eli/oc/2021/544). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
+[^t-2]: [AS 1982 128](https://fedlex.data.admin.ch/eli/oc/1982/128_128_128), [1562](https://fedlex.data.admin.ch/eli/oc/1982/1562_1562_1562); [1984 255](https://fedlex.data.admin.ch/eli/oc/1984/255_255_255); [1985 231](https://fedlex.data.admin.ch/eli/oc/1985/231_231_231); [1986 871](https://fedlex.data.admin.ch/eli/oc/1986/871_871_871); [1987 1153](https://fedlex.data.admin.ch/eli/oc/1987/1153_1153_1153); [1989 841](https://fedlex.data.admin.ch/eli/oc/1989/841_841_841); [1990 1869](https://fedlex.data.admin.ch/eli/oc/1990/1869_1869_1869); [1997 463](https://fedlex.data.admin.ch/eli/oc/1997/463_463_463); [2005 1313](https://fedlex.data.admin.ch/eli/oc/2005/199); [2012 5791](https://fedlex.data.admin.ch/eli/oc/2012/671); [2019 1073](https://fedlex.data.admin.ch/eli/oc/2019/201); [2021 544](https://fedlex.data.admin.ch/eli/oc/2021/544); [2026 162](https://fedlex.data.admin.ch/eli/oc/2026/162). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](http://www.fedlex.admin.ch/de/treaty).
