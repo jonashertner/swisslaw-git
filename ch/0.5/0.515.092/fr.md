@@ -3,11 +3,11 @@ sr: "0.515.092"
 title: "Convention du 18 septembre 1997 sur l'interdiction de l'emploi, du stockage, de la production et du transfert des mines antipersonnel et sur leur destruction"
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/431"
 language: fr
-version: 2020-07-09
+version: 2026-04-14
 adopted: 1997-09-18
 in_force: 1999-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/431/20200709/fr/xml/fedlex-data-admin-ch-eli-cc-2003-431-20200709-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/431/20200709/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/431/20260414/fr/xml/fedlex-data-admin-ch-eli-cc-2003-431-20260414-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/431/20260414/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -20,7 +20,7 @@ Texte original
 
 Conclue à Oslo le 18 septembre 1997 Approuvée par l’Assemblée fédérale le 4 mars 1998[^t-1] Instrument de ratification déposé par la Suisse le 24 mars 1998 Entrée en vigueur pour la Suisse le 1<sup>er</sup> mars 1999
 
-(Etat le 9 juillet 2020)
+(État le 14 avril 2026)
 
 [^t-1]: [RO 2003 3132](https://fedlex.data.admin.ch/eli/oc/2003/430)
 
@@ -52,7 +52,7 @@ se fondant sur le principe du droit international humanitaire selon lequel le dr
 
 sont convenus de ce qui suit:
 
-[^ingress-1]: [RS 0.515.091.2](https://fedlex.data.admin.ch/eli/cc/2004/23)
+[^ingress-1]: [RS 0.515.091.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1932)
 
 #### Art. 1
 
@@ -365,7 +365,7 @@ L’original de la présente Convention, dont les textes rédigés en anglais, a
 
 Fait à Oslo le 18 septembre 1997. (Suivent les signatures)
 
-Champ d’application le 9 juillet 2020**[^t-2]**
+Champ d’application le 14 avril 2026[^t-2]
 
 <table>
 <tr><th>États parties</th><th>Ratification Adhésion (A) Déclaration de succession (S)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
@@ -416,11 +416,9 @@ Champ d’application le 9 juillet 2020**[^t-2]**
 <tr><td>Équateur</td><td>29 avril</td><td>1999</td><td>1<sup>er</sup> octobre</td><td>1999</td></tr>
 <tr><td>Érythrée</td><td>27 août</td><td>2001 A</td><td>1<sup>er</sup> février</td><td>2002</td></tr>
 <tr><td>Espagne</td><td>19 janvier</td><td>1999</td><td>1<sup>er</sup> juillet</td><td>1999</td></tr>
-<tr><td>Estonie</td><td>12 mai</td><td>2004 A</td><td>1<sup>er</sup> novembre</td><td>2004</td></tr>
 <tr><td>Eswatini</td><td>22 décembre</td><td>1998</td><td>1<sup>er</sup> juin</td><td>1999</td></tr>
 <tr><td>Éthiopie</td><td>17 décembre</td><td>2004</td><td>1<sup>er</sup> juin</td><td>2005</td></tr>
 <tr><td>Fidji</td><td>10 juin</td><td>1998</td><td>1<sup>er</sup> mars</td><td>1999</td></tr>
-<tr><td>Finlande</td><td>9 janvier</td><td>2012 A</td><td>1<sup>er</sup> juillet</td><td>2012</td></tr>
 <tr><td>France</td><td>23 juillet</td><td>1998</td><td>1<sup>er</sup> mars</td><td>1999</td></tr>
 <tr><td>Gabon</td><td>8 septembre</td><td>2000</td><td>1<sup>er</sup> mars</td><td>2001</td></tr>
 <tr><td>Gambie</td><td>23 septembre</td><td>2002</td><td>1<sup>er</sup> mars</td><td>2003</td></tr>
@@ -436,6 +434,7 @@ Champ d’application le 9 juillet 2020**[^t-2]**
 <tr><td>Honduras</td><td>24 septembre</td><td>1998</td><td>1<sup>er</sup> mars</td><td>1999</td></tr>
 <tr><td>Hongrie\*</td><td>6 avril</td><td>1998</td><td>1<sup>er</sup> mars</td><td>1999</td></tr>
 <tr><td>Îles Cook</td><td>15 mars</td><td>2006</td><td>1<sup>er</sup> septembre</td><td>2006</td></tr>
+<tr><td>Îles Marshall</td><td>12 mars</td><td>2025</td><td>1<sup>er</sup> septembre</td><td>2025</td></tr>
 <tr><td>Indonésie</td><td>16 février</td><td>2007</td><td>1<sup>er</sup> août</td><td>2007</td></tr>
 <tr><td>Iraq</td><td>15 août</td><td>2007 A</td><td>1<sup>er</sup> février</td><td>2008</td></tr>
 <tr><td>Irlande</td><td>3 décembre</td><td>1997</td><td>1<sup>er</sup> mars</td><td>1999</td></tr>
@@ -448,10 +447,8 @@ Champ d’application le 9 juillet 2020**[^t-2]**
 <tr><td>Kiribati</td><td>7 septembre</td><td>2000 A</td><td>1<sup>er</sup> mars</td><td>2001</td></tr>
 <tr><td>Koweït</td><td>30 juillet</td><td>2007 A</td><td>1<sup>er</sup> janvier</td><td>2008</td></tr>
 <tr><td>Lesotho</td><td>2 décembre</td><td>1998</td><td>1<sup>er</sup> juin</td><td>1999</td></tr>
-<tr><td>Lettonie</td><td>1<sup>er</sup> juillet</td><td>2005 A</td><td>1<sup>er</sup> janvier</td><td>2006</td></tr>
 <tr><td>Libéria</td><td>23 décembre</td><td>1999 A</td><td>1<sup>er</sup> juin</td><td>2000</td></tr>
 <tr><td>Liechtenstein</td><td>5 octobre</td><td>1999</td><td>1<sup>er</sup> avril</td><td>2000</td></tr>
-<tr><td>Lituanie\*</td><td>12 mai</td><td>2003</td><td>1<sup>er</sup> novembre</td><td>2003</td></tr>
 <tr><td>Luxembourg</td><td>14 juin</td><td>1999</td><td>1<sup>er</sup> décembre</td><td>1999</td></tr>
 <tr><td>Macédoine du Nord</td><td>9 septembre</td><td>1998 A</td><td>1<sup>er</sup> mars</td><td>1999</td></tr>
 <tr><td>Madagascar</td><td>16 septembre</td><td>1999</td><td>1<sup>er</sup> mars</td><td>2000</td></tr>
@@ -486,7 +483,6 @@ Champ d’application le 9 juillet 2020**[^t-2]**
 <tr><td>Partie caraïbe (Bonaire, Sint Eustatius et Saba)</td><td>21 février</td><td>2014</td><td>21 février</td><td>2014</td></tr>
 <tr><td>Pérou</td><td>17 juin</td><td>1998</td><td>1<sup>er</sup> mars</td><td>1999</td></tr>
 <tr><td>Philippines</td><td>15 février</td><td>2000</td><td>1<sup>er</sup> août</td><td>2000</td></tr>
-<tr><td>Pologne\*</td><td>27 décembre</td><td>2012</td><td>1<sup>er</sup> juin</td><td>2013</td></tr>
 <tr><td>Portugal</td><td>19 février</td><td>1999</td><td>1<sup>er</sup> août</td><td>1999</td></tr>
 <tr><td>Qatar</td><td>13 octobre</td><td>1998</td><td>1<sup>er</sup> avril</td><td>1999</td></tr>
 <tr><td>République centrafricaine</td><td>8 novembre</td><td>2002 A</td><td>1<sup>er</sup> mai</td><td>2003</td></tr>
@@ -537,6 +533,7 @@ Champ d’application le 9 juillet 2020**[^t-2]**
 <tr><td>Thaïlande</td><td>27 novembre</td><td>1998</td><td>1<sup>er</sup> mai</td><td>1999</td></tr>
 <tr><td>Timor-Leste</td><td>7 mai</td><td>2003 A</td><td>1<sup>er</sup> novembre</td><td>2003</td></tr>
 <tr><td>Togo</td><td>9 mars</td><td>2000</td><td>1<sup>er</sup> septembre</td><td>2000</td></tr>
+<tr><td>Tonga</td><td>25 juin</td><td>2025 A</td><td>1<sup>er</sup> décembre</td><td>2025</td></tr>
 <tr><td>Trinité-et-Tobago</td><td>27 avril</td><td>1998</td><td>1<sup>er</sup> mars</td><td>1999</td></tr>
 <tr><td>Tunisie</td><td>9 juillet</td><td>1999</td><td>1<sup>er</sup> janvier</td><td>2000</td></tr>
 <tr><td>Turkménistan</td><td>19 janvier</td><td>1998</td><td>1<sup>er</sup> mars</td><td>1999</td></tr>
@@ -549,13 +546,12 @@ Champ d’application le 9 juillet 2020**[^t-2]**
 <tr><td>Yémen</td><td>1<sup>er</sup> septembre</td><td>1998</td><td>1<sup>er</sup> mars</td><td>1999</td></tr>
 <tr><td>Zambie</td><td>23 février</td><td>2001</td><td>1<sup>er</sup> août</td><td>2001</td></tr>
 <tr><td>Zimbabwe</td><td>18 juin</td><td>1998</td><td>1<sup>er</sup> mars</td><td>1999</td></tr>
-<tr><td colspan="5"><sup>\*</sup> Réserves et déclarations. Les réserves et déclarations, à l’exception de celles de la Suisse, ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet des Nations Unies: http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies, ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
-<tr><td colspan="5"><sup>a</sup> Pour le Royaume en Europe.</td></tr>
+<tr><td colspan="5"><sup>\*</sup> Réserves et déclarations. Les réserves et déclarations, à l’exception de celles de la Suisse, ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet de l’Organisation des Nations Unies (ONU): [http://treaties.un.org](http://treaties.un.org) ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> Pour le Royaume en Europe.</td></tr>
 </table>
 
-[^t-2]: RO **2003** 3147, [2005 4785](https://fedlex.data.admin.ch/eli/oc/2005/641), [2007 3755](https://fedlex.data.admin.ch/eli/oc/2007/481), [2010 3985](https://fedlex.data.admin.ch/eli/oc/2010/567), [2013 2091](https://fedlex.data.admin.ch/eli/oc/2013/440), [2017 3623](https://fedlex.data.admin.ch/eli/oc/2017/403), [2020 3387](https://fedlex.data.admin.ch/eli/oc/2020/580). Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.dfae.admin.ch/traites).
+[^t-2]: [RO 2003 3133](https://fedlex.data.admin.ch/eli/oc/2003/431); [2005 4785](https://fedlex.data.admin.ch/eli/oc/2005/641); [2007 3755](https://fedlex.data.admin.ch/eli/oc/2007/481); [2010 3985](https://fedlex.data.admin.ch/eli/oc/2010/567); [2013 2091](https://fedlex.data.admin.ch/eli/oc/2013/440); [2017 3623](https://fedlex.data.admin.ch/eli/oc/2017/403); [2020 3387](https://fedlex.data.admin.ch/eli/oc/2020/580); [2026 169](https://fedlex.data.admin.ch/eli/oc/2026/169). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).
 
-Déclaration de la Suisse relative à l’art. 18**[^t-3]**
+Déclaration de la Suisse relative à l’art. 18[^t-3]
 
 La Suisse appliquera provisoirement l’art. 1, par. 1, de la Convention jusqu’à l’entrée en vigueur de cette dernière.
 

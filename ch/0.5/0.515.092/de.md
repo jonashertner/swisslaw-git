@@ -3,11 +3,11 @@ sr: "0.515.092"
 title: "Übereinkommen vom 18. September 1997 über das Verbot des Einsatzes, der Lagerung, der Herstellung und der Weitergabe von Anti-Personenminen und über deren Vernichtung"
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/431"
 language: de
-version: 2020-07-09
+version: 2026-04-14
 adopted: 1997-09-18
 in_force: 1999-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/431/20200709/de/xml/fedlex-data-admin-ch-eli-cc-2003-431-20200709-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/431/20200709/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/431/20260414/de/xml/fedlex-data-admin-ch-eli-cc-2003-431-20260414-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/431/20260414/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -26,7 +26,7 @@ Ratifikationsurkunde von der Schweiz hinterlegt am 24. März 1998
 
 In Kraft getreten für die Schweiz am 1. März 1999
 
-(Stand am 9. Juli 2020)
+(Stand am 14. April 2026)
 
 [^t-1]: [AS 2003 3132](https://fedlex.data.admin.ch/eli/oc/2003/430)
 
@@ -58,7 +58,7 @@ gestützt auf den Grundsatz des humanitären Völkerrechts, nach dem die an eine
 
 sind wie folgt übereingekommen:
 
-[^ingress-1]: [SR 0.515.091.2](https://fedlex.data.admin.ch/eli/cc/2004/23)
+[^ingress-1]: [SR 0.515.091.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1932)
 
 #### Art. 1
 
@@ -363,7 +363,7 @@ Geschehen in Oslo am 18. September 1997.
 
 (Es folgen die Unterschriften)
 
-Geltungsbereich am 9. Juli 2020**[^t-2]**
+Geltungsbereich am 14. April 2026[^t-2]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B) Nachfolgeerklärung (N)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -405,10 +405,8 @@ Geltungsbereich am 9. Juli 2020**[^t-2]**
 <tr><td>Ecuador</td><td>29. April</td><td>1999</td><td>1. Oktober</td><td>1999</td></tr>
 <tr><td>El Salvador</td><td>27. Januar</td><td>1999</td><td>1. Juli</td><td>1999</td></tr>
 <tr><td>Eritrea</td><td>27. August</td><td>2001 B</td><td>1. Februar</td><td>2002</td></tr>
-<tr><td>Estland</td><td>12. Mai</td><td>2004 B</td><td>1. November</td><td>2004</td></tr>
 <tr><td>Eswatini</td><td>22. Dezember</td><td>1998</td><td>1. Juni</td><td>1999</td></tr>
 <tr><td>Fidschi</td><td>10. Juni</td><td>1998</td><td>1. März</td><td>1999</td></tr>
-<tr><td>Finnland</td><td>9. Januar</td><td>2012 B</td><td>1. Juli</td><td>2012</td></tr>
 <tr><td>Frankreich</td><td>23. Juli</td><td>1998</td><td>1. März</td><td>1999</td></tr>
 <tr><td>Gabun</td><td>8. September</td><td>2000</td><td>1. März</td><td>2001</td></tr>
 <tr><td>Gambia</td><td>23. September</td><td>2002</td><td>1. März</td><td>2003</td></tr>
@@ -445,10 +443,8 @@ Geltungsbereich am 9. Juli 2020**[^t-2]**
 <tr><td>Kroatien</td><td>20. Mai</td><td>1998</td><td>1. März</td><td>1999</td></tr>
 <tr><td>Kuwait</td><td>30. Juli</td><td>2007 B</td><td>1. Januar</td><td>2008</td></tr>
 <tr><td>Lesotho</td><td>2. Dezember</td><td>1998</td><td>1. Juni</td><td>1999</td></tr>
-<tr><td>Lettland</td><td>1. Juli</td><td>2005 B</td><td>1. Januar</td><td>2006</td></tr>
 <tr><td>Liberia</td><td>23. Dezember</td><td>1999 B</td><td>1. Juni</td><td>2000</td></tr>
 <tr><td>Liechtenstein</td><td>5. Oktober</td><td>1999</td><td>1. April</td><td>2000</td></tr>
-<tr><td>Litauen\*</td><td>12. Mai</td><td>2003</td><td>1. November</td><td>2003</td></tr>
 <tr><td>Luxemburg</td><td>14. Juni</td><td>1999</td><td>1. Dezember</td><td>1999</td></tr>
 <tr><td>Madagaskar</td><td>16. September</td><td>1999</td><td>1. März</td><td>2000</td></tr>
 <tr><td>Malawi</td><td>13. August</td><td>1998</td><td>1. März</td><td>1999</td></tr>
@@ -456,6 +452,7 @@ Geltungsbereich am 9. Juli 2020**[^t-2]**
 <tr><td>Malediven</td><td>7. September</td><td>2000</td><td>1. März</td><td>2001</td></tr>
 <tr><td>Mali</td><td>2. Juni</td><td>1998</td><td>1. März</td><td>1999</td></tr>
 <tr><td>Malta</td><td>7. Mai</td><td>2001</td><td>1. November</td><td>2001</td></tr>
+<tr><td>Marshallinseln</td><td>12. März</td><td>2025</td><td>1. September</td><td>2025</td></tr>
 <tr><td>Mauretanien</td><td>21. Juli</td><td>2000</td><td>1. Januar</td><td>2001</td></tr>
 <tr><td>Mauritius\*</td><td>3. Dezember</td><td>1997</td><td>1. März</td><td>1999</td></tr>
 <tr><td>Mexiko</td><td>9. Juni</td><td>1998</td><td>1. März</td><td>1999</td></tr>
@@ -483,7 +480,6 @@ Geltungsbereich am 9. Juli 2020**[^t-2]**
 <tr><td>Paraguay</td><td>13. November</td><td>1998</td><td>1. Mai</td><td>1999</td></tr>
 <tr><td>Peru</td><td>17. Juni</td><td>1998</td><td>1. März</td><td>1999</td></tr>
 <tr><td>Philippinen</td><td>15. Februar</td><td>2000</td><td>1. August</td><td>2000</td></tr>
-<tr><td>Polen\*</td><td>27. Dezember</td><td>2012</td><td>1. Juni</td><td>2013</td></tr>
 <tr><td>Portugal</td><td>19. Februar</td><td>1999</td><td>1. August</td><td>1999</td></tr>
 <tr><td>Ruanda</td><td>8. Juni</td><td>2000</td><td>1. Dezember</td><td>2000</td></tr>
 <tr><td>Rumänien</td><td>30. November</td><td>2000</td><td>1. Mai</td><td>2001</td></tr>
@@ -516,6 +512,7 @@ Geltungsbereich am 9. Juli 2020**[^t-2]**
 <tr><td>Thailand</td><td>27. November</td><td>1998</td><td>1. Mai</td><td>1999</td></tr>
 <tr><td>Timor-Leste</td><td>7. Mai</td><td>2003 B</td><td>1. November</td><td>2003</td></tr>
 <tr><td>Togo</td><td>9. März</td><td>2000</td><td>1. September</td><td>2000</td></tr>
+<tr><td>Tonga</td><td>25. Juni</td><td>2025 B</td><td>1. Dezember</td><td>2025</td></tr>
 <tr><td>Trinidad und Tobago</td><td>27. April</td><td>1998</td><td>1. März</td><td>1999</td></tr>
 <tr><td>Tschad</td><td>6. Mai</td><td>1999</td><td>1. November</td><td>1999</td></tr>
 <tr><td>Tschechische Republik\*</td><td>26. Oktober</td><td>1999</td><td>1. April</td><td>2000</td></tr>
@@ -547,13 +544,12 @@ Geltungsbereich am 9. Juli 2020**[^t-2]**
 <tr><td>Turks- und Caicosinseln</td><td>4. Dezember</td><td>2001</td><td>4. Dezember</td><td>2001</td></tr>
 <tr><td>Zentralafrikanische Republik</td><td>8. November</td><td>2002 B</td><td>1. Mai</td><td>2003</td></tr>
 <tr><td>Zypern</td><td>17. Januar</td><td>2003</td><td>1. Juli</td><td>2003</td></tr>
-<tr><td colspan="5"><sup>\*</sup> Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht, mit Ausnahme jener der Schweiz. Die französischen und englischen Texte können auf der Internetseite der Vereinten Nationen: http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
-<tr><td colspan="5"><sup>a</sup> Für das Königreich in Europa.</td></tr>
+<tr><td colspan="5"><sup>\*</sup> Vorbehalte und Erklärungen Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht, mit Ausnahme jener der Schweiz. Die französischen und englischen Texte können auf der Internetseite der Vereinten Nationen: [http://treaties.un.org](http://treaties.un.org) eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden. <sup>a</sup> Für das Königreich in Europa.</td></tr>
 </table>
 
-[^t-2]: [AS 2003 3133](https://fedlex.data.admin.ch/eli/oc/2003/431), [2005 4785](https://fedlex.data.admin.ch/eli/oc/2005/641), [2007 3755](https://fedlex.data.admin.ch/eli/oc/2007/481), [2010 3985](https://fedlex.data.admin.ch/eli/oc/2010/567), [2013 2091](https://fedlex.data.admin.ch/eli/oc/2013/440), [2017 3623](https://fedlex.data.admin.ch/eli/oc/2017/403), [2020 3387](https://fedlex.data.admin.ch/eli/oc/2020/580). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+[^t-2]: [AS 2003 3133](https://fedlex.data.admin.ch/eli/oc/2003/431); [2005 4785](https://fedlex.data.admin.ch/eli/oc/2005/641); [2007 3755](https://fedlex.data.admin.ch/eli/oc/2007/481); [2010 3985](https://fedlex.data.admin.ch/eli/oc/2010/567); [2013 2091](https://fedlex.data.admin.ch/eli/oc/2013/440); [2017 3623](https://fedlex.data.admin.ch/eli/oc/2017/403); [2020 3387](https://fedlex.data.admin.ch/eli/oc/2020/580); [2026 169](https://fedlex.data.admin.ch/eli/oc/2026/169). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
 
-Erklärung der Schweiz**[^t-3]**
+Erklärung der Schweiz[^t-3]
 
 Erklärung zu Artikel 18
 
