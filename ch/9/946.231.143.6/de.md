@@ -3,18 +3,18 @@ sr: "946.231.143.6"
 title: Verordnung vom 12. Dezember 2025 über Massnahmen gegenüber der Islamischen Republik Iran
 eli: "https://fedlex.data.admin.ch/eli/cc/2025/838"
 language: de
-version: 2026-03-10
+version: 2026-04-14
 adopted: 2025-12-12
 in_force: 2025-12-12
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/838/20260310/de/xml/fedlex-data-admin-ch-eli-cc-2025-838-20260310-de-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2025/838/20260310/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/838/20260414/de/xml/fedlex-data-admin-ch-eli-cc-2025-838-20260414-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2025/838/20260414/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über Massnahmen gegenüber der Islamischen Republik Iran
 
-vom 12. Dezember 2025 (Stand am 10. März 2026)
+vom 12. Dezember 2025 (Stand am 14. April 2026)
 
 Der Schweizerische Bundesrat,
 
@@ -1448,8 +1448,8 @@ Anhang 12[^t-2]
 
 [^annex12-lvlu1-1]
 
-[^t-2]: Bereinigt gemäss Ziff. I Abs. 2 der V des WBF vom 9. März 2026, in Kraft seit 10. März 2026 um 23 Uhr ([AS 2026 111](https://fedlex.data.admin.ch/eli/oc/2026/111)).
-[^annex12-lvlu1-1]: Der Inhalt dieser Anhänge wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter: [https://fedlex.data.admin.ch/eli/oc/2026/111](https://fedlex.data.admin.ch/eli/oc/2026/111) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
+[^t-2]: Bereinigt gemäss Ziff. I Abs. 2 der V des WBF vom 9. März 2026 ([AS 2026 111](https://fedlex.data.admin.ch/eli/oc/2026/111)) und Ziff. I der V des WBF vom 13. April 2026, in Kraft seit 14. April 2026 um 23 Uhr ([AS 2026 147](https://fedlex.data.admin.ch/eli/oc/2026/147)).
+[^annex12-lvlu1-1]: Der Inhalt dieser Anhänge wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter: [https://fedlex.data.admin.ch/eli/oc/2026/147](https://fedlex.data.admin.ch/eli/oc/2026/147) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
 
 Anhang 13[^t-3]
 
@@ -1470,8 +1470,8 @@ Anhang 14[^t-4]
 
 [^annex14-lvlu1-1]
 
-[^t-4]: Bereinigt gemäss Ziff. I Abs. 2 der V des WBF vom 9. März 2026, in Kraft seit 10. März 2026 um 23 Uhr ([AS 2026 111](https://fedlex.data.admin.ch/eli/oc/2026/111)).
-[^annex14-lvlu1-1]: Der Inhalt dieser Anhänge wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter: [https://fedlex.data.admin.ch/eli/oc/2026/111](https://fedlex.data.admin.ch/eli/oc/2026/111) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
+[^t-4]: Bereinigt gemäss Ziff. I Abs. 2 der V des WBF vom 9. März 2026 ([AS 2026 111](https://fedlex.data.admin.ch/eli/oc/2026/111)) und Ziff. I der V des WBF vom 13. April 2026, in Kraft seit 14. April 2026 um 23 Uhr ([AS 2026 147](https://fedlex.data.admin.ch/eli/oc/2026/147)).
+[^annex14-lvlu1-1]: Der Inhalt dieser Anhänge wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter: [https://fedlex.data.admin.ch/eli/oc/2026/147](https://fedlex.data.admin.ch/eli/oc/2026/147) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
 
 Anhang 15
 
