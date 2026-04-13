@@ -5,11 +5,12 @@ title: Energiegesetz des Kantons Graubünden
 short: BEG
 language: de
 version: 2025-12-31
+corrected: 2026-04-14
 version_adopted: 2025-04-24
 adopted: 2010-04-20
 in_force: 2011-01-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/820.200"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/3633/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3594/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.

@@ -5,11 +5,12 @@ title: "Legge sull'energia del Cantone dei Grigioni"
 short: LGE
 language: it
 version: 2025-12-31
+corrected: 2026-04-14
 version_adopted: 2025-04-24
 adopted: 2010-04-20
 in_force: 2011-01-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/820.200"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/3633/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3594/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
@@ -370,7 +371,7 @@ decide:
 
 #### Art. 28
 
-**Perenzione del diritto a sussidio**
+**Prescrizione del diritto a sussidio**
 
 <sup>1</sup> Qualora un richiedente inizi la realizzazione del progetto o proceda ad acquisti prima che gli sia stato garantito il sussidio, non gli vengono concessi sussidi, se l'inizio anticipato dei lavori non è stato autorizzato. L'autorizzazione anticipata non garantisce un diritto alla concessione di sussidi.
 
