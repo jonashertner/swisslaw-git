@@ -3,18 +3,18 @@ sr: "412.101.221.85"
 title: Verordnung des SBFI vom 3. Mai 2024 über die berufliche Grundbildung der Berufe mit EFZ im Berufsfeld Lebensmitteltechnologie
 eli: "https://fedlex.data.admin.ch/eli/cc/2024/238"
 language: de
-version: 2026-01-01
+version: 2026-04-15
 adopted: 2024-05-03
 in_force: 2025-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/238/20260101/de/xml/fedlex-data-admin-ch-eli-cc-2024-238-20260101-de-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2024/238/20260101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/238/20260415/de/xml/fedlex-data-admin-ch-eli-cc-2024-238-20260415-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2024/238/20260415/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung des SBFI über die berufliche Grundbildung der Berufe mit EFZ im Berufsfeld Lebensmitteltechnologie
 
-vom 3. Mai 2024 (Stand am 1. Januar 2026)
+vom 3. Mai 2024 (Stand am 15. April 2026)
 
 <table>
 <tr><td>21418</td><td>Lebensmitteltechnologin EFZ / Lebensmitteltechnologe EFZ Technologue en denrées alimentaires CFC Tecnica alimentarista AFC / Tecnico alimentarista AFC</td></tr>
@@ -238,13 +238,15 @@ Die Bildung in beruflicher Praxis im Betrieb umfasst über die ganze Dauer der b
 <tr><td>2</td><td>A2</td><td>Dauerbackwaren – b2 Herstellungsprozesse von Lebensmitteln kontrollieren und dokumentieren – b3 Herstellungsprozesse von Lebensmitteln überwachen und steuern – d1 Abfüll- oder Verpackungsanlagen einfahren – e2 Lebensmittel oder Getränke für weitere Prozesse freigeben – f1 einfache Störungen an Produktionsanlagen analysieren und beheben</td><td>5</td><td></td><td></td><td></td></tr>
 <tr><td>2</td><td>B1</td><td>Fleischerzeugnisse – b3 Herstellungsprozesse von Lebensmitteln überwachen und steuern – d1 Abfüll- oder Verpackungsanlagen einfahren</td><td></td><td>2</td><td></td><td></td></tr>
 <tr><td>2</td><td>B2</td><td>Convenience- und Fleischersatzerzeugnisse – b3 Herstellungsprozesse von Lebensmitteln überwachen und steuern – d1 Abfüll- oder Verpackungsanlagen einfahren</td><td></td><td>5</td><td></td><td></td></tr>
-<tr><td>1</td><td>C1</td><td>Trockenwarentechnologie 1 – a3 Roh-, Hilfs- und Zusatzstoffe, Pack- und Verbrauchsmaterial für die Produktion bereitstellen und kontrollieren – a6 die Einführung von neuen oder weiterentwickelten Lebensmitteln oder Getränken begleiten – b2 Herstellungsprozesse von Lebensmitteln kontrollieren und dokumentieren – b3 Herstellungsprozesse von Lebensmitteln überwachen und steuern – e2 Lebensmittel oder Getränke für weitere Prozesse freigeben – f1 einfache Störungen an Produktionsanlagen analysieren und beheben – f2 Abweichungen in der Produktion von Lebensmitteln oder Getränken analysieren und Lösungen im Team entwickeln</td><td></td><td></td><td>4</td><td></td></tr>
+<tr><td>2</td><td>C1</td><td>Trockenwarentechnologie 1 – a3 Roh-, Hilfs- und Zusatzstoffe, Pack- und Verbrauchsmaterial für die Produktion bereitstellen und kontrollieren – a6 die Einführung von neuen oder weiterentwickelten Lebensmitteln oder Getränken begleiten – b2 Herstellungsprozesse von Lebensmitteln kontrollieren und dokumentieren – b3 Herstellungsprozesse von Lebensmitteln überwachen und steuern – e2 Lebensmittel oder Getränke für weitere Prozesse freigeben – f1 einfache Störungen an Produktionsanlagen analysieren und beheben – f2 Abweichungen in der Produktion von Lebensmitteln oder Getränken analysieren und Lösungen im Team entwickeln</td><td></td><td></td><td>4</td><td></td></tr>
 <tr><td>2</td><td>C2</td><td>Trockenwarentechnologie 2 – a3 Roh-, Hilfs- und Zusatzstoffe, Pack- und Verbrauchsmaterial für die Produktion bereitstellen und kontrollieren – a6 die Einführung von neuen oder weiterentwickelten Lebensmitteln oder Getränken begleiten – b2 Herstellungsprozesse von Lebensmitteln kontrollieren und dokumentieren – b3 Herstellungsprozesse von Lebensmitteln überwachen und steuern – e2 Lebensmittel oder Getränke für weitere Prozesse freigeben – f1 einfache Störungen an Produktionsanlagen analysieren und beheben – f2 Abweichungen in der Produktion von Lebensmitteln oder Getränken analysieren und Lösungen im Team entwickeln</td><td></td><td></td><td>4</td><td></td></tr>
 <tr><td>1</td><td>D1</td><td>Zuckerwaren- und Schokoladetechnologie 1 – a3 Roh-, Hilfs- und Zusatzstoffe, Pack- und Verbrauchsmaterial für die Produktion bereitstellen und kontrollieren – b2 Herstellungsprozesse von Lebensmitteln kontrollieren und dokumentieren – b3 Herstellungsprozesse von Lebensmitteln überwachen und steuern – e2 Lebensmittel oder Getränke für weitere Prozesse freigeben – f2 Abweichungen in der Produktion von Lebensmitteln oder Getränken analysieren und Lösungen im Team entwickeln</td><td></td><td></td><td></td><td>2</td></tr>
 <tr><td>2</td><td>D2</td><td>Zuckerwaren- und Schokoladetechnologie 2 – a3 Roh-, Hilfs- und Zusatzstoffe, Pack- und Verbrauchsmaterial für die Produktion bereitstellen und kontrollieren – b2 Herstellungsprozesse von Lebensmitteln kontrollieren und dokumentieren – b3 Herstellungsprozesse von Lebensmitteln überwachen und steuern – e2 Lebensmittel oder Getränke für weitere Prozesse freigeben – f2 Abweichungen in der Produktion von Lebensmitteln oder Getränken analysieren und Lösungen im Team entwickeln</td><td></td><td></td><td></td><td>3</td></tr>
 <tr><td>2</td><td>D3</td><td>Rezepte entwickeln und umsetzen – a3 Roh-, Hilfs- und Zusatzstoffe, Pack- und Verbrauchsmaterial für die Produktion bereitstellen und kontrollieren – b2 Herstellungsprozesse von Lebensmitteln kontrollieren und dokumentieren – b3 Herstellungsprozesse von Lebensmitteln überwachen und steuern – e2 Lebensmittel oder Getränke für weitere Prozesse freigeben – f2 Abweichungen in der Produktion von Lebensmitteln oder Getränken analysieren und Lösungen im Team entwickeln</td><td></td><td></td><td></td><td>2</td></tr>
-<tr><td colspan="3">Total</td><td>10</td><td>7</td><td>8</td><td>7</td></tr>
+<tr><td colspan="3">Total</td><td>10</td><td>7</td><td>8</td><td>7[^8-1]</td></tr>
 </table>
+
+[^8-1]: Berichtigung vom 15. April 2026 ([AS 2026 150](https://fedlex.data.admin.ch/eli/oc/2026/150)).
 
 #### Art. 9
 

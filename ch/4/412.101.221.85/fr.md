@@ -3,18 +3,18 @@ sr: "412.101.221.85"
 title: Ordonnance du SEFRI du 3 mai 2024 sur la formation professionnelle initiale dans les professions avec CFC du champ professionnel «technologie des denrées alimentaires»
 eli: "https://fedlex.data.admin.ch/eli/cc/2024/238"
 language: fr
-version: 2026-01-01
+version: 2026-04-15
 adopted: 2024-05-03
 in_force: 2025-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/238/20260101/fr/xml/fedlex-data-admin-ch-eli-cc-2024-238-20260101-fr-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2024/238/20260101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/238/20260415/fr/xml/fedlex-data-admin-ch-eli-cc-2024-238-20260415-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2024/238/20260415/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance du SEFRI sur la formation professionnelle initiale dans les professions avec CFC du champ professionnel «technologie des denrées alimentaires»
 
-du 3 mai 2024 (État le 1<sup>er</sup> janvier 2026)
+du 3 mai 2024 (État le 15 avril 2026)
 
 <table>
 <tr><td>21418</td><td>Technologue en denrées alimentaires CFC Lebensmitteltechnologin EFZ / Lebensmitteltechnologe EFZ Tecnica alimentarista AFC / Tecnico alimentarista AFC</td></tr>
@@ -238,13 +238,15 @@ La formation à la pratique professionnelle en entreprise s’étend sur toute l
 <tr><td>2</td><td>A2</td><td>Produits de boulangerie de longue conservation – b2 Contrôler et documenter les processus de fabrication de denrées alimentaires – b3 Diriger et surveiller les processus de fabrication de denrées alimentaires – d1 Mettre en route les installations de remplissage ou d’emballage – e2 Libérer les denrées alimentaires ou les boissons pour les processus subséquents – f1 Analyser les dérangements courants sur les installations de production et y remédier</td><td>5</td><td></td><td></td><td></td></tr>
 <tr><td>2</td><td>B1</td><td>Produits carnés – b3 Diriger et surveiller les processus de fabrication de denrées alimentaires – d1 Mettre en route les installations de remplissage ou d’emballage</td><td></td><td>2</td><td></td><td></td></tr>
 <tr><td>2</td><td>B2</td><td>Convenience et substituts de viande – b3 Diriger et surveiller les processus de fabrication de denrées alimentaires – d1 Mettre en route les installations de remplissage ou d’emballage</td><td></td><td>5</td><td></td><td></td></tr>
-<tr><td>1</td><td>C1</td><td>Technologie des produits secs 1 – a3 Préparer et contrôler les matières premières, les matières auxiliaires et les additifs, les emballages ainsi que les consommables pour la production – a6 Accompagner l’introduction de denrées alimentaires ou de boissons nouvellement développées ou optimisées sur la ligne de production – b2 Contrôler et documenter les processus de fabrication de denrées alimentaires – b3 Diriger et surveiller les processus de fabrication de denrées alimentaires – e2 Libérer les denrées alimentaires ou les boissons pour les processus subséquents – f1 Analyser les dérangements courants sur les installations de production et y remédier – f2 Analyser les écarts dans la production de denrées alimentaires ou de boissons et développer des solutions au sein de l’équipe</td><td></td><td></td><td>4</td><td></td></tr>
+<tr><td>2</td><td>C1</td><td>Technologie des produits secs 1 – a3 Préparer et contrôler les matières premières, les matières auxiliaires et les additifs, les emballages ainsi que les consommables pour la production – a6 Accompagner l’introduction de denrées alimentaires ou de boissons nouvellement développées ou optimisées sur la ligne de production – b2 Contrôler et documenter les processus de fabrication de denrées alimentaires – b3 Diriger et surveiller les processus de fabrication de denrées alimentaires – e2 Libérer les denrées alimentaires ou les boissons pour les processus subséquents – f1 Analyser les dérangements courants sur les installations de production et y remédier – f2 Analyser les écarts dans la production de denrées alimentaires ou de boissons et développer des solutions au sein de l’équipe</td><td></td><td></td><td>4</td><td></td></tr>
 <tr><td>2</td><td>C2</td><td>Technologie des produits secs 2 – a3 Préparer et contrôler les matières premières, les matières auxiliaires et les additifs, les emballages ainsi que les consommables pour la production – a6 Accompagner l’introduction de denrées alimentaires ou de boissons nouvellement développées ou optimisées sur la ligne de production – b2 Contrôler et documenter les processus de fabrication de denrées alimentaires – b3 Diriger et surveiller les processus de fabrication de denrées alimentaires – e2 Libérer les denrées alimentaires ou les boissons pour les processus subséquents – f1 Analyser les dérangements courants sur les installations de production et y remédier – f2 Analyser les écarts dans la production de denrées alimentaires ou de boissons et développer des solutions au sein de l’équipe</td><td></td><td></td><td>4</td><td></td></tr>
 <tr><td>1</td><td>D1</td><td>Technologie de la confiserie et du chocolat 1 – a3 Préparer et contrôler les matières premières, les matières auxiliaires et les additifs, les emballages ainsi que les consommables pour la production – b2 Contrôler et documenter les processus de fabrication de denrées alimentaires – b3 Diriger et surveiller les processus de fabrication de denrées alimentaires – e2 Libérer les denrées alimentaires ou les boissons pour les processus subséquents – f2 Analyser les écarts dans la production de denrées alimentaires ou de boissons et développer des solutions au sein de l’équipe</td><td></td><td></td><td></td><td>2</td></tr>
 <tr><td>2</td><td>D2</td><td>Technologie de la confiserie et du chocolat 2 – a3 Préparer et contrôler les matières premières, les matières auxiliaires et les additifs, les emballages ainsi que les consommables pour la production – b2 Contrôler et documenter les processus de fabrication de denrées alimentaires – b3 Diriger et surveiller les processus de fabrication de denrées alimentaires – e2 Libérer les denrées alimentaires ou les boissons pour les processus subséquents – f2 Analyser les écarts dans la production de denrées alimentaires ou de boissons et développer des solutions au sein de l’équipe</td><td></td><td></td><td></td><td>3</td></tr>
 <tr><td>2</td><td>D3</td><td>Développer et mettre en œuvre des recettes – a3 Préparer et contrôler les matières premières, les matières auxiliaires et les additifs, les emballages ainsi que les consommables pour la production – b2 Contrôler et documenter les processus de fabrication de denrées alimentaires – b3 Diriger et surveiller les processus de fabrication de denrées alimentaires – e2 Libérer les denrées alimentaires ou les boissons pour les processus subséquents – f2 Analyser les écarts dans la production de denrées alimentaires ou de boissons et développer des solutions au sein de l’équipe</td><td></td><td></td><td></td><td>2</td></tr>
-<tr><td colspan="3">Total</td><td>10</td><td>7</td><td>8</td><td>7</td></tr>
+<tr><td colspan="3">Total</td><td>10</td><td>7</td><td>8</td><td>7 .[^8-1]</td></tr>
 </table>
+
+[^8-1]: Erratum du 15 avr. 2026 ([RO 2026 150](https://fedlex.data.admin.ch/eli/oc/2026/150)).
 
 #### Art. 9
 

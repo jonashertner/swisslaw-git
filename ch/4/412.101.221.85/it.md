@@ -3,18 +3,18 @@ sr: "412.101.221.85"
 title: Ordinanza della SEFRI del 3 maggio 2024 sulla formazione professionale di base delle professioni con AFC nel campo professionale «Tecnologie alimentari»
 eli: "https://fedlex.data.admin.ch/eli/cc/2024/238"
 language: it
-version: 2026-01-01
+version: 2026-04-15
 adopted: 2024-05-03
 in_force: 2025-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/238/20260101/it/xml/fedlex-data-admin-ch-eli-cc-2024-238-20260101-it-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2024/238/20260101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/238/20260415/it/xml/fedlex-data-admin-ch-eli-cc-2024-238-20260415-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2024/238/20260415/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza della SEFRI sulla formazione professionale di base delle professioni con AFC nel campo professionale «Tecnologie alimentari»
 
-del 3 maggio 2024 (Stato 1° gennaio 2026)
+del 3 maggio 2024 (Stato 15 aprile 2026)
 
 <table>
 <tr><td>21418</td><td>Tecnica alimentarista AFC / Tecnico alimentarista AFC Lebensmitteltechnologin EFZ / Lebensmitteltechnologe EFZ Technologue en denrées alimentaires CFC</td></tr>
@@ -238,13 +238,15 @@ La formazione professionale pratica in azienda comprende in media quattro giorna
 <tr><td>2</td><td>A2</td><td>Prodotti di panetteria fine e di biscotteria – b2 Controllare e documentare il processo di produzione di alimenti – b3 Monitorare e gestire il processo di produzione di alimenti – d1 Avviare gli impianti di riempimento o confezionamento – e2 Approvare alimenti o bevande per ulteriori processi – f1 Analizzare e risolvere semplici guasti agli impianti di produzione</td><td>5</td><td></td><td></td><td></td></tr>
 <tr><td>2</td><td>B1</td><td>Prodotti carnei – b3 Monitorare e gestire i processi di produzione di alimenti – d1 Avviare gli impianti di riempimento o confezionamento</td><td></td><td>2</td><td></td><td></td></tr>
 <tr><td>2</td><td>B2</td><td>Prodotti pronti e sostitutivi della carne – b3 Monitorare e gestire i processi di produzione di alimenti – d1 Avviare gli impianti di riempimento o confezionamento</td><td></td><td>5</td><td></td><td></td></tr>
-<tr><td>1</td><td>C1</td><td>Tecnologia dei prodotti secchi 1 – a3 Preparare e controllare materie prime, coadiuvanti, additivi, materiali di imballaggio e di consumo per la produzione – a6 Seguire l’introduzione di alimenti o bevande nuovi o perfezionati – b2 Controllare e documentare il processo di produzione di alimenti – b3 Monitorare e gestire il processo di produzione di alimenti – e2 Approvare alimenti o bevande per ulteriori processi – f1 Analizzare e risolvere semplici guasti agli impianti di produzione – f2 Analizzare anomalie nella produzione di alimenti e bevande e sviluppare soluzioni nel team</td><td></td><td></td><td>4</td><td></td></tr>
+<tr><td>2</td><td>C1</td><td>Tecnologia dei prodotti secchi 1 – a3 Preparare e controllare materie prime, coadiuvanti, additivi, materiali di imballaggio e di consumo per la produzione – a6 Seguire l’introduzione di alimenti o bevande nuovi o perfezionati – b2 Controllare e documentare il processo di produzione di alimenti – b3 Monitorare e gestire il processo di produzione di alimenti – e2 Approvare alimenti o bevande per ulteriori processi – f1 Analizzare e risolvere semplici guasti agli impianti di produzione – f2 Analizzare anomalie nella produzione di alimenti e bevande e sviluppare soluzioni nel team</td><td></td><td></td><td>4</td><td></td></tr>
 <tr><td>2</td><td>C2</td><td>Tecnologia dei prodotti secchi 2 – a3 Preparare e controllare materie prime, coadiuvanti, additivi, materiali di imballaggio e di consumo per la produzione – a6 Seguire l’introduzione di alimenti o bevande nuovi o perfezionati – b2 Controllare e documentare il processo di produzione di alimenti – b3 Monitorare e gestire il processo di produzione di alimenti – e2 Approvare alimenti o bevande per ulteriori processi – f1 Analizzare e risolvere semplici guasti agli impianti di produzione – f2 Analizzare anomalie nella produzione di alimenti o bevande e sviluppare soluzioni nel team</td><td></td><td></td><td>4</td><td></td></tr>
 <tr><td>1</td><td>D1</td><td>Tecnologia dei prodotti dolciari e del cioccolato 1 – a3 Preparare e controllare materie prime, coadiuvanti, additivi, materiali di imballaggio e di consumo per la produzione – b2 Controllare e documentare il processo di produzione di alimenti – b3 Monitorare e gestire il processo di produzione di alimenti – e2 Approvare alimenti o bevande per ulteriori processi – f2 Analizzare anomalie nella produzione di alimenti o bevande e sviluppare soluzioni nel team</td><td></td><td></td><td></td><td>2</td></tr>
 <tr><td>2</td><td>D2</td><td>Tecnologia dei prodotti dolciari e del cioccolato 2 – a3 Preparare e controllare materie prime, coadiuvanti, additivi, materiali di imballaggio e di consumo per la produzione – b2 Controllare e documentare il processo di produzione di alimenti – b3 Monitorare e gestire il processo di produzione di alimenti – e2 Approvare alimenti o bevande per ulteriori processi – f2 Analizzare anomalie nella produzione di alimenti o bevande e sviluppare soluzioni nel team</td><td></td><td></td><td></td><td>3</td></tr>
 <tr><td>2</td><td>D3</td><td>Sviluppo e realizzazione di ricette – a3 Preparare e controllare materie prime, coadiuvanti, additivi, materiali di imballaggio e di consumo per la produzione – b2 Controllare e documentare il processo di produzione di alimenti – b3 Monitorare e gestire il processo di produzione di alimenti – e2 Approvare alimenti o bevande per ulteriori processi – f2 Analizzare anomalie nella produzione di alimenti o bevande e sviluppare soluzioni nel team</td><td></td><td></td><td></td><td>2</td></tr>
-<tr><td colspan="3">Totale</td><td>10</td><td>7</td><td>8</td><td>7</td></tr>
+<tr><td colspan="3">Totale</td><td>10</td><td>7</td><td>8</td><td>7.[^8-1]</td></tr>
 </table>
+
+[^8-1]: Correzione del 15 apr. 2026 ([RU 2026 150](https://fedlex.data.admin.ch/eli/oc/2026/150)).
 
 #### Art. 9
 
@@ -534,7 +536,7 @@ Essa svolge in particolare i compiti seguenti:
 
 L’ordinanza della SEFRI del 5 settembre 2012[^24-1] sulla formazione professionale di base Tecnologa alimentarista / Tecnologo alimentarista con attestato federale di capacità (AFC) è abrogata.
 
-[^24-1]: [[RU 2012 6277](https://fedlex.data.admin.ch/eli/oc/2012/741); [2017 7331](https://fedlex.data.admin.ch/eli/oc/2017/799)I 34, II 134; [2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)]
+[^24-1]: [[RU 2012 6277](https://fedlex.data.admin.ch/eli/oc/2012/741); [2017 7331](https://fedlex.data.admin.ch/eli/oc/2017/799)cifra I n. 34, cifra II n. 134; [2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)]
 
 #### Art. 25
 
