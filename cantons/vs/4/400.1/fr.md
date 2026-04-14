@@ -5,11 +5,12 @@ title: "Loi sur l'instruction publique"
 short: LIP
 language: fr
 version: 2026-01-01
+corrected: 2026-04-15
 version_adopted: 2024-05-15
 adopted: 1962-07-04
 in_force: 1963-09-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/400.1"
-pdf: "https://lex.vs.ch/api/fr/versions/3597/pdf_file"
+pdf: "https://lex.vs.ch/api/fr/versions/3376/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.

@@ -5,11 +5,12 @@ title: Gesetz über das öffentliche Unterrichtswesen
 short: GUW
 language: de
 version: 2026-01-01
+corrected: 2026-04-15
 version_adopted: 2024-05-15
 adopted: 1962-07-04
 in_force: 1963-09-01
 url: "https://lex.vs.ch/app/de/texts_of_law/400.1"
-pdf: "https://lex.vs.ch/api/de/versions/3597/pdf_file"
+pdf: "https://lex.vs.ch/api/de/versions/3376/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -142,7 +143,7 @@ beschliesst:
 <sup>1</sup> Der Unterricht auf der Primar- und Orientierungsschulstufe obliegt:
 
 - a) dem Staat für die pädagogischen Bereiche;
-- b) den Gemeinden für Fragen der Organisation und Logistik (Verbindung zu den Eltern, Transport, Mahlzeiten, Schultage, Gebäude usw.).
+- b) en Gemeinden für Fragen der Organisation und Logistik (Verbindung zu den Eltern, Transport, Mahlzeiten, Schultage, Gebäude usw.).
 
 <sup>2</sup> Mit Zustimmung des Departements kann eine Gemeinde mit einer öffentlichen oder privaten Bildungsanstalt einen Vertrag abschliessen, um ihr die Erteilung dieses Unterrichtes zu übertragen.
 
