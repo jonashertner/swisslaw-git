@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Révision de l’ordonnance 2 relative à la loi sur le travail : Disposition spéciale pour les travailleurs de jeunes entreprises détenant des participations dans l’entreprise (art. 32c OLT 2)"
 document: Projet mis en consultation
 language: fr

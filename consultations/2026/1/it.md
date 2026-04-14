@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Modifica dell’ordinanza 2 concernente la legge sul lavoro: Disposizione speciale per lavoratori di giovani aziende che detengono partecipazioni nell’azienda (art. 32c OLL 2)"
 document: Progetto posto in consultazione
 language: it

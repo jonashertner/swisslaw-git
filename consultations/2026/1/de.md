@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Änderung der Verordnung 2 zum Arbeitsgesetz: Sonderbestimmung für Arbeitnehmende mit Unternehmensbeteiligung in Jungunternehmen (Art. 32c ArGV 2)"
 document: Vernehmlassungsvorlage
 language: de
