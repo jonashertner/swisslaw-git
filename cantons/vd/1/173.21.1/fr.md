@@ -4,7 +4,7 @@ number: "173.21.1"
 title: "RÈGLEMENT du 23.08.2024 d'organisation et de fonctionnement du Ministère public (ROFMPu)"
 short: ROFMPu
 language: fr
-version: 2024-10-01
+version: 2026-04-17
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/173.21.1?id=b603dad4-2a22-4083-b06a-e5b6b904116f"
 ---
 
@@ -98,7 +98,7 @@ vu les articles 28 et 29 de la loi vaudoise d'introduction du Code de procédure
 
 **Composition de la Direction élargie [^6-1]**
 
-<sup>1</sup> La Direction élargie est composée des membres du Collège et des autres procureurs dirigeants.
+<sup>1</sup> La Direction élargie est composée des membres du Collège, des autres procureurs dirigeants et du Secrétaire général.
 
 <sup>2</sup> Il ne doit exister aucune parenté ni alliance en ligne directe, ni aucune parenté en ligne collatérale jusqu'au troisième degré inclusivement, ni partenariat enregistré ou vie de couple de fait entre deux membres de la Direction élargie.
 
@@ -140,25 +140,25 @@ vu les articles 28 et 29 de la loi vaudoise d'introduction du Code de procédure
 
 #### Art. 10
 
-**Direction administrative [^9-1]**
+**Secrétariat général [^9-1]**
 
-<sup>1</sup> La direction administrative est chargée des tâches d'organisation et de gestion de l'ensemble du Ministère public. Elle est placée sous la responsabilité d'un directeur administratif.
+<sup>1</sup> Le secrétariat général est chargé des tâches d'organisation et de gestion de l'ensemble du Ministère public. Il est placé sous la responsabilité d'un Secrétaire général.
 
-<sup>2</sup> Le Directeur administratif est subordonné au Collège.
+<sup>2</sup> Le Secrétaire général est subordonné au Collège.
 
 [^9-1]: Modif. 1 du 17.04.2026: Modification tArt; entrée en vigueur au 17.04.2026; Modification Al. 1-2; entrée en vigueur au 17.04.2026
 
 #### Art. 11
 
-**Attributions du Directeur administratif [^10-1]**
+**Attributions du Secrétaire général [^10-1]**
 
-<sup>1</sup> Le Directeur administratif élabore la planification fonctionnelle et administrative du Ministère public, qui détermine notamment les objectifs, les besoins, les ressources à obtenir et les délais de réalisation. Il la soumet au Collège.
+<sup>1</sup> Le Secrétaire général élabore la planification fonctionnelle et administrative du Ministère public, qui détermine notamment les objectifs, les besoins, les ressources à obtenir et les délais de réalisation. Il la soumet au Collège.
 
-<sup>2</sup> Dans ses domaines de compétence, le Directeur administratif est le répondant des services de l'Etat et des autres partenaires du Ministère public.
+<sup>2</sup> Dans ses domaines de compétence, le Secrétaire général est le répondant des services de l'Etat et des autres partenaires du Ministère public.
 
-<sup>3</sup> Le Directeur administratif élabore le projet de budget du Ministère public selon les directives du Collège et le lui soumet. Il présente régulièrement au Collège le suivi des dépenses et lui soumet les demandes de crédits supplémentaires. Il établit les comptes annuels et les soumet au Collège.
+<sup>3</sup> Le Secrétaire général élabore le projet de budget du Ministère public selon les directives du Collège et le lui soumet. Il présente régulièrement au Collège le suivi des dépenses et lui soumet les demandes de crédits supplémentaires. Il établit les comptes annuels et les soumet au Collège.
 
-<sup>4</sup> Le Directeur administratif assure un appui à toutes les entités du Ministère public en matière de gestion des processus et d'organisation. Il peut édicter des instructions à des fins de coordination. Il organise et dirige les remises des ministères publics.
+<sup>4</sup> Le Secrétaire général assure un appui à toutes les entités du Ministère public en matière de gestion des processus et d'organisation. Il peut édicter des instructions à des fins de coordination. Il organise et dirige les remises des ministères publics.
 
 [^10-1]: Modif. 1 du 17.04.2026: Modification tArt; entrée en vigueur au 17.04.2026; Modification Al. 1-4; entrée en vigueur au 17.04.2026
 
@@ -166,20 +166,19 @@ vu les articles 28 et 29 de la loi vaudoise d'introduction du Code de procédure
 
 **Ressources humaines du Ministère public [^11-1]**
 
-<sup>1</sup> La direction administrative contribue à la définition puis à la concrétisation de la stratégie du Ministère public en matière de ressources humaines. Elle veille à une gestion efficace des effectifs, notamment sous les angles de la définition des fonctions internes, du recrutement, de la formation et du suivi des collaborateurs.
+<sup>1</sup> Le secrétariat général contribue à la définition puis à la concrétisation de la stratégie du Ministère public en matière de ressources humaines. Il veille à une gestion efficace des effectifs, notamment sous les angles de la définition des fonctions internes, du recrutement, de la formation et du suivi des collaborateurs.
 
-<sup>2</sup> Sous réserve des fonctions dont l'engagement relève du Collège (art. 5 al. 3), le Directeur administratif est compétent pour l'engagement ainsi que pour l'affectation des collaborateurs du Ministère public (art. 15 al. 1 LMPu[^12-1]).
+<sup>2</sup> Sous réserve des fonctions dont l'engagement relève du Collège (art. 5 al. 3), toutes les prérogatives de l'autorité d'engagement sont déléguées au Secrétaire général ; il est notamment compétent pour l'engagement ainsi que pour l'affectation des collaborateurs du Ministère public (art. 15 al. 1 LMPu).
 
-<sup>3</sup> La direction administrative met en œuvre les plans de formations initiale et continue définis par le Collège, qui peuvent être rendus obligatoires. Elle veille au respect du budget alloué à la formation.
+<sup>3</sup> Le secrétariat général met en œuvre les plans de formations initiale et continue définis par le Collège, qui peuvent être rendus obligatoires. Il veille au respect du budget alloué à la formation.
 
 [^11-1]: Modif. 1 du 17.04.2026: Modification Al. 1-3; entrée en vigueur au 17.04.2026
-[^12-1]: Loi du 19.05.2009 sur le Ministère public ( [BLV 173.21](https://prestations.vd.ch/pub/blv-publication/actes/consolide/173.21?id=59558d17-e7c0-4013-ada9-cbbc5a28b5f5))
 
 #### Art. 13
 
-**Ministère public central [^12-2]**
+**Ministère public central [^12-1]**
 
-<sup>1</sup> Le MPc comprend le greffe du Procureur général, un appui administratif et juridictionnel au Collège, ainsi que la direction administrative.
+<sup>1</sup> Le MPc comprend le greffe du Procureur général, un appui administratif et juridictionnel au Collège, ainsi que le secrétariat général.
 
 <sup>2</sup> Pour l'exercice de ses activités juridictionnelles, le MPc est organisé en deux divisions :
 
@@ -188,7 +187,7 @@ vu les articles 28 et 29 de la loi vaudoise d'introduction du Code de procédure
 
 <sup>3</sup> Chaque division a, à sa tête, un Procureur général adjoint. Celui-ci exerce à l'égard de sa division les compétences prévues aux articles 18 et 19, sous réserve de l'article 9, alinéa 3.
 
-[^12-2]: Modif. 1 du 17.04.2026: Modification Al. 1; entrée en vigueur au 17.04.2026
+[^12-1]: Modif. 1 du 17.04.2026: Modification Al. 1; entrée en vigueur au 17.04.2026
 
 #### Art. 14
 
@@ -240,7 +239,7 @@ vu les articles 28 et 29 de la loi vaudoise d'introduction du Code de procédure
 
 <sup>1</sup> Les procureurs dirigeants des MPa ont le titre de Premier procureur. Ils dirigent administrativement leur entité et veillent à son bon fonctionnement. Ils peuvent édicter des instructions à cette fin. Ils coordonnent et contrôlent l'activité des procureurs et collaborateurs de leur entité. Ils veillent à l'utilisation efficiente des moyens qui leur sont alloués.
 
-<sup>2</sup> Les premiers procureurs renseignent régulièrement les procureurs de leur entité sur les aspects utiles à l'exercice de leur fonction. Ils les consultent lorsque leur avis est requis. Ils fournissent à temps au Collège et à la direction administrative toutes les informations qui sont nécessaires à la conduite et à la bonne marche du Ministère public.
+<sup>2</sup> Les premiers procureurs renseignent régulièrement les procureurs de leur entité sur les aspects utiles à l'exercice de leur fonction. Ils les consultent lorsque leur avis est requis. Ils fournissent à temps au Collège et au secrétariat général toutes les informations qui sont nécessaires à la conduite et à la bonne marche du Ministère public.
 
 <sup>3</sup> Les premiers procureurs déterminent et organisent les délégations de compétences dans les limites des instructions qu'ils reçoivent.
 
@@ -250,15 +249,15 @@ vu les articles 28 et 29 de la loi vaudoise d'introduction du Code de procédure
 
 **Ressources humaines des ministères publics d'arrondissement [^18-1]**
 
-<sup>1</sup> Les premiers procureurs informent la direction administrative de leurs besoins en matière d'engagement ou de remplacement du personnel. Un premier procureur participe à la sélection des candidats.
+<sup>1</sup> Les premiers procureurs informent le secrétariat général de leurs besoins en matière d'engagement ou de remplacement du personnel. Un premier procureur participe au processus de recrutement des candidats.
 
 <sup>2</sup> Les premiers procureurs veillent, au sein de leur entité, à la formation continue des procureurs et, avec l'appui de ces derniers, supervisent celle de leurs collaborateurs.
 
-<sup>3</sup> Les premiers procureurs répondent de la bonne marche de leur entité envers le Collège. Dans ce but, ils contrôlent notamment les absences des collaborateurs ; ils sont compétents pour ordonner des heures supplémentaires aux collaborateurs de leur entité et en informent sans délai la direction administrative pour validation ; ils coordonnent les absences des procureurs et s'assurent de leur suppléance effective ; ils contrôlent les dépenses de service.
+<sup>3</sup> Les premiers procureurs répondent de la bonne marche de leur entité envers le Collège. Dans ce but, ils contrôlent notamment les absences des collaborateurs ; ils sont compétents pour ordonner des heures supplémentaires aux collaborateurs de leur entité et en informent sans délai le secrétariat général pour validation ; ils coordonnent les absences des procureurs et s'assurent de leur suppléance effective ; ils contrôlent les dépenses de service.
 
 <sup>4</sup> Les premiers procureurs contribuent activement à la politique de relève du Ministère public et, dans ce but, procèdent à la détection et à l'évaluation des aspirations d'évolution des procureurs et collaborateurs de leur entité.
 
-<sup>5</sup> Les premiers procureurs soumettent à la direction administrative toute situation dans laquelle devrait être envisagée l'ouverture à l'encontre d'un collaborateur d'une procédure d'avertissement, respectivement de résiliation des relations de travail.
+<sup>5</sup> Les premiers procureurs soumettent au secrétariat général toute situation dans laquelle devrait être envisagée l'ouverture à l'encontre d'un collaborateur d'une procédure d'avertissement, respectivement de résiliation des relations de travail.
 
 [^18-1]: Modif. 1 du 17.04.2026: Modification Al. 1,3,5; entrée en vigueur au 17.04.2026
 
@@ -292,10 +291,9 @@ vu les articles 28 et 29 de la loi vaudoise d'introduction du Code de procédure
 
 **Voie de service [^22-1]**
 
-<sup>1</sup> Tout acte à transmettre au Collège par la voie de service (art. 20 RLPers[^23-1]) doit être remis au procureur dirigeant concerné, qui le fait suivre à la direction administrative en l'accompagnant le cas échéant de son préavis.
+<sup>1</sup> Tout acte à transmettre au Collège par la voie de service (art. 20 RLPers) doit être remis au procureur dirigeant concerné, qui le fait suivre au secrétariat général en l'accompagnant le cas échéant de son préavis.
 
 [^22-1]: Modif. 1 du 17.04.2026: Modification Al. 1; entrée en vigueur au 17.04.2026
-[^23-1]: Loi du 12.11.2001 sur le personnel de l'Etat de Vaud ([BLV 172.31](https://prestations.vd.ch/pub/blv-publication/actes/consolide/172.31?id=e938e89d-0adc-49e4-8d44-cca669bd6c98))
 
 ## Chapitre V RÈGLES GÉNÉRALES CONCERNANT LES PROCUREURS
 
@@ -343,9 +341,9 @@ vu les articles 28 et 29 de la loi vaudoise d'introduction du Code de procédure
 
 #### Art. 28
 
-**Procureurs ad hoc [^27-1]**
+**Procureurs ad interim [^27-1]**
 
-<sup>1</sup> En cas d'absence prolongée d'un procureur, le Collège peut nommer un procureur ad hoc en remplacement. Il procède par la voie d'appel.
+<sup>1</sup> En cas d'absence prolongée d'un procureur, le Collège peut nommer un procureur ad interim en remplacement. Il procède par la voie d'appel.
 
 [^27-1]: Modif. 1 du 17.04.2026: Modification tArt; entrée en vigueur au 17.04.2026; Modification Al. 1; entrée en vigueur au 17.04.2026
 
@@ -365,7 +363,7 @@ vu les articles 28 et 29 de la loi vaudoise d'introduction du Code de procédure
 
 <sup>3</sup> Toute désignation doit être précédée d'un appel interne à candidatures.
 
-<sup>4</sup> Le présent article est applicable par analogie aux suppléants des procureurs dirigeants.
+<sup>4</sup> Le présent article est applicable par analogie aux suppléants des procureurs dirigeants ; l'appel interne se limite à l'entité concernée.
 
 [^29-1]: Modif. 1 du 17.04.2026: Modification Al. 4; entrée en vigueur au 17.04.2026
 
@@ -425,13 +423,13 @@ vu les articles 28 et 29 de la loi vaudoise d'introduction du Code de procédure
 
 **Activités à temps partiel ou accessoires [^35-1]**
 
-<sup>1</sup> Les procureurs et collaborateurs du Ministère public doivent annoncer toute activité à temps partiel ou accessoire à la direction administrative.
+<sup>1</sup> Les procureurs et collaborateurs du Ministère public doivent annoncer toute activité à temps partiel ou accessoire au secrétariat général.
 
 <sup>2</sup> Le Collège s'assure que les activités à temps partiel ou accessoires des procureurs sont compatibles avec la charge de ces derniers (art. 12 et 13 LMPu[^36-1]).
 
 <sup>3</sup> Les revenus provenant d'activités accessoires des procureurs peuvent être sujets à rétrocession.
 
-<sup>4</sup> Le Directeur administratif statue en matière d'activités accessoires ou de charges publiques s'agissant des collaborateurs du Ministère public.
+<sup>4</sup> Le Secrétaire général statue en matière d'activités accessoires ou de charges publiques s'agissant des collaborateurs du Ministère public.
 
 [^35-1]: Modif. 1 du 17.04.2026: Modification Al. 1,4; entrée en vigueur au 17.04.2026
 [^36-1]: Loi du 19.05.2009 sur le Ministère public ( [BLV 173.21](https://prestations.vd.ch/pub/blv-publication/actes/consolide/173.21?id=59558d17-e7c0-4013-ada9-cbbc5a28b5f5))
@@ -446,7 +444,7 @@ vu les articles 28 et 29 de la loi vaudoise d'introduction du Code de procédure
 
 **Visites des ministères publics [^37-1]**
 
-<sup>1</sup> Au moins une fois l'an, afin de renforcer la communication et l'échange avec les membres du Ministère public, le Collège ou une délégation de ce dernier et le Directeur administratif visitent les entités du Ministère public pour évoquer les problématiques administratives, organisationnelles ou juridictionnelles, ainsi que tout autre aspect relevant du fonctionnement du Ministère public.
+<sup>1</sup> Au moins une fois l'an, afin de renforcer la communication et l'échange avec les membres du Ministère public, le Collège ou une délégation de ce dernier et le Secrétaire général visitent les entités du Ministère public pour évoquer les problématiques administratives, organisationnelles ou juridictionnelles, ainsi que tout autre aspect relevant du fonctionnement du Ministère public.
 
 [^37-1]: Modif. 1 du 17.04.2026: Modification Al. 1; entrée en vigueur au 17.04.2026
 
@@ -462,9 +460,9 @@ vu les articles 28 et 29 de la loi vaudoise d'introduction du Code de procédure
 
 **Statistiques et rapports annuels [^chapterChapitreVIII-1]**
 
-<sup>1</sup> Les procureurs dirigeants adressent les tableaux statistiques et leur rapport annuel au Directeur administratif dans les délais fixés par le Collège.
+<sup>1</sup> Les procureurs dirigeants adressent les tableaux statistiques et leur rapport annuel au Secrétaire général dans les délais fixés par le Collège.
 
-<sup>2</sup> Le Directeur administratif transmet ces documents au Procureur général, avec ses éventuelles remarques et toutes données chiffrées ou autres informations utiles. Il y joint son propre rapport annuel.
+<sup>2</sup> Le Secrétaire général transmet ces documents au Procureur général, avec ses éventuelles remarques et toutes données chiffrées ou autres informations utiles. Il y joint son propre rapport annuel.
 
 <sup>3</sup> Après qu'il a été adressé au Conseil de la magistrature, le Collège publie le rapport d'activité annuel du Ministère public.
 
