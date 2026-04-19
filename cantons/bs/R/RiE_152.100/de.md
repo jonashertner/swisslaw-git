@@ -3,13 +3,12 @@ canton: BS
 number: RiE 152.100
 title: Geschäftsordnung des Einwohnerrats der Einwohnergemeinde Riehen
 language: de
-version: 2024-01-01
-valid_until: 2026-04-19
-version_adopted: 2023-11-22
+version: 2026-04-20
+version_adopted: 2025-11-26
 adopted: 2002-10-24
 in_force: 2003-01-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/RiE%20152.100"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6116/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6802/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +17,7 @@ pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6116/pdf_file"
 
 Geschäftsordnung des Einwohnerrates | Riehen: Einwohnergemeinde
 
-Vom 24. Oktober 2002 (Stand 1. Januar 2024)
+Vom 24. Oktober 2002 (Stand 20. April 2026)
 
 Der Einwohnerrat der Einwohnergemeinde Riehen
 
@@ -524,15 +523,19 @@ erlässt auf Antrag seiner Kommission und gestützt auf die §§ 21 Abs. 3 lit. 
 
 **Finanzkommission**
 
-<sup>1</sup> Die Finanzkommission besteht in der Regel aus sieben bis elf Mitgliedern. Bei der Zusammensetzung der Kommission berücksichtigt der Einwohnerrat die Stärke der Fraktionen.
+<sup>1</sup> Die Finanzkommission besteht aus 7 bis 11 Mitgliedern. Bei der Zusammensetzung der Kommission berücksichtigt der Einwohnerrat die Stärke der Fraktionen.
 
 <sup>2</sup> Der Finanzkommission obliegt die Aufsicht über den Finanzhaushalt der Gemeinde. Sie hat insbesondere folgende Aufgaben:
 
 - a) Prüfung, Berichterstattung und Antragsstellung an den Einwohnerrat:
   - 1\. zum Aufgaben- und Finanzplan, Budget und Jahresbericht aus finanzieller Sicht,
   - 2\. zu den finanziell orientierten Entwicklungszielen,
-  - 3\. zu weiteren Geschäften und Berichten, soweit aus übergeordneter finanzpolitischer Sicht ein Bedarf besteht;
+  - 3\. zu weiteren Geschäften und Berichten, soweit aus finanzpolitischer Sicht ein Bedarf besteht;
 - b) Diskussion der Finanzstrategie und der Planungsrichtlinien und Unterbreitung von Empfehlungen an den Gemeinderat.
+
+<sup>3</sup> Die Finanzkommission hat das Recht zur Einsicht in sämtliche Gemeindeakten, soweit nicht schwerwiegende private oder öffentliche Interessen entgegenstehen.
+
+<sup>4</sup> Behördenmitglieder und Mitarbeitende der Gemeinde sind ihr gegenüber auskunftspflichtig.
 
 #### § 43b
 
@@ -590,12 +593,7 @@ erlässt auf Antrag seiner Kommission und gestützt auf die §§ 21 Abs. 3 lit. 
 - d) sie können zum Jahresbericht, soweit er den Stand der Zielerreichung betrifft, einen Bericht verfassen;
 - e) sie können parlamentarische Vorstösse einreichen.
 
-<sup>2</sup> Zu ihren Aufgaben gehören insbesondere:
-
-- a) die Vorberatung der Leistungsaufträge zu Handen des Rats;
-- b) die Antragstellung betreffend Erlass und Änderung von Leistungsaufträgen;
-- c) die Vorberatung der Verpflichtungskredite;
-- d) die Wirkungskontrolle anhand der periodischen Leistungsberichte.
+<sup>2</sup> …
 
 <sup>3</sup> Die Sachkommissionen können innerhalb ihres Aufgabenbereichs von sich aus Themen aufgreifen und parlamentarische Vorstösse einreichen.
 
