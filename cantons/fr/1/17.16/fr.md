@@ -4,13 +4,12 @@ number: "17.16"
 title: "Ordonnance sur la sécurité de l'information"
 short: OSI
 language: fr
-version: 2023-08-01
-valid_until: 2026-04-20
-version_adopted: 2023-07-06
+version: 2026-04-21
+version_adopted: 2026-04-21
 adopted: 2023-07-06
 in_force: 2023-08-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/17.16"
-pdf: "https://bdlf.fr.ch/api/fr/versions/7807/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/8539/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +20,7 @@ Sécurité de l'information – O
 
 (OSI)
 
-du 06.07.2023 (version entrée en vigueur le 01.08.2023)
+du 06.07.2023 (version entrée en vigueur le 21.04.2026)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -176,7 +175,7 @@ Arrête:
 <sup>1</sup> Dans l'accomplissement de ses tâches, le ou la délégué‑e SI collabore et échange des informations avec:
 
 - a) la CSG;
-- b) les Présidents des commissions spécialisées de l'informatique cantonale (CoCyb, CIEns, etc.);
+- b) les présidents des commissions spécialisées de l'informatique cantonale au sens de l'article 15 de l'ordonnance sur la gouvernance de la digitalisation et des systèmes d'information de l'Etat (OGDSI);
 - c) la ou les personnes responsables de la sécurité informatique au sein du SITel;
 - d) les personnes responsables de la sécurité de l'information de l'administration et celles des unités autonomes au sens de l'article 2 al. 2;
 - e) les responsables du traitement;
@@ -197,7 +196,7 @@ Arrête:
 - b) il participe à l'échange d'informations, notamment sur la gestion des risques, sur les meilleures pratiques et sur les problèmes et les incidents dans le domaine de la sécurité de l'information;
 - c) il assiste le ou la délégué‑e SI dans l'élaboration des différents documents qu'il ou elle doit rédiger en vertu de la présente ordonnance.
 
-<sup>3</sup> Le réseau, présidé par le ou la délégué‑e SI, est composé du ou de la préposé‑e à la protection des données et d'au moins un représentant ou une représentante par Direction (correspondant ou correspondante SI). Il peut également accueillir des personnes responsables de la sécurité de l'information des unités autonomes, au sens de l'article 2 al. 2 de l'ordonnance du 28 juin 2021 sur la gouvernance de la digitalisation et des systèmes d'information de l'Etat, et des communes.
+<sup>3</sup> Le réseau, présidé par le ou la délégué‑e SI, est composé du ou de la préposé‑e à la protection des données et d'au moins un représentant ou une représentante par Direction (correspondant ou correspondante SI). Il peut également accueillir des personnes responsables de la sécurité de l'information des unités autonomes, au sens de l'article 2 al. 2 OGDSI , et des communes.
 
 ### 2.3 Organes spécialisés
 

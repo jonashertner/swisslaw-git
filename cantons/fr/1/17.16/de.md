@@ -4,13 +4,12 @@ number: "17.16"
 title: Verordnung über die Informationssicherheit
 short: ISV
 language: de
-version: 2023-08-01
-valid_until: 2026-04-20
-version_adopted: 2023-07-06
+version: 2026-04-21
+version_adopted: 2026-04-21
 adopted: 2023-07-06
 in_force: 2023-08-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/17.16"
-pdf: "https://bdlf.fr.ch/api/de/versions/7807/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/8539/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ Informationssicherheit – V
 
 (ISV)
 
-vom 06.07.2023 (Fassung in Kraft getreten am 01.08.2023)
+vom 06.07.2023 (Fassung in Kraft getreten am 21.04.2026)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -176,7 +175,7 @@ beschliesst:
 <sup>1</sup> Die oder der IS-Delegierte arbeitet bei der Erfüllung ihrer oder seiner Aufgaben mit folgenden Personen und Organen zusammen und tauscht mit ihnen Informationen aus:
 
 - a) mit der KGS;
-- b) mit den Präsidentinnen und Präsidenten der Fachkommissionen für die kantonale Informatik (EGovK, IKU usw.);
+- b) mit den Präsidentinnen und Präsidenten der Fachkommissionen für die kantonale Informatik gemäss Artikel 15 der Verordnung über die Governance der Digitalisierung und der Informationssysteme des Staates (GDISV);
 - c) mit der oder den Personen, die beim ITA für die IT-Sicherheit verantwortlich sind;
 - d) mit den Informationssicherheitsverantwortlichen der Verwaltung und der autonomen Einheiten nach Artikel 2 Abs. 2;
 - e) mit den Verantwortlichen für die Bearbeitung;
@@ -197,7 +196,7 @@ beschliesst:
 - b) Es beteiligt sich am Austausch von Informationen, namentlich über das Risikomanagement, über Best Practices sowie über Probleme und Vorfälle im Bereich Informationssicherheit.
 - c) Es unterstützt die IS-Delegierte oder den IS-Delegierten bei der Erarbeitung der verschiedenen Dokumente, die sie oder er gemäss dieser Verordnung verfassen muss.
 
-<sup>3</sup> Das Netzwerk steht unter dem Vorsitz der oder des IS-Delegierten und besteht aus der oder dem Datenschutzbeauftragten und mindestens einer Vertreterin oder einem Vertreter pro Direktion (IS-Ansprechperson). Informationssicherheitsverantwortliche der autonomen Einheiten nach Artikel 2 Abs. 2 der Verordnung vom 28. Juni 2021 über die Governance der Digitalisierung und der Informationssysteme des Staates und der Gemeinden können ihm ebenfalls angehören.
+<sup>3</sup> Das Netzwerk steht unter dem Vorsitz der oder des IS-Delegierten und besteht aus der oder dem Datenschutzbeauftragten und mindestens einer Vertreterin oder einem Vertreter pro Direktion (IS-Ansprechperson). Informationssicherheitsverantwortliche der autonomen Einheiten nach Artikel 2 Abs. 2 GDISV und der Gemeinden können ihm ebenfalls angehören.
 
 ### 2.3 Fachorgane
 
