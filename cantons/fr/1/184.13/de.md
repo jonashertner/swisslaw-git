@@ -4,13 +4,12 @@ number: "184.13"
 title: Verordnung über den virtuellen Schalter
 short: VSV
 language: de
-version: 2023-12-01
-valid_until: 2026-04-20
-version_adopted: 2023-11-20
+version: 2026-04-21
+version_adopted: 2026-04-21
 adopted: 2023-11-20
 in_force: 2023-12-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/184.13"
-pdf: "https://bdlf.fr.ch/api/de/versions/7874/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/8540/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ Virtueller Schalter – V
 
 (VSV)
 
-vom 20.11.2023 (Fassung in Kraft getreten am 01.12.2023)
+vom 20.11.2023 (Fassung in Kraft getreten am 21.04.2026)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -49,7 +48,7 @@ beschliesst:
 
 **Verantwortliche Organe**
 
-<sup>1</sup> Die Staatskanzlei (Kanzlei) ist das Organ, das mit der strategischen Ausrichtung des virtuellen Schalters beauftragt ist. Sie koordiniert dessen Entwicklung sowie die Einführung und die Nachverfolgung neuer Leistungen. Sie erlässt zu diesem Zweck die erforderlichen Richtlinien.
+<sup>1</sup> Die Informatikkommission Allgemeine Verwaltung (IKAV) ist das Organ, das mit der strategischen Ausrichtung des virtuellen Schalters beauftragt ist. Sie koordiniert dessen Entwicklung sowie die Einführung und die Nachverfolgung neuer Leistungen. Sie erlässt zu diesem Zweck die erforderlichen Richtlinien.
 
 <sup>2</sup> Für die technische Entwicklung, den technischen Unterhalt und Betrieb und die technische Weiterentwicklung sowie die Informatiksicherheit des Schalters ist gemäss der Verordnung vom 28. Juni 2021 über die Governance der Digitalisierung und der Informationssysteme des Staates (GDISV) das Amt für Informatik und Telekommunikation (ITA) zuständig.
 
@@ -172,7 +171,7 @@ beschliesst:
 
 <sup>1</sup> Die Staatskanzlei ist zuständig für das Erlassen von Allgemeinen Nutzungsbedingungen des virtuellen Schalters.
 
-<sup>2</sup> Jede neue Version oder wesentliche Änderung der Allgemeinen Nutzungsbedingungen wird vorab der E-Government-Kommission des Staates (EGovK) unterbreitet.
+<sup>2</sup> Jede neue Version oder wesentliche Änderung der Allgemeinen Nutzungsbedingungen wird vorab der IKAV unterbreitet.
 
 <sup>3</sup> Falls die Allgemeinen Nutzungsbedingungen geändert werden, wird jede Benutzerin und jeder Benutzer aufgefordert, die neuen Bedingungen zu akzeptieren. Solange die neuen Bedingungen nicht angenommen wurden, kann die Nutzung des virtuellen Schalters eingeschränkt oder gesperrt werden.
 
@@ -215,13 +214,13 @@ beschliesst:
 
 <sup>1</sup> Die Einrichtung jeder neuen Leistung im virtuellen Schalter bedarf der vorgängigen Zustimmung der zuständigen Direktion, die überprüft, ob die geltenden rechtlichen Grundlagen eingehalten werden. Die autonomen Einheiten im Sinne von Artikel 2 Abs. 2 GDISV führen diese Überprüfung selbst durch.
 
-<sup>2</sup> Eine neue Leistung wird gemäss den Bestimmungen über das Management von Informatikprojekten gemäss GDISV hinzugefügt. Die EGovK führt eine Roadmap der Leistungen und legt deren Priorisierung bei der Umsetzung fest.
+<sup>2</sup> Eine neue Leistung wird gemäss den Bestimmungen über das Management von Informatikprojekten gemäss GDISV hinzugefügt. Die IKAV führt eine Roadmap der Leistungen und legt deren Priorisierung bei der Umsetzung fest.
 
 #### Art. 15
 
 **Online-Leistungen der Verwaltung – Leistungen von Gemeinden und Gemeindeverbänden**
 
-<sup>1</sup> Die Einrichtung neuer Leistungen der Gemeinden wird in einer Vereinbarung zwischen dem Staat und den Gemeinden geregelt. Das Genehmigungsorgan im Sinne von Artikel 14 Abs. 1 ist der Freiburger Gemeindeverband oder ein anderes von ihm bezeichnetes Organ. Die EGovK nimmt die Leistungen der Gemeinden in ihre Roadmap auf.
+<sup>1</sup> Die Einrichtung neuer Leistungen der Gemeinden wird in einer Vereinbarung zwischen dem Staat und den Gemeinden geregelt. Das Genehmigungsorgan im Sinne von Artikel 14 Abs. 1 ist der Freiburger Gemeindeverband oder ein anderes von ihm bezeichnetes Organ. Die IKAV nimmt die Leistungen der Gemeinden in ihre Roadmap auf.
 
 <sup>2</sup> Das Hinzufügen und das Verwalten von Leistungen der Gemeinden im virtuellen Schalter werden von den Gemeinden finanziert. Der Staatsrat kann aber eine bis zum 31. Dezember 2026 befristete finanzielle Unterstützung vorsehen.
 

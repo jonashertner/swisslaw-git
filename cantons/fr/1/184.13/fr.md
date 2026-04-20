@@ -4,13 +4,12 @@ number: "184.13"
 title: Ordonnance sur le guichet virtuel
 short: OGV
 language: fr
-version: 2023-12-01
-valid_until: 2026-04-20
-version_adopted: 2023-11-20
+version: 2026-04-21
+version_adopted: 2026-04-21
 adopted: 2023-11-20
 in_force: 2023-12-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/184.13"
-pdf: "https://bdlf.fr.ch/api/fr/versions/7874/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/8540/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +20,7 @@ Guichet virtuel – O
 
 (OGV)
 
-du 20.11.2023 (version entrée en vigueur le 01.12.2023)
+du 20.11.2023 (version entrée en vigueur le 21.04.2026)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -49,7 +48,7 @@ Arrête:
 
 **Organes responsables**
 
-<sup>1</sup> La Chancellerie d'Etat (ci-après: la Chancellerie) est l'organe de gestion stratégique du guichet. Elle coordonne son développement ainsi que la mise en place et le suivi des nouvelles prestations. Elle édicte à cette fin les directives nécessaires.
+<sup>1</sup> La commission informatique de l'administration générale (ci-après: la CIAG) est l'organe de gestion stratégique du guichet. Elle coordonne son développement ainsi que la mise en place et le suivi des nouvelles prestations. Elle édicte à cette fin les directives nécessaires.
 
 <sup>2</sup> Le développement, l'entretien, l'exploitation, l'évolution techniques et la sécurité informatique du guichet sont du ressort du Service de l'informatique et des télécommunications (ci-après: le SITel) conformément à l'ordonnance sur la gouvernance de la digitalisation et des systèmes d'information de l'Etat (OGDSI).
 
@@ -91,7 +90,7 @@ Arrête:
 
 <sup>2</sup> L'usager ou l'usagère qui craint une utilisation abusive de ses droits en avertit immédiatement le SITel. Celui-ci bloque le compte concerné sur le guichet virtuel et prend, au besoin, les mesures d'investigation nécessaires.
 
-<sup>3</sup> La personne qui accède involontairement à des données alors qu'elle n'y est pas dûment autorisée les détruit et en informe l'autorité administrative compétente ou, si cette dernière n'est pas identifiable, la Chancellerie.
+<sup>3</sup> La personne qui accède involontairement à des données alors qu'elle n'y est pas dûment autorisée les détruit et en informe l'autorité administrative compétente ou, si cette dernière n'est pas identifiable, la Chancellerie d'Etat (ci-après: la Chancellerie).
 
 #### Art. 6
 
@@ -172,7 +171,7 @@ Arrête:
 
 <sup>1</sup> La Chancellerie est compétente pour édicter les conditions générales d'utilisation du guichet virtuel.
 
-<sup>2</sup> Toute nouvelle version ou modification importante des conditions générales d'utilisation est préalablement présentée à la Commission de cyberadministration de l'Etat (ci-après: la CoCyb).
+<sup>2</sup> Toute nouvelle version ou modification importante des conditions générales d'utilisation est préalablement présentée à la CIAG.
 
 <sup>3</sup> En cas de modification des conditions générales d'utilisation, chaque usager et usagère est invité‑e à accepter les nouvelles conditions. Tant que les nouvelles conditions n'ont pas été acceptées, l'utilisation du guichet peut être restreinte ou bloquée.
 
@@ -215,13 +214,13 @@ Arrête:
 
 <sup>1</sup> La mise en place de toute nouvelle prestation sur le guichet virtuel est soumise à l'approbation préalable de la Direction concernée qui vérifie qu'elle respecte les bases légales applicables. Les unités autonomes au sens de l'article 2 al. 2 OGDSI effectuent elles-mêmes cette vérification.
 
-<sup>2</sup> L'ajout d'une nouvelle prestation suit les règles concernant la gestion des projets informatiques prévues dans l'OGDSI. La CoCyb tient une feuille de route des prestations et en fixe l'ordre de priorité.
+<sup>2</sup> L'ajout d'une nouvelle prestation suit les règles concernant la gestion des projets informatiques prévues dans l'OGDSI. La CIAG tient une feuille de route des prestations et en fixe l'ordre de priorité.
 
 #### Art. 15
 
 **Prestations administratives en ligne – Prestations communales et des associations de communes**
 
-<sup>1</sup> La mise en place de nouvelles prestations communales est réglée au moyen d'une convention établie entre l'Etat et les communes. L'organe d'approbation au sens de l'article 14 al. 1 est l'Association des communes fribourgeoises ou tout autre organe qu'elle désigne. La CoCyb intègre les prestations communales dans sa feuille de route.
+<sup>1</sup> La mise en place de nouvelles prestations communales est réglée au moyen d'une convention établie entre l'Etat et les communes. L'organe d'approbation au sens de l'article 14 al. 1 est l'Association des communes fribourgeoises ou tout autre organe qu'elle désigne. La CIAG intègre les prestations communales dans sa feuille de route.
 
 <sup>2</sup> L'ajout et la gestion de prestations communales sur le guichet virtuel sont financés par les communes. Le Conseil d'Etat peut toutefois prévoir un soutien financier d'une durée limitée s'étendant jusqu'au 31 décembre 2026.
 
