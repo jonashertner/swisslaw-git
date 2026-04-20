@@ -4,13 +4,12 @@ number: "122.96.11"
 title: Verordnung über die Governance der Digitalisierung und der Informationssysteme des Staates
 short: GDISV
 language: de
-version: 2025-08-01
-valid_until: 2026-04-20
-version_adopted: 2025-06-17
+version: 2026-04-21
+version_adopted: 2026-04-21
 adopted: 2021-06-28
 in_force: 2021-07-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/122.96.11"
-pdf: "https://bdlf.fr.ch/api/de/versions/8391/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/8538/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ Governance der Digitalisierung und der Informationssysteme des Staates – V
 
 (GDISV)
 
-vom 28.06.2021 (Fassung in Kraft getreten am 01.08.2025)
+vom 28.06.2021 (Fassung in Kraft getreten am 21.04.2026)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -231,13 +230,16 @@ beschliesst:
 
 **IT-Fachkommissionen – Allgemeine Aufgaben**
 
-<sup>1</sup> Jede IT-Fachkommission — mit Ausnahme der Kommission der Generalsekretärinnen und Generalsekretäre für Informatikbelange — hat in ihrem Zuständigkeitsbereich die folgenden allgemeinen Aufgaben:
+<sup>1</sup> Die IT-Fachkommissionen haben in ihrem Zuständigkeitsbereich die folgenden allgemeinen Aufgaben:
 
-- a) Sie analysiert die Anträge der Leistungsempfängerinnen und -empfänger zur Digitalisierung und zu den Informationssystemen, wobei sie sicherstellt, dass sie kohärent sind, und beantragt ihre Aufnahme ins Projektportfolio, das sie der DIS unterbreitet.
-- b) Sie schlägt eine Prioritätenfolge der Projekte nach Massgabe der bewilligten finanziellen Mittel und vordefinierter Kriterien vor.
-- c) Sie wägt die finanziellen Bedürfnisse zwischen den Leistungsempfänger/innen ab und entscheidet bei Uneinigkeit.
-- d) Sie arbeitet bei der Umsetzung von Standardprojekten und Standardleistungen mit den Leistungsempfängerinnen und -empfängern und dem ITA zusammen.
-- e) Sie schlägt Projektportfoliovarianten vor, für die es einen strategischen oder politischen Entscheid braucht.
+- a) Sie arbeiten bei der Strategieplanung für die Informationssysteme und die Digitalisierung mit.
+- b) Sie managen das IT-Projektportfolio mit den in Kapitel 4 dieser Verordnung beschriebenen Governance-Instrumenten.
+- c) Sie unterstützen die Aufrechterhaltung der Betriebsfähigkeit, insbesondere das Lebenszyklusmanagement der Anwendungen.
+- d) Sie wirken aktiv an der Koordination mit den an der Digitalisierung Beteiligten mit.
+- e) Sie nehmen Abwägungen bezüglich des IT-Projektportfolios vor, insbesondere durch die Priorisierung von Projekten.
+- f) Im gegenseitigen Interesse aller und unter Einhaltung des geltenden finanzrechtlichen Rahmens genehmigen sie kommissionsinterne finanzielle Umverteilungen und vereinbaren Umverteilungen zwischen den Kommissionen, die der DIS zum Entscheid vorgelegt werden.
+
+<sup>2</sup> Die Wahrnehmung dieser Aufgaben zielt auf Integration und Vereinfachung der IT-Architektur des Staates, Wirtschaftlichkeit und Harmonisierung zur Optimierung des Dienstes für die Bevölkerung, sowie auf Effizienz und IT-Sicherheit.
 
 #### Art. 18
 
@@ -416,151 +418,151 @@ beschliesst:
 
 <sup>1</sup> Die Informatikdienstleistungen, die zum Zeitpunkt des Inkrafttretens dieser Verordnung für die autonomen Einheiten und für Dritte erbracht werden, müssen innerhalb von zwei Jahren nach Inkrafttreten dieser Verordnung in entsprechenden Vereinbarungen mit der Finanzdirektion formalisiert werden.
 
-## A1 ANHANG 1 – Informatikkommission für die Gerichtsbehörden (Art. 15)
+## A1
 
 #### Art. A1-1
 
-**Status**
-
-<sup>1</sup> Die Informatikkommission für die Gerichtsbehörden (IKGB) ist eine IT-Fachkommission im Sinne von Artikel 15. Ihr Zuständigkeitsbereich erstreckt sich auf alle Gerichtsbehörden, wie sie in Artikel 3 des Justizgesetzes vom 31. Mai 2010[^A11-1] definiert werden, mit Ausnahme der Oberamtspersonen.
-
-<sup>2</sup> Sie ist administrativ der Sicherheits-, Justiz- und Sportdirektion zugewiesen und wird von einer Kantonsrichterin oder einem Kantonsrichter präsidiert.
-
-<sup>3</sup> Sie verfügt über ein Büro, das von der Generalsekretärin oder vom Generalsekretär des Kantonsgerichts geleitet wird.
-
-[^A11-1]: SGF [130.1](https://bdlf.fr.ch/data/130.1/de)
+**…**
 
 #### Art. A1-2
 
-**Zusammensetzung**
-
-<sup>1</sup> Die IKGB setzt sich zusammen aus:
-
-- a) einer Kantonsrichterin oder einem Kantonsrichter, die oder der das Präsidium innehat;
-- b) der Generalsekretärin oder dem Generalsekretär des Kantonsgerichts, die oder der das Sekretariat führt;
-- c) einer Magistratsperson als Vertretung der Staatsanwaltschaft und des Zwangsmassnahmengerichts;
-- d) einer Magistratsperson als Vertretung der Bezirksgerichte;
-- e) einer Magistratsperson als Vertretung der Friedensgerichte;
-- f) einer Magistratsperson als Vertretung des Jugendstrafgerichts;
-- g) einer Person als Vertretung der Sicherheits-, Justiz- und Sportdirektion;
-- h) einer Person als Vertretung des ITA;
-- i) einer Person als Vertretung des Justizrats.
+**…**
 
 #### Art. A1-3
 
-**Aufgaben**
+**…**
 
-<sup>1</sup> Die IKGB hat folgende Aufgaben:
-
-- a) Sie definiert die allgemeine Ausrichtung der Digitalisierung und des Informationssystems der Gerichtsbehörden und sorgt für ihre Umsetzung.
-- b) Sie stellt den Bedarf fest und wirkt bei der Auswahl der Software-Anwendungen mit.
-- c) Sie nimmt Stellung zu den Budgeteingaben der Gerichtsbehörden im Bereich Digitalisierung und Informationssysteme.
-- d) Sie schlichtet bei allfälligen Streitigkeiten unter den Gerichtsbehörden im Bereich Digitalisierung und Informationssysteme.
-
-## A2 ANHANG 2 – Kommission für Informatik im Unterrichtswesen (Art. 15)
+## A2
 
 #### Art. A2-1
 
-**Status**
-
-<sup>1</sup> Die Kommission für Informatik im Unterrichtswesen (IKU) ist eine IT-Fachkommission im Sinne von Artikel 15.
-
-<sup>2</sup> Sie ist administrativ der Direktion für Bildung und kulturelle Angelegenheiten zugewiesen und wird von einer Dienstchefin oder einem Dienstchef im Unterrichtswesen bei der Direktion für Bildung und kulturelle Angelegenheiten, der Volkswirtschafts- und Berufsbildungsdirektion oder der Direktion der Institutionen und der Land- und Forstwirtschaft präsidiert.
-
-<sup>3</sup> Die Fachstelle Fritic führt ihr Sekretariat.
+**…**
 
 #### Art. A2-2
 
-**Zuständigkeitsbereich**
-
-<sup>1</sup> Der Zuständigkeitsbereich der IKU erstreckt sich auf:
-
-- a) die Schulen der Sekundarstufe 2, die Berufsfachschulen, das Interprofessionelle Weiterbildungszentrum, die für die Ausbildung zuständige Sektion von Grangeneuve, das Konservatorium sowie die sonstigen Schulen und Dienststellen, die im Unterrichtswesen vom ITA bereitgestellte Informatikmittel nutzen;
-- b) die Lehrpersonen, Schülerinnen und Schüler, Studierenden sowie auf die technischen und Verwaltungsangestellten, welche die Informationssysteme der Schulen aller Unterrichtsstufen nach Buchstabe a nutzen.
-
-<sup>2</sup> Die Bereiche in der Zuständigkeit der Gemeinden bleiben vorbehalten.
+**…**
 
 #### Art. A2-3
 
-**Besondere Aufgaben**
+**…**
 
-<sup>1</sup> Die IKU hat folgende besondere Aufgaben:
-
-- a) Sie nimmt Stellung zum Gesamtkonzept über die Informations- und Kommunikationstechnologien im Unterrichtswesen und sorgt dabei für Kohärenz, nutzt alle möglichen Synergien und beaufsichtigt die Umsetzung dieses Konzepts.
-- b) Sie erarbeitet die Stossrichtungen und beantragt der DIS die Aufnahme der pädagogischen, administrativen und technischen Projekte ihres Zuständigkeitsbereichs in das Projektportfolio.
-- c) Sie harmonisiert die Wahl der pädagogischen Informatikinstrumente, für die der Kanton zuständig ist.
-- d) Sie macht Vorschläge für die an den Schulen verwendeten Informatikmittel zur Verwaltung und wirkt bei der Auswahl mit.
-- e) Sie koordiniert die Budgeteingaben der kantonalen Schulen.
-- f) Sie fungiert als Schlichtungsorgan bei Konflikten oder besonderen Problemen im Bildungswesen.
-- g) Sie unterstützt die Fachstelle Fritic in ihren Koordinationsaufgaben.
-- h) Sie beschliesst die Kommunikationskonzepte und beaufsichtigt ihre Umsetzung.
-- i) Sie entscheidet, falls erforderlich, über die Prioritäten der Anträge auf Weiterentwicklung der Anwendungen.
-
-## A3 ANHANG 3 – Kommission für E-Government (Art. 15)
+## A3
 
 #### Art. A3-1
 
-**Status**
-
-<sup>1</sup> Die Kommission für E-Government (EGovK) ist eine IT-Fachkommission im Sinne von Artikel 15.
-
-<sup>2</sup> Sie ist administrativ der Staatskanzlei zugewiesen und wird von der Staatskanzlerin oder vom Staatskanzler präsidiert.
-
-<sup>3</sup> Das E-Government-Sekretariat des Staates führt ihr Sekretariat.
+**…**
 
 #### Art. A3-2
 
-**Zusammensetzung**
-
-<sup>1</sup> Die EGovK setzt sich aus sieben bis dreizehn vom Staatsrat ernannten Mitgliedern zusammen.
-
-<sup>2</sup> Ihr gehören mindestens eine Vertreterin oder ein Vertreter jeder Direktion, eine Vertreterin oder ein Vertreter der Oberämter und eine Vertreterin oder ein Vertreter der Gemeinden an.
+**…**
 
 #### Art. A3-3
 
-**Besondere Aufgaben**
+**…**
 
-<sup>1</sup> Die EGovK hat folgende besondere Aufgaben:
-
-- a) Sie schlägt unter Berücksichtigung der Entwicklungen auf nationaler Ebene die E-Government-Projekte im Rahmen des Richtplans vor und unterstützt sie.
-- a1) Sie legt die Priorisierung der zu entwickelnden E-Government-Leistungen fest.
-- b) Sie wird zu Entwürfen von Dokumenten mit Bezug zum E-Government (Gesetze, Verordnungen, Richtlinien, Strategien, Konzepte usw.) angehört.
-- c) Sie fördert die Erarbeitung und Umsetzung von E-Government-Initiativen.
-- d) Sie koordiniert die Umsetzung des Richtplans im Bereich E-Government.
-- e) Sie koordiniert die Mitwirkung des Staates in E-Government-Projekten, die von den Freiburger Gemeinden durchgeführt werden.
-- f) Sie hält sich über das Vorgehen und den Erfahrungs- und Informationsaustausch zwischen der Kantonsverwaltung und den E-Government-Organen des Bundes und der anderen Kantone auf dem Laufenden.
-- g) Sie validiert den Informatikbudgetentwurf im Bereich E-Government zuhanden der DIS.
-
-<sup>2</sup> Die Mitglieder der EGovK, die als Vertreterin oder Vertreter einer Direktion, der Oberämter oder der Gemeinden fungieren, sind auch das Bindeglied zwischen der EGovK und den vertretenen Organisationen. Sie erleichtern die Umsetzung der von der EGovK unterstützten E-Government-Projekte auf ihrer Stufe und halten die EGovK über deren Fortschritt auf dem Laufenden. Sie können von der EGovK verlangen, dass sie die Umsetzung spezifischer E-Government-Projekte vorschlägt und/oder unterstützt.
-
-## A4 ANHANG 4 – Kommission der Generalsekretärinnen und Generalsekretäre für Informatikbelange (Art. 15)
+## A4
 
 #### Art. A4-1
 
-**Status**
-
-<sup>1</sup> Die Kommission der Generalsekretärinnen und Generalsekretäre für Informatikbelange (KGSI) ist eine IT-Fachkommission im Sinne von Artikel 15.
-
-<sup>2</sup> Sie ist administrativ der Staatskanzlei zugewiesen und wird von einer Generalsekretärin oder einem Generalsekretär präsidiert.
+**…**
 
 #### Art. A4-2
 
-**Zuständigkeitsbereich**
-
-<sup>1</sup> Die KGSI deckt die Bereiche ab, die nicht von anderen Fachkommissionen abgedeckt werden.
+**…**
 
 #### Art. A4-3
 
-**Besondere Aufgaben**
+**…**
 
-<sup>1</sup> Die KGSI hat folgende besondere Aufgaben:
+## A4a Anhang 4a – Status und Aufgaben der IT-Fachkommissionen
 
-- a) Sie nimmt Kenntnis davon, inwieweit die Zielsetzungen und die Mittel für die Projekte in ihrem Bereich voneinander abweichen.
-- b) Sie entscheidet in enger Zusammenarbeit mit dem ITA über die harmonisierten Grundsätze, nach denen die einzelnen Direktionen ihre eigene Prioritäten im Zuständigkeitsbereich der KGSI setzen müssen.
-- c) Sie prüft die Anträge und die Projekte und nimmt sie gegebenenfalls ins Projektportfolio auf, das sie der DIS vorschlägt.
-- d) Sie unterbreitet der DIS ein Portfolio von direkt umsetzbaren Projekten oder eine Auswahl von direkt umsetzbaren Projektvarianten, für die es einen strategischen oder politischen Entscheid braucht.
-- e) Sie steht den Projektsteuerungsausschüssen für besondere Problemlösungen zur Verfügung.
-- f) Sie nimmt gegebenenfalls Stellung zu den vom ITA erarbeiteten Fachrichtlinien.
+#### Art. A4a-1
+
+**Status im Allgemeinen**
+
+<sup>1</sup> Die IT-Fachkommissionen werden gemäss den Artikeln 16, 17 und 18 dieser Verordnung eingesetzt.
+
+<sup>2</sup> Sie werden von der Staatskanzlerin oder vom Staatskanzler oder von einer Generalsekretärin oder einem Generalsekretär geleitet, die oder der hauptsächlich für den Bereich oder die Bereiche zuständig ist, den oder die die jeweilige Fachkommission abdeckt.
+
+<sup>3</sup> Der Staatsrat ernennt die Mitglieder der IT-Fachkommissionen.
+
+<sup>4</sup> Das Sekretariat der IT-Fachkommission wird von einer von der jeweiligen Kommissionsleitung bezeichneten und ihr zugewiesenen Stelle geführt.
+
+<sup>5</sup> Das ITA ist in den IT-Fachkommissionen mit beratender Stimme vertreten und unterstützt sie bei der Planung ihrer Informationssysteme, beim IT-Projektmanagement und bei der Aufrechterhaltung der Betriebsfähigkeit sowie bei der Budget- und Rechnungskontrolle.
+
+#### Art. A4a-2
+
+**Allgemeine Aufgaben**
+
+<sup>1</sup> In Ergänzung zu Artikel 17 dieser Verordnung haben die IT-Fachkommissionen in ihrem jeweiligen Zuständigkeitsbereich die folgenden allgemeinen Aufgaben.
+
+#### Art. A4a-3
+
+**Strategische Planung**
+
+<sup>1</sup> Die IT-Fachkommissionen legen die Grundzüge der strategischen Ausrichtung der Digitalisierung der staatlichen Leistungen fest oder geben ihre Stellungnahme dazu ab, gewährleisten ein einheitliches Vorgehen und kontrollieren die Umsetzung.
+
+<sup>2</sup> Sie fördern die Entwicklung und Realisierung von Projekten mit hohem Mehrwert für den Staat, beschliessen die geeigneten Kommunikationsmassnahmen und sorgen für ihre Umsetzung.
+
+<sup>3</sup> Sie gewährleisten die strategische Abstimmung des Projektportfolios mit den Rahmenvorgaben (Richtplan, Leitschema) und unterstützen die Projektumsetzung.
+
+<sup>4</sup> Sie gewährleisten die Einhaltung der Budgetvorgaben für das Projektportfolio und die optimale Zuweisung sowohl interner als auch externer Mittel im Hinblick auf die Budgetanträge bei der IKS.
+
+<sup>5</sup> Sie gewährleisten die Einhaltung der Budgetvorgaben für die Aufrechterhaltung der Betriebsfähigkeit der Informationssysteme, insbesondere das Lebenszyklusmanagement von Anwendungen und technologischen Komponenten.
+
+#### Art. A4a-4
+
+**IT-Projektmanagement**
+
+<sup>1</sup> Die IT-Fachkommissionen analysieren Projekte, setzen Prioritäten und fördern Projekte mit hohem Mehrwert für die Bevölkerung oder zur Optimierung der staatlichen Betriebsabläufe durch den Ausbau der Digitalisierung von Geschäftsprozessen und die Anpassung der Organisationsstrukturen für mehr Effizienz und Produktivität.
+
+<sup>2</sup> Sie konsolidieren alle Projekte innerhalb des Portfolios im Sinne der fachlichen Strategieabstimmung, unter Berücksichtigung der technologischen Sachzwänge, insbesondere der Projektsequenzierung, sowie der Arbeitsbelastung und Kapazitäten im Zusammenhang mit den Projektarbeiten und der Aufrechterhaltung der Betriebsfähigkeit.
+
+<sup>3</sup> Sie unterstützen das Projektportfolio und schlagen gegebenenfalls Varianten für dessen Umsetzung bei der IKS vor, unter Berücksichtigung der Vorgaben der zuständigen Behörden, insbesondere in Bezug auf finanzielle, personelle und technologische Mittel.
+
+<sup>4</sup> Sie stellen bei Projekten sicher, dass die Bedarfsermittlung und die Festlegung der Kriterien durch die Leistungsempfängerinnen und Leistungsempfänger mit den strategischen fachlichen und IT-mässigen Ausrichtungen, insbesondere mit dem Richtplan und dem Leitschema übereinstimmen.
+
+<sup>5</sup> Sie fördern zur Vereinfachung und Vereinheitlichung der Informationssysteme die Leistungs- und Prozessharmonisierung.
+
+<sup>6</sup> Sie reduzieren die Anzahl der IT-Lösungen und decken die wesentlichen Leistungen nach dem MVP-Prinzip (Minimum Viable Product) ab.
+
+<sup>7</sup> Sie stellen die Kommunikation der Projektplanung gegenüber allen Beteiligten sicher.
+
+#### Art. A4a-5
+
+**Aufrechterhaltung der Betriebsfähigkeit und Koordination mit den Beteiligten**
+
+<sup>1</sup> Die IT-Fachkommissionen stellen die Verbindung zu den Direktionen, zu den Leistungsempfängerinnen und Leistungsempfängern, zum ITA und zu den Partnern zur Gewährleistung abgestimmter Lösungen sicher und fördern die gemeinsame Nutzung und Schaffung von Synergien.
+
+<sup>2</sup> Sie unterstützen die Vereinfachung und die Standardisierung von IT-Tools, Praktiken und Standards, gewährleisten die Projektumsetzung und fördern Schulungs- und Change-Management-Massnahmen.
+
+<sup>3</sup> Sie unterstützen das Lebenszyklusmanagement der Anwendungen und technischen Geräte sowie die Einhaltung des normativen Rahmens im IT-Bereich.
+
+#### Art. A4a-6
+
+**Klärung von Differenzen und Vermittlung**
+
+<sup>1</sup> Die IT-Fachkommissionen klären Differenzen über die von den Direktionen und Ämtern angemeldeten Bedürfnisse, insbesondere bei konkurrierenden Prioritäten.
+
+<sup>2</sup> Sie nehmen eine erste Auswahl vor hinsichtlich der Prioritäten für den Staat, sowohl für Projekte als auch für die Aufrechterhaltung der Betriebsfähigkeit.
+
+<sup>3</sup> Sie vermitteln zwischen den Ansprüchen der verschiedenen Fachbereiche und den finanziellen, personellen und technologischen Sachzwängen.
+
+<sup>4</sup> Sie unterstützen und beraten die Projektauftraggeber und leiten insbesondere Leiterinnen und Leiter der Lenkungsausschüsse an und kontrollieren bei Bedarf die Zielerreichung.
+
+#### Art. A4a-7
+
+**Konsultation**
+
+<sup>1</sup> Die IT-Fachkommissionen geben ihre Stellungnahme bei der Ausarbeitung rechtlicher Dokumente in ihrem jeweiligen Zuständigkeitsbereich ab.
+
+#### Art. A4a-8
+
+**Governance-Instrumente**
+
+<sup>1</sup> Die IT-Fachkommissionen haben Zugang zu allen in Kapitel 4 der Verordnung beschriebenen Governance-Instrumenten und können diese nutzen.
+
+<sup>2</sup> Sie wirken an den vereinheitlichten Prozessen für die bereichsübergreifende Governance aller IT-Fachkommissionen mit, insbesondere bei der Planung und Nutzung des IT-Budgets sowie bei der Festlegung von Prioritäten. Die vom ITA bereitgestellten Instrumente und Methoden gewährleisten Fairness und Transversalität einer einheitlichen Governance.
 
 ## A5 ANHANG 5 – Spezialisierte IT-Einheit der Kantonspolizei (Art. 2 Abs. 1)
 
@@ -640,32 +642,128 @@ beschliesst:
 
 <sup>4</sup> Die Zuständigkeiten der Fachstelle Fritic im Zusammenhang mit den Gemeinden bleiben vorbehalten.
 
-## A7 ANHANG 7 – Informatik-Infrastrukturkommission (Art. 15)
+## A7
 
 #### Art. A7-1
 
-**Status**
-
-<sup>1</sup> Die Informatik-Infrastrukturkommission (IKInfra) ist eine durch diese Verordnung eingesetzte IT-Fachkommission im Sinne von Artikel 15.
-
-<sup>2</sup> Sie ist administrativ der Finanzdirektion zugewiesen und wird von einer Dienstchefin oder einem Dienstchef oder von einer Leiterin oder einem Leiter einer IT-Einheit des Staates präsidiert.
-
-<sup>3</sup> Ihr Sekretariat wird nach einem für jede Sitzung gemeinsam beschlossenen Turnus von einem ihrer Mitglieder geführt. Bei Uneinigkeit entscheidet ihre Präsidentin oder ihr Präsident.
+**…**
 
 #### Art. A7-2
 
-**Zuständigkeitsbereich**
-
-<sup>1</sup> Der Zuständigkeitsbereich der IKInfra erstreckt sich bereichsübergreifend auf alle IT-Infrastrukturen, die die Entwicklung, den Unterhalt, den Betrieb und die Weiterentwicklung der Digitalisierungs- und Informationssysteme des Staates unterstützen.
+**…**
 
 #### Art. A7-3
 
-**Besondere Aufgaben**
+**…**
 
-<sup>1</sup> Die IKInfra hat folgende besondere Aufgaben:
+## A8 Anhang 8 – Informatikkommission Allgemeine Verwaltung (IKAV)
 
-- a) Sie nimmt Stellung zum Gesamtkonzept des ITA zu den Infrastrukturen der Digitalisierung und der Informationssysteme des Staates, sorgt für Kohärenz und für die Nutzung aller möglichen Synergien und achtet besonders auf die Sicherheit der Informatikmittel und die mit der technologischen Veralterung verbundenen Risiken.
-- b) Sie nimmt Stellung zu den auf die Digitalisierung und die Informationssysteme bezogenen Budgeteingaben.
-- c) Sie fördert den Austausch von bewährten Praktiken in Zusammenhang mit den Infrastrukturen der Digitalisierung und der Informationssysteme zwischen dem ITA und den autonomen Einheiten.
+#### Art. A8-1
+
+**Status im Besonderen**
+
+<sup>1</sup> Die Informatikkommission Allgemeine Verwaltung (IKAV) ist eine IT-Fachkommission im Sinne von Artikel 15 dieser Verordnung.
+
+<sup>2</sup> Sie ist der Staatskanzlei administrativ zugewiesen.
+
+<sup>3</sup> Sie wird von der Staatskanzlerin oder vom Staatskanzler geleitet.
+
+#### Art. A8-2
+
+**Tätigkeitsbereich**
+
+<sup>1</sup> Der Tätigkeitsbereich der IKAV deckt den HRM2-Bereich Nr. 0 «Allgemeine Verwaltung» ab.
+
+<sup>2</sup> Im Rahmen ihrer Aktivitäten unterstützt die IKAV insbesondere die Aufrechterhaltung und Weiterentwicklung des virtuellen Schalters und schlägt in Zusammenarbeit mit den Beteiligten Projekte zur Online-Bereitstellung von staatlichen Leistungen und die Aufrechterhaltung ihrer Betriebsfähigkeit vor und koordiniert diese.
+
+## A9 Anhang 9 – Informatikkommission Bildung, kulturelle Angelegenheiten und Sport (IKBKAS)
+
+#### Art. A9-1
+
+**Status im Besonderen**
+
+<sup>1</sup> Die Informatikkommission Bildung, kulturelle Angelegenheiten und Sport (IKBKAS) ist eine IT-Fachkommission im Sinne von Artikel 15 dieser Verordnung.
+
+<sup>2</sup> Sie ist der Direktion für Bildung und kulturelle Angelegenheiten (BKAD) administrativ zugewiesen.
+
+<sup>3</sup> Sie wird von der Generalsekretärin oder vom Generalsekretär der BKAD geleitet.
+
+#### Art. A9-2
+
+**Tätigkeitsbereich**
+
+<sup>1</sup> Der Tätigkeitsbereich der IKBKAS deckt die HRM2-Bereiche Nr. 2 «Bildung» und Nr. 3 «Kultur, Sport und Freizeit, Kirche» ab.
+
+## A10 Anhang 10 – Informatikkommission Justiz und Sicherheit (IKJS)
+
+#### Art. A10-1
+
+**Status im Besonderen**
+
+<sup>1</sup> Die Informatikkommission Justiz und Sicherheit (IKJS) ist eine IT-Fachkommission im Sinne von Artikel 15 dieser Verordnung.
+
+<sup>2</sup> Sie ist der Sicherheits-, Justiz- und Sportdirektion (SJSD) administrativ zugewiesen.
+
+<sup>3</sup> Sie wird von der Generalsekretärin oder vom Generalsekretär der SJSD geleitet.
+
+#### Art. A10-2
+
+**Tätigkeitsbereich**
+
+<sup>1</sup> Der Tätigkeitsbereich der IKJS deckt den HRM2-Bereich Nr. 1 «Öffentliche Ordnung und Sicherheit, Verteidigung» ab.
+
+## A11 Anhang 11 – Informatikkommission Ressourcen (IKRe)
+
+#### Art. A11-1
+
+**Status im Besonderen**
+
+<sup>1</sup> Die Informatikkommission Ressourcen (IKRe) ist eine IT-Fachkommission im Sinne von Artikel 15 dieser Verordnung.
+
+<sup>2</sup> Sie ist der Finanzdirektion (FIND) administrativ zugewiesen.
+
+<sup>3</sup> Sie wird von der Generalsekretärin oder vom Generalsekretär der FIND geleitet.
+
+#### Art. A11-2
+
+**Tätigkeitsbereich**
+
+<sup>1</sup> Der Tätigkeitsbereich der IKRe deckt den HRM2-Bereich Nr. 9 «Finanzen und Steuern» ab.
+
+## A12 Anhang 12 – Informatikkommission Gesundheit und Soziales (IKGS)
+
+#### Art. A12-1
+
+**Status im Besonderen**
+
+<sup>1</sup> Die Informatikkommission Gesundheit und Soziales (IKGS) ist eine IT-Fachkommission im Sinne von Artikel 15 dieser Verordnung.
+
+<sup>2</sup> Sie ist der Direktion für Gesundheit und Soziales (GSD) administrativ zugewiesen.
+
+<sup>3</sup> Sie wird von der Generalsekretärin oder vom Generalsekretär der GSD geleitet.
+
+#### Art. A12-2
+
+**Tätigkeitsbereich**
+
+<sup>1</sup> Der Tätigkeitsbereich der IKGS deckt die HRM2-Bereiche Nr. 4 «Gesundheit» und Nr. 5 «Soziale Sicherheit» ab.
+
+## A13 Anhang 13 – Informatikkommission Raum, Umwelt und Wirtschaft (IKRUW)
+
+#### Art. A13-1
+
+**Status im Besonderen**
+
+<sup>1</sup> Die Informatikkommission Raum, Umwelt und Wirtschaft (IKRUW) ist eine IT-Fachkommission im Sinne von Artikel 15 dieser Verordnung.
+
+<sup>2</sup> Sie ist der Direktion für Raumentwicklung, Infrastruktur, Mobilität und Umwelt (RIMU) administrativ zugewiesen.
+
+<sup>3</sup> Sie wird von der Generalsekretärin oder vom Generalsekretär der RIMU geleitet.
+
+#### Art. A13-2
+
+**Tätigkeitsbereich**
+
+<sup>1</sup> Der Tätigkeitsbereich der IKRUW deckt die HRM2-Bereiche Nr. 7 «Umweltschutz und Raumordnung» und Nr. 8 «Volkswirtschaft» ab.
 
 2021\_087

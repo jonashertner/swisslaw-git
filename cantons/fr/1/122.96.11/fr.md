@@ -4,13 +4,12 @@ number: "122.96.11"
 title: "Ordonnance sur la gouvernance de la digitalisation et des systèmes d'information de l'Etat"
 short: OGDSI
 language: fr
-version: 2025-08-01
-valid_until: 2026-04-20
-version_adopted: 2025-06-17
+version: 2026-04-21
+version_adopted: 2026-04-21
 adopted: 2021-06-28
 in_force: 2021-07-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/122.96.11"
-pdf: "https://bdlf.fr.ch/api/fr/versions/8391/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/8538/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +20,7 @@ Gouvernance de la digitalisation et des systèmes d'information de l'Etat – O
 
 (OGDSI)
 
-du 28.06.2021 (version entrée en vigueur le 01.08.2025)
+du 28.06.2021 (version entrée en vigueur le 21.04.2026)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -231,13 +230,16 @@ Arrête:
 
 **Commissions spécialisées – Attributions générales**
 
-<sup>1</sup> Chaque commission spécialisée, à l'exception de la Commission des secrétaires généraux pour l'informatique, dispose dans son domaine de compétence des attributions générales suivantes:
+<sup>1</sup> Les commissions spécialisées disposent, dans leur domaine de compétence, des attributions générales suivantes:
 
-- a) elle analyse les demandes des bénéficiaires concernant la digitalisation et les systèmes d'information en s'assurant de leur cohérence et propose leur intégration dans le portefeuille de projets qu'elle soumet à la DSI;
-- b) elle propose un ordre de priorité des projets en fonction des moyens financiers alloués et de critères prédéfinis;
-- c) elle assure l'arbitrage des besoins financiers entre les bénéficiaires;
-- d) elle collabore avec les bénéficiaires et le SITel dans la mise en œuvre de projets et prestations standard;
-- e) elle propose des variantes du portefeuille de projets pour lesquelles une décision de nature stratégique ou politique doit être prise.
+- a) collaborer à la planification stratégique en matière de systèmes d'information et de digitalisation;
+- b) piloter le portefeuille des projets informatiques en tenant compte des instruments de gouvernance décrits au chapitre 4 de la présente ordonnance;
+- c) soutenir le maintien en condition opérationnelle, en particulier la maîtrise du cycle de vie des applications;
+- d) collaborer activement à la coordination avec les parties prenantes en matière de digitalisation;
+- e) assurer un arbitrage du portefeuille de projets informatiques, notamment en priorisant les projets;
+- f) dans un esprit de bien commun, valider les réallocations financières intra-commission et convenir des réallocations inter-commissions soumises à la DSI pour décision, dans le respect du cadre légal financier applicable.
+
+<sup>2</sup> Ces attributions s'exercent dans un souci d'intégration et de simplification de l'architecture informatique de l'Etat, d'économicité et d'harmonisation pour optimiser le service à la population tout en visant l'efficience ainsi que la sécurité informatique.
 
 #### Art. 18
 
@@ -416,151 +418,151 @@ Arrête:
 
 <sup>1</sup> Les prestations informatiques fournies aux unités autonomes ainsi qu'à des tiers au moment de l'entrée en vigueur de la présente ordonnance doivent, dans les deux ans suivant cette entrée en vigueur, être formalisées dans des conventions idoines conclues avec la Direction des finances.
 
-## A1 ANNEXE 1 – Commission informatique des autorités judiciaires (art. 15)
+## A1
 
 #### Art. A1-1
 
-**Statut**
-
-<sup>1</sup> La Commission informatique des autorités judiciaires (ci-après: la CIAJ) est une commission spécialisée au sens de l'article 15 dont le domaine de compétence s'étend à l'ensemble des autorités judiciaires telles qu'elles sont définies à l'article 3 de la loi du 31 mai 2010 sur la justice[^A11-1], à l'exception des préfets.
-
-<sup>2</sup> Elle est rattachée administrativement à la Direction de la sécurité, de la justice et du sport et est présidée par un ou une juge cantonal‑e.
-
-<sup>3</sup> Elle est dotée d'un bureau dont la présidence est assurée par le ou la secrétaire général‑e du Tribunal cantonal.
-
-[^A11-1]: RSF [130.1](https://bdlf.fr.ch/data/130.1/fr)
+**…**
 
 #### Art. A1-2
 
-**Composition**
-
-<sup>1</sup> La CIAJ est composée comme il suit:
-
-- a) un ou une juge cantonal‑e qui la préside;
-- b) le ou la secrétaire général‑e du Tribunal cantonal qui en assume le secrétariat;
-- c) un magistrat ou une magistrate représentant le Ministère public et le Tribunal des mesures de contrainte;
-- d) un magistrat ou une magistrate représentant les tribunaux d'arrondissement;
-- e) un magistrat ou une magistrate représentant les justices de paix;
-- f) un magistrat ou une magistrate représentant le Tribunal des mineurs;
-- g) une personne représentant la Direction de la sécurité, de la justice et du sport;
-- h) une personne représentant le SITel;
-- i) une personne représentant le Conseil de la magistrature.
+**…**
 
 #### Art. A1-3
 
-**Attributions**
+**…**
 
-<sup>1</sup> La CIAJ a les attributions suivantes:
-
-- a) elle définit les orientations générales de la digitalisation et du système d'information des autorités judiciaires et veille à leur mise en œuvre;
-- b) elle définit les besoins et collabore aux choix des applications logicielles;
-- c) elle préavise les demandes budgétaires des autorités judiciaires en matière de digitalisation et de système d'information;
-- d) elle arbitre les éventuels différends des autorités judiciaires en matière de digitalisation et de système d'information.
-
-## A2 ANNEXE 2 – Commission informatique dans l'enseignement (art. 15)
+## A2
 
 #### Art. A2-1
 
-**Statut**
-
-<sup>1</sup> La Commission informatique de l'enseignement (CIEns) est une commission spécialisée au sens de l'article 15.
-
-<sup>2</sup> Elle est rattachée administrativement à la Direction de la formation et des affaires culturelles et est présidée par un ou une chef‑fe de service de l'enseignement auprès de la Direction de la formation et des affaires culturelles, de la Direction de l'économie, de l'emploi et de la formation professionnelle ou de la Direction des institutions, de l'agriculture et des forêts.
-
-<sup>3</sup> Son secrétariat est assumé par le Centre de compétences Fritic.
+**…**
 
 #### Art. A2-2
 
-**Domaine de compétence**
-
-<sup>1</sup> Le domaine de compétence de la CIEns s'étend:
-
-- a) aux écoles secondaires du deuxième degré, aux écoles professionnelles, au Centre de perfectionnement interprofessionnel, à la section en charge de la formation de Grangeneuve, au Conservatoire ainsi qu'aux autres écoles et services qui font usage des moyens informatiques mis à leur disposition par le SITel dans le domaine de l'enseignement;
-- b) aux enseignants et enseignantes, élèves, étudiants et étudiantes ainsi qu'au personnel technique ou administratif faisant usage des systèmes d'information des écoles de tous les degrés d'enseignement mentionnés à la lettre a ci-dessus.
-
-<sup>2</sup> Les domaines qui relèvent de la compétence des communes sont réservés.
+**…**
 
 #### Art. A2-3
 
-**Attributions spécifiques**
+**…**
 
-<sup>1</sup> La CIEns a les attributions spécifiques suivantes:
-
-- a) elle préavise le concept général se rapportant aux technologies de l'information et de la communication dans l'enseignement, en veillant à assurer la cohérence et à promouvoir toutes les synergies possibles, et supervise la mise en œuvre de ce concept;
-- b) elle élabore les orientations et propose à la DSI l'intégration des projets pédagogiques, administratifs et techniques relevant de son domaine de compétence dans le portefeuille de projets;
-- c) elle harmonise le choix des outils informatiques pédagogiques relevant de la compétence cantonale;
-- d) elle propose les outils informatiques administratifs utilisés dans les écoles et collabore à leur choix;
-- e) elle coordonne les demandes budgétaires des écoles cantonales;
-- f) elle sert d'organe d'arbitrage en cas de conflits ou de difficultés particulières dans le domaine de l'éducation;
-- g) elle soutient le Centre de compétences Fritic dans ses tâches de coordination;
-- h) elle décide des concepts de communication et supervise leur mise en œuvre;
-- i) elle arbitre si nécessaire les priorités des demandes d'évolution des applications.
-
-## A3 ANNEXE 3 – Commission de cyberadministration (art. 15)
+## A3
 
 #### Art. A3-1
 
-**Statut**
-
-<sup>1</sup> La Commission de cyberadministration (CoCyb) est une commission spécialisée au sens de l'article 15.
-
-<sup>2</sup> Elle est rattachée administrativement à la Chancellerie d'Etat, et le chancelier ou la chancelière d'Etat la préside.
-
-<sup>3</sup> Son secrétariat est assuré par le Secrétariat de cyberadministration de l'Etat.
+**…**
 
 #### Art. A3-2
 
-**Composition**
-
-<sup>1</sup> La CoCyb est composée de sept à treize membres nommés par le Conseil d'Etat.
-
-<sup>2</sup> Elle compte au moins une personne représentant chaque Direction, une personne représentant les préfectures et une personne représentant les communes.
+**…**
 
 #### Art. A3-3
 
-**Attributions spécifiques**
+**…**
 
-<sup>1</sup> La CoCyb a les attributions spécifiques suivantes:
-
-- a) elle propose et/ou soutient les projets de cyberadministration dans le cadre du PDI, en tenant compte des développements sur le plan national;
-- a1) elle fixe l'ordre de priorité des prestations de cyberadministration à développer;
-- b) elle est consultée sur les projets de documents en lien avec la cyberadministration (lois, ordonnances, directives, stratégies, concepts, etc.);
-- c) elle promeut l'élaboration et la réalisation d'initiatives en lien avec la cyberadministration;
-- d) elle coordonne la mise en œuvre du PDI dans le domaine de la cyberadministration;
-- e) elle coordonne la collaboration de l'Etat aux projets de cyberadministration menés par les communes fribourgeoises;
-- f) elle se tient informée des démarches et des échanges d'expériences et d'informations entre l'administration cantonale et les organes de la cyberadministration de la Confédération et des autres cantons;
-- g) elle valide, à l'attention de la DSI, le projet de budget informatique dans le domaine de la cyberadministration.
-
-<sup>2</sup> Les membres de la CoCyb intervenant en qualité de représentant d'une Direction, des préfectures ou des communes assurent en outre le rôle de relais entre la CoCyb et les organisations représentées. Ils facilitent la mise en œuvre des projets de cyberadministration soutenus par la CoCyb à leur échelon et la tiennent informée de leur avancement. Ils peuvent demander à la CoCyb de proposer et/ou de soutenir la réalisation de projets de cyberadministration spécifiques.
-
-## A4 ANNEXE 4 – Commission des secrétaires généraux pour l'informatique (art. 15)
+## A4
 
 #### Art. A4-1
 
-**Statut**
-
-<sup>1</sup> La Commission des secrétaires généraux pour l'informatique (CSGI) est une commission spécialisée au sens de l'article 15.
-
-<sup>2</sup> Elle est rattachée administrativement à la Chancellerie d'Etat et est présidée par un ou une secrétaire général‑e.
+**…**
 
 #### Art. A4-2
 
-**Domaine de compétence**
-
-<sup>1</sup> La CSGI couvre les domaines qui ne sont pas couverts par d'autres commissions spécialisées.
+**…**
 
 #### Art. A4-3
 
-**Attributions spécifiques**
+**…**
 
-<sup>1</sup> La CSGI a les attributions spécifiques suivantes:
+## A4a ANNEXE 4a – Statut et attributions des commissions spécialisées
 
-- a) elle prend connaissance de l'écart entre les ambitions et les moyens pour les projets relevant de son domaine;
-- b) elle décide, en collaboration étroite avec le SITel, des principes harmonisés par lesquels chacune des Directions doit effectuer sa propre priorisation dans le domaine de compétence de la CSGI;
-- c) elle analyse les demandes et les projets et, le cas échéant, les intègre dans le portefeuille de projets qu'elle propose à la DSI;
-- d) elle présente à la DSI un portefeuille de projets directement réalisables ou un choix de variantes directement réalisables pour lesquelles une décision de nature stratégique ou politique doit être prise;
-- e) elle est à la disposition des comités de pilotage des projets pour traiter de difficultés particulières;
-- f) elle préavise, le cas échéant, les politiques spécialisées élaborées par le SITel.
+#### Art. A4a-1
+
+**Statut général**
+
+<sup>1</sup> Une commission spécialisée est instituée conformément aux articles 16, 17 et 18 de la présente ordonnance.
+
+<sup>2</sup> La présidence de la commission spécialisée est assurée par le chancelier ou la chancelière ou par un ou une secrétaire général‑e principalement responsable du ou des domaines couverts par ladite commission.
+
+<sup>3</sup> Le Conseil d'Etat nomme les membres des commissions spécialisées.
+
+<sup>4</sup> Le secrétariat de la commission spécialisée est assuré par un organisme désigné par la présidence et rattaché à celle-ci.
+
+<sup>5</sup> Le SITel est représenté dans les commissions spécialisées avec voix consultative et soutient ces dernières sur la planification des systèmes d'information, la gestion des projets informatiques et le maintien en condition opérationnelle ainsi que sur le suivi des budgets et des comptes.
+
+#### Art. A4a-2
+
+**Attributions générales**
+
+<sup>1</sup> Afin de compléter l'article 17 de la présente ordonnance, les commissions spécialisées disposent, dans leur domaine de compétence, des attributions générales listées ci-après.
+
+#### Art. A4a-3
+
+**Planification stratégique**
+
+<sup>1</sup> Définir ou préaviser les orientations générales en matière de digitalisation des prestations de l'Etat, assurer la cohérence de la démarche et contrôler la mise en œuvre.
+
+<sup>2</sup> Promouvoir l'élaboration et la réalisation de projets à haute valeur ajoutée pour l'Etat, ainsi que décider et superviser la mise en œuvre de la communication idoine.
+
+<sup>3</sup> Garantir la cohérence stratégique du portefeuille de projets avec les cadres directeurs (PDI, SDI) et soutenir leur mise en œuvre.
+
+<sup>4</sup> Garantir la cohérence budgétaire liée au portefeuille de projets et à l'allocation optimale des ressources, tant internes qu'externes, afin de soutenir les demandes budgétaires auprès de la CIE.
+
+<sup>5</sup> Garantir la cohérence budgétaire liée au maintien en condition opérationnelle des systèmes d'information, en particulier la maîtrise du cycle de vie des applications et des composants technologiques.
+
+#### Art. A4a-4
+
+**Gestion des projets informatiques**
+
+<sup>1</sup> Analyser les projets, fixer des priorités et veiller à promouvoir ceux à haute valeur ajoutée pour la population ou qui contribuent à optimiser le fonctionnement de l'Etat en promouvant la digitalisation des processus et l'adaptation des organisations afin de générer efficience et productivité.
+
+<sup>2</sup> Consolider, au sein du portefeuille, l'ensemble des projets dans un souci de cohérence stratégique métier, en tenant compte des contraintes technologiques, notamment le séquencement des projets, ainsi que des charges et capacités liées aux activités de projet et au maintien en condition opérationnelle.
+
+<sup>3</sup> Soutenir le portefeuille de projets et au besoin proposer des variantes pour sa réalisation auprès de la CIE, en tenant compte des contraintes fixées par les autorités compétentes, notamment en matière de moyens financiers, humains et technologiques.
+
+<sup>4</sup> Dans le cadre des projets, veiller à ce que l'établissement des besoins et la définition des critères par les bénéficiaires soient conformes aux orientations stratégiques des métiers et de l'informatique, notamment le PDI et le SDI.
+
+<sup>5</sup> Favoriser l'harmonisation des prestations et des processus afin de simplifier et unifier les systèmes d'information
+
+<sup>6</sup> Réduire le nombre de solutions et couvrir les prestations essentielles selon le principe du MVP (Minimum Viable Product).
+
+<sup>7</sup> Assurer la communication de la planification des projets auprès de l'ensemble des parties prenantes.
+
+#### Art. A4a-5
+
+**Maintien en condition opérationnelle et coordination avec les parties prenantes**
+
+<sup>1</sup> Assurer le relais avec les Directions, les bénéficiaires, le SITel et les partenaires pour garantir la cohérence des solutions, favoriser la mutualisation et créer des synergies.
+
+<sup>2</sup> Soutenir la simplification et la standardisation des outils, des pratiques et des standards, garantir la mise en œuvre des projets, ainsi que promouvoir les actions de formation et de conduite du changement.
+
+<sup>3</sup> Appuyer la maîtrise du cycle de vie des applications et des équipements techniques, ainsi que le respect du cadre normatif en matière informatique.
+
+#### Art. A4a-6
+
+**Arbitrage et médiation**
+
+<sup>1</sup> Arbitrer les différends entre les besoins exprimés par les Directions et les services, notamment en cas de concurrence des priorités.
+
+<sup>2</sup> Assurer un premier niveau d'arbitrage quant aux priorités pour l'Etat, tant pour les projets que pour le maintien en condition opérationnelle.
+
+<sup>3</sup> Garantir la médiation entre les ambitions des différents métiers et les contraintes financières, humaines et technologiques.
+
+<sup>4</sup> Soutenir, conseiller et guider les mandants des projets – en particulier les présidents des comités de pilotage – et, au besoin, surveiller l'atteinte des objectifs.
+
+#### Art. A4a-7
+
+**Processus consultatif**
+
+<sup>1</sup> Être consultée, dans le cadre de l'élaboration des documents légaux relevant de son domaine de compétence.
+
+#### Art. A4a-8
+
+**Instruments de gouvernance**
+
+<sup>1</sup> Avoir accès et utiliser l'ensemble des instruments décrits à la section 4 de la présente ordonnance.
+
+<sup>2</sup> Participer aux processus harmonisés pour la gouvernance transversale de toutes les commissions spécialisées, notamment dans la planification et l'utilisation de l'enveloppe informatique, ainsi que dans la détermination des priorités. Les outils et méthodes, mis à disposition par le SITel, assurent l'équité et la transversalité d'une gouvernance harmonisée.
 
 ## A5 ANNEXE 5 – Unité informatique spécialisée de la Police cantonale (art. 2 al. 1)
 
@@ -640,32 +642,128 @@ Arrête:
 
 <sup>4</sup> Les compétences de Fritic en lien avec les communes demeurent réservées.
 
-## A7 ANNEXE 7 – Commission informatique des infrastructures (art. 15)
+## A7
 
 #### Art. A7-1
 
-**Statut**
-
-<sup>1</sup> La Commission informatique des infrastructures (CIInfra) est une commission spécialisée au sens de l'article 15, instituée par la présente ordonnance.
-
-<sup>2</sup> Elle est rattachée administrativement à la Direction des finances et est présidée par un ou une chef‑fe de service ou par un directeur ou une directrice d'une unité informatique de l'Etat.
-
-<sup>3</sup> Son secrétariat est assumé par l'un de ses membres suivant un tournus décidé collégialement pour chaque séance. En cas de divergence, son président ou sa présidente tranche.
+**…**
 
 #### Art. A7-2
 
-**Domaine de compétence**
-
-<sup>1</sup> Le domaine de compétence de la CIInfra s'étend de manière transversale à l'ensemble des infrastructures informatiques soutenant le développement, l'entretien, l'exploitation et l'évolution de la digitalisation et des systèmes d'information de l'Etat.
+**…**
 
 #### Art. A7-3
 
-**Attributions spécifiques**
+**…**
 
-<sup>1</sup> La CIInfra a les attributions spécifiques suivantes:
+## A8 ANNEXE 8 – Commission informatique de l'administration générale (CIAG)
 
-- a) elle préavise le concept général du SITel se rapportant aux infrastructures de la digitalisation et des systèmes d'information de l'Etat, en veillant à assurer la cohérence et à promouvoir toutes les synergies possibles, tout en portant une attention particulière à la sécurité des moyens informatiques et aux risques liés à l'obsolescence technologique;
-- b) elle préavise les demandes budgétaires spécifiques des infrastructures de la digitalisation et des systèmes d'information;
-- c) elle promeut l'échange de bonnes pratiques liées aux infrastructures de la digitalisation et des systèmes d'information entre le SITel et les unités autonomes.
+#### Art. A8-1
+
+**Statut spécifique**
+
+<sup>1</sup> La Commission informatique de l'administration générale (ci-après: la CIAG) est une commission spécialisée au sens de l'article 15 de la présente ordonnance.
+
+<sup>2</sup> Elle est rattachée administrativement à la Chancellerie d'Etat.
+
+<sup>3</sup> La présidence est assurée par le chancelier ou la chancelière d'Etat.
+
+#### Art. A8-2
+
+**Périmètre**
+
+<sup>1</sup> Le périmètre de la CIAG couvre le domaine MCH2 n<sup>o</sup> 0 «Administration générale».
+
+<sup>2</sup> Dans le cadre de ses activités, la CIAG soutient notamment le maintien et l'évolution du guichet virtuel et propose et coordonne, en collaboration avec les parties prenantes, les projets de mise en ligne des prestations de l'Etat et leur maintien en condition opérationnelle.
+
+## A9 ANNEXE 9 – Commission informatique de la formation, des affaires culturelles et du sport (CIFACS)
+
+#### Art. A9-1
+
+**Statut spécifique**
+
+<sup>1</sup> La Commission informatique de la formation, des affaires culturelles et du sport (ci-après: la CIFACS) est une commission spécialisée au sens de l'article 15 de la présente ordonnance.
+
+<sup>2</sup> Elle est rattachée administrativement à la Direction de la formation et des affaires culturelles (ci-après: DFAC).
+
+<sup>3</sup> La présidence est assurée par le ou la secrétaire général‑e de la DFAC.
+
+#### Art. A9-2
+
+**Périmètre**
+
+<sup>1</sup> Le périmètre de la CIFACS couvre les domaines MCH2 n<sup>o</sup> 2 «Formation» et n<sup>o</sup> 3 «Culture, sports, loisirs et églises».
+
+## A10 ANNEXE 10 – Commission informatique de la justice et de la sécurité (CIJS)
+
+#### Art. A10-1
+
+**Statut spécifique**
+
+<sup>1</sup> La Commission informatique de la justice et de la sécurité (ci-après: la CIJS) est une commission spécialisée au sens de l'article 15 de la présente ordonnance.
+
+<sup>2</sup> Elle est rattachée administrativement à la Direction de la sécurité, de la justice et du sport (ci-après: DSJS).
+
+<sup>3</sup> La présidence est assurée par le ou la secrétaire général‑e de la DSJS.
+
+#### Art. A10-2
+
+**Périmètre**
+
+<sup>1</sup> Le périmètre de la CIJS couvre le domaine MCH2 n<sup>o</sup> 1 «Ordre et sécurité publique, défense».
+
+## A11 ANNEXE 11 – Commission informatique des ressources (CIRe)
+
+#### Art. A11-1
+
+**Statut spécifique**
+
+<sup>1</sup> La Commission informatique des ressources (ci-après: la CIRe) est une commission spécialisée au sens de l'article 15 de la présente ordonnance.
+
+<sup>2</sup> Elle est rattachée administrativement à la Direction des finances (ci-après: DFIN).
+
+<sup>3</sup> La présidence est assurée par le ou la secrétaire général‑e de la DFIN.
+
+#### Art. A11-2
+
+**Périmètre**
+
+<sup>1</sup> Le périmètre de la CIRe couvre le domaine MCH2 n<sup>o</sup> 9 «Finances et impôts».
+
+## A12 ANNEXE 12 – Commission informatique de la santé et des affaires sociales (CISAS)
+
+#### Art. A12-1
+
+**Statut spécifique**
+
+<sup>1</sup> La Commission informatique de la santé et des affaires sociales (ci-après: la CISAS) est une commission spécialisée au sens de l'article 15 de la présente ordonnance.
+
+<sup>2</sup> Elle est rattachée administrativement à la Direction de la santé et des affaires sociales (ci-après: DSAS).
+
+<sup>3</sup> La présidence est assurée par le ou la secrétaire général‑e de la DSAS.
+
+#### Art. A12-2
+
+**Périmètre**
+
+<sup>1</sup> Le périmètre de la CISAS couvre les domaines MCH2 n<sup>o</sup> 4 «Santé» et n<sup>o</sup> 5 «Prévoyance sociale».
+
+## A13 ANNEXE 13 – Commission informatique du territoire, de l'environnement et de l'économie (CITEE)
+
+#### Art. A13-1
+
+**Statut spécifique**
+
+<sup>1</sup> La Commission informatique du territoire, de l'environnement et de l'économie (ci-après: la CITEE) est une commission spécialisée au sens de l'article 15 de la présente ordonnance.
+
+<sup>2</sup> Elle est rattachée administrativement à la Direction du développement territorial, des infrastructures, de la mobilité et de l'environnement (ci-après: DIME).
+
+<sup>3</sup> La présidence est assurée par le ou la secrétaire général‑e de la DIME.
+
+#### Art. A13-2
+
+**Périmètre**
+
+<sup>1</sup> Le périmètre de la CITEE couvre les domaines MCH2 n<sup>o</sup> 7 «Protection de l'environnement, de l'aménagement du territoire» et n<sup>o</sup> 8 «Economie publique».
 
 2021\_087
