@@ -4,7 +4,7 @@ number: "914.01.3"
 title: RÈGLEMENT du 15.12.2010 sur le crédit agricole (RCAgr)
 short: RCAgr
 language: fr
-version: 2014-01-01
+version: 2026-04-22
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/914.01.3?id=c2619f51-8bbb-4974-91c4-371502a7afe9"
 ---
 
@@ -76,18 +76,18 @@ arrête
 
 **Fonctions [^sectionSectionI-1]**
 
-<sup>1</sup> Le conseil d'administration (ci-après : le conseil) est l'organe responsable de la gestion et de l'administration du FIA et du FIR.
+<sup>1</sup> Le conseil d'administration (ci-après : le conseil) est l'organe responsable de la gestion et de l'administration du FIA et du FIR. Il dispose de toutes les compétences, en matière de gestion et d'administration du FIA et du FIR, qui ne sont pas explicitement attribuées à un autre organisme par le présent règlement ou la loi sur l'agriculture vaudoise.
 
 <sup>2</sup> Il a pour tâches :
 
 - a. d'assurer la liaison avec les services de l'Etat et les établissements qui collaborent ou participent au financement de l'agriculture vaudoise ;
 - b. de mettre en place un système de contrôle interne au sens de la loi sur les finances [^4-1] et de définir les règles de gestion des risques financiers ;
-- c. d'élaborer annuellement un budget de fonctionnement et de trésorerie du FIA et du FIR qu'il transmet au service ;
+- c. d'élaborer périodiquement un budget de trésorerie du FIA et du FIR qu'il transmet au service ;
 - d. de présenter le rapport d'activité et les comptes annuels au Conseil d'Etat.
 
 <sup>3</sup> Il prend toutes les mesures utiles pour sauvegarder les intérêts du FIA et du FIR et peut faire appel à des experts spécialisés en cas de besoin.
 
-[^sectionSectionI-1]: Modif. 2 du 22.04.2026: Modification Al. 1; entrée en vigueur au 22.04.2026; Modification Al. 2, c; entrée en vigueur au 22.04.2026; Introduction Art. 36, Al. 1, c; entrée en vigueur au 22.04.2026
+[^sectionSectionI-1]: Modif. 2 du 22.04.2026: Modification Al. 1; entrée en vigueur au 22.04.2026; Modification Al. 2, c; entrée en vigueur au 22.04.2026
 [^4-1]: Loi du 20.09.2005 sur les finances ([BLV 610.11](https://prestations.vd.ch/pub/blv-publication/actes/consolide/610.11?id=dd5e9f93-2be9-407c-85ec-e667ab4a151e))
 
 #### Art. 5
@@ -190,18 +190,17 @@ arrête
 
 <sup>1</sup> La requête est préalablement examinée par l'organisme en charge de la gérance.
 
-<sup>2</sup> Le requérant dont la requête est évidemment mal fondée doit en être avisé par l'organisme en charge de la gérance et doit la maintenir expressément pour que celle-ci soit présentée au conseil.
+<sup>2</sup> Le requérant dont la requête est manifestement mal fondée doit en être avisé par l'organisme en charge de la gérance et doit la maintenir expressément pour que celle-ci soit présentée au conseil.
 
-<sup>3</sup> Une requête est évidemment mal fondée lorsque :
+<sup>3</sup> Une requête est manifestement mal fondée lorsque :
 
 - a. des documents probants sur l'investissement et la situation financière manquent à la requête ;
-- b. l'objet et l'octroi du prêt ne sont pas conformes à la loi sur l'agriculture vaudoise [^14-1] ou au présent règlement ;
+- b. l'objet et l'octroi du prêt ne sont pas conformes à la loi sur l'agriculture vaudoise ou au présent règlement et, le cas échéant, à l'ordonnance fédérale sur les améliorations structurelles dans l'agriculture ou à l'ordonnance fédérale sur les mesures d'accompagnement social dans l'agriculture.
 - c. la solvabilité du requérant après réalisation du projet et sa tolérance aux charges ne sont pas avérées.
 
 <sup>4</sup> A l'issue de l'examen préalable, les requêtes sont transmises au conseil qui statue et rend une décision.
 
-[^13-1]: Modif. 2 du 22.04.2026: Modification Al. 2-3; entrée en vigueur au 22.04.2026; Modification Al. 3, b; entrée en vigueur au 22.04.2026; Introduction Art. 36, Al. 1, c; entrée en vigueur au 22.04.2026
-[^14-1]: Loi du 07.09.2010 sur l'agriculture vaudoise ([BLV 910.03](https://prestations.vd.ch/pub/blv-publication/actes/consolide/910.03?id=584fcfc3-b5e1-41b4-aae3-9cafb54147f1))
+[^13-1]: Modif. 2 du 22.04.2026: Modification Al. 2-3; entrée en vigueur au 22.04.2026; Modification Al. 3, b; entrée en vigueur au 22.04.2026
 
 #### Art. 15
 
@@ -243,12 +242,11 @@ arrête
 
 **Signatures [^18-2]**
 
-<sup>1</sup> Le président, le gérant et son remplaçant engagent le FIA et le FIR par leur signature individuelle. Ils peuvent substituer leurs pouvoirs.
+<sup>1</sup> Le président, le vice-président, le gérant et son remplaçant engagent le FIA et le FIR par signature collective de deux d'entre eux. Ils peuvent substituer leurs pouvoirs.
 
-<sup>2</sup> Les opérations financières exigent la signature de deux personnes pouvant engager le FIA ou le FIR. Ils sont ensuite contrôlés et signés par le service en charge des finances de l'Etat[^19-1] , conformément aux directives en vigueur.
+<sup>2</sup> Les opérations financières sont ensuite contrôlées et signées par le service en charge des finances de l'Etat, conformément aux directives en vigueur.
 
-[^18-2]: Modif. 2 du 22.04.2026: Modification Al. 1-2; entrée en vigueur au 22.04.2026; Introduction Art. 36, Al. 1, c; entrée en vigueur au 22.04.2026
-[^19-1]: [Voir l'organigramme de l'Etat de Vaud](https://www.vd.ch/toutes-les-autorites/)
+[^18-2]: Modif. 2 du 22.04.2026: Modification Al. 1-2; entrée en vigueur au 22.04.2026
 
 #### Art. 20
 
@@ -341,7 +339,7 @@ arrête
 
 <sup>3</sup> Les projets pour lesquels un prêt est sollicité doivent être conçus dans le respect des principes du développement durable.
 
-<sup>4</sup> Le conseil détermine annuellement les priorités (taux forfaitaires) et les limites d'intervention (montant maximum par exploitation) en fonction des liquidités disponibles et de la demande de prêts.
+<sup>4</sup> le conseil détermine périodiquement les priorités (taux forfaitaire) et les limites d'intervention (montant maximum par exploitation) en fonction des liquidités disponibles et de la demande de prêt.
 
 <sup>5</sup> Il veille à ce que l'écart entre le taux forfaitaire des prêts ordinaires (maximum 60%) et ceux des prêts extraordinaires (maximum 70%) soit réellement incitatif.
 
@@ -349,9 +347,9 @@ arrête
 
 <sup>7</sup> Les prêts du FIR sont cumulables.
 
-<sup>8</sup> Il n'est pas octroyé de prêts inférieurs au montant de 15'000 francs.
+<sup>8</sup> Il n'est pas octroyé de prêt inférieur au montant de 20'000 francs.
 
-[^sectionSectionI-2]: Modif. 2 du 22.04.2026: Modification Al. 4,8; entrée en vigueur au 22.04.2026; Introduction Art. 36, Al. 1, c; entrée en vigueur au 22.04.2026
+[^sectionSectionI-2]: Modif. 2 du 22.04.2026: Modification Al. 4,8; entrée en vigueur au 22.04.2026
 
 #### Art. 28
 
@@ -454,6 +452,7 @@ arrête
 
 - a. des prestations d'assurance, notamment les indemnités de l'assurance-incendie ;
 - b. du produit de la vente à terme d'immeubles.
+- c. d'autres prestations financières, en particulier un prêt octroyé par le FIA.
 
 <sup>2</sup> Le crédit-relais est octroyé pour une durée maximale de 3 ans dès son octroi.
 
@@ -608,9 +607,9 @@ arrête
 
 **Compétences de l'organisme en charge de la gérance [^47-2]**
 
-<sup>1</sup> L'organisme en charge de la gérance du FIA reçoit et instruit les demandes des agriculteurs domiciliés dans le Canton de Vaud, effectue le suivi des dossiers en cours et communique les données utiles à l'Office fédéral de l'agriculture et au service.
+<sup>1</sup> L'organisme en charge de la gérance du FIA reçoit et instruit les demandes des agriculteurs dont le centre d'exploitation est situé dans le canton de Vaud, effectue le suivi des dossiers en cours et communique les données utiles à l'Office fédéral de l'agriculture et au service.
 
-[^47-2]: Modif. 2 du 22.04.2026: Introduction Art. 36, Al. 1, c; entrée en vigueur au 22.04.2026; Modification Al. 1; entrée en vigueur au 22.04.2026
+[^47-2]: Modif. 2 du 22.04.2026: Modification Al. 1; entrée en vigueur au 22.04.2026
 
 #### Art. 49
 
