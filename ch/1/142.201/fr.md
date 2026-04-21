@@ -4,11 +4,11 @@ title: "Ordonnance du 24 octobre 2007 relative à l'admission, au séjour et à 
 short: OASA
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/759"
 language: fr
-version: 2026-01-01
+version: 2026-04-22
 adopted: 2007-10-24
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/759/20260101/fr/xml/fedlex-data-admin-ch-eli-cc-2007-759-20260101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/759/20260101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/759/20260422/fr/xml/fedlex-data-admin-ch-eli-cc-2007-759-20260422-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/759/20260422/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/759/20260101/fr"
 
 (OASA)
 
-du 24 octobre 2007 (État le 1<sup>er</sup> janvier 2026)
+du 24 octobre 2007 (État le 22 avril 2026)
 
 Le Conseil fédéral suisse,
 
@@ -1831,7 +1831,7 @@ Les connaissances d’une langue nationale sont réputées attestées lorsque l�
 - c. a participé à une formation du degré secondaire II ou du degré tertiaire dispensée dans la langue nationale parlée au lieu de domicile, ou
 - d. dispose d’une attestation des compétences linguistiques confirmant qu’il possède les compétences requises dans cette langue nationale et reposant sur une procédure d’attestation conforme aux normes de qualité généralement reconnues en matière de tests linguistiques.
 
-<sup>2</sup> Le SEM aide les cantons lors de l’examen des attestations des compétences linguistiques visées à l’al. 2, let. d. Il peut également confier cette tâche à des tiers.
+<sup>2</sup> Le SEM aide les cantons lors de l’examen des attestations des compétences linguistiques visées à l’al. 1, let. d. Il peut également confier cette tâche à des tiers.
 
 #### Art. 77e
 
@@ -1932,11 +1932,12 @@ Les autorités cantonales peuvent déposer une demande auprès du SEM pour qu’
 
 ### (art. 97, al. 3, let. a et b, LEI)
 
-<sup>1</sup> Les autorités policières et judiciaires et les autorités d’instruction pénale communiquent spontanément aux autorités migratoires cantonales chaque ouverture ou suspension d’instructions pénales, arrestation et libération, ainsi que tout jugement civil ou pénal qui concernent des étrangers.
+<sup>1</sup> Les autorités policières et judiciaires et les autorités d’instruction pénale communiquent spontanément aux autorités migratoires cantonales chaque ouverture ou suspension d’instructions pénales, arrestation et libération, ainsi que tout jugement civil ou pénal qui concernent des étrangers.[^82-2]
 
 <sup>2</sup> Elles communiquent également tous les cas où un séjour illégal en Suisse a été constaté.
 
 [^82-1]: Nouvelle teneur selon le ch. I de l’O du 15 août 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 3173](https://fedlex.data.admin.ch/eli/oc/2018/510)).
+[^82-2]: Erratum du 22 avr. 2026, ne concerne que le texte italien ([RO 2026 170](https://fedlex.data.admin.ch/eli/oc/2026/170)).
 
 #### Art. 82a
 

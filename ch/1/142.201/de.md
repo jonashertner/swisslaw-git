@@ -4,11 +4,11 @@ title: "Verordnung vom 24. Oktober 2007 über Zulassung, Aufenthalt und Erwerbst
 short: VZAE
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/759"
 language: de
-version: 2026-01-01
+version: 2026-04-22
 adopted: 2007-10-24
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/759/20260101/de/xml/fedlex-data-admin-ch-eli-cc-2007-759-20260101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/759/20260101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/759/20260422/de/xml/fedlex-data-admin-ch-eli-cc-2007-759-20260422-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/759/20260422/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/759/20260101/de"
 
 (VZAE)
 
-vom 24. Oktober 2007 (Stand am 1. Januar 2026)
+vom 24. Oktober 2007 (Stand am 22. April 2026)
 
 Der Schweizerische Bundesrat,
 
@@ -1809,7 +1809,7 @@ Der Nachweis für Sprachkompetenzen in einer Landessprache gilt als erbracht, we
 - c. eine Ausbildung auf Sekundarstufe II oder Tertiärstufe in dieser Landessprache besucht hat; oder
 - d. über einen Sprachnachweis verfügt, der die entsprechenden Sprachkompetenzen in dieser Landessprache bescheinigt und der sich auf ein Sprachnachweisverfahren abstützt, das den allgemein anerkannten Qualitätsstandards für Sprachtests entspricht.
 
-<sup>2</sup> Das SEM unterstützt die Kantone bei der Prüfung der Sprachnachweise nach Absatz 2 Buchstabe d. Es kann Dritte mit dieser Aufgabe betrauen.
+<sup>2</sup> Das SEM unterstützt die Kantone bei der Prüfung der Sprachnachweise nach Absatz 1 Buchstabe d. Es kann Dritte mit dieser Aufgabe betrauen.
 
 #### Art. 77e
 
@@ -1910,11 +1910,12 @@ Die kantonalen Behörden können dem SEM einen Antrag auf Erlass eines Einreisev
 
 ### (Art. 97 Abs. 3 Bst. a und b AIG)
 
-<sup>1</sup> Die Polizei- und Gerichtsbehörden sowie die Strafuntersuchungsbehörden melden der kantonalen Migrationsbehörde unaufgefordert die Anhebung und die Einstellung von Strafuntersuchungen, Verhaftungen und Entlassungen, von denen Ausländerinnen und Ausländer betroffen sind, sowie entsprechende zivil- und strafrechtliche Urteile.
+<sup>1</sup> Die Polizei- und Gerichtsbehörden sowie die Strafuntersuchungsbehörden melden der kantonalen Migrationsbehörde unaufgefordert die Anhebung und die Einstellung von Strafuntersuchungen, Verhaftungen und Entlassungen, von denen Ausländerinnen und Ausländer betroffen sind, sowie entsprechende zivil- und strafrechtliche Urteile.[^82-2]
 
 <sup>2</sup> Eine Meldung erfolgt zudem, wenn sich eine kontrollierte Person rechtswidrig in der Schweiz aufhält.
 
 [^82-1]: Fassung gemäss Ziff. I der V vom 15. Aug. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 3173](https://fedlex.data.admin.ch/eli/oc/2018/510)).
+[^82-2]: Die Berichtigung vom 22. April 2026 betrifft nur den italienischen Text ([AS 2026 170](https://fedlex.data.admin.ch/eli/oc/2026/170)).
 
 #### Art. 82a
 

@@ -4,11 +4,11 @@ title: "Ordinanza del 24 ottobre 2007 sull'ammissione, il soggiorno e l'attivit�
 short: OASA
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/759"
 language: it
-version: 2026-01-01
+version: 2026-04-22
 adopted: 2007-10-24
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/759/20260101/it/xml/fedlex-data-admin-ch-eli-cc-2007-759-20260101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/759/20260101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/759/20260422/it/xml/fedlex-data-admin-ch-eli-cc-2007-759-20260422-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/759/20260422/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/759/20260101/it"
 
 (OASA)
 
-del 24 ottobre 2007 (Stato 1° gennaio 2026)
+del 24 ottobre 2007 (Stato 22 aprile 2026)
 
 Il Consiglio federale svizzero,
 
@@ -1830,7 +1830,7 @@ Le competenze linguistiche in una lingua nazionale sono considerate dimostrate s
 - c. ha frequentato una formazione di livello secondario II o terziario in detta lingua nazionale; oppure
 - d. dispone di un certificato attestante le pertinenti competenze linguistiche in detta lingua nazionale, basato su una procedura di certificazione linguistica conforme agli standard qualitativi generalmente riconosciuti per i test linguistici.
 
-<sup>2</sup> La SEM supporta i Cantoni nel verificare la dimostrazione delle competenze linguistiche secondo il capoverso 2 lettera d. Può demandare questo compito a terzi.
+<sup>2</sup> La SEM supporta i Cantoni nel verificare la dimostrazione delle competenze linguistiche secondo il capoverso 1 lettera d. Può demandare questo compito a terzi.
 
 #### Art. 77e
 
@@ -1931,11 +1931,12 @@ Le autorità cantonali possono chiedere alla SEM di pronunciare un divieto d’e
 
 ### (art. 97 cpv. 3 lett. a *e* b LStrI)
 
-<sup>1</sup> Le autorità di polizia, quelle giudiziarie e quelle preposte alle inchieste penali comunicano spontaneamente alle autorità cantonali della migrazione l’avvio e la sospensione di inchieste penali, la carcerazione o la liberazione e le corrispondenti sentenze di diritto penale riguardanti gli stranieri.
+<sup>1</sup> Le autorità di polizia e giudiziarie così come le autorità istruttorie penali comunicano spontaneamente alle autorità cantonali della migrazione l’avvio e la sospensione di inchieste penali, la carcerazione o la liberazione nonché tutte le sentenze di diritto civile e penale riguardanti gli stranieri.[^82-2]
 
 <sup>2</sup> Comunicano parimenti se uno straniero controllato soggiorna illegalmente in Svizzera.
 
 [^82-1]: Nuovo testo giusta la cifra I dell’O del 15 ago. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3173](https://fedlex.data.admin.ch/eli/oc/2018/510)).
+[^82-2]: Correzione del 22 apr. 2026 ([RU 2026 170](https://fedlex.data.admin.ch/eli/oc/2026/170)).
 
 #### Art. 82a
 
