@@ -3,11 +3,11 @@ sr: "0.748.095.14"
 title: Scambio di note del 27 gennaio 2003 tra la Svizzera e il Liechtenstein relativo alla collaborazione tra le autorità svizzere e liechtensteinensi in materia di aviazione civile (con allegati)
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/487"
 language: it
-version: 2025-10-29
+version: 2026-04-22
 adopted: 2003-01-27
 in_force: 2003-01-27
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/487/20251029/it/xml/fedlex-data-admin-ch-eli-cc-2003-487-20251029-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/487/20251029/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/487/20260422/it/xml/fedlex-data-admin-ch-eli-cc-2003-487-20260422-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/487/20260422/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -18,7 +18,7 @@ RU **2003** 3431
 
 Entrato in vigore il 27 gennaio 2003
 
-(Stato 29 ottobre 2025)
+(Stato 22 aprile 2026)
 
 Traduzione
 
@@ -89,8 +89,8 @@ L’Ambasciata del Principato del Liechtenstein coglie questa occasione per rinn
 Allegati[^t-5]
 
 <table>
-<tr><td>Allegato I</td><td>– Elenco degli atti normativi federali applicabili al Principato del Liechtenstein</td></tr>
-<tr><td>Allegato II</td><td>– Elenco dei trattati internazionali applicabili al Principato del Liechtenstein</td></tr>
+<tr><td>**Allegato I**</td><td>– Elenco degli atti normativi federali applicabili al Principato del Liechtenstein</td></tr>
+<tr><td>**Allegato II**</td><td>– Elenco dei trattati internazionali applicabili al Principato del Liechtenstein</td></tr>
 </table>
 
-[^t-5]: Gli all. I e II sono stati aggiornati dal 27 gen. 2003 semestralmente, l’ultima volta il 29 ott. 2025 (stato: 30 giugno 2025). Questi all. non sono pubblicati nella RU ([RU 2020 4561](https://fedlex.data.admin.ch/eli/oc/2020/806); [2021 638](https://fedlex.data.admin.ch/eli/oc/2021/638), [712](https://fedlex.data.admin.ch/eli/oc/2021/712); [2022 211](https://fedlex.data.admin.ch/eli/oc/2022/211), [628](https://fedlex.data.admin.ch/eli/oc/2022/628); [2023 224](https://fedlex.data.admin.ch/eli/oc/2023/224), [625](https://fedlex.data.admin.ch/eli/oc/2023/625); [2024 176](https://fedlex.data.admin.ch/eli/oc/2024/176), [497](https://fedlex.data.admin.ch/eli/oc/2024/497); [2025 247](https://fedlex.data.admin.ch/eli/oc/2025/247), [706](https://fedlex.data.admin.ch/eli/oc/2025/706)). Possono essere consultati sul sito Internet: www.gesetze.li &gt;[LR ‑Nr. 170.551.748](https://www.gesetze.li/chrono/2025506000).
+[^t-5]: Gli all. I e II sono stati aggiornati dal 27 gen. 2003 semestralmente, l’ultima volta il 22 apr. 2026 (stato: 31 dicembre 2025). Questi all. non sono pubblicati nella RU ([RU 2020 4561](https://fedlex.data.admin.ch/eli/oc/2020/806); [2021 638](https://fedlex.data.admin.ch/eli/oc/2021/638), [712](https://fedlex.data.admin.ch/eli/oc/2021/712); [2022 211](https://fedlex.data.admin.ch/eli/oc/2022/211), [628](https://fedlex.data.admin.ch/eli/oc/2022/628); [2023 224](https://fedlex.data.admin.ch/eli/oc/2023/224), [625](https://fedlex.data.admin.ch/eli/oc/2023/625); [2024 176](https://fedlex.data.admin.ch/eli/oc/2024/176), [497](https://fedlex.data.admin.ch/eli/oc/2024/497); [2025 247](https://fedlex.data.admin.ch/eli/oc/2025/247), [706](https://fedlex.data.admin.ch/eli/oc/2025/706); [2026 187](https://fedlex.data.admin.ch/eli/oc/2026/187)). Possono essere consultati sul sito Internet: www.gesetze.li &gt;[LR-Nr. 170.551.748](https://www.gesetze.li/chrono/2026129000).
