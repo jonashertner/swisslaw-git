@@ -4,24 +4,23 @@ number: "258.210"
 title: Verordnung über den Justizvollzug
 short: "Justizvollzugsverordnung, JVV"
 language: de
-version: 2020-07-01
-valid_until: 2026-04-22
-version_adopted: 2020-06-23
+version: 2026-04-23
+version_adopted: 2026-04-14
 adopted: 2020-06-23
 in_force: 2020-07-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/258.210"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/4943/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6803/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über den Justizvollzug
 
-Justizvollzugsverordnung | Strafvollzug / Gefängniswesen
+Strafvollzug / Gefängniswesen
 
 (Justizvollzugsverordnung, JVV)
 
-Vom 23. Juni 2020 (Stand 1. Juli 2020)
+Vom 23. Juni 2020 (Stand 23. April 2026)
 
 Der Regierungsrat des Kantons Basel-Stadt,
 
@@ -62,7 +61,7 @@ beschiesst:
 <sup>1</sup> Das Amt für Justizvollzug des Justiz- und Sicherheitsdepartements setzt sich aus der Leitung sowie folgenden Abteilungen und Vollzugseinrichtungen zusammen:
 
 - a) Straf- und Massnahmenvollzug;
-- b) Bewährungshilfe;
+- b) Bewährungsdienste;
 - c) Untersuchungsgefängnis Basel-Stadt;
 - d) Gefängnis Bässlergut;
 - e) Vollzugszentrum Klosterfiechten.
@@ -85,9 +84,9 @@ beschiesst:
 
 #### § 5
 
-**Abteilung Bewährungshilfe**
+**Abteilung Bewährungsdienste**
 
-<sup>1</sup> Die Abteilung Bewährungshilfe ist zuständig für:
+<sup>1</sup> Die Abteilung Bewährungsdienste ist zuständig für:
 
 - a) die Durchführung der gesetzlichen Bewährungshilfe (Art. 93 StGB);
 - b) die Kontrolle von Weisungen (Art. 94 StGB);
@@ -294,7 +293,9 @@ beschiesst:
 
 <sup>1</sup> Die Verfahrensleitung übermittelt der Abteilung Straf- und Massnahmenvollzug mit der Bewilligung des vorzeitigen Straf- und Massnahmenvollzugs die erforderlichen Akten.
 
-<sup>2</sup> Sie entscheidet über Vollzugsöffnungen und Haftentlassungen. Vorgängig holt sie die Stellungnahme der Abteilung Straf- und Massnahmenvollzug ein.
+<sup>2</sup> Die Vollzugsbehörde entscheidet über Vollzugsöffnungen. Vorgängig kann sie die Stellungnahme der Verfahrensleitung einholen.
+
+<sup>3</sup> Die Verfahrensleitung entscheidet über Haftentlassungen. Vorgängig kann sie die Stellungnahme der Vollzugsbehörde einholen.
 
 #### § 23
 
@@ -573,11 +574,11 @@ beschiesst:
 
 **Bewährungshilfe**
 
-<sup>1</sup> Die Abteilung Bewährungshilfe erfüllt ihren gesetzlichen Auftrag nach den Standards und Richtlinien des Konkordats.
+<sup>1</sup> Die Abteilung Bewährungsdienste erfüllt ihren gesetzlichen Auftrag nach den Standards und Richtlinien des Konkordats.
 
 <sup>2</sup> Mit der Bewährungshilfe soll die Rückfälligkeit der betreuten Person vermindert und die dafür erforderliche Sozial- und Fachhilfe vermittelt werden. Die Eigenständigkeit und Eigenverantwortung der betreuten Person sowie die Eingliederung in die Gesellschaft werden gefördert. Dabei wird dem Unterstützungs-, Kontroll- und Veränderungsbedarf der betreuten Person besonders Rechnung getragen.
 
-<sup>3</sup> Bei Nichteinhaltung der angeordneten Bewährungshilfe und der Weisungen kann die Abteilung Bewährungshilfe die betreute Person verwarnen.
+<sup>3</sup> Bei Nichteinhaltung der angeordneten Bewährungshilfe und der Weisungen kann die Abteilung Bewährungsdienste die betreute Person verwarnen.
 
 <sup>4</sup> Die Bewährungshilfe kann auch auf freiwilliger Basis in Anspruch genommen werden.
 
@@ -585,7 +586,7 @@ beschiesst:
 
 **Berichterstattung**
 
-<sup>1</sup> Im Auftrag oder bei besonderen Vorkommnissen erstellt die Abteilung Bewährungshilfe Berichte über die betreute Person für die Staatsanwaltschaft, die Gerichte oder die Vollzugsbehörde.
+<sup>1</sup> Im Auftrag oder bei besonderen Vorkommnissen erstellt die Abteilung Bewährungsdienste Berichte über die betreute Person für die Staatsanwaltschaft, die Gerichte oder die Vollzugsbehörde.
 
 <sup>2</sup> Der Bericht enthält soweit erforderlich Angaben über die Persönlichkeit der betreuten Person, ihr persönliches Umfeld, den Verlauf der Betreuung, die Veränderungen in den deliktrelevanten Problembereichen sowie über den Unterstützungs- und Kontrollbedarf. Die betreute Person wird über den Inhalt des Berichts informiert.
 
@@ -593,7 +594,7 @@ beschiesst:
 
 **Mitwirkungspflichten**
 
-<sup>1</sup> Die betreute Person ist verpflichtet, die ihr auferlegten Weisungen einzuhalten sowie den Terminen und Absprachen mit der Abteilung Bewährungshilfe nachzukommen.
+<sup>1</sup> Die betreute Person ist verpflichtet, die ihr auferlegten Weisungen einzuhalten sowie den Terminen und Absprachen mit der Abteilung Bewährungsdienste nachzukommen.
 
 #### § 53
 
@@ -605,7 +606,7 @@ beschiesst:
 
 **Delegation**
 
-<sup>1</sup> Die Abteilung Bewährungshilfe kann zur Erfüllung ihrer Aufgaben weitere Fachstellen und private Personen beiziehen.
+<sup>1</sup> Die Abteilung Bewährungsdienste kann zur Erfüllung ihrer Aufgaben weitere Fachstellen und private Personen beiziehen.
 
 <sup>2</sup> Sie schliesst mit den beigezogenen Fachstellen und Personen eine Vereinbarung über die Ausgestaltung des Auftrags, die konkrete Zusammenarbeit sowie Meldepflichten bei besonderen Vorkommnissen ab.
 
@@ -822,6 +823,12 @@ beschiesst:
 **Betriebsbewilligung für private Einrichtungen mit bestehendem Auftrag**
 
 <sup>1</sup> Private Einrichtungen haben spätestens bis zum 1. Januar 2022 eine Betriebsbewilligung gemäss § 70 einzuholen.
+
+#### § 78
+
+**Übergangsbestimmung zur Änderung betreffend § 22 Abs. 2**
+
+<sup>1</sup> Wurde der vorzeitige Straf- oder Massnahmenvollzug vor dem 1. Januar 2024 gewährt, wird vor dem Entscheid über eine Vollzugsöffnung in jedem Fall die Stellungnahme der Verfahrensleitung eingeholt.
 
 *Schlussbestimmung*
 
