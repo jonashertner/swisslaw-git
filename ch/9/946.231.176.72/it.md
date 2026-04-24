@@ -3,18 +3,18 @@ sr: "946.231.176.72"
 title: Ordinanza del 4 marzo 2022 che istituisce provvedimenti in relazione alla situazione in Ucraina
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/151"
 language: it
-version: 2026-04-01
+version: 2026-04-25
 adopted: 2022-03-04
 in_force: 2022-03-04
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/151/20260401/it/xml/fedlex-data-admin-ch-eli-cc-2022-151-20260401-it-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/151/20260401/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/151/20260425/it/xml/fedlex-data-admin-ch-eli-cc-2022-151-20260425-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/151/20260425/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza che istituisce provvedimenti in relazione alla situazione in Ucraina
 
-del 4 marzo 2022 (Stato 1° aprile 2026)
+del 4 marzo 2022 (Stato 25 aprile 2026)
 
 Il Consiglio federale svizzero,
 
@@ -791,7 +791,7 @@ Il divieto di cui al capoverso 1 non si applica:
 
 **Acquisto e importazione di gas naturale liquefatto**[^12g-1]
 
-<sup>1</sup> …
+<sup>1</sup> Sono vietati l’acquisto, l’importazione e il trasporto di gas naturale liquefatto della voce di tariffa doganale 2711 11 originario della Federazione Russa o proveniente dalla Federazione Russa.
 
 <sup>2</sup> È vietato fornire servizi di qualsiasi tipo, compresi i servizi finanziari, l’intermediazione e l’assistenza tecnica, così come concedere mezzi finanziari in relazione con il gas naturale liquefatto di cui al capoverso 1.
 
@@ -2839,7 +2839,12 @@ L’articolo 14*c* capoversi 1 e 2 non si applica:
 
 <sup>38</sup> L’articolo 11 capoverso 1<sup>bis</sup> non si applica agli affari concordati prima del 15 maggio 2025 ed eseguiti entro il 16 agosto 2025.[^35-39]
 
-<sup>39</sup> L’articolo 28*e* capoverso 1<sup>quater</sup> non si applica alla fornitura di software con finalità specifiche nel settore bancario e finanziario di cui all’allegato 32 numero 3, a condizione che ciò sia necessario per l’esecuzione entro il 31 gennaio 2026 di contratti conclusi prima del 30 ottobre 2025.[^35-40]
+<sup>39</sup>
+
+Il divieto di cui all’articolo 12*g* capoverso 1 non si applica ai contratti con scadenza superiore a un anno concordati prima del 26 febbraio 2026 ed eseguiti entro il 1° gennaio 2027 se tali contratti:
+
+- a. non riguardano l’acquisto, l’importazione, il transito o il trasporto di derivati del gas naturale;
+- b. non hanno subìto modifiche significative.[^35-40]
 
 <sup>40</sup> L’articolo 28*b*<sup>bis</sup> capoverso 1 non si applica all’esecuzione entro il 27 maggio 2026 dei contratti conclusi prima del 26 febbraio 2026.[^35-41]
 
@@ -2886,7 +2891,7 @@ L’articolo 14*c* capoversi 1 e 2 non si applica:
 [^35-37]: Introdotto dalla cifra I dell’O del 14 mag. 2025 ([RU 2025 310](https://fedlex.data.admin.ch/eli/oc/2025/310)). Nuovo testo giusta la cifra I dell’O del 25 feb. 2026, in vigore dal 26 feb. 2026 ([RU 2026 92](https://fedlex.data.admin.ch/eli/oc/2026/92)).
 [^35-38]: Introdotto dalla cifra I dell’O del 14 mag. 2025, in vigore dal 15 mag. 2025 ([RU 2025 310](https://fedlex.data.admin.ch/eli/oc/2025/310)).
 [^35-39]: Introdotto dalla cifra I dell’O del 14 mag. 2025, in vigore dal 15 mag. 2025 ([RU 2025 310](https://fedlex.data.admin.ch/eli/oc/2025/310)).
-[^35-40]: Introdotto dalla cifra I dell’O del 29 ott. 2025, in vigore dal 30 ott. 2025 ([RU 2025 662](https://fedlex.data.admin.ch/eli/oc/2025/662)).
+[^35-40]: Introdotto dalla cifra I dell’O del 29 ott. 2025 ([RU 2025 662](https://fedlex.data.admin.ch/eli/oc/2025/662)). Nuovo testo giusta la cifra I dell’O del 25 feb. 2026, in vigore dal 25 apr. 2026 ([RU 2026 92](https://fedlex.data.admin.ch/eli/oc/2026/92)).
 [^35-41]: Introdotto dalla cifra I dell’O del 25 feb. 2026, in vigore dal 26 feb. 2026 ([RU 2026 92](https://fedlex.data.admin.ch/eli/oc/2026/92)).
 [^35-42]: Introdotto dalla cifra I dell’O del 25 feb. 2026, in vigore dal 26 feb. 2026 ([RU 2026 92](https://fedlex.data.admin.ch/eli/oc/2026/92)).
 [^35-43]: Introdotto dalla cifra I dell’O del 25 feb. 2026, in vigore dal 26 feb. 2026 ([RU 2026 92](https://fedlex.data.admin.ch/eli/oc/2026/92)).

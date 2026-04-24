@@ -3,18 +3,18 @@ sr: "946.231.176.72"
 title: Verordnung vom 4. März 2022 über Massnahmen im Zusammenhang mit der Situation in der Ukraine
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/151"
 language: de
-version: 2026-04-01
+version: 2026-04-25
 adopted: 2022-03-04
 in_force: 2022-03-04
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/151/20260401/de/xml/fedlex-data-admin-ch-eli-cc-2022-151-20260401-de-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/151/20260401/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/151/20260425/de/xml/fedlex-data-admin-ch-eli-cc-2022-151-20260425-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/151/20260425/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über Massnahmen im Zusammenhang mit der Situation in der Ukraine
 
-vom 4. März 2022 (Stand am 1. April 2026)
+vom 4. März 2022 (Stand am 25. April 2026)
 
 Der Schweizerische Bundesrat,
 
@@ -794,7 +794,7 @@ Das Verbot nach Absatz 1 gilt nicht für:
 
 **Kauf und Einfuhr von Flüssigerdgas**[^12g-1]
 
-<sup>1</sup> …
+<sup>1</sup> Der Kauf, die Einfuhr, die Durchfuhr und der Transport von Flüssigerdgas der Zolltarifnummer 2711 11 aus oder mit Ursprung in der Russischen Föderation sind verboten.
 
 <sup>2</sup> Die Erbringung von Dienstleistungen aller Art, einschliesslich Finanzdienstleistungen, Vermittlung und technischer Hilfe, sowie die Gewährung von Finanzmitteln im Zusammenhang mit Flüssigerdgas nach Absatz 1 sind verboten.
 
@@ -2843,7 +2843,12 @@ Artikel 14*c* Absätze 1 und 2 ist nicht anwendbar auf:
 
 <sup>38</sup> Artikel 11 Absatz 1<sup>bis</sup> ist nicht anwendbar auf Geschäfte, die vor dem 15. Mai 2025 vereinbart wurden und bis zum 16. August 2025 erfüllt sind.[^35-39]
 
-<sup>39</sup> Artikel 28*e* Absatz 1<sup>quater</sup> ist nicht anwendbar auf die Bereitstellung von Software mit bestimmten Verwendungszwecken im Banken- und Finanzsektor gemäss Anhang 32 Ziffer 3, sofern dies erforderlich ist, um vor dem 30. Oktober 2025 geschlossene Verträge bis zum 31. Januar 2026 zu erfüllen.[^35-40]
+<sup>39</sup>
+
+Artikel 12*g* Absatz 1 ist nicht anwendbar auf Verträge mit einer Laufzeit von mehr als einem Jahr, die vor dem 26. Februar 2026 vereinbart wurden und bis zum 1. Januar 2027 erfüllt wurden, wenn sie:
+
+- a. nicht den Kauf, die Einfuhr, die Durchfuhr oder den Transport von Erdgasderivaten betreffen;
+- b. nicht massgeblich geändert wurden.[^35-40]
 
 <sup>40</sup> Artikel 28*b*<sup>bis</sup> Absatz 1 ist nicht anwendbar auf die Erfüllung von vor dem 26. Februar 2026 geschlossenen Verträgen bis zum 27. Mai 2026.[^35-41]
 
@@ -2890,7 +2895,7 @@ Artikel 14*c* Absätze 1 und 2 ist nicht anwendbar auf:
 [^35-37]: Eingefügt durch Ziff. I der V vom 14. Mai 2025 ([AS 2025 310](https://fedlex.data.admin.ch/eli/oc/2025/310)). Fassung gemäss Ziff. I der V vom 25. Febr. 2026, in Kraft seit 26. Febr. 2026 ([AS 2026 92](https://fedlex.data.admin.ch/eli/oc/2026/92)).
 [^35-38]: Eingefügt durch Ziff. I der V vom 14. Mai 2025, in Kraft seit 15. Mai 2025 ([AS 2025 310](https://fedlex.data.admin.ch/eli/oc/2025/310)).
 [^35-39]: Eingefügt durch Ziff. I der V vom 14. Mai 2025, in Kraft seit 15. Mai 2025 ([AS 2025 310](https://fedlex.data.admin.ch/eli/oc/2025/310)).
-[^35-40]: Eingefügt durch Ziff. I der V vom 29. Okt. 2025, in Kraft seit 30. Okt. 2025 ([AS 2025 662](https://fedlex.data.admin.ch/eli/oc/2025/662)).
+[^35-40]: Eingefügt durch Ziff. I der V vom 29. Okt. 2025 ([AS 2025 662](https://fedlex.data.admin.ch/eli/oc/2025/662)). Fassung gemäss Ziff. I der V vom 25. Febr. 2026, in Kraft seit 25. April 2026 ([AS 2026 92](https://fedlex.data.admin.ch/eli/oc/2026/92)).
 [^35-41]: Eingefügt durch Ziff. I der V vom 25. Febr. 2026, in Kraft seit 26. Febr. 2026 ([AS 2026 92](https://fedlex.data.admin.ch/eli/oc/2026/92)).
 [^35-42]: Eingefügt durch Ziff. I der V vom 25. Febr. 2026, in Kraft seit 26. Febr. 2026 ([AS 2026 92](https://fedlex.data.admin.ch/eli/oc/2026/92)).
 [^35-43]: Eingefügt durch Ziff. I der V vom 25. Febr. 2026, in Kraft seit 26. Febr. 2026 ([AS 2026 92](https://fedlex.data.admin.ch/eli/oc/2026/92)).
