@@ -3,18 +3,18 @@ sr: "946.231.176.72"
 title: Ordinanza del 4 marzo 2022 che istituisce provvedimenti in relazione alla situazione in Ucraina
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/151"
 language: it
-version: 2026-04-25
+version: 2026-04-26
 adopted: 2022-03-04
 in_force: 2022-03-04
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/151/20260425/it/xml/fedlex-data-admin-ch-eli-cc-2022-151-20260425-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/151/20260425/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/151/20260426/it/xml/fedlex-data-admin-ch-eli-cc-2022-151-20260426-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/151/20260426/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza che istituisce provvedimenti in relazione alla situazione in Ucraina
 
-del 4 marzo 2022 (Stato 25 aprile 2026)
+del 4 marzo 2022 (Stato 26 aprile 2026)
 
 Il Consiglio federale svizzero,
 
@@ -749,20 +749,7 @@ I divieti di cui ai capoversi 1–6 non si applicano:
 
 #### Art. 12e
 
-**Acquisto e importazione di gas naturale liquefatto attraverso terminali non connessi**[^12e-1]
-
-<sup>1</sup> Sono vietati l’acquisto, l’importazione, il transito e il trasporto di gas naturale liquefatto della voce di tariffa doganale 2711 11 originario della Federazione Russa o proveniente dalla Federazione Russa attraverso terminali non connessi alla rete di gas naturale nell’Unione europea.
-
-<sup>2</sup> È vietato fornire servizi di qualsiasi tipo, compresi i servizi finanziari, l’intermediazione e l’assistenza tecnica, così come concedere mezzi finanziari in relazione con il gas naturale liquefatto di cui al capoverso 1.
-
-<sup>3</sup> I divieti di cui ai capoversi 1 e 2 non si applicano alla fornitura del gas naturale liquefatto di cui al capoverso 1 dalla terraferma dell’Unione europea alle sue regioni ultraperiferiche.
-
-<sup>4</sup>
-
-D’intesa con i servizi competenti del DFAE e del DATEC, la SECO può concedere deroghe ai capoversi 1 e 2 per l’acquisto, l’importazione, il transito o il trasporto di gas naturale liquefatto della voce di tariffa doganale 2711 11 da parte di uno Stato membro dell’UE con terminali di gas naturale liquefatto non connessi alla rete di gas naturale nell’Unione europea, a condizione che:
-
-- a. il gas naturale liquefatto sia stato acquistato, importato o trasportato da un terminale situato in un altro Stato membro dell’UE e tale terminale sia connesso alla rete di gas naturale; e
-- b. l’acquisto, l’importazione, il transito o il trasporto siano finalizzati all’approvvigionamento energetico.
+[^12e-1]
 
 [^12e-1]: Introdotto dalla cifra I dell’O del 16 ott. 2024 ([RU 2024 564](https://fedlex.data.admin.ch/eli/oc/2024/564)). Nuovo testo giusta la cifra I dell’O del 25 feb. 2026, in vigore dal 26 feb. 2026 al 25 apr. 2026 ([RU 2026 92](https://fedlex.data.admin.ch/eli/oc/2026/92)).
 

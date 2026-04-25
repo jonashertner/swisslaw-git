@@ -3,18 +3,18 @@ sr: "946.231.176.72"
 title: Verordnung vom 4. März 2022 über Massnahmen im Zusammenhang mit der Situation in der Ukraine
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/151"
 language: de
-version: 2026-04-25
+version: 2026-04-26
 adopted: 2022-03-04
 in_force: 2022-03-04
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/151/20260425/de/xml/fedlex-data-admin-ch-eli-cc-2022-151-20260425-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/151/20260425/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/151/20260426/de/xml/fedlex-data-admin-ch-eli-cc-2022-151-20260426-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/151/20260426/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über Massnahmen im Zusammenhang mit der Situation in der Ukraine
 
-vom 4. März 2022 (Stand am 25. April 2026)
+vom 4. März 2022 (Stand am 26. April 2026)
 
 Der Schweizerische Bundesrat,
 
@@ -752,20 +752,7 @@ Die Verbote nach den Absätzen 1–6 gelten nicht für:
 
 #### Art. 12e
 
-**Kauf und Einfuhr von Flüssigerdgas über nicht angeschlossene Terminals**[^12e-1]
-
-<sup>1</sup> Der Kauf, die Einfuhr, die Durchfuhr und der Transport von Flüssigerdgas der Zolltarifnummer 2711 11 aus oder mit Ursprung in der Russischen Föderation über nicht an das Erdgasnetz angeschlossene Terminals in der Europäischen Union sind verboten.
-
-<sup>2</sup> Die Erbringung von Dienstleistungen aller Art, einschliesslich Finanzdienstleistungen, Vermittlung und technischer Hilfe, sowie die Gewährung von Finanzmitteln im Zusammenhang mit Flüssigerdgas nach Absatz 1 sind verboten.
-
-<sup>3</sup> Die Verbote nach den Absätzen 1 und 2 gelten nicht für die Lieferung von Flüssigerdgas nach Absatz 1 vom Festland der Europäischen Union an ihre Gebiete in äusserster Randlage.
-
-<sup>4</sup>
-
-Das SECO kann nach Rücksprache mit den zuständigen Stellen des EDA und des UVEK Ausnahmen von den Verboten nach den Absätzen 1 und 2 bewilligen für den Kauf, die Einfuhr, die Durchfuhr oder den Transport von Flüssigerdgas der Zolltarifnummer 2711 11 durch einen EU-Mitgliedstaat mit Flüssigerdgasterminals ohne Anschluss an das Erdgasnetz, sofern:
-
-- a. das Flüssigerdgas von einem Terminal in einem anderen EU-Mitgliedstaat gekauft, eingeführt oder transportiert wurde und der Terminal an das Erdgasnetz angeschlossen ist; und
-- b. der Kauf, die Einfuhr, die Durchfuhr oder der Transport der Sicherstellung der Energieversorgung dient.
+[^12e-1]
 
 [^12e-1]: Eingefügt durch Ziff. I der V vom 16. Okt. 2024 ([AS 2024 564](https://fedlex.data.admin.ch/eli/oc/2024/564)). Fassung gemäss Ziff. I der V vom 25. Febr. 2026, in Kraft vom 26. Febr. 2026 bis 25. April 2026 ([AS 2026 92](https://fedlex.data.admin.ch/eli/oc/2026/92)).
 

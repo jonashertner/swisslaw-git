@@ -3,18 +3,18 @@ sr: "946.231.176.72"
 title: Ordonnance du 4 mars 2022 instituant des mesures en lien avec la situation en Ukraine
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/151"
 language: fr
-version: 2026-04-25
+version: 2026-04-26
 adopted: 2022-03-04
 in_force: 2022-03-04
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/151/20260425/fr/xml/fedlex-data-admin-ch-eli-cc-2022-151-20260425-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/151/20260425/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/151/20260426/fr/xml/fedlex-data-admin-ch-eli-cc-2022-151-20260426-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/151/20260426/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance instituant des mesures en lien avec la situation en Ukraine
 
-du 4 mars 2022 (État le 25 avril 2026)
+du 4 mars 2022 (État le 26 avril 2026)
 
 Le Conseil fédéral suisse,
 
@@ -747,20 +747,7 @@ Les interdictions prévues aux al. 1 à 6 ne s’appliquent pas:
 
 #### Art. 12e
 
-**Achat et importation de gaz naturel liquéfié par l’intermédiaire de terminaux non raccordés**[^12e-1]
-
-<sup>1</sup> L’achat, l’importation, le transit et le transport de gaz naturel liquéfié de la position tarifaire 2711 11 originaire ou provenant de la Fédération de Russie par l’intermédiaire de terminaux de gaz naturel liquéfié de l’Union européenne non raccordés au réseau de gaz naturel interconnecté sont interdits.
-
-<sup>2</sup> La fourniture de services de toute sorte, y compris les services financiers, les services de courtage et l’assistance technique, ainsi que l’octroi de moyens financiers en lien avec le gaz naturel liquéfié visé à l’al. 1 sont interdits.
-
-<sup>3</sup> Les interdictions prévues aux al. 1 et 2 ne s’appliquent pas à la livraison de gaz naturel liquéfié visé à l’al. 1 aux régions ultrapériphériques de l’Union européenne à partir du territoire continental de celle-ci.
-
-<sup>4</sup>
-
-Le SECO peut, après avoir consulté les services compétents du DFAE et du DETEC, autoriser des dérogations aux interdictions prévues aux al. 1 et 2 pour l’achat, l’importation, le transit et le transport de gaz naturel liquéfié de la position tarifaire 2711 11 par un État membre de l’Union européenne disposant d’un terminal de gaz naturel liquéfié non raccordé au réseau de gaz naturel interconnecté, pour autant que les conditions suivantes soient réunies:
-
-- a. le gaz naturel liquéfié est acheté, importé ou transporté à partir d’un terminal situé dans un autre État membre de l’Union européenne et ce terminal est raccordé au réseau de gaz naturel interconnecté;
-- b. l’achat, l’importation, le transit ou le transport sert à garantir l’approvisionnement en énergie.
+[^12e-1]
 
 [^12e-1]: Introduit par le ch. I de l’O du 16 oct. 2024 ([RO 2024 564](https://fedlex.data.admin.ch/eli/oc/2024/564)). Nouvelle teneur selon le ch. I de l’O du 25 fév. 2026, en vigueur du 26 fév. 2026 au 25 avr. 2026 ([RO 2026 92](https://fedlex.data.admin.ch/eli/oc/2026/92)).
 
