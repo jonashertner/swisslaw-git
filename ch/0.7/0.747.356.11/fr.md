@@ -3,11 +3,11 @@ sr: "0.747.356.11"
 title: "Protocole du 19 novembre 1976 de la Convention d'Athènes 1974 relative au transport par mer de passagers et de leurs bagages"
 eli: "https://fedlex.data.admin.ch/eli/cc/1989/1512_1512_1512"
 language: fr
-version: 2023-03-23
+version: 2026-04-28
 adopted: 1976-11-19
 in_force: 1989-04-30
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1989/1512_1512_1512/20230323/fr/xml/fedlex-data-admin-ch-eli-cc-1989-1512_1512_1512-20230323-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1989/1512_1512_1512/20230323/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1989/1512_1512_1512/20260428/fr/xml/fedlex-data-admin-ch-eli-cc-1989-1512_1512_1512-20260428-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1989/1512_1512_1512/20260428/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -26,7 +26,7 @@ Instrument d’adhésion déposé par la Suisse le 15 décembre 1987
 
 Entré en vigueur pour la Suisse le 30 avril 1989
 
-(État le 23 mars 2023)
+(État le 28 avril 2026)
 
 [^t-1]: Art.1 al. l de l’AF du 20 mars 1987 ([RO 1988 1143](https://fedlex.data.admin.ch/eli/oc/1988/1143_1143_1143)).
 
@@ -36,7 +36,7 @@ Les Parties au présent Protocole,
 
 sont convenues de ce qui suit:
 
-[^ingress-1]: [RS 0.747.356.1](https://fedlex.data.admin.ch/eli/cc/1988/1144_1144_1144)
+[^ingress-1]: [RS 0.747.356.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3092)
 
 #### Art. I
 
@@ -146,7 +146,7 @@ Le Secrétaire général:
 
 <sup>3.</sup> Dès l’entrée en vigueur du présent Protocole, le Secrétaire général en transmet une copie certifiée conforme au Secrétariat de l’Organisation des Nations Unies en vue de son enregistrement et de sa publication conformément à l’Article 102 de la Charte des Nations Unies[^VII-1].
 
-[^VII-1]: [RS 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
+[^VII-1]: [RS 0.120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/41)
 
 #### Art. VIII
 
@@ -156,14 +156,13 @@ Le présent Protocole est établi en un seul exemplaire original en langues angl
 
 *En foi de quoi,* les soussignés, dûment autorisés à cet effet, ont signé le présent Protocole. Fait à Londres ce dix-neuf novembre mil neuf cent soixante-seize. (Suivent les signatures)
 
-Champ d’application le 23 mars 2023[^t-2]
+Champ d’application le 28 avril 2026[^t-2]
 
 <table>
 <tr><th>États parties</th><th>Ratification Adhésion (A)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
 <tr><td>Arabie Saoudite</td><td>25 janvier</td><td>2019 A</td><td>25 avril</td><td>2019</td></tr>
 <tr><td>Argentine</td><td>28 avril</td><td>1987 A</td><td>30 avril</td><td>1989</td></tr>
 <tr><td>Bahamas</td><td>28 avril</td><td>1987 A</td><td>30 avril</td><td>1989</td></tr>
-<tr><td>Barbade</td><td>6 mai</td><td>1994 A</td><td>4 août</td><td>1994</td></tr>
 <tr><td>Chine\*</td><td>1<sup>er</sup> juin</td><td>1994 A</td><td>30 août</td><td>1994</td></tr>
 <tr><td>[tab] Hong Kong <sup>a</sup></td><td>5 juin</td><td>1997</td><td>1<sup>er</sup> juillet</td><td>1997</td></tr>
 <tr><td>[tab] Macao</td><td>24 juin</td><td>2005</td><td>24 juin</td><td>2005</td></tr>
@@ -178,10 +177,10 @@ Champ d’application le 23 mars 2023[^t-2]
 <tr><td>Ukraine</td><td>11 novembre</td><td>1994 A</td><td>9 février</td><td>1995</td></tr>
 <tr><td>Vanuatu</td><td>13 janvier</td><td>1989 A</td><td>30 avril</td><td>1989</td></tr>
 <tr><td>Yémen</td><td>28 avril</td><td>1987 A</td><td>30 avril</td><td>1989</td></tr>
-<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations, à l’exception de celles de la Suisse, ne sont pas publiées au RO. Les textes en anglais peuvent être obtenus à l’adresse du site Internet l’Organisation maritime internationale (OMI): www.imo.org &gt; Publications &gt; Catalogue & Code Listings, ou auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> Du 30 avril 1989 au 30 juin 1997, la conv. était applicable à Hong Kong sur la base d’une déclaration d’extension territoriale du Royaume-Uni. À partir du 1<sup>er</sup> juillet 1997, Hong Kong est devenue une Région administrative spéciale (RAS) de la République populaire de Chine. En vertu de la déclaration chinoise du 5 juin 1997, la conv. est également applicable à la RAS Hong Kong à partir du 1<sup>er</sup> juillet 1997.</td></tr>
+<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations, à l’exception de celles de la Suisse, ne sont pas publiées au RO. Les textes en anglais peuvent être obtenus à l’adresse du site Internet l’Organisation maritime internationale (OMI): [www.imo.org](http://www.imo.org) &gt; Publications &gt; Catalogue & Code Listings, ou auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> Du 30 avril 1989 au 30 juin 1997, la conv. était applicable à Hong Kong sur la base d’une déclaration d’extension territoriale du Royaume-Uni. À partir du 1<sup>er</sup> juillet 1997, Hong Kong est devenue une Région administrative spéciale (RAS) de la République populaire de Chine. En vertu de la déclaration chinoise du 5 juin 1997, la conv. est également applicable à la RAS Hong Kong à partir du 1<sup>er</sup> juillet 1997.</td></tr>
 </table>
 
-[^t-2]: [RO 1989 1512](https://fedlex.data.admin.ch/eli/oc/1989/1512_1512_1512); [2005 1309](https://fedlex.data.admin.ch/eli/oc/2005/197); [2007 4411](https://fedlex.data.admin.ch/eli/oc/2007/608); [2014 861](https://fedlex.data.admin.ch/eli/oc/2014/181); [2017 2285](https://fedlex.data.admin.ch/eli/oc/2017/211); [2023 158](https://fedlex.data.admin.ch/eli/oc/2023/158). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [https://www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).
+[^t-2]: [RO 1989 1512](https://fedlex.data.admin.ch/eli/oc/1989/1512_1512_1512); [2005 1309](https://fedlex.data.admin.ch/eli/oc/2005/197); [2007 4411](https://fedlex.data.admin.ch/eli/oc/2007/608); [2014 861](https://fedlex.data.admin.ch/eli/oc/2014/181); [2017 2285](https://fedlex.data.admin.ch/eli/oc/2017/211); [2023 158](https://fedlex.data.admin.ch/eli/oc/2023/158); [2026 186](https://fedlex.data.admin.ch/eli/oc/2026/186). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [https://www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).
 
 Déclarations
 

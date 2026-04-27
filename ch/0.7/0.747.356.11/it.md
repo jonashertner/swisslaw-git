@@ -3,24 +3,26 @@ sr: "0.747.356.11"
 title: "Protocollo del 19 novembre 1976 della Convenzione d'Atene del 1974 relativa al trasporto per mare di passeggeri e dei loro bagagli"
 eli: "https://fedlex.data.admin.ch/eli/cc/1989/1512_1512_1512"
 language: it
-version: 2023-03-23
+version: 2026-04-28
 adopted: 1976-11-19
 in_force: 1989-04-30
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1989/1512_1512_1512/20230323/it/xml/fedlex-data-admin-ch-eli-cc-1989-1512_1512_1512-20230323-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1989/1512_1512_1512/20230323/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1989/1512_1512_1512/20260428/it/xml/fedlex-data-admin-ch-eli-cc-1989-1512_1512_1512-20260428-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1989/1512_1512_1512/20260428/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Protocollo della Convenzione d’Atene del 1974 relativa al trasporto per mare di passeggeri e dei loro bagagli
 
+RU **1989** 1512; FF **1986** II 541
+
 Traduzione
 
 Concluso a Londra il 19 novembre 1976 Approvato dall’Assemblea federale il 20 marzo 1987[^t-1] Strumento d’adesione depositato dalla Svizzera il 15 dicembre 1987 Entrato in vigore per la Svizzera il 30 aprile 1989
 
-(Stato 23 marzo 2023)
+(Stato 28 aprile 2026)
 
-[^t-1]: RU **1989** 1512; FF **1986** II 541 RU **1988** 1143
+[^t-1]: [RU 1988 1143](https://fedlex.data.admin.ch/eli/oc/1988/1143_1143_1143)
 
 Le Parti del presente Protocollo,
 
@@ -28,7 +30,7 @@ essendo Parti della Convenzione d’Atene relativa al trasporto per mare di pass
 
 hanno convenuto quanto segue:
 
-[^ingress-1]: [RS 0.747.356.1](https://fedlex.data.admin.ch/eli/cc/1988/1144_1144_1144)
+[^ingress-1]: [RS 0.747.356.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3092)
 
 #### Art. I
 
@@ -42,37 +44,38 @@ Ai fini del presente Protocollo:
 
 #### Art. II
 
-<sup>1.</sup> *Il paragrafo 1 dell’articolo 7 della Convenzione è sostituito dal seguente testo:*
+<sup>1.</sup>
 
-<sup>1.</sup> La responsabilità del vettore derivante dalla morte o da lesioni personali di un passeggero è limitata, in ogni caso, a 46 666 unità di conto per trasporto. Se, secondo la legge del tribunale adito, l’indennità può essere accordata sotto forma di rendita, il capitale della rendita non può eccedere tale limite.
+*Il paragrafo 1 dell’articolo 7 della Convenzione è sostituito dal seguente testo:*
 
-<sup>2.</sup> *L’Articolo 8 della Convenzione è sostituito dal seguente testo:*
+- 1\. La responsabilità del vettore derivante dalla morte o da lesioni personali di un passeggero è limitata, in ogni caso, a 46 666 unità di conto per trasporto. Se, secondo la legge del tribunale adito, l’indennità può essere accordata sotto forma di rendita, il capitale della rendita non può eccedere tale limite.
 
-<sup>1.</sup> La responsabilità del vettore derivante da perdita o danni subiti dai bagagli di cabina è limitata, in ogni caso, a 833 unità di conto per passeggero e per trasporto.
+<sup>2.</sup>
 
-<sup>2.</sup> La responsabilità del vettore derivante da perdita o danni subiti dai veicoli, ivi compresi tutti i bagagli trasportati nel veicolo o su di esso, è limitata, in ogni caso, a 3333 unità di conto per veicolo e per trasporto.
+*L’Articolo 8 della Convenzione è sostituito dal seguente testo:*
 
-<sup>3.</sup> La responsabilità del vettore derivante da perdita o danni subiti dai bagagli diversi da quelli contemplati nei paragrafi 1 e 2 del presente articolo, è limitata, in ogni caso, a 1200 unità di conto per passeggero e per trasporto.
-
-<sup>4.</sup> Il vettore e il passeggero possono convenire che dall’importo per cui è responsabile il vettore sia dedotta una franchigia non eccedente 117 unità di conto in caso di danni causati a un veicolo e 13 unità di conto per passeggero un caso di perdita o di danni subiti da altri bagagli. Tale ammontare va dedotto dall’importo della perdita o del danno.
+- 1\. La responsabilità del vettore derivante da perdita o danni subiti dai bagagli di cabina è limitata, in ogni caso, a 833 unità di conto per passeggero e per trasporto.
+- 2\. La responsabilità del vettore derivante da perdita o danni subiti dai veicoli, ivi compresi tutti i bagagli trasportati nel veicolo o su di esso, è limitata, in ogni caso, a 3333 unità di conto per veicolo e per trasporto.
+- 3\. La responsabilità del vettore derivante da perdita o danni subiti dai bagagli diversi da quelli contemplati nei paragrafi 1 e 2 del presente articolo, è limitata, in ogni caso, a 1200 unità di conto per passeggero e per trasporto.
+- 4\. Il vettore e il passeggero possono convenire che dall’importo per cui è responsabile il vettore sia dedotta una franchigia non eccedente 117 unità di conto in caso di danni causati a un veicolo e 13 unità di conto per passeggero un caso di perdita o di danni subiti da altri bagagli. Tale ammontare va dedotto dall’importo della perdita o del danno.
 
 <sup>3.</sup> *L’articolo 9 della Convenzione e il suo titolo sono sostituiti come segue:*
 
 Unità di conto o unità monetaria e conversione
 
-<sup>1.</sup> L’unità di conto menzionata nella presente Convenzione è il Diritto di prelievo speciale quale definito dal Fondo monetario internazionale. Gli importi di cui agli articoli 7 e 8 sono convertiti nella moneta nazionale dello Stato a cui appartiene il tribunale adito, in base al valore di detta moneta alla data della sentenza o alla data adottata di comune accordo dalle parti. Il valore in Diritto di prelievo speciale della moneta nazionale di uno Stato membro del Fondo monetario internazionale è calcolato secondo il metodo di valutazione applicato dal Fondo monetario internazionale alla data in questione per le sue operazioni e transazioni. Il valore in Diritto di prelievo speciale della moneta nazionale di uno Stato non membro del Fondo monetario internazionale è calcolato secondo quanto stabilito da detto Stato.
+- 1\. L’unità di conto menzionata nella presente Convenzione è il Diritto di prelievo speciale quale definito dal Fondo monetario internazionale. Gli importi di cui agli articoli 7 e 8 sono convertiti nella moneta nazionale dello Stato a cui appartiene il tribunale adito, in base al valore di detta moneta alla data della sentenza o alla data adottata di comune accordo dalle parti. Il valore in Diritto di prelievo speciale della moneta nazionale di uno Stato membro del Fondo monetario internazionale è calcolato secondo il metodo di valutazione applicato dal Fondo monetario internazionale alla data in questione per le sue operazioni e transazioni. Il valore in Diritto di prelievo speciale della moneta nazionale di uno Stato non membro del Fondo monetario internazionale è calcolato secondo quanto stabilito da detto Stato.
+- 2\.
 
-<sup>2.</sup> L’unità monetaria di cui al presente paragrafo corrisponde a 65,5 milligrammi di oro al titolo di 900 millesimi di fino. La conversione in moneta nazionale degli importi indicati nel presente paragrafo è effettuata conformemente alla legislazione dello Stato interessato.
+  Tuttavia, uno Stato non membro del Fondo monetario internazionale o la cui legislazione non permetta di applicare le disposizioni del paragrafo 1 del presente articolo può, al momento della ratifica o dell’adesione, o in qualunque altro momento successivo, dichiarare che i limiti della responsabilità previsti nella presente Convenzione e applicabili sul suo territorio sono fissati nel modo seguente:
 
-Tuttavia, uno Stato non membro del Fondo monetario internazionale o la cui legislazione non permetta di applicare le disposizioni del paragrafo 1 del presente articolo può, al momento della ratifica o dell’adesione, o in qualunque altro momento successivo, dichiarare che i limiti della responsabilità previsti nella presente Convenzione e applicabili sul suo territorio sono fissati nel modo seguente:
+  - a) per quanto concerne il paragrafo 1 dell’articolo 7, 700 000 unità monetarie;
+  - b) per quanto concerne il paragrafo 1 dell’articolo 8, 12 500 unità monetarie;
+  - c) per quanto concerne il paragrafo 2 dell’articolo 8, 50 000 unità monetarie;
+  - d) per quanto concerne il paragrafo 3 dell’articolo 8, 18 000 unità monetarie;
+  - e) per quanto concerne il paragrafo 4 dell’articolo 8, la franchigia non eccederà 1750 unità monetarie in caso di danni causati a un veicolo e 200 unità monetarie per passeggero in caso di perdita o di danni subiti da altri bagagli.
 
-- a) per quanto concerne il paragrafo 1 dell’articolo 7, 700 000 unità monetarie;
-- b) per quanto concerne il paragrafo 1 dell’articolo 8, 12 500 unità monetarie;
-- c) per quanto concerne il paragrafo 2 dell’articolo 8, 50 000 unità monetarie;
-- d) per quanto concerne il paragrafo 3 dell’articolo 8, 18 000 unità monetarie;
-- e) per quanto concerne il paragrafo 4 dell’articolo 8, la franchigia non eccederà 1750 unità monetarie in caso di danni causati a un veicolo e 200 unità monetarie per passeggero in caso di perdita o di danni subiti da altri bagagli.
-
-<sup>3.</sup> Il calcolo menzionato nell’ultimo periodo del paragrafo 1 e la conversione di cui al paragrafo 2 devono essere effettuati, per quanto possibile, in modo da tradurre in moneta nazionale dello Stato lo stesso valore reale di quello espresso in unità di conto negli articoli 7 e 8. Al momento del deposito di uno strumento di cui all’articolo III e ogni qual volta si verifichi un cambiamento nel loro metodo di calcolo o nel valore della loro moneta nazionale rispetto all’unità di conto o all’unità monetaria, gli Stati contraenti comunicano al depositario il loro metodo di calcolo conformemente al paragrafo 1, o i risultati della conversione conformemente al paragrafo 2, secondo i casi.
+- L’unità monetaria di cui al presente paragrafo corrisponde a 65,5 milligrammi di oro al titolo di 900 millesimi di fino. La conversione in moneta nazionale degli importi indicati nel presente paragrafo è effettuata conformemente alla legislazione dello Stato interessato.
+- 3\. Il calcolo menzionato nell’ultimo periodo del paragrafo 1 e la conversione di cui al paragrafo 2 devono essere effettuati, per quanto possibile, in modo da tradurre in moneta nazionale dello Stato lo stesso valore reale di quello espresso in unità di conto negli articoli 7 e 8. Al momento del deposito di uno strumento di cui all’articolo III e ogni qual volta si verifichi un cambiamento nel loro metodo di calcolo o nel valore della loro moneta nazionale rispetto all’unità di conto o all’unità monetaria, gli Stati contraenti comunicano al depositario il loro metodo di calcolo conformemente al paragrafo 1, o i risultati della conversione conformemente al paragrafo 2, secondo i casi.
 
 #### Art. III
 
@@ -141,7 +144,7 @@ Il Segretario generale:
 
 <sup>3.</sup> All’entrata in vigore del presente Protocollo, il Segretario generale ne trasmette una copia certificata conforme alla Segreteria generale dell’Organizzazione delle Nazioni Unite per la sua registrazione e pubblicazione conformemente all’articolo 102 della Carta delle Nazioni Unite[^VII-1].
 
-[^VII-1]: [RS 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
+[^VII-1]: [RS 0.120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/41)
 
 #### Art. VIII
 
@@ -149,20 +152,15 @@ Il Segretario generale:
 
 Il presente Protocollo è fatto in un unico esemplare originale nelle lingue francese e inglese, i due testi facendo ugualmente fede. Vengono effettuate traduzioni ufficiali nelle lingue russa e spagnola, preparate dal Segretario generale dell’Organizzazione e depositate con l’originale munito delle firme.
 
-*In fede di che i sottoscritti,* debitamente autorizzati a tale scopo, hanno firmato il presente Protocollo.
+*In fede di che i sottoscritti,* debitamente autorizzati a tale scopo, hanno firmato il presente Protocollo. Fatto a Londra il 19 novembre 1976 *(Seguono le firme)*
 
-Fatto a Londra il 19 novembre 1976
-
-*(Seguono le firme)*
-
-Campo d’applicazione il 23 marzo 2023[^t-2]
+Campo d’applicazione il 28 aprile 2026[^t-2]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A)</th><th></th><th>Entrata in vigore</th><th></th></tr>
 <tr><td>Arabia Saudita</td><td>25 gennaio</td><td>2019 A</td><td>25 aprile</td><td>2019</td></tr>
 <tr><td>Argentina</td><td>28 aprile</td><td>1987 A</td><td>30 aprile</td><td>1989</td></tr>
 <tr><td>Bahamas</td><td>28 aprile</td><td>1987 A</td><td>30 aprile</td><td>1989</td></tr>
-<tr><td>Barbados</td><td>6 maggio</td><td>1994 A</td><td>4 agosto</td><td>1994</td></tr>
 <tr><td>Cina<sup>\*</sup></td><td>1° giugno</td><td>1994 A</td><td>30 agosto</td><td>1994</td></tr>
 <tr><td>Hong Kong <sup>a</sup></td><td>5 giugno</td><td>1997</td><td>1° luglio</td><td>1997</td></tr>
 <tr><td>Macao</td><td>24 giugno</td><td>2005</td><td>24 giugno</td><td>2005</td></tr>
@@ -177,15 +175,14 @@ Campo d’applicazione il 23 marzo 2023[^t-2]
 <tr><td>Ucraina</td><td>11 novembre</td><td>1994 A</td><td>9 febbraio</td><td>1995</td></tr>
 <tr><td>Vanuatu</td><td>13 gennaio</td><td>1989 A</td><td>30 aprile</td><td>1989</td></tr>
 <tr><td>Yemen</td><td>28 aprile</td><td>1987 A</td><td>30 aprile</td><td>1989</td></tr>
-<tr><td colspan="6">\* Riserve e dichiarazioni. Le riserve e le dichiarazioni non sono pubblicate nella RU, eccetto quelle della Svizzera. I testi in inglese possono essere consultati sul Internet dell’Organizzazione internazionale marittima (IMO): www.imo.org &gt; Publications &gt; Catalogue & Code Listings, oppure presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna</td></tr>
-<tr><td colspan="6"><sup>a</sup> Dal 28 apr. 1987 al 30 giu. 1997 la Conv. era applicabile a Hong Kong in base ad una dichiarazione d’estensione territoriale del Regno Unito. Il 1° lug. 1997 Hong Kong è diventata una Regione amministrativa speciale (RAS) della Repubblica Popolare Cinese. In virtù della dichiarazione cinese del 5 giu. 1997 la Conv. è applicabile dal 1° lug. 1997 anche alla RAS di Hong Kong.</td></tr>
+<tr><td colspan="6">\* Riserve e dichiarazioni. Le riserve e le dichiarazioni non sono pubblicate nella RU, eccetto quelle della Svizzera. I testi in inglese possono essere consultati sul Internet dell’Organizzazione internazionale marittima (IMO): [www.imo.org](https://www.imo.org/en)&gt; Publications &gt; Catalogue & Code Listings, oppure presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna <sup>a</sup> Dal 28 apr. 1987 al 30 giu. 1997 la Conv. era applicabile a Hong Kong in base ad una dichiarazione d’estensione territoriale del Regno Unito. Il 1° lug. 1997 Hong Kong è diventata una Regione amministrativa speciale (RAS) della Repubblica Popolare Cinese. In virtù della dichiarazione cinese del 5 giu. 1997 la Conv. è applicabile dal 1° lug. 1997 anche alla RAS di Hong Kong.</td></tr>
 </table>
 
-[^t-2]: [RU 1989 1512](https://fedlex.data.admin.ch/eli/oc/1989/1512_1512_1512); [2005 1309](https://fedlex.data.admin.ch/eli/oc/2005/197); [2007 4411](https://fedlex.data.admin.ch/eli/oc/2007/608); [2014 861](https://fedlex.data.admin.ch/eli/oc/2014/181); [2017 2285](https://fedlex.data.admin.ch/eli/oc/2017/211); [2023 158](https://fedlex.data.admin.ch/eli/oc/2023/158). Una versione aggiornata del campo di applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: https://www.fedlex.admin.ch/it/treaty
+[^t-2]: [RU 1989 1512](https://fedlex.data.admin.ch/eli/oc/1989/1512_1512_1512); [2005 1309](https://fedlex.data.admin.ch/eli/oc/2005/197); [2007 4411](https://fedlex.data.admin.ch/eli/oc/2007/608); [2014 861](https://fedlex.data.admin.ch/eli/oc/2014/181); [2017 2285](https://fedlex.data.admin.ch/eli/oc/2017/211); [2023 158](https://fedlex.data.admin.ch/eli/oc/2023/158); [2026 186](https://fedlex.data.admin.ch/eli/oc/2026/186). Una versione aggiornata del campo di applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty).
 
 Riserve e dichiarazioni
 
-**Svizzera**
+Svizzera
 
 Il Consiglio federale svizzero, riferendosi ai paragrafi 1 e 3 dell’articolo 9 della Convenzione d’Atene del 1974 relativa al trasporto per mare di passeggeri e dei loro bagagli, introdotti dall’articolo II del Protocollo del 19 novembre 1976, dichiara che la Svizzera calcolerà come segue il valore della sua moneta nazionale in diritti di prelievo speciali (DPS):
 

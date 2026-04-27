@@ -3,11 +3,11 @@ sr: "0.747.356.11"
 title: Protokoll vom 19. November 1976 zum Athener Übereinkommen von 1974 über die Beförderung von Reisenden und ihrem Gepäck auf See
 eli: "https://fedlex.data.admin.ch/eli/cc/1989/1512_1512_1512"
 language: de
-version: 2023-03-23
+version: 2026-04-28
 adopted: 1976-11-19
 in_force: 1989-04-30
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1989/1512_1512_1512/20230323/de/xml/fedlex-data-admin-ch-eli-cc-1989-1512_1512_1512-20230323-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1989/1512_1512_1512/20230323/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1989/1512_1512_1512/20260428/de/xml/fedlex-data-admin-ch-eli-cc-1989-1512_1512_1512-20260428-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1989/1512_1512_1512/20260428/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -20,7 +20,7 @@ AS **1989** 1512; BBl **1986** II 717
 
 Abgeschlossen in London am 19. November 1976 Von der Bundesversammlung genehmigt am 20. März 1987[^t-1] Schweizerische Beitrittsurkunde hinterlegt am 15. Dezember 1987 In Kraft getreten für die Schweiz am 30. April 1989
 
-(Stand am 23. März 2023)
+(Stand am 28. April 2026)
 
 [^t-1]: [AS 1988 1143](https://fedlex.data.admin.ch/eli/oc/1988/1143_1143_1143)
 
@@ -30,7 +30,7 @@ als Vertragsparteien des am 13. Dezember 1974[^ingress-1] in Athen beschlossenen
 
 sind wie folgt übereingekommen:
 
-[^ingress-1]: [SR 0.747.356.1](https://fedlex.data.admin.ch/eli/cc/1988/1144_1144_1144)
+[^ingress-1]: [SR 0.747.356.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3092)
 
 #### Art. I
 
@@ -61,7 +61,9 @@ Im Sinn dieses Protokolls haben die nachstehenden Ausdrücke folgende Bedeutung:
 
 *Artikel 9* des Übereinkommens und seine Überschrift werden durch folgenden Wortlaut ersetzt:
 
-- Rechnungseinheit oder Werteinheit und Umrechnung
+-
+
+  - Rechnungseinheit oder Werteinheit und Umrechnung
 
 - 1. Die in diesem Übereinkommen genannte Rechnungseinheit ist das Sonderziehungsrecht des Internationalen Währungsfonds. Die in den Artikeln 7 und 8 genannten Beträge werden in die Landeswährung des Staates des angerufenen Gerichts umgerechnet; die Umrechnung erfolgt entsprechend dem Wert der betreffenden Währung am Tag des Urteils oder an dem von den Parteien vereinbarten Tag. Der in Sonderziehungsrechten ausgedrückte Wert der Landeswährung eines Staates, der Mitglied des Internationalen Währungsfonds ist, wird nach der vom Internationalen Währungsfonds angewendeten Bewertungsmethode errechnet, die an dem betreffenden Tag für seine Operationen und Transaktionen gilt. Der in Sonderziehungsrechten ausgedrückte Wert der Landeswährung eines Staates, der nicht Mitglied des Internationalen Währungsfonds ist, wird auf eine von diesem Staat bestimmte Weise errechnet.
 -
@@ -139,7 +141,7 @@ Im Sinn dieses Protokolls haben die nachstehenden Ausdrücke folgende Bedeutung:
 
 <sup>3.</sup> Nach Inkrafttreten dieses Protokolls übermittelt der Generalsekretär dem Sekretariat der Vereinten Nationen eine beglaubigte Abschrift des Protokolls zur Registrierung und Veröffentlichung nach Artikel 102 der Charta der Vereinten Nationen[^VII-1].
 
-[^VII-1]: [SR 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
+[^VII-1]: [SR 0.120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/41)
 
 #### Art. VIII
 
@@ -151,15 +153,14 @@ Dieses Protokoll ist in einer Urschrift in englischer und französischer Sprache
 
 Geschehen zu London am 19. November 1976.
 
-*(Es folgen die Unterschriften)*
+(Es folgen die Unterschriften)
 
-Geltungsbereich am 23. März 2023[^t-2]
+Geltungsbereich am 28. April 2026[^t-2]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B)</th><th></th><th>Inkrafttreten</th><th colspan="2"></th></tr>
 <tr><td>Argentinien</td><td>28. April</td><td>1987 B</td><td>30. April</td><td colspan="2">1989</td></tr>
 <tr><td>Bahamas</td><td>28. April</td><td>1987 B</td><td>30. April</td><td colspan="2">1989</td></tr>
-<tr><td>Barbados</td><td>6. Mai</td><td>1994 B</td><td>4. August</td><td colspan="2">1994</td></tr>
 <tr><td>China\*</td><td>1. Juni</td><td>1994 B</td><td>30. August</td><td colspan="2">1994</td></tr>
 <tr><td>[tab] Hongkong</td><td>5. Juni</td><td>1997</td><td>1. Juli</td><td colspan="2">1997</td></tr>
 <tr><td>[tab] Macau</td><td>24. Juni</td><td>2005</td><td>24. Juni</td><td colspan="2">2005</td></tr>
@@ -176,10 +177,10 @@ Geltungsbereich am 23. März 2023[^t-2]
 <tr><td>Ukraine</td><td>11. November</td><td>1994 B</td><td>9. Februar</td><td colspan="2">1995</td></tr>
 <tr><td>Vanuatu</td><td>13. Januar</td><td>1989 B</td><td>30. April</td><td colspan="2">1989</td></tr>
 <tr><td colspan="5">\* Vorbehalte und Erklärungen.</td></tr>
-<tr><td colspan="5">Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht, mit Ausnahme jener der Schweiz. Die englischen Texte können auf der Internetseite der Internationalen Seeschifffahrtsorganisation (OMI): www.imo.org &gt; Publications &gt; Catalogue & Code Listings oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
+<tr><td colspan="5">Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht, mit Ausnahme jener der Schweiz. Die englischen Texte können auf der Internetseite der Internationalen Seeschifffahrtsorganisation (OMI): [www.imo.org](http://www.imo.org) &gt; Publications &gt; Catalogue & Code Listings oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
 </table>
 
-[^t-2]: [AS 1989 1512](https://fedlex.data.admin.ch/eli/oc/1989/1512_1512_1512); [2005 1309](https://fedlex.data.admin.ch/eli/oc/2005/197); [2007 4411](https://fedlex.data.admin.ch/eli/oc/2007/608); [2014 861](https://fedlex.data.admin.ch/eli/oc/2014/181); [2017 2285](https://fedlex.data.admin.ch/eli/oc/2017/211); [2023 158](https://fedlex.data.admin.ch/eli/oc/2023/158). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: https://www.fedlex.admin.ch/de/treaty.
+[^t-2]: [AS 1989 1512](https://fedlex.data.admin.ch/eli/oc/1989/1512_1512_1512); [2005 1309](https://fedlex.data.admin.ch/eli/oc/2005/197); [2007 4411](https://fedlex.data.admin.ch/eli/oc/2007/608); [2014 861](https://fedlex.data.admin.ch/eli/oc/2014/181); [2017 2285](https://fedlex.data.admin.ch/eli/oc/2017/211); [2023 158](https://fedlex.data.admin.ch/eli/oc/2023/158); [2026 186](https://fedlex.data.admin.ch/eli/oc/2026/186). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
 
 Erklärungen
 
