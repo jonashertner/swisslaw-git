@@ -3,11 +3,11 @@ sr: "0.747.356.1"
 title: "Convention d'Athènes de 1974 relative au transport par mer de passagers et de leurs bagages, du 13 décembre 1974"
 eli: "https://fedlex.data.admin.ch/eli/cc/1988/1144_1144_1144"
 language: fr
-version: 2023-03-23
+version: 2026-04-28
 adopted: 1974-12-13
 in_force: 1988-03-14
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/1144_1144_1144/20230323/fr/xml/fedlex-data-admin-ch-eli-cc-1988-1144_1144_1144-20230323-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1988/1144_1144_1144/20230323/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/1144_1144_1144/20260428/fr/xml/fedlex-data-admin-ch-eli-cc-1988-1144_1144_1144-20260428-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1988/1144_1144_1144/20260428/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -26,9 +26,9 @@ Instrument de ratification déposé par la Suisse le 15 décembre 1987
 
 Entrée en vigueur pour la Suisse le 14 mars 1988
 
-(État le 23 mars 2023)
+(État le 28 avril 2026)
 
-[^t-1]: Les Am. du 19 nov. 1976 ([RS 0.747.356.11](https://fedlex.data.admin.ch/eli/cc/1989/1512_1512_1512); [RO 1989 1512](https://fedlex.data.admin.ch/eli/oc/1989/1512_1512_1512)) sont insérés dans le présent texte. Ces Am. ne régissent que les rapports entre les Etats les ayant ratifés. Voir par conséquent leur propre champ d’application.
+[^t-1]: Les Am. du 19 nov. 1976 ([RS 0.747.356.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3093); [RO 1989 1512](https://fedlex.data.admin.ch/eli/oc/1989/1512_1512_1512)) sont insérés dans le présent texte. Ces Am. ne régissent que les rapports entre les Etats les ayant ratifés. Voir par conséquent leur propre champ d’application.
 [^t-2]: [RO 1988 1143](https://fedlex.data.admin.ch/eli/oc/1988/1143_1143_1143)
 
 Les États parties à la présente Convention,
@@ -140,7 +140,7 @@ Si le transporteur établit que la mort ou les lésions corporelles du passager,
 
 <sup>2.</sup> Nonobstant les dispositions du par. 1 du présent article, la législation nationale de tout État partie à la présente convention peut fixer, pour les transporteurs qui sont ses ressortissants, une limite de responsabilité per capita plus élevée.
 
-[^7-1]: Nouvelle teneur selon l’art. II par. 1 du Prot. du 19 nov. 1976, approuvé par l’Ass. féd. le 20 mars 1987 et en vigueur pour la Suisse depuis le 30 avril 1989 ([RO 1989 1512](https://fedlex.data.admin.ch/eli/oc/1989/1512_1512_1512), [1988 1143](https://fedlex.data.admin.ch/eli/oc/1988/1143_1143_1143); [FF 1986 II 741](https://fedlex.data.admin.ch/eli/fga/1986/2_717_741_541)).
+[^7-1]: Nouvelle teneur selon l’art. II par. 1 du Prot. du 19 nov. 1976, approuvé par l’Ass. féd. le 20 mars 1987 et en vigueur pour la Suisse depuis le 30 avril 1989 ([RO 1989 1512](https://fedlex.data.admin.ch/eli/oc/1989/1512_1512_1512); [1988 1143](https://fedlex.data.admin.ch/eli/oc/1988/1143_1143_1143); [FF 1986 II 741](https://fedlex.data.admin.ch/eli/fga/1986/2_717_741_541)).
 
 #### Art. 8
 
@@ -154,7 +154,7 @@ Si le transporteur établit que la mort ou les lésions corporelles du passager,
 
 <sup>4.</sup> Le transporteur et le passager peuvent convenir que la responsabilité du transporteur ne sera engagée que sous déduction d’une franchise qui ne dépassera pas 117 unités de compte en cas de dommages causés à un véhicule et 13 unités de compte par passager en cas de perte ou de dommages survenus à d’autres bagages. Cette somme sera déduite du moment de la perte ou du dommage.
 
-[^8-1]: Nouvelle teneur selon l’art. II par. 2 du Prot. du 19 nov. 1976, approuvé par l’Ass. féd. le 20 mars 1987, en vigueur pour la Suisse depuis le 30 avril 1989 ([RO 1989 1512](https://fedlex.data.admin.ch/eli/oc/1989/1512_1512_1512), [1988 1143](https://fedlex.data.admin.ch/eli/oc/1988/1143_1143_1143); [FF 1986 II 741](https://fedlex.data.admin.ch/eli/fga/1986/2_717_741_541)).
+[^8-1]: Nouvelle teneur selon l’art. II par. 2 du Prot. du 19 nov. 1976, approuvé par l’Ass. féd. le 20 mars 1987, en vigueur pour la Suisse depuis le 30 avril 1989 ([RO 1989 1512](https://fedlex.data.admin.ch/eli/oc/1989/1512_1512_1512); [1988 1143](https://fedlex.data.admin.ch/eli/oc/1988/1143_1143_1143); [FF 1986 II 741](https://fedlex.data.admin.ch/eli/fga/1986/2_717_741_541)).
 
 #### Art. 9
 
@@ -174,7 +174,7 @@ Toutefois, un État qui n’est pas membre du Fonds monétaire international ou 
 
 <sup>3.</sup> Le calcul mentionné à la dernière phrase du paragraphe 1 et la conversion mentionnée au par. 2 doivent être faits de façon à exprimer en monnaie nationale de l’État la même valeur réelle, dans la mesure du possible, que celle exprimée en unités de compte aux art. 7 et 8. Lors du dépôt d’un instrument visé à l’art. III et chaque fois qu’un changement se produit dans leur méthode de calcul ou dans la valeur de leur monnaie nationale par rapport à l’unité de compte ou à l’unité monétaire, les États communiquent au dépositaire leur méthode de calcul conformément au par. 1, ou les résultats de la conversion conformément au par. 2, selon le cas.
 
-[^9-1]: Nouvelle teneur selon l’art. II par. 3 du Prot. du 19 nov. 1976, approuvé par l’Ass. féd. le 20 mars 1987, en vigueur pour la Suisse depuis le 30 avril 1989 ([RO 1989 1512](https://fedlex.data.admin.ch/eli/oc/1989/1512_1512_1512), [1988 1143](https://fedlex.data.admin.ch/eli/oc/1988/1143_1143_1143); [FF 1986 II 741](https://fedlex.data.admin.ch/eli/fga/1986/2_717_741_541)).
+[^9-1]: Nouvelle teneur selon l’art. II par. 3 du Prot. du 19 nov. 1976, approuvé par l’Ass. féd. le 20 mars 1987, en vigueur pour la Suisse depuis le 30 avril 1989 ([RO 1989 1512](https://fedlex.data.admin.ch/eli/oc/1989/1512_1512_1512); [1988 1143](https://fedlex.data.admin.ch/eli/oc/1988/1143_1143_1143); [FF 1986 II 741](https://fedlex.data.admin.ch/eli/fga/1986/2_717_741_541)).
 
 #### Art. 10
 
@@ -371,7 +371,7 @@ Le Secrétaire général de l’Organisation:
 
 <sup>3.</sup> Dès l’entrée en vigueur de la présente Convention, le Secrétaire général de l’Organisation en transmet une copie certifiée conforme au Secrétariat de l’Organisation des Nation Unies en vue de son enregistrement et de sa publication conformément à l’Article 102 de la Charte des Nations Unies[^27-1].
 
-[^27-1]: [RS 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
+[^27-1]: [RS 0.120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/41)
 
 #### Art. 28
 
@@ -381,14 +381,13 @@ La présente convention est établie en un seul exemplaire original en langues a
 
 *En foi de quoi,* les soussignés, dûment autorisés à cet effet, ont signé la présente Convention. Fait à Athènes ce treize décembre mil neuf cent soixante-quatorze. (Suivent les signatures)
 
-Champ d’application le 23 mars 2023[^t-3]
+Champ d’application le 28 avril 2026[^t-3]
 
 <table>
 <tr><th>États parties</th><th>Ratification Adhésion (A)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
 <tr><td>Arabie Saoudite</td><td>25 janvier</td><td>2019 A</td><td>25 avril</td><td>2019</td></tr>
 <tr><td>Argentine<sup>\*</sup></td><td>26 mai</td><td>1983 A</td><td>28 avril</td><td>1987</td></tr>
 <tr><td>Bahamas</td><td>7 juin</td><td>1983 A</td><td>28 avril</td><td>1987</td></tr>
-<tr><td>Barbade</td><td>6 mai</td><td>1994 A</td><td>4 août</td><td>1994</td></tr>
 <tr><td>Chine<sup>\*</sup></td><td>1<sup>er</sup> juin</td><td>1994 A</td><td>30 août</td><td>1994</td></tr>
 <tr><td>[tab] Hong Kong <sup>a</sup></td><td>1<sup>er</sup> juillet</td><td>1997</td><td>1<sup>er</sup> juillet</td><td>1997</td></tr>
 <tr><td>[tab] Macao</td><td>24 juin</td><td>2005</td><td>24 juin</td><td>2005</td></tr>
@@ -411,7 +410,7 @@ Champ d’application le 23 mars 2023[^t-3]
 <tr><td>Ukraine</td><td>11 novembre</td><td>1994 A</td><td>9 février</td><td>1995</td></tr>
 <tr><td>Vanuatu</td><td>13 janvier</td><td>1989 A</td><td>13 avril</td><td>1989</td></tr>
 <tr><td>Yémen</td><td>6 mars</td><td>1979 A</td><td>28 avril</td><td>1987</td></tr>
-<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO. Les textes en anglais peuvent être obtenus à l’adresse du site Internet l’Organisation maritime internationale (OMI): www.imo.org &gt; Publications &gt; Catalogue & Code Listings, ou auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> Du 28 avril 1987 au 30 juin 1997, la conv. était applicable à Hong Kong sur la base d’une déclaration d’extension territoriale du Royaume-Uni. À partir du 1<sup>er</sup> juillet 1997, Hong Kong est devenue une Région administrative spéciale (RAS) de la République populaire de Chine. En vertu de la déclaration chinoise du 6 juin 1997, la conv. est également applicable à la RAS Hong Kong à partir du 1<sup>er</sup> juillet 1997.</td></tr>
+<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO. Les textes en anglais peuvent être obtenus à l’adresse du site Internet l’Organisation maritime internationale (OMI): [www.imo . org](http://www.imo.org) &gt; Publications &gt; Catalogue & Code Listings, ou auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> Du 28 avril 1987 au 30 juin 1997, la conv. était applicable à Hong Kong sur la base d’une déclaration d’extension territoriale du Royaume-Uni. À partir du 1<sup>er</sup> juillet 1997, Hong Kong est devenue une Région administrative spéciale (RAS) de la République populaire de Chine. En vertu de la déclaration chinoise du 6 juin 1997, la conv. est également applicable à la RAS Hong Kong à partir du 1<sup>er</sup> juillet 1997.</td></tr>
 </table>
 
-[^t-3]: [RO 1988 1144](https://fedlex.data.admin.ch/eli/oc/1988/1144_1144_1144); [2005 1307](https://fedlex.data.admin.ch/eli/oc/2005/196); [2007 4409](https://fedlex.data.admin.ch/eli/oc/2007/607); [2014 859](https://fedlex.data.admin.ch/eli/oc/2014/180); [2017 2155](https://fedlex.data.admin.ch/eli/oc/2017/193); [2023 157](https://fedlex.data.admin.ch/eli/oc/2023/157). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [https://www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).
+[^t-3]: [RO 1988 1144](https://fedlex.data.admin.ch/eli/oc/1988/1144_1144_1144); [2005 1307](https://fedlex.data.admin.ch/eli/oc/2005/196); [2007 4409](https://fedlex.data.admin.ch/eli/oc/2007/607); [2014 859](https://fedlex.data.admin.ch/eli/oc/2014/180); [2017 2155](https://fedlex.data.admin.ch/eli/oc/2017/193); [2023 157](https://fedlex.data.admin.ch/eli/oc/2023/157); [2026 185](https://fedlex.data.admin.ch/eli/oc/2026/185). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [https://www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).

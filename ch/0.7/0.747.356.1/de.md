@@ -3,11 +3,11 @@ sr: "0.747.356.1"
 title: "Athener Übereinkommen von 1974 über die Beförderung von Reisenden und ihrem Gepäck auf See, vom 13. Dezember 1974"
 eli: "https://fedlex.data.admin.ch/eli/cc/1988/1144_1144_1144"
 language: de
-version: 2023-03-23
+version: 2026-04-28
 adopted: 1974-12-13
 in_force: 1988-03-14
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/1144_1144_1144/20230323/de/xml/fedlex-data-admin-ch-eli-cc-1988-1144_1144_1144-20230323-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1988/1144_1144_1144/20230323/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/1144_1144_1144/20260428/de/xml/fedlex-data-admin-ch-eli-cc-1988-1144_1144_1144-20260428-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1988/1144_1144_1144/20260428/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -20,9 +20,9 @@ AS **1989** 1144; BBl **1986** II 717[^t-1]
 
 Abgeschlossen in Athen am 13. Dezember 1974 Von der Bundesversammlung genehmigt am 20. März 1987[^t-2] Schweizerische Ratifikationsurkunde hinterlegt am 15. Dezember 1987 In Kraft getreten für die Schweiz am 14. März 1988
 
-(Stand am 23. März 2023)
+(Stand am 28. April 2026)
 
-[^t-1]: Die Änd. vom 19. Nov. 1976 ([SR 0.747.356.11](https://fedlex.data.admin.ch/eli/cc/1989/1512_1512_1512); [AS 1989 1512](https://fedlex.data.admin.ch/eli/oc/1989/1512_1512_1512)) sind im vorliegenden Text eingebaut, gelten aber nur im Verhältnis zu jenen Staaten, die ihnen beigetreten sind. Siehe deshalb ihren eigenen Geltungsbereich.
+[^t-1]: Die Änd. vom 19. Nov. 1976 ([SR 0.747.356.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3093); [AS 1989 1512](https://fedlex.data.admin.ch/eli/oc/1989/1512_1512_1512)) sind im vorliegenden Text eingebaut, gelten aber nur im Verhältnis zu jenen Staaten, die ihnen beigetreten sind. Siehe deshalb ihren eigenen Geltungsbereich.
 [^t-2]: [AS 1988 1143](https://fedlex.data.admin.ch/eli/oc/1988/1143_1143_1143)
 
 Die Vertragsstaaten dieses Übereinkommens,
@@ -354,7 +354,7 @@ Der Generalsekretär der Organisation:
 
 <sup>3.</sup> Nach Inkrafttreten dieses Übereinkommens übermittelt der Generalsekretär der Organisation dem Sekretariat der Vereinten Nationen eine beglaubigte Abschrift des Übereinkommens zur Registrierung und Veröffentlichung nach Artikel 102 der Charta der Vereinten Nationen[^27-1].
 
-[^27-1]: [SR 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
+[^27-1]: [SR 0.120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/41)
 
 #### Art. 28
 
@@ -364,7 +364,7 @@ Dieses Übereinkommen ist in einer Urschrift in englischer und französischer Sp
 
 *Zu Urkund dessen* haben die hierzu gehörig befugten Unterzeichneten dieses Übereinkommen unterschrieben. Geschehen zu Athen am 13. Dezember 1974. (Es folgen die Unterschriften)
 
-Geltungsbereich am 23. März 2023[^t-3]
+Geltungsbereich am 28. April 2026[^t-3]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B)</th><th colspan="3"></th><th colspan="2">Inkrafttreten</th><th colspan="2"></th></tr>
@@ -372,9 +372,8 @@ Geltungsbereich am 23. März 2023[^t-3]
 <tr><td>Äquatorialguinea</td><td>24. April</td><td colspan="3">1996 B</td><td colspan="2">23. Juli</td><td colspan="2">1996</td></tr>
 <tr><td>Argentinien\*</td><td>26. Mai</td><td colspan="3">1983 B</td><td colspan="2">28. April</td><td colspan="2">1987</td></tr>
 <tr><td>Bahamas</td><td>7. Juni</td><td colspan="3">1983 B</td><td colspan="2">28. April</td><td colspan="2">1987</td></tr>
-<tr><td>Barbados</td><td>6. Mai</td><td colspan="3">1994 B</td><td colspan="2">4. August</td><td colspan="2">1994</td></tr>
 <tr><td>China\*</td><td colspan="2">1. Juni</td><td colspan="2">1994 B</td><td colspan="2">30. August</td><td colspan="2">1994</td></tr>
-<tr><td>Hongkong<sup>a</sup></td><td colspan="2">1. Juli</td><td colspan="2">1997</td><td colspan="2">1. Juli</td><td colspan="2">1997</td></tr>
+<tr><td>Hongkong <sup>a</sup></td><td colspan="2">1. Juli</td><td colspan="2">1997</td><td colspan="2">1. Juli</td><td colspan="2">1997</td></tr>
 <tr><td>Macau</td><td colspan="2">24. Juni</td><td colspan="2">2005</td><td colspan="2">24. Juni</td><td colspan="2">2005</td></tr>
 <tr><td>Dominica</td><td colspan="2">31. August</td><td colspan="2">2001 B</td><td colspan="2">29. November</td><td colspan="2">2001</td></tr>
 <tr><td>Estland</td><td colspan="2">8. Oktober</td><td colspan="2">2002 B</td><td colspan="2">6. Januar</td><td colspan="2">2003</td></tr>
@@ -395,8 +394,8 @@ Geltungsbereich am 23. März 2023[^t-3]
 <tr><td>Ukraine</td><td colspan="2">11. November</td><td colspan="2">1994 B</td><td colspan="2">9. Februar</td><td colspan="2">1995</td></tr>
 <tr><td>Vanuatu</td><td colspan="2">13. Januar</td><td colspan="2">1989 B</td><td colspan="2">13. April</td><td colspan="2">1989</td></tr>
 <tr><td colspan="9">\* Vorbehalte und Erklärungen.</td></tr>
-<tr><td colspan="9">Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die englischen Texte können auf der Internetseite der Internationalen Seeschifffahrtsorganisation (OMI): www.imo.org &gt; Publications &gt; Catalogue & Code Listings oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
+<tr><td colspan="9">Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die englischen Texte können auf der Internetseite der Internationalen Seeschifffahrtsorganisation (OMI): [www.imo.org](http://www.imo.org) &gt; Publications &gt; Catalogue & Code Listings oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
 <tr><td colspan="9"><sup>a</sup> Vom 28. April 1987 bis zum 30. Juni 1997 war das Übereink. auf Grund einer Ausdehnungserklärung des Vereinigten Königreichs in Hongkong anwendbar. Seit dem 1. Juli 1997 bildet Hongkong eine besondere Verwaltungsregion (SAR) der Volksrepublik China. Auf Grund der chinesischen Erklärung vom 6. Juni 1997 ist das Übereink. seit dem 1. Juli 1997 auch in der SAR Hongkong anwendbar.</td></tr>
 </table>
 
-[^t-3]: [AS 1988 1144](https://fedlex.data.admin.ch/eli/oc/1988/1144_1144_1144); [2005 1307](https://fedlex.data.admin.ch/eli/oc/2005/196); [2007 4409](https://fedlex.data.admin.ch/eli/oc/2007/607); [2014 859](https://fedlex.data.admin.ch/eli/oc/2014/180); [2017 2155](https://fedlex.data.admin.ch/eli/oc/2017/193); [2023 157](https://fedlex.data.admin.ch/eli/oc/2023/157). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: https://www.fedlex.admin.ch/de/treaty.
+[^t-3]: [AS 1988 1144](https://fedlex.data.admin.ch/eli/oc/1988/1144_1144_1144); [2005 1307](https://fedlex.data.admin.ch/eli/oc/2005/196); [2007 4409](https://fedlex.data.admin.ch/eli/oc/2007/607); [2014 859](https://fedlex.data.admin.ch/eli/oc/2014/180); [2017 2155](https://fedlex.data.admin.ch/eli/oc/2017/193); [2023 157](https://fedlex.data.admin.ch/eli/oc/2023/157); [2026 185](https://fedlex.data.admin.ch/eli/oc/2026/185). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
