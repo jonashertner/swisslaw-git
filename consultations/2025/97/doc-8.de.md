@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Neuordnung der ausserparlamentarischen Kommissionen im Rahmen der Überprüfung 2025
 document: Vernehmlassungsvorlage-2
 language: de

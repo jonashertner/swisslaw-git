@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Riorganizzazione delle commissioni extraparlamentari nel quadro della verifica 2025
 document: Progetto posto in consultazione
 language: it

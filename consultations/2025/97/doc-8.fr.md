@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Réorganisation des commissions extra-parlementaires dans le cadre du réexamen 2025
 document: Projet mis en consultation-2
 language: fr
