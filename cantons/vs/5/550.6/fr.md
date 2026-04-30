@@ -4,13 +4,12 @@ number: "550.6"
 title: Loi sur les violences domestiques
 short: LVD
 language: fr
-version: 2025-11-01
-valid_until: 2026-04-30
+version: 2026-05-01
 version_adopted: 2024-11-14
 adopted: 2015-12-18
 in_force: 2017-01-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/550.6"
-pdf: "https://lex.vs.ch/api/fr/versions/3526/pdf_file"
+pdf: "https://lex.vs.ch/api/fr/versions/3528/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://lex.vs.ch/api/fr/versions/3526/pdf_file"
 
 (LVD)
 
-du 18.12.2015 (état 01.11.2025)
+du 18.12.2015 (état 01.05.2026)
 
 Le Grand Conseil du canton du Valais
 
@@ -168,7 +167,7 @@ ordonne:[^ingress-1]
 
 <sup>1</sup> Lorsque les polices municipales interviennent dans des situations de violences domestiques, elles avisent dans tous les cas la Police cantonale. Un signalement est effectué à l’autorité de protection de l'enfant et de l'adulte (APEA) compétente.
 
-<sup>2</sup> Lors d'interventions poursuivies sur plainte, elles transmettent une copie du rapport d'intervention à la Police cantonale.
+<sup>2</sup> La police informe les personnes concernées par les violences domestiques que leurs noms, prénoms, date de naissance et numéro de téléphone seront transmis aux consultations spécialisées mandatées par le canton pour qu’elles reçoivent les informations sur les possibilités d’aides. Demeurent réservées les dispositions du Code de procédure pénale suisse (CPP) et du Code de procédure civile suisse (CPC).
 
 #### Art. 11a
 

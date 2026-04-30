@@ -4,13 +4,12 @@ number: "550.6"
 title: Gesetz über häusliche Gewalt
 short: GhG
 language: de
-version: 2025-11-01
-valid_until: 2026-04-30
+version: 2026-05-01
 version_adopted: 2024-11-14
 adopted: 2015-12-18
 in_force: 2017-01-01
 url: "https://lex.vs.ch/app/de/texts_of_law/550.6"
-pdf: "https://lex.vs.ch/api/de/versions/3526/pdf_file"
+pdf: "https://lex.vs.ch/api/de/versions/3528/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://lex.vs.ch/api/de/versions/3526/pdf_file"
 
 (GhG)
 
-vom 18.12.2015 (Stand 01.11.2025)
+vom 18.12.2015 (Stand 01.05.2026)
 
 Der Grosse Rat des Kantons Wallis
 
@@ -168,7 +167,7 @@ verordnet:[^ingress-1]
 
 <sup>1</sup> Wenn die Gemeindepolizei in Situationen häuslicher Gewalt eingreift, verständigt sie in jedem Fall die Kantonspolizei. Bei der zuständigen Kindes- und Erwachsenenschutzbehörde (KESB) wird Meldung erstattet.
 
-<sup>2</sup> Bei Interventionen, die auf Antrag hin verfolgt werden, lässt sie der Kantonspolizei eine Kopie des Interventionsberichts zukommen.
+<sup>2</sup> Die Polizei informiert die von häuslicher Gewalt betroffenen Personen darüber, dass ihre Namen, ihre Vornamen, ihr Geburtsdatum und ihre Telefonnummer den vom Kanton beauftragten Fachberatungsstellen übermittelt werden, damit sie Informationen über Hilfsangebote erhalten. Die Bestimmungen der Schweizerischen Strafprozessordnung (StPO) und der Schweizerischen Zivilprozessordnung (ZPO) bleiben vorbehalten.
 
 #### Art. 11a
 
