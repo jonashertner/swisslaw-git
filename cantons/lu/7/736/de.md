@@ -4,13 +4,13 @@ number: "736"
 title: Planungs- und Bauverordnung
 short: PBV
 language: de
-version: 2025-06-01
-valid_until: 2026-04-30
-version_adopted: 2025-04-15
+version: 2026-05-01
+valid_until: 2026-06-30
+version_adopted: 2026-03-31
 adopted: 2013-10-29
 in_force: 2014-01-01
 url: "https://srl.lu.ch/app/de/texts_of_law/736"
-pdf: "https://srl.lu.ch/api/de/versions/4476/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4732/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://srl.lu.ch/api/de/versions/4476/pdf_file"
 
 (PBV)
 
-vom 29.10.2013 (Stand 01.06.2025)
+vom 29.10.2013 (Stand 01.05.2026)
 
 Der Regierungsrat des Kantons Luzern,
 
@@ -43,9 +43,9 @@ beschliesst:
 
 <sup>1</sup> Die Richt- und Nutzungspläne (bestehend aus Plan und Vorschriften) sind der Dienststelle Raum und Wirtschaft zur Vorprüfung, beim Beginn der öffentlichen Auflage, zur Genehmigung und nach ihrer Bereinigung gemäss den Anordnungen und Korrekturen im Entscheid des Regierungsrates in elektronischer Form als Datei einzureichen. Die Richtplantexte und die Vorschriften sind so aufzubereiten, dass die Verbindung und Verlinkung der Textinhalte mit den Plandaten gewährleistet ist. Die Dienststelle Raum und Wirtschaft legt die Modalitäten sowie die zu nutzenden Datenmodelle, Transferformate und Standards fest.
 
-<sup>1<sup>bis</sup></sup> Genehmigte Richt- und Zonenpläne sind in elektronischer Form gemäss Absatz 1 rechtsverbindlich. Wenn Differenzen zwischen den bisher in Papierform genehmigten Plänen und den Plänen in elektronischer Form festgestellt werden, kann die Dienststelle Raum und Wirtschaft von Amtes wegen oder auf Gesuch der Gemeinde eine Berichtigung vornehmen. Im Streitfall erlässt die Dienststelle Raum und Wirtschaft eine anfechtbare Verfügung.
+<sup>1<sup>bis</sup></sup> Genehmigte Zonenpläne sind in elektronischer Form gemäss Absatz 1 rechtsverbindlich. Wenn Differenzen zwischen den bisher in Papierform genehmigten Plänen und den Plänen in elektronischer Form festgestellt werden, kann die Dienststelle Raum und Wirtschaft von Amtes wegen oder auf Gesuch der Gemeinde eine Berichtigung vornehmen. Im Streitfall erlässt die Dienststelle Raum und Wirtschaft eine anfechtbare Verfügung.
 
-<sup>1<sup>ter</sup></sup> Genehmigte Bebauungs- und Gestaltungspläne sind der Dienststelle Raum und Wirtschaft nach ihrer Bereinigung gemäss den Anordnungen und Korrekturen im Entscheid des Regierungsrates zusätzlich in Papierform einzureichen. Diese legt in Richtlinien die Modalitäten fest.
+<sup>1<sup>ter</sup></sup> Genehmigte Richt- und Sondernutzungspläne sind in Papierform verbindlich. Sie sind der Dienststelle Raum und Wirtschaft nach ihrer Bereinigung gemäss den Anordnungen und Korrekturen im Entscheid des Regierungsrates einzureichen. Die Dienststelle Raum und Wirtschaft legt in Richtlinien die Modalitäten fest.
 
 <sup>2</sup> Werden Richt- und Nutzungspläne oder Bau- und Zonenreglemente geändert, gelten die Absätze 1, 1<sup>bis</sup> und 1<sup>ter</sup> sinngemäss.
 
@@ -251,9 +251,11 @@ beschliesst:
 
 <sup>1</sup> Die Gemeinde kann im Bau- und Zonenreglement oder im Bebauungsplan für folgende Bauten eine zusätzliche, nur für diese Bauten verwendbare Überbauungsziffer festlegen:
 
-- a. Bauten mit einer geringeren als der zulässigen Gesamthöhe,
+- a. Bauten mit einer geringeren als der zulässigen Gesamthöhe (Nebenbauten),
 - b. Kleinbauten und Anbauten,
 - c. Unterniveaubauten.
+
+<sup>2</sup> Bei Anbauten ist eine bauliche Selbständigkeit durch eine Abtrennung von der Hauptbaute mit einer Innenwand erforderlich, nicht dagegen bei Nebenbauten und Unterniveaubauten.
 
 [^13-1]: Bestimmung wird mit Beschluss des Regierungsrates gemeindeweise in Kraft gesetzt (vgl. § 69 und SRL Nr. [736a](https://srl.lu.ch/data/736a/de)).
 
