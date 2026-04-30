@@ -4,13 +4,12 @@ number: "935.211"
 title: Verordnung zum Fischereigesetz des Kantons Aargau
 short: "Aargauische Fischereiverordnung, AFV"
 language: de
-version: 2024-07-01
-valid_until: 2026-04-30
-version_adopted: 2024-03-13
+version: 2026-05-01
+version_adopted: 2026-04-29
 adopted: 2012-12-12
 in_force: 2013-07-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/935.211"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3520/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3942/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3520/pdf_file"
 
 (Aargauische Fischereiverordnung, AFV)
 
-Vom 12.12.2012 (Stand 01.07.2024)
+Vom 12.12.2012 (Stand 01.05.2026)
 
 Der Regierungsrat des Kantons Aargau,
 
@@ -208,7 +207,7 @@ beschliesst:
 
 <sup>2</sup> Es gelten folgende Schonzeiten:
 
-- a) Äsche — vom 1. Februar bis 30. April,
+- a) Äsche — ganzjährig,
 - b) Bach-, Fluss- und Seeforelle — vom 1. Oktober bis Ende Februar,
 - c) Felchen — vom 1. Oktober bis 31. Dezember,
 - d) Hecht — vom 1. Februar bis 30. April,
@@ -231,7 +230,7 @@ beschliesst:
 <sup>1</sup> Es gelten folgende Fangmindestmasse:
 
 - a) …
-- b) Äsche — 32 cm,
+- b) …
 - c) Barbe im Bach — 30 cm,
 - d) Barbe in Rhein, Aare, Reuss und Limmat — 35 cm,
 - e) Barsch (Egli) — 15 cm,
@@ -253,7 +252,7 @@ beschliesst:
 
 **c) Fangbeschränkungen**
 
-<sup>1</sup> In Rhein, Aare, Reuss und Limmat dürfen Fischereiberechtigte gesamthaft pro Tag höchstens sechs Fische der Arten Forelle, Äsche und Hecht fangen.
+<sup>1</sup> In Rhein, Aare, Reuss und Limmat dürfen Fischereiberechtigte gesamthaft pro Tag höchstens sechs Fische der Arten Forelle und Hecht fangen.
 
 <sup>1<sup>bis</sup></sup> Für den Hallwilersee und die Aare, soweit sie die Grenze zwischen den Kantonen Aargau und Solothurn bildet, legen die beiden interkantonalen Verträge (§ 15 Abs. 4) die Fangbeschränkungen fest.
 
