@@ -4,13 +4,12 @@ number: "161.1"
 title: "Loi sur l'organisation des autorités judiciaires et du Ministère public"
 short: LOJM
 language: fr
-version: 2026-01-01
-valid_until: 2026-04-30
-version_adopted: 2024-09-03
+version: 2026-05-01
+version_adopted: 2025-09-02
 adopted: 2009-06-11
 in_force: 2010-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/161.1"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/3144/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3367/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/3144/pdf_file"
 
 (LOJM)
 
-du 11.06.2009 (état au 01.01.2026)
+du 11.06.2009 (état au 01.05.2026)
 
 Le Grand Conseil du canton de Berne,
 
@@ -197,6 +196,16 @@ arrête:
 
 <sup>5</sup> Le Conseil-exécutif reprend le budget et le plan intégré mission-financement élaborés par la Direction administrative de la magistrature, les insère sans modification dans le budget et dans le plan intégré mission-financement du canton, et prend position à leur égard.
 
+#### Art. 11a
+
+**Compte spécial**
+
+<sup>1</sup> Les autorités judiciaires et le Ministère public tiennent un compte spécial au sens de l’article 55 de la loi du 15 juin 2022 sur les finances (LFin)[^11a-1].
+
+<sup>2</sup> En dérogation à l'article 55, alinéa 2 LFin, la Direction administrative de la magistrature fixe dans un règlement la manière dont le compte doit être tenu. L’intégration matérielle et technique dans la gestion financière et la comptabilité du canton ainsi que dans les processus cantonaux doit être garantie.
+
+[^11a-1]: RSB [620.0](https://www.belex.sites.be.ch/data/620.0/fr)
+
 #### Art. 12
 
 **Règlements de gestion**
@@ -282,7 +291,7 @@ arrête:
 - i Elle peut, avec l'accord de la Commission de justice du Grand Conseil, contracter avant l'autorisation du crédit supplémentaire des engagements qu'il est impossible de différer sans que cela n'entraîne pour le canton des conséquences particulièrement préjudiciables.
 - k Elle est responsable d'édicter, dans le cadre des dispositions légales, des directives stratégiques applicables au personnel, aux finances et à la comptabilité ainsi qu'à la gestion de l'informatique, et garantit un controlling en la matière. Elle peut donner des instructions à cet égard aux autorités judiciaires et au Ministère public, et édicter les règlements nécessaires.
 - l Elle coordonne, en collaboration avec les services compétents de la Direction de la sécurité ainsi que de la Direction des travaux publics et des transports, l'édiction de directives stratégiques dans le domaine de la sécurité.
-- m Elle dirige l'état-major des ressources, fixe l'organisation et les tâches de ce dernier dans un règlement, et engage son chef ou sa cheffe ainsi que le reste du personnel.
+- m Elle dirige l'état-major des ressources, dont elle fixe l'organisation et les tâches dans un règlement.
 
 <sup>2</sup> …
 
@@ -322,17 +331,21 @@ arrête:
 
 #### Art. 21
 
-**Election, réélection et effectif des juges**
+**Élection et effectif des juges**
 
 <sup>1</sup> Sauf dispositions contraires de la présente loi, le Grand Conseil élit tous les juges. Il peut, après avoir entendu la Cour suprême ou le Tribunal administratif, partager les postes vacants en postes à temps partiel à 50 pour cent au moins. Il détermine le taux d’occupation des juges à temps partiel lors de leur élection.
 
-<sup>2</sup> Le Grand Conseil fixe par voie de décret
+<sup>1a</sup> Le Grand Conseil arrête le nombre
 
-- a le nombre maximum de postes de juge à titre principal ainsi que de président ou présidente des autorités régionales de conciliation,
-- b le nombre maximum de juges spécialisés, de juges non professionnels et de membres suppléants,
-- c les conditions d’éligibilité des juges, dans la mesure où les dispositions de la présente loi doivent être complétées.
+- a de postes de juge de la Cour suprême à plein temps,
+- b de postes de juge du Tribunal administratif à plein temps,
+- c de postes de juge des autres autorités judiciaires à plein temps,
+- d de postes de membre suppléant,
+- e de postes de juge spécialisée ou de juge spécialisé,
+- f de postes de juge non professionnelle ou de juge non professionnel,
+- g de postes de présidente ou de président d'une autorité de conciliation à plein temps.
 
-<sup>3–5</sup> …
+<sup>2–5</sup> …
 
 #### Art. 21a
 
@@ -359,7 +372,12 @@ arrête:
 
 <sup>2</sup> Le Parquet général engage par contrat de droit public les procureurs et procureures en chef, les autres procureurs et procureures ainsi que les procureurs et procureures des mineurs.
 
-<sup>3</sup> Le Grand Conseil fixe par voie de décret le nombre total maximum de postes de procureur ou procureure ainsi que de procureur ou procureure des mineurs [Teneur du 20. 11. 2012] après avoir entendu la Commission de justice et le procureur général ou la procureure générale.
+<sup>2a</sup> Le Grand Conseil arrête le nombre
+
+- a de postes de procureur ou de procureure en chef ainsi que de procureur ou de procureure des mineurs en chef à temps complet,
+- b de postes de procureur ou de procureure ainsi que de procureur ou de procureure des mineurs à temps complet.
+
+<sup>3</sup> …
 
 #### Art. 23
 
@@ -430,6 +448,8 @@ arrête:
 **Eligibilité et conditions d'engagement**
 
 <sup>1</sup> Sauf dispositions contraires de la présente loi, les juges, les procureurs et procureures ainsi que les procureurs et procureures des mineurs doivent être titulaires du brevet de notaire bernois ou d'un brevet d'avocat.
+
+<sup>1a</sup> Les postes doivent être pourvus de telle sorte que les deux langues officielles soient représentées selon les besoins.
 
 <sup>2</sup> Doivent comprendre et parler les deux langues officielles
 
@@ -650,23 +670,47 @@ arrête:
 
 #### Art. 45
 
-**Autorité appelée à statuer**
+**Autorité appelée à statuer 1. Généralités**
 
 <sup>1</sup> Sauf dispositions contraires de la loi, l'autorité appelée à statuer se compose de trois juges.
 
-<sup>2</sup> Les jugements du Tribunal de commerce sont rendus par trois juges, dont deux juges spécialisés. Lorsque toutes les parties le requièrent dans l'échange des mémoires ou sur ordre du juge instructeur ou de la juge instructrice, un second membre juriste et un troisième juge spécialisé ou une troisième juge spécialisée participent au jugement. Le président ou la présidente ordonne les mesures provisionnelles requises avant litispendance.
-
-<sup>3</sup> Les jugements du Tribunal de la protection de l'enfant et de l'adulte sont en règle générale rendus par trois juges, dont deux juges spécialisés. Il est possible de renoncer à faire appel aux juges spécialisés lorsque les faits sont établis ou qu'aucune question spécifique à une discipline ne se pose. Dans ce cas, la décision appartient
-
-- a au président ou à la présidente, qui connaît en tant que juge unique des recours contre
-  - 1\. les décisions et décisions sur recours incidentes, y compris en matière d'assistance judiciaire gratuite,
-  - 2\. les décisions et décisions sur recours d'irrecevabilité,
-  - 3\. les décisions et décisions sur recours ordonnant la radiation du rôle;
-- b à une autorité appelée à statuer composée de trois juges à titre principal dans tous les autres cas.
+<sup>2–3</sup> …
 
 <sup>4</sup> Les demandes de révocation de membres d'autorité à titre principal sont traitées par la Section civile dans une composition de cinq juges.
 
 <sup>5</sup> En cas de besoin, les juges sont tenus de se prêter main-forte.
+
+#### Art. 45a
+
+**2. Tribunal de commerce**
+
+<sup>1</sup> Les jugements du Tribunal de commerce sont rendus par trois juges, dont deux juges spécialisés. Lorsque toutes les parties le requièrent dans l’échange des mémoires ou sur ordre de la juge instructrice ou du juge instructeur, une seconde ou un second juge à titre principal et une troisième juge spécialisée ou un troisième juge spécialisé participent au jugement.
+
+<sup>2</sup> Le Tribunal de commerce dispose de juges spécialisés commerciaux.
+
+<sup>3</sup> La présidente ou le président du Tribunal de commerce, ou une ou un juge à titre principal qu’elle ou il désigne, ordonne les mesures provisionnelles requises avant litispendance et statue dans toutes les procédures sommaires.
+
+#### Art. 45b
+
+**3. Tribunal de la protection de l’enfant et de l’adulte**
+
+<sup>1</sup> Les jugements du Tribunal de la protection de l’enfant et de l’adulte sont en règle générale rendus par trois juges, dont deux juges spécialisés.
+
+<sup>2</sup> Les juges spécialisés doivent être expertes ou experts des domaines du travail social, de la pédagogie, de la psychologie ou de la médecine.
+
+<sup>3</sup> Il est possible de renoncer à faire appel aux juges spécialisés lorsque les faits sont établis ou qu’aucune question spécifique à une discipline ne se pose. Dans ce cas, la décision appartient à une autorité appelée à statuer composée de trois juges à titre principal.
+
+<sup>4</sup> La présidente ou le président, ou une ou un juge à titre principal désignée par ses soins, statue en tant que juge unique sur
+
+- a les mesures provisionnelles,
+- b l’assistance judiciaire,
+- c la radiation du rôle,
+- d les recours contre les décisions et décisions sur recours incidentes, y compris en matière d’assistance judiciaire,
+- e les recours contre les décisions et décisions sur recours ordonnant la radiation du rôle,
+- f les recours contre les décisions et décisions sur recours d’irrecevabilité,
+- g les recours dans les cas énumérés à l’article 439, alinéa 1 du Code civil suisse (CC)[^45b-1].
+
+[^45b-1]: RS [210](https://db.clex.ch/link/Bund/210/fr)
 
 #### Art. 46
 
@@ -826,12 +870,12 @@ arrête:
 
 **Juge unique**
 
-<sup>1</sup> Les membres du Tribunal administratif connaissent, en qualité de juges uniques, des recours et actions dont la valeur litigieuse n'atteint pas 20'000 francs, de ceux qui ont été retirés, sont devenus sans objet ou sont manifestement irrecevables; la détermination de la valeur litigieuse est régie par les dispositions du code de procédure civile suisse du 19 décembre 2008 (CPC)[^57-1].
+<sup>1</sup> Les membres du Tribunal administratif connaissent, en qualité de juges uniques, des recours et actions dont la valeur litigieuse n'atteint pas 30’000 francs, de ceux qui ont été retirés, sont devenus sans objet ou sont manifestement irrecevables; la détermination de la valeur litigieuse est régie par les dispositions du code de procédure civile du 19 décembre 2008 (CPC)[^57-1].
 
 <sup>2</sup> Ils connaissent des recours
 
 - a concernant le sursis au paiement ou la remise de contributions dues, l'octroi de facilités ou de privilèges en la matière, ainsi que les sûretés,
-- b contre les décisions incidentes, les décisions sur recours incidentes et les jugements incidents, y compris en matière d'assistance judiciaire, ,
+- b contre les décisions et décisions sur recours incidentes ainsi que les jugements incidents, y compris en matière d'assistance judiciaire,
 - c contre les décisions et décisions sur recours d'irrecevabilité,
 - d contre les décisions et les décisions sur recours de radiation du rôle,
 - e au sens de l'article 31, alinéa 2 de la loi du 9 décembre 2019 portant introduction de la loi fédérale sur l'asile et de la loi fédérale sur les étrangers et l'intégration (Li LFAE)[^57-2].
@@ -846,7 +890,7 @@ arrête:
 
 <sup>7</sup> Lors de litiges portés devant le Tribunal arbitral des assurances sociales, le président ou la présidente neutre approuve les transactions et connaît des requêtes ou actions qui ont été retirées, sont devenues sans objet ou sont manifestement irrecevables. Il ou elle statue en outre sur toutes les affaires pour lesquelles les parties concluent de façon concordante à l’admission du recours ou de la demande.
 
-[^57-1]: RS 272
+[^57-1]: RS [272](https://db.clex.ch/link/Bund/272/fr)
 [^57-2]: RSB [122.20](https://www.belex.sites.be.ch/data/122.20/fr)
 
 #### Art. 58
@@ -933,17 +977,27 @@ arrête:
 
 #### Art. 67
 
-**Composition et siège**
+**Siège**
 
-<sup>1</sup> Il existe pour l'ensemble du territoire cantonal un Tribunal des mineurs. Il se compose de présidents ou présidentes ainsi que de juges spécialisés.
+<sup>1</sup> Il existe un Tribunal des mineurs pour l’ensemble du territoire cantonal.
 
-<sup>2</sup> La Cour suprême désigne le ou la juge en chef du Tribunal des mineurs sur proposition des présidents et présidentes de ce tribunal. La personne désignée l'est pour trois ans et peut être reconduite dans sa fonction.
-
-<sup>3</sup> Un président ou une présidente du Tribunal des mineurs au moins doit être de langue française.
+<sup>2–3</sup> …
 
 <sup>4</sup> Le Tribunal des mineurs se trouve au siège du Tribunal régional de Berne-Mittelland, dont il utilise l'infrastructure.
 
 <sup>5</sup> Il siège en règle générale à l'agence régionale du Ministère public des mineurs ou au tribunal régional compétent à raison du lieu.
+
+#### Art. 67a
+
+**Composition**
+
+<sup>1</sup> Le Tribunal des mineurs se compose de présidentes ou présidents ainsi que de juges spécialisés.
+
+<sup>2</sup> Une présidente ou un président au moins doit être de langue française.
+
+<sup>3</sup> Les juges spécialisés doivent disposer d’une formation ou d’une expérience professionnelle suffisantes dans les domaines du droit pénal des mineurs ou de l’aide à la jeunesse, en particulier dans le système éducatif, les services sociaux ou les services de consultation.
+
+<sup>4</sup> La Cour suprême désigne la ou le juge en chef du Tribunal des mineurs sur proposition des présidentes et présidents de ce tribunal. La personne désignée l’est pour trois ans et peut être reconduite dans sa fonction.
 
 #### Art. 68
 
@@ -957,29 +1011,39 @@ arrête:
 
 #### Art. 69
 
-**Composition, siège et structure**
+**Siège**
 
 <sup>1</sup> Il existe pour l’ensemble du territoire cantonal une Commission des recours en matière fiscale. Son siège est à Berne.
 
-<sup>2</sup> La commission se compose de deux juges à titre principal qui occupent les fonctions de président ou de présidente et de vice-président ou de vice-présidente, ainsi que de juges spécialisés.
+<sup>2–3</sup> …
 
-<sup>3</sup> Elle comporte deux chambres, chacune étant composée d’un ou d’une juge à titre principal et d’un nombre identique de juges spécialisés.
+#### Art. 69a
+
+**Composition et structure**
+
+<sup>1</sup> La Commission des recours en matière fiscale se compose de deux juges à titre principal qui occupent les fonctions de présidente ou de président et de vice-présidente ou de vice-président, ainsi que de juges spécialisés.
+
+<sup>2</sup> Elle comporte deux chambres, chacune étant composée d’une ou d’un juge à titre principal et d’un nombre identique de juges spécialisés.
+
+<sup>3</sup> Les juges à titre principal président les chambres. Elles et ils se suppléent mutuellement.
+
+<sup>4</sup> Les juges spécialisés ne sont pas rattachés à une chambre en particulier. Leur affectation est décidée par la ou le juge à titre principal selon les besoins.
 
 #### Art. 70
 
 **Autorité appelée à statuer**
 
-<sup>1</sup> Les juges à titre principal président les chambres. Ils se suppléent mutuellement.
-
-<sup>2</sup> Les juges spécialisés ne sont pas rattachés à une chambre en particulier. Leur affectation est décidée par le ou la juge à titre principal selon les besoins.
+<sup>1–2</sup> …
 
 <sup>3</sup> L’autorité de la Commission des recours en matière fiscale appelée à statuer est habituellement composée d’un ou d’une juge à titre principal ainsi que de deux juges spécialisés. Lors de litiges d’une importance fondamentale, elle fait appel en sus à deux autres juges spécialisés.
+
+<sup>3a</sup> Les juges spécialisés doivent être expertes ou experts des domaines du droit fiscal, de l’agriculture, de la construction ou de l’estimation.
 
 <sup>4</sup> Les juges à titre principal statuent en qualité de juges uniques sur
 
 - a les recours retirés, devenus sans objet ou irrecevables;
 - b les recours contre un impôt pouvant être fixé sur la base de chiffres incontestés;
-- c les recours portant sur un montant litigieux n’excédant pas 10'000 francs pour un impôt et 3000 francs pour une amende;
+- c les recours portant sur un montant litigieux n’excédant pas 10’000 francs pour un impôt et 3000 francs pour une amende;
 - d les recours formés uniquement contre des décisions en matière de frais;
 - e les recours formés contre des décisions d’irrecevabilité.
 
@@ -1016,9 +1080,7 @@ arrête:
 
 #### Art. 73
 
-**Eligibilité**
-
-<sup>1</sup> Les juges spécialisés doivent être experts ou expertes des domaines du droit fiscal, de l’agriculture, de la construction ou de l’estimation.
+**…**
 
 ### 9.5 Commission de recours contre les mesures administratives prononcées en vertu de la loi sur la circulation routière
 
@@ -1030,6 +1092,8 @@ arrête:
 
 <sup>2</sup> La commission se compose d’un président ou d’une présidente, d’un vice-président ou d’une vice-présidente et de juges spécialisés.
 
+<sup>3</sup> Le président ou la présidente et le vice-président ou la vice-présidente exercent leur fonction à titre accessoire.
+
 #### Art. 75
 
 **Autorité appelée à statuer**
@@ -1039,6 +1103,8 @@ arrête:
 <sup>1a</sup> La Commission de recours contre les mesures administratives prononcées en vertu de la loi sur la circulation routière statue dans une composition de trois juges. Le président ou la présidente, ou le vice-président ou la vice-présidente, statue en qualité de juge unique lorsqu'un recours fait l'objet d'un retrait, devient sans objet, est dirigé contre une décision incidente ou une décision sur recours incidente, ou est irrecevable.
 
 <sup>2</sup> Lors de litiges d’une importance fondamentale, la commission fait appel en sus à deux autres juges spécialisés.
+
+<sup>3</sup> Les juges spécialisés doivent être expertes ou experts des domaines du droit, de la médecine ou de la psychologie.
 
 ### 9.6 Commission d'estimation en matière d'expropriation
 
@@ -1052,6 +1118,8 @@ arrête:
 
 <sup>3</sup> En cas de besoin, le Tribunal administratif peut nommer un président ou une présidente extraordinaire.
 
+<sup>4</sup> Le président ou la présidente et le vice-président ou la vice-présidente exercent leur fonction à titre accessoire.
+
 #### Art. 77
 
 **Autorité appelée à statuer**
@@ -1061,6 +1129,8 @@ arrête:
 <sup>1a</sup> La Commission d’estimation en matière d’expropriation statue dans une composition de trois juges. Le président ou la présidente, ou le vice-président ou la vice-présidente, statue en qualité de juge unique lorsqu'une requête, une action ou un recours fait l'objet d'un retrait, devient sans objet ou est irrecevable.
 
 <sup>2</sup> La composition de l’autorité appelée à statuer tient compte des intérêts régionaux dans une mesure appropriée.
+
+<sup>3</sup> Les juges spécialisés doivent être expertes ou experts des domaines de la construction, de la sylviculture ou de l’agriculture, ou de domaines connexes.
 
 ### 9.7 Commission des améliorations foncières
 
@@ -1074,6 +1144,8 @@ arrête:
 
 <sup>3</sup> En cas de besoin, le Tribunal administratif peut nommer un président ou une présidente extraordinaire.
 
+<sup>4</sup> Le président ou la présidente et le vice-président ou la vice-présidente exercent leur fonction à titre accessoire.
+
 #### Art. 79
 
 **Autorité appelée à statuer**
@@ -1081,6 +1153,8 @@ arrête:
 <sup>1</sup> L’autorité appelée à statuer se compose du président ou de la présidente, ou du vice-président ou de la vice-présidente, qui dirige les débats, et de deux juges spécialisés.
 
 <sup>1a</sup> La Commission des améliorations foncières statue dans une composition de trois juges. Le président ou la présidente, ou le vice-président ou la vice-présidente, statue en qualité de juge unique lorsqu'une opposition ou un recours fait l'objet d'un retrait, devient sans objet ou est irrecevable.
+
+<sup>2</sup> Les juges spécialisés doivent être expertes ou experts des domaines de la sylviculture, de l’agriculture ou du génie rural.
 
 ## 10 Autorités judiciaires régionales
 
@@ -1103,19 +1177,30 @@ arrête:
 
 #### Art. 81
 
-**Composition, direction et autorité appelée à statuer**
+**Siège**
 
 <sup>1</sup> Il existe un tribunal régional dans chaque région judiciaire. Le Tribunal régional du Jura bernois-Seeland est doté d’une agence dans le Jura bernois.
 
 <sup>2</sup> Le Conseil-exécutif désigne le siège de chaque tribunal régional.
 
-<sup>3</sup> Le tribunal régional se compose de présidents ou présidentes de tribunal, de juges spécialisés ainsi que de juges non professionnels.
+<sup>2a</sup> La Cour suprême répartit les postes entre les tribunaux régionaux.
 
-<sup>4</sup> Ses jugements sont rendus par un ou une juge unique en matière civile, sauf dans les procédures relevant du droit du travail au sens de l'article 9 LiCPM. Ils sont rendus par un ou une juge unique ou par une autorité collégiale en matière pénale.
+<sup>3–6</sup> …
 
-<sup>5</sup> Un président ou une présidente de tribunal dirige l’autorité appelée à statuer.
+#### Art. 81a
 
-<sup>6</sup> En matière pénale, le tribunal collégial statue dans une composition de trois ou de cinq juges, à savoir un président ou une présidente de tribunal et deux ou quatre juges non professionnels.
+**Composition et autorité appelée à statuer**
+
+<sup>1</sup> Le tribunal régional se compose de présidentes ou présidents de tribunal, de juges spécialisés ainsi que de juges non professionnels.
+
+<sup>2</sup> Une présidente ou un président de tribunal dirige l’autorité appelée à statuer.
+
+<sup>3</sup> Sauf dans les litiges relevant du droit du travail au sens de l’article 9 LiCPM, les jugements du tribunal régional sont rendus par
+
+- a une ou un juge unique en matière civile,
+- b une ou un juge unique ou une autorité collégiale en matière pénale.
+
+<sup>4</sup> En matière pénale, le tribunal collégial statue dans une composition de trois ou de cinq juges, à savoir une présidente ou un président de tribunal et deux ou quatre juges non professionnels.
 
 #### Art. 82
 
@@ -1150,15 +1235,27 @@ arrête:
 
 #### Art. 84
 
-**Composition, présidence et infrastructure**
+**Généralités**
 
 <sup>1</sup> Il existe une autorité de conciliation dans chaque région judiciaire.
 
-<sup>2</sup> L’autorité de conciliation se compose de présidents ou présidentes ainsi que de juges spécialisés.
+<sup>2</sup> …
 
 <sup>3</sup> Elle peut utiliser l’infrastructure du tribunal régional.
 
 <sup>4</sup> L’Autorité de conciliation du Jura bernois-Seeland est dotée d’une agence dans le Jura bernois.
+
+#### Art. 84a
+
+**Composition**
+
+<sup>1</sup> L’autorité de conciliation se compose de présidentes ou présidents ainsi que de juges spécialisés.
+
+<sup>2</sup> Les présidentes et présidents doivent disposer des compétences nécessaires en matière de conciliation.
+
+<sup>3</sup> Les conditions d’éligibilité des juges spécialisés sont régies par le CPC.
+
+<sup>4</sup> La Cour suprême répartit les postes entre les autorités régionales de conciliation.
 
 #### Art. 85
 
@@ -1213,7 +1310,11 @@ arrête:
 - c de procureurs ou procureures en chef,
 - d de procureurs ou procureures,
 - e d’un procureur ou d’une procureure des mineurs en chef,
-- f de procureurs ou procureures des mineurs.
+- f de procureurs ou procureures des mineurs,
+- g de procureurs-assistants ou procureures-assistantes,
+- h de procureurs-assistants ou procureures-assistantes des mineurs.
+
+<sup>1a</sup> Le Parquet général répartit les postes entre les différents ministères publics.
 
 <sup>2</sup> Les deux langues officielles doivent être représentées de manière appropriée.
 
@@ -1375,6 +1476,14 @@ arrête:
 **Entrée en vigueur**
 
 <sup>1</sup> Le Conseil-exécutif fixe la date d’entrée en vigueur de la présente loi.
+
+## T1 Disposition transitoire de la modification du 02.09.2025
+
+#### Art. T1-1
+
+**Évaluation**
+
+<sup>1</sup> Le Conseil-exécutif soumet au Grand Conseil un rapport sur la mise en œuvre et les effets de l’article 45b, alinéa 4, lettre g cinq ans après son entrée en vigueur.
 
 Berne, le 11 juin 2009
 

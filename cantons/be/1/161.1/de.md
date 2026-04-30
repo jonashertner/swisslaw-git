@@ -4,13 +4,12 @@ number: "161.1"
 title: Gesetz über die Organisation der Gerichtsbehörden und der Staatsanwaltschaft
 short: GSOG
 language: de
-version: 2026-01-01
-valid_until: 2026-04-30
-version_adopted: 2024-09-03
+version: 2026-05-01
+version_adopted: 2025-09-02
 adopted: 2009-06-11
 in_force: 2010-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/161.1"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/3144/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3367/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/3144/pdf_file"
 
 (GSOG)
 
-vom 11.06.2009 (Stand 01.01.2026)
+vom 11.06.2009 (Stand 01.05.2026)
 
 Der Grosse Rat des Kantons Bern,
 
@@ -197,6 +196,16 @@ beschliesst:
 
 <sup>5</sup> Der Regierungsrat übernimmt das durch die Justizverwaltungsleitung erarbeitete Budget und den Aufgaben- und Finanzplan unverändert in das Budget und in den Aufgaben- und Finanzplan des Kantons und nimmt dazu Stellung.
 
+#### Art. 11a
+
+**Besondere Rechnung**
+
+<sup>1</sup> Die Gerichtsbehörden und die Staatsanwaltschaft führen eine Besondere Rechnung gemäss Artikel 55 des Finanzhaushaltsgesetzes vom 15. Juni 2022 (FHG)[^11a-1].
+
+<sup>2</sup> In Abweichung von Artikel 55 Absatz 2 FHG regelt die Justizverwaltungsleitung die Art und Weise der Rechnungsführung durch Reglement. Die fachliche und technische Integration in das Finanz- und Rechnungswesen des Kantons und in die gesamtstaatlichen Prozesse ist zu gewährleisten.
+
+[^11a-1]: BSG 620.0
+
 #### Art. 12
 
 **Geschäftsreglemente**
@@ -276,13 +285,13 @@ beschliesst:
 - e Sie unterbreitet direkt dem Grossen Rat jährlich einen Tätigkeitsbericht.
 - f …
 - g Sie nimmt die Verwaltungsaufgaben, welche die Finanzhaushaltsgesetzgebung dem Regierungsrat für den Bereich der kantonalen Verwaltung einräumt, für die Bereiche der Gerichtsbarkeit und der Staatsanwaltschaft wahr, soweit dieses Gesetz nichts anderes bestimmt.
-- h Sie kann mit Zustimmung der Justizkommission des Grossen Rates nachkreditpflichtige Abweichungen der im Voranschlag beschlossenen Saldi bewilligen,
-  - 1\. wenn diese eine Million Franken pro Produktgruppe nicht übersteigen,
-  - 2\. oder wenn kein Entscheidspielraum besteht.
+- h Sie kann mit Zustimmung der Justizkommission des Grossen Rates nachkreditpflichtige Abweichungen der im Voranschlag beschlossenen Saldi bewilligen, wenn
+  - 1\. diese eine Million Franken pro Produktgruppe nicht übersteigen oder
+  - 2\. kein Entscheidungsspielraum besteht.
 - i Sie kann mit Zustimmung der Justizkommission des Grossen Rates bereits vor der Bewilligung eines Nachkredits Verpflichtungen eingehen, wenn ein Aufschub für den Kanton erhebliche nachteilige Folgen hätte.
 - k Sie ist im Rahmen der gesetzlichen Vorgaben verantwortlich für die strategischen Leitlinien in den Bereichen Personal-, Finanz- und Rechnungswesen sowie Informatikmanagement und führt darüber ein Controlling. Sie kann den Gerichtsbehörden und der Staatsanwaltschaft entsprechende Weisungen erteilen sowie die notwendigen Reglemente erlassen.
 - l Sie koordiniert in Zusammenarbeit mit den zuständigen Stellen der Sicherheitsdirektion und der Bau- und Verkehrsdirektion den Erlass von strategischen Leitlinien auf dem Gebiet der Sicherheit.
-- m Sie leitet die Stabsstelle für Ressourcen, regelt deren Organisation und Aufgaben durch Reglement und stellt deren Leitung sowie deren übriges Personal an.
+- m Sie leitet die Stabsstelle für Ressourcen und regelt deren Organisation und Aufgaben durch Reglement.
 
 <sup>2</sup> …
 
@@ -322,17 +331,21 @@ beschliesst:
 
 #### Art. 21
 
-**Wahl, Wiederwahl und Anzahl der Richterinnen und Richter**
+**Wahl und Anzahl der Richterinnen und Richter**
 
 <sup>1</sup> Soweit dieses Gesetz nichts anderes bestimmt, wählt der Grosse Rat alle Richterinnen und Richter. Er kann nach Anhörung des Obergerichts oder des Verwaltungsgerichts freie Stellen in Teilzeitstellen mit einem Beschäftigungsgrad von mindestens 50 Prozent aufteilen. Mit der Wahl der teilzeitlich tätigen Richterinnen und Richter legt er deren Beschäftigungsgrad fest.
 
-<sup>2</sup> Der Grosse Rat regelt durch Dekret
+<sup>1a</sup> Der Grosse Rat beschliesst
 
-- a die Höchstzahl der Stellen für die hauptamtlichen Richterinnen und Richter sowie für die Vorsitzenden der regionalen Schlichtungsbehörden,
-- b die Höchstzahl an Fachrichterinnen und Fachrichtern, Laienrichterinnen und Laienrichtern sowie Ersatzrichterinnen und Ersatzrichtern,
-- c die Wahlvoraussetzungen für Richterinnen und Richter, soweit sie nicht durch dieses Gesetz bestimmt sind.
+- a die Anzahl der Vollzeitstellen für Oberrichterinnen und Oberrichter,
+- b die Anzahl der Vollzeitstellen für Verwaltungsrichterinnen und Verwaltungsrichter,
+- c die Anzahl der Vollzeitstellen für Richterinnen und Richter der weiteren Gerichtsbehörden,
+- d die Anzahl der Stellen für Ersatzrichterinnen und Ersatzrichter,
+- e die Anzahl der Stellen für Fachrichterinnen und Fachrichter,
+- f die Anzahl der Stellen für Laienrichterinnen und Laienrichter,
+- g die Anzahl der Vollzeitstellen für Vorsitzende der Schlichtungsbehörden.
 
-<sup>3–5</sup> …
+<sup>2–5</sup> …
 
 #### Art. 21a
 
@@ -359,7 +372,12 @@ beschliesst:
 
 <sup>2</sup> Die Generalstaatsanwaltschaft stellt die leitenden und die übrigen Staatsanwältinnen und Staatsanwälte sowie die Jugendanwältinnen und Jugendanwälte an und begründet mit diesen Arbeitsverhältnisse durch öffentlich-rechtlichen Arbeitsvertrag.
 
-<sup>3</sup> Der Grosse Rat legt nach Anhörung der Justizkommission und nach Anhörung der Generalstaatsanwältin oder des Generalstaatsanwaltes die Höchstzahl der Stellen der Staatsanwältinnen und Staatsanwälte sowie der Jugendanwältinnen und Jugendanwälte durch Dekret fest.
+<sup>2a</sup> Der Grosse Rat beschliesst
+
+- a die Anzahl der Vollzeitstellen für leitende Staatsanwältinnen und Staatsanwälte sowie für leitende Jugendanwältinnen und Jugendanwälte,
+- b die Anzahl der Vollzeitstellen für Staatsanwältinnen und Staatsanwälte sowie für Jugendanwältinnen und Jugendanwälte.
+
+<sup>3</sup> …
 
 #### Art. 23
 
@@ -430,6 +448,8 @@ beschliesst:
 **Wählbarkeit und Anstellungsvoraussetzungen**
 
 <sup>1</sup> Soweit dieses Gesetz nichts anderes bestimmt, müssen Richterinnen und Richter, Staatsanwältinnen und Staatsanwälte sowie Jugendanwältinnen und Jugendanwälte über ein Anwaltspatent oder das bernische Notariatspatent verfügen.
+
+<sup>1a</sup> Bei der Besetzung der Stellen ist dafür zu sorgen, dass beide Amtssprachen nach Bedarf vertreten sind.
 
 <sup>2</sup> Beide Amtssprachen verstehen und sprechen müssen
 
@@ -650,23 +670,47 @@ beschliesst:
 
 #### Art. 45
 
-**Spruchkörper**
+**Spruchkörper 1. Allgemeines**
 
 <sup>1</sup> Die Urteilsfindung erfolgt in Dreierbesetzung, soweit das Gesetz nichts anderes bestimmt.
 
-<sup>2</sup> Die Urteile des Handelsgerichts werden durch drei Richterinnen oder Richter gefällt, davon zwei Fachrichterinnen oder Fachrichter. Auf Antrag aller Parteien im Schriftenwechsel oder auf Anordnung der Instruktionsrichterin oder des Instruktionsrichters wirken ein weiteres juristisches Mitglied und eine dritte Fachrichterin oder ein dritter Fachrichter mit. Für die Anordnung vorsorglicher Massnahmen vor Eintritt der Rechtshängigkeit ist die Präsidentin oder der Präsident zuständig.
-
-<sup>3</sup> Die Urteile des Kindes- und Erwachsenenschutzgerichts werden in der Regel durch drei Richterinnen und Richter gefällt, davon zwei Fachrichterinnen und Fachrichter. Wo der Sachverhalt erstellt ist oder wo sich keine fachspezifischen Fragen stellen, kann auf den Beizug der Fachrichterinnen und Fachrichter verzichtet werden. In diesem Fall entscheidet
-
-- a die Präsidentin oder der Präsident als Einzelrichterin oder Einzelrichter über Beschwerden gegen
-  - 1\. Zwischenverfügungen oder -entscheide, einschliesslich solcher betreffend die unentgeltliche Prozessführung,
-  - 2\. Nichteintretensverfügungen oder -entscheide,
-  - 3\. Abschreibungsverfügungen oder -entscheide;
-- b ein Spruchkörper aus drei hauptamtlichen Richterinnen und Richtern in allen übrigen Fällen.
+<sup>2–3</sup> …
 
 <sup>4</sup> Begehren um Abberufung von hauptamtlichen Behördenmitgliedern werden durch die Zivilabteilung in Fünferbesetzung behandelt.
 
 <sup>5</sup> Bei Bedarf sind die Richterinnen und Richter zur gegenseitigen Aushilfe verpflichtet.
+
+#### Art. 45a
+
+**2. Handelsgericht**
+
+<sup>1</sup> Die Urteile des Handelsgerichts werden durch drei Richterinnen oder Richter gefällt, davon zwei Fachrichterinnen oder Fachrichter. Auf Antrag aller Parteien im Schriftenwechsel oder auf Anordnung der Instruktionsrichterin oder des Instruktionsrichters wirken eine weitere hauptamtliche Richterin oder ein weiterer hauptamtlicher Richter und eine dritte Fachrichterin oder ein dritter Fachrichter mit.
+
+<sup>2</sup> Dem Handelsgericht gehören kaufmännische Fachrichterinnen und Fachrichter an.
+
+<sup>3</sup> Für die Anordnung vorsorglicher Massnahmen vor Eintritt der Rechtshängigkeit sowie für alle im summarischen Verfahren zu beurteilenden Angelegenheiten ist die Präsidentin oder der Präsident des Handelsgerichts oder eine von ihr oder ihm bezeichnete hauptamtliche Richterin bzw. ein von ihr oder ihm bezeichneter hauptamtlicher Richter zuständig.
+
+#### Art. 45b
+
+**3. Kindes- und Erwachsenenschutzgericht**
+
+<sup>1</sup> Die Urteile des Kindes- und Erwachsenenschutzgerichts werden in der Regel durch drei Richterinnen oder Richter gefällt, davon zwei Fachrichterinnen oder Fachrichter.
+
+<sup>2</sup> Die Fachrichterinnen und Fachrichter sind Sachverständige im Bereich der Sozialen Arbeit, der Pädagogik, der Psychologie oder der Medizin.
+
+<sup>3</sup> Ist der Sachverhalt erstellt oder stellen sich keine fachspezifischen Fragen, kann auf den Beizug der Fachrichterinnen und Fachrichter verzichtet werden. In diesem Fall entscheidet ein Spruchkörper aus drei hauptamtlichen Richterinnen oder Richtern.
+
+<sup>4</sup> Die Präsidentin oder der Präsident oder eine von ihr oder ihm bezeichnete hauptamtliche Richterin bzw. ein von ihr oder ihm bezeichneter hauptamtlicher Richter entscheidet als Einzelrichterin oder Einzelrichter über
+
+- a vorsorgliche Massnahmen,
+- b die unentgeltliche Rechtspflege,
+- c die Abschreibung des Verfahrens,
+- d Beschwerden gegen Zwischenverfügungen oder -entscheide, einschliesslich solcher betreffend die unentgeltliche Rechtspflege,
+- e Beschwerden gegen Abschreibungsverfügungen oder -entscheide,
+- f Beschwerden gegen Nichteintretensverfügungen oder -entscheide,
+- g Beschwerden in den Fällen von Artikel 439 Absatz 1 des Schweizerischen Zivilgesetzbuches (ZGB)[^45b-1].
+
+[^45b-1]: SR [210](https://db.clex.ch/link/Bund/210/de)
 
 #### Art. 46
 
@@ -826,12 +870,12 @@ beschliesst:
 
 **Einzelrichterliche Zuständigkeit**
 
-<sup>1</sup> Die Mitglieder des Verwaltungsgerichts behandeln als Einzelrichterinnen oder Einzelrichter Beschwerden und Klagen, deren Streitwert 20 000 Franken nicht erreicht oder die zurückgezogen oder gegenstandslos werden oder auf die offensichtlich nicht eingetreten werden kann; die Berechnung des Streitwerts richtet sich nach den Vorschriften der Schweizerischen Zivilprozessordnung vom 19. Dezember 2008 (ZPO)[^57-1].
+<sup>1</sup> Die Mitglieder des Verwaltungsgerichts behandeln als Einzelrichterinnen oder Einzelrichter Beschwerden und Klagen, deren Streitwert 30'000 Franken nicht erreicht oder die zurückgezogen oder gegenstandslos werden oder auf die offensichtlich nicht eingetreten werden kann; die Berechnung des Streitwerts richtet sich nach den Vorschriften der Schweizerischen Zivilprozessordnung vom 19. Dezember 2008 (Zivilprozessordnung, ZPO)[^57-1].
 
 <sup>2</sup> Sie entscheiden über Beschwerden
 
 - a betreffend Erlass oder Stundung geschuldeter Abgaben sowie Einräumung von Abgabeerleichterungen und Abgabevergünstigungen sowie Sicherstellungen,
-- b gegen Zwischenverfügungen und Zwischenentscheide, einschliesslich solcher betreffend die unentgeltliche Rechtspflege ,
+- b gegen Zwischenverfügungen und -entscheide, einschliesslich solcher betreffend die unentgeltliche Rechtspflege,
 - c gegen Nichteintretensverfügungen oder -entscheide,
 - d gegen Abschreibungsverfügungen oder -entscheide,
 - e nach Artikel 31 Absatz 2 des Einführungsgesetzes vom 9. Dezember 2019 zum Ausländer- und Integrationsgesetz sowie zum Asylgesetz (EG AIG und AsylG)[^57-2].
@@ -846,7 +890,7 @@ beschliesst:
 
 <sup>7</sup> In Streitigkeiten vor dem Schiedsgericht in Sozialversicherungsstreitigkeiten genehmigt die oder der neutrale Vorsitzende Vergleiche und behandelt Gesuche und Klagen, die zurückgezogen oder gegenstandslos geworden sind oder auf die offensichtlich nicht eingetreten werden kann. Sie oder er behandelt ferner die Geschäfte, bei denen die Parteien übereinstimmend Gutheissung beantragen.
 
-[^57-1]: SR 272
+[^57-1]: SR [272](https://db.clex.ch/link/Bund/272/de)
 [^57-2]: BSG [122.20](https://www.belex.sites.be.ch/data/122.20/de)
 
 #### Art. 58
@@ -933,17 +977,27 @@ beschliesst:
 
 #### Art. 67
 
-**Zusammensetzung und Sitz**
+**Sitz**
 
-<sup>1</sup> Für das ganze Kantonsgebiet besteht ein Jugendgericht. Es setzt sich zusammen aus Jugendgerichtspräsidentinnen und Jugendgerichtspräsidenten sowie Fachrichterinnen und Fachrichtern.
+<sup>1</sup> Für das ganze Kantonsgebiet besteht ein Jugendgericht.
 
-<sup>2</sup> Das Obergericht wählt auf Antrag der Jugendgerichtspräsidentinnen und Jugendgerichtspräsidenten die Geschäftsleiterin oder den Geschäftsleiter des Jugendgerichts. Die Wahl erfolgt für drei Jahre; Wiederwahl ist zulässig.
-
-<sup>3</sup> Mindestens eine Jugendgerichtspräsidentin oder ein Jugendgerichtspräsident muss französischsprachig sein.
+<sup>2–3</sup> …
 
 <sup>4</sup> Das Jugendgericht befindet sich am Sitz des Regionalgerichts Bern-Mittelland und benützt dessen Infrastruktur.
 
 <sup>5</sup> Es tagt in der Regel am Sitz der regionalen Dienststelle der Jugendanwaltschaft oder des örtlich zuständigen Regionalgerichts.
+
+#### Art. 67a
+
+**Zusammensetzung**
+
+<sup>1</sup> Das Jugendgericht setzt sich zusammen aus Jugendgerichtspräsidentinnen und Jugendgerichtspräsidenten sowie Fachrichterinnen und Fachrichtern.
+
+<sup>2</sup> Mindestens eine Jugendgerichtspräsidentin oder ein Jugendgerichtspräsident muss französischsprachig sein.
+
+<sup>3</sup> Die Fachrichterinnen und Fachrichter verfügen über eine hinreichende Ausbildung oder Berufserfahrung in der Jugendrechtspflege oder Jugendhilfe, insbesondere in Erziehung, Sozialdiensten oder Beratungsstellen.
+
+<sup>4</sup> Das Obergericht wählt auf Antrag der Jugendgerichtspräsidentinnen und Jugendgerichtspräsidenten die Geschäftsleiterin oder den Geschäftsleiter des Jugendgerichts. Die Wahl erfolgt für drei Jahre, eine Wiederwahl ist zulässig.
 
 #### Art. 68
 
@@ -957,31 +1011,41 @@ beschliesst:
 
 #### Art. 69
 
-**Zusammensetzung, Sitz und Gliederung**
+**Sitz**
 
 <sup>1</sup> Für das ganze Kantonsgebiet besteht eine Steuerrekurskommission. Sie hat ihren Sitz in Bern.
 
-<sup>2</sup> Sie setzt sich zusammen aus zwei hauptamtlichen Richterinnen und Richtern als Präsidentin oder Präsident und als Vizepräsidentin oder Vizepräsident sowie Fachrichterinnen und Fachrichtern.
+<sup>2–3</sup> …
 
-<sup>3</sup> Sie gliedert sich in zwei Kammern bestehend je aus einer Vorsitzenden oder einem Vorsitzenden sowie einer gleichen Anzahl von Fachrichterinnen und Fachrichtern.
+#### Art. 69a
+
+**Zusammensetzung und Gliederung**
+
+<sup>1</sup> Die Steuerrekurskommission setzt sich zusammen aus zwei hauptamtlichen Richterinnen oder Richtern als Präsidentin oder Präsident und als Vizepräsidentin oder Vizepräsident sowie Fachrichterinnen und Fachrichtern.
+
+<sup>2</sup> Sie gliedert sich in zwei Kammern, bestehend je aus einer Vorsitzenden oder einem Vorsitzenden sowie Fachrichterinnen und Fachrichtern in der derselben Anzahl.
+
+<sup>3</sup> Vorsitzende oder Vorsitzender der Kammer ist eine hauptamtliche Richterin oder ein hauptamtlicher Richter. Die Vorsitzenden vertreten sich gegenseitig.
+
+<sup>4</sup> Die Fachrichterinnen und Fachrichter sind keiner Kammer fest zugeteilt. Die Zuteilung erfolgt je nach Bedarf durch die Vorsitzenden.
 
 #### Art. 70
 
 **Spruchkörper**
 
-<sup>1</sup> Vorsitzende oder Vorsitzender der Kammer ist eine hauptamtliche Richterin oder ein hauptamtlicher Richter. Die Vorsitzenden vertreten sich gegenseitig.
-
-<sup>2</sup> Die Fachrichterinnen und Fachrichter sind keiner Kammer fest zugeteilt. Die Zuteilung erfolgt je nach Bedarf durch die Vorsitzenden.
+<sup>1–2</sup> …
 
 <sup>3</sup> Die Steuerrekurskommission urteilt gewöhnlich in einem Spruchkörper bestehend aus einer hauptamtlichen Richterin oder einem hauptamtlichen Richter sowie zwei Fachrichterinnen oder Fachrichtern. Sie urteilt unter Beizug von zwei weiteren Fachrichterinnen oder Fachrichtern über Streitigkeiten von grundsätzlicher Bedeutung.
 
-<sup>4</sup> Die hauptamtlichen Richterinnen und Richter entscheiden als Einzelrichterin oder Einzelrichter,
+<sup>3a</sup> Die Fachrichterinnen und Fachrichter sind Sachverständige im Bereich des Steuerrechts, der Landwirtschaft oder des Bau- und Schätzungswesens.
 
-- a wenn ein Rekurs oder eine Beschwerde zurückgezogen oder gegenstandslos wird oder nicht darauf eingetreten werden kann,
-- b wenn die Steuer aufgrund unbestrittener zahlenmässiger Ausweise festzusetzen ist,
-- c wenn der streitige Steuerbetrag 10 000 Franken oder die bestrittene Busse 3000 Franken nicht übersteigt,
-- d wenn sich ein Rekurs oder eine Beschwerde einzig gegen die Kostenverlegung richtet,
-- e wenn ein Rekurs oder eine Beschwerde gegen einen Nichteintretensentscheid zu beurteilen ist.
+<sup>4</sup> Die hauptamtlichen Richterinnen und Richter entscheiden als Einzelrichterin oder Einzelrichter, wenn
+
+- a ein Rekurs oder eine Beschwerde zurückgezogen oder gegenstandslos wird oder nicht darauf eingetreten werden kann,
+- b die Steuer aufgrund unbestrittener zahlenmässiger Ausweise festzusetzen ist,
+- c der streitige Steuerbetrag 10'000 Franken oder die bestrittene Busse 3000 Franken nicht übersteigt,
+- d sich ein Rekurs oder eine Beschwerde einzig gegen die Kostenverlegung richtet,
+- e ein Rekurs oder eine Beschwerde gegen einen Nichteintretensentscheid zu beurteilen ist.
 
 <sup>5</sup> Die Einzelrichterin oder der Einzelrichter kann die Streitsache zur Beurteilung der Kammer überweisen, wenn die rechtlichen oder tatbeständlichen Verhältnisse es rechtfertigen.
 
@@ -1016,9 +1080,7 @@ beschliesst:
 
 #### Art. 73
 
-**Wählbarkeit**
-
-<sup>1</sup> Die Fachrichterinnen und Fachrichter müssen Sachverständige in den Bereichen des Steuerrechts, der Landwirtschaft oder des Bau- und Schätzwesens sein.
+**…**
 
 ### 9.5 Rekurskommission für Massnahmen gegenüber Fahrzeugführerinnen und Fahrzeugführern
 
@@ -1030,6 +1092,8 @@ beschliesst:
 
 <sup>2</sup> Sie setzt sich zusammen aus einer Präsidentin oder einem Präsidenten, einer Vizepräsidentin oder einem Vizepräsidenten sowie Fachrichterinnen und Fachrichtern.
 
+<sup>3</sup> Die Präsidentin oder der Präsident und die Vizepräsidentin oder der Vizepräsident üben ihre Funktion nebenamtlich aus.
+
 #### Art. 75
 
 **Spruchkörper**
@@ -1039,6 +1103,8 @@ beschliesst:
 <sup>1a</sup> Die Rekurskommission für Massnahmen gegenüber Fahrzeugführerinnen und Fahrzeugführern urteilt in Dreierbesetzung. Die Präsidentin, der Präsident, die Vizepräsidentin oder der Vizepräsident entscheidet als Einzelrichterin oder als Einzelrichter, wenn eine Beschwerde zurückgezogen oder gegenstandslos wird, die Beschwerde sich gegen Zwischenverfügungen oder -entscheide richtet oder nicht darauf eingetreten werden kann.
 
 <sup>2</sup> Die Kommission urteilt unter Beizug von zwei weiteren Fachrichterinnen oder Fachrichtern über Streitigkeiten von grundsätzlicher Bedeutung.
+
+<sup>3</sup> Die Fachrichterinnen und Fachrichter sind Sachverständige im Bereich des Rechts, der Medizin oder der Psychologie.
 
 ### 9.6 Enteignungsschätzungskommission
 
@@ -1052,6 +1118,8 @@ beschliesst:
 
 <sup>3</sup> Das Verwaltungsgericht kann im Bedarfsfall eine ausserordentliche Präsidentin oder einen ausserordentlichen Präsidenten ernennen.
 
+<sup>4</sup> Die Präsidentin oder der Präsident und die Vizepräsidentin oder der Vizepräsident üben ihre Funktion nebenamtlich aus.
+
 #### Art. 77
 
 **Spruchkörper**
@@ -1061,6 +1129,8 @@ beschliesst:
 <sup>1a</sup> Die Enteignungsschätzungskommission urteilt in Dreierbesetzung. Die Präsidentin, der Präsident, die Vizepräsidentin oder der Vizepräsident entscheidet als Einzelrichterin oder als Einzelrichter, wenn ein Gesuch, eine Klage oder eine Beschwerde zurückgezogen oder gegenstandslos wird oder nicht darauf eingetreten werden kann.
 
 <sup>2</sup> Bei der Zusammensetzung des Spruchkörpers ist den regionalen Interessen angemessen Rechnung zu tragen.
+
+<sup>3</sup> Die Fachrichterinnen und Fachrichter sind Sachverständige im Bereich des Bauwesens, der Forstwirtschaft, der Landwirtschaft oder in verwandten Bereichen.
 
 ### 9.7 Bodenverbesserungskommission
 
@@ -1074,6 +1144,8 @@ beschliesst:
 
 <sup>3</sup> Das Verwaltungsgericht kann im Bedarfsfall eine ausserordentliche Präsidentin oder einen ausserordentlichen Präsidenten ernennen.
 
+<sup>4</sup> Die Präsidentin oder der Präsident und die Vizepräsidentin oder der Vizepräsident üben ihre Funktion nebenamtlich aus.
+
 #### Art. 79
 
 **Spruchkörper**
@@ -1081,6 +1153,8 @@ beschliesst:
 <sup>1</sup> Der Spruchkörper setzt sich zusammen aus einer oder einem Vorsitzenden sowie zwei Fachrichterinnen oder Fachrichtern. Den Vorsitz führt die Präsidentin, der Präsident, die Vizepräsidentin oder der Vizepräsident.
 
 <sup>1a</sup> Die Bodenverbesserungskommission urteilt in Dreierbesetzung. Die Präsidentin, der Präsident, die Vizepräsidentin oder der Vizepräsident entscheidet als Einzelrichterin oder als Einzelrichter, wenn eine Einsprache oder eine Beschwerde zurückgezogen oder gegenstandslos wird oder nicht darauf eingetreten werden kann.
+
+<sup>2</sup> Die Fachrichterinnen und Fachrichter sind Sachverständige im Bereich der Landwirtschaft, der Forstwirtschaft oder der Kulturtechnik.
 
 ## 10 Regionale Gerichtsbehörden
 
@@ -1103,19 +1177,30 @@ beschliesst:
 
 #### Art. 81
 
-**Zusammensetzung, Vorsitz und Spruchkörper**
+**Sitz**
 
 <sup>1</sup> Für jede Gerichtsregion besteht ein Regionalgericht. Das Regionalgericht Berner Jura-Seeland hat eine Aussenstelle im Berner Jura.
 
 <sup>2</sup> Der Regierungsrat legt den Sitz des jeweiligen Regionalgerichts fest.
 
-<sup>3</sup> Das Regionalgericht setzt sich aus Gerichtspräsidentinnen und Gerichtspräsidenten, aus Fachrichterinnen und Fachrichtern sowie aus Laienrichterinnen und Laienrichtern zusammen.
+<sup>2a</sup> Die Zuteilung der einzelnen Stellen auf die Regionalgerichte erfolgt durch das Obergericht.
 
-<sup>4</sup> Mit Ausnahme der arbeitsrechtlichen Verfahren nach Artikel 9 EG ZSJ urteilt es in Zivilsachen als Einzelgericht. In Strafsachen urteilt es als Einzelgericht oder als Kollegialgericht.
+<sup>3–6</sup> …
 
-<sup>5</sup> Den Vorsitz führt eine Gerichtspräsidentin oder ein Gerichtspräsident.
+#### Art. 81a
 
-<sup>6</sup> In Strafsachen urteilt das Kollegialgericht in Dreier- oder Fünferbesetzung mit einer Gerichtspräsidentin oder einem Gerichtspräsidenten sowie zwei oder vier Laienrichterinnen und Laienrichtern.
+**Zusammensetzung und Spruchkörper**
+
+<sup>1</sup> Das Regionalgericht setzt sich zusammen aus Gerichtspräsidentinnen und Gerichtspräsidenten, Fachrichterinnen und Fachrichtern sowie Laienrichterinnen und Laienrichtern.
+
+<sup>2</sup> Den Vorsitz hat eine Gerichtspräsidentin oder ein Gerichtspräsident.
+
+<sup>3</sup> Das Regionalgericht urteilt mit Ausnahme der arbeitsrechtlichen Streitigkeiten nach Artikel 9 EG ZSJ
+
+- a in Zivilsachen als Einzelgericht,
+- b in Strafsachen als Einzelgericht oder als Kollegialgericht.
+
+<sup>4</sup> In Strafsachen urteilt das Kollegialgericht in Dreier- oder Fünferbesetzung mit einer Gerichtspräsidentin oder einem Gerichtspräsidenten sowie zwei oder vier Laienrichterinnen und Laienrichtern.
 
 #### Art. 82
 
@@ -1150,15 +1235,27 @@ beschliesst:
 
 #### Art. 84
 
-**Zusammensetzung, Vorsitz und Infrastruktur**
+**Allgemeines**
 
 <sup>1</sup> Für jede Gerichtsregion besteht eine Schlichtungsbehörde.
 
-<sup>2</sup> Die Schlichtungsbehörde setzt sich aus Vorsitzenden sowie aus Fachrichterinnen und Fachrichtern zusammen.
+<sup>2</sup> …
 
 <sup>3</sup> Sie kann die Infrastruktur des jeweiligen Regionalgerichts benützen.
 
 <sup>4</sup> Die Schlichtungsbehörde Berner Jura-Seeland verfügt über eine Aussenstelle im Berner Jura.
+
+#### Art. 84a
+
+**Zusammensetzung**
+
+<sup>1</sup> Die Schlichtungsbehörde setzt sich zusammen aus Vorsitzenden sowie aus Fachrichterinnen und Fachrichtern.
+
+<sup>2</sup> Die Vorsitzenden müssen über die nötige Schlichtungskompetenz verfügen.
+
+<sup>3</sup> Die Voraussetzungen für die Wahl der Fachrichterinnen und Fachrichter richten sich nach der ZPO.
+
+<sup>4</sup> Die Zuteilung der einzelnen Stellen auf die Schlichtungsbehörden erfolgt durch das Obergericht.
 
 #### Art. 85
 
@@ -1213,7 +1310,11 @@ beschliesst:
 - c leitenden Staatsanwältinnen und Staatsanwälten,
 - d Staatsanwältinnen und Staatsanwälten,
 - e der leitenden Jugendanwältin oder dem leitenden Jugendanwalt,
-- f Jugendanwältinnen und Jugendanwälten.
+- f Jugendanwältinnen und Jugendanwälten,
+- g Assistenzstaatsanwältinnen und Assistenzstaatsanwälten,
+- h Assistenzjugendanwältinnen und Assistenzjugendanwälten.
+
+<sup>1a</sup> Die Generalstaatsanwaltschaft teilt die Stellen den einzelnen Staatsanwaltschaften zu.
 
 <sup>2</sup> Die beiden Amtssprachen müssen angemessen vertreten sein.
 
@@ -1375,6 +1476,14 @@ beschliesst:
 **Inkrafttreten**
 
 <sup>1</sup> Der Regierungsrat bestimmt den Zeitpunkt des Inkrafttretens.
+
+## T1 Übergangsbestimmung der Änderung vom 02.09.2025
+
+#### Art. T1-1
+
+**Evaluation**
+
+<sup>1</sup> Der Regierungsrat erstattet dem Grossen Rat fünf Jahre nach Inkrafttreten von Artikel 45b Absatz 4 Buchstabe g Bericht über die Umsetzung und die Auswirkungen.
 
 Bern, 11. Juni 2009
 
