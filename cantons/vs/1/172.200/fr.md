@@ -4,13 +4,12 @@ number: "172.200"
 title: "Ordonnance sur le personnel de l'Etat du Valais"
 short: OcPers
 language: fr
-version: 2026-01-01
-valid_until: 2026-04-30
-version_adopted: 2025-11-19
+version: 2026-05-01
+version_adopted: 2026-06-17
 adopted: 2011-06-22
 in_force: 2011-07-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/172.200"
-pdf: "https://lex.vs.ch/api/fr/versions/3532/pdf_file"
+pdf: "https://lex.vs.ch/api/fr/versions/3616/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://lex.vs.ch/api/fr/versions/3532/pdf_file"
 
 (OcPers)
 
-du 22.06.2011 (état 01.01.2026)
+du 22.06.2011 (état 01.05.2026)
 
 Le Conseil d'Etat du canton du Valais
 
@@ -346,6 +345,12 @@ ordonne:
 - e) refus de suivre des formations obligatoires nécessaires à l’accomplissement de la fonction, ou
 - f) suppression ou modification de poste.
 
+#### Art. 24b
+
+**Suppression de fonction**
+
+<sup>1</sup> Le montant de l'indemnité est fixé par l'autorité d'engagement dans le cadre posé par la LcPers et selon le barème arrêté par le Conseil d'Etat.
+
 #### Art. 25
 
 **Résiliation immédiate pour justes motifs**
@@ -364,7 +369,7 @@ ordonne:
 
 **Conséquences d'une résiliation non fondée juridiquement**
 
-<sup>1</sup> Le montant de l’indemnité est fixé par l’autorité d’engagement dans le cadre posé par la LcPers.
+<sup>1</sup> Le montant de l’indemnité est fixé par l’autorité d’engagement dans le cadre posé par la LcPers et selon le barème arrêté par le Conseil d'Etat.
 
 #### Art. 28
 

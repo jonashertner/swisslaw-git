@@ -4,13 +4,12 @@ number: "172.200"
 title: Verordnung über das Personal des Staates Wallis
 short: kVPers
 language: de
-version: 2026-01-01
-valid_until: 2026-04-30
-version_adopted: 2025-11-19
+version: 2026-05-01
+version_adopted: 2026-06-17
 adopted: 2011-06-22
 in_force: 2011-07-01
 url: "https://lex.vs.ch/app/de/texts_of_law/172.200"
-pdf: "https://lex.vs.ch/api/de/versions/3532/pdf_file"
+pdf: "https://lex.vs.ch/api/de/versions/3616/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://lex.vs.ch/api/de/versions/3532/pdf_file"
 
 (kVPers)
 
-vom 22.06.2011 (Stand 01.01.2026)
+vom 22.06.2011 (Stand 01.05.2026)
 
 Der Staatsrat des Kantons Wallis
 
@@ -346,6 +345,12 @@ verordnet:
 - e) Weigerung, an obligatorischen Schulungen teilzunehmen, die für die Ausübung der Funktion erforderlich sind, oder
 - f) Aufhebung oder Änderung der Stelle.
 
+#### Art. 24b
+
+**Aufhebung der Funktion**
+
+<sup>1</sup> Die Höhe der Entschädigung wird von der Anstellungsbehörde im Rahmen des kGPers und gemäss der vom Staatsrat festgelegten Entschädigungstabelle festgesetzt.
+
 #### Art. 25
 
 **Fristlose Auflösung aus wichtigen Gründen**
@@ -362,9 +367,9 @@ verordnet:
 
 #### Art. 27
 
-**Konsequenzen einer juristisch unbegründeten Auflösung**
+**Konsequenzen einer rechtlich unbegründeten Auflösung**
 
-<sup>1</sup> Die Höhe der Entschädigung legt der Staatsrat im Rahmen des kGPers fest.
+<sup>1</sup> Die Höhe der Entschädigung wird von der Anstellungsbehörde im Rahmen des kGPers und gemäss der vom Staatsrat festgelegten Entschädigungstabelle festgesetzt.
 
 #### Art. 28
 
