@@ -4,13 +4,13 @@ number: "341.1"
 title: "Loi sur l'exécution judiciaire"
 short: LEJ
 language: fr
-version: 2022-01-01
-valid_until: 2026-04-30
-version_adopted: 2021-03-09
+version: 2026-05-01
+valid_until: 2026-08-31
+version_adopted: 2025-09-02
 adopted: 2018-01-23
 in_force: 2018-12-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/341.1"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2471/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3370/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2471/pdf_file"
 
 (LEJ)
 
-du 23.01.2018 (état au 01.01.2022)
+du 23.01.2018 (état au 01.05.2026)
 
 Le Grand Conseil du canton de Berne,
 
@@ -468,19 +468,11 @@ arrête:
 
 ## 6. Sécurité et ordre
 
-### 6.1 Détention pour des motifs de sécurité relevant du droit de l'exécution des peines et mesures
+### 6.1
 
 #### Art. 28
 
-<sup>1</sup> Avant ou pendant l'engagement d'une procédure de décision judiciaire ultérieure indépendante en vertu du CPP, l'autorité d'exécution peut placer une personne en détention pour des motifs de sécurité, si la protection de la collectivité ne peut être assurée par d'autres moyens.
-
-<sup>2</sup> Elle demande au tribunal des mesures de contrainte, au plus tard dans les 48 heures qui suivent le placement, de maintenir la personne en détention pour des motifs de sécurité.
-
-<sup>3</sup> Les dispositions du CPP s'appliquent à la procédure par analogie.
-
-<sup>4</sup> La détention pour des motifs de sécurité relevant de l'exécution des peines et mesures est exécutée selon les mêmes règles que les peines privatives de liberté et les mesures privatives de liberté de droit pénal.[^28-1]
-
-[^28-1]: Rectifié par la Commission de rédaction le 19 octobre 2018 en application de l’article 25 de la loi sur les publications officielles.
+**…**
 
 ### 6.2 Mesures de sûreté
 
@@ -784,6 +776,8 @@ arrête:
 <sup>1</sup> Les décisions et les décisions sur recours rendues par la Direction de la sécurité en matière d'exécution judiciaire peuvent être contestées devant la Cour suprême dans les 30 jours à compter de leur notification.
 
 <sup>2</sup> Les personnes menacées de devoir exécuter une peine privative de liberté ou une mesure de droit pénal prescrite peuvent recourir directement devant la Cour suprême dans un délai de 30 jours. La Cour suprême statue sur l'effet suspensif du recours.
+
+<sup>3</sup> Le Parquet général dispose des droits de partie dans les procédures de recours formées devant la Cour suprême.
 
 #### Art. 53
 

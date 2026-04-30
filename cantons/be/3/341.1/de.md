@@ -4,13 +4,13 @@ number: "341.1"
 title: Gesetz über den Justizvollzug
 short: "Justizvollzugsgesetz, JVG"
 language: de
-version: 2022-01-01
-valid_until: 2026-04-30
-version_adopted: 2021-03-09
+version: 2026-05-01
+valid_until: 2026-08-31
+version_adopted: 2025-09-02
 adopted: 2018-01-23
 in_force: 2018-12-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/341.1"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2471/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3370/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2471/pdf_file"
 
 (Justizvollzugsgesetz, JVG)
 
-vom 23.01.2018 (Stand 01.01.2022)
+vom 23.01.2018 (Stand 01.05.2026)
 
 Der Grosse Rat des Kantons Bern,
 
@@ -452,17 +452,11 @@ beschliesst:
 
 ## 6. Sicherheit und Ordnung
 
-### 6.1 Vollzugsrechtliche Sicherheitshaft
+### 6.1
 
 #### Art. 28
 
-<sup>1</sup> Die Vollzugsbehörde setzt eine Person vor oder mit der Einleitung eines Verfahrens auf Erlass eines selbstständigen nachträglichen richterlichen Entscheids nach der StPO in vollzugsrechtliche Sicherheitshaft, wenn der Schutz der Öffentlichkeit nicht anders gewährleistet werden kann.
-
-<sup>2</sup> Sie beantragt dem Zwangsmassnahmengericht spätestens innert 48 Stunden seit der Anordnung die Aufrechterhaltung der vollzugsrechtlichen Sicherheitshaft.
-
-<sup>3</sup> Für das Verfahren sind die Bestimmungen der StPO sinngemäss anwendbar.
-
-<sup>4</sup> Die vollzugsrechtliche Sicherheitshaft wird nach den Regeln des Vollzugs von Freiheitsstrafen und freiheitsentziehenden strafrechtlichen Massnahmen durchgeführt.
+**…**
 
 ### 6.2 Sicherheitsmassnahmen
 
@@ -764,6 +758,8 @@ beschliesst:
 <sup>1</sup> Gegen Verfügungen und Beschwerdeentscheide der Sicherheitsdirektion im Bereich des Justizvollzugs kann innert 30 Tagen seit der Eröffnung beim Obergericht Beschwerde geführt werden.
 
 <sup>2</sup> Betrifft eine Beschwerde den drohenden Vollzug einer verjährten Freiheitsstrafe oder strafrechtlichen Massnahme, kann die betroffene Person innert 30 Tagen direkt beim Obergericht Beschwerde führen. Das Obergericht entscheidet über die aufschiebende Wirkung der Beschwerde.
+
+<sup>3</sup> Die Generalstaatsanwaltschaft verfügt im Beschwerdeverfahren vor Obergericht über Parteirechte.
 
 #### Art. 53
 
