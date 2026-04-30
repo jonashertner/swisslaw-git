@@ -4,13 +4,12 @@ number: "108.111"
 title: Archivierungsverordnung
 short: ArchV
 language: de
-version: 2026-01-01
-valid_until: 2026-04-30
-version_adopted: 2025-09-17
+version: 2026-05-01
+version_adopted: 2026-03-18
 adopted: 2009-11-04
 in_force: 2010-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/108.111"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/3229/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3358/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/3229/pdf_file"
 
 (ArchV)
 
-vom 04.11.2009 (Stand 01.01.2026)
+vom 04.11.2009 (Stand 01.05.2026)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -42,7 +41,8 @@ beschliesst:
 - a die Organisation, Verwaltung und Aufbewahrung sowie die Archivierung von Unterlagen von Organen des Kantons, seiner Anstalten und seiner Körperschaften, soweit keine andere Regelung in einer Verordnung oder einem Reglement nach Artikel 10, 12 und 12a ArchG besteht,
 - b die Archivierung von Unterlagen von Privaten, soweit diese ihnen übertragene öffentlich-rechtliche Aufgaben erfüllen,
 - c die Aufgaben des Staatsarchivs,
-- d die Zugänglichkeit und die Benützung des Archivguts.
+- d die Zugänglichkeit und die Benützung des Archivguts,
+- e die Staatsbeiträge.
 
 <sup>2</sup> Die Direktion für Inneres und Justiz regelt durch Verordnung die Archivführung
 
@@ -383,13 +383,16 @@ beschliesst:
 
 <sup>1</sup> Das Staatsarchiv kann geeignete Massnahmen zur Gewährleistung der Sicherheit und Ordnung in seinen Räumlichkeiten sowie zur Durchsetzung des Benützungsreglements ergreifen, namentlich Personen wegweisen und Hausverbote aussprechen.
 
-## 5a Staatsbeiträge an die Gosteli-Stiftung
+## 5a Staatsbeiträge
 
 #### Art. 31a
 
 **Finanzhilfen**
 
-<sup>1</sup> Der Kanton kann der «Gosteli-Stiftung – Archiv zur Geschichte der schweizerischen Frauenbewegung» Finanzhilfen nach Artikel 25a Absätze 1 und 2 ArchG gewähren.
+<sup>1</sup> Der Kanton kann folgenden Forschungseinrichtungen von nationaler Bedeutung Finanzhilfen nach Artikel 25a Absätze 1 und 2 ArchG gewähren:
+
+- a Gosteli-Stiftung – Archiv zur Geschichte der schweizerischen Frauenbewegung,
+- b Archiv für Agrargeschichte (AfA).
 
 <sup>2</sup> Die Finanzhilfen werden in einem Leistungsvertrag in Form von jährlichen Betriebsbeiträgen vereinbart.
 
@@ -409,7 +412,7 @@ beschliesst:
 
 **Verfahren und Zuständigkeit**
 
-<sup>1</sup> Das Beitragsgesuch ist bis spätestens 13 Monate vor Beginn der Beitragsperiode beim Staatsarchiv einzureichen.
+<sup>1</sup> Das Beitragsgesuch ist in der Regel bis spätestens 13 Monate vor Beginn der Beitragsperiode beim Staatsarchiv einzureichen.
 
 <sup>2</sup> Es hat in der Regel folgende Angaben zu umfassen:
 

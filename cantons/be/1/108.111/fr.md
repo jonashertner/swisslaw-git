@@ -4,13 +4,12 @@ number: "108.111"
 title: "Ordonnance sur l'archivage *"
 short: OArch
 language: fr
-version: 2026-01-01
-valid_until: 2026-04-30
-version_adopted: 2025-09-17
+version: 2026-05-01
+version_adopted: 2026-03-18
 adopted: 2009-11-04
 in_force: 2010-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/108.111"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/3229/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3358/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/3229/pdf_file"
 
 (OArch)
 
-du 04.11.2009 (état au 01.01.2026)
+du 04.11.2009 (état au 01.05.2026)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -42,7 +41,8 @@ arrête:
 - a l'organisation, la gestion et la conservation ainsi que l'archivage des documents des organes du canton, de ses établissements et de ses collectivités, dans la mesure où il n'existe aucune autre réglementation dans une ordonnance ou un règlement en vertu des articles 10, 12 et 12a LArch,
 - b l'archivage des documents de personnes privées dans la mesure où elles accomplissent des tâches de droit public à elles confiées,
 - c les tâches des Archives de l’Etat,
-- d l'accès aux archives et leur communication.
+- d l'accès aux archives et leur communication,
+- e les subventions.
 
 <sup>2</sup> La Direction de l’intérieur et de la justice règle par voie d’ordonnance la gestion des archives
 
@@ -383,13 +383,16 @@ arrête:
 
 <sup>1</sup> Les Archives de l'Etat peuvent prendre des mesures appropriées pour garantir la sécurité et l'ordre dans leurs locaux ainsi que pour faire respecter le règlement d'utilisation, notamment renvoyer des personnes et prononcer des interdictions d'accès.
 
-## 5a Subventions à la Fondation Gosteli
+## 5a Subventions
 
 #### Art. 31a
 
 **Aides financières**
 
-<sup>1</sup> Le canton peut octroyer des aides financières au sens de l'article 25a, alinéas 1 et 2 LArch à la «Fondation Gosteli – Archives sur l'histoire du mouvement des femmes en Suisse».
+<sup>1</sup> Le canton peut octroyer des aides financières au sens de l'article 25a, alinéas 1 et 2 LArch aux établissements de recherche d'importance nationale suivants:
+
+- a Fondation Gosteli – Archives sur l'histoire du mouvement des femmes en Suisse,
+- b Archives de l'histoire rurale (AHR).
 
 <sup>2</sup> Les aides financières font l'objet d'un contrat de prestations et prennent la forme de subventions annuelles à l'exploitation.
 
@@ -409,7 +412,7 @@ arrête:
 
 **Procédure et compétence**
 
-<sup>1</sup> La demande de subvention doit être remise aux Archives de l'Etat jusqu'à 13 mois avant le début de la période de contribution.
+<sup>1</sup> La demande de subvention doit en règle générale être remise aux Archives de l'Etat jusqu'à 13 mois avant le début de la période de contribution.
 
 <sup>2</sup> Elle doit en règle générale comprendre les indications suivantes:
 
