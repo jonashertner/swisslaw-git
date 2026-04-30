@@ -3,11 +3,11 @@ sr: "453.1"
 title: Ordonnance du DFI du 4 septembre 2013 sur le contrôle de la circulation des espèces de faune et de flore protégées (Ordonnance sur les contrôles CITES)
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/602"
 language: fr
-version: 2024-11-26
+version: 2026-05-01
 adopted: 2013-09-04
 in_force: 2013-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/602/20241126/fr/xml/fedlex-data-admin-ch-eli-cc-2013-602-20241126-fr-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/602/20241126/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/602/20260501/fr/xml/fedlex-data-admin-ch-eli-cc-2013-602-20260501-fr-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/602/20260501/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/602/20241126/fr"
 
 (Ordonnance sur les contrôles CITES)
 
-du 4 septembre 2013 (État le 26 novembre 2024)
+du 4 septembre 2013 (État le 1<sup>er</sup> mai 2026)
 
 Le Département fédéral de l’intérieur (DFI),
 
@@ -24,8 +24,8 @@ vu les art. 2, 9, al. 2, 10, al. 3, 11, al. 2 et 3, et 26, al. 1, let. b, et 5, 
 
 arrête:
 
-[^ingress-1]: [RS 453](https://fedlex.data.admin.ch/eli/cc/2013/600)
-[^ingress-2]: [RS 453.0](https://fedlex.data.admin.ch/eli/cc/2013/601)
+[^ingress-1]: [RS 453](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7189)
+[^ingress-2]: [RS 453.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7190)
 [^ingress-3]: Nouvelle teneur selon le ch. I de l’O du DFI du 1<sup>er</sup> fév. 2022, en vigueur depuis le 1<sup>er</sup> mars 2022 ([RO 2022 130](https://fedlex.data.admin.ch/eli/oc/2022/130)).
 
 ## Section 1 Listes
@@ -56,7 +56,7 @@ Les spécimens à déclarer sont inscrits à l’annexe 1.
 
 <sup>2</sup> L’Office fédéral de la sécurité alimentaire et des affaires vétérinaires (OSAV) actualise l’annexe 3 conformément aux recommandations des organes de la Convention du 3 mars 1973 sur le commerce international des espèces de faune et de flore sauvages menacées d’extinction (CITES)[^3-1] où la Suisse est représentée.[^3-2]
 
-[^3-1]: [RS 0.453](https://fedlex.data.admin.ch/eli/cc/1975/1135_1136_1136)
+[^3-1]: [RS 0.453](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1851)
 [^3-2]: Introduit par le ch. I de l’O du DFI du 1<sup>er</sup> fév. 2022, en vigueur depuis le 1<sup>er</sup> mars 2022 ([RO 2022 130](https://fedlex.data.admin.ch/eli/oc/2022/130)).
 
 #### Art. 4
@@ -73,7 +73,7 @@ Les spécimens à déclarer sont inscrits à l’annexe 1.
 
 <sup>4</sup> Les spécimens d’espèces de flore inscrites aux annexes I à III CITES[^4-1] reproduits artificiellement qui ont été acquis en Suisse chez un fournisseur qui en fait le commerce à titre professionnel sont exclus du régime de preuve prévu à l’art. 10, al. 1, LCITES.
 
-[^4-1]: [RS 0.453](https://fedlex.data.admin.ch/eli/cc/1975/1135_1136_1136)
+[^4-1]: [RS 0.453](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1851)
 
 #### Art. 5
 
@@ -133,7 +133,7 @@ L’OSAV[^7-1] et, en accord avec l’OSAV, les autres organes de contrôle peuv
 <sup>4</sup> Les spécimens auxquels s’appliquent les exceptions visées aux art. 22, al. 1, et 23, al. 1, OCITES sont exemptés des contrôles prévus aux al. 1 et 2.
 
 [^7-1]: La désignation de l’unité administrative a été adaptée au 1er janv. 2014 en application de l’art. 16 al. 3 de l’O du 17 nov. 2004 sur les publications officielles ([RO 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)). Il a été tenu compte de cette mod. dans tout le text.
-[^7-2]: [RS 0.453](https://fedlex.data.admin.ch/eli/cc/1975/1135_1136_1136)
+[^7-2]: [RS 0.453](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1851)
 
 ## Section 3 Autorisations de longue durée
 
@@ -175,7 +175,7 @@ Les exceptions prévues à l’art. 22*a* OCITES sont applicables jusqu’à la 
 <sup>3</sup> Les quantités maximales visées à l’al. 2, let. a, d et g, ch. 1 et 2, ne peuvent être additionnées pour plusieurs personnes par produit.
 
 [^9-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 1<sup>er</sup> fév. 2022, en vigueur depuis le 1<sup>er</sup> mars 2022 ([RO 2022 130](https://fedlex.data.admin.ch/eli/oc/2022/130)).
-[^9-2]: [RS 0.453](https://fedlex.data.admin.ch/eli/cc/1975/1135_1136_1136)
+[^9-2]: [RS 0.453](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1851)
 
 #### Art. 10
 
@@ -191,7 +191,7 @@ L’autorisation visée à l’art. 7, al. 1, let. a, LCITES n’est pas requise
 - d. de spécimens vivants de plantes reproduites artificiellement d’espèces inscrites aux annexes I à III CITES;
 - e. de produits contenant des composants de plantes reproduites artificiellement d’espèces inscrites aux annexes I à III CITES et qui sont déjà emballés pour la vente au détail.
 
-[^10-1]: [RS 0.453](https://fedlex.data.admin.ch/eli/cc/1975/1135_1136_1136)
+[^10-1]: [RS 0.453](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1851)
 [^10-2]: Nouvelle teneur selon le ch. I de l’O du DFI du 1<sup>er</sup> fév. 2022, en vigueur depuis le 1<sup>er</sup> mars 2022 ([RO 2022 130](https://fedlex.data.admin.ch/eli/oc/2022/130)).
 
 ## Section 5 Système d’information
@@ -238,16 +238,16 @@ Annexe 1[^t-1]
 
 ## Liste des spécimens à déclarer
 
-[^t-1]: Nouvelle teneur selon le ch. I de l’O de l’OSAV du 23 oct. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024, à l’exception des entrées «*Thelenota* spp.» qui entrent en vigueur le 26 mai 2024, les entrées «*Dipteryx* spp.», «*Handroanthus* spp.», «*Roseodendron* spp.» et «*Tabebuia* spp.» le 26 nov. 2024 et les entrées «*Dipteryx panamensis*», qui ont effet jusqu’au 25 nov. 2024 ([RO 2023 627](https://fedlex.data.admin.ch/eli/oc/2023/627), [675](https://fedlex.data.admin.ch/eli/oc/2023/675)).
+[^t-1]: Nouvelle teneur selon le ch. I de l’O de l’OSAV du 31 mars 2026, en vigueur depuis le 1<sup>er</sup> mai. 2026, à l’exception des entrées «requin-hâ (*Galeorhinus galeus*)», «émissoles (*Mustelus* spp.)», «squales-chagrins (Centrophoridae spp.)» et «*Holothuria* [*Microthele*] *lessoni*», qui entrent en vigueur le 5 juin 2027 ([RO 2026 148](https://fedlex.data.admin.ch/eli/oc/2026/148)).
 
 ### 1 Animaux ainsi que parties et produits d’animaux
 
 <table>
 <tr><th>Numéro du tarif douanier</th><th>Désignation de la marchandise</th></tr>
-<tr><td>1.1 Animaux</td><td></td></tr>
+<tr><td colspan="2">1.1 Animaux</td></tr>
 <tr><td>ex 0101.3091</td><td>tous les ânes sauvages</td></tr>
 <tr><td>0106.1100</td><td>tous les primates</td></tr>
-<tr><td>ex 0106.1200</td><td>lamantins et dugongs (mammifères de l’ordre des siréniens); otaries, phoques, lions de mer et morses (mammifères du sous‑ordre des Pinnipedia); baleines, dauphins et marsouins (mammifères de l’ordre des Cetacea)</td></tr>
+<tr><td>ex 0106.1200</td><td>lamantins et dugongs (mammifères de l’ordre des Sirenia); otaries, phoques, lions de mer et morses (mammifères du sous‑ordre des Pinnipedia); baleines, dauphins et marsouins (mammifères de l’ordre des Cetacea)</td></tr>
 <tr><td>ex 0106.1300</td><td>guanaco (*Lama guanicoe*) et vigogne (*Vicugna vicugna*)</td></tr>
 <tr><td>ex 0106.1900</td><td>tous les autres mammifères non domestiqués, sauf les furets, tous les rongeurs non soumis à la CITES[^annex1-lvlu1-lvl1-1] (à l’exception des castors et des écureuils) et les chinchillas d’élevage</td></tr>
 <tr><td>0106.2000</td><td>tous les reptiles</td></tr>
@@ -255,18 +255,18 @@ Annexe 1[^t-1]
 <tr><td>ex 0106.3200</td><td>tous les psittaciformes (Psittaciformes), sauf les perruches ondulées (*Melopsittacus undulatus*), les perruches calopsittes (*Nymphicus hollandicus*), les perruches à face rose (*Agapornis roseicollis*) et les petites perruches Alexandre ou perruches à collier (*Psittacula krameri*)</td></tr>
 <tr><td>0106.3300</td><td>autruches et émeus (*Dromaius novaehollandiae*)</td></tr>
 <tr><td>ex 0106.3910–3990</td><td>tous les oiseaux sauvages, sauf les canaris</td></tr>
-<tr><td>ex 0106.4900</td><td>insectes inscrits aux annexes de la CITES (p. ex. papillons des genres *Ornithoptera*, *Trogonoptera*, *Troides* ou apollon [*Parnassius apollo*], *Achillides chikae hermeli, Achillides chikae chikae* et *Parides burchellanus*; scarabée rhinocéros [*Dynastes* *satanas*])</td></tr>
-<tr><td>ex 0106.9000</td><td>tous les amphibiens, sauf les grenouilles comestibles et les grenouilles Xenopus destinées à une utilisation scientifique; invertébrés inscrits aux annexes de la CITES (p. ex. certaines mygales, la sangsue [*Hirudo medicinalis*] et le scorpion empereur [*Pandinus imperator*])</td></tr>
-<tr><td>ex 0301.1100</td><td>barbe aveugle (*Caecobarbus geertsi*), pléco-zèbre (*Hypancistrus zebra*), scléropage (Osteoglossidae)</td></tr>
+<tr><td>ex 0106.4900</td><td>insectes inscrits aux annexes de la CITES (p. ex. papillons des genres *Ornithoptera*, *Trogonoptera*, *Troides* ou apollon [*Parnassius* *apollo*], *Achillides chikae hermeli, Achillides chikae chikae* et *Parides burchellanus*; scarabée rhinocéros [*Dynastes* *satanas*])</td></tr>
+<tr><td>ex 0106.9000</td><td>tous les amphibiens, sauf les grenouilles comestibles, qui ne sont pas soumises aux dispositions de la CITES et les grenouilles *Xenopus* destinées à une utilisation scientifique; invertébrés inscrits aux annexes de la CITES (p. ex. certaines mygales, la sangsue [*Hirudo medicinalis*] et le scorpion empereur [*Pandinus* *imperator*])</td></tr>
+<tr><td>ex 0301.1100</td><td>barbe aveugle (*Caecobarbus geertsi*), pléco-zèbre (*Hypancistrus zebra*), scléropages (Osteoglossidae)</td></tr>
 <tr><td>ex 0301.1900</td><td>demoiselle de Clarion (*Holacanthus clarionensis*), poisson Napoléon (*Cheilinus undulatus*)</td></tr>
 <tr><td>ex 0301.9200</td><td>anguille européenne (*Anguilla anguilla*)</td></tr>
 <tr><td>ex 0301.9920</td><td>toutes les espèces d’esturgeons (Acipenseriformes) ainsi que païche (*Arapaima gigas*) et raies d’eau douce (*Potamotrygon albimaculata, P. henlei, P. jabuti, P. leopoldi, P. marquesi, P. signata* et *P. wallacei*)</td></tr>
-<tr><td>ex 0301.9980</td><td>demoiselle de Clarion (*Holacanthus clarionensis*), grand requin blanc (*Carcharodon carcharias*), petit requin-taupe (*Isurus paucus*)*,* poisson Napoléon (*Cheilinus undulatus*), poissons-scies (Pristidae), raies guitares ou guitares de mer (Rhinidae spp., Rhinobatidae spp.), raies manta (*Manta* spp.), raies mobula (*Mobula* spp.), requin baleine (*Rhinocodon typus*), requins marteaux (Sphyrnidae spp.), requin pèlerin (*Cetorhinus maximus*), requins-renards (*Alopias* spp.), requins requiem (Carcharhinidae spp.), requin-taupe bleu (*Isurus* *oxyrinchus*), requin-taupe commun (*Lamna nasus*)</td></tr>
+<tr><td>ex 0301.9980</td><td>demoiselle de Clarion (*Holacanthus clarionensis*), grand requin blanc (*Carcharodon carcharias*), petit requin-taupe (*Isurus paucus*)*,* poisson Napoléon (*Cheilinus undulatus*), poissons-scies (Pristidae), raies guitares ou guitares de mer (Rhinidae spp., Rhinobatidae spp.), raies manta (*Manta* spp.), raies mobula (*Mobula* spp.), requin baleine (*Rhinocodon typus*), requins marteaux (Sphyrnidae spp.), requin pèlerin (*Cetorhinus maximus*), requins-renards (*Alopias* spp.), requins requiem (Carcharhinidae spp.), requin-taupe bleu (*Isurus* *oxyrinchus*), requin-taupe commun (*Lamna nasus*), requin-hâ (*Galeorhinus galeus*)[^annex1-lvlu1-lvl1-2], émissoles (*Mustelus* spp.)[^annex1-lvlu1-lvl1-3], squale-chagrin (Centrophoridae spp.)[^annex1-lvlu1-lvl1-4],</td></tr>
 <tr><td>ex 0307.7100</td><td>tridacnidés (Tridacnidae)</td></tr>
 <tr><td>ex 0307.8200</td><td>strombes géants (Queen conch, *Strombus gigas*)</td></tr>
-<tr><td>[tab] ex 0307.9100</td><td>Nautilidae</td></tr>
-<tr><td>[tab] ex 0308.1100</td><td>holothuries à mamelles (*Holothuria* [*Microthele*] *fuscogilva, Holothuria* [*Microthele*] *nobilis, Holothuria* [*Microthele*] *whitmaei*) et *Thelenota* spp.</td></tr>
-<tr><td>ex 0308.9000</td><td>coraux bleus, coraux durs, coraux noirs, coraux rouges (*Corallium* *elatius, C. japonicum, C. konjoi, C. secundum*) et autres espèces de coraux (entre autres *Scleractinia,* *Antipatharia**, Tubiporidae, Milleporidae, Stylasteridae*)</td></tr>
+<tr><td>ex 0307.9100</td><td>Nautilidae</td></tr>
+<tr><td>ex 0308.1100</td><td>holothuries à mamelles *Holothuria* [*Microthele*] *fuscogilva, Holothuria* [*Microthele*] *nobilis, Holothuria* [*Microthele*] *lessoni*[^annex1-lvlu1-lvl1-5]*, Holothuria* [*Microthele*] *whitmaei*) et *Thelenota* spp.</td></tr>
+<tr><td>ex 0308.9000</td><td>coraux bleus, coraux durs, coraux noirs, coraux rouges (*Corallium* *elatius, C. japonicum, C. konjoi, C. secundum*) et autres espèces de coraux (entre autres Scleractinia, Antipatharia, Tubiporidae, Milleporidae, Stylasteridae)</td></tr>
 <tr><td>ex 9508.1000</td><td>animaux sauvages vivants de cirques et de ménageries; animaux inscrits aux annexes CITES</td></tr>
 <tr><td colspan="2">1.2 Denrées alimentaires d’origine animale</td></tr>
 <tr><td>0208.3000; 0210.9100</td><td>viande de primates</td></tr>
@@ -275,37 +275,37 @@ Annexe 1[^t-1]
 <tr><td>ex 0208.6000</td><td>chair de guanaco (*Lama guanicoe*) et vigogne (*Vicugna vicugna*)</td></tr>
 <tr><td>ex 0208.9090; 0210.9990</td><td>viande d’espèces CITES</td></tr>
 <tr><td>ex 0302.7400; 0303.2600; 0304.3900; 0304.5100; 0304.6900; 0304.9300; 0305.3100; 0305.4400; 0305.5200; 0305.6400</td><td>chair d’anguille européenne (*Anguilla anguilla*)</td></tr>
-<tr><td>ex 0302.8100; 0303.8100; 0304.4700; 0304.5600; 0304.8800; 0304.9600</td><td>chair de: grand requin blanc (*Carcharodon carcharias*), petit requin-taupe (*Isurus paucus*)*,* requin baleine (*Rhinocodon typus*), requins marteaux (Sphyrnidae spp.), requin pèlerin (*Cetorhinus maximus*), requins-renards (*Alopias* spp.), requins requiem (Carcharhinidae spp.), requin-taupe bleu (*Isurus* *oxyrinchus*), requin-taupe commun (*Lamna nasus*)</td></tr>
+<tr><td>ex 0302.8100; 0303.8100; 0304.4700; 0304.5600; 0304.8800; 0304.9600</td><td>chair de: grand requin blanc (*Carcharodon carcharias*), petit requin-taupe (*Isurus paucus*)*,* requin baleine (*Rhinocodon typus*), requins marteaux (Sphyrnidae spp.), requin pèlerin (*Cetorhinus maximus*), requins-renards (*Alopias* spp.), requins requiem (Carcharhinidae spp.), requin-taupe bleu (*Isurus* *oxyrinchus*), requin-taupe commun (*Lamna nasus*), requin-hâ (*Galeorhinus galeus*)[^annex1-lvlu1-lvl1-6], émissoles (*Mustelus* spp.)[^annex1-lvlu1-lvl1-7], squales-chagrins (Centrophoridae spp.)[^annex1-lvlu1-lvl1-8],</td></tr>
 <tr><td>ex 0302.8200; 0303.8200; 0304.4800; 0304.5700; 0304.8800; 0304.9700</td><td>chair de: raies guitares ou guitares de mer (Rhinidae spp., Rhinobatidae spp.), raies manta (*Manta* spp.) et raies mobula (*Mobula* spp.)</td></tr>
 <tr><td>ex 0302.8920; 0303.8920; 0304.4920; 0304.5920; 0304.8920; 0305.3920; 0305.4920; 0305.5920; 0305.6920</td><td>chair de: toutes les espèces d’esturgeons (Acipenseriformes), païche (*Arapaima gigas*) et raies d’eau douce (*Potamotrygon albimaculata, P. henlei, P. jabuti, P. leopoldi, P. marquesi, P. signata* et *P. wallacei*)</td></tr>
 <tr><td>ex 0302.8980; 0303.8980; 0304.4980; 0304.5980; 0304.8980</td><td>chair de: demoiselle de Clarion (*Holacanthus clarionensis*), poisson Napoléon (*Cheilinus undulatus*) et poissons-scies (Pristidae)</td></tr>
-<tr><td>ex 0302.9200; 0303.9200; 0305.7100</td><td>ailerons de: grand requin blanc (*Carcharodon carcharias*), petit requin-taupe (*Isurus paucus*)*,* requin baleine (*Rhinocodon typus*), requins marteaux (Sphyrnidae spp.), requin pèlerin (*Cetorhinus maximus*), requins-renards (*Alopias* spp.), requins requiem (Carcharhinidae spp.), requin-taupe bleu (*Isurus* *oxyrinchus*), requin-taupe commun (*Lamna nasus*)</td></tr>
-<tr><td>[tab] ex. 0302.9900; 0303.9900; 0302.9100; 0303.9100</td><td>abats de poisson de: anguille européenne (*Anguilla anguilla*), demoiselle de Clarion (*Holacanthus clarionensis*), espèces d’esturgeons (Acipenseriformes), grand requin blanc (*Carcharodon* *carcharias*), païche (*Arapaima gigas*), petit requin-taupe (*Isurus paucus*)*,* poisson Napoléon (*Cheilinus undulatus*), poissons-scies (Pristidae), raies d’eau douce (*Potamotrygon* *albimaculata, P. henlei, P. jabuti, P. leopoldi, P. marquesi, P. signata* et *P. wallacei*), raies guitares ou guitares de mer (Rhinidae spp., Rhinobatidae spp.), raies manta (*Manta* spp.), raies mobula (*Mobula* spp.), requin baleine (*Rhinocodon typus*), requins marteaux (Sphyrnidae spp.), requin pèlerin (*Cetorhinus maximus*), requins-renards (*Alopias* spp.), requins requiem (Carcharhinidae spp.), requin-taupe bleu (*Isurus oxyrinchus*)*,* requin-taupe commun (*Lamna nasus*)</td></tr>
+<tr><td>ex 0302.9200; 0303.9200; 0305.7100</td><td>ailerons de: grand requin blanc (*Carcharodon carcharias*), petit requin-taupe (*Isurus paucus*)*,* requin baleine (*Rhinocodon typus*), requins marteaux (Sphyrnidae spp.), requin pèlerin (*Cetorhinus maximus*), requins-renards (*Alopias* spp.), requins requiem (Carcharhinidae spp.), requin-taupe bleu (*Isurus* *oxyrinchus*), requin-taupe commun (*Lamna nasus*), requin-hâ (*Galeorhinus galeus*)[^annex1-lvlu1-lvl1-9], émissoles (*Mustelus* spp.)[^annex1-lvlu1-lvl1-10], squales-chagrins (Centrophoridae spp.)[^annex1-lvlu1-lvl1-11],</td></tr>
+<tr><td>ex. 0302.9900; 0303.9900; 0302.9100; 0303.9100</td><td>abats de poisson de: anguille européenne (*Anguilla anguilla*), demoiselle de Clarion (*Holacanthus clarionensis*), espèces d’esturgeons (Acipenseriformes), grand requin blanc (*Carcharodon* *carcharias*), païche (*Arapaima gigas*), petit requin-taupe (*Isurus paucus*)*,* poisson Napoléon (*Cheilinus undulatus*), poissons-scies (Pristidae), raies d’eau douce (*Potamotrygon* *albimaculata, P. henlei, P. jabuti, P. leopoldi, P. marquesi, P. signata* et *P. wallacei*), raies guitares ou guitares de mer (Rhinidae spp., Rhinobatidae spp.), raies manta (*Manta* spp.), raies mobula (*Mobula* spp.), requin baleine (*Rhinocodon typus*), requins marteaux (Sphyrnidae spp.), requin pèlerin (*Cetorhinus maximus*), requins-renards (*Alopias* spp.), requins requiem (Carcharhinidae spp.), requin-taupe bleu (*Isurus oxyrinchus*)*,* requin-taupe commun (*Lamna nasus*), requin-hâ (*Galeorhinus galeus*)[^annex1-lvlu1-lvl1-12], émissoles (*Mustelus* spp.)[^annex1-lvlu1-lvl1-13], squales-chagrins (Centrophoridae spp.)[^annex1-lvlu1-lvl1-14],</td></tr>
 <tr><td>ex 0304.9970</td><td>abats de poisson de: demoiselle de Clarion (*Holacanthus* *clarionensis*), espèces d’esturgeons (Acipenseriformes), païche (*Arapaima gigas*), poisson Napoléon (*Cheilinus* *undulatus*), poissons-scies (Pristidae)</td></tr>
-<tr><td>ex 0305.3990; 0305.4990; 0305.5980; 0305.6990</td><td>chair de: demoiselle de Clarion (*Holacanthus clarionensis*), grand requin blanc (*Carcharodon carcharias*), petit requin-taupe (*Isurus paucus*)*,* poisson Napoléon (*Cheilinus undulatus*), poissons-scies (Pristidae), raies guitares ou guitares de mer (Rhinidae spp., Rhinobatidae spp.), raies manta (*Manta* spp.), raies mobula (*Mobula* spp.), requin baleine (*Rhinocodon typus*), requins marteaux (Sphyrnidae spp.), requin pèlerin (*Cetorhinus maximus*), requins-renards (*Alopias* spp.), requins requiem (Carcharhinidae spp.), requin-taupe bleu (*Isurus* *oxyrinchus*)*,* requin-taupe commun (*Lamna nasus*)</td></tr>
-<tr><td>ex 0305.7200; 0305.7900</td><td>têtes, queues, vessies natatoires et autres abats de poissons comestibles de: anguille d’Europe (*Anguilla anguilla*), demoiselle de Clarion (*Holacanthus clarionensis*), toutes les espèces d’esturgeons (Acipenseriformes), grand requin blanc (*Carcharodon* *carcharias*), païche (*Arapaima gigas),* petit requin-taupe (*Isurus paucus*), poisson Napoléon (*Cheilinus undulatus*), poissons-scies (Pristidae), raies d’eau douce (*Potamotrygon* *albimaculata, P. henlei, P. jabuti, P. leopoldi, P. marquesi, P. signata* et *P. wallacei*), raies guitares ou guitares de mer (Rhinidae spp., Rhinobatidae spp.), raies manta (*Manta* spp), raies mobula (*Mobula* spp.), requin baleine (*Rhinocodon typus*), requins marteaux (Sphyrnidae spp.), requin pèlerin (*Cetorhinus maximus*), requins-renards (*Alopias* spp.), requins-requiem (Carcharhinidae spp.), requin-taupe bleu (*Isurus oxyrinchus*), requin-taupe commun (*Lamna nasus*)</td></tr>
+<tr><td>ex 0305.3990; 0305.4990; 0305.5980; 0305.6990</td><td>chair de: demoiselle de Clarion (*Holacanthus clarionensis*), grand requin blanc (*Carcharodon carcharias*), petit requin-taupe (*Isurus paucus*)*,* poisson Napoléon (*Cheilinus undulatus*), poissons-scies (Pristidae), raies guitares ou guitares de mer (Rhinidae spp., Rhinobatidae spp.), raies manta (*Manta* spp.), raies mobula (*Mobula* spp.), requin baleine (*Rhinocodon typus*), requins marteaux (Sphyrnidae spp.), requin pèlerin (*Cetorhinus maximus*), requins-renards (*Alopias* spp.), requins requiem (Carcharhinidae spp.), requin-taupe bleu (*Isurus* *oxyrinchus*)*,* requin-taupe commun (*Lamna nasus*), requin-hâ (*Galeorhinus galeus*)[^annex1-lvlu1-lvl1-15], émissoles (*Mustelus* spp.)[^annex1-lvlu1-lvl1-16], squales-chagrins (Centrophoridae spp.)[^annex1-lvlu1-lvl1-17],</td></tr>
+<tr><td>ex 0305.7200; 0305.7900</td><td>têtes, queues, vessies natatoires et autres abats de poissons comestibles de: anguille d’Europe (*Anguilla anguilla*), demoiselle de Clarion (*Holacanthus clarionensis*), toutes les espèces d’esturgeons (Acipenseriformes), grand requin blanc (*Carcharodon* *carcharias*), païche (*Arapaima gigas),* petit requin-taupe (*Isurus paucus*), poisson Napoléon (*Cheilinus undulatus*), poissons-scies (Pristidae), raies d’eau douce (*Potamotrygon* *albimaculata, P. henlei, P. jabuti, P. leopoldi, P. marquesi, P. signata* et *P. wallacei*), raies guitares ou guitares de mer (Rhinidae spp., Rhinobatidae spp.), raies manta (*Manta* spp), raies mobula (*Mobula* spp.), requin baleine (*Rhinocodon typus*), requins marteaux (Sphyrnidae spp.), requin pèlerin (*Cetorhinus maximus*), requins-renards (*Alopias* spp.), requins-requiem (Carcharhinidae spp.), requin-taupe bleu (*Isurus oxyrinchus*), requin-taupe commun (*Lamna nasus*), requin-hâ (*Galeorhinus galeus*)[^annex1-lvlu1-lvl1-18], émissoles (*Mustelus* spp.)[^annex1-lvlu1-lvl1-19], squales-chagrins (Centrophoridae spp.)[^annex1-lvlu1-lvl1-20],</td></tr>
 <tr><td>ex 0307.7100; 0307.7200; 0307.7900</td><td>tridacnidés (Tridacnidae)</td></tr>
 <tr><td>ex 0307.8200; 0307.8400; 0307.8800</td><td>strombes géants (Queen conch, *Strombus gigas*)</td></tr>
 <tr><td>ex 0307.9100; 0307.9200; 0307.9900; 0309.9000</td><td>Nautilidae</td></tr>
-<tr><td>ex 0308.1100; 0308.1200; 0308.1900; 0309.9000</td><td>holothuries à mamelles (*Holothuria* [*Microthele*] *fuscogilva*, *Holothuria* [*Microthele*] *nobilis*, *Holothuria* [*Microthele*] *whitmaei*) et *Thelenota* spp.</td></tr>
+<tr><td>ex 0308.1100; 0308.1200; 0308.1900; 0309.9000</td><td>holothuries à mamelles (*Holothuria* [*Microthele*] *fuscogilva*, *Holothuria* [*Microthele*] *nobilis*, *Holothuria* [*Microthele*] *lessoni*[^annex1-lvlu1-lvl1-21], *Holothuria* [*Microthele*] *whitmaei*) et *Thelenota* spp.</td></tr>
 <tr><td>ex 0407.1990; 0407.2990; 0407.9090</td><td>œufs d’oiseaux sauvages</td></tr>
 <tr><td>ex 1602.9088</td><td>préparations et conserves de crocodiles (*Crocodylia* spp.)</td></tr>
 <tr><td>ex 1604.1700</td><td>préparations et conserves d’anguille européenne (*Anguilla anguilla*)</td></tr>
-<tr><td>ex 1604.1800</td><td>préparations et conserves d’ailerons de: grand requin blanc (*Carcharodon carcharias*), petit requin-taupe (*Isurus paucus*)*,* requin baleine (*Rhinocodon typus*), requins marteaux (Sphyrnidae spp.), requin pèlerin (*Cetorhinus maximus*), requins-renards (*Alopias* spp.), requins-requiem (Carcharhinidae spp.), requin-taupe bleu (*Isurus oxyrinchus*) et requin-taupe commun (*Lamna nasus*)</td></tr>
-<tr><td>ex 1604.3100</td><td>préparations et conserves de caviar de toutes les espèces d’esturgeons (Acipenseriformes)</td></tr>
+<tr><td>ex 1604.1800</td><td>préparations et conserves d’ailerons de: grand requin blanc (*Carcharodon carcharias*), petit requin-taupe (*Isurus paucus*)*,* requin baleine (*Rhinocodon typus*), requins marteaux (Sphyrnidae spp.), requin pèlerin (*Cetorhinus maximus*), requins-renards (*Alopias* spp.), requins-requiem (Carcharhinidae spp.), requin-taupe bleu (*Isurus oxyrinchus*) et requin-taupe commun (*Lamna nasus*) , requin-hâ (*Galeorhinus galeus*)[^annex1-lvlu1-lvl1-22], émissoles (*Mustelus* spp.)[^annex1-lvlu1-lvl1-23], squales-chagrins (Centrophoridae spp.)[^annex1-lvlu1-lvl1-24],</td></tr>
+<tr><td>ex 1604.3100</td><td>préparations et conserves de : caviar de toutes les espèces d’esturgeons (Acipenseriformes)</td></tr>
 <tr><td>ex 1605.5600</td><td>préparations et conserves de tridacnidés (Tridacnidae)</td></tr>
 <tr><td>ex 1605.5900</td><td>préparations et conserves de strombes géants (Queen conch, *Strombus gigas*), Nautilidae</td></tr>
 <tr><td>ex 1605.6100</td><td>préparations et conserves d’holothuries à mamelles</td></tr>
-<tr><td>ex 2104.1000</td><td>soupe d’ailerons de: grand requin blanc (*Carcharodon carcharias*), petit requin-taupe (*Isurus paucus*), requin baleine (*Rhinocodon* *typus*), requins marteaux (Sphyrnidae spp.), requin pèlerin (*Cetorhinus maximus*), requins-renards (*Alopias* spp.), requins-requiem (Carcharhinidae spp.), requin-taupe bleu (*Isurus oxyrinchus*) et requin-taupe commun (*Lamna* *nasus*)</td></tr>
+<tr><td>ex 2104.1000</td><td>soupe d’ailerons de: grand requin blanc (*Carcharodon carcharias*), petit requin-taupe (*Isurus paucus*), requin baleine (*Rhinocodon* *typus*), requins marteaux (Sphyrnidae spp.), requin pèlerin (*Cetorhinus maximus*), requins-renards (*Alopias* spp.), requins-requiem (Carcharhinidae spp.), requin-taupe bleu (*Isurus oxyrinchus*) et requin-taupe commun (*Lamna* *nasus*), requin-hâ (*Galeorhinus galeus*)[^annex1-lvlu1-lvl1-25], émissoles (*Mustelus* spp.)[^annex1-lvlu1-lvl1-26], squales-chagrins (Centrophoridae spp.)[^annex1-lvlu1-lvl1-27],</td></tr>
 <tr><td colspan="2">1.3 Autres produits d’origine animale</td></tr>
-<tr><td>ex 0505.9090</td><td>peaux et autres parties d’oiseaux, brutes, à l’exclusion de celles de volailles domestiques et d’autruches africaines d’élevage</td></tr>
-<tr><td>ex 0507.1000</td><td>ivoire d’espèces protégées, brut ou simplement préparé, y compris les poudres et les déchets</td></tr>
+<tr><td>ex 0505.9090</td><td>peaux et autres parties d’oiseaux d’espèces CITES, brutes, à l’exclusion de celles de volailles domestiques et d’autruches africaines d’élevage</td></tr>
+<tr><td>ex 0507.1000</td><td>ivoire d’espèces CITES, brut ou simplement préparé, y compris les poudres et les déchets</td></tr>
 <tr><td>ex 0507.9000</td><td>écaille de tortue, brute ou simplement préparée, y compris les déchets d’écailles; cornes, bois et becs d’espèces protégées</td></tr>
-<tr><td>ex 0508.0099</td><td>coraux bleus, coraux durs, coraux noirs, coraux rouges (*Corallium* *elatius, C. japonicum, C. konjoi, C. secundum*) et diverses autres espèces de coraux; Nautilidae</td></tr>
+<tr><td>ex 0508.0099</td><td>coraux bleus, coraux durs, coraux noirs, coraux rouges (*Corallium japonicum*, *Pleurocorallium* *elatius*, *P. konjoi*, *P. secundum*) et diverses autres coraux; Nautilidae</td></tr>
 <tr><td>ex 0510.0000</td><td>civette, musc, fiel d’ours, glande à venin des serpents à lunettes (*Naja naja*)</td></tr>
 <tr><td>ex 0511.9980</td><td>sangsues mortes, sperme d’animaux protégés (p. ex. sperme d’éléphant, sperme de rhinocéros)</td></tr>
 <tr><td>ex 1504.3010–3099</td><td>graisses et huiles de baleine</td></tr>
-<tr><td>ex 1521.9010–9020</td><td>blanc de baleine (spermaceti)</td></tr>
+<tr><td>ex 1521.9010–9020</td><td>blanc de baleine (Spermaceti)</td></tr>
 <tr><td>ex 3001.9000</td><td>venin de serpent (p. ex. de serpents à lunettes [*Naja naja*]) et échantillons de tissus d’espèces CITES</td></tr>
 <tr><td>ex 3002.1200; 3002.9000</td><td>sang et fractions de sang d’espèces CITES</td></tr>
 <tr><td>ex 3304.3000; 3304.9900</td><td>produits contenant de l’extrait de caviar de toutes les espèces d’esturgeons (Acipenseriformes)</td></tr>
@@ -324,15 +324,15 @@ Annexe 1[^t-1]
 <tr><td>ex 6403.1900–9900; 6405.1000; 6406.1000; 6504.0000; 6506.9900</td><td>chaussures et chapeaux en cuirs d’éléphants, d’hippopotames, de pécaris, d’oiseaux, de reptiles ou d’amphibiens d’espèces CITES ou en pelleteries d’animaux protégés</td></tr>
 <tr><td>ex 6602.0000</td><td>cannes, cannes-sièges, fouets ou articles similaires faits entièrement en ivoire ou en cuirs de reptiles d’espèces CITES ou en combinaison avec l’un de ces produits</td></tr>
 <tr><td>ex 6603.2000–9000</td><td>parties, garnitures et accessoires des articles du n<sup>o</sup> 6602, faits entièrement en ivoire ou en cuirs de reptiles d’espèces CITES ou en combinaison avec l’un de ces produits</td></tr>
-<tr><td>ex 6701.0000</td><td>peaux et autres parties d’oiseaux d’espèces CITES, à l’exclusion de celles de volailles domestiques et d’autruches africaines</td></tr>
+<tr><td>ex 6701.0000</td><td>peaux et autres parties d’oiseaux d’espèces CITES, à l’exclusion de celles d’autruches africaines d’élevage</td></tr>
 <tr><td>ex 7101.1000</td><td>perles de strombes géants (Queen conch, *Strombus gigas*)</td></tr>
-<tr><td>ex 7113; 7114.1100; 7114.1900; 7117</td><td>articles de bijouterie et de joaillerie ainsi que leurs parties en combinaison avec des coraux bleus, des coraux noirs, des coraux durs, des coraux rouges (*Corallium elatius,* *C. japonicum,* *C. konjoi, C. secundum*) et diverses autres espèces de coraux</td></tr>
-<tr><td>ex 8211; 8212.1000; 8214.1000; 8215</td><td>couverts et coutellerie en combinaison avec de l’ivoire, de la corne de rhinocéros ou de l’écaille de tortue</td></tr>
+<tr><td>ex 7113; 7114.1100; 7114.1900; 7117</td><td>articles de bijouterie et de joaillerie ainsi que leurs parties en combinaison avec des coraux bleus, des coraux noirs, des coraux durs, des coraux rouges (*Corallium japonicum*, *Pleurocorallium* *elatius*, *P. konjoi*, *P. secundum*) et diverses autres coraux</td></tr>
+<tr><td>ex 8211; 8212.1000; 8214.1000; 8215</td><td>couverts et coutellerie en combinaison avec de l’ivoire d’espèces CITES, de la corne de rhinocéros ou de l’écaille de tortue</td></tr>
 <tr><td>ex 9003.1900–9000</td><td>montures de lunettes ou d’articles similaires et leurs parties, en écaille de tortue ou en combinaison avec cette matière</td></tr>
 <tr><td>ex 9004</td><td>lunettes et articles similaires, en écaille de tortue ou en combinaison avec cette matière</td></tr>
-<tr><td>ex 9101; 9102; 9103; 9105</td><td>produits de l’horlogerie en combinaison avec de l’écaille de tortue, de l’ivoire, du cuir de reptiles</td></tr>
-<tr><td>ex 9113.1000; 9113.2000</td><td>bracelets de montre en combinaison avec des coraux bleus, des coraux noirs, des coraux durs, des coraux rouges (*Corallium* *elatius*, *C. japonicum, C. konjoi, C. secundum*) ou avec diverses autres espèces de coraux</td></tr>
-<tr><td>ex 9113.9000</td><td>bracelets de montre en combinaison avec du cuir d’éléphants, de pécaris, d’oiseaux, de reptiles ou d’amphibiens, ou avec des coraux bleus, des coraux durs, des coraux noirs, des coraux rouges (*Corallium elatius*, *C. japonicum, C. konjoi, C. secundum*) ou avec diverses autres espèces de coraux</td></tr>
+<tr><td>ex 9101; 9102; 9103; 9105</td><td>produits de l’horlogerie en combinaison avec de l’écaille de tortue, de l’ivoire d’espèces CITES, du cuir de reptiles d’espèces CITES</td></tr>
+<tr><td>ex 9113.1000; 9113.2000</td><td>bracelets de montre en combinaison avec des coraux bleus, des coraux noirs, des coraux durs, des coraux rouges (*Corallium japonicum*, *Pleurocorallium* *elatius*, *P. konjoi*, *P. secundum*) ou avec diverses autres coraux</td></tr>
+<tr><td>ex 9113.9000</td><td>bracelets de montre en combinaison avec du cuir d’éléphants, de pécaris, d’oiseaux, de reptiles ou d’amphibiens d’espèces CITES, ou avec des coraux bleus, des coraux durs, des coraux noirs, des coraux rouges (*Corallium japonicum*, *Pleurocorallium* *elatius*, *P. konjoi*, *P. secundum*) ou avec diverses autres coraux</td></tr>
 <tr><td>ex 9201.1000–9000</td><td>claviers en ivoire ou en combinaison avec de l’ivoire d’espèces CITES</td></tr>
 <tr><td>ex 9202.9000</td><td>corps acoustiques fabriqués à base de carapaces de tatous (armadillo) ou de tortues</td></tr>
 <tr><td>ex 9205.9000</td><td>claviers en ivoire ou en combinaison avec de l’ivoire d’espèces CITES</td></tr>
@@ -344,33 +344,59 @@ Annexe 1[^t-1]
 <tr><td>ex 9504.2000</td><td>billards et accessoires de billards en ivoire ou en combinaison avec de l’ivoire d’espèces CITES</td></tr>
 <tr><td>ex 9504.9000</td><td>tables de jeu et pièces en ivoire ou en combinaison avec de l’ivoire d’espèces CITES</td></tr>
 <tr><td>ex 9601.1000</td><td>ivoire d’espèces CITES, travaillé</td></tr>
-<tr><td>ex 9601.9000</td><td>Nautilidae, véritables os de baleine, écaille de tortue, coraux bleus, coraux durs, coraux noirs, coraux rouges (*Corallium elatius*, *C. japonicum, C. konjoi, C. secundum*) et diverses autres espèces de coraux, ainsi que des articles en ces matières; bois, cornes et becs montés d’espèces protégées</td></tr>
+<tr><td>ex 9601.9000</td><td>Nautilidae, véritables os de baleine, écaille de tortue, coraux bleus, coraux durs, coraux noirs, coraux rouges (*Corallium japonicum*, *Pleurocorallium* *elatius*, *P. konjoi*, *P. secundum*) et diverses autres coraux, ainsi que des articles en ces matières; bois, cornes et becs montés d’espèces protégées</td></tr>
 <tr><td>ex 9605.0000</td><td>étuis en cuir d’éléphants, d’hippopotames, de pécaris, d’oiseaux, de reptiles ou d’amphibiens ou en combinaison avec de tels cuirs d’espèces CITES</td></tr>
 <tr><td>ex 9606.2900–3000</td><td>boutons en ivoire d’espèces CITES ou en écaille de tortue</td></tr>
 <tr><td>ex 9608.1000; 9608.2000; 9608.3000; 9608.4000; 9608.5000; 9608.9100; 9608.9900</td><td>produits de papeterie en combinaison avec de l’ivoire, de l’écaille de tortue ou du cuir de reptiles ou en plumes d’oiseaux sauvages, tous d’espèces CITES</td></tr>
 <tr><td>ex 9611.0000</td><td>tampon dateur en combinaison avec de l’ivoire d’espèces CITES</td></tr>
-<tr><td>ex 9613.2000; 9613.8000</td><td>briquets et allumeurs en combinaison avec de l’ivoire</td></tr>
+<tr><td>ex 9613.2000; 9613.8000</td><td>briquets et allumeurs en combinaison avec de l’ivoire d’espèces CITES</td></tr>
 <tr><td>ex 9614.0000</td><td>pipes (incluant les têtes de pipes, les pointes de cigares et de cigarettes et leurs parties) en combinaison avec de l’ivoire d’espèces CITES</td></tr>
 <tr><td>ex 9615.1900</td><td>peignes, barrettes et produits similaires en écaille de tortue ou en combinaison avec de l’écaille de tortue</td></tr>
-<tr><td>ex 9701.2200; 9701.2900; 9701.9200; 9701.9900</td><td>collages en plumes d’oiseaux sauvages ou de parties d’espèces protégées en général</td></tr>
+<tr><td>ex 9701.2200; 9701.2900; 9701.9200; 9701.9900</td><td>collagène obtenu à partir de plumes d’oiseaux sauvages ou de parties d’espèces protégées</td></tr>
 <tr><td>ex 9703.1000; 9703.9000</td><td>sculptures en ivoire d’espèces CITES ou en os de baleine, ou en combinaison avec l’un de ces produits</td></tr>
 <tr><td>ex 9705</td><td>collections zoologiques ou spécimens de collections d’espèces CITES</td></tr>
 <tr><td>ex 9706</td><td>objets d’antiquité en combinaison avec des produits d’espèces CITES</td></tr>
 </table>
 
-[^annex1-lvlu1-lvl1-1]: [RS 0.453](https://fedlex.data.admin.ch/eli/cc/1975/1135_1136_1136)
+[^annex1-lvlu1-lvl1-1]: [RS 0.453](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1851)
+[^annex1-lvlu1-lvl1-2]: En vigueur le 5 juin 2027.
+[^annex1-lvlu1-lvl1-3]: En vigueur le 5 juin 2027.
+[^annex1-lvlu1-lvl1-4]: En vigueur le 5 juin 2027.
+[^annex1-lvlu1-lvl1-5]: En vigueur le 5 juin 2027.
+[^annex1-lvlu1-lvl1-6]: En vigueur le 5 juin 2027.
+[^annex1-lvlu1-lvl1-7]: En vigueur le 5 juin 2027.
+[^annex1-lvlu1-lvl1-8]: En vigueur le 5 juin 2027.
+[^annex1-lvlu1-lvl1-9]: En vigueur le 5 juin 2027.
+[^annex1-lvlu1-lvl1-10]: En vigueur le 5 juin 2027.
+[^annex1-lvlu1-lvl1-11]: En vigueur le 5 juin 2027.
+[^annex1-lvlu1-lvl1-12]: En vigueur le 5 juin 2027.
+[^annex1-lvlu1-lvl1-13]: En vigueur le 5 juin 2027.
+[^annex1-lvlu1-lvl1-14]: En vigueur le 5 juin 2027.
+[^annex1-lvlu1-lvl1-15]: En vigueur le 5 juin 2027.
+[^annex1-lvlu1-lvl1-16]: En vigueur le 5 juin 2027.
+[^annex1-lvlu1-lvl1-17]: En vigueur le 5 juin 2027.
+[^annex1-lvlu1-lvl1-18]: En vigueur le 5 juin 2027.
+[^annex1-lvlu1-lvl1-19]: En vigueur le 5 juin 2027.
+[^annex1-lvlu1-lvl1-20]: En vigueur le 5 juin 2027.
+[^annex1-lvlu1-lvl1-21]: En vigueur le 5 juin 2027.
+[^annex1-lvlu1-lvl1-22]: En vigueur le 5 juin 2027.
+[^annex1-lvlu1-lvl1-23]: En vigueur le 5 juin 2027.
+[^annex1-lvlu1-lvl1-24]: En vigueur le 5 juin 2027.
+[^annex1-lvlu1-lvl1-25]: En vigueur le 5 juin 2027.
+[^annex1-lvlu1-lvl1-26]: En vigueur le 5 juin 2027.
+[^annex1-lvlu1-lvl1-27]: En vigueur le 5 juin 2027.
 
 ### 2 Plantes et produits d’origine végétale
 
 <table>
 <tr><th>Numéro du tarif douanier</th><th>Désignation de la marchandise</th></tr>
 <tr><td colspan="2">2.1 Plantes vivantes et marchandises du commerce de fleurs</td></tr>
-<tr><td colspan="2">2.1.1 Bulbes, oignons, tubercules et racines d’espèces inscrites aux annexes I à III CITES:</td></tr>
+<tr><td colspan="2">2.1.1 Bulbes, oignons, tubercules et racines d’espèces inscrites aux annexes I à III CITES</td></tr>
 <tr><td>ex 0601.1090</td><td>en repos végétatif ou en végétation, sans substrat</td></tr>
 <tr><td>ex 0601.2020</td><td>en végétation ou en fleur, avec substrat ou en solution nutritive (sauf les tulipes et les racines de chicorée)</td></tr>
 <tr><td>ex 0601.2091</td><td>autres, en boutons ou en fleurs</td></tr>
 <tr><td>ex 0601.2099</td><td>autres</td></tr>
-<tr><td colspan="2">2.1.2 Autres plantes vivantes (arbustes, arbrisseaux, racines autres que sous 0601) d’espèces inscrites aux annexes I à III CITES:</td></tr>
+<tr><td colspan="2">2.1.2 Autres plantes vivantes (arbustes, arbrisseaux, racines autres que sous 0601) d’espèces inscrites aux annexes I à III CITES</td></tr>
 <tr><td>ex 0602.1000</td><td>boutures (non racinées) et greffons</td></tr>
 <tr><td>ex 0602.9019</td><td>autres</td></tr>
 <tr><td>ex 0602.9091</td><td>autres, à racines nues</td></tr>
@@ -388,24 +414,26 @@ Annexe 1[^t-1]
 <tr><td colspan="2">2.2.3 Graines oléagineuses</td></tr>
 <tr><td>ex 1207.9981–9989</td><td>graines de Baobab (*Adansonia grandidieri*)</td></tr>
 <tr><td colspan="2">2.2.4 Semences de plantes d’ornement protégées par la CITES</td></tr>
-<tr><td>ex 1209.9991–1209.9999</td><td>en particulier les espèces inscrites à l’annexe I CITES, notamment araucaria (*Araucaria araucana*), certaines cactacées (p. ex. *Ariocarpus* spp., *Sclerocactus* spp., *Turbinicarpus* spp., *Uebelmannia* spp.), certaines cycadacées (p. ex. *Encephalartos* spp., *Ceratozamia* spp., *Stangeria* spp.), certains palmiers (seulement *Dypsis decipiens*) espèces inscrites à l’annexe II CITES, telles que les palmiers (*Beccariophoenix madagascariensis, Dypsis decaryi*)</td></tr>
+<tr><td>ex 1209.9991–1209.9999</td><td>en particulier les espèces inscrites à l’annexe I CITES, notamment araucaria (*Araucaria araucana*) et cocotier du Chili (*Jubaea chilensis*), certaines cactacées (p. ex. *Ariocarpus* spp., *Sclerocactus* spp., *Turbinicarpus* spp., *Uebelmannia* spp.), certaines cycadacées (p. ex. *Encephalartos* spp., *Ceratozamia* spp., *Stangeria* spp.), certains palmiers (seulement *Dypsis decipiens*) espèces inscrites à l’annexe II CITES, telles que les palmiers (*Beccariophoenix madagascariensis, Dypsis decaryi*)</td></tr>
 <tr><td colspan="2">2.2.5 Autres produits végétaux</td></tr>
 <tr><td>ex 1404.9080</td><td>espèces inscrites à l’annexe III de la CITES, cocotiers de mer (*Lodoiceae maldivica*) originaires des Seychelles, noix</td></tr>
-<tr><td colspan="2">2.2.6 Huiles végétales</td></tr>
+<tr><td>ex 1702.9028</td><td>sève du cocotier du Chili (*Jubaea chilensis*) à l’état solide</td></tr>
+<tr><td>ex 1702.9031*;* 1702.9038</td><td>sève du cocotier du Chili (*Jubaea chilensis*) à l’état liquide</td></tr>
+<tr><td colspan="2">2.2.6. Huiles végétales</td></tr>
 <tr><td>ex 1515.9091, 9098, 9099</td><td>huile de graines de baobab (*Adansonia grandidieri*)</td></tr>
 <tr><td colspan="2">2.3 Plantes médicinales et plantes aromatiques</td></tr>
 <tr><td colspan="2">2.3.1 Racines et parties de plantes non travaillées utilisées en médecine</td></tr>
 <tr><td>ex 1211.2000</td><td>racines de ginseng, entières ou en parties reconnaissables, non transformées (ginseng d’Amérique [*Panax quinquefolius*] et ginseng asiatique [*Panax ginseng*] d’origine russe)</td></tr>
 <tr><td>ex 1211.6000</td><td>écorce du prunier d’Afrique ou pygeum (*Prunus africana*)</td></tr>
-<tr><td>ex 1211.9000</td><td>plantes et parties de plantes de: adonide de printemps (*Adonis vernalis*), agneau végétal (*Cibotium barometz*), aloès (*Aloe* spp. notamment aloé du Cap = *Aloe ferox* [sauf les produits finis emballés et prêts pour le commerce de détail]; ne concerne pas *Aloe vera* = *A. barbadensis*), bois d’agar ou bois d’aigle (*Aquilaria* spp. et *Gyrinops* spp.), cistanche des déserts (*Cistanche deserticola*), curcuma canadien (*Hydrastis* *canadensis*), dionée attrape-mouche (*Dionaea muscipula*), espèces d’ifs asiatiques et leurs sous-espèces et hybrides (*Taxus chinensis*, *T. cuspidata*, *T. fuana*, *T. x media*, *T. sumatrana*; ne concerne pas l’if de l’Himalaya [*Taxus wallichiana*] ni les espèces américaines et européennes [*Taxus baccata*, *T. brevifolia*, *T. canadensis*, *T. globosa*, *T. floridana*]), igname du Delta *(Discorea deltoidea*), gaïac ou lignum vitae ou palo santo ou guaïac ou guayacol (*Guaiacum* spp., *Bulnesia sarmientoi*), nardostachide d’Inde (*Nardostachys grandiflora*), orchidées (p. ex. *Bletilla striata*, *Dendrobium* spp., *Gastrodia elata,* sauf fruits de *Vanilla* spp.), orpins (*Rhodiola* spp.), perce-neige (*Galanthus* spp.), peyote (*Lophophora williamsii*), *Picorhiza kurroa*, podophylle (*Podophyllum hexandrum*), prunier d’Afrique ou pygeum (*Prunus africana*), racine de serpent (*Rauvolfia serpentina*), reine de la nuit (*Selenicereus* = *Cereus grandiflorus*), San Pedro (*Trichocereus* = *Echinopsis* pachanoi), santal est-africain (*Osyris lanceolata*), santal rouge ou padouk (*Pterocarpus santalinus*), saussuréa (*Saussurea costus*) à l’exclusion des plantes entières et des parties de plantes sauvages</td></tr>
-<tr><td>ex 1301.9080</td><td>résine d’aloès du Cap (*Aloe ferox* [sauf les produits finis emballés et prêts pour le commerce de détail], *Aloe* spp.; ne concerne pas *Aloe vera* = *A. barbadensis*), résine de gaïac (*Guaiacum* spp., *Bulnesia sarmientoi*)</td></tr>
-<tr><td colspan="2">2.3.2 Sucs et extraits végétaux</td></tr>
-<tr><td>ex 1302.1900</td><td>lignum vitae d’Argentine ou palo santo (*Bulnesia sarmientoi* [sauf les produits finis conditionnés et prêts pour la vente au détail]), prunier d’Afrique ou pygeum (*Prunus africana*), santal est-africain (*Osyris lanceolata*), extrait de gaïac (*Guajacum* spp.), extrait de santal rouge ou padouk (*Pterocarpus* *santalinus*), extrait de l’if, désigné aussi par les termes de taxol ou paclitaxel, d’espèces asiatiques et de leurs sous-espèces et hybrides (*Taxus chinensis*, *T. cuspidata*, *T. fuana*, *T. x media*; *T. sumatrana*; ne concerne pas l’if de l’Himalaya [*Taxus* *wallichiana*] ni les espèces américaines et européennes [*Taxus baccata*, *T. brevifolia*, *T. canadensis*, *T. globosa*, *T. floridana*]), extrait des orpins (*Rhodiola* spp. [sauf les produits finis conditionnés et prêts pour la vente au détail, suc d’aloès du Cap (*Aloe ferox* [sauf les produits finis emballés et prêts pour le commerce de détail], *Aloe* spp.; ne concerne pas *Aloe vera* = *A. barbadensis*)</td></tr>
+<tr><td>ex 1211.9000</td><td>plantes et parties de plantes de: adonide de printemps (*Adonis vernalis*), agneau végétal (*Cibotium barometz*), aloès (aloé du Cap = *Aloe ferox* [sauf les produits finis emballés et prêts pour la vente au détail]; *Aloe* spp., ne concerne pas *Aloe vera* = *A. barbadensis*), bois d’agar ou bois d’aigle (*Aquilaria* spp. et *Gyrinops* spp.), cistanche des déserts (*Cistanche deserticola*), curcuma canadien (*Hydrastis* *canadensis*), dionée attrape-mouche (*Dionaea muscipula*), espèces d’ifs asiatiques et leurs sous-espèces et hybrides (*Taxus chinensis*, *T. cuspidata*, *T. fuana*, *T. x media*, *T. sumatrana*; ne concerne pas l’if de l’Himalaya [*Taxus wallichiana*] ni les espèces américaines et européennes [*Taxus baccata*, *T. brevifolia*, *T. canadensis*, *T. globosa*, *T. floridana*]), igname du Delta *(Discorea deltoidea*), gaïac ou lignum vitae ou palo santo ou guaïac ou guayacol (*Guaiacum* spp., *Bulnesia sarmientoi*), nardostachide d’Inde (*Nardostachys jatamansi*), orchidées (p. ex. *Bletilla striata*, *Dendrobium* spp., *Gastrodia elata,* sauf fruits de *Vanilla* spp.), orpins (*Rhodiola* spp.), perce-neige (*Galanthus* spp.), peyote (*Lophophora williamsii*), *Picorhiza kurroa*, podophylle (*Podophyllum hexandrum*), prunier d’Afrique ou pygeum (*Prunus africana*), racine de serpent (*Rauvolfia serpentina*), reine de la nuit (*Selenicereus* = *Cereus grandiflorus*), San Pedro (*Trichocereus* = *Echinopsis* pachanoi), santal est-africain (*Osyris lanceolata*), santal rouge ou padouk (*Pterocarpus santalinus*), saussuréa (*Saussurea costus*) à l’exclusion des plantes entières et des parties de plantes sauvages</td></tr>
+<tr><td>ex 1301.9080</td><td>résine d’aloès (aloès du Cap = *Aloe ferox* [sauf les produits finis emballés et prêts pour la vente au détail] ; *Aloe* spp., ne concerne pas *Aloe vera* = *A. barbadensis*), résine de gaïac (*Guaiacum* spp., *Bulnesia* *sarmientoi*), résine de gugulon (*Copmmiphora wightii*)</td></tr>
+<tr><td colspan="2">2.3.2 Sèves et extraits végétaux</td></tr>
+<tr><td>ex 1302.1900</td><td>lignum vitae d’Argentine ou palo santo (*Bulnesia sarmientoi* [sauf les produits finis emballés et prêts pour la vente au détail]), prunier d’Afrique ou pygeum (*Prunus africana*), santal est-africain (*Osyris lanceolata*), extrait de gaïac (*Guajacum* spp.), sève du cocotier du Chili (*Jubaea chilensis*), extrait de gugulon (*Commiphora wightii*), extrait de santal rouge ou padouk (*Pterocarpus* *santalinus*), extrait de l’if, désigné aussi par les termes de taxol ou paclitaxel, d’espèces asiatiques et de leurs sous-espèces et hybrides (*Taxus chinensis*, *T. cuspidata*, *T. fuana*, *T. x media*; *T. sumatrana*; ne concerne pas l’if de l’Himalaya [*Taxus* *wallichiana*] ni les espèces américaines et européennes [*Taxus baccata*, *T. brevifolia*, *T. canadensis*, *T. globosa*, *T. floridana*]), extrait des orpins (*Rhodiola* spp. [sauf les produits finis emballés et prêts pour la vente au détail], suc d’aloès (aloès du Cap = *Aloe ferox* [sauf les produits finis emballés et prêts pour la vente au détail] ; *Aloe* spp., ne concerne pas *Aloe vera* = *A. barbadensis*)</td></tr>
 <tr><td colspan="2">2.3.3 Cire de candelilla</td></tr>
-<tr><td>ex 1521.1091; 1521.1092</td><td>*Euphorbia antisyphilitica* (sauf les produits emballés et prêts pour le commerce de détail)</td></tr>
+<tr><td>ex 1521.1091; 1521.1092</td><td>*Euphorbia antisyphilitica* (sauf les produits finis emballés et prêts pour la vente au détail)</td></tr>
 <tr><td colspan="2">2.3.4 Huiles essentielles et résinoïdes</td></tr>
 <tr><td>ex 3301.2900; 3302.1000–9000</td><td>huiles essentielles d’espèces CITES</td></tr>
-<tr><td>ex 3304.3000; 3304.9900; 3307.9000</td><td>produits de beauté ou préparations cosmétiques avec des extraits de plante (Orchidaceae [à l’exception des produits finis, emballés et prêts pour le commerce de détail de cosmétiques, contenant des parties et produits, issus de la reproduction artificielle, de *Bletilla striata*, *Cycnoches cooperi, Gastrodia elata, Phalaenopsis amabilis* ou *P. lobbii*])</td></tr>
+<tr><td>ex 3304.3000; 3304.9900; 3307.9000</td><td>produits de beauté ou préparations cosmétiques avec des extraits de plante (Orchidaceae [à l’exception des produits finis, emballés et prêts pour la vente au détail de cosmétiques, contenant des parties et produits issus de la reproduction artificielle, des espèces d’orchidées suivantes : *Bletilla striata*, *Cycnoches cooperi, Gastrodia elata, Phalaenopsis amabilis* ou *P. lobbii*])</td></tr>
 <tr><td colspan="2">2.4 Bois et articles en bois</td></tr>
 <tr><td colspan="2">2.4.1 Sciures, déchets de bois</td></tr>
 <tr><td>ex 4401.3100–4900</td><td>bois d’agar ou bois d’aigle (*Aquilaria* spp., *Gyrinops* spp.), gaïac ou lignum vitae ou palo santo (*Guaiacum* spp., *Bulnesia sarmientoi*), santal est-africain (*Osyris lanceolata*), santal rouge ou padouk (*Pterocarpus santalinus*)</td></tr>
@@ -417,7 +445,7 @@ Annexe 1[^t-1]
 <tr><td>ex 9201.1000; 9201.2000; 9201.9000</td><td>pianos, notamment avec bois de rose ou palissandre de Rio (*Dalbergia nigra*) et avec de l’acajou du Mexique ou du Honduras (*Swietenia humilis*)</td></tr>
 <tr><td>ex 9202.1000; 9202.9000</td><td>instruments à cordes, p. ex. guitares avec bois de rose ou palissandre de Rio (*Dalbergia nigra*)</td></tr>
 <tr><td>ex 9205.1000; 9205.9000</td><td>instruments à vent, tels que clarinettes avec bois de rose ou palissandre de Rio (*Dalbergia* nigra)</td></tr>
-<tr><td>ex 9206.0000</td><td>instruments de musique à percussion, p. ex. castagnettes, marimbas et xylophones, avec macacauba (*Platymiscium parviflorum*), bois de rose ou palissandre de Rio (*Dalbergia* *nigra*) et avec bois de cactées des forêts pluviales (*Trichocereus* = *Echinopsis* spp., *Eulychnia* spp.)</td></tr>
+<tr><td>ex 9206.0000</td><td>instruments de musique à percussion, p. ex. castagnettes, marimbas et xylophones, avec macacauba (*Platymiscium parviflorum*), bois de rose ou palissandre de Rio (*Dalbergia* *nigra*), bois de cactées des forêts pluviales (*Trichocereus* = *Echinopsis* spp., *Eulychnia* spp.)</td></tr>
 <tr><td>ex 9209.9200</td><td>perches présciées en bois de pernambouc ou pau-Brasil ou Brazilwood (*Paubrasilia echinata*) pour la fabrication d’archets pour instruments à cordes</td></tr>
 <tr><td colspan="2">2.4.5 Armes, parties et accessoires d’armes</td></tr>
 <tr><td>ex 9305.1000; 9305.2000</td><td>poignées de revolvers ou de pistolets, crosses et parties de fusils en bois de rose ou palissandre de Rio (*Dalbergia nigra*)</td></tr>
@@ -439,120 +467,120 @@ Annexe 1[^t-1]
 Le ch. 2.4.2 comprend les espèces suivantes:
 
 <table>
-<tr><th>Nom commercial</th><th colspan="2">Nom scientifique</th><th>Annexe CITES, populations concernées et exceptions\*</th></tr>
-<tr><td colspan="4">**Acajou, Mahagony**</td></tr>
-<tr><td>[tab] Acajou ou Mahagony Gateado, acajou du Honduras, acajou du Mexique</td><td colspan="2">*Swietenia humilis* *(= S. bijuga, S. cirrhata)*</td><td>II</td></tr>
-<tr><td>[tab] Acajou, acajou d’Amazonie, acajou d’Amérique</td><td colspan="2">*Swietenia macrophylla* *(= S. candollei, S. krukovii, S. belizensis, S. m.* var. *arabaensis)*</td><td>II Populations néotropicales (Amérique centrale et Amérique du Sud)</td></tr>
-<tr><td>[tab] Acajou, véritable acajou, acajou de Cuba, acajou des Antilles</td><td colspan="2">*Swietenia mahagoni* *(= Cedrela mahagoni,* *Cedrus* *mahogani, S. acutifolia, S. m.* var. *praecociflora)*</td><td>II</td></tr>
-<tr><td>[tab] Acajou d’Afrique, African Mahogany</td><td colspan="2">*Khaya* spp.</td><td>II Populations de l’Afrique</td></tr>
-<tr><td>[tab] Acajou d’Afrique, African Mahogany, doussié</td><td colspan="2">*Afzelia* spp.</td><td>II Populations de l’Afrique</td></tr>
-<tr><td>Acajou d’Amazonie: cf. acajou</td><td colspan="2"></td><td></td></tr>
-<tr><td>Acajou d’Amérique: cf. acajou</td><td colspan="2"></td><td></td></tr>
-<tr><td>Acajou des Antilles: cf. acajou</td><td colspan="2"></td><td></td></tr>
-<tr><td>Acajou de Cuba: cf. acajou</td><td colspan="2"></td><td></td></tr>
-<tr><td>Acajou du Honduras: cf. acajou</td><td colspan="2"></td><td></td></tr>
-<tr><td>Acajou du Mexique: cf. acajou</td><td colspan="2"></td><td></td></tr>
-<tr><td>Acajou Gateado: cf. acajou</td><td colspan="2"></td><td></td></tr>
-<tr><td colspan="4">African Mahogany: cf. afzelias, doussié, khaya</td></tr>
-<tr><td>African Teak: cf. afrormosia</td><td colspan="2"></td><td></td></tr>
-<tr><td>Afrormosia, afromosia, African Teak, teck d’Afrique, assamela</td><td colspan="2">*Pericopsis elata* *(= Afrormosia elata)*</td><td>II</td></tr>
-<tr><td>Afzelias, African Mahogany, doussié</td><td colspan="2">*Afzelia* spp.</td><td>II Populations de l’Afrique</td></tr>
-<tr><td>Alerce, bois d’alerce, cyprès de Patagonie</td><td colspan="2">*Fitzroya cupressoides*</td><td>I</td></tr>
-<tr><td>Araucaria, pin des Andes</td><td colspan="2">*Araucaria araucana* *(= A. imbricata, A. chilensis, A. dombeyi)*</td><td>I</td></tr>
-<tr><td colspan="4">Argentine Lignum Vitae: cf. gaïac</td></tr>
-<tr><td>Assamela: cf. afrormosia</td><td colspan="2"></td><td></td></tr>
-<tr><td>Ayuque</td><td colspan="2">*Balmea stormiae*</td><td>I</td></tr>
-<tr><td colspan="3">Black Rosewood: cf. palissandres</td><td></td></tr>
-<tr><td>**Bois de rose/rosewood/Rosenholz**</td><td colspan="2"></td><td></td></tr>
-<tr><td>[tab] Bois d’agar: cf. bois d’aigle</td><td colspan="2"></td><td></td></tr>
-<tr><td>Bois d’aigle, bois d’agar</td><td colspan="2">*Aquilaria* spp.</td><td>II</td></tr>
-<tr><td>Bois d’aigle, bois d’agar</td><td colspan="2">*Gyrinops* spp.</td><td>II</td></tr>
-<tr><td>Bois d’alerce: cf. alerce</td><td colspan="2"></td><td></td></tr>
-<tr><td>Bois de rose</td><td colspan="2">*Aniba rosaeodora*</td><td>II</td></tr>
-<tr><td colspan="4">Bois de rose du Brésil: cf. palissandres</td></tr>
-<tr><td colspan="2">Bois de rose du Honduras: cf. palissandres</td><td></td><td></td></tr>
-<tr><td colspan="2">Bois de vène: cf. palissandre du Sénégal</td><td></td><td></td></tr>
-<tr><td colspan="2">Brazil wood: cf. pernambouc</td><td></td><td></td></tr>
-<tr><td>Bubinga</td><td colspan="2">*Guibourtia demeusei*</td><td>II sauf les produits finis d’un poids maximum du bois de l’espèce inscrite de 10 kg par envoi; les instruments de musique finis, les parties finies et des accessoires d’instruments de musique finis</td></tr>
-<tr><td>Bubinga</td><td colspan="2">*Guibourtia pellegriniana*</td><td>II sauf les produits finis d’un poids maximum du bois de l’espèce inscrite de 10 kg par envoi; les instruments de musique finis, les parties finies et des accessoires d’instruments de musique finis</td></tr>
-<tr><td>Bubinga</td><td colspan="2">*Guibourtia tessmannii*</td><td>II sauf les produits finis d’un poids maximum du bois de l’espèce inscrite de 10 kg par envoi; les instruments de musique finis, les parties finies et des accessoires d’instruments de musique finis</td></tr>
-<tr><td colspan="4">Caoba africana: cf. acajou d’Afrique</td></tr>
-<tr><td>Caryocar du Costa Rica, piquia</td><td colspan="2">*Caryocar costaricense*</td><td>II</td></tr>
-<tr><td>Cèdre des Andes: cf. cedro</td><td colspan="2"></td><td></td></tr>
-<tr><td>Cèdre des Antilles: cf. cedro</td><td colspan="2"></td><td></td></tr>
-<tr><td colspan="4">Cèdre des Indes occidentales: cf. cedro</td></tr>
-<tr><td>Cèdre du Chili</td><td colspan="2">*Pilgerodendron uviferum*</td><td>I</td></tr>
-<tr><td>Cedrela: cf. cedro</td><td colspan="2"></td><td></td></tr>
-<tr><td>Cédrèle odorant: cf. cedro, cèdres</td><td colspan="2"></td><td></td></tr>
-<tr><td>**Cedro**</td><td colspan="2"></td><td></td></tr>
-<tr><td>Cèdres, Cedrela, Cedro [tab] inclus les noms commerciaux suivants: cèdre des Andes, cèdre des Antilles, cèdre des Indes occidentales, cédrèle odorant, cèdre du Mexique</td><td colspan="2">*Cedrela* spp.</td><td>II Populations néotropicales (Amérique centrale et Amérique du Sud)</td></tr>
-<tr><td>[tab] Chêne de Mongolie</td><td colspan="2">*Quercus mongolica*</td><td>III Population de Russie</td></tr>
-<tr><td>Cocobolo: cf. palissandres</td><td colspan="2"></td><td></td></tr>
-<tr><td>Cumaru</td><td colspan="2">*Dipteryx* spp.</td><td>II</td></tr>
-<tr><td>Cyprès de Mulange</td><td colspan="2">*Widdringtonia whytei*</td><td>II</td></tr>
-<tr><td>Doussié: cf. afzelias</td><td colspan="2"></td><td></td></tr>
-<tr><td>Ébène</td><td colspan="2">*Diospyros* spp.</td><td>II Population de Madagascar</td></tr>
-<tr><td>Ébène verte, ipé</td><td colspan="2">*Handroanthus* spp.</td><td>II</td></tr>
-<tr><td></td><td colspan="2">*Roseodendron* spp.</td><td>II</td></tr>
-<tr><td></td><td colspan="2">*Tabebuia* spp.</td><td>II</td></tr>
-<tr><td>Frêne de Mandchourie</td><td colspan="2">*Fraxinus mandshurica*</td><td>III Population de Russie</td></tr>
-<tr><td>Gaïac, bois de vie d’Argentine, Lignum Vitae, palo santo, Pockholz</td><td colspan="2">*Guaiacum* spp.</td><td>II</td></tr>
-<tr><td>Gaïacol, palo santo, Lignum Vitae du Paraguay</td><td colspan="2">*Bulnesia sarmientoi*</td><td>II</td></tr>
-<tr><td>Gavilan</td><td colspan="2">*Oreomunnea pterocarpa* (= *Engelhardia pterocarpa*)</td><td>II</td></tr>
-<tr><td>Honduras-Mahagoni: cf. acajou</td><td colspan="2"></td><td></td></tr>
-<tr><td>**Ifs**</td><td colspan="2"></td><td></td></tr>
-<tr><td>[tab] If chinois</td><td colspan="2">*Taxus chinensis* y c. toutes les sous-espèces</td><td>II</td></tr>
-<tr><td>[tab] If Fu</td><td colspan="2">*Taxus fuana* y c. toutes les sous-espèces</td><td>II</td></tr>
-<tr><td>[tab] If japonais</td><td colspan="2">*Taxus cuspidata* y c. toutes les sous-espèces, en particulier *Taxus x media*</td><td>II</td></tr>
-<tr><td>[tab] If de Sumatra</td><td colspan="2">*Taxus sumatrana* y c. toutes les sous-espèces</td><td>II</td></tr>
-<tr><td>[tab] If de Sumatra: cf. ifs</td><td colspan="2"></td><td></td></tr>
-<tr><td>If japonais: cf. ifs</td><td colspan="2"></td><td></td></tr>
-<tr><td>Jacaranda: cf. palissandres</td><td colspan="2"></td><td></td></tr>
-<tr><td colspan="4">Kosso: cf. palissandre du Sénégal, padouk</td></tr>
-<tr><td>Lignum Vitae: cf. gaïac</td><td colspan="2"></td><td></td></tr>
-<tr><td>Macacauba</td><td colspan="2">*Platymiscium* *parviflorum*</td><td>II</td></tr>
-<tr><td>Magnolia taungme</td><td colspan="2">*Magnolia liliifera* var. *obovata* (= *Talauma hodgsonii*, *M. hodgsonii,* *M. candolii* var. *obovata*)</td><td>III Population du Népal</td></tr>
-<tr><td>Mahagony: cf. acajou</td><td colspan="2"></td><td></td></tr>
-<tr><td colspan="4">Mukula: cf. padouk d’Afrique, padouk</td></tr>
-<tr><td colspan="4">Nicaragua Rosewood: cf. palissandres</td></tr>
-<tr><td>Padouk [tab] Inclus les noms commerciaux suivantes: bois corail, hérissé, kino de Gambie, kosso, mukula, mukwa, padauk d’Afrique, padouk d’Afrique, padouk blanc, palissandre du Sénégal, santal rouge d’Afrique, vène, ven Padouk: cf. padouk d’Afrique ou santal rouge</td><td colspan="2">*Pterocarpus* spp.</td><td>II Populations de l’Afrique</td></tr>
-<tr><td>**Palissandres**</td><td colspan="2"></td><td></td></tr>
-<tr><td>[tab] Palissandre [tab] Inclus les noms commerciaux suivants: bois de rose du Brésil, bois de rose du Honduras, cocobolo, Honduras Rosewood, jacaranda, Nicaraguan Rosewood, palissandre du Honduras, Panama‑Rosewood</td><td colspan="2">*Dalbergia spp.*</td><td>II sauf les produits finis d’un poids maximum du bois de l’espèce inscrite de 10 kg par envoi; les instruments de musique finis, les parties finies et des accessoires d’instruments de musique finis; ces exceptions ne s’appliquent pas à *Dalbergia nigra*, *Dalbergia* *cochinchinensis* ni aux importations directes de *Dalbergia* spp. en provenance du Mexique</td></tr>
-<tr><td>[tab] Palissandre de Rio, bois de rose brésilien, jacaranda</td><td colspan="2">*Dalbergia nigra*</td><td>I</td></tr>
-<tr><td>[tab] Palissandre de Thaïlande</td><td colspan="2">*Dalbergia cochinchinensis*</td><td>II</td></tr>
-<tr><td></td><td colspan="2">*Dalbergia* *calderonii*</td><td>II Population du Mexique</td></tr>
-<tr><td></td><td colspan="2">*Dalbergia calycina*</td><td>II Population du Mexique</td></tr>
-<tr><td></td><td colspan="2">*Dalbergia congestiflora*</td><td>II Population du Mexique</td></tr>
-<tr><td></td><td colspan="2">*Dalbergia cubilquitzensis*</td><td>II Population du Mexique</td></tr>
-<tr><td></td><td colspan="2">*Dalbergia glomerata*</td><td>II Population du Mexique</td></tr>
-<tr><td></td><td colspan="2">*Dalbergia longepedunculata*</td><td>II Population du Mexique</td></tr>
-<tr><td></td><td colspan="2">*Dalbergia luteola*</td><td>II Population du Mexique</td></tr>
-<tr><td></td><td colspan="2">*Dalbergia melanocardium*</td><td>II Population du Mexique</td></tr>
-<tr><td></td><td colspan="2">*Dalbergia modesta*</td><td>II Population du Mexique</td></tr>
-<tr><td></td><td colspan="2">*Dalbergia palo-escrito*</td><td>II Population du Mexique</td></tr>
-<tr><td></td><td colspan="2">*Dalbergia rhachiflexa*</td><td>II Population du Mexique</td></tr>
-<tr><td></td><td colspan="2">*Dalbergia ruddae*</td><td>II Population du Mexique</td></tr>
-<tr><td></td><td colspan="2">*Dalberiga tucurensis*</td><td>II Population du Mexique</td></tr>
-<tr><td>Palissandre du Sénégal</td><td colspan="2">*Pterocarpus erinaceus*</td><td>II</td></tr>
-<tr><td colspan="4">Palissandre du Honduras: cf. palissandres</td></tr>
-<tr><td>Palo santo: cf. gaïac ou gaïacol</td><td colspan="2"></td><td></td></tr>
-<tr><td>Panama-Rosewood: cf. palissandre</td><td colspan="2"></td><td></td></tr>
-<tr><td>Paraguay Lignum Vitae: cf. gaïacol</td><td colspan="2"></td><td></td></tr>
-<tr><td>Pau-Brasil: cf. pernambouc</td><td colspan="2"></td><td></td></tr>
-<tr><td>Pernambouc, Brazil wood, fernambouc, pau-brazil</td><td colspan="2">*Paubrasilia echinata*</td><td>II</td></tr>
-<tr><td>Pin de Corée</td><td colspan="2">*Pinus koraiensis*</td><td>III Population de Russie</td></tr>
-<tr><td>Pin du Népal</td><td colspan="2">*Podocarpus neriifolius* (= *P. polyantha,* *P. decipiens*)</td><td>III Population du Népal</td></tr>
-<tr><td>Pin parlatore, pino del Cerro</td><td colspan="2">*Podocarpus parlatorei* (= *P. angustifolia*)</td><td>I</td></tr>
-<tr><td>Piquia</td><td colspan="2">*Caryocar costaricense*</td><td>II</td></tr>
-<tr><td>Prunier africain ou pygeum</td><td colspan="2">*Prunus africana (= Pygeum africanum)*</td><td>II</td></tr>
-<tr><td>Pygeum: cf. prunier africain</td><td colspan="2"></td><td></td></tr>
-<tr><td>Ramin</td><td colspan="2">*Gonystylus* spp.</td><td>II</td></tr>
-<tr><td>Santal rouge, padouk</td><td colspan="2">*Pterocarpus santalinus*</td><td>II</td></tr>
-<tr><td>Santal de l’est-africain</td><td colspan="2">*Osyris lanceolata*</td><td>II Populations du Burundi, d’Éthiopie, du Kenya, du Rwanda et de Tanzanie</td></tr>
-<tr><td>Sapin du Guatemala</td><td colspan="2">*Abies guatemalensis*</td><td>I</td></tr>
-<tr><td colspan="4">Teck d’Afrique, African teak: cf. afrormosia</td></tr>
-<tr><td>Tetracentron sinense</td><td colspan="2">*Tetracentron sinense*</td><td>III Population du Népal</td></tr>
-<tr><td colspan="4">\* Les quantités indiquées se rapportent au poids du bois protégé.</td></tr>
+<tr><th>Nom commercial</th><th>Nom scientifique</th><th>Annexe CITES, populations concernées et exceptions\*</th></tr>
+<tr><td>Acajou, Mahagony</td><td></td><td></td></tr>
+<tr><td>Acajou ou Mahagony Gateado, acajou du Honduras, acajou du Mexique</td><td>Swietenia humilis (= S. bijuga, S. cirrhata)</td><td>II</td></tr>
+<tr><td>Acajou, acajou d’Amazonie, acajou d’Amérique</td><td>Swietenia macrophylla (= S. candollei, S. krukovii, S. belizensis, S. m. var. arabaensis)</td><td>II Populations néotropicales (Amérique centrale et Amérique du Sud)</td></tr>
+<tr><td>Acajou, véritable acajou, acajou de Cuba, acajou des Antilles</td><td>Swietenia mahagoni (= Cedrela mahagoni, Cedrus mahogani, S. acutifolia, S. m. var. praecociflora)</td><td>II</td></tr>
+<tr><td>Acajou d’Afrique, African Mahogany</td><td>Khaya spp.</td><td>II Populations de l’Afrique</td></tr>
+<tr><td>Acajou d’Afrique, African Mahogany, doussié</td><td>Afzelia spp.</td><td>II Populations de l’Afrique</td></tr>
+<tr><td colspan="3">Acajou d’Amazonie: cf. acajou</td></tr>
+<tr><td colspan="3">Acajou d’Amérique: cf. acajou</td></tr>
+<tr><td colspan="3">Acajou des Antilles: cf. acajou</td></tr>
+<tr><td colspan="3">Acajou de Cuba: cf. acajou</td></tr>
+<tr><td colspan="3">Acajou du Honduras: cf. acajou</td></tr>
+<tr><td colspan="3">Acajou du Mexique: cf. acajou</td></tr>
+<tr><td colspan="3">Acajou Gateado: cf. acajou</td></tr>
+<tr><td colspan="3">African Mahogany: cf. afzelias, doussié, khaya</td></tr>
+<tr><td colspan="3">African Teak: cf. afrormosia</td></tr>
+<tr><td>Afrormosia, , African Teak, teck d’Afrique, assamela</td><td>Pericopsis elata (= Afrormosia elata)</td><td>II</td></tr>
+<tr><td>Afzelias, African Mahogany, doussié</td><td>Afzelia spp.</td><td>II Populations de l’Afrique</td></tr>
+<tr><td>Alerce, bois d’alerce, cyprès de Patagonie</td><td>Fitzroya cupressoides</td><td>I</td></tr>
+<tr><td>Araucaria, pin des Andes</td><td>Araucaria araucana (= A. imbricata, A. chilensis, A. dombeyi)</td><td>I</td></tr>
+<tr><td colspan="3">Argentine Lignum Vitae: cf. gaïac</td></tr>
+<tr><td colspan="3">Assamela: cf. afrormosia</td></tr>
+<tr><td>Ayuque</td><td>Balmea stormiae</td><td>I</td></tr>
+<tr><td colspan="3">Black Rosewood: cf. palissandres</td></tr>
+<tr><td colspan="3">Bois de rose / rosewood / Rosenholz</td></tr>
+<tr><td colspan="3">Bois d’agar: cf. bois d’aigle</td></tr>
+<tr><td>Bois d’aigle, bois d’agar</td><td>Aquilaria spp.</td><td>II</td></tr>
+<tr><td>Bois d’aigle, bois d’agar</td><td>Gyrinops spp.</td><td>II</td></tr>
+<tr><td colspan="3">Bois d’alerce: cf. alerce</td></tr>
+<tr><td>Bois de rose</td><td>Aniba rosaeodora</td><td>II</td></tr>
+<tr><td colspan="3">Bois de rose du Brésil: cf. palissandres</td></tr>
+<tr><td colspan="3">Bois de rose du Honduras: cf. palissandres</td></tr>
+<tr><td colspan="3">Bois de vène: cf. palissandre du Sénégal</td></tr>
+<tr><td colspan="3">Brazil wood: cf. pernambouc</td></tr>
+<tr><td>Bubinga</td><td>Guibourtia demeusei</td><td>II sauf les produits finis d’un poids maximum du bois de l’espèce inscrite de 10 kg par envoi; les instruments de musique finis, les parties finies et des accessoires d’instruments de musique finis</td></tr>
+<tr><td>Bubinga</td><td>Guibourtia pellegriniana</td><td>II sauf les produits finis d’un poids maximum du bois de l’espèce inscrite de 10 kg par envoi; les instruments de musique finis, les parties finies et des accessoires d’instruments de musique finis</td></tr>
+<tr><td>Bubinga</td><td>Guibourtia tessmannii</td><td>II sauf les produits finis d’un poids maximum du bois de l’espèce inscrite de 10 kg par envoi; les instruments de musique finis, les parties finies et des accessoires d’instruments de musique finis</td></tr>
+<tr><td colspan="3">Caoba africana: cf. acajou d’Afrique</td></tr>
+<tr><td>Caryocar du Costa Rica, piquia</td><td>Caryocar costaricense</td><td>II</td></tr>
+<tr><td colspan="3">Cèdre des Andes: cf. cedro</td></tr>
+<tr><td colspan="3">Cèdre des Antilles: cf. cedro</td></tr>
+<tr><td colspan="3">Cèdre des Indes occidentales: cf. cedro</td></tr>
+<tr><td>Cèdre du Chili</td><td>Pilgerodendron uviferum</td><td>I</td></tr>
+<tr><td colspan="3">Cedrela: cf. cedro</td></tr>
+<tr><td colspan="3">Cédrèle odorant: cf. cedro, cèdres</td></tr>
+<tr><td colspan="3">Cedro</td></tr>
+<tr><td>Cèdres, Cedrela, Cedro inclus les noms commerciaux suivants: cèdre des Andes, cèdre des Antilles, cèdre des Indes occidentales, cédrèle odorant, cèdre du Mexique</td><td>Cedrela spp.</td><td>II Populations néotropicales (Amérique centrale et Amérique du Sud)</td></tr>
+<tr><td>Chêne de Mongolie</td><td>Quercus mongolica</td><td>III Population de Russie</td></tr>
+<tr><td colspan="3">Cocobolo: cf. palissandres</td></tr>
+<tr><td>Cumaru</td><td>Dipteryx spp.</td><td>II</td></tr>
+<tr><td>Cyprès de Mulange</td><td>Widdringtonia whytei</td><td>II</td></tr>
+<tr><td colspan="3">Doussié: cf. afzelias</td></tr>
+<tr><td>Ébène</td><td>Diospyros spp.</td><td>II Population de Madagascar</td></tr>
+<tr><td>Ébène verte, ipé</td><td>Handroanthus spp.</td><td>II</td></tr>
+<tr><td></td><td>Roseodendron spp.</td><td>II</td></tr>
+<tr><td></td><td>Tabebuia spp.</td><td>II</td></tr>
+<tr><td>Frêne de Mandchourie</td><td>Fraxinus mandshurica</td><td>III Population de Russie</td></tr>
+<tr><td>Gaïac, bois de vie d’Argentine, Lignum Vitae, palo santo, Pockholz</td><td>Guaiacum spp.</td><td>II</td></tr>
+<tr><td>Gaïacol, palo santo, Lignum Vitae du Paraguay</td><td>Bulnesia sarmientoi</td><td>II</td></tr>
+<tr><td>Gavilan</td><td>Oreomunnea pterocarpa (= Engelhardia pterocarpa)</td><td>II</td></tr>
+<tr><td colspan="3">Honduras-Mahagoni: cf. acajou</td></tr>
+<tr><td colspan="3">Ifs</td></tr>
+<tr><td>If chinois</td><td>Taxus chinensis y c. toutes les sous-espèces</td><td>II</td></tr>
+<tr><td>If Fu</td><td>Taxus fuana y c. toutes les sous-espèces</td><td>II</td></tr>
+<tr><td>If japonais</td><td>Taxus cuspidata y c. toutes les sous-espèces, en particulier *Taxus x media*</td><td>II</td></tr>
+<tr><td>If de Sumatra</td><td>Taxus sumatrana y c. toutes les sous-espèces</td><td>II</td></tr>
+<tr><td colspan="3">If de Sumatra: cf. ifs</td></tr>
+<tr><td colspan="3">If japonais: cf. ifs</td></tr>
+<tr><td colspan="3">Jacaranda: cf. palissandres</td></tr>
+<tr><td colspan="3">Kosso: cf. palissandre du Sénégal, padouk</td></tr>
+<tr><td colspan="3">Lignum Vitae: cf. gaïac</td></tr>
+<tr><td>Macacauba</td><td>Platymiscium parviflorum</td><td>II</td></tr>
+<tr><td>Magnolia taungme</td><td>Magnolia liliifera var. obovata (= Talauma hodgsonii, M. hodgsonii, M. candolii var. obovata)</td><td>III Population du Népal</td></tr>
+<tr><td colspan="3">Mahagony: cf. acajou</td></tr>
+<tr><td colspan="3">Mukula: cf. padouk d’Afrique, padouk</td></tr>
+<tr><td colspan="3">Nicaragua Rosewood: cf. palissandres</td></tr>
+<tr><td>Padouk Inclus les noms commerciaux suivantes: bois corail, hérissé, kino de Gambie, kosso, mukula, mukwa, padauk d’Afrique, padouk d’Afrique, padouk blanc, palissandre du Sénégal, santal rouge d’Afrique, vène, ven Padouk: cf. padouk d’Afrique ou santal rouge</td><td>Pterocarpus spp.</td><td>II Populations de l’Afrique</td></tr>
+<tr><td colspan="3">Palissandres</td></tr>
+<tr><td>Palissandre Inclus les noms commerciaux suivants: bois de rose du Brésil, bois de rose du Honduras, cocobolo, Honduras Rosewood, jacaranda, Nicaraguan Rosewood, palissandre du Honduras, Panama‑Rosewood</td><td>Dalbergia spp.</td><td>II sauf les produits finis d’un poids maximum du bois de l’espèce inscrite de 10 kg par envoi; les instruments de musique finis, les parties finies et des accessoires d’instruments de musique finis; ces exceptions ne s’appliquent pas à *Dalbergia nigra*, *Dalbergia* *cochinchinensis* ni aux importations directes de *Dalbergia* spp. en provenance du Mexique</td></tr>
+<tr><td>Palissandre de Rio, bois de rose brésilien, jacaranda</td><td>Dalbergia nigra</td><td>I</td></tr>
+<tr><td>Palissandre de Thaïlande</td><td>Dalbergia cochinchinensis</td><td>II</td></tr>
+<tr><td></td><td>Dalbergia calderonii</td><td>II Population du Mexique</td></tr>
+<tr><td></td><td>Dalbergia calycina</td><td>II Population du Mexique</td></tr>
+<tr><td></td><td>Dalbergia congestiflora</td><td>II Population du Mexique</td></tr>
+<tr><td></td><td>Dalbergia cubilquitzensis</td><td>II Population du Mexique</td></tr>
+<tr><td></td><td>Dalbergia glomerata</td><td>II Population du Mexique</td></tr>
+<tr><td></td><td>Dalbergia longepedunculata</td><td>II Population du Mexique</td></tr>
+<tr><td></td><td>Dalbergia luteola</td><td>II Population du Mexique</td></tr>
+<tr><td></td><td>Dalbergia melanocardium</td><td>II Population du Mexique</td></tr>
+<tr><td></td><td>Dalbergia modesta</td><td>II Population du Mexique</td></tr>
+<tr><td></td><td>Dalbergia palo-escrito</td><td>II Population du Mexique</td></tr>
+<tr><td></td><td>Dalbergia rhachiflexa</td><td>II Population du Mexique</td></tr>
+<tr><td></td><td>Dalbergia ruddae</td><td>II Population du Mexique</td></tr>
+<tr><td></td><td>Dalberiga tucurensis</td><td>II Population du Mexique</td></tr>
+<tr><td>Palissandre du Sénégal</td><td>Pterocarpus erinaceus</td><td>II</td></tr>
+<tr><td colspan="3">Palissandre du Honduras: cf. palissandres</td></tr>
+<tr><td colspan="3">Palo santo: cf. gaïac ou gaïacol</td></tr>
+<tr><td colspan="3">Panama-Rosewood: cf. palissandre</td></tr>
+<tr><td colspan="3">Paraguay Lignum Vitae: cf. gaïacol</td></tr>
+<tr><td colspan="3">Pau-Brasil: cf. pernambouc</td></tr>
+<tr><td>Pernambouc, Brazil wood, fernambouc, pau-brazil</td><td>Paubrasilia echinata</td><td>II</td></tr>
+<tr><td>Pin de Corée</td><td>Pinus koraiensis</td><td>III Population de Russie</td></tr>
+<tr><td>Pin du Népal</td><td>Podocarpus neriifolius (= P. polyantha, P. decipiens)</td><td>III Population du Népal</td></tr>
+<tr><td>Pin parlatore, pino del Cerro</td><td>Podocarpus parlatorei (= P. angustifolia)</td><td>II</td></tr>
+<tr><td>Piquia</td><td>Caryocar costaricense</td><td>II</td></tr>
+<tr><td>Prunier africain ou pygeum</td><td>Prunus africana (= Pygeum africanum)</td><td>II</td></tr>
+<tr><td colspan="3">Pygeum: cf. prunier africain</td></tr>
+<tr><td>Ramin</td><td>Gonystylus spp.</td><td>II</td></tr>
+<tr><td>Santal rouge, padouk</td><td>Pterocarpus santalinus</td><td>II</td></tr>
+<tr><td>Santal de l’est-africain</td><td>Osyris lanceolata</td><td>II Populations du Burundi, d’Éthiopie, du Kenya, du Rwanda et de Tanzanie</td></tr>
+<tr><td>Sapin du Guatemala</td><td>Abies guatemalensis</td><td>I</td></tr>
+<tr><td colspan="3">Teck d’Afrique, African teak: cf. afrormosia</td></tr>
+<tr><td>Tetracentron sinense</td><td>Tetracentron sinense</td><td>III Population du Népal</td></tr>
+<tr><td colspan="3">\* Les quantités indiquées se rapportent au poids du bois protégé.</td></tr>
 </table>
 
 Annexe 2[^t-2]
@@ -565,67 +593,75 @@ Annexe 3[^t-3]
 
 ## Animaux et plantes, parties et produits dont l’importation est interdite
 
-[^t-3]: Nouvelle teneur selon le ch. I de l’O de l’OSAV du 26 avr. 2024, en vigueur depuis le 1<sup>er</sup> juin 2024 ([RO 2024 180](https://fedlex.data.admin.ch/eli/oc/2024/180)).
+[^t-3]: Nouvelle teneur selon le ch. I de l’O de l’OSAV du 31 mars 2026, en vigueur depuis le 1<sup>er</sup> mai. 2026 ([RO 2026 148](https://fedlex.data.admin.ch/eli/oc/2026/148)).
 
 <table>
-<tr><th>Pays</th><th>Animal, plante, produit</th><th>Notification<sup>a</sup></th></tr>
-<tr><td>Afghanistan</td><td>toutes les importations, exportations et réexportations commerciales</td><td>N<sup>o</sup> 2013/018 (17 mai 2013)</td></tr>
-<tr><td>Angola</td><td>toutes les importations, exportations et réexportations commerciales</td><td>N<sup>o</sup> 2024/033 (7 février 2024)</td></tr>
+<tr><th>Pays</th><th>Animal, plante, produit</th><th>Notification <sup>a</sup></th></tr>
+<tr><td>Afghanistan</td><td>Suspension de tout commerce</td><td>N<sup>o</sup> 2013/018 (17 mai 2013)</td></tr>
 <tr><td>Bangladesh</td><td>*Aves* spp. inscrits aux annexes I à III CITES à des fins commerciales</td><td>N<sup>o</sup> 2023/129 (23 novembre 2023)</td></tr>
-<tr><td>Belize</td><td>Myrmecophila tibicinis</td><td>N<sup>o</sup> 2023/034 (23 mars 2023)</td></tr>
-<tr><td>Bénin</td><td>Chamaeleo gracilis</td><td>N<sup>o</sup> 2023/034 (23 mars 2023)</td></tr>
-<tr><td></td><td>Chamaeleo senegalensis</td><td>N<sup>o</sup> 2023/034 (23 mars 2023)</td></tr>
-<tr><td></td><td>Klinixys homeana</td><td>N<sup>o</sup> 2023/034 (23 mars 2023))</td></tr>
-<tr><td></td><td>Pandinus imperator</td><td>N<sup>o</sup> 2023/034 (23 mars 2023)</td></tr>
+<tr><td>Belize</td><td>Myrmecophila tibicinis</td><td>N<sup>o</sup> 2026/004 (8 janvier 2026)</td></tr>
+<tr><td>Bénin</td><td>Chamaeleo gracilis</td><td>N<sup>o</sup> 2026/004 (8 janvier 2026)</td></tr>
+<tr><td></td><td>Chamaeleo senegalensis</td><td>N<sup>o</sup> 2026/004 (8 janvier 2026)</td></tr>
+<tr><td></td><td>Klinixys homeana</td><td>N<sup>o</sup> 2026/004 (8 janvier 2026)</td></tr>
+<tr><td></td><td>Pandinus imperator</td><td>N<sup>o</sup> 2026/004 (8 janvier 2026)</td></tr>
 <tr><td>Cameroun</td><td>Pterocarpus erinaceus</td><td>N<sup>o</sup> 2022/045 (8 juin 2022)</td></tr>
-<tr><td>Côte d’Ivoire</td><td>Pericopsis elata</td><td>N<sup>o</sup> 2023/034 (23 mars 2023)</td></tr>
-<tr><td>Djibouti</td><td>toutes les importations, exportations et réexportations commerciales</td><td>N<sup>o</sup> 2018/015 (30 janvier 2018)</td></tr>
+<tr><td>Comores</td><td>toutes les importations, exportations et réexportations commerciales</td><td>N<sup>o</sup> 2025/061 (2 mai 2025)</td></tr>
+<tr><td>Djibouti</td><td>toutes les importations, exportations et réexportations commerciales</td><td>N<sup>o</sup> 2011/010 (19 janvier 2011)</td></tr>
+<tr><td></td><td>Suspension de tout commerce</td><td>N<sup>o</sup> 2018/015 (30 janvier 2018)</td></tr>
 <tr><td>Dominique</td><td>toutes les importations, exportations et réexportations commerciales</td><td>N<sup>o</sup> 2024/030 (2 février 2024)</td></tr>
+<tr><td>Équateur</td><td>Alopias spp.</td><td>N<sup>o</sup> 2024/043 (11 mars 2024)</td></tr>
+<tr><td></td><td>Carcharhinus falciformis</td><td>N<sup>o</sup> 2024/043 (11 mars 2024)</td></tr>
+<tr><td></td><td>Carcharhinus longimanus</td><td>N<sup>o</sup> 2024/043 (11 mars 2024)</td></tr>
+<tr><td></td><td>Carcharodon carcharias</td><td>N<sup>o</sup> 2024/043 (11 mars 2024)</td></tr>
+<tr><td></td><td>Cetorhinus maximus</td><td>N<sup>o</sup> 2024/043 (11 mars 2024)</td></tr>
+<tr><td></td><td>Isurus oxyrinchus</td><td>N<sup>o</sup> 2024/043 (11 mars 2024)</td></tr>
+<tr><td></td><td>Isurus paucus</td><td>N<sup>o</sup> 2024/043 (11 mars 2024)</td></tr>
+<tr><td></td><td>Mobula spp.</td><td>N<sup>o</sup> 2024/043 (11 mars 2024)</td></tr>
+<tr><td></td><td>Sphyrna lewini</td><td>N<sup>o</sup> 2024/043 (11 mars 2024)</td></tr>
+<tr><td></td><td>Sphyrna mokarran</td><td>N<sup>o</sup> 2024/043 (11 mars 2024)</td></tr>
+<tr><td></td><td>Sphyrna zygaena</td><td>N<sup>o</sup> 2024/043 (11 mars 2024)</td></tr>
+<tr><td></td><td>Rhincodon typus</td><td>N<sup>o</sup> 2024/043 (11 mars 2024)</td></tr>
 <tr><td>Gambie</td><td>Pterocarpus erinaceus</td><td>N<sup>o</sup> 2022/045 (8 juin 2022)</td></tr>
-<tr><td>Ghana</td><td>Chamaeleo gracilis</td><td>N<sup>o</sup> 2023/034 (23 mars 2023)</td></tr>
-<tr><td></td><td>Chamaeleo senegalensis</td><td>N<sup>o</sup> 2023/034 (23 mars 2023)</td></tr>
-<tr><td></td><td>Pandinus imperator</td><td>N<sup>o</sup> 2023/034 (23 mars 2023)</td></tr>
-<tr><td>Grenade</td><td>Strombus gigas</td><td>N<sup>o</sup> 2023/034 (23 mars 2023)</td></tr>
-<tr><td></td><td>toutes les importations, exportations et réexportations commerciales</td><td>N<sup>o</sup> 2016/022 (16 mars 2016)</td></tr>
-<tr><td>Guinée</td><td>Hippocampus algiricus</td><td>N<sup>o</sup> 2023/034 (23 mars 2023)</td></tr>
+<tr><td>Ghana</td><td>Chamaeleo gracilis</td><td>N<sup>o</sup> 2026/004 (8 janvier 2026)</td></tr>
+<tr><td></td><td>Chamaeleo senegalensis</td><td>N<sup>o</sup> 2026/004 (8 janvier 2026)</td></tr>
+<tr><td></td><td>Pandinus imperator</td><td>N<sup>o</sup> 2026/004 (8 janvier 2026)</td></tr>
+<tr><td>Grenade</td><td>Strombus gigas</td><td>N<sup>o</sup> 2026/004 (8 janvier 2026)</td></tr>
+<tr><td></td><td>suspencion de tout commerce</td><td>N<sup>o</sup> 2016/022 (16 mars 2016)</td></tr>
+<tr><td>Guinée</td><td>Hippocampus algiricus</td><td>N<sup>o</sup> 2026/004 (8 janvier 2026)</td></tr>
 <tr><td></td><td>toutes les importations, exportations et réexportations commerciales</td><td>N<sup>o</sup> 2023/128 (23 novembre 2023)</td></tr>
 <tr><td>Guinée-Bissau</td><td>Pterocarpus erinaceus</td><td>N° 2022/045 (8 juin 2022)</td></tr>
-<tr><td>Guinée équatoriale</td><td>*Prunus africana*</td><td>N<sup>o</sup> 2023/034 (23 mars 2023)</td></tr>
-<tr><td>Haïti (État non contractant)</td><td>Strombus gigas</td><td>N<sup>o</sup> 2023/034 (23 mars 2023)</td></tr>
-<tr><td>Îles Salomon</td><td>Corucia zebrata</td><td>N<sup>o</sup> 2023/034 (23 mars 2023)</td></tr>
-<tr><td></td><td>Ornithoptera priamus (autrefois O. urvillianus)</td><td>N<sup>o</sup> 2023/034 (23 mars 2023)</td></tr>
-<tr><td></td><td>Ornithoptera victoriae</td><td>N<sup>o</sup> 2023/034 (23 mars 2023)</td></tr>
-<tr><td></td><td>Tridacna derasa, T. crocea, T. gigas, T. maxima, T. noae et T. squamosa</td><td>N<sup>o</sup> 2023/034 (23 mars 2023)</td></tr>
-<tr><td>Laos</td><td>Dendrobium nobile</td><td>N<sup>o</sup> 2023/034 (23 mars 2023)</td></tr>
-<tr><td></td><td>toutes les importations, exportations et réexportations commerciales</td><td>N<sup>o</sup> 2023/127 (21 novembre 2023)</td></tr>
+<tr><td>Guinée équatoriale</td><td>Prunus africana</td><td>N<sup>o</sup> 2026/004 (8 janvier 2026)</td></tr>
+<tr><td>Haïti (État non contractant)</td><td>Strombus gigas</td><td>N<sup>o</sup> 2026/004 (8 janvier 2026)</td></tr>
+<tr><td>Îles Salomon</td><td>Corucia zebrata</td><td>N<sup>o</sup> 2026/004 (8 janvier 2026)</td></tr>
+<tr><td></td><td>Ornithoptera priamus (autrefois O. urvillianus)</td><td>N<sup>o</sup> 2026/004 (8 janvier 2026)</td></tr>
+<tr><td></td><td>Ornithoptera victoriae</td><td>N<sup>o</sup> 2026/004 (8 janvier 2026)</td></tr>
+<tr><td>Laos</td><td>Dendrobium nobile</td><td>N<sup>o</sup> 2026/004 (8 janvier 2026)</td></tr>
+<tr><td></td><td>toutes les importations, exportations et réexportations commerciales de *Fauna* spp.</td><td>N<sup>o</sup> 2025/032 (13 mars 2025)</td></tr>
 <tr><td>Libéria</td><td>toutes les importations, exportations et réexportations commerciales</td><td>N<sup>o</sup> 2018/012 (22 janvier 2018)</td></tr>
 <tr><td>Libye</td><td>toutes les importations, exportations et réexportations commerciales</td><td>N<sup>o</sup> 2024/031 (2 février 2024)</td></tr>
-<tr><td>Madagascar</td><td>Coracopsis vasa</td><td>N<sup>o</sup> 2023/034 (23 mars 2023)</td></tr>
-<tr><td></td><td>Dalbergia spp.</td><td>N<sup>o</sup> 2022/031 (12 mai 2022)</td></tr>
-<tr><td></td><td>Diospyros spp.</td><td>N<sup>o</sup> 2022/031 (12 mai 2022)</td></tr>
-<tr><td></td><td>Furcifer labordi</td><td>N<sup>o</sup> 2023/034 (23 mars 2023)</td></tr>
-<tr><td></td><td>Phelsuma borai, P. gouldi, P. hoeschi et P. ravenala</td><td>N<sup>o</sup> 2023/034 (23 mars 2023)</td></tr>
+<tr><td>Madagascar</td><td>Coracopsis vasa</td><td>N<sup>o</sup> 2026/004 (8 janvier 2026)</td></tr>
+<tr><td></td><td>Furcifer labordi</td><td>N<sup>o</sup> 2026/004 (8 janvier 2026)</td></tr>
+<tr><td></td><td>Phelsuma borai, P. gouldi, P. hoeschi et P. ravenala</td><td>N<sup>o</sup> 2026/004 (8 janvier 2026)</td></tr>
 <tr><td>Mali</td><td>Pterocarpus erinaceus</td><td>N° 2022/045 (8 juin 2022)</td></tr>
-<tr><td></td><td>Uromastyx dispar</td><td>N<sup>o</sup> 2023/034 (23 mars 2023)</td></tr>
-<tr><td></td><td>Uromastyx geyri</td><td>N<sup>o</sup> 2024/023 (24 janvier 2024)</td></tr>
-<tr><td>Mozambique</td><td>Cordylus tropidosternum</td><td>N<sup>o</sup> 2023/034 (23 mars 2023)</td></tr>
-<tr><td></td><td>Smaug mossambicus</td><td>N<sup>o</sup> 2023/034 (23 mars 2023)</td></tr>
-<tr><td>Niger</td><td>Chamaeleo africanus</td><td>N<sup>o</sup> 2023/034 (23 mars 2023)</td></tr>
+<tr><td></td><td>Uromastyx dispar</td><td>N<sup>o</sup> 2026/004 (8 janvier 2026)</td></tr>
+<tr><td></td><td>Uromastyx geyri</td><td>N<sup>o</sup> 2026/004 (8 janvier 2026)</td></tr>
+<tr><td>Mozambique</td><td>Cordylus tropidosternum</td><td>N<sup>o</sup> 2026/004 (8 janvier 2026)</td></tr>
+<tr><td></td><td>Smaug mossambicus</td><td>N<sup>o</sup> 2026/004 (8 janvier 2026)</td></tr>
+<tr><td>Niger</td><td>Chamaeleo africanus</td><td>N<sup>o</sup> 2026/004 (8 janvier 2026)</td></tr>
 <tr><td>Nigéria</td><td>Pterocarpus erinaceus</td><td>N<sup>o</sup> 2018/084 (1<sup>er</sup> novembre 2018)</td></tr>
 <tr><td>Oman</td><td>toutes les importations, exportations et réexportations commerciales</td><td>N<sup>o</sup> 2024/032 (2 février 2024)</td></tr>
 <tr><td>République centrafricaine</td><td>Pterocarpus erinaceus</td><td>N<sup>o</sup> 2022/045 (8 juin 2022)</td></tr>
 <tr><td>République démocratique du Congo</td><td>Manis spp.</td><td>N<sup>o</sup> 2018/082 (1<sup>er</sup> novembre 2018)</td></tr>
-<tr><td></td><td>Poicephalus fuscicollis (autrefois Poicephalus robustus)</td><td>N<sup>o</sup> 2023/034 (23 mars 2023)</td></tr>
+<tr><td></td><td>Poicephalus fuscicollis (autrefois Poicephalus robustus)</td><td>N<sup>o</sup> 2026/004 (8 janvier 2026)</td></tr>
 <tr><td></td><td>Psittacus erithacus</td><td>N° 2022/017 (18 mars 2022)</td></tr>
 <tr><td>Sao Tomé-et-Principe</td><td>toutes les importations, exportations et réexportations commerciales</td><td>N<sup>o</sup> 2022/038 (17 mai 2022)</td></tr>
-<tr><td>Sénégal</td><td>Hippocampus algiricus</td><td>N<sup>o</sup> 2023/034 (23 mars 2023)</td></tr>
-<tr><td>Somalie</td><td>toutes les importations, exportations et réexportations commerciales</td><td>N<sup>o</sup> 2024/016 (12 janvier 2024)</td></tr>
-<tr><td>Tanzanie</td><td>Balearica regulorum</td><td>N<sup>o</sup> 2023/034 (23 mars 2023)</td></tr>
+<tr><td>Sénégal</td><td>Hippocampus algiricus</td><td>N<sup>o</sup> 2026/004 (8 janvier 2026)</td></tr>
+<tr><td>Somalie</td><td>toutes les importations, exportations et réexportations commerciales</td><td>N<sup>o</sup> 2019/035 (4 juillet 2019)</td></tr>
+<tr><td>Tanzanie</td><td>Balearica regulorum</td><td>N<sup>o</sup> 2026/004 (8 janvier 2026)</td></tr>
 <tr><td>Tchad</td><td>Pterocarpus erinaceus</td><td>N<sup>o</sup> 2022/045 (8 juin 2022)</td></tr>
-<tr><td>Togo</td><td>Pandinus imperator</td><td>N<sup>o</sup> 2023/034 (23 mars 2023)</td></tr>
-<tr><td></td><td>Poicephalus fuscicollis (autrefois P. robustus)</td><td>N<sup>o</sup> 2023/034 (23 mars 2023)</td></tr>
+<tr><td>Togo</td><td>Poicephalus fuscicollis (autrefois P. robustus)</td><td>N<sup>o</sup> 2026/004 (8 janvier 2026)</td></tr>
 <tr><td></td><td>Pterocarpus erinaceus</td><td>N<sup>o</sup> 2022/045 (8 juin 2022)</td></tr>
-<tr><td colspan="3">**[a]** Les notifications peuvent être consultées sur le site Internet du Secrétariat CITES: [www.cites.org](https://cites.org/fra/notif/index.php) &gt; Français &gt; Documents &gt; Notifications aux Parties.</td></tr>
+<tr><td colspan="3"><sup>a</sup> Les notifications peuvent être consultées sur le site internet du Secrétariat CITES: [www.cites.org](https://cites.org/eng/notif/index.php) &gt; Français &gt; Documents &gt; Notifications aux Parties.</td></tr>
 </table>
 
 Annexe 4[^t-4]
@@ -644,7 +680,7 @@ Annexe 4[^t-4]
 - 6\. …
 - 7\. Bois et produits en bois en *Dalbergia* spp. et en *Guibourtia demeusei*, *G. pellegriniana* et *G. tessmannii*. Aucune autorisation d’importation de longue durée n’est délivrée pour *Dalbergia nigra*, *Dalbergia cochinchinensis* et *Dalbergia* spp. en provenance du Mexique.
 
-[^annex4-lvlu1-1]: [RS 0.453](https://fedlex.data.admin.ch/eli/cc/1975/1135_1136_1136)
+[^annex4-lvlu1-1]: [RS 0.453](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1851)
 
 Annexe 5[^t-5]
 
