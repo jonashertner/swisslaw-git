@@ -4,13 +4,12 @@ number: "935.520"
 title: "Ordonnance cantonale sur les jeux d'argent"
 short: OCJAr
 language: fr
-version: 2023-03-01
-valid_until: 2026-04-30
-version_adopted: 2023-01-11
+version: 2026-05-01
+version_adopted: 2026-03-04
 adopted: 2020-12-02
 in_force: 2021-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/935.520"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2801/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3481/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2801/pdf_file"
 
 (OCJAr)
 
-du 02.12.2020 (état au 01.03.2023)
+du 02.12.2020 (état au 01.05.2026)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -49,12 +48,14 @@ arrête:
 
 <sup>1</sup> Seules les personnes morales remplissant les conditions de la législation fédérale sur les jeux d'argent peuvent exploiter des jeux de petite envergure.
 
-<sup>2</sup> Les exploitants de petites loteries et de paris sportifs locaux doivent en outre
+<sup>2</sup> Les exploitants de petites loteries et de paris sportifs locaux
 
-- a avoir leur siège dans le canton,
-- b poursuivre des buts d'utilité publique en vertu de leurs statuts.
+- a doivent, en règle générale, avoir leur siège dans le canton;
+- b ne peuvent pas poursuivre de buts économiques.
 
 <sup>3</sup> La participation à des petites loteries et à des paris sportifs locaux ne peut pas être liée à la vente de billets d'entrée, de produits ou de services.
+
+<sup>4</sup> Les tiers visés à l'article 6, alinéa 1 LCJAr qui exploitent des jeux de petite envergure doivent avoir leur siège dans le canton.
 
 ### 2.2 Procédures
 
@@ -110,7 +111,7 @@ arrête:
 
 **Demande**
 
-<sup>1</sup> La demande visant l'émission d'une petite loterie doit être déposée auprès du Secrétariat général de la Direction de la sécurité au plus tard trois mois avant le début prévu de la mise en vente des billets.
+<sup>1</sup> La demande visant l'émission d'une petite loterie doit être déposée auprès du Secrétariat général de la Direction de la sécurité au plus tard 30 jours avant le début de la mise en vente des billets.
 
 #### Art. 9
 
@@ -134,7 +135,9 @@ arrête:
 
 <sup>1</sup> La valeur des gains en nature est calculée en fonction de leur valeur marchande.
 
-<sup>2</sup> La remise de gains en nature sous forme de bons ne peut pas être assortie de conditions ni de charges.
+<sup>2</sup> La remise de bons ne peut pas être assortie de conditions ni de charges.
+
+<sup>3</sup> Dans les cas d'exploitation de lotos ou de tombolas par des tiers en vertu de l'article 6, alinéa 1 LCJAr, les gains revevant aux exploitants s'élèvent à au moins 25 pour cent de la valeur d'émission.
 
 #### Art. 12
 
@@ -142,7 +145,7 @@ arrête:
 
 <sup>1</sup> La participation se fait par l'achat d'un billet.
 
-<sup>2</sup> Les billets peuvent être mis en vente sur tout le territoire cantonal du début de l'année jusqu'à la tenue de la manifestation.
+<sup>2</sup> Les billets peuvent être mis en vente dans tout le canton jusqu'à la tenue de la manifestation.
 
 <sup>3</sup> Ils doivent indiquer, de manière bien visible,
 
@@ -181,7 +184,7 @@ arrête:
 
 **Décompte**
 
-<sup>1</sup> Un décompte intermédiaire de la petite loterie est remis à l'autorité qui a délivré l'autorisation trois mois au plus après l'expiration du délai de retrait des gains.
+<sup>1</sup> Le décompte de la petite loterie est remis à l'autorité qui a délivré l'autorisation trois mois au plus après l'expiration du délai de retrait des gains.
 
 <sup>2</sup> Il indique
 
@@ -191,7 +194,7 @@ arrête:
 - d le bénéfice net de la petite loterie,
 - e l'affectation du bénéfice net.
 
-<sup>3</sup> Le décompte final de la manifestation est remis à l'autorité qui a délivré l'autorisation un an au plus après la manifestation.
+<sup>3</sup> …
 
 #### Art. 16
 
@@ -214,7 +217,12 @@ arrête:
 - c la somme totale maximale des mises,
 - d la répartition des gains.
 
-<sup>3</sup> Les articles 11 et 12, alinéa 1 s'appliquent.
+<sup>2a</sup> Dans les lotos et les tombolas:
+
+- a la valeur des gains se monte à 50 pour cent au moins de la somme totale maximale des mises;
+- b le montant maximal d'une mise unitaire est de dix francs.
+
+<sup>3</sup> Les dispositions de la section 2.3 s'appliquent par analogie, à l'exception des articles 7, 10, 12, alinéa 3 et 16.
 
 ### 2.5 Paris sportifs locaux
 
@@ -260,6 +268,8 @@ arrête:
 - b la prévention de la dépendance au jeu et les offres de conseil,
 - c l'autorisation.
 
+<sup>2</sup> Les petits tournois de poker doivent être annoncés sur des plateformes publiques au plus tard un mois avant leur tenue.
+
 #### Art. 22
 
 **Lutte contre la dépendance au jeu**
@@ -270,12 +280,7 @@ arrête:
 
 **Procédure**
 
-<sup>1</sup> La demande visant l'exploitation d'un petit tournoi de poker doit être déposée auprès du Secrétariat général de la Direction de la sécurité, accompagnée des documents requis deux mois à l'avance pour une période de trois mois, soit
-
-- a fin octobre pour le premier trimestre (de janvier à mars),
-- b fin janvier pour le deuxième trimestre (d'avril à juin),
-- c fin avril pour le troisième trimestre (de juillet à septembre),
-- d fin juillet pour le quatrième trimestre (d'octobre à décembre).
+<sup>1</sup> La demande visant l'exploitation d'un petit tournoi de poker doit être déposée auprès du Secrétariat général de la Direction de la sécurité, accompagnée des documents requis deux mois à l'avance pour une période de six mois au plus.
 
 <sup>2</sup> Le Secrétariat général de la Direction de la sécurité peut faire appel, à titre consultatif, au service cantonal spécialisé en matière de prévention de la dépendance au jeu.
 
@@ -321,9 +326,9 @@ arrête:
 <sup>1</sup> L'impôt sur les maisons de jeu est versé
 
 - a à la commune d'implantation, à hauteur de dix pour cent,
-- b au Fonds de lutte contre la toxicomanie au sens de l'article 70 de la loi du 11 juin 2001 sur l'aide sociale (LASoc)[^28-1], à hauteur de cinq pour cent.
+- b au Fonds de lutte contre la toxicomanie au sens de l'article 34 de la loi du 9 mars 2021 sur les programmes d'action sociale (LPASoc)[^28-1], à hauteur de cinq pour cent.
 
-[^28-1]: RSB [860.1](https://www.belex.sites.be.ch/data/860.1/fr)
+[^28-1]: RSB [860.2](https://www.belex.sites.be.ch/data/860.2/fr)
 
 ## 4 Affectation des moyens prélevés sur le Fonds de loterie et le Fonds du sport
 
@@ -353,7 +358,8 @@ arrête:
 - a le soutien aux associations et fédérations,
 - b les compétitions et les grandes manifestations de sport populaire,
 - c les manifestations dans le domaine de la culture populaire au sens de l'article 46, alinéa 1, lettre b,
-- d les subventions par personne affectées aux domaines de la société et de la culture, dans la catégorie de la culture populaire.
+- d les subventions par personne affectées aux domaines de la société et de la culture, dans la catégorie de la culture populaire,
+- e les subventions pour des camps affectées au domaine de la société, catégorie de l'inclusion, conformément à l'article 63a, alinéa 3.
 
 #### Art. 31
 
@@ -429,7 +435,7 @@ arrête:
 
 **Dépôt de la demande**
 
-<sup>1</sup> La demande de subvention doit être déposée, accompagné des documents requis, dans les délais prescrits auprès du Secrétariat général de la Direction de la sécurité.
+<sup>1</sup> La demande de subvention doit être déposée, accompagnée des documents requis, dans les délais prescrits auprès du Secrétariat général de la Direction de la sécurité.
 
 <sup>2</sup> Le Secrétariat général de la Direction de la sécurité indique les documents requis pour les différents domaines d'affectation.
 
@@ -460,13 +466,15 @@ arrête:
 
 <sup>1</sup> Des versements partiels peuvent être effectués sur la base de factures jusqu'à concurrence de 80 pour cent de la subvention totale si le financement global est assuré.
 
+<sup>1a</sup> Ces conditions ne s'appliquent pas au domaine des subventions périodiques destinées à la conservation et à l'entretien de monuments historiques revêtant une importance exceptionnelle.
+
 <sup>2</sup> Sont réservées les dispositions particulières applicables au domaine de la coopération au développement.
 
 #### Art. 43
 
 **Prescription**
 
-<sup>1</sup> La promesse de subvention se prescrit par quatre ans.
+<sup>1</sup> La promesse de subvention se prescrit par quatre ans, sauf si le service compétent décide de délais plus longs en raison de circonstances particulières.
 
 <sup>2</sup> Le Secrétariat général de la Direction de la sécurité peut prolonger une fois de deux ans au plus le délai visé à l'alinéa 1, sur demande motivée.
 
@@ -485,6 +493,7 @@ arrête:
 - a les projets commerciaux et à but lucratif,
 - b les manifestations de représentation et la participation à des manifestations à des fins de représentation,
 - c les congrès, les conférences, les séminaires, les salons et les ateliers,
+- c1 les activités de collecte de fonds,
 - d les manifestations visant uniquement le divertissement,
 - e les projets de recherche et les études, notamment les travaux de fin de formation et les publications scientifiques,
 - f les véhicules, à l'exception des biens du patrimoine mobilier technique.
@@ -497,9 +506,15 @@ arrête:
 
 <sup>2</sup> Le taux de subventionnement des frais imputables est calculé selon la formule figurant à l'annexe 1.
 
+<sup>2a</sup> Il peut être augmenté de dix pour cent au plus si les réserves des fonds sont suffisantes.
+
 <sup>3</sup> Des taux fixes peuvent s'appliquer à certaines catégories de petits projets.
 
-<sup>4</sup> Une subvention de dix millions de francs au plus peut être octroyée une fois par an, au cas par cas, pour des projets de construction particuliers.
+<sup>3a</sup> Le Conseil-exécutif peut fixer chaque année le montant des subventions en fonction des recettes du Fonds de loterie qu'il reste après l'alimentation des fonds conformément à l'article 40, alinéa 3 LCJAr.
+
+<sup>3b</sup> Les subventions sont octroyées annuellement selon la date de réception des demandes dûment déposées, jusqu'à concurrence du montant prévu à l'alinéa 3a.
+
+<sup>4</sup> Une subvention de dix millions de francs au plus peut être octroyée, au cas par cas, pour des projets de construction particuliers, si le total des subventions ne dépasse pas 40 millions de francs en l'espace de quatre ans.
 
 ### 4.2.2 Culture
 
@@ -510,7 +525,8 @@ arrête:
 <sup>1</sup> Des subventions peuvent être octroyées notamment pour
 
 - a la culture populaire suisse pratiquée par les associations actives en particulier dans les domaines de la musique de cuivres et de fanfare, du jodel et des costumes folkloriques,
-- b les manifestations d'importance au moins régionale tenues par ces associations.
+- b les manifestations d'importance au moins régionale tenues par ces associations,
+- c le travail de fond réalisé par des associations bernoises qui s'engagent pour le maintien de l'artisanat d'art.
 
 <sup>2</sup> Elles doivent avoir une autre affectation que les prestations de soutien prévues par la législation cantonale sur l'encouragement des activités culturelles.
 
@@ -520,7 +536,7 @@ arrête:
 
 <sup>1</sup> Des subventions de 50 francs au plus par personne peuvent être octroyées aux associations actives dans le domaine de la culture populaire au sens de l'article 46, alinéa 1, lettre a.
 
-<sup>2</sup> Les moyens disponibles annuellement pour les subventions visées à l'alinéa 1 sont plafonnés à un million de francs.
+<sup>2</sup> Les moyens disponibles annuellement pour les subventions visées à l'alinéa 1 sont plafonnés à 1,5 million de francs.
 
 <sup>3</sup> Le Secrétariat général de la Direction de la sécurité fixe le montant possible des subventions par personne sur la base de toutes les demandes reçues à l'échéance du délai.
 
@@ -530,7 +546,13 @@ arrête:
 
 <sup>1</sup> Des subventions de 100 francs au moins peuvent être octroyées aux associations pour l'acquisition d'uniformes, de costumes folkloriques et d'instruments.
 
-<sup>2</sup> Des subventions de 50'000 francs au plus par manifestation peuvent être octroyées pour les manifestations visées à l'article 46, alinéa 1, lettre b.
+<sup>2</sup> Le subventionnement de manifestations visées à l'article 46, alinéa 1, lettre b peut s'élever à 20 pour cent au plus des frais imputables, mais au plus par manifestation
+
+- a à 50'000 francs pour les manifestations d'importance régionale,
+- b à 500'000 francs pour les manifestations d'importance cantonale,
+- c à un million de francs pour les manifestations d'importance nationale ou internationale.
+
+<sup>3</sup> Les subventions octroyées en vertu de l'article 46, alinéa 1, lettre c peuvent s'élever à 50 francs au plus par association membre.
 
 ### 4.2.3 Protection du patrimoine
 
@@ -580,7 +602,9 @@ arrête:
 
 **Plafonnement des subventions**
 
-<sup>1</sup> Le montant total des subventions affectées à la protection du patrimoine, patrimoine bâti inclus, est plafonné à une moyenne annuelle de dix millions de francs sur une période quadriennale.
+<sup>1</sup> Le montant total des subventions affectées à la protection du patrimoine, patrimoine bâti inclus, est plafonné à une moyenne annuelle de 7,5 millions de francs sur une période quadriennale.
+
+<sup>1a</sup> Font exception les subventions périodiques pour les monuments historiques revêtant une importance exceptionnelle octroyées en vertu des articles 60 ss LCJAr.
 
 <sup>2</sup> Le Secrétariat général de la Direction de la sécurité et l'Office de la culture dressent un bilan intermédiaire au plus tard à la moitié de la période quadriennale et prennent les mesures qui s'imposent.
 
@@ -593,7 +617,7 @@ arrête:
 
 #### Art. 54
 
-<sup>1</sup> Des subventions peuvent être octroyées pour les projets de protection de la nature et de l'environnement qui visent en particulier
+<sup>1</sup> Des subventions peuvent être octroyées pour des projets de protection de la nature et de l'environnement qui, en règle générale, bénéficient d'un accompagnement spécialisé et qui visent en particulier
 
 - a la promotion de la biodiversité,
 - b la conservation des milieux naturels,
@@ -604,6 +628,8 @@ arrête:
 - a de la protection contre le bruit,
 - b de la pollution de l'air, des eaux et de l'environnement,
 - c de la pollution lumineuse.
+
+<sup>2a</sup> Le subventionnement unique de nouveaux projets visés à l'alinéa 1, lettres b et c peut s'élever à 20 pour cent au plus des frais déterminants, mais au plus à 20'000 francs. Les subventions ne peuvent pas être inférieures à 500 francs.
 
 <sup>3</sup> Le subventionnement de manifestations peut s'élever à 30 pour cent au plus des frais imputables, mais à 500'000 francs au plus par manifestation.
 
@@ -682,6 +708,23 @@ arrête:
 
 <sup>2</sup> Les montants non utilisés ne peuvent pas être reportés sur d'autres projets et doivent être restitués au Fonds de loterie.
 
+#### Art. 60a
+
+**Déminage humanitaire**
+
+<sup>1</sup> Des subventions peuvent être accordées à des organisations certifiées ZEWO dont le siège se trouve dans le canton pour la fabrication d'engins de déminage destinés à des projets humanitaires concrets de déminage, à condition qu'elles ne touchent pas déjà des subventions en vertu des articles 55 ss.
+
+<sup>2</sup> Les subventions peuvent s'élever à 30 pour cent au plus des frais imputables, mais au plus
+
+- a à 200'000 francs par engin de déminage,
+- b à un million de francs par année au total.
+
+<sup>3</sup> Les subventions sont versées de la façon suivante:
+
+- a versement à hauteur de 40 pour cent une fois la décision rendue,
+- b versement à hauteur de 40 pour cent une fois l'engin de déminage fabriqué et le décompte intermédiaire établi,
+- c versement à hauteur de 20 pour cent une fois l'engin de déminage mis en service et le décompte final établi.
+
 #### Art. 61
 
 **Secours en cas de catastrophe**
@@ -709,11 +752,13 @@ arrête:
 
 <sup>3</sup> Le subventionnement de manifestations peut s'élever à 30 pour cent au plus des frais imputables, mais à 500'000 francs au plus par manifestation.
 
+<sup>4</sup> Pour la promotion de la cohésion sociale, de nouveaux projets peuvent faire l'objet de subventions uniques s'élevant au plus à 20 pour cent des frais déterminants, mais à 20'000 francs au plus. Les subventions ne peuvent pas être inférieures à 500 francs.
+
 #### Art. 63
 
 **Subventions par personne pour les organisations de jeunesse**
 
-<sup>1</sup> Des subventions de 50 francs au plus peuvent être octroyées, pour chaque membre âgé de 5 à 20 ans domicilié dans le canton, aux associations et fédérations de jeunesse actives qui
+<sup>1</sup> Des subventions de 70 francs au plus peuvent être octroyées, pour chaque membre âgé de 5 à 20 ans domicilié dans le canton, aux associations et fédérations de jeunesse actives qui
 
 - a sont organisées au niveau cantonal;
 - b sont ouvertes à tous les enfants et jeunes;
@@ -724,6 +769,27 @@ arrête:
 <sup>2</sup> Les moyens disponibles annuellement pour les subventions visées à l'alinéa 1 sont plafonnés à 500'000 francs.
 
 <sup>3</sup> Les demandes doivent être déposées dans le délai fixé à l'annexe 3 auprès du Secrétariat général de la Direction de la sécurité, lequel fixe le montant possible des subventions par personne sur la base de toutes les demandes reçues à l'échéance du délai.
+
+#### Art. 63a
+
+**Inclusion**
+
+<sup>1</sup> Des subventions peuvent être octroyées pour promouvoir la participation active à la vie sociale de personnes handicapées
+
+- a pour des projets efficaces à long terme,
+- b pour des camps.
+
+<sup>2</sup> Des subventions peuvent être octroyées annuellement pour des projets efficaces à long terme:
+
+- a jusqu'à 250'000 francs au maximum pour deux projets au plus par organisation,
+- b jusqu'à 1,5 million de francs au total.
+
+<sup>3</sup> Des camps peuvent être subventionnés annuellement
+
+- a jusqu'à 200 francs au plus par personne handicapée et par jour,
+- b jusqu'à 500'000 francs au total.
+
+<sup>4</sup> Les demandes doivent être déposées dans le délai fixé à l'annexe 3 auprès du Secrétariat général de la Direction de la sécurité, lequel fixe le montant possible des subventions sur la base de toutes les demandes reçues à l'échéance du délai.
 
 ### 4.2.7 Grands projets d'utilité publique revêtant une importance considérable pour le canton
 
@@ -762,6 +828,8 @@ arrête:
 - b son statut architectural, notamment l'intérêt qu'il présente dans le contexte d'une période architecturale;
 - c la comparaison avec les objets bernois de même catégorie architecturale classés d'importance nationale à l'Inventaire suisse des biens culturels d'importance nationale et régionale;
 - d son image particulière dans le contexte local et paysager.
+
+<sup>1a</sup> Une subvention est conditionnée au fait que l'objet principal, qui remplit toutes les conditions énoncées à l'alinéa 1, fasse partie de la demande et soit la propriété de la requérante ou du requérant.
 
 <sup>2</sup> Le Secrétariat général de la Direction de la sécurité entend le Service cantonal des monuments historiques lors de l'appréciation des critères énumérés à l'article 61 LCJAr et à l'alinéa 1, lettres a à d.
 
@@ -811,12 +879,16 @@ arrête:
 
 <sup>1</sup> Des subventions peuvent être octroyées, aux conditions énoncées aux articles 26 ss LCJAr,
 
-- a aux associations et fédérations sportives cantonales dont le siège se trouve dans le canton et à leurs membres domiciliés dans le canton;
-- b aux autres organisations cantonales bernoises d'utilité publique qui soutiennent le sport dans le canton;
-- c aux fédérations sportives intercantonales, pour autant que la présente ordonnance le prévoie expressément dans le cadre des domaines d'affectation;
+- a aux fédérations et clubs sportifs cantonaux dont le siège se trouve dans le canton;
+- b aux autres organisations cantonales bernoises d'utilité publique qui soutiennent le sport dans le canton ou qui exploitent une installation sportive dans le canton;
+- c aux fédérations sportives intercantonales
+  - 1\. pour autant que le siège d'au moins 25 pour cent des clubs membres se situe dans le canton,
+  - 2\. pour autant que la présente ordonnance le prévoie expressément dans le cadre des domaines d'affectation;
 - d aux communes du canton, pour autant que la présente ordonnance le prévoie expressément dans le cadre des domaines d'affectation;
 - e aux unités administratives cantonales, pour autant que la présente ordonnance le prévoie expressément dans le cadre des domaines d'affectation;
-- f aux personnes extérieures au canton qui y organisent des compétitions sportives.
+- f aux personnes extérieures au canton qui y organisent des compétitions sportives;
+- g aux organismes d'utilité publique responsables de centres de prestations régionaux et nationaux dans le canton, pour autant que la présente ordonnance le prévoie expressément dans le cadre des domaines d'affectation;
+- h aux fédérations sportives nationales, pour autant que la présente ordonnance le prévoie expressément dans le cadre des domaines d'affectation.
 
 ### 4.3.2 Construction et remise en état d'infrastructures sportives
 
@@ -834,13 +906,15 @@ arrête:
 
 <sup>3</sup> Pour les unités administratives cantonales, le droit aux subventions se limite à l'affectation visée à l'alinéa 1, lettre b.
 
+<sup>4</sup> Pour les fédérations sportives intercantonales et nationales, le droit aux subventions se limite aux affectations visées à l'alinéa 1, lettre a, dans la mesure où les infrastructures sont mises à la disposition du sport populaire en particulier.
+
 #### Art. 72
 
 **Accessibilité au public et ampleur du subventionnement**
 
-<sup>1</sup> Les infrastructures sportives subventionnées par le Fonds du sport doivent être mises à la disposition du public et de tout groupe à but non lucratif, gratuitement ou tout au plus à un prix couvrant les frais.
+<sup>1</sup> Les infrastructures sportives subventionnées par le Fonds du sport doivent être mises à la disposition du public et de tout groupe à but non lucratif à des horaires appropriés et gratuitement, ou tout au plus à un prix couvrant les frais.
 
-<sup>2</sup> Les infrastructures sportives dont la construction est prévue par le droit public peuvent bénéficier de subventions du Fonds du sport dans la mesure où des associations ont la possibilité de les utiliser régulièrement au-delà du cadre de l'obligation légale.
+<sup>2</sup> Les infrastructures sportives dont la construction ou la remise en état est prévue par le droit public peuvent bénéficier de subventions du Fonds du sport dans la mesure où des clubs ont la possibilité de les utiliser régulièrement au-delà du cadre de l'obligation légale.
 
 <sup>3</sup> Sont déterminants les frais relatifs à la réalisation de parties d'infrastructures sportives servant directement à des buts sportifs.
 
@@ -848,19 +922,28 @@ arrête:
 
 **Calcul des subventions et contingentement des domaines visés à l'article 71, alinéa 1, lettres a et b**
 
-<sup>1</sup> Pour les domaines visés à l'article 71, alinéa 1, lettres a et b, le taux de subventionnement des frais imputables est calculé selon la formule figurant à l'annexe 2.
+<sup>1</sup> Pour les projets visés à l'article 71, alinéa 1, lettre a, le taux de subventionnement des frais imputables est calculé selon la formule figurant à l'annexe 2.
 
-<sup>2</sup> Le Conseil-exécutif peut fixer chaque année le total des subventions sur la base des recettes du Fonds du sport.
+<sup>1a</sup> Si les réserves du fonds sont suffisantes, il peut être augmenté
+
+- a jusqu'à dix pour cent au plus,
+- b pour les infrastructures sportives qui font partie de la conception des installations sportives d’importance cantonale (CISIC), jusqu'à 15 pour cent au plus.
+
+<sup>2</sup> Le Conseil-exécutif peut fixer chaque année le total des subventions octroyées en vertu de l'article 71, alinéa 1, lettre a sur la base des recettes du Fonds du sport.
 
 <sup>3</sup> Les subventions sont octroyées annuellement selon la date de réception des demandes dûment déposées, jusqu'à concurrence du total prévu à l'alinéa 2.
+
+<sup>4</sup> Les subventions octroyées pour des installations sportives mobiles en vertu de l'article 71, alinéa 1, lettre b sont plafonnées à 20 pour cent des frais imputables.
 
 #### Art. 74
 
 **Subventions pour les grands engins d'entretien**
 
-<sup>1</sup> Des subventions peuvent être octroyées pour les grands engins d'entretien servant à effectuer des préparatifs spécifiques et indispensables à la pratique du sport, à hauteur de dix pour cent au plus des frais imputables et de 10'000 francs au plus.
+<sup>1</sup> Des subventions peuvent être octroyées pour les grands engins d'entretien servant à effectuer des préparatifs spécifiques et indispensables à la pratique du sport, à hauteur de 20 pour cent au plus des frais imputables et de 50'000 francs au plus.
 
-<sup>2</sup> Les engins d'entretien donnant droit aux subventions sont les surfaceuses à glace et les dispositifs traceurs pour pistes de ski de fond.
+<sup>2</sup> …
+
+<sup>3</sup> Les appareils d'entretien et de nettoyage sont exclus du subventionnement.
 
 ### 4.3.3 Matériel sportif
 
@@ -868,9 +951,12 @@ arrête:
 
 **Principes**
 
-<sup>1</sup> Des subventions peuvent être octroyées aux associations, aux fédérations et aux communes du canton pour l'acquisition de matériel sportif mobile.
+<sup>1</sup> Des subventions peuvent être octroyées pour l'acquisition de matériel sportif mobile
 
-<sup>2</sup> Les communes mettent le matériel sportif à la disposition des associations et des fédérations, gratuitement et sans restriction.
+- a aux organisations visées à l'article 70, alinéa 1, lettres a à d,
+- b aux fédérations sportives nationales exploitant, dans le canton, une installation sportive à la disposition du sport populaire.
+
+<sup>2</sup> Les communes et les organisations qui exploitent une installation sportive mettent le matériel sportif à la disposition des clubs et des fédérations, gratuitement et sans restriction.
 
 #### Art. 76
 
@@ -890,7 +976,9 @@ arrête:
 
 <sup>2</sup> Les subventions ne peuvent pas être inférieures à 100 francs.
 
-### 4.3.4 Promotion des associations et des fédérations
+<sup>3</sup> Pour les fédérations sportives nationales, les subventions sont réduites de 50 pour cent.
+
+### 4.3.4 Promotion des clubs et des fédérations
 
 #### Art. 78
 
@@ -898,30 +986,47 @@ arrête:
 
 <sup>1</sup> Des subventions peuvent être octroyées pour les mesures de promotion du sport visant
 
-- a la relève dans le sport populaire,
+- a le soutien aux clubs dans le sport populaire, notamment la relève dans le sport populaire,
 - b la relève dans le sport de compétition,
 - c les cours,
 - d le soutien général aux fédérations (subventions aux fédérations),
 - e la participation à des compétitions sportives européennes.
 
+#### Art. 78a
+
+**Soutien aux clubs dans le sport populaire**
+
+<sup>1</sup> Les subventions octroyées par année civile pour le soutien général aux clubs dans le sport populaire peuvent s'élever
+
+- a à 1000 francs au plus par club,
+- b à un million de francs au plus au total.
+
+<sup>2</sup> Le Secrétariat général de la Direction de la sécurité fixe le montant possible des subventions sur la base de toutes les demandes reçues à l'échéance du délai.
+
 #### Art. 79
 
 **Relève dans le sport populaire**
 
-<sup>1</sup> Seules ont droit aux subventions pour la relève dans le sport populaire les associations sportives cantonales qui les affectent à l'organisation d'activités sportives destinées à des jeunes âgés de 5 à 20 ans et domiciliés dans le canton.
+<sup>1</sup> Seuls ont droit aux subventions les clubs sportifs cantonaux pour l'organisation d'activités sportives destinées à des jeunes âgés de 5 à 20 ans et domiciliés dans le canton.
 
-<sup>2</sup> Les moyens disponibles pour les subventions à la promotion de la relève dans le sport populaire sont plafonnés à deux millions de francs par année civile, dont
+<sup>2</sup> Le montant des subventions octroyées pour la relève dans le sport populaire est plafonné à deux millions de francs par année civile, dont
 
-- a 1,5 million de francs au moins sont prévus pour des subventions par personne,
-- b 500'000 francs au plus sont prévus pour des subventions supplémentaires aux associations.
+- a 1,5 million de francs au moins pour des subventions par personne,
+- b 500'000 francs au plus pour des mesures d'encouragement supplémentaires.
 
 <sup>3</sup> Le Secrétariat général de la Direction de la sécurité fixe le montant possible des subventions par personne jusqu'à concurrence de 50 francs sur la base de toutes les demandes reçues à l'échéance du délai.
+
+<sup>4</sup> Pour les camps de sport destinés aux jeunes,
+
+- a les moyens supplémentaires disponibles s'élèvent à 1500 francs au plus par camp et à 1,5 million de francs au total;
+- b le montant par camp peut être augmenté en cas de participation de personnes handicapées;
+- c le Secrétariat général de la Direction de la sécurité fixe le montant possible des subventions, sur la base de toutes les demandes reçues à l'échéance du délai.
 
 #### Art. 80
 
 **Relève dans le sport de compétition**
 
-<sup>1</sup> Des subventions visant la promotion de la relève dans le sport de compétition peuvent être octroyées pour la relève des cadres et les jeunes talents âgés de 5 à 20 ans et domiciliés dans le canton, jusqu'à concurrence de quatre millions de francs par année civile.
+<sup>1</sup> Des subventions visant la promotion de la relève dans le sport de compétition peuvent être octroyées pour la relève des cadres et les jeunes talents âgés de 5 à 20 ans et domiciliés dans le canton, jusqu'à concurrence de 4,5 millions de francs par année civile.
 
 <sup>1a</sup> Elles peuvent s'élever à 75 pour cent au plus des dépenses totales engagées par la requérante ou le requérant pour la promotion de la relève.
 
@@ -929,12 +1034,13 @@ arrête:
 
 - a aux fédérations sportives cantonales, pour la relève des cadres,
 - b aux fédérations sportives intercantonales, pour la relève des cadres domiciliés dans le canton,
-- c aux organismes d'utilité publique qui ont leur siège dans le canton et qui sont responsables de centres régionaux de prestations et de centres d'appui situés dans le canton.
+- c aux organismes d'utilité publique qui ont leur siège dans le canton et qui sont responsables de centres de prestations régionaux et nationaux et de centres d'appui situés dans le canton,
+- d aux fédérations sportives nationales, pour des centres de prestations nationaux et des centres d'appui situés dans le canton, à hauteur de la moitié du taux applicable.
 
 <sup>3</sup> Le Secrétariat général de la Direction de la sécurité
 
 - a classe les fédérations ayant déposé une demande à l'échéance du délai en se fondant sur des critères objectifs;
-- b définit une subvention forfaitaire de base et une part variable dépendant du classement prévu à la lettre a;
+- b définit une subvention forfaitaire de base et une part variable dépendant du classement prévu à la lettre a, le montant total par organisation ne pouvant pas dépasser 500'000 francs;
 - c fixe la subvention pour une durée à déterminer.
 
 #### Art. 81
@@ -945,6 +1051,8 @@ arrête:
 
 <sup>2</sup> Sont imputables au plus huit leçons quotidiennes de 60 minutes suivies par des personnes domiciliées dans le canton.
 
+<sup>2a</sup> Les mesures encourageant la participation active de personnes handicapées en tant que responsables d'entraînements ou de personnes exerçant une fonction dirigeante peuvent faire l'objet de subventions supplémentaires.
+
 <sup>3</sup> Les moyens disponibles pour les subventions aux cours sont plafonnés à 700'000 francs par année civile.
 
 #### Art. 82
@@ -953,8 +1061,8 @@ arrête:
 
 <sup>1</sup> Des subventions peuvent être octroyées
 
-- a aux fédérations cantonales, en guise de soutien pour les prestations fournies aux associations sportives bernoises et à leurs membres,
-- b aux fédérations intercantonales, de façon proportionnelle, pour autant que 25 pour cent au moins des associations membres aient leur siège dans le canton.
+- a aux fédérations cantonales, en guise de soutien pour les prestations fournies aux clubs sportifs bernois et à leurs membres,
+- b aux fédérations intercantonales, de façon proportionnelle, pour autant que 25 pour cent au moins des clubs membres aient leur siège dans le canton.
 
 <sup>2</sup> Le Secrétariat général de la Direction de la sécurité fixe le montant possible des subventions par fédération pour une durée à déterminer, sur la base de toutes les demandes reçues à l'échéance du délai et en se fondant sur des critères objectifs.
 
@@ -968,7 +1076,12 @@ arrête:
 
 <sup>2</sup> La sélection des participants et participantes a lieu à l'issue d'épreuves nationales ou internationales de qualification.
 
-<sup>3</sup> Sont imputables les frais de déplacement effectifs, à hauteur de 40 pour cent au plus, et les jours déterminés de participation à l'événement, à hauteur de 40 francs par jour et par sportif ou sportive.
+<sup>3</sup> La subvention comprend
+
+- a un montant de 50 francs par jour et par sportive ou sportif,
+- b une part des frais de déplacement.
+
+<sup>4</sup> Les coûts particuliers engendrés par la participation de sportives handicapées et sportifs handicapés peuvent faire l'objet de subventions supplémentaires.
 
 ### 4.3.5 Autres formes de promotion du sport
 
@@ -979,7 +1092,7 @@ arrête:
 <sup>1</sup> Des subventions peuvent être octroyées pour des mesures de promotion du sport dans les domaines suivants:
 
 - a compétitions sportives,
-- b manifestations de sport populaire,
+- b grandes manifestations de sport populaire,
 - c projets particuliers de promotion du sport.
 
 #### Art. 85
@@ -991,13 +1104,13 @@ arrête:
 - a dans le canton,
 - b dans d'autres cantons, à l'intention de sportifs et sportives bernois.
 
-<sup>2</sup> Les compétitions sportives organisées par des entités extérieures au canton et se déroulant dans le canton peuvent être subventionnées à hauteur de la moitié du taux applicable si des associations bernoises et des sportifs et sportives bernois y participent. La part des associations bernoises et des sportifs et sportives bernois doit s'élever à 25 pour cent au moins du nombre total de participants.
+<sup>2</sup> Les compétitions sportives organisées par des entités extérieures au canton et se déroulant dans le canton peuvent être subventionnées à hauteur de la moitié du taux applicable si des clubs bernois et des sportifs et sportives bernois y participent. La part des clubs bernois et des sportifs et sportives bernois doit s'élever à 25 pour cent au moins du nombre total de participants.
 
 #### Art. 86
 
 **Montant des subventions aux compétitions sportives**
 
-<sup>1</sup> Les subventions comprennent
+<sup>1</sup> Les subventions pour des compétitions sportives ne peuvent pas être inférieures à 100 francs et comprennent
 
 - a deux francs par sportif participant ou sportive participante,
 - b 20 pour cent des frais de compétition imputables.
@@ -1007,7 +1120,16 @@ arrête:
 - a aux prix en espèces,
 - b aux VIP et aux sponsors.
 
-<sup>3</sup> Les moyens disponibles par compétition sportive sont plafonnés à 10'000 francs.
+<sup>3</sup> Les moyens disponibles par compétition sportive sont plafonnés
+
+- a à 30'000 francs en règle générale,
+- b à 100'000 francs pour certaines compétitions, en particulier d'importance cantonale ou nationale,
+- c à 500'000 francs pour des championnats européens ou mondiaux ou des manifestations sportives spéciales destinées aux personnes handicapées,
+- d à un million de francs pour des fêtes fédérales.
+
+<sup>3a</sup> Le montant peut être augmenté de 20 pour cent au plus pour les compétitions sportives destinées aux personnes handicapées ou dans lesquelles leur participation est possible.
+
+<sup>3b</sup> Le Secrétariat général de la Direction de la sécurité établit et publie une liste des compétitions donnant droit aux subventions en vertu de l'alinéa 3, lettre b.
 
 <sup>4</sup> Dans le Jura bernois
 
@@ -1018,18 +1140,18 @@ arrête:
 
 **Demandes de subvention pour des compétitions sportives**
 
-<sup>1</sup> La demande doit être déposée auprès du Secrétariat général de la Direction de la sécurité avec les documents requis et définitifs au plus tard à la fin de l'année civile suivant la compétition sportive.
+<sup>1</sup> La demande de subvention pour une compétition sportive doit être déposée auprès du Secrétariat général de la Direction de la sécurité au plus tard 30 jours avant le début de la compétition concernée.
 
 #### Art. 88
 
 **Grandes manifestations de sport populaire**
 
-<sup>1</sup> Des subventions peuvent être octroyées pour les grandes manifestations de sport populaire qui
+<sup>1</sup> Des subventions peuvent être octroyées pour les grandes manifestations de sport populaire sans caractère de compétition qui
 
 - a sont organisées exclusivement par des entités cantonales bernoises et se déroulent dans le canton;
 - b s'étendent sur plusieurs cantons et ont lieu à 15 pour cent au moins dans le canton.
 
-<sup>2</sup> Elles sont plafonnées à 10'000 francs par manifestation et à 300'000 francs par an au total.
+<sup>2</sup> Elles sont plafonnées à 30'000 francs par manifestation.
 
 <sup>3</sup> Les subventions aux projets visés à l'alinéa 1, lettre b sont proportionnelles à la part du projet se déroulant dans le canton.
 
@@ -1037,12 +1159,14 @@ arrête:
 
 **Projets particuliers de promotion du sport**
 
-<sup>1</sup> Des subventions peuvent être octroyées, à titre de financement initial, pour des projets particuliers de promotion du sport, en particulier dans le domaine du sport populaire, s'ils sont uniques et revêtent une importance considérable pour le canton, jusqu'à concurrence de 500'000 francs par an.
+<sup>1</sup> Des subventions peuvent être octroyées, à titre de financement initial, pour des projets particuliers suprarégionaux de promotion du sport dans le canton, en particulier dans le domaine du sport populaire, jusqu'à concurrence de 500'000 francs par an.
 
-<sup>2</sup> Les conditions énumérées ci-après s'appliquent aux projets visés à l'alinéa 1 qui sont placés sous la responsabilité du canton:
+<sup>2</sup> Pour les projets visés à l'alinéa 1 qui sont placés sous la responsabilité du canton:
 
-- a ce dernier supporte un tiers au moins des frais;
-- b un projet au plus par an peut être soutenu.
+- a ce dernier supporte un tiers au moins des frais.
+- b …
+
+<sup>2a</sup> Des subventions peuvent être octroyées à des communes, une fois par an et jusqu'à concurrence de 10'000 francs, pour des nouvelles mesures d'encouragement du sport rendant une activité physique accessible facilement à une grande partie de la population.
 
 <sup>3</sup> La demande doit parvenir au Secrétariat général de la Direction de la sécurité avant le début du projet.
 
@@ -1192,6 +1316,22 @@ arrête:
 <sup>1</sup> Les demandes pendantes en première instance au moment de l'entrée en vigueur de la présente modification sont régies par le nouveau droit.
 
 <sup>2</sup> Les promesses de subvention accordées selon l'ancien droit restent valables.
+
+## T2 Dispositions transitoires de la modification du 04.03.2026
+
+#### Art. T2-1
+
+<sup>1</sup> Les demandes pendantes en première instance au moment de l'entrée en vigueur de la présente modification sont régies par le nouveau droit.
+
+<sup>2</sup> Les promesses de subvention accordées selon l'ancien droit restent valables.
+
+<sup>3</sup> Dans le domaine de la relève dans le sport de compétition, le délai pour le dépôt d'une première demande est le 31 juillet 2026 pour les organismes nouvellement subventionnables conformément à l'article 80, alinéa 2, lettres c et d.
+
+<sup>4</sup> Pour les compétitions sportives de 2026 visées à l'article 85, les demandes peuvent être déposées jusqu'à la fin de l'année 2026, en dérogation à l'article 87, alinéa 1.
+
+#### Art. T2-2
+
+<sup>1</sup> L'article 11, alinéa 3 est applicable à partir du 1<sup>er</sup> janvier 2027.
 
 Berne, le 2 décembre 2020
 

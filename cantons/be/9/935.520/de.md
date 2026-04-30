@@ -4,13 +4,12 @@ number: "935.520"
 title: Kantonale Geldspielverordnung
 short: KGSV
 language: de
-version: 2023-03-01
-valid_until: 2026-04-30
-version_adopted: 2023-01-11
+version: 2026-05-01
+version_adopted: 2026-03-04
 adopted: 2020-12-02
 in_force: 2021-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/935.520"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2801/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3481/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2801/pdf_file"
 
 (KGSV)
 
-vom 02.12.2020 (Stand 01.03.2023)
+vom 02.12.2020 (Stand 01.05.2026)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -49,12 +48,14 @@ beschliesst:
 
 <sup>1</sup> Kleinspiele können ausschliesslich von juristischen Personen durchgeführt werden, welche die Voraussetzungen der Geldspielgesetzgebung des Bundes erfüllen.
 
-<sup>2</sup> Die Veranstalterinnen und Veranstalter von Kleinlotterien und lokalen Sportwetten müssen zudem
+<sup>2</sup> Die Veranstalterinnen und Veranstalter von Kleinlotterien und lokalen Sportwetten
 
-- a ihren Sitz im Kanton haben,
-- b nach ihren Statuten gemeinnützige Zwecke verfolgen.
+- a müssen ihren Sitz in der Regel im Kanton haben,
+- b dürfen sich keiner wirtschaftlichen Aufgabe widmen.
 
 <sup>3</sup> Die Teilnahme an Kleinlotterien und lokalen Sportwetten darf nicht mit dem Verkauf von Eintrittskarten und dem Verkauf von Produkten oder Dienstleistungen verknüpft werden.
+
+<sup>4</sup> Dritte gemäss Artikel 6 Absatz 1 KGSG, die Kleinspiele durchführen, müssen ihren Sitz im Kanton haben.
 
 ### 2.2 Verfahren
 
@@ -110,7 +111,7 @@ beschliesst:
 
 **Gesuch**
 
-<sup>1</sup> Das Gesuch für die Ausgabe einer Kleinlotterie muss bis spätestens drei Monate vor dem vorgesehenen Beginn des Losverkaufs beim Generalsekretariat der Sicherheitsdirektion eingereicht werden.
+<sup>1</sup> Das Gesuch für die Ausgabe einer Kleinlotterie muss bis spätestens 30 Tage vor dem Beginn des Losverkaufs beim Generalsekretariat der Sicherheitsdirektion eingereicht werden.
 
 #### Art. 9
 
@@ -134,7 +135,9 @@ beschliesst:
 
 <sup>1</sup> Der Wert von Sachpreisen bemisst sich nach ihrem Marktwert.
 
-<sup>2</sup> Die Abgabe von Sachpreisen in Form von Gutscheinen darf nicht von Bedingungen und Auflagen abhängig gemacht werden.
+<sup>2</sup> Die Abgabe von Gutscheinen darf nicht von Bedingungen und Auflagen abhängig gemacht werden.
+
+<sup>3</sup> Werden Lottos oder Tombolas von Dritten gemäss Artikel 6 Absatz 1 KGSG durchgeführt, beträgt der Gewinnanteil für die Veranstalterinnen und Veranstalter mindestens 25 Prozent der Plansumme.
 
 #### Art. 12
 
@@ -142,7 +145,7 @@ beschliesst:
 
 <sup>1</sup> Die Teilnahme erfolgt durch den Kauf eines Loses.
 
-<sup>2</sup> Die Lose dürfen im ganzen Kantonsgebiet im Zeitraum ab Jahresbeginn bis zur Veranstaltung verkauft werden.
+<sup>2</sup> Die Lose dürfen im ganzen Kanton bis zur Veranstaltung verkauft werden.
 
 <sup>3</sup> Sie müssen gut sichtbar folgende Angaben enthalten:
 
@@ -181,9 +184,9 @@ beschliesst:
 
 **Abrechnung**
 
-<sup>1</sup> Spätestens drei Monate nach Ablauf der Einlösefrist ist der Bewilligungsbehörde eine Zwischenabrechnung über die Kleinlotterie zuzustellen.
+<sup>1</sup> Spätestens drei Monate nach Ablauf der Einlösefrist ist der Bewilligungsbehörde die Abrechnung über die Kleinlotterie zuzustellen.
 
-<sup>2</sup> Die Zwischenabrechnung enthält Angaben über
+<sup>2</sup> Die Abrechnung enthält Angaben über
 
 - a die Zahl der abgesetzten Lose und den Gesamterlös aus dem Losverkauf,
 - b die Durchführungskosten der Kleinlotterie,
@@ -191,7 +194,7 @@ beschliesst:
 - d den Reinertrag aus der Lotterie,
 - e die Verwendung des Reinertrags.
 
-<sup>3</sup> Spätestens ein Jahr nach der Veranstaltung ist der Bewilligungsbehörde die Schlussabrechnung der Veranstaltung zuzustellen.
+<sup>3</sup> …
 
 #### Art. 16
 
@@ -205,7 +208,7 @@ beschliesst:
 
 #### Art. 17
 
-<sup>1</sup> Tombolas und Lottos sind beim Generalsekretariat der Sicherheitsdirektion bis spätestens 30 Tage vor der Durchführung zu melden.
+<sup>1</sup> Lottos und Tombolas sind beim Generalsekretariat der Sicherheitsdirektion bis spätestens 30 Tage vor der Durchführung zu melden.
 
 <sup>2</sup> Die Meldung erfolgt mit dem amtlichen Formular und enthält mindestens
 
@@ -214,7 +217,12 @@ beschliesst:
 - c die maximale Summe aller Einsätze,
 - d den Gewinnplan.
 
-<sup>3</sup> Die Vorgaben gemäss Artikel 11 und 12 Absatz 1 sind zu beachten.
+<sup>2a</sup> Für Lottos und Tombolas gilt:
+
+- a Der Wert der Gewinne beträgt mindestens 50 Prozent der maximalen Summe aller Einsätze.
+- b Für einen einzelnen Einsatz beträgt der Höchstbetrag zehn Franken.
+
+<sup>3</sup> Die Bestimmungen gemäss Abschnitt 2.3 gelten sinngemäss, mit Ausnahme von Artikel 7, 10, 12 Absatz 3 sowie Artikel 16.
 
 ### 2.5 Lokale Sportwetten
 
@@ -257,8 +265,10 @@ beschliesst:
 <sup>1</sup> Bei der Durchführung von kleinen Pokerturnieren sind gut sichtbar am Spielort Informationen aufzulegen
 
 - a zu den Spiel- und Turnierregeln,
-- b zur Spielsuchtprävention und Beratungsangeboten,
+- b zur Spielsuchtprävention und zu den Beratungsangeboten,
 - c zur Bewilligung.
+
+<sup>2</sup> Die Ausschreibung von kleinen Pokerturnieren muss spätestens einen Monat vor der Durchführung auf öffentlich zugänglichen Plattformen publiziert werden.
 
 #### Art. 22
 
@@ -270,12 +280,7 @@ beschliesst:
 
 **Verfahren**
 
-<sup>1</sup> Das Gesuch um Durchführung eines kleinen Pokerturniers ist unter Beilage der erforderlichen Unterlagen beim Generalsekretariat der Sicherheitsdirektion zwei Monate im Voraus für eine gestaffelte dreimonatige Periode wie folgt einzureichen:
-
-- a per Ende Oktober für das erste Quartal (Januar bis März),
-- b per Ende Januar für das zweite Quartal (April bis Juni),
-- c per Ende April für das dritte Quartal (Juli bis September),
-- d per Ende Juli für das vierte Quartal (Oktober bis Dezember).
+<sup>1</sup> Das Gesuch um Durchführung eines kleinen Pokerturniers ist unter Beilage der erforderlichen Unterlagen beim Generalsekretariat der Sicherheitsdirektion zwei Monate im Voraus für eine höchstens sechsmonatige Periode einzureichen.
 
 <sup>2</sup> Das Generalsekretariat der Sicherheitsdirektion kann die kantonale Fachstelle im Bereich der Spielsuchtprävention beratend beiziehen.
 
@@ -321,9 +326,9 @@ beschliesst:
 <sup>1</sup> Von der Spielbankenabgabe werden zugewiesen
 
 - a der Standortgemeinde zehn Prozent,
-- b dem Fonds für Suchtprobleme gemäss Artikel 70 des Gesetzes vom 11. Juni 2001 über die öffentliche Sozialhilfe (Sozialhilfegesetz, SHG)[^28-1] fünf Prozent.
+- b dem Fonds für Suchtprobleme gemäss Artikel 34 des Gesetzes vom 9. März 2021 über die sozialen Leistungsangebote (SLG)[^28-1] fünf Prozent.
 
-[^28-1]: BSG [860.1](https://www.belex.sites.be.ch/data/860.1/de)
+[^28-1]: BSG [860.2](https://www.belex.sites.be.ch/data/860.2/de)
 
 ## 4 Mittelverwendung im Lotterie- und im Sportfonds
 
@@ -353,7 +358,8 @@ beschliesst:
 - a Vereins- und Verbandsförderung,
 - b Sportwettkämpfe und sportliche Grossveranstaltungen im Breitensport,
 - c Veranstaltungen im Bereich der Volkskultur gemäss Artikel 46 Absatz 1 Buchstabe b,
-- d Pro-Kopf-Beiträge in den Zuwendungsbereichen Gesellschaft und Kultur, Beitragskategorie Volkskultur.
+- d Pro-Kopf-Beiträge in den Zuwendungsbereichen Gesellschaft und Kultur, Beitragskategorie Volkskultur,
+- e Lagerbeiträge im Zuwendungsbereich Gesellschaft, Beitragskategorie Inklusion gemäss Artikel 63a Absatz 3.
 
 #### Art. 31
 
@@ -460,13 +466,15 @@ beschliesst:
 
 <sup>1</sup> Teilzahlungen sind auf der Basis von Rechnungen bis zu 80 Prozent des Gesamtbeitrags möglich, wenn die Gesamtfinanzierung gesichert ist.
 
+<sup>1a</sup> Davon ausgenommen ist der Zuwendungsbereich der wiederkehrenden Beiträge für Erhalt und Pflege von herausragenden Baudenkmälern.
+
 <sup>2</sup> Vorbehalten bleiben die besonderen Bestimmungen im Zuwendungsbereich der Entwicklungszusammenarbeit.
 
 #### Art. 43
 
 **Verjährung**
 
-<sup>1</sup> Eine Beitragszusicherung verjährt vier Jahre nach der Zusicherung.
+<sup>1</sup> Eine Beitragszusicherung verjährt vier Jahre nach der Zusicherung, sofern die zuständige Stelle aufgrund der besonderen Umstände keine längere Frist verfügt.
 
 <sup>2</sup> Auf begründetes Gesuch hin kann das Generalsekretariat der Sicherheitsdirektion die Frist gemäss Absatz 1 einmal um höchstens zwei Jahre verlängern.
 
@@ -485,6 +493,7 @@ beschliesst:
 - a gewinnorientierte und kommerzielle Vorhaben,
 - b Repräsentationsanlässe und Gastauftritte,
 - c Kongresse, Tagungen, Seminare, Messen und Workshops,
+- c1 Fundraisingaktivitäten,
 - d reine Unterhaltungsanlässe,
 - e Forschungsprojekte, Studien namentlich Abschlussarbeiten in Zusammenhang mit Ausbildungen und wissenschaftlichen Publikationen,
 - f Fahrzeuge, mit Ausnahme von mobilen technischen Denkmälern.
@@ -497,9 +506,15 @@ beschliesst:
 
 <sup>2</sup> Die Beitragssätze an die anrechenbaren Kosten berechnen sich nach der im Anhang 1 aufgeführten Formel.
 
+<sup>2a</sup> Sie können um bis zu zehn Prozent erhöht werden, wenn hinreichende Fondsreserven bestehen.
+
 <sup>3</sup> Für einzelne Gattungen von Kleinvorhaben können fixe Beitragssätze angewendet werden.
 
-<sup>4</sup> Für besondere bauliche Vorhaben kann im Einzelfall und höchstens einmal im Jahr ein Beitrag von bis zu zehn Millionen Franken gewährt werden.
+<sup>3a</sup> Der Regierungsrat kann die Summe der Beiträge jährlich aufgrund der Einnahmen des Lotteriefonds, die nach den Speisungen gemäss Artikel 40 Absatz 3 KGSG verbleiben, festlegen.
+
+<sup>3b</sup> Die Beiträge für vollständig eingereichte Gesuche werden jährlich nach dem Datum ihres Eingangs bis zum Erreichen der Summe gemäss Absatz 3a gewährt.
+
+<sup>4</sup> Für besondere bauliche Vorhaben kann im Einzelfall ein Beitrag von bis zu 10 Millionen Franken gewährt werden, wobei die Beiträge innerhalb von vier Jahren die Summe von 40 Millionen Franken nicht übersteigen dürfen.
 
 ### 4.2.2 Kultur
 
@@ -510,7 +525,8 @@ beschliesst:
 <sup>1</sup> Beiträge können namentlich ausgerichtet werden an
 
 - a durch Vereine gelebte schweizerische Volkskultur insbesondere der Blas- und Blechmusik, des Jodelns und der Trachten,
-- b durch sie durchgeführte Veranstaltungen von mindestens regionaler Bedeutung.
+- b durch sie durchgeführte Veranstaltungen von mindestens regionaler Bedeutung,
+- c die bernischen Verbände, die sich in der Grundlagenarbeit zugunsten des Erhalts des Kunsthandwerks engagieren.
 
 <sup>2</sup> Sie sind von den Unterstützungsleistungen gemäss der kantonalen Kulturförderungsgesetzgebung abzugrenzen.
 
@@ -520,7 +536,7 @@ beschliesst:
 
 <sup>1</sup> Im Bereich der Volkskultur gemäss Artikel 46 Absatz 1 Buchstabe a engagierten Vereinen können Pro-Kopf-Beiträge bis höchstens 50 Franken gewährt werden.
 
-<sup>2</sup> Für Beiträge gemäss Absatz 1 stehen jährlich höchstens eine Million Franken zur Verfügung.
+<sup>2</sup> Für Beiträge gemäss Absatz 1 stehen jährlich höchstens 1,5 Millionen Franken zur Verfügung.
 
 <sup>3</sup> Das Generalsekretariat der Sicherheitsdirektion legt nach Eingang aller Gesuche per Stichtag die möglichen Pro-Kopf-Beiträge fest.
 
@@ -530,7 +546,13 @@ beschliesst:
 
 <sup>1</sup> An die Anschaffung von vereinseigenen Uniformen, Trachten und Instrumenten können Beiträge von nicht unter 100 Franken gewährt werden.
 
-<sup>2</sup> Für Veranstaltungen gemäss Artikel 46 Absatz 1 Buchstabe b können Beiträge bis höchstens 50’000 Franken pro Veranstaltung ausgerichtet werden.
+<sup>2</sup> Für Veranstaltungen gemäss Artikel 46 Absatz 1 Buchstabe b können höchstens 20 Prozent der anrechenbaren Kosten ausgerichtet werden, höchstens jedoch pro Veranstaltung
+
+- a 50’000 Franken bei regionaler Bedeutung,
+- b 500'000 Franken bei kantonaler Bedeutung,
+- c eine Million Franken bei nationaler oder internationaler Bedeutung.
+
+<sup>3</sup> Für die Unterstützung gemäss Artikel 46 Absatz 1 Buchstabe c können pro Mitgliedverein bis höchstens 50 Franken gewährt werden.
 
 ### 4.2.3 Denkmalpflege
 
@@ -580,7 +602,9 @@ beschliesst:
 
 **Beitragsgrenze**
 
-<sup>1</sup> Für Beiträge im Bereich der Denkmalpflege und des Heimatschutzes können höchstens zehn Millionen Franken gemessen am Durchschnitt einer Vierjahresperiode eingesetzt werden.
+<sup>1</sup> Für Beiträge im Bereich der Denkmalpflege und des Heimatschutzes können höchstens 7,5 Millionen Franken gemessen am Durchschnitt einer Vierjahresperiode eingesetzt werden.
+
+<sup>1a</sup> Ausgenommen sind Beiträge an herausragende Baudenkmäler im Rahmen von wiederkehrenden Beiträgen gemäss Artikel 60 ff. KGSG.
 
 <sup>2</sup> Das Generalsekretariat der Sicherheitsdirektion und das Amt für Kultur ziehen spätestens zur Hälfte der Vierjahresperiode eine Zwischenbilanz und ergreifen die erforderlichen Massnahmen.
 
@@ -593,7 +617,7 @@ beschliesst:
 
 #### Art. 54
 
-<sup>1</sup> Beiträge können an Projekte und Vorhaben des Natur- und Umweltschutzes gewährt werden, insbesondere
+<sup>1</sup> Beiträge können an in der Regel fachlich begleitete Projekte und Vorhaben des Natur- und Umweltschutzes gewährt werden, insbesondere
 
 - a zur Förderung der Biodiversität,
 - b zum Erhalt der natürlichen Lebensräume,
@@ -604,6 +628,8 @@ beschliesst:
 - a Lärmschutz,
 - b Luft-, Wasser- und Umweltverschmutzung,
 - c Lichtverschmutzung.
+
+<sup>2a</sup> Für neue Vorhaben gemäss Absatz 1 Buchstabe b und c sind einmalig Projektbeträge bis höchstens 20 Prozent der relevanten Kosten möglich, höchstens jedoch bis 20'000 Franken. Es werden keine Beiträge unter 500 Franken gewährt.
 
 <sup>3</sup> Beiträge an Veranstaltungen sind bis höchstens 30 Prozent der anrechenbaren Kosten möglich, höchstens jedoch bis 500'000 Franken pro Veranstaltung.
 
@@ -682,6 +708,23 @@ beschliesst:
 
 <sup>2</sup> Nicht verwendete Beiträge können nicht auf andere Projekte übertragen werden und sind dem Lotteriefonds zurückzuerstatten.
 
+#### Art. 60a
+
+**Humanitäre Entminung**
+
+<sup>1</sup> Beiträge können an ZEWO-zertifizierte Organisationen mit Sitz im Kanton zur Herstellung von Entminungsgeräten für konkrete humanitäre Entminungsprojekte gewährt werden, die nicht bereits mit einem Beitrag gemäss Artikel 55 ff. unterstützt werden.
+
+<sup>2</sup> Beiträge sind bis höchstens 30 Prozent der anrechenbaren Kosten möglich, höchstens jedoch
+
+- a 200'000 Franken pro Entminungsgerät,
+- b eine Million Franken insgesamt pro Jahr.
+
+<sup>3</sup> Die Auszahlung erfolgt
+
+- a zu 40 Prozent nach der Beschlussfassung,
+- b zu 40 Prozent mit Zwischenabrechnung nach Fertigstellung des Entminungsgeräts,
+- c zu 20 Prozent mit Schlussabrechnung nach Inbetriebnahme.
+
 #### Art. 61
 
 **Katastrophenhilfe**
@@ -709,11 +752,13 @@ beschliesst:
 
 <sup>3</sup> Beiträge an Veranstaltungen sind bis 30 Prozent der anrechenbaren Kosten möglich, höchstens jedoch bis 500'000 Franken pro Veranstaltung.
 
+<sup>4</sup> Zur Förderung des gesellschaftlichen Zusammenhalts können für neue Vorhaben einmalig Projektbeiträge bis höchstens 20 Prozent der relevanten Kosten, höchstens jedoch 20'000 Franken gewährt werden. Es werden keine Beiträge unter 500 Franken gewährt.
+
 #### Art. 63
 
 **Pro-Kopf-Beiträge an Jugendorganisationen**
 
-<sup>1</sup> Pro-Kopf-Beiträge bis höchstens 50 Franken können für jugendliche Mitglieder im Alter von 5 bis 20 Jahren mit Wohnsitz im Kanton an aktive Jugendvereine und -verbände gewährt werden, die
+<sup>1</sup> Pro-Kopf-Beiträge bis höchstens 70 Franken können für jugendliche Mitglieder im Alter von 5 bis 20 Jahren mit Wohnsitz im Kanton an aktive Jugendvereine und -verbände gewährt werden, die
 
 - a kantonal organisiert sind,
 - b grundsätzlich allen Kindern und Jugendlichen offenstehen,
@@ -724,6 +769,27 @@ beschliesst:
 <sup>2</sup> Für Beiträge gemäss Absatz 1 stehen jährlich höchstens 500‘000 Franken zur Verfügung.
 
 <sup>3</sup> Gesuche sind bis zum Stichtag gemäss Anhang 3 beim Generalsekretariat der Sicherheitsdirektion einzureichen, das nach Eingang aller Gesuche per Stichtag die möglichen Pro-Kopf-Beiträge festlegt.
+
+#### Art. 63a
+
+**Inklusion**
+
+<sup>1</sup> Beiträge können ausgerichtet werden zur Förderung der öffentlichen und aktiven Teilhabe am gesellschaftlichen Leben von Menschen mit Behinderungen für
+
+- a langfristig wirksame Vorhaben,
+- b Lager.
+
+<sup>2</sup> Beiträge für langfristig wirksame Vorhaben können jährlich ausgerichtet werden
+
+- a pro Organisation bis höchstens 250'000 Franken für bis zu zwei Vorhaben,
+- b gesamthaft bis höchstens 1,5 Millionen Franken.
+
+<sup>3</sup> Beiträge für Lager können jährlich ausgerichtet werden
+
+- a bis höchstens 200 Franken pro Person mit Behinderung und Tag,
+- b gesamthaft bis höchstens 500'000 Franken.
+
+<sup>4</sup> Gesuche um Beiträge sind bis zum Stichtag gemäss Anhang 3 beim Generalsekretariat der Sicherheitsdirektion einzureichen, das nach Eingang aller Gesuche per Stichtag die möglichen Beiträge festlegt.
 
 ### 4.2.7 Gemeinnützige Grossprojekte mit erheblicher Bedeutung für den Kanton
 
@@ -762,6 +828,8 @@ beschliesst:
 - b in baulicher Hinsicht namentlich in der dem Objekt zukommenden architekturhistorischen Bedeutung innerhalb einer Stilepoche,
 - c im Quervergleich mit den bernischen Objekten des Schweizerischen Inventars der Kulturgüter von nationaler Bedeutung derselben Baugattung,
 - d in der besonderen Wahrnehmung im Orts- oder Landschaftsbild.
+
+<sup>1a</sup> Ein Beitrag setzt voraus, dass das Kerngebäude, das alle Bedingungen gemäss Absatz 1 erfüllt, Teil des Gesuchs bildet und im Eigentum der Gesuchstellerin oder des Gesuchstellers steht.
 
 <sup>2</sup> Das Generalsekretariat der Sicherheitsdirektion hört die kantonale Denkmalpflege bei der Beurteilung der Kriterien gemäss Artikel 61 KGSG und Absatz 1 Buchstabe a bis d an.
 
@@ -811,12 +879,16 @@ beschliesst:
 
 <sup>1</sup> Beiträge können unter Beachtung der Voraussetzungen gemäss Artikel 26 ff. KGSG gewährt werden an
 
-- a kantonale Sportverbände und Sportvereine mit Sitz im Kanton sowie an deren Mitglieder mit Wohnsitz im Kanton,
-- b weitere kantonalbernische gemeinnützige Organisationen, die den Sport im Kanton unterstützen,
-- c interkantonale Sportverbände, soweit diese Verordnung dies bei den einzelnen Zuwendungsbereichen explizit vorsieht,
+- a kantonale Sportverbände und Sportvereine mit Sitz im Kanton,
+- b weitere kantonalbernische gemeinnützige Organisationen, die den Sport im Kanton unterstützen oder eine Sportanlage im Kanton betreiben,
+- c interkantonale Sportverbände,
+  - 1\. sofern mindestens 25 Prozent der Mitgliedervereine Sitz im Kanton haben,
+  - 2\. soweit diese Verordnung dies bei den einzelnen Zuwendungsbereichen explizit vorsieht,
 - d Gemeinden im Kanton, soweit diese Verordnung dies bei den einzelnen Zuwendungsbereichen explizit vorsieht,
 - e kantonale Organisationseinheiten, soweit diese Verordnung dies bei den einzelnen Zuwendungsbereichen explizit vorsieht,
-- f ausserkantonale Veranstalterinnen und Veranstalter von im Kanton durchgeführten Sportwettkämpfen.
+- f ausserkantonale Veranstalterinnen und Veranstalter von im Kanton durchgeführten Sportwettkämpfen,
+- g gemeinnützige Trägerschaften von regionalen und nationalen Leistungszentren im Kanton, soweit diese Verordnung dies bei den einzelnen Zuwendungsbereichen explizit vorsieht,
+- h nationale Sportverbände, soweit diese Verordnung dies bei den einzelnen Zuwendungsbereichen explizit vorsieht.
 
 ### 4.3.2 Bau und Instandsetzung von Sportbauten und Sportanlagen
 
@@ -834,13 +906,15 @@ beschliesst:
 
 <sup>3</sup> Kantonale Organisationseinheiten sind nur im Bereich von Absatz 1 Buchstabe b beitragsberechtigt.
 
+<sup>4</sup> Interkantonale und nationale Sportverbände sind nur im Bereich von Absatz 1 Buchstabe a beitragsberechtigt, sofern die Anlagen insbesondere dem Breitensport zur Verfügung stehen.
+
 #### Art. 72
 
 **Öffentliche Zugänglichkeit und Umfang der Unterstützung**
 
-<sup>1</sup> Die durch den Sportfonds mitfinanzierten Sportbauten und Sportanlagen sind der Öffentlichkeit und allen nicht gewinnorientierten Benutzergruppen unentgeltlich oder zu höchstens kostendeckenden Preisen zur Verfügung zu stellen.
+<sup>1</sup> Die durch den Sportfonds mitfinanzierten Sportbauten und Sportanlagen sind der Öffentlichkeit und allen nicht gewinnorientierten Benutzergruppen mit angemessenen Öffnungszeiten unentgeltlich oder zu höchstens kostendeckenden Preisen zur Verfügung zu stellen.
 
-<sup>2</sup> Bei Sportbauten und Sportanlagen, die aufgrund einer öffentlich-rechtlichen Verpflichtung zu erstellen sind, können die über die gesetzliche Verpflichtung hinausgehenden, regelmässigen Nutzungsmöglichkeiten für Vereine durch den Sportfonds mitunterstützt werden.
+<sup>2</sup> Bei Sportbauten und Sportanlagen, die aufgrund einer öffentlich-rechtlichen Verpflichtung zu erstellen oder instand zu stellen sind, können die über die gesetzliche Verpflichtung hinausgehenden, regelmässigen Nutzungsmöglichkeiten für Vereine durch den Sportfonds mitunterstützt werden.
 
 <sup>3</sup> Anrechenbar sind die Kosten, die im Zusammenhang mit der Erstellung von unmittelbar sportlichen Zwecken dienenden Sportbauten- und Sportanlageteilen entstehen.
 
@@ -848,19 +922,28 @@ beschliesst:
 
 **Beitragsbemessung und Kontingentierung der Bereiche gemäss Artikel 71 Absatz 1 Buchstabe a und b**
 
-<sup>1</sup> Die Beitragssätze an die anrechenbaren Kosten für die Bereiche gemäss Artikel 71 Absatz 1 Buchstabe a und b berechnen sich nach der im Anhang 2 aufgeführten Formel.
+<sup>1</sup> Die Beitragssätze an die anrechenbaren Kosten für Vorhaben gemäss Artikel 71 Absatz 1 Buchstabe a berechnen sich nach der im Anhang 2 aufgeführten Formel.
 
-<sup>2</sup> Der Regierungsrat kann die Summe der Beiträge jährlich aufgrund der Einnahmen des Sportfonds festlegen.
+<sup>1a</sup> Sie können bei hinreichenden Fondsreserven erhöht werden,
+
+- a bis höchstens 10 Prozent,
+- b für im kantonalen Sportanlagekonzept (KASAK) aufgenommene Sportanlagen bis höchsten 15 Prozent.
+
+<sup>2</sup> Der Regierungsrat kann die Summe der Beiträge gemäss Artikel 71 Absatz 1 Buchstabe a jährlich aufgrund der Einnahmen des Sportfonds festlegen.
 
 <sup>3</sup> Die Beiträge für vollständig eingereichte Gesuche werden jährlich nach dem Datum ihres Eingangs bis zum Erreichen der Summe gemäss Absatz 2 gewährt.
+
+<sup>4</sup> Beiträge an mobile Sportanlagen gemäss Artikel 71 Absatz 1 Buchstabe b sind bis höchstens 20 Prozent der anrechenbaren Kosten möglich.
 
 #### Art. 74
 
 **Beiträge für grosse Unterhaltsgeräte**
 
-<sup>1</sup> Beiträge an die Anschaffung grosser Unterhaltsgeräte, die eine für die Sportausübung spezifische und zwingend notwendige Vorarbeit leisten, können in der Höhe von bis zu zehn Prozent der anrechenbaren Kosten und höchstens 10‘000 Franken ausgerichtet werden.
+<sup>1</sup> Beiträge an die Anschaffung grosser Unterhaltsgeräte, die eine für die Sportausübung spezifische und zwingend notwendige Vorarbeit leisten, können in der Höhe von bis zu 20 Prozent der anrechenbaren Kosten und höchstens 50‘000 Franken ausgerichtet werden.
 
-<sup>2</sup> Die beitragsberechtigten Unterhaltsgeräte sind Eisaufbereitungsmaschinen und Loipenspurgeräte.
+<sup>2</sup> …
+
+<sup>3</sup> Ausgeschlossen sind Beiträge an Pflege- und Reinigungsgeräte.
 
 ### 4.3.3 Sportmaterial
 
@@ -868,9 +951,12 @@ beschliesst:
 
 **Grundsätze**
 
-<sup>1</sup> Beiträge können für die Anschaffung von mobilem Sportmaterial von kantonalbernischen Vereinen, Verbänden und Gemeinden gewährt werden.
+<sup>1</sup> Beiträge können gewährt werden für die Anschaffung von mobilem Sportmaterial von
 
-<sup>2</sup> Gemeinden haben das Sportmaterial Vereinen und Verbänden unentgeltlich und uneingeschränkt zur Verfügung zu stellen.
+- a Organisationen gemäss Artikel 70 Absatz 1 Buchstabe a bis d,
+- b nationalen Sportverbänden, die eine dem Breitensport zur Verfügung stehende Sportanlage im Kanton betreiben.
+
+<sup>2</sup> Gemeinden und Organisationen, die eine Sportanlage betreiben, haben das Sportmaterial Vereinen und Verbänden unentgeltlich und uneingeschränkt zur Verfügung zu stellen.
 
 #### Art. 76
 
@@ -890,6 +976,8 @@ beschliesst:
 
 <sup>2</sup> Es werden keine Beiträge unter 100 Franken ausgerichtet.
 
+<sup>3</sup> Beiträge für nationale Sportverbände werden um 50 Prozent gekürzt.
+
 ### 4.3.4 Vereins- und Verbandsförderung
 
 #### Art. 78
@@ -898,30 +986,47 @@ beschliesst:
 
 <sup>1</sup> Beiträge können gewährt werden für Massnahmen der Sportförderung in den Bereichen
 
-- a Nachwuchs-Breitensport,
+- a Vereinsförderung Breitensport, darunter Nachwuchs-Breitensport,
 - b Nachwuchs-Leistungssport,
 - c Kurswesen,
 - d allgemeine Verbandsförderung (Verbandsbeiträge),
 - e Teilnahme an europäischen Sportwettkämpfen.
 
+#### Art. 78a
+
+**Vereinsförderung Breitensport**
+
+<sup>1</sup> Für die allgemeine Vereinsförderung im Breitensport kann pro Kalenderjahr gewährt werden
+
+- a pro Verein bis höchstens 1000 Franken,
+- b gesamthaft höchstens eine Million Franken.
+
+<sup>2</sup> Das Generalsekretariat der Sicherheitsdirektion legt nach Eingang aller Gesuche per Stichtag die möglichen Beiträge fest.
+
 #### Art. 79
 
 **Nachwuchs-Breitensport**
 
-<sup>1</sup> Beitragsberechtigt sind ausschliesslich kantonalbernische Sportvereine, die Nachwuchsförderbeiträge im Breitensport für sportliche Aktivitäten von Jugendlichen zwischen 5 und 20 Jahren mit Wohnsitz im Kanton einsetzen.
+<sup>1</sup> Beitragsberechtigt sind ausschliesslich kantonalbernische Sportvereine für sportliche Aktivitäten von Jugendlichen zwischen 5 und 20 Jahren mit Wohnsitz im Kanton.
 
-<sup>2</sup> Für Nachwuchsförderbeiträge im Breitensport können pro Kalenderjahr höchstens zwei Millionen Franken gewährt werden, davon
+<sup>2</sup> Für den Nachwuchs-Breitensport können pro Kalenderjahr höchstens zwei Millionen Franken gewährt werden, davon
 
 - a mindestens 1,5 Millionen Franken als Pro-Kopf-Beiträge,
-- b höchstens 500‘000 Franken als zusätzliche Vereinsbeiträge.
+- b höchstens 500‘000 Franken für zusätzliche Fördermassnahmen.
 
-<sup>3</sup> Das Generalsekretariat der Sicherheitsdirektion legt nach Eingang aller Gesuche per Stichtag die möglichen Beiträge pro Kopf bis höchstens 50 Franken fest.
+<sup>3</sup> Das Generalsekretariat der Sicherheitsdirektion legt nach Eingang aller Gesuche per Stichtag die möglichen Pro-Kopf-Beiträge bis höchstens 50 Franken fest.
+
+<sup>4</sup> Für Jugendsportlager
+
+- a stehen zusätzlich bis höchstens 1500 Franken pro Lager sowie insgesamt 1,5 Millionen Franken zur Verfügung,
+- b kann der Betrag pro Lager für die Teilnahme von Menschen mit Behinderungen erhöht werden,
+- c legt das Generalsekretariat der Sicherheitsdirektion nach Eingang aller Gesuche per Stichtag die möglichen Beiträge fest.
 
 #### Art. 80
 
 **Nachwuchs-Leistungssport**
 
-<sup>1</sup> Für Nachwuchsförderbeiträge im Leistungssport können für die Unterstützung von Kadernachwuchs oder Talenten zwischen 5 und 20 Jahren mit Wohnsitz im Kanton pro Kalenderjahr höchstens vier Millionen Franken gewährt werden.
+<sup>1</sup> Für Nachwuchsförderbeiträge im Leistungssport können für die Unterstützung von Kadernachwuchs oder Talenten zwischen 5 und 20 Jahren mit Wohnsitz im Kanton pro Kalenderjahr höchstens 4,5 Millionen Franken gewährt werden.
 
 <sup>1a</sup> Die Beiträge können höchstens 75 Prozent der Gesamtausgaben der Gesuchstellerin oder des Gesuchstellers zur Nachwuchsförderung ausmachen.
 
@@ -929,12 +1034,13 @@ beschliesst:
 
 - a kantonale Sportverbände für den Kadernachwuchs,
 - b interkantonale Sportverbände für den Kadernachwuchs mit Wohnsitz im Kanton,
-- c gemeinnützige Trägerschaften mit Sitz im Kanton von regionalen Leistungszentren und Stützpunkten im Kanton.
+- c gemeinnützige Trägerschaften mit Sitz im Kanton von regionalen und nationalen Leistungszentren und Stützpunkten im Kanton,
+- d nationale Sportverbände für nationale Leistungszentren und Stützpunkte im Kanton zum hälftigen Ansatz.
 
 <sup>3</sup> Das Generalsekretariat der Sicherheitsdirektion
 
 - a stuft nach Eingang der Gesuche per Stichtag die gesuchstellenden Verbände gestützt auf objektive Kriterien ein,
-- b bestimmt einen pauschalen Grundbeitrag und gestützt auf die Einstufung gemäss Buchstabe a einen variablen Teil,
+- b bestimmt einen pauschalen Grundbeitrag und gestützt auf die Einstufung gemäss Buchstabe a einen variablen Teil, pro Organisation insgesamt bis höchstens 500'000 Franken,
 - c legt den Beitrag für eine zu bestimmende Dauer fest.
 
 #### Art. 81
@@ -944,6 +1050,8 @@ beschliesst:
 <sup>1</sup> Beiträge an das Kurswesen können nach dem vom Generalsekretariat der Sicherheitsdirektion festgelegten Beitragssatz für Aus- und Weiterbildungen für Trainerinnen und Trainer sowie Funktionärinnen und Funktionäre gewährt werden, die kantonale oder interkantonale Sportverbände ausschreiben, organisieren und abrechnen.
 
 <sup>2</sup> Pro Tag können höchstens acht Kurslektionen à 60 Minuten abgerechnet werden für Teilnehmerinnen und Teilnehmer mit Wohnsitz im Kanton.
+
+<sup>2a</sup> Massnahmen, welche die aktive Teilhabe von Trainerinnen und Trainern sowie Funktionärinnen und Funktionären mit Behinderungen fördern, können zusätzlich unterstützt werden.
 
 <sup>3</sup> Für die Beitragskategorie können pro Kalenderjahr höchstens 700’000 Franken eingesetzt werden.
 
@@ -968,7 +1076,12 @@ beschliesst:
 
 <sup>2</sup> Die Selektion für die Teilnahme erfolgt über eine nationale oder internationale Qualifikation.
 
-<sup>3</sup> Anrechenbar sind die effektiven Reisekosten bis höchstens 40 Prozent sowie die bestimmten Wettkampftage mit einem Tagessatz von 40 Franken pro Sportlerin oder Sportler.
+<sup>3</sup> Der Beitrag setzt sich zusammen aus
+
+- a einem Tagessatz von 50 Franken pro Sportlerin oder Sportler,
+- b einem Anteil der Reisekosten.
+
+<sup>4</sup> Besondere Kosten für die Teilnahme von Sportlerinnen und Sportlern mit Behinderungen können zusätzlich berücksichtigt werden.
 
 ### 4.3.5 Übrige Sportförderung
 
@@ -979,7 +1092,7 @@ beschliesst:
 <sup>1</sup> Beiträge können gewährt werden an Massnahmen der Sportförderung in den Bereichen
 
 - a Sportwettkämpfe,
-- b sportliche Veranstaltungen für den Breitensport,
+- b sportliche Grossveranstaltungen für den Breitensport,
 - c besondere Projekte zur Förderung des Sports.
 
 #### Art. 85
@@ -997,7 +1110,7 @@ beschliesst:
 
 **Höhe der Beiträge für Sportwettkämpfe**
 
-<sup>1</sup> Beiträge setzen sich zusammen aus
+<sup>1</sup> Beiträge für Sportwettkämpfe werden nicht unter 100 Franken ausgerichtet und setzen sich zusammen aus
 
 - a zwei Franken pro teilnehmender Sportlerin oder teilnehmendem Sportler,
 - b 20 Prozent der anrechenbaren Wettkampfkosten.
@@ -1007,7 +1120,16 @@ beschliesst:
 - a Preisgelder,
 - b Ausgaben im Bereich VIP und Sponsoren.
 
-<sup>3</sup> Pro Sportwettkampf werden höchstens 10’000 Franken ausgerichtet.
+<sup>3</sup> Pro Sportwettkampf werden ausgerichtet
+
+- a in der Regel bis höchstens 30’000 Franken,
+- b bis höchstens 100'000 Franken für ausgewählte Wettkämpfe insbesondere von kantonaler oder nationaler Bedeutung,
+- c bis höchstens 500'000 Franken, wenn es sich um Europa- oder Weltmeisterschaften oder besondere Sportanlässe für Menschen mit Behinderungen handelt,
+- d bis höchstens eine Million Franken, wenn es sich um eidgenössische Feste handelt.
+
+<sup>3a</sup> Der Betrag kann um bis höchstens 20 Prozent erhöht werden, wenn es sich um Sportwettkämpfe für Menschen mit Behinderungen handelt oder ihre Teilnahme an Sportwettkämpfen ermöglicht wird.
+
+<sup>3b</sup> Das Generalsekretariat der Sicherheitsdirektion führt eine Liste der gemäss Absatz 3 Buchstabe b beitragsberechtigten Wettkämpfe und macht sie öffentlich zugänglich.
 
 <sup>4</sup> Im Berner Jura
 
@@ -1018,18 +1140,18 @@ beschliesst:
 
 **Gesuche für Beiträge für Sportwettkämpfe**
 
-<sup>1</sup> Gesuche sind spätestens bis Ende des folgenden Kalenderjahres nach der Durchführung mit den erforderlichen und definitiven Unterlagen beim Generalsekretariat der Sicherheitsdirektion einzureichen.
+<sup>1</sup> Gesuche für Beiträge für Sportwettkämpfe sind bis spätestens 30 Tage vor Wettkampfbeginn beim Generalsekretariat der Sicherheitsdirektion einzureichen.
 
 #### Art. 88
 
 **Sportliche Grossveranstaltungen des Breitensports**
 
-<sup>1</sup> Beiträge können für die Durchführung von sportlichen Grossveranstaltungen des Breitensports ausgerichtet werden,
+<sup>1</sup> Beiträge können für die Durchführung von sportlichen Grossveranstaltungen des Breitensports ohne Wettkampfcharakter ausgerichtet werden,
 
 - a die ausschliesslich von kantonalbernischen Veranstalterinnen oder Veranstaltern organisiert werden und im Kanton stattfinden,
 - b die interkantonal und zu mindestens 15 Prozent im Kanton durchgeführt werden.
 
-<sup>2</sup> Sie sind begrenzt auf 10‘000 Franken pro Veranstaltung und gesamthaft 300‘000 Franken pro Jahr.
+<sup>2</sup> Sie sind begrenzt auf 30‘000 Franken pro Veranstaltung.
 
 <sup>3</sup> Beiträge an Vorhaben gemäss Absatz 1 Buchstabe b sind in Ergänzung zu Absatz 2 anteilsmässig nach Massgabe des Umfangs der Durchführung im Kanton auszurichten.
 
@@ -1037,12 +1159,14 @@ beschliesst:
 
 **Besondere Projekte zur Förderung des Sports**
 
-<sup>1</sup> Beiträge bis höchstens 500‘000 Franken pro Jahr können als Anschubfinanzierung für besondere Projekte zur Förderung des Sports gewährt werden, insbesondere im Breitensport, wenn sie einmalig und für den Kanton von erheblicher Bedeutung sind.
+<sup>1</sup> Beiträge bis höchstens 500‘000 Franken pro Jahr können als Anschubfinanzierung für besondere überregionale Projekte zur Förderung des Sports im Kanton gewährt werden, insbesondere im Breitensport.
 
 <sup>2</sup> Für Vorhaben gemäss Absatz 1, die durch den Kanton geführt werden, gilt:
 
-- a Er trägt mindestens ein Drittel der Kosten,
-- b es kann höchstens ein Projekt pro Jahr unterstützt werden.
+- a Er trägt mindestens ein Drittel der Kosten.
+- b …
+
+<sup>2a</sup> Beiträge an Gemeinden für neue niederschwellige Sportförderungsmassnahmen, die zur sportlichen Betätigung eines grossen Teils der Bevölkerung beiträgt, können einmal im Jahr bis höchstens 10'000 Franken gewährt werden.
 
 <sup>3</sup> Das Gesuch muss vor Inangriffnahme des Vorhabens beim Generalsekretariat der Sicherheitsdirektion eingehen.
 
@@ -1192,6 +1316,22 @@ beschliesst:
 <sup>1</sup> Die zum Zeitpunkt des Inkrafttretens dieser Änderung hängigen erstinstanzlichen Gesuchsverfahren werden nach neuem Recht beurteilt.
 
 <sup>2</sup> Nach bisherigem Recht beschlossene Beitragszusicherungen bleiben gültig.
+
+## T2 Übergangsbestimmungen der Änderung vom 04.03.2026
+
+#### Art. T2-1
+
+<sup>1</sup> Die zum Zeitpunkt des Inkrafttretens dieser Änderung hängigen erstinstanzlichen Gesuchsverfahren werden nach neuem Recht beurteilt.
+
+<sup>2</sup> Nach bisherigem Recht beschlossene Beitragszusicherungen bleiben gültig.
+
+<sup>3</sup> Die Frist zur erstmaligen Eingabe endet am 31. Juli 2026 für Gesuche im Nachwuchs-Leistungssport für neu beitragsberechtigte Organisationen gemäss Artikel 80 Absatz 2 Buchstabe c und d.
+
+<sup>4</sup> Für Sportwettkämpfe gemäss Artikel 85, die im Jahr 2026 stattfinden, können Gesuche in Abweichung von Artikel 87 Absatz 1 bis Ende 2026 gestellt werden.
+
+#### Art. T2-2
+
+<sup>1</sup> Artikel 11 Absatz 3 ist ab dem 1. Januar 2027 anwendbar.
 
 Bern, 2. Dezember 2020
 
