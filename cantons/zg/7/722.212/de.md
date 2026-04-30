@@ -4,13 +4,12 @@ number: "722.212"
 title: Reglement zum Gesetz über den Feuerschutz
 short: "Feuerschutzreglement, FSR"
 language: de
-version: 2024-01-01
-valid_until: 2026-04-30
-version_adopted: 2023-11-23
+version: 2026-05-01
+version_adopted: 2026-03-18
 adopted: 2022-11-24
 in_force: 2023-01-01
 url: "https://bgs.zg.ch/app/de/texts_of_law/722.212"
-pdf: "https://bgs.zg.ch/api/de/versions/2513/pdf_file"
+pdf: "https://bgs.zg.ch/api/de/versions/2998/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://bgs.zg.ch/api/de/versions/2513/pdf_file"
 
 (Feuerschutzreglement, FSR)
 
-Vom 24. November 2022 (Stand 1. Januar 2024)
+Vom 24. November 2022 (Stand 1. Mai 2026)
 
 Der Verwaltungsrat der Gebäudeversicherung Zug,
 
@@ -112,19 +111,31 @@ beschliesst:
 
 <sup>2</sup> Die Rahmenbedingungen zu den einzelnen Stützpunktaufgaben wie beispielsweise die finanzielle Abgeltung, das Einsatzgebiet, die Vorhalteleistungen und Ressourcen, Vereinbarungen und gesetzliche Grundlagen sind in den jeweiligen Leistungsvereinbarungen mit den Trägern der Stützpunktaufgaben festgelegt und beschrieben.
 
-### 3.1.1. Stützpunktaufgaben - Intervention Brand
+### 3.1.1.
 
 #### Ziff. 8
 
-**Höhenrettungsgerät**
+**Rettungsgerät**
 
-<sup>1</sup> Die Stützpunktaufgabe besteht in der Unterstützung der Zuger Gemeindefeuerwehren mit einem Höhenrettungsgerät zwecks Rettungen, Flucht- und Angriffswegen für die Einsatzkräfte oder Brandbekämpfung aus der Höhe.
+<sup>1</sup> Die Stützpunktaufgabe besteht in der Unterstützung der Zuger Gemeindefeuerwehren mit einem Rettungsgerät zwecks:
+
+- a) Rettung von Personen bei Brandereignissen;
+- b) Schaffung von Flucht- und Angriffswegen für die Einsatzkräfte bei Brandereignissen;
+- c) Brandbekämpfung aus der Höhe;
+- d) Rettung von Personen aus misslichen Lagen und Notlagen.
+
+<sup>2</sup> Die Stützpunktaufgabe besteht in der Unterstützung der Rettungsdienste mit einem Rettungsgerät zwecks Rettung von Personen in der Höhe und Tiefe sowie in unwegsamem Gelände.
 
 #### Ziff. 9
 
-**Atemschutz**
+**Unterstützung Gemeindefeuerwehren bei Brandereignissen**
 
-<sup>1</sup> Die Stützpunktaufgabe besteht in der Unterstützung der Zuger Gemeindefeuerwehren mit zusätzlichem Atemschutz.
+<sup>1</sup> Die Stützpunktaufgabe besteht in der Unterstützung der Zuger Gemeindefeuerwehren bei Brandereignissen mit:
+
+- a) zusätzlichem Atemschutz;
+- b) Löschschaum und Netzmittel;
+- c) schwerem Wassertransport;
+- d) speziellen Mitteln zur Bekämpfung von Wald- und Flurbränden.
 
 #### Ziff. 10
 
@@ -134,79 +145,82 @@ beschliesst:
 
 #### Ziff. 11
 
-**Löschschaum und Netzmittel**
+**Sprungpolster**
 
-<sup>1</sup> Die Stützpunktaufgabe besteht in der Unterstützung der Zuger Gemeindefeuerwehren mit Löschschaum und Netzmittel.
+<sup>1</sup> Die Stützpunktaufgabe besteht in der Unterstützung der Zuger Gemeindefeuerwehren mit einem Sprungpolster zwecks Rettung von Personen:
+
+- a) bei Brandereignissen;
+- b) aus misslichen Lagen und Notlagen.
+
+<sup>2</sup> Die Stützpunktaufgabe besteht in der Unterstützung der Zuger Polizei und der Rettungsdienste mit einem Sprungpolster zwecks Rettung von Personen aus misslichen Lagen und Notlagen.
 
 #### Ziff. 12
 
-**Schwerer Wassertransport**
-
-<sup>1</sup> Die Stützpunktaufgabe besteht in der Unterstützung der Zuger Gemeindefeuerwehren mit schwerem Wassertransport.
+**…**
 
 #### Ziff. 13
 
-**Nationalstrassen und Eisenbahnanlagen SBB**
+**Intervention auf Nationalstrassen und Eisenbahnanlagen SBB**
 
-<sup>1</sup> Die Stützpunktaufgabe besteht in der Intervention bei Bränden auf den Nationalstrassen und ihren Bestandteilen und auf den Eisenbahnanlagen der SBB.
+<sup>1</sup> Die Stützpunktaufgabe besteht in der Intervention auf den Nationalstrassen und ihren Bestandteilen und auf den Eisenbahnanlagen der SBB zwecks:
+
+- a) Rettung von Personen;
+- b) Brandbekämpfung;
+- c) Intervention in unterirdischen Verkehrsanlagen (Tunneln);
+- d) Bewältigung von Ereignissen mit atomaren, biologischen und chemischen Gefahrenstoffen;
+- e) Bewältigung von Elementarereignissen.
 
 #### Ziff. 14
 
-**Tunnel**
+**Unterirdische Verkehrsanlagen (Tunnel)**
 
-<sup>1</sup> Die Stützpunktaufgabe besteht in der Intervention bei Bränden in den Tunneln auf den Nationalstrassen und ihren Bestandteilen, den Kantonsstrassen und den Eisenbahnanlagen der SBB.
+<sup>1</sup> Die Stützpunktaufgabe besteht in der Intervention bei Bränden in den unterirdischen Verkehrsanlagen (Tunneln).
 
 #### Ziff. 15
 
-**Vegetationsbrände**
+**…**
 
-<sup>1</sup> Die Stützpunktaufgabe besteht in der Unterstützung der Zuger Gemeindefeuerwehren bei Wald- und Flurbränden mit speziellen Mitteln.
-
-### 3.1.2. Stützpunktaufgaben - Intervention ABC
+### 3.1.2.
 
 #### Ziff. 16
 
-**Strahlenwehr (A-Wehr) und Biologiewehr (B-Wehr)**
+**Strahlenwehr (A-Wehr), Biologiewehr (B-Wehr) und Öl- und Chemiewehr (C-Wehr)**
 
-<sup>1</sup> Die Stützpunktaufgabe besteht in der Erstintervention und der Unterstützung der Einsatzkräfte (A/B-Wehr) bei Ereignissen mit atomaren oder biologischen Gefahrenstoffen.
+<sup>1</sup> Die Stützpunktaufgabe besteht in der:
+
+- a) Erstintervention und Unterstützung der Einsatzkräfte (A/B-Wehr) bei Ereignissen mit atomaren oder biologischen Gefahrenstoffen;
+- b) Intervention bei Ereignissen mit chemischen Gefahrenstoffen;
+- c) Intervention bei Ereignissen mit Gefahrenstoffen auf den kantonalen Gewässern Zugersee, Ägerisee, Lorze, Reuss und Sihl sowie auf weiteren Gewässern im Kanton Zug, wenn eine Intervention vom Ufer aus nicht möglich ist.
 
 #### Ziff. 17
 
-**Öl- und Chemiewehr (C-Wehr)**
+**Brandbekämpfung auf Gewässern**
 
-<sup>1</sup> Die Stützpunktaufgabe besteht in der Intervention bei Ereignissen mit chemischen Gefahrenstoffen.
+<sup>1</sup> Die Stützpunktaufgabe besteht in der Intervention bei Bränden auf Gewässern oder der seeseitigen Unterstützung bei Bränden am Ufer oder in Ufernähe mit speziellen Mitteln.
 
 #### Ziff. 18
 
-**Ölwehr Gewässer**
-
-<sup>1</sup> Die Stützpunktaufgabe besteht in der Intervention bei Ereignissen mit Gefahrenstoffen auf den kantonalen Gewässern Zugersee, Ägerisee, Lorze, Reuss und Sihl sowie auf weiteren Gewässern im Kanton Zug, wenn eine Intervention vom Ufer aus nicht möglich ist.
+**…**
 
 #### Ziff. 19
 
-**ABC-Wehr auf Nationalstrassen und Eisenbahnlagen SBB**
+**…**
 
-<sup>1</sup> Die Stützpunktaufgabe besteht in der Intervention bei Ereignissen mit chemischen Gefahrenstoffen sowie der Erstintervention und der Unterstützung der Einsatzkräfte (A/B-Wehr) bei Ereignissen mit atomaren und biologischen Gefahrenstoffen auf Nationalstrassen und ihren Bestandteilen und auf den Eisenbahnanlagen der SBB.
-
-### 3.1.3. Stützpunktaufgaben - Hilfe in Notlagen für Mensch und Tier / Technische Hilfeleistungen
+### 3.1.3.
 
 #### Ziff. 20
 
-**Sicherungs- und Rettungstechnik (SRT)**
-
-<sup>1</sup> Die Stützpunktaufgabe besteht in der Intervention mittels Sicherungs- und Rettungstechnik Stufe 2 gemäss Konzept SRT der Gebäudeversicherung Zug.
+**…**
 
 #### Ziff. 21
 
 **Tierrettung**
 
-<sup>1</sup> Die Stützpunktaufgabe besteht in der Unterstützung der Zuger Gemeindefeuerwehren bei Grosstierrettungen mit speziellen Mitteln.
+<sup>1</sup> Die Stützpunktaufgabe besteht in der Unterstützung der Zuger Gemeindefeuerwehren bei der Rettung von Grosstieren mit speziellen Mitteln und Rettungssystemen.
 
 #### Ziff. 22
 
-**Höhenrettungsgerät**
-
-<sup>1</sup> Die Stützpunktaufgabe besteht in der Unterstützung der Zuger Gemeindefeuerwehren mit einem Höhenrettungsfahrzeug.
+**…**
 
 #### Ziff. 23
 
@@ -218,19 +232,21 @@ beschliesst:
 
 **Elementarereignisse**
 
-<sup>1</sup> Die Stützpunktaufgabe besteht in der Unterstützung der Zuger Gemeindefeuerwehren mit Sandsäcken bei der Bewältigung von Elementarereignissen.
+<sup>1</sup> Die Stützpunktaufgabe besteht in der Unterstützung der Zuger Gemeindefeuerwehren mit speziellen Mitteln bei der Bewältigung von Elementarereignissen.
 
 #### Ziff. 25
 
-**Strassenrettung**
+**Strassenrettung / Personenrettung / Sicherungs- und Rettungstechnik (SRT)**
 
-<sup>1</sup> Die Stützpunktaufgabe besteht in der Rettung von Personen aus verunfallten Fahrzeugen mit hydraulischen und speziellen Mitteln auf den kantonalen, kommunalen und privaten Strassen sowie auf den Nationalstrassen und ihren Bestandteilen.
+<sup>1</sup> Die Stützpunktaufgabe besteht in der Rettung von Personen:
+
+- a) aus verunfallten Fahrzeugen mit speziellen Mitteln und Rettungssystemen;
+- b) aus misslichen Lagen und Notlagen mit speziellen Mitteln und Rettungssystemen;
+- c) mittels Sicherungs- und Rettungstechnik gemäss Konzept SRT der Gebäudeversicherung Zug.
 
 #### Ziff. 26
 
-**Rettung auf Eisenbahnanlagen**
-
-<sup>1</sup> Die Stützpunktaufgabe besteht in der Rettung von verunfallten Personen mit hydraulischen und speziellen Mitteln auf den Eisenbahnanlagen der SBB.
+**…**
 
 #### Ziff. 27
 
@@ -238,19 +254,15 @@ beschliesst:
 
 <sup>1</sup> Die Stützpunktaufgabe besteht in der Unterstützung der Zuger Gemeindefeuerwehren mit einer Einsatzdrohne bei Gebäudebränden, Wald- und Flurbränden, Elementarereignissen, Suchen nach Personen und Tieren, Ereignissen mit Gefahrenstoffen auf Gewässern und dgl.
 
-### 3.1.4. Stützpunktaufgaben - Intervention Verbundsystem Bevölkerungsschutz und Dritte
+### 3.1.4.
 
 #### Ziff. 28
 
-**Unterstützung Rettungsdienst mit Höhenrettungsgerät**
-
-<sup>1</sup> Die Stützpunktaufgabe besteht in der Unterstützung der Rettungsdienste zur Rettung von Personen in der Höhe und Tiefe sowie in unwegsamem Gelände mit einem Höhenrettungsgerät und speziellen Mitteln.
+**…**
 
 #### Ziff. 29
 
-**Unterstützung Rettungsdienst bei Rettung stark übergewichtiger Personen**
-
-<sup>1</sup> Die Stützpunktaufgabe besteht in der Unterstützung der Rettungsdienste bei der Rettung von stark übergewichtigen Personen (&gt;180 kg) in der Höhe und Tiefe sowie in unwegsamem Gelände mit einem Höhenrettungsgerät und speziellen Mitteln.
+**…**
 
 #### Ziff. 30
 
@@ -274,7 +286,7 @@ beschliesst:
 
 **Einsatzführung bei Grossereignissen**
 
-<sup>1</sup> Die Stützpunktaufgabe besteht in der Einsatzkoordination Front bei grösseren und grossen Ereignissen sowie in der Bereichsleitung oder Gesamteinsatzleitung zusammen mit den Partnerorganisationen des Verbundsystems Bevölkerungsschutz im Rahmen der Einsatzführung bei Grossereignissen.
+<sup>1</sup> Die Stützpunktaufgabe besteht in der Unterstützung der übergeordneten Führungsorgane in der Einsatzführung, Einsatzkoordination und Führungsunterstützung mit personellen Ressourcen bei grossen Alltagsereignissen und Grossereignissen gemäss Konzept Einsatzführung der Gebäudeversicherung Zug.
 
 #### Ziff. 34
 
@@ -288,13 +300,11 @@ beschliesst:
 
 <sup>1</sup> Die Stützpunktaufgabe besteht im Transport, Aufbau und in der Energieversorgung der mobilen Sanitätshilfsstelle.
 
-### 3.1.5. Stützpunktaufgaben - Leistungen für die Gebäudeversicherung Zug
+### 3.1.5.
 
 #### Ziff. 36
 
-**Ausbildung der Gebäudeversicherung Zug**
-
-<sup>1</sup> Die Stützpunktaufgabe besteht in der Unterstützung der Ausbildung der Gebäudeversicherung Zug hinsichtlich Logistik, Material und Infrastruktur sowie in der Bewirtschaftung der Bekleidung des Ausbildungspersonals der Gebäudeversicherung Zug.
+**…**
 
 #### Ziff. 37
 
@@ -338,7 +348,7 @@ beschliesst:
 <sup>1</sup> Folgende Einsätze werden nach Aufwand verrechnet:
 
 - a) Intervention bei Ereignissen mit atomaren, biologischen oder chemischen Gefahrenstoffen sowie mit weiteren die Umwelt gefährdenden Stoffen
-- b) Intervention bei Strassenrettungen, Personenrettungen und Tierrettungen
+- b) Intervention bei Strassen-, Personen- und Tierrettungen
 - c) Wasserwehr (exkl. Elementarereignisse)
 - d) Bergung von Fahrzeugen, Maschinen etc.
 - e) Personenbefreiung aus misslicher Lage (insbesondere steckengebliebene Aufzüge, Person hat sich ein- bzw. ausgeschlossen)
@@ -560,7 +570,7 @@ beschliesst:
 - a) Tanklöschfahrzeug, Fr. 223'000.–
 - b) Atemschutzfahrzeug, Fr. 111'000.–
 - c) Pionierfahrzeug, Fr. 200'000.–
-- d) Transportfahrzeug, Fr. 45'000.–
+- d) Transportfahrzeug (Führerausweis-Kategorie B): bei fossilem Antrieb, Fr. 45'000.–; bei elektrischem Antrieb (inkl. Hybrid und Plug-in-Hybrid), Fr. 54'000.–.
 - e) Ersteinsatzlöschfahrzeug, Fr. 134'000.–
 
 <sup>2b</sup> Diese Beiträge sind an die Indexierung der Versicherungswerte der Gebäudeversicherung Zug gebunden.
@@ -607,7 +617,7 @@ beschliesst:
 
 **Ersatzbeschaffungen**
 
-<sup>1</sup> Bei Ersatzbeschaffungen für Feuerwehrfahrzeuge kann ein Beitrag frühestens geltend gemacht werden nach:
+<sup>1</sup> Bei Ersatzbeschaffungen für Feuerwehrfahrzeuge kann ein Beitrag frühestens nach Ablauf der nachfolgend genannten Jahre geltend gemacht werden, wobei die Daten der Inverkehrssetzung des zu ersetzenden und des neuen Fahrzeugs für die Berechnung der Anzahl Jahre massgebend sind:
 
 - a) 20 Jahren für ein Tanklöschfahrzeug
 - b) 15 Jahren für ein Atemschutzfahrzeug
@@ -643,9 +653,21 @@ beschliesst:
 
 #### Ziff. 60
 
-**Fahrzeuge der Stützpunktfeuerwehr oder der Träger von Stützpunktaufgaben**
+**Finanzierung von Fahrzeugen der Stützpunktfeuerwehr oder der Träger von Stützpunktaufgaben**
 
-<sup>1</sup> Die Beiträge an Fahrzeuge sind Bestandteil der entsprechenden Leistungsvereinbarung zwischen der Stützpunktfeuerwehr respektive den Trägern von Stützpunktaufgaben und der Gebäudeversicherung Zug.
+<sup>1</sup> Die Gebäudeversicherung Zug übernimmt die Anschaffungskosten von Stützpunktfahrzeugen in folgendem Umfang:
+
+- a) Einsatzleitfahrzeug, 90%
+- b) Rettungsgerät, 100%
+- c) Öl- und Chemiewehrfahrzeug, 90%
+- d) Ölwehrboot, 100%
+- e) Pionierfahrzeug, 90%
+- f) Tanklöschfahrzeug, 100%
+- g) Transportfahrzeug, 90%
+- h) Universallöschfahrzeug, 100%
+- i) Verkehrsdienstfahrzeug, 90%
+- j) Wechselträgerfahrzeug, 90%
+- k) Spezialfahrzeug, 100%
 
 ### 4.2.3.3. Beiträge an das Material der Feuerwehren
 
@@ -678,14 +700,18 @@ beschliesst:
 
 **Bauten und Einrichtungen der Gemeindefeuerwehren**
 
-<sup>1</sup> An Feuerwehrgebäude, die Eigentum der Gemeinde oder des Betriebes sind und der Unterbringung von beitragsberechtigten Fahrzeugen oder von beitragsberechtigtem Material dienen, werden bei der Erstellung Beiträge im Umfang von maximal 10 % geleistet, und zwar an:
+<sup>1</sup> An Gebäude, die im Eigentum der Gemeinde oder Gemeindefeuerwehr stehen und der Unterbringung von beitragsberechtigten Fahrzeugen oder von beitragsberechtigtem Material dienen, leistet die Gebäudeversicherung Zug Beiträge von 10% an die ausgewiesenen und dem Raumprogramm entsprechenden Baukosten von Neu- und Erweiterungsbauten (Baukostenplan 2).
 
-- a) die eigentliche Fahrzeughalle
-- b) Kommando-, Führungs-, Theorie-, Atemschutz- und Materialunterhaltsräume
-- c) Geräte- und Lagerräume
-- d) das Büro für das Kommando
-- e) den Raum für die Schlauchpflegeanlage
-- f) die sanitären Einrichtungen
+- a) …
+- b) …
+- c) …
+- d) …
+- e) …
+- f) …
+
+<sup>2</sup> Die Gebäudeversicherung Zug legt für diese Gebäude verbindlich ein maximal beitragsberechtigendes Raumprogramm mit den entsprechenden Baukosten fest. Überdies erarbeitet sie detaillierte Richtlinien.
+
+<sup>3</sup> Diese Dokumente werden der jeweiligen Gemeinde zur Verfügung gestellt.
 
 #### Ziff. 65
 
@@ -731,11 +757,65 @@ beschliesst:
 
 <sup>6</sup> Die definitiven Beiträge werden aufgrund der Schlussabrechnung berechnet.
 
+### 4.2.5 Beiträge an freiwillige Massnahmen zum Schutz vor Feuerschäden
+
+#### Ziff. 69a
+
+**Umfang der Unterstützung**
+
+<sup>1</sup> Die Gebäudeversicherung Zug kann freiwillige Massnahmen zum Schutz von Gebäuden vor den durch sie versicherten Feuergefahren unterstützen.
+
+<sup>2</sup> Die Unterstützung besteht in der Beratung und in finanziellen Beiträgen und beschränkt sich auf Objektschutzmassnahmen, d.h. auf Massnahmen am einzelnen Gebäude.
+
+#### Ziff. 69b
+
+**Voraussetzungen für Beiträge**
+
+<sup>1</sup> Feuerschutzbeiträge im Sinne dieses Kapitels werden geleistet, wenn folgende Voraussetzungen erfüllt sind:
+
+- a) Die Massnahmen erfolgen in einem Gebäude von historischem Wert oder in einem Gebäude, das der Risikoklasse 4 oder 5 zugewiesen ist (vgl. Ziff. 3 FSR).
+- b) Die Massnahmen sind permanent mit dem Gebäude verbaut.
+- c) Die Massnahmen erfolgen freiwillig.
+- d) Die Massnahmen sind effektiv und effizient.
+- e) Es handelt sich um Massnahmen, die ein System beinhalten, welches dem aktuellen Stand der Technik entspricht und die Bedingungen für den Gebäudezugang erfüllt. Die Bedingungen für die Alarmübermittlung auf die Feuermeldestelle sind in Abhängigkeit vom gewählten System zu erfüllen.
+
+<sup>2</sup> Als historisch gilt ein Gebäude, das aufgrund seines Alters, seiner Bauweise und seiner Bedeutung für die Geschichte oder Kultur eines Ortes eine Relevanz besitzt, und welches unter früheren Generationen der Brandschutzvorschriften rechtmässig erstellt wurde.
+
+<sup>3</sup> Als freiwillig gelten Massnahmen, die für das konkrete Gebäude nicht bereits aufgrund von öffentlich- oder zivilrechtlichen Vorschriften oder von behördlichen Auflagen vorgeschrieben sind.
+
+<sup>4</sup> Effektiv sind Massnahmen, welche bei einem Gebäude Schäden durch Ereignisse definierter Häufigkeit verhindern oder massgeblich reduzieren.
+
+<sup>5</sup> Effizient sind Massnahmen, sofern ihr Nutzen (verhinderte Schäden) über die Lebensdauer des Gebäudes oder Gebäudeelementes mindestens gleich hoch ist wie ihre Kosten.
+
+<sup>6</sup> Die Antragsstellenden erbringen den Nachweis, dass die Voraussetzungen gemäss Abs. 1 – 5 erfüllt sind.
+
+<sup>7</sup> Die Gebäudeversicherung Zug entscheidet im Einzelfall, ob eine Massnahme die Voraussetzungen für einen Beitrag erfüllt.
+
+#### Ziff. 69c
+
+**Beitragshöhe**
+
+<sup>1</sup> An beitragsberechtigte Massnahmen bezahlt die Gebäudeversicherung Zug unter Einhaltung ihres jährlichen Budgets einen Beitrag von 40 % der anrechenbaren Kosten, maximal aber 2 % des Versicherungswertes.
+
+<sup>2</sup> Als anrechenbare Kosten gelten sämtliche bei Dritten zu marktüblichen Preisen eingekauften Leistungen, welche für die Umsetzung der Massnahme notwendig sind. Eigenleistungen der Eigentümerschaft sind analog den Bedingungen in der Schadenvergütung anrechenbar.
+
+#### Ziff. 69d
+
+**Verfahren**
+
+<sup>1</sup> Beitragsgesuche sind vor Ausführung der Massnahmen an die Gebäudeversicherung Zug zu stellen.
+
+<sup>2</sup> Die Massnahmen sind innert zwei Jahren nach der Beitragszusicherung der Gebäudeversicherung Zug auszuführen und ihr zur Abrechnung anzumelden.
+
+<sup>3</sup> Bei einer Beitragszusicherung schliesst die Gebäudeversicherung Zug mit der Gebäudeeigentümerschaft einen Vertrag über die wesentlichen Pflichten und Leistungen ab.
+
+<sup>4</sup> Die Gebäudeversicherung Zug regelt die Einzelheiten zum Verfahren in separaten Richtlinien, die sie auf ihrer Website veröffentlicht.
+
 ### 4.3. Beiträge zum Schutz vor Elementarschäden (§ 51a FSG)
 
-[^Ziff69-1]
+[^Ziff69d-1]
 
-[^Ziff69-1]: BGS [722.21](https://bgs.zg.ch/data/722.21/de)
+[^Ziff69d-1]: BGS [722.21](https://bgs.zg.ch/data/722.21/de)
 
 #### Ziff. 70
 
@@ -774,7 +854,7 @@ beschliesst:
 
 <sup>3</sup> Als anrechenbare Kosten gelten sämtliche bei Dritten zu marktüblichen Preisen eingekauften Leistungen, welche für die Umsetzung der Massnahme notwendig sind. Eigenleistungen der Eigentümerschaft sind analog den Bedingungen in der Schadenvergütung anrechenbar.
 
-<sup>4</sup> Beiträge unter Fr. 400.– werden nicht ausbezahlt.
+<sup>4</sup> …
 
 <sup>5</sup> Bei besonders effektiven und effizienten Massnahmen kann die Gebäudeversicherung Zug den Beitragssatz und die minimale Auszahlungshöhe anpassen.
 
@@ -785,6 +865,8 @@ beschliesst:
 <sup>1</sup> Beitragsgesuche sind vor Ausführung der Massnahmen an die Gebäudeversicherung Zug zu stellen.
 
 <sup>2</sup> Die Massnahmen sind innert zwei Jahren nach der Beitragszusicherung durch die Gebäudeversicherung Zug auszuführen und ihr zur Abrechnung anzumelden.
+
+<sup>3</sup> Die Gebäudeversicherung Zug regelt die Einzelheiten zum Verfahren in separaten Richtlinien, die sie auf ihrer Website veröffentlicht.
 
 ### 4.4. Kursbesoldung (§ 56 Abs. 3 FSG)
 
