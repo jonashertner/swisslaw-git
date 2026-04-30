@@ -4,13 +4,12 @@ number: 105.235.1-5
 title: Accord d’exécution entre le canton de Berne et la République et Canton du Jura relatif au transfert de la commune municipale de Moutier dans le canton du Jura concernant l’enseignement du degré secondaire II
 short: "Accord d'exécution n° 5"
 language: fr
-version: 2025-07-01
-valid_until: 2026-04-30
-version_adopted: 2025-05-28
+version: 2026-05-01
+version_adopted: 2026-03-25
 adopted: 2025-05-28
 in_force: 2025-07-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/105.235.1-5"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/3200/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3361/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/3200/pdf_file"
 
 (Accord d'exécution n° 5)
 
-du 28.05.2025 (état au 01.07.2025)
+du 28.05.2025 (état au 01.05.2026)
 
 Le Conseil-exécutif du canton de Berne et le Gouvernement de la République et Canton du Jura,
 
@@ -97,7 +96,7 @@ conviennent :
 
 **Centre de formation professionnelle Berne francophone**
 
-<sup>1</sup> Le centre de formation professionnelle Berne francophone (ceff) situé sur le site de Moutier est une école soumise au droit bernois jusqu’à la date du passage.
+<sup>1</sup> Le centre de formation professionnelle Berne francophone (ceff) situé sur le site de Moutier est une école soumise au droit bernois jusqu’au 31 juillet 2027.
 
 <sup>2</sup> Il est soumis à l’ordre juridique bernois, notamment en ce qui concerne l’offre de l’enseignement, le statut du personnel, le pilotage et le financement.
 

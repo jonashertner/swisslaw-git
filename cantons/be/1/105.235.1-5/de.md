@@ -4,13 +4,12 @@ number: 105.235.1-5
 title: Vollzugsvereinbarung zwischen den Kantonen Bern und Jura im Zusammenhang mit dem Kantonswechsel der Einwohnergemeinde Moutier betreffend die Sekundarstufe II
 short: Vollzugsvereinbarung Nr. 5
 language: de
-version: 2025-07-01
-valid_until: 2026-04-30
-version_adopted: 2025-05-28
+version: 2026-05-01
+version_adopted: 2026-03-25
 adopted: 2025-05-28
 in_force: 2025-07-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/105.235.1-5"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/3200/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3361/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/3200/pdf_file"
 
 (Vollzugsvereinbarung Nr. 5)
 
-vom 28.05.2025 (Stand 01.07.2025)
+vom 28.05.2025 (Stand 01.05.2026)
 
 Der Regierungsrat des Kantons Bern und die Regierung des Kantons Jura,
 
@@ -97,7 +96,7 @@ vereinbaren:
 
 **Centre de formation professionnelle Berne francophone**
 
-<sup>1</sup> Das in Moutier ansässige französischsprachige Berufsbildungszentrum Centre de formation professionnelle Berne francophone (ceff) ist bis zum Zeitpunkt des Übertritts eine Schule, die dem bernischen Recht unterliegt.
+<sup>1</sup> Das in Moutier ansässige französischsprachige Berufsbildungszentrum Centre de formation professionnelle Berne francophone (ceff) ist bis am 31. Juli 2027 eine Schule, die dem bernischen Recht unterliegt.
 
 <sup>2</sup> Es unterliegt der bernischen Rechtsordnung, insbesondere in Bezug auf das Unterrichtsangebot, die Stellung des Personals, die Steuerung und die Finanzierung.
 
