@@ -4,13 +4,12 @@ number: "161.12"
 title: Dekret betreffend die Verfahrenskosten und die Verwaltungsgebühren der Gerichtsbehörden und der Staatsanwaltschaft
 short: "Verfahrenskostendekret, VKD"
 language: de
-version: 2024-01-01
-valid_until: 2026-04-30
-version_adopted: 2022-06-14
+version: 2026-05-01
+version_adopted: 2025-06-11
 adopted: 2010-03-24
 in_force: 2011-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/161.12"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2882/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3365/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2882/pdf_file"
 
 (Verfahrenskostendekret, VKD)
 
-vom 24.03.2010 (Stand 01.01.2024)
+vom 24.03.2010 (Stand 01.05.2026)
 
 Der Grosse Rat des Kantons Bern,
 
@@ -76,9 +75,11 @@ beschliesst:
 
 **2. Erhöhung**
 
-<sup>1</sup> In besonders umfangreichen und zeitraubenden Geschäften, bei querulatorischer Prozessführung sowie in Geschäften mit sehr hohem Streitwert kann eine Gebühr bis zum doppelten Betrag des Höchstansatzes erhoben werden.
+<sup>1</sup> In besonders umfangreichen und zeitraubenden Geschäften, bei querulatorischer Prozessführung, in Geschäften mit sehr hohem Streitwert sowie bei Verwendung der englischen Sprache in internationalen handelsrechtlichen Streitigkeiten nach Artikel 6 Absatz 4 Buchstabe c der Schweizerischen Zivilprozessordnung vom 19. Dezember 2008 (Zivilprozessordnung, ZPO)[^6-1] kann eine Gebühr bis zum doppelten Betrag des Höchstansatzes erhoben werden.
 
 <sup>2</sup> In Verfahren mit mehreren Beteiligten können die Höchstansätze überschritten werden. Die Gebühr darf aber für die einzelne Person das Doppelte der ordentlichen Höchstgebühr nicht überschreiten.
+
+[^6-1]: SR [272](https://db.clex.ch/link/Bund/272/de)
 
 #### Art. 7
 
@@ -380,9 +381,7 @@ beschliesst:
 - e zwei Millionen Franken und mehr: — 0,5 bis 7 Prozent des Streitwerts
 - f bei einem nicht schätzbaren Streitwert: — 1'000 bis 40'000 Taxpunkte
 
-<sup>2</sup> In miet- und in arbeitsrechtlichen Streitigkeiten kann die Mindestgebühr unterschritten werden, wenn der Streitwert nach Artikel 92 Absatz 2 der Schweizerischen Zivilprozessordnung vom 19. Dezember 2008 (ZPO)[^36-1] ermittelt wurde.
-
-[^36-1]: BBl 2009 21
+<sup>2</sup> In miet- und in arbeitsrechtlichen Streitigkeiten kann die Mindestgebühr unterschritten werden, wenn der Streitwert nach Artikel 92 Absatz 2 ZPO ermittelt wurde.
 
 #### Art. 37
 
@@ -446,7 +445,7 @@ beschliesst:
 - c eine Million bis zwei Millionen Franken: — 13'000 bis 140'000 Taxpunkte
 - d zwei Millionen Franken und mehr: — 0,6 bis 8 Prozent des Streitwerts
 
-<sup>2</sup> Bei Streitigkeiten, in denen das Obergericht gestützt auf Artikel 5 Absatz 1 Buchstaben e und f ZPO entscheidet, beträgt die Gebühr 2'000 bis 140'000 Taxpunkte.
+<sup>2</sup> Bei Streitigkeiten, in denen das Obergericht gestützt auf Artikel 5 Absatz 1 Buchstabe e ZPO entscheidet, beträgt die Gebühr 2000 bis 140'000 Taxpunkte.
 
 <sup>3</sup> Auf Streitigkeiten, in denen das Obergericht gestützt auf kantonales öffentliches Recht als einzige kantonale Instanz entscheidet, findet der Tarif von Artikel 51 sinngemäss Anwendung.
 
@@ -516,7 +515,7 @@ beschliesst:
 
 <sup>1</sup> Die Gebühren für die Beurteilung von Streitigkeiten durch das Verwaltungsgericht betragen
 
-- a bei Beschwerden: 300 bis 7'000 Taxpunkte
+- a bei Beschwerden: 300 bis 15'000 Taxpunkte.
 - b bei Klagen und Appellationen: 300 bis 25'000 Taxpunkte.
 - c bei Zwischenverfügungen und instanzabschliessenden Entscheiden über Gesuche: 300 bis 2'500 Taxpunkte.
 - d bei einzelrichterlicher Streiterledigung: 200 bis 2'500 Taxpunkte.

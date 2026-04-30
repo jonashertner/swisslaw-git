@@ -4,13 +4,12 @@ number: "161.12"
 title: Décret concernant les frais de procédure et les émoluments administratifs des autorités judiciaires et du Ministère public
 short: "Décret sur les frais de procédure, DFP"
 language: fr
-version: 2024-01-01
-valid_until: 2026-04-30
-version_adopted: 2022-06-14
+version: 2026-05-01
+version_adopted: 2025-06-11
 adopted: 2010-03-24
 in_force: 2011-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/161.12"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2882/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3365/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2882/pdf_file"
 
 (Décret sur les frais de procédure, DFP)
 
-du 24.03.2010 (état au 01.01.2024)
+du 24.03.2010 (état au 01.05.2026)
 
 Le Grand Conseil du canton de Berne,
 
@@ -76,9 +75,11 @@ arrête:
 
 **2. Augmentation**
 
-<sup>1</sup> Dans les affaires particulièrement volumineuses et absorbantes, en cas de conduite procédurière ou dans les affaires dont la valeur litigieuse est très élevée, l’émolument peut être majoré jusqu’à concurrence du double du taux maximal.
+<sup>1</sup> Dans les affaires particulièrement volumineuses et absorbantes, en cas de conduite procédurière, dans les affaires dont la valeur litigieuse est très élevée ainsi qu’en cas d’utilisation de l’anglais dans les litiges commerciaux internationaux au sens de l’article 6, alinéa 4, lettre c du code de procédure civile du 19 décembre 2008 (CPC)[^6-1], l’émolument peut être majoré jusqu’à concurrence du double du taux maximal.
 
 <sup>2</sup> En cas de participation de plusieurs personnes à la procédure, les taux maximaux peuvent être dépassés. Les émoluments ne sauraient cependant excéder pour une seule personne le double des taux maximaux.
+
+[^6-1]: RS [272](https://db.clex.ch/link/Bund/272/fr)
 
 #### Art. 7
 
@@ -380,9 +381,7 @@ arrête:
 - e dépasse deux millions de francs, de — 0,5 à 7 pour cent de la valeur litigieuse
 - f n'est pas susceptible d'être évaluée, de — 1'000 à 40'000 points
 
-<sup>2</sup> Dans les litiges relevant du droit du bail et du droit du travail, il est possible de percevoir un émolument inférieur au minimum lorsque la valeur litigieuse a été calculée en application de l’article 92, alinéa 2 du code de procédure civil suisse du 19 décembre 2008 (CPC)[^36-1].
-
-[^36-1]: FF 2009 21
+<sup>2</sup> Dans les litiges relevant du droit du bail et du droit du travail, il est possible de percevoir un émolument inférieur au minimum lorsque la valeur litigieuse a été calculée en application de l’article 92, alinéa 2 CPC.
 
 #### Art. 37
 
@@ -446,7 +445,7 @@ arrête:
 - c se situe entre un million et deux millions de francs, de — 13'000 à 140'000 points
 - d dépasse deux millions de francs, de — 0,6 à 8 pour cent de la valeur litigieuse
 
-<sup>2</sup> Pour les litiges dont la Cour suprême connaît en application de l’article 5, alinéa 1, lettres e et f CPC, l'émolument est de 2'000 à 140'000 points.
+<sup>2</sup> Pour les litiges dont la Cour suprême connaît en application de l’article 5, alinéa 1, lettre e CPC, l'émolument est de 2000 à 140’000 points.
 
 <sup>3</sup> Le barème de l’article 51 s’applique par analogie aux litiges dont la Cour suprême connaît en instance cantonale unique en application du droit cantonal public.
 
@@ -516,7 +515,7 @@ arrête:
 
 <sup>1</sup> Les émoluments perçus pour les jugements rendus par le Tribunal administratif sont,
 
-- a en cas de recours, de 300 à 7 000 points
+- a en cas de recours, de 300 à 15'000 points
 - b en cas d'action ou d'appel, de 300 à 25'000 points
 - c pour les décisions incidentes et les jugements sur une requête mettant fin à l'instance, de 300 à 2'500 points
 - d en cas de litige tranché par le ou la juge unique, de 200 à 2'500 points
