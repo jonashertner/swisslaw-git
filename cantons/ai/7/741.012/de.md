@@ -4,13 +4,13 @@ number: "741.012"
 title: Standeskommissionsbeschluss über das gebührenpflichtige Parkieren
 short: StKB Parkgebühren
 language: de
-version: 2025-07-01
-valid_until: 2026-04-30
-version_adopted: 2025-06-17
+version: 2026-05-01
+valid_until: 2026-07-06
+version_adopted: 2026-04-14
 adopted: 2019-07-02
 in_force: 2019-07-09
 url: "https://ai.clex.ch/app/de/texts_of_law/741.012"
-pdf: "https://ai.clex.ch/api/de/versions/2382/pdf_file"
+pdf: "https://ai.clex.ch/api/de/versions/2451/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AI. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://ai.clex.ch/api/de/versions/2382/pdf_file"
 
 (StKB Parkgebühren)
 
-vom 02.07.2019 (Stand 01.07.2025)
+vom 02.07.2019 (Stand 01.05.2026)
 
 Die Standeskommission des Kantons Appenzell I.Rh.,
 
@@ -85,62 +85,40 @@ beschliesst:
 
 <sup>4</sup> Pauschalbewilligungen vermitteln keinen Anspruch auf einen Parkplatz.
 
+<sup>5</sup> Eine Pauschalbewilligung gilt nur für die darauf bezeichneten Parkplätze.
+
 #### Art. 8
 
-**Gebühren Parkplätze A**
+**Gebühren Parkplätze**
 
-<sup>1</sup> Die Gebührenpflicht gilt von Montag bis am Samstag von 08.00 bis 18.00 Uhr. Sonn- und Feiertage sind gebührenfrei.
+<sup>1</sup> Die Gebührenpflicht gilt von 05.00 bis 01.00 Uhr.
 
-<sup>2</sup> Es werden folgende Gebühren erhoben:
+<sup>2</sup> Es werden folgende, proportional zur Parkierzeit ansteigende Gebühren erhoben:
 
 - a) bis 90 Minuten — gratis
-- b) danach für jede Stunde — Fr. 1.--
-- c) ganzer Tag — Fr. 8.--
+- b) bis 6.5 Stunden — Fr. 1.50 bis Fr. 9.--
+- c) danach — Fr. 0.50 pro Stunde
 
-<sup>3</sup> Die Gebühr beträgt für eine Tageskarte Fr. 8.--, für eine Monatskarte Fr. 80.-- und für eine Jahreskarte Fr. 800.--.
+<sup>3</sup> Es darf höchstens sieben Tage durchgehend parkiert werden, ausgenommen mit Pauschalbewilligungen.
+
+<sup>4</sup> Die Gebühren für Pauschalbewilligungen betragen:
+
+- a) für eine Handwerkerkarte, gültig von 06.30 bis 18.30 Uhr, — Fr. 8.--
+- b) für eine Monatskarte — Fr. 80.--
+- c) für eine Saisonkarte, gültig sechs Monate, — Fr. 400.--
+- d) für eine Jahreskarte — Fr. 800.--
 
 #### Art. 9
 
-**Gebühren Parkplätze B**
-
-<sup>1</sup> Die Gebührenpflicht gilt täglich rund um die Uhr.
-
-<sup>2</sup> Es werden folgende Gebühren erhoben:
-
-- 1\. bis 90 Minuten — gratis
-- 2\. bis drei Stunden — Fr. 3.--
-- 3\. ganzer Tag — Fr. 5.--
-
-<sup>3</sup> Es darf höchstens für sieben Tage durchgehend parkiert werden.
-
-<sup>4</sup> Die Gebühr beträgt für eine Tageskarte Fr. 5.--, für eine Monatskarte Fr. 50.--, für eine Saisonkarte (sechs Monate) Fr. 250.-- und für eine Jahreskarte Fr. 500.--.
+**…**
 
 #### Art. 9a
 
-**Gebühren Parkplätze C**
-
-<sup>1</sup> Die Gebührenplicht gilt täglich rund um die Uhr.
-
-<sup>2</sup> Es werden folgende, proportional zur Parkierzeit ansteigende Gebühren erhoben:
-
-- 1\. bis 90 Minuten — gratis
-- 2\. bis 4 Stunden — Fr. 1.50 bis Fr. 3.--
-- 3\. bis 12 Stunden — Fr. 3.-- bis Fr. 5.--
-- 4\. bis 24 Stunden — Fr. 5.-- bis Fr. 8.--
-
-<sup>3</sup> Es darf höchstens sieben Tage durchgehend parkiert werden.
+**…**
 
 #### Art. 9b
 
-**Gebühren Parkplätze D**
-
-<sup>1</sup> Die Gebührenpflicht gilt täglich rund um die Uhr.
-
-<sup>2</sup> Es werden folgende, proportional zur Parkierzeit ansteigende Gebühren erhoben:
-
-- 1\. bis 90 Minuten — fix Fr. 3.--
-- 2\. bis 4 Stunden — Fr. 3.-- bis Fr. 6.--
-- 3\. bis 24 Stunden — Fr. 6.-- bis Fr. 9.--
+**…**
 
 #### Art. 10
 
