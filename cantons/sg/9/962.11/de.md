@@ -4,13 +4,12 @@ number: "962.11"
 title: Strafprozessverordnung
 short: StPV
 language: de
-version: 2024-11-01
-valid_until: 2026-04-30
-version_adopted: 2024-10-15
+version: 2026-05-01
+version_adopted: 2026-03-31
 adopted: 2010-11-23
 in_force: 2011-01-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/962.11"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3686/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3893/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3686/pdf_file"
 
 (StPV)
 
-vom 23.11.2010 (Stand 01.11.2024)
+vom 23.11.2010 (Stand 01.05.2026)
 
 Die Regierung des Kantons St.Gallen
 
@@ -317,7 +316,7 @@ als Verordnung:[^ingress-2]
 
 - a) keine Fluchtgefahr besteht;
 - b) nicht zu erwarten ist, dass die verurteilte Person während des Vollzugs weitere Straftaten begeht;
-- c) die verurteilte Person ein Anwesenheitsrecht in der Schweiz hat und keine Landesverweisung gegen sie angeordnet wurde;[^21-1]
+- c) die verurteilte Person das Recht hat, einer Arbeit nachzugehen oder eine Ausbildung zu absolvieren;
 - d) die verurteilte Person während der Strafverbüssung ihrer bisherigen Arbeit oder einer anerkannten Ausbildung mit einem Beschäftigungsumfang von wenigstens 20 Stunden je Woche nachgehen kann. Haus- und Erziehungsarbeit sowie Arbeitsloseneinsatzprogramme sind gleichgestellt;
 - e) die verurteilte Person Gewähr bietet, dass sie die Rahmenbedingungen dieser Vollzugsform und die Hausordnung der Vollzugseinrichtung einhält;
 - f) dem Vollzug in dieser Form keine betrieblichen Gründe entgegenstehen.
@@ -325,8 +324,6 @@ als Verordnung:[^ingress-2]
 <sup>2</sup> Für die Zulassung ist die Dauer der von der Richterin oder dem Richter ausgesprochenen Gesamtstrafe, bei teilbedingten Strafen der unbedingte Teil massgebend. Verschiedene Freiheitsstrafen werden gemeinsam vollzogen und deren Dauer zusammengerechnet.
 
 <sup>3</sup> …
-
-[^21-1]: Art. [66a](https://db.clex.ch/link/Bund/311.0/de) und Art. [66a<sup>bis</sup>](https://db.clex.ch/link/Bund/311.0/de) des Schweizerischen Strafgesetzbuches, SR [311.0](https://db.clex.ch/link/Bund/311.0/de).
 
 #### Art. 21a
 
@@ -336,19 +333,17 @@ als Verordnung:[^ingress-2]
 
 - a) keine Fluchtgefahr besteht;
 - b) nicht zu erwarten ist, dass die verurteilte Person während des Vollzugs weitere Straftaten begeht;
-- c) die verurteilte Person ein Anwesenheitsrecht in der Schweiz hat und keine Landesverweisung gegen sie angeordnet wurde;[^21a-1]
+- c) die verurteilte Person das Recht hat, einer Arbeit nachzugehen oder eine Ausbildung zu absolvieren;
 - d) die verurteilte Person während der Strafverbüssung ihrer bisherigen Arbeit oder einer anerkannten Ausbildung mit einem Beschäftigungsumfang von mindestens 20 Stunden je Woche nachgehen kann. Haus- und Erziehungsarbeit sowie Arbeitsloseneinsatzprogramme sind gleichgestellt;
 - e) die verurteilte Person eine geeignete, dauerhafte Unterkunft nachweisen kann, welche die elektronische Datenübertragung des Überwachungsgeräts mittels Festnetzanschluss oder Mobilfunkempfang zulässt;
 - f) die in derselben Unterkunft lebenden erwachsenen Personen dem Vollzug in dieser Form zustimmen;
 - g) die verurteilte Person dem Vollzugs- und Wochenplan zustimmt;
-- h) die verurteilte Person eine Privathaftpflichtversicherung nachweisen kann;
+- h) …
 - i) die verurteilte Person Gewähr bietet, dass sie die Rahmenbedingungen dieser Vollzugsform einhält, und dem Vollzug in dieser Form keine beruflichen, familiären oder anderen wichtigen Gründe entgegenstehen.
 
-<sup>2</sup> Für die Zulassung ist die Dauer der von der Richterin oder dem Richter ausgesprochenen Gesamtstrafe massgebend. Verschiedene Freiheitsstrafen werden gemeinsam vollzogen und deren Dauer zusammengerechnet.
+<sup>2</sup> Für die Zulassung ist die Dauer der von der Richterin oder dem Richter ausgesprochenen Gesamtstrafe, bei teilbedingten Strafen der unbedingte Teil massgebend. Verschiedene Freiheitsstrafen werden gemeinsam vollzogen und deren Dauer zusammengerechnet.
 
 <sup>3</sup> Die Zustimmung nach Abs. 1 Bst. f und g dieser Bestimmung beinhaltet das Einverständnis, dass der Vollzugsbehörde oder der von ihr beauftragten Stelle während der elektronischen Überwachung jederzeit auch ohne Voranmeldung Zutritt zur Unterkunft gewährt wird.
-
-[^21a-1]: Art. [66a](https://db.clex.ch/link/Bund/311.0/de) und Art. [66a<sup>bis</sup>](https://db.clex.ch/link/Bund/311.0/de) des Schweizerischen Strafgesetzbuches, SR [311.0](https://db.clex.ch/link/Bund/311.0/de).
 
 #### Art. 21b
 
@@ -362,7 +357,7 @@ als Verordnung:[^ingress-2]
 - d) die verurteilte Person Gewähr bietet, dass sie die Rahmenbedingungen dieser Vollzugsform und des Einsatzbetriebs einhält;
 - e) die verurteilte Person zustimmt, dass dem Einsatzbetrieb die Straftatbestände, die zur Verurteilung führten, bekanntgegeben werden können.
 
-<sup>2</sup> Für die Zulassung ist die Dauer der von der Richterin oder dem Richter ausgesprochenen Gesamtstrafe massgebend. Verschiedene Freiheitsstrafen werden gemeinsam vollzogen und deren Dauer zusammengerechnet.
+<sup>2</sup> Für die Zulassung ist die Dauer der von der Richterin oder dem Richter ausgesprochenen Gesamtstrafe, bei teilbedingten Strafen der unbedingte Teil massgebend. Verschiedene Freiheitsstrafen werden gemeinsam vollzogen und deren Dauer zusammengerechnet.
 
 <sup>3</sup> Bei Geldstrafen und Bussen ergibt sich die Dauer der gemeinnützigen Arbeit aufgrund der Ersatzfreiheitsstrafe, die an die Stelle der Geldstrafe oder Busse tritt, wenn diese nicht bezahlt wird. Für den Vollzug einer Ersatzfreiheitsstrafe ist die gemeinnützige Arbeit ausgeschlossen.
 
@@ -392,7 +387,7 @@ als Verordnung:[^ingress-2]
 - d) wenn sie sich in einem Arbeitsloseneinsatzprogramm befindet: eine Bescheinigung der durchführenden Stelle mit den Einsatzzeiten;
 - e) bei Haus- und Erziehungsarbeit: ein Wochenprogramm.
 
-<sup>2</sup> Personen mit ausländischer Staatsangehörigkeit reichen zusätzlich einen Nachweis für ihr Aufenthaltsrecht in der Schweiz und die Berechtigung für eine Erwerbstätigkeit oder Ausbildung ein.
+<sup>2</sup> Personen mit ausländischer Staatsangehörigkeit reichen zusätzlich zu ihrem aufenthaltsrechtlichen Status die Berechtigung für die Ausübung einer Erwerbstätigkeit oder Ausbildung ein, wenn sich diese aus dem Aufenthaltstitel nicht eindeutig ergibt.
 
 <sup>3</sup> Das Amt für Justizvollzug kann weitere Unterlagen einfordern.
 
@@ -413,9 +408,9 @@ als Verordnung:[^ingress-2]
 - b) den Nachweis über eine dauerhafte Unterkunft;
 - c) den Nachweis über einen Festnetzanschluss oder Mobilfunkempfang;
 - d) die Zustimmung aller erwachsenen Personen im gleichen Haushalt;
-- e) den Nachweis einer Privathaftpflichtversicherung.
+- e) …
 
-<sup>2</sup> Personen mit ausländischer Staatsangehörigkeit reichen zusätzlich einen Nachweis für ihr Aufenthaltsrecht in der Schweiz und die Berechtigung für eine Erwerbstätigkeit oder Ausbildung ein.
+<sup>2</sup> Personen mit ausländischer Staatsangehörigkeit reichen zusätzlich zu ihrem aufenthaltsrechtlichen Status die Berechtigung für die Ausübung einer Erwerbstätigkeit oder Ausbildung ein, wenn sich diese aus dem Aufenthaltstitel nicht eindeutig ergibt.
 
 <sup>3</sup> Ist eine Bewilligung der elektronischen Überwachung grundsätzlich möglich, sorgt das Amt für Justizvollzug für eine Eignungsabklärung, mit der:
 
