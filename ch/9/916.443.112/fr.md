@@ -3,18 +3,18 @@ sr: "916.443.112"
 title: Ordonnance de l’OSAV du 17 juillet 2025 instituant des mesures contre la dermatose nodulaire contagieuse (lumpy skin disease)
 eli: "https://fedlex.data.admin.ch/eli/cc/2025/471"
 language: fr
-version: 2026-04-01
+version: 2026-05-01
 adopted: 2025-07-17
 in_force: 2025-07-18
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/471/20260401/fr/xml/fedlex-data-admin-ch-eli-cc-2025-471-20260401-fr-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2025/471/20260401/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/471/20260501/fr/xml/fedlex-data-admin-ch-eli-cc-2025-471-20260501-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2025/471/20260501/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance de l’OSAV instituant des mesures contre la dermatose nodulaire contagieuse (lumpy skin disease)
 
-du 17 juillet 2025 (État le 1<sup>er</sup> avril 2026)
+du 17 juillet 2025 (État le 1<sup>er</sup> mai 2026)
 
 L’Office fédéral de la sécurité alimentaire et des affaires vétérinaires (OSAV),
 
@@ -224,16 +224,16 @@ Les animaux vivants des espèces réceptives peuvent être déplacés hors de la
 
 - a.[^17-1] s’ils sont vaccinés depuis au moins 28 jours;
 - b.[^17-2] si tous les autres animaux du même troupeau sont vaccinés depuis au moins 28 jours;
-- c. si tous les autres animaux du même troupeau ont été soumis à un examen clinique et, le cas échéant, à un examen de laboratoire dont le résultat est négatif;
-- d.[^17-3] si les animaux ont été détenus dans leur exploitation d’origine depuis leur naissance ou pendant une période ininterrompue d’au moins 28 jours avant la date du déplacement, et
-- e.[^17-4] si tous les animaux des espèces réceptives présents dans un rayon de 50 km autour de l’exploitation d’origine à partir de laquelle ont lieu les déplacements ont reçu un vaccin ou une dose de rappel 60 jours au moins avant la date du déplacement.
+- c. si tous les autres animaux du même troupeau ont été soumis à un examen clinique et, le cas échéant, à un examen de laboratoire dont le résultat est négatif, et
+- d.[^17-3] si les animaux ont été détenus dans leur exploitation d’origine depuis leur naissance ou pendant une période ininterrompue d’au moins 28 jours avant la date du déplacement;
+- e.[^17-4] …
 
 <sup>2</sup> Ne sont pas concernés par l’al. 1 les animaux directement menés à l’abattage sur autorisation du vétérinaire cantonal.
 
 [^17-1]: Erratum du 18 août 2025 ([RO 2025 512](https://fedlex.data.admin.ch/eli/oc/2025/512)).
 [^17-2]: Erratum du 18 août 2025 ([RO 2025 512](https://fedlex.data.admin.ch/eli/oc/2025/512)).
 [^17-3]: Nouvelle teneur selon le ch. I de l’O de l’OSAV du 22 oct. 2025, en vigueur depuis le 24 oct. 2025 ([RO 2025 637](https://fedlex.data.admin.ch/eli/oc/2025/637)).
-[^17-4]: Nouvelle teneur selon le ch. I de l’O de l’OSAV du 22 oct. 2025, en vigueur depuis le 24 oct. 2025 ([RO 2025 637](https://fedlex.data.admin.ch/eli/oc/2025/637)).
+[^17-4]: Abrogée par le ch. I de l’O de l’OSAV du 11 mars 2026, avec effet au 1<sup>er</sup> mai 2026 ([RO 2026 116](https://fedlex.data.admin.ch/eli/oc/2026/116)).
 
 #### Art. 18
 
@@ -336,4 +336,4 @@ Sont des zones de vaccination:
 - – le territoire La Pile Dessus de la commune de Saint-Cergue, dans le canton de Vaud;
 - – les territoires marqués en gris sur la carte ci-dessous appartenant aux communes suivantes du canton du Valais: Champéry, Val-d’Illiez, Finhaut, Martigny-Combe, Orsières, Salvan, Trient.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/471/20260401/fr/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/471/20260501/fr/xml/image/image1.png)

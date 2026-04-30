@@ -3,18 +3,18 @@ sr: "916.443.112"
 title: Ordinanza dell’USAV del 17 luglio 2025 che istituisce misure in relazione alla dermatite nodulare contagiosa (Lumpy skin disease)
 eli: "https://fedlex.data.admin.ch/eli/cc/2025/471"
 language: it
-version: 2026-04-01
+version: 2026-05-01
 adopted: 2025-07-17
 in_force: 2025-07-18
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/471/20260401/it/xml/fedlex-data-admin-ch-eli-cc-2025-471-20260401-it-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2025/471/20260401/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/471/20260501/it/xml/fedlex-data-admin-ch-eli-cc-2025-471-20260501-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2025/471/20260501/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza dell’USAV che istituisce misure in relazione alla dermatite nodulare contagiosa (Lumpy skin disease)
 
-del 17 luglio 2025 (Stato 1° aprile 2026)
+del 17 luglio 2025 (Stato 1° maggio 2026)
 
 L’Ufficio federale della sicurezza alimentare e di veterinaria (USAV),
 
@@ -224,15 +224,15 @@ Gli animali vivi delle specie ricettive possono essere trasferiti dalla zona di 
 
 - a.[^17-1] sono stati vaccinati almeno 28 giorni prima;
 - b. tutti gli altri animali dello stesso effettivo sono stati vaccinati almeno 28 giorni prima;
-- c. tutti gli altri animali dello stesso effettivo sono stati sottoposti a un esame clinico e, se necessario, a un esame di laboratorio con esito negativo;
-- d.[^17-2] gli animali sono stati tenuti nell’azienda di origine dalla nascita o per un periodo ininterrotto di almeno 28 giorni prima della data del trasferimento; e
-- e.[^17-3] tutti gli animali delle specie ricettive nel raggio di 50 chilometri intorno all’azienda di origine del trasferimento sono stati vaccinati o rivaccinati almeno 60 giorni prima della data di trasferimento.
+- c. tutti gli altri animali dello stesso effettivo sono stati sottoposti a un esame clinico e, se necessario, a un esame di laboratorio con esito negativo; e
+- d.[^17-2] gli animali sono stati tenuti nell’azienda di origine dalla nascita o per un periodo ininterrotto di almeno 28 giorni prima della data del trasferimento;
+- e.[^17-3] …
 
 <sup>2</sup> Il capoverso 1 non si applica agli animali trasportati direttamente per la macellazione previa autorizzazione del veterinario cantonale.
 
 [^17-1]: Correzione del 18 ago. 2025, concerne soltanto il testo francese ([RU 2025 512](https://fedlex.data.admin.ch/eli/oc/2025/512)).
 [^17-2]: Nuovo testo giusta la cifra I dell’O dell’USAV del 22 ott. 2025, in vigore dal 24 ott. 2025 ([RU 2025 637](https://fedlex.data.admin.ch/eli/oc/2025/637)).
-[^17-3]: Nuovo testo giusta la cifra I dell’O dell’USAV del 22 ott. 2025, in vigore dal 24 ott. 2025 ([RU 2025 637](https://fedlex.data.admin.ch/eli/oc/2025/637)).
+[^17-3]: Abrogata dalla cifra I dall’O dell’USAV dell’11 mar. 2026, con effetto dal 1° mag. 2026 ([RU 2026 116](https://fedlex.data.admin.ch/eli/oc/2026/116)).
 
 #### Art. 18
 
@@ -332,4 +332,4 @@ Sono zone di vaccinazione:
 - – la zona di La Pile Dessus del Comune di Saint-Cergue nel Cantone di Vaud;
 - – i territori evidenziati in grigio sulla mappa sottostante facenti parte dei seguenti Comuni del Cantone del Vallese: Champéry, Val-d’Illiez, Finhaut, Martigny-Combe, Orsières, Salvan, Trient.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/471/20260401/it/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/471/20260501/it/xml/image/image1.png)

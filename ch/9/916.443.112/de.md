@@ -3,18 +3,18 @@ sr: "916.443.112"
 title: Verordnung des BLV vom 17. Juli 2025 über Massnahmen im Zusammenhang mit der Dermatitis nodularis (Lumpy Skin Disease)​
 eli: "https://fedlex.data.admin.ch/eli/cc/2025/471"
 language: de
-version: 2026-04-01
+version: 2026-05-01
 adopted: 2025-07-17
 in_force: 2025-07-18
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/471/20260401/de/xml/fedlex-data-admin-ch-eli-cc-2025-471-20260401-de-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2025/471/20260401/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/471/20260501/de/xml/fedlex-data-admin-ch-eli-cc-2025-471-20260501-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2025/471/20260501/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung des BLV über Massnahmen im Zusammenhang mit der Dermatitis nodularis (Lumpy Skin Disease)
 
-vom 17. Juli 2025 (Stand am 1. April 2026)
+vom 17. Juli 2025 (Stand am 1. Mai 2026)
 
 Das Bundesamt für Lebensmittelsicherheit und Veterinärwesen (BLV),
 
@@ -224,15 +224,15 @@ Aus der Impfzone dürfen lebende Tiere empfänglicher Arten verstellt werden, we
 
 - a.[^17-1] sie mindestens 28 Tage zuvor geimpft wurden;
 - b. alle anderen Tiere des gleichen Bestandes mindestens 28 Tage zuvor geimpft wurden;
-- c. alle anderen Tiere des gleichen Bestandes einer klinischen und nötigenfalls einer Laboruntersuchung mit negativem Ergebnis unterzogen wurden;
-- d.[^17-2] die Tiere seit ihrer Geburt oder während eines ununterbrochenen Zeitraumes von mindestens 28 Tagen vor dem Verstelldatum in ihrem Ursprungsbetrieb gehalten wurden; und
-- e.[^17-3] alle Tiere empfänglicher Arten im Umkreis von 50 Kilometern um den Ursprungsbetrieb der Verstellung mindestens 60 Tage vor dem Verstelldatum geimpft oder wiedergeimpft wurden.
+- c. alle anderen Tiere des gleichen Bestandes einer klinischen und nötigenfalls einer Laboruntersuchung mit negativem Ergebnis unterzogen wurden; und
+- d.[^17-2] die Tiere seit ihrer Geburt oder während eines ununterbrochenen Zeitraumes von mindestens 28 Tagen vor dem Verstelldatum in ihrem Ursprungsbetrieb gehalten wurden;
+- e.[^17-3] …
 
 <sup>2</sup> Von Absatz 1 ausgenommen sind Tiere, die nach der Genehmigung der Kantonstierärztin oder des Kantonstierarztes direkt zur Schlachtung verbracht werden.
 
 [^17-1]: Die Berichtigung vom 18. Aug. 2025 betrifft nur den französischen Text ([AS 2025 512](https://fedlex.data.admin.ch/eli/oc/2025/512)).
 [^17-2]: Fassung gemäss Ziff. I der V des BLV vom 22. Okt. 2025, in Kraft seit 24. Okt. 2025 ([AS 2025 637](https://fedlex.data.admin.ch/eli/oc/2025/637)).
-[^17-3]: Fassung gemäss Ziff. I der V des BLV vom 22. Okt. 2025, in Kraft seit 24. Okt. 2025 ([AS 2025 637](https://fedlex.data.admin.ch/eli/oc/2025/637)).
+[^17-3]: Aufgehoben durch Ziff. I der V des BLV vom 11. März 2026, mit Wirkung seit 1. Mai 2026 ([AS 2026 116](https://fedlex.data.admin.ch/eli/oc/2026/116)).
 
 #### Art. 18
 
@@ -332,4 +332,4 @@ Als Impfzonen gelten:
 - – das Gebiet La Pile Dessus der Gemeinde Saint-Cergue des Kantons Waadt;
 - – die auf der nachstehenden Karte grau markierten Teilgebiete der folgenden Gemeinden des Kantons Wallis: Champéry, Val-d’Illiez, Finhaut, Martigny-Combe, Orsières, Salvan, Trient.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/471/20260401/de/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/471/20260501/de/xml/image/image1.png)
