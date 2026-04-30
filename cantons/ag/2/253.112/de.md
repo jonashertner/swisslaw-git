@@ -4,13 +4,12 @@ number: "253.112"
 title: Verordnung über den Vollzug von Strafen und Massnahmen
 short: "Strafvollzugsverordnung, SMV"
 language: de
-version: 2024-07-01
-valid_until: 2026-04-30
-version_adopted: 2024-03-13
+version: 2026-05-01
+version_adopted: 2026-03-04
 adopted: 2020-09-23
 in_force: 2021-01-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/253.112"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3620/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3937/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3620/pdf_file"
 
 (Strafvollzugsverordnung, SMV)
 
-Vom 23.09.2020 (Stand 01.07.2024)
+Vom 23.09.2020 (Stand 01.05.2026)
 
 Der Regierungsrat des Kantons Aargau,
 
@@ -70,11 +69,13 @@ beschliesst:
 - e) die Rechtshilfe im Rahmen des Vollzugs von Strafen und Massnahmen,
 - f) die Information von Personen, Institutionen und Amtsstellen, die mit der Behandlung, Betreuung oder Kontrolle von Personen im Straf- und Massnahmenvollzug betraut sind,
 - g) die Überwachung des Vollzugs der bei bedingten Strafen erteilten Weisungen (Art. 94 des Schweizerischen Strafgesetzbuches (StGB) vom 21. Dezember 1937)[^3-1],
-- h) die Bewährungshilfe.
+- h) die Bewährungshilfe,
+- i) die Durchführung der erkennungsdienstlichen Erfassung gemäss Art. 260 der Schweizerischen Strafprozessordnung (Strafprozessordnung, StPO) vom 5. Oktober 2007[^3-2] auf Anordnung durch die Kantonspolizei, die Staatsanwaltschaft oder die Gerichte.
 
 <sup>3</sup> Als Rechtsmittelinstanz beurteilt das AJV Beschwerden gegen Entscheide der Leitungen der Vollzugsanstalten betreffend den Straf- und Massnahmenvollzug.
 
 [^3-1]: SR [311.0](https://db.clex.ch/link/Bund/311.0/de)
+[^3-2]: SR [312.0](https://db.clex.ch/link/Bund/312.0/de)
 
 #### § 4
 
@@ -982,6 +983,16 @@ beschliesst:
 <sup>1</sup> Das Amt für Migration und Integration Kanton Aargau (MIKA) ist zuständig für den Vollzug der Landesverweisungen (Art. 66a und 66a<sup>bis</sup> StGB) und für den Entscheid über den Aufschub des Vollzugs der obligatorischen Landesverweisung (Art. 66d StGB).
 
 <sup>2</sup> Das AJV teilt dem MIKA den Zeitpunkt der bedingten oder endgültigen Entlassung aus dem Sanktionenvollzug rechtzeitig mit.
+
+#### § 89a
+
+**DNA-Analyse**
+
+<sup>1</sup> Die Gerichte und die Staatsanwaltschaft stellen Entscheide über die Abnahme von DNA-Proben und das Erstellen von DNA-Profilen gemäss Art. 257 StPO nach Eintritt der Rechtskraft der Kantonspolizei zu.
+
+<sup>2</sup> Die Kantonspolizei lädt die verurteilte Person zur Abnahme der DNA-Probe vor.
+
+<sup>3</sup> Leistet die verurteilte Person der Vorladung gemäss Absatz 2 keine Folge oder ist ihr Aufenthaltsort unbekannt, erlässt die ursprünglich für das Verfahren zuständige Staatsanwaltschaft einen Vorführungsbefehl.
 
 ## 11. Strafregister
 
