@@ -4,13 +4,12 @@ number: "550.1"
 title: Gesetz über die Kantonspolizei
 short: PolG
 language: de
-version: 2024-11-01
-valid_until: 2026-04-30
-version_adopted: 2024-05-16
+version: 2026-05-01
+version_adopted: 2025-11-13
 adopted: 2016-11-11
 in_force: 2018-01-01
 url: "https://lex.vs.ch/app/de/texts_of_law/550.1"
-pdf: "https://lex.vs.ch/api/de/versions/3542/pdf_file"
+pdf: "https://lex.vs.ch/api/de/versions/3598/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://lex.vs.ch/api/de/versions/3542/pdf_file"
 
 (PolG)
 
-vom 11.11.2016 (Stand 01.11.2024)
+vom 11.11.2016 (Stand 01.05.2026)
 
 Der Grosse Rat des Kantons Wallis
 
@@ -775,11 +774,27 @@ verordnet:[^ingress-1]
 
 <sup>5</sup> Die Gemeinden stellen ihre Aufnahmen der Kantonspolizei kostenlos zur Verfügung.
 
+#### Art. 58a
+
+**Aufnahmegeräte und Körperkameras**
+
+<sup>1</sup> Im Rahmen ihrer Aufgabenerfüllung (Kapitel 2) kann die Kantonspolizei zwecks Dokumentation ihrer Einsätze mobile Bild- und Tonaufnahmegeräte sowie auf dem Körper getragene Videokameras (Körperkameras) verwenden, ohne vorherige Mitteilung oder Spezialbewilligung.
+
+<sup>2</sup> Die Aufzeichnungen werden ausgewertet, falls eine Strafanzeige, ein Strafantrag oder konkrete Verdachtsgründe für eine Straftat vorliegen und damit zu rechnen ist, dass sie als Beweismittel dienen können. Andernfalls werden die Daten nicht bearbeitet und werden 100 Tage nach ihrer Erstellung vernichtet.[^58a-1]
+
+<sup>3</sup> Ergeben sich bei der Auswertung konkrete Verdachtsgründe auf andere Straftaten, die mit der abzuklärenden Tat in keinem Zusammenhang stehen, werden die entsprechenden Daten ebenfalls ausgewertet.
+
+<sup>4</sup> Der Staatsrat regelt die Ausführungsmodalitäten der vorliegenden Bestimmung auf dem Verordnungsweg.
+
+<sup>5</sup> Im Übrigen sind die Artikel 50 fortfolgende des vorliegenden Gesetzes anwendbar.
+
+[^58a-1]: Berichtigung der deutschsprachigen Formulierung i.S.v. Art. 52 Abs. 4 RGR durch das Büro des Grossen Rates am 23. Dezember 2025, um die Übereinstimmung der Sprachfassungen sicherzustellen.
+
 #### Art. 59
 
 **Automatisierte Fahrzeugfahndung**
 
-<sup>1</sup> Die Kantonspolizei kann zur Fahndung nach Personen oder Sachen sowie zur Verhinderung, Entdeckung und Verfolgung von Verbrechen und Vergehen Fahrzeuge sowie Kontrollschilder von Fahrzeugen automatisiert (optisch) erfassen. Die Dauer der Massnahme nach dieser Bestimmung ist auf maximal 100 Tage beschränkt.
+<sup>1</sup> Die Kantonspolizei kann zur Fahndung nach Personen oder Sachen sowie zur Verhinderung von Verbrechen und Vergehen Fahrzeuge sowie ihre Kontrollschilder automatisiert (optisch) erfassen. Die Dauer der Massnahme gemäss dieser Bestimmung ist auf maximal 30 Tage beschränkt.
 
 <sup>2</sup> Sie kann die Daten mit Datenbanken automatisiert abgleichen, analysieren und zur Erstellung von Bewegungsprofilen nutzen. Der automatisierte Abgleich ist zulässig:
 
@@ -787,15 +802,15 @@ verordnet:[^ingress-1]
 - b) mit den Ausschreibungen der Kantonspolizei;
 - c) mit Angaben zu Kontrollschildern von Fahrzeugen, deren Haltern der Führerausweis entzogen oder verweigert worden ist.
 
-<sup>3</sup> Die automatisch erfassten Daten werden wie folgt gelöscht:
+<sup>3</sup> Im Falle einer Übereinstimmung werden die automatisch erfassten Daten innerhalb der Fristen gelöscht, die in den anwendbaren Bestimmungen des betreffenden Verwaltungs- oder Strafverfahrens vorgesehen sind.
 
-- a) innert einer Frist von maximal 100 Tagen in den Fällen ohne Übereinstimmung mit einer Datenbank;
-- b) innert den Fristen gemäss den Bestimmungen des betreffenden Verwaltungs- oder Strafverfahrens im Falle einer Übereinstimmung mit einer Datenbank.
+- a) …
+- b) …
 
-<sup>4</sup> Die Kantonspolizei darf die automatisch erfassten Daten während höchstens 100 Tagen verwenden zur:
+<sup>4</sup> Die Kantonspolizei darf die automatisch erfassten Daten während höchstens 100 Tagen zur Fahndung nach vermissten oder entwichenen Personen verwenden.
 
-- a) Aufklärung von Verbrechen und Vergehen;
-- b) Fahndung nach vermissten oder entwichenen Personen.
+- a) …
+- b) …
 
 <sup>5</sup> Artikel 58 Absatz 3 Buchstaben b bis e sind zudem analog anwendbar.
 

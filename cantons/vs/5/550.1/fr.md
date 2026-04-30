@@ -4,13 +4,12 @@ number: "550.1"
 title: Loi sur la police cantonale
 short: LPol
 language: fr
-version: 2024-11-01
-valid_until: 2026-04-30
-version_adopted: 2024-05-16
+version: 2026-05-01
+version_adopted: 2025-11-13
 adopted: 2016-11-11
 in_force: 2018-01-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/550.1"
-pdf: "https://lex.vs.ch/api/fr/versions/3542/pdf_file"
+pdf: "https://lex.vs.ch/api/fr/versions/3598/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://lex.vs.ch/api/fr/versions/3542/pdf_file"
 
 (LPol)
 
-du 11.11.2016 (état 01.11.2024)
+du 11.11.2016 (état 01.05.2026)
 
 Le Grand Conseil du canton du Valais
 
@@ -775,11 +774,25 @@ ordonne:[^ingress-1]
 
 <sup>5</sup> Les communes doivent mettre gratuitement à disposition de la police cantonale leurs enregistrements.
 
+#### Art. 58a
+
+**Appareils d'enregistrement et caméras-piétonnes**
+
+<sup>1</sup> Dans le cadre des missions que la Police cantonale accomplit (chapitre 2), elle peut utiliser des appareils mobiles d'enregistrement d'images et de sons ainsi que des caméras vidéo portées sur le corps (caméras-piétonnes) afin de documenter les interventions, sans avertissement préalable ou autorisation spéciale.
+
+<sup>2</sup> Les données enregistrées sont analysées en cas de dénonciation ou de plainte pénale ou d'indices concrets de la commission d'une infraction et s'il faut s'attendre à ce qu'ils puissent servir de preuve. Dans le cas contraire, elles ne sont pas traitées et sont détruites après 100 jours.
+
+<sup>3</sup> Si l'analyse fait apparaître des indices concrets de la commission d'autres infractions qui ne sont pas en rapport avec le fait à élucider, les données correspondantes seront également analysées.
+
+<sup>4</sup> Le Conseil d'Etat arrête par voie d'ordonnance les modalités d'exécution de la présente disposition.
+
+<sup>5</sup> Les articles 50 et suivants de la présente loi s'appliquent pour le surplus.
+
 #### Art. 59
 
 **Recherche automatisée de véhicules**
 
-<sup>1</sup> La police cantonale peut enregistrer de manière automatisée (optiquement) les véhicules et leurs plaques d'immatriculation à des fins de recherche de personnes ou de biens et pour la prévention, la détection et la poursuite de crimes et de délits. La durée de la mesure selon la présente disposition se limite au maximum à 100 jours.
+<sup>1</sup> La police cantonale peut enregistrer de manière automatisée (optiquement) les véhicules et leurs plaques d'immatriculation à des fins de recherche de personnes ou de biens ainsi que pour la prévention de crimes et de délits. La durée de la mesure selon la présente disposition se limite au maximum à 30 jours.
 
 <sup>2</sup> Elle peut comparer automatiquement les données avec des bases de données, les analyser et les utiliser pour créer des profils de mouvements. La comparaison automatisée des données est admissible:
 
@@ -787,15 +800,15 @@ ordonne:[^ingress-1]
 - b) avec les avis de recherche de la police cantonale;
 - c) avec des informations sur les plaques d’immatriculation de véhicules dont le détenteur s'est vu retirer ou refuser son permis de conduire.
 
-<sup>3</sup> Les données enregistrées automatiquement sont effacées:
+<sup>3</sup> Les données enregistrées automatiquement sont effacées dans les délais prévus par les dispositions applicables de la procédure administrative ou pénale concernée lorsqu’une concordance est établie.
 
-- a) dans un délai de 100 jours maximum dans les cas où la comparaison avec les bases de données n’a donné aucun résultat;
-- b) dans les délais prévus par les dispositions applicables de la procédure administrative ou pénale concernée lorsqu’une concordance est établie.
+- a) …
+- b) …
 
-<sup>4</sup> La police cantonale peut, dans un délai de 100 jours au maximum, utiliser les données enregistrées automatiquement à des fins:
+<sup>4</sup> La police cantonale peut, dans un délai de 100 jours au maximum, utiliser les données enregistrées automatiquement à des fins de recherche de personnes disparues ou évadées.
 
-- a) d’enquête sur les crimes et les délits;
-- b) de recherche de personnes disparues ou évadées.
+- a) …
+- b) …
 
 <sup>5</sup> L’article 58 alinéa 3 lettres b à e s’applique pour le surplus par analogie.
 
