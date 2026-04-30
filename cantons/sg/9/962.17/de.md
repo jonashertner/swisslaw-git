@@ -3,20 +3,19 @@ canton: SG
 number: "962.17"
 title: Verordnung über die Bewährungshilfe
 language: de
-version: 2025-08-01
-valid_until: 2026-04-30
-version_adopted: 2025-06-17
+version: 2026-05-01
+version_adopted: 2026-03-31
 adopted: 1993-05-25
 in_force: 1993-07-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/962.17"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3786/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3894/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die Bewährungshilfe
 
-vom 25.05.1993 (Stand 01.08.2025)
+vom 25.05.1993 (Stand 01.05.2026)
 
 Landammann und Regierungsrat des Kantons St.Gallen
 
@@ -63,13 +62,15 @@ als Verordnung:[^ingress-3]
 <sup>1</sup> Die Bewährungshilfe St.Gallen:
 
 - a) übt die von der Richterin oder vom Richter oder der Vollzugsbehörde angeordnete Bewährungshilfe aus. Sie leistet und vermittelt die dafür erforderliche Sozial- und Fachhilfe;
-- a<sup>bis</sup>) sorgt für die Eignungsabklärung, die Erstellung des Vollzugsplans, die psychosoziale Begleitung und die technische Kontrolle beim Vollzug von Freiheitsstrafen in Form der elektronischen Überwachung;
+- a<sup>bis</sup>) sorgt für den Vollzug der elektronischen Überwachung nach der Verordnung über die elektronische Überwachung vom 31. März 2026[^4-1];
 - b) überwacht die Einhaltung der ambulanten Behandlungen und der Weisungen, wenn sich die oder der Verurteilte in Freiheit befindet;
 - c) …
 - d) sorgt auf Ansuchen der weggewiesenen Person für die Erstberatung nach häuslicher Gewalt;
 - e) führt bei Bedarf spezielle Trainingskurse durch.
 
 <sup>2</sup> Die Bewährungshilfe St.Gallen arbeitet mit Untersuchungs-, Gerichts- und Strafvollzugsbehörden sowie mit anderen Sozialdiensten zusammen.
+
+[^4-1]: sGS [962.12](https://www.gesetzessammlung.sg.ch/data/962.12/de).
 
 #### Art. 5
 
