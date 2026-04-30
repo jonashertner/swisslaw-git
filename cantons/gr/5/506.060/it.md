@@ -4,13 +4,12 @@ number: "506.060"
 title: "Ordinanza della legge sulla promozione della cura degli ammalati e dell'assistenza alle persone anziane e bisognose di cure"
 short: "Ordinanza della legge sulla cura degli ammalati, OLCA"
 language: it
-version: 2026-01-01
-valid_until: 2026-04-30
+version: 2026-05-01
 version_adopted: 2026-04-28
 adopted: 2017-12-19
 in_force: 2018-01-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/506.060"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/3637/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3900/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
@@ -19,7 +18,7 @@ pdf: "https://www.gr-lex.gr.ch/api/it/versions/3637/pdf_file"
 
 (Ordinanza della legge sulla cura degli ammalati, OLCA)
 
-del 19.12.2017 (stato 01.01.2026)
+del 19.12.2017 (stato 01.05.2026)
 
 emanata dal Governo il 19 dicembre 2017
 
@@ -35,7 +34,7 @@ visto l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1]
 
 <sup>1</sup> Gli ospedali, le cliniche e le case per partorienti (di seguito: ospedali) che figurano nell'elenco degli ospedali del Cantone e che sono situati nel Cantone sono tenuti:
 
-- a) ad allestire il conto annuale conformemente ai principi per la presentazione dei conti emanati dalla Fondazione per le raccomandazioni relative alla presentazione dei conti (Swiss GAAP RPC) e al manuale della Federazione grigionese ospedali e case di cura basato su di essi. Il manuale deve essere approvato dall'Ufficio dell'igiene pubblica (Ufficio);
+- a) ad allestire il conto annuale conformemente ai principi per la presentazione dei conti emanati dalla Fondazione per le raccomandazioni relative alla presentazione dei conti (Swiss GAAP RPC) e al manuale della Federazione grigionese ospedali e case di cura basato su di essi. Il manuale deve essere approvato dall'Ufficio della sanità (Ufficio);
 - b) …
 - c) a calcolare e registrare i costi e le prestazioni conformemente all'ordinanza sul calcolo dei costi e la registrazione delle prestazioni da parte degli ospedali, delle case per partorienti e delle case di cura nell'assicurazione malattie[^1-1] (OCPre) e al manuale REKOLE® di H+ Gli Ospedali Svizzeri.
 
@@ -166,13 +165,13 @@ visto l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1]
 
 **Versamento dei sussidi**
 
-<sup>1</sup> Dopo la dimissione, quale indennizzo per il singolo caso l'Ufficio versa la quota cantonale ai trattamenti stazionari sulla base delle fatture elettroniche trasmesse all'Ufficio dell'igiene pubblica nello standard XML tramite l'interfaccia.
+<sup>1</sup> Dopo la dimissione, quale indennizzo per il singolo caso l'Ufficio versa la quota cantonale ai trattamenti stazionari sulla base delle fatture elettroniche trasmesse all'Ufficio della sanità nello standard XML tramite l'interfaccia.
 
 <sup>2</sup> …
 
 <sup>3</sup> La determinazione definitiva dei sussidi alle prestazioni avviene da parte dell'Ufficio dopo l'esame dei dati statistici e dei dati finanziari.
 
-<sup>4</sup> I sussidi del Cantone per il servizio pre-ospedaliero di soccorso e trasporto sanitario, per la formazione universitaria e la ricerca, per prestazioni economicamente di interesse generale e per garantire l'assistenza sanitaria vengono versati in ragione della metà ogni volta a metà gennaio e a metà luglio.
+<sup>4</sup> I sussidi del Cantone per il servizio pre-ospedaliero di soccorso e trasporto sanitario, per la formazione universitaria e la ricerca, per prestazioni economicamente di interesse generale e per garantire l'assistenza sanitaria vengono versati in ragione della metà ogni volta a metà gennaio e a metà luglio. In casi motivati, l'Ufficio può versare i sussidi tramite acconti mensili.
 
 <sup>5</sup> La quota comunale viene anticipata dal Cantone e fatturata ai comuni durante l'anno seguente.
 
@@ -377,6 +376,8 @@ visto l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1]
 
 <sup>1</sup> I costi riconosciuti dei servizi senza mandato di prestazioni comunale ammontano all'85 per cento dei costi riconosciuti dei servizi con mandato di prestazioni comunale.
 
+<sup>2</sup> L'Ufficio può riconoscere costi superiori nel caso di servizi senza mandato di prestazioni comunale che forniscono prestazioni specializzate nel quadro dell'obbligo di assistenza.
+
 #### Art. 22
 
 **3. Infermieri diplomati ammessi**
@@ -424,7 +425,8 @@ visto l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1]
 
 - a) per le prestazioni di cura e le prestazioni di cure acute e transitorie all'entità riconosciuta dagli assicuratori malattia;
 - b) per le prestazioni di economia domestica e di assistenza a 20 ore la settimana;
-- c) per il servizio pasti a un pasto al giorno.
+- c) per il servizio pasti a un pasto al giorno;
+- d) per infermieri diplomati ammessi conformemente all'articolo 42 capoverso 5 della legge sulla cura degli ammalati[^25-1] al massimo 1500 ore all'anno.
 
 <sup>2</sup> Il responsabile del settore cura e assistenza può estendere l'entità delle prestazioni aventi diritto a sussidi secondo il capoverso 1 lettera b per un periodo massimo di 60 giorni:
 
@@ -432,6 +434,8 @@ visto l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1]
 - b) ad al massimo 168 ore la settimana per persone la cui entrata in un'istituzione stazionaria non è possibile, nonché in caso di malati gravi e di persone in fin di vita;
 - c) ad al massimo 168 ore la settimana in caso di malattia o infortunio della persona che gestisce l'economia domestica in economie domestiche con bambini e adolescenti nei confronti dei quali esiste un obbligo di mantenimento;
 - d) ad al massimo 168 ore la settimana durante le cure acute e transitorie.
+
+[^25-1]: CSC [506.000](https://www.gr-lex.gr.ch/data/506.000/it)
 
 #### Art. 26
 
@@ -690,5 +694,148 @@ visto l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1]
 
 - a) l'incarico dell'intervento di ricerca, di soccorso o di salvataggio è stato conferito da un'organizzazione autorizzata o da un servizio di coordinamento autorizzato e
 - b) nel corso di questo intervento è stata cercata e non trovata una persona non identificabile.
+
+## A1 Allegato 1: Case per anziani e di cura e unità di cura (art. 16 cpv. 7)
+
+#### Art. A1-1
+
+**Costi riconosciuti delle case per anziani e di cura e delle unità di cura**
+
+<sup>1</sup> Costi riconosciuti al giorno:
+
+<table>
+<tr><th>Livello di cura</th><th>Bisogno di cure in minuti</th><th>Pensione</th><th>Assistenza</th><th>Cure</th><th>Costi complessivi riconosciuti</th></tr>
+<tr><td>0</td><td>nessuno</td><td>fr. 146.00</td><td>fr. 43.00</td><td>fr. 0.00</td><td>fr. 189.00</td></tr>
+<tr><td>1</td><td>0–20</td><td>fr. 146.00</td><td>fr. 43.00</td><td>fr. 14.40</td><td>fr. 203.40</td></tr>
+<tr><td>2</td><td>21–40</td><td>fr. 146.00</td><td>fr. 43.00</td><td>fr. 43.20</td><td>fr. 232.20</td></tr>
+<tr><td>3</td><td>41–60</td><td>fr. 146.00</td><td>fr. 43.00</td><td>fr. 72.00</td><td>fr. 261.00</td></tr>
+<tr><td>4</td><td>61–80</td><td>fr. 146.00</td><td>fr. 43.00</td><td>fr. 100.80</td><td>fr. 289.80</td></tr>
+<tr><td>5</td><td>81–100</td><td>fr. 146.00</td><td>fr. 43.00</td><td>fr. 129.60</td><td>fr. 318.60</td></tr>
+<tr><td>6</td><td>101–120</td><td>fr. 146.00</td><td>fr. 43.00</td><td>fr. 158.40</td><td>fr. 347.40</td></tr>
+<tr><td>7</td><td>121–140</td><td>fr. 146.00</td><td>fr. 43.00</td><td>fr. 187.20</td><td>fr. 376.20</td></tr>
+<tr><td>8</td><td>141–160</td><td>fr. 146.00</td><td>fr. 43.00</td><td>fr. 216.00</td><td>fr. 405.00</td></tr>
+<tr><td>9</td><td>161–180</td><td>fr. 146.00</td><td>fr. 43.00</td><td>fr. 244.80</td><td>fr. 433.80</td></tr>
+<tr><td>10</td><td>181–200</td><td>fr. 146.00</td><td>fr. 43.00</td><td>fr. 273.60</td><td>fr. 462.60</td></tr>
+<tr><td>11</td><td>201–220</td><td>fr. 146.00</td><td>fr. 43.00</td><td>fr. 302.40</td><td>fr. 491.40</td></tr>
+<tr><td>12</td><td>&gt; 220</td><td>fr. 146.00</td><td>fr. 43.00</td><td>fr. 331.20</td><td>fr. 520.20</td></tr>
+</table>
+
+<sup>2</sup> Per la cura e l'assistenza a ospiti straordinariamente bisognosi di cure e assistenza possono essere riconosciuti in aggiunta fr. 86.40 all'ora.
+
+<sup>3</sup> Costi supplementari possono essere riconosciuti fino a un onere di 7,5 ore al giorno, al netto dell'onere conformemente al livello di cura stabilito.
+
+#### Art. A1-2
+
+**Partecipazione ai costi massima degli ospiti delle case per anziani e di cura e delle unità di cura**
+
+<sup>1</sup> Partecipazione ai costi massima al giorno:
+
+<table>
+<tr><th>Livello di cura</th><th>Bisogno di cure in minuti</th><th>Pensione</th><th>Assistenza</th><th>Cure</th><th>Totale</th></tr>
+<tr><td>0</td><td>nessuno</td><td>fr. 146.00</td><td>fr. 43.00</td><td>fr. 0.00</td><td>fr. 189.00</td></tr>
+<tr><td>1</td><td>0–20</td><td>fr. 146.00</td><td>fr. 43.00</td><td>fr. 4.80</td><td>fr. 193.80</td></tr>
+<tr><td>2</td><td>21–40</td><td>fr. 146.00</td><td>fr. 43.00</td><td>fr. 23.00</td><td>fr. 212.00</td></tr>
+<tr><td>3</td><td>41–60</td><td>fr. 146.00</td><td>fr. 43.00</td><td>fr. 23.00</td><td>fr. 212.00</td></tr>
+<tr><td>4</td><td>61–80</td><td>fr. 146.00</td><td>fr. 43.00</td><td>fr. 23.00</td><td>fr. 212.00</td></tr>
+<tr><td>5</td><td>81–100</td><td>fr. 146.00</td><td>fr. 43.00</td><td>fr. 23.00</td><td>fr. 212.00</td></tr>
+<tr><td>6</td><td>101–120</td><td>fr. 146.00</td><td>fr. 43.00</td><td>fr. 23.00</td><td>fr. 212.00</td></tr>
+<tr><td>7</td><td>121–140</td><td>fr. 146.00</td><td>fr. 43.00</td><td>fr. 23.00</td><td>fr. 212.00</td></tr>
+<tr><td>8</td><td>141–160</td><td>fr. 146.00</td><td>fr. 43.00</td><td>fr. 23.00</td><td>fr. 212.00</td></tr>
+<tr><td>9</td><td>161–180</td><td>fr. 146.00</td><td>fr. 43.00</td><td>fr. 23.00</td><td>fr. 212.00</td></tr>
+<tr><td>10</td><td>181–200</td><td>fr. 146.00</td><td>fr. 43.00</td><td>fr. 23.00</td><td>fr. 212.00</td></tr>
+<tr><td>11</td><td>201–220</td><td>fr. 146.00</td><td>fr. 43.00</td><td>fr. 23.00</td><td>fr. 212.00</td></tr>
+<tr><td>12</td><td>&gt; 220</td><td>fr. 146.00</td><td>fr. 43.00</td><td>fr. 23.00</td><td>fr. 212.00</td></tr>
+</table>
+
+#### Art. A1-3
+
+**Supplementi e riduzioni sui costi riconosciuti**
+
+<sup>1</sup> Sui costi riconosciuti possono essere riscossi al massimo i seguenti supplementi:
+
+- a) infrastruttura: locazione di una camera con una superficie di base superiore a 30 m² inclusi atrio e bagno o di una camera supplementare: fr. 1.00 per m² e giorno di cura per la superficie di base che supera i 30 m²
+- b) supplementi individuali per comfort (ad es. servizio in camera non dovuto a malattia o disabilità): 20 per cento di supplemento sui costi complessivi dimostrati
+- c) per un soggiorno a scopo di vacanze inferiore a quattro settimane: fr. 300.00 o fr. 20.00 al giorno
+
+<sup>2</sup> I supplementi individuali devono essere indicati singolarmente e non possono essere riscossi in generale per livello di cura. Essi vanno stabiliti in modo chiaro e comprensibile negli accordi tra le case di cura e i loro ospiti. Si deve anche badare alla situazione finanziaria degli ospiti, poiché i supplementi per infrastruttura e quelli individuali per comfort non vengono finanziati tramite le prestazioni complementari.
+
+<sup>3</sup> Non è ammessa la riscossione di altri supplementi.
+
+<sup>4</sup> Non rientrano tra i supplementi individuali i servizi personali quali l'allacciamento telefonico, le tasse per le comunicazioni telefoniche, la tassa per la televisione via cavo, la tassa di allacciamento a internet, le trasferte in taxi, ecc. Servizi personali richiesti dai beneficiari delle prestazioni possono essere fatturati in aggiunta, secondo il dispendio.
+
+<sup>5</sup> Sui costi riconosciuti devono essere applicate almeno le seguenti riduzioni:
+
+- a) per camere doppie e triple: fr. 10.00 per giorno di cura
+- b) senza bagno privato: fr. 10.00 per giorno di cura
+- c) in caso di assenza possono essere fatturati a partire dal primo giorno soltanto i costi di pensione dedotti fr. 15.00 (al massimo fr. 131.00 al giorno)
+
+#### Art. A1-4
+
+**Strutture diurne e notturne delle case per anziani e di cura e delle unità di cura**
+
+<sup>1</sup> Per il soggiorno nelle strutture diurne o notturne, i costi conformemente alla tabella «Costi riconosciuti delle case per anziani e di cura e delle unità di cura» vengono riconosciuti come segue:
+
+- a) costi di pensione: — 50%
+- b) costi per l'assistenza: — 100%
+
+<sup>2</sup> In caso di soggiorno nelle strutture diurne o notturne, i beneficiari delle prestazioni sono tenuti a partecipare come segue ai contributi indicati nella tabella «Partecipazione ai costi massima degli ospiti delle case per anziani e di cura e delle unità di cura»:
+
+- a) costi di pensione: — 50%
+- b) costi per l'assistenza: — 100%
+
+## A2 Allegato 2: Servizi di cura e assistenza a domicilio (art. 20 cpv. 3)
+
+#### Art. A2-1
+
+**Costi riconosciuti dei servizi di cura e assistenza a domicilio**
+
+<sup>1</sup> Servizi di assistenza, all'ora:
+
+<table>
+<tr><th>Fornitori di servizi</th><th>Prestazioni OPre a</th><th>Prestazioni OPre b</th><th>Prestazioni OPre c</th><th>Media delle prestazioni di cura</th></tr>
+<tr><td>Servizi di cura e assistenza a domicilio con mandato di prestazioni comunale</td><td>fr. 118.30</td><td>fr. 111.80</td><td>fr. 101.20</td><td>(fr. 105.90)</td></tr>
+<tr><td>Servizi di cura e assistenza a domicilio senza mandato di prestazioni comunale</td><td>fr. 100.60</td><td>fr. 95.00</td><td>fr. 86.00</td><td>---</td></tr>
+<tr><td>Infermieri diplomati riconosciuti</td><td>---</td><td>---</td><td>---</td><td>fr. 95.30</td></tr>
+</table>
+
+<sup>2</sup> Spiegazioni:
+
+- a) Prestazioni OPre a: Valutazione, consigli e coordinamento (art. 7 cpv. 2 lett. a dell'ordinanza del DFI sulle prestazioni dell'assicurazione obbligatoria delle cure medico-sanitarie [ordinanza sulle prestazioni, OPre, RS [832.112.31](https://db.clex.ch/link/Bund/832.112.31/it)])
+- b) Prestazioni OPre b: Esami e cure (art. 7 cpv. 2 lett. b OPre)
+- c) Prestazioni OPre c: Cure di base (art. 7 cpv. 2 lett. c OPre)
+
+<sup>3</sup> Per prestazioni in relazione a cure di base secondo l'art. 7 cpv. 2 lett. c dell'ordinanza del Dipartimento federale dell'interno (DFI) sulle prestazioni dell'assicurazione obbligatoria delle cure medico-sanitarie (ordinanza sulle prestazioni, OPre; RS [832.112.31](https://db.clex.ch/link/Bund/832.112.31/it)) che non comportano tempi di trasferta, i costi riconosciuti vengono ridotti di fr. 14.00 all'ora nel caso di servizi con mandato di prestazioni comunale e di fr. 11.90 all'ora nel caso di servizi senza mandato di prestazioni comunale.
+
+<sup>4</sup> Altre prestazioni, all'ora:
+
+<table>
+<tr><th>Fornitori di servizi</th><th>Prestazioni di cure acute e transitorie</th><th>Prestazioni di economia domestica e di assistenza</th><th>Servizio pasti, per pasto</th></tr>
+<tr><td>Servizi di cura e assistenza a domicilio con mandato di prestazioni comunale</td><td>fr. 100.00</td><td>fr. 91.50</td><td>fr. 22.90</td></tr>
+<tr><td>Servizi di cura e assistenza a domicilio senza mandato di prestazioni comunale</td><td>fr. 85.00</td><td>---</td><td>---</td></tr>
+<tr><td>Infermieri diplomati riconosciuti</td><td>fr. 90.00</td><td>---</td><td>---</td></tr>
+</table>
+
+#### Art. A2-2
+
+**Partecipazione ai costi massima degli utenti dei servizi di cura e assistenza a domicilio**
+
+<sup>1</sup> Partecipazione ai costi massima:
+
+- a) Prestazioni di cura, all'ora: — fr. 7.70
+- b) Prestazioni di cure acute e transitorie, all'ora: — fr. 0.00
+- c) Prestazioni di economia domestica e di assistenza, all'ora: — fr. 26.00
+- d) Servizio pasti, per pasto: — fr. 14.00
+
+#### Art. A2-3
+
+**Costi riconosciuti del Servizio di cure palliative dei Grigioni**
+
+<sup>1</sup> I costi riconosciuti per prestazioni di cura ammontano a fr. 350.00 all'ora.
+
+## A3 Allegato 3: Rimunerazione della prestazione lavorativa di praticanti di scuole del settore sanitario (art. 30 cpv. 2)
+
+#### Art. A3-1
+
+<sup>1</sup> La rimunerazione ammonta a fr. 687.00 per settimana di pratica prestata.
 
 2017-051
