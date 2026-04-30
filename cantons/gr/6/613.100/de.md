@@ -4,13 +4,12 @@ number: "613.100"
 title: Polizeiverordnung
 short: PolV
 language: de
-version: 2026-01-01
-valid_until: 2026-04-30
-version_adopted: 2025-12-16
+version: 2026-05-01
+version_adopted: 2026-04-14
 adopted: 2005-06-21
 in_force: 2005-07-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/613.100"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/3616/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3848/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.gr-lex.gr.ch/api/de/versions/3616/pdf_file"
 
 (PolV)
 
-Vom 21.06.2005 (Stand 01.01.2026)
+Vom 21.06.2005 (Stand 01.05.2026)
 
 Gestützt auf Art. 39 des Polizeigesetzes[^ingress-1] des Kantons Graubünden vom 20. Oktober 2004
 
@@ -388,7 +387,7 @@ von der Regierung erlassen am 21. Juni 2005
 - c) der Kindes- und Erwachsenenschutzbehörde;
 - d) des Amts für Justizvollzug;
 - e) des Amts für Migration und Zivilrecht;
-- f) des kantonalen Sozialamts;
+- f) des Amts für Soziales;
 - g) der Psychiatrischen Dienste Graubünden.
 
 <sup>3</sup> Die Mitglieder werden von den jeweiligen Behörden bezeichnet.
@@ -404,7 +403,7 @@ von der Regierung erlassen am 21. Juni 2005
 <sup>1</sup> Über die folgenden Massnahmen des Polizeigesetzes[^33-1] entscheidet eine Polizeioffizierin oder ein Polizeioffizier:
 
 - a) Anhaltung gemäss Artikel 9 Absatz 4;
-- a<sup>bis</sup>) Ausgrenzung gemäss Artikel 12a;
+- a<sup>bis</sup>) Ausgrenzung gemäss Artikel 12a Absatz 5;
 - b) Polizeigewahrsam gemäss Artikel 15;
 - c) besondere Massnahmen gegen Gewalt, Drohungen oder Nachstellungen gemäss Artikel 16;
 - d) Durchsuchen von nicht öffentlichen Räumlichkeiten gemäss Artikel 20;
@@ -483,6 +482,80 @@ von der Regierung erlassen am 21. Juni 2005
 
 [^34b-1]: BR [613.000](https://www.gr-lex.gr.ch/data/613.000/de)
 
+#### Art. 34bbis
+
+**Automatisierte Fahrzeugfahndung 1. Einsatz**
+
+<sup>1</sup> Setzt die Kantonspolizei für die automatisierte Fahrzeugfahndung festinstallierte Bildaufzeichnungsgeräte ein, überprüft die Polizeikommandantin oder der Polizeikommandant die Zweckmässigkeit des Einsatzorts mindestens alle fünf Jahre.
+
+<sup>2</sup> Semistationäre Bildaufzeichnungsgeräte dürfen an demselben Standort höchstens während drei Monaten eingesetzt werden.
+
+#### Art. 34bter
+
+**2. Fahndungsaufträge**
+
+<sup>1</sup> Die Polizeioffizierin oder der Polizeioffizier entscheidet über Fahndungsaufträge gemäss Artikel 22b Absatz 2 Litera c des Polizeigesetzes[^34bter-1].
+
+<sup>2</sup> Dauern Fahndungsaufträge länger als 90 Tage, entscheidet die Polizeikommandantin oder der Polizeikommandant über deren Verlängerung.
+
+<sup>3</sup> Die Polizeikommandantin oder der Polizeikommandant kann die Befugnis gemäss Absatz 1 besonders qualifizierten Personen übertragen. Diese können Fahndungsaufträge für höchstens 24 Stunden anordnen. Über die Verlängerung der Massnahme entscheidet die Polizeioffizierin oder der Polizeioffizier, nach 90 Tagen die Polizeikommandantin oder der Polizeikommandant.
+
+<sup>4</sup> In der Anordnung sind der Grund und die Dauer des Fahndungsauftrags anzugeben.
+
+[^34bter-1]: BR [613.000](https://www.gr-lex.gr.ch/data/613.000/de)
+
+#### Art. 34bquater
+
+**3. Veröffentlichung der Standorte**
+
+<sup>1</sup> Die Kantonspolizei führt eine Liste über die Standorte der Bildaufzeichnungsgeräte, die sie für die automatisierte Fahrzeugfahndung einsetzt.
+
+<sup>2</sup> Sie teilt die Liste der Aufsichtsstelle Datenschutz mit.
+
+<sup>3</sup> Die Aufsichtsstelle Datenschutz veröffentlicht die Liste.
+
+#### Art. 34bquinquies
+
+**4. AF-Datenbearbeitungssystem**
+
+<sup>1</sup> Die Kantonspolizei nutzt für die automatisierte Fahrzeugfahndung ein besonderes Datenbearbeitungssystem (AF-Datenbearbeitungssystem).
+
+<sup>2</sup> Im AF-Datenbearbeitungssystem werden folgende Daten bearbeitet:
+
+- a) Kontrollschild von Fahrzeugen;
+- b) Ort;
+- c) Datum und Zeit;
+- d) Fahrtrichtung;
+- e) Fahrzeuginsassinnen und Fahrzeuginsassen.
+
+<sup>3</sup> Die Polizeikommandantin oder der Polizeikommandant legt die Zugriffsberechtigung rollenbezogen fest.
+
+<sup>4</sup> Das AF-Datenbearbeitungssystem protokolliert, wer Daten erfasst, ändert oder abfragt. Die Protokolle werden während eines Jahres aufbewahrt.
+
+#### Art. 34bsexies
+
+**5. Berichterstattung**
+
+<sup>1</sup> Die Kantonspolizei erstattet dem Departement jährlich Bericht über die automatisierte Fahrzeugfahndung.
+
+<sup>2</sup> Im Bericht weist sie insbesondere Folgendes aus:
+
+- a) wie viele Datenabgleiche zu einer Übereinstimmung mit einem ausgeschriebenen Kontrollschild geführt haben (Treffer);
+- b) wie viele Treffer zu einer Festnahme, Kontrolle oder Anhaltung geführt haben;
+- c) wie viele Bildaufzeichnungsgeräte im Einsatz sind;
+- d) Verletzungen der Datensicherheit;
+- e) Anpassungen der Informationstechnik.
+
+#### Art. 34bsepties
+
+**Verkehrsbeobachtung**
+
+<sup>1</sup> Setzt die Kantonspolizei zur Gewährleistung der Verkehrssicherheit festinstallierte, hochauflösende Bildaufzeichnungs- oder Bildübermittlungsgeräte ein, überprüft die Polizeikommandantin oder der Polizeikommandant die Zweckmässigkeit des Einsatzorts mindestens alle fünf Jahre.
+
+<sup>2</sup> Semistationäre, hochauflösende Bildaufzeichnungs- oder Bildübermittlungsgeräte sowie andere nicht stationäre Hilfsmittel dürfen an demselben Standort höchstens während drei Monaten eingesetzt werden.
+
+<sup>3</sup> Für die Veröffentlichung der Standorte der hochauflösenden Bildaufzeichnungs- oder Bildübermittlungsgeräte gilt Artikel 34b<sup>quater</sup> sinngemäss.
+
 #### Art. 34c
 
 **Einsatzbezogene Informationsbeschaffung und Überwachung**
@@ -553,13 +626,15 @@ von der Regierung erlassen am 21. Juni 2005
 
 **Geltungsbereich**
 
-<sup>1</sup> Die Bestimmungen dieses Abschnitts gelten für die Bearbeitung personen-, fall- und sachbezogener Daten durch die Kantonspolizei soweit sie nicht als Gerichtspolizei tätig ist.
+<sup>1</sup> Die Bestimmungen dieses Abschnitts gelten für die Bearbeitung von personenbezogenen, fallbezogenen und sachbezogenen Daten durch die Kantonspolizei, soweit sie nicht als Gerichtspolizei tätig ist.
 
-<sup>2</sup> Die Bearbeitung gerichtspolizeilicher Daten untersteht der Strafprozessordnung[^37-1]. Dies betrifft sämtliche Daten, welche zur Abklärung einer strafbaren Handlung erhoben werden.
+<sup>2</sup> Die Bearbeitung gerichtspolizeilicher Daten richtet sich nach der Schweizerischen Strafprozessordnung[^37-1]; sie erfasst sämtliche Datenbearbeitungen der Kantonspolizei in ihrer Funktion als Strafverfolgungsbehörde.
 
-<sup>3</sup> Für Daten, welche in Systemen des Bundes bearbeitet werden, gelten die bundesrechtlichen Bestimmungen.
+<sup>3</sup> Bearbeitet die Kantonspolizei Daten in Informationssystemen des Bundes, gelten die bundesrechtlichen Bestimmungen. Das kantonale Polizeirecht findet ergänzend Anwendung.
 
-[^37-1]: BR [350.000](https://www.gr-lex.gr.ch/data/350.000/de)
+<sup>4</sup> Für die übrigen Datenbearbeitungen ist das kantonale Datenschutzrecht massgebend, soweit keine spezielleren Regelungen existieren.
+
+[^37-1]: SR [312.0](https://db.clex.ch/link/Bund/312.0/de)
 
 #### Art. 38
 
@@ -575,7 +650,13 @@ von der Regierung erlassen am 21. Juni 2005
 
 <sup>1</sup> Die Mitarbeitenden der Kantonspolizei haben Zugang zu den Daten soweit dies für die Erfüllung gerichts- oder sicherheitspolizeilicher Aufgaben notwendig ist.
 
-<sup>2</sup> Zugriffe auf Datenbearbeitungssysteme werden protokolliert.
+<sup>1<sup>bis</sup></sup> Weiteren Personen gewährt die Kantonspolizei Zugang zu den Daten:
+
+- a) soweit dies gesetzlich vorgesehen ist;
+- b) soweit sie hierauf angewiesen sind, um eine polizeiliche Aufgabe zu erfüllen, die ihnen durch Vertrag übertragen wurde;
+- c) wenn sie im Auftrag der Kantonspolizei Daten bearbeiten.
+
+<sup>2</sup> …
 
 #### Art. 41
 
@@ -583,25 +664,17 @@ von der Regierung erlassen am 21. Juni 2005
 
 #### Art. 42
 
-**Einsichtsrecht**
-
-<sup>1</sup> Jedermann kann bei der Kantonspolizei Einsicht über die seine Person betreffenden Daten verlangen. Die Einschränkungen richten sich nach dem kantonalen Datenschutzgesetz[^42-1].
-
-<sup>2</sup> Die betroffene Person kann deren Berichtigung verlangen, sofern unrichtige Daten gespeichert sind.
-
-<sup>3</sup> Die betroffene Person kann die Löschung der Daten, die sie betreffen, beantragen, wenn sie begründen kann, weshalb die Löschung vor Ablauf der ordentlichen Aufbewahrungsfrist zu erfolgen hat.
-
-<sup>4</sup> Der betroffenen Person kann die Einsicht in ihre Daten verweigert werden, wenn öffentliche Interessen, namentlich der Sicherheit, oder Drittinteressen dem Einsichtsrecht entgegenstehen. Aus denselben Gründen kann auch die vorzeitige Löschung der Daten verweigert werden.
-
-[^42-1]: BR [171.100](https://www.gr-lex.gr.ch/data/171.100/de)
+**…**
 
 #### Art. 43
 
-**Organisation und Aufsicht**
+**Organisation**
 
 <sup>1</sup> Für die Datensicherheit gelten die Vorschriften des Amtes für Informatik.
 
 <sup>2</sup> Die Kantonspolizei ist verantwortlich für die Datenerhaltung und Datenpflege. Sie trifft die notwendigen Massnahmen zum Schutz der Daten vor unberechtigtem Zugriff und Verlust.
+
+<sup>2<sup>bis</sup></sup> Die Polizeikommandantin oder der Polizeikommandant erlässt die erforderlichen Dienstanweisungen.
 
 <sup>3</sup> …
 

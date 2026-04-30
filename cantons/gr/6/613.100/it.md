@@ -4,13 +4,12 @@ number: "613.100"
 title: Ordinanza sulla polizia
 short: OPol
 language: it
-version: 2026-01-01
-valid_until: 2026-04-30
-version_adopted: 2025-12-16
+version: 2026-05-01
+version_adopted: 2026-04-14
 adopted: 2005-06-21
 in_force: 2005-07-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/613.100"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/3616/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3848/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
@@ -19,7 +18,7 @@ pdf: "https://www.gr-lex.gr.ch/api/it/versions/3616/pdf_file"
 
 (OPol)
 
-del 21.06.2005 (stato 01.01.2026)
+del 21.06.2005 (stato 01.05.2026)
 
 emanata dal Governo il 21 giugno 2005
 
@@ -388,7 +387,7 @@ visto l'art. 39 della legge sulla polizia[^ingress-1] del Cantone dei Grigioni d
 - c) Autorità di protezione dei minori e degli adulti;
 - d) Ufficio per l'esecuzione giudiziaria;
 - e) Ufficio della migrazione e del diritto civile;
-- f) Ufficio cantonale del servizio sociale;
+- f) Ufficio degli affari sociali;
 - g) Servizi psichiatrici dei Grigioni.
 
 <sup>3</sup> I membri vengono designati dalla rispettiva autorità.
@@ -404,7 +403,7 @@ visto l'art. 39 della legge sulla polizia[^ingress-1] del Cantone dei Grigioni d
 <sup>1</sup> Un ufficiale di polizia decide in merito alle seguenti misure previste dalla legge sulla polizia[^33-1]:
 
 - a) fermo conformemente all'articolo 9 capoverso 4;
-- a<sup>bis</sup>) divieto di accedere ad aree determinate conformemente all'articolo 12a;
+- a<sup>bis</sup>) divieto di accedere ad aree determinate conformemente all'articolo 12a capoverso 5;
 - b) custodia di polizia conformemente all'articolo 15;
 - c) misure particolari contro la violenza, le minacce o le insidie conformemente all'articolo 16;
 - d) perquisizione di spazi non pubblici conformemente all'articolo 20;
@@ -483,6 +482,80 @@ visto l'art. 39 della legge sulla polizia[^ingress-1] del Cantone dei Grigioni d
 
 [^34b-1]: CSC [613.000](https://www.gr-lex.gr.ch/data/613.000/it)
 
+#### Art. 34bbis
+
+**Ricerca automatizzata di veicoli 1. Intervento**
+
+<sup>1</sup> Se per la ricerca automatizzata di veicoli la Polizia cantonale impiega apparecchi fissi per la registrazione di immagini, il comandante di polizia verifica se il luogo di impiego sia opportuno almeno ogni cinque anni.
+
+<sup>2</sup> Gli apparecchi semistazionari per la registrazione di immagini possono essere impiegati nella stessa ubicazione per al massimo tre mesi.
+
+#### Art. 34bter
+
+**2. Mandati di ricerca**
+
+<sup>1</sup> L'ufficiale di polizia decide in merito a mandati di ricerca conformemente all'articolo 22b capoverso 2 lettera c della legge sulla polizia[^34bter-1].
+
+<sup>2</sup> Se la durata dei mandati di ricerca supera i 90 giorni, il comandante di polizia decide in merito alla loro proroga.
+
+<sup>3</sup> Il comandante di polizia può delegare la competenza di cui al capoverso 1 a persone particolarmente qualificate. Esse possono disporre mandati di ricerca per al massimo 24 ore. In merito alla proroga della misura decide l'ufficiale di polizia, dopo 90 giorni il comandante di polizia.
+
+<sup>4</sup> Nella disposizione vanno indicati il motivo e la durata del mandato di ricerca.
+
+[^34bter-1]: CSC [613.000](https://www.gr-lex.gr.ch/data/613.000/it)
+
+#### Art. 34bquater
+
+**3. Pubblicazione delle ubicazioni**
+
+<sup>1</sup> La Polizia cantonale tiene un elenco delle ubicazioni degli apparecchi per la registrazione di immagini che impiega per la ricerca automatizzata di veicoli.
+
+<sup>2</sup> Comunica l'elenco all'organo di vigilanza per la protezione dei dati.
+
+<sup>3</sup> L'organo di vigilanza per la protezione dei dati pubblica l'elenco.
+
+#### Art. 34bquinquies
+
+**4. Sistema di elaborazione dati RAV**
+
+<sup>1</sup> Per la ricerca automatizzata di veicoli la Polizia cantonale utilizza un particolare sistema di elaborazione dati (sistema di elaborazione dati RAV).
+
+<sup>2</sup> Nel sistema di elaborazione dati RAV vengono elaborati i seguenti dati:
+
+- a) targa di controllo di veicoli;
+- b) luogo;
+- c) data e ora;
+- d) direzione;
+- e) occupanti di veicoli.
+
+<sup>3</sup> Il comandante di polizia stabilisce il diritto d'accesso in base al ruolo.
+
+<sup>4</sup> Il sistema di elaborazione dati RAV protocolla chi raccoglie, modifica o consulta i dati. I protocolli vengono conservati per un anno.
+
+#### Art. 34bsexies
+
+**5. Rapporto**
+
+<sup>1</sup> La Polizia cantonale presenta ogni anno al Dipartimento un rapporto relativo alla ricerca automatizzata di veicoli.
+
+<sup>2</sup> Nel rapporto menziona in particolare quanto segue:
+
+- a) il numero di raffronti di dati risultati in un riscontro con una targa di controllo registrata (corrispondenza);
+- b) il numero di corrispondenze risultate in un arresto, in un controllo o in un fermo;
+- c) quanti apparecchi per la registrazione di immagini vengono impiegati;
+- d) violazioni della sicurezza dei dati;
+- e) adeguamenti della tecnologia dell'informazione.
+
+#### Art. 34bsepties
+
+**Monitoraggio del traffico**
+
+<sup>1</sup> Se per garantire la sicurezza della circolazione la Polizia cantonale impiega apparecchi fissi per la registrazione o la trasmissione di immagini ad alta risoluzione, il comandante di polizia verifica se il luogo di impiego sia opportuno almeno ogni cinque anni.
+
+<sup>2</sup> Gli apparecchi semistazionari per la registrazione o la trasmissione di immagini ad alta risoluzione nonché altri mezzi ausiliari non stazionari possono essere impiegati nella stessa ubicazione per al massimo tre mesi.
+
+<sup>3</sup> Per la pubblicazione delle ubicazioni degli apparecchi per la registrazione o la trasmissione di immagini ad alta risoluzione fa stato per analogia l'articolo 34b<sup>quater</sup>.
+
 #### Art. 34c
 
 **Acquisizione di informazioni e sorveglianza riferite a un intervento**
@@ -555,11 +628,13 @@ visto l'art. 39 della legge sulla polizia[^ingress-1] del Cantone dei Grigioni d
 
 <sup>1</sup> Le disposizioni di questa sezione valgono per l'elaborazione da parte della Polizia cantonale di dati personali, riferiti a un caso o a un tema, nel caso in cui essa non sia attiva in veste di polizia giudiziaria.
 
-<sup>2</sup> L'elaborazione di dati di polizia giudiziaria è soggetta alla legge sulla giustizia penale[^37-1]. Ciò riguarda tutti i dati che vengono rilevati per chiarire un reato.
+<sup>2</sup> L'elaborazione di dati di polizia giudiziaria si conforma al Codice di diritto processuale penale svizzero[^37-1]; essa comprende tutte le elaborazioni di dati della Polizia cantonale nella sua funzione di autorità di perseguimento penale.
 
-<sup>3</sup> Per i dati che vengono elaborati in sistemi della Confederazione, fanno stato le disposizioni del diritto federale.
+<sup>3</sup> Se la Polizia cantonale elabora dati in sistemi d'informazione della Confederazione, fanno stato le disposizioni del diritto federale. Il diritto cantonale in materia di polizia si applica a titolo completivo.
 
-[^37-1]: CSC [350.000](https://www.gr-lex.gr.ch/data/350.000/it)
+<sup>4</sup> Per le altre elaborazioni di dati, in assenza di regolamentazioni speciali è determinante il diritto cantonale sulla protezione dei dati.
+
+[^37-1]: RS [312.0](https://db.clex.ch/link/Bund/312.0/it)
 
 #### Art. 38
 
@@ -575,7 +650,13 @@ visto l'art. 39 della legge sulla polizia[^ingress-1] del Cantone dei Grigioni d
 
 <sup>1</sup> I collaboratori della Polizia cantonale hanno accesso ai dati nella misura in cui ciò è necessario per l'adempimento di compiti di polizia giudiziaria o di sicurezza.
 
-<sup>2</sup> Accessi a sistemi di elaborazione dati vengono protocollati.
+<sup>1<sup>bis</sup></sup> La Polizia cantonale concede l'accesso ai dati ad altre persone:
+
+- a) nella misura in cui ciò sia previsto dalla legge;
+- b) nella misura in cui ne hanno bisogno per adempiere un compito di polizia loro delegato per contratto;
+- c) se elaborano dati su incarico della Polizia cantonale.
+
+<sup>2</sup> …
 
 #### Art. 41
 
@@ -583,25 +664,17 @@ visto l'art. 39 della legge sulla polizia[^ingress-1] del Cantone dei Grigioni d
 
 #### Art. 42
 
-**Diritto di presa in visione**
-
-<sup>1</sup> Chiunque può prendere visione presso la Polizia cantonale dei dati che concernono la propria persona. Le restrizioni si conformano alla legge cantonale sulla protezione dei dati[^42-1].
-
-<sup>2</sup> Se sono salvati dati errati, la persona interessata può esigerne la correzione.
-
-<sup>3</sup> La persona interessata può chiedere la cancellazione dei dati che la riguardano, se può fornire i motivi per i quali la cancellazione debba avvenire prima della scadenza del termine di conservazione ordinario.
-
-<sup>4</sup> Alla persona interessata può venire negata la presa in visione dei dati che la riguardano, se al diritto di presa in visione si oppongono interessi pubblici, segnatamente di sicurezza, o interessi di terzi. Per gli stessi motivi può anche venire negata la cancellazione anticipata dei dati.
-
-[^42-1]: CSC [171.100](https://www.gr-lex.gr.ch/data/171.100/it)
+**…**
 
 #### Art. 43
 
-**Organizzazione e vigilanza**
+**Organizzazione**
 
 <sup>1</sup> Per la sicurezza dei dati valgono le prescrizioni dell'Ufficio d'informatica.
 
 <sup>2</sup> La Polizia cantonale è responsabile per la conservazione e la cura dei dati. Essa adotta le misure necessarie per proteggere i dati dall'accesso non autorizzato e dalla perdita.
+
+<sup>2<sup>bis</sup></sup> Il comandante di polizia impartisce le necessarie istruzioni di servizio.
 
 <sup>3</sup> …
 

@@ -4,13 +4,12 @@ number: "613.100"
 title: Ordinaziun da polizia
 short: OPol
 language: rm
-version: 2026-01-01
-valid_until: 2026-04-30
-version_adopted: 2025-12-16
+version: 2026-05-01
+version_adopted: 2026-04-14
 adopted: 2005-06-21
 in_force: 2005-07-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/613.100"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3616/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3848/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3616/pdf_file"
 
 (OPol)
 
-dals 21-06-2005 (versiun dals 01-01-2026)
+dals 21-06-2005 (versiun dals 01-05-2026)
 
 sa basond sin l'art. 39 da la lescha da polizia dal chantun Grischun dals 20 d'october 2004[^ingress-1]
 
@@ -388,7 +387,7 @@ relaschada da la regenza ils 21 da zercladur 2005
 - c) da l'Autoritad per la protecziun d'uffants e da creschids;
 - d) da l'Uffizi per l'execuziun giudiziala;
 - e) da l'Uffizi da migraziun e da dretg civil;
-- f) da l'Uffizi chantunal dal servetsch social;
+- f) da l'Uffizi da fatgs socials;
 - g) dals Servetschs psichiatrics dal Grischun.
 
 <sup>3</sup> Las commembras ed ils commembers vegnan mintgamai designads da las autoritads respectivas.
@@ -404,7 +403,7 @@ relaschada da la regenza ils 21 da zercladur 2005
 <sup>1</sup> Davart las suandantas mesiras da la lescha da polizia[^33-1] decida in'uffiziera u in uffizier da polizia:
 
 - a) fermar tenor l'artitgel 9 alinea 4;
-- a<sup>bis</sup>) exclusiun tenor l'artitgel 12a;
+- a<sup>bis</sup>) exclusiun tenor l'artitgel 12a alinea 5;
 - b) fermanza da polizia tenor l'artitgel 15;
 - c) mesiras spezialas cunter violenza, smanatschas u persecuziuns tenor l'artitgel 16;
 - d) perquirir localitads betg publicas tenor l'artitgel 20;
@@ -483,6 +482,80 @@ relaschada da la regenza ils 21 da zercladur 2005
 
 [^34b-1]: DG [613.000](https://www.gr-lex.gr.ch/data/613.000/rm)
 
+#### Art. 34bbis
+
+**Retschertga automatisada da vehichels 1. utilisaziun**
+
+<sup>1</sup> Sche la Polizia chantunala utilisescha per la retschertga automatisada da vehichels apparats fixs per registrar maletgs, controllescha la cumandanta u il cumandant da polizia almain mintga 5 onns, sch'il lieu d'utilisaziun è adattà.
+
+<sup>2</sup> Apparats semistaziunars per registrar maletgs dastgan vegnir utilisads durant maximalmain 3 mais en il medem lieu.
+
+#### Art. 34bter
+
+**2. incumbensas da retschertga**
+
+<sup>1</sup> L'uffiziera u l'uffizier da polizia decida davart las incumbensas da retschertga tenor l'artitgel 22b alinea 2 litera c da la Lescha da polizia[^34bter-1].
+
+<sup>2</sup> Sche las incumbensas da retschertga duran dapli che 90 dis, decida la cumandanta u il cumandant da polizia davart lur prolungaziun.
+
+<sup>3</sup> La cumandanta u il cumandant da polizia po delegar la cumpetenza tenor l'alinea 1 a persunas spezialmain qualifitgadas. Quellas pon ordinar incumbensas da retschertga per maximalmain 24 uras. Davart la prolungaziun da la mesira decida l'uffiziera u l'uffizier da polizia, suenter 90 dis la cumandanta u il cumandant da polizia.
+
+<sup>4</sup> En l'ordinaziun ston vegnir inditgads il motiv e la durada da l'incumbensa da retschertga.
+
+[^34bter-1]: DG [613.000](https://www.gr-lex.gr.ch/data/613.000/rm)
+
+#### Art. 34bquater
+
+**3. publicaziun dals lieus d'utilisaziun**
+
+<sup>1</sup> La Polizia chantunala fa ina glista dals lieus d'utilisaziun dals apparats per registrar maletgs, ch'ella utilisescha per la retschertga automatisada da vehichels.
+
+<sup>2</sup> Ella communitgescha la glista al Post da surveglianza per la protecziun da datas.
+
+<sup>3</sup> Il Post da surveglianza per la protecziun da datas publitgescha la glista.
+
+#### Art. 34bquinquies
+
+**4. sistem d'elavuraziun da datas RAV**
+
+<sup>1</sup> Per la retschertga automatisada da vehichels (RAV) utilisescha la Polizia chantunala in sistem d'elavuraziun da datas spezial (sistem d'elavuraziun da datas RAV).
+
+<sup>2</sup> En il sistem d'elavuraziun da datas RAV vegnan elavuradas las suandantas datas:
+
+- a) numers d'immatriculaziun da vehichels;
+- b) lieu;
+- c) data ed uras;
+- d) direcziun da viadi;
+- e) passagieras e passagiers.
+
+<sup>3</sup> La cumandanta u il cumandant da polizia definescha il dretg d'access tenor la rolla.
+
+<sup>4</sup> Il sistem d'elavuraziun da datas RAV protocollescha, tgi che registrescha, mida u consultescha datas. Ils protocols vegnan tegnids en salv durant 1 onn.
+
+#### Art. 34bsexies
+
+**5. rapportaziun**
+
+<sup>1</sup> La Polizia chantunala suttametta al departament mintg'onn in rapport davart la retschertga automatisada da vehichels.
+
+<sup>2</sup> En il rapport inditgescha ella en spezial il suandant:
+
+- a) dumber da consultaziuns da datas che han purtà ina concordanza cun in numer d'immatriculaziun d'in vehichel publitgà (resultat positiv);
+- b) dumber da resultats positivs che han manà ad in'arrestaziun, ad ina controlla u ad ina fermanza;
+- c) dumber d'apparats per registrar maletgs ch'èn en funcziun;
+- d) violaziuns da la segirezza da las datas;
+- e) adattaziuns da la tecnica d'infurmaziun.
+
+#### Art. 34bsepties
+
+**Observaziun dal traffic**
+
+<sup>1</sup> Sche la Polizia chantunala utilisescha – per garantir la segirezza stradala – apparats fixs d'auta resoluziun per registrar u per transmetter maletgs, controllescha la cumandanta u il cumandant da polizia almain mintga 5 onns, sch'il lieu d'utilisaziun è adattà.
+
+<sup>2</sup> Apparats semistaziunars d'auta resoluziun per registrar u per transmetter maletgs sco er auters meds auxiliars betg staziunars dastgan vegnir utilisads durant maximalmain 3 mais en il medem lieu.
+
+<sup>3</sup> Per publitgar ils lieus d'utilisaziun dals apparats d'auta resoluziun per registrar u per transmetter maletgs vala l'artitgel 34b<sup>quater</sup> confurm al senn.
+
 #### Art. 34c
 
 **Procuraziun d'infurmaziuns e surveglianza relativas a l'acziun**
@@ -553,13 +626,15 @@ relaschada da la regenza ils 21 da zercladur 2005
 
 **Champ d'applicaziun**
 
-<sup>1</sup> Las disposiziuns da questa part valan per datas che vegnan elavuradas da la polizia chantunala e che sa refereschan a persunas, a cas ed a fatgs, uschenavant che la polizia chantunala n'è betg activa sco polizia giudiziala.
+<sup>1</sup> Las disposiziuns da questa part valan per datas che vegnan elavuradas da la Polizia chantunala e che sa refereschan a persunas, a cas ed a fatgs, uschenavant che la Polizia chantunala n'è betg activa sco polizia giudiziala.
 
-<sup>2</sup> L'elavuraziun da datas da la polizia giudiziala è suttamessa a la procedura penala[^37-1]. Quai pertutga tut las datas che vegnan retschertgadas per sclerir in act chastiabel.
+<sup>2</sup> L'elavuraziun da datas da la polizia giudiziala sa drizza tenor il Cudesch da procedura penala svizzer[^37-1]; ella cumpiglia tut las elavuraziuns da datas che la Polizia chantunala exequescha en sia funcziun sco autoritad da persecuziun penala.
 
-<sup>3</sup> Per datas che vegnan elavuradas en sistems da la confederaziun valan las disposiziuns federalas.
+<sup>3</sup> Sche la Polizia chantunala elavura datas en sistems d'infurmaziun da la Confederaziun, valan las disposiziuns dal dretg federal. Il dretg chantunal da polizia vegn applitgà en moda cumplementara.
 
-[^37-1]: DG [350.000](https://www.gr-lex.gr.ch/data/350.000/rm)
+<sup>4</sup> Per las ulteriuras elavuraziuns da datas è decisiv il dretg chantunal davart la protecziun da datas, uschenavant ch'i n'existan naginas regulaziuns pli spezialas.
+
+[^37-1]: CS [312.0](https://db.clex.ch/link/Bund/312.0/rm)
 
 #### Art. 38
 
@@ -575,7 +650,13 @@ relaschada da la regenza ils 21 da zercladur 2005
 
 <sup>1</sup> Las collavuraturas ed ils collavuraturs da la polizia chantunala han access a las datas, uschenavant che quai è necessari per ademplir las incumbensas da la polizia giudiziala u da la polizia da segirezza.
 
-<sup>2</sup> Access a sistems da l'elavuraziun da datas vegnan protocollads.
+<sup>1<sup>bis</sup></sup> La Polizia chantunala conceda l'access a las datas ad ulteriuras persunas:
+
+- a) uschenavant che quai è previs tras lescha;
+- b) uschenavant ch'ellas ston avair access per ademplir ina incumbensa poliziala, ch'ellas han survegnì tras contract;
+- c) sch'ellas elavuran datas per incumbensa da la Polizia chantunala.
+
+<sup>2</sup> …
 
 #### Art. 41
 
@@ -583,25 +664,17 @@ relaschada da la regenza ils 21 da zercladur 2005
 
 #### Art. 42
 
-**Dretg da prender invista**
-
-<sup>1</sup> Tar la polizia chantunala ha mintga persuna il dretg da prender invista da las datas che concernan sasezza. Las restricziuns sa drizzan tenor la lescha chantunala davart la protecziun da datas[^42-1].
-
-<sup>2</sup> La persuna pertutgada po pretender che las datas vegnian rectifitgadas, sch'igl èn arcunadas datas faussas.
-
-<sup>3</sup> La persuna pertutgada po pretender che las datas che la concernan vegnian extinguidas, sch'ella po motivar, pertge che l'extincziun haja da succeder avant la scadenza dal termin da conservaziun regular.
-
-<sup>4</sup> A la persuna pertutgada po vegnir refusà da dar invista da sias datas, sche interess publics, spezialmain la segirezza, u sche terzs interess s'opponan al dretg da prender invista. Per ils medems motivs po er vegnir refusà d'extinguer anticipadamain las datas.
-
-[^42-1]: DG [171.100](https://www.gr-lex.gr.ch/data/171.100/rm)
+**…**
 
 #### Art. 43
 
-**Organisaziun e surveglianza**
+**Organisaziun**
 
 <sup>1</sup> Per la segirezza da las datas valan las prescripziuns da l'uffizi d'informatica.
 
 <sup>2</sup> La polizia chantunala è responsabla per conservar e per tgirar las datas. Ella prenda las mesiras necessarias per proteger las datas cunter access nunautorisà e cunter perdita.
+
+<sup>2<sup>bis</sup></sup> La cumandanta u il cumandant da polizia relascha las instrucziuns da servetsch necessarias.
 
 <sup>3</sup> …
 
