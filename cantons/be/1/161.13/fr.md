@@ -4,13 +4,12 @@ number: "161.13"
 title: Décret sur les langues judiciaires
 short: DLJ
 language: fr
-version: 2013-06-01
-valid_until: 2026-04-30
-version_adopted: 2012-11-20
+version: 2026-05-01
+version_adopted: 2025-06-11
 adopted: 2010-03-24
 in_force: 2011-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/161.13"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/108/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3366/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/108/pdf_file"
 
 (DLJ)
 
-du 24.03.2010 (état au 01.06.2013)
+du 24.03.2010 (état au 01.05.2026)
 
 Le Grand Conseil du canton de Berne,
 
@@ -68,6 +67,10 @@ arrête:
 
 <sup>3</sup> Dans les autres régions judiciaires, les exposés écrits et oraux doivent être formulés en allemand.
 
+<sup>4</sup> Dans les litiges commerciaux internationaux au sens de l’article 6, alinéa 4, lettre c du code de procédure civile du 19 décembre 2008 (CPC)[^3-1], les exposés écrits et oraux peuvent être en anglais.
+
+[^3-1]: RS [272](https://db.clex.ch/link/Bund/272/fr)
+
 #### Art. 4
 
 **Instruction**
@@ -80,6 +83,8 @@ arrête:
 - b à la demande des personnes concernées, les auditions doivent être menées dans l’autre langue officielle.
 
 <sup>3</sup> Les autorités des autres régions judiciaires instruisent en allemand.
+
+<sup>3a</sup> Dans les litiges commerciaux internationaux au sens de l’article 6, alinéa 4, lettre c CPC, la langue d’instruction peut être l’anglais si toutes les parties le demandent.
 
 <sup>4</sup> Devant les tribunaux suprêmes ainsi que les autorités judiciaires et les ministères publics compétents au niveau cantonal, la langue d’instruction est déterminée
 

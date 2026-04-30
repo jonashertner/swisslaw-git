@@ -4,13 +4,12 @@ number: "161.13"
 title: Dekret über die Gerichtssprachen
 short: GSD
 language: de
-version: 2013-06-01
-valid_until: 2026-04-30
-version_adopted: 2012-11-20
+version: 2026-05-01
+version_adopted: 2025-06-11
 adopted: 2010-03-24
 in_force: 2011-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/161.13"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/108/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3366/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/108/pdf_file"
 
 (GSD)
 
-vom 24.03.2010 (Stand 01.06.2013)
+vom 24.03.2010 (Stand 01.05.2026)
 
 Der Grosse Rat des Kantons Bern,
 
@@ -68,6 +67,10 @@ beschliesst:
 
 <sup>3</sup> In den anderen Gerichtsregionen sind Schriftsätze und mündliche Anbringen in deutscher Sprache zu formulieren.
 
+<sup>4</sup> In internationalen handelsrechtlichen Streitigkeiten gemäss Artikel 6 Absatz 4 Buchstabe c der Schweizerischen Zivilprozessordnung vom 19. Dezember 2008 (Zivilprozessordnung, ZPO)[^3-1] können Schriftsätze und mündliche Anbringen in englischer Sprache formuliert werden.
+
+[^3-1]: SR [272](https://db.clex.ch/link/Bund/272/de)
+
 #### Art. 4
 
 **Instruktion**
@@ -80,6 +83,8 @@ beschliesst:
 - b Auf Begehren der Betroffenen sind Einvernahmen in der anderen Amtssprache durchzuführen.
 
 <sup>3</sup> Die Behörden der anderen Gerichtsregionen instruieren in deutscher Sprache.
+
+<sup>3a</sup> In internationalen handelsrechtlichen Streitigkeiten nach Artikel 6 Absatz 4 Buchstabe c ZPO kann die Instruktion auf Antrag sämtlicher Parteien in englischer Sprache erfolgen.
 
 <sup>4</sup> Vor den obersten Gerichten und den kantonal zuständigen Gerichtsbehörden und Staatsanwaltschaften richtet sich die Instruktionssprache
 
