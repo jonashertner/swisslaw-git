@@ -4,13 +4,12 @@ number: "168.11"
 title: Loi sur les avocats et les avocates
 short: LA
 language: fr
-version: 2024-01-01
-valid_until: 2026-04-30
-version_adopted: 2022-06-14
+version: 2026-05-01
+version_adopted: 2025-09-02
 adopted: 2006-03-28
 in_force: 2007-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/168.11"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2880/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3368/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2880/pdf_file"
 
 (LA)
 
-du 28.03.2006 (état au 01.01.2024)
+du 28.03.2006 (état au 01.05.2026)
 
 Le Grand Conseil du canton de Berne,
 
@@ -173,7 +172,7 @@ arrête:
 
 #### Art. 14
 
-**Durée du mandat**
+**Nomination**
 
 <sup>1</sup> L’autorité de nomination est la Cour suprême.
 
@@ -181,7 +180,7 @@ arrête:
 
 #### Art. 15
 
-**Nomination**
+**Durée du mandat**
 
 <sup>1</sup> Le mandat dure quatre ans et peut être reconduit à deux reprises.
 
@@ -464,7 +463,7 @@ arrête:
 
 <sup>1</sup> L’avocat ou l’avocate ne peut pas demander le versement d’honoraires de la part de sa clientèle.
 
-<sup>2</sup> Il ou elle a toutefois le droit d’exiger un remboursement ultérieur conformément aux dispositions relatives à l’assistance judiciaire. Le montant exigible équivaut à la différence entre la rémunération et les honoraires fixés selon le tarif applicable au remboursement des dépens (art. 41).
+<sup>2</sup> Il ou elle a toutefois le droit d’exiger un remboursement ultérieur conformément aux dispositions relatives à l’assistance judiciaire, pour autant que le droit procédural applicable le prévoie. Le montant exigible équivaut à la différence entre la rémunération et les honoraires fixés selon le tarif applicable au remboursement des dépens (art. 41).
 
 <sup>3</sup> Les honoraires au sens de l’alinéa 2 sont fixés dans un jugement ou une décision.
 

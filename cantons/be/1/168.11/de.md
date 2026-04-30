@@ -4,13 +4,12 @@ number: "168.11"
 title: Kantonales Anwaltsgesetz
 short: KAG
 language: de
-version: 2024-01-01
-valid_until: 2026-04-30
-version_adopted: 2022-06-14
+version: 2026-05-01
+version_adopted: 2025-09-02
 adopted: 2006-03-28
 in_force: 2007-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/168.11"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2880/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3368/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2880/pdf_file"
 
 (KAG)
 
-vom 28.03.2006 (Stand 01.01.2024)
+vom 28.03.2006 (Stand 01.05.2026)
 
 Der Grosse Rat des Kantons Bern,
 
@@ -457,7 +456,7 @@ beschliesst:
 
 <sup>1</sup> Die Anwältin oder der Anwalt darf von der Klientschaft kein Honorar fordern.
 
-<sup>2</sup> Sie oder er hat jedoch ein Nachforderungsrecht nach den Bestimmungen über die unentgeltliche Rechtspflege. Nachforderbar ist der Betrag, der sich aus der Differenz zwischen der Entschädigung und dem Honorar gemäss der Tarifordnung für den Parteikostenersatz (Art. 41) ergibt.
+<sup>2</sup> Sie oder er hat jedoch ein Nachforderungsrecht nach den Bestimmungen über die unentgeltliche Rechtspflege, sofern ein solches im anwendbaren Prozessrecht vorgesehen ist. Nachforderbar ist der Betrag, der sich aus der Differenz zwischen der Entschädigung und dem Honorar gemäss der Tarifordnung für den Parteikostenersatz (Art. 41) ergibt.
 
 <sup>3</sup> Das Honorar gemäss Absatz 2 wird durch Urteil oder Verfügung festgesetzt.
 
