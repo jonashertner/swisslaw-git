@@ -4,13 +4,13 @@ number: "271.1"
 title: "Einführungsgesetz zur Zivilprozessordnung, zur Strafprozessordnung und zur Jugendstrafprozessordnung"
 short: EG ZSJ
 language: de
-version: 2024-01-01
-valid_until: 2026-04-30
-version_adopted: 2022-09-05
+version: 2026-05-01
+valid_until: 2026-08-31
+version_adopted: 2025-09-02
 adopted: 2009-06-11
 in_force: 2010-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/271.1"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2940/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3369/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2940/pdf_file"
 
 (EG ZSJ)
 
-vom 11.06.2009 (Stand 01.01.2024)
+vom 11.06.2009 (Stand 01.05.2026)
 
 Der Grosse Rat des Kantons Bern,
 
@@ -117,21 +117,23 @@ beschliesst:
 
 <sup>1</sup> Das Obergericht ist zuständig für die Beurteilung der mit Berufung (Art. 308 bis 318 ZPO) oder Beschwerde (Art. 319 bis 327 ZPO) weitergezogenen Streitigkeiten.
 
-<sup>2</sup> Als einzige kantonale Instanz ist es zuständig in den Fällen von Artikel 5 Absatz 1 Buchstaben e und f ZPO und bei direkter Klage (Art. 8 ZPO). Im letztgenannten Fall ist die Präsidentin oder der Präsident der Zivilabteilung auch für die Anordnung vorsorglicher Massnahmen vor Eintritt der Rechtshängigkeit einer Klage und für eine vorsorgliche Beweisführung (Art. 158 ZPO) zuständig.
+<sup>2</sup> Als einzige kantonale Instanz ist es zuständig in den Fällen von Artikel 5 Absatz 1 Buchstabe e ZPO und bei direkter Klage (Art. 8 ZPO). Im letztgenannten Fall ist die Präsidentin oder der Präsident der Zivilabteilung oder ein von ihr oder ihm bezeichnetes Mitglied der Zivilabteilung auch für die Anordnung vorsorglicher Massnahmen vor Eintritt der Rechtshängigkeit einer Klage und für eine vorsorgliche Beweisführung (Art. 158 ZPO) zuständig.
 
-<sup>3</sup> In Schiedssachen ist es das obere kantonale Gericht gemäss Artikel 356 Absatz 1 ZPO.
+<sup>3</sup> In Schiedssachen ist das Obergericht das obere kantonale Gericht gemäss Artikel 356 Absatz 1 ZPO.
 
-<sup>4</sup> Als einzige kantonale Instanz entscheidet es über Beschwerden gegen Verfügungen des kantonalen Handelsregisteramtes (Art. 165 der eidgenössischen Handelsregisterverordnung vom 17. Oktober 2007 [HRegV][^6-1]).
+<sup>4</sup> Als einzige kantonale Instanz entscheidet es über Beschwerden gegen Verfügungen des kantonalen Handelsregisteramtes (Art. 942 des Schweizerischen Obligationenrechts [OR][^6-1]).
 
-[^6-1]: SR 221.411
+[^6-1]: SR [220](https://db.clex.ch/link/Bund/220/de)
 
 #### Art. 7
 
 **Handelsgericht**
 
-<sup>1</sup> Das Handelsgericht ist als einzige kantonale Instanz zur Beurteilung der Streitigkeiten gemäss Artikel 5 Absatz 1 Buchstaben a bis d, g bis i sowie Artikel 6 Absatz 1 ZPO zuständig.
+<sup>1</sup> Das Handelsgericht ist als einzige kantonale Instanz zur Beurteilung der Streitigkeiten gemäss Artikel 5 Absatz 1 Buchstaben a bis d, f bis i sowie Artikel 6 Absatz 1 ZPO zuständig.
 
-<sup>2</sup> Ebenso zuständig ist es für Streitigkeiten aus dem Recht der Handelsgesellschaften und Genossenschaften gemäss Artikel 6 Absatz 4 Buchstabe b ZPO, sofern der Streitwert mindestens 30 000 Franken beträgt. Vorbehalten bleibt die richterliche Anordnung der erforderlichen Massnahmen aufgrund von Mängeln in der gesetzlich zwingend vorgeschriebenen Organisation von Gesellschaften.
+<sup>2</sup> Ebenso zuständig ist es für Streitigkeiten aus dem Recht der Handelsgesellschaften und Genossenschaften gemäss Artikel 6 Absatz 4 Buchstabe b ZPO, sofern der Streitwert mindestens 30'000 Franken beträgt.
+
+<sup>3</sup> Weiter ist es zuständig für internationale handelsrechtliche Streitigkeiten gemäss Artikel 6 Absatz 4 Buchstabe c ZPO.
 
 #### Art. 8
 
@@ -167,28 +169,7 @@ beschliesst:
 
 #### Art. 11
 
-**Summarisches Verfahren**
-
-<sup>1</sup> Die Regionalgerichte entscheiden zusätzlich zu den in der ZPO genannten Fällen im summarischen Verfahren:
-
-- 1\. Schweizerisches Zivilgesetzbuch vom 10. Dezember 1907 (ZGB)[^11-1]
-  - a Art. 611 Abs. 2: Losbildung bei der Erbteilung,
-  - b Art. 612 Abs. 3: Anordnung der Art der Versteigerung von Erbschaftssachen,
-  - c Art. 763: Anordnung der Inventaraufnahme bei der Nutzniessung,
-  - d Art. 851 Abs. 2 : Hinterlegung von geschuldeten Beträgen durch den Grundpfandschuldner,
-  - e Art. 977: Berichtigung von Grundbucheintragungen.
-- 2\. Bundesgesetz vom 30. März 1911 betreffend die Ergänzung des Schweizerischen Zivilgesetzbuches (Fünfter Teil: Obligationenrecht (OR))[^11-2]
-  - a Art. 175 Abs. 3: Sicherheitsleistung bei der Schuldübernahme,
-  - b Art. 202 Abs. 1: Anordnung der Untersuchung des Tieres bei Gewährsmängeln,
-  - c Art. 204 Abs. 2 und 3: Feststellung des Tatbestandes und Anordnung betreffend den Verkauf bei Bemängelung übersandter Sachen,
-  - d Art. 266m Abs. 2 und 3: Ermächtigung eines Ehegatten oder eingetragenen Partners zur Wohnungskündigung,
-  - e Art. 427 Abs. 1 und 3: Anordnung betreffend Feststellung des Tatbestandes und den Verkauf von Kommissionsgütern,
-  - f Art. 435: Anordnung betreffend die Versteigerung von Kommissionsgütern,
-  - g Art. 444 Abs. 2, 445 und 453 Abs. 1: Anordnung betreffend Festsetzung des Tatbestandes, den Verkauf und die Hinterlegung von Frachtgütern,
-  - h Art. 971, 972, 977, 982 bis 988, 1073 bis 1080, 1098, 1143 Ziff. 19: Kraftloserklärung von Wertpapieren.
-
-[^11-1]: SR 210
-[^11-2]: SR 220
+**…**
 
 #### Art. 12
 
@@ -202,12 +183,13 @@ beschliesst:
 
 - a Leistung einer Sicherheit für die Parteientschädigung (Art. 99 ZPO),
 - b vorsorgliche Beweisführung bei hängigem Hauptprozess (Art. 158 ZPO),
-- c alle Angelegenheiten, die gemäss Artikel 248 ff. ZPO im summarischen Verfahren zu behandeln sind, bei hängigem Hauptprozess.
-- d Nichtleisten des Vorschusses oder der Sicherheit (Art. 101 Abs. 3 ZPO).
+- c alle Angelegenheiten, die gemäss Artikel 248 ff. ZPO im summarischen Verfahren zu behandeln sind, bei hängigem Hauptprozess,
+- d Nichtleisten des Vorschusses oder der Sicherheit (Art. 101 Abs. 3 ZPO),
+- e Stundung, Ratenzahlung und Erlass der Gerichtskosten (Art. 112 Abs. 1 ZPO).
 
-<sup>4</sup> In handelsrechtlichen Streitigkeiten kommen die Obliegenheiten der Instruktionsrichterin oder des Instruktionsrichters gemäss Absatz 3 der Präsidentin oder dem Präsidenten des Handelsgerichts oder einem von ihr oder ihm bezeichneten juristischen Mitglied zu.
+<sup>4</sup> In handelsrechtlichen Streitigkeiten kommen die Obliegenheiten der Instruktionsrichterin oder des Instruktionsrichters gemäss Absatz 3 der Präsidentin oder dem Präsidenten des Handelsgerichts oder einer von ihr oder ihm bezeichneten hauptamtlichen Richterin bzw. einem von ihr oder ihm bezeichneten hauptamtlichen Richter zu.
 
-<sup>5</sup> Fällt ein Verfahren vor der Instruktionsrichterin oder dem Instruktionsrichter infolge Vergleichs, Klageanerkennung, Klagerückzugs oder Gegenstandslosigkeit dahin, schreibt die Instruktionsrichterin oder der Instruktionsrichter das Verfahren ab und liquidiert nach Anhörung der Parteien die darauf entfallenden Kosten (Art. 241 und 242 ZPO).
+<sup>5</sup> Fällt ein Verfahren infolge Vergleichs, Klageanerkennung, Klagerückzugs oder Gegenstandslosigkeit dahin, schreibt die Instruktionsrichterin oder der Instruktionsrichter das Verfahren ab und liquidiert nach Anhörung der Parteien die darauf entfallenden Kosten (Art. 241 und 242 ZPO).
 
 #### Art. 13
 
@@ -245,7 +227,7 @@ beschliesst:
 
 **Öffentlichkeit des Verfahrens**
 
-<sup>1</sup> Verhandlungen, Urteilsberatung und eine allfällige mündliche Eröffnung des Urteils sind öffentlich.
+<sup>1</sup> Verhandlungen und eine allfällige mündliche Eröffnung des Urteils sind öffentlich.
 
 <sup>2</sup> Die Öffentlichkeit kann ganz oder teilweise ausgeschlossen werden, wenn es das öffentliche Interesse oder das schutzwürdige Interesse einer beteiligten Person erfordert.
 
@@ -289,12 +271,13 @@ beschliesst:
 
 **Zuständigkeit der Staatsanwaltschaft**
 
-<sup>1</sup> Die Staatsanwaltschaft ist die zuständige Behörde in folgenden vom ZGB und vom Bundesgesetz vom 18. Juni 2004 über die eingetragene Partnerschaft gleichgeschlechtlicher Paare (Partnerschaftsgesetz, PartG)[^20-1] vorgesehenen Fällen:
+<sup>1</sup> Die Staatsanwaltschaft ist die zuständige Behörde in folgenden vom Schweizerischen Zivilgesetzbuch (ZGB)[^20-1] und vom Bundesgesetz vom 18. Juni 2004 über die eingetragene Partnerschaft gleichgeschlechtlicher Paare (Partnerschaftsgesetz, PartG)[^20-2] vorgesehenen Fällen:
 
 - a Klage auf Ungültigerklärung einer Ehe (Art. 106 ZGB),
 - b Klage auf Ungültigerklärung der eingetragenen Partnerschaft (Art. 9 Abs. 2 PartG).
 
-[^20-1]: SR 211.231
+[^20-1]: SR [210](https://db.clex.ch/link/Bund/210/de)
+[^20-2]: SR [211.231](https://db.clex.ch/link/Bund/211.231/de)
 
 #### Art. 21
 
@@ -357,7 +340,7 @@ beschliesst:
 
 #### Art. 26
 
-**Rechtshilfe (Art. 43 bis 55 StPO) 1. Innerkantonale Rechtshilfe**
+**Rechtshilfe (Art. 43 bis 55a StPO) 1. Innerkantonale Rechtshilfe**
 
 <sup>1</sup> Die Bestimmungen der StPO zur nationalen Rechtshilfe gelten sinngemäss auch für die Rechtshilfe zwischen den Strafbehörden des Kantons.
 
@@ -376,6 +359,8 @@ beschliesst:
 <sup>2</sup> Das Obergericht gewährt ausländischen Staaten Rechtshilfe, soweit es dazu eines richterlichen Entscheids bedarf.
 
 <sup>3</sup> Die Generalstaatsanwaltschaft vertritt den Kanton gegenüber ausländischen Behörden in Verfahren zur Übernahme oder Übertragung der Strafverfolgung, soweit nicht Staatsverträge den direkten Verkehr vorsehen.
+
+<sup>4</sup> Das kantonale Zwangsmassnahmengericht ist für die Genehmigung von Zwangsmassnahmen zuständig.
 
 #### Art. 29
 
@@ -468,7 +453,7 @@ beschliesst:
 
 <sup>2</sup> Das Institut für Rechtsmedizin kann einzelne Aufgaben allgemein oder im Einzelfall an die Kreisärztinnen oder Kreisärzte des Kantons delegieren, namentlich Legalinspektionen und Untersuchungen an lebenden Personen in unkritischen Fällen.
 
-<sup>3</sup> Die wissenschaftlichen Mitarbeiterinnen und Mitarbeiter des Forensisch-Psychiatrischen Dienstes der Universität Bern sind amtliche Sachverständige für forensisch-psychiatrische Untersuchungen und Begutachtungen.
+<sup>3</sup> Die wissenschaftlichen Mitarbeiterinnen und Mitarbeiter der Universitätsklinik für Forensische Psychiatrie und Psychologie der Universitären Psychiatrischen Dienste Bern sind amtliche Sachverständige für forensisch-psychiatrische Untersuchungen und Begutachtungen.
 
 ### 3.4 Zwangsmassnahmen
 
@@ -514,15 +499,13 @@ beschliesst:
 - i die Anordnung von Friedensbürgschaft (Art. 373 Abs. 1 StPO),
 - k die Anordnung von Haft im selbstständigen Verfahren betreffend Friedensbürgschaft (Art. 373 Abs. 5 StPO),
 - l die Fortsetzung von Haft zur Sicherung des Vollzugs eines Strafbefehls (Art. 440 Abs. 2 Bst. b StPO),
-- m die Anordnung von vollzugsrechtlicher Sicherheitshaft zur Sicherung von Rückversetzungsverfahren und selbstständigen nachträglichen richterlichen Entscheiden (Art. 28 des Gesetzes vom 23. Januar 2018 über den Justizvollzug [Justizvollzugsgesetz, JVG][^38-1]).
-
-[^38-1]: BSG [341.1](https://www.belex.sites.be.ch/data/341.1/de)
+- m die Anordnung von Sicherheitshaft im Hinblick auf einen selbstständigen nachträglichen Entscheid des Gerichts (Art. 364a StPO) oder während des Gerichtsverfahrens (Art. 364b StPO).
 
 #### Art. 39
 
 **2. Entscheide über Entsiegelungsgesuche**
 
-<sup>1</sup> Für die Behandlung von Gesuchen um Entsiegelung von Aufzeichnungen und Gegenständen (Art. 248 Abs. 3 Bst. a StPO) ist das kantonale Zwangsmassnahmengericht zuständig.
+<sup>1</sup> Für die Behandlung von Gesuchen um Entsiegelung von Aufzeichnungen und Gegenständen (Art. 248a Abs. 1 Bst. a StPO) ist das kantonale Zwangsmassnahmengericht zuständig.
 
 #### Art. 40
 
@@ -577,7 +560,9 @@ beschliesst:
 
 **Rechte und Pflichten der inhaftierten Personen (Art. 235 StPO)**
 
-<sup>1</sup> Die Rechte und Pflichten der inhaftierten Personen richten sich nach dem JVG.
+<sup>1</sup> Die Rechte und Pflichten der inhaftierten Personen richten sich nach dem Gesetz vom 23. Januar 2018 über den Justizvollzug (Justizvollzugsgesetz, JVG)[^45-1].
+
+[^45-1]: BSG [341.1](https://www.belex.sites.be.ch/data/341.1/de)
 
 #### Art. 46
 
@@ -633,9 +618,9 @@ beschliesst:
 
 **Antragsrecht der Behörden der Sozialhilfe und des Erwachsenen- und Kindesschutzes**
 
-<sup>1</sup> Die für den Vollzug der Gesetzgebungen über die Sozialhilfe und die Bevorschussung von Unterhaltsbeiträgen zuständigen Behörden sind zum Strafantrag wegen Vernachlässigung der Unterhaltspflichten im Sinne von Artikel 217 Absatz 2 des Schweizerischen Strafgesetzbuchs vom 21. Dezember 1937 (StGB)[^49-1] befugt.
+<sup>1</sup> Die für den Vollzug der Gesetzgebungen über die Sozialhilfe und die Bevorschussung von Unterhaltsbeiträgen zuständigen Behörden sind zum Strafantrag wegen Vernachlässigung der Unterhaltspflichten im Sinne von Artikel 217 Absatz 2 des Schweizerischen Strafgesetzbuchs (StGB)[^49-1] befugt.
 
-[^49-1]: SR 311.0
+[^49-1]: SR [311.0](https://db.clex.ch/link/Bund/311.0/de)
 
 #### Art. 50
 
@@ -867,8 +852,8 @@ beschliesst:
 
 - a …
 - b Art. 59 Abs. 3: Behandlung in einer geschlossenen Abteilung,
-- c Art. 59 Abs. 4: Antrag auf Verlängerung der Massnahme,
-- d Art. 60 Abs. 4: Antrag auf Verlängerung der Massnahme,
+- c Art. 59 Abs. 4: Antrag auf Verlängerung der stationären Massnahme,
+- d Art. 60 Abs. 4: Antrag auf Verlängerung der stationären Massnahme,
 - e Art. 62 Abs. 1 bis 3: Bedingte Entlassung, Anordnung der Probezeit, Verpflichtung zur ambulanten Behandlung, Anordnung von Bewährungshilfe und Erteilung von Weisungen,
 - f Art. 62 Abs. 4: Antrag auf Verlängerung der Probezeit,
 - g Art. 62a Abs. 3: Antrag auf Rückversetzung,
@@ -876,20 +861,20 @@ beschliesst:
 - i Art. 62c Abs. 1: Aufhebung der stationären Massnahme,
 - k Art. 62c Abs. 4: Antrag auf Verwahrung,
 - l Art. 62c Abs. 5: Mitteilung an die Kindes- und Erwachsenenschutzbehörde,
-- m Art. 62d: Bedingte Entlassung und Aufhebung der Massnahme,
+- m Art. 62d: Bedingte Entlassung und Aufhebung der stationären Massnahme,
 - n Art. 63 Abs. 3: Anordnung vorübergehender stationärer Behandlung,
-- o Art. 63 Abs. 4: Antrag auf Verlängerung der Behandlung,
-- p Art. 63a Abs. 1 und 2: Beschluss über Fortsetzung oder Aufhebung der Behandlung,
+- o Art. 63 Abs. 4: Antrag auf Verlängerung der ambulanten Behandlung,
+- p Art. 63a Abs. 1 und 2: Beschluss über Fortsetzung oder Aufhebung der ambulanten Behandlung,
 - q …
 - r Art. 64a Abs. 2: Antrag auf Verlängerung der Probezeit,
 - s Art. 64a Abs. 3: Antrag auf Rückversetzung,
 - t Art. 64a Abs. 4: Entscheid gemäss Artikel 95 Absatz 4,
 - u Art. 64b Abs. 1 Bst. a: Entscheid über die bedingte Entlassung,
 - v Art. 64b Abs. 1 Bst. b: Antrag auf Anordnung einer stationären therapeutischen Behandlung,
-- v1 Art. 67 Abs. 6: Antrag auf Verlängerung des Tätigkeitsverbots,
+- v1 Art. 67 Abs. 2<sup>bis</sup>: Antrag auf Verlängerung des Tätigkeitsverbots,
 - v2 Art. 67b Abs. 3: Einsatz von technischen Geräten,
 - v3 Art. 67b Abs. 5: Antrag auf Verlängerung des Kontakt- und Rayonverbots,
-- v4 Art. 67c Abs. 7: Aufhebung oder Neuanordnung der Bewährungshilfe, sofern diese von der zuständigen Stelle der Sicherheitsdirektion angeordnet wurde,
+- v4 Art. 67c Abs. 7: Aufhebung oder Neuanordnung der Bewährungshilfe, sofern diese von der zuständigen Stelle der Sicherheitsdirektion angeordnet worden ist,
 - v5 Art. 67d Abs. 1: Antrag auf Erweiterung des Verbots oder auf Anordnung eines zusätzlichen Verbots,
 - v6 Art. 67d Abs. 2: Antrag auf nachträgliche Anordnung des Verbots,
 - w Art. 86: Bedingte Entlassung,
@@ -900,6 +885,14 @@ beschliesst:
 <sup>4</sup> Das Obergericht beurteilt als letzte kantonale Instanz Beschwerden gegen Verfügungen und Entscheide über den Vollzug von Freiheitsstrafen und strafrechtlichen Massnahmen.
 
 <sup>5</sup> Das Verfahren richtet sich nach den Bestimmungen des VRPG.
+
+#### Art. 69a
+
+**Verfahren bei selbstständigen nachträglichen Entscheiden des Gerichts**
+
+<sup>1</sup> In Abweichung von Artikel 69 Absatz 3 Buchstaben i und p entscheidet das Gericht über die Aufhebung der stationären Massnahmen und der ambulanten Behandlung, wenn gleichzeitig in einem selbstständigen nachträglichen Entscheid über die Anordnung einer anderen Massnahme, einer Verwahrung oder des Vollzugs der Reststrafe zu entscheiden ist.
+
+<sup>2</sup> Das Verfahren richtet sich nach den Bestimmungen der StPO.
 
 #### Art. 70
 
@@ -920,7 +913,7 @@ beschliesst:
 - c deren Erweiterung oder die Anordnung eines zusätzlichen Verbots (Art. 67d Abs. 1 StGB),
 - d deren nachträgliche Anordnung (Art. 67d Abs. 2 StGB).
 
-<sup>2</sup> Das Einzelgericht entscheidet über Tätigkeitsverbote sowie Kontakt- und Rayonverbote nach Artikel 19 Absatz 4 des Bundesgesetzes vom 20. Juni 2003 über das Jugendstrafrecht (Jugendstrafgesetz, JStG)[^71-1].
+<sup>2</sup> Das Einzelgericht entscheidet über Tätigkeitsverbote sowie Kontakt- und Rayonverbote nach Artikel 19b des Bundesgesetzes vom 20. Juni 2003 über das Jugendstrafrecht (Jugendstrafgesetz, JStG)[^71-1].
 
 <sup>3</sup> Entscheide nach Absatz 1 und 2 erfolgen in dem für selbstständige nachträgliche Entscheide des Gerichts vorgesehenen Verfahren (Art. 364 f. StPO).
 
@@ -1156,6 +1149,8 @@ beschliesst:
 <sup>3</sup> …
 
 <sup>4</sup> Kommt eine vertragliche Einigung nicht zustande oder wird die Genehmigung verweigert, reicht die Jugendanwaltschaft beim zuständigen Zivilgericht eine Unterhaltsklage ein.
+
+<sup>5</sup> Sie kann Informationen zu den Steuerdaten der gemäss Artikel 34 und 35 KFSG beteiligungspflichtigen Personen bei den Steuerbehörden einholen, wenn die für die Berechnung der Kostenbeteiligung notwendigen Informationen nicht bei den Beitragspflichtigen selbst beschafft werden können.
 
 [^93-1]: BSG [213.319](https://www.belex.sites.be.ch/data/213.319/de)
 

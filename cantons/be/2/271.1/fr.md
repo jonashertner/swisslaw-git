@@ -4,13 +4,13 @@ number: "271.1"
 title: "Loi portant introduction du code de procédure civile, du code de procédure pénale et de la loi sur la procédure pénale applicable aux mineurs"
 short: LiCPM
 language: fr
-version: 2024-01-01
-valid_until: 2026-04-30
-version_adopted: 2022-09-05
+version: 2026-05-01
+valid_until: 2026-08-31
+version_adopted: 2025-09-02
 adopted: 2009-06-11
 in_force: 2010-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/271.1"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2940/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3369/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2940/pdf_file"
 
 (LiCPM)
 
-du 11.06.2009 (état au 01.01.2024)
+du 11.06.2009 (état au 01.05.2026)
 
 Le Grand Conseil du canton de Berne,
 
@@ -114,21 +114,23 @@ arrête:
 
 <sup>1</sup> La Cour suprême connaît des litiges qui lui sont déférés par voie d’appel (art. 308 à 318 CPC) ou de recours (art. 319 à 327 CPC).
 
-<sup>2</sup> Elle est compétente pour connaître en instance cantonale unique des cas prévus à l’article 5, alinéa 1, lettres e et f CPC et des actions directes (art. 8 CPC). Dans ce dernier cas, le président ou la présidente de la Section civile ordonne également les mesures provisionnelles requises avant litispendance et l’administration des preuves à futur (art. 158 CPC).
+<sup>2</sup> Elle est compétente pour connaître en instance cantonale unique des cas prévus à l’article 5, alinéa 1, lettre e CPC et des actions directes (art. 8 CPC). Dans ce dernier cas, le président ou la présidente de la Section civile, ou l’un des membres de celle-ci qu’il ou elle aura désigné, ordonne également les mesures provisionnelles requises avant litispendance et l’administration des preuves à futur (art. 158 CPC).
 
-<sup>3</sup> En matière d’arbitrage, elle est le tribunal cantonal supérieur au sens de l’article 356, alinéa 1 CPC.
+<sup>3</sup> En matière d’arbitrage, la Cour suprême est le tribunal cantonal supérieur au sens de l’article 356, alinéa 1 CPC.
 
-<sup>4</sup> Elle connaît en instance cantonale unique des recours contre les décisions de l’Office cantonal du registre du commerce (art. 165 de l’ordonnance fédérale du 17 octobre 2007 sur le registre du commerce, [ORC])[^6-1].
+<sup>4</sup> Elle connaît en instance cantonale unique des recours contre les décisions de l’Office cantonal du registre du commerce (art. 942 du Code suisse des obligations [CO])[^6-1].
 
-[^6-1]: RS 221.411
+[^6-1]: RS [220](https://db.clex.ch/link/Bund/220/fr)
 
 #### Art. 7
 
 **Tribunal de commerce**
 
-<sup>1</sup> Le Tribunal de commerce connaît en instance cantonale unique des litiges au sens de l'article 5, alinéa 1, lettres a à d, g à i ainsi que de l'article 6, alinéa 1 CPC.
+<sup>1</sup> Le Tribunal de commerce connaît en instance cantonale unique des litiges au sens de l'article 5, alinéa 1, lettres a à d et f à i ainsi que de l'article 6, alinéa 1 CPC.
 
-<sup>2</sup> Il connaît également des litiges relevant du droit des sociétés commerciales et coopératives au sens de l'article 6, alinéa 4, lettre b CPC pour autant que la valeur litigieuse atteigne au moins 30\`000 francs. La prescription des mesures nécessaires en cas de carences dans l'organisation impérativement prescrite par la loi d'une société est réservée.
+<sup>2</sup> Il connaît également des litiges relevant du droit des sociétés commerciales et coopératives au sens de l'article 6, alinéa 4, lettre b CPC pour autant que la valeur litigieuse atteigne au moins 30’000 francs.
+
+<sup>3</sup> Il connaît en outre des litiges commerciaux internationaux au sens de l’article 6, alinéa 4, lettre c CPC.
 
 #### Art. 8
 
@@ -164,28 +166,7 @@ arrête:
 
 #### Art. 11
 
-**Procédure sommaire**
-
-<sup>1</sup> Outre les cas prévus dans le code de procédure civile, les tribunaux régionaux jugent les affaires suivantes en procédure sommaire:
-
-- 1\. Code civil suisse du 10 décembre 1907 (CCS)[^11-1]
-  - a Article 611, alinéa 2: formation des lots dans les partages successoraux
-  - b Article 612, alinéa 3: décision quant au mode de la vente aux enchères de biens de la succession
-  - c Article 763: décision ordonnant l'inventaire authentique des biens sujets à l'usufruit
-  - d Article 851, alinéa 2: consignation des sommes dues en vertu d'une cédule hypothécaire ou d'une lettre de rente
-  - e Article 977: rectification d'inscriptions au registre foncier
-- 2\. Loi fédérale du 30 mars 1911 complétant le Code civil suisse (livre cinquième: Code des obligations, CO)[^11-2]
-  - a Article 175, alinéa 3: fixation des sûretés en cas de reprise de dette
-  - b Article 202, alinéa 1: décision ordonnant l'examen de l'animal en cas de défauts
-  - c Article 204, alinéas 2 et 3: constatation de l'état de la chose et décision qui en ordonne la vente lorsque, expédiée d'un autre lieu, elle est prétendue défectueuse
-  - d Article 266m, alinéas 2 et 3: autorisation du conjoint ou du partenaire enregistré de résilier le bail du logement
-  - e Article 427, alinéas 1 et 3: décisions relatives à la constatation de l'état de marchandises expédiées en commission et à leur vente
-  - f Article 435: décision relative à la vente aux enchères de marchandises expédiées en commission
-  - g Articles 444, alinéa 2, 445 et 453, alinéa 1: décisions relatives à la constatation de l'état de marchandises transportées, à leur vente et à leur consignation
-  - h Articles 971, 972, 977, 982 à 988, 1073 à 1080, 1098, 1143, chiffre 19: annulation de papiers-valeurs
-
-[^11-1]: RS 210
-[^11-2]: RS 220
+**…**
 
 #### Art. 12
 
@@ -200,11 +181,12 @@ arrête:
 - a obligation de fournir des sûretés en garantie des dépens (art. 99 CPC);
 - b administration des preuves à futur une fois que la procédure principale est pendante (art. 158 CPC);
 - c toutes les affaires auxquelles s'applique la procédure sommaire conformément aux articles 248 ss CPC une fois que la procédure principale est pendante;
-- d non-respect de l'obligation de fournir des avances ou des sûretés (art. 101, al. 3 CPC).
+- d non-respect de l'obligation de fournir des avances ou des sûretés (art. 101, al. 3 CPC);
+- e sursis, paiement échelonné et remise des frais judiciaires (art. 112, al. 1 CPC).
 
-<sup>4</sup> En cas de litige commercial, la compétence de juge instructeur ou de juge instructrice au sens de l'alinéa 3 appartient au président ou à la présidente du Tribunal de commerce ou à un membre juriste désigné par ses soins.
+<sup>4</sup> En cas de litige commercial, la compétence de juge instructeur ou de juge instructrice au sens de l'alinéa 3 appartient au président ou à la présidente du Tribunal de commerce ou à un ou une juge à titre principal désignée par ses soins.
 
-<sup>5</sup> Si une procédure devant le juge instructeur ou la juge instructrice devient sans objet suite à une transaction, à un acquiescement, à un désistement d'action ou pour d'autres raisons, celui-ci ou celle-ci la raye du rôle et liquide les frais après avoir entendu les parties (art. 241 et 242 CPC).
+<sup>5</sup> Si une procédure devient sans objet suite à une transaction, à un acquiescement, à un désistement d'action ou pour d'autres raisons, le juge instructeur ou la juge instructrice la raye du rôle et liquide les frais après avoir entendu les parties (art. 241 et 242 CPC).
 
 #### Art. 13
 
@@ -242,7 +224,7 @@ arrête:
 
 **Publicité de la procédure**
 
-<sup>1</sup> Les débats, les délibérations et l’éventuelle notification orale du jugement sont publics.
+<sup>1</sup> Les débats et l’éventuelle notification orale du jugement sont publics.
 
 <sup>2</sup> Le huis clos total ou partiel peut être ordonné lorsque l’intérêt public ou un intérêt digne de protection de l’une des personnes participant à la procédure l’exige.
 
@@ -286,12 +268,13 @@ arrête:
 
 **Compétence du Ministère public**
 
-<sup>1</sup> Le Ministère public est compétent dans les cas ci-après prévus par le Code civil suisse et par la loi fédérale du 18 juin 2004 sur le partenariat enregistré entre personnes du même sexe (loi sur le partenariat enregistré, LPart)[^20-1]:
+<sup>1</sup> Le Ministère public est compétent dans les cas ci-après prévus par le Code civil suisse (CC)[^20-1] et par la loi fédérale du 18 juin 2004 sur le partenariat enregistré entre personnes du même sexe (loi sur le partenariat enregistré, LPart)[^20-2]:
 
-- a pour intenter l’action en annulation du mariage (art. 106 CCS);
+- a pour intenter l’action en annulation du mariage (art. 106 CC);
 - b pour intenter l’action en annulation du partenariat enregistré (art. 9, al. 2 LPart).
 
-[^20-1]: RS 211.231
+[^20-1]: RS [210](https://db.clex.ch/link/Bund/210/fr)
+[^20-2]: RS [211.231](https://db.clex.ch/link/Bund/211.231/fr)
 
 #### Art. 21
 
@@ -354,7 +337,7 @@ arrête:
 
 #### Art. 26
 
-**Entraide judiciaire (art. 43 à 55 CPP) 1. Entraide intracantonale**
+**Entraide judiciaire (art. 43 à 55a CPP) 1. Entraide intracantonale**
 
 <sup>1</sup> Les dispositions du code de procédure pénale suisse relatives à l’entraide judiciaire nationale s’appliquent par analogie à l’entraide judiciaire entre les autorités pénales du canton.
 
@@ -373,6 +356,8 @@ arrête:
 <sup>2</sup> La Cour suprême accorde l’entraide judiciaire à des Etats étrangers lorsqu’une décision judiciaire est nécessaire à cet égard.
 
 <sup>3</sup> Le Parquet général représente le canton vis-à-vis des autorités étrangères dans les procédures de délégation ou d’acceptation de poursuites pénales, à moins que des traités internationaux ne prévoient une communication directe.
+
+<sup>4</sup> Le Tribunal cantonal des mesures de contrainte est compétent pour approuver les mesures de contrainte.
 
 #### Art. 29
 
@@ -465,7 +450,7 @@ arrête:
 
 <sup>2</sup> L’Institut de médecine légale peut déléguer, d’une manière générale ou pour des affaires déterminées, certaines tâches aux médecins d’arrondissement du canton, en particulier les examens externes de cadavres ou les examens cliniques dans les cas non critiques.
 
-<sup>3</sup> Les collaborateurs et collaboratrices scientifiques du Service de psychiatrie forensique de l’Université de Berne sont des experts et expertes officiels dans le domaine des examens et expertises de psychiatrie forensique.
+<sup>3</sup> Les collaborateurs et les collaboratrices scientifiques de la Clinique universitaire de psychiatrie et psychothérapie forensiques des Services psychiatriques universitaires sont des experts et des expertes officiels dans le domaine des examens et expertises de psychiatrie forensique.
 
 ### 3.4 Mesures de contrainte
 
@@ -511,15 +496,13 @@ arrête:
 - i le cautionnement préventif (art. 373, al. 1 CPP),
 - k la mise en détention pendant la procédure distincte concernant le cautionnement préventif (art. 373, al. 5 CPP),
 - l la poursuite de la détention imposée pour garantir l'exécution d'une ordonnance pénale (art. 440, al. 2, lit. b CPP),
-- m la mise en détention pour des motifs de sécurité relevant du droit de l'exécution des peines et mesures, afin de garantir l'exécution d'une réintégration ou d'une décision judiciaire ultérieure indépendante (art. 28 de la loi du 23 janvier 2018 sur l'exécution judiciaire [LEJ][^38-1]).
-
-[^38-1]: RSB [341.1](https://www.belex.sites.be.ch/data/341.1/fr)
+- m la détention pour des motifs de sûreté ordonnée en vue d’une décision judiciaire ultérieure indépendante (art. 364a CPP) ou pendant la procédure judiciaire (art. 364b CPP).
 
 #### Art. 39
 
 **2. Décisions concernant la levée des scellés**
 
-<sup>1</sup> Le Tribunal cantonal des mesures de contrainte statue sur les demandes de levée des scellés apposés sur des documents, enregistrements ou autres objets (art. 248, al. 3, lit. a CPP).
+<sup>1</sup> Le Tribunal cantonal des mesures de contrainte statue sur les demandes de levée des scellés apposés sur des documents, enregistrements ou autres objets (art. 248a, al. 1, lit. a CPP).
 
 #### Art. 40
 
@@ -574,7 +557,9 @@ arrête:
 
 **Droits et obligations des personnes prévenues en détention (art. 235 CPP)**
 
-<sup>1</sup> Les droits et les obligations des personnes prévenues en détention sont régis par la LEJ.
+<sup>1</sup> Les droits et les obligations des personnes prévenues en détention sont régis par la loi du 23 janvier 2018 sur l’exécution judiciaire (LEJ)[^45-1].
+
+[^45-1]: RSB [341.1](https://www.belex.sites.be.ch/data/341.1/fr)
 
 #### Art. 46
 
@@ -630,9 +615,9 @@ arrête:
 
 **Droit de porter plainte des autorités chargées de l’aide sociale et des autorités de protection de l’adulte et de l’enfant**
 
-<sup>1</sup> Les autorités compétentes pour exécuter les législations sur l’aide sociale et sur l’avance de contributions d’entretien ont qualité pour porter plainte pour violation d’une obligation d’entretien au sens de l’article 217, alinéa 2 du Code pénal suisse du 21 décembre 1937 (CPS)[^49-1].
+<sup>1</sup> Les autorités compétentes pour exécuter les législations sur l’aide sociale et sur l’avance de contributions d’entretien ont qualité pour porter plainte pour violation d’une obligation d’entretien au sens de l’article 217, alinéa 2 du Code pénal suisse (CP)[^49-1].
 
-[^49-1]: RS 311.0
+[^49-1]: RS [311.0](https://db.clex.ch/link/Bund/311.0/fr)
 
 #### Art. 50
 
@@ -864,8 +849,8 @@ arrête:
 
 - a …
 - b Article 59, alinéa 3: traitement dans un établissement fermé
-- c Article 59, alinéa 4: requête de prolongation de la mesure
-- d Article 60, alinéa 4: requête de prolongation de la mesure
+- c Article 59, alinéa 4: requête de prolongation de la mesure institutionnelle
+- d Article 60, alinéa 4: requête de prolongation de la mesure institutionnelle
 - e Article 62, alinéas 1 à 3: libération conditionnelle, décision concernant le délai d'épreuve, décisions imposant un traitement ambulatoire, une assistance de probation et des règles de conduite
 - f Article 62, alinéa 4: requête de prolongation du délai d'épreuve
 - g Article 62a, alinéa 3: requête de réintégration
@@ -873,7 +858,7 @@ arrête:
 - i Article 62c, alinéa 1: levée d'une mesure institutionnelle
 - k Article 62c, alinéa 4: requête d'internement
 - l Article 62c, alinéa 5: avis aux autorités de protection de l'enfant et de l'adulte
-- m Article 62d: libération conditionnelle et levée de la mesure
+- m Article 62d: libération conditionnelle et levée de la mesure institutionnelle
 - n Article 63, alinéa 3: décision imposant un traitement institutionnel initial temporaire
 - o Article 63, alinéa 4: requête de prolongation du traitement ambulatoire
 - p Article 63a, alinéas 1 et 2: décision ordonnant la poursuite ou l'arrêt du traitement ambulatoire
@@ -883,7 +868,7 @@ arrête:
 - t Article 64a, alinéa 4: décision au sens de l'article 95, alinéa 4
 - u Article 64b, alinéa 1, lettre a: décision concernant la libération conditionnelle
 - v Article 64b, alinéa 1, lettre b: requête visant à ce qu'un traitement thérapeutique institutionnel soit ordonné
-- v1 Article 67, alinéa 6: requête de prolongation de l’interdiction d’exercer une activité
+- v1 Article 67, alinéa 2<sup>bis</sup>: requête de prolongation de l’interdiction d’exercer une activité
 - v2 Article 67b, alinéa 3: utilisation d’appareils techniques
 - v3 Article 67b, alinéa 5: requête de prolongation de l’interdiction de contact et de l’interdiction géographique
 - v4 Article 67c, alinéa 7: levée de l’assistance de probation ou décision ordonnant une nouvelle assistance de probation, pour autant que l’assistance ait été ordonnée par le service compétent de la Direction de la sécurité
@@ -899,6 +884,14 @@ arrête:
 <sup>5</sup> La procédure est régie par les dispositions de la loi sur la procédure et la juridiction administratives.
 
 [^69-1]: Rectifié par la Commission de rédaction le 19 octobre 2018 en application de l’article 25 de la loi sur les publications officielles.
+
+#### Art. 69a
+
+**Procédure en cas de décision judiciaire ultérieure indépendante**
+
+<sup>1</sup> En dérogation à l’article 69, alinéa 3, lettres i et p, le tribunal statue sur la levée d’une mesure institutionnelle ou l’arrêt du traitement ambulatoire lorsqu’il y a simultanément lieu d’ordonner, dans une décision ultérieure indépendante, une autre mesure, un internement ou l’exécution du reste de la peine.
+
+<sup>2</sup> La procédure est régie par les dispositions du CPP.
 
 #### Art. 70
 
@@ -919,7 +912,7 @@ arrête:
 - c son extension ou une interdiction supplémentaire (art. 67d, al. 1 CPS),
 - d le prononcé ultérieur d’une interdiction (art. 67d, al. 2 CPS).
 
-<sup>2</sup> Le ou la juge unique statue sur l’interdiction d’exercer une activité, l’interdiction de contact et l’interdiction géographique selon l’article 19, alinéa 4 de la loi fédérale du 20 juin 2003 régissant la condition pénale des mineurs (droit pénal des mineurs, DPMin)[^71-1].
+<sup>2</sup> La ou le juge unique statue sur l’interdiction d’exercer une activité, l’interdiction de contact et l’interdiction géographique selon l’article 19b de la loi fédérale du 20 juin 2003 régissant la condition pénale des mineurs (droit pénal des mineurs, DPMin)[^71-1].
 
 <sup>3</sup> Les décisions prévues par les alinéas 1 et 2 sont rendues dans le cadre de la procédure en cas de décisions judiciaires ultérieures indépendantes (art. 364 s. CPP).
 
@@ -1155,6 +1148,8 @@ arrête:
 <sup>3</sup> …
 
 <sup>4</sup> Le Ministère public des mineurs intente une action alimentaire devant le tribunal civil compétent au cas où aucune convention n’est conclue ou si l’approbation en est refusée.
+
+<sup>5</sup> Il peut demander aux autorités fiscales des informations sur les données fiscales des personnes tenues de contribuer au sens des articles 34 et 35 LPEP si les renseignements nécessaires au calcul de la participation aux coûts ne peuvent pas être obtenus auprès de ces personnes.
 
 [^93-1]: RSB [213.319](https://www.belex.sites.be.ch/data/213.319/fr)
 
