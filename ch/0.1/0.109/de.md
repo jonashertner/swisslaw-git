@@ -3,11 +3,11 @@ sr: "0.109"
 title: Übereinkommen vom 13. Dezember 2006 über die Rechte von Menschen mit Behinderungen
 eli: "https://fedlex.data.admin.ch/eli/cc/2014/245"
 language: de
-version: 2025-03-24
+version: 2026-05-01
 adopted: 2006-12-13
 in_force: 2014-05-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/245/20250324/de/xml/fedlex-data-admin-ch-eli-cc-2014-245-20250324-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2014/245/20250324/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/245/20260501/de/xml/fedlex-data-admin-ch-eli-cc-2014-245-20260501-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2014/245/20260501/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -26,7 +26,7 @@ Beitrittsurkunde von der Schweiz hinterlegt am 15. April 2014
 
 In Kraft getreten für die Schweiz am 15. Mai 2014
 
-(Stand am 24. März 2025)
+(Stand am 1. Mai 2026)
 
 [^t-1]: [AS 2014 1117](https://fedlex.data.admin.ch/eli/oc/2014/244)
 
@@ -727,7 +727,7 @@ Der arabische, der chinesische, der englische, der französische, der russische 
 
 *Zu Urkund dessen* haben die unterzeichneten, von ihren Regierungen hierzu gehörig befugten Bevollmächtigten dieses Übereinkommen unterschrieben. (Es folgen die Unterschriften)
 
-Geltungsbereich am 24. März 2025[^t-2]
+Geltungsbereich am 1. Mai 2026[^t-2]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -826,6 +826,7 @@ Geltungsbereich am 24. März 2025[^t-2]
 <tr><td>Laos</td><td>25. September</td><td>2009</td><td>25. Oktober</td><td>2009</td></tr>
 <tr><td>Lesotho</td><td>2. Dezember</td><td>2008 B</td><td>1. Januar</td><td>2009</td></tr>
 <tr><td>Lettland\*\*</td><td>1. März</td><td>2010</td><td>31. März</td><td>2010</td></tr>
+<tr><td>Libanon</td><td>5. Juni</td><td>2025</td><td>5. Juli</td><td>2025</td></tr>
 <tr><td>Liberia</td><td>26. Juli</td><td>2012</td><td>25. August</td><td>2012</td></tr>
 <tr><td>Libyen\*</td><td>13. Februar</td><td>2018</td><td>15. März</td><td>2018</td></tr>
 <tr><td>Liechtenstein<sup>\*</sup></td><td>18. Dezember</td><td>2023</td><td>17. Januar</td><td>2024</td></tr>
@@ -888,7 +889,7 @@ Geltungsbereich am 24. März 2025[^t-2]
 <tr><td>Seychellen</td><td>2. Oktober</td><td>2009</td><td>1. November</td><td>2009</td></tr>
 <tr><td>Sierra Leone</td><td>4. Oktober</td><td>2010</td><td>3. November</td><td>2010</td></tr>
 <tr><td>Simbabwe</td><td>23. September</td><td>2013 B</td><td>23. Oktober</td><td>2013</td></tr>
-<tr><td>Singapur\*</td><td>18. Juli</td><td>2013</td><td>17. August</td><td>2013</td></tr>
+<tr><td>Singapur</td><td>18. Juli</td><td>2013</td><td>17. August</td><td>2013</td></tr>
 <tr><td>Slowakei\* \*\*</td><td>26. Mai</td><td>2010</td><td>25. Juni</td><td>2010</td></tr>
 <tr><td>Slowenien</td><td>24. April</td><td>2008</td><td>24. Mai</td><td>2008</td></tr>
 <tr><td>Somalia</td><td>6. August</td><td>2019</td><td>5. September</td><td>2019</td></tr>
@@ -929,4 +930,4 @@ Geltungsbereich am 24. März 2025[^t-2]
 <tr><td colspan="5">\* Vorbehalte und Erklärungen. \*\* Einwendungen. Die Vorbehalte, Erklärungen und Einwendungen werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite der Vereinten Nationen: [http://treaties.un.org/](http://treaties.un.org/) eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden. <sup>a</sup> Das Übereinkommen gilt nicht für Tokelau.</td></tr>
 </table>
 
-[^t-2]: [AS 2014 1119](https://fedlex.data.admin.ch/eli/oc/2014/245), [3269](https://fedlex.data.admin.ch/eli/oc/2014/562); [2015 3763](https://fedlex.data.admin.ch/eli/oc/2015/632); [2016 1145](https://fedlex.data.admin.ch/eli/oc/2016/211), [3409](https://fedlex.data.admin.ch/eli/oc/2016/572); [2017 33](https://fedlex.data.admin.ch/eli/oc/2017/11), [3517](https://fedlex.data.admin.ch/eli/oc/2017/383); [2019 1793](https://fedlex.data.admin.ch/eli/oc/2019/329); [2020 3631](https://fedlex.data.admin.ch/eli/oc/2020/655); [2022 566](https://fedlex.data.admin.ch/eli/oc/2022/566); [2024 89](https://fedlex.data.admin.ch/eli/oc/2024/89); [2025 208](https://fedlex.data.admin.ch/eli/oc/2025/208). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
+[^t-2]: [AS 2014 1119](https://fedlex.data.admin.ch/eli/oc/2014/245), [3269](https://fedlex.data.admin.ch/eli/oc/2014/562); [2015 3763](https://fedlex.data.admin.ch/eli/oc/2015/632); [2016 1145](https://fedlex.data.admin.ch/eli/oc/2016/211), [3409](https://fedlex.data.admin.ch/eli/oc/2016/572); [2017 33](https://fedlex.data.admin.ch/eli/oc/2017/11), [3517](https://fedlex.data.admin.ch/eli/oc/2017/383); [2019 1793](https://fedlex.data.admin.ch/eli/oc/2019/329); [2020 3631](https://fedlex.data.admin.ch/eli/oc/2020/655); [2022 566](https://fedlex.data.admin.ch/eli/oc/2022/566); [2024 89](https://fedlex.data.admin.ch/eli/oc/2024/89); [2025 208](https://fedlex.data.admin.ch/eli/oc/2025/208); [2026 190](https://fedlex.data.admin.ch/eli/oc/2026/190). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).

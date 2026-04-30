@@ -3,11 +3,11 @@ sr: "0.109"
 title: Convenzione del 13 dicembre 2006 sui diritti delle persone con disabilità
 eli: "https://fedlex.data.admin.ch/eli/cc/2014/245"
 language: it
-version: 2025-03-24
+version: 2026-05-01
 adopted: 2006-12-13
 in_force: 2014-05-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/245/20250324/it/xml/fedlex-data-admin-ch-eli-cc-2014-245-20250324-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2014/245/20250324/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/245/20260501/it/xml/fedlex-data-admin-ch-eli-cc-2014-245-20260501-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2014/245/20260501/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -20,7 +20,7 @@ Traduzione
 
 Conclusa a New York il 13 dicembre 2006 Approvata dall’Assemblea federale il 13 dicembre 2013[^t-1] Strumento di adesione depositato dalla Svizzera il 15 aprile 2014 Entrata in vigore per la Svizzera il 15 maggio 2014
 
-(Stato 24 marzo 2025)
+(Stato 1° maggio 2026)
 
 [^t-1]: [RU 2014 1117](https://fedlex.data.admin.ch/eli/oc/2014/244)
 
@@ -714,7 +714,7 @@ I testi in arabo, cinese, francese, inglese, russo e spagnolo della presente Con
 
 *In fede di che* i sottoscritti Plenipotenziari, essendo debitamente autorizzati dai rispettivi Governi, hanno firmato la presente Convenzione. (Seguono le firme)
 
-Campo d’applicazione il 24 marzo 2025[^t-2]
+Campo d’applicazione il 1° maggio 2026[^t-2]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -818,6 +818,7 @@ Campo d’applicazione il 24 marzo 2025[^t-2]
 <tr><td>Laos</td><td>25 settembre</td><td>2009</td><td>25 ottobre</td><td>2009</td></tr>
 <tr><td>Lesotho</td><td>2 dicembre</td><td>2008 A</td><td>1° gennaio</td><td>2009</td></tr>
 <tr><td>Lettonia\*\*</td><td>1° marzo</td><td>2010</td><td>31 marzo</td><td>2010</td></tr>
+<tr><td>Libano</td><td>5 giugno</td><td>2025</td><td>5 luglio</td><td>2025</td></tr>
 <tr><td>Liberia</td><td>26 luglio</td><td>2012</td><td>25 agosto</td><td>2012</td></tr>
 <tr><td>Libia\*</td><td>13 febbraio</td><td>2018</td><td>15 marzo</td><td>2018</td></tr>
 <tr><td>Liechtenstein<sup>\*</sup></td><td>18 dicembre</td><td>2023</td><td>17 gennaio</td><td>2024</td></tr>
@@ -879,7 +880,7 @@ Campo d’applicazione il 24 marzo 2025[^t-2]
 <tr><td>Senegal</td><td>7 settembre</td><td>2010</td><td>7 ottobre</td><td>2010</td></tr>
 <tr><td>Serbia</td><td>31 luglio</td><td>2009</td><td>30 agosto</td><td>2009</td></tr>
 <tr><td>Sierra Leone</td><td>4 ottobre</td><td>2010</td><td>3 novembre</td><td>2010</td></tr>
-<tr><td>Singapore\*</td><td>18 luglio</td><td>2013</td><td>17 agosto</td><td>2013</td></tr>
+<tr><td>Singapore</td><td>18 luglio</td><td>2013</td><td>17 agosto</td><td>2013</td></tr>
 <tr><td>Siria\*</td><td>10 luglio</td><td>2009</td><td>9 agosto</td><td>2009</td></tr>
 <tr><td>Slovacchia\* \*\*</td><td>26 maggio</td><td>2010</td><td>25 giugno</td><td>2010</td></tr>
 <tr><td>Slovenia</td><td>24 aprile</td><td>2008</td><td>24 maggio</td><td>2008</td></tr>
@@ -916,5 +917,5 @@ Campo d’applicazione il 24 marzo 2025[^t-2]
 <tr><td colspan="5">\* Riserve e dichiarazioni. \*\* Obiezioni. Le riserve, dichiarazioni e obiezioni non sono pubblicate nella RU, eccetto le riserve e dichiarazioni della Svizzera. Il testo, in francese inglese, può essere consultato sul sito Internet dell’Organizzazione delle Nazioni Unite (ONU): [https://treaties.un.org](https://treaties.un.org/) oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna. <sup>a</sup> La Conv. non si applica a Tokelau.</td></tr>
 </table>
 
-[^t-2]: [RU 2014 1119](https://fedlex.data.admin.ch/eli/oc/2014/245), [3269](https://fedlex.data.admin.ch/eli/oc/2014/562); [2015 3763](https://fedlex.data.admin.ch/eli/oc/2015/632); [2016 1145](https://fedlex.data.admin.ch/eli/oc/2016/211), [3409](https://fedlex.data.admin.ch/eli/oc/2016/572); [2017 33](https://fedlex.data.admin.ch/eli/oc/2017/11), [3517](https://fedlex.data.admin.ch/eli/oc/2017/383); [2019 1793](https://fedlex.data.admin.ch/eli/oc/2019/329); [2020 3631](https://fedlex.data.admin.ch/eli/oc/2020/655); [2022 566](https://fedlex.data.admin.ch/eli/oc/2022/566); [2024 89](https://fedlex.data.admin.ch/eli/oc/2024/89); [2025 208](https://fedlex.data.admin.ch/eli/oc/2025/208). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty).
+[^t-2]: [RU 2014 1119](https://fedlex.data.admin.ch/eli/oc/2014/245), [3269](https://fedlex.data.admin.ch/eli/oc/2014/562); [2015 3763](https://fedlex.data.admin.ch/eli/oc/2015/632); [2016 1145](https://fedlex.data.admin.ch/eli/oc/2016/211), [3409](https://fedlex.data.admin.ch/eli/oc/2016/572); [2017 33](https://fedlex.data.admin.ch/eli/oc/2017/11), [3517](https://fedlex.data.admin.ch/eli/oc/2017/383); [2019 1793](https://fedlex.data.admin.ch/eli/oc/2019/329); [2020 3631](https://fedlex.data.admin.ch/eli/oc/2020/655); [2022 566](https://fedlex.data.admin.ch/eli/oc/2022/566); [2024 89](https://fedlex.data.admin.ch/eli/oc/2024/89); [2025 208](https://fedlex.data.admin.ch/eli/oc/2025/208); [2026 190](https://fedlex.data.admin.ch/eli/oc/2026/190). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty).
 [^t-3]: Questo Stato ha formulato un’obiezione riguardo a una riserva.
