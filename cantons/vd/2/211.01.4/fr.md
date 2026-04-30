@@ -4,7 +4,7 @@ number: "211.01.4"
 title: RÈGLEMENT du 22.06.2010 sur les médiateurs civils agréés (RMCA)
 short: RMCA
 language: fr
-version: 2025-06-01
+version: 2026-05-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/211.01.4?id=890e27d0-9a1c-4282-ae21-e245383c8480"
 ---
 
@@ -163,22 +163,21 @@ arrête
 [^12-1]: Loi du 28.10.2008 sur la procédure administrative ( [BLV 173.36](https://prestations.vd.ch/pub/blv-publication/actes/consolide/173.36?id=e23682d9-8d47-49d8-a8fb-54bfae0c3a2a))
 [^12-2]: Modif. 1 du 01.05.2018: Introduction ; entrée en vigueur au 01.05.2018 · Modif. 4 du 15.04.2026: Abrogation ; entrée en vigueur au 01.05.2026
 
-## Chapitre IVbis Permanence de médiation de l'Ordre judiciaire vaudois
+## Chapitre IVbis ...
 
 [^12-2]
 
 #### Art. 12a
 
-**Organisation [^chapterChapitreIVbis-1]**
+**... [^chapterChapitreIVbis-1]**
 
-<sup>1</sup> L'Ordre judiciaire vaudois met gratuitement à la disposition des justiciables un bureau d'information à la médiation (permanence) dont les modalités d'organisation et de fonctionnement sont réglées par le Tribunal cantonal.
+<sup>1</sup> ...
 
-<sup>2</sup> Une Commission de liaison, composée d'un juge cantonal, d'un magistrat de première instance et du coordinateur de la permanence, est chargée du suivi et de l'évaluation du bureau d'information à la médiation. Elle désigne les médiateurs de la permanence.
+<sup>2</sup> ...
 
-<sup>3</sup> Les médiateurs et le coordinateur sont indemnisés par le Tribunal cantonal selon un tarif arrêté par ce dernier[^12a-1] .
+<sup>3</sup> ...
 
 [^chapterChapitreIVbis-1]: Modif. 1 du 01.05.2018: Introduction Art. 12a; entrée en vigueur au 01.05.2018 · Modif. 4 du 15.04.2026: Abrogation tArt; entrée en vigueur au 01.05.2026; Abrogation Al. 1-3; entrée en vigueur au 01.05.2026
-[^12a-1]: Il s'agit de directives établies par le Tribunal cantonal
 
 ## Chapitre V Sanctions disciplinaires et radiation
 
