@@ -4,7 +4,7 @@ number: "222.55.1"
 title: "ARRÊTÉ du 03.04.2000 établissant un contrat-type de travail pour l'agriculture (ACTT-agr)"
 short: ACTT-agr
 language: fr
-version: 2021-01-01
+version: 2026-05-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/222.55.1?id=884bff88-a76d-4888-85fe-a3200e84ad8b"
 ---
 
@@ -42,16 +42,15 @@ arrête
 
 <sup>1</sup> Le présent contrat-type de travail s'applique, d'une part, aux employeurs dirigeant une entreprise agricole sise sur le territoire vaudois et, d'autre part, aux travailleurs au service de l'entreprise, quel que soit le lieu d'exécution de leur travail.
 
-<sup>2</sup> Sont réputées entreprises agricoles les entreprises, quelle qu'en soit la nature juridique, qui se livrent, à titre exclusif, principal ou accessoire, à l'exploitation de champs et de prés, à l'arboriculture fruitière, à la viticulture, à la culture maraîchère, à la culture des baies et à la garde d'animaux d'élevage et de rente, à l'aviculture et à l'apiculture, ainsi que, d'une manière générale, les entreprises agricoles qui ne sont pas soumises à la loi fédérale sur le travail [^1-1] .
+<sup>2</sup> Sont réputées entreprises agricoles les entreprises, quelle qu'en soit la nature juridique, qui se livrent, à titre exclusif, principal ou accessoire, à l'exploitation de champs et de prés, à l'arboriculture fruitière, à la viticulture, à la culture maraîchère, à la culture de plantes en pot et de fleurs coupées, à la culture des baies et à la garde d'animaux d'élevage et de rente, à l'aviculture et à l'apiculture, ainsi que, d'une manière générale, les entreprises agricoles qui ne sont pas soumises à la loi fédérale sur le travail .
 
-<sup>3</sup> Sont réputés travailleurs toutes les personnes, de l'un et l'autre sexe qui, en vertu d'un contrat de travail, exécutent des travaux agricoles ou ménagers dans une entreprise agricole au sens de l'alinéa 2, pour autant que ces travaux constituent leur activité exclusive ou principale. Sont exclus de cette définition le conjoint de l'employeur, ses parents par le sang en ligne ascendante et descendante ainsi que leurs conjoints, ses enfants adoptifs, les enfants de son conjoint et les apprentis liés par un contrat conforme à la législation sur la formation professionnelle [^1-2] .
+<sup>3</sup> Sont réputés travailleurs toutes les personnes, de l'un et l'autre sexe qui, en vertu d'un contrat de travail, exécutent des travaux agricoles ou ménagers dans une entreprise agricole au sens de l'alinéa 2, pour autant que ces travaux constituent leur activité exclusive ou principale. Sont exclus de cette définition le conjoint de l'employeur, ses parents par le sang en ligne ascendante et descendante ainsi que leurs conjoints, ses enfants adoptifs, les enfants de son conjoint et les apprentis liés par un contrat conforme à la législation sur la formation professionnelle [^1-1] .
 
-<sup>4</sup> Conformément à l'article 3 de la loi fédérale sur l'égalité [^1-3] , il est interdit de discriminer des travailleurs à raison du sexe.
+<sup>4</sup> Conformément à l'article 3 de la loi fédérale sur l'égalité [^1-2] , il est interdit de discriminer des travailleurs à raison du sexe.
 
-[^sectionSectionI-1]: Modif. 6 du 25.03.2026: Modification Al. 2; entrée en vigueur au 01.05.2026; Introduction Art. 18a, Al. 1, d-e; entrée en vigueur au 01.05.2026; Introduction Art. 25, Al. 4; entrée en vigueur au 01.05.2026
-[^1-1]: Loi fédérale du 13.03.1964 sur le travail dans l'industrie, l'artisanat et le commerce (RS 822.11)
-[^1-2]: Loi fédérale du 13.12.2002 sur la formation professionnelle (RS 412.10)
-[^1-3]: Loi fédérale du 24.03.1995 sur l’égalité entre femmes et hommes (RS 151.1)
+[^sectionSectionI-1]: Modif. 6 du 25.03.2026: Modification Al. 2; entrée en vigueur au 01.05.2026
+[^1-1]: Loi fédérale du 13.12.2002 sur la formation professionnelle (RS 412.10)
+[^1-2]: Loi fédérale du 24.03.1995 sur l’égalité entre femmes et hommes (RS 151.1)
 
 #### Art. 2
 
@@ -142,13 +141,13 @@ arrête
 
 **Durée du travail [^sectionSectionIV-1]**
 
-<sup>1</sup> La durée hebdomadaire du travail est de 51 heures 30 en moyenne sur l'année pour les exploitations qui pratiquent l'élevage de bétail et de 49 heures 30 pour les autres exploitations ; elle ne peut excéder 55 heures 30 par semaine, sous réserve des heures supplémentaires compensées ou payées selon les principes de l'article 13, alinéa 2.
+<sup>1</sup> La durée hebdomadaire du travail est, en moyenne sur l'année, de 45 heures pour les exploitations de cultures de plantes en pot et de fleurs coupées, de 51 heures 30 pour les exploitations qui pratiquent l'élevage de bétail et de 49 heures 30 pour les autres exploitations ; elle ne peut excéder 55 heures 30 par semaine, sous réserve des heures supplémentaires compensées ou payées selon les principes de l'article 13, alinéa 2.
 
 <sup>2</sup> Le travailleur jouit d'un repos nocturne ininterrompu de 9 heures au moins. Pour le personnel de moins de 19 ans révolus, cette durée est portée à 10 heures.
 
 <sup>3</sup> Un décompte précis et écrit des heures de travail est établi par l'employeur.
 
-[^sectionSectionIV-1]: Modif. 1 du 19.03.2003: Modification Art. 12; entrée en vigueur au 01.04.2003 · Modif. 3 du 18.02.2015: Modification Al. 1; entrée en vigueur au 01.03.2015 · Modif. 6 du 25.03.2026: Modification Al. 1; entrée en vigueur au 01.05.2026; Introduction Art. 18a, Al. 1, d-e; entrée en vigueur au 01.05.2026; Introduction Art. 25, Al. 4; entrée en vigueur au 01.05.2026
+[^sectionSectionIV-1]: Modif. 1 du 19.03.2003: Modification Art. 12; entrée en vigueur au 01.04.2003 · Modif. 3 du 18.02.2015: Modification Al. 1; entrée en vigueur au 01.03.2015 · Modif. 6 du 25.03.2026: Modification Al. 1; entrée en vigueur au 01.05.2026
 
 #### Art. 13
 
@@ -214,11 +213,11 @@ arrête
 
 *a) En général*
 
-<sup>1</sup> Les parties fixent le salaire avant l'entrée en service ou avant la fin du temps d'essai. Il est fixé au minimum à Fr. 3'420.- brut par mois dès le 1er janvier 2016.
+<sup>1</sup> Les parties fixent le salaire avant l'entrée en service ou avant la fin du temps d'essai. Il est fixé au minimum à Fr. 3'663.- brut par mois dès le 1<sup>er</sup> mai 2026.
 
-<sup>2</sup> Dès 2017, le salaire minimal sera adapté en début de chaque année civile à l'indice suisse des prix à la consommation du mois d'octobre précédent.
+<sup>2</sup> Chaque année, avec effet au 1<sup>er</sup> janvier, le salaire minimal est indexé sur la base de l'indice suisse des prix à la consommation du mois d'octobre précédent, par rapport à l'indice en vigueur le 1<sup>er</sup> janvier de l'année 2026. Les salaires des travailleurs visés par l'article 18a alinéa 1 lettre b, c, d ou e ne sont indexés qu'en cas d'augmentation de l'indice des prix à la consommation. Il y a augmentation lorsque l'indice s'établit à un niveau supérieur à celui ayant donné lieu à la dernière indexation de salaire.​
 
-<sup>2bis</sup> Dès 2021, les salaires de base réglés à l'article 18a alinéa 1 du présent arrêté seront adaptés en début de chaque année civile à l'indice suisse des prix à la consommation du mois d'octobre précédent.
+<sup>2bis</sup> Le salaire des travailleurs visé par l'article 18a alinéa 1 lettre a ne fait pas l'objet d'une indexation automatique. Il peut être adapté par décision du Conseil d'Etat.
 
 <sup>3</sup> Les jours fériés légaux sont payés pour les travailleurs rétribués à l'heure. Pour les travailleurs au bénéfice d'un salaire mensualisé, ils sont accordés ou compensés par une journée de congé dans un délai de 8 semaines. Ils peuvent également, avec l'accord du travailleur, être payés. L'article 14 demeure réservé. Le salaire en nature est calculé selon les prescriptions de la législation fédérale sur l'assurance-vieillesse et survivants [^18-1] .
 
@@ -226,18 +225,20 @@ arrête
 
 <sup>5</sup> Un décompte est remis au travailleur.
 
-[^sectionSectionVII-1]: Modif. 1 du 19.03.2003: Modification Al. 1-3; entrée en vigueur au 01.04.2003 · Modif. 2 du 09.07.2008: Modification Al. 1,2,4; entrée en vigueur au 01.01.2009 · Modif. 3 du 18.02.2015: Modification Al. 1,2; entrée en vigueur au 01.03.2015 · Modif. 4 du 19.09.2017: Modification Al. 1; entrée en vigueur au 01.01.2018 · Modif. 5 du 04.11.2020: Introduction Al. 2bis; entrée en vigueur au 01.01.2021 · Modif. 6 du 25.03.2026: Modification Al. 1,2,2bis; entrée en vigueur au 01.05.2026; Introduction Art. 18a, Al. 1, d-e; entrée en vigueur au 01.05.2026; Introduction Art. 25, Al. 4; entrée en vigueur au 01.05.2026
+[^sectionSectionVII-1]: Modif. 1 du 19.03.2003: Modification Al. 1-3; entrée en vigueur au 01.04.2003 · Modif. 2 du 09.07.2008: Modification Al. 1,2,4; entrée en vigueur au 01.01.2009 · Modif. 3 du 18.02.2015: Modification Al. 1,2; entrée en vigueur au 01.03.2015 · Modif. 4 du 19.09.2017: Modification Al. 1; entrée en vigueur au 01.01.2018 · Modif. 5 du 04.11.2020: Introduction Al. 2bis; entrée en vigueur au 01.01.2021 · Modif. 6 du 25.03.2026: Modification Al. 1,2,2bis; entrée en vigueur au 01.05.2026
 [^18-1]: Loi fédérale du 20.12.1946 sur l’assurance-vieillesse et survivants (RS 831.10)
 
 #### Art. 18a
 
-**Salaire de base et évolution salariale des catégories de travailleurs [^18-2]**
+**Catégories de travailleurs et évolution salariale [^18-2]**
 
-<sup>1</sup> Les salaires mensuels bruts de base sont les suivants :
+<sup>1</sup> Les catégories de travailleurs et les salaires mensuels bruts de base y relatifs sont les suivants:
 
-- a. Travailleur non qualifié Fr. 3'482.-
-- b. Travailleur qualifié avec AFP Fr. 3'600.-
-- c. Travailleur qualifié avec CFC Fr. 4'000.-
+- a. Travailleur non qualifié, exécutant des travaux liés au soin des cultures et aux récoltes, jusqu'à trois mois d'activité par année civile en Suisse: salaire minimum mentionné à l'article 18 alinéa 1. Ce montant est indexé selon les principes définis à l'article 18 alinéa 2bis. En cas de prolongation de l'activité au-delà de trois mois, le salaire est réévalué avec effet rétroactif conformément à la let. b du présent alinéa.
+- b. Travailleur non qualifié avec plus de trois mois d'activité par année civile en Suisse: salaire minimum mentionné à l'article 18 alinéa 1. Ce montant est indexé selon les principes définis à l'article 18 alinéa 2.
+- c. Travailleur qualifié avec AFP: salaire minimum mentionné à l'article 18 alinéa 1, augmenté de CHF 122.-. Ce montant est indexé selon les principes définis à l'article 18 alinéa 2.
+- d. Travailleur qualifié avec CFC: salaire minimum mentionné à l'article 18 alinéa 1, augmenté de CHF 532.-. Ce montant est indexé selon les principes définis à l'article 18 alinéa 2.
+- e. Professionnel expérimenté, chef apte à diriger une équipe: salaire minimum mentionné à l'article 18 alinéa 1, augmenté de CHF 996.-. Ce montant est indexé selon les principes définis à l'article 18 alinéa 2.
 
 <sup>2</sup> Dès 24 mois d'expérience professionnelle dans l'entreprise, le salaire augmente de la manière suivante :
 
@@ -245,7 +246,7 @@ arrête
 - b. Fr. 100.- de plus que le salaire de base pour un travailleur qualifié avec AFP ;
 - c. Fr. 200.- de plus que le salaire de base pour un travailleur qualifié avec CFC.
 
-[^18-2]: Modif. 4 du 19.09.2017: Introduction Art. 18a; entrée en vigueur au 01.01.2018 · Modif. 5 du 04.11.2020: Modification Al. 1; entrée en vigueur au 01.01.2021; Modification Al. 1, a; entrée en vigueur au 01.01.2021 · Modif. 6 du 25.03.2026: Modification tArt; entrée en vigueur au 01.05.2026; Modification Al. 1; entrée en vigueur au 01.05.2026; Modification Al. 1, a-c; entrée en vigueur au 01.05.2026; Introduction Al. 1, d-e; entrée en vigueur au 01.05.2026; Introduction Art. 25, Al. 4; entrée en vigueur au 01.05.2026 · Modif. 7 du 24.06.2026: Modification Al. 1, c-d; entrée en vigueur au 01.07.2026
+[^18-2]: Modif. 4 du 19.09.2017: Introduction Art. 18a; entrée en vigueur au 01.01.2018 · Modif. 5 du 04.11.2020: Modification Al. 1; entrée en vigueur au 01.01.2021; Modification Al. 1, a; entrée en vigueur au 01.01.2021 · Modif. 6 du 25.03.2026: Modification tArt; entrée en vigueur au 01.05.2026; Modification Al. 1; entrée en vigueur au 01.05.2026; Modification Al. 1, a-c; entrée en vigueur au 01.05.2026; Introduction Al. 1, d-e; entrée en vigueur au 01.05.2026 · Modif. 7 du 24.06.2026: Modification Al. 1, c-d; entrée en vigueur au 01.07.2026
 
 #### Art. 19
 
@@ -323,9 +324,11 @@ arrête
 
 <sup>2</sup> Les greffes municipaux délivrent gratuitement des exemplaires du contrat-type aux intéressés qui en font la demande.
 
-<sup>3</sup> Le Service de l'emploi rencontre une fois par année les partenaires sociaux de la branche d'activité agricole afin de procéder à un échange de vue portant exclusivement sur l'application du présent contrat-type de travail.
+<sup>3</sup> La Direction générale de l'emploi et du marché du travail rencontre une fois par année les partenaires sociaux de la branche d'activité agricole afin de procéder à un échange de vue portant sur l'adaptation du présent contrat-type de travail.
 
-[^sectionSectionXII-1]: Modif. 6 du 25.03.2026: Introduction Art. 18a, Al. 1, d-e; entrée en vigueur au 01.05.2026; Modification Al. 3; entrée en vigueur au 01.05.2026; Introduction Al. 4; entrée en vigueur au 01.05.2026
+<sup>4</sup> Un document fixant les conditions d'occupation du personnel agricole est établi chaque année.
+
+[^sectionSectionXII-1]: Modif. 6 du 25.03.2026: Modification Al. 3; entrée en vigueur au 01.05.2026; Introduction Al. 4; entrée en vigueur au 01.05.2026
 
 #### Art. 26
 
