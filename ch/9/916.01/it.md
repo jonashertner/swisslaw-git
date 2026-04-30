@@ -4,11 +4,11 @@ title: "Ordinanza del 26 ottobre 2011 concernente l'importazione di prodotti agr
 short: OIAgr
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/770"
 language: it
-version: 2026-04-01
+version: 2026-05-01
 adopted: 2011-10-26
 in_force: 2012-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/770/20260401/it/xml/fedlex-data-admin-ch-eli-cc-2011-770-20260401-it-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/770/20260401/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/770/20260501/it/xml/fedlex-data-admin-ch-eli-cc-2011-770-20260501-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/770/20260501/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2011/770/20260401/it"
 
 (Ordinanza sulle importazioni agricole, OIAgr)
 
-del 26 ottobre 2011 (Stato 1° aprile 2026)
+del 26 ottobre 2011 (Stato 1° maggio 2026)
 
 Il Consiglio federale svizzero,
 
@@ -2913,7 +2913,7 @@ Allegato 3[^t-3]
 
 ## Contingenti doganali interi e parziali
 
-[^t-3]: Aggiornato dalla cifra II dell’O del 18 ott. 2017 ([RU 2017 6107](https://fedlex.data.admin.ch/eli/oc/2017/673)), dalla cifra I dell’O del 18 ott. 2017 ([RU 2017 6113](https://fedlex.data.admin.ch/eli/oc/2017/674)), dalla cifra II dell’O del 31 ott. 2018 ([RU 2018 4191](https://fedlex.data.admin.ch/eli/oc/2018/678)), dalla cifra II cpv. 1 dell’O dell’11 nov. 2020 ([RU 2020 5521](https://fedlex.data.admin.ch/eli/oc/2020/959)), dall’all. 3 n. 14 dell’O del 30 giu. 2021 concernente la modifica della tariffa doganale ([RU 2021 445](https://fedlex.data.admin.ch/eli/oc/2021/445)), dalla correzione del 18 ott. 2021 ([RU 2021 617](https://fedlex.data.admin.ch/eli/oc/2021/617)), dalla cifra I dell’O dell’UFAG del 14 giu. 2022 ([RU 2022 365](https://fedlex.data.admin.ch/eli/oc/2022/365)), del 9 ago. 2022 ([RU 2022 447](https://fedlex.data.admin.ch/eli/oc/2022/447)), del 26 set. 2022 ([RU 2022 557](https://fedlex.data.admin.ch/eli/oc/2022/557)), del 5 dic. 2022 ([RU 2022 851](https://fedlex.data.admin.ch/eli/oc/2022/851)), del 28 set. 2023 ([RU 2023 574](https://fedlex.data.admin.ch/eli/oc/2023/574)), dalla cifra I dell’O del 14 ago. 2024 ([RU 2024 420](https://fedlex.data.admin.ch/eli/oc/2024/420)), dalla cifra II dell’O del 6 nov. 2024 ([RU 2024 661](https://fedlex.data.admin.ch/eli/oc/2024/661)), dalla cifra I cpv. 1 dell’O del 29 gen. 2025 ([RU 2025 83](https://fedlex.data.admin.ch/eli/oc/2025/83)), dalla cifra I dell’O del 30 apr. 2025 ([RU 2025 308](https://fedlex.data.admin.ch/eli/oc/2025/308)) e dalla cifra I dell’O dell’UFAG del 10 feb. 2026, in vigore dal 1° mar. 2026 ([RU 2026 74](https://fedlex.data.admin.ch/eli/oc/2026/74)).
+[^t-3]: Aggiornato dalla cifra II dell’O del 18 ott. 2017 ([RU 2017 6107](https://fedlex.data.admin.ch/eli/oc/2017/673)), dalla cifra I dell’O del 18 ott. 2017 ([RU 2017 6113](https://fedlex.data.admin.ch/eli/oc/2017/674)), dalla cifra II dell’O del 31 ott. 2018 ([RU 2018 4191](https://fedlex.data.admin.ch/eli/oc/2018/678)), dalla cifra II cpv. 1 dell’O dell’11 nov. 2020 ([RU 2020 5521](https://fedlex.data.admin.ch/eli/oc/2020/959)), dall’all. 3 n. 14 dell’O del 30 giu. 2021 concernente la modifica della tariffa doganale ([RU 2021 445](https://fedlex.data.admin.ch/eli/oc/2021/445)), dalla correzione del 18 ott. 2021 ([RU 2021 617](https://fedlex.data.admin.ch/eli/oc/2021/617)), dalla cifra I dell’O dell’UFAG del 14 giu. 2022 ([RU 2022 365](https://fedlex.data.admin.ch/eli/oc/2022/365)), del 9 ago. 2022 ([RU 2022 447](https://fedlex.data.admin.ch/eli/oc/2022/447)), del 26 set. 2022 ([RU 2022 557](https://fedlex.data.admin.ch/eli/oc/2022/557)), del 5 dic. 2022 ([RU 2022 851](https://fedlex.data.admin.ch/eli/oc/2022/851)), del 28 set. 2023 ([RU 2023 574](https://fedlex.data.admin.ch/eli/oc/2023/574)), dalla cifra I dell’O del 14 ago. 2024 ([RU 2024 420](https://fedlex.data.admin.ch/eli/oc/2024/420)), dalla cifra II dell’O del 6 nov. 2024 ([RU 2024 661](https://fedlex.data.admin.ch/eli/oc/2024/661)), dalla cifra I cpv. 1 dell’O del 29 gen. 2025 ([RU 2025 83](https://fedlex.data.admin.ch/eli/oc/2025/83)), dalla cifra I dell’O dell’UFAG del 10 feb. 2026 ([RU 2026 74](https://fedlex.data.admin.ch/eli/oc/2026/74)), dalla cifra I dell’O del 1° apr. 2026 ([RU 2026 142](https://fedlex.data.admin.ch/eli/oc/2026/142)) e dalla cifra I dell’O dell’UFAG del 9 apr. 2026, in vigore dal 1° mag. 2026 ([RU 2026 144](https://fedlex.data.admin.ch/eli/oc/2026/144)).
 
 ### 1. Disciplinamento del mercato: animali della specie equina
 
@@ -3015,9 +3015,9 @@ Allegato 3[^t-3]
 <tr><td>09.1</td><td>Uova di consumo</td><td>**21 000**</td></tr>
 <tr><td>09.1.1</td><td>di cui dal 1° gennaio al 31 dicembre</td><td>**13 650**</td></tr>
 <tr><td>09.1.2</td><td>di cui dal 1° settembre al 31 dicembre</td><td>**7350**</td></tr>
-<tr><td>09.1.3</td><td>Aumento temporaneo del contingente doganale parziale per il 2025</td><td>**10 000**</td></tr>
-<tr><td>09.1.3.1</td><td>di cui dal 1° giugno al 31 dicembre 2025</td><td>**6500**</td></tr>
-<tr><td>09.1.3.2</td><td>di cui dal 1° settembre al 31 dicembre 2025</td><td>**3500**</td></tr>
+<tr><td>09.1.3</td><td>Aumento temporaneo del contingente doganale parziale per il 2026</td><td>**15 000**</td></tr>
+<tr><td>09.1.3.1</td><td>di cui dal 1° maggio al 31 dicembre 2026</td><td>**9 750**</td></tr>
+<tr><td>09.1.3.2</td><td>di cui dal 1° settembre al 31 dicembre 2026</td><td>**5 250**</td></tr>
 <tr><td>09.2</td><td>Uova di trasformazione destinate all’industria alimentare</td><td>**12 735**</td></tr>
 <tr><td>09.3</td><td>Uova da cova e uova che non provengono da galline *Gallus domesticus*</td><td>**[2]**</td></tr>
 <tr><td>10</td><td>Prodotti di uova, essiccati</td><td>977 **[3]**</td></tr>
@@ -3042,6 +3042,7 @@ Allegato 3[^t-3]
 <tr><td>14.1</td><td>Patate da semina</td><td>**4000**</td></tr>
 <tr><td>14.1.1</td><td>Aumento temporaneo del contingente doganale parziale per il 2026: dal 1° marzo al 31 dicembre 2026</td><td>**1500**</td></tr>
 <tr><td>14.2</td><td>Patate destinate alla valorizzazione</td><td>**9250**</td></tr>
+<tr><td>14.2.1</td><td>Aumento temporaneo del contingente doganale parziale per il 2026: dal 1° maggio al 31 dicembre 2026</td><td>**10 000**</td></tr>
 <tr><td>14.3</td><td>Patate da tavola</td><td>**6500**</td></tr>
 <tr><td>14.4</td><td>Prodotti a base di patate, di cui:</td><td>**4000**</td></tr>
 <tr><td>14.4.1</td><td>Categoria di merce prodotti semilavorati</td><td>**1000**</td></tr>
@@ -3149,6 +3150,6 @@ Allegato 7
 
 ## Modifica del diritto vigente
 
-…[^annex7-lvlu1-1]
+...[^annex7-lvlu1-1]
 
 [^annex7-lvlu1-1]: Le mod. possono essere consultate alla [RU 2011 5325](https://fedlex.data.admin.ch/eli/oc/2011/770).

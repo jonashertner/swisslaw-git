@@ -4,11 +4,11 @@ title: "Verordnung vom 26. Oktober 2011 über die Einfuhr von landwirtschaftlich
 short: AEV
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/770"
 language: de
-version: 2026-04-01
+version: 2026-05-01
 adopted: 2011-10-26
 in_force: 2012-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/770/20260401/de/xml/fedlex-data-admin-ch-eli-cc-2011-770-20260401-de-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/770/20260401/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/770/20260501/de/xml/fedlex-data-admin-ch-eli-cc-2011-770-20260501-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/770/20260501/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2011/770/20260401/de"
 
 (Agrareinfuhrverordnung, AEV)
 
-vom 26. Oktober 2011 (Stand am 1. April 2026)
+vom 26. Oktober 2011 (Stand am 1. Mai 2026)
 
 Der Schweizerische Bundesrat,
 
@@ -1763,7 +1763,7 @@ Einfuhren im Reiseverkehr sind in Artikel 47 geregelt.
 
 Marktordnungsspezifische Vorschriften sind in der VEAGOG (SR *916.121.10*) geregelt. Die Tarifnummern ohne GEB-Pflicht sind von den Regelungen der VEAGOG nicht betroffen [12-3].
 
-- [**1]** **Aufgeführt sind vom Generaltarif abweichende Zollansätze.** **Im Gebrauchstarif** [www.tares.ch](http://www.tares.ch) **sind weitere anwendbare Zollansätze** **einsehbar. Bei Vollversorgung dürfen die reduzierten Ausserkontin****gentszollansätze angewendet werden.**
+- [**1]** **Aufgeführt sind vom Generaltarif abweichende Zollansätze.** **Im Gebrauchstarif** [www.tares.ch](http://www.tares.ch) **sind weitere anwendbare Zollansätze einsehbar. Bei Vollversorgung dürfen die reduzierten Ausserkontin****gentszollansätze angewendet werden.**
 - [12-1] für zerstampfte oder zufolge des Transports zu Mus gewordene Früchte keine GEB erforderlich
 - [12-2] Zollkontingent Nr. 19: ohne Produkte zur industriellen Weiterverarbeitung
 
@@ -2910,7 +2910,7 @@ Anhang 3[^t-3]
 
 ## Zoll- und Teilzollkontingente
 
-[^t-3]: Bereinigt gemäss Ziff. II der V vom 18. Okt. 2017 ([AS 2017 6107](https://fedlex.data.admin.ch/eli/oc/2017/673)), Ziff. I der V vom 18. Okt. 2017 ([AS 2017 6113](https://fedlex.data.admin.ch/eli/oc/2017/674)), Ziff. II der V vom 31. Okt. 2018 ([AS 2018 4191](https://fedlex.data.admin.ch/eli/oc/2018/678)), Ziff. II Abs. 1 der V vom 11. Nov. 2020 ([AS 2020 5521](https://fedlex.data.admin.ch/eli/oc/2020/959)), Anhang 3 Ziff. 14 der V vom 30. Juni 2021 über die Änderung des Zolltarifs ([AS 2021 445](https://fedlex.data.admin.ch/eli/oc/2021/445)), der Berichtigung vom 18. Okt. 2021 ([AS 2021 617](https://fedlex.data.admin.ch/eli/oc/2021/617)), Ziff. I der V des BLW vom 14. Juni 2022 ([AS 2022 365](https://fedlex.data.admin.ch/eli/oc/2022/365)), vom 9. Aug. 2022 ([AS 2022 447](https://fedlex.data.admin.ch/eli/oc/2022/447)), vom 26. Sept. 2022 ([AS 2022 557](https://fedlex.data.admin.ch/eli/oc/2022/557)), vom 5. Dez. 2022 ([AS 2022 851](https://fedlex.data.admin.ch/eli/oc/2022/851)), vom 28. Sept. 2023 ([AS 2023 574](https://fedlex.data.admin.ch/eli/oc/2023/574)), Ziff. I der V vom 14. Aug. 2024 ([AS 2024 420](https://fedlex.data.admin.ch/eli/oc/2024/420)), Ziff. II der V vom 6. Nov. 2024 ([AS 2024 661](https://fedlex.data.admin.ch/eli/oc/2024/661)), Ziff. I Abs. 1 der V vom 29. Jan. 2025 ([AS 2025 83](https://fedlex.data.admin.ch/eli/oc/2025/83)), Ziff. I der V vom 30. April 2025 ([AS 2025 308](https://fedlex.data.admin.ch/eli/oc/2025/308)) und Ziff. I der V des BLW vom 10. Febr. 2026, in Kraft seit 1. März 2026 ([AS 2026 74](https://fedlex.data.admin.ch/eli/oc/2026/74)).
+[^t-3]: Bereinigt gemäss Ziff. II der V vom 18. Okt. 2017 ([AS 2017 6107](https://fedlex.data.admin.ch/eli/oc/2017/673)), Ziff. I der V vom 18. Okt. 2017 ([AS 2017 6113](https://fedlex.data.admin.ch/eli/oc/2017/674)), Ziff. II der V vom 31. Okt. 2018 ([AS 2018 4191](https://fedlex.data.admin.ch/eli/oc/2018/678)), Ziff. II Abs. 1 der V vom 11. Nov. 2020 ([AS 2020 5521](https://fedlex.data.admin.ch/eli/oc/2020/959)), Anhang 3 Ziff. 14 der V vom 30. Juni 2021 über die Änderung des Zolltarifs ([AS 2021 445](https://fedlex.data.admin.ch/eli/oc/2021/445)), der Berichtigung vom 18. Okt. 2021 ([AS 2021 617](https://fedlex.data.admin.ch/eli/oc/2021/617)), Ziff. I der V des BLW vom 14. Juni 2022 ([AS 2022 365](https://fedlex.data.admin.ch/eli/oc/2022/365)), vom 9. Aug. 2022 ([AS 2022 447](https://fedlex.data.admin.ch/eli/oc/2022/447)), vom 26. Sept. 2022 ([AS 2022 557](https://fedlex.data.admin.ch/eli/oc/2022/557)), vom 5. Dez. 2022 ([AS 2022 851](https://fedlex.data.admin.ch/eli/oc/2022/851)), vom 28. Sept. 2023 ([AS 2023 574](https://fedlex.data.admin.ch/eli/oc/2023/574)), Ziff. I der V vom 14. Aug. 2024 ([AS 2024 420](https://fedlex.data.admin.ch/eli/oc/2024/420)), Ziff. II der V vom 6. Nov. 2024 ([AS 2024 661](https://fedlex.data.admin.ch/eli/oc/2024/661)), Ziff. I Abs. 1 der V vom 29. Jan. 2025 ([AS 2025 83](https://fedlex.data.admin.ch/eli/oc/2025/83)), Ziff. I der V des BLW vom 10. Febr. 2026 ([AS 2026 74](https://fedlex.data.admin.ch/eli/oc/2026/74)), Ziff. I der V vom 1. April 2026 ([AS 2026 142](https://fedlex.data.admin.ch/eli/oc/2026/142)) und Ziff. I der V des BLW vom 9. April 2026, in Kraft seit 1. Mai 2026 ([AS 2026 144](https://fedlex.data.admin.ch/eli/oc/2026/144)).
 
 ### 1. Marktordnung Tiere der Pferdegattung
 
@@ -3000,20 +3000,20 @@ Anhang 3[^t-3]
 ### 5. Marktordnung Eier und Eiprodukte
 
 <table>
-<tr><th colspan="2">Nummer des Zollkontingents</th><th colspan="2">Erzeugnis</th><th colspan="2">Umfang des Zollkontingents (Tonnen brutto)</th></tr>
-<tr><th colspan="2">**[1]**</th><th colspan="2">**[1]**</th><th colspan="2">**[1]**</th></tr>
-<tr><td colspan="2">09</td><td colspan="2">Vogeleier in der Schale, davon</td><td colspan="2">33 735</td></tr>
-<tr><td colspan="2">09.1</td><td colspan="2">Konsumeier</td><td colspan="2">**21 000**</td></tr>
-<tr><td colspan="2">09.1.1</td><td colspan="2">davon vom 1. Januar bis 31. Dezember</td><td colspan="2">**13 650**</td></tr>
-<tr><td colspan="2">09.1.2</td><td colspan="2">davon vom 1. September bis 31. Dezember</td><td colspan="2">**7350**</td></tr>
-<tr><td>09.1.3</td><td colspan="2">Vorübergehende Erhöhung des Teilzollkontingents für 2025</td><td colspan="2">10 000</td></tr>
-<tr><td>09.1.3.1</td><td colspan="2">davon vom 1. Juni bis 31. Dezember 2025</td><td colspan="2">6500</td></tr>
-<tr><td>09.1.3.2</td><td colspan="2">davon vom 1. September bis 31. Dezember 2025</td><td colspan="2">3500</td></tr>
-<tr><td colspan="2">09.2</td><td colspan="2">Verarbeitungseier für die Nahrungsmittelindustrie</td><td colspan="2">**12 735**</td></tr>
-<tr><td colspan="2">09.3</td><td colspan="2">Bruteier und Eier, die nicht von Hühnern «Gallus domesticus» stammen</td><td colspan="2">**[2]**</td></tr>
-<tr><td colspan="2">10</td><td colspan="2">Eiprodukte getrocknet</td><td colspan="2">977 [3]</td></tr>
-<tr><td colspan="2">11</td><td colspan="2">Eiprodukte andere</td><td colspan="2">6866 [3]</td></tr>
-<tr><td colspan="6">**[1]** **Vom Generaltarif abweichende Angaben sind fett gedruckt. Einfuhren aus** **den Freizonen nach dem Reglement vom 22. Dezember 1933 über die Einfuhr** **der Erzeugnisse der Freizonen in die Schweiz (SR** *0.631.256.934.953***) werden nicht** **an die zu verteilende Kontingentsmenge angerechnet.** [tab] **[2]** **Auf eine Regelung zur Verteilung wird verzichtet. Die Überschreitung** **der Teilzollkontingentsmenge ist deshalb möglich.** **[3]** **Die Überschreitung der Zollkontingentsmenge ist möglich**.</td></tr>
+<tr><th colspan="2">Nummer des Zollkontingents</th><th colspan="2">Erzeugnis</th><th>Umfang des Zollkontingents (Tonnen brutto)</th></tr>
+<tr><th colspan="2">**[1]**</th><th colspan="2">**[1]**</th><th>**[1]**</th></tr>
+<tr><td colspan="2">09</td><td colspan="2">Vogeleier in der Schale, davon</td><td>33 735</td></tr>
+<tr><td colspan="2">09.1</td><td colspan="2">Konsumeier</td><td>**21 000**</td></tr>
+<tr><td colspan="2">09.1.1</td><td colspan="2">davon vom 1. Januar bis 31. Dezember</td><td>**13 650**</td></tr>
+<tr><td colspan="2">09.1.2</td><td colspan="2">davon vom 1. September bis 31. Dezember</td><td>**7350**</td></tr>
+<tr><td>09.1.3</td><td colspan="2">Vorübergehende Erhöhung des Teilzollkontingents für 2026</td><td colspan="2">**15 000**</td></tr>
+<tr><td>09.1.3.1</td><td colspan="2">davon vom 1. Mai bis 31. Dezember 2026</td><td colspan="2">9 750</td></tr>
+<tr><td>09.1.3.2</td><td colspan="2">davon vom 1. September bis 31. Dezember 2026</td><td colspan="2">5 250</td></tr>
+<tr><td colspan="2">09.2</td><td colspan="2">Verarbeitungseier für die Nahrungsmittelindustrie</td><td>**12 735**</td></tr>
+<tr><td colspan="2">09.3</td><td colspan="2">Bruteier und Eier, die nicht von Hühnern «Gallus domesticus» stammen</td><td>**[2]**</td></tr>
+<tr><td colspan="2">10</td><td colspan="2">Eiprodukte getrocknet</td><td>977 [3]</td></tr>
+<tr><td colspan="2">11</td><td colspan="2">Eiprodukte andere</td><td>6866 [3]</td></tr>
+<tr><td colspan="5">**[1]** **Vom Generaltarif abweichende Angaben sind fett gedruckt. Einfuhren aus** **den Freizonen nach dem Reglement vom 22. Dezember 1933 über die Einfuhr** **der Erzeugnisse der Freizonen in die Schweiz (SR** *0.631.256.934.953***) werden nicht** **an die zu verteilende Kontingentsmenge angerechnet.** [tab] **[2]** **Auf eine Regelung zur Verteilung wird verzichtet. Die Überschreitung** **der Teilzollkontingentsmenge ist deshalb möglich.** **[3]** **Die Überschreitung der Zollkontingentsmenge ist möglich**.</td></tr>
 </table>
 
 ### 6. Marktordnung Schnittblumen
@@ -3034,6 +3034,7 @@ Anhang 3[^t-3]
 <tr><td>14.1</td><td>Saatkartoffeln</td><td>**4000**</td></tr>
 <tr><td>14.1.1</td><td>Vorübergehende Erhöhung des Teilzollkontingents für 2026: von 1. März bis 31. Dezember 2026</td><td>**1500**</td></tr>
 <tr><td>14.2</td><td>Veredelungskartoffeln</td><td>**9250**</td></tr>
+<tr><td>14.2.1</td><td>Vorübergehende Erhöhung des Teilzollkontingents für 2026: vom 1. Mai bis 31. Dezember 2026</td><td>**10 000**</td></tr>
 <tr><td>14.3</td><td>Speisekartoffeln</td><td>**6500**</td></tr>
 <tr><td>14.4</td><td>Kartoffelprodukte, davon:</td><td>**4000**</td></tr>
 <tr><td>14.4.1</td><td>Warenkategorie Halbfabrikate</td><td>**1000**</td></tr>

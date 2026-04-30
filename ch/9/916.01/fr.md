@@ -4,11 +4,11 @@ title: "Ordonnance du 26 octobre 2011 sur l'importation de produits agricoles (O
 short: OIAgr
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/770"
 language: fr
-version: 2026-04-01
+version: 2026-05-01
 adopted: 2011-10-26
 in_force: 2012-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/770/20260401/fr/xml/fedlex-data-admin-ch-eli-cc-2011-770-20260401-fr-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/770/20260401/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/770/20260501/fr/xml/fedlex-data-admin-ch-eli-cc-2011-770-20260501-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/770/20260501/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2011/770/20260401/fr"
 
 (Ordonnance sur les importations agricoles, OIAgr)
 
-du 26 octobre 2011 (État le 1<sup>er</sup> avril 2026)
+du 26 octobre 2011 (État le 1<sup>er</sup> mai 2026)
 
 Le Conseil fédéral suisse,
 
@@ -2917,7 +2917,7 @@ Annexe 3[^t-3]
 
 ## Contingents tarifaires et contingents tarifaires partiels
 
-[^t-3]: Mise à jour par le ch. II de l’O du 18 oct. 2017 ([RO 2017 6107](https://fedlex.data.admin.ch/eli/oc/2017/673)), le ch. I de l’O du 18 oct. 2017 ([RO 2017 6113](https://fedlex.data.admin.ch/eli/oc/2017/674)), le ch. II de l’O du 31 oct. 2018 ([RO 2018 4191](https://fedlex.data.admin.ch/eli/oc/2018/678)), le ch. II al. 1 de l’O du 11 nov. 2020 ([RO 2020 5521](https://fedlex.data.admin.ch/eli/oc/2020/959)), l’annexe 3 ch. 14 de l’O du 30 juin 2021 modifiant le tarif des douanes ([RO 2021 445](https://fedlex.data.admin.ch/eli/oc/2021/445)), erratum du 18 oct. 2021 ([RO 2021 617](https://fedlex.data.admin.ch/eli/oc/2021/617)), le ch. I de l’O de l’OFAG du 14 juin 2022 ([RO 2022 365](https://fedlex.data.admin.ch/eli/oc/2022/365)), le ch. I des O de l’OFAG du 9 août 2022 ([RO 2022 447](https://fedlex.data.admin.ch/eli/oc/2022/447)), du 26 sept. 2022 ([RO 2022 557](https://fedlex.data.admin.ch/eli/oc/2022/557)), du 5 déc. 2022 ([RO 2022 851](https://fedlex.data.admin.ch/eli/oc/2022/851)), du 28 sept. 2023 ([RO 2023 574](https://fedlex.data.admin.ch/eli/oc/2023/574)), le ch. I de l’O du 14 août 2024 ([RO 2024 420](https://fedlex.data.admin.ch/eli/oc/2024/420)), le ch. II de l’O du 6 nov. 2024 ([RO 2024 661](https://fedlex.data.admin.ch/eli/oc/2024/661)), le ch. I al. 1 de l’O du 29 janv. 2025 ([RO 2025 83](https://fedlex.data.admin.ch/eli/oc/2025/83)), le ch. I de l’O du 30 avr. 2025 ([RO 2025 308](https://fedlex.data.admin.ch/eli/oc/2025/308)) et le ch. I de l’O de l’OFAG du 10 fév. 2026, en vigueur depuis le 1<sup>er</sup> mars 2026 ([RO 2026 74](https://fedlex.data.admin.ch/eli/oc/2026/74)).
+[^t-3]: Mise à jour par le ch. II de l’O du 18 oct. 2017 ([RO 2017 6107](https://fedlex.data.admin.ch/eli/oc/2017/673)), le ch. I de l’O du 18 oct. 2017 ([RO 2017 6113](https://fedlex.data.admin.ch/eli/oc/2017/674)), le ch. II de l’O du 31 oct. 2018 ([RO 2018 4191](https://fedlex.data.admin.ch/eli/oc/2018/678)), le ch. II al. 1 de l’O du 11 nov. 2020 ([RO 2020 5521](https://fedlex.data.admin.ch/eli/oc/2020/959)), l’annexe 3 ch. 14 de l’O du 30 juin 2021 modifiant le tarif des douanes ([RO 2021 445](https://fedlex.data.admin.ch/eli/oc/2021/445)), erratum du 18 oct. 2021 ([RO 2021 617](https://fedlex.data.admin.ch/eli/oc/2021/617)), le ch. I de l’O de l’OFAG du 14 juin 2022 ([RO 2022 365](https://fedlex.data.admin.ch/eli/oc/2022/365)), le ch. I des O de l’OFAG du 9 août 2022 ([RO 2022 447](https://fedlex.data.admin.ch/eli/oc/2022/447)), du 26 sept. 2022 ([RO 2022 557](https://fedlex.data.admin.ch/eli/oc/2022/557)), du 5 déc. 2022 ([RO 2022 851](https://fedlex.data.admin.ch/eli/oc/2022/851)), du 28 sept. 2023 ([RO 2023 574](https://fedlex.data.admin.ch/eli/oc/2023/574)), le ch. I de l’O du 14 août 2024 ([RO 2024 420](https://fedlex.data.admin.ch/eli/oc/2024/420)), le ch. II de l’O du 6 nov. 2024 ([RO 2024 661](https://fedlex.data.admin.ch/eli/oc/2024/661)), le ch. I al. 1 de l’O du 29 janv. 2025 ([RO 2025 83](https://fedlex.data.admin.ch/eli/oc/2025/83)), le ch. I de l’O de l’OFAG du 10 fév. 2026 ([RO 2026 74](https://fedlex.data.admin.ch/eli/oc/2026/74)), le ch. I de l’O du 1<sup>er</sup> avr. 2026 ([RO 2026 142](https://fedlex.data.admin.ch/eli/oc/2026/142)) et le ch. I de l’O de l’OFAG du 9 avr. 2026, en vigueur depuis le 1<sup>er</sup> mai 2026 ([RO 2026 144](https://fedlex.data.admin.ch/eli/oc/2026/144)).
 
 ### 1. Marché des équidés
 
@@ -3015,9 +3015,9 @@ Annexe 3[^t-3]
 <tr><td colspan="2">09.1</td><td colspan="2">Œufs de consommation</td><td>**21 000**</td></tr>
 <tr><td colspan="2">09.1.1</td><td colspan="2">dont, du 1<sup>er</sup> janvier au 31 décembre</td><td>**13 650**</td></tr>
 <tr><td colspan="2">09.1.2</td><td colspan="2">dont, du 1<sup>er</sup> septembre au 31 décembre</td><td>**7350**</td></tr>
-<tr><td>**09.1.3**</td><td colspan="2">**Augmentation temporaire du contingent tarifaire** **partiel** **pour 2025**</td><td colspan="2">**10 000**</td></tr>
-<tr><td>**09.1.3.1**</td><td colspan="2">**dont, du 1****<sup>er</sup>** **juin au 31 décembre 2025**</td><td colspan="2">**6500**</td></tr>
-<tr><td>**09.1.3.2**</td><td colspan="2">**dont, du 1****<sup>er</sup>** **septembre au 31 décembre 2025**</td><td colspan="2">**3500**</td></tr>
+<tr><td>**09.1.3**</td><td colspan="2">**Augmentation temporaire du contingent tarifaire partiel pour 2026**</td><td colspan="2">**15 000**</td></tr>
+<tr><td>**09.1.3.1**</td><td colspan="2">**dont, du 1****<sup>er</sup>** **mai au 31 décembre 2026**</td><td colspan="2">**9 750**</td></tr>
+<tr><td>**09.1.3.2**</td><td colspan="2">**dont, du 1****<sup>er</sup>** **septembre au 31 décembre 2026**</td><td colspan="2">**5 250**</td></tr>
 <tr><td colspan="2">09.2</td><td colspan="2">Œufs de fabrication destinés à l’industrie alimentaire</td><td>**12 735**</td></tr>
 <tr><td colspan="2">09.3</td><td colspan="2">Œufs à couver et œufs ne provenant pas de poules «Gallus domesticus»</td><td>**[2]**</td></tr>
 <tr><td colspan="2">10</td><td colspan="2">Produits d’œufs séchés</td><td>977 **[3]**</td></tr>
@@ -3042,6 +3042,7 @@ Annexe 3[^t-3]
 <tr><td>14.1</td><td>Pommes de terre de semence</td><td>**4000**</td></tr>
 <tr><td>14.1.1</td><td>Augmentation temporaire du contingent tarifaire partiel pour 2026: du 1<sup>er</sup> mars au 31 décembre 2026</td><td>**1500**</td></tr>
 <tr><td>14.2</td><td>Pommes de terre destinées à la transformation</td><td>**9250**</td></tr>
+<tr><td>14.2.1</td><td>Augmentation temporaire du contingent tarifaire partiel pour 2026: du 1<sup>er</sup> mai au 31 décembre 2026</td><td>**10 000**</td></tr>
 <tr><td>14.3</td><td>Pommes de terre de table</td><td>**6500**</td></tr>
 <tr><td>14.4</td><td>Produits de pommes de terre, dont:</td><td>**4000**</td></tr>
 <tr><td>14.4.1</td><td>Catégorie de marchandises produits semi-finis</td><td>**1000**</td></tr>
