@@ -4,13 +4,12 @@ number: "550.600"
 title: Ordonnance sur les violences domestiques
 short: OVD
 language: fr
-version: 2025-11-01
-valid_until: 2026-04-30
+version: 2026-05-01
 version_adopted: 2025-10-29
 adopted: 2016-09-14
 in_force: 2017-01-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/550.600"
-pdf: "https://lex.vs.ch/api/fr/versions/3527/pdf_file"
+pdf: "https://lex.vs.ch/api/fr/versions/3529/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://lex.vs.ch/api/fr/versions/3527/pdf_file"
 
 (OVD)
 
-du 14.09.2016 (état 01.11.2025)
+du 14.09.2016 (état 01.05.2026)
 
 Le Conseil d'Etat du canton du Valais
 
@@ -206,6 +205,16 @@ ordonne:[^ingress-1]
 - h) l'action sociale et les structures en faveur des personnes migrantes.
 
 ## 4a Information des personnes à la suite d'une intervention de police
+
+#### Art. 10b
+
+**Prise de contact par les consultations spécialisées**
+
+<sup>1</sup> Les consultations spécialisées mandatées par le canton contactent les personnes suite à une intervention de police, selon les modalités définies avec la police cantonale et le ministère public, pour les informer sur les aides existantes.
+
+<sup>2</sup> Si une personne vient de sa propre initiative dénoncer une situation la concernant au poste de police, la transmission des informations ne se fera qu’au moment où elle ne constitue plus un risque de compromettre la sécurité des personnes, l’enquête ou la procédure.
+
+<sup>3</sup> A l’exception des personnes sous le coup d'une mesure prononcée sur la base de l’article 17 de la loi, les personnes concernées n’ont aucune obligation d’accepter un entretien après cette prise de contact. A leur demande, les consultations spécialisées effacent les données transmises par la police.
 
 ## 5 Mesures d'éloignement des personnes présumées avoir exercé un acte de violences domestiques
 

@@ -4,13 +4,12 @@ number: "550.600"
 title: Verordnung über häusliche Gewalt
 short: VhG
 language: de
-version: 2025-11-01
-valid_until: 2026-04-30
+version: 2026-05-01
 version_adopted: 2025-10-29
 adopted: 2016-09-14
 in_force: 2017-01-01
 url: "https://lex.vs.ch/app/de/texts_of_law/550.600"
-pdf: "https://lex.vs.ch/api/de/versions/3527/pdf_file"
+pdf: "https://lex.vs.ch/api/de/versions/3529/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://lex.vs.ch/api/de/versions/3527/pdf_file"
 
 (VhG)
 
-vom 14.09.2016 (Stand 01.11.2025)
+vom 14.09.2016 (Stand 01.05.2026)
 
 Der Staatsrat des Kantons Wallis
 
@@ -206,6 +205,16 @@ verordnet:[^ingress-1]
 - h) das Sozialwesen und die Strukturen für Personen mit Migrationshintergrund.
 
 ## 4a Information der Involvierten infolge eines Polizeieinsatzes
+
+#### Art. 10b
+
+**Kontaktaufnahme durch die Fachberatungsstellen**
+
+<sup>1</sup> Die vom Kanton beauftragten Fachberatungsstellen kontaktieren die involvierten Personen infolge eines Polizeieinsatzes gemäss den mit der Kantonspolizei und der Staatsanwaltschaft festgelegten Modalitäten, um sie über die bestehenden Hilfsangebote zu informieren.
+
+<sup>2</sup> Kommt eine Person spontan auf den Polizeiposten, um selbst erlittene Gewalt anzuzeigen, werden die Informationen erst übermittelt, wenn dadurch keine Gefahr mehr besteht, die Sicherheit der Involvierten, die Ermittlung oder das Verfahren zu gefährden.
+
+<sup>3</sup> Mit Ausnahme der im Sinne von Artikel 17 des Gesetzes einer Massnahme unterstellten Personen sind die Betroffenen in keiner Weise verpflichtet, nach dieser Kontaktaufnahme einem Gespräch zuzustimmen. Auf ihr Begehren hin löschen die Fachberatungsstellen die von der Polizei übermittelten Daten.
 
 ## 5 Fernhaltemassnahmen für Personen, die mutmasslich häusliche Gewalt ausgeübt haben
 
