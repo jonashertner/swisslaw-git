@@ -4,13 +4,12 @@ number: "531.211"
 title: Verordnung über die Gewährleistung der öffentlichen Sicherheit
 short: "Polizeiverordnung, PolV"
 language: de
-version: 2024-07-01
-valid_until: 2026-04-30
-version_adopted: 2024-03-13
+version: 2026-05-01
+version_adopted: 2026-03-04
 adopted: 2021-05-26
 in_force: 2021-07-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/531.211"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3752/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3938/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3752/pdf_file"
 
 (Polizeiverordnung, PolV)
 
-Vom 26.05.2021 (Stand 01.07.2024)
+Vom 26.05.2021 (Stand 01.05.2026)
 
 Der Regierungsrat des Kantons Aargau,
 
@@ -533,6 +532,10 @@ beschliesst:
 <sup>2</sup> Die Polizeikommandantin oder der Polizeikommandant sowie die Chefinnen und Chefs der Polizeikräfte der Gemeinden bezeichnen die zugriffsberechtigten Angehörigen der jeweiligen Polizeikorps und legen deren Zugriffsberechtigung fest.
 
 <sup>3</sup> Der Zugriff der Angehörigen der Polizeikräfte der Gemeinden auf die Datenbanksysteme der Kantonspolizei bedarf einer Genehmigung der Polizeikommandantin oder des Polizeikommandanten.
+
+<sup>4</sup> Die Polizeikommandantin oder der Polizeikommandant kann den Mitarbeitenden des Amts für Justizvollzug Zugriff auf Datenbanksysteme der Kantonspolizei gewähren, soweit dies für die Durchführung der erkennungsdienstlichen Erfassung gemäss Art. 260 der Schweizerischen Strafprozessordnung (Strafprozessordnung, StPO) vom 5. Oktober 2007[^45-1] erforderlich ist.
+
+[^45-1]: SR [312.0](https://db.clex.ch/link/Bund/312.0/de)
 
 #### § 46
 
