@@ -4,13 +4,12 @@ number: "613.000"
 title: Polizeigesetz des Kantons Graubünden
 short: PolG
 language: de
-version: 2026-01-01
-valid_until: 2026-04-30
-version_adopted: 2025-08-27
+version: 2026-05-01
+version_adopted: 2025-10-20
 adopted: 2004-10-20
 in_force: 2005-07-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/613.000"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/3614/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3635/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.gr-lex.gr.ch/api/de/versions/3614/pdf_file"
 
 (PolG)
 
-Vom 20.10.2004 (Stand 01.01.2026)
+Vom 20.10.2004 (Stand 01.05.2026)
 
 Der Grosse Rat des Kantons Graubünden,
 
@@ -135,6 +134,14 @@ beschliesst:
 
 <sup>3</sup> Eine Massnahme darf nicht zu einem Nachteil führen, der zum angestrebten Erfolg in einem erkennbaren Missverhältnis steht.
 
+#### Art. 6a
+
+**Kinder und Jugendliche**
+
+<sup>1</sup> Die Kantonspolizei beachtet die besonderen Schutzbedürfnisse von Kindern und Jugendlichen. Sie berücksichtigt deren Alter und Entwicklungsstand.
+
+<sup>2</sup> Die Kantonspolizei wahrt die Informationsrechte der gesetzlichen Vertretung von Kindern und Jugendlichen.
+
 #### Art. 7
 
 **Polizeiliche Generalklausel**
@@ -248,7 +255,9 @@ beschliesst:
 
 <sup>2</sup> Die Art der Ausschreibung richtet sich nach den konkreten Bedürfnissen.
 
-<sup>3</sup> Personen und Sachen können zwecks verdeckter Registrierung im Sinne von Artikel 33 und Artikel 34 der Bundesverordnung über den nationalen Teil des Schengener Informationssystems (N-SIS) und das SIRENE-Büro[^13-1] ausgeschrieben werden.
+<sup>3</sup> Personen und Sachen können zwecks verdeckter Registrierung, Ermittlungsanfrage und gezielter Kontrolle im Sinne von Artikel 33 und Artikel 34 der Bundesverordnung über den nationalen Teil des Schengener Informationssystems (N-SIS) und das SIRENE-Büro[^13-1] ausgeschrieben werden.
+
+<sup>4</sup> Die Kantonspolizei ist zuständig für den Entscheid im Sinne von Artikel 32 Absatz 4 der Verordnung (EU) 2018/1862, wenn Personen nach Artikel 32 Absatz 1 Litera d und Litera e jener Verordnung zu ihrem eigenen Schutz ausgeschrieben werden müssen.
 
 [^13-1]: SR [362.0](https://db.clex.ch/link/Bund/362.0/de)
 
@@ -270,7 +279,7 @@ beschliesst:
 - d) dies zur Sicherstellung des Vollzugs einer durch eine andere Behörde angeordneten Wegweisung, Ausweisung, Landesverweisung, Auslieferung, einer Vorführung oder Zuführung erforderlich ist;
 - e) dies zur Sicherstellung des Vollzugs einer Wegweisung, einer Ausgrenzung, einer Zuführung Minderjähriger oder einer besonderen Massnahme gegen Gewalt, Drohungen oder Nachstellungen erforderlich ist.
 
-<sup>2</sup> Die in Gewahrsam genommene Person ist über den Grund dieser Massnahme in Kenntnis zu setzen, und es ist ihr, sofern die Umstände es erlauben, die Gelegenheit zu geben, eine Person ihres Vertrauens zu benachrichtigen.
+<sup>2</sup> Die in Gewahrsam genommene Person ist über den Grund dieser Massnahme in Kenntnis zu setzen, und es ist ihr Gelegenheit zu geben, eine Person ihres Vertrauens zu benachrichtigen, soweit dadurch der Zweck des Polizeigewahrsams nicht gefährdet wird. Ist die Person minderjährig, ist ohne Verzug deren gesetzliche Vertretung zu benachrichtigen.
 
 <sup>3</sup> Die Person darf nicht länger als unbedingt notwendig in polizeilichem Gewahrsam gehalten werden, höchstens jedoch 24 Stunden.
 
@@ -404,9 +413,11 @@ beschliesst:
 
 <sup>2</sup> Die Kantonspolizei teilt der von einer präventiven Überwachungsmassnahme direkt betroffenen Person den Grund, die Art und die Dauer der Massnahme mit, sobald der mit der Massnahme verfolgte Zweck es zulässt.
 
-<sup>3</sup> Die Mitteilung gemäss Absatz 2 unterbleibt, wenn dies zum Schutz überwiegender öffentlicher oder privater Interessen notwendig ist. Vorbehalten ist die Zustimmung des kantonalen Zwangsmassnahmengerichts in den Fällen von Artikel 21a Absatz 1 Litera c und Litera d.
+<sup>3</sup> Die Mitteilung gemäss Absatz 2 unterbleibt bei präventiven Observationen, verdeckten Vorermittlungen und präventiven technischen Überwachungen, wenn dies zum Schutz überwiegender öffentlicher oder privater Interessen notwendig ist. Vorbehalten ist die Zustimmung des kantonalen Zwangsmassnahmengerichts in den Fällen von Artikel 21a Absatz 1 Litera c und Litera d.
 
 <sup>4</sup> Der Entscheid über die Mitteilung wird der Staatsanwaltschaft überlassen, wenn die Erkenntnisse aus den präventiven Überwachungsmassnahmen zur Eröffnung eines Strafverfahrens geführt haben.
+
+<sup>4<sup>bis</sup></sup> Die Beschwerdefrist beginnt mit dem Erhalt der Mitteilung zu laufen.
 
 <sup>5</sup> Soweit dieses Gesetz auf die Bestimmungen der Strafprozessordnung über die geheimen Überwachungsmassnahmen verweist, kommen der Polizeikommandantin oder dem Polizeikommandanten die Aufgaben und Befugnisse der Staatsanwaltschaft zu.
 
@@ -414,7 +425,9 @@ beschliesst:
 
 **2. Präventive Observation**
 
-<sup>1</sup> Eine präventive Observation liegt vor, wenn Personen und Sachen an allgemein zugänglichen Orten verdeckt beobachtet und dabei Bild- oder Tonaufzeichnungen gemacht werden. Zu diesem Zweck können technische Instrumente zur Standortermittlung eingesetzt werden.
+<sup>1</sup> Eine präventive Observation liegt vor, wenn Personen und Sachen an allgemein zugänglichen Orten verdeckt beobachtet und dabei Bild- oder Tonaufzeichnungen gemacht werden.
+
+<sup>1<sup>bis</sup></sup> Im Rahmen der präventiven Observation können technische Geräte zur Standortbestimmung eingesetzt werden. Die Standortdaten dürfen ausschliesslich für die Bestimmung des aktuellen Standorts während der laufenden Observation genutzt und weder gespeichert noch als Beweise in einem Strafverfahren verwendet werden.
 
 <sup>2</sup> Präventive Observationen ordnet eine Polizeioffizierin oder ein Polizeioffizier an.
 
@@ -494,25 +507,80 @@ beschliesst:
 
 #### Art. 22b
 
-**Automatisierte Fahrzeugfahndung**
+**Automatisierte Fahrzeugfahndung 1. Einsatz**
 
-<sup>1</sup> Die Kantonspolizei kann zur Fahndung nach Personen oder Sachen sowie zur Verhinderung, Entdeckung und Verfolgung von Straftaten Fahrzeuge sowie Kontrollschilder automatisiert erfassen.
+<sup>1</sup> Die Kantonspolizei kann auf öffentlichen Strassen Fahrzeuge und Kontrollschilder sowie Fahrzeuginsassinnen und Fahrzeuginsassen automatisiert erfassen, um:
 
-<sup>2</sup> Sie kann Daten mit Datenbanken automatisiert abgleichen, analysieren und zur Erstellung von Bewegungsprofilen nutzen. Der automatisierte Datenabgleich ist zulässig:
+- a) nach vermissten und entwichenen Personen zu fahnden;
+- b) Verbrechen oder schwere Vergehen durch die Fahndung nach Personen oder Sachen zu erkennen, zu verhindern oder zu verfolgen;
+- c) Fernhalte- und Zwangsmassnahmen gegenüber Ausländerinnen und Ausländern zu vollziehen;
+- d) andere erhebliche Gefahren für die öffentliche Ordnung und Sicherheit durch die Fahndung nach Personen und Sachen abzuwehren.
 
-- a) mit polizeilichen Personen- und Sachfahndungsregistern;
-- b) mit Angaben zu Kontrollschildern von Fahrzeugen, deren Halterinnen und Haltern der Führerausweis entzogen oder verweigert worden ist; und
-- c) mit konkreten Fahndungsaufträgen.
+<sup>2</sup> Die Kantonspolizei kann Daten gemäss Absatz 1 mit Ausnahme der biometrischen Daten unmittelbar nach der Datenbeschaffung automatisiert abgleichen mit:
 
-<sup>2<sup>bis</sup></sup> Die Kantonspolizei darf die automatisch erfassten Daten während 90 Tagen verwenden zur:
+- a) dem nationalen automatisierten Polizeifahndungssystem (RIPOL);
+- b) dem Informationssystem Verkehrszulassung, soweit dieses aus dem RIPOL abgefragt werden kann;
+- b<sup>bis</sup>) der Fahndungsdatenbank für gestohlene Fahrzeuge von Interpol;
+- b<sup>ter</sup>) dem Schengener Informationssystem;
+- c) polizeilichen Fahndungsaufträgen, welche eine der Voraussetzungen gemäss Absatz 1 erfüllen.
 
-- a) Aufklärung von Verbrechen und Vergehen;
-- b) Fahndung nach vermissten oder entwichenen Personen.
+<sup>2<sup>bis</sup></sup> …
 
-<sup>3</sup> Die automatisiert erfassten Daten werden vernichtet:
+<sup>3</sup> Die Kantonspolizei löscht Daten gemäss Absatz 1 und Absatz 2:
 
-- a) bei fehlender Übereinstimmung mit einer Datenbank spätestens nach 90 Tagen;
-- b) bei Übereinstimmung mit einer Datenbank nach den Bestimmungen des betreffenden Verwaltungs- oder Strafverfahrens.
+- a) bei fehlender Übereinstimmung mit abgeglichenen Fahndungsdaten: sofort;
+- b) bei Übereinstimmung mit abgeglichenen Fahndungsdaten:
+  - 1\. nach den Bestimmungen, die für die sicherheitspolizeiliche Tätigkeit gelten, die zur Ausschreibung geführt hat, wenn die Kantonspolizei die ausschreibende Behörde ist;
+  - 2\. in den anderen Fällen 72 Stunden nach der Meldung an die ausschreibende Behörde.
+
+<sup>3<sup>bis</sup></sup> Werden durch die automatisierte Fahrzeugfahndung Straftaten festgestellt, richtet sich die Verwertbarkeit von Beweismitteln in Strafverfahren nach der Strafprozessordnung.
+
+<sup>4</sup> Die Standorte der Bildaufzeichnungsgeräte werden veröffentlicht.
+
+<sup>5</sup> Die Polizeikommandantin oder der Polizeikommandant bestimmt, wo Bildaufzeichnungsgeräte eingesetzt werden. Sie oder er überprüft die Zweckmässigkeit des Einsatzes der hochauflösenden Bildaufzeichnungsgeräte periodisch.
+
+#### Art. 22bbis
+
+**2. Austausch von Daten**
+
+<sup>1</sup> Die Kantonspolizei kann zu den Zwecken gemäss Artikel 22b Absatz 1 Daten von automatisierten Fahrzeugfahndungssystemen mit folgenden Behörden automatisiert austauschen:
+
+- a) den Polizeibehörden des Bundes, der Kantone und der Gemeinden;
+- b) der Landespolizei Liechtenstein;
+- c) dem für Zollwesen und Grenzsicherheit zuständigen Bundesamt.
+
+<sup>2</sup> Die Kantonspolizei kann dazu Schnittstellen mit den Systemen zur automatisierten Fahrzeugfahndung dieser Behörden einrichten.
+
+#### Art. 22bter
+
+**3. Analyse von Daten**
+
+<sup>1</sup> Die Kantonspolizei kann Daten, die durch automatisierte Fahrzeugfahndungssysteme erhoben wurden, analysieren und zur Erstellung von Bewegungsprofilen nutzen:
+
+- a) wenn eine schwere Gefahr für die öffentliche Sicherheit und Ordnung besteht;
+- b) um Verbrechen oder schwere Vergehen zu erkennen oder zu verhindern.
+
+<sup>2</sup> Die Analyse von Daten wird durch die Polizeioffizierin oder den Polizeioffizier angeordnet.
+
+#### Art. 22bquater
+
+**Verkehrsbeobachtung**
+
+<sup>1</sup> Die Kantonspolizei kann auf öffentlichen Strassen hochauflösende Bildübermittlungs- oder Bildaufzeichnungsgeräte einsetzen und andere technische Hilfsmittel verwenden, um die Verkehrssicherheit zu gewährleisten.
+
+<sup>2</sup> Die Kantonspolizei kann Daten gemäss Absatz 1 unmittelbar nach der Datenbeschaffung automatisiert mit den für Strassenfahrzeuge geltenden technischen Anforderungen abgleichen.
+
+<sup>3</sup> Die Kantonspolizei löscht die Daten gemäss Absatz 1 und Absatz 2 nach 72 Stunden, soweit sie nicht für die Beweissicherung bei einem Verkehrsunfall oder für einen Sicherheitsvorfall benötigt werden.
+
+<sup>4</sup> Die Standorte der hochauflösenden Bildübermittlungs- und Bildaufzeichnungsgeräte werden veröffentlicht.
+
+<sup>5</sup> Die Polizeikommandantin oder der Polizeikommandant bestimmt, wo hochauflösende Bildübermittlungs- und Bildaufzeichnungsgeräte eingesetzt werden. Sie oder er überprüft die Zweckmässigkeit des Einsatzes von Bildübermittlungs- und Bildaufzeichnungsgeräten periodisch.
+
+<sup>6</sup> Die Kantonspolizei kann für die Zwecke gemäss Absatz 1 personenbezogene Bildaufnahmen bei folgenden Behörden im Einzelfall oder automatisiert beschaffen:
+
+- a) den Polizeibehörden des Bundes, der Kantone und der Gemeinden;
+- b) dem Bundesamt für Strassen;
+- c) dem für Zollwesen und Grenzsicherheit zuständigen Bundesamt.
 
 #### Art. 22c
 
@@ -530,9 +598,9 @@ beschliesst:
 
 <sup>1</sup> Die Kantonspolizei ordnet die Überwachung des Post- und Fernmeldeverkehrs für eine Notsuche und für die Fahndung nach verurteilten Personen nach dem Bundesgesetz betreffend die Überwachung des Post- und Fernmeldeverkehrs[^22d-1] an.
 
-<sup>2</sup> Die Einzelrichterin oder der Einzelrichter des kantonalen Zwangsmassnahmengerichts genehmigt diese Anordnung und trifft die für die Wahrung des Berufsgeheimnisses erforderlichen Massnahmen.
+<sup>2</sup> Das kantonale Zwangsmassnahmengericht genehmigt diese Anordnung und trifft die für die Wahrung des Berufsgeheimnisses erforderlichen Massnahmen.
 
-<sup>3</sup> Richterliche Entscheide können mit Beschwerde beim Obergericht angefochten werden. Für das Verfahren gelten die Bestimmungen über die strafrechtliche Beschwerde sinngemäss.
+<sup>3</sup> …
 
 [^22d-1]: SR [780.1](https://db.clex.ch/link/Bund/780.1/de)
 
@@ -604,11 +672,13 @@ beschliesst:
 
 **Datenbeschaffung**
 
-<sup>1</sup> Die Kantonspolizei kann zur Erfüllung ihres gesetzlichen Auftrags Informationen und Daten aus öffentlich zugänglichen, privaten und amtlichen Quellen erheben und entgegennehmen.
+<sup>1</sup> Die Kantonspolizei kann Daten, einschliesslich besonders schützenswerter Personendaten, bei anderen öffentlichen Organen und Privaten beschaffen, soweit dies notwendig ist, um eine polizeiliche Aufgabe zu erfüllen.
 
-<sup>2</sup> Sie kann Daten ausländischer, eidgenössischer und kantonaler Polizei-, Strafverfolgungs- und Verwaltungsbehörden entgegennehmen oder im Abrufverfahren anfragen.
+<sup>2</sup> Die Kantonspolizei kann Daten, einschliesslich besonders schützenswerter Personendaten, bei ausländischen, eidgenössischen, kantonalen und kommunalen Polizei-, Strafverfolgungs- und Verwaltungsbehörden im Abrufverfahren anfragen, soweit die automatisierte Datenbeschaffung für die Erfüllung einer gesetzlichen Aufgabe der Kantonspolizei notwendig ist.
 
-<sup>3</sup> Öffentliche Organe oder Behörden sowie Private geben der Kantonspolizei Daten bekannt, soweit dies zur Erfüllung der polizeilichen Aufgabe notwendig ist. Sie können ihr die Daten im Abrufverfahren zugänglich machen.
+<sup>3</sup> Öffentliche Organe des Kantons Graubünden, der Regionen und Gemeinden sowie Private geben der Kantonspolizei Daten, einschliesslich besonders schützenswerter Personendaten, bekannt, soweit dies für die Erfüllung einer polizeilichen Aufgabe notwendig ist.
+
+<sup>4</sup> Bündner Polizeibehörden, die dem Ostschweizer Polizeikonkordat angehören, gewähren der Kantonspolizei den Zugriff auf polizeiliche Datenbestände mittels Abrufverfahren. Andere öffentliche Organe des Kantons, der Regionen oder Gemeinden können der Kantonspolizei die Daten im Abrufverfahren zugänglich machen.
 
 #### Art. 28
 
@@ -618,14 +688,24 @@ beschliesst:
 
 **Datenbekanntgabe**
 
-<sup>1</sup> Die Kantonspolizei kann Daten an Dritte weiterleiten, soweit dies gesetzlich vorgesehen oder unerlässlich ist für:
+<sup>1</sup> Die Kantonspolizei kann Daten, einschliesslich besonders schützenswerter Personendaten, Privatpersonen bekanntgeben, soweit dies gesetzlich vorgesehen oder unerlässlich ist für:
 
 - a) die Erfüllung polizeilicher Aufgaben; oder
 - b) die Abwehr einer Gefahr für die öffentliche Sicherheit und Ordnung.
 
-<sup>2</sup> Die Datenbekanntgabe gegenüber anderen kantonalen sowie den eidgenössischen Polizei- und Strafverfolgungsbehörden kann auch automatisiert erfolgen.
+<sup>1<sup>bis</sup></sup> Die Kantonspolizei kann Daten, einschliesslich besonders schützenswerter Personendaten, anderen öffentlichen Organen im Einzelfall von Amtes wegen oder auf Ersuchen hin bekanntgeben, soweit die Datenbekanntgabe für die Erfüllung einer gesetzlichen Aufgabe der Kantonspolizei oder des empfangenden öffentlichen Organs notwendig ist.
 
-<sup>3</sup> Die Kantonspolizei kann Gemeinden Zugriff auf polizeiliche Datenbestände gewähren, soweit dies für die Erfüllung von delegierten polizeilichen Aufgaben notwendig ist.
+<sup>2</sup> Die Datenbekanntgabe an eidgenössische, kantonale und kommunale Polizei- und Strafverfolgungsbehörden kann automatisiert erfolgen, soweit die automatisierte Datenbekanntgabe für die Erfüllung einer gesetzlichen Aufgabe der Kantonspolizei oder des empfangenden öffentlichen Organs notwendig ist.
+
+<sup>3</sup> Die Kantonspolizei gewährt Bündner Polizeibehörden, die dem Ostschweizer Polizeikonkordat angehören, Zugriff auf polizeiliche Datenbestände im Abrufverfahren, soweit die automatisierte Datenbekanntgabe für die Erfüllung einer gesetzlichen Aufgabe der Kantonspolizei oder des empfangenden Polizeiorgans notwendig ist.
+
+#### Art. 29bis
+
+**Datenaustausch mit Schengen-Staaten**
+
+<sup>1</sup> Für den direkten Informationsaustausch mit Polizei- und Strafverfolgungsbehörden anderer Staaten, die mit der Schweiz über eines der Schengen-Assoziierungsabkommen verbunden sind (Schengen-Staaten), findet das Bundesgesetz über den Informationsaustausch zwischen den Strafverfolgungsbehörden des Bundes und denjenigen der anderen Schengen-Staaten[^29bis-1] sinngemäss Anwendung.
+
+[^29bis-1]: SR [362.2](https://db.clex.ch/link/Bund/362.2/de)
 
 #### Art. 29a
 
@@ -641,13 +721,7 @@ beschliesst:
 
 #### Art. 29b
 
-**Datenaustausch in der automatisierten Fahrzeugfahndung**
-
-<sup>1</sup> Die Kantonspolizei kann Daten der automatisierten Fahrzeugfahndung bei anderen Polizeibehörden des Bundes, der Kantone und der Gemeinden, der Landespolizei Liechtenstein, dem Bundesamt für Strassen sowie dem Bundesamt für Zoll und Grenzsicherheit zu den in Artikel 22b Absatz 1 genannten Zwecken im Abrufverfahren beschaffen und erhobene Daten gemäss Artikel 22b Absatz 3 bearbeiten.
-
-<sup>2</sup> Sie kann den in Absatz 1 genannten Behörden, ausgenommen dem Bundesamt für Strassen, Daten der automatisierten Fahrzeugfahndung zu den in Artikel 22b Absatz 1 genannten Zwecken im Abrufverfahren bekanntgeben.
-
-<sup>3</sup> Dazu kann sie Schnittstellen mit den Systemen zur automatisierten Fahrzeugerfassung dieser Behörden einrichten.
+**…**
 
 #### Art. 29c
 
@@ -735,9 +809,53 @@ beschliesst:
 
 #### Art. 30
 
-**Einzelheiten**
+**Ausführungsbestimmungen zur Datenbearbeitung**
 
-<sup>1</sup> Die Regierung regelt die Einzelheiten der Datenbearbeitung, insbesondere bezüglich Art, Umfang, Zugriffsberechtigung, Aufbewahrungsdauer und Weitergabe der registrierten Daten, deren Löschung sowie des Auskunfts- und Berichtigungsverfahrens.
+<sup>1</sup> Die Regierung regelt die Einzelheiten der Datenbearbeitung, insbesondere bezüglich Art, Umfang, Zugriffsberechtigung, Aufbewahrungsdauer und Weitergabe der registrierten Daten sowie deren Löschung.
+
+#### Art. 30a
+
+**Aufsicht über die Datenbearbeitung**
+
+<sup>1</sup> Die Aufsichtsstelle überprüft periodisch, ob die Kantonspolizei die datenschutzrechtlichen Vorgaben einhält.
+
+<sup>2</sup> Die Prüfung erfolgt risikobasiert. Sie bezieht sich insbesondere auf:
+
+- a) die präventiven Überwachungsmassnahmen;
+- b) die verdeckte Überwachung allgemein zugänglicher Orte;
+- c) die automatisierte Fahrzeugfahndung;
+- d) die Datenbearbeitung im Rahmen des Bedrohungsmanagements.
+
+## 6a. Rechtsschutz
+
+#### Art. 30b
+
+**Grundsatz**
+
+<sup>1</sup> Der Rechtsschutz gegen Entscheide, welche die Kantonspolizei auf der Grundlage dieses Gesetzes trifft, richtet sich nach dem Gesetz über die Verwaltungsrechtspflege[^30b-1], sofern dieses Gesetz nichts anderes vorsieht.
+
+[^30b-1]: BR [370.100](https://www.gr-lex.gr.ch/data/370.100/de)
+
+#### Art. 30c
+
+**Polizeigewahrsam**
+
+<sup>1</sup> Der Polizeigewahrsam gemäss diesem Gesetz und dem Konkordat über Massnahmen gegen Gewalt anlässlich von Sportveranstaltungen[^30c-1] kann innert zehn Tagen seit der Anordnung beim kantonalen Zwangsmassnahmengericht mit Verwaltungsgerichtsbeschwerde angefochten werden.
+
+<sup>2</sup> Das kantonale Zwangsmassnahmengericht entscheidet so rasch als möglich. Die Gerichtsferien gelten nicht.
+
+<sup>3</sup> Im Übrigen gelten für das Beschwerdeverfahren die Regelungen des Gesetzes über die Verwaltungsrechtspflege[^30c-2].
+
+[^30c-1]: BR [613.180](https://www.gr-lex.gr.ch/data/613.180/de)
+[^30c-2]: BR [370.100](https://www.gr-lex.gr.ch/data/370.100/de)
+
+#### Art. 30d
+
+**Entscheide des kantonalen Zwangsmassnahmengerichts**
+
+<sup>1</sup> Entscheide, die das kantonale Zwangsmassnahmengericht auf der Grundlage dieses Gesetzes und des Konkordats über Massnahmen gegen Gewalt anlässlich von Sportveranstaltungen trifft, können mit verwaltungsgerichtlicher Beschwerde beim Obergericht angefochten werden.
+
+<sup>2</sup> Die Gerichtsferien gelten nicht.
 
 ## 7. Organisation der Kantonspolizei
 

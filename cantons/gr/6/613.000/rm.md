@@ -4,13 +4,12 @@ number: "613.000"
 title: Lescha da polizia dal chantun Grischun
 short: LPol
 language: rm
-version: 2026-01-01
-valid_until: 2026-04-30
-version_adopted: 2025-08-27
+version: 2026-05-01
+version_adopted: 2025-10-20
 adopted: 2004-10-20
 in_force: 2005-07-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/613.000"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3614/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3635/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3614/pdf_file"
 
 (LPol)
 
-dals 20-10-2004 (versiun dals 01-01-2026)
+dals 20-10-2004 (versiun dals 01-05-2026)
 
 Il cussegl grond dal chantun Grischun,
 
@@ -135,6 +134,14 @@ concluda:
 
 <sup>3</sup> Ina mesira na dastga betg manar ad in dischavantatg che stat en ina clera sproporziun cun il resultat avisà.
 
+#### Art. 6a
+
+**Uffants e giuvenils**
+
+<sup>1</sup> La Polizia chantunala respecta ils basegns da protecziun spezials dals uffants e dals giuvenils. Ella resguarda lur vegliadetgna ed il stadi da lur svilup.
+
+<sup>2</sup> La Polizia chantunala observa ils dretgs da la represchentanza legala dals uffants e dals giuvenils da survegnir infurmaziuns.
+
 #### Art. 7
 
 **Clausula generala da polizia**
@@ -248,7 +255,9 @@ concluda:
 
 <sup>2</sup> La moda e maniera da la publicaziun sa drizza tenor ils basegns concrets.
 
-<sup>3</sup> Persunas e chaussas pon vegnir publitgadas cun l'intent da far ina registraziun secreta en il senn da l'artitgel 33 e da l'artitgel 34 da l'ordinaziun federala davart la part naziunala dal sistem d'infurmaziun da Schengen (N-SIS) e davart il biro SIRENE[^13-1].
+<sup>3</sup> Persunas e chaussas pon vegnir publitgadas cun l'intent da far ina registraziun secreta, ina dumonda d'investigaziun ed ina controlla intenziunada en il senn da l'artitgel 33 e da l'artitgel 34 da l'Ordinaziun federala davart la part naziunala dal Sistem d'infurmaziun da Schengen (N-SIS) ed il biro SIRENE[^13-1].
+
+<sup>4</sup> La Polizia chantunala è cumpetenta per la decisiun en il senn da l'artitgel 32 alinea 4 da l'Ordinaziun (UE) 2018/1862, sche persunas tenor l'artitgel 32 alinea 1 litera d e litera e da questa ordinaziun ston vegnir publitgadas per lur atgna protecziun.
 
 [^13-1]: CS [362.0](https://db.clex.ch/link/Bund/362.0/rm)
 
@@ -270,7 +279,7 @@ concluda:
 - d) quai è necessari per garantir l'execuziun d'ina spedida, d'ina expulsiun, d'ina exiliaziun, d'ina extradiziun, d'ina preschentaziun u d'ina escorta, ch'è vegnida ordinada d'ina autra autoritad;
 - e) quai è necessari per garantir l'execuziun d'ina spedida, d'ina exclusiun, d'ina escorta da persunas minorennas u d'ina mesira speziala cunter violenza, smanatschas u persecuziuns.
 
-<sup>2</sup> La persuna ch'è vegnida prendida en fermanza da polizia sto vegnir infurmada dal motiv da quella mesira ed i sto vegnir dada ad ella la pussaivladad – sche las circumstanzas permettan quai – d'infurmar ina persuna da sia confidenza.
+<sup>2</sup> La persuna ch'è vegnida prendida en fermanza da polizia sto vegnir infurmada davart il motiv da questa mesira, ed ella sto survegnir la pussaivladad d'infurmar ina persuna da sia confidenza, uschenavant che quai na periclitescha betg l'intent da la fermanza da polizia. Sche la persuna è minorenna, sto vegnir infurmada immediatamain sia represchentanza legala.
 
 <sup>3</sup> La persuna na dastga betg vegnir tegnida en fermanza da polizia pli ditg che absolutamain necessari, maximalmain però 24 uras.
 
@@ -404,9 +413,11 @@ concluda:
 
 <sup>2</sup> La polizia chantunala communitgescha a la persuna ch'è pertutgada directamain d'ina mesira da surveglianza preventiva il motiv, il gener e la durada da la mesira, uschespert che l'intent che vegn persequità cun la mesira permetta quai.
 
-<sup>3</sup> La communicaziun tenor l'alinea 2 n'ha betg lieu, sche quai è necessari per proteger interess publics u privats predominants. Resalvà è il consentiment da la dretgira chantunala da mesiras repressivas en ils cas tenor l'artitgel 21a alinea 1 litera c e litera d.
+<sup>3</sup> En cas d'observaziuns preventivas, d'investigaziuns preliminaras secretas e da surveglianzas tecnicas preventivas scroda la communicaziun tenor l'alinea 2, sche quai è necessari per proteger interess publics u privats predominants. Resalvà è il consentiment da la Dretgira chantunala da mesiras repressivas en ils cas tenor l'artitgel 21a alinea 1 litera c e litera d.
 
 <sup>4</sup> La procura publica decida davart la communicaziun, sche las infurmaziuns che resultan da las mesiras da surveglianza preventivas han chaschunà l'avertura d'ina procedura penala.
+
+<sup>4<sup>bis</sup></sup> Il termin da recurs cumenza a currer il mument che la communicaziun è vegnida retschavida.
 
 <sup>5</sup> Uschenavant che questa lescha renviescha a las disposiziuns dal cudesch da procedura penala davart las mesiras da surveglianza secretas, ha la cumandanta u il cumandant da polizia las incumbensas ed ils dretgs da la procura publica.
 
@@ -414,7 +425,9 @@ concluda:
 
 **2. observaziun preventiva**
 
-<sup>1</sup> D'ina observaziun preventiva sa tracti, sche persunas e chaussas vegnan observadas secretamain en lieus ch'èn generalmain accessibels e sch'i vegnan registrads latiers maletgs u il tun. Per quest intent pon vegnir duvrads instruments tecnics per eruir la posiziun.
+<sup>1</sup> D'ina observaziun preventiva sa tracti, sche persunas e chaussas vegnan observadas secretamain en lieus ch'èn generalmain accessibels e sch'i vegnan registrads latiers maletgs u il tun.
+
+<sup>1<sup>bis</sup></sup> En il rom da l'observaziun preventiva pon vegnir utilisads apparats tecnics per localisar la posiziun. Las datas da la localisaziun dastgan vegnir duvradas mo per eruir la posiziun actuala durant l'observaziun currenta e na dastgan ni vegnir arcunadas ni vegnir duvradas sco cumprovas en ina procedura penala.
 
 <sup>2</sup> Observaziuns preventivas vegnan ordinadas d'ina uffiziera u d'in uffizier da polizia.
 
@@ -494,25 +507,80 @@ concluda:
 
 #### Art. 22b
 
-**Retschertga automatisada da vehichels**
+**Retschertga automatisada da vehichels 1. applicaziun**
 
-<sup>1</sup> Per retschertgar persunas u chaussas sco er per impedir, per scuvrir e per persequitar malfatgs po la Polizia chantunala registrar en moda automatisada vehichels e numers d'immatriculaziun.
+<sup>1</sup> Sin vias publicas po la Polizia chantunala registrar en moda automatisada vehichels e numers d'immatriculaziun sco er passagieras e passagiers da vehichels per:
 
-<sup>2</sup> Ella po cumparegliar en moda automatisada las datas cun bancas da datas, analisar las datas e las nizzegiar per crear profils da moviment. La cumparegliaziun automatisada da datas è admessa:
+- a) retschertgar persunas sparidas e persunas fugidas;
+- b) identifitgar, impedir u persequitar crims u grevs delicts tras la retschertga da persunas u da chaussas;
+- c) exequir scumonds d'access e mesiras repressivas envers persunas estras;
+- d) prevegnir ad auters privels considerabels per l'urden public e per la segirezza publica tras la retschertga da persunas e da chaussas.
 
-- a) cun registers d'investigaziun poliziala da persunas e d'objects;
-- b) cun indicaziuns davart ils numers d'immatriculaziun da vehichels da possessuras e possessurs, als quals è vegnì retratg u refusà il permiss da manischar; e
-- c) cun incumbensas da retschertga concretas.
+<sup>2</sup> Cun excepziun da las datas biometricas po la Polizia chantunala cumparegliar en moda automatisada – immediatamain suenter la procuraziun – las datas tenor l'alinea 1 cun:
 
-<sup>2<sup>bis</sup></sup> Las datas registradas en moda automatisada dastgan vegnir duvradas da la Polizia chantunala durant 90 dis per:
+- a) il sistem da retschertga informatisà da la polizia (RIPOL);
+- b) il sistem d'infurmaziun per l'admissiun a la circulaziun, uschenavant che quel po vegnir consultà sur il RIPOL;
+- b<sup>bis</sup>) la banca da datas da retschertga dad Interpol per vehichels engulads;
+- b<sup>ter</sup>) il sistem d'infurmaziun da Schengen;
+- c) incumbensas da retschertga polizialas che adempleschan ina da las premissas tenor l'alinea 1.
 
-- a) sclerir crims e delicts;
-- b) retschertgar persunas sparidas u fugidas.
+<sup>2<sup>bis</sup></sup> …
 
-<sup>3</sup> Las datas registradas en moda automatisada vegnan destruidas:
+<sup>3</sup> La Polizia chantunala stizza las datas tenor l'alinea 1 e l'alinea 2:
 
-- a) il pli tard suenter 90 dis, sch'i na dat nagina concordanza cun ina banca da datas;
-- b) tenor las disposiziuns da la procedura administrativa u penala respectiva, sch'i dat ina concordanza cun ina banca da datas.
+- a) sch'i na dat nagina concordanza cun datas da retschertga cumparegliadas: immediatamain;
+- b) sch'i dat ina concordanza cun datas da retschertga cumparegliadas:
+  - 1\. tenor las disposiziuns che valan per l'activitad da la polizia da segirezza, ch'è stada il motiv per la publicaziun, sche la Polizia chantunala è l'autoritad che ha fatg la publicaziun;
+  - 2\. en ils auters cas 72 uras suenter l'annunzia a l'autoritad che ha fatg la publicaziun.
+
+<sup>3<sup>bis</sup></sup> Sch'i vegnan constatads malfatgs en il rom da la retschertga automatisada da vehichels, sa drizza l'utilisabladad da las cumprovas en proceduras penalas tenor il Cudesch da procedura penala.
+
+<sup>4</sup> Las posiziuns dals apparats per registrar maletgs vegnan publitgadas.
+
+<sup>5</sup> La cumandanta u il cumandant da polizia fixescha ils lieus, nua ch'ils apparats per registrar maletgs vegnan utilisads. Ella u el controllescha periodicamain, sche l'utilisaziun dals apparats d'auta resoluziun per registrar maletgs è commensurada.
+
+#### Art. 22bbis
+
+**2. barat da datas**
+
+<sup>1</sup> Per ils intents tenor l'artitgel 22b alinea 1 po la Polizia chantunala barattar en moda automatisada datas da sistems da retschertga automatisada da vehichels cun las suandantas autoritads:
+
+- a) las autoritads polizialas da la Confederaziun, dals chantuns e da las vischnancas;
+- b) la Polizia dal Principadi da Liechtenstein;
+- c) l'uffizi federal ch'è cumpetent per ils fatgs da duana e la segirezza dals cunfins.
+
+<sup>2</sup> Per quest intent po la Polizia chantunala endrizzar interfatschas als sistems da retschertga automatisada da vehichels da questas autoritads.
+
+#### Art. 22bter
+
+**3. analisa da datas**
+
+<sup>1</sup> La Polizia chantunala po analisar las datas, ch'èn vegnidas registradas tras sistems da retschertga automatisada da vehichels, e duvrar questas datas per crear profils da moviment:
+
+- a) sch'igl exista in grond privel per la segirezza publica e per l'urden public;
+- b) per identifitgar u per impedir crims u grevs delicts.
+
+<sup>2</sup> L'analisa da datas vegn ordinada da l'uffiziera u da l'uffizier da polizia.
+
+#### Art. 22bquater
+
+**Observaziun dal traffic**
+
+<sup>1</sup> Sin vias publicas po la Polizia chantunala utilisar apparats d'auta resoluziun per transmetter u per registrar maletgs ed auters meds auxiliars tecnics, per garantir la segirezza dal traffic.
+
+<sup>2</sup> La Polizia chantunala po cumparegliar en moda automatisada – immediatamain suenter la procuraziun – las datas tenor l'alinea 1 cun las pretensiuns tecnicas che valan per vehichels stradals.
+
+<sup>3</sup> Suenter 72 uras stizza la Polizia chantunala las datas tenor l'alinea 1 e l'alinea 2, uschenavant ch'ellas na vegnan betg duvradas per segirar las cumprovas d'in accident da traffic u per in incident da segirezza.
+
+<sup>4</sup> Las posiziuns dals apparats d'auta resoluziun per transmetter e per registrar maletgs vegnan publitgadas.
+
+<sup>5</sup> La cumandanta u il cumandant da polizia fixescha ils lieus, nua ch'ils apparats d'auta resoluziun per transmetter e per registrar maletgs vegnan utilisads. Ella u el controllescha periodicamain, sche l'utilisaziun dals apparats per transmetter e per registrar maletgs è commensurada.
+
+<sup>6</sup> Per ils intents tenor l'alinea 1 po la Polizia chantunala procurar en il cas singul u en moda automatisada registraziuns visualas da persunas tar las suandantas autoritads:
+
+- a) las autoritads polizialas da la Confederaziun, dals chantuns e da las vischnancas;
+- b) l'Uffizi federal da vias;
+- c) l'uffizi federal ch'è cumpetent per ils fatgs da duana e la segirezza dals cunfins.
 
 #### Art. 22c
 
@@ -530,9 +598,9 @@ concluda:
 
 <sup>1</sup> La polizia chantunala ordinescha la surveglianza dal traffic da posta e da telecommunicaziun per tschertgar ina persuna en cas d'urgenza u per tschertgar persunas sentenziadas tenor la lescha federala davart la surveglianza da la posta e da la telecommunicaziun[^22d-1].
 
-<sup>2</sup> La derschadra singula u il derschader singul da la dretgira chantunala da mesiras repressivas approvescha questa ordinaziun e prenda las mesiras necessarias per mantegnair il secret professiunal.
+<sup>2</sup> La Dretgira chantunala da mesiras repressivas approvescha questa ordinaziun e prenda las mesiras ch'èn necessarias per mantegnair il secret professiunal.
 
-<sup>3</sup> Cunter decisiuns giudizialas poi vegnir fatg recurs tar la Dretgira superiura. Per la procedura valan las disposiziuns davart il recurs penal confurm al senn.
+<sup>3</sup> …
 
 [^22d-1]: CS [780.1](https://db.clex.ch/link/Bund/780.1/rm)
 
@@ -604,11 +672,13 @@ concluda:
 
 **Procuraziun da datas**
 
-<sup>1</sup> Per ademplir sia incumbensa legala po la polizia chantunala retschertgar ed acceptar infurmaziuns e datas da funtaunas accessiblas publicamain, privatas ed uffizialas.
+<sup>1</sup> La Polizia chantunala po procurar datas, inclusiv datas persunalas spezialmain sensiblas, tar auters organs publics u tar persunas privatas, uschenavant che quai è necessari per ademplir ina incumbensa poliziala.
 
-<sup>2</sup> Ella po acceptar u dumandar en la procedura d'invista datas d'autoritads da polizia, d'autoritads da persecuziun penala e d'autoritads administrativas estras, federalas e chantunalas.
+<sup>2</sup> En la procedura d'invista po la Polizia chantunala dumandar datas, inclusiv datas persunalas spezialmain sensiblas, d'autoritads da polizia, d'autoritads da persecuziun penala e d'autoritads administrativas estras, federalas, chantunalas e communalas, uschenavant che la procuraziun automatisada da datas è necessaria per ademplir ina incumbensa legala da la Polizia chantunala.
 
-<sup>3</sup> Organs publics u autoritads publicas sco er persunas privatas communitgeschan datas a la polizia chantunala, sche quellas èn necessarias per ademplir las incumbensas polizialas. Els pon render accessiblas las datas en la procedura d'invista.
+<sup>3</sup> Organs publics dal chantun Grischun, da las regiuns e da las vischnancas sco er persunas privatas communitgeschan a la Polizia chantunala datas, inclusiv datas persunalas spezialmain sensiblas, uschenavant che quellas èn necessarias per ademplir ina incumbensa poliziala.
+
+<sup>4</sup> Las autoritads polizialas dal Grischun, che fan part dal Concordat da polizia da la Svizra Orientala, concedan a la Polizia chantunala l'access ad effectivs da datas polizialas tras la procedura d'invista. Auters organs publics dal chantun, da las regiuns u da las vischnancas pon render accessiblas las datas a la Polizia chantunala tras la procedura d'invista.
 
 #### Art. 28
 
@@ -618,14 +688,24 @@ concluda:
 
 **Communicaziun da datas**
 
-<sup>1</sup> La polizia chantunala po trametter datas a terzas persunas, uschenavant che quai è previs tenor la lescha u indispensabel per:
+<sup>1</sup> La Polizia chantunala po communitgar a persunas privatas datas, inclusiv datas persunalas spezialmain sensiblas, uschenavant che quai è previs tenor la lescha u indispensabel per:
 
 - a) ademplir las incumbensas da polizia; u
 - b) la defensiun cunter in privel per la segirezza publica e per l'urden public.
 
-<sup>2</sup> La communicaziun da datas ad autras autoritads chantunalas sco er a las autoritads federalas da polizia e da persecuziun penala po er avair lieu en moda automatisada.
+<sup>1<sup>bis</sup></sup> La Polizia chantunala po communitgar en il cas singul d'uffizi u sin dumonda datas, inclusiv datas persunalas spezialmain sensiblas, ad auters organs publics, uschenavant che la communicaziun da datas è necessaria per ademplir ina incumbensa legala da la Polizia chantunala u da l'organ public che retschaiva las datas.
 
-<sup>3</sup> La polizia chantunala po conceder a las vischnancas l'access ad effectivs da datas polizialas, sche quai è necessari per ademplir incumbensas polizialas delegadas a quellas.
+<sup>2</sup> Ad autoritads da polizia e da persecuziun penala federalas, chantunalas e communalas pon las datas vegnir communitgadas en moda automatisada, uschenavant che la communicaziun automatisada da datas è necessaria per ademplir ina incumbensa legala da la Polizia chantunala u da l'organ public che retschaiva las datas.
+
+<sup>3</sup> La Polizia chantunala conceda a las autoritads polizialas dal Grischun, che fan part dal Concordat da polizia da la Svizra Orientala, access ad effectivs da datas polizialas tras la procedura d'invista, uschenavant che la communicaziun automatisada da datas è necessaria per ademplir ina incumbensa legala da la Polizia chantunala u da l'organ da polizia che retschaiva las datas.
+
+#### Art. 29bis
+
+**Barat da datas cun stadis da Schengen**
+
+<sup>1</sup> Per il barat d'infurmaziuns direct cun autoritads da polizia e da persecuziun penala d'auters stadis, ch'èn colliads cun la Svizra tras ina da las cunvegnas d'associaziun a la reglamentaziun da Schengen (stadis da Schengen), vegn applitgada confurm al senn la Lescha federala davart il barat d'infurmaziuns tranter las autoritads da persecuziun penala da la Confederaziun e talas dals auters stadis da Schengen[^29bis-1].
+
+[^29bis-1]: CS [362.2](https://db.clex.ch/link/Bund/362.2/rm)
 
 #### Art. 29a
 
@@ -641,13 +721,7 @@ concluda:
 
 #### Art. 29b
 
-**Barat da datas en la retschertga automatisada da vehichels**
-
-<sup>1</sup> Per ils intents numnads en l'artitgel 22b alinea 1 po la Polizia chantunala sa procurar datas da la retschertga automatisada da vehichels en la procedura d'invista tar autras autoritads polizialas da la Confederaziun, dals chantuns e da las vischnancas, tar la polizia dal Principadi da Liechtenstein, tar l'Uffizi federal da vias sco er tar l'Uffizi federal da la duana e da la segirezza dals cunfins ed elavurar las datas registradas tenor l'artitgel 22b alinea 3.
-
-<sup>2</sup> Per ils intents numnads en l'artitgel 22b alinea 1 po ella communitgar datas da la retschertga automatisada da vehichels en la procedura d'invista a las autoritads numnadas en l'alinea 1, cun excepziun da l'Uffizi federal da vias.
-
-<sup>3</sup> Per quest intent po ella endrizzar interfatschas als sistems da la registraziun automatisada da vehichels da questas autoritads.
+**…**
 
 #### Art. 29c
 
@@ -735,9 +809,53 @@ concluda:
 
 #### Art. 30
 
-**Detagls**
+**Disposiziuns executivas per l'elavuraziun da datas**
 
-<sup>1</sup> La regenza regla ils detagls da la transmissiun da datas, en spezial areguard la sort, la dimensiun, l'autorisaziun d'access, la durada da conservaziun e la transmissiun da las datas registradas, lur extincziun sco er la procedura d'infurmaziun e da rectificaziun.
+<sup>1</sup> La Regenza regla ils detagls da l'elavuraziun da datas, en spezial areguard il gener, la dimensiun, l'autorisaziun d'access, la durada da conservaziun e la transmissiun da las datas registradas, sco er da lur extincziun.
+
+#### Art. 30a
+
+**Surveglianza da l'elavuraziun da datas**
+
+<sup>1</sup> Il post da surveglianza controllescha periodicamain, sche la Polizia chantunala observa las prescripziuns dal dretg davart la protecziun da datas.
+
+<sup>2</sup> La controlla s'orientescha a las ristgas. Ella sa referescha en spezial a:
+
+- a) las mesiras da surveglianza preventivas;
+- b) la surveglianza secreta da lieus generalmain accessibels;
+- c) la retschertga automatisada da vehichels;
+- d) l'elavuraziun da datas en il rom dal management da smanatschas.
+
+## 6a. Protecziun giuridica
+
+#### Art. 30b
+
+**Princip**
+
+<sup>1</sup> La protecziun giuridica cunter decisiuns che la Polizia chantunala prenda sin basa da questa lescha, sa drizza tenor la Lescha davart la giurisdicziun administrativa[^30b-1], uschenavant che questa lescha na prevesa nagut auter.
+
+[^30b-1]: DG [370.100](https://www.gr-lex.gr.ch/data/370.100/rm)
+
+#### Art. 30c
+
+**Fermanza da polizia**
+
+<sup>1</sup> Cunter la fermanza da polizia tenor questa lescha e tenor il Concordat davart las mesiras cunter la violenza a chaschun d'occurrenzas da sport[^30c-1] poi vegnir fatg recurs giudizial administrativ tar la Dretgira chantunala da mesiras repressivas, e quai entaifer 10 dis dapi l'ordinaziun.
+
+<sup>2</sup> La Dretgira chantunala da mesiras repressivas decida uschè svelt sco pussaivel. Las vacanzas da dretgira na valan betg.
+
+<sup>3</sup> Per la procedura da recurs valan dal rest las regulaziuns da la Lescha davart la giurisdicziun administrativa[^30c-2].
+
+[^30c-1]: DG [613.180](https://www.gr-lex.gr.ch/data/613.180/rm)
+[^30c-2]: DG [370.100](https://www.gr-lex.gr.ch/data/370.100/rm)
+
+#### Art. 30d
+
+**Decisiuns da la Dretgira chantunala da mesiras repressivas**
+
+<sup>1</sup> Cunter decisiuns che la Dretgira chantunala da mesiras repressivas prenda sin basa da questa lescha e sin basa dal Concordat davart las mesiras cunter la violenza a chaschun d'occurrenzas da sport, poi vegnir fatg recurs giudizial administrativ tar la Dretgira superiura.
+
+<sup>2</sup> Las vacanzas da dretgira na valan betg.
 
 ## 7. Organisaziun da la polizia chantunala
 
