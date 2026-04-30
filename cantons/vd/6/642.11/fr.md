@@ -4,7 +4,7 @@ number: "642.11"
 title: LOI du 04.07.2000 sur les impôts directs cantonaux (LI)
 short: LI
 language: fr
-version: 2026-01-01
+version: 2026-05-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/642.11?id=8df99d51-8df8-49ed-9ef5-2fa4817d0004"
 ---
 
@@ -221,6 +221,8 @@ décrète
 
 <sup>1</sup> Les époux qui vivent en ménage commun répondent solidairement du montant global de l'impôt. Lorsqu'ils ne vivent pas en ménage commun, la responsabilité solidaire prévue à la 1<sup>ère</sup> phrase cesse pour les montants d'impôt impayés résultant d'une imposition conjointe ; l'article 277m est réservé.
 
+<sup>1bis</sup> Lorsque l'un des époux est durablement insolvable, la responsabilité solidaire prévue à l'article 14, alinéa 1, 1ère phrase cesse, sur demande, pour les montants d'impôts impayés résultant d'une imposition conjointe ; pour autant que la prescription du droit de percevoir l'impôt n'est pas atteinte à l'égard de l'un des deux époux.
+
 <sup>2</sup> Les détenteurs de l'autorité parentale sont solidairement responsables de la part de l'impôt total qui frappe les revenus et la fortune de l'enfant; ils répondent en outre solidairement avec l'enfant mineur de l'impôt sur le produit de l'activité lucrative de celui-ci.
 
 <sup>3</sup> L'article 63, alinéa 2 est réservé.
@@ -235,7 +237,7 @@ décrète
 
 <sup>5</sup> L'administrateur d'une succession et l'exécuteur testamentaire répondent solidairement avec les successeurs fiscaux du défunt des impôts dus par celui-ci, jusqu'à concurrence du montant qui doit être affecté au paiement de l'impôt selon l'état de la succession au jour du décès. Ils sont libérés de toute responsabilité s'ils prouvent qu'ils ont pris tous les soins commandés par les circonstances. Cette libération de responsabilité est applicable aux personnes visées par l'alinéa 4, lettre d.
 
-[^13-2]: Modif. 46 du 29.04.2025: Modification Al. 1; entrée en vigueur au 01.01.2026 · Modif. 46 du 29.04.2025: Introduction Al. 1bis; entrée en vigueur au 01.05.2026
+[^13-2]: Modif. 46 du 29.04.2025: Modification Al. 1; entrée en vigueur au 01.01.2026; Introduction Al. 1bis; entrée en vigueur au 01.05.2026
 
 #### Art. 15
 
@@ -955,7 +957,7 @@ Pour chaque tranche de revenu net de 2'000 francs dépassant 116'000 francs et j
 
 <sup>5</sup> Les règles de l'article 14, alinéa 1 sur la responsabilité sont applicables par analogie.
 
-[^48a-1]: Modif. 7 du 14.12.2005: Modification Al. 4; entrée en vigueur au 30.12.2005 · Modif. 21 du 14.12.2010: Modification Al. 3; entrée en vigueur au 01.01.2011 · Modif. 41 du 14.12.2021: Modification Al. 2; entrée en vigueur au 01.01.2022 · Modif. 46 du 29.04.2025: Modification Al. 5; entrée en vigueur au 01.01.2026 · Modif. 46 du 29.04.2025: Introduction Art. 14, Al. 1bis; entrée en vigueur au 01.05.2026
+[^48a-1]: Modif. 7 du 14.12.2005: Modification Al. 4; entrée en vigueur au 30.12.2005 · Modif. 21 du 14.12.2010: Modification Al. 3; entrée en vigueur au 01.01.2011 · Modif. 41 du 14.12.2021: Modification Al. 2; entrée en vigueur au 01.01.2022 · Modif. 46 du 29.04.2025: Modification Al. 5; entrée en vigueur au 01.01.2026
 
 ### Titre III Impôt sur la fortune
 
@@ -4268,7 +4270,7 @@ Le Conseil d'Etat arrête les dispositions d'application du présent article ; l
 
 <sup>1</sup> L'article 14, alinéa 1, 2<sup>e</sup> phrase est applicable aux époux dont la séparation (art. 10) intervient dès la période fiscale 2026. Pour les époux dont la séparation (art. 10) intervient antérieurement et jusqu'à l'année 2025 y comprise, l'article 14, alinéa 1 dans sa teneur jusqu'au 31 décembre 2025 demeure applicable.
 
-[^277l-1]: Modif. 46 du 29.04.2025: Introduction tArt; entrée en vigueur au 01.01.2026; Introduction Al. 1; entrée en vigueur au 01.01.2026; Introduction Art. 277m; entrée en vigueur au 01.01.2026 · Modif. 46 du 29.04.2025: Introduction Art. 14, Al. 1bis; entrée en vigueur au 01.05.2026
+[^277l-1]: Modif. 46 du 29.04.2025: Introduction tArt; entrée en vigueur au 01.01.2026; Introduction Al. 1; entrée en vigueur au 01.01.2026; Introduction Art. 277m; entrée en vigueur au 01.01.2026
 
 #### Art. 278
 
