@@ -3,25 +3,23 @@ canton: VS
 number: "172.4"
 title: Gesetz betreffend die Besoldung der Angestellten des Staates Wallis
 language: de
-version: 2011-07-01
-corrected: 2017-09-01
-version_adopted: 2010-11-19
+version: 2026-05-01
+version_adopted: 2025-12-19
 adopted: 1982-11-12
 in_force: 1983-01-01
 url: "https://lex.vs.ch/app/de/texts_of_law/172.4"
-pdf: "https://lex.vs.ch/api/de/versions/655/pdf_file"
-text: pdf
+pdf: "https://lex.vs.ch/api/de/versions/3607/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Gesetz betreffend die Besoldung der Angestellten des Staates Wallis
 
-vom 12. November 1982
+vom 12.11.1982 (Stand 01.05.2026)
 
 Der Grosse Rat des Kantons Wallis
 
-eingesehen die Artikel 41, Ziffer 4 und 42 der Kantonsverfassung;
+eingesehen die Artikel 41 Absatz 1 Buchstabe d und 42 der Kantonsverfassung;
 
 eingesehen den Artikel 23 des Gesetzes betreffend das Dienstverhältnis der Beamten und Angestellten des Staates Wallis (Beamtengesetz);
 
@@ -29,33 +27,28 @@ auf Antrag des Staatsrates,
 
 verordnet:
 
-### 1. Kapitel: Allgemeine Bestimmungen
+## 1 Allgemeine Bestimmungen
 
 #### Art. 1
 
-<sup>4</sup> Anwendungsbereich
+**Anwendungsbereich**
 
-Das vorliegende Gesetz setzt, unter Vorbehalt von Sonderbestimmungen, die Besoldung aller Angestellten fest, die Inhaber einer im Ämterverzeichnis der kantonalen Verwaltung, der staatlichen Anstalten oder der Gerichtskanzleien aufgeführt sind.
+<sup>1</sup> Das vorliegende Gesetz setzt, unter Vorbehalt von Sonderbestimmungen, die Besoldung aller Angestellten fest, die Inhaber einer im Ämterverzeichnis der kantonalen Verwaltung, der staatlichen Anstalten oder der Gerichtskanzleien aufgeführt sind.
 
-### 2. Kapitel: Besoldung der Angestellten
+## 2 Besoldung der Angestellten
 
 #### Art. 2
 
-<sup>2,4,6</sup> Anspruch
+**Anspruch**
 
 <sup>1</sup> Der Angestellte hat Anspruch auf eine Besoldung. Diese wird, ausgenommen der dreizehnte Monatslohn, am Monatsende ausbezahlt und setzt sich zusammen aus:
 
-- 1\. Grundbesoldung
-
-- 2\. Individuelle Erhöhung aufgrund der Leistung
-
-- 3\. Dreizehnter Monatslohn
-
-- 4\. Leistungsprämie
-
-- 5\. Sozialzulagen
-
-- 6\. Spesenentschädigung und andere Zulagen.
+- a) Grundbesoldung;
+- b) Individuelle Erhöhung aufgrund der Leistung;
+- c) Dreizehnter Monatslohn;
+- d) Leistungsprämie;
+- e) Sozialzulagen;
+- f) Spesenentschädigung und andere Zulagen.
 
 <sup>2</sup> Der teilzeitbeschäftigte Angestellte erhält eine seinem Beschäftigungsgrad entsprechende Besoldung.
 
@@ -63,25 +56,21 @@ Das vorliegende Gesetz setzt, unter Vorbehalt von Sonderbestimmungen, die Besold
 
 #### Art. 3
 
-<sup>1,4</sup> Besoldungstabelle
+**Besoldungstabelle**
 
 <sup>1</sup> Die Grundbesoldung ist in der Besoldungstabelle festgelegt, welche integrierenden Bestandteil des vorliegenden Gesetzes bildet (Anhang 1).
 
 <sup>2</sup> Der Staatsrat kann im Rahmen dieser Besoldungstabelle Halb-Klassen einführen, sofern diese Massnahme offensichtlichen strukturellen Bedürfnissen gerecht wird.
 
-<sup>3</sup> Sofern der Arbeitsmarkt es erfordert und die finanzielle und wirtschaftliche Situation des Kantons es erlaubt, kann der Staatsrat auf dem Verordnungswege die Grundbesoldung angemessen bis höchstens 5% erhöhen.
-
-[^3-1]: Änderung vom 20.06.1995 GS/VS 1995, 36 1.1.1996; 1.1.1999
+<sup>3</sup> Sofern der Arbeitsmarkt es erfordert und die finanzielle und wirtschaftliche Situation des Kantons es erlaubt, kann der Staatsrat auf dem Verordnungswege die Grundbesoldung angemessen bis höchstens 5 Prozent erhöhen.
 
 #### Art. 4
 
-[^3-1]
-
-Aufgehoben.
+**…**
 
 #### Art. 5
 
-<sup>2</sup> Zuordnung und Neubewertung einer bestehenden Funktion
+**Zuordnung und Neubewertung einer bestehenden Funktion**
 
 <sup>1</sup> Jede Funktion wird in eine Funktionskette eingereiht. Die Anwendungsmodalitäten dieser Einreihung werden in einer besonderen Verordnung des Staatsrates festgelegt.
 
@@ -93,7 +82,7 @@ Aufgehoben.
 
 **Zuständigkeit für die Einreihung einer Funktion**
 
-Der Staatsrat reiht die neuen und die neu zu bewertenden Funktionen auf Antrag der Klassifikationskommission in die zutreffenden Besoldungsklassen ein.
+<sup>1</sup> Der Staatsrat reiht die neuen und die neu zu bewertenden Funktionen auf Antrag der Klassifikationskommission in die zutreffenden Besoldungsklassen ein.
 
 #### Art. 7
 
@@ -101,35 +90,31 @@ Der Staatsrat reiht die neuen und die neu zu bewertenden Funktionen auf Antrag d
 
 <sup>1</sup> Die Klassifikationskommission wird zu Beginn jeder Amtsperiode vom Staatsrat, auf Anhören der interessierten Kreise, ernannt. Er bezeichnet deren Präsidenten. Sie besteht aus sieben Mitgliedern und setzt sich wie folgt zusammen:
 
-- Vorsteher des Personalamtes;
-
-- zwei vom Staatsrat bezeichnete Mitglieder des Personals;
-
-- zwei Vertretern der Personalverbände, wovon einer des Zentralverbandes der Magistraten, der Lehrerschaft und des Personals des Staates Wallis;
-
-- ein Mitglied der Finanzkommission des Grossen Rates;
-
-- ein Mitglied der Geschäftsprüfungskommission des Grossen Rates.
+- a) Vorsteher des Personalamtes;
+- b) zwei vom Staatsrat bezeichnete Mitglieder des Personals;
+- c) zwei Vertretern der Personalverbände, wovon einer des Zentralverbandes der Magistraten, der Lehrerschaft und des Personals des Staates Wallis;
+- d) ein Mitglied der Finanzkommission des Grossen Rates;
+- e) ein Mitglied der Geschäftsprüfungskommission des Grossen Rates.
 
 <sup>2</sup> Eine ausgewogene Vertretung der verschiedenen Funktionskategorien ist zu gewährleisten.
 
 <sup>3</sup> Das Sekretariat der Kommission wird vom Personalamt geführt.
 
-#### Art. 7bis
+#### Art. 7a
 
-<sup>4</sup> Anlaufstufen
+**Anlaufstufen**
 
-<sup>1</sup> Der Staatsrat kann auf dem Verordnungswege für die ersten Dienstjahre Anlaufstufen festlegen, die eine Verminderung der Besoldung gemäss den ordentlichen Bestimmungen um höchstens 6% zur Folge haben.
+<sup>1</sup> Der Staatsrat kann auf dem Verordnungswege für die ersten Dienstjahre Anlaufstufen festlegen, die eine Verminderung der Besoldung gemäss den ordentlichen Bestimmungen um höchstens 6 Prozent zur Folge haben.
 
 <sup>2</sup> Bei der Ausgestaltung dieser Anlaufstufen kann den Leistungen und dem Verhalten des Angestellten Rechnung getragen werden.
 
 #### Art. 8
 
-<sup>2,4</sup> Individuelle Erhöhung aufgrund der Leistung
+**Individuelle Erhöhung aufgrund der Leistung**
 
-<sup>1</sup> Die Differenz zwischen dem Minimum und dem Maximum der Besoldung beträgt 40%.
+<sup>1</sup> Die Differenz zwischen dem Minimum und dem Maximum der Besoldung beträgt 40 Prozent.
 
-<sup>2</sup> Der Staatsrat gewährt dem Angestellten alljährlich eine Erhöhung, welche bis zu 3% betragen kann, soweit seine Leistungen und sein Verhalten dies rechtfertigen.
+<sup>2</sup> Der Staatsrat gewährt dem Angestellten alljährlich eine Erhöhung, welche bis zu 3 Prozent betragen kann, soweit seine Leistungen und sein Verhalten dies rechtfertigen.
 
 <sup>3</sup> Der Staatsrat kann auf dem Verordnungswege vorsehen, dass diese Erhöhung erst nach Beendigung der Anlaufstufen beginnt.
 
@@ -137,43 +122,37 @@ Der Staatsrat reiht die neuen und die neu zu bewertenden Funktionen auf Antrag d
 
 <sup>5</sup> Bei jeder Neueinreihung einer Funktion behält der Angestellte in der Regel seine erworbenen Erhöhungen.
 
-<sup>6</sup> Je nach Finanzlage des Staates kann der Staatsrat auf die Skala in Abs. 2 einen Koeffizienten von 0,6 - 1,4 anwenden. Ohne gegenteiligen Beschluss beträgt der Koeffizient 1.
+<sup>6</sup> Je nach Finanzlage des Staates kann der Staatsrat auf die Skala in Abs. 2 einen Koeffizienten von 0.6 bis 1.4 anwenden. Ohne gegenteiligen Beschluss beträgt der Koeffizient 1.
 
 #### Art. 9
 
-<sup>2,4</sup> Leistungsprämie
+**Leistungsprämie**
 
 <sup>1</sup> Der Angestellte, der das Besoldungsmaximun erreicht hat, kann aufgrund seiner Leistungen und seines Verhaltens (Qualifikation) in den Genuss einer Leistungsprämie gelangen.
 
 <sup>2</sup> Die Leistungen und das Verhalten des Angestellten werden namentlich aufgrund der folgenden Kriterien beurteilt:
 
-- qualitatives Arbeitsergebnis;
-
-- quantitatives Arbeitsergebnis;
-
-- wirtschaftliches Verhalten;
-
-- soziales Verhalten;
-
-- Einhalten von Vorschriften, Anordnungen und Vereinbarungen.
+- a) qualitatives Arbeitsergebnis;
+- b) quantitatives Arbeitsergebnis;
+- c) wirtschaftliches Verhalten;
+- d) soziales Verhalten;
+- e) Einhalten von Vorschriften, Anordnungen und Vereinbarungen.
 
 <sup>3</sup> Der Staatsrat kann auf dem Verordnungswege andere Kriterien festlegen, welche die vorstehenden Kriterien ergänzen oder ersetzen.
 
-<sup>4</sup> Die Leistungsprämie beträgt bis zu 7%, berechnet auf die Grundbesoldung und die individuelle Erhöhung.
+<sup>4</sup> Die Leistungsprämie beträgt bis zu 7 Prozent, berechnet auf die Grundbesoldung und die individuelle Erhöhung.
 
-<sup>5</sup> Je nach Finanzlage des Staates kann der Staatsrat auf diese Skala einen Koeffizienten von 0,6 - 1,4 anwenden. Ohne gegenteiligen Beschluss beträgt der Koeffizient 1.
+<sup>5</sup> Je nach Finanzlage des Staates kann der Staatsrat auf diese Skala einen Koeffizienten von 0.6 bis 1.4 anwenden. Ohne gegenteiligen Beschluss beträgt der Koeffizient 1.
 
 <sup>6</sup> Die Gewährung der alljährlich neu zugeteilten Leistungsprämie stellt kein erworbenes Recht dar.
 
-#### Art. 9bis
+#### Art. 9a
 
-<sup>2,4</sup>
+**…**
 
-Aufgehoben.
+#### Art. 9b
 
-#### Art. 9ter
-
-<sup>2</sup> Bezugsrecht der Leistungsprämie
+**Bezugsrecht der Leistungsprämie**
 
 <sup>1</sup> Der Angestellte kann nach Erreichung von zehn Erfahrungsanteilen entsprechend seiner Qualifikation die Leistungsprämie erhalten.
 
@@ -181,13 +160,13 @@ Aufgehoben.
 
 #### Art. 10
 
-<sup>2,4</sup> Dreizehnter Monatslohn
+**Dreizehnter Monatslohn**
 
 <sup>1</sup> Zusätzlich zur jährlichen Besoldung hat der Angestellte Anspruch auf den dreizehnten Monatslohn.
 
 <sup>2</sup> Dieser entspricht einem Zwölftel der Jahresbesoldung, bestehend aus der Grundbesoldung und der individuellen Erhöhung. Er wird im Monat Dezember ausbezahlt.
 
-<sup>3</sup> Aufgehoben.
+<sup>3</sup> …
 
 <sup>4</sup> Die Einführungs- und Anwendungsmodalitäten des dreizehnten Monatslohnes werden in einem Reglement des Staatsrates festgelegt.
 
@@ -211,23 +190,21 @@ Aufgehoben.
 
 <sup>3</sup> In allen anderen Fällen gelten folgende Vergütungen:
 
-- für das erste Jahr: vollständige Besoldung während sechs Monaten;
-
-- für das zweite Jahr: während acht Monaten;
-
-- für das dritte Jahr: während zwölf Monaten.
+- a) für das erste Jahr: vollständige Besoldung während sechs Monaten;
+- b) für das zweite Jahr: während acht Monaten;
+- c) für das dritte Jahr: während zwölf Monaten.
 
 <sup>4</sup> Nach Ablauf der in den Absätzen 2 und 3 gewährten Lohnleistungen kommen die einschlägigen Bestimmungen der Vorsorgekasse zur Anwendung.
 
 #### Art. 13
 
-<sup>7</sup> Besoldung bei Unfall
+**Besoldung bei Unfall**
 
 <sup>1</sup> Bei Betriebsunfall ohne grobes Verschulden des Angestellten wird diesem vom Staat während der Arbeitsunfähigkeit die volle Besoldung ausbezahlt, bis er im Besitz einer Invalidenversicherungsrente ist, maximal aber während zwei Jahren.
 
 <sup>2</sup> Bei Berufskrankheiten gelten die gleichen Bestimmungen wie in Absatz 1.
 
-<sup>3</sup> Bei Nichtbetriebsunfall bezieht der Angestellte dieselbe Besoldung wie im Krankheitsfall. Ist der Angestellte obligatorisch versichert, fallen die Versicherungsleistungen an den Staat, solange dieser die Besoldung leistet. Für die Zeit, während welcher der Angestellte 50% seiner Besoldung erhält, verbleiben ihm die Leistungen der Unfallversicherung bis zur Höhe der vollen Besoldung. Der Bezüger von Leistungen der Militärversicherung oder der Invalidenversicherung gilt als obligatorisch versicherter Angestellter.
+<sup>3</sup> Bei Nichtbetriebsunfall bezieht der Angestellte dieselbe Besoldung wie im Krankheitsfall. Ist der Angestellte obligatorisch versichert, fallen die Versicherungsleistungen an den Staat, solange dieser die Besoldung leistet. Für die Zeit, während welcher der Angestellte 50 Prozent seiner Besoldung erhält, verbleiben ihm die Leistungen der Unfallversicherung bis zur Höhe der vollen Besoldung. Der Bezüger von Leistungen der Militärversicherung oder der Invalidenversicherung gilt als obligatorisch versicherter Angestellter.
 
 <sup>4</sup> Bei groben Verschulden hat der verunfallte Angestellte, sofern er obligatorisch versichert ist, keinen Besoldungsanspruch, bezieht aber gegebenenfalls die Leistungen der Versicherung. Ist er nicht obligatorisch versichert, so kann der Staatsrat die in Artikel 12 vorgesehenen Leistungen kürzen.
 
@@ -235,7 +212,7 @@ Aufgehoben.
 
 #### Art. 14
 
-<sup>1</sup> Besoldung bei Mutterschaft und Adoption
+**Besoldung bei Mutterschaft und Adoption**
 
 <sup>1</sup> Bei Mutterschaft besteht Anspruch auf Besoldung während der Dauer von sechzehn Wochen Arbeitsunterbruch, sofern das Arbeitsverhältnis nach der Niederkunft noch während mindestens sechs Monaten weitergeführt wird.
 
@@ -263,23 +240,21 @@ Aufgehoben.
 
 **Besoldungsabzüge**
 
-Das Finanzdepartement verfügt nach Anhören des betreffenden Angestellten die gebotenen Besoldungsabzüge, sofern dieser den Vorschriften betreffend das Melden der Ferien, des Aussendienstes, der Krankheit oder des Militärdienstes nicht nachkommt.
-
-[^16-1]: Änderung vom 12.10.2006 GS/VS 2007, 54 1.1.2007
+<sup>1</sup> Das Finanzdepartement verfügt nach Anhören des betreffenden Angestellten die gebotenen Besoldungsabzüge, sofern dieser den Vorschriften betreffend das Melden der Ferien, des Aussendienstes, der Krankheit oder des Militärdienstes nicht nachkommt.
 
 #### Art. 17
 
-**Aufgehoben**[^16-1]
+**…**
 
 #### Art. 18
 
 **Beginn und Ende des Besoldungsanspruchs**
 
-Der Anspruch auf Besoldung beginnt mit dem Tag des Dienstantritts und endet mit dem Tag der Auflösung des Dienstverhältnisses.
+<sup>1</sup> Der Anspruch auf Besoldung beginnt mit dem Tag des Dienstantritts und endet mit dem Tag der Auflösung des Dienstverhältnisses.
 
-#### Art. 18bis
+#### Art. 18a
 
-<sup>4</sup> Kapitalabfindung
+**Kapitalabfindung**
 
 <sup>1</sup> Der Staatsrat kann auf dem Verordnungswege die Auszahlung einer Kapitalabfindung an Angestellte bei vorzeitiger Pensionierung vorsehen.
 
@@ -289,49 +264,53 @@ Der Anspruch auf Besoldung beginnt mit dem Tag des Dienstantritts und endet mit 
 
 **Besoldungsnachgenuss**
 
-Stirbt ein Angestellter im Staatsdienst, so erhält seine Familie, sofern er deren Versorger war, einen Besoldungsnachgenuss während dreier Monaten, unter Abzug der Leistungen der Vorsorgekasse.
+<sup>1</sup> Stirbt ein Angestellter im Staatsdienst, so erhält seine Familie, sofern er deren Versorger war, einen Besoldungsnachgenuss während dreier Monaten, unter Abzug der Leistungen der Vorsorgekasse.
 
-#### Art. 19bis
+#### Art. 19a
 
-<sup>4,6</sup> Teuerung
+**Teuerung**
 
-<sup>1</sup> Die Lohnbestandteile mit Ausnahme der Sozialzulagen und der Entschädigungen werden einmal pro Jahr am 1. Januar aufgrund des Landesindexes der Konsumentenpreise des vorherigen Monats Dezember der Teuerung angepasst.
+<sup>1</sup> Die Lohnbestandteile mit Ausnahme der Sozialzulagen und der Entschädigungen werden einmal pro Jahr am 1. Januar auf der Grundlage des Landesindexes der Konsumentenpreise des vorherigen Monats März der Teuerung angepasst.
 
-<sup>2</sup> Sofern es die Finanzlage des Staates erfordert, kann der Staatsrat beschliessen, die Teuerungszulage ausnahmsweise ganz oder teilweise nicht auszubezahlen.
+<sup>2</sup> Sofern es die Finanzlage des Staates erfordert, kann der Staatsrat beschliessen, die Teuerungszulage ganz oder teilweise nicht auszubezahlen.
 
-<sup>3</sup> Die nicht vorgenommene Anpassung an die Teuerung kann je nach finanzieller Situation des Staates ohne Kompensation ganz oder teilweise nachgeholt werden.
+<sup>3</sup> Die nicht vorgenommene Anpassung an die Teuerung kann je nach finanzieller Situation des Staates im Rahmen des Budgetprozesses ohne Kompensation ganz oder teilweise nachgeholt werden.
 
-### 3. Kapitel: Sozialzulagen
+## 3 Sozialzulagen
 
 #### Art. 20
 
-<sup>4,6</sup> Familienzulagen
+**Familienzulagen**
 
-Die Familienzulagen werden durch die Spezialgesetzgebung des Bundes und des Kantons geregelt.
+<sup>1</sup> Die Familienzulagen werden durch die Spezialgesetzgebung des Bundes und des Kantons geregelt.
 
 #### Art. 21
 
-<sup>4,6</sup> Sozialzulage für erwerbsunfähige Kinder
+**Sozialzulage für erwerbsunfähige Kinder**
 
 <sup>1</sup> Der Angestellte erhält eine Sozialzulage für Kinder ab dem erfüllten 20. Altersjahr, die Anrecht auf den Abzug für unterstützungsbedürftige Personen im Sinne von Artikel 213 Absatz 1 Buchstabe b des Bundesgesetzes vom 14. Dezember 1990 über die direkte Bundessteuer geben.
 
 <sup>2</sup> Der Betrag dieser Zulage entspricht jener der Kinderzulage gemäss der kantonalen Gesetzgebung über die Familienzulagen.
 
-[^21-1]: Änderung vom 20.06.1995 GS/VS 1995, 36 1.1.1996; 1.1.1999
+#### Art. 22
 
-#### Art. 22 bis
+**…**
 
-**24[^21-1]**
+#### Art. 23
 
-Aufgehoben.
+**…**
 
-### 4. Kapitel: Spesenentschädigung und andere Zulagen
+#### Art. 24
+
+**…**
+
+## 4 Spesenentschädigung und andere Zulagen
 
 #### Art. 25
 
 **Spesenentschädigung**
 
-Der Angestellte hat für die aus seiner Tätigkeit im Aussendienst erwachsenen Spesen Anspruch auf Entschädigung. Die Anwendung dieses Grundsatzes wird in einer staatsrätlichen Verordnung, nach Anhören der Personalverbände, geregelt.
+<sup>1</sup> Der Angestellte hat für die aus seiner Tätigkeit im Aussendienst erwachsenen Spesen Anspruch auf Entschädigung. Die Anwendung dieses Grundsatzes wird in einer staatsrätlichen Verordnung, nach Anhören der Personalverbände, geregelt.
 
 #### Art. 26
 
@@ -341,107 +320,195 @@ Der Angestellte hat für die aus seiner Tätigkeit im Aussendienst erwachsenen S
 
 <sup>2</sup> Zulagen werden jedoch nur unter Voraussetzung gewährt, dass die besonderen Umstände wie Erschwernisse und Belastungen von vorübergehender Natur nicht in der Grundbesoldung bereits berücksichtigt sind.
 
-### 5. Kapitel: Arbeitszeit
+## 5 Berufliche Vorsorge
 
-[^h5KapitelArbeitsz-1]: Änderung gemäss Art. 71 Ziff. 1 des Gesetzes Abl. Nr. 48/2010 1.07.2011 über das Personal des Staates Wallis vom und 26/2011 19.11.2010
+#### Art. 26a
+
+**Berufliche Vorsorge**
+
+<sup>1</sup> Das dem vorliegenden Gesetz unterstellte Personal ist gegen die wirtschaftlichen Folgen von Alter, Invalidität und Tod bei der PKWAL versichert.
+
+<sup>2</sup> Vorbehalten bleiben spezialgesetzliche Bestimmungen sowie die im Gesetz PKWAL vorgesehenen Übergangsbestimmungen.
+
+#### Art. 26b
+
+**Massgebendes Gehalt**
+
+<sup>1</sup> Das massgebende Jahresgehalt der monatlich entlöhnten Angestellten besteht aus dem Grundgehalt, allfälligen Erfahrungsanteilen, der individuellen Erhöhung aufgrund der Leistung sowie der Leistungsprämie von bis zu höchstens 5 Prozent. Der 13. Monatslohn und allfällige Gratifikationen sind nicht versichert.
+
+<sup>2</sup> Das massgebende Jahresgehalt der nicht monatlich entlöhnten Angestellten besteht aus dem ausbezahlten Bruttogehalt. Der 13. Monatslohn und allfällige Gratifikationen sind nicht versichert.
+
+#### Art. 26c
+
+**Versichertes Gehalt**
+
+<sup>1</sup> Das versicherte Gehalt entspricht dem massgebenden Gehalt abzüglich eines Koordinationsbetrages.
+
+<sup>2</sup> Der Koordinationsbetrag entspricht 15 Prozent des massgebenden Gehaltes.
+
+<sup>3</sup> Das versicherte Gehalt dient als Basis für die Festlegung der Beiträge und Leistungen. Für die nicht monatlich entlöhnten Angestellten werden die Beiträge auf Basis des ausbezahlten Bruttogehalts abzüglich eines Koordinationsbetrages von 15 Prozent berechnet. Für letztere entspricht das versicherte Jahresgehalt der Kumulation der ausbezahlten Bruttogehälter der letzten 12 Monate, abzüglich des Koordinationsfaktors. Diese Bestimmung findet analoge Anwendung auf die variablen Bestandteile des Gehalts, mit Ausnahme der Leistungsprämien.
+
+<sup>4</sup> Das versicherte Gehalt wird an jede Änderung des massgebenden Gehalts angepasst.
+
+<sup>5</sup> Der Staatsrat erlässt die notwendigen Ausführungsbestimmungen auf dem Verordnungswege.
+
+#### Art. 26d
+
+**Referenzrentenalter**
+
+<sup>1</sup> Das Referenzrentenalter für sämtliche Angestellten entspricht dem gesetzlichen AHV-Rentenalter.
+
+<sup>2</sup> Für das Personal der Strafanstalten und der Kantonspolizei entspricht das Referenzalter dem gesetzlichen AHV-Rentenalter mit einem Vorbezug von zwei Jahren.
+
+#### Art. 26e
+
+**Flexibles Rentenalter**
+
+<sup>1</sup> Der Staat Wallis bietet seinen Angestellten die Möglichkeit eines flexiblen Rentenalters zwischen 58 und 70 Jahren an.
+
+<sup>2</sup> Der Staatsrat kann auf dem Verordnungswege die Ausführungsbestimmungen für die Einführung des flexiblen Rentenalters festlegen.
+
+#### Art. 26f
+
+**Beginn einer möglichen Mitgliedschaft bei der Vorsorgeeinrichtung**
+
+<sup>1</sup> Der Staatsrat legt in einer Verordnung fest, ab welchem Zeitpunkt das Personal frühestens bei seiner beruflichen Vorsorgeeinrichtung versichert werden kann.
+
+#### Art. 26g
+
+**Finanzierung der Vorsorge**
+
+<sup>1</sup> Die Arbeitgeberbeiträge für die Altersvorsorge, die Risikoversicherung und die Deckung der administrativen Kosten der PKWAL machen insgesamt mindestens 13 Prozent und höchstens 15,5 Prozent der versicherbaren Lohnsumme aus. Ihre Höhe richtet sich nach den 57 Prozent der Finanzierung der Beiträge zulasten des Staates Wallis, der Risikostruktur und der Altersstruktur der Angestellten, den langfristigen Ertragsaussichten, der Änderung des technischen Zinssatzes und des Umwandlungssatzes sowie der Wirtschaftslage des Staates Wallis.
+
+<sup>1<sup>bis</sup></sup> Die Versicherten der OPK erhalten die Möglichkeit, aus mindestens drei verschiedenen Sparmodellen auszuwählen. Durch höhere Sparbeiträge können sie ihre Altersgutschriften verbessern. Die zusätzlichen Sparbeiträge gehen ausschliesslich zu Lasten des Arbeitnehmers.
+
+<sup>2</sup> Für das Personal der Strafanstalten und der Kantonspolizei beträgt der in Absatz 1 genannte Prozentsatz mindestens 14 Prozent und höchstens 16,5 Prozent.
+
+#### Art. 26h
+
+**AHV-Überbrückungsrenten und ihre Finanzierung**
+
+<sup>1</sup> Für den Fall, dass der Rücktritt vor dem Referenzrentenalter angetreten wird, ist eine AHV-Überbrückungsrente vorgesehen.
+
+<sup>2</sup> Der maximale globale Grenzbetrag der AHV-Überbrückungsrente, der für den Finanzierungsanteil des Arbeitgebers im Sinne von Absatz 3 massgebend ist, entspricht bei einer Mitgliedschaftsdauer von mindestens 20 Jahren bei der PKWAL drei jährlichen maximalen AHV-Renten. Dies gilt für alle Angestellten mit Ausnahme des Personals der Strafanstalten und der Kantonspolizei, für welche die Grenze 5 jährlichen maximalen AHV-Renten entspricht.
+
+<sup>3</sup> Innerhalb dieser Begrenzung wird die Finanzierung der AHV-Überbrückungsrente paritätisch zu je 50 Prozent durch den Arbeitgeber und 50 Prozent durch den Angestellten sichergestellt.
 
 #### Art. 27
 
-**Aufgehoben**[^h5KapitelArbeitsz-1]
+**…**
 
-#### Art. 27bis
+#### Art. 27a
 
-<sup>4</sup> Herabsetzung des Beschäftigungsgrades
+**Herabsetzung des Beschäftigungsgrades**
 
-<sup>1</sup> Der Staatsrat kann auf dem Verordnungswege für den Angestellten auf sein Gesuch hin die Möglichkeit vorsehen, seinen Beschäftigungsgrad in den letzten fünf Jahren vor Erreichung der statutarischen Alterslimite um höchstens 20% herabzusetzen.
+<sup>1</sup> Der Staatsrat sieht auf dem Verordnungswege die Möglichkeit sowie die Bedingungen, insbesondere die maximale Dauer, vor, auf Gesuch eines Angestellten hin dessen Beschäftigungsgrad um höchstens 20 Prozent zu reduzieren, sobald dieser das flexible Rentenalter erreicht hat. Das Personal der Strafanstalten und der Kantonspolizei kann diese Möglichkeit um 2 Jahre vorziehen.
 
 <sup>2</sup> Diese Herabsetzung hat eine entsprechende Verminderung der Besoldung zur Folge.
 
 <sup>3</sup> Der Staat übernimmt für den Teil des herabgesetzten Beschäftigungsgrades mindestens die Bezahlung der Arbeitgeberbeiträge an die berufliche Vorsorge, um das versicherte Gehalt auf dem früheren Stand beizubehalten.
 
-### 6. Kapitel: Ferien
-
-[^h6KapitelFerien-1]: Änderung gemäss Art. 71 Ziff. 1 des Gesetzes Abl. Nr. 48/2010 1.07.2011 über das Personal des Staates Wallis vom und 26/2011 19.11.2010
+## 6 Ferien
 
 #### Art. 28
 
-**Aufgehoben**[^h6KapitelFerien-1]
+**…**
 
 #### Art. 29
 
-<sup>4</sup> Arbeitsfreie Tage
+**Arbeitsfreie Tage**
 
 <sup>1</sup> Neben den kantonalen Feiertagen gelten als arbeitsfreie Tage:
 
-Karfreitag, Ostermontag, 1. Mai (½ Tag), Pfingstmontag, 1. August, 24. Dezember (½ Tag), 26. Dezember oder der nächstfolgende Arbeitstag nach Weihnachten sowie der 31. Dezember (½ Tag).
+Karfreitag, Ostermontag, 1. Mai (1/2 Tag), Pfingstmontag, 1. August, 24. Dezember (1/2 Tag), 26. Dezember oder der nächstfolgende Arbeitstag nach Weihnachten sowie der 31. Dezember (1/2 Tag).
 
 <sup>2</sup> Der Staatsrat erlässt Vorschriften über Sonderurlaube.
 
 <sup>3</sup> Der Staatsrat kann den Angestellten bis zu vier zusätzliche arbeitsfreie Tage gewähren. Diese Massnahme kann mit Auswirkungen in der Besoldung verbunden werden.
 
-### 7. Kapitel: Übergangs- und Schlussbestimmungen
+## 7 Übergangs- und Schlussbestimmungen
 
 #### Art. 30
 
-<sup>4,7</sup> Aufhebung bisherigen Rechts
+**Aufhebung bisherigen Rechts**
 
-<sup>1</sup> Mit dem Inkrafttreten dieses Gesetzes werden alle diesem widersprechenden kantonalen Bestimmungen aufgehoben, insbesondere jene des Reglementes vom 19. April 1968 betreffend das Dienstverhältnis der Beamten, Angestellten und Arbeiter des Staates Wallis, mit all seinen Änderungen und Ausführungsbestimmungen, sowie das Reglement vom 19. Mai 1976 betreffend die Besoldung der Beamten.
+<sup>1</sup> Mit dem Inkrafttreten dieses Gesetzes werden alle diesem widersprechenden kantonalen Bestimmungen aufgehoben, insbesondere jene des Reglementes betreffend das Dienstverhältnis der Beamten, Angestellten und Arbeiter des Staates Wallis vom 19. April 1968, mit all seinen Änderungen und Ausführungsbestimmungen, sowie das Reglement betreffend die Besoldung der Beamten vom 19. Mai 1976.
 
-<sup>2</sup> Aufgehoben
+<sup>2</sup> …
 
-#### Art. 30bis
+#### Art. 30a
 
-<sup>4</sup> Dreizehnter Monatslohn
+**Dreizehnter Monatslohn**
 
-Die Auszahlung des letzten Sechstels des dreizehnten Monatslohnes wird sistiert.
+<sup>1</sup> Die Auszahlung des letzten Sechstels des dreizehnten Monatslohnes wird sistiert.
 
 <sup>2</sup> Der Grosse Rat kann diese Massnahme mit einem Beschluss aufheben, wenn die Finanzlage des Kantons dies erlaubt.
 
-[^30bis-1]: Änderung vom 12.11.1993 GS/VS 1993, 38 1.1.1994
-
 #### Art. 31
 
-[^30bis-1]
-
-Aufgehoben.
+**…**
 
 #### Art. 32
 
-<sup>4</sup> Inkrafttreten
+**Inkrafttreten**
 
-Der Staatsrat bestimmt das Inkrafttreten des vorliegenden Gesetzes.
+<sup>1</sup> Der Staatsrat bestimmt das Inkrafttreten des vorliegenden Gesetzes.
 
-So angenommen in zweiter Lesung im Grossen Rate zu Sitten, den 12. November 1982.
+#### Art. T1-1
 
-Der Präsident des Grossen Rates: A. Arlettaz Die Schriftführer: A. Burrin, P. Amherd
+**Übergangsbestimmung der Änderung vom 19. Dezember 2025**
 
-### Titel und Änderungen Veröffentlichung Inkrafftreten
+<sup>1</sup> Die Teuerungsanpassung auf den 1. Januar, der auf das Jahr des Inkrafttretens der Änderung vom 19. Dezember 2025 folgt, wird gemäss der Differenz zwischen dem Landesindex der Konsumentenpreise (LIK) vom März des laufenden Jahres und dem LIK vom Dezember des Vorjahres berechnet.
 
-**1.1.1983**
+## A1 Anhang 1 zu Artikel 3 Absatz 1
 
-GS/VS 1982, 67
+#### Art. A1-1
 
-## Anhang 1
+**Besoldungstabelle der kantonalen Verwaltung**
 
-### Besoldungstabelle der kantonalen Verwaltung
+<sup>1</sup> Jahresbesoldung Index 118.4 Punkte (Stand am 01.01.1990)
 
-Jahresbesoldung Index 118,4 Punkte (Stand am 1.1.1990)
+<table>
+<tr><th>Klassen</th><th>Minimum</th><th>Maximum</th></tr>
+<tr><td>1a</td><td>Fr. 94'379</td><td>Fr. 132'131</td></tr>
+<tr><td>1b</td><td>Fr. 92'528</td><td>Fr. 129'539</td></tr>
+<tr><td>1c</td><td>Fr. 90'715</td><td>Fr. 127'001</td></tr>
+<tr><td>1d</td><td>Fr. 88'936</td><td>Fr. 124'510</td></tr>
+<tr><td>1</td><td>Fr. 87'192</td><td>Fr. 122'069</td></tr>
+<tr><td>2</td><td>Fr. 84'324</td><td>Fr. 118'054</td></tr>
+<tr><td>3</td><td>Fr. 81'551</td><td>Fr. 114'171</td></tr>
+<tr><td>4</td><td>Fr. 78'871</td><td>Fr. 110'419</td></tr>
+<tr><td>5</td><td>Fr. 76'277</td><td>Fr. 106'788</td></tr>
+<tr><td>6</td><td>Fr. 73'769</td><td>Fr. 103'277</td></tr>
+<tr><td>7</td><td>Fr. 71'343</td><td>Fr. 99'880</td></tr>
+<tr><td>8</td><td>Fr. 68'998</td><td>Fr. 96'597</td></tr>
+<tr><td>9</td><td>Fr. 66'729</td><td>Fr. 93'421</td></tr>
+<tr><td>10</td><td>Fr. 63'611</td><td>Fr. 89'055</td></tr>
+<tr><td>10.5</td><td>Fr. 62'125</td><td>Fr. 86'975</td></tr>
+<tr><td>11</td><td>Fr. 60'640</td><td>Fr. 84'896</td></tr>
+<tr><td>12</td><td>Fr. 57'808</td><td>Fr. 80'931</td></tr>
+<tr><td>12.5</td><td>Fr. 56'457</td><td>Fr. 79'040</td></tr>
+<tr><td>13</td><td>Fr. 55'107</td><td>Fr. 77'150</td></tr>
+<tr><td>13.5</td><td>Fr. 53'820</td><td>Fr. 75'348</td></tr>
+<tr><td>14</td><td>Fr. 52'533</td><td>Fr. 73'546</td></tr>
+<tr><td>15</td><td>Fr. 50'079</td><td>Fr. 70'111</td></tr>
+<tr><td>16</td><td>Fr. 47'739</td><td>Fr. 66'835</td></tr>
+<tr><td>17</td><td>Fr. 45'510</td><td>Fr. 63'714</td></tr>
+<tr><td>18</td><td>Fr. 43'384</td><td>Fr. 60'738</td></tr>
+<tr><td>19</td><td>Fr. 41'357</td><td>Fr. 57'900</td></tr>
+<tr><td>20</td><td>Fr. 39'425</td><td>Fr. 55'195</td></tr>
+<tr><td>21</td><td>Fr. 37'584</td><td>Fr. 52'618</td></tr>
+<tr><td>22</td><td>Fr. 35'828</td><td>Fr. 50'159</td></tr>
+<tr><td>23</td><td>Fr. 34'154</td><td>Fr. 47'816</td></tr>
+<tr><td>24</td><td>Fr. 32'559</td><td>Fr. 45'583</td></tr>
+<tr><td>25</td><td>Fr. 31'039</td><td>Fr. 43'455</td></tr>
+<tr><td>26</td><td>Fr. 29'589</td><td>Fr. 41'425</td></tr>
+</table>
 
-### Klassen Minimum Maximum
+## A2
 
-1a 94 379.- 132 131.- 1b 92 528.- 129 539.- 1c 90 715.- 127 001.- 1d 88 936.- 124 510.- 1 87 192.- 122 069.- 2 84 324.- 118 054.- 3 81 551.- 114 171.- 4 78 871.- 110 419.- 5 76 277.- 106 788.- 6 73 769.- 103 277.- 7 71 343.- 8 68 998.- 9 66 729.- 10 63 611.- 10,5 62 125.- 11 60 640.- 12 57 808.- 12,5 56 457.- 13 55 107.- 13,5 53 820.- 14 52 533.- 15 50 079.- 16 47 739.- 17 45 510.- 18 43 384.- 19 41 357.- 20 39 425.- 21 37 584.- 22 35 828.- 23 34 154.- 24 32 559.- 25 31 039.- 26 29 589.-
+#### Art. A2-1
 
-## Anhang 2
+**…**
 
-### Familienzulagen
-
-**99 880.- 96 597.- 93 421.- 89 055.- 86 975.- 84 896.- 80 931.- 79 040.- 77 150.- 75 348.- 73 546.- 70 111.- 66 835.- 63 714.- 60 738.- 57 900.- 55 195.- 52 618.- 50 159.- 47 816.- 45 583.- 43 455.- 41 425.-**
-
-Aufgehoben[^hFamilienzulagen-1]
-
-[^hFamilienzulagen-1]: Änderung vom 11.09.2008 Abl. Nr. 39/2008 1.1.2009
-
-## Weitere Fussnoten
-
-- [1] Änderung vom 18.11.1988 GS/VS 1988, 103 1.1.1989
-- [2] Änderung vom 20.06.1990 GS/VS 1990, 58 1.9.1990
+CSW RO/AGS 1982 f 65 | d 67
