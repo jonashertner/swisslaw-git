@@ -4,13 +4,12 @@ number: "172.2"
 title: Gesetz über das Personal des Staates Wallis
 short: kGPers
 language: de
-version: 2020-01-01
-corrected: 2020-01-07
-version_adopted: 2019-05-09
+version: 2026-05-01
+version_adopted: 2025-12-19
 adopted: 2010-11-19
 in_force: 2011-07-01
 url: "https://lex.vs.ch/app/de/texts_of_law/172.2"
-pdf: "https://lex.vs.ch/api/de/versions/2580/pdf_file"
+pdf: "https://lex.vs.ch/api/de/versions/3602/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://lex.vs.ch/api/de/versions/2580/pdf_file"
 
 (kGPers)
 
-vom 19.11.2010 (Stand 01.01.2020)
+vom 19.11.2010 (Stand 01.05.2026)
 
 Der Grosse Rat des Kantons Wallis
 
@@ -209,15 +208,19 @@ verordnet:
 
 <sup>4</sup> Der Staatsrat kann für bestimmte hoheitliche Funktionen die Schweizer Staatsbürgerschaft verlangen.
 
+<sup>4<sup>bis</sup></sup> Die Anstellungsbehörde kann eine ergänzende psychologische Überprüfung oder eine Sicherheitskontrolle verlangen (insbesondere Auszug aus dem Strafregister, Auszug des Konkurs- und Betreibungsamtes).
+
 <sup>5</sup> Der Staatsrat definiert und garantiert einen methodischen und objektiven Personalrekrutierungsprozess.
+
+<sup>6</sup> Der Dienstchef, beziehungsweise der Departementsvorsteher, kann nach der Anstellung vom Mitarbeiter jederzeit den Nachweis verlangen, dass er die in diesem Artikel aufgeführten Bedingungen für die Ausübung seiner Funktion immer noch erfüllt.
 
 #### Art. 19
 
 **Probezeit**
 
-<sup>1</sup> Der Angestellte ist einer Probezeit von drei Monaten unterworfen.
+<sup>1</sup> Der Angestellte ist einer Probezeit von maximal sechs Monaten unterworfen.
 
-<sup>2</sup> Bei Zweifeln über die Eignung, die Leistung oder das Verhalten des Angestellten kann die Anstellungsbehörde entscheiden, die Probezeit um maximal drei Monate zu verlängern.
+<sup>2</sup> In der Regel wird die Probezeit nicht verlängert. Bei einer effektiven Verkürzung der Probezeit infolge Krankheit, Unfall oder Erfüllung einer nicht freiwillig übernommenen gesetzlichen Pflicht erfolgt eine entsprechende Verlängerung der Probezeit.
 
 <sup>3</sup> Im Verlaufe dieser Zeit findet ein Beurteilungsgespräch statt.
 
@@ -316,118 +319,122 @@ verordnet:
 
 <sup>5</sup> Die Weigerung des Angestellten, sich anlässlich der Anstellung oder später dieser ärztlichen Untersuchung zu unterziehen, kann ein Grund für eine sofortige Auflösung der Anstellung darstellen.
 
+#### Art. 28a
+
+**Information bei Strafverfolgung**
+
+<sup>1</sup> Ein Angestellter, der aufgrund eines Verbrechens oder Vergehens, das in Zusammenhang mit der Natur seiner beruflichen Tätigkeit steht oder dem Ansehen des Arbeitgebers schaden könnte, strafrechtlich verfolgt wird, ist verpflichtet, den Staatsrat unverzüglich darüber zu informieren. Er übermittelt dem Staatsrat umgehend den rechtskräftigen, in der Sache definitiv ergangenen Entscheid.
+
+<sup>2</sup> Die Strafjustizbehörden und die Staatsanwaltschaft, die sich mit einem Fall befassen, in dem ein Angestellter für ein Verbrechen oder ein Vergehen beschuldigt beziehungsweise angeklagt wird, das in Zusammenhang mit der Natur seiner beruflichen Tätigkeit steht oder dem Ansehen des Arbeitgebers schaden könnte, können den Staatsrat darüber informieren. Sie können dem Staatsrat den rechtskräftigen, in der Sache definitiv ergangenen Entscheid übermitteln.
+
+<sup>3</sup> Vorbehalten bleiben gegenteilige gesetzliche Bestimmungen.
+
 ## 4 Folgen der Dienstpflichtverletzung
 
 #### Art. 29
 
-**Grundsatz der disziplinarischen Verantwortung**
+**Grundsatz der administrativen Verantwortlichkeit**
 
-<sup>1</sup> Der Angestellte, der vorsätzlich oder fahrlässig seine Dienstpflicht verletzt, unterliegt der disziplinarischen Verantwortlichkeit.
+<sup>1</sup> Der Angestellte, der vorsätzlich oder fahrlässig seine Dienstpflicht verletzt, ist für sein Handeln haftbar.
 
-<sup>2</sup> Das Recht, Disziplinarstrafen auszusprechen, bleibt unabhängig von der Eröffnung eines Zivil- oder Strafverfahrens, das in Anbetracht derselben Tatsachen eingeleitet wurde, fortbestehen.
+<sup>2</sup> Das Recht, administrative Massnahmen zu ergreifen, bleibt unabhängig von der Eröffnung eines Zivil- oder Strafverfahrens, das aufgrund derselben Tatsachen eingeleitet wurde, fortbestehen.
 
 #### Art. 30
 
-**Disziplinarmassnahmen**
+**Administrative Massnahmen**
 
-<sup>1</sup> Nachfolgende Disziplinarmassnahmen sind anwendbar:
+<sup>1</sup> Nach Anhörung des Angestellten kann die zuständige Behörde folgende administrativen Massnahmen einleiten:
 
-- a) mündliche Verwarnung;
-- b) schriftlicher Verweis;
-- c) Geldbusse bis zu 5'000 Franken;
-- d) Herabsetzung der Besoldung bis zu einem Drittel für die Dauer von maximal einem Jahr;
-- e) Versetzung in eine tiefer eingereihte Funktion mit entsprechender Besoldung;
+- a) …
+- b) Verwarnung, sofern möglich mit Verbesserungsmassnahmen;
+- c) …
+- d) Kürzung der Besoldung um bis zu einem Drittel des Monatslohnes während höchstens eines Jahres;
+- e) Versetzung in eine andere Funktion oder an eine andere Stelle, die als gleichwertig oder tiefer betrachtet wird, mit einer der neuen Situation entsprechenden Besoldung;
 - f) fristlose Entlassung ohne Entschädigung.
 
-<sup>2</sup> Die Disziplinarmassnahme wird nach der Schwere der Verletzung der Dienstpflichten und nach dem früheren Verhalten des Angestellten festgesetzt.
+<sup>2</sup> Die administrative Massnahme wird nach der Schwere der Dienstpflichtverletzung und unter Berücksichtigung des bisherigen Verhaltens des Angestellten festgesetzt.
 
-<sup>3</sup> Wenn die Umstände es erfordern, können mehrere Disziplinarmassnahmen kumuliert werden.
+<sup>3</sup> Wenn es die Umstände erfordern, können verschiedene administrative Massnahmen miteinander verbunden werden.
 
-<sup>4</sup> Im Fall der Kündigung durch den betroffenen Angestellten kann die zuständige Behörde auf die Disziplinarmassnahme verzichten und die Kündigung annehmen, wenn diese Lösung unter den Gesamtumständen und den verschiedenen Interessen der Beteiligten als die angemessenste Lösung erscheint.
+<sup>4</sup> Falls der betroffene Angestellte seine Kündigung einreicht, kann die zuständige Behörde auf eine administrative Massnahme verzichten und die Kündigung akzeptieren, wenn dies unter Berücksichtigung aller Umstände und der verschiedenen Interessen die angemessenste Lösung ist.
 
 #### Art. 31
 
-**Zuständigkeit für das Verfügen von Disziplinarmassnahmen**
+**Zuständigkeit für das Verfügen von administrativen Massnahmen**
 
-<sup>1</sup> Die Anstellungsbehörde im Sinne vom Artikel 14 ist für das Verfügen von Disziplinarmassnahmen zuständig.
+<sup>1</sup> Die Anstellungsbehörde kann alle Arten von administrativen Massnahmen anordnen.
 
-<sup>2</sup> Zudem können der Departementsvorsteher und der Dienstchef die Massnahmen der mündlichen Verwarnung, des schriftlichen Verweises und der Geldbusse bis zu 1'000 Franken aussprechen, auch wenn sie nicht Anstellungsbehörde sind.
+<sup>2</sup> Der Dienstchef beziehungsweise der Departementsvorsteher kann eine Verwarnung aussprechen.
 
-<sup>3</sup> Bei Aussprechung einer Geldbusse bis zu 1'000 Franken wird die Vormeinung der mit dem Personalmanagement beauftragten zentralen Dienststelle eingeholt.
+<sup>3</sup> Stellt sich während der Untersuchung heraus, dass eine strengere Massnahme als eine Verwarnung zu verfügen wäre, übergibt der Dienstchef das Dossier der Anstellungsbehörde.
+
+<sup>4</sup> Die Anstellungsbehörde kann dem Staatsrat gegebenenfalls vorschlagen, die Disziplinarkommission anzurufen.
 
 #### Art. 32
 
-**Zuständigkeit für die Eröffnung des Disziplinarverfahrens**
+**…**
 
-<sup>1</sup> Der Entscheid zur Eröffnung eines Disziplinarverfahrens fällt grundsätzlich in die Zuständigkeit der Behörde, die für das Verfügen von Disziplinarmassnahmen zuständig ist.
+#### Art. 32a
 
-<sup>2</sup> Wenn die Eröffnung eines Disziplinarverfahrens von vorsorglichen Massnahmen im Sinne von Artikel 35 begleitet ist, liegen die Eröffnung und diese Massnahmen in der Zuständigkeit der Anstellungsbehörde.
+**Verwaltungsverfahren**
+
+<sup>1</sup> Die zuständige Behörde unterrichtet den Angestellten schriftlich über die gegen ihn erhobenen Vorwürfe. Der Angestellte hat namentlich das Recht, sich in ausreichender Weise zu äussern, alle zu seiner Entlastung dienenden Tatsachen vorzubringen und Beweismittel einzubringen.
+
+<sup>2</sup> Der Angestellte kann sich von einem Vertreter verbeiständen lassen.
+
+<sup>3</sup> Der Verwaltungsentscheid muss dem Angestellten begründet, in schriftlicher Form sowie unter Angabe der Rechtsmittel und der geltenden Fristen eröffnet werden.
 
 #### Art. 33
 
 **Disziplinarkommission**
 
-<sup>1</sup> Der Staatsrat ernennt eine Disziplinarkommission von drei bis fünf Mitgliedern, die beauftragt ist, die ihr vorgelegten Fälle zu prüfen und Anträge zu Handen der zuständigen Behörde auszuarbeiten.
+<sup>1</sup> Der Staatsrat ernennt eine Disziplinarkommission mit drei bis fünf Mitgliedern.
 
-<sup>2</sup> Der Disziplinarkommission werden nur Verfehlungen unterbreitet, die Gegenstand von härteren Massnahmen sind als diejenigen der mündlichen Verwarnung, des schriftlichen Verweises oder der Geldbusse bis zu 1'000 Franken.
+<sup>2</sup> Die Disziplinarkommission befasst sich mit Fällen von Belästigung und anderen Fällen, die der Staatsrat wegen ihrer Komplexität an sie überweist.
 
-<sup>3</sup> Die Disziplinarkommission hat den Angestellten einzuvernehmen und alles zur Untersuchung Dienliche vorzukehren.
+<sup>3</sup> Die Disziplinarkommission hat die Aufgabe, die ihr unterbreiteten Fälle zu prüfen und Vorschläge zuhanden der Anstellungsbehörde zu erarbeiten. Die Disziplinarkommission befragt den Angestellten und stellt sicher, dass alle dienlichen Untersuchungen durchgeführt werden.
 
-<sup>4</sup> Die Verordnung präzisiert die Zusammensetzung, die Organisation und die Tätigkeit der Disziplinarkommission.
+<sup>4</sup> Eine Verordnung präzisiert die Zusammensetzung, die Organisation und die Funktionsweise der Disziplinarkommission.
+
+<sup>5</sup> Auf Antrag der Disziplinarkommission oder unter Umständen von Amtes wegen überträgt der Staatsrat die Prüfung eines Falls einem oder mehreren unabhängigen externen Spezialisten.
 
 #### Art. 34
 
-**Disziplinarverfahren**
-
-<sup>1</sup> Die Eröffnung eines Disziplinarverfahrens muss dem betroffenen Angestellten unverzüglich schriftlich mitgeteilt werden.
-
-<sup>2</sup> Dem Angestellten werden die Elemente, die ihm vorgeworfen werden, zur Kenntnis gebracht. Der Angestellte hat das Recht, sich in ausreichender Weise zu äussern, alle Tatsachen seiner Verfehlungen geltend zu machen und Beweismittel einzubringen.
-
-<sup>3</sup> Der Angestellte kann sich von einem Berater verbeiständen lassen.
-
-<sup>4</sup> Der Disziplinarentscheid muss begründet und dem Angestellten schriftlich unter Angabe der Rechtsmittel zugestellt werden.
+**…**
 
 #### Art. 35
 
 **Vorsorgliche Massnahmen**
 
-<sup>1</sup> Bei der Eröffnung eines Disziplinarverfahrens kann die Anstellungsbehörde vorsorgliche Massnahmen treffen wie insbesondere die vorübergehende Versetzung des Angestellten oder die provisorische Suspendierung des Dienstverhältnisses, mit voller, teilweiser oder ohne Besoldung.
+<sup>1</sup> Die für die Verfügung der administrativen Massnahme zuständige Behörde kann jederzeit vorsorgliche Massnahmen treffen, mit voller, teilweiser oder ohne Besoldung.
 
 <sup>2</sup> Diese Massnahmen unterliegen einer Interessenabwägung und müssen dem überwiegenden öffentlichen Interesse dienen.
 
-<sup>3</sup> Der Angestellte muss vor der Fällung des Entscheids über die vorgesehenen Massnahmen informiert worden sein und die Gelegenheit gehabt haben, sich dazu zu äussern.
+<sup>3</sup> Unter Vorbehalt der Dringlichkeit muss der Angestellte vorweg über die vorgesehenen Massnahmen informiert worden sein und die Gelegenheit erhalten haben, sich dazu zu äussern.
 
 #### Art. 36
 
-**Rechtsweg**
-
-<sup>1</sup> Der Entscheid zur Eröffnung eines Disziplinarverfahrens und derjenige über die vorsorglichen Massnahmen sind nur unter restriktiven Bedingungen, welche die Artikel 41 und 42 des Gesetzes über das Verwaltungsverfahren und die Verwaltungsrechtspflege vom 6. Oktober 1976 regeln, mittels Beschwerde anfechtbar.
-
-<sup>2</sup> Der Disziplinarmassnahmenentscheid, der vom Departementsvorsteher oder von einem Dienstchef gefällt wurde, kann innert 30 Tagen ab Eröffnung beim Staatsrat mittels Verwaltungsbeschwerde angefochten werden.
-
-<sup>3</sup> Der Disziplinarmassnahmenentscheid, der vom Staatsrat gefällt wurde, kann innert 30 Tagen ab Eröffnung bei der öffentlich-rechtlichen Abteilung des Kantonsgerichts mittels Verwaltungsgerichtsbeschwerde angefochten werden.
-
-<sup>4</sup> Die Bestimmungen des Gesetzes über das Verwaltungsverfahren und die Verwaltungsrechtspflege sind anwendbar.
+**…**
 
 #### Art. 37
 
 **Verjährung**
 
-<sup>1</sup> Die disziplinarische Verantwortlichkeit des Angestellten verjährt, wenn innert Frist eines Jahres nach Bekanntwerden der Dienstpflichtverletzung kein Disziplinarverfahren eröffnet wurde, und in jedem Fall fünf Jahre nach der letzten Verletzung dieser Pflichten.
+<sup>1</sup> Die administrative Verantwortlichkeit des Angestellten verjährt, wenn innert eines Jahres nach Bekanntwerden der Dienstpflichtverletzung kein Verwaltungsverfahren eingeleitet wurde und in jedem Fall fünf Jahre nach der letzten Verletzung dieser Pflichten.
 
-<sup>2</sup> Während eines Beschwerdeverfahrens zum Disziplinarverfahren wird die Verjährung unterbrochen.
+<sup>2</sup> Während eines Beschwerdeverfahrens betreffend das Verwaltungsverfahren wird die Verjährung unterbrochen.
 
 #### Art. 38
 
 **Strafrechtliche Verantwortlichkeit**
 
-<sup>1</sup> Für die strafrechtliche Verantwortlichkeit des Angestellten gelten die Bestimmungen der eidgenössischen Strafgesetzgebung (insbesondere des Strafgesetzbuchs) und der kantonalen Strafgesetzgebung.
+<sup>1</sup> Für die strafrechtliche Verantwortlichkeit des Angestellten gelten die Bestimmungen der eidgenössischen und der kantonalen Strafgesetzgebung.
 
 #### Art. 39
 
 **Zivilrechtliche Verantwortlichkeit**
 
-<sup>1</sup> Die zivilrechtliche Verantwortlichkeit wird durch die Bestimmungen des kantonalen Gesetzes über die Verantwortlichkeit der öffentlichen Gemeinwesen und ihrer Amtsträger vom 10. Mai 1978 geregelt.
+<sup>1</sup> Die zivilrechtliche Verantwortlichkeit des Angestellten wird durch die Bestimmungen des kantonalen Gesetzes über die Verantwortlichkeit der öffentlichen Gemeinwesen und ihrer Amtsträger geregelt.
 
 ## 5 Rechte des Angestellten
 
@@ -571,8 +578,8 @@ verordnet:
 
 <sup>1</sup> Die Dienstverhältnisse enden ohne Kündigung:
 
-- a) am Ende des laufenden Monats, in dem der Angestellte das gesetzliche AHV-Alter erreicht, das Arbeitsverhältnis kann höchstens bis zum 70. Altersjahr verlängert werden, der Staatsrat legt die Ausführungsbestimmungen auf dem Verordnungswege fest;
-- a<sup>bis</sup>) für das Personal der Strafanstalten und der Kantonspolizei am Ende des laufenden Monats, in dem der Angestellte zwei Jahre später das gesetzliche AHV-Alter erreicht, das Arbeitsverhältnis kann höchstens bis zum 70. Altersjahr verlängert werden, der Staatsrat legt die Ausführungsbestimmungen auf dem Verordnungswege fest;
+- a) am Ende des Monats, in dem der Angestellte das AHV-Referenzalter erreicht, das Dienstverhältnis kann höchstens bis zum 70. Altersjahr verlängert werden. Der Staatsrat legt die Ausführungsbestimmungen auf dem Verordnungsweg fest;
+- a<sup>bis</sup>) für das Personal der Strafanstalten und der Kantonspolizei am Ende des Monats, in dem der Angestellte 2 Jahre später das AHV-Referenzalter erreicht, das Dienstverhältnis kann höchstens bis zum 70. Altersjahr verlängert werden. Der Staatsrat legt die Ausführungsbestimmungen auf dem Verordnungsweg fest;
 - b) beim Tod des Angestellten;
 - c) drei Monate nach dem Verschwinden des Angestellten in Todesgefahr oder bei Nachrichtenlosigkeit;
 - d) bei Ablauf eines zeitlich befristeten Vertrages unter Vorbehalt einer allfälligen Verlängerung.
@@ -633,7 +640,9 @@ verordnet:
 
 <sup>3</sup> Die Kündigungsfrist beträgt sechs Monate auf Ende eines Monats.
 
-<sup>4</sup> Unter Vorbehalt des nachfolgenden Absatzes hat der Angestellte, dessen Dienstverhältnis aufgehoben wird, Anspruch auf eine Entschädigung, die aufgrund des Alters und der Anzahl Dienstjahre berechnet wird und deren Betrag höchstens einem Jahresgehalt entspricht.
+<sup>4</sup> Unter Vorbehalt des nachfolgenden Absatzes hat der Angestellte, dessen Dienstverhältnis aufgehoben wird, Anspruch auf eine Entschädigung, die auf der Grundlage des Alters und der Anzahl Dienstjahre berechnet wird und deren Betrag höchstens 6 Monatsgehältern entspricht.
+
+<sup>4<sup>bis</sup></sup> Die Entschädigung wird anteilig gekürzt oder gestrichen, wenn der Angestellte während der Entschädigungsdauer eine neue Stelle findet.
 
 <sup>5</sup> Die Entschädigung ist nicht geschuldet, wenn der Angestellte das Angebot einer Stelle, deren Entlöhnung jener der aufgehobenen Stelle entspricht, ausgeschlagen hat, oder wenn der Staat dem Angestellten eine Stelle mit vergleichbaren Bedingungen wie bisher bei einem anderen öffentlichen oder privaten Arbeitgeber verschaffte.
 
@@ -663,13 +672,7 @@ verordnet:
 
 #### Art. 65
 
-**Rechtsweg**
-
-<sup>1</sup> Die von einem Departementsvorsteher oder einem Dienstchef erlassene Verfügung kann innert 30 Tagen ab Eröffnung mittels Verwaltungsbeschwerde beim Staatsrat angefochten werden.
-
-<sup>2</sup> Der Entscheid des Staatsrates kann innert 30 Tagen ab Eröffnung mittels Verwaltungsgerichtsbeschwerde bei der öffentlich-rechtlichen Abteilung des Kantonsgerichts angefochten werden.
-
-<sup>3</sup> Die Bestimmungen des Gesetzes über das Verwaltungsverfahren und die Verwaltungsrechtspflege sind anwendbar.
+**…**
 
 #### Art. 66
 
@@ -686,6 +689,20 @@ verordnet:
 <sup>1</sup> Die Bestimmungen des vorliegenden Kapitels finden auf Dienstverhältnisse, die mittels schriftlichem öffentlich-rechtlichem Vertrag abgeschlossen wurden, analoge Anwendung, wobei präzisiert wird, dass die Haltung der Anstellungsbehörde in diesem Fall einer Willenserklärung und nicht einer Verfügung im Sinne des Gesetzes über das Verwaltungsverfahren und die Verwal-tungsrechtspflege gleichkommt.
 
 <sup>2</sup> Bei Streitigkeiten und wenn keine Einigung erfolgt, erlässt die zuständige Behörde eine Verfügung im Sinne des vorerwähnten Gesetzes, die gemäss den Bestimmungen des genannten Gesetzes anfechtbar ist.
+
+## 6a Rechtsmittel
+
+#### Art. 67a
+
+**Rechtsmittel**
+
+<sup>1</sup> Die von einem Dienstchef erlassene Verfügung kann innert 30 Tagen seit ihrer Eröffnung beim Staatsrat angefochten werden. Innert derselben Frist kann die von einem Departementsvorsteher oder vom Staatsrat erlassene Verfügung mittels Verwaltungsgerichtsbeschwerde bei der öffentlich-rechtlichen Abteilung des Kantonsgerichts angefochten werden.
+
+<sup>2</sup> Die Beschwerde hat keine aufschiebende Wirkung. Die Verfügungs- oder Beschwerdeinstanz kann der mit dem Besoldungsanspruch verbundenen aufschiebenden Wirkung im Falle einer Beschwerde gegen einen Entscheid, der das Ende des Dienstverhältnisses vorsieht, zustimmen beziehungsweise sie wiederherstellen, sofern die betroffene Person belegen kann, dass sie ein Besoldungsausfall in eine heikle finanzielle Situation bringen würde und dass sie auf keine andere ausreichende Einnahmequelle zurückgreifen kann.
+
+<sup>3</sup> Wird die Beschwerde abgewiesen, sind die unter aufschiebender Wirkung erhaltenen Leistungen stets zurückzuerstatten.
+
+<sup>4</sup> Im Übrigen sind die Bestimmungen des Gesetzes über das Verwaltungsverfahren und die Verwaltungsrechtspflege anwendbar.
 
 ## 7 Übergangs- und Schlussbestimmungen
 
@@ -736,5 +753,19 @@ verordnet:
 <sup>1</sup> Das vorliegende Gesetz unterliegt dem fakultativen Referendum.
 
 <sup>2</sup> Der Staatsrat legt das Datum des Inkrafttretens des vorliegenden Gesetzes fest.
+
+## T1 Übergangsbestimmungen der Änderung vom 09.05.2019
+
+#### Art. T1-1
+
+**Hängige Verfahren**
+
+<sup>1</sup> Zum Zeitpunkt des Inkrafttretens der Änderung des vorliegenden Gesetzes hängige Verfahren werden nach den Bestimmungen des bisherigen Rechts zu Ende geführt.
+
+#### Art. T1-2
+
+**Zum Zeitpunkt des Inkrafttretens der Änderung bestehende Dienstverhältnisse**
+
+<sup>1</sup> Für das Personal, das vor Inkrafttreten der Änderung des vorliegenden Gesetzes angestellt wurde, werden die Dauer der Probezeit und die Verlängerungsbestimmungen nach altem Recht behandelt.
 
 CSW BO/Abl. 48/2010, 27/2011

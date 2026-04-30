@@ -4,13 +4,12 @@ number: "172.2"
 title: "Loi sur le personnel de l'Etat du Valais"
 short: LcPers
 language: fr
-version: 2020-01-01
-corrected: 2020-01-07
-version_adopted: 2019-05-09
+version: 2026-05-01
+version_adopted: 2025-12-19
 adopted: 2010-11-19
 in_force: 2011-07-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/172.2"
-pdf: "https://lex.vs.ch/api/fr/versions/2580/pdf_file"
+pdf: "https://lex.vs.ch/api/fr/versions/3602/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://lex.vs.ch/api/fr/versions/2580/pdf_file"
 
 (LcPers)
 
-du 19.11.2010 (état 01.01.2020)
+du 19.11.2010 (état 01.05.2026)
 
 Le Grand Conseil du canton du Valais
 
@@ -209,15 +208,19 @@ ordonne:
 
 <sup>4</sup> Le Conseil d’Etat peut, pour certaines fonctions de souveraineté, exiger la nationalité suisse.
 
+<sup>4<sup>bis</sup></sup> L'autorité d'engagement peut demander une évaluation complémentaire psychologique ou un contrôle de sécurité (notamment extrait du casier judiciaire, extrait des offices des poursuites et faillites).
+
 <sup>5</sup> Le Conseil d’Etat définit et garantit un processus de recrutement méthodique et objectif.
+
+<sup>6</sup> Le chef de service, respectivement le chef de département, peut en tout temps, à la suite de l'engagement, exiger du collaborateur qu'il démontre que les exigences indiquées dans le présent article pour l'exercice de sa fonction sont toujours remplies.
 
 #### Art. 19
 
 **Temps d'essai**
 
-<sup>1</sup> L’employé est soumis à un temps d’essai de trois mois.
+<sup>1</sup> L’employé est soumis à un temps d’essai de six mois au maximum.
 
-<sup>2</sup> En cas de doute sur les aptitudes, les prestations, ou le comportement de l’employé, l’autorité d’engagement peut décider de prolonger au maximum de trois mois le temps d’essai.
+<sup>2</sup> En principe, le temps d'essai n'est pas prolongé. Lorsque, pendant le temps d'essai, le travail est interrompu par suite de maladie, d'accident ou d'accomplissement d'une obligation légale incombant au travailleur sans qu'il ait demandé de l'assumer, le temps d'essai est prolongé d'autant.
 
 <sup>3</sup> Un entretien d’appréciation a lieu au cours de cette période.
 
@@ -316,118 +319,122 @@ ordonne:
 
 <sup>5</sup> Le refus de l'employé de se soumettre à un examen médical lors de l'engagement, ou ultérieurement, peut constituer un motif de résiliation immédiate de l'engagement.
 
+#### Art. 28a
+
+**Information d’une poursuite pénale**
+
+<sup>1</sup> L'employé qui fait l'objet d'une poursuite pénale pour un crime ou un délit est tenu d’en informer le Conseil d’Etat sans délai, si les faits incriminés ont un lien avec la nature de son activité professionnelle ou s'ils sont de nature à jeter le discrédit sur l'employeur. Il transmet sans délai au Conseil d'Etat la décision entrée en force qui statue définitivement sur la cause.
+
+<sup>2</sup> Les autorités judiciaires pénales et le ministère public saisis d’une affaire dans laquelle un employé a la qualité de prévenu, respectivement d'accusé, pour un crime ou un délit peuvent informer le Conseil d’Etat, si les faits incriminés ont un lien avec la nature de son activité professionnelle ou s'ils sont de nature à jeter le discrédit sur l'employeur. Ils peuvent transmettre au Conseil d'Etat la décision entrée en force qui statue définitivement sur la cause.
+
+<sup>3</sup> Demeurent réservées les dispositions légales contraires
+
 ## 4 Conséquences des violations des devoirs de service
 
 #### Art. 29
 
-**Principe de la responsabilité disciplinaire**
+**Principe de la responsabilité administrative**
 
 <sup>1</sup> L’employé qui viole intentionnellement ou par négligence ses devoirs de service engage sa responsabilité.
 
-<sup>2</sup> Le droit de prononcer des sanctions disciplinaires subsiste indépendamment de l’ouverture d’une procédure civile ou pénale engagée en raison des mêmes faits.
+<sup>2</sup> Le droit de prononcer des mesures administratives subsiste indépendamment de l’ouverture d’une procédure civile ou pénale engagée en raison des mêmes faits.
 
 #### Art. 30
 
-**Mesures disciplinaires**
+**Mesures administratives**
 
-<sup>1</sup> Sont applicables les mesures disciplinaires suivantes:
+<sup>1</sup> Après avoir entendu l'employé, l'autorité compétente peut prononcer les mesures administratives suivantes:
 
-- a) l'avertissement oral;
-- b) le blâme écrit;
-- c) l'amende jusqu'à 5'000 francs;
-- d) la diminution du traitement jusqu'à concurrence du tiers, pour une durée maximale d'une année;
-- e) le transfert dans une fonction inférieure avec traitement correspondant;
+- a) …
+- b) l'avertissement accompagné, dans la mesure du possible, de mesures d'amélioration;
+- c) …
+- d) la diminution du traitement mensuel jusqu'à concurrence du tiers, pour une durée maximale d'une année;
+- e) le transfert dans une autre fonction ou à un autre poste, équivalent ou inférieur, avec traitement correspondant à la nouvelle situation;
 - f) le renvoi sans délai et sans indemnité.
 
-<sup>2</sup> La mesure disciplinaire est fixée selon la gravité du manquement aux devoirs de service et selon la conduite antérieure de l’employé.
+<sup>2</sup> La mesure administrative est fixée selon la gravité du manquement aux devoirs de service et selon la conduite antérieure de l’employé.
 
-<sup>3</sup> Si les circonstances l’exigent, plusieurs mesures disciplinaires peuvent être cumulées.
+<sup>3</sup> Si les circonstances l’exigent, plusieurs mesures administratives peuvent être cumulées.
 
-<sup>4</sup> En cas de démission présentée par l'employé concerné, l'autorité compétente peut renoncer à une mesure disciplinaire et accepter la démission, si cette solution s'avère la plus adéquate au vu de l'ensemble des circonstances et des divers intérêts en présence.
+<sup>4</sup> En cas de démission présentée par l'employé concerné, l'autorité compétente peut renoncer à une mesure administrative et accepter la démission, si cette solution s'avère la plus adéquate au vu de l'ensemble des circonstances et des divers intérêts en présence.
 
 #### Art. 31
 
-**Compétence pour le prononcé des mesures disciplinaires**
+**Compétence pour le prononcé des mesures administratives**
 
-<sup>1</sup> L’autorité d’engagement au sens de l’article 14 est compétente pour prononcer les mesures disciplinaires.
+<sup>1</sup> L’autorité d’engagement peut prononcer toutes les mesures administratives.
 
-<sup>2</sup> En sus, le chef du département et le chef de service, même n’ayant pas qualité d’autorité d’engagement, peuvent prononcer les mesures de l’avertissement oral, du blâme écrit et de l'amende jusqu'à 1'000 francs.
+<sup>2</sup> Le chef de service, respectivement le chef de département, est compétent pour prononcer un avertissement.
 
-<sup>3</sup> Pour le prononcé d’une amende jusqu’à 1'000 francs le préavis du service central chargé des ressources humaines est requis.
+<sup>3</sup> S’il apparaît, en cours d’instruction, qu’une mesure plus sévère qu’un avertissement devrait être envisagée, le chef de service transmet le dossier à l'autorité d'engagement.
+
+<sup>4</sup> L’autorité d’engagement peut, le cas échéant, proposer au Conseil d’Etat la saisine de la commission disciplinaire.
 
 #### Art. 32
 
-**Compétence pour l'ouverture de la procédure disciplinaire**
+**…**
 
-<sup>1</sup> La décision d’ouverture de la procédure disciplinaire relève en principe de l’autorité compétente pour prononcer la mesure disciplinaire.
+#### Art. 32a
 
-<sup>2</sup> Lorsque l’ouverture de la procédure disciplinaire s’accompagne de mesures provisionnelles au sens de l’article 35, elle relève, ainsi que ces mesures, de la compétence de l’autorité d’engagement.
+**Procédure administrative**
+
+<sup>1</sup> L’autorité compétente donne connaissance par écrit à l’employé des reproches formulés à son encontre. L’employé a notamment le droit de se déterminer de manière suffisante, de faire valoir tous les faits à sa décharge et de proposer des moyens de preuve.
+
+<sup>2</sup> L’employé peut se faire assister d'un mandataire.
+
+<sup>3</sup> La décision administrative doit être motivée et notifiée par écrit à l’employé, avec indication des voies de droit ainsi que des délais.
 
 #### Art. 33
 
 **Commission disciplinaire**
 
-<sup>1</sup> Le Conseil d’Etat nomme une commission disciplinaire de trois à cinq membres, chargée d’examiner les cas qui lui sont soumis et d’élaborer des propositions à l’attention de l’autorité compétente.
+<sup>1</sup> Le Conseil d’Etat nomme une commission disciplinaire de trois à cinq membres.
 
-<sup>2</sup> Ne sont soumises à la commission disciplinaire que les infractions faisant l’objet de mesures plus graves que celles de l’avertissement oral, du blâme écrit, ou de l'amende jusqu'à 1'000 francs.
+<sup>2</sup> La commission disciplinaire traite des situations de harcèlement et des autres cas dont le Conseil d'Etat l'aurait saisie en raison de leur complexité.
 
-<sup>3</sup> La commission disciplinaire doit procéder à l’audition de l’employé et à toutes les investigations utiles.
+<sup>3</sup> La commission disciplinaire est chargée d’examiner les cas qui lui sont soumis et d’élaborer des propositions à l’attention de l’autorité d’engagement. La commission disciplinaire auditionne l’employé et veille à ce que toutes les investigations utiles soient réalisées.
 
-<sup>4</sup> L'ordonnance précise la composition, l'organisation et le fonctionnement de la commission disciplinaire.
+<sup>4</sup> Une ordonnance précise la composition, l'organisation et le fonctionnement de la commission disciplinaire.
+
+<sup>5</sup> Sur demande de la commission disciplinaire ou d’office, selon les circonstances, le Conseil d’Etat confie l’examen d’une situation à un ou plusieurs spécialiste(s) externe(s) et indépendant(s).
 
 #### Art. 34
 
-**Procédure disciplinaire**
-
-<sup>1</sup> L’ouverture d’une procédure disciplinaire doit être communiquée, sans délai, par écrit à l’employé concerné.
-
-<sup>2</sup> Il est donné connaissance à l’employé des éléments retenus à son encontre. L’employé a le droit de se déterminer de manière suffisante, de faire valoir tous les faits à sa décharge et de proposer des moyens de preuve.
-
-<sup>3</sup> L’employé peut se faire assister d’un conseiller.
-
-<sup>4</sup> La décision disciplinaire doit être motivée et notifiée par écrit à l’employé, avec indication des voies de droit.
+**…**
 
 #### Art. 35
 
 **Mesures provisionnelles**
 
-<sup>1</sup> En prononçant l’ouverture d’une procédure disciplinaire, l’autorité d’engagement peut arrêter des mesures provisionnelles telles que notamment le transfert provisoire de l’employé, ou la suspension provisoire des rapports de service, avec ou sans maintien total ou partiel du traitement.
+<sup>1</sup> L’autorité compétente pour prononcer la mesure administrative peut en tout temps arrêter des mesures provisionnelles, avec ou sans maintien total ou partiel du traitement.
 
 <sup>2</sup> Ces mesures sont prononcées après une pesée des divers intérêts en présence et doivent répondre à un intérêt public prépondérant.
 
-<sup>3</sup> Préalablement à la décision prononçant ces mesures, l’employé doit avoir été informé des mesures envisagées et avoir eu l’occasion de se déterminer sur celles-ci.
+<sup>3</sup> Sous réserve de l'urgence, l’employé doit avoir été préalablement informé des mesures envisagées le concernant et avoir eu l’occasion de se déterminer sur celles-ci.
 
 #### Art. 36
 
-**Voies de droit**
-
-<sup>1</sup> La décision d’ouverture de la procédure disciplinaire et celle concernant les mesures provisionnelles ne sont susceptibles de recours qu’aux conditions restrictives posées par les articles 41 et 42 de la loi sur la procédure et la juridiction administratives du 6 octobre 1976.
-
-<sup>2</sup> La décision prononçant la mesure disciplinaire, prise par un chef de département ou un chef de service, peut être attaquée par voie de recours administratif auprès du Conseil d’Etat dans un délai de trente jours à dater de sa notification.
-
-<sup>3</sup> La décision prononçant la mesure disciplinaire, prise par le Conseil d’Etat, peut être attaquée par la voie du recours de droit administratif auprès de la cour de droit public du Tribunal cantonal dans un délai de trente jours à dater de sa notification.
-
-<sup>4</sup> Les dispositions de la loi sur la procédure et la juridiction administratives sont applicables.
+**…**
 
 #### Art. 37
 
 **Prescription**
 
-<sup>1</sup> La responsabilité disciplinaire de l’employé est prescrite si aucune procédure disciplinaire n’est ouverte dans le délai d’une année après la découverte du manquement aux devoirs de service, et dans tous les cas cinq ans après le dernier manquement aux dits devoirs.
+<sup>1</sup> La responsabilité administrative de l’employé est prescrite si aucune procédure administrative n’est engagée dans le délai d’une année après la découverte du manquement aux devoirs de service et dans tous les cas cinq ans après le dernier manquement aux dits devoirs.
 
-<sup>2</sup> La prescription est suspendue pendant la durée des procédures de recours concernant la procédure disciplinaire.
+<sup>2</sup> La prescription est suspendue pendant la durée des procédures de recours concernant la procédure administrative.
 
 #### Art. 38
 
 **Responsabilité pénale**
 
-<sup>1</sup> La responsabilité pénale de l’employé est régie par les dispositions des lois pénales fédérales (notamment le Code pénal suisse) et cantonales.
+<sup>1</sup> La responsabilité pénale de l’employé est régie par les dispositions des lois pénales fédérales et cantonales.
 
 #### Art. 39
 
 **Responsabilité civile**
 
-<sup>1</sup> La responsabilité civile de l’employé est régie par les dispositions de la loi cantonale sur la responsabilité des collectivités publiques et de leurs agents du 10 mai 1978.
+<sup>1</sup> La responsabilité civile de l’employé est régie par les dispositions de la loi cantonale sur la responsabilité des collectivités publiques et de leurs agents.
 
 ## 5 Droits de l'employé
 
@@ -571,8 +578,8 @@ ordonne:
 
 <sup>1</sup> Les rapports de service prennent fin sans résiliation:
 
-- a) à la fin du mois au cours duquel l’employé atteint l’âge légal AVS, les rapports de service pouvant être prolongés au maximum jusqu’à 70 ans et le Conseil d’Etat fixant les modalités d’application par voie d’ordonnance;
-- a<sup>bis</sup>) pour le personnel des établissements pénitentiaires et de la police cantonale, à la fin du mois au cours duquel l’employé atteint l’âge légal AVS avec une anticipation de 2 ans, les rapports de service pouvant être prolongés au maximum jusqu’à 70 ans et le Conseil d’Etat fixant les modalités d’application par voie d’ordonnance;
+- a) à la fin du mois au cours duquel l’employé atteint l’âge de référence AVS, les rapports de service pouvant être prolongés au maximum jusqu’à 70 ans. Le Conseil d’Etat fixe les modalités d’application par voie d’ordonnance;
+- a<sup>bis</sup>) pour le personnel des établissements pénitentiaires et de la police cantonale, à la fin du mois au cours duquel l’employé atteint l’âge de référence AVS avec une anticipation de 2 ans, les rapports de service pouvant être prolongés au maximum jusqu’à 70 ans. Le Conseil d’Etat fixe les modalités d’application par voie d’ordonnance;
 - b) au décès de l'employé;
 - c) trois mois après la disparition de l'employé en danger de mort ou sans nouvelles de sa part;
 - d) à l'expiration de la durée du contrat de durée déterminée, sous réserve d'une éventuelle prolongation.
@@ -633,7 +640,9 @@ ordonne:
 
 <sup>3</sup> Le délai de résiliation est de six mois pour la fin d’un mois.
 
-<sup>4</sup> Sous réserve de l’alinéa suivant, l’employé dont les rapports de service sont résiliés a droit à une indemnité calculée en fonction de l’âge et du nombre d’années de service et dont le montant maximal est égal à une année de traitement.
+<sup>4</sup> Sous réserve de l’alinéa suivant, l’employé dont les rapports de service sont résiliés a droit à une indemnité calculée en fonction de l’âge et du nombre d’années de service et dont le montant maximal est égal à 6 mois de traitement.
+
+<sup>4<sup>bis</sup></sup> L’indemnité est réduite en proportion ou supprimée lorsque l’employé retrouve un emploi durant la durée d’indemnisation.
 
 <sup>5</sup> L’indemnité n’est pas due lorsque l’employé a refusé une offre de poste équivalent au poste supprimé sur le plan de la rémunération, ou si l’Etat a procuré à l’employé un emploi auprès d’un autre employeur public ou privé, à des conditions comparables à celles dont il bénéficiait.
 
@@ -663,13 +672,7 @@ ordonne:
 
 #### Art. 65
 
-**Voies de droit**
-
-<sup>1</sup> La décision prise par un chef de département ou un chef de service peut être attaquée par la voie du recours administratif auprès du Conseil d'Etat dans un délai de 30 jours à dater de sa notification.
-
-<sup>2</sup> La décision prise par le Conseil d'Etat peut être attaquée par la voie du recours de droit administratif auprès de la cour de droit public du Tribunal cantonal dans un délai de 30 jours à dater de sa notification.
-
-<sup>3</sup> Les dispositions de la loi sur la procédure et la juridiction administratives sont applicables.
+**…**
 
 #### Art. 66
 
@@ -686,6 +689,20 @@ ordonne:
 <sup>1</sup> Les dispositions du présent chapitre s’appliquent par analogie aux rapports de service conclus par contrat écrit de droit public, étant précisé que les positions de l’autorité d’engagement ont, dans ce cadre, valeur de déclaration de volonté et non pas de décision au sens de la loi sur la procédure et la juridiction administratives.
 
 <sup>2</sup> En cas de litige, et si aucun accord n’a pu intervenir, l’autorité compétente prend une décision au sens de la loi précitée, décision susceptible de recours conformément aux dispositions de dite loi.
+
+## 6a Voies de droit
+
+#### Art. 67a
+
+**Voies de droit**
+
+<sup>1</sup> La décision prise par un chef de service peut être attaquée auprès du Conseil d'Etat dans un délai de 30 jours à dater de sa notification. Dans le même délai, la décision prise par un chef de département ou par le Conseil d'Etat peut être attaquée par la voie du recours de droit administratif auprès de la Cour de droit public du Tribunal cantonal.
+
+<sup>2</sup> Le recours est dépourvu d’effet suspensif. L’autorité de décision ou de recours peut accorder, respectivement restituer, l’effet suspensif lié au droit au traitement en cas de recours contre une décision impliquant la fin des rapports de service, pour autant que le concerné justifie que la privation du traitement le place dans une situation financière précaire et qu'il ne peut pas bénéficier d'une autre source de revenu suffisante.
+
+<sup>3</sup> En cas de rejet du recours, les prestations reçues au bénéfice de l’effet suspensif sont toujours sujettes à restitution.
+
+<sup>4</sup> Les dispositions de la loi sur la procédure et la juridiction administratives sont pour le reste applicables.
 
 ## 7 Dispositions transitoires et finales
 
@@ -736,5 +753,19 @@ ordonne:
 <sup>1</sup> La présente loi est soumise au référendum facultatif.
 
 <sup>2</sup> Le Conseil d’Etat fixe l’entrée en vigueur de la présente loi.
+
+## T1 Dispositions transitoires de la modification du 09.05.2019
+
+#### Art. T1-1
+
+**Procédures pendantes**
+
+<sup>1</sup> Les procédures pendantes lors de l’entrée en vigueur de la modification de la présente loi sont poursuivies conformément à l’ancien droit.
+
+#### Art. T1-2
+
+**Rapports de service existants au moment de l’entrée en vigueur de la modification**
+
+<sup>1</sup> Pour le personnel engagé avant l’entrée en vigueur de la modification de la présente loi, la durée du temps d’essai et les modalités de prolongation sont traitées selon l’ancien droit.
 
 RCV BO/Abl. 48/2010, 27/2011
