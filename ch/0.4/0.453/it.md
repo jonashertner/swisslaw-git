@@ -3,11 +3,11 @@ sr: "0.453"
 title: Convenzione del 3 marzo 1973 sul commercio internazionale delle specie di fauna e di flora selvatiche minacciate di estinzione (con All. 1-4)
 eli: "https://fedlex.data.admin.ch/eli/cc/1975/1135_1136_1136"
 language: it
-version: 2024-10-16
+version: 2026-05-01
 adopted: 1973-03-03
 in_force: 1975-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1975/1135_1136_1136/20241016/it/xml/fedlex-data-admin-ch-eli-cc-1975-1135_1136_1136-20241016-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1975/1135_1136_1136/20241016/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1975/1135_1136_1136/20260501/it/xml/fedlex-data-admin-ch-eli-cc-1975-1135_1136_1136-20260501-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1975/1135_1136_1136/20260501/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -20,7 +20,7 @@ Traduzione
 
 Conchiusa a Washington il 3 marzo 1973 Approvata dall’Assemblea federale l’11 giugno 1974[^t-1] Istrumento di ratificazione depositato dalla Svizzera il 9 luglio 1974 Entrata in vigore per la Svizzera il 1° luglio 1975
 
-(Stato 16 ottobre 2024)
+(Stato 1° maggio 2026)
 
 [^t-1]: [RU 1975 1134](https://fedlex.data.admin.ch/eli/oc/1975/1134_1134_1134)
 
@@ -547,15 +547,15 @@ Spiegazioni
   - c) i fiori recisi di piante riprodotte artificialmente,
   - d) i frutti, nonché loro parti e prodotti, di piante del genere *Vanilla* (Orchidaceae) riprodotte naturalmente o artificialmente e della famiglia delle Cactaceae,
   - e) i fusti, i fiori nonché loro parti e prodotti di piante riprodotte naturalmente o artificialmente del genere *Opuntia*, sottogenere *Opuntia* e *Selenicereus* (Cactaceae),
-  - f) prodotti finiti di *Aloe ferox* ed *Euphorbia antisyphilitica* che sono imballati e pronti a essere spediti per la vendita al dettaglio, e
+  - f) prodotti finiti, imballati e pronti a essere spediti per la vendita al dettaglio di *Aloe ferox* ed *Euphorbia antisyphilitica*, e
   - g) prodotti cosmetici finiti, imballati e pronti a essere spediti per la vendita al dettaglio che contengono parti e prodotti delle seguenti specie di orchidee ottenute mediante riproduzione artificiale: *Bletilla striata, Cycnoches cooperi, Gastrodia elata, Phalaenopsis amabilis* oder *Phalaenopsis lobbii;*
 
 - #5 designa i tronchi, il legname segato e i fogli da impiallacciatura;
 - #6 designa i tronchi, il legname segato, i fogli da impiallacciatura e il compensato;
 - #7 designa i tronchi, i trucioli, le polveri e gli estratti;
 - #8 designa tutte le parti sotterranee (radici e rizomi) intere, parziali e polverizzate;
-- #9 designa tutte le parti e i prodotti, eccetto quelli recanti l’etichetta *«Produced from Hoodia spp. material obtained through controlled harvesting and production under the terms of an agreement with the rele**vant CITES Management Authority of [Botswana under agreement No. BW/xxxxxx] [Namibia under agreement No. NA/xxxxxx] [South Africa under agreement No. ZA/xxxxxx]»* [prodotto con materiale derivato da Hoodia spp. ottenuto mediante raccolta e produzione controllate in virtù di un accordo stipulato con la competente autorità d’esecuzione della CITES di [Botswana in base all’accordo n. BW/xxxxxx] [Namibia in base all’accordo n. NA/xxxxxx] [Sudafrica in base all’accordo n. ZA/xxxxxx];
-- #10 designa tutte le parti, i prodotti e i prodotti finiti, eccetto le riesportazioni di strumenti musicali finiti e le parti e gli accessori finiti di strumenti musicali;
+- #9 designa tutte le parti e i prodotti, eccetto quelli recanti l’etichetta *«Produced* *from Hoodia* spp. *material obtained through controlled harvesting and* *production* *under the terms of an agreement with the rele**vant CITES Management Authority of [Botswana under agreement No. BW/xxxxxx] [Namibia* *under* *agreement No. NA/xxxxxx] [South Africa under agreement No. ZA/xxxxxx]»* [prodotto con materiale derivato da Hoodia spp. ottenuto mediante raccolta e produzione controllate in virtù di un accordo stipulato con la competente autorità d’esecuzione della CITES di [Botswana in base all’accordo n. BW/xxxxxx] [Namibia in base all’accordo n. NA/xxxxxx] [Sudafrica in base all’accordo n. ZA/xxxxxx];
+- #10 tutte le parti e i derivati, eccetto gli strumenti musicali finiti, gli accessori per strumenti musicali finiti e le parti di strumenti musicali finiti destinati esclusivamente al commercio non commerciale per scopi di esibizione retribuita o non retribuita, uso personale, esposizione, prestito, concorso, insegnamento, valutazione o riparazione, a condizione che ciò non modifichi la proprietà e che tale trasporto non sia finalizzato alla vendita, al trasferimento o alla cessione dell’esemplare al di fuori dello Stato di residenza abituale del proprietario;
 - #11 designa i tronchi, il legname segato, i fogli da impiallacciatura, il compensato, le polveri e gli estratti. I prodotti finiti elaborati a partire da tali estratti, compresi i profumi, non sono interessati da questa annotazione;
 - #12 designa tronchi, legname segato, fogli da impiallacciatura, compensato ed eterici estratti. I prodotti finiti che contengono tali estratti, compresi i profumi, sono esclusi da questa annotazione;
 - #13 designa la polpa (nota anche come «endosperma» o «copra») e tutti i prodotti che ne sono derivati;
@@ -581,7 +581,9 @@ Spiegazioni
   - e) parti e prodotti derivati di *Dalbergia* spp. originari e esportati dal Messico, considerati nell’annotazione #6;
 
 - #16 designa semi, frutti e oli;
-- #17 designa i tronchi, il legname segato, i fogli da impiallacciatura, il compensato e il legno lavorato[^t-3].
+- #17 designa i tronchi, il legname segato, i fogli da impiallacciatura, il compensato e il legno lavorato[^t-3];
+- #18 escluse le parti e i prodotti derivati, diversi dalle uova;
+- #19 estratti (comprese resine, gomme e oli essenziali) e polveri, ad eccezione dei seguenti prodotti finiti, imballati e pronti per la vendita al dettaglio: compresse, capsule, pillole, profumi, cosmetici, soluzioni, emulsioni o sospensioni (come oli infusi, idrolati, tinture) e prodotti di incenso fabbricati (come bastoncini e coni di incenso).
 
 \7. Le specie e i gradi tassonomici superiori di FLORA di cui all’Allegato I non sono provvisti di alcuna annotazione indicante che i relativi ibridi sottostanno alle disposizioni dell’Articolo III della Convenzione. Gli ibridi riprodotti artificialmente da una o più specie o da uno o più gradi tassonomici menzionati possono pertanto essere commercializzati con un documento certificante la riproduzione artificiale. Inoltre, i semi e i pollini (masse polliniche comprese), nonché i fiori recisi, le colture di piantine o di tessuti *in vitro* di questi ibridi, in mezzi solidi o liquidi e trasportati in contenitori sterili, non sottostanno alle disposizioni della Convenzione.
 
@@ -628,1908 +630,1620 @@ La Convenzione non si applica alle seguenti specie di fauna e flora selvatiche m
 </table>
 
 <table>
-<tr><th colspan="2">Allegato I</th><th colspan="2">Allegato II</th><th>Allegato III</th></tr>
-<tr><td colspan="2">Fauna</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Chordata</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Mammalia</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Artiodactyla</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Antilocapridae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Antilocapra americana (soltanto le popolazioni del Messico)</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Bovidae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Addax nasomaculatus</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Ammotragus lervia</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td></td><td colspan="2">Antilope cervicapra (Nepal, Pakistan)</td></tr>
-<tr><td colspan="2"></td><td></td><td colspan="2">Boselaphus tragocamelus (Pakistan)</td></tr>
-<tr><td colspan="2">Bos gaurus[^t-4]</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Bos mutus[^t-5]</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Bos sauveli</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td></td><td colspan="2">Bubalus arnee[^t-6] (Nepal)</td></tr>
-<tr><td colspan="2">Bubalus depressicornis</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Bubalus mindorensis</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Bubalus quarlesi</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Budorcas taxicolor</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Capra caucasica Stambecco del Caucaso</td><td colspan="2"></td></tr>
-<tr><td colspan="2">Capra falconeri</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td></td><td colspan="2">Capra hircus aegagrus[^t-7] (Pakistan)</td></tr>
-<tr><td colspan="2"></td><td></td><td colspan="2">Capra sibirica (Pakistan)</td></tr>
-<tr><td colspan="2">Capricornis milneedwardsii</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Capricornis rubidus</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Capricornis sumatraensis</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Capricornis thar</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Cephalophus brookei</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Cephalophus dorsalis</td><td colspan="2"></td></tr>
-<tr><td colspan="2">Cephalophus jentinki</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Cephalophus ogilbyi</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Cephalophus silvicultor</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Cephalophus zebra</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Damaliscus pygargus pygargus</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td></td><td colspan="2">Gazella benettii (Pakistan)</td></tr>
-<tr><td colspan="2">Gazella cuvieri</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td></td><td colspan="2">Gazella dorcas (Algeria, Tunisia)</td></tr>
-<tr><td colspan="2">Gazella leptoceros</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Hippotragus niger variani</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Kobus leche</td><td colspan="2"></td></tr>
-<tr><td colspan="2">Naemorhedus baileyi</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Naemorhedus caudatus</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Naemorhedus goral</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Naemorhedus griseus</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Nanger dama</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Oryx dammah</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Oryx leucoryx</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Ovis ammon</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Ovis arabica</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Ovis bochariensis</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Ovis canadensis (soltanto la popolazione del Messico)</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Ovis collium</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Ovis cycloceros</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Ovis darwini</td><td colspan="2"></td></tr>
-<tr><td colspan="2">Ovis gmelini (soltanto la popolazione di Cipro)</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Ovis hodgsonii</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Ovis jubata</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Ovis karelini</td><td colspan="2"></td></tr>
-<tr><td colspan="2">Ovis nigrimontana</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Ovis polii</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Ovis punjabiensis</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Ovis severtzovi</td><td colspan="2"></td></tr>
-<tr><td colspan="2">Ovis vignei</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Pantholops hodgsonii</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Philantomba monticola</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td></td><td colspan="2">Pseudois nayaur (Pakistan)</td></tr>
-<tr><td colspan="2">Pseudoryx nghetinhensis</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Rupicapra pyrenaica ornata Camoscio d’Abruzzo</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Saiga borealis[^t-8]</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Saiga tatarica[^t-9]</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td></td><td colspan="2">Tetracerus quadricornis (Nepal)</td></tr>
-<tr><td colspan="2">Camelidae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Lama guanicoe</td><td colspan="2"></td></tr>
-<tr><td colspan="2">Vicugna vicugna (escluse le popolazioni di: Argentina [le popolazioni delle province di Jujuy, Catamarca e Salta, e le popolazioni in semi-cattività delle province di Jujuy, Salta, Catamarca, La Rioja e San Juan]; Bolivia [l’intera popolazione]; Cile [popolazioni delle regioni di Tarapacá, Arica e Parinacota]; Ecuador [l’intera popolazione] e Perù [l’intera popolazione]) Vigogna</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Vicugna vicugna[^t-10] (soltanto le popolazioni di: Argentina [le popolazioni delle province di Jujuy, Catamarca e Salta, e le popolazioni in semi-cattività delle province di Jujuy, Salta, Catamarca, La Rioja e San Juan]; Bolivia [l’intera popolazione]; Cile [popolazioni delle regioni di Tarapacá, Arica e Parinacota]; Ecuador [l’intera popolazione] e Perù [l’intera popolazione]; le altre popolazioni sono incluse nell’allegato I) Vigogna</td><td colspan="2"></td></tr>
-<tr><td colspan="2">Cervidae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Axis calamianensis</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Axis kuhlii</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td></td><td colspan="2">Axis porcinus (Pakistan) (ad eccezione delle sottospecie elencate nell’allegato I)</td></tr>
-<tr><td colspan="2">Axis porcinus annamiticus</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Blastocerus dichotomus</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Cervus elaphus bactrianus</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td></td><td colspan="2">Cervus elaphus barbarus (Algeria, Tunisia)</td></tr>
-<tr><td colspan="2">Cervus elaphus hanglu</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Dama dama mesopotamica</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Hippocamelus spp.</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td></td><td colspan="2">Mazama temama cerasina (Guatemala)</td></tr>
-<tr><td colspan="2">Muntiacus crinifrons</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Muntiacus vuquangensis</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td></td><td colspan="2">Odocoileus virginianus mayensis (Guatemala)</td></tr>
-<tr><td colspan="2">Ozotoceros bezoarticus</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Pudu mephistophiles</td><td colspan="2"></td></tr>
-<tr><td colspan="2">Pudu puda</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Rucervus duvaucelii</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Rucervus eldii</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Giraffidae (giraffe)</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Giraffa camelopardalis</td><td colspan="2"></td></tr>
-<tr><td colspan="2">Hippopotamidae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Hexaprotodon liberiensis</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Hippopotamus amphibius</td><td colspan="2"></td></tr>
-<tr><td colspan="2">Moschidae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Moschus spp. (soltanto le popolazioni di Afghanistan, Bhutan, India, Myanmar, Nepal e Pakistan)</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Moschus spp. (escluse le popolazioni di Afghanistan, Bhutan, India, Myanmar, Nepal e Pakistan)</td><td colspan="2"></td></tr>
-<tr><td colspan="2">Suidae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Babyrousa babyrussa</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Babyrousa bolabatuensis</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Babyrousa celebensis</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Babyrousa togeanensis</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Sus salvanius</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Tayassuidae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Tayassuidae spp.[^t-11]</td><td colspan="2"></td></tr>
-<tr><td colspan="2">Catagonus wagneri</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Carnivora</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Ailuridae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Ailurus fulgens</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Canidae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td></td><td colspan="2">Canis aureus (India)</td></tr>
-<tr><td colspan="2">Canis lupus (soltanto le popolazioni di Bhutan, India, Nepal e Pakistan; esclusi la forma addomesticata e il dingo, denominati *Canis lupus familiaris* e *Canis lupus dingo*) Lupo</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Canis lupus (escluse le popolazioni di Bhutan, India, Nepal e Pakistan; esclusi la forma addomesticata e il dingo, denominati *Canis lupus familiaris* e *Canis lupus dingo*)</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Cerdocyon thous</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Chrysocyon brachyurus</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Cuon alpinus</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Lycalopex culpaeus</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Lycalopex fulvipes</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Lycalopex griseus</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Lycalopex gymnocercus</td><td colspan="2"></td></tr>
-<tr><td colspan="2">Speothos venaticus</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td></td><td colspan="2">Vulpes bengalensis (India)</td></tr>
-<tr><td colspan="2"></td><td>Vulpes cana</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td></td><td colspan="2">Vulpes vulpes griffithi (India)</td></tr>
-<tr><td colspan="2"></td><td></td><td colspan="2">Vulpes vulpes montana (India)</td></tr>
-<tr><td colspan="2"></td><td></td><td colspan="2">Vulpes vulpes pusilla (India)</td></tr>
-<tr><td colspan="2"></td><td>Vulpes zerda</td><td colspan="2"></td></tr>
-<tr><td colspan="2">Eupleridae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Cryptoprocta ferox</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Eupleres goudotii</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Fossa fossana</td><td colspan="2"></td></tr>
-<tr><td colspan="2">Felidae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Felidae spp.[^t-12] (ad eccezione delle specie elencate nell’allegato I)</td><td colspan="2"></td></tr>
-<tr><td colspan="2">Acinonyx jubatus[^t-13]</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Caracal caracal (soltanto la popolazione dell’Asia)</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Catopuma temminckii</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Felis nigripes</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Herpailurus yagouaroundi (soltanto le popolazioni dell’America centrale e settentrionale)</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Leopardus geoffroyi</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Leopardus guttulus</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Leopardus jacobita</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Leopardus pardalis</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Leopardus tigrinus</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Leopardus wiedii</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Lynx pardinus</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Neofelis diardi</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Neofelis nebulosa</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Panthera leo[^t-14] (popolazioni africane)</td><td colspan="2"></td></tr>
-<tr><td colspan="2">Panthera leo (Soltanto le popolazioni dell’India)</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Panthera onca</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Panthera pardus</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Panthera tigris</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Panthera unica</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Pardofelis marmorata</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Prionailurus bengalensis bengalensis (soltanto le popolazioni di Bangladesh, India e Thailandia)</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Prionailurus planiceps</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Prionailurus rubiginosus (soltanto le popolazioni dell’India)</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Puma concolor (soltanto le popolazioni di Costa Rica e Panama)</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Herpestidae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td></td><td colspan="2">Herpestes edwardsi (India, Pakistan)</td></tr>
-<tr><td colspan="2"></td><td></td><td colspan="2">Herpestes fuscus (India)</td></tr>
-<tr><td colspan="2"></td><td></td><td colspan="2">Herpestes javanicus (Pakistan)</td></tr>
-<tr><td colspan="2"></td><td></td><td colspan="2">Herpestes javanicus auropunctatus (India)</td></tr>
-<tr><td colspan="2"></td><td></td><td colspan="2">Herpestes smithii (India)</td></tr>
-<tr><td colspan="2"></td><td></td><td colspan="2">Herpestes urva (India)</td></tr>
-<tr><td colspan="2"></td><td></td><td colspan="2">Herpestes vitticollis (India)</td></tr>
-<tr><td colspan="2">Hyaenidae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td></td><td colspan="2">Hyaena hyaena (Pakistan)</td></tr>
-<tr><td colspan="2"></td><td></td><td colspan="2">Proteles cristata (Botswana)</td></tr>
-<tr><td colspan="2">Mephitidae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Conepatus humboldtii</td><td colspan="2"></td></tr>
-<tr><td colspan="2">Mustelidae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Lutrinae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Lutrinae spp.</td><td colspan="2"></td></tr>
-<tr><td colspan="2">Aonyx capensis microdon (soltanto le popolazioni di Camerun e Nigeria)</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Aonyx cinerea</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Enhydra lutris nereis</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Lontra felina</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Lontra longicaudis</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Lontra provocax</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Lutra lutra</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Lutra nippon</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Lutrogale perspicillata</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Pteronura brasiliensis</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Mustelinae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td></td><td colspan="2">Eira barbara (Honduras)</td></tr>
-<tr><td colspan="2"></td><td></td><td colspan="2">Martes flavigula (India)</td></tr>
-<tr><td colspan="2"></td><td></td><td colspan="2">Martes foina intermedia (India)</td></tr>
-<tr><td colspan="2"></td><td></td><td colspan="2">Martes gwatkinsii (India)</td></tr>
-<tr><td colspan="2"></td><td></td><td colspan="2">Mellivora capensis (Botswana)</td></tr>
-<tr><td colspan="2"></td><td></td><td colspan="2">Mustela altaica (India)</td></tr>
-<tr><td colspan="2"></td><td></td><td colspan="2">Mustela erminea ferghanae (India)</td></tr>
-<tr><td colspan="2"></td><td></td><td colspan="2">Mustela kathiah (India)</td></tr>
-<tr><td colspan="2">Mustela nigripes</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td></td><td colspan="2">Mustela sibirica (India)</td></tr>
-<tr><td colspan="2">Odobenidae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td></td><td colspan="2">Odobenus rosmarus (Canada)</td></tr>
-<tr><td colspan="2">Otariidae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Arctocephalus spp.</td><td colspan="2"></td></tr>
-<tr><td colspan="2">Arctocephalus townsendi</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Phocidae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Mirounga leonina</td><td colspan="2"></td></tr>
-<tr><td colspan="2">Monachus spp.</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Procyonidae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td></td><td colspan="2">Nasua narica (Honduras)</td></tr>
-<tr><td colspan="2"></td><td></td><td colspan="2">Nasua nasua solitaria (Uruguay)</td></tr>
-<tr><td colspan="2"></td><td></td><td colspan="2">Potos flavus (Honduras)</td></tr>
-<tr><td colspan="2">Ursidae Orsi</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Ursidae spp. (ad eccezione delle specie elencate nell’allegato I)</td><td colspan="2"></td></tr>
-<tr><td colspan="2">Ailuropoda melanoleuca</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Helarctos malayanus</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Melursus ursinus</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Tremarctos ornatus</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Ursus arctos (soltanto le popolazioni di Bhutan, Cina, Messico e Mongolia)</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Ursus arctos isabellinus</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Ursus thibetanus</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Viverridae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td></td><td colspan="2">Arctictis binturong (India)</td></tr>
-<tr><td colspan="2"></td><td></td><td colspan="2">Civettictis civetta (Botswana)</td></tr>
-<tr><td colspan="2"></td><td>Cynogale bennettii</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Hemigalus derbyanus</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td></td><td colspan="2">Paguma larvata (India)</td></tr>
-<tr><td colspan="2"></td><td></td><td colspan="2">Paradoxurus hermaphroditus (India)</td></tr>
-<tr><td colspan="2"></td><td></td><td colspan="2">Paradoxurus jerdoni (India)</td></tr>
-<tr><td colspan="2"></td><td>Prionodon linsang</td><td colspan="2"></td></tr>
-<tr><td colspan="2">Prionodon pardicolor</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td></td><td colspan="2">Viverra civettina (India)</td></tr>
-<tr><td colspan="2"></td><td></td><td colspan="2">Viverra zibetha (India)</td></tr>
-<tr><td colspan="2"></td><td></td><td colspan="2">Viverricula indica (India)</td></tr>
-<tr><td colspan="2">Cetacea</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Cetaceae spp.[^t-15] (ad eccezione delle specie elencate nell’allegato I)</td><td colspan="2"></td></tr>
-<tr><td colspan="2">Balaenidae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Balaena mysticetus</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Eubalaena spp.</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Balaenopteridae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Balaenoptera acutorostrata (escluse le popolazioni della Groenlandia occidentale)</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Balaenoptera bonaerensis</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Balaenoptera boreali</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Balaenoptera edeni</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Balaenoptera musculus</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Balaenoptera omurai</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Balaenoptera physalus</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Megaptera novaeangliae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Delphinidae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Orcaella brevirostris</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Orcaella heinsohni</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Sotalia spp.</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Sousa spp.</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Eschrichtiidae Balena grigia</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Eschrichtius robustus</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Iniidae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Lipotes vexillifer</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Neobalaenidae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Caperea marginata</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Phocoenidae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Neophocaena phocaenoides</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Phocoena sinus</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Physeteridae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Physeter macrocephalus</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Platanistidae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Platanista spp.</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Ziphiidae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Berardius spp.</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Hyperoodon spp.</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Chiroptera</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Phyllostomidae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td></td><td colspan="2">Platyrrhinus lineatus (Uruguay)</td></tr>
-<tr><td colspan="2">Pteropodidae Volpi volanti o Pteropti</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Acerodon spp. (ad eccezione delle specie elencate nell’allegato I)</td><td colspan="2"></td></tr>
-<tr><td colspan="2">Acerodon jubatus</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Pteropus spp. (ad eccezione delle specie elencate nell’allegato I e escluso il *Pteropus brunneus*) Volpi volanti o Pteropi</td><td colspan="2"></td></tr>
-<tr><td colspan="2">Pterotus insularis Pteropo delle isole Truk</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Pteropus loochoensis</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Pteropus mariannus</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Pteropus molossinus</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Pteropus pelewensis</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Pteropus pilosus</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Pteropus samoensis</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Pteropus tonganus</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Pteropus ualanus</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Pteropus yapensis</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Cingulata</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Dasypodidae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td></td><td colspan="2">*Cabassous tatouay* (Uruguay)</td></tr>
-<tr><td colspan="2"></td><td>*Chaetophractus nationi*[^t-16]</td><td colspan="2"></td></tr>
-<tr><td colspan="2">*Priodontes maximus*</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Dasyuromorphia</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Dasyuridae Topi marsupiali</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Sminthopsis longicaudata Topo marsupiale dalla coda lunga</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Sminthopsis psammophila Topo marsupiale delle sabbie</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Diprotodontia</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Macropodidae Canguri, uallabi</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Dendrolagus inustus</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Dendrolagus ursinus</td><td colspan="2"></td></tr>
-<tr><td colspan="2">Lagorchestes hirsutus</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Lagostrophus fasciatus</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Onychogalea fraenata Uallabi dalle briglie</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Phalangeridae Cuschi</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Phalanger intercastellanus Cusco orientale</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Phalanger mimicus Cusco meridionale o grigio</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Phalanger orientalis Falangero lanoso</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Spilocuscus kraemeri</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Spilocuscus maculatus Falangero o cusco macchiato</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Spilocuscus papuensis</td><td colspan="2"></td></tr>
-<tr><td colspan="2">Potoroidae Ratti canguri, Bettonge</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Bettongia spp. Bettonge</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Vombatidae Vombati</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Lasiorhinus krefftii</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Lagomorpha</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Leporidae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Caprolagus hispidus</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Romerolagus diazi</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Monotremata</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Tachyglossidae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Zaglossus spp.</td><td colspan="2"></td></tr>
-<tr><td colspan="2">Peramelemorphia</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Peramelidae Peramele</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Perameles bougainville</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Thylacomyidae Bilbi</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Macrotis lagot</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Perissodactyla</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Equidae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Equus africanus[^t-17]</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Equus grevyi</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Equus hemionus</td><td colspan="2"></td></tr>
-<tr><td colspan="2">Equus hemionus hemionus</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Equus hemionus khur</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Equus kiang</td><td colspan="2"></td></tr>
-<tr><td colspan="2">Equus przewalskii</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Equus zebra hartmannae</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Equus zebra zebra</td><td colspan="2"></td></tr>
-<tr><td colspan="2">Rhinocerotidae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Rhinocerotidae spp. (ad eccezione delle sottospecie elencate nell’allegato II)</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Ceratotherium simum simum[^t-18] (soltanto le popolazioni di Eswatini, Namibia[^t-19] e Sudafrica)</td><td colspan="2"></td></tr>
-<tr><td colspan="2">Tapiridae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Tapiridae spp. (ad eccezione delle specie elencate nell’allegato II)</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Tapirus terrestris</td><td colspan="2"></td></tr>
-<tr><td colspan="2">Pholidota</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Manidae Pangolini</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Manis spp.[^t-20] (ad eccezione delle specie elencate nell’allegato I)</td><td colspan="2"></td></tr>
-<tr><td colspan="2">Manis crassicaudata Pangolino indiano</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Manis culionensis Pangolino delle Filippine</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Manis gigantea Pangolino gigante</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Manis javanica Pangolino del Borneo</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Manis pentadactyla Pangolino cinese</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Manis temminckii Pangolino di Temminck o del Capo</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Manis tetradactyla Pangolino dalla coda lunga</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Manis tricuspis Pangolino arboreo o tricuspide</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Pilosa</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Bradypodidae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Bradypus pygmaeus</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Bradypus variegates</td><td colspan="2"></td></tr>
-<tr><td colspan="2">Myrmecophagidae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Myrmecophaga tridactyla</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td></td><td colspan="2">Tamandua mexicana (Guatemala)</td></tr>
-<tr><td colspan="2">PRIMATES</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>PRIMATES</td><td colspan="2"></td></tr>
-<tr><td colspan="2">Atelidae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Alouatta palliata</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Alouatta pigra</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Ateles geoffroyi frontatus</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Ateles geoffroyi panamensis</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Brachyteles arachnoides</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Brachyteles hypoxanthus</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Oreonax flavicauda</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Cebidae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Callimico goeldii</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Callithrix aurita</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Callithrix flaviceps</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Leontopithecus spp.</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Saguinus bicolor</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Saguinus geoffroyi</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Saguinus leucopus</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Saguinus martinsi</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Saguinus oedipus</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Saimiri oerstedii</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Cercopithecidae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Cercocebus galeritus</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Cercopithecus diana</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Cercopithecus roloway</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Macaca silenus</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Macaca sylvanus</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Mandrillus leucophaeus</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Mandrillus sphinx</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Nasalis larvatus</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Piliocolobus kirkii</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Piliocolobus rufomitratus</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Presbytis potenziani</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Pygathrix spp.</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Rhinopithecus spp.</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Semnopithecus ajax</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Semnopithecus dussumieri</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Semnopithecus entellus</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Semnopithecus hector</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Semnopithecus hypoleucos</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Semnopithecus priam</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Semnopithecus schistaceus</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Simias concolor</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Trachypithecus geei</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Trachypithecus pileatus</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Trachypithecus shortridgei</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Cheirogaleidae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Cheirogaleidae spp.</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Daubentoniidae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Daubentonia madagascariensis</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Hominidae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Gorilla beringei</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Gorilla gorilla</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Pan spp.</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Pongo abelii</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Pongo pygmaeus Pongo tapanuliensis</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Hylobatidae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Hylobatidae spp.</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Indriidae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Indriidae spp.</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Lemuridae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Lemuridae spp.</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Lepilemuridae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Lepilemuridae spp.</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Lorisidae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Nycticebus spp.</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Pithecidae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Cacajao spp.</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Chiropotes albinasus</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Proboscidea</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Elephantidae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Elephas maximus</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Loxodonta africana (escluse le popolazioni di Botswana, Namibia, Sudafrica e Zimbabwe) Elefante africano</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Loxodonta africana (soltanto le popolazioni di Botswana, Namibia, Sudafrica e Zimbabwe)[^t-21] Elefante africano</td><td colspan="2"></td></tr>
-<tr><td colspan="2">Rodentia</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Chinchillidae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Chinchilla spp.[^t-22]</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Cuniculidae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td></td><td colspan="2">Cuniculus paca (Honduras)</td></tr>
-<tr><td colspan="2">Dasyproctidae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td></td><td colspan="2">Dasyprocta punctata (Honduras)</td></tr>
-<tr><td colspan="2">Erethizontidae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td></td><td colspan="2">Sphiggurus mexicanus (Honduras)</td></tr>
-<tr><td colspan="2"></td><td></td><td colspan="2">Sphiggurus spinosus (Uruguay)</td></tr>
-<tr><td colspan="2">Muridae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Leporillus conditor</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Pseudomys fieldi praeconis</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Xeromys myoides</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Zyzomys pedunculatus</td><td colspan="2"></td></tr>
-<tr><td colspan="2">Sciuridae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Cynomys mexicanus</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td></td><td colspan="2">Marmota caudata (India)</td></tr>
-<tr><td colspan="2"></td><td></td><td colspan="2">Marmota himalayana (India)</td></tr>
-<tr><td colspan="2"></td><td>Ratufa spp.</td><td colspan="2"></td></tr>
-<tr><td colspan="2">Scandentia</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Tupaiidae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Tupaiidae spp.</td><td colspan="2"></td></tr>
-<tr><td colspan="2">Sirenia</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Dugongidae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Dugong dugon</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Trichechidae Manati o Lamantini</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Trichechus inunguis</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Trichechus manatus</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Trichechus senegalensis</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">AVES</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">ANSERIFORMES</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Anatidae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Anas aucklandica</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Anas bernieri</td><td colspan="2"></td></tr>
-<tr><td colspan="2">Anas chlorotis</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Anas formosa</td><td colspan="2"></td></tr>
-<tr><td colspan="2">Anas laysanensis</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Anas nesiotis</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Branta canadensis leucopareia</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Branta ruficollis</td><td colspan="2"></td></tr>
-<tr><td colspan="2">Branta sandvicensis</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Cairina scutulata</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Coscoroba coscoroba</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Cygnus melanocoryphus</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Dendrocygna arborea</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td></td><td colspan="2">Dendrocygna autumnalis (Honduras)</td></tr>
-<tr><td colspan="2"></td><td></td><td colspan="2">Dendrocygna bicolor (Honduras)</td></tr>
-<tr><td colspan="2"></td><td>Oxyura leucocephala</td><td colspan="2"></td></tr>
-<tr><td colspan="2">Rhodonessa caryophyllacea p.e.</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Sarkidiornis melanotos</td><td colspan="2"></td></tr>
-<tr><td colspan="2">APODIFORMES</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Trochilidae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Trochilidae spp.</td><td colspan="2"></td></tr>
-<tr><td colspan="2">Glaucis dohrnii</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">CHARADRIIFORMES</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Burhinidae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td></td><td colspan="2">Burhinus bistriatus (Guatemala)</td></tr>
-<tr><td colspan="2">Laridae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Larus relictus</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Scolopacidae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Numenius borealis</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Numenius tenuirostris</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Tringa guttifer</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">CICONIIFORMES</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Balaenicipitidae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Balaeniceps rex</td><td colspan="2"></td></tr>
-<tr><td colspan="2">Ciconiidae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Ciconia boyciana</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Ciconia nigra</td><td colspan="2"></td></tr>
-<tr><td colspan="2">Jabiru mycteria</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Mycteria cinerea</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Phoenicopteridae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Phoenicopteridae spp.</td><td colspan="2"></td></tr>
-<tr><td colspan="2">Threskiornithidae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Eudocimus ruber</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Geronticus calvus</td><td colspan="2"></td></tr>
-<tr><td colspan="2">Geronticus eremita</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Nipponia nippon</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Platalea leucorodia</td><td colspan="2"></td></tr>
-<tr><td colspan="2">COLUMBIFORMES</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Columbidae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Caloenas nicobarica</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Ducula mindorensis</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Gallicolumba luzonica</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Goura spp.</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td></td><td colspan="2">Nesoenas mayeri (Maurizio)</td></tr>
-<tr><td colspan="2">CORACIIFORMES</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Bucerotidae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Aceros spp.</td><td colspan="2"></td></tr>
-<tr><td colspan="2">Aceros nipalensis</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Anorrhinus spp.</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Anthracoceros spp.</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Berenicornis spp.</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Buceros spp.</td><td colspan="2"></td></tr>
-<tr><td colspan="2">Buceros bicornis</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Penelopides spp.</td><td colspan="2"></td></tr>
-<tr><td colspan="2">Rhinoplax vigil</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Rhyticeros spp.</td><td colspan="2"></td></tr>
-<tr><td colspan="2">Rhyticeros subruficollis</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">CUCULIFORMES</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Musophagidae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Tauraco spp.</td><td colspan="2"></td></tr>
-<tr><td colspan="2">FALCONIFORMES</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>FALCONIFORMES (tutte le specie, esclusi il *Caracara lutosa* e la famiglia degli avvoltoi del nuovo mondo)</td><td colspan="2"></td></tr>
-<tr><td colspan="2">Accipitridae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Aquila adalberti</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Aquila heliaca</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Chondrohierax wilsonii</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Haliaeetus albicilla</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Harpia harpyja</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Pithecophaga jefferyi</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Cathartidae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Gymnogyps californianus</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td></td><td colspan="2">Sarcoramphus papa (Honduras)</td></tr>
-<tr><td colspan="2">Vultur gryphus</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Falconidae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Falco araeus</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Falco jugger</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Falco newtoni (soltanto le popolazioni delle Seychelles)</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Falco peregrinus</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Falco punctatus</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Falco rusticolus</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">GALLIFORMES</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Cracidae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td></td><td colspan="2">Crax alberti (Colombia)</td></tr>
-<tr><td colspan="2">Crax blumenbachii</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td></td><td colspan="2">Crax daubentoni (Colombia)</td></tr>
-<tr><td colspan="2"></td><td></td><td colspan="2">Crax globulosa (Colombia)</td></tr>
-<tr><td colspan="2"></td><td></td><td colspan="2">Crax rubra (Colombia, Guatemala, Honduras)</td></tr>
-<tr><td colspan="2">Mitu mitu</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Oreophasis derbianus</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td></td><td colspan="2">Ortalis vetula (Guatemala, Honduras)</td></tr>
-<tr><td colspan="2"></td><td></td><td colspan="2">Pauxi pauxi (Colombia)</td></tr>
-<tr><td colspan="2">Penelope albipennis</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td></td><td colspan="2">Penelope purpurascens (Honduras)</td></tr>
-<tr><td colspan="2"></td><td></td><td colspan="2">Penelopina nigra (Guatemala)</td></tr>
-<tr><td colspan="2">Pipile jacutinga</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Pipile pipile</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Megapodiidae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Macrocephalon maleo</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Phasianidae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Argusianus argus</td><td colspan="2"></td></tr>
-<tr><td colspan="2">Catreus wallichii</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Colinus virginianus ridgwayi</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Crossoptilon crossoptilon</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Crossoptilon mantchuricum</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Gallus sonneratii</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Ithaginis cruentus</td><td colspan="2"></td></tr>
-<tr><td colspan="2">Lophophorus impejanus</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Lophophorus lhuysii</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Lophophorus sclateri</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td></td><td colspan="2">Lophura leucomelanos (Pakistan)</td></tr>
-<tr><td colspan="2">Lophura edwardsi</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Lophura swinhoii</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td></td><td colspan="2">Meleagris ocellata (Guatemala)</td></tr>
-<tr><td colspan="2"></td><td></td><td colspan="2">Pavo cristatus (Pakistan)</td></tr>
-<tr><td colspan="2"></td><td>Pavo muticus</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Polyplectron bicalcaratum</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Polyplectron germaini</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Polyplectron malacense</td><td colspan="2"></td></tr>
-<tr><td colspan="2">Polyplectron napoleonis</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Polyplectron schleiermacheri</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td></td><td colspan="2">Pucrasia macrolopha (Pakistan)</td></tr>
-<tr><td colspan="2">Rheinardia ocellata</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Syrmaticus ellioti</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Syrmaticus humiae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Syrmaticus mikado</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Syrmaticus reevesii</td><td colspan="2"></td></tr>
-<tr><td colspan="2">Tetraogallus caspius</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Tetraogallus tibetanus</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Tragopan blythii</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Tragopan caboti</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Tragopan melanocephalus</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td></td><td colspan="2">Tragopan satyra (Nepal) Tragopan satiro</td></tr>
-<tr><td colspan="2"></td><td>Tympanuchus cupido attwateri Tetraone di prateria di Attwater</td><td colspan="2"></td></tr>
-<tr><td colspan="2">GRUIFORMES</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Gruidae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Antigone canadensis nesiotes</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Antigone canaensis pulla</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Antigone vipio</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Balearica pavonina</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Gruidae spp. (ad eccezione delle specie elencate nell’allegato I)</td><td colspan="2"></td></tr>
-<tr><td colspan="2">Grus americana</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Grus japonensis</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Grus monacha</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Grus nigricollis</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Leucogeranus leucogeranus</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Otididae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Otididae spp. (ad eccezione delle specie elencate nell’allegato I)</td><td colspan="2"></td></tr>
-<tr><td colspan="2">Ardeotis nigriceps</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Chlamydotis macqueenii</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Chlamydotis undulata</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Houbaropsis bengalensis</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Rallidae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Hypotaenidia sylvestris</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Rhynochetidae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Rhynochetos jubatus</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">PASSERIFORMES</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Alaudidae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td></td><td colspan="2">*Alauda arvensis* (Ucraina) Allodola</td></tr>
-<tr><td colspan="2"></td><td></td><td colspan="2">*Galerida cristata* (Ucraina) Cappellaccia</td></tr>
-<tr><td colspan="2"></td><td></td><td colspan="2">*Lullula arborea* (Ucraina) Tottavilla</td></tr>
-<tr><td colspan="2"></td><td></td><td colspan="2">*Malanocorypha calandra* (Ucraina) Calandra</td></tr>
-<tr><td colspan="2">Atrichornithidae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Atrichornis clamosus</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Cotingidae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td></td><td colspan="2">Cephalopterus ornatus (Colombia)</td></tr>
-<tr><td colspan="2"></td><td></td><td colspan="2">Cephalopterus penduliger (Colombia)</td></tr>
-<tr><td colspan="2">Cotinga maculata</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Rupicola spp.</td><td colspan="2"></td></tr>
-<tr><td colspan="2">Xipholena atropurpurea</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Emberizidae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td></td><td colspan="2">Emberiza citrinella (Ucraina) Zigolo giallo</td></tr>
-<tr><td colspan="2"></td><td></td><td colspan="2">Emberiza hortulana (Ucraina) Ortolano</td></tr>
-<tr><td colspan="2"></td><td>Gubernatrix cristata</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td></td><td colspan="2">Melopyrrha nigra (Cuba)</td></tr>
-<tr><td colspan="2"></td><td>Paroaria capitata</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Paroaria coronata</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Tangara fastuosa</td><td colspan="2">Tiaris canorus (Cuba)</td></tr>
-<tr><td colspan="2">Estrildidae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Amandava formosa</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Lonchura oryzivora</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Poephila cincta cincta</td><td colspan="2"></td></tr>
-<tr><td colspan="2">Fringillidae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td></td><td colspan="2">Caduelis cannabina (Ucraina) Fanello</td></tr>
-<tr><td colspan="2"></td><td></td><td colspan="2">Carduelis carduelis (Ucraina) Cardellino</td></tr>
-<tr><td colspan="2">Carduelis cucullata</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td></td><td colspan="2">Carduelis flammea (Ucraina) Organetto</td></tr>
-<tr><td colspan="2"></td><td></td><td colspan="2">Carduelis hornemanni (Ucraina) Organetto artico</td></tr>
-<tr><td colspan="2"></td><td></td><td colspan="2">Carduelis spinus (Ucraina) Lucherino</td></tr>
-<tr><td colspan="2"></td><td>Carduelis yarrellii</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td></td><td colspan="2">Carpodacus erythrinus (Ucraina) Ciuffolotto scarlatto</td></tr>
-<tr><td colspan="2"></td><td></td><td colspan="2">Loxia curvirostra (Ucraina) Crociere</td></tr>
-<tr><td colspan="2"></td><td></td><td colspan="2">Pyrrhula pyrrhula (Ucraina) Ciuffolotto</td></tr>
-<tr><td colspan="2"></td><td></td><td colspan="2">Serinus serinus (Ucraina) Verzellino</td></tr>
-<tr><td colspan="2">Hirundinidae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Pseudochelidon sirintarae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Icteridae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Xanthopsar flavus</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Meliphagidae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Lichenostomus melanops cassidix</td><td colspan="2"></td></tr>
-<tr><td colspan="2">Muscicapidae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Copsychus malabaricus</td><td colspan="2">Acrocephalus rodericanus (Maurizio)</td></tr>
-<tr><td colspan="2"></td><td>Cyornis ruckii</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Dasyornis broadbenti litoralis</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Dasyornis longirostris</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td></td><td colspan="2">Erithacus rubecula (Ucraina) Pettirosso</td></tr>
-<tr><td colspan="2"></td><td></td><td colspan="2">Ficedula parva (Ucraina) Pigliamosche pettirosso</td></tr>
-<tr><td colspan="2"></td><td></td><td colspan="2">Hippolais icterina (Ucraina) Canapino maggiore</td></tr>
-<tr><td colspan="2"></td><td>Garrulax canorus</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Garrulax taewanus</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Leiothrix argentauris</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Leiothrix lutea</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Liocichla omeiensis</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td></td><td colspan="2">Luscinia luscinia (Ucraina) Usignolo maggiore</td></tr>
-<tr><td colspan="2"></td><td></td><td colspan="2">Luscinia megarhynchos (Ucraina) Usignolo</td></tr>
-<tr><td colspan="2"></td><td></td><td colspan="2">Luscinia svecica (Ucraina) Pettazzurro</td></tr>
-<tr><td colspan="2"></td><td></td><td colspan="2">Monticola saxatilis (Ucraina) Codirossone</td></tr>
-<tr><td colspan="2">Picathartes gymnocephalus</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Picathartes oreas</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td></td><td colspan="2">Sylvia atricapilla (Ucraina) Capinera</td></tr>
-<tr><td colspan="2"></td><td></td><td colspan="2">Sylvia borin (Ucraina) Beccafico</td></tr>
-<tr><td colspan="2"></td><td></td><td colspan="2">Sylvia curruca (Ucraina) Bigiarella</td></tr>
-<tr><td colspan="2"></td><td></td><td colspan="2">Sylvia nisoria (Ucraina) Bigia padovana</td></tr>
-<tr><td colspan="2"></td><td></td><td colspan="2">Terpsiphone bourbonnensis (Maurizio)</td></tr>
-<tr><td colspan="2"></td><td></td><td colspan="2">Turdus merula (Ucraina) Merlo</td></tr>
-<tr><td colspan="2"></td><td></td><td colspan="2">Turdus philomelos (Ucraina) Tordo bottaccio</td></tr>
-<tr><td colspan="2">Oriolidae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td></td><td colspan="2">Oriolus oriolus (Ucraina) Rigogolo</td></tr>
-<tr><td colspan="2">Paradisaeidae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Paradisaeidae spp.</td><td colspan="2"></td></tr>
-<tr><td colspan="2">Paridae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td></td><td colspan="2">Parus ater (Ucraina) Cincia mora</td></tr>
-<tr><td colspan="2">Pittidae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Pitta guajana</td><td colspan="2"></td></tr>
-<tr><td colspan="2">Pitta gurneyi</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Pitta kochi</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Pitta nympha</td><td colspan="2"></td></tr>
-<tr><td colspan="2">Pycnonotidae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Pycnonotus zeylanicus[^t-23]</td><td>[^t-24]</td><td colspan="2"></td></tr>
-<tr><td colspan="2">Sturnidae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Gracula religiosa</td><td colspan="2"></td></tr>
-<tr><td colspan="2">Leucopsar rothschildi</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Troglodytidae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td></td><td colspan="2">Troglodytes troglodytes (Ucraina) Scricciolo</td></tr>
-<tr><td colspan="2">Zosteropidae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Zosterops albogularis</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">PELECANIFORMES</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Fregatidae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Fregata andrewsi</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Pelecanidae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Pelecanus crispus</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Sulidae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Papasula abbotti</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">PICIFORMES</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Capitonidae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td></td><td colspan="2">Semnornis ramphastinus (Colombia)</td></tr>
-<tr><td colspan="2">Picidae Picchi</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Dryocopus javensis richardsi</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Ramphastidae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td></td><td colspan="2">Baillonius bailloni (Argentina)</td></tr>
-<tr><td colspan="2"></td><td>Pteroglossus aracari</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td></td><td colspan="2">Pteroglossus castanotis (Argentina)</td></tr>
-<tr><td colspan="2"></td><td>Pteroglossus viridis</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td></td><td colspan="2">Ramphastos dicolorus (Argentina)</td></tr>
-<tr><td colspan="2"></td><td>Ramphastos sulfuratus</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Ramphastos toco</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Ramphastos tucanus</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Ramphastos vitellinus</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td></td><td colspan="2">Selenidera maculirostris (Argentina)</td></tr>
-<tr><td colspan="2">PODICIPEDIFORMES</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Podicipedidae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Podilymbus gigas</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">PROCELLARIIFORMES</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Diomedeidae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Phoebastria albatrus</td><td colspan="2"></td></tr>
-<tr><td colspan="2">PSITTACIFORMES</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>PSITTACIFORMES (escluse le specie *Agapornis roseicollis,* *Melopsittacus* *undulatus, Nymphicus* *hollandicus* e *Psittacula krameri*)</td><td colspan="2"></td></tr>
-<tr><td colspan="2">Cacatuidae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Cacatua galerita</td><td colspan="2"></td></tr>
-<tr><td colspan="2">Cacatua goffiniana</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Cacatua haematuropygia</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Cacatua moluccensis</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Cacatua sulphurea</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Eolophus roseicapillus</td><td colspan="2"></td></tr>
-<tr><td colspan="2">Probosciger aterrimus</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Loriidae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Eos histrio</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Vini ultramarina</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Psittacidae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Agapornis spp.</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Amazona aestiva</td><td colspan="2"></td></tr>
-<tr><td colspan="2">Amazona arausiaca</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Amazona auropalliata</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Amazona barbadensis</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Amazona brasiliensis</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Amazona finschi</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Amazona guildingii</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Amazona imperialis</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Amazona leucocephala</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Amazona oratrix</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Amazona pretrei</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Amazona rhodocorytha</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Amazona tucumana</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Amazona versicolor</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Amazona vinacea</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Amazona viridigenalis</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Amazona vittata</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Anodorhynchus spp.</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Ara ambiguus</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Ara glaucogularis</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Ara macao</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Ara militaris</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Ara rubrogenys</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Aratinga spp.</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Cyanoliseus patagonus</td><td colspan="2"></td></tr>
-<tr><td colspan="2">Cyanopsitta spixii</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Cyanoramphus cookii</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Cyanoramphus forbesi</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Cyanoramphus novaezelandiae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Cyanoramphus saisseti</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Cyclopsitta diphthalma coxeni</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Eunymphicus cornutus</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Geopsittacus occidentalis p.e.</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Guarouba guarouba</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Myiopsitta monachus</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Nandayus nenday</td><td colspan="2"></td></tr>
-<tr><td colspan="2">Neophema chrysogaster</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Ognorhynchus icterotis</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Pezoporus flaviventris</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Pezoporus occidentalis</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Pezoporus wallicus</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Pionopsitta pileata</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Platycercus eximius</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Poicephalus senegalus</td><td colspan="2"></td></tr>
-<tr><td colspan="2">Primolius couloni</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Primolius maracana</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Psephotellus chrysopterygius</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Psephotellus dissimilis</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Psephotellus pulcherrimus p.e.</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Psittacula echo</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Psittacus erithacus Pappagallo cenerino</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Pyrrhura cruentata</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Rhynchopsitta spp.</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Strigops habroptilus</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">RHEIFORMES</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Rheidae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Pterocnemia pennata (esclusa la popolazione dell’Argentina)</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Pterocnemia pennata pennata (soltanto la popolazione dell’Argentina)</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Rhea americana</td><td colspan="2"></td></tr>
-<tr><td colspan="2">SPHENISCIFORMES</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Spheniscidae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Spheniscus demersus</td><td colspan="2"></td></tr>
-<tr><td colspan="2">Spheniscus humboldti</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">STRIGIFORMES</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>STRIGIFORMES (escluso lo *Sceloglaux albifacies*)</td><td colspan="2"></td></tr>
-<tr><td colspan="2">Strigidae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Heteroglaux blewitti</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Mimizuku gurneyi</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Ninox natalis</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Tytonidae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Tyto soumagnei</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">STRUTHIONIFORMES</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Struthionidae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Struthio camelus (soltanto le popolazioni di Algeria, Burkina Faso, Camerun, Ciad, Mali, Marocco, Mauritania, Niger, Nigeria, Repubblica centrafricana, Senegal e Sudan)</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">TINAMIFORMES</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Tinamidae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Tinamus solitarius</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">TROGONIFORMES</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Trogonidae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Pharomachrus mocinno</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Reptilia Rettili</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">CROCODYLIA</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>CROCODYLIA</td><td colspan="2"></td></tr>
-<tr><td colspan="2">Alligatoridae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Alligator sinesi</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Caiman crocodilus apaporiensis</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Caiman latirostris (esclusa la popolazione dell’Argentina e del Brasile)</td><td>Caiman latirostris (popolazione dell’Argentina e del Brasile[^t-25])</td><td colspan="2"></td></tr>
-<tr><td colspan="2">Melanosuchus niger[^t-26] (esclusa la popolazione di Ecuador e Brasile)</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Crocodylidae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Crocodylus acutus (ad eccezione della popolazione del distretto di gestione integrata delle mangrovie di Bahia de Cispata, Tinajones, La Balsa e zone circostanti, del Dipartimento di Córdoba, Colombia, e della popolazione di Cuba e Messico, che sono incluse nell’allegato II)</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Crocodylus acutus (Messico)[^t-27]</td><td colspan="2"></td></tr>
-<tr><td colspan="2">Crocodylus cataphractus</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Crocodylus intermedius</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Crocodylus mindorensis</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Crocodylus moreletii (ad eccezione della popolazione del Belize che figura nell’allegato II con quota zero per gli esemplari selvatici scambiati a fini commerciali, e della popolazione del Messico, inclusa nell’allegato II)</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Crocodylus niloticus (ad eccezione delle popolazioni di Botswana, Egitto [soggette a quota zero per gli esemplari selvatici scambiati a fini commerciali], Etiopia, Kenya, Madagascar, Malawi, Mozambico, Namibia, Sudafrica, Uganda, Repubblica unita di Tanzania [soggetta a quota annua di esportazione di non oltre 1600 esemplari selvatici compresi trofei di caccia, oltre agli esemplari allevati], Zambia e Zimbabwe; queste popolazioni sono incluse nell’allegato II)</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Crocodylus palustris</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Crocodylus porosus (ad eccezione delle popolazioni di Australia, Indonesia, Malaysia [cattura di animali selvatici limitata allo stato di Sarawak; quota zero per gli esemplari selvatici per gli altri stati malesi (Sabah e Malaysia peninsulare); nessuna modifica alla quota zero se non approvata dalle parti della convenzione CITES], Filippine [soltanto la popolazione delle isole di Palawan] e Papua Nuova Guinea, che sono incluse nell’allegato II)</td><td>Crocodylus porosus Filippine [vale soltanto per la popolazione delle isole di Palawan[^t-28]]</td><td colspan="2"></td></tr>
-<tr><td colspan="2">Crocodylus rhombifer</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Crocodylus siamensis</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Osteolaemus tetraspis</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Tomistoma schlegelii</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Gavialidae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Gavialis gangeticus</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">RHYNCHOCEPHALIA</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Sphenodontidae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Sphenodon spp.</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Sauria</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Agamidae Agamidi</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td></td><td colspan="2">*Calotes ceylonensis* (Sri Lanka)</td></tr>
-<tr><td colspan="2"></td><td></td><td colspan="2">*Calotes desilvai* (Sri Lanka)</td></tr>
-<tr><td colspan="2"></td><td></td><td colspan="2">*Calotes liocephalus* (Sri Lanka)</td></tr>
-<tr><td colspan="2"></td><td></td><td colspan="2">*Calotes liolepis* (Sri Lanka)</td></tr>
-<tr><td colspan="2"></td><td></td><td colspan="2">*Calotes nigrilabris* (Sri Lanka)</td></tr>
-<tr><td colspan="2"></td><td></td><td colspan="2">*Calotes pethiyagodai* (Sri Lanka)</td></tr>
-<tr><td colspan="2"></td><td></td><td colspan="2">*Calotes ceylonensis* (Sri Lanka)</td></tr>
-<tr><td colspan="2"></td><td>Ceratophora aspera[^t-29]</td><td colspan="2"></td></tr>
-<tr><td colspan="2">Ceratophora erdeleni</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Ceratophora karu</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Ceratophora stoddartii[^t-30]</td><td colspan="2"></td></tr>
-<tr><td colspan="2">Ceratophora tennentii</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Cophotis ceylanica</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Cophotis dumbara</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td></td><td colspan="2">Ctenophorus spp. (Australia)</td></tr>
-<tr><td colspan="2"></td><td></td><td colspan="2">Intellagama spp. (Australia)</td></tr>
-<tr><td colspan="2"></td><td>Lyriocephalus scutatus[^t-31] Physignathus cocincinus</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Saara spp.</td><td colspan="2">Tympanocryptis spp. (Australia)</td></tr>
-<tr><td colspan="2"></td><td>Uromastyx spp.</td><td colspan="2"></td></tr>
-<tr><td colspan="2">Anguidae Lucertole alligatore</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Abronia spp.[^t-32] (ad eccezione delle specie incluse nell’allegato I)</td><td colspan="2"></td></tr>
-<tr><td colspan="2">Abronia anzutoi</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Abronia campbelli</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Abronia fimbrata</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Abronia frosti</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Abronia meledona</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Chamaeleonidae Camaleonti</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Archaius spp.</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Bradypodion spp. (ad eccezione delle specie elencate nell’allegato.I)</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Brookesia spp.</td><td colspan="2"></td></tr>
-<tr><td colspan="2">Brookesia perarmata</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Calumma spp.</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Chamaeleo spp.</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Furcifer spp.</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Kinyongia spp.</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Nadzikambia spp.</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Rhampholeon spp.</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Rieppeleon spp.</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Trioceros spp.</td><td colspan="2"></td></tr>
-<tr><td colspan="2">Cordylidae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Cordylus spp.</td><td colspan="2"></td></tr>
-<tr><td colspan="2">Eublepharidae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Goniurosaurus spp. (escluse le specie indigene del Giappone)</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td></td><td colspan="2">Goniurosaurus kuroiwae[^t-33] (Giappone)</td></tr>
-<tr><td colspan="2"></td><td></td><td colspan="2">Goniurosaurus orientalis[^t-34] (Giappone)</td></tr>
-<tr><td colspan="2"></td><td></td><td colspan="2">Goniurosaurus sengokui[^t-35] (Giappone)</td></tr>
-<tr><td colspan="2"></td><td></td><td colspan="2">Goniurosaurus splendens[^t-36] (Giappone)</td></tr>
-<tr><td colspan="2"></td><td></td><td colspan="2">Goniurosaurus toyamai[^t-37] (Giappone)</td></tr>
-<tr><td colspan="2"></td><td></td><td colspan="2">Goniurosaurus yamashinae[^t-38] (Giappone)</td></tr>
-<tr><td colspan="2">Gekkonidae Gechi</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td></td><td colspan="2">*Carphodactylus* spp. (Australia)</td></tr>
-<tr><td colspan="2">Cnemaspis psychedelica</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Cyrtodactylus jeyporensis</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td></td><td colspan="2">Dactylocnemis spp.(Nuova Zelanda)</td></tr>
-<tr><td colspan="2"></td><td>Gekko gecko</td><td colspan="2"></td></tr>
-<tr><td colspan="2">Gonatodes daudini</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td></td><td colspan="2">Hoplodactylus spp. (Nuova Zelanda)</td></tr>
-<tr><td colspan="2">Lygodactylus williamsi</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td></td><td colspan="2">Mokopirirakau spp. (Nuova Zelanda)</td></tr>
-<tr><td colspan="2"></td><td>Nactus serpensinsula Geco dell’Isola Serpente</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Naultinus spp.</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td></td><td colspan="2">Nephrus spp. (Australia)</td></tr>
-<tr><td colspan="2"></td><td></td><td colspan="2">Orraya spp. (Australia)</td></tr>
-<tr><td colspan="2"></td><td>Paroedura androyensis</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Paroedura masobe</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Phelsuma spp. Gechi diurni o Felsume</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td></td><td colspan="2">Phyllurus spp. (Australia)</td></tr>
-<tr><td colspan="2"></td><td>Rhoptropella spp.</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td></td><td colspan="2">Saltuarius spp. (Australia)</td></tr>
-<tr><td colspan="2"></td><td></td><td colspan="2">Sphaerodactylus armasi (Cuba)</td></tr>
-<tr><td colspan="2"></td><td></td><td colspan="2">Sphaerodactylus celicara (Cuba</td></tr>
-<tr><td colspan="2"></td><td></td><td colspan="2">Sphaerodactylus dimorphicus (Cuba)</td></tr>
-<tr><td colspan="2"></td><td></td><td colspan="2">Sphaerodactylus intermedius (Cuba)</td></tr>
-<tr><td colspan="2"></td><td></td><td colspan="2">Sphaerodactylus nigropunctatus alayoi (Cuba)</td></tr>
-<tr><td colspan="2"></td><td></td><td colspan="2">Sphaerodactylus nigropunctatus granti (Cuba)</td></tr>
-<tr><td colspan="2"></td><td></td><td colspan="2">Sphaerodactylus nigropunctatus lissodesmus (Cuba)</td></tr>
-<tr><td colspan="2"></td><td></td><td colspan="2">Sphaerodactylus nigropunctatus ocujal (Cuba)</td></tr>
-<tr><td colspan="2"></td><td></td><td colspan="2">Sphaerodactylus nigropunctatus strategus (Cuba)</td></tr>
-<tr><td colspan="2"></td><td></td><td colspan="2">Sphaerodactylus notatus atactus (Cuba)</td></tr>
-<tr><td colspan="2"></td><td></td><td colspan="2">Sphaerodactylus oliveri (Cuba)</td></tr>
-<tr><td colspan="2"></td><td></td><td colspan="2">Sphaerodactylus pimienta (Cuba)</td></tr>
-<tr><td colspan="2"></td><td></td><td colspan="2">Sphaerodactylus ruibali (Cuba)</td></tr>
-<tr><td colspan="2"></td><td></td><td colspan="2">Strophurus spp. (Australia)</td></tr>
-<tr><td colspan="2"></td><td>Tarentola chazaliae</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td></td><td colspan="2">Toropuku spp. (Nuova Zelanda)</td></tr>
-<tr><td colspan="2"></td><td></td><td colspan="2">Tukutuku spp. (Nuova Zelanda)</td></tr>
-<tr><td colspan="2"></td><td></td><td colspan="2">Underwoodisaurus spp. (Australia)</td></tr>
-<tr><td colspan="2"></td><td>Uroplatus spp. Gechi coda a foglia</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td></td><td colspan="2">Uvidicolus spp. (Australia)</td></tr>
-<tr><td colspan="2"></td><td></td><td colspan="2">Woodworthia spp. (Nuova Zelanda)</td></tr>
-<tr><td colspan="2">Helodermatidae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Heloderma spp.</td><td colspan="2"></td></tr>
-<tr><td colspan="2">Heloderma horridum charlesbogerti</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Iguanidae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Amblyrhynchus cristatus</td><td colspan="2"></td></tr>
-<tr><td colspan="2">Brachylophus spp.</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Conolophus spp.</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Ctenosaura spp.</td><td colspan="2"></td></tr>
-<tr><td colspan="2">Cyclura spp.</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Iguana spp.</td><td colspan="2"></td></tr>
-<tr><td colspan="2">**Phrynosomatidae**</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Phrynosoma spp.</td><td colspan="2"></td></tr>
-<tr><td colspan="2">Sauromalus varius</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Lacertidae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Gallotia simonyi</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Podarcis lilfordi</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Podarcis pityusensis</td><td colspan="2"></td></tr>
-<tr><td colspan="2">**Lanthanotidae**</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Lanthanotidae spp.[^t-39]</td><td colspan="2"></td></tr>
-<tr><td colspan="2">Polychrotidae Anoles</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td></td><td colspan="2">Anolis agueroi (Cuba)</td></tr>
-<tr><td colspan="2"></td><td></td><td colspan="2">Anolis baracoa (Cuba</td></tr>
-<tr><td colspan="2"></td><td></td><td colspan="2">Anolis barbatus (Cuba)</td></tr>
-<tr><td colspan="2"></td><td></td><td colspan="2">Anolis chamaeleonides (Cuba)</td></tr>
-<tr><td colspan="2"></td><td></td><td colspan="2">Anolis equestris (Cuba)</td></tr>
-<tr><td colspan="2"></td><td></td><td colspan="2">Anolis guamuhaya (Cuba)</td></tr>
-<tr><td colspan="2"></td><td></td><td colspan="2">Anolis luteogularis (Cuba)</td></tr>
-<tr><td colspan="2"></td><td></td><td colspan="2">Anolis pigmaequestris (Cuba)</td></tr>
-<tr><td colspan="2"></td><td></td><td colspan="2">Anolis purcus (Cuba)</td></tr>
-<tr><td colspan="2">Scincidae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Corucia zebrata</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td></td><td colspan="2">Egernia spp. (Australia)</td></tr>
-<tr><td colspan="2">Tiliqua adelaidensis</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td></td><td colspan="2">Tiliqua multifasciata (Australia)</td></tr>
-<tr><td colspan="2"></td><td></td><td colspan="2">Tiliqua nigrolutea (Australia)</td></tr>
-<tr><td colspan="2"></td><td></td><td colspan="2">Tiliqua occipitalis (Australia)</td></tr>
-<tr><td colspan="2"></td><td></td><td colspan="2">Tiliqua rugosa (Australia)</td></tr>
-<tr><td colspan="2"></td><td></td><td colspan="2">Tiliqua scincoides intermedia (Australia)</td></tr>
-<tr><td colspan="2"></td><td></td><td colspan="2">Tiliqua scincoides scincoides (Australia)</td></tr>
-<tr><td colspan="2">Teiidae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Crocodilurus amazonicus</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Dracaena spp.</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Tupinambis spp.</td><td colspan="2"></td></tr>
-<tr><td colspan="2">Varanidae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Varanus spp.</td><td colspan="2"></td></tr>
-<tr><td colspan="2">Varanus bengalensis</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Varanus flavescens</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Varanus griseus</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Varanus komodoensis</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Varanus nebulosus</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Xenosauridae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Shinisaurus crocodilurus</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">SERPENTES Serpenti</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Boidae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Boidae spp.</td><td colspan="2"></td></tr>
-<tr><td colspan="2">Acrantophis spp.</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Boa constrictor occidentalis</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Chilabothrus inornatus</td><td colspan="2"></td></tr>
-<tr><td colspan="2">Chilabothrus monensis</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Chilabothrus subflavus</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Sanzinia madagascariensis</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Bolyeriidae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Bolyeriidae spp.</td><td colspan="2"></td></tr>
-<tr><td colspan="2">Bolyeria multocarinata</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Casarea dussumieri</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Colubridae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td></td><td colspan="2">Atretium schistosum (India)</td></tr>
-<tr><td colspan="2"></td><td></td><td colspan="2">Cerberus rhynchops (India)</td></tr>
-<tr><td colspan="2"></td><td>Clelia clelia</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Cyclagras gigas</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Elachistodon westermanni</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Ptyas mucosus</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td></td><td colspan="2">Xenochrophis piscator (India)</td></tr>
-<tr><td colspan="2">Elapidae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Hoplocephalus bungaroides</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td></td><td colspan="2">Micrurus diastema (Honduras)</td></tr>
-<tr><td colspan="2"></td><td></td><td colspan="2">Micrurus nigrocinctus (Honduras)</td></tr>
-<tr><td colspan="2"></td><td>Naja atra</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Naja kaouthia</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Naja mandalayensis</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Naja naja</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Naja oxiana</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Naja philippinensis</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Naja sagittifera</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Naja samarensis</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Naja siamensis</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Naja sputatrix</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Naja sumatrana</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Ophiophagus hannah</td><td colspan="2"></td></tr>
-<tr><td colspan="2">Loxocemidae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Loxocemidae spp.</td><td colspan="2"></td></tr>
-<tr><td colspan="2">Pythonidae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Pythonidae spp.</td><td colspan="2"></td></tr>
-<tr><td colspan="2">Python molurus</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Tropidophiidae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Tropidophiidae spp.</td><td colspan="2"></td></tr>
-<tr><td colspan="2">Viperidae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Atheris desaixi</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Bitis worthingtoni</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td></td><td colspan="2">Crotalus durissus (Honduras)</td></tr>
-<tr><td colspan="2"></td><td></td><td colspan="2">Daboia russelii (India)</td></tr>
-<tr><td colspan="2"></td><td></td><td colspan="2">Daboia palaestinae (Israele)</td></tr>
-<tr><td colspan="2"></td><td>Montivipera wagneri</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Protobothrops mangshanensis Crotalo di Mangshan</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Pseudocerastes urarachnoides</td><td colspan="2"></td></tr>
-<tr><td colspan="2">Vipera ursinii (soltanto le popolazioni dell’Europa, esclusa l’area dell’ex Unione Sovietica)</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">TESTUDINES</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Carettochelyidae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Carettochelys insculpta</td><td colspan="2"></td></tr>
-<tr><td colspan="2">Chelidae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Chelodina mccordi[^t-40]</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Chelus fimbriata</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Chelus orinocensis</td><td colspan="2"></td></tr>
-<tr><td colspan="2">Pseudemydura umbrina</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Cheloniidae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Cheloniidae spp.</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Chelydridae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Chelydra serpentina</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Macroclemys temminckii</td><td colspan="2"></td></tr>
-<tr><td colspan="2">Dermatemydidae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Dermatemys mawii</td><td colspan="2"></td></tr>
-<tr><td colspan="2">Dermochelyidae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Dermochelys coriacea</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Emydidae Tartarughe scatola, tartarughe acquatiche</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Clemmys guttata Testuggine palustre punteggiata</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td></td><td colspan="2">Emys orbicularis (Ucraina) Testuggine palustre europea</td></tr>
-<tr><td colspan="2"></td><td>Emydoidea blandingii Tartaruga di Blanding</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Glyptemys insculpta</td><td colspan="2"></td></tr>
-<tr><td colspan="2">Glyptemys muhlenbergii</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td></td><td colspan="2">Graptemys spp. [USA (ad eccezione delle specie elencate nell’allegato II)]</td></tr>
-<tr><td colspan="2"></td><td>Graptemys barbouri</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Graptemys ernesti</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Graptemys gibbonsi</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Graptemys pearlensis</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Graptemys pulchra</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Malaclemys terrapin</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Terrapene spp.</td><td colspan="2"></td></tr>
-<tr><td colspan="2">Terrapene coahuila</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Geoemydidae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Batagur affinis</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Batagur baska Tartaruga fluviale indiana</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Batagur borneoensis[^t-41]</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Batagur dhongoka</td><td colspan="2"></td></tr>
-<tr><td colspan="2">Batagur kachuga</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Batagur trivittata[^t-42]</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Cuora spp.[^t-43] (ad eccezione delle specie elencate nell’allegato I) Tartarughe scatole asiatiche</td><td colspan="2"></td></tr>
-<tr><td colspan="2">Cuora bourreti</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Cuora galbinifrons</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Cuora picturata</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Cyclemys spp. Tartarughe foglia asiatiche</td><td colspan="2"></td></tr>
-<tr><td colspan="2">Geoclemys hamiltonii Tartaruga di Hamilton</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Geoemyda japonica</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Geoemyda spengleri Tartaruga foglia a petto nero</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Hardella thurjii Tartaruga di fiume incoronata</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Heosemys annandalii[^t-44]</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Heosemys depressa[^t-45]</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Heosemys grandis Tartaruga palustre asiatica gigante</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Heosemys spinosa Tartaruga spinosa</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Leucocephalon yuwonoi</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Malayemys khoratenis</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Malayemys macrocephala</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Malaemys subtrijuga</td><td colspan="2"></td></tr>
-<tr><td colspan="2">Mauremys annamensis</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td></td><td colspan="2">Mauremys iversoni (Cina)</td></tr>
-<tr><td colspan="2"></td><td>Mauremys japonica Testuggine del Giappone</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td></td><td colspan="2">Mauremys megalocephala (Cina) Testuggine palustre cinese a capo grosso</td></tr>
-<tr><td colspan="2"></td><td>Mauremys mutica Testuggine palustre asiatica gialla</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Mauremys nigricans</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td></td><td colspan="2">Mauremys pritchardi (Cina)</td></tr>
-<tr><td colspan="2"></td><td></td><td colspan="2">Mauremys reevesii (Cina)</td></tr>
-<tr><td colspan="2"></td><td></td><td colspan="2">Mauremys sinensis (Cina)</td></tr>
-<tr><td colspan="2">Melanochelys tricarinata</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Melanochelys trijuga Tartaruga nera indiana</td><td colspan="2"></td></tr>
-<tr><td colspan="2">Morenia ocellata</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Morenia petersi</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Notochelys platynota</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td></td><td colspan="2">Ocadia glyphistoma (Cina)</td></tr>
-<tr><td colspan="2"></td><td></td><td colspan="2">Ocadia philippeni (Cina)</td></tr>
-<tr><td colspan="2"></td><td>Orlitia borneensis[^t-46]</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Pangshura spp.</td><td colspan="2"></td></tr>
-<tr><td colspan="2">Pangshura tecta Tartaruga a tetto dell’India</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Rhinoclemmys spp. Tartarughe terrestri americane</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Sacalia bealei</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td></td><td colspan="2">Sacalia pseudocellata (Cina)</td></tr>
-<tr><td colspan="2"></td><td>Sacalia quadriocellata</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Siebenrockiella crassicollis</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Siebenrockiella leytensis</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Vijayachelys silvatica</td><td colspan="2"></td></tr>
-<tr><td colspan="2">**Kinosternidae**</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Claudius angustatus Tartaruga del fango</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Kinosternon spp. (ad eccezione delle specie elencate nell’allegato I)</td><td colspan="2"></td></tr>
-<tr><td colspan="2">Kinosternon cora</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Kinosternon vogti</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Staurotypus salvinii</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Staurotypus triporcatus</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Sternotherus spp.</td><td colspan="2"></td></tr>
-<tr><td colspan="2">Platysternidae Platisterno capogrosso</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Platysternidae spp.</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Podocnemididae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Erymnochelys madagascariensis Podocnemide del Madagascar</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Peltocephalus dumerilianus</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Podocnemis spp.</td><td colspan="2"></td></tr>
-<tr><td colspan="2">Testudinidae Testuggini</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Testudinidae spp.[^t-47]</td><td colspan="2"></td></tr>
-<tr><td colspan="2">Astrochelys radiata</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Astrochelys yniphora</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Chelonoidis nigra</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Geochelone elegans</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Geochelone platynota Testuggine stellata del Myanmar</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Gopherus flavomarginatus</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Malacochersus tornieri</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Psammobates geometricus</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Pyxis arachnoides</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Pyxis planicauda</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Testudo kleinmanni</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Trionychidae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Amyda cartilaginea Tartaruga dal guscio molle asiatica</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Apalone spp. (ad eccezione delle sottospecie elencate nell’allegato I) Tartarughe dal guscio molle</td><td colspan="2"></td></tr>
-<tr><td colspan="2">Apalone spinifera atra Tartaruga dal guscio molle nera</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Chitra spp.</td><td colspan="2"></td></tr>
-<tr><td colspan="2">Chitra chitra</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Chitra vandijki</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Cyclanorbis elegans</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Cyclanorbis senegalensis</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Cycloderma aubryi</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Cycloderma frenatum</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Dogania subplana Tartaruga dal guscio molle della Malesia</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Lissemys ceylonensis</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Lissemys punctata Tartaruga alata indiana</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Lissemys scutata</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Nilssonia formosa Tartaruga dal guscio molle pavonina del Myanmar</td><td colspan="2"></td></tr>
-<tr><td colspan="2">Nilssonia gangeticus Tartaruga dal guscio molle del Gange</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Nilssonia hurum</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Nilssonia leithii Tartaruga dal guscio molle di Leith</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Nilssonia nigricans</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Palea steindachneri Tartaruga dal guscio molle dal collo caruncolato</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Pelochelys spp.</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Pelodiscus axenaria</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Pelodiscus maackii</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Pelodiscus parviformis</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Rafetus euphraticus</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Rafetus swinhoei Tartaruga dal guscio molle gigante dello Yang‑Tze</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Trionyx triunguis</td><td colspan="2"></td></tr>
-<tr><td colspan="2">Amphibia Anfibi</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Anura Rane e rospi</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Aromobatidae Rane arboricole criptiche</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Allobates femoralis</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Allobates hodli</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Allobates myersi</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Allobates rufulus</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Allobates zaparo</td><td colspan="2"></td></tr>
-<tr><td colspan="2">Bufonidae Rospi</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Altiphrynoides spp.</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Atelopus zeteki</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Incilius periglenes Rospo dorato</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Nectophrynoides spp. Rospi vivipari africani</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Nimbaphrynoides spp.</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Sclerophrys channingi</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Sclerophrys superciliaris</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Calyptocephalellidae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td></td><td colspan="2">Calyptocephalella gayi (Cile)</td></tr>
-<tr><td colspan="2">**Centrolenidae**</td><td>Centrolenidae spp.</td><td colspan="2"></td></tr>
-<tr><td colspan="2">Dendrobatidae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Adelphobates spp.</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Ameerega spp.</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Andinobates spp.</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Dendrobates spp. Dendrobatidi</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Epipedobates spp.</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Exidobates spp.</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Hyloxalus azureiventris</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Minyobates spp.</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Oophaga spp.</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Paruwrobates andinus</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Paruwrobates erythromos</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Phyllobates spp. Fillobati</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Ranitomeya spp.</td><td colspan="2"></td></tr>
-<tr><td colspan="2">Dicroglossidae Ranidi</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Euphlyctis hexadactylus</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Hoplobatrachus tigerinus</td><td colspan="2"></td></tr>
-<tr><td colspan="2">Hylidae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Agalychnis spp.[^t-48]</td><td colspan="2"></td></tr>
-<tr><td colspan="2">Mantellidae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Mantella spp.</td><td colspan="2"></td></tr>
-<tr><td colspan="2">Microhylidae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Dyscophus antongilii Rana pomodoro</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Dyscophus guineti</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Dyscophus insularis</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Scaphiophryne gottlebei</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Scaphiophryne boribory</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Scaphiophryne marmorat</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Scaphiophryne spinosa</td><td colspan="2"></td></tr>
-<tr><td colspan="2">Myobatrachidae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Rheobatrachus spp. (esclusi il *Rheobatrachus silus* e il *Rheobatrachus vitellinus*)</td><td colspan="2"></td></tr>
-<tr><td colspan="2">Telmatobiidae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Telmatobius culeus</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">CAUDATA</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Ambystomatidae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Ambystoma dumerilii</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Ambystoma mexicanum</td><td colspan="2"></td></tr>
-<tr><td colspan="2">Cryptobranchidae Salamandre giganti</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Andrias spp. Salamandre giganti</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td></td><td colspan="2">Cryptobranchus alleganiensis (Stati Uniti) Salamandra alligatore</td></tr>
-<tr><td colspan="2">Hynobiidae Salamandre asiatiche</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td></td><td colspan="2">Hynobius amjiensis (Cina)</td></tr>
-<tr><td colspan="2">Salamandridae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td></td><td colspan="2">Echinotriton andersoni[^t-49] (Giappone)</td></tr>
-<tr><td colspan="2"></td><td>Echinotriton chinhaiensis</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Echinotriton maxiquadratus</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Laotriton laoensis[^t-50]</td><td colspan="2"></td></tr>
-<tr><td colspan="2">Neurergus kaiseri</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Paramesotriton spp.</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td></td><td colspan="2">Salamandra algira (Algeria)</td></tr>
-<tr><td colspan="2"></td><td>Tylototriton spp.</td><td colspan="2"></td></tr>
-<tr><td colspan="2">Elasmobranchii Squali e razze</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">CARCHARHINIFORMES</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Carcharhinidae Squali requiem</td><td>*Carcharhinidae* spp.[^t-51]</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Carcharhinus falciformis[^t-52] Squalo setoso</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Carcharhinus longimanus[^t-53] Squalo longimanus</td><td colspan="2"></td></tr>
-<tr><td colspan="2">Sphyrnidae Squali martello</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>*Sphyrnidae* spp.</td><td colspan="2"></td></tr>
-<tr><td colspan="2">LAMNIFORMES</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Alopiidae Squali lamniformi</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>*Alopias* spp. Squali lamniformi</td><td colspan="2"></td></tr>
-<tr><td colspan="2">Cetorhinidae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Cetorhinus maximus</td><td colspan="2"></td></tr>
-<tr><td colspan="2">Lamnidae Squali bianchi</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Carcharodon carcharias Squalo bianco</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Isurus oxyrinchus</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Mako pinna corta</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Isurus paucus Mako pinna lunga</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Lamna nasus Smeriglio</td><td colspan="2"></td></tr>
-<tr><td colspan="2">MYLIOBATIFORMES</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Myliobatidae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Mobula spp.</td><td colspan="2"></td></tr>
-<tr><td colspan="2">Potamotrygonidae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td></td><td colspan="2">Paratrygon aiereba (Colombia)</td></tr>
-<tr><td colspan="2"></td><td></td><td colspan="2">Potamotrygon spp. (Brasile, ad eccezione delle specie elencate nell’allegato II)</td></tr>
-<tr><td colspan="2"></td><td>Potamotrygon albimaculata</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td></td><td colspan="2">Potamotrygon constellata (Colombia)</td></tr>
-<tr><td colspan="2"></td><td>Potamotrygon henlei</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Potamotrygon jabuti</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Potamotrygon leopoldi</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td></td><td colspan="2">Potamotrygon magdalenae (Colombia)</td></tr>
-<tr><td colspan="2"></td><td>Potamotrygon marquesi</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td></td><td colspan="2">Potamotrygon motoro (Colombia)</td></tr>
-<tr><td colspan="2"></td><td></td><td colspan="2">Potamotrygon orbignyi (Colombia)</td></tr>
-<tr><td colspan="2"></td><td></td><td colspan="2">Potamotrygon schroederi (Colombia)</td></tr>
-<tr><td colspan="2"></td><td></td><td colspan="2">Potamotrygon scobina (Colombia)</td></tr>
-<tr><td colspan="2"></td><td>Potamotrygon signata</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Potamotrygon wallacei</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td></td><td colspan="2">Potamotrygon yepezi (Colombia)</td></tr>
-<tr><td colspan="2">ORECTOLOBIFORMES</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Rhincodontidae Squali balena</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Rhincodon typus Squalo balena</td><td colspan="2"></td></tr>
-<tr><td colspan="2">PRISTIFORMES Pesci sega</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Pristidae spp.</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">RHINOPRISTIFORMES</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Glaucostegidae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Glaucostegus spp.</td><td colspan="2"></td></tr>
-<tr><td colspan="2">Rhinidae Pesci violino</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Rhinidae spp.</td><td colspan="2"></td></tr>
-<tr><td colspan="2">**Rhinobatidae** Pesci chitarra</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Rhinobatidae spp.</td><td colspan="2"></td></tr>
-<tr><td colspan="2">Rajiformes</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Actinopterygii</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">ACIPENSERIFORMES</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>ACIPENSERIFORMES (escluse le specie elencate nell’allegato I)</td><td colspan="2"></td></tr>
-<tr><td colspan="2">Acipenseridae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Acipenser brevirostrum</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Acipenser sturio</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">ANGUILLIFORMES</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Anguillidae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Anguilla anguilla</td><td colspan="2"></td></tr>
-<tr><td colspan="2">CYPRINIFORMES</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Catostomidae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Chasmistes cujus</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Cyprinidae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Caecobarbus geertsi</td><td colspan="2"></td></tr>
-<tr><td colspan="2">Probarbus jullieni</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">OSTEOGLOSSIFORMES</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Arapaimidae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Arapaima gigas Arapaima, Piracucù</td><td colspan="2"></td></tr>
-<tr><td colspan="2">Osteoglossidae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Scleropages aureus</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Scleropages formosus (comprende la nuova specie descritta di recente *Scleropages inscriptus*) Scleropage asiatico</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Scleropages legendrei</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Scleropages macrocephalus</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">PERCIFORMES</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Labridae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Cheilinus undulatus</td><td colspan="2"></td></tr>
-<tr><td colspan="2">Pomacanthidae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Holacanthus clarionensis Pesce angelo di Clarion</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td></td><td colspan="2">Holocanthus limbaughi (Francia)</td></tr>
-<tr><td colspan="2">Sciaenidae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Totoaba macdonaldi</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">SILURIFORMES</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Loricariidae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Hypancistrus zebra[^t-54] Pesce gatto zebra</td><td colspan="2"></td></tr>
-<tr><td colspan="2">Pangasiidae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Pangasianodon gigas</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">SYNGNATHIFORMES</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Syngnathidae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Hippocampus spp.</td><td colspan="2"></td></tr>
-<tr><td colspan="2">Sarcopterygii</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">CERATODONTIFORMES</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Ceratodontidae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Neoceratodus forsteri</td><td colspan="2"></td></tr>
-<tr><td colspan="2">COELACANTHIFORMES</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Latimeriidae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Latimeria spp.</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Echinodermata</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Holothuroidea</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">ASPIDOCHIROTIDA</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Holothuriidae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Holothuria (Microthele) fuscogilva</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Holothuria (Microthele) nobilis</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Holothuria (Microthele) whitmaei</td><td colspan="2"></td></tr>
-<tr><td colspan="2">Stichopodidae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td></td><td colspan="2">Isostichopus fuscus (Ecuador)</td></tr>
-<tr><td colspan="2"></td><td>Thelenota spp.[^t-55]</td><td colspan="2"></td></tr>
-<tr><td colspan="2">Arthropoda</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Arachnida</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">ARANEAE</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Theraphosidae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Aphonopelma pallidum</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Brachypelma spp.</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td></td><td colspan="2">Caribena versicolor (UE)</td></tr>
-<tr><td colspan="2"></td><td>Poecilotheria spp.</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Sericopelma angustum</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Sericopelma embrithes</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Tliltocatl spp.</td><td colspan="2"></td></tr>
-<tr><td colspan="2">SCORPIONES</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Scorpionidae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Pandinus camerounensis</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Pandinus dictator</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Pandinus gambiensis</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Pandinus imperator</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Pandinus roeseli</td><td colspan="2"></td></tr>
-<tr><td colspan="2">Insecta</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">COLEOPTERA</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Dynastidae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Dynastes satanas</td><td colspan="2"></td></tr>
-<tr><td colspan="2">Lucanidae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td></td><td colspan="2">Colophon spp. (Sudafrica)</td></tr>
-<tr><td colspan="2">LEPIDOPTERA Farfalle</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Nymphalidae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td></td><td colspan="2">Agrias amydon boliviensis (Bolivia)</td></tr>
-<tr><td colspan="2"></td><td></td><td colspan="2">Morpho godartii lachaumei (Bolivia)</td></tr>
-<tr><td colspan="2"></td><td></td><td colspan="2">Prepona praeneste buckleyana (Bolivia)</td></tr>
-<tr><td colspan="2">Papilionidae Ornitottere e Papilionidi</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Achillides chikae chikae (Papilio chikae)</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Achillides chikae hermeli</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Atrophaneura jophon</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Atrophaneura pandiyana</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Bhutanitis spp.</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Ornithoptera spp.</td><td colspan="2"></td></tr>
-<tr><td colspan="2">Ornithoptera alexandrae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Papilio homerus Papilio di Omero</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Papilio hospiton Macaone di Sardegna</td><td colspan="2"></td></tr>
-<tr><td colspan="2">Parides burchellanus</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Parnassius apollo</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Teinopalpus spp.</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Trogonoptera spp.</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Troides spp.</td><td colspan="2"></td></tr>
-<tr><td colspan="2">Annelida</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Hirudinoidea</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">ARHYNCHOBDELLIDA</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Hirudinidae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Hirudo medicinalis</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Hirudo verbena</td><td colspan="2"></td></tr>
-<tr><td colspan="2">Mollusca</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Bivalvia</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">MYTILOIDA</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Mytilidae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Lithophaga lithophaga</td><td colspan="2"></td></tr>
-<tr><td colspan="2">UNIONIDA</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Unionidae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Conradilla caelata</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Cyprogenia aberti</td><td colspan="2"></td></tr>
-<tr><td colspan="2">Dromus dromas</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Epioblasma curtisi</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Epioblasma florentina</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Epioblasma sampsoni</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Epioblasma sulcata perobliqua</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Epioblasma torulosa gubernaculum</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Epioblasma torulosa rangiana</td><td colspan="2"></td></tr>
-<tr><td colspan="2">Epioblasma torulosa torulosa</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Epioblasma turgidula</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Epioblasma walkeri</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Fusconaia cuneolus</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Fusconaia edgariana</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Lampsilis higginsii</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Lampsilis orbiculata orbiculata</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Lampsilis satura</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Lampsilis virescens</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Plethobasus cicatricosus</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Plethobasus cooperianus</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Pleurobema clava</td><td colspan="2"></td></tr>
-<tr><td colspan="2">Pleurobema plenum</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Potamilus capax</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Quadrula intermedia</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Quadrula sparsa</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Toxolasma cylindrella</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Unio nickliniana</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Unio tampicoensis tecomatensis</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Villosa trabalis</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">VENEROIDA</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Tridacnidae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Tridacnidae spp.</td><td colspan="2"></td></tr>
-<tr><td colspan="2">Cephalopoda</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">NAUTILIDA</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Nautilidae spp.</td><td colspan="2"></td></tr>
-<tr><td colspan="2">Gastropoda</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Cepolidae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Polymita spp.</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Archaeogastropoda</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">MESOGASTROPODA</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Strombidae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Strombus gigas</td><td colspan="2"></td></tr>
-<tr><td colspan="2">STYLOMMATOPHORA</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Achatinellidae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Achatinella spp.</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Camaenidae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Papustyla pulcherrima</td><td colspan="2"></td></tr>
-<tr><td colspan="2">Cnidaria</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Anthozoa</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">ANTIPTHARIA</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>ANTIPATHARIA spp.</td><td colspan="2"></td></tr>
-<tr><td colspan="2">GORGONACEAE</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Corallidae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td></td><td colspan="2">Corallium elatius (Cina)</td></tr>
-<tr><td colspan="2"></td><td></td><td colspan="2">Corallium japonicum (Cina)</td></tr>
-<tr><td colspan="2"></td><td></td><td colspan="2">Corallium konjoi (Cina)</td></tr>
-<tr><td colspan="2"></td><td></td><td colspan="2">Corallium secundum (Cina)</td></tr>
-<tr><td colspan="2">HELIOPORACEAE</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Helioporidae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Helioporidae spp.[^t-56]</td><td colspan="2"></td></tr>
-<tr><td colspan="2">SCLERACTINIA</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>SCLERACTINIA spp.[^t-57]</td><td colspan="2"></td></tr>
-<tr><td colspan="2">STOLONIFERA</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Tubiporidae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Tubiporidae spp.[^t-58]</td><td colspan="2"></td></tr>
-<tr><td colspan="2">Hydrozoa</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">MILLEPORINA</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Milleporidae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Milleporidae spp.[^t-59]</td><td colspan="2"></td></tr>
-<tr><td colspan="2">STYLASTERINA</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Stylasteridae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Stylasteridae spp.[^t-60]</td><td colspan="2"></td></tr>
-<tr><td colspan="2">Flora (Piante)</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Agavaceae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Agave parviflora</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Agave victoriae‑reginae #4</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Nolina interrata (incluse tutte le parti e i prodotti, e in particolare i semi)</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Yucca queretaroensis</td><td colspan="2"></td></tr>
-<tr><td colspan="2">**Aizoaceae**</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td></td><td colspan="2">Conophytum spp. (Sudafrica)</td></tr>
-<tr><td colspan="2"></td><td></td><td colspan="2">Mestokleama tuberosum (Sudafrica)</td></tr>
-<tr><td colspan="2">Amaryllidaceae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Galanthus spp. #4</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Sternbergia spp. #4</td><td colspan="2"></td></tr>
-<tr><td colspan="2">Anacardiaceae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Operculicarya decaryi</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Operculicarya hyphaenoides</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Operculicarya pachypus</td><td colspan="2"></td></tr>
-<tr><td colspan="2">Apocynaceae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Hoodia spp. #9</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Pachypodium spp. #4</td><td colspan="2"></td></tr>
-<tr><td colspan="2">Pachypodium ambongense</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Pachypodium baronii (comprende la var. windsorii)</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Pachypodium decaryi</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td></td><td colspan="2">Raphionacme zeyheri spp. (Sudafrica)</td></tr>
-<tr><td colspan="2"></td><td>Rauvolfia serpentina #2</td><td colspan="2"></td></tr>
-<tr><td colspan="2">Araliaceae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Panax ginseng #3 (soltanto la popolazione della Russia)</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Panax quinquefolius #3</td><td colspan="2"></td></tr>
-<tr><td colspan="2">Araucariaceae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Araucaria araucana</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Asparagaceae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Beaucarnea spp. Piede d’elefante</td><td colspan="2"></td></tr>
-<tr><td colspan="2">Berberidaceae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Podophyllum hexandrum #2</td><td colspan="2"></td></tr>
-<tr><td colspan="2">**Bignoniaceae**</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Handroanthus spp.[^t-61] #17</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Roseodendron spp.[^t-62] #17</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Tabebuia spp.[^t-63] #17</td><td colspan="2"></td></tr>
-<tr><td colspan="2">Bromeliaceae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Tillandsia harrisii #4</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Tillandsia kammii #4</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Tillandsia xerographica #4</td><td colspan="2"></td></tr>
-<tr><td colspan="2">Cactaceae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Cactaceae spp.[^t-64] #4, esclusi Pereskia spp., Pereskiopsis spp. e Quiabentia spp., compresi, tra gli altri, Peyote (Lophophora williamsii), San Pedro (Echinopsis pachanoi), regina della notte (Selenicereus grandiflorus), fico d’India o nopal (Opuntia spp.), Pitaya (Hylocereus spp., Selenicereus spp.), «palos de agua», «rainsticks» o «bastoni della pioggia» (Corryocactus spp., Echinopsis spp., Eulychnia spp.)</td><td colspan="2"></td></tr>
-<tr><td colspan="2">Ariocarpus spp.</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Astrophytum asterias</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Aztekium ritteri</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Coryphantha werdermannii</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Discocactus spp.</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Discocactus horstii</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Echinocereus ferreiranus ssp. Lindsayorum</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Echinocereus schmollii</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Escobaria minima</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Escobaria sneedii</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Mammillaria pectinifera (incluso ssp. Solisioides)</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Melocactus conoideus</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Melocactus deinacanthus</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Melocactus glaucescens</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Melocactus paucispinus</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Obregonia denegrii</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Pachycereus militaris</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Pediocactus bradyi</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Pediocactus knowltonii</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Pediocactus paradinei</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Pediocactus peeblesianus</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Pediocactus sileri</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Pelecyphora spp.</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Sclerocactus blainei</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Sclerocactus brevihamatus ssp. tobuschii</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Sclerocactus brevispinus</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Sclerocactus cloverae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Sclerocactus erectocentrus</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Sclerocactus glaucus</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Sclerocactus mariposensis</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Sclerocactus mesae‑verdae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Sclerocactus nyensis</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Sclerocactus papyracanthus</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Sclerocactus pubispinus</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Sclerocactus sileri</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Sclerocactus wetlandicus</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Sclerocactus wrightiae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Strombocactus spp.</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Turbinicarpus spp.</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Uebelmannia spp.</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Caryocaraceae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Caryocar costaricense #4</td><td colspan="2"></td></tr>
-<tr><td colspan="2">Compositae (Asteraceae)</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td></td><td colspan="2">*Crassothonna cacalioides* (Sudafrica)</td></tr>
-<tr><td colspan="2"></td><td></td><td colspan="2">*Crassothonna clavifolia* (Sudafrica)</td></tr>
-<tr><td colspan="2"></td><td></td><td colspan="2">*Othonna armiana* (Sudafrica)*)*</td></tr>
-<tr><td colspan="2"></td><td></td><td colspan="2">*Othonna euphorbioides* (Sudafrica)</td></tr>
-<tr><td colspan="2"></td><td></td><td colspan="2">*Othonna retrorsa* (Sudafrica)</td></tr>
-<tr><td colspan="2">Saussurea costus (nota anche come S. lappa, Aucklandia lappa o A. costus) Lappa Bardena</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">**Crassulaceae**</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Rhodiola spp. #2 Rodiola rosea</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td></td><td colspan="2">Tylecodon bodleyae (Sudafrica)</td></tr>
-<tr><td colspan="2"></td><td></td><td colspan="2">Tylecodon nolteei (Sudafrica)</td></tr>
-<tr><td colspan="2"></td><td></td><td colspan="2">Tylecodon reticulatus (Sudafrica)</td></tr>
-<tr><td colspan="2">Cucurbitaceae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Zygosicyos pubescens</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Zygosicyos tripartitus</td><td colspan="2"></td></tr>
-<tr><td colspan="2">Cupressaceae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Fitzroya cupressoides</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Pilgerodendron uviferum</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Widdringtonia whytei</td><td colspan="2"></td></tr>
-<tr><td colspan="2">Cyatheaceae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Cyathea spp. #4</td><td colspan="2"></td></tr>
-<tr><td colspan="2">Cycadaceae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Cycadaceae spp. #4</td><td colspan="2"></td></tr>
-<tr><td colspan="2">Cycas beddomei</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Dicksoniaceae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Cibotium barometz #4</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Dicksonia spp. #4 (popolazioni d’America)</td><td colspan="2"></td></tr>
-<tr><td colspan="2">Didiereaceae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Didieraceaespp. #4</td><td colspan="2"></td></tr>
-<tr><td colspan="2">Dioscoreaceae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Dioscorea deltoidea #4</td><td colspan="2"></td></tr>
-<tr><td colspan="2">Droseraceae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Dionaea muscipula #4</td><td colspan="2"></td></tr>
-<tr><td colspan="2">Ebenaceae Ebani</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Diospyros spp #5 (Popolazioni del Madagascar)</td><td colspan="2"></td></tr>
-<tr><td colspan="2">Euphorbiaceae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Euphorbia spp.[^t-65] #4 (soltanto le specie succulente che figuravano nell’edizione aggiornata di «The CITES Checklist of Succulent Euphorbia Taxa»); comprende, tra le altre, *E. antisyphilitica*</td><td colspan="2"></td></tr>
-<tr><td colspan="2">Euphorbia ambovombensis</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Euphorbia capsaintemariensis</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Euphorbia cremersii (comprende la forma *viridifolia* e la var. *rakotozafyi*)</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Euphorbia cylindrifolia (comprende la ssp. *tuberifera*)</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Euphorbia decaryi (comprende le vars. *ampanihyensis, robinsonii* e *spirosticha*)</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Euphorbia francoisii</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Euphorbia moratii (comprende le vars. *antsingiensis, bemarahensis* e *multiflora*)</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Euphorbia parvicyathophora</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Euphorbia quartziticola</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Euphorbia tulearensis</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Fagaceae Faggi, Querce</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td></td><td colspan="2">Quercus mongolica #5 (Federazione russa)</td></tr>
-<tr><td colspan="2">Fouquieriaceae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Fouquieria columnaris #4</td><td colspan="2"></td></tr>
-<tr><td colspan="2">Fouquieria fascicolata</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Fouquieria purpusii</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">**Geraniaceae**</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td></td><td colspan="2">Monsonia herrei (Sudafrica)</td></tr>
-<tr><td colspan="2"></td><td></td><td colspan="2">Monsonia multifida (Sudafrica)</td></tr>
-<tr><td colspan="2"></td><td></td><td colspan="2">Monsonia patersonii (Sudafrica)</td></tr>
-<tr><td colspan="2"></td><td></td><td colspan="2">Pelargonium crassicaule (Sudafrica)</td></tr>
-<tr><td colspan="2"></td><td></td><td colspan="2">Pelargonium triste (Sudafrica)</td></tr>
-<tr><td colspan="2">Gnetaceae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td></td><td colspan="2">Gnetum montanum #1 (Nepal)</td></tr>
-<tr><td colspan="2">Juglandaceae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Oreomunnea pterocarpa #4</td><td colspan="2"></td></tr>
-<tr><td colspan="2">Lauraceae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Aniba rosaeodora #12</td><td colspan="2"></td></tr>
-<tr><td colspan="2">Leguminosae (Fabaceae) Leguminose</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>*Afzelia* spp. #17 (riguarda soltanto le popolazioni africane) Mogano africano</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Dalbergia spp. #15 (ad eccezione delle specie incluse nell’allegato I)</td><td colspan="2"></td></tr>
-<tr><td colspan="2">Dalbergia nigra Palissandro brasiliano</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td></td><td colspan="2">Dipteryx panamensis[^t-66] (Costa Rica, Nicaragua) Almendro</td></tr>
-<tr><td colspan="2"></td><td>Dipteryx spp.[^t-67] #17</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Guibourtia demeusei #15</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Guibourtia pellegriniana #15</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Guibourtia tessmanii #15</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Paubrasilia echinata #10</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Pericopsis elata #17</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Platymiscium parviflorum #4</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Pterocarpus santalinus #7</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Pterocarpus spp. #17 (riguarda soltanto le popolazioni africane)</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Senna meridionalis</td><td colspan="2"></td></tr>
-<tr><td colspan="2">Liliaceae (Aloaceae)</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Aloe spp. #4 (esclusa *Aloe vera,* chiamata anche *Aloe* *barbadensis* e prodotti finiti di *Aloe ferox –* Aloe del Capo che sono imballati e pronti a essere spediti per la vendita al dettaglio)</td><td colspan="2"></td></tr>
-<tr><td colspan="2">Aloe albida</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Aloe albiflora</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Aloe alfredii</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Aloe bakeri</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Aloe bellatula</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Aloe calcairophila</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Aloe compressa (comprende le vars. *paucituberculata, rugosquamosa* e *schistophila*)</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Aloe delphinensis</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Aloe descoingsii</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Aloe fragilis</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Aloe haworthioides (comprende la var. *aurantiaca*)</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Aloe helenae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Aloe laeta (comprende la var. *maniaensis*)</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Aloe parallelifolia</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Aloe parvula</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Aloe pillansii</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Aloe polyphylla</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Aloe rauhii</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Aloe suzannae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Aloe versicolor</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Aloe vossii</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Magnoliaceae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td></td><td colspan="2">Magnolia liliifera var. obovata #1 (Nepal)</td></tr>
-<tr><td colspan="2">Malvaceae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Adansonia granididieri #16 Baobab</td><td colspan="2"></td></tr>
-<tr><td colspan="2">Meliaceae Mogani, Cedri</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Cedrela spp. #6 [soltanto le popolazioni neotropicali (America centrale e meridionale)]</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Khaya spp. #17 (riguarda soltanto le popolazioni africane) Mogano africano</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Swietenia humilis #4</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Swietenia macrophylla #6 [soltanto le popolazioni neotropicali (America centrale e meridionale)]</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Swietenia mahagoni #5</td><td colspan="2"></td></tr>
-<tr><td colspan="2">Nepenthaceae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Nepenthes spp. #4</td><td colspan="2"></td></tr>
-<tr><td colspan="2">Nepenthes khasiana</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Nepenthes rajah</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Oleaceae Olivi, Frassini</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td></td><td colspan="2">Fraxinus mandshurica #5 (Federazione russa)</td></tr>
-<tr><td colspan="2">Orchidaceae Orchidee</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Orchidaceae spp.[^t-68] #4 comprende, tra le altre, il salep</td><td colspan="2"></td></tr>
-<tr><td colspan="2">Aerangis ellisii[^t-69]</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Cattleya jongheana[^t-70]</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Cattleya lobata[^t-71]</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Dendrobium cruentum[^t-72]</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Mexipedium xerophyticum[^t-73]</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Paphiopedilum spp.[^t-74]</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Peristeria elata[^t-75]</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Phragmipedium spp.[^t-76]</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Renanthera imschootiana[^t-77]</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Orobanchaceae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Cistanche deserticola #4</td><td colspan="2"></td></tr>
-<tr><td colspan="2">Palmae (Arecaceae) Palme</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Beccariophoenix madagascariensis #4</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Dypsis decasyi #4</td><td colspan="2"></td></tr>
-<tr><td colspan="2">Dypsis decipiens</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Lemurophoenix halleuxii</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td></td><td colspan="2">Lodoicea maldivica #13 (Seychelles) Cocco di mare (noce delle Seychelles)</td></tr>
-<tr><td colspan="2"></td><td>Marojejya darianii</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Ravenea louvelii</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Ravenea rivularis</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Satranala decussilvae</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Voanioala gerardii</td><td colspan="2"></td></tr>
-<tr><td colspan="2">Papaveraceae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td></td><td colspan="2">Meconopsis regia #1 (Nepal)</td></tr>
-<tr><td colspan="2">Passifloraceae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Adenia firingalavensis</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Adenia olaboensis</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td></td><td colspan="2">Adenia spinosa (Sudafrica)</td></tr>
-<tr><td colspan="2"></td><td>Adenia subsessilifolia</td><td colspan="2"></td></tr>
-<tr><td colspan="2">**Pedaliaceae** Familia delle pedaliacee</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Uncarina grandidieri</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Uncarina stellulifera</td><td colspan="2"></td></tr>
-<tr><td colspan="2">Pinaceae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Abies guatemalensis</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td></td><td colspan="2">Pinus koraiensis #5 (Russia)</td></tr>
-<tr><td colspan="2">Podocarpaceae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td></td><td colspan="2">Podocarpus neriifolius #1 (Nepal)</td></tr>
-<tr><td colspan="2">Podocarpus parlatorei</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Portulacaceae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Anacampseros spp. #4</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Avonia spp. #4</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Lewisia serrata #4</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td></td><td colspan="2">Portulacaria pygmaea (Sudafrica)</td></tr>
-<tr><td colspan="2">Primulaceae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Cyclamen[^t-78] spp. #4</td><td colspan="2"></td></tr>
-<tr><td colspan="2">Ranunculaceae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Adonis vernalis #2</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Hydrastis canadensis #8</td><td colspan="2"></td></tr>
-<tr><td colspan="2">Rosaceae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Prunus africana #4</td><td colspan="2"></td></tr>
-<tr><td colspan="2">Rubiaceae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Balmea stormiae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Santalaceae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Osyris lanceolata #2 (Popolazioni di Burundi, Etiopia, Kenya, Ruanda, Uganda e Repubblica Unita della Tanzania)</td><td colspan="2"></td></tr>
-<tr><td colspan="2">Sarraceniaceae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Sarracenia spp. #4 (ad eccezione delle specie elencate nell’allegato I)</td><td colspan="2"></td></tr>
-<tr><td colspan="2">Sarracenia oreophila</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Sarracenia rubra ssp. alabamensis</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Sarracenia rubra ssp. jonesii</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Scrophulariaceae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Picrorhiza kurrooa #2 (eccetto Picrorhiza scrophulariiflora)</td><td colspan="2"></td></tr>
-<tr><td colspan="2">Stangeriaceae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Bowenia spp. #4</td><td colspan="2"></td></tr>
-<tr><td colspan="2">Stangeria eriopus</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Taxaceae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Taxus chinensis comprese le sottospecie #2</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Taxus cuspidata comprese le sottospecie[^t-79] #2</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Taxus fuana comprese le sottospecie #2</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Taxus sumatrana comprese le sottospecie #2</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Taxus wallichiana #2</td><td colspan="2"></td></tr>
-<tr><td colspan="2">Thymelaeaceae (Aquilariaceae)</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Aquilaria spp. #14 Legno di agar</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Gonystylus spp. #4 Ramino</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Gyrinops spp. #14 Legno di agar</td><td colspan="2"></td></tr>
-<tr><td colspan="2">Trochodendraceae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td></td><td colspan="2">Tetracentron sinense #1 (Nepal)</td></tr>
-<tr><td colspan="2">Valerianaceae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Nardostachys grandiflora #2</td><td colspan="2"></td></tr>
-<tr><td colspan="2">Vitaceae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Cyphostemma elephantopus</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Cyphostemma laza</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Cyphostemma montagnacii</td><td colspan="2"></td></tr>
-<tr><td colspan="2">Welwitschiaceae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Welwitschia mirabilis #4</td><td colspan="2"></td></tr>
-<tr><td colspan="2">Zamiaceae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Zamiaceae spp.#4 (ad eccezione delle specie elencate nell’allegato I)</td><td colspan="2"></td></tr>
-<tr><td colspan="2">Ceratozamia spp.</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Encephalartos spp.</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Microcycas calocoma</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Zamia restrepoi</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Zingiberaceae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Hedychium philippinense #4</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Siphonochilus aethiopicus (popolazioni del Mozambico, Sudafrica, Swaziland [Eswatini] e Zimbabwe)</td><td colspan="2"></td></tr>
-<tr><td colspan="2">Zygophyllaceae</td><td></td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>*Bulnesia sarmientoi* #11 Palo Santo, Lignum vitae del Paraguay, guaiaco</td><td colspan="2"></td></tr>
-<tr><td colspan="2"></td><td>Guaiacum spp. #2</td><td colspan="2"></td></tr>
+<tr><th>Allegato I</th><th>Allegato II</th><th>Allegato III</th></tr>
+<tr><td>FAUNA</td><td></td><td></td></tr>
+<tr><td>Chordata</td><td></td><td></td></tr>
+<tr><td>Mammalia</td><td></td><td></td></tr>
+<tr><td>ARTIODACTYLA</td><td></td><td></td></tr>
+<tr><td>Antilocapridae</td><td></td><td></td></tr>
+<tr><td>*Antilocapra americana* (soltanto le popolazioni del Messico)</td><td></td><td></td></tr>
+<tr><td>Bovidae</td><td></td><td></td></tr>
+<tr><td>Addax nasomaculatus</td><td></td><td></td></tr>
+<tr><td></td><td>Ammotragus lervia</td><td></td></tr>
+<tr><td></td><td></td><td>Antilope cervicapra (Nepal, Pakistan)</td></tr>
+<tr><td></td><td></td><td>Boselaphus tragocamelus (Pakistan)</td></tr>
+<tr><td>Bos gaurus[^t-4]</td><td></td><td></td></tr>
+<tr><td>Bos mutus[^t-5]</td><td></td><td></td></tr>
+<tr><td>Bos sauveli</td><td></td><td></td></tr>
+<tr><td></td><td></td><td>Bubalus arnee[^t-6] (Nepal)</td></tr>
+<tr><td>Bubalus depressicornis</td><td></td><td></td></tr>
+<tr><td>Bubalus mindorensis</td><td></td><td></td></tr>
+<tr><td>Bubalus quarlesi</td><td></td><td></td></tr>
+<tr><td></td><td>Budorcas taxicolor</td><td></td></tr>
+<tr><td></td><td>Budorcas tibetana</td><td></td></tr>
+<tr><td></td><td>Capra caucasica Stambecco del Caucaso</td><td></td></tr>
+<tr><td>Capra falconeri</td><td></td><td></td></tr>
+<tr><td></td><td></td><td>Capra hircus aegagrus[^t-7] (Pakistan)</td></tr>
+<tr><td></td><td></td><td>Capra sibirica (Pakistan)</td></tr>
+<tr><td>Capricornis milneedwardsii</td><td></td><td></td></tr>
+<tr><td>Capricornis rubidus</td><td></td><td></td></tr>
+<tr><td>Capricornis sumatraensis</td><td></td><td></td></tr>
+<tr><td>Capricornis thar</td><td></td><td></td></tr>
+<tr><td></td><td>Cephalophus brookei</td><td></td></tr>
+<tr><td></td><td>Cephalophus dorsalis</td><td></td></tr>
+<tr><td>Cephalophus jentinki</td><td></td><td></td></tr>
+<tr><td></td><td>Cephalophus ogilbyi</td><td></td></tr>
+<tr><td></td><td>Cephalophus silvicultor</td><td></td></tr>
+<tr><td></td><td>Cephalophus zebra</td><td></td></tr>
+<tr><td></td><td></td><td>Gazella benettii (Pakistan)</td></tr>
+<tr><td>Gazella cuvieri</td><td></td><td></td></tr>
+<tr><td></td><td>Gazella dorcas</td><td></td></tr>
+<tr><td>Gazella leptoceros</td><td></td><td></td></tr>
+<tr><td>Hippotragus niger variani</td><td></td><td></td></tr>
+<tr><td></td><td>Kobus leche</td><td></td></tr>
+<tr><td>Naemorhedus baileyi</td><td></td><td></td></tr>
+<tr><td>Naemorhedus caudatus</td><td></td><td></td></tr>
+<tr><td>Naemorhedus goral</td><td></td><td></td></tr>
+<tr><td>Naemorhedus griseus</td><td></td><td></td></tr>
+<tr><td>Nanger dama</td><td></td><td></td></tr>
+<tr><td>Oryx dammah</td><td></td><td></td></tr>
+<tr><td>Oryx leucoryx</td><td></td><td></td></tr>
+<tr><td></td><td>Ovis ammon</td><td></td></tr>
+<tr><td></td><td>Ovis arabica</td><td></td></tr>
+<tr><td></td><td>Ovis bochariensis</td><td></td></tr>
+<tr><td></td><td>Ovis canadensis (soltanto la popolazione del Messico)</td><td></td></tr>
+<tr><td></td><td>Ovis collium</td><td></td></tr>
+<tr><td></td><td>Ovis cycloceros</td><td></td></tr>
+<tr><td></td><td>Ovis darwini</td><td></td></tr>
+<tr><td>Ovis gmelini (soltanto la popolazione di Cipro)</td><td></td><td></td></tr>
+<tr><td>Ovis hodgsonii</td><td></td><td></td></tr>
+<tr><td></td><td>Ovis jubata</td><td></td></tr>
+<tr><td></td><td>Ovis karelini</td><td></td></tr>
+<tr><td>Ovis nigrimontana</td><td></td><td></td></tr>
+<tr><td></td><td>Ovis polii</td><td></td></tr>
+<tr><td></td><td>Ovis punjabiensis</td><td></td></tr>
+<tr><td></td><td>Ovis severtzovi</td><td></td></tr>
+<tr><td>Ovis vignei</td><td></td><td></td></tr>
+<tr><td>Pantholops hodgsonii</td><td></td><td></td></tr>
+<tr><td></td><td>Philantomba monticola</td><td></td></tr>
+<tr><td></td><td></td><td>Pseudois nayaur (Pakistan)</td></tr>
+<tr><td>Pseudoryx nghetinhensis</td><td></td><td></td></tr>
+<tr><td></td><td>Rupicapra pyrenaica ornata Camoscio d’Abruzzo</td><td></td></tr>
+<tr><td></td><td>Saiga borealis[^t-8]</td><td></td></tr>
+<tr><td></td><td>Saiga tatarica[^t-9]</td><td></td></tr>
+<tr><td></td><td></td><td>Tetracerus quadricornis (Nepal)</td></tr>
+<tr><td>Camelidae</td><td></td><td></td></tr>
+<tr><td></td><td>Lama guanicoe</td><td></td></tr>
+<tr><td>Vicugna vicugna (escluse le popolazioni di: Argentina [le popolazioni delle province di Jujuy, Catamarca e Salta, e le popolazioni in semi-cattività delle province di Jujuy, Salta, Catamarca, La Rioja e San Juan]; Bolivia [l’intera popolazione]; Cile [popolazioni delle regioni di Tarapacá, Arica e Parinacota]; Ecuador [l’intera popolazione] e Perù [l’intera popolazione]) Vigogna</td><td></td><td></td></tr>
+<tr><td></td><td>Vicugna vicugna\* (soltanto le popolazioni di: Argentina [le popolazioni delle province di Jujuy, Catamarca e Salta, e le popolazioni in semi-cattività delle province di Jujuy, Salta, Catamarca, La Rioja e San Juan]; Bolivia [l’intera popolazione]; Cile [popolazioni delle regioni di Tarapacá, Arica e Parinacota]; Ecuador [l’intera popolazione] e Perù [l’intera popolazione]; le altre popolazioni sono incluse nell’Allegato I) Vigogna</td><td></td></tr>
+<tr><td colspan="3">\* Al fine esclusivo di permettere il commercio internazionale di fibre di vigogna (*Vicugna vicugna*) e dei prodotti derivati, solo nel caso in cui le fibre provengono dalla tosatura di vigogne vive. La commercializzazione dei prodotti derivati dalle fibre è consentita solo se si osservano le disposizioni elencate di seguito: a) qualunque persona fisica o giuridica che lavora le fibre di vigogna per produrre tessuti o indumenti deve richiedere un’autorizzazione all’autorità pertinente del Paese d’origine [Paese d’origine: uno degli Stati nei quali vive la specie in questione, vale a dire: Argentina, Bolivia, Cile, Ecuador e Peru] per utilizzare la dicitura, il marchio o il logo «VICUÑA [PAESE D’ORIGINE]» adottato dai Paesi d’origine della specie che sono firmatari del «*Convenio para la Conservación y Manejo de la Vicuña*»; b) i tessuti o gli indumenti commercializzati devono essere contrassegnati o identificati osservando le disposizioni in appresso: i) per il commercio internazionale di tessuti prodotti a partire da fibre di lana tosata da vigogne vive, sia che il tessuto venga prodotto all’interno oppure all’esterno dei Paesi nei quali questi animali vivono, devono essere apposti la dicitura, il marchio o il logo affinché il Paese d’origine possa essere identificato. La dicitura, il marchio o il logo «VICUÑA [PAESE D’ORIGINE]» ha il formato riportato di seguito: ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1975/1135_1136_1136/20260501/it/xml/image/image1.png) La dicitura, il marchio o il logo devono essere apposti sul retro del tessuto. Inoltre le cimose del tessuto devono portare la dicitura VICUÑA [PAESE D’ORIGINE], Se gli indumenti sono prodotti al di fuori del Paese d’origine, deve essere indicato anche il nome dello Stato dove sono stati prodotti, in aggiunta alla dicitura, al marchio o al logo di cui al paragrafo b), i); c) per il commercio internazionale di prodotti artigianali fabbricati a partire da fibre tosate da vigogne vive e prodotti all’interno dei Paesi nei quali vivono questi animali devono essere apposti la dicitura, il marchio o il logo «VICUÑA [PAESE D’ORIGINE] – ARTESANÍA» nel formato riportato di seguito: ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1975/1135_1136_1136/20260501/it/xml/image/image2.png) d) se per la produzione dei tessuti o degli indumenti vengono utilizzate fibre di lana tosata da vigogne vive provenienti da diversi Paesi d’origine, è necessario utilizzare la dicitura, il marchio o il logo per ciascun Paese d’origine come illustrato ai paragrafi b), i) e ii); e) tutti gli altri esemplari sono considerati come appartenenti alle specie elencate nell’appendice I e il loro commercio è disciplinato in conformità delle relative norme.</td></tr>
+<tr><td>Cervidae</td><td></td><td></td></tr>
+<tr><td>Axis calamianensis</td><td></td><td></td></tr>
+<tr><td>Axis kuhlii</td><td></td><td></td></tr>
+<tr><td></td><td></td><td>Axis porcinus (Pakistan) (ad eccezione delle sottospecie elencate nellAllegato I)</td></tr>
+<tr><td>Axis porcinus annamiticus</td><td></td><td></td></tr>
+<tr><td>Blastocerus dichotomus</td><td></td><td></td></tr>
+<tr><td></td><td>Cervus elaphus bactrianus</td><td></td></tr>
+<tr><td></td><td></td><td>Cervus elaphus barbarus (Algeria, Tunisia)</td></tr>
+<tr><td>Cervus elaphus hanglu</td><td></td><td></td></tr>
+<tr><td>Dama dama mesopotamica</td><td></td><td></td></tr>
+<tr><td>Hippocamelus spp.</td><td></td><td></td></tr>
+<tr><td></td><td></td><td>Mazama temama cerasina (Guatemala)</td></tr>
+<tr><td>Muntiacus crinifrons</td><td></td><td></td></tr>
+<tr><td>Muntiacus vuquangensis</td><td></td><td></td></tr>
+<tr><td></td><td></td><td>Odocoileus virginianus mayensis (Guatemala)</td></tr>
+<tr><td>Ozotoceros bezoarticus</td><td></td><td></td></tr>
+<tr><td></td><td>Pudu mephistophiles</td><td></td></tr>
+<tr><td>Pudu puda</td><td></td><td></td></tr>
+<tr><td>Rucervus duvaucelii</td><td></td><td></td></tr>
+<tr><td>Rucervus eldii</td><td></td><td></td></tr>
+<tr><td>Giraffidae (giraffe)</td><td></td><td></td></tr>
+<tr><td></td><td>Giraffa camelopardalis</td><td></td></tr>
+<tr><td>Okapia johnstoni</td><td></td><td></td></tr>
+<tr><td>Hippopotamidae</td><td></td><td></td></tr>
+<tr><td></td><td>Hexaprotodon liberiensis</td><td></td></tr>
+<tr><td></td><td>Hippopotamus amphibius</td><td></td></tr>
+<tr><td>Moschidae</td><td></td><td></td></tr>
+<tr><td>Moschus spp. (soltanto le popolazioni di Afghanistan, Bhutan, India, Myanmar, Nepal e Pakistan)</td><td></td><td></td></tr>
+<tr><td></td><td>Moschus spp. (escluse le popolazioni di Afghanistan, Bhutan, India, Myanmar, Nepal e Pakistan)</td><td></td></tr>
+<tr><td>Suidae</td><td></td><td></td></tr>
+<tr><td>Babyrousa babyrussa</td><td></td><td></td></tr>
+<tr><td>Babyrousa bolabatuensis</td><td></td><td></td></tr>
+<tr><td>Babyrousa celebensis</td><td></td><td></td></tr>
+<tr><td>Babyrousa togeanensis</td><td></td><td></td></tr>
+<tr><td>Sus salvanius</td><td></td><td></td></tr>
+<tr><td>Tayassuidae</td><td></td><td></td></tr>
+<tr><td></td><td>Tayassuidae spp.[^t-10]</td><td></td></tr>
+<tr><td>Catagonus wagneri</td><td></td><td></td></tr>
+<tr><td>Carnivora</td><td></td><td></td></tr>
+<tr><td>Ailuridae</td><td></td><td></td></tr>
+<tr><td>Ailurus fulgens</td><td></td><td></td></tr>
+<tr><td>Ailurus styani</td><td></td><td></td></tr>
+<tr><td>Canidae</td><td></td><td></td></tr>
+<tr><td></td><td></td><td>Canis aureus (India)</td></tr>
+<tr><td>Canis lupus (soltanto le popolazioni di Bhutan, India, Nepal e Pakistan; esclusi la forma addomesticata e il dingo, denominati *Canis lupus familiaris* e *Canis lupus dingo*) Lupo</td><td></td><td></td></tr>
+<tr><td></td><td>Canis lupus (escluse le popolazioni di Bhutan, India, Nepal e Pakistan; esclusi la forma addomesticata e il dingo, denominati *Canis lupus familiaris* e *Canis lupus dingo*)</td><td></td></tr>
+<tr><td></td><td>Cerdocyon thous</td><td></td></tr>
+<tr><td></td><td>Chrysocyon brachyurus</td><td></td></tr>
+<tr><td></td><td>Cuon alpinus</td><td></td></tr>
+<tr><td></td><td>Lycalopex culpaeus</td><td></td></tr>
+<tr><td></td><td>Lycalopex fulvipes</td><td></td></tr>
+<tr><td></td><td>Lycalopex griseus</td><td></td></tr>
+<tr><td></td><td>Lycalopex gymnocercus</td><td></td></tr>
+<tr><td>Speothos venaticus</td><td></td><td></td></tr>
+<tr><td></td><td></td><td>Vulpes bengalensis (India)</td></tr>
+<tr><td></td><td>Vulpes cana</td><td></td></tr>
+<tr><td></td><td></td><td>Vulpes vulpes griffithi (India)</td></tr>
+<tr><td></td><td></td><td>Vulpes vulpes montana (India)</td></tr>
+<tr><td></td><td></td><td>Vulpes vulpes pusilla (India)</td></tr>
+<tr><td></td><td>Vulpes zerda</td><td></td></tr>
+<tr><td>Eupleridae</td><td></td><td></td></tr>
+<tr><td></td><td>Cryptoprocta ferox</td><td></td></tr>
+<tr><td></td><td>Eupleres goudotii</td><td></td></tr>
+<tr><td></td><td>Fossa fossana</td><td></td></tr>
+<tr><td>Felidae</td><td></td><td></td></tr>
+<tr><td></td><td>Felidae spp.[^t-11] (ad eccezione delle specie elencate nell’Allegato I)</td><td></td></tr>
+<tr><td>Acinonyx jubatus[^t-12]</td><td></td><td></td></tr>
+<tr><td>Caracal caracal (soltanto la popolazione dell’Asia)</td><td></td><td></td></tr>
+<tr><td>Catopuma temminckii</td><td></td><td></td></tr>
+<tr><td>Felis nigripes</td><td></td><td></td></tr>
+<tr><td>Herpailurus yagouaroundi (soltanto le popolazioni dell’America centrale e settentrionale)</td><td></td><td></td></tr>
+<tr><td>Leopardus geoffroyi</td><td></td><td></td></tr>
+<tr><td>Leopardus guttulus</td><td></td><td></td></tr>
+<tr><td>Leopardus jacobita</td><td></td><td></td></tr>
+<tr><td>Leopardus pardalis</td><td></td><td></td></tr>
+<tr><td>Leopardus tigrinus</td><td></td><td></td></tr>
+<tr><td>Leopardus wiedii</td><td></td><td></td></tr>
+<tr><td>Lynx pardinus</td><td></td><td></td></tr>
+<tr><td>Neofelis diardi</td><td></td><td></td></tr>
+<tr><td>Neofelis nebulosa</td><td></td><td></td></tr>
+<tr><td></td><td>Panthera leo[^t-13] (popolazioni africane)</td><td></td></tr>
+<tr><td>Panthera leo (Soltanto le popolazioni dell’India)</td><td></td><td></td></tr>
+<tr><td>Panthera onca</td><td></td><td></td></tr>
+<tr><td>Panthera pardus</td><td></td><td></td></tr>
+<tr><td>Panthera tigris</td><td></td><td></td></tr>
+<tr><td>Panthera unica</td><td></td><td></td></tr>
+<tr><td>Pardofelis marmorata</td><td></td><td></td></tr>
+<tr><td>Prionailurus bengalensis bengalensis (soltanto le popolazioni di Bangladesh, India e Thailandia)</td><td></td><td></td></tr>
+<tr><td>Prionailurus planiceps</td><td></td><td></td></tr>
+<tr><td>Prionailurus rubiginosus (soltanto le popolazioni dell’India)</td><td></td><td></td></tr>
+<tr><td>Puma concolor (soltanto le popolazioni di Costa Rica e Panama)</td><td></td><td></td></tr>
+<tr><td>Herpestidae</td><td></td><td></td></tr>
+<tr><td></td><td></td><td>Herpestes edwardsi (India, Pakistan)</td></tr>
+<tr><td></td><td></td><td>Herpestes fuscus (India)</td></tr>
+<tr><td></td><td></td><td>Herpestes javanicus (Pakistan)</td></tr>
+<tr><td></td><td></td><td>Herpestes javanicus auropunctatus (India)</td></tr>
+<tr><td></td><td></td><td>Herpestes smithii (India)</td></tr>
+<tr><td></td><td></td><td>Herpestes urva (India)</td></tr>
+<tr><td></td><td></td><td>Herpestes vitticollis (India)</td></tr>
+<tr><td>Hyaenidae</td><td></td><td></td></tr>
+<tr><td></td><td>Hyaena hyaena</td><td></td></tr>
+<tr><td></td><td></td><td>Proteles cristata (Botswana)</td></tr>
+<tr><td>Mephitidae</td><td></td><td></td></tr>
+<tr><td></td><td>Conepatus humboldtii</td><td></td></tr>
+<tr><td>Mustelidae</td><td></td><td></td></tr>
+<tr><td>Lutrinae</td><td></td><td></td></tr>
+<tr><td></td><td>Lutrinae spp.</td><td></td></tr>
+<tr><td>Aonyx capensis microdon (soltanto le popolazioni di Camerun e Nigeria)</td><td></td><td></td></tr>
+<tr><td>Aonyx cinerea</td><td></td><td></td></tr>
+<tr><td>Enhydra lutris nereis</td><td></td><td></td></tr>
+<tr><td>Lontra felina</td><td></td><td></td></tr>
+<tr><td>Lontra longicaudis</td><td></td><td></td></tr>
+<tr><td>Lontra provocax</td><td></td><td></td></tr>
+<tr><td>Lutra lutra</td><td></td><td></td></tr>
+<tr><td>Lutra nippon</td><td></td><td></td></tr>
+<tr><td>Lutrogale perspicillata</td><td></td><td></td></tr>
+<tr><td>Pteronura brasiliensis</td><td></td><td></td></tr>
+<tr><td>Mustelinae</td><td></td><td></td></tr>
+<tr><td></td><td></td><td>Eira barbara (Honduras)</td></tr>
+<tr><td></td><td></td><td>Martes flavigula (India)</td></tr>
+<tr><td></td><td></td><td>Martes foina intermedia (India)</td></tr>
+<tr><td></td><td></td><td>Martes gwatkinsii (India)</td></tr>
+<tr><td></td><td></td><td>Mellivora capensis (Botswana)</td></tr>
+<tr><td></td><td></td><td>Mustela altaica (India)</td></tr>
+<tr><td></td><td></td><td>Mustela erminea ferghanae (India)</td></tr>
+<tr><td></td><td></td><td>Mustela kathiah (India)</td></tr>
+<tr><td>Mustela nigripes</td><td></td><td></td></tr>
+<tr><td></td><td></td><td>Mustela sibirica (India)</td></tr>
+<tr><td>Odobenidae</td><td></td><td></td></tr>
+<tr><td></td><td></td><td>Odobenus rosmarus (Canada)</td></tr>
+<tr><td>Otariidae</td><td></td><td></td></tr>
+<tr><td></td><td>Arctocephalus spp.</td><td></td></tr>
+<tr><td>Phocidae</td><td></td><td></td></tr>
+<tr><td></td><td>Mirounga leonina</td><td></td></tr>
+<tr><td>Monachus spp.</td><td></td><td></td></tr>
+<tr><td>Neomonachus spp. (esclusa Monachus tropicalis)</td><td></td><td></td></tr>
+<tr><td>Procyonidae</td><td></td><td></td></tr>
+<tr><td></td><td></td><td>Nasua narica (Honduras)</td></tr>
+<tr><td></td><td></td><td>Nasua nasua solitaria (Uruguay)</td></tr>
+<tr><td></td><td></td><td>Potos flavus (Honduras)</td></tr>
+<tr><td>Ursidae Orsi</td><td></td><td></td></tr>
+<tr><td></td><td>Ursidae spp. (ad eccezione delle specie elencate nell’Allegato I)</td><td></td></tr>
+<tr><td>Ailuropoda melanoleuca</td><td></td><td></td></tr>
+<tr><td>Helarctos malayanus</td><td></td><td></td></tr>
+<tr><td>Melursus ursinus</td><td></td><td></td></tr>
+<tr><td>Tremarctos ornatus</td><td></td><td></td></tr>
+<tr><td>Ursus arctos (soltanto le popolazioni di Bhutan, Cina, Messico e Mongolia)</td><td></td><td></td></tr>
+<tr><td>Ursus arctos isabellinus</td><td></td><td></td></tr>
+<tr><td>Ursus thibetanus</td><td></td><td></td></tr>
+<tr><td>Viverridae</td><td></td><td></td></tr>
+<tr><td></td><td></td><td>Arctictis binturong (India)</td></tr>
+<tr><td></td><td></td><td>Civettictis civetta (Botswana)</td></tr>
+<tr><td></td><td>Cynogale bennettii</td><td></td></tr>
+<tr><td></td><td>Hemigalus derbyanus</td><td></td></tr>
+<tr><td></td><td></td><td>Paguma larvata (India)</td></tr>
+<tr><td></td><td></td><td>Paradoxurus hermaphroditus (India)</td></tr>
+<tr><td></td><td></td><td>Paradoxurus jerdoni (India)</td></tr>
+<tr><td></td><td>Prionodon linsang</td><td></td></tr>
+<tr><td>Prionodon pardicolor</td><td></td><td></td></tr>
+<tr><td></td><td></td><td>Viverra civettina (India)</td></tr>
+<tr><td></td><td></td><td>Viverra zibetha (India)</td></tr>
+<tr><td></td><td></td><td>Viverricula indica (India)</td></tr>
+<tr><td>Cetacea</td><td></td><td></td></tr>
+<tr><td></td><td>Cetaceae spp.[^t-14] (ad eccezione delle specie elencate nell’Allegato I)</td><td></td></tr>
+<tr><td>Balaenidae</td><td></td><td></td></tr>
+<tr><td>Balaena mysticetus</td><td></td><td></td></tr>
+<tr><td>Eubalaena spp.</td><td></td><td></td></tr>
+<tr><td>Balaenopteridae</td><td></td><td></td></tr>
+<tr><td>Balaenoptera acutorostrata (escluse le popolazioni della Groenlandia occidentale)</td><td></td><td></td></tr>
+<tr><td>Balaenoptera bonaerensis</td><td></td><td></td></tr>
+<tr><td>Balaenoptera boreali</td><td></td><td></td></tr>
+<tr><td>Balaenoptera edeni</td><td></td><td></td></tr>
+<tr><td>Balaenoptera musculus</td><td></td><td></td></tr>
+<tr><td>Balaenoptera omurai</td><td></td><td></td></tr>
+<tr><td>Balaenoptera physalus</td><td></td><td></td></tr>
+<tr><td>Balaenoptera ricei</td><td></td><td></td></tr>
+<tr><td>Megaptera novaeangliae</td><td></td><td></td></tr>
+<tr><td>Delphinidae</td><td></td><td></td></tr>
+<tr><td>Orcaella brevirostris</td><td></td><td></td></tr>
+<tr><td>Orcaella heinsohni</td><td></td><td></td></tr>
+<tr><td>Sotalia spp.</td><td></td><td></td></tr>
+<tr><td>Sousa spp.</td><td></td><td></td></tr>
+<tr><td>Eschrichtiidae Balena grigia</td><td></td><td></td></tr>
+<tr><td>Eschrichtius robustus</td><td></td><td></td></tr>
+<tr><td>Iniidae</td><td></td><td></td></tr>
+<tr><td>Lipotes vexillifer</td><td></td><td></td></tr>
+<tr><td>Neobalaenidae</td><td></td><td></td></tr>
+<tr><td>Caperea marginata</td><td></td><td></td></tr>
+<tr><td>Phocoenidae</td><td></td><td></td></tr>
+<tr><td>Neophocaena phocaenoides</td><td></td><td></td></tr>
+<tr><td>Phocoena sinus</td><td></td><td></td></tr>
+<tr><td>Physeteridae</td><td></td><td></td></tr>
+<tr><td>Physeter macrocephalus</td><td></td><td></td></tr>
+<tr><td>Platanistidae</td><td></td><td></td></tr>
+<tr><td>Platanista spp.</td><td></td><td></td></tr>
+<tr><td>Ziphiidae</td><td></td><td></td></tr>
+<tr><td>Berardius spp.</td><td></td><td></td></tr>
+<tr><td>Hyperoodon spp.</td><td></td><td></td></tr>
+<tr><td>Chiroptera</td><td></td><td></td></tr>
+<tr><td>Phyllostomidae</td><td></td><td></td></tr>
+<tr><td></td><td></td><td>Platyrrhinus lineatus (Uruguay)</td></tr>
+<tr><td>Pteropodidae Volpi volanti o Pteropti</td><td></td><td></td></tr>
+<tr><td></td><td>Acerodon spp. (ad eccezione delle specie elencate nell’Allegato I)</td><td></td></tr>
+<tr><td>Acerodon jubatus</td><td></td><td></td></tr>
+<tr><td></td><td>Pteropus spp. (ad eccezione delle specie elencate nell’Allegato I ed escluso il *Pteropus brunneus*) Volpi volanti o Pteropi</td><td></td></tr>
+<tr><td>Pterotus insularis Pteropo delle isole Truk</td><td></td><td></td></tr>
+<tr><td>Pteropus loochoensis</td><td></td><td></td></tr>
+<tr><td>Pteropus mariannus</td><td></td><td></td></tr>
+<tr><td>Pteropus molossinus</td><td></td><td></td></tr>
+<tr><td>Pteropus pelewensis</td><td></td><td></td></tr>
+<tr><td>Pteropus pilosus</td><td></td><td></td></tr>
+<tr><td>Pteropus samoensis</td><td></td><td></td></tr>
+<tr><td>Pteropus tonganus</td><td></td><td></td></tr>
+<tr><td>Pteropus ualanus</td><td></td><td></td></tr>
+<tr><td>Pteropus yapensis</td><td></td><td></td></tr>
+<tr><td>Cingulata</td><td></td><td></td></tr>
+<tr><td>Dasypodidae</td><td></td><td></td></tr>
+<tr><td></td><td></td><td>Cabassous tatouay (Uruguay)</td></tr>
+<tr><td></td><td>Chaetophractus nationi[^t-15]</td><td></td></tr>
+<tr><td>Priodontes maximus</td><td></td><td></td></tr>
+<tr><td>Dasyuromorphia</td><td></td><td></td></tr>
+<tr><td>Dasyuridae Topi marsupiali</td><td></td><td></td></tr>
+<tr><td>Sminthopsis longicaudata Topo marsupiale dalla coda lunga</td><td></td><td></td></tr>
+<tr><td>Sminthopsis psammophila Topo marsupiale delle sabbie</td><td></td><td></td></tr>
+<tr><td>Diprotodontia</td><td></td><td></td></tr>
+<tr><td>Macropodidae Canguri, uallabi</td><td></td><td></td></tr>
+<tr><td></td><td>Dendrolagus inustus</td><td></td></tr>
+<tr><td></td><td>Dendrolagus ursinus</td><td></td></tr>
+<tr><td>Lagorchestes hirsutus</td><td></td><td></td></tr>
+<tr><td>Lagostrophus fasciatus</td><td></td><td></td></tr>
+<tr><td>Onychogalea fraenata Uallabi dalle briglie</td><td></td><td></td></tr>
+<tr><td>Phalangeridae Cuschi</td><td></td><td></td></tr>
+<tr><td></td><td>Phalanger intercastellanus Cusco orientale</td><td></td></tr>
+<tr><td></td><td>Phalanger mimicus Cusco meridionale o grigio</td><td></td></tr>
+<tr><td></td><td>Phalanger orientalis Falangero lanoso</td><td></td></tr>
+<tr><td></td><td>Spilocuscus kraemeri</td><td></td></tr>
+<tr><td></td><td>Spilocuscus maculatus Falangero o cusco macchiato</td><td></td></tr>
+<tr><td></td><td>Spilocuscus papuensis</td><td></td></tr>
+<tr><td>Potoroidae Ratti canguri, Bettonge</td><td></td><td></td></tr>
+<tr><td>Bettongia spp. Bettonge</td><td></td><td></td></tr>
+<tr><td>Vombatidae Vombati</td><td></td><td></td></tr>
+<tr><td>Lasiorhinus krefftii</td><td></td><td></td></tr>
+<tr><td>Lagomorpha</td><td></td><td></td></tr>
+<tr><td>Leporidae</td><td></td><td></td></tr>
+<tr><td>Caprolagus hispidus</td><td></td><td></td></tr>
+<tr><td>Romerolagus diazi</td><td></td><td></td></tr>
+<tr><td>Monotremata</td><td></td><td></td></tr>
+<tr><td>Tachyglossidae</td><td></td><td></td></tr>
+<tr><td></td><td>Zaglossus spp.</td><td></td></tr>
+<tr><td>Peramelemorphia</td><td></td><td></td></tr>
+<tr><td>Peramelidae Peramele</td><td></td><td></td></tr>
+<tr><td>Perameles bougainville</td><td></td><td></td></tr>
+<tr><td>Thylacomyidae Bilbi</td><td></td><td></td></tr>
+<tr><td>Macrotis lagot</td><td></td><td></td></tr>
+<tr><td>Perissodactyla</td><td></td><td></td></tr>
+<tr><td>Equidae</td><td></td><td></td></tr>
+<tr><td>Equus africanus[^t-16]</td><td></td><td></td></tr>
+<tr><td>Equus grevyi</td><td></td><td></td></tr>
+<tr><td></td><td>Equus hemionus</td><td></td></tr>
+<tr><td>Equus hemionus hemionus</td><td></td><td></td></tr>
+<tr><td>Equus hemionus khur</td><td></td><td></td></tr>
+<tr><td></td><td>Equus kiang</td><td></td></tr>
+<tr><td>Equus przewalskii</td><td></td><td></td></tr>
+<tr><td></td><td>Equus zebra hartmannae</td><td></td></tr>
+<tr><td></td><td>Equus zebra zebra</td><td></td></tr>
+<tr><td>Rhinocerotidae</td><td></td><td></td></tr>
+<tr><td>Rhinocerotidae spp. (ad eccezione delle sottospecie elencate nell’Allegato II)</td><td></td><td></td></tr>
+<tr><td></td><td>Ceratotherium simum simum[^t-17] (soltanto le popolazioni di Eswatini, Namibia[^t-18] e Sudafrica)</td><td></td></tr>
+<tr><td>Tapiridae</td><td></td><td></td></tr>
+<tr><td>Tapiridae spp. (ad eccezione delle specie elencate nell’Allegato II)</td><td></td><td></td></tr>
+<tr><td></td><td>Tapirus terrestris</td><td></td></tr>
+<tr><td>Pholidota</td><td></td><td></td></tr>
+<tr><td>Manidae Pangolini</td><td></td><td></td></tr>
+<tr><td></td><td>Manis spp.[^t-19] (ad eccezione delle specie elencate nell’Allegato I)</td><td></td></tr>
+<tr><td>Manis crassicaudata Pangolino indiano</td><td></td><td></td></tr>
+<tr><td>Manis culionensis Pangolino delle Filippine</td><td></td><td></td></tr>
+<tr><td>Manis gigantea Pangolino gigante</td><td></td><td></td></tr>
+<tr><td>Manis javanica Pangolino del Borneo</td><td></td><td></td></tr>
+<tr><td>Manis pentadactyla Pangolino cinese</td><td></td><td></td></tr>
+<tr><td>Manis temminckii Pangolino di Temminck o del Capo</td><td></td><td></td></tr>
+<tr><td>Manis tetradactyla Pangolino dalla coda lunga</td><td></td><td></td></tr>
+<tr><td>Manis tricuspis Pangolino arboreo o tricuspide</td><td></td><td></td></tr>
+<tr><td>Pilosa</td><td></td><td></td></tr>
+<tr><td>Bradypodidae</td><td></td><td></td></tr>
+<tr><td></td><td>Bradypus pygmaeus</td><td></td></tr>
+<tr><td></td><td>Bradypus variegates</td><td></td></tr>
+<tr><td>Megalonychidae</td><td></td><td></td></tr>
+<tr><td></td><td>Choloepus didactylus</td><td></td></tr>
+<tr><td></td><td>Choloepus hoffmanni</td><td></td></tr>
+<tr><td>Myrmecophagidae</td><td></td><td></td></tr>
+<tr><td></td><td>Myrmecophaga tridactyla</td><td></td></tr>
+<tr><td></td><td></td><td>Tamandua mexicana (Guatemala)</td></tr>
+<tr><td>PRIMATES</td><td></td><td></td></tr>
+<tr><td></td><td>PRIMATES</td><td></td></tr>
+<tr><td>Atelidae</td><td></td><td></td></tr>
+<tr><td>Alouatta palliata</td><td></td><td></td></tr>
+<tr><td>Alouatta pigra</td><td></td><td></td></tr>
+<tr><td>Ateles geoffroyi frontatus</td><td></td><td></td></tr>
+<tr><td>Ateles geoffroyi panamensis</td><td></td><td></td></tr>
+<tr><td>Brachyteles arachnoides</td><td></td><td></td></tr>
+<tr><td>Brachyteles hypoxanthus</td><td></td><td></td></tr>
+<tr><td>Oreonax flavicauda</td><td></td><td></td></tr>
+<tr><td>Cebidae</td><td></td><td></td></tr>
+<tr><td>Callimico goeldii</td><td></td><td></td></tr>
+<tr><td>Callithrix aurita</td><td></td><td></td></tr>
+<tr><td>Callithrix flaviceps</td><td></td><td></td></tr>
+<tr><td>Leontopithecus spp.</td><td></td><td></td></tr>
+<tr><td>Saguinus bicolor</td><td></td><td></td></tr>
+<tr><td>Saguinus geoffroyi</td><td></td><td></td></tr>
+<tr><td>Saguinus leucopus</td><td></td><td></td></tr>
+<tr><td>Saguinus martinsi</td><td></td><td></td></tr>
+<tr><td>Saguinus oedipus</td><td></td><td></td></tr>
+<tr><td>Saimiri oerstedii</td><td></td><td></td></tr>
+<tr><td>Cercopithecidae</td><td></td><td></td></tr>
+<tr><td>Cercocebus chrysogaster</td><td></td><td></td></tr>
+<tr><td>Cercocebus galeritus</td><td></td><td></td></tr>
+<tr><td>Cercopithecus diana</td><td></td><td></td></tr>
+<tr><td>Cercopithecus roloway</td><td></td><td></td></tr>
+<tr><td>Macaca silenus</td><td></td><td></td></tr>
+<tr><td>Macaca sylvanus</td><td></td><td></td></tr>
+<tr><td>Mandrillus leucophaeus</td><td></td><td></td></tr>
+<tr><td>Mandrillus sphinx</td><td></td><td></td></tr>
+<tr><td>Nasalis larvatus</td><td></td><td></td></tr>
+<tr><td>Piliocolobus kirkii</td><td></td><td></td></tr>
+<tr><td>Piliocolobus rufomitratus</td><td></td><td></td></tr>
+<tr><td>Presbytis potenziani</td><td></td><td></td></tr>
+<tr><td>Pygathrix spp.</td><td></td><td></td></tr>
+<tr><td>Rhinopithecus spp.</td><td></td><td></td></tr>
+<tr><td>Semnopithecus ajax</td><td></td><td></td></tr>
+<tr><td>Semnopithecus dussumieri</td><td></td><td></td></tr>
+<tr><td>Semnopithecus entellus</td><td></td><td></td></tr>
+<tr><td>Semnopithecus hector</td><td></td><td></td></tr>
+<tr><td>Semnopithecus hypoleucos</td><td></td><td></td></tr>
+<tr><td>Semnopithecus priam</td><td></td><td></td></tr>
+<tr><td>Semnopithecus schistaceus</td><td></td><td></td></tr>
+<tr><td>Simias concolor</td><td></td><td></td></tr>
+<tr><td>Trachypithecus geei</td><td></td><td></td></tr>
+<tr><td>Trachypithecus pileatus</td><td></td><td></td></tr>
+<tr><td>Trachypithecus shortridgei</td><td></td><td></td></tr>
+<tr><td>Cheirogaleidae</td><td></td><td></td></tr>
+<tr><td>Cheirogaleidae spp.</td><td></td><td></td></tr>
+<tr><td>Daubentoniidae</td><td></td><td></td></tr>
+<tr><td>Daubentonia madagascariensis</td><td></td><td></td></tr>
+<tr><td>Hominidae</td><td></td><td></td></tr>
+<tr><td>Gorilla beringei</td><td></td><td></td></tr>
+<tr><td>Gorilla gorilla</td><td></td><td></td></tr>
+<tr><td>Pan spp.</td><td></td><td></td></tr>
+<tr><td>Pongo abelii</td><td></td><td></td></tr>
+<tr><td>Pongo pygmaeus</td><td></td><td></td></tr>
+<tr><td>Pongo tapanuliensis</td><td></td><td></td></tr>
+<tr><td>Hylobatidae</td><td></td><td></td></tr>
+<tr><td>Hylobatidae spp.</td><td></td><td></td></tr>
+<tr><td>Indriidae</td><td></td><td></td></tr>
+<tr><td>Indriidae spp.</td><td></td><td></td></tr>
+<tr><td>Lemuridae</td><td></td><td></td></tr>
+<tr><td>Lemuridae spp.</td><td></td><td></td></tr>
+<tr><td>Lepilemuridae</td><td></td><td></td></tr>
+<tr><td>Lepilemuridae spp.</td><td></td><td></td></tr>
+<tr><td>Lorisidae</td><td></td><td></td></tr>
+<tr><td>Nycticebus spp.</td><td></td><td></td></tr>
+<tr><td>Pithecidae</td><td></td><td></td></tr>
+<tr><td>Cacajao spp.</td><td></td><td></td></tr>
+<tr><td>Chiropotes albinasus</td><td></td><td></td></tr>
+<tr><td>Proboscidea</td><td></td><td></td></tr>
+<tr><td>Elephantidae</td><td></td><td></td></tr>
+<tr><td>Elephas maximus</td><td></td><td></td></tr>
+<tr><td>Loxodonta africana. (escluse le popolazioni di Botswana, Namibia, Sudafrica e Zimbabwe, elencati nell’Allegato II con l’annotazione A10) Elefante africano</td><td></td><td></td></tr>
+<tr><td></td><td>Loxodonta africana. (soltanto le popolazioni di Botswana, Namibia, Sudafrica e Zimbabwe, tutte le altre popolazioni sono elencate nell’Allegato I)[^t-20] Elefante africano</td><td></td></tr>
+<tr><td>Rodentia</td><td></td><td></td></tr>
+<tr><td>Chinchillidae</td><td></td><td></td></tr>
+<tr><td>Chinchilla spp.[^t-21]</td><td></td><td></td></tr>
+<tr><td>Cuniculidae</td><td></td><td></td></tr>
+<tr><td></td><td></td><td>Cuniculus paca (Honduras)</td></tr>
+<tr><td>Dasyproctidae</td><td></td><td></td></tr>
+<tr><td></td><td></td><td>Dasyprocta punctata (Honduras)</td></tr>
+<tr><td>Erethizontidae</td><td></td><td></td></tr>
+<tr><td></td><td></td><td>Sphiggurus mexicanus (Honduras)</td></tr>
+<tr><td></td><td></td><td>Sphiggurus spinosus (Uruguay)</td></tr>
+<tr><td>Muridae</td><td></td><td></td></tr>
+<tr><td></td><td>Leporillus conditor</td><td></td></tr>
+<tr><td></td><td>Pseudomys fieldi praeconis</td><td></td></tr>
+<tr><td></td><td>Xeromys myoides</td><td></td></tr>
+<tr><td></td><td>Zyzomys pedunculatus</td><td></td></tr>
+<tr><td>Sciuridae</td><td></td><td></td></tr>
+<tr><td></td><td>Cynomys mexicanus</td><td></td></tr>
+<tr><td></td><td></td><td>Marmota caudata (India)</td></tr>
+<tr><td></td><td></td><td>Marmota himalayana (India)</td></tr>
+<tr><td></td><td>Ratufa spp.</td><td></td></tr>
+<tr><td>Scandentia</td><td></td><td></td></tr>
+<tr><td>Tupaiidae</td><td></td><td></td></tr>
+<tr><td></td><td>Tupaiidae spp.</td><td></td></tr>
+<tr><td>Sirenia</td><td></td><td></td></tr>
+<tr><td>Dugongidae</td><td></td><td></td></tr>
+<tr><td>Dugong dugon</td><td></td><td></td></tr>
+<tr><td>Trichechidae Manati o Lamantini</td><td></td><td></td></tr>
+<tr><td>Trichechus inunguis</td><td></td><td></td></tr>
+<tr><td>Trichechus manatus</td><td></td><td></td></tr>
+<tr><td>Trichechus senegalensis</td><td></td><td></td></tr>
+<tr><td>AVES</td><td></td><td></td></tr>
+<tr><td>ANSERIFORMES</td><td></td><td></td></tr>
+<tr><td>Anatidae</td><td></td><td></td></tr>
+<tr><td>Anas aucklandica</td><td></td><td></td></tr>
+<tr><td></td><td>Anas bernieri</td><td></td></tr>
+<tr><td>Anas chlorotis</td><td></td><td></td></tr>
+<tr><td></td><td>Anas formosa</td><td></td></tr>
+<tr><td>Anas laysanensis</td><td></td><td></td></tr>
+<tr><td>Anas nesiotis</td><td></td><td></td></tr>
+<tr><td></td><td>Branta canadensis leucopareia</td><td></td></tr>
+<tr><td></td><td>Branta ruficollis</td><td></td></tr>
+<tr><td>Branta sandvicensis</td><td></td><td></td></tr>
+<tr><td>Cairina scutulata</td><td></td><td></td></tr>
+<tr><td></td><td>Coscoroba coscoroba</td><td></td></tr>
+<tr><td></td><td>Cygnus melanocoryphus</td><td></td></tr>
+<tr><td></td><td>Dendrocygna arborea</td><td></td></tr>
+<tr><td></td><td></td><td>Dendrocygna autumnalis (Honduras)</td></tr>
+<tr><td></td><td></td><td>Dendrocygna bicolor (Honduras)</td></tr>
+<tr><td></td><td>Oxyura leucocephala</td><td></td></tr>
+<tr><td>Rhodonessa caryophyllacea p.e.</td><td></td><td></td></tr>
+<tr><td></td><td>Sarkidiornis melanotos</td><td></td></tr>
+<tr><td>APODIFORMES</td><td></td><td></td></tr>
+<tr><td>Trochilidae</td><td></td><td></td></tr>
+<tr><td></td><td>Trochilidae spp.</td><td></td></tr>
+<tr><td>Glaucis dohrnii</td><td></td><td></td></tr>
+<tr><td>CHARADRIIFORMES</td><td></td><td></td></tr>
+<tr><td>Burhinidae</td><td></td><td></td></tr>
+<tr><td></td><td></td><td>Burhinus bistriatus (Guatemala)</td></tr>
+<tr><td>Laridae</td><td></td><td></td></tr>
+<tr><td>Larus relictus</td><td></td><td></td></tr>
+<tr><td>Scolopacidae</td><td></td><td></td></tr>
+<tr><td>Numenius borealis</td><td></td><td></td></tr>
+<tr><td>Numenius tenuirostris</td><td></td><td></td></tr>
+<tr><td>Tringa guttifer</td><td></td><td></td></tr>
+<tr><td>CICONIIFORMES</td><td></td><td></td></tr>
+<tr><td>Balaenicipitidae</td><td></td><td></td></tr>
+<tr><td></td><td>Balaeniceps rex</td><td></td></tr>
+<tr><td>Ciconiidae</td><td></td><td></td></tr>
+<tr><td>Ciconia boyciana</td><td></td><td></td></tr>
+<tr><td></td><td>Ciconia nigra</td><td></td></tr>
+<tr><td>Jabiru mycteria</td><td></td><td></td></tr>
+<tr><td>Mycteria cinerea</td><td></td><td></td></tr>
+<tr><td>Phoenicopteridae</td><td></td><td></td></tr>
+<tr><td></td><td>Phoenicopteridae spp.</td><td></td></tr>
+<tr><td>Threskiornithidae</td><td></td><td></td></tr>
+<tr><td></td><td>Eudocimus ruber</td><td></td></tr>
+<tr><td></td><td>Geronticus calvus</td><td></td></tr>
+<tr><td>Geronticus eremita</td><td></td><td></td></tr>
+<tr><td>Nipponia nippon</td><td></td><td></td></tr>
+<tr><td></td><td>Platalea leucorodia</td><td></td></tr>
+<tr><td>COLUMBIFORMES</td><td></td><td></td></tr>
+<tr><td>Columbidae</td><td></td><td></td></tr>
+<tr><td>Caloenas nicobarica</td><td></td><td></td></tr>
+<tr><td>Ducula mindorensis</td><td></td><td></td></tr>
+<tr><td></td><td>Gallicolumba luzonica</td><td></td></tr>
+<tr><td></td><td>Goura spp.</td><td></td></tr>
+<tr><td></td><td></td><td>Nesoenas mayeri (Maurizio)</td></tr>
+<tr><td>CORACIIFORMES</td><td></td><td></td></tr>
+<tr><td>Bucerotidae</td><td></td><td></td></tr>
+<tr><td></td><td>Aceros spp.</td><td></td></tr>
+<tr><td>Aceros nipalensis</td><td></td><td></td></tr>
+<tr><td></td><td>Anorrhinus spp.</td><td></td></tr>
+<tr><td></td><td>Anthracoceros spp.</td><td></td></tr>
+<tr><td></td><td>Berenicornis spp.</td><td></td></tr>
+<tr><td></td><td>Buceros spp.</td><td></td></tr>
+<tr><td>Buceros bicornis</td><td></td><td></td></tr>
+<tr><td></td><td>Bycanistes spp.</td><td></td></tr>
+<tr><td></td><td>Ceratogymna spp.</td><td></td></tr>
+<tr><td></td><td>Penelopides spp.</td><td></td></tr>
+<tr><td>Rhinoplax vigil</td><td></td><td></td></tr>
+<tr><td></td><td>Rhyticeros spp.</td><td></td></tr>
+<tr><td>Rhyticeros subruficollis</td><td></td><td></td></tr>
+<tr><td>CUCULIFORMES</td><td></td><td></td></tr>
+<tr><td>Musophagidae</td><td></td><td></td></tr>
+<tr><td></td><td>Tauraco spp.</td><td></td></tr>
+<tr><td>FALCONIFORMES</td><td></td><td></td></tr>
+<tr><td></td><td>FALCONIFORMES (tutte le specie, ad eccezione di quelle elencate nell’Allegato I, del *Caracara lutosa* e della famiglia degli avvoltoi del nuovo mondo Cathartidae)</td><td></td></tr>
+<tr><td>Accipitridae</td><td></td><td></td></tr>
+<tr><td>Aquila adalberti</td><td></td><td></td></tr>
+<tr><td>Aquila heliaca</td><td></td><td></td></tr>
+<tr><td>Chondrohierax wilsonii</td><td></td><td></td></tr>
+<tr><td>Gyps africanus</td><td></td><td></td></tr>
+<tr><td>Gyps rueppelli</td><td></td><td></td></tr>
+<tr><td>Haliaeetus albicilla</td><td></td><td></td></tr>
+<tr><td>Harpia harpyja</td><td></td><td></td></tr>
+<tr><td>Pithecophaga jefferyi</td><td></td><td></td></tr>
+<tr><td>Cathartidae</td><td></td><td></td></tr>
+<tr><td>Gymnogyps californianus</td><td></td><td></td></tr>
+<tr><td></td><td></td><td>Sarcoramphus papa (Honduras)</td></tr>
+<tr><td>Vultur gryphus</td><td></td><td></td></tr>
+<tr><td>Falconidae</td><td></td><td></td></tr>
+<tr><td>Falco araeus</td><td></td><td></td></tr>
+<tr><td>Falco jugger</td><td></td><td></td></tr>
+<tr><td>Falco newtoni (soltanto le popolazioni delle Seychelles)</td><td></td><td></td></tr>
+<tr><td>Falco peregrinus</td><td></td><td></td></tr>
+<tr><td>Falco punctatus</td><td></td><td></td></tr>
+<tr><td>Falco rusticolus</td><td></td><td></td></tr>
+<tr><td>GALLIFORMES</td><td></td><td></td></tr>
+<tr><td>Cracidae</td><td></td><td></td></tr>
+<tr><td></td><td></td><td>Crax alberti (Colombia)</td></tr>
+<tr><td>Crax blumenbachii</td><td></td><td></td></tr>
+<tr><td></td><td></td><td>Crax daubentoni (Colombia)</td></tr>
+<tr><td></td><td></td><td>Crax globulosa (Colombia)</td></tr>
+<tr><td></td><td></td><td>Crax rubra (Colombia, Guatemala, Honduras)</td></tr>
+<tr><td>Mitu mitu</td><td></td><td></td></tr>
+<tr><td>Oreophasis derbianus</td><td></td><td></td></tr>
+<tr><td></td><td></td><td>Ortalis vetula (Guatemala, Honduras)</td></tr>
+<tr><td></td><td></td><td>Pauxi pauxi (Colombia)</td></tr>
+<tr><td>Penelope albipennis</td><td></td><td></td></tr>
+<tr><td></td><td></td><td>Penelope purpurascens (Honduras)</td></tr>
+<tr><td></td><td></td><td>Penelopina nigra (Guatemala)</td></tr>
+<tr><td>Pipile jacutinga</td><td></td><td></td></tr>
+<tr><td>Pipile pipile</td><td></td><td></td></tr>
+<tr><td>Megapodiidae</td><td></td><td></td></tr>
+<tr><td>Macrocephalon maleo</td><td></td><td></td></tr>
+<tr><td>Phasianidae</td><td></td><td></td></tr>
+<tr><td></td><td>Argusianus argus</td><td></td></tr>
+<tr><td>Catreus wallichii</td><td></td><td></td></tr>
+<tr><td>Colinus virginianus ridgwayi</td><td></td><td></td></tr>
+<tr><td>Crossoptilon crossoptilon</td><td></td><td></td></tr>
+<tr><td>Crossoptilon mantchuricum</td><td></td><td></td></tr>
+<tr><td></td><td>Gallus sonneratii</td><td></td></tr>
+<tr><td></td><td>Ithaginis cruentus</td><td></td></tr>
+<tr><td>Lophophorus impejanus</td><td></td><td></td></tr>
+<tr><td>Lophophorus lhuysii</td><td></td><td></td></tr>
+<tr><td>Lophophorus sclateri</td><td></td><td></td></tr>
+<tr><td></td><td></td><td>Lophura leucomelanos (Pakistan)</td></tr>
+<tr><td>Lophura edwardsi</td><td></td><td></td></tr>
+<tr><td>Lophura swinhoii</td><td></td><td></td></tr>
+<tr><td></td><td></td><td>Meleagris ocellata (Guatemala)</td></tr>
+<tr><td></td><td></td><td>Pavo cristatus (Pakistan)</td></tr>
+<tr><td></td><td>Pavo muticus</td><td></td></tr>
+<tr><td></td><td>Polyplectron bicalcaratum</td><td></td></tr>
+<tr><td></td><td>Polyplectron germaini</td><td></td></tr>
+<tr><td></td><td>Polyplectron malacense</td><td></td></tr>
+<tr><td>Polyplectron napoleonis</td><td></td><td></td></tr>
+<tr><td></td><td>Polyplectron schleiermacheri</td><td></td></tr>
+<tr><td></td><td></td><td>Pucrasia macrolopha (Pakistan)</td></tr>
+<tr><td>Rheinardia ocellata</td><td></td><td></td></tr>
+<tr><td>Syrmaticus ellioti</td><td></td><td></td></tr>
+<tr><td>Syrmaticus humiae</td><td></td><td></td></tr>
+<tr><td>Syrmaticus mikado</td><td></td><td></td></tr>
+<tr><td></td><td>Syrmaticus reevesii</td><td></td></tr>
+<tr><td>Tetraogallus caspius</td><td></td><td></td></tr>
+<tr><td>Tetraogallus tibetanus</td><td></td><td></td></tr>
+<tr><td>Tragopan blythii</td><td></td><td></td></tr>
+<tr><td>Tragopan caboti</td><td></td><td></td></tr>
+<tr><td>Tragopan melanocephalus</td><td></td><td></td></tr>
+<tr><td></td><td></td><td>Tragopan satyra (Nepal) Tragopan satiro</td></tr>
+<tr><td></td><td>Tympanuchus cupido attwateri Tetraone di prateria di Attwater</td><td></td></tr>
+<tr><td>GRUIFORMES</td><td></td><td></td></tr>
+<tr><td>Gruidae</td><td></td><td></td></tr>
+<tr><td>Antigone canadensis nesiotes</td><td></td><td></td></tr>
+<tr><td>Antigone canaensis pulla</td><td></td><td></td></tr>
+<tr><td>Antigone vipio</td><td></td><td></td></tr>
+<tr><td>Balearica pavonina</td><td></td><td></td></tr>
+<tr><td></td><td>Gruidae spp. (ad eccezione delle specie elencate nell’Allegato I)</td><td></td></tr>
+<tr><td>Grus americana</td><td></td><td></td></tr>
+<tr><td>Grus japonensis</td><td></td><td></td></tr>
+<tr><td>Grus monacha</td><td></td><td></td></tr>
+<tr><td>Grus nigricollis</td><td></td><td></td></tr>
+<tr><td>Leucogeranus leucogeranus</td><td></td><td></td></tr>
+<tr><td>Otididae</td><td></td><td></td></tr>
+<tr><td></td><td>Otididae spp. (ad eccezione delle specie elencate nell’Allegato I)</td><td></td></tr>
+<tr><td>Ardeotis nigriceps</td><td></td><td></td></tr>
+<tr><td>Chlamydotis macqueenii</td><td></td><td></td></tr>
+<tr><td>Chlamydotis undulata</td><td></td><td></td></tr>
+<tr><td>Houbaropsis bengalensis</td><td></td><td></td></tr>
+<tr><td>Rallidae</td><td></td><td></td></tr>
+<tr><td>Hypotaenidia sylvestris</td><td></td><td></td></tr>
+<tr><td>Rhynochetidae</td><td></td><td></td></tr>
+<tr><td>Rhynochetos jubatus</td><td></td><td></td></tr>
+<tr><td>PASSERIFORMES</td><td></td><td></td></tr>
+<tr><td>Alaudidae</td><td></td><td></td></tr>
+<tr><td></td><td></td><td>Alauda arvensis (Ucraina) Allodola</td></tr>
+<tr><td></td><td></td><td>Galerida cristata (Ucraina) Cappellaccia</td></tr>
+<tr><td></td><td></td><td>Lullula arborea (Ucraina) Tottavilla</td></tr>
+<tr><td></td><td></td><td>Malanocorypha calandra (Ucraina) Calandra</td></tr>
+<tr><td>Atrichornithidae</td><td></td><td></td></tr>
+<tr><td>Atrichornis clamosus</td><td></td><td></td></tr>
+<tr><td>Cotingidae</td><td></td><td></td></tr>
+<tr><td></td><td></td><td>Cephalopterus ornatus (Colombia)</td></tr>
+<tr><td></td><td></td><td>Cephalopterus penduliger (Colombia)</td></tr>
+<tr><td>Cotinga maculata</td><td></td><td></td></tr>
+<tr><td></td><td>Rupicola spp.</td><td></td></tr>
+<tr><td>Xipholena atropurpurea</td><td></td><td></td></tr>
+<tr><td>Emberizidae</td><td></td><td></td></tr>
+<tr><td></td><td></td><td>Emberiza citrinella (Ucraina) Zigolo giallo</td></tr>
+<tr><td></td><td></td><td>Emberiza hortulana (Ucraina) Ortolano</td></tr>
+<tr><td></td><td>Gubernatrix cristata</td><td></td></tr>
+<tr><td></td><td></td><td>Melopyrrha nigra (Cuba)</td></tr>
+<tr><td></td><td>Paroaria capitata</td><td></td></tr>
+<tr><td></td><td>Paroaria coronata</td><td></td></tr>
+<tr><td></td><td>Sporophila angolensis</td><td></td></tr>
+<tr><td></td><td>Sporophila atrirostris</td><td></td></tr>
+<tr><td></td><td>Sporophila crassirostris</td><td></td></tr>
+<tr><td></td><td>Sporophila funerea</td><td></td></tr>
+<tr><td>Sporophila maximiliani</td><td></td><td></td></tr>
+<tr><td></td><td>Sporophila nuttingi</td><td></td></tr>
+<tr><td></td><td>Tangara fastuosa</td><td>Tiaris canorus (Cuba)</td></tr>
+<tr><td>Estrildidae</td><td></td><td></td></tr>
+<tr><td></td><td>Amandava formosa</td><td></td></tr>
+<tr><td></td><td>Lonchura oryzivora</td><td></td></tr>
+<tr><td></td><td>Poephila cincta cincta</td><td></td></tr>
+<tr><td>Fringillidae</td><td></td><td></td></tr>
+<tr><td></td><td></td><td>Caduelis cannabina (Ucraina) Fanello</td></tr>
+<tr><td></td><td></td><td>Carduelis carduelis (Ucraina) Cardellino</td></tr>
+<tr><td>Carduelis cucullata</td><td></td><td></td></tr>
+<tr><td></td><td></td><td>Carduelis flammea (Ucraina) Organetto</td></tr>
+<tr><td></td><td></td><td>Carduelis hornemanni (Ucraina) Organetto artico</td></tr>
+<tr><td></td><td></td><td>Carduelis spinus (Ucraina) Lucherino</td></tr>
+<tr><td></td><td>Carduelis yarrellii</td><td></td></tr>
+<tr><td></td><td></td><td>Carpodacus erythrinus (Ucraina) Ciuffolotto scarlatto</td></tr>
+<tr><td></td><td></td><td>Loxia curvirostra (Ucraina) Crociere</td></tr>
+<tr><td></td><td></td><td>Pyrrhula pyrrhula (Ucraina) Ciuffolotto</td></tr>
+<tr><td></td><td></td><td>Serinus serinus (Ucraina) Verzellino</td></tr>
+<tr><td>Hirundinidae</td><td></td><td></td></tr>
+<tr><td>Pseudochelidon sirintarae</td><td></td><td></td></tr>
+<tr><td>Icteridae</td><td></td><td></td></tr>
+<tr><td>Xanthopsar flavus</td><td></td><td></td></tr>
+<tr><td>Meliphagidae</td><td></td><td></td></tr>
+<tr><td></td><td>Lichenostomus melanops cassidix</td><td></td></tr>
+<tr><td>Muscicapidae</td><td></td><td></td></tr>
+<tr><td></td><td>Copsychus malabaricus</td><td>Acrocephalus rodericanus (Maurizio)</td></tr>
+<tr><td></td><td>Cyornis ruckii</td><td></td></tr>
+<tr><td></td><td>Dasyornis broadbenti litoralis</td><td></td></tr>
+<tr><td></td><td>Dasyornis longirostris</td><td></td></tr>
+<tr><td></td><td></td><td>Erithacus rubecula (Ucraina) Pettirosso</td></tr>
+<tr><td></td><td></td><td>Ficedula parva (Ucraina) Pigliamosche pettirosso</td></tr>
+<tr><td></td><td></td><td>Hippolais icterina (Ucraina) Canapino maggiore</td></tr>
+<tr><td></td><td>Garrulax canorus</td><td></td></tr>
+<tr><td></td><td>Garrulax taewanus</td><td></td></tr>
+<tr><td></td><td>Leiothrix argentauris</td><td></td></tr>
+<tr><td></td><td>Leiothrix lutea</td><td></td></tr>
+<tr><td></td><td>Liocichla omeiensis</td><td></td></tr>
+<tr><td></td><td></td><td>Luscinia luscinia (Ucraina) Usignolo maggiore</td></tr>
+<tr><td></td><td></td><td>Luscinia megarhynchos (Ucraina) Usignolo</td></tr>
+<tr><td></td><td></td><td>Luscinia svecica (Ucraina) Pettazzurro</td></tr>
+<tr><td></td><td></td><td>Monticola saxatilis (Ucraina) Codirossone</td></tr>
+<tr><td>Picathartes gymnocephalus</td><td></td><td></td></tr>
+<tr><td>Picathartes oreas</td><td></td><td></td></tr>
+<tr><td></td><td></td><td>Sylvia atricapilla (Ucraina) Capinera</td></tr>
+<tr><td></td><td></td><td>Sylvia borin (Ucraina) Beccafico</td></tr>
+<tr><td></td><td></td><td>Sylvia curruca (Ucraina) Bigiarella</td></tr>
+<tr><td></td><td></td><td>Sylvia nisoria (Ucraina) Bigia padovana</td></tr>
+<tr><td></td><td></td><td>Terpsiphone bourbonnensis (Maurizio)</td></tr>
+<tr><td></td><td></td><td>Turdus merula (Ucraina) Merlo</td></tr>
+<tr><td></td><td></td><td>Turdus philomelos (Ucraina) Tordo bottaccio</td></tr>
+<tr><td>Oriolidae</td><td></td><td></td></tr>
+<tr><td></td><td></td><td>Oriolus oriolus (Ucraina) Rigogolo</td></tr>
+<tr><td>Paradisaeidae</td><td></td><td></td></tr>
+<tr><td></td><td>Paradisaeidae spp.</td><td></td></tr>
+<tr><td>Paridae</td><td></td><td></td></tr>
+<tr><td></td><td></td><td>Parus ater (Ucraina) Cincia mora</td></tr>
+<tr><td>Pittidae</td><td></td><td></td></tr>
+<tr><td></td><td>Pitta guajana</td><td></td></tr>
+<tr><td>Pitta gurneyi</td><td></td><td></td></tr>
+<tr><td>Pitta kochi</td><td></td><td></td></tr>
+<tr><td></td><td>Pitta nympha</td><td></td></tr>
+<tr><td>Pycnonotidae</td><td></td><td></td></tr>
+<tr><td>Pycnonotus zeylanicus</td><td></td><td></td></tr>
+<tr><td>Sturnidae</td><td></td><td></td></tr>
+<tr><td></td><td>Gracula religiosa</td><td></td></tr>
+<tr><td>Leucopsar rothschildi</td><td></td><td></td></tr>
+<tr><td>Troglodytidae</td><td></td><td></td></tr>
+<tr><td></td><td></td><td>Troglodytes troglodytes (Ucraina) Scricciolo</td></tr>
+<tr><td>Zosteropidae</td><td></td><td></td></tr>
+<tr><td>Zosterops albogularis</td><td></td><td></td></tr>
+<tr><td>PELECANIFORMES</td><td></td><td></td></tr>
+<tr><td>Fregatidae</td><td></td><td></td></tr>
+<tr><td>Fregata andrewsi</td><td></td><td></td></tr>
+<tr><td>Pelecanidae</td><td></td><td></td></tr>
+<tr><td>Pelecanus crispus</td><td></td><td></td></tr>
+<tr><td>Sulidae</td><td></td><td></td></tr>
+<tr><td>Papasula abbotti</td><td></td><td></td></tr>
+<tr><td>PICIFORMES</td><td></td><td></td></tr>
+<tr><td>Capitonidae</td><td></td><td></td></tr>
+<tr><td></td><td></td><td>Semnornis ramphastinus (Colombia)</td></tr>
+<tr><td>Picidae Picchi</td><td></td><td></td></tr>
+<tr><td>Dryocopus javensis richardsi</td><td></td><td></td></tr>
+<tr><td>Ramphastidae</td><td></td><td></td></tr>
+<tr><td></td><td></td><td>Baillonius bailloni (Argentina)</td></tr>
+<tr><td></td><td>Pteroglossus aracari</td><td></td></tr>
+<tr><td></td><td></td><td>Pteroglossus castanotis (Argentina)</td></tr>
+<tr><td></td><td>Pteroglossus viridis</td><td></td></tr>
+<tr><td></td><td></td><td>Ramphastos dicolorus (Argentina)</td></tr>
+<tr><td></td><td>Ramphastos sulfuratus</td><td></td></tr>
+<tr><td></td><td>Ramphastos toco</td><td></td></tr>
+<tr><td></td><td>Ramphastos tucanus</td><td></td></tr>
+<tr><td></td><td>Ramphastos vitellinus</td><td></td></tr>
+<tr><td></td><td></td><td>Selenidera maculirostris (Argentina)</td></tr>
+<tr><td>PODICIPEDIFORMES</td><td></td><td></td></tr>
+<tr><td>Podicipedidae</td><td></td><td></td></tr>
+<tr><td>Podilymbus gigas</td><td></td><td></td></tr>
+<tr><td>PROCELLARIIFORMES</td><td></td><td></td></tr>
+<tr><td>Diomedeidae</td><td></td><td></td></tr>
+<tr><td></td><td>Phoebastria albatrus</td><td></td></tr>
+<tr><td>PSITTACIFORMES</td><td></td><td></td></tr>
+<tr><td></td><td>PSITTACIFORMES (escluse le specie *Agapornis roseicollis, Melopsittacus undulatus, Nymphicus hollandicus* e *Psittacula krameri*)</td><td></td></tr>
+<tr><td>Cacatuidae</td><td></td><td></td></tr>
+<tr><td></td><td>Cacatua galerita</td><td></td></tr>
+<tr><td>Cacatua goffiniana</td><td></td><td></td></tr>
+<tr><td>Cacatua haematuropygia</td><td></td><td></td></tr>
+<tr><td>Cacatua moluccensis</td><td></td><td></td></tr>
+<tr><td>Cacatua sulphurea</td><td></td><td></td></tr>
+<tr><td></td><td>Eolophus roseicapillus</td><td></td></tr>
+<tr><td>Probosciger aterrimus</td><td></td><td></td></tr>
+<tr><td>Loriidae</td><td></td><td></td></tr>
+<tr><td>Eos histrio</td><td></td><td></td></tr>
+<tr><td>Vini ultramarina</td><td></td><td></td></tr>
+<tr><td>Psittacidae</td><td></td><td></td></tr>
+<tr><td></td><td>Agapornis spp.</td><td></td></tr>
+<tr><td></td><td>Amazona aestiva</td><td></td></tr>
+<tr><td>Amazona arausiaca</td><td></td><td></td></tr>
+<tr><td>Amazona auropalliata</td><td></td><td></td></tr>
+<tr><td>Amazona barbadensis</td><td></td><td></td></tr>
+<tr><td>Amazona brasiliensis</td><td></td><td></td></tr>
+<tr><td>Amazona finschi</td><td></td><td></td></tr>
+<tr><td>Amazona guildingii</td><td></td><td></td></tr>
+<tr><td>Amazona imperialis</td><td></td><td></td></tr>
+<tr><td>Amazona leucocephala</td><td></td><td></td></tr>
+<tr><td>Amazona oratrix</td><td></td><td></td></tr>
+<tr><td>Amazona pretrei</td><td></td><td></td></tr>
+<tr><td>Amazona rhodocorytha</td><td></td><td></td></tr>
+<tr><td>Amazona tucumana</td><td></td><td></td></tr>
+<tr><td>Amazona versicolor</td><td></td><td></td></tr>
+<tr><td>Amazona vinacea</td><td></td><td></td></tr>
+<tr><td>Amazona viridigenalis</td><td></td><td></td></tr>
+<tr><td>Amazona vittata</td><td></td><td></td></tr>
+<tr><td>Anodorhynchus spp.</td><td></td><td></td></tr>
+<tr><td>Ara ambiguus</td><td></td><td></td></tr>
+<tr><td>Ara glaucogularis</td><td></td><td></td></tr>
+<tr><td>Ara macao</td><td></td><td></td></tr>
+<tr><td>Ara militaris</td><td></td><td></td></tr>
+<tr><td>Ara rubrogenys</td><td></td><td></td></tr>
+<tr><td></td><td>Aratinga spp.</td><td></td></tr>
+<tr><td></td><td>Cyanoliseus patagonus</td><td></td></tr>
+<tr><td>Cyanopsitta spixii</td><td></td><td></td></tr>
+<tr><td>Cyanoramphus cookii</td><td></td><td></td></tr>
+<tr><td>Cyanoramphus forbesi</td><td></td><td></td></tr>
+<tr><td>Cyanoramphus novaezelandiae</td><td></td><td></td></tr>
+<tr><td>Cyanoramphus saisseti</td><td></td><td></td></tr>
+<tr><td>Cyclopsitta diphthalma coxeni</td><td></td><td></td></tr>
+<tr><td>Eunymphicus cornutus</td><td></td><td></td></tr>
+<tr><td>Geopsittacus occidentalis p.e.</td><td></td><td></td></tr>
+<tr><td>Guarouba guarouba</td><td></td><td></td></tr>
+<tr><td></td><td>Myiopsitta monachus</td><td></td></tr>
+<tr><td></td><td>Nandayus nenday</td><td></td></tr>
+<tr><td>Neophema chrysogaster</td><td></td><td></td></tr>
+<tr><td>Ognorhynchus icterotis</td><td></td><td></td></tr>
+<tr><td>Pezoporus flaviventris</td><td></td><td></td></tr>
+<tr><td>Pezoporus occidentalis</td><td></td><td></td></tr>
+<tr><td>Pezoporus wallicus</td><td></td><td></td></tr>
+<tr><td>Pionopsitta pileata</td><td></td><td></td></tr>
+<tr><td></td><td>Platycercus eximius</td><td></td></tr>
+<tr><td></td><td>Poicephalus senegalus</td><td></td></tr>
+<tr><td>Primolius couloni</td><td></td><td></td></tr>
+<tr><td>Primolius maracana</td><td></td><td></td></tr>
+<tr><td>Psephotellus chrysopterygius</td><td></td><td></td></tr>
+<tr><td>Psephotellus dissimilis</td><td></td><td></td></tr>
+<tr><td>Psephotellus pulcherrimus p.e.</td><td></td><td></td></tr>
+<tr><td>Psittacula echo</td><td></td><td></td></tr>
+<tr><td>Psittacus erithacus Pappagallo cenerino</td><td></td><td></td></tr>
+<tr><td>Pyrrhura cruentata</td><td></td><td></td></tr>
+<tr><td>Rhynchopsitta spp.</td><td></td><td></td></tr>
+<tr><td>Strigops habroptilus</td><td></td><td></td></tr>
+<tr><td>RHEIFORMES</td><td></td><td></td></tr>
+<tr><td>Rheidae</td><td></td><td></td></tr>
+<tr><td>Pterocnemia pennata (esclusa la popolazione dell’Argentina)</td><td></td><td></td></tr>
+<tr><td></td><td>Pterocnemia pennata pennata (soltanto la popolazione dell’Argentina)</td><td></td></tr>
+<tr><td></td><td>Rhea americana</td><td></td></tr>
+<tr><td>SPHENISCIFORMES</td><td></td><td></td></tr>
+<tr><td>Spheniscidae</td><td></td><td></td></tr>
+<tr><td></td><td>Spheniscus demersus</td><td></td></tr>
+<tr><td>Spheniscus humboldti</td><td></td><td></td></tr>
+<tr><td>STRIGIFORMES</td><td></td><td></td></tr>
+<tr><td></td><td>STRIGIFORMES (escluso lo *Sceloglaux albifacies*)</td><td></td></tr>
+<tr><td>Strigidae</td><td></td><td></td></tr>
+<tr><td>Heteroglaux blewitti</td><td></td><td></td></tr>
+<tr><td>Mimizuku gurneyi</td><td></td><td></td></tr>
+<tr><td>Ninox natalis</td><td></td><td></td></tr>
+<tr><td>Tytonidae</td><td></td><td></td></tr>
+<tr><td>Tyto soumagnei</td><td></td><td></td></tr>
+<tr><td>STRUTHIONIFORMES</td><td></td><td></td></tr>
+<tr><td>Struthionidae</td><td></td><td></td></tr>
+<tr><td>Struthio camelus (soltanto le popolazioni di Algeria, Burkina Faso, Camerun, Ciad, Mali, Marocco, Mauritania, Niger, Nigeria, Repubblica centrafricana, Senegal e Sudan)</td><td></td><td></td></tr>
+<tr><td>TINAMIFORMES</td><td></td><td></td></tr>
+<tr><td>Tinamidae</td><td></td><td></td></tr>
+<tr><td>Tinamus solitarius</td><td></td><td></td></tr>
+<tr><td>TROGONIFORMES</td><td></td><td></td></tr>
+<tr><td>Trogonidae</td><td></td><td></td></tr>
+<tr><td>Pharomachrus mocinno</td><td></td><td></td></tr>
+<tr><td>Reptilia Rettili</td><td></td><td></td></tr>
+<tr><td>CROCODYLIA</td><td></td><td></td></tr>
+<tr><td></td><td>CROCODYLIA</td><td></td></tr>
+<tr><td>Alligatoridae</td><td></td><td></td></tr>
+<tr><td>Alligator sinesi</td><td></td><td></td></tr>
+<tr><td>Caiman crocodilus apaporiensis</td><td></td><td></td></tr>
+<tr><td>Caiman latirostris (esclusa la popolazione dell’Argentina e del Brasile)</td><td>Caiman latirostris (popolazione dell’Argentina e del Brasile[^t-22])</td><td></td></tr>
+<tr><td>Melanosuchus niger[^t-23] (esclusa la popolazione di Ecuador e Brasile)</td><td></td><td></td></tr>
+<tr><td>Crocodylidae</td><td></td><td></td></tr>
+<tr><td>Crocodylus acutus (ad eccezione della popolazione del distretto di gestione integrata delle mangrovie di Bahia de Cispata, Tinajones, La Balsa e zone circostanti, del Dipartimento di Córdoba, Colombia, e della popolazione di Cuba e Messico, che sono incluse nell’Allegato II)</td><td></td><td></td></tr>
+<tr><td></td><td>Crocodylus acutus (Messico)[^t-24]</td><td></td></tr>
+<tr><td>Crocodylus cataphractus</td><td></td><td></td></tr>
+<tr><td>Crocodylus intermedius</td><td></td><td></td></tr>
+<tr><td>Crocodylus mindorensis</td><td></td><td></td></tr>
+<tr><td>Crocodylus moreletii (ad eccezione della popolazione del Belize che figura nell’Allegato II con quota zero per gli esemplari selvatici scambiati a fini commerciali, e della popolazione del Messico, inclusa nell’Allegato II)</td><td></td><td></td></tr>
+<tr><td>Crocodylus niloticus (ad eccezione delle popolazioni di Botswana, Egitto [soggette a quota zero per gli esemplari selvatici scambiati a fini commerciali], Etiopia, Kenya, Madagascar, Malawi, Mozambico, Namibia, Sudafrica, Uganda, Repubblica unita di Tanzania [soggetta a quota annua di esportazione di non oltre 1600 esemplari selvatici compresi trofei di caccia, oltre agli esemplari allevati], Zambia e Zimbabwe; queste popolazioni sono incluse nell’Allegato II)</td><td></td><td></td></tr>
+<tr><td>Crocodylus palustris</td><td></td><td></td></tr>
+<tr><td>Crocodylus porosus (ad eccezione delle popolazioni di Australia, Indonesia, Malaysia [cattura di animali selvatici limitata allo stato di Sarawak; quota zero per gli esemplari selvatici per gli altri stati malesi (Sabah e Malaysia peninsulare); nessuna modifica alla quota zero se non approvata dalle parti della convenzione CITES], Filippine [soltanto la popolazione delle isole di Palawan] e Papua Nuova Guinea, che sono incluse nell’Allegato II)</td><td>Crocodylus porosus Filippine [vale soltanto per la popolazione delle isole di Palawan[^t-25]]</td><td></td></tr>
+<tr><td>Crocodylus rhombifer</td><td></td><td></td></tr>
+<tr><td>Crocodylus siamensis</td><td></td><td></td></tr>
+<tr><td>Osteolaemus tetraspis</td><td></td><td></td></tr>
+<tr><td>Tomistoma schlegelii</td><td></td><td></td></tr>
+<tr><td>Gavialidae</td><td></td><td></td></tr>
+<tr><td>Gavialis gangeticus</td><td></td><td></td></tr>
+<tr><td>RHYNCHOCEPHALIA</td><td></td><td></td></tr>
+<tr><td>Sphenodontidae</td><td></td><td></td></tr>
+<tr><td>Sphenodon spp.</td><td></td><td></td></tr>
+<tr><td>Sauria</td><td></td><td></td></tr>
+<tr><td>Agamidae Agamidi</td><td></td><td></td></tr>
+<tr><td></td><td></td><td>Calotes ceylonensis (Sri Lanka)</td></tr>
+<tr><td></td><td></td><td>Calotes desilvai (Sri Lanka)</td></tr>
+<tr><td></td><td></td><td>Calotes liocephalus (Sri Lanka)</td></tr>
+<tr><td></td><td></td><td>Calotes liolepis (Sri Lanka)</td></tr>
+<tr><td></td><td></td><td>Calotes nigrilabris (Sri Lanka)</td></tr>
+<tr><td></td><td></td><td>Calotes pethiyagodai (Sri Lanka)</td></tr>
+<tr><td></td><td></td><td>Calotes ceylonensis (Sri Lanka)</td></tr>
+<tr><td></td><td>Ceratophora aspera[^t-26]</td><td></td></tr>
+<tr><td>Ceratophora erdeleni</td><td></td><td></td></tr>
+<tr><td>Ceratophora karu</td><td></td><td></td></tr>
+<tr><td></td><td>Ceratophora stoddartii[^t-27]</td><td></td></tr>
+<tr><td>Ceratophora tennentii</td><td></td><td></td></tr>
+<tr><td>Cophotis ceylanica</td><td></td><td></td></tr>
+<tr><td>Cophotis dumbara</td><td></td><td></td></tr>
+<tr><td></td><td></td><td>Ctenophorus spp. (Australia)</td></tr>
+<tr><td></td><td></td><td>Intellagama spp. (Australia)</td></tr>
+<tr><td></td><td>Lyriocephalus scutatus[^t-28] Physignathus cocincinus</td><td></td></tr>
+<tr><td></td><td>Saara spp.</td><td>Tympanocryptis spp. (Australia)</td></tr>
+<tr><td></td><td>Uromastyx spp.</td><td></td></tr>
+<tr><td>Anguidae Lucertole alligatore</td><td></td><td></td></tr>
+<tr><td></td><td>Abronia spp.[^t-29] (ad eccezione delle specie incluse nell’Allegato I)</td><td></td></tr>
+<tr><td>Abronia anzutoi</td><td></td><td></td></tr>
+<tr><td>Abronia campbelli</td><td></td><td></td></tr>
+<tr><td>Abronia fimbrata</td><td></td><td></td></tr>
+<tr><td>Abronia frosti</td><td></td><td></td></tr>
+<tr><td>Abronia meledona</td><td></td><td></td></tr>
+<tr><td>Chamaeleonidae Camaleonti</td><td></td><td></td></tr>
+<tr><td></td><td>Archaius spp.</td><td></td></tr>
+<tr><td></td><td>Bradypodion spp. (ad eccezione delle specie elencate nell’Allegato I)</td><td></td></tr>
+<tr><td></td><td>Brookesia spp.</td><td></td></tr>
+<tr><td>Brookesia perarmata</td><td></td><td></td></tr>
+<tr><td></td><td>Calumma spp.</td><td></td></tr>
+<tr><td></td><td>Chamaeleo spp.</td><td></td></tr>
+<tr><td></td><td>Furcifer spp.</td><td></td></tr>
+<tr><td></td><td>Kinyongia spp.</td><td></td></tr>
+<tr><td></td><td>Nadzikambia spp.</td><td></td></tr>
+<tr><td></td><td>Rhampholeon spp.</td><td></td></tr>
+<tr><td></td><td>Rieppeleon spp.</td><td></td></tr>
+<tr><td></td><td>Trioceros spp.</td><td></td></tr>
+<tr><td>Cordylidae</td><td></td><td></td></tr>
+<tr><td></td><td>Cordylus spp.</td><td></td></tr>
+<tr><td>Diploglossidae</td><td></td><td></td></tr>
+<tr><td>Caribicus warreni</td><td></td><td></td></tr>
+<tr><td>Eublepharidae</td><td></td><td></td></tr>
+<tr><td></td><td>Goniurosaurus spp. (escluse le specie indigene del Giappone)</td><td></td></tr>
+<tr><td></td><td></td><td>Goniurosaurus kuroiwae #18 (Giappone)</td></tr>
+<tr><td></td><td></td><td>Goniurosaurus orientalis #18 (Giappone)</td></tr>
+<tr><td></td><td></td><td>Goniurosaurus sengokui #18 (Giappone)</td></tr>
+<tr><td></td><td></td><td>Goniurosaurus splendens #18 (Giappone)</td></tr>
+<tr><td></td><td></td><td>Goniurosaurus toyamai #18 (Giappone)</td></tr>
+<tr><td></td><td></td><td>Goniurosaurus yamashinae #18 (Giappone)</td></tr>
+<tr><td>Gekkonidae Gechi</td><td></td><td></td></tr>
+<tr><td></td><td></td><td>Carphodactylus spp. (Australia)</td></tr>
+<tr><td>Cnemaspis psychedelica</td><td></td><td></td></tr>
+<tr><td></td><td>Cyrtodactylus jeyporensis</td><td></td></tr>
+<tr><td></td><td></td><td>Dactylocnemis spp. (Nuova Zelanda)</td></tr>
+<tr><td></td><td>Gekko gecko</td><td></td></tr>
+<tr><td>Gonatodes daudini</td><td></td><td></td></tr>
+<tr><td></td><td></td><td>Hoplodactylus spp. (Nuova Zelanda)</td></tr>
+<tr><td>Lygodactylus williamsi</td><td></td><td></td></tr>
+<tr><td></td><td></td><td>Mokopirirakau spp. (Nuova Zelanda)</td></tr>
+<tr><td></td><td>Nactus serpensinsula Geco dell’Isola Serpente</td><td></td></tr>
+<tr><td></td><td>Naultinus spp.</td><td></td></tr>
+<tr><td></td><td></td><td>Nephrus spp. (Australia)</td></tr>
+<tr><td></td><td></td><td>Orraya spp. (Australia)</td></tr>
+<tr><td></td><td>Paroedura androyensis</td><td></td></tr>
+<tr><td></td><td>Paroedura masobe</td><td></td></tr>
+<tr><td></td><td>Phelsuma spp. Gechi diurni o Felsume</td><td></td></tr>
+<tr><td></td><td></td><td>Phyllurus spp. (Australia) (ad eccezione delle specie di cui all’Allegato II)</td></tr>
+<tr><td></td><td>Phyllurus amnicola</td><td></td></tr>
+<tr><td></td><td>Phyllurus caudiannulatus</td><td></td></tr>
+<tr><td></td><td>Rhoptropella spp.</td><td></td></tr>
+<tr><td></td><td></td><td>Saltuarius spp. (Australia)</td></tr>
+<tr><td></td><td></td><td>Sphaerodactylus armasi (Cuba)</td></tr>
+<tr><td></td><td></td><td>Sphaerodactylus celicara (Cuba</td></tr>
+<tr><td></td><td></td><td>Sphaerodactylus dimorphicus (Cuba)</td></tr>
+<tr><td></td><td></td><td>Sphaerodactylus intermedius (Cuba)</td></tr>
+<tr><td></td><td></td><td>Sphaerodactylus nigropunctatus alayoi (Cuba)</td></tr>
+<tr><td></td><td></td><td>Sphaerodactylus nigropunctatus granti (Cuba)</td></tr>
+<tr><td></td><td></td><td>Sphaerodactylus nigropunctatus lissodesmus (Cuba)</td></tr>
+<tr><td></td><td></td><td>Sphaerodactylus nigropunctatus ocujal (Cuba)</td></tr>
+<tr><td></td><td></td><td>Sphaerodactylus nigropunctatus strategus (Cuba)</td></tr>
+<tr><td></td><td></td><td>Sphaerodactylus notatus atactus (Cuba)</td></tr>
+<tr><td></td><td></td><td>Sphaerodactylus oliveri (Cuba)</td></tr>
+<tr><td></td><td></td><td>Sphaerodactylus pimienta (Cuba)</td></tr>
+<tr><td></td><td></td><td>Sphaerodactylus ruibali (Cuba)</td></tr>
+<tr><td></td><td></td><td>Strophurus spp. (Australia)</td></tr>
+<tr><td></td><td>Tarentola chazaliae</td><td></td></tr>
+<tr><td></td><td></td><td>Toropuku spp. (Nuova Zelanda)</td></tr>
+<tr><td></td><td></td><td>Tukutuku spp. (Nuova Zelanda)</td></tr>
+<tr><td></td><td></td><td>Underwoodisaurus spp. (Australia)</td></tr>
+<tr><td></td><td>Uroplatus spp. Gechi coda a foglia</td><td></td></tr>
+<tr><td></td><td></td><td>Uvidicolus spp. (Australia)</td></tr>
+<tr><td></td><td></td><td>Woodworthia spp. (Nuova Zelanda)</td></tr>
+<tr><td>Helodermatidae</td><td></td><td></td></tr>
+<tr><td></td><td>Heloderma spp.</td><td></td></tr>
+<tr><td>Heloderma horridum charlesbogerti</td><td></td><td></td></tr>
+<tr><td>Iguanidae</td><td></td><td></td></tr>
+<tr><td>Amblyrhynchus cristatus.</td><td></td><td></td></tr>
+<tr><td>Brachylophus spp.</td><td></td><td></td></tr>
+<tr><td></td><td>Cachryx spp.</td><td></td></tr>
+<tr><td>Conolophus spp.</td><td></td><td></td></tr>
+<tr><td></td><td>Ctenosaura spp.</td><td></td></tr>
+<tr><td>Cyclura spp.</td><td></td><td></td></tr>
+<tr><td></td><td>Iguana spp.</td><td></td></tr>
+<tr><td>Phrynosomatidae</td><td></td><td></td></tr>
+<tr><td></td><td>Phrynosoma spp.</td><td></td></tr>
+<tr><td>Sauromalus varius</td><td></td><td></td></tr>
+<tr><td>Lacertidae</td><td></td><td></td></tr>
+<tr><td></td><td></td><td>Galliotia spp. (Unione europea), (esclusa la G. *simonyi* elencata nell’Allegato I)</td></tr>
+<tr><td>Gallotia simonyi</td><td></td><td></td></tr>
+<tr><td></td><td>Podarcis lilfordi</td><td></td></tr>
+<tr><td></td><td>Podarcis pityusensis</td><td></td></tr>
+<tr><td>Lanthanotidae</td><td></td><td></td></tr>
+<tr><td></td><td>Lanthanotidae spp.[^t-30]</td><td></td></tr>
+<tr><td>Polychrotidae Anoles</td><td></td><td></td></tr>
+<tr><td></td><td></td><td>Anolis agueroi (Cuba)</td></tr>
+<tr><td></td><td></td><td>Anolis baracoa (Cuba)</td></tr>
+<tr><td></td><td></td><td>Anolis barbatus (Cuba)</td></tr>
+<tr><td></td><td></td><td>Anolis chamaeleonides (Cuba)</td></tr>
+<tr><td></td><td></td><td>Anolis equestris (Cuba)</td></tr>
+<tr><td></td><td></td><td>Anolis guamuhaya (Cuba)</td></tr>
+<tr><td></td><td></td><td>Anolis luteogularis (Cuba)</td></tr>
+<tr><td></td><td></td><td>Anolis pigmaequestris (Cuba)</td></tr>
+<tr><td></td><td></td><td>Anolis purcus (Cuba)</td></tr>
+<tr><td>Scincidae</td><td></td><td></td></tr>
+<tr><td></td><td>Corucia zebrata</td><td></td></tr>
+<tr><td></td><td></td><td>Egernia spp. (Australia)</td></tr>
+<tr><td>Tiliqua adelaidensis</td><td></td><td></td></tr>
+<tr><td></td><td></td><td>Tiliqua multifasciata (Australia)</td></tr>
+<tr><td></td><td></td><td>Tiliqua nigrolutea (Australia)</td></tr>
+<tr><td></td><td></td><td>Tiliqua occipitalis (Australia)</td></tr>
+<tr><td></td><td></td><td>Tiliqua rugosa (Australia)</td></tr>
+<tr><td></td><td></td><td>Tiliqua scincoides intermedia (Australia)</td></tr>
+<tr><td></td><td></td><td>Tiliqua scincoides scincoides (Australia)</td></tr>
+<tr><td>Teiidae</td><td></td><td></td></tr>
+<tr><td></td><td>Crocodilurus amazonicus</td><td></td></tr>
+<tr><td></td><td>Dracaena spp.</td><td></td></tr>
+<tr><td></td><td>Tupinambis spp.</td><td></td></tr>
+<tr><td>Varanidae</td><td></td><td></td></tr>
+<tr><td></td><td>Varanus spp.</td><td></td></tr>
+<tr><td>Varanus bengalensis</td><td></td><td></td></tr>
+<tr><td>Varanus flavescens</td><td></td><td></td></tr>
+<tr><td>Varanus griseus</td><td></td><td></td></tr>
+<tr><td>Varanus komodoensis</td><td></td><td></td></tr>
+<tr><td>Varanus nebulosus</td><td></td><td></td></tr>
+<tr><td>Xenosauridae</td><td></td><td></td></tr>
+<tr><td>Shinisaurus crocodilurus</td><td></td><td></td></tr>
+<tr><td>SERPENTES Serpenti</td><td></td><td></td></tr>
+<tr><td>Boidae</td><td></td><td></td></tr>
+<tr><td></td><td>Boidae spp.</td><td></td></tr>
+<tr><td>Acrantophis spp.</td><td></td><td></td></tr>
+<tr><td>Boa constrictor occidentalis</td><td></td><td></td></tr>
+<tr><td></td><td>Chilabothrus inornatus</td><td></td></tr>
+<tr><td>Chilabothrus monensis</td><td></td><td></td></tr>
+<tr><td>Chilabothrus subflavus</td><td></td><td></td></tr>
+<tr><td>Sanzinia madagascariensis</td><td></td><td></td></tr>
+<tr><td>Bolyeriidae</td><td></td><td></td></tr>
+<tr><td></td><td>Bolyeriidae spp.</td><td></td></tr>
+<tr><td>Bolyeria multocarinata</td><td></td><td></td></tr>
+<tr><td>Casarea dussumieri</td><td></td><td></td></tr>
+<tr><td>Colubridae</td><td></td><td></td></tr>
+<tr><td></td><td></td><td>Atretium schistosum (India)</td></tr>
+<tr><td></td><td>Boiga westermanni</td><td></td></tr>
+<tr><td></td><td></td><td>Cerberus rhynchops (India)</td></tr>
+<tr><td></td><td>Clelia clelia</td><td></td></tr>
+<tr><td></td><td>Cyclagras gigas</td><td></td></tr>
+<tr><td></td><td>Ptyas mucosus</td><td></td></tr>
+<tr><td></td><td></td><td>Xenochrophis piscator (India)</td></tr>
+<tr><td>Elapidae</td><td></td><td></td></tr>
+<tr><td></td><td>Hoplocephalus bungaroides</td><td></td></tr>
+<tr><td></td><td></td><td>Micrurus diastema (Honduras)</td></tr>
+<tr><td></td><td></td><td>Micrurus nigrocinctus (Honduras)</td></tr>
+<tr><td></td><td>Naja atra</td><td></td></tr>
+<tr><td></td><td>Naja kaouthia</td><td></td></tr>
+<tr><td></td><td>Naja mandalayensis</td><td></td></tr>
+<tr><td></td><td>Naja naja</td><td></td></tr>
+<tr><td></td><td>Naja oxiana</td><td></td></tr>
+<tr><td></td><td>Naja philippinensis</td><td></td></tr>
+<tr><td></td><td>Naja sagittifera</td><td></td></tr>
+<tr><td></td><td>Naja samarensis</td><td></td></tr>
+<tr><td></td><td>Naja siamensis</td><td></td></tr>
+<tr><td></td><td>Naja sputatrix</td><td></td></tr>
+<tr><td></td><td>Naja sumatrana</td><td></td></tr>
+<tr><td></td><td>Ophiophagus hannah</td><td></td></tr>
+<tr><td>Loxocemidae</td><td></td><td></td></tr>
+<tr><td></td><td>Loxocemidae spp.</td><td></td></tr>
+<tr><td>Pythonidae</td><td></td><td></td></tr>
+<tr><td></td><td>Pythonidae spp.</td><td></td></tr>
+<tr><td>Python molurus</td><td></td><td></td></tr>
+<tr><td>Tropidophiidae</td><td></td><td></td></tr>
+<tr><td></td><td>Tropidophiidae spp.</td><td></td></tr>
+<tr><td>Viperidae</td><td></td><td></td></tr>
+<tr><td></td><td>Atheris desaixi</td><td></td></tr>
+<tr><td>Bitis harenna</td><td></td><td></td></tr>
+<tr><td>Bitis parviocula</td><td></td><td></td></tr>
+<tr><td></td><td>Bitis worthingtoni</td><td></td></tr>
+<tr><td></td><td></td><td>Crotalus durissus (Honduras)</td></tr>
+<tr><td></td><td></td><td>Daboia russelii (India)</td></tr>
+<tr><td></td><td></td><td>Daboia palaestinae (Israele)</td></tr>
+<tr><td></td><td>Montivipera wagneri</td><td></td></tr>
+<tr><td></td><td>Protobothrops mangshanensis Crotalo di Mangshan</td><td></td></tr>
+<tr><td></td><td>Pseudocerastes urarachnoides</td><td></td></tr>
+<tr><td>Vipera ursinii (soltanto le popolazioni dell’Europa, esclusa l’area dell’ex Unione Sovietica)</td><td></td><td></td></tr>
+<tr><td>TESTUDINES</td><td></td><td></td></tr>
+<tr><td>Carettochelyidae</td><td></td><td></td></tr>
+<tr><td></td><td>Carettochelys insculpta</td><td></td></tr>
+<tr><td>Chelidae</td><td></td><td></td></tr>
+<tr><td></td><td>Chelodina mccordi[^t-31]</td><td></td></tr>
+<tr><td></td><td>Chelus fimbriata</td><td></td></tr>
+<tr><td></td><td>Chelus orinocensis</td><td></td></tr>
+<tr><td>Pseudemydura umbrina</td><td></td><td></td></tr>
+<tr><td>Cheloniidae</td><td></td><td></td></tr>
+<tr><td>Cheloniidae spp.</td><td></td><td></td></tr>
+<tr><td>Chelydridae</td><td></td><td></td></tr>
+<tr><td></td><td>Chelydra serpentina</td><td></td></tr>
+<tr><td></td><td>Macroclemys temminckii</td><td></td></tr>
+<tr><td>Dermatemydidae</td><td></td><td></td></tr>
+<tr><td></td><td>Dermatemys mawii</td><td></td></tr>
+<tr><td>Dermochelyidae</td><td></td><td></td></tr>
+<tr><td>Dermochelys coriacea</td><td></td><td></td></tr>
+<tr><td>Emydidae Tartarughe scatola, tartarughe acquatiche</td><td></td><td></td></tr>
+<tr><td></td><td>Clemmys guttata Testuggine palustre punteggiata</td><td></td></tr>
+<tr><td></td><td></td><td>Emys orbicularis (Ucraina) Testuggine palustre europea</td></tr>
+<tr><td></td><td>Emydoidea blandingii Tartaruga di Blanding</td><td></td></tr>
+<tr><td></td><td>Glyptemys insculpta</td><td></td></tr>
+<tr><td>Glyptemys muhlenbergii</td><td></td><td></td></tr>
+<tr><td></td><td></td><td>Graptemys spp. (USA) (ad eccezione delle specie elencate nell’Allegato II)</td></tr>
+<tr><td></td><td>Graptemys barbouri</td><td></td></tr>
+<tr><td></td><td>Graptemys ernesti</td><td></td></tr>
+<tr><td></td><td>Graptemys gibbonsi</td><td></td></tr>
+<tr><td></td><td>Graptemys pearlensis</td><td></td></tr>
+<tr><td></td><td>Graptemys pulchra</td><td></td></tr>
+<tr><td></td><td>Malaclemys terrapin</td><td></td></tr>
+<tr><td></td><td>Terrapene spp.</td><td></td></tr>
+<tr><td>Terrapene coahuila</td><td></td><td></td></tr>
+<tr><td>Geoemydidae</td><td></td><td></td></tr>
+<tr><td>Batagur affinis</td><td></td><td></td></tr>
+<tr><td>Batagur baska Tartaruga fluviale indiana</td><td></td><td></td></tr>
+<tr><td></td><td>Batagur borneoensis[^t-32]</td><td></td></tr>
+<tr><td></td><td>Batagur dhongoka</td><td></td></tr>
+<tr><td>Batagur kachuga</td><td></td><td></td></tr>
+<tr><td></td><td>Batagur trivittata[^t-33]</td><td></td></tr>
+<tr><td></td><td>Cuora spp.[^t-34] (ad eccezione delle specie elencate nell’Allegato I) Tartarughe scatole asiatiche</td><td></td></tr>
+<tr><td>Cuora bourreti</td><td></td><td></td></tr>
+<tr><td>Cuora galbinifrons</td><td></td><td></td></tr>
+<tr><td>Cuora picturata</td><td></td><td></td></tr>
+<tr><td></td><td>Cyclemys spp. Tartarughe foglia asiatiche</td><td></td></tr>
+<tr><td>Geoclemys hamiltonii Tartaruga di Hamilton</td><td></td><td></td></tr>
+<tr><td></td><td>Geoemyda japonica</td><td></td></tr>
+<tr><td></td><td>Geoemyda spengleri Tartaruga foglia a petto nero</td><td></td></tr>
+<tr><td></td><td>Hardella thurjii Tartaruga di fiume incoronata</td><td></td></tr>
+<tr><td></td><td>Heosemys annandalii[^t-35]</td><td></td></tr>
+<tr><td></td><td>Heosemys depressa[^t-36]</td><td></td></tr>
+<tr><td></td><td>Heosemys grandis Tartaruga palustre asiatica gigante</td><td></td></tr>
+<tr><td></td><td>Heosemys spinosa Tartaruga spinosa</td><td></td></tr>
+<tr><td></td><td>Leucocephalon yuwonoi</td><td></td></tr>
+<tr><td></td><td>Malayemys khoratenis</td><td></td></tr>
+<tr><td></td><td>Malayemys macrocephala</td><td></td></tr>
+<tr><td></td><td>Malaemys subtrijuga</td><td></td></tr>
+<tr><td>Mauremys annamensis</td><td></td><td></td></tr>
+<tr><td></td><td>Mauremys japonica Testuggine del Giappone</td><td></td></tr>
+<tr><td></td><td>Mauremys mutica Testuggine palustre asiatica gialla</td><td></td></tr>
+<tr><td></td><td>Mauremys nigricans</td><td></td></tr>
+<tr><td></td><td></td><td>Mauremys reevesii (Cina)</td></tr>
+<tr><td></td><td></td><td>Mauremys sinensis (Cina)</td></tr>
+<tr><td>Melanochelys tricarinata</td><td></td><td></td></tr>
+<tr><td></td><td>Melanochelys trijuga Tartaruga nera indiana</td><td></td></tr>
+<tr><td>Morenia ocellata</td><td></td><td></td></tr>
+<tr><td></td><td>Morenia petersi</td><td></td></tr>
+<tr><td></td><td>Notochelys platynota</td><td></td></tr>
+<tr><td></td><td>Orlitia borneensis[^t-37]</td><td></td></tr>
+<tr><td></td><td>Pangshura spp.</td><td></td></tr>
+<tr><td>Pangshura tecta Tartaruga a tetto dell’India</td><td></td><td></td></tr>
+<tr><td></td><td>Rhinoclemmys spp. Tartarughe terrestri americane</td><td></td></tr>
+<tr><td></td><td>Sacalia bealei</td><td></td></tr>
+<tr><td></td><td>Sacalia quadriocellata</td><td></td></tr>
+<tr><td></td><td>Siebenrockiella crassicollis</td><td></td></tr>
+<tr><td></td><td>Siebenrockiella leytensis</td><td></td></tr>
+<tr><td></td><td>Vijayachelys silvatica</td><td></td></tr>
+<tr><td>Kinosternidae</td><td></td><td></td></tr>
+<tr><td></td><td>Claudius angustatus Tartaruga del fango</td><td></td></tr>
+<tr><td></td><td>Kinosternon spp. (ad eccezione delle specie elencate nell’Allegato I)</td><td></td></tr>
+<tr><td>Kinosternon cora</td><td></td><td></td></tr>
+<tr><td>Kinosternon vogti</td><td></td><td></td></tr>
+<tr><td></td><td>Staurotypus salvinii</td><td></td></tr>
+<tr><td></td><td>Staurotypus triporcatus</td><td></td></tr>
+<tr><td></td><td>Sternotherus spp.</td><td></td></tr>
+<tr><td>Platysternidae Platisterno capogrosso</td><td></td><td></td></tr>
+<tr><td>Platysternidae spp.</td><td></td><td></td></tr>
+<tr><td>Podocnemididae</td><td></td><td></td></tr>
+<tr><td></td><td>Erymnochelys madagascariensis Podocnemide del Madagascar</td><td></td></tr>
+<tr><td></td><td>Peltocephalus dumerilianus</td><td></td></tr>
+<tr><td></td><td>Podocnemis spp.</td><td></td></tr>
+<tr><td>Testudinidae Testuggini</td><td></td><td></td></tr>
+<tr><td></td><td>Testudinidae spp.[^t-38]</td><td></td></tr>
+<tr><td>Astrochelys radiata</td><td></td><td></td></tr>
+<tr><td>Astrochelys yniphora</td><td></td><td></td></tr>
+<tr><td>Chelonoidis nigra</td><td></td><td></td></tr>
+<tr><td>Geochelone elegans</td><td></td><td></td></tr>
+<tr><td>Geochelone platynota Testuggine stellata del Myanmar</td><td></td><td></td></tr>
+<tr><td>Gopherus flavomarginatus</td><td></td><td></td></tr>
+<tr><td>Kinixys homeana</td><td></td><td></td></tr>
+<tr><td>Malacochersus tornieri</td><td></td><td></td></tr>
+<tr><td>Psammobates geometricus</td><td></td><td></td></tr>
+<tr><td>Pyxis arachnoides</td><td></td><td></td></tr>
+<tr><td>Pyxis planicauda</td><td></td><td></td></tr>
+<tr><td>Testudo kleinmanni</td><td></td><td></td></tr>
+<tr><td>Trionychidae</td><td></td><td></td></tr>
+<tr><td></td><td>Amyda cartilaginea Tartaruga dal guscio molle asiatica</td><td></td></tr>
+<tr><td></td><td>Apalone spp. (ad eccezione delle sottospecie elencate nell’Allegato I) Tartarughe dal guscio molle</td><td></td></tr>
+<tr><td>Apalone spinifera atra Tartaruga dal guscio molle nera</td><td></td><td></td></tr>
+<tr><td></td><td>Chitra spp.</td><td></td></tr>
+<tr><td>Chitra chitra</td><td></td><td></td></tr>
+<tr><td>Chitra vandijki</td><td></td><td></td></tr>
+<tr><td></td><td>Cyclanorbis elegans</td><td></td></tr>
+<tr><td></td><td>Cyclanorbis senegalensis</td><td></td></tr>
+<tr><td></td><td>Cycloderma aubryi</td><td></td></tr>
+<tr><td></td><td>Cycloderma frenatum</td><td></td></tr>
+<tr><td></td><td>Dogania subplana Tartaruga dal guscio molle della Malesia</td><td></td></tr>
+<tr><td></td><td>Lissemys ceylonensis</td><td></td></tr>
+<tr><td></td><td>Lissemys punctata Tartaruga alata indiana</td><td></td></tr>
+<tr><td></td><td>Lissemys scutata</td><td></td></tr>
+<tr><td></td><td>Nilssonia formosa Tartaruga dal guscio molle pavonina del Myanmar</td><td></td></tr>
+<tr><td>Nilssonia gangeticus Tartaruga dal guscio molle del Gange</td><td></td><td></td></tr>
+<tr><td>Nilssonia hurum</td><td></td><td></td></tr>
+<tr><td>Nilssonia leithii Tartaruga dal guscio molle di Leith</td><td></td><td></td></tr>
+<tr><td>Nilssonia nigricans</td><td></td><td></td></tr>
+<tr><td></td><td>Palea steindachneri Tartaruga dal guscio molle dal collo caruncolato</td><td></td></tr>
+<tr><td></td><td>Pelochelys spp.</td><td></td></tr>
+<tr><td></td><td>Pelodiscus axenaria</td><td></td></tr>
+<tr><td></td><td>Pelodiscus maackii</td><td></td></tr>
+<tr><td></td><td>Pelodiscus parviformis</td><td></td></tr>
+<tr><td></td><td>Rafetus euphraticus</td><td></td></tr>
+<tr><td></td><td>Rafetus swinhoei Tartaruga dal guscio molle gigante dello Yang‑Tze</td><td></td></tr>
+<tr><td></td><td>Trionyx triunguis</td><td></td></tr>
+<tr><td>Amphibia Anfibi</td><td></td><td></td></tr>
+<tr><td>Anura Rane e rospi</td><td></td><td></td></tr>
+<tr><td>Aromobatidae Rane arboricole criptiche</td><td></td><td></td></tr>
+<tr><td></td><td>Allobates femoralis</td><td></td></tr>
+<tr><td></td><td>Allobates hodli</td><td></td></tr>
+<tr><td></td><td>Allobates myersi</td><td></td></tr>
+<tr><td></td><td>Allobates rufulus</td><td></td></tr>
+<tr><td></td><td>Allobates zaparo</td><td></td></tr>
+<tr><td>Bufonidae Rospi</td><td></td><td></td></tr>
+<tr><td>Altiphrynoides spp.</td><td></td><td></td></tr>
+<tr><td>Atelopus zeteki</td><td></td><td></td></tr>
+<tr><td>Incilius periglenes Rospo dorato</td><td></td><td></td></tr>
+<tr><td>Nectophrynoides spp. Rospi vivipari africani</td><td></td><td></td></tr>
+<tr><td>Nimbaphrynoides spp.</td><td></td><td></td></tr>
+<tr><td>Sclerophrys channingi</td><td></td><td></td></tr>
+<tr><td>Sclerophrys superciliaris</td><td></td><td></td></tr>
+<tr><td>Calyptocephalellidae</td><td></td><td></td></tr>
+<tr><td></td><td></td><td>Calyptocephalella gayi (Cile)</td></tr>
+<tr><td>Centrolenidae</td><td>Centrolenidae spp.</td><td></td></tr>
+<tr><td>Dendrobatidae</td><td></td><td></td></tr>
+<tr><td></td><td>Adelphobates spp.</td><td></td></tr>
+<tr><td></td><td>Ameerega spp.</td><td></td></tr>
+<tr><td></td><td>Andinobates spp.</td><td></td></tr>
+<tr><td></td><td>Dendrobates spp. Dendrobatidi</td><td></td></tr>
+<tr><td></td><td>Epipedobates spp.</td><td></td></tr>
+<tr><td></td><td>Exidobates spp.</td><td></td></tr>
+<tr><td></td><td>Hyloxalus azureiventris</td><td></td></tr>
+<tr><td></td><td>Minyobates spp.</td><td></td></tr>
+<tr><td></td><td>Oophaga spp.</td><td></td></tr>
+<tr><td></td><td>Paruwrobates andinus</td><td></td></tr>
+<tr><td></td><td>Paruwrobates erythromos</td><td></td></tr>
+<tr><td></td><td>Phyllobates spp. Fillobati</td><td></td></tr>
+<tr><td></td><td>Ranitomeya spp.</td><td></td></tr>
+<tr><td>Dicroglossidae Ranidi</td><td></td><td></td></tr>
+<tr><td></td><td>Euphlyctis hexadactylus</td><td></td></tr>
+<tr><td></td><td>Hoplobatrachus tigerinus</td><td></td></tr>
+<tr><td>Hylidae</td><td></td><td></td></tr>
+<tr><td></td><td>Agalychnis spp.[^t-39]</td><td></td></tr>
+<tr><td>Mantellidae</td><td></td><td></td></tr>
+<tr><td></td><td>Mantella spp.</td><td></td></tr>
+<tr><td>Microhylidae</td><td></td><td></td></tr>
+<tr><td></td><td>Dyscophus antongilii Rana pomodoro</td><td></td></tr>
+<tr><td></td><td>Dyscophus guineti</td><td></td></tr>
+<tr><td></td><td>Dyscophus insularis</td><td></td></tr>
+<tr><td></td><td>Scaphiophryne gottlebei</td><td></td></tr>
+<tr><td></td><td>Scaphiophryne boribory</td><td></td></tr>
+<tr><td></td><td>Scaphiophryne marmorat</td><td></td></tr>
+<tr><td></td><td>Scaphiophryne spinosa</td><td></td></tr>
+<tr><td>Myobatrachidae</td><td></td><td></td></tr>
+<tr><td></td><td>Rheobatrachus spp. (esclusi il *Rheobatrachus* silus e il *Rheobatrachus vitellinus*)</td><td></td></tr>
+<tr><td>Ranidae</td><td></td><td></td></tr>
+<tr><td></td><td>Pelophylax epeiroticus[^t-40]</td><td></td></tr>
+<tr><td></td><td>Pelophylax lessonae[^t-41]</td><td></td></tr>
+<tr><td></td><td>Pelophylax ridibundus[^t-42]</td><td></td></tr>
+<tr><td></td><td>Pelophylax shqipericus[^t-43]</td><td></td></tr>
+<tr><td>Telmatobiidae</td><td></td><td></td></tr>
+<tr><td>Telmatobius culeus</td><td></td><td></td></tr>
+<tr><td>CAUDATA</td><td></td><td></td></tr>
+<tr><td>Ambystomatidae</td><td></td><td></td></tr>
+<tr><td></td><td>Ambystoma dumerilii</td><td></td></tr>
+<tr><td></td><td>Ambystoma mexicanum</td><td></td></tr>
+<tr><td>Cryptobranchidae Salamandre giganti</td><td></td><td></td></tr>
+<tr><td>Andrias spp. Salamandre giganti</td><td></td><td></td></tr>
+<tr><td></td><td></td><td>Cryptobranchus alleganiensis (Stati Uniti) Salamandra alligatore</td></tr>
+<tr><td>Hynobiidae Salamandre asiatiche</td><td></td><td></td></tr>
+<tr><td></td><td></td><td>Hynobius amjiensis (Cina)</td></tr>
+<tr><td>Salamandridae</td><td></td><td></td></tr>
+<tr><td></td><td></td><td>Echinotriton andersoni #18 (Giappone)</td></tr>
+<tr><td></td><td>Echinotriton chinhaiensis</td><td></td></tr>
+<tr><td></td><td>Echinotriton maxiquadratus</td><td></td></tr>
+<tr><td></td><td>Laotriton laoensis[^t-44]</td><td></td></tr>
+<tr><td>Neurergus kaiseri</td><td></td><td></td></tr>
+<tr><td></td><td>Paramesotriton spp.</td><td></td></tr>
+<tr><td></td><td></td><td>Salamandra algira (Algeria)</td></tr>
+<tr><td></td><td>Tylototriton spp.</td><td></td></tr>
+<tr><td>Elasmobranchii Squali e razze</td><td></td><td></td></tr>
+<tr><td>CARCHARHINIFORMES</td><td></td><td></td></tr>
+<tr><td>Carcharhinidae</td><td></td><td></td></tr>
+<tr><td></td><td>Carcharhinidae spp.</td><td></td></tr>
+<tr><td></td><td>Carcharhinus falciformis Squalo setoso</td><td></td></tr>
+<tr><td>Carcharhinus longimanus Squalo longimanus</td><td></td><td></td></tr>
+<tr><td>Sphyrnidae Squali martello</td><td></td><td></td></tr>
+<tr><td></td><td>Sphyrnidae spp.</td><td></td></tr>
+<tr><td>Triakidae</td><td></td><td></td></tr>
+<tr><td></td><td>Galeorhinus galeus[^t-45]</td><td></td></tr>
+<tr><td></td><td>Mustelus spp.[^t-46]</td><td></td></tr>
+<tr><td>LAMNIFORMES</td><td></td><td></td></tr>
+<tr><td>Alopiidae Squali lamniformi</td><td></td><td></td></tr>
+<tr><td></td><td>Alopias spp. Squali lamniformi</td><td></td></tr>
+<tr><td>Cetorhinidae</td><td></td><td></td></tr>
+<tr><td></td><td>Cetorhinus maximus</td><td></td></tr>
+<tr><td>Lamnidae Squali bianchi</td><td></td><td></td></tr>
+<tr><td></td><td>Carcharodon carcharias Squalo bianco</td><td></td></tr>
+<tr><td></td><td>Isurus oxyrinchus</td><td></td></tr>
+<tr><td></td><td>Mako pinna corta</td><td></td></tr>
+<tr><td></td><td>Isurus paucus Mako pinna lunga</td><td></td></tr>
+<tr><td></td><td>Lamna nasus Smeriglio</td><td></td></tr>
+<tr><td>MYLIOBATIFORMES</td><td></td><td></td></tr>
+<tr><td>Mobulidae spp.</td><td></td><td></td></tr>
+<tr><td></td><td>Mobula spp.</td><td></td></tr>
+<tr><td>Potamotrygonidae</td><td></td><td></td></tr>
+<tr><td></td><td></td><td>Paratrygon aiereba (Colombia)</td></tr>
+<tr><td></td><td></td><td>Potamotrygon spp. (Brasile, ad eccezione delle specie elencate nell’Allegato II)</td></tr>
+<tr><td></td><td>Potamotrygon albimaculata</td><td></td></tr>
+<tr><td></td><td></td><td>Potamotrygon constellata (Colombia)</td></tr>
+<tr><td></td><td>Potamotrygon henlei</td><td></td></tr>
+<tr><td></td><td>Potamotrygon jabuti</td><td></td></tr>
+<tr><td></td><td>Potamotrygon leopoldi</td><td></td></tr>
+<tr><td></td><td></td><td>Potamotrygon magdalenae (Colombia)</td></tr>
+<tr><td></td><td>Potamotrygon marquesi</td><td></td></tr>
+<tr><td></td><td></td><td>Potamotrygon motoro (Colombia)</td></tr>
+<tr><td></td><td></td><td>Potamotrygon orbignyi (Colombia)</td></tr>
+<tr><td></td><td></td><td>Potamotrygon schroederi (Colombia)</td></tr>
+<tr><td></td><td></td><td>Potamotrygon scobina (Colombia)</td></tr>
+<tr><td></td><td>Potamotrygon signata</td><td></td></tr>
+<tr><td></td><td>Potamotrygon wallacei</td><td></td></tr>
+<tr><td></td><td></td><td>Potamotrygon yepezi (Colombia)</td></tr>
+<tr><td>ORECTOLOBIFORMES</td><td></td><td></td></tr>
+<tr><td>Rhincodontidae Squali balena</td><td></td><td></td></tr>
+<tr><td>Rhincodon typus Squalo balena</td><td></td><td></td></tr>
+<tr><td>RHINOPRISTIFORMES</td><td></td><td></td></tr>
+<tr><td>Glaucostegidae</td><td></td><td></td></tr>
+<tr><td></td><td>Glaucostegus spp.[^t-47]<sup>,</sup>[^t-48]</td><td></td></tr>
+<tr><td>Pristidae spp.</td><td></td><td></td></tr>
+<tr><td>Rhinidae Pesci violino</td><td></td><td></td></tr>
+<tr><td></td><td>Rhinidae spp. [^t-49]<sup>,</sup>[^t-50]</td><td></td></tr>
+<tr><td>Rhinobatidae Pesci chitarra</td><td></td><td></td></tr>
+<tr><td></td><td>Rhinobatidae spp.</td><td></td></tr>
+<tr><td>Actinopterygii</td><td></td><td></td></tr>
+<tr><td>SQUALIFORMES</td><td></td><td></td></tr>
+<tr><td></td><td>Centrophoridae spp.[^t-51]</td><td></td></tr>
+<tr><td>ACIPENSERIFORMES</td><td></td><td></td></tr>
+<tr><td></td><td>ACIPENSERIFORMES (escluse le specie elencate nell’Allegato I)</td><td></td></tr>
+<tr><td>Acipenseridae</td><td></td><td></td></tr>
+<tr><td>Acipenser brevirostrum</td><td></td><td></td></tr>
+<tr><td>Acipenser sturio</td><td></td><td></td></tr>
+<tr><td>ANGUILLIFORMES</td><td></td><td></td></tr>
+<tr><td>Anguillidae</td><td></td><td></td></tr>
+<tr><td></td><td>Anguilla anguilla</td><td></td></tr>
+<tr><td>CYPRINIFORMES</td><td></td><td></td></tr>
+<tr><td>Catostomidae</td><td></td><td></td></tr>
+<tr><td>Chasmistes cujus</td><td></td><td></td></tr>
+<tr><td>Cyprinidae</td><td></td><td></td></tr>
+<tr><td></td><td>Caecobarbus geertsi</td><td></td></tr>
+<tr><td>Probarbus jullieni</td><td></td><td></td></tr>
+<tr><td>OSTEOGLOSSIFORMES</td><td></td><td></td></tr>
+<tr><td>Arapaimidae</td><td></td><td></td></tr>
+<tr><td></td><td>Arapaima gigas Arapaima, Piracucù</td><td></td></tr>
+<tr><td>Osteoglossidae</td><td></td><td></td></tr>
+<tr><td>Scleropages aureus</td><td></td><td></td></tr>
+<tr><td>Scleropages formosus (comprende la nuova specie descritta di recente</td><td></td><td></td></tr>
+<tr><td>Scleropages inscriptus) Scleropage asiatico</td><td></td><td></td></tr>
+<tr><td>Scleropages legendrei</td><td></td><td></td></tr>
+<tr><td>Scleropages macrocephalus</td><td></td><td></td></tr>
+<tr><td>PERCIFORMES</td><td></td><td></td></tr>
+<tr><td>Labridae</td><td></td><td></td></tr>
+<tr><td></td><td>Cheilinus undulatus</td><td></td></tr>
+<tr><td>Pomacanthidae</td><td></td><td></td></tr>
+<tr><td></td><td>Holacanthus clarionensis Pesce angelo di Clarion</td><td></td></tr>
+<tr><td></td><td></td><td>Holocanthus limbaughi (Francia)</td></tr>
+<tr><td>Sciaenidae</td><td></td><td></td></tr>
+<tr><td>Totoaba macdonaldi</td><td></td><td></td></tr>
+<tr><td>SILURIFORMES</td><td></td><td></td></tr>
+<tr><td>Loricariidae</td><td></td><td></td></tr>
+<tr><td></td><td>Hypancistrus zebra[^t-52] Pesce gatto zebra</td><td></td></tr>
+<tr><td>Pangasiidae</td><td></td><td></td></tr>
+<tr><td>Pangasianodon gigas</td><td></td><td></td></tr>
+<tr><td>SYNGNATHIFORMES</td><td></td><td></td></tr>
+<tr><td>Syngnathidae</td><td></td><td></td></tr>
+<tr><td></td><td>Hippocampus spp.</td><td></td></tr>
+<tr><td>Sarcopterygii</td><td></td><td></td></tr>
+<tr><td>CERATODONTIFORMES</td><td></td><td></td></tr>
+<tr><td>Ceratodontidae</td><td></td><td></td></tr>
+<tr><td></td><td>Neoceratodus forsteri</td><td></td></tr>
+<tr><td>COELACANTHIFORMES</td><td></td><td></td></tr>
+<tr><td>Latimeriidae</td><td></td><td></td></tr>
+<tr><td>Latimeria spp.</td><td></td><td></td></tr>
+<tr><td>Echinodermata</td><td></td><td></td></tr>
+<tr><td>Holothuroidea</td><td></td><td></td></tr>
+<tr><td>ASPIDOCHIROTIDA</td><td></td><td></td></tr>
+<tr><td>Holothuriidae</td><td></td><td></td></tr>
+<tr><td></td><td>Holothuria (Microthele) fuscogilva</td><td></td></tr>
+<tr><td></td><td>Holothuria (Microthele) lessoni[^t-53]</td><td></td></tr>
+<tr><td></td><td>Holothuria (Microthele) nobilis</td><td></td></tr>
+<tr><td></td><td>Holothuria (Microthele) whitmaei</td><td></td></tr>
+<tr><td>Stichopodidae</td><td></td><td></td></tr>
+<tr><td></td><td></td><td>Isostichopus fuscus (Ecuador)</td></tr>
+<tr><td></td><td>Thelenota spp.</td><td></td></tr>
+<tr><td>Arthropoda</td><td></td><td></td></tr>
+<tr><td>Arachnida</td><td></td><td></td></tr>
+<tr><td>ARANEAE</td><td></td><td></td></tr>
+<tr><td>Theraphosidae</td><td></td><td></td></tr>
+<tr><td></td><td>Aphonopelma pallidum</td><td></td></tr>
+<tr><td></td><td>Brachypelma spp.</td><td></td></tr>
+<tr><td></td><td></td><td>Caribena versicolor (UE)</td></tr>
+<tr><td></td><td>Grammostola rosea</td><td></td></tr>
+<tr><td></td><td>Poecilotheria spp.</td><td></td></tr>
+<tr><td></td><td>Sericopelma angustum</td><td></td></tr>
+<tr><td></td><td>Sericopelma embrithes</td><td></td></tr>
+<tr><td></td><td>Tliltocatl spp.</td><td></td></tr>
+<tr><td>SCORPIONES</td><td></td><td></td></tr>
+<tr><td>Scorpionidae</td><td></td><td></td></tr>
+<tr><td></td><td>Pandinus camerounensis</td><td></td></tr>
+<tr><td></td><td>Pandinus dictator</td><td></td></tr>
+<tr><td></td><td>Pandinus gambiensis</td><td></td></tr>
+<tr><td></td><td>Pandinus imperator</td><td></td></tr>
+<tr><td></td><td>Pandinus roeseli</td><td></td></tr>
+<tr><td>Insecta</td><td></td><td></td></tr>
+<tr><td>COLEOPTERA</td><td></td><td></td></tr>
+<tr><td>Dynastidae</td><td></td><td></td></tr>
+<tr><td></td><td>Dynastes satanas</td><td></td></tr>
+<tr><td>Lucanidae</td><td></td><td></td></tr>
+<tr><td></td><td></td><td>Colophon spp. (Sudafrica)</td></tr>
+<tr><td>LEPIDOPTERA Farfalle</td><td></td><td></td></tr>
+<tr><td>Nymphalidae</td><td></td><td></td></tr>
+<tr><td></td><td></td><td>Agrias amydon boliviensis (Bolivia)</td></tr>
+<tr><td></td><td></td><td>Morpho godartii lachaumei (Bolivia)</td></tr>
+<tr><td></td><td></td><td>Prepona praeneste buckleyana (Bolivia)</td></tr>
+<tr><td>Papilionidae Ornitottere e Papilionidi</td><td></td><td></td></tr>
+<tr><td>Achillides chikae chikae (Papilio chikae)</td><td></td><td></td></tr>
+<tr><td>Achillides chikae hermeli</td><td></td><td></td></tr>
+<tr><td></td><td>Atrophaneura jophon</td><td></td></tr>
+<tr><td></td><td>Atrophaneura pandiyana</td><td></td></tr>
+<tr><td></td><td>Bhutanitis spp.</td><td></td></tr>
+<tr><td></td><td>Ornithoptera spp.</td><td></td></tr>
+<tr><td>Ornithoptera alexandrae</td><td></td><td></td></tr>
+<tr><td>Papilio homerus Papilio di Omero</td><td></td><td></td></tr>
+<tr><td></td><td>Papilio hospiton Macaone di Sardegna</td><td></td></tr>
+<tr><td>Parides burchellanus</td><td></td><td></td></tr>
+<tr><td></td><td>Parnassius apollo</td><td></td></tr>
+<tr><td></td><td>Teinopalpus spp.</td><td></td></tr>
+<tr><td></td><td>Trogonoptera spp.</td><td></td></tr>
+<tr><td></td><td>Troides spp.</td><td></td></tr>
+<tr><td>Annelida</td><td></td><td></td></tr>
+<tr><td>Hirudinoidea</td><td></td><td></td></tr>
+<tr><td>ARHYNCHOBDELLIDA</td><td></td><td></td></tr>
+<tr><td>Hirudinidae</td><td></td><td></td></tr>
+<tr><td></td><td>Hirudo medicinalis</td><td></td></tr>
+<tr><td></td><td>Hirudo verbena</td><td></td></tr>
+<tr><td>Mollusca</td><td></td><td></td></tr>
+<tr><td>Bivalvia</td><td></td><td></td></tr>
+<tr><td>MYTILOIDA</td><td></td><td></td></tr>
+<tr><td>Mytilidae</td><td></td><td></td></tr>
+<tr><td></td><td>Lithophaga lithophaga</td><td></td></tr>
+<tr><td>UNIONIDA</td><td></td><td></td></tr>
+<tr><td>Unionidae</td><td></td><td></td></tr>
+<tr><td>Conradilla caelata</td><td></td><td></td></tr>
+<tr><td></td><td>Cyprogenia aberti</td><td></td></tr>
+<tr><td>Dromus dromas</td><td></td><td></td></tr>
+<tr><td>Epioblasma curtisi</td><td></td><td></td></tr>
+<tr><td>Epioblasma florentina</td><td></td><td></td></tr>
+<tr><td>Epioblasma sampsoni</td><td></td><td></td></tr>
+<tr><td>Epioblasma sulcata perobliqua</td><td></td><td></td></tr>
+<tr><td>Epioblasma torulosa gubernaculum</td><td></td><td></td></tr>
+<tr><td></td><td>Epioblasma torulosa rangiana</td><td></td></tr>
+<tr><td>Epioblasma torulosa torulosa</td><td></td><td></td></tr>
+<tr><td>Epioblasma turgidula</td><td></td><td></td></tr>
+<tr><td>Epioblasma walkeri</td><td></td><td></td></tr>
+<tr><td>Fusconaia cuneolus</td><td></td><td></td></tr>
+<tr><td>Fusconaia edgariana</td><td></td><td></td></tr>
+<tr><td>Lampsilis higginsii</td><td></td><td></td></tr>
+<tr><td>Lampsilis orbiculata orbiculata</td><td></td><td></td></tr>
+<tr><td>Lampsilis satura</td><td></td><td></td></tr>
+<tr><td>Lampsilis virescens</td><td></td><td></td></tr>
+<tr><td>Plethobasus cicatricosus</td><td></td><td></td></tr>
+<tr><td>Plethobasus cooperianus</td><td></td><td></td></tr>
+<tr><td></td><td>Pleurobema clava</td><td></td></tr>
+<tr><td>Pleurobema plenum</td><td></td><td></td></tr>
+<tr><td>Potamilus capax</td><td></td><td></td></tr>
+<tr><td>Quadrula intermedia</td><td></td><td></td></tr>
+<tr><td>Quadrula sparsa</td><td></td><td></td></tr>
+<tr><td>Toxolasma cylindrella</td><td></td><td></td></tr>
+<tr><td>Unio nickliniana</td><td></td><td></td></tr>
+<tr><td>Unio tampicoensis tecomatensis</td><td></td><td></td></tr>
+<tr><td>Villosa trabalis</td><td></td><td></td></tr>
+<tr><td>VENEROIDA</td><td></td><td></td></tr>
+<tr><td>Tridacnidae</td><td></td><td></td></tr>
+<tr><td></td><td>Tridacnidae spp.</td><td></td></tr>
+<tr><td>Cephalopoda</td><td></td><td></td></tr>
+<tr><td>NAUTILIDA</td><td></td><td></td></tr>
+<tr><td></td><td>Nautilidae spp.</td><td></td></tr>
+<tr><td>Gastropoda</td><td></td><td></td></tr>
+<tr><td>Cepolidae</td><td></td><td></td></tr>
+<tr><td>Polymita spp.</td><td></td><td></td></tr>
+<tr><td>MESOGASTROPODA</td><td></td><td></td></tr>
+<tr><td>Strombidae</td><td></td><td></td></tr>
+<tr><td></td><td>Strombus gigas</td><td></td></tr>
+<tr><td>STYLOMMATOPHORA</td><td></td><td></td></tr>
+<tr><td>Achatinellidae</td><td></td><td></td></tr>
+<tr><td>Achatinella spp.</td><td></td><td></td></tr>
+<tr><td>Camaenidae</td><td></td><td></td></tr>
+<tr><td></td><td>Papustyla pulcherrima</td><td></td></tr>
+<tr><td>Cnidaria</td><td></td><td></td></tr>
+<tr><td>Anthozoa</td><td></td><td></td></tr>
+<tr><td>ANTIPTHARIA</td><td></td><td></td></tr>
+<tr><td></td><td>ANTIPATHARIA spp.</td><td></td></tr>
+<tr><td>GORGONACEAE</td><td></td><td></td></tr>
+<tr><td>Corallidae</td><td></td><td></td></tr>
+<tr><td></td><td></td><td>Corallium japonicum (Cina)</td></tr>
+<tr><td></td><td></td><td>Pleurocorallium elatius (Cina)</td></tr>
+<tr><td></td><td></td><td>Pleurocorallium konjoi (Cina)</td></tr>
+<tr><td></td><td></td><td>Pleurocorallium secundum (Cina)</td></tr>
+<tr><td>HELIOPORACEAE</td><td></td><td></td></tr>
+<tr><td>Helioporidae</td><td></td><td></td></tr>
+<tr><td></td><td>Helioporidae spp.[^t-54]</td><td></td></tr>
+<tr><td>SCLERACTINIA</td><td></td><td></td></tr>
+<tr><td></td><td>SCLERACTINIA spp.[^t-55]</td><td></td></tr>
+<tr><td>STOLONIFERA</td><td></td><td></td></tr>
+<tr><td>Tubiporidae</td><td></td><td></td></tr>
+<tr><td></td><td>Tubiporidae spp.[^t-56]</td><td></td></tr>
+<tr><td>Hydrozoa</td><td></td><td></td></tr>
+<tr><td>MILLEPORINA</td><td></td><td></td></tr>
+<tr><td>Milleporidae</td><td></td><td></td></tr>
+<tr><td></td><td>Milleporidae spp.[^t-57]</td><td></td></tr>
+<tr><td>STYLASTERINA</td><td></td><td></td></tr>
+<tr><td>Stylasteridae</td><td></td><td></td></tr>
+<tr><td></td><td>Stylasteridae spp.[^t-58]</td><td></td></tr>
 </table>
 
-[^t-2]: Nuovo testo giusta la mod. entrata in vigore il 23 feb. 2023 ([RU 2023 181](https://fedlex.data.admin.ch/eli/oc/2023/181)).
+[^t-2]: Nuovo testo giusta la mod. entrata in vigore per la Svizzera dal 1° mag. 2026 ([RU 2026 195](https://fedlex.data.admin.ch/eli/oc/2026/195)).
 [^t-3]: Secondo il codice HS Code 44.09 il legno lavorato viene definito nel modo seguente: legno (incl. liste e tavolette per parquet, non riunite), profilato lungo uno o più bordi, estremità o superfici (con incastri semplici, scanalato, sagomato a forma di battente, con limbelli, smussato, con incastri a V, con modanature, arrotondamenti o simili), anche piallato, levigato o incollato con giunture alle estremità.
 [^t-4]: Gli esemplari della forma domestica, chiamata *Bos frontalis,* non sottostanno alle disposizioni della Conv.
 [^t-5]: Gli esemplari della forma domestica, chiamata *Bos grunniens,* non sottostanno alle disposizioni della Conv.
 [^t-6]: Gli esemplari della forma domestica, chiamata *Bubalus bubalis,* non sottostanno alle disposizioni della Conv.
 [^t-7]: Gli esemplari della forma domestica non sottostanno alle disposizioni della Conv.
 [^t-8]: È stata fissata una quota di esportazione annua pari a zero per gli esemplari prelevati dall’ambiente selvatico a fini prevalentemente commerciali.
-[^t-9]: È stata fissata una quota di esportazione annua pari a zero per gli esemplari prelevati dall’ambiente selvatico a fini prevalentemente commerciali.
-[^t-10]: Al fine esclusivo di permettere il commercio internazionale di fibre di vigogna (*Vicugna vicugna*) e dei prodotti derivati, solo nel caso in cui le fibre provengono dalla tosatura di vigogne vive. La commercializzazione dei prodotti derivati dalle fibre è consentita solo se si osservano le disposizioni elencate di seguito: a) qualunque persona fisica o giuridica che lavora le fibre di vigogna per produrre tessuti o indumenti deve richiedere un’autorizzazione all’autorità pertinente del Paese d’origine [Paese d’origine: uno degli Stati nei quali vive la specie in questione, vale a dire: Argentina, Bolivia, Cile, Ecuador e Peru] per utilizzare la dicitura, il marchio o il logo «VICUÑA [PAESE D’ORIGINE]» adottato dai Paesi d’origine della specie che sono firmatari del «*Convenio para la Conservación y Manejo de la Vicuña*»; b) i tessuti o gli indumenti commercializzati devono essere contrassegnati o identificati osservando le disposizioni in appresso: i) per il commercio internazionale di tessuti prodotti a partire da fibre di lana tosata da vigogne vive, sia che il tessuto venga prodotto all’interno oppure all’esterno dei Paesi nei quali questi animali vivono, devono essere apposti la dicitura, il marchio o il logo affinché il Paese d’origine possa essere identificato. La dicitura, il marchio o il logo «VICUÑA [PAESE D’ORIGINE]» ha il formato riportato di seguito: ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1975/1135_1136_1136/20241016/it/xml/image/footnotes.png) La dicitura, il marchio o il logo devono essere apposti sul retro del tessuto. Inoltre le cimose del tessuto devono portare la dicitura VICUÑA [PAESE D’ORIGINE], ii) per il commercio internazionale di indumenti prodotti a partire da fibre di lana tosata da vigogne vive, sia che l’indumento venga prodotto all’interno oppure all’esterno dei Paesi nei quali vivono questi animali, devono essere apposti la dicitura, il marchio o il logo di cui al paragrafo b), i). Ciascun indumento deve essere fornito di un’etichetta dove compaiono la dicitura, il marchio o il logo di cui al paragrafo b), i). Se gli indumenti sono prodotti al di fuori del Paese d’origine, deve essere indicato anche il nome dello Stato dove sono stati prodotti, in aggiunta alla dicitura, al marchio o al logo di cui al paragrafo b), i); c) per il commercio internazionale di prodotti artigianali fabbricati a partire da fibre tosate da vigogne vive e prodotti all’interno dei Paesi nei quali vivono questi animali devono essere apposti la dicitura, il marchio o il logo «VICUÑA [PAESE D’ORIGINE] – ARTESANÍA» nel formato riportato di seguito: ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1975/1135_1136_1136/20241016/it/xml/image/endnotes.png) d) se per la produzione dei tessuti o degli indumenti vengono utilizzate fibre di lana tosata da vigogne vive provenienti da diversi Paesi d’origine, è necessario utilizzare la dicitura, il marchio o il logo per ciascun Paese d’origine come illustrato ai paragrafi b), i) e ii); e) tutti gli altri esemplari sono considerati come appartenenti alle specie elencate nell’appendice I e il loro commercio è disciplinato in conformità delle relative norme.
-[^t-11]: Escluse le popolazioni di *Pecari tajacu* di Messico e Stati Uniti.
-[^t-12]: Gli esemplari della forma domestica non sottostanno alle disposizioni della Conv.
-[^t-13]: Sono state stabilite le seguenti quote di esportazione annue per gli esemplari vivi e i trofei di caccia: – Botswana 5 – Namibia 150 – Zimbabwe 50 Il commercio di tali esemplari sottostà alle disposizioni dell’art. III della Conv.
-[^t-14]: È stata fissata una quota annua di esportazione pari a zero per esemplari di ossa, pezzi di ossa, prodotti a base di ossa, artigli, scheletri, crani e denti prelevati dall’ambiente selvatico per fini commerciali. Saranno fissate annualmente e comunicate al segretariato CITES le quote annue per il commercio di ossa, pezzi di ossa, prodotti a base di ossa, artigli, scheletri, crani e denti provenienti da imprese di allevamento in cattività del Sudafrica.
-[^t-15]: È stata fissata una quota di esportazione annua pari a zero per gli esemplari di *Tursiops truncatus* del Mar Nero prelevati dall’ambiente selvatico a fini prevalentemente commerciali.
-[^t-16]: È stata fissata una quota di esportazione annua pari a zero. Tutti gli esemplari sono considerati appartenenti all’Allegato I e il loro commercio è regolamentato di conseguenza.
-[^t-17]: Gli esemplari della forma domestica, chiamata *Equus asinus,* non sottostanno alle disposizioni della Conv.
-[^t-18]: Al solo scopo di permettere il commercio internazionale di animali vivi destinati a sistemazioni adeguate e accettabili e di trofei di caccia. Tutti gli altri esemplari sono considerati appartenenti a specie incluse nell’Allegato I e il loro commercio è regolamentato di conseguenza.
-[^t-19]: Riguarda soltanto il commercio internazionale con animali vivi per progetti di conservazione della specie *in situ* e soltanto all’interno dell’areale di distribuzione naturale e storico del *Ceratotherium simum* in Africa.
-[^t-20]: È stata fissata una quota di esportazione annua pari a zero per gli esemplari di *Manis crassicaudata*, *Manis javanica* e *Manis pentadactyla* prelevati dall’ambiente selvatico a fini prevalentemente commerciali.
-[^t-21]: Esclusivamente al fine di permettere il commercio di: a) trofei di caccia, a scopo non commerciale; b) animali vivi destinati a sistemazioni adeguate e accettabili secondo la «Resolution Conf. 11.20» (Rev. CoP17) per Zimbabwe e Botswana, e per progetti di conservazione della specie *in situ* per Namibia e Sudafrica; c) pelli; d) pelami; e) oggetti in pelle a scopo commerciale e non commerciale per Botswana, Namibia e Sudafrica e a scopo non commerciale per lo Zimbabwe; f) «Ekipas» singolarmente contrassegnati e certificati, inseriti in gioielli lavorati, a scopo non commerciale per la Namibia, e oggetti intagliati in avorio, a scopo non commerciale per lo Zimbabwe; g) avorio grezzo registrato (per Botswana, Namibia, Sudafrica e Zimbabwe: parti di zanne e zanne intere) alle seguenti condizioni: i) soltanto le scorte registrate di proprietà del governo (eccetto l’avorio confiscato e quello di origine sconosciuta), ii) soltanto a partner commerciali che, in base alle verifiche del Segretariato e in accordo con il comitato permanente, dispongano di una normativa nazionale e di controlli sul commercio interno tali da garantire che l’avorio importato non sarà riesportato e che saranno osservate le disposizioni della Ris. Conf.10.10 (Rev. CoP 17) in materia di lavorazione e commercio interni, iii) non prima che il Segretariato abbia verificato i Paesi importatori e le scorte registrate di proprietà del governo, iv) avorio grezzo, esportato in base alla vendita limitata di scorte registrate di proprietà del governo, approvata dalla 14<sup>a</sup> Conferenza degli Stati parte, vale a dire 20 000 kg per il Botswana, 10 000 kg per la Namibia e 30 000 kg per il Sudafrica, v) oltre alle quantità stabilite alla 12<sup>a</sup> Conferenza degli Stati parte per Botswana, Namibia, Sudafrica e Zimbabwe, l’avorio di proprietà del governo, registrato entro il 31 gen. 2007 e controllato dal Segretariato, può essere commercializzato e spedito insieme all’avorio di cui alla lettera g) iv), in una sola volta per destinazione, sotto la stretta supervisione del Segretariato, vi) i proventi del commercio sono destinati esclusivamente alla salvaguardia degli elefanti e a programmi di sviluppo della popolazione in zone adiacenti all’areale degli elefanti, vii) le quantità supplementari di cui alla lettera g v. possono essere commercializzate soltanto dopo che il Comitato permanente ha appurato che le suddette condizioni sono soddisfatte; e h) dopo la 14*a* Conferenza degli Stati parte non sarà presentata alcuna ulteriore proposta di commercio autorizzato di avorio proveniente da popolazioni dell’All. II prima di nove anni dalla data della vendita unica di cui alle lettere g) i), g) ii), g) iii), g) vi) e g) vii). Inoltre, tali ulteriori proposte saranno trattate in conformità alle decisioni 14.77 e 14.88. Su proposta del Segretariato, il Comitato permanente può decidere di far cessare parzialmente o interamente il commercio qualora i Paesi importatori o esportatori non rispettassero le disposizioni pertinenti o qualora il commercio avesse effetti pregiudizievoli per le popolazioni di elefanti. Tutti gli altri esemplari sono considerati appartenenti a specie incluse nell’All. I e il loro commercio è regolamentato di conseguenza.
-[^t-22]: Gli esemplari delle forme domestiche non sottostanno alle disposizioni della Conv.
-[^t-23]: Entrata in vigore posticipata di 12 mesi, ovvero al 26 nov. 2023.
-[^t-24]: Resta in vigore fino al 25 nov. 2023.
+[^t-9]: È stata fissata una quota di esportazione annua pari a zero per gli esemplari prelevati dall’ambiente selvatico a fini prevalentemente commerciali, ad eccezione degli esemplari provenienti dalla popolazione *Saiga tatarica* del Kazakistan alle seguenti condizioni: a) commercio esclusivamente di corna intere di proprietà del governo, originarie del Kazakistan, immagazzinate e contrassegnate in conformità con i requisiti di marcatura e tracciabilità stabiliti dal Kazakistan; b) previa verifica da parte del Segretariato e del Kazakistan, in consultazione con il Comitato permanente attraverso il suo presidente, che in Kazakistan e nei Paesi partner commerciali siano già in atto meccanismi di controllo e sistemi di tracciabilità sufficienti; c) il Kazakistan supervisiona la prima spedizione a ciascun nuovo partner commerciale per garantire che i sistemi di marcatura e tracciabilità siano in atto e funzionino adeguatamente; e d) limitato a un quantitativo totale di 30 tonnellate fino alla CoP21, da riesaminare al fine di determinare un potenziale di ulteriore commercio sulla base di una proposta rivista. Su proposta del Segretariato, il Comitato permanente può decidere di sospendere parzialmente o completamente tale commercio in caso di inadempienza da parte dei Paesi esportatori o importatori, o nel caso di comprovati effetti negativi del commercio sulla popolazione di saiga.
+[^t-10]: Escluse le popolazioni di *Pecari tajacu* di Messico e Stati Uniti.
+[^t-11]: Gli esemplari della forma domestica non sottostanno alle disposizioni della Conv.
+[^t-12]: Sono state stabilite le seguenti quote di esportazione annue per gli esemplari vivi e i trofei di caccia: – Botswana 5 – Namibia 150 – Zimbabwe 50 Il commercio di tali esemplari sottostà alle disposizioni dell’art. III della Conv.
+[^t-13]: È stata fissata una quota annua di esportazione pari a zero per esemplari di ossa, pezzi di ossa, prodotti a base di ossa, artigli, scheletri, crani e denti prelevati dall’ambiente selvatico per fini commerciali. Saranno fissate annualmente e comunicate al segretariato CITES le quote annue per il commercio di ossa, pezzi di ossa, prodotti a base di ossa, artigli, scheletri, crani e denti provenienti da imprese di allevamento in cattività del Sudafrica.
+[^t-14]: È stata fissata una quota di esportazione annua pari a zero per gli esemplari di *Tursiops truncatus* del Mar Nero prelevati dall’ambiente selvatico a fini prevalentemente commerciali.
+[^t-15]: È stata fissata una quota di esportazione annua pari a zero. Tutti gli esemplari sono considerati appartenenti all’Allegato I e il loro commercio è regolamentato di conseguenza.
+[^t-16]: Gli esemplari della forma domestica, chiamata *Equus asinus,* non sottostanno alle disposizioni della Conv.
+[^t-17]: Al solo scopo di permettere il commercio internazionale di animali vivi destinati a sistemazioni adeguate e accettabili e di trofei di caccia. Tutti gli altri esemplari sono considerati appartenenti a specie incluse nell’Allegato I e il loro commercio è regolamentato di conseguenza.
+[^t-18]: Riguarda soltanto il commercio internazionale con animali vivi per progetti di conservazione della specie *in situ* e soltanto all’interno dell’areale di distribuzione naturale e storico del *Ceratotherium simum* in Africa.
+[^t-19]: È stata fissata una quota di esportazione annua pari a zero per gli esemplari di *Manis crassicaudata*, *Manis javanica* e *Manis pentadactyla* prelevati dall’ambiente selvatico a fini prevalentemente commerciali.
+[^t-20]: A10 Esclusivamente al fine di permettere: a) le transazioni non commerciali di trofei di caccia; b) il commercio di animali vivi destinati a sistemazioni adeguate e accettabili; c) il commercio di pelli; d) il commercio di pelami; e) il commercio di oggetti in pelle; f) per la Namibia, le transazioni non commerciali di «Ekipas» singolarmente contrassegnati e certificati, inseriti in gioielli lavorati, , e per lo Zimbabwe le transazioni non commerciali di oggetti intagliati in avorio; g) Il Comitato permanente può decidere di sospendere parzialmente o completamente tali transazioni o tale commercio in caso di inadempienza da parte dei Paesi esportatori o importatori, oppure qualora sia dimostrato che tali transazioni o tale commercio ha effetti negativi su altre popolazioni di elefanti. Tutti gli altri esemplari sono considerati esemplari di specie incluse nell’All. I e il loro commercio è regolamentato di conseguenza.
+[^t-21]: Gli esemplari delle forme domestiche non sottostanno alle disposizioni della Conv.
+[^t-22]: È stata fissata una quota di esportazione annua pari a zero per gli esemplari prelevati dall’ambiente selvatico a fini prevalentemente commerciali.
+[^t-23]: È stata fissata una quota pari a zero per la popolazione dell’Ecuador nell’Allegato II, fino all’approvazione di una quota annua da parte del Segretariato e dell’IUCN/SSC Crocodile Specialist Group.
+[^t-24]: È stata fissata una quota di esportazione annua pari a zero per gli esemplari prelevati dall’ambiente selvatico a fini prevalentemente commerciali.
 [^t-25]: È stata fissata una quota di esportazione annua pari a zero per gli esemplari prelevati dall’ambiente selvatico a fini commerciali.
-[^t-26]: È stata fissata una quota pari a zero per la popolazione dell’Ecuador nell’Allegato II, fino all’approvazione di una quota annua da parte del Segretariato e dell’IUCN/SSC Crocodile Specialist Group.
+[^t-26]: È stata fissata una quota di esportazione annua pari a zero per gli esemplari prelevati dall’ambiente selvatico a fini prevalentemente commerciali.
 [^t-27]: È stata fissata una quota di esportazione annua pari a zero per gli esemplari prelevati dall’ambiente selvatico a fini prevalentemente commerciali.
-[^t-28]: È stata fissata una quota di esportazione annua pari a zero per gli esemplari prelevati dall’ambiente selvatico a fini commerciali.
-[^t-29]: È stata fissata una quota di esportazione annua pari a zero per gli esemplari prelevati dall’ambiente selvatico a fini prevalentemente commerciali.
-[^t-30]: È stata fissata una quota di esportazione annua pari a zero per gli esemplari prelevati dall’ambiente selvatico a fini prevalentemente commerciali.
+[^t-28]: È stata fissata una quota di esportazione annua pari a zero per gli esemplari prelevati dall’ambiente selvatico a fini prevalentemente commerciali.
+[^t-29]: È stata fissata una quota pari a zero per gli esemplari selvatici di *Abronia aurita, A. gaiophantasma, A. montecristoi, A. salvadorensis* e *A. vasconcelosii*.
+[^t-30]: È stata fissata una quota di esportazione annua pari a zero per gli esemplari prelevati dall’ambiente selvatico a fini commerciali.
 [^t-31]: È stata fissata una quota di esportazione annua pari a zero per gli esemplari prelevati dall’ambiente selvatico a fini prevalentemente commerciali.
-[^t-32]: È stata fissata una quota pari a zero per gli esemplari selvatici di *Abronia aurita, A. gaiophantasma, A. montecristoi, A. salvadorensis* e *A. vasconcelosii*.
-[^t-33]: Escluse le parti e i derivati, diversi dalle uova
-[^t-34]: Escluse le parti e i derivati, diversi dalle uova
-[^t-35]: Escluse le parti e i derivati, diversi dalle uova
-[^t-36]: Escluse le parti e i derivati, diversi dalle uova
-[^t-37]: Escluse le parti e i derivati, diversi dalle uova
-[^t-38]: Escluse le parti e i derivati, diversi dalle uova
-[^t-39]: È stata fissata una quota di esportazione annua pari a zero per gli esemplari prelevati dall’ambiente selvatico a fini commerciali.
-[^t-40]: È stata fissata una quota di esportazione annua pari a zero per gli esemplari prelevati dall’ambiente selvatico a fini prevalentemente commerciali.
-[^t-41]: È stata fissata una quota di esportazione annua pari a zero per gli esemplari prelevati dall’ambiente selvatico a fini prevalentemente commerciali.
-[^t-42]: È stata fissata una quota di esportazione annua pari a zero per gli esemplari prelevati dall’ambiente selvatico a fini prevalentemente commerciali.
-[^t-43]: È stata fissata una quota di esportazione annua pari a zero *per Cuora aurocapitata, C. flavomarginata, C. mccordi, C. mouhotii, C. pani,* *C. trifasciata, C. yunnanensis* e *C. zhoui* per gli esemplari prelevati dall’ambiente selvatici a fini prevalentemente commerciali.
-[^t-44]: È stata fissata una quota di esportazione annua pari a zero per gli esemplari prelevati dall’ambiente selvatico a fini prevalentemente commerciali.
-[^t-45]: È stata fissata una quota di esportazione annua pari a zero per gli esemplari prelevati dall’ambiente selvatico a fini prevalentemente commerciali.
-[^t-46]: È stata fissata una quota di esportazione annua pari a zero per gli esemplari prelevati dall’ambiente selvatico a fini prevalentemente commerciali.
-[^t-47]: È stata fissata una quota di esportazione annua pari a zero per gli esemplari di *Geochelone sulcata* prelevati dall’ambiente selvatico a fini prevalentemente commerciali.
-[^t-48]: È stata fissata una quota di esportazione pari a zero per gli esemplari di *Agalychnis lemur* prelevati dall’ambiente selvatico a fini commerciali.
-[^t-49]: Escluse le parti e i derivati, diversi dalle uova
+[^t-32]: È stata fissata una quota di esportazione annua pari a zero per gli esemplari prelevati dall’ambiente selvatico a fini prevalentemente commerciali.
+[^t-33]: È stata fissata una quota di esportazione annua pari a zero per gli esemplari prelevati dall’ambiente selvatico a fini prevalentemente commerciali.
+[^t-34]: È stata fissata una quota di esportazione annua pari a zero *per Cuora aurocapitata, C. flavomarginata, C. mccordi, C. mouhotii, C. pani, C. trifa**sciata, C. yunnanensis* e *C. zhoui* per gli esemplari prelevati dall’ambiente selvatici a fini prevalentemente commerciali.
+[^t-35]: È stata fissata una quota di esportazione annua pari a zero per gli esemplari prelevati dall’ambiente selvatico a fini prevalentemente commerciali.
+[^t-36]: È stata fissata una quota di esportazione annua pari a zero per gli esemplari prelevati dall’ambiente selvatico a fini prevalentemente commerciali.
+[^t-37]: È stata fissata una quota di esportazione annua pari a zero per gli esemplari prelevati dall’ambiente selvatico a fini prevalentemente commerciali.
+[^t-38]: È stata fissata una quota di esportazione annua pari a zero per gli esemplari di *Geochelone sulcata* prelevati dall’ambiente selvatico a fini prevalentemente commerciali.
+[^t-39]: È stata fissata una quota di esportazione pari a zero per gli esemplari di *Agalychnis lemur* prelevati dall’ambiente selvatico a fini commerciali.
+[^t-40]: Entrata in vigore posticipata di 18 mesi, ovvero al 5 giugno 2027.
+[^t-41]: Entrata in vigore posticipata di 18 mesi, ovvero al 5 giugno 2027.
+[^t-42]: Entrata in vigore posticipata di 18 mesi, ovvero al 5 giugno 2027.
+[^t-43]: Entrata in vigore posticipata di 18 mesi, ovvero al 5 giugno 2027.
+[^t-44]: È stata fissata una quota di esportazione annua pari a zero per gli esemplari prelevati dall’ambiente selvatico a fini commerciali.
+[^t-45]: Entrata in vigore posticipata di 18 mesi, ovvero al 5 giugno 2027.
+[^t-46]: Entrata in vigore posticipata di 18 mesi, ovvero al 5 giugno 2027.
+[^t-47]: Entrata in vigore posticipata di 18 mesi, ovvero al 5 giugno 2027.
+[^t-48]: È stata fissata una quota di esportazione annua pari a zero per gli esemplari prelevati dall’ambiente selvatico a fini commerciali.
+[^t-49]: Entra in vigore posticipata di 18 mesi, ovvero al 5 giugno 2027.
 [^t-50]: È stata fissata una quota di esportazione annua pari a zero per gli esemplari prelevati dall’ambiente selvatico a fini commerciali.
-[^t-51]: Entrata in vigore posticipata di 12 mesi, ovvero al 26 nov. 2023.
-[^t-52]: Resta in vigore fino al 25 nov. 2023.
-[^t-53]: Resta in vigore fino al 25 nov. 2023.
-[^t-54]: È stata fissata una quota di esportazione annua pari a zero per gli esemplari prelevati dall’ambiente selvatico a fini commerciali.
-[^t-55]: Entrata in vigore posticipata di 18 mesi, ovvero al 26 mag. 2024.
-[^t-56]: Comprende solo la specie *Heliopora coerulea*. I coralli fossili non sottostanno alle disposizioni della Conv.
+[^t-51]: Entrata in vigore posticipata di 18 mesi, ovvero al 5 giugno 2027.
+[^t-52]: È stata fissata una quota di esportazione annua pari a zero per gli esemplari prelevati dall’ambiente selvatico a fini commerciali.
+[^t-53]: Entrata in vigore posticipata di 18 mesi, ovvero al 5 giugno 2027.
+[^t-54]: Comprende solo la specie *Heliopora coerulea*. I coralli fossili non sottostanno alle disposizioni della Conv.
+[^t-55]: I coralli fossili non sottostanno alle disposizioni della Conv.
+[^t-56]: I coralli fossili non sottostanno alle disposizioni della Conv.
 [^t-57]: I coralli fossili non sottostanno alle disposizioni della Conv.
 [^t-58]: I coralli fossili non sottostanno alle disposizioni della Conv.
-[^t-59]: I coralli fossili non sottostanno alle disposizioni della Conv.
-[^t-60]: I coralli fossili non sottostanno alle disposizioni della Conv.
-[^t-61]: Entrata in vigore posticipata di 24 mesi, ovvero al 26 nov. 2024.
-[^t-62]: Entrata in vigore posticipata di 24 mesi, ovvero al 26 nov. 2024.
-[^t-63]: Entrata in vigore posticipata di 24 mesi, ovvero al 26 nov. 2024.
-[^t-64]: Gli esemplari dei seguenti ibridi e/o cultivar, riprodotti artificialmente, non sottostanno alle disposizioni della Conv.: – Hatiora x graeseri *–* *Schlumbergera* x *buckleyi* *–* *Schlumbergera russelliana* x *Schlumbergera truncata* *–* *Schlumbergera orssichiana* x *Schlumbergera truncata* *–* *Schlumbergera opuntioides* x *Schlumbergera truncata* *–* *Schlumbergera truncata* (cultivar) *–* Cactaceae spp. varietà senza clorofilla, innestate sui seguenti portainnesti: *Harrisia* «Jusbertii», *Hylocerus trigonus* oppure *Hylocerus undatus* *–* *Opuntia microdasys* (cultivar)
-[^t-65]: Gli esemplari dei seguenti ibridi, cultivar e varietà, riprodotti artificialmente, non sottostanno alle disposizioni della Conv.: – cultivar di *Euphorbia trigona*; – forme crestate (pettinate) e varietà cromatiche di *Euphorbia lactea*, innestate su portainnesti di *E. neriifolia* riprodotti artificialmente; – cultivar di Euphorbia «Milii» (compresa *E. x lomi* = *E. milii* x *E. lophogona*), trasportate in lotti di almeno 100 esemplari e univocamente riconoscibili come esemplari riprodotti artificialmente.
-[^t-66]: Resta in vigore fino al 25 nov. 2024.
-[^t-67]: Entrata in vigore posticipata di 24 mesi, ovvero al 26 nov. 2024.
-[^t-68]: Gli ibridi di *Cymbidium*, *Dendrobium*, *Phalaenopsis* e *Vanda*, riprodotti artificialmente, non sottostanno alle disposizioni della Conv. e se sono soddisfatte le condizioni a) e b): a) si può facilmente riconoscere che gli esemplari sono stati riprodotti artificialmente e non vi è alcun segno di origine selvatica (es. danni di natura meccanica, forte disidratazione derivante da raccolta, crescita irregolare, dimensione e forma eterogenee rispetto al grado tassonomico di un lotto, alghe o altri epifilli aderenti alle foglie, o lesioni causate da insetti o altri organismi); e b) i) se il trasporto è effettuato quando gli esemplari non hanno ancora raggiunto la fioritura, la spedizione deve consistere di almeno 20 esemplari per ibrido, imballati in singoli contenitori (es. cartoni, scatole, casse o scaffali di container CC); le piante in ogni contenitore devono presentare un elevato grado di uniformità ed essere in buono stato; la spedizione deve essere accompagnata da documenti (es. fattura) in cui sia chiaramente riportato il numero di piante di ciascun ibrido, o ii) se gli esemplari sono trasportati in fase di fioritura, vale a dire con almeno un fiore sbocciato per esemplare, non è prevista una quantità minima per ibrido, ma gli esemplari devono essere pronti per la vendita al dettaglio, cioè provvisti per esempio di un’etichetta o contenuti in imballaggi su cui venga riportato il nome dell’ibrido e il Paese in cui è avvenuta la fase finale della lavorazione. Questi dati devono essere ben visibili, per poter essere facilmente controllati. Le piante che non rispondono chiaramente a tali requisiti devono essere accompagnate da documenti CITES validi.
-[^t-69]: Le colture di piantine o di tessuti *in vitro*, trasportate in contenitori sterili, non sottostanno alle disposizioni della Conv. soltanto se gli esemplari corrispondono alla definizione di «riprodotto artificialmente» concordata dalla Conferenza degli Stati contraenti.
-[^t-70]: Le colture di piantine o di tessuti *in vitro*, trasportate in contenitori sterili, non sottostanno alle disposizioni della Conv. soltanto se gli esemplari corrispondono alla definizione di «riprodotto artificialmente» concordata dalla Conferenza degli Stati contraenti.
-[^t-71]: Le colture di piantine o di tessuti *in vitro*, trasportate in contenitori sterili, non sottostanno alle disposizioni della Conv. soltanto se gli esemplari corrispondono alla definizione di «riprodotto artificialmente» concordata dalla Conferenza degli Stati contraenti.
-[^t-72]: Le colture di piantine o di tessuti *in vitro*, trasportate in contenitori sterili, non sottostanno alle disposizioni della Conv. soltanto se gli esemplari corrispondono alla definizione di «riprodotto artificialmente» concordata dalla Conferenza degli Stati contraenti.
-[^t-73]: Le colture di piantine o di tessuti *in vitro*, trasportate in contenitori sterili, non sottostanno alle disposizioni della Conv. soltanto se gli esemplari corrispondono alla definizione di «riprodotto artificialmente» concordata dalla Conferenza degli Stati contraenti.
-[^t-74]: Le colture di piantine o di tessuti *in vitro*, trasportate in contenitori sterili, non sottostanno alle disposizioni della Conv. soltanto se gli esemplari corrispondono alla definizione di «riprodotto artificialmente» concordata dalla Conferenza degli Stati contraenti.
-[^t-75]: Le colture di piantine o di tessuti *in vitro*, trasportate in contenitori sterili, non sottostanno alle disposizioni della Conv. soltanto se gli esemplari corrispondono alla definizione di «riprodotto artificialmente» concordata dalla Conferenza degli Stati contraenti.
-[^t-76]: Le colture di piantine o di tessuti *in vitro*, trasportate in contenitori sterili, non sottostanno alle disposizioni della Conv. soltanto se gli esemplari corrispondono alla definizione di «riprodotto artificialmente» concordata dalla Conferenza degli Stati contraenti.
-[^t-77]: Le colture di piantine o di tessuti *in vitro*, trasportate in contenitori sterili, non sottostanno alle disposizioni della Conv. soltanto se gli esemplari corrispondono alla definizione di «riprodotto artificialmente» concordata dalla Conferenza degli Stati contraenti.
-[^t-78]: Gli esemplari riprodotti artificialmente di cultivar di *Cyclamen persicum* non sottostanno alle disposizioni della Conv. Tuttavia, tale deroga non riguarda gli esemplari trasportati come tuberi dormienti.
-[^t-79]: Gli esemplari vivi di ibridi riprodotti artificialmente (es. *Taxus x media*) e i cultivar in vaso o in altri piccoli contenitori non sottostanno alle disposizioni della Conv. se la spedizione è accompagnata da un’etichetta o da un documento che indichi il nome degli ibridi o dei cultivar e che rechi la dicitura «riprodotto artificialmente».
 
-Allegato IV
+Allegato IV[^t-59]
 
 ## Convenzione sul commercio internazionale delle specie di fauna e di flora selvatiche minacciate di estinzione
+
+[^t-59]: Nuovo testo giusta la mod. entrata in vigore per la Svizzera dal 1° mag. 2026 ([RU 2026 195](https://fedlex.data.admin.ch/eli/oc/2026/195)).
 
 <table>
 <tr><td></td><td></td><td>Permesso d’esportazione n°:…………………</td></tr>
@@ -2545,9 +2259,7 @@ che dichiara di conoscere i disposti della Convenzione, per l’esportazione di:
 (esemplare(i), o parte(i) o prodotti(i) di esemplare(i)\*
 
 <table>
-<tr><td>di una specie iscritta nello</td><td>Allegato I:\*\*</td></tr>
-<tr><td></td><td>Allegato II:\*\*</td></tr>
-<tr><td></td><td>Allegato III della Convenzione come precisato qui sotto:\*\*</td></tr>
+<tr><td>di una specie iscritta nello</td><td>Allegato I:\*\* Allegato II:\*\* Allegato III della Convenzione come precisato qui sotto:\*\*</td></tr>
 </table>
 
 (allevato in cattività o coltivato in: ……………………………………………………………….)\*\*
@@ -2572,35 +2284,35 @@ Questo(i) esemplare(i) è (sono) spedito(i) a: ……………………………
 <tr><td></td><td></td><td>(bollo e firma dell’organo di gestione che rilascia il permesso)</td></tr>
 </table>
 
-\* Indicare il tipo di prodotto.
-
-\*\* Cancellare quanto non fa al caso.
+<table>
+<tr><td>\* Indicare il tipo di prodotto. \*\* Cancellare quanto non fa al caso.</td></tr>
+</table>
 
 Descrizione(i) dell’(degli) esemplare(i) o parte(i) o prodotto(i) dell’(degli) esemplare(i), incluso ogni marchio apposto:
 
 Esemplari vivi
 
 <table>
-<tr><td>Specie</td><td>Numero</td><td>Sesso</td><td>Dimensioni</td><td>Marchio</td></tr>
+<tr><th>Specie</th><th>Numero</th><th>Sesso</th><th>Dimensioni</th><th>Marchio</th></tr>
 <tr><td>(nome scientifico e volgare)</td><td></td><td></td><td>(o volume)</td><td>(se del caso)</td></tr>
 </table>
 
 Parti o prodotti
 
 <table>
-<tr><td>Specie</td><td>Numero</td><td>Tipo di merce</td><td>Marchio</td></tr>
+<tr><th>Specie</th><th>Numero</th><th>Tipo di merce</th><th>Marchio</th></tr>
 <tr><td>(nome scientifico e volgare)</td><td></td><td></td><td>(se del caso)</td></tr>
 </table>
 
 Timbri dell’autorità d’ispezione:
 
 <table>
-<tr><td>a) all’esportazione</td><td>b) all’importazione\*</td></tr>
+<tr><td>a) all’esportazione</td><td>b) all’importazione[^annexIV-lvlu1-1]</td></tr>
 </table>
 
-\* Questo timbro rende inutilizzabili, per ogni ulteriore scopo commerciale, il presente permesso, che va consegnato all’organo di gestione.
+[^annexIV-lvlu1-1]: Questo timbro rende inutilizzabili, per ogni ulteriore scopo commerciale, il presente permesso, che va consegnato all’organo di gestione.
 
-Campo d’applicazione della Convenzione 16 ottobre 2024[^t-80]
+Campo d’applicazione della Convenzione 16 ottobre 2024[^t-60]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A) Dichiarazione di successione (S)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -2812,9 +2524,9 @@ Campo d’applicazione della Convenzione 16 ottobre 2024[^t-80]
 <tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e le dichiarazioni non sono pubblicate nella RU, eccetto quelle della Svizzera. Il testo, in francese e inglese, può essere consultato sul sito Internet della CITES: www.cites.org/ oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna. <sup>a</sup> Dal 31 ott. 1976 al 30 giu. 1997, la Conv. era applicabile a Hong Kong in base a una dichiarazione d’estensione territoriale del Regno Unito. Dal 1° lug. 1997, Hong Kong è diventata una Regione amministrativa speciale (RAS) della Repubblica Popolare Cinese. In virtù della dichiarazione cinese del 9 giu. 1997, la Conv. è applicabile anche alla RAS Hong Kong dal 1° lug. 1997. <sup>b</sup> Dal 22 apr. 1987 al 19 dic. 1999, la Conv. era applicabile a Macao in base a una dichiarazione d’estensione territoriale del Portogallo. Dal 20 dic. 1999, Macao è diventata una Regione amministrativa speciale (RAS) della Repubblica Popolare Cinese. In virtù della dichiarazione cinese del 22 nov. 1999, la Conv. è applicabile anche alla RAS Macao dal 20 dic. 1999. <sup>c</sup> La Conv. non si applica a Tokelau.</td></tr>
 </table>
 
-[^t-80]: [RU 1975 1136](https://fedlex.data.admin.ch/eli/oc/1975/1135_1136_1136); [1976 1416](https://fedlex.data.admin.ch/eli/oc/1976/1416_1416_1416); [1977 933](https://fedlex.data.admin.ch/eli/oc/1977/933_933_933); [1978 1412](https://fedlex.data.admin.ch/eli/oc/1978/1412_1412_1412); [1979 1188](https://fedlex.data.admin.ch/eli/oc/1979/1188_1188_1188); [1981 947](https://fedlex.data.admin.ch/eli/oc/1981/947_947_947), [1295](https://fedlex.data.admin.ch/eli/oc/1981/1295_1295_1295); [1982 27](https://fedlex.data.admin.ch/eli/oc/1982/27_27_27), [1313](https://fedlex.data.admin.ch/eli/oc/1982/1313_1313_1313); [1983 144](https://fedlex.data.admin.ch/eli/oc/1983/144_144_144), [1094](https://fedlex.data.admin.ch/eli/oc/1983/1094_1094_1094); [1984 362](https://fedlex.data.admin.ch/eli/oc/1984/362_362_362); [1985 174](https://fedlex.data.admin.ch/eli/oc/1985/174_174_174), [1383](https://fedlex.data.admin.ch/eli/oc/1985/1383_1383_1383); [1986 515](https://fedlex.data.admin.ch/eli/oc/1986/515_515_515), [1827](https://fedlex.data.admin.ch/eli/oc/1986/1827_1827_1827); [1987 319](https://fedlex.data.admin.ch/eli/oc/1987/319_319_319), [1102](https://fedlex.data.admin.ch/eli/oc/1987/1102_1102_1102), [1504](https://fedlex.data.admin.ch/eli/oc/1987/1504_1504_1504); [1988 1061](https://fedlex.data.admin.ch/eli/oc/1988/1061_1061_1061); [1989 1107](https://fedlex.data.admin.ch/eli/oc/1989/1107_1107_1107); [1990 395](https://fedlex.data.admin.ch/eli/oc/1990/395_395_395), [1370](https://fedlex.data.admin.ch/eli/oc/1990/1370_1370_1370); [1991 818](https://fedlex.data.admin.ch/eli/oc/1991/818_818_818), [2095](https://fedlex.data.admin.ch/eli/oc/1991/2095_2095_2095); [1992 2127](https://fedlex.data.admin.ch/eli/oc/1992/2127_2127_2127); [1993 1277](https://fedlex.data.admin.ch/eli/oc/1993/1277_1277_1277); [1995 3560](https://fedlex.data.admin.ch/eli/oc/1995/3560_3560_3560); [2004 3715](https://fedlex.data.admin.ch/eli/oc/2004/519); [2005 2617](https://fedlex.data.admin.ch/eli/oc/2005/453); [2006 5455](https://fedlex.data.admin.ch/eli/oc/2006/825); [2009 2655](https://fedlex.data.admin.ch/eli/oc/2009/360); [2013 1487](https://fedlex.data.admin.ch/eli/oc/2013/349); [2014 2481](https://fedlex.data.admin.ch/eli/oc/2014/439); [2017 2897](https://fedlex.data.admin.ch/eli/oc/2017/301); [2024 576](https://fedlex.data.admin.ch/eli/oc/2024/576). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty).
+[^t-60]: [RU 1975 1136](https://fedlex.data.admin.ch/eli/oc/1975/1135_1136_1136); [1976 1416](https://fedlex.data.admin.ch/eli/oc/1976/1416_1416_1416); [1977 933](https://fedlex.data.admin.ch/eli/oc/1977/933_933_933); [1978 1412](https://fedlex.data.admin.ch/eli/oc/1978/1412_1412_1412); [1979 1188](https://fedlex.data.admin.ch/eli/oc/1979/1188_1188_1188); [1981 947](https://fedlex.data.admin.ch/eli/oc/1981/947_947_947), [1295](https://fedlex.data.admin.ch/eli/oc/1981/1295_1295_1295); [1982 27](https://fedlex.data.admin.ch/eli/oc/1982/27_27_27), [1313](https://fedlex.data.admin.ch/eli/oc/1982/1313_1313_1313); [1983 144](https://fedlex.data.admin.ch/eli/oc/1983/144_144_144), [1094](https://fedlex.data.admin.ch/eli/oc/1983/1094_1094_1094); [1984 362](https://fedlex.data.admin.ch/eli/oc/1984/362_362_362); [1985 174](https://fedlex.data.admin.ch/eli/oc/1985/174_174_174), [1383](https://fedlex.data.admin.ch/eli/oc/1985/1383_1383_1383); [1986 515](https://fedlex.data.admin.ch/eli/oc/1986/515_515_515), [1827](https://fedlex.data.admin.ch/eli/oc/1986/1827_1827_1827); [1987 319](https://fedlex.data.admin.ch/eli/oc/1987/319_319_319), [1102](https://fedlex.data.admin.ch/eli/oc/1987/1102_1102_1102), [1504](https://fedlex.data.admin.ch/eli/oc/1987/1504_1504_1504); [1988 1061](https://fedlex.data.admin.ch/eli/oc/1988/1061_1061_1061); [1989 1107](https://fedlex.data.admin.ch/eli/oc/1989/1107_1107_1107); [1990 395](https://fedlex.data.admin.ch/eli/oc/1990/395_395_395), [1370](https://fedlex.data.admin.ch/eli/oc/1990/1370_1370_1370); [1991 818](https://fedlex.data.admin.ch/eli/oc/1991/818_818_818), [2095](https://fedlex.data.admin.ch/eli/oc/1991/2095_2095_2095); [1992 2127](https://fedlex.data.admin.ch/eli/oc/1992/2127_2127_2127); [1993 1277](https://fedlex.data.admin.ch/eli/oc/1993/1277_1277_1277); [1995 3560](https://fedlex.data.admin.ch/eli/oc/1995/3560_3560_3560); [2004 3715](https://fedlex.data.admin.ch/eli/oc/2004/519); [2005 2617](https://fedlex.data.admin.ch/eli/oc/2005/453); [2006 5455](https://fedlex.data.admin.ch/eli/oc/2006/825); [2009 2655](https://fedlex.data.admin.ch/eli/oc/2009/360); [2013 1487](https://fedlex.data.admin.ch/eli/oc/2013/349); [2014 2481](https://fedlex.data.admin.ch/eli/oc/2014/439); [2017 2897](https://fedlex.data.admin.ch/eli/oc/2017/301); [2024 576](https://fedlex.data.admin.ch/eli/oc/2024/576). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty).
 
-Campo d’applicazione dell’emendamento dell’articolo XI numero 3 lettera a il 24 aprile 2017[^t-81]
+Campo d’applicazione dell’emendamento dell’articolo XI numero 3 lettera a il 24 aprile 2017[^t-61]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -2987,9 +2699,9 @@ Campo d’applicazione dell’emendamento dell’articolo XI numero 3 lettera a 
 <tr><td>Zimbabwe</td><td>14 luglio</td><td>1981</td><td>13 aprile</td><td>1987</td></tr>
 </table>
 
-[^t-81]: [RU 1989 312](https://fedlex.data.admin.ch/eli/oc/1989/312_312_312); [1990 1373](https://fedlex.data.admin.ch/eli/oc/1990/1373_1373_1373); [1991 2095](https://fedlex.data.admin.ch/eli/oc/1991/2095_2095_2095); [1993 1277](https://fedlex.data.admin.ch/eli/oc/1993/1277_1277_1277); [2004 3715](https://fedlex.data.admin.ch/eli/oc/2004/519); [2005 2617](https://fedlex.data.admin.ch/eli/oc/2005/453); [2009 2655](https://fedlex.data.admin.ch/eli/oc/2009/360); [2017 2897](https://fedlex.data.admin.ch/eli/oc/2017/301). Una versione aggiornata del campo di applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty)
+[^t-61]: [RU 1989 312](https://fedlex.data.admin.ch/eli/oc/1989/312_312_312); [1990 1373](https://fedlex.data.admin.ch/eli/oc/1990/1373_1373_1373); [1991 2095](https://fedlex.data.admin.ch/eli/oc/1991/2095_2095_2095); [1993 1277](https://fedlex.data.admin.ch/eli/oc/1993/1277_1277_1277); [2004 3715](https://fedlex.data.admin.ch/eli/oc/2004/519); [2005 2617](https://fedlex.data.admin.ch/eli/oc/2005/453); [2009 2655](https://fedlex.data.admin.ch/eli/oc/2009/360); [2017 2897](https://fedlex.data.admin.ch/eli/oc/2017/301). Una versione aggiornata del campo di applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty)
 
-Campo d’applicazione dell’emendamento dell’articolo XXI il 24 aprile 2017[^t-82]
+Campo d’applicazione dell’emendamento dell’articolo XXI il 24 aprile 2017[^t-62]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -3116,4 +2828,4 @@ Campo d’applicazione dell’emendamento dell’articolo XXI il 24 aprile 2017[
 <tr><td>Zimbabwe</td><td>8 febbraio</td><td>1988</td><td>29 novembre</td><td>2013</td></tr>
 </table>
 
-[^t-82]: [RU 2013 4103](https://fedlex.data.admin.ch/eli/oc/2013/754); [2017 2897](https://fedlex.data.admin.ch/eli/oc/2017/301)Una versione aggiornata del campo di applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](http://www.fedlex.admin.ch/it/treaty)
+[^t-62]: [RU 2013 4103](https://fedlex.data.admin.ch/eli/oc/2013/754); [2017 2897](https://fedlex.data.admin.ch/eli/oc/2017/301)Una versione aggiornata del campo di applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](http://www.fedlex.admin.ch/it/treaty)

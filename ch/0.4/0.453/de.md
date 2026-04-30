@@ -3,11 +3,11 @@ sr: "0.453"
 title: Übereinkommen vom 3. März 1973 über den internationalen Handel mit gefährdeten Arten frei lebender Tiere und Pflanzen (mit Anhängen I-IV)
 eli: "https://fedlex.data.admin.ch/eli/cc/1975/1135_1136_1136"
 language: de
-version: 2024-10-16
+version: 2026-05-01
 adopted: 1973-03-03
 in_force: 1975-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1975/1135_1136_1136/20241016/de/xml/fedlex-data-admin-ch-eli-cc-1975-1135_1136_1136-20241016-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1975/1135_1136_1136/20241016/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1975/1135_1136_1136/20260501/de/xml/fedlex-data-admin-ch-eli-cc-1975-1135_1136_1136-20260501-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1975/1135_1136_1136/20260501/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -20,7 +20,7 @@ AS **1975** 1135; BBl **1973** II 1021
 
 Abgeschlossen in Washington am 3. März 1973 Von der Bundesversammlung genehmigt am 11. Juni 1974[^t-1] Schweizerische Ratifikationsurkunde hinterlegt am 9. Juli 1974 In Kraft getreten für die Schweiz am 1. Juli 1975
 
-(Stand am 16. Oktober 2024)
+(Stand am 1. Mai 2026)
 
 [^t-1]: [AS 1975 1134](https://fedlex.data.admin.ch/eli/oc/1975/1134_1134_1134)
 
@@ -542,20 +542,20 @@ Erläuterung
 
   bezeichnet alle Teile und Erzeugnisse, ausser:
 
-  - a) Samen (einschliesslich Samenschoten von *Orchideaceae*), Sporen und Pollen (einschliesslich *Pollinia*); diese Ausnahme gilt nicht für aus Mexiko exportierte Samen von *Cactaceae* sowie für aus Madagaskar exportierten Samen von *Beccariophoenix madagascariensis* und *Dypsis decaryi*,
+  - a) Samen (einschliesslich Samenschoten von *Orchideaceae*), Sporen und Pollen (einschliesslich *Pollinia*); diese Ausnahme gilt nicht für aus Mexiko exportierte Samen von Cactaceae sowie für aus Madagaskar exportierten Samen von *Beccariophoenix madagascariensis* und *Dypsis decaryi*,
   - b) Sämlinge oder Zellkulturen gezüchtet in vitro, transportiert in sterilen Behältnissen,
   - c) abgeschnittene Blüten von künstlich vermehrten Pflanzen,
-  - d) Früchte, deren Teile und Erzeugnisse von natürlich oder künstlich vermehrten Pflanzen der Gattung *Vanilla* (*Orchidaceae*), und der Familie *Cactaceae*,
+  - d) Früchte, deren Teile und Erzeugnisse von natürlich oder künstlich vermehrten Pflanzen der Gattung *Vanilla* (*Orchidaceae*), und der Familie Cactaceae,
   - e) Stämme, Blüten sowie deren Teile oder Erzeugnisse von natürlich oder künstlich vermehrten Pflanzen der Gattung *Opuntia* Untergattung *Opuntia* und *Selenicereus* (*Cactaceae*),
-  - f) fertige Produkte von *Aloe ferox* und *Euphorbia antisyphilitica*, die verpackt und versandfertig für den Einzelhandel sind,
+  - f) fertige Produkte, verpackt und versandfertig für den Einzelhandel von *Aloe ferox* und *Euphorbia antisyphilitica*,
   - g) fertige Kosmetikprodukte, verpackt und versandfertig für den Einzelhandel, die Teile und Erzeugnisse von folgenden Orchideenarten aus künstlicher Vermehrung enthalten: *Bletilla striata, Cycnoches cooperi, Gastrodia elata, Phalaenopsis amabilis* oder *Phalaenopsis lobbii*;
 
 - #5 bezeichnet Stämme oder Holzblöcke, Bretter und Furnierblätter;
 - #6 bezeichnet Stämme oder Holzblöcke, Bretter und Furnierblätter sowie perrholz;
 - #7 bezeichnet Stämme oder Holzblöcke, Holzschnitzel, Pulver und Extrakte;
 - #8 bezeichnet unterirdische Teile (d.h. Wurzeln, Rhizome): ganz sowie Teile und pulverisiert;
-- #9 bezeichnet sämtliche Teile und Erzeugnisse, mit Ausnahme derjenigen, welche eine Etikette tragen mit der Bezeichnung «Erzeugt aus Material von *Hoodia* spp., das durch kontrollierte Ernte und Erzeugung gewonnen wurde, in Zusammenarbeit mit den relevanten CITES-Vollzugsbehörden (Botswana unter Vereinbarung Nr. BW xxxxxx») (Namibia unter Vereinbarung Nr. NA xxxxx) (Südafrika unter Vereinbarung Nr. ZA xxxxx); *«Produced from Hoodia spp. material obtained through controlled harvesting and production under the terms of an agreement with the relevant CITES Management Authority of [Botswana under agreement No. BW/xxxxxx] [Namibia under agreement No. NA/xxxxxx] [South Africa under agreement No. ZA/xxxxxx]»*;
-- #10 bezeichnet alle Teile, Erzeugnisse und Fertigprodukte, ausgenommen Wiederausfuhren von fertigen Musikinstrumenten, fertige Teile und Zubehör von Musikinstrumenten;
+- #9 bezeichnet sämtliche Teile und Erzeugnisse, mit Ausnahme derjenigen, welche eine Etikette tragen mit der Bezeichnung «Erzeugt aus Material von *Hoodia* spp., das durch kontrollierte Ernte und Erzeugung gewonnen wurde, in Zusammenarbeit mit den relevanten CITES-Vollzugsbehörden (Botswana unter Vereinbarung Nr. BW xxxxxx») (Namibia unter Vereinbarung Nr. NA xxxxx) (Südafrika unter Vereinbarung Nr. ZA xxxxx); *«Produced from Hoodia* spp. *material obtained through controlled harvesting and production under the terms of an agreement with the relevant CITES Management Authority of [Botswana under agreement No. BW/xxxxxx] [Namibia under agreement No. NA/xxxxxx] [South Africa under agreement No. ZA/xxxxxx]»*;
+- #10 Alle Teile und Erzeugnisse, mit Ausnahme von fertigen Musikinstrumenten und fertigen Teilen und Zubehör von Musikinstrumenten, die ausschliesslich für den nicht-kommerziellen Handel zum Zwecke von bezahlten und unbezahlten Aufführungen, persönlichem Gebrauch, Ausstellungen, Ausleihen, Wettbewerben, für Ausbildungszwecke, Expertisen oder Reparaturen bestimmt sind, sofern dies nicht zu einer Besitzänderung führt und der Transport nicht zum Verkauf, zur Weitergabe oder zur Entsorgung des Exemplars ausserhalb des Staates des gewöhnlichen Aufenthaltes des Besitzers erfolgt;
 - #11 bezeichnet Stämme oder Holzblöcke, Bretter und Furnierblätter, Sperrholz sowie Pulver und Extrakte; Fertige Produkte, die solche Extrakte beinhalten, inklusive Duftstoffe, sind von dieser Annotation ausgenommen;
 - #12 bezeichnet Stämme oder Holzblöcke, Bretter und Furnierblätter, Sperrholz sowie Extrakte. Fertige Produkte, die solche Extrakte beinhalten, inklusive Duftstoffe, sind von dieser Annotation ausgenommen;
 - #13 bezeichnet den Samenkern (Endosperm, Fruchtfleisch oder Kobra genannt) und alle Erzeugnisse davon;
@@ -575,13 +575,15 @@ Erläuterung
   bezeichnet alle Teile und Erzeugnisse ausser:
 
   - a) Blätter, Blüten, Pollen, Früchte und Samen;
-  - b) fertige Produkte bis zu einem Maximalgewicht von 10kg des betroffenen Holzes pro Sendung;
+  - b) fertige Produkte bis zu einem Maximalgewicht von 10 kg des betroffenen Holzes pro Sendung;
   - c) Fertige Musikinstrumente, fertige Teile und Zubehör von Musikinstrumenten
   - d) Teile und Erzeugnisse von *Dalbergia cochinchinensis* die von der Annotation #4 erfasst sind;
   - e) Teile und Erzeugnisse von *Dalbergia* spp. der mexikanischen Population exportiert von Mexiko, welche von der Annotation #6 erfasst sind;
 
 - #16 bezeichnet Samen, Früchte und Öle;
 - #17 bezeichnet Stämme oder Holzblöcke, Bretter, Furnierblätter, Sperrholz und teilverarbeitetes Holz.[^t-3]
+- #18 ausgenommen Teile und Erzeugnisse, andere als Eier
+- #19 Extrakte (einschliesslich Harze, Gummi und ätherische Öle), ausgenommen die folgenden fertigen Produkte, verpackt und versandfertig für den Einzelhandel: Tabletten, Kapseln, Pillen, Parfüms, Kosmetika, Lösungen, Emulsionen oder Suspensionen (wie aufgegossene Öle, Hydrolate, Tinkturen) und verarbeitete Räucherstäbchen und Räucherkegel.
 
 \7. Es ist keine in Anhang-I-FLORA aufgeführte Art und kein solches höhere Taxon mit einer Fussnote versehen, wonach deren Hybriden den Bestimmungen von Artikel III des Übereinkommens unterliegen. Dies bedeutet, dass künstlich vermehrte Hybriden von einer oder mehreren dieser Arten oder von einem oder mehreren Taxa mit einem Zertifikat für künstliche Vermehrung gehandelt werden dürfen und dass Samen und Pollen (einschliesslich Pollinien), Schnittblumen, in vitro Gewebe- oder Keimlingskulturen auf solidem oder in flüssigem Medium, welche in sterilen Behältern transportiert werden, dieser Hybriden nicht den Bestimmungen des Übereinkommens unterliegen.
 
@@ -592,7 +594,7 @@ Für folgende gefährdeten Arten freilebender Tiere und Pflanzen in Anhang II un
 - a) Vorbehalte zu Anhang II
 
 <table>
-<tr><td>FAUNA</td><td></td><td>*In Kraft seit*</td></tr>
+<tr><th>FAUNA</th><th></th><th>*In Kraft seit*</th></tr>
 <tr><td>Aves</td><td></td><td></td></tr>
 <tr><td>PSITTACIFORMES</td><td></td><td></td></tr>
 <tr><td>Cacatuidae</td><td>Eolophus roseicapillus</td><td>06.06.1981</td></tr>
@@ -606,8 +608,8 @@ Für folgende gefährdeten Arten freilebender Tiere und Pflanzen in Anhang II un
 <tr><td></td><td>Podarcis pityusensis</td><td>22.10.1987</td></tr>
 <tr><td>FLORA</td><td></td><td></td></tr>
 <tr><td>APOCYNACEAE</td><td>Hoodia spp.</td><td>12.01.2005</td></tr>
-<tr><td></td><td colspan="2">Bezeichnet sämtliche Teile und Erzeugnisse, mit Ausnahme derjenigen, welche eine Etikette tragen mit der Bezeichnung «Erzeugt aus Material von *Hoodia* spp., das durch kontrollierte Ernte und Erzeugung gewonnen wurde, in Zusammenarbeit mit den relevanten CITES-Vollzugsbehörden (Botswana unter Vereinbarung Nr. BW/xxxxxx») (Namibia unter Vereinbarung Nr. NA/xxxxx) (Südafrika unter Vereinbarung Nr. ZA/xxxxx); *«Produced from* Hoodia *spp. material obtained through controlled harvesting and production under the terms of an agreement with the relevant CITES Management Authority of [Botswana under* *agreement* *No. BW/xxxxxx] [Namibia under agreement No. NA/xxxxxx] [South Africa under agreement No. ZA/xxxxxx]»*</td></tr>
-<tr><td>ASPARAGACEAE</td><td>*Beaucarnea* spp.</td><td>02.01.2017</td></tr>
+<tr><td></td><td colspan="2">Bezeichnet sämtliche Teile und Erzeugnisse, mit Ausnahme derjenigen, welche eine Etikette tragen mit der Bezeichnung «Erzeugt aus Material von Hoodia spp., das durch kontrollierte Ernte und Erzeugung gewonnen wurde, in Zusammenarbeit mit den relevanten CITES-Vollzugsbehörden (Botswana unter Vereinbarung Nr. BW/xxxxxx») (Namibia unter Vereinbarung Nr. NA/xxxxx) (Südafrika unter Vereinbarung Nr. ZA/xxxxx); *«Produced from* Hoodia spp. *material obtained* *through controlled harvesting and production under the terms* *of an agreement with the relevant CITES Management Authority of [Botswana under agreement No. BW/xxxxxx] [Namibia under agreement No. NA/xxxxxx] [South Africa under agreement No. ZA/xxxxxx]**».*</td></tr>
+<tr><td>ASPARAGACEAE</td><td>Beaucarnea spp.</td><td>02.01.2017</td></tr>
 </table>
 
 - b) Vorbehalte zu Anhang III
@@ -629,7 +631,7 @@ Für folgende gefährdeten Arten freilebender Tiere und Pflanzen in Anhang II un
 
 <table>
 <tr><th>Anhang I</th><th>Anhang II</th><th>Anhang III</th></tr>
-<tr><td>Fauna (Tiere)</td><td></td><td></td></tr>
+<tr><td>FAUNA (Tiere)</td><td></td><td></td></tr>
 <tr><td>Chordata</td><td></td><td></td></tr>
 <tr><td>Mammalia Säugetiere</td><td></td><td></td></tr>
 <tr><td>ARTIODACTYLA Paarhufer</td><td></td><td></td></tr>
@@ -648,6 +650,7 @@ Für folgende gefährdeten Arten freilebender Tiere und Pflanzen in Anhang II un
 <tr><td>Bubalus mindorensis Tamarau oder Mindorobüffel</td><td></td><td></td></tr>
 <tr><td>Bubalus quarlesi Berganoa</td><td></td><td></td></tr>
 <tr><td></td><td>Budorcas taxicolor Takin</td><td></td></tr>
+<tr><td></td><td>Budorcas tibetana</td><td></td></tr>
 <tr><td></td><td>Capra caucasica Kaukasischer Steinbock, Tur</td><td></td></tr>
 <tr><td>Capra falconeri Schraubenziege, Markhor</td><td></td><td></td></tr>
 <tr><td></td><td></td><td>Capra hircus aegagrus[^t-7] (Pakistan)</td></tr>
@@ -662,10 +665,9 @@ Für folgende gefährdeten Arten freilebender Tiere und Pflanzen in Anhang II un
 <tr><td></td><td>Cephalophus ogilbyi Ogilby-Ducker, Fernando-Po-Ducker</td><td></td></tr>
 <tr><td></td><td>Cephalophus silvicultor Gelbrückenducker</td><td></td></tr>
 <tr><td></td><td>Cephalophus zebra Zebraducker</td><td></td></tr>
-<tr><td></td><td>Damaliscus pygargus pygargus Buntbock</td><td></td></tr>
 <tr><td></td><td></td><td>Gazella benettii (Pakistan)</td></tr>
 <tr><td>Gazella cuvieri Cuvier-Gazelle</td><td></td><td></td></tr>
-<tr><td></td><td></td><td>Gazella dorcas (Algeria, Tunisia) Dorcas-Gazelle</td></tr>
+<tr><td></td><td>Gazella dorcas Dorcas-Gazelle</td><td></td></tr>
 <tr><td>Gazella leptoceros Afrikanische Dünengazelle</td><td></td><td></td></tr>
 <tr><td>Hippotragus niger variani Riesen-Rappenantilope</td><td></td><td></td></tr>
 <tr><td></td><td>Kobus leche Litschi-Wasserbock oder Litschi-Moorantilope</td><td></td></tr>
@@ -678,7 +680,7 @@ Für folgende gefährdeten Arten freilebender Tiere und Pflanzen in Anhang II un
 <tr><td>Oryx leucoryx Weisse Oryx</td><td></td><td></td></tr>
 <tr><td></td><td>Ovis ammon Asiatisches Wildschaf, Argali</td><td></td></tr>
 <tr><td></td><td>Ovis arabica</td><td></td></tr>
-<tr><td></td><td>*Ovis bochariensis*</td><td></td></tr>
+<tr><td></td><td>Ovis bochariensis</td><td></td></tr>
 <tr><td></td><td>Ovis canadensis (Nur die Population von Mexiko) Dickhornschaf</td><td></td></tr>
 <tr><td></td><td>Ovis collium</td><td></td></tr>
 <tr><td></td><td>Ovis cycloceros</td><td></td></tr>
@@ -703,7 +705,8 @@ Für folgende gefährdeten Arten freilebender Tiere und Pflanzen in Anhang II un
 <tr><td>Camelidae Kamele</td><td></td><td></td></tr>
 <tr><td></td><td>Lama guanicoe Guanako</td><td></td></tr>
 <tr><td>Vicugna vicugna (Ausgenommen die Populationen von: Argentien [die Populationen der Provinzen Jujuy, Catamarca und Salta, und die semi-captiven Populationen der Provincen von Jujuy, Salta, Catamarca, La Rioja und San Juan]; Bolivien [die ganze Population]; Chile [Populationen der Regionen Tarapacá, Arica und Parinacota] Ecuador [die ganze Population] und Peru [die ganze Population]) Vikunja</td><td></td><td></td></tr>
-<tr><td></td><td>Vicugna vicugna[^t-10] (Populationen von Argentinien) [die Populationen der Provinzen Jujuy, Catamarca und Salta, und die semi‑captiven Populationen der Provinzen von Jujuy, Salta, Catamarca, La Rioja und San Juan]; Bolivien [die ganze Population]; Chile [Populationen der Regionen Tarapacá, Arica und Parinacota]; Ecuador [die ganze Population] Peru [die ganze Population]) Vikunja</td><td></td></tr>
+<tr><td></td><td>Vicugna vicugna\* (Populationen von Argentinien) [die Populationen der Provinzen Jujuy, Catamarca und Salta, und die semi‑captiven Populationen der Provinzen von Jujuy, Salta, Catamarca, La Rioja und San Juan]; Bolivien [die ganze Population]; Chile [Populationen der Regionen Tarapacá, Arica und Parinacota]; Ecuador [die ganze Population] Peru [die ganze Population]) Vikunja</td><td></td></tr>
+<tr><td colspan="3">\* Einziger Zweck dieser Anmerkung ist es, den internationalen Handel mit Wollhaar von Vicunjas (Vicugna vicugna) und dessen Erzeugnisse nur zu genehmigen, wenn das Haar durch Scheren lebender Vicunjas gewonnen wurde. Der Handel mit Erzeungissen, die aus diesem Wollhaar hergestellt werden, ist nur unter den folgenden Bedingungen zulässig: a) Personen und Unternehmen, die bei der Herstellung von Stoffen und Kleidung Vicuña-Fasern verarbeiten, müssen eine Genehmigung der zuständigen Behörden des Herkunftslandes zur Verwendung des Schriftzuges bzw. der Marke oder des Logos «Vicuña Herkunftsland» einholen. Der Schriftzug bzw. die Marke oder das Logos wurde von den Arealstaaten dieser Art, welche Unterzeichner des Übereinkommens zum Schutz und zur Erhaltung der Vicuñas sind, angenommen. b) Zum Verkauf angebotene Stoffe oder Kleidungsstücke müssen gemäss den folgenden Bestimmungen gekennzeichnet sein: i) Beim internationalen Handel mit Stoffen aus Fasern von lebend geschorenen Vicuñas müssen der Schriftzug bzw. die Marke oder das Logo so angebracht werden, dass das Herkunftsland ersichtlich ist, ungeachtet dessen, ob der Stoff innerhalb oder ausserhalb der Arealstaaten der Art hergestellt wurde. Der Schriftzug bzw. die Marke oder das Logo VICUÑA [HERKUNFTSLAND] müssen die nachstehend beschriebene Form haben: ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1975/1135_1136_1136/20260501/de/xml/image/image1.png) Schriftzug, Marke oder Logo müssen auf der Rückseite des Stoffes angebracht sein. Darüber hinaus muss die Gewebekante des Stoffes mit dem Schriftzug VICUÑA [HERKUNFTSLAND] versehen sein. Werden die Kleidungsstücke ausserhalb des Herkunftslandes hergestellt, muss zusätzlich zum Schriftzug bzw. der Marke oder dem Logo gemäss Abs b, i) auch das Land angegeben werden, in dem das Kleidungsstück hergestellt wurde. c) Beim internationalen Handel mit Kunsthandwerkserzeugnissen aus Fasern von lebend geschorenen Vicuñas, die innerhalb der Arealstaaten der Art hergestellt wurden, müssen der Schriftzug bzw. die Marke oder das Logo VICUÑA [HERKUNFTSLAND] – ARTESANÍA wie folgt verwendet werden: ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1975/1135_1136_1136/20260501/de/xml/image/image2.png) d) Wenn für die Herstellung von Stoffen und Kleidung Fasern von lebend geschorenen Vicuñas aus verschiedenen Herkunftsländern verwendet werden, müssen der Schriftzug bzw. die Marke oder das Logo jedes einzelnen Herkunftslandes der Fasern verwendet werden, wie in Abs. b, i) und ii) beschrieben. e) Alle anderen Muster gelten als Muster von in Anhang I aufgeführten Arten, und der Handel ist entsprechend reguliert.</td></tr>
 <tr><td>Cervidae Hirsche</td><td></td><td></td></tr>
 <tr><td>Axis calamianensis Calamian-Schweinshirsch</td><td></td><td></td></tr>
 <tr><td>Axis kuhlii Bawean-Schweinshirsch oder Kuhlhirsch</td><td></td><td></td></tr>
@@ -722,10 +725,11 @@ Für folgende gefährdeten Arten freilebender Tiere und Pflanzen in Anhang II un
 <tr><td>Ozotoceros bezoarticus Pampashirsch</td><td></td><td></td></tr>
 <tr><td></td><td>Pudu mephistophiles Nordpudu</td><td></td></tr>
 <tr><td>Pudu puda Südpudu</td><td></td><td></td></tr>
-<tr><td>*Rucervus duvaucelii* Barasingha</td><td></td><td></td></tr>
-<tr><td>*Rucervus eldii* Leierhirsch</td><td></td><td></td></tr>
+<tr><td>Rucervus duvaucelii Barasingha</td><td></td><td></td></tr>
+<tr><td>Rucervus eldii Leierhirsch</td><td></td><td></td></tr>
 <tr><td>Giraffidae (Giraffen)</td><td></td><td></td></tr>
 <tr><td></td><td>Giraffa camelopardalis Giraffe</td><td></td></tr>
+<tr><td>Okapia johnstoni Okapi</td><td></td><td></td></tr>
 <tr><td>Hippopotamidae Flusspferde</td><td></td><td></td></tr>
 <tr><td></td><td>Hexaprotodon liberiensis Zwergflusspferd</td><td></td></tr>
 <tr><td></td><td>Hippopotamus amphibius Flusspferd, Nilpferd</td><td></td></tr>
@@ -739,11 +743,12 @@ Für folgende gefährdeten Arten freilebender Tiere und Pflanzen in Anhang II un
 <tr><td>Babyrousa togeanensis</td><td></td><td></td></tr>
 <tr><td>Sus salvanius Zwergwildschwein</td><td></td><td></td></tr>
 <tr><td>Tayassuidae Pekaris</td><td></td><td></td></tr>
-<tr><td></td><td>Tayassuidae spp.[^t-11]</td><td></td></tr>
+<tr><td></td><td>Tayassuidae spp.[^t-10]</td><td></td></tr>
 <tr><td>Catagonus wagneri Chaco-Pekari</td><td></td><td></td></tr>
 <tr><td>Carnivora Raubtiere</td><td></td><td></td></tr>
 <tr><td>Ailuridae Katzenbären</td><td></td><td></td></tr>
 <tr><td>Ailurus fulgens Kleiner Panda (Katzenbär)</td><td></td><td></td></tr>
+<tr><td>Ailurus styani</td><td></td><td></td></tr>
 <tr><td>Canidae Hunde</td><td></td><td></td></tr>
 <tr><td></td><td></td><td>Canis aureus (Indien) Goldschakal</td></tr>
 <tr><td>Canis lupus (Nur die Populationen von Bhutan, Indien, Nepal und Pakistan; ausgenommen die domestizierte Form und der Dingo, bezeichnet als *Canis lupus familiaris* und *Canis lupus dingo*) Wolf</td><td></td><td></td></tr>
@@ -765,8 +770,8 @@ Für folgende gefährdeten Arten freilebender Tiere und Pflanzen in Anhang II un
 <tr><td></td><td>Eupleres goudotii Fanaluk, Ameisenschleichkatze</td><td></td></tr>
 <tr><td></td><td>Fossa fossana Fanaloka</td><td></td></tr>
 <tr><td>Felidae Katzen</td><td></td><td></td></tr>
-<tr><td></td><td>Felidae spp.[^t-12] (Ausgenommen die Arten im Anhang I)</td><td></td></tr>
-<tr><td>Acinonyx jubatus[^t-13] Gepard</td><td></td><td></td></tr>
+<tr><td></td><td>Felidae spp.[^t-11] (Ausgenommen die Arten im Anhang I)</td><td></td></tr>
+<tr><td>Acinonyx jubatus[^t-12] Gepard</td><td></td><td></td></tr>
 <tr><td>Caracal caracal (Nur die Population von Asien) Karakal, Wüstenluchs</td><td></td><td></td></tr>
 <tr><td>Catopuma temminckii Asiatische Goldkatze</td><td></td><td></td></tr>
 <tr><td>Felis nigripes Schwarzfusskatze</td><td></td><td></td></tr>
@@ -780,7 +785,7 @@ Für folgende gefährdeten Arten freilebender Tiere und Pflanzen in Anhang II un
 <tr><td>Lynx pardinus Pardelluchs</td><td></td><td></td></tr>
 <tr><td>Neofelis diardi</td><td></td><td></td></tr>
 <tr><td>Neofelis nebulosa Nebelparder</td><td></td><td></td></tr>
-<tr><td></td><td>Panthera leo[^t-14] (Populationen Afrikas)</td><td></td></tr>
+<tr><td></td><td>Panthera leo[^t-13] (Populationen Afrikas)</td><td></td></tr>
 <tr><td>Panthera leo (Nur die Populationen von Indien) Persischer Löwe</td><td></td><td></td></tr>
 <tr><td>Panthera onca Jaguar</td><td></td><td></td></tr>
 <tr><td>Panthera pardus Leopard</td><td></td><td></td></tr>
@@ -800,7 +805,7 @@ Für folgende gefährdeten Arten freilebender Tiere und Pflanzen in Anhang II un
 <tr><td></td><td></td><td>Herpestes urva (Indien) Krabben-Manguste</td></tr>
 <tr><td></td><td></td><td>Herpestes vitticollis (Indien) Goldstaub-Manguste</td></tr>
 <tr><td>Hyaenidae Aardwolf</td><td></td><td></td></tr>
-<tr><td></td><td></td><td>Hyaena hyaena (Pakistan)</td></tr>
+<tr><td></td><td>Hyaena hyaena Streifenhyäne</td><td></td></tr>
 <tr><td></td><td></td><td>Proteles cristata (Botsuana) Erdwolf</td></tr>
 <tr><td>Mephitidae Stinktiere</td><td></td><td></td></tr>
 <tr><td></td><td>Conepatus humboldtii Patagonischer Skunk</td><td></td></tr>
@@ -832,10 +837,10 @@ Für folgende gefährdeten Arten freilebender Tiere und Pflanzen in Anhang II un
 <tr><td></td><td></td><td>Odobenus rosmarus (Canada) Walross</td></tr>
 <tr><td>Otariidae Ohrenrobben</td><td></td><td></td></tr>
 <tr><td></td><td>Arctocephalus spp. Südliche Seebären</td><td></td></tr>
-<tr><td>Arctocephalus townsendi Guadalupe-Seebär</td><td></td><td></td></tr>
 <tr><td>Phocidae Hundsrobben</td><td></td><td></td></tr>
 <tr><td></td><td>Mirounga leonina Südlicher See-Elefant</td><td></td></tr>
 <tr><td>Monachus spp. Mönchsrobben</td><td></td><td></td></tr>
+<tr><td>Neomonachus spp. (Ausgenommen *Monachus tropicalis* – Karibische Mönchsroppe)</td><td></td><td></td></tr>
 <tr><td>Procyonidae Kleinbären</td><td></td><td></td></tr>
 <tr><td></td><td></td><td>Nasua narica (Honduras) Nasenbär</td></tr>
 <tr><td></td><td></td><td>Nasua nasua solitaria (Uruguay) Nasenbär (Unterart)</td></tr>
@@ -863,7 +868,7 @@ Für folgende gefährdeten Arten freilebender Tiere und Pflanzen in Anhang II un
 <tr><td></td><td></td><td>Viverra zibetha (Indien) Indien-Zibethkatze</td></tr>
 <tr><td></td><td></td><td>Viverricula indica (Indien) Indische Kleinzibethkatze</td></tr>
 <tr><td>Cetacea Wale</td><td></td><td></td></tr>
-<tr><td></td><td>Cetaceae spp.[^t-15] (Ausgenommen die Arten in Anhang I)</td><td></td></tr>
+<tr><td></td><td>Cetaceae spp.[^t-14] (Ausgenommen die Arten in Anhang I)</td><td></td></tr>
 <tr><td>Balaenidae Glattwale</td><td></td><td></td></tr>
 <tr><td>Balaena mysticetus Grönlandwal</td><td></td><td></td></tr>
 <tr><td>Eubalaena spp. Glattwale</td><td></td><td></td></tr>
@@ -875,6 +880,7 @@ Für folgende gefährdeten Arten freilebender Tiere und Pflanzen in Anhang II un
 <tr><td>Balaenoptera musculus Blauwal</td><td></td><td></td></tr>
 <tr><td>Balaenoptera omurai</td><td></td><td></td></tr>
 <tr><td>Balaenoptera physalus Finnwal</td><td></td><td></td></tr>
+<tr><td>Balaenoptera ricei</td><td></td><td></td></tr>
 <tr><td>Megaptera novaeangliae Buckelwal</td><td></td><td></td></tr>
 <tr><td>Delphinidae Eigentliche Delfine</td><td></td><td></td></tr>
 <tr><td>Orcaella brevirostris Irrawaddy-Delfin</td><td></td><td></td></tr>
@@ -884,7 +890,7 @@ Für folgende gefährdeten Arten freilebender Tiere und Pflanzen in Anhang II un
 <tr><td>Eschrichtiidae Grauwale</td><td></td><td></td></tr>
 <tr><td>Eschrichtius robustus Grauwal</td><td></td><td></td></tr>
 <tr><td>Iniidae</td><td></td><td></td></tr>
-<tr><td>*Lipotes vexillifer* Chinesischer Flussdelfin</td><td></td><td></td></tr>
+<tr><td>Lipotes vexillifer Chinesischer Flussdelfin</td><td></td><td></td></tr>
 <tr><td>Neobalaenidae Zwergglattwale</td><td></td><td></td></tr>
 <tr><td>Caperea marginata Zwergglattwal</td><td></td><td></td></tr>
 <tr><td>Phocoenidae Schweinswale</td><td></td><td></td></tr>
@@ -917,8 +923,8 @@ Für folgende gefährdeten Arten freilebender Tiere und Pflanzen in Anhang II un
 <tr><td>Cingulata Gürteltiere, gepanzerte Nebengelenktiere</td><td></td><td></td></tr>
 <tr><td>Dasypodidae Gürteltiere</td><td></td><td></td></tr>
 <tr><td></td><td></td><td>Cabassous tatouay (Uruguay) Nacktschwanzgürteltier</td></tr>
-<tr><td></td><td>Chaetophractus nationi[^t-16] Anden-Borstengürteltier</td><td></td></tr>
-<tr><td>*Priodontes maximus* Riesengürteltier</td><td></td><td></td></tr>
+<tr><td></td><td>Chaetophractus nationi[^t-15] Anden-Borstengürteltier</td><td></td></tr>
+<tr><td>Priodontes maximus Riesengürteltier</td><td></td><td></td></tr>
 <tr><td>Dasyuromorphia Raubbeutelartige</td><td></td><td></td></tr>
 <tr><td>Dasyuridae Raubbeutler</td><td></td><td></td></tr>
 <tr><td>Sminthopsis longicaudata Langschwanz-Schmalfussbeutelmaus</td><td></td><td></td></tr>
@@ -936,7 +942,7 @@ Für folgende gefährdeten Arten freilebender Tiere und Pflanzen in Anhang II un
 <tr><td></td><td>Phalanger orientalis Wollkuskus</td><td></td></tr>
 <tr><td></td><td>Spilocuscus kraemeri</td><td></td></tr>
 <tr><td></td><td>Spilocuscus maculatus Tüpfelkuskus</td><td></td></tr>
-<tr><td></td><td>*Spilocuscus papuensis*</td><td></td></tr>
+<tr><td></td><td>Spilocuscus papuensis</td><td></td></tr>
 <tr><td>Potoroidae Rattenkänguruhs</td><td></td><td></td></tr>
 <tr><td>Bettongia spp. Bürstenkänguruhs</td><td></td><td></td></tr>
 <tr><td>Vombatidae Plumpbeutler</td><td></td><td></td></tr>
@@ -955,7 +961,7 @@ Für folgende gefährdeten Arten freilebender Tiere und Pflanzen in Anhang II un
 <tr><td>Macrotis lagotis Grosser Kaninchennasenbeutler</td><td></td><td></td></tr>
 <tr><td>Perissodactyla Unpaarhufer</td><td></td><td></td></tr>
 <tr><td>Equidae Pferde</td><td></td><td></td></tr>
-<tr><td>Equus africanus[^t-17] Afrikanischer Wildesel</td><td></td><td></td></tr>
+<tr><td>Equus africanus[^t-16] Afrikanischer Wildesel</td><td></td><td></td></tr>
 <tr><td>Equus grevyi Grevyzebra</td><td></td><td></td></tr>
 <tr><td></td><td>Equus hemionus Asiatischer Wildesel</td><td></td></tr>
 <tr><td>Equus hemionus hemionus Mongolischer Wildesel</td><td></td><td></td></tr>
@@ -966,13 +972,13 @@ Für folgende gefährdeten Arten freilebender Tiere und Pflanzen in Anhang II un
 <tr><td></td><td>Equus zebra zebra Kap-Bergzebra</td><td></td></tr>
 <tr><td>Rhinocerotidae Nashörner</td><td></td><td></td></tr>
 <tr><td>Rhinocerotidae spp. (Ausgenommen die Unterarten, die im Anhang II inbegriffen sind)</td><td></td><td></td></tr>
-<tr><td></td><td>Ceratotherium simum simum[^t-18] (Nur die Population von Eswatini, Namibia[^t-19] und Südafrika) Weisses Nashorn, Breitmaulnashorn</td><td></td></tr>
+<tr><td></td><td>Ceratotherium simum simum[^t-17] (Nur die Population von Eswatini, Namibia[^t-18] und Südafrika) Weisses Nashorn, Breitmaulnashorn</td><td></td></tr>
 <tr><td>Tapiridae Tapir</td><td></td><td></td></tr>
 <tr><td>Tapiridae spp. (Ausgenommen die Arten in Anhang II)</td><td></td><td></td></tr>
 <tr><td></td><td>Tapirus terrestris Flachland- oder Amerikanischer Tapir</td><td></td></tr>
 <tr><td>Pholidota Schuppentiere</td><td></td><td></td></tr>
 <tr><td>Manidae Schuppentiere</td><td></td><td></td></tr>
-<tr><td></td><td>Manis spp.[^t-20] (Ausgenommen die Arten in Anhang I)</td><td></td></tr>
+<tr><td></td><td>Manis spp.[^t-19] (Ausgenommen die Arten in Anhang I)</td><td></td></tr>
 <tr><td>Manis crassicaudata Vorderindisches oder Indien-Schuppentier</td><td></td><td></td></tr>
 <tr><td>Manis culionensis Palawan- oder Philippinisches Schuppentier</td><td></td><td></td></tr>
 <tr><td>Manis gigantea Riesenschuppentier</td><td></td><td></td></tr>
@@ -983,14 +989,16 @@ Für folgende gefährdeten Arten freilebender Tiere und Pflanzen in Anhang II un
 <tr><td>Manis tricuspis Weissbauchschuppentier</td><td></td><td></td></tr>
 <tr><td>Pilosa Zahnarme</td><td></td><td></td></tr>
 <tr><td>Bradypodidae Dreizehenfaultiere</td><td></td><td></td></tr>
-<tr><td></td><td>*Bradypus pygmaeus*</td><td></td></tr>
+<tr><td></td><td>Bradypus pygmaeus</td><td></td></tr>
 <tr><td></td><td>Bradypus variegates Bolivianisches Dreizehenfaultier</td><td></td></tr>
+<tr><td>Megalonychidae Faultiere</td><td></td><td></td></tr>
+<tr><td></td><td>Choloepus didactylus Zweifingerfaultier</td><td></td></tr>
+<tr><td></td><td>Choloepus hoffmanni Hoffmann-Zweifingerfaultier</td><td></td></tr>
 <tr><td>Myrmecophagidae Ameisenbären</td><td></td><td></td></tr>
 <tr><td></td><td>Myrmecophaga tridactyla Grosser Ameisenbär</td><td></td></tr>
 <tr><td></td><td></td><td>Tamandua mexicana (Guatemala) Tamandu</td></tr>
 <tr><td>PRIMATES Herrentiere (Affen)</td><td></td><td></td></tr>
 <tr><td></td><td>PRIMATES</td><td></td></tr>
-<tr><td>Atelidae Klammerschwanzaffen</td><td></td><td></td></tr>
 <tr><td>Alouatta palliata Mantelbrüllaffe</td><td></td><td></td></tr>
 <tr><td>Alouatta pigra Guatemala-Brüllaffe</td><td></td><td></td></tr>
 <tr><td>Ateles geoffroyi frontatus Geoffroy-Klammeraffe</td><td></td><td></td></tr>
@@ -1010,6 +1018,7 @@ Für folgende gefährdeten Arten freilebender Tiere und Pflanzen in Anhang II un
 <tr><td>Saguinus oedipus Lisztäffchen</td><td></td><td></td></tr>
 <tr><td>Saimiri oerstedii Gelbes Totenkopfäffchen</td><td></td><td></td></tr>
 <tr><td>Cercopithecidae Meerkatzenverwandte, Altweltaffen</td><td></td><td></td></tr>
+<tr><td>Cercocebus chrysogaster Goldbauchmangabe</td><td></td><td></td></tr>
 <tr><td>Cercocebus galeritus Tana-Haubenmangabe</td><td></td><td></td></tr>
 <tr><td>Cercopithecus diana Dianameerkatze</td><td></td><td></td></tr>
 <tr><td>Cercopithecus roloway Roloway-Meerkatze</td><td></td><td></td></tr>
@@ -1061,11 +1070,11 @@ Für folgende gefährdeten Arten freilebender Tiere und Pflanzen in Anhang II un
 <tr><td>Proboscidea Rüsseltiere</td><td></td><td></td></tr>
 <tr><td>Elephantidae Elefanten</td><td></td><td></td></tr>
 <tr><td>Elephas maximus Asiatischer (Indischer) Elefant</td><td></td><td></td></tr>
-<tr><td>Loxodonta africana (Ausgenommen die Populationen von Botswana, Namibia, Südafrika und Simbabwe) Afrikanischer Elefant</td><td></td><td></td></tr>
-<tr><td></td><td>Loxodonta africana (Nur die Populationen von Botsuana, Namibia, Südafrika und Simbabwe)[^t-21] Afrikanischer Elefant</td><td></td></tr>
+<tr><td>Loxodonta africana (Ausgenommen die Populationen von Botsuana, Namibia, Simbabwe und Südafrika , welche mit der Annotation A10 im Anhang II aufgeführt sind) Afrikanischer Elefant</td><td></td><td></td></tr>
+<tr><td></td><td>Loxodonta africana (Nur die Populationen von Botswana, Namibia, Simbabwe und Südafrika, alle anderen Populationen sind im Anhang I aufgeführt)[^t-20] Afrikanischer Elefant</td><td></td></tr>
 <tr><td>Rodentia Nagetiere</td><td></td><td></td></tr>
 <tr><td>Chinchillidae Hasenmäuse</td><td></td><td></td></tr>
-<tr><td>Chinchilla spp.[^t-22] Chinchillas</td><td></td><td></td></tr>
+<tr><td>Chinchilla spp.[^t-21] Chinchillas</td><td></td><td></td></tr>
 <tr><td>Cuniculidae Pakas</td><td></td><td></td></tr>
 <tr><td></td><td></td><td>Cuniculus paca (Honduras) Paka</td></tr>
 <tr><td>Dasyproctidae Agutis</td><td></td><td></td></tr>
@@ -1159,19 +1168,23 @@ Für folgende gefährdeten Arten freilebender Tiere und Pflanzen in Anhang II un
 <tr><td></td><td>Berenicornis spp.</td><td></td></tr>
 <tr><td></td><td>Buceros spp. Hornvögel</td><td></td></tr>
 <tr><td>Buceros bicornis Doppelhornvogel</td><td></td><td></td></tr>
+<tr><td></td><td>Bycanistes spp. Afrikanische Kehlsack-Hornvögel</td><td></td></tr>
+<tr><td></td><td>Ceratogymna spp. Waldhornvögel</td><td></td></tr>
 <tr><td></td><td>Penelopides spp.</td><td></td></tr>
-<tr><td>Rhinoplax vigil Schildhornvogel</td><td></td><td></td></tr>
+<tr><td>Rhinoplax Maurvigil Schildhornvogel</td><td></td><td></td></tr>
 <tr><td></td><td>Rhyticeros spp.</td><td></td></tr>
 <tr><td>Rhyticeros subruficollis Sundajahr-Vogel</td><td></td><td></td></tr>
 <tr><td>CUCULIFORMES Kuckucksvögel</td><td></td><td></td></tr>
 <tr><td>Musophagidae Turakos</td><td></td><td></td></tr>
 <tr><td></td><td>Tauraco spp. Helmturakos</td><td></td></tr>
 <tr><td>FALCONIFORMES Tagraubvögel</td><td></td><td></td></tr>
-<tr><td></td><td>FALCONIFORMES (Alle Arten, ausgenommen *Caraca lutosa* und die Familie der Neuweltgeier)</td><td></td></tr>
+<tr><td></td><td>FALCONIFORMES (Alle Arten, ausgenommen diejenigen in Anhang I, *Caraca lutosa* und die Familie Cathartidae Neuweltgeier)</td><td></td></tr>
 <tr><td>Accipitridae Habichtartige</td><td></td><td></td></tr>
 <tr><td>Aquila adalberti Iberischer Kaiseradler</td><td></td><td></td></tr>
 <tr><td>Aquila heliaca Kaiseradler</td><td></td><td></td></tr>
 <tr><td>Chondrohierax wilsonii Wilsons Langschnabelweihe</td><td></td><td></td></tr>
+<tr><td>Gyps africanus Weissrückengeier</td><td></td><td></td></tr>
+<tr><td>Gyps rueppelli Sperbergeier</td><td></td><td></td></tr>
 <tr><td>Haliaeetus albicilla Seeadler</td><td></td><td></td></tr>
 <tr><td>Harpia harpyja Harpye</td><td></td><td></td></tr>
 <tr><td>Pithecophaga jefferyi Affenadler</td><td></td><td></td></tr>
@@ -1263,10 +1276,10 @@ Für folgende gefährdeten Arten freilebender Tiere und Pflanzen in Anhang II un
 <tr><td>Rhynochetos jubatus Kagu</td><td></td><td></td></tr>
 <tr><td>PASSERIFORMES Sperlingsvögel</td><td></td><td></td></tr>
 <tr><td>Alaudidae Lerchen</td><td></td><td></td></tr>
-<tr><td></td><td></td><td>*Alauda arvensis* (Ukraine) Feldlerche</td></tr>
-<tr><td></td><td></td><td>*Galerida cristata* (Ukraine) Haubenlerche</td></tr>
-<tr><td></td><td></td><td>*Lullula arborea* (Ukraine) Heidelerche</td></tr>
-<tr><td></td><td></td><td>*Malanocorypha calandra* (Ukraine) Kalanderlerche</td></tr>
+<tr><td></td><td></td><td>Alauda arvensis (Ukraine) Feldlerche</td></tr>
+<tr><td></td><td></td><td>Galerida cristata (Ukraine) Haubenlerche</td></tr>
+<tr><td></td><td></td><td>Lullula arborea (Ukraine) Heidelerche</td></tr>
+<tr><td></td><td></td><td>Malanocorypha calandra (Ukraine) Kalanderlerche</td></tr>
 <tr><td>Atrichornithidae Dickichtschlüpfer</td><td></td><td></td></tr>
 <tr><td>Atrichornis clamosus Grosser Dickichtschlüpfer</td><td></td><td></td></tr>
 <tr><td>Cotingidae Schmuckvögel</td><td></td><td></td></tr>
@@ -1282,6 +1295,12 @@ Für folgende gefährdeten Arten freilebender Tiere und Pflanzen in Anhang II un
 <tr><td></td><td></td><td>Melopyrrha nigra (Kuba)</td></tr>
 <tr><td></td><td>Paroaria capitata Mantelkardinal</td><td></td></tr>
 <tr><td></td><td>Paroaria coronata Graukardinal</td><td></td></tr>
+<tr><td></td><td>Sporophila angolensis Braunbauchspelzer</td><td></td></tr>
+<tr><td></td><td>Sporophila atrirostris Schwarzschnabelspelzer</td><td></td></tr>
+<tr><td></td><td>Sporophila crassirostris Grossschnabel-Saatfink</td><td></td></tr>
+<tr><td></td><td>Sporophila funerea Dickschnabel-Samenfink</td><td></td></tr>
+<tr><td>Sporophila maximiliani Grossschnabel-Samenfink</td><td></td><td></td></tr>
+<tr><td></td><td>Sporophila nuttingi Nicaraguanischer Samenfink</td><td></td></tr>
 <tr><td></td><td>Tangara fastuosa Vielfarbentangare</td><td></td></tr>
 <tr><td></td><td></td><td>Tiaris canorus (Kuba)</td></tr>
 <tr><td>Estrildidae Prachtfinken</td><td></td><td></td></tr>
@@ -1345,7 +1364,7 @@ Für folgende gefährdeten Arten freilebender Tiere und Pflanzen in Anhang II un
 <tr><td>Pitta kochi Kochs Pitta</td><td></td><td></td></tr>
 <tr><td></td><td>Pitta nympha Japanischer Neunfarbenpitta</td><td></td></tr>
 <tr><td>Pycnonotidae Haarvögel</td><td></td><td></td></tr>
-<tr><td>Pycnonotus zeylanicus[^t-23] Gelbscheitelbülbül</td><td>[^t-24]</td><td></td></tr>
+<tr><td>Pycnonotus zeylanicus Gelbscheitelbülbül</td><td></td><td></td></tr>
 <tr><td>Sturnidae Stare</td><td></td><td></td></tr>
 <tr><td></td><td>Gracula religiosa Beo</td><td></td></tr>
 <tr><td>Leucopsar rothschildi Bali-Star oder Rothschild-Maina</td><td></td><td></td></tr>
@@ -1383,7 +1402,7 @@ Für folgende gefährdeten Arten freilebender Tiere und Pflanzen in Anhang II un
 <tr><td>Diomedeidae Albatrosse</td><td></td><td></td></tr>
 <tr><td></td><td>Phoebastria albatrus Kurzschwanzalbatros</td><td></td></tr>
 <tr><td>PSITTACIFORMES Papageienvögel</td><td></td><td></td></tr>
-<tr><td></td><td>PSITTACIFORMES (Ausgenommen sind die Arten *Agapornis* *roseicollis* Rosenköpfchen*, Melopsittacus* *undulatus* Wellensittich*, Nymphicus hollandicus* Nymphensittich und *Psittacula krameri* Halsband- oder kleiner Alexandersittich)</td><td></td></tr>
+<tr><td></td><td>PSITTACIFORMES (Ausgenommen sind die Arten *Agapornis* *roseicollis* Rosenköpfchen*, Melopsittacus* *undulatus* Wellensittich*, Nymphicus hollandicus* Nymphensittich und *Psittacula* *krameri* Halsband- oder kleiner Alexandersittich)</td><td></td></tr>
 <tr><td>Cacatuidae Kakadus</td><td></td><td></td></tr>
 <tr><td></td><td>Cacatua galerita Grosser Gelbhaubenkakadu</td><td></td></tr>
 <tr><td>Cacatua goffiniana Goffinkakadu</td><td></td><td></td></tr>
@@ -1483,18 +1502,18 @@ Für folgende gefährdeten Arten freilebender Tiere und Pflanzen in Anhang II un
 <tr><td>Alligatoridae Alligatoren</td><td></td><td></td></tr>
 <tr><td>Alligator sinensis China-Alligator</td><td></td><td></td></tr>
 <tr><td>Caiman crocodilus apaporiensis Rio-Apaporis-Brillenkaiman</td><td></td><td></td></tr>
-<tr><td>Caiman latirostris (Ausgenommen die Population von Argentinien und Brasilien) Breitschnauzenkaiman</td><td>Caiman latirostris (Population von Argentinien und Brasilien[^t-25]) Breitschnauzenkaiman</td><td></td></tr>
-<tr><td>Melanosuchus niger[^t-26] (Ausgenommen die Population von Ecuador und Brasilien) Mohrenkaiman</td><td></td><td></td></tr>
+<tr><td>Caiman latirostris (Ausgenommen die Population von Argentinien und Brasilien) Breitschnauzenkaiman</td><td>Caiman latirostris (Population von Argentinien und Brasilien[^t-22]) Breitschnauzenkaiman</td><td></td></tr>
+<tr><td>Melanosuchus niger[^t-23] (Ausgenommen die Population von Ecuador und Brasilien) Mohrenkaiman</td><td></td><td></td></tr>
 <tr><td>Crocodylidae Echte Krokodile</td><td></td><td></td></tr>
 <tr><td>Crocodylus acutus (Ausgenommen die Populationen von Kuba, Mexiko und der folgenden Gebiete in Kolumbien: «Integrated Management District of Mangroves» der Cispata Bay, Tinajones, La Balsa und umgebende Gebiete im Departement Cordoba, die im Anhang II aufgeführt sind.) Spitzkrokodil</td><td></td><td></td></tr>
-<tr><td></td><td>Crocodylus acutus (Mexiko)[^t-27]</td><td></td></tr>
+<tr><td></td><td>Crocodylus acutus (Mexiko)[^t-24]</td><td></td></tr>
 <tr><td>Crocodylus cataphractus Panzerkrokodil</td><td></td><td></td></tr>
 <tr><td>Crocodylus intermedius Orinoko-Krokodil</td><td></td><td></td></tr>
 <tr><td>Crocodylus mindorensis Mindoro-Krokodil</td><td></td><td></td></tr>
 <tr><td>Crocodylus moreletii (Ausgenommen die Populationvon Belize, die in Anhang II aufgeführt ist mit einer Nullquote für Wildfänge zu kommerziellen Zwecken und der Population von Mexiko, die in Anhang II aufgeführt ist.) Beulenkrokodil</td><td></td><td></td></tr>
 <tr><td>Crocodylus niloticus (Ausgenommen sind die Populationen von Ägypten (mit einer Nullquote für Wildfänge zu kommerziellen Zwecken), Äthiopien, Botsuana, Kenia, Madagaskar, Malawi, Mosambik, Namibia, Südafrika, Uganda, Tansania, Sambia und Simbabwe [Ranching-Programme]; diese Populationen sind im Anhang II aufgeführt. Neben Exemplaren aus Ranching wird Tansania jährlich die Ausfuhr von maximal 1600 der Natur entnommenen Exemplaren bewilligt [einschliesslich Jagdtrophäen]) Nil-Krokodil</td><td></td><td></td></tr>
 <tr><td>Crocodylus palustris Sumpfkrokodil</td><td></td><td></td></tr>
-<tr><td>Crocodylus porosus (Ausgenommen die Populationen von Australien, Indonesien, Malaysia [Einschränkung für aus der Natur entnommene Exemplare aus dem Bundesstaat Sarawak und einer Nullquote für Wildarten aus den anderen Malayischen Bundesstaaten (Sabah und Peninsular Malaysia) und keiner Änderung betreffend Nullquote ausser von den CITES-Vertragsparteien genehmigt], Papua-Neuguinea und den Philippinen [gilt nicht für die Population der Palawan Inseln], die in den Anhängen II aufgeführt sind.) Leistenkrokodil</td><td>Crocodylus porosus Philippinen [gilt nur für die Population der Palawan Inseln[^t-28]] Leistenkrokodil</td><td></td></tr>
+<tr><td>Crocodylus porosus (Ausgenommen die Populationen von Australien, Indonesien, Malaysia [Einschränkung für aus der Natur entnommene Exemplare aus dem Bundesstaat Sarawak und einer Nullquote für Wildarten aus den anderen Malayischen Bundesstaaten (Sabah und Peninsular Malaysia) und keiner Änderung betreffend Nullquote ausser von den CITES-Vertragsparteien genehmigt], Papua-Neuguinea und den Philippinen [gilt nicht für die Population der Palawan Inseln], die in den Anhängen II aufgeführt sind.) Leistenkrokodil</td><td>Crocodylus porosus Philippinen [gilt nur für die Population der Palawan Inseln[^t-25]] Leistenkrokodil</td><td></td></tr>
 <tr><td>Crocodylus rhombifer Rautenkrokodil</td><td></td><td></td></tr>
 <tr><td>Crocodylus siamensis Siamkrokodil</td><td></td><td></td></tr>
 <tr><td>Osteolaemus tetraspis Stumpfkrokodil</td><td></td><td></td></tr>
@@ -1506,29 +1525,29 @@ Für folgende gefährdeten Arten freilebender Tiere und Pflanzen in Anhang II un
 <tr><td>Sphenodon spp.</td><td></td><td></td></tr>
 <tr><td>Sauria Echsen</td><td></td><td></td></tr>
 <tr><td>Agamidae Agamen</td><td></td><td></td></tr>
-<tr><td></td><td></td><td>*Calotes ceylonensis* (Sri Lanka)</td></tr>
-<tr><td></td><td></td><td>*Calotes desilvai* (Sri Lanka)</td></tr>
-<tr><td></td><td></td><td>*Calotes liocephalus* (Sri Lanka)</td></tr>
-<tr><td></td><td></td><td>*Calotes liolepis* (Sri Lanka)</td></tr>
-<tr><td></td><td></td><td>*Calotes manamendrai* (Sri Lanka)</td></tr>
-<tr><td></td><td></td><td>*Calotes nigrilabris* (Sri Lanka)</td></tr>
-<tr><td></td><td></td><td>*Calotes pethiyagodai* (Sri Lanka)</td></tr>
-<tr><td></td><td>*Ceratophora aspera*[^t-29]</td><td></td></tr>
+<tr><td></td><td></td><td>Calotes ceylonensis (Sri Lanka)</td></tr>
+<tr><td></td><td></td><td>Calotes desilvai (Sri Lanka)</td></tr>
+<tr><td></td><td></td><td>Calotes liocephalus (Sri Lanka)</td></tr>
+<tr><td></td><td></td><td>Calotes liolepis (Sri Lanka)</td></tr>
+<tr><td></td><td></td><td>Calotes manamendrai (Sri Lanka)</td></tr>
+<tr><td></td><td></td><td>Calotes nigrilabris (Sri Lanka)</td></tr>
+<tr><td></td><td></td><td>Calotes pethiyagodai (Sri Lanka)</td></tr>
+<tr><td></td><td>Ceratophora aspera[^t-26]</td><td></td></tr>
 <tr><td>Ceratophora erdeleni</td><td></td><td></td></tr>
 <tr><td>Ceratophora karu</td><td></td><td></td></tr>
-<tr><td></td><td>Ceratophora stoddartii[^t-30]</td><td></td></tr>
+<tr><td></td><td>Ceratophora stoddartii[^t-27]</td><td></td></tr>
 <tr><td>Ceratophora tennentii</td><td></td><td></td></tr>
 <tr><td>Cophotis ceylanica Ceylonesische Taubagame</td><td></td><td></td></tr>
 <tr><td>Cophotis dumbara</td><td></td><td></td></tr>
 <tr><td></td><td></td><td>Ctenophorus spp. (Australien)</td></tr>
 <tr><td></td><td></td><td>Intellagama spp. (Australien)</td></tr>
-<tr><td></td><td>Lyriocephalus scutatus[^t-31] (Leierkopfagame)</td><td></td></tr>
+<tr><td></td><td>Lyriocephalus scutatus[^t-28] (Leierkopfagame)</td><td></td></tr>
 <tr><td></td><td>Physignathus cocincinus Grüne Wasseragame</td><td></td></tr>
 <tr><td></td><td>Saara spp.</td><td></td></tr>
 <tr><td></td><td></td><td>Tympanocryptis spp. (Australien)</td></tr>
 <tr><td></td><td>Uromastyx spp. Dornschwänze</td><td></td></tr>
 <tr><td>Anguidae Schleichen</td><td></td><td></td></tr>
-<tr><td></td><td>Abronia spp.[^t-32] (Ausgenommen die Arten in Anhang I)</td><td></td></tr>
+<tr><td></td><td>Abronia spp.[^t-29] (Ausgenommen die Arten in Anhang I)</td><td></td></tr>
 <tr><td>Abronia anzuetoi</td><td></td><td></td></tr>
 <tr><td>Abronia campbelli</td><td></td><td></td></tr>
 <tr><td>Abronia fimbriata</td><td></td><td></td></tr>
@@ -1549,19 +1568,21 @@ Für folgende gefährdeten Arten freilebender Tiere und Pflanzen in Anhang II un
 <tr><td></td><td>Trioceros spp.</td><td></td></tr>
 <tr><td>Cordylidae Gürtelschweife</td><td></td><td></td></tr>
 <tr><td></td><td>Cordylus spp. Echte Gürtelschweife</td><td></td></tr>
+<tr><td>Diploglossidae Doppelzungenschleichen</td><td></td><td></td></tr>
+<tr><td>Caribicus warreni</td><td></td><td></td></tr>
 <tr><td>Eublepharidae</td><td></td><td></td></tr>
 <tr><td></td><td>Goniurosaurus spp. (ausgenommen die einheimischen Arten von Japan) Leopardgeckos</td><td></td></tr>
-<tr><td></td><td></td><td>Goniurosaurus kuroiwae[^t-33] (Japan)</td></tr>
-<tr><td></td><td></td><td>Goniurosaurus orientalis[^t-34] (Japan)</td></tr>
-<tr><td></td><td></td><td>Goniurosaurus sengokui[^t-35] (Japan)</td></tr>
-<tr><td></td><td></td><td>Goniurosaurus splendens[^t-36] (Japan)</td></tr>
-<tr><td></td><td></td><td>Goniurosaurus toyamai[^t-37] (Japan)</td></tr>
-<tr><td></td><td></td><td>Goniurosaurus yamashinae[^t-38] (Japan)</td></tr>
+<tr><td></td><td></td><td>Goniurosaurus kuroiwae #18(Japan)</td></tr>
+<tr><td></td><td></td><td>Goniurosaurus orientalis #18(Japan)</td></tr>
+<tr><td></td><td></td><td>Goniurosaurus sengokui #18(Japan)</td></tr>
+<tr><td></td><td></td><td>Goniurosaurus splendens #18(Japan)</td></tr>
+<tr><td></td><td></td><td>Goniurosaurus toyamai #18(Japan)</td></tr>
+<tr><td></td><td></td><td>Goniurosaurus yamashinae #18(Japan)</td></tr>
 <tr><td>Gekkonidae Geckos</td><td></td><td></td></tr>
 <tr><td></td><td></td><td>Carphodactylus spp. (Australien)</td></tr>
 <tr><td>Cnemaspis psychedelica</td><td></td><td></td></tr>
 <tr><td></td><td>Cyrtodactylus jeyporensis</td><td></td></tr>
-<tr><td></td><td></td><td>Dactylocnemis spp. ( Neuseeland)</td></tr>
+<tr><td></td><td></td><td>Dactylocnemis spp. (Neuseeland)</td></tr>
 <tr><td></td><td>Gekko gecko Tokeh</td><td></td></tr>
 <tr><td>Gonatodes daudini</td><td></td><td></td></tr>
 <tr><td></td><td></td><td>Hoplodactylus spp. (Neuseeland)</td></tr>
@@ -1574,7 +1595,9 @@ Für folgende gefährdeten Arten freilebender Tiere und Pflanzen in Anhang II un
 <tr><td></td><td>Paroedura androyensis Grandidier’s Madagaskar-Erdgecko</td><td></td></tr>
 <tr><td></td><td>Paroedura masobe</td><td></td></tr>
 <tr><td></td><td>Phelsuma spp. Taggeckos</td><td></td></tr>
-<tr><td></td><td></td><td>Phyllurus spp. (Australien)</td></tr>
+<tr><td></td><td></td><td>Phyllurus spp. (Australien) (ausgenommen die Arten in Anhang II)</td></tr>
+<tr><td></td><td>Phyllurus amnicola</td><td></td></tr>
+<tr><td></td><td>Phyllurus caudiannulatus</td><td></td></tr>
 <tr><td></td><td>Rhoptropella spp.</td><td></td></tr>
 <tr><td></td><td></td><td>Saltuarius spp. (Australien)</td></tr>
 <tr><td></td><td></td><td>Sphaerodactylus armasi (Kuba)</td></tr>
@@ -1604,9 +1627,10 @@ Für folgende gefährdeten Arten freilebender Tiere und Pflanzen in Anhang II un
 <tr><td></td><td>Heloderma spp. Krustenechsen</td><td></td></tr>
 <tr><td>Heloderma horridum charlesbogerti</td><td></td><td></td></tr>
 <tr><td>Iguanidae Leguane</td><td></td><td></td></tr>
-<tr><td></td><td>Amblyrhynchus cristatus Meerechse</td><td></td></tr>
+<tr><td>Amblyrhynchus cristatus Meerechse</td><td></td><td></td></tr>
 <tr><td>Brachylophus spp. Fidschi-Leguane</td><td></td><td></td></tr>
-<tr><td></td><td>Conolophus spp. Drusenköpfe</td><td></td></tr>
+<tr><td></td><td>Cachryx spp.</td><td></td></tr>
+<tr><td>Conolophus spp. Drusenköpfe</td><td></td><td></td></tr>
 <tr><td></td><td>Ctenosaura spp. Schwarzleguane</td><td></td></tr>
 <tr><td>Cyclura spp. Wirtelschwanzleguane</td><td></td><td></td></tr>
 <tr><td></td><td>Iguana spp. Grüne Leguane</td><td></td></tr>
@@ -1614,11 +1638,12 @@ Für folgende gefährdeten Arten freilebender Tiere und Pflanzen in Anhang II un
 <tr><td></td><td>Phrynosoma spp. Krötenechsen</td><td></td></tr>
 <tr><td>Sauromalus varius Esteban-Chuckwalla</td><td></td><td></td></tr>
 <tr><td>Lacertidae Eidechsen</td><td></td><td></td></tr>
+<tr><td></td><td></td><td>Galliotia spp. (Europäische Union), (ausgenommen G. simonyi in Anhang I)</td></tr>
 <tr><td>Gallotia simonyi Hierro-Rieseneidechse</td><td></td><td></td></tr>
 <tr><td></td><td>Podarcis lilfordi Balearen-Eidechse</td><td></td></tr>
 <tr><td></td><td>Podarcis pityusensis Pityusen-Eidechse</td><td></td></tr>
 <tr><td>Lanthanotidae Taubwaranae</td><td></td><td></td></tr>
-<tr><td></td><td>Lanthanotidae spp.[^t-39]</td><td></td></tr>
+<tr><td></td><td>Lanthanotidae spp.[^t-30]</td><td></td></tr>
 <tr><td>Polychrotidae Anoles</td><td></td><td></td></tr>
 <tr><td></td><td></td><td>Anolis agueroi (Kuba)</td></tr>
 <tr><td></td><td></td><td>Anolis baracoa (Kuba)</td></tr>
@@ -1667,10 +1692,10 @@ Für folgende gefährdeten Arten freilebender Tiere und Pflanzen in Anhang II un
 <tr><td>Casarea dussumieri Rundinsel-Boa</td><td></td><td></td></tr>
 <tr><td>Colubridae Land- und Baumnattern</td><td></td><td></td></tr>
 <tr><td></td><td></td><td>Atretium schistosum (Indien) Olive Kielrücken-Wasserschlange</td></tr>
+<tr><td></td><td>Boiga westermanni Indische Eierschlange</td><td></td></tr>
 <tr><td></td><td></td><td>Cerberus rhynchops (Indien) Hundskopf-Wassertrugnatter</td></tr>
 <tr><td></td><td>Clelia clelia Mussurana</td><td></td></tr>
 <tr><td></td><td>Cyclagras gigas Brasilianische Glattnatter</td><td></td></tr>
-<tr><td></td><td>Elachistodon westermanni Indische Eierschlange</td><td></td></tr>
 <tr><td></td><td>Ptyas mucosus Rattennatter</td><td></td></tr>
 <tr><td></td><td></td><td>Xenochrophis piscator (Indien) Fischernatter</td></tr>
 <tr><td>Elapidae Giftnattern</td><td></td><td></td></tr>
@@ -1698,6 +1723,8 @@ Für folgende gefährdeten Arten freilebender Tiere und Pflanzen in Anhang II un
 <tr><td></td><td>Tropidophiidae spp.</td><td></td></tr>
 <tr><td>Viperidae Vipern</td><td></td><td></td></tr>
 <tr><td></td><td>Atheris desaixi</td><td></td></tr>
+<tr><td>Bitis harenna</td><td></td><td></td></tr>
+<tr><td>Bitis parviocula</td><td></td><td></td></tr>
 <tr><td></td><td>Bitis worthingtoni</td><td></td></tr>
 <tr><td></td><td></td><td>Crotalus durissus (Honduras) Schreckens-Klapperschlange</td></tr>
 <tr><td></td><td></td><td>Daboia russelii (Indien) Kettenviper</td></tr>
@@ -1710,14 +1737,14 @@ Für folgende gefährdeten Arten freilebender Tiere und Pflanzen in Anhang II un
 <tr><td>Carettochelyidae Neuguinea-Weichschildkröten</td><td></td><td></td></tr>
 <tr><td></td><td>Carettochelys insculpta Neuguinea-Weichschildkröten</td><td></td></tr>
 <tr><td>Chelidae Schlangenhalsschildkröten</td><td></td><td></td></tr>
-<tr><td></td><td>Chelodina mccordi[^t-40] McCords Schlangenhalsschildkröte</td><td></td></tr>
+<tr><td></td><td>Chelodina mccordi[^t-31] McCords Schlangenhalsschildkröte</td><td></td></tr>
 <tr><td></td><td>Chelus fimbriata Fransenschildkröte</td><td></td></tr>
 <tr><td></td><td>Chelus orinocensis Matamata</td><td></td></tr>
 <tr><td>Pseudemydura umbrina Falsche Spitzkopfschildkröte</td><td></td><td></td></tr>
 <tr><td>Cheloniidae Meerschildkröten</td><td></td><td></td></tr>
 <tr><td>Cheloniidae spp.</td><td></td><td></td></tr>
 <tr><td>Chelydridae Alligatorschildkröten</td><td></td><td></td></tr>
-<tr><td></td><td>*Chelydra serpentina* Schnappschildkröte</td><td></td></tr>
+<tr><td></td><td>Chelydra serpentina Schnappschildkröte</td><td></td></tr>
 <tr><td></td><td>Macroclemys temminckii Geierschildkröte</td><td></td></tr>
 <tr><td>Dermatemydidae Tabasco-Schildkröten</td><td></td><td></td></tr>
 <tr><td></td><td>Dermatemys mawii Tabasco-Schildkröte</td><td></td></tr>
@@ -1729,7 +1756,7 @@ Für folgende gefährdeten Arten freilebender Tiere und Pflanzen in Anhang II un
 <tr><td></td><td>Emydoidea blandingii Amerikanische Sumpfschildkröte</td><td></td></tr>
 <tr><td></td><td>Glyptemys insculpta Waldbachschildkröte</td><td></td></tr>
 <tr><td>Glyptemys muhlenbergii Mühlenberg-Wasserschildkröte</td><td></td><td></td></tr>
-<tr><td></td><td></td><td>Graptemys spp. (USA, ausgenommen Arten in Anhang II)</td></tr>
+<tr><td></td><td></td><td>Graptemys spp. (USA) (ausgenommen Arten in Anhang II)</td></tr>
 <tr><td></td><td>Graptemys barbouri</td><td></td></tr>
 <tr><td></td><td>Graptemys ernesti</td><td></td></tr>
 <tr><td></td><td>Graptemys gibbonsi</td><td></td></tr>
@@ -1741,11 +1768,11 @@ Für folgende gefährdeten Arten freilebender Tiere und Pflanzen in Anhang II un
 <tr><td>Geoemydidae</td><td></td><td></td></tr>
 <tr><td>Batagur affinis</td><td></td><td></td></tr>
 <tr><td>Batagur baska Batagur-Schildkröte</td><td></td><td></td></tr>
-<tr><td></td><td>Batagur borneoensis[^t-41]</td><td></td></tr>
+<tr><td></td><td>Batagur borneoensis[^t-32]</td><td></td></tr>
 <tr><td></td><td>Batagur dhongoka</td><td></td></tr>
 <tr><td>Batagur kachuga Rotkronen- oder Bengalen-Dachschildkröte</td><td></td><td></td></tr>
-<tr><td></td><td>Batagur trivittata[^t-42]</td><td></td></tr>
-<tr><td></td><td>Cuora spp.[^t-43] (Ausgenommen die Arten in Anhang I) Scharnierschildkröten</td><td></td></tr>
+<tr><td></td><td>Batagur trivittata[^t-33]</td><td></td></tr>
+<tr><td></td><td>Cuora spp.[^t-34] (Ausgenommen die Arten in Anhang I) Scharnierschildkröten</td><td></td></tr>
 <tr><td>Cuora bourreti Zentralvietnamesische Scharnierschildkröte</td><td></td><td></td></tr>
 <tr><td>Cuora galbinifrons Hinterindische- oder Dreistreifen-Scharnierschildkröte</td><td></td><td></td></tr>
 <tr><td>Cuora picturata Südvietnamesische Scharnierschildkröte</td><td></td><td></td></tr>
@@ -1754,8 +1781,8 @@ Für folgende gefährdeten Arten freilebender Tiere und Pflanzen in Anhang II un
 <tr><td></td><td>Geoemyda japonica Japanische Zacken-Erdschildkröte</td><td></td></tr>
 <tr><td></td><td>Geoemyda spengleri Zacken-Erdschildkröte</td><td></td></tr>
 <tr><td></td><td>Hardella thurjii Ganges-Diademschildkröte</td><td></td></tr>
-<tr><td></td><td>Heosemys annandalii[^t-44] Tempelschildkröte</td><td></td></tr>
-<tr><td></td><td>Heosemys depressa[^t-45] Flache Erdschildkröte</td><td></td></tr>
+<tr><td></td><td>Heosemys annandalii[^t-35] Tempelschildkröte</td><td></td></tr>
+<tr><td></td><td>Heosemys depressa[^t-36] Flache Erdschildkröte</td><td></td></tr>
 <tr><td></td><td>Heosemys grandis Riesen-Erdschildkröte</td><td></td></tr>
 <tr><td></td><td>Heosemys spinosa Stachel-Erdschildkröte</td><td></td></tr>
 <tr><td></td><td>Leucocephalon yuwonoi Sulawesi-Erdschildkröte</td><td></td></tr>
@@ -1763,12 +1790,9 @@ Für folgende gefährdeten Arten freilebender Tiere und Pflanzen in Anhang II un
 <tr><td></td><td>Malayemys macrocephala</td><td></td></tr>
 <tr><td></td><td>Malaemys subtrijuga</td><td></td></tr>
 <tr><td>Mauremys annamensis Annam-Wasserschildkröte</td><td></td><td></td></tr>
-<tr><td></td><td></td><td>Mauremys iversoni (China) Iversons Bachschildkröte</td></tr>
 <tr><td></td><td>Mauremys japonica Japanische Sumpfschildkröte</td><td></td></tr>
-<tr><td></td><td></td><td>Mauremys megalocephala (China) Chinesische Dickkopfschildkröte</td></tr>
 <tr><td></td><td>Mauremys mutica Dreikiel-Wasserschildkröte</td><td></td></tr>
 <tr><td></td><td>Mauremys nigricans Chinesische Rothalsschildkröte</td><td></td></tr>
-<tr><td></td><td></td><td>Mauremys pritchardi (China) Pritchards Bachschildkröte</td></tr>
 <tr><td></td><td></td><td>Mauremys reevesii (China) Chinesische Dreikielschildkröte</td></tr>
 <tr><td></td><td></td><td>Mauremys sinensis (China) Chinesische Streifenschildkröte</td></tr>
 <tr><td>Melanochelys tricarinata Dreikiel-Erdschildkröte</td><td></td><td></td></tr>
@@ -1776,14 +1800,11 @@ Für folgende gefährdeten Arten freilebender Tiere und Pflanzen in Anhang II un
 <tr><td>Morenia ocellata Hinterindische Pfauenaugen-Sumpfschildkröte</td><td></td><td></td></tr>
 <tr><td></td><td>Morenia petersi Vorderindische Pfauenaugen-Sumpfschildkröte</td><td></td></tr>
 <tr><td></td><td>Notochelys platynota Plattrückenschildkröte</td><td></td></tr>
-<tr><td></td><td></td><td>Ocadia glyphistoma (China) Guangxi-Streifenschildkröte</td></tr>
-<tr><td></td><td></td><td>Ocadia philippeni (China) Philippens Streifenschildkröte</td></tr>
-<tr><td></td><td>Orlitia borneensis[^t-46] Borneo-Flussschildkröte</td><td></td></tr>
+<tr><td></td><td>Orlitia borneensis[^t-37] Borneo-Flussschildkröte</td><td></td></tr>
 <tr><td></td><td>Pangshura spp.</td><td></td></tr>
 <tr><td>Pangshura tecta Indische Dachschildkröte</td><td></td><td></td></tr>
 <tr><td></td><td>Rhinoclemmys spp. Amerikanische Erdschildkröten</td><td></td></tr>
 <tr><td></td><td>Sacalia bealei Chinesische Pfauenaugenschildkröte</td><td></td></tr>
-<tr><td></td><td></td><td>Sacalia pseudocellata (China) Hainan-Sumpfschildkröte</td></tr>
 <tr><td></td><td>Sacalia quadriocellata Vieraugenschildkröte</td><td></td></tr>
 <tr><td></td><td>Siebenrockiella crassicollis Indische Dornschildkröte</td><td></td></tr>
 <tr><td></td><td>Siebenrockiella leytensis Philippinen-Erdschildkröte</td><td></td></tr>
@@ -1803,13 +1824,14 @@ Für folgende gefährdeten Arten freilebender Tiere und Pflanzen in Anhang II un
 <tr><td></td><td>Peltocephalus dumerilianus Dumerils Schienenschildkröte</td><td></td></tr>
 <tr><td></td><td>Podocnemis spp. Schienenschildkröten</td><td></td></tr>
 <tr><td>Testudinidae Landschildkröten</td><td></td><td></td></tr>
-<tr><td></td><td>Testudinidae spp.[^t-47]</td><td></td></tr>
+<tr><td></td><td>Testudinidae spp.[^t-38]</td><td></td></tr>
 <tr><td>Astrochelys radiata Strahlenschildkröte</td><td></td><td></td></tr>
 <tr><td>Astrochelys yniphora Madegassische Schnabelbrustschildkröte</td><td></td><td></td></tr>
 <tr><td>Chelonoidis nigra Elefantenschildkröte oder Galapagosriesenschildkröte</td><td></td><td></td></tr>
 <tr><td>Geochelone elegans Indische Sternschildkröte</td><td></td><td></td></tr>
 <tr><td>Geochelone platynota Burmesische Sternschildkröte</td><td></td><td></td></tr>
 <tr><td>Gopherus flavomarginatus Gelbrand-Gopherschildkröte</td><td></td><td></td></tr>
+<tr><td>Kinixys homeana Stütz-Gelenkschildkröte</td><td></td><td></td></tr>
 <tr><td>Malacochersus tornieri Spaltenschildkröte</td><td></td><td></td></tr>
 <tr><td>Psammobates geometricus Geometrische Landschildkröte</td><td></td><td></td></tr>
 <tr><td>Pyxis arachnoides Spinnenschildkröte</td><td></td><td></td></tr>
@@ -1861,7 +1883,8 @@ Für folgende gefährdeten Arten freilebender Tiere und Pflanzen in Anhang II un
 <tr><td>Sclerophrys superciliaris Zipfelkröte</td><td></td><td></td></tr>
 <tr><td>Calyptocephalellidae</td><td></td><td></td></tr>
 <tr><td></td><td></td><td>Calyptocephalella gayi (Chile)</td></tr>
-<tr><td>Centrolenidae Glasfrösche</td><td>*Centrolenidae* *spp.*</td><td></td></tr>
+<tr><td>Centrolenidae Glasfrösche</td><td></td><td></td></tr>
+<tr><td></td><td>Centrolenidae spp.</td><td></td></tr>
 <tr><td>Dendrobatidae Pfeilgiftfrösche</td><td></td><td></td></tr>
 <tr><td></td><td>Adelphobates spp.</td><td></td></tr>
 <tr><td></td><td>Ameerega spp.</td><td></td></tr>
@@ -1880,7 +1903,7 @@ Für folgende gefährdeten Arten freilebender Tiere und Pflanzen in Anhang II un
 <tr><td></td><td>Euphlyctis hexadactylus Sechszehenfrosch</td><td></td></tr>
 <tr><td></td><td>Hoplobatrachus tigerinus Asiatischer Ochsenfrosch, Tigerfrosch</td><td></td></tr>
 <tr><td>Hylidae Laubfrösche</td><td></td><td></td></tr>
-<tr><td></td><td>*Agalychnis* spp.[^t-48] Rotaugenlaubfrösche</td><td></td></tr>
+<tr><td></td><td>Agalychnis spp.[^t-39] Rotaugenlaubfrösche</td><td></td></tr>
 <tr><td>Mantellidae Mantellas</td><td></td><td></td></tr>
 <tr><td></td><td>Mantella spp. Mantellen, madegassische Giftfrösche</td><td></td></tr>
 <tr><td>Microhylidae Engmaulfrösche</td><td></td><td></td></tr>
@@ -1893,6 +1916,11 @@ Für folgende gefährdeten Arten freilebender Tiere und Pflanzen in Anhang II un
 <tr><td></td><td>Scaphiophryne spinosa</td><td></td></tr>
 <tr><td>Myobatrachidae Südfrösche</td><td></td><td></td></tr>
 <tr><td></td><td>Rheobatrachus spp. (Ausgenommen *Rheobatrachus silus* und *Rheobatrachus vitellinus*) Magenbrüterfrösche</td><td></td></tr>
+<tr><td>Ranidae Echte Frösche</td><td></td><td></td></tr>
+<tr><td></td><td>Pelophylax epeiroticus[^t-40]</td><td></td></tr>
+<tr><td></td><td>Pelophylax lessonae[^t-41]</td><td></td></tr>
+<tr><td></td><td>Pelophylax ridibundus[^t-42]</td><td></td></tr>
+<tr><td></td><td>Pelophylax shqipericus[^t-43]</td><td></td></tr>
 <tr><td>Telmatobiidae</td><td></td><td></td></tr>
 <tr><td>Telmatobius culeus</td><td></td><td></td></tr>
 <tr><td>CAUDATA Schwanzlurche</td><td></td><td></td></tr>
@@ -1905,20 +1933,24 @@ Für folgende gefährdeten Arten freilebender Tiere und Pflanzen in Anhang II un
 <tr><td>Hynobiidae Asiatische Landsalamander oder Winkelzahnmolche</td><td></td><td></td></tr>
 <tr><td></td><td></td><td>Hynobius amjiensis (China)</td></tr>
 <tr><td>Salamandridae Echte Salamander</td><td></td><td></td></tr>
-<tr><td></td><td></td><td>Echinotriton andersoni[^t-49](Japan)</td></tr>
+<tr><td></td><td></td><td>Echinotriton andersoni #18 Japan)</td></tr>
 <tr><td></td><td>Echinotriton chinhaiensis</td><td></td></tr>
 <tr><td></td><td>Echinotriton maxiquadratus</td><td></td></tr>
-<tr><td></td><td>Laotriton laoensis[^t-50] Laos-Warzenmolch</td><td></td></tr>
+<tr><td></td><td>Laotriton laoensis[^t-44] Laos-Warzenmolch</td><td></td></tr>
 <tr><td>Neurergus kaiseri Zagros-Molch</td><td></td><td></td></tr>
 <tr><td></td><td>Paramesotriton spp.</td><td></td></tr>
 <tr><td></td><td></td><td>Salamandra algira (Algerien)</td></tr>
 <tr><td></td><td>Tylototriton spp. Krokodilmolche</td><td></td></tr>
 <tr><td>Elasmobranchii Haie und Rochen</td><td></td><td></td></tr>
 <tr><td>CARCHARHINIFORMES Grundhaie</td><td></td><td></td></tr>
-<tr><td>Carcharhinidae Requiemhaie</td><td>*Carcharhinidae* spp.[^t-51]</td><td></td></tr>
-<tr><td></td><td>Carcharhinus falciformis[^t-52] Seidenhai</td><td></td></tr>
-<tr><td></td><td>Carcharhinus longimanus[^t-53] Weissspitzen-Hochseehai</td><td></td></tr>
-<tr><td>Sphyrnidae Hammerhaie</td><td>*Sphyrnidae* spp.</td><td></td></tr>
+<tr><td>Carcharhinidae Requiemhaie</td><td>Carcharhinidae spp.</td><td></td></tr>
+<tr><td></td><td>Carcharhinus falciformis Seidenhai</td><td></td></tr>
+<tr><td>Carcharhinus longimanus Weissspitzen-Hochseehai</td><td></td><td></td></tr>
+<tr><td>Sphyrnidae Hammerhaie</td><td></td><td></td></tr>
+<tr><td></td><td>Sphyrnidae spp.</td><td></td></tr>
+<tr><td>Triakidae Glatthaie</td><td></td><td></td></tr>
+<tr><td></td><td>Galeorhinus galeus[^t-45] Hundshai</td><td></td></tr>
+<tr><td></td><td>Mustelus spp.[^t-46]</td><td></td></tr>
 <tr><td>LAMNIFORMES Makrelenhaiartige</td><td></td><td></td></tr>
 <tr><td>Alopiidae Fuchshaie</td><td></td><td></td></tr>
 <tr><td></td><td>Alopias spp. Fuchshaie</td><td></td></tr>
@@ -1926,11 +1958,11 @@ Für folgende gefährdeten Arten freilebender Tiere und Pflanzen in Anhang II un
 <tr><td></td><td>Cetorhinus maximus Riesenhai</td><td></td></tr>
 <tr><td>Lamnidae Makrelenhaie</td><td></td><td></td></tr>
 <tr><td></td><td>Carcharodon carcharias Weisser Hai</td><td></td></tr>
-<tr><td></td><td>*Isurus oxyrinchus* Kurzflossen-Mako</td><td></td></tr>
+<tr><td></td><td>Isurus oxyrinchus Kurzflossen-Mako</td><td></td></tr>
 <tr><td></td><td>Isurus paucus Langflossen-Mako</td><td></td></tr>
 <tr><td></td><td>Lamna nasus Herringshai</td><td></td></tr>
 <tr><td>MYLIOBATIFORMES</td><td></td><td></td></tr>
-<tr><td>Myliobatidae Adler- und Teufelsrochen</td><td></td><td></td></tr>
+<tr><td>Mobulidae spp.</td><td></td><td></td></tr>
 <tr><td></td><td>Mobula spp.</td><td></td></tr>
 <tr><td>Potamotrygonidae Süsswasserrochen</td><td></td><td></td></tr>
 <tr><td></td><td></td><td>Paratrygon aiereba (Kolumbien)</td></tr>
@@ -1951,19 +1983,20 @@ Für folgende gefährdeten Arten freilebender Tiere und Pflanzen in Anhang II un
 <tr><td></td><td></td><td>Potamotrygon yepezi (Kolumbien)</td></tr>
 <tr><td>ORECTOLOBIFORMES Ammenhaie, Teppichhaie</td><td></td><td></td></tr>
 <tr><td>Rhincodontidae Walhaie</td><td></td><td></td></tr>
-<tr><td></td><td>Rhincodon typus Walhai</td><td></td></tr>
-<tr><td>PRISTIFORMES Sägerochen</td><td></td><td></td></tr>
-<tr><td>Pristidae spp.</td><td></td><td></td></tr>
+<tr><td>Rhincodon typus Walhai</td><td></td><td></td></tr>
 <tr><td>RHINOPRISTIFORMES</td><td></td><td></td></tr>
 <tr><td>Glaucostegidae</td><td></td><td></td></tr>
-<tr><td></td><td>Glaucostegus spp.</td><td></td></tr>
+<tr><td></td><td>Glaucostegus spp.[^t-47]<sup>,</sup>[^t-48]</td><td></td></tr>
+<tr><td>**Pristidae****spp**.</td><td></td><td></td></tr>
 <tr><td>Rhinidae Geigenrochen</td><td></td><td></td></tr>
-<tr><td></td><td>Rhinidae spp.</td><td></td></tr>
+<tr><td></td><td>Rhinidae spp.[^t-49]<sup>,</sup>[^t-50]</td><td></td></tr>
 <tr><td>Rhinobatidae Gitarrenfische</td><td></td><td></td></tr>
 <tr><td></td><td>Rhinobatidae spp.</td><td></td></tr>
 <tr><td>Actinopterygii Strahlenflosser</td><td></td><td></td></tr>
+<tr><td>SQUALIFORMES Dornhaiartige</td><td></td><td></td></tr>
+<tr><td></td><td>Centrophoridae spp.[^t-51]</td><td></td></tr>
 <tr><td>ACIPENSERIFORMES Störe</td><td></td><td></td></tr>
-<tr><td></td><td>ACIPENSERIFORMES (ausgenommend die Arten in Anhang I)</td><td></td></tr>
+<tr><td></td><td>ACIPENSERIFORMES (ausgenommen die Arten in Anhang I)</td><td></td></tr>
 <tr><td>Acipenseridae Eigentliche Störe</td><td></td><td></td></tr>
 <tr><td>Acipenser brevirostrum Kurznasenstör</td><td></td><td></td></tr>
 <tr><td>Acipenser sturio Baltischer Stör</td><td></td><td></td></tr>
@@ -1994,7 +2027,7 @@ Für folgende gefährdeten Arten freilebender Tiere und Pflanzen in Anhang II un
 <tr><td>Totoaba macdonaldi Macdonalds Umberfisch</td><td></td><td></td></tr>
 <tr><td>SILURIFORMES Welse</td><td></td><td></td></tr>
 <tr><td>Loricariidae Harnischwelse</td><td></td><td></td></tr>
-<tr><td></td><td>Hypancistrus zebra[^t-54] Zebrawels</td><td></td></tr>
+<tr><td></td><td>Hypancistrus zebra[^t-52] Zebrawels</td><td></td></tr>
 <tr><td>Pangasiidae Haiwelse</td><td></td><td></td></tr>
 <tr><td>Pangasianodon gigas Riesenwels</td><td></td><td></td></tr>
 <tr><td>SYNGNATHIFORMES Röhrenmäuler</td><td></td><td></td></tr>
@@ -2012,11 +2045,12 @@ Für folgende gefährdeten Arten freilebender Tiere und Pflanzen in Anhang II un
 <tr><td>ASPIDOCHIROTIDA</td><td></td><td></td></tr>
 <tr><td>Holothuriidae</td><td></td><td></td></tr>
 <tr><td></td><td>Holothuria (Microthele) fuscogilva</td><td></td></tr>
+<tr><td></td><td>Holothuria (Microthele) lessoni[^t-53]</td><td></td></tr>
 <tr><td></td><td>Holothuria (Microthele) nobilis</td><td></td></tr>
 <tr><td></td><td>Holothuria (Microthele) whitmaei</td><td></td></tr>
 <tr><td>Stichopodidae Seewalzen</td><td></td><td></td></tr>
 <tr><td></td><td></td><td>Isostichopus fuscus (Ecuador) Seegurke</td></tr>
-<tr><td></td><td>Thelenota spp.[^t-55]</td><td></td></tr>
+<tr><td></td><td>Thelenota spp.</td><td></td></tr>
 <tr><td>Arthropoda</td><td></td><td></td></tr>
 <tr><td>Arachnida</td><td></td><td></td></tr>
 <tr><td>ARANEAE Echte Spinnen</td><td></td><td></td></tr>
@@ -2024,6 +2058,7 @@ Für folgende gefährdeten Arten freilebender Tiere und Pflanzen in Anhang II un
 <tr><td></td><td>Aphonopelma pallidum</td><td></td></tr>
 <tr><td></td><td>Brachypelma spp.</td><td></td></tr>
 <tr><td></td><td></td><td>Caribena versicolor (EU)</td></tr>
+<tr><td></td><td>Grammostola rosea</td><td></td></tr>
 <tr><td></td><td>Poecilotheria spp.</td><td></td></tr>
 <tr><td></td><td>Sericopelma angustum</td><td></td></tr>
 <tr><td></td><td>Sericopelma embrithes</td><td></td></tr>
@@ -2109,7 +2144,7 @@ Für folgende gefährdeten Arten freilebender Tiere und Pflanzen in Anhang II un
 <tr><td>Cephalopoda</td><td></td><td></td></tr>
 <tr><td>NAUTILIDA</td><td></td><td></td></tr>
 <tr><td></td><td>Nautilidae spp.</td><td></td></tr>
-<tr><td>Gastropoda</td><td></td><td></td></tr>
+<tr><td>Gastropoda Schnecken</td><td></td><td></td></tr>
 <tr><td>Cepolidae</td><td></td><td></td></tr>
 <tr><td>Polymita spp</td><td></td><td></td></tr>
 <tr><td>MESOGASTROPODA Breitzüngler</td><td></td><td></td></tr>
@@ -2126,26 +2161,30 @@ Für folgende gefährdeten Arten freilebender Tiere und Pflanzen in Anhang II un
 <tr><td></td><td>ANTIPATHARIA spp.</td><td></td></tr>
 <tr><td>GORGONACEAE</td><td></td><td></td></tr>
 <tr><td>Corallidae</td><td></td><td></td></tr>
-<tr><td></td><td></td><td>Corallium elatius (China)</td></tr>
 <tr><td></td><td></td><td>Corallium japonicum (China)</td></tr>
-<tr><td></td><td></td><td>Corallium konjoi (China)</td></tr>
-<tr><td></td><td></td><td>Corallium secundum (China)</td></tr>
+<tr><td></td><td></td><td>Pleurocorallium elatius (China)</td></tr>
+<tr><td></td><td></td><td>Pleurocorallium konjoi (China)</td></tr>
+<tr><td></td><td></td><td>Pleurocorallium secundum (China)</td></tr>
 <tr><td>HELIOPORACEAE</td><td></td><td></td></tr>
 <tr><td>Helioporidae Blaue Korallen</td><td></td><td></td></tr>
-<tr><td></td><td>Helioporidae spp.[^t-56]</td><td></td></tr>
+<tr><td></td><td>Helioporidae spp.[^t-54]</td><td></td></tr>
 <tr><td>SCLERACTINIA Steinkorallen</td><td></td><td></td></tr>
-<tr><td></td><td>SCLERACTINIA spp.[^t-57]</td><td></td></tr>
+<tr><td></td><td>SCLERACTINIA spp.[^t-55]</td><td></td></tr>
 <tr><td>STOLONIFERA Röhrenkorallen</td><td></td><td></td></tr>
 <tr><td>Tubiporidae Orgelkorallen</td><td></td><td></td></tr>
-<tr><td></td><td>Tubiporidae spp.[^t-58]</td><td></td></tr>
+<tr><td></td><td>Tubiporidae spp.[^t-56]</td><td></td></tr>
 <tr><td>Hydrozoa</td><td></td><td></td></tr>
 <tr><td>MILLEPORINA Athekaten</td><td></td><td></td></tr>
 <tr><td>Milleporidae Feuerkorallen</td><td></td><td></td></tr>
-<tr><td></td><td>Milleporidae spp.[^t-59]</td><td></td></tr>
+<tr><td></td><td>Milleporidae spp.[^t-57]</td><td></td></tr>
 <tr><td>STYLASTERINA</td><td></td><td></td></tr>
 <tr><td>Stylasteridae Filigrankorallen</td><td></td><td></td></tr>
-<tr><td></td><td>Stylasteridae spp.[^t-60]</td><td></td></tr>
-<tr><td>Flora (Pflanzen)</td><td></td><td></td></tr>
+<tr><td></td><td>Stylasteridae spp.[^t-58]</td><td></td></tr>
+</table>
+
+<table>
+<tr><th>Anhang I</th><th>Anhang II</th><th>Anhang III</th></tr>
+<tr><td>FLORA (Pflanzen)</td><td></td><td></td></tr>
 <tr><td>Agavaceae Agavengewächse</td><td></td><td></td></tr>
 <tr><td>Agave parviflora Little-Princess-Agave</td><td></td><td></td></tr>
 <tr><td></td><td>Agave victoriae‑reginae #4 Königin-Victoria-Agave</td><td></td></tr>
@@ -2157,6 +2196,11 @@ Für folgende gefährdeten Arten freilebender Tiere und Pflanzen in Anhang II un
 <tr><td>Amaryllidaceae Amaryllisgewächse</td><td></td><td></td></tr>
 <tr><td></td><td>Galanthus spp. #4 Schneeglöckchen</td><td></td></tr>
 <tr><td></td><td>Sternbergia spp. #4 Gewitterblumen</td><td></td></tr>
+<tr><td>Anacampserotaceae</td><td></td><td></td></tr>
+<tr><td></td><td>Anacampseros spp. #4 (inclusive Avonia spp., ausgenommen die Art in Anhang I)</td><td></td></tr>
+<tr><td>Anacampseros quinaria</td><td></td><td></td></tr>
+<tr><td></td><td>Lewisia serrata #4</td><td></td></tr>
+<tr><td></td><td></td><td>Portulacaria pygmaea (Südafrika)</td></tr>
 <tr><td>Anacardiaceae Sumachgewächse</td><td></td><td></td></tr>
 <tr><td></td><td>Operculicarya decaryi</td><td></td></tr>
 <tr><td></td><td>Operculicarya hyphaenoides</td><td></td></tr>
@@ -2179,15 +2223,17 @@ Für folgende gefährdeten Arten freilebender Tiere und Pflanzen in Anhang II un
 <tr><td>Berberidaceae Berberitzengewächse</td><td></td><td></td></tr>
 <tr><td></td><td>Podophyllum hexandrum #2 Himalaya-Maiapfel</td><td></td></tr>
 <tr><td>Bignoniaceae Trompetenbaumgewächse</td><td></td><td></td></tr>
-<tr><td></td><td>Handroanthus spp.[^t-61] #17</td><td></td></tr>
-<tr><td></td><td>Roseodendron spp.[^t-62] #17</td><td></td></tr>
-<tr><td></td><td>Tabebuia spp.[^t-63] #17</td><td></td></tr>
+<tr><td></td><td>Handroanthus spp. #17</td><td></td></tr>
+<tr><td></td><td>Roseodendron spp. #17</td><td></td></tr>
+<tr><td></td><td>Tabebuia spp. #17</td><td></td></tr>
 <tr><td>Bromeliaceae Ananasgewächse</td><td></td><td></td></tr>
 <tr><td></td><td>Tillandsia harrisii #4</td><td></td></tr>
 <tr><td></td><td>Tillandsia kammii #4</td><td></td></tr>
 <tr><td></td><td>Tillandsia xerographica #4</td><td></td></tr>
+<tr><td>Burseraceae</td><td></td><td></td></tr>
+<tr><td></td><td>Commiphora wightii #19 Indischer Bdelliumbaum, Guggul</td><td></td></tr>
 <tr><td>Cactaceae Kakteen</td><td></td><td></td></tr>
-<tr><td></td><td>Cactaceae spp. [^t-64] #4, ausgenommen Pereskia spp., Pereskiopsis spp. und Quiabentia spp., enthält u.A. Peyote (Lophophora williamsii), San Pedro (Echinopsis pachanoi), Königin der Nacht (Selenicereus grandiflorus), Feigenkaktus oder «nopal» (Opuntia spp.), Drachenfrucht oder Pitaya (Hylocereus spp., Selenicereus spp.), Regenhölzer oder «palos de agua» oder «rainsticks» (Corryocactus spp., Echinopsis spp., Eulychnia spp.)</td><td></td></tr>
+<tr><td></td><td>Cactaceae spp. [^t-59] #4, ausgenommen Pereskia spp., Pereskiopsis spp. und Quiabentia spp., enthält u.A. Peyote (Lophophora williamsii), San Pedro (Echinopsis pachanoi), Königin der Nacht (Selenicereus grandiflorus), Feigenkaktus oder «nopal» (Opuntia spp.), Drachenfrucht oder Pitaya (Hylocereus spp., Selenicereus spp.), Regenhölzer oder «palos de agua» oder «rainsticks» (Corryocactus spp., Echinopsis spp., Eulychnia spp.)</td><td></td></tr>
 <tr><td>Ariocarpus spp. Wollfruchtkaktus</td><td></td><td></td></tr>
 <tr><td>Astrophytum asterias Seeigelkaktus</td><td></td><td></td></tr>
 <tr><td>Aztekium ritteri Aztekenkaktus</td><td></td><td></td></tr>
@@ -2265,12 +2311,13 @@ Für folgende gefährdeten Arten freilebender Tiere und Pflanzen in Anhang II un
 <tr><td>Ebenaceae Ebenholzgewächse</td><td></td><td></td></tr>
 <tr><td></td><td>Diospyros spp. #5 (Populationen von Madagaskar)</td><td></td></tr>
 <tr><td>Euphorbiaceae Wolfsmilchgewächse</td><td></td><td></td></tr>
-<tr><td></td><td>Euphorbia spp.[^t-65] #4 (nur sukkulente Arten gemäss der jeweils aktuellen Ausgabe von «The CITES Checklist of Succulent *Euphorbia* Taxa») enthält u.A. Candelilla-Wachs (*E. antisyphilitica*)</td><td></td></tr>
+<tr><td></td><td>Euphorbia spp.[^t-60] #4 (nur sukkulente Arten gemäss der jeweils aktuellen Ausgabe von «The CITES Checklist of Succulent *Euphorbia* Taxa») enthält u.A. Candelilla-Wachs (*E. antisyphilitica*), ausgenommen fertige Produkte, verpackt und versandfertig für den Einzelhandel von *E. antisyphilitica.*</td><td></td></tr>
 <tr><td>Euphorbia ambovombensis</td><td></td><td></td></tr>
 <tr><td>Euphorbia capsaintemariensis</td><td></td><td></td></tr>
+<tr><td>Euphorbia bupleurifolia</td><td></td><td></td></tr>
 <tr><td>Euphorbia cremersii (enthält forma *viridifolia* und var. *rakotozafyi*)</td><td></td><td></td></tr>
 <tr><td>Euphorbia cylindrifolia (enthält ssp. *tuberifera*)</td><td></td><td></td></tr>
-<tr><td>Euphorbia decaryi (enthält *vars. ampanihyensis, robinsonii* und *spirosticha*)</td><td></td><td></td></tr>
+<tr><td>Euphorbia decaryi (enthält vars. ampanihyensis, robinsonii und *spirosticha*)</td><td></td><td></td></tr>
 <tr><td>Euphorbia francoisii</td><td></td><td></td></tr>
 <tr><td>Euphorbia moratii (enthält vars. *antsingiensis, bemarahensis* und *multiflora*)</td><td></td><td></td></tr>
 <tr><td>Euphorbia parvicyathophora</td><td></td><td></td></tr>
@@ -2298,40 +2345,45 @@ Für folgende gefährdeten Arten freilebender Tiere und Pflanzen in Anhang II un
 <tr><td></td><td>Afzelia spp. #17 (betrifft nur die Afrikanischen Populationen) Afrikanische Mahagoni</td><td></td></tr>
 <tr><td></td><td>Dalbergia spp. #15 (Ausgenommen die Arten in Anhang I)</td><td></td></tr>
 <tr><td>Dalbergia nigra Rio-Palisander, Brasilianisches Rosenholz, Jacaranda</td><td></td><td></td></tr>
-<tr><td></td><td></td><td>Dipteryx panamensis[^t-66] (Costa Rica, Nicaragua) Almendro de montaña, Waldmandelbaum</td></tr>
-<tr><td></td><td>Dipteryx spp.[^t-67] #17</td><td></td></tr>
+<tr><td></td><td>Dipteryx spp. #17</td><td></td></tr>
 <tr><td></td><td>Guibourtia demeusei #15</td><td></td></tr>
 <tr><td></td><td>Guibourtia pellegriniana #15</td><td></td></tr>
 <tr><td></td><td>Guibourtia tessmanii #15</td><td></td></tr>
-<tr><td></td><td>Paubrasilia echinata #10 Fernambuk- oder Pernambuco-Holz, pau-brasil oder Brazilwood</td><td></td></tr>
+<tr><td></td><td>Paubrasilia echinata[^t-61] #10 Fernambuk- oder Pernambuco-Holz, pau-brasil oder Brazilwood</td><td></td></tr>
 <tr><td></td><td>Pericopsis elata #17 Afrormosia, Afrikanisches Teak</td><td></td></tr>
 <tr><td></td><td>Platymiscium parviflorum #4 Macacauba</td><td></td></tr>
 <tr><td></td><td>Pterocarpus spp. #17 (betrifft nur die Afrikanischen Populationen)</td><td></td></tr>
 <tr><td></td><td>Pterocarpus santalinus #7 Rotsandelholzbaum, Padouk, Kaliaturholzbaum, Rotes Sandelholz</td><td></td></tr>
 <tr><td></td><td>Senna meridionalis</td><td></td></tr>
 <tr><td>Liliaceae (Aloaceae) Liliengewächse</td><td></td><td></td></tr>
-<tr><td></td><td>Aloe spp. #4 (Ausgenommen ist *Aloe vera,* wird auch bezeichnet als *Aloe barbadensis* und fertige Produkte von *Aloe ferox* = Kap-Aloe oder Schwedenbitter, verpackt und versandfertig für den Einzelhandel)</td><td></td></tr>
+<tr><td></td><td>Aloe spp. #4 (Ausgenommen ist *Aloe vera,* wird auch bezeichnet als *Aloe barbadensis* und fertige Produkte, verpackt und versandfertig für den Einzelhandel von *Aloe ferox* = Kap-Aloe oder Schwedenbitter)</td><td></td></tr>
 <tr><td>Aloe albida</td><td></td><td></td></tr>
 <tr><td>Aloe albiflora</td><td></td><td></td></tr>
 <tr><td>Aloe alfredii</td><td></td><td></td></tr>
 <tr><td>Aloe bakeri</td><td></td><td></td></tr>
 <tr><td>Aloe bellatula</td><td></td><td></td></tr>
 <tr><td>Aloe calcairophila</td><td></td><td></td></tr>
-<tr><td>Aloe compressa (enthält vars. *paucituberculata, rugosquamosa* und *schistophila*)</td><td></td><td></td></tr>
+<tr><td>Aloe compressa (enthält vars. *paucituberculata* und *schistophila*)</td><td></td><td></td></tr>
 <tr><td>Aloe delphinensis</td><td></td><td></td></tr>
 <tr><td>Aloe descoingsii</td><td></td><td></td></tr>
 <tr><td>Aloe fragilis</td><td></td><td></td></tr>
-<tr><td>Aloe haworthioides (enthält var. *aurantiaca*)</td><td></td><td></td></tr>
+<tr><td>Aloe haworthioides (enthält var. aurantiaca)</td><td></td><td></td></tr>
 <tr><td>Aloe helenae</td><td></td><td></td></tr>
-<tr><td>Aloe laeta (enthält var. *maniaensis*)</td><td></td><td></td></tr>
+<tr><td>Aloe laeta (enthält var. maniaensis)</td><td></td><td></td></tr>
 <tr><td>Aloe parallelifolia</td><td></td><td></td></tr>
 <tr><td>Aloe parvula</td><td></td><td></td></tr>
-<tr><td>Aloe pillansii</td><td></td><td></td></tr>
 <tr><td>Aloe polyphylla</td><td></td><td></td></tr>
 <tr><td>Aloe rauhii</td><td></td><td></td></tr>
-<tr><td>Aloe suzannae</td><td></td><td></td></tr>
+<tr><td>Aloe rugosqamosa</td><td></td><td></td></tr>
 <tr><td>Aloe versicolor</td><td></td><td></td></tr>
 <tr><td>Aloe vossii</td><td></td><td></td></tr>
+<tr><td>Aloestrela suzannae</td><td></td><td></td></tr>
+<tr><td></td><td>Aloiampelos spp. #4</td><td></td></tr>
+<tr><td></td><td>Aloidendron spp. #4 (ausgenommen die Arten im Anhang I)</td><td></td></tr>
+<tr><td>Aloidendron pillansii</td><td></td><td></td></tr>
+<tr><td></td><td>Aristaloe spp. #4</td><td></td></tr>
+<tr><td></td><td>Gonialoe spp. #4</td><td></td></tr>
+<tr><td></td><td>Kumara spp. #4</td><td></td></tr>
 <tr><td>Magnoliaceae Magnoliengewächse</td><td></td><td></td></tr>
 <tr><td></td><td></td><td>Magnolia liliifera var. obovata #1 (Nepal) Taungme-Baum</td></tr>
 <tr><td>Malvaceae Malvengewächse</td><td></td><td></td></tr>
@@ -2349,22 +2401,23 @@ Für folgende gefährdeten Arten freilebender Tiere und Pflanzen in Anhang II un
 <tr><td>Oleaceae Ölbaumgewächse</td><td></td><td></td></tr>
 <tr><td></td><td></td><td>Fraxinus mandshurica #5 (Russische Föderation)</td></tr>
 <tr><td>Orchidaceae Orchideen</td><td></td><td></td></tr>
-<tr><td></td><td>Orchidaceae spp.[^t-68] #4 enthält u.A. Salep</td><td></td></tr>
-<tr><td>Aerangis ellisii[^t-69]</td><td></td><td></td></tr>
-<tr><td>Cattleya jongheana[^t-70]</td><td></td><td></td></tr>
-<tr><td>Cattleya lobata[^t-71]</td><td></td><td></td></tr>
-<tr><td>Dendrobium cruentum[^t-72]</td><td></td><td></td></tr>
-<tr><td>Mexipedium xerophyticum[^t-73]</td><td></td><td></td></tr>
-<tr><td>Paphiopedilum spp.[^t-74] Venus-Schuh</td><td></td><td></td></tr>
-<tr><td>Peristeria elata[^t-75]</td><td></td><td></td></tr>
-<tr><td>Phragmipedium spp.[^t-76]</td><td></td><td></td></tr>
-<tr><td>Renanthera imschootiana[^t-77]</td><td></td><td></td></tr>
+<tr><td></td><td>Orchidaceae spp.[^t-62] #4 enthält u.A. Salep</td><td></td></tr>
+<tr><td>Aerangis ellisii[^t-63]</td><td></td><td></td></tr>
+<tr><td>Cattleya jongheana[^t-64]</td><td></td><td></td></tr>
+<tr><td>Cattleya lobata[^t-65]</td><td></td><td></td></tr>
+<tr><td>Dendrobium cruentum[^t-66]</td><td></td><td></td></tr>
+<tr><td>Mexipedium xerophyticum[^t-67]</td><td></td><td></td></tr>
+<tr><td>Paphiopedilum spp.[^t-68] Venus-Schuh</td><td></td><td></td></tr>
+<tr><td>Peristeria elata[^t-69]</td><td></td><td></td></tr>
+<tr><td>Phragmipedium spp.[^t-70]</td><td></td><td></td></tr>
+<tr><td>Renanthera imschootiana[^t-71]</td><td></td><td></td></tr>
 <tr><td>Orobanchaceae Sommerwurzgewächse</td><td></td><td></td></tr>
 <tr><td></td><td>Cistanche deserticola #4 Wüsten-Ginseng</td><td></td></tr>
 <tr><td>Palmae (Arecaceae) Palmen</td><td></td><td></td></tr>
 <tr><td></td><td>Beccariophoenix madagascariensis #4</td><td></td></tr>
 <tr><td></td><td>Dypsis decaryi #4 Dreieckpalme, Dreikantpalme</td><td></td></tr>
 <tr><td>Dypsis decipiens Trügerische Goldfruchtpalme</td><td></td><td></td></tr>
+<tr><td>Jubaea chilensis Honigpalme</td><td></td><td></td></tr>
 <tr><td></td><td>Lemurophoenix halleuxii</td><td></td></tr>
 <tr><td></td><td></td><td>Lodoicea maldivica #13 (Seychellen) Seychellennuss</td></tr>
 <tr><td></td><td>Marojejya darianii</td><td></td></tr>
@@ -2387,14 +2440,9 @@ Für folgende gefährdeten Arten freilebender Tiere und Pflanzen in Anhang II un
 <tr><td></td><td></td><td>Pinus koraiensis #5 (Russland)</td></tr>
 <tr><td>Podocarpaceae Steineibengewächse</td><td></td><td></td></tr>
 <tr><td></td><td></td><td>Podocarpus neriifolius #1 (Nepal) Oleanderblättrige Steineibe</td></tr>
-<tr><td>Podocarpus parlatorei Pinoholzbaum</td><td></td><td></td></tr>
-<tr><td>Portulacaceae Portulakgewächse</td><td></td><td></td></tr>
-<tr><td></td><td>Anacampseros spp. #4 Liebesröschen</td><td></td></tr>
-<tr><td></td><td>Avonia spp. #4</td><td></td></tr>
-<tr><td></td><td>Lewisia serrata #4</td><td></td></tr>
-<tr><td></td><td></td><td>Portulacaria pygmaea (Südafrika)</td></tr>
+<tr><td></td><td>Podocarpus parlatorei[^t-72] Pinoholzbaum</td><td></td></tr>
 <tr><td>Primulaceae Primelgewächse</td><td></td><td></td></tr>
-<tr><td></td><td>Cyclamen[^t-78] spp. #4 Alpenveilchen, Zyklamen</td><td></td></tr>
+<tr><td></td><td>Cyclamen[^t-73] spp. #4 Alpenveilchen, Zyklamen</td><td></td></tr>
 <tr><td>Ranunculaceae Hahnenfussgewächse</td><td></td><td></td></tr>
 <tr><td></td><td>Adonis vernalis #2 Frühlings-Adonisröschen</td><td></td></tr>
 <tr><td></td><td>Hydrastis canadensis #8 Goldsiegelwurzel, Gelbwurzel</td><td></td></tr>
@@ -2410,13 +2458,13 @@ Für folgende gefährdeten Arten freilebender Tiere und Pflanzen in Anhang II un
 <tr><td>Sarracenia rubra ssp. alabamensis Alabama-Schlauchpflanze</td><td></td><td></td></tr>
 <tr><td>Sarracenia rubra ssp. jonesii Jones’ Schlauchpflanze</td><td></td><td></td></tr>
 <tr><td>Scrophulariaceae Braunwurzgewächse</td><td></td><td></td></tr>
-<tr><td></td><td>Picrorhiza kurrooa #2 (Ausgenommen ist *Picrorhiza* *scrophulariiflora)*</td><td></td></tr>
+<tr><td></td><td>Picrorhiza kurrooa #2 (Ausgenommen ist *Picrorhiza* *scrophulariiflora*)</td><td></td></tr>
 <tr><td>Stangeriaceae Palmfarne</td><td></td><td></td></tr>
 <tr><td></td><td>Bowenia spp. #4</td><td></td></tr>
 <tr><td>Stangeria eriopus</td><td></td><td></td></tr>
 <tr><td>Taxaceae Eibengewächse</td><td></td><td></td></tr>
 <tr><td></td><td>Taxus chinensis einschliesslich Unterarten #2 Chinesische Eibe (Taxol, Paclitaxel)</td><td></td></tr>
-<tr><td></td><td>Taxus cuspidata einschliesslich Unterarten[^t-79] #2 Japanische Eibe (Taxol, Paclitaxel)</td><td></td></tr>
+<tr><td></td><td>Taxus cuspidata einschliesslich Unterarten[^t-74] #2 Japanische Eibe (Taxol, Paclitaxel)</td><td></td></tr>
 <tr><td></td><td>Taxus fuana einschliesslich Unterarten #2 Fu-Eibe (Taxol, Paclitaxel)</td><td></td></tr>
 <tr><td></td><td>Taxus sumatrana einschliesslich Unterarten #2 Sumatra Eibe (Taxol, Paclitaxel)</td><td></td></tr>
 <tr><td></td><td>Taxus wallichiana #2 Himalaya-Eibe, Wallichs Eibe (Taxol, Paclitaxel)</td><td></td></tr>
@@ -2427,7 +2475,7 @@ Für folgende gefährdeten Arten freilebender Tiere und Pflanzen in Anhang II un
 <tr><td>Trochodendraceae (Tetracentraceae)</td><td></td><td></td></tr>
 <tr><td></td><td></td><td>Tetracentron sinense #1 (Nepal) Ährenblütiger Scheinjudasbaum</td></tr>
 <tr><td>Valerianaceae Baldriangewächse</td><td></td><td></td></tr>
-<tr><td></td><td>Nardostachys grandiflora #2 Indische Narde</td><td></td></tr>
+<tr><td></td><td>Nardostachys jatamansi #2 Indische Narde</td><td></td></tr>
 <tr><td>Vitaceae Weinrebengewächse</td><td></td><td></td></tr>
 <tr><td></td><td>Cyphostemma elephantopus</td><td></td></tr>
 <tr><td></td><td>Cyphostemma laza</td><td></td></tr>
@@ -2448,92 +2496,89 @@ Für folgende gefährdeten Arten freilebender Tiere und Pflanzen in Anhang II un
 <tr><td></td><td>Guaiacum spp. #2 Guajakholz, Lignum-Vitae, Pockholz</td><td></td></tr>
 </table>
 
-[^t-2]: Fassung gemäss der am 23. Febr. 2023 in Kraft getretenen Änd. ([AS 2023 180](https://fedlex.data.admin.ch/eli/oc/2023/180)).
+[^t-2]: Fassung gemäss der am 1. Mai 2026 für die Schweiz in Kraft getretenen Änd. ([AS 2026 195](https://fedlex.data.admin.ch/eli/oc/2026/195)).
 [^t-3]: Bearbeitetes Holz wird gemäss HS Code 44.09 wie folgt definiert: Holz (einschl. Stäbe und Friese für Parkett, nichtzusammengesetzt), entlang einer oder mehrerer kanten, Enden oder Flächen profiliert (gekehlt, genutet, gefedert, gefalzt, abgeschrägt, gefriest, gerundet oder in ähnl. Weise bearbeitet), auch gehobelt, geschliffen oder an den Enden verbunden.
 [^t-4]: Exemplare der domestizierten Form, bezeichnet als *Bos frontalis*, sind den Bestimmungen des Übereinkommens nicht unterstellt.
 [^t-5]: Exemplare der domestizierten Form, bezeichnet als *Bos grunniens,* sind den Bestimmungen des Übereinkommens nicht unterstellt.
 [^t-6]: Exemplare der domestizierten Form, bezeichnet als *Bubalus bubalis,* sind den Bestimmungen des Übereinkommens nicht unterstellt.
 [^t-7]: Exemplare der domestizierten Form sind den Bestimmungen des Übereinkommens nicht unterstellt.
 [^t-8]: Für den Export der Natur entnommener und hauptsächlich für gewerbliche Zwecke gehandelter Exemplare ist eine Nullquote festgelegt worden.
-[^t-9]: Für den Export der Natur entnommener und hauptsächlich für gewerbliche Zwecke gehandelter Exemplare ist eine Nullquote festgelegt worden.
-[^t-10]: Einziger Zweck dieser Anmerkung ist es, den internationalen Handel mit Wollhaar von Vicunjas (Vicugna vicugna) und dessen Erzeugnisse nur zu genehmigen, wenn das Haar durch Scheren lebender Vicunjas gewonnen wurde. Der Handel mit Erzeungissen, die aus diesem Wollhaar hergestellt werden, ist nur unter den folgenden Bedingungen zulässig: a) Personen und Unternehmen, die bei der Herstellung von Stoffen und Kleidung Vicuña-Fasern verarbeiten, müssen eine Genehmigung der zuständigen Behörden des Herkunftslandes zur Verwendung des Schriftzuges bzw. der Marke oder des Logos «Vicuña Herkunftsland» einholen. Der Schriftzug bzw. die Marke oder das Logos wurde von den Arealstaaten dieser Art, welche Unterzeichner des Übereinkommens zum Schutz und zur Erhaltung der Vicuñas sind, angenommen. b) Zum Verkauf angebotene Stoffe oder Kleidungsstücke müssen gemäss den folgenden Bestimmungen gekennzeichnet sein: i) Beim internationalen Handel mit Stoffen aus Fasern von lebend geschorenen Vicuñas müssen der Schriftzug bzw. die Marke oder das Logo so angebracht werden, dass das Herkunftsland ersichtlich ist, ungeachtet dessen, ob der Stoff innerhalb oder ausserhalb der Arealstaaten der Art hergestellt wurde. Der Schriftzug bzw. die Marke oder das Logo VICUÑA [HERKUNFTSLAND] müssen die nachstehend beschriebene Form haben: ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1975/1135_1136_1136/20241016/de/xml/image/styles.png) Schriftzug, Marke oder Logo müssen auf der Rückseite des Stoffes angebracht sein. Darüber hinaus muss die Gewebekante des Stoffes mit dem Schriftzug VICUÑA [HERKUNFTSLAND] versehen sein. ii) Beim internationalen Handel mit Kleidungsstücken aus Fasern von lebend geschorenen Vicuñas müssen der Schriftzug bzw. die Marke oder das Logo gemäss Abs b, i) verwendet werden, ungeachtet dessen, ob der Stoff innerhalb oder ausserhalb der Arealstaaten der Art hergestellt wurde. Der Schriftzug bzw. die Marke oder das Logo müssen sich auf dem Etikett des Kleidungsstücks selbst befinden. Werden die Kleidungsstücke ausserhalb des Herkunftslandes hergestellt, muss zusätzlich zum Schriftzug bzw. der Marke oder dem Logo gemäss Abs b, i) auch das Land angegeben werden, in dem das Kleidungsstück hergestellt wurde. c) Beim internationalen Handel mit Kunsthandwerkserzeugnissen aus Fasern von lebend geschorenen Vicuñas, die innerhalb der Arealstaaten der Art hergestellt wurden, müssen der Schriftzug bzw. die Marke oder das Logo VICUÑA [HERKUNFTSLAND] – ARTESANÍA wie folgt verwendet werden: ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1975/1135_1136_1136/20241016/de/xml/image/settings.png) d) Wenn für die Herstellung von Stoffen und Kleidung Fasern von lebend geschorenen Vicuñas aus verschiedenen Herkunftsländern verwendet werden, müssen der Schriftzug bzw. die Marke oder das Logo jedes einzelnen Herkunftslandes der Fasern verwendet werden, wie in Abs. b, i) und ii) beschrieben. e) Alle anderen Muster gelten als Muster von in Anhang I aufgeführten Arten, und der Handel ist entsprechend reguliert.
-[^t-11]: Ausgenommen sind die Populationen von *Pecari tajacu* von Mexiko und den USA.
-[^t-12]: Exemplare der domestizierten Form sind den Bestimmungen des Übereinkommens nicht unterstellt.
-[^t-13]: Es sind folgende jährlichen Exportquoten für lebende Tiere und Jagdtrophäen festgelegt worden: – Botsuana 5 – Namibia 150 – Simbabwe 50 Der Handel dieser Exemplare unterliegt den Bestimmungen von Artikel III des Übereinkommens.
-[^t-14]: Für Knochen, Knochenstücke, Knochenprodukte, Krallen, Skelette, Schädel und Zähne, die aus der Natur entnommen wurden und dem Zwecke gewerblichen Handels dienen, ist eine jährliche Nullquote festgelegt worden. Jährliche Nullquoten für Knochen, Knochenstücke, Knochenprodukte, Krallen, Skelette, Schädel und Zähne zu Zwecken gewerblichen Handels, welche aus Aufzuchten in Gefangenschaft in Südafrika stammen, werden festgelegt und dem CITES Sekretariat jährlich kommuniziert.
-[^t-15]: Für den Export der Natur entnommener und hauptsächlich für gewerbliche Zwecke gehandelter Exemplare aus dem Schwarzen Meer der Art *Tursiops* *truncatus* ist eine Nullquote festgelegt worden.
-[^t-16]: Es wurde eine jährliche Nullquote festgelegt. Alle Exemplare sind als Anhang-I-Exemplare zu betrachten und sind den entsprechenden Bestimmungen zu unterstellen.
-[^t-17]: Exemplare der domestizierten Form, bezeichnet als *Equus asinus*, sind den Bestimmungen des Übereinkommens nicht unterstellt.
-[^t-18]: Betrifft nur den internationalen Handel mit lebenden Tieren an geeignete und akzeptierbare Einrichtungen sowie mit Jagdtrophäen. Alle anderen Exemplare sind als Anhang-I-Exemplare zu betrachten und sind den entsprechenden Bestimmungen zu unterstellen.
-[^t-19]: Betrifft nur den internationalen Handel mit lebenden Tieren für «in-situ»-Artenschutzprojekte und nur innerhalb des natürlichen und historischen Verbreitungsgebietes von *Ceratotherium simum* in Afrika.
-[^t-20]: Für den Export der Natur entnommener und hauptsächlich für gewerbliche Zwecke gehandelter Exemplare der Arten *Manis crassicaudata*, *Manis javanica* und *Manis pentadactyla* ist eine Nullquote festgelegt worden.
-[^t-21]: Ausschliesslich für die Gewährung des Handels mit: a) Jagdtrophäen für nicht-gewerbliche Zwecke; b) lebenden Tieren nach angemessenen und akzeptierbaren Bestimmungsorten, gemäss Resolution Conf. 11.20 (Rev. CoP17), für Simbabwe und Botsuana und für In-situ-Artenschutzprojekte für Namibia und Südafrika; c) Häuten; d) Haaren; e) Lederprodukten für gewerbliche oder nicht-gewerbliche Zwecke für Botsuana, Namibia und Südafrika und für nicht-gewerbliche Zwecke für Simbabwe; f) individuell markierten und zertifizierten Ekipas, fertig verarbeitet zu Schmuckstücken für nicht-gewerbliche Zwecke fürNamibia, und Elfenbeinschnitzereien für nicht-gewerbliche Zwecke für Simbabwe; g) reregistriertem Rohelfenbein (für Botsuana undNamibia, Südafrika und Simbabwe ganze Stosszähne und Stosszahnteile) unter folgenden Voraussetzungen: i) nur aus registrierten Lagerbeständen in Besitz der jeweiligen Regierung aus dem jeweiligen Land (mit Ausnahme von beschlagnahmtem Elfenbein und von Elfenbein unbekannter Herkunft), ii) nur an Handelspartner, die nach Überprüfung durch das Sekretariat in Abstimmung mit dem Ständigen Ausschuss nachweislich über ausreichende innerstaatliche Rechtsvorschriften und Handelskontrollen verfügen, mit denen sichergestellt wird, dass eingeführtes Elfenbein nicht wieder ausgeführt wird, sowie sämtliche Bestimmungen der Entschliessung Conf.10.10 (Rev.CoP 17) über die heimische Fertigung und den Handel angewandt werden, iii) nicht bevor das Sekretariat die vorgesehenen Einfuhrländer und die registrierten Lagerbestände in Besitz der jeweiligen Regierung überprüft hat, iv) Rohelfenbein gemäss dem an der 12. Vertragsstaatenkonferenz vereinbarten, bedingten Verkauf von registrierten Lagerbeständen in Besitz der jeweiligen Regierung von 20 000 kg (Botsuana), 10 000 kg (Namibia) und 30 000 kg (Südafrika), v) Elfenbein im Besitz der jeweiligen Regierung, zusätzlich zu den an der 12. Vertragsstaatenkonferenz vereinbarten Mengen von Botsuana, Namibia, Südafrika und Simbabwe, welches bis zum 31. Jan. 2007 registriert und vom Sekretariat kontrolliert worden ist, zusammen gehandelt und versandt mit dem Elfenbein gemäss obigem Buchstaben g) iv), vi) der Erlös aus dem Handel wird ausschliesslich verwendet zum Schutz der Elefanten und für Programme zum Schutz und zur Entwicklung der Bevölkerung in Gebieten oder angrenzend an Gebiete, die von Elefanten besiedelt werden, und vii) die zusätzlichen Mengen, festgelegt in obigem Buchstaben g) v.), sollen nur gehandelt werden, nachdem der Ständige Ausschuss übereingekommen ist, dass die oben aufgelisteten Bedingungen erfüllt sind; und h) nach der 14. Vertragsstaatenkonferenz soll kein weiterer Vorschlag für einen bewilligten Handel von Elfenbein von Populationen aus Anhang II eingereicht werden bis neun Jahre nach dem Datum des einmaligen Verkaufs gemäss den Buchstaben g) i.), g) ii.), g) iii.), g) vi.) und g) vii.). Zusätzlich sollen solche weiteren Vorschläge gemäss den Entscheidungen 14.77 und 14.88 behandelt werden. Auf Vorschlag des Sekretariats kann der Ständige Ausschuss beschliessen, den Handel teilweise oder ganz einzustellen, wenn die Aus- oder Einfuhrländer gegen die Vorschriften verstossen oder wenn sich der Handel nachweislich negativ auf die Elefantenpopulationen auswirkt. Alle anderen Exemplare sind als Anhang-I-Exemplare zu betrachten und sind den entsprechenden Bestimmungen zu unterstellen.
-[^t-22]: Exemplare der domestizierten Form sind den Bestimmungen des Übereinkommens nicht unterstellt.
-[^t-23]: In Kraft tretend mit einer Verzögerung von 12 Monaten auf 26.11.2023.
-[^t-24]: In Kraft bleibend bis am 25.11.2023
+[^t-9]: Für den Export der Natur entnommener und hauptsächlich für gewerbliche Zwecke gehandelter Exemplare ist eine Nullquote festgelegt worden, ausgenommen für Exemplare der Population von Kasachstan unter den folgenden Bedingungen: a) Handel nur mit ganzen Hörnern aus staatlichem Besitz, die aus Kasachstan stammen und gemäss den von Kasachstan entwickelten Kennzeichnungs- und Rückverfolgbarkeitsanforderungen gelagert und gekennzeichnet wurden; b) Vorherige Überprüfung durch das Sekretariat und Kasachstan in Absprache mit dem Ständigen Ausschuss über dessen Vorsitzenden, dass in Kasachstan und bei den Handelspartnern bereits ausreichende Kontrollmechanismen und Rückverfolgbarkeitssysteme vorhanden sind; c) Kasachstan überwacht die erste Lieferung an jeden neuen Handelspartner, um sicherzustellen, dass die Kennzeichnungs- und Rückverfolgbarkeitssysteme vorhanden sind und ordnungsgemäss funktionieren; und d) Begrenzung auf eine Gesamtmenge von 30 Tonnen bis zur CoP21, an welcher das Potenzial für weiteren Handel auf der Grundlage eines überarbeiteten Vorschlags ermittelt und überprüft werden soll. Auf Vorschlag des Sekretariats kann der Ständige Ausschuss beschliessen, diesen Handel teilweise oder vollständig einzustellen, wenn die exportierenden oder importierenden Länder die Vorschriften nicht einhalten oder wenn nachweislich schädliche Auswirkungen des Handels auf die Saiga-Population festgestellt werden.
+[^t-10]: Ausgenommen sind die Populationen von *Pecari tajacu* von Mexiko und den USA.
+[^t-11]: Exemplare der domestizierten Form sind den Bestimmungen des Übereinkommens nicht unterstellt.
+[^t-12]: Es sind folgende jährlichen Exportquoten für lebende Tiere und Jagdtrophäen festgelegt worden: – Botsuana 5 – Namibia 150 – Simbabwe 50 Der Handel dieser Exemplare unterliegt den Bestimmungen von Artikel III des Übereinkommens.
+[^t-13]: Für Knochen, Knochenstücke, Knochenprodukte, Krallen, Skelette, Schädel und Zähne, die aus der Natur entnommen wurden und dem Zwecke gewerblichen Handels dienen, ist eine jährliche Nullquote festgelegt worden. Jährliche Nullquoten für Knochen, Knochenstücke, Knochenprodukte, Krallen, Skelette, Schädel und Zähne zu Zwecken gewerblichen Handels, welche aus Aufzuchten in Gefangenschaft in Südafrika stammen, werden festgelegt und dem CITES Sekretariat jährlich kommuniziert.
+[^t-14]: Für den Export der Natur entnommener und hauptsächlich für gewerbliche Zwecke gehandelter Exemplare aus dem Schwarzen Meer der Art *Tursiops* *truncatus* ist eine Nullquote festgelegt worden.
+[^t-15]: Es wurde eine jährliche Nullquote festgelegt. Alle Exemplare sind als Anhang-I-Exemplare zu betrachten und sind den entsprechenden Bestimmungen zu unterstellen.
+[^t-16]: Exemplare der domestizierten Form, bezeichnet als *Equus asinus*, sind den Bestimmungen des Übereinkommens nicht unterstellt.
+[^t-17]: Betrifft nur den internationalen Handel mit lebenden Tieren an geeignete und akzeptierbare Einrichtungen sowie mit Jagdtrophäen. Alle anderen Exemplare sind als Anhang-I-Exemplare zu betrachten und sind den entsprechenden Bestimmungen zu unterstellen.
+[^t-18]: Betrifft nur den internationalen Handel mit lebenden Tieren für «in-situ»-Artenschutzprojekte und nur innerhalb des natürlichen und historischen Verbreitungsgebietes von *Ceratotherium simum* in Afrika.
+[^t-19]: Für den Export der Natur entnommener und hauptsächlich für gewerbliche Zwecke gehandelter Exemplare der Arten *Manis crassicaudata*, *Manis javanica* und *Manis pentadactyla* ist eine Nullquote festgelegt worden.
+[^t-20]: A10: Ausschliesslich für die Gewährung des Handels mit: a) Jagdtrophäen für nicht-gewerbliche Zwecke; b) lebenden Tieren nach angemessenen und akzeptierbaren Bestimmungsorten; c) Häuten; d) Haaren; e) Lederprodukten; f) individuell markierten und zertifizierten Ekipas, fertig verarbeitet zu Schmuckstücken für nicht-gewerbliche Zwecke für Namibia, und Elfenbeinschnitzereien für nicht-gewerbliche Zwecke für Simbabwe; g) Der Ständige Ausschuss kann beschliessen, diesen Handel teilweise oder vollständig einzustellen, wenn die exportierenden oder importierenden Länder die Vorschriften nicht einhalten oder wenn nachweislich nachteilige Auswirkungen des Handels auf andere Elefantenpopulationen vorliegen. Alle anderen Exemplare gelten als Exemplare der in Anhang I aufgeführten Arten, und der Handel mit ihnen wird entsprechend geregelt.
+[^t-21]: Exemplare der domestizierten Form sind den Bestimmungen des Übereinkommens nicht unterstellt.
+[^t-22]: Für den Export der Natur entnommener und hauptsächlich für gewerbliche Zwecke gehandelter Exemplare ist eine Nullquote festgelegt worden.
+[^t-23]: Population von Ecuador mit Nullquote so lange bis eine Jahresquote durch das CITES-Sekretariat und die IUCN/SSC Crocodile Specialist Group genehmigt wird.
+[^t-24]: Für den Export der Natur entnommener und hauptsächlich für gewerbliche Zwecke gehandelter Exemplare ist eine Nullquote festgelegt worden.
 [^t-25]: Für den Export der Natur entnommener und hauptsächlich für gewerbliche Zwecke gehandelter Exemplare ist eine Nullquote festgelegt worden.
-[^t-26]: Population von Ecuador mit Nullquote so lange bis eine Jahresquote durch das CITES-Sekretariat und die IUCN/SSC Crocodile Specialist Group genehmigt wird.
+[^t-26]: Für den Export der Natur entnommener und hauptsächlich für gewerbliche Zwecke gehandelter Exemplare ist eine Nullquote festgelegt worden.
 [^t-27]: Für den Export der Natur entnommener und hauptsächlich für gewerbliche Zwecke gehandelter Exemplare ist eine Nullquote festgelegt worden.
 [^t-28]: Für den Export der Natur entnommener und hauptsächlich für gewerbliche Zwecke gehandelter Exemplare ist eine Nullquote festgelegt worden.
-[^t-29]: Für den Export der Natur entnommener und hauptsächlich für gewerbliche Zwecke gehandelter Exemplare ist eine Nullquote festgelegt worden.
+[^t-29]: Für den Export der Natur entnommener Exemplare von *Abronia aurita, A. gaiophantasma, A. montecristoi, A. salvadoriensis* und *A. vasconcelosii* ist eine Nullquote festgelegt worden.
 [^t-30]: Für den Export der Natur entnommener und hauptsächlich für gewerbliche Zwecke gehandelter Exemplare ist eine Nullquote festgelegt worden.
 [^t-31]: Für den Export der Natur entnommener und hauptsächlich für gewerbliche Zwecke gehandelter Exemplare ist eine Nullquote festgelegt worden.
-[^t-32]: Für den Export der Natur entnommener Exemplare von *Abronia aurita, A. gaiophantasma, A. montecristoi, A. salvadoriensis* und *A. vasconcelosii* ist eine Nullquote festgelegt worden.
-[^t-33]: Ausgenommen Teile und Erzeugnisse, andere als Eier
-[^t-34]: Ausgenommen Teile und Erzeugnisse, andere als Eier
-[^t-35]: Ausgenommen Teile und Erzeugnisse, andere als Eier
-[^t-36]: Ausgenommen Teile und Erzeugnisse, andere als Eier
-[^t-37]: Ausgenommen Teile und Erzeugnisse, andere als Eier
-[^t-38]: Ausgenommen Teile und Erzeugnisse, andere als Eier
-[^t-39]: Für den Export der Natur entnommener und hauptsächlich für gewerbliche Zwecke gehandelter Exemplare ist eine Nullquote festgelegt worden.
-[^t-40]: Für den Export der Natur entnommener und hauptsächlich für gewerbliche Zwecke gehandelter Exemplare ist eine Nullquote festgelegt worden.
-[^t-41]: Für den Export der Natur entnommener und hauptsächlich für gewerbliche Zwecke gehandelter Exemplare ist eine Nullquote festgelegt worden.
-[^t-42]: Für den Export der Natur entnommener und hauptsächlich für gewerbliche Zwecke gehandelter Exemplare ist eine Nullquote festgelegt worden.
-[^t-43]: Für den Export der Natur entnommener und hauptsächlich für gewerbliche Zwecke gehandelter Exemplare ist für *Cuora aurocapitata, C. flavomarginata, C. mccordi, C. mouhotii, C. pani, C. trifasciata, C. yunnanensis* und *C. zhoui* eine Nullquote festgelegt worden.
+[^t-32]: Für den Export der Natur entnommener und hauptsächlich für gewerbliche Zwecke gehandelter Exemplare ist eine Nullquote festgelegt worden.
+[^t-33]: Für den Export der Natur entnommener und hauptsächlich für gewerbliche Zwecke gehandelter Exemplare ist eine Nullquote festgelegt worden.
+[^t-34]: Für den Export der Natur entnommener und hauptsächlich für gewerbliche Zwecke gehandelter Exemplare ist für *Cuora aurocapitata, C. flavomarginata, C. mccordi, C. mouhotii, C. pani, C. trifasciata, C. yunnanensis* und *C. zhoui* eine Nullquote festgelegt worden.
+[^t-35]: Für den Export der Natur entnommener und hauptsächlich für gewerbliche Zwecke gehandelter Exemplare ist eine Nullquote festgelegt worden.
+[^t-36]: Für den Export der Natur entnommener und hauptsächlich für gewerbliche Zwecke gehandelter Exemplare ist eine Nullquote festgelegt worden.
+[^t-37]: Für den Export der Natur entnommener und hauptsächlich für gewerbliche Zwecke gehandelter Exemplare ist eine Nullquote festgelegt worden.
+[^t-38]: Für den Export der Natur entnommener und hauptsächlich für gewerbliche Zwecke gehandelter Exemplare der Art *Geochelone sulcata* ist eine Nullquote festgelegt worden.
+[^t-39]: Für den Export der Natur entnommener Exemplare von *Agalychnis lemur* ist eine Nullquote festgelegt worden.
+[^t-40]: In Kraft tretend mit einer Verzögerung von 18 Monaten auf den 5. Juni 2027.
+[^t-41]: In Kraft tretend mit einer Verzögerung von 18 Monaten auf den 5. Juni 2027.
+[^t-42]: In Kraft tretend mit einer Verzögerung von 18 Monaten auf den 5. Juni 2027.
+[^t-43]: In Kraft tretend mit einer Verzögerung von 18 Monaten auf den 5. Juni 2027.
 [^t-44]: Für den Export der Natur entnommener und hauptsächlich für gewerbliche Zwecke gehandelter Exemplare ist eine Nullquote festgelegt worden.
-[^t-45]: Für den Export der Natur entnommener und hauptsächlich für gewerbliche Zwecke gehandelter Exemplare ist eine Nullquote festgelegt worden.
-[^t-46]: Für den Export der Natur entnommener und hauptsächlich für gewerbliche Zwecke gehandelter Exemplare ist eine Nullquote festgelegt worden.
-[^t-47]: Für den Export der Natur entnommener und hauptsächlich für gewerbliche Zwecke gehandelter Exemplare der Art *Geochelone sulcata* ist eine Nullquote festgelegt worden.
-[^t-48]: Für den Export der Natur entnommener Exemplare von *Agalychnis lemur* ist eine Nullquote festgelegt worden.
-[^t-49]: Ausgenommen Teile und Erzeugnisse, andere als Eier
+[^t-45]: In Kraft tretend mit einer Verzögerung von 18 Monaten auf den 5. Juni 2027.
+[^t-46]: In Kraft tretend mit einer Verzögerung von 18 Monaten auf den 5. Juni 2027.
+[^t-47]: In Kraft tretend mit einer Verzögerung von 18 Monaten auf den 5. Juni 2027.
+[^t-48]: Für den Export der Natur entnommener und hauptsächlich für gewerbliche Zwecke gehandelter Exemplare ist eine Nullquote festgelegt worden.
+[^t-49]: In Kraft tretend mit einer Verzögerung von 18 Monaten auf den 5. Juni 2027.
 [^t-50]: Für den Export der Natur entnommener und hauptsächlich für gewerbliche Zwecke gehandelter Exemplare ist eine Nullquote festgelegt worden.
-[^t-51]: In Kraft tretend mit einer Verzögerung von 12 Monaten auf 26.11.2023.
-[^t-52]: In Kraft bleibend bis am 25.11.2023
-[^t-53]: In Kraft bleibend bis am 25.11.2023
-[^t-54]: Für den Export der Natur entnommener und hauptsächlich für gewerbliche Zwecke gehandelter Exemplare ist eine Nullquote festgelegt worden.
-[^t-55]: In Kraft tretend mit einer Verzögerung von 18 Monaten auf 26.05.2024.
-[^t-56]: Beinhaltet nur die Art *Heliopora coerulea*. Fossiles Material unterliegt nicht den CITES-Bestimmungen.
+[^t-51]: In Kraft tretend mit einer Verzögerung von 18 Monaten auf den 5. Juni 2027.
+[^t-52]: Für den Export der Natur entnommener und hauptsächlich für gewerbliche Zwecke gehandelter Exemplare ist eine Nullquote festgelegt worden.
+[^t-53]: In Kraft tretend mit einer Verzögerung von 18 Monaten auf den 5. Juni 2027.
+[^t-54]: Beinhaltet nur die Art *Heliopora coerulea*. Fossiles Material unterliegt nicht den CITES-Bestimmungen.
+[^t-55]: Fossiles Material unterliegt nicht den CITES-Bestimmungen.
+[^t-56]: Fossiles Material unterliegt nicht den CITES-Bestimmungen.
 [^t-57]: Fossiles Material unterliegt nicht den CITES-Bestimmungen.
 [^t-58]: Fossiles Material unterliegt nicht den CITES-Bestimmungen.
-[^t-59]: Fossiles Material unterliegt nicht den CITES-Bestimmungen.
-[^t-60]: Fossiles Material unterliegt nicht den CITES-Bestimmungen.
-[^t-61]: In Kraft tretend mit einer Verzögerung von 24 Monaten auf 26.11.2024.
-[^t-62]: In Kraft tretend mit einer Verzögerung von 24 Monaten auf 26.11.2024.
-[^t-63]: In Kraft tretend mit einer Verzögerung von 24 Monaten auf 26.11.2024.
-[^t-64]: Künstlich vermehrte Exemplare der folgenden Hybriden und/oder Kulturvariatäten unterliegen nicht den Bestimmungen des Abkommens: – Hatiora x graeseri; *–* *Schlumbergera* x *buckleyi;* *–* *Schlumbergera russelliana* x *Schlumbergera truncata;* *–* *Schlumbergera orssichiana* x *Schlumbergera truncata;* *–* *Schlumbergera opuntioides* x *Schlumbergera truncata;* *–* *Schlumbergera truncata* (Kulturvarietäten); *–* Cactaceae spp. Farbmutanten, gepfropft auf folgende Unterlagen: *Harrisia* «Jusbertii», *Hylocerus trigonus* oder *Hylocerus* *undatus;* *–* *Opuntia microdasys* (Kulturvarietäten).
-[^t-65]: Künstlich vermehrte Exemplare der folgenden Hybriden, Kulturvarietäten und Mutanten sind von den Bestimmungen des Übereinkommens ausgenommen: – Kulturvarietäten von *Euphorbia trigona*; – Kristaten (Kammformen) und Farbmutanten von *Euphorbia lactea*, die auf künstlich vermehrte Unterlagen von *E. neriifolia* gepfropft sind; – Kulturvarietäten von *Euphorbia* «Milii» (einschliesslich *E.* x *lomi* = *E. milii* x *E. lophogona*), welche in Sendungen mit mindestens 100 Exemplaren befördert werden und ohne Weiteres als künstlich vermehrt erkennbar sind.
-[^t-66]: In Kraft bleibend bis am 25.11.2024.
-[^t-67]: In Kraft tretend mit einer Verzögerung von 24 Monaten auf 26.11.2024.
-[^t-68]: Künstlich vermehrte Hybriden der folgenden Gattungen unterstehen nicht den Bestimmungen des Übereinkommens, wenn die Bedingungen unter a) und b) erfüllt sind: *Cymbidium*, *Dendrobium*, *Phalaenopsis* und *Vanda*: a) Die Exemplare sind ohne Weiteres erkennbar als künstlich vermehrt und zeigen keinerlei Anzeichen, dass sie der Natur entnommen sein könnten, wie z.B. mechanische Beschädigungen oder starke Dehydrierung, die durch Naturentnahme verursacht sein können, unregelmässigen Wuchs sowie heterogene Grösse und Gestalt innerhalb eines Taxons in einer Sendung, Blätter mit Algenbewuchs oder anderen epiphyllen Organismen, oder Schädigung durch Insekten oder andere Schadorganismen; und b) i) wenn die Exemplare in nicht blühendem Zustand transportiert werden, muss die Sendung aus mindestens 20 Exemplaren pro Hybride bestehen, welche getrennt in individuellen Behältern (wie z.B. Kartons, Kisten, Holzverschläge oder einzelne Tablare von CC-Containern) abgepackt sind; die Pflanzen in jedem Behälter müssen in hohem Mass einheitlich und gesund sein; und die Sendung muss von Dokumenten, wie z.B. einer Handelsrechnung, begleitet sein, in welchen klar die Anzahl Pflanzen von jeder Hybride genannt wird, oder ii) wenn die Exemplare in blühendem Zustand transportiert werden, mit mindestens einer voll geöffneten Blüte pro Exemplar, ist keine Mindestmenge pro Hybride erforderlich, aber die Exemplare müssen fertig verarbeitet sein für den Detailhandel, z.B. mit bedruckten Etiketten versehen oder in bedruckte Verpackungen abgepackt, welche den Namen der Hybride und das Land der Endverarbeitung angeben. Diese Angaben müssen gut sichtbar sein und eine einfache Überprüfung erlauben. Pflanzen, welche diese Bedingungen nicht klar erfüllen, müssen von gültigen CITES-Dokumenten begleitet sein.
+[^t-59]: Künstlich vermehrte Exemplare der folgenden Hybriden und/oder Kulturvariatäten unterliegen nicht den Bestimmungen des Abkommens: – Hatiora x graeseri; – Schlumbergera x buckleyi; – *Schlumbergera russelliana* x *Schlumbergera truncata*; – *Schlumbergera orssichiana* x *Schlumbergera truncata*; – *Schlumbergera opuntioides* x *Schlumbergera truncata*; – *Schlumbergera truncata* (Kulturvarietäten); *–* Cactaceae spp. Farbmutanten, gepfropft auf folgende Unterlagen: *Harrisia* «Jusbertii», *Hylocerus trigonus* oder *Hylocerus* *undatus;* *–* *Opuntia microdasys* (Kulturvarietäten).
+[^t-60]: Künstlich vermehrte Exemplare der folgenden Hybriden, Kulturvarietäten und Mutanten sind von den Bestimmungen des Übereinkommens ausgenommen: – Kulturvarietäten von *Euphorbia trigona*; – Kristaten (Kammformen) und Farbmutanten von *Euphorbia lactea*, die auf künstlich vermehrte Unterlagen von *E. neriifolia* gepfropft sind; – Kulturvarietäten von *Euphorbia* «Milii» (einschliesslich *E.* x *lomi* = *E. milii* x *E. lophogona*), welche in Sendungen mit mindestens 100 Exemplaren befördert werden und ohne Weiteres als künstlich vermehrt erkennbar sind.
+[^t-61]: Für den Export der Natur entnommener und hauptsächlich für gewerbliche Zwecke gehandelter Exemplare ist eine Nullquote festgelegt worden.
+[^t-62]: Künstlich vermehrte Hybriden der folgenden Gattungen unterstehen nicht den Bestimmungen des Übereinkommens, wenn die Bedingungen unter a) und b) erfüllt sind: *Cymbidium*, *Dendrobium*, *Phalaenopsis* und *Vanda*: a) die Exemplare sind ohne Weiteres erkennbar als künstlich vermehrt und zeigen keinerlei Anzeichen, dass sie der Natur entnommen sein könnten, wie z.B. mechanische Beschädigungen oder starke Dehydrierung, die durch Naturentnahme verursacht sein können, unregelmässigen Wuchs sowie heterogene Grösse und Gestalt innerhalb eines Taxons in einer Sendung, Blätter mit Algenbewuchs oder anderen epiphyllen Organismen, oder Schädigung durch Insekten oder andere Schadorganismen; und b) i) wenn die Exemplare in nicht blühendem Zustand transportiert werden, muss die Sendung aus mindestens 20 Exemplaren pro Hybride bestehen, welche getrennt in individuellen Behältern (wie z.B. Kartons, Kisten, Holzverschläge oder einzelne Tablare von CC-Containern) abgepackt sind; die Pflanzen in jedem Behälter müssen in hohem Mass einheitlich und gesund sein; und die Sendung muss von Dokumenten, wie z.B. einer Handelsrechnung, begleitet sein, in welchen klar die Anzahl Pflanzen von jeder Hybride genannt wird, oder ii) wenn die Exemplare in blühendem Zustand transportiert werden, mit mindestens einer voll geöffneten Blüte pro Exemplar, ist keine Mindestmenge pro Hybride erforderlich, aber die Exemplare müssen fertig verarbeitet sein für den Detailhandel, z.B. mit bedruckten Etiketten versehen oder in bedruckte Verpackungen abgepackt, welche den Namen der Hybride und das Land der Endverarbeitung angeben. Diese Angaben müssen gut sichtbar sein und eine einfache Überprüfung erlauben. Pflanzen, welche diese Bedingungen nicht klar erfüllen, müssen von gültigen CITES-Dokumenten begleitet sein.
+[^t-63]: In-vitro Sämlings- oder Zellkulturen, die in sterilen Behältern befördert werden, sind den Bestimmungen des Übereinkommens nicht unterstellt, nur wenn die Exemplare der von der Vertragsstaatenkonferenz vereinbaren Definition von «künstlich vermehrt» entsprechen.
+[^t-64]: In-vitro Sämlings- oder Zellkulturen, die in sterilen Behältern befördert werden, sind den Bestimmungen des Übereinkommens nicht unterstellt, nur wenn die Exemplare der von der Vertragsstaatenkonferenz vereinbaren Definition von «künstlich vermehrt» entsprechen.
+[^t-65]: In-vitro Sämlings- oder Zellkulturen, die in sterilen Behältern befördert werden, sind den Bestimmungen des Übereinkommens nicht unterstellt, nur wenn die Exemplare der von der Vertragsstaatenkonferenz vereinbaren Definition von «künstlich vermehrt» entsprechen.
+[^t-66]: In-vitro Sämlings- oder Zellkulturen, die in sterilen Behältern befördert werden, sind den Bestimmungen des Übereinkommens nicht unterstellt, nur wenn die Exemplare der von der Vertragsstaatenkonferenz vereinbaren Definition von «künstlich vermehrt» entsprechen.
+[^t-67]: In-vitro Sämlings- oder Zellkulturen, die in sterilen Behältern befördert werden, sind den Bestimmungen des Übereinkommens nicht unterstellt, nur wenn die Exemplare der von der Vertragsstaatenkonferenz vereinbaren Definition von «künstlich vermehrt» entsprechen.
+[^t-68]: In-vitro Sämlings- oder Zellkulturen, die in sterilen Behältern befördert werden, sind den Bestimmungen des Übereinkommens nicht unterstellt, nur wenn die Exemplare der von der Vertragsstaatenkonferenz vereinbaren Definition von «künstlich vermehrt» entsprechen.
 [^t-69]: In-vitro Sämlings- oder Zellkulturen, die in sterilen Behältern befördert werden, sind den Bestimmungen des Übereinkommens nicht unterstellt, nur wenn die Exemplare der von der Vertragsstaatenkonferenz vereinbaren Definition von «künstlich vermehrt» entsprechen.
 [^t-70]: In-vitro Sämlings- oder Zellkulturen, die in sterilen Behältern befördert werden, sind den Bestimmungen des Übereinkommens nicht unterstellt, nur wenn die Exemplare der von der Vertragsstaatenkonferenz vereinbaren Definition von «künstlich vermehrt» entsprechen.
 [^t-71]: In-vitro Sämlings- oder Zellkulturen, die in sterilen Behältern befördert werden, sind den Bestimmungen des Übereinkommens nicht unterstellt, nur wenn die Exemplare der von der Vertragsstaatenkonferenz vereinbaren Definition von «künstlich vermehrt» entsprechen.
-[^t-72]: In-vitro Sämlings- oder Zellkulturen, die in sterilen Behältern befördert werden, sind den Bestimmungen des Übereinkommens nicht unterstellt, nur wenn die Exemplare der von der Vertragsstaatenkonferenz vereinbaren Definition von «künstlich vermehrt» entsprechen.
-[^t-73]: In-vitro Sämlings- oder Zellkulturen, die in sterilen Behältern befördert werden, sind den Bestimmungen des Übereinkommens nicht unterstellt, nur wenn die Exemplare der von der Vertragsstaatenkonferenz vereinbaren Definition von «künstlich vermehrt» entsprechen.
-[^t-74]: In-vitro Sämlings- oder Zellkulturen, die in sterilen Behältern befördert werden, sind den Bestimmungen des Übereinkommens nicht unterstellt, nur wenn die Exemplare der von der Vertragsstaatenkonferenz vereinbaren Definition von «künstlich vermehrt» entsprechen.
-[^t-75]: In-vitro Sämlings- oder Zellkulturen, die in sterilen Behältern befördert werden, sind den Bestimmungen des Übereinkommens nicht unterstellt, nur wenn die Exemplare der von der Vertragsstaatenkonferenz vereinbaren Definition von «künstlich vermehrt» entsprechen.
-[^t-76]: In-vitro Sämlings- oder Zellkulturen, die in sterilen Behältern befördert werden, sind den Bestimmungen des Übereinkommens nicht unterstellt, nur wenn die Exemplare der von der Vertragsstaatenkonferenz vereinbaren Definition von «künstlich vermehrt» entsprechen.
-[^t-77]: In-vitro Sämlings- oder Zellkulturen, die in sterilen Behältern befördert werden, sind den Bestimmungen des Übereinkommens nicht unterstellt, nur wenn die Exemplare der von der Vertragsstaatenkonferenz vereinbaren Definition von «künstlich vermehrt» entsprechen.
-[^t-78]: Künstlich vermehrte Exemplare von Kultivaren von *Cyclamen persicum* unterstehen nicht den Bestimmungen des Übereinkommens. Diese Ausnahmebestimmung gilt jedoch nicht für Exemplare, welche als ruhende Knollen befördert werden.
-[^t-79]: Künstlich vermehrte, lebende Exemplare von Hybriden und Kultivaren von Taxus cuspidata (z.B. Taxus x media) in Töpfen oder anderen kleinen Gefässen unterstehen nicht den Bestimmungen des Übereinkommens, wenn die Sendung von einer Etikette oder einem Dokument begleitet ist, wo der Name der Hybride(n) oder des Kultivars/der Kultivare angegeben und der Text «künstlich vermehrt» enthalten ist.
+[^t-72]: Für den Export der Natur entnommener und hauptsächlich für gewerbliche Zwecke gehandelter Exemplare ist eine Nullquote festgelegt worden.
+[^t-73]: Künstlich vermehrte Exemplare von Kultivaren von *Cyclamen persicum* unterstehen nicht den Bestimmungen des Übereinkommens. Diese Ausnahmebestimmung gilt jedoch nicht für Exemplare, welche als ruhende Knollen befördert werden.
+[^t-74]: Künstlich vermehrte, lebende Exemplare von Hybriden und Kultivaren von Taxus cuspidata (z.B. Taxus x media) in Töpfen oder anderen kleinen Gefässen unterstehen nicht den Bestimmungen des Übereinkommens, wenn die Sendung von einer Etikette oder einem Dokument begleitet ist, wo der Name der Hybride(n) oder des Kultivars/der Kultivare angegeben und der Text «künstlich vermehrt» enthalten ist.
 
-Anhang IV
+Anhang IV[^t-75]
 
 ## Übereinkommen über den internationalen Handel mit gefährdeten Arten freilebender Tiere und Pflanzen
 
+[^t-75]: Fassung gemäss der am 1. Mai 2026 für die Schweiz in Kraft getretenen Änd. ([AS 2026 195](https://fedlex.data.admin.ch/eli/oc/2026/195)).
+
 <table>
 <tr><td></td><td></td><td>Ausfuhrgenehmigung Nr.:…………………….</td></tr>
-<tr><td>Ausfuhrland:……………………………………</td><td></td><td>Gültig bis: (Datum)……………………………..</td></tr>
+<tr><td>*Ausfuhrland:* ………………………………………………</td><td></td><td>*Gültig bis: (Datum)* …………………………………………………</td></tr>
 </table>
 
 Diese Genehmigung wird ausgestellt für: …………………………………………………………..
@@ -2545,9 +2590,7 @@ der erklärt, dass ihm die Bestimmungen des Übereinkommens bekannt sind, für d
 (Exemplar(e), oder Teil(e) oder Erzeugnis(se) aus Exemplar(en)\*
 
 <table>
-<tr><td>einer Art nach</td><td>Anhang I: \*\*</td></tr>
-<tr><td></td><td>Anhang II:\*\*</td></tr>
-<tr><td></td><td>Anhang III des Übereinkommens wie nachstehend näher bezeichnet:\*\*</td></tr>
+<tr><td>einer Art nach</td><td>Anhang I: \*\* Anhang II:\*\* Anhang III des Übereinkommens wie nachstehend näher bezeichnet:\*\*</td></tr>
 </table>
 
 (in der Gefangenschaft gezüchtet oder angebaut in:…………………………………………)\*\*
@@ -2555,7 +2598,7 @@ der erklärt, dass ihm die Bestimmungen des Übereinkommens bekannt sind, für d
 Diese(s) Exemplar(e) wird (werden) versandt an:…………………………………………………
 
 <table>
-<tr><td>Anschrift: ……………………………………….</td><td></td><td>Land: ………………………………………………..</td></tr>
+<tr><td>Anschrift: ………………………………………………..</td><td></td><td>Land: ………………………………………………..</td></tr>
 <tr><td>………………………………………………………</td><td></td><td></td></tr>
 <tr><td>………………………………………………………</td><td></td><td></td></tr>
 <tr><td>in: …………………………………………………</td><td></td><td>am: ……………………………………………………</td></tr>
@@ -2573,8 +2616,7 @@ Diese(s) Exemplar(e) wird (werden) versandt an:……………………………
 </table>
 
 <table>
-<tr><td>\*</td><td>Anzugeben ist die Art des Erzeugnisses</td></tr>
-<tr><td>\*\*</td><td>Nichtzutreffendes streichen</td></tr>
+<tr><td>\* Anzugeben ist die Art des Erzeugnisses \*\* Nichtzutreffendes streichen</td></tr>
 </table>
 
 Beschreibung des Exemplars (der Exemplare) oder des Teils (der Teile) oder des Erzeugnisses (der Erzeugnisse) aus Exemplaren einschliesslich etwa angebrachter Kennzeichen:
@@ -2582,26 +2624,26 @@ Beschreibung des Exemplars (der Exemplare) oder des Teils (der Teile) oder des E
 Lebende Exemplare
 
 <table>
-<tr><td>Art</td><td>Anzahl</td><td>Geschlecht</td><td>Grösse</td><td>Kennzeichnung</td></tr>
+<tr><th>Art</th><th>Anzahl</th><th>Geschlecht</th><th>Grösse</th><th>Kennzeichnung</th></tr>
 <tr><td>(wissenschaftliche und Vulgär- bezeichnung)</td><td></td><td></td><td>(oder Umfang)</td><td>(falls vorhanden)</td></tr>
 </table>
 
 Teile oder Erzeugnisse
 
 <table>
-<tr><td>Art</td><td>Menge</td><td>Warenart</td><td>Kennzeichnung</td></tr>
-<tr><td>(wissenschaftliche und Vulgärbezeichnung)</td><td></td><td></td><td>(falls vorhanden)</td></tr>
+<tr><th>Art</th><th>Menge</th><th>Warenart</th><th>Kennzeichnung</th></tr>
+<tr><td>(wissenschaftliche und Vulgär- bezeichnung)</td><td></td><td></td><td>(falls vorhanden)</td></tr>
 </table>
 
 Stempel der abfertigenden Stellen
 
 <table>
-<tr><td>[tab] a) bei der Ausfuhr</td><td>b) bei der Einfuhr[^annexIV-lvlu1-1]</td></tr>
+<tr><td>a) bei der Ausfuhr</td><td>b) bei der Einfuhr[^annexIV-lvlu1-1]</td></tr>
 </table>
 
 [^annexIV-lvlu1-1]: Dieser Stempel entwertet diese Genehmigung für den weiteren Handel; diese Genehmigung ist der Vollzugsbehörde auszuhändigen.
 
-Geltungsbereich des Übereinkommens am 16. Oktober 2024[^t-80]
+Geltungsbereich des Übereinkommens am 16. Oktober 2024[^t-76]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B) Nachfolgeerklärung (N)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -2810,12 +2852,12 @@ Geltungsbereich des Übereinkommens am 16. Oktober 2024[^t-80]
 <tr><td>Vietnam</td><td>20. Januar</td><td>1994 B</td><td>20. April</td><td>1994</td></tr>
 <tr><td>Zentralafrikanische Republik</td><td>27. August</td><td>1980 B</td><td>25. November</td><td>1980</td></tr>
 <tr><td>Zypern</td><td>18. Oktober</td><td>1974</td><td>1. Juli</td><td>1975</td></tr>
-<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite der CITES: www.cites.org/ eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden. <sup>a</sup> Vom 31. Okt. 1976 bis zum 30. Juni 1997 war das Übereink. auf Grund einer Ausdehnungserklärung des Vereinigten Königreichs in Hongkong anwendbar. Seit dem 1. Juli 1997 bildet Hongkong eine Besondere Verwaltungsregion (SAR) der Volksrepublik China. Auf Grund der chinesischen Erklärung vom 9. Juni 1997 ist das Übereink. seit dem 1. Juli 1997 auch in der SAR Hongkong anwendbar.x <sup>b</sup> Vom 22 April 1987 bis zum 19. Dez. 1999 war das Übereink. auf Grund einer Ausdehnungserklärung Portugals in Macau anwendbar. Seit dem 20. Dez. 1999 bildet Macau eine Besondere Verwaltungsregion (SAR) der Volksrepublik China. Auf Grund der chinesischen Erklärung vom 22. Nov. 1999 ist das Übereink. seit dem 20. Dez. 1999 auch in der SAR Macau anwendbar. <sup>c</sup> Das Übereink. gilt nicht für Tokelau.</td></tr>
+<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite der CITES: [www.cites.org/](http://www.cites.org/) eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden. <sup>a</sup> Vom 31. Okt. 1976 bis zum 30. Juni 1997 war das Übereink. auf Grund einer Ausdehnungserklärung des Vereinigten Königreichs in Hongkong anwendbar. Seit dem 1. Juli 1997 bildet Hongkong eine Besondere Verwaltungsregion (SAR) der Volksrepublik China. Auf Grund der chinesischen Erklärung vom 9. Juni 1997 ist das Übereink. seit dem 1. Juli 1997 auch in der SAR Hongkong anwendbar.x <sup>b</sup> Vom 22 April 1987 bis zum 19. Dez. 1999 war das Übereink. auf Grund einer Ausdehnungserklärung Portugals in Macau anwendbar. Seit dem 20. Dez. 1999 bildet Macau eine Besondere Verwaltungsregion (SAR) der Volksrepublik China. Auf Grund der chinesischen Erklärung vom 22. Nov. 1999 ist das Übereink. seit dem 20. Dez. 1999 auch in der SAR Macau anwendbar. <sup>c</sup> Das Übereink. gilt nicht für Tokelau.</td></tr>
 </table>
 
-[^t-80]: [AS 1975 1135](https://fedlex.data.admin.ch/eli/oc/1975/1135_1136_1136); [1976 1416](https://fedlex.data.admin.ch/eli/oc/1976/1416_1416_1416); [1977 933](https://fedlex.data.admin.ch/eli/oc/1977/933_933_933); [1978 1412](https://fedlex.data.admin.ch/eli/oc/1978/1412_1412_1412); [1979 1188](https://fedlex.data.admin.ch/eli/oc/1979/1188_1188_1188); [1981 947](https://fedlex.data.admin.ch/eli/oc/1981/947_947_947), [1295](https://fedlex.data.admin.ch/eli/oc/1981/1295_1295_1295); [1982 27](https://fedlex.data.admin.ch/eli/oc/1982/27_27_27), [1313](https://fedlex.data.admin.ch/eli/oc/1982/1313_1313_1313); [1983 144](https://fedlex.data.admin.ch/eli/oc/1983/144_144_144), [1094](https://fedlex.data.admin.ch/eli/oc/1983/1094_1094_1094); [1984 362](https://fedlex.data.admin.ch/eli/oc/1984/362_362_362); [1985 174](https://fedlex.data.admin.ch/eli/oc/1985/174_174_174), [1383](https://fedlex.data.admin.ch/eli/oc/1985/1383_1383_1383); [1986 515](https://fedlex.data.admin.ch/eli/oc/1986/515_515_515), [1827](https://fedlex.data.admin.ch/eli/oc/1986/1827_1827_1827); [1987 319](https://fedlex.data.admin.ch/eli/oc/1987/319_319_319), [1102](https://fedlex.data.admin.ch/eli/oc/1987/1102_1102_1102), [1504](https://fedlex.data.admin.ch/eli/oc/1987/1504_1504_1504); [1988 1061](https://fedlex.data.admin.ch/eli/oc/1988/1061_1061_1061); [1989 1107](https://fedlex.data.admin.ch/eli/oc/1989/1107_1107_1107); [1990 395](https://fedlex.data.admin.ch/eli/oc/1990/395_395_395), [1370](https://fedlex.data.admin.ch/eli/oc/1990/1370_1370_1370); [1991 818](https://fedlex.data.admin.ch/eli/oc/1991/818_818_818), [2095](https://fedlex.data.admin.ch/eli/oc/1991/2095_2095_2095); [1992 2127](https://fedlex.data.admin.ch/eli/oc/1992/2127_2127_2127); [1993 1277](https://fedlex.data.admin.ch/eli/oc/1993/1277_1277_1277); [1995 3560](https://fedlex.data.admin.ch/eli/oc/1995/3560_3560_3560); [2004 3715](https://fedlex.data.admin.ch/eli/oc/2004/519); [2005 2617](https://fedlex.data.admin.ch/eli/oc/2005/453); [2006 5455](https://fedlex.data.admin.ch/eli/oc/2006/825); [2009 2655](https://fedlex.data.admin.ch/eli/oc/2009/360); [2013 1487](https://fedlex.data.admin.ch/eli/oc/2013/349); [2014 2481](https://fedlex.data.admin.ch/eli/oc/2014/439); [2017 2897](https://fedlex.data.admin.ch/eli/oc/2017/301); [2024 576](https://fedlex.data.admin.ch/eli/oc/2024/576). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
+[^t-76]: [AS 1975 1135](https://fedlex.data.admin.ch/eli/oc/1975/1135_1136_1136); [1976 1416](https://fedlex.data.admin.ch/eli/oc/1976/1416_1416_1416); [1977 933](https://fedlex.data.admin.ch/eli/oc/1977/933_933_933); [1978 1412](https://fedlex.data.admin.ch/eli/oc/1978/1412_1412_1412); [1979 1188](https://fedlex.data.admin.ch/eli/oc/1979/1188_1188_1188); [1981 947](https://fedlex.data.admin.ch/eli/oc/1981/947_947_947), [1295](https://fedlex.data.admin.ch/eli/oc/1981/1295_1295_1295); [1982 27](https://fedlex.data.admin.ch/eli/oc/1982/27_27_27), [1313](https://fedlex.data.admin.ch/eli/oc/1982/1313_1313_1313); [1983 144](https://fedlex.data.admin.ch/eli/oc/1983/144_144_144), [1094](https://fedlex.data.admin.ch/eli/oc/1983/1094_1094_1094); [1984 362](https://fedlex.data.admin.ch/eli/oc/1984/362_362_362); [1985 174](https://fedlex.data.admin.ch/eli/oc/1985/174_174_174), [1383](https://fedlex.data.admin.ch/eli/oc/1985/1383_1383_1383); [1986 515](https://fedlex.data.admin.ch/eli/oc/1986/515_515_515), [1827](https://fedlex.data.admin.ch/eli/oc/1986/1827_1827_1827); [1987 319](https://fedlex.data.admin.ch/eli/oc/1987/319_319_319), [1102](https://fedlex.data.admin.ch/eli/oc/1987/1102_1102_1102), [1504](https://fedlex.data.admin.ch/eli/oc/1987/1504_1504_1504); [1988 1061](https://fedlex.data.admin.ch/eli/oc/1988/1061_1061_1061); [1989 1107](https://fedlex.data.admin.ch/eli/oc/1989/1107_1107_1107); [1990 395](https://fedlex.data.admin.ch/eli/oc/1990/395_395_395), [1370](https://fedlex.data.admin.ch/eli/oc/1990/1370_1370_1370); [1991 818](https://fedlex.data.admin.ch/eli/oc/1991/818_818_818), [2095](https://fedlex.data.admin.ch/eli/oc/1991/2095_2095_2095); [1992 2127](https://fedlex.data.admin.ch/eli/oc/1992/2127_2127_2127); [1993 1277](https://fedlex.data.admin.ch/eli/oc/1993/1277_1277_1277); [1995 3560](https://fedlex.data.admin.ch/eli/oc/1995/3560_3560_3560); [2004 3715](https://fedlex.data.admin.ch/eli/oc/2004/519); [2005 2617](https://fedlex.data.admin.ch/eli/oc/2005/453); [2006 5455](https://fedlex.data.admin.ch/eli/oc/2006/825); [2009 2655](https://fedlex.data.admin.ch/eli/oc/2009/360); [2013 1487](https://fedlex.data.admin.ch/eli/oc/2013/349); [2014 2481](https://fedlex.data.admin.ch/eli/oc/2014/439); [2017 2897](https://fedlex.data.admin.ch/eli/oc/2017/301); [2024 576](https://fedlex.data.admin.ch/eli/oc/2024/576). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
 
-Geltungsbereich der Änderung von Artikel XI Ziffer 3 Buchstabe a am 24. April 2017[^t-81]
+Geltungsbereich der Änderung von Artikel XI Ziffer 3 Buchstabe a am 24. April 2017[^t-77]
 
 <table>
 <tr><th>Staaten</th><th>Annahme Nachfolgeerklärung (N)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -2989,9 +3031,9 @@ Geltungsbereich der Änderung von Artikel XI Ziffer 3 Buchstabe a am 24. April 2
 <tr><td>Zypern</td><td>20. August</td><td>1986</td><td>13. April</td><td>1987</td></tr>
 </table>
 
-[^t-81]: [AS 1989 312](https://fedlex.data.admin.ch/eli/oc/1989/312_312_312); [1990 1373](https://fedlex.data.admin.ch/eli/oc/1990/1373_1373_1373); [1991 2095](https://fedlex.data.admin.ch/eli/oc/1991/2095_2095_2095); [1993 1277](https://fedlex.data.admin.ch/eli/oc/1993/1277_1277_1277); [2004 3715](https://fedlex.data.admin.ch/eli/oc/2004/519); [2005 2617](https://fedlex.data.admin.ch/eli/oc/2005/453); [2009 2655](https://fedlex.data.admin.ch/eli/oc/2009/360); [2017 2897](https://fedlex.data.admin.ch/eli/oc/2017/301). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
+[^t-77]: [AS 1989 312](https://fedlex.data.admin.ch/eli/oc/1989/312_312_312); [1990 1373](https://fedlex.data.admin.ch/eli/oc/1990/1373_1373_1373); [1991 2095](https://fedlex.data.admin.ch/eli/oc/1991/2095_2095_2095); [1993 1277](https://fedlex.data.admin.ch/eli/oc/1993/1277_1277_1277); [2004 3715](https://fedlex.data.admin.ch/eli/oc/2004/519); [2005 2617](https://fedlex.data.admin.ch/eli/oc/2005/453); [2009 2655](https://fedlex.data.admin.ch/eli/oc/2009/360); [2017 2897](https://fedlex.data.admin.ch/eli/oc/2017/301). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
 
-Geltungsbereich der Änderung des Artikels XXI am 24. April 2017[^t-82]
+Geltungsbereich der Änderung des Artikels XXI am 24. April 2017[^t-78]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -3118,4 +3160,4 @@ Geltungsbereich der Änderung des Artikels XXI am 24. April 2017[^t-82]
 <tr><td>Zypern</td><td>29. November</td><td>1993</td><td>29. November</td><td>2013</td></tr>
 </table>
 
-[^t-82]: [AS 2013 4103](https://fedlex.data.admin.ch/eli/oc/2013/754); [2017 2897](https://fedlex.data.admin.ch/eli/oc/2017/301). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
+[^t-78]: [AS 2013 4103](https://fedlex.data.admin.ch/eli/oc/2013/754); [2017 2897](https://fedlex.data.admin.ch/eli/oc/2017/301). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
