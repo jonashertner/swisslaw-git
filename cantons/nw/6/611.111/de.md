@@ -3,20 +3,19 @@ canton: NW
 number: "611.111"
 title: Regierungsratsbeschluss über das Inkrafttreten der Planungs- und Baugesetzgebung
 language: de
-version: 2026-01-01
-valid_until: 2026-04-30
-version_adopted: 2025-12-16
+version: 2026-05-01
+version_adopted: 2026-04-28
 adopted: 2023-12-12
 in_force: 2024-01-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/611.111"
-pdf: "https://gesetze.nw.ch/api/de/versions/1459/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/1501/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Regierungsratsbeschluss über das Inkrafttreten der Planungs- und Baugesetzgebung
 
-vom 12.12.2023 (Stand 01.01.2026)
+vom 12.12.2023 (Stand 01.05.2026)
 
 Der Regierungsrat von Nidwalden,
 
@@ -43,7 +42,7 @@ beschliesst:
 <tr><td>Buochs</td><td>teilweise am 1. August 2025 [^Ziff2-4][^Ziff2-5] und vollständig am 1. Dezember 2025</td></tr>
 <tr><td>Dallenwil</td><td>noch nicht in Kraft</td></tr>
 <tr><td>Emmetten</td><td>noch nicht in Kraft</td></tr>
-<tr><td>Ennetbürgen</td><td>noch nicht in Kraft</td></tr>
+<tr><td>Ennetbürgen</td><td>1. Mai 2026</td></tr>
 <tr><td>Ennetmoos</td><td>1. Juni 2024</td></tr>
 <tr><td>Hergiswil</td><td>1. Januar 2024</td></tr>
 <tr><td>Oberdorf</td><td>1. Januar 2026</td></tr>
