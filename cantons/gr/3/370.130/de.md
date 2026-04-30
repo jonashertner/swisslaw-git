@@ -4,13 +4,12 @@ number: "370.130"
 title: Verordnung über den elektronischen Rechtsverkehr
 short: VERV
 language: de
-version: 2025-04-01
-valid_until: 2026-04-30
-version_adopted: 2025-03-18
+version: 2026-05-01
+version_adopted: 2026-04-07
 adopted: 2024-03-05
 in_force: 2024-04-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/370.130"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/3541/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3813/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.gr-lex.gr.ch/api/de/versions/3541/pdf_file"
 
 (VERV)
 
-Vom 05.03.2024 (Stand 01.04.2025)
+Vom 05.03.2024 (Stand 01.05.2026)
 
 Gestützt auf Art. 45 Abs. 1 der Kantonsverfassung[^ingress-1] und auf Art. 6e Abs. 3, Art. 17 Abs. 4 und Art. 23a Abs. 3 des Gesetzes über die Verwaltungsrechtspflege[^ingress-2]
 
@@ -192,5 +191,31 @@ von der Regierung erlassen am 5. März 2024
 <sup>1</sup> Sofern die Behörde im betreffenden Verfahren die Eingabe über ein Übermittlungssystem zulässt, kann sie den am Verfahren Beteiligten die Akteneinsicht über dieses Übermittlungssystem gewähren, wenn die Beteiligten im Übermittlungssystem registriert sind und einer Verwendung für die Akteneinsicht zugestimmt haben.
 
 <sup>2</sup> Die Zustimmung nach Absatz 1 gilt nicht für den weiteren Verfahrenslauf, ausser die oder der Verfahrensbeteiligte erklärt dies ausdrücklich.
+
+## A1 Anhang 1: Anerkannte Übermittlungssysteme (Art. 3 Abs. 3)
+
+#### Art. A1-1
+
+<sup>1</sup> Übermittlungssysteme gemäss Art. 3 Abs. 1:
+
+<table>
+<tr><th>Departement / Dienststelle</th><th>Bezeichnung</th><th>Zweckbeschreibung</th></tr>
+<tr><td>DVS/ALG</td><td>NikA</td><td>Elektronische Plattform zur Abwicklung von Direktzahlungen und weiteren landwirtschaftlichen Massnahmen</td></tr>
+<tr><td>DVS/ARE</td><td>eBau</td><td>Elektronische Plattform zur Abwicklung von Baubewilligungsverfahren für Bauten innerhalb und ausserhalb von Bauzonen</td></tr>
+<tr><td>DVS/SOA</td><td>quint</td><td>Elektronische Plattform zur Gewährung von Vergünstigungen für anerkannte Kinderbetreuungsangebote</td></tr>
+<tr><td>DIEM/AEV</td><td>Gebäudeprogramm</td><td>Elektronische Plattform zur Einreichung von Gesuchen zur Förderung von Energieeffizienzmassnahmen im Gebäudebereich</td></tr>
+<tr><td>DIEM/AJF</td><td>Web-Anwendung für die Hegeabrechnung</td><td>Elektronische Abwicklung von Hegegesuchen und Hegeabrechnungen</td></tr>
+<tr><td>DIEM/AJF</td><td>Online-Shop für Fischereipatente</td><td>Online-Shop zur Beantragung und Ausstellung von Fischereipatenten</td></tr>
+<tr><td>DJSG/AFM</td><td>Online-Schalter für Gesuche um Ausländerausweise</td><td>Digitale Einreichung von Gesuchen durch KMU-Betriebe</td></tr>
+<tr><td>DJSG/AFM</td><td>Optimy</td><td>Online-Eingaben von Projekten an die Fachstelle Integration</td></tr>
+<tr><td>DJSG/GA</td><td>Web-Portal HeDAW</td><td>Elektronische Plattform zur Beantragung von Wartgelder für Hebammen und Entbindungspfleger</td></tr>
+<tr><td>DJSG/STVA</td><td>Cariportal</td><td>Elektronische Plattform mit verschiedenen Dienstleistungen im Zusammenhang mit der Führer- und Fahrzeugzulassung sowie der Fahrzeugkontrolle</td></tr>
+<tr><td>DBUK/AFB</td><td>Berufsbildungsportal</td><td>Dienstleistungen für Lehrbetriebe und Private im Zusammenhang mit der Berufsbildung sowie der Berufs-, Studien und Laufbahnberatung</td></tr>
+<tr><td>DBUK/AFU</td><td>eEBA (elektronische Entsorgungserklärung für Bauabfälle)</td><td>Elektronische Erfassung und Meldung von Bauschadstoffen, belastetem Boden und Altlasten im Rahmen von Baubewilligungsverfahren im Hinblick auf die korrekte Entsorgung</td></tr>
+<tr><td>DBUK/AFU</td><td>TUBO</td><td>Online-Plattform für Ausnahmebewilligungen vom Schleppschlauch-Obligatorium</td></tr>
+<tr><td>DBUK/AFU</td><td>SMRP</td><td>Elektronische Plattform zur Umsetzung der Schiffsmelde- und ‑reinigungspflicht</td></tr>
+<tr><td>DBUK</td><td>Stipendienportal</td><td>Webbasierte Gesuchseingabe für die Prüfung der Möglichkeit zur Ausrichtung von Stipendien an Personen in nachobligatorischer Ausbildung</td></tr>
+<tr><td>DFG/STV</td><td>tax.GR.ch</td><td>Elektronische Plattform zur Einreichung der Steuererklärung natürlicher Personen</td></tr>
+</table>
 
 2024-008

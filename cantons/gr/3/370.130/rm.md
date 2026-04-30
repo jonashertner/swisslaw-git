@@ -4,13 +4,12 @@ number: "370.130"
 title: Ordinaziun davart la correspundenza giuridica electronica
 short: OCGE
 language: rm
-version: 2025-04-01
-valid_until: 2026-04-30
-version_adopted: 2025-03-18
+version: 2026-05-01
+version_adopted: 2026-04-07
 adopted: 2024-03-05
 in_force: 2024-04-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/370.130"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3541/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3813/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3541/pdf_file"
 
 (OCGE)
 
-dals 05-03-2024 (versiun dals 01-04-2025)
+dals 05-03-2024 (versiun dals 01-05-2026)
 
 Sa basond sin l'art. 45 al. 1 da la Constituziun chantunala[^ingress-1] sco er sin l'art. 6e al. 3, l'art. 17 al. 4 e l'art. 23a al. 3 da la Lescha davart la giurisdicziun administrativa[^ingress-2]
 
@@ -192,5 +191,31 @@ relaschada da la Regenza ils 5 da mars 2024
 <sup>1</sup> Uschenavant che l'autoritad admetta inoltraziuns sur in sistem da transmissiun en la procedura respectiva, po ella conceder a las persunas participadas a la procedura da prender invista da las actas sur quest sistem, sche las persunas participadas èn registradas en il sistem da transmissiun ed han dà lur consentiment ad in'utilisaziun per l'invista da las actas.
 
 <sup>2</sup> Il consentiment tenor l'alinea 1 na vala betg per l'ulteriur decurs da la procedura, nun che la persuna participada a la procedura decleria quai explicitamain.
+
+## A1 Agiunta 1: Sistems da transmissiun renconuschids (art. 3 al. 3)
+
+#### Art. A1-1
+
+<sup>1</sup> Sistems da transmissiun tenor l'art. 3 al. 1:
+
+<table>
+<tr><th>Departament / post da servetsch</th><th>Designaziun</th><th>Descripziun da l'intent</th></tr>
+<tr><td>DES/UAG</td><td>NikA</td><td>Plattafurma electronica per liquidar pajaments directs ed ulteriuras mesiras agriculas</td></tr>
+<tr><td>DES/UST</td><td>eBau</td><td>Plattafurma electronica per liquidar proceduras da permissiun da construcziun per edifizis entaifer ed ordaifer las zonas da construcziun</td></tr>
+<tr><td>DES/USo</td><td>quint</td><td>Plattafurma electronica per conceder reducziuns dals custs per purschidas da la tgira d'uffants renconuschidas</td></tr>
+<tr><td>DIEM/UEnTr</td><td>Program d'edifizis</td><td>Plattafurma electronica per inoltrar dumondas per promover mesiras da l'effizienza energetica en il sectur dals edifizis</td></tr>
+<tr><td>DIEM/UCP</td><td>Applicaziun online per il rendaquint da la tgira</td><td>Liquidaziun electronica da dumondas da tgira e da rendaquints da la tgira</td></tr>
+<tr><td>DIEM/UCP</td><td>Shop online per patentas da pestga</td><td>Shop online per dumandar ed emetter patentas da pestga</td></tr>
+<tr><td>DGSS/UMDC</td><td>Spurtegl online per dumandar legitimaziuns da persunas estras</td><td>Inoltraziun digitala da dumondas tras interpresas pitschnas e mesaunas</td></tr>
+<tr><td>DGSS/UMDC</td><td>Optimy</td><td>Inoltraziuns online da projects al Post spezialisà per l'integraziun</td></tr>
+<tr><td>DGSS/US</td><td>Portal online HeDAW</td><td>Plattafurma electronica per dumandar indemnisaziuns da spetga per spendreras e per gidanters da naschientscha</td></tr>
+<tr><td>DGSS/UTV</td><td>Cariportal</td><td>Plattafurma electronica cun differents servetschs en connex cun l'admissiun da manischunzas e manischunzs e da vehichels sco er cun la controlla da vehichels</td></tr>
+<tr><td>DFAC/UCFP</td><td>Portal da la furmaziun professiunala</td><td>Servetschs per manaschis d'emprendissadi e per persunas privatas en connex cun la furmaziun professiunala sco er cun la cussegliaziun da professiun, da studi e da carriera</td></tr>
+<tr><td>DFAC/UAMB</td><td>eEBA (decleranza electronica da dismessa per ruments da construcziun)</td><td>Endataziun ed annunzia electronica da substanzas da construcziun nuschaivlas, da terren contaminà e da deponias veglias en il rom da proceduras per la permissiun da construcziun en vista a la dismessa correcta</td></tr>
+<tr><td>DFAC/UAMB</td><td>TUBO</td><td>Plattafurma online per dumandar permissiuns da divergiar da l'obligatori d'utilisar uders fins</td></tr>
+<tr><td>DFAC/UAMB</td><td>SMRP</td><td>Plattafurma electronica per realisar l'obligaziun d'annunziar e da nettegiar bartgas</td></tr>
+<tr><td>DFAC</td><td>Portal da stipendis</td><td>Inoltraziun online da dumondas per examinar la pussaivladad da pajar stipendis a persunas che fan ina scolaziun postobligatorica</td></tr>
+<tr><td>DFV/ATa</td><td>tax.GR.ch</td><td>Plattafurma electronica per inoltrar la decleraziun da taglia da persunas natiralas</td></tr>
+</table>
 
 2024-008
