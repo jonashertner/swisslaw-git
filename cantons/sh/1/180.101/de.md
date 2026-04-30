@@ -4,13 +4,12 @@ number: "180.101"
 title: Verordnung über die Entlöhnung des Staatspersonals
 short: Lohnverordnung
 language: de
-version: 2026-01-01
-valid_until: 2026-04-30
-version_adopted: 2025-12-16
+version: 2026-05-01
+version_adopted: 2026-04-28
 adopted: 2005-09-27
 in_force: 2005-11-01
 url: "https://rechtsbuch.sh.ch/app/de/texts_of_law/180.101"
-pdf: "https://rechtsbuch.sh.ch/api/de/versions/2049/pdf_file"
+pdf: "https://rechtsbuch.sh.ch/api/de/versions/2090/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://rechtsbuch.sh.ch/api/de/versions/2049/pdf_file"
 
 (Lohnverordnung)
 
-Vom 27.09.2005 (Stand 01.01.2026)
+Vom 27.09.2005 (Stand 01.05.2026)
 
 Der Regierungsrat des Kantons Schaffhausen,
 
@@ -105,7 +104,7 @@ beschliesst:
 
 <sup>1</sup> Soweit nicht der Regierungsrat zuständig ist, legt die Anstellungsbehörde den Anfangslohn im Einvernehmen mit dem zuständigen Personaldienst fest.
 
-<sup>2</sup> Für den Bereich der Rechtspflege legt der Regierungsrat den Anfangslohn fest für Mitarbeiterinnen und Mitarbeiter der Lohnbänder 10 bis 17 sowie von Personen, die keinem Lohnband zugeordnet sind, aber eine vergleichbare Tätigkeit ausüben. Im Übrigen erfolgt die Lohnfindung durch die Anstellungsbehörde im Einvernehmen mit dem Personalamt.
+<sup>2</sup> Für den Bereich der Rechtspflege legt der Regierungsrat den Anfangslohn fest für Mitarbeiterinnen und Mitarbeiter der Lohnbänder 14 bis 17 sowie von Personen, die keinem Lohnband zugeordnet sind, aber eine vergleichbare Tätigkeit ausüben. Im Übrigen erfolgt die Lohnfindung durch die Anstellungsbehörde im Einvernehmen mit dem Personalamt.
 
 <sup>3</sup> Der Anfangslohn hängt von der Funktion und der nutzbaren Erfahrung ab. Ergänzend werden der interne Vergleich und die Lage auf dem Arbeitsmarkt berücksichtigt. Für homogene Berufsgruppen kann das zuständige Departement Richtlinien erlassen.
 
