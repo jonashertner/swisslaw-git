@@ -4,13 +4,12 @@ number: "173.000"
 title: "Legge sull'organizzazione giudiziaria"
 short: LOG
 language: it
-version: 2025-01-01
-valid_until: 2026-04-30
-version_adopted: 2022-06-14
+version: 2026-05-01
+version_adopted: 2025-10-20
 adopted: 2022-06-14
 in_force: 2025-01-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/173.000"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/3357/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3634/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
@@ -19,7 +18,7 @@ pdf: "https://www.gr-lex.gr.ch/api/it/versions/3357/pdf_file"
 
 (LOG)[^t-1]
 
-del 14.06.2022 (stato 01.01.2025)
+del 14.06.2022 (stato 01.05.2026)
 
 Il Gran Consiglio del Cantone dei Grigioni[^ingress-1],
 
@@ -711,7 +710,11 @@ decide:
 
 **Composizione e posizione**
 
-<sup>1</sup> L'ufficio cantonale del giudice dei provvedimenti coercitivi è composto da un giudice unico nonché da due supplenti.
+<sup>1</sup> L'ufficio cantonale del giudice dei provvedimenti coercitivi è composto da almeno tre giudici unici.
+
+<sup>1<sup>bis</sup></sup> Prima dell'inizio di ogni periodo di carica, su richiesta del Tribunale d'appello il Gran Consiglio stabilisce il numero totale di giudici unici che compongono l'ufficio cantonale del giudice dei provvedimenti coercitivi.
+
+<sup>1<sup>ter</sup></sup> Se l'ufficio cantonale del giudice dei provvedimenti coercitivi non è in grado di far fronte alla mole di lavoro con il numero di giudici unici stabilito per il rispettivo periodo di carica, su richiesta del Tribunale d'appello il Gran Consiglio aumenta il numero di giudici unici nella misura necessaria.
 
 <sup>2</sup> L'ufficio del giudice dei provvedimenti coercitivi è indipendente nella giurisprudenza e vincolato unicamente al diritto.
 
@@ -729,7 +732,7 @@ decide:
 
 **Supplenza**
 
-<sup>1</sup> Se a seguito di motivi di impedimento o di ricusa il giudice unico non può essere sostituito da un supplente, il Tribunale d'appello designa il supplente tra i giudici a titolo principale dei tribunali regionali che sono a capo di una camera penale e che non fanno parte dell'ufficio cantonale del giudice dei provvedimenti coercitivi.
+<sup>1</sup> Se a seguito di motivi di impedimento o di ricusa non è possibile occupare l'ufficio cantonale del giudice dei provvedimenti coercitivi, il Tribunale d'appello designa il supplente tra i giudici a titolo principale dei tribunali regionali che sono a capo di una camera penale e che non fanno parte dell'ufficio cantonale del giudice dei provvedimenti coercitivi.
 
 ### 3.3. Tribunale della magistratura
 

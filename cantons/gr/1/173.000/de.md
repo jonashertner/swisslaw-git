@@ -4,13 +4,12 @@ number: "173.000"
 title: Gerichtsorganisationsgesetz
 short: GOG
 language: de
-version: 2025-01-01
-valid_until: 2026-04-30
-version_adopted: 2022-06-14
+version: 2026-05-01
+version_adopted: 2025-10-20
 adopted: 2022-06-14
 in_force: 2025-01-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/173.000"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/3357/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3634/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.gr-lex.gr.ch/api/de/versions/3357/pdf_file"
 
 (GOG)[^t-1]
 
-Vom 14.06.2022 (Stand 01.01.2025)
+Vom 14.06.2022 (Stand 01.05.2026)
 
 Der Grosse Rat des Kantons Graubünden[^ingress-1],
 
@@ -711,7 +710,11 @@ beschliesst:
 
 **Zusammensetzung und Stellung**
 
-<sup>1</sup> Das kantonale Zwangsmassnahmengericht besteht aus einer Einzelrichterin oder einem Einzelrichter sowie zwei Stellvertreterinnen oder Stellvertretern.
+<sup>1</sup> Das kantonale Zwangsmassnahmengericht besteht im Minimum aus drei Einzelrichterinnen oder Einzelrichtern.
+
+<sup>1<sup>bis</sup></sup> Der Grosse Rat legt jeweils vor Beginn der Amtsperiode auf Antrag des Obergerichts die Gesamtanzahl der Einzelrichterinnen und Einzelrichter des kantonalen Zwangsmassnahmengerichts fest.
+
+<sup>1<sup>ter</sup></sup> Kann das kantonale Zwangsmassnahmengericht die Geschäftslast nicht mit der für die jeweilige Amtsperiode festgelegten Anzahl Einzelrichterinnen und Einzelrichter bewältigen, erhöht der Grosse Rat auf Antrag des Obergerichts die Anzahl der Einzelrichterinnen und Einzelrichter im erforderlichen Umfang.
 
 <sup>2</sup> Das Zwangsmassnahmengericht ist in der Rechtsprechung unabhängig und nur dem Recht verpflichtet.
 
@@ -729,7 +732,7 @@ beschliesst:
 
 **Stellvertretung**
 
-<sup>1</sup> Kann die Einzelrichterin oder der Einzelrichter wegen Verhinderungs- oder Ausstandsgründen nicht durch eine Stellvertretung ersetzt werden, bezeichnet das Obergericht die Stellvertretung aus dem Kreis der hauptamtlichen Mitglieder der Regionalgerichte, die einer Strafkammer vorstehen und nicht dem kantonalen Zwangsmassnahmengericht angehören.
+<sup>1</sup> Kann das kantonale Zwangsmassnahmengericht wegen Verhinderungs- oder Ausstandsgründen nicht besetzt werden, bezeichnet das Obergericht die Stellvertretung aus dem Kreis der hauptamtlichen Mitglieder der Regionalgerichte, die einer Strafkammer vorstehen und nicht dem kantonalen Zwangsmassnahmengericht angehören.
 
 ### 3.3. Justizgericht
 

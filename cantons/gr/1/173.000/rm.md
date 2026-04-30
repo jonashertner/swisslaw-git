@@ -4,13 +4,12 @@ number: "173.000"
 title: "Lescha davart l'organisaziun giudiziala"
 short: LOG
 language: rm
-version: 2025-01-01
-valid_until: 2026-04-30
-version_adopted: 2022-06-14
+version: 2026-05-01
+version_adopted: 2025-10-20
 adopted: 2022-06-14
 in_force: 2025-01-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/173.000"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3357/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3634/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3357/pdf_file"
 
 (LOG)[^t-1]
 
-dals 14-06-2022 (versiun dals 01-01-2025)
+dals 14-06-2022 (versiun dals 01-05-2026)
 
 Il Cussegl grond dal chantun Grischun[^ingress-1],
 
@@ -711,7 +710,11 @@ concluda:
 
 **Cumposiziun e posiziun**
 
-<sup>1</sup> La Dretgira chantunala da mesiras repressivas sa cumpona d'ina derschadra singula u d'in derschader singul sco er da duas substitutas u substituts.
+<sup>1</sup> La Dretgira chantunala da mesiras repressivas sa cumpona almain da trais derschadras singulas u derschaders singuls.
+
+<sup>1<sup>bis</sup></sup> Sin proposta da la Dretgira superiura fixescha il Cussegl grond mintgamai avant il cumenzament da la perioda d'uffizi il dumber total da derschadras singulas e derschaders singuls da la Dretgira chantunala da mesiras repressivas.
+
+<sup>1<sup>ter</sup></sup> Sche la Dretgira chantunala da mesiras repressivas na vegn betg da liquidar la chargia da lavur ordinaria cun il dumber da derschadras singulas e derschaders singuls fixà per la perioda d'uffizi respectiva, auza il Cussegl grond il dumber da derschadras singulas e derschaders singuls en la dimensiun necessaria sin proposta da la Dretgira superiura.
 
 <sup>2</sup> La Dretgira da mesiras repressivas è independenta en la giurisdicziun ed è obligada mo al dretg.
 
@@ -729,7 +732,7 @@ concluda:
 
 **Substituziun**
 
-<sup>1</sup> Sche la derschadra singula u il derschader singul na po betg vegnir remplazzà tras ina substituziun per motivs d'impediment u da recusaziun, designescha la Dretgira superiura la substituziun or dal circul da las commembras e dals commembers da las dretgiras regiunalas en uffizi principal che presidieschan ina chombra penala e che n'appartegnan betg a la Dretgira chantunala da mesiras repressivas.
+<sup>1</sup> Sche la Dretgira chantunala da mesiras repressivas na po betg vegnir occupada per motivs d'impediment u da recusaziun, designescha la Dretgira superiura la substituziun or dal circul da las commembras e dals commembers da las dretgiras regiunalas en uffizi principal che presidieschan ina chombra penala e che n'appartegnan betg a la Dretgira chantunala da mesiras repressivas.
 
 ### 3.3. Dretgira da giustia
 
