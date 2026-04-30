@@ -3,20 +3,19 @@ canton: BE
 number: "105.235.1"
 title: Arrêté du Conseil-exécutif concernant l’adhésion aux accords d’exécution entre le canton de Berne et la République et Canton du Jura relatifs au transfert de la commune municipale de Moutier dans le canton du Jura
 language: fr
-version: 2026-01-01
-valid_until: 2026-04-30
-version_adopted: 2025-12-10
+version: 2026-05-01
+version_adopted: 2026-03-25
 adopted: 2024-11-27
 in_force: 2025-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/105.235.1"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/3296/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3360/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
 
 # Arrêté du Conseil-exécutif concernant l’adhésion aux accords d’exécution entre le canton de Berne et la République et Canton du Jura relatifs au transfert de la commune municipale de Moutier dans le canton du Jura
 
-du 27.11.2024 (état au 01.01.2026)
+du 27.11.2024 (état au 01.05.2026)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -69,6 +68,14 @@ arrête:
 <tr><td>Accord d’exécution n° 31 concernant les procédures pénales se trouvant au stade de la procédure préliminaire</td><td>10.12.2025</td><td>01.01.2026</td><td>25-133</td><td>[105.235.1-31](https://www.belex.sites.be.ch/data/105.235.1-31/fr)</td></tr>
 <tr><td>Accord d’exécution n° 32 concernant le domaine de la santé</td><td>10.12.2025</td><td>01.01.2026</td><td>25-134</td><td>[105.235.1-32](https://www.belex.sites.be.ch/data/105.235.1-32/fr)</td></tr>
 </table>
+
+#### Art. 1a
+
+**Modification**
+
+<sup>1</sup> Le Conseil-exécutif approuve la modification du 25.03.2026 de l'accord d'exécution n° 5 concernant l'enseignement du degré secondaire II[^1a-1], publiée dans le numéro ROB 26-013.
+
+[^1a-1]: RSB [105.234-1-5](https://www.belex.sites.be.ch/data/105.234-1-5/fr)
 
 #### Art. 2
 

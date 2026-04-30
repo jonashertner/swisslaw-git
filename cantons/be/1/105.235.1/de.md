@@ -3,20 +3,19 @@ canton: BE
 number: "105.235.1"
 title: Regierungsratsbeschluss über den Beitritt zu den Vollzugsvereinbarungen zwischen den Kantonen Bern und Jura im Zusammenhang mit dem Wechsel der Einwohnergemeinde Moutier zum Kanton Jura
 language: de
-version: 2026-01-01
-valid_until: 2026-04-30
-version_adopted: 2025-12-10
+version: 2026-05-01
+version_adopted: 2026-03-25
 adopted: 2024-11-27
 in_force: 2025-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/105.235.1"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/3296/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3360/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Regierungsratsbeschluss über den Beitritt zu den Vollzugsvereinbarungen zwischen den Kantonen Bern und Jura im Zusammenhang mit dem Wechsel der Einwohnergemeinde Moutier zum Kanton Jura
 
-vom 27.11.2024 (Stand 01.01.2026)
+vom 27.11.2024 (Stand 01.05.2026)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -69,6 +68,14 @@ beschliesst:
 <tr><td>Vollzugsvereinbarung Nr. 31 betreffend Strafverfahren in der Phase des Vorverfahrens</td><td>10.12.2025</td><td>01.01.2026</td><td>25-133</td><td>[105.235.1-31](https://www.belex.sites.be.ch/data/105.235.1-31/de)</td></tr>
 <tr><td>Vollzugsvereinbarung Nr. 32 betreffend den Gesundheitsbereich</td><td>10.12.2025</td><td>01.01.2026</td><td>25-134</td><td>[105.235.1-32](https://www.belex.sites.be.ch/data/105.235.1-32/de)</td></tr>
 </table>
+
+#### Art. 1a
+
+**Änderung**
+
+<sup>1</sup> Der Regierungsrat genehmigt die unter der BAG-Nummer 26-013 veröffentlichte Änderung vom 25.03.2026 der Vollzugsvereinbarung Nr. 5 betreffend die Sekundarstufe II[^1a-1].
+
+[^1a-1]: BSG [105.234-1-5](https://www.belex.sites.be.ch/data/105.234-1-5/de)
 
 #### Art. 2
 
