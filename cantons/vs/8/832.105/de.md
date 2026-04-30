@@ -4,13 +4,12 @@ number: "832.105"
 title: "Verordnung über die obligatorische Krankenversicherung und die individuellen Prämienverbilligungen *"
 short: VüIPV
 language: de
-version: 2023-01-01
-valid_until: 2026-04-30
-version_adopted: 2023-02-08
+version: 2026-05-01
+version_adopted: 2026-05-20
 adopted: 2011-11-16
 in_force: 2012-01-01
 url: "https://lex.vs.ch/app/de/texts_of_law/832.105"
-pdf: "https://lex.vs.ch/api/de/versions/3166/pdf_file"
+pdf: "https://lex.vs.ch/api/de/versions/3609/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,13 +18,15 @@ pdf: "https://lex.vs.ch/api/de/versions/3166/pdf_file"
 
 (VüIPV)
 
-vom 16.11.2011 (Stand 01.01.2023)
+vom 16.11.2011 (Stand 01.05.2026)
 
 Der Staatsrat des Kantons Wallis
 
-eingesehen den Artikel 17 des kantonalen Gesetzes über die Krankenversicherung vom 22. Juni 1995 (KGKV);
+eingesehen den Artikel 57 Absatz 2 der Kantonsverfassung;
 
-auf Antrag des Departements für Finanzen, Institutionen und Gesundheit,
+eingesehen den Artikel 17 des kantonalen Gesetzes über die Krankenversicherung vom 22. Juni 1995 (kGKVG);
+
+auf Antrag des für die Gesundheit zuständigen Departements,
 
 verordnet:
 
@@ -74,7 +75,7 @@ verordnet:
 
 <sup>3</sup> Versicherte, die am 31. Dezember des Jahres vor der gewährten Prämienverbilligung 20 Jahre alt sind, werden individuell behandelt. Vorbehalten bleibt Artikel 9 Absatz 2.
 
-<sup>4</sup> Ausländische Studierende, die allein in die Schweiz einreisen, müssen gemäss Verordnung über die Begrenzung der Zahl der Ausländer vom 6. Oktober 1986 (BVO) über die nötigen finanziellen Mittel verfügen und haben grundsätzlich kein Anrecht auf finanzielle Unterstützung. Vorbehalten bleiben dabei die gemäss Artikel 4 ausserordentlichen Fälle.
+<sup>4</sup> Ausländische Studierende, die allein in die Schweiz einreisen, müssen gemäss dem Bundesgesetz über die Ausländerinnen und Ausländer und über die Integration (AIG) oder dem Freizügigkeitsabkommen (FZA) über die nötigen finanziellen Mittel verfügen und haben grundsätzlich kein Anrecht auf finanzielle Unterstützung. Vorbehalten bleiben dabei die gemäss Artikel 4 ausserordentlichen Fälle.
 
 #### Art. 4
 
@@ -122,9 +123,9 @@ verordnet:
 
 **Massgebendes Einkommen**
 
-<sup>1</sup> Das massgebende Einkommen für eine Gewährung der finanziellen Unterstützung entspricht dem Nettoeinkommen vor den persönlichen Abzügen (Ziffer 2400) der Steuerrechnung. Dabei wird die Steuerperiode berücksichtigt, die zwei Jahre vor dem Jahr liegt, für welches eine individuelle Prämienverbilligung angestrebt wird (Jahr x - 2 Jahre). Zum Einkommen werden:
+<sup>1</sup> Das massgebende Einkommen für eine Gewährung der finanziellen Unterstützung entspricht dem Nettoeinkommen vor den persönlichen Abzügen (Ziffer 2400) der Steuerrechnung. Dabei wird die Steuerperiode berücksichtigt, die 2 Jahre vor dem Jahr liegt, für welches eine individuelle Prämienverbilligung angestrebt wird (Jahr x - 2 Jahre). Zum Einkommen werden:
 
-- a) fünf Prozent des eingeschätzten Nettovermögens sowie die Beiträge für die verschiedenen, anerkannten individuellen Altersvorsorgen (3. Säule) bis zum Maximalbetrag des Angestelltenlohns, den im Ausland erworbenen Einkommens- und Vermögenselementen, der negativen Einkommen aus Liegenschaften sowie der nicht verrechneten Verluste einer selbstständigen Erwerbstätigkeit dazugerechnet;
+- a) 5 Prozent des eingeschätzten Nettovermögens sowie die Beiträge für die verschiedenen, anerkannten individuellen Altersvorsorgen (3. Säule) bis zum Maximalbetrag des Angestelltenlohns, den im Ausland erworbenen Einkommens- und Vermögenselementen, der negativen Einkommen aus Liegenschaften sowie der nicht verrechneten Verluste einer selbstständigen Erwerbstätigkeit dazugerechnet;
 - b) die aufgrund des Familienrechts oder einer Vereinbarung bezahlten Unterhaltsbeiträge sowie die erhaltenen Kapitalleistungen abgezogen.
 
 <sup>1<sup>bis</sup></sup> …
@@ -171,30 +172,17 @@ verordnet:
 
 <sup>1</sup> Für die Bestimmung des Anrechts auf Gewährung von individuellen Prämienverbilligungen werden die anwendbaren Bestimmungen für die Berechnung der Kantonssteuer herangezogen, vorbehalten bleiben die in folgenden Absätzen vorgesehenen Bestimmungen.
 
-<sup>2</sup> Massgebend ist das familiäre Verhältnis am 31. Dezember des Vorjahres, für welche eine individuelle Prämienverbilligung angestrebt wird.
+<sup>2</sup> Massgebend ist das familiäre Verhältnis am 31. Dezember des Vorjahres, für welche eine individuelle Prämienverbilligung angestrebt wird. Es werden nur Personen bei den Familienverhältnissen berücksichtigt, die ihren gesetzlichen Wohnsitz im Wallis haben.
 
 <sup>2<sup>bis</sup></sup> Abweichend zu Absatz 2 wird die neue familiäre Situation ab Beginn des Monats, in dem ein Kind geboren oder adoptiert wird, berücksichtigt.
 
 <sup>3</sup> Während des Jahres eingetretene Änderungen der familiären oder persönlichen Verhältnisse werden im folgenden Jahr berücksichtigt. Vorbehalten bleibt Absatz 2<sup>bis</sup>.
 
-<sup>4</sup> Wenn sich seit der Mitteilung der Gewährung der individuellen Prämienverbilligung das massgebende Einkommen gegenüber dem vorangegangenen Jahr wesentlich und dauernd erhöht hat, beispielsweise bei Personen, die nach einer Ausbildung erwerbstätig werden, wird die Gewährung einer Prämienverbilligung aufgrund der Steuerperiode berechnet, die dem Jahr der finanziellen Unterstützung vorangeht (Jahr X - 1 Jahr).
+<sup>4</sup> Hat sich das massgebende Einkommen von Personen, die nach Abschluss einer Ausbildung eine Erwerbstätigkeit aufgenommen haben, im Vorjahr wesentlich und dauerhaft erhöht, wird der Anspruch auf Prämienverbilligung auf der Grundlage der Steuerperiode (Jahr x – 1 Jahr) geprüft, die dem Jahr, in dem eine finanzielle Unterstützung gewährt wird, vorangeht. Das Departement legt in Richtlinien die Anwendungsmodalitäten sowie den Kreis der von diesem Absatz betroffenen Personen fest.
 
-<sup>5</sup> Wenn die finanzielle Situation im Jahr vor der finanziellen Unterstützung im Sinne von Artikel 8 um 30 Prozent oder mehr vom massgebenden Einkommen wesentlich und dauernd gesunken ist, kann aus Billigkeitsgründen auf begründetes Gesuch hin das massgebende Einkommen auf der Grundlage der vom Gesuchsteller ausgefüllten Steuererklärung des Jahres vor der angestrebten individuellen Prämienverbilligung berechnet werden.
+<sup>5</sup> Wenn die finanzielle Situation im Jahr vor der finanziellen Unterstützung um 30 Prozent oder mehr vom massgebenden Einkommen im Sinne von Artikel 8 gesunken ist, ausgenommen Selbstständigerwerbende sowie Personen, die rückwirkende AHV- oder IV-Renten bezogen haben, kann aus Billigkeitsgründen auf begründetes Gesuch hin das massgebende Einkommen auf der Grundlage der vom Gesuchsteller ausgefüllten Steuererklärung des Jahres vor der angestrebten individuellen Prämienverbilligung berechnet werden.
 
-<sup>5<sup>bis</sup></sup> Als wesentliche und dauerhafte Senkung wird angesehen:
-
-- a) die Berufsänderung;
-- b) der Rückgang der Erwerbsquote;
-- c) der Übergang von einer Vollzeit- zu einer Teilzeittätigkeit;
-- d) der Übergang von einer unselbständigen zu einer selbständigen Tätigkeit (oder umgekehrt);
-- e) die Aufgabe einer Tätigkeit;
-- f) die Pensionierung;
-- g) der Erhalt einer IV-Rente;
-- h) die Einstellung von AHV/IV-Rentenzahlungen;
-- i) das Ende des Bezugsrechts für Arbeitslosenentschädigungen;
-- j) das Ende des Anrechts auf AHV/IV-Ergänzungsleistungen;
-- k) das Ende des Anrechts auf Sozialhilfe;
-- l) der Beginn oder die Einstellung von Alimentenzahlungen.
+<sup>5<sup>bis</sup></sup> …
 
 <sup>6</sup> Wenn sich die finanzielle Situation während des Jahres, für das eine finanzielle Unterstützung gewährt wurde, stark verschlechtert, befindet die Gemeindebehörde über den Anspruch auf Sozialhilfe. Für diese Personen wird die finanzielle Unterstützung aufgrund dieses Entscheids gewährt.
 
@@ -206,9 +194,9 @@ verordnet:
 
 **Mitteilung der Gewährung der individuellen Prämienverbilligung**
 
-<sup>1</sup> Personen, die die Bedingungen für eine Gewährung der individuellen Prämienverbilligung erfüllen, erhalten einen entsprechenden aufgrund der Steuerdaten ausgestellten Entscheid. Die betroffenen Personen können ihren Anspruch innerhalb der zwingenden Frist von fünf Jahren nach der Mitteilung des Entscheids bei der Ausgleichskasse geltend machen.
+<sup>1</sup> Personen, die die Bedingungen für eine Gewährung der individuellen Prämienverbilligung erfüllen, erhalten einen entsprechenden aufgrund der Steuerdaten ausgestellten Entscheid. Die betroffenen Personen können ihren Anspruch innerhalb der zwingenden Frist von 2 Jahren nach der Mitteilung des Entscheids bei der Ausgleichskasse geltend machen.
 
-<sup>2</sup> Personen, welche davon ausgehen, die Subventionsbedingungen zu erfüllen und keinen Entscheid über die Gewährung einer individuellen Prämienverbilligung erhalten, müssen bei der Ausgleichskasse innerhalb der zwingenden Frist von fünf Jahren ab dem 31. Dezember des Jahres, in dem eine finanzielle Unterstützung gewährt werden könnte, ein begründetes Gesuch einreichen.
+<sup>2</sup> Personen, welche davon ausgehen, die Subventionsbedingungen zu erfüllen und keinen Entscheid über die Gewährung einer individuellen Prämienverbilligung erhalten, müssen bei der Ausgleichskasse ein begründetes Gesuch einreichen. Die Frist beträgt rückwirkend 2 Jahre und beginnt zu Beginn des Monats, in dem der begründete Antrag bei der Ausgleichskasse eingegangen ist.
 
 #### Art. 12
 
@@ -307,7 +295,7 @@ verordnet:
 
 <sup>4</sup> In bestimmten Fällen kann die Dienststelle für Gesundheitswesen die Rückerstattung von Subventionen direkt von den Versicherten verlangen.
 
-<sup>5</sup> Der Rückforderungsanspruch erlischt ein Jahr nachdem die Ausgleichskasse oder die Dienststelle für Gesundheitswesen davon Kenntnis erhalten hat, jedoch spätestens fünf Jahre nach der Mitteilung des Anrechts auf Prämienverbilligung. Wird der Rückerstattungsanspruch aus einer strafbaren Handlung hergeleitet, für welche das Strafrecht eine längere Verjährungsfrist vorsieht, so ist diese Frist massgebend.
+<sup>5</sup> Der Rückforderungsanspruch erlischt ein Jahr nachdem die Ausgleichskasse oder die Dienststelle für Gesundheitswesen davon Kenntnis erhalten hat, jedoch spätestens 5 Jahre nach der Mitteilung des Anrechts auf Prämienverbilligung. Wird der Rückerstattungsanspruch aus einer strafbaren Handlung hergeleitet, für welche das Strafrecht eine längere Verjährungsfrist vorsieht, so ist diese Frist massgebend.
 
 ## 4 Nichtbezahlung der Prämien und Regelung von Zahlungsausständen
 
@@ -322,6 +310,8 @@ verordnet:
 **Grundsatz und Vorgehen**
 
 <sup>1</sup> Die Bestimmungen im Bereich der Nichtbezahlung der Prämien und der Regelung von Zahlungsausständen gelten für alle Versicherten, die zum Zeitpunkt der Ausstellung des Verlustscheins im Wallis wohnhaft sind und bei einem anerkannten schweizerischen Versicherer über eine obligatorische Krankenpflegeversicherung verfügen.
+
+<sup>1<sup>bis</sup></sup> Auf Mitteilung der Versicherer übernimmt der Kanton 100 Prozent der ausstehenden Forderungen der obligatorischen Krankenpflegeversicherung (OKP) der Versicherten, gegen die keine Betreibung eingeleitet werden darf (Personen, die Ergänzungsleistungen zur AHV/IV beziehen sowie Sozialhilfeempfänger und Personen, deren Einkommen von den Sozialdiensten des Kantons Wallis als unzureichend eingestuft wurde).
 
 <sup>2</sup> Das Departement präzisiert mittels Richtlinien die Grundsätze und das Vorgehen bei ausstehenden Prämien, Kostenbeteiligungen, Verzugszinsen und Betreibungskosten. Die Richtlinien legen namentlich fest:
 
@@ -374,5 +364,11 @@ verordnet:
 <sup>3</sup> Das Departement ist für die Anwendung der vorliegenden Verordnung zuständig.
 
 <sup>4</sup> Die vorliegende Verordnung wird im Amtsblatt veröffentlicht und tritt am 1. Januar 2012 in Kraft.
+
+## T1 Übergangsbestimmungen der Änderung vom 20.05.2026
+
+#### Art. T1-1
+
+<sup>1</sup> Ab Inkrafttreten der Änderung vom 20. Mai 2026 unterliegen alle begründeten Gesuche, die bei der Ausgleichskasse eingereicht werden, unabhängig vom Jahr, für das die individuelle Prämienverbilligung beantragt wird, der neuen Frist von 2 Jahren gemäss Artikel 11.
 
 CSW BO/Abl. 48/2011

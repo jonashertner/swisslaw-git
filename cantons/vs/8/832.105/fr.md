@@ -4,13 +4,12 @@ number: "832.105"
 title: "Ordonnance concernant l'assurance-maladie obligatoire et les réductions individuelles des primes"
 short: OcRIP
 language: fr
-version: 2023-01-01
-valid_until: 2026-04-30
-version_adopted: 2023-02-08
+version: 2026-05-01
+version_adopted: 2026-05-20
 adopted: 2011-11-16
 in_force: 2012-01-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/832.105"
-pdf: "https://lex.vs.ch/api/fr/versions/3166/pdf_file"
+pdf: "https://lex.vs.ch/api/fr/versions/3609/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
@@ -19,13 +18,15 @@ pdf: "https://lex.vs.ch/api/fr/versions/3166/pdf_file"
 
 (OcRIP)
 
-du 16.11.2011 (état 01.01.2023)
+du 16.11.2011 (état 01.05.2026)
 
 Le Conseil d'Etat du canton du Valais
 
-vu l'article 17 de la loi cantonale sur l'assurance-maladie du 22 juin 1995 (LcAM);
+vu l'article 57 alinéa 2 de la Constitution cantonale;
 
-sur la proposition du Département des finances, des institutions et de la santé;
+vu l'article 17 de la loi cantonale sur l'assurance-maladie du 22 juin 1995 (LcLAMal);
+
+sur la proposition du département en charge de la santé,
 
 ordonne:
 
@@ -74,7 +75,7 @@ ordonne:
 
 <sup>3</sup> Les assurés âgés de 20 ans au 31 décembre de l'année précédant l’octroi d’une réduction individuelle des primes sont considérés à titre individuel. Demeure réservé l’article 9 alinéa 2.
 
-<sup>4</sup> Les étudiants étrangers qui vivent seuls en Suisse devant disposer des moyens financiers nécessaires au sens de l'ordonnance limitant le nombre des étrangers du 6 octobre 1986 (OLE) n'ont en principe pas droit au subside, sous réserve de la survenance d’un cas extraordinaire prévu à l'article 4.
+<sup>4</sup> Les étudiants étrangers qui vivent seuls en Suisse devant disposer des moyens financiers nécessaires au sens de la Loi fédérale sur les étrangers et l'intégration (LEI) ou de l'Accord sur la libre circulation des personnes (ALCP) n'ont en principe pas droit au subside, sous réserve de la survenance d’un cas extraordinaire prévu à l'article 4.
 
 #### Art. 4
 
@@ -122,9 +123,9 @@ ordonne:
 
 **Revenu déterminant**
 
-<sup>1</sup> Le revenu déterminant le droit au subside est basé sur le revenu net avant les déductions personnelles (chiffre 2400) tel qu'il ressort du bordereau d'impôt de la période fiscale qui précède de deux ans l'année pour laquelle une réduction individuelle de primes est envisagée (année x - 2 ans), auquel:
+<sup>1</sup> Le revenu déterminant le droit au subside est basé sur le revenu net avant les déductions personnelles (chiffre 2400) tel qu'il ressort du bordereau d'impôt de la période fiscale qui précède de 2 ans l'année pour laquelle une réduction individuelle de primes est envisagée (année x - 2 ans), auquel:
 
-- a) s'ajoutent les cinq pour cent de la fortune revalorisée nette, les cotisations à des formes reconnues de prévoyance individuelle liée (pilier 3a) jusqu'à concurrence du montant maximal admis pour les salariés, les éléments de revenus et de fortune acquis à l'étranger, les revenus de la fortune immobilière négatifs ainsi que les pertes commerciales non absorbées d’une activité indépendante;
+- a) s'ajoutent les 5 pour cent de la fortune revalorisée nette, les cotisations à des formes reconnues de prévoyance individuelle liée (pilier 3a) jusqu'à concurrence du montant maximal admis pour les salariés, les éléments de revenus et de fortune acquis à l'étranger, les revenus de la fortune immobilière négatifs ainsi que les pertes commerciales non absorbées d’une activité indépendante;
 - b) se déduisent les pensions alimentaires versées en vertu du droit de la famille ou d'une convention ainsi que les prestations en capital reçues.
 
 <sup>1<sup>bis</sup></sup> …
@@ -171,30 +172,17 @@ ordonne:
 
 <sup>1</sup> Les dispositions applicables pour le calcul de l'impôt cantonal sont retenues pour la détermination du droit à la réduction individuelle des primes, sous réserve des dispositions prévues aux alinéas suivants.
 
-<sup>2</sup> La situation familiale déterminante est celle qui prévaut au 31 décembre précédant l'année pour laquelle une réduction individuelle de primes est envisagée.
+<sup>2</sup> La situation familiale déterminante est celle qui prévaut au 31 décembre précédant l'année pour laquelle une réduction individuelle de primes est envisagée. Seules les personnes légalement domiciliées en Valais sont prises en compte dans la situation familiale.
 
 <sup>2<sup>bis</sup></sup> En dérogation à l’alinéa 2, la nouvelle situation familiale est prise en compte dès le début du mois de la naissance ou de l’adoption d’un enfant.
 
 <sup>3</sup> Les changements dans la situation familiale ou personnelle intervenant en cours d'année sont pris en compte l'année suivante. Demeure réservé l’alinéa 2<sup>bis</sup>.
 
-<sup>4</sup> Si, lors de la notification du droit à une réduction individuelle des primes, le revenu pris en compte a augmenté de façon essentielle et durable l'année précédente, par exemple pour les personnes entamant une activité lucrative à l'issue d'une formation, le droit à la réduction de primes est examiné d'après la période fiscale qui précède l'année du subside (année x - 1 an).
+<sup>4</sup> Si, pour les personnes ayant entamé une activité lucrative à l’issue d’une formation, le revenu déterminant a augmenté de manière essentielle et durable l’année précédente, le droit à la réduction de primes est examiné sur la base de la période fiscale précédant l’année du subside (année x – 1 an). Le Département détermine, par voie de directives, les modalités d’application ainsi que le cercle des personnes visées par le présent alinéa.
 
-<sup>5</sup> Lorsque la situation financière de l'année précédant le subside a diminué de façon essentielle et durable de 30 pour cent ou plus du revenu déterminant au sens de l'article 8, il est possible, pour des motifs d'équité, sur demande motivée, de se fonder sur cette situation en calculant le revenu déterminant sur la base de la déclaration fiscale établie par le requérant l'année précédant l'année pour laquelle une réduction individuelle des primes est envisagée.
+<sup>5</sup> Lorsque la situation financière de l'année précédant le subside a diminué de 30 pour cent ou plus du revenu déterminant au sens de l'article 8, hormis pour les personnes exerçant une activité indépendante ainsi que celles ayant perçu des rentes rétroactives de l’AVS ou de l’AI, il est possible, pour des motifs d'équité, sur demande motivée, de se fonder sur cette situation en calculant le revenu déterminant sur la base de la déclaration fiscale établie par le requérant l'année précédant l'année pour laquelle une réduction individuelle des primes est envisagée.
 
-<sup>5<sup>bis</sup></sup> Est considéré comme diminution essentielle et durable:
-
-- a) le changement de profession;
-- b) la baisse du taux d'activité;
-- c) le passage d'une activité à plein temps à une activité à temps partiel;
-- d) le passage d'une activité dépendante à une activité indépendante (ou vice versa);
-- e) la cessation d'activité;
-- f) la mise à la retraite;
-- g) l'obtention d'une rente AI;
-- h) la cessation du versement des rentes AVS/AI;
-- i) la fin de droit aux indemnités de chômage;
-- j) la fin de droit aux prestations complémentaires à l’AVS/AI;
-- k) la fin de droit à l’aide sociale;
-- l) le début ou la fin de l’obligation du versement des pensions alimentaires.
+<sup>5<sup>bis</sup></sup> …
 
 <sup>6</sup> Lorsque la situation financière s’est fortement dégradée durant l’année du subside, l’autorité communale statue sur le droit à l’aide sociale. Pour ces personnes, le subside est octroyé sur la base de cette décision.
 
@@ -206,9 +194,9 @@ ordonne:
 
 **Notification du droit à la réduction individuelle des primes**
 
-<sup>1</sup> Les personnes satisfaisant aux conditions d’une réduction individuelle des primes reçoivent une décision relative à leur droit, rendue sur la base des données fiscales. Les intéressés doivent exercer ce droit auprès de la Caisse de compensation dans un délai impératif de cinq ans après la notification de la décision.
+<sup>1</sup> Les personnes satisfaisant aux conditions d’une réduction individuelle des primes reçoivent une décision relative à leur droit, rendue sur la base des données fiscales. Les intéressés doivent exercer ce droit auprès de la Caisse de compensation dans un délai impératif de 2 ans après la notification de la décision.
 
-<sup>2</sup> Les personnes susceptibles de satisfaire aux conditions d’une réduction individuelle des primes n'ayant pas reçu de décision à ce sujet doivent présenter une requête motivée auprès de la Caisse de compensation, dans un délai impératif de cinq ans à compter du 31 décembre de l’année pour laquelle un subside aurait pu être versé.
+<sup>2</sup> Les personnes susceptibles de satisfaire aux conditions d’une réduction individuelle des primes n'ayant pas reçu de décision à ce sujet doivent présenter une requête motivée auprès de la Caisse de compensation. Le délai de rétroactivité est de 2 ans et commence à courir au début du mois durant lequel la requête motivée est parvenue à la Caisse de compensation.
 
 #### Art. 12
 
@@ -307,7 +295,7 @@ ordonne:
 
 <sup>4</sup> Dans certains cas particuliers, le Service de la santé publique peut demander la restitution des subsides directement aux assurés.
 
-<sup>5</sup> Le droit de demander la restitution s’éteint un an après le moment où la Caisse de compensation ou le Service de la santé publique a eu connaissance du fait, mais au plus tard cinq ans après la notification du droit à la réduction des primes. Si la créance naît d’un acte punissable pour lequel le droit pénal prévoit un délai de prescription plus long, celui-ci est déterminant.
+<sup>5</sup> Le droit de demander la restitution s’éteint un an après le moment où la Caisse de compensation ou le Service de la santé publique a eu connaissance du fait, mais au plus tard 5 ans après la notification du droit à la réduction des primes. Si la créance naît d’un acte punissable pour lequel le droit pénal prévoit un délai de prescription plus long, celui-ci est déterminant.
 
 ## 4 Non-paiement des primes et gestion du contentieux
 
@@ -322,6 +310,8 @@ ordonne:
 **Principes et procédure**
 
 <sup>1</sup> Les dispositions en matière de non-paiement des primes et de gestion du contentieux s’appliquent à tous les assurés domiciliés dans le canton du Valais au moment de la délivrance de l’acte de défaut de biens, et ayant une couverture d’assurance obligatoire des soins auprès d’un assureur suisse reconnu.
+
+<sup>1<sup>bis</sup></sup> Sur communication des assureurs, le canton prend en charge le 100 pour cent des créances impayées de l’assurance obligatoire des soins (AOS) des assurés ne devant pas faire l’objet de poursuites (personnes bénéficiaires des prestations complémentaires à l’AVS/AI ainsi que les personnes bénéficiaires de l’aide sociale et celles dont les revenus ont été jugés insuffisants par les services sociaux du canton du Valais).
 
 <sup>2</sup> Le département précise, par voie de directives, les principes et la procédure en matière de prise en charge des arriérés de primes, de participations aux coûts, d’intérêts moratoires et de frais de l’office des poursuites. Les directives définissent notamment:
 
@@ -374,5 +364,11 @@ ordonne:
 <sup>3</sup> Le département est chargé de l’application de la présente ordonnance.
 
 <sup>4</sup> La présente ordonnance est publiée au Bulletin officiel et entre en vigueur le 1<sup>er</sup> janvier 2012.
+
+## T1 Disposition transitoire de la modification du 20.05.2026
+
+#### Art. T1-1
+
+<sup>1</sup> À compter de l’entrée en vigueur de la modification du 20 mai 2026, toutes les requêtes motivées déposées auprès de la Caisse de compensation, peu importe l’année pour laquelle la réduction individuelle des primes est demandée, sont soumises au nouveau délai de 2 ans prévu par l’article 11.
 
 RCV BO/Abl. 48/2011
