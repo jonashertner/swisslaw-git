@@ -3,11 +3,11 @@ sr: "0.741.411"
 title: "Accordo del 20 marzo 1958 concernente l'adozione di regolamenti tecnici armonizzati delle Nazioni Unite per i veicoli a ruote, gli equipaggiamenti e i pezzi che possono essere installati o usati in veicoli a ruote, nonché le condizioni per il riconoscimento reciproco di omologazioni concesse sulla base di tali regolamenti delle Nazioni Unite (con R e All.)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1973/1468_1468_1468"
 language: it
-version: 2026-01-11
+version: 2026-05-04
 adopted: 1958-03-20
 in_force: 1973-08-28
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1973/1468_1468_1468/20260111/it/xml/fedlex-data-admin-ch-eli-cc-1973-1468_1468_1468-20260111-it-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1973/1468_1468_1468/20260111/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1973/1468_1468_1468/20260504/it/xml/fedlex-data-admin-ch-eli-cc-1973-1468_1468_1468-20260504-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1973/1468_1468_1468/20260504/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -20,7 +20,7 @@ Traduzione
 
 Conchiuso a Ginevra il 20 marzo 1958 Emendato il 10 novembre 1967 Approvato dall’Assemblea federale il 15 marzo 1973[^t-1] Istrumento d’adesione depositato dalla Svizzera il 29 giugno 1973 Entrato in vigore per la Svizzera il 28 agosto 1973 Emendamenti adottati il 18 agosto 1994 Entrata in vigore il 16 ottobre 1995 Emendamenti adottati il 25 settembre 2015 Entrata in vigore il 14 settembre 2017
 
-(Stato 11 gennaio 2026)
+(Stato 4 maggio 2026)
 
 [^t-1]: [RU 1973 1465](https://fedlex.data.admin.ch/eli/oc/1973/1465_1465_1465)
 
@@ -438,7 +438,7 @@ Allegato 2
 
 ## Seconda parte – Norme della prima parte del presente allegato alle quali devono conformarsi i servizi tecnici
 
-## 1 Attività relative alle prove ai fini dell’omologazione di tipo ONU, da effettuare conformemente ai regolamenti ONU
+### 1 Attività relative alle prove ai fini dell’omologazione di tipo ONU, da effettuare conformemente ai regolamenti ONU
 
 - 1\.1
 
@@ -678,7 +678,7 @@ Allegato 5[^t-3]
 
 \2. Nella banca dati online protetta sono archiviati almeno i documenti specificati nei singoli regolamenti ONU. Essi comprendono la documentazione con la quale si comunicano alle Parti contraenti l’omologazione, l’estensione, il rifiuto o la revoca dell’omologazione oppure la cessazione definitiva della produzione di un tipo di veicolo a ruote, equipaggiamento o pezzo in virtù del regolamento ONU.
 
-\3. Se le omologazioni di tipo applicabili a veicoli a ruote, equipaggiamenti o pezzi sono archiviate nella banca dati online protetta, le marche di omologazione richieste a titolo dei regolamenti ONU interessati possono essere sostituite con un identificatore unico preceduto dal simbolo <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1973/1468_1468_1468/20260111/it/xml/image/image1.png)</sub>, se esplicitamente previsto nei regolamenti ONU in questione e a condizione che tale possibilità sia offerta nella banca dati online protetta. L’identificatore unico è generato automaticamente dalla banca dati.
+\3. Se le omologazioni di tipo applicabili a veicoli a ruote, equipaggiamenti o pezzi sono archiviate nella banca dati online protetta, le marche di omologazione richieste a titolo dei regolamenti ONU interessati possono essere sostituite con un identificatore unico preceduto dal simbolo <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1973/1468_1468_1468/20260504/it/xml/image/image1.png)</sub>, se esplicitamente previsto nei regolamenti ONU in questione e a condizione che tale possibilità sia offerta nella banca dati online protetta. L’identificatore unico è generato automaticamente dalla banca dati.
 
 \4. Tutte le Parti contraenti che applicano un regolamento ONU devono avere accesso alle informazioni concernenti tale regolamento contenute nella banca dati utilizzando l’identificatore unico, con il quale è dato accesso alle informazioni rilevanti in merito alle omologazioni in questione.
 
@@ -794,7 +794,7 @@ Allegato 8
 - Il costruttore fornisce inoltre un’assistenza appropriata all’autorità di omologazione o al servizio tecnico.
 - L’accesso e l’assistenza offerti al servizio tecnico non esimono quest’ultimo dagli obblighi che gli incombono in materia di competenze del personale, pagamento dei diritti di licenza e rispetto della riservatezza.
 
-Campo d’applicazione il 23 giugno 2023[^t-4]
+Campo d’applicazione il 4 maggio 2026[^t-4]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A) Dichiarazione di successione (S) Firmato senza riserva di ratificazione (F)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -808,6 +808,7 @@ Campo d’applicazione il 23 giugno 2023[^t-4]
 <tr><td>Belgio<sup>\*</sup></td><td>7 luglio</td><td>1959 A</td><td>5 settembre</td><td>1959</td></tr>
 <tr><td>Bosnia e Erzegovina</td><td>12 gennaio</td><td>1994 S</td><td>6 marzo</td><td>1992</td></tr>
 <tr><td>Bulgaria<sup>\*</sup></td><td>22 novembre</td><td>1999 A</td><td>21 gennaio</td><td>2000</td></tr>
+<tr><td>Cambogia<sup>\*</sup></td><td>3 febbraio</td><td>2026 A</td><td>4 febbraio</td><td>2026</td></tr>
 <tr><td>Ceca, Repubblica</td><td>2 giugno</td><td>1993 S</td><td>1° gennaio</td><td>1993</td></tr>
 <tr><td>Corea (Sud)<sup>\*</sup></td><td>1° novembre</td><td>2004 A</td><td>31 dicembre</td><td>2004</td></tr>
 <tr><td>Croazia</td><td>17 marzo</td><td>1994 S</td><td>8 ottobre</td><td>1991</td></tr>
@@ -823,12 +824,14 @@ Campo d’applicazione il 23 giugno 2023[^t-4]
 <tr><td>Grecia</td><td>6 ottobre</td><td>1992 A</td><td>5 dicembre</td><td>1992</td></tr>
 <tr><td>Italia<sup>\*</sup></td><td>25 febbraio</td><td>1963</td><td>26 aprile</td><td>1963</td></tr>
 <tr><td>Kazakistan</td><td>9 novembre</td><td>2010 A</td><td>8 gennaio</td><td>2011</td></tr>
+<tr><td>Kirghizistan</td><td>1° settembre</td><td>2023 A</td><td>31 ottobre</td><td>2023</td></tr>
 <tr><td>Lettonia<sup>\*</sup></td><td>19 novembre</td><td>1998 A</td><td>18 gennaio</td><td>1999</td></tr>
 <tr><td>Lituania</td><td>28 gennaio</td><td>2002 A</td><td>29 marzo</td><td>2002</td></tr>
 <tr><td>Lussemburgo</td><td>13 ottobre</td><td>1971 A</td><td>12 dicembre</td><td>1971</td></tr>
 <tr><td>Macedonia del Nord</td><td>1° aprile</td><td>1998 S</td><td>17 novembre</td><td>1991</td></tr>
 <tr><td>Malaysia<sup>\*</sup></td><td>3 febbraio</td><td>2006 A</td><td>4 aprile</td><td>2006</td></tr>
 <tr><td>Moldavia</td><td>21 settembre</td><td>2016 A</td><td>20 novembre</td><td>2016</td></tr>
+<tr><td>Mongolia</td><td>29 aprile</td><td>2026 A</td><td>28 giugno</td><td>2026</td></tr>
 <tr><td>Montenegro</td><td>23 ottobre</td><td>2006 S</td><td>3 giugno</td><td>2006</td></tr>
 <tr><td>Nigeria</td><td>18 ottobre</td><td>2018 A</td><td>17 dicembre</td><td>2018</td></tr>
 <tr><td>Norvegia</td><td>3 febbraio</td><td>1975 A</td><td>4 aprile</td><td>1975</td></tr>
@@ -855,10 +858,12 @@ Campo d’applicazione il 23 giugno 2023[^t-4]
 <tr><td>Uganda</td><td>23 agosto</td><td>2022 A</td><td>22 ottobre</td><td>2022</td></tr>
 <tr><td>Ungheria<sup>\*</sup></td><td>3 maggio</td><td>1960</td><td>2 luglio</td><td>1960</td></tr>
 <tr><td>Unione europea<sup>\*</sup></td><td>23 gennaio</td><td>1998 A</td><td>24 marzo</td><td>1998</td></tr>
-<tr><td colspan="5"><sup>\*</sup> Riserve e dichiarazioni. Le riserve e le dichiarazioni non sono pubblicate nella RU, eccetto quelle della Svizzera. Il testo, in francese e inglese, può essere consultato sul sito Internet dell’Organizzazione delle Nazioni Unite (ONU): [https://treaties.un.org](https://treaties.un.org/) &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies, oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
+<tr><td>Uzbekistan<sup>\*</sup></td><td>20 ottobre</td><td>2025 A</td><td>19 dicembre</td><td>2025</td></tr>
+<tr><td>Vietnam<sup>\*</sup></td><td>26 luglio</td><td>2023 A</td><td>24 settembre</td><td>2023</td></tr>
+<tr><td colspan="5"><sup>\*</sup> Riserve e dichiarazioni. Le riserve e le dichiarazioni non sono pubblicate nella RU, eccetto quelle della Sviz-zera. Il testo, in francese e inglese, può essere consultato sul sito Internet dell’Organizzazione delle Nazioni Unite (ONU): https://treaties.un.org e URL oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
 </table>
 
-[^t-4]: [RU 1973 1468](https://fedlex.data.admin.ch/eli/oc/1973/1468_1468_1468); [1977 767](https://fedlex.data.admin.ch/eli/oc/1977/767_767_767); [1980 673](https://fedlex.data.admin.ch/eli/oc/1980/673_673_673); [1987 1185](https://fedlex.data.admin.ch/eli/oc/1987/1185_1185_1185); [1996 2158](https://fedlex.data.admin.ch/eli/oc/1996/2158_2158_2158); [2005 1235](https://fedlex.data.admin.ch/eli/oc/2005/180); [2007 4401](https://fedlex.data.admin.ch/eli/oc/2007/603); [2010 4213](https://fedlex.data.admin.ch/eli/oc/2010/607); [2011 891](https://fedlex.data.admin.ch/eli/oc/2011/135); [2014 891](https://fedlex.data.admin.ch/eli/oc/2014/193); [2016 3693](https://fedlex.data.admin.ch/eli/oc/2016/620); [2020 495](https://fedlex.data.admin.ch/eli/oc/2020/88); [2021 211](https://fedlex.data.admin.ch/eli/oc/2021/211); [2023 330](https://fedlex.data.admin.ch/eli/oc/2023/330). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty).
+[^t-4]: [RU 1973 1468](https://fedlex.data.admin.ch/eli/oc/1973/1468_1468_1468); [1977 767](https://fedlex.data.admin.ch/eli/oc/1977/767_767_767); [1980 673](https://fedlex.data.admin.ch/eli/oc/1980/673_673_673); [1987 1185](https://fedlex.data.admin.ch/eli/oc/1987/1185_1185_1185); [1996 2158](https://fedlex.data.admin.ch/eli/oc/1996/2158_2158_2158); [2005 1235](https://fedlex.data.admin.ch/eli/oc/2005/180); [2007 4401](https://fedlex.data.admin.ch/eli/oc/2007/603); [2010 4213](https://fedlex.data.admin.ch/eli/oc/2010/607); [2011 891](https://fedlex.data.admin.ch/eli/oc/2011/135); [2014 891](https://fedlex.data.admin.ch/eli/oc/2014/193); [2016 3693](https://fedlex.data.admin.ch/eli/oc/2016/620); [2020 495](https://fedlex.data.admin.ch/eli/oc/2020/88); [2021 211](https://fedlex.data.admin.ch/eli/oc/2021/211); [2023 330](https://fedlex.data.admin.ch/eli/oc/2023/330); [2026 191](https://fedlex.data.admin.ch/eli/oc/2026/191). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty).
 
 Regolamenti[^t-5]
 
@@ -1055,6 +1060,12 @@ Applicato dalla Svizzera dal 2 febbraio 1996
 ## Regolamento n. 38 allegato all’accordo
 
 Prescrizioni uniformi relative all’omologazione dei fari fendinebbia di coda per veicoli a motore e i loro rimorchi
+
+Applicato dalla Svizzera dal 2 febbraio 1996
+
+## Regolamento n. 44 allegato all’accordo
+
+Prescrizioni uniformi relative all’omologazione dei sistemi di ritenuta per bambini (seggiolini per bambini) a bordo dei veicoli a motore
 
 Applicato dalla Svizzera dal 2 febbraio 1996
 

@@ -3,11 +3,11 @@ sr: "0.741.411"
 title: "Accord du 20 mars 1958 concernant l'adoption de règlements techniques harmonisé de l'ONU applicables aux véhicules à roues, aux équipements et pièces susceptibles d'être montés ou utilisés sur les véhicules à roues et les conditions de reconnaissance réciproque des homologations délivrées conformément à ces règlements (avec règlements et annexes)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1973/1468_1468_1468"
 language: fr
-version: 2026-01-11
+version: 2026-05-04
 adopted: 1958-03-20
 in_force: 1973-08-28
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1973/1468_1468_1468/20260111/fr/xml/fedlex-data-admin-ch-eli-cc-1973-1468_1468_1468-20260111-fr-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1973/1468_1468_1468/20260111/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1973/1468_1468_1468/20260504/fr/xml/fedlex-data-admin-ch-eli-cc-1973-1468_1468_1468-20260504-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1973/1468_1468_1468/20260504/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -20,7 +20,7 @@ Texte original
 
 Conclu à Genève le 20 mars 1958 Amendé le 10 novembre 1967 Approuvé par l’Assemblée fédérale le 15 mars 1973[^t-1] Instrument d’adhésion déposé par la Suisse le 29 juin 1973 Entré en vigueur pour la Suisse le 28 août 1973 Amendements adoptés le 18 août 1994 Entrés en vigueur le 16 octobre 1995 Amendements adoptés le 25 septembre 2015 Entrés en vigueur le 14 septembre 2017
 
-(État le 11 janvier 2026)
+(État le 4 mai 2026)
 
 [^t-1]: [RO 1973 1465](https://fedlex.data.admin.ch/eli/oc/1973/1465_1465_1465)
 
@@ -678,7 +678,7 @@ Annexe 5[^t-3]
 
 \2. Parmi les documents stockés dans la base de données en ligne sécurisée doivent figurer au moins les documents spécifiés dans chaque Règlement de l’ONU, à savoir les documents informant les Parties contractantes d’une homologation, d’une extension, d’un refus ou d’un retrait d’homologation, ou encore d’un arrêt définitif de la production d’un type de véhicule, d’un équipement ou d’une pièce conformément audit Règlement.
 
-\3. Si les homologations de type applicables à un véhicule à roues, un équipement ou une pièce sont enregistrées dans la base de données en ligne sécurisée, les marques d’homologation requises au titre des Règlements ONU concernés peuvent être remplacées par un identifiant unique (UI) précédé du symbole <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1973/1468_1468_1468/20260111/fr/xml/image/image1.png)</sub>, si cela est explicitement spécifié dans lesdits Règlements ONU et sous réserve que cette possibilité soit offerte dans la base de données en ligne sécurisée. Cet identifiant unique doit être produit automatiquement par le logiciel de la base de données.
+\3. Si les homologations de type applicables à un véhicule à roues, un équipement ou une pièce sont enregistrées dans la base de données en ligne sécurisée, les marques d’homologation requises au titre des Règlements ONU concernés peuvent être remplacées par un identifiant unique (UI) précédé du symbole <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1973/1468_1468_1468/20260504/fr/xml/image/image1.png)</sub>, si cela est explicitement spécifié dans lesdits Règlements ONU et sous réserve que cette possibilité soit offerte dans la base de données en ligne sécurisée. Cet identifiant unique doit être produit automatiquement par le logiciel de la base de données.
 
 \4. Toutes les Parties contractantes appliquant un Règlement de l’ONU doivent avoir accès, au moyen de l’identifiant unique, à l’information concernant ce Règlement qui est enregistrée dans la base de données. Elles auront ainsi accès à l’information pertinente concernant une ou plusieurs homologations.
 
@@ -794,7 +794,7 @@ Annexe 8
 - Il doit en outre apporter une assistance appropriée à l’autorité d’homologation ou au service technique.
 - La fourniture de l’accès et de l’assistance au service technique ne supprime aucune des obligations qui lui incombent en ce qui concerne les compétences de son personnel, le paiement des droits de licence et le respect de la confidentialité.
 
-Champ d’application de l’accord le 23 juin 2023[^t-4]
+Champ d’application de l’accord le 4 mai 2026[^t-4]
 
 <table>
 <tr><th>États parties</th><th>Ratification Adhésion (A) Déclaration de succession (S) Signature sans réserve de ratification (Si)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
@@ -810,6 +810,7 @@ Champ d’application de l’accord le 23 juin 2023[^t-4]
 <tr><td>Belgique\*</td><td>7 juillet</td><td>1959 A</td><td>5 septembre</td><td>1959</td></tr>
 <tr><td>Bosnie et Herzégovine</td><td>12 janvier</td><td>1994 S</td><td>6 mars</td><td>1992</td></tr>
 <tr><td>Bulgarie\*</td><td>22 novembre</td><td>1999 A</td><td>21 janvier</td><td>2000</td></tr>
+<tr><td>Cambodge\*</td><td>3 février</td><td>2026 A</td><td>4 février</td><td>2026</td></tr>
 <tr><td>Corée (Sud)\*</td><td>1<sup>er</sup> novembre</td><td>2004 A</td><td>31 décembre</td><td>2004</td></tr>
 <tr><td>Croatie</td><td>17 mars</td><td>1994 S</td><td>8 octobre</td><td>1991</td></tr>
 <tr><td>Danemark\*</td><td>21 octobre</td><td>1976 A</td><td>20 décembre</td><td>1976</td></tr>
@@ -824,17 +825,20 @@ Champ d’application de l’accord le 23 juin 2023[^t-4]
 <tr><td>Italie\*</td><td>25 février</td><td>1963</td><td>26 avril</td><td>1963</td></tr>
 <tr><td>Japon\*</td><td>25 septembre</td><td>1998 A</td><td>24 novembre</td><td>1998</td></tr>
 <tr><td>Kazakhstan</td><td>9 novembre</td><td>2010 A</td><td>8 janvier</td><td>2011</td></tr>
+<tr><td>Kirghizistan</td><td>1<sup>er</sup> septembre</td><td>2023 A</td><td>31 octobre</td><td>2023</td></tr>
 <tr><td>Lettonie\*</td><td>19 novembre</td><td>1998 A</td><td>18 janvier</td><td>1999</td></tr>
 <tr><td>Lituanie</td><td>28 janvier</td><td>2002 A</td><td>29 mars</td><td>2002</td></tr>
 <tr><td>Luxembourg</td><td>13 octobre</td><td>1971 A</td><td>12 décembre</td><td>1971</td></tr>
 <tr><td>Macédoine du Nord</td><td>1<sup>er</sup> avril</td><td>1998 S</td><td>17 novembre</td><td>1991</td></tr>
 <tr><td>Malaisie\*</td><td>3 février</td><td>2006 A</td><td>4 avril</td><td>2006</td></tr>
 <tr><td>Moldova</td><td>21 septembre</td><td>2016 A</td><td>20 novembre</td><td>2016</td></tr>
+<tr><td>Mongolie</td><td>29 avril</td><td>2026 A</td><td>28 juin</td><td>2026</td></tr>
 <tr><td>Monténégro</td><td>23 octobre</td><td>2006 S</td><td>3 juin</td><td>2006</td></tr>
 <tr><td>Nigéria</td><td>18 octobre</td><td>2018 A</td><td>17 décembre</td><td>2018</td></tr>
 <tr><td>Norvège</td><td>3 février</td><td>1975 A</td><td>4 avril</td><td>1975</td></tr>
 <tr><td>Nouvelle-Zélande\*</td><td>27 novembre</td><td>2001 A</td><td>26 janvier</td><td>2002</td></tr>
 <tr><td>Ouganda</td><td>23 août</td><td>2022 A</td><td>22 octobre</td><td>2022</td></tr>
+<tr><td>Ouzbékistan\*</td><td>20 octobre</td><td>2025 A</td><td>19 décembre</td><td>2025</td></tr>
 <tr><td>Pakistan</td><td>24 février</td><td>2020 A</td><td>24 avril</td><td>2020</td></tr>
 <tr><td>Pays-Bas</td><td>30 juin</td><td>1960</td><td>29 août</td><td>1960</td></tr>
 <tr><td>Philippines</td><td>3 novembre</td><td>2022 A</td><td>2 janvier</td><td>2023</td></tr>
@@ -855,10 +859,11 @@ Champ d’application de l’accord le 23 juin 2023[^t-4]
 <tr><td>Turquie\*</td><td>29 décembre</td><td>1995 A</td><td>27 février</td><td>1996</td></tr>
 <tr><td>Ukraine\*</td><td>1<sup>er</sup> mai</td><td>2000 A</td><td>30 juin</td><td>2000</td></tr>
 <tr><td>Union européenne (UE)\*</td><td>23 janvier</td><td>1998 A</td><td>24 mars</td><td>1998</td></tr>
+<tr><td>Vietnam\*</td><td>26 juillet</td><td>2023 A</td><td>24 septembre</td><td>2023</td></tr>
 <tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO, à l’exception de celles de la Suisse. Les textes en français et en anglais pourront être consultés à l’adresse du site Internet de l’Organisation des Nations Unies (ONU): [https://treaties.un.org/](https://treaties.un.org/) ou obtenus à la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
 </table>
 
-[^t-4]: [RO 1973 1468](https://fedlex.data.admin.ch/eli/oc/1973/1468_1468_1468); [1977 767](https://fedlex.data.admin.ch/eli/oc/1977/767_767_767); [1980 673](https://fedlex.data.admin.ch/eli/oc/1980/673_673_673); [1987 1185](https://fedlex.data.admin.ch/eli/oc/1987/1185_1185_1185); **1996** 2172; [2005 1235](https://fedlex.data.admin.ch/eli/oc/2005/180); [2007 4401](https://fedlex.data.admin.ch/eli/oc/2007/603); [2010 4213](https://fedlex.data.admin.ch/eli/oc/2010/607); [2011 891](https://fedlex.data.admin.ch/eli/oc/2011/135); [2014 891](https://fedlex.data.admin.ch/eli/oc/2014/193); [2016 3693](https://fedlex.data.admin.ch/eli/oc/2016/620); [2020 495](https://fedlex.data.admin.ch/eli/oc/2020/88); [2021 211](https://fedlex.data.admin.ch/eli/oc/2021/211); [2023 330](https://fedlex.data.admin.ch/eli/oc/2023/330). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](http://www.fedlex.admin.ch/fr/treaty).
+[^t-4]: [RO 1973 1468](https://fedlex.data.admin.ch/eli/oc/1973/1468_1468_1468); [1977 767](https://fedlex.data.admin.ch/eli/oc/1977/767_767_767); [1980 673](https://fedlex.data.admin.ch/eli/oc/1980/673_673_673); [1987 1185](https://fedlex.data.admin.ch/eli/oc/1987/1185_1185_1185); **1996** 2172; [2005 1235](https://fedlex.data.admin.ch/eli/oc/2005/180); [2007 4401](https://fedlex.data.admin.ch/eli/oc/2007/603); [2010 4213](https://fedlex.data.admin.ch/eli/oc/2010/607); [2011 891](https://fedlex.data.admin.ch/eli/oc/2011/135); [2014 891](https://fedlex.data.admin.ch/eli/oc/2014/193); [2016 3693](https://fedlex.data.admin.ch/eli/oc/2016/620); [2020 495](https://fedlex.data.admin.ch/eli/oc/2020/88); [2021 211](https://fedlex.data.admin.ch/eli/oc/2021/211); [2023 330](https://fedlex.data.admin.ch/eli/oc/2023/330); [2026 191](https://fedlex.data.admin.ch/eli/oc/2026/191). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](http://www.fedlex.admin.ch/fr/treaty).
 
 Règlements[^t-5]
 

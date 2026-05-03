@@ -3,11 +3,11 @@ sr: "0.741.411"
 title: "Übereinkommen vom 20. März 1958 der Vereinten Nationen über die Annahme harmonisierter technischer Regelungen für Radfahrzeuge, Ausrüstungsgegenstände und Teile, die in Radfahrzeuge eingebaut oder dafür verwendet werden können, und die Bedingungen für die gegenseitige Anerkennung von Genehmigungen, die nach diesen Regelungen erteilt wurden (mit R und Anhängen)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1973/1468_1468_1468"
 language: de
-version: 2026-01-11
+version: 2026-05-04
 adopted: 1958-03-20
 in_force: 1973-08-28
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1973/1468_1468_1468/20260111/de/xml/fedlex-data-admin-ch-eli-cc-1973-1468_1468_1468-20260111-de-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1973/1468_1468_1468/20260111/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1973/1468_1468_1468/20260504/de/xml/fedlex-data-admin-ch-eli-cc-1973-1468_1468_1468-20260504-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1973/1468_1468_1468/20260504/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -20,7 +20,7 @@ AS **2017** 5085
 
 Abgeschlossen in Genf am 20. März 1958 Geändert am 10. November 1967 Von der Bundesversammlung genehmigt um 15. März 1973[^t-1] Schweizerische Ratifikationsurkunde hinterlegt am 29. Juni 1973 In Kraft getreten für die Schweiz am 28. August 1973 Änderungen angenommen am 18. August 1994 In Kraft getreten am 16. Oktober 1995 Änderungen angenommen am 25. September 2015 In Kraft getreten am 14. September 2017
 
-(Stand am 11. Januar 2026)
+(Stand am 4. Mai 2026)
 
 [^t-1]: [AS 1973 1465](https://fedlex.data.admin.ch/eli/oc/1973/1465_1465_1465)
 
@@ -309,7 +309,7 @@ Entwürfe von Änderungen der diesem Übereinkommen angeschlossenen Anhänge mit
 
 Der Antrag einer Vertragspartei, zur Erteilung einer vorgeschlagenen Ausnahmegenehmigung für neue Technologien autorisiert zu werden, wird zur Abstimmung vorgelegt. Jede Vertragspartei, die die UN-Regelung anwendet, hat eine Stimme. Beschlussfähigkeit ist gegeben, wenn wenigstens die Hälfte der Vertragsparteien, die die UN-Regelung anwenden, anwesend ist. Dabei stimmen die Organisationen für regionale Wirtschaftsintegration, die Vertragsparteien des Übereinkommens sind, mit der Stimmenzahl ihrer Mitgliedstaaten ab. Der Vertreter einer Organisation für regionale Wirtschaftsintegration kann im Namen ihrer souveränen Mitgliedstaaten, die die UN-Regelung anwenden, die Stimmabgabe vornehmen. Für die Autorisierung der genannten Vertragspartei zur Erteilung einer Ausnahmegenehmigung ist eine Vierfünftelmehrheit der von den Anwesenden abgegebenen Stimmen erforderlich.
 
-## Anhänge mit Verwaltungs- und Verfahrensvorschriften
+### Anhänge mit Verwaltungs- und Verfahrensvorschriften
 
 Die nachfolgend aufgeführten Anhänge mit Verwaltungs- und Verfahrensvorschriften vervollständigen das Übereinkommen von 1958 und legen die Verwaltungs- und Verfahrensvorschriften fest, die für alle angeschlossenen UN-Regelungen des Übereinkommens von 1958 gelten:
 
@@ -492,7 +492,7 @@ Anhang 2
 - 3\.2 Die Bewerter müssen für die Bewertungstätigkeiten speziell geschult worden sein. Darüber hinaus müssen sie über das spezielle Wissen des Fachbereichs verfügen, in dem der technische Dienst seiner Tätigkeit nachgehen wird.
 - 3\.3 Unbeschadet der Vorschriften der vorstehenden Absätze 3.1 und 3.2 muss die Bewertung nach Absatz 2.5 dieses Anhangs von Bewertern durchgeführt werden, die in keinerlei Verbindung mit den zu bewertenden Tätigkeiten stehen.
 
-## 4 Antrag auf Benennung
+### 4 Antrag auf Benennung
 
 - 4\.1
 
@@ -531,7 +531,7 @@ Anhang 2
 - 7\.3 Die zuständige Behörde legt zusammen mit dem technischen Dienst und dem ernannten Bewerterteam einen Bewertungstermin und einen Bewertungszeitplan fest. Es bleibt dabei in der Verantwortung der zuständigen Behörde, einen Termin anzustreben, der mit dem Überwachungs- und Wiederbewertungsplan im Einklang steht.
 - 7\.4 Die zuständige Behörde sorgt dafür, dass dem Bewerterteam die jeweiligen Kriteriendokumente und früheren Bewertungsaufzeichnungen sowie die einschlägigen Unterlagen und Aufzeichnungen des technischen Dienstes zur Verfügung gestellt werden.
 
-## 8 Bewertung an Ort und Stelle
+### 8 Bewertung an Ort und Stelle
 
 - Das Bewerterteam hat die Bewertung des technischen Dienstes in den Räumlichkeiten des technischen Dienstes, von denen aus eine oder mehrere Kerntätigkeiten erfolgen, durchzuführen und gegebenenfalls an anderen ausgewählten Orten, an denen der technische Dienst tätig ist, Begutachtungen vorzunehmen.
 
@@ -794,7 +794,7 @@ Anhang 8
 - Zudem muss der Hersteller die Genehmigungsbehörde sowie den technischen Dienst in geeigneter Weise unterstützen.
 - Der technische Dienst ist, auch wenn er Zugang und Unterstützung erhält, weiterhin an seine Verpflichtungen hinsichtlich der Kompetenzen seines Personals, der Zahlung von Lizenzgebühren und der Wahrung der Vertraulichkeit gebunden.
 
-Geltungsbereich am 23. Juni 2023[^t-4]
+Geltungsbereich am 4. Mai 2026[^t-4]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B) Nachfolgeerklärung (N) Unterzeichnet ohne Ratifikationsvorbehalt (U)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -818,7 +818,9 @@ Geltungsbereich am 23. Juni 2023[^t-4]
 <tr><td>Griechenland</td><td>6. Oktober</td><td>1992 B</td><td>5. Dezember</td><td>1992</td></tr>
 <tr><td>Italien\*</td><td>25. Februar</td><td>1963</td><td>26. April</td><td>1963</td></tr>
 <tr><td>Japan\*</td><td>25. September</td><td>1998 B</td><td>24. November</td><td>1998</td></tr>
+<tr><td>Kambodscha\*</td><td>3. Februar</td><td>2026 B</td><td>4. Februar</td><td>2026</td></tr>
 <tr><td>Kasachstan</td><td>9. November</td><td>2010 B</td><td>8. Januar</td><td>2011</td></tr>
+<tr><td>Kirgisistan</td><td>1. September</td><td>2023 B</td><td>31. Oktober</td><td>2023</td></tr>
 <tr><td>Korea (Süd-)\*</td><td>1. November</td><td>2004 B</td><td>31. Dezember</td><td>2004</td></tr>
 <tr><td>Kroatien</td><td>17. März</td><td>1994 N</td><td>8. Oktober</td><td>1991</td></tr>
 <tr><td>Lettland\*</td><td>19. November</td><td>1998 B</td><td>18. Januar</td><td>1999</td></tr>
@@ -826,6 +828,7 @@ Geltungsbereich am 23. Juni 2023[^t-4]
 <tr><td>Luxemburg</td><td>13. Oktober</td><td>1971 B</td><td>12. Dezember</td><td>1971</td></tr>
 <tr><td>Malaysia\*</td><td>3. Februar</td><td>2006 B</td><td>4. April</td><td>2006</td></tr>
 <tr><td>Moldau</td><td>21. September</td><td>2016 B</td><td>20. November</td><td>2016</td></tr>
+<tr><td>Mongolei</td><td>29. April</td><td>2026 B</td><td>28. Juni</td><td>2026</td></tr>
 <tr><td>Montenegro</td><td>23. Oktober</td><td>2006 N</td><td>3. Juni</td><td>2006</td></tr>
 <tr><td>Neuseeland\*</td><td>27. November</td><td>2001 B</td><td>26. Januar</td><td>2002</td></tr>
 <tr><td>Niederlande</td><td>30. Juni</td><td>1960</td><td>29. August</td><td>1960</td></tr>
@@ -854,17 +857,19 @@ Geltungsbereich am 23. Juni 2023[^t-4]
 <tr><td>Uganda</td><td>23. August</td><td>2022 B</td><td>22. Oktober</td><td>2022</td></tr>
 <tr><td>Ukraine\*</td><td>1. Mai</td><td>2000 B</td><td>30. Juni</td><td>2000</td></tr>
 <tr><td>Ungarn\*</td><td>3. Mai</td><td>1960</td><td>2. Juli</td><td>1960</td></tr>
+<tr><td>Usbekistan\*</td><td>20. Oktober</td><td>2025 B</td><td>19. Dezember</td><td>2025</td></tr>
 <tr><td>Vereinigtes Königreich</td><td>15. Januar</td><td>1963 B</td><td>16. März</td><td>1963</td></tr>
+<tr><td>Vietnam\*</td><td>26. Juli</td><td>2023 B</td><td>24. September</td><td>2023</td></tr>
 <tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht, mit Ausnahme jener der Schweiz. Die französischen und englischen Texte können auf der Internetseite der Organisation der Vereinten Nationen (UNO): [https://treaties.un.org](https://treaties.un.org) eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
 </table>
 
-[^t-4]: [AS 1973 1468](https://fedlex.data.admin.ch/eli/oc/1973/1468_1468_1468); [1977 767](https://fedlex.data.admin.ch/eli/oc/1977/767_767_767); [1978 518](https://fedlex.data.admin.ch/eli/oc/1978/518_518_518); [1980 673](https://fedlex.data.admin.ch/eli/oc/1980/673_673_673); [1987 1185](https://fedlex.data.admin.ch/eli/oc/1987/1185_1185_1185); [1996 2158](https://fedlex.data.admin.ch/eli/oc/1996/2158_2158_2158); [2005 1235](https://fedlex.data.admin.ch/eli/oc/2005/180); [2007 4401](https://fedlex.data.admin.ch/eli/oc/2007/603); [2010 4213](https://fedlex.data.admin.ch/eli/oc/2010/607); [2011 891](https://fedlex.data.admin.ch/eli/oc/2011/135); [2014 891](https://fedlex.data.admin.ch/eli/oc/2014/193); [2016 3693](https://fedlex.data.admin.ch/eli/oc/2016/620); [2020 495](https://fedlex.data.admin.ch/eli/oc/2020/88); [2021 211](https://fedlex.data.admin.ch/eli/oc/2021/211); [2023 330](https://fedlex.data.admin.ch/eli/oc/2023/330). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
+[^t-4]: [AS 1973 1468](https://fedlex.data.admin.ch/eli/oc/1973/1468_1468_1468); [1977 767](https://fedlex.data.admin.ch/eli/oc/1977/767_767_767); [1980 673](https://fedlex.data.admin.ch/eli/oc/1980/673_673_673); [1987 1185](https://fedlex.data.admin.ch/eli/oc/1987/1185_1185_1185); [1996 2158](https://fedlex.data.admin.ch/eli/oc/1996/2158_2158_2158); [2005 1235](https://fedlex.data.admin.ch/eli/oc/2005/180); [2007 4401](https://fedlex.data.admin.ch/eli/oc/2007/603); [2010 4213](https://fedlex.data.admin.ch/eli/oc/2010/607); [2011 891](https://fedlex.data.admin.ch/eli/oc/2011/135); [2014 891](https://fedlex.data.admin.ch/eli/oc/2014/193); [2016 3693](https://fedlex.data.admin.ch/eli/oc/2016/620); [2020 495](https://fedlex.data.admin.ch/eli/oc/2020/88); [2021 211](https://fedlex.data.admin.ch/eli/oc/2021/211); [2023 330](https://fedlex.data.admin.ch/eli/oc/2023/330); [2026 191](https://fedlex.data.admin.ch/eli/oc/2026/191). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
 
 Reglemente[^t-5]
 
 ## Reglement Nr. 0 zum Übereinkommen
 
-[^t-5]: Text und Geltungsbereich der Reglemente werden in der AS nicht veröffentlicht ([AS 2011 891](https://fedlex.data.admin.ch/eli/oc/2011/135); [2014 2611](https://fedlex.data.admin.ch/eli/oc/2014/458); [2015 2435](https://fedlex.data.admin.ch/eli/oc/2015/454); [2016 3693](https://fedlex.data.admin.ch/eli/oc/2016/620); [2017 3793](https://fedlex.data.admin.ch/eli/oc/2017/444); [2019 477](https://fedlex.data.admin.ch/eli/oc/2019/85); [2020 495](https://fedlex.data.admin.ch/eli/oc/2020/88); [2021 211](https://fedlex.data.admin.ch/eli/oc/2021/211), [911](https://fedlex.data.admin.ch/eli/oc/2021/911); [2023 384](https://fedlex.data.admin.ch/eli/oc/2023/384); [2025 62](https://fedlex.data.admin.ch/eli/oc/2025/62), [639](https://fedlex.data.admin.ch/eli/oc/2025/639); [2026 253](https://fedlex.data.admin.ch/eli/oc/2026/253)). Der Text kann beim Bundesamt für Strassen, 3003 Bern, bezogen oder auf der Internetseite der Organisation der Vereinten Nationen eingesehen werden: [https://unece.org/transport/standards/transport/vehicle-regulations-wp29/addenda-1958-agreement-regulations-161-180](https://unece.org/transport/standards/transport/vehicle-regulations-wp29/addenda-1958-agreement-regulations-161-180). Der Geltungsbereich ist auf der Internetseite der Organisation der Vereinten Nationen einsehbar: [www.unece.org/status-1958-agreement-and-annexed-regulations](https://unece.org/status-1958-agreement-and-annexed-regulations).
+[^t-5]: Text und Geltungsbereich der Reglemente werden in der AS nicht veröffentlicht ([AS 2011 891](https://fedlex.data.admin.ch/eli/oc/2011/135); [2014 2611](https://fedlex.data.admin.ch/eli/oc/2014/458); [2015 2435](https://fedlex.data.admin.ch/eli/oc/2015/454); [2016 3693](https://fedlex.data.admin.ch/eli/oc/2016/620); [2017 3793](https://fedlex.data.admin.ch/eli/oc/2017/444); [2019 477](https://fedlex.data.admin.ch/eli/oc/2019/85); [2020 495](https://fedlex.data.admin.ch/eli/oc/2020/88); [2021 211](https://fedlex.data.admin.ch/eli/oc/2021/211), [911](https://fedlex.data.admin.ch/eli/oc/2021/911); [2023 384](https://fedlex.data.admin.ch/eli/oc/2023/384); [2025 62](https://fedlex.data.admin.ch/eli/oc/2025/62), [639](https://fedlex.data.admin.ch/eli/oc/2025/639); [2026 253](https://fedlex.data.admin.ch/eli/oc/2026/253)). Der Text kann beim Bundesamt für Strassen, 3003 Bern, bezogen oder auf der Internetseite der Organisation der Vereinten Nationen eingesehen werden: https://unece.org/transport/standards/transport/vehicle-regulations-wp29/addenda-1958-agreement-regulations-161-180. Der Geltungsbereich ist auf der Internetseite der Organisation der Vereinten Nationen einsehbar: [www.unece.org/status-1958-agreement-and-annexed-regulations](https://unece.org/status-1958-agreement-and-annexed-regulations).
 
 Einheitliche Vorschriften hinsichtlich die Internationale Gesamtfahrzeug-Typengenehmigung
 
