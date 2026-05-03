@@ -4,7 +4,7 @@ number: "173.07.1"
 title: RÈGLEMENT du 31.03.2023 du Conseil de la magistrature (RCMag)
 short: RCMag
 language: fr
-version: 2023-05-01
+version: 2026-05-04
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/173.07.1?id=c656629b-3ef9-44de-ba81-8d1ece2b2f2e"
 ---
 
@@ -397,16 +397,15 @@ adopte ce qui suit :
 
 <sup>3</sup> Le Tribunal neutre statue sur les demandes de récusation concernant l'ensemble ou la majorité des membres du Conseil de la magistrature.
 
-<sup>4</sup> Chaque membre du Conseil de la magistrature informe la présidence en cas de doute sérieux sur un motif de récusation.
+<sup>4</sup> Chaque membre du Conseil de la magistrature informe la présidence en cas de doute sur un motif de récusation.
 
-<sup>5</sup> Pour le surplus, la LPA-VD[^32-1] est applicable par analogie, étant précisé que le fait d'être membre d'un office judiciaire ou du Ministère public qui est concerné par une enquête ne constitue pas d'emblée un motif de récusation, sous réserve de liens particuliers avec les personnes plus directement concernées.
+<sup>5</sup> Pour le surplus, la LPA-VD est applicable par analogie.
 
 <sup>6</sup> Le membre récusé ne participe pas aux délibérations et ne reçoit pas la documentation relative à l'affaire en question.
 
 <sup>7</sup> Les règles de récusation sont applicables, par analogie, au secrétariat juridique.
 
 [^31-1]: Modif. 1 du 04.05.2026: Modification Al. 4-5; entrée en vigueur au 04.05.2026
-[^32-1]: Loi du 28.10.2008 sur la procédure administrative ( [BLV 173.36](https://prestations.vd.ch/pub/blv-publication/actes/consolide/173.36?id=e23682d9-8d47-49d8-a8fb-54bfae0c3a2a))
 
 ## Chapitre VI Dispositions finales
 
