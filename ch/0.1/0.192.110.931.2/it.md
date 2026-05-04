@@ -3,11 +3,11 @@ sr: "0.192.110.931.2"
 title: Convenzione del 9 settembre 2002 sui privilegi e le immunità della Corte penale internazionale
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/665"
 language: it
-version: 2025-03-20
+version: 2026-05-05
 adopted: 2002-09-09
 in_force: 2012-10-25
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/665/20250320/it/xml/fedlex-data-admin-ch-eli-cc-2012-665-20250320-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/665/20250320/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/665/20260505/it/xml/fedlex-data-admin-ch-eli-cc-2012-665-20260505-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/665/20260505/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -18,13 +18,9 @@ RU **2012** 5735
 
 Traduzione
 
-Conclusa a New York il 9 settembre 2002
+Conclusa a New York il 9 settembre 2002 Strumento di ratifica depositato dalla Svizzera il 25 settembre 2012 Entrata in vigore per la Svizzera il 25 ottobre 2012
 
-Strumento di ratifica depositato dalla Svizzera il 25 settembre 2012
-
-Entrata in vigore per la Svizzera il 25 ottobre 2012
-
-(Stato 20 marzo 2025)
+(Stato 5 maggio 2026)
 
 Gli Stati Parte al presente Accordo,
 
@@ -36,7 +32,7 @@ considerato che l’articolo 48 dello Statuto di Roma dispone che la Corte penal
 
 hanno convenuto quanto segue:
 
-[^ingress-1]: [RS 0.312.1](https://fedlex.data.admin.ch/eli/cc/2002/586)
+[^ingress-1]: [RS 0.312.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1326)
 
 #### Art. 1
 
@@ -61,13 +57,13 @@ Ai fini del presente Accordo si intende per:
 - o. «Convenzione di Vienna»: la Convenzione di Vienna del 18 aprile 1961[^1-1] sulle relazioni diplomatiche;
 - p. «Regolamento di procedura e di prova»: il Regolamento di procedura e di prova adottato in conformità con l’articolo 51 dello Statuto.
 
-[^1-1]: [RS 0.191.01](https://fedlex.data.admin.ch/eli/cc/1964/435_431_431)
+[^1-1]: [RS 0.191.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/489)
 
 #### Art. 2
 
 **Status giuridico e personalità giuridica della Corte**
 
-La Corte possiede personalità giuridica internazionale e ha la capacità giuridica necessaria per l’esercizio delle sue funzioni ed il conseguimento dei suoi obiettivi. In particolare, ha la capacità di contrattare, di acquistare e vendere beni immobili e mobili e di stare in giudizio.
+La Corte possiede personalità giuridica internazionale e ha la capacità giuridica neces-saria per l’esercizio delle sue funzioni ed il conseguimento dei suoi obiettivi. In parti-colare, ha la capacità di contrattare, di acquistare e vendere beni immobili e mobili e di stare in giudizio.
 
 #### Art. 3
 
@@ -486,7 +482,7 @@ L’originale del presente Accordo, i cui esemplari in lingua araba, cinese, ing
 
 *In fede di che* i sottoscritti, debitamente autorizzati, hanno firmato il presente Accordo. (Seguono le firme)
 
-Campo d’applicazione il 20 marzo 2025[^t-1]
+Campo d’applicazione il 5 maggio 2026[^t-1]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A) Dichiarazione di successione (S)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -544,7 +540,7 @@ Campo d’applicazione il 20 marzo 2025[^t-1]
 <tr><td>Montenegro</td><td>23 ottobre</td><td>2006 S</td><td>3 giugno</td><td>2006</td></tr>
 <tr><td>Namibia</td><td>29 gennaio</td><td>2004</td><td>22 luglio</td><td>2004</td></tr>
 <tr><td>Norvegia</td><td>10 settembre</td><td>2002</td><td>22 luglio</td><td>2004</td></tr>
-<tr><td>Nuova Zelanda\*</td><td>14 aprile</td><td>2004</td><td>22 luglio</td><td>2004</td></tr>
+<tr><td>Nuova Zelanda <sup>b</sup></td><td>14 aprile</td><td>2004</td><td>22 luglio</td><td>2004</td></tr>
 <tr><td>Paesi Bassi</td><td>24 luglio</td><td>2008</td><td>23 agosto</td><td>2008</td></tr>
 <tr><td>Aruba</td><td>24 luglio</td><td>2008</td><td>23 agosto</td><td>2008</td></tr>
 <tr><td>Curaçao</td><td>24 luglio</td><td>2008</td><td>23 agosto</td><td>2008</td></tr>
@@ -575,23 +571,22 @@ Campo d’applicazione il 20 marzo 2025[^t-1]
 <tr><td>Senegal</td><td>30 settembre</td><td>2014</td><td>30 ottobre</td><td>2014</td></tr>
 <tr><td>Serbia</td><td>7 maggio</td><td>2004</td><td>22 luglio</td><td>2004</td></tr>
 <tr><td>Slovacchia\*</td><td>26 maggio</td><td>2004</td><td>22 luglio</td><td>2004</td></tr>
-<tr><td>Slovenia</td><td>23 settembre</td><td>2004</td><td>23 ottobre</td><td>2004</td></tr>
+<tr><td>Slovenia\*</td><td>23 settembre</td><td>2004</td><td>23 ottobre</td><td>2004</td></tr>
 <tr><td>Spagna\*</td><td>24 settembre</td><td>2009</td><td>24 ottobre</td><td>2009</td></tr>
 <tr><td>Svezia</td><td>13 gennaio</td><td>2005</td><td>12 febbraio</td><td>2005</td></tr>
 <tr><td>Svizzera\*</td><td>25 settembre</td><td>2012</td><td>25 ottobre</td><td>2012</td></tr>
+<tr><td>Timor Est</td><td>30 maggio</td><td>2025 A</td><td>29 giugno</td><td>2025</td></tr>
 <tr><td>Trinidad e Tobago</td><td>6 febbraio</td><td>2003</td><td>22 luglio</td><td>2004</td></tr>
 <tr><td>Tunisia</td><td>29 giugno</td><td>2011 A</td><td>29 luglio</td><td>2011</td></tr>
 <tr><td>Ucraina\*</td><td>29 gennaio</td><td>2007 A</td><td>28 febbraio</td><td>2007</td></tr>
 <tr><td>Uganda</td><td>21 gennaio</td><td>2009</td><td>20 febbraio</td><td>2009</td></tr>
-<tr><td>Ungheria</td><td>22 marzo</td><td>2006</td><td>21 aprile</td><td>2006</td></tr>
 <tr><td>Uruguay</td><td>3 novembre</td><td>2006</td><td>3 dicembre</td><td>2006</td></tr>
-<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e le dichiarazioni non sono pubblicate nella RU, eccetto quelle della Svizzera. Il testo, francese ed inglese, può essere consultato sul sito Internet dell’Organizzazione delle Nazioni Unite: [http://treaties.un.org/](http://treaties.un.org/) &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies, oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
-<tr><td colspan="5"><sup>a</sup> La Conv. non si applica alle Isole Faeröer. <sup>b</sup> La Conv. non vale per il Tokelau.</td></tr>
+<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e le dichiarazioni non sono pubblicate nella RU, eccetto quelle della Svizzera. Il testo, in francese e inglese, può essere consultato sul sito Internet dell’Organizzazione delle Nazioni Unite (ONU): [https://treaties.un.org](https://treaties.un.org/) oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna. <sup>a</sup> La Conv. non si applica alle Isole Faeröer. <sup>b</sup> La Conv. non vale per il Tokelau.</td></tr>
 </table>
 
-## Dichiarazione
+[^t-1]: [RU 2012 5735](https://fedlex.data.admin.ch/eli/oc/2012/665); [2016 2549](https://fedlex.data.admin.ch/eli/oc/2016/399); [2020 2073](https://fedlex.data.admin.ch/eli/oc/2020/406); [2025 209](https://fedlex.data.admin.ch/eli/oc/2025/209); [2026 210](https://fedlex.data.admin.ch/eli/oc/2026/210). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty).
 
-[^t-1]: [RU 2012 5735](https://fedlex.data.admin.ch/eli/oc/2012/665), [2016 2549](https://fedlex.data.admin.ch/eli/oc/2016/399), [2020 2073](https://fedlex.data.admin.ch/eli/oc/2020/406); [2025 209](https://fedlex.data.admin.ch/eli/oc/2025/209). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty?news_period=last_month&news_pageNb=1&news_order=desc&news_itemsPerPage=10).
+Dichiarazione
 
 **Svizzera**
 
