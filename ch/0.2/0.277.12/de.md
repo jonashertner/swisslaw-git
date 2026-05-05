@@ -3,11 +3,11 @@ sr: "0.277.12"
 title: Übereinkommen vom 10. Juni 1958 über die Anerkennung und Vollstreckung ausländischer Schiedssprüche
 eli: "https://fedlex.data.admin.ch/eli/cc/1965/795_799_793"
 language: de
-version: 2022-05-09
+version: 2026-05-06
 adopted: 1958-06-10
 in_force: 1965-08-30
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1965/795_799_793/20220509/de/xml/fedlex-data-admin-ch-eli-cc-1965-795_799_793-20220509-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1965/795_799_793/20220509/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1965/795_799_793/20260506/de/xml/fedlex-data-admin-ch-eli-cc-1965-795_799_793-20260506-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1965/795_799_793/20260506/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -20,7 +20,7 @@ AS **1965** 795; BBl **1964** II 605
 
 Abgeschlossen in New York am 10. Juni 1958 Von der Bundesversammlung genehmigt am 2. März 1965[^t-1] Schweizerische Ratifikationsurkunde hinterlegt am 1. Juni 1965 In Kraft getreten für die Schweiz am 30. August 1965
 
-(Stand am 9. Mai 2022)
+(Stand am 6. Mai 2026)
 
 [^t-1]: [AS 1965 793](https://fedlex.data.admin.ch/eli/oc/1965/793_797_791)
 
@@ -82,7 +82,7 @@ Ist bei der Behörde, die im Sinne des Artikels V Absatz 1 Buchstabe *e* zustän
 
 <sup>2.</sup> Das Genfer Protokoll über die Schiedsklauseln von 1923[^VII-1] und das Genfer Abkommen zur Vollstreckung ausländischer Schiedssprüche von 1927[^VII-2] treten zwischen den Vertragsstaaten in dem Zeitpunkt und in dem Ausmass ausser Kraft, in dem dieses Übereinkommen für sie verbindlich wird.
 
-[^VII-1]: [SR 0.277.11](https://fedlex.data.admin.ch/eli/cc/44/406_426_420)
+[^VII-1]: [SR 0.277.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1276)
 [^VII-2]: [BS **12** 392. [AS 46 688](https://fedlex.data.admin.ch/eli/oc/46/688_704_714); [AS 2005 1513](https://fedlex.data.admin.ch/eli/oc/2005/231). [AS 2009 4239](https://fedlex.data.admin.ch/eli/oc/2009/517)].
 
 #### Art. VIII
@@ -91,7 +91,7 @@ Ist bei der Behörde, die im Sinne des Artikels V Absatz 1 Buchstabe *e* zustän
 
 <sup>2.</sup> Dieses Übereinkommen bedarf der Ratifizierung; die Ratifikationsurkunde ist bei dem Generalsekretär der Vereinten Nationen zu hinterlegen.
 
-[^VIII-1]: [SR 0.193.501](https://fedlex.data.admin.ch/eli/cc/1948/1048_1037_1010)
+[^VIII-1]: [SR 0.193.501](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/809)
 
 #### Art. IX
 
@@ -151,7 +151,7 @@ Der Generalsekretär der Vereinten Nationen notifiziert allen in Artikel VIII be
 
 (Es folgen die Unterschriften)
 
-Geltungsbereich am 9. Mai 2022**[^t-2]**
+Geltungsbereich am 6. Mai 2026[^t-2]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B) Nachfolgeerklärung (N)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -311,10 +311,12 @@ Geltungsbereich am 9. Mai 2022**[^t-2]**
 <tr><td>St. Vincent und die Grenadinen\*</td><td>12. September</td><td>2000 B</td><td>11. Dezember</td><td>2000</td></tr>
 <tr><td>Südafrika</td><td>3. Mai</td><td>1976 B</td><td>1. August</td><td>1976</td></tr>
 <tr><td>Sudan</td><td>26. März</td><td>2018 B</td><td>24. Juni</td><td>2018</td></tr>
+<tr><td>Suriname\*</td><td>10. November</td><td>2022 B</td><td>8. Februar</td><td>2023</td></tr>
 <tr><td>Syrien</td><td>9. März</td><td>1959 B</td><td>7. Juni</td><td>1959</td></tr>
 <tr><td>Tadschikistan\*</td><td>14. August</td><td>2012 B</td><td>12. November</td><td>2012</td></tr>
 <tr><td>Tansania\*</td><td>13. Oktober</td><td>1964 B</td><td>11. Januar</td><td>1965</td></tr>
 <tr><td>Thailand</td><td>21. Dezember</td><td>1959 B</td><td>20. März</td><td>1960</td></tr>
+<tr><td>Timor-Leste</td><td>17. Januar</td><td>2023 B</td><td>17. April</td><td>2023</td></tr>
 <tr><td>Tonga\*</td><td>12. Juni</td><td>2020 B</td><td>10. September</td><td>2020</td></tr>
 <tr><td>Trinidad und Tobago\*</td><td>14. Februar</td><td>1966 B</td><td>15. Mai</td><td>1966</td></tr>
 <tr><td>Tschechische Republik\*</td><td>30. September</td><td>1993 N</td><td>1. Januar</td><td>1993</td></tr>
@@ -341,7 +343,7 @@ Geltungsbereich am 9. Mai 2022**[^t-2]**
 <tr><td>Vietnam\*</td><td>12. September</td><td>1995 B</td><td>11. Dezember</td><td>1995</td></tr>
 <tr><td>Zentralafrikanische Republik\*</td><td>15. Oktober</td><td>1962 B</td><td>13. Januar</td><td>1963</td></tr>
 <tr><td>Zypern\*</td><td>29. Dezember</td><td>1980 B</td><td>29. März</td><td>1981</td></tr>
-<tr><td colspan="5">\* Vorbehalte und Erklärungen. \*\* Einwendungen. Die Vorbehalte, Erklärungen und Einwendungen werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite der Vereinten Nationen: http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
+<tr><td colspan="5">\* Vorbehalte und Erklärungen. \*\* Einwendungen. Die Vorbehalte, Erklärungen und Einwendungen werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite der Organisation der Vereinten Nationen (UNO): [http://treaties.un.org/](http://treaties.un.org/) eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
 </table>
 
-[^t-2]: [AS 1965 795](https://fedlex.data.admin.ch/eli/oc/1965/795_799_793); [1976 617](https://fedlex.data.admin.ch/eli/oc/1976/617_617_617); [1977 152](https://fedlex.data.admin.ch/eli/oc/1977/152_152_152); [1978 72](https://fedlex.data.admin.ch/eli/oc/1978/72_71_71); [1979 720](https://fedlex.data.admin.ch/eli/oc/1979/720_720_720); [1980 377](https://fedlex.data.admin.ch/eli/oc/1980/377_377_377); [1982 258](https://fedlex.data.admin.ch/eli/oc/1982/258_258_258), [1940](https://fedlex.data.admin.ch/eli/oc/1982/1940_1940_1940); [1983 1192](https://fedlex.data.admin.ch/eli/oc/1983/1192_1192_1192); [1984 309](https://fedlex.data.admin.ch/eli/oc/1984/309_309_309); [1985 173](https://fedlex.data.admin.ch/eli/oc/1985/173_173_173); [1986 337](https://fedlex.data.admin.ch/eli/oc/1986/337_337_337); [1987 712](https://fedlex.data.admin.ch/eli/oc/1987/712_712_712); [1988 2072](https://fedlex.data.admin.ch/eli/oc/1988/2072_2072_2072); [1990 716](https://fedlex.data.admin.ch/eli/oc/1990/716_716_716); [1993 2439](https://fedlex.data.admin.ch/eli/oc/1993/2439_2439_2439); [2004 3889](https://fedlex.data.admin.ch/eli/oc/2004/542); [2007 13](https://fedlex.data.admin.ch/eli/oc/2007/4); [2008 4053](https://fedlex.data.admin.ch/eli/oc/2008/557); [2011 875](https://fedlex.data.admin.ch/eli/oc/2011/132); [2013 1479](https://fedlex.data.admin.ch/eli/oc/2013/345); [2015 751](https://fedlex.data.admin.ch/eli/oc/2015/130); [2018 287](https://fedlex.data.admin.ch/eli/oc/2018/48); [2020 487](https://fedlex.data.admin.ch/eli/oc/2020/86), [3805](https://fedlex.data.admin.ch/eli/oc/2020/699); [2022 284](https://fedlex.data.admin.ch/eli/oc/2022/284). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht www.fedlex.admin.ch/de/treaty
+[^t-2]: [AS 1976 617](https://fedlex.data.admin.ch/eli/oc/1976/617_617_617); [1977 152](https://fedlex.data.admin.ch/eli/oc/1977/152_152_152); [1978 72](https://fedlex.data.admin.ch/eli/oc/1978/72_71_71); [1979 720](https://fedlex.data.admin.ch/eli/oc/1979/720_720_720); [1980 377](https://fedlex.data.admin.ch/eli/oc/1980/377_377_377); [1982 258](https://fedlex.data.admin.ch/eli/oc/1982/258_258_258), [1940](https://fedlex.data.admin.ch/eli/oc/1982/1940_1940_1940); [1983 1192](https://fedlex.data.admin.ch/eli/oc/1983/1192_1192_1192); [1984 309](https://fedlex.data.admin.ch/eli/oc/1984/309_309_309); [1985 173](https://fedlex.data.admin.ch/eli/oc/1985/173_173_173); [1986 337](https://fedlex.data.admin.ch/eli/oc/1986/337_337_337); [1987 712](https://fedlex.data.admin.ch/eli/oc/1987/712_712_712); [1988 2072](https://fedlex.data.admin.ch/eli/oc/1988/2072_2072_2072); [1990 716](https://fedlex.data.admin.ch/eli/oc/1990/716_716_716); [1993 2439](https://fedlex.data.admin.ch/eli/oc/1993/2439_2439_2439); [2004 3889](https://fedlex.data.admin.ch/eli/oc/2004/542); [2007 13](https://fedlex.data.admin.ch/eli/oc/2007/4); [2008 4053](https://fedlex.data.admin.ch/eli/oc/2008/557); [2011 875](https://fedlex.data.admin.ch/eli/oc/2011/132); [2013 1479](https://fedlex.data.admin.ch/eli/oc/2013/345); [2015 751](https://fedlex.data.admin.ch/eli/oc/2015/130); [2018 287](https://fedlex.data.admin.ch/eli/oc/2018/48); [2020 487](https://fedlex.data.admin.ch/eli/oc/2020/86), [3805](https://fedlex.data.admin.ch/eli/oc/2020/699); [2022 284](https://fedlex.data.admin.ch/eli/oc/2022/284); [2026 218](https://fedlex.data.admin.ch/eli/oc/2026/218). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).

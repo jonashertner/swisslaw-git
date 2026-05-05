@@ -3,11 +3,11 @@ sr: "0.277.12"
 title: "Convenzione del 10 giugno 1958 concernente il riconoscimento e l'esecuzione delle sentenze arbitrali estere"
 eli: "https://fedlex.data.admin.ch/eli/cc/1965/795_799_793"
 language: it
-version: 2022-05-09
+version: 2026-05-06
 adopted: 1958-06-10
 in_force: 1965-08-30
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1965/795_799_793/20220509/it/xml/fedlex-data-admin-ch-eli-cc-1965-795_799_793-20220509-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1965/795_799_793/20220509/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1965/795_799_793/20260506/it/xml/fedlex-data-admin-ch-eli-cc-1965-795_799_793-20260506-it-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1965/795_799_793/20260506/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -20,7 +20,7 @@ Traduzione
 
 Conchiusa a Nuova York il l0 giugno 1958 Approvata dall’Assemblea federale il 2 marzo 1965[^t-1] Istrumento di ratificazione depositato dalla Svizzera il l° giugno 1965 Entrata in vigore per la Svizzera il 30 agosto 1965
 
-(Stato 9 maggio 2022)
+(Stato 6 maggio 2026)
 
 [^t-1]: [RU 1965 791](https://fedlex.data.admin.ch/eli/oc/1965/793_797_791)
 
@@ -86,7 +86,7 @@ Ove l’annullamento o la sospensione della sentenza siano domandati all’autor
 
 <sup>2.</sup> Il Protocollo di Ginevra del 1923[^VII-1], relativo alle clausole d’arbitrato e la Convenzione di Ginevra del 1927[^VII-2] per l’esecuzione delle sentenze arbitrali estere cessano d’avere effetti tra gli Stati contraenti, nel momento e nella misura in cui saranno vincolati dalla presente Convenzione.
 
-[^VII-1]: [RS 0.277.11](https://fedlex.data.admin.ch/eli/cc/44/406_426_420)
+[^VII-1]: [RS 0.277.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1276)
 [^VII-2]: [CS **12** 370; [RU 2005 1513](https://fedlex.data.admin.ch/eli/oc/2005/231). [RU 2009 4239](https://fedlex.data.admin.ch/eli/oc/2009/517)]
 
 #### Art. VIII
@@ -95,7 +95,7 @@ Ove l’annullamento o la sospensione della sentenza siano domandati all’autor
 
 <sup>2.</sup> La presente Convenzione dev’essere ratificata e gli strumenti di ratificazione depositati presso il Segretario generale dell’Organizzazione delle Nazioni Unite.
 
-[^VIII-1]: [RS 0.193.501](https://fedlex.data.admin.ch/eli/cc/1948/1048_1037_1010)
+[^VIII-1]: [RS 0.193.501](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/809)
 
 #### Art. IX
 
@@ -153,9 +153,9 @@ Il Segretario generale dell’Organizzazione delle Nazioni Unite deve notificare
 
 <sup>2.</sup> Il Segretario generale dell’Organizzazione delle Nazioni Unite trasmetterà agli Stati, di cui all’articolo VIII, una copia, certificata conforme, della presente Convenzione.
 
-*(Seguono le firme)*
+(Seguono le firme)
 
-Campo d’applicazione il 9 maggio 2022**[^t-2]**
+Campo d’applicazione il 6 maggio 2026[^t-2]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A) Successione (S)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -326,11 +326,13 @@ Campo d’applicazione il 9 maggio 2022**[^t-2]**
 <tr><td>Tutti i territori di cui gli Stati Uniti garantiscono le relazioni internazionali</td><td>3 novembre</td><td>1970 A</td><td>1° febbraio</td><td>1971</td></tr>
 <tr><td>Sudafrica</td><td>3 maggio</td><td>1976 A</td><td>1° agosto</td><td>1976</td></tr>
 <tr><td>Sudan</td><td>26 marzo</td><td>2018 A</td><td>24 giugno</td><td>2018</td></tr>
+<tr><td>Suriname\*</td><td>10 novembre</td><td>2022 A</td><td>8 febbraio</td><td>2023</td></tr>
 <tr><td>Svezia</td><td>28 gennaio</td><td>1972</td><td>27 aprile</td><td>1972</td></tr>
 <tr><td>Svizzera</td><td>1° giugno</td><td>1965</td><td>30 agosto</td><td>1965</td></tr>
 <tr><td>Tagikistan\*</td><td>14 agosto</td><td>2012 A</td><td>12 novembre</td><td>2012</td></tr>
 <tr><td>Tanzania<sup>\*</sup></td><td>13 ottobre</td><td>1964 A</td><td>11 gennaio</td><td>1965</td></tr>
 <tr><td>Thailandia</td><td>21 dicembre</td><td>1959 A</td><td>20 marzo</td><td>1960</td></tr>
+<tr><td>Timor-Leste</td><td>17 gennaio</td><td>2023 A</td><td>17 aprile</td><td>2023</td></tr>
 <tr><td>Tonga\*</td><td>12 giugno</td><td>2020 A</td><td>10 settembre</td><td>2020</td></tr>
 <tr><td>Trinidad e Tobago<sup>\*</sup></td><td>14 febbraio</td><td>1966 A</td><td>15 maggio</td><td>1966</td></tr>
 <tr><td>Tunisia<sup>\*</sup></td><td>17 luglio</td><td>1967 A</td><td>15 ottobre</td><td>1967</td></tr>
@@ -345,7 +347,7 @@ Campo d’applicazione il 9 maggio 2022**[^t-2]**
 <tr><td>Vietnam<sup>\*</sup></td><td>12 settembre</td><td>1995 A</td><td>11 dicembre</td><td>1995</td></tr>
 <tr><td>Zambia</td><td>14 marzo</td><td>2002 A</td><td>12 giugno</td><td>2002</td></tr>
 <tr><td>Zimbabwe</td><td>29 settembre</td><td>1994 A</td><td>28 dicembre</td><td>1994</td></tr>
-<tr><td colspan="5">\* Riserve e dichiarazioni. \*\* Obiezioni. Le riserve, dichiarazioni e obiezioni non sono pubblicate nella RU. Il testo, in francese e inglese, può essere consultato sul sito Internet dell’Organizzazione delle Nazioni Unite: https://treaties.un.org &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies, oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
+<tr><td colspan="5">\* Riserve e dichiarazioni. \*\* Obiezioni. Le riserve, dichiarazioni e obiezioni non sono pubblicate nella RU, eccetto quelle della Svizzera. Il testo, in francese e in-glese, può essere consultato sul sito Internet dell’Organizzazione delle Nazioni Unite (ONU): [http://treaties.un.org](http://treaties.un.org) oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione dei trattati internazionali, 3003 Berna.</td></tr>
 </table>
 
-[^t-2]: **1965** 793; **1976** 617; **1977** 152; **1978** 71; **1979** 720; **1980** 377; **1982** 258, 1940; **1983** 1192; **1984** 309; **1985** 173; **1986** 337; **1987** 712; **1988** 2072; **1990** 716; **1993** 2439; **2004** 3889; **2007** 13; **2008** 4053; **2011** 875; **2013** 1479; **2015** 751; **2018** 287; **2020** 487, 3805; **2022** 284 Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: www.fedlex.admin.ch/it/treaty
+[^t-2]: [RU 1976 617](https://fedlex.data.admin.ch/eli/oc/1976/617_617_617); [1977 152](https://fedlex.data.admin.ch/eli/oc/1977/152_152_152); [1978 71](https://fedlex.data.admin.ch/eli/oc/1978/72_71_71); [1979 720](https://fedlex.data.admin.ch/eli/oc/1979/720_720_720); [1980 377](https://fedlex.data.admin.ch/eli/oc/1980/377_377_377); [1982 258](https://fedlex.data.admin.ch/eli/oc/1982/258_258_258), [1940](https://fedlex.data.admin.ch/eli/oc/1982/1940_1940_1940); [1983 1192](https://fedlex.data.admin.ch/eli/oc/1983/1192_1192_1192); [1984 309](https://fedlex.data.admin.ch/eli/oc/1984/309_309_309); [1985 173](https://fedlex.data.admin.ch/eli/oc/1985/173_173_173); [1986 337](https://fedlex.data.admin.ch/eli/oc/1986/337_337_337); [1987 712](https://fedlex.data.admin.ch/eli/oc/1987/712_712_712); [1988 2072](https://fedlex.data.admin.ch/eli/oc/1988/2072_2072_2072); [1990 716](https://fedlex.data.admin.ch/eli/oc/1990/716_716_716); [1993 2439](https://fedlex.data.admin.ch/eli/oc/1993/2439_2439_2439); [2004 3889](https://fedlex.data.admin.ch/eli/oc/2004/542); [2007 13](https://fedlex.data.admin.ch/eli/oc/2007/4); [2008 4053](https://fedlex.data.admin.ch/eli/oc/2008/557); [2011 875](https://fedlex.data.admin.ch/eli/oc/2011/132); [2013 1479](https://fedlex.data.admin.ch/eli/oc/2013/345); [2015 751](https://fedlex.data.admin.ch/eli/oc/2015/130); [2018 287](https://fedlex.data.admin.ch/eli/oc/2018/48); [2020 487](https://fedlex.data.admin.ch/eli/oc/2020/86), [3805](https://fedlex.data.admin.ch/eli/oc/2020/699); [2022 284](https://fedlex.data.admin.ch/eli/oc/2022/284); [2026 218](https://fedlex.data.admin.ch/eli/oc/2026/218). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty).
