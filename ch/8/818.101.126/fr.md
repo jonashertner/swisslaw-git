@@ -3,11 +3,11 @@ sr: "818.101.126"
 title: "Ordonnance du DFI du 1<sup>er</sup> décembre 2015 sur la déclaration d'observations en rapport avec les maladies transmissibles de l'homme (ODMT)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/892"
 language: fr
-version: 2026-01-01
+version: 2026-05-06
 adopted: 2015-12-01
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/892/20260101/fr/xml/fedlex-data-admin-ch-eli-cc-2015-892-20260101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/892/20260101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/892/20260506/fr/xml/fedlex-data-admin-ch-eli-cc-2015-892-20260506-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/892/20260506/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/892/20260101/fr"
 
 (ODMT)[^t-1]
 
-du 1<sup>er</sup> décembre 2015 (État le 1<sup>er</sup> janvier 2026)
+du 1<sup>er</sup> décembre 2015 (État le 6 mai 2026)
 
 [^t-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 29 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 792](https://fedlex.data.admin.ch/eli/oc/2023/792)).
 
@@ -297,7 +297,7 @@ Annexe 1[^t-2]
 
 ## Déclarations de résultats d’analyses cliniques
 
-[^t-2]: Mise à jour par les ch. I et II de l’O du DFI du 19 oct. 2016 ([RO 2016 3841](https://fedlex.data.admin.ch/eli/oc/2016/644)), le ch. I de l’O du DFI du 10 nov. 2017 ([RO 2017 6671](https://fedlex.data.admin.ch/eli/oc/2017/743)), le ch. II al. 1 de l’O du DFI du 1<sup>er</sup> nov. 2019 ([RO 2019 3583](https://fedlex.data.admin.ch/eli/oc/2019/658)), le ch. II al. 1 de l’O du DFI du 25 nov. 2021 ([RO 2021 852](https://fedlex.data.admin.ch/eli/oc/2021/852)), le ch. I de l’O du DFI du 8 juil. 2022 ([RO 2022 416](https://fedlex.data.admin.ch/eli/oc/2022/416)), le ch. II al. 1 de l’O du DFI du 29 nov. 2023 ([RO 2023 792](https://fedlex.data.admin.ch/eli/oc/2023/792)), le ch. I de l’O du DFI du 24 oct. 2024 ([RO 2024 626](https://fedlex.data.admin.ch/eli/oc/2024/626)) et le ch. II de l’O du DFI du 8 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 632](https://fedlex.data.admin.ch/eli/oc/2025/632)).
+[^t-2]: Mise à jour par les ch. I et II de l’O du DFI du 19 oct. 2016 ([RO 2016 3841](https://fedlex.data.admin.ch/eli/oc/2016/644)), le ch. I de l’O du DFI du 10 nov. 2017 ([RO 2017 6671](https://fedlex.data.admin.ch/eli/oc/2017/743)), le ch. II al. 1 de l’O du DFI du 1<sup>er</sup> nov. 2019 ([RO 2019 3583](https://fedlex.data.admin.ch/eli/oc/2019/658)), le ch. II al. 1 de l’O du DFI du 25 nov. 2021 ([RO 2021 852](https://fedlex.data.admin.ch/eli/oc/2021/852)), le ch. I de l’O du DFI du 8 juil. 2022 ([RO 2022 416](https://fedlex.data.admin.ch/eli/oc/2022/416)), le ch. II al. 1 de l’O du DFI du 29 nov. 2023 ([RO 2023 792](https://fedlex.data.admin.ch/eli/oc/2023/792)), le ch. I de l’O du DFI du 24 oct. 2024 ([RO 2024 626](https://fedlex.data.admin.ch/eli/oc/2024/626)) et le ch. II de l’O du DFI du 8 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 632](https://fedlex.data.admin.ch/eli/oc/2025/632)). Erratum du 6 mai 2026 ([RO 2026 189](https://fedlex.data.admin.ch/eli/oc/2026/189)).
 
 Liste des observations que les médecins, les hôpitaux et les autres institutions de santé publiques ou privées doivent déclarer aux médecins cantonaux compétents.
 
@@ -320,7 +320,7 @@ Liste des observations que les médecins, les hôpitaux et les autres institutio
 <tr><td>14 Méningo-encéphalite verno-estivale (FSME)</td><td>résultat positif d’analyses de laboratoire</td><td>1 semaine</td><td>– diagnostic et manifestation – diagnostic de laboratoire demandé – décours – exposition – statut vaccinal – appartenance à un groupe de personnes à risque accru d’infection – comportements à risque ou facteurs de risque – mesures prises</td><td colspan="2">– initiales du prénom et du nom, lieu de domicile – date de naissance, sexe, nationalité, – activité professionnelle – numéro AVS si la déclaration est transmise par voie électronique</td><td>non</td><td></td></tr>
 <tr><td>15 Fièvre jaune</td><td>suspicion clinique\* *ou* décès des suites de la fièvre jaune</td><td>24 heures</td><td>– diagnostic et manifestation – diagnostic de laboratoire demandé – décours – exposition – statut vaccinal – mesures prises</td><td colspan="2">– nom, prénom, adresse et numéro de téléphone; le cas échéant: lieu de séjour – date de naissance, sexe, nationalité – numéro AVS si la déclaration est transmise par voie électronique</td><td>oui</td><td>\* ou, en l’absence de signes cliniques spécifiques ou en cas de découverte fortuite, au plus tard lors de l’obtention du résultat positif d’analyses de laboratoire</td></tr>
 <tr><td>16 Gonorrhée</td><td>résultat positif d’analyses de laboratoire</td><td>1 semaine</td><td>– diagnostic et manifestation – diagnostic de laboratoire demandé – décours – exposition – comportements à risque ou facteurs de risque – mesures prises</td><td colspan="2">– initiales du prénom et du nom, lieu de domicile – date de naissance, sexe, nationalité – numéro AVS si la déclaration est transmise par voie électronique</td><td>non</td><td></td></tr>
-<tr><td>17 Fièvre de Hantaan</td><td>résultat positif d’analyses de laboratoire</td><td>1 semaine</td><td>– diagnostic et manifestation – diagnostic de laboratoire demandé – décours – exposition – mesures prises</td><td colspan="2">– initiales du prénom et du nom, lieu de domicile – date de naissance, sexe, nationalité – numéro AVS si la déclaration est transmise par voie électronique</td><td>non</td><td></td></tr>
+<tr><td>17 Fièvre de Hanta</td><td>résultat positif d’analyses de laboratoire</td><td>1 semaine</td><td>– diagnostic et manifestation – diagnostic de laboratoire demandé – décours – exposition – mesures prises</td><td colspan="2">– initiales du prénom et du nom, lieu de domicile – date de naissance, sexe, nationalité – numéro AVS si la déclaration est transmise par voie électronique</td><td>non</td><td></td></tr>
 <tr><td>18 Infection invasive à *Haemophilus* *influenzae*</td><td>résultat positif d’analyses de laboratoire\*</td><td>1 semaine</td><td>– diagnostic et manifestation – diagnostic de laboratoire demandé – décours – statut vaccinal – comportements à risque ou facteurs de risque – mesures prises</td><td colspan="2">– initiales du prénom et du nom, lieu de domicile – date de naissance, sexe, nationalité – numéro AVS si la déclaration est transmise par voie électronique</td><td>non</td><td>\* seulement à partir de matériel normalement stérile tel que sang, liquide céphalorachidien ou liquide articulaire; urine *exclue*</td></tr>
 <tr><td>19 Hépatite A</td><td>résultat positif d’analyses de laboratoire</td><td>24 heures</td><td>– diagnostic et manifestation – diagnostic de laboratoire demandé – décours – exposition – statut vaccinal – appartenance à un groupe de personnes à risque accru d’infection – comportements à risque ou facteurs de risque – mesures prises</td><td colspan="2">– nom, prénom, adresse et numéro de téléphone; le cas échéant: lieu de séjour – date de naissance, sexe, nationalité – activité professionnelle – numéro AVS si la déclaration est transmise par voie électronique</td><td>non</td><td></td></tr>
 <tr><td>20 Hépatite B</td><td>résultat positif d’analyses de laboratoire *et* demande du médecin cantonal de déclarer le cas\*</td><td>1 semaine</td><td>– diagnostic et manifestation – diagnostic de laboratoire demandé – décours – exposition – statut vaccinal – appartenance à un groupe de personnes à risque accru d’infection – comportements à risque ou facteurs de risque – mesures prises</td><td colspan="2">– nom, prénom, adresse et numéro de téléphone; le cas échéant: lieu de séjour – date de naissance, sexe, nationalité – activité professionnelle – pays d’origine – numéro AVS si la déclaration est transmise par voie électronique</td><td>non</td><td>\* si le résultat positif d’analyses cliniques n’a pas encore été déclaré</td></tr>

@@ -3,11 +3,11 @@ sr: "818.101.126"
 title: Verordnung des EDI vom 1. Dezember 2015 über die Meldung von Beobachtungen übertragbarer Krankheiten des Menschen (VMüK)
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/892"
 language: de
-version: 2026-01-01
+version: 2026-05-06
 adopted: 2015-12-01
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/892/20260101/de/xml/fedlex-data-admin-ch-eli-cc-2015-892-20260101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/892/20260101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/892/20260506/de/xml/fedlex-data-admin-ch-eli-cc-2015-892-20260506-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/892/20260506/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/892/20260101/de"
 
 (VMüK)[^t-1]
 
-vom 1. Dezember 2015 (Stand am 1. Januar 2026)
+vom 1. Dezember 2015 (Stand am 6. Mai 2026)
 
 [^t-1]: Fassung gemäss Ziff. I der V des EDI vom 29. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 792](https://fedlex.data.admin.ch/eli/oc/2023/792)).
 
@@ -297,7 +297,7 @@ Anhang 1[^t-2]
 
 ## Meldungen von klinischen Befunden
 
-[^t-2]: Bereinigt gemäss Ziff. II der V des EDI vom 19. Okt. 2016 ([AS 2016 3841](https://fedlex.data.admin.ch/eli/oc/2016/644)), Ziff. I der V des EDI vom 10. Nov. 2017 ([AS 2017 6671](https://fedlex.data.admin.ch/eli/oc/2017/743)), Ziff. II Abs. 1 der V des EDI vom 1. Nov. 2019 ([AS 2019 3583](https://fedlex.data.admin.ch/eli/oc/2019/658)), Ziff. II Abs. 1 der V des EDI vom 25. Nov. 2021 ([AS 2021 852](https://fedlex.data.admin.ch/eli/oc/2021/852)), Ziff. I der V des EDI vom 8. Juli 2022 ([AS 2022 416](https://fedlex.data.admin.ch/eli/oc/2022/416)), Ziff. II Abs. 1 der V des EDI vom 29. Nov. 2023 ([AS 2023 792](https://fedlex.data.admin.ch/eli/oc/2023/792)), Ziff. I der V des EDI vom 24. Okt. 2024 ([AS 2024 626](https://fedlex.data.admin.ch/eli/oc/2024/626)) und Ziff. II der V des EDI vom 8. Okt. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 632](https://fedlex.data.admin.ch/eli/oc/2025/632)).
+[^t-2]: Bereinigt gemäss Ziff. II der V des EDI vom 19. Okt. 2016 ([AS 2016 3841](https://fedlex.data.admin.ch/eli/oc/2016/644)), Ziff. I der V des EDI vom 10. Nov. 2017 ([AS 2017 6671](https://fedlex.data.admin.ch/eli/oc/2017/743)), Ziff. II Abs. 1 der V des EDI vom 1. Nov. 2019 ([AS 2019 3583](https://fedlex.data.admin.ch/eli/oc/2019/658)), Ziff. II Abs. 1 der V des EDI vom 25. Nov. 2021 ([AS 2021 852](https://fedlex.data.admin.ch/eli/oc/2021/852)), Ziff. I der V des EDI vom 8. Juli 2022 ([AS 2022 416](https://fedlex.data.admin.ch/eli/oc/2022/416)), Ziff. II Abs. 1 der V des EDI vom 29. Nov. 2023 ([AS 2023 792](https://fedlex.data.admin.ch/eli/oc/2023/792)), Ziff. I der V des EDI vom 24. Okt. 2024 ([AS 2024 626](https://fedlex.data.admin.ch/eli/oc/2024/626)) und Ziff. II der V des EDI vom 8. Okt. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 632](https://fedlex.data.admin.ch/eli/oc/2025/632)). Die Berichtigung vom 6. Mai 2026 betrifft nur den französischen Text ([AS 2026 189](https://fedlex.data.admin.ch/eli/oc/2026/189)).
 
 Liste der Beobachtungen, die Ärztinnen und Ärzte, Spitäler und andere öffentliche und private Institutionen des Gesundheitswesens den zuständigen Kantonsärztinnen und Kantonsärzten melden müssen.
 
@@ -401,7 +401,7 @@ Liste der Beobachtungen, die Laboratorien den zuständigen Kantonsärztinnen und
 <tr><td colspan="2">8 *Chlamydia trachomatis*</td><td colspan="3">Positiver Befund\*</td><td>1 Woche</td><td>– Resultat mit Interpretation – Untersuchung: Material, Methode</td><td>– Initialen des Vor- und Nachnamens, Wohnort – Geburtsdatum, Geschlecht − AHV-Nummer</td><td colspan="2"></td><td colspan="2">\* Zu melden sind lediglich Resultate aus Proben des Genitaltrakts.</td></tr>
 <tr><td colspan="2">9 *Clostridium botulinum*</td><td colspan="3">Positiver Befund\*</td><td>2 Stunden, telefonisch</td><td>– Resultat mit Interpretation – Untersuchung: Material, Methode</td><td>– Vorname, Name und Adresse; gegebenenfalls Aufenthaltsort – Geburtsdatum, Geschlecht − AHV-Nummer</td><td colspan="2">Proben sind an eines der vom BAG empfohlenen Laboratorien im Ausland weiterzuleiten.</td><td colspan="2">\* Nicht melden: Wund- und Säuglingsbotulismus</td></tr>
 <tr><td colspan="2"></td><td colspan="3">Negativer Befund\*</td><td>2 Stunden, telefonisch</td><td>– Resultat mit Interpretation – Untersuchung: Material, Methode</td><td>– Vorname, Name und Adresse; gegebenenfalls Aufenthaltsort – Geburtsdatum, Geschlecht − AHV-Nummer</td><td colspan="2"></td><td colspan="2"></td></tr>
-<tr><td colspan="2">10 *Corynebacterium diphtheriae* und andere toxinbildende Corynebakterien *(C. ulcerans, C. pseudo-tuberculosis)*</td><td colspan="3">Positiver Befund\*</td><td>24 Stunden</td><td>– Resultat mit Interpretation: Typ, Toxinnachweis – Untersuchung: Material, Methode</td><td>– Vorname, Name und Adresse; gegebenenfalls Aufenthaltsort – Geburtsdatum, Geschlecht – AHV-Nummer</td><td colspan="2"></td><td colspan="2">\* Nicht melden: Abklärungen zum Immunstatus.</td></tr>
+<tr><td colspan="2">10 *Corynebacterium diphtheriae* und andere toxinbildende Corynebakterien *(C. ulcerans,* *C. pseudo-tuberculosis)*</td><td colspan="3">Positiver Befund\*</td><td>24 Stunden</td><td>– Resultat mit Interpretation: Typ, Toxinnachweis – Untersuchung: Material, Methode</td><td>– Vorname, Name und Adresse; gegebenenfalls Aufenthaltsort – Geburtsdatum, Geschlecht – AHV-Nummer</td><td colspan="2"></td><td colspan="2">\* Nicht melden: Abklärungen zum Immunstatus.</td></tr>
 <tr><td colspan="2"></td><td colspan="3">Negativer Befund\*</td><td>24 Stunden</td><td>– Resultat mit Interpretation – Untersuchung: Material, Methode</td><td>– Vorname, Name und Adresse; gegebenenfalls Aufenthaltsort – Geburtsdatum, Geschlecht – AHV-Nummer</td><td colspan="2"></td><td colspan="2">\* Immer zu melden: negative Befunde bei Test auf Toxin (PCR oder/und Elek-Test). Nur auf Anfrage der Kantonsärztin oder des Kantonsarzts und des BAG zu melden: negative Kulturbefunde. Nicht zu melden: Abklärungen zum Immunstatus.</td></tr>
 <tr><td colspan="2">11 *Coxiella* *burnetii*</td><td colspan="3">Positiver Befund\*</td><td>1 Woche</td><td>– Resultat mit Interpretation: Nachweis IgMPhase II und IgG- Phase II – Untersuchung: Material, Methode</td><td>– Vorname, Name und Adresse; gegebenenfalls Aufenthaltsort – Geburtsdatum, Geschlecht − AHV-Nummer</td><td colspan="2">Proben sind nach Aufforderung durch das BAG an das Referenzzentrum weiterzuleiten.</td><td colspan="2">\* Zu melden sind lediglich akute Infektionen.</td></tr>
 <tr><td colspan="2"></td><td colspan="3">Negativer Befund\*</td><td>1 Woche</td><td>– Resultat mit Interpretation – Untersuchung: Material, Methode</td><td>– Initialen des Vor- und Nachnamens, Wohnort – Geburtsdatum, Geschlecht − AHV-Nummer</td><td colspan="2"></td><td colspan="2">\* Nur auf Anfrage der Kantonsärztin oder des Kantonsarzts und des BAG zu melden.</td></tr>

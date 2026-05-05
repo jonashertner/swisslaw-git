@@ -3,11 +3,11 @@ sr: "818.101.126"
 title: "Ordinanza del DFI del 1° dicembre 2015 sulla dichiarazione di osservazioni relative alle malattie trasmissibili dell'essere umano (ODMT)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/892"
 language: it
-version: 2026-01-01
+version: 2026-05-06
 adopted: 2015-12-01
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/892/20260101/it/xml/fedlex-data-admin-ch-eli-cc-2015-892-20260101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/892/20260101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/892/20260506/it/xml/fedlex-data-admin-ch-eli-cc-2015-892-20260506-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/892/20260506/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/892/20260101/it"
 
 (ODMT)[^t-1]
 
-del 1° dicembre 2015 (Stato 1° gennaio 2026)
+del 1° dicembre 2015 (Stato 6 maggio 2026)
 
 [^t-1]: Nuovo testo giusta la cifra I dell’O del DFI del 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 792](https://fedlex.data.admin.ch/eli/oc/2023/792)).
 
@@ -168,7 +168,7 @@ Devono trasmettere i seguenti dati:
 
 [^6-1]: [RS 0.818.103](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3573)
 [^6-2]: Nuovo testo giusta la cifra I dell’O del DFI del 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 792](https://fedlex.data.admin.ch/eli/oc/2023/792)).
-[^6-3]: Nuovo testo giusta la cifra I dell’O del DFI del 29 nov. 2023, in vigore dal 1° gen. 2024 ( [RU 2023 792](https://fedlex.data.admin.ch/eli/oc/2023/792)).
+[^6-3]: Nuovo testo giusta la cifra I dell’O del DFI del 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 792](https://fedlex.data.admin.ch/eli/oc/2023/792)).
 
 #### Art. 7
 
@@ -297,7 +297,7 @@ Allegato 1[^t-2]
 
 ## Dichiarazioni di referti clinici
 
-[^t-2]: Aggiornato dalla cifra II dell’O del DFI del 19 ott. 2016 ([RU 2016 3841](https://fedlex.data.admin.ch/eli/oc/2016/644)), dalla cifra I dell’O del DFI del 10 nov. 2017 ([RU 2017 6671](https://fedlex.data.admin.ch/eli/oc/2017/743)), dalla cifra II cpv. 1 delle O del DFI del 1° nov. 2019 ([RU 2019 3583](https://fedlex.data.admin.ch/eli/oc/2019/658)), del 25 nov. 2021 ([RU 2021 852](https://fedlex.data.admin.ch/eli/oc/2021/852)), dalla cifra I dell’O del DFI dell’8 lug. 2022 ([RU 2022 416](https://fedlex.data.admin.ch/eli/oc/2022/416)), dalla cifra II cpv. 1 dell’O del DFI del 29 nov. 2023([RU 2023 792](https://fedlex.data.admin.ch/eli/oc/2023/792)), dalla cifra I dell’O del DFI del 24 ott. 2024 ([RU 2024 626](https://fedlex.data.admin.ch/eli/oc/2024/626)) e la cifra II dell’O del DFI dell’8 ott. 2025, in vigore dal 1° gen. 2026 ([RU 2025 632](https://fedlex.data.admin.ch/eli/oc/2025/632)).
+[^t-2]: Aggiornato dalla cifra II dell’O del DFI del 19 ott. 2016 ([RU 2016 3841](https://fedlex.data.admin.ch/eli/oc/2016/644)), dalla cifra I dell’O del DFI del 10 nov. 2017 ([RU 2017 6671](https://fedlex.data.admin.ch/eli/oc/2017/743)), dalla cifra II cpv. 1 delle O del DFI del 1° nov. 2019 ([RU 2019 3583](https://fedlex.data.admin.ch/eli/oc/2019/658)), del 25 nov. 2021 ([RU 2021 852](https://fedlex.data.admin.ch/eli/oc/2021/852)), dalla cifra I dell’O del DFI dell’8 lug. 2022 ([RU 2022 416](https://fedlex.data.admin.ch/eli/oc/2022/416)), dalla cifra II cpv. 1 dell’O del DFI del 29 nov. 2023([RU 2023 792](https://fedlex.data.admin.ch/eli/oc/2023/792)), dalla cifra I dell’O del DFI del 24 ott. 2024 ([RU 2024 626](https://fedlex.data.admin.ch/eli/oc/2024/626)) e la cifra II dell’O del DFI dell’8 ott. 2025, in vigore dal 1° gen. 2026 ([RU 2025 632](https://fedlex.data.admin.ch/eli/oc/2025/632)). La correzione del 6 mag. 2026 concerne soltanto il testo francese ([RU 2026 189](https://fedlex.data.admin.ch/eli/oc/2026/189)).
 
 Elenco delle osservazioni che i medici, gli ospedali e le altre istituzioni pubbliche o private del sistema sanitario devono dichiarare ai medici cantonali competenti.
 
