@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Verordnung über die Aufsicht und Transparenz in den Energiegrosshandelsmärkten (VATE)
 document: Vernehmlassungsvorlage
 language: de

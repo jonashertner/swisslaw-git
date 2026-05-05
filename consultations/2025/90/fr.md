@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Ordonnance sur la surveillance et la transparence des marchés de gros de l’énergie (OSTE)
 document: Projet mis en consultation
 language: fr

@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Ordinanza sulla vigilanza e la trasparenza nei mercati dell’energia all’ingrosso
 document: Progetto posto in consultazione
 language: it
