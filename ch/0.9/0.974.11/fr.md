@@ -3,11 +3,11 @@ sr: "0.974.11"
 title: "Acte constitutif de l'Organisation des Nations Unies pour le développement industriel, du 8 avril 1979 (avec annexes)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1985/1287_1287_1287"
 language: fr
-version: 2021-03-01
+version: 2026-05-06
 adopted: 1979-04-08
 in_force: 1985-06-21
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1985/1287_1287_1287/20210301/fr/xml/fedlex-data-admin-ch-eli-cc-1985-1287_1287_1287-20210301-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1985/1287_1287_1287/20210301/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1985/1287_1287_1287/20260506/fr/xml/fedlex-data-admin-ch-eli-cc-1985-1287_1287_1287-20260506-fr-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1985/1287_1287_1287/20260506/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -26,7 +26,7 @@ Instrument de ratification déposé par la Suisse le 10 février 1981
 
 Entré en vigueur pour la Suisse le 21 juin 1985
 
-(Etat le 1<sup>er</sup> mars 2021)
+(État le 6 mai 2026)
 
 [^t-1]: [RO 1985 1286](https://fedlex.data.admin.ch/eli/oc/1985/1286_1286_1286)
 
@@ -56,7 +56,7 @@ désireux d’établir, aux termes du Chap. IX de la Charte des Nations Unies, u
 
 conviennent du présent Acte constitutif:
 
-[^ingress-1]: [RS 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
+[^ingress-1]: [RS 0.120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/41)
 
 ## Chapitre I Objectifs et fonctions
 
@@ -355,17 +355,21 @@ La capacité juridique, les privilèges et les immunités visés au par. 1 seron
 
 **Règlement des différends et demandes d’avis consultatif**
 
+Les règles relatives aux procédures et au fonctionnement du tribunal arbitral et de la commission de conciliation sont énoncées dans l’Annexe III au présent Acte constitutif.
+
 - 1\. a) Tout différend entre deux ou plusieurs Membres concernant l’interprétation ou l’application du présent Acte constitutif, y compris ses annexes, qui n’a pas été réglé par voie de négociation, est soumis au Conseil à moins que les parties intéressées ne conviennent d’un autre mode de règlement. Si le différend concerne particulièrement un Membre non représenté au Conseil, ce Membre a le droit de se faire représenter conformément à des règles à adopter par le Conseil.
-- b) Si le différend n’a pas été réglé conformément aux dispositions du par. 1 a) à la satisfaction de l’une quelconque des parties au différend, ladite partie peut soumettre la question:
-- soit i)
+- b)
 
-  si les parties sont d’accord:
+  Si le différend n’a pas été réglé conformément aux dispositions du par. 1 a) à la satisfaction de l’une quelconque des parties au différend, ladite partie peut soumettre la question:
 
-  - A à la Cour internationale de justice, ou
-  - B à un tribunal arbitral;
+  - soit i)
 
-- soit ii) s’il en est autrement, à une commission de conciliation.
-- Les règles relatives aux procédures et au fonctionnement du tribunal arbitral et de la commission de conciliation sont énoncées dans l’Annexe III au présent Acte constitutif.
+    si les parties sont d’accord:
+
+    - A à la Cour internationale de justice, ou
+    - B à un tribunal arbitral;
+
+  - soit ii) s’il en est autrement, à une commission de conciliation.
 
 <sup>2.</sup> La Conférence et le Conseil sont l’une et l’autre habilités, sous réserve de l’autorisation de l’Assemblée générale des Nations Unies, à demander à la Cour internationale de justice de donner un avis consultatif sur toute question juridique se posant dans le cadre des activités de l’Organisation.
 
@@ -497,7 +501,7 @@ Sauf décision contraire de tous les Membres parties à un différend qui n’a 
   - a) Le tribunal arbitral clôt sa procédure par une sentence qui lie toutes les parties.
   - b) La commission de conciliation clôt sa procédure par un rapport qu’elle communique à toutes les parties au différend et qui contient des recommandations dont lesdites parties tiennent le plus grand compte.
 
-Champ d’application le 1<sup>er</sup> mars 2021**[^t-2]**
+Champ d’application le 6 mai 2026[^t-2]
 
 <table>
 <tr><th>États parties</th><th>Ratification Adhésion (A)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
@@ -570,6 +574,7 @@ Champ d’application le 1<sup>er</sup> mars 2021**[^t-2]**
 <tr><td>Honduras</td><td>3 mars</td><td>1983</td><td>21 juin</td><td>1985</td></tr>
 <tr><td>Hongrie</td><td>15 août</td><td>1983</td><td>2 juillet</td><td>1985</td></tr>
 <tr><td>Îles Marshall</td><td>16 mars</td><td>2015 A</td><td>16 mars</td><td>2015</td></tr>
+<tr><td>Îles Salomon</td><td>4 octobre</td><td>2024 A</td><td>4 octobre</td><td>2024</td></tr>
 <tr><td>Inde</td><td>21 janvier</td><td>1980</td><td>21 juin</td><td>1985</td></tr>
 <tr><td>Indonésie</td><td>10 novembre</td><td>1980</td><td>21 juin</td><td>1985</td></tr>
 <tr><td>Iran</td><td>9 août</td><td>1985</td><td>9 août</td><td>1985</td></tr>
@@ -619,15 +624,16 @@ Champ d’application le 1<sup>er</sup> mars 2021**[^t-2]**
 <tr><td>Ouganda</td><td>23 mars</td><td>1983</td><td>21 juin</td><td>1985</td></tr>
 <tr><td>Ouzbékistan</td><td>26 avril</td><td>1994 A</td><td>26 avril</td><td>1994</td></tr>
 <tr><td>Pakistan</td><td>29 octobre</td><td>1979</td><td>21 juin</td><td>1985</td></tr>
+<tr><td>Palaos</td><td>17 janvier</td><td>2023 A</td><td>17 janvier</td><td>2023</td></tr>
 <tr><td>Palestine</td><td>17 mai</td><td>2018 A</td><td>17 mai</td><td>2018</td></tr>
 <tr><td>Panama</td><td>23 juillet</td><td>1980</td><td>21 juin</td><td>1985</td></tr>
 <tr><td>Papouasie-Nouvelle-Guinée</td><td>10 septembre</td><td>1986</td><td>10 septembre</td><td>1986</td></tr>
 <tr><td>Paraguay</td><td>2 décembre</td><td>1981</td><td>18 juillet</td><td>1985</td></tr>
 <tr><td>Pays-Bas</td><td>10 octobre</td><td>1980</td><td>21 juin</td><td>1985</td></tr>
-<tr><td>[tab] Aruba</td><td>10 octobre</td><td>1980</td><td>21 juin</td><td>1985</td></tr>
-<tr><td>[tab] Curaçao</td><td>10 octobre</td><td>1980</td><td>21 juin</td><td>1985</td></tr>
-<tr><td>[tab] Partie caraïbe (Bonaire, Sint Eustatius et Saba)</td><td>10 octobre</td><td>1980</td><td>21 juin</td><td>1985</td></tr>
-<tr><td>[tab] Sint Maarten</td><td>10 octobre</td><td>1980</td><td>21 juin</td><td>1985</td></tr>
+<tr><td>Aruba</td><td>10 octobre</td><td>1980</td><td>21 juin</td><td>1985</td></tr>
+<tr><td>Curaçao</td><td>10 octobre</td><td>1980</td><td>21 juin</td><td>1985</td></tr>
+<tr><td>Partie caraïbe (Bonaire, Sint Eustatius et Saba)</td><td>10 octobre</td><td>1980</td><td>21 juin</td><td>1985</td></tr>
+<tr><td>Sint Maarten</td><td>10 octobre</td><td>1980</td><td>21 juin</td><td>1985</td></tr>
 <tr><td>Pérou</td><td>13 septembre</td><td>1982</td><td>21 juin</td><td>1985</td></tr>
 <tr><td>Philippines</td><td>7 janvier</td><td>1980</td><td>21 juin</td><td>1985</td></tr>
 <tr><td>Pologne</td><td>5 mars</td><td>1985</td><td>21 juin</td><td>1985</td></tr>
@@ -650,6 +656,7 @@ Champ d’application le 1<sup>er</sup> mars 2021**[^t-2]**
 <tr><td>Slovénie</td><td>11 juin</td><td>1992 A</td><td>11 juin</td><td>1992</td></tr>
 <tr><td>Somalie</td><td>20 novembre</td><td>1981</td><td>15 novembre</td><td>1985</td></tr>
 <tr><td>Soudan</td><td>30 septembre</td><td>1981</td><td>28 juin</td><td>1985</td></tr>
+<tr><td>Soudan du Sud</td><td>18 août</td><td>2023 A</td><td>18 août</td><td>2023</td></tr>
 <tr><td>Sri Lanka</td><td>25 septembre</td><td>1981</td><td>21 juin</td><td>1985</td></tr>
 <tr><td>Suède</td><td>28 juillet</td><td>1980</td><td>21 juin</td><td>1985</td></tr>
 <tr><td>Suisse</td><td>10 février</td><td>1981</td><td>21 juin</td><td>1985</td></tr>
@@ -675,7 +682,7 @@ Champ d’application le 1<sup>er</sup> mars 2021**[^t-2]**
 <tr><td>Yémen</td><td>29 janvier</td><td>1982</td><td>29 juillet</td><td>1985</td></tr>
 <tr><td>Zambie</td><td>15 mai</td><td>1981</td><td>21 juin</td><td>1985</td></tr>
 <tr><td>Zimbabwe</td><td>21 juin</td><td>1985 A</td><td>21 juin</td><td>1985</td></tr>
-<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet des Nations Unies: http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies, ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
+<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet de l’Organisation des Nations Unies (ONU): [http://treaties.un.org](http://treaties.un.org) ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
 </table>
 
-[^t-2]: [RO 1985 1287](https://fedlex.data.admin.ch/eli/oc/1985/1287_1287_1287); [1986 339](https://fedlex.data.admin.ch/eli/oc/1986/339_339_339); [1987 1662](https://fedlex.data.admin.ch/eli/oc/1987/1662_1662_1662); [1988 2254](https://fedlex.data.admin.ch/eli/oc/1988/2254_2254_2254); [1992 995](https://fedlex.data.admin.ch/eli/oc/1992/995_995_995); [2004 4029](https://fedlex.data.admin.ch/eli/oc/2004/587); [2007 2063](https://fedlex.data.admin.ch/eli/oc/2007/292); [2011 1029](https://fedlex.data.admin.ch/eli/oc/2011/154); [2013 2729](https://fedlex.data.admin.ch/eli/oc/2013/563); [2016 3011](https://fedlex.data.admin.ch/eli/oc/2016/510); [2019 853](https://fedlex.data.admin.ch/eli/oc/2019/149); [2021 134](https://fedlex.data.admin.ch/eli/oc/2021/134). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: https://fedlex.admin.ch/fr/Treaty.
+[^t-2]: [RO 1985 1287](https://fedlex.data.admin.ch/eli/oc/1985/1287_1287_1287); [1986 339](https://fedlex.data.admin.ch/eli/oc/1986/339_339_339); [1987 1662](https://fedlex.data.admin.ch/eli/oc/1987/1662_1662_1662); [1988 2254](https://fedlex.data.admin.ch/eli/oc/1988/2254_2254_2254); [1992 995](https://fedlex.data.admin.ch/eli/oc/1992/995_995_995); [2004 4029](https://fedlex.data.admin.ch/eli/oc/2004/587); [2007 2063](https://fedlex.data.admin.ch/eli/oc/2007/292); [2011 1029](https://fedlex.data.admin.ch/eli/oc/2011/154); [2013 2729](https://fedlex.data.admin.ch/eli/oc/2013/563); [2016 3011](https://fedlex.data.admin.ch/eli/oc/2016/510); [2019 853](https://fedlex.data.admin.ch/eli/oc/2019/149); [2021 134](https://fedlex.data.admin.ch/eli/oc/2021/134); [2026 196](https://fedlex.data.admin.ch/eli/oc/2026/196). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).

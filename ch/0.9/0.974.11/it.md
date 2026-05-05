@@ -3,11 +3,11 @@ sr: "0.974.11"
 title: "Atto costitutivo dell'Organizzazione delle Nazioni Unite per lo sviluppo industriale, dell'8 aprile 1979 (con All.)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1985/1287_1287_1287"
 language: it
-version: 2021-03-01
+version: 2026-05-06
 adopted: 1979-04-08
 in_force: 1985-06-21
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1985/1287_1287_1287/20210301/it/xml/fedlex-data-admin-ch-eli-cc-1985-1287_1287_1287-20210301-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1985/1287_1287_1287/20210301/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1985/1287_1287_1287/20260506/it/xml/fedlex-data-admin-ch-eli-cc-1985-1287_1287_1287-20260506-it-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1985/1287_1287_1287/20260506/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -18,15 +18,9 @@ RU **1985** 1287; FF **1979** III 1033
 
 Traduzione
 
-Concluso a Vienna l’8 aprile 1979
+Concluso a Vienna l’8 aprile 1979 Approvato dall’Assemblea federale il 20 giugno 1980[^t-1] Ratificato con strumenti depositati dalla Svizzera il 10 febbraio 1981 Entrato in vigore per la Svizzera il 21 giugno 1985
 
-Approvato dall’Assemblea federale il 20 giugno 1980[^t-1]
-
-Ratificato con strumenti depositati dalla Svizzera il 10 febbraio 1981
-
-Entrato in vigore per la Svizzera il 21 giugno 1985
-
-(Stato 1° marzo 2021)
+(Stato 6 maggio 2026)
 
 [^t-1]: Art. 1 cpv. 1 del DF del 20 giu. 1980 ([RU 1985 1286](https://fedlex.data.admin.ch/eli/oc/1985/1286_1286_1286)).
 
@@ -56,7 +50,7 @@ Desiderando creare, giusta il capo IX della Carta delle Nazioni Unite, un istitu
 
 Convengono di stabilire il presente Atto costitutivo.
 
-[^ingress-1]: [RS 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
+[^ingress-1]: [RS 0.120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/41)
 
 ## Capitolo I: Obiettivi e funzioni
 
@@ -108,7 +102,7 @@ La qualità di Membro dell’Organizzazione è accessibile a tutti gli Stati che
 
 **Osservatori**
 
-l. Lo statuto d’osservatore presso l’Organizzazione è riconosciuto, a domanda, agli osservatori presso l’Assemblea generale delle Nazioni Unite, a meno che la Conferenza decida altrimenti.
+<sup>1.</sup> Lo statuto d’osservatore presso l’Organizzazione è riconosciuto, a domanda, agli osservatori presso l’Assemblea generale delle Nazioni Unite, a meno che la Conferenza decida altrimenti.
 
 <sup>2.</sup> Fatti salvi i disposti del paragrafo 1, la Conferenza può invitare altri osservatori a partecipare ai lavori dell’Organizzazione.
 
@@ -258,7 +252,7 @@ Ogni membro o osservatore assume le spese della propria delegazione alla Confere
 
 **Compilazione dei bilanci**
 
-l. L’Organizzazione conduce innanzi le proprie attività giusta il programma di lavoro e i bilanci approvati.
+<sup>1.</sup> L’Organizzazione conduce innanzi le proprie attività giusta il programma di lavoro e i bilanci approvati.
 
 <sup>2.</sup>
 
@@ -357,18 +351,21 @@ La capacità giuridica, i privilegi e le immunità, di cui nel paragrafo 1, sara
 
 **Composizione delle controversie e pareri**
 
-sia i) qualora le parti assentano:
-
-A alla Corte internazionale di giustizia; oppure
-
-B a un tribunale arbitrale;
-
-sia ii) in caso diverso, a una commissione conciliativa.
+Le norme relative alle procedure e al funzionamento del tribunale arbitrale e della commissione conciliativa sono enunciate nell’allegato III del presente Atto costitutivo.
 
 - 1\. a) Ogni controversia tra due o più Membri, vertente sull’interpretazione o sull’applicazione del presente Atto costitutivo o dei suoi annessi, non composta negozialmente, va sottoposta al Consiglio, a meno che le parti in lite convengano un altro modo di regolamento. Se la controversia concerne particolarmente un Membro non rappresentato nel Consiglio, detto Membro ha il diritto di farsi rappresentare conformemente alle norme che il Consiglio adotterà.
-- b) Se i disposti del paragrafo 1 a) non hanno consentito di raggiungere una soluzione che soddisfi tutte le parti in lite, qualunque parte insoddisfatta può deferire la controversia:
+- b)
 
-- Le norme relative alle procedure e al funzionamento del tribunale arbitrale e della commissione conciliativa sono enunciate nell’allegato III del presente Atto costitutivo.
+  Se i disposti del paragrafo 1 a) non hanno consentito di raggiungere una soluzione che soddisfi tutte le parti in lite, qualunque parte insoddisfatta può deferire la controversia:
+
+  - sia i)
+
+    qualora le parti assentano:
+
+    - A alla Corte internazionale di giustizia; oppure
+    - B a un tribunale arbitrale;
+
+  - sia ii) in caso diverso, a una commissione conciliativa.
 
 <sup>2.</sup> La Conferenza e il Consiglio sono ambedue facoltati, riservata l’autorizzazione dell’Assemblea generale delle Nazioni Unite, a chiedere alla Corte internazionale di giustizia di dare un parere consultivo su qualunque questione giuridica insorgente nel corso delle attività dell’Organizzazione.
 
@@ -470,14 +467,14 @@ Allegato II
 
   dell’Organizzazione, sono considerate inclusive:
 
-- a) Delle spese relative ai consiglieri interregionali e regionali;
-- b) Delle spese relative ai servizi consultivi a breve termine forniti dai funzionari dell’Organizzazione;
-- c) Delle spese concernenti le riunioni, comprese le riunioni tecniche previste nel programma di lavoro finanziato dal bilancio ordinario dell’Organizzazione;
-- d) Delle spese di sostegno al programma, effettuate a titolo di progetti d’assistenza tecnica, nella misura in cui queste spese non siano rimborsate all’Organizzazione dalla fonte di finanziamento dei detti progetti.
+  - a) Delle spese relative ai consiglieri interregionali e regionali;
+  - b) Delle spese relative ai servizi consultivi a breve termine forniti dai funzionari dell’Organizzazione;
+  - c) Delle spese concernenti le riunioni, comprese le riunioni tecniche previste nel programma di lavoro finanziato dal bilancio ordinario dell’Organizzazione;
+  - d) Delle spese di sostegno al programma, effettuate a titolo di progetti d’assistenza tecnica, nella misura in cui queste spese non siano rimborsate all’Organizzazione dalla fonte di finanziamento dei detti progetti.
 
-  - 2\. Le proposte concrete, fatte secondo i disposti qui innanzi, saranno applicate dopo esame da parte del Comitato dei programmi e bilanci, adozione da parte del Consiglio e approvazione da parte della Conferenza giusta l’articolo 14.
+- 2\. Le proposte concrete, fatte secondo i disposti qui innanzi, saranno applicate dopo esame da parte del Comitato dei programmi e bilanci, adozione da parte del Consiglio e approvazione da parte della Conferenza giusta l’articolo 14.
 
-- B. Onde rendere più efficace il programma di lavoro dell’Organizzazione nel settore dello sviluppo industriale, il bilancio ordinario finanzia del pari altre attività, finanziate finora dal capitolo 15 del bilancio ordinario dell’Organizzazione delle Nazioni Unite, sino a concorrenza del 6 per cento del totale del bilancio ordinario. Queste attività sono destinate a rafforzare il contributo dell’Organizzazione al sistema di sviluppo delle Nazioni Unite, tenendo conto dell’importanza d’utilizzare il meccanismo di programmazione Paese per Paese, del Programma delle Nazioni Unite per lo sviluppo – subordinato al consenso del Paese interessato – in quanto quadro di riferimento per dette attività.
+B. Onde rendere più efficace il programma di lavoro dell’Organizzazione nel settore dello sviluppo industriale, il bilancio ordinario finanzia del pari altre attività, finanziate finora dal capitolo 15 del bilancio ordinario dell’Organizzazione delle Nazioni Unite, sino a concorrenza del 6 per cento del totale del bilancio ordinario. Queste attività sono destinate a rafforzare il contributo dell’Organizzazione al sistema di sviluppo delle Nazioni Unite, tenendo conto dell’importanza d’utilizzare il meccanismo di programmazione Paese per Paese, del Programma delle Nazioni Unite per lo sviluppo – subordinato al consenso del Paese interessato – in quanto quadro di riferimento per dette attività.
 
 Allegato III
 
@@ -500,7 +497,7 @@ Tranne contraria decisione di tutti i Membri parti d’una controversia non comp
   - a) Il tribunale arbitrale chiude la propria procedura con un lodo che vincola tutte le parti.
   - b) La commissione di conciliazione chiude la propria procedura con un rapporto che comunica a tutte le parti in lite e che contiene delle raccomandazioni di cui dette parti terranno il massimo conto.
 
-Campo d’applicazione il 1° marzo 2021**[^t-2]**
+Campo d’applicazione il 6 maggio 2026[^t-2]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -581,6 +578,7 @@ Campo d’applicazione il 1° marzo 2021**[^t-2]**
 <tr><td>Iran</td><td>9 agosto</td><td>1985</td><td>9 agosto</td><td>1985</td></tr>
 <tr><td>Iraq</td><td>23 gennaio</td><td>1981</td><td>27 giugno</td><td>1985</td></tr>
 <tr><td>Irlanda</td><td>17 luglio</td><td>1984</td><td>21 giugno</td><td>1985</td></tr>
+<tr><td>Isole Salomone</td><td>4 ottobre</td><td>2024 A</td><td>4 ottobre</td><td>2024</td></tr>
 <tr><td>Israele\*</td><td>25 novembre</td><td>1983</td><td>21 giugno</td><td>1985</td></tr>
 <tr><td>Italia\*</td><td>25 marzo</td><td>1985</td><td>21 giugno</td><td>1985</td></tr>
 <tr><td>Kazakstan</td><td>3 giugno</td><td>1997 A</td><td>3 giugno</td><td>1997</td></tr>
@@ -626,6 +624,7 @@ Campo d’applicazione il 1° marzo 2021**[^t-2]**
 <tr><td>Parte caraibica (Bonaire, Sant’Eustachio e Saba)</td><td>10 ottobre</td><td>1980</td><td>21 giugno</td><td>1985</td></tr>
 <tr><td>Sint Maarten</td><td>10 ottobre</td><td>1980</td><td>21 giugno</td><td>1985</td></tr>
 <tr><td>Pakistan</td><td>29 ottobre</td><td>1979</td><td>21 giugno</td><td>1985</td></tr>
+<tr><td>Palau</td><td>17 gennaio</td><td>2023 A</td><td>17 gennaio</td><td>2023</td></tr>
 <tr><td>Palestina</td><td>17 maggio</td><td>2018 A</td><td>17 maggio</td><td>2018</td></tr>
 <tr><td>Panama</td><td>23 luglio</td><td>1980</td><td>21 giugno</td><td>1985</td></tr>
 <tr><td>Papua Nuova Guinea</td><td>10 settembre</td><td>1986</td><td>10 settembre</td><td>1986</td></tr>
@@ -653,6 +652,7 @@ Campo d’applicazione il 1° marzo 2021**[^t-2]**
 <tr><td>Sri Lanka</td><td>25 settembre</td><td>1981</td><td>21 giugno</td><td>1985</td></tr>
 <tr><td>Sudafrica</td><td>24 ottobre</td><td>2000 A</td><td>24 ottobre</td><td>2000</td></tr>
 <tr><td>Sudan</td><td>30 settembre</td><td>1981</td><td>28 giugno</td><td>1985</td></tr>
+<tr><td>Sudan del Sud</td><td>18 agosto</td><td>2023 A</td><td>18 agosto</td><td>2023</td></tr>
 <tr><td>Suriname</td><td>8 ottobre</td><td>1981</td><td>24 dicembre</td><td>1985</td></tr>
 <tr><td>Svezia</td><td>28 luglio</td><td>1980</td><td>21 giugno</td><td>1985</td></tr>
 <tr><td>Svizzera</td><td>10 febbraio</td><td>1981</td><td>21 giugno</td><td>1985</td></tr>
@@ -678,7 +678,7 @@ Campo d’applicazione il 1° marzo 2021**[^t-2]**
 <tr><td>Yemen</td><td>29 gennaio</td><td>1982</td><td>29 luglio</td><td>1985</td></tr>
 <tr><td>Zambia</td><td>15 maggio</td><td>1981</td><td>21 giugno</td><td>1985</td></tr>
 <tr><td>Zimbabwe</td><td>21 giugno</td><td>1985 A</td><td>21 giugno</td><td>1985</td></tr>
-<tr><td colspan="5"><sup>\*</sup> Riserve e dichiarazioni. Le riserve e dichiarazioni non sono pubblicate nella RU. Il testo, francese ed inglese, può essere consultato sul sito Internet dell’Organizzazione delle Nazioni Unite: http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies, oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
+<tr><td colspan="5"><sup>\*</sup> Riserve e dichiarazioni. Le riserve e dichiarazioni non sono pubblicate nella RU. Il testo, francese ed inglese, può essere consultato sul sito Internet dell’Organizzazione delle Nazioni Unite: [htt p ://treaties.u n . o rg](http://treaties.un.org), oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
 </table>
 
-[^t-2]: [RU 1985 1287](https://fedlex.data.admin.ch/eli/oc/1985/1287_1287_1287); [1986 339](https://fedlex.data.admin.ch/eli/oc/1986/339_339_339); [1987 1662](https://fedlex.data.admin.ch/eli/oc/1987/1662_1662_1662); [1988 2254](https://fedlex.data.admin.ch/eli/oc/1988/2254_2254_2254); [1992 995](https://fedlex.data.admin.ch/eli/oc/1992/995_995_995); [2004 4029](https://fedlex.data.admin.ch/eli/oc/2004/587); [2007 2063](https://fedlex.data.admin.ch/eli/oc/2007/292); [2011 1029](https://fedlex.data.admin.ch/eli/oc/2011/154); [2013 2729](https://fedlex.data.admin.ch/eli/oc/2013/563); [2016 3011](https://fedlex.data.admin.ch/eli/oc/2016/510); [2019 853](https://fedlex.data.admin.ch/eli/oc/2019/149)e [2021 134](https://fedlex.data.admin.ch/eli/oc/2021/134). Una versione aggiornata del campo di applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: https://fedlex.admin.ch/it/Treaty.
+[^t-2]: [RU 1985 1287](https://fedlex.data.admin.ch/eli/oc/1985/1287_1287_1287); [1986 339](https://fedlex.data.admin.ch/eli/oc/1986/339_339_339); [1987 1662](https://fedlex.data.admin.ch/eli/oc/1987/1662_1662_1662); [1988 2254](https://fedlex.data.admin.ch/eli/oc/1988/2254_2254_2254); [1992 995](https://fedlex.data.admin.ch/eli/oc/1992/995_995_995); [2004 4029](https://fedlex.data.admin.ch/eli/oc/2004/587); [2007 2063](https://fedlex.data.admin.ch/eli/oc/2007/292); [2011 1029](https://fedlex.data.admin.ch/eli/oc/2011/154); [2013 2729](https://fedlex.data.admin.ch/eli/oc/2013/563); [2016 3011](https://fedlex.data.admin.ch/eli/oc/2016/510); [2019 853](https://fedlex.data.admin.ch/eli/oc/2019/149); [2021 134](https://fedlex.data.admin.ch/eli/oc/2021/134); [2026 196](https://fedlex.data.admin.ch/eli/oc/2026/196). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty).

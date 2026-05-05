@@ -3,11 +3,11 @@ sr: "0.974.11"
 title: Satzung der Organisation der Vereinten Nationen vom 8. April 1979 für industrielle Entwicklung (mit Anhängen)
 eli: "https://fedlex.data.admin.ch/eli/cc/1985/1287_1287_1287"
 language: de
-version: 2021-03-01
+version: 2026-05-06
 adopted: 1979-04-08
 in_force: 1985-06-21
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1985/1287_1287_1287/20210301/de/xml/fedlex-data-admin-ch-eli-cc-1985-1287_1287_1287-20210301-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1985/1287_1287_1287/20210301/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1985/1287_1287_1287/20260506/de/xml/fedlex-data-admin-ch-eli-cc-1985-1287_1287_1287-20260506-de-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1985/1287_1287_1287/20260506/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -26,7 +26,7 @@ Schweizerische Ratifikationsurkunde hinterlegt am 10. Februar 1981
 
 In Kraft getreten für die Schweiz am 21. Juni 1985
 
-(Stand am 1. März 2021)
+(Stand am 6. Mai 2026)
 
 [^t-1]: [AS 1985 1286](https://fedlex.data.admin.ch/eli/oc/1985/1286_1286_1286)
 
@@ -56,7 +56,7 @@ bestrebt, im Einklang mit Kapitel IX der Charta der Vereinten Nationen eine Spez
 
 vereinbaren hiermit diese Satzung.
 
-[^ingress-1]: [SR 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
+[^ingress-1]: [SR 0.120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/41)
 
 ## Kapitel I Ziele und Aufgaben
 
@@ -136,7 +136,9 @@ Die Mitgliedschaft in der Organisation steht allen Staaten offen, die den Zielen
 
 **Haupt‑ und Nebenorgane**
 
-<sup>1.</sup> Die Hauptorgane der Organisation sind
+<sup>1.</sup>
+
+Die Hauptorgane der Organisation sind:
 
 - a) die Generalkonferenz (als «Konferenz» bezeichnet),
 - b) der Rat für industrielle Entwicklung (als «Rat» bezeichnet);
@@ -213,7 +215,9 @@ Ausser den sonstigen in dieser Satzung bezeichneten oder ihm von der Konferenz �
 - 3\. a) Der Ausschuss hält mindestens eine Session im Jahr ab. Auf Antrag des Rates oder auf eigenen Antrag wird er vom Generaldirektor zu weiteren Sessionen einberufen.
 - b) Die Sessionen finden am Sitz der Organisation statt, sofern der Rat nichts anderes beschliesst.
 
-<sup>4.</sup> Der Ausschuss
+<sup>4.</sup>
+
+Der Ausschuss:
 
 - a) nimmt die ihm nach Artikel 14 zugewiesenen Aufgaben wahr;
 - b) erstellt den dem Rat vorzulegenden Entwurf des Beitragsschlüssels für die Ausgaben im ordentlichen Haushalt;
@@ -314,7 +318,9 @@ Die Organisation ist mit den Vereinten Nationen verbunden; sie bildet eine der i
 
 **Beziehungen zu anderen Organisationen**
 
-<sup>1.</sup> Der Generaldirektor kann mit Genehmigung des Rates und vorbehältlich der von der Konferenz aufgestellten Richtlinien
+<sup>1.</sup>
+
+Der Generaldirektor kann mit Genehmigung des Rates und vorbehältlich der von der Konferenz aufgestellten Richtlinien:
 
 - a) Abkommen schliessen, die zweckdienliche Beziehungen zu anderen Organisationen des Systems der Vereinten Nationen und zu anderen zwischenstaatlichen und staatlichen Organisationen begründen;
 - b) zweckdienliche Beziehungen zu nichtstaatlichen und anderen Organisationen aufnehmen, deren Arbeit der der Organisation verwandt ist. Bei der Aufnahme solcher Beziehungen zu nationalen Organisationen konsultiert der Generaldirektor die betreffenden Regierungen.
@@ -337,7 +343,9 @@ Die Organisation ist mit den Vereinten Nationen verbunden; sie bildet eine der i
 
 <sup>1.</sup> Die Organisation geniesst im Hoheitsgebiet jedes Mitgliedes die Rechtsfähigkeit sowie die Vorrechte und Immunitäten, die notwendig sind, damit sie ihre Aufgaben wahrnehmen und ihre Ziele verwirklichen kann. Die Vertreter der Mitglieder und die Beamten der Organisation geniessen die Vorrechte und Immunitäten, die notwendig sind, damit sie ihre Aufgaben im Zusammenhang mit der Organisation vollständig unabhängig wahrnehmen können.
 
-<sup>2.</sup> Die Rechtsfähigkeit sowie die Vorrechte und Immunitäten nach Absatz 1
+<sup>2.</sup>
+
+Die Rechtsfähigkeit sowie die Vorrechte und Immunitäten nach Absatz 1:
 
 - a) entsprechen im Hoheitsgebiet eines Mitglieds, das für die Organisation dem Abkommen über die Vorrechte und Befreiungen der Spezialorganisationen beigetreten ist, der Rechtsfähigkeit sowie den Vorrechten und Immunitäten der Standardklauseln jenes Abkommens in der in einem Anhang modifizierten Fassung, die vom Rat genehmigt wurde.
 - b) entsprechen im Hoheitsgebiet eines Mitglieds, das für die Organisation nicht dem Abkommen über die Vorrechte und Befreiungen der Spezialorganisationen, wohl aber dem Übereinkommen über die Vorrechte und Immunitäten der Vereinten Nationen beigetreten ist, der Rechtsfähigkeit sowie den Vorrechten und Immunitäten nach dem letztgenannten Übereinkommen, es sei denn, der betreffende Staat notifiziert dem Depositar bei der Hinterlegung seiner Ratifikations‑, Annahme‑, Genehmigungs- oder Beitrittsurkunde, dass er dieses Übereinkommen nicht auf die Organisation anwenden wird; dreissig Tage nach einer solchen Notifikation ist das Übereinkommen über die Vorrechte und Immunitäten der Vereinten Nationen für die Organisation nicht mehr anwendbar;
@@ -365,13 +373,17 @@ Das Verfahren und die Tätigkeit des Schiedsgerichts und der Schlichtungskommiss
 
 <sup>1.</sup> Nach der zweiten ordentlichen Session der Konferenz kann jedes Mitglied Änderungen dieser Satzung vorschlagen. Der Wortlaut der Änderungsvorschläge wird allen Mitgliedern vom Generaldirektor umgehend mitgeteilt und kann von der Konferenz frühestens neunzig Tage nach der Übermittlung geprüft werden.
 
-<sup>2.</sup> Vorbehältlich des Absatzes 3 tritt eine Änderung in Kraft und wird für alle Mitglieder verbindlich, wenn
+<sup>2.</sup>
+
+Vorbehältlich des Absatzes 3 tritt eine Änderung in Kraft und wird für alle Mitglieder verbindlich, wenn:
 
 - a) sie der Konferenz vom Rat empfohlen wird;
 - b) sie von der Konferenz mit Zweidrittelmehrheit aller Mitglieder genehmigt wird und
 - c) zwei Drittel der Mitglieder beim Depositar Urkunden über die Ratifikation, Annahme oder Genehmigung der Änderung hinterlegt haben.
 
-<sup>3.</sup> Eine Änderung betreffend die Artikel 6, 9, 10, 13 oder den Anhang II tritt in Kraft und wird für alle Mitglieder verbindlich, wenn
+<sup>3.</sup>
+
+Eine Änderung betreffend die Artikel 6, 9, 10, 13 oder den Anhang II tritt in Kraft und wird für alle Mitglieder verbindlich, wenn:
 
 - a) sie der Konferenz vom Rat mit Zweidrittelmehrheit aller Ratsmitglieder empfohlen wird;
 - b) sie von der Konferenz mit Zweidrittelmehrheit aller Mitglieder genehmigt wird und
@@ -480,7 +492,7 @@ Vorbehältlich anderslautender Beschlüsse aller Mitglieder, die an einer Streit
   - a) Das Schiedsgericht schliesst sein Verfahren mit einem Schiedsspruch, der für alle Parteien verbindlich ist.
   - b) Die Schlichtungskommission schliesst ihr Verfahren mit einem an alle Streitparteien gerichteten Bericht; er enthält Empfehlungen, welche die Parteien ernstlich zu berücksichtigen haben.
 
-Geltungsbereich am 1. März 2021**[^t-2]**
+Geltungsbereich am 6. Mai 2026[^t-2]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -603,6 +615,7 @@ Geltungsbereich am 1. März 2021**[^t-2]**
 <tr><td>Österreich</td><td>14. Mai</td><td>1981</td><td>21. Juni</td><td>1985</td></tr>
 <tr><td>Pakistan</td><td>29. Oktober</td><td>1979</td><td>21. Juni</td><td>1985</td></tr>
 <tr><td>Palästina</td><td>17. Mai</td><td>2018 B</td><td>17. Mai</td><td>2018</td></tr>
+<tr><td>Palau</td><td>17. Januar</td><td>2023 B</td><td>17. Januar</td><td>2023</td></tr>
 <tr><td>Panama</td><td>23. Juli</td><td>1980</td><td>21. Juni</td><td>1985</td></tr>
 <tr><td>Papua-Neuguinea</td><td>10. September</td><td>1986</td><td>10. September</td><td>1986</td></tr>
 <tr><td>Paraguay</td><td>2. Dezember</td><td>1981</td><td>18. Juli</td><td>1985</td></tr>
@@ -612,6 +625,7 @@ Geltungsbereich am 1. März 2021**[^t-2]**
 <tr><td>Ruanda</td><td>18. Januar</td><td>1983</td><td>21. Juni</td><td>1985</td></tr>
 <tr><td>Rumänien</td><td>28. November</td><td>1980</td><td>21. Juni</td><td>1985</td></tr>
 <tr><td>Russland</td><td>22. Mai</td><td>1985</td><td>21. Juni</td><td>1985</td></tr>
+<tr><td>Salomoninseln</td><td>4. Oktober</td><td>2024 B</td><td>4. Oktober</td><td>2024</td></tr>
 <tr><td>Sambia</td><td>15. Mai</td><td>1981</td><td>21. Juni</td><td>1985</td></tr>
 <tr><td>Samoa</td><td>11. Dezember</td><td>2008 B</td><td>11. Dezember</td><td>2008</td></tr>
 <tr><td>São Tomé und Príncipe</td><td>22. Februar</td><td>1985</td><td>14. April</td><td>1986</td></tr>
@@ -632,6 +646,7 @@ Geltungsbereich am 1. März 2021**[^t-2]**
 <tr><td>St. Vincent und die Grenadinen</td><td>30. März</td><td>1987 B</td><td>30. März</td><td>1987</td></tr>
 <tr><td>Südafrika</td><td>24. Oktober</td><td>2000 B</td><td>24. Oktober</td><td>2000</td></tr>
 <tr><td>Sudan</td><td>30. September</td><td>1981</td><td>28. Juni</td><td>1985</td></tr>
+<tr><td>Südsudan</td><td>18. August</td><td>2023 B</td><td>18. August</td><td>2023</td></tr>
 <tr><td>Suriname</td><td>8. Oktober</td><td>1981</td><td>24. Dezember</td><td>1985</td></tr>
 <tr><td>Syrien</td><td>6. Dezember</td><td>1982</td><td>21. Juni</td><td>1985</td></tr>
 <tr><td>Tadschikistan</td><td>9. Juni</td><td>1993 B</td><td>9. Juni</td><td>1993</td></tr>
@@ -658,7 +673,7 @@ Geltungsbereich am 1. März 2021**[^t-2]**
 <tr><td>Vietnam</td><td>6. Mai</td><td>1983</td><td>19. Juli</td><td>1985</td></tr>
 <tr><td>Zentralafrikanische Republik</td><td>8. Januar</td><td>1982</td><td>9. Januar</td><td>1986</td></tr>
 <tr><td>Zypern</td><td>28. April</td><td>1983</td><td>21. Juni</td><td>1985</td></tr>
-<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite der Vereinten Nationen: http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
+<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite der Organisation der Vereinten Nationen (UNO): [http://treaties.un.org](http://treaties.un.org/) eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
 </table>
 
-[^t-2]: [AS 1985 1287](https://fedlex.data.admin.ch/eli/oc/1985/1287_1287_1287); [1986 339](https://fedlex.data.admin.ch/eli/oc/1986/339_339_339); [1987 1662](https://fedlex.data.admin.ch/eli/oc/1987/1662_1662_1662); [1988 2254](https://fedlex.data.admin.ch/eli/oc/1988/2254_2254_2254); [1992 995](https://fedlex.data.admin.ch/eli/oc/1992/995_995_995); [2004 4029](https://fedlex.data.admin.ch/eli/oc/2004/587); [2007 2063](https://fedlex.data.admin.ch/eli/oc/2007/292); [2011 1029](https://fedlex.data.admin.ch/eli/oc/2011/154); [2013 2729](https://fedlex.data.admin.ch/eli/oc/2013/563); [2016 3011](https://fedlex.data.admin.ch/eli/oc/2016/510); [2019 853](https://fedlex.data.admin.ch/eli/oc/2019/149); [2021 134](https://fedlex.data.admin.ch/eli/oc/2021/134). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: https://fedlex.admin.ch/de/Treaty.
+[^t-2]: [AS 1985 1287](https://fedlex.data.admin.ch/eli/oc/1985/1287_1287_1287); [1986 339](https://fedlex.data.admin.ch/eli/oc/1986/339_339_339); [1987 1662](https://fedlex.data.admin.ch/eli/oc/1987/1662_1662_1662); [1988 2254](https://fedlex.data.admin.ch/eli/oc/1988/2254_2254_2254); [1992 995](https://fedlex.data.admin.ch/eli/oc/1992/995_995_995); [2004 4029](https://fedlex.data.admin.ch/eli/oc/2004/587); [2007 2063](https://fedlex.data.admin.ch/eli/oc/2007/292); [2011 1029](https://fedlex.data.admin.ch/eli/oc/2011/154); [2013 2729](https://fedlex.data.admin.ch/eli/oc/2013/563); [2016 3011](https://fedlex.data.admin.ch/eli/oc/2016/510); [2019 853](https://fedlex.data.admin.ch/eli/oc/2019/149); [2021 134](https://fedlex.data.admin.ch/eli/oc/2021/134); [2026 196](https://fedlex.data.admin.ch/eli/oc/2026/196). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
