@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Modifica della legge sulle poste (Eliminazione della distorsione della concorrenza nel sostegno alla stampa associativa e delle fondazioni)
 document: Progetto posto in consultazione
 language: it

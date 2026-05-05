@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Änderung des Postgesetzes (Aufhebung der Wettbewerbsverzerrung bei der Mitgliedschafts- und Stiftungspresse)
 document: Vernehmlassungsvorlage
 language: de

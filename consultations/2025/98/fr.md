@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Modification de la loi sur la poste (Supprimer la distorsion de concurrence dans l’aide à la presse associative et à la presse des fondations)
 document: Projet mis en consultation
 language: fr
