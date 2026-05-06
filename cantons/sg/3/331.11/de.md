@@ -5,11 +5,12 @@ title: Einführungsgesetz zur Bundesgesetzgebung über die Krankenversicherung
 short: EG-KVG
 language: de
 version: 2026-01-01
+corrected: 2026-05-07
 version_adopted: 2026-04-28
 adopted: 1995-11-09
 in_force: 1996-01-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/331.11"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3907/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3676/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -352,15 +353,13 @@ als Gesetz:[^ingress-3]
 <sup>1</sup> Für die Prämienverbilligung werden eingesetzt:
 
 - a) die Beiträge des Bundes;
-- b) ein Kantonsbeitrag in der Höhe des Mindestanteils nach [Art. 65](https://db.clex.ch/link/Bund/832.10%20/de) Abs. 1<sup>quinquies</sup> des Bundesgesetzes über die Krankenversicherung vom 18. März 1994[^14-1].
+- b) ein vom Kantonsrat mit dem Budget festgelegter Kantonsbeitrag.
 
-<sup>2</sup> …
+<sup>2</sup> Der Kantonsbeitrag beträgt wenigstens 45,4 und höchstens 54,6 Prozent der Beiträge des Bundes.
 
-<sup>3</sup> Erreicht der Kantonsbeitrag in einem Kalenderjahr den Mindestanteil nicht, wird der Fehlbetrag in den Folgejahren ausgeglichen.
+<sup>3</sup> Unterschreitungen des unteren Grenzwerts werden in den Folgejahren im Ausmass von je einem Fünftel zum oberen und unteren Grenzwert hinzugezählt. Überschreitungen des oberen Grenzwerts werden in den Folgejahren im Ausmass von je einem Fünftel vom oberen und unteren Grenzwert abgezogen.
 
-<sup>4</sup> …
-
-[^14-1]: SR [832.10](https://db.clex.ch/link/Bund/832.10/de).
+<sup>4</sup> Über- und Unterschreitungen werden unter Einbezug der Anpassungen nach Abs. 3 dieser Bestimmung jährlich ermittelt.
 
 #### Art. 14a
 
@@ -454,22 +453,6 @@ als Gesetz:[^ingress-3]
 
 [^21a-1]: nGS 2019-092.
 [^21a-2]: nGS 2019-092.
-
-#### Art. 21b
-
-**Übergangsbestimmung des XIV. Nachtrags vom 28. April 2026[^21b-1]**
-
-<sup>1</sup> Der Kantonsbeitrag für die ersten beiden Jahre nach Inkrafttreten der Änderung vom 29. September 2023 des Bundesgesetzes über die Krankenversicherung vom 18. März 1994[^21b-2] wird nach [Art. 14](https://www.gesetzessammlung.sg.ch/data/331.11/de/art14) Abs. 1 Bst. b, Abs. 2, Abs. 3 und Abs. 4 des Einführungsgesetzes zur Bundesgesetzgebung über die Krankenversicherung vom 9. November 1995[^21b-3] in der Fassung vor Vollzugsbeginn dieses Nachtrags festgelegt. Er entspricht wenigstens 3,5 Prozent der Bruttokosten der obligatorischen Krankenpflegeversicherung.
-
-<sup>2</sup> Auf den Ausgleich eines Restsaldos für Über- und Unterschreitungen der Grenzwerte, die vor Vollzugsbeginn dieses Nachtrags und in den beiden Folgejahren nach Massgabe des bisherigen Rechts eingetreten sind, wird ab dem dritten Jahr nach Inkrafttreten der Änderung vom 29. September 2023 des Bundesgesetzes über die Krankenversicherung vom 18. März 1994[^21b-4] unter Vorbehalt von Abs. 3 dieser Bestimmung verzichtet.
-
-<sup>3</sup> Erreicht der Kantonsbeitrag im ersten oder zweiten Jahr nach Inkrafttreten der Änderung vom 29. September 2023 des Bundesgesetzes über die Krankenversicherung vom 18. März 1994[^21b-5] den Mindestanteil von 3,5 Prozent der Bruttokosten der obligatorischen Krankenpflegeversicherung nicht, wird der Fehlbetrag in den Folgejahren ausgeglichen.
-
-[^21b-1]: nGS 2026-018.
-[^21b-2]: SR [832.10](https://db.clex.ch/link/Bund/832.10/de).
-[^21b-3]: sGS [331.11](https://www.gesetzessammlung.sg.ch/data/331.11/de).
-[^21b-4]: SR [832.10](https://db.clex.ch/link/Bund/832.10/de).
-[^21b-5]: SR [832.10](https://db.clex.ch/link/Bund/832.10/de).
 
 #### Art. 22
 
