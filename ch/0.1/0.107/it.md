@@ -3,11 +3,11 @@ sr: "0.107"
 title: Convenzione del 20 novembre 1989 sui diritti del fanciullo
 eli: "https://fedlex.data.admin.ch/eli/cc/1998/2055_2055_2055"
 language: it
-version: 2023-02-27
+version: 2026-05-07
 adopted: 1989-11-20
 in_force: 1997-03-26
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2055_2055_2055/20230227/it/xml/fedlex-data-admin-ch-eli-cc-1998-2055_2055_2055-20230227-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1998/2055_2055_2055/20230227/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2055_2055_2055/20260507/it/xml/fedlex-data-admin-ch-eli-cc-1998-2055_2055_2055-20260507-it-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1998/2055_2055_2055/20260507/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -20,7 +20,7 @@ Traduzione
 
 Conclusa a Nuova York il 20 novembre 1989 Approvata dall’Assemblea federale il 13 dicembre 1996[^t-1] Ratificata dalla Svizzera con strumento depositato il 24 febbraio 1997 Entrata in vigore per la Svizzera il 26 marzo 1997
 
-(Stato 27 febbraio 2023)
+(Stato 7 maggio 2026)
 
 [^t-1]: [RU 1998 2053](https://fedlex.data.admin.ch/eli/oc/1998/2053_2053_2053)
 
@@ -56,9 +56,9 @@ Riconoscendo l’importanza della cooperazione internazionale per il miglioramen
 
 Hanno convenuto quanto segue:
 
-[^ingress-1]: [RS 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
-[^ingress-2]: [RS 0.103.2](https://fedlex.data.admin.ch/eli/cc/1993/750_750_750)
-[^ingress-3]: [RS 0.103.1](https://fedlex.data.admin.ch/eli/cc/1993/725_725_725)
+[^ingress-1]: [RS 0.120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/41)
+[^ingress-2]: [RS 0.103.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/20)
+[^ingress-3]: [RS 0.103.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/19)
 
 ## Prima parte
 
@@ -506,7 +506,7 @@ L’originale della presente Convenzione i cui testi in lingua araba, cinese, fr
 
 *In fede di che,* i plenipotenziari sottoscritti debitamente abilitati a tal fine dai loro rispettivi governi, hanno firmato la presente Convenzione. Fatto a New York, il 20 novembre 1989. (Seguono le firme)
 
-Campo d’applicazione della Convenzione il 27 febbraio 2023[^t-2]
+Campo d’applicazione della Convenzione il 7 maggio 2026[^t-2]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A) Dichiarazione di successione (S)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -705,7 +705,7 @@ Campo d’applicazione della Convenzione il 27 febbraio 2023[^t-2]
 <tr><td>Svizzera\* \*\*</td><td>24 febbraio</td><td>1997</td><td>26 marzo</td><td>1997</td></tr>
 <tr><td>Tagikistan</td><td>26 ottobre</td><td>1993 A</td><td>25 novembre</td><td>1993</td></tr>
 <tr><td>Tanzania</td><td>10 giugno</td><td>1991</td><td>10 luglio</td><td>1991</td></tr>
-<tr><td>Thailandia\*</td><td>27 marzo</td><td>1992 A</td><td>26 aprile</td><td>1992</td></tr>
+<tr><td>Thailandia</td><td>27 marzo</td><td>1992 A</td><td>26 aprile</td><td>1992</td></tr>
 <tr><td>Timor-Leste</td><td>16 aprile</td><td>2003 A</td><td>16 maggio</td><td>2003</td></tr>
 <tr><td>Togo</td><td>1° agosto</td><td>1990</td><td>2 settembre</td><td>1990</td></tr>
 <tr><td>Tonga</td><td>6 novembre</td><td>1995 A</td><td>6 dicembre</td><td>1995</td></tr>
@@ -725,12 +725,10 @@ Campo d’applicazione della Convenzione il 27 febbraio 2023[^t-2]
 <tr><td>Yemen</td><td>1° maggio</td><td>1991</td><td>31 maggio</td><td>1991</td></tr>
 <tr><td>Zambia</td><td>6 dicembre</td><td>1991</td><td>5 gennaio</td><td>1992</td></tr>
 <tr><td>Zimbabwe</td><td>11 settembre</td><td>1990</td><td>11 ottobre</td><td>1990</td></tr>
-<tr><td colspan="5"><sup>\*</sup> Riserve e dichiarazioni.</td></tr>
-<tr><td colspan="5"><sup>\*\*</sup> Obiezioni. Le riserve, dichiarazioni e obiezioni non sono pubblicate nella RU, ad eccezione delle riserve e dichiarazioni della Svizzera. Il testo, in francese e inglese, può essere consultato sul sito Internet dell’Organizzazione delle Nazioni Unite: http://treaties.un.org/oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
-<tr><td colspan="5"><sup>a</sup> Sino al 30 giu. 1997 la Conv. era applicabile a Hong Kong sulla base di una dichiarazione d’estensione territoriale del Regno Unito. A partire dal 1° lug. 1997 Hong Kong è divenuta una Regione amministrativa speciale (RAS) della Repubblica popolare di Cina. In virtù della dichiarazione sino-britannica del 19 dic. 1984 gli accordi applicabili a Hong Kong prima dell’annessione alla Repubblica popolare di Cina rimangono applicabili alla RAS.</td></tr>
+<tr><td colspan="5"><sup>\*</sup> Riserve e dichiarazioni. <sup>\*\*</sup> Obiezioni. Le riserve, dichiarazioni e obiezioni non sono pubblicate nella RU, ad eccezione delle riserve e dichiarazioni della Svizzera. Il testo, in francese e inglese, può essere consultato sul sito Internet dell’Organizzazione delle Nazioni Unite: [http://treaties.un.org](http://treaties.un.org/) oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna. <sup>a</sup> Sino al 30 giu. 1997 la Conv. era applicabile a Hong Kong sulla base di una dichiarazione d’estensione territoriale del Regno Unito. A partire dal 1° lug. 1997 Hong Kong è divenuta una Regione amministrativa speciale (RAS) della Repubblica popolare di Cina. In virtù della dichiarazione sino-britannica del 19 dic. 1984 gli accordi applicabili a Hong Kong prima dell’annessione alla Repubblica popolare di Cina rimangono applicabili alla RAS.</td></tr>
 </table>
 
-[^t-2]: [RU 1998 2055](https://fedlex.data.admin.ch/eli/oc/1998/2055_2055_2055); [2004 339](https://fedlex.data.admin.ch/eli/oc/2004/22); [2007 417](https://fedlex.data.admin.ch/eli/oc/2007/83); [2010 1619](https://fedlex.data.admin.ch/eli/oc/2010/233); [2014 1311](https://fedlex.data.admin.ch/eli/oc/2014/275); [2016 1181](https://fedlex.data.admin.ch/eli/oc/2016/222), [3803](https://fedlex.data.admin.ch/eli/oc/2016/635); [2022 102](https://fedlex.data.admin.ch/eli/oc/2022/102). Una versione aggiornata del campo di applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: https://www.fedlex.admin.ch/it/treaty.
+[^t-2]: Completa quelli in [RU 1998 2055](https://fedlex.data.admin.ch/eli/oc/1998/2055_2055_2055); [2004 339](https://fedlex.data.admin.ch/eli/oc/2004/22); [2007 417](https://fedlex.data.admin.ch/eli/oc/2007/83); [2010 1619](https://fedlex.data.admin.ch/eli/oc/2010/233); [2014 1311](https://fedlex.data.admin.ch/eli/oc/2014/275); [2016 1181](https://fedlex.data.admin.ch/eli/oc/2016/222), [3803](https://fedlex.data.admin.ch/eli/oc/2016/635); [2023 102](https://fedlex.data.admin.ch/eli/oc/2023/102), [2026 214](https://fedlex.data.admin.ch/eli/oc/2026/214). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty).
 
 Riserve e dichiarazioni
 

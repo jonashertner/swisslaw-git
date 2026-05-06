@@ -3,11 +3,11 @@ sr: "0.107"
 title: Übereinkommen vom 20. November 1989 über die Rechte des Kindes
 eli: "https://fedlex.data.admin.ch/eli/cc/1998/2055_2055_2055"
 language: de
-version: 2023-02-27
+version: 2026-05-07
 adopted: 1989-11-20
 in_force: 1997-03-26
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2055_2055_2055/20230227/de/xml/fedlex-data-admin-ch-eli-cc-1998-2055_2055_2055-20230227-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1998/2055_2055_2055/20230227/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2055_2055_2055/20260507/de/xml/fedlex-data-admin-ch-eli-cc-1998-2055_2055_2055-20260507-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1998/2055_2055_2055/20260507/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -20,7 +20,7 @@ AS **1998** 2055; BBl **1994** V 1
 
 Abgeschlossen in New York am 20. November 1989 Von der Bundesversammlung genehmigt am 13. Dezember 1996[^t-1] Ratifikationsurkunde durch die Schweiz hinterlegt am 24. Februar 1997 In Kraft getreten für die Schweiz am 26. März 1997
 
-(Stand am 27. Februar 2023)
+(Stand am 7. Mai 2026)
 
 [^t-1]: [AS 1998 2053](https://fedlex.data.admin.ch/eli/oc/1998/2053_2053_2053)
 
@@ -56,9 +56,9 @@ in Anerkennung der Bedeutung der internationalen Zusammenarbeit für die Verbess
 
 haben folgendes vereinbart:
 
-[^ingress-1]: [SR 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
-[^ingress-2]: [SR 0.103.2](https://fedlex.data.admin.ch/eli/cc/1993/750_750_750)
-[^ingress-3]: [SR 0.103.1](https://fedlex.data.admin.ch/eli/cc/1993/725_725_725)
+[^ingress-1]: [SR 0.120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/41)
+[^ingress-2]: [SR 0.103.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/20)
+[^ingress-3]: [SR 0.103.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/19)
 
 ## Teil I
 
@@ -506,7 +506,7 @@ Die Urschrift dieses Übereinkommens, dessen arabischer, chinesischer, englische
 
 *Zu Urkund dessen* haben die unterzeichneten, von ihren Regierungen hierzu gehörig befugten Bevollmächtigten dieses Übereinkommen unterschrieben. Abgeschlossen in New York am 20. November 1989. (Es folgen die Unterschriften)
 
-Geltungsbereich am 27. Februar 2023[^t-2]
+Geltungsbereich des Übereinkommes am 7. Mai 2026[^t-2]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B) Nachfolgeerklärung (N)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -689,7 +689,7 @@ Geltungsbereich am 27. Februar 2023[^t-2]
 <tr><td>Syrien\*</td><td>15. Juli</td><td>1993</td><td>14. August</td><td>1993</td></tr>
 <tr><td>Tadschikistan</td><td>26. Oktober</td><td>1993 B</td><td>25. November</td><td>1993</td></tr>
 <tr><td>Tansania</td><td>10. Juni</td><td>1991</td><td>10. Juli</td><td>1991</td></tr>
-<tr><td>Thailand\*</td><td>27. März</td><td>1992 B</td><td>26. April</td><td>1992</td></tr>
+<tr><td>Thailand</td><td>27. März</td><td>1992 B</td><td>26. April</td><td>1992</td></tr>
 <tr><td>Timor-Leste</td><td>16. April</td><td>2003 B</td><td>16. Mai</td><td>2003</td></tr>
 <tr><td>Togo</td><td>1. August</td><td>1990</td><td>2. September</td><td>1990</td></tr>
 <tr><td>Tonga</td><td>6. November</td><td>1995 B</td><td>6. Dezember</td><td>1995</td></tr>
@@ -725,10 +725,10 @@ Geltungsbereich am 27. Februar 2023[^t-2]
 <tr><td>Vietnam</td><td>28. Februar</td><td>1990</td><td>2. September</td><td>1990</td></tr>
 <tr><td>Zentralafrikanische Republik</td><td>23. April</td><td>1992</td><td>23. Mai</td><td>1992</td></tr>
 <tr><td>Zypern</td><td>7. Februar</td><td>1991</td><td>9. März</td><td>1991</td></tr>
-<tr><td colspan="5">\* Vorbehalte und Erklärungen. \*\* Einwendungen. Die Vorbehalte, Erklärungen und Einwendungen werden in der AS nicht veröffentlicht, mit Ausnahme der Vorbehalte und Erklärungen der Schweiz. Die französischen und englischen Texte können auf der Internetseite der Vereinten Nationen: http://treaties.un.org/ eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden. <sup>a</sup> Bis zum 30. Juni 1997 war das Übereink. aufgrund einer Ausdehungserklärung Grossbritanniens in Hongkong anwendbar. Seit dem 1. Juli 1997 bildet Hongkong eine besondere Verwaltungsregion (SAR) der Volksrepubik China. Aufgrund der chinesisch-britischen Erklärung vom 19. Dez. 1984 bleiben diejenigen Abk., welche vor der Rückgabe an die Volksrepublik China in Hongkong anwendbar waren, auch in der SAR anwendbar.</td></tr>
+<tr><td colspan="5">\* Vorbehalte und Erklärungen. \*\* Einwendungen. Die Vorbehalte, Erklärungen und Einwendungen werden in der AS nicht veröffentlicht, mit Ausnahme der Vorbehalte und Erklärungen der Schweiz. Die französischen und englischen Texte können auf der Internetseite der Vereinten Nationen: [http://treaties.un.org/](http://treaties.un.org/) eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden. <sup>a</sup> Bis zum 30. Juni 1997 war das Übereink. aufgrund einer Ausdehungserklärung Grossbritanniens in Hongkong anwendbar. Seit dem 1. Juli 1997 bildet Hongkong eine besondere Verwaltungsregion (SAR) der Volksrepubik China. Aufgrund der chinesisch-britischen Erklärung vom 19. Dez. 1984 bleiben diejenigen Abk., welche vor der Rückgabe an die Volksrepublik China in Hongkong anwendbar waren, auch in der SAR anwendbar.</td></tr>
 </table>
 
-[^t-2]: [AS 1998 2055](https://fedlex.data.admin.ch/eli/oc/1998/2055_2055_2055); [2004 339](https://fedlex.data.admin.ch/eli/oc/2004/22); [2007 417](https://fedlex.data.admin.ch/eli/oc/2007/83); [2010 1619](https://fedlex.data.admin.ch/eli/oc/2010/233); [2014 1311](https://fedlex.data.admin.ch/eli/oc/2014/275); [2016 1181](https://fedlex.data.admin.ch/eli/oc/2016/222), [3803](https://fedlex.data.admin.ch/eli/oc/2016/635); [2023 102](https://fedlex.data.admin.ch/eli/oc/2023/102). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [https://www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
+[^t-2]: [AS 1998 2055](https://fedlex.data.admin.ch/eli/oc/1998/2055_2055_2055); [2004 339](https://fedlex.data.admin.ch/eli/oc/2004/22); [2007 417](https://fedlex.data.admin.ch/eli/oc/2007/83); [2010 1619](https://fedlex.data.admin.ch/eli/oc/2010/233); [2014 1311](https://fedlex.data.admin.ch/eli/oc/2014/275); [2016 1181](https://fedlex.data.admin.ch/eli/oc/2016/222), [3803](https://fedlex.data.admin.ch/eli/oc/2016/635); [2023 102](https://fedlex.data.admin.ch/eli/oc/2023/102); [2026 214](https://fedlex.data.admin.ch/eli/oc/2026/214). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
 
 Vorbehalte und Erklärungen
 

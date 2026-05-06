@@ -3,11 +3,11 @@ sr: "0.107"
 title: "Convention du 20 novembre 1989 relative aux droits de l'enfant"
 eli: "https://fedlex.data.admin.ch/eli/cc/1998/2055_2055_2055"
 language: fr
-version: 2023-02-27
+version: 2026-05-07
 adopted: 1989-11-20
 in_force: 1997-03-26
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2055_2055_2055/20230227/fr/xml/fedlex-data-admin-ch-eli-cc-1998-2055_2055_2055-20230227-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1998/2055_2055_2055/20230227/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2055_2055_2055/20260507/fr/xml/fedlex-data-admin-ch-eli-cc-1998-2055_2055_2055-20260507-fr-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1998/2055_2055_2055/20260507/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -26,7 +26,7 @@ Instrument de ratification déposé par la Suisse le 24 février 1997
 
 Entrée en vigueur pour la Suisse le 26 mars 1997
 
-(État le 27 février 2023)
+(État le 7 mai 2026)
 
 [^t-1]: [RO 1998 2053](https://fedlex.data.admin.ch/eli/oc/1998/2053_2053_2053)
 
@@ -62,9 +62,9 @@ reconnaissant l’importance de la coopération internationale pour l’amélior
 
 sont convenus de ce qui suit:
 
-[^ingress-1]: [RS 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
-[^ingress-2]: [RS 0.103.2](https://fedlex.data.admin.ch/eli/cc/1993/750_750_750)
-[^ingress-3]: [RS 0.103.1](https://fedlex.data.admin.ch/eli/cc/1993/725_725_725)
+[^ingress-1]: [RS 0.120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/41)
+[^ingress-2]: [RS 0.103.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/20)
+[^ingress-3]: [RS 0.103.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/19)
 
 ## Première Partie
 
@@ -512,7 +512,7 @@ L’original de la présente Convention, dont les textes anglais, arabe, chinois
 
 *En foi de quoi,* les plénipotentiaires soussignés, dûment habilités par leurs gouvernements respectifs, ont signé la présente Convention. Fait à New York, le 20 novembre 1989. (Suivent les signatures)
 
-Champ d’application de la Convention le 27 février 2023[^t-2]
+Champ d’application de la Convention le 7 mai 2026[^t-2]
 
 <table>
 <tr><th>États parties</th><th>Ratification Adhésion (A) Déclaration de succession (S)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
@@ -714,7 +714,7 @@ Champ d’application de la Convention le 27 février 2023[^t-2]
 <tr><td>Tadjikistan</td><td>26 octobre</td><td>1993 A</td><td>25 novembre</td><td>1993</td></tr>
 <tr><td>Tanzanie</td><td>10 juin</td><td>1991</td><td>10 juillet</td><td>1991</td></tr>
 <tr><td>Tchad</td><td>2 octobre</td><td>1990</td><td>1<sup>er</sup> novembre</td><td>1990</td></tr>
-<tr><td>Thaïlande\*</td><td>27 mars</td><td>1992 A</td><td>26 avril</td><td>1992</td></tr>
+<tr><td>Thaïlande</td><td>27 mars</td><td>1995 A</td><td>26 avril</td><td>1992</td></tr>
 <tr><td>Timor-Leste</td><td>16 avril</td><td>2003 A</td><td>16 mai</td><td>2003</td></tr>
 <tr><td>Togo</td><td>1<sup>er</sup> août</td><td>1990</td><td>2 septembre</td><td>1990</td></tr>
 <tr><td>Tonga</td><td>6 novembre</td><td>1995 A</td><td>6 décembre</td><td>1995</td></tr>
@@ -731,10 +731,10 @@ Champ d’application de la Convention le 27 février 2023[^t-2]
 <tr><td>Yémen</td><td>1<sup>er</sup> mai</td><td>1991</td><td>31 mai</td><td>1991</td></tr>
 <tr><td>Zambie</td><td>6 décembre</td><td>1991</td><td>5 janvier</td><td>1992</td></tr>
 <tr><td>Zimbabwe</td><td>11 septembre</td><td>1990</td><td>11 octobre</td><td>1990</td></tr>
-<tr><td colspan="5">\* Réserves et déclarations. \*\* Objections. Les réserves, déclarations et objections ne sont pas publiées au RO, à l’exception des réserves et déclarations de la Suisse. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet des Nations Unies: http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies, ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> Jusqu’au 30 juin 1997, la Convention était applicable à Hong Kong sur la base d’une déclaration d’extension territoriale du Royaume-Uni. À partir du 1<sup>er</sup> juillet 1997, Hong Kong est devenue une Région administrative spéciale (RAS) de la République populaire de Chine. En vertu de la déclaration sino-britannique du 19 déc. 1984, les accords qui étaient applicables à Hong Kong avant sa rétrocession à la République populaire de Chine demeurent applicables à la RAS.</td></tr>
+<tr><td colspan="5">\* Réserves et déclarations. \*\* Objections. Les réserves, déclarations et objections ne sont pas publiées au RO, à l’exception des réserves et déclarations de la Suisse. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet de l’Organisation des Nations Unies (ONU): [http:/treaties.un.org/](http://treaties.un.org/) ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> Jusqu’au 30 juin 1997, la Convention était applicable à Hong Kong sur la base d’une déclaration d’extension territoriale du Royaume-Uni. À partir du 1<sup>er</sup> juillet 1997, Hong Kong est devenue une Région administrative spéciale (RAS) de la République populaire de Chine. En vertu de la déclaration sino-britannique du 19 déc. 1984, les accords qui étaient applicables à Hong Kong avant sa rétrocession à la République populaire de Chine demeurent applicables à la RAS.</td></tr>
 </table>
 
-[^t-2]: [RO 1998 2055](https://fedlex.data.admin.ch/eli/oc/1998/2055_2055_2055); [2004 339](https://fedlex.data.admin.ch/eli/oc/2004/22); [2007 417](https://fedlex.data.admin.ch/eli/oc/2007/83); [2010 1619](https://fedlex.data.admin.ch/eli/oc/2010/233); [2014 1311](https://fedlex.data.admin.ch/eli/oc/2014/275); [2016 1181](https://fedlex.data.admin.ch/eli/oc/2016/222), [3803](https://fedlex.data.admin.ch/eli/oc/2016/635); [2023 102](https://fedlex.data.admin.ch/eli/oc/2023/102). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [https://www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).
+[^t-2]: [RO 1998 2055](https://fedlex.data.admin.ch/eli/oc/1998/2055_2055_2055); [2004 339](https://fedlex.data.admin.ch/eli/oc/2004/22); [2007 417](https://fedlex.data.admin.ch/eli/oc/2007/83); [2010 1619](https://fedlex.data.admin.ch/eli/oc/2010/233); [2014 1311](https://fedlex.data.admin.ch/eli/oc/2014/275); [2016 1181](https://fedlex.data.admin.ch/eli/oc/2016/222), [3803](https://fedlex.data.admin.ch/eli/oc/2016/635); [2023 102](https://fedlex.data.admin.ch/eli/oc/2023/102); [2026 214](https://fedlex.data.admin.ch/eli/oc/2026/214). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](http://www.fedlex.admin.ch/fr/treaty).
 
 Réserves et déclarations
 
@@ -920,4 +920,4 @@ Champ d’application de l’Amendement le 4 juin 2014[^t-8]
 <tr><td colspan="5"><sup>a</sup> L’amendement ne vaut pas pour Tokélaou.</td></tr>
 </table>
 
-[^t-8]: [RO 2007 4095](https://fedlex.data.admin.ch/eli/oc/2007/544), [2014 1417](https://fedlex.data.admin.ch/eli/oc/2014/302). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [https://www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).
+[^t-8]: [RO 2007 4095](https://fedlex.data.admin.ch/eli/oc/2007/544), [2014 1417](https://fedlex.data.admin.ch/eli/oc/2014/302). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](http://www.fedlex.admin.ch/fr/treaty).

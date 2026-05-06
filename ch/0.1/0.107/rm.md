@@ -3,11 +3,11 @@ sr: "0.107"
 title: "Convenziun dals 20 da november 1989 davart ils dretgs da l'uffant"
 eli: "https://fedlex.data.admin.ch/eli/cc/1998/2055_2055_2055"
 language: rm
-version: 2023-02-27
+version: 2026-05-07
 adopted: 1989-11-20
 in_force: 1997-03-26
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2055_2055_2055/20230227/rm/xml/fedlex-data-admin-ch-eli-cc-1998-2055_2055_2055-20230227-rm-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1998/2055_2055_2055/20230227/rm"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2055_2055_2055/20260507/rm/xml/fedlex-data-admin-ch-eli-cc-1998-2055_2055_2055-20260507-rm-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1998/2055_2055_2055/20260507/rm"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -20,7 +20,7 @@ Translaziun
 
 Concludida a New York ils 20 da november 1989 Approvada da l’Assamblea federala ils 13 da december 1996[^t-1] Document da ratificaziun deposità da la Svizra ils 24 da favrer 1997 Entrada en vigur per la Svizra ils 26 da mars 1997
 
-(Versiun dals 27 da favrer 2023)
+(Versiun dals 7 da matg 2026)
 
 [^t-1]: AS **1998** 2055; BBL **1994** V 1 AS **1998** 2053
 
@@ -56,9 +56,9 @@ renconuschend l’impurtanza da la collavuraziun internaziunala per meglierar la
 
 han concludì il suandant:
 
-[^ingress-1]: [SR 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
-[^ingress-2]: [SR 0.103.2](https://fedlex.data.admin.ch/eli/cc/1993/750_750_750)
-[^ingress-3]: [SR 0.103.1](https://fedlex.data.admin.ch/eli/cc/1993/725_725_725)
+[^ingress-1]: [SR 0.120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/41)
+[^ingress-2]: [SR 0.103.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/20)
+[^ingress-3]: [SR 0.103.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/19)
 
 ## Emprima part
 
@@ -506,7 +506,7 @@ L’original da questa Convenziun, da la quala il text arab, chinais, englais, f
 
 *Per confermar quai* han ils plenipotenziaris sutsegnads, ch’èn autorisads duidamain da lur regenzas da far quai, suttascrit questa Convenziun. Concludida a New York ils 20 da november 1989. (I suondan las suttascripziuns)
 
-Champ d’applicaziun ils 27 da favrer 2023[^t-2]
+Champ d’applicaziun ils 7 da matg 2026[^t-2]
 
 <table>
 <tr><th>Stadis participants</th><th>Ratificaziun Participaziun (P) Decleraziun da successiun (S)</th><th></th><th>Entrada en vigur</th><th></th></tr>
@@ -706,7 +706,7 @@ Champ d’applicaziun ils 27 da favrer 2023[^t-2]
 <tr><td>Svezia\*\*</td><td>29 da zercladur</td><td>1990</td><td>2 da settember</td><td>1990</td></tr>
 <tr><td>Svizra\* \*\*</td><td>24 da favrer</td><td>1997</td><td>26 da mars</td><td>1997</td></tr>
 <tr><td>Tadschikistan</td><td>26 d’october</td><td>1993 P</td><td>25 da november</td><td>1993</td></tr>
-<tr><td>Tailanda\*</td><td>27 da mars</td><td>1992 P</td><td>26 d’avrigl</td><td>1992</td></tr>
+<tr><td>Tailanda</td><td>27 da mars</td><td>1992 P</td><td>26 d’avrigl</td><td>1992</td></tr>
 <tr><td>Tansania</td><td>10 da zercladur</td><td>1991</td><td>10 da fanadur</td><td>1991</td></tr>
 <tr><td>Timor-Leste</td><td>16 d’avrigl</td><td>2003 P</td><td>16 da matg</td><td>2003</td></tr>
 <tr><td>Tirchia\*</td><td>4 d’avrigl</td><td>1995</td><td>4 da matg</td><td>1995</td></tr>
@@ -725,12 +725,10 @@ Champ d’applicaziun ils 27 da favrer 2023[^t-2]
 <tr><td>Vanuatu</td><td>7 da fanadur</td><td>1993</td><td>6 d’avust</td><td>1993</td></tr>
 <tr><td>Venezuela\*</td><td>13 da settember</td><td>1990</td><td>13 d’october</td><td>1990</td></tr>
 <tr><td>Vietnam</td><td>28 da favrer</td><td>1990</td><td>2 da settember</td><td>1990</td></tr>
-<tr><td colspan="5">\* Resalvas e decleraziuns.</td></tr>
-<tr><td colspan="5">\*\* Objecziuns. Las resalvas, las decleraziuns e las objecziuns na vegnan betg publitgadas en la AS, cun excepziun da las resalvas e las decleraziuns da la Svizra. Ils texts franzos ed englais pon vegnir consultads sin la pagina d’internet da las Naziuns Unidas (http://treaties.un.org/) u vegnir retratgs tar la Direcziun da dretg internaziunal public, Secziun Contracts internaziunals, 3003 Berna.</td></tr>
-<tr><td colspan="5"><sup>a</sup> Fin ils 30 da zercladur 1997 è la Convenziun stada applitgabla a Hongkong sin basa d’ina decleraziun d’extensiun da la Gronda Britannia. Dapi il 1. da fanadur 1997 è Hongkong ina regiun administrativa speziala (RAS) da la Republica Populara da la China. Sin basa da la decleraziun chinaisa-britannica dals 19 da december 1984 restan quellas convenziuns, ch’eran applitgablas a Hongkong avant la restituziun a la Republica Populara da la China, applitgablas er en la RAS.</td></tr>
+<tr><td colspan="5">\* Resalvas e decleraziuns. \*\* Objecziuns. Las resalvas, las decleraziuns e las objecziuns na vegnan betg publitgadas en la AS, cun excepziun da las resalvas e las decleraziuns da la Svizra. Ils texts franzos ed englais pon vegnir consultads sin la pagina d’internet da las Naziuns Unidas ([http://treaties.un.org](http://treaties.un.org/)) u vegnir retratgs tar la Direcziun da dretg internaziunal public, Secziun Contracts internaziunals, 3003 Berna. <sup>a</sup> Fin ils 30 da zercladur 1997 è la Convenziun stada applitgabla a Hongkong sin basa d’ina decleraziun d’extensiun da la Gronda Britannia. Dapi il 1. da fanadur 1997 è Hongkong ina regiun administrativa speziala (RAS) da la Republica Populara da la China. Sin basa da la decleraziun chinaisa-britannica dals 19 da december 1984 restan quellas convenziuns, ch’eran applitgablas a Hongkong avant la restituziun a la Republica Populara da la China, applitgablas er en la RAS.</td></tr>
 </table>
 
-[^t-2]: [AS 1998 2055](https://fedlex.data.admin.ch/eli/oc/1998/2055_2055_2055); [2004 339](https://fedlex.data.admin.ch/eli/oc/2004/22); [2007 417](https://fedlex.data.admin.ch/eli/oc/2007/83); [2010 1619](https://fedlex.data.admin.ch/eli/oc/2010/233); [2014 1311](https://fedlex.data.admin.ch/eli/oc/2014/275); [2016 1181](https://fedlex.data.admin.ch/eli/oc/2016/222), [3803](https://fedlex.data.admin.ch/eli/oc/2016/635); [2023 102](https://fedlex.data.admin.ch/eli/oc/2023/102). Ina versiun actualisada dal champ d’applicaziun è publitgada sin la plattafurma da publicaziun dal dretg federal «Fedlex» sut la suandanta adressa: [https://www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
+[^t-2]: [AS 1998 2055](https://fedlex.data.admin.ch/eli/oc/1998/2055_2055_2055); [2004 339](https://fedlex.data.admin.ch/eli/oc/2004/22); [2007 417](https://fedlex.data.admin.ch/eli/oc/2007/83); [2010 1619](https://fedlex.data.admin.ch/eli/oc/2010/233); [2014 1311](https://fedlex.data.admin.ch/eli/oc/2014/275); [2016 1181](https://fedlex.data.admin.ch/eli/oc/2016/222), [3803](https://fedlex.data.admin.ch/eli/oc/2016/635); [2023 102](https://fedlex.data.admin.ch/eli/oc/2023/102); [2026 214](https://fedlex.data.admin.ch/eli/oc/2026/214). Ina versiun actualisada dal champ d’applicaziun è publitgada sin la plattafurma da publicaziun dal dretg federal «Fedlex» sut la suandanta adressa: [https://www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
 
 Resalvas e decleraziuns
 
