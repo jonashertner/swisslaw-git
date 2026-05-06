@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Pacchetto di ordinanze agricole 2026
 document: Progetti posto in consultazione
 language: it

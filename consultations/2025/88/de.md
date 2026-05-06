@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Landwirtschaftliches Verordnungspaket 2026
 document: Vernehmlassungsvorlagen
 language: de

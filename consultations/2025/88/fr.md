@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Train d’ordonnances agricoles 2026
 document: Projets mis en consultation
 language: fr
