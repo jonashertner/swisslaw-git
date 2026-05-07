@@ -4,11 +4,11 @@ title: Price Supervision Act of 20 December 1985
 short: (PrSA)
 eli: "https://fedlex.data.admin.ch/eli/cc/1986/895_895_895"
 language: en
-version: 2013-01-01
+version: 2026-05-08
 adopted: 1985-12-20
 in_force: 1986-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/895_895_895/20130101/en/xml/fedlex-data-admin-ch-eli-cc-1986-895_895_895-20130101-en-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1986/895_895_895/20130101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/895_895_895/20260508/en/xml/fedlex-data-admin-ch-eli-cc-1986-895_895_895-20260508-en-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1986/895_895_895/20260508/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (PrSA)
 
-of 20 December 1985 (Status as of 1 January 2013)
+of 20 December 1985 (Last amended on 8 May 2026)
 
 The Federal Assembly of the Swiss Confederation,
 
@@ -47,7 +47,7 @@ This Act applies to prices of goods and services, including credit. Salaries and
 This Act applies to agreements affecting competition as defined in the Cartel Act of 6 October 1995[^2-2] and to undertakings under private and public law with market power.
 
 [^2-1]: Amended by Annex No 3 of the Cartel Act of 6 Oct. 1995, in force since 1 July 1996 ([AS 1996 546](https://fedlex.data.admin.ch/eli/oc/1996/546_546_546), [1805](https://fedlex.data.admin.ch/eli/oc/1996/1805_1805_1805); [BBl 1995 I 468](https://fedlex.data.admin.ch/eli/fga/1995/1_468_472_389)).
-[^2-2]: [SR 251](https://fedlex.data.admin.ch/eli/cc/1996/546_546_546)
+[^2-2]: [SR 251](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6127)
 
 ## Section 2 Commissioner for Price Supervision
 
@@ -166,7 +166,7 @@ When examining whether a price has been abusively increased or maintained, the P
 
 <sup>3</sup> When examining whether a price abuse has occurred, the Price Supervisor shall take account of any overriding public interests.
 
-[^14-1]: Amended by Annex No 3 of the Cartel Act of 6 Oct. 1995, in force since 1 July 1996 ([AS 1996 546](https://fedlex.data.admin.ch/eli/oc/1996/546_546_546), [1805](https://fedlex.data.admin.ch/eli/oc/1996/1805_1805_1805); [BBl 1995 I 468](https://fedlex.data.admin.ch/eli/fga/1995/1_468_472_389)).
+[^14-1]: Amended by Annex No 3 of the Cartel Act of 6 Oct. 1995, in force since 1 July 1996 ([AS 1996 546](https://fedlex.data.admin.ch/eli/oc/1996/546_546_546), [1805](https://fedlex.data.admin.ch/eli/oc/1996/1805_1805_1805); [BBl 1995 I 468](https://fedlex.data.admin.ch/eli/fga/1995/1_468_472_389)). T he correction by the FA Drafting Committee of of 7 May 2026, publisged 8 May 2026, concerns the Italian text only ([AS 2025 206](https://fedlex.data.admin.ch/eli/oc/2025/206)).
 
 ## Section 6 Measures for Other Federal Price Controls
 
@@ -279,7 +279,7 @@ Any person who wilfully:
 
 <sup>2</sup> The Federal Department of Economic Affairs, Education and Research is the prosecuting and adjudicating administrative authority.
 
-[^25-1]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^25-1]: [SR 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 ## Section 11 Final Provisions
 

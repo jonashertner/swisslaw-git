@@ -4,11 +4,11 @@ title: Preisüberwachungsgesetz vom 20. Dezember 1985 (PüG)
 short: PüG
 eli: "https://fedlex.data.admin.ch/eli/cc/1986/895_895_895"
 language: de
-version: 2013-01-01
+version: 2026-05-08
 adopted: 1985-12-20
 in_force: 1986-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/895_895_895/20130101/de/xml/fedlex-data-admin-ch-eli-cc-1986-895_895_895-20130101-de-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1986/895_895_895/20130101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/895_895_895/20260508/de/xml/fedlex-data-admin-ch-eli-cc-1986-895_895_895-20260508-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1986/895_895_895/20260508/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1986/895_895_895/20130101/de"
 
 (PüG)
 
-vom 20. Dezember 1985 (Stand am 1. Januar 2013)
+vom 20. Dezember 1985 (Stand am 8. Mai 2026)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -45,7 +45,7 @@ Das Gesetz gilt für Preise von Waren und Dienstleistungen einschliesslich der K
 Das Gesetz gilt für Wettbewerbsabreden im Sinne des Kartellgesetzes vom 6. Oktober 1995[^2-2] und für marktmächtige Unternehmen des privaten und des öffentlichen Rechts.
 
 [^2-1]: Fassung gemäss Anhang Ziff. 3 des Kartellgesetzes vom 6. Okt. 1995, in Kraft seit 1. Juli 1996 ([AS 1996 546](https://fedlex.data.admin.ch/eli/oc/1996/546_546_546), [1805](https://fedlex.data.admin.ch/eli/oc/1996/1805_1805_1805); [BBl 1995 I 468](https://fedlex.data.admin.ch/eli/fga/1995/1_468_472_389)).
-[^2-2]: [SR 251](https://fedlex.data.admin.ch/eli/cc/1996/546_546_546)
+[^2-2]: [SR 251](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6127)
 
 ## 2. Abschnitt: Beauftragter für die Überwachung der Preise
 
@@ -164,7 +164,7 @@ Bei der Prüfung, ob eine missbräuchliche Erhöhung oder Beibehaltung eines Pre
 
 <sup>3</sup> Bei der Prüfung der Frage, ob ein Preismissbrauch vorliegt, berücksichtigt der Preisüberwacher allfällige übergeordnete öffentliche Interessen.
 
-[^14-1]: Fassung gemäss Anhang Ziff. 3 des Kartellgesetzes vom 6. Okt. 1995, in Kraft seit 1. Juli 1996 ([AS 1996 546](https://fedlex.data.admin.ch/eli/oc/1996/546_546_546), [1805](https://fedlex.data.admin.ch/eli/oc/1996/1805_1805_1805); [BBl 1995 I 468](https://fedlex.data.admin.ch/eli/fga/1995/1_468_472_389)).
+[^14-1]: Fassung gemäss Anhang Ziff. 3 des Kartellgesetzes vom 6. Okt. 1995, in Kraft seit 1. Juli 1996 ([AS 1996 546](https://fedlex.data.admin.ch/eli/oc/1996/546_546_546), [1805](https://fedlex.data.admin.ch/eli/oc/1996/1805_1805_1805); [BBl 1995 I 468](https://fedlex.data.admin.ch/eli/fga/1995/1_468_472_389)). Die Berichtigung vom 7. Mai 2026 der RedK der BVers, veröffentlicht am 8. Mai 2026, betrifft nur den italienischen Text ([AS 2026 206](https://fedlex.data.admin.ch/eli/oc/2026/206)).
 
 ## 6. Abschnitt: Massnahmen bei anderen bundesrechtlichen Preisüberwachungen
 
@@ -277,7 +277,7 @@ Wer vorsätzlich:
 
 <sup>2</sup> Verfolgende und urteilende Verwaltungsbehörde ist das Eidgenössische Departement für Wirtschaft, Bildung und Forschung.
 
-[^25-1]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^25-1]: [SR 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 ## 11. Abschnitt: Schlussbestimmungen
 

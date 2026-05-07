@@ -4,11 +4,11 @@ title: Legge federale del 20 dicembre 1985 sulla sorveglianza dei prezzi (LSPr)
 short: LSPr
 eli: "https://fedlex.data.admin.ch/eli/cc/1986/895_895_895"
 language: it
-version: 2013-01-01
+version: 2026-05-08
 adopted: 1985-12-20
 in_force: 1986-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/895_895_895/20130101/it/xml/fedlex-data-admin-ch-eli-cc-1986-895_895_895-20130101-it-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1986/895_895_895/20130101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/895_895_895/20260508/it/xml/fedlex-data-admin-ch-eli-cc-1986-895_895_895-20260508-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1986/895_895_895/20260508/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1986/895_895_895/20130101/it"
 
 (LSPr)
 
-del 20 dicembre 1985 (Stato 1° gennaio 2013)
+del 20 dicembre 1985 (Stato 8 maggio 2026)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -45,7 +45,7 @@ La legge si applica ai prezzi delle merci e dei servizi, inclusi i crediti. Sono
 La legge si applica agli accordi in materia di concorrenza ai sensi della legge del 6 ottobre 1995[^2-2] sui cartelli e alle imprese di diritto privato e pubblico che dominano il mercato.
 
 [^2-1]: Nuovo testo giusta l’all. n. 3 della L del 6 ott. 1995 sui cartelli, in vigore dal 1° lug. 1996 ([RU 1996 546](https://fedlex.data.admin.ch/eli/oc/1996/546_546_546), [1805](https://fedlex.data.admin.ch/eli/oc/1996/1805_1805_1805); [FF 1995 I 389](https://fedlex.data.admin.ch/eli/fga/1995/1_468_472_389)).
-[^2-2]: [RS 251](https://fedlex.data.admin.ch/eli/cc/1996/546_546_546)
+[^2-2]: [RS 251](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6127)
 
 ## Sezione 2: Preposto alla sorveglianza dei prezzi
 
@@ -158,13 +158,13 @@ Per accertare se vi è un aumento abusivo di prezzo o il mantenimento di un prez
 
 #### Art. 14
 
-<sup>1</sup> Prima di decidere o approvare un aumento di prezzo proposto dalle parti contraenti a un accordo in materia di concorrenza o da un’impresa che domina il mercato, la competente autorità legislativa della Confederazione, del Cantone o del Comune deve chiedere il parere del Sorvegliante dei prezzi.[^14-1] Questi può proporre la rinuncia, completa o parziale, all’aumento di prezzo oppure la riduzione di prezzi mantenuti abusivi.
+<sup>1</sup> Prima di decidere o approvare un aumento di prezzo proposto dalle parti contraenti a un accordo in materia di concorrenza o da un’impresa che domina il mercato, la competente autorità legislativa o esecutiva della Confederazione, del Cantone o del Comune deve chiedere il parere del Sorvegliante dei prezzi.[^14-1] Questi può proporre la rinuncia, completa o parziale, all’aumento di prezzo oppure la riduzione di prezzi mantenuti abusivi.
 
 <sup>2</sup> L’autorità menziona il parere del Sorvegliante nella sua decisione. Ove si scosti dal parere, ne deve dare motivazione.
 
 <sup>3</sup> Nell’esaminare se un prezzo è abusivo, il Sorvegliante dei prezzi tiene conto di eventuali interessi pubblici superiori.
 
-[^14-1]: Nuovo testo giusta l’all. n. 3 della L del 6 ott. 1995 sui cartelli, in vigore dal 1° lug. 1996 ([RU 1996 546](https://fedlex.data.admin.ch/eli/oc/1996/546_546_546), [1805](https://fedlex.data.admin.ch/eli/oc/1996/1805_1805_1805); [FF 1995 I 389](https://fedlex.data.admin.ch/eli/fga/1995/1_468_472_389)).
+[^14-1]: Nuovo testo giusta l’all. n. 3 della L del 6 ott. 1995 sui cartelli, in vigore dal 1° lug. 1996 ([RU 1996 546](https://fedlex.data.admin.ch/eli/oc/1996/546_546_546), [1805](https://fedlex.data.admin.ch/eli/oc/1996/1805_1805_1805); [FF 1995 I 389](https://fedlex.data.admin.ch/eli/fga/1995/1_468_472_389)). Correzione della CdR dell’AF del 7 mag. 2026, pubblicata l’8 mag. 2026 ([RU 2026 206](https://fedlex.data.admin.ch/eli/oc/2026/206)).
 
 ## Sezione 6: Provvedimenti in caso di altre Sorveglianze sui prezzi previste dal diritto federale
 
@@ -277,7 +277,7 @@ Chiunque, intenzionalmente,
 
 <sup>2</sup> L’autorità amministrativa incaricata del perseguimento e del giudizio è il Dipartimento federale dell’economia, della formazione e della ricerca.
 
-[^25-1]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^25-1]: [RS 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 ## Sezione 11: Disposizioni finali
 

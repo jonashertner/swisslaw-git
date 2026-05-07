@@ -4,11 +4,11 @@ title: Loi fédérale du 20 décembre 1985 concernant la surveillance des prix (
 short: LSPr
 eli: "https://fedlex.data.admin.ch/eli/cc/1986/895_895_895"
 language: fr
-version: 2013-01-01
+version: 2026-05-08
 adopted: 1985-12-20
 in_force: 1986-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/895_895_895/20130101/fr/xml/fedlex-data-admin-ch-eli-cc-1986-895_895_895-20130101-fr-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1986/895_895_895/20130101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/895_895_895/20260508/fr/xml/fedlex-data-admin-ch-eli-cc-1986-895_895_895-20260508-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1986/895_895_895/20260508/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1986/895_895_895/20130101/fr"
 
 (LSPr)
 
-du 20 décembre 1985 (État le 1<sup>er</sup> janvier 2013)
+du 20 décembre 1985 (État le 8 mai 2026)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -25,7 +25,7 @@ vu les art. 31<sup>septies</sup> et 64<sup>bis</sup> de la constitution[^ingress
 
 arrête:
 
-[^ingress-1]: [RS **1** 3; [RO 1983 240](https://fedlex.data.admin.ch/eli/oc/1983/240_240_240)]
+[^ingress-1]: [[RS 1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4713)3; [RO 1983 240](https://fedlex.data.admin.ch/eli/oc/1983/240_240_240)]
 [^ingress-2]: [FF 1984 II 781](https://fedlex.data.admin.ch/eli/fga/1984/2_755_781_695)
 
 ## Section 1 Champ d’application
@@ -45,7 +45,7 @@ La présente loi s’applique aux prix des marchandises et des services, y compr
 La loi s’applique aux accords en matière de concurrence au sens de la loi du 6 octobre 1995 sur les cartels[^2-2] et aux entreprises puissantes sur le marché qui relèvent du droit public ou du droit privé.
 
 [^2-1]: Nouvelle teneur selon le ch. 3 de l’annexe à la loi du 6 oct. 1995 sur les cartels, en vigueur depuis le 1<sup>er</sup> juil. 1996 ([RO 1996 546](https://fedlex.data.admin.ch/eli/oc/1996/546_546_546), [1805](https://fedlex.data.admin.ch/eli/oc/1996/1805_1805_1805); [FF 1995 I 472](https://fedlex.data.admin.ch/eli/fga/1995/1_468_472_389)).
-[^2-2]: [RS 251](https://fedlex.data.admin.ch/eli/cc/1996/546_546_546)
+[^2-2]: [RS 251](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6127)
 
 ## Section 2 Préposé à la surveillance des prix
 
@@ -81,7 +81,7 @@ La loi s’applique aux accords en matière de concurrence au sens de la loi du 
 
 <sup>4</sup> Lorsqu’il s’agit d’apprécier des questions relatives au champ d’application à raison des personnes (art. 2), ainsi qu’à la notion de concurrence efficace (art. 12), le Surveillant des prix ou l’autorité compétente consultent la Commission de la concurrence avant de prendre leurs décisions. La Commission de la concurrence peut publier les prises de position.[^5-4]
 
-[^5-1]: La désignation de l’unité administrative a été adaptée en application de l’art. 16 al. 3 de l’O du 17 nov. 2004 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)).
+[^5-1]: La désignation de l’unité administrative a été adaptée en application de l’art. 16 al. 3 de l’O du 17 nov. 2004 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)).
 [^5-2]: Nouvelle teneur selon le ch. I de la LF du 22 mars 1991, en vigueur depuis le 1<sup>er</sup> oct. 1991 ([RO 1991 2092](https://fedlex.data.admin.ch/eli/oc/1991/2092_2092_2092); [FF 1990 I 85](https://fedlex.data.admin.ch/eli/fga/1990/1_97_85_81)).
 [^5-3]: Nouveau terme selon le ch. 3 de l’annexe à la loi du 6 oct. 1995 sur les cartels, en vigueur depuis le 1<sup>er</sup> juil. 1996 ([RO 1996 546](https://fedlex.data.admin.ch/eli/oc/1996/546_546_546), [1805](https://fedlex.data.admin.ch/eli/oc/1996/1805_1805_1805); [FF 1995 I 472](https://fedlex.data.admin.ch/eli/fga/1995/1_468_472_389)). Il a été tenu compte de cette mod. dans tout le texte.
 [^5-4]: Nouvelle teneur selon le ch. I de la LF du 22 mars 1991, en vigueur depuis le 1<sup>er</sup> oct. 1991 ([RO 1991 2092](https://fedlex.data.admin.ch/eli/oc/1991/2092_2092_2092); [FF 1990 I 85](https://fedlex.data.admin.ch/eli/fga/1990/1_97_85_81)).
@@ -164,7 +164,7 @@ Pour apprécier si un prix a été augmenté ou maintenu abusivement, le Surveil
 
 <sup>3</sup> En examinant si une augmentation de prix est abusive, le Surveillant tient compte des intérêts publics supérieurs qui peuvent exister.
 
-[^14-1]: Nouvelle teneur selon le ch. 3 de l’annexe à la loi du 6 oct. 1995 sur les cartels, en vigueur depuis le 1<sup>er</sup> juil. 1996 ([RO 1996 546](https://fedlex.data.admin.ch/eli/oc/1996/546_546_546), [1805](https://fedlex.data.admin.ch/eli/oc/1996/1805_1805_1805); [FF 1995 I 472](https://fedlex.data.admin.ch/eli/fga/1995/1_468_472_389)).
+[^14-1]: Nouvelle teneur selon le ch. 3 de l’annexe à la loi du 6 oct. 1995 sur les cartels, en vigueur depuis le 1<sup>er</sup> juil. 1996 ([RO 1996 546](https://fedlex.data.admin.ch/eli/oc/1996/546_546_546), [1805](https://fedlex.data.admin.ch/eli/oc/1996/1805_1805_1805); [FF 1995 I 472](https://fedlex.data.admin.ch/eli/fga/1995/1_468_472_389)). Erratum de la CdR de l’Ass. féd. du 7 mai 2026, publié le 8 mai 2026, ne concerne que le texte italien ([RO 2026 206](https://fedlex.data.admin.ch/eli/oc/2026/206)).
 
 ## Section 6 Mesures dans le cadre d’autres régimes de surveillance des prix de droit fédéral
 
@@ -277,7 +277,7 @@ sera puni de l’amende jusqu’à 20 000 francs.
 
 <sup>2</sup> L’autorité de poursuite et de jugement est le Département fédéral de l’économie, de la formation et de la recherche.
 
-[^25-1]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^25-1]: [RS 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 ## Section 11 Dispositions finales
 
