@@ -3,13 +3,12 @@ canton: BS
 number: BeE 132.100
 title: Ordnung über Wahlen und Abstimmungen der Einwohnergemeinde Bettingen
 language: de
-version: 2021-12-16
-valid_until: 2026-05-10
-version_adopted: 2021-12-07
+version: 2026-05-11
+version_adopted: 2026-04-28
 adopted: 1996-12-03
 in_force: 1997-01-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/BeE%20132.100"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5386/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6817/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +17,7 @@ pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5386/pdf_file"
 
 Wahl- und Abstimmungsordnung | Bettingen: Einwohnergemeinde
 
-Vom 3. Dezember 1996 (Stand 16. Dezember 2021)
+Vom 3. Dezember 1996 (Stand 11. Mai 2026)
 
 Die Gemeindeversammlung der Einwohnergemeinde Bettingen,
 
@@ -328,9 +327,11 @@ gestützt auf § 9 des Gemeindegesetzes vom 17. Oktober 1984[^ingress-1], auf An
 
 **Stimmabgabe**
 
-<sup>1</sup> Bei der Wahl des Gemeindepräsidenten oder der Gemeindepräsidentin können die Wählenden einen bedruckten oder einen leeren Wahlzettel verwenden.
+<sup>1</sup> Die Stimmberechtigten haben so viele Stimmen, wie Ämter zu besetzen sind.
 
-<sup>2</sup> Bei der Wahl der weiteren Mitglieder des Gemeinderates sowie der Kommissionsmitglieder gemäss Gemeindeordnung können die Wählenden so viele Stimmen abgeben, als Mitglieder zu wählen sind. Aus den ihnen zugestellten Wahlzetteln wählen sie einen aus und geben damit ihre Stimmen ab. Sie können ihren Wahlzettel unverändert einlegen oder darauf nach Belieben Namen streichen und andere an ihre Stelle setzen. Leere Linien können sie beliebig ausfüllen. Auf dem Wahlzettel darf der gleiche Name nur einmal stehen.
+<sup>2</sup> Für jede kandidierende Person darf nur eine Stimme abgegeben werden.
+
+<sup>3</sup> Leere Linien auf dem Wahlzettel können mit beliebigen Namen von Stimmberechtigten ausgefüllt werden.
 
 #### § 35
 
