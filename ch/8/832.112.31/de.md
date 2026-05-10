@@ -4,11 +4,11 @@ title: "Verordnung des EDI vom 29. September 1995 über Leistungen in der obliga
 short: KLV
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/4964_4964_4964"
 language: de
-version: 2026-01-01
+version: 2026-05-11
 adopted: 1995-09-29
 in_force: 1996-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4964_4964_4964/20260101/de/xml/fedlex-data-admin-ch-eli-cc-1995-4964_4964_4964-20260101-de-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/4964_4964_4964/20260101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4964_4964_4964/20260511/de/xml/fedlex-data-admin-ch-eli-cc-1995-4964_4964_4964-20260511-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/4964_4964_4964/20260511/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/4964_4964_4964/20260101/de"
 
 (Krankenpflege-Leistungsverordnung, KLV)[^t-1]
 
-vom 29. September 1995 (Stand am 1. Januar 2026)
+vom 29. September 1995 (Stand am 11. Mai 2026)
 
 [^t-1]: Fassung gemäss Ziff. I der V des EDI vom 7. Okt. 2002, in Kraft seit 1. Jan. 2003 ([AS 2002 3670](https://fedlex.data.admin.ch/eli/oc/2002/562)).
 
@@ -780,7 +780,7 @@ Die Versicherung übernimmt die Kosten für folgende prophylaktischen Impfungen 
 - q. Impfung gegen Herpes Zoster;
 - r. Impfung gegen Mpox;
 - s. Impfung gegen Rotaviren;
-- t. Impfung gegen Respiratorische Syncytial-Viren (RSV).
+- t.[^12a-3] Impfung gegen Respiratorische Synzytial-Viren (RSV).
 
 <sup>2</sup>
 
@@ -798,6 +798,7 @@ Die Versicherung übernimmt für die Impfungen folgende Kosten für die Impfbera
 
 [^12a-1]: Eingefügt durch Ziff. I der V des EDI vom 21. Nov. 2007 ([AS 2007 6839](https://fedlex.data.admin.ch/eli/oc/2007/882)). Fassung gemäss Ziff. I der V des EDI vom 2. Dez. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 851](https://fedlex.data.admin.ch/eli/oc/2025/851)).
 [^12a-2]: Das Dokument ist einsehbar unter: [www.bag.admin.ch/ref](http://www.bag.admin.ch/ref).
+[^12a-3]: Berichtigung vom 11. Mai 2026 ([AS 2026 209](https://fedlex.data.admin.ch/eli/oc/2026/209)).
 
 #### Art. 12b
 
@@ -2080,7 +2081,7 @@ Als höhere Fachausbildung im Sinne von Artikel 54 Absatz 2 KVV gilt:
 <sup>4</sup> …[^42-6]
 
 [^42-1]: Fassung gemäss Ziff. I der V des EDI vom 2. Dez. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 851](https://fedlex.data.admin.ch/eli/oc/2025/851)).
-[^42-2]: www.bag.admin.ch &gt; Versicherungen &gt; Krankenversicherung &gt; Leistungen und Tarife &gt; Analysenliste (AL) &gt; Laboratorien und Laborleiter &gt; Weitere Informationen &gt; Dokumente &gt; Anforderungen an die Hochschulausbildung.
+[^42-2]: [www.bag.admin.ch](http://www.bag.admin.ch) &gt; Versicherungen &gt; Krankenversicherung &gt; Leistungen und Tarife &gt; Analysenliste (AL) &gt; Laboratorien und Laborleiter &gt; Weitere Informationen &gt; Dokumente &gt; Anforderungen an die Hochschulausbildung.
 [^42-3]: Eingefügt durch Ziff. I der V des EDI vom 2. Dez. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 851](https://fedlex.data.admin.ch/eli/oc/2025/851)).
 [^42-4]: Fassung gemäss Ziff. I der V des EDI vom 16. Mai 2014, in Kraft seit 1. Juli 2014 ([AS 2014 1251](https://fedlex.data.admin.ch/eli/oc/2014/269)).
 [^42-5]: Fassung gemäss Ziff. I der V des EDI vom 9. Dez. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4933](https://fedlex.data.admin.ch/eli/oc/2016/793)).

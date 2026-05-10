@@ -4,11 +4,11 @@ title: "Ordonnance du DFI du 29 septembre 1995 sur les prestations dans l'assura
 short: OPAS
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/4964_4964_4964"
 language: fr
-version: 2026-01-01
+version: 2026-05-11
 adopted: 1995-09-29
 in_force: 1996-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4964_4964_4964/20260101/fr/xml/fedlex-data-admin-ch-eli-cc-1995-4964_4964_4964-20260101-fr-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/4964_4964_4964/20260101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4964_4964_4964/20260511/fr/xml/fedlex-data-admin-ch-eli-cc-1995-4964_4964_4964-20260511-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/4964_4964_4964/20260511/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/4964_4964_4964/20260101/fr"
 
 (Ordonnance sur les prestations de l’assurance des soins, OPAS)[^t-1]
 
-du 29 septembre 1995 (État le 1<sup>er</sup> janvier 2026)
+du 29 septembre 1995 (État le 11 mai 2026)
 
 [^t-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 7 oct. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2003 ([RO 2002 3670](https://fedlex.data.admin.ch/eli/oc/2002/562)).
 
@@ -780,7 +780,7 @@ L’assurance prend en charge les coûts des vaccinations prophylactiques suivan
 - q. vaccination contre l’herpès zoster;
 - r. vaccination contre le mpox;
 - s. vaccination contre les rotavirus;
-- t. vaccination contre le virus respiratoire syncytial (VRS).
+- t.[^12a-3] vaccination contre le virus respiratoire syncytial (VRS).
 
 <sup>2</sup>
 
@@ -798,6 +798,7 @@ L’assurance prend en charge, pour les vaccinations, les coûts suivants pour l
 
 [^12a-1]: Introduit par le ch. I de l’O du DFI du 21 nov. 2007 ([RO 2007 6839](https://fedlex.data.admin.ch/eli/oc/2007/882)). Nouvelle teneur selon le ch. I de l’O du DFI du 2 déc. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 851](https://fedlex.data.admin.ch/eli/oc/2025/851)).
 [^12a-2]: Le document peut être consulté à l’adresse suivante: [www.ofsp.admin.ch/ref](http://www.ofsp.admin.ch/ref).
+[^12a-3]: Erratum du 11 mai 2026, ne concerne que le texte allemand ([RO 2026 209](https://fedlex.data.admin.ch/eli/oc/2026/209)).
 
 #### Art. 12b
 
@@ -2378,7 +2379,7 @@ Annexe 1a[^t-3]
 [^annex1a-lvlu1-1]
 
 [^t-3]: Introduite par le ch. II al. 4 de l’O du DFI du 7 juin 2018 ([RO 2018 2361](https://fedlex.data.admin.ch/eli/oc/2018/339)). Nouvelle teneur selon le ch. II de l’O du DFI du 7 fév. 2020 ([RO 2020 529](https://fedlex.data.admin.ch/eli/oc/2020/99)). Mise à jour par le ch. II al. 2 des O du DFI du 30 nov. 2020 ([RO 2020 6327](https://fedlex.data.admin.ch/eli/oc/2020/1033)), du 1<sup>er</sup> déc. 2021 ([RO 2021 885](https://fedlex.data.admin.ch/eli/oc/2021/885)), le ch. II des O du DFI du 28 nov. 2022 ([RO 2022 840](https://fedlex.data.admin.ch/eli/oc/2022/840)), du 16 juin 2023 ([RO 2023 313](https://fedlex.data.admin.ch/eli/oc/2023/313)), du 29 nov. 2023 ([RO 2023 807](https://fedlex.data.admin.ch/eli/oc/2023/807)), du 17 juin 2024 ([RO 2024 303](https://fedlex.data.admin.ch/eli/oc/2024/303)) et du 29 nov. 2024 ([RO 2024 788](https://fedlex.data.admin.ch/eli/oc/2024/788)), du 4 juin 2025 ([RO 2025 419](https://fedlex.data.admin.ch/eli/oc/2025/419)) et du 2 déc. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 851](https://fedlex.data.admin.ch/eli/oc/2025/851)).
-[^annex1a-lvlu1-1]: Le contenu de l’annexe est publié dans le RO et le RS uniquement sous forme de renvoi. Il peut être consulté à l’adresse suivante: https://fedlex.data.admin.ch/eli/oc/2025/851 &gt; Informations générales &gt; Étendue de la publication &gt; Publication sous la forme d’un renvoi.
+[^annex1a-lvlu1-1]: Le contenu de l’annexe est publié dans le RO et le RS uniquement sous forme de renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2025/851](https://fedlex.data.admin.ch/eli/oc/2025/851) &gt; Informations générales &gt; Étendue de la publication &gt; Publication sous la forme d’un renvoi.
 
 Annexe 2[^t-4]
 
@@ -2389,7 +2390,7 @@ Annexe 2[^t-4]
 [^annex2-lvlu1-1]
 
 [^t-4]: Mise à jour par le ch. II al. 2 des O du DFI du 5 juin 2009 ([RO 2009 2821](https://fedlex.data.admin.ch/eli/oc/2009/370)), du 27 oct. 2009 ([RO 2009 6083](https://fedlex.data.admin.ch/eli/oc/2009/744)), du 14 juin 2010 ([RO 2010 2755](https://fedlex.data.admin.ch/eli/oc/2010/359)), du 2 déc. 2010 ([RO 2010 5837](https://fedlex.data.admin.ch/eli/oc/2010/831)), du 31 mai 2011 ([RO 2011 2669](https://fedlex.data.admin.ch/eli/oc/2011/370)), du 5 déc. 2011 ([RO 2011 6487](https://fedlex.data.admin.ch/eli/oc/2011/899)), du 12 juin 2012 ([RO 2012 3553](https://fedlex.data.admin.ch/eli/oc/2012/400)), du 15 nov. 2012 ([RO 2012 6587](https://fedlex.data.admin.ch/eli/oc/2012/795)), du 6 déc. 2013 ([RO 2013 5329](https://fedlex.data.admin.ch/eli/oc/2013/850)), du 16 mai 2014 ([RO 2014 1251](https://fedlex.data.admin.ch/eli/oc/2014/269)), du 20 nov. 2014 ([RO 2014 4393](https://fedlex.data.admin.ch/eli/oc/2014/724)), du 17 juin 2015 ([RO 2015 2197](https://fedlex.data.admin.ch/eli/oc/2015/406)), du 27 nov. 2015 ([RO 2015 5125](https://fedlex.data.admin.ch/eli/oc/2015/837)), du 20 juin 2016 ([RO 2016 2537](https://fedlex.data.admin.ch/eli/oc/2016/396)), du 25 nov. 2016 ([RO 2016 4639](https://fedlex.data.admin.ch/eli/oc/2016/750)), du 2 juin 2017 ([RO 2017 3487](https://fedlex.data.admin.ch/eli/oc/2017/379)), du 28 nov. 2017 ([RO 2017 7151](https://fedlex.data.admin.ch/eli/oc/2017/773)), du 7 juin 2018 ([RO 2018 2361](https://fedlex.data.admin.ch/eli/oc/2018/339)), le ch. I de l’O du DFI du 7 juin 2018 ([RO 2018 2375](https://fedlex.data.admin.ch/eli/oc/2018/340)), le ch. II al. 3 de l’O du DFI du 30 nov. 2018 ([RO 2018 5085](https://fedlex.data.admin.ch/eli/oc/2018/793)), le ch. II al. 2 des O du DFI du 16 janv. 2019 ([RO 2019 439](https://fedlex.data.admin.ch/eli/oc/2019/78)), du 6 juin 2019 ([RO 2019 1931](https://fedlex.data.admin.ch/eli/oc/2019/355)), du 6 déc. 2019 ([RO 2019 4387](https://fedlex.data.admin.ch/eli/oc/2019/756)), du 7 fév. 2020 ([RO 2020 519](https://fedlex.data.admin.ch/eli/oc/2020/98)), du 27 mai 2020 ([RO 2020 2539](https://fedlex.data.admin.ch/eli/oc/2020/464)), le ch. II al. 3 de l’O du DFI du 30 nov. 2020 ([RO 2020 6327](https://fedlex.data.admin.ch/eli/oc/2020/1033)), le ch. I de l’O du DFI du 30 nov. 2020 ([RO 2020 6337](https://fedlex.data.admin.ch/eli/oc/2020/1034)), le ch. II al. 2 de l’O du DFI du 8 juin 2021 ([RO 2021 392](https://fedlex.data.admin.ch/eli/oc/2021/392)), le ch. I des O du DFI des 8 juin 2021 ([RO 2021 393](https://fedlex.data.admin.ch/eli/oc/2021/393), [394](https://fedlex.data.admin.ch/eli/oc/2021/394), [395](https://fedlex.data.admin.ch/eli/oc/2021/395)), le ch. II al. 3 de l’O du DFI du 1<sup>er</sup> déc. 2021 ([RO 2021 885](https://fedlex.data.admin.ch/eli/oc/2021/885)), le ch. I de l’O du DFI du 1<sup>er</sup> déc. 2021 ([RO 2021 887](https://fedlex.data.admin.ch/eli/oc/2021/887)), le ch. II al. 2 de l’O du DFI du 2 juin 2022 ([RO 2022 369](https://fedlex.data.admin.ch/eli/oc/2022/369)), le ch. I des O du DFI du 2 juin 2022 ([RO 2022 370](https://fedlex.data.admin.ch/eli/oc/2022/370)), du 1<sup>er</sup> sept. 2022 ([RO 2022 527](https://fedlex.data.admin.ch/eli/oc/2022/527)), le ch. II des O du DFI du 28 nov. 2022 ([RO 2022 840](https://fedlex.data.admin.ch/eli/oc/2022/840)), du 16 juin 2023 ([RO 2023 313](https://fedlex.data.admin.ch/eli/oc/2023/313)), du 29 nov. 2023 ([RO 2023 807](https://fedlex.data.admin.ch/eli/oc/2023/807)), du 17 juin 2024 ([RO 2024 303](https://fedlex.data.admin.ch/eli/oc/2024/303)), du 29 nov. 2024 ([RO 2024 788](https://fedlex.data.admin.ch/eli/oc/2024/788)), du 4 juin 2025 ([RO 2025 419](https://fedlex.data.admin.ch/eli/oc/2025/419)) et du 2 déc. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 851](https://fedlex.data.admin.ch/eli/oc/2025/851), [852](https://fedlex.data.admin.ch/eli/oc/2025/852)).
-[^annex2-lvlu1-1]: Le contenu de l’annexe est publié dans le RO et le RS uniquement sous forme de renvoi. Il peut être consulté à l’adresse suivante: https://fedlex.data.admin.ch/eli/oc/2025/851 &gt; Informations générales &gt; Étendue de la publication &gt; Publication sous la forme d’un renvoi.
+[^annex2-lvlu1-1]: Le contenu de l’annexe est publié dans le RO et le RS uniquement sous forme de renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2025/851](https://fedlex.data.admin.ch/eli/oc/2025/851) &gt; Informations générales &gt; Étendue de la publication &gt; Publication sous la forme d’un renvoi.
 
 Annexe 3[^t-5]
 

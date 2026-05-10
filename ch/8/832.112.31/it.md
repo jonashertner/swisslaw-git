@@ -4,11 +4,11 @@ title: "Ordinanza del DFI del 29 settembre 1995 sulle prestazioni dell'assicuraz
 short: OPre
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/4964_4964_4964"
 language: it
-version: 2026-01-01
+version: 2026-05-11
 adopted: 1995-09-29
 in_force: 1996-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4964_4964_4964/20260101/it/xml/fedlex-data-admin-ch-eli-cc-1995-4964_4964_4964-20260101-it-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/4964_4964_4964/20260101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4964_4964_4964/20260511/it/xml/fedlex-data-admin-ch-eli-cc-1995-4964_4964_4964-20260511-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/4964_4964_4964/20260511/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/4964_4964_4964/20260101/it"
 
 (Ordinanza sulle prestazioni, OPre)[^t-1]
 
-del 29 settembre 1995 (Stato 1° gennaio 2026)
+del 29 settembre 1995 (Stato 11 maggio 2026)
 
 [^t-1]: Nuovo testo giusta la cifra I dellʼO del DFI del 7 ott. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3670](https://fedlex.data.admin.ch/eli/oc/2002/562)).
 
@@ -775,7 +775,7 @@ L’assicurazione assume i costi delle seguenti vaccinazioni profilattiche secon
 - q. vaccinazione contro l’herpes zoster;
 - r. vaccinazione contro l’mpox;
 - s. vaccinazione contro i rotavirus;
-- t. vaccinazione contro il virus respiratorio sinciziale (RSV).
+- t.[^12a-3] vaccinazione contro il virus respiratorio sinciziale (RSV).
 
 <sup>2</sup>
 
@@ -793,6 +793,7 @@ Per le vaccinazioni l’assicurazione assume i costi della consulenza vaccinale 
 
 [^12a-1]: Introdotto dalla cifra I dellʼO del DFI del 21 nov. 2007 ([RU 2007 6839](https://fedlex.data.admin.ch/eli/oc/2007/882)). Nuovo testo giusta la cifra I dellʼO del DFI del 2 dic. 2025, in vigore dal 1° gen. 2026 ([RU 2025 851](https://fedlex.data.admin.ch/eli/oc/2025/851)).
 [^12a-2]: Il documento può essere consultato al seguente indirizzo: [www.ufsp.admin.ch/rif](https://www.bag.admin.ch/it/documenti-di-riferimento-relativi-allordinanza-sullassicurazione-malattie-oamal-e-allordinanza-sulle-prestazioni-opre-con-i-suoi-allegati).
+[^12a-3]: La correzione dell’11 mag. 2026 concerne soltanto il testo tedesco ([RU 2026 209](https://fedlex.data.admin.ch/eli/oc/2026/209)).
 
 #### Art. 12b
 
