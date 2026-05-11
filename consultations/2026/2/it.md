@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Accordo tra il Consiglio federale svizzero e il Governo del Principato del Liechtenstein sul riconoscimento reciproco degli attestati di maturità professionale
 document: Progetto posto in consultazione
 language: it

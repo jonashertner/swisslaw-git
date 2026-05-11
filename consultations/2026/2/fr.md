@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Accord entre le Conseil fédéral suisse et le gouvernement de la Principauté du Lichtenstein sur la reconnaissance mutuelle des certificats de maturité professionnelle
 document: Projet mis en consultation
 language: fr

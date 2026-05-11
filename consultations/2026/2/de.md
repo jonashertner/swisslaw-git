@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Abkommen zwischen dem Schweizerischen Bundesrat und der Regierung des Fürstentums Liechtenstein über die gegenseitige Anerkennung von Berufsmaturitätszeugnissen
 document: Vernehmlassungsvorlage
 language: de
