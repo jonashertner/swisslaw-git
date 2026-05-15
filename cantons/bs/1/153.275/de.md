@@ -4,13 +4,12 @@ number: "153.275"
 title: Verordnung über den Einsatz von unbemannten Luftfahrzeugen bei der Kantonspolizei als Pilotversuch
 short: Drohnenverordnung
 language: de
-version: 2024-05-15
-valid_until: 2026-05-15
-version_adopted: 2024-04-30
+version: 2026-05-16
+version_adopted: 2026-04-14
 adopted: 2024-04-30
 in_force: 2024-05-15
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/153.275"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6289/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6804/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ Regierung und Verwaltung / Verwaltungsgebühren
 
 (Drohnenverordnung)
 
-Vom 30. April 2024 (Stand 15. Mai 2024)
+Vom 30. April 2024 (Stand 16. Mai 2026)
 
 Der Regierungsrat des Kantons Basel-Stadt,
 
@@ -78,7 +77,7 @@ beschliesst:
 
 **Anordnungskompetenz**
 
-<sup>1</sup> Jeder Einsatz eines unbemannten Luftfahrzeuges muss vorgängig durch eine Dienstoffizierin bzw. einen Dienstoffizier angeordnet werden.
+<sup>1</sup> Jeder Einsatz eines unbemannten Luftfahrzeuges muss vorgängig durch die zuständige Einsatzleitung angeordnet werden.
 
 <sup>2</sup> Die Anordnung umfasst mindestens den Einsatzzweck nach § 2, und die voraussichtliche Dauer des Einsatzes sowie die Art der Bild- und Tonaufnahmen nach § 9. Erfolgt während eines Einsatzes eine Änderung des Einsatzzwecks, wird diese Änderung protokolliert.
 
@@ -180,7 +179,7 @@ beschliesst:
 
 **Dauer des Pilotversuches**
 
-<sup>1</sup> Der Pilotversuch dauert vom 15. Mai 2024 bis zum 15. Mai 2026.
+<sup>1</sup> Der Pilotversuch dauert bis zum 15. Mai 2029.
 
 #### § 16
 
@@ -190,6 +189,6 @@ beschliesst:
 
 *Schlussbestimmung*
 
-Diese Verordnung ist zu publizieren; sie tritt am 15. Mai 2024 in Kraft und ist bis zum 15. Mai 2026 befristet.
+Diese Änderung ist zu publizieren; sie tritt am 16. Mai 2026 in Kraft und ist bis zum 15. Mai 2029 befristet.
 
 KB 11.05.2024
