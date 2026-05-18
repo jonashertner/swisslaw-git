@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Modifica dell’ordinanza riguardante l’inventario federale degli insediamenti svizzeri da proteggere (OISOS) e dell’ordinanza sulla pianificazione del territorio (OPT)
 document: Progetto posto in consultazione
 language: it

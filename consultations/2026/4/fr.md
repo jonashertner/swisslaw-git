@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Modification de l’ordonnance concernant l’Inventaire fédéral des sites construits à protéger en Suisse (OISOS) et de l’ordonnance sur l’aménagement du territoire (OAT)
 document: Projet mis en consultation
 language: fr

@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Änderung der Verordnung über das Bundesinventar der schützenswerten Ortsbilder der Schweiz ISOS (VISOS) und der Raumplanungsverordnung (RPV)
 document: Vernehmlassungsvorlage
 language: de
