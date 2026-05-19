@@ -3,11 +3,11 @@ sr: "0.730.0"
 title: "Vertrag vom 17. Dezember 1994 über die Energiecharta (mit Anlagen, Beschlüssen und Schlussakte)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1998/2734_2734_2734"
 language: de
-version: 2025-10-22
+version: 2026-05-20
 adopted: 1994-12-17
 in_force: 1998-04-16
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2734_2734_2734/20251022/de/xml/fedlex-data-admin-ch-eli-cc-1998-2734_2734_2734-20251022-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1998/2734_2734_2734/20251022/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2734_2734_2734/20260520/de/xml/fedlex-data-admin-ch-eli-cc-1998-2734_2734_2734-20260520-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1998/2734_2734_2734/20260520/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -20,7 +20,7 @@ Originaltext
 
 Abgeschlossen in Lissabon am 17. Dezember 1994 Von der Bundesversammlung genehmigt am 14. Dezember 1995[^t-1] Schweizerische Ratifikationsurkunde hinterlegt am 19. September 1996 In Kraft getreten für die Schweiz am 16. April 1998
 
-(Stand am 22. Oktober 2025)
+(Stand am 20. Mai 2026)
 
 [^t-1]: [AS 1998 2733](https://fedlex.data.admin.ch/eli/oc/1998/2733_2733_2733)
 
@@ -2248,7 +2248,7 @@ Eine Investition eines Investors nach Artikel 1 Nummer 7 Buchstabe a Ziffer ii e
 
 [^annex19T-lvlu3-1]
 
-[^annex19T-lvlu3-1]: Bereinigt gemäss Art. 1 Ziff. I 1 und 3, Ziff. II 1–7 und IV der Änd. vom 3. Dez. 2024, in Kraft seit 3. Dez. 2024 ([AS 2026 145](https://fedlex.data.admin.ch/eli/oc/2026/145)).
+[^annex19T-lvlu3-1]: Bereinigt gemäss Art. 1 Ziff. I, II und IV der Änd. vom 3. Dez. 2024, in Kraft seit 3. Dez. 2024 ([AS 2026 145](https://fedlex.data.admin.ch/eli/oc/2026/145)).
 
 I. Die abschliessende Plenarsitzung der Europäischen Energiechartakonferenz fand vom 16. bis 17. Dezember 1994 in Lissabon statt. Teilnehmer an der Konferenz waren die Vertreter der Republik Albanien, der Republik Armenien, Australiens, der Republik Österreich, der Aserbaidschanischen Republik, des Königreichs Belgien, der Republik Belarus, der Republik Bulgarien, Kanadas, der Republik Kroatien, der Republik Zypern, der Tschechischen Republik, des Königreichs Dänemark, der Republik Estland, der Europäischen Gemeinschaften, der Republik Finnland, der Französischen Republik, der Republik Georgien, der Bundesrepublik Deutschland, der Griechischen Republik, der Republik Ungarn, der Republik Island, Irlands, der Italienischen Republik, Japans, der Republik Kasachstan, der Kirgisischen Republik, der Republik Lettland, des Fürstentums Liechtenstein, der Republik Litauen, des Grossherzogtums Luxemburg, der Republik Malta, der Republik Moldau, des Königreichs der Niederlande, des Königreichs Norwegen, der Republik Polen, der Portugiesischen Republik, Rumäniens, der Russischen Föderation, der Slowakischen Republik, der Republik Slowenien, des Königreichs Spanien, des Königreichs Schweden, der Schweizerischen Eidgenossenschaft, der Republik Tadschikistan, der Republik Türkei, Turkmenistans, der Ukraine, des Vereinigten Königreichs Grossbritannien und Nordirland, der Vereinigten Staaten von Amerika und der Republik Usbekistan (im folgenden als «Vertreter» bezeichnet); ferner nahmen eingeladene Beobachter aus verschiedenen Ländern sowie von internationalen Organisationen teil.
 
@@ -2274,12 +2274,19 @@ III. Als Ergebnis ihrer Überlegungen verabschiedete die Europäische Energiecha
 
 ### Klarstellungen
 
+[^annex19T-lvlu3-lvlu3-1]
+
+[^annex19T-lvlu3-lvlu3-1]: Infolge des Inkrafttretens der Änd. vom 3. Dez. 2024 ([AS 2026 145](https://fedlex.data.admin.ch/eli/oc/2026/145)) ist die Nummerierung der Klarstellungen nicht mehr fortlaufend. Sie wird wieder harmonisiert sein nach dem Inkrafttreten der anderen Änd. vom 3. Dez. 2024.
+
 IV. Mit der Unterzeichnung der Schlussakte einigten sich die Vertreter darauf, die folgenden Klarstellungen zum Vertrag zu verabschieden:
 
 \1. Zum Vertrag als Ganzes
 
 - a) Die Vertreter unterstreichen, dass die Bestimmungen des Vertrags im Bewusstsein der besonderen Natur des Vertrags vereinbart wurden, der einen Rechtsrahmen zur Förderung langfristiger Zusammenarbeit in einem bestimmten Bereich bilden soll, und demzufolge nicht als Präzedenzfall im Zusammenhang mit anderen internationalen Verhandlungen ausgelegt werden können.
-- b) Die Bestimmungen des Vertrags
+- b)
+
+  Die Bestimmungen des Vertrags:
+
   - i) verpflichten eine Vertragspartei nicht, den zwingenden Zugang Dritter einzuführen;
   - ii) verhindern nicht die Verwendung von Preissystemen, die innerhalb einer bestimmten Verbrauchergruppe identische Preise für Kunden an verschiedenen Standorten anwenden.
 
@@ -2298,7 +2305,7 @@ IV. Mit der Unterzeichnung der Schlussakte einigten sich die Vertreter darauf, d
   - iv) Beseitigung und Endlagerung von Abfällen aus energietechnischen Einrichtungen wie Kraftwerken, einschliesslich radioaktiver Abfälle aus Kernkraftwerken;
   - v) Stilllegung energietechnischer Einrichtungen einschliesslich Bohrplattformen, Ölraffinerien und Kraftwerken;
   - vi) Vermarktung und Verkauf von Primärenergieträgern und Energieerzeugnissen sowie Handel damit, beispielsweise Benzinverkauf an Endverbraucher;
-  - vii) Forschungs-, Beratungs-, Planungs-, Geschäftsführungs- und Entwicklungsarbeiten im Zusammenhang mit den genannten Tätigkeiten, einschliesslich solcher zur Verbesserung der Energieeffizienz gemäss Artikel 19 Absatz 7[^annex19T-lvlu3-lvlu3-1] Buchstabe c.
+  - vii) Forschungs-, Beratungs-, Planungs-, Geschäftsführungs- und Entwicklungsarbeiten im Zusammenhang mit den genannten Tätigkeiten, einschliesslich solcher zur Verbesserung der Energieeffizienz gemäss Artikel 19 Absatz 7[^annex19T-lvlu3-lvlu3-2] Buchstabe c.
 
 \3. Zu Artikel 1 Nummer 6
 
@@ -2353,9 +2360,21 @@ Jede Vertragspartei entscheidet selbst, in welchem Umfang die Bewertung und Übe
 
 Hinsichtlich des unter Artikel 29 fallenden Handels mit Primärenergieträgern und Energieerzeugnissen legt jener Artikel die einschlägigen Bestimmungen für die in den Artikeln 22 und 23 geregelten Angelegenheiten fest.
 
+14.[^annex19T-lvlu3-lvlu3-3] Zu Artikel 34
+
+Die Chartakonferenz soll den jährlichen Haushalt vor Beginn des Haushaltsjahrs beschliessen.
+
 \15. Zu Artikel 24
 
 Die im GATT und in den dazugehörigen Rechtsakten enthaltenen Ausnahmen gelten, wie in Artikel 4 anerkannt, zwischen bestimmten Vertragsparteien, die Vertragsparteien des GATT sind. Hinsichtlich des unter Artikel 29 fallenden Handels mit Primärenergieträgern und Energieerzeugnissen legt jener Artikel die einschlägigen Bestimmungen für die in Artikel 24 geregelten Angelegenheiten fest.
+
+15.[^annex19T-lvlu3-lvlu3-4] Klarstellung zu Artikel 32 Absatze 6 und 7[^annex19T-lvlu3-lvlu3-5] und zu Artikel 34 Absatz 3 Buchstabe o
+
+Die Chartakonferenz prüft jährlich die Möglichkeit, Energieerzeugnisse oder energiebezogene Ausrüstung aus den Anlagen EM I und EQ I in die Anlagen EM II und EQ II zu übernehmen.
+
+15.[^annex19T-lvlu3-lvlu3-6] Zu Artikel 34 Absatz 3 Buchstabe m
+
+Die technischen Änderungen der Anlagen könnten zum Beispiel die Streichung von Nichtunterzeichnern oder von Unterzeichnern, die ihre Absicht bekundet haben, nicht zu ratifizieren, aus der Liste beziehungsweise Erweiterungen der Anlagen N und VC umfassen. Es wird erwartet, dass derartige Änderungen im gegebenen Fall der Chartakonferenz vom Sekretariat vorgeschlagen werden.
 
 \16. Zu Artikel 26 Absatz 2 Buchstabe a
 
@@ -2374,21 +2393,16 @@ Die Bezugnahme auf vertragliche Verpflichtungen im vorletzten Satz des Artikels 
 
 Die vorläufige Chartakonferenz soll zum frühestmöglichen Zeitpunkt entscheiden, wie das Ziel des Titels III der Europäischen Energiecharta am besten zu verwirklichen ist, nämlich dass Protokolle in Bereichen der Zusammenarbeit, wie sie unter Titel III der Charta aufgeführt sind, ausgehandelt werden.
 
-\20. Zu Artikel 34
-
-- a) Der vorläufige Generalsekretär sollte sich umgehend mit anderen internationalen Gremien in Verbindung setzen, um festzustellen, unter welchen Bedingungen diese bereit wären, aus dem Vertrag und der Charta entstehende Aufgaben zu übernehmen. Der vorläufige Generalsekretär könnte der vorläufigen Chartakonferenz auf der Sitzung, die nach Artikel 45 Absatz 4 spätestens 180 Tage nach dem Tag einzuberufen ist, an dem der Vertrag zur Unterzeichnung aufgelegt wird, Bericht erstatten.
-- b) Die Chartakonferenz soll den jährlichen Haushalt vor Beginn des Haushaltsjahrs beschliessen.
-
-\21. Zu Artikel 34 Absatz 3 Buchstabe m
-
-Die technischen Änderungen der Anlagen könnten zum Beispiel die Streichung von Nichtunterzeichnern oder von Unterzeichnern, die ihre Absicht bekundet haben, nicht zu ratifizieren, aus der Liste beziehungsweise Erweiterungen der Anlagen N und VC umfassen. Es wird erwartet, dass derartige Änderungen im gegebenen Fall der Chartakonferenz vom Sekretariat vorgeschlagen werden.
-
 \22. Zu Anlage TFU Absatz 1
 
 - a) Haben einige Vertragsparteien einer in Absatz 1 genannten Übereinkunft den Vertrag nicht innerhalb der für die Notifikation vorgeschriebenen Frist unterzeichnet oder sind sie ihm nicht entsprechend beigetreten, so können diejenigen Vertragsparteien der Übereinkunft, die den Vertrag unterzeichnet haben oder ihm beigetreten sind, in ihrem Namen notifizieren.
 - b) Die Notwendigkeit, Übereinkünfte rein kommerziellen Charakters generell zu notifizieren, wird nicht ins Auge gefasst, weil derartige Übereinkünfte nicht die Frage der Einhaltung des Artikels 29 Absatz 2 Buchstabe a aufwerfen dürften, selbst wenn sie von staatlichen Stellen geschlossen werden. Die Chartakonferenz könnte indessen für Zwecke der Anlage TFU klären, welche Arten von Übereinkünften nach Artikel 29 Absatz 2 Buchstabe b notifiziert werden müssen und welche nicht.
 
-[^annex19T-lvlu3-lvlu3-1]: Aktuell: Art. 19 Abs. 3 Bst. c
+[^annex19T-lvlu3-lvlu3-2]: Aktuell: Art. 19 Abs. 3 Bst. c
+[^annex19T-lvlu3-lvlu3-3]: Ursprünglich: Ziffer 20.
+[^annex19T-lvlu3-lvlu3-4]: Ursprünglich: Klarstellung 3 der Schlussakte vom 24. April 1998 der internationalen Konferenz und Beschluss der Energiechartakonferenz über die Änderung der Handelsbestimmungen des Vertrags über die Energiecharta.
+[^annex19T-lvlu3-lvlu3-5]: Aktuell: Art. 29 Abs. 6 und 7
+[^annex19T-lvlu3-lvlu3-6]: Ursprünglich: Ziffer 21.
 
 ### Erklärungen
 
@@ -2442,15 +2456,50 @@ Geschehen zu Lissabon am 17. Dezember 1994.
 
 (Es folgen die Unterschriften)
 
-## Vorläufige Anwendung
+## Schlussakte der internationalen Konferenz und Beschluss der Energiechartakonferenz über die Änderung der Handelsbestimmungen des Vertrags über die Energiecharta
 
 [^annex19T-lvlu4-1]
 
-[^annex19T-lvlu4-1]: Eingefügt durch Art. 6 der Änd. vom 24. April 1998, in Kraft seit 21. Jan. 2010 ([AS 2010 3461](https://fedlex.data.admin.ch/eli/oc/2010/489)).
+[^annex19T-lvlu4-1]: Eingefügt durch Berichtigung vom 20. Mai 2026 der Änd. vom 24. April 1998 (AS **20****10** 3461; **2026** 228). Bereinigt gemäss Art. 1 Ziff. I 19 und II 8 der Änd. vom 3. Dez. 2024, in Kraft seit 3. Dez. 2024 ([AS 2026 145](https://fedlex.data.admin.ch/eli/oc/2026/145)).
+
+### Klarstellungen
+
+Im Hinblick auf die Änderung wurden folgende Klarstellungen angenommen:
+
+\1. Klarstellung zu Artikel 29 Absatz 2 Buchstabe a und Anlage W
+
+Unbeschadet der Aufnahme des Artikels XXIV Absatz 6 GATT 1994 in Anlage W unter Buchstabe A Nummer 1 Buchstabe a Ziffer i ist jeder Unterzeichner, der von einer Erhöhung der bei oder im Zusammenhang mit der Einfuhr oder Ausfuhr erhobenen Zolle oder sonstigen Abgaben im Sinne des Artikels XXIV Absatz 6 Satz 1 GATT 1994 betroffen ist, berechtigt, Konsultationen in der Chartakonferenz zu beantragen.
+
+\2. Klarstellung zu Artikel 29 Absatz 7
+
+lm Falle eines in Anlage BR oder Anlage BRQ oder in beiden Anlagen aufgeführten Unterzeichners, der nicht Mitglied der WTO ist, gilt ein im Verfahren seines Beitritts zur WTO formlich angebotenes Zugeständnis hinsichtlich der in Anlage EM II aufgeführten Energieerzeugnisse oder der in Anlage EQ II aufgeführten energiebezogenen Ausrüstung für die Zwecke dieses Artikels als Verpflichtung im Rahmen des WTO-Übereinkommens.
+
+### Erklärungen
+
+Im Hinblick auf die Änderung wurden folgende Erklärungen abgegeben:
+
+Gemeinsame Erklärung zu den handelsbezogenen Rechten an geistigem Eigentum
+
+Die Unterzeichner bestätigen ihre Zusage, die handelsbezogenen Rechte an geistigem Eigentum nach den strengsten internationalen Normen wirksam zu schützen.
+
+Für die Zwecke dieser Erklärung gehören zu den Rechten an geistigem Eigentum insbesondere Urheberrechte und verwandte Schutzrechte (einschliesslich Computerprogramme und Datenbanken), Marken, geographische Angaben, Patente, gewerbliche Muster und Modelle, Topographien von Halbleitererzeugnissen und nicht offenbare lnformationen.
+
+Gemeinsame Erklärung der Russischen Föderation und der Europäischen Union
+
+…
+
+## Vorläufige Anwendung
+
+[^annex19T-lvlu5-1]
+
+[^annex19T-lvlu5-1]: Eingefügt durch Art. 6 der Änd. vom 24. April 1998, in Kraft seit 21. Jan. 2010 ([AS 2010 3461](https://fedlex.data.admin.ch/eli/oc/2010/489)).
 
 (1) Die Unterzeichner, die nach Artikel 45 Absatz 1 den Vertrag über die Energiecharta vorläufig anwenden, und die Vertragsparteien sind damit einverstanden, diese Änderung bis zu ihrem Inkrafttreten für diese Unterzeichner und Vertragsparteien vorläufig anzuwenden, soweit der vorläufigen Anwendung nicht ihre Verfassung, Gesetze oder sonstige Vorschriften entgegenstehen
 
-- (2) a) Unbeschadet des Absatzes 1
+- (2) a)
+
+  Unbeschadet des Absatzes 1:
+
   - i) können die Unterzeichner, die den Vertrag über die Energiecharta vorläufig anwenden, und die Vertragsparteien innerhalb von 90 Tagen nach Annahme dieser Änderung durch die Chartakonferenz gegenüber dem Verwahrer die Erklärung abgeben, dass sie nicht in der Lage sind, der vorläufigen Anwendung dieser Änderung zuzustimmen;
   - ii) können die Unterzeichner, die nach Artikel 45 Absatz 2 den Vertrag über die Energiecharta nicht vorläufig anwenden, bis zu dem Zeitpunkt, zu dem sie Vertragspartei werden oder mit der vorläufigen Anwendung des Vertrags beginnen, gegenüber dem Verwahrer die Erklärung abgeben, dass sie nicht in der Lage sind, der vorläufigen Anwendung dieser Änderung zuzustimmen.
 
@@ -2461,11 +2510,25 @@ Geschehen zu Lissabon am 17. Dezember 1994.
 
 ## Status der Beschlüsse
 
-[^annex19T-lvlu5-1]
+[^annex19T-lvlu6-1]
 
-[^annex19T-lvlu5-1]: Eingefügt durch Art. 7 der Änd. vom 24. April 1998, in Kraft seit 21. Jan. 2010 ([AS 2010 3461](https://fedlex.data.admin.ch/eli/oc/2010/489)).
+[^annex19T-lvlu6-1]: Eingefügt durch Art. 7 der Änd. vom 24. April 1998, in Kraft seit 21. Jan. 2010 ([AS 2010 3461](https://fedlex.data.admin.ch/eli/oc/2010/489)).
 
 Die im Zusammenhang mit der Annahme dieser Änderung angenommenen Beschlüsse sind Bestandteil des Vertrags über die Energiecharta.
+
+## Beschlüsse im Zusammenhang mit der Annahme der Änderung der Handelsbestimmungen des Vertrags über die Energiecharta
+
+[^annex19T-lvlu7-1]
+
+[^annex19T-lvlu7-1]: Eingefügt durch Berichtigung vom 20. Mai 2026 der Änd. vom 24. April 1998 ([AS 2010 3461](https://fedlex.data.admin.ch/eli/oc/2010/489); [2026 228](https://fedlex.data.admin.ch/eli/oc/2026/228)).
+
+\1. Ein Unterzeichner, der die am 24. April 1998 angenommene Änderung nicht vorläufig anwendet, kann zu dem Zeitpunkt, zu dem er Schritte zur Anwendung oder zur vorläufigen Anwendung dieser Änderung unternimmt, dem Sekretariat schriftlich notifizieren, dass er die Änderung bis zu seiner Aufnahme in Anlage BR und Anlage BRQ so anwenden wird, als seien alle Energieerzeugnisse und alle energiebezogene Ausrüstung weiterhin in den Anlagen EM I und EQ I aufgeführt.
+
+Entsprechend findet die Änderung für diesen Unterzeichner Anwendung.
+
+Die Unterzeichner können die vorgenannte Notifikation durch schriftliche Erklärung gegenüber dem Sekretariat jederzeit zurücknehmen.
+
+\2. Die «Schlussbestimmungen» der Änderung sollen auf Teil VIII, insbesondere Artikel 42, des Vertrags über die Energiecharta beruhen, soweit einschlägig.
 
 Geltungsbereich am 2. Oktober 2025[^t-22]
 

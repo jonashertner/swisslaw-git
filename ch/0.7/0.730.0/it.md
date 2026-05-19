@@ -3,11 +3,11 @@ sr: "0.730.0"
 title: "Trattato del 17 dicembre 1994 sulla Carta dell'energia (con allegati, decisioni e atto finale)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1998/2734_2734_2734"
 language: it
-version: 2025-10-22
+version: 2026-05-20
 adopted: 1994-12-17
 in_force: 1998-04-16
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2734_2734_2734/20251022/it/xml/fedlex-data-admin-ch-eli-cc-1998-2734_2734_2734-20251022-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1998/2734_2734_2734/20251022/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2734_2734_2734/20260520/it/xml/fedlex-data-admin-ch-eli-cc-1998-2734_2734_2734-20260520-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1998/2734_2734_2734/20260520/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -20,7 +20,7 @@ Testo originale
 
 Concluso a Lisbona il 17 dicembre 1994 Approvato dall’Assemblea federale il 14 dicembre 1995[^t-1] Ratificato dalla Svizzera con strumento depositato il 19 settembre 1996 Entrato in vigore per la Svizzera il 16 aprile 1998
 
-(Stato 22 ottobre 2025)
+(Stato 20 maggio 2026)
 
 [^t-1]: [RU 1998 2733](https://fedlex.data.admin.ch/eli/oc/1998/2733_2733_2733)
 
@@ -2144,7 +2144,7 @@ Le seguenti disposizioni dell’accordo OMC non sono applicabili ai sensi dell�
 
 ## Misure transitorie delle Parti contraenti
 
-[^t-21]: Originario all. n. 14
+[^t-21]: Originario all. n. 14.
 
 (ai sensi dell’articolo 32, paragrafo 1)
 
@@ -2229,7 +2229,7 @@ Un investimento di un investitore di cui all’articolo 1 paragrafo 7 lettera a)
 
 [^annex19T-lvlu3-1]
 
-[^annex19T-lvlu3-1]: Aggiornato dall'art. 1 cifra I par. 1 e 3, cifra II par. 1–7 e cifra IV dell'emendamento del 3 dic. 2024, in vigore dal 3 dic. 2024 ([RU 2026 145](https://fedlex.data.admin.ch/eli/oc/2026/145)).
+[^annex19T-lvlu3-1]: Aggiornato dall’art. 1 cifra I, II e IV dell’emendamento del 3 dic. 2024, in vigore dal 3 dic. 2024 ([RU 2026 145](https://fedlex.data.admin.ch/eli/oc/2026/145)).
 
 I. La sessione plenaria finale della Conferenza della Carta europea dell’energia si è svolta a Lisbona il 16-17 dicembre 1994. Ad essa hanno partecipato rappresentanti de: la Repubblica di Albania, la Repubblica di Armenia, Australia, la Repubblica d’Austria, la Repubblica dell’Azerbaigian, il Regno del Belgio, la Repubblica di Bielorussia, la Repubblica di Bulgaria, il Canada, la Repubblica di Croazia, la Repubblica di Cipro, la Repubblica ceca, il Regno di Danimarca, la Repubblica di Estonia, le Comunità europee, la Repubblica di Finlandia, la Repubblica francese, la Repubblica di Georgia, la Repubblica federale tedesca, la Repubblica ellenica, la Repubblica di Ungheria, la Repubblica d’Islanda, Irlanda, la Repubblica italiana, il Giappone, la Repubblica del Kazakistan, la Repubblica del Kirghizistan, la Repubblica della Lettonia, il Principato di Liechtenstein, la Repubblica di Lituania, il Granducato del Lussemburgo, la Repubblica di Malta, la Repubblica di Moldavia, il Regno dei Paesi Bassi, il Regno di Norvegia, la Repubblica di Polonia, la Repubblica portoghese, la Romania, la Federazione russa, la Repubblica slovacca, la Repubblica di Slovenia, il Regno di Spagna, il Regno di Svezia, la Confederazione elvetica, la Repubblica del Tagikistan, la Repubblica di Turchia, il Turkmenistan, l’Ucraina, il Regno Unito, gli Stati Uniti d’America e la Repubblica dell’Uzbekistan (qui di seguito designati «i rappresentanti») nonché, osservatori di taluni Paesi e organizzazioni internazionali invitati.
 
@@ -2254,6 +2254,10 @@ I negoziati relativi al trattato sulla Carta dell’energia e al protocollo dell
 III. In esito delle sue deliberazioni, la Conferenza sulla Carta europea dell’energia ha adottato il testo del Trattato sulla Carta dell’energia (in appresso denominato il «Trattato») che figura nell’allegato 1 e delle decisioni al riguardo che figurano nell’allegato 2 e hanno convenuto che il Trattato sia aperto alla firma a Lisbona dal 17 dicembre 1994 al 16 giugno 1995.
 
 ### Clausole interpretative
+
+[^annex19T-lvlu3-lvlu3-1]
+
+[^annex19T-lvlu3-lvlu3-1]: A seguito dell’entrata in vigore dell’emendamento del 3 dic. 2024 ([RU 2026 145](https://fedlex.data.admin.ch/eli/oc/2026/145)), la numerazione delle clausole non è più continua né incoerente. Verrà armonizzata in un secondo momento, all’entrata in vigore delle altre mod. adottate il 3 dic. 2024.
 
 IV. Nel firmare l’Atto finale, i rappresentanti hanno convenuto di adottare relativamente al Trattato le clausole interpretative qui di seguito.
 
@@ -2282,7 +2286,7 @@ IV. Nel firmare l’Atto finale, i rappresentanti hanno convenuto di adottare re
   - iv) l’eliminazione e lo smaltimento di rifiuti dagli impianti connessi con la produzione di energia quali le centrali elettriche, compresi i residui radioattivi delle centrali elettronucleari;
   - v) lo smantellamento di impianti connessi con la produzione di energia, comprese piattaforme petrolifere, raffinerie di petrolio e impianti di generazione dell’energia;
   - vi) la commercializzazione e la vendita nonché gli scambi di materiali e prodotti energetici, ad esempio vendite al minuto di benzina; e
-  - vii) attività di ricerca, consulenza, pianificazione, gestione e progettazione connesse con le attività sopra menzionate, comprese quelle volte a migliorare l’efficienza energetica, come definito nell’articolo 19, paragrafo 7, lettera c)[^annex19T-lvlu3-lvlu3-1].
+  - vii) attività di ricerca, consulenza, pianificazione, gestione e progettazione connesse con le attività sopra menzionate, comprese quelle volte a migliorare l’efficienza energetica, come definito nell’articolo 19, paragrafo 7, lettera c)[^annex19T-lvlu3-lvlu3-2].
 
 \3. Articolo 1, paragrafo 6
 
@@ -2337,9 +2341,21 @@ Spetta a ciascuna Parte contraente decidere in che misura la valutazione e il mo
 
 Con riferimento agli scambi di materiali e progetti energetici disciplinati dall’articolo 29, detto articolo specifica le disposizioni pertinenti alle materie di cui agli articoli 22 e 23.
 
+14.[^annex19T-lvlu3-lvlu3-3] Articolo 34
+
+La Conferenza della Carta dovrebbe adottare il bilancio preventivo annuo prima dell’inizio dell’esercizio finanziario.
+
 \15. Articolo 24
 
 Le eccezioni contemplate nel GATT e negli atti correlati si applicano tra Parti contraenti particolari che sono membri del GATT, come riconosciuto dall’articolo 4. Per quanto riguarda gli scambi di materiali e prodotti energetici disciplinati dall’articolo 29, detto articolo specifica le disposizioni pertinenti alle materie di cui all’articolo 24.
+
+15.[^annex19T-lvlu3-lvlu3-4] Clausola interpretativa relativa all’articolo 32, paragrafi 6 e 7[^annex19T-lvlu3-lvlu3-5] e all’articolo 34, paragrafo 3, lettera o
+
+La Conferenza della Carta svolge una revisione annuale relativamente all’eventuale trasferimento di materiali e prodotti energetici o di attrezzature del settore energetico dagli allegati EM I o EQ I agli allegati EM II o EQ II.
+
+15.[^annex19T-lvlu3-lvlu3-6] Articolo 34, paragrafo 3, lettera m)
+
+I cambiamenti tecnici degli allegati possono ad esempio, comprendere l’eliminazione dall’elenco dei non firmatari o dei firmatari che hanno manifestato l’intenzione di non ratificare oppure aggiunte agli allegati N e VC. Resta inteso che il Segretariato proponga questi cambiamenti, ove opportuno, alla Conferenza della Carta.
 
 \16. Articolo 26, paragrafo 2, lettera a)
 
@@ -2358,21 +2374,16 @@ Il riferimento agli obblighi del Trattato nella penultima frase dell’articolo 
 
 La Conferenza provvisoria della Carta dovrebbe quanto prima decidere le migliori modalità per attuare l’obiettivo del titolo III della Carta europea dell’energia, cioè che i protocolli siano negoziati nei settori di cooperazione elencati al titolo III della Carta.
 
-\20. Articolo 34
-
-- a) Il Segretario Generale provvisorio dovrebbe mettersi immediatamente in contatto con altri organismi internazionali per appurare le condizioni alle quali essi possano accettare di svolgere dei compiti derivanti dal Trattato e dalla Carta. Il Segretario Generale provvisorio può riferirne alla Conferenza provvisoria della Carta nella riunione che, conformemente all’articolo 45, paragrafo 4, deve essere convocata non oltre 180 giorni dalla data di apertura alla firma del Trattato.
-- b) La Conferenza della Carta dovrebbe adottare il bilancio preventivo annuo prima dell’inizio dell’esercizio finanziario.
-
-\21. Articolo 34, paragrafo 3, lettera m)
-
-I cambiamenti tecnici degli allegati possono ad esempio, comprendere l’eliminazione dall’elenco dei non firmatari o dei firmatari che hanno manifestato l’intenzione di non ratificare oppure aggiunte agli allegati N e VC. Resta inteso che il Segretariato proponga questi cambiamenti, ove opportuno, alla Conferenza della Carta.
-
 \22. Allegato TFU, punto 1
 
 - a) Se alcune Parti di un accordo di cui al paragrafo 1 non hanno firmato o non hanno aderito al Trattato al momento previsto per la notifica, le Parti dell’accordo che hanno firmato o che hanno aderito al Trattato possono effettuare la notifica per proprio conto.
 - b) Non è prevista in generale la necessità di notificare accordi di natura puramente commerciale in quanto questi accordi non sollevano un problema di conformità rispetto all’articolo 29, paragrafo 2, lettera a) anche ove essi siano stati sottoscritti da agenzie statali. La Conferenza della Carta potrebbe tuttavia chiarire, ai fini dell’allegato TFU, quali tipi di accordi, cui si fa riferimento all’articolo 29, paragrafo 2, lettera b), necessitino o meno una notifica ai sensi dell’allegato.
 
-[^annex19T-lvlu3-lvlu3-1]: Attualmente art. 19 par. 3 lett. c).
+[^annex19T-lvlu3-lvlu3-2]: Attualmente art. 19 par. 3 lett. c).
+[^annex19T-lvlu3-lvlu3-3]: Originaria clausula 20.
+[^annex19T-lvlu3-lvlu3-4]: Originario clausola 3 dell’Atto finale della Conferenza internazionale e decisione della Conferenza della Carta dell’energia in merito all’emendamento delle disposizioni commerciali del trattato sulla Carta dell’energia.
+[^annex19T-lvlu3-lvlu3-5]: Attualmente art. 29 para. 6 e 7.
+[^annex19T-lvlu3-lvlu3-6]: Originaria clausula 20.
 
 ### Dichiarazioni
 
@@ -2427,11 +2438,43 @@ Fatto a Lisbona il diciassettesimo giorno del mese di dicembre dell’anno mille
 
 (Seguono le firme)
 
-## Applicazione provvisoria
+## Atto finale della Conferenza internazionale e decisione della Conferenza della Carta dell’energia in merito all’emendamento delle disposizioni commerciali del trattato sulla Carta dell’energia
 
 [^annex19T-lvlu4-1]
 
-[^annex19T-lvlu4-1]: Introdotta dall’art. 6 dell’emendamento del 24 apr. 1998, in vigore dal 21 gen. 2010 ([RU 2010 3461](https://fedlex.data.admin.ch/eli/oc/2010/489)).
+[^annex19T-lvlu4-1]: Introdotto dalla correzione del 20 mag. 2026 che corregge l’emendamento del 24 apr. 1998 ([RU 2010 3461](https://fedlex.data.admin.ch/eli/oc/2010/489); [2026 228](https://fedlex.data.admin.ch/eli/oc/2026/228)). Aggiornato dall’art. 1 cifra I para. 19 e II para. 8 dell’emendamento del 3 dic. 2024, in vigore dal 3 dic. 2024 ([RU 2026 145](https://fedlex.data.admin.ch/eli/oc/2026/145)).
+
+### Clausole interpretative
+
+Sono state adottate le seguenti clausole interpretative relative all’emendamento:
+
+\1. Clausola interpretativa relativa all’articolo 29, paragrafo 2, lettera a) e all’allegato W:
+
+Fatto salvo l’elenco di cui al paragrafo 6 dell’articolo XXIV del GATT 1994, riportato nell’allegato W, parte A, punto 1, lettera a), sottopunto i), ogni firmatario interessato da un aumento dei dazi doganali o di altri oneri di qualsiasi tipo in conseguenza di o in relazione all’importazione o all’esportazione di cui alla prima frase di detto paragrafo, è autorizzato a sollecitare consultazioni in seno alla Conferenza della Carta.
+
+\2. Clausola interpretativa relativa all’articolo 29, paragrafo 7:
+
+Nel caso di un firmatario non membro dell’OMC ed elencato nell’allegato BR, nell’allegato BRQ o in entrambi, ogni concessione offerta formalmente nel corso del processo di adesione all’OMC in merito ai materiali o ai prodotti energetici di cui all’allegato EM II o alle attrezzature del settore energetico di cui all’allegato EQ II sarà considerata, ai fini del presente articolo, un impegno a titolo dell’OMC.
+
+### Dichiarazioni
+
+Sono state fatte le seguenti dichiarazioni in merito all’emendamento:
+
+Dichiarazione congiunta sui di ritti di proprietà intellettuale attinenti al commercio
+
+I firmatari confermano il loro impegno ad assicurare un’effettiva protezione dei diritti di proprietà intellettuale secondo i più rigorosi criteri internazionali.
+
+Ai fini della presente dichiarazione, i diritti di proprietà intellettuale comprendono, in particolare, i diritti d’autore e i diritti connessi (compresi i programmi e le basi di dati informatici), i marchi di fabbrica, le indicazioni geografiche, i brevetti, i disegni e modelli, le topografie di prodotti a semiconduttori e le informazioni riservate.
+
+Dichiarazione congiunta della Federazione russa e dell’Unione europea
+
+...
+
+## Applicazione provvisoria
+
+[^annex19T-lvlu5-1]
+
+[^annex19T-lvlu5-1]: Introdotta dall’art. 6 dell’emendamento del 24 apr. 1998, in vigore dal 21 gen. 2010 ([RU 2010 3461](https://fedlex.data.admin.ch/eli/oc/2010/489)).
 
 \1. I firmatari che applicano temporaneamente il trattato sulla Carta dell’energia ai sensi dell’articolo 45, paragrafo 1, e le parti contraenti decidono di applicare la presente modifica provvisoriamente, in attesa della sua entrata in vigore nei rispettivi territori, nella misura in cui tale applicazione provvisoria non è incompatibile con la loro costituzione o le loro leggi e i loro regolamenti.
 
@@ -2449,11 +2492,25 @@ Fatto a Lisbona il diciassettesimo giorno del mese di dicembre dell’anno mille
 
 ## Situazione giuridica delle decisioni
 
-[^annex19T-lvlu5-1]
+[^annex19T-lvlu6-1]
 
-[^annex19T-lvlu5-1]: Introdotta dall’art. 7 dell’emendamento del 24 apr. 1998, in vigore dal 21 gen. 2010 ([RU 2010 3461](https://fedlex.data.admin.ch/eli/oc/2010/489)).
+[^annex19T-lvlu6-1]: Introdotta dall’art. 7 dell’emendamento del 24 apr. 1998, in vigore dal 21 gen. 2010 ([RU 2010 3461](https://fedlex.data.admin.ch/eli/oc/2010/489)).
 
 Le decisioni adottate in relazione all’adozione della presente modifica costituiscono parte integrante del trattato sulla Carta dell’energia.
+
+## Decisioni relative all’adozione dell’emendamento delle disposizioni commerciali del trattato sulla Carta dell’energia
+
+[^annex19T-lvlu7-1]
+
+[^annex19T-lvlu7-1]: Introdotto dalla correzione del 20 mag. 2026 che corregge l’emendamento del 24 apr. 1998 ([RU 2010 3461](https://fedlex.data.admin.ch/eli/oc/2010/489); [2026 228](https://fedlex.data.admin.ch/eli/oc/2026/228)).
+
+\1. I firmatari che non applicano provvisoriamente l’emendamento adottato il 24 aprile 1998 possono, quando intraprendono i passi per la sua applicazione definitiva o provvisoria, notificare per iscritto al Segretariato che, per tutto il tempo in cui resteranno iscritti negli elenchi degli allegati BR e BRQ, applicheranno la modifica come se tutte le voci concernenti i materiali, i prodotti energetici e le attrezzature del settore energetico figurassero ancora negli allegati EM I e EQ I.
+
+L’emendamento si applicherà di conseguenza a tali firmatari.
+
+Un firmatario può in qualsiasi momento ritirare la suddetta notifica mediante comunicazione scritta al Segretariato.
+
+\2. Le «Disposizioni finali» dell’emendamento sono basate sulla parte VIII, in particolare sull’articolo 42, del trattato sulla Carta dell’Energia, nella misura in cui è pertinente.
 
 Campo d’applicazione il 2 ottobre 2025[^t-22]
 

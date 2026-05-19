@@ -3,11 +3,11 @@ sr: "0.730.0"
 title: "Traité du 17 décembre 1994 sur la Charte de l'énergie (avec annexes, décisions et acte final)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1998/2734_2734_2734"
 language: fr
-version: 2025-10-22
+version: 2026-05-20
 adopted: 1994-12-17
 in_force: 1998-04-16
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2734_2734_2734/20251022/fr/xml/fedlex-data-admin-ch-eli-cc-1998-2734_2734_2734-20251022-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1998/2734_2734_2734/20251022/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2734_2734_2734/20260520/fr/xml/fedlex-data-admin-ch-eli-cc-1998-2734_2734_2734-20260520-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1998/2734_2734_2734/20260520/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -20,7 +20,7 @@ Texte original
 
 Conclu à Lisbonne le 17 décembre 1994 Approuvé par l’Assemblée fédérale le 14 décembre 1995[^t-1] Instrument de ratification déposé par la Suisse le 19 septembre 1996 Entré en vigueur pour la Suisse le 16 avril 1998
 
-(État le 22 octobre 2025)
+(État le 20 mai 2026)
 
 [^t-1]: [RO 1998 2733](https://fedlex.data.admin.ch/eli/oc/1998/2733_2733_2733)
 
@@ -2195,7 +2195,7 @@ Les investissements d’un investisseur visés à l’art. 1, par. 7, point a) i
 
 [^annex19T-lvlu3-1]
 
-[^annex19T-lvlu3-1]: Mis à jour par l’art. 1 ch. I par. 1 et 3, II par. 1 à 7 et IV de l’Am. du 3 déc. 2024, en vigueur depuis le 3 déc. 2024 ([RO 2026 145](https://fedlex.data.admin.ch/eli/oc/2026/145)).
+[^annex19T-lvlu3-1]: Mis à jour par l’art. 1 ch. I , II et IV de l’Am. du 3 déc. 2024, en vigueur depuis le 3 déc. 2024 ([RO 2026 145](https://fedlex.data.admin.ch/eli/oc/2026/145)).
 
 I. La dernière séance plénière de la Conférence sur la Charte européenne de l’énergie s’est tenue à Lisbonne les 16 et 17 décembre 1994. Les représentants de la République d’Albanie, de la République fédérale d’Allemagne, de la République d’Arménie, de l’Australie, de la République d’Autriche, de la République azerbaïdjanaise, du Royaume de Belgique, de la République du Belarus, de la République de Bulgarie, du Canada, de la République de Chypre, des Communautés européennes, de la République de Croatie, du Royaume de Danemark, des États-Unis d’Amérique, du Royaume d’Espagne, de la République d’Estonie, de la République de Finlande, de la République française, de la République de Géorgie, de la République hellénique, de la République de Hongrie, de l’Irlande, de la République de l’Islande, de la République italienne, du Japon, de la République du Kazakhstan, de la République kirghize, de la République de Lettonie, de la Principauté du Liechtenstein, de la République de Lituanie, du Grand-Duché de Luxembourg, de la République de Malte, de la République de Moldova, du Royaume de Norvège, de la République d’Ouzbékistan, du Royaume des Pays-Bas, de la République de Pologne, de la République portugaise, de la Roumanie, de la Fédération de Russie, de la République slovaque, de la République de Slovénie, du Royaume de Suède, de la Confédération suisse, de la République tchèque, de la République de Turquie, de la République du Tadjikistan, du Turkménistan, de l’Ukraine et du Royaume de Grande-Bretagne et d’Irlande du Nord, ci-après dénommés «représentants», ont participé à la Conférence, de même que des observateurs de certains pays et de certaines organisations internationales qui étaient invités à y prendre part.
 
@@ -2220,6 +2220,10 @@ Les négociations relatives au traité sur la Charte de l’énergie et le proto
 III. À l’issue de ses délibérations, la Conférence sur la Charte européenne de l’énergie a adopté le texte du traité sur la Charte de l’énergie, ci-après dénommé «traité», qui figure à l’annexe 1, ainsi que les décisions y relatives, qui figurent à l’annexe 2, et elle est convenue que le traité serait ouvert à la signature à Lisbonne du 17 décembre 1994 au 16 juin 1995.
 
 ### Clauses interprétatives
+
+[^annex19T-lvlu3-lvlu3-1]
+
+[^annex19T-lvlu3-lvlu3-1]: Suite à la mise en vigueur de l’Am. du 3 déc. 2024 ([RO 2026 145](https://fedlex.data.admin.ch/eli/oc/2026/145)), la numérotation des clauses n’est plus continue, voire incohérente: elle sera harmonisée ultérieurement, lors de l’approbation des autres mod. adoptées le 3 déc. 2024.
 
 IV. En signant l’Acte final, les représentants sont convenus d’adopter les clauses interprétatives suivantes concernant le traité:
 
@@ -2248,7 +2252,7 @@ IV. En signant l’Acte final, les représentants sont convenus d’adopter les 
   - iv) l’enlèvement et l’élimination des déchets provenant d’installations liées à l’énergie, telles que les centrales électriques, y compris les déchets radioactifs provenant des centrales nucléaires;
   - v) le déclassement des installations liées à l’énergie, y compris les plates-formes pétrolières, les raffineries de pétrole et les centrales électriques;
   - vi) la commercialisation, la vente et les échanges de matières et de produits énergétiques, par exemple la vente d’essence au détail, et
-  - vii) les activités de recherche, de conseil, de planification, de gestion et de conception liées aux activités mentionnées ci-dessus, y compris celles visant à améliorer l’efficacité énergétique, telles que définies à l’art. 19 par. 7 pt. c)[^annex19T-lvlu3-lvlu3-1].
+  - vii) les activités de recherche, de conseil, de planification, de gestion et de conception liées aux activités mentionnées ci-dessus, y compris celles visant à améliorer l’efficacité énergétique, telles que définies à l’art. 19, par. 7, pt. c)[^annex19T-lvlu3-lvlu3-2].
 
 \3. En ce qui concerne l’art. 1, point 6
 
@@ -2303,9 +2307,21 @@ Il appartient à chaque partie contractante de décider dans quelle mesure l’�
 
 Pour ce qui est des échanges de matières et de produits énergétiques régis par l’art. 29, celui-ci indique les dispositions relatives aux questions couvertes par les art. 22 et 23.
 
+14.[^annex19T-lvlu3-lvlu3-3] En ce qui concerne l’art. 34
+
+La Conférence de la Charte devrait adopter le budget annuel avant le début de l’exercice financier.
+
 \15. En ce qui concerne l’art. 24
 
 Les exceptions figurant dans le GATT et les instruments connexes s’appliquent entre les parties contractantes concernées qui sont parties au GATT, comme le reconnaît l’art. 4. Pour ce qui est des échanges de matières et des produits énergétiques régis par l’art. 29, celui-ci indique les dispositions relatives aux questions couvertes par l’art. 24.
+
+15.[^annex19T-lvlu3-lvlu3-4] Clause interprétative en ce qui concerne les art. 32, par. 6 et 7[^annex19T-lvlu3-lvlu3-5], et 34, par. 3, pt. o)
+
+La Conférence de la Charte procède à un examen annuel concernant la possibilité de transférer des éléments des annexes EM I (matières et produits énergétiques) ou EQ I (équipements liés à l’énergie) aux annexes EM II ou EQ II.
+
+15.[^annex19T-lvlu3-lvlu3-6] En ce qui concerne l’art. 34, par. 3, point m)
+
+Les modifications techniques des annexes pourraient inclure, par exemple, la radiation des pays non signataires ou signataires qui ont manifesté leur intention de ne pas ratifier, ou des additions aux annexes N et VC. Il est considéré que le Secrétariat devrait proposer ces modifications à la Conférence de la Charte au moment opportun.
 
 \16. En ce qui concerne l’art. 26, par. 2, point a)
 
@@ -2324,21 +2340,16 @@ La référence aux obligations conventionnelles faite dans l’avant-dernière p
 
 La Conférence provisoire de la Charte devrait, dès que possible, décider de la meilleure façon de donner effet au but du titre III de la Charte européenne de l’énergie, à savoir la négociation de protocoles dans des domaines de coopération tels que ceux énumérés au titre III de la Charte.
 
-\20. En ce qui concerne l’art. 34
-
-- a) Le Secrétaire général provisoire devrait prendre immédiatement contact avec les autres instances internationales afin de déterminer les conditions auxquelles elles seraient disposées à se charger de tâches découlant du traité et de la Charte. Il pourrait faire rapport à la Conférence provisoire de la Charte lors de la réunion qui, aux termes de l’art. 45, par. 4, doit être convoquée au plus tard 180 jours après la date d’ouverture à la signature du traité.
-- b) La Conférence de la Charte devrait adopter le budget annuel avant le début de l’exercice financier.
-
-\21. En ce qui concerne l’art. 34, par. 3, point m)
-
-Les modifications techniques des annexes pourraient inclure, par exemple, la radiation des pays non signataires ou signataires qui ont manifesté leur intention de ne pas ratifier, ou des additions aux annexes N et VC. Il est considéré que le Secrétariat devrait proposer ces modifications à la Conférence de la Charte au moment opportun.
-
 \22. En ce qui concerne l’annexe TFU par. 1
 
 - a) Si certaines des parties à un accord visé au par. 1 n’ont pas signé le traité ou n’y ont pas adhéré au moment requis pour la notification, les parties à l’accord qui ont signé le traité ou y ont adhéré peuvent faire une notification en leur nom.
 - b) Il n’est pas prévu qu’il sera nécessaire de notifier de façon générale les accords de nature purement commerciale étant donné que ces accords ne posent pas de problème de conformité avec l’art. 29, par. 2, point a), même lorsqu’ils sont conclus par des organismes publics. La Conférence de la Charte pourrait toutefois préciser, aux fins de l’annexe TFU, les types d’accords visés à l’art. 29, par. 2, point b), qui requièrent une notification en vertu de l’annexe et ceux qui n’en requièrent pas.
 
-[^annex19T-lvlu3-lvlu3-1]: Actuellement art. 19, par. 3, pt. c.
+[^annex19T-lvlu3-lvlu3-2]: Actuellement art. 19, par. 3, pt. c.
+[^annex19T-lvlu3-lvlu3-3]: Anciennement clause 20
+[^annex19T-lvlu3-lvlu3-4]: Anciennement clause 3 de l’Acte final de la Conférence internationale et décision de la Conférence sur la Charte de l’énergie relative à l’Amendement des dispositions commerciales du Traité sur la Charte de l’énergie.
+[^annex19T-lvlu3-lvlu3-5]: Actuellement art. 29, par. 6 et 7
+[^annex19T-lvlu3-lvlu3-6]: Anciennement clause 21
 
 ### Déclarations
 
@@ -2393,11 +2404,43 @@ Fait à Lisbonne, le 17 décembre 1994.
 
 (Suivent les signatures)
 
-## Application provisoire
+## Acte final de la Conférence internationale et décision de la Conférence sur la Charte de l’énergie relative à l’Amendement des dispositions commerciales du Traité sur la Charte de l’énergie
 
 [^annex19T-lvlu4-1]
 
-[^annex19T-lvlu4-1]: Introduit par l’art. 6 de l’Am. du 24 avril 1998, en vigueur depuis le 21 janv. 2010 ([RO 2010 3461](https://fedlex.data.admin.ch/eli/oc/2010/489)).
+[^annex19T-lvlu4-1]: Introduit par l’erratum du 20 mai 2026, corrigeant l’Am. du 24 avril 1998 ([RO 2010 3461](https://fedlex.data.admin.ch/eli/oc/2010/489); [2026 228](https://fedlex.data.admin.ch/eli/oc/2026/228)). Mis à jour par l’art. 1 ch. I par. 19 et II par. 8 de l’Am. du 3 déc. 2024, en vigueur depuis le 3 déc. 2024 ([RO 2026 145](https://fedlex.data.admin.ch/eli/oc/2026/145)).
+
+### Clauses interprétatives
+
+Les clauses interprétatives ci-après ont été adoptées à propos de l’amendement:
+
+\1. Clause interprétative relative à l’article 29, paragraphe 2, point a), et à l’annexe W
+
+Nonobstant la citation du paragraphe 6 de l’article XXIV du GATT 1994 à l’annexe W, partie A), point 1), a) i), tout signataire affecté par une augmentation des droits de douane ou d’autres taxes de quelque nature que ce soit appliqués ou liés à l’importation ou à l’exportation visée à la première phrase de ce paragraphe, est habilité à demander des consultations à la Conférence de la Charte.
+
+\2. Clause interprétative relative à l’article 29, paragraphe 7
+
+Dans le cas d’un signataire non membre de l’OMC qui figure à l’annexe BR ou BRQ ou aux deux, toute concession formellement offerte au cours de son accession à l’OMC et portant sur des matières et produits énergétiques énumérés à l’annexe EM II ou sur des équipements liés à l’énergie visés à l’annexe EQ II est considérée, aux fins de cet article, comme un engagement OMC.
+
+### Déclarations
+
+Les déclarations ci-après ont été formulées à propos de l’amendement:
+
+Déclaration commune sur les droits de propriété intellectuelle touchant au commerce
+
+Les signataires confirment qu’ils s’engagent à assurer une protection efficace des droits de propriété intellectuelle selon les normes internationales les plus élevées.
+
+Aux fins de la présente déclaration, les droits de propriété intellectuelle comprennent en particulier les droits d’auteur et les droits connexes (y compris les programmes et les bases de données informatiques,) les marques commerciales, les indications géographiques, les brevets, les dessins et modèles, les topographies des semi-conducteurs et les informations non divulguées).
+
+Déclaration commune de la Fédération de Russie et de l’Union européenne
+
+…
+
+## Application provisoire
+
+[^annex19T-lvlu5-1]
+
+[^annex19T-lvlu5-1]: Introduit par l’art. 6 de l’Am. du 24 avril 1998, en vigueur depuis le 21 janv. 2010 ([RO 2010 3461](https://fedlex.data.admin.ch/eli/oc/2010/489)).
 
 (1) Les signataires, qui appliquent provisoirement le traité sur la Charte de l’énergie conformément à l’art. 45, par. 1, et les parties contractantes conviennent d’appliquer la présente modification à titre provisoire, en attendant son entrée en vigueur en ce qui les concerne, dans la mesure où cette application provisoire n’est pas incompatible avec leur Constitution ou leurs lois et règlements.
 
@@ -2415,11 +2458,25 @@ Fait à Lisbonne, le 17 décembre 1994.
 
 ## Statut des décisions
 
-[^annex19T-lvlu5-1]
+[^annex19T-lvlu6-1]
 
-[^annex19T-lvlu5-1]: Introduit par l’art. 7 de l’Am. du 24 avril 1998, en vigueur depuis le 21 janv. 2010 ([RO 2010 3461](https://fedlex.data.admin.ch/eli/oc/2010/489)).
+[^annex19T-lvlu6-1]: Introduit par l’art. 7 de l’Am. du 24 avril 1998, en vigueur depuis le 21 janv. 2010 ([RO 2010 3461](https://fedlex.data.admin.ch/eli/oc/2010/489)).
 
 Les décisions adoptées en liaison avec l’adoption de la présente modification font partie intégrante du traité sur la Charte de l’énergie.
+
+## Décisions liées à l’adoption de l’amendement des dispositions commerciales du traité sur la Charte de l’énergie
+
+[^annex19T-lvlu7-1]
+
+[^annex19T-lvlu7-1]: Introduit par l’erratum du 20 mai 2026, corrigeant l’Am. du 24 avril 1998 ([RO 2010 3461](https://fedlex.data.admin.ch/eli/oc/2010/489); [2026 228](https://fedlex.data.admin.ch/eli/oc/2026/228)).
+
+\1. Un signataire qui n’applique pas provisoirement l’amendement adopté le 24 avril 1998 peut, au moment où il entreprend les démarches en vue de l’appliquer, que ce soit sur une base définitive ou provisoire, notifier par écrit au secrétariat que, jusqu’à ce qu’il figure dans les listes des annexes BR et BRQ, il appliquera l’amendement comme si tous les éléments des matières et produits énergétiques ou des équipements liés à l’énergie figuraient encore dans les annexes EM I et EQ I.
+
+L’amendement s’appliquera en conséquence à un tel signataire.
+
+Tout signataire peut à tout moment retirer la notification susmentionnée en l’adressant par écrit au secrétariat.
+
+\2. Les «Dispositions finales» de l’amendement sont fondées sur la partie VII du traité sur la Charte de l’énergie, notamment sur son article 42, dans la mesure où elle est pertinente.
 
 Champ d’application le 2 octobre 2025[^t-21]
 
