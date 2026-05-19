@@ -3,11 +3,11 @@ sr: "0.343"
 title: Übereinkommen vom 21. März 1983 über die Überstellung verurteilter Personen
 eli: "https://fedlex.data.admin.ch/eli/cc/1988/761_761_761"
 language: de
-version: 2020-05-05
+version: 2026-05-20
 adopted: 1983-03-21
 in_force: 1988-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/761_761_761/20200505/de/xml/fedlex-data-admin-ch-eli-cc-1988-761_761_761-20200505-de-xml-8.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1988/761_761_761/20200505/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/761_761_761/20260520/de/xml/fedlex-data-admin-ch-eli-cc-1988-761_761_761-20260520-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1988/761_761_761/20260520/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -20,7 +20,7 @@ AS **1988** 761; BBl **1986** III 769
 
 Abgeschlossen in Strassburg am 21. März 1983 Von der Bundesversammlung genehmigt am 18. Juni 1987[^t-1] Schweizerische Ratifikationsurkunde hinterlegt am 15. Januar 1988 In Kraft getreten für die Schweiz am 1. Mai 1988
 
-(Stand am 5. Mai 2020)
+(Stand am 20. Mai 2026)
 
 [^t-1]: [AS 1988 759](https://fedlex.data.admin.ch/eli/oc/1988/759_759_759)
 
@@ -334,7 +334,7 @@ Der Generalsekretär des Europarats notifiziert den Mitgliedstaaten des Europara
 
 *Zu Urkund dessen* haben die hiezu gehörig befugten Unterzeichneten dieses Übereinkommen unterschrieben. Geschehen zu Strassburg am 21. März 1983 in englischer und französischer Sprache, wobei jeder Wortlaut gleichermassen verbindlich ist, in einer Urschrift, die im Archiv des Europarats hinterlegt wird. Der Generalsekretär des Europarats übermittelt allen Mitgliedstaaten des Europarats, allen Staaten, die sich an der Ausarbeitung dieses Übereinkommens beteiligt haben, sowie allen zum Beitritt zu diesem Übereinkommen eingeladenen Staaten beglaubigte Abschriften. (Es folgen die Unterschriften)
 
-Geltungsbereich am 5. Mai 2020[^t-2]
+Geltungsbereich am 20. Mai 2026[^t-2]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -345,8 +345,9 @@ Geltungsbereich am 5. Mai 2020[^t-2]
 <tr><td>Australien</td><td>5. September</td><td>2002 B</td><td>1. Januar</td><td>2003</td></tr>
 <tr><td>Bahamas\*</td><td>12. November</td><td>1991 B</td><td>1. März</td><td>1992</td></tr>
 <tr><td>Belgien\*</td><td>6. August</td><td>1990</td><td>1. Dezember</td><td>1990</td></tr>
-<tr><td>Bolivien\*</td><td>26. Februar</td><td>2004 B</td><td>1. Juni</td><td>2004</td></tr>
+<tr><td>Bolivien\*</td><td>2. März</td><td>2004 B</td><td>1. Juni</td><td>2004</td></tr>
 <tr><td>Bosnien und Herzegowina</td><td>15. April</td><td>2005</td><td>1. August</td><td>2005</td></tr>
+<tr><td>Brasilien</td><td>26. Juni</td><td>2023 B</td><td>1. Oktober</td><td>2023</td></tr>
 <tr><td>Bulgarien\*</td><td>17. Juni</td><td>1994</td><td>1. Oktober</td><td>1994</td></tr>
 <tr><td>Chile</td><td>30. Juli</td><td>1998 B</td><td>1. November</td><td>1998</td></tr>
 <tr><td>Costa Rica</td><td>14. April</td><td>1998 B</td><td>1. August</td><td>1998</td></tr>
@@ -369,6 +370,7 @@ Geltungsbereich am 5. Mai 2020[^t-2]
 <tr><td>Italien\*</td><td>30. Juni</td><td>1989</td><td>1. Oktober</td><td>1989</td></tr>
 <tr><td>Japan\*</td><td>17. Februar</td><td>2003 B</td><td>1. Juni</td><td>2003</td></tr>
 <tr><td>Kanada</td><td>13. Mai</td><td>1985</td><td>1. September</td><td>1985</td></tr>
+<tr><td>Kirgisistan</td><td>22. April</td><td>2024 B</td><td>1. August</td><td>2024</td></tr>
 <tr><td>Korea (Süd-)\*</td><td>20. Juli</td><td>2005 B</td><td>1. November</td><td>2005</td></tr>
 <tr><td>Kroatien\*</td><td>25. Januar</td><td>1995 B</td><td>1. Mai</td><td>1995</td></tr>
 <tr><td>Lettland\*</td><td>2. Mai</td><td>1997</td><td>1. September</td><td>1997</td></tr>
@@ -423,11 +425,11 @@ Geltungsbereich am 5. Mai 2020[^t-2]
 <tr><td>Pitcairn-Inseln (Ducie, Oeno, Henderson und Pitcairn)\*</td><td>23. Januar</td><td>1987</td><td>1. Mai</td><td>1987</td></tr>
 <tr><td>St. Helena und Nebengebiete (Ascension und Tristan da Cunha)\*</td><td>23. Januar</td><td>1987</td><td>1. Mai</td><td>1987</td></tr>
 <tr><td>Zypern</td><td>18. April</td><td>1986</td><td>1. August</td><td>1986</td></tr>
-<tr><td colspan="5">\* Vorbehalte und Erklärungen. \*\* Einwendungen. Die Vorbehalte, Erklärungen und Einwendungen werden in der AS nicht veröffentlicht, mit Ausnahme der Vorbehalte und Erklärungen der Schweiz. Die französischen und englischen Texte können auf der Internetseite des Europarates: www.coe.int &gt; Deutsch &gt; Mehr &gt; Vertragsbüro &gt; Gesamtverzeichnis eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
+<tr><td colspan="5">\* Vorbehalte und Erklärungen. \*\* Einwendungen. Die Vorbehalte, Erklärungen und Einwendungen werden in der AS nicht veröffentlicht, mit Ausnahme der Vorbehalte und Erklärungen der Schweiz. Die französischen und englischen Texte können auf der Internetseite des Europarates: [www.coe.int](https://www.coe.int/de/web/conventions/home) &gt; Vertragsbüro &gt; Gesamtverzeichnis eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
 <tr><td colspan="5"><sup>a</sup> Datum der Hinterlegung der Ratifikationsurkunde durch die Tschechoslowakei.</td></tr>
 </table>
 
-[^t-2]: [AS 1988 761](https://fedlex.data.admin.ch/eli/oc/1988/761_761_761)[2074](https://fedlex.data.admin.ch/eli/oc/1988/2074_2074_2074), [1990 1068](https://fedlex.data.admin.ch/eli/oc/1990/1068_1068_1068), [1991 945](https://fedlex.data.admin.ch/eli/oc/1991/945_945_945), [2004 4305](https://fedlex.data.admin.ch/eli/oc/2004/647), [2007 1373](https://fedlex.data.admin.ch/eli/oc/2007/230), [2010 3455](https://fedlex.data.admin.ch/eli/oc/2010/486), [2016 2851](https://fedlex.data.admin.ch/eli/oc/2016/467), [2020 1565](https://fedlex.data.admin.ch/eli/oc/2020/313). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+[^t-2]: [AS 1988 761](https://fedlex.data.admin.ch/eli/oc/1988/761_761_761), [2074](https://fedlex.data.admin.ch/eli/oc/1988/2074_2074_2074); [1990 1068](https://fedlex.data.admin.ch/eli/oc/1990/1068_1068_1068); [1991 945](https://fedlex.data.admin.ch/eli/oc/1991/945_945_945); [2004 4305](https://fedlex.data.admin.ch/eli/oc/2004/647); [2007 1373](https://fedlex.data.admin.ch/eli/oc/2007/230); [2010 3455](https://fedlex.data.admin.ch/eli/oc/2010/486); [2016 2851](https://fedlex.data.admin.ch/eli/oc/2016/467); [2020 1565](https://fedlex.data.admin.ch/eli/oc/2020/313); [2026 245](https://fedlex.data.admin.ch/eli/oc/2026/245). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
 
 Vorbehalte und Erklärungen
 

@@ -3,11 +3,11 @@ sr: "0.343"
 title: Convenzione del 21 marzo 1983 sul trasferimento dei condannati
 eli: "https://fedlex.data.admin.ch/eli/cc/1988/761_761_761"
 language: it
-version: 2020-05-05
+version: 2026-05-20
 adopted: 1983-03-21
 in_force: 1988-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/761_761_761/20200505/it/xml/fedlex-data-admin-ch-eli-cc-1988-761_761_761-20200505-it-xml-8.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1988/761_761_761/20200505/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/761_761_761/20260520/it/xml/fedlex-data-admin-ch-eli-cc-1988-761_761_761-20260520-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1988/761_761_761/20260520/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -20,7 +20,7 @@ Traduzione
 
 Conclusa a Strasburgo il 21 marzo 1983 Approvata dall’Assemblea federale il 18 giugno 1987[^t-1] Istrumento di ratificazione depositato dalla Svizzera il 15 gennaio 1988 Entrata in vigore per la Svizzera il 1° maggio 1988
 
-(Stato 5 maggio 2020)
+(Stato 20 maggio 2026)
 
 [^t-1]: [RU 1988 759](https://fedlex.data.admin.ch/eli/oc/1988/759_759_759)
 
@@ -334,7 +334,7 @@ Il Segretario Generale del Consiglio d’Europa notifica agli Stati membri del C
 
 *In fede di che*, i sottoscritti, debitamente autorizzati a tal fine, hanno firmato la presente Convenzione. Fatto a Strasburgo, il 21 marzo 1983, in francese ed in inglese, i due testi facenti ugualmente fede, in un solo esemplare depositato negli archivi del Consiglio d’Europa. Il Segretario Generale del Consiglio d’Europa ne trasmetterà copia certificata conforme ad ognuno degli Stati membri del Consiglio d’Europa, agli Stati non membri che hanno partecipato all’elaborazione della presente Convenzione e ad ogni Stato invitato ad aderirvi. (Seguono le firme)
 
-Campo d’applicazione il 5 maggio 2020[^t-2]
+Campo d’applicazione il 20 maggio 2026[^t-2]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -346,8 +346,9 @@ Campo d’applicazione il 5 maggio 2020[^t-2]
 <tr><td>Azerbaigian<sup>\*</sup></td><td>25 gennaio</td><td>2001</td><td>1° maggio</td><td>2001</td></tr>
 <tr><td>Bahamas<sup>\*</sup></td><td>12 novembre</td><td>1991 A</td><td>1° marzo</td><td>1992</td></tr>
 <tr><td>Belgio<sup>\*</sup></td><td>6 agosto</td><td>1990</td><td>1° dicembre</td><td>1990</td></tr>
-<tr><td>Bolivia<sup>\*</sup></td><td>26 febbraio</td><td>2004 A</td><td>1° giugno</td><td>2004</td></tr>
+<tr><td>Bolivia<sup>\*</sup></td><td>2 marzo</td><td>2004 A</td><td>1° giugno</td><td>2004</td></tr>
 <tr><td>Bosnia e Erzegovina</td><td>15 aprile</td><td>2005</td><td>1° agosto</td><td>2005</td></tr>
+<tr><td>Brasile</td><td>26 giugno</td><td>2023 A</td><td>1° ottobre</td><td>2023</td></tr>
 <tr><td>Bulgaria<sup>\*</sup></td><td>17 giugno</td><td>1994</td><td>1° ottobre</td><td>1994</td></tr>
 <tr><td>Canada</td><td>13 maggio</td><td>1985</td><td>1° settembre</td><td>1985</td></tr>
 <tr><td>Ceca, Repubblica <sup>a</sup></td><td>15 aprile</td><td>1992</td><td>1° gennaio</td><td>1993</td></tr>
@@ -373,6 +374,7 @@ Campo d’applicazione il 5 maggio 2020[^t-2]
 <tr><td>Islanda<sup>\*</sup></td><td>6 agosto</td><td>1993</td><td>1° dicembre</td><td>1993</td></tr>
 <tr><td>Israele<sup>\*</sup></td><td>24 settembre</td><td>1997 A</td><td>1° gennaio</td><td>1998</td></tr>
 <tr><td>Italia<sup>\*</sup></td><td>30 giugno</td><td>1989</td><td>1° ottobre</td><td>1989</td></tr>
+<tr><td>Kirghizistan</td><td>22 aprile</td><td>2024 A</td><td>1° agosto</td><td>2024</td></tr>
 <tr><td>Lettonia<sup>\*</sup></td><td>2 maggio</td><td>1997</td><td>1° settembre</td><td>1997</td></tr>
 <tr><td>Liechtenstein<sup>\*</sup></td><td>14 gennaio</td><td>1998</td><td>1° maggio</td><td>1998</td></tr>
 <tr><td>Lituania<sup>\*</sup></td><td>24 maggio</td><td>1996</td><td>1° settembre</td><td>1996</td></tr>
@@ -423,11 +425,11 @@ Campo d’applicazione il 5 maggio 2020[^t-2]
 <tr><td>Ucraina<sup>\*</sup></td><td>28 settembre</td><td>1995 A</td><td>1° gennaio</td><td>1996</td></tr>
 <tr><td>Ungheria<sup>\*</sup></td><td>13 luglio</td><td>1993</td><td>1° novembre</td><td>1993</td></tr>
 <tr><td>Venezuela</td><td>11 giugno</td><td>2003 A</td><td>1° ottobre</td><td>2003</td></tr>
-<tr><td colspan="5">\* Riserve e dichiarazioni. \*\* Obiezioni. Le riserve, dichiarazioni e obiezioni non sono pubblicate nella RU, eccetto le riserve e dichiarazioni della Svizzera. I testi, francese ed inglese, possono essere consultati sul sito Internet del Consiglio d’Europa: www.coe.int &gt; Explorer &gt; Bureau des Traités &gt; Liste complète, oppure ottenuti presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
+<tr><td colspan="5">\* Riserve e dichiarazioni. [tab] Le riserve e le dichiarazioni non sono pubblicate nella RU, eccetto quelle della Svizzera. Il testo, in francese e inglese, può essere consultato sul sito Internet del Consiglio d’Europa: [www.coe.int](https://www.coe.int/it/web/conventions/home) &gt; Ufficio trattati &gt; Lista completa oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna. \*\* Obiezioni. Le riserve, dichiarazioni e obiezioni non sono pubblicate nella RU, eccetto le riserve e dichiarazioni della Svizzera. I testi, francese ed inglese, possono essere consultati sul sito Internet del Consiglio d’Europa: www.coe.int &gt; Explorer &gt; Bureau des Traités &gt; Liste complète, oppure ottenuti presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
 <tr><td colspan="5"><sup>a</sup> Data di deposito dello strumento di ratificazione della Cecoslovacchia</td></tr>
 </table>
 
-[^t-2]: [RU 1988 761](https://fedlex.data.admin.ch/eli/oc/1988/761_761_761)[2074](https://fedlex.data.admin.ch/eli/oc/1988/2074_2074_2074), [1990 1068](https://fedlex.data.admin.ch/eli/oc/1990/1068_1068_1068), [1991 945](https://fedlex.data.admin.ch/eli/oc/1991/945_945_945), [2004 4305](https://fedlex.data.admin.ch/eli/oc/2004/647), [2007 1373](https://fedlex.data.admin.ch/eli/oc/2007/230), [2010 3455](https://fedlex.data.admin.ch/eli/oc/2010/486), [2016 2851](https://fedlex.data.admin.ch/eli/oc/2016/467)e [2020 1565](https://fedlex.data.admin.ch/eli/oc/2020/313). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
+[^t-2]: [RU 1988 761](https://fedlex.data.admin.ch/eli/oc/1988/761_761_761)[2074](https://fedlex.data.admin.ch/eli/oc/1988/2074_2074_2074); [1990 1068](https://fedlex.data.admin.ch/eli/oc/1990/1068_1068_1068); [1991 945](https://fedlex.data.admin.ch/eli/oc/1991/945_945_945); [2004 4305](https://fedlex.data.admin.ch/eli/oc/2004/647); [2007 1373](https://fedlex.data.admin.ch/eli/oc/2007/230); **2010** 345; [2016 2851](https://fedlex.data.admin.ch/eli/oc/2016/467); [2020 1565](https://fedlex.data.admin.ch/eli/oc/2020/313); [2026 245](https://fedlex.data.admin.ch/eli/oc/2026/245). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty).
 
 Riserve e dichiarazioni
 
