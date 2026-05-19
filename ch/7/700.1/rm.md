@@ -4,11 +4,11 @@ title: Ordinaziun dals 28 da zercladur 2000 davart la planisaziun dal territori 
 short: OPT
 eli: "https://fedlex.data.admin.ch/eli/cc/2000/310"
 language: rm
-version: 2026-01-01
+version: 2026-05-20
 adopted: 2000-06-28
 in_force: 2000-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/310/20260101/rm/xml/fedlex-data-admin-ch-eli-cc-2000-310-20260101-rm-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2000/310/20260101/rm"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/310/20260520/rm/xml/fedlex-data-admin-ch-eli-cc-2000-310-20260520-rm-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2000/310/20260520/rm"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -19,7 +19,7 @@ Rumantsch è ina lingua naziunala, ma ina lingua parzialmain uffiziala da la Con
 
 (OPT)
 
-dals 28 da zercladur 2000 (versiun dal 1. da schaner 2026)
+dals 28 da zercladur 2000 (versiun dal 20 da matg 2026)
 
 Il Cussegl federal svizzer,
 
@@ -88,7 +88,7 @@ Sche las autoritads han libertads d’agir per ademplir e per coordinar las incu
 
 <sup>2</sup> Las planisaziuns davart ils singuls champs mussan las relaziuns effectivas e giuridicas sco er ils conflicts d’utilisaziun previsibels; ellas cuntegnan in giudicament dals svilups pussaivels ord ina vista cumplessiva.
 
-<sup>3</sup> …[^4-2]
+<sup>3</sup> ...[^4-2]
 
 [^4-1]: Versiun tenor la cifra I da l’O dals 2 d’avr. 2014, en vigur dapi il 1. da matg 2014 ([AS 2014 909](https://fedlex.data.admin.ch/eli/oc/2014/199)).
 [^4-2]: Abolì tras la cifra I da l’O dals 2 d’avr. 2014, cun effect dapi il 1. da matg 2014 ([AS 2014 909](https://fedlex.data.admin.ch/eli/oc/2014/199)).
@@ -764,7 +764,7 @@ Admissibels èn edifizis e stabiliments che vegnan duvrads per:
 
 - a. gudagnar combustibels e carburants;
 - b. producir electricitad cun la chalur dals combustibels e dals carburants gudagnads;
-- c.[^34a-2] …
+- c.[^34a-2] ...
 - d. conducts per transportar l’energia a clientella adattada sco er per transportar natiers la biomassa e per transportar davent las substanzas che resultan suenter avair gudagnà l’energia;
 - e. tractar la biomassa ch’è vegnida transportada natiers e las substanzas che resultan suenter avair gudagnà l’energia.
 
@@ -908,7 +908,7 @@ En cas da plants pervia d’odurs e da canera, en cas che las disposiziuns d’o
 
 **Edifizis marcants per la cuntrada[^39-1]**
 
-<sup>1</sup> …[^39-2]
+<sup>1</sup> ...[^39-2]
 
 <sup>2</sup>
 
@@ -996,7 +996,7 @@ La dumonda, sche l’identitad da l’edifizi u dal stabiliment vegn mantegnida 
 [^42-4]: Versiun tenor la cifra I da l’O dals 15 d’oct. 2025, en vigur dapi il 1. da schan. 2026 ([AS 2025 659](https://fedlex.data.admin.ch/eli/oc/2025/659)).
 [^42-5]: Versiun tenor la cifra I da l’O dals 10 d’oct. 2012, en vigur dapi il 1. da nov. 2012 ([AS 2012 5537](https://fedlex.data.admin.ch/eli/oc/2012/641)).
 [^42-6]: Versiun tenor la cifra I da l’O dals 15 d’oct. 2025, en vigur dapi il 1. da schan. 2026 ([AS 2025 659](https://fedlex.data.admin.ch/eli/oc/2025/659)).
-[^42-7]: Integrà tras la cifra I da l’O dals 3 da zer. 2022 ([AS 2022 357](https://fedlex.data.admin.ch/eli/oc/2022/357)). Versiun tenor la cifra I da l’O dals 15 d’oct. 2025, en vigur dapi il 1. da schan. 2026 ([AS 2025 659](https://fedlex.data.admin.ch/eli/oc/2025/659)).
+[^42-7]: Integrà tras la cifra I da l’O dals 3 da zer. 2022 ([AS 2022 357](https://fedlex.data.admin.ch/eli/oc/2022/357)). Versiun tenor la cifra I da l’O dals 15 d’oct. 2025, en vigur dapi il 1. da schan. 2026 ([AS 2025 659](https://fedlex.data.admin.ch/eli/oc/2025/659)). La rectificaziun dals 20 da matg 2026 concerna mo il text franzos ([AS 2026 227](https://fedlex.data.admin.ch/eli/oc/2026/227)).
 
 #### Art. 42a
 
@@ -1004,7 +1004,7 @@ La dumonda, sche l’identitad da l’edifizi u dal stabiliment vegn mantegnida 
 
 <sup>1</sup> En il rom da l’artitgel 24*d* alineas 1 e 3 LPT pon vegnir permess engrondiments ch’èn necessaris per in’utilisaziun per intents d’abitar tenor standards actuals u per ina sanaziun energetica.[^42a-3]
 
-<sup>2</sup> …[^42a-4]
+<sup>2</sup> ...[^42a-4]
 
 <sup>3</sup> La reconstrucziun suenter ina destrucziun tras forza superiura po vegnir permessa.[^42a-5]
 
@@ -1020,7 +1020,7 @@ La dumonda, sche l’identitad da l’edifizi u dal stabiliment vegn mantegnida 
 
 <sup>1</sup> Sche animals vegnan tegnids sco hobi, vala quai sco engrondiment da l’utilisaziun per intents d’abitar da l’edifizi d’abitar ch’è situà en la vischinanza. La tegnida d’animals sco hobi sto vegnir resguardada mo en ils cas da l’artitgel 42 alinea 3 litera b e mo sco surfatscha accessorica brutta.[^42b-3]
 
-<sup>2</sup> …[^42b-4]
+<sup>2</sup> ...[^42b-4]
 
 <sup>3</sup> I dastgan vegnir tegnids mo tants animals, sco quai ch’ils abitants da l’edifizi d’abitar vischin pon tgirar sezs.[^42b-5]
 
@@ -1068,7 +1068,7 @@ Midadas d’intent ed engrondiments d’edifizis e da stabiliments commerzials c
 - a. sche l’edifizi u il stabiliment è vegnì construì u midà legalmain;
 - b. sch’i na resultan naginas consequenzas essenzialas per il territori e per l’ambient;
 - c. sche la nova utilisaziun n’è betg inadmissibla tenor in auter decret federal;
-- [tab] d.–f.[^43-2]…
+- [tab] d.–f.[^43-2]...
 
 <sup>2</sup> La surfatscha utilisada en moda inconfurma a la zona dastga vegnir engrondida per 30 pertschient; ils engrondiments entaifer il volumen da l’edifizi existent vegnan quintads mo per la mesadad.
 
@@ -1195,7 +1195,7 @@ L’Ordinaziun dals 2 d’october 1989[^50-1] davart la planisaziun dal territor
 
 **Midada dal dretg vertent**
 
-…[^51-1]
+...[^51-1]
 
 [^51-1]: La midada po vegnir consultada sut [AS 2000 2047](https://fedlex.data.admin.ch/eli/oc/2000/310).
 
@@ -1249,7 +1249,7 @@ Agiunta[^t-1]
 
 En ils suandants chantuns èsi scumandà da determinar novas zonas da construcziun sin fundament da l’artitgel 38*a* alinea 5 LPT e da l’artitgel 52*a* alinea 5 da questa ordinaziun:
 
-- 1\. …
-- 2\. …
-- 3\. …
-- 4\. …
+- 1\. ...
+- 2\. ...
+- 3\. ...
+- 4\. ...

@@ -4,11 +4,11 @@ title: Ordinanza del 28 giugno 2000 sulla pianificazione del territorio (OPT)
 short: OPT
 eli: "https://fedlex.data.admin.ch/eli/cc/2000/310"
 language: it
-version: 2026-01-01
+version: 2026-05-20
 adopted: 2000-06-28
 in_force: 2000-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/310/20260101/it/xml/fedlex-data-admin-ch-eli-cc-2000-310-20260101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2000/310/20260101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/310/20260520/it/xml/fedlex-data-admin-ch-eli-cc-2000-310-20260520-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2000/310/20260520/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2000/310/20260101/it"
 
 (OPT)
 
-del 28 giugno 2000 (Stato 1° gennaio 2026)
+del 28 giugno 2000 (Stato 20 maggio 2026)
 
 Il Consiglio federale svizzero,
 
@@ -995,7 +995,7 @@ Il quesito se l’identità dell’edificio o dell’impianto rimanga sostanzial
 [^42-4]: Nuovo testo giusta la cifra I dell’O del 15 ott. 2025, in vigore dal 1° gen. 2026 ([RU 2025 659](https://fedlex.data.admin.ch/eli/oc/2025/659)).
 [^42-5]: Nuovo testo giusta la cifra I dell’O del 10 ott. 2012, in vigore dal 1° nov. 2012 ([RU 2012 5537](https://fedlex.data.admin.ch/eli/oc/2012/641)).
 [^42-6]: Nuovo testo giusta la cifra I dell’O del 15 ott. 2025, in vigore dal 1° gen. 2026 ([RU 2025 659](https://fedlex.data.admin.ch/eli/oc/2025/659)).
-[^42-7]: Introdotto dalla cifra I dell’O del 3 giu. 2022 ([RU 2022 357](https://fedlex.data.admin.ch/eli/oc/2022/357)). Nuovo testo giusta la cifra I dell’O del 15 ott. 2025, in vigore dal 1° gen. 2026 ([RU 2025 659](https://fedlex.data.admin.ch/eli/oc/2025/659)).
+[^42-7]: Introdotto dalla cifra I dell’O del 3 giu. 2022 ([RU 2022 357](https://fedlex.data.admin.ch/eli/oc/2022/357)). Nuovo testo giusta la cifra I dell’O del 15 ott. 2025, in vigore dal 1° gen. 2026 ([RU 2025 659](https://fedlex.data.admin.ch/eli/oc/2025/659)). La correzione del 20 mag. 2026 concerne soltanto il testo francese ([RU 2026 227](https://fedlex.data.admin.ch/eli/oc/2026/227)).
 
 #### Art. 42a
 
@@ -1244,7 +1244,7 @@ Allegato[^t-1]
 
 ## Delimitazione di nuove zone edificabili inammissibile a causa della mancanza di una regolamentazione conforme al diritto federale in merito alla compensazione di vantaggi derivanti da pianificazioni
 
-[^t-1]: Introdotto dal n. I dell’O del 10 apr. 2019 ([RU 2019 1309](https://fedlex.data.admin.ch/eli/oc/2019/252)). Aggiornato dal n. I delle O del 13 nov. 2019 ([RU 2019 3565](https://fedlex.data.admin.ch/eli/oc/2019/654)), del 29 gen. 2020 ([RU 2020 405](https://fedlex.data.admin.ch/eli/oc/2020/67)), del 29 apr. 2020 ([RU 2020 1651](https://fedlex.data.admin.ch/eli/oc/2020/333)) e dell’11 dic. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6119](https://fedlex.data.admin.ch/eli/oc/2020/1010)).
+[^t-1]: Introdotto dalla cifra I dell’O del 10 apr. 2019 ([RU 2019 1309](https://fedlex.data.admin.ch/eli/oc/2019/252)). Aggiornato dalla cifra I delle O del 13 nov. 2019 ([RU 2019 3565](https://fedlex.data.admin.ch/eli/oc/2019/654)), del 29 gen. 2020 ([RU 2020 405](https://fedlex.data.admin.ch/eli/oc/2020/67)), del 29 apr. 2020 ([RU 2020 1651](https://fedlex.data.admin.ch/eli/oc/2020/333)) e dell’11 dic. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6119](https://fedlex.data.admin.ch/eli/oc/2020/1010)).
 
 In virtù dell’articolo 38*a* capoverso 5 LPT e dell’articolo 52*a* capoverso 5 della presente ordinanza, nei seguenti Cantoni la delimitazione di nuove zone edificabili non è ammessa:
 

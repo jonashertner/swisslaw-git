@@ -4,11 +4,11 @@ title: Raumplanungsverordnung vom 28. Juni 2000 (RPV)
 short: RPV
 eli: "https://fedlex.data.admin.ch/eli/cc/2000/310"
 language: de
-version: 2026-01-01
+version: 2026-05-20
 adopted: 2000-06-28
 in_force: 2000-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/310/20260101/de/xml/fedlex-data-admin-ch-eli-cc-2000-310-20260101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2000/310/20260101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/310/20260520/de/xml/fedlex-data-admin-ch-eli-cc-2000-310-20260520-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2000/310/20260520/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2000/310/20260101/de"
 
 (RPV)
 
-vom 28. Juni 2000 (Stand am 1. Januar 2026)
+vom 28. Juni 2000 (Stand am 20. Mai 2026)
 
 Der Schweizerische Bundesrat,
 
@@ -499,9 +499,9 @@ Fruchtfolgeflächen dürfen nur eingezont werden, wenn:
 [^chap5-sec3-1]: Eingefügt durch Ziff. I der V vom 2. April 2014, in Kraft seit 1. Mai 2014 ([AS 2014 909](https://fedlex.data.admin.ch/eli/oc/2014/199)).
 [^chap5-sec3-2]: Fassung gemäss Ziff. I der V vom 15. Okt. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 659](https://fedlex.data.admin.ch/eli/oc/2025/659)).
 
-#### Art. 32
+#### Art. 32<sup>bis</sup>
 
-**<sup>bi</sup><sup>s</sup> [^32bis-1]Bündelung von Infrastrukturanlagen**
+**Bündelung von Infrastrukturanlagen**[^32bis-1]
 
 ### (Art. 24<sup>bis</sup> Abs. 1 RPG)
 
@@ -986,7 +986,7 @@ Ob die Identität der Baute oder Anlage im Wesentlichen gewahrt bleibt, ist unte
 
 <sup>4</sup> Eine Baute oder Anlage darf nur wieder aufgebaut werden, wenn sie im Zeitpunkt der Zerstörung oder des Abbruchs noch bestimmungsgemäss nutzbar war und an ihrer Nutzung ein ununterbrochenes Interesse besteht. Das Gebäudevolumen darf nur so weit wieder aufgebaut werden, dass es die nach Absatz 3 Buchstabe b zulässige Fläche umfassen kann. Der Standort der Ersatzbaute oder -anlage darf von demjenigen der früheren Baute oder Anlage geringfügig abweichen, wenn es dafür objektive Gründe gibt.[^42-6]
 
-<sup>5</sup> Solaranlagen nach Artikel 18*a* Absatz 1 RPG sind bei der Beurteilung nach Artikel 24*c* RPG unbeachtlich. Eine für eine energetische Sanierung notwendige Aussenisolation oder eine für die Isolierung notwendige Anhebung des Daches darf samt allfälliger Solaranlage bewilligt werden, auch wenn damit die Grenzen nach Absatz 3 Buchstabe a oder b überschritten werden. Sie allein führen nicht dazu, dass Absatz 3 Buchstabe b statt Absatz 3 Buchstabe a anzuwenden wäre[^42-7]
+<sup>5</sup> Solaranlagen nach Artikel 18*a* Absatz 1 RPG sind bei der Beurteilung nach Artikel 24*c* RPG unbeachtlich. Eine für eine energetische Sanierung notwendige Aussenisolation oder eine für die Isolierung notwendige Anhebung des Daches darf samt allfälliger Solaranlage bewilligt werden, auch wenn damit die Grenzen nach Absatz 3 Buchstabe a oder b überschritten werden. Sie allein führen nicht dazu, dass Absatz 3 Buchstabe b statt Absatz 3 Buchstabe a anzuwenden wäre.[^42-7]
 
 [^42-1]: Fassung gemäss Ziff. I der V vom 10. Okt. 2012, in Kraft seit 1. Nov. 2012 ([AS 2012 5537](https://fedlex.data.admin.ch/eli/oc/2012/641)).
 [^42-2]: Fassung gemäss Ziff. I der V vom 10. Okt. 2012, in Kraft seit 1. Nov. 2012 ([AS 2012 5537](https://fedlex.data.admin.ch/eli/oc/2012/641)).
@@ -994,7 +994,7 @@ Ob die Identität der Baute oder Anlage im Wesentlichen gewahrt bleibt, ist unte
 [^42-4]: Fassung gemäss Ziff. I der V vom 15. Okt. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 659](https://fedlex.data.admin.ch/eli/oc/2025/659)).
 [^42-5]: Fassung gemäss Ziff. I der V vom 10. Okt. 2012, in Kraft seit 1. Nov. 2012 ([AS 2012 5537](https://fedlex.data.admin.ch/eli/oc/2012/641)).
 [^42-6]: Fassung gemäss Ziff. I der V vom 15. Okt. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 659](https://fedlex.data.admin.ch/eli/oc/2025/659)).
-[^42-7]: Eingefügt durch Ziff. I der V vom 3. Juni 2022 ([AS 2022 357](https://fedlex.data.admin.ch/eli/oc/2022/357)). Fassung gemäss Ziff. I der V vom 15. Okt. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 659](https://fedlex.data.admin.ch/eli/oc/2025/659)).
+[^42-7]: Eingefügt durch Ziff. I der V vom 3. Juni 2022 ([AS 2022 357](https://fedlex.data.admin.ch/eli/oc/2022/357)). Fassung gemäss Ziff. I der V vom 15. Okt. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 659](https://fedlex.data.admin.ch/eli/oc/2025/659)). Die Berichtigung vom 20. Mai 2026 betrifft nur den französischen Text ([AS 2026 227](https://fedlex.data.admin.ch/eli/oc/2026/227)).
 
 #### Art. 42a
 

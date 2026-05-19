@@ -4,11 +4,11 @@ title: "Ordonnance du 28 juin 2000 sur l'aménagement du territoire (OAT)"
 short: OAT
 eli: "https://fedlex.data.admin.ch/eli/cc/2000/310"
 language: fr
-version: 2026-01-01
+version: 2026-05-20
 adopted: 2000-06-28
 in_force: 2000-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/310/20260101/fr/xml/fedlex-data-admin-ch-eli-cc-2000-310-20260101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2000/310/20260101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/310/20260520/fr/xml/fedlex-data-admin-ch-eli-cc-2000-310-20260520-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2000/310/20260520/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,11 +17,11 @@ url: "https://www.fedlex.admin.ch/eli/cc/2000/310/20260101/fr"
 
 (OAT)
 
-du 28 juin 2000 (État le 1<sup>er</sup> janvier 2026)
+du 28 juin 2000 (État le 20 mai 2026)
 
 Le Conseil fédéral suisse,
 
-vu la loi fédérale du 22 juin 1979 sur l’aménagement du territoire (LAT)[^ingress-1];
+vu la loi fédérale du 22 juin 1979 sur l’aménagement du territoire (LAT)[^ingress-1],
 
 arrête:
 
@@ -987,7 +987,7 @@ La question de savoir si l’identité de la construction ou de l’installation
 
 <sup>4</sup> Ne peut être reconstruite que la construction ou l’installation qui pouvait être utilisée conformément à sa destination au moment de sa destruction ou de sa démolition et dont l’utilisation répond toujours à un besoin. Le volume bâti ne peut être reconstruit que dans la mesure correspondant à la surface admissible au sens de l’al. 3, let. b. L’implantation de la construction ou de l’installation de remplacement peut légèrement différer de celle de la construction ou de l’installation antérieure s’il existe des raisons objectives à cela.[^42-6]
 
-<sup>5</sup> Les installations solaires visées à l’art. 18*a*, al. 1, LAT ne sont pas prises en compte dans l’examen selon l’art. 24*c*, al. 4, LAT. Une isolation extérieure nécessaire à un assainissement énergétique, une surélévation de la toiture nécessaire à l’isolation ou l’aménagement d’une installation solaire peuvent être autorisés même s’ils entraînent un dépassement des limites fixées à l’al. 3, let. a ou b. Ils n’entraînent pas à eux seuls l’application de l’al. 3, let. b, au lieu de l’al. 3, let. a.[^42-7]
+<sup>5</sup> Les installations solaires visées à l’art. 18*a*, al. 1, LAT ne sont pas prises en compte dans l’examen selon l’art. 24*c* LAT. Une isolation extérieure nécessaire à un assainissement énergétique, une surélévation de la toiture nécessaire à l’isolation ou l’aménagement d’une installation solaire peuvent être autorisés même s’ils entraînent un dépassement des limites fixées à l’al. 3, let. a ou b. Ils n’entraînent pas à eux seuls l’application de l’al. 3, let. b, au lieu de l’al. 3, let. a.[^42-7]
 
 [^42-1]: Nouvelle teneur selon le ch. I de l’O du 10 oct. 2012, en vigueur depuis le 1<sup>er</sup> nov. 2012 ([RO 2012 5537](https://fedlex.data.admin.ch/eli/oc/2012/641)).
 [^42-2]: Nouvelle teneur selon le ch. I de l’O du 10 oct. 2012, en vigueur depuis le 1<sup>er</sup> nov. 2012 ([RO 2012 5537](https://fedlex.data.admin.ch/eli/oc/2012/641)).
@@ -995,7 +995,7 @@ La question de savoir si l’identité de la construction ou de l’installation
 [^42-4]: Nouvelle teneur selon le ch. I de l’O du 15 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 659](https://fedlex.data.admin.ch/eli/oc/2025/659)).
 [^42-5]: Nouvelle teneur selon le ch. I de l’O du 10 oct. 2012, en vigueur depuis le 1<sup>er</sup> nov. 2012 ([RO 2012 5537](https://fedlex.data.admin.ch/eli/oc/2012/641)).
 [^42-6]: Nouvelle teneur selon le ch. I de l’O du 15 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 659](https://fedlex.data.admin.ch/eli/oc/2025/659)).
-[^42-7]: Introduit par le ch. I de l’O du 3 juin 2022 ([RO 2022 357](https://fedlex.data.admin.ch/eli/oc/2022/357)). Introduit par le ch. I de l’O du 15 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 659](https://fedlex.data.admin.ch/eli/oc/2025/659)).
+[^42-7]: Introduit par le ch. I de l’O du 3 juin 2022 ([RO 2022 357](https://fedlex.data.admin.ch/eli/oc/2022/357)). Nouvelle teneur selon le ch. I de l’O du 15 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 659](https://fedlex.data.admin.ch/eli/oc/2025/659)). Erratum du 20 mai 2026 ([RO 2026 227](https://fedlex.data.admin.ch/eli/oc/2026/227)).
 
 #### Art. 42a
 
