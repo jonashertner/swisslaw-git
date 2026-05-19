@@ -3,11 +3,11 @@ sr: "0.456"
 title: Europäisches Übereinkommen vom 13. November 1987 zum Schutz von Heimtieren
 eli: "https://fedlex.data.admin.ch/eli/cc/1994/919_919_919"
 language: de
-version: 2017-08-10
+version: 2026-05-20
 adopted: 1987-11-13
 in_force: 1994-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/919_919_919/20170810/de/xml/fedlex-data-admin-ch-eli-cc-1994-919_919_919-20170810-de-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1994/919_919_919/20170810/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/919_919_919/20260520/de/xml/fedlex-data-admin-ch-eli-cc-1994-919_919_919-20260520-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1994/919_919_919/20260520/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -20,7 +20,7 @@ AS **1994** 919; BBl **1992** V 1003
 
 Abgeschlossen in Strassburg am 13. November 1987 Von der Bundesversammlung genehmigt am 17. Juni 1993[^t-1] Schweizerische Ratifikationsurkunde hinterlegt am 3. November 1993 Inkrafttreten für die Schweiz am 1. Juni 1994
 
-(Stand am 10. August 2017)
+(Stand am 20. Mai 2026)
 
 [^t-1]: Art. 1 Abs. 1 Bst. c des BB vom 17. Juni 1993 ([AS 1994 918](https://fedlex.data.admin.ch/eli/oc/1994/918_918_918)).
 
@@ -357,10 +357,11 @@ Der Generalsekretär des Europarats notifiziert den Mitgliedstaaten des Europara
 
 *Zu Urkund dessen* haben die hierzu gehörig befugten Unterzeichneten dieses Übereinkommen unterschrieben. Geschehen zu Strassburg am 13. November 1987 in englischer und französischer Sprache, wobei jeder Wortlaut gleichermassen verbindlich ist, in einer Urschrift, die im Archiv des Europarats hinterlegt wird. Der Generalsekretär des Europarats übermittelt allen Mitgliedstaaten des Europarats und allen zum Beitritt zu diesem Übereinkommen eingeladenen Staaten beglaubigte Abschriften. (Es folgen die Unterschriften)
 
-Geltungsbereich am 10. August 2017[^t-2]
+Geltungsbereich am 20. Mai 2026[^t-2]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation</th><th></th><th>Inkrafttreten</th><th></th></tr>
+<tr><td>Andorra</td><td>18. Oktober</td><td>2022</td><td>1. Mai</td><td>2023</td></tr>
 <tr><td>Aserbaidschan\*</td><td>19. Oktober</td><td>2007</td><td>1. Mai</td><td>2008</td></tr>
 <tr><td>Belgien</td><td>20. Dezember</td><td>1991</td><td>1. Juli</td><td>1992</td></tr>
 <tr><td>Bulgarien</td><td>20. Juli</td><td>2004</td><td>1. Februar</td><td>2005</td></tr>
@@ -373,6 +374,8 @@ Geltungsbereich am 10. August 2017[^t-2]
 <tr><td>Lettland\*</td><td>22. Oktober</td><td>2010</td><td>1. Mai</td><td>2011</td></tr>
 <tr><td>Litauen</td><td>19. Mai</td><td>2004</td><td>1. Dezember</td><td>2004</td></tr>
 <tr><td>Luxemburg</td><td>25. Oktober</td><td>1991</td><td>1. Mai</td><td>1992</td></tr>
+<tr><td>Moldau</td><td>26. Februar</td><td>2025</td><td>1. September</td><td>2025</td></tr>
+<tr><td>Niederlande\*</td><td>15. Dezember</td><td>2022</td><td>1. Juli</td><td>2023</td></tr>
 <tr><td>Norwegen</td><td>3. Februar</td><td>1988</td><td>1. Mai</td><td>1992</td></tr>
 <tr><td>Österreich</td><td>10. August</td><td>1999</td><td>1. März</td><td>2000</td></tr>
 <tr><td>Portugal\*</td><td>28. Juni</td><td>1993</td><td>1. Januar</td><td>1994</td></tr>
@@ -385,9 +388,9 @@ Geltungsbereich am 10. August 2017[^t-2]
 <tr><td>Türkei</td><td>28. November</td><td>2003</td><td>1. Juni</td><td>2004</td></tr>
 <tr><td>Ukraine</td><td>9. Januar</td><td>2014</td><td>1. August</td><td>2014</td></tr>
 <tr><td>Zypern</td><td>9. Dezember</td><td>1993</td><td>1. Juli</td><td>1994</td></tr>
-<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite des Europarates: http://conventions.coe.int eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
+<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite des Europarates: [www.coe.int](https://www.coe.int/de/web/conventions/home) &gt; Vertragsbüro &gt; Gesamtverzeichnis eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
 <tr><td colspan="5"><sup>a</sup> Das Übereink. gilt nicht für Färöer und Grönland.</td></tr>
 <tr><td colspan="5"><sup>b</sup> Das Übereink. gilt für das Hoheitsgebiet der Französischen Republik mit Ausnahme von Neukaledonien, Französisch-Polynesien und die Französischen Süd- und Antarktis-Gebiete.</td></tr>
 </table>
 
-[^t-2]: [AS 1994 919](https://fedlex.data.admin.ch/eli/oc/1994/919_919_919), [2002 3504](https://fedlex.data.admin.ch/eli/oc/2002/524), [2005 3569](https://fedlex.data.admin.ch/eli/oc/2005/516), [2011 4559](https://fedlex.data.admin.ch/eli/oc/2011/641), [2017 4057](https://fedlex.data.admin.ch/eli/oc/2017/483). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (http://www.eda.admin.ch/vertraege).
+[^t-2]: [AS 1994 919](https://fedlex.data.admin.ch/eli/oc/1994/919_919_919); [2002 3504](https://fedlex.data.admin.ch/eli/oc/2002/524); [2005 3569](https://fedlex.data.admin.ch/eli/oc/2005/516); [2011 4559](https://fedlex.data.admin.ch/eli/oc/2011/641); [2017 4057](https://fedlex.data.admin.ch/eli/oc/2017/483); [2026 252](https://fedlex.data.admin.ch/eli/oc/2026/252). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).

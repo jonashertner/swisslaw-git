@@ -3,11 +3,11 @@ sr: "0.456"
 title: Convention européenne du 13 novembre 1987 pour la protection des animaux de compagnie
 eli: "https://fedlex.data.admin.ch/eli/cc/1994/919_919_919"
 language: fr
-version: 2017-08-10
+version: 2026-05-20
 adopted: 1987-11-13
 in_force: 1994-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/919_919_919/20170810/fr/xml/fedlex-data-admin-ch-eli-cc-1994-919_919_919-20170810-fr-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1994/919_919_919/20170810/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/919_919_919/20260520/fr/xml/fedlex-data-admin-ch-eli-cc-1994-919_919_919-20260520-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1994/919_919_919/20260520/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -20,31 +20,31 @@ Texte original
 
 Conclue à Strasbourg le 13 novembre 1987 Approuvée par l’Assemblée fédérale le 17 juin 1993[^t-1] Instrument de ratification déposé par la Suisse le 3 novembre 1993 Entrée en vigueur pour la Suisse le 1<sup>er</sup> juin 1994
 
-(État le 10 août 2017)
+(État le 20 mai 2026)
 
 [^t-1]: Art. 1 al. 1 let. c de l’AF du 17 juin 1993 ([RO 1994 918](https://fedlex.data.admin.ch/eli/oc/1994/918_918_918)).
 
 *Préambule*
 
-Les Etats membres du Conseil de l’Europe, signataires de la présente Convention,
+Les États membres du Conseil de l’Europe, signataires de la présente Convention,
 
-considérant que le but du Conseil de l’Europe est de réaliser une union plus étroite entre ses membres;
+considérant que le but du Conseil de l’Europe est de réaliser une union plus étroite entre ses membres,
 
-reconnaissant que l’homme a une obligation morale de respecter toutes les créatures vivantes et gardant à l’esprit les liens particuliers existant entre l’homme et les animaux de compagnie;
+reconnaissant que l’homme a une obligation morale de respecter toutes les créatures vivantes et gardant à l’esprit les liens particuliers existant entre l’homme et les animaux de compagnie,
 
-considérant l’importance des animaux de compagnie en raison de leur contribution à la qualité de la vie et, partant, leur valeur pour la société;
+considérant l’importance des animaux de compagnie en raison de leur contribution à la qualité de la vie et, partant, leur valeur pour la société,
 
-considérant les difficultés découlant de la grande variété des animaux qui sont détenus par l’homme;
+considérant les difficultés découlant de la grande variété des animaux qui sont détenus par l’homme,
 
-considérant les risques inhérents à la surpopulation animale pour l’hygiène, la santé et la sécurité de l’homme et des autres animaux;
+considérant les risques inhérents à la surpopulation animale pour l’hygiène, la santé et la sécurité de l’homme et des autres animaux,
 
-considérant que la détention de spécimens de la faune sauvage, en tant qu’animaux de compagnie, ne devrait pas être encouragée;
+considérant que la détention de spécimens de la faune sauvage, en tant qu’animaux de compagnie, ne devrait pas être encouragée,
 
-conscients des diverses conditions gouvernant l’acquisition, la détention, l’élevage à titre commercial ou non, la cession et le commerce d’animaux de compagnie;
+conscients des diverses conditions gouvernant l’acquisition, la détention, l’élevage à titre commercial ou non, la cession et le commerce d’animaux de compagnie,
 
-conscients de ce que les conditions de détention des animaux de compagnie ne permettent pas toujours de promouvoir leur santé et leur bien‑être;
+conscients de ce que les conditions de détention des animaux de compagnie ne permettent pas toujours de promouvoir leur santé et leur bien‑être,
 
-constatant que les attitudes à l’égard des animaux de compagnie varient considérablement, en raison parfois d’un manque de connaissances ou de conscience;
+constatant que les attitudes à l’égard des animaux de compagnie varient considérablement, en raison parfois d’un manque de connaissances ou de conscience,
 
 considérant qu’une attitude et une pratique fondamentales communes aboutissant à une conduite responsable des propriétaires d’animaux de compagnie sont non seulement un objectif désirable mais aussi réaliste,
 
@@ -66,7 +66,7 @@ sont convenus de ce qui suit:
 
 <sup>5.</sup> On entend par animal errant tout animal de compagnie qui, soit n’a pas de foyer, soit se trouve en‑dehors des limites du foyer de son propriétaire ou de son gardien et n’est sous le contrôle ou sous la surveillance directe d’aucun propriétaire ou gardien.
 
-<sup>6.</sup> On entend par autorité compétente l’autorité désignée par l’Etat membre.
+<sup>6.</sup> On entend par autorité compétente l’autorité désignée par l’État membre.
 
 #### Art. 2
 
@@ -275,7 +275,7 @@ Les Parties s’engagent à encourager le développement de programmes d’infor
 
 <sup>1.</sup> Les Parties procèdent, dans un délai de cinq ans après l’entrée en vigueur de la Convention et tous les cinq ans par la suite, et, en tout cas, toutes les fois qu’une majorité des représentants des Parties le demande, à des consultations multilatérales au sein du Conseil de l’Europe, en vue d’examiner l’application de la Convention, ainsi que l’opportunité de sa révision ou d’un élargissement de certaines de ses dispositions. Ces consultations auront lieu au cours de réunions convoquées par le Secrétaire Général du Conseil de l’Europe.
 
-<sup>2.</sup> Toute Partie a le droit de désigner un représentant pour participer à ces consultations. Tout Etat membre du Conseil de l’Europe qui n’est pas Partie à la Convention a le droit de se faire représenter à ces consultations par un observateur.
+<sup>2.</sup> Toute Partie a le droit de désigner un représentant pour participer à ces consultations. Tout État membre du Conseil de l’Europe qui n’est pas Partie à la Convention a le droit de se faire représenter à ces consultations par un observateur.
 
 <sup>3.</sup> Après chaque consultation, les Parties soumettent au Comité des Ministres du Conseil de l’Europe un rapport sur la consultation et sur le fonctionnement de la Convention en y incluant, si elles l’estiment nécessaire, des propositions visant à amender les Art. 15 à 23 de la Convention.
 
@@ -287,11 +287,11 @@ Les Parties s’engagent à encourager le développement de programmes d’infor
 
 **Amendements**
 
-<sup>1.</sup> Tout amendement aux Art. 1 à 14, proposé par une Partie ou par le Comité des Ministres, est communiqué au Secrétaire Général du Conseil de l’Europe et transmis par ses soins aux Etats membres du Conseil de l’Europe, à toute Partie et à tout Etat invité à adhérer à la Convention conformément aux dispositions de l’art. 19.
+<sup>1.</sup> Tout amendement aux Art. 1 à 14, proposé par une Partie ou par le Comité des Ministres, est communiqué au Secrétaire Général du Conseil de l’Europe et transmis par ses soins aux États membres du Conseil de l’Europe, à toute Partie et à tout État invité à adhérer à la Convention conformément aux dispositions de l’art. 19.
 
 <sup>2.</sup> Tout amendement proposé conformément aux dispositions du paragraphe précédent est examiné, au moins deux mois après la date de sa transmission par le Secrétaire Général, lors d’une consultation multilatérale où cet amendement peut être adopté à la majorité des deux tiers des Parties. Le texte adopté est communiqué aux Parties.
 
-<sup>3.</sup> A l’expiration d’une période de douze mois après son adoption lors d’une consultation multilatérale, tout amendement entre en vigueur à moins qu’une des Parties n’ait notifié des objections.
+<sup>3.</sup> À l’expiration d’une période de douze mois après son adoption lors d’une consultation multilatérale, tout amendement entre en vigueur à moins qu’une des Parties n’ait notifié des objections.
 
 ## Chapitre VII Dispositions finales
 
@@ -299,23 +299,23 @@ Les Parties s’engagent à encourager le développement de programmes d’infor
 
 **Signature, ratification, acceptation, approbation**
 
-La présente Convention est ouverte à la signature des Etats membres du Conseil de l’Europe. Elle sera soumise à ratification, acceptation ou approbation. Les instruments de ratification, d’acceptation ou d’approbation seront déposés près le Secrétaire Général du Conseil de l’Europe.
+La présente Convention est ouverte à la signature des États membres du Conseil de l’Europe. Elle sera soumise à ratification, acceptation ou approbation. Les instruments de ratification, d’acceptation ou d’approbation seront déposés près le Secrétaire Général du Conseil de l’Europe.
 
 #### Art. 18
 
 **Entrée en vigueur**
 
-<sup>1.</sup> Lai présente Convention entrera en vigueur le premier jour du mois qui suit l’expiration d’une période de six mois après la date à laquelle quatre Etats membres du Conseil de l’Europe auront exprimé leur consentement à être liés par la Convention conformément aux dispositions de l’art. 17.
+<sup>1.</sup> Lai présente Convention entrera en vigueur le premier jour du mois qui suit l’expiration d’une période de six mois après la date à laquelle quatre États membres du Conseil de l’Europe auront exprimé leur consentement à être liés par la Convention conformément aux dispositions de l’art. 17.
 
-<sup>2.</sup> Pour tout Etat membre qui exprimera ultérieurement son consentement à être lié par la Convention, celle‑ci entrera en vigueur le premier jour du mois qui suit l’expiration d’une période de six mois après la date du dépôt de l’instrument de ratification, d’acceptation ou d’approbation.
+<sup>2.</sup> Pour tout État membre qui exprimera ultérieurement son consentement à être lié par la Convention, celle‑ci entrera en vigueur le premier jour du mois qui suit l’expiration d’une période de six mois après la date du dépôt de l’instrument de ratification, d’acceptation ou d’approbation.
 
 #### Art. 19
 
-**Adhésion d’Etats non membres**
+**Adhésion d’États non membres**
 
-<sup>1.</sup> Après l’entrée en vigueur de la présente Convention, le Comité des Ministres du Conseil de l’Europe pourra inviter tout Etat non membre du Conseil de l’Europe à adhérer à la présente Convention, par une décision prise à la majorité prévue à l’art. 20.*d* du Statut du Conseil de l’Europe du 5 mai 1949[^19-1] et à l’unanimité des représentants des Etats contractants ayant le droit de siéger au Comité des Ministres.
+<sup>1.</sup> Après l’entrée en vigueur de la présente Convention, le Comité des Ministres du Conseil de l’Europe pourra inviter tout État non membre du Conseil de l’Europe à adhérer à la présente Convention, par une décision prise à la majorité prévue à l’art. 20.*d* du Statut du Conseil de l’Europe du 5 mai 1949[^19-1] et à l’unanimité des représentants des États contractants ayant le droit de siéger au Comité des Ministres.
 
-<sup>2.</sup> Pour tout Etat adhérant, la Convention entrera en vigueur le premier jour du mois qui suit l’expiration d’une période de six mois après la date du dépôt de l’innstrument d’adhésion près le Secrétaire Général du Conseil de l’Europe.
+<sup>2.</sup> Pour tout État adhérant, la Convention entrera en vigueur le premier jour du mois qui suit l’expiration d’une période de six mois après la date du dépôt de l’innstrument d’adhésion près le Secrétaire Général du Conseil de l’Europe.
 
 [^19-1]: [RS 0.192.030](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/545)
 
@@ -323,7 +323,7 @@ La présente Convention est ouverte à la signature des Etats membres du Conseil
 
 **Clause territoriale**
 
-<sup>1.</sup> Tout Etat peut, au moment de la signature ou au moment du dépôt de son instrument de ratification, d’acceptation, d’approbation ou d’adhésion, désigner le ou les territoires auxquels s’appliquera la présente Convention.
+<sup>1.</sup> Tout État peut, au moment de la signature ou au moment du dépôt de son instrument de ratification, d’acceptation, d’approbation ou d’adhésion, désigner le ou les territoires auxquels s’appliquera la présente Convention.
 
 <sup>2.</sup> Toute Partie peut, à tout moment par la suite, par une déclaration adressée au Secrétaire Général du Conseil de l’Europe, étendre l’application de la présente Convention à tout autre territoire désigné dans la déclaration. La Convention entrera en vigueur à l’égard de ce territoire le premier jour du mois qui suit l’expiration d’une période de six mois après la date de réception de la déclaration par le Secrétaire Général.
 
@@ -333,7 +333,7 @@ La présente Convention est ouverte à la signature des Etats membres du Conseil
 
 **Réserves**
 
-<sup>1.</sup> Tout Etat peut, au moment de la signature ou au moment du dépôt de son instrument de ratification, d’acceptation, d’approbation ou d’adhésion, déclarer faire usage d’une ou plusieurs réserves à l’égard de l’art. 6 et de l’alinéa a du par. 1 de l’art. 10. Aucune autre réserve ne peut être faite.
+<sup>1.</sup> Tout État peut, au moment de la signature ou au moment du dépôt de son instrument de ratification, d’acceptation, d’approbation ou d’adhésion, déclarer faire usage d’une ou plusieurs réserves à l’égard de l’art. 6 et de l’alinéa a du par. 1 de l’art. 10. Aucune autre réserve ne peut être faite.
 
 <sup>2.</sup> Toute Partie qui a formulé une réserve en vertu du paragraphe précédent peut la retirer en tout ou en partie en adressant une notification au Secrétaire Général du Conseil de l’Europe. Le retrait prendra effet à la date de réception de la notification par le Secrétaire Général.
 
@@ -351,20 +351,21 @@ La présente Convention est ouverte à la signature des Etats membres du Conseil
 
 **Notifications**
 
-Le Secrétaire Général du Conseil de l’Europe notifiera aux Etats membres du Conseil et à tout Etat ayant adhéré à la présente Convention ou ayant été invité à le faire:
+Le Secrétaire Général du Conseil de l’Europe notifiera aux États membres du Conseil et à tout État ayant adhéré à la présente Convention ou ayant été invité à le faire:
 
 - a. toute signature;
 - b. le dépôt de tout instrument de ratification, d’acceptation, d’approbation ou d’adhésion;
 - c. toute date d’entrée en vigueur de la présente Convention conformément à ses Art. 18, 19, 20;
 - d. tout autre acte, notification ou communication ayant trait à la présente Convention.
 
-*En foi de quoi,* les soussignés, dûment autorisés à cet effet, ont signé la présente Convention. Fait à Strasbourg, le 13 novembre 1987, en français et en anglais, les deux textes faisant également foi, en un seul exemplaire qui sera déposé dans les archives du Conseil de l’Europe. Le Secrétaire Général du Conseil de l’Europe en communiquera copie certifiée conforme à chacun des Etats membres du Conseil de l’Europe et à tout Etat invité à adhérer à la présente Convention. (Suivent les signatures)
+*En foi de quoi,* les soussignés, dûment autorisés à cet effet, ont signé la présente Convention. Fait à Strasbourg, le 13 novembre 1987, en français et en anglais, les deux textes faisant également foi, en un seul exemplaire qui sera déposé dans les archives du Conseil de l’Europe. Le Secrétaire Général du Conseil de l’Europe en communiquera copie certifiée conforme à chacun des États membres du Conseil de l’Europe et à tout État invité à adhérer à la présente Convention. (Suivent les signatures)
 
-Champ d’application le 10 août 2017[^t-2]
+Champ d’application le 20 mai 2026[^t-2]
 
 <table>
-<tr><th>Etats parties</th><th>Ratification</th><th></th><th>Entrée en vigueur</th><th></th></tr>
+<tr><th>États parties</th><th>Ratification</th><th></th><th>Entrée en vigueur</th><th></th></tr>
 <tr><td>Allemagne\*</td><td>27 mai</td><td>1991</td><td>1<sup>er</sup> mai</td><td>1992</td></tr>
+<tr><td>Andorre</td><td>18 octobre</td><td>2022</td><td>1<sup>er</sup> mai</td><td>2023</td></tr>
 <tr><td>Autriche</td><td>10 août</td><td>1999</td><td>1<sup>er</sup> mars</td><td>2000</td></tr>
 <tr><td>Azerbaïdjan\*</td><td>19 octobre</td><td>2007</td><td>1<sup>er</sup> mai</td><td>2008</td></tr>
 <tr><td>Belgique</td><td>20 décembre</td><td>1991</td><td>1<sup>er</sup> juillet</td><td>1992</td></tr>
@@ -379,7 +380,9 @@ Champ d’application le 10 août 2017[^t-2]
 <tr><td>Lettonie\*</td><td>22 octobre</td><td>2010</td><td>1<sup>er</sup> mai</td><td>2011</td></tr>
 <tr><td>Lituanie</td><td>19 mai</td><td>2004</td><td>1<sup>er</sup> décembre</td><td>2004</td></tr>
 <tr><td>Luxembourg</td><td>25 octobre</td><td>1991</td><td>1<sup>er</sup> mai</td><td>1992</td></tr>
+<tr><td>Moldova</td><td>26 février</td><td>2025</td><td>1<sup>er</sup> septembre</td><td>2025</td></tr>
 <tr><td>Norvège</td><td>3 février</td><td>1988</td><td>1<sup>er</sup> mai</td><td>1992</td></tr>
+<tr><td>Pays-Bas\*</td><td>15 décembre</td><td>2022</td><td>1<sup>er</sup> juillet</td><td>2023</td></tr>
 <tr><td>Portugal\*</td><td>28 juin</td><td>1993</td><td>1<sup>er</sup> janvier</td><td>1994</td></tr>
 <tr><td>République tchèque\*</td><td>23 septembre</td><td>1998</td><td>24 mars</td><td>1999</td></tr>
 <tr><td>Roumanie</td><td>6 août</td><td>2004</td><td>1<sup>er</sup> mars</td><td>2005</td></tr>
@@ -388,9 +391,7 @@ Champ d’application le 10 août 2017[^t-2]
 <tr><td>Suisse</td><td>3 novembre</td><td>1993</td><td>1<sup>er</sup> juin</td><td>1994</td></tr>
 <tr><td>Turquie</td><td>28 novembre</td><td>2003</td><td>1<sup>er</sup> juin</td><td>2004</td></tr>
 <tr><td>Ukraine</td><td>9 janvier</td><td>2014</td><td>1<sup>er</sup> août</td><td>2014</td></tr>
-<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet du Conseil de l'Europe: http://conventions.coe.int ou obtenus à la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
-<tr><td colspan="5"><sup>a</sup> Ne s'applique pas aux îles Féroé et au Groënland.</td></tr>
-<tr><td colspan="5"><sup>b</sup> La Convention s’applique au territoire de la République française, à l’exception de la Nouvelle Calédonie, de la Polynésie française et des terres australes et antarctiques françaises.</td></tr>
+<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO. Les textes en français et en anglais pourront être consultés à l’adresse du site Internet du Conseil de l’Europe: [www.coe.int](https://www.coe.int/fr/web/conventions/home) &gt; Bureau des traités &gt; Liste complète ou obtenus à la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> Ne s’applique pas aux îles Féroé et au Groënland. <sup>b</sup> La Convention s’applique au territoire de la République française, à l’exception de la Nouvelle Calédonie, de la Polynésie française et des terres australes et antarctiques françaises.</td></tr>
 </table>
 
-[^t-2]: [RO 1994 919](https://fedlex.data.admin.ch/eli/oc/1994/919_919_919), [2002 3504](https://fedlex.data.admin.ch/eli/oc/2002/524), [2005 3569](https://fedlex.data.admin.ch/eli/oc/2005/516), [2011 4559](https://fedlex.data.admin.ch/eli/oc/2011/641), [2017 4057](https://fedlex.data.admin.ch/eli/oc/2017/483). Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.dfae.admin.ch/traites).
+[^t-2]: [RO 1994 919](https://fedlex.data.admin.ch/eli/oc/1994/919_919_919); [2002 3504](https://fedlex.data.admin.ch/eli/oc/2002/524); [2005 3569](https://fedlex.data.admin.ch/eli/oc/2005/516); [2011 4559](https://fedlex.data.admin.ch/eli/oc/2011/641); [2017 4057](https://fedlex.data.admin.ch/eli/oc/2017/483); [2026 252](https://fedlex.data.admin.ch/eli/oc/2026/252). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).

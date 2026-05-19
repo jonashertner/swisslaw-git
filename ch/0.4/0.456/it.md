@@ -3,11 +3,11 @@ sr: "0.456"
 title: Convenzione europea del 13 novembre 1987 per la protezione degli animali da compagnia
 eli: "https://fedlex.data.admin.ch/eli/cc/1994/919_919_919"
 language: it
-version: 2017-08-10
+version: 2026-05-20
 adopted: 1987-11-13
 in_force: 1994-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/919_919_919/20170810/it/xml/fedlex-data-admin-ch-eli-cc-1994-919_919_919-20170810-it-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1994/919_919_919/20170810/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/919_919_919/20260520/it/xml/fedlex-data-admin-ch-eli-cc-1994-919_919_919-20260520-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1994/919_919_919/20260520/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -20,7 +20,7 @@ RU **1994** 919; FF **1992** V 778
 
 Conclusa a Strasburgo il 13 novembre 1987 Approvata dall’Assemblea federale il 17 giugno 1993[^t-1] Istrumento di ratificazione depositato dalla Svizzera il 3 novembre 1993 Entrata in vigore per la Svizzera il 1° giugno 1994
 
-(Stato 10 agosto 2017)
+(Stato 20 maggio 2026)
 
 [^t-1]: Art. 1 cpv. 1 lett. c del DF del 17 giu. 1993 ([RU 1994 918](https://fedlex.data.admin.ch/eli/oc/1994/918_918_918)).
 
@@ -260,7 +260,7 @@ Le Parti si impegnano a promuovere lo sviluppo di programmi d’informazione e d
 
   la necessità di scoraggiare:
 
-  - i) il dono di animali da compagnia ai minori di 16 anni senza l’espresso consenso dei loro genitori o di altre persone che esercitano la responsabilità parentale;
+  - i) il dono di animali da compagnia ai minori di 16 anni senza l’espresso consenso dei loro genitori o di altre persone che esercitano la responsabilità parentale,
   - ii) il dono di animali da compagnia come premio, ricompensa, o omaggio;
   - iii) la procreazione non pianificata di animali da compagnia;
 
@@ -360,10 +360,11 @@ Il Segretario Generale del Consiglio d’Europa notificherà agli Stati membri d
 
 *In fede di che* i sottoscritti, a tal fine debitamente autorizzati, hanno firmato la presente Convenzione. Fatto a Strasburgo il 13 novembre 1987 in francese ed in inglese, i due testi facenti ugualmente fede, in un unico esemplare che sarà depositato negli archivi del Consiglio d’Europa. Il Segretario Generale del Consiglio d’Europa ne trasmetterà copia certificata conforme a ciascuno degli Stati membri del Consiglio d’Europa e ad ogni Stato invitato ad aderire alla presente Convenzione. (Seguono le firme)
 
-Campo d’applicazione il 10 agosto 2017[^t-2]
+Campo d’applicazione il 20 maggio 2026[^t-2]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica</th><th></th><th>Entrata in vigore</th><th></th></tr>
+<tr><td>Andorra</td><td>18 ottobre</td><td>2022</td><td>1° maggio</td><td>2023</td></tr>
 <tr><td>Austria</td><td>10 agosto</td><td>1999</td><td>1° marzo</td><td>2000</td></tr>
 <tr><td>Azerbaigian<sup>\*</sup></td><td>19 ottobre</td><td>2007</td><td>1° maggio</td><td>2008</td></tr>
 <tr><td>Belgio</td><td>20 dicembre</td><td>1991</td><td>1° luglio</td><td>1992</td></tr>
@@ -378,7 +379,9 @@ Campo d’applicazione il 10 agosto 2017[^t-2]
 <tr><td>Lettonia<sup>\*</sup></td><td>22 ottobre</td><td>2010</td><td>1° maggio</td><td>2011</td></tr>
 <tr><td>Lituania</td><td>19 maggio</td><td>2004</td><td>1° dicembre</td><td>2004</td></tr>
 <tr><td>Lussemburgo</td><td>25 ottobre</td><td>1991</td><td>1° maggio</td><td>1992</td></tr>
+<tr><td>Moldova</td><td>26 febbraio</td><td>2025</td><td>1° settembre</td><td>2025</td></tr>
 <tr><td>Norvegia</td><td>3 febbraio</td><td>1988</td><td>1° maggio</td><td>1992</td></tr>
+<tr><td>Paesi Bassi\*</td><td>15 dicembre</td><td>2022</td><td>1° luglio</td><td>2023</td></tr>
 <tr><td>Portogallo<sup>\*</sup></td><td>28 giugno</td><td>1993</td><td>1° gennaio</td><td>1994</td></tr>
 <tr><td>Repubblica Ceca<sup>\*</sup></td><td>23 settembre</td><td>1998</td><td>24 marzo</td><td>1999</td></tr>
 <tr><td>Romania</td><td>6 agosto</td><td>2004</td><td>1° marzo</td><td>2005</td></tr>
@@ -388,9 +391,7 @@ Campo d’applicazione il 10 agosto 2017[^t-2]
 <tr><td>Svizzera</td><td>3 novembre</td><td>1993</td><td>1° giugno</td><td>1994</td></tr>
 <tr><td>Turchia</td><td>28 novembre</td><td>2003</td><td>1° giugno</td><td>2004</td></tr>
 <tr><td>Ucraina</td><td>9 gennaio</td><td>2014</td><td>1° agosto</td><td>2014</td></tr>
-<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e dichiarazioni non sono pubblicate nella RU. Il testo, in francese e inglese, può essere consultato sul sito Internet del Consiglio d’Europa: http://conventions.coe.int oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
-<tr><td colspan="5"><sup>a</sup> Non si applica alle isole Faroe e alla Groenlandia.</td></tr>
-<tr><td colspan="5"><sup>b</sup> La Conv. si applica al territorio della Repubblica francese, ad eccezione della Nuova Caledonia, della Polinesia francese e delle terre australi ed antartiche francesi</td></tr>
+<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e le dichiarazioni non sono pubblicate nella RU. Il testo, in francese e inglese, può essere consultato sul sito Internet del Consiglio d’Europa: [www.coe.int](https://www.coe.int/it/web/conventions/home) &gt; Ufficio trattati &gt; Lista completa oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione dei trattati internazionali, 3003 Berna. <sup>a</sup> Non si applica alle isole Faroe e alla Groenlandia. <sup>b</sup> La Conv. si applica al territorio della Repubblica francese, ad eccezione della Nuova Caledonia, della Polinesia francese e delle terre australi ed antartiche francesi</td></tr>
 </table>
 
-[^t-2]: [RU 1994 919](https://fedlex.data.admin.ch/eli/oc/1994/919_919_919), [2002 3504](https://fedlex.data.admin.ch/eli/oc/2002/524), [2005 3569](https://fedlex.data.admin.ch/eli/oc/2005/516), [2011 4559](https://fedlex.data.admin.ch/eli/oc/2011/641), [2017 4057](https://fedlex.data.admin.ch/eli/oc/2017/483). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
+[^t-2]: [RU 1994 919](https://fedlex.data.admin.ch/eli/oc/1994/919_919_919); [2002 3504](https://fedlex.data.admin.ch/eli/oc/2002/524); [2005 3569](https://fedlex.data.admin.ch/eli/oc/2005/516); [2011 4559](https://fedlex.data.admin.ch/eli/oc/2011/641); [2017 4057](https://fedlex.data.admin.ch/eli/oc/2017/483); [2026 252](https://fedlex.data.admin.ch/eli/oc/2026/252). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty).
