@@ -1,22 +1,21 @@
 ---
 canton: NW
 number: "841.111"
-title: Jagdbetriebsvorschriften 2025
+title: Jagdbetriebsvorschriften 2026
 language: de
-version: 2025-06-02
-corrected: 2025-06-24
-version_adopted: 2025-05-27
+version: 2026-05-21
+version_adopted: 2026-05-19
 adopted: 2026-05-19
 in_force: 2026-05-21
 url: "https://gesetze.nw.ch/app/de/texts_of_law/841.111"
-pdf: "https://gesetze.nw.ch/api/de/versions/1384/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/1505/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Jagdbetriebsvorschriften 2025
+# Jagdbetriebsvorschriften 2026
 
-vom 27.05.2025 (Stand 02.06.2025)
+vom 19.05.2026 (Stand 21.05.2026)
 
 Der Regierungsrat von Nidwalden,
 
@@ -48,7 +47,7 @@ beschliesst:
 
 **2. Anmeldung**
 
-<sup>1</sup> Anmeldungen zur Jagdprüfung haben bis spätestens am 31. Dezember 2025 mit dem amtlichen Formular beim Amt zu erfolgen. Ihnen ist die Bestätigung über den absolvierten Jagdlehrgang beizulegen.
+<sup>1</sup> Anmeldungen zur Jagdprüfung haben bis spätestens am 31. Dezember 2026 mit dem amtlichen Formular beim Amt zu erfolgen. Ihnen ist die Bestätigung über den absolvierten Jagdlehrgang beizulegen.
 
 <sup>2</sup> Eine Anmeldung gilt nur dann als fristgerecht eingereicht, wenn die Gebühr spätestens bei Ablauf der Anmeldefrist dem Amt überwiesen worden ist.
 
@@ -106,7 +105,7 @@ beschliesst:
 
 <sup>1</sup> Zur Beruhigung des Jagdbetriebes wird die Zahl der Hochjagdpatente beschränkt.
 
-<sup>2</sup> Im Jahr 2025 erhalten nur Gesuchstellerinnen und Gesuchsteller mit einem ungeraden Geburtsjahr das Hochjagdpatent.
+<sup>2</sup> Im Jahr 2026 erhalten nur Gesuchstellerinnen und Gesuchsteller mit einem geraden Geburtsjahr das Hochjagdpatent.
 
 #### § 9
 
@@ -140,22 +139,21 @@ beschliesst:
 - 1\. bei der Fahrzeughalle beim Strasseninspektorat, Kreuzstrasse 6, 6370 Stans:
   - a) Amstad Rolf, Höfestrasse 7, 6375 Beckenried;
   - b) Bieri Fabian, Buochserstrasse 90, 6375 Beckenried;
-  - c) Gander Adolf, Nidertistrasse 16, 6375 Beckenried;
-  - d) Kaufmann Matthias, Riedenstrasse 13A, 6370 Oberdorf;
-  - e) May Luca, Seestrasse 4, 6375 Beckenried;
-  - f) Schneider Beat, Seestrasse 112, 6052 Hergiswil;
-  - g) Schneider Raffael, Seestrasse 115, 6052 Hergiswil;
-  - h) Virchow Peter Florian, Am Schüpfgraben 16, 6374 Buochs;
-  - i) Wüthrich Sonam, Unter Hueb 1, 6370 Oberdorf;
+  - c) Kaufmann Matthias, Riedenstrasse 13A, 6370 Oberdorf;
+  - d) May Luca, Seestrasse 4, 6375 Beckenried;
+  - e) Niederberger Andreas, Riedenstrasse 13a, 6370 Oberdorf
+  - f) Schneider Raffael, Seestrasse 115, 6052 Hergiswil;
+  - g) Virchow Peter Florian, Am Schüpfgraben 16, 6374 Buochs;
+  - h) Wüthrich Sonam, Unter Hueb 1, 6370 Oberdorf;
 - 2\. beim Vorderfell 1 in Oberrickenbach:
   - a) Mathis Alois, Vorderfell 1, 6387 Oberrickenbach (079 426 28 41);
   - b) Mathis René, Allmendstrasse 13, 6387 Oberrickenbach (079 435 57 79).
 
 <sup>2</sup> Bei Abwesenheit der Wildkontrolleure bei der Kontrollstelle Oberrickenbach ist eine andere amtliche Kontrollstelle aufzusuchen.
 
-<sup>3</sup> Auf der Hochjagd sind vom 1.-6. September die Kontrollstellen Stans und Oberrickenbach geöffnet. Ab dem 8. September ist nur noch die Kontrollstelle Stans geöffnet.
+<sup>3</sup> Auf der Hochjagd sind vom 1.-5. September die Kontrollstellen Stans und Oberrickenbach geöffnet. Ab dem 7. September ist nur noch die Kontrollstelle Stans geöffnet.
 
-<sup>4</sup> Auf der Niederjagd ist ab dem 27. Oktober nur die Kontrollstelle Stans geöffnet.
+<sup>4</sup> Auf der Niederjagd ist ab dem 19. Oktober nur die Kontrollstelle Stans geöffnet.
 
 #### § 11
 
@@ -229,12 +227,12 @@ beschliesst:
 <sup>1</sup> Die Jagdausübung wird auf folgende Zeiten befristet:
 
 - 1\. Hochjagd:
-  - a) Rothirsch: — 01.09.–20.09.
-  - b) Gämse: — 01.09.–20.09.
-  - c) Wildschwein: — 01.09.–20.09.
-  - d) Murmeltier: — 01.09.–20.09.
-  - e) Dachs: — 01.09.–20.09.
-  - f) Fuchs: — 01.09.–20.09.
+  - a) Rothirsch: — 01.09.–22.09.
+  - b) Gämse: — 01.09.–22.09.
+  - c) Wildschwein: — 01.09.–22.09.
+  - d) Murmeltier: — 01.09.–22.09.
+  - e) Dachs: — 01.09.–22.09.
+  - f) Fuchs: — 01.09.–22.09.
 - 2\. Niederjagd:
   - a) Reh: — 15.10.–04.11.
   - b) Wildschwein: — 15.10.–30.11.
@@ -247,12 +245,20 @@ beschliesst:
   - b) Wildschwein (nur ausserhalb des Waldes; Art. 3ter JSG[^16-1]: — 01.12.–31.01.
   - c) Fuchs: — 01.12.–31.01.
   - d) weitere jagdbare Tiere gemäss § 17: — 01.12.–31.01.
-- 4\. Schusszeiten sind wie folgt begrenzt:
+- 4\. Steinbockjagd:
+  - a) Steinbock — 01.08.–30.11.
+- 5\. Schusszeiten sind wie folgt begrenzt:
   - a) Hochjagd (01.-20.09.) — 06.00–20.30 Uhr
-  - b) Niederjagd (Sommerzeit): — 07.00–19.30 Uhr
-  - c) Niederjagd (Winterzeit): — 06.00–18.30 Uhr
-  - d) Winterjagd: — 07.30–18.00 Uhr
-- 5\. Für die Passjagd auf Haarraubwild während der Nieder- und der Winterzeit ist die Schussabgabe zur Nachtzeit erlaubt.
+  - b) Hochjagd (21.-22.09.) — 06.30–20.00 Uhr
+  - c) Niederjagd (Sommerzeit): — 07.00–19.30 Uhr
+  - d) Niederjagd (Winterzeit): — 06.00–18.30 Uhr
+  - e) Winterjagd: — 07.30–18.00 Uhr
+  - f) Steinbockjagd (01.-31.08.): — 05.30–21.30 Uhr
+  - g) Steinbockjagd (01.-20.09.): — 06.00–20.30 Uhr
+  - h) Steinbockjagd (21.-30.09.): — 06.30–20.00 Uhr
+  - i) Steinbockjagd (01.-31.10.): — 07.00–19.30 Uhr
+  - j) Steinbockjagd (01.-30.11.): — 07.30–18.00 Uhr
+- 6\. Für die Passjagd auf Haarraubwild während der Nieder- und der Winterzeit ist die Schussabgabe zur Nachtzeit erlaubt.
 
 [^16-1]: SR 922.01
 
@@ -302,30 +308,30 @@ beschliesst:
 
 **Abschussregelungen 1. Rothirsch**
 
-<sup>1</sup> Auf der Hoch‑, Hege- und Regulationsjagd im Wintereinstand sind 83 Stück Rothirsche zum Abschuss frei, davon 24 Stück Stiere (inklusive Spiesser) sowie 59 Stück Kahlwild (inkl. Kälber beider Geschlechter).
+<sup>1</sup> Auf der Hoch‑, Hege- und Regulationsjagd im Wintereinstand sind 82 Stück Rothirsche zum Abschuss frei, davon 24 Stück Stiere (inklusive Spiesser) sowie 58 Stück Kahlwild (inkl. Kälber beider Geschlechter).
 
 <sup>2</sup> Jagdberechtigte, denen der Abschuss von Rothirschen während der Hochjagd zusteht, haben die Jagd nach den folgenden Vorgaben auszuführen:
 
-- 1\. 1.–6. September: Nur Ansitzjagd auf Stier, Spiesser, Hirschkuh, Kalb und Schmaltier unter Vorbehalt von Abs. 3–6;
-- 2\. 8.–20. September: Ist sowohl die Ansitz- als auch die Drückjagd auf Rothirsch gestattet, unter Vorbehalt von Abs. 3–6;
+- 1\. 1.–5. September: Nur Ansitzjagd auf Stier, Spiesser, Hirschkuh, Kalb und Schmaltier unter Vorbehalt von Abs. 3–6;
+- 2\. 7.–22. September: Ist sowohl die Ansitz- als auch die Drückjagd auf Rothirsch gestattet, unter Vorbehalt von Abs. 3–6;
 
 <sup>3</sup> Die milchtragende, führende Hirschkuh ist geschützt und nicht jagdbar (ausgenommen unmittelbar nach dem Erlegen ihres Kalbes).
 
-<sup>4</sup> Wer die Jagd auf Rothirsch ausüben will, hat sich ab dem 6. September täglich vor Jagdbeginn über die Telefonnummer 041 618 44 98 (Telefonbeantworter) über das noch zur Verfügung stehende Abschusskontingent zu informieren.
+<sup>4</sup> Wer die Jagd auf Rothirsch ausüben will, hat sich ab dem 7. September täglich vor Jagdbeginn über die Telefonnummer 041 618 44 98 (Telefonbeantworter) über das noch zur Verfügung stehende Abschusskontingent zu informieren.
 
 <sup>5</sup> Ist die Jagd auf Hirsch, Spiesser, Hirschkuh, Schmaltier sowie Kalb erlaubt, darf diese uneingeschränkt ausgeübt werden, selbst wenn die Höchstzahl an diesem Tag überschritten werden könnte.
 
-<sup>6</sup> Die Justiz- und Sicherheitsdirektion entscheidet über die Durchführung einer Hege- und Regulationsjagd im Wintereinstand. Diese wird im Amtsblatt vom Dienstag, 21. Oktober 2025 publiziert.
+<sup>6</sup> Die Justiz- und Sicherheitsdirektion entscheidet über die Durchführung einer Hege- und Regulationsjagd im Wintereinstand. Diese wird im Amtsblatt vom Dienstag, 20. Oktober 2026 publiziert.
 
 #### § 21
 
 **2. Gämse**
 
-<sup>1</sup> Auf der Hochjagd sind 76 Stück Gämswild zum Abschuss frei, davon 25 Stück Gämsböcke und 23 Stück Galtgeissen sowie 28 Stück Gämsjährlinge beider Geschlechter.
+<sup>1</sup> Auf der Hochjagd sind 71 Stück Gämswild zum Abschuss frei, davon 24 Stück Gämsböcke und 20 Stück Galtgeissen sowie 27 Stück Gämsjährlinge beider Geschlechter.
 
 <sup>2</sup> Jagdberechtigten, denen der Abschuss von Gämswild zusteht, haben Anrecht auf maximal 1 Gämse.
 
-<sup>3</sup> Die Jagd auf Gämswild dauert vom 1.–20. September.
+<sup>3</sup> Die Jagd auf Gämswild dauert vom 1.–22. September.
 
 <sup>4</sup> Die milchtragende, führende Gämsgeiss ist geschützt und nicht jagdbar.
 
@@ -342,6 +348,8 @@ beschliesst:
 <sup>10</sup> Wer die Jagd auf Galtgeissen oder Gämsjährlinge (beider Geschlechter) ausüben will, hat sich ab dem 4. September täglich vor Jagdbeginn über die Telefonnummer 041 618 44 98 (Telefonbeantworter) über das noch zur Verfügung stehende Abschusskontingent zu informieren.
 
 <sup>11</sup> Ist die Jagd auf Galtgeissen oder Gämsjährlinge (beider Geschlech-ter) erlaubt, darf diese uneingeschränkt ausgeübt werden, selbst wenn die Höchstzahl an diesem Tag überschritten werden könnte.
+
+<sup>12</sup> Erlegtes Gämswild ist am Erlegungstag einer amtlichen Kontrollstelle vorzuweisen. Sollte dies nicht möglich sein, ist die Wildhut zu benachrichtigen.
 
 #### § 22
 
@@ -371,7 +379,7 @@ beschliesst:
 
 **5. Murmeltier**
 
-<sup>1</sup> Im Sinne einer Hegemassnahme werden vom 1.-20. September Murmeltiere zum Abschuss freigegeben; davon ausgenommen sind die eidgenössischen Jagdbanngebiete Huetstock und Bannalp-Walenstöcke sowie das kantonale Wildasyl Schwalmis.
+<sup>1</sup> Im Sinne einer Hegemassnahme werden vom 1.-22. September Murmeltiere zum Abschuss freigegeben; davon ausgenommen sind die eidgenössischen Jagdbanngebiete Huetstock und Bannalp-Walenstöcke sowie das kantonale Wildasyl Schwalmis.
 
 <sup>2</sup> Als Regulierungsmassnahme sind auf dem Alpwiesland der Mattalp im kantonalen Wildasyl Schwalmis Murmeltiere zum Abschuss frei gegeben.
 
@@ -424,7 +432,7 @@ beschliesst:
 
 <sup>1</sup> Zur Nachsuche zugelassen sind einzig Schweisshundeführerinnen oder Schweisshundeführer, welche die Bewilligung gemäss § 33a kJSV[^29-1] erhalten haben.
 
-<sup>2</sup> Die Nachsuchegruppe des Patentjägervereins Nidwalden führt eine Pikettliste, auf der die zur Verfügung stehenden Schweisshundeführerinnen oder Schweisshundeführer mit Telefonnummer und den zur Verfügung stehenden Piketttagen aufgeführt sind. Sie wird im Jafidata-App hinterlegt.
+<sup>2</sup> Die Nachsuchegruppe Nidwalden führt eine Pikettliste, auf der die zur Verfügung stehenden Schweisshundeführerinnen oder Schweisshundeführer mit Telefonnummer und den zur Verfügung stehenden Piketttagen aufgeführt sind. Sie wird im Jafidata-App hinterlegt.
 
 <sup>3</sup> Die Schweisshundeführerinnen und Schweisshundeführer sind über die zentrale Telefonnummer 041 618 40 30 erreichbar.
 
@@ -442,6 +450,14 @@ beschliesst:
 - 4\. nicht besetzte Hoch- oder Bodensitze müssen für jede jagdberechtigte Person jederzeit zugänglich sein. Die Erstellerin oder der Ersteller kann keinen vorrangigen Benutzeranspruch geltend machen.
 
 <sup>2</sup> Nicht bezeichnete Einrichtungen können von den Wildschutzorganen entfernt und eingezogen werden.
+
+#### § 30a
+
+**Signalbekleidung**
+
+<sup>1</sup> Auf der Hoch-, Nieder-, Hege- und Regulationsjagd ist während Bewegungsjagden für alle Jägerinnen und Jäger das Tragen einer Signalweste oder Signaljacke obligatorisch. Eine signalfarbene Kopfbedeckung (z. B. Hutband) allein genügt nicht.
+
+<sup>2</sup> Für alle an Nachsuchen mitwirkenden Personen ist das Tragen einer Signalweste oder Signaljacke obligatorisch.
 
 ## 5 Irrtumsabschuss
 
@@ -551,4 +567,4 @@ beschliesst:
 
 <sup>3</sup> Kantonales Wildasyl Schwalmis
 
-2025-025
+2026-022
