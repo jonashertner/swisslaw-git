@@ -3,11 +3,11 @@ sr: "0.414.8"
 title: "Convenzione n. 165 dell' 11 aprile 1997 sul riconoscimento delle qualifiche relative all'insegnamento superiore nella regione europea"
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/423"
 language: it
-version: 2018-08-21
+version: 2026-05-21
 adopted: 1997-04-11
 in_force: 1999-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/423/20180821/it/xml/fedlex-data-admin-ch-eli-cc-2002-423-20180821-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/423/20180821/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/423/20260521/it/xml/fedlex-data-admin-ch-eli-cc-2002-423-20260521-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/423/20260521/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -18,13 +18,9 @@ RU **2002** 2870
 
 Traduzione
 
-Concluso a Lisbona l’11 aprile 1997
+Concluso a Lisbona l’11 aprile 1997 Firmato dalla Svizzera il 24 marzo 1998[^t-1] Entrato in vigore per la Svizzera il 1° febbraio 1999
 
-Firmato dalla Svizzera il 24 marzo 1998[^t-1]
-
-Entrato in vigore per la Svizzera il 1° febbraio 1999
-
-(Stato 21 agosto 2018)
+(Stato 21 maggio 2026)
 
 [^t-1]: Senza riserve di ratifica.
 
@@ -72,12 +68,12 @@ Coscienti dell’importanza dell’istituzione di meccanismi di attuazione perma
 
 hanno convenuto quanto segue:
 
-[^ingress-1]: [RS 0.414.1](https://fedlex.data.admin.ch/eli/cc/1991/2002_2002_2002)
-[^ingress-2]: [RS 0.414.11](https://fedlex.data.admin.ch/eli/cc/1991/2020_2020_2020)
-[^ingress-3]: [RS 0.414.31](https://fedlex.data.admin.ch/eli/cc/1991/2024_2024_2024)
-[^ingress-4]: [RS 0.414.5](https://fedlex.data.admin.ch/eli/cc/1991/2035_2035_2035)
-[^ingress-5]: [RS 0.414.6](https://fedlex.data.admin.ch/eli/cc/1991/2041_2041_2041)
-[^ingress-6]: [RS 0.414.32](https://fedlex.data.admin.ch/eli/cc/1991/2030_2030_2030)
+[^ingress-1]: [RS 0.414.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1635)
+[^ingress-2]: [RS 0.414.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1636)
+[^ingress-3]: [RS 0.414.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1637)
+[^ingress-4]: [RS 0.414.5](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1639)
+[^ingress-5]: [RS 0.414.6](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1640)
+[^ingress-6]: [RS 0.414.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1638)
 
 ## Sezione I: Definizioni
 
@@ -390,7 +386,7 @@ Sebbene le Parti non siano vincolate da questi testi, esse si impegnano ad appli
 
 \3. La firma avviene presso uno dei depositari. Gli strumenti di ratifica, di accettazione, di approvazione o di adesione saranno depositati presso uno dei depositari.
 
-[^secXI-lvlu1-1]: [RS 0.440.1](https://fedlex.data.admin.ch/eli/cc/1962/935_972_973)
+[^secXI-lvlu1-1]: [RS 0.440.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1796)
 
 ### **Art. XI.2**
 
@@ -492,7 +488,7 @@ Nessuna riserva può essere formulata.
 
 *In fede di che,* i rappresentanti qui di seguito, debitamente autorizzati, hanno firmato la presente Convenzione. Fatto a Lisbona, l’11 aprile 1997, in inglese, francese, russo e spagnolo, i quattro testi facenti ugualmente fede, in due esemplari, di cui uno è depositato presso gli archivi del Consiglio d’Europa e l’altro negli archivi dell’Organizzazione delle Nazioni Unite per l’Educazione, la Scienza e la Cultura, e di cui una copia certificata conforme è consegnata a tutti gli Stati menzionati nell’Articolo XI.1, alla Santa Sede ed alla Comunità europea, così come al Segretariato dell’Organizzazione delle Nazioni Unite. (*Seguono le firme*)
 
-Campo d’applicazione il 21 agosto 2018**[^t-2]**
+Campo d’applicazione il 21 maggio 2026[^t-2]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A) Dichiarazione di successione (S) Firmato senza riserva di ratificazione (F)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -516,6 +512,7 @@ Campo d’applicazione il 21 agosto 2018**[^t-2]**
 <tr><td>Francia</td><td>4 ottobre</td><td>1999</td><td>1° dicembre</td><td>1999</td></tr>
 <tr><td>Georgia</td><td>13 ottobre</td><td>1999</td><td>1° dicembre</td><td>1999</td></tr>
 <tr><td>Germania<sup>\*</sup></td><td>23 agosto</td><td>2007</td><td>1° ottobre</td><td>2007</td></tr>
+<tr><td>Grecia\*</td><td>13 settembre</td><td>2024 A</td><td>1° novembre</td><td>2024</td></tr>
 <tr><td>Irlanda</td><td>8 marzo</td><td>2004 F</td><td>1° maggio</td><td>2004</td></tr>
 <tr><td>Islanda</td><td>21 marzo</td><td>2001</td><td>1° maggio</td><td>2001</td></tr>
 <tr><td>Israele</td><td>12 luglio</td><td>2007</td><td>1° settembre</td><td>2007</td></tr>
@@ -526,9 +523,10 @@ Campo d’applicazione il 21 agosto 2018**[^t-2]**
 <tr><td>Liechtenstein<sup>\*</sup></td><td>1° febbraio</td><td>2000 A</td><td>1° aprile</td><td>2000</td></tr>
 <tr><td>Lituania</td><td>17 dicembre</td><td>1998</td><td>1° febbraio</td><td>1999</td></tr>
 <tr><td>Lussemburgo</td><td>4 ottobre</td><td>2000</td><td>1° dicembre</td><td>2000</td></tr>
-<tr><td>Macedonia<sup>\*</sup></td><td>29 novembre</td><td>2002</td><td>1° gennaio</td><td>2003</td></tr>
+<tr><td>Macedonia del Nord<sup>\*</sup></td><td>29 novembre</td><td>2002</td><td>1° gennaio</td><td>2003</td></tr>
 <tr><td>Malta</td><td>16 novembre</td><td>2005</td><td>1° gennaio</td><td>2006</td></tr>
 <tr><td>Moldova</td><td>23 settembre</td><td>1999</td><td>1° novembre</td><td>1999</td></tr>
+<tr><td>Monaco</td><td>6 marzo</td><td>2023 A</td><td>1° maggio</td><td>2023</td></tr>
 <tr><td>Montenegro</td><td>6 giugno</td><td>2006 S</td><td>6 giugno</td><td>2006</td></tr>
 <tr><td>Norvegia</td><td>29 aprile</td><td>1999</td><td>1° giugno</td><td>1999</td></tr>
 <tr><td>Nuova Zelanda <sup>b</sup></td><td>4 dicembre</td><td>2007 A</td><td>1° febbraio</td><td>2008</td></tr>
@@ -550,15 +548,13 @@ Campo d’applicazione il 21 agosto 2018**[^t-2]**
 <tr><td>Svizzera<sup>\*</sup></td><td>24 marzo</td><td>1998 F</td><td>1° febbraio</td><td>1999</td></tr>
 <tr><td>Tagikistan</td><td>28 marzo</td><td>2012</td><td>1° maggio</td><td>2012</td></tr>
 <tr><td>Turchia<sup>\*</sup></td><td>8 gennaio</td><td>2007</td><td>1° marzo</td><td>2007</td></tr>
+<tr><td>Turkmenistan</td><td>15 febbraio</td><td>2023 A</td><td>1° aprile</td><td>2023</td></tr>
 <tr><td>Ucraina</td><td>14 aprile</td><td>2000</td><td>1° giugno</td><td>2000</td></tr>
 <tr><td>Ungheria</td><td>4 febbraio</td><td>2000</td><td>1° aprile</td><td>2000</td></tr>
-<tr><td colspan="5">\* Riserve e dichiarazioni (gli \* del campo d’applicazione non comprendono le dichiarazioni di tutti gli Stati partecipanti relative alle autorità competenti in materia di riconoscimento e di centri nazionali di informazione conformemente all’art. II.2 e IX.2 della Convenzione). Le riserve e le dichiarazioni non sono pubblicate nella RU, eccetto quelle della Svizzera. Il testo, in francese e inglese, può essere consultato sul sito internet del Consiglio d’Europa: http://conventions.coe.int oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
-<tr><td colspan="5"><sup>a</sup> La Conv. non si applica alle Isole Faeröer e alla Groenlandia.</td></tr>
-<tr><td colspan="5"><sup>b</sup> La Conv. non si applica a Tokelau.</td></tr>
-<tr><td colspan="5"><sup>c</sup> Per il Regno in Europa.</td></tr>
+<tr><td colspan="5">\* Riserve e dichiarazioni (gli \* del campo d’applicazione non comprendono le dichiarazioni di tutti gli Stati partecipanti relative alle autorità competenti in materia di riconoscimento e di centri nazionali di informazione conformemente all’art. II.2 e IX.2 della Convenzione). Le riserve e le dichiarazioni non sono pubblicate nella RU, eccetto quelle della Svizzera. Il testo, in francese e inglese, può essere consultato sul sito Internet del Consiglio d’Europa: [https://www.coe.int](https://www.coe.int/it/web/conventions/home) &gt; Ufficio trattati &gt; Lista completa oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna. <sup>a</sup> La Conv. non si applica alle Isole Faeröer e alla Groenlandia. <sup>b</sup> La Conv. non si applica a Tokelau. <sup>c</sup> Per il Regno in Europa.</td></tr>
 </table>
 
-[^t-2]: [RU 2013 2081](https://fedlex.data.admin.ch/eli/oc/2013/436)e [2018 3051](https://fedlex.data.admin.ch/eli/oc/2018/484)Una versione aggiornatadel campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
+[^t-2]: [RU 2013 2081](https://fedlex.data.admin.ch/eli/oc/2013/436); [2018 3051](https://fedlex.data.admin.ch/eli/oc/2018/484); [2026 282](https://fedlex.data.admin.ch/eli/oc/2026/282). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty).
 
 Dichiarazioni
 
@@ -580,7 +576,7 @@ Fax +41 (0)31 302 68 11
 
 fornisce informazioni sulle autorità competenti per adottare i vari tipi di decisione in materia di riconoscimento.
 
-Queste informazioni sono disponibili all’indirizzo www.szfh.ch
+Queste informazioni sono disponibili all’indirizzo [www.swissuniversities.ch](https://www.swissuniversities.ch/it/servizi/swiss-enic-valutazione-dei-di-diplomi-esteri)
 
 Il centro nazionale di informazione è il seguente:
 
@@ -596,7 +592,7 @@ Tel. +41 (0)31 306 60 33/32
 
 Fax +41 (0)31 302 68 11
 
-www.szfh.ch
+[www.swissuniversities.ch](https://www.swissuniversities.ch/it/servizi/swiss-enic-valutazione-dei-di-diplomi-esteri)
 
 In seguito a una riorganizzazione della Conferenza dei Rettori delle Università Svizzere (CRUS), l’Ufficio centrale universitario svizzero è stato sciolto e integrato nella Segreteria generale della Conferenza. L’indirizzo del centro nazionale di informazione è pertanto il seguente:
 
@@ -608,4 +604,4 @@ Sennweg 2
 
 CH-3012 Berna
 
-Internet: www.crus.ch
+Internet: [www.c r us.ch](https://www.swissuniversities.ch/it/?r=1)

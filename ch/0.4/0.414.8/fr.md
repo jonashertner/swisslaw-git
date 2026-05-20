@@ -3,11 +3,11 @@ sr: "0.414.8"
 title: "Convention du 11 avril 1997 sur la reconnaissance des qualifications relatives à l'enseignement supérieur dans la région européenne"
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/423"
 language: fr
-version: 2018-08-21
+version: 2026-05-21
 adopted: 1997-04-11
 in_force: 1999-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/423/20180821/fr/xml/fedlex-data-admin-ch-eli-cc-2002-423-20180821-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/423/20180821/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/423/20260521/fr/xml/fedlex-data-admin-ch-eli-cc-2002-423-20260521-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/423/20260521/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -24,56 +24,56 @@ Signée par la Suisse le 24 mars 1998[^t-1]
 
 Entrée en vigueur pour la Suisse le 1<sup>er</sup> février 1999
 
-(Etat le 21 août 2018)
+(État le 21 mai 2026)
 
 [^t-1]: Sans réserve de ratification.
 
 Les Parties à la présente Convention,
 
-conscientes du fait que le droit à l’éducation est un droit de l’homme et que l’enseignement supérieur, qui joue un rôle éminent dans l’acquisition et dans le progrès de la connaissance, constitue une exceptionnelle richesse culturelle et scientifique, tant pour les individus que pour la société;
+conscientes du fait que le droit à l’éducation est un droit de l’homme et que l’enseignement supérieur, qui joue un rôle éminent dans l’acquisition et dans le progrès de la connaissance, constitue une exceptionnelle richesse culturelle et scientifique, tant pour les individus que pour la société,
 
-considérant que l’enseignement supérieur devrait jouer un rôle essentiel dans la promotion de la paix, de la compréhension mutuelle et de la tolérance, et qu’il contribue à la création de la confiance mutuelle entre les peuples et les nations;
+considérant que l’enseignement supérieur devrait jouer un rôle essentiel dans la promotion de la paix, de la compréhension mutuelle et de la tolérance, et qu’il contribue à la création de la confiance mutuelle entre les peuples et les nations,
 
-considérant que la grande diversité des systèmes d’enseignement existant dans la région européenne reflète ses diversités culturelles, sociales, politiques, philosophiques, religieuses et économiques et représente dès lors une richesse exceptionnelle qu’il convient de respecter pleinement;
+considérant que la grande diversité des systèmes d’enseignement existant dans la région européenne reflète ses diversités culturelles, sociales, politiques, philosophiques, religieuses et économiques et représente dès lors une richesse exceptionnelle qu’il convient de respecter pleinement,
 
-désireuses de permettre à tous les habitants de la région de bénéficier pleinement de la richesse que représente cette diversité en facilitant l’accès des habitants de chaque Etat et des étudiants des établissements d’enseignement de chaque Partie aux ressources éducatives des autres Parties et plus particulièrement en leur permettant de poursuivre leur formation ou d’effectuer une période d’études dans les établissements d’enseignement supérieur de ces autres Parties;
+désireuses de permettre à tous les habitants de la région de bénéficier pleinement de la richesse que représente cette diversité en facilitant l’accès des habitants de chaque État et des étudiants des établissements d’enseignement de chaque Partie aux ressources éducatives des autres Parties et plus particulièrement en leur permettant de poursuivre leur formation ou d’effectuer une période d’études dans les établissements d’enseignement supérieur de ces autres Parties,
 
-considérant que la reconnaissance des études, des certificats, des diplômes et des titres obtenus dans un autre pays de la région européenne constitue une mesure importante en vue de promouvoir la mobilité académique entre les Parties;
+considérant que la reconnaissance des études, des certificats, des diplômes et des titres obtenus dans un autre pays de la région européenne constitue une mesure importante en vue de promouvoir la mobilité académique entre les Parties,
 
-attachant une grande importance au principe de l’autonomie des établissements, et conscientes de la nécessité de sauvegarder et de protéger ce principe;
+attachant une grande importance au principe de l’autonomie des établissements, et conscientes de la nécessité de sauvegarder et de protéger ce principe,
 
-convaincues qu’une reconnaissance équitable des qualifications représente un élément clé du droit à l’éducation et une responsabilité de la société;
+convaincues qu’une reconnaissance équitable des qualifications représente un élément clé du droit à l’éducation et une responsabilité de la société,
 
 eu égard aux Conventions du Conseil de l’Europe et de l’UNESCO relatives à la reconnaissance académique en Europe:
 
 - Convention européenne du 11 décembre 1953 relative à l’équivalence des diplômes donnant accès aux établissements universitaires[^ingress-1] (1953, STE N<sup>o</sup> 15) et son Protocole additionnel du 3 juin 1964[^ingress-2] (1964, STE N<sup>o</sup> 49),
 - Convention européenne du 15 décembre 1956 sur l’équivalence des périodes d’études universitaires[^ingress-3] (1956, STE N<sup>o</sup> 21),
 - Convention européenne du 14 décembre 1959 sur la reconnaissance académique des qualifications universitaires[^ingress-4] (1959, STE N<sup>o</sup> 32),
-- Convention du 21 décembre 1979 sur la reconnaissance des études et des diplômes relatifs à l’enseignement supérieur dans les Etats de la Région Europe[^ingress-5] (1979),
+- Convention du 21 décembre 1979 sur la reconnaissance des études et des diplômes relatifs à l’enseignement supérieur dans les États de la Région Europe[^ingress-5] (1979),
 - Convention européenne du 6 novembre 1990 sur l’équivalence générale des périodes d’études universitaires[^ingress-6] (1990, STE N<sup>o</sup> 138);
 
-eu égard, également, à la Convention Internationale sur la reconnaissance des études, des diplômes et des grades de l’enseignement supérieur dans les Etats Arabes et les Etats européens riverains de la Méditerranée (1976), adoptée dans le cadre de l’UNESCO et couvrant partiellement la reconnaissance académique en Europe;
+eu égard, également, à la Convention Internationale sur la reconnaissance des études, des diplômes et des grades de l’enseignement supérieur dans les États Arabes et les États européens riverains de la Méditerranée (1976), adoptée dans le cadre de l’UNESCO et couvrant partiellement la reconnaissance académique en Europe,
 
-rappelant que la présente Convention doit être considérée, également, dans le contexte des Conventions et de la Recommandation Internationale de l’UNESCO couvrant d’autres Régions du monde, et qu’il est nécessaire d’améliorer les échanges d’informations entre ces Régions;
+rappelant que la présente Convention doit être considérée, également, dans le contexte des Conventions et de la Recommandation Internationale de l’UNESCO couvrant d’autres Régions du monde, et qu’il est nécessaire d’améliorer les échanges d’informations entre ces Régions,
 
-conscientes de l’évolution profonde de l’enseignement supérieur dans la région européenne depuis que ces Conventions ont été adoptées, ayant comme conséquence une diversification accrue tant au sein des systèmes nationaux d’enseignement supérieur qu’entre eux, ainsi que du besoin d’adapter les instruments juridiques et les pratiques afin de refléter cette évolution;
+conscientes de l’évolution profonde de l’enseignement supérieur dans la région européenne depuis que ces Conventions ont été adoptées, ayant comme conséquence une diversification accrue tant au sein des systèmes nationaux d’enseignement supérieur qu’entre eux, ainsi que du besoin d’adapter les instruments juridiques et les pratiques afin de refléter cette évolution,
 
-conscientes de la nécessité de trouver des solutions communes aux problèmes pratiques posés par la reconnaissance dans la région européenne;
+conscientes de la nécessité de trouver des solutions communes aux problèmes pratiques posés par la reconnaissance dans la région européenne,
 
-conscientes de la nécessité d’améliorer les pratiques actuelles de reconnaissance, de les rendre plus transparentes et mieux adaptées à l’état actuel de l’enseignement supérieur dans la région européenne;
+conscientes de la nécessité d’améliorer les pratiques actuelles de reconnaissance, de les rendre plus transparentes et mieux adaptées à l’état actuel de l’enseignement supérieur dans la région européenne,
 
-convaincues de la portée d’une Convention élaborée et adoptée sous les auspices conjoints du Conseil de l’Europe et de l’UNESCO, créant un cadre pour le développement futur des pratiques de reconnaissance dans la région européenne;
+convaincues de la portée d’une Convention élaborée et adoptée sous les auspices conjoints du Conseil de l’Europe et de l’UNESCO, créant un cadre pour le développement futur des pratiques de reconnaissance dans la région européenne,
 
 conscientes de l’importance de prévoir des mécanismes de mise en œuvre permanents, dans le but d’appliquer les principes et les dispositions de la présente Convention,
 
 sont convenues de ce qui suit:
 
-[^ingress-1]: [RS 0.414.1](https://fedlex.data.admin.ch/eli/cc/1991/2002_2002_2002)
-[^ingress-2]: [RS 0.414.11](https://fedlex.data.admin.ch/eli/cc/1991/2020_2020_2020)
-[^ingress-3]: [RS 0.414.31](https://fedlex.data.admin.ch/eli/cc/1991/2024_2024_2024)
-[^ingress-4]: [RS 0.414.5](https://fedlex.data.admin.ch/eli/cc/1991/2035_2035_2035)
-[^ingress-5]: [RS 0.414.6](https://fedlex.data.admin.ch/eli/cc/1991/2041_2041_2041)
-[^ingress-6]: [RS 0.414.32](https://fedlex.data.admin.ch/eli/cc/1991/2030_2030_2030)
+[^ingress-1]: [RS 0.414.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1635)
+[^ingress-2]: [RS 0.414.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1636)
+[^ingress-3]: [RS 0.414.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1637)
+[^ingress-4]: [RS 0.414.5](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1639)
+[^ingress-5]: [RS 0.414.6](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1640)
+[^ingress-6]: [RS 0.414.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1638)
 
 ## Section I Définitions
 
@@ -89,11 +89,11 @@ Le droit des candidats qualifiés à postuler et à être pris en considération
 
 L’acte ou le système permettant aux candidats qualifiés de suivre des études dans un établissement déterminé et/ou un programme déterminé d’enseignement supérieur.
 
-### Evaluation (des établissements et des programmes)
+### Évaluation (des établissements et des programmes)
 
 Le processus permettant d’établir la qualité de l’enseignement d’un établissement ou d’un programme d’enseignement supérieur.
 
-### Evaluation (des qualifications individuelles)
+### Évaluation (des qualifications individuelles)
 
 Appréciation écrite, par un organisme compétent, des qualifications étrangères d’un individu.
 
@@ -105,9 +105,9 @@ Un organisme officiellement chargé d’établir des décisions contraignantes d
 
 Tous les types de cycles d’études ou d’ensembles de cycles d’études, de formation ou de formation à la recherche, de niveau post-secondaire, reconnus par les autorités concernées d’une Partie comme relevant de son système d’enseignement supérieur.
 
-### Etablissement d’enseignement supérieur
+### Établissement d’enseignement supérieur
 
-Etablissement dispensant un enseignement supérieur et reconnu par l’autorité compétente d’une Partie comme relevant de son système d’enseignement supérieur.
+Établissement dispensant un enseignement supérieur et reconnu par l’autorité compétente d’une Partie comme relevant de son système d’enseignement supérieur.
 
 ### Programme d’enseignement supérieur
 
@@ -155,7 +155,7 @@ Lorsque ce sont des entités composant la Partie qui ont compétence pour décid
 
 ### **Art. II.2**
 
-Au moment de la signature ou du dépôt de son instrument de ratification, d’acceptation, d’approbation ou d’adhésion, ou à tout autre moment par la suite, chaque Etat, le Saint-Siège, la Communauté européenne indiquent, à l’un des dépositaires de la présente Convention, quelles sont les autorités compétentes pour prendre les différents types de décisions en matière de reconnaissance.
+Au moment de la signature ou du dépôt de son instrument de ratification, d’acceptation, d’approbation ou d’adhésion, ou à tout autre moment par la suite, chaque État, le Saint-Siège, la Communauté européenne indiquent, à l’un des dépositaires de la présente Convention, quelles sont les autorités compétentes pour prendre les différents types de décisions en matière de reconnaissance.
 
 ### **Art. II.3**
 
@@ -213,7 +213,7 @@ Lorsque l’admission à des programmes particuliers d’enseignement supérieur
 
 ### **Art. IV.5**
 
-Lorsque, dans la Partie dans laquelle ils ont été obtenus, les certificats d’enseignement secondaire ne donnent accès à l’enseignement supérieur que lorsqu’ils sont accompagnés d’attestations de réussite d’examens complémentaires, en tant que condition préalable à l’accès, les autres Parties peuvent conditionner l’accès aux mêmes exigences ou offrir une alternative permettant de satisfaire aux exigences, complémentaires au sein de leur propre système d’enseignement. Tout Etat, le Saint-Siège, la Communauté européenne, au moment de la signature ou au moment du dépôt de leur instrument de ratification, d’acceptation, d’approbation ou d’adhésion, ou à tout moment par la suite, peuvent déclarer à l’un des dépositaires faire usage des dispositions du présent article, en indiquant les Parties à l’égard desquelles ils ont l’intention d’appliquer cet article, ainsi que les raisons qui justifient cette mesure.
+Lorsque, dans la Partie dans laquelle ils ont été obtenus, les certificats d’enseignement secondaire ne donnent accès à l’enseignement supérieur que lorsqu’ils sont accompagnés d’attestations de réussite d’examens complémentaires, en tant que condition préalable à l’accès, les autres Parties peuvent conditionner l’accès aux mêmes exigences ou offrir une alternative permettant de satisfaire aux exigences, complémentaires au sein de leur propre système d’enseignement. Tout État, le Saint-Siège, la Communauté européenne, au moment de la signature ou au moment du dépôt de leur instrument de ratification, d’acceptation, d’approbation ou d’adhésion, ou à tout moment par la suite, peuvent déclarer à l’un des dépositaires faire usage des dispositions du présent article, en indiquant les Parties à l’égard desquelles ils ont l’intention d’appliquer cet article, ainsi que les raisons qui justifient cette mesure.
 
 ### **Art. IV.6**
 
@@ -246,7 +246,7 @@ Alternativement, il suffit qu’une Partie permette à une personne ayant accomp
 En particulier, chaque Partie facilite la reconnaissance des périodes d’études lorsque:
 
 - a) il y a eu accord préalable entre, d’une part, l’établissement d’enseignement supérieur ou l’autorité compétente responsable de la période d’études et, d’autre part, l’établissement d’enseignement supérieur ou l’autorité compétente en matière de reconnaissance responsable pour la reconnaissance demandée, et
-- a) l’établissement d’enseignement supérieur où la période d’études a été accomplie a délivré un certificat ou un relevé de notes attestant que l’étudiant a satisfait aux exigences requises pour ladite période d’études.
+- l’établissement d’enseignement supérieur où la période d’études a été accomplie a délivré un certificat ou un relevé de notes attestant que l’étudiant a satisfait aux exigences requises pour ladite période d’études.
 
 ## Section VI Reconnaissances des qualifications d’enseignement supérieur
 
@@ -340,11 +340,11 @@ Les organes suivants surveillent, promeuvent et facilitent la mise en œuvre de 
 
 (2) Aux fins de l’art. X.2, le terme «Partie» ne s’applique pas à la Communauté européenne.
 
-(3) Les Etats mentionnés à l’art. XI.1, par. 1, et le Saint-Siège, s’ils ne sont pas Parties à la présente Convention, la Communauté européenne ainsi que le Président du Réseau ENIC peuvent participer aux réunions du Comité en tant qu’observateurs. Des représentants d’organisations gouvernementales ou non-gouvernementales actives dans le domaine de la reconnaissance au niveau de la Région pourront également être invités à participer aux réunions du Comité en tant qu’observateurs.
+(3) Les États mentionnés à l’art. XI.1, par. 1, et le Saint-Siège, s’ils ne sont pas Parties à la présente Convention, la Communauté européenne ainsi que le Président du Réseau ENIC peuvent participer aux réunions du Comité en tant qu’observateurs. Des représentants d’organisations gouvernementales ou non-gouvernementales actives dans le domaine de la reconnaissance au niveau de la Région pourront également être invités à participer aux réunions du Comité en tant qu’observateurs.
 
-(4) Le Président du Comité régional de l’UNESCO pour l’application de la Convention sur la reconnaissance des études et des diplômes relatifs à l’enseignement supérieur dans les Etats appartenant à la Région Europe sera également invité à participer aux réunions du Comité en qualité d’observateur.
+(4) Le Président du Comité régional de l’UNESCO pour l’application de la Convention sur la reconnaissance des études et des diplômes relatifs à l’enseignement supérieur dans les États appartenant à la Région Europe sera également invité à participer aux réunions du Comité en qualité d’observateur.
 
-(5) Le Comité promeut l’application de la présente Convention et surveille sa mise en œuvre. A cette fin, il peut adopter, à la majorité des Parties, des recommandations, des déclarations, des protocoles et des codes de bonne pratique, pour aider les autorités compétentes des Parties dans la mise en œuvre de la Convention et dans l’examen des demandes de reconnaissance des qualifications d’enseignement supérieur. Bien qu’elles ne soient pas liées par de tels textes, les Parties n’épargnent aucun effort pour les appliquer, les soumettre à l’attention des autorités compétentes et encourager leur application. Le Comité demande l’avis du Réseau ENIC avant de prendre ses décisions.
+(5) Le Comité promeut l’application de la présente Convention et surveille sa mise en œuvre. À cette fin, il peut adopter, à la majorité des Parties, des recommandations, des déclarations, des protocoles et des codes de bonne pratique, pour aider les autorités compétentes des Parties dans la mise en œuvre de la Convention et dans l’examen des demandes de reconnaissance des qualifications d’enseignement supérieur. Bien qu’elles ne soient pas liées par de tels textes, les Parties n’épargnent aucun effort pour les appliquer, les soumettre à l’attention des autorités compétentes et encourager leur application. Le Comité demande l’avis du Réseau ENIC avant de prendre ses décisions.
 
 (6) Le Comité fait rapport aux instances concernées du Conseil de l’Europe et de l’UNESCO.
 
@@ -372,13 +372,13 @@ Les organes suivants surveillent, promeuvent et facilitent la mise en œuvre de 
 
 (1) La présente Convention est ouverte à la signature:
 
-- a) des Etats membres du Conseil de l’Europe;
-- b) des Etats membres de la Région Europe de l’UNESCO;
-- c) de tout autre signataire, Etat contractant ou partie à la Convention culturelle européenne du Conseil de l’Europe du 19 décembre 1954 et/ou à la Convention de l’UNESCO sur la reconnaissance des études et des diplômes relatifs à l’enseignement supérieur dans les Etats de la Région Europe[^secXI-lvlu1-1],
+- a) des États membres du Conseil de l’Europe;
+- b) des États membres de la Région Europe de l’UNESCO;
+- c) de tout autre signataire, État contractant ou partie à la Convention culturelle européenne du Conseil de l’Europe du 19 décembre 1954 et/ou à la Convention de l’UNESCO sur la reconnaissance des études et des diplômes relatifs à l’enseignement supérieur dans les États de la Région Europe[^secXI-lvlu1-1],
 
 qui ont été invités à participer à la Conférence diplomatique chargée de l’adoption de la présente Convention.
 
-(2) Ces Etats et le Saint Siège peuvent exprimer leur consentement à être liés par:
+(2) Ces États et le Saint Siège peuvent exprimer leur consentement à être liés par:
 
 - a) signature, sans réserve de ratification, d’acceptation ou d’approbation, ou
 - b) signature, soumise à ratification, acceptation ou approbation, suivie de la ratification, acceptation ou approbation, ou
@@ -386,21 +386,21 @@ qui ont été invités à participer à la Conférence diplomatique chargée de 
 
 (3) Les signatures auront lieu près l’un des dépositaires. Les instruments de ratification, d’acceptation, d’approbation ou d’adhésion seront déposés près l’un des dépositaires.
 
-[^secXI-lvlu1-1]: [RS 0.440.1](https://fedlex.data.admin.ch/eli/cc/1962/935_972_973)
+[^secXI-lvlu1-1]: [RS 0.440.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1796)
 
 ### **Art. XI.2**
 
-La présente Convention entrera en vigueur le premier jour du mois suivant l’expiration d’un délai d’un mois après que cinq Etats, dont au moins trois Etats membres du Conseil de l’Europe et/ou de la Région Europe de l’UNESCO, auront exprimé leur consentement à être liés par la Convention. Elle entrera en vigueur, pour chaque autre Etat, le premier jour du mois suivant l’expiration d’un délai d’un mois après la date de l’expression de son consentement à être lié par la Convention.
+La présente Convention entrera en vigueur le premier jour du mois suivant l’expiration d’un délai d’un mois après que cinq États, dont au moins trois États membres du Conseil de l’Europe et/ou de la Région Europe de l’UNESCO, auront exprimé leur consentement à être liés par la Convention. Elle entrera en vigueur, pour chaque autre État, le premier jour du mois suivant l’expiration d’un délai d’un mois après la date de l’expression de son consentement à être lié par la Convention.
 
 ### **Art. XI.3**
 
-(1) Après l’entrée en vigueur de la présente Convention, tout Etat autre que ceux appartenant à l’une des catégories énumérées à l’art. XI.1 peut introduire une demande d’adhésion à la Convention. Toute demande en ce sens devra être communiquée à l’un des dépositaires, qui la transmettra aux Parties trois mois au moins avant la réunion du Comité de la Convention sur la reconnaissance des qualifications relatives à l’enseignement supérieur dans la région européenne. Le dépositaire en informera également le Comité des Ministres du Conseil de l’Europe et le Conseil Exécutif de l’UNESCO.
+(1) Après l’entrée en vigueur de la présente Convention, tout État autre que ceux appartenant à l’une des catégories énumérées à l’art. XI.1 peut introduire une demande d’adhésion à la Convention. Toute demande en ce sens devra être communiquée à l’un des dépositaires, qui la transmettra aux Parties trois mois au moins avant la réunion du Comité de la Convention sur la reconnaissance des qualifications relatives à l’enseignement supérieur dans la région européenne. Le dépositaire en informera également le Comité des Ministres du Conseil de l’Europe et le Conseil Exécutif de l’UNESCO.
 
-(2) La décision d’inviter un Etat qui en a fait la demande à adhérer à la présente Convention est prise à la majorité des deux tiers des Parties.
+(2) La décision d’inviter un État qui en a fait la demande à adhérer à la présente Convention est prise à la majorité des deux tiers des Parties.
 
-(3) Après l’entrée en vigueur de la présente Convention, la Communauté européenne peut y adhérer, à la demande de ses Etats membres, adressée à l’un des dépositaires. Dans ces circonstances, l’art. XI.3, par. 2, ne s’applique pas.
+(3) Après l’entrée en vigueur de la présente Convention, la Communauté européenne peut y adhérer, à la demande de ses États membres, adressée à l’un des dépositaires. Dans ces circonstances, l’art. XI.3, par. 2, ne s’applique pas.
 
-(4) Pour tout Etat adhérant, et pour la Communauté européenne, la Convention entrera en vigueur le premier jour du mois qui suit l’expiration d’un délai d’un mois après la date du dépôt de l’instrument d’adhésion près l’un des dépositaires.
+(4) Pour tout État adhérant, et pour la Communauté européenne, la Convention entrera en vigueur le premier jour du mois qui suit l’expiration d’un délai d’un mois après la date du dépôt de l’instrument d’adhésion près l’un des dépositaires.
 
 ### **Art. XI.4**
 
@@ -412,22 +412,22 @@ Convention européenne sur l’équivalence des périodes d’études universita
 
 Convention européenne sur la reconnaissance académique des qualifications universitaires (1959, STE N° 32);
 
-Convention internationale sur la reconnaissance des études, des diplômes et des grades d’enseignement supérieur dans les Etats arabes et les Etats européens riverains de la Méditerranée (1976);
+Convention internationale sur la reconnaissance des études, des diplômes et des grades d’enseignement supérieur dans les États arabes et les États européens riverains de la Méditerranée (1976);
 
-Convention sur la reconnaissance des études et des diplômes relatifs à l’enseignement supérieur dans les Etats de la Région Europe (1979);
+Convention sur la reconnaissance des études et des diplômes relatifs à l’enseignement supérieur dans les États de la Région Europe (1979);
 
 Convention européenne sur l’équivalence générale des périodes d’études universitaires (1990, STE 138),
 
 - a) appliqueront les dispositions de la présente Convention dans leurs relations réciproques;
-- b) continueront à appliquer les Conventions mentionnées ci-dessus, auxquelles elles sont déjà parties, dans leurs relations avec d’autres Etats parties auxdites Conventions mais pas à la présente Convention.
+- b) continueront à appliquer les Conventions mentionnées ci-dessus, auxquelles elles sont déjà parties, dans leurs relations avec d’autres États parties auxdites Conventions mais pas à la présente Convention.
 
-(2) Les Parties à la présente Convention s’engagent à s’abstenir de devenir parties aux Conventions mentionnées au par. 1, auxquelles elles ne seraient pas encore parties, à l’exception de la Convention internationale sur la reconnaissance des études, des diplômes et des grades d’enseignement supérieur dans les Etats arabes et les Etats européens riverains de la Méditerranée.
+(2) Les Parties à la présente Convention s’engagent à s’abstenir de devenir parties aux Conventions mentionnées au par. 1, auxquelles elles ne seraient pas encore parties, à l’exception de la Convention internationale sur la reconnaissance des études, des diplômes et des grades d’enseignement supérieur dans les États arabes et les États européens riverains de la Méditerranée.
 
 ### **Art. XI.5**
 
-(1) Tout Etat peut, au moment de la signature ou au moment du dépôt de son instrument de ratification, d’acceptation, d’approbation ou d’adhésion, désigner le ou les territoires auxquels s’applique la présente Convention.
+(1) Tout État peut, au moment de la signature ou au moment du dépôt de son instrument de ratification, d’acceptation, d’approbation ou d’adhésion, désigner le ou les territoires auxquels s’applique la présente Convention.
 
-(2) Tout Etat peut, à tout autre moment par la suite, par une déclaration adressée à l’un des dépositaires, étendre l’application de la présente Convention à tout autre territoire. La Convention entrera en vigueur, à l’égard de ce territoire, le premier jour du mois suivant l’expiration d’un délai d’un mois après la date de réception d’une telle déclaration par le dépositaire.
+(2) Tout État peut, à tout autre moment par la suite, par une déclaration adressée à l’un des dépositaires, étendre l’application de la présente Convention à tout autre territoire. La Convention entrera en vigueur, à l’égard de ce territoire, le premier jour du mois suivant l’expiration d’un délai d’un mois après la date de réception d’une telle déclaration par le dépositaire.
 
 (3) Toute déclaration faite en vertu des deux paragraphes précédents, à l’égard de tout territoire désigné dans une telle déclaration, peut être retirée par notification adressée à l’un des dépositaires. Elle prendra effet le premier jour du mois suivant l’expiration d’un délai d’un mois après la date de réception d’une telle notification par le dépositaire.
 
@@ -441,7 +441,7 @@ Convention européenne sur l’équivalence générale des périodes d’études
 
 ### **Art. XI.7**
 
-(1) Tout Etat, le Saint-Siège, la Communauté européenne peuvent lors de la signature ou au moment du dépôt de leur instrument de ratification, d’acceptation, d’approbation ou d’adhésion, déclarer qu’ils se réservent le droit de ne pas appliquer, partiellement ou totalement, un ou plusieurs des articles suivants de la présente Convention:
+(1) Tout État, le Saint-Siège, la Communauté européenne peuvent lors de la signature ou au moment du dépôt de leur instrument de ratification, d’acceptation, d’approbation ou d’adhésion, déclarer qu’ils se réservent le droit de ne pas appliquer, partiellement ou totalement, un ou plusieurs des articles suivants de la présente Convention:
 
 - [tab] Art. IV.8
 - [tab] Art. V.3
@@ -465,9 +465,9 @@ Aucune autre réserve ne peut être faite.
 
 ### **Art. XI.9**
 
-(1) Le Secrétaire Général du Conseil de l’Europe et le Directeur général de l’Organisation des Nations Unies pour l’Education, la Science et la Culture sont les dépositaires de la présente Convention.
+(1) Le Secrétaire Général du Conseil de l’Europe et le Directeur général de l’Organisation des Nations Unies pour l’Éducation, la Science et la Culture sont les dépositaires de la présente Convention.
 
-(2) Le dépositaire auprès duquel est déposé un acte, une notification ou une communication notifiera aux Parties à la présente Convention, ainsi qu’aux autres Etats membres du Conseil de l’Europe et/ou de la Région Europe de l’UNESCO:
+(2) Le dépositaire auprès duquel est déposé un acte, une notification ou une communication notifiera aux Parties à la présente Convention, ainsi qu’aux autres États membres du Conseil de l’Europe et/ou de la Région Europe de l’UNESCO:
 
 - a) toute signature;
 - b) le dépôt de tout instrument de ratification, d’acceptation d’approbation ou d’adhésion;
@@ -482,12 +482,12 @@ Aucune autre réserve ne peut être faite.
 
 (3) Le dépositaire recevant une communication ou procédant à une notification en vertu des dispositions de la présente Convention en informera immédiatement l’autre dépositaire.
 
-*En foi de quoi*, les représentants soussignés, dûment autorisés, ont signé la présente Convention. Fait à Lisbonne, le 11 avril 1997, en anglais, français, russe et espagnol, les quatre textes faisant également foi, en deux exemplaires, dont un sera déposé dans les archives du Conseil de l’Europe et l’autre dans les archives de l’Organisation des Nations Unies pour l’Education, la Science et la Culture et dont une copie certifiée conforme sera remise à tous les Etats visés à l’art. XI.1, au Saint-Siège et à la Communauté européenne, ainsi qu’au Secrétariat de l’Organisation des Nations Unies. (Suivent les signatures)
+*En foi de quoi*, les représentants soussignés, dûment autorisés, ont signé la présente Convention. Fait à Lisbonne, le 11 avril 1997, en anglais, français, russe et espagnol, les quatre textes faisant également foi, en deux exemplaires, dont un sera déposé dans les archives du Conseil de l’Europe et l’autre dans les archives de l’Organisation des Nations Unies pour l’Éducation, la Science et la Culture et dont une copie certifiée conforme sera remise à tous les États visés à l’art. XI.1, au Saint-Siège et à la Communauté européenne, ainsi qu’au Secrétariat de l’Organisation des Nations Unies. (Suivent les signatures)
 
-Champ d’application le 21 août 2018**[^t-2]**
+Champ d’application le 21 mai 2026[^t-2]
 
 <table>
-<tr><th>Etats parties</th><th>Ratification Adhésion (A) Déclaration de succession (S) Signature sans réserve de ratification (Si)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
+<tr><th>États parties</th><th>Ratification Adhésion (A) Déclaration de succession (S) Signature sans réserve de ratification (Si)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
 <tr><td>Albanie</td><td>6 mars</td><td>2002</td><td>1<sup>er</sup> mai</td><td>2002</td></tr>
 <tr><td>Allemagne<sup>\*</sup></td><td>23 août</td><td>2007</td><td>1<sup>er</sup> octobre</td><td>2007</td></tr>
 <tr><td>Andorre</td><td>22 avril</td><td>2008 A</td><td>1<sup>er</sup> juin</td><td>2008</td></tr>
@@ -508,6 +508,7 @@ Champ d’application le 21 août 2018**[^t-2]**
 <tr><td>Finlande</td><td>21 janvier</td><td>2004</td><td>1<sup>er</sup> mars</td><td>2004</td></tr>
 <tr><td>France</td><td>4 octobre</td><td>1999</td><td>1<sup>er</sup> décembre</td><td>1999</td></tr>
 <tr><td>Géorgie</td><td>13 octobre</td><td>1999</td><td>1<sup>er</sup> décembre</td><td>1999</td></tr>
+<tr><td>Grèce\*</td><td>13 septembre</td><td>2024 A</td><td>1<sup>er</sup> novembre</td><td>2024</td></tr>
 <tr><td>Hongrie</td><td>4 février</td><td>2000</td><td>1<sup>er</sup> avril</td><td>2000</td></tr>
 <tr><td>Irlande</td><td>8 mars</td><td>2004 Si</td><td>1<sup>er</sup> mai</td><td>2004</td></tr>
 <tr><td>Islande</td><td>21 mars</td><td>2001</td><td>1<sup>er</sup> mai</td><td>2001</td></tr>
@@ -519,9 +520,10 @@ Champ d’application le 21 août 2018**[^t-2]**
 <tr><td>Liechtenstein<sup>\*</sup></td><td>1<sup>er</sup> février</td><td>2000 A</td><td>1<sup>er</sup> avril</td><td>2000</td></tr>
 <tr><td>Lituanie</td><td>17 décembre</td><td>1998</td><td>1<sup>er</sup> février</td><td>1999</td></tr>
 <tr><td>Luxembourg</td><td>4 octobre</td><td>2000</td><td>1<sup>er</sup> décembre</td><td>2000</td></tr>
-<tr><td>Macédoine<sup>\*</sup></td><td>29 novembre</td><td>2002</td><td>1<sup>er</sup> janvier</td><td>2003</td></tr>
+<tr><td>Macédoine du Nord<sup>\*</sup></td><td>29 novembre</td><td>2002</td><td>1<sup>er</sup> janvier</td><td>2003</td></tr>
 <tr><td>Malte</td><td>16 novembre</td><td>2005</td><td>1<sup>er</sup> janvier</td><td>2006</td></tr>
 <tr><td>Moldova</td><td>23 septembre</td><td>1999</td><td>1<sup>er</sup> novembre</td><td>1999</td></tr>
+<tr><td>Monaco</td><td>6 mars</td><td>2023 A</td><td>1<sup>er</sup> mai</td><td>2023</td></tr>
 <tr><td>Monténégro</td><td>6 juin</td><td>2006 S</td><td>6 juin</td><td>2006</td></tr>
 <tr><td>Norvège</td><td>29 avril</td><td>1999</td><td>1<sup>er</sup> juin</td><td>1999</td></tr>
 <tr><td>Nouvelle-Zélande <sup>b</sup></td><td>4 décembre</td><td>2007 A</td><td>1<sup>er</sup> février</td><td>2008</td></tr>
@@ -531,7 +533,7 @@ Champ d’application le 21 août 2018**[^t-2]**
 <tr><td>Portugal</td><td>15 octobre</td><td>2001</td><td>1<sup>er</sup> décembre</td><td>2001</td></tr>
 <tr><td>Roumanie</td><td>12 janvier</td><td>1999</td><td>1<sup>er</sup> mars</td><td>1999</td></tr>
 <tr><td>Royaume-Uni</td><td>23 mai</td><td>2003</td><td>1<sup>er</sup> juillet</td><td>2003</td></tr>
-<tr><td>Ile de Man</td><td>23 mai</td><td>2003</td><td>1<sup>er</sup> juillet</td><td>2003</td></tr>
+<tr><td>Île de Man</td><td>23 mai</td><td>2003</td><td>1<sup>er</sup> juillet</td><td>2003</td></tr>
 <tr><td>Russie</td><td>25 mai</td><td>2000</td><td>1<sup>er</sup> juillet</td><td>2000</td></tr>
 <tr><td>République tchèque<sup>\*</sup></td><td>15 décembre</td><td>1999</td><td>1<sup>er</sup> février</td><td>2000</td></tr>
 <tr><td>Saint-Marin</td><td>19 décembre</td><td>2011</td><td>1<sup>er</sup> février</td><td>2012</td></tr>
@@ -542,15 +544,13 @@ Champ d’application le 21 août 2018**[^t-2]**
 <tr><td>Suisse<sup>\*</sup></td><td>24 mars</td><td>1998 Si</td><td>1<sup>er</sup> février</td><td>1999</td></tr>
 <tr><td>Suède</td><td>28 septembre</td><td>2001</td><td>1<sup>er</sup> novembre</td><td>2001</td></tr>
 <tr><td>Tadjikistan</td><td>28 mars</td><td>2012</td><td>1<sup>er</sup> mai</td><td>2012</td></tr>
+<tr><td>Turkménistan</td><td>15 février</td><td>2023 A</td><td>1<sup>er</sup> avril</td><td>2023</td></tr>
 <tr><td>Turquie<sup>\*</sup></td><td>8 janvier</td><td>2007</td><td>1<sup>er</sup> mars</td><td>2007</td></tr>
 <tr><td>Ukraine</td><td>14 avril</td><td>2000</td><td>1<sup>er</sup> juin</td><td>2000</td></tr>
-<tr><td colspan="5">\* Réserves et déclarations (les \* du champ d’application ci-dessus ne comprennent pas les déclarations de tous les Etats parties concernant les autorités compétentes en matière de reconnaissance et les déclarations concernant les Centres nationaux d’information, selon l’art. II.2 et l’art. IX.2 de la Convention). Les réserves et déclarations, à l’exception de celles de la Suisse, ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet du Conseil de l’Europe: http://conventions.coe.int ou obtenus à la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
-<tr><td colspan="5"><sup>a</sup> La Convention ne s’applique pas aux îles Féroé et au Groenland.</td></tr>
-<tr><td colspan="5"><sup>b</sup> La Convention ne s’applique pas au Tokélaou.</td></tr>
-<tr><td colspan="5"><sup>c</sup> Pour le Royaume en Europe.</td></tr>
+<tr><td colspan="5">\* Réserves et déclarations (les \* du champ d’application ci-dessus ne comprennent pas les déclarations de tous les États parties concernant les autorités compétentes en matière de reconnaissance et les déclarations concernant les Centres nationaux d’information, selon l’art. II.2 et l’art. IX.2 de la Convention). Les réserves et déclarations ne sont pas publiées au RO, à l’exception de celles de la Suisse. Les textes en français et en anglais pourront être consultés à l’adresse du site Internet du Conseil de l’Europe: [www.coe.int](https://www.coe.int/fr/web/conventions/home) &gt; Bureau des traités &gt; Liste complète ou obtenus à la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> La Convention ne s’applique pas aux îles Féroé et au Groenland. <sup>b</sup> La Convention ne s’applique pas au Tokélaou. <sup>c</sup> Pour le Royaume en Europe.</td></tr>
 </table>
 
-[^t-2]: [RO 2013 2081](https://fedlex.data.admin.ch/eli/oc/2013/436), [2018 3051](https://fedlex.data.admin.ch/eli/oc/2018/484). Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.dfae.admin.ch/traites).
+[^t-2]: [RO 2013 2081](https://fedlex.data.admin.ch/eli/oc/2013/436); [2018 3051](https://fedlex.data.admin.ch/eli/oc/2018/484); [2026 282](https://fedlex.data.admin.ch/eli/oc/2026/282). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).
 
 Déclarations
 
@@ -572,7 +572,7 @@ Fax: +41 (0)31 302 68 11
 
 fournit des renseignements sur les autorités compétentes pour prendre les différents types de décisions en matière de reconnaissance.
 
-Ces informations sont disponibles sur son site Internet: www.szfh.ch
+Ces informations sont disponibles sur son site Internet: [www.swissuniversities.ch](https://www.swissuniversities.ch/fr/service/swiss-enic-evaluation-des-diplomes-etrangers)
 
 Le Centre national d’information suisse est le suivant:
 
@@ -588,7 +588,7 @@ Tél.: +41 (0)31 306 60 33/32
 
 Fax: +41 (0)31 302 68 11
 
-www.szfh.ch.
+[www.swissuniversities.ch](https://www.swissuniversities.ch/fr/service/swiss-enic-evaluation-des-diplomes-etrangers)
 
 Suite à une réorganisation de la Conférence des Recteurs des Universités Suisses (CRUS), l’Office central universitaire suisse a été dissous et intégré au Secrétariat Général de la Conférence. Dès lors, le Centre national d’information a l’adresse suivante:
 
@@ -600,4 +600,4 @@ Sennweg 2
 
 CH-3012 Berne
 
-Internet: www.crus.ch.
+Internet: [www.crus.ch](https://www.swissuniversities.ch/fr/)

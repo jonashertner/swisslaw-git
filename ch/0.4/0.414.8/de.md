@@ -3,11 +3,11 @@ sr: "0.414.8"
 title: Übereinkommen vom 11. April 1997 über die Anerkennung von Qualifikationen im Hochschulbereich in der europäischen Region
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/423"
 language: de
-version: 2018-08-21
+version: 2026-05-21
 adopted: 1997-04-11
 in_force: 1999-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/423/20180821/de/xml/fedlex-data-admin-ch-eli-cc-2002-423-20180821-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/423/20180821/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/423/20260521/de/xml/fedlex-data-admin-ch-eli-cc-2002-423-20260521-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/423/20260521/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -24,7 +24,7 @@ Unterzeichnet von der Schweiz am 24. März 1998[^t-1]
 
 In Kraft getreten für die Schweiz am 1. Februar 1999
 
-(Stand am 21. August 2018)
+(Stand am 21. Mai 2026)
 
 [^t-1]: Ohne Ratifikationsvorbehalt.
 
@@ -72,12 +72,12 @@ Im Bewusstsein der Bedeutung, die der Schaffung dauerhafter Durchführungsmechan
 
 sind wie folgt übereingekommen:
 
-[^ingress-1]: [SR 0.414.1](https://fedlex.data.admin.ch/eli/cc/1991/2002_2002_2002)
-[^ingress-2]: [SR 0.414.11](https://fedlex.data.admin.ch/eli/cc/1991/2020_2020_2020)
-[^ingress-3]: [SR 0.414.31](https://fedlex.data.admin.ch/eli/cc/1991/2024_2024_2024)
-[^ingress-4]: [SR 0.414.5](https://fedlex.data.admin.ch/eli/cc/1991/2035_2035_2035)
-[^ingress-5]: [SR 0.414.6](https://fedlex.data.admin.ch/eli/cc/1991/2041_2041_2041)
-[^ingress-6]: [SR 0.414.32](https://fedlex.data.admin.ch/eli/cc/1991/2030_2030_2030)
+[^ingress-1]: [SR 0.414.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1635)
+[^ingress-2]: [SR 0.414.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1636)
+[^ingress-3]: [SR 0.414.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1637)
+[^ingress-4]: [SR 0.414.5](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1639)
+[^ingress-5]: [SR 0.414.6](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1640)
+[^ingress-6]: [SR 0.414.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1638)
 
 ## Abschnitt I: Begriffsbestimmungen
 
@@ -250,7 +250,7 @@ Gegebenenfalls reicht es aus, wenn eine Vertragspartei es einer Person, die eine
 Insbesondere erleichtert jede Vertragspartei die Anerkennung von Studienzeiten, wenn
 
 - a) zwischen der für die entsprechende Studienzeit verantwortlichen Hochschuleinrichtung oder zuständigen Behörde einerseits und der für die angestrebte Anerkennung verantwortlichen Hochschuleinrichtung oder zuständigen Behörde andererseits zuvor eine diesbezügliche Vereinbarung geschlossen worden ist und
-- a) die Hochschuleinrichtung, an der die Studienzeit abgeschlossen worden ist, ein Zeugnis oder einen Nachweis der Studienleistungen ausgestellt hat, aus dem hervorgeht, dass der Studierende die für die betreffende Studienzeit festgelegten Voraussetzungen erfüllt hat.
+- die Hochschuleinrichtung, an der die Studienzeit abgeschlossen worden ist, ein Zeugnis oder einen Nachweis der Studienleistungen ausgestellt hat, aus dem hervorgeht, dass der Studierende die für die betreffende Studienzeit festgelegten Voraussetzungen erfüllt hat.
 
 ## Abschnitt VI: Anerkennung von Hochschulqualifikationen
 
@@ -390,7 +390,7 @@ die zu der mit der Annahme dieses Übereinkommens betrauten Diplomatischen Konfe
 
 (3) Die Unterzeichnung erfolgt bei einem der Verwahrer. Die Ratifikations‑, Annahme‑, Genehmigungs- oder Beitrittsurkunden werden bei einem der Verwahrer hinterlegt.
 
-[^secXI-lvlu1-1]: [SR 0.440.1](https://fedlex.data.admin.ch/eli/cc/1962/935_972_973)
+[^secXI-lvlu1-1]: [SR 0.440.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1796)
 
 ### **Art. XI.2**
 
@@ -492,7 +492,7 @@ Weitere Vorbehalte sind nicht zulässig.
 
 *Zu Urkund dessen* haben die hierzu gehörig befugten unterzeichneten Vertreter dieses Übereinkommen unterschrieben. Geschehen zu Lissabon am 11. April 1997 in englischer, französischer, russischer und spanischer Sprache, wobei alle vier Wortlaute gleichermassen verbindlich sind, in zwei Urschriften, von denen eine im Archiv des Europarats und die andere im Archiv der Organisation der Vereinten Nationen für Erziehung, Wissenschaft und Kultur hinterlegt wird. Eine beglaubigte Abschrift wird allen in Artikel XI.1 genannten Staaten, dem Heiligen Stuhl und der Europäischen Gemeinschaft sowie dem Sekretariat der Vereinten Nationen übersandt. (Es folgen die Unterschriften)
 
-Geltungsbereich am 21. August 2018**[^t-2]**
+Geltungsbereich am 21. Mai 2026[^t-2]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B) Nachfolgeerklärung (N) Unterzeichnet ohne Ratifikationsvorbehalt (U)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -511,6 +511,7 @@ Geltungsbereich am 21. August 2018**[^t-2]**
 <tr><td>Finnland</td><td>21. Januar</td><td>2004</td><td>1. März</td><td>2004</td></tr>
 <tr><td>Frankreich</td><td>4. Oktober</td><td>1999</td><td>1. Dezember</td><td>1999</td></tr>
 <tr><td>Georgien</td><td>13. Oktober</td><td>1999</td><td>1. Dezember</td><td>1999</td></tr>
+<tr><td>Griechenland\*</td><td>13. September</td><td>2024 B</td><td>1. November</td><td>2024</td></tr>
 <tr><td>Heiliger Stuhl<sup>\*</sup></td><td>28. Februar</td><td>2001</td><td>1. April</td><td>2001</td></tr>
 <tr><td>Irland</td><td>8. März</td><td>2004 U</td><td>1. Mai</td><td>2004</td></tr>
 <tr><td>Island</td><td>21. März</td><td>2001</td><td>1. Mai</td><td>2001</td></tr>
@@ -525,12 +526,13 @@ Geltungsbereich am 21. August 2018**[^t-2]**
 <tr><td>Litauen</td><td>17. Dezember</td><td>1998</td><td>1. Februar</td><td>1999</td></tr>
 <tr><td>Luxemburg</td><td>4. Oktober</td><td>2000</td><td>1. Dezember</td><td>2000</td></tr>
 <tr><td>Malta</td><td>16. November</td><td>2005</td><td>1. Januar</td><td>2006</td></tr>
-<tr><td>Mazedonien<sup>\*</sup></td><td>29. November</td><td>2002</td><td>1. Januar</td><td>2003</td></tr>
 <tr><td>Moldau</td><td>23. September</td><td>1999</td><td>1. November</td><td>1999</td></tr>
+<tr><td>Monaco</td><td>6. März</td><td>2023 B</td><td>1. Mai</td><td>2023</td></tr>
 <tr><td>Montenegro</td><td>6. Juni</td><td>2006 N</td><td>6. Juni</td><td>2006</td></tr>
 <tr><td>Neuseeland <sup>b</sup></td><td>4. Dezember</td><td>2007 B</td><td>1. Februar</td><td>2008</td></tr>
 <tr><td>Niederlande <sup>c</sup></td><td>19. März</td><td>2008</td><td>1. Mai</td><td>2008</td></tr>
 <tr><td>Karibische Gebiete (Bonaire, Sint Eustatius und Saba)</td><td>7. September</td><td>2011</td><td>1. November</td><td>2011</td></tr>
+<tr><td>Nordmazedonien<sup>\*</sup></td><td>29. November</td><td>2002</td><td>1. Januar</td><td>2003</td></tr>
 <tr><td>Norwegen</td><td>29. April</td><td>1999</td><td>1. Juni</td><td>1999</td></tr>
 <tr><td>Österreich<sup>\*</sup></td><td>3. Februar</td><td>1999</td><td>1. April</td><td>1999</td></tr>
 <tr><td>Polen</td><td>17. März</td><td>2004</td><td>1. Mai</td><td>2004</td></tr>
@@ -547,15 +549,16 @@ Geltungsbereich am 21. August 2018**[^t-2]**
 <tr><td>Tadschikistan</td><td>28. März</td><td>2012</td><td>1. Mai</td><td>2012</td></tr>
 <tr><td>Tschechische Republik<sup>\*</sup></td><td>15. Dezember</td><td>1999</td><td>1. Februar</td><td>2000</td></tr>
 <tr><td>Türkei<sup>\*</sup></td><td>8. Januar</td><td>2007</td><td>1. März</td><td>2007</td></tr>
+<tr><td>Turkmenistan</td><td>15. Februar</td><td>2023 B</td><td>1. April</td><td>2023</td></tr>
 <tr><td>Ukraine</td><td>14. April</td><td>2000</td><td>1. Juni</td><td>2000</td></tr>
 <tr><td>Ungarn</td><td>4. Februar</td><td>2000</td><td>1. April</td><td>2000</td></tr>
 <tr><td>Vereinigtes Königreich</td><td>23. Mai</td><td>2003</td><td>1. Juli</td><td>2003</td></tr>
 <tr><td>Insel Man</td><td>23. Mai</td><td>2003</td><td>1. Juli</td><td>2003</td></tr>
 <tr><td>Zypern</td><td>21. November</td><td>2001</td><td>1. Januar</td><td>2002</td></tr>
-<tr><td colspan="5">\* Vorbehalte und Erklärungen (die Erklärungen aller Vertragsstaaten über die zuständigen Anerkennungsbehörden und die nationalen Informationszentren, gemäss Art. II.2 und IX.2, sind im oben erwähnten Geltungsbereich nicht mit \*aufgeführt). Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht, mit Ausnahme jener der Schweiz. Die französischen und englischen Texte können auf der Internetseite des Europarates: http://conventions.coe.int eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden. <sup>a</sup> Das Übereinkommen gilt nicht für die Färöer und Grönland. <sup>b</sup> Das Übereinkommen gilt nicht für Tokelau. <sup>c</sup> Für das Königreich in Europa.</td></tr>
+<tr><td colspan="5">\* Vorbehalte und Erklärungen (die Erklärungen aller Vertragsstaaten über die zuständigen Anerkennungsbehörden und die nationalen Informationszentren, gemäss Art. II.2 und IX.2, sind im oben erwähnten Geltungsbereich nicht mit \*aufgeführt). Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht, mit Ausnahme jener der Schweiz. Die französischen und englischen Texte können auf der Internetseite des Europarates: [www.coe.int](https://www.coe.int/de/web/conventions/home) &gt; Vertragsbüro &gt; Gesamtverzeichnis eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden. <sup>a</sup> Das Übereinkommen gilt nicht für die Färöer und Grönland. <sup>b</sup> Das Übereinkommen gilt nicht für Tokelau. <sup>c</sup> Für das Königreich in Europa.</td></tr>
 </table>
 
-[^t-2]: [AS 2013 2081](https://fedlex.data.admin.ch/eli/oc/2013/436), [2018 3051](https://fedlex.data.admin.ch/eli/oc/2018/484). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+[^t-2]: [AS 2013 2081](https://fedlex.data.admin.ch/eli/oc/2013/436); [2018 3051](https://fedlex.data.admin.ch/eli/oc/2018/484); [2026 282](https://fedlex.data.admin.ch/eli/oc/2026/282). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
 
 Erklärungen
 
@@ -567,12 +570,12 @@ Die Schweizerische Zentralstelle für Hochschulwesen (SZfH) Informationsstelle f
 
 liefert Informationen über die für die verschiedenen Arten von Entscheidungen in Anerkennungsfällen zuständigen Behörden.
 
-Diese Informationen sind auf der Website verfügbar: www.szfh.ch
+Diese Informationen sind auf der Website verfügbar: [www.swissuniversities.ch](https://www.swissuniversities.ch/)
 
 Das Nationale Informationszentrum der Schweiz ist die:
 
-Schweizerische Zentralstelle für Hochschulwesen (SZfH) Informationsstelle für Anerkennungsfragen (Swiss ENIC) Sennweg 2 CH-3012 Bern Tel.: +41 (0)31 306 60 33/32 Fax: +41 (0)31 302 68 11 www.szfh.ch.
+Schweizerische Zentralstelle für Hochschulwesen (SZfH) Informationsstelle für Anerkennungsfragen (Swiss ENIC) Sennweg 2 CH-3012 Bern Tel.: +41 (0)31 306 60 33/32 Fax: +41 (0)31 302 68 11 [www.swissuniversities.ch](https://www.swissuniversities.ch/)
 
 Aufgrund einer Reorganisation der Rektorenkonferenz der Schweizer Universitäten (CRUS) wurde die Schweizerische Zentralstelle für Hochschulwesen aufgelöst und ins Generalsekretariat der Konferenz integriert. Folglich lautet die Adresse der Nationalen Informationsstelle wie folgt:
 
-Rektorenkonferenz der Schweizer Universitäten (CRUS) Informationsstelle für Anerkennungsfragen (Swiss ENIC) Sennweg 2 CH-3012 Bern Internet: www.crus.ch.
+Rektorenkonferenz der Schweizer Universitäten (CRUS) Informationsstelle für Anerkennungsfragen (Swiss ENIC) Sennweg 2 CH-3012 Bern Internet: [www . crus.ch](http://www.crus.ch)
