@@ -3,11 +3,11 @@ sr: "0.231.175"
 title: "Trattato di Marrakech del 27 giugno 2013 volto a facilitare l'accesso alle opere pubblicate per le persone non vedenti, con disabilità visive o con altre difficoltà nella lettura di testi a stampa (con Dichiarazioni concordate)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/186"
 language: it
-version: 2025-03-04
+version: 2026-05-21
 adopted: 2013-06-27
 in_force: 2020-05-11
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/186/20250304/it/xml/fedlex-data-admin-ch-eli-cc-2020-186-20250304-it-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/186/20250304/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/186/20260521/it/xml/fedlex-data-admin-ch-eli-cc-2020-186-20260521-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/186/20260521/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -20,7 +20,7 @@ Traduzione
 
 Concluso a Marrakech il 27 giugno 2013 Approvato dall’Assemblea federale il 21 giugno 2019[^t-1] Ratificato dalla Svizzera con strumento depositato l’11 febbraio 2020 Entrato in vigore per la Svizzera l’11 maggio 2020
 
-(Stato 4 marzo 2025)
+(Stato 21 maggio 2026)
 
 [^t-1]: Art. 1 cpv. del DF del 21 giu. 2019 ([RU 2020 1013](https://fedlex.data.admin.ch/eli/oc/2020/182)).
 
@@ -52,8 +52,8 @@ Le Parti contraenti,
 
 hanno convenuto quanto segue:
 
-[^ingress-1]: [RS 0.109](https://fedlex.data.admin.ch/eli/cc/2014/245)
-[^ingress-2]: [RS 0.231.15](https://fedlex.data.admin.ch/eli/cc/1993/2659_2659_2659)
+[^ingress-1]: [RS 0.109](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/36)
+[^ingress-2]: [RS 0.231.15](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1017)
 
 #### Art. 1
 
@@ -119,7 +119,7 @@ Una Parte contraente può soddisfare l’articolo 4 paragrafo 1 per tutti i diri
 
 <sup>5.</sup> Compete al diritto nazionale stabilire se le limitazioni o le eccezioni ai sensi del presente articolo siano oggetto di retribuzione.
 
-[^4-1]: [RS 0.231.151](https://fedlex.data.admin.ch/eli/cc/2008/358)
+[^4-1]: [RS 0.231.151](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1018)
 
 #### Art. 5
 
@@ -142,7 +142,7 @@ Una Parte contraente può soddisfare l’articolo 5 paragrafo 1 prevedendo nella
 
 <sup>5.</sup> Nessuna disposizione del presente Trattato può essere applicata alla questione dell’esaurimento dei diritti.
 
-[^5-1]: [RS 0.231.151](https://fedlex.data.admin.ch/eli/cc/2008/358)
+[^5-1]: [RS 0.231.151](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1018)
 
 #### Art. 6
 
@@ -195,8 +195,8 @@ Nell’adottare le misure necessarie per garantire l’applicazione del presente
 - c) ai sensi dell’articolo 10 paragrafo 1 del WCT, una Parte contraente può prevedere limitazioni o eccezioni ai diritti concessi agli autori di opere letterarie e artistiche in virtù di detto Trattato in taluni casi speciali che non siano in conflitto con il normale sfruttamento dell’opera e non comportino un ingiustificato pregiudizio ai legittimi interessi dell’autore;
 - d) ai sensi dell’articolo 10 paragrafo 2 del WCT, una Parte contraente può, nell’applicare la Convenzione di Berna, imporre limitazioni o eccezioni ai diritti soltanto in taluni casi speciali che non siano in conflitto con il normale sfruttamento dell’opera e non comportino un ingiustificato pregiudizio ai legittimi interessi dell’autore.
 
-[^11-1]: [RS 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117)allegato 1C
-[^11-2]: [RS 0.231.151](https://fedlex.data.admin.ch/eli/cc/2008/358)
+[^11-1]: [RS 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235)allegato 1C
+[^11-2]: [RS 0.231.151](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1018)
 
 #### Art. 12
 
@@ -344,12 +344,13 @@ In merito all’art. 10 par. 2
 
 Resta inteso che per le opere, anche in formato audio, che rientrano nella definizione di cui all’articolo 2 lettera a, le limitazioni e le eccezioni previste dal presente Trattato si applicano, in quanto compatibili, ai diritti affini necessari per produrne esemplari in formato accessibile, distribuirli e renderli disponibili ai beneficiari.
 
-Campo d’applicazione il 4 marzo 2025[^t-2]
+Campo d’applicazione il 21 maggio 2026[^t-2]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A)</th><th></th><th>Entrata in vigore</th><th></th></tr>
 <tr><td>Afghanistan</td><td>26 luglio</td><td>2018</td><td>26 ottobre</td><td>2018</td></tr>
 <tr><td>Arabia Saudita</td><td>21 novembre</td><td>2018 A</td><td>21 febbraio</td><td>2019</td></tr>
+<tr><td>Angola</td><td>15 dicembre</td><td>2025 A</td><td>15 marzo</td><td>2026</td></tr>
 <tr><td>Argentina</td><td>1° aprile</td><td>2015</td><td>30 settembre</td><td>2016</td></tr>
 <tr><td>Armenia\*</td><td>1° giugno</td><td>2022 A</td><td>1° settembre</td><td>2022</td></tr>
 <tr><td>Australia\*</td><td>10 dicembre</td><td>2015</td><td>30 settembre</td><td>2016</td></tr>
@@ -370,19 +371,21 @@ Campo d’applicazione il 4 marzo 2025[^t-2]
 <tr><td>Cile</td><td>10 maggio</td><td>2016</td><td>30 settembre</td><td>2016</td></tr>
 <tr><td>Cina\* <sup>a</sup></td><td>5 febbraio</td><td>2022</td><td>5 maggio</td><td>2022</td></tr>
 <tr><td>Hong Kong\*</td><td>5 febbraio</td><td>2022</td><td>5 maggio</td><td>2022</td></tr>
+<tr><td>Colombia</td><td>27 febbraio</td><td>2025</td><td>27 maggio</td><td>2025</td></tr>
 <tr><td>Comore</td><td>25 gennaio</td><td>2021</td><td>25 aprile</td><td>2021</td></tr>
 <tr><td>Corea (Nord)</td><td>19 febbraio</td><td>2016</td><td>30 settembre</td><td>2016</td></tr>
 <tr><td>Corea (Sud)</td><td>8 ottobre</td><td>2015</td><td>30 settembre</td><td>2016</td></tr>
 <tr><td>Costa d’Avorio</td><td>17 settembre</td><td>2020</td><td>17 dicembre</td><td>2020</td></tr>
 <tr><td>Costa Rica</td><td>9 ottobre</td><td>2017</td><td>9 gennaio</td><td>2018</td></tr>
+<tr><td>Cuba</td><td>4 marzo</td><td>2026 A</td><td>4 giugno</td><td>2026</td></tr>
 <tr><td>Dominicana, Repubblica\*</td><td>5 giugno</td><td>2018</td><td>5 settembre</td><td>2018</td></tr>
 <tr><td>Ecuador</td><td>29 giugno</td><td>2016</td><td>30 settembre</td><td>2016</td></tr>
 <tr><td>El Salvador</td><td>1° ottobre</td><td>2014</td><td>30 settembre</td><td>2016</td></tr>
 <tr><td>Emirati Arabi Uniti</td><td>15 ottobre</td><td>2014 A</td><td>30 settembre</td><td>2016</td></tr>
 <tr><td>Etiopia</td><td>2 novembre</td><td>2020</td><td>2 febbraio</td><td>2021</td></tr>
 <tr><td>Filippine</td><td>18 dicembre</td><td>2018 A</td><td>18 marzo</td><td>2019</td></tr>
-<tr><td>Ghana</td><td>11 maggio</td><td>2018</td><td>11 agosto</td><td>2018</td></tr>
 <tr><td>Georgia\*</td><td>26 novembre</td><td>2024 A</td><td>26 febbraio</td><td>2025</td></tr>
+<tr><td>Ghana</td><td>11 maggio</td><td>2018</td><td>11 agosto</td><td>2018</td></tr>
 <tr><td>Giamaica</td><td>28 maggio</td><td>2024 A</td><td>28 agosto</td><td>2024</td></tr>
 <tr><td>Giappone\*</td><td>1° ottobre</td><td>2018 A</td><td>1° gennaio</td><td>2019</td></tr>
 <tr><td>Giordania</td><td>26 giugno</td><td>2018</td><td>26 settembre</td><td>2018</td></tr>
@@ -394,6 +397,7 @@ Campo d’applicazione il 4 marzo 2025[^t-2]
 <tr><td>Islanda</td><td>9 dicembre</td><td>2021 A</td><td>9 marzo</td><td>2022</td></tr>
 <tr><td>Isole Marshall</td><td>8 febbraio</td><td>2019 A</td><td>8 maggio</td><td>2019</td></tr>
 <tr><td>Israele</td><td>21 marzo</td><td>2016 A</td><td>30 settembre</td><td>2016</td></tr>
+<tr><td>Kazakistan</td><td>14 aprile</td><td>2025 A</td><td>14 luglio</td><td>2025</td></tr>
 <tr><td>Kenya</td><td>2 giugno</td><td>2017</td><td>2 settembre</td><td>2017</td></tr>
 <tr><td>Kirghizistan</td><td>15 maggio</td><td>2017 A</td><td>15 agosto</td><td>2017</td></tr>
 <tr><td>Kiribati</td><td>31 luglio</td><td>2019 A</td><td>31 ottobre</td><td>2019</td></tr>
@@ -409,6 +413,7 @@ Campo d’applicazione il 4 marzo 2025[^t-2]
 <tr><td>Moldova</td><td>19 febbraio</td><td>2018</td><td>19 maggio</td><td>2018</td></tr>
 <tr><td>Mongolia</td><td>23 settembre</td><td>2015</td><td>30 settembre</td><td>2016</td></tr>
 <tr><td>Montenegro</td><td>8 marzo</td><td>2022 A</td><td>8 giugno</td><td>2022</td></tr>
+<tr><td>Mozambico</td><td>27 gennaio</td><td>2026</td><td>27 aprile</td><td>2026</td></tr>
 <tr><td>Nicaragua</td><td>16 gennaio</td><td>2020 A</td><td>16 aprile</td><td>2020</td></tr>
 <tr><td>Nigeria</td><td>4 ottobre</td><td>2017</td><td>4 gennaio</td><td>2018</td></tr>
 <tr><td>Norvegia</td><td>31 agosto</td><td>2021</td><td>30 novembre</td><td>2021</td></tr>
@@ -452,7 +457,7 @@ Campo d’applicazione il 4 marzo 2025[^t-2]
 <tr><td>Venezuela</td><td>2 ottobre</td><td>2019 A</td><td>2 gennaio</td><td>2020</td></tr>
 <tr><td>Vietnam</td><td>6 dicembre</td><td>2022 A</td><td>6 marzo</td><td>2023</td></tr>
 <tr><td>Zimbabwe</td><td>12 settembre</td><td>2019</td><td>12 dicembre</td><td>2019</td></tr>
-<tr><td colspan="5">\* Riserve e dichiarazioni. Riserve e dichiarazioni. Le riserve e le dichiarazioni non sono pubblicate nella RU, eccetto quelle della Svizzera. Il testo, in francese e inglese, può essere consultato sul sito Internet dell’Organizzazione mondiale della proprietà intellettuale (OMPI): www.wipo.int/treaties/fr/ip/marrakesh/ oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna. <sup>a</sup> Il Trattato di Marrakech non si applica a Macao. [tab]</td></tr>
+<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e le dichiarazioni non sono pubblicate nella RU, eccetto quelle della Svizzera. Il testo, in francese e inglese, può essere consultato sul sito Internet dell’Organizzazione mondiale della proprietà intellettuale (OMPI): www.wipo.int/treaties/fr/ip/marrakesh/ oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna. <sup>a</sup> Il Trattato di Marrakech non si applica a Macao.</td></tr>
 </table>
 
-[^t-2]: [RU 2020 1041](https://fedlex.data.admin.ch/eli/oc/2020/186); [2021 431](https://fedlex.data.admin.ch/eli/oc/2021/431); [2022 364](https://fedlex.data.admin.ch/eli/oc/2022/364); [2024 2](https://fedlex.data.admin.ch/eli/oc/2024/2); [2025 159](https://fedlex.data.admin.ch/eli/oc/2025/159). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: www.fedlex.admin.ch/it/treaty.
+[^t-2]: [RU 2020 1041](https://fedlex.data.admin.ch/eli/oc/2020/186); [2021 431](https://fedlex.data.admin.ch/eli/oc/2021/431); [2022 364](https://fedlex.data.admin.ch/eli/oc/2022/364); [2024 2](https://fedlex.data.admin.ch/eli/oc/2024/2); [2025 159](https://fedlex.data.admin.ch/eli/oc/2025/159); [2026 250](https://fedlex.data.admin.ch/eli/oc/2026/250). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty).

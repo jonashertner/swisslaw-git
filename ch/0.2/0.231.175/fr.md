@@ -3,11 +3,11 @@ sr: "0.231.175"
 title: "Traité de Marrakech du 27 juin 2013 visant à faciliter l'accès des aveugles, des déficients visuels et des personnes ayant d'autres difficultés de lecture des textes imprimés aux uvres publiées (avec décl. communes)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/186"
 language: fr
-version: 2025-03-04
+version: 2026-05-21
 adopted: 2013-06-27
 in_force: 2020-05-11
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/186/20250304/fr/xml/fedlex-data-admin-ch-eli-cc-2020-186-20250304-fr-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/186/20250304/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/186/20260521/fr/xml/fedlex-data-admin-ch-eli-cc-2020-186-20260521-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/186/20260521/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -20,7 +20,7 @@ Texte original
 
 Conclu à Marrakech le 27 juin 2013 Approuvé par l’Assemblée fédérale le 21 juin 2019[^t-1] Instrument de ratification déposé par la Suisse le 11 février 2020 Entré en vigueur pour la Suisse le 11 mai 2020
 
-(État le 4 mars 2025)
+(État le 21 mai 2026)
 
 [^t-1]: Art. 1, al. 1 de l’AF du 21 juin 2019 ([RO 2020 1013](https://fedlex.data.admin.ch/eli/oc/2020/182)).
 
@@ -52,8 +52,8 @@ Les Parties contractantes,
 
 sont convenues de ce qui suit:
 
-[^ingress-1]: [RS 0.109](https://fedlex.data.admin.ch/eli/cc/2014/245)
-[^ingress-2]: [RS 0.231.15](https://fedlex.data.admin.ch/eli/cc/1993/2659_2659_2659)
+[^ingress-1]: [RS 0.109](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/36)
+[^ingress-2]: [RS 0.231.15](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1017)
 
 #### Art. 1
 
@@ -119,7 +119,7 @@ Les Parties contractantes peuvent satisfaire aux exigences énoncées à l’art
 
 <sup>5.</sup> Est réservée à la législation nationale la faculté de déterminer si les limitations et exceptions prévues dans le présent article font l’objet d’une rémunération.
 
-[^4-1]: [RS 0.231.151](https://fedlex.data.admin.ch/eli/cc/2008/358)
+[^4-1]: [RS 0.231.151](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1018)
 
 #### Art. 5
 
@@ -142,7 +142,7 @@ Les Parties contractantes peuvent satisfaire aux exigences énoncées à l’art
 
 <sup>5.</sup> Aucune disposition du présent Traité ne sera utilisée pour traiter la question de l’épuisement des droits.
 
-[^5-1]: [RS 0.231.151](https://fedlex.data.admin.ch/eli/cc/2008/358)
+[^5-1]: [RS 0.231.151](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1018)
 
 #### Art. 6
 
@@ -195,8 +195,8 @@ En adoptant les mesures nécessaires pour assurer l’application du présent Tr
 - c) conformément à l’art. 10.1) du WCT, elle puisse assortir de limitations ou d’exceptions les droits conférés aux auteurs d’œuvres littéraires et artistiques en vertu du WCT dans certains cas spéciaux où il n’est pas porté atteinte à l’exploitation normale de l’œuvre ni causé de préjudice injustifié aux intérêts légitimes de l’auteur;
 - d) conformément à l’art. 10.2) du WCT, elle restreigne, en appliquant la Convention de Berne, toutes limitations ou exceptions dont elle assortit les droits prévus dans ladite convention à certains cas spéciaux où il n’est pas porté atteinte à l’exploitation normale de l’œuvre ni causé de préjudice injustifié aux intérêts légitimes de l’auteur.
 
-[^11-1]: [RS 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117)annexe 1C
-[^11-2]: [RS 0.231.151](https://fedlex.data.admin.ch/eli/cc/2008/358)
+[^11-1]: [RS 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235)annexe 1C
+[^11-2]: [RS 0.231.151](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1018)
 
 #### Art. 12
 
@@ -344,13 +344,14 @@ Déclaration commune concernant l’art. 10.2)
 
 Il est entendu que lorsqu’une œuvre constitue une œuvre au sens de l’art. 2.a) du présent Traité, y compris les œuvres sous forme audio, les limitations et exceptions prévues dans le présent Traité s’appliquent *mutatis mutandis* aux droits connexes dans la mesure nécessaire pour réaliser l’exemplaire en format accessible, le distribuer et le mettre à la disposition des personnes bénéficiaires.
 
-[^lvlu23-1]: [RS 0.231.151](https://fedlex.data.admin.ch/eli/cc/2008/358)
+[^lvlu23-1]: [RS 0.231.151](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1018)
 
-Champ d’application le 4 mars 2025[^t-2]
+Champ d’application le 21 mai 2026[^t-2]
 
 <table>
 <tr><th>États parties</th><th>Ratification Adhésion (A)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
 <tr><td>Afghanistan</td><td>26 juillet</td><td>2018</td><td>26 octobre</td><td>2018</td></tr>
+<tr><td>Angola</td><td>15 décembre</td><td>2025 A</td><td>15 mars</td><td>2026</td></tr>
 <tr><td>Arabie Saoudite</td><td>21 novembre</td><td>2018 A</td><td>21 février</td><td>2019</td></tr>
 <tr><td>Argentine</td><td>1<sup>er</sup> avril</td><td>2015</td><td>30 septembre</td><td>2016</td></tr>
 <tr><td>Arménie\*</td><td>1<sup>er</sup> juin</td><td>2022 A</td><td>1<sup>er</sup> septembre</td><td>2022</td></tr>
@@ -371,11 +372,13 @@ Champ d’application le 4 mars 2025[^t-2]
 <tr><td>Chili</td><td>10 mai</td><td>2016</td><td>30 septembre</td><td>2016</td></tr>
 <tr><td>Chine\* <sup>a</sup></td><td>5 février</td><td>2022</td><td>5 mai</td><td>2022</td></tr>
 <tr><td>Hong Kong\*</td><td>5 février</td><td>2022</td><td>5 mai</td><td>2022</td></tr>
+<tr><td>Colombie</td><td>27 février</td><td>2025</td><td>27 mai</td><td>2025</td></tr>
 <tr><td>Comores</td><td>25 janvier</td><td>2021</td><td>25 avril</td><td>2021</td></tr>
 <tr><td>Corée (Nord)</td><td>19 février</td><td>2016</td><td>30 septembre</td><td>2016</td></tr>
 <tr><td>Corée (Sud)</td><td>8 octobre</td><td>2015</td><td>30 septembre</td><td>2016</td></tr>
 <tr><td>Costa Rica</td><td>9 octobre</td><td>2017</td><td>9 janvier</td><td>2018</td></tr>
 <tr><td>Côte d’Ivoire</td><td>17 septembre</td><td>2020</td><td>17 décembre</td><td>2020</td></tr>
+<tr><td>Cuba</td><td>4 mars</td><td>2026 A</td><td>4 juin</td><td>2026</td></tr>
 <tr><td>El Salvador</td><td>1<sup>er</sup> octobre</td><td>2014</td><td>30 septembre</td><td>2016</td></tr>
 <tr><td>Émirats arabes unis</td><td>15 octobre</td><td>2014 A</td><td>30 septembre</td><td>2016</td></tr>
 <tr><td>Équateur</td><td>29 juin</td><td>2016</td><td>30 septembre</td><td>2016</td></tr>
@@ -394,6 +397,7 @@ Champ d’application le 4 mars 2025[^t-2]
 <tr><td>Jamaïque</td><td>28 mai</td><td>2024 A</td><td>28 août</td><td>2024</td></tr>
 <tr><td>Japon\*</td><td>1<sup>er</sup> octobre</td><td>2018 A</td><td>1<sup>er</sup> janvier</td><td>2019</td></tr>
 <tr><td>Jordanie</td><td>26 juin</td><td>2018</td><td>26 septembre</td><td>2018</td></tr>
+<tr><td>Kazakhstan</td><td>14 avril</td><td>2025 A</td><td>14 juillet</td><td>2025</td></tr>
 <tr><td>Kenya</td><td>2 juin</td><td>2017</td><td>2 septembre</td><td>2017</td></tr>
 <tr><td>Kirghizistan</td><td>15 mai</td><td>2017 A</td><td>15 août</td><td>2017</td></tr>
 <tr><td>Kiribati</td><td>31 juillet</td><td>2019 A</td><td>31 octobre</td><td>2019</td></tr>
@@ -409,6 +413,7 @@ Champ d’application le 4 mars 2025[^t-2]
 <tr><td>Moldova</td><td>19 février</td><td>2018</td><td>19 mai</td><td>2018</td></tr>
 <tr><td>Mongolie</td><td>23 septembre</td><td>2015</td><td>30 septembre</td><td>2016</td></tr>
 <tr><td>Monténégro</td><td>8 mars</td><td>2022 A</td><td>8 juin</td><td>2022</td></tr>
+<tr><td>Mozambique</td><td>27 janvier</td><td>2026</td><td>27 avril</td><td>2026</td></tr>
 <tr><td>Nicaragua</td><td>16 janvier</td><td>2020 A</td><td>16 avril</td><td>2020</td></tr>
 <tr><td>Nigéria</td><td>4 octobre</td><td>2017</td><td>4 janvier</td><td>2018</td></tr>
 <tr><td>Norvège</td><td>31 août</td><td>2021</td><td>30 novembre</td><td>2021</td></tr>
@@ -457,4 +462,4 @@ Champ d’application le 4 mars 2025[^t-2]
 <tr><td colspan="5">\* Réserves et déclarations Les réserves et déclarations ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet de l’Organisation mondiale de la propriété intellectuelle: [www.wipo.int/treaties/fr/ip/marrakesh/](https://www.wipo.int/treaties/fr/ip/marrakesh/) ou obtenus à la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> Le Traité de Marrakech ne s’applique pas à Macao.</td></tr>
 </table>
 
-[^t-2]: [RO 2020 1041](https://fedlex.data.admin.ch/eli/oc/2020/186); [2021 431](https://fedlex.data.admin.ch/eli/oc/2021/431); [2022 364](https://fedlex.data.admin.ch/eli/oc/2022/364); [2024 2](https://fedlex.data.admin.ch/eli/oc/2024/2); [2025 159](https://fedlex.data.admin.ch/eli/oc/2025/159). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).
+[^t-2]: [RO 2020 1041](https://fedlex.data.admin.ch/eli/oc/2020/186); [2021 431](https://fedlex.data.admin.ch/eli/oc/2021/431); [2022 364](https://fedlex.data.admin.ch/eli/oc/2022/364); [2024 2](https://fedlex.data.admin.ch/eli/oc/2024/2); [2025 159](https://fedlex.data.admin.ch/eli/oc/2025/159); [2026 250](https://fedlex.data.admin.ch/eli/oc/2026/250). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).
