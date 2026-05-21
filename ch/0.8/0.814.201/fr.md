@@ -3,11 +3,11 @@ sr: "0.814.201"
 title: "Protocole du 17 juin 1999 sur l'eau et la santé à la Convention de 1992 sur la protection et l'utilisation des cours d'eau transfrontières et des lacs internationaux"
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/207"
 language: fr
-version: 2020-07-07
+version: 2026-05-22
 adopted: 1999-06-17
 in_force: 2007-01-25
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/207/20200707/fr/xml/fedlex-data-admin-ch-eli-cc-2007-207-20200707-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/207/20200707/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/207/20260522/fr/xml/fedlex-data-admin-ch-eli-cc-2007-207-20260522-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/207/20260522/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -26,43 +26,43 @@ Instrument de ratification déposé par la Suisse le 27 octobre 2006
 
 Entré en vigueur pour la Suisse le 25 janvier 2007
 
-(Etat le 7 juillet 2020)
+(État le 22 mai 2026)
 
 [^t-1]: [RO 2007 1275](https://fedlex.data.admin.ch/eli/oc/2007/206)
 
 Les Parties au présent Protocole,
 
-sachant que l’eau est essentielle à la vie et que la disponibilité d’eau en quantité et d’une qualité suffisantes pour répondre aux besoins fondamentaux de l’homme est indispensable aussi bien pour une amélioration de la santé que pour un développement durable;
+sachant que l’eau est essentielle à la vie et que la disponibilité d’eau en quantité et d’une qualité suffisantes pour répondre aux besoins fondamentaux de l’homme est indispensable aussi bien pour une amélioration de la santé que pour un développement durable,
 
-reconnaissant les avantages pour la santé et le bien-être de l’homme qu’offrent une eau salubre et propre et un milieu aquatique harmonieux et fonctionnant correctement;
+reconnaissant les avantages pour la santé et le bien-être de l’homme qu’offrent une eau salubre et propre et un milieu aquatique harmonieux et fonctionnant correctement,
 
-conscientes du fait que les eaux superficielles et les eaux souterraines sont des ressources renouvelables ayant une capacité limitée à se remettre des impacts préjudiciables, sur le plan quantitatif et qualitatif, des activités humaines et du fait que tout non-respect de ces limites peut avoir des effets préjudiciables, à court et à long termes, sur la santé et le bien-être des personnes qui dépendent de ces ressources et de leur qualité, et qu’en conséquence une gestion durable du cycle hydrologique est indispensable tant pour répondre aux besoins de l’homme que pour protéger l’environnement;
+conscientes du fait que les eaux superficielles et les eaux souterraines sont des ressources renouvelables ayant une capacité limitée à se remettre des impacts préjudiciables, sur le plan quantitatif et qualitatif, des activités humaines et du fait que tout non-respect de ces limites peut avoir des effets préjudiciables, à court et à long termes, sur la santé et le bien-être des personnes qui dépendent de ces ressources et de leur qualité, et qu’en conséquence une gestion durable du cycle hydrologique est indispensable tant pour répondre aux besoins de l’homme que pour protéger l’environnement,
 
-conscientes également des conséquences sur la santé publique des déficits d’eau en quantité et d’une qualité suffisantes pour répondre aux besoins fondamentaux de l’homme, et des graves effets de tels déficits, en particulier sur les personnes vulnérables, défavorisées ou socialement exclues;
+conscientes également des conséquences sur la santé publique des déficits d’eau en quantité et d’une qualité suffisantes pour répondre aux besoins fondamentaux de l’homme, et des graves effets de tels déficits, en particulier sur les personnes vulnérables, défavorisées ou socialement exclues,
 
-conscientes du fait que prévenir, combattre et faire reculer les maladies liées à l’eau sont des tâches importantes et urgentes qui ne peuvent être menées à bien que par une coopération renforcée à tous les niveaux et entre tous les secteurs, aussi bien au sein des pays qu’entre les États;
+conscientes du fait que prévenir, combattre et faire reculer les maladies liées à l’eau sont des tâches importantes et urgentes qui ne peuvent être menées à bien que par une coopération renforcée à tous les niveaux et entre tous les secteurs, aussi bien au sein des pays qu’entre les États,
 
-conscientes également du fait que la surveillance des maladies liées à l’eau et la mise en place de systèmes d’alerte rapide et d’intervention sont des aspects importants de l’action à mener pour prévenir, combattre et faire reculer ces maladies;
+conscientes également du fait que la surveillance des maladies liées à l’eau et la mise en place de systèmes d’alerte rapide et d’intervention sont des aspects importants de l’action à mener pour prévenir, combattre et faire reculer ces maladies,
 
-se fondant sur les conclusions de la Conférence des Nations Unies sur l’environnement et le développement (Rio de Janeiro, 1992), notamment sur la Déclaration de Rio sur l’environnement et le développement et le programme Action 21, ainsi que sur le programme relatif à la poursuite de la mise en œuvre d’Action 21 (New York, 1997) et sur la décision concernant à la gestion durable des eaux douces, prise en conséquence par la Commission du développement durable (New York, 1998);
+se fondant sur les conclusions de la Conférence des Nations Unies sur l’environnement et le développement (Rio de Janeiro, 1992), notamment sur la Déclaration de Rio sur l’environnement et le développement et le programme Action 21, ainsi que sur le programme relatif à la poursuite de la mise en œuvre d’Action 21 (New York, 1997) et sur la décision concernant à la gestion durable des eaux douces, prise en conséquence par la Commission du développement durable (New York, 1998),
 
-s’inspirant des dispositions pertinentes de la Convention de 1992 sur la protection et l’utilisation des cours d’eau transfrontières et des lacs internationaux[^ingress-1] et soulignant la nécessité à la fois d’encourager une application plus large de ces dispositions et de compléter ladite convention par d’autres mesures visant à renforcer la protection de la santé publique;
+s’inspirant des dispositions pertinentes de la Convention de 1992 sur la protection et l’utilisation des cours d’eau transfrontières et des lacs internationaux[^ingress-1] et soulignant la nécessité à la fois d’encourager une application plus large de ces dispositions et de compléter ladite convention par d’autres mesures visant à renforcer la protection de la santé publique,
 
-notant la Convention de 1991 sur l’évaluation de l’impact sur l’environnement dans un contexte transfrontière[^ingress-2], la Convention de 1992 sur les effets transfrontières des accidents industriels[^ingress-3], la Convention des Nations Unies de 1997 sur le droit relatif aux utilisations des cours d’eau internationaux à des fins autres que la navigation et la Convention de 1998 sur l’accès à l’information, la participation du public au processus décisionnel et l’accès à la justice en matière d’environnement;
+notant la Convention de 1991 sur l’évaluation de l’impact sur l’environnement dans un contexte transfrontière[^ingress-2], la Convention de 1992 sur les effets transfrontières des accidents industriels[^ingress-3], la Convention des Nations Unies de 1997 sur le droit relatif aux utilisations des cours d’eau internationaux à des fins autres que la navigation et la Convention de 1998 sur l’accès à l’information, la participation du public au processus décisionnel et l’accès à la justice en matière d’environnement,
 
-notant en outre les principes, buts et recommandations pertinents de la Charte européenne de l’environnement et de la santé de 1989, la Déclaration d’Helsinki de 1994 sur l’environnement et la santé, et les déclarations ministérielles, les recommandations et les résolutions adoptées dans le cadre du processus «Un environnement pour l’Europe»;
+notant en outre les principes, buts et recommandations pertinents de la Charte européenne de l’environnement et de la santé de 1989, la Déclaration d’Helsinki de 1994 sur l’environnement et la santé, et les déclarations ministérielles, les recommandations et les résolutions adoptées dans le cadre du processus «Un environnement pour l’Europe»,
 
-reconnaissant le bien-fondé et l’utilité d’autres initiatives, instruments et processus liés à l’environnement en Europe et notant également l’élaboration et la mise en œuvre de plans d’action nationaux pour l’environnement et la santé et de plans d’action nationaux pour l’environnement;
+reconnaissant le bien-fondé et l’utilité d’autres initiatives, instruments et processus liés à l’environnement en Europe et notant également l’élaboration et la mise en œuvre de plans d’action nationaux pour l’environnement et la santé et de plans d’action nationaux pour l’environnement,
 
-notant avec satisfaction les mesures déjà prises par la Commission économique des Nations Unies pour l’Europe et par le Bureau régional de l’Europe de l’Organisation mondiale de la santé pour renforcer la coopération bilatérale et multilatérale en vue de prévenir, de combattre et de faire reculer les maladies liées à l’eau;
+notant avec satisfaction les mesures déjà prises par la Commission économique des Nations Unies pour l’Europe et par le Bureau régional de l’Europe de l’Organisation mondiale de la santé pour renforcer la coopération bilatérale et multilatérale en vue de prévenir, de combattre et de faire reculer les maladies liées à l’eau,
 
 encouragées par les nombreux exemples de résultats positifs obtenus par les États membres de la Commission économique des Nations Unies pour l’Europe et par les États membres du Comité régional de l’Europe de l’Organisation mondiale de la santé pour ce qui est d’atténuer la pollution et de maintenir ou de rétablir des milieux aquatiques à même de favoriser la santé et le bien-être de l’homme,
 
 sont convenues de ce qui suit:
 
-[^ingress-1]: [RS 0.814.20](https://fedlex.data.admin.ch/eli/cc/1997/835_835_835)
-[^ingress-2]: [RS 0.814.06](https://fedlex.data.admin.ch/eli/cc/2003/610)
-[^ingress-3]: [RS 0.814.04](https://fedlex.data.admin.ch/eli/cc/2005/142)
+[^ingress-1]: [RS 0.814.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3503)
+[^ingress-2]: [RS 0.814.06](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3496)
+[^ingress-3]: [RS 0.814.04](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3492)
 
 #### Art. 1
 
@@ -124,7 +124,7 @@ l’expression «autorité publique» désigne:
 
 <sup>17.</sup> l’expression «Réunion des Parties» désigne l’organe établi par les Parties conformément à l’art. 16.
 
-[^2-1]: [RS 0.814.20](https://fedlex.data.admin.ch/eli/cc/1997/835_835_835)
+[^2-1]: [RS 0.814.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3503)
 
 #### Art. 3
 
@@ -197,7 +197,7 @@ Lorsqu’elles adoptent des mesures en application du présent Protocole, les Pa
 - m) en contrepartie des droits relatifs à l’eau qui leur sont garantis par le droit privé et le droit public, les personnes physiques et morales et les organismes du secteur public comme du secteur privé devraient contribuer à la protection du milieu aquatique et à la conservation des ressources en eau;
 - n) dans le cadre de l’application du présent Protocole, il devrait être dûment tenu compte des problèmes, besoins et connaissances locaux.
 
-[^5-1]: [RS 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
+[^5-1]: [RS 0.120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/41)
 
 #### Art. 6
 
@@ -550,9 +550,9 @@ Le Secrétaire général de l’Organisation des Nations Unies remplit les fonct
 
 L’original du présent Protocole, dont les textes allemand, anglais, français et russe sont également authentiques, est déposé auprès du Secrétaire général de l’Organisation des Nations Unies.
 
-*En foi de quoi,* les soussignés, à ce dûment autorisés, ont signé le présent Protocole. Fait à Londres, le dix-sept juin mil neuf cent quatre-vingt-dix-neuf. (*Suivent les signatures*)
+*En foi de quoi,* les soussignés, à ce dûment autorisés, ont signé le présent Protocole. Fait à Londres, le dix-sept juin mil neuf cent quatre-vingt-dix-neuf. (Suivent les signatures)
 
-Champ d’application le 7 juillet 2020**[^t-2]**
+Champ d’application le 22 mai 2026[^t-2]
 
 <table>
 <tr><th>États parties</th><th>Ratification Adhésion (A)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
@@ -568,12 +568,15 @@ Champ d’application le 7 juillet 2020**[^t-2]**
 <tr><td>Finlande</td><td>3 mars</td><td>2005</td><td>4 août</td><td>2005</td></tr>
 <tr><td>France</td><td>6 mai</td><td>2005</td><td>4 août</td><td>2005</td></tr>
 <tr><td>Hongrie</td><td>7 décembre</td><td>2001</td><td>4 août</td><td>2005</td></tr>
+<tr><td>Kazakhstan</td><td>5 janvier</td><td>2026 A</td><td>5 avril</td><td>2026</td></tr>
 <tr><td>Lettonie</td><td>24 novembre</td><td>2004</td><td>4 août</td><td>2005</td></tr>
 <tr><td>Lituanie</td><td>17 mars</td><td>2004</td><td>4 août</td><td>2005</td></tr>
 <tr><td>Luxembourg</td><td>4 octobre</td><td>2001</td><td>4 août</td><td>2005</td></tr>
+<tr><td>Macédoine du Nord</td><td>28 septembre</td><td>2023 A</td><td>27 décembre</td><td>2023</td></tr>
 <tr><td>Moldova</td><td>16 septembre</td><td>2005</td><td>15 décembre</td><td>2005</td></tr>
 <tr><td>Monténégro</td><td>22 novembre</td><td>2019 A</td><td>20 février</td><td>2020</td></tr>
 <tr><td>Norvège</td><td>6 janvier</td><td>2004</td><td>4 août</td><td>2005</td></tr>
+<tr><td>Ouzbékistan</td><td>26 décembre</td><td>2023 A</td><td>25 mars</td><td>2024</td></tr>
 <tr><td>Pays-Bas</td><td>25 juin</td><td>2009</td><td>23 septembre</td><td>2009</td></tr>
 <tr><td>Portugal</td><td>6 septembre</td><td>2006</td><td>5 décembre</td><td>2006</td></tr>
 <tr><td>République tchèque</td><td>15 novembre</td><td>2001</td><td>4 août</td><td>2005</td></tr>
@@ -585,4 +588,4 @@ Champ d’application le 7 juillet 2020**[^t-2]**
 <tr><td>Ukraine</td><td>26 septembre</td><td>2003</td><td>4 août</td><td>2005</td></tr>
 </table>
 
-[^t-2]: [RO 2007 1277](https://fedlex.data.admin.ch/eli/oc/2007/207), [2010 3615](https://fedlex.data.admin.ch/eli/oc/2010/522), [2013 285](https://fedlex.data.admin.ch/eli/oc/2013/43), [2016 379](https://fedlex.data.admin.ch/eli/oc/2016/55), [2020 3433](https://fedlex.data.admin.ch/eli/oc/2020/587). Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.dfae.admin.ch/traites).
+[^t-2]: [RO 2007 1277](https://fedlex.data.admin.ch/eli/oc/2007/207); [2010 3615](https://fedlex.data.admin.ch/eli/oc/2010/522); [2013 285](https://fedlex.data.admin.ch/eli/oc/2013/43); [2016 379](https://fedlex.data.admin.ch/eli/oc/2016/55); [2020 3433](https://fedlex.data.admin.ch/eli/oc/2020/587); [2026 278](https://fedlex.data.admin.ch/eli/oc/2026/278). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).

@@ -3,11 +3,11 @@ sr: "0.814.201"
 title: Protokoll vom 17. Juni 1999 über Wasser und Gesundheit zu dem Übereinkommen von 1992 zum Schutz und zur Nutzung grenzüberschreitender Wasserläufe und internationaler Seen
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/207"
 language: de
-version: 2020-07-07
+version: 2026-05-22
 adopted: 1999-06-17
 in_force: 2007-01-25
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/207/20200707/de/xml/fedlex-data-admin-ch-eli-cc-2007-207-20200707-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/207/20200707/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/207/20260522/de/xml/fedlex-data-admin-ch-eli-cc-2007-207-20260522-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/207/20260522/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -26,7 +26,7 @@ Ratifikationsurkunde von der Schweiz hinterlegt am 27. Oktober 2006
 
 In Kraft getreten für die Schweiz am 25. Januar 2007
 
-(Stand am 7. Juli 2020)
+(Stand am 22. Mai 2026)
 
 [^t-1]: [AS 2007 1275](https://fedlex.data.admin.ch/eli/oc/2007/206)
 
@@ -60,9 +60,9 @@ ermutigt durch die zahlreichen Errungenschaften der Mitgliedstaaten der Wirtscha
 
 sind wie folgt übereingekommen:
 
-[^ingress-1]: [SR 0.814.20](https://fedlex.data.admin.ch/eli/cc/1997/835_835_835)
-[^ingress-2]: [SR 0.814.06](https://fedlex.data.admin.ch/eli/cc/2003/610)
-[^ingress-3]: [SR 0.814.04](https://fedlex.data.admin.ch/eli/cc/2005/142)
+[^ingress-1]: [SR 0.814.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3503)
+[^ingress-2]: [SR 0.814.06](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3496)
+[^ingress-3]: [SR 0.814.04](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3492)
 
 #### Art. 1
 
@@ -122,7 +122,7 @@ bedeutet «öffentliche Instanz»:
 
 <sup>17.</sup> bedeutet «Tagung der Vertragsparteien» das von den Vertragsparteien nach Artikel 16 eingesetzte Gremium.
 
-[^2-1]: [SR 0.814.20](https://fedlex.data.admin.ch/eli/cc/1997/835_835_835)
+[^2-1]: [SR 0.814.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3503)
 
 #### Art. 3
 
@@ -195,7 +195,7 @@ Bei Massnahmen zur Durchführung dieses Protokolls gehen die Vertragsparteien in
 - m) Natürliche und juristische Personen und Institutionen im öffentlichen wie im privaten Sektor sollen dafür, dass sie privatrechtliche und öffentlich-rechtliche Rechte und Ansprüche auf Wasser haben, einen Beitrag zum Schutz der Wasserumwelt und zur Erhaltung der Wasservorkommen leisten.
 - n) Bei der Durchführung dieses Protokolls sollen örtliche Probleme und Bedürfnisse und das auf dieser Ebene vorhandene Wissen gebührend berücksichtigt werden.
 
-[^5-1]: [SR 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
+[^5-1]: [SR 0.120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/41)
 
 #### Art. 6
 
@@ -549,7 +549,7 @@ Die Urschrift dieses Protokolls, dessen deutscher, englischer, französischer un
 
 *Zu Urkund dessen* haben die hierzu gehörig befugten Unterzeichneten dieses Protokoll unterschrieben. Geschehen zu London am 17. Juni 1999. (Es folgen die Unterschriften)
 
-Geltungsbereich am 7. Juli 2020**[^t-2]**
+Geltungsbereich am 22. Mai 2026[^t-2]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -562,6 +562,7 @@ Geltungsbereich am 7. Juli 2020**[^t-2]**
 <tr><td>Estland</td><td>9. September</td><td>2003</td><td>4. August</td><td>2005</td></tr>
 <tr><td>Finnland</td><td>3. März</td><td>2005</td><td>4. August</td><td>2005</td></tr>
 <tr><td>Frankreich</td><td>6. Mai</td><td>2005</td><td>4. August</td><td>2005</td></tr>
+<tr><td>Kasachstan</td><td>5. Januar</td><td>2026 B</td><td>5. April</td><td>2026</td></tr>
 <tr><td>Kroatien</td><td>28. Juli</td><td>2006</td><td>26. Oktober</td><td>2006</td></tr>
 <tr><td>Lettland</td><td>24. November</td><td>2004</td><td>4. August</td><td>2005</td></tr>
 <tr><td>Litauen</td><td>17. März</td><td>2004</td><td>4. August</td><td>2005</td></tr>
@@ -569,6 +570,7 @@ Geltungsbereich am 7. Juli 2020**[^t-2]**
 <tr><td>Moldau</td><td>16. September</td><td>2005</td><td>15. Dezember</td><td>2005</td></tr>
 <tr><td>Montenegro</td><td>22. November</td><td>2019 B</td><td>20. Februar</td><td>2020</td></tr>
 <tr><td>Niederlande</td><td>25. Juni</td><td>2009</td><td>23. September</td><td>2009</td></tr>
+<tr><td>Nordmazedonien</td><td>28. September</td><td>2023 B</td><td>27. Dezember</td><td>2023</td></tr>
 <tr><td>Norwegen</td><td>6. Januar</td><td>2004</td><td>4. August</td><td>2005</td></tr>
 <tr><td>Portugal</td><td>6. September</td><td>2006</td><td>5. Dezember</td><td>2006</td></tr>
 <tr><td>Rumänien</td><td>5. Januar</td><td>2001</td><td>4. August</td><td>2005</td></tr>
@@ -580,6 +582,7 @@ Geltungsbereich am 7. Juli 2020**[^t-2]**
 <tr><td>Tschechische Republik</td><td>15. November</td><td>2001</td><td>4. August</td><td>2005</td></tr>
 <tr><td>Ukraine</td><td>26. September</td><td>2003</td><td>4. August</td><td>2005</td></tr>
 <tr><td>Ungarn</td><td>7. Dezember</td><td>2001</td><td>4. August</td><td>2005</td></tr>
+<tr><td>Usbekistan</td><td>26. Dezember</td><td>2023 B</td><td>25. März</td><td>2024</td></tr>
 </table>
 
-[^t-2]: [AS 2007 1277](https://fedlex.data.admin.ch/eli/oc/2007/207), [2010 3615](https://fedlex.data.admin.ch/eli/oc/2010/522), [2013 285](https://fedlex.data.admin.ch/eli/oc/2013/43), [2016 379](https://fedlex.data.admin.ch/eli/oc/2016/55), [2020 3433](https://fedlex.data.admin.ch/eli/oc/2020/587). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+[^t-2]: [AS 2007 1277](https://fedlex.data.admin.ch/eli/oc/2007/207); [2010 3615](https://fedlex.data.admin.ch/eli/oc/2010/522); [2013 285](https://fedlex.data.admin.ch/eli/oc/2013/43); [2016 379](https://fedlex.data.admin.ch/eli/oc/2016/55); [2020 3433](https://fedlex.data.admin.ch/eli/oc/2020/587); [2026 278](https://fedlex.data.admin.ch/eli/oc/2026/278). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).

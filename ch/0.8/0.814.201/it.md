@@ -3,11 +3,11 @@ sr: "0.814.201"
 title: "Protocollo del 17 giugno 1999 su acqua e salute della Convenzione del 1992 sulla protezione e l'utilizzazione dei corsi d'acqua transfrontalieri e dei laghi internazionali"
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/207"
 language: it
-version: 2020-07-07
+version: 2026-05-22
 adopted: 1999-06-17
 in_force: 2007-01-25
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/207/20200707/it/xml/fedlex-data-admin-ch-eli-cc-2007-207-20200707-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/207/20200707/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/207/20260522/it/xml/fedlex-data-admin-ch-eli-cc-2007-207-20260522-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/207/20260522/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -18,15 +18,9 @@ RU **2007** 1277; FF **2004** 6049
 
 Traduzione
 
-Fatto a Londra il 17 giugno 1999
+Fatto a Londra il 17 giugno 1999 Approvato dall’Assemblea federale il 23 giugno 2006[^t-1] Ratificato con strumenti depositati dalla Svizzera il 27 ottobre 2006 Entrato in vigore per la Svizzera il 25 gennaio 2007
 
-Approvato dall’Assemblea federale il 23 giugno 2006[^t-1]
-
-Ratificato con strumenti depositati dalla Svizzera il 27 ottobre 2006
-
-Entrato in vigore per la Svizzera il 25 gennaio 2007
-
-(Stato 7 luglio 2020)
+(Stato 22 maggio 2026)
 
 [^t-1]: [RU 2007 1275](https://fedlex.data.admin.ch/eli/oc/2007/206)
 
@@ -48,7 +42,7 @@ basandosi sulle conclusioni della Conferenza delle Nazioni Unite sull’ambiente
 
 traendo ispirazione dalle disposizioni applicabili contenute nella Convenzione del 1992[^ingress-1] sulla protezione e l’utilizzazione dei corsi d’acqua transfrontalieri e dei laghi internazionali e sottolineando la necessità di incentivare la più ampia applicazione delle disposizioni in questione e di integrare la Convenzione con altre misure atte ad aumentare la protezione della salute pubblica;
 
-facendo riferimento alla Convenzione del 1991[^ingress-2] sulla valutazione dell’impatto ambientale in un contesto transfrontaliero, alla Convenzione del 1992[^ingress-3] sugli effetti transfrontalieri degli incidenti industriali, alla Convenzione delle Nazioni Unite del 1997 sul diritto in materia di uso dei corsi d’acqua internazionali per scopi diversi dalla navigazione (*Convention on the Law of the Non-Navigational Uses of Inter**n**a**tional Watercourses*) e alla Convenzione del 1998 sull’accesso all’informazione, la partecipazione dei cittadini al processo decisionale e l’accesso alla giustizia in materia di ambiente;
+facendo riferimento alla Convenzione del 1991[^ingress-2] sulla valutazione dell’impatto ambientale in un contesto transfrontaliero, alla Convenzione del 1992[^ingress-3] sugli effetti transfrontalieri degli incidenti industriali, alla Convenzione delle Nazioni Unite del 1997 sul diritto in materia di uso dei corsi d’acqua internazionali per scopi diversi dalla navigazione (*Convention on the Law of the Non-Navigational Uses of Inter**national Watercourses*) e alla Convenzione del 1998 sull’accesso all’informazione, la partecipazione dei cittadini al processo decisionale e l’accesso alla giustizia in materia di ambiente;
 
 facendo inoltre riferimento ai principi, ai traguardi e alle raccomandazioni pertinenti della Carta europea sull’ambiente e sulla salute del 1989, della dichiarazione di Helsinki del 1994 su ambiente e salute e alle dichiarazioni, raccomandazioni e risoluzioni ministeriali del processo «Ambiente per l’Europa»;
 
@@ -60,9 +54,9 @@ incoraggiate dai molti esempi di risultati positivi conseguiti dagli Stati membr
 
 hanno convenuto quanto segue:
 
-[^ingress-1]: [RS 0.814.20](https://fedlex.data.admin.ch/eli/cc/1997/835_835_835)
-[^ingress-2]: [RS 0.814.06](https://fedlex.data.admin.ch/eli/cc/2003/610)
-[^ingress-3]: [RS 0.814.04](https://fedlex.data.admin.ch/eli/cc/2005/142)
+[^ingress-1]: [RS 0.814.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3503)
+[^ingress-2]: [RS 0.814.06](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3496)
+[^ingress-3]: [RS 0.814.04](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3492)
 
 #### Art. 1
 
@@ -122,7 +116,7 @@ l’espressione «autorità pubblica» designa:
 
 <sup>17.</sup> l’espressione «riunione delle Parti» designa l’organismo istituito dalle Parti ai sensi dell’articolo 16.
 
-[^2-1]: [RS 0.814.20](https://fedlex.data.admin.ch/eli/cc/1997/835_835_835)
+[^2-1]: [RS 0.814.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3503)
 
 #### Art. 3
 
@@ -195,7 +189,7 @@ Quando adottano le misure di attuazione del presente Protocollo, le Parti si isp
 - m) a fronte dei diritti di utilizzo delle acque prescritti dal diritto pubblico e privato, le persone fisiche e giuridiche e le istituzioni del settore pubblico o privato devono contribuire alla tutela dell’ambiente acquatico e alla conservazione delle risorse idriche;
 - n) nell’attuazione del presente Protocollo è necessario tenere in dovuta considerazione i problemi, le esigenze e le conoscenze locali.
 
-[^5-1]: [RS 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
+[^5-1]: [RS 0.120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/41)
 
 #### Art. 6
 
@@ -549,7 +543,7 @@ L’originale del presente Protocollo, i cui testi in lingua francese, inglese, 
 
 *In fede di che,* i sottoscritti, debitamente autorizzati a tal fine, hanno firmato il presente Protocollo. Fatto a Londra, il diciassette giugno millenovencentonovantanove. (Seguono le firme)
 
-Campo d’applicazione il 7 luglio 2020**[^t-2]**
+Campo d’applicazione il 22 maggio 2026[^t-2]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -564,9 +558,11 @@ Campo d’applicazione il 7 luglio 2020**[^t-2]**
 <tr><td>Finlandia</td><td>3 marzo</td><td>2005</td><td>4 agosto</td><td>2005</td></tr>
 <tr><td>Francia</td><td>6 maggio</td><td>2005</td><td>4 agosto</td><td>2005</td></tr>
 <tr><td>Germania</td><td>15 gennaio</td><td>2007</td><td>15 aprile</td><td>2007</td></tr>
+<tr><td>Kazakistan</td><td>5 gennaio</td><td>2026 A</td><td>5 aprile</td><td>2026</td></tr>
 <tr><td>Lettonia</td><td>24 novembre</td><td>2004</td><td>4 agosto</td><td>2005</td></tr>
 <tr><td>Lituania</td><td>17 marzo</td><td>2004</td><td>4 agosto</td><td>2005</td></tr>
 <tr><td>Lussemburgo</td><td>4 ottobre</td><td>2001</td><td>4 agosto</td><td>2005</td></tr>
+<tr><td>Macedonia del Nord</td><td>28 settembre</td><td>2023 A</td><td>27 dicembre</td><td>2023</td></tr>
 <tr><td>Moldova</td><td>16 settembre</td><td>2005</td><td>15 dicembre</td><td>2005</td></tr>
 <tr><td>Montenegro</td><td>22 novembre</td><td>2019 A</td><td>20 febbraio</td><td>2020</td></tr>
 <tr><td>Norvegia</td><td>6 gennaio</td><td>2004</td><td>4 agosto</td><td>2005</td></tr>
@@ -580,6 +576,7 @@ Campo d’applicazione il 7 luglio 2020**[^t-2]**
 <tr><td>Svizzera</td><td>27 ottobre</td><td>2006</td><td>25 gennaio</td><td>2007</td></tr>
 <tr><td>Ucraina</td><td>26 settembre</td><td>2003</td><td>4 agosto</td><td>2005</td></tr>
 <tr><td>Ungheria</td><td>7 dicembre</td><td>2001</td><td>4 agosto</td><td>2005</td></tr>
+<tr><td>Uzbekistan</td><td>26 dicembre</td><td>2023 A</td><td>25 marzo</td><td>2024</td></tr>
 </table>
 
-[^t-2]: [RU 2007 1277](https://fedlex.data.admin.ch/eli/oc/2007/207), [2010 3615](https://fedlex.data.admin.ch/eli/oc/2010/522), [2013 285](https://fedlex.data.admin.ch/eli/oc/2013/43), [2016 379](https://fedlex.data.admin.ch/eli/oc/2016/55), [2020 3433](https://fedlex.data.admin.ch/eli/oc/2020/587). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
+[^t-2]: [RU 2007 1277](https://fedlex.data.admin.ch/eli/oc/2007/207); [2010 3615](https://fedlex.data.admin.ch/eli/oc/2010/522); [2013 285](https://fedlex.data.admin.ch/eli/oc/2013/43); [2016 379](https://fedlex.data.admin.ch/eli/oc/2016/55); [2020 3433](https://fedlex.data.admin.ch/eli/oc/2020/587); [2026 278](https://fedlex.data.admin.ch/eli/oc/2026/278). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty).
