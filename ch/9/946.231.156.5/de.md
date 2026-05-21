@@ -3,18 +3,18 @@ sr: "946.231.156.5"
 title: Verordnung vom 28. Juni 2023 über Massnahmen betreffend Moldau
 eli: "https://fedlex.data.admin.ch/eli/cc/2023/335"
 language: de
-version: 2025-09-15
+version: 2026-05-22
 adopted: 2023-06-28
 in_force: 2023-06-28
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2023/335/20250915/de/xml/fedlex-data-admin-ch-eli-cc-2023-335-20250915-de-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2023/335/20250915/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2023/335/20260522/de/xml/fedlex-data-admin-ch-eli-cc-2023-335-20260522-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2023/335/20260522/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über Massnahmen betreffend Moldau
 
-vom 28. Juni 2023 (Stand am 15. September 2025)
+vom 28. Juni 2023 (Stand am 22. Mai 2026)
 
 Der Schweizerische Bundesrat,
 
@@ -181,5 +181,5 @@ Anhang[^t-1]
 
 [^annexu1-lvlu1-1]
 
-[^t-1]: Bereinigt gemäss Ziff. I der V des WBF vom 4. März 2024 ([AS 2024 97](https://fedlex.data.admin.ch/eli/oc/2024/97)), vom 21. Mai 2024 ([AS 2024 226](https://fedlex.data.admin.ch/eli/oc/2024/226)), vom 7. Nov. 2024 ([AS 2024 619](https://fedlex.data.admin.ch/eli/oc/2024/619)) und vom 11. Aug. 2025, in Kraft seit 12. Aug. 2025 um 23.00 Uhr ([AS 2025 496](https://fedlex.data.admin.ch/eli/oc/2025/496)).
-[^annexu1-lvlu1-1]: Der Inhalt dieses Anhangs wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter: [https://fedlex.data.admin.ch/eli/oc/2025/496](https://fedlex.data.admin.ch/eli/oc/2025/496) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
+[^t-1]: Bereinigt gemäss Ziff. I der V des WBF vom 4. März 2024 ([AS 2024 97](https://fedlex.data.admin.ch/eli/oc/2024/97)), vom 21. Mai 2024 ([AS 2024 226](https://fedlex.data.admin.ch/eli/oc/2024/226)), vom 7. Nov. 2024 ([AS 2024 619](https://fedlex.data.admin.ch/eli/oc/2024/619)), vom 11. Aug. 2025 ([AS 2025 496](https://fedlex.data.admin.ch/eli/oc/2025/496)) und vom 21. Mai 2026, in Kraft seit 22. Mai 2026 um 23.00 Uhr (AS **202****6** 234).
+[^annexu1-lvlu1-1]: Der Inhalt dieses Anhangs wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter: [https://fedlex.data.admin.ch/eli/oc/2026/234](https://fedlex.data.admin.ch/eli/oc/2026/234) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
