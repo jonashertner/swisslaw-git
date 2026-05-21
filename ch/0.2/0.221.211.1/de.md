@@ -3,11 +3,11 @@ sr: "0.221.211.1"
 title: Übereinkommen der Vereinten Nationen vom 11. April 1980 über Verträge über den internationalen Warenkauf
 eli: "https://fedlex.data.admin.ch/eli/cc/1991/307_307_307"
 language: de
-version: 2022-10-26
+version: 2026-05-22
 adopted: 1980-04-11
 in_force: 1991-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/307_307_307/20221026/de/xml/fedlex-data-admin-ch-eli-cc-1991-307_307_307-20221026-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1991/307_307_307/20221026/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/307_307_307/20260522/de/xml/fedlex-data-admin-ch-eli-cc-1991-307_307_307-20260522-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1991/307_307_307/20260522/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -26,7 +26,7 @@ Schweizerische Beitrittsurkunde hinterlegt am 21. Februar 1990
 
 In Kraft getreten für die Schweiz am 1. März 1991
 
-(Stand am 26. Oktober 2022)
+(Stand am 22. Mai 2026)
 
 [^t-1]: [AS 1991 306](https://fedlex.data.admin.ch/eli/oc/1991/306_306_306)
 
@@ -769,7 +769,7 @@ Vorbehalte sind nur zulässig, soweit sie in diesem Übereinkommen ausdrücklich
 
 Geschehen zu Wien, am 11. April 1980 in einer Urschrift in arabischer, chinesischer, englischer, französischer, russischer und spanischer Sprache, wobei jeder Wortlaut gleichermassen verbindlich ist. *Zu Urkund dessen* haben die unterzeichneten, hierzu von ihren Regierungen gehörig befugten Bevollmächtigten dieses Übereinkommen unterschrieben. (Es folgen die Unterschriften)
 
-Geltungsbereich am 26. Oktober 2022[^t-2]
+Geltungsbereich am 22. Mai 2026[^t-2]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B) Nachfolgeerklärung (N)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -848,10 +848,12 @@ Geltungsbereich am 26. Oktober 2022[^t-2]
 <tr><td>Peru</td><td>25. März</td><td>1999 B</td><td>1. April</td><td>2000</td></tr>
 <tr><td>Polen</td><td>19. Mai</td><td>1995</td><td>1. Juni</td><td>1996</td></tr>
 <tr><td>Portugal</td><td>23. September</td><td>2020 B</td><td>1. Oktober</td><td>2021</td></tr>
+<tr><td>Ruanda</td><td>22. September</td><td>2023 B</td><td>1. Oktober</td><td>2024</td></tr>
 <tr><td>Rumänien</td><td>22. Mai</td><td>1991 B</td><td>1. Juni</td><td>1992</td></tr>
 <tr><td>Russland\*</td><td>16. August</td><td>1990 B</td><td>1. September</td><td>1991</td></tr>
 <tr><td>Sambia</td><td>6. Juni</td><td>1986 B</td><td>1. Januar</td><td>1988</td></tr>
 <tr><td>San Marino</td><td>22. Februar</td><td>2012 B</td><td>1. März</td><td>2013</td></tr>
+<tr><td>Saudi-Arabien\*</td><td>3. August</td><td>2023</td><td>1. September</td><td>2024</td></tr>
 <tr><td>Schweden\*</td><td>15. Dezember</td><td>1987</td><td>1. Januar</td><td>1989</td></tr>
 <tr><td>Schweiz</td><td>21. Februar</td><td>1990 B</td><td>1. März</td><td>1991</td></tr>
 <tr><td>Serbien</td><td>12. März</td><td>2001 N</td><td>27. April</td><td>1992</td></tr>
@@ -872,7 +874,7 @@ Geltungsbereich am 26. Oktober 2022[^t-2]
 <tr><td>Vereinigte Staaten\*</td><td>11. Dezember</td><td>1986</td><td>1. Januar</td><td>1988</td></tr>
 <tr><td>Vietnam<sup>\*</sup></td><td>18. Dezember</td><td>2015 B</td><td>1. Januar</td><td>2017</td></tr>
 <tr><td>Zypern</td><td>7. März</td><td>2005 B</td><td>1. April</td><td>2006</td></tr>
-<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite der Vereinten Nationen: http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern bezogen werden.</td></tr>
+<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite der Organisation der Vereinten Nationen (UNO): [https://treaties.un.org](https://treaties.un.org/) eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
 </table>
 
-[^t-2]: [AS 1991 307](https://fedlex.data.admin.ch/eli/oc/1991/307_307_307); [1993 2057](https://fedlex.data.admin.ch/eli/oc/1993/2057_2057_2057); [1995 1215](https://fedlex.data.admin.ch/eli/oc/1995/1215_1215_1215); [2004 3455](https://fedlex.data.admin.ch/eli/oc/2004/462); [2006 2021](https://fedlex.data.admin.ch/eli/oc/2006/317); [2009 1659](https://fedlex.data.admin.ch/eli/oc/2009/242); [2012 2553](https://fedlex.data.admin.ch/eli/oc/2012/303); [2014 2153](https://fedlex.data.admin.ch/eli/oc/2014/361); [2016 2891](https://fedlex.data.admin.ch/eli/oc/2016/478); [2018 877](https://fedlex.data.admin.ch/eli/oc/2018/119); [2020 485](https://fedlex.data.admin.ch/eli/oc/2020/85); [2022 624](https://fedlex.data.admin.ch/eli/oc/2022/624). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht https://www.fedlex.admin.ch/de/treaty
+[^t-2]: [AS 1991 307](https://fedlex.data.admin.ch/eli/oc/1991/307_307_307); [1993 2057](https://fedlex.data.admin.ch/eli/oc/1993/2057_2057_2057); [1995 1215](https://fedlex.data.admin.ch/eli/oc/1995/1215_1215_1215); [2004 3455](https://fedlex.data.admin.ch/eli/oc/2004/462); [2006 2021](https://fedlex.data.admin.ch/eli/oc/2006/317); [2009 1659](https://fedlex.data.admin.ch/eli/oc/2009/242); [2012 2553](https://fedlex.data.admin.ch/eli/oc/2012/303); [2014 2153](https://fedlex.data.admin.ch/eli/oc/2014/361); [2016 2891](https://fedlex.data.admin.ch/eli/oc/2016/478); [2018 877](https://fedlex.data.admin.ch/eli/oc/2018/119); [2020 485](https://fedlex.data.admin.ch/eli/oc/2020/85); [2022 624](https://fedlex.data.admin.ch/eli/oc/2022/624); [2026 274](https://fedlex.data.admin.ch/eli/oc/2026/274). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).

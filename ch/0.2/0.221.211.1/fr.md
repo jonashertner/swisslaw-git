@@ -3,11 +3,11 @@ sr: "0.221.211.1"
 title: Convention des Nations Unies du 11 avril 1980 sur les contrats de vente internationale de marchandises
 eli: "https://fedlex.data.admin.ch/eli/cc/1991/307_307_307"
 language: fr
-version: 2022-10-26
+version: 2026-05-22
 adopted: 1980-04-11
 in_force: 1991-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/307_307_307/20221026/fr/xml/fedlex-data-admin-ch-eli-cc-1991-307_307_307-20221026-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1991/307_307_307/20221026/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/307_307_307/20260522/fr/xml/fedlex-data-admin-ch-eli-cc-1991-307_307_307-20260522-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1991/307_307_307/20260522/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -26,7 +26,7 @@ Instrument d’adhésion déposé par la suisse le 21 février 1990
 
 Entrée en vigueur pour la Suisse le 1<sup>er</sup> mars 1991
 
-(État le 26 octobre 2022)
+(État le 22 mai 2026)
 
 [^t-1]: [RO 1991 306](https://fedlex.data.admin.ch/eli/oc/1991/306_306_306)
 
@@ -782,19 +782,20 @@ Aucune réserve n’est autorisée autre que celles qui sont expressément autor
 
 Fait à Vienne, le onze avril mil neuf cent quatre-vingt, en un seul original, dont les textes anglais, arabe, chinois, espagnol, français et russe sont également authentiques. *En foi de quoi,* les plénipotentiaires soussignés, dûment autorisés par leurs gouvernements respectifs, ont signé la présente Convention. (Suivent les signatures)
 
-Champ d’application le 26 octobre 2022[^t-2]
+Champ d’application le 22 mai 2026[^t-2]
 
 <table>
 <tr><th>États parties</th><th>Ratification Adhésion (A) Déclaration de succession (S)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
 <tr><td>Albanie</td><td>13 mai</td><td>2009 A</td><td>1<sup>er</sup> juin</td><td>2010</td></tr>
 <tr><td>Allemagne\*</td><td>21 décembre</td><td>1989</td><td>1<sup>er</sup> janvier</td><td>1991</td></tr>
+<tr><td>Arabie Saoudite\*</td><td>3 août</td><td>2023</td><td>1<sup>er</sup> septembre</td><td>2024</td></tr>
 <tr><td>Argentine\*</td><td>19 juillet</td><td>1983 A</td><td>1<sup>er</sup> janvier</td><td>1988</td></tr>
 <tr><td>Arménie\*</td><td>2 décembre</td><td>2008 A</td><td>1<sup>er</sup> janvier</td><td>2010</td></tr>
 <tr><td>Australie\*</td><td>17 mars</td><td>1988 A</td><td>1<sup>er</sup> avril</td><td>1989</td></tr>
 <tr><td>États australiens et Territoires continentaux australiens</td><td>17 mars</td><td>1988</td><td>1<sup>er</sup> avril</td><td>1989</td></tr>
 <tr><td>Territoires australiens extérieurs, à l’exception de l’Île Christmas, des Îles Cocos (Keeling) et des Îles Ashmore et Cartier</td><td>17 mars</td><td>1988</td><td>1<sup>er</sup> avril</td><td>1989</td></tr>
 <tr><td>Autriche</td><td>29 décembre</td><td>1987</td><td>1<sup>er</sup> janvier</td><td>1989</td></tr>
-<tr><td>Azerbaïdjan<sup>\*</sup></td><td>3 mai</td><td>2016 A</td><td>1<sup>er</sup> juin</td><td>2017</td></tr>
+<tr><td>Azerbaïdjan\*</td><td>3 mai</td><td>2016 A</td><td>1<sup>er</sup> juin</td><td>2017</td></tr>
 <tr><td>Bahreïn</td><td>25 septembre</td><td>2013 A</td><td>1<sup>er</sup> octobre</td><td>2014</td></tr>
 <tr><td>Bélarus\*</td><td>9 octobre</td><td>1989 A</td><td>1<sup>er</sup> novembre</td><td>1990</td></tr>
 <tr><td>Belgique</td><td>31 octobre</td><td>1996 A</td><td>1<sup>er</sup> novembre</td><td>1997</td></tr>
@@ -840,7 +841,7 @@ Champ d’application le 26 octobre 2022[^t-2]
 <tr><td>Italie</td><td>11 décembre</td><td>1986</td><td>1<sup>er</sup> janvier</td><td>1988</td></tr>
 <tr><td>Japon</td><td>1<sup>er</sup> juillet</td><td>2008 A</td><td>1<sup>er</sup> août</td><td>2009</td></tr>
 <tr><td>Kirghizistan</td><td>11 mai</td><td>1999 A</td><td>1<sup>er</sup> juin</td><td>2000</td></tr>
-<tr><td>Laos<sup>\*</sup></td><td>24 septembre</td><td>2019 A</td><td>1<sup>er</sup> octobre</td><td>2020</td></tr>
+<tr><td>Laos\*</td><td>24 septembre</td><td>2019 A</td><td>1<sup>er</sup> octobre</td><td>2020</td></tr>
 <tr><td>Lesotho</td><td>18 juin</td><td>1981</td><td>1<sup>er</sup> janvier</td><td>1988</td></tr>
 <tr><td>Lettonie</td><td>31 juillet</td><td>1997 A</td><td>1<sup>er</sup> août</td><td>1998</td></tr>
 <tr><td>Liban</td><td>21 novembre</td><td>2008 A</td><td>1<sup>er</sup> décembre</td><td>2009</td></tr>
@@ -870,6 +871,7 @@ Champ d’application le 26 octobre 2022[^t-2]
 <tr><td>République tchèque</td><td>30 septembre</td><td>1993 S</td><td>1<sup>er</sup> janvier</td><td>1993</td></tr>
 <tr><td>Roumanie</td><td>22 mai</td><td>1991 A</td><td>1<sup>er</sup> juin</td><td>1992</td></tr>
 <tr><td>Russie\*</td><td>16 août</td><td>1990 A</td><td>1<sup>er</sup> septembre</td><td>1991</td></tr>
+<tr><td>Rwanda</td><td>22 septembre</td><td>2023 A</td><td>1<sup>er</sup> octobre</td><td>2024</td></tr>
 <tr><td>Saint-Marin</td><td>22 février</td><td>2012 A</td><td>1<sup>er</sup> mars</td><td>2013</td></tr>
 <tr><td>[tab] Saint-Vincent-et-les Grenadines\*</td><td>12 septembre</td><td>2000 A</td><td>1<sup>er</sup> octobre</td><td>2001</td></tr>
 <tr><td>Serbie</td><td>12 mars</td><td>2001 S</td><td>27 avril</td><td>1992</td></tr>
@@ -883,9 +885,9 @@ Champ d’application le 26 octobre 2022[^t-2]
 <tr><td>Turquie</td><td>7 juillet</td><td>2010 A</td><td>1<sup>er</sup> août</td><td>2011</td></tr>
 <tr><td>Ukraine\*</td><td>3 janvier</td><td>1990 A</td><td>1<sup>er</sup> février</td><td>1991</td></tr>
 <tr><td>Uruguay</td><td>25 janvier</td><td>1999 A</td><td>1<sup>er</sup> février</td><td>2000</td></tr>
-<tr><td>Vietnam<sup>\*</sup></td><td>18 décembre</td><td>2015 A</td><td>1<sup>er</sup> janvier</td><td>2017</td></tr>
+<tr><td>Vietnam\*</td><td>18 décembre</td><td>2015 A</td><td>1<sup>er</sup> janvier</td><td>2017</td></tr>
 <tr><td>Zambie</td><td>6 juin</td><td>1986 A</td><td>1<sup>er</sup> janvier</td><td>1988</td></tr>
-<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet des Nations Unies: [http://treaties.un.org/](http://treaties.un.org/) &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies, ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
+<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO. Les textes en français et en anglais pourront être consultés à l’adresse du site Internet de l’Organisation des Nations Unies (ONU): [https://treaties.un.org](https://treaties.un.org/) ou obtenus à la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
 </table>
 
-[^t-2]: [RO 1991 307](https://fedlex.data.admin.ch/eli/oc/1991/307_307_307); [1993 2057](https://fedlex.data.admin.ch/eli/oc/1993/2057_2057_2057); [1995 1215](https://fedlex.data.admin.ch/eli/oc/1995/1215_1215_1215);[2004 3455](https://fedlex.data.admin.ch/eli/oc/2004/462); [2006 2021](https://fedlex.data.admin.ch/eli/oc/2006/317); [2009 1659](https://fedlex.data.admin.ch/eli/oc/2009/242); [2012 2553](https://fedlex.data.admin.ch/eli/oc/2012/303); [2014 2153](https://fedlex.data.admin.ch/eli/oc/2014/361); [2016 2891](https://fedlex.data.admin.ch/eli/oc/2016/478); [2018 877](https://fedlex.data.admin.ch/eli/oc/2018/119); [2020 485](https://fedlex.data.admin.ch/eli/oc/2020/85); [2022 624](https://fedlex.data.admin.ch/eli/oc/2022/624). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [https://www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).
+[^t-2]: [RO 1991 307](https://fedlex.data.admin.ch/eli/oc/1991/307_307_307); [1993 2057](https://fedlex.data.admin.ch/eli/oc/1993/2057_2057_2057); [1995 1215](https://fedlex.data.admin.ch/eli/oc/1995/1215_1215_1215);[2004 3455](https://fedlex.data.admin.ch/eli/oc/2004/462); [2006 2021](https://fedlex.data.admin.ch/eli/oc/2006/317); [2009 1659](https://fedlex.data.admin.ch/eli/oc/2009/242); [2012 2553](https://fedlex.data.admin.ch/eli/oc/2012/303); [2014 2153](https://fedlex.data.admin.ch/eli/oc/2014/361); [2016 2891](https://fedlex.data.admin.ch/eli/oc/2016/478); [2018 877](https://fedlex.data.admin.ch/eli/oc/2018/119); [2020 485](https://fedlex.data.admin.ch/eli/oc/2020/85); [2022 624](https://fedlex.data.admin.ch/eli/oc/2022/624); [2026 274](https://fedlex.data.admin.ch/eli/oc/2026/274). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).

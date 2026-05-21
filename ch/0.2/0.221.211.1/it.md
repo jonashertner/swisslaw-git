@@ -3,11 +3,11 @@ sr: "0.221.211.1"
 title: "Convenzione delle Nazioni Unite dell'11 aprile 1980 sui contratti di compravendita internazionale di merci"
 eli: "https://fedlex.data.admin.ch/eli/cc/1991/307_307_307"
 language: it
-version: 2022-10-26
+version: 2026-05-22
 adopted: 1980-04-11
 in_force: 1991-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/307_307_307/20221026/it/xml/fedlex-data-admin-ch-eli-cc-1991-307_307_307-20221026-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1991/307_307_307/20221026/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/307_307_307/20260522/it/xml/fedlex-data-admin-ch-eli-cc-1991-307_307_307-20260522-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1991/307_307_307/20260522/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -20,7 +20,7 @@ Traduzione
 
 Conclusa a Vienna l’11 aprile 1980 Approvata dall’Assemblea federale il 6 ottobre 1989[^t-1] Strumento di adesione depositato dalla Svizzera il 21 febbraio 1990 Entrata in vigore per la Svizzera il 1° marzo 1991
 
-(Stato 26 ottobre 2022)
+(Stato 22 maggio 2026)
 
 [^t-1]: [RU 1991 306](https://fedlex.data.admin.ch/eli/oc/1991/306_306_306)
 
@@ -776,11 +776,12 @@ Sono ammesse soltanto le riserve esplicitamente autorizzate dalla presente Conve
 
 Fatto a Vienna, l’11 aprile millenovecentoottanta, in un solo esemplare di cui i testi arabo, cinese, francese, inglese, spagnolo e russo sono ugualmente autentici. *In fede di che* i sottoscritti, debitamente autorizzati dai loro Governi, hanno firmato la presente Convenzione. (Seguono le firme)
 
-Campo d’applicazione il 26 ottobre 2022[^t-2]
+Campo d’applicazione il 22 maggio 2026[^t-2]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A) Dichiarazione di successione (S)</th><th></th><th>Entrata in vigore</th><th></th></tr>
 <tr><td>Albania</td><td>13 maggio</td><td>2009 A</td><td>1° giugno</td><td>2010</td></tr>
+<tr><td>Arabia Saudita\*</td><td>3 agosto</td><td>2023</td><td>1° settembre</td><td>2024</td></tr>
 <tr><td>Argentina\*</td><td>19 luglio</td><td>1983 A</td><td>1° gennaio</td><td>1988</td></tr>
 <tr><td>Armenia\*</td><td>2 dicembre</td><td>2008 A</td><td>1° gennaio</td><td>2010</td></tr>
 <tr><td>Australia\*</td><td>17 marzo</td><td>1988 A</td><td>1° aprile</td><td>1989</td></tr>
@@ -858,7 +859,8 @@ Campo d’applicazione il 26 ottobre 2022[^t-2]
 <tr><td>Polonia</td><td>19 maggio</td><td>1995</td><td>1° giugno</td><td>1996</td></tr>
 <tr><td>Portogallo</td><td>23 settembre</td><td>2020 A</td><td>1° ottobre</td><td>2021</td></tr>
 <tr><td>Romania</td><td>22 maggio</td><td>1991 A</td><td>1° giugno</td><td>1992</td></tr>
-<tr><td>Russia<sup>\*</sup></td><td>16 agosto</td><td>1990 A</td><td>1° settembre</td><td>1991</td></tr>
+<tr><td>Ruanda</td><td>22 settembre</td><td>2023 A</td><td>1° ottobre</td><td>2024</td></tr>
+<tr><td>Russia\*</td><td>16 agosto</td><td>1990 A</td><td>1° settembre</td><td>1991</td></tr>
 <tr><td>Saint Vincent e Grenadine\*</td><td>12 settembre</td><td>2000 A</td><td>1° ottobre</td><td>2001</td></tr>
 <tr><td>San Marino</td><td>22 febbraio</td><td>2012 A</td><td>1° marzo</td><td>2013</td></tr>
 <tr><td>Serbia</td><td>12 marzo</td><td>2001 S</td><td>27 aprile</td><td>1992</td></tr>
@@ -879,7 +881,7 @@ Campo d’applicazione il 26 ottobre 2022[^t-2]
 <tr><td>Uzbekistan</td><td>27 novembre</td><td>1996 A</td><td>1° dicembre</td><td>1997</td></tr>
 <tr><td>Vietnam<sup>\*</sup></td><td>18 dicembre</td><td>2015 A</td><td>1° gennaio</td><td>2017</td></tr>
 <tr><td>Zambia</td><td>6 giugno</td><td>1986 A</td><td>1° gennaio</td><td>1988</td></tr>
-<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e dichiarazioni non sono pubblicate nella RU. Il testo, francese ed inglese, può essere consultato sul sito Internet dell’Organizzazione delle Nazioni Unite: http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies, oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
+<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e le dichiarazioni non sono pubblicate nella RU, eccetto quelle della Svizzera. Il testo, in francese e inglese, può essere consultato sul sito Internet dell’Organizzazione delle Nazioni Unite (ONU): [https://treaties.un.org](https://treaties.un.org/) oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
 </table>
 
-[^t-2]: [RU 1991 307](https://fedlex.data.admin.ch/eli/oc/1991/307_307_307); [1993 2057](https://fedlex.data.admin.ch/eli/oc/1993/2057_2057_2057); [1995 1215](https://fedlex.data.admin.ch/eli/oc/1995/1215_1215_1215); [2004 3455](https://fedlex.data.admin.ch/eli/oc/2004/462); [2006 2021](https://fedlex.data.admin.ch/eli/oc/2006/317); [2009 1659](https://fedlex.data.admin.ch/eli/oc/2009/242); [2012 2553](https://fedlex.data.admin.ch/eli/oc/2012/303); [2014 2153](https://fedlex.data.admin.ch/eli/oc/2014/361); [2016 2891](https://fedlex.data.admin.ch/eli/oc/2016/478); [2018 877](https://fedlex.data.admin.ch/eli/oc/2018/119); [2020 485](https://fedlex.data.admin.ch/eli/oc/2020/85); [2022 624](https://fedlex.data.admin.ch/eli/oc/2022/624). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [https://www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty)
+[^t-2]: [RU 1991 307](https://fedlex.data.admin.ch/eli/oc/1991/307_307_307); [1993 2057](https://fedlex.data.admin.ch/eli/oc/1993/2057_2057_2057); [1995 1215](https://fedlex.data.admin.ch/eli/oc/1995/1215_1215_1215); [2004 3455](https://fedlex.data.admin.ch/eli/oc/2004/462); [2006 2021](https://fedlex.data.admin.ch/eli/oc/2006/317); [2009 1659](https://fedlex.data.admin.ch/eli/oc/2009/242); [2012 2553](https://fedlex.data.admin.ch/eli/oc/2012/303); [2014 2153](https://fedlex.data.admin.ch/eli/oc/2014/361); [2016 2891](https://fedlex.data.admin.ch/eli/oc/2016/478); [2018 877](https://fedlex.data.admin.ch/eli/oc/2018/119); [2020 485](https://fedlex.data.admin.ch/eli/oc/2020/85); [2022 624](https://fedlex.data.admin.ch/eli/oc/2022/624); [2026 274](https://fedlex.data.admin.ch/eli/oc/2026/274). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty).
