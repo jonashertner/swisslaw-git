@@ -3,11 +3,11 @@ sr: "0.231.171"
 title: "Convenzione internazionale del 26 ottobre 1961 sulla protezione degli artisti interpreti o esecutori, dei produttori di fonogrammi e degli organismi di radiodiffusione"
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/2696_2696_2696"
 language: it
-version: 2020-11-17
+version: 2026-05-22
 adopted: 1961-10-26
 in_force: 1993-09-24
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/2696_2696_2696/20201117/it/xml/fedlex-data-admin-ch-eli-cc-1993-2696_2696_2696-20201117-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/2696_2696_2696/20201117/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/2696_2696_2696/20260522/it/xml/fedlex-data-admin-ch-eli-cc-1993-2696_2696_2696-20260522-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/2696_2696_2696/20260522/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -18,15 +18,11 @@ RU **1993** 2696; FF **1989** II 413
 
 Testo ufficiale italiano
 
-Conclusa a Roma il 26 ottobre 1961
-
-Appprovata dall’Assemblea federale il 4 giugno 1992[^t-1]
-
-Strumento di adesione depositato dalla Svizzera il 24 giugno 1993
+Conclusa a Roma il 26 ottobre 1961 Appprovata dall’Assemblea federale il 4 giugno 1992[^t-1] Strumento di adesione depositato dalla Svizzera il 24 giugno 1993
 
 Entrata in vigore per la Svizzera il 24 settembre 1993
 
-(Stato 17 novembre 2020)
+(Stato 22 maggio 2026)
 
 [^t-1]: Art. 2 cpv. I del DF del 4 giu. 1992 ([RU 1993 2634](https://fedlex.data.admin.ch/eli/oc/1993/2634_2634_2634)).
 
@@ -188,7 +184,7 @@ Nel partecipare alla presente convenzione, ogni Stato accetta tutti gli obblighi
   - iii) che non applicherà le disposizioni di tale articolo per quanto riguarda i fonogrammi il cui produttore non sia cittadino di uno Stato contraente;
   - iv) che per quanto concerne i fonogrammi il cui produttore sia cittadino di un altro Stato contraente, limiterà l’estensione e la durata della protezione prevista in tale articolo a quelle relative alla protezione che quest’ultimo Stato contraente accorda ai fonogrammi fissati per la prima volta dal cittadino dello Stato autore della dichiarazione; tuttavia, quando lo Stato contraente del quale il produttore è cittadino non accorda la protezione allo stesso beneficiario o agli stessi beneficiari cui la protezione è accordata dallo Stato contraente autore della dichiarazione, questo fatto non pregiudicherà in alcun modo l’estensione della protezione stessa;
 
-- b) per quanto riguarda l’articolo 13, che non applicherà le disposizioni del comma *d)* di tale articolo; se uno Stato contraente fa una simile dichiarazione, gli altri Stati contraenti non saranno tenuti ad accordare il diritto previsto nel comma d) dell’articolo 13 agli organismi di radiodiffusione aventi la loro sede. sociale nel territorio dello Stato predetto.
+- b) per quanto riguarda l’articolo 13, che non applicherà le disposizioni del comma d) di tale articolo; se uno Stato contraente fa una simile dichiarazione, gli altri Stati contraenti non saranno tenuti ad accordare il diritto previsto nel comma d) dell’articolo 13 agli organismi di radiodiffusione aventi la loro sede. sociale nel territorio dello Stato predetto.
 
 <sup>2.</sup> Se la notifica prevista nel paragrafo 1 del presente articolo è depositata in una data posteriore a quella del deposito dello strumento di ratifica, di accettazione o di adesione, essa non prenderà effetto che sei mesi dopo il suo deposito.
 
@@ -222,7 +218,7 @@ Gli Stati contraenti si riservano il diritto di concludere tra di loro accordi p
 
 La presente convenzione sarà depositata presso il Segretario generale dell’Organizzazione delle Nazioni Unite. Essa rimarrà aperta, fino alla data del 30 giugno 1962, alla firma degli Stati invitati alla Conferenza diplomatica sulla protezione internazionale degli artisti interpreti o esecutori, dei produttori di fonogrammi e degli organismi di radiodiffusione, che partecipano alla Convenzione universale sul diritto di autore[^23-1] o sono membri dell’Unione internazionale per la protezione delle opere letterarie ed artistiche.
 
-[^23-1]: [RS 0.231.0](https://fedlex.data.admin.ch/eli/cc/1956/102_106_107)**,** [0.231.01](https://fedlex.data.admin.ch/eli/cc/1993/2635_2635_2635)
+[^23-1]: [RS 0.231.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1011),[0.231.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1012)
 
 #### Art. 24
 
@@ -232,7 +228,7 @@ La presente convenzione sarà depositata presso il Segretario generale dell’Or
 
 <sup>3.</sup> La ratifica, l’accettazione o l’adesione avverrà mediante il deposito di apposito strumento presso il Segretario generale dell’Organizzazione delle Nazioni Unite.
 
-[^24-1]: [RS 0.231.0](https://fedlex.data.admin.ch/eli/cc/1956/102_106_107)**,** [0.231.01](https://fedlex.data.admin.ch/eli/cc/1993/2635_2635_2635)
+[^24-1]: [RS 0.231.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1011), [0.231.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1012)
 
 #### Art. 25
 
@@ -252,8 +248,8 @@ La presente convenzione sarà depositata presso il Segretario generale dell’Or
 
 <sup>2.</sup> Le dichiarazioni e le notifiche previste all’articolo 5 paragrafo 3, all’articolo 6 paragrafo 2, all’articolo 16 paragrafo 1, all’articolo 17 o all’articolo 18, possono estendersi a tutti o ad uno qualsiasi dei territori di cui al paragrafo precedente.
 
-[^27-1]: [RS 0.231.0](https://fedlex.data.admin.ch/eli/cc/1956/102_106_107)**,** [0.231.01](https://fedlex.data.admin.ch/eli/cc/1993/2635_2635_2635)
-[^27-2]: [RS 0.231.12](https://fedlex.data.admin.ch/eli/cc/47/462_466_476),[0.231.13](https://fedlex.data.admin.ch/eli/cc/1955/1092_1114_1122), [0.231.14](https://fedlex.data.admin.ch/eli/cc/1970/649_648_649),[0.231.15](https://fedlex.data.admin.ch/eli/cc/1993/2659_2659_2659)
+[^27-1]: [RS 0.231.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1011),[0.231.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1012)
+[^27-2]: [RS 0.231.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1014),[0.231.13](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1015), [0.231.14](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1016),[0.231.15](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1017)
 
 #### Art. 28
 
@@ -267,8 +263,8 @@ La presente convenzione sarà depositata presso il Segretario generale dell’Or
 
 <sup>5.</sup> La presente convenzione cessa di essere applicabile a ciascuno dei territori considerati all’articolo 27 dal momento in cui né la convenzione universale sul diritto d’autore, né la convenzione internazionale per la protezione delle opere letterarie ed artistiche[^28-2], potranno essere ulteriormente applicate a tale territorio.
 
-[^28-1]: [RS 0.231.0](https://fedlex.data.admin.ch/eli/cc/1956/102_106_107)**,** [0.231.01](https://fedlex.data.admin.ch/eli/cc/1993/2635_2635_2635)
-[^28-2]: [RS 0.231.12](https://fedlex.data.admin.ch/eli/cc/47/462_466_476),[0.231.13](https://fedlex.data.admin.ch/eli/cc/1955/1092_1114_1122),[0.231.14](https://fedlex.data.admin.ch/eli/cc/1970/649_648_649),[0.231.15](https://fedlex.data.admin.ch/eli/cc/1993/2659_2659_2659)
+[^28-1]: [RS 0.231.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1011), [0.231.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1012)
+[^28-2]: [RS 0.231.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1014),[0.231.13](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1015),[0.231.14](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1016),[0.231.15](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1017)
 
 #### Art. 29
 
@@ -333,114 +329,118 @@ Il Segretario generale dell’Organizzazione delle Nazioni Unite informerà gli 
 
 *In fede di che* i sottoscritti*,* debitamente autorizzati a tale effetto, hanno firmato la presente convenzione. Fatto a Roma, il 26 ottobre 1961, in un solo esemplare in francese, in inglese e in spagnolo. Copie conformi saranno inviate a cura del Segretario generale dell’Organizzazione delle Nazioni Unite a tutti gli Stati inviati alla Conferenza indicata all’articolo 23 e ad ogni Stato membro dell’Organizzazione delle Nazioni Unite, come pure al Direttore generale dell’Ufficio internazionale del lavoro, al Direttore generale dell’Organizzazione delle Nazioni Unite per l’educazione, la scienza e la cultura e al Direttore dell’Ufficio dell’Unione internazionale per la protezione delle opere letterarie ed artistiche. (Seguono le firme)
 
-Campo d’applicazione il 17 novembre 2020**[^t-2]**
+Campo d’applicazione il 22 maggio 2026[^t-2]
 
 <table>
-<tr><th>Stati partecipanti</th><th>Ratifica Adesione (A) Dichiarazione di successione (S)</th><th></th><th>Entrata in vigore</th><th colspan="2"></th></tr>
-<tr><td>Albania</td><td>1° giugno</td><td>2000 A</td><td>1° settembre</td><td colspan="2">2000</td></tr>
-<tr><td>Algeria<sup>\*</sup></td><td>22 gennaio</td><td>2007 A</td><td>22 aprile</td><td colspan="2">2007</td></tr>
-<tr><td>Andorra</td><td>25 febbraio</td><td>2004 A</td><td>25 maggio</td><td colspan="2">2004</td></tr>
-<tr><td>Argentina</td><td>2 dicembre</td><td>1991</td><td>2 marzo</td><td colspan="2">1992</td></tr>
-<tr><td>Armenia</td><td>31 ottobre</td><td>2002 A</td><td>31 gennaio</td><td colspan="2">2003</td></tr>
-<tr><td>Australia<sup>\*</sup></td><td>30 giugno</td><td>1992 A</td><td>30 settembre</td><td colspan="2">1992</td></tr>
-<tr><td>Austria<sup>\*</sup></td><td>9 marzo</td><td>1973</td><td>9 giugno</td><td colspan="2">1973</td></tr>
-<tr><td>Azerbaigian<sup>\*</sup></td><td>8 luglio</td><td>2005 A</td><td>8 ottobre</td><td colspan="2">2005</td></tr>
-<tr><td>Bahrein</td><td>18 ottobre</td><td>2005 A</td><td>18 gennaio</td><td colspan="2">2006</td></tr>
-<tr><td>Barbados</td><td>18 giugno</td><td>1983 A</td><td>18 settembre</td><td colspan="2">1983</td></tr>
-<tr><td>Belarus<sup>\*</sup></td><td>27 febbraio</td><td>2003 A</td><td>27 maggio</td><td colspan="2">2003</td></tr>
-<tr><td>Belgio<sup>\*</sup></td><td>2 luglio</td><td>1999</td><td>2 ottobre</td><td colspan="2">1999</td></tr>
-<tr><td>Belize</td><td>9 novembre</td><td>2018 A</td><td>9 febbraio</td><td colspan="2">2019</td></tr>
-<tr><td>Bolivia</td><td>24 agosto</td><td>1993 A</td><td>24 novembre</td><td colspan="2">1993</td></tr>
-<tr><td>Bosnia e Erzegovina</td><td>19 febbraio</td><td>2009</td><td>19 maggio</td><td colspan="2">2009</td></tr>
-<tr><td>Brasile</td><td>29 giugno</td><td>1965</td><td>29 settembre</td><td colspan="2">1965</td></tr>
-<tr><td>Bulgaria<sup>\*</sup></td><td>31 maggio</td><td>1995 A</td><td>31 agosto</td><td colspan="2">1995</td></tr>
-<tr><td>Burkina Faso</td><td>14 ottobre</td><td>1987 A</td><td>14 gennaio</td><td colspan="2">1988</td></tr>
-<tr><td>Canada<sup>\*</sup></td><td>4 marzo</td><td>1998 A</td><td>4 giugno</td><td colspan="2">1998</td></tr>
-<tr><td>Capo Verde</td><td>3 aprile</td><td>1997 A</td><td>3 luglio</td><td colspan="2">1997</td></tr>
-<tr><td>Ceca, Repubblica<sup>\*</sup></td><td>30 settembre</td><td>1993 S</td><td>1° gennaio</td><td colspan="2">1993</td></tr>
-<tr><td>Cile</td><td>5 giugno</td><td>1974</td><td>5 settembre</td><td colspan="2">1974</td></tr>
-<tr><td>Cipro</td><td>17 marzo</td><td>2009 A</td><td>17 giugno</td><td colspan="2">2009</td></tr>
-<tr><td>Colombia</td><td>17 giugno</td><td>1976 A</td><td>17 settembre</td><td colspan="2">1976</td></tr>
-<tr><td>Congo (Brazzaville)<sup>\*</sup></td><td>29 giugno</td><td>1962 A</td><td>18 maggio</td><td colspan="2">1964</td></tr>
-<tr><td>Corea (Sud)<sup>\*</sup></td><td>18 dicembre</td><td>2008 A</td><td>18 marzo</td><td colspan="2">2009</td></tr>
-<tr><td>Costa Rica</td><td>9 giugno</td><td>1971 A</td><td>9 settembre</td><td colspan="2">1971</td></tr>
-<tr><td>Croazia<sup>\*</sup></td><td>20 gennaio</td><td>2000 A</td><td>20 aprile</td><td colspan="2">2000</td></tr>
-<tr><td>Danimarca<sup>\*</sup></td><td>23 giugno</td><td>1965</td><td>23 settembre</td><td colspan="2">1965</td></tr>
-<tr><td>Dominica</td><td>9 agosto</td><td>1999 A</td><td>9 novembre</td><td colspan="2">1999</td></tr>
-<tr><td>Dominicana, Repubblica</td><td>27 ottobre</td><td>1986 A</td><td>27 gennaio</td><td colspan="2">1987</td></tr>
-<tr><td>Ecuador</td><td>19 dicembre</td><td>1963</td><td>18 maggio</td><td colspan="2">1964</td></tr>
-<tr><td>El Salvador</td><td>29 marzo</td><td>1979 A</td><td>29 giugno</td><td colspan="2">1979</td></tr>
-<tr><td>Emirati Arabi Uniti</td><td>14 ottobre</td><td>2004 A</td><td>14 gennaio</td><td colspan="2">2005</td></tr>
-<tr><td>Estonia<sup>\*</sup></td><td>28 gennaio</td><td>2000 A</td><td>28 aprile</td><td colspan="2">2000</td></tr>
-<tr><td>Figi<sup>\*</sup></td><td>11 gennaio</td><td>1972 A</td><td>11 aprile</td><td colspan="2">1972</td></tr>
-<tr><td>Filippine</td><td>25 giugno</td><td>1984 A</td><td>25 settembre</td><td colspan="2">1984</td></tr>
-<tr><td>Finlandia<sup>\*</sup></td><td>21 luglio</td><td>1983</td><td>21 ottobre</td><td colspan="2">1983</td></tr>
-<tr><td>Francia<sup>\*</sup></td><td>3 aprile</td><td>1987</td><td>3 luglio</td><td colspan="2">1987</td></tr>
-<tr><td>Georgia</td><td>14 maggio</td><td>2004 A</td><td>14 agosto</td><td colspan="2">2004</td></tr>
-<tr><td>Germania<sup>\*</sup></td><td>21 luglio</td><td>1966</td><td>21 ottobre</td><td colspan="2">1966</td></tr>
-<tr><td>Giamaica</td><td>27 ottobre</td><td>1993 A</td><td>27 gennaio</td><td colspan="2">1994</td></tr>
-<tr><td>Giappone<sup>\*</sup></td><td>26 luglio</td><td>1989 A</td><td>26 ottobre</td><td colspan="2">1989</td></tr>
-<tr><td>Grecia</td><td>6 ottobre</td><td>1992 A</td><td>6 gennaio</td><td colspan="2">1993</td></tr>
-<tr><td>Guatemala</td><td>14 ottobre</td><td>1976 A</td><td>14 gennaio</td><td colspan="2">1977</td></tr>
-<tr><td>Honduras</td><td>16 novembre</td><td>1989 A</td><td>16 febbraio</td><td colspan="2">1990</td></tr>
-<tr><td>Irlanda<sup>\*</sup></td><td>19 giugno</td><td>1979</td><td>19 settembre</td><td colspan="2">1979</td></tr>
-<tr><td>Islanda<sup>\*</sup></td><td>15 marzo</td><td>1994</td><td>15 giugno</td><td colspan="2">1994</td></tr>
-<tr><td>Israele<sup>\*</sup></td><td>30 settembre</td><td>2002</td><td>30 dicembre</td><td colspan="2">2002</td></tr>
-<tr><td>Italia<sup>\*</sup></td><td>8 gennaio</td><td>1975</td><td>8 aprile</td><td colspan="2">1975</td></tr>
-<tr><td>Kazakistan</td><td>30 marzo</td><td>2012 A</td><td>30 giugno</td><td colspan="2">2012</td></tr>
-<tr><td>Kirghizistan</td><td>13 maggio</td><td>2003 A</td><td>13 agosto</td><td colspan="2">2003</td></tr>
-<tr><td>Lesotho<sup>\*</sup></td><td>26 ottobre</td><td>1989 A</td><td>26 gennaio</td><td colspan="2">1990</td></tr>
-<tr><td>Lettonia<sup>\*</sup></td><td>20 maggio</td><td>1999 A</td><td>20 agosto</td><td colspan="2">1999</td></tr>
-<tr><td>Libano</td><td>12 maggio</td><td>1997</td><td>12 agosto</td><td colspan="2">1997</td></tr>
-<tr><td>Liberia</td><td>16 settembre</td><td>2005 A</td><td>16 dicembre</td><td colspan="2">2005</td></tr>
-<tr><td>Liechtenstein<sup>\*</sup></td><td>12 luglio</td><td>1999 A</td><td>12 ottobre</td><td colspan="2">1999</td></tr>
-<tr><td>Lituania<sup>\*</sup></td><td>22 aprile</td><td>1999 A</td><td>22 luglio</td><td colspan="2">1999</td></tr>
-<tr><td>Lussemburgo<sup>\*</sup></td><td>25 novembre</td><td>1975 A</td><td>25 febbraio</td><td colspan="2">1976</td></tr>
-<tr><td>Macedonia del Nord<sup>\*</sup></td><td>2 dicembre</td><td>1997 A</td><td>2 marzo</td><td colspan="2">1998</td></tr>
-<tr><td>Messico</td><td>17 febbraio</td><td>1964</td><td>18 maggio</td><td colspan="2">1964</td></tr>
-<tr><td>Moldova<sup>\*</sup></td><td>5 settembre</td><td>1995 A</td><td>5 dicembre</td><td colspan="2">1995</td></tr>
-<tr><td>Monaco<sup>\*</sup></td><td>6 settembre</td><td>1985</td><td>6 dicembre</td><td colspan="2">1985</td></tr>
-<tr><td>Montenegro</td><td>23 ottobre</td><td>2006 S</td><td>3 giugno</td><td colspan="2">2006</td></tr>
-<tr><td>Nicaragua</td><td>10 maggio</td><td>2000 A</td><td>10 agosto</td><td colspan="2">2000</td></tr>
-<tr><td>Niger<sup>\*</sup></td><td>5 aprile</td><td>1963 A</td><td>18 maggio</td><td colspan="2">1964</td></tr>
-<tr><td>Nigeria<sup>\*</sup></td><td>29 luglio</td><td>1993 A</td><td>29 ottobre</td><td colspan="2">1993</td></tr>
-<tr><td>Norvegia<sup>\*</sup></td><td>10 aprile</td><td>1978 A</td><td>10 luglio</td><td colspan="2">1978</td></tr>
-<tr><td>Paesi Bassi<sup>\*</sup></td><td>7 luglio</td><td>1993 A</td><td>7 ottobre</td><td colspan="2">1993</td></tr>
-<tr><td>Panama</td><td>2 giugno</td><td>1983 A</td><td>2 settembre</td><td colspan="2">1983</td></tr>
-<tr><td>Paraguay</td><td>26 novembre</td><td>1969</td><td>26 febbraio</td><td colspan="2">1970</td></tr>
-<tr><td>Perù</td><td>7 maggio</td><td>1985 A</td><td>7 agosto</td><td colspan="2">1985</td></tr>
-<tr><td>Polonia<sup>\*</sup></td><td>13 marzo</td><td>1997 A</td><td>13 giugno</td><td colspan="2">1997</td></tr>
-<tr><td>Portogallo</td><td>17 aprile</td><td>2002 A</td><td>17 luglio</td><td colspan="2">2002</td></tr>
-<tr><td>Qatar</td><td>23 giugno</td><td>2017 A</td><td>23 settembre</td><td colspan="2">2017</td></tr>
-<tr><td>Regno Unito<sup>\*</sup></td><td>30 marzo</td><td>1963</td><td>18 maggio</td><td colspan="2">1964</td></tr>
-<tr><td>Bermuda<sup>\*</sup></td><td>10 marzo</td><td>1970</td><td>10 giugno</td><td colspan="2">1970</td></tr>
-<tr><td>Gibilterra<sup>\*</sup></td><td>20 dicembre</td><td>1966</td><td>20 marzo</td><td colspan="2">1967</td></tr>
-<tr><td>Guernesey</td><td>30 settembre</td><td>2020</td><td>30 dicembre</td><td colspan="2">2020</td></tr>
-<tr><td>Isola di Man<sup>\*</sup></td><td>28 aprile</td><td>1999</td><td>28 luglio</td><td colspan="2">1999</td></tr>
-<tr><td>Jersey</td><td>30 settembre</td><td>2020</td><td>30 dicembre</td><td colspan="2">2020</td></tr>
-<tr><td>Romania<sup>\*</sup></td><td>22 luglio</td><td>1998 A</td><td>22 ottobre</td><td colspan="2">1998</td></tr>
-<tr><td>Russia<sup>\*</sup></td><td>26 febbraio</td><td>2003 A</td><td>26 maggio</td><td colspan="2">2003</td></tr>
-<tr><td>Saint Lucia<sup>\*</sup></td><td>17 maggio</td><td>1996 A</td><td>17 agosto</td><td colspan="2">1996</td></tr>
-<tr><td>Serbia</td><td>10 marzo</td><td>2003</td><td>10 giugno</td><td colspan="2">2003</td></tr>
-<tr><td>Siria</td><td>13 febbraio</td><td>2006 A</td><td>13 maggio</td><td colspan="2">2006</td></tr>
-<tr><td>Slovacchia<sup>\*</sup></td><td>28 maggio</td><td>1993 S</td><td>1° gennaio</td><td colspan="2">1993</td></tr>
-<tr><td>Slovenia<sup>\*</sup></td><td>9 luglio</td><td>1996 A</td><td>9 ottobre</td><td colspan="2">1996</td></tr>
-<tr><td>Spagna<sup>\*</sup></td><td>14 agosto</td><td>1991</td><td>14 novembre</td><td colspan="2">1991</td></tr>
-<tr><td>Svezia<sup>\*</sup></td><td>13 luglio</td><td>1962</td><td>18 maggio</td><td colspan="2">1964</td></tr>
-<tr><td>Svizzera<sup>\*</sup></td><td>24 giugno</td><td>1993 A</td><td>24 settembre</td><td colspan="2">1993</td></tr>
-<tr><td>Tagikistan</td><td>19 febbraio</td><td>2008 A</td><td>19 maggio</td><td colspan="2">2008</td></tr>
-<tr><td>Togo</td><td>10 marzo</td><td>2003 A</td><td>10 giugno</td><td colspan="2">2003</td></tr>
-<tr><td>Turchia</td><td>8 gennaio</td><td>2004 A</td><td>8 aprile</td><td colspan="2">2004</td></tr>
-<tr><td>Turkmenistan</td><td>31 agosto</td><td>2020 A</td><td>30 novembre</td><td colspan="2">2020</td></tr>
-<tr><td>Ucraina</td><td>12 marzo</td><td>2002 A</td><td>12 giugno</td><td colspan="2">2002</td></tr>
-<tr><td>Ungheria</td><td>10 novembre</td><td>1994</td><td>10 febbraio</td><td colspan="2">1995</td></tr>
-<tr><td>Uruguay</td><td>4 aprile</td><td>1977 A</td><td>4 luglio</td><td colspan="2">1977</td></tr>
-<tr><td>Venezuela</td><td>30 ottobre</td><td>1995 A</td><td>30 gennaio</td><td colspan="2">1996</td></tr>
-<tr><td>Vietnam<sup>\*</sup></td><td>1° dicembre</td><td>2006 A</td><td>1° marzo</td><td colspan="2">2007</td></tr>
-<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e dichiarazioni non sono pubblicate nella RU, eccetto quelle della Svizzera. Il testo, francese ed inglese, può essere consultato sul sito Internet dell'Organizzazione delle Nazioni Unite: http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies, oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
+<tr><th>Stati partecipanti</th><th>Ratifica Adesione (A) Dichiarazione di successione (S)</th><th></th><th>Entrata in vigore</th><th></th></tr>
+<tr><td>Albania</td><td>1° giugno</td><td>2000 A</td><td>1° settembre</td><td>2000</td></tr>
+<tr><td>Algeria<sup>\*</sup></td><td>22 gennaio</td><td>2007 A</td><td>22 aprile</td><td>2007</td></tr>
+<tr><td>Andorra</td><td>25 febbraio</td><td>2004 A</td><td>25 maggio</td><td>2004</td></tr>
+<tr><td>Argentina</td><td>2 dicembre</td><td>1991</td><td>2 marzo</td><td>1992</td></tr>
+<tr><td>Armenia</td><td>31 ottobre</td><td>2002 A</td><td>31 gennaio</td><td>2003</td></tr>
+<tr><td>Australia<sup>\*</sup></td><td>30 giugno</td><td>1992 A</td><td>30 settembre</td><td>1992</td></tr>
+<tr><td>Austria<sup>\*</sup></td><td>9 marzo</td><td>1973</td><td>9 giugno</td><td>1973</td></tr>
+<tr><td>Azerbaigian<sup>\*</sup></td><td>8 luglio</td><td>2005 A</td><td>8 ottobre</td><td>2005</td></tr>
+<tr><td>Bahrein</td><td>18 ottobre</td><td>2005 A</td><td>18 gennaio</td><td>2006</td></tr>
+<tr><td>Barbados</td><td>18 giugno</td><td>1983 A</td><td>18 settembre</td><td>1983</td></tr>
+<tr><td>Belarus<sup>\*</sup></td><td>27 febbraio</td><td>2003 A</td><td>27 maggio</td><td>2003</td></tr>
+<tr><td>Belgio<sup>\*</sup></td><td>2 luglio</td><td>1999</td><td>2 ottobre</td><td>1999</td></tr>
+<tr><td>Belize</td><td>9 novembre</td><td>2018 A</td><td>9 febbraio</td><td>2019</td></tr>
+<tr><td>Bolivia</td><td>24 agosto</td><td>1993 A</td><td>24 novembre</td><td>1993</td></tr>
+<tr><td>Bosnia e Erzegovina</td><td>19 febbraio</td><td>2009</td><td>19 maggio</td><td>2009</td></tr>
+<tr><td>Brasile</td><td>29 giugno</td><td>1965</td><td>29 settembre</td><td>1965</td></tr>
+<tr><td>Bulgaria<sup>\*</sup></td><td>31 maggio</td><td>1995 A</td><td>31 agosto</td><td>1995</td></tr>
+<tr><td>Burkina Faso</td><td>14 ottobre</td><td>1987 A</td><td>14 gennaio</td><td>1988</td></tr>
+<tr><td>Canada<sup>\*</sup></td><td>4 marzo</td><td>1998 A</td><td>4 giugno</td><td>1998</td></tr>
+<tr><td>Capo Verde</td><td>3 aprile</td><td>1997 A</td><td>3 luglio</td><td>1997</td></tr>
+<tr><td>Ceca, Repubblica<sup>\*</sup></td><td>30 settembre</td><td>1993 S</td><td>1° gennaio</td><td>1993</td></tr>
+<tr><td>Cile</td><td>5 giugno</td><td>1974</td><td>5 settembre</td><td>1974</td></tr>
+<tr><td>Cipro</td><td>17 marzo</td><td>2009 A</td><td>17 giugno</td><td>2009</td></tr>
+<tr><td>Colombia</td><td>17 giugno</td><td>1976 A</td><td>17 settembre</td><td>1976</td></tr>
+<tr><td>Congo (Brazzaville)<sup>\*</sup></td><td>29 giugno</td><td>1962 A</td><td>18 maggio</td><td>1964</td></tr>
+<tr><td>Corea (Sud)<sup>\*</sup></td><td>18 dicembre</td><td>2008 A</td><td>18 marzo</td><td>2009</td></tr>
+<tr><td>Costa Rica</td><td>9 giugno</td><td>1971 A</td><td>9 settembre</td><td>1971</td></tr>
+<tr><td>Croazia<sup>\*</sup></td><td>20 gennaio</td><td>2000 A</td><td>20 aprile</td><td>2000</td></tr>
+<tr><td>Danimarca<sup>\*</sup></td><td>23 giugno</td><td>1965</td><td>23 settembre</td><td>1965</td></tr>
+<tr><td>Dominica</td><td>9 agosto</td><td>1999 A</td><td>9 novembre</td><td>1999</td></tr>
+<tr><td>Dominicana, Repubblica</td><td>27 ottobre</td><td>1986 A</td><td>27 gennaio</td><td>1987</td></tr>
+<tr><td>Ecuador</td><td>19 dicembre</td><td>1963</td><td>18 maggio</td><td>1964</td></tr>
+<tr><td>El Salvador</td><td>29 marzo</td><td>1979 A</td><td>29 giugno</td><td>1979</td></tr>
+<tr><td>Emirati Arabi Uniti</td><td>14 ottobre</td><td>2004 A</td><td>14 gennaio</td><td>2005</td></tr>
+<tr><td>Estonia<sup>\*</sup></td><td>28 gennaio</td><td>2000 A</td><td>28 aprile</td><td>2000</td></tr>
+<tr><td>Figi<sup>\*</sup></td><td>11 gennaio</td><td>1972 A</td><td>11 aprile</td><td>1972</td></tr>
+<tr><td>Filippine</td><td>25 giugno</td><td>1984 A</td><td>25 settembre</td><td>1984</td></tr>
+<tr><td>Finlandia<sup>\*</sup></td><td>21 luglio</td><td>1983</td><td>21 ottobre</td><td>1983</td></tr>
+<tr><td>Francia<sup>\*</sup></td><td>3 aprile</td><td>1987</td><td>3 luglio</td><td>1987</td></tr>
+<tr><td>Georgia</td><td>14 maggio</td><td>2004 A</td><td>14 agosto</td><td>2004</td></tr>
+<tr><td>Germania<sup>\*</sup></td><td>21 luglio</td><td>1966</td><td>21 ottobre</td><td>1966</td></tr>
+<tr><td>Giamaica</td><td>27 ottobre</td><td>1993 A</td><td>27 gennaio</td><td>1994</td></tr>
+<tr><td>Giappone<sup>\*</sup></td><td>26 luglio</td><td>1989 A</td><td>26 ottobre</td><td>1989</td></tr>
+<tr><td>Grecia</td><td>6 ottobre</td><td>1992 A</td><td>6 gennaio</td><td>1993</td></tr>
+<tr><td>Guatemala</td><td>14 ottobre</td><td>1976 A</td><td>14 gennaio</td><td>1977</td></tr>
+<tr><td>Honduras</td><td>16 novembre</td><td>1989 A</td><td>16 febbraio</td><td>1990</td></tr>
+<tr><td>Irlanda<sup>\*</sup></td><td>19 giugno</td><td>1979</td><td>19 settembre</td><td>1979</td></tr>
+<tr><td>Islanda<sup>\*</sup></td><td>15 marzo</td><td>1994</td><td>15 giugno</td><td>1994</td></tr>
+<tr><td>Israele<sup>\*</sup></td><td>30 settembre</td><td>2002</td><td>30 dicembre</td><td>2002</td></tr>
+<tr><td>Italia<sup>\*</sup></td><td>8 gennaio</td><td>1975</td><td>8 aprile</td><td>1975</td></tr>
+<tr><td>Kazakistan</td><td>30 marzo</td><td>2012 A</td><td>30 giugno</td><td>2012</td></tr>
+<tr><td>Kirghizistan</td><td>13 maggio</td><td>2003 A</td><td>13 agosto</td><td>2003</td></tr>
+<tr><td>Lesotho<sup>\*</sup></td><td>26 ottobre</td><td>1989 A</td><td>26 gennaio</td><td>1990</td></tr>
+<tr><td>Lettonia<sup>\*</sup></td><td>20 maggio</td><td>1999 A</td><td>20 agosto</td><td>1999</td></tr>
+<tr><td>Libano</td><td>12 maggio</td><td>1997</td><td>12 agosto</td><td>1997</td></tr>
+<tr><td>Liberia</td><td>16 settembre</td><td>2005 A</td><td>16 dicembre</td><td>2005</td></tr>
+<tr><td>Liechtenstein<sup>\*</sup></td><td>12 luglio</td><td>1999 A</td><td>12 ottobre</td><td>1999</td></tr>
+<tr><td>Lituania<sup>\*</sup></td><td>22 aprile</td><td>1999 A</td><td>22 luglio</td><td>1999</td></tr>
+<tr><td>Lussemburgo<sup>\*</sup></td><td>25 novembre</td><td>1975 A</td><td>25 febbraio</td><td>1976</td></tr>
+<tr><td>Macedonia del Nord<sup>\*</sup></td><td>2 dicembre</td><td>1997 A</td><td>2 marzo</td><td>1998</td></tr>
+<tr><td>Messico</td><td>17 febbraio</td><td>1964</td><td>18 maggio</td><td>1964</td></tr>
+<tr><td>Moldova<sup>\*</sup></td><td>5 settembre</td><td>1995 A</td><td>5 dicembre</td><td>1995</td></tr>
+<tr><td>Monaco<sup>\*</sup></td><td>6 settembre</td><td>1985</td><td>6 dicembre</td><td>1985</td></tr>
+<tr><td>Montenegro</td><td>23 ottobre</td><td>2006 S</td><td>3 giugno</td><td>2006</td></tr>
+<tr><td>Nicaragua</td><td>10 maggio</td><td>2000 A</td><td>10 agosto</td><td>2000</td></tr>
+<tr><td>Niger<sup>\*</sup></td><td>5 aprile</td><td>1963 A</td><td>18 maggio</td><td>1964</td></tr>
+<tr><td>Nigeria<sup>\*</sup></td><td>29 luglio</td><td>1993 A</td><td>29 ottobre</td><td>1993</td></tr>
+<tr><td>Norvegia<sup>\*</sup></td><td>10 aprile</td><td>1978 A</td><td>10 luglio</td><td>1978</td></tr>
+<tr><td>Paesi Bassi<sup>\*</sup></td><td>7 luglio</td><td>1993 A</td><td>7 ottobre</td><td>1993</td></tr>
+<tr><td>Panama</td><td>2 giugno</td><td>1983 A</td><td>2 settembre</td><td>1983</td></tr>
+<tr><td>Paraguay</td><td>26 novembre</td><td>1969</td><td>26 febbraio</td><td>1970</td></tr>
+<tr><td>Perù</td><td>7 maggio</td><td>1985 A</td><td>7 agosto</td><td>1985</td></tr>
+<tr><td>Polonia<sup>\*</sup></td><td>13 marzo</td><td>1997 A</td><td>13 giugno</td><td>1997</td></tr>
+<tr><td>Portogallo</td><td>17 aprile</td><td>2002 A</td><td>17 luglio</td><td>2002</td></tr>
+<tr><td>Qatar</td><td>23 giugno</td><td>2017 A</td><td>23 settembre</td><td>2017</td></tr>
+<tr><td>Regno Unito<sup>\*</sup></td><td>30 marzo</td><td>1963</td><td>18 maggio</td><td>1964</td></tr>
+<tr><td>Bermuda<sup>\*</sup></td><td>10 marzo</td><td>1970</td><td>10 giugno</td><td>1970</td></tr>
+<tr><td>Gibilterra<sup>\*</sup></td><td>20 dicembre</td><td>1966</td><td>20 marzo</td><td>1967</td></tr>
+<tr><td>Guernesey</td><td>30 settembre</td><td>2020</td><td>30 dicembre</td><td>2020</td></tr>
+<tr><td>Isola di Man<sup>\*</sup></td><td>28 aprile</td><td>1999</td><td>28 luglio</td><td>1999</td></tr>
+<tr><td>Jersey</td><td>30 settembre</td><td>2020</td><td>30 dicembre</td><td>2020</td></tr>
+<tr><td>Romania<sup>\*</sup></td><td>22 luglio</td><td>1998 A</td><td>22 ottobre</td><td>1998</td></tr>
+<tr><td>Russia<sup>\*</sup></td><td>26 febbraio</td><td>2003 A</td><td>26 maggio</td><td>2003</td></tr>
+<tr><td>Saint Kitts e Nevis</td><td>6 novembre</td><td>2025 A</td><td>6 febbraio</td><td>2026</td></tr>
+<tr><td>Saint Lucia<sup>\*</sup></td><td>17 maggio</td><td>1996 A</td><td>17 agosto</td><td>1996</td></tr>
+<tr><td>Serbia</td><td>10 marzo</td><td>2003</td><td>10 giugno</td><td>2003</td></tr>
+<tr><td>Siria</td><td>13 febbraio</td><td>2006 A</td><td>13 maggio</td><td>2006</td></tr>
+<tr><td>Slovacchia<sup>\*</sup></td><td>28 maggio</td><td>1993 S</td><td>1° gennaio</td><td>1993</td></tr>
+<tr><td>Slovenia<sup>\*</sup></td><td>9 luglio</td><td>1996 A</td><td>9 ottobre</td><td>1996</td></tr>
+<tr><td>Spagna<sup>\*</sup></td><td>14 agosto</td><td>1991</td><td>14 novembre</td><td>1991</td></tr>
+<tr><td>Svezia<sup>\*</sup></td><td>13 luglio</td><td>1962</td><td>18 maggio</td><td>1964</td></tr>
+<tr><td>Svizzera<sup>\*</sup></td><td>24 giugno</td><td>1993 A</td><td>24 settembre</td><td>1993</td></tr>
+<tr><td>Tagikistan</td><td>19 febbraio</td><td>2008 A</td><td>19 maggio</td><td>2008</td></tr>
+<tr><td>Togo</td><td>10 marzo</td><td>2003 A</td><td>10 giugno</td><td>2003</td></tr>
+<tr><td>Trinidad e Tobago</td><td>9 dicembre</td><td>2019 A</td><td>9 marzo</td><td>2020</td></tr>
+<tr><td>Tunisia</td><td>13 aprile</td><td>2023 A</td><td>13 luglio</td><td>2023</td></tr>
+<tr><td>Turchia</td><td>8 gennaio</td><td>2004 A</td><td>8 aprile</td><td>2004</td></tr>
+<tr><td>Turkmenistan</td><td>31 agosto</td><td>2020 A</td><td>30 novembre</td><td>2020</td></tr>
+<tr><td>Ucraina</td><td>12 marzo</td><td>2002 A</td><td>12 giugno</td><td>2002</td></tr>
+<tr><td>Ungheria</td><td>10 novembre</td><td>1994</td><td>10 febbraio</td><td>1995</td></tr>
+<tr><td>Uruguay</td><td>4 aprile</td><td>1977 A</td><td>4 luglio</td><td>1977</td></tr>
+<tr><td>Uzbekistan<sup>\*</sup></td><td>16 luglio</td><td>2024 A</td><td>16 ottobre</td><td>2024</td></tr>
+<tr><td>Venezuela</td><td>30 ottobre</td><td>1995 A</td><td>30 gennaio</td><td>1996</td></tr>
+<tr><td>Vietnam<sup>\*</sup></td><td>1° dicembre</td><td>2006 A</td><td>1° marzo</td><td>2007</td></tr>
+<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e le dichiarazioni non sono pubblicate nella RU, eccetto quelle della Svizzera. Il testo, in francese e inglese, può essere consultato sul sito Internet dell’Organizzazione delle Nazioni Unite (ONU): [https://treaties.un.org](https://treaties.un.org) oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
 </table>
 
-[^t-2]: [RU 1993 2696](https://fedlex.data.admin.ch/eli/oc/1993/2696_2696_2696), [1995 1396](https://fedlex.data.admin.ch/eli/oc/1995/1396_1396_1396), [2004 2751](https://fedlex.data.admin.ch/eli/oc/2004/333), [2006 2025](https://fedlex.data.admin.ch/eli/oc/2006/319), [2009 2501](https://fedlex.data.admin.ch/eli/oc/2009/312),[2012 2555](https://fedlex.data.admin.ch/eli/oc/2012/304), [2020 267](https://fedlex.data.admin.ch/eli/oc/2020/48)[5175](https://fedlex.data.admin.ch/eli/oc/2020/897). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
+[^t-2]: [RU 1993 2696](https://fedlex.data.admin.ch/eli/oc/1993/2696_2696_2696); [1995 1396](https://fedlex.data.admin.ch/eli/oc/1995/1396_1396_1396); [2004 2751](https://fedlex.data.admin.ch/eli/oc/2004/333); [2006 2025](https://fedlex.data.admin.ch/eli/oc/2006/319); [2009 2501](https://fedlex.data.admin.ch/eli/oc/2009/312); [2012 2555](https://fedlex.data.admin.ch/eli/oc/2012/304); [2020 267](https://fedlex.data.admin.ch/eli/oc/2020/48), [5175](https://fedlex.data.admin.ch/eli/oc/2020/897); [2026 249](https://fedlex.data.admin.ch/eli/oc/2026/249). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty).
 
 Riserve e dichiarazioni
 

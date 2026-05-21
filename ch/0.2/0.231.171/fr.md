@@ -3,11 +3,11 @@ sr: "0.231.171"
 title: "Convention internationale du 26 octobre 1961 sur la protection des artistes interprètes ou exécutants, des producteurs de phonogrammes et des organismes de radiodiffusion"
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/2696_2696_2696"
 language: fr
-version: 2020-11-17
+version: 2026-05-22
 adopted: 1961-10-26
 in_force: 1993-09-24
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/2696_2696_2696/20201117/fr/xml/fedlex-data-admin-ch-eli-cc-1993-2696_2696_2696-20201117-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/2696_2696_2696/20201117/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/2696_2696_2696/20260522/fr/xml/fedlex-data-admin-ch-eli-cc-1993-2696_2696_2696-20260522-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/2696_2696_2696/20260522/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -18,15 +18,9 @@ RO **1993** 2696
 
 Texte original
 
-Conclue à Rome le 26 octobre 1961
+Conclue à Rome le 26 octobre 1961 Approuvée par l’Assemblée fédérale le 4 juin 1992[^t-1] Instrument d’adhésion déposé par la Suisse le 24 juin 1993 Entrée en vigueur pour la Suisse le 24 septembre 1993
 
-Approuvée par l’Assemblée fédérale le 4 juin 1992[^t-1]
-
-Instrument d’adhésion déposé par la Suisse le 24 juin 1993
-
-Entrée en vigueur pour la Suisse le 24 septembre 1993
-
-(Etat le 17 novembre 2020)
+(État le 22 mai 2026)
 
 [^t-1]: Art. 2 al. 1 de l’AF du 4 juin 1992 ([RO 1993 2634](https://fedlex.data.admin.ch/eli/oc/1993/2634_2634_2634)).
 
@@ -222,7 +216,7 @@ Les États contractants se réservent le droit de prendre entre eux des arrangem
 
 La présente Convention sera déposée auprès du Secrétaire général de l’Organisation des Nations Unies. Elle est ouverte, jusqu’à la date du 30 juin 1962, à la signature des États invités à la Conférence diplomatique sur la protection internationale des artistes interprètes ou exécutants, des producteurs de phonogrammes et des organismes de radiodiffusion, qui sont parties à la Convention universelle sur le droit d’auteur[^23-1] ou membres de l’Union internationale pour la protection des œuvres littéraires et artistiques.
 
-[^23-1]: [RS 0.231.0](https://fedlex.data.admin.ch/eli/cc/1956/102_106_107)**/.01**
+[^23-1]: [RS 0.231.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1011)**/.01**
 
 #### Art. 24
 
@@ -232,7 +226,7 @@ La présente Convention sera déposée auprès du Secrétaire général de l’O
 
 <sup>3.</sup> La ratification, l’acceptation ou l’adhésion se fera par le dépôt d’un instrument à cet effet auprès du Secrétaire général de l’Organisation des Nations Unies.
 
-[^24-1]: [RS 0.231.0](https://fedlex.data.admin.ch/eli/cc/1956/102_106_107)**/.01**
+[^24-1]: [RS 0.231.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1011)**/.01**
 
 #### Art. 25
 
@@ -252,8 +246,8 @@ La présente Convention sera déposée auprès du Secrétaire général de l’O
 
 <sup>2.</sup> Les déclarations et notifications visées à l’art. 5, par. 3, à l’art. 6, par. 2, à l’art. 16, par. 1, à l’art. 17 ou à l’art. 18, peuvent être étendues à l’ensemble ou à l’un quelconque des territoires visés au paragraphe qui précède.
 
-[^27-1]: [RS 0.231.0](https://fedlex.data.admin.ch/eli/cc/1956/102_106_107)**/.01**
-[^27-2]: [RS 0.231.12](https://fedlex.data.admin.ch/eli/cc/47/462_466_476)**/.15**
+[^27-1]: [RS 0.231.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1011)**/.01**
+[^27-2]: [RS 0.231.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1014)**/.15**
 
 #### Art. 28
 
@@ -267,8 +261,8 @@ La présente Convention sera déposée auprès du Secrétaire général de l’O
 
 <sup>5.</sup> La présente Convention cesse d’être applicable à tout territoire visé à l’art. 27, dès le moment où ni la Convention universelle sur le droit d’auteur ni la Convention internationale pour la protection des œuvres littéraires et artistiques[^28-2] ne s’appliquerait plus à ce territoire.
 
-[^28-1]: [RS 0.231.0](https://fedlex.data.admin.ch/eli/cc/1956/102_106_107)**/.01**
-[^28-2]: [RS 0.231.12](https://fedlex.data.admin.ch/eli/cc/47/462_466_476)**/.15**
+[^28-1]: [RS 0.231.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1011)**/.01**
+[^28-2]: [RS 0.231.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1014)**/.15**
 
 #### Art. 29
 
@@ -333,7 +327,7 @@ Le Secrétaire général de l’Organisation des Nations Unies informera les Ét
 
 *En foi de quoi* les soussignés, dûment autorisés à cet effet, ont signé la présente Convention. Fait à Rome, le 26 octobre 1961, en un seul exemplaire en français, en anglais et en espagnol. Des copies certifiées conformes seront remises par le Secrétaire général de l’Organisation des Nations Unies à tous les États invités à la Conférence désignée à l’art. 23 et à tout État membre de l’Organisation des Nations Unies, ainsi qu’au Directeur général du Bureau international du Travail, au Directeur général de l’Organisation des Nations Unies pour l’éducation, la science et la culture, et au Directeur du Bureau de l’Union internationale pour la protection des œuvres littéraires et artistiques. (Suivent les signatures)
 
-Champ d’application le 17 novembre 2020**[^t-2]**
+Champ d’application le 22 mai 2026[^t-2]
 
 <table>
 <tr><th>États parties</th><th>Ratification Adhésion (A) Déclaration de succession (S)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
@@ -404,6 +398,7 @@ Champ d’application le 17 novembre 2020**[^t-2]**
 <tr><td>Niger\*</td><td>5 avril</td><td>1963 A</td><td>18 mai</td><td>1964</td></tr>
 <tr><td>Nigéria\*</td><td>29 juillet</td><td>1993 A</td><td>29 octobre</td><td>1993</td></tr>
 <tr><td>Norvège\*</td><td>10 avril</td><td>1978 A</td><td>10 juillet</td><td>1978</td></tr>
+<tr><td>Ouzbékistan\*</td><td>16 juillet</td><td>2024 A</td><td>16 octobre</td><td>2024</td></tr>
 <tr><td>Panama</td><td>2 juin</td><td>1983 A</td><td>2 septembre</td><td>1983</td></tr>
 <tr><td>Paraguay</td><td>26 novembre</td><td>1969</td><td>26 février</td><td>1970</td></tr>
 <tr><td>Pays-Bas\*</td><td>7 juillet</td><td>1993 A</td><td>7 octobre</td><td>1993</td></tr>
@@ -416,12 +411,13 @@ Champ d’application le 17 novembre 2020**[^t-2]**
 <tr><td>République tchèque\*</td><td>30 septembre</td><td>1993 S</td><td>1<sup>er</sup> janvier</td><td>1993</td></tr>
 <tr><td>Roumanie\*</td><td>22 juillet</td><td>1998 A</td><td>22 octobre</td><td>1998</td></tr>
 <tr><td>Royaume-Uni\*</td><td>30 octobre</td><td>1963</td><td>18 mai</td><td>1964</td></tr>
-<tr><td>[tab] Bermudes\*</td><td>10 mars</td><td>1970</td><td>10 juin</td><td>1970</td></tr>
-<tr><td>[tab] Gibraltar\*</td><td>20 décembre</td><td>1966</td><td>20 mars</td><td>1967</td></tr>
+<tr><td>Bermudes\*</td><td>10 mars</td><td>1970</td><td>10 juin</td><td>1970</td></tr>
+<tr><td>Gibraltar\*</td><td>20 décembre</td><td>1966</td><td>20 mars</td><td>1967</td></tr>
 <tr><td>Guernesey</td><td>30 septembre</td><td>2020</td><td>30 décembre</td><td>2020</td></tr>
-<tr><td>[tab] Île de Man\*</td><td>28 avril</td><td>1999</td><td>28 juillet</td><td>1999</td></tr>
+<tr><td>Île de Man\*</td><td>28 avril</td><td>1999</td><td>28 juillet</td><td>1999</td></tr>
 <tr><td>Jersey</td><td>30 septembre</td><td>2020</td><td>30 décembre</td><td>2020</td></tr>
 <tr><td>Russie\*</td><td>26 février</td><td>2003 A</td><td>26 mai</td><td>2003</td></tr>
+<tr><td>Saint-Kitts-et-Nevis</td><td>6 novembre</td><td>2025 A</td><td>6 février</td><td>2026</td></tr>
 <tr><td>Sainte-Lucie\*</td><td>17 mai</td><td>1996 A</td><td>17 août</td><td>1996</td></tr>
 <tr><td>Serbie</td><td>10 mars</td><td>2003</td><td>10 juin</td><td>2003</td></tr>
 <tr><td>Slovaquie\*</td><td>28 mai</td><td>1993 S</td><td>1<sup>er</sup> janvier</td><td>1993</td></tr>
@@ -431,16 +427,18 @@ Champ d’application le 17 novembre 2020**[^t-2]**
 <tr><td>Syrie</td><td>13 février</td><td>2006 A</td><td>13 mai</td><td>2006</td></tr>
 <tr><td>Tadjikistan</td><td>19 février</td><td>2008 A</td><td>19 mai</td><td>2008</td></tr>
 <tr><td>Togo</td><td>10 mars</td><td>2003 A</td><td>10 juin</td><td>2003</td></tr>
+<tr><td>Trinité-et-Tobago</td><td>9 décembre</td><td>2019 A</td><td>9 mars</td><td>2020</td></tr>
+<tr><td>Tunisie</td><td>13 avril</td><td>2023 A</td><td>13 juillet</td><td>2023</td></tr>
 <tr><td>Turkménistan</td><td>31 août</td><td>2020 A</td><td>30 novembre</td><td>2020</td></tr>
 <tr><td>Turquie</td><td>8 janvier</td><td>2004 A</td><td>8 avril</td><td>2004</td></tr>
 <tr><td>Ukraine</td><td>12 mars</td><td>2002 A</td><td>12 juin</td><td>2002</td></tr>
 <tr><td>Uruguay</td><td>4 avril</td><td>1977 A</td><td>4 juillet</td><td>1977</td></tr>
 <tr><td>Venezuela</td><td>30 octobre</td><td>1995 A</td><td>30 janvier</td><td>1996</td></tr>
 <tr><td>Vietnam\*</td><td>1<sup>er</sup> décembre</td><td>2006 A</td><td>1<sup>er</sup> mars</td><td>2007</td></tr>
-<tr><td colspan="5"><sup>\*</sup> Réserves et déclarations. Les réserves et déclarations, à l’exception de celles de la Suisse, ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l'adresse du site Internet des Nations Unies: http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies, ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
+<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO, à l’exception de celles de la Suisse. Les textes en français et en anglais pourront être consultés à l’adresse du site Internet de l’Organisation des Nations Unies (ONU): [https://treaties.un.org](https://treaties.un.org) ou obtenus à la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
 </table>
 
-[^t-2]: [RO 1993 2696](https://fedlex.data.admin.ch/eli/oc/1993/2696_2696_2696), [1995 1396](https://fedlex.data.admin.ch/eli/oc/1995/1396_1396_1396), [2004 2751](https://fedlex.data.admin.ch/eli/oc/2004/333), [2006 2025](https://fedlex.data.admin.ch/eli/oc/2006/319), [2009 2501](https://fedlex.data.admin.ch/eli/oc/2009/312), [2012 2555](https://fedlex.data.admin.ch/eli/oc/2012/304), [2020 267](https://fedlex.data.admin.ch/eli/oc/2020/48)[5175](https://fedlex.data.admin.ch/eli/oc/2020/897). Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.dfae.admin.ch/traites).
+[^t-2]: [RO 1993 2696](https://fedlex.data.admin.ch/eli/oc/1993/2696_2696_2696); [1995 1396](https://fedlex.data.admin.ch/eli/oc/1995/1396_1396_1396); [2004 2751](https://fedlex.data.admin.ch/eli/oc/2004/333); [2006 2025](https://fedlex.data.admin.ch/eli/oc/2006/319); [2009 2501](https://fedlex.data.admin.ch/eli/oc/2009/312); [2012 2555](https://fedlex.data.admin.ch/eli/oc/2012/304); [2020 267](https://fedlex.data.admin.ch/eli/oc/2020/48), [5175](https://fedlex.data.admin.ch/eli/oc/2020/897); [2026 249](https://fedlex.data.admin.ch/eli/oc/2026/249). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).
 
 Réserves et déclarations
 

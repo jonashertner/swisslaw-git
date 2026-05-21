@@ -3,11 +3,11 @@ sr: "0.231.171"
 title: "Internationales Abkommen vom 26. Oktober 1961 über den Schutz der ausübenden Künstler, der Hersteller von Tonträgern und der Sendeunternehmen"
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/2696_2696_2696"
 language: de
-version: 2020-11-17
+version: 2026-05-22
 adopted: 1961-10-26
 in_force: 1993-09-24
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/2696_2696_2696/20201117/de/xml/fedlex-data-admin-ch-eli-cc-1993-2696_2696_2696-20201117-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/2696_2696_2696/20201117/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/2696_2696_2696/20260522/de/xml/fedlex-data-admin-ch-eli-cc-1993-2696_2696_2696-20260522-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/2696_2696_2696/20260522/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -20,7 +20,7 @@ Offizieller deutscher Text gemäss Artikel 33 Absatz 2
 
 Abgeschlossen in Rom am 26. Oktober 1961 Von der Bundesversammlung genehmigt am 4. Juni 1992[^t-1] Schweizerische Beitrittsurkunde hinterlegt am 24. Juni 1993 In Kraft getreten für die Schweiz am 24. September 1993
 
-(Stand am 17. November 2020)
+(Stand am 22. Mai 2026)
 
 [^t-1]: Art. 2 Abs. 1 des BB vom 4. Juni 1992 ([AS 1993 2634](https://fedlex.data.admin.ch/eli/oc/1993/2634_2634_2634)).
 
@@ -125,7 +125,7 @@ Die Hersteller von Tonträgern geniessen das Recht, die unmittelbare oder mittel
 
 #### Art. 11
 
-Wenn ein vertragsschliessender Staat in seiner nationalen Gesetzgebung als Voraussetzung für den Schutz der Rechte der Hersteller von Tonträgern oder der ausübenden Künstler oder beider mit Bezug auf Tonträger die Erfüllung von Förmlichkeiten fordert, sind diese Erfordernisse als erfüllt anzusehen, wenn alle im Handel befindlichen Vervielfältigungsstücke des veröffentlichten Tonträgers oder ihre Umhüllungen einen Vermerk tragen, der aus dem Kennzeichen [F05D] in Verbindung mit der Angabe des Jahres der ersten Veröffentlichung besteht und in einer Weise angebracht ist, die klar erkennen lässt, dass der Schutz vorbehalten wird. Wenn die Vervielfältigungsstücke oder ihre Umhüllungen den Hersteller des Tonträgers oder den Inhaber des vom Hersteller eingeräumten Nutzungsrechts nicht – mit Hilfe des Namens, der Marke oder jeder anderen geeigneten Bezeichnung – erkennen lassen, muss der Vermerk ausserdem auch den Namen des Inhabers der Rechte des Herstellers des Tonträgers enthalten. Wenn schliesslich die Vervielfältigungsstücke oder ihre Umhüllungen die Hauptpersonen unter den ausübenden Künstlern nicht erkennen lassen, muss der Vermerk auch den Namen der Person enthalten, die in dem Land, in dem die Festlegung stattgefunden hat, die Rechte dieser Künstler innehat.
+Wenn ein vertragsschliessender Staat in seiner nationalen Gesetzgebung als Voraussetzung für den Schutz der Rechte der Hersteller von Tonträgern oder der ausübenden Künstler oder beider mit Bezug auf Tonträger die Erfüllung von Förmlichkeiten fordert, sind diese Erfordernisse als erfüllt anzusehen, wenn alle im Handel befindlichen Vervielfältigungsstücke des veröffentlichten Tonträgers oder ihre Umhüllungen einen Vermerk tragen, der aus dem Kennzeichen  in Verbindung mit der Angabe des Jahres der ersten Veröffentlichung besteht und in einer Weise angebracht ist, die klar erkennen lässt, dass der Schutz vorbehalten wird. Wenn die Vervielfältigungsstücke oder ihre Umhüllungen den Hersteller des Tonträgers oder den Inhaber des vom Hersteller eingeräumten Nutzungsrechts nicht – mit Hilfe des Namens, der Marke oder jeder anderen geeigneten Bezeichnung – erkennen lassen, muss der Vermerk ausserdem auch den Namen des Inhabers der Rechte des Herstellers des Tonträgers enthalten. Wenn schliesslich die Vervielfältigungsstücke oder ihre Umhüllungen die Hauptpersonen unter den ausübenden Künstlern nicht erkennen lassen, muss der Vermerk auch den Namen der Person enthalten, die in dem Land, in dem die Festlegung stattgefunden hat, die Rechte dieser Künstler innehat.
 
 #### Art. 12
 
@@ -213,7 +213,7 @@ Die vertragsschliessenden Staaten behalten sich das Recht vor, untereinander bes
 
 Dieses Abkommen wird beim Generalsekretär der Organisation der Vereinten Nationen hinterlegt. Es steht bis zum 30. Juni 1962 den Staaten zur Unterzeichnung offen, die zur Diplomatischen Konferenz über den internationalen Schutz der ausübenden Künstler, der Hersteller von Tonträgern und der Sendeunternehmen eingeladen worden sind und die dem Welturheberrechtsabkommen[^23-1] angehören oder Mitglieder des Internationalen Verbandes zum Schutze von Werken der Literatur und der Kunst sind.
 
-[^23-1]: [SR 0.231.0](https://fedlex.data.admin.ch/eli/cc/1956/102_106_107)**/.01**
+[^23-1]: [SR 0.231.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1011)**/.01**
 
 #### Art. 24
 
@@ -223,7 +223,7 @@ Dieses Abkommen wird beim Generalsekretär der Organisation der Vereinten Nation
 
 <sup>3.</sup> Die Ratifikation, die Annahme oder der Beitritt geschieht durch Hinterlegung einer entsprechenden Urkunde beim Generalsekretär der Organisation der Vereinten Nationen.
 
-[^24-1]: [SR 0.231.0](https://fedlex.data.admin.ch/eli/cc/1956/102_106_107)**/.01**
+[^24-1]: [SR 0.231.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1011)**/.01**
 
 #### Art. 25
 
@@ -243,8 +243,8 @@ Dieses Abkommen wird beim Generalsekretär der Organisation der Vereinten Nation
 
 <sup>2.</sup> Die in Artikel 5 Absatz 3, in Artikel 6 Absatz 2, in Artikel 16 Absatz 1, in Artikel 17 oder in Artikel 18 genannten Erklärungen und Mitteilungen können auf alle oder einen Teil der in Absatz 1 genannten Gebiete erstreckt werden.
 
-[^27-1]: [SR 0.231.0](https://fedlex.data.admin.ch/eli/cc/1956/102_106_107)**/.01**
-[^27-2]: [SR 0.231.12](https://fedlex.data.admin.ch/eli/cc/47/462_466_476)**/.15**
+[^27-1]: [SR 0.231.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1011)**/.01**
+[^27-2]: [SR 0.231.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1014)**/.15**
 
 #### Art. 28
 
@@ -258,8 +258,8 @@ Dieses Abkommen wird beim Generalsekretär der Organisation der Vereinten Nation
 
 <sup>5.</sup> Dieses Abkommen hört in dem Zeitpunkt auf, auf eines der in Artikel 27 genannten Gebiete anwendbar zu sein, in dem auf dieses Gebiet weder das Welturheberrechtsabkommen noch die Internationale Übereinkunft zum Schutze von Werken der Literatur und der Kunst[^28-2] weiterhin anwendbar ist.
 
-[^28-1]: [SR 0.231.0](https://fedlex.data.admin.ch/eli/cc/1956/102_106_107)**/.01**
-[^28-2]: [SR 0.231.12](https://fedlex.data.admin.ch/eli/cc/47/462_466_476)**/.15**
+[^28-1]: [SR 0.231.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1011)**/.01**
+[^28-2]: [SR 0.231.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1014)**/.15**
 
 #### Art. 29
 
@@ -322,7 +322,7 @@ Der Generalsekretär der Organisation der Vereinten Nationen unterrichtet die St
 
 *Zu Urkund dessen* haben die Unterzeichneten, die hierzu in gehöriger Weise ermächtigt sind, dieses Abkommen unterzeichnet. Geschehen zu Rom am 26. Oktober 1961 in einem einzigen Exemplar in englischer, französischer und spanischer Sprache. Beglaubigte Abschriften übersendet der Generalsekretär der Organisation der Vereinten Nationen an alle Staaten, die zu der in Artikel 23 genannten Konferenz eingeladen worden sind, und an Jeden Mitgliedstaat der Organisation der Vereinten Nationen sowie an den Generaldirektor des Internationalen Arbeitsamtes, an den Generaldirektor der Organisation der Vereinten Nationen für Erziehung, Wissenschaft und Kultur und an den Direktor des Büros des Internationalen Verbandes zum Schutze von Werken der Literatur und der Kunst. (Es folgen die Unterschriften)
 
-Geltungsbereich am 17. November 2020**[^t-2]**
+Geltungsbereich am 22. Mai 2026[^t-2]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B) Nachfolgeerklärung (N)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -406,16 +406,20 @@ Geltungsbereich am 17. November 2020**[^t-2]**
 <tr><td>Slowakei\*</td><td>28. Mai</td><td>1993 N</td><td>1. Januar</td><td>1993</td></tr>
 <tr><td>Slowenien\*</td><td>9. Juli</td><td>1996 B</td><td>9. Oktober</td><td>1996</td></tr>
 <tr><td>Spanien\*</td><td>14. August</td><td>1991</td><td>14. November</td><td>1991</td></tr>
+<tr><td>St. Kitts und Nevis</td><td>6. November</td><td>2025 B</td><td>6. Februar</td><td>2026</td></tr>
 <tr><td>St. Lucia\*</td><td>17. Mai</td><td>1996 B</td><td>17. August</td><td>1996</td></tr>
 <tr><td>Syrien</td><td>13. Februar</td><td>2006 B</td><td>13. Mai</td><td>2006</td></tr>
-<tr><td>Togo</td><td>10. März</td><td>2003 B</td><td>10. Juni</td><td>2003</td></tr>
 <tr><td>Tadschikistan</td><td>19. Februar</td><td>2008 B</td><td>19. Mai</td><td>2008</td></tr>
+<tr><td>Togo</td><td>10. März</td><td>2003 B</td><td>10. Juni</td><td>2003</td></tr>
+<tr><td>Trinidad und Tobago</td><td>9. Dezember</td><td>2019 B</td><td>9. März</td><td>2020</td></tr>
 <tr><td>Tschechische Republik\*</td><td>30. September</td><td>1993 N</td><td>1. Januar</td><td>1993</td></tr>
+<tr><td>Tunesien</td><td>13. April</td><td>2023 B</td><td>13. Juli</td><td>2023</td></tr>
 <tr><td>Türkei</td><td>8. Januar</td><td>2004 B</td><td>8. April</td><td>2004</td></tr>
 <tr><td>Turkmenistan</td><td>31. August</td><td>2020 B</td><td>30. November</td><td>2020</td></tr>
 <tr><td>Ukraine</td><td>12. März</td><td>2002 B</td><td>12. Juni</td><td>2002</td></tr>
 <tr><td>Ungarn</td><td>10. November</td><td>1994</td><td>10. Februar</td><td>1995</td></tr>
 <tr><td>Uruguay</td><td>4. April</td><td>1977 B</td><td>4. Juli</td><td>1977</td></tr>
+<tr><td>Usbekistan\*</td><td>16. Juli</td><td>2024 B</td><td>16. Oktober</td><td>2024</td></tr>
 <tr><td>Venezuela</td><td>30. Oktober</td><td>1995 B</td><td>30. Januar</td><td>1996</td></tr>
 <tr><td>Vereinigte Arabische Emirate</td><td>14. Oktober</td><td>2004 B</td><td>14. Januar</td><td>2005</td></tr>
 <tr><td>Vereinigtes Königreich\*</td><td>30. Oktober</td><td>1963</td><td>18. Mai</td><td>1964</td></tr>
@@ -426,11 +430,10 @@ Geltungsbereich am 17. November 2020**[^t-2]**
 <tr><td>Jersey</td><td>30. September</td><td>2020</td><td>30. Dezember</td><td>2020</td></tr>
 <tr><td>Vietnam\*</td><td>1. Dezember</td><td>2006 B</td><td>1. März</td><td>2007</td></tr>
 <tr><td>Zypern</td><td>17. März</td><td>2009 B</td><td>17. Juni</td><td>2009</td></tr>
-<tr><td colspan="5">\* Vorbehalte und Erklärungen.</td></tr>
-<tr><td colspan="5">Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht, mit Ausnahme jener der Schweiz. Die französischen und englischen Texte können auf der Internetseite der Vereinten Nationen: http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
+<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht, mit Ausnahme jener der Schweiz. Die französischen und englischen Texte können auf der Internetseite der Organisation der Vereinten Nationen (UNO): [https://treaties.un.org](https://treaties.un.org) eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
 </table>
 
-[^t-2]: [AS 1993 2696](https://fedlex.data.admin.ch/eli/oc/1993/2696_2696_2696), [1995 1396](https://fedlex.data.admin.ch/eli/oc/1995/1396_1396_1396), [2004 2751](https://fedlex.data.admin.ch/eli/oc/2004/333), [2006 2025](https://fedlex.data.admin.ch/eli/oc/2006/319), [2009 2501](https://fedlex.data.admin.ch/eli/oc/2009/312), [2012 2555](https://fedlex.data.admin.ch/eli/oc/2012/304), [2020 267](https://fedlex.data.admin.ch/eli/oc/2020/48)[5175](https://fedlex.data.admin.ch/eli/oc/2020/897). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+[^t-2]: [AS 1993 2696](https://fedlex.data.admin.ch/eli/oc/1993/2696_2696_2696); [1995 1396](https://fedlex.data.admin.ch/eli/oc/1995/1396_1396_1396); [2004 2751](https://fedlex.data.admin.ch/eli/oc/2004/333); [2006 2025](https://fedlex.data.admin.ch/eli/oc/2006/319); [2009 2501](https://fedlex.data.admin.ch/eli/oc/2009/312); [2012 2555](https://fedlex.data.admin.ch/eli/oc/2012/304); [2020 267](https://fedlex.data.admin.ch/eli/oc/2020/48), [5175](https://fedlex.data.admin.ch/eli/oc/2020/897); [2026 249](https://fedlex.data.admin.ch/eli/oc/2026/249). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
 
 Erklärungen
 
