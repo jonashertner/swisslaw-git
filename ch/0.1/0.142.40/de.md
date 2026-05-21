@@ -3,11 +3,11 @@ sr: "0.142.40"
 title: Übereinkommen vom 28. September 1954 über die Rechtsstellung der Staatenlosen (mit Anhang und Muster)
 eli: "https://fedlex.data.admin.ch/eli/cc/1972/2320_2374_2150"
 language: de
-version: 2023-06-09
+version: 2026-05-22
 adopted: 1954-09-28
 in_force: 1972-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1972/2320_2374_2150/20230609/de/xml/fedlex-data-admin-ch-eli-cc-1972-2320_2374_2150-20230609-de-xml-9.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1972/2320_2374_2150/20230609/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1972/2320_2374_2150/20260522/de/xml/fedlex-data-admin-ch-eli-cc-1972-2320_2374_2150-20260522-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1972/2320_2374_2150/20260522/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -20,7 +20,7 @@ AS **1972** 2320; BBl **1971** II 424
 
 Abgeschlossen in New York am 28. September 1954 Von der Bundesversammlung genehmigt am 27. April 1972[^t-1] Schweizerische Ratifikationsurkunde hinterlegt am 3. Juli 1972 In Kraft getreten für die Schweiz am 1. Oktober 1972
 
-(Stand am 9. Juni 2023)
+(Stand am 22. Mai 2026)
 
 [^t-1]: Abs. 1 des BB vom 27. April 1972 ([AS 1972 2317](https://fedlex.data.admin.ch/eli/oc/1972/2317_2371_2147)).
 
@@ -652,7 +652,7 @@ Der Name des Ausweisinhabers ist in jedem Visum zu wiederholen.
 
 [^annexu1-lvlu2-1]: Dieser in Klammern gesetzte Satz kann von Regierungen, die dies wünschen, eingesetzt werden.
 
-Geltungsbereich am 9. Juni 2023[^t-2]
+Geltungsbereich am 22. Mai 2026[^t-2]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B) Nachfolgeerklärung (N)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -701,6 +701,7 @@ Geltungsbereich am 9. Juni 2023[^t-2]
 <tr><td>Italien\*</td><td>3. Dezember</td><td>1962</td><td>3. März</td><td>1963</td></tr>
 <tr><td>Kiribati\*</td><td>29. November</td><td>1983 N</td><td>12. Juli</td><td>1979</td></tr>
 <tr><td>Kolumbien</td><td>7. Oktober</td><td>2019</td><td>5. Januar</td><td>2020</td></tr>
+<tr><td>Kongo (Brazzaville)</td><td>10. Oktober</td><td>2023 B</td><td>8. Januar</td><td>2024</td></tr>
 <tr><td>Korea (Süd-)</td><td>22. August</td><td>1962 B</td><td>20. November</td><td>1962</td></tr>
 <tr><td>Kroatien</td><td>12. Oktober</td><td>1992 N</td><td>8. Oktober</td><td>1991</td></tr>
 <tr><td>Lesotho\*</td><td>4. November</td><td>1974</td><td>4. Oktober</td><td>1966</td></tr>
@@ -732,6 +733,7 @@ Geltungsbereich am 9. Juni 2023[^t-2]
 <tr><td>Ruanda</td><td>4. Oktober</td><td>2006 B</td><td>2. Januar</td><td>2007</td></tr>
 <tr><td>Rumänien\*</td><td>27. Januar</td><td>2006 B</td><td>27. April</td><td>2006</td></tr>
 <tr><td>Sambia\*</td><td>1. November</td><td>1974</td><td>24. Oktober</td><td>1964</td></tr>
+<tr><td>São Tomé und Príncipe</td><td>15. Januar</td><td>2024 B</td><td>14. April</td><td>2024</td></tr>
 <tr><td>Schweden\*</td><td>2. April</td><td>1965</td><td>1. Juli</td><td>1965</td></tr>
 <tr><td>Schweiz</td><td>3. Juli</td><td>1972</td><td>1. Oktober</td><td>1972</td></tr>
 <tr><td>Senegal</td><td>21. September</td><td>2005 B</td><td>20. Dezember</td><td>2005</td></tr>
@@ -742,6 +744,7 @@ Geltungsbereich am 9. Juni 2023[^t-2]
 <tr><td>Slowenien</td><td>6. Juli</td><td>1992 N</td><td>25. Juni</td><td>1991</td></tr>
 <tr><td>Spanien\*</td><td>12. Mai</td><td>1997 B</td><td>10. August</td><td>1997</td></tr>
 <tr><td>St. Vincent und die Grenadinen\*</td><td>27. April</td><td>1999 N</td><td>27. Oktober</td><td>1979</td></tr>
+<tr><td>Südsudan</td><td>4. November</td><td>2024 B</td><td>2. Februar</td><td>2025</td></tr>
 <tr><td>Togo</td><td>14. Juli</td><td>2021 B</td><td>12. Oktober</td><td>2021</td></tr>
 <tr><td>Trinidad und Tobago</td><td>11. April</td><td>1966</td><td>31. August</td><td>1962</td></tr>
 <tr><td>Tschad</td><td>12. August</td><td>1999 B</td><td>10. November</td><td>1999</td></tr>
@@ -757,4 +760,4 @@ Geltungsbereich am 9. Juni 2023[^t-2]
 <tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite der Vereinten Nationen: [https://treaties.un.org](https://treaties.un.org/) eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden. <sup>a</sup> Vom 19. März 1963 bis zum 30. Juni 1997 war das Übereinkommen auf Grund einer Ausdehnungserklärung des Vereinigten Königreichs in Hongkong anwendbar. Seit dem 1. Juli 1997 bildet Hongkong eine Besondere Verwaltungsregion (SAR) der Volksrepublik China. Auf Grund der chinesischen Erklärung vom 10. Juni 1997 ist das Übereinkommen seit dem 1. Juli 1997 auch in der SAR Hongkong anwendbar.</td></tr>
 </table>
 
-[^t-2]: [AS 1972 2320](https://fedlex.data.admin.ch/eli/oc/1972/2320_2374_2150); [1975 1742](https://fedlex.data.admin.ch/eli/oc/1975/1742_1742_1742); [1976 2856](https://fedlex.data.admin.ch/eli/oc/1976/2856_2856_2856); [1982 2072](https://fedlex.data.admin.ch/eli/oc/1982/2072_2072_2072); [1984 976](https://fedlex.data.admin.ch/eli/oc/1984/976_976_976); [1990 322](https://fedlex.data.admin.ch/eli/oc/1990/322_322_322); [1993 2266](https://fedlex.data.admin.ch/eli/oc/1993/2266_2266_2266); [2004 3219](https://fedlex.data.admin.ch/eli/oc/2004/414); [2006 4391](https://fedlex.data.admin.ch/eli/oc/2006/664); [2009 3181](https://fedlex.data.admin.ch/eli/oc/2009/404); [2011 3289](https://fedlex.data.admin.ch/eli/oc/2011/433); [2012 1551](https://fedlex.data.admin.ch/eli/oc/2012/215); [2013 271](https://fedlex.data.admin.ch/eli/oc/2013/36); [2014 3271](https://fedlex.data.admin.ch/eli/oc/2014/563); [2016 2217](https://fedlex.data.admin.ch/eli/oc/2016/354); [2019 747](https://fedlex.data.admin.ch/eli/oc/2019/128); [2020 1661](https://fedlex.data.admin.ch/eli/oc/2020/335); [2023 294](https://fedlex.data.admin.ch/eli/oc/2023/294). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty%20).
+[^t-2]: [AS 1972 2320](https://fedlex.data.admin.ch/eli/oc/1972/2320_2374_2150); [1975 1742](https://fedlex.data.admin.ch/eli/oc/1975/1742_1742_1742); [1976 2856](https://fedlex.data.admin.ch/eli/oc/1976/2856_2856_2856); [1982 2072](https://fedlex.data.admin.ch/eli/oc/1982/2072_2072_2072); [1984 976](https://fedlex.data.admin.ch/eli/oc/1984/976_976_976); [1990 322](https://fedlex.data.admin.ch/eli/oc/1990/322_322_322); [1993 2266](https://fedlex.data.admin.ch/eli/oc/1993/2266_2266_2266); [2004 3219](https://fedlex.data.admin.ch/eli/oc/2004/414); [2006 4391](https://fedlex.data.admin.ch/eli/oc/2006/664); [2009 3181](https://fedlex.data.admin.ch/eli/oc/2009/404); [2011 3289](https://fedlex.data.admin.ch/eli/oc/2011/433); [2012 1551](https://fedlex.data.admin.ch/eli/oc/2012/215); [2013 271](https://fedlex.data.admin.ch/eli/oc/2013/36); [2014 3271](https://fedlex.data.admin.ch/eli/oc/2014/563); [2016 2217](https://fedlex.data.admin.ch/eli/oc/2016/354); [2019 747](https://fedlex.data.admin.ch/eli/oc/2019/128); [2020 1661](https://fedlex.data.admin.ch/eli/oc/2020/335); [2023 294](https://fedlex.data.admin.ch/eli/oc/2023/294); [2026 248](https://fedlex.data.admin.ch/eli/oc/2026/248). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: www.fedlex.admin.ch/de/treaty.

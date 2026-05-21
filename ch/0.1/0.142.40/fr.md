@@ -3,11 +3,11 @@ sr: "0.142.40"
 title: Convention du 28 septembre 1954 relative au statut des apatrides (avec annexe et modèle)
 eli: "https://fedlex.data.admin.ch/eli/cc/1972/2320_2374_2150"
 language: fr
-version: 2023-06-09
+version: 2026-05-22
 adopted: 1954-09-28
 in_force: 1972-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1972/2320_2374_2150/20230609/fr/xml/fedlex-data-admin-ch-eli-cc-1972-2320_2374_2150-20230609-fr-xml-9.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1972/2320_2374_2150/20230609/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1972/2320_2374_2150/20260522/fr/xml/fedlex-data-admin-ch-eli-cc-1972-2320_2374_2150-20260522-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1972/2320_2374_2150/20260522/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -26,7 +26,7 @@ Instrument de ratification déposé par la Suisse le 3 juillet 1972
 
 Entrée en vigueur pour la Suisse le 1<sup>er</sup> octobre 1972
 
-(État le 9 juin 2023)
+(État le 22 mai 2026)
 
 [^t-1]: Al. 1 de l’AF du 27 avril 1972 ([RO 1972 2371](https://fedlex.data.admin.ch/eli/oc/1972/2317_2371_2147)).
 
@@ -504,7 +504,7 @@ Titre de voyage
 
 (Convention du 28 septembre 1954)
 
-N<sup>o</sup> ......................
+N<sup>o</sup> ………………….
 
 (1)
 
@@ -512,16 +512,16 @@ Titre de voyage
 
 (Convention du 28 septembre 1954)
 
-Ce document expire le .................. sauf prorogation de validité.
+Ce document expire le ……………… sauf prorogation de validité.
 
 Nom:
 
 Prénom(s):
 
-Accompagné de ........ enfant(s)
+Accompagné de …….. enfant(s)
 
 - 1\. Ce titre délivré uniquement en vue de fournir au titulaire un document de voyage pouvant tenir lieu de passeport national. Il ne préjuge pas de la nationalité du titulaire et est sans effet sur celle-ci.
-- 2\. Le titulaire est autorisé à retourner en, ................... (indication du pays dont les autorités délivrent le titre) jusqu’au ................. sauf mention ci-après d’une date ultérieure. (La période pendant laquelle le titulaire est autorisé à retourner ne doit pas être inférieure à trois mois, sauf lorsque le pays où le titulaire désire se rendre n’exige pas que ce document comporte le droit ne rentrée.)
+- 2\. Le titulaire est autorisé à retourner en, ………………. (indication du pays dont les autorités délivrent le titre) jusqu’au …………….. sauf mention ci-après d’une date ultérieure. (La période pendant laquelle le titulaire est autorisé à retourner ne doit pas être inférieure à trois mois, sauf lorsque le pays où le titulaire désire se rendre n’exige pas que ce document comporte le droit ne rentrée.)
 - 3\. En cas d’établissement dans un autre pays que celui où le présent titre a été délivré, le titulaire doit, s’il veut se déplacer à nouveau, faire la demande d’un nouveau titre aux autorités compétentes du pays de sa résidence. (L’ancien titre de voyage sera remis à l’autorité qui délivre le nouveau titre pour être renvoyé à l’autorité qui l’a délivré[^annexu1-lvlu2-1].)
 
 (Ce titre contient 32 pages, non compris la couverture.
@@ -657,7 +657,7 @@ Reproduire dans chaque visa le nom du titulaire.
 
 [^annexu1-lvlu2-1]: La phrase entre crochets peut être insérée par les gouvernements qui le désirent.
 
-Champ d’application le 9 juin 2023[^t-2]
+Champ d’application le 22 mai 2026[^t-2]
 
 <table>
 <tr><th>États parties</th><th>Ratification Adhésion (A) Déclaration de succession (S)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
@@ -685,6 +685,7 @@ Champ d’application le 9 juin 2023[^t-2]
 <tr><td>Chine</td><td></td><td></td><td></td><td></td></tr>
 <tr><td>Hong Kong <sup>a</sup></td><td>10 juin</td><td>1997</td><td>1<sup>er</sup> juillet</td><td>1997</td></tr>
 <tr><td>Colombie</td><td>7 octobre</td><td>2019</td><td>5 janvier</td><td>2020</td></tr>
+<tr><td>Congo (Brazzaville)</td><td>10 octobre</td><td>2023 A</td><td>8 janvier</td><td>2024</td></tr>
 <tr><td>Corée (Sud)</td><td>22 août</td><td>1962 A</td><td>20 novembre</td><td>1962</td></tr>
 <tr><td>Costa Rica</td><td>2 novembre</td><td>1977</td><td>31 janvier</td><td>1978</td></tr>
 <tr><td>Côte d’Ivoire</td><td>3 octobre</td><td>2013 A</td><td>1<sup>er</sup> janvier</td><td>2014</td></tr>
@@ -742,11 +743,13 @@ Champ d’application le 9 juin 2023[^t-2]
 <tr><td>Royaume-Uni</td><td>16 avril</td><td>1959</td><td>15 juillet</td><td>1959</td></tr>
 <tr><td>Rwanda</td><td>4 octobre</td><td>2006 A</td><td>2 janvier</td><td>2007</td></tr>
 <tr><td>Saint-Vincent-et-les Grenadines\*</td><td>27 avril</td><td>1999 S</td><td>27 octobre</td><td>1979</td></tr>
+<tr><td>Sao Tomé-et-Principe</td><td>15 janvier</td><td>2024 A</td><td>14 avril</td><td>2024</td></tr>
 <tr><td>Sénégal</td><td>21 septembre</td><td>2005 A</td><td>20 décembre</td><td>2005</td></tr>
 <tr><td>Serbie</td><td>12 mars</td><td>2001 S</td><td>27 avril</td><td>1992</td></tr>
 <tr><td>Sierra Leone</td><td>9 mai</td><td>2016 A</td><td>7 août</td><td>2016</td></tr>
 <tr><td>Slovaquie\*</td><td>3 avril</td><td>2000 A</td><td>2 juillet</td><td>2000</td></tr>
 <tr><td>Slovénie</td><td>6 juillet</td><td>1992 S</td><td>25 juin</td><td>1991</td></tr>
+<tr><td>Soudan du Sud</td><td>4 novembre</td><td>2024 A</td><td>2 février</td><td>2025</td></tr>
 <tr><td>Suède\*</td><td>2 avril</td><td>1965</td><td>1<sup>er</sup> juillet</td><td>1965</td></tr>
 <tr><td>Suisse</td><td>3 juillet</td><td>1972</td><td>1<sup>er</sup> octobre</td><td>1972</td></tr>
 <tr><td>Tchad</td><td>12 août</td><td>1999 A</td><td>10 novembre</td><td>1999</td></tr>
@@ -762,4 +765,4 @@ Champ d’application le 9 juin 2023[^t-2]
 <tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet des Nations Unies: [https://treaties.un.org](https://treaties.un.org/) ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> Du 19 mars 1963 au 30 juin 1997, la Convention était applicable à Hong Kong sur la base d’une déclaration d’extension territoriale du Royaume-Uni. À partir du 1<sup>er</sup> juillet 1997, Hong Kong est devenue une Région administrative spéciale (RAS) de la République populaire de Chine. En vertu de la déclaration chinoise du 10 juin 1997, la Convention est également applicable à la RAS Hong Kong à partir du 1<sup>er</sup> juillet 1997.</td></tr>
 </table>
 
-[^t-2]: [RO 1972 2374](https://fedlex.data.admin.ch/eli/oc/1972/2320_2374_2150); [1975 1742](https://fedlex.data.admin.ch/eli/oc/1975/1742_1742_1742); [1976 2856](https://fedlex.data.admin.ch/eli/oc/1976/2856_2856_2856); [1982 2072](https://fedlex.data.admin.ch/eli/oc/1982/2072_2072_2072); [1984 976](https://fedlex.data.admin.ch/eli/oc/1984/976_976_976); [1990 322](https://fedlex.data.admin.ch/eli/oc/1990/322_322_322); [1993 2266](https://fedlex.data.admin.ch/eli/oc/1993/2266_2266_2266); [2004 3219](https://fedlex.data.admin.ch/eli/oc/2004/414); [2006 4391](https://fedlex.data.admin.ch/eli/oc/2006/664); [2009 3181](https://fedlex.data.admin.ch/eli/oc/2009/404); [2011 3289](https://fedlex.data.admin.ch/eli/oc/2011/433); [2012 1551](https://fedlex.data.admin.ch/eli/oc/2012/215); [2013 271](https://fedlex.data.admin.ch/eli/oc/2013/36); [2014 3271](https://fedlex.data.admin.ch/eli/oc/2014/563); [2016 2217](https://fedlex.data.admin.ch/eli/oc/2016/354); [2019 747](https://fedlex.data.admin.ch/eli/oc/2019/128); [2020 1661](https://fedlex.data.admin.ch/eli/oc/2020/335); [2023 294](https://fedlex.data.admin.ch/eli/oc/2023/294). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty%20)
+[^t-2]: [RO 1972 2374](https://fedlex.data.admin.ch/eli/oc/1972/2320_2374_2150); [1975 1742](https://fedlex.data.admin.ch/eli/oc/1975/1742_1742_1742); [1976 2856](https://fedlex.data.admin.ch/eli/oc/1976/2856_2856_2856); [1982 2072](https://fedlex.data.admin.ch/eli/oc/1982/2072_2072_2072); [1984 976](https://fedlex.data.admin.ch/eli/oc/1984/976_976_976); [1990 322](https://fedlex.data.admin.ch/eli/oc/1990/322_322_322); [1993 2266](https://fedlex.data.admin.ch/eli/oc/1993/2266_2266_2266); [2004 3219](https://fedlex.data.admin.ch/eli/oc/2004/414); [2006 4391](https://fedlex.data.admin.ch/eli/oc/2006/664); [2009 3181](https://fedlex.data.admin.ch/eli/oc/2009/404); [2011 3289](https://fedlex.data.admin.ch/eli/oc/2011/433); [2012 1551](https://fedlex.data.admin.ch/eli/oc/2012/215); [2013 271](https://fedlex.data.admin.ch/eli/oc/2013/36); [2014 3271](https://fedlex.data.admin.ch/eli/oc/2014/563); [2016 2217](https://fedlex.data.admin.ch/eli/oc/2016/354); [2019 747](https://fedlex.data.admin.ch/eli/oc/2019/128); [2020 1661](https://fedlex.data.admin.ch/eli/oc/2020/335); [2023 294](https://fedlex.data.admin.ch/eli/oc/2023/294); [2026 248](https://fedlex.data.admin.ch/eli/oc/2026/248). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty%20)

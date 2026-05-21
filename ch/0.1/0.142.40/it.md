@@ -3,11 +3,11 @@ sr: "0.142.40"
 title: Convenzione del 28 settembre 1954 sullo statuto degli apolidi (con. All. e Modello)
 eli: "https://fedlex.data.admin.ch/eli/cc/1972/2320_2374_2150"
 language: it
-version: 2023-06-09
+version: 2026-05-22
 adopted: 1954-09-28
 in_force: 1972-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1972/2320_2374_2150/20230609/it/xml/fedlex-data-admin-ch-eli-cc-1972-2320_2374_2150-20230609-it-xml-9.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1972/2320_2374_2150/20230609/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1972/2320_2374_2150/20260522/it/xml/fedlex-data-admin-ch-eli-cc-1972-2320_2374_2150-20260522-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1972/2320_2374_2150/20260522/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -20,7 +20,7 @@ Traduzione
 
 Conchiusa a Nuova York il 28 settembre 1954 Approvata dall’Assemblea federale il 27 aprile 1972[^t-1] Istrumento di ratificazione depositato dalla Svizzera il 3 luglio 1972 Entrata in vigore per la Svizzera il 1° ottobre 1972
 
-(Stato 9 giugno 2023)
+(Stato 22 maggio 2026)
 
 [^t-1]: Cpv. 1 del DF del 27 apr. 1972 (RU **1992** 2317).
 
@@ -651,7 +651,7 @@ Iscrivere in ogni visto il nome del titolare.
 
 [^annexu1-lvlu2-1]: La frase tra parentesi può venire inserita dai Governi che lo desiderano.
 
-Campo d’applicazione il 9 giugno 2023[^t-2]
+Campo d’applicazione il 22 maggio 2026[^t-2]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A) Dichiarazione di successione (S)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -680,6 +680,7 @@ Campo d’applicazione il 9 giugno 2023[^t-2]
 <tr><td>Cina</td><td></td><td></td><td></td><td></td></tr>
 <tr><td>Cina-Hong Kong<sup>\*</sup> <sup>a</sup></td><td>10 giugno</td><td>1997</td><td>1° luglio</td><td>1999</td></tr>
 <tr><td>Colombia</td><td>7 ottobre</td><td>2019</td><td>5 gennaio</td><td>2020</td></tr>
+<tr><td>Congo (Brazzaville)</td><td>10 ottobre</td><td>2023 A</td><td>8 gennaio</td><td>2024</td></tr>
 <tr><td>Corea (Sud)</td><td>22 agosto</td><td>1962 A</td><td>20 novembre</td><td>1962</td></tr>
 <tr><td>Costa d’Avorio</td><td>3 ottobre</td><td>2013 A</td><td>1° gennaio</td><td>2014</td></tr>
 <tr><td>Costa Rica</td><td>2 novembre</td><td>1977</td><td>31 gennaio</td><td>1978</td></tr>
@@ -734,12 +735,14 @@ Campo d’applicazione il 9 giugno 2023[^t-2]
 <tr><td>Romania<sup>\*</sup></td><td>27 gennaio</td><td>2006 A</td><td>27 aprile</td><td>2006</td></tr>
 <tr><td>Ruanda</td><td>4 ottobre</td><td>2006 A</td><td>2 gennaio</td><td>2007</td></tr>
 <tr><td>Saint Vincent e Grenadine<sup>\*</sup></td><td>27 aprile</td><td>1999 S</td><td>27 ottobre</td><td>1979</td></tr>
+<tr><td>São Tomé e Príncipe</td><td>15 gennaio</td><td>2024 A</td><td>14 aprile</td><td>2024</td></tr>
 <tr><td>Senegal</td><td>21 settembre</td><td>2005 A</td><td>20 dicembre</td><td>2005</td></tr>
 <tr><td>Serbia</td><td>12 marzo</td><td>2001 S</td><td>27 aprile</td><td>1992</td></tr>
 <tr><td>Sierra Leone</td><td>9 maggio</td><td>2016 A</td><td>7 agosto</td><td>2016</td></tr>
 <tr><td>Slovacchia<sup>\*</sup></td><td>3 aprile</td><td>2000 A</td><td>2 luglio</td><td>2000</td></tr>
 <tr><td>Slovenia</td><td>6 luglio</td><td>1992 S</td><td>25 giugno</td><td>1991</td></tr>
 <tr><td>Spagna<sup>\*</sup></td><td>12 maggio</td><td>1997 A</td><td>10 agosto</td><td>1997</td></tr>
+<tr><td>Sudan del Sud</td><td>4 novembre</td><td>2024 A</td><td>2 febbraio</td><td>2025</td></tr>
 <tr><td>Svezia<sup>\*</sup></td><td>2 aprile</td><td>1965</td><td>1° luglio</td><td>1965</td></tr>
 <tr><td>Svizzera</td><td>3 luglio</td><td>1972</td><td>1° ottobre</td><td>1972</td></tr>
 <tr><td>Togo</td><td>14 luglio</td><td>2021 A</td><td>12 ottobre</td><td>2021</td></tr>
@@ -756,4 +759,4 @@ Campo d’applicazione il 9 giugno 2023[^t-2]
 <tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e dichiarazioni non sono pubblicate nella RU. Il testo, francese ed inglese, può essere consultato sul sito Internet dell’Organizzazione delle Nazioni Unite: [https://treaties.un.org](https://treaties.un.org/) oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna. <sup>a</sup> Dal 19 mar. 1963 al 30 giu. 1997 la Conv. era applicabile a Hong Kong in base a una dichiarazione d’estensione territoriale del Regno Unito. Dal 1° lug. 1997, Hong Kong è diventata una Regione amministrativa speciale (RAS) della Repubblica Popolare Cinese. In virtù della dichiarazione cinese del 10 giu. 1997, la Conv. è applicabile anche alla RAS Hong Kong dal 1° lug. 1997.</td></tr>
 </table>
 
-[^t-2]: [RU 1972 2150](https://fedlex.data.admin.ch/eli/oc/1972/2320_2374_2150); [1975 1742](https://fedlex.data.admin.ch/eli/oc/1975/1742_1742_1742); [1976 2856](https://fedlex.data.admin.ch/eli/oc/1976/2856_2856_2856); [1982 2072](https://fedlex.data.admin.ch/eli/oc/1982/2072_2072_2072); [1984 976](https://fedlex.data.admin.ch/eli/oc/1984/976_976_976); [1990 322](https://fedlex.data.admin.ch/eli/oc/1990/322_322_322); [1993 2266](https://fedlex.data.admin.ch/eli/oc/1993/2266_2266_2266); [2004 3219](https://fedlex.data.admin.ch/eli/oc/2004/414); [2006 4391](https://fedlex.data.admin.ch/eli/oc/2006/664); [2009 3181](https://fedlex.data.admin.ch/eli/oc/2009/404); [2011 3289](https://fedlex.data.admin.ch/eli/oc/2011/433); [2012 1551](https://fedlex.data.admin.ch/eli/oc/2012/215); [2013 271](https://fedlex.data.admin.ch/eli/oc/2013/36); [2014 3271](https://fedlex.data.admin.ch/eli/oc/2014/563); [2016 2217](https://fedlex.data.admin.ch/eli/oc/2016/354); [2019 747](https://fedlex.data.admin.ch/eli/oc/2019/128); [2020 1661](https://fedlex.data.admin.ch/eli/oc/2020/335); [2023 294](https://fedlex.data.admin.ch/eli/oc/2023/294). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: www.fedlex.admin.ch /it/treaty.
+[^t-2]: [RU 1972 2150](https://fedlex.data.admin.ch/eli/oc/1972/2320_2374_2150); [1975 1742](https://fedlex.data.admin.ch/eli/oc/1975/1742_1742_1742); [1976 2856](https://fedlex.data.admin.ch/eli/oc/1976/2856_2856_2856); [1982 2072](https://fedlex.data.admin.ch/eli/oc/1982/2072_2072_2072); [1984 976](https://fedlex.data.admin.ch/eli/oc/1984/976_976_976); [1990 322](https://fedlex.data.admin.ch/eli/oc/1990/322_322_322); [1993 2266](https://fedlex.data.admin.ch/eli/oc/1993/2266_2266_2266); [2004 3219](https://fedlex.data.admin.ch/eli/oc/2004/414); [2006 4391](https://fedlex.data.admin.ch/eli/oc/2006/664); [2009 3181](https://fedlex.data.admin.ch/eli/oc/2009/404); [2011 3289](https://fedlex.data.admin.ch/eli/oc/2011/433); [2012 1551](https://fedlex.data.admin.ch/eli/oc/2012/215); [2013 271](https://fedlex.data.admin.ch/eli/oc/2013/36); [2014 3271](https://fedlex.data.admin.ch/eli/oc/2014/563); [2016 2217](https://fedlex.data.admin.ch/eli/oc/2016/354); [2019 747](https://fedlex.data.admin.ch/eli/oc/2019/128); [2020 1661](https://fedlex.data.admin.ch/eli/oc/2020/335); [2023 294](https://fedlex.data.admin.ch/eli/oc/2023/294); [2026 248](https://fedlex.data.admin.ch/eli/oc/2026/248). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty).
