@@ -3,11 +3,11 @@ sr: "0.312.1"
 title: Statuto di Roma della Corte penale internazionale del 17 luglio 1998
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/586"
 language: it
-version: 2024-06-13
+version: 2026-05-22
 adopted: 1998-07-17
 in_force: 2002-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/586/20240613/it/xml/fedlex-data-admin-ch-eli-cc-2002-586-20240613-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/586/20240613/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/586/20260522/it/xml/fedlex-data-admin-ch-eli-cc-2002-586-20260522-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/586/20260522/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -20,9 +20,9 @@ Traduzione
 
 Concluso a Roma il 17 luglio 1998 Approvato dall’Assemblea federale il 22 giugno 2001[^t-2] Ratificato con strumenti depositati dalla Svizzera il 12 ottobre 2001 Entrato in vigore per la Svizzera il 1° luglio 2002
 
-(Stato 13 giugno 2024)
+(Stato 22 maggio 2026)
 
-[^t-1]: Le mod. del 10 giu. 2010 ([RS [0.312.12](http://www.admin.ch/ch/d/sr/c0_784_405_1.html)](https://fedlex.data.admin.ch/eli/cc/2015/645); [[RU 2015](http://www.admin.ch/ch/d/as/2002/3130.pdf)3833](https://fedlex.data.admin.ch/eli/oc/2015/645)) e dell’11 giu. 2010 ([RS [0.312.11](http://www.admin.ch/ch/d/sr/c0_784_405_1.html)](https://fedlex.data.admin.ch/eli/cc/2015/644); [[RU 2015 3825](http://www.admin.ch/ch/d/as/2002/3130.pdf)](https://fedlex.data.admin.ch/eli/oc/2015/644)) sono introdotte nel presente testo. Le stesse valgono comunque unicamente nei rapporti con gli Stati parte. Vedi pertanto il loro specifico campo d’applicazione.
+[^t-1]: Le mod. del 10 giu. 2010 ([RS [0.312.12](http://www.admin.ch/ch/d/sr/c0_784_405_1.html)](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1328); [[RU 2015](http://www.admin.ch/ch/d/as/2002/3130.pdf)3833](https://fedlex.data.admin.ch/eli/oc/2015/645)) e dell’11 giu. 2010 ([RS [0.312.11](http://www.admin.ch/ch/d/sr/c0_784_405_1.html)](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1327); [[RU 2015 3825](http://www.admin.ch/ch/d/as/2002/3130.pdf)](https://fedlex.data.admin.ch/eli/oc/2015/644)) sono introdotte nel presente testo. Le stesse valgono comunque unicamente nei rapporti con gli Stati parte. Vedi pertanto il loro specifico campo d’applicazione.
 [^t-2]: Art. 1 cpv. 1 del DF del 22 giu. 2001 ([RU 2002 3741](https://fedlex.data.admin.ch/eli/oc/2002/585)).
 
 *Preambolo*
@@ -53,7 +53,7 @@ risoluti a garantire in modo duraturo il rispetto e l’applicazione della giust
 
 hanno convenuto quanto segue:
 
-[^ingress-1]: [RS 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
+[^ingress-1]: [RS 0.120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/41)
 
 ## Capitolo I: Istituzione della Corte
 
@@ -93,7 +93,7 @@ La Corte instaura rapporti con le Nazioni Unite attraverso un accordo che dovrà
 
 **Crimini di competenza della Corte**
 
-<sup>1.</sup>
+<sup>1.</sup> 2.[^5-1] …
 
 La competenza della Corte è limitata ai crimini più gravi, motivo di allarme per l’intera comunità internazionale. La Corte ha competenza, in forza del presente Statuto, per i crimini seguenti:
 
@@ -101,8 +101,6 @@ La competenza della Corte è limitata ai crimini più gravi, motivo di allarme p
 - b) crimini contro l’umanità;
 - c) crimini di guerra;
 - d) crimine di aggressione.
-
-<sup>2.</sup> ...[^5-1]
 
 [^5-1]: Abrogato dall’all. I n. 1 degli emendamenti dell’11 giu. 2010 relativi al crimine di aggressione, accettati dall’AF il 20 mar. 2015 e con effetto per la Svizzera dal 10 set. 2016 ([RU 2015 3825](https://fedlex.data.admin.ch/eli/oc/2015/644)[3823](https://fedlex.data.admin.ch/eli/oc/2015/643); [FF 2014 1827](https://fedlex.data.admin.ch/eli/fga/2014/401)).
 
@@ -239,7 +237,7 @@ Agli effetti dello Statuto, si intende per «crimini di guerra»:
   - xii) distruggere o confiscare beni dell’avversario, a meno che la confisca o la distruzione non siano imperativamente richieste dalle necessità del conflitto;
   - [tab] xiii)[^8-5] utilizzare veleno o armi velenose;
   - [tab] xiv)[^8-6] utilizzare gas asfissianti, gas tossici o gas simili nonché tutti i liquidi, le materie o i procedimenti analoghi;
-  - xv)[^8-7] utilizzare proiettili che si espandono o si appiattiscono facilmente all’interno del corpo umano, quali i proiettili con l’involucro duro che non ricopre interamente la parte centrale o quelli perforati ad in taglio;
+  - [tab] xv)[^8-7] utilizzare proiettili che si espandono o si appiattiscono facilmente all’interno del corpo umano, quali i proiettili con l’involucro duro che non ricopre interamente la parte centrale o quelli perforati ad in taglio;
   - xvi)[^8-8] utilizzare armi che impiegano agenti microbici o altri agenti biologici o tossine, qualunque ne sia l’origine o il modo di produzione;
   - xvii)[^8-9] utilizzare armi il cui effetto principale sia di ferire mediante schegge che non siano localizzabili nel corpo umano con i raggi X;
   - xviii)[^8-10] utilizzare armi laser specificamente concepite in modo tale che la loro unica funzione di combattimento o una delle loro funzioni di combattimento sia di provocare la cecità permanente delle persone la cui vista non è protetta, ossia che guardano a occhio nudo o che portano lenti correttrici;
@@ -249,7 +247,7 @@ Agli effetti dello Statuto, si intende per «crimini di guerra»:
 
 <sup>3.</sup> Nulla di quanto contenuto nelle disposizioni del paragrafo 2, capoversi c) ed e) può avere incidenza sulle responsabilità dei governi di mantenere o ristabilire l’ordine pubblico all’interno dello Stato o di difendere l’unità e l’integrità territoriale dello Stato con ogni mezzo legittimo.
 
-[^8-1]: [RS 0.518.12](https://fedlex.data.admin.ch/eli/cc/1951/181_184_180); [0.518.23](https://fedlex.data.admin.ch/eli/cc/1951/207_209_205); [0.518.42](https://fedlex.data.admin.ch/eli/cc/1951/228_230_226); [0.518.51](https://fedlex.data.admin.ch/eli/cc/1951/300_302_297)
+[^8-1]: [RS 0.518.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1960); [0.518.23](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1964); [0.518.42](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1966); [0.518.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1967)
 [^8-2]: Introdotto dall’all. I degli emendamenti del 14 dic. 2017, accettati dall’AF il 20 dic. 2019 ed in vigore per la Svizzera dal 7 lug. 2021 ([RU 2021 334](https://fedlex.data.admin.ch/eli/oc/2021/334)[333](https://fedlex.data.admin.ch/eli/oc/2021/333); [FF 2019 3231](https://fedlex.data.admin.ch/eli/fga/2019/1447)).
 [^8-3]: Introdotto dall’all. II degli emendamenti del 14 dic. 2017, accettati dall’AF il 20 dic. 2019 ed in vigore per la Svizzera dal 7 lug. 2021 ([RU 2021 334](https://fedlex.data.admin.ch/eli/oc/2021/334)[333](https://fedlex.data.admin.ch/eli/oc/2021/333); [FF 2019 3231](https://fedlex.data.admin.ch/eli/fga/2019/1447)).
 [^8-4]: Introdotto dall’all. III degli emendamenti del 14 dic. 2017, accettati dall’AF il 20 dic. 2019 ed in vigore per la Svizzera dal 7 lug. 2021 ([RU 2021 334](https://fedlex.data.admin.ch/eli/oc/2021/334)[333](https://fedlex.data.admin.ch/eli/oc/2021/333); [FF 2019 3231](https://fedlex.data.admin.ch/eli/fga/2019/1447)).
@@ -280,7 +278,7 @@ Ai fini del paragrafo 1, «per atto di aggressione» s’intende l’uso della f
 - g) l’invio da parte di uno Stato, o in suo nome, di bande, gruppi, forze irregolari o mercenari armati che compiano atti di forza armata contro un altro Stato di gravità tale da essere equiparabili agli atti sopra citati o che partecipino in modo sostanziale a detti atti.
 
 [^8bis-1]: Introdotto dal n. 2 dell’all. I degli emendamenti dell’11 giu. 2010 relativi al crimine di aggressione, accettati dall’AF il 20 mar. 2015 ed in vigore per la Svizzera dal 10 set. 2016 ([RU 2015 3825](https://fedlex.data.admin.ch/eli/oc/2015/644)[3823](https://fedlex.data.admin.ch/eli/oc/2015/643); [FF 2014 1827](https://fedlex.data.admin.ch/eli/fga/2014/401)).
-[^8bis-2]: [RS 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
+[^8bis-2]: [RS 0.120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/41)
 
 #### Art. 9
 
@@ -793,9 +791,6 @@ Il Presidente, il primo Vicepresidente ed il Secondo Vicepresidente compongono l
 <sup>1.</sup> Il prima possibile dopo l’elezione dei giudici, la Corte si organizza in sezioni come previsto dall’articolo 34 paragrafo b). La Sezione degli appelli è composta dal presidente e da altri quattro giudici; la Sezione di primo grado e la Sezione preliminare sono ciascuna composte da almeno sei giudici. L’assegnazione dei giudici alle Sezioni è fondata sulla natura delle funzioni attribuite a ciascuna di esse e sulle competenze ed esperienza dei giudici eletti alla Corte, in modo tale che ciascuna sezione includa in misura adeguata membri con competenze specializzate in diritto e procedura penale, ed in diritto internazionale. La Sezione preliminare e la Sezione di primo grado sono composte in prevalenza da giudici aventi esperienza in materia di procedimenti penali.
 
 - 2\. a) Le funzioni giudiziarie della Corte sono esercitate in ciascuna sezione dalle Camere.
--
-
-- [tab]
 - b) Fatta salva la sostituzione di un giudice ai sensi del Regolamento di procedura e di prova:[^39-1]
 - i) La Camera di appello è composta da tutti i giudici della sezione degli appelli.
   - ii) Le funzioni della Camera di primo grado sono esercitate da tre giudici della Sezione di primo grado.
@@ -2286,7 +2281,7 @@ L’originale del presente Statuto, i cui testi in arabo, cinese, francese, ingl
 
 (Seguono le firme)
 
-Campo d’applicazione il 12 maggio 2022[^t-3]
+Campo d’applicazione il 22 maggio 2026[^t-3]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A) Dichiarazione di successione (S)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -2295,6 +2290,7 @@ Campo d’applicazione il 12 maggio 2022[^t-3]
 <tr><td>Andorra<sup>\*</sup></td><td>30 aprile</td><td>2001</td><td>1° luglio</td><td>2002</td></tr>
 <tr><td>Antigua e Barbuda</td><td>18 giugno</td><td>2001</td><td>1° luglio</td><td>2002</td></tr>
 <tr><td>Argentina<sup>\*</sup></td><td>8 febbraio</td><td>2001</td><td>1° luglio</td><td>2002</td></tr>
+<tr><td>Armenia</td><td>14 novembre</td><td>2023</td><td>1° febbraio</td><td>2024</td></tr>
 <tr><td>Australia<sup>\*</sup></td><td>1° luglio</td><td>2002</td><td>1° settembre</td><td>2002</td></tr>
 <tr><td>Austria<sup>\*</sup></td><td>28 dicembre</td><td>2000</td><td>1° luglio</td><td>2002</td></tr>
 <tr><td>Bangladesh</td><td>23 marzo</td><td>2010</td><td>1° giugno</td><td>2010</td></tr>
@@ -2425,16 +2421,16 @@ Campo d’applicazione il 12 maggio 2022[^t-3]
 <tr><td>Timor-Leste<sup>\*</sup></td><td>6 settembre</td><td>2002 A</td><td>1° dicembre</td><td>2002</td></tr>
 <tr><td>Trinidad e Tobago</td><td>6 aprile</td><td>1999</td><td>1° luglio</td><td>2002</td></tr>
 <tr><td>Tunisia</td><td>24 giugno</td><td>2011 A</td><td>1° settembre</td><td>2011</td></tr>
+<tr><td>Ucraina\*</td><td>25 ottobre</td><td>2024</td><td>1° gennaio</td><td>2025</td></tr>
 <tr><td>Uganda</td><td>14 giugno</td><td>2002</td><td>1° settembre</td><td>2002</td></tr>
-<tr><td>Ungheria<sup>\*</sup></td><td>30 novembre</td><td>2001</td><td>1° luglio</td><td>2002</td></tr>
 <tr><td>Uruguay<sup>\*</sup></td><td>28 giugno</td><td>2002</td><td>1° settembre</td><td>2002</td></tr>
 <tr><td>Vanuatu</td><td>2 dicembre</td><td>2011 A</td><td>1° febbraio</td><td>2012</td></tr>
 <tr><td>Venezuela</td><td>7 giugno</td><td>2000</td><td>1° luglio</td><td>2002</td></tr>
 <tr><td>Zambia</td><td>13 novembre</td><td>2002</td><td>1° febbraio</td><td>2003</td></tr>
-<tr><td colspan="5">\* Riserve e dichiarazioni. \*\* Obiezioni. Le riserve, dichiarazioni ed obiezioni, non sono pubblicate nella RU, eccetto quelle della Svizzera. Il testo, francese ed inglese, può essere consultato sul sito Internet dell’Organizzazione delle Nazioni Unite: [http://treaties.un.org](http://treaties.un.org) &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies, oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna. <sup>a</sup> Lo Statuto non vale per Tokelau. <sup>b</sup> Al Regno in Europa.</td></tr>
+<tr><td colspan="5">\* Riserve e dichiarazioni. \*\* Obiezioni. Le riserve e le dichiarazioni non sono pubblicate nella RU, eccetto quelle della Svizzera. Il testo, in francese e inglese, può essere consultato sul sito Internet dell’Organizzazione delle Nazioni Unite (ONU): [http://treaties.un.org](http://treaties.un.org/) oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna. <sup>a</sup> Lo Statuto non vale per Tokelau. <sup>b</sup> Al Regno in Europa.</td></tr>
 </table>
 
-[^t-3]: [RU 2002 3743](https://fedlex.data.admin.ch/eli/oc/2002/586); [2004 3891](https://fedlex.data.admin.ch/eli/oc/2004/543); [2005 4991](https://fedlex.data.admin.ch/eli/oc/2005/681); [2007 15](https://fedlex.data.admin.ch/eli/oc/2007/5); [2008 4197](https://fedlex.data.admin.ch/eli/oc/2008/598); [2010 1625](https://fedlex.data.admin.ch/eli/oc/2010/236); [2012 105](https://fedlex.data.admin.ch/eli/oc/2012/13); [2015 4449](https://fedlex.data.admin.ch/eli/oc/2015/741); [2018 3003](https://fedlex.data.admin.ch/eli/oc/2018/463); [2022 293](https://fedlex.data.admin.ch/eli/oc/2022/293). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](http://www.fedlex.admin.ch/it/treaty)
+[^t-3]: [RU 2002 3743](https://fedlex.data.admin.ch/eli/oc/2002/586); [2004 3891](https://fedlex.data.admin.ch/eli/oc/2004/543); [2005 4991](https://fedlex.data.admin.ch/eli/oc/2005/681); [2007 15](https://fedlex.data.admin.ch/eli/oc/2007/5); [2008 4197](https://fedlex.data.admin.ch/eli/oc/2008/598); [2010 1625](https://fedlex.data.admin.ch/eli/oc/2010/236); [2012 105](https://fedlex.data.admin.ch/eli/oc/2012/13); [2015 4449](https://fedlex.data.admin.ch/eli/oc/2015/741); [2018 3003](https://fedlex.data.admin.ch/eli/oc/2018/463); [2022 293](https://fedlex.data.admin.ch/eli/oc/2022/293); [2026 251](https://fedlex.data.admin.ch/eli/oc/2026/251). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty).
 
 Riserve e dichiarazioni
 

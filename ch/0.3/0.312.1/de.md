@@ -3,11 +3,11 @@ sr: "0.312.1"
 title: Römer Statut des Internationalen Strafgerichtshofs vom 17. Juli 1998
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/586"
 language: de
-version: 2024-06-13
+version: 2026-05-22
 adopted: 1998-07-17
 in_force: 2002-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/586/20240613/de/xml/fedlex-data-admin-ch-eli-cc-2002-586-20240613-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/586/20240613/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/586/20260522/de/xml/fedlex-data-admin-ch-eli-cc-2002-586-20260522-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/586/20260522/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -20,10 +20,10 @@ AS **2002** 3743; BBl **2001** 391[^t-1][^t-2]
 
 Abgeschlossen in Rom am 17. Juli 1998 Von der Bundesversammlung genehmigt am 22. Juni 2001[^t-3] Ratifikationsurkunde durch die Schweiz hinterlegt am 12. Oktober 2001 In Kraft getreten für die Schweiz am 1. Juli 2002
 
-(Stand am 13. Juni 2024)
+(Stand am 22. Mai 2026)
 
 [^t-1]: Der Titel der abgestimmten deutschen Übersetzung dieses Vertrags lautet: «Römisches Statut des Internationalen Strafgerichtshofs». Es wurde Einvernehmen unter den Beteiligten erzielt, dass jede Seite in innerstaatlichen Dokumenten die Bezeichnung «Römer Statut des Internationalen Strafgerichtshofs» verwenden kann.
-[^t-2]: Die Änd. vom 10. Juni 2010 ([SR [0.312.12](http://www.admin.ch/ch/d/sr/c0_784_405_1.html)](https://fedlex.data.admin.ch/eli/cc/2015/645); [[AS 2015](http://www.admin.ch/ch/d/as/2002/3130.pdf)3833](https://fedlex.data.admin.ch/eli/oc/2015/645)) und 11. Juni 2010 ([SR [0.312.11](http://www.admin.ch/ch/d/sr/c0_784_405_1.html)](https://fedlex.data.admin.ch/eli/cc/2015/644); [[AS 2015 3825](http://www.admin.ch/ch/d/as/2002/3130.pdf)](https://fedlex.data.admin.ch/eli/oc/2015/644)) sind im vorliegenden Text eingebaut, gelten aber nur im Verhältnis zu jenen Staaten, die ihnen beigetreten sind. Siehe die entsprechenden Geltungsbereiche.
+[^t-2]: Die Änd. vom 10. Juni 2010 ([SR [0.312.12](http://www.admin.ch/ch/d/sr/c0_784_405_1.html)](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1328); [[AS 2015](http://www.admin.ch/ch/d/as/2002/3130.pdf)3833](https://fedlex.data.admin.ch/eli/oc/2015/645)) und 11. Juni 2010 ([SR [0.312.11](http://www.admin.ch/ch/d/sr/c0_784_405_1.html)](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1327); [[AS 2015 3825](http://www.admin.ch/ch/d/as/2002/3130.pdf)](https://fedlex.data.admin.ch/eli/oc/2015/644)) sind im vorliegenden Text eingebaut, gelten aber nur im Verhältnis zu jenen Staaten, die ihnen beigetreten sind. Siehe die entsprechenden Geltungsbereiche.
 [^t-3]: Art. 1 Abs. 1 des BB vom 22. Juni 2001 ([AS 2002 3741](https://fedlex.data.admin.ch/eli/oc/2002/585))
 
 *Präambel*
@@ -54,7 +54,7 @@ entschlossen, die Achtung und die Durchsetzung der internationalen Rechtspflege 
 
 sind wie folgt übereingekommen:
 
-[^ingress-1]: [SR 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
+[^ingress-1]: [SR 0.120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/41)
 
 ## Teil 1: Errichtung des Gerichtshofs
 
@@ -254,7 +254,7 @@ Im Sinne dieses Statuts bedeutet «Verbrechen gegen die Menschlichkeit» jede de
 
 <sup>3.</sup> Absatz 2 Buchstaben c und e berührt nicht die Verantwortung einer Regierung, die öffentliche Ordnung im Staat aufrechtzuerhalten oder wiederherzustellen oder die Einheit und territoriale Unversehrtheit des Staates mit allen rechtmässigen Mitteln zu verteidigen.
 
-[^8-1]: [SR 0.518.12](https://fedlex.data.admin.ch/eli/cc/1951/181_184_180); [SR 0.518.23](https://fedlex.data.admin.ch/eli/cc/1951/207_209_205); [SR 0.518.42](https://fedlex.data.admin.ch/eli/cc/1951/228_230_226); [SR 0.518.51](https://fedlex.data.admin.ch/eli/cc/1951/300_302_297)
+[^8-1]: [SR 0.518.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1960); [SR 0.518.23](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1964); [SR 0.518.42](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1966); [SR 0.518.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1967)
 [^8-2]: D, A: Eigentum
 [^8-3]: A: Verschleppung oder Versetzung
 [^8-4]: D, A: Eigentums
@@ -289,7 +289,7 @@ Im Sinne des Absatzes 1 bedeutet «Angriffshandlung» die gegen die Souveränit�
 - g) das Entsenden bewaffneter Banden, Gruppen, irregulärer Kräfte oder Söldner durch einen Staat oder in seinem Namen, die mit Waffengewalt gegen einen anderen Staat Handlungen von solcher Schwere ausführen, dass sie den oben aufgeführten Handlungen gleichkommen, oder seine wesentliche Beteiligung daran.
 
 [^8bis-1]: Eingefügt durch Anhang I Ziff. 2 der Änderungen betreffend das Verbrechen der Aggression vom 11. Juni 2010, von der BVers genehmigt am 20. März 2015 und in Kraft getreten für die Schweiz am 10. Sept. 2016 ([AS 2015 3825](https://fedlex.data.admin.ch/eli/oc/2015/644); [BBl 2014 2045](https://fedlex.data.admin.ch/eli/fga/2014/401)).
-[^8bis-2]: [SR 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
+[^8bis-2]: [SR 0.120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/41)
 
 #### Art. 9
 
@@ -2230,155 +2230,156 @@ Die Urschrift dieses Statuts, dessen arabischer, chinesischer, englischer, franz
 
 *Zu Urkund dessen* haben die von ihren Regierungen hierzu gehörig befugten Unterzeichneten dieses Statut unterschrieben. Geschehen zu Rom am 17. Juli 1998. (Es folgen die Unterschriften)
 
-Geltungsbereich am 12. Mai 2022[^t-4]
+Geltungsbereich am 22. Mai 2026[^t-4]
 
 <table>
-<tr><th colspan="2">Vertragsstaaten</th><th>Ratifikation Beitritt (B) Nachfolgeerklärung (N)</th><th></th><th>Inkrafttreten</th><th></th></tr>
-<tr><td colspan="2">Afghanistan</td><td>10. Februar</td><td>2003 B</td><td>1. Mai</td><td>2003</td></tr>
-<tr><td colspan="2">Albanien<sup>\*</sup></td><td>31. Januar</td><td>2003</td><td>1. Mai</td><td>2003</td></tr>
-<tr><td colspan="2">Andorra<sup>\*</sup></td><td>30. April</td><td>2001</td><td>1. Juli</td><td>2002</td></tr>
-<tr><td colspan="2">Antigua und Barbuda</td><td>18. Juni</td><td>2001</td><td>1. Juli</td><td>2002</td></tr>
-<tr><td colspan="2">Argentinien<sup>\*</sup></td><td>8. Februar</td><td>2001</td><td>1. Juli</td><td>2002</td></tr>
-<tr><td colspan="2">Australien<sup>\*</sup></td><td>1. Juli</td><td>2002</td><td>1. September</td><td>2002</td></tr>
-<tr><td colspan="2">Bangladesch</td><td>23. März</td><td>2010</td><td>1. Juni</td><td>2010</td></tr>
-<tr><td colspan="2">Barbados</td><td>10. Dezember</td><td>2002</td><td>1. März</td><td>2003</td></tr>
-<tr><td colspan="2">Belgien<sup>\*</sup></td><td>28. Juni</td><td>2000</td><td>1. Juli</td><td>2002</td></tr>
-<tr><td colspan="2">Belize<sup>\*</sup></td><td>5. April</td><td>2000</td><td>1. Juli</td><td>2002</td></tr>
-<tr><td colspan="2">Benin</td><td>22. Januar</td><td>2002</td><td>1. Juli</td><td>2002</td></tr>
-<tr><td colspan="2">Bolivien</td><td>27. Juni</td><td>2002</td><td>1. September</td><td>2002</td></tr>
-<tr><td colspan="2">Bosnien und Herzegowina</td><td>11. April</td><td>2002</td><td>1. Juli</td><td>2002</td></tr>
-<tr><td colspan="2">Botsuana</td><td>8. September</td><td>2000</td><td>1. Juli</td><td>2002</td></tr>
-<tr><td colspan="2">Brasilien<sup>\*</sup></td><td>20. Juni</td><td>2002</td><td>1. September</td><td>2002</td></tr>
-<tr><td colspan="2">Bulgarien</td><td>11. April</td><td>2002</td><td>1. Juli</td><td>2002</td></tr>
-<tr><td colspan="2">Burkina Faso</td><td>16. April</td><td>2004</td><td>1. Juli</td><td>2004</td></tr>
-<tr><td colspan="2">Chile\*</td><td>29. Juni</td><td>2009</td><td>1. September</td><td>2009</td></tr>
-<tr><td colspan="2">Cook-Inseln</td><td>18. Juli</td><td>2008 B</td><td>1. Oktober</td><td>2008</td></tr>
-<tr><td colspan="2">Costa Rica</td><td>7. Juni</td><td>2001</td><td>1. Juli</td><td>2002</td></tr>
-<tr><td colspan="2">Côte d’Ivoire<sup>\*</sup></td><td>15. Februar</td><td>2013</td><td>1. Mai</td><td>2013</td></tr>
-<tr><td colspan="2">Dänemark<sup>\*</sup></td><td>21. Juni</td><td>2001</td><td>1. Juli</td><td>2002</td></tr>
-<tr><td colspan="2">Färöer</td><td>20. November</td><td>2006</td><td>20. November</td><td>2006</td></tr>
-<tr><td colspan="2">Grönland</td><td>17. November</td><td>2004</td><td>1. Oktober</td><td>2004</td></tr>
-<tr><td colspan="2">Deutschland<sup>\* \*\*</sup></td><td>11. Dezember</td><td>2000</td><td>1. Juli</td><td>2002</td></tr>
-<tr><td colspan="2">Dominica</td><td>12. Februar</td><td>2001 B</td><td>1. Juli</td><td>2002</td></tr>
-<tr><td colspan="2">Dominikanische Republik</td><td>12. Mai</td><td>2005</td><td>1. August</td><td>2005</td></tr>
-<tr><td colspan="2">Dschibuti</td><td>5. November</td><td>2002</td><td>1. Februar</td><td>2003</td></tr>
-<tr><td colspan="2">Ecuador</td><td>5. Februar</td><td>2002</td><td>1. Juli</td><td>2002</td></tr>
-<tr><td colspan="2">El Salvador\*</td><td>3. März</td><td>2016 B</td><td>1. Juni</td><td>2016</td></tr>
-<tr><td colspan="2">Estland<sup>\*</sup></td><td>30. Januar</td><td>2002</td><td>1. Juli</td><td>2002</td></tr>
-<tr><td colspan="2">Fidschi</td><td>29. November</td><td>1999</td><td>1. Juli</td><td>2002</td></tr>
-<tr><td colspan="2">Finnland<sup>\* \*\*</sup></td><td>29. Dezember</td><td>2000</td><td>1. Juli</td><td>2002</td></tr>
-<tr><td colspan="2">Frankreich<sup>\*</sup></td><td>9. Juni</td><td>2000</td><td>1. Juli</td><td>2002</td></tr>
-<tr><td colspan="2">Gabun</td><td>20. September</td><td>2000</td><td>1. Juli</td><td>2002</td></tr>
-<tr><td colspan="2">Gambia<sup>\*</sup></td><td>28. Juni</td><td>2002</td><td>1. September</td><td>2002</td></tr>
-<tr><td colspan="2">Georgien<sup>\*</sup></td><td>5. September</td><td>2003</td><td>1. Dezember</td><td>2003</td></tr>
-<tr><td colspan="2">Ghana</td><td>20. Dezember</td><td>1999</td><td>1. Juli</td><td>2002</td></tr>
-<tr><td>Grenada</td><td colspan="2">19. Mai</td><td>2011 B</td><td>1. August</td><td>2011</td></tr>
-<tr><td colspan="2">Griechenland<sup>\*</sup></td><td>15. Mai</td><td>2002</td><td>1. August</td><td>2002</td></tr>
-<tr><td colspan="2">Guatemala\*</td><td>2. April</td><td>2012 B</td><td>1. Juli</td><td>2012</td></tr>
-<tr><td colspan="2">Guinea</td><td>14. Juli</td><td>2003</td><td>1. Oktober</td><td>2003</td></tr>
-<tr><td colspan="2">Guyana</td><td>24. September</td><td>2004</td><td>1. Dezember</td><td>2004</td></tr>
-<tr><td colspan="2">Honduras<sup>\*</sup></td><td>1. Juli</td><td>2002</td><td>1. September</td><td>2002</td></tr>
-<tr><td colspan="2">Irland</td><td>11. April</td><td>2002</td><td>1. Juli</td><td>2002</td></tr>
-<tr><td colspan="2">Island<sup>\*</sup></td><td>25. Mai</td><td>2000</td><td>1. Juli</td><td>2002</td></tr>
-<tr><td colspan="2">Italien<sup>\*</sup></td><td>26. Juli</td><td>1999</td><td>1. Juli</td><td>2002</td></tr>
-<tr><td colspan="2">Japan</td><td>17. Juli</td><td>2007 B</td><td>1. Oktober</td><td>2007</td></tr>
-<tr><td colspan="2">Jordanien<sup>\*</sup></td><td>11. April</td><td>2002</td><td>1. Juli</td><td>2002</td></tr>
-<tr><td colspan="2">Kambodscha</td><td>11. April</td><td>2002</td><td>1. Juli</td><td>2002</td></tr>
-<tr><td colspan="2">Kanada</td><td>7. Juli</td><td>2000</td><td>1. Juli</td><td>2002</td></tr>
-<tr><td colspan="2">Kap Verde\*</td><td>10. Oktober</td><td>2011</td><td>1. Januar</td><td>2012</td></tr>
-<tr><td colspan="2">Kenia</td><td>15. März</td><td>2005</td><td>1. Juni</td><td>2005</td></tr>
-<tr><td colspan="2">Kiribati</td><td>26. November</td><td>2019 B</td><td>1. Februar</td><td>2020</td></tr>
-<tr><td colspan="2">Kolumbien<sup>\*</sup></td><td>5. August</td><td>2002</td><td>1. November</td><td>2002</td></tr>
-<tr><td colspan="2">Komoren</td><td>18. August</td><td>2006</td><td>1. November</td><td>2006</td></tr>
-<tr><td colspan="2">Kongo (Brazzaville)</td><td>3. Mai</td><td>2004</td><td>1. August</td><td>2004</td></tr>
-<tr><td colspan="2">Kongo (Kinshasa)<sup>\*</sup></td><td>11. April</td><td>2002</td><td>1. Juli</td><td>2002</td></tr>
-<tr><td colspan="2">Korea (Süd-)</td><td>13. November</td><td>2002</td><td>1. Februar</td><td>2003</td></tr>
-<tr><td colspan="2">Kroatien<sup>\*</sup></td><td>21. Mai</td><td>2001</td><td>1. Juli</td><td>2002</td></tr>
-<tr><td colspan="2">Lesotho<sup>\*</sup></td><td>6. September</td><td>2000</td><td>1. Juli</td><td>2002</td></tr>
-<tr><td colspan="2">Lettland<sup>\*</sup></td><td>28. Juni</td><td>2002</td><td>1. September</td><td>2002</td></tr>
-<tr><td colspan="2">Liberia</td><td>22. September</td><td>2004</td><td>1. Dezember</td><td>2004</td></tr>
-<tr><td colspan="2">Liechtenstein<sup>\*</sup></td><td>2. Oktober</td><td>2001</td><td>1. Juli</td><td>2002</td></tr>
-<tr><td colspan="2">Litauen<sup>\*</sup></td><td>12. Mai</td><td>2003</td><td>1. August</td><td>2003</td></tr>
-<tr><td colspan="2">Luxemburg<sup>\*</sup></td><td>8. September</td><td>2000</td><td>1. Juli</td><td>2002</td></tr>
-<tr><td colspan="2">Madagaskar</td><td>14. März</td><td>2008</td><td>1. Juni</td><td>2008</td></tr>
-<tr><td colspan="2">Malawi</td><td>19. September</td><td>2002</td><td>1. Dezember</td><td>2002</td></tr>
-<tr><td>Malediven</td><td colspan="2">21. September</td><td>2011 B</td><td>1. Dezember</td><td>2011</td></tr>
-<tr><td colspan="2">Mali<sup>\*</sup></td><td>16. August</td><td>2000</td><td>1. Juli</td><td>2002</td></tr>
-<tr><td colspan="2">Malta<sup>\*</sup></td><td>29. November</td><td>2002</td><td>1. Februar</td><td>2003</td></tr>
-<tr><td colspan="2">Marshallinseln<sup>\*</sup></td><td>7. Dezember</td><td>2000</td><td>1. Juli</td><td>2002</td></tr>
-<tr><td colspan="2">Mauritius</td><td>5. März</td><td>2002</td><td>1. Juli</td><td>2002</td></tr>
-<tr><td colspan="2">Mexiko\*</td><td>28. Oktober</td><td>2005</td><td>1. Januar</td><td>2006</td></tr>
-<tr><td>Moldau\*</td><td colspan="2">12. Oktober</td><td>2010</td><td>1. Januar</td><td>2011</td></tr>
-<tr><td colspan="2">Mongolei</td><td>11. April</td><td>2002</td><td>1. Juli</td><td>2002</td></tr>
-<tr><td colspan="2">Montenegro</td><td>23. Oktober</td><td>2006 N</td><td>3. Juni</td><td>2006</td></tr>
-<tr><td colspan="2">Namibia<sup>\*</sup></td><td>25. Juni</td><td>2002</td><td>1. September</td><td>2002</td></tr>
-<tr><td colspan="2">Nauru</td><td>12. November</td><td>2001</td><td>1. Juli</td><td>2002</td></tr>
-<tr><td colspan="2">Neuseeland<sup>\*</sup> <sup>a</sup></td><td>7. September</td><td>2000</td><td>1. Juli</td><td>2002</td></tr>
-<tr><td colspan="2">Niederlande\* \*\* <sup>b</sup></td><td>17. Juli</td><td>2001</td><td>1. Juli</td><td>2002</td></tr>
-<tr><td colspan="2">Aruba</td><td>17. Juli</td><td>2001</td><td>1. Juli</td><td>2002</td></tr>
-<tr><td>Curaçao</td><td colspan="2">17. Juli</td><td>2001</td><td>1. Juli</td><td>2002</td></tr>
-<tr><td>Karibische Gebiete (Bonaire, Sint Eustatius und Saba)</td><td colspan="2">17. Juli</td><td>2001</td><td>1. Juli</td><td>2002</td></tr>
-<tr><td>Sint Maarten</td><td colspan="2">17. Juli</td><td>2001</td><td>1. Juli</td><td>2002</td></tr>
-<tr><td colspan="2">Niger</td><td>11. April</td><td>2002</td><td>1. Juli</td><td>2002</td></tr>
-<tr><td colspan="2">Nigeria</td><td>27. September</td><td>2001</td><td>1. Juli</td><td>2002</td></tr>
-<tr><td colspan="2">Nordmazedonien<sup>\*</sup></td><td>6. März</td><td>2002</td><td>1. Juli</td><td>2002</td></tr>
-<tr><td colspan="2">Norwegen<sup>\*</sup></td><td>16. Februar</td><td>2000</td><td>1. Juli</td><td>2002</td></tr>
-<tr><td colspan="2">Österreich<sup>\*</sup></td><td>28. Dezember</td><td>2000</td><td>1. Juli</td><td>2002</td></tr>
-<tr><td colspan="2">Palästina</td><td>2. Januar</td><td>2015 B</td><td>1. April</td><td>2015</td></tr>
-<tr><td colspan="2">Panama<sup>\*</sup></td><td>21. März</td><td>2002</td><td>1. Juli</td><td>2002</td></tr>
-<tr><td colspan="2">Paraguay</td><td>14. Mai</td><td>2001</td><td>1. Juli</td><td>2002</td></tr>
-<tr><td colspan="2">Peru<sup>\*</sup></td><td>10. November</td><td>2001</td><td>1. Juli</td><td>2002</td></tr>
-<tr><td colspan="2">Polen<sup>\*</sup></td><td>12. November</td><td>2001</td><td>1. Juli</td><td>2002</td></tr>
-<tr><td colspan="2">Portugal<sup>\*</sup></td><td>5. Februar</td><td>2002</td><td>1. Juli</td><td>2002</td></tr>
-<tr><td colspan="2">Rumänien<sup>\*</sup></td><td>11. April</td><td>2002</td><td>1. Juli</td><td>2002</td></tr>
-<tr><td colspan="2">Sambia</td><td>13. November</td><td>2002</td><td>1. Februar</td><td>2003</td></tr>
-<tr><td colspan="2">Samoa<sup>\*</sup></td><td>16. September</td><td>2002</td><td>1. Dezember</td><td>2002</td></tr>
-<tr><td colspan="2">San Marino</td><td>13. Mai</td><td>1999</td><td>1. Juli</td><td>2002</td></tr>
-<tr><td colspan="2">Schweden<sup>\* \*\*</sup></td><td>28. Juni</td><td>2001</td><td>1. Juli</td><td>2002</td></tr>
-<tr><td colspan="2">Schweiz<sup>\*</sup></td><td>12. Oktober</td><td>2001</td><td>1. Juli</td><td>2002</td></tr>
-<tr><td colspan="2">Senegal</td><td>2. Februar</td><td>1999</td><td>1. Juli</td><td>2002</td></tr>
-<tr><td colspan="2">Serbien\*</td><td>6. September</td><td>2001</td><td>1. Juli</td><td>2002</td></tr>
-<tr><td>Seychellen</td><td colspan="2">10. August</td><td>2010</td><td>1. November</td><td>2010</td></tr>
-<tr><td colspan="2">Sierra Leone<sup>\*</sup></td><td>15. September</td><td>2000</td><td>1. Juli</td><td>2002</td></tr>
-<tr><td colspan="2">Slowakei<sup>\*</sup></td><td>11. April</td><td>2002</td><td>1. Juli</td><td>2002</td></tr>
-<tr><td colspan="2">Slowenien\*</td><td>31. Dezember</td><td>2001</td><td>1. Juli</td><td>2002</td></tr>
-<tr><td colspan="2">Spanien<sup>\*</sup></td><td>24. Oktober</td><td>2000</td><td>1. Juli</td><td>2002</td></tr>
-<tr><td colspan="2">St. Kitts und Nevis</td><td>22. August</td><td>2006 B</td><td>1. November</td><td>2006</td></tr>
-<tr><td>St. Lucia</td><td colspan="2">18. August</td><td>2010</td><td>1. November</td><td>2010</td></tr>
-<tr><td colspan="2">St. Vincent und die Grenadinen</td><td>3. Dezember</td><td>2002 B</td><td>1. März</td><td>2003</td></tr>
-<tr><td colspan="2">Südafrika</td><td>27. November</td><td>2000</td><td>1. Juli</td><td>2002</td></tr>
-<tr><td colspan="2">Suriname\*</td><td>15. Juli</td><td>2008 B</td><td>1. Oktober</td><td>2008</td></tr>
-<tr><td colspan="2">Tadschikistan</td><td>5. Mai</td><td>2000</td><td>1. Juli</td><td>2002</td></tr>
-<tr><td colspan="2">Tansania</td><td>20. August</td><td>2002</td><td>1. November</td><td>2002</td></tr>
-<tr><td colspan="2">Timor-Leste<sup>\*</sup></td><td>6. September</td><td>2002 B</td><td>1. Dezember</td><td>2002</td></tr>
-<tr><td colspan="2">Trinidad und Tobago</td><td>6. April</td><td>1999</td><td>1. Juli</td><td>2002</td></tr>
-<tr><td>Tschad\*</td><td colspan="2">1. November</td><td>2006</td><td>1. Januar</td><td>2007</td></tr>
-<tr><td colspan="2">Tschechische Republik\*</td><td>21. Juli</td><td>2009</td><td>1. Oktober</td><td>2009</td></tr>
-<tr><td>Tunesien</td><td colspan="2">24. Juni</td><td>2011 B</td><td>1. September</td><td>2011</td></tr>
-<tr><td colspan="2">Uganda</td><td>14. Juni</td><td>2002</td><td>1. September</td><td>2002</td></tr>
-<tr><td colspan="2">Ungarn<sup>\*</sup></td><td>30. November</td><td>2001</td><td>1. Juli</td><td>2002</td></tr>
-<tr><td colspan="2">Uruguay<sup>\*</sup></td><td>28. Juni</td><td>2002</td><td>1. September</td><td>2002</td></tr>
-<tr><td>Vanuatu</td><td colspan="2">2. Dezember</td><td>2011 B</td><td>1. Februar</td><td>2012</td></tr>
-<tr><td colspan="2">Venezuela</td><td>7. Juni</td><td>2000</td><td>1. Juli</td><td>2002</td></tr>
-<tr><td colspan="2">Vereinigtes Königreich<sup>\*</sup></td><td>4. Oktober</td><td>2001</td><td>1. Juli</td><td>2002</td></tr>
-<tr><td colspan="2">Akrotiri und Dhekelia</td><td>11. März</td><td>2010</td><td>11. März</td><td>2010</td></tr>
-<tr><td colspan="2">Anguilla</td><td>11. März</td><td>2010</td><td>11. März</td><td>2010</td></tr>
-<tr><td colspan="2">Bermudas</td><td>11. März</td><td>2010</td><td>11. März</td><td>2010</td></tr>
-<tr><td colspan="2">Britische Jungferninseln</td><td>11. März</td><td>2010</td><td>11. März</td><td>2010</td></tr>
-<tr><td colspan="2">Falklandinseln</td><td>11. März</td><td>2010</td><td>11. März</td><td>2010</td></tr>
-<tr><td colspan="2">Gibraltar</td><td>20. April</td><td>2015</td><td>20. April</td><td>2015</td></tr>
-<tr><td colspan="2">Insel Man</td><td>28. November</td><td>2012</td><td>1. Februar</td><td>2013</td></tr>
-<tr><td colspan="2">Kaimaninseln</td><td>11. März</td><td>2010</td><td>11. März</td><td>2010</td></tr>
-<tr><td colspan="2">Montserrat</td><td>11. März</td><td>2010</td><td>11. März</td><td>2010</td></tr>
-<tr><td colspan="2">Pitcairn-Inseln (Ducie, Oeno, Henderson und Pitcairn)</td><td>11. März</td><td>2010</td><td>11. März</td><td>2010</td></tr>
-<tr><td colspan="2">St. Helena und Nebengebiete (Ascension und Tristan da Cunha)</td><td>11. März</td><td>2010</td><td>11. März</td><td>2010</td></tr>
-<tr><td colspan="2">Turks- und Caicosinseln</td><td>11. März</td><td>2010</td><td>11. März</td><td>2010</td></tr>
-<tr><td colspan="2">Zentralafrikanische Republik</td><td>3. Oktober</td><td>2001</td><td>1. Juli</td><td>2002</td></tr>
-<tr><td colspan="2">Zypern<sup>\*</sup></td><td>7. März</td><td>2002</td><td>1. Juli</td><td>2002</td></tr>
-<tr><td colspan="6">\* Vorbehalte und Erklärungen. \*\* Einwendungen. Die Vorbehalte, Erklärungen und Einwendungen werden in der AS nicht veröffentlicht, mit Ausnahme der Vorbehalte und Erklärungen der Schweiz. Die französischen und englischen Texte können auf der Internetseite der Vereinten Nationen: [treaties.un.org/](http://treaties.un.org/) eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden. <sup>a</sup> Das Statut gilt nicht für Tokelau. <sup>b</sup> Für das Königreich in Europa.</td></tr>
+<tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B) Nachfolgeerklärung (N)</th><th></th><th>Inkrafttreten</th><th></th></tr>
+<tr><td>Afghanistan</td><td>10. Februar</td><td>2003 B</td><td>1. Mai</td><td>2003</td></tr>
+<tr><td>Albanien<sup>\*</sup></td><td>31. Januar</td><td>2003</td><td>1. Mai</td><td>2003</td></tr>
+<tr><td>Andorra<sup>\*</sup></td><td>30. April</td><td>2001</td><td>1. Juli</td><td>2002</td></tr>
+<tr><td>Antigua und Barbuda</td><td>18. Juni</td><td>2001</td><td>1. Juli</td><td>2002</td></tr>
+<tr><td>Argentinien<sup>\*</sup></td><td>8. Februar</td><td>2001</td><td>1. Juli</td><td>2002</td></tr>
+<tr><td>Armenien</td><td>14. November</td><td>2023</td><td>1. Februar</td><td>2024</td></tr>
+<tr><td>Australien<sup>\*</sup></td><td>1. Juli</td><td>2002</td><td>1. September</td><td>2002</td></tr>
+<tr><td>Bangladesch</td><td>23. März</td><td>2010</td><td>1. Juni</td><td>2010</td></tr>
+<tr><td>Barbados</td><td>10. Dezember</td><td>2002</td><td>1. März</td><td>2003</td></tr>
+<tr><td>Belgien<sup>\*</sup></td><td>28. Juni</td><td>2000</td><td>1. Juli</td><td>2002</td></tr>
+<tr><td>Belize<sup>\*</sup></td><td>5. April</td><td>2000</td><td>1. Juli</td><td>2002</td></tr>
+<tr><td>Benin</td><td>22. Januar</td><td>2002</td><td>1. Juli</td><td>2002</td></tr>
+<tr><td>Bolivien</td><td>27. Juni</td><td>2002</td><td>1. September</td><td>2002</td></tr>
+<tr><td>Bosnien und Herzegowina</td><td>11. April</td><td>2002</td><td>1. Juli</td><td>2002</td></tr>
+<tr><td>Botsuana</td><td>8. September</td><td>2000</td><td>1. Juli</td><td>2002</td></tr>
+<tr><td>Brasilien<sup>\*</sup></td><td>20. Juni</td><td>2002</td><td>1. September</td><td>2002</td></tr>
+<tr><td>Bulgarien</td><td>11. April</td><td>2002</td><td>1. Juli</td><td>2002</td></tr>
+<tr><td>Burkina Faso</td><td>16. April</td><td>2004</td><td>1. Juli</td><td>2004</td></tr>
+<tr><td>Chile\*</td><td>29. Juni</td><td>2009</td><td>1. September</td><td>2009</td></tr>
+<tr><td>Cook-Inseln</td><td>18. Juli</td><td>2008 B</td><td>1. Oktober</td><td>2008</td></tr>
+<tr><td>Costa Rica</td><td>7. Juni</td><td>2001</td><td>1. Juli</td><td>2002</td></tr>
+<tr><td>Côte d’Ivoire<sup>\*</sup></td><td>15. Februar</td><td>2013</td><td>1. Mai</td><td>2013</td></tr>
+<tr><td>Dänemark<sup>\*</sup></td><td>21. Juni</td><td>2001</td><td>1. Juli</td><td>2002</td></tr>
+<tr><td>Färöer</td><td>20. November</td><td>2006</td><td>20. November</td><td>2006</td></tr>
+<tr><td>Grönland</td><td>17. November</td><td>2004</td><td>1. Oktober</td><td>2004</td></tr>
+<tr><td>Deutschland<sup>\* \*\*</sup></td><td>11. Dezember</td><td>2000</td><td>1. Juli</td><td>2002</td></tr>
+<tr><td>Dominica</td><td>12. Februar</td><td>2001 B</td><td>1. Juli</td><td>2002</td></tr>
+<tr><td>Dominikanische Republik</td><td>12. Mai</td><td>2005</td><td>1. August</td><td>2005</td></tr>
+<tr><td>Dschibuti</td><td>5. November</td><td>2002</td><td>1. Februar</td><td>2003</td></tr>
+<tr><td>Ecuador</td><td>5. Februar</td><td>2002</td><td>1. Juli</td><td>2002</td></tr>
+<tr><td>El Salvador\*</td><td>3. März</td><td>2016 B</td><td>1. Juni</td><td>2016</td></tr>
+<tr><td>Estland<sup>\*</sup></td><td>30. Januar</td><td>2002</td><td>1. Juli</td><td>2002</td></tr>
+<tr><td>Fidschi</td><td>29. November</td><td>1999</td><td>1. Juli</td><td>2002</td></tr>
+<tr><td>Finnland<sup>\* \*\*</sup></td><td>29. Dezember</td><td>2000</td><td>1. Juli</td><td>2002</td></tr>
+<tr><td>Frankreich<sup>\*</sup></td><td>9. Juni</td><td>2000</td><td>1. Juli</td><td>2002</td></tr>
+<tr><td>Gabun</td><td>20. September</td><td>2000</td><td>1. Juli</td><td>2002</td></tr>
+<tr><td>Gambia<sup>\*</sup></td><td>28. Juni</td><td>2002</td><td>1. September</td><td>2002</td></tr>
+<tr><td>Georgien<sup>\*</sup></td><td>5. September</td><td>2003</td><td>1. Dezember</td><td>2003</td></tr>
+<tr><td>Ghana</td><td>20. Dezember</td><td>1999</td><td>1. Juli</td><td>2002</td></tr>
+<tr><td>Grenada</td><td>19. Mai</td><td>2011 B</td><td>1. August</td><td>2011</td></tr>
+<tr><td>Griechenland<sup>\*</sup></td><td>15. Mai</td><td>2002</td><td>1. August</td><td>2002</td></tr>
+<tr><td>Guatemala\*</td><td>2. April</td><td>2012 B</td><td>1. Juli</td><td>2012</td></tr>
+<tr><td>Guinea</td><td>14. Juli</td><td>2003</td><td>1. Oktober</td><td>2003</td></tr>
+<tr><td>Guyana</td><td>24. September</td><td>2004</td><td>1. Dezember</td><td>2004</td></tr>
+<tr><td>Honduras<sup>\*</sup></td><td>1. Juli</td><td>2002</td><td>1. September</td><td>2002</td></tr>
+<tr><td>Irland</td><td>11. April</td><td>2002</td><td>1. Juli</td><td>2002</td></tr>
+<tr><td>Island<sup>\*</sup></td><td>25. Mai</td><td>2000</td><td>1. Juli</td><td>2002</td></tr>
+<tr><td>Italien<sup>\*</sup></td><td>26. Juli</td><td>1999</td><td>1. Juli</td><td>2002</td></tr>
+<tr><td>Japan</td><td>17. Juli</td><td>2007 B</td><td>1. Oktober</td><td>2007</td></tr>
+<tr><td>Jordanien<sup>\*</sup></td><td>11. April</td><td>2002</td><td>1. Juli</td><td>2002</td></tr>
+<tr><td>Kambodscha</td><td>11. April</td><td>2002</td><td>1. Juli</td><td>2002</td></tr>
+<tr><td>Kanada</td><td>7. Juli</td><td>2000</td><td>1. Juli</td><td>2002</td></tr>
+<tr><td>Kap Verde\*</td><td>10. Oktober</td><td>2011</td><td>1. Januar</td><td>2012</td></tr>
+<tr><td>Kenia</td><td>15. März</td><td>2005</td><td>1. Juni</td><td>2005</td></tr>
+<tr><td>Kiribati</td><td>26. November</td><td>2019 B</td><td>1. Februar</td><td>2020</td></tr>
+<tr><td>Kolumbien<sup>\*</sup></td><td>5. August</td><td>2002</td><td>1. November</td><td>2002</td></tr>
+<tr><td>Komoren</td><td>18. August</td><td>2006</td><td>1. November</td><td>2006</td></tr>
+<tr><td>Kongo (Brazzaville)</td><td>3. Mai</td><td>2004</td><td>1. August</td><td>2004</td></tr>
+<tr><td>Kongo (Kinshasa)<sup>\*</sup></td><td>11. April</td><td>2002</td><td>1. Juli</td><td>2002</td></tr>
+<tr><td>Korea (Süd-)</td><td>13. November</td><td>2002</td><td>1. Februar</td><td>2003</td></tr>
+<tr><td>Kroatien<sup>\*</sup></td><td>21. Mai</td><td>2001</td><td>1. Juli</td><td>2002</td></tr>
+<tr><td>Lesotho<sup>\*</sup></td><td>6. September</td><td>2000</td><td>1. Juli</td><td>2002</td></tr>
+<tr><td>Lettland<sup>\*</sup></td><td>28. Juni</td><td>2002</td><td>1. September</td><td>2002</td></tr>
+<tr><td>Liberia</td><td>22. September</td><td>2004</td><td>1. Dezember</td><td>2004</td></tr>
+<tr><td>Liechtenstein<sup>\*</sup></td><td>2. Oktober</td><td>2001</td><td>1. Juli</td><td>2002</td></tr>
+<tr><td>Litauen<sup>\*</sup></td><td>12. Mai</td><td>2003</td><td>1. August</td><td>2003</td></tr>
+<tr><td>Luxemburg<sup>\*</sup></td><td>8. September</td><td>2000</td><td>1. Juli</td><td>2002</td></tr>
+<tr><td>Madagaskar</td><td>14. März</td><td>2008</td><td>1. Juni</td><td>2008</td></tr>
+<tr><td>Malawi</td><td>19. September</td><td>2002</td><td>1. Dezember</td><td>2002</td></tr>
+<tr><td>Malediven</td><td>21. September</td><td>2011 B</td><td>1. Dezember</td><td>2011</td></tr>
+<tr><td>Mali<sup>\*</sup></td><td>16. August</td><td>2000</td><td>1. Juli</td><td>2002</td></tr>
+<tr><td>Malta<sup>\*</sup></td><td>29. November</td><td>2002</td><td>1. Februar</td><td>2003</td></tr>
+<tr><td>Marshallinseln<sup>\*</sup></td><td>7. Dezember</td><td>2000</td><td>1. Juli</td><td>2002</td></tr>
+<tr><td>Mauritius</td><td>5. März</td><td>2002</td><td>1. Juli</td><td>2002</td></tr>
+<tr><td>Mexiko\*</td><td>28. Oktober</td><td>2005</td><td>1. Januar</td><td>2006</td></tr>
+<tr><td>Moldau\*</td><td>12. Oktober</td><td>2010</td><td>1. Januar</td><td>2011</td></tr>
+<tr><td>Mongolei</td><td>11. April</td><td>2002</td><td>1. Juli</td><td>2002</td></tr>
+<tr><td>Montenegro</td><td>23. Oktober</td><td>2006 N</td><td>3. Juni</td><td>2006</td></tr>
+<tr><td>Namibia<sup>\*</sup></td><td>25. Juni</td><td>2002</td><td>1. September</td><td>2002</td></tr>
+<tr><td>Nauru</td><td>12. November</td><td>2001</td><td>1. Juli</td><td>2002</td></tr>
+<tr><td>Neuseeland<sup>\*</sup> <sup>a</sup></td><td>7. September</td><td>2000</td><td>1. Juli</td><td>2002</td></tr>
+<tr><td>Niederlande\* \*\* <sup>b</sup></td><td>17. Juli</td><td>2001</td><td>1. Juli</td><td>2002</td></tr>
+<tr><td>Aruba</td><td>17. Juli</td><td>2001</td><td>1. Juli</td><td>2002</td></tr>
+<tr><td>Curaçao</td><td>17. Juli</td><td>2001</td><td>1. Juli</td><td>2002</td></tr>
+<tr><td>Karibische Gebiete (Bonaire, Sint Eustatius und Saba)</td><td>17. Juli</td><td>2001</td><td>1. Juli</td><td>2002</td></tr>
+<tr><td>Sint Maarten</td><td>17. Juli</td><td>2001</td><td>1. Juli</td><td>2002</td></tr>
+<tr><td>Niger</td><td>11. April</td><td>2002</td><td>1. Juli</td><td>2002</td></tr>
+<tr><td>Nigeria</td><td>27. September</td><td>2001</td><td>1. Juli</td><td>2002</td></tr>
+<tr><td>Nordmazedonien<sup>\*</sup></td><td>6. März</td><td>2002</td><td>1. Juli</td><td>2002</td></tr>
+<tr><td>Norwegen<sup>\*</sup></td><td>16. Februar</td><td>2000</td><td>1. Juli</td><td>2002</td></tr>
+<tr><td>Österreich<sup>\*</sup></td><td>28. Dezember</td><td>2000</td><td>1. Juli</td><td>2002</td></tr>
+<tr><td>Palästina</td><td>2. Januar</td><td>2015 B</td><td>1. April</td><td>2015</td></tr>
+<tr><td>Panama<sup>\*</sup></td><td>21. März</td><td>2002</td><td>1. Juli</td><td>2002</td></tr>
+<tr><td>Paraguay</td><td>14. Mai</td><td>2001</td><td>1. Juli</td><td>2002</td></tr>
+<tr><td>Peru<sup>\*</sup></td><td>10. November</td><td>2001</td><td>1. Juli</td><td>2002</td></tr>
+<tr><td>Polen<sup>\*</sup></td><td>12. November</td><td>2001</td><td>1. Juli</td><td>2002</td></tr>
+<tr><td>Portugal<sup>\*</sup></td><td>5. Februar</td><td>2002</td><td>1. Juli</td><td>2002</td></tr>
+<tr><td>Rumänien<sup>\*</sup></td><td>11. April</td><td>2002</td><td>1. Juli</td><td>2002</td></tr>
+<tr><td>Sambia</td><td>13. November</td><td>2002</td><td>1. Februar</td><td>2003</td></tr>
+<tr><td>Samoa<sup>\*</sup></td><td>16. September</td><td>2002</td><td>1. Dezember</td><td>2002</td></tr>
+<tr><td>San Marino</td><td>13. Mai</td><td>1999</td><td>1. Juli</td><td>2002</td></tr>
+<tr><td>Schweden<sup>\* \*\*</sup></td><td>28. Juni</td><td>2001</td><td>1. Juli</td><td>2002</td></tr>
+<tr><td>Schweiz<sup>\*</sup></td><td>12. Oktober</td><td>2001</td><td>1. Juli</td><td>2002</td></tr>
+<tr><td>Senegal</td><td>2. Februar</td><td>1999</td><td>1. Juli</td><td>2002</td></tr>
+<tr><td>Serbien\*</td><td>6. September</td><td>2001</td><td>1. Juli</td><td>2002</td></tr>
+<tr><td>Seychellen</td><td>10. August</td><td>2010</td><td>1. November</td><td>2010</td></tr>
+<tr><td>Sierra Leone<sup>\*</sup></td><td>15. September</td><td>2000</td><td>1. Juli</td><td>2002</td></tr>
+<tr><td>Slowakei<sup>\*</sup></td><td>11. April</td><td>2002</td><td>1. Juli</td><td>2002</td></tr>
+<tr><td>Slowenien\*</td><td>31. Dezember</td><td>2001</td><td>1. Juli</td><td>2002</td></tr>
+<tr><td>Spanien<sup>\*</sup></td><td>24. Oktober</td><td>2000</td><td>1. Juli</td><td>2002</td></tr>
+<tr><td>St. Kitts und Nevis</td><td>22. August</td><td>2006 B</td><td>1. November</td><td>2006</td></tr>
+<tr><td>St. Lucia</td><td>18. August</td><td>2010</td><td>1. November</td><td>2010</td></tr>
+<tr><td>St. Vincent und die Grenadinen</td><td>3. Dezember</td><td>2002 B</td><td>1. März</td><td>2003</td></tr>
+<tr><td>Südafrika</td><td>27. November</td><td>2000</td><td>1. Juli</td><td>2002</td></tr>
+<tr><td>Suriname\*</td><td>15. Juli</td><td>2008 B</td><td>1. Oktober</td><td>2008</td></tr>
+<tr><td>Tadschikistan</td><td>5. Mai</td><td>2000</td><td>1. Juli</td><td>2002</td></tr>
+<tr><td>Tansania</td><td>20. August</td><td>2002</td><td>1. November</td><td>2002</td></tr>
+<tr><td>Timor-Leste<sup>\*</sup></td><td>6. September</td><td>2002 B</td><td>1. Dezember</td><td>2002</td></tr>
+<tr><td>Trinidad und Tobago</td><td>6. April</td><td>1999</td><td>1. Juli</td><td>2002</td></tr>
+<tr><td>Tschad\*</td><td>1. November</td><td>2006</td><td>1. Januar</td><td>2007</td></tr>
+<tr><td>Tschechische Republik\*</td><td>21. Juli</td><td>2009</td><td>1. Oktober</td><td>2009</td></tr>
+<tr><td>Tunesien</td><td>24. Juni</td><td>2011 B</td><td>1. September</td><td>2011</td></tr>
+<tr><td>Uganda</td><td>14. Juni</td><td>2002</td><td>1. September</td><td>2002</td></tr>
+<tr><td>Ukraine\*</td><td>25. Oktober</td><td>2024</td><td>1. Januar</td><td>2025</td></tr>
+<tr><td>Uruguay<sup>\*</sup></td><td>28. Juni</td><td>2002</td><td>1. September</td><td>2002</td></tr>
+<tr><td>Vanuatu</td><td>2. Dezember</td><td>2011 B</td><td>1. Februar</td><td>2012</td></tr>
+<tr><td>Venezuela</td><td>7. Juni</td><td>2000</td><td>1. Juli</td><td>2002</td></tr>
+<tr><td>Vereinigtes Königreich<sup>\*</sup></td><td>4. Oktober</td><td>2001</td><td>1. Juli</td><td>2002</td></tr>
+<tr><td>Akrotiri und Dhekelia</td><td>11. März</td><td>2010</td><td>11. März</td><td>2010</td></tr>
+<tr><td>Anguilla</td><td>11. März</td><td>2010</td><td>11. März</td><td>2010</td></tr>
+<tr><td>Bermudas</td><td>11. März</td><td>2010</td><td>11. März</td><td>2010</td></tr>
+<tr><td>Britische Jungferninseln</td><td>11. März</td><td>2010</td><td>11. März</td><td>2010</td></tr>
+<tr><td>Falklandinseln</td><td>11. März</td><td>2010</td><td>11. März</td><td>2010</td></tr>
+<tr><td>Gibraltar</td><td>20. April</td><td>2015</td><td>20. April</td><td>2015</td></tr>
+<tr><td>Insel Man</td><td>28. November</td><td>2012</td><td>1. Februar</td><td>2013</td></tr>
+<tr><td>Kaimaninseln</td><td>11. März</td><td>2010</td><td>11. März</td><td>2010</td></tr>
+<tr><td>Montserrat</td><td>11. März</td><td>2010</td><td>11. März</td><td>2010</td></tr>
+<tr><td>Pitcairn-Inseln (Ducie, Oeno, Henderson und Pitcairn)</td><td>11. März</td><td>2010</td><td>11. März</td><td>2010</td></tr>
+<tr><td>St. Helena und Nebengebiete (Ascension und Tristan da Cunha)</td><td>11. März</td><td>2010</td><td>11. März</td><td>2010</td></tr>
+<tr><td>Turks- und Caicosinseln</td><td>11. März</td><td>2010</td><td>11. März</td><td>2010</td></tr>
+<tr><td>Zentralafrikanische Republik</td><td>3. Oktober</td><td>2001</td><td>1. Juli</td><td>2002</td></tr>
+<tr><td>Zypern<sup>\*</sup></td><td>7. März</td><td>2002</td><td>1. Juli</td><td>2002</td></tr>
+<tr><td colspan="5">\* Vorbehalte und Erklärungen. \*\* Einwendungen. Die Vorbehalte, Erklärungen und Einwendungen werden in der AS nicht veröffentlicht, mit Ausnahme der Vorbehalte und Erklärungen der Schweiz. Die französischen und englischen Texte können auf der Internetseite der Organisation der Vereinten Nationen (UNO): [http://treaties.un.org](http://treaties.un.org/) eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden. <sup>a</sup> Das Statut gilt nicht für Tokelau. <sup>b</sup> Für das Königreich in Europa.</td></tr>
 </table>
 
-[^t-4]: [AS 2002 3743](https://fedlex.data.admin.ch/eli/oc/2002/586); [2004 3891](https://fedlex.data.admin.ch/eli/oc/2004/543); [2005 4991](https://fedlex.data.admin.ch/eli/oc/2005/681); [2007 15](https://fedlex.data.admin.ch/eli/oc/2007/5); [2008 4197](https://fedlex.data.admin.ch/eli/oc/2008/598); [2010 1625](https://fedlex.data.admin.ch/eli/oc/2010/236); [2012 105](https://fedlex.data.admin.ch/eli/oc/2012/13); [2015 4449](https://fedlex.data.admin.ch/eli/oc/2015/741); [2018 3003](https://fedlex.data.admin.ch/eli/oc/2018/463); [2022 293](https://fedlex.data.admin.ch/eli/oc/2022/293). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: www.fedlex.admin.ch/de/treaty.
+[^t-4]: [AS 2002 3743](https://fedlex.data.admin.ch/eli/oc/2002/586); [2004 3891](https://fedlex.data.admin.ch/eli/oc/2004/543); [2005 4991](https://fedlex.data.admin.ch/eli/oc/2005/681); [2007 15](https://fedlex.data.admin.ch/eli/oc/2007/5); [2008 4197](https://fedlex.data.admin.ch/eli/oc/2008/598); [2010 1625](https://fedlex.data.admin.ch/eli/oc/2010/236); [2012 105](https://fedlex.data.admin.ch/eli/oc/2012/13); [2015 4449](https://fedlex.data.admin.ch/eli/oc/2015/741); [2018 3003](https://fedlex.data.admin.ch/eli/oc/2018/463); [2022 293](https://fedlex.data.admin.ch/eli/oc/2022/293); [2026 251](https://fedlex.data.admin.ch/eli/oc/2026/251). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
 
 Vorbehalte und Erklärungen
 
