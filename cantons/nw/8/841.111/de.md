@@ -4,11 +4,12 @@ number: "841.111"
 title: Jagdbetriebsvorschriften 2026
 language: de
 version: 2026-05-21
+corrected: 2026-05-22
 version_adopted: 2026-05-19
 adopted: 2026-05-19
 in_force: 2026-05-21
 url: "https://gesetze.nw.ch/app/de/texts_of_law/841.111"
-pdf: "https://gesetze.nw.ch/api/de/versions/1505/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/1504/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -453,7 +454,7 @@ beschliesst:
 
 #### § 30a
 
-**Signalbekleidung**
+**Sigalbekleidung**
 
 <sup>1</sup> Auf der Hoch-, Nieder-, Hege- und Regulationsjagd ist während Bewegungsjagden für alle Jägerinnen und Jäger das Tragen einer Signalweste oder Signaljacke obligatorisch. Eine signalfarbene Kopfbedeckung (z. B. Hutband) allein genügt nicht.
 
