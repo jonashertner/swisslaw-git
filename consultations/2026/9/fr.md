@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: 21.426 n Iv. pa. Christ. Méthodes de substitution à l’expérimentation animale. Davantage de ressources et d’incitations pour la recherche 3R
 document: Projet mis en consultation
 language: fr

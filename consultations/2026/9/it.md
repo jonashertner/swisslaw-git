@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: 21.426 n Iv. pa. Christ. Più risorse e incentivi a favore della ricerca 3R per accelerare lo sviluppo di metodi alternativi alla sperimentazione animale
 document: Progetto posto in consultazione
 language: it
