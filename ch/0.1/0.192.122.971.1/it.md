@@ -3,11 +3,11 @@ sr: "0.192.122.971.1"
 title: Protocollo del 30 luglio 1936 sulle immunità della Banca dei regolamenti internazionali
 eli: "https://fedlex.data.admin.ch/eli/cc/1982/1990_1990_1990"
 language: it
-version: 2016-02-23
+version: 2026-05-26
 adopted: 1936-07-30
 in_force: 1937-05-24
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/1990_1990_1990/20160223/it/xml/fedlex-data-admin-ch-eli-cc-1982-1990_1990_1990-20160223-it-xml-9.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1982/1990_1990_1990/20160223/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/1990_1990_1990/20260526/it/xml/fedlex-data-admin-ch-eli-cc-1982-1990_1990_1990-20260526-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1982/1990_1990_1990/20260526/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -20,7 +20,7 @@ Traduzione
 
 Conchiuso a Bruxelles il 30 luglio 1936 Entrato in vigore per la Svizzera il 24 maggio 1937
 
-(Stato 23 febbraio 2016)
+(Stato 26 maggio 2026)
 
 I rappresentanti debitamente autorizzati del Governo di Sua Maestà il Re dei Belgi, del Governo del Regno Unito della Gran Bretagna e dell’Irlanda del Nord, del Governo del Canada, dei Governo del Commonwealth di Australia, del Governo della Nuova Zelanda, del Governo dell’Unione dell’Africa del Sud, del Governo dell’India, del Governo della Repubblica Francese, del Governo di Sua Maestà il Re degli Elleni, del Governo di Sua Maestà il Re d’Italia, del Governo di Sua Maestà l’Imperatore del Giappone, del Governo della Repubblica di Polonia, del Governo della Repubblica del Portogallo, del Governo di Sua Maestà il Re di Romania, del Governo della Confederazione svizzera, del Governo di Sua Maestà il Re di Jugoslavia,
 
@@ -71,7 +71,7 @@ Fatto a Bruxelles il 30 luglio 1936.
 
 (Seguono le firme)
 
-Campo d’applicazione il 23 febbraio 2016[^t-1]
+Campo d’applicazione il 26 maggio 2026[^t-1]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A) Dichiarazione di successione (S) Firmato senza riserva di ratificazione (F)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -89,6 +89,7 @@ Campo d’applicazione il 23 febbraio 2016[^t-1]
 <tr><td>Irlanda</td><td>19 gennaio</td><td>1954 A</td><td>19 gennaio</td><td>1954</td></tr>
 <tr><td>Italia</td><td>22 marzo</td><td>1939 F</td><td>22 marzo</td><td>1939</td></tr>
 <tr><td>Lussemburgo</td><td>26 luglio</td><td>2013</td><td>26 luglio</td><td>2013</td></tr>
+<tr><td>Messico</td><td>10 agosto</td><td>2000</td><td>10 agosto</td><td>2000</td></tr>
 <tr><td>Nuova Zelanda</td><td>4 dicembre</td><td>1936 F</td><td>4 dicembre</td><td>1936</td></tr>
 <tr><td>Polonia</td><td>29 giugno</td><td>1938</td><td>29 giugno</td><td>1938</td></tr>
 <tr><td>Portogallo</td><td>14 luglio</td><td>1953</td><td>14 luglio</td><td>1953</td></tr>
@@ -101,4 +102,4 @@ Campo d’applicazione il 23 febbraio 2016[^t-1]
 <tr><td>Turchia</td><td>28 dicembre</td><td>1964</td><td>28 dicembre</td><td>1964</td></tr>
 </table>
 
-[^t-1]: [RU 1982 1990](https://fedlex.data.admin.ch/eli/oc/1982/1990_1990_1990), [2004 575](https://fedlex.data.admin.ch/eli/oc/2004/42), [2008 3699](https://fedlex.data.admin.ch/eli/oc/2008/487)e [2016 727](https://fedlex.data.admin.ch/eli/oc/2016/136). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
+[^t-1]: [RU 1982 1990](https://fedlex.data.admin.ch/eli/oc/1982/1990_1990_1990), [2232](https://fedlex.data.admin.ch/eli/oc/1982/2232_2232_2232); [2004 575](https://fedlex.data.admin.ch/eli/oc/2004/42); [2008 3699](https://fedlex.data.admin.ch/eli/oc/2008/487); [2016 727](https://fedlex.data.admin.ch/eli/oc/2016/136); [2026 255](https://fedlex.data.admin.ch/eli/oc/2026/255). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty).

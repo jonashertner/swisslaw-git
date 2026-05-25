@@ -3,11 +3,11 @@ sr: "0.192.122.971.1"
 title: Protocole du 30 juillet 1936 relatif aux immunités de la Banque des règlements internationaux
 eli: "https://fedlex.data.admin.ch/eli/cc/1982/1990_1990_1990"
 language: fr
-version: 2016-02-23
+version: 2026-05-26
 adopted: 1936-07-30
 in_force: 1937-05-24
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/1990_1990_1990/20160223/fr/xml/fedlex-data-admin-ch-eli-cc-1982-1990_1990_1990-20160223-fr-xml-9.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1982/1990_1990_1990/20160223/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/1990_1990_1990/20260526/fr/xml/fedlex-data-admin-ch-eli-cc-1982-1990_1990_1990-20260526-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1982/1990_1990_1990/20260526/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -20,7 +20,7 @@ Texte original
 
 Conclu à Bruxelles le 30 juillet 1936 Entré en vigueur pour la Suisse le 24 mai 1937
 
-(État le 23 février 2016)
+(État le 26 mai 2026)
 
 Les représentants dûment autorisés du Gouvernement de Sa Majesté le Roi des Belges, du Gouvernement du Royaume‑Uni de Grande‑Bretagne et d’Irlande du Nord, du Gouvernement du Canada, du Gouvernement du Commonwealth d’Australie, du Gouvernement de la Nouvelle‑Zélande, du Gouvernement de l’Union de l’Afrique du Sud, du Gouvernement de l’Inde, du Gouvernement de la République Française, du Gouvernement de Sa Majesté le Roi des Hellènes, du Gouvernement de Sa Majesté le Roi d’Italie, du Gouvernement de Sa Majesté l’Empereur du Japon, du Gouvernement de la République de Pologne, du Gouvernement de la République du Portugal, du Gouvernement de Sa Majesté le Roi de Roumanie, du Gouvernement de la Confédération suisse, du Gouvernement de Sa Majesté le Roi de Yougoslavie,
 
@@ -48,7 +48,7 @@ Seront considérés comme confiés à la Banque des Règlements Internationaux e
 
 #### Art. 2
 
-Le présent Protocole entrera en vigueur, pour chaque Partie contractante, à la date du dépôt de son instrument de ratification au Ministère des Affaires Etrangères de Belgique. Il entrera en vigueur immédiatement pour les Parties contractantes qui, lors de la signature, auront déclaré renoncer à la procédure de ratification.
+Le présent Protocole entrera en vigueur, pour chaque Partie contractante, à la date du dépôt de son instrument de ratification au Ministère des Affaires Étrangères de Belgique. Il entrera en vigueur immédiatement pour les Parties contractantes qui, lors de la signature, auront déclaré renoncer à la procédure de ratification.
 
 #### Art. 3
 
@@ -58,7 +58,7 @@ Le Gouvernement qui désire adhérer notifie par écrit son intention au Gouvern
 
 #### Art. 4
 
-Les Gouvernements non signataires de l’Accord avec l’Allemagne signé à La Haye le 20 janvier 1930, pourront adhérer à la présente Convention en signant, sous réserve de ratification s’il y a lieu, l’original de cette Convention qui restera déposé à la Chancellerie du Ministère des Affaires Etrangères de Belgique. La signature ainsi apposée par un Gouvernement non signataire des Accords de La Haye impliquera adhésion aux Art. X et XV de l’Accord avec l’Allemagne du 20 janvier 1930, ainsi qu’à l’Annexe XII dudit Accord réglant la procédure devant le Tribunal Arbitral, à la juridiction duquel les Gouvernements en question se seront ainsi soumis pour l’application et l’interprétation dudit Art. X et de la présente Convention.
+Les Gouvernements non signataires de l’Accord avec l’Allemagne signé à La Haye le 20 janvier 1930, pourront adhérer à la présente Convention en signant, sous réserve de ratification s’il y a lieu, l’original de cette Convention qui restera déposé à la Chancellerie du Ministère des Affaires Étrangères de Belgique. La signature ainsi apposée par un Gouvernement non signataire des Accords de La Haye impliquera adhésion aux Art. X et XV de l’Accord avec l’Allemagne du 20 janvier 1930, ainsi qu’à l’Annexe XII dudit Accord réglant la procédure devant le Tribunal Arbitral, à la juridiction duquel les Gouvernements en question se seront ainsi soumis pour l’application et l’interprétation dudit Art. X et de la présente Convention.
 
 #### Art. 5
 
@@ -72,7 +72,7 @@ Fait à Bruxelles, le 30 juillet 1936.
 
 (Suivent les signatures)
 
-Champ d’application le 23 février 2016[^t-1]
+Champ d’application le 26 mai 2026[^t-1]
 
 <table>
 <tr><th>États parties</th><th>Ratification Adhésion (A) Déclaration de succession (S) Signature sans réserve de ratification (Si)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
@@ -91,6 +91,7 @@ Champ d’application le 23 février 2016[^t-1]
 <tr><td>Irlande</td><td>19 janvier</td><td>1954 A</td><td>19 janvier</td><td>1954</td></tr>
 <tr><td>Italie</td><td>22 mars</td><td>1939 Si</td><td>22 mars</td><td>1939</td></tr>
 <tr><td>Luxembourg</td><td>26 juillet</td><td>2013</td><td>26 juillet</td><td>2013</td></tr>
+<tr><td>Mexique</td><td>10 août</td><td>2000</td><td>10 août</td><td>2000</td></tr>
 <tr><td>Nouvelle-Zélande</td><td>4 décembre</td><td>1936 Si</td><td>4 décembre</td><td>1936</td></tr>
 <tr><td>Pologne</td><td>29 juin</td><td>1938</td><td>29 juin</td><td>1938</td></tr>
 <tr><td>Portugal</td><td>14 juillet</td><td>1953</td><td>14 juillet</td><td>1953</td></tr>
@@ -102,4 +103,4 @@ Champ d’application le 23 février 2016[^t-1]
 <tr><td>Turquie</td><td>28 décembre</td><td>1964</td><td>28 décembre</td><td>1964</td></tr>
 </table>
 
-[^t-1]: [RO 1982 1990](https://fedlex.data.admin.ch/eli/oc/1982/1990_1990_1990), [2004 575](https://fedlex.data.admin.ch/eli/oc/2004/42), [2008 3699](https://fedlex.data.admin.ch/eli/oc/2008/487), [2016 727](https://fedlex.data.admin.ch/eli/oc/2016/136). Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.dfae.admin.ch/traites).
+[^t-1]: [RO 1982 1990](https://fedlex.data.admin.ch/eli/oc/1982/1990_1990_1990), [2232](https://fedlex.data.admin.ch/eli/oc/1982/2232_2232_2232); [2004 575](https://fedlex.data.admin.ch/eli/oc/2004/42); [2008 3699](https://fedlex.data.admin.ch/eli/oc/2008/487); [2016 727](https://fedlex.data.admin.ch/eli/oc/2016/136); [2026 255](https://fedlex.data.admin.ch/eli/oc/2026/255). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).

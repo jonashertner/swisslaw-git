@@ -3,11 +3,11 @@ sr: "0.192.122.971.1"
 title: Protokoll vom 30. Juli 1936 über die Immunitäten der Bank für Internationalen Zahlungsausgleich
 eli: "https://fedlex.data.admin.ch/eli/cc/1982/1990_1990_1990"
 language: de
-version: 2016-02-23
+version: 2026-05-26
 adopted: 1936-07-30
 in_force: 1937-05-24
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/1990_1990_1990/20160223/de/xml/fedlex-data-admin-ch-eli-cc-1982-1990_1990_1990-20160223-de-xml-9.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1982/1990_1990_1990/20160223/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/1990_1990_1990/20260526/de/xml/fedlex-data-admin-ch-eli-cc-1982-1990_1990_1990-20260526-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1982/1990_1990_1990/20260526/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -20,7 +20,7 @@ AS **1982** 1990
 
 Abgeschlossen in Brüsselam 30. Juli 1936 In Kraft getreten für die Schweiz am 24. Mai 1937
 
-(Stand am 23. Februar 2016)
+(Stand am 26. Mai 2026)
 
 Die gehörig bevollmächtigten Vertreter der Regierung Seiner Majestät des Königs der Belgier, der Regierung des Vereinigten Königreichs von Grossbritannien und Nordirland, der Regierung von Kanada, der Regierung des Australischen Commonwealth, der Regierung von Neuseeland, der Regierung der Südafrikanischen Union, der Regierung von Indien, der Regierung der Französischen Republik, der Regierung Seiner Majestät des Königs der Hellenen, der Regierung Seiner Majestät des Königs von Italien, der Regierung Seiner Majestät des Kaisers von Japan, der Regierung der Polnischen Republik, der Regierung der Portugiesischen Republik, der Regierung Seiner Majestät des Königs von Rumänien, der Regierung der Schweizerischen Eidgenossenschaft, der Regierung Seiner Majestät des Königs von Jugoslawien
 
@@ -71,7 +71,7 @@ Geschehen zu Brüssel, am 30. Juli 1936.
 
 (Es folgen die Unterschriften)
 
-Geltungsbereich am 23. Februar 2016[^t-1]
+Geltungsbereich am 26. Mai 2026[^t-1]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B) Nachfolgeerklärung (N) Unterzeichnet ohne Ratifikationsvorbehalt (U)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -89,6 +89,7 @@ Geltungsbereich am 23. Februar 2016[^t-1]
 <tr><td>Kanada</td><td>20. Januar</td><td>1938</td><td>20. Januar</td><td>1938</td></tr>
 <tr><td>Kroatien</td><td>8. Dezember</td><td>1997 N</td><td>8. Oktober</td><td>1991</td></tr>
 <tr><td>Luxemburg</td><td>26. Juli</td><td>2013</td><td>26. Juli</td><td>2013</td></tr>
+<tr><td>Mexiko</td><td>10. August</td><td>2000</td><td>10. August</td><td>2000</td></tr>
 <tr><td>Neuseeland</td><td>4. Dezember</td><td>1936 U</td><td>4. Dezember</td><td>1936</td></tr>
 <tr><td>Polen</td><td>29. Juni</td><td>1938</td><td>29. Juni</td><td>1938</td></tr>
 <tr><td>Portugal</td><td>14. Juli</td><td>1953</td><td>14. Juli</td><td>1953</td></tr>
@@ -101,4 +102,4 @@ Geltungsbereich am 23. Februar 2016[^t-1]
 <tr><td>Vereinigtes Königreich</td><td>6. April</td><td>1937</td><td>6. April</td><td>1937</td></tr>
 </table>
 
-[^t-1]: [AS 1982 1990](https://fedlex.data.admin.ch/eli/oc/1982/1990_1990_1990), [2004 575](https://fedlex.data.admin.ch/eli/oc/2004/42), [2008 3699](https://fedlex.data.admin.ch/eli/oc/2008/487)und [2016 727](https://fedlex.data.admin.ch/eli/oc/2016/136). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+[^t-1]: [AS 1982 1990](https://fedlex.data.admin.ch/eli/oc/1982/1990_1990_1990), [2232](https://fedlex.data.admin.ch/eli/oc/1982/2232_2232_2232); [2004 575](https://fedlex.data.admin.ch/eli/oc/2004/42); [2008 3699](https://fedlex.data.admin.ch/eli/oc/2008/487); [2016 727](https://fedlex.data.admin.ch/eli/oc/2016/136); [2026 255](https://fedlex.data.admin.ch/eli/oc/2026/255). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
