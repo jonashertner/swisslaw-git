@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Nouvelle ordonnance Eurodac en raison de la reprise du pacte de l’UE sur la migration et l’asile
 document: Projet mis en consultation
 language: fr

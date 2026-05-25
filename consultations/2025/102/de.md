@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Neue nationale Eurodac Verordnung aufgrund der Übernahme und Umsetzung des EU-Migrationspaktes
 document: Vernehmlassungsvorlage
 language: de

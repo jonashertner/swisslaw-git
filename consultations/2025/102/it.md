@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Nuova Ordinanza Eurodac a seguito del recepimento del Patto sulla migrazione e l’asilo dell’UE
 document: Progetto posto in consultazione
 language: it
