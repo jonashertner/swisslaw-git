@@ -3,18 +3,18 @@ sr: "946.231.176.72"
 title: Ordonnance du 4 mars 2022 instituant des mesures en lien avec la situation en Ukraine
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/151"
 language: fr
-version: 2026-05-22
+version: 2026-05-26
 adopted: 2022-03-04
 in_force: 2022-03-04
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/151/20260522/fr/xml/fedlex-data-admin-ch-eli-cc-2022-151-20260522-fr-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/151/20260522/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/151/20260526/fr/xml/fedlex-data-admin-ch-eli-cc-2022-151-20260526-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/151/20260526/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance instituant des mesures en lien avec la situation en Ukraine
 
-du 4 mars 2022 (État le 22 mai 2026)
+du 4 mars 2022 (État le 26 mai 2026)
 
 Le Conseil fédéral suisse,
 
@@ -3339,9 +3339,13 @@ Annexe 13a[^t-12]
 
 ## Cryptoactifs soumis à des interdictions de transactions
 
-[^t-12]: Introduite par le ch. II al. 2 de l’O du 25 fév. 2026, en vigueur depuis le 26 fév. 2026 ([RO 2026 92](https://fedlex.data.admin.ch/eli/oc/2026/92)).
+[^t-12]: Introduite par le ch. II al. 2 de l’O du 25 fév. 2026 ([RO 2026 92](https://fedlex.data.admin.ch/eli/oc/2026/92)). Nouvelle teneur selon le ch. I al. 2 de l’O du DEFR du 21 mai 2026, en vigueur depuis le 26 mai 2026 ([RO 2026 235](https://fedlex.data.admin.ch/eli/oc/2026/235)).
 
 A7A5
+
+RUBx
+
+Rouble digital
 
 Annexe 14[^t-13]
 

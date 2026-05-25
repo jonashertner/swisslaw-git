@@ -3,18 +3,18 @@ sr: "946.231.176.72"
 title: Ordinanza del 4 marzo 2022 che istituisce provvedimenti in relazione alla situazione in Ucraina
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/151"
 language: it
-version: 2026-05-22
+version: 2026-05-26
 adopted: 2022-03-04
 in_force: 2022-03-04
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/151/20260522/it/xml/fedlex-data-admin-ch-eli-cc-2022-151-20260522-it-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/151/20260522/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/151/20260526/it/xml/fedlex-data-admin-ch-eli-cc-2022-151-20260526-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/151/20260526/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza che istituisce provvedimenti in relazione alla situazione in Ucraina
 
-del 4 marzo 2022 (Stato 22 maggio 2026)
+del 4 marzo 2022 (Stato 26 maggio 2026)
 
 Il Consiglio federale svizzero,
 
@@ -3343,9 +3343,13 @@ Allegato 13a[^t-12]
 
 ## Cripto-attività soggette al divieto di transazioni
 
-[^t-12]: Introdotto dalla cifra II cpv. 2 dell’O del 25 feb. 2026, in vigore dal 26 feb. 2026 ([RU 2026 92](https://fedlex.data.admin.ch/eli/oc/2026/92)).
+[^t-12]: Introdotto dalla cifra II cpv. 2 dell’O del 25 feb. 2026 ([RU 2026 92](https://fedlex.data.admin.ch/eli/oc/2026/92)). Nuovo testo giusta la cifra I cpv. 2 dell’O del DEFR del 21 mag. 2026, in vigore dal 26 mag. 2026 ([RU 2026 235](https://fedlex.data.admin.ch/eli/oc/2026/235)).
 
 A7A5
+
+RUBx
+
+Rublo digitale
 
 Allegato 14[^t-13]
 
