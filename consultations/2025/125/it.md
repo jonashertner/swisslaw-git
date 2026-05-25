@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Modifica dell’ordinanza sulle poste: inclusione del recapito mattutino nel sostegno indiretto alla stampa (attuazione dell’Iv. Pa. 22.423, seconda parte)"
 document: Progetto posto in consultazione
 language: it

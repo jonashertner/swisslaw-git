@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Modification de l’ordonnance sur la poste: inclusion de la distribution matinale dans l’aide indirecte à la presse (mise en œuvre de l’iv. pa. 22.423, deuxième partie)"
 document: Projet mis en consultation
 language: fr

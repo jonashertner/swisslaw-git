@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Änderung der Postverordnung: Einbezug der Frühzustellung in die indirekte Presseförderung (Umsetzung Pa. Iv. 22.423, zweiter Teil)"
 document: Vernehmlassungsvorlage
 language: de
