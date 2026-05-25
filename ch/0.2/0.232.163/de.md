@@ -3,11 +3,11 @@ sr: "0.232.163"
 title: "Internationales Übereinkommen vom 2. Dezember 1961 zum Schutz von Pflanzenzüchtungen, revidiert in Genf am 10. November 1972, 23. Oktober 1978 und 19. März 1991"
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/527"
 language: de
-version: 2022-11-10
+version: 2026-05-26
 adopted: 1991-03-19
 in_force: 2008-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/527/20221110/de/xml/fedlex-data-admin-ch-eli-cc-2008-527-20221110-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/527/20221110/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/527/20260526/de/xml/fedlex-data-admin-ch-eli-cc-2008-527-20260526-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/527/20260526/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -26,7 +26,7 @@ Schweizerische Ratifikationsurkunde hinterlegt am 1. August 2008
 
 In Kraft getreten für die Schweiz am 1. September 2008
 
-(Stand am 10. November 2022)
+(Stand am 26. Mai 2026)
 
 [^t-1]: Art. 1 Abs. 1 des BB vom 5. Okt. 2007 ([AS 2008 3897](https://fedlex.data.admin.ch/eli/oc/2008/526))
 
@@ -61,9 +61,9 @@ Im Sinne dieser Akte sind:
 - x) Verband: der durch die Akte von 1961 gegründete und in der Akte von 1972, der Akte von 1978 sowie in diesem Übereinkommen weiter erwähnte Internationale Verband zum Schutz von Pflanzenzüchtungen;
 - xi) Verbandsmitglied: ein Vertragsstaat der Akte von 1961/1972 oder der Akte von 1978 sowie eine Vertragspartei.
 
-[^1-1]: [SR 0.232.161](https://fedlex.data.admin.ch/eli/cc/1977/1359_1359_1359)
-[^1-2]: [SR 0.232.161.1](https://fedlex.data.admin.ch/eli/cc/1977/1382_1382_1382)
-[^1-3]: [SR 0.232.162](https://fedlex.data.admin.ch/eli/cc/1981/1907_1907_1907)
+[^1-1]: [SR 0.232.161](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1107)
+[^1-2]: [SR 0.232.161.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1108)
+[^1-3]: [SR 0.232.162](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1109)
 
 ## Kapitel II: Allgemeine Verpflichtungen der Vertragsparteien
 
@@ -608,13 +608,14 @@ Dieses Übereinkommen schränkt keine Züchterrechte ein, die auf Grund des Rech
 
 (Es folgen die Unterschriften)
 
-Geltungsbereich am 10. November 2022[^t-2]
+Geltungsbereich am 26. Mai 2026[^t-2]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B)</th><th></th><th>Inkrafttreten</th><th></th></tr>
 <tr><td>Ägypten</td><td>1. November</td><td>2019 B</td><td>1. Dezember</td><td>2019</td></tr>
 <tr><td>Albanien</td><td>15. September</td><td>2005 B</td><td>15. Oktober</td><td>2005</td></tr>
 <tr><td>Afrikanische Organisation für Geistiges Eigentum</td><td>10. Juni</td><td>2014 B</td><td>10. Juli</td><td>2014</td></tr>
+<tr><td>Armenien</td><td>2. Februar</td><td>2024 B</td><td>2. März</td><td>2024</td></tr>
 <tr><td>Aserbaidschan</td><td>9. November</td><td>2004 B</td><td>9. Dezember</td><td>2004</td></tr>
 <tr><td>Australien</td><td>20. Dezember</td><td>1999 B</td><td>20. Januar</td><td>2000</td></tr>
 <tr><td>Belarus</td><td>5. Dezember</td><td>2002 B</td><td>5. Januar</td><td>2003</td></tr>
@@ -647,6 +648,7 @@ Geltungsbereich am 10. November 2022[^t-2]
 <tr><td>Moldau</td><td>28. September</td><td>1998 B</td><td>28. Oktober</td><td>1998</td></tr>
 <tr><td>Montenegro</td><td>24. August</td><td>2015 B</td><td>24. September</td><td>2015</td></tr>
 <tr><td>Niederlande <sup>b</sup></td><td>14. Oktober</td><td>1996</td><td>24. April</td><td>1998</td></tr>
+<tr><td>Nigeria</td><td>27. Februar</td><td>2025 B</td><td>27. März</td><td>2025</td></tr>
 <tr><td>Nordmazedonien</td><td>4. April</td><td>2011 B</td><td>4. Mai</td><td>2011</td></tr>
 <tr><td>Oman</td><td>22. Oktober</td><td>2009 B</td><td>22. November</td><td>2009</td></tr>
 <tr><td>Österreich</td><td>1. Juni</td><td>2004 B</td><td>1. Juli</td><td>2004</td></tr>
@@ -672,10 +674,11 @@ Geltungsbereich am 10. November 2022[^t-2]
 <tr><td>Usbekistan</td><td>14. Oktober</td><td>2004 B</td><td>14. November</td><td>2004</td></tr>
 <tr><td>Vereinigte Staaten\*</td><td>22. Januar</td><td>1999</td><td>22. Februar</td><td>1999</td></tr>
 <tr><td>Vereinigtes Königreich</td><td>3. Dezember</td><td>1998</td><td>3. Januar</td><td>1999</td></tr>
+<tr><td>Insel Man</td><td>25. April</td><td>2023</td><td>25. April</td><td>2023</td></tr>
 <tr><td>Vietnam</td><td>24. November</td><td>2006 B</td><td>24. Dezember</td><td>2006</td></tr>
-<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die Texte können auf der Internetseite des Internationalen Verbands zum Schutz von Pflanzenzüchtungen: www.upov.int &gt; À propos de l’UPOV &gt; Publications eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
+<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die Texte können auf der Internetseite des Internationalen Verbands zum Schutz von Pflanzenzüchtungen: [https://upovlex.upov.int/de/convention](https://upovlex.upov.int/de/convention) eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
 <tr><td colspan="5"><sup>a</sup> Das Übereinkommen gilt nicht für die Färöer und Grönland.</td></tr>
 <tr><td colspan="5"><sup>b</sup> Für das Königreich in Europa.</td></tr>
 </table>
 
-[^t-2]: [AS 2008 3909](https://fedlex.data.admin.ch/eli/oc/2008/527); [2011 1923](https://fedlex.data.admin.ch/eli/oc/2011/279); [2014 3279](https://fedlex.data.admin.ch/eli/oc/2014/566); [2017 4849](https://fedlex.data.admin.ch/eli/oc/2017/522); [2020 3325](https://fedlex.data.admin.ch/eli/oc/2020/561); [2022 676](https://fedlex.data.admin.ch/eli/oc/2022/676). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht https://www.fedlex.admin.ch/de/treaty.
+[^t-2]: [AS 2008 3909](https://fedlex.data.admin.ch/eli/oc/2008/527); [2011 1923](https://fedlex.data.admin.ch/eli/oc/2011/279); [2014 3279](https://fedlex.data.admin.ch/eli/oc/2014/566); [2017 4849](https://fedlex.data.admin.ch/eli/oc/2017/522); [2020 3325](https://fedlex.data.admin.ch/eli/oc/2020/561); [2022 676](https://fedlex.data.admin.ch/eli/oc/2022/676); [2026 277](https://fedlex.data.admin.ch/eli/oc/2026/277). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).

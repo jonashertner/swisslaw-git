@@ -3,11 +3,11 @@ sr: "0.232.163"
 title: "Convenzione internazionale del 2 dicembre 1961 per la protezione delle novità vegetali, riveduta a Ginevra il 10 novembre 1972, il 23 ottobre 1978 e il 19 marzo 1991"
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/527"
 language: it
-version: 2022-11-10
+version: 2026-05-26
 adopted: 1991-03-19
 in_force: 2008-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/527/20221110/it/xml/fedlex-data-admin-ch-eli-cc-2008-527-20221110-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/527/20221110/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/527/20260526/it/xml/fedlex-data-admin-ch-eli-cc-2008-527-20260526-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/527/20260526/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -20,7 +20,7 @@ Traduzione
 
 Approvata dall’Assemblea federale il 5 ottobre 2007[^t-1] Strumento di ratifica depositato dalla Svizzera il 1° agosto 2008 Entrata in vigore per la Svizzera il 1° settembre 2008
 
-(Stato 10 novembre 2022)
+(Stato 26 maggio 2026)
 
 [^t-1]: Art. 1 cpv. 1 del DF del 5 ott. 2007 ([RU 2008 3897](https://fedlex.data.admin.ch/eli/oc/2008/526)).
 
@@ -58,9 +58,9 @@ Ai fini del presente Atto:
 - x) si intende per «Unione» l’Unione internazionale per la protezione delle novità vegetali, fondata dall’Atto del 1961 e menzionata dall’Atto del 1972, dall’Atto del 1978 e dalla presente Convenzione;
 - xi) si intende per «membro dell’Unione» uno Stato che è parte dell’Atto del 1961/1972 o dell’Atto del 1978, o una Parte contraente.
 
-[^1-1]: [RS 0.232.161](https://fedlex.data.admin.ch/eli/cc/1977/1359_1359_1359)
-[^1-2]: [RS 0.232.161.1](https://fedlex.data.admin.ch/eli/cc/1977/1382_1382_1382)
-[^1-3]: [RS 0.232.162](https://fedlex.data.admin.ch/eli/cc/1981/1907_1907_1907)
+[^1-1]: [RS 0.232.161](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1107)
+[^1-2]: [RS 0.232.161.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1108)
+[^1-3]: [RS 0.232.162](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1109)
 
 ## Capitolo II: Obblighi generali delle Parti contraenti
 
@@ -632,11 +632,12 @@ La presente Convenzione non può in alcun modo pregiudicare i diritti di costitu
 
 (Seguono le firme)
 
-Campo d’applicazione il 10 novembre 2022[^t-2]
+Campo d’applicazione il 26 maggio 2026[^t-2]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A)</th><th></th><th>Entrata in vigore</th><th></th></tr>
 <tr><td>Albania</td><td>15 settembre</td><td>2005 A</td><td>15 ottobre</td><td>2005</td></tr>
+<tr><td>Armenia</td><td>2 febbraio</td><td>2024 A</td><td>2 marzo</td><td>2024</td></tr>
 <tr><td>Australia</td><td>20 dicembre</td><td>1999 A</td><td>20 gennaio</td><td>2000</td></tr>
 <tr><td>Austria</td><td>1° giugno</td><td>2004 A</td><td>1° luglio</td><td>2004</td></tr>
 <tr><td>Azerbaigian</td><td>9 novembre</td><td>2004 A</td><td>9 dicembre</td><td>2004</td></tr>
@@ -674,10 +675,12 @@ Campo d’applicazione il 10 novembre 2022[^t-2]
 <tr><td>Oman</td><td>22 ottobre</td><td>2009 A</td><td>22 novembre</td><td>2009</td></tr>
 <tr><td>Organizzazione africana della proprietà intellettuale (OAPI)</td><td>10 giugno</td><td>2014 A</td><td>10 luglio</td><td>2014</td></tr>
 <tr><td>Paesi Bassi <sup>b</sup></td><td>14 ottobre</td><td>1996</td><td>24 aprile</td><td>1998</td></tr>
+<tr><td>Nigeria</td><td>27 febbraio</td><td>2025 A</td><td>27 marzo</td><td>2025</td></tr>
 <tr><td>Panama</td><td>22 ottobre</td><td>2012 A</td><td>22 novembre</td><td>2012</td></tr>
 <tr><td>Perù</td><td>8 luglio</td><td>2011 A</td><td>8 agosto</td><td>2011</td></tr>
 <tr><td>Polonia</td><td>15 luglio</td><td>2003 A</td><td>15 agosto</td><td>2003</td></tr>
 <tr><td>Regno Unito</td><td>3 dicembre</td><td>1998</td><td>3 gennaio</td><td>1999</td></tr>
+<tr><td>Isola di Man</td><td>25 aprile</td><td>2023</td><td>25 aprile</td><td>2023</td></tr>
 <tr><td>Romania</td><td>16 febbraio</td><td>2001 A</td><td>16 marzo</td><td>2001</td></tr>
 <tr><td>Russia</td><td>24 marzo</td><td>1998 A</td><td>24 aprile</td><td>1998</td></tr>
 <tr><td>Saint Vincent e Grenadine</td><td>22 febbraio</td><td>2021 A</td><td>22 marzo</td><td>2021</td></tr>
@@ -702,4 +705,4 @@ Campo d’applicazione il 10 novembre 2022[^t-2]
 <tr><td colspan="5"><sup>b</sup> Per il Regno in Europa.</td></tr>
 </table>
 
-[^t-2]: [RU 2008 3909](https://fedlex.data.admin.ch/eli/oc/2008/527); [2011 1923](https://fedlex.data.admin.ch/eli/oc/2011/279); [2014 3279](https://fedlex.data.admin.ch/eli/oc/2014/566); [2017 4849](https://fedlex.data.admin.ch/eli/oc/2017/522); [2020 3325](https://fedlex.data.admin.ch/eli/oc/2020/561); [2022 676](https://fedlex.data.admin.ch/eli/oc/2022/676). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [https://www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty)
+[^t-2]: [RU 2008 3909](https://fedlex.data.admin.ch/eli/oc/2008/527); [2011 1923](https://fedlex.data.admin.ch/eli/oc/2011/279); [2014 3279](https://fedlex.data.admin.ch/eli/oc/2014/566); [2017 4849](https://fedlex.data.admin.ch/eli/oc/2017/522); [2020 3325](https://fedlex.data.admin.ch/eli/oc/2020/561); [2022 676](https://fedlex.data.admin.ch/eli/oc/2022/676); [2026 277](https://fedlex.data.admin.ch/eli/oc/2026/277). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty).

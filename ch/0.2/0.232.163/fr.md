@@ -3,11 +3,11 @@ sr: "0.232.163"
 title: "Convention internationale du 2 décembre 1961 pour la protection des obtentions végétales, révisée à Genève les 10 novembre 1972, 23 octobre 1978 et 19 mars 1991"
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/527"
 language: fr
-version: 2022-11-10
+version: 2026-05-26
 adopted: 1991-03-19
 in_force: 2008-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/527/20221110/fr/xml/fedlex-data-admin-ch-eli-cc-2008-527-20221110-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/527/20221110/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/527/20260526/fr/xml/fedlex-data-admin-ch-eli-cc-2008-527-20260526-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/527/20260526/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -24,7 +24,7 @@ Instrument de ratification déposé par la Suisse le 1<sup>er</sup> août 2008
 
 Entrée en vigueur pour la Suisse le 1<sup>er</sup> septembre 2008
 
-(État le 10 novembre 2022)
+(État le 26 mai 2026)
 
 [^t-1]: Art. 1 al. 1 de l’AF du 5 oct. 2007 ([RO 2008 3897](https://fedlex.data.admin.ch/eli/oc/2008/526))
 
@@ -62,9 +62,9 @@ Aux fins du présent Acte:
 - x) on entend par «Union» l’Union internationale pour la protection des obtentions végétales fondée par l’Acte de 1961 et mentionnée dans l’Acte de 1972, dans l’Acte de 1978 et dans la présente Convention;
 - xi) on entend par «membre de l’Union» un État partie à l’Acte de 1961/1972 ou à l’Acte de 1978, ou une Partie contractante.
 
-[^1-1]: [RS 0.232.161](https://fedlex.data.admin.ch/eli/cc/1977/1359_1359_1359)
-[^1-2]: [RS 0.232.161.1](https://fedlex.data.admin.ch/eli/cc/1977/1382_1382_1382)
-[^1-3]: [RS 0.232.162](https://fedlex.data.admin.ch/eli/cc/1981/1907_1907_1907)
+[^1-1]: [RS 0.232.161](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1107)
+[^1-2]: [RS 0.232.161.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1108)
+[^1-3]: [RS 0.232.162](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1109)
 
 ## Chapitre II Obligations générales des parties contractantes
 
@@ -447,7 +447,7 @@ Les organes permanents de l’Union sont le Conseil et le Bureau de l’Union.
 
 <sup>(4)</sup>
 
-*Contributions : calcul des parts:*
+*Contributions: calcul des parts:*
 
 - a) Pour chaque exercice budgétaire, le montant d’une unité de contribution est égal au montant total des dépenses à couvrir pendant cet exercice à l’aide des contributions des États membres de l’Union divisé par le nombre total d’unités applicable à ces États membres.
 - b) Le montant de la contribution de chaque État membre de l’Union est égal au montant d’une unité de contribution multiplié par le nombre d’unités applicable à cet État membre.
@@ -617,12 +617,13 @@ La présente Convention ne saurait limiter les droits d’obtenteur acquis soit 
 
 (Suivent les signatures)
 
-Champ d’application le 10 novembre 2022[^t-2]
+Champ d’application le 26 mai 2026[^t-2]
 
 <table>
 <tr><th>États parties</th><th>Ratification Adhésion (A)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
 <tr><td>Albanie</td><td>15 septembre</td><td>2005 A</td><td>15 octobre</td><td>2005</td></tr>
 <tr><td>Allemagne</td><td>25 juin</td><td>1998</td><td>25 juillet</td><td>1998</td></tr>
+<tr><td>Arménie</td><td>2 février</td><td>2024 A</td><td>2 mars</td><td>2024</td></tr>
 <tr><td>Australie</td><td>20 décembre</td><td>1999 A</td><td>20 janvier</td><td>2000</td></tr>
 <tr><td>Autriche</td><td>1<sup>er</sup> juin</td><td>2004 A</td><td>1<sup>er</sup> juillet</td><td>2004</td></tr>
 <tr><td>Azerbaïdjan</td><td>9 novembre</td><td>2004 A</td><td>9 décembre</td><td>2004</td></tr>
@@ -657,6 +658,7 @@ Champ d’application le 10 novembre 2022[^t-2]
 <tr><td>Maroc</td><td>8 septembre</td><td>2006 A</td><td>8 octobre</td><td>2006</td></tr>
 <tr><td>Moldova</td><td>28 septembre</td><td>1998 A</td><td>28 octobre</td><td>1998</td></tr>
 <tr><td>Monténégro</td><td>24 août</td><td>2015 A</td><td>24 septembre</td><td>2015</td></tr>
+<tr><td>Nigéria</td><td>27 février</td><td>2025 A</td><td>27 mars</td><td>2025</td></tr>
 <tr><td>Oman</td><td>22 octobre</td><td>2009 A</td><td>22 novembre</td><td>2009</td></tr>
 <tr><td>Organisation africaine de la propriété intellectuelle (OAPI)</td><td>10 juin</td><td>2014 A</td><td>10 juillet</td><td>2014</td></tr>
 <tr><td>Ouzbékistan</td><td>14 octobre</td><td>2004 A</td><td>14 novembre</td><td>2004</td></tr>
@@ -668,6 +670,7 @@ Champ d’application le 10 novembre 2022[^t-2]
 <tr><td>République tchèque</td><td>24 octobre</td><td>2002 A</td><td>24 novembre</td><td>2002</td></tr>
 <tr><td>Roumanie</td><td>16 février</td><td>2001 A</td><td>16 mars</td><td>2001</td></tr>
 <tr><td>Royaume-Uni</td><td>3 décembre</td><td>1998</td><td>3 janvier</td><td>1999</td></tr>
+<tr><td>Île de Man</td><td>25 avril</td><td>2023</td><td>25 avril</td><td>2023</td></tr>
 <tr><td>Russie</td><td>24 mars</td><td>1998 A</td><td>24 avril</td><td>1998</td></tr>
 <tr><td>Saint-Vincent-et-les Grenadines</td><td>22 février</td><td>2021 A</td><td>22 mars</td><td>2021</td></tr>
 <tr><td>Serbie</td><td>5 décembre</td><td>2012 A</td><td>5 janvier</td><td>2013</td></tr>
@@ -682,7 +685,7 @@ Champ d’application le 10 novembre 2022[^t-2]
 <tr><td>Ukraine</td><td>19 décembre</td><td>2006 A</td><td>19 janvier</td><td>2007</td></tr>
 <tr><td>Union européenne</td><td>29 juin</td><td>2005 A</td><td>29 juillet</td><td>2005</td></tr>
 <tr><td>Vietnam</td><td>24 novembre</td><td>2006 A</td><td>24 décembre</td><td>2006</td></tr>
-<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO. Les textes peuvent être consultés à l'adresse du site Internet de l'Union internationale pour la protection des obtentions végétales: www.upov.int &gt; À propos de l’UPOV &gt; Publications, ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne <sup>a</sup> La Convention ne s’applique pas aux Îles Féroé ni au Groenland. <sup>b</sup> Pour le Royaume en Europe.</td></tr>
+<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO. Les textes peuvent être consultés à l’adresse du site Internet de l’Union internationale pour la protection des obtentions végétales: [www.upo v .int](http://www.upov.int) &gt; À propos de l’UPOV &gt; Publications, ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne <sup>a</sup> La Convention ne s’applique pas aux Îles Féroé ni au Groenland. <sup>b</sup> Pour le Royaume en Europe.</td></tr>
 </table>
 
-[^t-2]: [RO 2008 3909](https://fedlex.data.admin.ch/eli/oc/2008/527); [2011 1923](https://fedlex.data.admin.ch/eli/oc/2011/279); [2014 3279](https://fedlex.data.admin.ch/eli/oc/2014/566); [2017 4849](https://fedlex.data.admin.ch/eli/oc/2017/522); [2020 3325](https://fedlex.data.admin.ch/eli/oc/2020/561); [2022 676](https://fedlex.data.admin.ch/eli/oc/2022/676). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [https://www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).
+[^t-2]: [RO 2008 3909](https://fedlex.data.admin.ch/eli/oc/2008/527); [2011 1923](https://fedlex.data.admin.ch/eli/oc/2011/279); [2014 3279](https://fedlex.data.admin.ch/eli/oc/2014/566); [2017 4849](https://fedlex.data.admin.ch/eli/oc/2017/522); [2020 3325](https://fedlex.data.admin.ch/eli/oc/2020/561); [2022 676](https://fedlex.data.admin.ch/eli/oc/2022/676); [2026 277](https://fedlex.data.admin.ch/eli/oc/2026/277). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).
