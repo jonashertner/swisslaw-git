@@ -3,11 +3,11 @@ sr: "0.921.11"
 title: "Accord international de 2006 sur les bois tropicaux, du 27 janvier 2006 (avec annexes)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/85"
 language: fr
-version: 2022-01-20
+version: 2026-05-27
 adopted: 2006-01-27
 in_force: 2011-12-07
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/85/20220120/fr/xml/fedlex-data-admin-ch-eli-cc-2012-85-20220120-fr-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/85/20220120/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/85/20260527/fr/xml/fedlex-data-admin-ch-eli-cc-2012-85-20260527-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/85/20260527/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -26,7 +26,7 @@ Instrument de ratification suisse déposé le 27 avril 2007
 
 Entré en vigueur pour la Suisse le 7 décembre 2011
 
-(État le 20 janvier 2022)
+(État le 27 mai 2026)
 
 [^t-1]: [RO 2012 549](https://fedlex.data.admin.ch/eli/oc/2012/84)
 
@@ -849,20 +849,22 @@ Suisse\*
 
 - \* Membre de l’Accord international de 1994 sur les bois tropicaux
 
-Champ d’application le 20 janvier 2022[^t-2]
+Champ d’application le 27 mai 2026[^t-2]
 
 <table>
 <tr><th>États parties</th><th>Ratification Adhésion (A) Signature sans réserve de ratification (Si)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
 <tr><td>Albanie</td><td>26 octobre</td><td>2011 Si</td><td>7 décembre</td><td>2011</td></tr>
 <tr><td>Allemagne</td><td>17 décembre</td><td>2009</td><td>7 décembre</td><td>2011</td></tr>
+<tr><td>Angola</td><td>7 juillet</td><td>2022 A</td><td>7 juillet</td><td>2022</td></tr>
 <tr><td>Australie</td><td>24 septembre</td><td>2008</td><td>7 décembre</td><td>2011</td></tr>
 <tr><td>Belgique</td><td>28 juillet</td><td>2015</td><td>28 juillet</td><td>2015</td></tr>
-<tr><td>Bulgarie</td><td>17 décembre</td><td>2009</td><td>7 décembre</td><td>2011</td></tr>
 <tr><td>Bénin</td><td>7 décembre</td><td>2011 Si</td><td>7 décembre</td><td>2011</td></tr>
 <tr><td>Brésil</td><td>18 octobre</td><td>2013</td><td>18 octobre</td><td>2013</td></tr>
+<tr><td>Bulgarie</td><td>17 décembre</td><td>2009</td><td>7 décembre</td><td>2011</td></tr>
 <tr><td>Cambodge</td><td>15 juillet</td><td>2009</td><td>7 décembre</td><td>2011</td></tr>
 <tr><td>Cameroun</td><td>21 août</td><td>2009</td><td>7 décembre</td><td>2011</td></tr>
-<tr><td>Chine<sup>a</sup></td><td>14 décembre</td><td>2009</td><td>7 décembre</td><td>2011</td></tr>
+<tr><td>Canada</td><td>22 novembre</td><td>2023 A</td><td>22 novembre</td><td>2023</td></tr>
+<tr><td>Chine <sup>a</sup></td><td>14 décembre</td><td>2009</td><td>7 décembre</td><td>2011</td></tr>
 <tr><td>Macao</td><td>14 décembre</td><td>2009</td><td>7 décembre</td><td>2011</td></tr>
 <tr><td>Chypre</td><td>9 juillet</td><td>2010</td><td>7 décembre</td><td>2011</td></tr>
 <tr><td>Colombie</td><td>15 mars</td><td>2013</td><td>15 mars</td><td>2013</td></tr>
@@ -872,7 +874,7 @@ Champ d’application le 20 janvier 2022[^t-2]
 <tr><td>Costa Rica</td><td>1<sup>er</sup> novembre</td><td>2013 A</td><td>1<sup>er</sup> novembre</td><td>2013</td></tr>
 <tr><td>Côte d’Ivoire</td><td>31 octobre</td><td>2008</td><td>7 décembre</td><td>2011</td></tr>
 <tr><td>Croatie</td><td>28 avril</td><td>2015 A</td><td>28 avril</td><td>2015</td></tr>
-<tr><td>Danemark<sup>b</sup></td><td>18 novembre</td><td>2009 Si</td><td>7 décembre</td><td>2011</td></tr>
+<tr><td>Danemark <sup>b</sup></td><td>18 novembre</td><td>2009 Si</td><td>7 décembre</td><td>2011</td></tr>
 <tr><td>Équateur</td><td>5 novembre</td><td>2008</td><td>7 décembre</td><td>2011</td></tr>
 <tr><td>Espagne</td><td>17 décembre</td><td>2009</td><td>7 décembre</td><td>2011</td></tr>
 <tr><td>Estonie</td><td>9 août</td><td>2011</td><td>7 décembre</td><td>2011</td></tr>
@@ -904,10 +906,10 @@ Champ d’application le 20 janvier 2022[^t-2]
 <tr><td>Mozambique</td><td>5 novembre</td><td>2012 A</td><td>5 novembre</td><td>2012</td></tr>
 <tr><td>Myanmar</td><td>12 septembre</td><td>2011</td><td>7 décembre</td><td>2011</td></tr>
 <tr><td>Norvège</td><td>3 septembre</td><td>2008</td><td>7 décembre</td><td>2011</td></tr>
-<tr><td>Nouvelle-Zélande<sup>c</sup></td><td>13 octobre</td><td>2008</td><td>7 décembre</td><td>2011</td></tr>
+<tr><td>Nouvelle-Zélande <sup>c</sup></td><td>13 octobre</td><td>2008</td><td>7 décembre</td><td>2011</td></tr>
 <tr><td>Panama</td><td>14 février</td><td>2008</td><td>7 décembre</td><td>2011</td></tr>
 <tr><td>Papouasie-Nouvelle-Guinée</td><td>16 décembre</td><td>2010</td><td>7 décembre</td><td>2011</td></tr>
-<tr><td>Pays-Bas<sup>d</sup></td><td>30 septembre</td><td>2009</td><td>7 décembre</td><td>2011</td></tr>
+<tr><td>Pays-Bas <sup>d</sup></td><td>30 septembre</td><td>2009</td><td>7 décembre</td><td>2011</td></tr>
 <tr><td>Philippines</td><td>8 juillet</td><td>2009</td><td>7 décembre</td><td>2011</td></tr>
 <tr><td>Pologne</td><td>5 novembre</td><td>2010</td><td>7 décembre</td><td>2011</td></tr>
 <tr><td>Portugal</td><td>17 décembre</td><td>2009</td><td>7 décembre</td><td>2011</td></tr>
@@ -929,4 +931,4 @@ Champ d’application le 20 janvier 2022[^t-2]
 <tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet de l’Organisation des Nations Unies (ONU): [http://treaties.un.org](http://treaties.un.org) ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> L’accord ne s’applique pas à Hong Kong. <sup>b</sup> L’accord ne s’applique pas aux îles Féroé et à Groënland. <sup>c</sup> L’accord ne s’applique pas aux Tokélaou. <sup>d</sup> Pour le Royaume en Europe.</td></tr>
 </table>
 
-[^t-2]: [RO 2012 551](https://fedlex.data.admin.ch/eli/oc/2012/85); [2013 1301](https://fedlex.data.admin.ch/eli/oc/2013/296); [2014 4433](https://fedlex.data.admin.ch/eli/oc/2014/734); [2018 859](https://fedlex.data.admin.ch/eli/oc/2018/112); [2022 32](https://fedlex.data.admin.ch/eli/oc/2022/32). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty)
+[^t-2]: [RO 2012 551](https://fedlex.data.admin.ch/eli/oc/2012/85); [2013 1301](https://fedlex.data.admin.ch/eli/oc/2013/296); [2014 4433](https://fedlex.data.admin.ch/eli/oc/2014/734); [2018 859](https://fedlex.data.admin.ch/eli/oc/2018/112); [2022 32](https://fedlex.data.admin.ch/eli/oc/2022/32); [2026 275](https://fedlex.data.admin.ch/eli/oc/2026/275). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty)

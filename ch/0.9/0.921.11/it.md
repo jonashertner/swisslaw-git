@@ -3,11 +3,11 @@ sr: "0.921.11"
 title: Accordo internazionale del 2006 sui legni tropicali del 27 gennaio 2006 (con all.)
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/85"
 language: it
-version: 2022-01-20
+version: 2026-05-27
 adopted: 2006-01-27
 in_force: 2011-12-07
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/85/20220120/it/xml/fedlex-data-admin-ch-eli-cc-2012-85-20220120-it-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/85/20220120/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/85/20260527/it/xml/fedlex-data-admin-ch-eli-cc-2012-85-20260527-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/85/20260527/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -20,7 +20,7 @@ Traduzione
 
 Concluso a Ginevra il 27 gennaio 2006 Approvato dall’Assemblea federale il 12 marzo 2007[^t-1] Ratificato dalla Svizzera con strumento depositato il 27 aprile 2007 Entrato in vigore per la Svizzera il 7 dicembre 2011
 
-(Stato 20 gennaio 2022)
+(Stato 27 maggio 2026)
 
 [^t-1]: [RU 2012 549](https://fedlex.data.admin.ch/eli/oc/2012/84)
 
@@ -843,11 +843,12 @@ Stati Uniti d’America\*
 
 - \* Membro dell’accordo internazionale del 1994 sui legni tropicali
 
-Campo d’applicazione il 20 gennaio 2022[^t-2]
+Campo d’applicazione il 27 maggio 2026[^t-2]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A) Firmato senza riserva di ratificazione (F)</th><th></th><th>Entrata in vigore</th><th></th></tr>
 <tr><td>Albania</td><td>26 ottobre</td><td>2011 F</td><td>7 dicembre</td><td>2011</td></tr>
+<tr><td>Angola</td><td>7 luglio</td><td>2022 A</td><td>7 luglio</td><td>2022</td></tr>
 <tr><td>Australia</td><td>24 settembre</td><td>2008</td><td>7 dicembre</td><td>2011</td></tr>
 <tr><td>Belgio</td><td>28 luglio</td><td>2015</td><td>28 luglio</td><td>2015</td></tr>
 <tr><td>Benin</td><td>7 dicembre</td><td>2011 F</td><td>7 dicembre</td><td>2011</td></tr>
@@ -855,6 +856,7 @@ Campo d’applicazione il 20 gennaio 2022[^t-2]
 <tr><td>Bulgaria</td><td>17 dicembre</td><td>2009</td><td>7 dicembre</td><td>2011</td></tr>
 <tr><td>Cambogia</td><td>15 luglio</td><td>2009</td><td>7 dicembre</td><td>2011</td></tr>
 <tr><td>Camerun</td><td>21 agosto</td><td>2009</td><td>7 dicembre</td><td>2011</td></tr>
+<tr><td>Canada</td><td>22 novembre</td><td>2023 A</td><td>22 novembre</td><td>2023</td></tr>
 <tr><td>Ceca, Repubblica</td><td>17 dicembre</td><td>2009</td><td>7 dicembre</td><td>2011</td></tr>
 <tr><td>Centrafricana, Repubblica</td><td>4 novembre</td><td>2014</td><td>4 novembre</td><td>2014</td></tr>
 <tr><td>Cina <sup>a</sup></td><td>14 dicembre</td><td>2009</td><td>7 dicembre</td><td>2011</td></tr>
@@ -923,4 +925,4 @@ Campo d’applicazione il 20 gennaio 2022[^t-2]
 <tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e le dichiarazioni non sono pubblicate nella RU. Il testo, francese ed inglese, può essere consultato sul sito Internet dell’Organizzazione delle Nazioni Unite (ONU): [http://treaties.un.org](http://treaties.un.org/) oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna. <sup>a</sup> L’Acc. non vale per Hong Kong. <sup>b</sup> L’Acc. non vale per le isole Faeroe e per la Groenlandia. <sup>c</sup> L’Acc. non vale per Tokelau. <sup>d</sup> Per il Regno in Europa.</td></tr>
 </table>
 
-[^t-2]: [RU 2012 551](https://fedlex.data.admin.ch/eli/oc/2012/85); [2013 1301](https://fedlex.data.admin.ch/eli/oc/2013/296); [2014 4433](https://fedlex.data.admin.ch/eli/oc/2014/734), [2018 859](https://fedlex.data.admin.ch/eli/oc/2018/112); [2022 32](https://fedlex.data.admin.ch/eli/oc/2022/32). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty?news_period=last_month&news_pageNb=1&news_order=desc&news_itemsPerPage=10).
+[^t-2]: [RU 2012 551](https://fedlex.data.admin.ch/eli/oc/2012/85); [2013 1301](https://fedlex.data.admin.ch/eli/oc/2013/296); [2014 4433](https://fedlex.data.admin.ch/eli/oc/2014/734); [2018 859](https://fedlex.data.admin.ch/eli/oc/2018/112); [2022 32](https://fedlex.data.admin.ch/eli/oc/2022/32); [2026 275](https://fedlex.data.admin.ch/eli/oc/2026/275). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty).
