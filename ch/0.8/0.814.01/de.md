@@ -3,11 +3,11 @@ sr: "0.814.01"
 title: Rahmenübereinkommen der Vereinten Nationen vom 9. Mai 1992 über Klimaänderungen (mit Anlagen)
 eli: "https://fedlex.data.admin.ch/eli/cc/1994/1052_1052_1052"
 language: de
-version: 2020-05-01
+version: 2026-05-27
 adopted: 1992-05-09
 in_force: 1994-03-21
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1052_1052_1052/20200501/de/xml/fedlex-data-admin-ch-eli-cc-1994-1052_1052_1052-20200501-de-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1994/1052_1052_1052/20200501/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1052_1052_1052/20260527/de/xml/fedlex-data-admin-ch-eli-cc-1994-1052_1052_1052-20260527-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1994/1052_1052_1052/20260527/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -26,7 +26,7 @@ Schweizerische Ratifikationsurkunde hinterlegt am 10. Dezember 1993
 
 In Kraft getreten für die Schweiz am 21. März 1994
 
-(Stand am 1. Mai 2020)
+(Stand am 27. Mai 2026)
 
 [^t-1]: [AS 1994 1051](https://fedlex.data.admin.ch/eli/oc/1994/1051_1051_1051)
 
@@ -80,9 +80,9 @@ entschlossen, das Klimasystem für heutige und künftige Generationen zu schütz
 
 sind wie folgt übereingekommen:
 
-[^ingress-1]: [SR 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
-[^ingress-2]: [SR 0.814.02](https://fedlex.data.admin.ch/eli/cc/1988/1752_1752_1752)
-[^ingress-3]: [SR 0.814.021](https://fedlex.data.admin.ch/eli/cc/1989/477_477_477)
+[^ingress-1]: [SR 0.120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/41)
+[^ingress-2]: [SR 0.814.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3484)
+[^ingress-3]: [SR 0.814.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3485)
 [^ingress-4]: [AS 1993 1078](https://fedlex.data.admin.ch/eli/oc/1993/1078_1078_1078)
 
 #### Art. 1
@@ -184,7 +184,7 @@ Bei der Erfüllung der in diesem Artikel vorgesehenen Verpflichtungen prüfen di
 
 <sup>10.</sup> Die Vertragsparteien berücksichtigen nach Artikel 10 bei der Erfüllung der Verpflichtungen aus dem Übereinkommen die Lage derjenigen Vertragsparteien, insbesondere unter den Entwicklungsländern, deren Wirtschaft für die nachteiligen Auswirkungen der Durchführung von Massnahmen zur Bekämpfung der Klimaänderungen anfällig ist. Dies gilt namentlich für Vertragsparteien, deren Wirtschaft in hohem Mass entweder von Einkünften, die durch die Gewinnung, Verarbeitung und Ausfuhr fossiler Brennstoffe und verwandter energieintensiver Produkte erzielt werden, oder vom Verbrauch solcher Brennstoffe und Produkte oder von der Verwendung fossiler Brennstoffe, die diese Vertragsparteien nur sehr schwer durch Alternativen ersetzen können, abhängt.
 
-[^4-1]: [SR 0.814.021](https://fedlex.data.admin.ch/eli/cc/1989/477_477_477)
+[^4-1]: [SR 0.814.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3485)
 [^4-2]: Dies schliesst die von Organisationen der regionalen Wirtschaftsintegration beschlossenen Politiken und Massnahmen ein.
 
 #### Art. 5
@@ -359,7 +359,7 @@ Jede Vertragspartei, die ein entwickeltes Land ist, und jede andere in Anlage I 
 
 <sup>10.</sup> Vorbehaltlich des Absatzes 9 und unbeschadet des Rechts einer jeden Vertragspartei, ihre Mitteilung jederzeit zu veröffentlichen, macht das Sekretariat die von den Vertragsparteien nach diesem Artikel übermittelten Mitteilungen zu dem Zeitpunkt öffentlich verfügbar, zu dem sie der Konferenz der Vertragsparteien vorgelegt werden.
 
-[^12-1]: [SR 0.814.021](https://fedlex.data.admin.ch/eli/cc/1989/477_477_477)
+[^12-1]: [SR 0.814.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3485)
 
 #### Art. 13
 
@@ -456,7 +456,7 @@ Der Generalsekretär der Vereinten Nationen ist Depositar des Übereinkommens un
 
 Dieses Übereinkommen liegt während der Konferenz der Vereinten Nationen über Umwelt und Entwicklung in Rio de Janeiro und danach vom 20. Juni 1992 bis zum 19. Juni 1993 am Sitz der Vereinten Nationen in New York für die Mitgliedstaaten der Vereinten Nationen oder einer ihrer Spezialorganisationen oder für Vertragsstaaten des Statuts des Internationalen Gerichtshofs[^20-1] sowie für Organisationen der regionalen Wirtschaftsintegration zur Unterzeichnung auf.
 
-[^20-1]: [SR 0.193.501](https://fedlex.data.admin.ch/eli/cc/1948/1048_1037_1010)
+[^20-1]: [SR 0.193.501](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/809)
 
 #### Art. 21
 
@@ -528,7 +528,7 @@ Anlage II
 <tr><td>Australien Belgien Dänemark Deutschland Europäische Wirtschaftsgemeinschaft Finnland Frankreich Griechenland Irland Island Italien Japan Kanada</td><td>Luxemburg Neuseeland Niederlande Norwegen Österreich Portugal Schweden Schweiz Spanien Türkei Vereinigte Staaten Vereinigtes Königreich Grossbritannien und Nordirland</td></tr>
 </table>
 
-Geltungsbereich am 1. Mai 2020, Nachtrag[^t-3]
+Geltungsbereich am 27. Mai 2026[^t-3]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B) Nachfolgeerklärung (N)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -564,11 +564,10 @@ Geltungsbereich am 1. Mai 2020, Nachtrag[^t-3]
 <tr><td>Burundi</td><td>6. Januar</td><td>1997</td><td>6. April</td><td>1997</td></tr>
 <tr><td>Chile</td><td>22. Dezember</td><td>1994</td><td>22. März</td><td>1995</td></tr>
 <tr><td>China</td><td>5. Januar</td><td>1993</td><td>21. März</td><td>1994</td></tr>
-<tr><td>[tab] Hongkong</td><td>8. April</td><td>2003</td><td>8. April</td><td>2003</td></tr>
-<tr><td>[tab] Macau <sup>a</sup></td><td>15. Dezember</td><td>1999</td><td>20. Dezember</td><td>1999</td></tr>
-<tr><td>Cook-Inseln</td><td>20. April</td><td>1993</td><td>21. März</td><td>1994</td></tr>
+<tr><td>Hongkong</td><td>8. April</td><td>2003</td><td>8. April</td><td>2003</td></tr>
+<tr><td>Macau <sup>a</sup></td><td>15. Dezember</td><td>1999</td><td>20. Dezember</td><td>1999</td></tr>
 <tr><td>Costa Rica</td><td>26. August</td><td>1994</td><td>24. November</td><td>1994</td></tr>
-<tr><td>Côte d'Ivoire</td><td>29. November</td><td>1994</td><td>27. Februar</td><td>1995</td></tr>
+<tr><td>Côte d’Ivoire</td><td>29. November</td><td>1994</td><td>27. Februar</td><td>1995</td></tr>
 <tr><td>Dänemark</td><td>21. Dezember</td><td>1993</td><td>21. März</td><td>1994</td></tr>
 <tr><td>Deutschland</td><td>9. Dezember</td><td>1993</td><td>21. März</td><td>1994</td></tr>
 <tr><td>Dominica</td><td>21. Juni</td><td>1993 B</td><td>21. März</td><td>1994</td></tr>
@@ -594,6 +593,7 @@ Geltungsbereich am 1. Mai 2020, Nachtrag[^t-3]
 <tr><td>Guinea-Bissau</td><td>27. Oktober</td><td>1995</td><td>25. Januar</td><td>1996</td></tr>
 <tr><td>Guyana</td><td>29. August</td><td>1994</td><td>27. November</td><td>1994</td></tr>
 <tr><td>Haiti</td><td>25. September</td><td>1996</td><td>24. Dezember</td><td>1996</td></tr>
+<tr><td>Heiliger Stuhl\*</td><td>6. Juli</td><td>2022 B</td><td>4. Oktober</td><td>2022</td></tr>
 <tr><td>Honduras</td><td>19. Oktober</td><td>1995</td><td>17. Januar</td><td>1996</td></tr>
 <tr><td>Indien</td><td>1. November</td><td>1993</td><td>21. März</td><td>1994</td></tr>
 <tr><td>Indonesien</td><td>23. August</td><td>1994</td><td>21. November</td><td>1994</td></tr>
@@ -656,12 +656,13 @@ Geltungsbereich am 1. Mai 2020, Nachtrag[^t-3]
 <tr><td>Nauru</td><td>11. November</td><td>1993</td><td>21. März</td><td>1994</td></tr>
 <tr><td>Nepal</td><td>2. Mai</td><td>1994</td><td>31. Juli</td><td>1994</td></tr>
 <tr><td>Neuseeland</td><td>16. September</td><td>1993</td><td>21. März</td><td>1994</td></tr>
+<tr><td>Cook-Inseln</td><td>20. April</td><td>1993</td><td>21. März</td><td>1994</td></tr>
+<tr><td>Niue</td><td>28. Februar</td><td>1996 B</td><td>28. Mai</td><td>1996</td></tr>
 <tr><td>Tokelau</td><td>13. November</td><td>2017</td><td>13. November</td><td>2017</td></tr>
 <tr><td>Nicaragua</td><td>31. Oktober</td><td>1995</td><td>29. Januar</td><td>1996</td></tr>
 <tr><td>Niederlande <sup>b</sup> \*</td><td>20. Dezember</td><td>1993</td><td>21. März</td><td>1994</td></tr>
 <tr><td>Niger</td><td>25. Juli</td><td>1995</td><td>23. Oktober</td><td>1995</td></tr>
 <tr><td>Nigeria</td><td>29. August</td><td>1994</td><td>27. November</td><td>1994</td></tr>
-<tr><td>Niue</td><td>28. Februar</td><td>1996 B</td><td>28. Mai</td><td>1996</td></tr>
 <tr><td>Nordmazedonien</td><td>28. Januar</td><td>1998 B</td><td>28. April</td><td>1998</td></tr>
 <tr><td>Norwegen</td><td>9. Juli</td><td>1993</td><td>21. März</td><td>1994</td></tr>
 <tr><td>Oman</td><td>8. Februar</td><td>1995</td><td>9. Mai</td><td>1995</td></tr>
@@ -727,19 +728,18 @@ Geltungsbereich am 1. Mai 2020, Nachtrag[^t-3]
 <tr><td>Vanuatu</td><td>25. März</td><td>1993</td><td>21. März</td><td>1994</td></tr>
 <tr><td>Venezuela</td><td>28. Dezember</td><td>1994</td><td>28. März</td><td>1995</td></tr>
 <tr><td>Vereinigte Arabische Emirate</td><td>29. Dezember</td><td>1995 B</td><td>28. März</td><td>1996</td></tr>
-<tr><td>Vereinigte Staaten\*</td><td>15. Oktober</td><td>1992</td><td>21. März</td><td>1994</td></tr>
 <tr><td>Vereinigtes Königreich</td><td>8. Dezember</td><td>1993</td><td>21. März</td><td>1994</td></tr>
-<tr><td>[tab] Bermudas</td><td>7. März</td><td>2007</td><td>7. März</td><td>2007</td></tr>
-<tr><td>[tab] Falklandinseln</td><td>7. März</td><td>2007</td><td>7. März</td><td>2007</td></tr>
-<tr><td>[tab] Gibraltar</td><td>2. Januar</td><td>2007</td><td>2. Januar</td><td>2007</td></tr>
-<tr><td>[tab] Guernsey</td><td>4. April</td><td>2006</td><td>4. April</td><td>2006</td></tr>
-<tr><td>[tab] Insel Man</td><td>8. Dezember</td><td>1993</td><td>21. März</td><td>1994</td></tr>
-<tr><td>[tab] Jersey</td><td>8. Dezember</td><td>1993</td><td>21. März</td><td>1994</td></tr>
-<tr><td>[tab] Kaimaninseln</td><td>7. März</td><td>2007</td><td>7. März</td><td>2007</td></tr>
+<tr><td>Bermudas</td><td>7. März</td><td>2007</td><td>7. März</td><td>2007</td></tr>
+<tr><td>Falklandinseln</td><td>7. März</td><td>2007</td><td>7. März</td><td>2007</td></tr>
+<tr><td>Gibraltar</td><td>2. Januar</td><td>2007</td><td>2. Januar</td><td>2007</td></tr>
+<tr><td>Guernsey</td><td>4. April</td><td>2006</td><td>4. April</td><td>2006</td></tr>
+<tr><td>Insel Man</td><td>8. Dezember</td><td>1993</td><td>21. März</td><td>1994</td></tr>
+<tr><td>Jersey</td><td>8. Dezember</td><td>1993</td><td>21. März</td><td>1994</td></tr>
+<tr><td>Kaimaninseln</td><td>7. März</td><td>2007</td><td>7. März</td><td>2007</td></tr>
 <tr><td>Vietnam</td><td>16. November</td><td>1994</td><td>14. Februar</td><td>1995</td></tr>
 <tr><td>Zentralafrikanische Republik</td><td>10. März</td><td>1995</td><td>8. Juni</td><td>1995</td></tr>
 <tr><td>Zypern</td><td>15. Oktober</td><td>1997</td><td>13. Januar</td><td>1998</td></tr>
-<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite der Vereinten Nationen: http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden. <sup>a</sup> Vom 28. Juni 1999 bis zum 19. Dez. 1999 war das Übereink. auf Grund einer Ausdehnungserklärung Portugals in Macau anwendbar. Seit dem 20. Dez. 1999 bildet Macau eine Besondere Verwaltungsregion (SAR) der Volksrepublik China. Auf Grund der chinesischen Erklärung vom 15. Dez. 1999 ist das Übereink. seit dem 20. Dez. 1999 auch in der SAR Macau anwendbar. <sup>b</sup> Für das Königreich in Europa.</td></tr>
+<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite der Organisation der Vereinten Nationen (UNO): [https://treaties.un.org](https://treaties.un.org/) eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden. <sup>a</sup> Vom 28. Juni 1999 bis zum 19. Dez. 1999 war das Übereink. auf Grund einer Ausdehnungserklärung Portugals in Macau anwendbar. Seit dem 20. Dez. 1999 bildet Macau eine Besondere Verwaltungsregion (SAR) der Volksrepublik China. Auf Grund der chinesischen Erklärung vom 15. Dez. 1999 ist das Übereink. seit dem 20. Dez. 1999 auch in der SAR Macau anwendbar. <sup>b</sup> Für das Königreich in Europa.</td></tr>
 </table>
 
-[^t-3]: [AS 1994 1052](https://fedlex.data.admin.ch/eli/oc/1994/1052_1052_1052), [2005 1581](https://fedlex.data.admin.ch/eli/oc/2005/240), [2007 4469](https://fedlex.data.admin.ch/eli/oc/2007/629), [2010 583](https://fedlex.data.admin.ch/eli/oc/2010/85), [2013 3533](https://fedlex.data.admin.ch/eli/oc/2013/660), [2017 3831](https://fedlex.data.admin.ch/eli/oc/2017/456), [2020 1579](https://fedlex.data.admin.ch/eli/oc/2020/320). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
+[^t-3]: [AS 1994 1052](https://fedlex.data.admin.ch/eli/oc/1994/1052_1052_1052); [2005 1581](https://fedlex.data.admin.ch/eli/oc/2005/240); [2007 4469](https://fedlex.data.admin.ch/eli/oc/2007/629); [2010 583](https://fedlex.data.admin.ch/eli/oc/2010/85); [2013 3533](https://fedlex.data.admin.ch/eli/oc/2013/660); [2017 3831](https://fedlex.data.admin.ch/eli/oc/2017/456); [2020 1579](https://fedlex.data.admin.ch/eli/oc/2020/320); [2026 271](https://fedlex.data.admin.ch/eli/oc/2026/271). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).

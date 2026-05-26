@@ -3,11 +3,11 @@ sr: "0.814.01"
 title: Convenzione quadro delle Nazioni Unite del 9 maggio 1992 sui cambiamenti climatici (con All.)
 eli: "https://fedlex.data.admin.ch/eli/cc/1994/1052_1052_1052"
 language: it
-version: 2020-05-01
+version: 2026-05-27
 adopted: 1992-05-09
 in_force: 1994-03-21
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1052_1052_1052/20200501/it/xml/fedlex-data-admin-ch-eli-cc-1994-1052_1052_1052-20200501-it-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1994/1052_1052_1052/20200501/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1052_1052_1052/20260527/it/xml/fedlex-data-admin-ch-eli-cc-1994-1052_1052_1052-20260527-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1994/1052_1052_1052/20260527/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -18,15 +18,9 @@ RU **199**4 1052; FF **1993** II 109
 
 Traduzione
 
-Conclusa a New York il 9 maggio 1992
+Conclusa a New York il 9 maggio 1992 Approvata dall’Assemblea federale il 23 settembre 1993[^t-1] Ratificata dalla Svizzera con strumento depositato il 10 dicembre 1993 Entrata in vigore per la Svizzera il 21 marzo 1994
 
-Approvata dall’Assemblea federale il 23 settembre 1993[^t-1]
-
-Ratificata dalla Svizzera con strumento depositato il 10 dicembre 1993
-
-Entrata in vigore per la Svizzera il 21 marzo 1994
-
-(Stato 1° maggio 2020)
+(Stato 27 maggio 2026)
 
 [^t-1]: [RU 1994 1051](https://fedlex.data.admin.ch/eli/oc/1994/1051_1051_1051)
 
@@ -80,9 +74,9 @@ decisi a proteggere il sistema climatico a beneficio della presente e delle futu
 
 hanno convenuto quanto segue:
 
-[^ingress-1]: [RS 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
-[^ingress-2]: [RS 0.814.02](https://fedlex.data.admin.ch/eli/cc/1988/1752_1752_1752)
-[^ingress-3]: [RS 0.814.021](https://fedlex.data.admin.ch/eli/cc/1989/477_477_477)
+[^ingress-1]: [RS 0.120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/41)
+[^ingress-2]: [RS 0.814.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3484)
+[^ingress-3]: [RS 0.814.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3485)
 [^ingress-4]: [RU 1993 1078](https://fedlex.data.admin.ch/eli/oc/1993/1078_1078_1078)
 
 #### Art. 1
@@ -186,7 +180,7 @@ Nell’adempimento degli obblighi stabiliti nel presente articolo, le Parti esam
 
 <sup>10.</sup> Nell’adempimento degli obblighi stabiliti dalla Convenzione, le Parti prendono in considerazione, in conformità dell’articolo 10, la situazione delle Parti, in particolare delle Parti che sono Paesi in sviluppo, le cui economie sono vulnerabili agli effetti negativi dell’attuazione di provvedimenti adottati per far fronte ai cambiamenti climatici. Tale disposizione si applica soprattutto alle Parti le cui economie dipendono in elevata misura dal reddito ricavato dalla produzione, dalla lavorazione, dall’esportazione e/o dal consumo di combustibili fossili e dei relativi prodotti ad elevato potere calorico, e/o dall’uso di combustibili fossili che tali Paesi molto difficilmente possono sostituire con energie altenative.
 
-[^4-1]: [RS 0.814.021](https://fedlex.data.admin.ch/eli/cc/1989/477_477_477)
+[^4-1]: [RS 0.814.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3485)
 [^4-2]: Incluse le politiche e le misure adottate da organizzazioni regionali d’integrazione economica.
 
 #### Art. 5
@@ -361,7 +355,7 @@ Ciascuna Parte che è un Paese sviluppato e ciascuna altra Parte elencata nell�
 
 <sup>10.</sup> Fatto salvo il disposto del precedente paragrafo 9 e senza pregiudizio per la facoltà di qualsiasi Parte di rendere pubblica in qualsiasi momento la sua comunicazione, il segretariato rende pubbliche le comunicazioni ricevute dalle Parti a norma del presente articolo, quando esse sono sottoposte alla Conferenza delle Parti.
 
-[^12-1]: [RS 0.814.021](https://fedlex.data.admin.ch/eli/cc/1989/477_477_477)
+[^12-1]: [RS 0.814.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3485)
 
 #### Art. 13
 
@@ -458,7 +452,7 @@ Il segretario generale delle Nazioni Unite è il depositario della Convenzione e
 
 La presente Convenzione è aperta alla firma degli Stati membri delle Nazioni Unite o delle agenzie specializzate delle Nazioni Unite, degli Stati che sono Parti allo statuto della Corte internazionale di giustizia[^20-1] e delle organizzazioni regionali di integrazione economica a Rio de Janeiro, durante la Conferenza delle Nazioni Unite sull’ambiente e lo sviluppo, e successivamente alla sede delle Nazioni Unite a New York dal 20 giugno 1992 al 19 giugno 1993.
 
-[^20-1]: [RS 0.193.501](https://fedlex.data.admin.ch/eli/cc/1948/1048_1037_1010)
+[^20-1]: [RS 0.193.501](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/809)
 
 #### Art. 21
 
@@ -512,7 +506,9 @@ Non possono essere fatte riserve alla Convenzione.
 
 L’originale della presente Convenzione, di cui i testi in lingua araba, in lingua cinese, in lingua inglese, in lingua francese, in lingua russa e in lingua spagnola fanno ugualmente fede, deve essere depositato presso il Segretario generale delle Nazioni Unite.
 
-*In fede di che,* i sottoscritti debitamente autorizzati a tal fine, hanno firmato la presente Convenzione. Fatto a New York, il nove maggio millenovecentonovantadue. (Seguono le firme)
+*In fede di che,* i sottoscritti debitamente autorizzati a tal fine, hanno firmato la presente Convenzione. Fatto a New York, il nove maggio millenovecentonovantadue.
+
+(*Seguono le firme*)
 
 Allegato I[^t-2]
 
@@ -545,8 +541,6 @@ Allegato I[^t-2]
 [^t-2]: Aggiornato delle mod. adottata l’11 dic. 1997 ([RU 2005 1581](https://fedlex.data.admin.ch/eli/oc/2005/240)) e l’11 dic. 2011, in vigore per la Svizzera dal 9 gen. 2013 ([RU 2013 2037](https://fedlex.data.admin.ch/eli/oc/2013/424)).
 
 Allegato II
-
-Australia
 
 Austria
 
@@ -598,7 +592,7 @@ Svizzera
 
 Turchia
 
-Campo d’applicazione il 1<sup>o</sup> maggio 2020[^t-3]
+Campo d’applicazione il 27 maggio 2026[^t-3]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A) Dichiarazione di successione (S)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -691,7 +685,6 @@ Campo d’applicazione il 1<sup>o</sup> maggio 2020[^t-3]
 <tr><td>Iraq</td><td>28 luglio</td><td>2009 A</td><td>26 ottobre</td><td>2009</td></tr>
 <tr><td>Irlanda</td><td>20 aprile</td><td>1994</td><td>19 luglio</td><td>1994</td></tr>
 <tr><td>Islanda</td><td>16 giugno</td><td>1993</td><td>21 marzo</td><td>1994</td></tr>
-<tr><td>Isole Cook</td><td>20 aprile</td><td>1993</td><td>21 marzo</td><td>1994</td></tr>
 <tr><td>Isole Marshall</td><td>8 ottobre</td><td>1992</td><td>21 marzo</td><td>1994</td></tr>
 <tr><td>Israele<sup>\*</sup></td><td>4 giugno</td><td>1996</td><td>2 settembre</td><td>1996</td></tr>
 <tr><td>Italia</td><td>15 aprile</td><td>1994</td><td>14 luglio</td><td>1994</td></tr>
@@ -733,9 +726,10 @@ Campo d’applicazione il 1<sup>o</sup> maggio 2020[^t-3]
 <tr><td>Nicaragua</td><td>31 ottobre</td><td>1995</td><td>29 gennaio</td><td>1996</td></tr>
 <tr><td>Niger</td><td>25 luglio</td><td>1995</td><td>23 ottobre</td><td>1995</td></tr>
 <tr><td>Nigeria</td><td>29 agosto</td><td>1994</td><td>27 novembre</td><td>1994</td></tr>
-<tr><td>Niue</td><td>28 febbraio</td><td>1996 A</td><td>28 maggio</td><td>1996</td></tr>
 <tr><td>Norvegia</td><td>9 luglio</td><td>1993</td><td>21 marzo</td><td>1994</td></tr>
 <tr><td>Nuova Zelanda</td><td>16 settembre</td><td>1993</td><td>21 marzo</td><td>1994</td></tr>
+<tr><td>Isole Cook</td><td>20 aprile</td><td>1993</td><td>21 marzo</td><td>1994</td></tr>
+<tr><td>Niue</td><td>28 febbraio</td><td>1996 A</td><td>28 maggio</td><td>1996</td></tr>
 <tr><td>Tokelau</td><td>13 novembre</td><td>2017</td><td>13 novembre</td><td>2017</td></tr>
 <tr><td>Oman</td><td>8 febbraio</td><td>1995</td><td>9 maggio</td><td>1995</td></tr>
 <tr><td>Paesi Bassi<sup>\*</sup> <sup>b</sup></td><td>20 dicembre</td><td>1993</td><td>21 marzo</td><td>1994</td></tr>
@@ -768,6 +762,7 @@ Campo d’applicazione il 1<sup>o</sup> maggio 2020[^t-3]
 <tr><td>Samoa</td><td>29 novembre</td><td>1994</td><td>27 febbraio</td><td>1995</td></tr>
 <tr><td>San Marino</td><td>28 ottobre</td><td>1994</td><td>26 gennaio</td><td>1995</td></tr>
 <tr><td>São Tomé e Príncipe</td><td>29 settembre</td><td>1999</td><td>28 dicembre</td><td>1999</td></tr>
+<tr><td>Santa Sede<sup>\*</sup></td><td>6 luglio</td><td>2022 A</td><td>4 ottobre</td><td>2022</td></tr>
 <tr><td>Seicelle</td><td>22 settembre</td><td>1992</td><td>21 marzo</td><td>1994</td></tr>
 <tr><td>Senegal</td><td>17 ottobre</td><td>1994</td><td>15 gennaio</td><td>1995</td></tr>
 <tr><td>Serbia</td><td>12 marzo</td><td>2001 A</td><td>12 marzo</td><td>2001</td></tr>
@@ -779,7 +774,6 @@ Campo d’applicazione il 1<sup>o</sup> maggio 2020[^t-3]
 <tr><td>Somalia</td><td>11 settembre</td><td>2009 A</td><td>10 dicembre</td><td>2009</td></tr>
 <tr><td>Spagna</td><td>21 dicembre</td><td>1993</td><td>21 marzo</td><td>1994</td></tr>
 <tr><td>Sri Lanka</td><td>23 novembre</td><td>1993</td><td>21 marzo</td><td>1994</td></tr>
-<tr><td>Stati Uniti d’America<sup>\*</sup></td><td>15 ottobre</td><td>1992</td><td>21 marzo</td><td>1994</td></tr>
 <tr><td>Sudafrica</td><td>29 agosto</td><td>1997</td><td>27 novembre</td><td>1997</td></tr>
 <tr><td>Sudan</td><td>19 novembre</td><td>1993</td><td>21 marzo</td><td>1994</td></tr>
 <tr><td>Sudan del Sud</td><td>17 febbraio</td><td>2014 A</td><td>18 maggio</td><td>2014</td></tr>
@@ -809,7 +803,7 @@ Campo d’applicazione il 1<sup>o</sup> maggio 2020[^t-3]
 <tr><td>Yemen</td><td>21 febbraio</td><td>1996</td><td>21 maggio</td><td>1996</td></tr>
 <tr><td>Zambia</td><td>28 maggio</td><td>1993</td><td>21 marzo</td><td>1994</td></tr>
 <tr><td>Zimbabwe</td><td>3 novembre</td><td>1992</td><td>21 marzo</td><td>1994</td></tr>
-<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e dichiarazioni non sono pubblicate nella RU. Il testo, francese ed inglese, può essere consultato sul sito Internet dell’Organizzazione delle Nazioni Unite (ONU): [http://treaties.un.org](http://treaties.un.org/) oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna. <sup>a</sup> Dal 28 giu. 1999 al 19 dic. 1999 la Conv. era applicabile a Macao in base a una dichiarazione d’estensione territoriale del Portogallo. Il 20 dic. 1999 Macao è diventata una Regione amministrativa speciale (RAS) della Repubblica Popolare Cinese. In virtù della dichiarazione cinese de 15 dic. 1999 la Conv. è applicabile dal 20 dic. 1999 anche alla RAS Macao. <sup>b</sup> Per il Regno in Europa.</td></tr>
+<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e le dichiarazioni non sono pubblicate nella RU. Il testo, in francese e inglese, può essere consultato sul sito Internet dell’Organizzazione delle Nazioni Unite (ONU): [https://treaties.un.org](https://treaties.un.org/) oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna. <sup>a</sup> Dal 28 giu. 1999 al 19 dic. 1999 la Conv. era applicabile a Macao in base a una dichiarazione d’estensione territoriale del Portogallo. Il 20 dic. 1999 Macao è diventata una Regione amministrativa speciale (RAS) della Repubblica Popolare Cinese. In virtù della dichiarazione cinese de 15 dic. 1999 la Conv. è applicabile dal 20 dic. 1999 anche alla RAS Macao. <sup>b</sup> Per il Regno in Europa.</td></tr>
 </table>
 
-[^t-3]: [RU 1994 1052](https://fedlex.data.admin.ch/eli/oc/1994/1052_1052_1052), [2005 1581](https://fedlex.data.admin.ch/eli/oc/2005/240), [2007 4469](https://fedlex.data.admin.ch/eli/oc/2007/629), [2010 583](https://fedlex.data.admin.ch/eli/oc/2010/85), [2013 3533](https://fedlex.data.admin.ch/eli/oc/2013/660), [2017 3831](https://fedlex.data.admin.ch/eli/oc/2017/456)e [2020 1579](https://fedlex.data.admin.ch/eli/oc/2020/320). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
+[^t-3]: [RU 1994 1052](https://fedlex.data.admin.ch/eli/oc/1994/1052_1052_1052); [2005 1581](https://fedlex.data.admin.ch/eli/oc/2005/240); [2007 4469](https://fedlex.data.admin.ch/eli/oc/2007/629); [2010 583](https://fedlex.data.admin.ch/eli/oc/2010/85); [2013 3533](https://fedlex.data.admin.ch/eli/oc/2013/660); [2017 3831](https://fedlex.data.admin.ch/eli/oc/2017/456); [2020 1579](https://fedlex.data.admin.ch/eli/oc/2020/320); [2026 271](https://fedlex.data.admin.ch/eli/oc/2026/271). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty).

@@ -3,11 +3,11 @@ sr: "0.814.01"
 title: Convention-cadre des Nations Unies du 9 mai 1992 sur les changements climatiques (avec annexes)
 eli: "https://fedlex.data.admin.ch/eli/cc/1994/1052_1052_1052"
 language: fr
-version: 2020-05-01
+version: 2026-05-27
 adopted: 1992-05-09
 in_force: 1994-03-21
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1052_1052_1052/20200501/fr/xml/fedlex-data-admin-ch-eli-cc-1994-1052_1052_1052-20200501-fr-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1994/1052_1052_1052/20200501/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1052_1052_1052/20260527/fr/xml/fedlex-data-admin-ch-eli-cc-1994-1052_1052_1052-20260527-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1994/1052_1052_1052/20260527/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -26,7 +26,7 @@ Instrument de ratification déposé par la Suisse le 10 décembre 1993
 
 Entrée en vigueur pour la Suisse le 21 mars 1994
 
-(Etat le 1<sup>er</sup> mai 2020)
+(État le 27 mai 2026)
 
 [^t-1]: [RO 1994 1051](https://fedlex.data.admin.ch/eli/oc/1994/1051_1051_1051)
 
@@ -80,9 +80,9 @@ résolues à préserver le système climatique pour les générations présentes
 
 sont convenues de ce qui suit:
 
-[^ingress-1]: [RS 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
-[^ingress-2]: [RS 0.814.02](https://fedlex.data.admin.ch/eli/cc/1988/1752_1752_1752)
-[^ingress-3]: [RS 0.814.021](https://fedlex.data.admin.ch/eli/cc/1989/477_477_477)
+[^ingress-1]: [RS 0.120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/41)
+[^ingress-2]: [RS 0.814.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3484)
+[^ingress-3]: [RS 0.814.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3485)
 [^ingress-4]: [RO 1993 1078](https://fedlex.data.admin.ch/eli/oc/1993/1078_1078_1078)
 
 #### Art. 1
@@ -184,7 +184,7 @@ Aux fins de l’exécution des engagements énoncés dans le présent article, l
 
 <sup>10.</sup> Dans l’exécution des engagements découlant de la Convention, les Parties tiennent compte, conformément à l’art. 10, de la situation de celles d’entre elles, notamment les pays en développement, dont l’économie est vulnérable aux effets néfastes des mesures de riposte aux changements climatiques. Tel est notamment le cas des Parties dont l’économie est fortement tributaire soit des revenus de la production, de la transformation et de l’exportation de combustibles fossiles et de produits apparentés à forte intensité énergétique, soit de la consommation desdits combustibles et produits, soit de l’utilisation de combustibles fossiles qu’il est très difficile à ces Parties de remplacer par des produits de substitution.
 
-[^4-1]: [RS 0.814.021](https://fedlex.data.admin.ch/eli/cc/1989/477_477_477)
+[^4-1]: [RS 0.814.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3485)
 [^4-2]: Ce terme s’entend aussi des politiques et mesures adoptées par les organisations d’intégration économique régionale.
 
 #### Art. 5
@@ -359,7 +359,7 @@ Chacun des pays développés Parties et chacune des autres Parties inscrites à 
 
 <sup>10.</sup> Sous réserve du par. 9 et sans préjudice de la possibilité pour toute Partie de rendre sa communication publique en tout temps, les communications présentées par les Parties en application du présent article sont mises par le secrétariat à la disposition du public en même temps qu’elles sont soumises à la Conférence des Parties.
 
-[^12-1]: [RS 0.814.021](https://fedlex.data.admin.ch/eli/cc/1989/477_477_477)
+[^12-1]: [RS 0.814.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3485)
 
 #### Art. 13
 
@@ -456,7 +456,7 @@ Le Secrétaire général de l’Organisation des Nations Unies est le Dépositai
 
 La présente Convention est ouverte à la signature des États Membres de l’Organisation des Nations Unies ou membres d’une institution spécialisée des Nations Unies ou parties au Statut de la Cour internationale de Justice[^20-1], ainsi que des organisations d’intégration économique régionale, à Rio de Janeiro, pendant la Conférence des Nations Unies sur l’environnement et le développement, puis au Siège de l’Organisation des Nations Unies, à New York, du 20 juin 1992 au 19 juin 1993.
 
-[^20-1]: [RS 0.193.501](https://fedlex.data.admin.ch/eli/cc/1948/1048_1037_1010)
+[^20-1]: [RS 0.193.501](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/809)
 
 #### Art. 21
 
@@ -596,7 +596,7 @@ Suisse
 
 Turquie
 
-Champ d’application le 1<sup>er</sup> mai 2020[^t-3]
+Champ d’application le 27 mai 2026[^t-3]
 
 <table>
 <tr><th>États parties</th><th>Ratification Adhésion (A) Déclaration de succession (S)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
@@ -647,7 +647,7 @@ Champ d’application le 1<sup>er</sup> mai 2020[^t-3]
 <tr><td>Corée (Nord)</td><td>5 décembre</td><td>1994</td><td>5 mars</td><td>1995</td></tr>
 <tr><td>Corée (Sud)</td><td>14 décembre</td><td>1993</td><td>21 mars</td><td>1994</td></tr>
 <tr><td>Costa Rica</td><td>26 août</td><td>1994</td><td>24 novembre</td><td>1994</td></tr>
-<tr><td>Côte d'Ivoire</td><td>29 novembre</td><td>1994</td><td>27 février</td><td>1995</td></tr>
+<tr><td>Côte d’Ivoire</td><td>29 novembre</td><td>1994</td><td>27 février</td><td>1995</td></tr>
 <tr><td>Croatie<sup>\*</sup></td><td>8 avril</td><td>1996</td><td>7 juillet</td><td>1996</td></tr>
 <tr><td>Cuba<sup>\*</sup></td><td>5 janvier</td><td>1994</td><td>5 avril</td><td>1994</td></tr>
 <tr><td>Danemark</td><td>21 décembre</td><td>1993</td><td>21 mars</td><td>1994</td></tr>
@@ -661,7 +661,6 @@ Champ d’application le 1<sup>er</sup> mai 2020[^t-3]
 <tr><td>Espagne</td><td>21 décembre</td><td>1993</td><td>21 mars</td><td>1994</td></tr>
 <tr><td>Estonie</td><td>27 juillet</td><td>1994</td><td>25 octobre</td><td>1994</td></tr>
 <tr><td>Eswatini</td><td>7 octobre</td><td>1996</td><td>5 janvier</td><td>1997</td></tr>
-<tr><td>États-Unis\*</td><td>15 octobre</td><td>1992</td><td>21 mars</td><td>1994</td></tr>
 <tr><td>Éthiopie</td><td>5 avril</td><td>1994</td><td>4 juillet</td><td>1994</td></tr>
 <tr><td>Fidji</td><td>25 février</td><td>1993</td><td>21 mars</td><td>1994</td></tr>
 <tr><td>Finlande</td><td>3 mai</td><td>1994</td><td>1<sup>er</sup> août</td><td>1994</td></tr>
@@ -680,7 +679,6 @@ Champ d’application le 1<sup>er</sup> mai 2020[^t-3]
 <tr><td>Haïti</td><td>25 septembre</td><td>1996</td><td>24 décembre</td><td>1996</td></tr>
 <tr><td>Honduras</td><td>19 octobre</td><td>1995</td><td>17 janvier</td><td>1996</td></tr>
 <tr><td>Hongrie<sup>\*</sup></td><td>24 février</td><td>1994</td><td>25 mai</td><td>1994</td></tr>
-<tr><td>Îles Cook</td><td>20 avril</td><td>1993</td><td>21 mars</td><td>1994</td></tr>
 <tr><td>Îles Marshall</td><td>8 octobre</td><td>1992</td><td>21 mars</td><td>1994</td></tr>
 <tr><td>Îles Salomon<sup>\*</sup></td><td>28 décembre</td><td>1994</td><td>28 mars</td><td>1995</td></tr>
 <tr><td>Inde</td><td>1<sup>er</sup> novembre</td><td>1993</td><td>21 mars</td><td>1994</td></tr>
@@ -732,9 +730,10 @@ Champ d’application le 1<sup>er</sup> mai 2020[^t-3]
 <tr><td>Nicaragua</td><td>31 octobre</td><td>1995</td><td>29 janvier</td><td>1996</td></tr>
 <tr><td>Niger</td><td>25 juillet</td><td>1995</td><td>23 octobre</td><td>1995</td></tr>
 <tr><td>Nigéria</td><td>29 août</td><td>1994</td><td>27 novembre</td><td>1994</td></tr>
-<tr><td>Nioué</td><td>28 février</td><td>1996 A</td><td>28 mai</td><td>1996</td></tr>
 <tr><td>Norvège</td><td>9 juillet</td><td>1993</td><td>21 mars</td><td>1994</td></tr>
 <tr><td>Nouvelle-Zélande</td><td>16 septembre</td><td>1993</td><td>21 mars</td><td>1994</td></tr>
+<tr><td>Îles Cook</td><td>20 avril</td><td>1993</td><td>21 mars</td><td>1994</td></tr>
+<tr><td>Nioué</td><td>28 février</td><td>1996 A</td><td>28 mai</td><td>1996</td></tr>
 <tr><td>Tokélaou</td><td>13 novembre</td><td>2017</td><td>13 novembre</td><td>2017</td></tr>
 <tr><td>Oman</td><td>8 février</td><td>1995</td><td>9 mai</td><td>1995</td></tr>
 <tr><td>Ouganda</td><td>8 septembre</td><td>1993</td><td>21 mars</td><td>1994</td></tr>
@@ -765,10 +764,11 @@ Champ d’application le 1<sup>er</sup> mai 2020[^t-3]
 <tr><td>[tab] Jersey</td><td>8 décembre</td><td>1993</td><td>21 mars</td><td>1994</td></tr>
 <tr><td>Russie</td><td>28 décembre</td><td>1994</td><td>28 mars</td><td>1995</td></tr>
 <tr><td>Rwanda</td><td>18 août</td><td>1998</td><td>16 novembre</td><td>1998</td></tr>
-<tr><td>Sainte-Lucie</td><td>14 juin</td><td>1993</td><td>21 mars</td><td>1994</td></tr>
 <tr><td>Saint-Kitts-et-Nevis</td><td>7 janvier</td><td>1993</td><td>21 mars</td><td>1994</td></tr>
 <tr><td>Saint-Marin</td><td>28 octobre</td><td>1994</td><td>26 janvier</td><td>1995</td></tr>
+<tr><td>Saint-Siège\*</td><td>6 juillet</td><td>2022 A</td><td>4 octobre</td><td>2022</td></tr>
 <tr><td>Saint-Vincent-et-les Grenadines</td><td>2 décembre</td><td>1996 A</td><td>2 mars</td><td>1997</td></tr>
+<tr><td>Sainte-Lucie</td><td>14 juin</td><td>1993</td><td>21 mars</td><td>1994</td></tr>
 <tr><td>Samoa</td><td>29 novembre</td><td>1994</td><td>27 février</td><td>1995</td></tr>
 <tr><td>Sao Tomé-et-Principe</td><td>29 septembre</td><td>1999</td><td>28 décembre</td><td>1999</td></tr>
 <tr><td>Sénégal</td><td>17 octobre</td><td>1994</td><td>15 janvier</td><td>1995</td></tr>
@@ -810,4 +810,4 @@ Champ d’application le 1<sup>er</sup> mai 2020[^t-3]
 <tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet de l’Organisation des Nations Unies (ONU): [http://treaties.un.org](http://treaties.un.org) ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> Du 28 juin 1999 au 19 déc. 1999, la Conv. était applicable à Macao sur la base d’une déclaration d’extension territoriale du Portugal. À partir du 20 déc. 1999, Macao est devenue une Région administrative spéciale (RAS) de la République populaire de Chine. En vertu de la déclaration chinoise du 15 déc. 1999, la Conv. est également applicable à la RAS Macao à partir du 20 déc. 1999. <sup>b</sup> Pour le Royaume en Europe</td></tr>
 </table>
 
-[^t-3]: [RO 1994 1052](https://fedlex.data.admin.ch/eli/oc/1994/1052_1052_1052), [2005 1581](https://fedlex.data.admin.ch/eli/oc/2005/240), [2007 4469](https://fedlex.data.admin.ch/eli/oc/2007/629), [2010 583](https://fedlex.data.admin.ch/eli/oc/2010/85), [2013 3533](https://fedlex.data.admin.ch/eli/oc/2013/660), [2017 3831](https://fedlex.data.admin.ch/eli/oc/2017/456), [2020 1579](https://fedlex.data.admin.ch/eli/oc/2020/320). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).
+[^t-3]: [RO 1994 1052](https://fedlex.data.admin.ch/eli/oc/1994/1052_1052_1052); [2005 1581](https://fedlex.data.admin.ch/eli/oc/2005/240); [2007 4469](https://fedlex.data.admin.ch/eli/oc/2007/629); [2010 583](https://fedlex.data.admin.ch/eli/oc/2010/85); [2013 3533](https://fedlex.data.admin.ch/eli/oc/2013/660); [2017 3831](https://fedlex.data.admin.ch/eli/oc/2017/456); [2020 1579](https://fedlex.data.admin.ch/eli/oc/2020/320); [2026 271](https://fedlex.data.admin.ch/eli/oc/2026/271). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).
