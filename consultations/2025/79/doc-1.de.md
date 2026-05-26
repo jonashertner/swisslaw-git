@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Änderung der Verordnung über die Krankenversicherung (KVV) und der Krankenpflege-Leistungsverordnung (KLV) (Umsetzung des Kostendämpfungspakets 2 im Arzneimittelbereich)
 document: Vernehmlassungsvorlage KVV
 language: de
