@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Teilrevision der Bundesverfassung und Änderung des Bundesgesetzes über die polizeilichen Informationssysteme des Bundes
 document: Vernehmlassungsvorlage BV
 language: de

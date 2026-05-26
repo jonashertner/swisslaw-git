@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Revisione parziale della Costituzione federale e modifica della legge federale sui sistemi d’informazione di polizia della Confederazione
 document: Progetto posto in consultazione 3
 language: it

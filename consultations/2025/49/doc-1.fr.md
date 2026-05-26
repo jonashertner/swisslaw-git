@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Révision partielle de la Constitution et modification de la loi fédérale sur les systèmes d’information de police de la Confédération
 document: Projet mis en consultation 2
 language: fr
