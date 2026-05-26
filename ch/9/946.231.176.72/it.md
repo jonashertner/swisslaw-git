@@ -3,18 +3,18 @@ sr: "946.231.176.72"
 title: Ordinanza del 4 marzo 2022 che istituisce provvedimenti in relazione alla situazione in Ucraina
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/151"
 language: it
-version: 2026-05-26
+version: 2026-05-27
 adopted: 2022-03-04
 in_force: 2022-03-04
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/151/20260526/it/xml/fedlex-data-admin-ch-eli-cc-2022-151-20260526-it-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/151/20260526/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/151/20260527/it/xml/fedlex-data-admin-ch-eli-cc-2022-151-20260527-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/151/20260527/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza che istituisce provvedimenti in relazione alla situazione in Ucraina
 
-del 4 marzo 2022 (Stato 26 maggio 2026)
+del 4 marzo 2022 (Stato 27 maggio 2026)
 
 Il Consiglio federale svizzero,
 
@@ -1931,7 +1931,13 @@ Le seguenti attività sono vietate:
   - 1\. qualsiasi persona giuridica, impresa o organizzazione formalmente registrata nelle zone economiche speciali, nelle zone di innovazione o nelle zone preferenziali della Federazione Russa di cui all’allegato 14*b* numero 1 o 2 o che ha lì la propria sede, la propria sede principale o il proprio stabilimento, o
   - 2\. qualsiasi persona giuridica, impresa o organizzazione di proprietà o sotto il controllo di persone giuridiche, imprese o organizzazioni di cui al numero 1;
 
-- b. …
+- b.
+
+  mantenere una partecipazione esistente nella proprietà o nel controllo di:
+
+  - 1\. qualsiasi persona giuridica, impresa o organizzazione formalmente registrata nelle zone economiche speciali, nelle zone di innovazione o nelle zone preferenziali della Federazione Russa di cui all’allegato 14*b* numero 1 che ha lì la propria sede, la propria sede principale o il proprio stabilimento, o
+  - 2\. qualsiasi persona giuridica, impresa o organizzazione di proprietà o sotto il controllo di persone giuridiche, imprese o organizzazioni di cui al numero 1;
+
 - c.
 
   costituire joint venture:
@@ -1939,9 +1945,15 @@ Le seguenti attività sono vietate:
   - 1\. nelle zone economiche speciali, nelle zone di innovazione o nelle zone preferenziali della Federazione Russa di cui all’allegato 14*b* numero 1 o 2,
   - 2\. con persone giuridiche, imprese o organizzazioni di cui alla lettera a;
 
-- d. …
+- d.
+
+  gestire joint venture esistenti:
+
+  - 1\. nelle zone economiche speciali, nelle zone di innovazione o nelle zone preferenziali della Federazione Russa di cui all’allegato 14*b* numero 1,
+  - 2\. con persone giuridiche, imprese o organizzazioni di cui alla lettera b;
+
 - e. costituire nuove società controllate o nuovi uffici di rappresentanza nelle zone economiche speciali, nelle zone di innovazione o nelle zone preferenziali della Federazione Russa di cui all’allegato 14*b* numero 1 o 2;
-- f. …
+- f. gestire società controllate o uffici di rappresentanza esistenti nelle zone economiche speciali, nelle zone di innovazione o nelle zone preferenziali della Federazione Russa di cui all’allegato 14*b* numero 1;
 - g.
 
   concludere nuovi contratti o accordi riguardanti:
@@ -1949,7 +1961,13 @@ Le seguenti attività sono vietate:
   - 1\. la fornitura di beni a persone giuridiche, imprese o organizzazioni di cui alla lettera a,
   - 2\. la fornitura di servizi e la messa a disposizione dei relativi diritti di proprietà intellettuale o di segreti commerciali a persone giuridiche, imprese o organizzazioni di cui alla lettera a;
 
-- h. …
+- h.
+
+  mantenere i contratti o gli accordi in essere riguardanti:
+
+  - 1\. la fornitura di beni a persone giuridiche, imprese o organizzazioni di cui alla lettera b,
+  - 2\. la fornitura di servizi e la messa a disposizione dei relativi diritti di proprietà intellettuale o di segreti commerciali a persone giuridiche, imprese o organizzazioni di cui alla lettera b;
+
 - i.
 
   concedere nuovi prestiti o crediti o fornire in altro modo finanziamenti, incluso capitale proprio, a:

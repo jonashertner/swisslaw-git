@@ -3,18 +3,18 @@ sr: "946.231.176.72"
 title: Ordonnance du 4 mars 2022 instituant des mesures en lien avec la situation en Ukraine
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/151"
 language: fr
-version: 2026-05-26
+version: 2026-05-27
 adopted: 2022-03-04
 in_force: 2022-03-04
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/151/20260526/fr/xml/fedlex-data-admin-ch-eli-cc-2022-151-20260526-fr-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/151/20260526/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/151/20260527/fr/xml/fedlex-data-admin-ch-eli-cc-2022-151-20260527-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/151/20260527/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance instituant des mesures en lien avec la situation en Ukraine
 
-du 4 mars 2022 (État le 26 mai 2026)
+du 4 mars 2022 (État le 27 mai 2026)
 
 Le Conseil fédéral suisse,
 
@@ -1926,7 +1926,13 @@ Les activités suivantes sont interdites:
   - 1\. de personnes morales, d’entreprises ou d’entités qui sont enregistrées comme résidentes des zones économiques spéciales, des zones d’innovation ou des zones préférentielles de la Fédération de Russie visées à l’annexe 14*b*, ch. 1 ou 2, ou dont le siège social, le principal établissement ou l’établissement stable est situé dans ces zones,
   - 2\. de personnes morales, d’entreprises ou d’entités qui sont détenues ou contrôlées par les personnes morales, entreprises ou entités visées au ch. 1;
 
-- b. …
+- b.
+
+  la conservation de toute participation existante dans la propriété ou le contrôle:
+
+  - 1\. de personnes morales, d’entreprises ou d’entités qui sont enregistrées comme résidentes des zones économiques spéciales, des zones d’innovation ou des zones préférentielles de la Fédération de Russie visées à l’annexe 14*b*, ch. 1, ou dont le siège social, le principal établissement ou l’établissement stable est situé dans ces zones,
+  - 2\. de personnes morales, d’entreprises ou d’entités qui sont détenues ou contrôlées par les personnes morales, entreprises ou entités visées au ch. 1;
+
 - c.
 
   la création d’une nouvelle coentreprise:
@@ -1934,9 +1940,15 @@ Les activités suivantes sont interdites:
   - 1\. dans les zones économiques spéciales, les zones d’innovation et les zones préférentielles de la Fédération de Russie visées à l’annexe 14*b*, ch. 1 ou 2,
   - 2\. avec les personnes morales, entreprises ou entités visées à la let. a;
 
-- d. …
+- d.
+
+  la conservation d’une coentreprise existante:
+
+  - 1\. dans les zones économiques spéciales, les zones d’innovation ou les zones préférentielles de la Fédération de Russie visées à l’annexe 14*b*, ch. 1,
+  - 2\. avec les personnes morales, entreprises ou entités visées à la let. b;
+
 - e. la création de nouveaux établissements ou bureaux de représentation dans les zones économiques spéciales, les zones d’innovation ou les zones préférentielles visées à l’annexe 14*b*, ch. 1 ou 2;
-- f. …
+- f. la conservation d’établissements ou de bureaux de représentation existants dans les zones économiques spéciales, les zones d’innovation ou les zones préférentielles de la Fédération de Russie visées à l’annexe 14*b*, ch. 1;
 - g.
 
   la conclusion de nouveaux contrats ou accords portant sur:
@@ -1944,7 +1956,13 @@ Les activités suivantes sont interdites:
   - 1\. la fourniture de biens aux personnes morales, entreprises ou entités visées à la let. a,
   - 2\. la fourniture de services ou la mise à disposition de droits de propriété intellectuelle ou de secrets d’affaires y afférents aux personnes morales, entreprises ou entités visées à la let. a;
 
-- h. …
+- h.
+
+  la poursuite de contrats ou d’accords existants portant sur:
+
+  - 1\. la fourniture de biens aux personnes morales, entreprises ou entités visées à la let. b,
+  - 2\. la fourniture de services ou la mise à disposition de droits de propriété intellectuelle ou de secrets d’affaires y afférents aux personnes morales, entreprises ou entités visées à la let. b;
+
 - i.
 
   l’octroi ou la mise à disposition de prêts, de crédits ou de tout autre financement, y compris une participation au capital:

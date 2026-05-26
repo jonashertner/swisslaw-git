@@ -3,18 +3,18 @@ sr: "946.231.176.72"
 title: Verordnung vom 4. März 2022 über Massnahmen im Zusammenhang mit der Situation in der Ukraine
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/151"
 language: de
-version: 2026-05-26
+version: 2026-05-27
 adopted: 2022-03-04
 in_force: 2022-03-04
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/151/20260526/de/xml/fedlex-data-admin-ch-eli-cc-2022-151-20260526-de-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/151/20260526/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/151/20260527/de/xml/fedlex-data-admin-ch-eli-cc-2022-151-20260527-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/151/20260527/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über Massnahmen im Zusammenhang mit der Situation in der Ukraine
 
-vom 4. März 2022 (Stand am 26. Mai 2026)
+vom 4. März 2022 (Stand am 27. Mai 2026)
 
 Der Schweizerische Bundesrat,
 
@@ -1935,7 +1935,13 @@ Die folgenden Tätigkeiten sind verboten:
   - 1\. juristischen Personen, Unternehmen oder Organisationen, die als in den Sonderwirtschafts-, Innovations- oder Präferenzzonen der Russischen Föderation nach Anhang 14*b* Ziffer 1 oder 2 ansässig registriert sind oder dort ihren Sitz, ihre Hauptniederlassung oder ihre Betriebsstätte haben,
   - 2\. juristischen Personen, Unternehmen oder Organisationen im Eigentum oder unter Kontrolle von juristischen Personen, Unternehmen oder Organisationen nach Ziffer 1;
 
-- b. …
+- b.
+
+  die Beibehaltung einer bestehenden Beteiligung am Eigentum oder an der Kontrolle von:
+
+  - 1\. juristischen Personen, Unternehmen oder Organisationen, die als in den Sonderwirtschafts-, Innovations- oder Präferenzzonen der Russischen Föderation nach Anhang 14*b* Ziffer 1 ansässig registriert sind oder dort ihren Sitz, ihre Hauptniederlassung oder ihre Betriebsstätte haben,
+  - 2\. juristischen Personen, Unternehmen oder Organisationen im Eigentum oder unter Kontrolle von juristischen Personen, Unternehmen oder Organisationen nach Ziffer 1;
+
 - c.
 
   die Gründung eines neuen Joint Venture:
@@ -1943,9 +1949,15 @@ Die folgenden Tätigkeiten sind verboten:
   - 1\. in den Sonderwirtschafts-, Innovations- oder Präferenzzonen der Russischen Föderation nach Anhang 14*b* Ziffer 1 oder 2,
   - 2\. mit juristischen Personen, Unternehmen oder Organisationen nach Buchstabe a;
 
-- d. …
+- d.
+
+  die Weiterführung eines bestehenden Joint Venture:
+
+  - 1\. in den Sonderwirtschafts-, Innovations- oder Präferenzzonen der Russischen Föderation nach Anhang 14*b* Ziffer 1,
+  - 2\. mit juristischen Personen, Unternehmen oder Organisationen nach Buchstabe b;
+
 - e. die Gründung neuer Niederlassungen oder Repräsentationsbüros in den Sonderwirtschafts-, Innovations- oder Präferenzzonen der Russischen Föderation nach Anhang 14*b* Ziffer 1 oder 2;
-- f. …
+- f. die Weiterführung bestehender Niederlassungen oder Repräsentationsbüros in den Sonderwirtschafts-, Innovations- oder Präferenzzonen der Russischen Föderation nach Anhang 14*b* Ziffer 1;
 - g.
 
   der Abschluss neuer Verträge oder Vereinbarungen über:
@@ -1953,7 +1965,13 @@ Die folgenden Tätigkeiten sind verboten:
   - 1\. die Lieferung von Gütern an juristische Personen, Unternehmen oder Organisationen nach Buchstabe a,
   - 2\. die Erbringung von Dienstleistungen und die Bereitstellung damit zusammenhängender Rechte des geistigen Eigentums oder von Geschäftsgeheimnissen für juristische Personen, Unternehmen oder Organisationen nach Buchstabe a;
 
-- h. …
+- h.
+
+  die Beibehaltung bestehender Verträge oder Vereinbarungen über:
+
+  - 1\. die Lieferung von Gütern an juristische Personen, Unternehmen oder Organisationen nach Buchstabe b,
+  - 2\. die Erbringung von Dienstleistungen und die Bereitstellung damit zusammenhängender Rechte des geistigen Eigentums oder von Geschäftsgeheimnissen für juristische Personen, Unternehmen oder Organisationen nach Buchstabe b;
+
 - i.
 
   die Gewährung oder Bereitstellung von Darlehen, Krediten oder sonstiger Finanzmittel, einschliesslich Eigenkapital, an:
