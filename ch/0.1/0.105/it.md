@@ -3,11 +3,11 @@ sr: "0.105"
 title: "Convenzione del 10 dicembre 1984 contro la tortura ed altre pene o trattamenti crudeli, inumani o degradanti"
 eli: "https://fedlex.data.admin.ch/eli/cc/1987/1307_1307_1307"
 language: it
-version: 2022-02-15
+version: 2026-05-28
 adopted: 1984-12-10
 in_force: 1987-06-26
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/1307_1307_1307/20220215/it/xml/fedlex-data-admin-ch-eli-cc-1987-1307_1307_1307-20220215-it-xml-15.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1987/1307_1307_1307/20220215/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/1307_1307_1307/20260528/it/xml/fedlex-data-admin-ch-eli-cc-1987-1307_1307_1307-20260528-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1987/1307_1307_1307/20260528/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -20,7 +20,7 @@ Traduzione
 
 Conclusa a Nuova York il 10 dicembre 1984 Approvata dall’Assemblea federale il 6 ottobre 1986[^t-1] Istrumento di ratificazione depositato dalla Svizzera il 2 dicembre 1986 Entrata in vigore per la Svizzera il 26 giugno 1987
 
-(Stato 15 febbraio 2022)
+(Stato 28 maggio 2026)
 
 [^t-1]: Art. 1 cpv. 1 del DF del 6 ott. 1986 ([RU 1987 1306](https://fedlex.data.admin.ch/eli/oc/1987/1306_1306_1306)).
 
@@ -326,7 +326,7 @@ Il Segretario generale dell’Organizzazione delle Nazioni Unite notificherà a 
 
 <sup>2.</sup> Il Segretario generale dell’Organizzazione delle Nazioni Unite ne trasmetterà una copia certificata conforme a tutti gli Stati.
 
-Campo d’applicazione il 15 febbraio 2022[^t-2]
+Campo d’applicazione il 28 maggio 2026[^t-2]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A) Dichiarazione di successione (S) Firmato senza riserva di ratificazione (F)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -344,7 +344,7 @@ Campo d’applicazione il 15 febbraio 2022[^t-2]
 <tr><td>Azerbaigian</td><td>16 agosto</td><td>1996 A</td><td>15 settembre</td><td>1996</td></tr>
 <tr><td>Bahamas\*</td><td>31 maggio</td><td>2018</td><td>30 giugno</td><td>2018</td></tr>
 <tr><td>Bahrein\*</td><td>6 marzo</td><td>1998 A</td><td>5 aprile</td><td>1998</td></tr>
-<tr><td>Bangladesh\*</td><td>5 ottobre</td><td>1998 A</td><td>4 novembre</td><td>1998</td></tr>
+<tr><td>Bangladesh</td><td>5 ottobre</td><td>1998 A</td><td>4 novembre</td><td>1998</td></tr>
 <tr><td>Belarus</td><td>13 marzo</td><td>1987</td><td>26 giugno</td><td>1987</td></tr>
 <tr><td>Belgio\*\*</td><td>25 giugno</td><td>1999</td><td>25 luglio</td><td>1999</td></tr>
 <tr><td>Belize</td><td>17 marzo</td><td>1986 A</td><td>26 giugno</td><td>1987</td></tr>
@@ -379,6 +379,7 @@ Campo d’applicazione il 15 febbraio 2022[^t-2]
 <tr><td>Croazia</td><td>12 ottobre</td><td>1992 S</td><td>8 ottobre</td><td>1991</td></tr>
 <tr><td>Cuba\*</td><td>17 maggio</td><td>1995</td><td>16 giugno</td><td>1995</td></tr>
 <tr><td>Danimarca\*\*</td><td>27 maggio</td><td>1987</td><td>26 giugno</td><td>1987</td></tr>
+<tr><td>Dominica\*</td><td>5 dicembre</td><td>2024 A</td><td>4 gennaio</td><td>2025</td></tr>
 <tr><td>Dominicana, Repubblica</td><td>24 gennaio</td><td>2012</td><td>23 febbraio</td><td>2012</td></tr>
 <tr><td>Ecuador\*</td><td>30 marzo</td><td>1988</td><td>29 aprile</td><td>1988</td></tr>
 <tr><td>Egitto</td><td>25 giugno</td><td>1986 A</td><td>26 giugno</td><td>1987</td></tr>
@@ -483,6 +484,7 @@ Campo d’applicazione il 15 febbraio 2022[^t-2]
 <tr><td>Ruanda</td><td>15 dicembre</td><td>2008 A</td><td>14 gennaio</td><td>2009</td></tr>
 <tr><td>Russia</td><td>3 marzo</td><td>1987</td><td>26 giugno</td><td>1987</td></tr>
 <tr><td>Saint Kitts e Nevis</td><td>21 settembre</td><td>2020 A</td><td>21 ottobre</td><td>2020</td></tr>
+<tr><td>Saint Lucia\*</td><td>12 febbraio</td><td>2026 A</td><td>14 marzo</td><td>2026</td></tr>
 <tr><td>Saint Vincent e Grenadine</td><td>1° agosto</td><td>2001 A</td><td>31 agosto</td><td>2001</td></tr>
 <tr><td>Samoa\*</td><td>28 marzo</td><td>2019 A</td><td>27 aprile</td><td>2019</td></tr>
 <tr><td>San Marino</td><td>27 novembre</td><td>2006</td><td>27 dicembre</td><td>2006</td></tr>
@@ -512,6 +514,7 @@ Campo d’applicazione il 15 febbraio 2022[^t-2]
 <tr><td>Tunisia\*</td><td>23 settembre</td><td>1988</td><td>23 ottobre</td><td>1988</td></tr>
 <tr><td>Turchia\*</td><td>2 agosto</td><td>1988</td><td>1° settembre</td><td>1988</td></tr>
 <tr><td>Turkmenistan</td><td>25 giugno</td><td>1999 A</td><td>25 luglio</td><td>1999</td></tr>
+<tr><td>Tuvalu\*</td><td>25 marzo</td><td>2024 A</td><td>24 aprile</td><td>2024</td></tr>
 <tr><td>Ucraina\*</td><td>24 febbraio</td><td>1987</td><td>26 giugno</td><td>1987</td></tr>
 <tr><td>Uganda</td><td>3 novembre</td><td>1986 A</td><td>26 giugno</td><td>1987</td></tr>
 <tr><td>Ungheria\*\*</td><td>15 aprile</td><td>1987</td><td>26 giugno</td><td>1987</td></tr>
@@ -522,10 +525,13 @@ Campo d’applicazione il 15 febbraio 2022[^t-2]
 <tr><td>Vietnam\*</td><td>5 febbraio</td><td>2015</td><td>7 marzo</td><td>2015</td></tr>
 <tr><td>Yemen</td><td>5 novembre</td><td>1991 A</td><td>5 dicembre</td><td>1991</td></tr>
 <tr><td>Zambia</td><td>7 ottobre</td><td>1998 A</td><td>6 novembre</td><td>1998</td></tr>
-<tr><td colspan="6">\* Riserve e dichiarazioni. \*\* Obiezioni. Le riserve, dichiarazioni e obiezioni, non sono pubblicate nella RU. Il testo, in francese e inglese, può essere consultato sul sito Internet dell’Organizzazione delle Nazioni Unite: [http://treaties.un.org](http://treaties.un.org/) oppure richiesto alla Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna. <sup>a</sup> Dall’8 ott. 1992 al 30 giu. 1997, la Conv. era applicabile a Hong Kong in base a una dichiarazione d’estensione territoriale del Regno Unito. Dal 1° lug. 1997, Hong Kong è diventata una Regione amministrativa speciale (RAS) della Repubblica Popolare Cinese. In virtù della dichiarazione cinese del 6 giu. 1997, la Conv. è applicabile anche alla RAS Hong Kong dal 1° lug. 1997. <sup>b</sup> Dal 28 giu. 1999 al 19 dic. 1999, la Conv. era applicabile a Macao in base a una dichiarazione d’estensione territoriale del Portogallo. Dal 20 dic. 1999, Macao è diventata una Regione amministrativa speciale (RAS) della Repubblica Popolare Cinese. In virtù della dichiarazione cinese, la Conv. è applicabile anche alla RAS Macao dal 20 dic. 1999. <sup>c</sup> Al Regno in Europa.</td></tr>
 </table>
 
-[^t-2]: [RU 1987 1307](https://fedlex.data.admin.ch/eli/oc/1987/1307_1307_1307); [1988 567](https://fedlex.data.admin.ch/eli/oc/1988/567_567_567); [1989 280](https://fedlex.data.admin.ch/eli/oc/1989/280_280_280), [2286](https://fedlex.data.admin.ch/eli/oc/1989/2286_2286_2286); [1990 789](https://fedlex.data.admin.ch/eli/oc/1990/789_789_789); [1992 660](https://fedlex.data.admin.ch/eli/oc/1992/660_660_660); [1993 1901](https://fedlex.data.admin.ch/eli/oc/1993/1901_1901_1901); [2004 2735](https://fedlex.data.admin.ch/eli/oc/2004/329); [2005 1907](https://fedlex.data.admin.ch/eli/oc/2005/323); [2006 2967](https://fedlex.data.admin.ch/eli/oc/2006/453); [2008 647](https://fedlex.data.admin.ch/eli/oc/2008/154); [2011 509](https://fedlex.data.admin.ch/eli/oc/2011/73), [6529](https://fedlex.data.admin.ch/eli/oc/2011/905); [2012 5507](https://fedlex.data.admin.ch/eli/oc/2012/630); [2015 589](https://fedlex.data.admin.ch/eli/oc/2015/90); [2016 3801](https://fedlex.data.admin.ch/eli/oc/2016/634); [2017 3749](https://fedlex.data.admin.ch/eli/oc/2017/441); [2019 1829](https://fedlex.data.admin.ch/eli/oc/2019/341); [2020 1179](https://fedlex.data.admin.ch/eli/oc/2020/217); [2022 105](https://fedlex.data.admin.ch/eli/oc/2022/105). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty).
+<table>
+<tr><td>\* Riserve e dichiarazioni. \*\* Obiezioni. Le riserve, dichiarazioni e obiezioni, non sono pubblicate nella RU. Il testo, in francese e inglese, può essere consultato sul sito Internet dell’Organizzazione delle Nazioni Unite: [http://treaties.un.org](http://treaties.un.org/) oppure richiesto alla Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna. <sup>a</sup> Dall’8 ott. 1992 al 30 giu. 1997, la Conv. era applicabile a Hong Kong in base a una dichiarazione d’estensione territoriale del Regno Unito. Dal 1° lug. 1997, Hong Kong è diventata una Regione amministrativa speciale (RAS) della Repubblica Popolare Cinese. In virtù della dichiarazione cinese del 6 giu. 1997, la Conv. è applicabile anche alla RAS Hong Kong dal 1° lug. 1997. <sup>b</sup> Dal 28 giu. 1999 al 19 dic. 1999, la Conv. era applicabile a Macao in base a una dichiarazione d’estensione territoriale del Portogallo. Dal 20 dic. 1999, Macao è diventata una Regione amministrativa speciale (RAS) della Repubblica Popolare Cinese. In virtù della dichiarazione cinese, la Conv. è applicabile anche alla RAS Macao dal 20 dic. 1999. c Al Regno in Europa.</td></tr>
+</table>
+
+[^t-2]: [RU 1987 1307](https://fedlex.data.admin.ch/eli/oc/1987/1307_1307_1307); [1988 567](https://fedlex.data.admin.ch/eli/oc/1988/567_567_567); [1989 280](https://fedlex.data.admin.ch/eli/oc/1989/280_280_280), [2286](https://fedlex.data.admin.ch/eli/oc/1989/2286_2286_2286); [1990 789](https://fedlex.data.admin.ch/eli/oc/1990/789_789_789); [1992 660](https://fedlex.data.admin.ch/eli/oc/1992/660_660_660); [1993 1901](https://fedlex.data.admin.ch/eli/oc/1993/1901_1901_1901); [2004 2735](https://fedlex.data.admin.ch/eli/oc/2004/329); [2005 1907](https://fedlex.data.admin.ch/eli/oc/2005/323); [2006 2967](https://fedlex.data.admin.ch/eli/oc/2006/453); [2008 647](https://fedlex.data.admin.ch/eli/oc/2008/154); [2011 509](https://fedlex.data.admin.ch/eli/oc/2011/73), [6529](https://fedlex.data.admin.ch/eli/oc/2011/905); [2012 5507](https://fedlex.data.admin.ch/eli/oc/2012/630); [2015 589](https://fedlex.data.admin.ch/eli/oc/2015/90); [2016 3801](https://fedlex.data.admin.ch/eli/oc/2016/634); [2017 3749](https://fedlex.data.admin.ch/eli/oc/2017/441); [2019 1829](https://fedlex.data.admin.ch/eli/oc/2019/341); [2020 1179](https://fedlex.data.admin.ch/eli/oc/2020/217); [2022 105](https://fedlex.data.admin.ch/eli/oc/2022/105); [2026 270](https://fedlex.data.admin.ch/eli/oc/2026/270). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty).
 
 Stato che ha dichiarato di riconoscere la competenza del Comitato contro la tortura, conformemente all’articolo 21 della Convenzione[^t-3]
 
@@ -572,28 +578,29 @@ Stato che ha dichiarato di riconoscere la competenza del Comitato contro la tort
 <table>
 <tr><td>Algeria</td><td>Liechtenstein</td></tr>
 <tr><td>Andorra</td><td>Lussemburgo</td></tr>
-<tr><td>Argentina</td><td>Malta</td></tr>
-<tr><td>Australia</td><td>Marocco</td></tr>
-<tr><td>Austria</td><td>Messico</td></tr>
-<tr><td>Azerbaigian</td><td>Moldova</td></tr>
-<tr><td>Belgio</td><td>Monaco</td></tr>
-<tr><td>Bolivia</td><td>Montenegro</td></tr>
-<tr><td>Bosnia ed Erzegovina</td><td>Norvegia</td></tr>
-<tr><td>Brasile</td><td>Nuova Zelanda</td></tr>
-<tr><td>Bulgaria</td><td>Paesi Bassi</td></tr>
-<tr><td>Burundi</td><td>Paraguay</td></tr>
-<tr><td>Camerun</td><td>Perù</td></tr>
-<tr><td>Canada</td><td>Polonia</td></tr>
-<tr><td>Ceca, Repubblica</td><td>Portogallo</td></tr>
-<tr><td>Cile</td><td>Russia</td></tr>
-<tr><td>Cipro</td><td>San Marino</td></tr>
-<tr><td>Corea del Sud</td><td>Seicelle</td></tr>
-<tr><td>Costa Rica</td><td>Senegal</td></tr>
-<tr><td>Croazia</td><td>Serbia</td></tr>
-<tr><td>Danimarca</td><td>Slovacchia</td></tr>
-<tr><td>Ecuador</td><td>Slovenia</td></tr>
-<tr><td>Finlandia</td><td>Spagna</td></tr>
-<tr><td>Francia</td><td>Sri Lanka</td></tr>
+<tr><td>Argentina</td><td>Maldive</td></tr>
+<tr><td>Australia</td><td>Malta</td></tr>
+<tr><td>Austria</td><td>Marocco</td></tr>
+<tr><td>Azerbaigian</td><td>Messico</td></tr>
+<tr><td>Belgio</td><td>Moldova</td></tr>
+<tr><td>Bolivia</td><td>Monaco</td></tr>
+<tr><td>Bosnia ed Erzegovina</td><td>Montenegro</td></tr>
+<tr><td>Brasile</td><td>Norvegia</td></tr>
+<tr><td>Bulgaria</td><td>Nuova Zelanda</td></tr>
+<tr><td>Burundi</td><td>Paesi Bassi</td></tr>
+<tr><td>Camerun</td><td>Paraguay</td></tr>
+<tr><td>Canada</td><td>Perù</td></tr>
+<tr><td>Ceca, Repubblica</td><td>Polonia</td></tr>
+<tr><td>Cile</td><td>Portogallo</td></tr>
+<tr><td>Cipro</td><td>Russia</td></tr>
+<tr><td>Corea del Sud</td><td>San Marino</td></tr>
+<tr><td>Costa Rica</td><td>Seicelle</td></tr>
+<tr><td>Croazia</td><td>Senegal</td></tr>
+<tr><td>Danimarca</td><td>Serbia</td></tr>
+<tr><td>Ecuador</td><td>Slovacchia</td></tr>
+<tr><td>Finlandia</td><td>Slovenia</td></tr>
+<tr><td>Francia</td><td>Spagna</td></tr>
+<tr><td>Honduras</td><td>Sri Lanka</td></tr>
 <tr><td>Georgia</td><td>Sudafrica</td></tr>
 <tr><td>Germania</td><td>Svezia</td></tr>
 <tr><td>Ghana</td><td>Svizzera[^t-6]</td></tr>
@@ -606,5 +613,5 @@ Stato che ha dichiarato di riconoscere la competenza del Comitato contro la tort
 <tr><td>Kazakistan</td><td>Venezuela</td></tr>
 </table>
 
-[^t-5]: [RU 2017 3749](https://fedlex.data.admin.ch/eli/oc/2017/441)
+[^t-5]: [RU 2017 3749](https://fedlex.data.admin.ch/eli/oc/2017/441); [2026 270](https://fedlex.data.admin.ch/eli/oc/2026/270)
 [^t-6]: Art. 1 cpv. 2 del DF del 6 ott. 1986 ([RU 1987 1306](https://fedlex.data.admin.ch/eli/oc/1987/1306_1306_1306)).

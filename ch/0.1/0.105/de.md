@@ -3,11 +3,11 @@ sr: "0.105"
 title: "Übereinkommen vom 10. Dezember 1984 gegen Folter und andere grausame, unmenschliche oder erniedrigende Behandlung oder Strafe"
 eli: "https://fedlex.data.admin.ch/eli/cc/1987/1307_1307_1307"
 language: de
-version: 2022-02-15
+version: 2026-05-28
 adopted: 1984-12-10
 in_force: 1987-06-26
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/1307_1307_1307/20220215/de/xml/fedlex-data-admin-ch-eli-cc-1987-1307_1307_1307-20220215-de-xml-15.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1987/1307_1307_1307/20220215/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1987/1307_1307_1307/20260528/de/xml/fedlex-data-admin-ch-eli-cc-1987-1307_1307_1307-20260528-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1987/1307_1307_1307/20260528/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -20,7 +20,7 @@ AS **1987** 1307; BBl **1985** III 285
 
 Abgeschlossen in New York am 10. Dezember 1984 Von der Bundesversammlung genehmigt am 6. Oktober 1986[^t-1] Schweizerische Ratifikationsurkunde hinterlegt am 2. Dezember 1986 In Kraft getreten für die Schweiz am 26. Juni 1987
 
-(Stand am 15. Februar 2022)
+(Stand am 28. Mai 2026)
 
 [^t-1]: Art. 1 Abs. 1 des BB vom 6. Okt. 1986 ([AS 1987 1306](https://fedlex.data.admin.ch/eli/oc/1987/1306_1306_1306)).
 
@@ -326,7 +326,7 @@ Der Generalsekretär der Vereinten Nationen unterrichtet alle Mitgliedstaaten de
 
 <sup>2.</sup> Der Generalsekretär der Vereinten Nationen übermittelt allen Staaten beglaubigte Abschriften dieses Übereinkommens.
 
-Geltungsbereich am 15. Februar 2022[^t-2]
+Geltungsbereich am 28. Mai 2026[^t-2]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B) Nachfolgeerklärung (N) Unterzeichnet ohne Ratifikationsvorbehalt (U)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -345,7 +345,7 @@ Geltungsbereich am 15. Februar 2022[^t-2]
 <tr><td>Australien\*\*</td><td>8. August</td><td>1989</td><td>7. September</td><td>1989</td></tr>
 <tr><td>Bahamas\*</td><td>31. Mai</td><td>2018</td><td>30. Juni</td><td>2018</td></tr>
 <tr><td>Bahrain\*</td><td>6. März</td><td>1998 B</td><td>5. April</td><td>1998</td></tr>
-<tr><td>Bangladesch\*</td><td>5. Oktober</td><td>1998 B</td><td>4. November</td><td>1998</td></tr>
+<tr><td>Bangladesch</td><td>5. Oktober</td><td>1998 B</td><td>4. November</td><td>1998</td></tr>
 <tr><td>Belarus</td><td>13. März</td><td>1987</td><td>26. Juni</td><td>1987</td></tr>
 <tr><td>Belgien\*\*</td><td>25. Juni</td><td>1999</td><td>25. Juli</td><td>1999</td></tr>
 <tr><td>Belize</td><td>17. März</td><td>1986 B</td><td>26. Juni</td><td>1987</td></tr>
@@ -365,6 +365,7 @@ Geltungsbereich am 15. Februar 2022[^t-2]
 <tr><td>Côte d’Ivoire</td><td>18. Dezember</td><td>1995 B</td><td>17. Januar</td><td>1996</td></tr>
 <tr><td>Dänemark\*\*</td><td>27. Mai</td><td>1987</td><td>26. Juni</td><td>1987</td></tr>
 <tr><td>Deutschland\* \*\*</td><td>1. Oktober</td><td>1990</td><td>31. Oktober</td><td>1990</td></tr>
+<tr><td>Dominica\*</td><td>5. Dezember</td><td>2024 B</td><td>4. Januar</td><td>2025</td></tr>
 <tr><td>Dominikanische Republik</td><td>24. Januar</td><td>2012</td><td>23. Februar</td><td>2012</td></tr>
 <tr><td>Dschibuti</td><td>5. November</td><td>2002 B</td><td>5. Dezember</td><td>2002</td></tr>
 <tr><td>Ecuador\*</td><td>30. März</td><td>1988</td><td>29. April</td><td>1988</td></tr>
@@ -481,6 +482,7 @@ Geltungsbereich am 15. Februar 2022[^t-2]
 <tr><td>Spanien\*\*</td><td>21. Oktober</td><td>1987</td><td>20. November</td><td>1987</td></tr>
 <tr><td>Sri Lanka</td><td>3. Januar</td><td>1994 B</td><td>2. Februar</td><td>1994</td></tr>
 <tr><td>St. Kitts und Nevis</td><td>21. September</td><td>2020 B</td><td>21. Oktober</td><td>2020</td></tr>
+<tr><td>St. Lucia\*</td><td>12. Februar</td><td>2026 B</td><td>14. März</td><td>2026</td></tr>
 <tr><td>St. Vincent und die Grenadinen</td><td>1. August</td><td>2001 B</td><td>31. August</td><td>2001</td></tr>
 <tr><td>Südafrika\*</td><td>10. Dezember</td><td>1998</td><td>9. Januar</td><td>1999</td></tr>
 <tr><td>Sudan\*</td><td>10. August</td><td>2021</td><td>9. September</td><td>2021</td></tr>
@@ -496,6 +498,7 @@ Geltungsbereich am 15. Februar 2022[^t-2]
 <tr><td>Tunesien\*</td><td>23. September</td><td>1988</td><td>23. Oktober</td><td>1988</td></tr>
 <tr><td>Türkei\*</td><td>2. August</td><td>1988</td><td>1. September</td><td>1988</td></tr>
 <tr><td>Turkmenistan</td><td>25. Juni</td><td>1999 B</td><td>25. Juli</td><td>1999</td></tr>
+<tr><td>Tuvalu\*</td><td>25. März</td><td>2024 B</td><td>24. April</td><td>2024</td></tr>
 <tr><td>Uganda</td><td>3. November</td><td>1986 B</td><td>26. Juni</td><td>1987</td></tr>
 <tr><td>Ukraine\*</td><td>24. Februar</td><td>1987</td><td>26. Juni</td><td>1987</td></tr>
 <tr><td>Ungarn\*\*</td><td>15. April</td><td>1987</td><td>26. Juni</td><td>1987</td></tr>
@@ -522,10 +525,10 @@ Geltungsbereich am 15. Februar 2022[^t-2]
 <tr><td>Vietnam\*</td><td>5. Februar</td><td>2015</td><td>7. März</td><td>2015</td></tr>
 <tr><td>Zentralafrikanische Republik</td><td>11. Oktober</td><td>2016 B</td><td>11. Oktober</td><td>2016</td></tr>
 <tr><td>Zypern</td><td>18. Juli</td><td>1991</td><td>17. August</td><td>1991</td></tr>
-<tr><td colspan="5">\* Vorbehalte und Erklärungen. \*\* Einwendungen. Die Vorbehalte, Erklärungen und Einwendungen werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite der Vereinten Nationen: [http://treaties.un.org](http://treaties.un.org/) oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden. <sup>a</sup> Vom 8. Dezember 1992 bis zum 30. Juni 1997 war das Übereinkommen auf Grund einer Ausdehnungserklärung des Vereinigten Königreichs in Hongkong anwendbar. Seit dem 1. Juli 1997 bildet Hongkong eine Besondere Verwaltungsregion (SAR) der Volksrepublik China. Auf Grund der chinesischen Erklärung vom 6. Juni 1997 ist das Übereinkommen seit dem 1. Juli 1997 auch in der SAR Hongkong anwendbar. <sup>b</sup> Vom 15. Juni 1999 bis zum 19. Dezember 1999 war das Übereinkommen auf Grund einer Ausdehnungserklärung Portugals in Macau anwendbar. Seit dem 20. Dezember 1999 bildet Macau eine Besondere Verwaltungsregion (SAR) der Volksrepublik China. Aufgrund der chinesischen Erklärung vom 13. Dezember 1999 ist das Übereinkommen seit dem 20. Dezember 1999 auch in der SAR Macau anwendbar. <sup>c</sup> Für das Königreich in Europa.</td></tr>
+<tr><td colspan="5">\* Vorbehalte und Erklärungen. \*\* Einwendungen. Die Vorbehalte, Erklärungen und Einwendungen werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite der Organisation der Vereinten Nationen (UNO): [https://treaties.un.org](https://treaties.un.org/) eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden. <sup>a</sup> Vom 8. Dezember 1992 bis zum 30. Juni 1997 war das Übereinkommen auf Grund einer Ausdehnungserklärung des Vereinigten Königreichs in Hongkong anwendbar. Seit dem 1. Juli 1997 bildet Hongkong eine Besondere Verwaltungsregion (SAR) der Volksrepublik China. Auf Grund der chinesischen Erklärung vom 6. Juni 1997 ist das Übereinkommen seit dem 1. Juli 1997 auch in der SAR Hongkong anwendbar. <sup>b</sup> Vom 15. Juni 1999 bis zum 19. Dezember 1999 war das Übereinkommen auf Grund einer Ausdehnungserklärung Portugals in Macau anwendbar. Seit dem 20. Dezember 1999 bildet Macau eine Besondere Verwaltungsregion (SAR) der Volksrepublik China. Aufgrund der chinesischen Erklärung vom 13. Dezember 1999 ist das Übereinkommen seit dem 20. Dezember 1999 auch in der SAR Macau anwendbar. <sup>c</sup> Für das Königreich in Europa.</td></tr>
 </table>
 
-[^t-2]: [AS 1987 1307](https://fedlex.data.admin.ch/eli/oc/1987/1307_1307_1307); [1988 567](https://fedlex.data.admin.ch/eli/oc/1988/567_567_567); [1989 280](https://fedlex.data.admin.ch/eli/oc/1989/280_280_280), [2286](https://fedlex.data.admin.ch/eli/oc/1989/2286_2286_2286); [1990 789](https://fedlex.data.admin.ch/eli/oc/1990/789_789_789); [1992 660](https://fedlex.data.admin.ch/eli/oc/1992/660_660_660); [1993 1901](https://fedlex.data.admin.ch/eli/oc/1993/1901_1901_1901); [2004 2735](https://fedlex.data.admin.ch/eli/oc/2004/329); [2005 1907](https://fedlex.data.admin.ch/eli/oc/2005/323); [2006 2967](https://fedlex.data.admin.ch/eli/oc/2006/453); [2008 647](https://fedlex.data.admin.ch/eli/oc/2008/154); [2011 509](https://fedlex.data.admin.ch/eli/oc/2011/73), [6529](https://fedlex.data.admin.ch/eli/oc/2011/905); [2012 5507](https://fedlex.data.admin.ch/eli/oc/2012/630); [2015 589](https://fedlex.data.admin.ch/eli/oc/2015/90); [2016 3801](https://fedlex.data.admin.ch/eli/oc/2016/634); [2017 3749](https://fedlex.data.admin.ch/eli/oc/2017/441); [2019 1829](https://fedlex.data.admin.ch/eli/oc/2019/341); [2020 1179](https://fedlex.data.admin.ch/eli/oc/2020/217); [2022 105](https://fedlex.data.admin.ch/eli/oc/2022/105). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
+[^t-2]: [AS 1987 1307](https://fedlex.data.admin.ch/eli/oc/1987/1307_1307_1307); [1988 567](https://fedlex.data.admin.ch/eli/oc/1988/567_567_567); [1989 280](https://fedlex.data.admin.ch/eli/oc/1989/280_280_280), [2286](https://fedlex.data.admin.ch/eli/oc/1989/2286_2286_2286); [1990 789](https://fedlex.data.admin.ch/eli/oc/1990/789_789_789); [1992 660](https://fedlex.data.admin.ch/eli/oc/1992/660_660_660); [1993 1901](https://fedlex.data.admin.ch/eli/oc/1993/1901_1901_1901); [2004 2735](https://fedlex.data.admin.ch/eli/oc/2004/329); [2005 1907](https://fedlex.data.admin.ch/eli/oc/2005/323); [2006 2967](https://fedlex.data.admin.ch/eli/oc/2006/453); [2008 647](https://fedlex.data.admin.ch/eli/oc/2008/154); [2011 509](https://fedlex.data.admin.ch/eli/oc/2011/73), [6529](https://fedlex.data.admin.ch/eli/oc/2011/905); [2012 5507](https://fedlex.data.admin.ch/eli/oc/2012/630); [2015 589](https://fedlex.data.admin.ch/eli/oc/2015/90); [2016 3801](https://fedlex.data.admin.ch/eli/oc/2016/634); [2017 3749](https://fedlex.data.admin.ch/eli/oc/2017/441); [2019 1829](https://fedlex.data.admin.ch/eli/oc/2019/341); [2020 1179](https://fedlex.data.admin.ch/eli/oc/2020/217); [2022 105](https://fedlex.data.admin.ch/eli/oc/2022/105); [2026 270](https://fedlex.data.admin.ch/eli/oc/2026/270). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
 
 Staaten, die nach Artikel 21 des Übereinkommens erklärt haben, die Zuständigkeit des Ausschusses gegen Folter anzuerkennen
 
@@ -566,44 +569,45 @@ Staaten, die nach Artikel 21 des Übereinkommens erklärt haben, die Zuständigk
 
 [^t-3]: Art. 1 Abs. 2 des BB vom 6. Okt. 1986 ([AS 1987 1306](https://fedlex.data.admin.ch/eli/oc/1987/1306_1306_1306)).
 
-Staaten, die nach Artikel 22 des Übereinkommens erklärt haben, die Zuständigkeit des Ausschusses gegen Folter anzuerkennen
+Staaten, die nach Artikel 22 des Übereinkommens erklärt haben, die Zuständigkeit des Ausschusses gegen Folter anzuerkennen[^t-4]
 
 <table>
-<tr><td>Algerien</td><td>Mexiko</td></tr>
-<tr><td>Andorra</td><td>Moldau</td></tr>
-<tr><td>Argentinien</td><td>Monaco</td></tr>
-<tr><td>Aserbaidschan</td><td>Montenegro</td></tr>
-<tr><td>Australien</td><td>Neuseeland</td></tr>
-<tr><td>Belgien</td><td>Niederlande</td></tr>
-<tr><td>Bolivien</td><td>Norwegen</td></tr>
-<tr><td>Bosnien und Herzegowina</td><td>Österreich</td></tr>
-<tr><td>Brasilien</td><td>Paraguay</td></tr>
-<tr><td>Bulgarien</td><td>Peru</td></tr>
-<tr><td>Burundi</td><td>Polen</td></tr>
-<tr><td>Chile</td><td>Portugal</td></tr>
-<tr><td>Costa Rica</td><td>Russland</td></tr>
-<tr><td>Deutschland</td><td>San Marino</td></tr>
-<tr><td>Dänemark</td><td>Schweden</td></tr>
-<tr><td>Ecuador</td><td>Schweiz[^t-4]</td></tr>
-<tr><td>Finnland</td><td>Senegal</td></tr>
-<tr><td>Frankreich</td><td>Serbien</td></tr>
-<tr><td>Georgien</td><td>Seychellen</td></tr>
-<tr><td>Ghana</td><td>Slowakei</td></tr>
-<tr><td>Griechenland</td><td>Slowenien</td></tr>
-<tr><td>Guatemala</td><td>Spanien</td></tr>
-<tr><td>Guinea-Bissau</td><td>Sri Lanka</td></tr>
-<tr><td>Irland</td><td>Südafrika</td></tr>
-<tr><td>Island</td><td>Togo</td></tr>
-<tr><td>Italien</td><td>Tschechische Republik</td></tr>
-<tr><td>Kamerun</td><td>Tunesien</td></tr>
-<tr><td>Kanada</td><td>Türkei</td></tr>
-<tr><td>Kasachstan</td><td>Ungarn</td></tr>
-<tr><td>Korea (Süd-)</td><td>Ukraine</td></tr>
-<tr><td>Kroatien</td><td>Uruguay</td></tr>
-<tr><td>Liechtenstein</td><td>Venezuela</td></tr>
-<tr><td>Luxemburg</td><td>Zypern</td></tr>
-<tr><td>Malta</td><td></td></tr>
-<tr><td>Marokko</td><td></td></tr>
+<tr><td>Algerien</td><td>Malta</td></tr>
+<tr><td>Andorra</td><td>Marokko</td></tr>
+<tr><td>Argentinien</td><td>Mexiko</td></tr>
+<tr><td>Aserbaidschan</td><td>Moldau</td></tr>
+<tr><td>Australien</td><td>Monaco</td></tr>
+<tr><td>Belgien</td><td>Montenegro</td></tr>
+<tr><td>Bolivien</td><td>Neuseeland</td></tr>
+<tr><td>Bosnien und Herzegowina</td><td>Niederlande</td></tr>
+<tr><td>Brasilien</td><td>Norwegen</td></tr>
+<tr><td>Bulgarien</td><td>Österreich</td></tr>
+<tr><td>Burundi</td><td>Paraguay</td></tr>
+<tr><td>Chile</td><td>Peru</td></tr>
+<tr><td>Costa Rica</td><td>Polen</td></tr>
+<tr><td>Deutschland</td><td>Portugal</td></tr>
+<tr><td>Dänemark</td><td>Russland</td></tr>
+<tr><td>Ecuador</td><td>San Marino</td></tr>
+<tr><td>Finnland</td><td>Schweden</td></tr>
+<tr><td>Frankreich</td><td>Schweiz[^t-5]</td></tr>
+<tr><td>Georgien</td><td>Senegal</td></tr>
+<tr><td>Ghana</td><td>Serbien</td></tr>
+<tr><td>Griechenland</td><td>Seychellen</td></tr>
+<tr><td>Guatemala</td><td>Slowakei</td></tr>
+<tr><td>Guinea-Bissau</td><td>Slowenien</td></tr>
+<tr><td>Honduras</td><td>Spanien</td></tr>
+<tr><td>Irland</td><td>Sri Lanka</td></tr>
+<tr><td>Island</td><td>Südafrika</td></tr>
+<tr><td>Italien</td><td>Togo</td></tr>
+<tr><td>Kamerun</td><td>Tschechische Republik</td></tr>
+<tr><td>Kanada</td><td>Tunesien</td></tr>
+<tr><td>Kasachstan</td><td>Türkei</td></tr>
+<tr><td>Korea (Süd-)</td><td>Ungarn</td></tr>
+<tr><td>Kroatien</td><td>Ukraine</td></tr>
+<tr><td>Liechtenstein</td><td>Uruguay</td></tr>
+<tr><td>Luxemburg</td><td>Venezuela</td></tr>
+<tr><td>Malediven</td><td>Zypern</td></tr>
 </table>
 
-[^t-4]: Art. 1 Abs. 2 des BB vom 6. Okt. 1986 ([AS 1987 1306](https://fedlex.data.admin.ch/eli/oc/1987/1306_1306_1306)).
+[^t-4]: [AS 2017 3749](https://fedlex.data.admin.ch/eli/oc/2017/441); [2026 270](https://fedlex.data.admin.ch/eli/oc/2026/270)
+[^t-5]: Art. 1 Abs. 2 des BB vom 6. Okt. 1986 ([AS 1987 1306](https://fedlex.data.admin.ch/eli/oc/1987/1306_1306_1306)).
