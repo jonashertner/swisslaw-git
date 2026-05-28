@@ -3,11 +3,11 @@ sr: "0.192.110.931.2"
 title: Übereinkommen vom 9. September 2002 über die Vorrechte und Immunitäten des Internationalen Strafgerichtshofs
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/665"
 language: de
-version: 2026-05-05
+version: 2026-05-29
 adopted: 2002-09-09
 in_force: 2012-10-25
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/665/20260505/de/xml/fedlex-data-admin-ch-eli-cc-2012-665-20260505-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/665/20260505/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/665/20260529/de/xml/fedlex-data-admin-ch-eli-cc-2012-665-20260529-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/665/20260529/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -20,7 +20,7 @@ AS **2012** 5735
 
 Abgeschlossen in New York am 9. September 2002 Schweizerische Ratifikationsurkunde hinterlegt am 25. September 2012 In Kraft getreten für die Schweiz am 25. Oktober 2012
 
-(Stand am 5. Mai 2026)
+(Stand am 29. Mai 2026)
 
 Die Vertragsstaaten dieses Übereinkommens,
 
@@ -482,7 +482,7 @@ Die Urschrift dieses Übereinkommens, dessen arabischer, chinesischer, englische
 
 *Zu Urkund dessen* haben die hierzu gehörig befugten Unterzeichneten dieses Übereinkommen unterschrieben. (Es folgen die Unterschriften)
 
-Geltungsbereich am 5. Mai 2026[^t-1]
+Geltungsbereich am 29. Mai 2026[^t-1]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B) Nachfolgeerklärung (N)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -565,6 +565,7 @@ Geltungsbereich am 5. Mai 2026[^t-1]
 <tr><td>Tunesien</td><td>29. Juni</td><td>2011 B</td><td>29. Juli</td><td>2011</td></tr>
 <tr><td>Uganda</td><td>21. Januar</td><td>2009</td><td>20. Februar</td><td>2009</td></tr>
 <tr><td>Ukraine\*</td><td>29. Januar</td><td>2007 B</td><td>28. Februar</td><td>2007</td></tr>
+<tr><td>Ungarn</td><td>22. März</td><td>2006</td><td>21. April</td><td>2006</td></tr>
 <tr><td>Uruguay</td><td>3. November</td><td>2006</td><td>3. Dezember</td><td>2006</td></tr>
 <tr><td>Vereinigtes Königreich\*</td><td>25. Januar</td><td>2008</td><td>24. Februar</td><td>2008</td></tr>
 <tr><td>Akrotiri und Dhekelia</td><td>11. März</td><td>2010</td><td>11. März</td><td>2010</td></tr>
@@ -585,7 +586,7 @@ Geltungsbereich am 5. Mai 2026[^t-1]
 <tr><td colspan="5"><sup>a</sup> Das Abkommen findet keine Anwendung auf die Färöer Inseln. <sup>b</sup> Die Ratifikation findet keine Anwendung auf Tokelau solange die Regierung Neuseelands keine entsprechende Erklärung hinterlegt hat.</td></tr>
 </table>
 
-[^t-1]: [AS 2012 5735](https://fedlex.data.admin.ch/eli/oc/2012/665); [2016 2549](https://fedlex.data.admin.ch/eli/oc/2016/399); [2020 2073](https://fedlex.data.admin.ch/eli/oc/2020/406); [2025 209](https://fedlex.data.admin.ch/eli/oc/2025/209); [2026 210](https://fedlex.data.admin.ch/eli/oc/2026/210). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
+[^t-1]: [AS 2012 5735](https://fedlex.data.admin.ch/eli/oc/2012/665); [2016 2549](https://fedlex.data.admin.ch/eli/oc/2016/399); [2020 2073](https://fedlex.data.admin.ch/eli/oc/2020/406); [2025 209](https://fedlex.data.admin.ch/eli/oc/2025/209); [2026 210](https://fedlex.data.admin.ch/eli/oc/2026/210), [384](https://fedlex.data.admin.ch/eli/oc/2026/384). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
 
 Erklärung
 

@@ -3,11 +3,11 @@ sr: "0.192.110.931.2"
 title: Accord du 9 septembre 2002 sur les privilèges et immunités de la Cour pénale internationale
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/665"
 language: fr
-version: 2026-05-05
+version: 2026-05-29
 adopted: 2002-09-09
 in_force: 2012-10-25
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/665/20260505/fr/xml/fedlex-data-admin-ch-eli-cc-2012-665-20260505-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/665/20260505/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/665/20260529/fr/xml/fedlex-data-admin-ch-eli-cc-2012-665-20260529-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/665/20260529/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -24,7 +24,7 @@ Instrument de ratification déposé par la Suisse le 25 septembre 2012
 
 Entré en vigueur pour la Suisse le 25 octobre 2012
 
-(État le 5 mai 2026)
+(État le 29 mai 2026)
 
 Les États Parties au présent Accord,
 
@@ -486,7 +486,7 @@ L’original du présent Accord, dont les textes anglais, arabe, chinois, espagn
 
 *En foi de quoi**,* les soussignés, dûment autorisés à cet effet, ont signé le présent Accord. (Suivent les signatures)
 
-Champ d’application le 5 mai 2026[^t-1]
+Champ d’application le 29 mai 2026[^t-1]
 
 <table>
 <tr><th>États parties</th><th>Ratification Adhésion (A) Déclaration de succession (S)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
@@ -523,6 +523,7 @@ Champ d’application le 5 mai 2026[^t-1]
 <tr><td>Grèce\*</td><td>6 juillet</td><td>2007</td><td>5 août</td><td>2007</td></tr>
 <tr><td>Guyana</td><td>16 novembre</td><td>2005 A</td><td>16 décembre</td><td>2005</td></tr>
 <tr><td>Honduras</td><td>1<sup>er</sup> avril</td><td>2008 A</td><td>1<sup>er</sup> mai</td><td>2008</td></tr>
+<tr><td>Hongrie</td><td>22 mars</td><td>2006</td><td>21 avril</td><td>2006</td></tr>
 <tr><td>Irlande</td><td>20 novembre</td><td>2006</td><td>20 décembre</td><td>2006</td></tr>
 <tr><td>Islande</td><td>1<sup>er</sup> décembre</td><td>2003</td><td>22 juillet</td><td>2004</td></tr>
 <tr><td>Italie\*</td><td>20 novembre</td><td>2006</td><td>20 décembre</td><td>2006</td></tr>
@@ -588,7 +589,7 @@ Champ d’application le 5 mai 2026[^t-1]
 <tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO, à l’exception de celles de la Suisse. Les textes en français et en anglais pourront être consultés à l’adresse du site Internet de l’Organisation des Nations Unies (ONU): [https://treaties.un.org](https://treaties.un.org/) ou obtenus à la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> L’accord ne s’applique pas aux îles Féroé. <sup>b</sup> La ratification ne s’appliquera aux Tokélaou que lorsque le Gouvernement néo-zélandais aura déposé une déclaration à cet effet. (C.N.363.2004)</td></tr>
 </table>
 
-[^t-1]: [RO 2012 5735](https://fedlex.data.admin.ch/eli/oc/2012/665); [2016 2549](https://fedlex.data.admin.ch/eli/oc/2016/399); [2020 2073](https://fedlex.data.admin.ch/eli/oc/2020/406); [2025 209](https://fedlex.data.admin.ch/eli/oc/2025/209); [2026 210](https://fedlex.data.admin.ch/eli/oc/2026/210). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty?news_period=last_month&news_pageNb=1&news_order=desc&news_itemsPerPage=10).
+[^t-1]: [RO 2012 5735](https://fedlex.data.admin.ch/eli/oc/2012/665); [2016 2549](https://fedlex.data.admin.ch/eli/oc/2016/399); [2020 2073](https://fedlex.data.admin.ch/eli/oc/2020/406); [2025 209](https://fedlex.data.admin.ch/eli/oc/2025/209); [2026 210](https://fedlex.data.admin.ch/eli/oc/2026/210), [384](https://fedlex.data.admin.ch/eli/oc/2026/384). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty?news_period=last_month&news_pageNb=1&news_order=desc&news_itemsPerPage=10).
 
 Déclaration
 
