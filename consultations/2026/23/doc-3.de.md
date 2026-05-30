@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Bundesbeschluss über die Finanzierung der Rüstungsausgaben der Armee durch Erhöhung der Mehrwertsteuer
 document: Vernehmlassungsvorlage-2
 language: de

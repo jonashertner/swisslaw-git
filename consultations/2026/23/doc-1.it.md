@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Decreto federale concernente il finanziamento di uscite per l’armamento dell’esercito tramite un aumento dell’imposta sul valore aggiunto
 document: Progetto posto in consultazione-3
 language: it

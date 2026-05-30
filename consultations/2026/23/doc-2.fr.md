@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Arrêté fédéral sur le financement de dépenses d’armement de l’armée au moyen d’un relèvement de la taxe sur la valeur ajoutée
 document: Projet mis en consultation
 language: fr
