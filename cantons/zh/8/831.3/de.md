@@ -4,11 +4,10 @@ number: "831.3"
 title: Zusatzleistungsgesetz (ZLG)
 short: ZLG
 language: de
-version: "2024-01-01"
-nachtrag: "123"
-valid_until: 2026-06-01
+version: "2026-06-01"
+nachtrag: "133"
 adopted: 1971-02-07
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-831_3-1971_02_07-1971_01_01-123.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-831_3-1971_02_07-1971_01_01-133.html"
 text: pdf
 ---
 
@@ -49,7 +48,7 @@ beschliesst:
 
 **1**
 
-- 1\. 1. 24 - 123 § 2.[^hErsterAbschnittAl-5] Die Durchführung obliegt den politischen Gemeinden und erfolgt unabhängig von der Sozialhilfe.
+- 1\. 7. 26 - 133 § 2.[^hErsterAbschnittAl-5] Die Durchführung obliegt den politischen Gemeinden und erfolgt unabhängig von der Sozialhilfe.
 
 **Durchführung**
 
@@ -143,7 +142,7 @@ beschliesst:
 
 **3**
 
-- 1\. 1. 24 - 123
+- 1\. 7. 26 - 133
 
 <sup>2</sup> Die individuelle Bedarfsermittlung gemäss §§ 12 und 13 SLBG ist bindend für Leistungen für Begleitung und Betreuung nach Art. 14 ELG.
 
@@ -205,7 +204,7 @@ beschliesst:
 
 § 15.<sup>25</sup> Die Vorschriften, die für die jährliche Ergänzungsleistung nach Art. 9 ff. ELG gelten, finden entsprechende Anwendung, soweit für die Beihilfe nichts Abweichendes bestimmt ist.
 
-[^13-1]: Aufgehoben durch G vom 7. Juli 2003 (OS 58, 239). In Kraft seit 1. Januar 2004 (OS 58, 267). 1. 1. 24 - 123 13
+[^13-1]: Aufgehoben durch G vom 7. Juli 2003 (OS 58, 239). In Kraft seit 1. Januar 2004 (OS 58, 267). 1. 7. 26 - 133 13
 
 #### § 16
 
@@ -217,7 +216,7 @@ beschliesst:
 
 **5**
 
-- 1\. 1. 24 - 123 § 17.[^16-1] <sup>1</sup> Für die Berechnung der Beihilfe wird auf die Bedarfsrechnung für die jährliche Ergänzungsleistung abgestellt, wobei
+- 1\. 7. 26 - 133 § 17.[^16-1] <sup>1</sup> Für die Berechnung der Beihilfe wird auf die Bedarfsrechnung für die jährliche Ergänzungsleistung abgestellt, wobei
 
 **Berechnung der Beihilfe**
 
@@ -245,7 +244,7 @@ beschliesst:
 
 <sup>3</sup> Bei Ehegatten sowie bei eingetragenen Partnerinnen oder Partnern entsteht eine Rückerstattungspflicht erst aus dem Nachlass des Zweitverstorbenen, soweit die Voraussetzungen gemäss Abs. 1 dann noch gegeben sind.
 
-<sup>4</sup> Rückerstattungsansprüche verjähren nach Ablauf von fünf Jahren, seitdem das mit der Durchführung betraute Organ von ihrem Entstehen Kenntnis erhalten hat, in jedem Fall aber nach Ablauf von zehn Jahren seit der letzten Beihilfezahlung.
+<sup>4</sup> Rückerstattungsansprüche verjähren nach Ablauf von fünf Jahren, nachdem das mit der Durchführung betraute Organ von ihrem Entstehen Kenntnis erhalten hat, spätestens aber nach Ablauf von zehn Jahren nach Entrichtung der einzelnen Beihilfezahlung.<sup>40</sup>
 
 <sup>5</sup> Unrechtmässig bezogene Beihilfen sind zurückzuerstatten. Art. 25 Abs. 1 und 2 des Bundesgesetzes vom 6. Oktober 2000 über den Allgemeinen Teil des Sozialversicherungsrechts (ATSG)[^16-2] sowie Art. 2–5 der Verordnung vom 11. September 2002 über den Allgemeinen Teil des Sozialversicherungsrechts[^16-3] finden sinngemäss Anwendung.<sup>35</sup>
 
@@ -293,7 +292,7 @@ der Gemeinden<sup>25</sup>
 
 **7**
 
-- 1\. 1. 24 - 123 § 21 a.<sup>36</sup> <sup>1</sup> Die Durchführungsstellen melden der SVA die Angaben, die gemäss Weisung der zuständigen Direktion des Regierungsrates für die Auszahlung des Betrags für die obligatorische Krankenpflegeversicherung erforderlich sind. Dazu gehören neben den Angaben gemäss Bundesrecht insbesondere:
+- 1\. 7. 26 - 133 § 21 a.<sup>36</sup> <sup>1</sup> Die Durchführungsstellen melden der SVA die Angaben, die gemäss Weisung der zuständigen Direktion des Regierungsrates für die Auszahlung des Betrags für die obligatorische Krankenpflegeversicherung erforderlich sind. Dazu gehören neben den Angaben gemäss Bundesrecht insbesondere:
 
 **Betrag für die obligatorische Krankenpflegeversicherung a. Aufgaben der Durchführungsstellen**
 
@@ -379,7 +378,7 @@ der Gemeinden<sup>25</sup>
 
 **9**
 
-- 1\. 1. 24 - 123 § 31.[^hSechsterAbschnitt-1]
+- 1\. 7. 26 - 133 § 31.[^hSechsterAbschnitt-1]
 
 § 32.<sup>22</sup>
 
@@ -469,7 +468,7 @@ Die zuständige Direktion des Regierungsrates erlässt die erforderlichen Weisun
 
 **11**
 
-- 1\. 1. 24 - 123 § 43. <sup>1</sup> Personen, die keine Rente der eidgenössischen Altersversicherung erhalten und beim Inkrafttreten dieses Gesetzes die Altersbeihilfe beziehen, steht weiterhin ein Anspruch auf Altersbeihilfe zu, sofern und solange die übrigen Bezugsvoraussetzungen gegeben sind.
+- 1\. 7. 26 - 133 § 43. <sup>1</sup> Personen, die keine Rente der eidgenössischen Altersversicherung erhalten und beim Inkrafttreten dieses Gesetzes die Altersbeihilfe beziehen, steht weiterhin ein Anspruch auf Altersbeihilfe zu, sofern und solange die übrigen Bezugsvoraussetzungen gegeben sind.
 
 **Wahrung bisheriger Rechte**
 
@@ -547,6 +546,8 @@ Für Bezügerinnen und Bezüger von Zusatzleistungen, für die während der drei
 
 <sup>39</sup> Eingefügt durch Selbstbestimmungsgesetz vom 28. Febuar 2022 (OS 78, 81; ABl 2021-04-09). In Kraft seit 1. Januar 2024.
 
+<sup>40</sup> Fassung gemäss G vom 24. November 2025 (OS 81, 255; ABl 2025-03-07). In Kraft seit 1. Juni 2026.
+
 **15**
 
-- 1\. 1. 24 - 123
+- 1\. 7. 26 - 133
