@@ -1,27 +1,26 @@
 ---
 canton: FR
 number: "16.1"
-title: Gesetz über die Haftung der Gemeinwesen und ihrer Amtsträger
+title: Gesetz über die Haftung der Gemeinwesen und ihrer Amtsträgerinnen und Amtsträger
 short: HGG
 language: de
-version: 2026-01-01
-valid_until: 2026-05-31
-version_adopted: 2025-09-02
+version: 2026-06-01
+version_adopted: 2026-03-26
 adopted: 1986-09-16
 in_force: 1987-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/16.1"
-pdf: "https://bdlf.fr.ch/api/de/versions/8274/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/8597/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Gesetz über die Haftung der Gemeinwesen und ihrer Amtsträger
+# Gesetz über die Haftung der Gemeinwesen und ihrer Amtsträgerinnen und Amtsträger
 
 Haftung der Gemeinwesen – G
 
 (HGG)
 
-vom 16.09.1986 (Fassung in Kraft getreten am 01.01.2026)
+vom 16.09.1986 (Fassung in Kraft getreten am 01.06.2026)
 
 Der Grosse Rat des Kantons Freiburg
 
@@ -41,8 +40,8 @@ beschliesst:
 
 <sup>1</sup> Das vorliegende Gesetz regelt:
 
-- a) die Haftung der Gemeinwesen für den Schaden, den ihre Amtsträger in Ausübung ihres Amtes Dritten widerrechtlich zufügen;
-- b) die Haftung des Amtsträgers für den Schaden, den er dem Gemeinwesen in Verletzung seiner Amtspflichten zufügt.
+- a) die Haftung der Gemeinwesen für den Schaden, den ihre Amtsträgerinnen und Amtsträger in Ausübung ihres Amtes Dritten widerrechtlich zufügen;
+- b) die Haftung der Amtsträgerinnen und Amtsträger für den Schaden, den sie dem Gemeinwesen in Verletzung ihrer Amtspflichten zufügen.
 
 <sup>2</sup> Es regelt zudem die Entschädigung für den Schaden, der Dritten durch gewisse rechtmässige Handlungen zugefügt wird.
 
@@ -60,9 +59,9 @@ beschliesst:
 
 #### Art. 3
 
-**Amtsträger**
+**Amtsträgerinnen und Amtsträger**
 
-<sup>1</sup> Amtsträger im Sinne dieses Gesetzes sind:
+<sup>1</sup> Amtsträgerinnen und Amtsträger im Sinne dieses Gesetzes sind:
 
 - a) die Mitglieder der Behörden, der Organe und der Kommissionen der Gemeinwesen;
 - b) die Mitglieder des Personals der Gemeinwesen, ungeachtet dessen, ob sie in einem öffentlich-rechtlichen oder in einem privatrechtlichen Dienstverhältnis stehen;
@@ -72,7 +71,7 @@ beschliesst:
 
 **Vorbehalt des Bundesrechts**
 
-<sup>1</sup> Dieses Gesetz ist auf Ansprüche eines geschädigten Dritten nicht anwendbar, wenn die Haftung der Gemeinwesen oder ihrer Amtsträger durch Bundesrecht geregelt ist. Das Verfahren richtet sich nach der Zivilprozessordnung und dem Justizgesetz.
+<sup>1</sup> Dieses Gesetz ist auf Ansprüche geschädigter Dritter nicht anwendbar, wenn die Haftung der Gemeinwesen oder ihrer Amtsträgerinnen und Amtsträger durch Bundesrecht geregelt ist. Das Verfahren richtet sich nach der Zivilprozessordnung und dem Justizgesetz.
 
 #### Art. 5
 
@@ -86,19 +85,19 @@ beschliesst:
 
 **Grundsätze**
 
-<sup>1</sup> Die Gemeinwesen haften für den Schaden, den ihre Amtsträger in Ausübung ihres Amtes Dritten widerrechtlich zufügen.
+<sup>1</sup> Die Gemeinwesen haften für den Schaden, den ihre Amtsträgerinnen und Amtsträger in Ausübung ihres Amtes Dritten widerrechtlich zufügen.
 
-<sup>2</sup> Gegenüber dem Amtsträger steht dem Geschädigten kein Anspruch zu.
+<sup>2</sup> Gegenüber den Amtsträgerinnen und Amtsträgern steht den Geschädigten kein Anspruch zu.
 
-<sup>3</sup> Das Gemeinwesen haftet nicht, wenn der Geschädigte die Rechtsmittel, die ihm zur Verfügung standen, um sich der schädigenden Handlung oder Unterlassung zu widersetzen, nicht ergriffen hat.
+<sup>3</sup> Das Gemeinwesen haftet nicht, wenn die oder der Geschädigte die Rechtsmittel, die ihr oder ihm zur Verfügung standen, um sich der schädigenden Handlung oder Unterlassung zu widersetzen, nicht ergriffen hat.
 
 #### Art. 7
 
 **Genugtuung**
 
-<sup>1</sup> Bei Körperverletzung oder Tötung eines Menschen steht, wenn die Umstände es rechtfertigen, dem Verletzten oder den Angehörigen des Getöteten ein Anspruch auf eine angemessene Geldsumme als Genugtuung zu.
+<sup>1</sup> Bei Körperverletzung oder Tötung eines Menschen steht, wenn die Umstände es rechtfertigen, der verletzten Person oder den Angehörigen der getöteten Person ein Anspruch auf eine angemessene Geldsumme als Genugtuung zu.
 
-<sup>2</sup> Wird jemand auf andere Weise widerrechtlich in seiner Persönlichkeit verletzt, so steht ihm ebenfalls ein Anspruch auf eine Geldsumme als Genugtuung zu, sofern die Schwere der Verletzung es rechtfertigt und letztere nicht anders wiedergutgemacht worden ist. Anstelle oder neben der Zahlung einer Geldsumme kann auch eine andere Art der Genugtuung gewährt werden.
+<sup>2</sup> Wer auf andere Weise widerrechtlich in seiner Persönlichkeit verletzt wird, hat ebenfalls Anspruch auf eine Geldsumme als Genugtuung, sofern die Schwere der Verletzung es rechtfertigt und letztere nicht anders wiedergutgemacht worden ist. Anstelle oder neben der Zahlung einer Geldsumme kann auch eine andere Art der Genugtuung gewährt werden.
 
 #### Art. 8
 
@@ -114,27 +113,27 @@ beschliesst:
 
 <sup>1</sup> Im Übrigen sind die Bestimmungen des Obligationenrechts anwendbar, so namentlich zur Berechnung des Schadens und zur Festsetzung der Entschädigung.
 
-## 3 Haftung des Amtsträgers gegenüber dem Gemeinwesen
+## 3 Haftung der Amtsträgerinnen und Amtsträger gegenüber dem Gemeinwesen
 
 #### Art. 10
 
 **Direkter Schaden**
 
-<sup>1</sup> Der Amtsträger haftet dem Gemeinwesen für den Schaden, den er ihm durch vorsätzliche oder grobfahrlässige Verletzung seiner Amtspflichten unmittelbar zufügt.
+<sup>1</sup> Die Amtsträgerinnen und Amtsträger haften gegenüber dem Gemeinwesen für den Schaden, den sie ihm durch vorsätzliche oder grobfahrlässige Verletzung ihrer Amtspflichten unmittelbar zufügen.
 
 #### Art. 11
 
 **Indirekter Schaden**
 
-<sup>1</sup> Hat ein Gemeinwesen einem Dritten auf Grund dieses oder eines andern Gesetzes eine Entschädigung geleistet, so steht ihm der Rückgriff auf den Amtsträger zu, der den Schaden durch vorsätzliche oder grobfahrlässige Verletzung seiner Amtspflichten verschuldet hat.
+<sup>1</sup> Hat ein Gemeinwesen Dritten auf Grund dieses oder eines anderen Gesetzes eine Entschädigung geleistet, so steht ihm der Rückgriff auf die Amtsträgerin oder den Amtsträger zu, die oder der den Schaden durch vorsätzliche oder grobfahrlässige Verletzung ihrer oder seiner Amtspflichten verschuldet hat.
 
-<sup>2</sup> Dieses Recht bleibt auch nach der Auflösung des Rechtsverhältnisses zwischen dem Amtsträger und dem Gemeinwesen bestehen.
+<sup>2</sup> Dieses Recht bleibt auch nach der Auflösung des Rechtsverhältnisses zwischen der Amtsträgerin oder dem Amtsträger und dem Gemeinwesen bestehen.
 
 #### Art. 12
 
 **Haftung mehrerer**
 
-<sup>1</sup> Haben mehrere Amtsträger einen Schaden gemeinsam verschuldet, so haften sie dem Gemeinwesen bei Vorsatz solidarisch und bei grober Fahrlässigkeit anteilmässig nach der Grösse ihres Verschuldens.
+<sup>1</sup> Haben mehrere Amtsträgerinnen und Amtsträger einen Schaden gemeinsam verschuldet, so haften sie gegenüber dem Gemeinwesen bei Vorsatz solidarisch und bei grober Fahrlässigkeit anteilmässig nach der Grösse ihres Verschuldens.
 
 <sup>2</sup> Solange nicht das Gegenteil nachgewiesen ist, wird vermutet, dass die Mitglieder eines Kollegialorgans einer schädigenden Handlung zugestimmt haben.
 
@@ -156,13 +155,13 @@ beschliesst:
 - d) dem Staatsrat für die Ansprüche einer kantonalen Anstalt gegen die Mitglieder eines ihrer Organe;
 - e) dem Gemeinderat für die Ansprüche einer Anstalt der Gemeinde gegen die Mitglieder eines Organs dieser Anstalt.
 
-<sup>2</sup> Der Entscheid des Grossen Rates ist definitiv. Andere in Anwendung von Absatz 1 getroffene Entscheide können mit Beschwerde an das Kantonsgericht angefochten werden; nur das geschädigte Gemeinwesen und der betroffene Amtsträger sind berechtigt, Beschwerde einzureichen.
+<sup>2</sup> Der Entscheid des Grossen Rates ist definitiv. Andere in Anwendung von Absatz 1 getroffene Entscheide können mit Beschwerde an das Kantonsgericht angefochten werden; nur das geschädigte Gemeinwesen und die betroffene Amtsträgerin oder der betroffene Amtsträger sind berechtigt, Beschwerde einzureichen.
 
 #### Art. 15
 
 **Entscheid über die Ansprüche – Verfahren vor dem Grossen Rat**
 
-<sup>1</sup> Obliegt der Entscheid dem Grossen Rat, so hört eine Kommission den Amtsträger an und holt die sachdienlichen Auskünfte ein.
+<sup>1</sup> Obliegt der Entscheid dem Grossen Rat, so hört eine Kommission die Amtsträgerin oder den Amtsträger an und holt die sachdienlichen Auskünfte ein.
 
 <sup>2</sup> Der Grosse Rat entscheidet nach Anhörung des Berichts der Kommission in geheimer Abstimmung.
 
@@ -234,11 +233,11 @@ beschliesst:
 
 #### Art. 23
 
-**Klage von Dritten – Benachrichtigung und Intervention des Amtsträgers**
+**Klage von Dritten – Benachrichtigung und Intervention der Amtsträgerin oder des Amtsträgers**
 
-<sup>1</sup> Das Gemeinwesen benachrichtigt den Amtsträger schriftlich, sobald eine geschädigte Person einen Anspruch geltend gemacht hat und wenn allenfalls eine Beschwerde eingereicht worden ist.
+<sup>1</sup> Das Gemeinwesen benachrichtigt die Amtsträgerin oder den Amtsträger schriftlich, sobald eine geschädigte Person einen Anspruch geltend gemacht hat und wenn allenfalls eine Beschwerde eingereicht worden ist.
 
-<sup>2</sup> Der Amtsträger hat das Recht, im Verfahren als Intervenient aufzutreten.
+<sup>2</sup> Die Amtsträgerin oder der Amtsträger hat das Recht, sich am Verfahren zu beteiligen.
 
 #### Art. 23a
 
@@ -252,33 +251,31 @@ beschliesst:
 
 #### Art. 24
 
-**Verwirkung – Anspruch des Dritten**
+**Verjährung – Anspruch der Dritten**
 
-<sup>1</sup> Die Haftung des Gemeinwesens erlischt, wenn der Geschädigte seinen Anspruch ihm gegenüber nicht innerhalb folgender Fristen geltend macht:
+<sup>1</sup> Haftungsklagen gegen Gemeinwesen verjähren nach den Bestimmungen des Obligationenrechts über unerlaubte Handlungen.
 
-- a) innerhalb eines Jahres seit dem Tag, an dem er Kenntnis vom Schaden und vom entschädigungspflichtigen Gemeinwesen erlangt hat;
-- b) spätestens aber innerhalb zehn Jahren seit dem Tag des schädigenden Ereignisses.
+- a) …
+- b) …
 
-<sup>2</sup> …
+<sup>2</sup> Die schriftliche Geltendmachung bei der in Art. 20 aufgeführten Behörde unterbricht die Verjährung.
 
 #### Art. 24a
 
-**Arzthaftung – Verjährung**
-
-<sup>1</sup> Artikel 24 dieses Gesetzes ist nicht anwendbar auf Arzthaftungsklagen gegen öffentliche Spitäler, die gemäss Artikel 60 des Obligationenrechts verjähren.
+**…**
 
 #### Art. 25
 
-**Verwirkung – Anspruch des Gemeinwesens**
+**Verjährung – Anspruch des Gemeinwesens**
 
-<sup>1</sup> Der Anspruch des Gemeinwesens erlischt:
+<sup>1</sup> Der Anspruch des Gemeinwesens verjährt:
 
-- a) bei direktem Schaden (Art. 10) mit Ablauf eines Jahres seit dem Tag, an dem das gemäss den Artikeln 13 und 14 zuständige Organ vom Schaden und von dessen Verursacher Kenntnis erlangt hat, jedenfalls aber mit Ablauf von zehn Jahren seit dem Tag der schädigenden Handlung des Amtsträgers;
-- b) bei indirektem Schaden (Art. 11) mit Ablauf eines Jahres seit dem Tag, an dem das Gemeinwesen seine Entschädigungspflicht anerkannt hat oder rechtskräftig zur Entschädigungsleistung verurteilt worden ist, jedenfalls aber mit Ablauf von zehn Jahren seit dem Tag der schädigenden Handlung des Amtsträgers.
+- a) bei direktem Schaden (Art. 10) mit Ablauf von drei Jahren seit dem Tag, an dem das gemäss den Artikeln 13 und 14 zuständige Organ vom Schaden und dessen Verursacherin oder Verursacher Kenntnis erlangt hat, jedenfalls aber mit Ablauf von zehn Jahren seit dem Tag der schädigenden Handlung der Amtsträgerin oder des Amtsträgers und mit Ablauf von zwanzig Jahren bei Tötung eines Menschen oder Körperverletzung;
+- b) bei indirektem Schaden (Art. 11) mit Ablauf von drei Jahren seit dem Tag, an dem das Gemeinwesen seine Entschädigungspflicht anerkannt hat oder rechtskräftig zur Entschädigung verurteilt worden ist, jedenfalls aber mit Ablauf von zehn Jahren seit dem Tag der schädigenden Handlung der Amtsträgerin oder des Amtsträgers.
 
 #### Art. 26
 
-**Verwirkung – Ruhen der Fristen**
+**Verjährung – Ruhen der Fristen**
 
 <sup>1</sup> Die in den Artikeln 24 und 25 vorgesehenen Fristen ruhen während der Dauer eines auf Grund desselben Sachverhalts durchgeführten Straf- oder Disziplinarverfahrens.
 
