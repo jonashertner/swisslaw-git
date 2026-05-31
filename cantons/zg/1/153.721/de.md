@@ -3,24 +3,23 @@ canton: ZG
 number: "153.721"
 title: Verfügung über die Delegation von Entscheidbefugnissen in der Direktion für Bildung und Kultur
 language: de
-version: 2012-07-01
-valid_until: 2026-05-31
-version_adopted: 2012-06-20
+version: 2026-06-01
+version_adopted: 2026-04-27
 adopted: 2012-06-20
 in_force: 2012-07-01
 url: "https://bgs.zg.ch/app/de/texts_of_law/153.721"
-pdf: "https://bgs.zg.ch/api/de/versions/981/pdf_file"
+pdf: "https://bgs.zg.ch/api/de/versions/3014/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verfügung über die Delegation von Entscheidbefugnissen in der Direktion für Bildung und Kultur
 
-Vom 20. Juni 2012 (Stand 1. Juli 2012)
+Vom 20. Juni 2012 (Stand 1. Juni 2026)
 
 Die Direktion für Bildung und Kultur des Kantons Zug,
 
-gestützt auf die §§ 5 und 6 Abs. 2 des Gesetzes über die Organisation der Staatsverwaltung vom 29. Oktober 1998 (Organisationsgesetz, OG)[^ingress-1], § 1 Abs. 4 des Gesetzes über das Arbeitsverhältnis des Staatspersonals vom 1. September 1994 (Personalgesetz; PG)[^ingress-2], § 3a Abs. 2 der Vollziehungsverordnung zum Gesetz über das Arbeitsverhältnis des Staatspersonals vom 12. Dezember 1994 (Personalverordnung; PV)[^ingress-3], § 2 der Delegationsverordnung vom 23. Dezember 1999 (DelV)[^ingress-4],
+gestützt auf § 5 und § 6 Abs. 2 des Gesetzes über die Organisation der Staatsverwaltung (Organisationsgesetz, OG) vom 29. Oktober 1998 [^ingress-1], § 1 Abs. 4 des Gesetzes über das Arbeitsverhältnis des Staatspersonals (Personalgesetz; PG) vom 1. September 1994 [^ingress-2], § 3a Abs. 2 der Vollziehungsverordnung zum Gesetz über das Arbeitsverhältnis des Staatspersonals (Personalverordnung; PV) vom 12. Dezember 1994 [^ingress-3] und § 2 der Delegationsverordnung (DelV) vom 23. Dezember 1999[^ingress-4],
 
 verfügt:
 
@@ -57,9 +56,9 @@ verfügt:
 
 <sup>1</sup> Leiterinnen und Leiter der Ämter bzw. die Leiterinnen und Leiter der Abteilungen beim Amt für Mittelschulen entscheiden vorbehältlich der Bestimmungen des Gesetzes über den Finanzhaushalt des Kantons und der Gemeinden vom 31. August 2006 (Finanzhaushaltgesetz, FHG)[^3-1] über die in dieser Delegationsverfügung aufgeführten Personalgeschäfte.
 
-<sup>2</sup> Die Delegation zur Änderung (§§ 32 und 48 PG) und Auflösung der Arbeitsverhältnisse (§§ 8, 9, 10 Abs. 1 und 3, 19 PG) sowie die Anordnung von Massnahmen (§ 10 Abs. 4 und 5 PG) setzt voraus, dass die Anstellung durch das Amt bzw. bei den kantonalen Schulen durch die Abteilung erfolgte oder gestützt auf die Delegationsverfügung hätte erfolgen können.
+<sup>2</sup> Die Delegation zur Änderung (§ 32 und § 48 PG) und Auflösung der Arbeitsverhältnisse (§ 8, § 9, § 10 Abs. 1 und 3 und § 19 PG) sowie die Anordnung von Massnahmen (§ 10 Abs. 4 und § 5 PG) setzt voraus, dass die Anstellung durch das Amt bzw. bei den kantonalen Schulen durch die Abteilung erfolgte oder gestützt auf die Delegationsverfügung hätte erfolgen können.
 
-<sup>3</sup> Die Delegation zur Funktionsänderung (§§ 10 Abs. 4 und 32 PG) sowie zur einvernehmlichen Auflösung des Arbeitsverhältnisses (§ 19 PG) setzen voraus, dass keine Leistungen ausgerichtet werden, die über die ordentliche Besoldung gemäss § 40 PG in der neuen Funktion hinausgehen bzw. über die Besoldung gemäss § 40 PG während der Dauer des Arbeitsverhältnisses und über die gesetzlich vorgesehenen Entschädigungen gemäss §§ 24 – 26 PG hinausgehen.
+<sup>3</sup> Die Delegation zur Funktionsänderung (§ 10 Abs. 4 und § 32 PG) sowie zur einvernehmlichen Auflösung des Arbeitsverhältnisses (§ 19 PG) setzen voraus, dass keine Leistungen ausgerichtet werden, die über die ordentliche Besoldung gemäss § 40 PG in der neuen Funktion hinausgehen bzw. über die Besoldung gemäss § 40 PG während der Dauer des Arbeitsverhältnisses und über die gesetzlich vorgesehenen Entschädigungen gemäss § 24 und § 25 PG hinausgehen.
 
 [^3-1]: BGS [611.1](https://bgs.zg.ch/data/611.1/de)
 
@@ -67,9 +66,9 @@ verfügt:
 
 **Einbezug der Direktionsvorsteherin bzw. des Direktionsvorstehers**
 
-<sup>1</sup> Vor der Begründung (§§ 4 – 6 PG) bzw. Änderung eines Arbeitsverhältnisses (§§ 32 und 48 PG) ist die Zustimmung der Direktionsvorsteherin bzw. des Direktionsvorstehers einzuholen. Ausgenommen hiervon sind Arbeitsverhältnisse für Stellvertreterinnen und Stellvertreter von Lehrpersonen bis zur Anstellungsdauer von einem halben Jahr.
+<sup>1</sup> Vor der Begründung (§§ 4 – 6 PG) bzw. Änderung eines Arbeitsverhältnisses (§ 32 und § 48 PG) ist die Zustimmung der Direktionsvorsteherin bzw. des Direktionsvorstehers einzuholen. Ausgenommen hiervon sind Arbeitsverhältnisse für Stellvertreterinnen und Stellvertreter von Lehrpersonen bis zur Anstellungsdauer von einem halben Jahr.
 
-<sup>2</sup> Vor der Auflösung eines Arbeitsverhältnisses (§§ 10 Abs. 1 und 3, 19 PG) ist mit der Direktionsvorsteherin bzw. mit dem Direktionsvorsteher Rücksprache zu nehmen.
+<sup>2</sup> Vor der Auflösung eines Arbeitsverhältnisses (§ 10 Abs. 1 und 3 und § 19 PG) ist mit der Direktionsvorsteherin bzw. mit dem Direktionsvorsteher Rücksprache zu nehmen.
 
 #### § 5
 
@@ -77,10 +76,10 @@ verfügt:
 
 <sup>1</sup> Folgende Personalgeschäfte sind delegiert:
 
-- a) Begründung von öffentlich-rechtlichen oder privatrechtlichen Arbeitsverhältnissen, welche befristet oder unbefristet abgeschlossen werden (§ 4 – 6 PG);
+- a) Begründung von öffentlich-rechtlichen oder privatrechtlichen Arbeitsverhältnissen, welche befristet oder unbefristet abgeschlossen werden (§§ 4 – 6 PG);
 - b) Änderung von Arbeitsverhältnissen, namentlich die Funktionsänderung (§ 32 PG) und die Beförderung (§ 48 PG);
 - c) Besoldung, namentlich die Einreihung (§ 48 PG), die Gehaltskürzung (§ 50 PG) und die Vergütung von Überstundenarbeit (§ 31 Abs. 2 PG);
-- d) Bewilligung zur Ausübung von Nebenerwerbstätigkeiten und öffentlichen Nebenämtern (§ 34 und 35 PG; § 15 Abs. 1 PV);
+- d) Bewilligung zur Ausübung von Nebenerwerbstätigkeiten und öffentlichen Nebenämtern (§ 34 und § 35 PG; § 15 Abs. 1 PV);
 - e) Bewilligung und Anordnung von Weiter- und Zusatzausbildungen inkl. Ausrichtung von Kantonsbeiträgen an diese Kurse (§ 37 PG, § 2 Weiterbildungsreglement); über Bewilligungen von Studienurlauben für die Lehrpersonen der kantonalen Schulen entscheidet die Leiterin bzw. der Leiter des Amtes für Mittelschulen;
 - f) Ausrichtung von Dienstaltersgeschenken (§ 54 PG);
 - g) Bewilligung von Urlaub und Anrechenbarkeit an Ferien (§ 63 PG);
@@ -88,7 +87,7 @@ verfügt:
 - i) Anordnung von weniger weit als die Kündigung reichenden Massnahmen (§ 10 Abs. 4 und 5 PG);
 - j) Ausstellung von Arbeitszeugnissen (§ 9 Abs. 2 PV).
 
-<sup>2</sup> Ausgenommen von der Delegation gemäss Abs. 1 sind die Personalgeschäfte gemäss Bst. a, b, c und h, wenn stellvertretende Leiterinnen und Leiter von Ämtern, Leiterinnen und Leiter von Abteilungen, Leiterinnen und Leiter von Bereichen, Rektorinnen und Rektoren der Kantonsschule Zug sowie Prorektorinnen und Prorektoren der weiteren kantonalen Schulen betroffen sind (§ 1 Abs. 4 PG).
+<sup>2</sup> Ausgenommen von der Delegation gemäss Abs. 1 sind die Personalgeschäfte gemäss Bst. a, b, c und h, wenn stellvertretende Leiterinnen und Leiter von Ämtern, Leiterinnen und Leiter von Abteilungen, Leiterinnen und Leiter von Bereichen sowie Prorektorinnen und Prorektoren von kantonalen Schulen betroffen sind (§ 1 Abs. 4 PG).
 
 ## 3. Weitere Entscheide
 
@@ -96,11 +95,11 @@ verfügt:
 
 **Entscheide über Kantonsbeiträge zur Kulturförderung**
 
-<sup>1</sup> Die Leiterin bzw. der Leiter des Amtes für Kultur entscheidet erstinstanzlich über Beiträge zur Förderung des kulturellen Lebens zu Lasten des Fonds für wohltätige, gemeinnützige und kulturelle Zwecke, sofern sie im Einzelfall den Betrag von Fr. 5’000.– nicht übersteigen (§ 4 Abs. 1 Kulturförderungsgesetz[^6-1], § 9 Abs. 2 Finanzhaushaltgesetz[^6-2], § 27<sup>bis</sup> Abs. 3 Lotteriegesetz[^6-3].
+<sup>1</sup> Die Leiterin bzw. der Leiter des Amtes für Kultur entscheidet erstinstanzlich über Beiträge zur Förderung des kulturellen Lebens zu Lasten des Fonds für wohltätige, gemeinnützige und kulturelle Zwecke, sofern sie im Einzelfall den Betrag von Fr. 5’000.– nicht übersteigen (§ 4 Abs. 1 Kulturförderungsgesetz[^6-1], § 9 Abs. 2 Finanzhaushaltgesetz[^6-2], § 7 Abs. 1 Einführungsgesetz zum Bundesgesetz über Geldspiele[^6-3].
 
 [^6-1]: BGS [421.1](https://bgs.zg.ch/data/421.1/de)
 [^6-2]: BGS [611.1](https://bgs.zg.ch/data/611.1/de)
-[^6-3]: BGS [942.41](https://bgs.zg.ch/data/942.41/de)
+[^6-3]: BGS [942.46](https://bgs.zg.ch/data/942.46/de)
 
 #### § 7
 
@@ -136,14 +135,12 @@ verfügt:
 
 <sup>1</sup> Das Oberaufsichtsrecht der Direktion für Bildung und Kultur gemäss § 3 Abs. 3 OG wie auch generelle Weisungen bezüglich der delegierten Kompetenzen bleiben vorbehalten.
 
-## 5. Schlussbestimmungen
+<sup>2</sup> Die Direktion für Bildung und Kultur delegiert die Aufsichtsbefugnisse über die Pädagogische Hochschule an das Amt für Mittelschulen und Pädagogische Hochschule.
+
+## 5.
 
 #### § 10
 
-**Aufhebung bisherigen Rechts**
-
-<sup>1</sup> Die Delegationsverfügung vom 29. Februar 2008[^10-1] wird aufgehoben.
-
-[^10-1]: GS 29, 685 (BGS 153.721)
+**…**
 
 GS 31, 551
