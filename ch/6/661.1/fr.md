@@ -4,11 +4,11 @@ title: "Ordonnance du 30 août 1995 sur la taxe d'exemption de l'obligation de s
 short: OTEO
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/4324_4324_4324"
 language: fr
-version: 2021-01-01
+version: 2026-06-01
 adopted: 1995-08-30
 in_force: 1996-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4324_4324_4324/20210101/fr/xml/fedlex-data-admin-ch-eli-cc-1995-4324_4324_4324-20210101-fr-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/4324_4324_4324/20210101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4324_4324_4324/20260601/fr/xml/fedlex-data-admin-ch-eli-cc-1995-4324_4324_4324-20260601-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/4324_4324_4324/20260601/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/4324_4324_4324/20210101/fr"
 
 (OTEO)[^t-1]
 
-du 30 août 1995 (État le 1<sup>er</sup> janvier 2021)
+du 30 août 1995 (État le 1<sup>er</sup> juin 2026)
 
 [^t-1]: Nouvelle teneur selon le ch. 5 de l’appendice 3 de l’O du 11 sept. 1996 sur le service civil, en vigueur depuis le 1<sup>er</sup> janv. 1997 ([RO 1996 2685](https://fedlex.data.admin.ch/eli/oc/1996/2685_2685_2685)).
 
@@ -625,7 +625,7 @@ L’octroi du congé pour l’étranger est en règle générale différé si l�
 
 <sup>1</sup> Pour les jours de service accomplis dans la protection civile après la fin de l’assujettissement à la taxe, les sous-officiers supérieurs et les officiers de la protection civile obtiennent le remboursement de tout ou partie des taxes.
 
-<sup>2</sup> La preuve des jours de service accomplis est apportée par le livret de service ou le décompte des allocations pour perte de gain.
+<sup>2</sup> La preuve des jours de service accomplis est apportée par les données contenues dans le SIPA ou le décompte des allocations pour perte de gain.[^54a-2]
 
 <sup>3</sup> Le montant du remboursement dépend du nombre de jours de service imputables effectivement accomplis dans la protection civile à compter de l’année suivant la suppression de l’assujettissement à la taxe et jusqu’à la fin de l’obligation de servir dans la protection civile. Les jours de service accomplis en trop pendant les onze ans de l’obligation de servir sont pris en compte pour le remboursement.
 
@@ -636,6 +636,7 @@ L’octroi du congé pour l’étranger est en règle générale différé si l�
 <sup>6</sup> Le remboursement automatique est lancé sur la base des avis du système de gestion du personnel de la protection civile (PISA PCi).
 
 [^54a-1]: Introduit par le ch. I de l’O du 12 août 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 3625](https://fedlex.data.admin.ch/eli/oc/2020/654)).
+[^54a-2]: Nouvelle teneur selon l’annexe ch. 8 de l’O du 1<sup>er</sup> avr. 2026, en vigueur depuis le 1<sup>er</sup> juin 2026 ([RO 2026 174](https://fedlex.data.admin.ch/eli/oc/2026/174)).
 
 ## Section 8 Poursuite pénale
 

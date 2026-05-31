@@ -4,11 +4,11 @@ title: Verordnung vom 30. August 1995 über die Wehrpflichtersatzabgabe (WPEV)
 short: WPEV
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/4324_4324_4324"
 language: de
-version: 2021-01-01
+version: 2026-06-01
 adopted: 1995-08-30
 in_force: 1996-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4324_4324_4324/20210101/de/xml/fedlex-data-admin-ch-eli-cc-1995-4324_4324_4324-20210101-de-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/4324_4324_4324/20210101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4324_4324_4324/20260601/de/xml/fedlex-data-admin-ch-eli-cc-1995-4324_4324_4324-20260601-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/4324_4324_4324/20260601/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/4324_4324_4324/20210101/de"
 
 (WPEV)[^t-1]
 
-vom 30. August 1995 (Stand am 1. Januar 2021)
+vom 30. August 1995 (Stand am 1. Juni 2026)
 
 [^t-1]: Fassung gemäss Ziff. I der V vom 3. Sept. 2003, in Kraft seit 1. Jan. 2004 ([AS 2003 3715](https://fedlex.data.admin.ch/eli/oc/2003/528)).
 
@@ -631,7 +631,7 @@ Die Erteilung des Auslandurlaubes ist in der Regel aufzuschieben, wenn der Wehrp
 
 <sup>1</sup> Höhere Unteroffiziere und Offiziere des Zivilschutzes erhalten für die nach der Ersatzpflicht geleisteten Schutzdiensttage einen Teil oder alle Ersatzabgaben zurückerstattet.
 
-<sup>2</sup> Als Ausweis der geleisteten Diensttage gelten das Dienstbüchlein oder die EO-Abrechnungen.
+<sup>2</sup> Als Ausweis der geleisteten Diensttage gelten die im PISA enthaltenen Daten oder die EO-Abrechnungen.[^54a-2]
 
 <sup>3</sup> Die Höhe der Rückerstattung ist abhängig von den effektiv absolvierten und anrechenbaren Schutzdiensttagen ab dem Folgejahr des Wegfalls der Ersatzpflicht bis zum Ende der Schutzdienstpflicht. Zu viel geleistete Schutzdiensttage aus den elf Jahren Ersatzpflicht werden bei der Rückerstattung berücksichtigt.
 
@@ -642,6 +642,7 @@ Die Erteilung des Auslandurlaubes ist in der Regel aufzuschieben, wenn der Wehrp
 <sup>6</sup> Die Rückerstattung wird ohne Antrag ausgelöst aufgrund der Meldungen des Personalinformationssystems des Zivilschutzes (PISA ZS).
 
 [^54a-1]: Eingefügt durch Ziff. I der V vom 12. Aug. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 3625](https://fedlex.data.admin.ch/eli/oc/2020/654)).
+[^54a-2]: Fassung gemäss Anhang Ziff. 8 der V vom 1. April 2026, in Kraft seit 1. Juni 2026 ([AS 2026 174](https://fedlex.data.admin.ch/eli/oc/2026/174)).
 
 ## 8. Abschnitt: Strafverfolgung
 

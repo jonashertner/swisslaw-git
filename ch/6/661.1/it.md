@@ -4,11 +4,11 @@ title: "Ordinanza del 30 agosto 1995 sulla tassa d'esenzione dall'obbligo milita
 short: OTEO
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/4324_4324_4324"
 language: it
-version: 2021-01-01
+version: 2026-06-01
 adopted: 1995-08-30
 in_force: 1996-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4324_4324_4324/20210101/it/xml/fedlex-data-admin-ch-eli-cc-1995-4324_4324_4324-20210101-it-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/4324_4324_4324/20210101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4324_4324_4324/20260601/it/xml/fedlex-data-admin-ch-eli-cc-1995-4324_4324_4324-20260601-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/4324_4324_4324/20260601/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/4324_4324_4324/20210101/it"
 
 (OTEO)[^t-1]
 
-del 30 agosto 1995 (Stato 1° gennaio 2021)
+del 30 agosto 1995 (Stato 1° giugno 2026)
 
 [^t-1]: Nuovo testo giusta l’appendice 3 n. 5 dell’O dell’11 set. 1996 sul servizio civile, in vigore dal 1° gen. 1997 ([RU 1996 2685](https://fedlex.data.admin.ch/eli/oc/1996/2685_2685_2685)).
 
@@ -28,8 +28,8 @@ visti gli articoli 23 capoverso 2, 24 capoverso 3, 35 capoverso 2 e 47 capoversi
 ordina:
 
 [^ingress-1]: [RS 661](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8232)
-[^ingress-2]: Nuova espr. giusta il n. I dell’O del 12 ago. 2020, in vigore dal 1° gen. 2021 ([RU 2020 3625](https://fedlex.data.admin.ch/eli/oc/2020/654)). Di detta mod. é tenuto conto in tutto il presente testo.
-[^ingress-3]: Nuovo testo giusta il n. I dell’O del 3 set. 2003, in vigore dal 1° gen. 2004 ([RU 2003 3715](https://fedlex.data.admin.ch/eli/oc/2003/528)). Questa mod. s’applica per la prima volta all’anno d’assoggettamento 2004.
+[^ingress-2]: Nuova espr. giusta la cifra I dell’O del 12 ago. 2020, in vigore dal 1° gen. 2021 ([RU 2020 3625](https://fedlex.data.admin.ch/eli/oc/2020/654)). Di detta mod. é tenuto conto in tutto il presente testo.
+[^ingress-3]: Nuovo testo giusta la cifra I dell’O del 3 set. 2003, in vigore dal 1° gen. 2004 ([RU 2003 3715](https://fedlex.data.admin.ch/eli/oc/2003/528)). Questa mod. s’applica per la prima volta all’anno d’assoggettamento 2004.
 
 ## Sezione 1: Assoggettamento alla tassa
 
@@ -43,7 +43,7 @@ ordina:
 
 <sup>3</sup> L’esenzione dalla tassa nel caso di inabili al servizio secondo l’articolo 4 capoverso 1 lettera a<sup>ter</sup> LTEO è chiarito secondo le istruzioni amministrative dell’assicurazione federale per l’invalidità applicabili al versamento di assegni per grandi invalidi da parte delle istanze cantonali AI.
 
-[^1-1]: Abrogato dal n. I dell’O del 26 set. 2003, con effetto dal 1° gen. 2004 ([RU 2003 3715](https://fedlex.data.admin.ch/eli/oc/2003/528)).
+[^1-1]: Abrogato dalla cifra I dell’O del 26 set. 2003, con effetto dal 1° gen. 2004 ([RU 2003 3715](https://fedlex.data.admin.ch/eli/oc/2003/528)).
 
 #### Art. 2
 
@@ -61,7 +61,7 @@ ordina:
 
 Per personale militare ai sensi dell’articolo 4 capoverso 1 lettera c LTEO si intendono i membri delle formazioni di professionisti di cui agli articoli 47 e 101 della legge militare del 3 febbraio 1995[^3-2] (LM).
 
-[^3-1]: Nuovo testo giusta il n. I dell’O del 3 set. 2003, in vigore dal 1° gen. 2004 ([RU 2003 3715](https://fedlex.data.admin.ch/eli/oc/2003/528)). Questa mod. s’applica per la prima volta all’anno d’assoggettamento 2004.
+[^3-1]: Nuovo testo giusta la cifra I dell’O del 3 set. 2003, in vigore dal 1° gen. 2004 ([RU 2003 3715](https://fedlex.data.admin.ch/eli/oc/2003/528)). Questa mod. s’applica per la prima volta all’anno d’assoggettamento 2004.
 [^3-2]: [RS 510.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7242)
 
 #### Art. 4
@@ -73,8 +73,8 @@ Per anno trascorso all’estero secondo l’articolo 4*a* capoverso 2 LTEO si in
 - a. era domiciliato all’estero; o
 - b. vi soggiornava con relativo congedo secondo le prescrizioni militari o del servizio civile.
 
-[^4-1]: Nuovo testo giusta il n. I dell’O del 3 set. 2003, in vigore dal 1° gen. 2004 ([RU 2003 3715](https://fedlex.data.admin.ch/eli/oc/2003/528)). Questa mod. s’applica per la prima volta all’anno d’assoggettamento 2004.
-[^4-2]: Nuovo testo giusta il n. I dell’O del 12 ago. 2020, in vigore dal 1° gen. 2021 ([RU 2020 3625](https://fedlex.data.admin.ch/eli/oc/2020/654)).
+[^4-1]: Nuovo testo giusta la cifra I dell’O del 3 set. 2003, in vigore dal 1° gen. 2004 ([RU 2003 3715](https://fedlex.data.admin.ch/eli/oc/2003/528)). Questa mod. s’applica per la prima volta all’anno d’assoggettamento 2004.
+[^4-2]: Nuovo testo giusta la cifra I dell’O del 12 ago. 2020, in vigore dal 1° gen. 2021 ([RU 2020 3625](https://fedlex.data.admin.ch/eli/oc/2020/654)).
 
 #### Art. 5
 
@@ -82,7 +82,7 @@ Per anno trascorso all’estero secondo l’articolo 4*a* capoverso 2 LTEO si in
 
 I militari che, secondo l’articolo 60 capoversi 1 e 3 LM[^5-2] e l’articolo 6 dell’ordinanza del 29 marzo 2017[^5-3] sulle strutture dell’esercito, non sono incorporati in una formazione, sono assoggettati alla tassa se non prestano il servizio obbligatorio annuale e non hanno ancora adempiuto il totale obbligatorio di giorni di servizio d’istruzione.
 
-[^5-1]: Nuovo testo giusta il n. I dell’O del 12 ago. 2020, in vigore dal 1° gen. 2021 ([RU 2020 3625](https://fedlex.data.admin.ch/eli/oc/2020/654)).
+[^5-1]: Nuovo testo giusta la cifra I dell’O del 12 ago. 2020, in vigore dal 1° gen. 2021 ([RU 2020 3625](https://fedlex.data.admin.ch/eli/oc/2020/654)).
 [^5-2]: [RS 510.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7242)
 [^5-3]: [RS 513.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7453)
 
@@ -96,7 +96,7 @@ I militari che, secondo l’articolo 60 capoversi 1 e 3 LM[^5-2] e l’articolo 
 
 <sup>3</sup> Se, conformemente al capoverso 1, è stata raggiunta una riduzione del cento per cento e rimangono altri giorni di servizio di protezione civile non ancora computati, tali giorni sono riportati all’anno successivo.
 
-[^5a-1]: Introdotto dal n. I dell’O del 3 set. 2003, in vigore dal 1° gen. 2004 ([RU 2003 3715](https://fedlex.data.admin.ch/eli/oc/2003/528)). Nuovo testo giusta il n. I dell’O del 12 ago. 2020, in vigore dal 1° gen. 2021 ([RU 2020 3625](https://fedlex.data.admin.ch/eli/oc/2020/654)).
+[^5a-1]: Introdotto dalla cifra I dell’O del 3 set. 2003, in vigore dal 1° gen. 2004 ([RU 2003 3715](https://fedlex.data.admin.ch/eli/oc/2003/528)). Nuovo testo giusta la cifra I dell’O del 12 ago. 2020, in vigore dal 1° gen. 2021 ([RU 2020 3625](https://fedlex.data.admin.ch/eli/oc/2020/654)).
 [^5a-2]: [FF 2019 7237](https://fedlex.data.admin.ch/eli/fga/2019/2993)
 
 ## Sezione 2: Reddito sottoposto alla tassa
@@ -105,13 +105,13 @@ I militari che, secondo l’articolo 60 capoversi 1 e 3 LM[^5-2] e l’articolo 
 
 [^6-1]
 
-[^6-1]: Abrogato dal n. I dell’O del 26 set. 2003, con effetto dal 1° gen. 2004 ([RU 2003 3715](https://fedlex.data.admin.ch/eli/oc/2003/528)).
+[^6-1]: Abrogato dalla cifra I dell’O del 26 set. 2003, con effetto dal 1° gen. 2004 ([RU 2003 3715](https://fedlex.data.admin.ch/eli/oc/2003/528)).
 
 #### Art. 7
 
 [^7-1]
 
-[^7-1]: Abrogato dal n. I dell’O del 14 ott. 2009, con effetto dal 1° gen. 2010 ([RU 2009 5259](https://fedlex.data.admin.ch/eli/oc/2009/616)).
+[^7-1]: Abrogato dalla cifra I dell’O del 14 ott. 2009, con effetto dal 1° gen. 2010 ([RU 2009 5259](https://fedlex.data.admin.ch/eli/oc/2009/616)).
 
 #### Art. 8
 
@@ -124,20 +124,20 @@ I militari che, secondo l’articolo 60 capoversi 1 e 3 LM[^5-2] e l’articolo 
 <sup>3</sup> …[^8-3]
 
 [^8-1]: Nuova denominazione giusta l’appendice 3 n. 5 dell’O dell’11 set. 1996 sul servizio civile, in vigore dal 1° gen. 1997 ([RU 1996 2685](https://fedlex.data.admin.ch/eli/oc/1996/2685_2685_2685)). Di detta mod. è tenuto conto in tutto il presente testo.
-[^8-2]: Nuovo testo giusta il n. I dell’O del 12 ago. 2020, in vigore dal 1° gen. 2021 ([RU 2020 3625](https://fedlex.data.admin.ch/eli/oc/2020/654)).
-[^8-3]: Abrogato dal n. I dell’O del 12 ago. 2020, con effetto dal 1° gen. 2021 ([RU 2020 3625](https://fedlex.data.admin.ch/eli/oc/2020/654)).
+[^8-2]: Nuovo testo giusta la cifra I dell’O del 12 ago. 2020, in vigore dal 1° gen. 2021 ([RU 2020 3625](https://fedlex.data.admin.ch/eli/oc/2020/654)).
+[^8-3]: Abrogato dalla cifra I dell’O del 12 ago. 2020, con effetto dal 1° gen. 2021 ([RU 2020 3625](https://fedlex.data.admin.ch/eli/oc/2020/654)).
 
 #### Art. 9
 
 [^9-1]
 
-[^9-1]: Abrogato dal n. I dell’O del 26 set. 2003, con effetto dal 1° gen. 2004 ([RU 2003 3715](https://fedlex.data.admin.ch/eli/oc/2003/528)).
+[^9-1]: Abrogato dalla cifra I dell’O del 26 set. 2003, con effetto dal 1° gen. 2004 ([RU 2003 3715](https://fedlex.data.admin.ch/eli/oc/2003/528)).
 
 #### Art. 10
 
 [^10-1]
 
-[^10-1]: Abrogato dal n. I dell’O del 12 ago. 2020, con effetto dal 1° gen. 2021 ([RU 2020 3625](https://fedlex.data.admin.ch/eli/oc/2020/654)).
+[^10-1]: Abrogato dalla cifra I dell’O del 12 ago. 2020, con effetto dal 1° gen. 2021 ([RU 2020 3625](https://fedlex.data.admin.ch/eli/oc/2020/654)).
 
 ## Sezione 3: Autorità
 
@@ -162,7 +162,7 @@ Essa ha in particolare la facoltà di:
 
 <sup>3</sup> I dati personali e gli impianti utilizzati per elaborarli, come i supporti di dati, i programmi informatici e la relativa documentazione vanno protetti da qualsiasi trattamento, modificazione o distruzione non autorizzata, nonché da qualsiasi trafugamento. L’Amministrazione federale delle contribuzioni può emanare istruzioni sulle esigenze in materia di sicurezza dei dati e provvede alla coordinazione secondo le raccomandazioni dell’Ufficio federale dell’informatica. Essa consulta dapprima i Cantoni. Per i controlli, il capoverso 2 lettera a si applica per analogia.
 
-[^12-1]: Nuovo testo giusta il n. II 48 dell’O dell’8 nov. 2006 concernente l’adeguamento di ordinanze del Consiglio federale alla revisione totale dell’organizzazione giudiziaria federale, in vigore dal 1° gen. 2007 ([RU 2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)).
+[^12-1]: Nuovo testo giusta la cifra II n. 48 dell’O dell’8 nov. 2006 concernente l’adeguamento di ordinanze del Consiglio federale alla revisione totale dell’organizzazione giudiziaria federale, in vigore dal 1° gen. 2007 ([RU 2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)).
 
 #### Art. 13
 
@@ -180,14 +180,14 @@ Le amministrazioni cantonali della tassa assicurano l’applicazione uniforme de
 
 <sup>3</sup> …[^14-2]
 
-[^14-1]: Nuovo testo giusta il n. I dell’O del 14 ott. 2009, in vigore dal 1° gen. 2010 ([RU 2009 5259](https://fedlex.data.admin.ch/eli/oc/2009/616)).
-[^14-2]: Abrogato dal n. I dell’O del 14 ott. 2009, con effetto dal 1° gen. 2010 ([RU 2009 5259](https://fedlex.data.admin.ch/eli/oc/2009/616)).
+[^14-1]: Nuovo testo giusta la cifra I dell’O del 14 ott. 2009, in vigore dal 1° gen. 2010 ([RU 2009 5259](https://fedlex.data.admin.ch/eli/oc/2009/616)).
+[^14-2]: Abrogato dalla cifra I dell’O del 14 ott. 2009, con effetto dal 1° gen. 2010 ([RU 2009 5259](https://fedlex.data.admin.ch/eli/oc/2009/616)).
 
 #### Art. 15
 
 [^15-1]
 
-[^15-1]: Abrogato dal n. I dell’O del 12 ago. 2020, con effetto dal 1° gen. 2021 ([RU 2020 3625](https://fedlex.data.admin.ch/eli/oc/2020/654)).
+[^15-1]: Abrogato dalla cifra I dell’O del 12 ago. 2020, con effetto dal 1° gen. 2021 ([RU 2020 3625](https://fedlex.data.admin.ch/eli/oc/2020/654)).
 
 #### Art. 16
 
@@ -211,10 +211,10 @@ Le amministrazioni cantonali della tassa assicurano l’applicazione uniforme de
 
 <sup>5</sup> Le registrazioni rimosse dal registro sono conservate a parte per almeno 10 anni dalla fine dell’ultimo anno di tassazione.
 
-[^17-1]: Nuovo testo giusta il n. I dell’O del 14 ott. 2009, in vigore dal 1° gen. 2010 ([RU 2009 5259](https://fedlex.data.admin.ch/eli/oc/2009/616)).
-[^17-2]: Nuovo testo giusta il n. I dell’O del 3 set. 2003, in vigore dal 1° gen. 2004 ([RU 2003 3715](https://fedlex.data.admin.ch/eli/oc/2003/528)). Questa mod. s’applica per la prima volta all’anno d’assoggettamento 2004.
-[^17-3]: Nuovo testo giusta il n. I dell’O del 14 ott. 2009, in vigore dal 1° gen. 2010 ([RU 2009 5259](https://fedlex.data.admin.ch/eli/oc/2009/616)).
-[^17-4]: Nuovo testo giusta il n. I dell’O del 12 ago. 2020, in vigore dal 1° gen. 2021 ([RU 2020 3625](https://fedlex.data.admin.ch/eli/oc/2020/654)).
+[^17-1]: Nuovo testo giusta la cifra I dell’O del 14 ott. 2009, in vigore dal 1° gen. 2010 ([RU 2009 5259](https://fedlex.data.admin.ch/eli/oc/2009/616)).
+[^17-2]: Nuovo testo giusta la cifra I dell’O del 3 set. 2003, in vigore dal 1° gen. 2004 ([RU 2003 3715](https://fedlex.data.admin.ch/eli/oc/2003/528)). Questa mod. s’applica per la prima volta all’anno d’assoggettamento 2004.
+[^17-3]: Nuovo testo giusta la cifra I dell’O del 14 ott. 2009, in vigore dal 1° gen. 2010 ([RU 2009 5259](https://fedlex.data.admin.ch/eli/oc/2009/616)).
+[^17-4]: Nuovo testo giusta la cifra I dell’O del 12 ago. 2020, in vigore dal 1° gen. 2021 ([RU 2020 3625](https://fedlex.data.admin.ch/eli/oc/2020/654)).
 
 #### Art. 18
 
@@ -226,7 +226,7 @@ Le amministrazioni cantonali della tassa assicurano l’applicazione uniforme de
 
 <sup>3</sup> L’articolo 17 capoversi 2, 4 e 5 si applica per analogia.
 
-[^18-1]: Nuovo testo giusta il n. I dell’O del 14 ott. 2009, in vigore dal 1° gen. 2010 ([RU 2009 5259](https://fedlex.data.admin.ch/eli/oc/2009/616)).
+[^18-1]: Nuovo testo giusta la cifra I dell’O del 14 ott. 2009, in vigore dal 1° gen. 2010 ([RU 2009 5259](https://fedlex.data.admin.ch/eli/oc/2009/616)).
 
 ## Sezione 4: Tassazione
 
@@ -242,7 +242,7 @@ Le amministrazioni cantonali della tassa assicurano l’applicazione uniforme de
 
 <sup>4</sup> Se la tassa non può essere riscossa prima del congedo per l’estero, la tassazione è effettuata dopo il rientro in Svizzera in base a una dichiarazione speciale relativa alla tassa, fatto salvo l’articolo 38 LTEO. Vanno posti a base della tassazione gli introiti ottenuti negli anni di assoggettamento determinanti.
 
-[^19-1]: Nuovo testo giusta il n. I dell’O del 3 set. 2003, in vigore dal 1° gen. 2004 ([RU 2003 3715](https://fedlex.data.admin.ch/eli/oc/2003/528)). Questa mod. s’applica per la prima volta all’anno d’assoggettamento 2004.
+[^19-1]: Nuovo testo giusta la cifra I dell’O del 3 set. 2003, in vigore dal 1° gen. 2004 ([RU 2003 3715](https://fedlex.data.admin.ch/eli/oc/2003/528)). Questa mod. s’applica per la prima volta all’anno d’assoggettamento 2004.
 
 #### Art. 20
 
@@ -280,7 +280,7 @@ Le amministrazioni cantonali della tassa assicurano l’applicazione uniforme de
 
 <sup>2</sup> Se l’assoggettato si rivolge tempestivamente ad un’autorità incompetente, il termine si reputa osservato.
 
-[^23-1]: Nuova espr. giusta il n. I dell’O del 3 set. 2003, in vigore dal 1° gen. 2004 ([RU 2003 3715](https://fedlex.data.admin.ch/eli/oc/2003/528)). Questa mod. s’applica per la prima volta all’anno d’assoggettamento 2004.
+[^23-1]: Nuova espr. giusta la cifra I dell’O del 3 set. 2003, in vigore dal 1° gen. 2004 ([RU 2003 3715](https://fedlex.data.admin.ch/eli/oc/2003/528)). Questa mod. s’applica per la prima volta all’anno d’assoggettamento 2004.
 
 #### Art. 24
 
@@ -320,7 +320,7 @@ La restituzione di un termine non osservato può essere concessa se, senza sua c
 
 <sup>3</sup> Chiunque, in seguito a notevole menomazione o a danno cagionato alla salute dal servizio militare o civile (art. 4 cpv. 1 lett. a e b LTEO) chiede l’esenzione dalla tassa è tenuto, a richiesta dell’autorità di tassazione, a sottoporsi agli esami del medico da essa designato, a prosciogliere il proprio medico dal segreto professionale e a sottoporsi agli esami delle istanze cantonali AI.[^28-1]
 
-[^28-1]: Nuovo testo giusta il n. I dell’O del 14 ott. 2009, in vigore dal 1° gen. 2010 ([RU 2009 5259](https://fedlex.data.admin.ch/eli/oc/2009/616)).
+[^28-1]: Nuovo testo giusta la cifra I dell’O del 14 ott. 2009, in vigore dal 1° gen. 2010 ([RU 2009 5259](https://fedlex.data.admin.ch/eli/oc/2009/616)).
 
 #### Art. 29
 
@@ -344,7 +344,7 @@ Se i fatti determinanti per la tassazione non possono essere sicuramente accerta
 
 Se, per quanto riguarda le basi di calcolo, la tassazione differisce dalla dichiarazione, essa deve essere brevemente motivata.
 
-[^31-1]: Nuovo testo giusta il n. I dell’O del 3 set. 2003, in vigore dal 1° gen. 2004 ([RU 2003 3715](https://fedlex.data.admin.ch/eli/oc/2003/528)). Questa mod. s’applica per la prima volta all’anno d’assoggettamento 2004.
+[^31-1]: Nuovo testo giusta la cifra I dell’O del 3 set. 2003, in vigore dal 1° gen. 2004 ([RU 2003 3715](https://fedlex.data.admin.ch/eli/oc/2003/528)). Questa mod. s’applica per la prima volta all’anno d’assoggettamento 2004.
 
 #### Art. 32
 
@@ -360,7 +360,7 @@ Se, per quanto riguarda le basi di calcolo, la tassazione differisce dalla dichi
 
 <sup>5</sup> Se una notifica non è conforme a queste disposizioni, non ne deve risultare alcun pregiudizio all’interessato.
 
-[^32-1]: Nuovo testo giusta il n. I dell’O del 12 ago. 2020, in vigore dal 1° gen. 2021 ([RU 2020 3625](https://fedlex.data.admin.ch/eli/oc/2020/654)).
+[^32-1]: Nuovo testo giusta la cifra I dell’O del 12 ago. 2020, in vigore dal 1° gen. 2021 ([RU 2020 3625](https://fedlex.data.admin.ch/eli/oc/2020/654)).
 [^32-2]: [RS 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 #### Art. 33
@@ -371,8 +371,8 @@ Se, per quanto riguarda le basi di calcolo, la tassazione differisce dalla dichi
 
 <sup>2</sup> L’indicazione dei rimedi giuridici nella decisione deve richiamare l’attenzione dell’assoggettato sul fatto che, conformemente all’articolo 29 capoverso 2 LTEO, la decisione passata in giudicato rimane valida fintando che non sopravvengano fatti nuovi essenziali.
 
-[^33-1]: Nuovo testo giusta il n. I dell’O del 12 ago. 2020, in vigore dal 1° gen. 2021 ([RU 2020 3625](https://fedlex.data.admin.ch/eli/oc/2020/654)).
-[^33-2]: Nuovo testo giusta il n. I dell’O del 12 ago. 2020, in vigore dal 1° gen. 2021 ([RU 2020 3625](https://fedlex.data.admin.ch/eli/oc/2020/654)).
+[^33-1]: Nuovo testo giusta la cifra I dell’O del 12 ago. 2020, in vigore dal 1° gen. 2021 ([RU 2020 3625](https://fedlex.data.admin.ch/eli/oc/2020/654)).
+[^33-2]: Nuovo testo giusta la cifra I dell’O del 12 ago. 2020, in vigore dal 1° gen. 2021 ([RU 2020 3625](https://fedlex.data.admin.ch/eli/oc/2020/654)).
 
 ## Sezione 5: Rimedi giuridici
 
@@ -394,9 +394,9 @@ Sono legittimati a proporre reclamo:
 
 <sup>4</sup> Il reclamo ha effetto sospensivo nei confronti di tutte le persone interessate dalla decisione.[^34-3]
 
-[^34-1]: Nuovo testo giusta il n. I dell’O del 14 ott. 2009, in vigore dal 1° gen. 2010 ([RU 2009 5259](https://fedlex.data.admin.ch/eli/oc/2009/616)).
-[^34-2]: Nuovo testo giusta il n. I dell’O del 14 ott. 2009, in vigore dal 1° gen. 2010 ([RU 2009 5259](https://fedlex.data.admin.ch/eli/oc/2009/616)).
-[^34-3]: Introdotto dal n. I dell’O del 14 ott. 2009, in vigore dal 1° gen. 2010 ([RU 2009 5259](https://fedlex.data.admin.ch/eli/oc/2009/616)).
+[^34-1]: Nuovo testo giusta la cifra I dell’O del 14 ott. 2009, in vigore dal 1° gen. 2010 ([RU 2009 5259](https://fedlex.data.admin.ch/eli/oc/2009/616)).
+[^34-2]: Nuovo testo giusta la cifra I dell’O del 14 ott. 2009, in vigore dal 1° gen. 2010 ([RU 2009 5259](https://fedlex.data.admin.ch/eli/oc/2009/616)).
+[^34-3]: Introdotto dalla cifra I dell’O del 14 ott. 2009, in vigore dal 1° gen. 2010 ([RU 2009 5259](https://fedlex.data.admin.ch/eli/oc/2009/616)).
 
 #### Art. 35
 
@@ -414,8 +414,8 @@ Sono legittimati a proporre reclamo:
 
 Ogni reclamo può, con il consenso del reclamante e delle altre persone che hanno presentato conclusioni, essere deferito all’autorità di ricorso[^36-2] per essere trattato come ricorso.
 
-[^36-1]: Nuova espr. giusta il n. I dell’O del 12 ago. 2020, in vigore dal 1° gen. 2021 ([RU 2020 3625](https://fedlex.data.admin.ch/eli/oc/2020/654)).
-[^36-2]: Nuova espr. giusta il n. I dell’O del 12 ago. 2020, in vigore dal 1° gen. 2021 ([RU 2020 3625](https://fedlex.data.admin.ch/eli/oc/2020/654)). Di detta mod. é tenuto conto in tutto il presente testo.
+[^36-1]: Nuova espr. giusta la cifra I dell’O del 12 ago. 2020, in vigore dal 1° gen. 2021 ([RU 2020 3625](https://fedlex.data.admin.ch/eli/oc/2020/654)).
+[^36-2]: Nuova espr. giusta la cifra I dell’O del 12 ago. 2020, in vigore dal 1° gen. 2021 ([RU 2020 3625](https://fedlex.data.admin.ch/eli/oc/2020/654)). Di detta mod. é tenuto conto in tutto il presente testo.
 
 #### Art. 37
 
@@ -429,7 +429,7 @@ Ogni reclamo può, con il consenso del reclamante e delle altre persone che hann
 
 <sup>4</sup> La procedura di ricorso è continuata, nonostante il ritiro del ricorso, se vi sono indizi che la decisione su reclamo non sia conforme alla LTEO oppure se una persona interessata, l’amministrazione cantonale della tassa o l’Amministrazione federale delle contribuzioni ha presentato conclusioni e le mantiene.
 
-[^37-1]: Nuovo testo giusta il n. I dell’O del 14 ott. 2009, in vigore dal 1° gen. 2010 ([RU 2009 5259](https://fedlex.data.admin.ch/eli/oc/2009/616)).
+[^37-1]: Nuovo testo giusta la cifra I dell’O del 14 ott. 2009, in vigore dal 1° gen. 2010 ([RU 2009 5259](https://fedlex.data.admin.ch/eli/oc/2009/616)).
 
 #### Art. 38
 
@@ -445,7 +445,7 @@ Ogni reclamo può, con il consenso del reclamante e delle altre persone che hann
 
 [^39-1]
 
-[^39-1]: Abrogato dal n. II 48 dell’O dell’8 nov. 2006 concernente l’adeguamento di ordinanze del Consiglio federale alla revisione totale dell’organizzazione giudiziaria federale, con effetto dal 1° gen. 2007 ([RU 2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)).
+[^39-1]: Abrogato dalla cifra II n. 48 dell’O dell’8 nov. 2006 concernente l’adeguamento di ordinanze del Consiglio federale alla revisione totale dell’organizzazione giudiziaria federale, con effetto dal 1° gen. 2007 ([RU 2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)).
 
 #### Art. 40
 
@@ -463,7 +463,7 @@ L’autorità di tassazione o l’autorità di ricorso procede alla revisione di
 
 <sup>3</sup> …[^40-1]
 
-[^40-1]: Abrogato dal n. I dell’O del 14 ott. 2009, con effetto dal 1° gen. 2010 ([RU 2009 5259](https://fedlex.data.admin.ch/eli/oc/2009/616)).
+[^40-1]: Abrogato dalla cifra I dell’O del 14 ott. 2009, con effetto dal 1° gen. 2010 ([RU 2009 5259](https://fedlex.data.admin.ch/eli/oc/2009/616)).
 
 #### Art. 41
 
@@ -501,7 +501,7 @@ La tassa è riscossa dal Cantone che l’ha stabilita.
 
 <sup>2</sup> I rimborsi sono effettuati indipendentemente dall’entità della somma.
 
-[^45-1]: Nuovo testo giusta il n. I dell’O del 12 ago. 2020, in vigore dal 1° gen. 2021 ([RU 2020 3625](https://fedlex.data.admin.ch/eli/oc/2020/654)).
+[^45-1]: Nuovo testo giusta la cifra I dell’O del 12 ago. 2020, in vigore dal 1° gen. 2021 ([RU 2020 3625](https://fedlex.data.admin.ch/eli/oc/2020/654)).
 
 #### Art. 46
 
@@ -509,7 +509,7 @@ La tassa è riscossa dal Cantone che l’ha stabilita.
 
 Un pagamento che non consente l’estinzione di tutte le pretese esigibili a titolo di tassa, emolumenti, spese e multe, e che non viene effettuato per pagare il debito fiscale di un determinato anno di assoggettamento, è computato in primo luogo sull’arretrato più vecchio non prescritto. Negli arretrati di un anno si estinguono in primo luogo gli emolumenti, le spese e le multe, in secondo luogo la tassa e gli interessi.
 
-[^46-1]: Nuovo testo giusta il n. I dell’O del 14 ott. 2009, in vigore dal 1° gen. 2010 ([RU 2009 5259](https://fedlex.data.admin.ch/eli/oc/2009/616)).
+[^46-1]: Nuovo testo giusta la cifra I dell’O del 14 ott. 2009, in vigore dal 1° gen. 2010 ([RU 2009 5259](https://fedlex.data.admin.ch/eli/oc/2009/616)).
 
 #### Art. 47
 
@@ -517,7 +517,7 @@ Un pagamento che non consente l’estinzione di tutte le pretese esigibili a tit
 
 La diffida è esente da emolumenti.
 
-[^47-1]: Nuovo testo giusta il n. I dell’O del 14 ott. 2009, in vigore dal 1° gen. 2010 ([RU 2009 5259](https://fedlex.data.admin.ch/eli/oc/2009/616)).
+[^47-1]: Nuovo testo giusta la cifra I dell’O del 14 ott. 2009, in vigore dal 1° gen. 2010 ([RU 2009 5259](https://fedlex.data.admin.ch/eli/oc/2009/616)).
 
 #### Art. 48
 
@@ -535,7 +535,7 @@ La diffida è esente da emolumenti.
 
 [^49-1]
 
-[^49-1]: Abrogato dal n. I dell’O del 12 ago. 2020, con effetto dal 1° gen. 2021 ([RU 2020 3625](https://fedlex.data.admin.ch/eli/oc/2020/654)).
+[^49-1]: Abrogato dalla cifra I dell’O del 12 ago. 2020, con effetto dal 1° gen. 2021 ([RU 2020 3625](https://fedlex.data.admin.ch/eli/oc/2020/654)).
 
 #### Art. 50
 
@@ -553,7 +553,7 @@ Il rilascio del congedo per l’estero è, di regola, differito se l’assoggett
 
 <sup>3</sup> Se l’assoggettato omette intenzionalmente di pagare la tassa o si mostra a più riprese negligente nei suoi obblighi concernenti la tassa, il congedo per l’estero gli è ricusato.
 
-[^50-1]: Nuovo testo giusta il n. I dell’O del 12 ago. 2020, in vigore dal 1° gen. 2021 ([RU 2020 3625](https://fedlex.data.admin.ch/eli/oc/2020/654)).
+[^50-1]: Nuovo testo giusta la cifra I dell’O del 12 ago. 2020, in vigore dal 1° gen. 2021 ([RU 2020 3625](https://fedlex.data.admin.ch/eli/oc/2020/654)).
 
 #### Art. 51
 
@@ -567,7 +567,7 @@ Il rilascio del congedo per l’estero è, di regola, differito se l’assoggett
 
 <sup>4</sup> Se il sequestro è fatto per una tassa non ancora stabilita con una decisione passata in giudicato, l’autorità deve chiedere l’esecuzione nei 10 giorni dopo che la tassazione ha acquistato valore di cosa giudicata.
 
-[^51-1]: Abrogato dal n. IV 15 dell’O del 22 ago. 2007 concernente l’aggiornamento formale del diritto federale, con effetto dal 1° gen. 2008 ([RU 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)).
+[^51-1]: Abrogato dalla cifra IV n. 15 dell’O del 22 ago. 2007 concernente l’aggiornamento formale del diritto federale, con effetto dal 1° gen. 2008 ([RU 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)).
 
 #### Art. 52
 
@@ -581,9 +581,9 @@ Il rilascio del congedo per l’estero è, di regola, differito se l’assoggett
 
 <sup>4</sup> La dilazione o il pagamento rateale sono revocati se non sono soddisfatte le condizioni alle quali sono stati concessi.[^52-3]
 
-[^52-1]: Nuovo testo giusta il n. I dell’O del 12 ago. 2020, in vigore dal 1° gen. 2021 ([RU 2020 3625](https://fedlex.data.admin.ch/eli/oc/2020/654)).
-[^52-2]: Nuovo testo giusta il n. I dell’O del 14 ott. 2009, in vigore dal 1° gen. 2010 ([RU 2009 5259](https://fedlex.data.admin.ch/eli/oc/2009/616)).
-[^52-3]: Nuovo testo giusta il n. I dell’O del 12 ago. 2020, in vigore dal 1° gen. 2021 ([RU 2020 3625](https://fedlex.data.admin.ch/eli/oc/2020/654)).
+[^52-1]: Nuovo testo giusta la cifra I dell’O del 12 ago. 2020, in vigore dal 1° gen. 2021 ([RU 2020 3625](https://fedlex.data.admin.ch/eli/oc/2020/654)).
+[^52-2]: Nuovo testo giusta la cifra I dell’O del 14 ott. 2009, in vigore dal 1° gen. 2010 ([RU 2009 5259](https://fedlex.data.admin.ch/eli/oc/2009/616)).
+[^52-3]: Nuovo testo giusta la cifra I dell’O del 12 ago. 2020, in vigore dal 1° gen. 2021 ([RU 2020 3625](https://fedlex.data.admin.ch/eli/oc/2020/654)).
 
 #### Art. 53
 
@@ -593,14 +593,14 @@ Il rilascio del congedo per l’estero è, di regola, differito se l’assoggett
 
 <sup>2</sup> Le tasse incassate da un’autorità per conto dell’autorità di esazione sono trasmesse a quest’ultima senza indugio.
 
-[^53-1]: Nuovo testo giusta il n. I dell’O del 3 set. 2003, in vigore dal 1° gen. 2004 ([RU 2003 3715](https://fedlex.data.admin.ch/eli/oc/2003/528)). Questa mod. s’applica per la prima volta all’anno d’assoggettamento 2004.
-[^53-2]: Nuovo testo giusta il n. I dell’O del 3 set. 2003, in vigore dal 1° gen. 2004 ([RU 2003 3715](https://fedlex.data.admin.ch/eli/oc/2003/528)). Questa mod. s’applica per la prima volta all’anno d’assoggettamento 2004.
+[^53-1]: Nuovo testo giusta la cifra I dell’O del 3 set. 2003, in vigore dal 1° gen. 2004 ([RU 2003 3715](https://fedlex.data.admin.ch/eli/oc/2003/528)). Questa mod. s’applica per la prima volta all’anno d’assoggettamento 2004.
+[^53-2]: Nuovo testo giusta la cifra I dell’O del 3 set. 2003, in vigore dal 1° gen. 2004 ([RU 2003 3715](https://fedlex.data.admin.ch/eli/oc/2003/528)). Questa mod. s’applica per la prima volta all’anno d’assoggettamento 2004.
 
 ## Sezione 7: Rimborso della tassa
 
 [^sec7-1]
 
-[^sec7-1]: Nuovo testo giusta il n. I dell’O del 12 ago. 2020, in vigore dal 1° gen. 2021 ([RU 2020 3625](https://fedlex.data.admin.ch/eli/oc/2020/654)).
+[^sec7-1]: Nuovo testo giusta la cifra I dell’O del 12 ago. 2020, in vigore dal 1° gen. 2021 ([RU 2020 3625](https://fedlex.data.admin.ch/eli/oc/2020/654)).
 
 #### Art. 54
 
@@ -616,12 +616,12 @@ Il rilascio del congedo per l’estero è, di regola, differito se l’assoggett
 
 <sup>5</sup> Le autorità cantonali della tassa possono ridurre l’importo stabilito per il rimborso nonché le restituzioni, detraendo eventuali attestati di carenza di beni, spese d’esecuzione e interessi di mora relativi ad anni di assoggettamento precedenti. È esclusa un’ulteriore compensazione con altri crediti.[^54-6]
 
-[^54-1]: Introdotto dal n. I dell’O del 12 ago. 2020, in vigore dal 1° gen. 2021 ([RU 2020 3625](https://fedlex.data.admin.ch/eli/oc/2020/654)).
-[^54-2]: Nuovo testo giusta il n. I dell’O del 14 ott. 2009, in vigore dal 1° gen. 2010 ([RU 2009 5259](https://fedlex.data.admin.ch/eli/oc/2009/616)).
-[^54-3]: Nuovo testo giusta il n. I dell’O del 12 ago. 2020, in vigore dal 1° gen. 2021 ([RU 2020 3625](https://fedlex.data.admin.ch/eli/oc/2020/654)).
-[^54-4]: Abrogato dal n. I dell’O del 26 set. 2003, con effetto dal 1° gen. 2004 ([RU 2003 3715](https://fedlex.data.admin.ch/eli/oc/2003/528)).
-[^54-5]: Nuovo testo giusta il n. I dell’O del 14 ott. 2009, in vigore dal 1° gen. 2010 ([RU 2009 5259](https://fedlex.data.admin.ch/eli/oc/2009/616)).
-[^54-6]: Introdotto dal n. I dell’O del 12 ago. 2020, in vigore dal 1° gen. 2021 ([RU 2020 3625](https://fedlex.data.admin.ch/eli/oc/2020/654)).
+[^54-1]: Introdotto dalla cifra I dell’O del 12 ago. 2020, in vigore dal 1° gen. 2021 ([RU 2020 3625](https://fedlex.data.admin.ch/eli/oc/2020/654)).
+[^54-2]: Nuovo testo giusta la cifra I dell’O del 14 ott. 2009, in vigore dal 1° gen. 2010 ([RU 2009 5259](https://fedlex.data.admin.ch/eli/oc/2009/616)).
+[^54-3]: Nuovo testo giusta la cifra I dell’O del 12 ago. 2020, in vigore dal 1° gen. 2021 ([RU 2020 3625](https://fedlex.data.admin.ch/eli/oc/2020/654)).
+[^54-4]: Abrogato dalla cifra I dell’O del 26 set. 2003, con effetto dal 1° gen. 2004 ([RU 2003 3715](https://fedlex.data.admin.ch/eli/oc/2003/528)).
+[^54-5]: Nuovo testo giusta la cifra I dell’O del 14 ott. 2009, in vigore dal 1° gen. 2010 ([RU 2009 5259](https://fedlex.data.admin.ch/eli/oc/2009/616)).
+[^54-6]: Introdotto dalla cifra I dell’O del 12 ago. 2020, in vigore dal 1° gen. 2021 ([RU 2020 3625](https://fedlex.data.admin.ch/eli/oc/2020/654)).
 
 #### Art. 54a
 
@@ -629,7 +629,7 @@ Il rilascio del congedo per l’estero è, di regola, differito se l’assoggett
 
 <sup>1</sup> I sottoufficiali superiori e gli ufficiali del servizio di protezione civile ricevono il rimborso di una parte o della totalità della tassa d’esenzione per i giorni di servizio di protezione civile prestati dopo il termine dell’obbligo di assoggettamento.
 
-<sup>2</sup> Il libretto di servizio o i conteggi dell’indennità di perdita di guadagno sono considerati come attestato dei giorni di servizio prestati.
+<sup>2</sup> I dati contenuti nel PISA o i conteggi dell’indennità di perdita di guadagno sono considerati come attestato dei giorni di servizio prestati.[^54a-2]
 
 <sup>3</sup> L’importo del rimborso dipende dal numero di giorni di servizio di protezione civile effettivamente prestati e computabili a partire dall’anno successivo alla fine dell’assoggettamento alla tassa fino al termine dell’obbligo di prestare servizio di protezione civile. Nel calcolo del rimborso si tiene conto dei giorni di servizio di protezione civile prestati in eccesso durante gli 11 anni di assoggettamento alla tassa.
 
@@ -639,7 +639,8 @@ Il rilascio del congedo per l’estero è, di regola, differito se l’assoggett
 
 <sup>6</sup> Il rimborso è effettuato automaticamente sulla base delle segnalazioni del sistema di gestione del personale della protezione civile (PISA PCi).
 
-[^54a-1]: Introdotto dal n. I dell’O del 12 ago. 2020, in vigore dal 1° gen. 2021 ([RU 2020 3625](https://fedlex.data.admin.ch/eli/oc/2020/654)).
+[^54a-1]: Introdotto dalla cifra I dell’O del 12 ago. 2020, in vigore dal 1° gen. 2021 ([RU 2020 3625](https://fedlex.data.admin.ch/eli/oc/2020/654)).
+[^54a-2]: Nuovo testo giusta l’all. n. 8 dell’O del 1° apr. 2026, in vigore dal 1° giu. 2026 ([RU 2026 174](https://fedlex.data.admin.ch/eli/oc/2026/174)).
 
 ## Sezione 8: Procedimento penale
 
@@ -653,7 +654,7 @@ Il rilascio del congedo per l’estero è, di regola, differito se l’assoggett
 
 <sup>3</sup> I Cantoni provvedono affinché vengano perseguite e giudicate anche le infrazioni commesse dagli assoggettati assenti dalla Svizzera ai quali non può essere intimata una citazione o non vi ottemperano. Se mancano prescrizioni in materia, si applicano per analogia gli articoli 32 e 148 della legge federale del 15 giugno 1934[^55-1] sulla procedura penale.
 
-[^55-1]: [CS **3** 286; [RU 1971 777](https://fedlex.data.admin.ch/eli/oc/1971/777_777_777)n. III 4, [1974 1857](https://fedlex.data.admin.ch/eli/oc/1974/1857_1857_1857)all. n. 2, [1978 688](https://fedlex.data.admin.ch/eli/oc/1978/688_688_688)art. 88 n. 4, [1979 1170](https://fedlex.data.admin.ch/eli/oc/1979/1170_1170_1170), [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)all. n. 15 [2465](https://fedlex.data.admin.ch/eli/oc/1992/2465_2465_2465)all. n. 2, [1993 1993](https://fedlex.data.admin.ch/eli/oc/1993/1993_1993_1993), [1997 2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465)all. n. 7, [2000 505](https://fedlex.data.admin.ch/eli/oc/2000/95)n. I 3 [2719](https://fedlex.data.admin.ch/eli/oc/2000/453)n. II 3 [2725](https://fedlex.data.admin.ch/eli/oc/2000/454)n. II, [2001 118](https://fedlex.data.admin.ch/eli/oc/2001/22)n. I 3 [3071](https://fedlex.data.admin.ch/eli/oc/2001/459)n. II 1 [3096](https://fedlex.data.admin.ch/eli/oc/2001/467)all. n. 2 [3308](https://fedlex.data.admin.ch/eli/oc/2001/492), [2003 2133](https://fedlex.data.admin.ch/eli/oc/2003/314)all. n. 9, [2004 1633](https://fedlex.data.admin.ch/eli/oc/2004/200)n. I 4, [2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782)all. n. 19, [2006 1205](https://fedlex.data.admin.ch/eli/oc/2006/218)all. n. 10, [2007 6087](https://fedlex.data.admin.ch/eli/oc/2007/811), [2008 1607](https://fedlex.data.admin.ch/eli/oc/2008/232)all. n. 1 [4989](https://fedlex.data.admin.ch/eli/oc/2008/698)all. 1 n. 6 [5463](https://fedlex.data.admin.ch/eli/oc/2008/759)all. n. 3, [2009 6605](https://fedlex.data.admin.ch/eli/oc/2009/821)all. n. II 3. [RU 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267)]. Vedi ora il Codice di procedura penale del 5 ott. 2007 ([RS 312.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6214)).
+[^55-1]: [CS **3** 286; [RU 1971 777](https://fedlex.data.admin.ch/eli/oc/1971/777_777_777)cifra III n. 4; [1974 1857](https://fedlex.data.admin.ch/eli/oc/1974/1857_1857_1857)all. n. 2; [1978 688](https://fedlex.data.admin.ch/eli/oc/1978/688_688_688)art. 88 n. 4; [1979 1170](https://fedlex.data.admin.ch/eli/oc/1979/1170_1170_1170); [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)all. n. 15, [2465](https://fedlex.data.admin.ch/eli/oc/1992/2465_2465_2465)all. n. 2; [1993 1993](https://fedlex.data.admin.ch/eli/oc/1993/1993_1993_1993); [1997 2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465)all. n. 7; [2000 505](https://fedlex.data.admin.ch/eli/oc/2000/95)cifra I n. 3, [2719](https://fedlex.data.admin.ch/eli/oc/2000/453)cifra II n. 3, [2725](https://fedlex.data.admin.ch/eli/oc/2000/454)cifra II; [2001 118](https://fedlex.data.admin.ch/eli/oc/2001/22)cifra I n. 3, [3071](https://fedlex.data.admin.ch/eli/oc/2001/459)cifra II n. 1, [3096](https://fedlex.data.admin.ch/eli/oc/2001/467)all. n. 2, [3308](https://fedlex.data.admin.ch/eli/oc/2001/492); [2003 2133](https://fedlex.data.admin.ch/eli/oc/2003/314)all. n. 9; [2004 1633](https://fedlex.data.admin.ch/eli/oc/2004/200)cifra I n. 4; [2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782)all. n. 19; [2006 1205](https://fedlex.data.admin.ch/eli/oc/2006/218)all. n. 10; [2007 6087](https://fedlex.data.admin.ch/eli/oc/2007/811); [2008 1607](https://fedlex.data.admin.ch/eli/oc/2008/232)all. n. 1, [4989](https://fedlex.data.admin.ch/eli/oc/2008/698)all. 1 n. 6, [5463](https://fedlex.data.admin.ch/eli/oc/2008/759)all. n. 3; [2009 6605](https://fedlex.data.admin.ch/eli/oc/2009/821)all. cifra II n. 3. [RU 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267)]. Vedi ora il Codice di procedura penale del 5 ott. 2007 ([RS 312.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6214)).
 
 #### Art. 56
 
@@ -661,7 +662,7 @@ Il rilascio del congedo per l’estero è, di regola, differito se l’assoggett
 
 Gli articoli 32*b*, 34, 37 e 38 LTEO e gli articoli 44, 46, 48, 52 e 53 della presente ordinanza si applicano per analogia all’esazione delle multe irrogate dalle autorità amministrative.
 
-[^56-1]: Nuovo testo giusta il n. I dell’O del 14 ott. 2009, in vigore dal 1° gen. 2010 ([RU 2009 5259](https://fedlex.data.admin.ch/eli/oc/2009/616)).
+[^56-1]: Nuovo testo giusta la cifra I dell’O del 14 ott. 2009, in vigore dal 1° gen. 2010 ([RU 2009 5259](https://fedlex.data.admin.ch/eli/oc/2009/616)).
 
 ## Sezione 9: Regolamento dei conti con la Confederazione
 
@@ -673,7 +674,7 @@ Gli articoli 32*b*, 34, 37 e 38 LTEO e gli articoli 44, 46, 48, 52 e 53 della pr
 
 <sup>2</sup> Il Cantone dispone degli emolumenti, delle indennità per le spese che ha sopportato e di tutte le entrate provenienti dalle multe.
 
-[^57-1]: Nuovo testo giusta il n. I dell’O del 14 ott. 2009, in vigore dal 1° gen. 2010 ([RU 2009 5259](https://fedlex.data.admin.ch/eli/oc/2009/616)).
+[^57-1]: Nuovo testo giusta la cifra I dell’O del 14 ott. 2009, in vigore dal 1° gen. 2010 ([RU 2009 5259](https://fedlex.data.admin.ch/eli/oc/2009/616)).
 
 ## Sezione 10: Disposizioni finali
 
@@ -691,7 +692,7 @@ Gli articoli 32*b*, 34, 37 e 38 LTEO e gli articoli 44, 46, 48, 52 e 53 della pr
 
 <sup>5</sup> Il rimborso proporzionale è concesso a tutte le persone alle quali è stato prolungato il periodo di servizio secondo l’articolo 99 capoverso 3 LPPC[^57a-2].
 
-[^57a-1]: Introdotto dal n. I dell’O del 12 ago. 2020, in vigore dal 1° gen. 2021 ([RU 2020 3625](https://fedlex.data.admin.ch/eli/oc/2020/654)).
+[^57a-1]: Introdotto dalla cifra I dell’O del 12 ago. 2020, in vigore dal 1° gen. 2021 ([RU 2020 3625](https://fedlex.data.admin.ch/eli/oc/2020/654)).
 [^57a-2]: [RS 520.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7590)
 
 #### Art. 58
@@ -700,7 +701,7 @@ Gli articoli 32*b*, 34, 37 e 38 LTEO e gli articoli 44, 46, 48, 52 e 53 della pr
 
 L’ordinanza d’esecuzione della legge federale sulla tassa d’esenzione dal servizio militare, del 20 dicembre 1971[^58-1], è abrogata.
 
-[^58-1]: [[RU 1972 6](https://fedlex.data.admin.ch/eli/oc/1972/6_6_6), [1979 1740](https://fedlex.data.admin.ch/eli/oc/1979/1740_1740_1740), [1983 1649](https://fedlex.data.admin.ch/eli/oc/1983/1649_1649_1649), [1992 1337](https://fedlex.data.admin.ch/eli/oc/1992/1337_1337_1337)]
+[^58-1]: [[RU 1972 6](https://fedlex.data.admin.ch/eli/oc/1972/6_6_6); [1979 1740](https://fedlex.data.admin.ch/eli/oc/1979/1740_1740_1740); [1983 1649](https://fedlex.data.admin.ch/eli/oc/1983/1649_1649_1649); [1992 1337](https://fedlex.data.admin.ch/eli/oc/1992/1337_1337_1337)]
 
 #### Art. 59
 
