@@ -4,13 +4,12 @@ number: "263"
 title: Geschäftsordnung für das Kantonsgericht des Kantons Luzern
 short: GOKG
 language: de
-version: 2026-01-01
-valid_until: 2026-05-31
-version_adopted: 2026-09-22
+version: 2026-06-01
+version_adopted: 2026-03-23
 adopted: 2013-03-26
 in_force: 2013-06-01
 url: "https://srl.lu.ch/app/de/texts_of_law/263"
-pdf: "https://srl.lu.ch/api/de/versions/4908/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4911/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://srl.lu.ch/api/de/versions/4908/pdf_file"
 
 (GOKG)
 
-vom 26.03.2013 (Stand 01.01.2026)
+vom 26.03.2013 (Stand 01.06.2026)
 
 Das Kantonsgericht des Kantons Luzern,
 
@@ -82,7 +81,7 @@ beschliesst:
 - c. die Zuteilung der Gerichtsschreiberinnen und -schreiber zu den Abteilungen und die Festsetzung ihrer Arbeitspensen,
 - d. die Erteilung von Urlaub an die Gerichtsschreiberinnen und -schreiber sowie deren Beförderung,
 - e. den Leistungsauftrag und die Überwachung seiner Erfüllung,
-- f. den Ausgleich der Geschäftslast zwischen den Abteilungen (§ 13 Abs. 4),
+- f. den vorübergehenden Einsatz von Richterinnen und Richtern in Ausnahmesituationen (§ 13 Abs. 2<sup>bis</sup> und 2<sup>ter</sup>) und den Ausgleich der Geschäftslast zwischen den Abteilungen (§ 13 Abs. 4),
 - g. die Genehmigung der Anstellung des oder der Kommunikations- und Medienverantwortlichen Gerichtswesen (§ 11),
 - h. die Genehmigung der Anstellungen der Leitungen der ORIG und des FRG sowie des oder der OIB (§ 10 Abs. 1b, c und d),
 - i. die Vernehmlassungen zu Gesetzgebungsvorlagen und anderen Projekten,
@@ -149,6 +148,7 @@ beschliesst:
 - a. die Änderung des Beschäftigungsgrades gemäss § 14 Absatz 4 JusG,
 - b. die Bewilligung von Nebenbeschäftigungen von Kantonsrichterinnen und -richtern,
 - c. den Erlass von Richtlinien über die Bestellung der Spruchkörper und die Einsetzung der Instruktionsrichterinnen und -richter,
+- d. die Bestätigung des Verlängerungsentscheids der Geschäftsleitung gemäss § 13 Absatz 2<sup>ter</sup>.
 
 <sup>3</sup> Die Konstituierung des Gesamtgerichtes findet in der Regel nach der Gesamterneuerungswahl des Kantonsgerichtes und nach Ergänzungswahlen für den Rest der Amtsdauer statt.
 
@@ -168,7 +168,7 @@ beschliesst:
 - b. die Mehrheit der Richterinnen und Richter einer Abteilung,
 - c. mindestens fünf Mitglieder des Gesamtgerichtes.
 
-<sup>4</sup> Die Beschlussfassung erfordert die Anwesenheit von mindestens 16 Mitgliedern des Gesamtgerichtes. Auf Antrag von mindestens drei Mitgliedern erfolgt die Abstimmung oder Wahl geheim.
+<sup>4</sup> Die Beschlussfassung erfordert die Anwesenheit von mindestens 19 Mitgliedern des Gesamtgerichtes. Auf Antrag von mindestens drei Mitgliedern erfolgt die Abstimmung oder Wahl geheim.
 
 <sup>5</sup> Ein Beschluss kommt mit der Mehrheit der Stimmen zustande. Stimmenthaltungen sowie leere und ungültige Stimmen fallen ausser Betracht. Bei Stimmengleichheit wird die Abstimmung einmal wiederholt. Bei erneutem Gleichstand gibt die Stimme des Präsidenten oder der Präsidentin des Kantonsgerichtes den Ausschlag.
 
@@ -267,9 +267,13 @@ beschliesst:
 
 **Konstituierung und Geschäftslastenausgleich**
 
-<sup>1</sup> Die Richterinnen und Richter werden einer Abteilung zugeteilt. In besonderen Fällen können Richterinnen oder Richter einer anderen Abteilung für die Beurteilung beigezogen werden.
+<sup>1</sup> Die Richterinnen und Richter werden einer Abteilung zugeteilt. Sie können daneben unter den in den Absätzen 2, 2<sup>bis</sup> und 2<sup>ter</sup> genannten Voraussetzungen auch in anderen Abteilungen tätig sein.
 
-<sup>2</sup> Als besondere Fälle gelten namentlich Ausstand, Vakanzen und rechtsgebietsübergreifende Streitsachen.
+<sup>2</sup> Richterinnen oder Richter können in besonderen Fällen nach Absprache der betroffenen Abteilungspräsidien in einer anderen Abteilung für die Beurteilung einzelner Fälle beigezogen werden. Als besondere Fälle gelten namentlich Ausstand, Vakanzen, rechtsgebietsübergreifende Streitsachen und übermässiger Anstieg an Fällen.
+
+<sup>2<sup>bis</sup></sup> In Ausnahmesituationen können Richterinnen und Richter für eine beschränkte Zeit ganz oder teilweise in einer oder mehreren Abteilungen tätig sein. Als Ausnahmesituation gelten namentlich mehrmonatige unfall- oder krankheitsbedingte Absenzen von Richterinnen oder Richtern und die ausserordentliche Belastung einer Abteilung.
+
+<sup>2<sup>ter</sup></sup> Die Geschäftsleitung kann bei Vorliegen einer Ausnahmesituation nach Konsultation der Präsidentenkonferenz für sechs Monate, einmal verlängerbar um maximal sechs Monate, insgesamt 100 Richterstellenprozent (eine oder mehrere Personen) ganz oder teilweise einer oder mehreren Abteilungen zuweisen. Die Verlängerung ist vom Gesamtgericht zu bestätigen.
 
 <sup>3</sup> Den Abteilungen werden die Fälle gemäss den §§ 14 ff. nach Rechtsgebieten zugeteilt. Über die Zuweisung von Rechtsgebieten zu allfälligen Kammern entscheidet die Abteilung.
 
