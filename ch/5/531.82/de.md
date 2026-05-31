@@ -3,18 +3,18 @@ sr: "531.82"
 title: Verordnung vom 18. Mai 2022 über die Sicherstellung der Lieferkapazitäten bei einer schweren Mangellage in der Erdgasversorgung
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/310"
 language: de
-version: 2025-12-01
+version: 2026-06-01
 adopted: 2022-05-18
 in_force: 2022-05-23
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/310/20251201/de/xml/fedlex-data-admin-ch-eli-cc-2022-310-20251201-de-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/310/20251201/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/310/20260601/de/xml/fedlex-data-admin-ch-eli-cc-2022-310-20260601-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/310/20260601/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über die Sicherstellung der Lieferkapazitäten bei einer schweren Mangellage in der Erdgasversorgung
 
-vom 18. Mai 2022 (Stand am 1. Dezember 2025)
+vom 18. Mai 2022 (Stand am 1. Juni 2026)
 
 Der Schweizerische Bundesrat,
 
@@ -44,9 +44,10 @@ Die folgenden regionalen Gasnetzbetreiber sind verpflichtet, durch geeignete Mas
 - d. Gasverbund Mittelland AG;
 - e. Gaznat SA.
 
-<sup>2</sup> Sie müssen sicherstellen, dass ab dem 1. November 2025, ab dem 1. Dezember 2026 und ab dem 1. Dezember 2027 Erdgas im Umfang von mindestens 15 Prozent des durchschnittlichen schweizerischen Jahresverbrauchs in handelsüblicher Qualität in Speicheranlagen gelagert und verfügbar ist.
+<sup>2</sup> Sie müssen in den Jahren 2026 und 2027 sicherstellen, dass zu einem beliebigen Zeitpunkt zwischen 1. Oktober und 1. Dezember Erdgas im Umfang von mindestens 15 Prozent des durchschnittlichen schweizerischen Jahresverbrauchs in handelsüblicher Qualität in Speicheranlagen gelagert und verfügbar ist.[^2-2]
 
 [^2-1]: Fassung gemäss Ziff. I der V vom 15. Okt. 2025, in Kraft seit 1. Dez. 2025 ([AS 2025 631](https://fedlex.data.admin.ch/eli/oc/2025/631)).
+[^2-2]: Fassung gemäss Ziff. I der V vom 15. April 2026, in Kraft seit 1. Juni 2026 (AS **202****6** 167).
 
 #### Art. 3
 

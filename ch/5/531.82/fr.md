@@ -3,18 +3,18 @@ sr: "531.82"
 title: Ordonnance du 18 mai 2022 sur la garantie des capacités de livraison en cas de pénurie grave de gaz naturel
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/310"
 language: fr
-version: 2025-12-01
+version: 2026-06-01
 adopted: 2022-05-18
 in_force: 2022-05-23
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/310/20251201/fr/xml/fedlex-data-admin-ch-eli-cc-2022-310-20251201-fr-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/310/20251201/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/310/20260601/fr/xml/fedlex-data-admin-ch-eli-cc-2022-310-20260601-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/310/20260601/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance sur la garantie des capacités de livraison en cas de pénurie grave de gaz naturel
 
-du 18 mai 2022 (État le 1<sup>er</sup> décembre 2025)
+du 18 mai 2022 (État le 1<sup>er</sup> juin 2026)
 
 Le Conseil fédéral suisse,
 
@@ -44,9 +44,10 @@ Les gestionnaires régionaux de réseaux de gaz naturel suivants sont tenus de p
 - d. Gasverbund Mittelland AG;
 - e. Gaznat SA.
 
-<sup>2</sup> Ils doivent garantir que, à partir du 1<sup>er</sup> novembre 2025, à partir du 1<sup>er</sup> décembre 2026 et à partir du 1<sup>er</sup> décembre 2027, un volume de gaz naturel correspondant à au moins 15 % de la consommation annuelle moyenne de gaz naturel de la Suisse est stocké en qualité marchande dans des installations de stockage et disponible.
+<sup>2</sup> En 2026 et 2027, ils doivent garantir qu’à un moment quelconque entre le 1<sup>er</sup> octobre et le 1<sup>er</sup> décembre, un volume de gaz naturel correspondant à au moins 15 % de la consommation annuelle moyenne de gaz naturel de la Suisse est stocké et disponible en qualité marchande dans des installations de stockage.[^2-2]
 
 [^2-1]: Nouvelle teneur selon le ch. I de l’O du 15 oct. 2025, en vigueur depuis le 1<sup>er</sup> déc. 2025 ([RO 2025 631](https://fedlex.data.admin.ch/eli/oc/2025/631)).
+[^2-2]: Nouvelle teneur selon le ch. I de l’O du 15 avr. 2026, en vigueur depuis le 1<sup>er</sup> juin 2026 ([RO 2026 167](https://fedlex.data.admin.ch/eli/oc/2026/167)).
 
 #### Art. 3
 

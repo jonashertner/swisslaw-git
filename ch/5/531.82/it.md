@@ -3,18 +3,18 @@ sr: "531.82"
 title: Ordinanza del 18 maggio 2022 sulla garanzia delle capacità di fornitura di gas naturale in situazioni di grave penuria
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/310"
 language: it
-version: 2025-12-01
+version: 2026-06-01
 adopted: 2022-05-18
 in_force: 2022-05-23
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/310/20251201/it/xml/fedlex-data-admin-ch-eli-cc-2022-310-20251201-it-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/310/20251201/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/310/20260601/it/xml/fedlex-data-admin-ch-eli-cc-2022-310-20260601-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/310/20260601/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza sulla garanzia delle capacità di fornitura di gas naturale in situazioni di grave penuria
 
-del 18 maggio 2022 (Stato 1° dicembre 2025)
+del 18 maggio 2022 (Stato 1° giugno 2026)
 
 Il Consiglio federale,
 
@@ -44,9 +44,10 @@ I seguenti gestori regionali della rete del gas sono tenuti ad adottare misure a
 - d. Gasverbund Mittelland AG;
 - e. Gaznat SA.
 
-<sup>2</sup> Devono garantire che dal 1° novembre 2025, dal 1° dicembre 2026 e dal 1° dicembre 2027 sia stoccato in appositi impianti un volume di gas naturale pari ad almeno il 15 per cento del consumo medio annuo svizzero nella qualità usuale commerciale e che questo volume sia disponibile.
+<sup>2</sup> Negli anni 2026 e 2027 devono garantire che, in qualsiasi momento tra il 1° ottobre e il 1° dicembre, sia stoccato in appositi impianti un volume di gas naturale pari ad almeno il 15 per cento del consumo medio annuo svizzero nella qualità usuale commerciale e che questo volume sia disponibile.[^2-2]
 
 [^2-1]: Nuovo testo giusta la cifra I dell’O del 15 ott. 2025, in vigore dal 1° dic. 2025 ([RU 2025 631](https://fedlex.data.admin.ch/eli/oc/2025/631)).
+[^2-2]: Nuovo testo giusta la cifra I dell’O del 15 apr. 2026, in vigore dal 1° giu. 2026 ([RU 2026 167](https://fedlex.data.admin.ch/eli/oc/2026/167)).
 
 #### Art. 3
 
