@@ -3,11 +3,11 @@ sr: "514.10"
 title: "Ordinanza del 21 novembre 2018 sull'equipaggiamento personale dei militari (OEPM)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/732"
 language: it
-version: 2023-01-01
+version: 2026-06-01
 adopted: 2018-11-21
 in_force: 2019-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/732/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2018-732-20230101-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/732/20230101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/732/20260601/it/xml/fedlex-data-admin-ch-eli-cc-2018-732-20260601-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/732/20260601/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/732/20230101/it"
 
 (OEPM)
 
-del 21 novembre 2018 (Stato 1° gennaio 2023)
+del 21 novembre 2018 (Stato 1° giugno 2026)
 
 Il Consiglio federale svizzero,
 
@@ -24,8 +24,8 @@ visti gli articoli 110 capoversi 3 e 4, 114 capoverso 3 e 150 capoverso 1 della 
 
 ordina:
 
-[^ingress-1]: [RS 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
-[^ingress-2]: [RS 520.1](https://fedlex.data.admin.ch/eli/cc/2020/887)
+[^ingress-1]: [RS 510.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7242)
+[^ingress-2]: [RS 520.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7590)
 
 ## Capitolo 1: Disposizioni generali
 
@@ -81,7 +81,9 @@ L’equipaggiamento personale comprende:
 
 <sup>3</sup> Se sussistono seri segni o indizi ai sensi dell’articolo 113 capoverso 1 LM che impediscono la consegna dell’arma personale, il Comando Istruzione esamina i motivi di tale impedimento.
 
-<sup>4</sup> La consegna degli oggetti d’equipaggiamento è iscritta nel libretto di servizio.
+<sup>4</sup> La consegna degli oggetti d’equipaggiamento è indicata nell’attestato di adempimento dell’obbligo di prestare servizio militare.[^4-1]
+
+[^4-1]: Nuovo testo giusta l’all. n. 4 dell’O del 1° apr. 2026, in vigore dal 1° giu. 2026 ([RU 2026 174](https://fedlex.data.admin.ch/eli/oc/2026/174)).
 
 #### Art. 5
 
@@ -118,7 +120,9 @@ Prima di entrare in servizio:
 
 <sup>1</sup> L’equipaggiamento personale dei militari trasferiti, nuovamente incorporati o promossi in un’altra Arma o formazione di professionisti, un altro servizio ausiliario o un’altra funzione dev’essere adattato.
 
-<sup>2</sup> L’adattamento è iscritto nel libretto di servizio.
+<sup>2</sup> L’adattamento è indicato nell’attestato di adempimento dell’obbligo di prestare servizio militare.[^7-1]
+
+[^7-1]: Nuovo testo giusta l’all. n. 4 dell’O del 1° apr. 2026, in vigore dal 1° giu. 2026 ([RU 2026 174](https://fedlex.data.admin.ch/eli/oc/2026/174)).
 
 ## Capitolo 4: Controllo e ispezione
 
@@ -126,9 +130,11 @@ Prima di entrare in servizio:
 
 **Controllo in servizio**
 
-<sup>1</sup> L’equipaggiamento personale dei militari secondo il libretto di servizio è controllato durante il servizio militare.
+<sup>1</sup> L’equipaggiamento personale dei militari è controllato secondo l’attestato di adempimento dell’obbligo di prestare servizio militare.[^8-1]
 
 <sup>2</sup> Il controllo è eseguito dal comandante con personale proprio della truppa.
+
+[^8-1]: Nuovo testo giusta l’all. n. 4 dell’O del 1° apr. 2026, in vigore dal 1° giu. 2026 ([RU 2026 174](https://fedlex.data.admin.ch/eli/oc/2026/174)).
 
 #### Art. 9
 
@@ -141,7 +147,9 @@ L’ispezione delle armi è eseguita dalla truppa:
 - a. in quanto parte dell’istruzione nelle ultime due settimane della scuola reclute, in ogni caso dopo l’ultimo tiro di combattimento;
 - b. nell’ultima settimana del servizio di perfezionamento della truppa.
 
-<sup>2</sup> L’ispezione è iscritta nel libretto di servizio.
+<sup>2</sup> L’ispezione è indicata nell’attestato di adempimento dell’obbligo di prestare servizio militare.[^9-1]
+
+[^9-1]: Nuovo testo giusta l’all. n. 4 dell’O del 1° apr. 2026, in vigore dal 1° giu. 2026 ([RU 2026 174](https://fedlex.data.admin.ch/eli/oc/2026/174)).
 
 ## Capitolo 5: Manutenzione e riparazione
 
@@ -173,13 +181,15 @@ L’ispezione delle armi è eseguita dalla truppa:
 
 **Deposito di oggetti d’equipaggiamento senza arma personale**
 
-<sup>1</sup> I militari che desiderano depositare il loro equipaggiamento personale o parti di esso inoltrano una domanda scritta debitamente motivata, allegando il libretto di servizio, al comandante di circondario competente.
+<sup>1</sup> I militari che desiderano depositare il loro equipaggiamento personale o parti di esso presentano una domanda debitamente motivata al comandante di circondario competente.[^12-1]
 
 <sup>2</sup> Il comandante di circondario decide sulla base delle motivazioni contenute nella domanda se per il deposito viene riscossa una tassa o se è gratuito.
 
 <sup>3</sup> L’equipaggiamento personale deve essere depositato presso un punto di ristabilimento della BLEs. Viene eseguito un controllo degli oggetti d’equipaggiamento depositati.
 
 <sup>4</sup> Le spese di viaggio e di trasporto sono a carico del militare.
+
+[^12-1]: Nuovo testo giusta l’all. n. 4 dell’O del 1° apr. 2026, in vigore dal 1° giu. 2026 ([RU 2026 174](https://fedlex.data.admin.ch/eli/oc/2026/174)).
 
 #### Art. 13
 
@@ -294,8 +304,8 @@ L’uso dell’uniforme fuori del servizio è autorizzato nei seguenti casi:
 
 <sup>2</sup> Se il porto dell’uniforme è autorizzato, esso deve rispettare le prescrizioni militari.
 
-[^21-1]: [RS 512.30](https://fedlex.data.admin.ch/eli/cc/2003/683)
-[^21-2]: [RS 512.38](https://fedlex.data.admin.ch/eli/cc/2003/584)
+[^21-1]: [RS 512.30](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7432)
+[^21-2]: [RS 512.38](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7440)
 
 #### Art. 22
 
@@ -328,10 +338,11 @@ Sono tenuti a riconsegnare l’equipaggiamento personale i militari:
 
 <sup>3</sup> L’equipaggiamento personale è riconsegnato presso un punto di ristabilimento.
 
-<sup>4</sup> La riconsegna è iscritta nel libretto di servizio.
+<sup>4</sup> La riconsegna è indicata nell’attestato di adempimento dell’obbligo di prestare servizio militare.[^23-3]
 
-[^23-1]: [RS 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
-[^23-2]: [RS 824.0](https://fedlex.data.admin.ch/eli/cc/1996/1445_1445_1445)
+[^23-1]: [RS 321.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6242)
+[^23-2]: [RS 824.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9978)
+[^23-3]: Nuovo testo giusta l’all. n. 4 dell’O del 1° apr. 2026, in vigore dal 1° giu. 2026 ([RU 2026 174](https://fedlex.data.admin.ch/eli/oc/2026/174)).
 
 #### Art. 24
 
@@ -341,7 +352,7 @@ Sono tenuti a riconsegnare l’equipaggiamento personale i militari:
 
 <sup>2</sup> In tutti gli altri casi la convocazione a riconsegnare l’equipaggiamento personale è emanata dalla BLEs.
 
-[^24-1]: Nuovo testo giusta il n. I dell’O del 25 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6075](https://fedlex.data.admin.ch/eli/oc/2020/1006)).
+[^24-1]: Nuovo testo giusta la cifra I dell’O del 25 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6075](https://fedlex.data.admin.ch/eli/oc/2020/1006)).
 
 #### Art. 25
 
@@ -392,8 +403,8 @@ I militari non ricevono in proprietà alcun oggetto d’equipaggiamento se:
 
 <sup>2</sup> Chi è stato dichiarato inabile al servizio giusta i numeri NM IV (R) o NM 2460–2550, 2580–2621, 2691, 2700–2733, 2750, 2770, 2800–2902, 2940–2970, 3060–3074, 3910, 3920 e 3930 della *Nosologia Militaris* (NM), documentazione 59.10, non può diventare proprietario di un’arma personale.
 
-[^28-1]: [RS 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
-[^28-2]: [RS 824.0](https://fedlex.data.admin.ch/eli/cc/1996/1445_1445_1445)
+[^28-1]: [RS 321.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6242)
+[^28-2]: [RS 824.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9978)
 
 #### Art. 29
 
@@ -404,7 +415,7 @@ I militari non ricevono in proprietà alcun oggetto d’equipaggiamento se:
 Quando lasciano l’esercito, i militari ricevono in proprietà il fucile d’assalto se:
 
 - a. hanno diritto all’equipaggiamento personale o a parti di esso (art. 26 e 28);
-- b.[^29-1] negli ultimi tre anni civili hanno effettuato quattro esercizi federali con la relativa arma e li hanno fatti iscrivere nel libretto di tiro o nel libretto delle prestazioni militari; e
+- b.[^29-1] negli ultimi tre anni civili hanno effettuato quattro esercizi federali con la relativa arma e questi sono documentabili mediante iscrizioni nel sistema d’informazione per il tiro fuori del servizio; e
 - c. presentano un permesso d’acquisto di armi valido per il fucile d’assalto giusta l’articolo 8 capoverso 1 della legge del 20 giugno 1997[^29-2] sulle armi (LArm).
 
 <sup>2</sup> Il fucile d’assalto è ceduto in proprietà ai militari contro pagamento di un contributo di 100 franchi.
@@ -413,9 +424,9 @@ Quando lasciano l’esercito, i militari ricevono in proprietà il fucile d’as
 
 <sup>4</sup> In linea di principio l’arma personale ceduta in proprietà è quella che era stata assegnata. In funzione delle scorte di armi e in via eccezionale può essere ceduta in proprietà un’arma di un altro tipo.[^29-3]
 
-[^29-1]: Nuovo testo giusta il n. II dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 828](https://fedlex.data.admin.ch/eli/oc/2022/828)).
-[^29-2]: [RS 514.54](https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535)
-[^29-3]: Nuovo testo giusta il n. II dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 828](https://fedlex.data.admin.ch/eli/oc/2022/828)).
+[^29-1]: Nuovo testo giusta l’all. n. 4 dell’O del 1° apr. 2026, in vigore dal 1° giu. 2026 ([RU 2026 174](https://fedlex.data.admin.ch/eli/oc/2026/174)).
+[^29-2]: [RS 514.54](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7530)
+[^29-3]: Nuovo testo giusta la cifra II dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 828](https://fedlex.data.admin.ch/eli/oc/2022/828)).
 
 #### Art. 30
 
@@ -432,8 +443,8 @@ Quando lasciano l’esercito, i militari ricevono in proprietà una pistola, sen
 
 <sup>3</sup> In linea di principio l’arma personale ceduta in proprietà è quella che era stata assegnata. In funzione delle scorte di armi e in via eccezionale può essere ceduta in proprietà un’arma di un altro tipo.[^30-2]
 
-[^30-1]: [RS 514.54](https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535)
-[^30-2]: Nuovo testo giusta il n. II dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 828](https://fedlex.data.admin.ch/eli/oc/2022/828)).
+[^30-1]: [RS 514.54](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7530)
+[^30-2]: Nuovo testo giusta la cifra II dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 828](https://fedlex.data.admin.ch/eli/oc/2022/828)).
 
 #### Art. 31
 
@@ -457,9 +468,11 @@ In caso di cessione in proprietà del fucile d’assalto o della pistola, la BLE
 
 #### Art. 32
 
-**Iscrizione nel libretto di servizio**
+**Iscrizione nell’attestato di adempimento dell’obbligo di prestare servizio militare**[^32-1]
 
-La cessione degli oggetti d’equipaggiamento personale è iscritta nel libretto di servizio.
+La cessione degli oggetti d’equipaggiamento personale è indicata nell’attestato di adempimento dell’obbligo di prestare servizio militare.
+
+[^32-1]: Nuovo testo giusta l’all. n. 4 dell’O del 1° apr. 2026, in vigore dal 1° giu. 2026 ([RU 2026 174](https://fedlex.data.admin.ch/eli/oc/2026/174)).
 
 #### Art. 33
 
@@ -505,7 +518,7 @@ Sono abrogate:
 - 1\. l’ordinanza del 5 dicembre 2003[^37-1] sull’equipaggiamento personale dei militari,
 - 2\. l’ordinanza del DDPS del 9 dicembre 2003[^37-2] sull’equipaggiamento personale dei militari.
 
-[^37-1]: [[RU 2003 5137](https://fedlex.data.admin.ch/eli/oc/2003/755), [2005 1413](https://fedlex.data.admin.ch/eli/oc/2005/209), [2006 4791](https://fedlex.data.admin.ch/eli/oc/2006/733), [2009 6503](https://fedlex.data.admin.ch/eli/oc/2009/796), [2010 5971](https://fedlex.data.admin.ch/eli/oc/2010/858)n. I 12, [2014 4493](https://fedlex.data.admin.ch/eli/oc/2014/748), [2017 7405](https://fedlex.data.admin.ch/eli/oc/2017/810)all. 7 n. II 5]
+[^37-1]: [[RU 2003 5137](https://fedlex.data.admin.ch/eli/oc/2003/755), [2005 1413](https://fedlex.data.admin.ch/eli/oc/2005/209), [2006 4791](https://fedlex.data.admin.ch/eli/oc/2006/733), [2009 6503](https://fedlex.data.admin.ch/eli/oc/2009/796), [2010 5971](https://fedlex.data.admin.ch/eli/oc/2010/858)cifra I n. 12, [2014 4493](https://fedlex.data.admin.ch/eli/oc/2014/748), [2017 7405](https://fedlex.data.admin.ch/eli/oc/2017/810)all. 7 cifra II n. 5]
 [^37-2]: [[RU 2004 69](https://fedlex.data.admin.ch/eli/oc/2004/4), [2005 1479](https://fedlex.data.admin.ch/eli/oc/2005/224), [2006 4795](https://fedlex.data.admin.ch/eli/oc/2006/734), [2007 6801](https://fedlex.data.admin.ch/eli/oc/2007/873)art. 36, [2008 69](https://fedlex.data.admin.ch/eli/oc/2008/28), [2009 6735](https://fedlex.data.admin.ch/eli/oc/2009/826), [2014 4495](https://fedlex.data.admin.ch/eli/oc/2014/749)]
 
 #### Art. 38

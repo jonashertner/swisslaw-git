@@ -3,11 +3,11 @@ sr: "514.10"
 title: "Ordonnance du 21 novembre 2018 concernant l'équipement personnel des militaires (OEPM)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/732"
 language: fr
-version: 2023-01-01
+version: 2026-06-01
 adopted: 2018-11-21
 in_force: 2019-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/732/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2018-732-20230101-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/732/20230101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/732/20260601/fr/xml/fedlex-data-admin-ch-eli-cc-2018-732-20260601-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/732/20260601/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/732/20230101/fr"
 
 (OEPM)
 
-du 21 novembre 2018 (État le 1<sup>er</sup> janvier 2023)
+du 21 novembre 2018 (État le 1<sup>er</sup> juin 2026)
 
 Le Conseil fédéral suisse,
 
@@ -24,8 +24,8 @@ vu les art. 110, al. 3 et 4, 114, al. 3, et 150, al. 1, de la loi du 3 février 
 
 arrête:
 
-[^ingress-1]: [RS 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
-[^ingress-2]: [[RO 2003 4187](https://fedlex.data.admin.ch/eli/oc/2003/620), [4327](https://fedlex.data.admin.ch/eli/oc/2003/645); [2005 2881](https://fedlex.data.admin.ch/eli/oc/2005/472)ch. I al. 1 let. c; [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)annexe ch. 47; [2009 6617](https://fedlex.data.admin.ch/eli/oc/2009/823)annexe ch. 3; [2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869)annexe ch. 4; [2011 5891](https://fedlex.data.admin.ch/eli/oc/2011/816); [2012 335](https://fedlex.data.admin.ch/eli/oc/2012/20); [2014 3545](https://fedlex.data.admin.ch/eli/oc/2014/615)art. 23; [2015 187](https://fedlex.data.admin.ch/eli/oc/2015/24); [2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714)annexe ch. 7; [2018 5343](https://fedlex.data.admin.ch/eli/oc/2018/807)annexe ch. 7. [RO 2020 4995](https://fedlex.data.admin.ch/eli/oc/2020/887)annexe ch. I]. Voir actuellement la LF du 20 déc. 2019 ([RS 520.1](https://fedlex.data.admin.ch/eli/cc/2020/887)).
+[^ingress-1]: [RS 510.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7242)
+[^ingress-2]: [[RO 2003 4187](https://fedlex.data.admin.ch/eli/oc/2003/620), [4327](https://fedlex.data.admin.ch/eli/oc/2003/645); [2005 2881](https://fedlex.data.admin.ch/eli/oc/2005/472)ch. I al. 1 let. c; [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)annexe ch. 47; [2009 6617](https://fedlex.data.admin.ch/eli/oc/2009/823)annexe ch. 3; [2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869)annexe ch. 4; [2011 5891](https://fedlex.data.admin.ch/eli/oc/2011/816); [2012 335](https://fedlex.data.admin.ch/eli/oc/2012/20); [2014 3545](https://fedlex.data.admin.ch/eli/oc/2014/615)art. 23; [2015 187](https://fedlex.data.admin.ch/eli/oc/2015/24); [2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714)annexe ch. 7; [2018 5343](https://fedlex.data.admin.ch/eli/oc/2018/807)annexe ch. 7. [RO 2020 4995](https://fedlex.data.admin.ch/eli/oc/2020/887)annexe ch. I]. Voir actuellement la LF du 20 déc. 2019 ([RS 520.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7590)).
 
 ## Chapitre 1 Dispositions générales
 
@@ -81,7 +81,9 @@ L’équipement personnel comprend:
 
 <sup>3</sup> Si des signes ou des indices sérieux au sens de l’art. 113, al. 1, LAAM s’opposent à la remise de l’arme personnelle, le commandement de l’Instruction examine les motifs empêchant la remise.
 
-<sup>4</sup> La remise des effets d’équipement doit être inscrite dans le livret de service.
+<sup>4</sup> La remise des effets d’équipement doit être indiquée sur l’attestation de l’accomplissement des obligations militaires.[^4-1]
+
+[^4-1]: Nouvelle teneur selon l’annexe ch. 4 de l’O du 1<sup>er</sup> avr. 2026, en vigueur depuis le 1<sup>er</sup> juin 2026 ([RO 2026 174](https://fedlex.data.admin.ch/eli/oc/2026/174)).
 
 #### Art. 5
 
@@ -118,7 +120,9 @@ Avant l’entrée au service, les militaires:
 
 <sup>1</sup> L’équipement des militaires faisant l’objet d’une nouvelle incorporation ou d’une promotion dans une autre arme, une autre formation professionnelle, un autre service auxiliaire ou une autre fonction doit être adapté en conséquence.
 
-<sup>2</sup> L’adaptation doit être inscrite dans le livret de service.
+<sup>2</sup> L’adaptation doit être indiquée sur l’attestation de l’accomplissement des obligations militaires.[^7-1]
+
+[^7-1]: Nouvelle teneur selon l’annexe ch. 4 de l’O du 1<sup>er</sup> avr. 2026, en vigueur depuis le 1<sup>er</sup> juin 2026 ([RO 2026 174](https://fedlex.data.admin.ch/eli/oc/2026/174)).
 
 ## Chapitre 4 Contrôle et inspection
 
@@ -126,9 +130,11 @@ Avant l’entrée au service, les militaires:
 
 **Contrôle pendant le service**
 
-<sup>1</sup> Pendant le service militaire, l’équipement personnel des militaires est contrôlé en fonction du livret de service.
+<sup>1</sup> L’équipement personnel des militaires est contrôlé sur la base de l’attestation de l’accomplissement des obligations militaires.[^8-1]
 
 <sup>2</sup> Le contrôle est effectué par le commandant, lequel est épaulé par des membres de sa troupe.
+
+[^8-1]: Nouvelle teneur selon l’annexe ch. 4 de l’O du 1<sup>er</sup> avr. 2026, en vigueur depuis le 1<sup>er</sup> juin 2026 ([RO 2026 174](https://fedlex.data.admin.ch/eli/oc/2026/174)).
 
 #### Art. 9
 
@@ -141,7 +147,9 @@ L’inspection des armes est assurée par la troupe:
 - a. en tant que partie de l’instruction dans le courant des deux dernières semaines de l’école de recrues et d’office après le dernier tir de combat;
 - b. lors de la dernière semaine du service de perfectionnement de la troupe.
 
-<sup>2</sup> L’inspection doit être inscrite dans le livret de service.
+<sup>2</sup> L’inspection doit être indiquée sur l’attestation de l’accomplissement des obligations militaires.[^9-1]
+
+[^9-1]: Nouvelle teneur selon l’annexe ch. 4 de l’O du 1<sup>er</sup> avr. 2026, en vigueur depuis le 1<sup>er</sup> juin 2026 ([RO 2026 174](https://fedlex.data.admin.ch/eli/oc/2026/174)).
 
 ## Chapitre 5 Maintenance et réparation
 
@@ -173,13 +181,15 @@ L’inspection des armes est assurée par la troupe:
 
 **Mise en consignation des effets d’équipement sans arme personnelle**
 
-<sup>1</sup> Le militaire qui souhaite mettre en consignation tout ou partie de son équipement personnel adresse, avec son livret de service, une demande écrite motivée au commandant d’arrondissement compétent.
+<sup>1</sup> Le militaire qui souhaite mettre en consignation tout ou partie de son équipement personnel adresse une demande motivée au commandant d’arrondissement compétent.[^12-1]
 
 <sup>2</sup> Le commandant d’arrondissement statue, sur la base des motifs invoqués dans la demande, sur la gratuité de la mise en consignation ou sur le versement d’une taxe de consignation.
 
 <sup>3</sup> L’équipement personnel doit être mis en consignation auprès d’un magasin de rétablissement de la BLA. Les effets d’équipement consignés sont contrôlés.
 
 <sup>4</sup> Les frais de voyage et de transport sont à la charge du militaire.
+
+[^12-1]: Nouvelle teneur selon l’annexe ch. 4 de l’O du 1<sup>er</sup> avr. 2026, en vigueur depuis le 1<sup>er</sup> juin 2026 ([RO 2026 174](https://fedlex.data.admin.ch/eli/oc/2026/174)).
 
 #### Art. 13
 
@@ -294,8 +304,8 @@ Le port de l’uniforme en dehors du service est autorisé dans les cas suivants
 
 <sup>2</sup> Le port de l’uniforme impose le respect des prescriptions militaires le concernant.
 
-[^21-1]: [RS 512.30](https://fedlex.data.admin.ch/eli/cc/2003/683)
-[^21-2]: [RS 512.38](https://fedlex.data.admin.ch/eli/cc/2003/584)
+[^21-1]: [RS 512.30](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7432)
+[^21-2]: [RS 512.38](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7440)
 
 #### Art. 22
 
@@ -328,10 +338,11 @@ Sont tenus de restituer leur équipement les militaires qui:
 
 <sup>3</sup> La reprise de l’équipement incombe au magasin de rétablissement.
 
-<sup>4</sup> La restitution doit être inscrite dans le livret de service.
+<sup>4</sup> La restitution doit être indiquée sur l’attestation de l’accomplissement des obligations militaires.[^23-3]
 
-[^23-1]: [RS 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
-[^23-2]: [RS 824.0](https://fedlex.data.admin.ch/eli/cc/1996/1445_1445_1445)
+[^23-1]: [RS 321.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6242)
+[^23-2]: [RS 824.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9978)
+[^23-3]: Nouvelle teneur selon l’annexe ch. 4 de l’O du 1<sup>er</sup> avr. 2026, en vigueur depuis le 1<sup>er</sup> juin 2026 ([RO 2026 174](https://fedlex.data.admin.ch/eli/oc/2026/174)).
 
 #### Art. 24
 
@@ -392,8 +403,8 @@ Les militaires ne reçoivent aucun effet d’équipement en toute propriété:
 
 <sup>2</sup> Les personnes qui ont été déclarées inaptes au service, en vertu des ch. NM IV (R) ou NM 2460 à 2550, 2580 à 2621, 2691, 2700 à 2733, 2750, 2770, 2800 à 2902, 2940 à 2970, 3060 à 3074, 3910, 3920 et 3930 de la *Nosologia Militaris* (NM), documentation 59.10, ne peuvent pas devenir propriétaires d’une arme personnelle.
 
-[^28-1]: [RS 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
-[^28-2]: [RS 824.0](https://fedlex.data.admin.ch/eli/cc/1996/1445_1445_1445)
+[^28-1]: [RS 321.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6242)
+[^28-2]: [RS 824.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9978)
 
 #### Art. 29
 
@@ -404,7 +415,7 @@ Les militaires ne reçoivent aucun effet d’équipement en toute propriété:
 Les militaires qui quittent l’armée reçoivent le fusil d’assaut en toute propriété:
 
 - a. s’ils ont droit à tout ou partie de l’équipement conformément aux art. 26 et 28;
-- b.[^29-1] s’ils ont accompli, avec une arme similaire, quatre exercices fédéraux attestés dans le livret de tir ou de performances militaires au cours des trois dernières années civiles, et
+- b.[^29-1] s’ils ont accompli, avec une arme correspondante, quatre exercices fédéraux attestés dans le système d’information du tir hors du service au cours des trois dernières années civiles, et
 - c. s’ils présentent un permis d’acquisition valable pour le fusil d’assaut selon l’art. 8, al. 1, de la loi du 20 juin 1997 sur les armes (LArm)[^29-2].
 
 <sup>2</sup> Le fusil d’assaut est remis au militaire contre le versement d’une indemnité de 100 francs.
@@ -413,8 +424,8 @@ Les militaires qui quittent l’armée reçoivent le fusil d’assaut en toute p
 
 <sup>4</sup> En principe, l’arme remise en toute propriété est celle qui a été attribuée. En fonction du stock disponible et à titre exceptionnel, une arme d’un autre type peut être remise.[^29-3]
 
-[^29-1]: Nouvelle teneur selon le ch. II de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 828](https://fedlex.data.admin.ch/eli/oc/2022/828)).
-[^29-2]: [RS 514.54](https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535)
+[^29-1]: Nouvelle teneur selon l’annexe ch. 4 de l’O du 1<sup>er</sup> avr. 2026, en vigueur depuis le 1<sup>er</sup> juin 2026 ([RO 2026 174](https://fedlex.data.admin.ch/eli/oc/2026/174)).
+[^29-2]: [RS 514.54](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7530)
 [^29-3]: Nouvelle teneur selon le ch. II de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 828](https://fedlex.data.admin.ch/eli/oc/2022/828)).
 
 #### Art. 30
@@ -432,7 +443,7 @@ Les militaires qui quittent l’armée reçoivent le pistolet en toute propriét
 
 <sup>3</sup> En principe, l’arme remise en toute propriété est celle qui a été attribuée. En fonction du stock disponible et à titre exceptionnel, une arme d’un autre type peut être remise.[^30-2]
 
-[^30-1]: [RS 514.54](https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535)
+[^30-1]: [RS 514.54](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7530)
 [^30-2]: Nouvelle teneur selon le ch. II de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 828](https://fedlex.data.admin.ch/eli/oc/2022/828)).
 
 #### Art. 31
@@ -457,9 +468,11 @@ Lors de la cession en toute propriété du fusil d’assaut ou du pistolet, la B
 
 #### Art. 32
 
-**Inscription dans le livret de service**
+**Inscription sur l’attestation de l’accomplissement des obligations militaires**[^32-1]
 
-La cession des effets d’équipement doit être inscrite dans le livret de service.
+La cession des effets d’équipement doit être indiquée sur l’attestation de l’accomplissement des obligations militaires.
+
+[^32-1]: Nouvelle teneur selon l’annexe ch. 4 de l’O du 1<sup>er</sup> avr. 2026, en vigueur depuis le 1<sup>er</sup> juin 2026 ([RO 2026 174](https://fedlex.data.admin.ch/eli/oc/2026/174)).
 
 #### Art. 33
 

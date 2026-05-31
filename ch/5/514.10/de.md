@@ -3,11 +3,11 @@ sr: "514.10"
 title: Verordnung vom 21. November 2018 über die persönliche Ausrüstung der Armeeangehörigen (VPAA)
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/732"
 language: de
-version: 2023-01-01
+version: 2026-06-01
 adopted: 2018-11-21
 in_force: 2019-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/732/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2018-732-20230101-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/732/20230101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/732/20260601/de/xml/fedlex-data-admin-ch-eli-cc-2018-732-20260601-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/732/20260601/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/732/20230101/de"
 
 (VPAA)
 
-vom 21. November 2018 (Stand am 1. Januar 2023)
+vom 21. November 2018 (Stand am 1. Juni 2026)
 
 Der Schweizerische Bundesrat,
 
@@ -24,8 +24,8 @@ gestützt auf die Artikel 110 Absätze 3 und 4, 114 Absatz 3 und 150 Absatz 1 de
 
 verordnet:
 
-[^ingress-1]: [SR 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
-[^ingress-2]: [SR 520.1](https://fedlex.data.admin.ch/eli/cc/2020/887)
+[^ingress-1]: [SR 510.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7242)
+[^ingress-2]: [SR 520.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7590)
 
 ## 1. Kapitel: Allgemeine Bestimmungen
 
@@ -81,7 +81,9 @@ Die persönliche Ausrüstung umfasst:
 
 <sup>3</sup> Bestehen ernstzunehmende Anzeichen oder Hinweise nach Artikel 113 Absatz 1 MG, die der Abgabe der persönlichen Waffe entgegenstehen, so prüft das Kommando Ausbildung die Hinderungsgründe.
 
-<sup>4</sup> Die Abgabe der Ausrüstungsgegenstände ist im Dienstbüchlein einzutragen.
+<sup>4</sup> Die Abgabe der Ausrüstungsgegenstände ist im Ausweis über die Erfüllung der Militärdienstpflicht anzuzeigen.[^4-1]
+
+[^4-1]: Fassung gemäss Anhang Ziff. 4 der V vom 1. April 2026, in Kraft seit 1. Juni 2026 ([AS 2026 174](https://fedlex.data.admin.ch/eli/oc/2026/174)).
 
 #### Art. 5
 
@@ -118,7 +120,9 @@ Sie müssen vor dem Einrücken:
 
 <sup>1</sup> Die persönliche Ausrüstung von Angehörigen der Armee, die in eine andere Truppengattung oder Berufsformation, in einen anderen Dienstzweig oder in eine andere Funktion versetzt, neu eingeteilt oder befördert werden, ist entsprechend anzupassen.
 
-<sup>2</sup> Die Anpassung ist im Dienstbüchlein einzutragen.
+<sup>2</sup> Die Anpassung ist im Ausweis über die Erfüllung der Militärdienstpflicht anzuzeigen.[^7-1]
+
+[^7-1]: Fassung gemäss Anhang Ziff. 4 der V vom 1. April 2026, in Kraft seit 1. Juni 2026 ([AS 2026 174](https://fedlex.data.admin.ch/eli/oc/2026/174)).
 
 ## 4. Kapitel: Kontrolle und Inspektion
 
@@ -126,9 +130,11 @@ Sie müssen vor dem Einrücken:
 
 **Kontrolle im Dienst**
 
-<sup>1</sup> Die persönliche Ausrüstung der Angehörigen der Armee gemäss Dienstbüchlein wird im Militärdienst überprüft.
+<sup>1</sup> Die persönliche Ausrüstung der Angehörigen der Armee wird gemäss Ausweis über die Erfüllung der Militärdienstpflicht überprüft.[^8-1]
 
 <sup>2</sup> Die Überprüfung erfolgt durch den Kommandanten oder die Kommandantin mit truppeneigenem Personal.
+
+[^8-1]: Fassung gemäss Anhang Ziff. 4 der V vom 1. April 2026, in Kraft seit 1. Juni 2026 ([AS 2026 174](https://fedlex.data.admin.ch/eli/oc/2026/174)).
 
 #### Art. 9
 
@@ -141,7 +147,9 @@ Die Waffeninspektion wird von der Truppe durchgeführt:
 - a. als Teil der Ausbildung in den letzten zwei Wochen der Rekrutenschule, in jedem Fall nach dem letzten Gefechtsschiessen;
 - b. in der letzten Woche des Fortbildungsdienstes der Truppe.
 
-<sup>2</sup> Die Inspektion ist im Dienstbüchlein einzutragen.
+<sup>2</sup> Die Inspektion ist im Ausweis über die Erfüllung der Militärdienstpflicht anzuzeigen.[^9-1]
+
+[^9-1]: Fassung gemäss Anhang Ziff. 4 der V vom 1. April 2026, in Kraft seit 1. Juni 2026 ([AS 2026 174](https://fedlex.data.admin.ch/eli/oc/2026/174)).
 
 ## 5. Kapitel: Instandhaltung und Reparatur
 
@@ -173,13 +181,15 @@ Die Waffeninspektion wird von der Truppe durchgeführt:
 
 **Hinterlegung von Ausrüstungsgegenständen ohne persönliche Waffe**
 
-<sup>1</sup> Angehörige der Armee, die ihre persönliche Ausrüstung oder Teile davon hinterlegen möchten, reichen beim zuständigen Kreiskommandanten oder bei der zuständigen Kreiskommandantin ein begründetes, schriftliches Gesuch unter Beilage des Dienstbüchleins ein.
+<sup>1</sup> Angehörige der Armee, die ihre persönliche Ausrüstung oder Teile davon hinterlegen möchten, reichen beim zuständigen Kreiskommandanten oder bei der zuständigen Kreiskommandantin ein begründetes Gesuch ein.[^12-1]
 
 <sup>2</sup> Der Kreiskommandant oder die Kreiskommandantin entscheidet aufgrund der Gesuchsgründe, ob die Hinterlegung gegen Entrichtung einer Gebühr erfolgt oder kostenlos ist.
 
 <sup>3</sup> Die persönliche Ausrüstung ist in einer Retablierungsstelle der LBA zu hinterlegen. Über die hinterlegten Ausrüstungsgegenstände wird eine Kontrolle geführt.
 
 <sup>4</sup> Die Reise- und die Transportkosten sind durch die Angehörigen der Armee zu tragen.
+
+[^12-1]: Fassung gemäss Anhang Ziff. 4 der V vom 1. April 2026, in Kraft seit 1. Juni 2026 ([AS 2026 174](https://fedlex.data.admin.ch/eli/oc/2026/174)).
 
 #### Art. 13
 
@@ -294,8 +304,8 @@ Die Benützung der Uniform ausser Dienst ist in folgenden Fällen gestattet:
 
 <sup>2</sup> Darf die Uniform getragen werden, so hat diese den militärischen Vorschriften zu entsprechen.
 
-[^21-1]: [SR 512.30](https://fedlex.data.admin.ch/eli/cc/2003/683)
-[^21-2]: [SR 512.38](https://fedlex.data.admin.ch/eli/cc/2003/584)
+[^21-1]: [SR 512.30](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7432)
+[^21-2]: [SR 512.38](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7440)
 
 #### Art. 22
 
@@ -328,10 +338,11 @@ Zur Rückgabe der persönlichen Ausrüstung verpflichtet sind Angehörige der Ar
 
 <sup>3</sup> Die Rücknahme der persönlichen Ausrüstung erfolgt durch die Retablierungsstelle.
 
-<sup>4</sup> Die Rückgabe ist im Dienstbüchlein einzutragen.
+<sup>4</sup> Die Rückgabe ist im Ausweis über die Erfüllung der Militärdienstpflicht anzuzeigen.[^23-3]
 
-[^23-1]: [SR 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
-[^23-2]: [SR 824.0](https://fedlex.data.admin.ch/eli/cc/1996/1445_1445_1445)
+[^23-1]: [SR 321.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6242)
+[^23-2]: [SR 824.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9978)
+[^23-3]: Fassung gemäss Anhang Ziff. 4 der V vom 1. April 2026, in Kraft seit 1. Juni 2026 ([AS 2026 174](https://fedlex.data.admin.ch/eli/oc/2026/174)).
 
 #### Art. 24
 
@@ -392,8 +403,8 @@ Angehörige der Armee erhalten keine Ausrüstungsgegenstände zu Eigentum, wenn 
 
 <sup>2</sup> Wer nach den Ziffern NM IV (R) oder NM 2460-2550, 2580-2621, 2691, 2700-2733, 2750, 2770, 2800-2902, 2940-2970, 3060-3074, 3910, 3920 und 3930 der *Nosologia Militaris* (NM), Dokumentation 59.10, für dienstuntauglich erklärt worden ist, kann nicht Eigentümer oder Eigentümerin einer persönlichen Waffe werden.
 
-[^28-1]: [SR 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
-[^28-2]: [SR 824.0](https://fedlex.data.admin.ch/eli/cc/1996/1445_1445_1445)
+[^28-1]: [SR 321.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6242)
+[^28-2]: [SR 824.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9978)
 
 #### Art. 29
 
@@ -404,7 +415,7 @@ Angehörige der Armee erhalten keine Ausrüstungsgegenstände zu Eigentum, wenn 
 Angehörige der Armee erhalten beim Ausscheiden aus der Armee ein Sturmgewehr zu Eigentum, wenn:
 
 - a. sie Anrecht auf die persönliche Ausrüstung oder auf Teile davon haben (Art. 26 und 28);
-- b.[^29-1] sie in den letzten drei Kalenderjahren vier Bundesübungen mit der entsprechenden Waffe absolviert haben und diese im Schiessbüchlein oder im militärischen Leistungsausweis eingetragen sind; und
+- b.[^29-1] sie in den letzten drei Kalenderjahren vier Bundesübungen mit der entsprechenden Waffe absolviert haben und diese mittels Einträge im Informationssystem Schiesswesen ausser Dienst belegbar sind; und
 - c. sie einen gültigen Waffenerwerbsschein nach Artikel 8 Absatz 1 des Waffengesetzes vom 20. Juni 1997[^29-2] (WG) für das Sturmgewehr vorlegen.
 
 <sup>2</sup> Das Sturmgewehr wird den Angehörigen der Armee gegen eine Entschädigung von 100 Franken zu Eigentum überlassen.
@@ -413,8 +424,8 @@ Angehörige der Armee erhalten beim Ausscheiden aus der Armee ein Sturmgewehr zu
 
 <sup>4</sup> Im Grundsatz geht die zugeteilte persönliche Waffe ins Eigentum über. In Ausnahmefällen kann aus Bestandesgründen eine Waffe eines anderen Typs abgegeben werden.[^29-3]
 
-[^29-1]: Fassung gemäss Ziff. II der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 828](https://fedlex.data.admin.ch/eli/oc/2022/828)).
-[^29-2]: [SR 514.54](https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535)
+[^29-1]: Fassung gemäss Anhang Ziff. 4 der V vom 1. April 2026, in Kraft seit 1. Juni 2026 ([AS 2026 174](https://fedlex.data.admin.ch/eli/oc/2026/174)).
+[^29-2]: [SR 514.54](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7530)
 [^29-3]: Fassung gemäss Ziff. II der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 828](https://fedlex.data.admin.ch/eli/oc/2022/828)).
 
 #### Art. 30
@@ -432,7 +443,7 @@ Angehörige der Armee erhalten beim Ausscheiden aus der Armee eine Pistole ohne 
 
 <sup>3</sup> Im Grundsatz geht die zugeteilte persönliche Waffe ins Eigentum über. In Ausnahmefällen kann aus Bestandesgründen eine Waffe eines anderen Typs abgegeben werden.[^30-2]
 
-[^30-1]: [SR 514.54](https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535)
+[^30-1]: [SR 514.54](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7530)
 [^30-2]: Fassung gemäss Ziff. II der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 828](https://fedlex.data.admin.ch/eli/oc/2022/828)).
 
 #### Art. 31
@@ -457,9 +468,11 @@ Die LBA erfasst bei der Überlassung des Sturmgewehres oder der Pistole zu Eigen
 
 #### Art. 32
 
-**Eintrag im Dienstbüchlein**
+**Eintrag im Ausweis über die Erfüllung der Militärdienstpflicht**[^32-1]
 
-Die Überlassung der persönlichen Ausrüstungsgegenstände ist im Dienstbüchlein einzutragen.
+Die Überlassung der persönlichen Ausrüstungsgegenstände ist im Ausweis über die Erfüllung der Militärdienstpflicht anzuzeigen.
+
+[^32-1]: Fassung gemäss Anhang Ziff. 4 der V vom 1. April 2026, in Kraft seit 1. Juni 2026 ([AS 2026 174](https://fedlex.data.admin.ch/eli/oc/2026/174)).
 
 #### Art. 33
 
