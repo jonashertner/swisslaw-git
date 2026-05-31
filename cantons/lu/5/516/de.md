@@ -4,13 +4,12 @@ number: "516"
 title: Statut der Pädagogischen Hochschule Luzern
 short: PH-Statut
 language: de
-version: 2024-08-01
-valid_until: 2026-05-31
-version_adopted: 2024-06-26
+version: 2026-06-01
+version_adopted: 2026-05-18
 adopted: 2013-09-20
 in_force: 2013-08-01
 url: "https://srl.lu.ch/app/de/texts_of_law/516"
-pdf: "https://srl.lu.ch/api/de/versions/4239/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4788/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://srl.lu.ch/api/de/versions/4239/pdf_file"
 
 (PH-Statut)
 
-vom 20.09.2013 (Stand 01.08.2024)
+vom 20.09.2013 (Stand 01.06.2026)
 
 Der Rat der Pädagogischen Hochschule Luzern,
 
@@ -99,7 +98,7 @@ beschliesst:
 
 **Vorbereitungskurse**
 
-<sup>1</sup> Die PH Luzern bietet im Rahmen des erweiterten Aufnahmeverfahrens Kurse für die Vorbereitung der Aufnahmeprüfung in die Studiengänge Kindergarten und Unterstufe der Primarschule, Primarstufe und Sekundarstufe I an.
+<sup>1</sup> Die PH Luzern bietet im Rahmen des erweiterten Aufnahmeverfahrens Kurse für die Vorbereitung der Aufnahmeprüfung in die Studiengänge Kindergarten/Unterstufe, Primarstufe und Sekundarstufe I an.
 
 ## 2 Organisation und Aufgaben der Organe
 
@@ -118,7 +117,7 @@ beschliesst:
 - g. erlässt einheitliche Rahmenvorgaben zur Organisation,
 - h. regelt die Voraussetzungen für die Verleihung von Titeln einer Professorin oder eines Professors an Dozierende und verleiht diese Titel auf Antrag der Hochschulleitung durch Beschluss,
 - i. schliesst im Rahmen seiner Entscheidungs- und Finanzkompetenz Vereinbarungen mit Dritten ab,
-- j. wählt die Rektorin oder den Rektor und genehmigt auf deren Antrag die Wahl der Mitglieder der Hochschulleitung.
+- j. stellt die Rektorin oder den Rektor an und genehmigt auf deren Antrag die Anstellung der Leitenden der Leistungsbereiche und der Leiterin oder des Leiters Verwaltung.
 
 <sup>2</sup> Der PH-Rat regelt seine Organisation und Geschäftstätigkeit.
 
@@ -173,7 +172,7 @@ beschliesst:
 
 <sup>2</sup> Die Bereichsleiterin oder der Bereichsleiter führt die Geschäfte ihres oder seines Bereichs und nimmt alle Aufgaben des Bereichs wahr, die keinem anderen Organ übertragen sind. Sie oder er hat insbesondere
 
-- a. das Personal in ihrem oder seinem Bereich anzustellen, zu führen und zu fördern,
+- a. das Personal in ihrem oder seinem Bereich zu führen und zu fördern,
 - b. ihren oder seinen Bereich nach innen und in Absprache mit der Rektorin oder dem Rektor nach aussen zu vertreten,
 - c. das Budget ihres oder seines Bereichs zuhanden der Rektorin oder des Rektors zu erstellen,
 - d. die Organisation und Geschäftstätigkeit in ihrem oder seinem Bereich zu regeln,
@@ -204,7 +203,7 @@ beschliesst:
 
 **Dozentinnen oder Dozenten**
 
-<sup>1</sup> Dozentinnen oder Dozenten sind angestellt für verschiedene Tätigkeiten der Leistungsbereiche der PH Luzern, insbesondere für Lehrtätigkeiten und wissenschaftlich qualifizierte Arbeiten. Sie sind verantwortlich für die Erfüllung der ihnen gemäss individueller Wahlurkunde übertragenen Aufgaben.
+<sup>1</sup> Dozentinnen oder Dozenten sind angestellt für verschiedene Tätigkeiten der Leistungsbereiche der PH Luzern, insbesondere für Lehrtätigkeiten und wissenschaftlich qualifizierte Arbeiten. Sie sind verantwortlich für die Erfüllung der ihnen gemäss individuellem öffentlich-rechtlichem Vertrag übertragenen Aufgaben.
 
 <sup>2</sup> Die PH Luzern kann Gastdozentinnen oder Gastdozenten sowie Gastprofessorinnen oder Gastprofessoren berufen.
 
