@@ -3,13 +3,12 @@ canton: FR
 number: "122.0.13"
 title: Verordnung zur Bezeichnung der Verwaltungseinheiten der Direktionen des Staatsrats und der Staatskanzlei
 language: de
-version: 2025-08-01
-valid_until: 2026-05-31
-version_adopted: 2025-06-17
+version: 2026-06-01
+version_adopted: 2026-05-26
 adopted: 2002-07-09
 in_force: 2003-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/122.0.13"
-pdf: "https://bdlf.fr.ch/api/de/versions/8216/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/8619/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +17,7 @@ pdf: "https://bdlf.fr.ch/api/de/versions/8216/pdf_file"
 
 Verwaltungseinheiten der Direktionen und der Staatskanzlei – V
 
-vom 09.07.2002 (Fassung in Kraft getreten am 01.08.2025)
+vom 09.07.2002 (Fassung in Kraft getreten am 01.06.2026)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -191,7 +190,7 @@ beschliesst:
 <sup>1</sup> Der Staatskanzlei sind folgende Verwaltungseinheiten unterstellt:
 
 - a) das Amt für Gesetzgebung (GeGA);
-- b) das Amt für Drucksachen und Material (DMA);
+- b) …
 - c) das Staatsarchiv (StAF).
 
 <sup>2</sup> Ihr ist ausserdem die kantonale Behörde für Öffentlichkeit, Datenschutz und Mediation (ÖDSMB) administrativ zugewiesen.
@@ -207,7 +206,7 @@ beschliesst:
 - c) das Amt für Personal und Organisation;
 - d) das Amt für Informatik und Telekommunikation;
 - e) das Hochbauamt;
-- f) das Amt für Drucksachen und Material;
+- f) …
 - g) das Staatsarchiv.
 - h) das Amt für Statistik und Daten.
 

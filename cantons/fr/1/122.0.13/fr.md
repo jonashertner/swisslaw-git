@@ -3,13 +3,12 @@ canton: FR
 number: "122.0.13"
 title: "Ordonnance désignant les unités administratives des Directions du Conseil d'Etat et de la Chancellerie d'Etat"
 language: fr
-version: 2025-08-01
-valid_until: 2026-05-31
-version_adopted: 2025-06-17
+version: 2026-06-01
+version_adopted: 2026-05-26
 adopted: 2002-07-09
 in_force: 2003-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/122.0.13"
-pdf: "https://bdlf.fr.ch/api/fr/versions/8216/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/8619/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -18,7 +17,7 @@ pdf: "https://bdlf.fr.ch/api/fr/versions/8216/pdf_file"
 
 Unités administratives des Directions et de la Chancellerie – O
 
-du 09.07.2002 (version entrée en vigueur le 01.08.2025)
+du 09.07.2002 (version entrée en vigueur le 01.06.2026)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -191,7 +190,7 @@ Arrête:
 <sup>1</sup> La Chancellerie d'Etat comprend les unités administratives subordonnées suivantes:
 
 - a) le Service de législation (SLeg);
-- b) le Service d'achat du matériel et des imprimés (SAMI);
+- b) …
 - c) les Archives de l'Etat (AEF).
 
 <sup>2</sup> Lui est en outre rattachée administrativement l'Autorité cantonale de la transparence, de la protection des données et de la médiation (ATPrDM).
@@ -207,7 +206,7 @@ Arrête:
 - c) le Service du personnel et d'organisation;
 - d) le Service de l'informatique et des télécommunications;
 - e) le Service des bâtiments;
-- f) le Service d'achat du matériel et des imprimés;
+- f) …
 - g) les Archives de l'Etat;
 - h) le Service de la statistique et de la donnée.
 
