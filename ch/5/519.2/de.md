@@ -4,11 +4,11 @@ title: Verordnung vom 22. November 2017 über die Mobilmachung zu bestimmten Ass
 short: VMob
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/815"
 language: de
-version: 2023-01-01
+version: 2026-06-01
 adopted: 2017-11-22
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/815/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2017-815-20230101-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/815/20230101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/815/20260601/de/xml/fedlex-data-admin-ch-eli-cc-2017-815-20260601-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/815/20260601/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/815/20230101/de"
 
 (VMob)
 
-vom 22. November 2017 (Stand am 1. Januar 2023)
+vom 22. November 2017 (Stand am 1. Juni 2026)
 
 Der Schweizerische Bundesrat,
 
@@ -25,7 +25,7 @@ gestützt auf die Artikel 72, 79 Absatz 1 und 150 Absatz 1 des Militärgesetzes 
 
 verordnet:
 
-[^ingress-1]: [SR 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
+[^ingress-1]: [SR 510.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7242)
 [^ingress-2]: Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 775](https://fedlex.data.admin.ch/eli/oc/2022/775)).
 
 #### Art. 1
@@ -74,19 +74,11 @@ Das Eidgenössische Departement für Umwelt, Verkehr, Energie und Kommunikation 
 
 #### Art. 6
 
-**Einrückungspflicht und Angaben zur Einrückung**
+**Einrückungspflicht und Angaben zur Einrückung**[^6-1]
 
-<sup>1</sup> Jede und jeder aufgebotene Angehörige der Armee ist verpflichtet, gemäss dem erlassenen Aufgebot einzurücken. Vorbehalten bleiben die von einer dafür zuständigen Stelle erteilten Dispensationen und Urlaube.
+Jede aufgebotene Angehörige und jeder aufgebotene Angehöriger der Armee ist verpflichtet, gemäss dem erlassenen Aufgebot einzurücken. Vorbehalten bleiben die von einer dafür zuständigen Stelle erteilten Dispensation und Urlaube. Das Aufgebot muss Angaben zum Ort und Zeitpunkt der Einrückung enthalten.
 
-<sup>2</sup>
-
-Bei Angehörigen von Formationen mit ständigen Bereitschaftsauflagen enthält das Dienstbüchlein Angaben über:
-
-- a.[^6-1] die Verbandsbezeichnung im Rahmen einer Mobilmachung;
-- b. den Einrückungsort;
-- c. das Verhalten beim Einrücken.
-
-[^6-1]: Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 775](https://fedlex.data.admin.ch/eli/oc/2022/775)).
+[^6-1]: Fassung gemäss Anhang Ziff. 6 der V vom 1. April 2026, in Kraft seit 1. Juni 2026 ([AS 2026 174](https://fedlex.data.admin.ch/eli/oc/2026/174)).
 
 #### Art. 7
 
@@ -112,7 +104,7 @@ Eine Dispensation wird nur gewährt, wenn:
 
 <sup>5</sup> Generelle Dispensationen oder Urlaube für bestimmte Personengruppen, die wichtige Aufgaben in den zivilen Bereichen des SVS erfüllen müssen, sind zur Behebung von Not- oder Mangellagen möglich.
 
-[^7-1]: [SR 510.107.0](https://fedlex.data.admin.ch/eli/cc/1995/170_170_170)
+[^7-1]: [SR 510.107.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7253)
 
 #### Art. 8
 
@@ -202,13 +194,13 @@ Diese Aufgaben umfassen insbesondere:
 
 **Pflichten der konzessionierten Transportunternehmen**
 
-<sup>1</sup> Konzessionierte Transportunternehmen sind bei einer Mobilmachung zum Assistenz- und Aktivdienst verpflichtet, Angehörige der Armee in Uniform bei Vorweisen des Dienstbüchleins oder des persönlichen Aufgebots an den Einrückungsort zu transportieren.[^15-1]
+<sup>1</sup> Konzessionierte Transportunternehmen sind bei einer Mobilmachung zum Assistenz- und Aktivdienst verpflichtet, Angehörige der Armee in Uniform an den Einrückungsort zu transportieren.[^15-1]
 
 <sup>2</sup> Die Kosten für den Transport werden vom Bund übernommen.
 
 <sup>3</sup> Um den permanenten Kontakt zur Armee sicherzustellen, haben die Schweizerischen Bundesbahnen für sich und für den Kontakt zu den anderen konzessionierten Transportunternehmen eine Verbindungsstelle zu definieren und der Armee zu melden.
 
-[^15-1]: Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 775](https://fedlex.data.admin.ch/eli/oc/2022/775)).
+[^15-1]: Fassung gemäss Anhang Ziff. 6 der V vom 1. April 2026, in Kraft seit 1. Juni 2026 ([AS 2026 174](https://fedlex.data.admin.ch/eli/oc/2026/174)).
 
 #### Art. 16
 

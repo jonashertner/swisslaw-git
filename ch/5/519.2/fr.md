@@ -4,11 +4,11 @@ title: "Ordonnance du 22 novembre 2017 sur la mobilisation de l'armée pour des 
 short: OMob
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/815"
 language: fr
-version: 2023-01-01
+version: 2026-06-01
 adopted: 2017-11-22
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/815/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2017-815-20230101-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/815/20230101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/815/20260601/fr/xml/fedlex-data-admin-ch-eli-cc-2017-815-20260601-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/815/20260601/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/815/20230101/fr"
 
 (OMob)
 
-du 22 novembre 2017 (État le 1<sup>er</sup> janvier 2023)
+du 22 novembre 2017 (État le 1<sup>er</sup> juin 2026)
 
 Le Conseil fédéral suisse,
 
@@ -25,7 +25,7 @@ vu les art. 72, 79, al. 1, et 150, al. 1, de la loi du 3 février 1995 sur l’a
 
 arrête:
 
-[^ingress-1]: [RS 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
+[^ingress-1]: [RS 510.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7242)
 [^ingress-2]: Nouvelle teneur selon le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 775](https://fedlex.data.admin.ch/eli/oc/2022/775)).
 
 #### Art. 1
@@ -74,19 +74,11 @@ Le Département fédéral de l’environnement, des transports, de l’énergie 
 
 #### Art. 6
 
-**Obligations et données relatives à l’entrée au service**
+**Obligations et données relatives à l’entrée au service**[^6-1]
 
-<sup>1</sup> Tout militaire est tenu d’entrer au service conformément à la convocation. Sont réservés les dispenses et congés accordés par l’organe qui convoque.
+Tout militaire est tenu d’entrer au service conformément à la convocation. Sont réservés les dispenses et congés accordés par un organe compétent. La convocation doit indiquer le lieu et le moment de l’entrée en service.
 
-<sup>2</sup>
-
-Pour les militaires des formations soumises à des obligations de disponibilité permanente, le livret de service indique:
-
-- a.[^6-1] la désignation de la formation dans le cadre d’une mobilisation;
-- b. le lieu d’entrée en service;
-- c. le comportement à adopter lors de l’entrée au service.
-
-[^6-1]: Nouvelle teneur selon le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 775](https://fedlex.data.admin.ch/eli/oc/2022/775)).
+[^6-1]: Nouvelle teneur selon l’annexe ch. 6 de l’O du 1<sup>er</sup> avr. 2026, en vigueur depuis le 1<sup>er</sup> juin 2026 ([RO 2026 174](https://fedlex.data.admin.ch/eli/oc/2026/174)).
 
 #### Art. 7
 
@@ -112,7 +104,7 @@ Une dispense n’est accordée que:
 
 <sup>5</sup> L’octroi d’une dispense ou d’une mise en congé générale à certains groupes de personnes devant accomplir des tâches importantes dans les domaines civils du RNS pour mettre fin à des situations d’urgence ou de pénurie est possible.
 
-[^7-1]: [RS 510.107.0](https://fedlex.data.admin.ch/eli/cc/1995/170_170_170)
+[^7-1]: [RS 510.107.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7253)
 
 #### Art. 8
 
@@ -202,13 +194,13 @@ Ces tâches comprennent notamment:
 
 **Obligations des entreprises de transport titulaires d’une concession**
 
-<sup>1</sup> En cas de mobilisation pour le service d’appui ou le service actif, les entreprises de transport titulaires d’une concession ont l’obligation de transporter tout militaire en uniforme jusqu’au lieu de son entrée en service, sur présentation d’une convocation personnelle ou du livret de service.[^15-1]
+<sup>1</sup> En cas de mobilisation pour le service d’appui ou le service actif, les entreprises de transport titulaires d’une concession ont l’obligation de transporter tout militaire en uniforme jusqu’au lieu de son entrée en service.[^15-1]
 
 <sup>2</sup> Les frais de transport sont pris en charge par la Confédération.
 
 <sup>3</sup> Pour assurer un contact permanent avec l’armée, les Chemins de fer fédéraux doivent définir un organe de liaison pour eux-mêmes et pour les contacts avec les autres entreprises de transport titulaires d’une concession, et l’annoncer à l’armée.
 
-[^15-1]: Nouvelle teneur selon le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 775](https://fedlex.data.admin.ch/eli/oc/2022/775)).
+[^15-1]: Nouvelle teneur selon l’annexe ch. 6 de l’O du 1<sup>er</sup> avr. 2026, en vigueur depuis le 1<sup>er</sup> juin 2026 ([RO 2026 174](https://fedlex.data.admin.ch/eli/oc/2026/174)).
 
 #### Art. 16
 
