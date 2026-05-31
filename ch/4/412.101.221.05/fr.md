@@ -3,18 +3,18 @@ sr: "412.101.221.05"
 title: Ordonnance du SEFRI du 21 avril 2009 sur la formation professionnelle initiale de doreuse-encadreuse/doreur-encadreur avec certificat fédéral de capacité (CFC)
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/421"
 language: fr
-version: 2026-01-01
+version: 2026-06-01
 adopted: 2009-04-21
 in_force: 2010-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/421/20260101/fr/xml/fedlex-data-admin-ch-eli-cc-2009-421-20260101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/421/20260101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/421/20260601/fr/xml/fedlex-data-admin-ch-eli-cc-2009-421-20260601-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/421/20260601/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance du SEFRI sur la formation professionnelle initiale de doreuse‑encadreuse/doreur-encadreur avec certificat fédéral de capacité (CFC)\*
 
-du 21 avril 2009 (État le 1<sup>er</sup> janvier 2026)[^t-1]
+du 21 avril 2009 (État le 1<sup>er</sup> juin 2026)[^t-1]
 
 [^t-1]: <sup>\*</sup> Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
 
@@ -128,13 +128,15 @@ Les compétences sociales et personnelles concernent les connaissances et les ap
 
 #### Art. 8
 
-**Parts assumées par les différents lieux de formation**
+**Parts assumées par les différents lieux de formation**[^8-1]
 
-<sup>1</sup> La formation à la pratique professionnelle s’étend sur toute la durée de la formation professionnelle initiale, en moyenne à raison de 4 jours par semaine.
+<sup>1</sup> La formation à la pratique professionnelle en entreprise s’étend sur toute la durée de la formation professionnelle initiale, en moyenne à raison de 4 jours par semaine.
 
 <sup>2</sup> L’enseignement obligatoire dispensé à l’école professionnelle comprend 1440 périodes d’enseignement. Parmi celles-ci, 160 périodes sont consacrées à l’enseignement du sport.
 
-<sup>3</sup> Les cours interentreprises comprennent au total 16 jours de cours au minimum et 18 au maximum, à raison de 8 heures de cours par jour. Durant le dernier semestre de la formation professionnelle initiale, aucun cours interentreprises n’a lieu.
+<sup>3</sup> Les cours interentreprises comprennent 16 jours de cours, à raison de 8 heures de cours par jour. Aucun cours interentreprises ne doit avoir lieu durant le dernier semestre de la formation professionnelle initiale.
+
+[^8-1]: Nouvelle teneur selon le ch. I de l’O du SEFRI du 30 avr. 2026, en vigueur depuis le 1<sup>er</sup> juin 2026 ([RO 2026 223](https://fedlex.data.admin.ch/eli/oc/2026/223)).
 
 #### Art. 9
 
@@ -177,7 +179,11 @@ L’enseignement de la culture générale est régi par l’ordonnance du SEFRI 
 [^11-1]: Le renvoi a été adapté en application de l’art. 12, al. 2, de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)), avec effet au 1<sup>er</sup> janv. 2026 ([RO 2025 593](https://fedlex.data.admin.ch/eli/oc/2025/593)).
 [^11-2]: [RS 412.101.241](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6593)
 
-## Section 6 Exigences posées aux prestataires de la formation initiale en entreprise
+## Section 6 Exigences posées aux formateurs et nombre maximal de personnes en formation dans l’entreprise
+
+[^sec6-1]
+
+[^sec6-1]: Nouvelle teneur selon le ch. I de l’O du SEFRI du 30 avr. 2026, en vigueur depuis le 1<sup>er</sup> juin 2026 ([RO 2026 223](https://fedlex.data.admin.ch/eli/oc/2026/223)).
 
 #### Art. 12
 
@@ -197,9 +203,9 @@ Les personnes ci-après remplissent les exigences posées aux formateurs:[^12-2]
 
 **Nombre maximal de personnes en formation**
 
-<sup>1</sup> Les entreprises qui disposent d’un formateur occupé à 100 % ou de deux formateurs occupés chacun au moins à 60 % peuvent former une personne.[^13-1]
+<sup>1</sup> Les entreprises qui disposent d’un formateur occupé à 80 % ou de deux formateurs occupés chacun au moins à 60 % peuvent former une personne.[^13-1]
 
-<sup>2</sup> Une autre personne peut être formée pour chaque professionnel supplémentaire occupé à 100 % ou pour chaque groupe supplémentaire de deux professionnels occupés chacun au moins à 60 %.[^13-2]
+<sup>2</sup> Une autre personne peut être formée pour chaque professionnel supplémentaire occupé à 80 % ou pour chaque groupe supplémentaire de deux professionnels occupés chacun au moins à 60 %.[^13-2]
 
 <sup>3</sup> Sont réputés professionnels les titulaires d’un certificat fédéral de capacité ou d’une qualification équivalente dans le domaine de la personne en formation.[^13-3]
 
@@ -207,10 +213,13 @@ Les personnes ci-après remplissent les exigences posées aux formateurs:[^12-2]
 
 <sup>5</sup> Dans des cas particuliers, les autorités cantonales peuvent autoriser une entreprise ayant formé depuis plusieurs années des personnes avec grand succès à dépasser le nombre maximal de personnes en formation.
 
-[^13-1]: Nouvelle teneur selon le ch. I de l’O du SEFRI du 11 déc. 2017, en vigueur depuis le 1<sup>er</sup> fév 2018 ([RO 2018 51](https://fedlex.data.admin.ch/eli/oc/2018/21)).
-[^13-2]: Nouvelle teneur selon le ch. I de l’O du SEFRI du 11 déc. 2017, en vigueur depuis le 1<sup>er</sup> fév 2018 ([RO 2018 51](https://fedlex.data.admin.ch/eli/oc/2018/21)).
+<sup>6</sup> Les entreprises organisent le temps de travail des formateurs et des professionnels de telle manière que les personnes en formation puissent être encadrées par un formateur ou un professionnel à tout moment de leur formation en entreprise.[^13-5]
+
+[^13-1]: Nouvelle teneur selon le ch. I de l’O du SEFRI du 30 avr. 2026, en vigueur depuis le 1<sup>er</sup> juin 2026 ([RO 2026 223](https://fedlex.data.admin.ch/eli/oc/2026/223)).
+[^13-2]: Nouvelle teneur selon le ch. I de l’O du SEFRI du 30 avr. 2026, en vigueur depuis le 1<sup>er</sup> juin 2026 ([RO 2026 223](https://fedlex.data.admin.ch/eli/oc/2026/223)).
 [^13-3]: Nouvelle teneur selon le ch. I de l’O du SEFRI du 11 déc. 2017, en vigueur depuis le 1<sup>er</sup> fév 2018 ([RO 2018 51](https://fedlex.data.admin.ch/eli/oc/2018/21)).
 [^13-4]: Nouvelle teneur selon le ch. I de l’O du SEFRI du 11 déc. 2017, en vigueur depuis le 1<sup>er</sup> fév 2018 ([RO 2018 51](https://fedlex.data.admin.ch/eli/oc/2018/21)).
+[^13-5]: Introduit par le ch. I de l’O du SEFRI du 30 avr. 2026, en vigueur depuis le 1<sup>er</sup> juin 2026 ([RO 2026 223](https://fedlex.data.admin.ch/eli/oc/2026/223)).
 
 ## Section 7 Dossier de formation, rapport de formation et dossier des prestations
 
@@ -285,14 +294,14 @@ Les procédures de qualification visent à démontrer que les compétences opér
 
 La procédure de qualification avec examen final porte sur les domaines de qualification ci-après selon les modalités suivantes:
 
-- a. travail pratique d’une durée de 36 à 48 heures sous la forme d’un travail pratique individuel (TPI). Ce domaine de qualification est évalué vers la fin de la formation professionnelle initiale. La personne en formation doit montrer qu’elle est à même d’exécuter les tâches demandées dans les règles de l’art et en fonction des besoins et de la situation. Le dossier de formation et les documents relatifs aux cours interentreprises peuvent être utilisés comme aides;
-- b. connaissances professionnelles d’une durée de 4 heures. Ce domaine de qualification est évalué vers la fin de la formation professionnelle initiale. La personne en formation subit un examen écrit ou des examens écrit et oral. Si un examen oral est organisé, il dure 1 heure au maximum.
-- c. culture générale. Ce domaine de qualification est régi par l’ordonnance du SEFRI du 9 avril 2025[^18-1] concernant les conditions minimales relatives à la culture générale dans la formation professionnelle initiale[^18-2].
+- a. travail pratique sous la forme d’un travail pratique individuel (TPI) d’une durée de 36 à 48 heures; le domaine de qualification est évalué vers la fin de la formation professionnelle initiale; la personne en formation doit montrer qu’elle est à même d’exécuter les tâches demandées dans les règles de l’art et en fonction des besoins et de la situation; le dossier de formation et les documents relatifs aux cours interentreprises peuvent être utilisés comme aides;
+- b. connaissances professionnelles d’une durée de 4 heures; ce domaine de qualification est évalué vers la fin de la formation professionnelle initiale; la personne en formation subit un examen écrit;
+- c. culture générale; ce domaine de qualification est régi par l’ordonnance du SEFRI du 9 avril 2025 concernant les conditions minimales relatives à la culture générale dans la formation professionnelle initiale[^18-1].[^18-2]
 
 <sup>2</sup> Dans chaque domaine de qualification, deux experts aux examens au moins évaluent les prestations.
 
-[^18-1]: Le renvoi a été adapté en application de l’art. 12, al. 2, de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)), avec effet au 1<sup>er</sup> janv. 2026 ([RO 2025 593](https://fedlex.data.admin.ch/eli/oc/2025/593)).
-[^18-2]: [RS 412.101.241](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6593)
+[^18-1]: [RS 412.101.241](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6593)
+[^18-2]: Nouvelle teneur selon le ch. I de l’O du SEFRI du 30 avr. 2026, en vigueur depuis le 1<sup>er</sup> juin 2026 ([RO 2026 223](https://fedlex.data.admin.ch/eli/oc/2026/223)).
 
 #### Art. 19
 

@@ -3,18 +3,18 @@ sr: "412.101.221.05"
 title: Verordnung des SBFI vom 21. April 2009 über die berufliche Grundbildung Vergolderin-Einrahmerin/Vergolder-Einrahmer mit eidgenössischem Fähigkeitszeugnis (EFZ)
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/421"
 language: de
-version: 2026-01-01
+version: 2026-06-01
 adopted: 2009-04-21
 in_force: 2010-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/421/20260101/de/xml/fedlex-data-admin-ch-eli-cc-2009-421-20260101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/421/20260101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/421/20260601/de/xml/fedlex-data-admin-ch-eli-cc-2009-421-20260601-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/421/20260601/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung des SBFI über die berufliche Grundbildung Vergolderin-Einrahmerin/Vergolder-Einrahmer mit eidgenössischem Fähigkeitszeugnis (EFZ)
 
-vom 21. April 2009 (Stand am 1. Januar 2026)
+vom 21. April 2009 (Stand am 1. Juni 2026)
 
 <table>
 <tr><td>31604</td><td>Vergolderin-Einrahmerin EFZ/Vergolder-Einrahmer EFZ Doreuse-encadreuse CFC/Doreur-encadreur CFC Doratrice corniciaia AFC/Doratore corniciaio AFC</td></tr>
@@ -126,13 +126,15 @@ Die Sozial- und Selbstkompetenz umfasst Kenntnisse und Fähigkeiten in folgenden
 
 #### Art. 8
 
-**Anteile der Lernorte**
+**Anteile der Lernorte**[^8-1]
 
-<sup>1</sup> Die Bildung in beruflicher Praxis erfolgt über die ganze Dauer der beruflichen Grundbildung im Durchschnitt an 4 Tagen pro Woche.
+<sup>1</sup> Die Bildung in beruflicher Praxis im Betrieb umfasst über die ganze Dauer der beruflichen Grundbildung im Durchschnitt 4 Tage pro Woche.
 
-<sup>2</sup> Die schulische Bildung im obligatorischen Unterricht erfolgt in 1440 Lektionen. Davon entfallen auf den Sportunterricht 160 Lektionen.
+<sup>2</sup> Die schulische Bildung im obligatorischen Unterricht umfasst 1440 Lektionen. Davon entfallen auf den Sportunterricht 160 Lektionen.
 
-<sup>3</sup> Die überbetrieblichen Kurse umfassen insgesamt mindestens 16 und höchstens 18 Tage zu 8 Stunden. Im letzten Semester der beruflichen Grundbildung finden keine überbetrieblichen Kurse mehr statt.
+<sup>3</sup> Die überbetrieblichen Kurse umfassen insgesamt 16 Tage zu 8 Stunden. Im letzten Semester der beruflichen Grundbildung dürfen keine überbetrieblichen Kurse stattfinden.
+
+[^8-1]: Fassung gemäss Ziff. I der V des SBFI vom 30. April 2026, in Kraft seit 1. Juni 2026 ([AS 2026 223](https://fedlex.data.admin.ch/eli/oc/2026/223)).
 
 #### Art. 9
 
@@ -175,7 +177,11 @@ Für den allgemeinbildenden Unterricht gilt die Verordnung des SBFI vom 9. April
 [^11-1]: [SR 412.101.241](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6593)
 [^11-2]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)) auf den 1. Jan. 2026 angepasst (siehe [AS 2025 593](https://fedlex.data.admin.ch/eli/oc/2025/593)).
 
-## 6. Abschnitt: Anforderungen an die Anbieter der betrieblich organisierten Grundbildung
+## 6. Abschnitt: Fachliche Anforderungen an die Berufsbildnerinnen und Berufsbildner und Höchstzahl der Lernenden im Betrieb
+
+[^sec6-1]
+
+[^sec6-1]: Fassung gemäss Ziff. I der V des SBFI vom 30. April 2026, in Kraft seit 1. Juni 2026 ([AS 2026 223](https://fedlex.data.admin.ch/eli/oc/2026/223)).
 
 #### Art. 12
 
@@ -195,9 +201,9 @@ Die fachlichen Anforderungen an eine Berufsbildnerin oder einen Berufsbildner er
 
 **Höchstzahl der Lernenden**
 
-<sup>1</sup> Betriebe, die eine Berufsbildnerin oder einen Berufsbildner zu 100 Prozent oder zwei Berufsbildnerinnen oder Berufsbildner zu je mindestens 60 Prozent beschäftigen, dürfen eine lernende Person ausbilden.[^13-1]
+<sup>1</sup> Betriebe, die eine Berufsbildnerin oder einen Berufsbildner zu 80 Prozent oder zwei Berufsbildnerinnen oder Berufsbildner zu je mindestens 60 Prozent beschäftigen, dürfen eine lernende Person ausbilden.[^13-1]
 
-<sup>2</sup> Mit jeder zusätzlichen Beschäftigung einer Fachkraft zu 100 Prozent oder von zwei Fachkräften zu je mindestens 60 Prozent darf eine weitere lernende Person im Betrieb ausgebildet werden.[^13-2]
+<sup>2</sup> Mit jeder zusätzlichen Beschäftigung einer Fachkraft zu 80 Prozent oder von zwei Fachkräften zu je mindestens 60 Prozent darf eine weitere lernende Person im Betrieb ausgebildet werden.[^13-2]
 
 <sup>3</sup> Als Fachkraft gilt, wer im Fachbereich der lernenden Person über ein eidgenössisches Fähigkeitszeugnis oder über eine gleichwertige Qualifikation verfügt.[^13-3]
 
@@ -205,10 +211,13 @@ Die fachlichen Anforderungen an eine Berufsbildnerin oder einen Berufsbildner er
 
 <sup>5</sup> In besonderen Fällen kann die kantonale Behörde einem Betrieb, der seit mehreren Jahren Lernende mit überdurchschnittlichem Erfolg ausgebildet hat, die Überschreitung der Höchstzahl der Lernenden bewilligen.
 
-[^13-1]: Fassung gemäss Ziff. I der V des SBFI vom 11. Dez. 2017, in Kraft seit 1. Febr. 2018 ([AS 2018 51](https://fedlex.data.admin.ch/eli/oc/2018/21)).
-[^13-2]: Fassung gemäss Ziff. I der V des SBFI vom 11. Dez. 2017, in Kraft seit 1. Febr. 2018 ([AS 2018 51](https://fedlex.data.admin.ch/eli/oc/2018/21)).
+<sup>6</sup> Der Betrieb organisiert die Arbeitszeit der Berufsbildnerinnen oder Berufsbildner und Fachkräfte so, dass die Lernenden während der beruflichen Praxis von einer Berufsbildnerin oder einem Berufsbildner oder von einer Fachkraft beaufsichtigt sind.[^13-5]
+
+[^13-1]: Fassung gemäss Ziff. I der V des SBFI vom 30. April 2026, in Kraft seit 1. Juni 2026 ([AS 2026 223](https://fedlex.data.admin.ch/eli/oc/2026/223)).
+[^13-2]: Fassung gemäss Ziff. I der V des SBFI vom 30. April 2026, in Kraft seit 1. Juni 2026 ([AS 2026 223](https://fedlex.data.admin.ch/eli/oc/2026/223)).
 [^13-3]: Fassung gemäss Ziff. I der V des SBFI vom 11. Dez. 2017, in Kraft seit 1. Febr. 2018 ([AS 2018 51](https://fedlex.data.admin.ch/eli/oc/2018/21)).
 [^13-4]: Fassung gemäss Ziff. I der V des SBFI vom 11. Dez. 2017, in Kraft seit 1. Febr. 2018 ([AS 2018 51](https://fedlex.data.admin.ch/eli/oc/2018/21)).
+[^13-5]: Eingefügt durch Ziff. I der V des SBFI vom 30. April 2026, in Kraft seit 1. Juni 2026 ([AS 2026 223](https://fedlex.data.admin.ch/eli/oc/2026/223)).
 
 ## 7. Abschnitt: Lerndokumentation, Bildungsbericht und Leistungsdokumentation
 
@@ -283,14 +292,14 @@ In den Qualifikationsverfahren ist nachzuweisen, dass die Handlungskompetenzen n
 
 Im Qualifikationsverfahren mit Abschlussprüfung werden die nachstehenden Qualifikationsbereiche wie folgt geprüft:
 
-- a. Praktische Arbeit, als individuelle praktische Arbeit (IPA) im Umfang von 36–48 Stunden. Dieser Qualifikationsbereich wird gegen Ende der beruflichen Grundbildung geprüft. Die lernende Person muss zeigen, dass sie fähig ist, die geforderten Tätigkeiten fachlich korrekt sowie bedarfs- und situationsgerecht auszuführen. Die Lerndokumentation und die Unterlagen der überbetrieblichen Kurse dürfen als Hilfsmittel verwendet werden.
-- b. Berufskenntnisse, im Umfang von 4 Stunden. Dieser Qualifikationsbereich wird gegen Ende der beruflichen Grundbildung geprüft. Die lernende Person wird schriftlich oder sowohl schriftlich wie mündlich befragt. Wird eine mündliche Prüfung durchgeführt, so dauert diese höchstens 1 Stunde.
-- c. Allgemeinbildung. Der Qualifikationsbereich richtet sich nach der Verordnung des SBFI vom 9. April 2025[^18-1] über die Mindestvorschriften für die Allgemeinbildung in der beruflichen Grundbildung[^18-2].
+- a. praktische Arbeit, als individuelle praktische Arbeit (IPA) im Umfang von 36 – 48 Stunden; dieser Qualifikationsbereich wird gegen Ende der beruflichen Grundbildung geprüft; die lernende Person muss zeigen, dass sie fähig ist, die geforderten Tätigkeiten fachlich korrekt sowie bedarfs- und situationsgerecht auszuführen; die Lerndokumentation und die Unterlagen der überbetrieblichen Kurse dürfen als Hilfsmittel verwendet werden;
+- b. Berufskenntnisse, im Umfang von 4 Stunden; dieser Qualifikationsbereich wird gegen Ende der beruflichen Grundbildung geprüft; die lernende Person wird schriftlich befragt;
+- c. Allgemeinbildung; der Qualifikationsbereich richtet sich nach der Verordnung des SBFI vom 9. April 2025[^18-1] über die Mindestvorschriften für die Allgemeinbildung in der beruflichen Grundbildung.[^18-2]
 
 <sup>2</sup> In jedem Qualifikationsbereich beurteilen mindestens zwei Prüfungsexpertinnen oder -experten die Leistungen.
 
 [^18-1]: [SR 412.101.241](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6593)
-[^18-2]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)) auf den 1. Jan. 2026 angepasst (siehe [AS 2025 593](https://fedlex.data.admin.ch/eli/oc/2025/593)).
+[^18-2]: Fassung gemäss Ziff. I der V des SBFI vom 30. April 2026, in Kraft seit 1. Juni 2026 ([AS 2026 223](https://fedlex.data.admin.ch/eli/oc/2026/223)).
 
 #### Art. 19
 

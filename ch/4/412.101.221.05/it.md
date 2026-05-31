@@ -3,18 +3,18 @@ sr: "412.101.221.05"
 title: Ordinanza della SEFRI del 21 aprile 2009 sulla formazione professionale di base Doratrice corniciaia/Doratore corniciaio con attestato federale di capacità (AFC)
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/421"
 language: it
-version: 2026-01-01
+version: 2026-06-01
 adopted: 2009-04-21
 in_force: 2010-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/421/20260101/it/xml/fedlex-data-admin-ch-eli-cc-2009-421-20260101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/421/20260101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/421/20260601/it/xml/fedlex-data-admin-ch-eli-cc-2009-421-20260601-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/421/20260601/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza della SEFRI sulla formazione professionale di base Doratrice corniciaia/Doratore corniciaio con attestato federale di capacità (AFC)
 
-del 21 aprile 2009 (Stato 1° gennaio 2026)
+del 21 aprile 2009 (Stato 1° giugno 2026)
 
 <table>
 <tr><td>31604</td><td>Doratrice corniciaia AFC/Doratore corniciaio AFC Vergolderin-Einrahmerin EFZ/Vergolder-Einrahmer EFZ Doreuse-Encadreuse CFC/Doreur-Encadreur CFC</td></tr>
@@ -126,13 +126,15 @@ La competenza sociale e personale comprende conoscenze e capacità nei seguenti 
 
 #### Art. 8
 
-**Parti svolte dai luoghi di formazione**
+**Parti svolte dai luoghi di formazione**[^8-1]
 
-<sup>1</sup> La formazione professionale pratica si svolge in media quattro giorni alla settimana per tutta la durata della formazione professionale di base.
+<sup>1</sup> La formazione professionale pratica in azienda comprende in media 4 giornate alla settimana per tutta la durata della formazione professionale di base.
 
-<sup>2</sup> L’insegnamento scolastico obbligatorio comprende 1440 lezioni. Di queste, 160 sono dedicate all’insegnamento dello sport.
+<sup>2</sup> L’insegnamento scolastico obbligatorio comprende 1440 lezioni. Di queste, 160 sono dedicate all’insegnamento dell’educazione fisica.
 
-<sup>3</sup> I corsi interaziendali hanno una durata complessiva minima di 16 e massima di 18 giornate di otto ore. Nell’ultimo semestre della formazione professionale di base non si svolgono corsi interaziendali.
+<sup>3</sup> I corsi interaziendali comprendono 16 giornate di otto ore. Nell’ultimo semestre della formazione professionale di base non si possono svolgere corsi interaziendali.
+
+[^8-1]: Nuovo testo giusta la cifra I dell’O della SEFRI del 30 apr. 2026, in vigore dal 1° giu. 2026 ([RU 2026 223](https://fedlex.data.admin.ch/eli/oc/2026/223)).
 
 #### Art. 9
 
@@ -175,7 +177,11 @@ Per gli insegnamenti di cultura generale fa stato l’ordinanza della SEFRI del 
 [^11-1]: [RS 412.101.241](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6593)
 [^11-2]: Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)), con effetto dal 1° gen. 2026 (vedi [RU 2025 593](https://fedlex.data.admin.ch/eli/oc/2025/593)).
 
-## Sezione 6: Requisiti per gli operatori della formazione di base organizzata dall’azienda
+## Sezione 6: Requisiti per i formatori e numero massimo di persone in formazione in azienda
+
+[^sec6-1]
+
+[^sec6-1]: Nuovo testo giusta la cifra I dell’O della SEFRI del 30 apr. 2026, in vigore dal 1° giu. 2026 ([RU 2026 223](https://fedlex.data.admin.ch/eli/oc/2026/223)).
 
 #### Art. 12
 
@@ -195,9 +201,9 @@ Il formatore soddisfa i requisiti professionali se possiede una delle qualifiche
 
 **Numero massimo di persone in formazione**
 
-<sup>1</sup> Nelle aziende che impiegano un formatore al 100 per cento o due formatori ciascuno almeno al 60 per cento può svolgere il tirocinio una persona in formazione.[^13-1]
+<sup>1</sup> Nelle aziende che impiegano un formatore all’80 per cento o due formatori ciascuno almeno al 60 per cento può svolgere il tirocinio una persona in formazione.[^13-1]
 
-<sup>2</sup> Per ogni altro specialista impiegato al 100 per cento o per ogni due specialisti in più impiegati ciascuno almeno al 60 per cento può svolgere il tirocinio una persona in formazione in più.[^13-2]
+<sup>2</sup> Per ogni altro specialista impiegato all’80 per cento o per ogni due specialisti in più impiegati ciascuno almeno al 60 per cento può svolgere il tirocinio una persona in formazione in più.[^13-2]
 
 <sup>3</sup> È considerato specialista il titolare di un attestato federale di capacità o di una qualifica equivalente nel campo della persona in formazione.[^13-3]
 
@@ -205,10 +211,13 @@ Il formatore soddisfa i requisiti professionali se possiede una delle qualifiche
 
 <sup>5</sup> In casi particolari l’autorità cantonale può autorizzare il superamento del numero massimo di persone in formazione nelle aziende di tirocinio che da più anni svolgono la loro funzione di formazione con un successo superiore alla media.
 
-[^13-1]: Nuovo testo giusta la cifra I dell’O della SEFRI del 11 dic. 2017, in vigore dal 1° feb. 2018 ([RU 2018 51](https://fedlex.data.admin.ch/eli/oc/2018/21)).
-[^13-2]: Nuovo testo giusta la cifra I dell’O della SEFRI del 11 dic. 2017, in vigore dal 1° feb. 2018 ([RU 2018 51](https://fedlex.data.admin.ch/eli/oc/2018/21)).
+<sup>6</sup> L’azienda pianifica gli orari lavorativi dei formatori e degli specialisti affinché, durante la pratica professionale, la persona in formazione possa essere seguita da un formatore o da uno specialista.[^13-5]
+
+[^13-1]: Nuovo testo giusta la cifra I dell’O della SEFRI del 30 apr. 2026, in vigore dal 1° giu. 2026 ([RU 2026 223](https://fedlex.data.admin.ch/eli/oc/2026/223)).
+[^13-2]: Nuovo testo giusta la cifra I dell’O della SEFRI del 30 apr. 2026, in vigore dal 1° giu. 2026 ([RU 2026 223](https://fedlex.data.admin.ch/eli/oc/2026/223)).
 [^13-3]: Nuovo testo giusta la cifra I dell’O della SEFRI del 11 dic. 2017, in vigore dal 1° feb. 2018 ([RU 2018 51](https://fedlex.data.admin.ch/eli/oc/2018/21)).
 [^13-4]: Nuovo testo giusta la cifra I dell’O della SEFRI del 11 dic. 2017, in vigore dal 1° feb. 2018 ([RU 2018 51](https://fedlex.data.admin.ch/eli/oc/2018/21)).
+[^13-5]: Introdotto dalla cifra I dell’O della SEFRI del 30 apr. 2026, in vigore dal 1° giu. 2026 ([RU 2026 223](https://fedlex.data.admin.ch/eli/oc/2026/223)).
 
 ## Sezione 7: Documentazione dell’apprendimento, rapporto di formazione e documentazione delle prestazioni
 
@@ -280,14 +289,14 @@ Nelle procedure di qualificazione si deve dimostrare di aver acquisito le compet
 
 L’esame finale della procedura di qualificazione valuta i campi di qualificazione sotto elencati nel seguente modo:
 
-- a. «lavoro pratico», sotto forma di lavoro pratico individuale della durata da 36 a 48 ore. L’esame ha luogo verso la fine della formazione professionale di base. La persona in formazione deve dimostrare di essere in grado di svolgere le attività richieste in modo professionalmente corretto e adeguato alle necessità e alla situazione. È ammessa come ausilio la consultazione della documentazione dell’apprendimento e dei corsi interaziendali;
-- b. «conoscenze professionali», della durata di quattro ore. L’esame ha luogo verso la fine della formazione professionale di base. L’esame è scritto oppure sia scritto sia orale. Se si svolge un esame orale, la durata massima è di un’ora;
-- c. «cultura generale». Per l’esame finale fa stato l’ordinanza della SEFRI del 9 aprile 2025[^18-1] sulle prescrizioni minime in materia di cultura generale nella formazione professionale di base[^18-2].
+- a. «lavoro pratico» sotto forma di lavoro pratico individuale, della durata da 36 a 48 ore; per questo campo di qualificazione l’esame ha luogo verso la fine della formazione professionale di base; la persona in formazione deve dimostrare di essere in grado dif svolgere le attività richieste in modo professionalmente corretto e adeguato alle necessità e alla situazione; è ammessa la consultazione della documentazione dell’apprendimento e dei corsi interaziendali;
+- b. «conoscenze professionali», della durata di quattro ore; per questo campo di qualificazione l’esame ha luogo verso la fine della formazione professionale di base; l’esame è scritto;
+- c. «cultura generale»: per l’esame finale fa stato l’ordinanza della SEFRI del 9 aprile 2025[^18-1] sulle prescrizioni minime in materia di cultura generale nella formazione professionale di base.[^18-2]
 
 <sup>2</sup> Per ogni campo di qualificazione la valutazione è effettuata da almeno due periti d’esame.
 
 [^18-1]: [RS 412.101.241](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6593)
-[^18-2]: Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)), con effetto dal 1° gen. 2026 (vedi [RU 2025 593](https://fedlex.data.admin.ch/eli/oc/2025/593)).
+[^18-2]: Nuovo testo giusta la cifra I dell’O della SEFRI del 30 apr. 2026, in vigore dal 1° giu. 2026 ([RU 2026 223](https://fedlex.data.admin.ch/eli/oc/2026/223)).
 
 #### Art. 19
 
