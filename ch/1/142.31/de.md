@@ -4,11 +4,11 @@ title: Asylgesetz vom 26. Juni 1998 (AsylG)
 short: AsylG
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/358"
 language: de
-version: 2025-04-01
+version: 2026-06-01
 adopted: 1998-06-26
 in_force: 1999-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/358/20250401/de/xml/fedlex-data-admin-ch-eli-cc-1999-358-20250401-de-xml-10.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/358/20250401/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/358/20260601/de/xml/fedlex-data-admin-ch-eli-cc-1999-358-20260601-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/358/20260601/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1999/358/20250401/de"
 
 (AsylG)
 
-vom 26. Juni 1998 (Stand am 1. April 2025)
+vom 26. Juni 1998 (Stand am 1. Juni 2026)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -165,7 +165,7 @@ Asylsuchende sind verpflichtet, an der Feststellung des Sachverhaltes mitzuwirke
 
 <sup>3bis</sup> Personen, die ohne triftigen Grund ihre Mitwirkungspflicht verletzen oder den Asylbehörden während mehr als 20 Tagen nicht zur Verfügung stehen, verzichten damit auf eine Weiterführung des Verfahrens. Dasselbe gilt für Personen, die den Asylbehörden in einem Zentrum des Bundes ohne triftigen Grund während mehr als 5 Tagen nicht zur Verfügung stehen. Die Gesuche werden formlos abgeschrieben. Ein neues Gesuch kann frühestens nach drei Jahren deponiert werden. Vorbehalten bleibt die Einhaltung der Flüchtlingskonvention vom 28. Juli 1951[^8-5].[^8-6]
 
-<sup>4</sup> ...[^8-7]
+<sup>4</sup> …[^8-7]
 
 [^8-1]: Fassung gemäss Ziff. I des BG vom 25. Sept. 2015, in Kraft seit 1. März 2019 ([AS 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521), [2018 2855](https://fedlex.data.admin.ch/eli/oc/2018/438); [BBl 2014 7991](https://fedlex.data.admin.ch/eli/fga/2014/1715)).
 [^8-2]: Eingefügt durch Ziff. I des BG vom 16. Dez. 2005, in Kraft seit 1. Jan. 2008 ([AS 2006 4745](https://fedlex.data.admin.ch/eli/oc/2006/727), [2007 5573](https://fedlex.data.admin.ch/eli/oc/2007/765); [BBl 2002 6845](https://fedlex.data.admin.ch/eli/fga/2002/1106)).
@@ -210,14 +210,26 @@ Elektronische Datenträger sind insbesondere:
 
 #### Art. 9
 
-**Durchsuchung**
+**Durchsuchung**[^9-1]
 
-<sup>1</sup> Die zuständige Behörde darf Asylsuchende, die in einem Zentrum des Bundes[^9-1] oder in einer Privat- oder Kollektivunterkunft untergebracht sind, und ihre mitgeführten Sachen auf Reise- und Identitätspapiere sowie auf gefährliche Gegenstände, Drogen und Vermögenswerte unklarer Herkunft hin durchsuchen.[^9-2]
+<sup>1</sup>
 
-<sup>2</sup> Asylsuchende dürfen nur von Personen gleichen Geschlechts durchsucht werden.
+Das SEM darf Asylsuchende, die in einem Zentrum des Bundes oder in einer Unterkunft am Flughafen untergebracht sind, sowie ihre mitgeführten Sachen und elektronischen Geräte zur Gewährleistung der Sicherheit und Ordnung oder zur Durchführung der Asylverfahren und der Vermögenswertabnahmen durchsuchen auf:
 
-[^9-1]: Ausdruck gemäss Ziff. I des BG vom 25. Sept. 2015, in Kraft seit 1. März 2019 ([AS 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521), [2018 2855](https://fedlex.data.admin.ch/eli/oc/2018/438); [BBl 2014 7991](https://fedlex.data.admin.ch/eli/fga/2014/1715)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
-[^9-2]: Fassung gemäss Ziff. I des BG vom 16. Dez. 2005, in Kraft seit 1. Jan. 2008 ([AS 2006 4745](https://fedlex.data.admin.ch/eli/oc/2006/727), [2007 5573](https://fedlex.data.admin.ch/eli/oc/2007/765); [BBl 2002 6845](https://fedlex.data.admin.ch/eli/fga/2002/1106)).
+- a. Reise- und Identitätspapiere;
+- b. verfahrensrelevante Unterlagen und Beweismittel;
+- c. Waffen oder gefährliche Gegenstände; Taschenmesser und ähnliche Gegenstände gelten als gefährliche Gegenstände;
+- d. Betäubungsmittel und weitere Stoffe nach Artikel 2 des Betäubungsmittelgesetzes vom 3. Oktober 1951[^9-2] sowie alkoholische Getränke;
+- e. Vermögenswerte unklarer Herkunft.
+
+<sup>2</sup> Das SEM stellt die Gegenstände nach Absatz 1 falls notwendig sicher.
+
+<sup>3</sup> Asylsuchende dürfen nur von Personen gleichen Geschlechts durchsucht werden. Dem Schutz von minderjährigen Asylsuchenden ist bei der Durchsuchung angemessen Rechnung zu tragen.
+
+<sup>4</sup> Für Asylsuchende, welche in kantonalen Unterbringungsstrukturen untergebracht sind, gelten die Absätze 1 und 2 sinngemäss.
+
+[^9-1]: Fassung gemäss Ziff. I des BG vom 21. März 2025 (Sicherheit und Betrieb in den Zentren des Bundes), in Kraft seit 1. Juni 2026 ([AS 2026 192](https://fedlex.data.admin.ch/eli/oc/2026/192); [BBl 2024 1107](https://fedlex.data.admin.ch/eli/fga/2024/1107)).
+[^9-2]: [SR 812.121](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9339)
 
 #### Art. 10
 
@@ -523,14 +535,9 @@ Eine Unterbringung von Asylsuchenden in einem Zentrum des Bundes erfolgt ab Einr
 
 #### Art. 24b
 
-**Betrieb der Zentren**[^24b-1]
+[^24b-1]
 
-<sup>1</sup> Das SEM kann Dritte mit Aufgaben zur Sicherstellung des Betriebs der Zentren des Bundes beauftragen. Die beauftragten Dritten unterstehen der gleichen Schweigepflicht wie das Bundespersonal.
-
-<sup>2</sup> Das EJPD erlässt Bestimmungen, um ein rasches Verfahren und einen geordneten Betrieb in den Zentren des Bundes sicherzustellen.[^24b-2]
-
-[^24b-1]: Eingefügt durch Ziff. I des BG vom 25. Sept. 2015, in Kraft seit 1. März 2019 ([AS 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521), [2018 2855](https://fedlex.data.admin.ch/eli/oc/2018/438); [BBl 2014 7991](https://fedlex.data.admin.ch/eli/fga/2014/1715)).
-[^24b-2]: Fassung gemäss Ziff. I des BG vom 1. Okt. 2021, in Kraft seit 1. April 2025 ([AS 2024 189](https://fedlex.data.admin.ch/eli/oc/2024/189); [BBl 2020 9287](https://fedlex.data.admin.ch/eli/fga/2020/2506); [2021 137](https://fedlex.data.admin.ch/eli/fga/2021/137)).
+[^24b-1]: Eingefügt durch Ziff. I des BG vom 25. Sept. 2015 ([AS 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521); [BBl 2014 7991](https://fedlex.data.admin.ch/eli/fga/2014/1715)). Aufgehoben durch Ziff. I des BG vom 21. März 2025 (Sicherheit und Betrieb in den Zentren des Bundes), mit Wirkung seit 1. Juni 2026 ([AS 2026 192](https://fedlex.data.admin.ch/eli/oc/2026/192); [BBl 2024 1107](https://fedlex.data.admin.ch/eli/fga/2024/1107)).
 
 #### Art. 24c
 
@@ -574,9 +581,10 @@ Der Standortkanton oder die Standortgemeinde:
 
 <sup>5</sup> Der Bund entrichtet dem Standortkanton oder der Standortgemeinde durch Vereinbarung Bundesbeiträge für die Abgeltung der Verwaltungs- und Personal- sowie der übrigen Kosten, die bei der Erfüllung der Aufgaben nach Absatz 2 entstehen. Die Abgeltung wird pauschal festgesetzt. Ausnahmsweise können die Beiträge nach Aufwand festgesetzt werden, insbesondere zur Abgeltung einmalig anfallender Kosten.
 
-<sup>6</sup> Die übrigen Bestimmungen für Zentren des Bundes gelten sinngemäss auch für kantonale und kommunale Zentren. In Zentren nach Absatz 1 können die gleichen Verfahren durchgeführt werden wie in den Zentren des Bundes nach Artikel 24.
+<sup>6</sup> Die übrigen Bestimmungen des 2*a.* und des 2*b.* Abschnitts gelten sinngemäss auch für kantonale und kommunale Zentren.[^24d-2] In Zentren nach Absatz 1 können die gleichen Verfahren durchgeführt werden wie in den Zentren des Bundes nach Artikel 24.
 
 [^24d-1]: Eingefügt durch Ziff. I des BG vom 25. Sept. 2015, in Kraft seit 1. März 2019 ([AS 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521), [2018 2855](https://fedlex.data.admin.ch/eli/oc/2018/438); [BBl 2014 7991](https://fedlex.data.admin.ch/eli/fga/2014/1715)).
+[^24d-2]: Fassung gemäss Ziff. I des BG vom 21. März 2025 (Sicherheit und Betrieb in den Zentren des Bundes), in Kraft seit 1. Juni 2026 ([AS 2026 192](https://fedlex.data.admin.ch/eli/oc/2026/192); [BBl 2024 1107](https://fedlex.data.admin.ch/eli/fga/2024/1107)).
 
 #### Art. 24e
 
@@ -586,19 +594,174 @@ Bund und Kantone treffen Massnahmen, damit sie auf Schwankungen der Asylgesuche 
 
 [^24e-1]: Eingefügt durch Ziff. I des BG vom 25. Sept. 2015, in Kraft seit 1. März 2019 ([AS 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521), [2018 2855](https://fedlex.data.admin.ch/eli/oc/2018/438); [BBl 2014 7991](https://fedlex.data.admin.ch/eli/fga/2014/1715)).
 
-### 3. Abschnitt: Das erstinstanzliche Verfahren
+### 2*b*. Abschnitt: Betrieb der Zentren des Bundes und der Unterkünfte an den Flughäfen
+
+[^chap2-sec2b-1]
+
+[^chap2-sec2b-1]: Eingefügt durch Ziff. I des BG vom 21. März 2025 (Sicherheit und Betrieb in den Zentren des Bundes), in Kraft seit 1. Juni 2026 ([AS 2026 192](https://fedlex.data.admin.ch/eli/oc/2026/192); [BBl 2024 1107](https://fedlex.data.admin.ch/eli/fga/2024/1107)).
 
 #### Art. 25
 
-[^25-1]
+**Betrieb der Zentren des Bundes und der Unterkünfte an den Flughäfen**[^25-1]
 
-[^25-1]: Aufgehoben durch Ziff. I des BG vom 16. Dez. 2005, mit Wirkung seit 1. Jan. 2008 ([AS 2006 4745](https://fedlex.data.admin.ch/eli/oc/2006/727), [2007 5573](https://fedlex.data.admin.ch/eli/oc/2007/765); [BBl 2002 6845](https://fedlex.data.admin.ch/eli/fga/2002/1106)).
+<sup>1</sup>
+
+Das SEM ist zuständig für die Sicherstellung des Betriebs in den Zentren des Bundes und in den Unterkünften an den Flughäfen. Der Betrieb umfasst insbesondere:
+
+- a. die Unterbringung der Asylsuchenden;
+- b. die Betreuung der Asylsuchenden;
+- c. die Gewährleistung der Sicherheit und Ordnung;
+- d. die Berücksichtigung der besonderen Bedürfnisse von Frauen und Kindern in Bezug auf ihre eigene Sicherheit.
+
+<sup>2</sup>
+
+Soweit die zu schützenden Rechtsgüter es rechtfertigen und die beabsichtigten Massnahmen verhältnismässig sind, kann das SEM zur Gewährleistung der Sicherheit und Ordnung, polizeilichen Zwang und polizeiliche Massnahmen anwenden oder anordnen:
+
+- a. im Rahmen der Durchsuchung nach Artikel 9;
+- b. beim Vollzug von Disziplinarmassnahmen nach Artikel 25*a*;
+- c. bei der Gefahrenabwehr;
+- d. bei der vorübergehenden Festhaltung nach Artikel 25*b*.
+
+<sup>3</sup> Für die Anwendung von polizeilichem Zwang und polizeilichen Massnahmen nach Absatz 2 gilt das Zwangsanwendungsgesetz vom 20. März 2008[^25-2] (ZAG). Der Einsatz von Waffen ist für die Mitarbeitenden des SEM untersagt.
+
+<sup>4</sup> Das SEM orientiert die asylsuchende Person nach Eintritt in das Zentrum des Bundes oder in die Unterkunft am Flughafen über die Massnahmen nach Absatz 2.
+
+<sup>5</sup> Das SEM gewährt zur seelsorglichen Beratung und Betreuung allen Religionsgemeinschaften Zugang zu den Zentren des Bundes und den Unterkünften an den Flughäfen. Der Bund kann für diese Tätigkeiten durch Vereinbarung und auf Grundlage kostengünstiger Lösungen Beiträge ausrichten.
+
+[^25-1]: Fassung gemäss Ziff. I des BG vom 21. März 2025 (Sicherheit und Betrieb in den Zentren des Bundes), in Kraft seit 1. Juni 2026 ([AS 2026 192](https://fedlex.data.admin.ch/eli/oc/2026/192); [BBl 2024 1107](https://fedlex.data.admin.ch/eli/fga/2024/1107)).
+[^25-2]: [SR 364](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6323)
 
 #### Art. 25a
 
-[^25a-1]
+**Disziplinarmassnahmen**[^25a-1]
 
-[^25a-1]: Eingefügt durch Ziff. I des BG vom 14. Dez. 2012 ([AS 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778); [BBl 2010 4455](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 7325](https://fedlex.data.admin.ch/eli/fga/2011/1209)). Aufgehoben durch Ziff. I des BG vom 25. Sept. 2015, mit Wirkung seit 1. März 2019 ([AS 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521), [2018 2855](https://fedlex.data.admin.ch/eli/oc/2018/438); [BBl 2014 7991](https://fedlex.data.admin.ch/eli/fga/2014/1715)).
+<sup>1</sup> Das SEM kann gegenüber einer asylsuchenden Person befristete Disziplinarmassnahmen anordnen, wenn diese durch ihr pflichtwidriges Verhalten den ordnungsgemässen Betrieb in einem Zentrum des Bundes oder in einer Unterkunft an einem Flughafen stört oder die öffentliche Sicherheit und Ordnung in deren Umgebung gefährdet.
+
+<sup>2</sup> Der Schutz von minderjährigen Asylsuchenden ist angemessen Rechnung zu tragen.
+
+<sup>3</sup>
+
+Als Disziplinarmassnahmen gelten:
+
+- a. das Verbot, bestimmte Räume zu betreten, die für Asylsuchende sonst allgemein zugänglich sind;
+- b. die Verweigerung der Teilnahme an Beschäftigungsprogrammen;
+- c. die Einschränkung von Sozialhilfeleistungen gemäss Artikel 83 Absatz 1 Buchstaben g, h und k sowie zusätzlicher Unterstützungsleistungen wie Taschengeld;
+- d. in den Zentren des Bundes: der Ausschluss aus allen für Asylsuchende allgemein zugänglichen Räumen für höchstens 72 Stunden; den Asylsuchenden wird während des Ausschlusses ein separater Raum zur Verfügung gestellt; der Zugang zur Rechtsberatung und -vertretung ist gewährleistet;
+- e. die Zuweisung in ein besonderes Zentrum nach Artikel 24*a*.
+
+<sup>4</sup> Bei Anordnung einer Disziplinarmassnahme nach Absatz 3 Buchstaben a–d stellt das SEM den Sachverhalt von Amtes wegen fest und gewährt den betroffenen Personen das rechtliche Gehör. Es eröffnet der asylsuchenden Person eine Disziplinarmassnahme mittels eines Formulars.
+
+<sup>5</sup> Die asylsuchende Person kann innerhalb von drei Tagen ab Kenntnisnahme der Anordnung einer Disziplinarmassnahme nach Absatz 3 Buchstaben a–d eine Beschwerde bei der Beschwerdeinstanz des SEM einreichen. Eine Beschwerde nach diesem Absatz hat keine aufschiebende Wirkung.
+
+<sup>6</sup> Bei Anordnung einer Disziplinarmassnahme nach Absatz 3 Buchstabe e erlässt das SEM eine Zwischenverfügung. Das Beschwerdeverfahren richtet sich nach Artikel 107 Absatz 3.
+
+[^25a-1]: Eingefügt durch Ziff. I des BG vom 14. Dez. 2012 ([AS 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778); [BBl 2010 4455](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 7325](https://fedlex.data.admin.ch/eli/fga/2011/1209)). Fassung gemäss Ziff. I des BG vom 21. März 2025 (Sicherheit und Betrieb in den Zentren des Bundes), in Kraft seit 1. Juni 2026 ([AS 2026 192](https://fedlex.data.admin.ch/eli/oc/2026/192); [BBl 2024 1107](https://fedlex.data.admin.ch/eli/fga/2024/1107)).
+
+#### Art. 25b
+
+**Vorübergehende Festhaltung zur Abwendung unmittelbarer Gefahr in den Zentren des Bundes**[^25b-1]
+
+<sup>1</sup>
+
+Auf Anordnung des SEM können Asylsuchende zur Abwehr einer ernsten, unmittelbaren und nicht anders abwendbaren Gefahr in einem dafür besonders ausgestatteten, überwachten und geschlossenen Raum innerhalb des Zentrums des Bundes vorübergehend festgehalten werden, wenn:
+
+- a. die beabsichtigte Festhaltung verhältnismässig ist; und
+- b.
+
+  die asylsuchende Person:
+
+  - 1\. andere Personen erheblich gefährdet,
+  - 2\. sich selbst erheblich gefährdet, oder
+  - 3\. einen grösseren Sachschaden zu verursachen droht.
+
+<sup>2</sup> Bei der vorübergehenden Festhaltung sind die zuständigen Polizeibehörden und bei Bedarf weitere zuständige Stellen zu informieren. Die asylsuchende Person kann bis zu deren Eintreffen festgehalten werden. Treffen diese nicht innerhalb von zwei Stunden nach erfolgter Meldung ein, ist die vorübergehende Festhaltung zu beenden.
+
+<sup>3</sup> Zu Beginn der vorübergehenden Festhaltung wird die asylsuchende Person von Personen gleichen Geschlechts durchsucht, und sämtliche gefährlichen Gegenstände werden ihr abgenommen. Während der vorübergehenden Festhaltung ist das persönliche Wohlbefinden der asylsuchenden Person zu überwachen.
+
+<sup>4</sup> Das SEM stellt sicher, dass die Mitarbeitenden, die mit der Anordnung oder Durchführung der vorübergehenden Festhaltung betraut sind, eine geeignete Ausbildung erhalten.
+
+<sup>5</sup> Der Schutz von minderjährigen Asylsuchenden ist angemessen Rechnung zu tragen. Die Anordnung einer vorübergehenden Festhaltung ist bei Kindern und Jugendlichen, die das 15. Altersjahr noch nicht zurückgelegt haben, ausgeschlossen.
+
+[^25b-1]: Eingefügt durch Ziff. I des BG vom 21. März 2025 (Sicherheit und Betrieb in den Zentren des Bundes), in Kraft seit 1. Juni 2026 ([AS 2026 192](https://fedlex.data.admin.ch/eli/oc/2026/192); [BBl 2024 1107](https://fedlex.data.admin.ch/eli/fga/2024/1107)).
+
+#### Art. 25c
+
+**Übertragung von Aufgaben an Dritte**[^25c-1]
+
+<sup>1</sup>
+
+Das SEM kann für die Betreuung und Unterbringung von Asylsuchenden Dritten insbesondere die folgenden Aufgaben übertragen:
+
+- a. Aufnahme, Unterbringung und Betreuung in den Zentren des Bundes und den Unterkünften an den Flughäfen;
+- b. Sicherstellung der Grundversorgung in den Bereichen Verpflegung, Hygiene und Bekleidung, einschliesslich der Beschaffung der dafür erforderlichen Güter und Dienstleistungen;
+- c. Informationsvermittlung an die Asylsuchenden;
+- d. Beschäftigung der Asylsuchenden;
+- e. Sicherstellung der medizinischen Versorgung;
+- f. Umsetzung der Hausordnung;
+- g. Organisation und Durchführung von Personentransporten;
+- h. administrative Tätigkeiten, insbesondere Informationsaustausch mit den verschiedenen Partnern.
+
+<sup>2</sup>
+
+Das SEM kann zur der Gewährleistung der Sicherheit und Ordnung in den Zentren des Bundes und in den Unterkünften an den Flughäfen Dritten die folgenden Aufgaben übertragen:
+
+- a. Arbeiten, welche am Schalter der Zentren des Bundes verrichtet werden, insbesondere Zutritts-, Austritts- und Besucherkontrolle;
+- b. Massnahmen zur Verbesserung und Förderung des Zusammenlebens, insbesondere zur Konfliktprävention;
+- c. Gewährleistung von Ruhe, Ordnung und Sicherheit im Innen- und Aussenbereich der Zentren des Bundes und in den Unterkünften an den Flughäfen, insbesondere durch Durchsuchung von Personen und Sachen, Gefahrenabwehr sowie Überwachung und Kontrolle des Innen- und Aussenbereichs;
+- d. Unterstützung beim Vollzug von Disziplinarmassnahmen nach Artikel 25*a* und der vorübergehenden Festhaltung nach Artikel 25*b*, insbesondere bei der Abführung, Überwachung oder der Begleitung Asylsuchender;
+- e. Durchführung von administrativen Tätigkeiten.
+
+<sup>3</sup> Dritte, denen Aufgaben nach Absatz 2 übertragen werden, müssen durch geeignete Massnahmen hinsichtlich Rekrutierung, Ausbildung und Kontrolle ihrer Mitarbeitenden Gewähr dafür bieten, dass die übertragenen Aufgaben angemessen und korrekt erfüllt werden. Private Sicherheitsunternehmen müssen darüber hinaus über eine kantonale Betriebsbewilligung verfügen.
+
+<sup>4</sup> Das SEM legt Qualitätsstandards für die Betreuungs- und Sicherheitsdienstleistungen fest. Es beaufsichtigt die beauftragten Dritten und führt regelmässige Qualitätskontrollen durch.
+
+<sup>5</sup> Das SEM stellt sicher, dass die Mitarbeitenden der beauftragten Dritten eine im Hinblick auf den Umgang mit asylsuchenden Personen geeignete Ausbildung erhalten.
+
+<sup>6</sup> Für die Anwendung von polizeilichem Zwang und polizeilichen Massnahmen gilt das ZAG[^25c-2]. Der Einsatz von Waffen ist für die Mitarbeitenden der beauftragten Dritten untersagt.
+
+<sup>7</sup> Das SEM überträgt die Aufgaben nach den Absätzen 1 und 2 durch Vertrag und gilt den nach Absatz 2 beauftragten Dritten die Verwaltungs- und Personalkosten sowie die übrigen Kosten ab, die ihnen bei der Erfüllung der Aufgaben entstehen.
+
+<sup>8</sup> Die beauftragten Dritten unterstehen der gleichen Schweigepflicht wie das Bundespersonal.
+
+[^25c-1]: Eingefügt durch Ziff. I des BG vom 21. März 2025 (Sicherheit und Betrieb in den Zentren des Bundes), in Kraft seit 1. Juni 2026 ([AS 2026 192](https://fedlex.data.admin.ch/eli/oc/2026/192); [BBl 2024 1107](https://fedlex.data.admin.ch/eli/fga/2024/1107)).
+[^25c-2]: [SR 364](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6323)
+
+#### Art. 25d
+
+**Übertragung von Aufgaben an die Kantone**[^25d-1]
+
+<sup>1</sup> Der Bund kann mit dem Kanton, in welchem sich ein Zentrum des Bundes oder eine Unterkunft am Flughafen befindet oder der für einen Flughafen verantwortlich ist, vereinbaren, dass die zuständigen Polizeibehörden dieses Kantons die Sicherheit und Ordnung (Art. 25 Abs. 1 Bst. c) in der betreffenden Unterkunft gewährleisten.
+
+<sup>2</sup> Das SEM bleibt für die Anordnung der Disziplinarmassnahmen nach Artikel 25*a* und der vorübergehenden Festhaltung nach Artikel 25*b* zuständig.
+
+<sup>3</sup> Für Durchsuchungen gilt Artikel 9 sinngemäss. Die Anwendung von polizeilichem Zwang und polizeilichen Massnahmen richtet sich nach dem ZAG[^25d-2].
+
+<sup>4</sup> Der Bund gilt dem Kanton durch Vertrag die Verwaltungs- und Personalkosten sowie die übrigen Kosten ab, die diesem bei der Erfüllung der Aufgaben nach Absatz 1 entstehen. Die Abgeltung wird pauschal festgesetzt. Ausnahmsweise können die Beiträge nach Aufwand festgesetzt werden, insbesondere zur Entschädigung einmalig anfallender Kosten.
+
+[^25d-1]: Eingefügt durch Ziff. I des BG vom 21. März 2025 (Sicherheit und Betrieb in den Zentren des Bundes), in Kraft seit 1. Juni 2026 ([AS 2026 192](https://fedlex.data.admin.ch/eli/oc/2026/192); [BBl 2024 1107](https://fedlex.data.admin.ch/eli/fga/2024/1107)).
+[^25d-2]: [SR 364](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6323)
+
+#### Art. 25e
+
+**Generelle Ausführungsbestimmungen**[^25e-1]
+
+Das Eidgenössische Justiz- und Polizeidepartement (EJPD) kann Ausführungsbestimmungen erlassen, insbesondere über:
+
+- a. die Durchsuchung;
+- b. die Beschäftigungsprogramme;
+- c. das Besuchsrecht;
+- d. die Ausgangsmodalitäten;
+- e. die Grundzüge der Ausbildung der Mitarbeitenden im Sicherheitsbereich;
+- f. die Disziplinartatbestände, die Disziplinarmassnahmen und das Disziplinarverfahren;
+- g. die Wahrung der Interessen minderjähriger Asylsuchender, insbesondere den Vorrang pädagogischer Massnahmen.
+
+[^25e-1]: Eingefügt durch Ziff. I des BG vom 21. März 2025 (Sicherheit und Betrieb in den Zentren des Bundes), in Kraft seit 1. Juni 2026 ([AS 2026 192](https://fedlex.data.admin.ch/eli/oc/2026/192); [BBl 2024 1107](https://fedlex.data.admin.ch/eli/fga/2024/1107)).
+
+### 3. Abschnitt: Das erstinstanzliche Verfahren
+
+[^chap2-sec3-1]
+
+[^chap2-sec3-1]: Ursprünglich: vor Art. 25
 
 #### Art. 26
 
@@ -853,9 +1016,10 @@ Das SEM legt in einer Behandlungsstrategie fest, welche Asylgesuche prioritär b
 
 **Gewährung vorübergehenden Schutzes**[^39-1]
 
-Wird aufgrund der Befragung in einem Zentrum des Bundes oder der Anhörung offenkundig, dass Asylsuchende zu einer Gruppe Schutzbedürftiger nach Artikel 66 gehören, so wird ihnen vorübergehender Schutz gewährt.
+Wird aufgrund der Befragung in einem Zentrum des Bundes[^39-2] oder der Anhörung offenkundig, dass Asylsuchende zu einer Gruppe Schutzbedürftiger nach Artikel 66 gehören, so wird ihnen vorübergehender Schutz gewährt.
 
 [^39-1]: Fassung gemäss Ziff. I des BG vom 14. Dez. 2012, in Kraft seit 1. Febr. 2014 ([AS 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778)[5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [BBl 2010 4455](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 7325](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
+[^39-2]: Ausdruck gemäss Ziff. I des BG vom 25. Sept. 2015, in Kraft seit 1. März 2019 ([AS 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521), [2018 2855](https://fedlex.data.admin.ch/eli/oc/2018/438); BBl 2014 7991). Diese Änd. wurde im ganzen Erlass berücksichtigt.
 
 #### Art. 40
 
@@ -1329,9 +1493,10 @@ Ehegatten von Schutzbedürftigen und ihren minderjährigen Kindern wird vorüber
 
 **Verfahren**[^72-1]
 
-Im Übrigen finden auf die Verfahren nach den Artikeln 68, 69 und 71 die Bestimmungen des 1., des 2*a*. und des 3. Abschnittes des 2. Kapitels sinngemäss Anwendung. Auf die Verfahren nach den Artikeln 69 und 71 finden die Bestimmungen des 8. Kapitels sinngemäss Anwendung.
+Im Übrigen finden auf die Verfahren nach den Artikeln 68, 69 und 71 die Bestimmungen des 2. Kapitels, 1., 2*a*., 2*b*. und 3. Abschnittes sinngemäss Anwendung.[^72-2] Auf die Verfahren nach den Artikeln 69 und 71 finden die Bestimmungen des 8. Kapitels sinngemäss Anwendung.
 
 [^72-1]: Fassung gemäss Ziff. I des BG vom 25. Sept. 2015, in Kraft seit 1. März 2019 ([AS 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521), [2018 2855](https://fedlex.data.admin.ch/eli/oc/2018/438); [BBl 2014 7991](https://fedlex.data.admin.ch/eli/fga/2014/1715)).
+[^72-2]: Fassung gemäss Ziff. I des BG vom 21. März 2025 (Sicherheit und Betrieb in den Zentren des Bundes), in Kraft seit 1. Juni 2026 ([AS 2026 192](https://fedlex.data.admin.ch/eli/oc/2026/192); [BBl 2024 1107](https://fedlex.data.admin.ch/eli/fga/2024/1107)).
 
 #### Art. 73
 
@@ -2576,11 +2741,11 @@ Selbständig anfechtbar sind ausserdem, sofern sie einen nicht wieder gutzumache
 - a. vorsorgliche Massnahmen;
 - b. Verfügungen, mit denen das Verfahren sistiert wird, ausser Verfügungen nach Artikel 69 Absatz 3.
 
-<sup>3</sup> …[^107-3]
+<sup>3</sup> Der Entscheid über die Zuweisung in ein besonderes Zentrum des Bundes nach Artikel 24*a* ist selbstständig anfechtbar, wenn die Endverfügung nicht innerhalb von 30 Tagen nach der Zuweisung eröffnet wird. Die Beschwerdefrist beginnt am 31. Tag nach der Eröffnung des Zuweisungsentscheids. Eine Beschwerde hat keine aufschiebende Wirkung.[^107-3]
 
 [^107-1]: [SR 142.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4851)
 [^107-2]: Fassung gemäss Anhang Ziff. II 1 des BG vom 16. Dez. 2005 über Ausländerinnen und Ausländer, in Kraft seit 1. Jan. 2008 ([AS 2007 5437](https://fedlex.data.admin.ch/eli/oc/2007/758); [BBl 2002 3709](https://fedlex.data.admin.ch/eli/fga/2002/541)).
-[^107-3]: Aufgehoben durch Ziff. I des BG vom 16. Dez. 2005, mit Wirkung seit 1. Jan. 2008 ([AS 2006 4745](https://fedlex.data.admin.ch/eli/oc/2006/727), [2007 5573](https://fedlex.data.admin.ch/eli/oc/2007/765); [BBl 2002 6845](https://fedlex.data.admin.ch/eli/fga/2002/1106)).
+[^107-3]: Fassung gemäss Ziff. I des BG vom 21. März 2025 (Sicherheit und Betrieb in den Zentren des Bundes), in Kraft seit 1. Juni 2026 ([AS 2026 192](https://fedlex.data.admin.ch/eli/oc/2026/192); [BBl 2024 1107](https://fedlex.data.admin.ch/eli/fga/2024/1107)).
 
 #### Art. 107a
 
