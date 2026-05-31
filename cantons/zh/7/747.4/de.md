@@ -4,19 +4,18 @@ number: "747.4"
 title: Schiffsstationierungsverordnung (SchSV)
 short: SchSV
 language: de
-version: "2011-11-01"
-nachtrag: "75"
-valid_until: 2026-06-01
+version: "2026-06-01"
+nachtrag: "133"
 adopted: 1992-10-14
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-747_4-1992_10_14-1993_01_01-075.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-747_4-1992_10_14-1993_01_01-133.html"
 text: pdf
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZH. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Verordnung über das Stationieren von Schiffen (Stationierungsverordnung)
+# Schiffsstationierungsverordnung (SchSV)
 
-(vom 14. Oktober 1992)[^t-1]
+(vom 14. Oktober 1992)[^t-2][^t-1]
 
 I. Allgemeine Bestimmungen
 
@@ -24,14 +23,15 @@ I. Allgemeine Bestimmungen
 
 § 1. Diese Verordnung regelt das Stationieren von Schiffen auf öffentlichem Gewässergebiet.
 
-[^t-1]: OS 52, 265.
-[^t-2]: Fassung gemäss RRB vom 24. August 2011 (OS 66, 630; ABl 2011, 2320). In Kraft seit 1. November 2011.
+[^t-1]: Fassung gemäss RRB vom 2. Juli 2025 (OS 81, 239; ABl 2025-08-22). In Kraft seit 1. Juni 2026.
+[^t-2]: OS 52, 265.
+[^t-3]: Fassung gemäss RRB vom 24. August 2011 (OS 66, 630; ABl 2011, 2320). In Kraft seit 1. November 2011.
 
 #### § 2
 
 **Begriffe**
 
-<sup>1</sup> Schiffe sind Wasserfahrzeuge und andere Schwimmkörper gemäss der Bundesgesetzgebung über die Schifffahrt[^t-2].
+<sup>1</sup> Schiffe sind Wasserfahrzeuge und andere Schwimmkörper gemäss der Bundesgesetzgebung über die Schifffahrt[^t-3].
 
 <sup>2</sup> Stationierungsanlagen sind Vorrichtungen, die dazu dienen, für längere Zeit auf öffentlichen Gewässern stilliegende Schiffe genügend sicher zu verankern oder festzumachen.
 
@@ -65,39 +65,33 @@ I. Allgemeine Bestimmungen
 
 <sup>3</sup> Konzessionen werden mit den zur Wahrung der öffentlichen Interessen nötigen Bedingungen und Auflagen versehen. Sie können zeitlich befristet werden.
 
-[^5-1]: Fassung gemäss RRB vom 24. August 2011 (OS 66, 630; ABl 2011, 2320). In Kraft seit 1. November 2011.
-
-#### § 6
-
 **Verfahren**
 
-<sup>1</sup> Das Verfahren richtet sich nach den Bestimmungen des Wasserwirtschaftsgesetzes und der Konzessionsverordnung. Gesuche sind mit den erforderlichen Unterlagen dem AWEL[^5-1] einzureichen.
+§ 6.[^5-1] <sup>1</sup> Das Verfahren richtet sich nach den Bestimmungen des Wassergesetzes vom 12. Dezember 2022[^5-2] und der Wasserverordnung vom 2. Juli 2025[^5-3]. Gesuche sind mit den erforderlichen Unterlagen dem AWEL einzureichen.
+
+<sup>2</sup> Das AWEL[^5-4] holt die Stellungnahmen der Gemeinde, der Sicherheitsdirektion und der öffentlichen Schifffahrt ein.[^5-5]
 
 **1**
 
-- 1\. 1. 12 - 75
+- 1\. 7. 26 - 133 § 7.[^5-1] Für die Beanspruchung des öffentlichen Gewässergebiets durch Stationierungsanlagen wird vom Konzessionär eine Gebühr gemäss der Wasserverordnung[^5-3] erhoben.
 
-<sup>2</sup> Das AWEL[^6-1] holt die Stellungnahmen der Gemeinde, der Sicherheitsdirektion und der öffentlichen Schifffahrt ein.[^6-2]
-
-**Gebührenpflicht**
-
-§ 7. Für die Beanspruchung des öffentlichen Gewässergebietes durch Stationierungsanlagen wird vom Konzessionär eine Gebühr gemäss der Gebührenverordnung zum Wasserwirtschaftsgesetz[^6-3] erhoben.
-
-[^6-1]: Fassung gemäss RRB vom 24. August 2011 (OS 66, 630; ABl 2011, 2320). In Kraft seit 1. November 2011.
-[^6-2]: Fassung gemäss RRB vom 19. Juli 2006 (OS 61, 321; ABl 2006, 1062). In Kraft seit 15. Mai 2006.
-[^6-3]: LS 724.21.
+[^5-1]: Fassung gemäss RRB vom 2. Juli 2025 (OS 81, 239; ABl 2025-08-22). In Kraft seit 1. Juni 2026.
+[^5-2]: LS 724.1.
+[^5-3]: LS 724.11.
+[^5-4]: Fassung gemäss RRB vom 24. August 2011 (OS 66, 630; ABl 2011, 2320). In Kraft seit 1. November 2011.
+[^5-5]: Fassung gemäss RRB vom 19. Juli 2006 (OS 61, 321; ABl 2006, 1062). In Kraft seit 15. Mai 2006.
 
 #### § 8
+
+**Gebührenpflicht**
 
 **Übertragung**
 
 Die Übertragung einer Konzession bedarf der Zustimmung der Konzessionsbehörde.
 
-#### § 9
+§ 9.[^8-1]
 
-**Widerruf**
-
-Wenn öffentliche Interessen es erfordern oder Gründe im Sinne von § 14 vorliegen, kann eine Konzession widerrufen werden.
+[^8-1]: Aufgehoben durch RRB vom 2. Juli 2025 (OS 81, 239; ABl 2025-08-22). In Kraft seit 1. Juni 2026.
 
 ### III. Benützung von Stationierungsanlagen
 
@@ -180,7 +174,7 @@ Der Baudirektion obliegt die Aufsicht über das Stationierungswesen.
 
 **3**
 
-- 1\. 1. 12 - 75
+- 1\. 7. 26 - 133
 
 ### V. Schlussbestimmung
 
@@ -193,3 +187,7 @@ Der Baudirektion obliegt die Aufsicht über das Stationierungswesen.
 <sup>2</sup> § 12 ist bis zum 31. Dezember 1993 von der Inkraftsetzung ausgenommen. Während dieser Übergangszeit bleibt § 14 der Verordnung über das Stationieren von Schiffen vom 23. April 1980[^19-1] in Kraft.
 
 [^19-1]: Vgl. GS V, 662.
+
+## Weitere Fussnoten
+
+- [4] Obsolet.
