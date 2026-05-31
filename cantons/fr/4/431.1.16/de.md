@@ -1,36 +1,35 @@
 ---
 canton: FR
 number: "431.1.16"
-title: Verordnung über die Zulassungsbeschränkungen zum Master of Medicine (MMed) der Universität Freiburg im akademischen Jahr 2025/26
+title: Verordnung über die Zulassungsbeschränkungen zum Master of Medicine (MMed) der Universität Freiburg im akademischen Jahr 2027/28
 language: de
-version: 2025-02-10
-valid_until: 2026-05-31
-version_adopted: 2025-02-10
+version: 2026-06-01
+version_adopted: 2026-01-27
 adopted: 2026-01-27
 in_force: 2026-06-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/431.1.16"
-pdf: "https://bdlf.fr.ch/api/de/versions/8141/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/8382/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Verordnung über die Zulassungsbeschränkungen zum Master of Medicine (MMed) der Universität Freiburg im akademischen Jahr 2025/26
+# Verordnung über die Zulassungsbeschränkungen zum Master of Medicine (MMed) der Universität Freiburg im akademischen Jahr 2027/28
 
 Universität, Master of Medicine (MMed) – V
 
-vom 10.02.2025 (Fassung in Kraft getreten am 10.02.2025)
+vom 27.01.2026 (Fassung in Kraft getreten am 01.06.2026)
 
 Der Staatsrat des Kantons Freiburg
 
-gestützt auf Artikel 24 des Gesetzes vom 19. November 1997 über die Universität (UniG);
+gestützt auf das Gesetz vom 19. November 1997 über die Universität (UniG), insbesondere auf Artikel 24;
 
 in Erwägung:
 
-Der Grosse Rat des Kantons Freiburg genehmigte am 7. September 2016 die Einführung eines Masters in Humanmedizin mit Vertiefung in Hausarztmedizin an der Universität Freiburg, in Partnerschaft mit dem Freiburger Spital.
+Der Grosse Rat des Kantons Freiburg hat am 7. September 2016 die Einführung eines Masters in Humanmedizin mit Vertiefung in Hausarztmedizin an der Universität Freiburg, in Partnerschaft mit dem Freiburger Spital, genehmigt.
 
-Der Studiengang hat im Herbstsemester 2019 begonnen. Die Anzahl Studienplätze ist dabei insbesondere wegen der Anforderungen an die klinische Ausbildung beschränkt. Da zu erwarten ist, dass die Aufnahmekapazitäten überschritten werden, müssen die Kriterien für die Zuteilung der Studienplätze festgelegt werden.
+Der Studiengang hat im Herbstsemester 2019 begonnen. Die Anzahl Studienplätze ist dabei insbesondere wegen der Anforderungen an die klinische Ausbildung beschränkt. Da zu erwarten ist, dass die Aufnahmekapazitäten überschritten werden, müssen die Kriterien für die Zuteilung der Studienplätze festgelegt werden. In seiner Antwort auf die Motion 2024-GC-250 hat sich der Staatsrat verpflichtet, die vorliegende Verordnung ab dem Studienjahr 2027/28 anzupassen, insbesondere durch die Einführung des Trägerkantons im Sinne der interkantonalen Vereinbarung über die Beiträge an die Ausbildungskosten der universitären Hochschulen (IUV) als Kriterium für die Zuteilung der Studienplätze. Studierende, welche die Zulassungskriterien für den MMed erfüllen, jedoch nicht die Kriterien für die Vergabe der Studienplätze an der Universität Freiburg, können ihre Ausbildung an einer Universität, mit der eine Vereinbarung geschlossen wurde, fortsetzen.
 
-Das Rektorat der Universität Freiburg hat in seiner Sitzung vom 25. November 2024 dieser Verordnung zugestimmt.
+Das Rektorat der Universität Freiburg hat in seiner Sitzung vom 15. Dezember 2025 dieser Verordnung zugestimmt.
 
 Auf Antrag der Direktion für Bildung und kulturelle Angelegenheiten,
 
@@ -40,7 +39,7 @@ beschliesst:
 
 **Geltungsbereich**
 
-<sup>1</sup> Diese Verordnung gilt für Studierende, die ab dem Herbstsemester 2025 den Masterstudiengang Humanmedizin (Master of Medicine – MMed) an der Universität Freiburg absolvieren möchten.
+<sup>1</sup> Diese Verordnung gilt für Studierende, die ab dem Herbstsemester 2027 den Masterstudiengang Humanmedizin (Master of Medicine – MMed) an der Universität Freiburg absolvieren möchten.
 
 #### Art. 2
 
@@ -63,7 +62,7 @@ beschliesst:
 
 <sup>3</sup> Die Abschlüsse gemäss Absatz 1 Bst. b–d dürfen grundsätzlich nicht mehr als fünf Jahre alt sein.
 
-<sup>4</sup> Sind innerhalb einer Kategorie gemäss Absatz 1 Bst. a–d mehr Bewerbungen vorhanden, als freie Studienplätze zur Verfügung stehen, so werden die Studienplätze nach den Noten, den Gründen der Studienwahl und in Ausnahmefällen den persönlichen Verhältnissen der Bewerberinnen und Bewerber zugeteilt.
+<sup>4</sup> Sind innerhalb einer Kategorie gemäss Absatz 1 Bst. a–d mehr Bewerbungen vorhanden, als freie Studienplätze zur Verfügung stehen, so werden diese Studienplätze anhand der folgenden Kriterien zugeteilt: Trägerkanton im Sinne der IUV, Noten am Ende des zweiten Jahres des BMed und, in Ausnahmefällen, persönliche Verhältnisse der Kandidierenden.
 
 <sup>5</sup> Die Studienplätze werden gemäss den von der Mathematisch-Naturwissenschaftlichen und Medizinischen Fakultät erlassenen Richtlinien zugeteilt.
 
@@ -91,4 +90,4 @@ beschliesst:
 
 <sup>3</sup> Gegen Entscheide des Rektorats oder der Internen Rekurskommission der Universität Freiburg kann bei der Rekurskommission der Universität Freiburg Beschwerde erhoben werden.
 
-2025\_010
+2026\_011
