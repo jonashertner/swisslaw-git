@@ -4,11 +4,11 @@ title: "Ordonnance du DFF du 4 avril 2007 sur les marchandises bénéficiant d'a
 short: OADou
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/252"
 language: fr
-version: 2026-04-01
+version: 2026-06-01
 adopted: 2007-04-04
 in_force: 2007-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/252/20260401/fr/xml/fedlex-data-admin-ch-eli-cc-2007-252-20260401-fr-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/252/20260401/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/252/20260601/fr/xml/fedlex-data-admin-ch-eli-cc-2007-252-20260601-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/252/20260601/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/252/20260401/fr"
 
 (Ordonnance sur les allégements douaniers, OADou)
 
-du 4 avril 2007 (État le 1<sup>er</sup> avril 2026)
+du 4 avril 2007 (État le 1<sup>er</sup> juin 2026)
 
 Le Département fédéral des finances (DFF),
 
@@ -426,7 +426,7 @@ Annexe 1[^t-1]
 
 ## Allégements douaniers accordés selon l’emploi
 
-[^t-1]: Nouvelle teneur selon le ch. I de l’O du DFF du 16 mars 2016 ([RO 2016 1093](https://fedlex.data.admin.ch/eli/oc/2016/206)). Mise à jour par le ch. I des O du DFF du 12 août 2016 ([RO 2016 2947](https://fedlex.data.admin.ch/eli/oc/2016/489)), du 28 oct. 2016 ([RO 2016 4031](https://fedlex.data.admin.ch/eli/oc/2016/667)) et du 28 oct. 2016 ([RO 2016 4033](https://fedlex.data.admin.ch/eli/oc/2016/668)), de l’O de la DGD du 11 nov. 2016 ([RO 2016 4035](https://fedlex.data.admin.ch/eli/oc/2016/669)), des O du DFF du 11 août 2017 ([RO 2017 4889](https://fedlex.data.admin.ch/eli/oc/2017/534)), du 1<sup>er</sup> nov. 2017 ([RO 2017 6665](https://fedlex.data.admin.ch/eli/oc/2017/741)), le ch. I de l’O de la DGD du 22 sept. 2020 ([RO 2020 3867](https://fedlex.data.admin.ch/eli/oc/2020/716)), le ch. I de l’O du DFF du 17 nov. 2020 ([RO 2020 5431](https://fedlex.data.admin.ch/eli/oc/2020/944)), le ch. I et II de l’O du DFF du 8 sept. 2021 ([RO 2021 577](https://fedlex.data.admin.ch/eli/oc/2021/577)), le ch. I de l’O du DFF du 15 nov. 2021 ([RO 2021 737](https://fedlex.data.admin.ch/eli/oc/2021/737)), le ch. I des O de l’OFDF du 21 avr. 2022 ([RO 2022 252](https://fedlex.data.admin.ch/eli/oc/2022/252)), du 20 oct. 2023 ([RO 2023 602](https://fedlex.data.admin.ch/eli/oc/2023/602)), le ch. I de l’O du DFF du 16 juil. 2024 ([RO 2024 375](https://fedlex.data.admin.ch/eli/oc/2024/375)), le ch. I des O de l’OFDF du 18 déc. 2025 ([RO 2025 855](https://fedlex.data.admin.ch/eli/oc/2025/855)), du 21 janv. 2026 ([RO 2026 30](https://fedlex.data.admin.ch/eli/oc/2026/30)) et du 23 mars 2026, en vigueur depuis le 1<sup>er</sup> avr. 2026 ([RO 2026 127](https://fedlex.data.admin.ch/eli/oc/2026/127)).
+[^t-1]: Nouvelle teneur selon le ch. I de l’O du DFF du 16 mars 2016 ([RO 2016 1093](https://fedlex.data.admin.ch/eli/oc/2016/206)). Mise à jour par le ch. I des O du DFF du 12 août 2016 ([RO 2016 2947](https://fedlex.data.admin.ch/eli/oc/2016/489)), du 28 oct. 2016 ([RO 2016 4031](https://fedlex.data.admin.ch/eli/oc/2016/667)) et du 28 oct. 2016 ([RO 2016 4033](https://fedlex.data.admin.ch/eli/oc/2016/668)), de l’O de la DGD du 11 nov. 2016 ([RO 2016 4035](https://fedlex.data.admin.ch/eli/oc/2016/669)), des O du DFF du 11 août 2017 ([RO 2017 4889](https://fedlex.data.admin.ch/eli/oc/2017/534)), du 1<sup>er</sup> nov. 2017 ([RO 2017 6665](https://fedlex.data.admin.ch/eli/oc/2017/741)), le ch. I de l’O de la DGD du 22 sept. 2020 ([RO 2020 3867](https://fedlex.data.admin.ch/eli/oc/2020/716)), le ch. I de l’O du DFF du 17 nov. 2020 ([RO 2020 5431](https://fedlex.data.admin.ch/eli/oc/2020/944)), le ch. I et II de l’O du DFF du 8 sept. 2021 ([RO 2021 577](https://fedlex.data.admin.ch/eli/oc/2021/577)), le ch. I de l’O du DFF du 15 nov. 2021 ([RO 2021 737](https://fedlex.data.admin.ch/eli/oc/2021/737)), le ch. I des O de l’OFDF du 21 avr. 2022 ([RO 2022 252](https://fedlex.data.admin.ch/eli/oc/2022/252)), du 20 oct. 2023 ([RO 2023 602](https://fedlex.data.admin.ch/eli/oc/2023/602)), le ch. I de l’O du DFF du 16 juil. 2024 ([RO 2024 375](https://fedlex.data.admin.ch/eli/oc/2024/375)), le ch. I des O de l’OFDF du 18 déc. 2025 ([RO 2025 855](https://fedlex.data.admin.ch/eli/oc/2025/855)) et du 20 mai 2026, en vigueur depuis le 1<sup>er</sup> juin 2026 ([RO 2026 236](https://fedlex.data.admin.ch/eli/oc/2026/236)).
 
 <table>
 <tr><th colspan="2">N<sup>o</sup> du tarif</th><th>Désignation de la marchandise</th><th>Emploi</th><th>Taux du droit Fr. par 100 kg brut</th></tr>
@@ -470,10 +470,10 @@ Annexe 1[^t-1]
 <tr><td colspan="2">1008. 10 29</td><td>Sarrasin</td><td>pour la fabrication de denrées alimentaires avec résidus pour l’affouragement</td><td>exempt</td></tr>
 <tr><td colspan="2">1008. 29 29</td><td>Millet</td><td>pour la fabrication de denrées alimentaires avec résidus pour l’affouragement</td><td>exempt</td></tr>
 <tr><td colspan="2">1008. 30 20</td><td>Alpiste</td><td>pour la fabrication de denrées alimentaires avec résidus pour l’affouragement</td><td>exempt</td></tr>
-<tr><td colspan="2">1008. 40 29</td><td>Fonio (*Digitaria* spp.)</td><td>pour la fabrication de denrées alimentaires avec résidus pour l’affouragement</td><td>4.50</td></tr>
-<tr><td colspan="2">1008. 50 29</td><td>Quinoa (*Chenopodium quinoa*)</td><td>pour la fabrication de denrées alimentaires avec résidus pour l’affouragement</td><td>4.50</td></tr>
-<tr><td colspan="2">1008. 60 39</td><td>Triticale</td><td>pour la fabrication de denrées alimentaires avec résidus pour l’affouragement</td><td>5.50</td></tr>
-<tr><td colspan="2">1008. 90 27</td><td>Autres céréales</td><td>pour la fabrication de denrées alimentaires avec résidus pour l’affouragement</td><td>4.50</td></tr>
+<tr><td colspan="2">1008. 40 29</td><td>Fonio (*Digitaria spp*.)</td><td>pour la fabrication de denrées alimentaires avec résidus pour l’affouragement</td><td>5.00</td></tr>
+<tr><td colspan="2">1008. 50 29</td><td>Quinoa (*Chenopodium quinoa*)</td><td>pour la fabrication de denrées alimentaires avec résidus pour l’affouragement</td><td>5.00</td></tr>
+<tr><td colspan="2">1008. 60 39</td><td>Triticale</td><td>pour la fabrication de denrées alimentaires avec résidus pour l’affouragement</td><td>6.00</td></tr>
+<tr><td colspan="2">1008. 90 27</td><td>Autres céréales</td><td>pour la fabrication de denrées alimentaires avec résidus pour l’affouragement</td><td>5.00</td></tr>
 <tr><td>1101. 00 43</td><td colspan="2">Farine d’épeautre</td><td>pour la fabrication industrielle d’amidon, de gluten et de glucose</td><td>—.75</td></tr>
 <tr><td>1101. 00 48</td><td colspan="2">Farine de froment</td><td>pour la fabrication industrielle d’amidon, de gluten et de glucose</td><td>—.75</td></tr>
 <tr><td colspan="2">1102. 20 10</td><td>Farine de maïs</td><td>pour l’alimentation humaine sans résidus pour l’affouragement</td><td>20.—</td></tr>
@@ -494,7 +494,7 @@ Annexe 1[^t-1]
 <tr><td colspan="2">1104. 19 29</td><td>Grains aplatis ou en flocons d’orge</td><td>pour l’alimentation humaine sans résidus pour l’affouragement</td><td>10.—</td></tr>
 <tr><td colspan="2">1104. 19 99</td><td>Grains aplatis ou en flocons d’autres céréales</td><td>pour l’alimentation humaine sans résidus pour l’affouragement</td><td>10.—</td></tr>
 <tr><td colspan="2">1104. 22 20</td><td>Autres grains travaillés d’avoine</td><td>pour l’alimentation humaine sans résidus pour l’affouragement</td><td>10.—</td></tr>
-<tr><td colspan="2">1104. 22 20</td><td>Autres grains travaillés d’avoine</td><td>pour la fabrication de denrées alimentaires avec résidus pour l’affouragement</td><td>13.80</td></tr>
+<tr><td colspan="2">1104. 22 20</td><td>Autres grains travaillés d’avoine</td><td>pour la fabrication de denrées alimentaires avec résidus pour l’affouragement</td><td>14.40</td></tr>
 <tr><td colspan="2">1104. 22 20</td><td>Avoine de mouture, décortiquée, contenant environ 10 % de grains non décortiqués</td><td>pour la fabrication de produits de mouture finis pour l’alimentation humaine</td><td>—.60</td></tr>
 <tr><td colspan="2">1104. 23 90</td><td>Autres grains travaillés de maïs</td><td>pour l’alimentation humaine sans résidus pour l’affouragement</td><td>10.—</td></tr>
 <tr><td colspan="2">1104. 23 90</td><td>Gruaux de maïs, c.-à-d. grains de maïs grossièrement cassés (concassés) dégermés et mondés</td><td>pour la fabrication de corn flakes</td><td>—.20</td></tr>
@@ -503,7 +503,7 @@ Annexe 1[^t-1]
 <tr><td colspan="2">1104. 29 18</td><td>Autres grains travaillés de froment (blé), de seigle, de méteil ou de triticale, mondés ou perlés</td><td>pour usages techniques</td><td>40.—</td></tr>
 <tr><td colspan="2">1104. 29 22</td><td>Autres grains travaillés de millet</td><td>pour la fabrication de denrées alimentaires avec résidus pour l’affouragement</td><td>0.00</td></tr>
 <tr><td colspan="2">1104. 29 22</td><td>Autres grains travaillés de millet</td><td>pour l’alimentation humaine sans résidus pour l’affouragement</td><td>10.—</td></tr>
-<tr><td colspan="2">1104. 29 32</td><td>Autres grains travaillés d’orge</td><td>pour la fabrication de denrées alimentaires avec résidus pour l’affouragement</td><td>9.60</td></tr>
+<tr><td colspan="2">1104. 29 32</td><td>Autres grains travaillés d’orge</td><td>pour la fabrication de denrées alimentaires avec résidus pour l’affouragement</td><td>10.20</td></tr>
 <tr><td colspan="2">1104. 29 32</td><td>Autres grains travaillés d’orge</td><td>pour l’alimentation humaine sans résidus pour l’affouragement</td><td>10.—</td></tr>
 <tr><td colspan="2">1104. 29 99</td><td>Autres grains travaillés d’autres céréales</td><td>pour l’alimentation humaine sans résidus pour l’affouragement</td><td>10.—</td></tr>
 <tr><td colspan="2">1104. 30 89</td><td>Germes de froment (blé)</td><td>pour dégraissage partiel pour l’alimentation humaine</td><td>28.80</td></tr>
