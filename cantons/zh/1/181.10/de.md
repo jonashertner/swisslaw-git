@@ -3,11 +3,10 @@ canton: ZH
 number: "181.10"
 title: Kirchenordnung der Evangelisch-reformierten Landeskirche des Kantons Zürich
 language: de
-version: "2024-01-01"
-nachtrag: "123"
-valid_until: 2026-06-01
+version: "2026-06-01"
+nachtrag: "133"
 adopted: 2009-03-17
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-181_10-2009_03_17-2010_01_01-123.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-181_10-2009_03_17-2010_01_01-133.html"
 text: pdf
 ---
 
@@ -59,7 +58,7 @@ Zürich besteht aufgrund des Wortes Gottes, das im Evangelium von Jesus Christus
 
 **1**
 
-- 1\. 1. 24 - 123
+- 1\. 7. 26 - 133
 
 #### Art. 3
 
@@ -185,7 +184,7 @@ geliums in Wort und Tat als Auftrag im weltweiten Bezug.
 
 **3**
 
-- 1\. 1. 24 - 123
+- 1\. 7. 26 - 133
 
 [^13-1]: Fassung gemäss B vom 12. Juli 2022 (OS 78, 57; ABl 2022-07-15). In Kraft seit 1. März 2023.
 
@@ -318,7 +317,7 @@ Arbeitsgruppen sowie Pfarrerinnen, Pfarrer, Angestellte und Freiwillige sind üb
 
 **5**
 
-- 1\. 1. 24 - 123
+- 1\. 7. 26 - 133
 
 <sup>3</sup> Der Kirchenrat ist in allen Fällen für die Entbindung vom Amtsgeheimnis zuständig.
 
@@ -413,7 +412,7 @@ Der Kirchenrat fördert Bestrebungen zur Gewinnung von Mitgliedern der Landeskir
 
 **7**
 
-- 1\. 1. 24 - 123
+- 1\. 7. 26 - 133
 
 [^28-1]: Eingefügt durch B vom 15. Mai 2018 (OS 73, 530; ABl 2018-06-01). In Kraft seit 1. Januar 2019.
 
@@ -533,7 +532,7 @@ oder eines Pfarrers. Ausnahmen bedürfen der Zustimmung der Kirchenpflege und de
 
 **9**
 
-- 1\. 1. 24 - 123
+- 1\. 7. 26 - 133
 
 #### Art. 37
 
@@ -665,7 +664,7 @@ Jesus Christus mit seiner Gemeinde geschlossen hat. Es ist Bekenntnis des Glaube
 
 **11**
 
-- 1\. 1. 24 - 123
+- 1\. 7. 26 - 133
 
 #### Art. 50
 
@@ -773,7 +772,7 @@ eine Pfarrerin oder einen Pfarrer der Landeskirche trauen zu lassen.
 
 **13**
 
-- 1\. 1. 24 - 123
+- 1\. 7. 26 - 133
 
 [^58-1]: Fassung gemäss B vom 12. Juli 2022 (OS 78, 57; ABl 2022-07-15). In Kraft seit 1. März 2023.
 
@@ -883,7 +882,7 @@ deln dazu bei, persönlicher und sozialer Not vorzubeugen, diese zu lindern oder
 
 **15**
 
-- 1\. 1. 24 - 123 Art. 67[^66-1] <sup>1</sup> Die Kirchgemeinden verantworten das diakonische Handeln am Ort und in übergemeindlicher Zusammenarbeit. Sie richten sich dabei nach den örtlichen und regionalen Erfordernissen sowie nach den Beschlüssen der Kirchensynode. Der Kirchenrat unterstützt die Kirchgemeinden im Wahrnehmen ihrer diakonischen Aufgaben.
+- 1\. 7. 26 - 133 Art. 67[^66-1] <sup>1</sup> Die Kirchgemeinden verantworten das diakonische Handeln am Ort und in übergemeindlicher Zusammenarbeit. Sie richten sich dabei nach den örtlichen und regionalen Erfordernissen sowie nach den Beschlüssen der Kirchensynode. Der Kirchenrat unterstützt die Kirchgemeinden im Wahrnehmen ihrer diakonischen Aufgaben.
 
 **Orte**
 
@@ -979,7 +978,7 @@ menarbeit zwischen Kirche und Schule.
 
 **17**
 
-- 1\. 1. 24 - 123
+- 1\. 7. 26 - 133
 
 - c. Kirchliche Religionspädagogik
 
@@ -1099,7 +1098,7 @@ tung der Zürcher Bibel und von Publikationen insbesondere aus den Bereichen The
 
 **19**
 
-- 1\. 1. 24 - 123
+- 1\. 7. 26 - 133
 
 <sup>2</sup> Sie beteiligt sich zu diesem Zweck am Theologischen Verlag Zürich TVZ.
 
@@ -1215,7 +1214,7 @@ Kirchgemeinden und Landeskirche fördern im Rahmen ihres Auftrages kulturelle Vo
 
 **21**
 
-- 1\. 1. 24 - 123
+- 1\. 7. 26 - 133
 
 <sup>3</sup> Der Kirchenrat regelt die Führung der Archive und kirchlichen Register in einer Verordnung.
 
@@ -1335,7 +1334,7 @@ lichkeiten für die Angestellten der Kirchgemeinden und der Landeskirche.
 
 **23**
 
-- 1\. 1. 24 - 123
+- 1\. 7. 26 - 133
 
 <sup>3</sup> Die Landeskirche trägt anerkannte Ausbildungsgänge für kirchliche Berufe mit.
 
@@ -1446,7 +1445,7 @@ Aufgaben und Pflichten:
 
 **25**
 
-- 1\. 1. 24 - 123
+- 1\. 7. 26 - 133
 
 - c. Seelsorge,
 
@@ -1530,7 +1529,7 @@ Art. 120[^119-1] <sup>1</sup> Jede Kirchgemeinde teilt die ihr gemäss Art. 117 
 
 **27**
 
-- 1\. 1. 24 - 123
+- 1\. 7. 26 - 133
 
 <sup>2</sup> Die Kirchgemeinden berücksichtigen bei der Aufteilung gemäss Abs. 1 insbesondere:
 
@@ -1626,7 +1625,7 @@ Art. 128[^124-3] Die Wahlfähigkeit für das Pfarramt besitzt, wer a. gemäss de
 
 **29**
 
-- 1\. 1. 24 - 123
+- 1\. 7. 26 - 133
 
 - b. vom Kirchenrat nach bestandenem Kolloquium und der Erfüllung der weiteren vom Kirchenrat bestimmten Voraussetzungen unbeschränkt für alle landeskirchlichen oder beschränkt für besonders umschriebene Pfarrämter oder Aufgaben gemäss Art. 113 Abs. 1 als wahlfähig bezeichnet worden ist.
 
@@ -1726,7 +1725,7 @@ Sekretariatsangestellte übernehmen administrative Aufgaben in der Kirchgemeinde
 
 **31**
 
-- 1\. 1. 24 - 123
+- 1\. 7. 26 - 133
 
 #### Art. 139
 
@@ -1832,7 +1831,7 @@ Pflichten im Rahmen ihrer Zuständigkeit und der gesetzlichen Bestimmungen aus. 
 
 **33**
 
-- 1\. 1. 24 - 123
+- 1\. 7. 26 - 133
 
 #### Art. 148
 
@@ -1958,7 +1957,7 @@ Art. 153[^152-1] <sup>1</sup> Die Kirchgemeinden regeln ihre Organisation und di
 
 **35**
 
-- 1\. 1. 24 - 123
+- 1\. 7. 26 - 133
 
 <sup>2</sup> Erlass und Änderungen der Kirchgemeindeordnung werden von den Stimmberechtigten an der Urne beschlossen, sofern nicht a. die Kirchgemeindeordnung die Abstimmung in der Kirchgemeindeversammlung vorsieht,
 
@@ -2072,7 +2071,7 @@ Anliegen zu freien Versammlungen einladen.
 
 **37**
 
-- 1\. 1. 24 - 123
+- 1\. 7. 26 - 133
 
 [^158-1]: Eingefügt durch B vom 15. Mai 2018 (OS 73, 530; ABl 2018-06-01). In Kraft seit 1. Januar 2019.
 
@@ -2213,7 +2212,7 @@ Art. 160[^159-1] <sup>1</sup> Die Stimmberechtigten der Kirchgemeinde wählen di
 
 **39**
 
-- 1\. 1. 24 - 123
+- 1\. 7. 26 - 133
 
 <sup>5</sup> Die Wahl der Kirchenpflege richtet sich a. bei der Wahl an der Urne nach den Bestimmungen des Gesetzes über die politischen Rechte[^159-2] über Mehrheitswahlen an der Urne,
 
@@ -2310,7 +2309,7 @@ sammlung oder dem Kirchgemeindeparlament und der weiteren Öffentlichkeit jährl
 
 **41**
 
-- 1\. 1. 24 - 123
+- 1\. 7. 26 - 133
 
 <sup>2</sup> Sie stellt dem Kirchenrat alle Unterlagen und Angaben zur Verfügung, die dieser für die Planung und Erfüllung der Aufgaben der Landeskirche sowie für die Berichterstattung gemäss Kirchengesetz[^165-2] benötigt. Sie gibt dem Kirchenrat namentlich Rechenschaft über die Verwendung der finanziellen Mittel der Kirchgemeinde.
 
@@ -2404,7 +2403,7 @@ Art. 172[^hGhF1681Pfarrwahl-1] <sup>1</sup> Pfarrerinnen, Pfarrer und Angestellt
 
 **43**
 
-- 1\. 1. 24 - 123
+- 1\. 7. 26 - 133
 
 <sup>4</sup> Im Weiteren kommen dem Gemeindekonvent folgende Aufgaben zu:
 
@@ -2515,7 +2514,7 @@ Art. 178[^177a-1] <sup>1</sup> Kirchgemeinschaften besitzen als Körperschaften 
 
 **45**
 
-- 1\. 1. 24 - 123
+- 1\. 7. 26 - 133
 
 [^177a-1]: Fassung gemäss B vom 12. Juli 2022 (OS 78, 57; ABl 2022-07-15). In Kraft seit 1. März 2023.
 [^177a-2]: Eingefügt durch B vom 12. Juli 2022 (OS 78, 57; ABl 2022-07-15). In Kraft seit 1. März 2023.
@@ -2644,7 +2643,7 @@ kirchliche Leben im Bezirk.
 
 **47**
 
-- 1\. 1. 24 - 123
+- 1\. 7. 26 - 133
 
 <sup>3</sup> Die Mitgliedschaft in der Bezirkskirchenpflege ist innerhalb des Bezirkes unvereinbar mit[^182-1] a. der Mitgliedschaft in Behörden und Organen einer Kirchgemeinde sowie in Kommissionen gemäss Art. 170 und 171 Abs. 1,
 
@@ -2685,11 +2684,14 @@ zirkskirchenpflege gelten die Bestimmungen des Gemeindegesetzes[^185-1] über di
 
 <sup>2</sup> Die Bezirkskirchenpflege ist beim Entscheid über ein Rechtsmittel an keine Weisungen gebunden, ausgenommen bei der Rückweisung durch eine übergeordnete Instanz.
 
-<sup>3</sup> Der Kirchenrat regelt die Aufsichts- und Visitationstätigkeit sowie die fachliche und administrative Unterstützung der Bezirkskirchenpflegen in einer Verordnung.
+<sup>3</sup> Die Bezirkskirchenpflegen verfügen für die Bearbeitung von Rekursen, Beschwerden und Rechtsfragen über eine fachliche Unterstützung, die von den Gesamtkirchlichen Diensten unabhängig ist.[^185-2]
 
-<sup>4</sup> Die Landeskirche trägt den Aufwand der Bezirkskirchenpflegen.
+<sup>4</sup> Der Kirchenrat regelt die Aufsichts- und Visitationstätigkeit sowie die fachliche und administrative Unterstützung der Bezirkskirchenpflegen in einer Verordnung.
+
+<sup>5</sup> Die Landeskirche trägt den Aufwand der Bezirkskirchenpflegen.
 
 [^185-1]: LS 131.1.
+[^185-2]: Eingefügt durch B vom 25. März 2025 (OS 81, 128; ABl 2025-03-28). In Kraft seit 1. Juni 2026. 1. 7. 26 - 133 71
 
 #### Art. 186
 
@@ -2731,13 +2733,11 @@ glieder des Ministeriums mit Wohnsitz im Bezirk.
 
 <sup>2</sup> Mitglieder des Ministeriums mit Wohnsitz im Bezirk, die im Dienst der Landeskirche oder einer mit dieser verbundenen Institution stehen und ihren Tätigkeitsschwerpunkt ausserhalb des Bezirkes haben, nehmen dort Einsitz in das Pfarrkapitel. Über Ausnahmen entscheidet der Kirchenrat.
 
-**Konstituierung**
-
-Art. 188[^187-1] <sup>1</sup> Das Pfarrkapitel konstituiert sich auf Einladung der Dekanin oder des Dekans binnen dreier Monate seit Beginn der Amtsdauer der Pfarrerinnen und Pfarrer.
-
 **49**
 
-- 1\. 1. 24 - 123
+- 1\. 7. 26 - 133 Art. 188[^187-1] <sup>1</sup> Das Pfarrkapitel konstituiert sich auf Einladung der Dekanin oder des Dekans binnen dreier Monate seit Beginn der Amtsdauer der Pfarrerinnen und Pfarrer.
+
+**Konstituierung**
 
 <sup>2</sup> Es wählt aus seiner Mitte im geheimen Verfahren gemäss Art. 157 b Abs. 2 den Vorstand, mindestens bestehend aus der Dekanin oder dem Dekan und zwei weiteren Mitgliedern.
 
@@ -2833,11 +2833,11 @@ Art. 195[^194-3] <sup>1</sup> Das Diakonatskapitel konstituiert sich auf Einladu
 
 <sup>2</sup> Es wählt aus seiner Mitte im geheimen Verfahren gemäss Art. 157 b Abs. 2 den Vorstand, mindestens bestehend aus der Präsidentin oder dem Präsidenten und zwei weiteren Mitgliedern.
 
-<sup>3</sup> Nehmen zwei Personen die Aufgaben der Präsidentin oder des Präsidenten gemeinsam wahr, bestimmt der Vorstand die geschäftsführende Präsidentin oder den geschäftsführenden Präsidenten und die Zuständigkeiten.
-
 **51**
 
-- 1\. 1. 24 - 123
+- 1\. 7. 26 - 133
+
+<sup>3</sup> Nehmen zwei Personen die Aufgaben der Präsidentin oder des Präsidenten gemeinsam wahr, bestimmt der Vorstand die geschäftsführende Präsidentin oder den geschäftsführenden Präsidenten und die Zuständigkeiten.
 
 <sup>4</sup> Die Mitglieder des Vorstandes müssen im Diakonatskapitel stimmberechtigt sein.
 
@@ -2937,7 +2937,7 @@ Organe der Landeskirche sind die Gesamtheit der Stimmberechtigten, die Kirchensy
 
 **53**
 
-- 1\. 1. 24 - 123
+- 1\. 7. 26 - 133
 
 ### A. Gesamtheit der Stimmberechtigten
 
@@ -3056,7 +3056,7 @@ Art. 210[^209-2] <sup>1</sup> Die Wahl der Kirchensynode erfolgt im Verfahren de
 
 **55**
 
-- 1\. 1. 24 - 123
+- 1\. 7. 26 - 133
 
 <sup>2</sup> Die Kirchgemeinschaften wählen ihre Vertretung in der Kirchgemeindeversammlung.
 
@@ -3160,7 +3160,7 @@ a.[^216-1] auf Amtsdauer 1. die Kirchenratspräsidentin oder den Kirchenratsprä
 
 **57**
 
-- 1\. 1. 24 - 123
+- 1\. 7. 26 - 133
 
 [^216-1]: Fassung gemäss B vom 12. Juli 2022 (OS 78, 57; ABl 2022-07-15). In Kraft seit 1. März 2023.
 
@@ -3248,7 +3248,7 @@ deskirche, sofern nicht eine andere Behörde oder ein anderes Organ zuständig i
 
 **59**
 
-- 1\. 1. 24 - 123
+- 1\. 7. 26 - 133
 
 - o. Stellungnahme zu Fragen theologischer und kirchlicher sowie ethischer und gesellschaftlicher Natur durch öffentliche Erklärungen,
 
@@ -3343,7 +3343,7 @@ einleiten, wenn in seinem Zuständigkeitsbereich a. erhebliche Mängel vorliegen
 
 **61**
 
-- 1\. 1. 24 - 123
+- 1\. 7. 26 - 133
 
 #### Art. 224
 
@@ -3454,7 +3454,7 @@ Art. 232[^231-1] Die Landeskirche trägt die Kosten für das Tätigwerden der ka
 
 **63**
 
-- 1\. 1. 24 - 123
+- 1\. 7. 26 - 133
 
 [^231-1]: Fassung gemäss B vom 12. Juli 2022 (OS 78, 57; ABl 2022-07-15). In Kraft seit 1. März 2023.
 
@@ -3593,7 +3593,7 @@ Art. 243[^h3AbschnittLiegen-1] <sup>1</sup> Die Kirchgemeinden sind zuständig f
 
 **65**
 
-- 1\. 1. 24 - 123
+- 1\. 7. 26 - 133
 
 <sup>2</sup> Der Kirchenrat führt zuhanden der Finanzplanung der Landeskirche ein Verzeichnis der kirchlichen Liegenschaften der Kirchgemeinden. Er erhebt den Raum- und Unterhaltsbedarf.
 
@@ -3701,7 +3701,7 @@ treten des Kirchengesetzes[^253-1] geendet hat, treten in den Stand der Stellver
 
 **67**
 
-- 1\. 1. 24 - 123
+- 1\. 7. 26 - 133
 
 <sup>3</sup> Der Kirchenrat legt den Beginn der neuen Amtsdauer fest. Sie endet am 30. Juni 2016.
 
@@ -3770,7 +3770,7 @@ XIV. Auf im Zeitpunkt des Inkrafttretens dieser Änderung der Kirchenordnung hä
 
 **69**
 
-- 1\. 1. 24 - 123
+- 1\. 7. 26 - 133
 
 ### Übergangsbestimmungen zur Änderung vom 12. Juli 2022
 
@@ -3817,7 +3817,7 @@ Kappel a. A.
 
 **Gossau Seegräben Grüningen Wald Hinwil Wetzikon Rüti**
 
-[^hBezirkHinwilBärets-1]: Fassung gemäss B vom 27. Juni 2023 (OS 78, 417; ABl 2023-06-30). In Kraft seit 1. Januar 2024. 1. 1. 24 - 123 71
+[^hBezirkHinwilBärets-1]: Fassung gemäss B vom 27. Juni 2023 (OS 78, 417; ABl 2023-06-30). In Kraft seit 1. Januar 2024.
 [^hBezirkHinwilBärets-2]: Eingefügt durch B vom 27. Juni 2023 (OS 78, 417; ABl 2023-06-30). In Kraft seit 1. Januar 2024.
 [^hBezirkHinwilBärets-3]: Fassung gemäss B vom 13. Juni 2017 (OS 72, 576; ABl 2017-06-16). In Kraft seit 1. Juli 2018.
 
@@ -3851,7 +3851,7 @@ Kappel a. A.
 **Flaachtal15 Stammheim Henggart Weinland Mitte29 Laufen**
 
 [^hBezirkAndelfingen-1]: Fassung gemäss B vom 26. März 2019 (OS 74, 482; ABl 2019-03-29). In Kraft seit 1. Januar 2020.
-[^hBezirkAndelfingen-2]: Fassung gemäss B vom 27. Juni 2023 (OS 78, 417; ABl 2023-06-30). In Kraft seit 1. Januar 2024. 1. 1. 24 - 123 71
+[^hBezirkAndelfingen-2]: Fassung gemäss B vom 27. Juni 2023 (OS 78, 417; ABl 2023-06-30). In Kraft seit 1. Januar 2024.
 [^hBezirkAndelfingen-3]: Fassung gemäss B vom 29. Juni 2021 (OS 76, 464; ABl 2021-07-02). In Kraft seit 1. Januar 2022.
 
 ### Bezirk Bülach, Breite Bülach Eglisau Embrach-Oberembrach- Rorbas-Freienstein-Lufingen Glattfelden
@@ -3874,7 +3874,7 @@ Kappel a. A.
 
 **73**
 
-- 1\. 1. 24 - 123
+- 1\. 7. 26 - 133
 
 [^hBezirkDielsdorfDie-1]: Fassung gemäss B vom 16. Januar 2018 (OS 73, 447; ABl 2018-01-26). In Kraft seit 1. Januar 2019.
 
