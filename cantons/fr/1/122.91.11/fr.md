@@ -4,13 +4,12 @@ number: "122.91.11"
 title: Règlement sur les marchés publics
 short: RCMP
 language: fr
-version: 2023-01-01
-valid_until: 2026-05-31
-version_adopted: 2022-12-12
+version: 2026-06-01
+version_adopted: 2026-05-26
 adopted: 2022-12-12
 in_force: 2023-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/122.91.11"
-pdf: "https://bdlf.fr.ch/api/fr/versions/7757/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/8610/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +20,7 @@ Marchés publics – R
 
 (RCMP)
 
-du 12.12.2022 (version entrée en vigueur le 01.01.2023)
+du 12.12.2022 (version entrée en vigueur le 01.06.2026)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -62,7 +61,8 @@ Arrête:
 - c) du Conseiller ou de la Conseillère juridique en charge des questions juridiques pour les marchés publics auprès de la DIME;
 - d) de l'Ingénieur-e cantonal-e;
 - e) de l'Architecte cantonal-e;
-- f) du ou de la Chef-fe du Service du matériel et des imprimés (SAMI);
+- f) du ou de la responsable des imprimés au sein du Bureau de l'information (BdI);
+- f1) du Directeur ou de la Directrice de l'Office cantonal du matériel scolaire (OCMS);
 - g) d'un représentant ou d'une représentante du Service de l'informatique et des télécommunications (SITel);
 - h) d'un représentant ou d'une représentante de la Police cantonale;
 - i) d'une ou plusieurs personnes représentant le comité de l'Association des communes fribourgeoises (ACF).

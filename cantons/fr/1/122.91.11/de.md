@@ -4,13 +4,12 @@ number: "122.91.11"
 title: Reglement über das öffentliche Beschaffungswesen
 short: ÖBR
 language: de
-version: 2023-01-01
-valid_until: 2026-05-31
-version_adopted: 2022-12-12
+version: 2026-06-01
+version_adopted: 2026-05-26
 adopted: 2022-12-12
 in_force: 2023-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/122.91.11"
-pdf: "https://bdlf.fr.ch/api/de/versions/7757/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/8610/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ pdf: "https://bdlf.fr.ch/api/de/versions/7757/pdf_file"
 
 (ÖBR)
 
-vom 12.12.2022 (Fassung in Kraft getreten am 01.01.2023)
+vom 12.12.2022 (Fassung in Kraft getreten am 01.06.2026)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -62,7 +61,8 @@ beschliesst:
 - c) der juristischen Beraterin oder dem juristischen Berater, die oder der bei der RIMU für Rechtsfragen des öffentlichen Beschaffungsrechts zuständig ist;
 - d) der Kantonsingenieurin oder dem Kantonsingenieur;
 - e) der Kantonsarchitektin oder dem Kantonsarchitekten;
-- f) der Vorsteherin oder dem Vorsteher des Amts für Drucksachen und Material (DMA);
+- f) der oder des Verantwortlichen für Drucksachen im Büro für Information;
+- f1) der Direktorin oder dem Direktor der Kantonalen Lehrmittelverwaltung (KLV);
 - g) einer Vertreterin oder einem Vertreter des Amts für Informatik und Telekommunikation (ITA);
 - h) einer Vertreterin oder einem Vertreter der Kantonspolizei;
 - i) einer oder mehreren Personen, die den Vorstand des Freiburger Gemeindeverbands (FGV) vertreten.
