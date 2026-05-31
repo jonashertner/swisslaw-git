@@ -4,13 +4,12 @@ number: "614.72"
 title: Verordnung zum Gesetz über das Halten von Hunden
 short: Hundeverordnung
 language: de
-version: 2018-01-01
-valid_until: 2026-05-31
-version_adopted: 2017-09-26
+version: 2026-06-01
+version_adopted: 2026-03-03
 adopted: 2007-03-06
 in_force: 2007-08-01
 url: "https://bgs.so.ch/app/de/texts_of_law/614.72"
-pdf: "https://bgs.so.ch/api/de/versions/4691/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5647/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,46 +18,48 @@ pdf: "https://bgs.so.ch/api/de/versions/4691/pdf_file"
 
 (Hundeverordnung)
 
-Vom 06.03.2007 (Stand 01.01.2018)
+Vom 06.03.2007 (Stand 01.06.2026)
 
 Der Regierungsrat des Kantons Solothurn
 
-gestützt auf das Gesetz über das Halten von Hunden vom 7. November 2006[^ingress-1], Artikel 30a-34d der eidgenössischen Tierschutzverordnung vom 27. Mai 1981[^ingress-2] und Artikel 16-18 der eidgenössischen Tierseuchenverordnung vom 27. Juni 1995[^ingress-3]
+gestützt auf Artikel 69-79 der Tierschutzverordnung (TSchV) vom 23. April 2008[^ingress-1], Artikel 16-18 der Tierseuchenverordnung (TSV) vom 27. Juni 1995[^ingress-2] und auf das Gesetz über das Halten von Hunden (Hundegesetz) vom 7. November 2006[^ingress-3],
 
 beschliesst:
 
-[^ingress-1]: BGS [614.71](https://bgs.so.ch/data/614.71/de).
-[^ingress-2]: SR [455.1](https://db.clex.ch/link/Bund/455.1/de).
-[^ingress-3]: SR [916.401](https://db.clex.ch/link/Bund/916.401/de).
+[^ingress-1]: SR [455.1](https://db.clex.ch/link/Bund/455.1/de).
+[^ingress-2]: SR [916.401](https://db.clex.ch/link/Bund/916.401/de).
+[^ingress-3]: BGS [614.71](https://bgs.so.ch/data/614.71/de).
 
 #### § 1
 
 **Vollzug, Aufsicht**
 
-<sup>1</sup> Der Veterinärdienst vollzieht diese Verordnung, soweit nicht eine andere Stelle bestimmt ist. Er stellt insbesondere die erforderlichen Haltebewilligungen für Hunde aus und kann allgemeinverbindliche Weisungen erlassen. Er übermittelt den Oberämtern die für den Vollzug gemäss Absatz 2 notwendigen Daten und Unterlagen.
+<sup>1</sup> Der Veterinärdienst vollzieht diese Verordnung, soweit nicht eine andere Stelle bestimmt ist. Er stellt insbesondere die erforderlichen Bewilligungen für Hunde gemäss § 3 Absatz 1 aus und kann allgemeinverbindliche Weisungen erlassen. Er übermittelt den Oberämtern die für den Vollzug gemäss Absatz 2 notwendigen Daten und Unterlagen.
 
-<sup>2</sup> Die Oberämter verordnen im Einzelfall die Massnahmen, die nötig sind, um Mensch und Tier vor Gefährdung und Belästigung durch Hunde zu schützen. Sie übermitteln dem Veterinärdienst die Daten und Unterlagen jener Halter oder Halterinnen und deren Hunde, gegen die sie gestützt auf das Hundegesetz Massnahmen angeordnet haben.
+<sup>2</sup> Die Oberämter treffen Massnahmen, die nötig sind, um Mensch und Tier vor Gefährdung und Belästigung durch Hunde zu schützen, sofern es sich nicht um einen Hund gemäss § 3 Absatz 1 handelt. Sie übermitteln dem Veterinärdienst die Daten und Unterlagen jener Halter oder Halterinnen und deren Hunde, gegen die sie gestützt auf das Hundegesetz[^1-1] Massnahmen angeordnet haben.
 
 <sup>3</sup> Beide Stellen können die Polizeiorgane zur Hilfeleistung beiziehen.
 
-<sup>4</sup> Die Einwohnergemeinden ziehen die Abgaben ein und führen die Bezugslisten.
+<sup>4</sup> Die Einwohnergemeinden ziehen die Abgaben ein.
 
 <sup>5</sup> Die Aufsicht obliegt dem Departement.
+
+[^1-1]: BGS [614.71](https://bgs.so.ch/data/614.71/de).
 
 #### § 2
 
 **Verwaltungsverfahren und Rechtsschutz**
 
-<sup>1</sup> Verwaltungsverfahren und Rechtsschutz richten sich nach dem Gesetz über die Gerichtsorganisation vom 13. März 1977[^2-1] und dem Gesetz über den Rechtsschutz in Verwaltungssachen (Verwaltungsrechtspflegegesetz) vom 15. November 1970[^2-2], soweit diese Verordnung nicht etwas anderes bestimmt. Gegen Verfügungen und Entscheide des Veterinärdienstes kann beim Departement und gegen dessen Entscheide beim Verwaltungsgericht Beschwerde geführt werden.
+<sup>1</sup> Verwaltungsverfahren und Rechtsschutz richten sich nach dem Gesetz über die Gerichtsorganisation (GO) vom 13. März 1977[^2-1] und dem Gesetz über den Rechtsschutz in Verwaltungssachen (Verwaltungsrechtspflegegesetz) vom 15. November 1970[^2-2]. Gegen Verfügungen und Entscheide des Veterinärdienstes kann beim Departement und gegen dessen Entscheide beim Verwaltungsgericht Beschwerde geführt werden.
 
 [^2-1]: BGS [125.12](https://bgs.so.ch/data/125.12/de).
 [^2-2]: BGS [124.11](https://bgs.so.ch/data/124.11/de).
 
 #### § 3
 
-**Haltebewilligung**
+**Bewilligungen**
 
-<sup>1</sup> Hunde der folgenden Rassen und ihre Kreuzungen dürfen nur mit Bewilligung erworben, gehalten, gezüchtet und/oder gehandelt werden:
+<sup>1</sup> Hunde der folgenden Rassen und ihre Kreuzungen dürfen nur mit Bewilligung gehalten, gezüchtet und/oder gehandelt beziehungsweise an mehr als 90 Tagen pro Jahr regelmässig betreut werden:
 
 - a) Bullterrier;
 - b) Staffordshire Bull Terrier;
@@ -67,18 +68,53 @@ beschliesst:
 - e) Rottweiler;
 - f) Dobermann;
 - g) Dogo Argentino;
-- h) Fila Brasileiro.
+- h) Fila Brasileiro;
+- i) American Bully.
 
-<sup>2</sup> Hunde gemäss Absatz 1, die ohne Bewilligung gehalten werden, werden durch den Veterinärdienst bis zum Vorliegen eines Entscheides auf Kosten des Halters oder der Halterin vorsorglich entzogen.
+<sup>2</sup> Hunde gemäss Absatz 1, die ohne Bewilligung gehalten werden, können durch den Veterinärdienst auf Kosten der Halterin oder des Halters unter Entzug des Eigentums entzogen werden.
 
-<sup>3</sup> Erfüllt der Halter oder die Halterin die Voraussetzungen gemäss § 4 Absatz 3 des Gesetzes über das Halten von Hunden vom 7. November 2006[^3-1] nicht, wird durch den Veterinärdienst
+<sup>3</sup> Sind die Voraussetzungen gemäss § 4 Absatz 3 des Hundegesetzes[^3-1] nicht oder nicht mehr erfüllt, wird durch den Veterinärdienst die Bewilligung verweigert oder entzogen.
 
-- a) die Bewilligung verweigert oder entzogen und
-- b) der Hund entzogen, bis der Halter oder die Halterin die Voraussetzungen erfüllt. Kann er sie nicht erfüllen, wird der Hund weiterplatziert oder, wenn angebracht, euthanasiert.
+- a) …
+- b) …
 
-<sup>4</sup> Bei Halterwechsel ist die Bewilligung neu einzuholen.
+<sup>4</sup> Bei Halterwechsel ist die Haltebewilligung neu einzuholen.
 
 [^3-1]: BGS [614.71](https://bgs.so.ch/data/614.71/de).
+
+#### § 3bis
+
+**Abstammungsausweis**
+
+<sup>1</sup> Die Abstammungsausweise der folgenden internationalen Dachverbände werden im Sinne von § 4 Absatz 3 Buchstabe b Ziffer 1 des Hundegesetzes[^3bis-1] anerkannt:
+
+- a) American Kennel Club (AKC);
+- b) Fédération Cynologique Internationale (FCI);
+- c) The Kennel Club (KC);
+- d) United Kennel Club (UKC).
+
+[^3bis-1]: BGS [614.71](https://bgs.so.ch/data/614.71/de).
+
+#### § 3ter
+
+**Wesensprüfung**
+
+<sup>1</sup> Eine Wesensprüfung im Sinne von § 4 Absatz 3 Buchstabe b Ziffer 2 des Hundegesetzes[^3ter-1] ist durchzuführen von
+
+- a) einer Fachperson, die von der Schweizerischen Kynologischen Gesellschaft SKG anerkannt ist; oder
+- b) einem Tierarzt oder einer Tierärztin mit in der Schweiz anerkanntem Fähigkeitsausweis in Verhaltensmedizin.
+
+<sup>2</sup> Die Kosten der Wesensprüfung trägt der Halter oder die Halterin.
+
+[^3ter-1]: BGS [614.71](https://bgs.so.ch/data/614.71/de).
+
+#### § 3quater
+
+**Ausbildung**
+
+<sup>1</sup> Eine Ausbildung gemäss § 4 Absatz 4 des Hundegesetzes[^3quater-1] gilt erst dann als absolviert, wenn der Halter oder die Halterin einen von der Schweizerischen Kynologischen Gesellschaft SKG anerkannten Abschluss vorweisen kann, der die Alltagstauglichkeit der Halterin oder des Halters mit ihrem oder seinem Hund bestätigt.
+
+[^3quater-1]: BGS [614.71](https://bgs.so.ch/data/614.71/de).
 
 #### § 4
 
@@ -93,22 +129,11 @@ beschliesst:
   - 1\. wenn sie nicht unter ständiger Kontrolle gehalten werden können, insbesondere wenn nicht ausgeschlossen werden kann, dass sie unberechtigterweise jagen oder wildern;
   - 2\. wenn vom zuständigen Oberamt oder Veterinärdienst verordnet.
 
+<sup>2</sup> Der Veterinärdienst kann auf Gesuch hin für Hunde zur Tierseuchenbekämpfung und für anerkannte Herdenschutzhunde eine Bewilligung zur Ausnahme von der generellen Leinenpflicht im Wald erteilen.
+
 #### § 5
 
-**Bezugsliste**
-
-<sup>1</sup> Die Einwohnergemeinden erfassen in der Bezugsliste
-
-- a) Name, Adresse des Halters oder der Halterin;
-- b) die Rasse oder den Rassetyp des Hundes;
-- c) die Nummer des Kontrollzeichens;
-- d) die Nummer des Mikrochips oder der Tätowierung;
-- e) züchterische Aktivitäten gemäss Angaben des Halters oder der Halterin;
-- f) das Vorliegen der Bewilligung des Veterinärdienstes, wenn der Hund nur mit Bewilligung gehalten werden darf.
-
-<sup>2</sup> Anlässlich des Einzuges der Abgaben überprüfen sie die korrekte Kennzeichnung des Hundes anhand des von der Datenbank ausgestellten Hundeausweises.
-
-<sup>3</sup> Sie haben dem Veterinärdienst eine Kopie der vollständig ausgefüllten Bezugsliste bis zum 30. Juni in elektronischer Form zu übermitteln.
+**…**
 
 #### § 6
 
