@@ -4,7 +4,7 @@ number: "340.95.5"
 title: "RÈGLEMENT du 20.12.2017 concordataire sur l'exécution des peines privatives de liberté sous surveillance électronique (RESE)"
 short: RESE
 language: fr
-version: 2018-01-01
+version: 2026-06-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/340.95.5?id=c881f15a-1441-4e84-b587-5f936a52c275"
 ---
 
@@ -52,9 +52,9 @@ arrête
 
 <sup>2</sup> La détention provisoire ou pour des motifs de sûreté n'est pas prise en compte dans le calcul (principe brut). [Le principe brut signifie que l'examen des conditions temporelles se fonde sur la durée de la peine prononcée, sans imputation de la détention déjà effectuée. Le principe net signifie que l'examen des conditions temporelles se fonde sur la durée de la peine prononcée, avec imputation de la détention déjà effectuée.]
 
-<sup>3</sup> Pour les peines avec sursis partiel, la durée totale de la peine (partie avec sursis et partie ferme) est déterminante.
+<sup>3</sup> Pour les peines avec sursis partiel, la durée de la partie ferme est déterminante.
 
-[^1-1]: Modif. 1 du 22.04.2026: Modification Al. 3; entrée en vigueur au 01.06.2026; Introduction Art. 4, Al. 1, d,l; entrée en vigueur au 01.06.2026; Introduction Art. 5, Al. 1, e; entrée en vigueur au 01.06.2026
+[^1-1]: Modif. 1 du 22.04.2026: Modification Al. 3; entrée en vigueur au 01.06.2026
 
 #### Art. 3
 
@@ -76,17 +76,17 @@ arrête
 - a. une demande de la personne condamnée ;
 - b. pas de crainte qu'elle ne s'enfuie ;
 - c. pas de crainte qu'elle ne commette d'autres infractions ;
-- d. une autorisation de séjour en Suisse et le droit de travailler, de suivre une formation ou d'excercer une activité au sens de la lettre f) 2 ème phrase ci-dessous ;
-- e. pas d'expulsion en vertu des art. 66a et 66a bis CP ;
+- d. être admis à travailler, à suivre une formation ou à exercer une activité au sens de la lettre f) 2ème phrase ci-dessous ;
+- e. ...
 - f. la poursuite de l'activité professionnelle ou d'une formation reconnue avec un taux d'occupation d'au moins 20 heures par semaine. Le travail domestique, le travail éducatif, la participation à un programme d'occupation ou toute autre occupation structurée sont réputés équivalents. La personne condamnée peut aussi se voir assigner un travail de 20 heures par semaine au minium, sans qu'il s'agisse d'un droit ;
 - g. des garanties quant au respect des conditions-cadre de l'exécution ;
 - h. un logement fixe approprié. Il peut s'agir également d'un foyer ou d'une autre forme d'habitation institutionnalisée à long terme, pour autant que ce logement convienne pour la surveillance électronique et que la direction de l'institution y consente. En donnant ce consentement, la direction accorde en même temps à l'autorité d'exécution compétente le droit d'accéder en tout temps au logement, aussi sans annonce préalable, pendant la durée de la surveillance électronique ;
-- i. le logement fixe est équipé d'un réseau de téléphonie fixe ou mobile pour la transmission électronique des données ;
+- i. ...
 - j. le consentement des personnes adultes vivant sous le même toit et leur accord pour que l'autorité d'exécution compétente puisse accéder en tout temps au logement, aussi sans annonce préalable, pendant la durée de l'EM ;
 - k. l'acceptation par la personne condamnée du plan d'exécution et de l'horaire hebdomadaire et son accord pour que l'autorité d'exécution compétente puisse accéder en tout temps au logement, aussi sans annonce préalable, pendant la durée de la surveillance électronique ;
-- l. l'exclusion de motifs professionnels, familiaux ou autres motifs importants qui seraient contraires à cette forme d'exécution, notamment une condamnation pour violence domestique ou pour abus sexuels d'enfants si des enfants vivent sous le même toit. ​
+- l. l'exclusion de motifs professionnels, familiaux ou autres motifs importants qui seraient contraires à cette forme d'exécution.
 
-[^chapterChapitreII-1]: Modif. 1 du 22.04.2026: Introduction Al. 1, d; entrée en vigueur au 01.06.2026; Abrogation Al. 1, e,i; entrée en vigueur au 01.06.2026; Introduction Al. 1, l; entrée en vigueur au 01.06.2026; Introduction Art. 5, Al. 1, e; entrée en vigueur au 01.06.2026
+[^chapterChapitreII-1]: Modif. 1 du 22.04.2026: Introduction Al. 1, d; entrée en vigueur au 01.06.2026; Abrogation Al. 1, e,i; entrée en vigueur au 01.06.2026; Introduction Al. 1, l; entrée en vigueur au 01.06.2026
 
 ### Chapitre III Procédure
 
@@ -99,9 +99,10 @@ arrête
 - a. informe la personne condamnée des modalités de cette forme d'exécution, en particulier des contrôles prévus à l'art. 10 du présent règlement ;
 - b. impartit à la personne condamnée un délai pour le dépôt d'une demande relative à cette forme particulière d'exécution ;
 - c. examine la demande de la personne condamnée et les pièces jointes ;
-- d. statue sur la demande et, en cas d'acceptation, fixe le lieu et le début de l'exécution, ainsi que les conditions auxquelles elle est soumise, et le type de surveillance électronique.
+- d. contacte, si nécessaire, toutes les autorités compétentes, notamment en matière de droit des étrangers, en vue de s'assurer de la compatibilité de cette forme d'exécution avec la situation personnelle de la personne condamnée ;
+- e. statue sur la demande et, en cas d'acceptation, fixe le lieu et le début de l'exécution, ainsi que les conditions auxquelles elle est soumise, et le type de surveillance électronique.
 
-[^chapterChapitreIII-1]: Modif. 1 du 22.04.2026: Introduction Art. 4, Al. 1, d,l; entrée en vigueur au 01.06.2026; Modification Al. 1, d; entrée en vigueur au 01.06.2026; Introduction Al. 1, e; entrée en vigueur au 01.06.2026
+[^chapterChapitreIII-1]: Modif. 1 du 22.04.2026: Modification Al. 1, d; entrée en vigueur au 01.06.2026; Introduction Al. 1, e; entrée en vigueur au 01.06.2026
 
 #### Art. 6
 
@@ -186,13 +187,13 @@ arrête
 
 **Extinction de conditions [^chapterChapitreV-1]**
 
-<sup>1</sup> Si la personne condamnée ne remplit plus les conditions fixées aux art. 2 et 3, il est mis fin à la surveillance électronique.
+<sup>1</sup> Si la personne condamnée ne remplit plus les conditions fixées aux art. 2, 3, et 4 il est mis fin à la surveillance électronique.
 
 <sup>2</sup> Si la personne condamnée perd son travail, sa formation ou son activité, entièrement ou en partie, sans faute de sa part, l'autorité compétente peut ne pas interrompre la surveillance électronique à condition que la personne condamnée trouve une autre activité appropriée dans les 21 jours et que son accompagnement soit garanti pendant la période transitoire.
 
 <sup>3</sup> En cas de révocation de la surveillance électronique, la personne condamnée continue de purger sa peine dans un établissement pénitentiaire ouvert ou fermé ou, s'il en remplit les conditions, en semi-détention.
 
-[^chapterChapitreV-1]: Modif. 1 du 22.04.2026: Introduction Art. 4, Al. 1, d,l; entrée en vigueur au 01.06.2026; Introduction Art. 5, Al. 1, e; entrée en vigueur au 01.06.2026; Modification Al. 1; entrée en vigueur au 01.06.2026
+[^chapterChapitreV-1]: Modif. 1 du 22.04.2026: Modification Al. 1; entrée en vigueur au 01.06.2026
 
 ### Chapitre VI Violation des règles / Non-respect du plan d'exécution
 
