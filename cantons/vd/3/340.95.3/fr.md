@@ -4,7 +4,7 @@ number: "340.95.3"
 title: "RÈGLEMENT du 20.12.2017 concordataire sur l'exécution des peines sous la forme de la semi-détention (RSD)"
 short: RSD
 language: fr
-version: 2018-01-01
+version: 2026-06-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/340.95.3?id=32b844b7-da52-4f04-bda1-778b7f863057"
 ---
 
@@ -85,13 +85,12 @@ arrête
 - a. une demande de la personne condamnée ;
 - b. pas de crainte qu'elle ne s'enfuie ;
 - c. pas de crainte qu'elle ne commette d'autres infractions ;
-- d. une autorisation de séjour en Suisse et le droit de travailler, de suivre une formation ou d'exercer une activité au sens de la lettre f) 2<sup>ème</sup>phrase ci-dessous ;
-- e. pas d'expulsion en vertu des art. 66a et 66a<sup>bis</sup>CP[^5-1] ;
+- d. être admis à travailler, à suivre une formation ou à exercer une activité au sens de la lettre f) 2<sup>ème</sup> phrase ci-dessous ;
+- e. ...
 - f. la poursuite de l'activité professionnelle ou d'une formation reconnue avec un taux d'occupation d'au moins 20 heures par semaine. Le travail domestique, le travail éducatif, la participation à un programme d'occupation ou tout autre occupation structurée sont réputés équivalents ;
 - g. des garanties quant au respect des conditions-cadre de la semi-détention et du règlement de l'établissement d'exécution.
 
-[^4-1]: Modif. 1 du 22.04.2026: Modification Al. 1, d; entrée en vigueur au 01.06.2026; Abrogation Al. 1, e; entrée en vigueur au 01.06.2026; Introduction Art. 6, Al. 1, e; entrée en vigueur au 01.06.2026
-[^5-1]: [Code pénal suisse du 21.12.1937, RS 311.0](https://www.admin.ch/opc/fr/classified-compilation/19370083/index.html)
+[^4-1]: Modif. 1 du 22.04.2026: Modification Al. 1, d; entrée en vigueur au 01.06.2026; Abrogation Al. 1, e; entrée en vigueur au 01.06.2026
 
 ## Chapitre III Procédure
 
@@ -104,7 +103,8 @@ arrête
 - a. informe la personne condamnée des modalités de cette forme d'exécution, en particulier des contrôles prévus à l'art. 11 du présent règlement ;
 - b. impartit à la personne condamnée un délai pour le dépôt d'une demande relative à cette forme particulière d'exécution ;
 - c. examine la demande de la personne condamnée et les pièces jointes ;
-- d. statue sur la demande et, en cas d'acceptation, fixe le lieu et le début de l'exécution, ainsi que les conditions auxquelles elle est soumise.
+- d. contacte, si nécessaire, toutes les autorités compétentes, notamment en matière de droit des étrangers, en vue de s'assurer de la compatibilité de cette forme d'exécution avec la situation personnelle de la personne condamnée ;
+- e. statue sur la demande et, en cas d'acceptation, fixe le lieu et le début de l'exécution, ainsi que les conditions auxquelles elle est soumise.
 
 [^chapterChapitreIII-1]: Modif. 1 du 22.04.2026: Modification Al. 1, d; entrée en vigueur au 01.06.2026; Introduction Al. 1, e; entrée en vigueur au 01.06.2026
 
@@ -170,12 +170,11 @@ arrête
 
 #### Art. 12
 
-**Autorisation de sorties [^11-1]**
+**Sorties [^11-1]**
 
-<sup>1</sup> La personne détenue peut bénéficier des autorisations de sortie conformément au Règlement du 31 octobre 2013 concernant l'octroi d'autorisations de sortie aux personnes condamnées adultes et jeunes adultes[^12-1] applicable par analogie.
+<sup>1</sup> Les sorties sont régies par le Règlement du 27 mars 2025 concernant les sorties.
 
-[^11-1]: Modif. 1 du 22.04.2026: Introduction Art. 6, Al. 1, e; entrée en vigueur au 01.06.2026; Modification tArt; entrée en vigueur au 01.06.2026; Modification Al. 1; entrée en vigueur au 01.06.2026
-[^12-1]: Règlement du 31.10.2013 concernant l'octroi d'autorisations de sortie aux personnes condamnées adultes et jeunes adultes [(BLV 340.93.1)](https://prestations.vd.ch/pub/blv-publication/actes/consolide/340.93.1?id=c9d0a268-1fa3-41e8-b217-ecfa5632747a)
+[^11-1]: Modif. 1 du 22.04.2026: Modification tArt; entrée en vigueur au 01.06.2026; Modification Al. 1; entrée en vigueur au 01.06.2026
 
 ## Chapitre V Changement des conditions d'admission après octroi de l'autorisation ou pendant l'exécution
 
@@ -183,13 +182,13 @@ arrête
 
 **Extinction de conditions [^chapterChapitreV-1]**
 
-<sup>1</sup> Si la personne condamnée ne remplit plus les conditions fixées aux art. 3 et 4, il est mis fin à la semi-détention.
+<sup>1</sup> Si la personne condamnée ne remplit plus les conditions fixées aux art. 3, 4 et 5, il est mis fin à la semi-détention.
 
 <sup>2</sup> La personne condamnée continue de purger sa peine dans un établissement pénitentiaire ouvert ou fermé.
 
 <sup>3</sup> Si la personne condamnée perd son travail, sa formation ou son activité, entièrement ou en partie, sans faute de sa part, l'autorité compétente peut ne pas interrompre la semi-détention à condition que la personne condamnée trouve une autre activité appropriée dans les 21 jours et que son accompagnement et sa surveillance soient garantis pendant la période transitoire.
 
-[^chapterChapitreV-1]: Modif. 1 du 22.04.2026: Introduction Art. 6, Al. 1, e; entrée en vigueur au 01.06.2026; Modification Al. 1; entrée en vigueur au 01.06.2026
+[^chapterChapitreV-1]: Modif. 1 du 22.04.2026: Modification Al. 1; entrée en vigueur au 01.06.2026
 
 ## Chapitre VI Violation des règles / non-respect du plan d'exécution
 
