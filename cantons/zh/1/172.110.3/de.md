@@ -4,11 +4,11 @@ number: "172.110.3"
 title: Organisationsverordnung der Finanzdirektion (OV FD)
 short: OV FD
 language: de
-version: "2026-03-01"
-nachtrag: "131"
-valid_until: 2026-06-01
+version: "2026-06-01"
+nachtrag: "132"
+valid_until: 2026-07-01
 adopted: 2015-12-08
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-172_110_3-2015_12_08-2016_04_01-131.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-172_110_3-2015_12_08-2016_04_01-132.html"
 text: pdf
 ---
 
@@ -239,7 +239,7 @@ Die Verwaltungseinheiten a. erfüllen die Aufgaben, die ihnen durch das übergeo
 
 - c. den Abschluss und die Kündigung von derivativen Instrumenten.
 
-[^12-1]: Eingefügt durch Vfg. vom 27. November 2025 (OS 81, 39; ABl 2025-12-05). In Kraft seit 1. März 2026. 1. 4. 26 - 132 13
+[^12-1]: Eingefügt durch Vfg. vom 27. November 2025 (OS 81, 39; ABl 2025-12-05). In Kraft seit 1. März 2026.
 
 #### § 13
 
@@ -340,6 +340,14 @@ Die Verwaltungseinheiten a. erfüllen die Aufgaben, die ihnen durch das übergeo
 
 <sup>3</sup> Die Regelung wird im Intranet veröffentlicht.
 
+**Handbücher zur Rechnungslegung und Steuerung**
+
+§ 17 a.[^17-1] <sup>1</sup> Die Finanzverwaltung erlässt namens der Direktion die Handbücher zur Rechnungslegung und Steuerung.
+
+<sup>2</sup> Im Streitfall entscheidet sie namens der Direktion über deren Auslegung.
+
+[^17-1]: Eingefügt durch Vfg. vom 3. März 2026 (OS 81, 127; ABl 2026-03-13). In Kraft seit 1. Juni 2026. 1. 4. 26 - 132 13
+
 ### 3. Teil: Zusammenarbeit
 
 ### A. Sitzungen
@@ -400,19 +408,19 @@ Für den persönlichen und vertraulichen Austausch führt die Direktionsvorstehe
 
 <sup>2</sup> Die Stellungnahmen werden dem Antrag beigelegt.
 
+**9**
+
+- 1\. 4. 26 - 132 § 23. Die Verantwortlichen der Verwaltungseinheiten für die Querschnittaufgaben Finanzen und Controlling, Personal, Informatik und Kommunikation sorgen für die erforderliche Koordination unter den Verwaltungseinheiten und für die erforderliche Weiterleitung von Informationen in ihrer jeweiligen Verwaltungseinheit.
+
 [^21-1]: Fassung gemäss Vfg. vom 26. November 2021 (OS 77, 59; ABl 2021-12-03). In Kraft seit 1. März 2022.
 
-#### § 23
+#### § 24
 
 **Koordination bei Querschnittaufgaben**
 
-Die Verantwortlichen der Verwaltungseinheiten für die Querschnittaufgaben Finanzen und Controlling, Personal, Informatik und Kommunikation sorgen für die erforderliche Koordination unter den Verwaltungseinheiten und für die erforderliche Weiterleitung von Informationen in ihrer jeweiligen Verwaltungseinheit.
-
-**9**
-
-- 1\. 4. 26 - 132 § 24. <sup>1</sup> Die Leiterin oder der Leiter der Verwaltungseinheit informiert die Direktionsvorsteherin oder den Direktionsvorsteher frühzeitig über die folgenden Geschäfte:
-
 **Information über Planungen und Projekte**
+
+<sup>1</sup> Die Leiterin oder der Leiter der Verwaltungseinheit informiert die Direktionsvorsteherin oder den Direktionsvorsteher frühzeitig über die folgenden Geschäfte:
 
 - a. grundlegende Planungen und Zielfestlegungen,
 
@@ -489,6 +497,10 @@ Wichtige Entscheidungen, insbesondere solche mit wesentlichen rechtlichen oder f
 
 <sup>1</sup> Die Verwaltungseinheiten informieren die Kommunikationsbeauftragte oder den Kommunikationsbeauftragten unverzüglich über eingegangene Medienanfragen und anstehende Öffentlichkeitsarbeiten.
 
+**11**
+
+- 1\. 4. 26 - 132
+
 <sup>2</sup> Die oder der Kommunikationsbeauftragte übernimmt die Beantwortung der Medienanfragen und die Öffentlichkeitsarbeiten in der Regel selber. Bei Geschäften ohne besondere Tragweite kann sie oder er dies im Einzelfall oder allgemein für bestimmte Fälle der zuständigen Verwaltungseinheit überlassen.
 
 #### § 32
@@ -496,10 +508,6 @@ Wichtige Entscheidungen, insbesondere solche mit wesentlichen rechtlichen oder f
 **Medienmitteilungen und -konferenzen**
 
 <sup>1</sup> Medienmitteilungen und Medienkonferenzen werden von der oder dem Kommunikationsbeauftragten koordiniert.
-
-**11**
-
-- 1\. 4. 26 - 132
 
 <sup>2</sup> Sie oder er holt dafür vorab das Einverständnis der Direktionsvorsteherin oder des Direktionsvorstehers ein und besorgt die Koordination mit der Kommunikationsabteilung des Regierungsrates.
 
