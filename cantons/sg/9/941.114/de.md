@@ -3,20 +3,19 @@ canton: SG
 number: "941.114"
 title: Reglement über Organisation und Geschäftsgang des Versicherungsgerichtes
 language: de
-version: 2017-06-01
-valid_until: 2026-05-31
-version_adopted: 2017-03-15
+version: 2026-06-01
+version_adopted: 2026-05-07
 adopted: 2017-03-15
 in_force: 2017-06-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/941.114"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/2216/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3913/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Reglement über Organisation und Geschäftsgang des Versicherungsgerichtes
 
-vom 15.03.2017 (Stand 01.06.2017)
+vom 15.03.2017 (Stand 01.06.2026)
 
 Das Versicherungsgericht des Kantons St.Gallen
 
@@ -82,7 +81,7 @@ als Reglement:[^ingress-2]
 
 - a) bestimmt die Abteilungspräsidentinnen und Abteilungspräsidenten;
 - b) teilt jeder Abteilung mindestens zwei weitere Mitglieder zu;
-- c) wählt für die Dauer von zwei Jahren mit Möglichkeit der Wiederwahl aus den Abteilungspräsidentinnen und Abteilungspräsidenten die Präsidentin oder den Präsidenten sowie die Vizepräsidentin oder den Vizepräsidenten des Versicherungsgerichtes;
+- c) wählt für die Dauer von zwei Jahren mit Möglichkeit der Wiederwahl aus den Mitgliedern der Geschäftsleitung die Präsidentin oder den Präsidenten sowie die Vizepräsidentin oder den Vizepräsidenten des Versicherungsgerichtes;
 - d) bestimmt die Präsidentin oder den Präsidenten und die Vizepräsidentin oder den Vizepräsidenten des Schiedsgerichtes;
 - e) erlässt die in die Zuständigkeit des Versicherungsgerichtes fallenden Reglemente;
 - f) beschliesst über wichtige Verwaltungsgeschäfte und kann interne Weisungen zum Geschäftsgang erlassen;
@@ -133,6 +132,8 @@ als Reglement:[^ingress-2]
 **Zusammensetzung**
 
 <sup>1</sup> Die Geschäftsleitung besteht aus den Abteilungspräsidentinnen und den Abteilungspräsidenten.
+
+<sup>2</sup> Verzichtet eine Abteilungspräsidentin oder ein Abteilungspräsident auf die Einsitznahme in die Geschäftsleitung, wählt das Plenum ein anderes Mitglied in die Geschäftsleitung.
 
 #### Art. 12
 
