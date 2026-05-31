@@ -4,29 +4,29 @@ number: "841"
 title: Gesetz über die Wohnbau- und Wohneigentumsförderung (WBFG)
 short: WBFG
 language: de
-version: "2016-01-01"
-nachtrag: "91"
-valid_until: 2026-06-01
+version: "2026-06-01"
+nachtrag: "133"
 adopted: 2004-06-07
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-841-2004_06_07-2005_07_01-091.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-841-2004_06_07-2005_07_01-133.html"
 text: pdf
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZH. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Gesetz über die Wohnbau- und Wohneigentumsförderung
+# Gesetz über die Wohnbau- und Wohneigentumsförderung (WBFG)
 
-(vom 7. Juni 2004)[^t-1],[^t-2]
+(vom 7. Juni 2004)[^t-2],[^t-3][^t-1]
 
 Der Kantonsrat,
 
-nach Einsichtnahme in den Antrag des Regierungsrates vom 20. August 2003[^t-3] und in den Antrag der Kommission für Wirtschaft und Abgaben vom 6. Januar 2004,
+nach Einsichtnahme in den Antrag des Regierungsrates vom 20. August 2003[^t-4] und in den Antrag der Kommission für Wirtschaft und Abgaben vom 6. Januar 2004,
 
 beschliesst:
 
-[^t-1]: OS 59, 306.
-[^t-2]: In Kraft seit 1. Juli 2005 (OS 60, 173).
-[^t-3]: ABl 2003, 1482.
+[^t-1]: Fassung gemäss G vom 30. Juni 2025 (OS 81, 257; ABl 2024-07-12). In Kraft seit 1. Juni 2026. 1. 7. 26 - 133 5
+[^t-2]: OS 59, 306.
+[^t-3]: In Kraft seit 1. Juli 2005 (OS 60, 173).
+[^t-4]: ABl 2003, 1482.
 
 ### I. Allgemeines
 
@@ -60,13 +60,17 @@ Die Leistungen nach diesem Gesetz erfolgen unabhängig von Leistungen des Bundes
 
 <sup>2</sup> Die obere Belehnungsgrenze für Darlehen beträgt 90 Prozent der gesamten Investitionskosten. Für Bauvorhaben von finanzschwachen Gemeinden oder von gemeinnützigen Wohnbauträgern kann die Belehnungsgrenze auf 95 Prozent erhöht werden.
 
-<sup>3</sup> Bei Liegenschaften im Verwaltungsvermögen der Gemeinden und bei landwirtschaftlichen Heimwesen wird auf eine Grundpfandverschreibung verzichtet.
-
 **1**
 
-- 1\. 1. 16 - 91 § 5. <sup>1</sup> Empfängerinnen und Empfänger von Darlehen müssen öffentlichrechtliche Eigentumsbeschränkungen im Grundbuch anmerken lassen, die sicherstellen, dass die Gebäude hauptsächlich zu Wohnzwecken benutzt und die unterstützten Wohnungen nach dem Grundsatz der Kostenmiete an berechtigte Personen vermietet werden; zudem haben die Eigentumsbeschränkungen jeden Gewinn beim Verkauf auszuschliessen. Zu diesem Zweck steht dem Staat und der Gemeinde ein im Grundbuch anzumerkendes Vorkaufsrecht zum Selbstkostenpreis zu.
+- 1\. 7. 26 - 133
+
+<sup>3</sup> Bei Liegenschaften im Verwaltungsvermögen der Gemeinden und bei landwirtschaftlichen Heimwesen wird auf eine Grundpfandverschreibung verzichtet.
+
+#### § 5
 
 **Eigentumsbeschränkungen**
+
+<sup>1</sup> Empfängerinnen und Empfänger von Darlehen müssen öffentlichrechtliche Eigentumsbeschränkungen im Grundbuch anmerken lassen, die sicherstellen, dass die Gebäude hauptsächlich zu Wohnzwecken benutzt und die unterstützten Wohnungen nach dem Grundsatz der Kostenmiete an berechtigte Personen vermietet werden; zudem haben die Eigentumsbeschränkungen jeden Gewinn beim Verkauf auszuschliessen. Zu diesem Zweck steht dem Staat und der Gemeinde ein im Grundbuch anzumerkendes Vorkaufsrecht zum Selbstkostenpreis zu.
 
 <sup>2</sup> Mit der Rückzahlung der staatlichen Hilfe fallen die Eigentumsbeschränkungen dahin. Davon ausgenommen ist das Vorkaufsrecht, das frühestens 15 Jahre nach Anmerkung im Grundbuch erlischt.
 
@@ -78,11 +82,13 @@ Die Leistungen nach diesem Gesetz erfolgen unabhängig von Leistungen des Bundes
 
 <sup>2</sup> Die Darlehenshöhe beträgt höchstens 3 Prozent der voraussichtlichen gesamten Investitionskosten.
 
+[^6-1]: Fassung gemäss G vom 30. Juni 2025 (OS 81, 257; ABl 2024-07-12). In Kraft seit 1. Juni 2026. 1. 7. 26 - 133 5
+
 #### § 7
 
 **Finanzierung und Zuständigkeit**
 
-<sup>1</sup> Die ausstehenden Darlehen betragen höchstens 180 Millionen Franken. Nicht wiedereinbringliche Darlehen werden abgeschrieben und zählen nicht mehr zu den ausstehenden Darlehen.
+<sup>1</sup> Die ausstehenden Darlehen betragen höchstens 360 Millionen Franken. Nicht wiedereinbringliche Darlehen werden abgeschrieben und zählen nicht mehr zu den ausstehenden Darlehen.[^6-1]
 
 <sup>2</sup> Die zuständige Direktion entscheidet über die Gewährung von Darlehen.
 
@@ -144,11 +150,11 @@ Die staatlichen Leistungen werden mit Zins zurückgefordert, wenn sie zu Unrecht
 
 <sup>4</sup> Er setzt die Bedingungen für die Rückzahlung und die Voraussetzungen für die Rückforderung der staatlichen Leistungen fest.
 
-<sup>5</sup> Er bestimmt für den Fall vorübergehender Zweckentfremdungen, wie die staatlichen Leistungen zu verzinsen sind und welcher monatliche Mindestbetrag dabei zu entrichten ist.
-
 **3**
 
-- 1\. 1. 16 - 91
+- 1\. 7. 26 - 133
+
+<sup>5</sup> Er bestimmt für den Fall vorübergehender Zweckentfremdungen, wie die staatlichen Leistungen zu verzinsen sind und welcher monatliche Mindestbetrag dabei zu entrichten ist.
 
 [^13-1]: Eingefügt durch G vom 2. März 2015 (OS 70, 405; ABl 2014-02-07). In Kraft seit 1. Januar 2016.
 
@@ -190,7 +196,7 @@ Mit Busse bis zu 50 000 Franken wird bestraft, wer vorsätzlich a. durch unwahre
 
 - c. eine Wohnung ihrem Zweck entfremdet.
 
-[^15-1]: Fassung gemäss G vom 2. März 2015 (OS 70, 405; ABl 2014-02-07). In Kraft seit 1. Januar 2016. 1. 1. 16 - 91 5
+[^15-1]: Fassung gemäss G vom 2. März 2015 (OS 70, 405; ABl 2014-02-07). In Kraft seit 1. Januar 2016.
 
 ### VII. Schlussbestimmungen
 
