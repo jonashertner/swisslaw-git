@@ -4,11 +4,11 @@ title: Ordinanza sulla protezione civile (OPCi)
 short: OPCi
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/888"
 language: it
-version: 2026-01-01
+version: 2026-06-01
 adopted: 2020-11-11
 in_force: 2021-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/888/20260101/it/xml/fedlex-data-admin-ch-eli-cc-2020-888-20260101-it-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/888/20260101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/888/20260601/it/xml/fedlex-data-admin-ch-eli-cc-2020-888-20260601-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/888/20260601/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/888/20260101/it"
 
 (OPCi)
 
-dell’11 novembre 2020 (Stato 1° gennaio 2026)
+dell’11 novembre 2020 (Stato 1° giugno 2026)
 
 Il Consiglio federale svizzero,
 
@@ -141,9 +141,11 @@ Una domanda di nuovo apprezzamento medico dell’idoneità al servizio di protez
 
 <sup>2</sup> Le persone di cui al capoverso 1 lettere a–d presentano la loro domanda motivata all’organo cantonale responsabile della protezione civile all’attenzione del Servizio medico militare.
 
-<sup>3</sup> La domanda deve essere corredata del libretto di servizio e di un eventuale certificato medico in busta chiusa.
+<sup>3</sup> La domanda deve essere corredata di un eventuale certificato medico.[^8-1]
 
 <sup>4</sup> Fino alla decisione in merito alla sua idoneità al servizio di protezione civile, la persona da sottoporre ad apprezzamento medico non può essere chiamata a prestare servizio di protezione civile.
+
+[^8-1]: Nuovo testo giusta l’all. n. 7 dell’O del 1° apr. 2026, in vigore dal 1° giu. 2026 ([RU 2026 174](https://fedlex.data.admin.ch/eli/oc/2026/174)).
 
 #### Art. 9
 
@@ -330,11 +332,9 @@ L’organo cantonale responsabile della protezione civile prende una decisione i
 
 #### Art. 23
 
-**Libretto di servizio**
+[^23-1]
 
-<sup>1</sup> La persona prosciolta anzitempo deve conservare con cura il libretto di servizio.
-
-<sup>2</sup> Se viene reincorporata nella protezione civile, deve trasmettere il libretto di servizio all’organo responsabile della protezione civile del suo luogo di domicilio.
+[^23-1]: Abrogato dall’all. n. 7 dell’O del 1° apr. 2026, con effetto dal 1° giu. 2026 ([RU 2026 174](https://fedlex.data.admin.ch/eli/oc/2026/174)).
 
 #### Art. 24
 
@@ -536,9 +536,11 @@ In caso di chiamata in servizio o di convocazione i militi sono tenuti ad entrar
 
 #### Art. 43
 
-**Annuncio di malattia o infortunio prima dell’entrata in servizio**
+**Annuncio di malattia o infortunio prima dell’entrata in servizio**[^43-1]
 
-Chi, per motivi di salute, non può entrare in servizio, deve informare senza indugio l’organo responsabile della convocazione o della chiamata in servizio e inviare allo stesso un certificato medico in busta chiusa e il libretto di servizio.
+Chi, per motivi di salute, non può entrare in servizio, deve informare senza indugio l’organo responsabile della convocazione o della chiamata in servizio e inviare allo stesso un certificato medico.
+
+[^43-1]: Nuovo testo giusta l’all. n. 7 dell’O del 1° apr. 2026, in vigore dal 1° giu. 2026 ([RU 2026 174](https://fedlex.data.admin.ch/eli/oc/2026/174)).
 
 #### Art. 44
 
@@ -832,13 +834,13 @@ Il numero di posti protetti da realizzare in caso di nuove costruzioni è defini
 
 <sup>3</sup> Nella determinazione del numero di posti protetti non si tiene conto delle frazioni risultanti dal calcolo dei posti protetti.
 
-<sup>4</sup> I posti protetti eccedenti in rifugi sono tenuti in considerazione nel calcolo a condizione che:
+<sup>4</sup>
 
-a. i locali si trovino in un edificio esistente situato sullo stesso terreno della nuova costruzione;
+I posti protetti eccedenti in rifugi sono tenuti in considerazione nel calcolo a condizione che:
 
-b. l’edificio esistente appartenga allo stesso proprietario della nuova costruzione; e
-
-c. i locali esistenti soddisfino le esigenze minime secondo l’articolo 104.
+- a. i locali si trovino in un edificio esistente situato sullo stesso terreno della nuova costruzione;
+- b. l’edificio esistente appartenga allo stesso proprietario della nuova costruzione; e
+- c. i locali esistenti soddisfino le esigenze minime secondo l’articolo 104.
 
 <sup>5</sup> Se il proprietario ha versato dei contributi sostitutivi per edifici esistenti ubicati sullo stesso terreno, nel calcolo si tiene conto anche di questi.
 
@@ -1694,7 +1696,7 @@ II
 
 Gli atti normativi qui appresso sono modificati come segue:
 
-...[^annex6-lvlu1-5]
+…[^annex6-lvlu1-5]
 
 [^annex6-lvlu1-1]: [[RU 2003 5147](https://fedlex.data.admin.ch/eli/oc/2003/758); [2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)cifra II n. 41; [2008 2887](https://fedlex.data.admin.ch/eli/oc/2008/396)art. 15; [2009 6667](https://fedlex.data.admin.ch/eli/oc/2009/824)all. 36 n. 7; [2011 5903](https://fedlex.data.admin.ch/eli/oc/2011/817); [2012 6493](https://fedlex.data.admin.ch/eli/oc/2012/777)all. 2 n. 3; [2015 195](https://fedlex.data.admin.ch/eli/oc/2015/25); [2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)cifra III]
 [^annex6-lvlu1-2]: [[RU 2003 5161](https://fedlex.data.admin.ch/eli/oc/2003/759); [2012 449](https://fedlex.data.admin.ch/eli/oc/2012/57); [2015 3933](https://fedlex.data.admin.ch/eli/oc/2015/660)]

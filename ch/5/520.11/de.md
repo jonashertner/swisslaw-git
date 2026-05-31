@@ -4,11 +4,11 @@ title: "Verordnung vom 11. November 2020 über den Zivilschutz (Zivilschutzveror
 short: ZSV
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/888"
 language: de
-version: 2026-01-01
+version: 2026-06-01
 adopted: 2020-11-11
 in_force: 2021-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/888/20260101/de/xml/fedlex-data-admin-ch-eli-cc-2020-888-20260101-de-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/888/20260101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/888/20260601/de/xml/fedlex-data-admin-ch-eli-cc-2020-888-20260601-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/888/20260601/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/888/20260101/de"
 
 (Zivilschutzverordnung, ZSV)
 
-vom 11. November 2020 (Stand am 1. Januar 2026)
+vom 11. November 2020 (Stand am 1. Juni 2026)
 
 Der Schweizerische Bundesrat,
 
@@ -141,9 +141,11 @@ Ein Gesuch um erneute medizinische Beurteilung der Schutzdiensttauglichkeit kön
 
 <sup>2</sup> Die Personen nach Absatz 1 Buchstaben a–d reichen ihr begründetes Gesuch bei der für den Zivilschutz zuständigen Stelle des Kantons zuhanden des Militärärztlichen Diensts ein.
 
-<sup>3</sup> Dem Gesuch sind das Dienstbüchlein und gegebenenfalls die Arztzeugnisse in einem verschlossenen Umschlag beizulegen.
+<sup>3</sup> Dem Gesuch sind gegebenenfalls die Arztzeugnisse beizulegen.[^8-1]
 
 <sup>4</sup> Bis zum Entscheid über ihre Schutzdiensttauglichkeit darf die zu überprüfende Person zu keinen Schutzdienstleistungen aufgeboten werden.
+
+[^8-1]: Fassung gemäss Anhang Ziff. 7 der V vom 1. April 2026, in Kraft seit 1. Juni 2026 ([AS 2026 174](https://fedlex.data.admin.ch/eli/oc/2026/174)).
 
 #### Art. 9
 
@@ -330,11 +332,9 @@ Die für den Zivilschutz zuständige Stelle des Kantons verfügt die Wiedereinte
 
 #### Art. 23
 
-**Dienstbüchlein**
+[^23-1]
 
-<sup>1</sup> Die vorzeitig entlassene Person muss das Dienstbüchlein sorgfältig aufbewahren.
-
-<sup>2</sup> Im Falle einer Wiedereinteilung muss der oder die Schutzdienstpflichtige das Dienstbüchlein der an seinem oder ihrem Wohnort für den Zivilschutz zuständigen Stelle zustellen.
+[^23-1]: Aufgehoben durch Anhang Ziff. 7 der V vom 1. April 2026, mit Wirkung seit 1. Juni 2026 ([AS 2026 174](https://fedlex.data.admin.ch/eli/oc/2026/174)).
 
 #### Art. 24
 
@@ -536,9 +536,11 @@ Bei einem Aufgebot haben die Schutzdienstpflichtigen nach den Anordnungen der au
 
 #### Art. 43
 
-**Meldung von Erkrankungen und Unfällen vor dem Einrücken**
+**Meldung von Erkrankungen und Unfällen vor dem Einrücken**[^43-1]
 
-Wer aus gesundheitlichen Gründen nicht einrücken kann, hat die aufbietende Stelle unverzüglich darüber zu orientieren und ihr das Dienstbüchlein und in einem verschlossenen Umschlag ein Arztzeugnis zuzustellen.
+Wer aus gesundheitlichen Gründen nicht einrücken kann, hat die aufbietende Stelle unverzüglich darüber zu orientieren und ihr ein Arztzeugnis zuzustellen.
+
+[^43-1]: Fassung gemäss Anhang Ziff. 7 der V vom 1. April 2026, in Kraft seit 1. Juni 2026 ([AS 2026 174](https://fedlex.data.admin.ch/eli/oc/2026/174)).
 
 #### Art. 44
 

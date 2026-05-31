@@ -4,11 +4,11 @@ title: Ordonnance du 11 novembre 2020 sur la protection civile (OPCi)
 short: OPCi
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/888"
 language: fr
-version: 2026-01-01
+version: 2026-06-01
 adopted: 2020-11-11
 in_force: 2021-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/888/20260101/fr/xml/fedlex-data-admin-ch-eli-cc-2020-888-20260101-fr-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/888/20260101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/888/20260601/fr/xml/fedlex-data-admin-ch-eli-cc-2020-888-20260601-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/888/20260601/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/888/20260101/fr"
 
 (OPCi)
 
-du 11 novembre 2020 (État le 1<sup>er</sup> janvier 2026)
+du 11 novembre 2020 (État le 1<sup>er</sup> juin 2026)
 
 Le Conseil fédéral suisse,
 
@@ -110,7 +110,7 @@ La CVS rend l’une des décisions suivantes:
 
 - a. apte au service de protection civile;
 - b. apte au service de protection civile à l’exception de la conduite de véhicules de la protection civile;
-- c. décision ajournée à / au ...;
+- c. décision ajournée à / au …;
 - d. inapte au service de protection civile.
 
 <sup>2</sup> Lorsque l’aptitude d’une personne au service de protection civile ne peut pas être déterminée clairement ou définitivement au moment de l’appréciation, la décision est ajournée. La durée totale de l’ajournement ne peut pas excéder 2 ans.
@@ -141,9 +141,11 @@ Les personnes, autorités et services suivants sont habilités à demander une n
 
 <sup>2</sup> Les personnes visées à l’al. 1, let. a à d, adressent leur demande motivée à l’autorité cantonale compétente en matière de protection civile, à l’attention du Service médico-militaire.
 
-<sup>3</sup> Elles doivent joindre à la demande les éventuels certificats médicaux et le livret de service sous pli fermé.
+<sup>3</sup> Elles doivent joindre à la demande les éventuels certificats médicaux.[^8-1]
 
 <sup>4</sup> La personne dont l’aptitude au service doit être réexaminée ne peut être convoquée à aucun service de protection civile tant que la décision sur son aptitude n’a pas été rendue.
+
+[^8-1]: Nouvelle teneur selon l’annexe ch. 7 de l’O du 1<sup>er</sup> avr. 2026, en vigueur depuis le 1<sup>er</sup> juin 2026 ([RO 2026 174](https://fedlex.data.admin.ch/eli/oc/2026/174)).
 
 #### Art. 9
 
@@ -330,11 +332,9 @@ L’autorité cantonale responsable de la protection civile décide de la réinc
 
 #### Art. 23
 
-**Livret de service**
+[^23-1]
 
-<sup>1</sup> La personne libérée à titre anticipé doit conserver soigneusement son livret de service.
-
-<sup>2</sup> Si elle est réincorporée, elle doit le remettre à l’autorité responsable de la protection civile pour son lieu de domicile.
+[^23-1]: Abrogé par l’annexe ch. 7 de l’O du 1<sup>er</sup> avr. 2026, avec effet au 1<sup>er</sup> juin 2026 ([RO 2026 174](https://fedlex.data.admin.ch/eli/oc/2026/174)).
 
 #### Art. 24
 
@@ -536,9 +536,11 @@ En cas de convocation, la personne astreinte doit entrer en service conformémen
 
 #### Art. 43
 
-**Annonce des maladies et accidents survenant avant l’entrée en service**
+**Annonce des maladies et accidents survenant avant l’entrée en service**[^43-1]
 
-Toute personne qui ne peut entrer en service pour des raisons de santé doit avertir l’autorité chargée de la convocation dans les plus brefs délais et lui envoyer un certificat médical sous pli fermé et son livret de service.
+Toute personne qui ne peut entrer en service pour des raisons de santé doit avertir l’autorité chargée de la convocation dans les plus brefs délais et lui envoyer un certificat médical.
+
+[^43-1]: Nouvelle teneur selon l’annexe ch. 7 de l’O du 1<sup>er</sup> avr. 2026, en vigueur depuis le 1<sup>er</sup> juin 2026 ([RO 2026 174](https://fedlex.data.admin.ch/eli/oc/2026/174)).
 
 #### Art. 44
 
@@ -1690,7 +1692,7 @@ II
 
 Les actes suivants sont modifiés comme suit:
 
-...[^annex6-lvlu1-5]
+…[^annex6-lvlu1-5]
 
 [^annex6-lvlu1-1]: [[RO 2003 5147](https://fedlex.data.admin.ch/eli/oc/2003/758), [2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)ch. II 41, [2008 2887](https://fedlex.data.admin.ch/eli/oc/2008/396)art. 15, [2009 6667](https://fedlex.data.admin.ch/eli/oc/2009/824)annexe 36 ch. 7, [2011 5903](https://fedlex.data.admin.ch/eli/oc/2011/817), [2012 6493](https://fedlex.data.admin.ch/eli/oc/2012/777)annexe 2 ch. 3, [2015 195](https://fedlex.data.admin.ch/eli/oc/2015/25), [2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)ch. III]
 [^annex6-lvlu1-2]: [[RO 2003 5161](https://fedlex.data.admin.ch/eli/oc/2003/759), [2012 449](https://fedlex.data.admin.ch/eli/oc/2012/57), [2015 3933](https://fedlex.data.admin.ch/eli/oc/2015/660)]
