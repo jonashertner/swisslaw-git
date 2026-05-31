@@ -4,13 +4,12 @@ number: "102.111.2"
 title: "Règlement du Conseil des affaires francophones de l'arrondissement de Biel/Bienne *"
 short: RCAF
 language: fr
-version: 2022-07-01
-valid_until: 2026-05-31
-version_adopted: 2022-04-04
+version: 2026-06-01
+version_adopted: 2026-06-16
 adopted: 2006-08-31
 in_force: 2006-09-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/102.111.2"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2607/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3378/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2607/pdf_file"
 
 (RCAF)
 
-du 31.08.2006 (état au 01.07.2022)
+du 31.08.2006 (état au 01.06.2026)
 
 Le Conseil des affaires francophones de l'arrondissement de Biel/Bienne,
 
@@ -89,7 +88,7 @@ arrête:
 
 - a convoque les membres du CAF aux séances;
 - b dirige les séances du CAF;
-- c représente le CAF à l'extérieur pour autant que cette tâche n'incombe pas à la Commission formation, santé-social;
+- c représente le CAF à l'extérieur pour autant que cette tâche n'incombe pas à une de ses commissions;
 - d signe conjointement avec le secrétaire général ou la secrétaire générale au nom du CAF;
 - e dirige le secrétariat général du CAF;
 - f informe le public sur les activités du CAF pour autant que cette tâche ne soit pas déléguée à un autre organe du CAF.
@@ -104,13 +103,13 @@ arrête:
 
 - a prépare toutes les affaires qui sont soumises au CAF et peut émettre des propositions;
 - b établit l'ordre du jour et arrête la date des séances du CAF;
-- c propose au CAF la composition de la Commission culture, de la Commission formation, santé-social et des commissions ad hoc;
+- c propose au CAF la composition de la Commission culture, de la Commission formation, santé-social, de la Commission des relations avec les communes germanophones de l’arrondissement de Biel/Bienne et des commissions ad hoc;
 - d prépare les décisions de dépenses à l'intention du CAF;
 - e …
 
 <sup>2</sup> Le Bureau est habilité à prendre des décisions au nom du CAF
 
-- a lorsqu'il y a urgence et qu'il est impossible ou qu'il apparaît disproportionné de convoquer une séance plénière extraordinaire;
+- a lorsqu'il y a urgence et qu'il est impossible ou qu'il apparaît disproportionné de consulter le Plénum par voie de circulation électronique ou de convoquer une séance plénière extraordinaire;
 - b lorsqu'il renonce à prendre position sur une affaire parce qu'elle ne concerne pas spécifiquement la population francophone de l'arrondissement administratif de Biel/Bienne;
 - c lorsque le Plénum ou une commission lui cède sa compétence de préavis ou de décision;
 - d lorsqu'il s'agit d'affaires relatives à l'application de la loi fédérale du 5 octobre 2007 sur les langues nationales et la compréhension entre les communautés linguistiques (loi sur les langues, LLC)[^6-1].
@@ -206,25 +205,39 @@ arrête:
 
 **Commission culture**
 
-<sup>1</sup> Le CAF constitue en son sein la Commission culture qui compte de trois à cinq membres.
+<sup>1</sup> Le CAF constitue en son sein la Commission culture qui compte de quatre à six membres.
 
 <sup>2</sup> Les membres et le président ou la présidente de la Commission culture sont désignés par le CAF.
 
 <sup>3</sup> La Commission culture est composée pour la durée d'une législature. Les sièges devenus vacants en cours de période sont repourvus jusqu'à la fin de celle-ci.
 
-<sup>4</sup> Les attributions de la Commission culture sont fixées dans un règlement séparé, édicté par le CAF.
+<sup>4</sup> Les attributions et les bases des actions de la Commission culture sont fixées dans un règlement séparé, édicté par le CAF.
 
-<sup>5</sup> Le CAF base son action en matière culturelle sur des Lignes directrices élaborées par la Commission culture.
+<sup>5</sup> …
 
 <sup>6</sup> La Commission culture peut inviter le président ou la présidente du CAF ou d’autres membres du CAF à assister à ses séances, avec voix consultative.
 
 #### Art. 13a
 
-**Commission institutions et bilinguisme communal**
+**Commission formation, santé-social**
 
-<sup>1</sup> En accord avec les communes municipales de Bienne et d'Evilard, le CAF met en place une commission permanente chargée de coordonner l’action du CAF avec les institutions régionales et avec les communes bilingues.
+<sup>1</sup> Le CAF constitue en son sein la Commission formation, santé-social, composée de quatre à six membres.
 
-<sup>2</sup> Organe mixte entre le CAF et ces deux communes municipales, cette commission choisit son nom et ses attributions et s’organise elle-même.
+<sup>2</sup> La Commission formation, santé-social représente le CAF dans les relations intercantonales définies à l'article 45 LStP et aux articles 16 à 18 de l'ordonnance du 2 novembre 2005 sur le statut particulier du Jura bernois et sur la minorité francophone l'arrondissement administratif de Biel/Bienne (ordonnance sur le statut particulier, OStP)[^13a-1].
+
+<sup>3</sup> Les dispositions de l'article 13, alinéas 2 à 6 s'appliquent par analogie à la Commission formation, santé-social.
+
+[^13a-1]: RSB [102.111](https://www.belex.sites.be.ch/data/102.111/fr)
+
+#### Art. 13b
+
+**Commission pour les relations avec les communes germanophones de l’arrondissement de Biel/Bienne**
+
+<sup>1</sup> Le CAF constitue en son sein la Commission pour les relations avec les communes germanophones de l’arrondissement de Biel/Bienne, composée de quatre à six membres.
+
+<sup>2</sup> Les membres et le président ou la présidente de la Commission pour les relations avec les communes germanophones de l’arrondissement de Biel/Bienne sont désignés par le CAF. Une majorité d’entre eux est domiciliée dans les communes germanophones. Dans la mesure du possible, le président ou la présidente a son domicile dans une des communes germanophones.
+
+<sup>3</sup> Les dispositions de l'article 13, alinéas 2 à 6 s'appliquent par analogie à la Commission pour les relations avec les communes germanophones de l’arrondissement de Biel/Bienne.
 
 #### Art. 14
 
@@ -238,49 +251,43 @@ arrête:
 
 #### Art. 15
 
-**Commission formation, santé-social**
+**Commission de coordination avec les communes bilingues**
 
-<sup>1</sup> Le CAF constitue en son sein la Commission formation, santé-social pour le représenter dans ses relations intercantonales et traiter des affaires en lien avec l'instruction publique et le domaine santé-social.
+<sup>1</sup> En accord avec les communes municipales de Bienne et d'Evilard, le CAF met en place une commission permanente chargée de coordonner l’action du CAF avec les communes bilingues.
 
-<sup>2</sup> La Commission formation, santé-social, composée de trois à cinq membres représente le CAF dans les relations intercantonales définies à l'article 45 LStP et aux articles 16 à 18 de l'ordonnance du 2 novembre 2005 sur le statut particulier du Jura bernois et sur la minorité francophone l'arrondissement administratif de Biel/Bienne (ordonnance sur le statut particulier, OStP)[^15-1].
+<sup>2</sup> Organe mixte entre le CAF et ces deux communes municipales, cette commission choisit son nom et ses attributions et s’organise elle-même.
 
-<sup>3</sup> De cas en cas, la Commission formation, santé-social peut habiliter son président ou sa présidente à représenter le CAF dans ses relations intercantonales.
-
-<sup>4</sup> Les dispositions de l'article 13, alinéas 2 à 4 s'appliquent par analogie à la Commission formation, santé-social.
-
-<sup>5</sup> La Commission formation, santé-social peut inviter le président ou la présidente du CAF ou d’autres membres du CAF à assister à ses séances, avec voix consultative.
-
-[^15-1]: RSB [102.111](https://www.belex.sites.be.ch/data/102.111/fr)
+<sup>3–5</sup> …
 
 #### Art. 16
 
 **Représentation des forces politiques**
 
-<sup>1</sup> Le CAF veille à ce que les forces politiques soient équitablement représentées au sein du Bureau, de la Commission culture, de la Commission formation, santé-social et des commissions ad hoc.
+<sup>1</sup> Le CAF veille à ce que les forces politiques soient équitablement représentées au sein du Bureau, de la Commission culture, de la Commission formation, santé-social, de la Commission pour les relations avec les communes germanophones de l’arrondissement de Biel/Bienne et des commissions ad hoc.
 
 #### Art. 17
 
 **Huis clos et information du public**
 
-<sup>1</sup> Les dispositions de l'article 10 concernant le huis clos des séances du CAF et l'information du public s'appliquent par analogie aux séances de la Commission culture, de la Commission formation, santé-social, de la Commission institutions et bilinguisme communal et des commissions ad hoc.
+<sup>1</sup> Les dispositions de l'article 10 concernant le huis clos des séances du CAF et l'information du public s'appliquent par analogie aux séances de la Commission culture, de la Commission formation, santé-social, de la Commission pour la coordination avec les communes bilingues, de la Commission pour les relations avec les communes germanophones de l’arrondissement de Biel/Bienne et des commissions ad hoc.
 
 #### Art. 18
 
 **Représentants ou représentantes de l'administration, personnes invitées**
 
-<sup>1</sup> Les dispositions de l'article 11 concernant l'invitation de représentants ou de représentantes de l'administration cantonale ou des administrations communales ou d'autres personnes aux séances du CAF s'appliquent par analogie à la Commission culture, à la Commission formation, santé-social, à la Commission institutions et bilinguisme communal et aux commissions ad hoc.
+<sup>1</sup> Les dispositions de l'article 11 concernant l'invitation de représentants ou de représentantes de l'administration cantonale ou des administrations communales ou d'autres personnes aux séances du CAF s'appliquent par analogie à la Commission culture, à la Commission formation, santé-social, à la Commission pour la coordination avec les communes bilingues, à la Commission pour les relations avec les communes germanophones de l’arrondissement de Biel/Bienne et aux commissions ad hoc.
 
 #### Art. 19
 
 **Votes**
 
-<sup>1</sup> Les dispositions de l'article 12, alinéas 2 à 4 s'appliquent par analogie à la Commission culture, à la Commission formation, santé-social et aux commissions ad hoc.
+<sup>1</sup> Les dispositions de l'article 12, alinéas 2 à 4 s'appliquent par analogie à la Commission culture, à la Commission formation, santé-social, à la Commission pour les relations avec les communes germanophones de l’arrondissement de Biel/Bienne et aux commissions ad hoc.
 
 ### 1.7 Recours à des experts, des expertes ou des spécialistes
 
 #### Art. 20
 
-<sup>1</sup> Le CAF, le Bureau, la Commission culture, la Commission formation, santé-social et les commissions ad hoc peuvent, dans les limites des moyens financiers disponibles dans le budget de la Chancellerie d'Etat pour le CAF, mandater des experts, des expertes ou des spécialistes pour examiner des affaires particulières.
+<sup>1</sup> Le CAF, le Bureau, la Commission culture, la Commission formation, santé-social, la Commission pour les relations avec les communes germanophones de l’arrondissement de Biel/Bienne et les commissions ad hoc peuvent, dans les limites des moyens financiers disponibles dans le budget de la Chancellerie d'Etat pour le CAF, mandater des experts, des expertes ou des spécialistes pour examiner des affaires particulières.
 
 <sup>2</sup> La participation des experts, des expertes ou des spécialistes aux séances des organes qui les ont mandatés est régie par l'article 11.
 
@@ -288,20 +295,45 @@ arrête:
 
 #### Art. 21
 
+**Indemnisation des séances**
+
+<sup>1</sup> Les membres du CAF touchent un jeton de présence pour leur participation aux séances suivantes dans la mesure où la séance dure une demi-heure au moins:
+
+- a les séances du CAF, du Bureau et des commissions, sous réserve de la lettre b;
+- b les séances de la Commission de coordination avec les communes bilingues lorsqu'ils y siègent en qualité de représentants du CAF;
+- c les autres séances ou manifestations lors desquelles ils représentent le CAF ou l'un de ses organes.
+
+<sup>2</sup> Quatre séances au maximum peuvent être indemnisées par jour : une tôt le matin, une le matin, une l'après-midi et une le soir. Elles peuvent avoir lieu durant les plages horaires suivantes:
+
+- a tôt le matin, avant 9 heures,
+- b le matin, entre 9 heures et midi,
+- c l'après-midi, entre midi et 16 heures 30,
+- d le soir, après 16 heures 30.
+
+<sup>2a</sup> …
+
+<sup>3</sup> Si deux séances se succèdent durant la même plage horaire, seule la première séance est indemnisée. Cette règle s'applique aussi à la direction des séances, sauf si seule la deuxième séance a été dirigée, auquel cas l'indemnité est versée pour cette dernière.
+
+<sup>3a</sup> …
+
+<sup>4</sup> Les séances portant sur le même objet qui ne totalisent pas plus de trois heures valent comme une seule séance, même si elles se prolongent au-delà de 9 heures, de midi ou de 16 heures 30.
+
+#### Art. 21a
+
 **Jetons de présence**
 
-<sup>1</sup> Les membres du CAF touchent un jeton de présence s'élevant
+<sup>1</sup> Le jeton de présence s'élève à
 
-- a à 200 francs pour une séance d'une demi-journée et
-- b à 300 francs pour une séance d'une journée.
+- a 200 francs pour la première séance,
+- b 100 francs pour la deuxième séance,
+- c 100 francs pour la troisième séance,
+- d 100 francs pour la quatrième séance.
 
-<sup>2</sup> Les jetons de présence sont versés pour la participation aux séances du CAF, du Bureau, de la Commission culture, de la Commission formation, santé-social et des commissions ad hoc.
+<sup>2</sup> Le président ou la présidente de même que les présidents ou présidentes de la Commission culture, de la Commission formation, santé-social, de la Commission pour les relations avec les communes germanophones de l'arrondissement de Biel/Bienne et des commissions ad hoc touchent le double du jeton de présence. Cette règle s'applique également aux vice-présidents ou vice-présidentes qui dirigent effectivement une séance.
 
-<sup>2a</sup> Les jetons de présence pour la participation aux séances de la Commission institutions et bilinguisme communal sont versés uniquement aux membres qui y siègent en qualité de représentants du CAF.
+<sup>3</sup> Le président ou la présidente de la Commission de coordination avec les communes bilingues touche le double du jeton de présence pour autant qu'il ou elle siège dans cette commission en qualité de représentant ou représentante du CAF. Cette règle s'applique également au vice-président ou à la vice-présidente qui dirige effectivement une séance.
 
-<sup>3</sup> Le président ou la présidente de même que les présidents ou présidentes de la Commission culture, de la Commission formation, santé-social et des commissions ad hoc touchent le double du jeton de présence. Cette règle s'applique également aux vice-présidents ou vice-présidentes qui dirigent effectivement une séance.
-
-<sup>3a</sup> Le président ou la présidente de la Commission institutions et bilinguisme communal touche le double du jeton de présence pour autant qu'il ou elle siège dans cette commission en qualité de représentant ou représentante du CAF. Cette règle s'applique également au vice-président ou à la vice-présidente qui dirige effectivement une séance.
+<sup>4</sup> Tous les membres du CAF touchent un forfait annuel de 250 francs pour la préparation des séances.
 
 #### Art. 22
 
@@ -329,9 +361,9 @@ arrête:
 
 <sup>1</sup> Les tâches du secrétaire général ou de la secrétaire générale sont les suivantes:
 
-- a assister et conseiller le CAF, sa présidence, son Bureau, sa Commission culture, sa Commission formation, santé-social, sa Commission institutions et bilinguisme communal et ses commissions ad hoc dans le traitement de leurs affaires;
-- b organiser les séances et prendre les procès-verbaux du CAF, du Bureau, de la Commission culture, de la Commission formation, santé-social, de la Commission institutions et bilinguisme communal et des commissions ad hoc;
-- c examiner toutes les affaires soumises au CAF, effectuer les travaux de recherche requis et préparer les décisions, d'entente avec le Bureau et le plénum;
+- a assister et conseiller le CAF, sa présidence, son Bureau, sa Commission culture, sa Commission formation, santé-social, sa Commission pour la coordination avec les communes bilingues, sa Commission pour les relations avec les communes germanophones de l’arrondissement de Biel/Bienne et ses commissions ad hoc dans le traitement de leurs affaires;
+- b organiser les séances et prendre les procès-verbaux du CAF, du Bureau, de la Commission culture, de la Commission formation, santé-social, de la Commission pour la coordination avec les communes bilingues, de la Commission pour les relations avec les communes germanophones de l’arrondissement de Biel/Bienne et des commissions ad hoc;
+- c examiner toutes les affaires soumises au CAF, effectuer les travaux de recherche requis et préparer les décisions, d'entente avec le Bureau et le Plénum;
 - d rédiger les projets de prises de position dans le cadre de la participation politique;
 - e examiner, conjointement avec le secrétariat général du Conseil du Jura bernois (CJB), les affaires relevant de la coordination scolaire romande et interjurassienne, en collaboration avec la Conférence de coordination francophone de la Direction de l'instruction publique (COFRA);
 - f entretenir les relations et assurer la collaboration du CAF avec le CJB, l'administration cantonale, les administrations communales de Bienne et d'Evilard, le Forum du bilinguisme et d'autres organisations et associations publiques ou privées;
@@ -368,6 +400,12 @@ arrête:
 #### Art. 27
 
 <sup>1</sup> Le présent règlement entre en vigueur le 1<sup>er</sup> septembre 2006.
+
+## T1 Disposition transitoire de la modification du 16.06.2026
+
+#### Art. T1-1
+
+<sup>1</sup> La modification des articles 5, 6, 13, 13a, 13b, 15, 16, 17, 18, 19, 20, 21, 21a et 24 s'applique à partir du 1<sup>er</sup> juin 2026.
 
 Biel/Bienne, le 31 août 2006
 
