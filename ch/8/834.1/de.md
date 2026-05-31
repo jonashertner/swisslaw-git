@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 25. September 1952 über den Erwerbsersatz (Erwerbsersa
 short: EOG
 eli: "https://fedlex.data.admin.ch/eli/cc/1952/1021_1046_1050"
 language: de
-version: 2025-01-28
+version: 2026-06-01
 adopted: 1952-09-25
 in_force: 1953-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1952/1021_1046_1050/20250128/de/xml/fedlex-data-admin-ch-eli-cc-1952-1021_1046_1050-20250128-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1952/1021_1046_1050/20250128/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1952/1021_1046_1050/20260601/de/xml/fedlex-data-admin-ch-eli-cc-1952-1021_1046_1050-20260601-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1952/1021_1046_1050/20260601/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1952/1021_1046_1050/20250128/de"
 
 (Erwerbsersatzgesetz, EOG)[^t-1]
 
-vom 25. September 1952 (Stand am 28. Januar 2025)
+vom 25. September 1952 (Stand am 1. Juni 2026)
 
 [^t-1]: Fassung gemäss Ziff. II 4 des BG vom 20. Dez. 2019 über die Verbesserung der Vereinbarkeit von Erwerbstätigkeit und Angehörigenbetreuung, in Kraft seit 1. Juli 2021 ([AS 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [BBl 2019 4103](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
 
@@ -27,7 +27,7 @@ in Ausführung der Artikel 59 Absatz 4, 61 Absatz 4, 116 Absätze 3 und 4, 117 A
 
 beschliesst:
 
-[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: Fassung gemäss Ziff. I 8 des BG vom 20. Dez. 2019 über die Verbesserung der Vereinbarkeit von Erwerbstätigkeit und Angehörigenbetreuung, in Kraft seit 1. Juli 2021 ([AS 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [BBl 2019 4103](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
 [^ingress-3]: [BBl 1951 III 297](https://fedlex.data.admin.ch/eli/fga/1951/3_297_305_)
 
@@ -41,7 +41,7 @@ beschliesst:
 
 Die Bestimmungen des Bundesgesetzes vom 6. Oktober 2000[^1-1] über den Allgemeinen Teil des Sozialversicherungsrechts (ATSG) sind auf die Erwerbsersatzordnung anwendbar, soweit das vorliegende Gesetz nicht ausdrücklich eine Abweichung vom ATSG vorsieht.
 
-[^1-1]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^1-1]: [SR 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 
 ## Erster Abschnitt *a*: Die Erwerbsausfallentschädigung
 
@@ -67,33 +67,34 @@ Personen, die in der schweizerischen Armee oder im Rotkreuzdienst Dienst leisten
 - b. die freiwillig Militärdienst leisten; oder
 - c. die Dienst in der Militärverwaltung leisten.[^1a-3]
 
-<sup>1bis</sup> In Abweichung von Absatz 1 haben Armeeangehörige zwischen zwei Ausbildungsdiensten nur Anspruch auf eine Entschädigung, wenn sie erwerbslos sind. Selbstständigerwerbende und Nichterwerbstätige haben keinen Anspruch. Der Bundesrat regelt das Verfahren.[^1a-4]
+<sup>1bis</sup> In Abweichung von Absatz 1 haben Armeeangehörige zwischen zwei Ausbildungsdiensten oder separaten Teilen einer Rekrutenschule nur Anspruch auf eine Entschädigung, wenn sie erwerbslos sind.[^1a-4] Selbstständigerwerbende und Nichterwerbstätige haben keinen Anspruch. Der Bundesrat regelt das Verfahren.[^1a-5]
 
-<sup>2</sup> Personen, die Zivildienst leisten, haben für jeden anrechenbaren Diensttag gemäss dem Zivildienstgesetz vom 6. Oktober 1995[^1a-5] Anspruch auf eine Entschädigung.
+<sup>2</sup> Personen, die Zivildienst leisten, haben für jeden anrechenbaren Diensttag gemäss dem Zivildienstgesetz vom 6. Oktober 1995[^1a-6] Anspruch auf eine Entschädigung.
 
-<sup>2bis</sup> Personen, welche nach der schweizerischen Militärgesetzgebung rekrutiert werden, haben für jeden besoldeten Rekrutierungstag Anspruch auf eine Entschädigung.[^1a-6]
+<sup>2bis</sup> Personen, welche nach der schweizerischen Militärgesetzgebung rekrutiert werden, haben für jeden besoldeten Rekrutierungstag Anspruch auf eine Entschädigung.[^1a-7]
 
-<sup>3</sup> Personen, die Schutzdienst leisten, haben jeden ganzen Tag, für den sie Sold nach Artikel 39 Absatz 1 Buchstabe a des Bevölkerungs- und Zivilschutzgesetzes vom 20. Dezember 2019[^1a-7] (BZG) beziehen, Anspruch auf eine Entschädigung. Ausgenommen ist das Personal der für den Zivilschutz zuständigen kantonalen und kommunalen Stellen, das im Rahmen von Einsätzen des Zivilschutzes zugunsten der Gemeinschaft nach Artikel 53 Absatz 3 BZG eingesetzt wird.[^1a-8]
+<sup>3</sup> Personen, die Schutzdienst leisten, haben jeden ganzen Tag, für den sie Sold nach Artikel 39 Absatz 1 Buchstabe a des Bevölkerungs- und Zivilschutzgesetzes vom 20. Dezember 2019[^1a-8] (BZG) beziehen, Anspruch auf eine Entschädigung. Ausgenommen ist das Personal der für den Zivilschutz zuständigen kantonalen und kommunalen Stellen, das im Rahmen von Einsätzen des Zivilschutzes zugunsten der Gemeinschaft nach Artikel 53 Absatz 3 BZG eingesetzt wird.[^1a-9]
 
-<sup>4</sup> Personen, die an eidgenössischen und kantonalen Kursen der Kaderbildung von «Jugend und Sport» im Sinne von Artikel 9 des Sportförderungsgesetzes vom 17. Juni 2011[^1a-9] sowie an Jungschützenleiterkursen nach Artikel 64 des Militärgesetzes vom 3. Februar 1995[^1a-10] teilnehmen, sind den in Absatz 1 genannten Personen gleichgestellt.[^1a-11]
+<sup>4</sup> Personen, die an eidgenössischen und kantonalen Kursen der Kaderbildung von «Jugend und Sport» im Sinne von Artikel 9 des Sportförderungsgesetzes vom 17. Juni 2011[^1a-10] sowie an Jungschützenleiterkursen nach Artikel 64 des Militärgesetzes vom 3. Februar 1995[^1a-11] teilnehmen, sind den in Absatz 1 genannten Personen gleichgestellt.[^1a-12]
 
-<sup>4bis</sup> Der Anspruch auf eine Entschädigung erlischt mit dem Bezug einer ganzen Altersrente der Alters- und Hinterlassenenversicherung, spätestens jedoch mit dem Erreichen des Referenzalters nach Artikel 21 Absatz 1 des Bundesgesetzes vom 20. Dezember 1946[^1a-12] über die Alters- und Hinterlassenenversicherung (AHVG).[^1a-13]
+<sup>4bis</sup> Der Anspruch auf eine Entschädigung erlischt mit dem Bezug einer ganzen Altersrente der Alters- und Hinterlassenenversicherung, spätestens jedoch mit dem Erreichen des Referenzalters nach Artikel 21 Absatz 1 des Bundesgesetzes vom 20. Dezember 1946[^1a-13] über die Alters- und Hinterlassenenversicherung (AHVG).[^1a-14]
 
 <sup>5</sup> Die in den Absätzen 1–4 genannten Personen werden in diesem Gesetz als Dienstleistende bezeichnet.
 
 [^1a-1]: Eingefügt durch Anhang Ziff. 14 des BG vom 6. Okt. 2000 über den Allgemeinen Teil des Sozialversicherungsrechts, in Kraft seit 1. Jan. 2003 ([AS 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [BBl 1991 II 185](https://fedlex.data.admin.ch/eli/fga/1991/2_185__)910, [1994 V 921](https://fedlex.data.admin.ch/eli/fga/1994/5_921__), **1999** 4523).
 [^1a-2]: Aufgehoben durch Ziff. I des BG vom 3. Okt. 2003, mit Wirkung seit 1. Juli 2005 ([AS 2005 1429](https://fedlex.data.admin.ch/eli/oc/2005/217); [BBl 2002 7522](https://fedlex.data.admin.ch/eli/fga/2002/1197), [2003 1112](https://fedlex.data.admin.ch/eli/fga/2003/169)[2923](https://fedlex.data.admin.ch/eli/fga/2003/381)).
 [^1a-3]: Fassung gemäss Ziff. II 2 des BG vom 27. Sept. 2013, in Kraft seit 1. Febr. 2015 ([AS 2015 187](https://fedlex.data.admin.ch/eli/oc/2015/24); [BBl 2013 2105](https://fedlex.data.admin.ch/eli/fga/2013/365)).
-[^1a-4]: Eingefügt durch Anhang Ziff. 10 des BG vom 18. März 2016, in Kraft seit 1. Jan. 2018 ([AS 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [BBl 2014 6955](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
-[^1a-5]: [SR 824.0](https://fedlex.data.admin.ch/eli/cc/1996/1445_1445_1445)
-[^1a-6]: Eingefügt durch Ziff. I des BG vom 3. Okt. 2003, in Kraft seit 1. Juli 2005 ([AS 2005 1429](https://fedlex.data.admin.ch/eli/oc/2005/217); [BBl 2002 7522](https://fedlex.data.admin.ch/eli/fga/2002/1197), [2003 1112](https://fedlex.data.admin.ch/eli/fga/2003/169)[2923](https://fedlex.data.admin.ch/eli/fga/2003/381)).
-[^1a-7]: [SR 520.1](https://fedlex.data.admin.ch/eli/cc/2020/887)
-[^1a-8]: Fassung gemäss Anhang Ziff. II 3 des Bevölkerungs- und Zivilschutzgesetzes vom 20. Dez. 2019, in Kraft seit 1. Jan. 2021 ([AS 2020 4995](https://fedlex.data.admin.ch/eli/oc/2020/887); [BBl 2019 8687](https://fedlex.data.admin.ch/eli/fga/2019/2993)).
-[^1a-9]: [SR 415.0](https://fedlex.data.admin.ch/eli/cc/2012/460)
-[^1a-10]: [SR 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
-[^1a-11]: Fassung gemäss Ziff. I des BG vom 14. Juni 2024 (Digitalisierung in der Erwerbsersatzordnung), in Kraft seit 1. Jan. 2025 ([AS 2024 681](https://fedlex.data.admin.ch/eli/oc/2024/681); [BBl 2023 2245](https://fedlex.data.admin.ch/eli/fga/2023/2245)).
-[^1a-12]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
-[^1a-13]: Eingefügt durch Ziff. II 2 des BG vom 27. Sept. 2013 ([AS 2015 187](https://fedlex.data.admin.ch/eli/oc/2015/24); [BBl 2013 2105](https://fedlex.data.admin.ch/eli/fga/2013/365)). Fassung gemäss Anhang Ziff. 8 des BG vom 17. Dez. 2021 (AHV 21), in Kraft seit 1. Jan. 2024 ([AS 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [BBl 2019 6305](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
+[^1a-4]: Fassung gemäss Anhang Ziff. 4 des BG vom 19. Dez. 2025, in Kraft seit 1. Juni 2026 ([AS 2026 164](https://fedlex.data.admin.ch/eli/oc/2026/164); [BBl 2025 960](https://fedlex.data.admin.ch/eli/fga/2025/960)).
+[^1a-5]: Eingefügt durch Anhang Ziff. 10 des BG vom 18. März 2016, in Kraft seit 1. Jan. 2018 ([AS 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [BBl 2014 6955](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
+[^1a-6]: [SR 824.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9978)
+[^1a-7]: Eingefügt durch Ziff. I des BG vom 3. Okt. 2003, in Kraft seit 1. Juli 2005 ([AS 2005 1429](https://fedlex.data.admin.ch/eli/oc/2005/217); [BBl 2002 7522](https://fedlex.data.admin.ch/eli/fga/2002/1197), [2003 1112](https://fedlex.data.admin.ch/eli/fga/2003/169)[2923](https://fedlex.data.admin.ch/eli/fga/2003/381)).
+[^1a-8]: [SR 520.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7590)
+[^1a-9]: Fassung gemäss Anhang Ziff. II 3 des Bevölkerungs- und Zivilschutzgesetzes vom 20. Dez. 2019, in Kraft seit 1. Jan. 2021 ([AS 2020 4995](https://fedlex.data.admin.ch/eli/oc/2020/887); [BBl 2019 8687](https://fedlex.data.admin.ch/eli/fga/2019/2993)).
+[^1a-10]: [SR 415.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6814)
+[^1a-11]: [SR 510.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7242)
+[^1a-12]: Fassung gemäss Ziff. I des BG vom 14. Juni 2024 (Digitalisierung in der Erwerbsersatzordnung), in Kraft seit 1. Jan. 2025 ([AS 2024 681](https://fedlex.data.admin.ch/eli/oc/2024/681); [BBl 2023 2245](https://fedlex.data.admin.ch/eli/fga/2023/2245)).
+[^1a-13]: [SR 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
+[^1a-14]: Eingefügt durch Ziff. II 2 des BG vom 27. Sept. 2013 ([AS 2015 187](https://fedlex.data.admin.ch/eli/oc/2015/24); [BBl 2013 2105](https://fedlex.data.admin.ch/eli/fga/2013/365)). Fassung gemäss Anhang Ziff. 8 des BG vom 17. Dez. 2021 (AHV 21), in Kraft seit 1. Jan. 2024 ([AS 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [BBl 2019 6305](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
 
 #### Art. 2–3
 
@@ -172,7 +173,7 @@ Anspruch auf Kinderzulagen besteht für:
 <sup>4</sup> Während der Grundausbildung im Zivilschutz beträgt die tägliche Grundentschädigung 25 Prozent des Höchstbetrages der Gesamtentschädigung. Absatz 2 ist sinngemäss anwendbar. Der Bundesrat erlässt Vorschriften für Dienstleistende, die eine militärische Grundausbildung teilweise oder ganz absolviert haben.
 
 [^9-1]: Fassung gemäss Ziff. I des BG vom 3. Okt. 2003, in Kraft seit 1. Juli 2005 ([AS 2005 1429](https://fedlex.data.admin.ch/eli/oc/2005/217); [BBl 2002 7522](https://fedlex.data.admin.ch/eli/fga/2002/1197), [2003 1112](https://fedlex.data.admin.ch/eli/fga/2003/169)[2923](https://fedlex.data.admin.ch/eli/fga/2003/381)).
-[^9-2]: [SR 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
+[^9-2]: [SR 510.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7242)
 [^9-3]: Eingefügt durch Anhang Ziff. 10 des BG vom 18. März 2016, in Kraft seit 1. Jan. 2018 ([AS 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [BBl 2014 6955](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
 
 #### Art. 10
@@ -192,7 +193,7 @@ Anspruch auf Kinderzulagen besteht für:
 Bei Diensten nach Artikel 30 Absatz 1<sup>bis</sup> des Militärgesetzes vom 3. Februar 1995[^10a-2] richtet sich der Entschädigungsanspruch nach der Rekrutenschule nach Artikel 9, bei allen übrigen Dienste nach Artikel 10. Artikel 16 Absatz 1 findet keine Anwendung.
 
 [^10a-1]: Eingefügt durch Anhang Ziff. 10 des BG vom 18. März 2016, in Kraft seit 1. Jan. 2018 ([AS 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [BBl 2014 6955](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
-[^10a-2]: [SR 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
+[^10a-2]: [SR 510.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7242)
 
 #### Art. 11
 
@@ -203,7 +204,7 @@ Bei Diensten nach Artikel 30 Absatz 1<sup>bis</sup> des Militärgesetzes vom 3. 
 <sup>2</sup> Der Bundesrat kann für Dienstleistende, die nur vorübergehend nicht erwerbstätig waren oder die wegen des Dienstes keine Erwerbstätigkeit aufnehmen konnten, besondere Vorschriften über die Bemessung ihrer Entschädigung erlassen.
 
 [^11-1]: Fassung gemäss Ziff. I des BG vom 3. Okt. 2003, in Kraft seit 1. Juli 2005 ([AS 2005 1429](https://fedlex.data.admin.ch/eli/oc/2005/217); [BBl 2002 7522](https://fedlex.data.admin.ch/eli/fga/2002/1197), [2003 1112](https://fedlex.data.admin.ch/eli/fga/2003/169)[2923](https://fedlex.data.admin.ch/eli/fga/2003/381)).
-[^11-2]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^11-2]: [SR 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 [^11-3]: Fassung gemäss Ziff. II 2 des BG vom 27. Sept. 2013, in Kraft seit 1. Febr. 2015 ([AS 2015 187](https://fedlex.data.admin.ch/eli/oc/2015/24); [BBl 2013 2105](https://fedlex.data.admin.ch/eli/fga/2013/365)).
 [^11-4]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 16 Abs. 3 der Publikationsverordnung vom 17. Nov. 2004 ([AS 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)) angepasst.
 
@@ -316,7 +317,7 @@ Der Bundesrat regelt die Anspruchsvoraussetzungen für Frauen, die wegen Arbeits
 - a.[^16b-3] während der neun Monate unmittelbar vor der Niederkunft nicht mindestens fünf Monate lang eine Erwerbstätigkeit ausgeübt haben;
 - b. im Zeitpunkt der Niederkunft nicht Arbeitnehmerinnen oder Selbständigerwerbende sind.
 
-[^16b-1]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^16b-1]: [SR 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 [^16b-2]: Fassung gemäss Ziff. I des BG vom 17. März 2023 (Taggelder für den hinterlassenen Elternteil), in Kraft seit 1. Jan. 2024 ([AS 2023 680](https://fedlex.data.admin.ch/eli/oc/2023/680); [BBl 2022 2515](https://fedlex.data.admin.ch/eli/fga/2022/2515), [2742](https://fedlex.data.admin.ch/eli/fga/2022/2742)).
 [^16b-3]: Fassung gemäss Ziff. I des BG vom 18. Dez. 2020, in Kraft seit 1. Juli 2021 ([AS 2021 288](https://fedlex.data.admin.ch/eli/oc/2021/288); [BBl 2019 141](https://fedlex.data.admin.ch/eli/fga/2019/9)).
 
@@ -411,11 +412,11 @@ Bestand bis zum Anspruchsbeginn auf die Mutterschaftsentschädigung Anspruch auf
 - e. Arbeitslosenversicherungsgesetz vom 25. Juni 1982[^16g-6].
 
 [^16g-1]: Eingefügt durch Ziff. II 4 des BG vom 20. Dez. 2019 über die Verbesserung der Vereinbarkeit von Erwerbstätigkeit und Angehörigenbetreuung, in Kraft seit 1. Juli 2021 ([AS 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [BBl 2019 4103](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
-[^16g-2]: [SR 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
-[^16g-3]: [SR 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
-[^16g-4]: [SR 832.20](https://fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676)
-[^16g-5]: [SR 833.1](https://fedlex.data.admin.ch/eli/cc/1993/3043_3043_3043)
-[^16g-6]: [SR 837.0](https://fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184)
+[^16g-2]: [SR 831.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10046)
+[^16g-3]: [SR 832.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133)
+[^16g-4]: [SR 832.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10190)
+[^16g-5]: [SR 833.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10252)
+[^16g-6]: [SR 837.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10282)
 
 #### Art. 16h
 
@@ -457,9 +458,9 @@ Anspruchsberechtigt ist die Person, die:[^16i-1]
 
 [^16i-1]: Fassung gemäss Ziff. I des BG vom 17. März 2023 (Taggelder für den hinterlassenen Elternteil), in Kraft seit 1. Jan. 2024 ([AS 2023 680](https://fedlex.data.admin.ch/eli/oc/2023/680); [BBl 2022 2515](https://fedlex.data.admin.ch/eli/fga/2022/2515), [2742](https://fedlex.data.admin.ch/eli/fga/2022/2742)).
 [^16i-2]: Fassung gemäss Ziff. I des BG vom 17. März 2023 (Taggelder für den hinterlassenen Elternteil), in Kraft seit 1. Jan. 2024 ([AS 2023 680](https://fedlex.data.admin.ch/eli/oc/2023/680); [BBl 2022 2515](https://fedlex.data.admin.ch/eli/fga/2022/2515), [2742](https://fedlex.data.admin.ch/eli/fga/2022/2742)).
-[^16i-3]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^16i-3]: [SR 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 [^16i-4]: Fassung gemäss Ziff. I des BG vom 17. März 2023 (Taggelder für den hinterlassenen Elternteil), in Kraft seit 1. Jan. 2024 ([AS 2023 680](https://fedlex.data.admin.ch/eli/oc/2023/680); [BBl 2022 2515](https://fedlex.data.admin.ch/eli/fga/2022/2515), [2742](https://fedlex.data.admin.ch/eli/fga/2022/2742)).
-[^16i-5]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^16i-5]: [SR 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 [^16i-6]: Fassung gemäss Ziff. I des BG vom 17. März 2023 (Taggelder für den hinterlassenen Elternteil), in Kraft seit 1. Jan. 2024 ([AS 2023 680](https://fedlex.data.admin.ch/eli/oc/2023/680); [BBl 2022 2515](https://fedlex.data.admin.ch/eli/fga/2022/2515), [2742](https://fedlex.data.admin.ch/eli/fga/2022/2742)).
 [^16i-7]: Fassung gemäss Ziff. I des BG vom 17. März 2023 (Taggelder für den hinterlassenen Elternteil), in Kraft seit 1. Jan. 2024 ([AS 2023 680](https://fedlex.data.admin.ch/eli/oc/2023/680); [BBl 2022 2515](https://fedlex.data.admin.ch/eli/fga/2022/2515), [2742](https://fedlex.data.admin.ch/eli/fga/2022/2742)).
 
@@ -552,11 +553,11 @@ Bestand bis zum Beginn des Anspruchs auf die Entschädigung des andern Elterntei
 [^16m-1]: Fassung gemäss Ziff. I des BG vom 17. März 2023 (Taggelder für den hinterlassenen Elternteil), in Kraft seit 1. Jan. 2024 ([AS 2023 680](https://fedlex.data.admin.ch/eli/oc/2023/680); [BBl 2022 2515](https://fedlex.data.admin.ch/eli/fga/2022/2515), [2742](https://fedlex.data.admin.ch/eli/fga/2022/2742)).
 [^16m-2]: Fassung gemäss Ziff. I des BG vom 17. März 2023 (Taggelder für den hinterlassenen Elternteil), in Kraft seit 1. Jan. 2024 ([AS 2023 680](https://fedlex.data.admin.ch/eli/oc/2023/680); [BBl 2022 2515](https://fedlex.data.admin.ch/eli/fga/2022/2515), [2742](https://fedlex.data.admin.ch/eli/fga/2022/2742)).
 [^16m-3]: Fassung gemäss Ziff. I des BG vom 17. März 2023 (Taggelder für den hinterlassenen Elternteil), in Kraft seit 1. Jan. 2024 ([AS 2023 680](https://fedlex.data.admin.ch/eli/oc/2023/680); [BBl 2022 2515](https://fedlex.data.admin.ch/eli/fga/2022/2515), [2742](https://fedlex.data.admin.ch/eli/fga/2022/2742)).
-[^16m-4]: [SR 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
-[^16m-5]: [SR 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
-[^16m-6]: [SR 832.20](https://fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676)
-[^16m-7]: [SR 833.1](https://fedlex.data.admin.ch/eli/cc/1993/3043_3043_3043)
-[^16m-8]: [SR 837.0](https://fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184)
+[^16m-4]: [SR 831.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10046)
+[^16m-5]: [SR 832.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133)
+[^16m-6]: [SR 832.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10190)
+[^16m-7]: [SR 833.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10252)
+[^16m-8]: [SR 837.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10282)
 
 ### III*c*. Die Entschädigung für Eltern, die ein wegen Krankheit oder Unfall gesundheitlich schwer beeinträchtigtes Kind betreuen
 
@@ -590,7 +591,7 @@ Der Bundesrat regelt:
 - a den Anspruch von Pflegeeltern;
 - b. die Anspruchsvoraussetzungen für Personen, die wegen Arbeitsunfähigkeit oder Arbeitslosigkeit die Voraussetzungen nach Absatz 1 Buchstabe b nicht erfüllen.
 
-[^16n-1]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^16n-1]: [SR 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 
 #### Art. 16o
 
@@ -667,11 +668,11 @@ Das Taggeld entspricht mindestens dem bisher bezogenen Taggeld, wenn bis zum Beg
 - d. Bundesgesetz vom 19. Juni 1992[^16s-4] über die Militärversicherung;
 - e. Arbeitslosenversicherungsgesetz vom 25. Juni 1982[^16s-5].
 
-[^16s-1]: [SR 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
-[^16s-2]: [SR 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
-[^16s-3]: [SR 832.20](https://fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676)
-[^16s-4]: [SR 833.1](https://fedlex.data.admin.ch/eli/cc/1993/3043_3043_3043)
-[^16s-5]: [SR 837.0](https://fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184)
+[^16s-1]: [SR 831.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10046)
+[^16s-2]: [SR 832.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133)
+[^16s-3]: [SR 832.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10190)
+[^16s-4]: [SR 833.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10252)
+[^16s-5]: [SR 837.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10282)
 
 ### III*d*. Die Adoptionsentschädigung
 
@@ -710,9 +711,9 @@ Bei einer gemeinschaftlichen Adoption:
 
 <sup>5</sup> Kein Anspruch entsteht bei einer Stiefkindadoption nach Artikel 264*c* Absatz 1 des Zivilgesetzbuchs[^16t-3].
 
-[^16t-1]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
-[^16t-2]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
-[^16t-3]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^16t-1]: [SR 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
+[^16t-2]: [SR 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
+[^16t-3]: [SR 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 
 #### Art. 16u
 
@@ -779,7 +780,7 @@ Leistungsberechtigte machen ihren Anspruch bei der zuständigen Ausgleichskasse 
 <sup>3</sup> Dienstleistende können ihren Anspruch über das Informationssystem nach Artikel 21*a* geltend machen.[^17-4]
 
 [^17-1]: Fassung gemäss Ziff. I des BG vom 3. Okt. 2003, in Kraft seit 1. Juli 2005 ([AS 2005 1429](https://fedlex.data.admin.ch/eli/oc/2005/217); [BBl 2002 7522](https://fedlex.data.admin.ch/eli/fga/2002/1197), [2003 1112](https://fedlex.data.admin.ch/eli/fga/2003/169)[2923](https://fedlex.data.admin.ch/eli/fga/2003/381)).
-[^17-2]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^17-2]: [SR 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 [^17-3]: Zweiter Satz eingefügt durch Anhang Ziff. 14 des BG vom 6. Okt. 2000 über den Allgemeinen Teil des Sozialversicherungsrechts, in Kraft seit 1. Jan. 2003 ([AS 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [BBl 1991 II 185](https://fedlex.data.admin.ch/eli/fga/1991/2_185__)910, [1994 V 921](https://fedlex.data.admin.ch/eli/fga/1994/5_921__), **1999** 4523).
 [^17-4]: Eingefügt durch Ziff. I des BG vom 14. Juni 2024 (Digitalisierung in der Erwerbsersatzordnung), in Kraft seit 1. Jan. 2025 ([AS 2024 681](https://fedlex.data.admin.ch/eli/oc/2024/681); [BBl 2023 2245](https://fedlex.data.admin.ch/eli/fga/2023/2245)).
 
@@ -791,7 +792,7 @@ Leistungsberechtigte machen ihren Anspruch bei der zuständigen Ausgleichskasse 
 
 <sup>2</sup> Die Entschädigung wird im formlosen Verfahren nach Artikel 51 ATSG[^18-1] festgesetzt. Dies gilt in Abweichung von Artikel 49 Absatz 1 ATSG auch für erhebliche Entschädigungen.[^18-2]
 
-[^18-1]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^18-1]: [SR 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 [^18-2]: Fassung gemäss Anhang Ziff. 14 des BG vom 6. Okt. 2000 über den Allgemeinen Teil des Sozialversicherungsrechts, in Kraft seit 1. Jan. 2003 ([AS 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [BBl 1991 II 185](https://fedlex.data.admin.ch/eli/fga/1991/2_185__)910, [1994 V 921](https://fedlex.data.admin.ch/eli/fga/1994/5_921__), **1999** 4523).
 
 #### Art. 19
@@ -810,7 +811,7 @@ Die Entschädigung wird den Leistungsberechtigten ausbezahlt; es gelten jedoch f
 <sup>3</sup> Die Entschädigung wird nur ausbezahlt, wenn sie vorschriftsgemäss geltend gemacht wird und der Nachweis erbracht wird, dass die Leistungsvoraussetzungen erfüllt sind.
 
 [^19-1]: Fassung gemäss Ziff. I des BG vom 3. Okt. 2003, in Kraft seit 1. Juli 2005 ([AS 2005 1429](https://fedlex.data.admin.ch/eli/oc/2005/217); [BBl 2002 7522](https://fedlex.data.admin.ch/eli/fga/2002/1197), [2003 1112](https://fedlex.data.admin.ch/eli/fga/2003/169)[2923](https://fedlex.data.admin.ch/eli/fga/2003/381)).
-[^19-2]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^19-2]: [SR 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 
 #### Art. 19a
 
@@ -831,7 +832,7 @@ Auf der Entschädigung werden Beiträge bezahlt:
 
 [^19a-1]: Eingefügt durch Ziff. I des BG vom 19. Juni 1987, in Kraft seit 1. Jan. 1988 ([AS 1987 1393](https://fedlex.data.admin.ch/eli/oc/1987/1393_1393_1393); [BBl 1985 I 797](https://fedlex.data.admin.ch/eli/fga/1985/1_797_785_653)).
 [^19a-2]: Fassung gemäss Ziff. I des BG vom 3. Okt. 2003, in Kraft seit 1. Juli 2005 ([AS 2005 1429](https://fedlex.data.admin.ch/eli/oc/2005/217); [BBl 2002 7522](https://fedlex.data.admin.ch/eli/fga/2002/1197), [2003 1112](https://fedlex.data.admin.ch/eli/fga/2003/169)[2923](https://fedlex.data.admin.ch/eli/fga/2003/381)).
-[^19a-3]: [SR 836.1](https://fedlex.data.admin.ch/eli/cc/1952/823_843_839)
+[^19a-3]: [SR 836.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10273)
 [^19a-4]: Eingefügt durch Ziff. I des BG vom 3. Okt. 2003, in Kraft seit 1. Juli 2005 ([AS 2005 1429](https://fedlex.data.admin.ch/eli/oc/2005/217); [BBl 2002 7522](https://fedlex.data.admin.ch/eli/fga/2002/1197), [2003 1112](https://fedlex.data.admin.ch/eli/fga/2003/169)[2923](https://fedlex.data.admin.ch/eli/fga/2003/381)).
 
 #### Art. 20
@@ -853,15 +854,15 @@ In Abweichung von Artikel 24 ATSG[^20-2] erlischt der Anspruch auf nicht bezogen
 <sup>2</sup> Forderungen nach diesem Gesetz, dem AHVG[^20-8] und dem Bundesgesetz vom 20. Juni 1952[^20-9] über die Familienzulagen in der Landwirtschaft[^20-10] können mit fälligen Entschädigungen verrechnet werden.
 
 [^20-1]: Fassung gemäss Ziff. I des BG vom 3. Okt. 2003, in Kraft seit 1. Juli 2005 ([AS 2005 1429](https://fedlex.data.admin.ch/eli/oc/2005/217); [BBl 2002 7522](https://fedlex.data.admin.ch/eli/fga/2002/1197), [2003 1112](https://fedlex.data.admin.ch/eli/fga/2003/169)[2923](https://fedlex.data.admin.ch/eli/fga/2003/381)).
-[^20-2]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^20-2]: [SR 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 [^20-3]: Fassung gemäss Ziff. I des BG vom 17. März 2023 (Taggelder für den hinterlassenen Elternteil), in Kraft seit 1. Jan. 2024 ([AS 2023 680](https://fedlex.data.admin.ch/eli/oc/2023/680); [BBl 2022 2515](https://fedlex.data.admin.ch/eli/fga/2022/2515), [2742](https://fedlex.data.admin.ch/eli/fga/2022/2742)).
 [^20-4]: Eingefügt durch Ziff. I des BG vom 17. März 2023 (Taggelder für den hinterlassenen Elternteil), in Kraft seit 1. Jan. 2024 ([AS 2023 680](https://fedlex.data.admin.ch/eli/oc/2023/680); [BBl 2022 2515](https://fedlex.data.admin.ch/eli/fga/2022/2515), [2742](https://fedlex.data.admin.ch/eli/fga/2022/2742)).
 [^20-5]: Eingefügt durch Ziff. I des BG vom 17. März 2023 (Taggelder für den hinterlassenen Elternteil), in Kraft seit 1. Jan. 2024 ([AS 2023 680](https://fedlex.data.admin.ch/eli/oc/2023/680); [BBl 2022 2515](https://fedlex.data.admin.ch/eli/fga/2022/2515), [2742](https://fedlex.data.admin.ch/eli/fga/2022/2742)).
 [^20-6]: Ursprünglich: Bst. e. Eingefügt durch Ziff. I des BG vom 1. Okt. 2021, in Kraft seit 1. Jan. 2023 ([AS 2022 468](https://fedlex.data.admin.ch/eli/oc/2022/468); [BBl 2019 7095](https://fedlex.data.admin.ch/eli/fga/2019/2553), [7303](https://fedlex.data.admin.ch/eli/fga/2019/2640)).
 [^20-7]: Fassung gemäss Ziff. II 4 des BG vom 20. Dez. 2019 über die Verbesserung der Vereinbarkeit von Erwerbstätigkeit und Angehörigenbetreuung, in Kraft seit 1. Juli 2021 ([AS 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [BBl 2019 4103](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
-[^20-8]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
-[^20-9]: [SR 836.1](https://fedlex.data.admin.ch/eli/cc/1952/823_843_839)
-[^20-10]: [SR 836.1](https://fedlex.data.admin.ch/eli/cc/1952/823_843_839)
+[^20-8]: [SR 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
+[^20-9]: [SR 836.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10273)
+[^20-10]: [SR 836.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10273)
 
 #### Art. 20a
 
@@ -881,9 +882,9 @@ Die Kantone haften für Schäden, die der Erwerbsersatzordnung entstanden sind o
 
 [^20a-1]: Eingefügt durch Ziff. II 2 des BG vom 27. Sept. 2013, in Kraft seit 1. Febr. 2015 ([AS 2015 187](https://fedlex.data.admin.ch/eli/oc/2015/24); [BBl 2013 2105](https://fedlex.data.admin.ch/eli/fga/2013/365)).
 [^20a-2]: Fassung gemäss Ziff. I des BG vom 14. Juni 2024 (Digitalisierung in der Erwerbsersatzordnung), in Kraft seit 1. Jan. 2025 ([AS 2024 681](https://fedlex.data.admin.ch/eli/oc/2024/681); [BBl 2023 2245](https://fedlex.data.admin.ch/eli/fga/2023/2245)).
-[^20a-3]: [SR 520.1](https://fedlex.data.admin.ch/eli/cc/2020/887)
+[^20a-3]: [SR 520.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7590)
 [^20a-4]: Fassung gemäss Ziff. I des BG vom 14. Juni 2024 (Digitalisierung in der Erwerbsersatzordnung), in Kraft seit 1. Jan. 2025 ([AS 2024 681](https://fedlex.data.admin.ch/eli/oc/2024/681); [BBl 2023 2245](https://fedlex.data.admin.ch/eli/fga/2023/2245)).
-[^20a-5]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^20a-5]: [SR 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 ## Zweiter Abschnitt: Die Organisation
 
@@ -923,13 +924,13 @@ In Abweichung von Artikel 78 ATSG ist die Haftung wie folgt geregelt:
 - c. Die Haftung der Rechnungsführer der Zivilschutzorganisationen untersteht dem BZG[^21-8].[^21-9]
 
 [^21-1]: Fassung gemäss Ziff. I des BG vom 14. Juni 2024 (Digitalisierung in der Erwerbsersatzordnung), in Kraft seit 1. Jan. 2025 ([AS 2024 681](https://fedlex.data.admin.ch/eli/oc/2024/681); [BBl 2023 2245](https://fedlex.data.admin.ch/eli/fga/2023/2245)).
-[^21-2]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^21-2]: [SR 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 [^21-3]: Fassung gemäss Anhang Ziff. 6 des BG vom 17. Juni 2022 (Modernisierung der Aufsicht), in Kraft seit 1. Jan. 2024 ([AS 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [BBl 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
-[^21-4]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^21-4]: [SR 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 [^21-5]: Eingefügt durch Anhang Ziff. 6 des BG vom 17. Juni 2022 (Modernisierung der Aufsicht), in Kraft seit 1. Jan. 2024 ([AS 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [BBl 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
-[^21-6]: [SR 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
-[^21-7]: [SR 170.32](https://fedlex.data.admin.ch/eli/cc/1958/1413_1483_1489)
-[^21-8]: [SR 520.1](https://fedlex.data.admin.ch/eli/cc/2020/887)
+[^21-6]: [SR 510.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7242)
+[^21-7]: [SR 170.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4971)
+[^21-8]: [SR 520.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7590)
 [^21-9]: Eingefügt durch Anhang Ziff. 14 des BG vom 6. Okt. 2000 über den Allgemeinen Teil des Sozialversicherungsrechts ([AS 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [BBl 1991 II 185](https://fedlex.data.admin.ch/eli/fga/1991/2_185__)910, [1994 V 921](https://fedlex.data.admin.ch/eli/fga/1994/5_921__), **1999** 4523). Fassung gemäss Ziff. I des BG vom 14. Juni 2024 (Digitalisierung in der Erwerbsersatzordnung), in Kraft seit 1. Jan. 2025 ([AS 2024 681](https://fedlex.data.admin.ch/eli/oc/2024/681); [BBl 2023 2245](https://fedlex.data.admin.ch/eli/fga/2023/2245)).
 
 #### Art. 21a
@@ -964,13 +965,13 @@ Der Bundesrat regelt:
 - f. die Datensicherheit.
 
 [^21a-1]: Eingefügt durch Ziff. I des BG vom 14. Juni 2024 (Digitalisierung in der Erwerbsersatzordnung), in Kraft seit 1. Jan. 2025 ([AS 2024 681](https://fedlex.data.admin.ch/eli/oc/2024/681); [BBl 2023 2245](https://fedlex.data.admin.ch/eli/fga/2023/2245)).
-[^21a-2]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
-[^21a-3]: [SR 415.1](https://fedlex.data.admin.ch/eli/cc/2016/596)
-[^21a-4]: [SR 431.03](https://fedlex.data.admin.ch/eli/cc/2010/705)
-[^21a-5]: [SR 510.91](https://fedlex.data.admin.ch/eli/cc/2009/823)
-[^21a-6]: [SR 824.0](https://fedlex.data.admin.ch/eli/cc/1996/1445_1445_1445)
-[^21a-7]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
-[^21a-8]: [SR 836.2](https://fedlex.data.admin.ch/eli/cc/2008/51)
+[^21a-2]: [SR 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
+[^21a-3]: [SR 415.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6833)
+[^21a-4]: [SR 431.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6953)
+[^21a-5]: [SR 510.91](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7377)
+[^21a-6]: [SR 824.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9978)
+[^21a-7]: [SR 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
+[^21a-8]: [SR 836.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10277)
 
 #### Art. 22
 
@@ -979,7 +980,7 @@ Der Bundesrat regelt:
 Zur Deckung ihrer Verwaltungskosten erheben die Ausgleichskassen von den ihnen angeschlossenen Arbeitgebern, Selbständigerwerbenden und Nichterwerbstätigen Verwaltungskostenbeiträge. Den Ausgleichskassen können ferner an ihre Verwaltungskosten Zuschüsse aus dem Ausgleichsfonds der Erwerbsersatzordnung gewährt werden. Artikel 69 des AHVG[^22-2] findet Anwendung.
 
 [^22-1]: Fassung gemäss Ziff. I des BG vom 6. März 1959, in Kraft seit 1. Jan. 1960 ([AS 1959 567](https://fedlex.data.admin.ch/eli/oc/1959/567_589_565); [BBl 1958 II 1323](https://fedlex.data.admin.ch/eli/fga/1958/2_1323_1349_)).
-[^22-2]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^22-2]: [SR 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 
 #### Art. 23
 
@@ -989,9 +990,9 @@ Zur Deckung ihrer Verwaltungskosten erheben die Ausgleichskassen von den ihnen a
 
 <sup>2</sup> Die Eidgenössische Kommission für die Alters-, Hinterlassenen- und Invalidenversicherung[^23-6] bestellt aus ihrer Mitte einen Ausschuss für die Erwerbsersatzordnung. …[^23-7] Dem Ausschuss obliegt die Begutachtung von Fragen über die Durchführung und Weiterentwicklung der Erwerbsersatzordnung zuhanden des Bundesrates. Er hat das Recht, dem Bundesrat von sich aus Anregungen zu unterbreiten.
 
-[^23-2]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^23-2]: [SR 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 [^23-3]: Fassung gemäss Anhang Ziff. 14 des BG vom 6. Okt. 2000 über den Allgemeinen Teil des Sozialversicherungsrechts, in Kraft seit 1. Jan. 2003 ([AS 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [BBl 1991 II 185](https://fedlex.data.admin.ch/eli/fga/1991/2_185__)910, [1994 V 921](https://fedlex.data.admin.ch/eli/fga/1994/5_921__), **1999** 4523).
-[^23-4]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^23-4]: [SR 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 [^23-5]: Fassung gemäss Anhang Ziff. 6 des BG vom 17. Juni 2022 (Modernisierung der Aufsicht), in Kraft seit 1. Jan. 2024 ([AS 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [BBl 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
 [^23-6]: Ausdruck gemäss Ziff. I des BG vom 19. Juni 1987, in Kraft seit 1. Jan. 1988 ([AS 1987 1393](https://fedlex.data.admin.ch/eli/oc/1987/1393_1393_1393); [BBl 1985 I 797](https://fedlex.data.admin.ch/eli/fga/1985/1_797_785_653)).
 [^23-7]: Satz aufgehoben durch Ziff. I des BG vom 18. Dez. 1998, mit Wirkung seit 1. Juli 1999 ([AS 1999 1571](https://fedlex.data.admin.ch/eli/oc/1999/237); BBl **1998** 3418).
@@ -1007,8 +1008,8 @@ Zur Deckung ihrer Verwaltungskosten erheben die Ausgleichskassen von den ihnen a
 <sup>2</sup> Über Beschwerden von Personen im Ausland entscheidet in Abweichung von Artikel 58 Absatz 2 ATSG das Bundesverwaltungsgericht. Der Bundesrat kann vorsehen, dass diese Zuständigkeit dem Versicherungsgericht des Kantons zugewiesen wird, in welchem der Arbeitgeber des Versicherten seinen Wohnsitz oder Sitz hat. Artikel 85<sup>bis</sup> Absätze 2 und 3 AHVG[^24-3] gilt sinngemäss.[^24-4]
 
 [^24-1]: Fassung gemäss Anhang Ziff. 14 des BG vom 6. Okt. 2000 über den Allgemeinen Teil des Sozialversicherungsrechts, in Kraft seit 1. Jan. 2003 ([AS 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [BBl 1991 II 185](https://fedlex.data.admin.ch/eli/fga/1991/2_185__)910, [1994 V 921](https://fedlex.data.admin.ch/eli/fga/1994/5_921__), **1999** 4523).
-[^24-2]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
-[^24-3]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^24-2]: [SR 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
+[^24-3]: [SR 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 [^24-4]: Fassung gemäss Anhang Ziff. 113 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, in Kraft seit 1. Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 #### Art. 25
@@ -1017,7 +1018,7 @@ Zur Deckung ihrer Verwaltungskosten erheben die Ausgleichskassen von den ihnen a
 
 Die Artikel 87–91 des AHVG[^25-1] finden Anwendung auf Personen, die in einer in diesen Bestimmungen umschriebenen Weise die Vorschriften der Erwerbsersatzordnung verletzen.
 
-[^25-1]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^25-1]: [SR 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 
 ## Vierter Abschnitt: Die Finanzierung
 
@@ -1031,7 +1032,7 @@ Die auf Grund dieses Gesetzes zu erbringenden Leistungen werden finanziert durch
 - b. Mittel des Ausgleichsfonds der Erwerbsersatzordnung.
 
 [^26-1]: Fassung gemäss Ziff. I des BG vom 6. März 1959, in Kraft seit 1. Jan. 1960 ([AS 1959 567](https://fedlex.data.admin.ch/eli/oc/1959/567_589_565); [BBl 1958 II 1323](https://fedlex.data.admin.ch/eli/fga/1958/2_1323_1349_)).
-[^26-2]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^26-2]: [SR 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 
 #### Art. 27
 
@@ -1044,11 +1045,11 @@ Die auf Grund dieses Gesetzes zu erbringenden Leistungen werden finanziert durch
 <sup>3</sup> Die Beiträge werden als Zuschläge zu den Beiträgen der Alters- und Hinterlassenenversicherung erhoben. Die Artikel 11 und 14–16 AHVG sind sinngemäss anwendbar mit ihren jeweiligen Abweichungen vom ATSG[^27-6].[^27-7] [^27-8]
 
 [^27-1]: Fassung gemäss Ziff. I des BG vom 6. März 1959, in Kraft seit 1. Jan. 1960 ([AS 1959 567](https://fedlex.data.admin.ch/eli/oc/1959/567_589_565); [BBl 1958 II 1323](https://fedlex.data.admin.ch/eli/fga/1958/2_1323_1349_)).
-[^27-2]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^27-2]: [SR 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 [^27-3]: Fassung gemäss Anhang Ziff. 6 des BG vom 17. Juni 2011 (Verbesserung der Durchführung), in Kraft seit 1. Jan. 2012 ([AS 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [BBl 2011 543](https://fedlex.data.admin.ch/eli/fga/2011/61)).
 [^27-4]: Beitrag gemäss Art. 9 der V vom 28. Aug. 2024 über Anpassungen an die Lohn- und Preisentwicklung bei der AHV/IV/EO ab dem Jahr 2025, in Kraft seit 1. Jan. 2025 ([AS 2024 463](https://fedlex.data.admin.ch/eli/oc/2024/463)).
 [^27-5]: Fassung gemäss Anhang Ziff. 6 des BG vom 17. Juni 2011 (Verbesserung der Durchführung), in Kraft seit 1. Jan. 2012 ([AS 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [BBl 2011 543](https://fedlex.data.admin.ch/eli/fga/2011/61)).
-[^27-6]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^27-6]: [SR 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 [^27-7]: Fassung des zweiten Satzes gemäss Anhang Ziff. 14 des BG vom 6. Okt. 2000 über den Allgemeinen Teil des Sozialversicherungsrechts, in Kraft seit 1. Jan. 2003 ([AS 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [BBl 1991 II 185](https://fedlex.data.admin.ch/eli/fga/1991/2_185__)910, [1994 V 921](https://fedlex.data.admin.ch/eli/fga/1994/5_921__), **1999** 4523).
 [^27-8]: Eingefügt durch Ziff. VII des BG vom 4. Okt. 1968 betreffend Änderung des BG über die Alters- und Hinterlassenenversicherung ([AS 1969 111](https://fedlex.data.admin.ch/eli/oc/1969/111_120_120); [BBl 1968 I 602](https://fedlex.data.admin.ch/eli/fga/1968/1_602_627_671)).
 
@@ -1063,7 +1064,7 @@ Die auf Grund dieses Gesetzes zu erbringenden Leistungen werden finanziert durch
 <sup>3</sup> Die Verwaltung des EO-Ausgleichsfonds richtet sich nach dem Ausgleichsfondsgesetz vom 16. Juni 2017[^28-2].
 
 [^28-1]: Fassung gemäss Ziff. II 6 des Ausgleichsfondsgesetzes vom 16. Juni 2017, in Kraft seit 1. Jan. 2019 ([AS 2017 7563](https://fedlex.data.admin.ch/eli/oc/2017/820); [BBl 2016 311](https://fedlex.data.admin.ch/eli/fga/2016/68)).
-[^28-2]: [SR 830.2](https://fedlex.data.admin.ch/eli/cc/2017/820)
+[^28-2]: [SR 830.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9996)
 
 ## Fünfter Abschnitt: Verhältnis zum europäischen Recht
 
@@ -1098,12 +1099,12 @@ In Bezug auf Personen, für die die Rechtsvorschriften der sozialen Sicherheit d
 <sup>4</sup> Die Ausdrücke «Mitgliedstaaten der Europäischen Union», «Mitgliedstaaten der Europäischen Gemeinschaft», «Staaten der Europäischen Union» und «Staaten der Europäischen Gemeinschaft» im vorliegenden Gesetz bezeichnen die Staaten, für die das Freizügigkeitsabkommen gilt.
 
 [^28a-1]: Fassung gemäss Anhang Ziff. 8 des BB vom 17. Juni 2016 (Ausdehnung des Freizügigkeitsabkommens auf die Republik Kroatien), in Kraft seit 1. Jan. 2017 ([AS 2016 5233](https://fedlex.data.admin.ch/eli/oc/2016/828); [BBl 2016 2223](https://fedlex.data.admin.ch/eli/fga/2016/467)).
-[^28a-2]: [SR 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
-[^28a-3]: Verordnung (EG) Nr. 883/2004 des Europäischen Parlaments und des Rates vom 29. April 2004 zur Koordinierung der Systeme der sozialen Sicherheit ([SR 0.831.109.268.1](https://fedlex.data.admin.ch/eli/cc/2012/323)).
-[^28a-4]: Verordnung (EG) Nr. 987/2009 des Europäischen Parlaments und des Rates vom 16. September 2009 zur Festlegung der Modalitäten für die Durchführung der Verordnung (EG) Nr. 883/2004 über die Koordinierung der Systeme der sozialen Sicherheit ([SR 0.831.109.268.11](https://fedlex.data.admin.ch/eli/cc/2012/356)).
+[^28a-2]: [SR 0.142.112.681](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/211)
+[^28a-3]: Verordnung (EG) Nr. 883/2004 des Europäischen Parlaments und des Rates vom 29. April 2004 zur Koordinierung der Systeme der sozialen Sicherheit ([SR 0.831.109.268.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3724)).
+[^28a-4]: Verordnung (EG) Nr. 987/2009 des Europäischen Parlaments und des Rates vom 16. September 2009 zur Festlegung der Modalitäten für die Durchführung der Verordnung (EG) Nr. 883/2004 über die Koordinierung der Systeme der sozialen Sicherheit ([SR 0.831.109.268.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3725)).
 [^28a-5]: Verordnung (EWG) Nr. 1408/71 des Rates vom 14. Juni 1971 zur Anwendung der Systeme der sozialen Sicherheit auf Arbeitnehmer und Selbstständige sowie deren Familienangehörige, die innerhalb der Gemeinschaft zu- und abwandern; in der jeweils gültigen Fassung des Freizügigkeitsabkommens ([AS 2004 121](https://fedlex.data.admin.ch/eli/oc/2004/11), [2008 4219](https://fedlex.data.admin.ch/eli/oc/2008/604)[4273](https://fedlex.data.admin.ch/eli/oc/2008/605), [2009 4831](https://fedlex.data.admin.ch/eli/oc/2009/573)) bzw. des revidierten EFTA-Übereinkommens.
 [^28a-6]: Verordnung (EWG) Nr. 574/72 des Rates vom 21. März 1972 über die Durchführung der Verordnung (EWG) Nr. 1408/71 zur Anwendung der Systeme der sozialen Sicherheit auf Arbeitnehmer und Selbstständige sowie deren Familienangehörige, die innerhalb der Gemeinschaft zu- und abwandern; in der jeweils gültigen Fassung des Freizügigkeitsabkommens ([AS 2005 3909](https://fedlex.data.admin.ch/eli/oc/2005/540), [2008 4273](https://fedlex.data.admin.ch/eli/oc/2008/605), [2009 621](https://fedlex.data.admin.ch/eli/oc/2009/113)[4845](https://fedlex.data.admin.ch/eli/oc/2009/574)) bzw. des revidierten EFTA-Übereinkommens.
-[^28a-7]: [SR 0.632.31](https://fedlex.data.admin.ch/eli/cc/1960/590_635_621)
+[^28a-7]: [SR 0.632.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2314)
 
 ## Sechster Abschnitt: Schluss- und Übergangsbestimmungen
 
@@ -1121,7 +1122,7 @@ Es gelten sinngemäss die folgenden Bestimmungen des AHVG[^29-2] über:
 - b. die Vergütung und die Übernahme der Kosten (Art. 95 AHVG).
 
 [^29-1]: Fassung gemäss Anhang Ziff. 6 des BG vom 17. Juni 2022 (Modernisierung der Aufsicht), in Kraft seit 1. Jan. 2024 ([AS 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [BBl 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
-[^29-2]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^29-2]: [SR 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 
 #### Art. 29a
 
@@ -1130,7 +1131,7 @@ Es gelten sinngemäss die folgenden Bestimmungen des AHVG[^29-2] über:
 Die Artikel 50*a* und 50*b* AHVG[^29a-2] sind sinngemäss anwendbar.
 
 [^29a-1]: Eingefügt durch Ziff. I des BG vom 23. Juni 2000 ([AS 2000 2770](https://fedlex.data.admin.ch/eli/oc/2000/466); [BBl 2000 255](https://fedlex.data.admin.ch/eli/fga/2000/99)). Fassung gemäss Anhang Ziff. 6 des BG vom 17. Juni 2022 (Modernisierung der Aufsicht), in Kraft seit 1. Jan. 2024 ([AS 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [BBl 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
-[^29a-2]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^29a-2]: [SR 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 
 #### Art. 30
 
