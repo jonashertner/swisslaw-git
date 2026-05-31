@@ -4,28 +4,32 @@ title: Bundesgesetz vom 28. September 1956 über die Allgemeinverbindlicherklär
 short: AVEG
 eli: "https://fedlex.data.admin.ch/eli/cc/1956/1543_1645_1658"
 language: de
-version: 2016-01-01
+version: 2026-06-01
 adopted: 1956-09-28
 in_force: 1957-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1956/1543_1645_1658/20160101/de/xml/fedlex-data-admin-ch-eli-cc-1956-1543_1645_1658-20160101-de-xml-13.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1956/1543_1645_1658/20160101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1956/1543_1645_1658/20260601/de/xml/fedlex-data-admin-ch-eli-cc-1956-1543_1645_1658-20260601-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1956/1543_1645_1658/20260601/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Bundesgesetz über die Allgemeinverbindlicherklärung von Gesamtarbeitsverträgen
 
-vom 28. September 1956 (Stand am 1. Januar 2016)
+(AVEG)[^t-1]
+
+vom 28. September 1956 (Stand am 1. Juni 2026)
+
+[^t-1]: Fassung gemäss Ziff. I des BG vom 26. Sept. 2025 (Einsicht in die Jahresrechnung der für die gemeinsame Durchführung verantwortlichen Organe), in Kraft seit 1. Juni 2026 ([AS 2026 138](https://fedlex.data.admin.ch/eli/oc/2026/138); [BBl 2025 125](https://fedlex.data.admin.ch/eli/fga/2025/125)).
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
-gestützt auf Artikel 34<sup>ter</sup> der Bundesverfassung[^ingress-1], nach Einsicht in eine Botschaft des Bundesrates vom 29. Januar 1954[^ingress-2]<sup>,</sup> [^ingress-3],
+gestützt auf Artikel 34<sup>ter</sup> der Bundesverfassung[^ingress-1],[^ingress-2] nach Einsicht in eine Botschaft des Bundesrates vom 29. Januar 1954[^ingress-3],
 
 beschliesst:
 
 [^ingress-1]: [BS **1** 3; [AS 1976 2001](https://fedlex.data.admin.ch/eli/oc/1976/2001_2001_2001)]. Dieser Bestimmung entspricht Art. 110 der Bundesverfassung vom 18. April 1999 ([SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)).
-[^ingress-2]: [BBl 1954 I 125](https://fedlex.data.admin.ch/eli/fga/1954/1_125_125_253)
-[^ingress-3]: Fassung gemäss Anhang Ziff. 3 des BG vom 8. Okt. 1999 über die in die Schweiz entsandten Arbeitnehmerinnen und Arbeitnehmer, in Kraft seit 1. Juni 2004 ([AS 2003 1370](https://fedlex.data.admin.ch/eli/oc/2003/231); [BBl 1999 6128](https://fedlex.data.admin.ch/eli/fga/1999/1_6128_5440_5092)).
+[^ingress-2]: Fassung gemäss Anhang Ziff. 3 des BG vom 8. Okt. 1999 über die in die Schweiz entsandten Arbeitnehmerinnen und Arbeitnehmer, in Kraft seit 1. Juni 2004 ([AS 2003 1370](https://fedlex.data.admin.ch/eli/oc/2003/231); [BBl 1999 6128](https://fedlex.data.admin.ch/eli/fga/1999/1_6128_5440_5092)).
+[^ingress-3]: [BBl 1954 I 125](https://fedlex.data.admin.ch/eli/fga/1954/1_125_125_253)
 
 ## I. Begriff, Voraussetzungen und Wirkungen
 
@@ -121,7 +125,13 @@ Bestimmungen über Kontrollen, Kautionen und Konventionalstrafen dürfen nur all
 
 <sup>2</sup> Werden Bestimmungen über Ausgleichskassen oder andere Einrichtungen im Sinne von Artikel 323<sup>ter</sup> Absatz 1 Buchstabe *b* des Obligationenrechts[^5-1] allgemeinverbindlich erklärt, so untersteht die Kasse oder Einrichtung der Aufsicht der zuständigen Behörde. Diese hat dafür zu sorgen, dass die Kasse oder Einrichtung ordnungsgemäss geführt wird, und kann zu diesem Zweck von deren Träger die notwendigen Auskünfte verlangen.
 
+<sup>3</sup> Werden Bestimmungen über Beiträge im Sinne von Artikel 3 Absatz 2 Buchstabe b allgemeinverbindlich erklärt, so sind die Organe, die für die gemeinsame Durchführung nach Artikel 357*b* Absatz 1 des Obligationenrechts verantwortlich sind, verpflichtet, jedem Arbeitgeber oder Arbeitnehmer, der dem allgemeinverbindlich erklärten Gesamtarbeitsvertrag untersteht, bezüglich dieser Beiträge auf Verlangen kostenlos Einsicht in die detaillierte Jahresrechnung zu gewähren.[^5-2]
+
+<sup>4</sup> Die Jahresrechnung setzt sich aus der Bilanz, der Erfolgsrechnung und dem Anhang zusammen.[^5-3]
+
 [^5-1]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)**.** Diesem Artikel in der Fassung im Zeitpunkt der Veröffentlichung dieses Gesetzes ([AS 1956 1543](https://fedlex.data.admin.ch/eli/oc/1956/1543_1645_1658)Art. 19) entspricht heute Art. 357*b* Abs. 1 Bst. b in der Fassung vom 25. Juni 1971.
+[^5-2]: Eingefügt durch Ziff. I des BG vom 26. Sept. 2025 (Einsicht in die Jahresrechnung der für die gemeinsame Durchführung verantwortlichen Organe), in Kraft seit 1. Juni 2026 ([AS 2026 138](https://fedlex.data.admin.ch/eli/oc/2026/138); [BBl 2025 125](https://fedlex.data.admin.ch/eli/fga/2025/125)).
+[^5-3]: Eingefügt durch Ziff. I des BG vom 26. Sept. 2025 (Einsicht in die Jahresrechnung der für die gemeinsame Durchführung verantwortlichen Organe), in Kraft seit 1. Juni 2026 ([AS 2026 138](https://fedlex.data.admin.ch/eli/oc/2026/138); [BBl 2025 125](https://fedlex.data.admin.ch/eli/fga/2025/125)).
 
 ### Besonderes Kontrollorgan
 

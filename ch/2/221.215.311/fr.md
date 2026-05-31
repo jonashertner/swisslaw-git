@@ -4,18 +4,22 @@ title: "Loi fédérale du 28 septembre 1956 permettant d'étendre le champ d'app
 short: LECCT
 eli: "https://fedlex.data.admin.ch/eli/cc/1956/1543_1645_1658"
 language: fr
-version: 2016-01-01
+version: 2026-06-01
 adopted: 1956-09-28
 in_force: 1957-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1956/1543_1645_1658/20160101/fr/xml/fedlex-data-admin-ch-eli-cc-1956-1543_1645_1658-20160101-fr-xml-13.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1956/1543_1645_1658/20160101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1956/1543_1645_1658/20260601/fr/xml/fedlex-data-admin-ch-eli-cc-1956-1543_1645_1658-20260601-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1956/1543_1645_1658/20260601/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Loi fédérale permettant d’étendre le champ d’application de la convention collective de travail
 
-du 28 septembre 1956 (État le 1<sup>er</sup> janvier 2016)
+(LECCT)[^t-1]
+
+du 28 septembre 1956 (État le 1<sup>er</sup> juin 2026)
+
+[^t-1]: Nouvelle teneur selon le ch. I de la LF du 26 sept. 2025 (Consultation des comptes annuels des organes chargés de l’exécution commune), en vigueur depuis le 1<sup>er</sup> juin 2026 ([RO 2026 138](https://fedlex.data.admin.ch/eli/oc/2026/138); [FF 2025 125](https://fedlex.data.admin.ch/eli/fga/2025/125)).
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -121,7 +125,13 @@ Quant aux clauses sur les contrôles, les dépôts de cautions et les amendes co
 
 <sup>2</sup> En cas d’extension de clauses concernant des caisses de compensation ou d’autres institutions visées par l’art. 323<sup>ter</sup>, al. 1, let. b, du code des obligations[^5-1], la caisse ou l’institution est soumise à la surveillance de l’autorité compétente. Cette dernière doit veiller à ce que la caisse ou l’institution soit gérée correctement et peut, à cet effet, demander tous renseignements utiles aux organes de gérance.
 
+<sup>3</sup> En cas d’extension de clauses concernant les contributions visées à l’art. 3, al. 2, let. b, les organes chargés de l’exécution commune au sens de l’art. 357*b*, al. 1, du code des obligations sont tenus d’autoriser tout employeur ou tout travailleur soumis à la convention étendue qui en fait la demande à consulter gratuitement les comptes annuels détaillés relatifs à ces contributions.[^5-2]
+
+<sup>4</sup> Les comptes annuels détaillés se composent du bilan, du compte de résultat et de l’annexe.[^5-3]
+
 [^5-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)**.** Àla disp. mentionnée ([RO 1956 1645](https://fedlex.data.admin.ch/eli/oc/1956/1543_1645_1658)art. 19) correspond actuellement l’art. 357*b* al 1 let. b, dans la teneur du 25 juin 1971.
+[^5-2]: Introduit par le ch. I de la LF du 26 sept. 2025 (Consultation des comptes annuels des organes chargés de l’exécution commune), en vigueur depuis le 1<sup>er</sup> juin 2026 ([RO 2026 138](https://fedlex.data.admin.ch/eli/oc/2026/138); [FF 2025 125](https://fedlex.data.admin.ch/eli/fga/2025/125)).
+[^5-3]: Introduit par le ch. I de la LF du 26 sept. 2025 (Consultation des comptes annuels des organes chargés de l’exécution commune), en vigueur depuis le 1<sup>er</sup> juin 2026 ([RO 2026 138](https://fedlex.data.admin.ch/eli/oc/2026/138); [FF 2025 125](https://fedlex.data.admin.ch/eli/fga/2025/125)).
 
 ### Organe spécial de contrôle
 

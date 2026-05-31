@@ -4,18 +4,22 @@ title: Legge federale del 28 settembre 1956 concernente il conferimento del cara
 short: LOCCL
 eli: "https://fedlex.data.admin.ch/eli/cc/1956/1543_1645_1658"
 language: it
-version: 2016-01-01
+version: 2026-06-01
 adopted: 1956-09-28
 in_force: 1957-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1956/1543_1645_1658/20160101/it/xml/fedlex-data-admin-ch-eli-cc-1956-1543_1645_1658-20160101-it-xml-13.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1956/1543_1645_1658/20160101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1956/1543_1645_1658/20260601/it/xml/fedlex-data-admin-ch-eli-cc-1956-1543_1645_1658-20260601-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1956/1543_1645_1658/20260601/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Legge federale concernente il conferimento del carattere obbligatorio generale al contratto collettivo di lavoro
 
-del 28 settembre 1956 (Stato 1° gennaio 2016)
+(LOCCL)[^t-1]
+
+del 28 settembre 1956 (Stato 1° giugno 2026)
+
+[^t-1]: Nuovo testo giusta la cifra I della LF del 26 set. 2025 (Consultazione dei conti annuali degli organi responsabili dell’esecuzione in comune), in vigore dal 1° giu. 2026 ([RU 2026 138](https://fedlex.data.admin.ch/eli/oc/2026/138); [FF 2025 125](https://fedlex.data.admin.ch/eli/fga/2025/125)).
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -121,7 +125,13 @@ Il carattere obbligatorio generale può essere conferito alle disposizioni su i 
 
 <sup>2</sup> Se disposizioni concernenti le casse di compensazione o altre istituzioni, di cui all’articolo 323<sup>ter</sup> capoverso 1 lettera *b* del Codice delle obbligazioni[^5-1], sono dichiarate di carattere obbligatorio generale, le casse o le istituzioni sono sottoposte alla sorveglianza dell’autorità competente. Questa deve vigilare che le casse o le istituzioni siano correttamente amministrate e a questo scopo può domandare agli amministratori ogni indicazione utile.
 
+<sup>3</sup> Se disposizioni sui contributi ai sensi dell’articolo 3 capoverso 2 lettera b sono dichiarate di carattere obbligatorio generale, gli organi responsabili dell’esecuzione in comune secondo l’articolo 357*b* capoverso 1 del Codice delle obbligazioni sono tenuti ad autorizzare ogni datore di lavoro o lavoratore sottoposto al contratto collettivo di lavoro dichiarato di carattere obbligatorio generale che ne fa richiesta a consultare gratuitamente i conti annuali dettagliati relativi a questi contributi.[^5-2]
+
+<sup>4</sup> Il conto annuale si compone del bilancio, del conto economico e dell’allegato.[^5-3]
+
 [^5-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818). Alla disp. cit., nel testo in vigore alla data della presente L ([RU 1956 1658](https://fedlex.data.admin.ch/eli/oc/1956/1543_1645_1658)art. 19), corrisponde ora l’art 357*b*, cpv. 1 lett. b, nel testo del 25 giu. 1971.
+[^5-2]: Introdotto dalla cifra I della LF del 26 set. 2025 (Consultazione dei conti annuali degli organi responsabili dell’esecuzione in comune), in vigore dal 1° giu. 2026 ([RU 2026 138](https://fedlex.data.admin.ch/eli/oc/2026/138); [FF 2025 125](https://fedlex.data.admin.ch/eli/fga/2025/125)).
+[^5-3]: Introdotto dalla cifra I della LF del 26 set. 2025 (Consultazione dei conti annuali degli organi responsabili dell’esecuzione in comune), in vigore dal 1° giu. 2026 ([RU 2026 138](https://fedlex.data.admin.ch/eli/oc/2026/138); [FF 2025 125](https://fedlex.data.admin.ch/eli/fga/2025/125)).
 
 ### Organo speciale di controllo
 
@@ -147,7 +157,7 @@ Il carattere obbligatorio generale può essere conferito alle disposizioni su i 
 
 <sup>2</sup> L’autorità designata dal Cantone è competente a conferire il carattere obbligatorio generale se l’estensione del campo d’applicazione tocca quel solo Cantone in tutto o in parte.
 
-### Domanda di conferimento del carattere obbligatorio generale
+### Domanda di conferimento del carattere obbligatoriogenerale
 
 #### Art. 8
 
