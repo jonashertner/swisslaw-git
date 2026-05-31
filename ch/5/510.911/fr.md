@@ -4,11 +4,11 @@ title: "Ordonnance du 16 décembre 2009 sur les systèmes d'information de l'arm
 short: OSIAr
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/824"
 language: fr
-version: 2025-12-01
+version: 2026-06-01
 adopted: 2009-12-16
 in_force: 2010-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/824/20251201/fr/xml/fedlex-data-admin-ch-eli-cc-2009-824-20251201-fr-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/824/20251201/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/824/20260601/fr/xml/fedlex-data-admin-ch-eli-cc-2009-824-20260601-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/824/20260601/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2009/824/20251201/fr"
 
 (OSIAr)[^t-1]
 
-du 16 décembre 2009 (État le 1<sup>er</sup> décembre 2025)
+du 16 décembre 2009 (État le 1<sup>er</sup> juin 2026)
 
 [^t-1]: Nouvelle teneur selon le ch. I de l’O du 3 mars 2023, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
 
@@ -40,7 +40,7 @@ arrête:
 
 **Objet**[^1-1]
 
-La présente ordonnance règle le traitement des données personnelles (données) concernant des personnes physiques et morales dans les systèmes d’information et lors de l’engagement de moyens de surveillance de l’armée et du Département fédéral de la défense, de la protection de la population et des sports (DDPS) par:
+La présente ordonnance règle le traitement des données personnelles et des données concernant des personnes morales (données) dans les systèmes d’information et lors de l’engagement de moyens de surveillance de l’armée et du Département fédéral de la défense, de la protection de la population et des sports (DDPS) par:[^1-2]
 
 - a. les autorités fédérales et cantonales;
 - b. les commandants et les organes de commandement de l’armée (commandements militaires) et les commandants de la protection civile;
@@ -48,6 +48,7 @@ La présente ordonnance règle le traitement des données personnelles (données
 - d. les tiers accomplissant des tâches liées à l’armée ou à la protection civile ou pour le DDPS.
 
 [^1-1]: Nouvelle teneur selon le ch. I de l’O du 3 mars 2023, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
+[^1-2]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> avr. 2026, en vigueur depuis le 1<sup>er</sup> juin 2026 ([RO 2026 173](https://fedlex.data.admin.ch/eli/oc/2026/173)).
 
 #### Art. 2
 
@@ -200,6 +201,16 @@ Si la LSIA ou la présente ordonnance ne prévoit pas d’autre durée pour la c
 [^2d-1]: Introduit par le ch. I de l’O du 3 mars 2023, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
 [^2d-2]: Nouvelle teneur selon le ch. II de l’O du 3 mars 2023, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
 [^2d-3]: Nouvelle teneur selon le ch. II de l’O du 3 mars 2023, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
+
+#### Art. 2e
+
+**Archivage des données**[^2e-1]
+
+### (art. 8 LSIA)
+
+Les données désignées comme ayant une valeur archivistique doivent être versées aux Archives fédérales.
+
+[^2e-1]: Introduit par le ch. I de l’O du 1<sup>er</sup> avr. 2026, en vigueur depuis le 1<sup>er</sup> juin 2026 ([RO 2026 173](https://fedlex.data.admin.ch/eli/oc/2026/173)).
 
 ## Chapitre 2 Systèmes d’information sur le personnel
 
@@ -479,13 +490,62 @@ Le Groupement Défense donne accès en ligne aux données de l’openIBV aux ser
 
 Les données de l’openIBV sont conservées pendant cinq ans au plus après la fin du contact avec l’étranger.
 
-### Section 5 …
+### Section 5 Système d’information Alumni
 
-#### Art. 20 à 24
+[^chap2-sec5-1]
 
-[^2024-1]
+[^chap2-sec5-1]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> avr. 2026, en vigueur depuis le 1<sup>er</sup> juin 2026 ([RO 2026 173](https://fedlex.data.admin.ch/eli/oc/2026/173)).
 
-[^2024-1]: Abrogés par le ch. I de l’O du 3 mars 2023, avec effet au 1<sup>er</sup> avr. 2023 ([RO 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
+#### Art. 20
+
+**But et organe responsable**
+
+<sup>1</sup>
+
+Le système d’information Alumni sert à l’échange d’informations entre les militaires incorporés et les anciens militaires, afin:
+
+- a. d’entretenir la camaraderie;
+- b. d’élargir le réseau des militaires;
+- c. de contribuer à la bonne réputation de l’armée.
+
+<sup>2</sup> Le commandement de l’Instruction exploite le système d’information Alumni.
+
+#### Art. 21
+
+**Données**
+
+La liste des données contenues dans le système d’information Alumni figure à l’annexe 11.
+
+#### Art. 22
+
+**Création du profil d’utilisateur et collecte des données**
+
+<sup>1</sup> Les militaires incorporés et les anciens militaires qui le souhaitent peuvent créer un profil d’utilisateur dans le système d’information Alumni.
+
+<sup>2</sup>
+
+Les données à cet effet sont collectées:
+
+- a. auprès des personnes qui créent le profil;
+- b. à partir du système SIGEDOS.
+
+#### Art. 23
+
+**Communication des données**
+
+Le commandement de l’Instruction donne accès en ligne aux données du système d’information Alumni:
+
+- a. aux personnes enregistrées dans le système d’information;
+- b. aux autres unités administratives du Groupement Défense, pour autant que les données soient nécessaires à l’accomplissement des tâches que leur assignent la LSIA et la LAAM;
+- c. aux autorités militaires cantonales, afin de vérifier l’exactitude des données fournies par les utilisateurs.
+
+#### Art. 24
+
+**Conservation des données**
+
+<sup>1</sup> Les données du système d’information Alumni sont conservées jusqu’à l’effacement du profil par son titulaire.
+
+<sup>2</sup> Elles sont effacées lorsque le titulaire d’un profil ne s’est pas connecté durant une année.
 
 ### Section 6 Système d’information sur les opérations de vérification
 
@@ -521,45 +581,13 @@ Le Groupement Défense donne accès en ligne aux données du SIOV à ses seuls s
 
 Les données du SIOV sont conservées pendant cinq ans au plus après le départ du pool de personnel.
 
-### Section 7 Système d’information sur les pontonniers
+### Section 7 …
 
-#### Art. 30
+#### Art. 30 à 34
 
-**But et organe responsable**
+[^3034-1]
 
-<sup>1</sup> Le Système d’information sur les pontonniers (SIPONT) sert à l’établissement des livrets de performances militaires, au contrôle des épreuves de performances des cours de pontonniers 1 à 4, au contrôle du permis de conduire militaire pour bateaux, au contrôle des indemnisations dans le domaine de l’instruction prémilitaire et au recrutement comme pontonnier.
-
-<sup>2</sup> Le Groupement Défense[^30-1] exploite le SIPONT.
-
-[^30-1]: Nouvelle expression selon le ch. I de l’O du 10 janv. 2018, en vigueur depuis le 1<sup>er</sup> mars 2018 ([RO 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)). Il a été tenu compte de cette mod. dans tout le texte.
-
-#### Art. 31
-
-**Données**
-
-La liste des données contenues dans le SIPONT figure à l’annexe 13.
-
-#### Art. 32
-
-**Collecte des données**
-
-Le Groupement Défense collecte les données sur l’instruction prémilitaire volontaire des futurs pontonniers destinées à être versées au SIPONT auprès des associations de pontonniers et de navigation et auprès des futurs pontonniers.
-
-#### Art. 33
-
-**Communication des données**
-
-<sup>1</sup> Le Groupement Défense communique, sur demande, les données du SIPONT aux commandements responsables des pontonniers, aux associations de pontonniers et de navigation, aux officiers pontonniers, aux instructeurs pontonniers et aux centres de recrutement.
-
-<sup>2</sup> Il peut donner accès en ligne aux données.
-
-#### Art. 34
-
-**Conservation des données**[^34-1]
-
-Les données du SIPONT sont conservées pendant dix ans après leur saisie.
-
-[^34-1]: Nouvelle teneur selon le ch. I de l’O du 10 janv. 2018, en vigueur depuis le 1<sup>er</sup> mars 2018 ([RO 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)).
+[^3034-1]: Abrogés par le ch. I de l’O du 1<sup>er</sup> avr. 2026, avec effet au 1<sup>er</sup> juin 2026 ([RO 2026 173](https://fedlex.data.admin.ch/eli/oc/2026/173)).
 
 ### Section 8 Système d’information pour l’administration des engagements à l’étranger
 
@@ -579,14 +607,15 @@ Le Groupement Défense exploite le Système d’information pour l’administrat
 
 **But**
 
-Le HYDRA sert le Groupement Défense[^34b-1] dans:
+Le HYDRA sert à:[^34b-1]
 
-- a. la gestion du livret de service des militaires engagés à l’étranger;
+- a.[^34b-2] l’administration des attestations de l’obligation de servir pour les militaires qui effectuent des services à l’étranger;
 - b. l’attribution d’insignes de mission à l’étranger aux personnes participant à des missions de maintien de la paix;
 - c. l’administration des congés;
 - d. l’enregistrement des annonces d’incidents à l’assurance militaire.
 
-[^34b-1]: Nouvelle expression selon le ch. I de l’O du 10 janv. 2018, en vigueur depuis le 1<sup>er</sup> mars 2018 ([RO 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)). Il a été tenu compte de cette mod. dans tout le texte.
+[^34b-1]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> avr. 2026, en vigueur depuis le 1<sup>er</sup> juin 2026 ([RO 2026 173](https://fedlex.data.admin.ch/eli/oc/2026/173)).
+[^34b-2]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> avr. 2026, en vigueur depuis le 1<sup>er</sup> juin 2026 ([RO 2026 173](https://fedlex.data.admin.ch/eli/oc/2026/173)).
 
 #### Art. 34c
 
@@ -867,13 +896,53 @@ Le Groupement Défense donne accès en ligne aux données suivantes du COMIL:
 
 Les données du COMIL sont conservées pendant cinq ans au plus après le désenregistrement des utilisateurs d’un système de communication.
 
-### Section 4 …
+### Section 4 Système d’information BELPLAN
 
-#### Art. 53 à 57
+[^sec3a-sec4-1]
 
-[^5357-1]
+[^sec3a-sec4-1]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> avr. 2026, en vigueur depuis le 1<sup>er</sup> juin 2026 ([RO 2026 173](https://fedlex.data.admin.ch/eli/oc/2026/173)).
 
-[^5357-1]: Abrogés par le ch. I de l’O du 3 mars 2023, avec effet au 1<sup>er</sup> avr. 2023 ([RO 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
+#### Art. 53
+
+**But et organe responsable**
+
+<sup>1</sup>
+
+Le système d’information sur la planification de l’occupation des infrastructures (BELPLAN) sert à la planification globale de l’occupation des infrastructures de l’armée afin:
+
+- a. de préparer les prestations de service à la troupe;
+- b. d’évaluer et optimiser l’utilisation des infrastructures de l’armée.
+
+<sup>2</sup> Le commandement de l’Instruction exploite le BELPLAN.
+
+#### Art. 54
+
+**Données**
+
+La liste des données contenues dans le BELPLAN figure à l’annexe 24.
+
+#### Art. 55
+
+**Collecte des données**
+
+Les données du BELPLAN sont collectées:
+
+- a. auprès des personnes concernées;
+- b. à partir du SIPA.
+
+#### Art. 56
+
+**Communication des données**
+
+Le commandement de l’Instruction peut donner accès en ligne aux données du BELPLAN aux autres unités administratives du Groupement Défense pour leur besoin de planification et de conduite.
+
+#### Art. 57
+
+**Conservation des données**
+
+<sup>1</sup> Les données du BELPLAN sont conservées pendant cinq ans.
+
+<sup>2</sup> Les données relatives aux réservations d’infrastructures sont conservées pendant deux ans.
 
 ### Section 5 Système militaire de dosimétrie
 
@@ -1099,64 +1168,69 @@ La liste des données contenues dans le Système d’information sur la protecti
 
 [^70ter-1]: Introduit par le ch. I de l’O du 3 mars 2023, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
 
-### Section 2 Système de convocation électronique
+### Section 2 Système électronique de convocation et d’alarme
 
 [^chap5-sec2-1][^chap5-sec2-2]
 
 [^chap5-sec2-1]: Introduite par le ch. I de l’O du 26 juin 2013 ([RO 2013 2209](https://fedlex.data.admin.ch/eli/oc/2013/467)). Nouvelle teneur selon le ch. I 1 de l’O du 25 janv. 2017 concernant les obligations militaires durant la transition vers le développement de l’armée, en vigueur depuis le 1<sup>er</sup> juil. 2017 ([RO 2017 487](https://fedlex.data.admin.ch/eli/oc/2017/82)).
-[^chap5-sec2-2]: Nouvelle teneur selon le ch. I de l’O du 3 mars 2023, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
+[^chap5-sec2-2]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> avr. 2026, en vigueur depuis le 1<sup>er</sup> juin 2026 ([RO 2026 173](https://fedlex.data.admin.ch/eli/oc/2026/173)).
 
 #### Art. 70a
 
 **But et organe responsable**[^70a-1]
 
-<sup>1</sup> Le Système de convocation électronique (e-convoc) sert à convoquer les militaires et les membres des états-majors de crise.
+<sup>1</sup> Le système électronique de convocation et d’alarme sert à convoquer ou alarmer les militaires et les membres des états-majors de crise ainsi que les collaborateurs du DDPS qui doivent l’être en raison de leur fonction ou de leurs compétences.
 
-<sup>2</sup> Le Groupement Défense exploite l’e-convoc.
+<sup>2</sup> Le Groupement Défense exploite le système électronique de convocation et d’alarme.
 
-[^70a-1]: Nouvelle teneur selon le ch. I de l’O du 3 mars 2023, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
+[^70a-1]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> avr. 2026, en vigueur depuis le 1<sup>er</sup> juin 2026 ([RO 2026 173](https://fedlex.data.admin.ch/eli/oc/2026/173)).
 
 #### Art. 70b
 
 **Données**[^70b-1]
 
-La liste des données contenues dans l’e-convoc figure à l’annexe 33*a*.
+La liste des données contenues dans le système électronique de convocation et d’alarme figure à l’annexe 33*a*.
 
-[^70b-1]: Nouvelle teneur selon le ch. I de l’O du 3 mars 2023, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
+[^70b-1]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> avr. 2026, en vigueur depuis le 1<sup>er</sup> juin 2026 ([RO 2026 173](https://fedlex.data.admin.ch/eli/oc/2026/173)).
 
 #### Art. 70c
 
 **Collecte des données**[^70c-1]
 
-Les services et personnes responsables de l’e-convoc collectent les données:
+Les services et personnes responsables du système électronique de convocation et d’alarme collectent les données:[^70c-2]
 
 - a. des militaires: dans le SIPA;
-- b. des membres des états-majors de crise: auprès des collaborateurs du DDPS concernés.
+- b.[^70c-3] des membres des états-majors de crise et des collaborateurs du DDPS: auprès des personnes concernées.
 
 [^70c-1]: Nouvelle teneur selon le ch. I de l’O du 3 mars 2023, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
+[^70c-2]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> avr. 2026, en vigueur depuis le 1<sup>er</sup> juin 2026 ([RO 2026 173](https://fedlex.data.admin.ch/eli/oc/2026/173)).
+[^70c-3]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> avr. 2026, en vigueur depuis le 1<sup>er</sup> juin 2026 ([RO 2026 173](https://fedlex.data.admin.ch/eli/oc/2026/173)).
 
 #### Art. 70d
 
 **Communication des données**
 
-Les données ci-après de l’e-convoc sont communiquées aux personnes et organes suivants:[^70d-1]
+Les données ci-après du système électronique de convocation et d’alarme sont communiquées aux personnes et organes suivants:[^70d-1]
 
 - a. l’ensemble des données: aux autorités militaires responsables et aux commandements militaires compétents;
 - b.[^70d-2] les numéros de téléphone et les adresses électroniques nécessaires pour la convocation par voie électronique: aux tiers chargés de la convocation.
 
-[^70d-1]: Nouvelle teneur selon le ch. I de l’O du 3 mars 2023, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
+[^70d-1]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> avr. 2026, en vigueur depuis le 1<sup>er</sup> juin 2026 ([RO 2026 173](https://fedlex.data.admin.ch/eli/oc/2026/173)).
 [^70d-2]: Nouvelle teneur selon le ch. I de l’O du 3 mars 2023, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
 
 #### Art. 70e
 
 **Conservation des données**[^70e-1]
 
-Les données saisies dans l’e-convoc sont conservées au plus tard:
+Les données saisies dans le système électronique de convocation et d’alarme sont conservées au plus tard:[^70e-2]
 
 - a. jusqu’à ce que les militaires soient libérés des obligations militaires;
-- b. jusqu’à ce que les membres des états-majors de crise quittent les états-majors de crise concernés.
+- b. jusqu’à ce que les membres des états-majors de crise quittent les états-majors de crise concernés;
+- c.[^70e-3] jusqu’à ce que les collaborateurs concernés du DDPS quittent le DDPS.
 
 [^70e-1]: Nouvelle teneur selon le ch. I de l’O du 3 mars 2023, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
+[^70e-2]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> avr. 2026, en vigueur depuis le 1<sup>er</sup> juin 2026 ([RO 2026 173](https://fedlex.data.admin.ch/eli/oc/2026/173)).
+[^70e-3]: Introduite par le ch. I de l’O du 1<sup>er</sup> avr. 2026, en vigueur depuis le 1<sup>er</sup> juin 2026 ([RO 2026 173](https://fedlex.data.admin.ch/eli/oc/2026/173)).
 
 ### Section 3 Système d’annonce pour la sécurité des vols
 
@@ -1410,31 +1484,72 @@ Le Groupement Défense communique aux autorités suivantes, par un accès en lig
 
 <sup>3</sup> Les données visées à l’al. 1 peuvent être conservées sous une forme anonymisée.
 
-<sup>4</sup> Les données désignés comme ayant une valeur archivistique doivent être versées aux Archives fédérales.
+<sup>4</sup> …[^72g-1]
 
-### Section 3 …
+[^72g-1]: Abrogé par le ch. I de l’O du 1<sup>er</sup> avr. 2026, avec effet au 1<sup>er</sup> juin 2026 ([RO 2026 173](https://fedlex.data.admin.ch/eli/oc/2026/173)).
 
-#### Art. 72f<sup>bis</sup>
+### Section 3 Système d’information SAT-Admin
 
-**à **72***f*<sup>quinquies</sup> [^72fbis-1]**
+[^chap6-sec3-1]
 
-[^72fbis-1]: Introduits par le ch. I de l’O du 26 juin 2013 ([RO 2013 2209](https://fedlex.data.admin.ch/eli/oc/2013/467)). Abrogés par le ch. I de l’O du 10 janv. 2018, avec effet au 1<sup>er</sup> mars 2018 ([RO 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)).
-
-### Section 4 …
+[^chap6-sec3-1]: Anciennement section 4. Introduite par le ch. I de l’O du 26 juin 2013 ([RO 2013 2209](https://fedlex.data.admin.ch/eli/oc/2013/467)). Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> avr. 2026, en vigueur depuis le 1<sup>er</sup> juin 2026 ([RO 2026 173](https://fedlex.data.admin.ch/eli/oc/2026/173)).
 
 #### Art. 72g<sup>bis</sup>
 
-**à **72***g*<sup>sexies</sup> [^72gbis-1]**
+**But et organe responsable**
 
-[^72gbis-1]: Introduits par le ch. I de l’O du 26 juin 2013 ([RO 2013 2209](https://fedlex.data.admin.ch/eli/oc/2013/467)). Abrogés par le ch. I de l’O du 10 janv. 2018, avec effet au 1<sup>er</sup> mars 2018 ([RO 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)).
+<sup>1</sup>
+
+Le système d’information sur les activités hors du service et de l’instruction prémilitaire (SAT-Admin) sert à la planification, à l’exécution, au contrôle des activités hors du service ainsi qu’à la gestion des personnes membres des organisations suivantes:
+
+- a. les organisations reconnues par l’armée dans le domaine des activités hors du service en vertu des art. 6 et 7 de l’ordonnance du 26 novembre 2003 concernant l’activité hors du service des sociétés et des associations faîtières militaires[^72gbis-1];
+- b. les sociétés militaires ou les associations faîtières militaires à qui l’armée a confié l’organisation des cours d’instruction prémilitaire en vertu de l’art. 3, al. 2, de l’ordonnance du DDPS du 28 novembre 2003 concernant l’instruction prémilitaire[^72gbis-2].
+
+<sup>2</sup> Le commandement de l’instruction exploite le SAT-Admin.
+
+[^72gbis-1]: [RS 512.30](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7432)
+[^72gbis-2]: [RS 512.151](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7404)
+
+#### Art. 72g<sup>ter</sup>
+
+**Données**
+
+La liste des données contenues dans le SAT-Admin figure à l’annexe 35*b*.
+
+#### Art. 72g<sup>quater</sup>
+
+**Collecte des données**
+
+Les données du SAT-Admin sont collectées:
+
+- a. auprès des personnes concernées;
+- b. auprès des organisations visées à l’art. 72*g*<sup>bis</sup>, al. 1.
+
+#### Art. 72g<sup>quinquies</sup>
+
+**Communication des données**
+
+Le commandement de l’Instruction donne accès en ligne au SAT-Admin aux autres unités administratives du Groupement Défense pour leur besoin de planification et de conduite.
+
+#### Art. 72g<sup>sexies</sup>
+
+**Conservation des données**
+
+Les données du système SAT-Admin sont conservées pendant cinq ans après le départ de la personne concernée de l’organisation visée à l’art. 72*g*<sup>bis</sup>, al. 1.
+
+### Section 4 …
+
+[^chap6-sec4-1]
+
+[^chap6-sec4-1]: Introduite par le ch. I de l’O du 26 juin 2013 ([RO 2013 2209](https://fedlex.data.admin.ch/eli/oc/2013/467)). Abrogée par le ch. I de l’O du 10 janv. 2018, avec effet au 1<sup>er</sup> mars 2018 ([RO 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)).
 
 ### Section 4*a* …
 
 #### Art. 72g<sup>septies</sup>
 
-**à **72***g*<sup>undecies</sup> [^72gsepties-1]**
+**à **72***g*<sup>undecies</sup> [^72g-2]**
 
-[^72gsepties-1]: Introduits par le ch. I de l’O du 10 juin 2016 ([RO 2016 2101](https://fedlex.data.admin.ch/eli/oc/2016/342)). Abrogés par le ch. I de l’O du 3 mars 2023, avec effet au 1<sup>er</sup> avr. 2023 ([RO 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
+[^72g-2]: Introduits par le ch. I de l’O du 10 juin 2016 ([RO 2016 2101](https://fedlex.data.admin.ch/eli/oc/2016/342)). Abrogés par le ch. I de l’O du 3 mars 2023, avec effet au 1<sup>er</sup> avr. 2023 ([RO 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
 
 ### Section 5 Recueils auxiliaires de données
 
@@ -1492,37 +1607,48 @@ Les données contenues dans les recueils auxiliaires doivent être conservées d
 
 [^72i72i-1]: Introduits par le ch. I de l’O du 26 juin 2013 ([RO 2013 2209](https://fedlex.data.admin.ch/eli/oc/2013/467)). Abrogés par le ch. I de l’O du 3 mars 2023, avec effet au 1<sup>er</sup> avr. 2023 ([RO 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
 
-### Section 7 Système d’information sur le personnel des unités administratives du DDPS hors du Groupement Défense
+### Section 7 Système d’information sur le personnel du Groupement Défense et d’armasuisse
 
 [^chap6-sec7-1]
 
-[^chap6-sec7-1]: Introduite par le ch. I de l’O du 10 juin 2016, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2016 2101](https://fedlex.data.admin.ch/eli/oc/2016/342)).
+[^chap6-sec7-1]: Introduite par le ch. I de l’O du 10 juin 2016 ([RO 2016 2101](https://fedlex.data.admin.ch/eli/oc/2016/342)). Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> avr. 2026, en vigueur depuis le 1<sup>er</sup> juin 2026 ([RO 2026 173](https://fedlex.data.admin.ch/eli/oc/2026/173)).
 
 #### Art. 72j
 
-**Organe responsable**
+**Organes responsables**
 
-Armasuisse exploite le Système d’information sur le personnel des unités administratives du DDPS hors du Groupement Défense (PSB) pour les unités administratives du DDPS qui ne font pas partie du Groupement Défense et le met à leur disposition.
+<sup>1</sup> Le Groupement Défense exploite le système d’information sur le personnel du Groupement Défense et de l’Office fédéral de l’armement (armasuisse).
+
+<sup>2</sup>
+
+Sont responsables du traitement des données dans le système d’information:
+
+- a. le Groupement Défense, pour les collaborateurs de ses unités administratives subordonnées;
+- b. armasuisse, pour ses collaborateurs.
 
 #### Art. 72j<sup>bis</sup>
 
 **But**
 
-Le PSB sert au traitement des données relatives à la gestion du temps et des prestations du personnel des unités administratives du DDPS qui ne font pas partie du Groupement Défense, au déroulement des processus d’assistance Finances et Logistique et à l’accomplissement des tâches liées à la gestion des biens immobiliers.
+Le système d’information sur le personnel du Groupement Défense et d’armasuisse sert:
+
+- a. au recrutement et à la gestion des collaborateurs concernés;
+- b. à la rémunération des collaborateurs concernés;
+- c. au versement de contributions aux assurances sociales.
 
 #### Art. 72j<sup>ter</sup>
 
 **Données**
 
-La liste des données contenues dans le PSB figure à l’annexe 35*f*.
+La liste des données contenues dans le système d’information sur le personnel du Groupement Défense et d’armasuisse figure à l’annexe 35<sup>bis</sup>.
 
 #### Art. 72j<sup>quater</sup>
 
 **Collecte des données**
 
-Les unités administratives du DDPS qui ne font pas partie du Groupement Défense collectent les données destinées au PSB:
+Le Groupement Défense et armasuisse collectent les données destinées au système d’information sur le personnel du Groupement Défense et d’armasuisse:
 
-- a. auprès des membres du personnel de ces unités administratives;
+- a. auprès des membres du personnel concernés;
 - b. auprès des supérieurs directs des membres du personnel concernés;
 - c. dans l’IGDP.
 
@@ -1530,30 +1656,22 @@ Les unités administratives du DDPS qui ne font pas partie du Groupement Défens
 
 **Communication des données**
 
-<sup>1</sup>
+Le Groupement Défense et armasuisse peuvent donner accès en ligne aux données du système d’information sur le personnel du Groupement Défense et d’armasuisse aux organes et aux personnes suivants:
 
-Les unités administratives du DDPS qui ne font pas partie du Groupement Défense donnent accès en ligne aux données du PSB aux organes et personnes suivants:
-
-- a. les membres du personnel de ces unités administratives pour la consultation de leurs données et leur traitement;
-- b. les services du personnel pour le traitement des données des membres du personnel de leur propre domaine;
-- c. les supérieurs hiérarchiques pour la consultation des données relatives aux personnes qui leur sont subordonnées ainsi que pour le contrôle et la validation des données traitées par lesdites personnes;
-- d. en cas de transfert de personnel au sein du DDPS, les nouveaux services du personnel et les nouveaux supérieurs hiérarchiques, conformément aux let. b et c.
-
-<sup>2</sup>
-
-Elles communiquent les données du PSB:
-
-- a. à l’IGDP;
-- b. au système IAM visé à l’art. 5, al. 1, let. c, OIAM[^72jquinquies-1].[^72jquinquies-2]
-
-[^72jquinquies-1]: [RS 172.010.59](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5039)
-[^72jquinquies-2]: Nouvelle teneur selon le ch. I de l’O du 3 mars 2023, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
+- a. les membres du personnel concernés, pour la consultation de leurs données et leur traitement;
+- b. les services du personnel concernés, pour le traitement des données des membres de leur personnel;
+- c. les supérieurs hiérarchiques, pour la consultation des données relatives aux personnes qui leur sont subordonnées ainsi que pour le contrôle et la validation des données traitées par lesdites personnes;
+- d. en cas de transfert de personnel entre le Groupement Défense et armasuisse, le nouveau service du personnel et les nouveaux supérieurs hiérarchiques, conformément aux let. b et c.
 
 #### Art. 72j<sup>sexies</sup>
 
 **Conservation des données**
 
-Les données des membres du personnel sont conservées dix ans au plus après la fin de leurs rapports de travail avec une unité administrative du DDPS qui ne fait pas partie du Groupement Défense.
+<sup>1</sup> Les données du système d’information sur le personnel du Groupement Défense et d’armasuisse relatives à l’évaluation des membres du personnel concernés sont conservées cinq ans à partir de leur collecte.
+
+<sup>2</sup> Les données relatives à la rémunération des membres du personnel concernés sont conservées pendant dix ans à partir de leur envoi aux membres du personnel.
+
+<sup>3</sup> Les autres données des membres du personnel concernés sont conservées pendant dix ans au plus à partir de la fin de leurs rapports de travail.
 
 ### Section 8 Système d’information de planification et d’aide au vol
 
@@ -1741,49 +1859,51 @@ Annexe 1[^t-2]
 
 ## Organes responsables de la protection des données pour les systèmes d’information du Groupement Défense
 
-[^t-2]: Introduite par le ch. II al. 2 de l’O du 10 janv. 2018 ([RO 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)). Nouvelle teneur selon le ch. III al. 2 de l’O du 3 mars 2023 ([RO 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)). Mise à jour par le ch. II de l’O du 29 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 798](https://fedlex.data.admin.ch/eli/oc/2023/798)).
+[^t-2]: Introduite par le ch. II al. 2 de l’O du 10 janv. 2018 ([RO 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)). Nouvelle teneur selon le ch. III al. 2 de l’O du 3 mars 2023 ([RO 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)). Mise à jour par le ch. II de l’O du 29 nov. 2023 ([RO 2023 798](https://fedlex.data.admin.ch/eli/oc/2023/798)) et le ch. II al. 2 de l’O du 1<sup>er</sup> avr. 2026, en vigueur depuis le 1<sup>er</sup> juin 2026 ([RO 2026 173](https://fedlex.data.admin.ch/eli/oc/2026/173)).
 
 <table>
-<tr><th colspan="2">Système d’information</th><th></th><th>Dispositions LSIA/OSIAr</th><th>Organe responsable de la protection des données</th></tr>
-<tr><td>SIPA</td><td colspan="2">Système d’information sur le personnel de l’armée et de la protection civile</td><td>Art. 12 à 17 LSIA, art. 3 à 5 OSIAr, annexe 1*a* OSIAr</td><td>commandement de l’Instruction (cdmt Instr)</td></tr>
-<tr><td>SIGEDOS</td><td colspan="2">Système d’information pour la gestion de données de service</td><td>Art. 17*a* à 17*f* LSIA, art. 5*a* OSIAr, annexe 1*b* OSIAr</td><td>État-major de l’armée (EM A)</td></tr>
-<tr><td>MEDISA</td><td colspan="2">Système d’information médicale de l’armée</td><td>Art. 24 à 29 LSIA, art. 6 à 7 OSIAr, annexe 2 OSIAr</td><td>BLA</td></tr>
-<tr><td>SIPAT</td><td colspan="2">Systèmes d’information sur les patients</td><td>Art. 30 à 35 LSIA, art. 9 OSIAr, annexe 4 OSIAr</td><td>BLA</td></tr>
-<tr><td>MEDIS FA</td><td colspan="2">Système d’information de médecine aéronautique</td><td>Art. 42 à 47 LSIA, art. 10*a* OSIAr, annexe 5*a* OSIAr</td><td>commandement des Opérations (cdmt Op), Institut de médecine aéronautique</td></tr>
-<tr><td>SIPI CFS</td><td colspan="2">Système d’information sur le personnel d’intervention du commandement des Forces spéciales</td><td>Art. 48 à 53 LSIA, art. 11 OSIAr, annexe 6 OSIAr</td><td>cdmt Op</td></tr>
-<tr><td>SISOC</td><td colspan="2">Système d’information pour l’assistance sociale</td><td>Art. 54 à 59 LSIA, art. 12 OSIAr, annexe 7 OSIAr</td><td>cdmt Instr</td></tr>
-<tr><td>SIP DEF</td><td colspan="2">Système d’information sur le personnel du Groupement Défense</td><td>Art. 60 à 65 LSIA, art. 13 OSIAr, annexe 8 OSIAr</td><td>EM A</td></tr>
-<tr><td>PERETR</td><td colspan="2">Système d’information sur le personnel à l’étranger</td><td>Art. 66 à 71 LSIA, art. 14 OSIAr, annexe 9 OSIAr</td><td>cdmt Op</td></tr>
-<tr><td>SIC SSC</td><td colspan="2">Système d’information et de conduite pour le Service sanitaire coordonné</td><td>Art. 72 à 77 LSIA, art. 35 OSIAr, annexe 14 OSIAr</td><td>BLA</td></tr>
-<tr><td>OpenIBV</td><td colspan="2">Système d’information sur les contacts avec l’étranger</td><td>Art. 15 à 19 OSIAr, annexe 10 OSIAr</td><td>EM A</td></tr>
-<tr><td>SIOV</td><td colspan="2">Système d’information sur les opérations de vérification</td><td>Art. 25 à 29 OSIAr, annexe 12 OSIAr</td><td>EM A</td></tr>
-<tr><td>SIPONT</td><td colspan="2">Système d’information sur les pontonniers</td><td>Art. 30 à 34 OSIAr, annexe 13 OSIAr</td><td>cdmt Instr</td></tr>
-<tr><td>HYDRA</td><td colspan="2">Système d’information pour l’administration des engagements à l’étranger</td><td>Art. 34*a* à 34*f* OSIAr, annexe 13*a* OSIAr</td><td>cdmt Op</td></tr>
-<tr><td>MIL Office</td><td colspan="2">Système d’information pour l’administration des prestations</td><td>Art. 84 à 89 LSIA, art. 37 OSIAr, annexe 16 OSIAr</td><td>cdmt Instr</td></tr>
-<tr><td>SIC FT</td><td colspan="2">Système d’information et de conduite des Forces terrestres</td><td>Art. 102 à 107 LSIA, art. 40 OSIAr, annexe 19 OSIAr</td><td>cdmt Op</td></tr>
-<tr><td>SIC FA</td><td colspan="2">Système d’information et de conduite des Forces aériennes</td><td>Art. 108 à 113 LSIA, art. 41 OSIAr, annexe 20 OSIAr</td><td>cdmt Op</td></tr>
-<tr><td>SICS</td><td colspan="2">Système d’information et de conduite des soldats</td><td>Art. 114 à 119 LSIA, art. 42 OSIAr, annexe 21 OSIAr</td><td>cdmt Op</td></tr>
-<tr><td>PEGASUS</td><td colspan="2">Système d’automatisation et d’aide à la gestion à commande de processus et d’événements</td><td>Art. 52*a* à 52*e* OSIAr, annexe 23*a* OSIAr</td><td>EM A</td></tr>
-<tr><td>COMIL</td><td colspan="2">Système d’information pour la communication militaire</td><td>Art. 52*f* à 52*j* OSIAr, annexe 23*b* OSIAr</td><td>cdmt Op</td></tr>
-<tr><td>SMD</td><td colspan="2">Système militaire de dosimétrie</td><td>Art. 57*a* à 57*e* OSIAr, annexe 24*a* OSIAr</td><td>cdmt Instr</td></tr>
-<tr><td>–</td><td colspan="2">Systèmes de géolocalisation</td><td>Art. 57*f* OSIAr</td><td>EM A, cdmt Op, cdmt Instr, BLA et BAC, pour les systèmes de géolocalisation qu’ils utilisent afin d’accomplir leurs tâches</td></tr>
-<tr><td>SISIM</td><td colspan="2">Systèmes d’information pour les simulateurs</td><td>Art. 120 à 125 LSIA, art. 58 OSIAr, annexe 25 OSIAr</td><td>cdmt Instr</td></tr>
-<tr><td>LMS DDPS</td><td colspan="2">Système d’information pour la gestion de l’instruction</td><td>Art. 126 à 131 LSIA, art. 59 OSIAr, annexe 26 OSIAr</td><td>cdmt Instr</td></tr>
-<tr><td>SI PharmA</td><td colspan="2">Système d’information de la Pharmacie de l’armée sur la formation</td><td>Art. 132 à 137 LSIA, art. 60 OSIAr, annexe 27 OSIAr</td><td>BLA</td></tr>
-<tr><td>SI OCRNA</td><td colspan="2">Système d’information sur la circulation routière et la navigation de l’armée</td><td>Art. 138 à 143 LSIA, art. 61 OSIAr, annexe 28 OSIAr</td><td>BLA</td></tr>
-<tr><td>SPHAIR-Expert</td><td colspan="2">Système d’information pour l’instruction et le perfectionnement aéronautiques</td><td>Art. 143*a* à 143*f* LSIA, art. 61*a* OSIAr, annexe 28*a* OSIAr</td><td>cdmt Op</td></tr>
-<tr><td>SIIC</td><td colspan="2">Système d’information pour l’instruction de conduite</td><td>Art. 143*g* à 143*l* LSIA, art. 61*b* OSIAr, annexe 29 OSIAr</td><td>cdmt Instr</td></tr>
-<tr><td>SICA</td><td colspan="2">Système d’information sur le contrôle d’accès</td><td>Art. 162 à 167 LSIA, art. 70 OSIAr, annexe 33 OSIAr</td><td>EM A</td></tr>
-<tr><td>JORASYS</td><td colspan="2">Système de journal et de rapport de la Police militaire</td><td>Art. 167*a* à 167*f* LSIA, art. 70<sup>bis</sup> OSIAr, annexe 33<sup>bis</sup> OSIAr</td><td>cdmt Op</td></tr>
-<tr><td>SIPPA</td><td colspan="2">Système d’information sur la protection préventive de l’armée</td><td>Art. 167*g* à 167*l* LSIA, art. 70<sup>ter</sup> OSIAr, annexe 33<sup>ter</sup> OSIAr</td><td>cdmt Op</td></tr>
-<tr><td>e-convoc</td><td colspan="2">Système de convocation électronique</td><td>Art. 70*a* à 70*e* OSIAr, annexe 33*a* OSIAr</td><td>cdmt Op</td></tr>
-<tr><td>HARAM</td><td colspan="2">Système électronique d’annonce pour la sécurité des vols «Hazard and Risk Analysis Management»</td><td>Art. 70*f* à 70*k* OSIAr, annexe 33*b* OSIAr</td><td>cdmt Op</td></tr>
-<tr><td>MIL PLATT-FORM</td><td colspan="2">Système d’information «Plateforme militaire»</td><td>Art. 70*q* à 70*u* OSIAr, annexe 33*d* OSIAr</td><td>cdmt Op</td></tr>
-<tr><td>SI IDD</td><td colspan="2">Système d’information concernant l’interface des données de la défense</td><td>Art. 174 à 179 LSIA, art. 72 OSIAr, annexe 35 OSIAr</td><td>BLA</td></tr>
-<tr><td>PSN</td><td colspan="2">Système d’information pour la gestion intégrée des ressources</td><td>Art. 179*a* à 179*f* LSIA, art. 72<sup>bis</sup> OSIAr, annexe 35<sup>bis</sup> OSIAr</td><td>EM A</td></tr>
-<tr><td>SaD</td><td colspan="2">Système d’information du tir hors du service</td><td>Art. 179*g* à 179*l* LSIA, art. 72<sup>ter</sup> OSIAr, annexe 35<sup>ter</sup> OSIAr</td><td>cdmt Instr</td></tr>
-<tr><td>PAV</td><td colspan="2">Système d’information de planification et d’aide au vol</td><td>Art. 72*k* à 72*k*<sup>quinquies</sup> OSIAr, annexe 35*g* OSIAr</td><td>cdmt Op</td></tr>
-<tr><td>Système FoD</td><td colspan="2">Système d’information Fit on Duty</td><td>Art. 72*a* à 72*g* OSIAr, annexe 35*a* OSIAr</td><td>Commandement de l’Instruction (cdmt Instr)</td></tr>
+<tr><th colspan="2">Système d’information</th><th>Dispositions LSIA/OSIAr</th><th>Organe responsable de la protection des données</th></tr>
+<tr><td>SIPA</td><td>Système d’information sur le personnel de l’armée et de la protection civile</td><td>Art. 12 à 17 LSIA, art. 3 à 5 OSIAr, annexe 1*a* OSIAr</td><td>commandement de l’Instruction (cdmt Instr)</td></tr>
+<tr><td>SIGEDOS</td><td>Système d’information pour la gestion de données de service</td><td>Art. 17*a* à 17*f* LSIA, art. 5*a* OSIAr, annexe 1*b* OSIAr</td><td>État-major de l’armée (EM A)</td></tr>
+<tr><td>MEDISA</td><td>Système d’information médicale de l’armée</td><td>Art. 24 à 29 LSIA, art. 6 à 7 OSIAr, annexe 2 OSIAr</td><td>BLA</td></tr>
+<tr><td>SIPAT</td><td>Systèmes d’information sur les patients</td><td>Art. 30 à 35 LSIA, art. 9 OSIAr, annexe 4 OSIAr</td><td>BLA</td></tr>
+<tr><td>MEDIS FA</td><td>Système d’information de médecine aéronautique</td><td>Art. 42 à 47 LSIA, art. 10*a* OSIAr, annexe 5*a* OSIAr</td><td>commandement des Opérations (cdmt Op), Institut de médecine aéronautique</td></tr>
+<tr><td>SIPI CFS</td><td>Système d’information sur le personnel d’intervention du commandement des Forces spéciales</td><td>Art. 48 à 53 LSIA, art. 11 OSIAr, annexe 6 OSIAr</td><td>cdmt Op</td></tr>
+<tr><td>SISOC</td><td>Système d’information pour l’assistance sociale</td><td>Art. 54 à 59 LSIA, art. 12 OSIAr, annexe 7 OSIAr</td><td>cdmt Instr</td></tr>
+<tr><td>SIP DEF</td><td>Système d’information sur le personnel du Groupement Défense</td><td>Art. 60 à 65 LSIA, art. 13 OSIAr, annexe 8 OSIAr</td><td>EM A</td></tr>
+<tr><td>PERETR</td><td>Système d’information sur le personnel à l’étranger</td><td>Art. 66 à 71 LSIA, art. 14 OSIAr, annexe 9 OSIAr</td><td>cdmt Op</td></tr>
+<tr><td>SIC SSC</td><td>Système d’information et de conduite pour le Service sanitaire coordonné</td><td>Art. 72 à 77 LSIA, art. 35 OSIAr, annexe 14 OSIAr</td><td>BLA</td></tr>
+<tr><td>OpenIBV</td><td>Système d’information sur les contacts avec l’étranger</td><td>Art. 15 à 19 OSIAr, annexe 10 OSIAr</td><td>EM A</td></tr>
+<tr><td>SIOV</td><td>Système d’information sur les opérations de vérification</td><td>Art. 25 à 29 OSIAr, annexe 12 OSIAr</td><td>EM A</td></tr>
+<tr><td>HYDRA</td><td>Système d’information pour l’administration des engagements à l’étranger</td><td>Art. 34*a* à 34*f* OSIAr, annexe 13*a* OSIAr</td><td>cdmt Op</td></tr>
+<tr><td>MIL Office</td><td>Système d’information pour l’administration des prestations</td><td>Art. 84 à 89 LSIA, art. 37 OSIAr, annexe 16 OSIAr</td><td>cdmt Instr</td></tr>
+<tr><td>SIC FT</td><td>Système d’information et de conduite des Forces terrestres</td><td>Art. 102 à 107 LSIA, art. 40 OSIAr, annexe 19 OSIAr</td><td>cdmt Op</td></tr>
+<tr><td>SIC FA</td><td>Système d’information et de conduite des Forces aériennes</td><td>Art. 108 à 113 LSIA, art. 41 OSIAr, annexe 20 OSIAr</td><td>cdmt Op</td></tr>
+<tr><td>SICS</td><td>Système d’information et de conduite des soldats</td><td>Art. 114 à 119 LSIA, art. 42 OSIAr, annexe 21 OSIAr</td><td>cdmt Op</td></tr>
+<tr><td>PEGASUS</td><td>Système d’automatisation et d’aide à la gestion à commande de processus et d’événements</td><td>Art. 52*a* à 52*e* OSIAr, annexe 23*a* OSIAr</td><td>EM A</td></tr>
+<tr><td>COMIL</td><td>Système d’information pour la communication militaire</td><td>Art. 52*f* à 52*j* OSIAr, annexe 23*b* OSIAr</td><td>cdmt Op</td></tr>
+<tr><td>SMD</td><td>Système militaire de dosimétrie</td><td>Art. 57*a* à 57*e* OSIAr, annexe 24*a* OSIAr</td><td>cdmt Instr</td></tr>
+<tr><td>–</td><td>Systèmes de géolocalisation</td><td>Art. 57*f* OSIAr</td><td>EM A, cdmt Op, cdmt Instr, BLA et BAC, pour les systèmes de géolocalisation qu’ils utilisent afin d’accomplir leurs tâches</td></tr>
+<tr><td>SISIM</td><td>Systèmes d’information pour les simulateurs</td><td>Art. 120 à 125 LSIA, art. 58 OSIAr, annexe 25 OSIAr</td><td>cdmt Instr</td></tr>
+<tr><td>LMS DDPS</td><td>Système d’information pour la gestion de l’instruction</td><td>Art. 126 à 131 LSIA, art. 59 OSIAr, annexe 26 OSIAr</td><td>cdmt Instr</td></tr>
+<tr><td>SI PharmA</td><td>Système d’information de la Pharmacie de l’armée sur la formation</td><td>Art. 132 à 137 LSIA, art. 60 OSIAr, annexe 27 OSIAr</td><td>BLA</td></tr>
+<tr><td>SI OCRNA</td><td>Système d’information sur la circulation routière et la navigation de l’armée</td><td>Art. 138 à 143 LSIA, art. 61 OSIAr, annexe 28 OSIAr</td><td>BLA</td></tr>
+<tr><td>SPHAIR-Expert</td><td>Système d’information pour l’instruction et le perfectionnement aéronautiques</td><td>Art. 143*a* à 143*f* LSIA, art. 61*a* OSIAr, annexe 28*a* OSIAr</td><td>cdmt Op</td></tr>
+<tr><td>SIIC</td><td>Système d’information pour l’instruction de conduite</td><td>Art. 143*g* à 143*l* LSIA, art. 61*b* OSIAr, annexe 29 OSIAr</td><td>cdmt Instr</td></tr>
+<tr><td>SICA</td><td>Système d’information sur le contrôle d’accès</td><td>Art. 162 à 167 LSIA, art. 70 OSIAr, annexe 33 OSIAr</td><td>EM A</td></tr>
+<tr><td>JORASYS</td><td>Système de journal et de rapport de la Police militaire</td><td>Art. 167*a* à 167*f* LSIA, art. 70<sup>bis</sup> OSIAr, annexe 33<sup>bis</sup> OSIAr</td><td>cdmt Op</td></tr>
+<tr><td>SIPPA</td><td>Système d’information sur la protection préventive de l’armée</td><td>Art. 167*g* à 167*l* LSIA, art. 70<sup>ter</sup> OSIAr, annexe 33<sup>ter</sup> OSIAr</td><td>cdmt Op</td></tr>
+<tr><td>–</td><td>Système électronique de convocation et d’alarme</td><td>Art. 70*a* à 70*e* OSIAr, annexe 33*a* OSIAr</td><td>cdmt Instr</td></tr>
+<tr><td>HARAM</td><td>Système électronique d’annonce pour la sécurité des vols «Hazard and Risk Analysis Management»</td><td>Art. 70*f* à 70*k* OSIAr, annexe 33*b* OSIAr</td><td>cdmt Op</td></tr>
+<tr><td>MIL PLATT-FORM</td><td>Système d’information «Plateforme militaire»</td><td>Art. 70*q* à 70*u* OSIAr, annexe 33*d* OSIAr</td><td>cdmt Op</td></tr>
+<tr><td>SI IDD</td><td>Système d’information concernant l’interface des données de la défense</td><td>Art. 174 à 179 LSIA, art. 72 OSIAr, annexe 35 OSIAr</td><td>BLA</td></tr>
+<tr><td>PSN</td><td>Système d’information pour la gestion intégrée des ressources</td><td>Art. 179*a* à 179*f* LSIA, art. 72<sup>bis</sup> OSIAr, annexe 35<sup>bis</sup> OSIAr</td><td>EM A</td></tr>
+<tr><td>SaD</td><td>Système d’information du tir hors du service</td><td>Art. 179*g* à 179*l* LSIA, art. 72<sup>ter</sup> OSIAr, annexe 35<sup>ter</sup> OSIAr</td><td>cdmt Instr</td></tr>
+<tr><td>PAV</td><td>Système d’information de planification et d’aide au vol</td><td>Art. 72*k* à 72*k*<sup>quinquies</sup> OSIAr, annexe 35*g* OSIAr</td><td>cdmt Op</td></tr>
+<tr><td>Système FoD</td><td>Système d’information Fit on Duty</td><td>Art. 72*a* à 72*g* OSIAr, annexe 35*a* OSIAr</td><td>Commandement de l’Instruction (cdmt Instr)</td></tr>
+<tr><td>Alumni</td><td>Système d’information Alumni</td><td>Art. 20 à 24 OSIAr, annexe 11 OSIAr</td><td>cdmt Instr</td></tr>
+<tr><td>BELPLAN</td><td>Système d’information sur la planification de l’occupation des infrastructures</td><td>Art. 53 à 57 OSIAr, annexe 24 OSIAr</td><td>cdmt Instr</td></tr>
+<tr><td>SAT-Admin</td><td>Système d’information sur les activités hors du service et de l’instruction prémilitaire</td><td>Art. 72*g*<sup>bis</sup> à 72*g*<sup>sexies</sup> OSIAr annexe 35*b*</td><td>cdmt Instr</td></tr>
 </table>
 
 Annexe 1a[^t-3]
@@ -1792,7 +1912,7 @@ Annexe 1a[^t-3]
 
 ## Données du SIPA
 
-[^t-3]: Anciennement annexe 1. Nouvelle teneur selon le ch. III al. 2 de l’O du 3 mars 2023, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
+[^t-3]: Anciennement annexe 1. Nouvelle teneur selon le ch. III al. 2 de l’O du 3 mars 2023 ([RO 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)). Mise à jour par le ch. II al. 2 de l’O du 1<sup>er</sup> avr. 2026, en vigueur depuis le 1<sup>er</sup> juin 2026 ([RO 2026 173](https://fedlex.data.admin.ch/eli/oc/2026/173)).
 
 ### 1 Données des conscrits, des personnes astreintes au service militaire, et des civils pris en charge par la troupe ou qui participent à un engagement de l’armée de durée déterminée
 
@@ -1815,8 +1935,14 @@ Annexe 1a[^t-3]
 - 1\.1.15 Numéros de téléphone et de télécopie
 - 1\.1.16 Adresse électronique
 - 1\.1.17 Adresse postale
-- 1\.1.18 Identité électronique (e-ID)
+- 1\.1.18 Identité électronique (e-ID; dès l’entrée en vigueur de la loi du 20 décembre 2024 sur l’e-ID[^annex1a-lvlu1-lvl1-lvl11-1])
 - 1\.1.19 Statut de Suisse de l’étranger
+- 1\.1.20 Numéro de client SwissPass
+- 1\.1.21 Coordonnées bancaires
+- 1\.1.22 Données relatives à l’utilisation de certificats électroniques d’identification
+- 1\.1.23 Statut dans le SIGEDOS
+
+[^annex1a-lvlu1-lvl1-lvl11-1]: [FF 2025 20](https://fedlex.data.admin.ch/eli/fga/2025/20)
 
 ### 1.2 Données de contrôle
 
@@ -1832,7 +1958,7 @@ Annexe 1a[^t-3]
 
 - 1\.3.1 Données pour l’établissement de l’ordre de marche pour la journée d’information et le recrutement
 - 1\.3.2 Information sur la participation à la journée d’information
-- 1\.3.3 Date de recrutement souhaitée
+- 1\.3.3 Date du début de l’école de recrue souhaitée
 - 1\.3.4
 
   Données organisationnelles telles que:
@@ -1846,8 +1972,8 @@ Annexe 1a[^t-3]
 - 1\.3.7 Date et lieu du recrutement, heure d’entrée en service
 - 1\.3.8 Durée du recrutement / des examens
 - 1\.3.9 Nombre de jours de recrutement effectués
-- 1\.3.10 Statut des participants à un cycle d’exploitation (notification établie/actualisée/close, avis de service/ordre de marche imprimé/envoyé, convocation, dispense, entrée en service/non entrée en service, licenciement régulier/administratif/lors de la visite sanitaire d’entrée [VSE])
-- 1\.3.11 Remarques de service et code de contrôle de l’obligation de servir en lien avec le recrutement et l’attribution
+- 1\.3.10 Statut des participants à un cycle d’exploitation
+- 1\.3.11 Données nécessaires à l’établissement d’une convocation
 - 1\.3.12 Données requises pour l’attribution en rapport avec les contingents des écoles et des cantons
 - 1\.3.13 Données statistiques comprenant les indicateurs provenant d’un cycle de recrutement, destinées aux organes compétents de la Confédération et des cantons
 
@@ -1957,7 +2083,7 @@ Annexe 1a[^t-3]
 - 1\.6.20 Distinction spéciale ou certificat de capacité militaires, avec l’année de l’obtention ou du renouvellement
 - 1\.6.21 Première remise d’une distinction
 - 1\.6.22 Appréciation et recommandation en vue d’une fonction de cadre niveaux II à IV et Z
-- 1\.6.23 Examen d’aptitude et contrôle de sécurité relatif aux personnes, avec la décision, le type et la date de l’examen et du contrôle
+- 1\.6.23 Données relatives au contrôle de sécurité relatif aux personnes, en particulier l’ouverture, la date et le type de contrôle effectué avec la décision
 - 1\.6.24 Examen d’intégrité avec la recommandation (réussi/non réussi) et la date de l’examen du militaire pour la fonction de responsable de la comptabilité de la troupe
 - 1\.6.25 Données sur l’établissement du permis de conduire militaire et interdiction d’obtention ou de détention d’un permis de conduire militaire
 - 1\.6.26 Désignation particulière des militaires accomplissant un service de promotion de la paix
@@ -1971,6 +2097,9 @@ Annexe 1a[^t-3]
 - 1\.6.34 Libération du service militaire ou du Service Croix-Rouge
 - 1\.6.35 Perte de la nationalité suisse
 - 1\.6.36 Décès et remarques de service et informations relatives à la date du décès telles que «décédé durant le SIB», «décédé pendant le SP trp», «décédé en cours d’engagement à l’étranger» ou «décédé hors du service»
+- 1\.6.37 Dossiers complets des candidats officiers généraux, y compris les résultats des examens
+- 1\.6.38 Certificat d’attestation des obligations militaires
+- 1\.6.39 Données relatives à l’aptitude au service
 
 [^annex1a-lvlu1-lvl1-lvl16-1]: [RS 514.54](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7530)
 [^annex1a-lvlu1-lvl1-lvl16-2]: [RS 513.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7453)
@@ -1987,6 +2116,7 @@ Annexe 1a[^t-3]
 - 1\.7.8 Nombre des jours de service accomplis et des jours de service encore dus par la personne astreinte au service militaire
 - 1\.7.9 Programmes de formation, contingents, inscription aux cours, vue d’ensemble des cours et liste d’attente
 - 1\.7.10 Planification de la carrière et de l’avancement, objectifs et possibilités de carrière et profils d’exigences
+- 1\.7.11 Données relatives à l’établissement d’une convocation officielle
 
 ### 1.8 Statut au regard de la loi sur l’armée
 
@@ -1999,8 +2129,8 @@ Annexe 1a[^t-3]
 - 1\.8.7 Admission au service militaire sans arme conformément à l’art. 16 LAAM
 - 1\.8.8 Exemption du service d’instruction et du service d’appui conformément à l’art. 17 LAAM
 - 1\.8.9 Exclusion du service militaire conformément aux art. 21 à 24 LAAM
-- 1\.8.10 Retrait du commandement ou de la fonction conformément à l’art. 24 LAAM
-- 1\.8.11 Inaptitude au service militaire
+- 1\.8.10 Statut des rapports de travail au sein du Groupement Défense
+- 1\.8.11 Statut de militaire de carrière
 - 1\.8.12 Libération temporaire du service militaire conformément à l’art. 61 LAAM; fournir les données du requérant (numéro, désignation / nom, coordonnées)
 - 1\.8.13 Dispense du service d’appui et du service actif conformément à l’art. 145 LAAM, avec l’indication de la date de la décision, du numéro du demandeur et de la tâche indispensable
 - 1\.8.14 Admission au service civil conformément à l’art. 10 de la loi fédérale du 6 octobre 1995 sur le service civil[^annex1a-lvlu1-lvl1-lvl18-1]
@@ -2009,6 +2139,7 @@ Annexe 1a[^t-3]
 - 1\.8.17 Statut de personnel militaire ou de juge/de juge suppléant conformément à la procédure pénale militaire du 23 mars 1979[^annex1a-lvlu1-lvl1-lvl18-2]
 - 1\.8.18 Date de la justification ou de la modification du statut
 - 1\.8.19 Incorporation dans des groupes d’engagement en rapport avec l’évaluation de la fonction
+- 1\.8.20 Statut de l’obligation de rembourser les coûts de formation conformément à l’art. 40*c* LAAM
 
 [^annex1a-lvlu1-lvl1-lvl18-1]: [RS 824.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9978)
 [^annex1a-lvlu1-lvl1-lvl18-2]: [RS 322.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6248)
@@ -2038,13 +2169,13 @@ Annexe 1a[^t-3]
 - 1\.10.2 Adresse de parents ou adresse d’urgence avec numéros de téléphone, de télécopie et adresses électroniques
 - 1\.10.3 Prolongation volontaire du service militaire
 - 1\.10.4 Blocage de la transmission de données conformément à l’art. 16, al. 4, LSIA
-- 1\.10.5 Coordonnées de payement
 
 ### 1.11 Contrôle des affaires et gestion de la correspondance
 
 - 1\.11.1 Contrôle des affaires, avec la date des différents incidents et le service chargé de la modification
 - 1\.11.2 Gestion électronique des documents, y compris la correspondance concernant les déplacements de service, les contrôles, les qualifications et la déclaration de consentement en vue de la réalisation d’un contrôle de sécurité relatif aux personnes
 - 1\.11.3 Données pour la sélection des cadres et le contrôle de la procédure dans le cadre des qualifications et des mutations dans l’armée
+- 1\.11.4 Caractéristiques et données d’utilisateur ainsi que leur statut
 
 ### 1.12 Indemnités de formation
 
@@ -2057,13 +2188,7 @@ Annexe 1a[^t-3]
 
 A. Données concernant la personne prise en charge
 
-- 1\.13.1 Situation sur le marché du travail
-- 1\.13.2 Conditions sociales de logement
-- 1\.13.3 Enfance
-- 1\.13.4 Diplôme le plus élevé obtenu
-- 1\.13.5 Fonction militaire actuelle et type de service en cours
-- 1\.13.6 Nom, prénom, adresse, lieu de domicile, numéro de téléphone du père, de la mère ou d’un proche
-- 1\.13.7 Pays d’origine de la mère/du père
+- 1\.13.1 à 1.13.7 …
 - 1\.13.8 État psychique
 - 1\.13.9 Anamnèse biographique sur les caractéristiques psychiques
 - 1\.13.10 Résultats des tests psychologiques
@@ -2090,6 +2215,13 @@ B. Rapport
 - 1\.13.28 Avis concernant la procédure
 - 1\.13.29 Motif de la procédure
 - 1\.13.30 Personne prenant la décision relative à la procédure
+
+### 1.14 Double nationaux
+
+- 1\.14.1 Nom dans l’autre État
+- 1\.14.2 Lieu de naissance
+- 1\.14.3 Lieu de résidence
+- 1\.14.4 Noms et prénoms des parents
 
 ### 2 Données des personnes astreintes à servir dans la protection civile ainsi que des personnes qui, sans pouvoir prétendre à des allocations pour perte de gain, sont mises à contribution pour des engagements de durée limitée, assurent des formations, prennent part à des formations ou sont actives en tant que comptables au sein de la protection civile
 
@@ -2213,7 +2345,7 @@ Annexe 1b[^t-4]
 
 ## Données du SIGEDOS
 
-[^t-4]: Introduite par le ch. III al. 1 de l’O du 3 mars 2023 ([RO 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)). Mise à jour par l’annexe ch. 3 de l’O du 20 nov. 2024 (Numérisation dans le régime des APG: phase d’introduction du système d’information), en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 719](https://fedlex.data.admin.ch/eli/oc/2024/719)).
+[^t-4]: Introduite par le ch. III al. 1 de l’O du 3 mars 2023 ([RO 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)). Mise à jour par l’annexe ch. 3 de l’O du 20 nov. 2024 (Numérisation dans le régime des APG: phase d’introduction du système d’information) ([RO 2024 719](https://fedlex.data.admin.ch/eli/oc/2024/719)) et le ch. II al. 2 de l’O du 1<sup>er</sup> avr. 2026, en vigueur depuis le 1<sup>er</sup> juin 2026 ([RO 2026 173](https://fedlex.data.admin.ch/eli/oc/2026/173)).
 
 ### 1 Données des conscrits, des personnes astreintes au service militaire, ainsi que des civils pris en charge par la troupe ou qui participent à un engagement de l’armée de durée déterminée
 
@@ -2237,6 +2369,7 @@ Annexe 1b[^t-4]
 - 1\.1.16 Lieu d’origine
 - 1\.1.17 Canton d’origine
 - 1\.1.18 Langue
+- 1\.1.19 Numéro de client SwissPass
 
 ### 1.2 Recrutement
 
@@ -2247,7 +2380,7 @@ Annexe 1b[^t-4]
 - 1\.2.5 Arme d’affectation lors du recrutement
 - 1\.2.6 Fonction d’affectation lors du recrutement et en cas de deuxième affectation
 - 1\.2.7 Année de recrutement
-- 1\.2.8 Commandant du centre de recrutement et sa signature
+- 1\.2.8 Officier recruteur responsable
 - 1\.2.9 Attribution et affectation de personnes à l’armée conformément à l’art. 6 LAAM
 - 1\.2.10 Fonction souhaitée
 - 1\.2.11 Début souhaité de l’école de recrues
@@ -2881,7 +3014,23 @@ Annexe 10[^t-13]
 
 Annexe 11[^t-14]
 
-[^t-14]: Abrogée par le ch. III al. 4 de l’O du 3 mars 2023, avec effet au 1<sup>er</sup> avr. 2023 ([RO 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
+(art. 21)
+
+## Données du système d’information Alumni
+
+[^t-14]: Nouvelle teneur selon le ch. II al. 1 de l’O du 1<sup>er</sup> avr. 2026, en vigueur depuis le 1<sup>er</sup> juin 2026 ([RO 2026 173](https://fedlex.data.admin.ch/eli/oc/2026/173)).
+
+- 1\. Nom
+- 2\. Prénom
+- 3\. Sexe
+- 4\. Date de naissance
+- 5\. Lieu d’origine
+- 6\. Adresse de domicile
+- 7\. Commune de résidence
+- 8\. Numéro de téléphone
+- 9\. Adresse électronique
+- 10\. Langues parlées
+- 11\. Unités d’incorporation
 
 Annexe 12
 
@@ -2902,29 +3051,17 @@ Annexe 12
 - 11\. Opérations antérieures
 - 12\. Cours d’instruction pour vérificateurs suivis
 
-Annexe 13
+Annexe 13[^t-15]
 
-(art. 31)
+[^t-15]: Abrogée par le ch. II al. 3 de l’O du 1<sup>er</sup> avr. 2026, avec effet au 1<sup>er</sup> juin 2026 ([RO 2026 173](https://fedlex.data.admin.ch/eli/oc/2026/173)).
 
-## Données du SIPONT
-
-- 1\. Identité
-- 2\. Adresse
-- 3\. Numéro de téléphone
-- 4\. Nationalité et lieu d’origine
-- 5\. Proposition de recrutement
-- 6\. Cours de pontonniers
-- 7\. Indemnisations
-- 8\. Aptitude au service militaire (oui/non)
-- 9\. Identité, adresses, numéros de téléphone et numéro AVS des inspecteurs des examens de performance
-
-Annexe 13a[^t-15]
+Annexe 13a[^t-16]
 
 (art. 34*c*)
 
 ## Données du HYDRA
 
-[^t-15]: Introduit par l’annexe 4 ch. II de l’O du 26 oct. 2011 concernant la protection des données personnelles du personnel de la Confédération, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 5589](https://fedlex.data.admin.ch/eli/oc/2011/786)). Nouvelle teneur selon le ch. II al. 1 de l’O du 26 juin 2013, en vigueur depuis le 1<sup>er</sup> août 2013 ([RO 2013 2209](https://fedlex.data.admin.ch/eli/oc/2013/467)).
+[^t-16]: Introduit par l’annexe 4 ch. II de l’O du 26 oct. 2011 concernant la protection des données personnelles du personnel de la Confédération, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 5589](https://fedlex.data.admin.ch/eli/oc/2011/786)). Nouvelle teneur selon le ch. II al. 1 de l’O du 26 juin 2013, en vigueur depuis le 1<sup>er</sup> août 2013 ([RO 2013 2209](https://fedlex.data.admin.ch/eli/oc/2013/467)).
 
 - 1\. Nom
 - 2\. Prénom
@@ -2980,17 +3117,17 @@ Annexe 14
 
 [^annex14-lvlu1-1]: [RS 811.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9259)
 
-Annexe 15[^t-16]
+Annexe 15[^t-17]
 
-[^t-16]: Abrogée par le ch. II al. 2 de l’O du 26 juin 2013, avec effet au 1<sup>er</sup> août 2013 ([RO 2013 2209](https://fedlex.data.admin.ch/eli/oc/2013/467)).
+[^t-17]: Abrogée par le ch. II al. 2 de l’O du 26 juin 2013, avec effet au 1<sup>er</sup> août 2013 ([RO 2013 2209](https://fedlex.data.admin.ch/eli/oc/2013/467)).
 
-Annexe 16[^t-17]
+Annexe 16[^t-18]
 
 (art. 37)
 
 ## Données du MIL Office
 
-[^t-17]: Mise à jour par le ch. II al. 1 de l’O du 26 juin 2013 ([RO 2013 2209](https://fedlex.data.admin.ch/eli/oc/2013/467)) et le ch. II al. 4 de l’O du 10 janv. 2018, en vigueur depuis le 1<sup>er</sup> mars 2018 ([RO 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)).
+[^t-18]: Mise à jour par le ch. II al. 1 de l’O du 26 juin 2013 ([RO 2013 2209](https://fedlex.data.admin.ch/eli/oc/2013/467)) et le ch. II al. 4 de l’O du 10 janv. 2018, en vigueur depuis le 1<sup>er</sup> mars 2018 ([RO 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)).
 
 - 1\. Données (nom, prénom, adresse, adresse de personnes à contacter en cas d’urgence, données de contact, etc.)
 - 2\. Incorporation
@@ -3005,13 +3142,13 @@ Annexe 16[^t-17]
 - 11\. Données concernant les absences et les services commandés
 - 12\. Données pour l’administration et l’attribution de matériel de l’armée à l’échelon de l’unité
 
-Annexe 17[^t-18]
+Annexe 17[^t-19]
 
 (art. 38, al. 1)
 
 ## Données du SIGC
 
-[^t-18]: Nouvelle teneur selon le ch. II al. 2 de l’O du 10 juin 2016 ([RO 2016 2101](https://fedlex.data.admin.ch/eli/oc/2016/342)). Mise à jour par le ch. II al. 4 de l’O du 10 janv. 2018, en vigueur depuis le 1<sup>er</sup> mars 2018 ([RO 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)).
+[^t-19]: Nouvelle teneur selon le ch. II al. 2 de l’O du 10 juin 2016 ([RO 2016 2101](https://fedlex.data.admin.ch/eli/oc/2016/342)). Mise à jour par le ch. II al. 4 de l’O du 10 janv. 2018, en vigueur depuis le 1<sup>er</sup> mars 2018 ([RO 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)).
 
 - 1\. Prénom et nom\*
 - 2\. Numéro personnel\*
@@ -3071,17 +3208,17 @@ Données collectées avec l’accord de la personne concernée
 - 53\. Photo d’identité numérique
 - \* Données provenant du système IGDP
 
-Annexe 18[^t-19]
+Annexe 18[^t-20]
 
-[^t-19]: Abrogée par le ch. II al. 2 de l’O du 26 juin 2013, avec effet au 1<sup>er</sup> août 2013 ([RO 2013 2209](https://fedlex.data.admin.ch/eli/oc/2013/467)).
+[^t-20]: Abrogée par le ch. II al. 2 de l’O du 26 juin 2013, avec effet au 1<sup>er</sup> août 2013 ([RO 2013 2209](https://fedlex.data.admin.ch/eli/oc/2013/467)).
 
-Annexe 19[^t-20]
+Annexe 19[^t-21]
 
 (art. 40)
 
 ## Données du SIC FT
 
-[^t-20]: Mise à jour par le ch. II al. 4 de l’O du 10 janv. 2018, en vigueur depuis le 1<sup>er</sup> mars 2018 ([RO 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)).
+[^t-21]: Mise à jour par le ch. II al. 4 de l’O du 10 janv. 2018, en vigueur depuis le 1<sup>er</sup> mars 2018 ([RO 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)).
 
 - 1\. Nom
 - 2\. Prénom
@@ -3098,13 +3235,13 @@ Annexe 19[^t-20]
 - 13\. Données du Système d’information et de conduite des soldats (SICS)
 - 14\. Autres données communiquées volontairement par la personne concernée
 
-Annexe 20[^t-21]
+Annexe 20[^t-22]
 
 (art. 41)
 
 ## Données du SIC FA
 
-[^t-21]: Nouvelle teneur selon le ch. III al. 2 de l’O du 3 mars 2023, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
+[^t-22]: Nouvelle teneur selon le ch. III al. 2 de l’O du 3 mars 2023, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
 
 - 1\. Nom
 - 2\. Prénom
@@ -3151,25 +3288,25 @@ Annexe 21
 - 11\. Profils de prestations
 - 12\. Données d’engagements tactiques et photos
 
-Annexe 21a[^t-22]
+Annexe 21a[^t-23]
 
-[^t-22]: Introduite par le ch. II al. 3 de l’O du 26 juin 2013 ([RO 2013 2209](https://fedlex.data.admin.ch/eli/oc/2013/467)). Abrogée par le ch. II al. 5 de l’O du 10 janv. 2018, avec effet au 1<sup>er</sup> mars 2018 ([RO 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)).
+[^t-23]: Introduite par le ch. II al. 3 de l’O du 26 juin 2013 ([RO 2013 2209](https://fedlex.data.admin.ch/eli/oc/2013/467)). Abrogée par le ch. II al. 5 de l’O du 10 janv. 2018, avec effet au 1<sup>er</sup> mars 2018 ([RO 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)).
 
-Annexe 22[^t-23]
+Annexe 22[^t-24]
 
-[^t-23]: Abrogée par le ch. II al. 2 de l’O du 6 juil. 2011, avec effet au 1<sup>er</sup> août 2011 ([RO 2011 3323](https://fedlex.data.admin.ch/eli/oc/2011/449)).
+[^t-24]: Abrogée par le ch. II al. 2 de l’O du 6 juil. 2011, avec effet au 1<sup>er</sup> août 2011 ([RO 2011 3323](https://fedlex.data.admin.ch/eli/oc/2011/449)).
 
-Annexe 23[^t-24]
+Annexe 23[^t-25]
 
-[^t-24]: Abrogée par le ch. III al. 4 de l’O du 3 mars 2023, avec effet au 1<sup>er</sup> avr. 2023 ([RO 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
+[^t-25]: Abrogée par le ch. III al. 4 de l’O du 3 mars 2023, avec effet au 1<sup>er</sup> avr. 2023 ([RO 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
 
-Annexe 23a[^t-25]
+Annexe 23a[^t-26]
 
 (art. 52*b*)
 
 ## Données de PEGASUS
 
-[^t-25]: Introduite par le ch. II al. 1 de l’O du 20 mai 2020 ([RO 2020 2035](https://fedlex.data.admin.ch/eli/oc/2020/399)). Mise à jour par l’annexe 8 ch. II 5 de l’O du 8 nov. 2023 sur les contrôles de sécurité relatifs aux personnes, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 736](https://fedlex.data.admin.ch/eli/oc/2023/736)).
+[^t-26]: Introduite par le ch. II al. 1 de l’O du 20 mai 2020 ([RO 2020 2035](https://fedlex.data.admin.ch/eli/oc/2020/399)). Mise à jour par l’annexe 8 ch. II 5 de l’O du 8 nov. 2023 sur les contrôles de sécurité relatifs aux personnes, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 736](https://fedlex.data.admin.ch/eli/oc/2023/736)).
 
 - 1\. Nom
 - 2\. Prénom
@@ -3212,13 +3349,13 @@ Annexe 23a[^t-25]
 [^annex23a-lvlu1-1]: [RS 128](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40013)
 [^annex23a-lvlu1-2]: [RS 128.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40162)
 
-Annexe 23b[^t-26]
+Annexe 23b[^t-27]
 
 (art. 52*g*)
 
 ## Données du COMIL
 
-[^t-26]: Introduite par le ch. III al. 1 de l’O du 3 mars 2023, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
+[^t-27]: Introduite par le ch. III al. 1 de l’O du 3 mars 2023, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
 
 - 1\. Nom
 - 2\. Prénom
@@ -3248,17 +3385,44 @@ Annexe 23b[^t-26]
 - 26\. Données communiquées volontairement par la personne concernée
 - 27\. Autorisations et rôle d’autorisation dans le système de communication
 
-Annexe 24[^t-27]
+Annexe 24[^t-28]
 
-[^t-27]: Abrogée par le ch. III al. 4 de l’O du 3 mars 2023, avec effet au 1<sup>er</sup> avr. 2023 ([RO 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
+(art. 53)
 
-Annexe 24a[^t-28]
+## Données du BELPLAN
+
+[^t-28]: Nouvelle teneur selon le ch. II al. 1 de l’O du 1<sup>er</sup> avr. 2026, en vigueur depuis le 1<sup>er</sup> juin 2026 ([RO 2026 173](https://fedlex.data.admin.ch/eli/oc/2026/173)).
+
+- 1\. Numéro AVS
+- 2\. Nom
+- 3\. Prénom
+- 4\. Nom et numéro d’utilisateur
+- 5\. Date de naissance
+- 6\. Sexe
+- 7\. Profession exercée
+- 8\. Adresse de domicile
+- 9\. Commune de résidence
+- 10\. Langues parlées
+- 11\. Photo d’identité
+- 12\. Numéros de téléphone
+- 13\. Adresse électronique
+- 14\. Adresse postale
+- 15\. e-ID
+- 16\. Coordonnées bancaires
+- 17\. Grade
+- 18\. Incorporation
+- 19\. Fonction
+- 20\. Service auprès de l’unité
+- 21\. Statut du contrôle de sécurité relatif aux personnes
+- 22\. Données relatives à la formation au BELPLAN
+
+Annexe 24a[^t-29]
 
 (art. 57*b*)
 
 ## Données du SMD
 
-[^t-28]: Introduite par le ch. II al. 3 de l’O du 26 juin 2013 ([RO 2013 2209](https://fedlex.data.admin.ch/eli/oc/2013/467)). Mise à jour par le ch. II al. 4 de l’O du 10 janv. 2018, en vigueur depuis le 1<sup>er</sup> mars 2018 ([RO 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)).
+[^t-29]: Introduite par le ch. II al. 3 de l’O du 26 juin 2013 ([RO 2013 2209](https://fedlex.data.admin.ch/eli/oc/2013/467)). Mise à jour par le ch. II al. 4 de l’O du 10 janv. 2018, en vigueur depuis le 1<sup>er</sup> mars 2018 ([RO 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)).
 
 - 1\. Nom
 - 2\. Prénom
@@ -3269,13 +3433,13 @@ Annexe 24a[^t-28]
 - 7\. Annonces dosimétriques (valeur des doses, statut du dosimètre)
 - 8\. Seuils limites et seuils d’alerte
 
-Annexe 25[^t-29]
+Annexe 25[^t-30]
 
 (art. 58)
 
 ## Données des systèmes d’information pour les simulateurs
 
-[^t-29]: Mise à jour par le ch. II al. 1 de l’O du 26 juin 2013, en vigueur depuis le 1<sup>er</sup> août 2013 ([RO 2013 2209](https://fedlex.data.admin.ch/eli/oc/2013/467)).
+[^t-30]: Mise à jour par le ch. II al. 1 de l’O du 26 juin 2013, en vigueur depuis le 1<sup>er</sup> août 2013 ([RO 2013 2209](https://fedlex.data.admin.ch/eli/oc/2013/467)).
 
 - 1\. Nom
 - 2\. Prénom
@@ -3290,13 +3454,13 @@ Annexe 25[^t-29]
 - 11\. Données sur l’instruction accomplie sur les simulateurs et ses résultats
 - 12\. Prises de vues et films
 
-Annexe 26[^t-30]
+Annexe 26[^t-31]
 
 (art. 59)
 
 ## Données du LMS DDPS
 
-[^t-30]: Nouvelle teneur selon le ch. II al. 3 de l’O du 10 janv. 2018 ([RO 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)). Mise à jour par le ch. II al. 2 de l’O du 20 mai 2020 ([RO 2020 2035](https://fedlex.data.admin.ch/eli/oc/2020/399)) et le ch. III al. 3 de l’O du 3 mars 2023, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
+[^t-31]: Nouvelle teneur selon le ch. II al. 3 de l’O du 10 janv. 2018 ([RO 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)). Mise à jour par le ch. II al. 2 de l’O du 20 mai 2020 ([RO 2020 2035](https://fedlex.data.admin.ch/eli/oc/2020/399)) et le ch. III al. 3 de l’O du 3 mars 2023, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
 
 - 1\. Numéro AVS\*
 - 1a. Numéro de sécurité sociale étrangère
@@ -3347,13 +3511,13 @@ Annexe 27
 - 7\. Domaine d’engagement
 - 8\. Données sur l’accomplissement de la formation et du perfectionnement
 
-Annexe 28[^t-31]
+Annexe 28[^t-32]
 
 (art. 61)
 
 ## Données du SI OCRNA
 
-[^t-31]: Nouvelle teneur selon le ch. III al. 2 de l’O du 3 mars 2023, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
+[^t-32]: Nouvelle teneur selon le ch. III al. 2 de l’O du 3 mars 2023, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
 
 - 1\. Nom
 - 2\. Prénom
@@ -3394,13 +3558,13 @@ Annexe 28[^t-31]
 
 - 29\. Entrée en fonction dans l’administration fédérale et départ
 
-Annexe 28a[^t-32]
+Annexe 28a[^t-33]
 
 (art. 61*a*)
 
 ## Données du SPHAIR-Expert
 
-[^t-32]: Introduite par le ch. II al. 2 de l’O du 10 janv. 2018, en vigueur depuis le 1<sup>er</sup> mars 2018 ([RO 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)).
+[^t-33]: Introduite par le ch. II al. 2 de l’O du 10 janv. 2018, en vigueur depuis le 1<sup>er</sup> mars 2018 ([RO 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)).
 
 - 1\. Données d’identité, adresse et état civil
 - 2\. Adresse électronique
@@ -3415,13 +3579,13 @@ Annexe 28a[^t-32]
 - 11\. Taille des vêtements
 - 12\. Numéros de téléphone (privé/mobile)
 
-Annexe 29[^t-33]
+Annexe 29[^t-34]
 
 (art. 61*b*)
 
 ## Données du SIIC
 
-[^t-33]: Mise à jour par le ch. II al. 4 de l’O du 10 janv. 2018 ([RO 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)) et le ch. III al. 3 de l’O du 3 mars 2023, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
+[^t-34]: Mise à jour par le ch. II al. 4 de l’O du 10 janv. 2018 ([RO 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)) et le ch. III al. 3 de l’O du 3 mars 2023, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
 
 - 1\. Adresse militaire
 - 1a. Services accomplis dans l’armée
@@ -3449,25 +3613,25 @@ Annexe 29[^t-33]
 - 17a. Participation aux examens (a participé/n’a pas participé, motif de la non-participation)
 - 18\. Résultats obtenus, résultats par module
 
-Annexe 29a[^t-34]
+Annexe 29a[^t-35]
 
-[^t-34]: Introduite par le ch. II al. 3 de l’O du 6 juil. 2011 ([RO 2011 3323](https://fedlex.data.admin.ch/eli/oc/2011/449)). Abrogée par le ch. II al. 5 de l’O du 10 janv. 2018, avec effet au 1<sup>er</sup> mars 2018 ([RO 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)).
+[^t-35]: Introduite par le ch. II al. 3 de l’O du 6 juil. 2011 ([RO 2011 3323](https://fedlex.data.admin.ch/eli/oc/2011/449)). Abrogée par le ch. II al. 5 de l’O du 10 janv. 2018, avec effet au 1<sup>er</sup> mars 2018 ([RO 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)).
 
-Annexe 29b[^t-35]
+Annexe 29b[^t-36]
 
-[^t-35]: Introduite par le ch. II al. 3 de l’O du 26 juin 2013 ([RO 2013 2209](https://fedlex.data.admin.ch/eli/oc/2013/467)). Abrogée par le ch. II al. 5 de l’O du 10 janv. 2018, avec effet au 1<sup>er</sup> mars 2018 ([RO 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)).
+[^t-36]: Introduite par le ch. II al. 3 de l’O du 26 juin 2013 ([RO 2013 2209](https://fedlex.data.admin.ch/eli/oc/2013/467)). Abrogée par le ch. II al. 5 de l’O du 10 janv. 2018, avec effet au 1<sup>er</sup> mars 2018 ([RO 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)).
 
-Annexe 30[^t-36]
+Annexe 30[^t-37]
 
 (art. 67)
 
-[^t-36]: Abrogée par l’annexe 8 ch. II 5 de l’O du 8 nov. 2023 sur les contrôles de sécurité relatifs aux personnes, avec effet au 1<sup>er</sup> janv. 2024 ([RO 2023 736](https://fedlex.data.admin.ch/eli/oc/2023/736)).
+[^t-37]: Abrogée par l’annexe 8 ch. II 5 de l’O du 8 nov. 2023 sur les contrôles de sécurité relatifs aux personnes, avec effet au 1<sup>er</sup> janv. 2024 ([RO 2023 736](https://fedlex.data.admin.ch/eli/oc/2023/736)).
 
-Annexe 31[^t-37]
+Annexe 31[^t-38]
 
 (art. 68)
 
-[^t-37]: Abrogée par l’annexe 2 ch. II 3 de l’O du 8 nov. 2023 sur la procédure de sécurité relative aux entreprises, avec effet au 1<sup>er</sup> janv. 2024 ([RO 2023 737](https://fedlex.data.admin.ch/eli/oc/2023/737)).
+[^t-38]: Abrogée par l’annexe 2 ch. II 3 de l’O du 8 nov. 2023 sur la procédure de sécurité relative aux entreprises, avec effet au 1<sup>er</sup> janv. 2024 ([RO 2023 737](https://fedlex.data.admin.ch/eli/oc/2023/737)).
 
 Annexe 32
 
@@ -3486,13 +3650,13 @@ Annexe 32
 - 9\. Numéro de passeport
 - 10\. Décision sur le contrôle de sécurité relatif aux personnes
 
-Annexe 33[^t-38]
+Annexe 33[^t-39]
 
 (art. 70)
 
 ## Données du SICA
 
-[^t-38]: Mise à jour par le ch. II al. 4 de l’O du 10 janv. 2018, en vigueur depuis le 1<sup>er</sup> mars 2018 ([RO 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)).
+[^t-39]: Mise à jour par le ch. II al. 4 de l’O du 10 janv. 2018 ([RO 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)) et le ch. II al. 2 de l’O du 1<sup>er</sup> avr. 2026, en vigueur depuis le 1<sup>er</sup> juin 2026 ([RO 2026 173](https://fedlex.data.admin.ch/eli/oc/2026/173)).
 
 ### Données générales figurant dans le fichier personnel
 
@@ -3555,13 +3719,29 @@ Annexe 33[^t-38]
 
 - 34\. Données de consignation du système (procès-verbal des visites, des mutations, des changements d’état, etc.)
 
-Annexe 33<sup>bis</sup> [^t-39]
+### Données des visiteurs
+
+- 35\. Nom
+- 36\. Prénom
+- 37\. Numéro de téléphone
+- 38\. Adresse électronique
+- 39\. Adresses professionnelle et privée
+- 40\. Date de naissance
+- 41\. Nationalité
+- 42\. Document officiel
+- 43\. Organisation et entreprise
+- 44\. Numéro de plaque d’immatriculation
+- 45\. Début et fin de la visite
+- 46\. Personne que l’on vient visiter au sein de l’organisation
+- 47\. Raison de la visite
+
+Annexe 33<sup>bis</sup> [^t-40]
 
 (art. 70<sup>bis</sup>)
 
-## Données du JORASYS
+## Données devant être saisies dans le cadre de l’accomplissement des obligations de l’art. 100 LAAM
 
-[^t-39]: Introduite par le ch. II al. 2 de l’O du 10 janv. 2018 ([RO 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)). Nouvelle teneur selon le ch. III al. 2 de l’O du 3 mars 2023, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
+[^t-40]: Introduite par le ch. II al. 2 de l’O du 10 janv. 2018 ([RO 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)). Nouvelle teneur selon le ch. III al. 2 de l’O du 3 mars 2023 ([RO 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)). Mise à jour par le ch. II al. 2 de l’O du 1<sup>er</sup> avr. 2026, en vigueur depuis le 1<sup>er</sup> juin 2026 ([RO 2026 173](https://fedlex.data.admin.ch/eli/oc/2026/173)).
 
 Données des personnes soumises au droit pénal militaire et des tiers
 
@@ -3570,7 +3750,7 @@ Données des personnes soumises au droit pénal militaire et des tiers
 - 3\. Sexe
 - 4\. Numéro AVS
 - 5\. Date et lieu de naissance
-- 6\. Adresse
+- 6\. Adresse de domicile et autres adresses
 - 7\. Lieu d’origine
 - 8\. Nationalité et statut de séjour
 - 9\. État civil
@@ -3581,15 +3761,15 @@ Données des personnes soumises au droit pénal militaire et des tiers
 - 14\. Religion, si elle est pertinente en l’espèce
 - 15\. Orientation politique et idéologique, si elle est pertinente en l’espèce
 - 16\. Représentant légal, avec ses données
-- 17\. Type et numéro de document d’identité et de permis
+- 17\. Type et numéro de document d’identité et de permis, avec indication du lieu d’émission, de l’autorité responsable et de la validité
 - 18\. Signalement comme les signes particuliers, la taille, la couleur des yeux, de la peau et des cheveux
-- 19\. Moyens de communication et données sur les raccordements de télécommunication
+- 19\. Moyens de communication, notamment numéros de téléphone et adresses électroniques
 - 20\. Images et enregistrements vidéo et audio
-- 21\. Données des tiers participant à la procédure (personnes appelées à donner des renseignements)
+- 21\. Données de base de toute personne impliquée (parties impliquées, personnes appelées à donner des renseignements)
 - 22\. Données médicales et biométriques, si elles sont pertinentes en l’espèce
 - 23\. Risques que représente la personne
 - 24\. Mesures de contrainte appliquées
-- 25\. Plaque d’immatriculation et assurance du véhicule, nom, prénom et adresse de son détenteur
+- 25\. Données du permis de circulation
 - 26\. Liste des objets liés au cas
 - 27\. Informations et données nécessaires à l’accomplissement des tâches visées à l’art. 100, al. 1, LAAM
 
@@ -3602,14 +3782,15 @@ Données complémentaires des personnes soumises au droit pénal militaire
 - 32\. Analyses et résultats de l’éthylomètre et de la prise de sang
 - 33\. Revenus et situation financière
 - 34\. Liste des objets séquestrés
+- 35\. Historique des incorporations, grades et fonctions, y compris dates
 
-Annexe 33<sup>ter</sup> [^t-40]
+Annexe 33<sup>ter</sup> [^t-41]
 
 (art. 70<sup>ter</sup>)
 
 ## Données du SIPPA
 
-[^t-40]: Introduite par le ch. III al. 1 de l’O du 3 mars 2023, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
+[^t-41]: Introduite par le ch. III al. 1 de l’O du 3 mars 2023, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
 
 - 1\. Nom
 - 2\. Prénom
@@ -3657,17 +3838,18 @@ Annexe 33<sup>ter</sup> [^t-40]
 
 - 32\. Informations et données visées à l’art. 167*i*, let. n, LSIA
 
-Annexe 33a[^t-41]
+Annexe 33a[^t-42]
 
 (art. 70*b*)
 
-## Données de l’e-convoc
+## Données du système électronique de convocation et d’alarme
 
-[^t-41]: Introduite par le ch. II al. 3 de l’O du 26 juin 2013 ([RO 2013 2209](https://fedlex.data.admin.ch/eli/oc/2013/467)). Mise à jour par le ch. I 1 de l’O du 25 janv. 2017 concernant les obligations militaires durant la transition vers le développement de l’armée ([RO 2017 487](https://fedlex.data.admin.ch/eli/oc/2017/82)) et le ch. III al. 3 de l’O du 3 mars 2023, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
+[^t-42]: Introduite par le ch. II al. 3 de l’O du 26 juin 2013 ([RO 2013 2209](https://fedlex.data.admin.ch/eli/oc/2013/467)). Mise à jour par le ch. I 1 de l’O du 25 janv. 2017 concernant les obligations militaires durant la transition vers le développement de l’armée ([RO 2017 487](https://fedlex.data.admin.ch/eli/oc/2017/82)), le ch. III al. 3 de l’O du 3 mars 2023 ([RO 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)) et le ch. II al. 2 de l’O du 1<sup>er</sup> avr. 2026, en vigueur depuis le 1<sup>er</sup> juin 2026 ([RO 2026 173](https://fedlex.data.admin.ch/eli/oc/2026/173)).
 
 - 1\. Nom
 - 2\. Prénom
-- 3\. Fonction au sein de l’organisation de crise et d’alarme Défense
+- 3a. Fonction au sein de l’organisation de crise et d’alarme Défense
+- 3b. Fonction professionnelle
 - 4\. Fonction militaire avec groupe d’alerte
 - 5\. Numéro AVS
 - 6\. Numéros de téléphone
@@ -3677,13 +3859,13 @@ Annexe 33a[^t-41]
 - 10\. Service ou engagement auquel la personne est convoquée
 - 11\. Autres données nécessaires à la convocation
 
-Annexe 33b[^t-42]
+Annexe 33b[^t-43]
 
 (art. 70*g*)
 
 ## Données du HARAM
 
-[^t-42]: Introduite par le ch. II al. 3 de l’O du 26 juin 2013, en vigueur depuis le 1<sup>er</sup> août 2013 ([RO 2013 2209](https://fedlex.data.admin.ch/eli/oc/2013/467)).
+[^t-43]: Introduite par le ch. II al. 3 de l’O du 26 juin 2013, en vigueur depuis le 1<sup>er</sup> août 2013 ([RO 2013 2209](https://fedlex.data.admin.ch/eli/oc/2013/467)).
 
 - 1\. Nom
 - 2\. Prénom
@@ -3694,17 +3876,17 @@ Annexe 33b[^t-42]
 - 7\. Type d’avion et son numéro
 - 8\. Noms, prénoms et adresses des autres personnes et organisations impliquées
 
-Annexe 33c[^t-43]
+Annexe 33c[^t-44]
 
-[^t-43]: Introduite par l’annexe ch. 1 de l’O du 17 déc. 2014 ([RO 2015 195](https://fedlex.data.admin.ch/eli/oc/2015/25)). Abrogée par le ch. III al. 4 de l’O du 3 mars 2023, avec effet au 1<sup>er</sup> avr. 2023 ([RO 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
+[^t-44]: Introduite par l’annexe ch. 1 de l’O du 17 déc. 2014 ([RO 2015 195](https://fedlex.data.admin.ch/eli/oc/2015/25)). Abrogée par le ch. III al. 4 de l’O du 3 mars 2023, avec effet au 1<sup>er</sup> avr. 2023 ([RO 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
 
-Annexe 33d[^t-44]
+Annexe 33d[^t-45]
 
 (art. 70*r*)
 
 ## Données du MIL PLATTFORM
 
-[^t-44]: Introduite par le ch. II al. 2 de l’O du 10 janv. 2018 ([RO 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)). Mise à jour par le ch. III al. 3 de l’O du 3 mars 2023 ([RO 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)) et l’annexe 8 ch. II 5 de l’O du 8 nov. 2023 sur les contrôles de sécurité relatifs aux personnes, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 736](https://fedlex.data.admin.ch/eli/oc/2023/736)).
+[^t-45]: Introduite par le ch. II al. 2 de l’O du 10 janv. 2018 ([RO 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)). Mise à jour par le ch. III al. 3 de l’O du 3 mars 2023 ([RO 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)) et l’annexe 8 ch. II 5 de l’O du 8 nov. 2023 sur les contrôles de sécurité relatifs aux personnes, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 736](https://fedlex.data.admin.ch/eli/oc/2023/736)).
 
 - 1\. Nom, prénoms, initiales, numéro personnel, employeur, adresse professionnelle, adresse privée, adresse électronique professionnelle, numéro de téléphone professionnel et numéro AVS de la personne ayant l’autorisation d’accès
 - 2\. Degré de contrôle selon les art. 10 à 14 OCSP[^annex33d-lvlu1-1], date de l’entrée en force de la décision visée à l’art. 24 OCSP et date de la prochaine répétition ordinaire du contrôle de sécurité relatif aux personnes visée à l’art. 26 OCSP concernant une personne disposant des droits d’accès
@@ -3715,13 +3897,13 @@ Annexe 33d[^t-44]
 
 [^annex33d-lvlu1-1]: [RS 128.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40162)
 
-Annexe 34[^t-45]
+Annexe 34[^t-46]
 
 (art. 71)
 
 ## Données du SCHAMIS
 
-[^t-45]: Nouvelle teneur selon le ch. II al. 3 de l’O du 10 janv. 2018 ([RO 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)). Mise à jour par le ch. III al. 3 de l’O du 3 mars 2023, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
+[^t-46]: Nouvelle teneur selon le ch. II al. 3 de l’O du 10 janv. 2018 ([RO 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)). Mise à jour par le ch. III al. 3 de l’O du 3 mars 2023, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
 
 ### Relatives aux lésés et aux auteurs du dommage
 
@@ -3768,13 +3950,13 @@ Annexe 34[^t-45]
 - 21\. Indications nécessaires au calcul du dommage
 - 22\. Résultats des investigations des experts
 
-Annexe 35[^t-46]
+Annexe 35[^t-47]
 
 (art. 72)
 
 ## Données du SI IDD
 
-[^t-46]: Mise à jour par le ch. III al. 3 de l’O du 3 mars 2023, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
+[^t-47]: Mise à jour par le ch. III al. 3 de l’O du 3 mars 2023, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
 
 - 1\. Numéro d’identification personnel SIPA
 - 2\. Nom
@@ -3800,13 +3982,15 @@ Annexe 35[^t-46]
 - 22\. Dernière date d’entrée au service
 - 23\. Données des systèmes d’information de l’armée, notamment celles figurant dans les annexes de la présente ordonnance, uniquement pendant l’échange de données visé à l’art. 175, let. c, LSIA
 
-Annexe 35<sup>bis</sup> [^t-47]
+Annexe 35<sup>bis</sup> [^t-48]
 
-(art. 72<sup>bis</sup>, al. 1)
+(art. 72<sup>bis</sup>, al. 1, et 72*j*<sup>ter</sup>)
 
-## Données du PSN
+## Données du système d’information sur le personnel du Groupement Défense et d’armasuisse
 
-[^t-47]: Introduite par le ch. II al. 2 de l’O du 10 janv. 2018 ([RO 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)). Mise à jour par le ch. III al. 3 de l’O du 3 mars 2023, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
+[^t-48]: Introduite par le ch. II al. 2 de l’O du 10 janv. 2018 ([RO 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)). Mise à jour par le ch. III al. 3 de l’O du 3 mars 2023 ([RO 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)) et le ch. II al. 2 de l’O du 1<sup>er</sup> avr. 2026, en vigueur depuis le 1<sup>er</sup> juin 2026 ([RO 2026 173](https://fedlex.data.admin.ch/eli/oc/2026/173)).
+
+### Données sur les membres du personnel du Groupement Défense
 
 ### Données sur les conscrits, les militaires (mil), les anciens mil, le personnel militaire et les tiers détenant une arme en prêt ou détenant ou commandant du matériel de l’armée
 
@@ -3994,13 +4178,80 @@ Annexe 35<sup>bis</sup> [^t-47]
 - 27\.4 Objets en prêt
 - 27\.5 Autres données d’exploitation importantes
 
-Annexe 35<sup>ter</sup> [^t-48]
+### Données sur les membres du personnel d’armasuisse
+
+### Données du dossier du personnel
+
+- **28** **Recrutement** **du personnel**
+- 28\.1 Dossier de candidature
+- 28\.2 Documents d’engagement
+- 28\.3 Sécurité
+- **29** **Gestion du personnel**
+- 29\.1 Données et données relatives à la famille et aux personnes de référence
+- 29\.2 Descriptions de postes
+- 29\.3 Certificats
+- 29\.4 Temps de travail
+- 29\.5 Affectation
+- 29\.6 Affaires disciplinaires
+- 29\.7 Autorisations
+- 29\.8 Charges publiques et activités accessoires
+- **30** **Rémunération** **du personnel**
+- 30\.1 Salaire/allocations
+- 30\.2 Frais
+- 30\.3 Primes
+- 30\.4 Prestations accessoires/avantages sociaux
+- 30\.5 Accueil extrafamilial d’enfants
+- **31** **Assurances** **sociales**
+- 31\.1 Assurance-vieillesse et survivants/assurance-invalidité/régime des allocations pour perte de gain/assurance-chômage
+- 31\.2 Caisse nationale suisse d’assurance en cas d’accidents/Assurance-accidents
+- 31\.3 Allocations familiales
+- 31\.4 Caisse fédérale de pensions
+- 31\.5 Assurance militaire
+- **32** **Santé**
+- 32\.1 Attestation médicale d’aptitude à l’entrée
+- 32\.2 Évaluation de l’aptitude médicale
+- 32\.3 Certificats médicaux
+- 32\.4 Autorisation accordée aux médecins et aux assurances
+- 32\.5 Demandes/avis du service médical
+- 32\.6 Durée des absences pour cause de maladie ou d’accident
+- **33** **Assurances en général**
+- 33\.1 Documents concernant les cas de responsabilité civile
+- 33\.2 Dommages causés aux effets personnels
+- **34** **Développement** **du personnel**
+- 34\.1 Formation et formation continue
+- 34\.2 Mesures de développement
+- 34\.3 Qualifications
+- 34\.4 Compétences comportementales et techniques
+- 34\.5 Résultats des tests de personnalité et des évaluations des potentiels
+- 34\.6 Développement des cadres
+- 34\.7 Formation professionnelle initiale
+- **35** **Départ/****Transfert**
+- 35\.1 Résiliation par l’employeur
+- 35\.2 Résiliation par l’employé
+- 35\.3 Départ à la retraite
+- 35\.4 Décès
+- 35\.5 Formalités/entretien de départ
+- 35\.6 Formalités de transfert
+- **36** **Personnel** **militaire**
+- 36\.1 Incorporation/grade/équipement
+- 36\.2 Résultats des examens et des tests militaires
+- 36\.3 Promotions/services commandés
+- 36\.4 Préretraite
+- 36\.5 Militaire contractuel
+- **37** **Données** **d’exploitation**
+- 37\.1 Organisation du Groupement Défense/plan des postes
+- 37\.2 Affectation organisationnelle
+- 37\.3 Gestion du temps et des prestations
+- 37\.4 Objets en prêt
+- 37\.5 Autres données d’exploitation importantes
+
+Annexe 35<sup>ter</sup> [^t-49]
 
 (art. 72<sup>ter</sup>)
 
 ## Données du SaD
 
-[^t-48]: Introduite par le ch. II al. 2 de l’O du 10 janv. 2018 ([RO 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)). Mise à jour par le ch. III al. 3 de l’O du 3 mars 2023, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
+[^t-49]: Introduite par le ch. II al. 2 de l’O du 10 janv. 2018 ([RO 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)). Mise à jour par le ch. III al. 3 de l’O du 3 mars 2023, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
 
 - 1\. Nom, prénom
 - 2\. Sexe
@@ -4042,13 +4293,13 @@ Annexe 35<sup>ter</sup> [^t-48]
 
 [^annex35ter-lvlu1-1]: [RS 512.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7434)
 
-Annexe 35<sup>quater</sup> [^t-49]
+Annexe 35<sup>quater</sup> [^t-50]
 
 (art. 72<sup>quater</sup>)
 
 ## Données du MDM
 
-[^t-49]: Introduite par le ch. III al. 1 de l’O du 3 mars 2023, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
+[^t-50]: Introduite par le ch. III al. 1 de l’O du 3 mars 2023, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
 
 ### Relatives à des particuliers
 
@@ -4096,13 +4347,13 @@ Annexe 35<sup>quater</sup> [^t-49]
 - 36\. Données de référence sur le matériel (notamment numéro de matériel, désignation du matériel, type de matériel, marchandises et matières dangereuses, fournisseurs, fabricants, origine, dimensions, acquisition, stockage, directives relatives à la maintenance et à la désignation, informations sur la sécurité, l’état et la configuration)
 - 37\. Données sur la structure des systèmes (structure de base des systèmes)
 
-Annexe 35a[^t-50]
+Annexe 35a[^t-51]
 
 (art. 72*d*)
 
 ## Données de FoD
 
-[^t-50]: Introduite par le ch. II al. 3 de l’O du 6 juil. 2011 ([RO 2011 3323](https://fedlex.data.admin.ch/eli/oc/2011/449)). Nouvelle teneur selon le ch. III de l’O du 29 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 798](https://fedlex.data.admin.ch/eli/oc/2023/798)).
+[^t-51]: Introduite par le ch. II al. 3 de l’O du 6 juil. 2011 ([RO 2011 3323](https://fedlex.data.admin.ch/eli/oc/2011/449)). Nouvelle teneur selon le ch. III de l’O du 29 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 798](https://fedlex.data.admin.ch/eli/oc/2023/798)).
 
 - 1\. Nom
 - 2\. Prénom
@@ -4136,21 +4387,50 @@ Annexe 35a[^t-50]
 - 30\. Données anthropométriques
 - 31\. Données relatives aux performances sportives
 
-Annexes 35b et 35c[^t-51]
+Annexes 35b[^t-52]
 
-[^t-51]: Introduites par le ch. II al. 3 de l’O du 26 juin 2013 ([RO 2013 2209](https://fedlex.data.admin.ch/eli/oc/2013/467)). Abrogées par le ch. II al. 5 de l’O du 10 janv. 2018, avec effet au 1<sup>er</sup> mars 2018 ([RO 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)).
+(art. 72*g*<sup>ter</sup>)
 
-Annexe 35c<sup>bis</sup> [^t-52]
+## Données du SAT-Admin
 
-[^t-52]: Introduite par le ch. II al. 1 de l’O du 10 juin 2016 ([RO 2016 2101](https://fedlex.data.admin.ch/eli/oc/2016/342)). Abrogée par le ch. III al. 4 de l’O du 3 mars 2023, avec effet au 1<sup>er</sup> avr. 2023 ([RO 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
+[^t-52]: Introduite par le ch. II al. 3 de l’O du 26 juin 2013 ([RO 2013 2209](https://fedlex.data.admin.ch/eli/oc/2013/467)). Nouvelle teneur selon le ch. II al. 1 de l’O du 1<sup>er</sup> avr. 2026, en vigueur depuis le 1<sup>er</sup> juin 2026 ([RO 2026 173](https://fedlex.data.admin.ch/eli/oc/2026/173)).
 
-Annexe 35d[^t-53]
+- 1\. Nom
+- 2\. Prénom
+- 3\. Sexe
+- 4\. Date de naissance
+- 5\. Lieu d’origine
+- 6\. Adresse
+- 7\. Lieu de résidence
+- 8\. Numéro de téléphone
+- 9\. Adresse électronique
+- 10\. Numéro AVS et numéros de sécurité sociale étrangers
+- 11\. Numéro d’identification
+- 12\. Profession
+- 13\. Numéro du document d’identité
+- 14\. Langues parlées
+- 15\. Grade
+- 16\. Fonction
+- 17\. Numéro d’arme
+- 18\. Appartenance à une organisation visée à l’art. 72*g*<sup>bis</sup>
+- 19\. Données relatives à la formation et aux distinctions militaires
+- 20\. Données annoncées volontairement par les personnes concernées
+
+Annexe 35c[^t-53]
+
+[^t-53]: Introduite par le ch. II al. 3 de l’O du 26 juin 2013 ([RO 2013 2209](https://fedlex.data.admin.ch/eli/oc/2013/467)). Abrogée par le ch. II al. 5 de l’O du 10 janv. 2018, avec effet au 1<sup>er</sup> mars 2018 ([RO 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)).
+
+Annexe 35c<sup>bis</sup> [^t-54]
+
+[^t-54]: Introduite par le ch. II al. 1 de l’O du 10 juin 2016 ([RO 2016 2101](https://fedlex.data.admin.ch/eli/oc/2016/342)). Abrogée par le ch. III al. 4 de l’O du 3 mars 2023, avec effet au 1<sup>er</sup> avr. 2023 ([RO 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
+
+Annexe 35d[^t-55]
 
 (art. 72*h*<sup>bis</sup>)
 
 ## Données des recueils auxiliaires
 
-[^t-53]: Introduite par le ch. II al. 3 de l’O du 26 juin 2013, en vigueur depuis le 1<sup>er</sup> août 2013 ([RO 2013 2209](https://fedlex.data.admin.ch/eli/oc/2013/467)).
+[^t-55]: Introduite par le ch. II al. 3 de l’O du 26 juin 2013, en vigueur depuis le 1<sup>er</sup> août 2013 ([RO 2013 2209](https://fedlex.data.admin.ch/eli/oc/2013/467)).
 
 - 1\. Nom
 - 2\. Prénom
@@ -4176,49 +4456,21 @@ Annexe 35d[^t-53]
 - 22\. Inventaire, commandes, réservations, prêts
 - 23\. Descriptif des ressources (véhicules, matériel, locaux, appareils)
 
-Annexe 35e[^t-54]
+Annexe 35e[^t-56]
 
-[^t-54]: Introduite par le ch. II al. 3 de l’O du 26 juin 2013 ([RO 2013 2209](https://fedlex.data.admin.ch/eli/oc/2013/467)). Abrogée par le ch. III al. 4 de l’O du 3 mars 2023, avec effet au 1<sup>er</sup> avr. 2023 ([RO 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
+[^t-56]: Introduite par le ch. II al. 3 de l’O du 26 juin 2013 ([RO 2013 2209](https://fedlex.data.admin.ch/eli/oc/2013/467)). Abrogée par le ch. III al. 4 de l’O du 3 mars 2023, avec effet au 1<sup>er</sup> avr. 2023 ([RO 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
 
-Annexe 35f[^t-55]
+Annexe 35f[^t-57]
 
-(art. 72*j*<sup>ter</sup>)
+[^t-57]: Introduite par le ch. II al. 1 de l’O du 10 juin 2016 ([RO 2016 2101](https://fedlex.data.admin.ch/eli/oc/2016/342)). Abrogée par le ch. II al. 3 de l’O du 1<sup>er</sup> avr. 2026, avec effet au 1<sup>er</sup> juin 2026 ([RO 2026 173](https://fedlex.data.admin.ch/eli/oc/2026/173)).
 
-## Données du PSB
-
-[^t-55]: Introduite par le ch. II al. 1 de l’O du 10 juin 2016 ([RO 2016 2101](https://fedlex.data.admin.ch/eli/oc/2016/342)). Nouvelle teneur selon le ch. II al. 3 de l’O du 10 janv. 2018 ([RO 2018 641](https://fedlex.data.admin.ch/eli/oc/2018/82)). Mise à jour par le ch. III al. 3 de l’O du 3 mars 2023, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
-
-Les données du système IGDP ci-après visées dans l’annexe 3 de l’ordonnance du 22 novembre 2017 concernant la protection des données personnelles du personnel de la Confédération[^annex35f-lvlu1-1] sont traitées dans le PSB et proviennent du système IGDP:
-
-- – Mesures concernant le personnel
-- – Affectation organisationnelle
-- – Données sur la personne
-- – Statut de la paie
-- – Adresses
-- – Coordonnées bancaires
-- – Régime d’indemnisation des frais de déplacement
-- – Famille / proches
-- – Données internes
-- – Fonction interne
-- – Dates
-- – Service militaire / civil
-- – Valeurs par défaut de la feuille de saisie des temps
-- – Objet
-- – Relations
-- – Description verbale
-- – Poste vacant
-- – Catégorie / statut de salarié
-- – Assurances sociales suisses
-
-[^annex35f-lvlu1-1]: [RS 172.220.111.4](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5367)
-
-Annexe 35g[^t-56]
+Annexe 35g[^t-58]
 
 (art. 72*k*<sup>bis</sup>)
 
 ## Données du PAV
 
-[^t-56]: Introduite par le ch. III al. 1 de l’O du 3 mars 2023, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
+[^t-58]: Introduite par le ch. III al. 1 de l’O du 3 mars 2023, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 133](https://fedlex.data.admin.ch/eli/oc/2023/133)).
 
 - 1\. Nom
 - 2\. Prénom
