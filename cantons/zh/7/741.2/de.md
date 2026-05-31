@@ -4,11 +4,10 @@ number: "741.2"
 title: Kantonale Signalisationsverordnung (KSigV)
 short: KSigV
 language: de
-version: "2022-11-01"
-nachtrag: "119"
-valid_until: 2026-06-01
+version: "2026-06-01"
+nachtrag: "133"
 adopted: 2001-11-21
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-741_2-2001_11_21-2002_01_01-119.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-741_2-2001_11_21-2002_01_01-133.html"
 text: pdf
 ---
 
@@ -61,13 +60,11 @@ Als Verkehrsanordnungen im Sinne dieser Verordnung gelten Signale, Lichtsignale,
 
 <sup>3</sup> Halteverbote vor Schulgebäuden und -anlagen auf Staats- und Gemeindestrassen verfügt die Gemeinde. Sie holt vorgängig eine verkehrstechnische Stellungnahme der Kantonspolizei ein.[^4-2]
 
-**b. Vorübergehende Verkehrsanordnungen**
-
-§ 5. <sup>1</sup> Vorübergehende Verkehrsanordnungen für Autobahnen und Autostrassen verfügt die Kantonspolizei[^4-1]. Vorbehalten bleibt die Zuständigkeit der Baudirektion gemäss SMOG-Verordnung[^4-3].[^4-4]
-
 **1**
 
-- 1\. 1. 23 - 119
+- 1\. 7. 26 - 133 § 5. <sup>1</sup> Vorübergehende Verkehrsanordnungen für Autobahnen und Autostrassen verfügt die Kantonspolizei[^4-1]. Vorbehalten bleibt die Zuständigkeit der Baudirektion gemäss SMOG-Verordnung[^4-3].[^4-4]
+
+**b. Vorüsbergehende Verkehrsanordnungen**
 
 <sup>2</sup> Auf den übrigen Staatsstrassen sind für vorübergehende Anordnungen zuständig:
 
@@ -82,7 +79,7 @@ Als Verkehrsanordnungen im Sinne dieser Verordnung gelten Signale, Lichtsignale,
 <sup>5</sup> Für die Anordnung von Versuchen mit Verkehrsmassnahmen im Sinne von Art. 107 Abs. 2<sup>bis</sup> SSV[^4-5] ist für alle Strassen die Kantonspolizei[^4-1] zuständig.
 
 [^4-1]: Fassung gemäss RRB vom 2. Juni 2010 (OS 65, 378; ABl 2010, 1242). In Kraft seit 1. Juli 2010.
-[^4-2]: Eingefügt durch RRB vom 24. August 2022 (OS 77, 526; ABl 2022-09-02). In Kraft seit 1. November 2022. 1. 1. 23 - 119 7
+[^4-2]: Eingefügt durch RRB vom 24. August 2022 (OS 77, 526; ABl 2022-09-02). In Kraft seit 1. November 2022.
 [^4-3]: LS 713.12.
 [^4-4]: Fassung gemäss RRB vom 22. November 2006 (OS 61, 464; ABl 2006, 1669). In Kraft seit 1. Januar 2007.
 [^4-5]: SR 741.21.
@@ -111,7 +108,7 @@ Als Verkehrsanordnungen im Sinne dieser Verordnung gelten Signale, Lichtsignale,
 
 <sup>2</sup> Die Kosten können demjenigen auferlegt werden, der die überwiegende Ursache für die Verkehrsanordnung gesetzt hat.
 
-[^7-1]: Eingefügt durch RRB vom 24. August 2022 (OS 77, 526; ABl 2022-09-02). In Kraft seit 1. November 2022. 1. 1. 23 - 119 7
+[^7-1]: Eingefügt durch RRB vom 24. August 2022 (OS 77, 526; ABl 2022-09-02). In Kraft seit 1. November 2022.
 
 #### § 9
 
@@ -143,7 +140,7 @@ Als Verkehrsanordnungen im Sinne dieser Verordnung gelten Signale, Lichtsignale,
 
 § 12. Der Entscheid über Art, Standort und Ausführung von Signalen, Lichtsignalen und Markierungen, welche vorübergehende Verkehrsanordnungen anzeigen oder mit ihnen in direktem Zusammenhang stehen, erfolgt durch die Behörde, die nach § 5 die Anordnung verfügt hat.
 
-[^10-1]: Eingefügt durch RRB vom 24. August 2022 (OS 77, 526; ABl 2022-09-02). In Kraft seit 1. November 2022. 1. 1. 23 - 119 7
+[^10-1]: Eingefügt durch RRB vom 24. August 2022 (OS 77, 526; ABl 2022-09-02). In Kraft seit 1. November 2022.
 [^10-2]: Fassung gemäss RRB vom 2. Juni 2010 (OS 65, 378; ABl 2010, 1242). In Kraft seit 1. Juli 2010.
 
 #### § 13
@@ -168,7 +165,7 @@ Die anordnende Behörde kann die Signalisation, die im Zusammenhang mit Bauarbei
 
 **3**
 
-- 1\. 1. 23 - 119 § 16. <sup>1</sup> Behördliche Weisungen an Organisationen und Private in den Fällen von Art. 104 Abs. 5 lit. a und b sowie Art. 115 Abs. 3 SSV[^15-1] erteilt die Kantonspolizei[^15-2].
+- 1\. 7. 26 - 133 § 16. <sup>1</sup> Behördliche Weisungen an Organisationen und Private in den Fällen von Art. 104 Abs. 5 lit. a und b sowie Art. 115 Abs. 3 SSV[^15-1] erteilt die Kantonspolizei[^15-2].
 
 **Vorkehren von Organisationen und Privaten**
 
@@ -269,29 +266,28 @@ Für den Vollzug des Bundesrechts über die Strassenreklamen sind zuständig a. 
 
 ### V. Besondere Bestimmungen für die Städte Zürich und Winterthur
 
-#### § 27
-
 **Zuständigkeit**
 
-In Zürich und Winterthur üben die städtischen Behörden die in den Abschnitten I–IV erwähnten Befugnisse und Aufgaben aus, ausgenommen diejenigen für Autobahnen und Autostrassen.
+§ 27.[^hVBesondereBestimm-1] <sup>1</sup> In den Städten Zürich und Winterthur üben die städtischen Behörden die in den Abschnitten I–IV erwähnten Befugnisse und Aufgaben aus.
 
-[^27-1]: Fassung gemäss RRB vom 2. Juni 2010 (OS 65, 378; ABl 2010, 1242). In Kraft seit 1. Juli 2010.
+<sup>2</sup> Ausgenommen sind a. Befugnisse und Aufgaben für Autobahnen und Autostrassen,
 
-#### § 28
-
-**Zustimmung der Kantonspolizei9**
-
-Die städtischen Behörden holen die Zustimmung der Kantonspolizei[^27-1] ein, bevor Verkehrsanordnungen verfügt werden, die den Verkehr auf Durchgangsstrassen ausserhalb des Stadtgebietes beeinflussen können.
+- b. Geschwindigkeitsanordnungen auf Staatsstrassen und Strassen mit überkommunaler Bedeutung.
 
 **5**
 
-- 1\. 1. 23 - 119 § 29.[^28-1] <sup>1</sup> Die städtischen Behörden teilen der Kantonspolizei durch Zustellung einer Verfügungskopie die von ihnen verfügten dauernden Verkehrsanordnungen mit, soweit sie nicht ausschliesslich den ruhenden Verkehr betreffen.
+- 1\. 7. 26 - 133 § 28. Die städtischen Behörden holen die Zustimmung der Kantonspolizei[^hVBesondereBestimm-2] ein, bevor Verkehrsanordnungen verfügt werden, die den Verkehr auf Durchgangsstrassen ausserhalb des Stadtgebietes beeinflussen können.
+
+**Zustimmung der Kantonspolizei9**
 
 **Orientierung der Kantonspolizei**
 
+§ 29.[^hVBesondereBestimm-2] <sup>1</sup> Die städtischen Behörden teilen der Kantonspolizei durch Zustellung einer Verfügungskopie die von ihnen verfügten dauernden Verkehrsanordnungen mit, soweit sie nicht ausschliesslich den ruhenden Verkehr betreffen.
+
 <sup>2</sup> Die städtischen Behörden informieren die Kantonspolizei über Ereignisse, die Auswirkungen auf Durchgangsstrassen ausserhalb des Stadtgebietes haben.
 
-[^28-1]: Fassung gemäss RRB vom 2. Juni 2010 (OS 65, 378; ABl 2010, 1242). In Kraft seit 1. Juli 2010.
+[^hVBesondereBestimm-1]: Fassung gemäss RRB vom 18. März 2026 (OS 81, 250; ABl 2026-03-27). In Kraft seit 1. Juni 2026. 1. 7. 26 - 133 7
+[^hVBesondereBestimm-2]: Fassung gemäss RRB vom 2. Juni 2010 (OS 65, 378; ABl 2010, 1242). In Kraft seit 1. Juli 2010.
 
 #### § 30
 
