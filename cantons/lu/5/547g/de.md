@@ -1,0 +1,324 @@
+---
+canton: LU
+number: 547g
+title: "Reglement zum Weiterbildungsangebot «Master of Advanced Studies (MAS) in Kognitiver Verhaltenstherapie mit Schwerpunkt Kinder, Jugendliche und junge Erwachsene der Universitäten Freiburg, Bern, Luzern und Zürich»"
+short: Reglement MAS KVT
+language: de
+version: 2026-06-01
+version_adopted: 2026-04-01
+adopted: 2026-04-01
+in_force: 2026-06-01
+url: "https://srl.lu.ch/app/de/texts_of_law/547g"
+pdf: "https://srl.lu.ch/api/de/versions/4728/pdf_file"
+---
+
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
+
+# Reglement zum Weiterbildungsangebot «Master of Advanced Studies (MAS) in Kognitiver Verhaltenstherapie mit Schwerpunkt Kinder, Jugendliche und junge Erwachsene der Universitäten Freiburg, Bern, Luzern und Zürich»
+
+(Reglement MAS KVT)
+
+vom 01.04.2026 (Stand 01.06.2026)
+
+Der Universitätsrat der Universität Luzern,
+
+gestützt auf § 12 Absatz 2b des Statuts der Universität Luzern vom 13. Dezember 2023 (Universitätsstatut[^ingress-1]),
+
+auf Antrag des Senats,
+
+beschliesst:
+
+[^ingress-1]: SRL Nr. [539c](https://srl.lu.ch/data/539c/de)
+
+## 1 Allgemeine Bestimmungen
+
+#### § 1
+
+**Zweck**
+
+<sup>1</sup> Die Philosophische Fakultät der Universität Freiburg bietet gemeinsam mit der Philosophisch-humanwissenschaftlichen Fakultät der Universität Bern, der Fakultät für Verhaltenswissenschaften und Psychologie der Universität Luzern sowie der Philosophischen Fakultät der Universität Zürich einen deutschsprachigen Weiterbildungsstudiengang (MAS) in Kognitiver Verhaltenstherapie mit Schwerpunkt Kinder, Jugendliche und junge Erwachsene (nachfolgend «Programm») an.
+
+<sup>2</sup> Das Programm ist eine berufsbegleitende universitäre Weiterbildung mit dem Ziel, den Studierenden wissenschaftlich fundierte präventive und therapeutische Kompetenzen im Umgang mit psychischen Störungen bei Kindern, Jugendlichen und jungen Erwachsenen zu vermitteln. Die Weiterbildung basiert auf dem theoretischen und interventionsrelevanten Wissensstand der empirischen Psychologie und Psychotherapie. Die Ausrichtung ist kognitiv-verhaltenstherapeutisch, wobei eine systemische Sicht von Störungen und deren Behandlung sowie Methoden anderer wissenschaftlich erprobter Ansätze integraler Bestandteil der Weiterbildung sind.
+
+<sup>3</sup> Das Programm verbindet akademische Forschung und Lehre mit der Praxis und fördert gleichzeitig fachliche, methodische sowie soziale Kompetenzen.
+
+<sup>4</sup> Das Programm richtet sich an Personen mit einem Hochschulabschluss in Psychologie, die eine berufliche Qualifikation im Bereich der Psychotherapie anstreben.
+
+#### § 2
+
+**Gegenstand**
+
+<sup>1</sup> Dieses Reglement regelt die Organisation, die Zulassung zum Programm und die Voraussetzungen zur Titelverleihung für die Studierenden in Anwendung von § 1 Absatz 2 des Rahmenreglements für die Weiterbildung an der Universität Luzern[^2-1].
+
+<sup>2</sup> Einzelheiten können in einer Wegleitung geregelt werden.
+
+[^2-1]: SRL Nr. [539i](https://srl.lu.ch/data/539i/de)
+
+## 2 Organisation
+
+#### § 3
+
+**Trägerschaft und Organisation**
+
+<sup>1</sup> Die Trägerschaft liegt bei der Philosophischen Fakultät der Universität Freiburg, der Philosophisch-humanwissenschaftlichen Fakultät der Universität Bern, der Fakultät für Verhaltenswissenschaften und Psychologie der Universität Luzern und der Philosophischen Fakultät der Universität Zürich. Sie wird von den zuständigen Organen der Universitäten Freiburg, Bern, Luzern und Zürich in einer Kooperationsvereinbarung geregelt.
+
+<sup>2</sup> Die Organisation des Programms erfolgt in Zusammenarbeit mit den fachlich zuständigen Professuren im Bereich Klinische Psychologie und Psychotherapie mit Schwerpunkt Kinder und Jugendliche der Partneruniversitäten.
+
+<sup>3</sup> Unabhängig vom Durchführungsort unterliegen sämtliche Lehrveranstaltungen im Rahmen des Programms den rechtlichen Bestimmungen der Universität Freiburg. Entscheide gegenüber Studierenden werden durch die Universität Freiburg ausgestellt.
+
+#### § 4
+
+**Studienleitung**
+
+<sup>1</sup> Die Studienleitung besteht aus 9 bis 12 Mitgliedern und setzt sich wie folgt zusammen:
+
+- a. zwei Professorinnen oder Professoren aus dem Departement für Psychologie der Universität Freiburg,
+- b. ein bis zwei Professorinnen oder Professoren aus dem Institut für Psychologie der Universität Bern,
+- c. ein bis zwei Professorinnen oder Professoren aus der Fakultät für Verhaltenswissenschaften und Psychologie der Universität Luzern,
+- d. zwei Professorinnen oder Professoren aus der Philosophischen Fakultät der Universität Zürich,
+- e. zwei bis drei Fachpersonen aus Wissenschaft und Praxis,
+- f. eine Programmkoordinatorin oder ein Programmkoordinator, mit beratender Stimme.
+
+<sup>2</sup> Die Studienleitung wird von einem Mitglied des Departements für Psychologie der Universität Freiburg präsidiert. Die Stellvertretung übernimmt jeweils ein Mitglied einer der Partneruniversitäten. Diese Funktion rotiert jährlich, sodass die stellvertretende Person nach einer Amtsdauer von einem Jahr wechselt.
+
+<sup>3</sup> Die Präsidentin oder der Präsident und die Stellvertreterin oder der Stellvertreter bilden zusammen das Präsidium.
+
+<sup>4</sup> Die Studienleitung trifft ihre Beschlüsse wie folgt:
+
+- a. Die Präsidentin oder der Präsident beruft die Sitzungen der Studienleitung ein und leitet diese.
+- b. Die Studienleitung fasst ihre Beschlüsse im Kollegium. Sie ist beschlussfähig, wenn mindestens vier der stimmberechtigten Mitglieder anwesend sind. Bei Stimmengleichheit hat die Präsidentin oder der Präsident den Stichentscheid.
+- c. Beschlüsse können auf dem Zirkularweg gefasst werden, wenn alle Mitglieder der Studienleitung der Durchführung des Zirkularverfahrens zustimmen.
+
+<sup>5</sup> Im Übrigen konstituiert sich die Studienleitung selbst.
+
+<sup>6</sup> Die Studienleitung hat insbesondere folgende Aufgaben:
+
+- a. Sicherstellung der strategischen Ausrichtung und der Weiterentwicklung des Programms,
+- b. Entscheid über Kooperationen,
+- c. Ausarbeitung des Curriculums,
+- d. Wahl von Dozierenden,
+- e. Prüfung und Genehmigung des Budgets sowie Entscheid über Ausgaben ausserhalb des Budgets,
+- f. Festsetzung der Höhe der Programmkosten sowie der für die Kostendeckung minimal erforderlichen Zahl der Studierenden,
+- g. Entscheid über die Durchführung des Programms,
+- h. Festlegung der Kriterien für die Aufnahme in das Programm,
+- i. Entscheid über die Zulassung von Studierenden,
+- j. Entscheid über den Ausschluss von Studierenden aus dem Programm,
+- k. Entscheid über die Anerkennung von bereits erbrachten Studienleistungen,
+- l. Sicherstellung der Qualität des Programms,
+- m. Übermittlung der statistischen Angaben an die Weiterbildungsstelle der Universität Freiburg gemäss Artikel 13 Absatz 2 des Reglements über die Weiterbildung an der Universität Freiburg vom 7. Juli 2025.
+
+<sup>7</sup> Die Studienleitung ist für alle Aufgaben zuständig, soweit diese nicht in die Zuständigkeit anderer Organe fallen.
+
+#### § 5
+
+**Programmkoordination**
+
+<sup>1</sup> Die Programmkoordinatorin oder der Programmkoordinator ist für die operative Durchführung des Programms verantwortlich. Zusammen mit dem Präsidium vertritt sie oder er das Programm nach aussen.
+
+<sup>2</sup> Ihr oder ihm kommen insbesondere folgende Aufgaben zu:
+
+- a. Führung der Geschäftsstelle des Programms, welche an der Universität Freiburg situiert ist,
+- b. Unterstützung der Studienleitung,
+- c. Vorbereitung der Sitzungen der Studienleitung,
+- d. Abwicklung der Studierendenadministration,
+- e. Prüfung, ob alle Anforderungen für die Aufnahme in das Programm erfüllt sind,
+- f. Beratung der Studierenden in Bezug auf das Programm und die damit verbundenen Studienleistungen,
+- g. Verwaltung der Mittel, Erstellen der Vorschläge für das Budget, die Rechnung und den jährlichen Rechenschaftsbericht,
+- h. Organisation und Durchführung des Programms,
+- i. Prüfung, ob alle Kriterien zur Zulassung zur Abschlussprüfung erfüllt sind,
+- j. Durchführung der Evaluation des Programms,
+- k. Bewerbung des Programms,
+- l. Pflege des Kontakts mit den gegenwärtigen und künftigen Dozierenden,
+- m. Pflege des Kontakts mit den Ehemaligen des Programms.
+
+#### § 6
+
+**Lehrkörper**
+
+<sup>1</sup> Der Lehrkörper besteht aus Dozierenden der beteiligten Universitäten sowie aus beigezogenen Referentinnen und Referenten anderer Hochschulen und weiteren Fachpersonen. Die Vermittlung der Kernthemen des Programms wird vorwiegend von Dozierenden der beteiligten Universitäten übernommen. Die Auswahl des Lehrkörpers gewährleistet die inhaltliche Verbindung mit der Forschung an den beteiligten Universitäten.
+
+<sup>2</sup> Der Lehrkörper wird für seine Tätigkeit gesondert entschädigt.
+
+<sup>3</sup> Für Dozierende der Partneruniversitäten besteht kein Anspruch auf und keine Verpflichtung zur Mitwirkung am Studiengang.
+
+## 3 Weiterbildungsangebot
+
+#### § 7
+
+**Umfang und Struktur des Weiterbildungsangebots**
+
+<sup>1</sup> Das Programm umfasst 60 ECTS-Punkte und setzt sich aus den folgenden Inhalten zusammen:
+
+- a. Grundlagenvermittlung (22 ECTS-Punkte),
+- b. Klinisches Praxisseminar (4 ECTS-Punkte),
+- c. Supervision (intern) (6 ECTS-Punkte),
+- d. Supervision (extern) (2 ECTS-Punkte),
+- e. Selbsterfahrung (4 ECTS-Punkte),
+- f. Eigene psychotherapeutische Tätigkeit (12 ECTS-Punkte),
+- g. Interventionsberichte (8) (4 ECTS-Punkte),
+- h. Abschlussarbeit: zwei Fallberichte (2) (4 ECTS-Punkte),
+- i. Abschlussprüfung (2 ECTS-Punkte),
+- j. Klinische Praxis.
+
+<sup>2</sup> 1 ECTS-Punkt entspricht einem Arbeitsaufwand von 25 bis 30 Stunden, welche die Studierenden zur Erreichung der Lernziele einsetzen müssen.
+
+<sup>3</sup> Die Einzelheiten zu den Modulen und den Leistungsnachweisen werden von der Studienleitung im Curriculum festgelegt.
+
+<sup>4</sup> Das Programm dauert in der Regel vier bis sechs Jahre.
+
+<sup>5</sup> Auf begründeten Antrag an die Studienleitung kann das Programm auf maximal neun Jahre verlängert werden.
+
+<sup>6</sup> Eine unbegründete Überschreitung der festgelegten Fristen stellt einen Ausschlussgrund dar.
+
+#### § 8
+
+**Zulassung**
+
+<sup>1</sup> Um eine Aufnahme bewerben können sich Personen, welche die folgenden Anforderungen erfüllen:
+
+- a. Hochschulabschluss (Lizentiat oder Masterabschluss [M.Sc., M.A.] einer Universität oder einer Fachhochschule, oder Diplom oder entsprechender Studienabschluss mit Psychologie als Hauptfach und einem Nebenfachabschluss in Psychopathologie oder bestätigte einschlägige Lehrveranstaltungen im vergleichbaren Umfang),
+- b. Es müssen mindestens 12 ECTS-Punkte (vier Semesterwochenstunden während einem Jahr oder zwei Semesterwochenstunden während zwei Jahren, in Form von z. B. Vorlesungen, Seminaren, Kasuistik) in Psychopathologie erworben worden sein.
+
+<sup>2</sup> Die Zulassung erfolgt auf Grundlage eines Bewerbungsdossiers.
+
+<sup>3</sup> Es kann auch die Zulassung zu einzelnen Modulen beantragt werden.
+
+<sup>4</sup> Es besteht kein Anspruch auf Zulassung zum Programm, selbst wenn die Zulassungsbedingungen erfüllt sind.
+
+<sup>5</sup> Die Studienleitung entscheidet über die Zulassung.
+
+<sup>6</sup> Sollte die Anzahl der zugelassenen Bewerbungen nicht ausreichen, insbesondere wenn dadurch die vollständige Kostendeckung nicht gewährleistet ist, behält sich die Studienleitung das Recht vor, das Programm abzusagen oder zu verschieben.
+
+#### § 9
+
+**Anmeldung**
+
+<sup>1</sup> Die Bewerbung ist schriftlich an die Studienleitung zu richten.
+
+<sup>2</sup> Das Dossier für die Bewerbung umfasst:
+
+- a. ein Motivationsschreiben,
+- b. ein Curriculum Vitae (mit vollständiger Dokumentation),
+- c. Abschlussdokumente (Abschluss des Studiums der Psychologie, ausreichend validierte Studienleistungen in Psychopathologie).
+
+<sup>3</sup> Sind die Zulassungskriterien aufgrund der Prüfung des Dossiers erfüllt, folgt die Einladung zu einem Aufnahmegespräch. Dieses findet in der Regel sechs bis zwölf Monate vor Beginn des Weiterbildungszyklus statt und dient der Prüfung der Eignung und Motivation der Kandidatinnen oder Kandidaten für das Programm. Das Aufnahmegespräch dauert circa 30 bis 45 Minuten und wird von einer Fachpsychologin oder einem Fachpsychologen und der Programmkoordinatorin oder dem Programmkoordinator geführt.
+
+<sup>4</sup> Die Kandidatinnen und Kandidaten werden schriftlich über die Zulassung informiert.
+
+<sup>5</sup> Mit Abschluss des Weiterbildungsvertrags gilt die Anmeldung als definitiv.
+
+#### § 10
+
+**Leistungsnachweise**
+
+<sup>1</sup> Ein Leistungsnachweis wird mit «bestanden» oder «nicht bestanden» bewertet.
+
+<sup>2</sup> Wird ein Leistungsnachweis nicht bestanden, kann er einmal innerhalb von sechs Monaten ab Mitteilung wiederholt werden. Andernfalls gilt er als definitiv nicht bestanden und es erfolgt der Ausschluss aus dem Programm.
+
+<sup>3</sup> Die Zulassung zur Abschlussprüfung ist erst möglich, wenn 58 ECTS-Punkte gemäss § 7 erworben wurden sowie:
+
+- a. der schriftliche Antrag an die Studienleitung auf Zulassung zur Abschlussprüfung genehmigt wurde und
+- b. der Nachweis erbracht ist, dass die Gebühren gemäss Artikel 14 Absatz 1 bezahlt wurden.
+
+<sup>4</sup> Die Abschlussprüfung besteht aus einer zweistündigen mündlichen Prüfung. Der Prüfungsverlauf und die Beurteilung werden in einem Prüfungsprotokoll dokumentiert.
+
+<sup>5</sup> Der Prüfungsinhalt wird von der Studienleitung festgelegt und im Curriculum geregelt.
+
+<sup>6</sup> Für die bestandene Abschlussprüfung werden 2 ECTS-Punkte vergeben.
+
+<sup>7</sup> Die Studienleitung bewertet die Abschlussprüfung mit «bestanden» oder «nicht bestanden».
+
+<sup>8</sup> Wird die Abschlussprüfung nicht bestanden, kann sie einmal innerhalb von sechs Monaten ab Mitteilung wiederholt werden. Andernfalls gilt sie als definitiv nicht bestanden und es erfolgt der Ausschluss aus dem Programm.
+
+<sup>9</sup> Jeder ordnungsgemäss festgestellte Verstoss gegen die wissenschaftliche Redlichkeit, zum Beispiel Plagiat, und jeder nachweisliche Prüfungsbetrug führen zum Nichtbestehen des betreffenden Leistungsnachweises.
+
+<sup>10</sup> Disziplinarmassnahmen des Rektorats der Universität Freiburg bleiben vorbehalten.
+
+#### § 11
+
+**Anerkennung bereits erbrachter Studienleistungen**
+
+<sup>1</sup> Die Studienleitung entscheidet auf Antrag über die Anerkennung von bereits erbrachten Studienleistungen aus einem äquivalenten Programm einer in- oder ausländischen universitären Hochschule.
+
+<sup>2</sup> Es können maximal 12 ECTS-Punkte angerechnet werden.
+
+#### § 12
+
+**Evaluation**
+
+<sup>1</sup> Es wird ein Verfahren zur Evaluation des Programms und der Module durchgeführt. Die entsprechenden Erkenntnisse werden bei der Planung und Entwicklung des Programms sowie bei der Verpflichtung der Dozierenden berücksichtigt.
+
+#### § 13
+
+**Abschluss und Urkunde**
+
+<sup>1</sup> Für den erfolgreichen Abschluss des Programms wird von der Philosophischen Fakultät der Universität Freiburg, der Philosophisch-humanwissenschaftlichen Fakultät der Universität Bern, der Fakultät für Verhaltenswissenschaften und Psychologie der Universität Luzern sowie der Philosophischen Fakultät der Universität Zürich gemeinsam der Master of Advanced Studies in Kognitiver Verhaltenstherapie mit Schwerpunkt Kinder, Jugendliche und junge Erwachsene, Universitäten Freiburg, Bern, Luzern und Zürich (MAS KVT KJplus Unifr, UniBe, UNILU und UZH) (nachfolgend «MAS») erteilt.
+
+<sup>2</sup> Der MAS wird verliehen, wenn mindestens 60 ECTS-Punkte gemäss § 7 erworben worden sind.
+
+<sup>3</sup> Der MAS wird von der Universität Freiburg ausgestellt und von der Rektorin oder dem Rektor der Universität Freiburg, von der Dekanin oder dem Dekan der Philosophischen Fakultät der Universität Freiburg sowie von der Präsidentin oder dem Präsidenten der Studienleitung unterzeichnet.
+
+<sup>4</sup> Ein Diploma Supplement gibt Aufschluss über Inhalt und Umfang der erbrachten Studienleistungen.
+
+<sup>5</sup> Studierende, die ein oder mehrere Module besuchen, die das Programm nicht bestanden oder abgebrochen haben oder von diesem ausgeschlossen wurden, erhalten eine Teilnahmebestätigung.
+
+<sup>6</sup> Die Teilnahmebestätigung führt die für abgeschlossene Module erworbenen ECTS-Punkte auf.
+
+## 4 Finanzen
+
+#### § 14
+
+**Programmkosten**
+
+<sup>1</sup> Die Programmkosten setzen sich zusammen aus
+
+- a. der Gebühr für das Aufnahmegespräch und
+- b. den Gebühren für die theoretische Weiterbildung, einschliesslich Prüfungsgebühren.
+
+<sup>2</sup> Die Gebühr für das Aufnahmegespräch beträgt 150 bis 250 Franken. Sie ist auch geschuldet, wenn die Kandidatin oder der Kandidat nicht zum Programm zugelassen wird oder keine definitive Anmeldung zum Programm erfolgt.
+
+<sup>3</sup> Die Gebühren für die theoretische Weiterbildung beinhalten alle Kursgebühren sowie die Prüfungsgebühren. Sie werden von der Studienleitung im Rahmen von 20 000 bis 25 000 Franken festgelegt. Die Zahlungsmodalitäten werden im Weiterbildungsvertrag geregelt.
+
+<sup>4</sup> Von den Programmkosten ausgenommen sind Lehrmittel, die nicht im Rahmen des Programms abgegeben werden, Kosten für interne und externe Supervision und Selbsterfahrung sowie die persönlichen Auslagen der Studierenden für Übernachtung, Reise und Verpflegung.
+
+<sup>5</sup> Bei einer genehmigten Teildispensation aufgrund der Anrechnung von Studienleistungen aus einem äquivalenten Programm einer in- oder ausländischen universitären Hochschule besteht kein Anspruch auf Reduktion der Gebühren.
+
+<sup>6</sup> Im Falle eines Ausschlusses, eines Abbruchs oder des freiwilligen teilweisen Verzichts auf die Teilnahme am Programm besteht grundsätzlich kein Anspruch auf Rückerstattung der Gebühren.
+
+<sup>7</sup> In Härtefällen entscheidet die Studienleitung über die Kosten.
+
+## 5 Schlussbestimmungen
+
+#### § 15
+
+**Rechtspflege**
+
+<sup>1</sup> Der Rechtsweg gegen die gestützt auf § 3 Absatz 3 durch die Universität Freiburg ausgestellten Entscheide richtet sich nach den in den Absätzen 2 bis 9 festgelegten Rechtswegbestimmungen der Universität Freiburg.
+
+<sup>2</sup> Entscheide über die inhaltliche Bewertung der Leistungsnachweise, der Abschlussprüfung und über andere Fähigkeitsbewertungen sowie Entscheide über die Anerkennung von Studienleistungen können mittels Einsprache angefochten werden.
+
+<sup>3</sup> Die Frist für die Einsprache beträgt 30 Tage. Sie beginnt an dem Tag zu laufen, der auf die Mitteilung des beanstandeten Entscheids folgt.
+
+<sup>4</sup> Während der Einsprachefrist trifft die Entscheidbehörde Massnahmen, damit das Akteneinsichtsrecht ausgeübt werden kann.
+
+<sup>5</sup> Die Einsprache muss schriftlich sein. Sie muss die Begehren und deren Begründung enthalten und allfällige Beweismittel nennen.
+
+<sup>6</sup> Die Einsprache ist bei der Studienleitung einzureichen, welche die Einspracheinstanz ist. Sie führt das Verfahren und trifft die erforderlichen verfahrensleitenden Entscheide.
+
+<sup>7</sup> Der Entscheid über die Einsprache wird per Einschreiben mitgeteilt. Er nennt das zulässige Rechtsmittel und die Rechtsmittelfrist.
+
+<sup>8</sup> Für alle anderen Fragen wendet die Einspracheinstanz das Gesetz über die Verwaltungsrechtspflege des Kantons Freiburg an.
+
+<sup>9</sup> Für das Beschwerdeverfahren gegen Entscheide, die nicht dem Einspracheverfahren unterliegen, ist das Reglement über die interne Rekurskommission der Universität Freiburg vom 26. April 2017 anwendbar.
+
+#### § 16
+
+**Übergangsbestimmungen**
+
+<sup>1</sup> Dieses Reglement gilt für alle Studierenden, die das Programm ab dem 1. Januar 2027 beginnen.
+
+<sup>2</sup> Studierende, die ihr Studium vor dem 1. Januar 2027 begonnen haben, teilen der Programmkoordination bis zum 1. Januar 2027 mit, ob sie nach dem vorliegenden Reglement oder nach der bisherigen Verordnung über den Weiterbildungsstudiengang MAS in Kognitiver Verhaltenstherapie mit Schwerpunkt Kinder, Jugendliche und junge Erwachsene an den Philosophischen Fakultäten der Universitäten Zürich und Freiburg vom 21. Oktober 2022 weiterstudieren wollen. Erfolgt innert dieser Frist keine Mitteilung, so ist das vorliegende Reglement anwendbar.
+
+<sup>3</sup> Ab dem 1. Januar 2030 gilt für sämtliche Studierenden das vorliegende Reglement.
+
+G 2026-018
