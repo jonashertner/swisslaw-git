@@ -4,11 +4,11 @@ title: "Ordonnance de l'Assemblée fédérale du 18 mars 2016 sur l'organisation
 short: OOrgA
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/217"
 language: fr
-version: 2023-01-01
+version: 2026-06-01
 adopted: 2016-03-18
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/217/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2017-217-20230101-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/217/20230101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/217/20260601/fr/xml/fedlex-data-admin-ch-eli-cc-2017-217-20260601-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/217/20260601/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/217/20230101/fr"
 
 (Organisation de l’armée, OOrgA)
 
-du 18 mars 2016 (État le 1<sup>er</sup> janvier 2023)
+du 18 mars 2016 (État le 1<sup>er</sup> juin 2026)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -25,14 +25,14 @@ vu l’art. 93, al 2, de la loi du 3 février 1995 sur l’armée[^ingress-1], v
 
 arrête:
 
-[^ingress-1]: [RS 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
+[^ingress-1]: [RS 510.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7242)
 [^ingress-2]: [FF 2014 6693](https://fedlex.data.admin.ch/eli/fga/2014/1566)
 
 #### Art. 1
 
 **Effectif réglementaire de l’armée**
 
-<sup>1</sup> L’armée dispose d’un effectif réglementaire de 100 000 militaires astreints et d’un effectif réel de 140 000 au plus.
+<sup>1</sup> L’armée dispose d’un effectif réglementaire d’au moins 100 000 militaires astreints et d’un effectif réel suffisant pour garantir en tout temps l’effectif réglementaire.[^1-1]
 
 <sup>2</sup>
 
@@ -43,6 +43,8 @@ Ne font pas partie de l’effectif réglementaire et de l’effectif réel de l�
 - c. les militaires qui ne sont pas incorporés dans une formation ou affectés à la protection civile ou à d’autres domaines du Réseau national de sécurité;
 - d. les militaires en service long qui ont effectué le nombre maximal des jours de service d’instruction;
 - e. le personnel des administrations militaires fédérales et cantonales.
+
+[^1-1]: Nouvelle teneur selon le ch. I de l’O de l’Ass. féd. du 19 déc. 2025, en vigueur depuis le 1<sup>er</sup> juin 2026 ([RO 2026 166](https://fedlex.data.admin.ch/eli/oc/2026/166); [FF 2025 960](https://fedlex.data.admin.ch/eli/fga/2025/960)).
 
 #### Art. 2
 

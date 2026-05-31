@@ -4,11 +4,11 @@ title: "Verordnung der Bundesversammlung vom 18. März 2016 über die Organisati
 short: AO
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/217"
 language: de
-version: 2023-01-01
+version: 2026-06-01
 adopted: 2016-03-18
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/217/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2017-217-20230101-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/217/20230101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/217/20260601/de/xml/fedlex-data-admin-ch-eli-cc-2017-217-20260601-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/217/20260601/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/217/20230101/de"
 
 (Armeeorganisation, AO)
 
-vom 18. März 2016 (Stand am 1. Januar 2023)
+vom 18. März 2016 (Stand am 1. Juni 2026)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -25,14 +25,14 @@ gestützt auf Artikel 93 Absatz 2 des Militärgesetzes vom 3. Februar 1995[^ingr
 
 beschliesst:
 
-[^ingress-1]: [SR 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
+[^ingress-1]: [SR 510.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7242)
 [^ingress-2]: [BBl 2014 6955](https://fedlex.data.admin.ch/eli/fga/2014/1566)
 
 #### Art. 1
 
 **Sollbestand der Armee**
 
-<sup>1</sup> Die Armee verfügt über einen Sollbestand von 100 000 und einen Effektivbestand von höchstens 140 000 Militärdienstpflichtigen.
+<sup>1</sup> Die Armee verfügt über einen Sollbestand von mindestens 100 000 Militärdienstpflichtigen und einen Effektivbestand, der geeignet ist, den Sollbestand jederzeit sicherzustellen.[^1-1]
 
 <sup>2</sup>
 
@@ -43,6 +43,8 @@ Nicht zum Soll- und Effektivbestand der Armee zählen:
 - c. die Angehörigen der Armee, die weder in Formationen eingeteilt sind noch im Zivilschutz oder in anderen Bereichen des Sicherheitsverbundes Schweiz verwendet werden;
 - d. Durchdiener, die ihre Ausbildungsdienstpflicht erfüllt haben;
 - e. der Personalbestand der Militärverwaltung des Bundes und der Kantone.
+
+[^1-1]: Fassung gemäss Ziff. I der V der BVers vom 19. Dez. 2025, in Kraft seit 1. Juni 2026 ([AS 2026 166](https://fedlex.data.admin.ch/eli/oc/2026/166); [BBl 2025 960](https://fedlex.data.admin.ch/eli/fga/2025/960)).
 
 #### Art. 2
 

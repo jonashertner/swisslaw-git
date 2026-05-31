@@ -4,11 +4,11 @@ title: "Ordinanza dell'Assemblea federale del 18 marzo 2016 sull'organizzazione 
 short: OEs
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/217"
 language: it
-version: 2023-01-01
+version: 2026-06-01
 adopted: 2016-03-18
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/217/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2017-217-20230101-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/217/20230101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/217/20260601/it/xml/fedlex-data-admin-ch-eli-cc-2017-217-20260601-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/217/20260601/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/217/20230101/it"
 
 (Organizzazione dell’esercito, OEs)
 
-del 18 marzo 2016 (Stato 1° gennaio 2023)
+del 18 marzo 2016 (Stato 1° giugno 2026)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -25,14 +25,14 @@ visto l’articolo 93 capoverso 2 della legge militare del 3 febbraio 1995[^ingr
 
 decreta:
 
-[^ingress-1]: [RS 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
+[^ingress-1]: [RS 510.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7242)
 [^ingress-2]: [FF 2014 5939](https://fedlex.data.admin.ch/eli/fga/2014/1566)
 
 #### Art. 1
 
 **Effettivo regolamentare dell’esercito**
 
-<sup>1</sup> L’esercito dispone di un effettivo regolamentare di 100 000 persone soggette all’obbligo di prestare servizio militare e di un effettivo reale di al massimo 140 000 persone soggette all’obbligo di prestare servizio militare.
+<sup>1</sup> L’esercito dispone di un effettivo regolamentare di almeno 100 000 persone soggette all’obbligo di prestare servizio militare e di un effettivo reale in grado di garantire in ogni momento l’effettivo regolamentare.[^1-1]
 
 <sup>2</sup>
 
@@ -43,6 +43,8 @@ L’effettivo regolamentare e l’effettivo reale non comprendono:
 - c. i militari che non sono né incorporati in una formazione né impiegati nella protezione civile o in altri settori della Rete integrata Svizzera per la sicurezza;
 - d. i militari in ferma continuata che hanno adempiuto il totale obbligatorio di giorni di servizio d’istruzione;
 - e. il personale dell’amministrazione militare della Confederazione e dei Cantoni.
+
+[^1-1]: Nuovo testo giusta la cifra I dell’O dell’AF del 19 dic. 2025, in vigore dal 1° giu. 2026 ([RU 2026 166](https://fedlex.data.admin.ch/eli/oc/2026/166); [FF 2025 960](https://fedlex.data.admin.ch/eli/fga/2025/960)).
 
 #### Art. 2
 
@@ -73,12 +75,12 @@ L’esercito si articola in:
   - 2\. cinque formazioni d’addestramento,
   - 3\. il personale dell’esercito.
 
-[^2-1]: Nuovo testo giusta il n. I dell’O dell’AF del 18 mar. 2022, in vigore dal 1° gen. 2023 ([RU 2022 718](https://fedlex.data.admin.ch/eli/oc/2022/718)).
-[^2-2]: Nuovo testo giusta il n. I dell’O dell’AF del 18 mar. 2022, in vigore dal 1° gen. 2023 ([RU 2022 718](https://fedlex.data.admin.ch/eli/oc/2022/718)).
-[^2-3]: Nuovo testo giusta il n. I dell’O dell’AF del 18 mar. 2022, in vigore dal 1° gen. 2023 ([RU 2022 718](https://fedlex.data.admin.ch/eli/oc/2022/718)).
-[^2-4]: Introdotto dal n. I dell’O dell’AF del 18 mar. 2022, in vigore dal 1° gen. 2023 ([RU 2022 718](https://fedlex.data.admin.ch/eli/oc/2022/718)).
-[^2-5]: Nuovo testo giusta il n. I dell’O dell’AF del 18 mar. 2022, in vigore dal 1° gen. 2023 ([RU 2022 718](https://fedlex.data.admin.ch/eli/oc/2022/718)).
-[^2-6]: Introdotta dal n. I dell’O dell’AF del 18 mar. 2022, in vigore dal 1° gen. 2023 ([RU 2022 718](https://fedlex.data.admin.ch/eli/oc/2022/718)).
+[^2-1]: Nuovo testo giusta la cifra I dell’O dell’AF del 18 mar. 2022, in vigore dal 1° gen. 2023 ([RU 2022 718](https://fedlex.data.admin.ch/eli/oc/2022/718); [FF 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
+[^2-2]: Nuovo testo giusta la cifra I dell’O dell’AF del 18 mar. 2022, in vigore dal 1° gen. 2023 ([RU 2022 718](https://fedlex.data.admin.ch/eli/oc/2022/718); [FF 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
+[^2-3]: Nuovo testo giusta la cifra I dell’O dell’AF del 18 mar. 2022, in vigore dal 1° gen. 2023 ([RU 2022 718](https://fedlex.data.admin.ch/eli/oc/2022/718); [FF 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
+[^2-4]: Introdotto dalla cifra I dell’O dell’AF del 18 mar. 2022, in vigore dal 1° gen. 2023 ([RU 2022 718](https://fedlex.data.admin.ch/eli/oc/2022/718); [FF 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
+[^2-5]: Nuovo testo giusta la cifra I dell’O dell’AF del 18 mar. 2022, in vigore dal 1° gen. 2023 ([RU 2022 718](https://fedlex.data.admin.ch/eli/oc/2022/718); [FF 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
+[^2-6]: Introdotta dalla cifra I dell’O dell’AF del 18 mar. 2022, in vigore dal 1° gen. 2023 ([RU 2022 718](https://fedlex.data.admin.ch/eli/oc/2022/718); [FF 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
 
 #### Art. 3
 
@@ -124,7 +126,7 @@ Dopo l’entrata in vigore della presente ordinanza il Consiglio federale introd
 
 Il Consiglio federale istituisce il Comando Ciber entro due anni dall’entrata in vigore della modifica del 18 marzo 2022.
 
-[^6a-1]: Introdotto dal n. I dell’O dell’AF del 18 mar. 2022, in vigore dal 1° gen. 2023 ([RU 2022 718](https://fedlex.data.admin.ch/eli/oc/2022/718)).
+[^6a-1]: Introdotto dalla cifra I dell’O dell’AF del 18 mar. 2022, in vigore dal 1° gen. 2023 ([RU 2022 718](https://fedlex.data.admin.ch/eli/oc/2022/718); [FF 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
 
 #### Art. 7
 
@@ -132,7 +134,7 @@ Il Consiglio federale istituisce il Comando Ciber entro due anni dall’entrata 
 
 L’organizzazione dell’esercito del 4 ottobre 2002[^7-1] è abrogata.
 
-[^7-1]: [[RU 2003 4027](https://fedlex.data.admin.ch/eli/oc/2003/585); [2004 5047](https://fedlex.data.admin.ch/eli/oc/2004/775)n. III; [2007 2971](https://fedlex.data.admin.ch/eli/oc/2007/399); [2009 3131](https://fedlex.data.admin.ch/eli/oc/2009/383)n. III, [6921](https://fedlex.data.admin.ch/eli/oc/2009/846)n. I 6]
+[^7-1]: [[RU 2003 4027](https://fedlex.data.admin.ch/eli/oc/2003/585); [2004 5047](https://fedlex.data.admin.ch/eli/oc/2004/775)cifra III; [2007 2971](https://fedlex.data.admin.ch/eli/oc/2007/399); [2009 3131](https://fedlex.data.admin.ch/eli/oc/2009/383)cifra III, [6921](https://fedlex.data.admin.ch/eli/oc/2009/846)cifra I n. 6]
 
 #### Art. 8
 
