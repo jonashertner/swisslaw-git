@@ -4,11 +4,11 @@ title: "Ordonnance du 2 juillet 2008 sur les armes, les accessoires d'armes et l
 short: OArm
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/767"
 language: fr
-version: 2025-07-22
+version: 2026-06-01
 adopted: 2008-07-02
 in_force: 2008-12-12
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/767/20250722/fr/xml/fedlex-data-admin-ch-eli-cc-2008-767-20250722-fr-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/767/20250722/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/767/20260601/fr/xml/fedlex-data-admin-ch-eli-cc-2008-767-20260601-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/767/20260601/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/767/20250722/fr"
 
 (Ordonnance sur les armes, OArm)
 
-du 2 juillet 2008 (État le 22 juillet 2025)
+du 2 juillet 2008 (État le 1<sup>er</sup> juin 2026)
 
 Le Conseil fédéral suisse,
 
@@ -25,8 +25,8 @@ vu la loi du 20 juin 1997 sur les armes (LArm)[^ingress-1], vu l’art. 150*a*, 
 
 arrête:
 
-[^ingress-1]: [RS 514.54](https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535)
-[^ingress-2]: [RS 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
+[^ingress-1]: [RS 514.54](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7530)
+[^ingress-2]: [RS 510.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7242)
 
 ## Chapitre 1 Définitions
 
@@ -65,7 +65,7 @@ Les sprays d’autodéfense contenant les substances irritantes visées dans l�
 
 Les appareils produisant des électrochocs sont considérés comme des armes s’ils ne sont pas soumis aux dispositions de l’ordonnance du 9 avril 1997 sur les matériels électriques à basse tension[^2-1]. En cas de doute, l’Office central des armes (OCA) prend la décision.
 
-[^2-1]: [[RO 1997 1016](https://fedlex.data.admin.ch/eli/oc/1997/1016_1016_1016), [2000 734](https://fedlex.data.admin.ch/eli/oc/2000/123)art. 19 ch. 2 [762](https://fedlex.data.admin.ch/eli/oc/2000/127)ch. I 3, [2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)ch. IV 23, [2009 6243](https://fedlex.data.admin.ch/eli/oc/2009/763)annexe 3 ch. II 4, [2010 2583](https://fedlex.data.admin.ch/eli/oc/2010/348)annexe 4 ch. II 1 [2749](https://fedlex.data.admin.ch/eli/oc/2010/358)ch. I 1, [2013 3509](https://fedlex.data.admin.ch/eli/oc/2013/653)annexe ch. 2. [RO 2016 105](https://fedlex.data.admin.ch/eli/oc/2016/17)art. 29]. Voir actuellement l’O du 25 nov. 2015 ([RS 734.26](https://fedlex.data.admin.ch/eli/cc/2016/17)).
+[^2-1]: [[RO 1997 1016](https://fedlex.data.admin.ch/eli/oc/1997/1016_1016_1016), [2000 734](https://fedlex.data.admin.ch/eli/oc/2000/123)art. 19 ch. 2 [762](https://fedlex.data.admin.ch/eli/oc/2000/127)ch. I 3, [2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)ch. IV 23, [2009 6243](https://fedlex.data.admin.ch/eli/oc/2009/763)annexe 3 ch. II 4, [2010 2583](https://fedlex.data.admin.ch/eli/oc/2010/348)annexe 4 ch. II 1 [2749](https://fedlex.data.admin.ch/eli/oc/2010/358)ch. I 1, [2013 3509](https://fedlex.data.admin.ch/eli/oc/2013/653)annexe ch. 2. [RO 2016 105](https://fedlex.data.admin.ch/eli/oc/2016/17)art. 29]. Voir actuellement l’O du 25 nov. 2015 ([RS 734.26](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8582)).
 
 #### Art. 3
 
@@ -603,7 +603,7 @@ En l’absence d’indice contraire, l’aliénateur peut conclure à l’absenc
 
 <sup>4</sup> Le contrat écrit, l’extrait du casier judiciaire destiné aux particuliers et la copie de passeport ou de carte d’identité en cours de validité doivent être conservés. En cas d’aliénation d’une arme à feu, l’aliénateur doit transmettre une copie de ces documents au service cantonal d’enregistrement.[^18-4]
 
-[^18-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^18-1]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 [^18-2]: Nouvelle expression selon l’annexe 10 ch. II 19 de l’O du 19 oct. 2022 sur le casier judiciaire, en vigueur depuis le 23 janv. 2023 ([RO 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)). Il a été tenu compte de cette mod. dans tout le texte.
 [^18-3]: Introduit par le ch. I de l’O du 14 juin 2019, en vigueur depuis le 15 août 2019 ([RO 2019 2377](https://fedlex.data.admin.ch/eli/oc/2019/446)).
 [^18-4]: Nouvelle teneur selon le ch. I de l’O du 14 juin 2019, en vigueur depuis le 15 août 2019 ([RO 2019 2377](https://fedlex.data.admin.ch/eli/oc/2019/446)).
@@ -692,7 +692,7 @@ Peuvent être remises en prêt, avec l’accord écrit de leur représentant lé
 <sup>4</sup> La société de tir concernée veille à la conservation des armes visées à l’art 5, al. 1, let. b et c, de l’ordonnance sur le tir, qui ont été prêtées à des personnes n’ayant pas encore atteint l’âge de 17 ans révolus.[^23-3]
 
 [^23-1]: Nouvelle teneur selon le ch. I de l’O du 4 juin 2010, en vigueur depuis le 28 juil. 2010 ([RO 2010 2827](https://fedlex.data.admin.ch/eli/oc/2010/370)).
-[^23-2]: [RS 512.31](https://fedlex.data.admin.ch/eli/cc/2003/754)
+[^23-2]: [RS 512.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7434)
 [^23-3]: Introduit par le ch. III de l’O du 18 nov. 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 5071](https://fedlex.data.admin.ch/eli/oc/2015/830)).
 
 ### Section 3 Acquisition de munitions et d’éléments de munitions
@@ -722,9 +722,11 @@ L’aliénateur peut conclure à l’absence de motif s’opposant à l’alién
 
 #### Art. 24a
 
-<sup>1</sup> Quiconque aliène un chargeur de grande capacité doit vérifier si l’acquéreur s’est vu délivrer, pour une arme à feu correspondante, une autorisation cantonale exceptionnelle ou une confirmation de la possession. Pour la vérification, une copie de l’autorisation exceptionnelle ou de la confirmation suffit. Le détenteur d’armes à feu d’ordonnance reprises en propriété directement à partir des stocks de l’administration militaire doit apporter la preuve de l’acquisition de l’arme en présentant l’inscription dans le livret de service.
+<sup>1</sup> Quiconque aliène un chargeur de grande capacité doit vérifier si l’acquéreur s’est vu délivrer, pour une arme à feu correspondante, une autorisation cantonale exceptionnelle ou une confirmation de la possession. Pour la vérification, une copie de l’autorisation exceptionnelle ou de la confirmation suffit. Le détenteur d’armes à feu d’ordonnance reprises en propriété directement à partir des stocks de l’administration militaire doit apporter la preuve de l’acquisition de l’arme en présentant l’attestation de l’accomplissement des obligations militaires.[^24a-1]
 
 <sup>2</sup> Les chargeurs d’une capacité allant de 11 à 20 cartouches pouvant être utilisés tant avec des armes à feu à épauler que des armes à feu de poing peuvent être aliénés si l’acquéreur s’est vu délivrer une autorisation exceptionnelle ou une confirmation visée à l’al. 1 ou un permis d’acquisition d’armes ou une carte européenne d’arme à feu pour une arme à feu de poing correspondante.
+
+[^24a-1]: Nouvelle teneur selon l’annexe ch. 5 de l’O du 1<sup>er</sup> avr. 2026, en vigueur depuis le 1<sup>er</sup> juin 2026 ([RO 2026 174](https://fedlex.data.admin.ch/eli/oc/2026/174)).
 
 ## Chapitre 3 Homologations
 
@@ -1334,8 +1336,8 @@ Sont libérés de l’obligation de conduire et de déclarer les marchandises au
 - d. les personnes qui rendent vraisemblable qu’elles ont eu besoin de leurs armes et des munitions afférentes pour la chasse ou le tir sportif ou des sports de combat à l’étranger et qu’elles introduisent les mêmes armes que celles qu’elles ont exportées dans ce but;
 - e. les personnes qui rendent vraisemblable qu’elles ont eu besoin de leurs armes et des munitions afférentes pour la chasse ou le tir sportif ou des sports de combat en Suisse et qu’elles réexporteront ensuite ces armes.
 
-[^43-1]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
-[^43-2]: [RS 0.631.24](https://fedlex.data.admin.ch/eli/cc/1995/4685_4685_4685)
+[^43-1]: [RS 631.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7812)
+[^43-2]: [RS 0.631.24](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2025)
 [^43-3]: Introduite par le ch. I de l’O du 21 nov. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6781](https://fedlex.data.admin.ch/eli/oc/2012/820)).
 
 ### Section 4 Exportation
@@ -1568,7 +1570,7 @@ Les émoluments fixés dans l’annexe 1 sont perçus pour le traitement des dem
 
 Les dispositions de l’ordonnance générale du 8 septembre 2004 sur les émoluments[^56-1] s’appliquent, sauf disposition particulière de la présente ordonnance.
 
-[^56-1]: [RS 172.041.1](https://fedlex.data.admin.ch/eli/cc/2004/677)
+[^56-1]: [RS 172.041.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5068)
 
 #### Art. 57
 
@@ -1706,11 +1708,11 @@ En outre, les autorités suivantes peuvent consulter en ligne les données du DE
 <sup>6</sup> Les droits d’accès sont réglés à l’annexe 3.
 
 [^61-1]: Nouvelle teneur selon le ch. I de l’O du 3 juin 2016, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2016 2117](https://fedlex.data.admin.ch/eli/oc/2016/343)).
-[^61-2]: [RS 941.42](https://fedlex.data.admin.ch/eli/cc/2022/352)
+[^61-2]: [RS 941.42](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11231)
 [^61-3]: Introduit par l’annexe 2 ch. 9 de l’O du 25 mai 2022 sur les précurseurs de substances explosibles, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 353](https://fedlex.data.admin.ch/eli/oc/2022/353)).
-[^61-4]: [RS 360](https://fedlex.data.admin.ch/eli/cc/1995/875_875_875)
-[^61-5]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
-[^61-6]: [RS 312.2](https://fedlex.data.admin.ch/eli/cc/2012/814)
+[^61-4]: [RS 360](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6300)
+[^61-5]: [RS 312.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6214)
+[^61-6]: [RS 312.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6221)
 [^61-7]: Introduit par le ch. I de l’O du 14 juin 2019, en vigueur depuis le 14 déc. 2019 ([RO 2019 2377](https://fedlex.data.admin.ch/eli/oc/2019/446)).
 
 #### Art. 62
@@ -1741,7 +1743,7 @@ En outre, les autorités suivantes peuvent consulter en ligne les données du DE
 Il y a protection appropriée de la personne concernée au sens de l’art. 32*e*, al. 3, LArm, lorsque des garanties appropriée respectent les exigences des art. 9 à 12 de l’ordonnance du 31 août 2022 sur la protection des données (OPDo)[^64-2].
 
 [^64-1]: Nouvelle teneur selon l’annexe 2 ch. II 65 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
-[^64-2]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^64-2]: [RS 235.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5994)
 
 #### Art. 65
 
@@ -1750,7 +1752,7 @@ Il y a protection appropriée de la personne concernée au sens de l’art. 32*e
 Les droits des personnes concernées sont régis par les dispositions de la loi fédérale du 25 septembre 2020 sur la protection des données (LPD)[^65-2].
 
 [^65-1]: Nouvelle teneur selon l’annexe 2 ch. II 65 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
-[^65-2]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^65-2]: [RS 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 
 #### Art. 66
 
@@ -1784,8 +1786,8 @@ Le traitement de données dans les banques de données visées à l’art. 32*a*
 Les données personnelles issues de la banque de données visée à l’art. 59*a* sont proposées aux Archives fédérales suisses conformément à l’art. 38 LPD[^66b-2] et à l’art. 6 de la loi fédérale du 26 juin 1998 sur l’archivage[^66b-3].
 
 [^66b-1]: Introduit par le ch. I de l’O du 21 nov. 2012 ([RO 2012 6781](https://fedlex.data.admin.ch/eli/oc/2012/820)). Nouvelle teneur selon l’annexe 2 ch. II 65 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
-[^66b-2]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
-[^66b-3]: [RS 152.1](https://fedlex.data.admin.ch/eli/cc/1999/354)
+[^66b-2]: [RS 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
+[^66b-3]: [RS 152.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4931)
 
 #### Art. 66c
 
@@ -1802,9 +1804,9 @@ La sécurité des données est garantie conformément à:
 
 [^66c-1]: Introduit par le ch. I de l’O du 21 nov. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6781](https://fedlex.data.admin.ch/eli/oc/2012/820)).
 [^66c-2]: Nouvelle teneur selon l’annexe 2 ch. II 65 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
-[^66c-3]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^66c-3]: [RS 235.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5994)
 [^66c-4]: Nouvelle teneur selon l’annexe 2 ch. II 32 de l’O du 8 nov. 2023 sur la sécurité de l’information, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
-[^66c-5]: [RS 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
+[^66c-5]: [RS 128.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40166)
 [^66c-6]: Nouvelle teneur selon l’annexe ch. 11 de l’O du 24 fév. 2021, en vigueur depuis le 1<sup>er</sup> avr. 2021 ([RO 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
 
 #### Art. 66d
@@ -1831,7 +1833,7 @@ Fedpol édicte un règlement relatif au traitement des données dans les banques
 
 <sup>4</sup> Si l’intervention de la police cantonale n’est pas possible ou n’est pas opportune, l’OFDF, après avoir informé la police des faits, établit le procès-verbal de constat et le remet, avec les objets mis sous séquestre, aux autorités d’instruction compétentes en vue de l’ouverture d’une procédure pénale.
 
-[^67-1]: La désignation de l’unité administrative a été adaptée en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Il a été tenu compte de cette mod. dans tout le texte.
+[^67-1]: La désignation de l’unité administrative a été adaptée en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)), avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Il a été tenu compte de cette mod. dans tout le texte.
 
 #### Art. 68
 

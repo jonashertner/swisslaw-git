@@ -4,11 +4,11 @@ title: "Ordinanza del 2 luglio 2008 sulle armi, gli accessori di armi e le muniz
 short: OArm
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/767"
 language: it
-version: 2025-07-22
+version: 2026-06-01
 adopted: 2008-07-02
 in_force: 2008-12-12
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/767/20250722/it/xml/fedlex-data-admin-ch-eli-cc-2008-767-20250722-it-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/767/20250722/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/767/20260601/it/xml/fedlex-data-admin-ch-eli-cc-2008-767-20260601-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/767/20260601/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/767/20250722/it"
 
 (Ordinanza sulle armi, OArm)
 
-del 2 luglio 2008 (Stato 22 luglio 2025)
+del 2 luglio 2008 (Stato 1° giugno 2026)
 
 Il Consiglio federale svizzero,
 
@@ -25,14 +25,14 @@ vista la legge del 20 giugno 1997[^ingress-1] sulle armi (LArm); visto l’artic
 
 ordina:
 
-[^ingress-1]: [RS 514.54](https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535)
-[^ingress-2]: [RS 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
+[^ingress-1]: [RS 514.54](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7530)
+[^ingress-2]: [RS 510.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7242)
 
 ## Capitolo 1: Definizioni
 
 [^chap1-1]
 
-[^chap1-1]: Nuovo testo giusta il n. I dell’O del 14 giu. 2019, in vigore dal 15 ago. 2019 ([RU 2019 2377](https://fedlex.data.admin.ch/eli/oc/2019/446)).
+[^chap1-1]: Nuovo testo giusta la cifra I dell’O del 14 giu. 2019, in vigore dal 15 ago. 2019 ([RU 2019 2377](https://fedlex.data.admin.ch/eli/oc/2019/446)).
 
 #### Art. 1
 
@@ -44,7 +44,7 @@ ordina:
 
 <sup>2</sup> Non sono considerate armi da fuoco le scacciacani e le armi da segnalazione che rispettano tali specifiche tecniche.
 
-[^1-1]: Introdotto dal n. I dell’O del 24 giu. 2020, in vigore dal 1° set. 2020 ([RU 2020 2955](https://fedlex.data.admin.ch/eli/oc/2020/549)).
+[^1-1]: Introdotto dalla cifra I dell’O del 24 giu. 2020, in vigore dal 1° set. 2020 ([RU 2020 2955](https://fedlex.data.admin.ch/eli/oc/2020/549)).
 [^1-2]: Direttiva di esecuzione (UE) 2019/69 della Commissione, del 16 gennaio 2019, che stabilisce le specifiche tecniche relative alle armi d’allarme o da segnalazione a norma della direttiva 91/477/CEE del Consiglio relativa al controllo dell’acquisizione e della detenzione di armi, versione della GU L 15 del 17.01.2019, pag. 22.
 
 #### Art. 1a
@@ -65,7 +65,7 @@ Sono considerati armi gli spray destinati all’autodifesa contenenti le sostanz
 
 I dispositivi che producono un elettrochoc sono considerati armi se non sono conformi alle disposizioni dell’ordinanza del 9 aprile 1997[^2-1] sui prodotti elettrici a bassa tensione. In caso di dubbio decide l’Ufficio centrale Armi.
 
-[^2-1]: [[RU 1997 1016](https://fedlex.data.admin.ch/eli/oc/1997/1016_1016_1016); [2000 734](https://fedlex.data.admin.ch/eli/oc/2000/123)art. 19 n. 2, [762](https://fedlex.data.admin.ch/eli/oc/2000/127)n. I 3; [2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)n. IV 23; [2009 6243](https://fedlex.data.admin.ch/eli/oc/2009/763)all. 3 n. II 4; [2010 2583](https://fedlex.data.admin.ch/eli/oc/2010/348)all. 4 n. II 1, [2749](https://fedlex.data.admin.ch/eli/oc/2010/358)n. I 1; [2013 3509](https://fedlex.data.admin.ch/eli/oc/2013/653)all. n. 2. [RU 2016 105](https://fedlex.data.admin.ch/eli/oc/2016/17)art. 29]. Vedi ora l’O del 25 nov. 2015 ([RS 734.26](https://fedlex.data.admin.ch/eli/cc/2016/17)).
+[^2-1]: [[RU 1997 1016](https://fedlex.data.admin.ch/eli/oc/1997/1016_1016_1016); [2000 734](https://fedlex.data.admin.ch/eli/oc/2000/123)art. 19 n. 2, [762](https://fedlex.data.admin.ch/eli/oc/2000/127)cifra I n. 3; [2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)cifra IV n. 23; [2009 6243](https://fedlex.data.admin.ch/eli/oc/2009/763)all. 3 n. II 4; [2010 2583](https://fedlex.data.admin.ch/eli/oc/2010/348)all. 4 cifra II n. 1, [2749](https://fedlex.data.admin.ch/eli/oc/2010/358)cifra I n. 1; [2013 3509](https://fedlex.data.admin.ch/eli/oc/2013/653)all. n. 2. [RU 2016 105](https://fedlex.data.admin.ch/eli/oc/2016/17)art. 29]. Vedi ora l’O del 25 nov. 2015 ([RS 734.26](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8582)).
 
 #### Art. 3
 
@@ -106,8 +106,8 @@ Sono considerate parti essenziali di armi:
   - 1\. il dispositivo di puntamento,
   - 2\. il contenitore di lancio o il tubo di lancio.
 
-[^3-1]: Introdotto dal n. I dell’O del 14 giu. 2019, in vigore dal 15 ago. 2019 ([RU 2019 2377](https://fedlex.data.admin.ch/eli/oc/2019/446)).
-[^3-2]: Nuovo testo giusta il n. I dell’O del 14 giu. 2019, in vigore dal 15 ago. 2019 ([RU 2019 2377](https://fedlex.data.admin.ch/eli/oc/2019/446)).
+[^3-1]: Introdotto dalla cifra I dell’O del 14 giu. 2019, in vigore dal 15 ago. 2019 ([RU 2019 2377](https://fedlex.data.admin.ch/eli/oc/2019/446)).
+[^3-2]: Nuovo testo giusta la cifra I dell’O del 14 giu. 2019, in vigore dal 15 ago. 2019 ([RU 2019 2377](https://fedlex.data.admin.ch/eli/oc/2019/446)).
 
 #### Art. 4
 
@@ -134,7 +134,7 @@ Sono considerate parti appositamente costruite di accessori di armi:
 
 <sup>2</sup> Sono considerate armi da fuoco corte le pistole e le rivoltelle nonché le altre armi da fuoco che non rientrano nel campo d’applicazione del capoverso 1.
 
-[^4a-1]: Introdotto dal n. I dell’O del 14 giu. 2019, in vigore dal 15 ago. 2019 ([RU 2019 2377](https://fedlex.data.admin.ch/eli/oc/2019/446)).
+[^4a-1]: Introdotto dalla cifra I dell’O del 14 giu. 2019, in vigore dal 15 ago. 2019 ([RU 2019 2377](https://fedlex.data.admin.ch/eli/oc/2019/446)).
 
 #### Art. 5
 
@@ -148,8 +148,8 @@ Sono considerate parti appositamente costruite di accessori di armi:
 
 <sup>2</sup> Il Dipartimento federale di giustizia e polizia (DFGP)[^5-2] decide quali altri ordigni sono da considerarsi ordigni militari per il lancio con effetto dirompente.
 
-[^5-1]: Nuovo testo giusta il n. I dell’O del 14 giu. 2019, in vigore dal 15 ago. 2019 ([RU 2019 2377](https://fedlex.data.admin.ch/eli/oc/2019/446)).
-[^5-2]: Nuova espr. giusta il n. I dell’O del 14 giu. 2019, in vigore dal 15 ago. 2019 ([RU 2019 2377](https://fedlex.data.admin.ch/eli/oc/2019/446)). Di detta mod. é tenuto conto in tutto il testo.
+[^5-1]: Nuovo testo giusta la cifra I dell’O del 14 giu. 2019, in vigore dal 15 ago. 2019 ([RU 2019 2377](https://fedlex.data.admin.ch/eli/oc/2019/446)).
+[^5-2]: Nuova espr. giusta la cifra I dell’O del 14 giu. 2019, in vigore dal 15 ago. 2019 ([RU 2019 2377](https://fedlex.data.admin.ch/eli/oc/2019/446)). Di detta mod. é tenuto conto in tutto il testo.
 
 #### Art. 5a
 
@@ -159,7 +159,7 @@ Sono considerate parti appositamente costruite di accessori di armi:
 
 Le armi da fuoco per il tiro a raffica sono considerate modificate in armi da fuoco semiautomatiche, se la funzione di tiro a raffica non può essere ripristinata o può esserlo soltanto con grande dispendio da uno specialista con attrezzature speciali.
 
-[^5a-1]: Introdotto dal n. I dell’O del 14 giu. 2019, in vigore dal 15 ago. 2019 ([RU 2019 2377](https://fedlex.data.admin.ch/eli/oc/2019/446)).
+[^5a-1]: Introdotto dalla cifra I dell’O del 14 giu. 2019, in vigore dal 15 ago. 2019 ([RU 2019 2377](https://fedlex.data.admin.ch/eli/oc/2019/446)).
 
 #### Art. 5b
 
@@ -173,7 +173,7 @@ Le armi da fuoco semiautomatiche a percussione centrale sono considerate dotate 
 - b. l’arma da fuoco è custodita insieme a un caricatore ad alta capacità di colpi compatibile; oppure
 - c. l’arma da fuoco è trasportata insieme a un caricatore ad alta capacità di colpi compatibile.
 
-[^5b-1]: Introdotto dal n. I dell’O del 14 giu. 2019, in vigore dal 15 ago. 2019 ([RU 2019 2377](https://fedlex.data.admin.ch/eli/oc/2019/446)).
+[^5b-1]: Introdotto dalla cifra I dell’O del 14 giu. 2019, in vigore dal 15 ago. 2019 ([RU 2019 2377](https://fedlex.data.admin.ch/eli/oc/2019/446)).
 
 #### Art. 6
 
@@ -201,7 +201,7 @@ I coltelli sono considerati armi se:
 
 <sup>3</sup> I coltelli da lancio e i pugnali sono considerati armi se hanno una lama fissa, appuntita, simmetrica e di lunghezza superiore a 5 cm e inferiore a 30 cm.
 
-[^7-1]: Nuovo testo giusta il n. I dell’O del 3 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 2117](https://fedlex.data.admin.ch/eli/oc/2016/343)).
+[^7-1]: Nuovo testo giusta la cifra I dell’O del 3 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 2117](https://fedlex.data.admin.ch/eli/oc/2016/343)).
 
 #### Art. 8
 
@@ -227,19 +227,19 @@ Per coltelli tascabili dell’esercito svizzero s’intendono i coltelli tascabi
 
 Per mediazione s’intende la creazione delle condizioni essenziali per la conclusione di contratti che vertono sulla fabbricazione, l’offerta, l’acquisto o il trasferimento di armi nonché l’organizzazione di tali transazioni.
 
-[^9a-1]: Introdotto dal n. I dell’O del 14 giu. 2019, in vigore dal 15 ago. 2019 ([RU 2019 2377](https://fedlex.data.admin.ch/eli/oc/2019/446)).
+[^9a-1]: Introdotto dalla cifra I dell’O del 14 giu. 2019, in vigore dal 15 ago. 2019 ([RU 2019 2377](https://fedlex.data.admin.ch/eli/oc/2019/446)).
 
 ## Capitolo 1*a*: Divieti e restrizioni generali, nonché autorizzazioni eccezionali
 
 [^chap1a-1]
 
-[^chap1a-1]: Introdotto dal n. I dell’O del 14 giu. 2019, in vigore dal 15 ago. 2019 ([RU 2019 2377](https://fedlex.data.admin.ch/eli/oc/2019/446)).
+[^chap1a-1]: Introdotto dalla cifra I dell’O del 14 giu. 2019, in vigore dal 15 ago. 2019 ([RU 2019 2377](https://fedlex.data.admin.ch/eli/oc/2019/446)).
 
 ### Sezione 1: In generale
 
 [^chap1a-sec1-1]
 
-[^chap1a-sec1-1]: Introdotto dal n. I dell’O del 14 giu. 2019, in vigore dal 15 ago. 2019 ([RU 2019 2377](https://fedlex.data.admin.ch/eli/oc/2019/446)).
+[^chap1a-sec1-1]: Introdotto dalla cifra I dell’O del 14 giu. 2019, in vigore dal 15 ago. 2019 ([RU 2019 2377](https://fedlex.data.admin.ch/eli/oc/2019/446)).
 
 #### Art. 9b
 
@@ -251,7 +251,7 @@ Per mediazione s’intende la creazione delle condizioni essenziali per la concl
 
 <sup>2</sup> Alle persone titolari di una patente di commercio di armi può essere rilasciata l’autorizzazione eccezionale per l’alienazione, l’acquisto, la mediazione in Svizzera e il possesso di un numero illimitato di armi, parti essenziali di armi, parti di armi appositamente costruite e accessori di armi.
 
-[^9b-1]: Introdotto dal n. I dell’O del 14 giu. 2019, in vigore dal 15 ago. 2019 ([RU 2019 2377](https://fedlex.data.admin.ch/eli/oc/2019/446)).
+[^9b-1]: Introdotto dalla cifra I dell’O del 14 giu. 2019, in vigore dal 15 ago. 2019 ([RU 2019 2377](https://fedlex.data.admin.ch/eli/oc/2019/446)).
 
 #### Art. 9c
 
@@ -261,7 +261,7 @@ Per mediazione s’intende la creazione delle condizioni essenziali per la concl
 
 Alle persone domiciliate all’estero e ai cittadini stranieri senza permesso di domicilio residenti in Svizzera può essere rilasciata un’autorizzazione eccezionale per l’acquisto di un’arma, di una parte essenziale di arma, di una parte di arma appositamente costruita o di un accessorio di arma soltanto se presentano un’attestazione ufficiale dello Stato di domicilio o dello Stato d’origine in base alla quale sono legittimate all’acquisto dell’oggetto in questione.
 
-[^9c-1]: Introdotto dal n. I dell’O del 14 giu. 2019, in vigore dal 15 ago. 2019 ([RU 2019 2377](https://fedlex.data.admin.ch/eli/oc/2019/446)).
+[^9c-1]: Introdotto dalla cifra I dell’O del 14 giu. 2019, in vigore dal 15 ago. 2019 ([RU 2019 2377](https://fedlex.data.admin.ch/eli/oc/2019/446)).
 
 #### Art. 9d
 
@@ -269,7 +269,7 @@ Alle persone domiciliate all’estero e ai cittadini stranieri senza permesso di
 
 Se una parte essenziale di arma o una parte di arma appositamente costruita è sostituita con una parte nuova da un negoziante di armi, non occorre un’autorizzazione eccezionale per l’acquisto della nuova parte qualora la parte sostituita rimanga presso il titolare della patente di commercio di armi.
 
-[^9d-1]: Introdotto dal n. I dell’O del 14 giu. 2019, in vigore dal 15 ago. 2019 ([RU 2019 2377](https://fedlex.data.admin.ch/eli/oc/2019/446)).
+[^9d-1]: Introdotto dalla cifra I dell’O del 14 giu. 2019, in vigore dal 15 ago. 2019 ([RU 2019 2377](https://fedlex.data.admin.ch/eli/oc/2019/446)).
 
 #### Art. 9e
 
@@ -277,13 +277,13 @@ Se una parte essenziale di arma o una parte di arma appositamente costruita è s
 
 Chiunque aliena un’arma da fuoco o una parte essenziale di arma da fuoco al titolare di un’autorizzazione eccezionale, deve inviare entro 30 giorni una copia dell’autorizzazione alla competente autorità cantonale.
 
-[^9e-1]: Introdotto dal n. I dell’O del 14 giu. 2019, in vigore dal 15 ago. 2019 ([RU 2019 2377](https://fedlex.data.admin.ch/eli/oc/2019/446)).
+[^9e-1]: Introdotto dalla cifra I dell’O del 14 giu. 2019, in vigore dal 15 ago. 2019 ([RU 2019 2377](https://fedlex.data.admin.ch/eli/oc/2019/446)).
 
 #### Art. 10
 
 [^10-1]
 
-[^10-1]: Abrogato dal n. I dell’O del 14 giu. 2019, con effetto dal 15 ago. 2019 ([RU 2019 2377](https://fedlex.data.admin.ch/eli/oc/2019/446)).
+[^10-1]: Abrogato dalla cifra I dell’O del 14 giu. 2019, con effetto dal 15 ago. 2019 ([RU 2019 2377](https://fedlex.data.admin.ch/eli/oc/2019/446)).
 
 #### Art. 11
 
@@ -313,11 +313,11 @@ La domanda va inviata alla competente autorità cantonale con i seguenti allegat
 
 <sup>6</sup> È competente l’autorità cantonale del luogo di domicilio dell’acquirente. L’autorità trasmette una copia dell’autorizzazione all’autorità competente dell’ultimo luogo di domicilio dell’ereditando.
 
-[^11-1]: Nuovo testo giusta il n. I dell’O del 14 giu. 2019, in vigore dal 15 ago. 2019 ([RU 2019 2377](https://fedlex.data.admin.ch/eli/oc/2019/446)).
-[^11-2]: Abrogata dall’all. 10 n. II 19 dell’O del 19 ott. 2022 sul casellario giudiziale, con effetto dal 23 gen. 2023 ([RU 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
-[^11-3]: Nuovo testo giusta il n. I dell’O del 14 giu. 2019, in vigore dal 15 ago. 2019 ([RU 2019 2377](https://fedlex.data.admin.ch/eli/oc/2019/446)).
-[^11-4]: Introdotto dal n. I dell’O del 14 giu. 2019, in vigore dal 15 ago. 2019 ([RU 2019 2377](https://fedlex.data.admin.ch/eli/oc/2019/446)).
-[^11-5]: Nuovo testo giusta il n. I dell’O del 14 giu. 2019, in vigore dal 15 ago. 2019 ([RU 2019 2377](https://fedlex.data.admin.ch/eli/oc/2019/446)).
+[^11-1]: Nuovo testo giusta la cifra I dell’O del 14 giu. 2019, in vigore dal 15 ago. 2019 ([RU 2019 2377](https://fedlex.data.admin.ch/eli/oc/2019/446)).
+[^11-2]: Abrogata dall’all. 10 cifra II 19 dell’O del 19 ott. 2022 sul casellario giudiziale, con effetto dal 23 gen. 2023 ([RU 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
+[^11-3]: Nuovo testo giusta la cifra I dell’O del 14 giu. 2019, in vigore dal 15 ago. 2019 ([RU 2019 2377](https://fedlex.data.admin.ch/eli/oc/2019/446)).
+[^11-4]: Introdotto dalla cifra I dell’O del 14 giu. 2019, in vigore dal 15 ago. 2019 ([RU 2019 2377](https://fedlex.data.admin.ch/eli/oc/2019/446)).
+[^11-5]: Nuovo testo giusta la cifra I dell’O del 14 giu. 2019, in vigore dal 15 ago. 2019 ([RU 2019 2377](https://fedlex.data.admin.ch/eli/oc/2019/446)).
 
 #### Art. 12
 
@@ -350,10 +350,10 @@ Le persone che chiedono un’autorizzazione eccezionale ai sensi del capoverso 2
 - b. una copia del passaporto valido o della carta d’identità valida;
 - c. una motivazione scritta della domanda.
 
-[^12-1]: Abrogata dal n. I dell’O del 12 feb. 2014, con effetto dal 15 mar. 2014 ([RU 2014 533](https://fedlex.data.admin.ch/eli/oc/2014/104)).
-[^12-2]: Abrogata dal n. I dell’O del 12 feb. 2014, con effetto dal 15 mar. 2014 ([RU 2014 533](https://fedlex.data.admin.ch/eli/oc/2014/104)).
-[^12-3]: Nuovo testo giusta il n. I dell’O del 12 feb. 2014, in vigore dal 15 mar. 2014 ([RU 2014 533](https://fedlex.data.admin.ch/eli/oc/2014/104)).
-[^12-4]: Abrogata dall’all. 10 n. II 19 dell’O del 19 ott. 2022 sul casellario giudiziale, con effetto dal 23 gen. 2023 ([RU 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
+[^12-1]: Abrogata dalla cifra I dell’O del 12 feb. 2014, con effetto dal 15 mar. 2014 ([RU 2014 533](https://fedlex.data.admin.ch/eli/oc/2014/104)).
+[^12-2]: Abrogata dalla cifra I dell’O del 12 feb. 2014, con effetto dal 15 mar. 2014 ([RU 2014 533](https://fedlex.data.admin.ch/eli/oc/2014/104)).
+[^12-3]: Nuovo testo giusta la cifra I dell’O del 12 feb. 2014, in vigore dal 15 mar. 2014 ([RU 2014 533](https://fedlex.data.admin.ch/eli/oc/2014/104)).
+[^12-4]: Abrogata dall’all. 10 cifra II 19 dell’O del 19 ott. 2022 sul casellario giudiziale, con effetto dal 23 gen. 2023 ([RU 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
 
 #### Art. 13
 
@@ -370,7 +370,7 @@ Per essere identificabile, l’offerente deve:
 
 [^chap1a-sec2-1]
 
-[^chap1a-sec2-1]: Introdotta dal n. I dell’O del 14 giu. 2019, in vigore dal 15 ago. 2019 ([RU 2019 2377](https://fedlex.data.admin.ch/eli/oc/2019/446)).
+[^chap1a-sec2-1]: Introdotta dalla cifra I dell’O del 14 giu. 2019, in vigore dal 15 ago. 2019 ([RU 2019 2377](https://fedlex.data.admin.ch/eli/oc/2019/446)).
 
 #### Art. 13a
 
@@ -403,7 +403,7 @@ Le autorità cantonali competenti rilasciano autorizzazioni eccezionali per armi
 
 [^chap1a-sec3-1]
 
-[^chap1a-sec3-1]: Introdotta dal n. I dell’O del 14 giu. 2019, in vigore dal 15 ago. 2019 ([RU 2019 2377](https://fedlex.data.admin.ch/eli/oc/2019/446)).
+[^chap1a-sec3-1]: Introdotta dalla cifra I dell’O del 14 giu. 2019, in vigore dal 15 ago. 2019 ([RU 2019 2377](https://fedlex.data.admin.ch/eli/oc/2019/446)).
 
 #### Art. 13c
 
@@ -435,7 +435,7 @@ Il modulo va inviato alla competente autorità cantonale con i seguenti allegati
 - b. una copia del passaporto valido o della carta d’identità valida;
 - c. se del caso, l’attestazione ufficiale di cui all’articolo 9*c*.
 
-[^13d-1]: Abrogata dall’all. 10 n. II 19 dell’O del 19 ott. 2022 sul casellario giudiziale, con effetto dal 23 gen. 2023 ([RU 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
+[^13d-1]: Abrogata dall’all. 10 cifra II 19 dell’O del 19 ott. 2022 sul casellario giudiziale, con effetto dal 23 gen. 2023 ([RU 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
 
 #### Art. 13e
 
@@ -472,7 +472,7 @@ Per fornire la prova, la persona interessata deve inviare alla competente autori
 
 [^chap1a-sec4-1]
 
-[^chap1a-sec4-1]: Introdotta dal n. I dell’O del 14 giu. 2019, in vigore dal 15 ago. 2019 ([RU 2019 2377](https://fedlex.data.admin.ch/eli/oc/2019/446)).
+[^chap1a-sec4-1]: Introdotta dalla cifra I dell’O del 14 giu. 2019, in vigore dal 15 ago. 2019 ([RU 2019 2377](https://fedlex.data.admin.ch/eli/oc/2019/446)).
 
 #### Art 13g
 
@@ -500,7 +500,7 @@ Il modulo va inviato alla competente autorità cantonale con i seguenti allegati
 - d. la prova che sono state adottate misure appropriate per garantire la custodia in sicurezza;
 - e. la lista aggiornata di cui all’articolo 28*e* capoverso 2 LArm.
 
-[^13h-1]: Abrogata dall’all. 10 n. II 19 dell’O del 19 ott. 2022 sul casellario giudiziale, con effetto dal 23 gen. 2023 ([RU 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
+[^13h-1]: Abrogata dall’all. 10 cifra II 19 dell’O del 19 ott. 2022 sul casellario giudiziale, con effetto dal 23 gen. 2023 ([RU 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
 
 #### Art. 13i
 
@@ -524,9 +524,9 @@ L’autorità cantonale competente può rilasciare un’autorizzazione ecceziona
 - b. il Comune competente ha rilasciato un’autorizzazione scritta; e
 - c. il richiedente può provare di avere un’assicurazione di responsabilità civile.
 
-[^chap1a-sec5-1]: Introdotto dal n. I dell’O del 14 giu. 2019, in vigore dal 15 ago. 2019 ([RU 2019 2377](https://fedlex.data.admin.ch/eli/oc/2019/446)).
-[^14-1]: Abrogata dal n. I dell’O del 14 giu. 2019, con effetto dal 15 ago. 2019 ([RU 2019 2377](https://fedlex.data.admin.ch/eli/oc/2019/446)).
-[^14-2]: Nuovo testo giusta il n. I dell’O del 14 giu. 2019, in vigore dal 15 ago. 2019 ([RU 2019 2377](https://fedlex.data.admin.ch/eli/oc/2019/446)).
+[^chap1a-sec5-1]: Introdotto dalla cifra I dell’O del 14 giu. 2019, in vigore dal 15 ago. 2019 ([RU 2019 2377](https://fedlex.data.admin.ch/eli/oc/2019/446)).
+[^14-1]: Abrogata dalla cifra I dell’O del 14 giu. 2019, con effetto dal 15 ago. 2019 ([RU 2019 2377](https://fedlex.data.admin.ch/eli/oc/2019/446)).
+[^14-2]: Nuovo testo giusta la cifra I dell’O del 14 giu. 2019, in vigore dal 15 ago. 2019 ([RU 2019 2377](https://fedlex.data.admin.ch/eli/oc/2019/446)).
 
 ## Capitolo 2: Acquisto di armi e munizioni
 
@@ -550,7 +550,7 @@ Il modulo va inviato alla competente autorità cantonale con i seguenti allegati
 
 <sup>3</sup> La competente autorità cantonale controlla che le condizioni per l’acquisto di armi siano adempite.
 
-[^15-1]: Abrogata dall’all. 10 n. II 19 dell’O del 19 ott. 2022 sul casellario giudiziale, con effetto dal 23 gen. 2023 ([RU 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
+[^15-1]: Abrogata dall’all. 10 cifra II 19 dell’O del 19 ott. 2022 sul casellario giudiziale, con effetto dal 23 gen. 2023 ([RU 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
 
 #### Art. 16
 
@@ -603,10 +603,10 @@ Se non vi sono indizi contrari, l’alienante è autorizzato a presupporre l’a
 
 <sup>4</sup> Il contratto scritto, l’estratto per privati del casellario giudiziale informatizzato VOSTRA e la copia del passaporto valido o della carta d’identità valida devono essere conservati. Se è stata alienata un’arma da fuoco, l’alienante deve trasmettere una copia dei documenti al servizio di comunicazione cantonale.[^18-4]
 
-[^18-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^18-2]: Nuova espr. giusta l’all. 10 n. II 19 dell’O del 19 ott. 2022 sul casellario giudiziale, in vigore dal 23 gen. 2023 ([RU 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)). Di detta mod. é tenuto conto in tutto il presente testo.
-[^18-3]: Introdotto dal n. I dell’O del 14 giu. 2019, in vigore dal 15 ago. 2019 ([RU 2019 2377](https://fedlex.data.admin.ch/eli/oc/2019/446)).
-[^18-4]: Nuovo testo giusta il n. I dell’O del 14 giu. 2019, in vigore dal 15 ago. 2019 ([RU 2019 2377](https://fedlex.data.admin.ch/eli/oc/2019/446)).
+[^18-1]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^18-2]: Nuova espr. giusta l’all. 10 cifra II 19 dell’O del 19 ott. 2022 sul casellario giudiziale, in vigore dal 23 gen. 2023 ([RU 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)). Di detta mod. é tenuto conto in tutto il presente testo.
+[^18-3]: Introdotto dalla cifra I dell’O del 14 giu. 2019, in vigore dal 15 ago. 2019 ([RU 2019 2377](https://fedlex.data.admin.ch/eli/oc/2019/446)).
+[^18-4]: Nuovo testo giusta la cifra I dell’O del 14 giu. 2019, in vigore dal 15 ago. 2019 ([RU 2019 2377](https://fedlex.data.admin.ch/eli/oc/2019/446)).
 
 #### Art. 19
 
@@ -625,7 +625,7 @@ Possono essere acquistati senza permesso d’acquisto di armi i fucili a ripetiz
 
 <sup>2</sup> Chiunque intende acquistare un fucile con sistema di ripetizione a pompa o con leva guardamano necessita di un permesso d’acquisto di armi.
 
-[^19-1]: Nuovo testo giusta il n. I dell’O del 4 giu. 2010, in vigore dal 28 lug. 2010 ([RU 2010 2827](https://fedlex.data.admin.ch/eli/oc/2010/370)).
+[^19-1]: Nuovo testo giusta la cifra I dell’O del 4 giu. 2010, in vigore dal 28 lug. 2010 ([RU 2010 2827](https://fedlex.data.admin.ch/eli/oc/2010/370)).
 
 #### Art. 20
 
@@ -641,7 +641,7 @@ Possono essere acquistati senza permesso d’acquisto di armi i fucili a ripetiz
 
 <sup>4</sup> Chiunque intende acquistare un’arma che non sia un’arma da fuoco necessita di un permesso solo se acquista l’arma nell’ambito commerciale.
 
-[^20-1]: Nuovo testo giusta il n. I dell’O del 4 giu. 2010, in vigore dal 28 lug. 2010 ([RU 2010 2827](https://fedlex.data.admin.ch/eli/oc/2010/370)).
+[^20-1]: Nuovo testo giusta la cifra I dell’O del 4 giu. 2010, in vigore dal 28 lug. 2010 ([RU 2010 2827](https://fedlex.data.admin.ch/eli/oc/2010/370)).
 
 #### Art. 21
 
@@ -667,7 +667,7 @@ Possono essere acquistati senza permesso d’acquisto di armi i fucili a ripetiz
 
 <sup>4</sup> È competente l’autorità cantonale del luogo di domicilio dell’acquirente. L’autorità trasmette una copia dell’autorizzazione all’autorità competente dell’ultimo luogo di domicilio dell’ereditando.
 
-[^22-1]: Nuovo testo giusta il n. I dell’O del 14 giu. 2019, in vigore dal 15 ago. 2019 ([RU 2019 2377](https://fedlex.data.admin.ch/eli/oc/2019/446)).
+[^22-1]: Nuovo testo giusta la cifra I dell’O del 14 giu. 2019, in vigore dal 15 ago. 2019 ([RU 2019 2377](https://fedlex.data.admin.ch/eli/oc/2019/446)).
 
 #### Art. 23
 
@@ -689,9 +689,9 @@ Ai minorenni membri di una società di tiro riconosciuta possono essere consegna
 
 <sup>4</sup> La società di tiro provvede alla custodia delle armi secondo l’articolo 5 capoverso 1 lettere b e c dell’ordinanza del 5 dicembre 2003 sul tiro, prestate a persone che non hanno ancora compiuto 17 anni.[^23-3]
 
-[^23-1]: Nuovo testo giusta il n. I dell’O del 4 giu. 2010, in vigore dal 28 lug. 2010 ([RU 2010 2827](https://fedlex.data.admin.ch/eli/oc/2010/370)).
-[^23-2]: [RS 512.31](https://fedlex.data.admin.ch/eli/cc/2003/754)
-[^23-3]: Introdotto dal n. III dell’O del 18 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 5071](https://fedlex.data.admin.ch/eli/oc/2015/830)).
+[^23-1]: Nuovo testo giusta la cifra I dell’O del 4 giu. 2010, in vigore dal 28 lug. 2010 ([RU 2010 2827](https://fedlex.data.admin.ch/eli/oc/2010/370)).
+[^23-2]: [RS 512.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7434)
+[^23-3]: Introdotto dalla cifra III dell’O del 18 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 5071](https://fedlex.data.admin.ch/eli/oc/2015/830)).
 
 ### Sezione 3: Acquisto di munizioni ed elementi di munizioni
 
@@ -714,21 +714,23 @@ L’alienante è autorizzato a presupporre l’assenza di un motivo d’impedime
 
 [^chap2-sec4-1]
 
-[^chap2-sec4-1]: Introdotta dal n. I dell’O del 14 giu. 2019, in vigore dal 15 ago. 2019 ([RU 2019 2377](https://fedlex.data.admin.ch/eli/oc/2019/446)).
+[^chap2-sec4-1]: Introdotta dalla cifra I dell’O del 14 giu. 2019, in vigore dal 15 ago. 2019 ([RU 2019 2377](https://fedlex.data.admin.ch/eli/oc/2019/446)).
 
 ### (art. 16*b* LArm)
 
 #### Art. 24a
 
-<sup>1</sup> Chiunque aliena un caricatore ad alta capacità di colpi deve verificare se all’acquirente è stata rilasciata un’autorizzazione cantonale eccezionale o una conferma del possesso per un’arma da fuoco corrispondente. Per la verifica è sufficiente una copia dell’autorizzazione eccezionale o della conferma. I possessori di armi da fuoco d’ordinanza riprese in proprietà direttamente dalle scorte dell’Amministrazione militare devono comprovare l’acquisto dell’arma mediante l’iscrizione nel libretto di servizio.
+<sup>1</sup> Chiunque aliena un caricatore ad alta capacità di colpi deve verificare se all’acquirente è stata rilasciata un’autorizzazione cantonale eccezionale o una conferma del possesso per un’arma da fuoco corrispondente. Per la verifica è sufficiente una copia dell’autorizzazione eccezionale o della conferma. I possessori di armi da fuoco d’ordinanza riprese in proprietà direttamente dalle scorte dell’Amministrazione militare devono comprovare l’acquisto dell’arma mediante l’attestato di adempimento dell’obbligo di prestare servizio militare.[^24a-1]
 
 <sup>2</sup> I caricatori con una capacità compresa tra le 11 e le 20 cartucce che possono essere utilizzati sia con armi da fuoco portatili sia con armi da fuoco corte, possono essere alienati se all’acquirente è stata rilasciata un’autorizzazione eccezionale, una conferma ai sensi del capoverso 1, un permesso d’acquisto di armi o una carta europea d’arma da fuoco per un’arma da fuoco corta compatibile.
+
+[^24a-1]: Nuovo testo giusta l’all. n. 5 dell’O del 1° apr. 2026, in vigore dal 1° giu. 2026 ([RU 2026 174](https://fedlex.data.admin.ch/eli/oc/2026/174)).
 
 ## Capitolo 3: Omologazioni
 
 [^chap3-1]
 
-[^chap3-1]: Nuovo testo giusta il n. I dell’O del 24 giu. 2020, in vigore dal 1° set. 2020 ([RU 2020 2955](https://fedlex.data.admin.ch/eli/oc/2020/549)).
+[^chap3-1]: Nuovo testo giusta la cifra I dell’O del 24 giu. 2020, in vigore dal 1° set. 2020 ([RU 2020 2955](https://fedlex.data.admin.ch/eli/oc/2020/549)).
 
 #### Art. 25
 
@@ -748,9 +750,9 @@ L’alienante è autorizzato a presupporre l’assenza di un motivo d’impedime
 
 <sup>5</sup> L’Ufficio centrale Armi può ordinare che un’arma omologata sia depositata a scopo di confronto fintanto che essa è in commercio.
 
-[^25-1]: Nuovo testo giusta il n. I dell’O del 14 giu. 2019, in vigore dal 15 ago. 2019 ([RU 2019 2377](https://fedlex.data.admin.ch/eli/oc/2019/446)).
-[^25-2]: Nuovo testo giusta il n. I dell’O del 14 giu. 2019, in vigore dal 15 ago. 2019 ([RU 2019 2377](https://fedlex.data.admin.ch/eli/oc/2019/446)).
-[^25-3]: Nuovo testo giusta il n. I dell’O del 14 giu. 2019, in vigore dal 15 ago. 2019 ([RU 2019 2377](https://fedlex.data.admin.ch/eli/oc/2019/446)).
+[^25-1]: Nuovo testo giusta la cifra I dell’O del 14 giu. 2019, in vigore dal 15 ago. 2019 ([RU 2019 2377](https://fedlex.data.admin.ch/eli/oc/2019/446)).
+[^25-2]: Nuovo testo giusta la cifra I dell’O del 14 giu. 2019, in vigore dal 15 ago. 2019 ([RU 2019 2377](https://fedlex.data.admin.ch/eli/oc/2019/446)).
+[^25-3]: Nuovo testo giusta la cifra I dell’O del 14 giu. 2019, in vigore dal 15 ago. 2019 ([RU 2019 2377](https://fedlex.data.admin.ch/eli/oc/2019/446)).
 
 #### Art. 25a
 
@@ -768,13 +770,13 @@ L’alienante è autorizzato a presupporre l’assenza di un motivo d’impedime
 
 <sup>5</sup> L’Ufficio centrale Armi può ordinare che una scacciacani o un’arma da segnalazione omologata sia depositata a scopo di confronto fintanto che essa è in commercio.
 
-[^25a-1]: Introdotto dal n. I dell’O del 24 giu. 2020, in vigore dal 1° set. 2020 ([RU 2020 2955](https://fedlex.data.admin.ch/eli/oc/2020/549)).
+[^25a-1]: Introdotto dalla cifra I dell’O del 24 giu. 2020, in vigore dal 1° set. 2020 ([RU 2020 2955](https://fedlex.data.admin.ch/eli/oc/2020/549)).
 
 ## Capitolo 3*a*: Munizioni vietate
 
 [^chap3a-1]
 
-[^chap3a-1]: Introdotto dal n. I dell’O del 24 giu. 2020, in vigore dal 1° set. 2020 ([RU 2020 2955](https://fedlex.data.admin.ch/eli/oc/2020/549)).
+[^chap3a-1]: Introdotto dalla cifra I dell’O del 24 giu. 2020, in vigore dal 1° set. 2020 ([RU 2020 2955](https://fedlex.data.admin.ch/eli/oc/2020/549)).
 
 #### Art. 26
 
@@ -795,7 +797,7 @@ Sono vietati l’acquisto, il possesso, la fabbricazione e l’introduzione nel 
 
 <sup>2</sup> L’Ufficio centrale Armi può autorizzare deroghe al divieto, segnatamente per scopi industriali, per la caccia o per collezioni. L’autorizzazione va limitata nel tempo; essa può essere vincolata a oneri.
 
-[^26-1]: Nuovo testo giusta il n. I dell’O del 3 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 2117](https://fedlex.data.admin.ch/eli/oc/2016/343)).
+[^26-1]: Nuovo testo giusta la cifra I dell’O del 3 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 2117](https://fedlex.data.admin.ch/eli/oc/2016/343)).
 
 #### Art. 27
 
@@ -815,8 +817,8 @@ Per munizioni per armi da pugno con effetto deformante si intendono le munizioni
 
 <sup>2</sup> Per munizioni per armi da pugno con elevata capacità di penetrazione si intendono le munizioni i cui proiettili perforano una piastra balistica della classe di protezione 4 a seguito di un tiro effettuato verticalmente da una distanza di almeno 5 metri e di al massimo 10 metri. L’Ufficio centrale Armi emana una direttiva tecnica relativa all’esame dell’accresciuta capacità di penetrazione di proiettili sparati da armi a canna corta.[^27-2]
 
-[^27-1]: Nuovo testo giusta il n. I dell’O del 3 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 2117](https://fedlex.data.admin.ch/eli/oc/2016/343)).
-[^27-2]: Introdotto dal n. I dell’O del 3 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 2117](https://fedlex.data.admin.ch/eli/oc/2016/343)).
+[^27-1]: Nuovo testo giusta la cifra I dell’O del 3 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 2117](https://fedlex.data.admin.ch/eli/oc/2016/343)).
+[^27-2]: Introdotto dalla cifra I dell’O del 3 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 2117](https://fedlex.data.admin.ch/eli/oc/2016/343)).
 
 ## Capitolo 4: Commercio e fabbricazione di armi
 
@@ -847,7 +849,7 @@ La parte pratica dell’esame non è richiesta per chi:
 
 <sup>4</sup> Chiunque intende partecipare a mercati pubblici di armi in Svizzera, non necessita, per la durata della manifestazione, di una patente di commercio di armi svizzera se invia all’autorità cantonale competente una copia autenticata della patente di commercio di armi valida all’estero.
 
-[^28-1]: Abrogata dall’all. 10 n. II 19 dell’O del 19 ott. 2022 sul casellario giudiziale, con effetto dal 23 gen. 2023 ([RU 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
+[^28-1]: Abrogata dall’all. 10 cifra II 19 dell’O del 19 ott. 2022 sul casellario giudiziale, con effetto dal 23 gen. 2023 ([RU 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
 
 #### Art. 28a
 
@@ -894,12 +896,12 @@ Devono tenere i libri contabili di cui all’articolo 21 capoverso 1 LArm sotto 
 
 <sup>6</sup> L’Ufficio centrale Armi allestisce un modulo elettronico per effettuare la comunicazione.[^30-6]
 
-[^30-1]: Nuovo testo giusta il n. I dell’O del 4 giu. 2010, in vigore dal 28 lug. 2010 ([RU 2010 2827](https://fedlex.data.admin.ch/eli/oc/2010/370)).
-[^30-2]: Nuovo testo giusta il n. I dell’O del 14 giu. 2019, in vigore dal 14 dic. 2019 ([RU 2019 2377](https://fedlex.data.admin.ch/eli/oc/2019/446)).
-[^30-3]: Nuovo testo giusta il n. I dell’O del 21 nov. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6781](https://fedlex.data.admin.ch/eli/oc/2012/820)).
-[^30-4]: Introdotto dal n. I dell’O del 3 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 2117](https://fedlex.data.admin.ch/eli/oc/2016/343)).
-[^30-5]: Introdotto dal n. I dell’O del 3 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 2117](https://fedlex.data.admin.ch/eli/oc/2016/343)).
-[^30-6]: Introdotto dal n. I dell’O del 3 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 2117](https://fedlex.data.admin.ch/eli/oc/2016/343)).
+[^30-1]: Nuovo testo giusta la cifra I dell’O del 4 giu. 2010, in vigore dal 28 lug. 2010 ([RU 2010 2827](https://fedlex.data.admin.ch/eli/oc/2010/370)).
+[^30-2]: Nuovo testo giusta la cifra I dell’O del 14 giu. 2019, in vigore dal 14 dic. 2019 ([RU 2019 2377](https://fedlex.data.admin.ch/eli/oc/2019/446)).
+[^30-3]: Nuovo testo giusta la cifra I dell’O del 21 nov. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6781](https://fedlex.data.admin.ch/eli/oc/2012/820)).
+[^30-4]: Introdotto dalla cifra I dell’O del 3 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 2117](https://fedlex.data.admin.ch/eli/oc/2016/343)).
+[^30-5]: Introdotto dalla cifra I dell’O del 3 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 2117](https://fedlex.data.admin.ch/eli/oc/2016/343)).
+[^30-6]: Introdotto dalla cifra I dell’O del 3 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 2117](https://fedlex.data.admin.ch/eli/oc/2016/343)).
 
 #### Art. 30a
 
@@ -927,7 +929,7 @@ La comunicazione elettronica deve contenere le indicazioni seguenti:
 
 <sup>4</sup> I Cantoni definiscono le modalità relative alla comunicazione elettronica. Su richiesta, informano l’Ufficio centrale Armi sulle comunicazioni e le armi registrate.
 
-[^30a-1]: Introdotto dal n. I dell’O del 14 giu. 2019, in vigore dal 14 dic. 2019 ([RU 2019 2377](https://fedlex.data.admin.ch/eli/oc/2019/446)).
+[^30a-1]: Introdotto dalla cifra I dell’O del 14 giu. 2019, in vigore dal 14 dic. 2019 ([RU 2019 2377](https://fedlex.data.admin.ch/eli/oc/2019/446)).
 
 #### Art. 31
 
@@ -948,7 +950,7 @@ Sulle armi da fuoco, parti essenziali di armi da fuoco e accessori di armi da fu
 
 <sup>3</sup> Se una parte essenziale è troppo piccola per essere contrassegnata con tutte le indicazioni di cui al capoverso 1, deve essere apposto perlomeno il contrassegno individuale numerico o alfabetico. Per ogni tipo di arma da fuoco, almeno una parte essenziale deve essere contrassegnata con tutte le indicazioni di cui al capoverso 1.
 
-[^31-1]: Nuovo testo giusta il n. I dell’O del 24 giu. 2020, in vigore dal 1° set. 2020 ([RU 2020 2955](https://fedlex.data.admin.ch/eli/oc/2020/549)).
+[^31-1]: Nuovo testo giusta la cifra I dell’O del 24 giu. 2020, in vigore dal 1° set. 2020 ([RU 2020 2955](https://fedlex.data.admin.ch/eli/oc/2020/549)).
 
 #### Art. 31a
 
@@ -968,7 +970,7 @@ Il contrassegno di importazione comprende nell’ordine seguente:
 
 <sup>3</sup> Per le armi da fuoco assemblate il contrassegno di importazione deve essere apposto su una sola parte essenziale.
 
-[^31a-1]: Introdotto dal n. I dell’O del 24 giu. 2020, in vigore dal 1° set. 2020 ([RU 2020 2955](https://fedlex.data.admin.ch/eli/oc/2020/549)).
+[^31a-1]: Introdotto dalla cifra I dell’O del 24 giu. 2020, in vigore dal 1° set. 2020 ([RU 2020 2955](https://fedlex.data.admin.ch/eli/oc/2020/549)).
 
 #### Art. 31b
 
@@ -985,7 +987,7 @@ Sulle armi da fuoco, le parti essenziali di armi da fuoco e gli accessori di arm
 
 <sup>2</sup> Per le armi da fuoco assemblate il contrassegno di cui al capoverso 1 lettera b deve essere apposto su ogni parte essenziale non contrassegnata come un oggetto ai sensi dell’articolo 31.
 
-[^31b-1]: Introdotto dal n. I dell’O del 24 giu. 2020, in vigore dal 1° set. 2020 ([RU 2020 2955](https://fedlex.data.admin.ch/eli/oc/2020/549)).
+[^31b-1]: Introdotto dalla cifra I dell’O del 24 giu. 2020, in vigore dal 1° set. 2020 ([RU 2020 2955](https://fedlex.data.admin.ch/eli/oc/2020/549)).
 
 #### Art. 31c
 
@@ -995,7 +997,7 @@ Sulle armi da fuoco, le parti essenziali di armi da fuoco e gli accessori di arm
 
 Se le armi da fuoco sono riprese in proprietà dalle scorte dello Stato, occorre apporvi un contrassegno che permetta di risalire al servizio alienante.
 
-[^31c-1]: Introdotto dal n. I dell’O del 24 giu. 2020, in vigore dal 1° set. 2020 ([RU 2020 2955](https://fedlex.data.admin.ch/eli/oc/2020/549)).
+[^31c-1]: Introdotto dalla cifra I dell’O del 24 giu. 2020, in vigore dal 1° set. 2020 ([RU 2020 2955](https://fedlex.data.admin.ch/eli/oc/2020/549)).
 
 #### Art. 31d
 
@@ -1016,7 +1018,7 @@ Le armi da fuoco, le parti essenziali di armi da fuoco e gli accessori di armi d
 
 <sup>3</sup> L’Ufficio centrale Armi può autorizzare l’introduzione nel territorio svizzero di tali oggetti per altri scopi. Se autorizza l’introduzione di armi da fuoco non contrassegnate o di parti essenziali di armi da fuoco non contrassegnate, l’autorizzazione deve essere limitata a un anno al massimo.
 
-[^31d-1]: Introdotto dal n. I dell’O del 24 giu. 2020, in vigore dal 1° set. 2020 ([RU 2020 2955](https://fedlex.data.admin.ch/eli/oc/2020/549)).
+[^31d-1]: Introdotto dalla cifra I dell’O del 24 giu. 2020, in vigore dal 1° set. 2020 ([RU 2020 2955](https://fedlex.data.admin.ch/eli/oc/2020/549)).
 
 #### Art. 31e
 
@@ -1039,7 +1041,7 @@ Se l’impugnatura, il telaio, il castello di culatta oppure la parte superiore 
 
 <sup>5</sup> La profondità minima del contrassegno è di 0,0762 mm.[^31e-2]
 
-[^31e-1]: Introdotto dal n. I dell’O del 24 giu. 2020, in vigore dal 1° set. 2020 ([RU 2020 2955](https://fedlex.data.admin.ch/eli/oc/2020/549)).
+[^31e-1]: Introdotto dalla cifra I dell’O del 24 giu. 2020, in vigore dal 1° set. 2020 ([RU 2020 2955](https://fedlex.data.admin.ch/eli/oc/2020/549)).
 [^31e-2]: Introdotto dalla cifra I dell’O del 25 giu. 2025, in vigore dal 22 lug. 2025 ([RU 2025 427](https://fedlex.data.admin.ch/eli/oc/2025/427)).
 
 #### Art. 31f
@@ -1055,7 +1057,7 @@ Sulle unità elementari d’imballaggio di munizioni fabbricate in Svizzera o in
 - c. il calibro;
 - d. il tipo di munizioni.
 
-[^31f-1]: Originario art. 31*a*. Introdotto dal n. I dell’O del 4 giu. 2010, in vigore dal 28 lug. 2010 ([RU 2010 2827](https://fedlex.data.admin.ch/eli/oc/2010/370)).
+[^31f-1]: Originario art. 31*a*. Introdotto dalla cifra I dell’O del 4 giu. 2010, in vigore dal 28 lug. 2010 ([RU 2010 2827](https://fedlex.data.admin.ch/eli/oc/2010/370)).
 
 #### Art. 32
 
@@ -1071,9 +1073,9 @@ Sulle unità elementari d’imballaggio di munizioni fabbricate in Svizzera o in
 
 <sup>3</sup> Non è consentito il rilascio di autorizzazioni eccezionali per la fabbricazione a titolo non professionale di armi di cui all’articolo 5 capoverso 1 o 2 LArm e di munizioni vietate di cui all’articolo 6 LArm, nonché per la modifica a titolo non professionale di armi da fuoco in armi da fuoco per il tiro a raffica.[^32-3]
 
-[^32-1]: Nuovo testo giusta il n. I dell’O del 14 giu. 2019, in vigore dal 15 ago. 2019 ([RU 2019 2377](https://fedlex.data.admin.ch/eli/oc/2019/446)).
-[^32-2]: Nuovo testo giusta il n. I dell’O del 14 giu. 2019, in vigore dal 15 ago. 2019 (RU 2019 2377).
-[^32-3]: Nuovo testo giusta il n. I dell’O del 14 giu. 2019, in vigore dal 15 ago. 2019 ([RU 2019 2377](https://fedlex.data.admin.ch/eli/oc/2019/446)).
+[^32-1]: Nuovo testo giusta la cifra I dell’O del 14 giu. 2019, in vigore dal 15 ago. 2019 ([RU 2019 2377](https://fedlex.data.admin.ch/eli/oc/2019/446)).
+[^32-2]: Nuovo testo giusta la cifra I dell’O del 14 giu. 2019, in vigore dal 15 ago. 2019 (RU 2019 2377).
+[^32-3]: Nuovo testo giusta la cifra I dell’O del 14 giu. 2019, in vigore dal 15 ago. 2019 ([RU 2019 2377](https://fedlex.data.admin.ch/eli/oc/2019/446)).
 
 #### Art. 32a
 
@@ -1091,7 +1093,7 @@ Sulle unità elementari d’imballaggio di munizioni fabbricate in Svizzera o in
 
 <sup>5</sup> L’autorità cantonale competente può imporre oneri al possessore.
 
-[^32a-1]: Introdotto dal n. I dell’O del 14 giu. 2019, in vigore dal 15 ago. 2019 ([RU 2019 2377](https://fedlex.data.admin.ch/eli/oc/2019/446)).
+[^32a-1]: Introdotto dalla cifra I dell’O del 14 giu. 2019, in vigore dal 15 ago. 2019 ([RU 2019 2377](https://fedlex.data.admin.ch/eli/oc/2019/446)).
 
 #### Art. 33
 
@@ -1116,7 +1118,7 @@ Le autorizzazioni eccezionali per la modifica o la rimozione dei numeri di contr
 
 Le autorizzazioni eccezionali di cui agli articoli 32 e 33 possono essere rilasciate soltanto in singoli casi motivati per scritto, per una determinata persona e di norma per un’unica arma. Vanno limitate nel tempo e possono essere vincolate a oneri.
 
-[^33a-1]: Introdotto dal n. I dell’O del 14 giu. 2019, in vigore dal 15 ago. 2019 ([RU 2019 2377](https://fedlex.data.admin.ch/eli/oc/2019/446)).
+[^33a-1]: Introdotto dalla cifra I dell’O del 14 giu. 2019, in vigore dal 15 ago. 2019 ([RU 2019 2377](https://fedlex.data.admin.ch/eli/oc/2019/446)).
 
 ## Capitolo 5: Introduzione nel territorio svizzero ed esportazione
 
@@ -1147,11 +1149,11 @@ La domanda di autorizzazione eccezionale per l’introduzione nel territorio svi
 - a. una copia della patente di commercio di armi;
 - b. la prova che le munizioni soggette all’obbligo di autorizzazione eccezionale sono necessarie per coprire il fabbisogno delle autorità ai sensi dell’articolo 2 capoverso 1 LArm o delle ditte addette alla sicurezza.
 
-[^34-1]: Nuovo testo giusta il n. I dell’O del 14 giu. 2019, in vigore dal 15 ago. 2019 ([RU 2019 2377](https://fedlex.data.admin.ch/eli/oc/2019/446)).
-[^34-2]: Nuovo testo giusta il n. I dell’O del 14 giu. 2019, in vigore dal 15 ago. 2019 ([RU 2019 2377](https://fedlex.data.admin.ch/eli/oc/2019/446)).
-[^34-3]: Abrogata dal n. I dell’O del 14 giu. 2019, con effetto dal 15 ago. 2019 ([RU 2019 2377](https://fedlex.data.admin.ch/eli/oc/2019/446)).
-[^34-4]: Introdotto dal n. I dell’O del 14 giu. 2019, in vigore dal 15 ago. 2019 ([RU 2019 2377](https://fedlex.data.admin.ch/eli/oc/2019/446)).
-[^34-5]: Introdotto dal n. I dell’O del 14 giu. 2019, in vigore dal 15 ago. 2019 ([RU 2019 2377](https://fedlex.data.admin.ch/eli/oc/2019/446)).
+[^34-1]: Nuovo testo giusta la cifra I dell’O del 14 giu. 2019, in vigore dal 15 ago. 2019 ([RU 2019 2377](https://fedlex.data.admin.ch/eli/oc/2019/446)).
+[^34-2]: Nuovo testo giusta la cifra I dell’O del 14 giu. 2019, in vigore dal 15 ago. 2019 ([RU 2019 2377](https://fedlex.data.admin.ch/eli/oc/2019/446)).
+[^34-3]: Abrogata dalla cifra I dell’O del 14 giu. 2019, con effetto dal 15 ago. 2019 ([RU 2019 2377](https://fedlex.data.admin.ch/eli/oc/2019/446)).
+[^34-4]: Introdotto dalla cifra I dell’O del 14 giu. 2019, in vigore dal 15 ago. 2019 ([RU 2019 2377](https://fedlex.data.admin.ch/eli/oc/2019/446)).
+[^34-5]: Introdotto dalla cifra I dell’O del 14 giu. 2019, in vigore dal 15 ago. 2019 ([RU 2019 2377](https://fedlex.data.admin.ch/eli/oc/2019/446)).
 
 #### Art. 35
 
@@ -1176,10 +1178,10 @@ La domanda di autorizzazione eccezionale per l’introduzione nel territorio svi
 - b. una copia del passaporto valido o della carta d’identità valida;
 - c. l’indicazione del motivo dell’introduzione nel territorio svizzero (art. 26 cpv. 2).
 
-[^35-1]: Nuovo testo giusta il n. I dell’O del 14 giu. 2019, in vigore dal 15 ago. 2019 ([RU 2019 2377](https://fedlex.data.admin.ch/eli/oc/2019/446)).
-[^35-2]: Nuovo testo giusta il n. I dell’O del 14 giu. 2019, in vigore dal 15 ago. 2019 ([RU 2019 2377](https://fedlex.data.admin.ch/eli/oc/2019/446)).
-[^35-3]: Introdotto dal n. I dell’O del 14 giu. 2019, in vigore dal 15 ago. 2019 ([RU 2019 2377](https://fedlex.data.admin.ch/eli/oc/2019/446)).
-[^35-4]: Abrogata dall’all. 10 n. II 19 dell’O del 19 ott. 2022 sul casellario giudiziale, con effetto dal 23 gen. 2023 ([RU 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
+[^35-1]: Nuovo testo giusta la cifra I dell’O del 14 giu. 2019, in vigore dal 15 ago. 2019 ([RU 2019 2377](https://fedlex.data.admin.ch/eli/oc/2019/446)).
+[^35-2]: Nuovo testo giusta la cifra I dell’O del 14 giu. 2019, in vigore dal 15 ago. 2019 ([RU 2019 2377](https://fedlex.data.admin.ch/eli/oc/2019/446)).
+[^35-3]: Introdotto dalla cifra I dell’O del 14 giu. 2019, in vigore dal 15 ago. 2019 ([RU 2019 2377](https://fedlex.data.admin.ch/eli/oc/2019/446)).
+[^35-4]: Abrogata dall’all. 10 cifra II 19 dell’O del 19 ott. 2022 sul casellario giudiziale, con effetto dal 23 gen. 2023 ([RU 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
 
 ### Sezione 2: Introduzione nel territorio svizzero a titolo professionale
 
@@ -1240,9 +1242,9 @@ La domanda di autorizzazione per l’introduzione a titolo non professionale di 
 
 <sup>2</sup> L’autorizzazione consente l’introduzione simultanea nel territorio svizzero di tre armi o parti essenziali di armi al massimo. È valida sei mesi e può essere prorogata di tre mesi al massimo.
 
-[^39-1]: Nuovo testo giusta il n. I dell’O del 3 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 2117](https://fedlex.data.admin.ch/eli/oc/2016/343)).
-[^39-2]: Nuovo testo giusta il n. I dell’O del 3 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 2117](https://fedlex.data.admin.ch/eli/oc/2016/343)).
-[^39-3]: Abrogata dall’all. 10 n. II 19 dell’O del 19 ott. 2022 sul casellario giudiziale, con effetto dal 23 gen. 2023 ([RU 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
+[^39-1]: Nuovo testo giusta la cifra I dell’O del 3 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 2117](https://fedlex.data.admin.ch/eli/oc/2016/343)).
+[^39-2]: Nuovo testo giusta la cifra I dell’O del 3 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 2117](https://fedlex.data.admin.ch/eli/oc/2016/343)).
+[^39-3]: Abrogata dall’all. 10 cifra II 19 dell’O del 19 ott. 2022 sul casellario giudiziale, con effetto dal 23 gen. 2023 ([RU 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
 
 #### Art. 40
 
@@ -1258,7 +1260,7 @@ La domanda di autorizzazione per l’introduzione a titolo non professionale di 
 
 <sup>4</sup> …[^40-1]
 
-[^40-1]: Abrogato dal n. I dell’O del 4 giu. 2010, con effetto dal 28 lug. 2010 ([RU 2010 2827](https://fedlex.data.admin.ch/eli/oc/2010/370)).
+[^40-1]: Abrogato dalla cifra I dell’O del 4 giu. 2010, con effetto dal 28 lug. 2010 ([RU 2010 2827](https://fedlex.data.admin.ch/eli/oc/2010/370)).
 
 #### Art. 40a
 
@@ -1283,7 +1285,7 @@ La procedura d’autorizzazione semplificata di cui ai capoversi 1 e 2 può esse
 
 <sup>6</sup> All’introduzione temporanea di armi da fuoco nel traffico passeggeri da parte di tiratori sportivi di uno Stato Schengen, si applica l’articolo 40 capoverso 3.
 
-[^40a-1]: Introdotto dal n. I dell’O del 13 dic. 2019, in vigore dal 15 gen. 2020 ([RU 2020 23](https://fedlex.data.admin.ch/eli/oc/2020/8)).
+[^40a-1]: Introdotto dalla cifra I dell’O del 13 dic. 2019, in vigore dal 15 gen. 2020 ([RU 2020 23](https://fedlex.data.admin.ch/eli/oc/2020/8)).
 
 #### Art. 41
 
@@ -1309,8 +1311,8 @@ Le seguenti categorie di persone non necessitano di alcuna autorizzazione per l�
 - d.[^42-1] i collaboratori di autorità estere di protezione dei confini che partecipano in Svizzera, unitamente a collaboratori delle autorità svizzere di protezione dei confini, a impieghi operativi alle frontiere esterne dello spazio Schengen;
 - e.[^42-2] i membri di autorità di polizia estere nell’ambito di impieghi o corsi d’istruzione internazionali.
 
-[^42-1]: Introdotta dal n. I dell’O del 21 nov. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6781](https://fedlex.data.admin.ch/eli/oc/2012/820)).
-[^42-2]: Introdotta dal n. I dell’O del 3 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 2117](https://fedlex.data.admin.ch/eli/oc/2016/343)).
+[^42-1]: Introdotta dalla cifra I dell’O del 21 nov. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6781](https://fedlex.data.admin.ch/eli/oc/2012/820)).
+[^42-2]: Introdotta dalla cifra I dell’O del 3 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 2117](https://fedlex.data.admin.ch/eli/oc/2016/343)).
 
 #### Art. 43
 
@@ -1327,9 +1329,9 @@ Sono esentati dall’obbligo di presentazione e di dichiarazione di cui agli art
 - d. le persone che comprovano di aver impiegato le loro armi e le relative munizioni per la caccia, il tiro sportivo o lo sport di combattimento all’estero e che introducono le stesse armi che avevano esportato a tale scopo;
 - e. le persone che comprovano di impiegare le loro armi e le relative munizioni per la caccia, il tiro sportivo o lo sport di combattimento in Svizzera e che in seguito riesporteranno le medesime.
 
-[^43-1]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
-[^43-2]: [RS 0.631.24](https://fedlex.data.admin.ch/eli/cc/1995/4685_4685_4685)
-[^43-3]: Introdotta dal n. I dell’O del 21 nov. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6781](https://fedlex.data.admin.ch/eli/oc/2012/820)).
+[^43-1]: [RS 631.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7812)
+[^43-2]: [RS 0.631.24](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2025)
+[^43-3]: Introdotta dalla cifra I dell’O del 21 nov. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6781](https://fedlex.data.admin.ch/eli/oc/2012/820)).
 
 ### Sezione 4: Esportazione
 
@@ -1363,15 +1365,15 @@ L’Ufficio centrale Armi rilascia la bolletta di scorta se:
 
 <sup>5</sup> Se l’attestazione di cui al capoverso 4 lettera b non può essere presentata, l’Ufficio centrale Armi può rilasciarne una.
 
-[^44-1]: Nuovo testo giusta il n. I dell’O del 4 giu. 2010, in vigore dal 28 lug. 2010 ([RU 2010 2827](https://fedlex.data.admin.ch/eli/oc/2010/370)).
-[^44-2]: Nuovo testo giusta il n. I dell’O del 3 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 2117](https://fedlex.data.admin.ch/eli/oc/2016/343)).
-[^44-3]: Nuovo testo giusta il n. I dell’O del 3 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 2117](https://fedlex.data.admin.ch/eli/oc/2016/343)).
+[^44-1]: Nuovo testo giusta la cifra I dell’O del 4 giu. 2010, in vigore dal 28 lug. 2010 ([RU 2010 2827](https://fedlex.data.admin.ch/eli/oc/2010/370)).
+[^44-2]: Nuovo testo giusta la cifra I dell’O del 3 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 2117](https://fedlex.data.admin.ch/eli/oc/2016/343)).
+[^44-3]: Nuovo testo giusta la cifra I dell’O del 3 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 2117](https://fedlex.data.admin.ch/eli/oc/2016/343)).
 
 #### Art. 45
 
 [^45-1]
 
-[^45-1]: Abrogato dal n. I dell’O del 4 giu. 2010, con effetto dal 28 lug. 2010 ([RU 2010 2827](https://fedlex.data.admin.ch/eli/oc/2010/370)).
+[^45-1]: Abrogato dalla cifra I dell’O del 4 giu. 2010, con effetto dal 28 lug. 2010 ([RU 2010 2827](https://fedlex.data.admin.ch/eli/oc/2010/370)).
 
 #### Art. 46
 
@@ -1395,7 +1397,7 @@ La domanda deve essere corredata di:
 
 <sup>5</sup> La carta europea d’arma da fuoco è valida cinque anni. La sua durata di validità può essere prorogata due volte di due anni.
 
-[^46-1]: Abrogata dall’all. 10 n. II 19 dell’O del 19 ott. 2022 sul casellario giudiziale, con effetto dal 23 gen. 2023 ([RU 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
+[^46-1]: Abrogata dall’all. 10 cifra II 19 dell’O del 19 ott. 2022 sul casellario giudiziale, con effetto dal 23 gen. 2023 ([RU 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
 
 ## Capitolo 6: Custodia, porto e trasporto di armi e munizioni, porto abusivo di oggetti pericolosi
 
@@ -1431,7 +1433,7 @@ Chiunque intende ottenere un permesso di porto di armi deve compilare l’apposi
 
 <sup>4</sup> Per il rinnovo del permesso di porto di armi, l’esame pratico va sostenuto soltanto se tale permesso è stato rilasciato da più di tre anni. Alle medesime condizioni si può rinunciare all’esame teorico se le disposizioni legali non hanno subito modifiche significative e se non vi sono dubbi che il titolare dispone di conoscenze sufficienti sulle condizioni legali per l’uso dell’arma.
 
-[^48-1]: Abrogata dall’all. 10 n. II 19 dell’O del 19 ott. 2022 sul casellario giudiziale, con effetto dal 23 gen. 2023 ([RU 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
+[^48-1]: Abrogata dall’all. 10 cifra II 19 dell’O del 19 ott. 2022 sul casellario giudiziale, con effetto dal 23 gen. 2023 ([RU 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
 
 #### Art. 49
 
@@ -1443,7 +1445,7 @@ Chiunque intende ottenere un permesso di porto di armi deve compilare l’apposi
 
 <sup>2</sup> Nell’ambito di visite o passaggi ufficiali annunciati, fedpol rilascia il permesso di porto di armi agli agenti di sicurezza con mandato statale.
 
-[^49-1]: Nuovo testo giusta il n. I dell’O del 21 nov. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6781](https://fedlex.data.admin.ch/eli/oc/2012/820)).
+[^49-1]: Nuovo testo giusta la cifra I dell’O del 21 nov. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6781](https://fedlex.data.admin.ch/eli/oc/2012/820)).
 
 #### Art. 50
 
@@ -1496,7 +1498,7 @@ Le autorizzazioni ai sensi della legge sulle armi sono rilasciate se il richiede
 
 <sup>3</sup> I moduli presentati o rispediti alle autorità competenti devono essere distrutti dopo 15 anni.
 
-[^52-1]: Nuovo testo giusta il n. I dell’O del 14 giu. 2019, in vigore dal 15 ago. 2019 ([RU 2019 2377](https://fedlex.data.admin.ch/eli/oc/2019/446)).
+[^52-1]: Nuovo testo giusta la cifra I dell’O del 14 giu. 2019, in vigore dal 15 ago. 2019 ([RU 2019 2377](https://fedlex.data.admin.ch/eli/oc/2019/446)).
 
 #### Art. 53
 
@@ -1528,10 +1530,10 @@ Le autorizzazioni ai sensi della legge sulle armi sono rilasciate se il richiede
 
 <sup>5</sup> Se la procedura d’indennizzo non può aver luogo, in particolare perché il legittimo proprietario è sconosciuto o irreperibile, il ricavato è devoluto allo Stato.
 
-[^54-1]: Nuovo testo giusta il n. I dell’O del 4 giu. 2010, in vigore dal 28 lug. 2010 ([RU 2010 2827](https://fedlex.data.admin.ch/eli/oc/2010/370)).
-[^54-2]: Nuovo testo giusta il n. I dell’O del 3 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 2117](https://fedlex.data.admin.ch/eli/oc/2016/343)).
-[^54-3]: Nuovo testo giusta il n. I dell’O del 3 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 2117](https://fedlex.data.admin.ch/eli/oc/2016/343)).
-[^54-4]: Nuovo testo giusta il n. I dell’O del 4 giu. 2010, in vigore dal 28 lug. 2010 ([RU 2010 2827](https://fedlex.data.admin.ch/eli/oc/2010/370)).
+[^54-1]: Nuovo testo giusta la cifra I dell’O del 4 giu. 2010, in vigore dal 28 lug. 2010 ([RU 2010 2827](https://fedlex.data.admin.ch/eli/oc/2010/370)).
+[^54-2]: Nuovo testo giusta la cifra I dell’O del 3 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 2117](https://fedlex.data.admin.ch/eli/oc/2016/343)).
+[^54-3]: Nuovo testo giusta la cifra I dell’O del 3 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 2117](https://fedlex.data.admin.ch/eli/oc/2016/343)).
+[^54-4]: Nuovo testo giusta la cifra I dell’O del 4 giu. 2010, in vigore dal 28 lug. 2010 ([RU 2010 2827](https://fedlex.data.admin.ch/eli/oc/2010/370)).
 
 #### Art. 54a
 
@@ -1541,7 +1543,7 @@ Le autorizzazioni ai sensi della legge sulle armi sono rilasciate se il richiede
 
 Le armi da fuoco, le parti essenziali di armi da fuoco e gli accessori di armi da fuoco introdotti nel territorio svizzero illecitamente senza il contrassegno di cui all’articolo 31 capoverso 2, sono confiscati definitivamente dall’autorità competente.
 
-[^54a-1]: Introdotto dal n. I dell’O del 21 nov. 2012, in vigore dal 1° lug. 2013 ([RU 2012 6781](https://fedlex.data.admin.ch/eli/oc/2012/820)).
+[^54a-1]: Introdotto dalla cifra I dell’O del 21 nov. 2012, in vigore dal 1° lug. 2013 ([RU 2012 6781](https://fedlex.data.admin.ch/eli/oc/2012/820)).
 
 ## Capitolo 8: Emolumenti
 
@@ -1553,7 +1555,7 @@ Le armi da fuoco, le parti essenziali di armi da fuoco e gli accessori di armi d
 
 Per le pratiche relative a autorizzazioni, esami e omologazioni, per la custodia di armi e oggetti pericolosi portati abusivamente che sono stati sequestrati, nonché per le misure relative al sequestro, alla confisca definitiva e alla realizzazione degli oggetti di cui all’articolo 4 LArm si applicano gli emolumenti secondo l’allegato 1.
 
-[^55-1]: Nuovo testo giusta il n. I dell’O del 3 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 2117](https://fedlex.data.admin.ch/eli/oc/2016/343)).
+[^55-1]: Nuovo testo giusta la cifra I dell’O del 3 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 2117](https://fedlex.data.admin.ch/eli/oc/2016/343)).
 
 #### Art. 56
 
@@ -1561,7 +1563,7 @@ Per le pratiche relative a autorizzazioni, esami e omologazioni, per la custodia
 
 Nella misura in cui la presente ordinanza non comporta disciplinamenti speciali, vigono le disposizioni dell’ordinanza generale dell’8 settembre 2004[^56-1] sugli emolumenti.
 
-[^56-1]: [RS 172.041.1](https://fedlex.data.admin.ch/eli/cc/2004/677)
+[^56-1]: [RS 172.041.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5068)
 
 #### Art. 57
 
@@ -1600,8 +1602,8 @@ L’Ufficio centrale Armi svolge in particolare i compiti seguenti:
 - k. emana direttive ed elabora documenti d’esame per la patente di commercio di armi e per il permesso di porto di armi;
 - l.[^58-2] mette a disposizione delle autorità cantonali competenti, sotto forma elettronica, i moduli previsti dalla legge.
 
-[^58-1]: Nuovo testo giusta il n. I dell’O del 21 nov. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6781](https://fedlex.data.admin.ch/eli/oc/2012/820)).
-[^58-2]: Nuovo testo giusta il n. I dell’O del 3 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 2117](https://fedlex.data.admin.ch/eli/oc/2016/343)).
+[^58-1]: Nuovo testo giusta la cifra I dell’O del 21 nov. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6781](https://fedlex.data.admin.ch/eli/oc/2012/820)).
+[^58-2]: Nuovo testo giusta la cifra I dell’O del 3 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 2117](https://fedlex.data.admin.ch/eli/oc/2016/343)).
 
 ## Capitolo 10: Trattamento e protezione dei dati
 
@@ -1620,7 +1622,7 @@ La DARUE contiene i seguenti dati dei titolari di patenti di commercio di armi c
 
 <sup>2</sup> I titolari di patenti di commercio di armi che commerciano armi da fuoco, parti essenziali di armi da fuoco o accessori di armi da fuoco comunicano all’Ufficio centrale Armi le informazioni di cui al capoverso 1 lettere a e d.
 
-[^59-1]: Nuovo testo giusta il n. I dell’O del 21 nov. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6781](https://fedlex.data.admin.ch/eli/oc/2012/820)).
+[^59-1]: Nuovo testo giusta la cifra I dell’O del 21 nov. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6781](https://fedlex.data.admin.ch/eli/oc/2012/820)).
 
 #### Art. 59a
 
@@ -1632,7 +1634,7 @@ La DANTRAG contiene:
 - b. i documenti che l’Ufficio centrale Armi, le autorità doganali e le autorità cantonali di polizia si scambiano elettronicamente;
 - c. i dati sul coordinamento delle attività delle autorità cantonali d’esecuzione.
 
-[^59a-1]: Introdotto dal n. I dell’O del 21 nov. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6781](https://fedlex.data.admin.ch/eli/oc/2012/820)).
+[^59a-1]: Introdotto dalla cifra I dell’O del 21 nov. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6781](https://fedlex.data.admin.ch/eli/oc/2012/820)).
 
 #### Art. 60
 
@@ -1654,8 +1656,8 @@ Oltre alle indicazioni di cui all’articolo 32*b* capoverso 2 LArm figurano:
 - a. nella DEBBWA: i dati sul fabbricante e il calibro;
 - b. nella DAWA: i dati sul fabbricante, il calibro e la data del ritiro dell’arma da fuoco da parte del servizio competente dell’amministrazione militare.
 
-[^60-1]: Nuovo testo giusta il n. I dell’O del 21 nov. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6781](https://fedlex.data.admin.ch/eli/oc/2012/820)).
-[^60-2]: Nuovo testo giusta il n. I dell’O del 3 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 2117](https://fedlex.data.admin.ch/eli/oc/2016/343)).
+[^60-1]: Nuovo testo giusta la cifra I dell’O del 21 nov. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6781](https://fedlex.data.admin.ch/eli/oc/2012/820)).
+[^60-2]: Nuovo testo giusta la cifra I dell’O del 3 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 2117](https://fedlex.data.admin.ch/eli/oc/2016/343)).
 
 #### Art. 61
 
@@ -1694,13 +1696,13 @@ Inoltre le autorità seguenti possono accedere ai dati della DEBBWA per mezzo di
 
 <sup>6</sup> I dettagli dei diritti d’accesso sono disciplinati nell’allegato 3.
 
-[^61-1]: Nuovo testo giusta il n. I dell’O del 3 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 2117](https://fedlex.data.admin.ch/eli/oc/2016/343)).
-[^61-2]: [RS 941.42](https://fedlex.data.admin.ch/eli/cc/2022/352)
+[^61-1]: Nuovo testo giusta la cifra I dell’O del 3 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 2117](https://fedlex.data.admin.ch/eli/oc/2016/343)).
+[^61-2]: [RS 941.42](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11231)
 [^61-3]: Introdotto dall’all. 2 n. 9 dell’O del 25 mag. 2022 sui precursori di sostanze esplodenti, in vigore dal 1° gen. 2023 ([RU 2022 353](https://fedlex.data.admin.ch/eli/oc/2022/353)).
-[^61-4]: [RS 360](https://fedlex.data.admin.ch/eli/cc/1995/875_875_875)
-[^61-5]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
-[^61-6]: [RS 312.2](https://fedlex.data.admin.ch/eli/cc/2012/814)
-[^61-7]: Introdotto dal n. I dell’O del 14 giu. 2019, in vigore dal 14 dic. 2019 ([RU 2019 2377](https://fedlex.data.admin.ch/eli/oc/2019/446)).
+[^61-4]: [RS 360](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6300)
+[^61-5]: [RS 312.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6214)
+[^61-6]: [RS 312.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6221)
+[^61-7]: Introdotto dalla cifra I dell’O del 14 giu. 2019, in vigore dal 14 dic. 2019 ([RU 2019 2377](https://fedlex.data.admin.ch/eli/oc/2019/446)).
 
 #### Art. 62
 
@@ -1712,14 +1714,14 @@ Inoltre le autorità seguenti possono accedere ai dati della DEBBWA per mezzo di
 
 <sup>2</sup> Ai fini della gestione puntuale dell’accesso, la Cancelleria federale può comunicare regolarmente, per ogni utente, al sistema d’informazione comune armonizzato sull’acquisto e il possesso di armi da fuoco i dati relativi al nome, la sigla, gli identificatori locali, l’indirizzo di posta elettronica, i dati relativi all’indirizzo, nonché all’impiego, alla funzione e al ruolo tratti dal sistema di gestione delle identità della Confederazione.[^62-2]
 
-[^62-1]: Nuovo testo giusta il n. I dell’O del 3 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 2117](https://fedlex.data.admin.ch/eli/oc/2016/343)).
+[^62-1]: Nuovo testo giusta la cifra I dell’O del 3 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 2117](https://fedlex.data.admin.ch/eli/oc/2016/343)).
 [^62-2]: Nuovo testo giusta l’all. n. 13 dell’O del 25 nov. 2020 sulla trasformazione digitale e l’informatica, in vigore dal 1° gen. 2021 ([RU 2020 5871](https://fedlex.data.admin.ch/eli/oc/2020/988)).
 
 #### Art. 63
 
 [^63-1]
 
-[^63-1]: Abrogato dal n. I dell’O del 4 giu. 2010, con effetto dal 28 lug. 2010 ([RU 2010 2827](https://fedlex.data.admin.ch/eli/oc/2010/370)).
+[^63-1]: Abrogato dalla cifra I dell’O del 4 giu. 2010, con effetto dal 28 lug. 2010 ([RU 2010 2827](https://fedlex.data.admin.ch/eli/oc/2010/370)).
 
 #### Art. 64
 
@@ -1729,8 +1731,8 @@ Inoltre le autorità seguenti possono accedere ai dati della DEBBWA per mezzo di
 
 È data un’adeguata protezione dei dati della persona interessata ai sensi dell’articolo 32*e* capoverso 3 LArm, se le garanzie adeguate soddisfano i requisiti degli articoli 9–12 dell’ordinanza del 31 agosto 2022[^64-2] sulla protezione dei dati (OPDa).
 
-[^64-1]: Nuovo testo giusta l’all. 2 n. II 65 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
-[^64-2]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^64-1]: Nuovo testo giusta l’all. 2 cifra II n. 65 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^64-2]: [RS 235.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5994)
 
 #### Art. 65
 
@@ -1738,8 +1740,8 @@ Inoltre le autorità seguenti possono accedere ai dati della DEBBWA per mezzo di
 
 I diritti degli interessati sono retti dalle legge federale del 25 settembre 2020[^65-2] sulla protezione dei dati (LPD).
 
-[^65-1]: Nuovo testo giusta l’all. 2 n. II 65 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
-[^65-2]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^65-1]: Nuovo testo giusta l’all. 2 cifra II n. 65 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^65-2]: [RS 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 
 #### Art. 66
 
@@ -1753,10 +1755,10 @@ I diritti degli interessati sono retti dalle legge federale del 25 settembre 202
 
 <sup>2</sup> I dati dei sistemi d’informazione elettronici sull’acquisto e il possesso di armi da fuoco e del sistema d’informazione comune armonizzato sull’acquisto e il possesso di armi da fuoco sono conservati per 30 anni dopo la distruzione dell’arma. La cancellazione dei dati dal sistema d’informazione elettronico di un Cantone comporta anche la cancellazione dei dati dal sistema d’informazione comune armonizzato sull’acquisto e il possesso di armi da fuoco.[^66-4]
 
-[^66-1]: Nuovo testo giusta il n. I dell’O del 4 giu. 2010, in vigore dal 28 lug. 2010 ([RU 2010 2827](https://fedlex.data.admin.ch/eli/oc/2010/370)).
-[^66-2]: Nuovo testo giusta il n. I dell’O del 3 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 2117](https://fedlex.data.admin.ch/eli/oc/2016/343)).
-[^66-3]: Nuovo testo giusta il n. I dell’O del 21 nov. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6781](https://fedlex.data.admin.ch/eli/oc/2012/820)).
-[^66-4]: Nuovo testo giusta il n. I dell’O del 14 giu. 2019, in vigore dal 14 dic. 2019 ([RU 2019 2377](https://fedlex.data.admin.ch/eli/oc/2019/446)).
+[^66-1]: Nuovo testo giusta la cifra I dell’O del 4 giu. 2010, in vigore dal 28 lug. 2010 ([RU 2010 2827](https://fedlex.data.admin.ch/eli/oc/2010/370)).
+[^66-2]: Nuovo testo giusta la cifra I dell’O del 3 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 2117](https://fedlex.data.admin.ch/eli/oc/2016/343)).
+[^66-3]: Nuovo testo giusta la cifra I dell’O del 21 nov. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6781](https://fedlex.data.admin.ch/eli/oc/2012/820)).
+[^66-4]: Nuovo testo giusta la cifra I dell’O del 14 giu. 2019, in vigore dal 14 dic. 2019 ([RU 2019 2377](https://fedlex.data.admin.ch/eli/oc/2019/446)).
 
 #### Art. 66a
 
@@ -1764,7 +1766,7 @@ I diritti degli interessati sono retti dalle legge federale del 25 settembre 202
 
 Il trattamento dei dati contenuti nelle banche dati di cui all’articolo 32*a* capoverso 1 LArm e all’articolo 59*a* della presente ordinanza è verbalizzato. I verbali sono conservati per un anno separatamente dal sistema in cui sono trattati i dati personali.
 
-[^66a-1]: Introdotto dal n. I dell’O del 21 nov. 2012 ([RU 2012 6781](https://fedlex.data.admin.ch/eli/oc/2012/820)). Nuovo testo giusta l’all. 2 n. II 65 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^66a-1]: Introdotto dalla cifra I dell’O del 21 nov. 2012 ([RU 2012 6781](https://fedlex.data.admin.ch/eli/oc/2012/820)). Nuovo testo giusta l’all. 2 cifra II n. 65 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 66b
 
@@ -1772,9 +1774,9 @@ Il trattamento dei dati contenuti nelle banche dati di cui all’articolo 32*a* 
 
 L’offerta di dati personali della banca dati di cui all’articolo 59*a* all’Archivio federale è retta dall’articolo 38 della LPD[^66b-2] e dall’articolo 6 della legge del 26 giugno 1998[^66b-3] sull’archiviazione.
 
-[^66b-1]: Introdotto dal n. I dell’O del 21 nov. 2012 ([RU 2012 6781](https://fedlex.data.admin.ch/eli/oc/2012/820)). Nuovo testo giusta l’all. 2 n. II 65 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
-[^66b-2]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^66b-3]: [RS 152.1](https://fedlex.data.admin.ch/eli/cc/1999/354)
+[^66b-1]: Introdotto dalla cifra I dell’O del 21 nov. 2012 ([RU 2012 6781](https://fedlex.data.admin.ch/eli/oc/2012/820)). Nuovo testo giusta l’all. 2 cifra II n. 65 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^66b-2]: [RS 235.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5994)
+[^66b-3]: [RS 152.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4931)
 
 #### Art. 66c
 
@@ -1789,11 +1791,11 @@ La sicurezza dei dati è retta:
 
 <sup>2</sup> L’Ufficio centrale Armi adotta le misure organizzative necessarie per impedire l’accesso non autorizzato ai dati.
 
-[^66c-1]: Introdotto dal n. I dell’O del 21 nov. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6781](https://fedlex.data.admin.ch/eli/oc/2012/820)).
-[^66c-2]: Nuovo testo giusta l’all. 2 n. II 65 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
-[^66c-3]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^66c-4]: Nuovo testo giusta l’all. 2 n. II 32 dell’O dell’8 nov. 2023 sulla sicurezza delle informazioni, in vigore dal 1° gen. 2024 ([RU 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
-[^66c-5]: [RS 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
+[^66c-1]: Introdotto dalla cifra I dell’O del 21 nov. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6781](https://fedlex.data.admin.ch/eli/oc/2012/820)).
+[^66c-2]: Nuovo testo giusta l’all. 2 cifra II n. 65 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^66c-3]: [RS 235.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5994)
+[^66c-4]: Nuovo testo giusta l’all. 2 cifra II n. 32 dell’O dell’8 nov. 2023 sulla sicurezza delle informazioni, in vigore dal 1° gen. 2024 ([RU 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
+[^66c-5]: [RS 128.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40166)
 [^66c-6]: Nuovo testo giusta l’all. n. 11 dell’O del 24 feb. 2021, in vigore dal 1° apr. 2021 ([RU 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
 
 #### Art. 66d
@@ -1802,7 +1804,7 @@ La sicurezza dei dati è retta:
 
 Fedpol emana un regolamento sul trattamento dei dati nelle banche dati di cui all’articolo 32*a* capoverso 1 LArm e all’articolo 59*a* della presente ordinanza.
 
-[^66d-1]: Introdotto dal n. I dell’O del 21 nov. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6781](https://fedlex.data.admin.ch/eli/oc/2012/820)).
+[^66d-1]: Introdotto dalla cifra I dell’O del 21 nov. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6781](https://fedlex.data.admin.ch/eli/oc/2012/820)).
 
 ## Capitolo 11: Disposizioni finali
 
@@ -1820,7 +1822,7 @@ Fedpol emana un regolamento sul trattamento dei dati nelle banche dati di cui al
 
 <sup>4</sup> Se l’intervento della polizia cantonale non è opportuno o possibile, l’UDSC, d’intesa con la polizia, stende il verbale di accertamento e lo trasmette, insieme agli oggetti sequestrati, al competente giudice istruttore per l’apertura di un procedimento penale.
 
-[^67-1]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), con effetto dal 1° gen. 2022 ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Di detta mod. è tenuto conto in tutto il presente testo.
+[^67-1]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)), con effetto dal 1° gen. 2022 ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Di detta mod. è tenuto conto in tutto il presente testo.
 
 #### Art. 68
 
@@ -1849,11 +1851,11 @@ Comunica inoltre all’Ufficio centrale Armi per mezzo di una procedura automati
 
 <sup>4</sup> Il rilascio e la revoca di una patente di commercio di armi vanno comunicati immediatamente all’Ufficio centrale Armi mediante procedura automatizzata. Quest’ultimo informa la Segreteria di Stato dell’economia.[^68-6]
 
-[^68-1]: Nuovo testo giusta il n. I dell’O del 21 nov. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6781](https://fedlex.data.admin.ch/eli/oc/2012/820)).
-[^68-2]: Nuovo testo giusta il n. I dell’O del 3 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 2117](https://fedlex.data.admin.ch/eli/oc/2016/343)).
+[^68-1]: Nuovo testo giusta la cifra I dell’O del 21 nov. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6781](https://fedlex.data.admin.ch/eli/oc/2012/820)).
+[^68-2]: Nuovo testo giusta la cifra I dell’O del 3 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 2117](https://fedlex.data.admin.ch/eli/oc/2016/343)).
 [^68-3]: Nuovo testo giusta l’all. n. II 21 dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)).
-[^68-4]: Nuovo testo giusta il n. I dell’O del 3 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 2117](https://fedlex.data.admin.ch/eli/oc/2016/343)).
-[^68-5]: Nuovo testo giusta il n. I dell’O del 3 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 2117](https://fedlex.data.admin.ch/eli/oc/2016/343)).
+[^68-4]: Nuovo testo giusta la cifra I dell’O del 3 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 2117](https://fedlex.data.admin.ch/eli/oc/2016/343)).
+[^68-5]: Nuovo testo giusta la cifra I dell’O del 3 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 2117](https://fedlex.data.admin.ch/eli/oc/2016/343)).
 [^68-6]: Originario cpv. 3.
 
 #### Art. 69
@@ -1868,8 +1870,8 @@ Al proscioglimento dell’obbligo militare, la Base logistica dell’esercito co
 - b. il tipo, il fabbricante, la designazione, il calibro, il numero dell’arma, nonché la data dell’alienazione;
 - c. la data della registrazione nella banca dati.
 
-[^69-1]: Nuovo testo giusta il n. I dell’O del 3 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 2117](https://fedlex.data.admin.ch/eli/oc/2016/343)).
-[^69-2]: Nuovo testo giusta il n. I dell’O del 3 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 2117](https://fedlex.data.admin.ch/eli/oc/2016/343)).
+[^69-1]: Nuovo testo giusta la cifra I dell’O del 3 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 2117](https://fedlex.data.admin.ch/eli/oc/2016/343)).
+[^69-2]: Nuovo testo giusta la cifra I dell’O del 3 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 2117](https://fedlex.data.admin.ch/eli/oc/2016/343)).
 [^69-3]: Nuova espr. giusta l’all. n. II 21 dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)). Di detta mod. é tenuto conto in tutto il presente testo.
 
 #### Art. 70
@@ -1894,7 +1896,7 @@ Comunica all’autorità competente del Cantone di domicilio per mezzo di una pr
 - b. il tipo, il fabbricante, la designazione, il calibro, il numero dell’arma, nonché la data dell’alienazione;
 - c. la data della registrazione nella banca dati.
 
-[^70-1]: Nuovo testo giusta il n. I dell’O del 3 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 2117](https://fedlex.data.admin.ch/eli/oc/2016/343)).
+[^70-1]: Nuovo testo giusta la cifra I dell’O del 3 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 2117](https://fedlex.data.admin.ch/eli/oc/2016/343)).
 
 #### Art. 71
 
@@ -1906,7 +1908,7 @@ Comunica all’autorità competente del Cantone di domicilio per mezzo di una pr
 
 <sup>2</sup> La competente autorità cantonale conferma il possesso di armi che sono state notificate in virtù dell’articolo 42*b* capoverso 1 LArm o che rientrano nell’eccezione di cui all’articolo 42*b* capoverso 2 LArm. Stabilisce se le conferme sono fornite d’ufficio o su richiesta.
 
-[^71-1]: Nuovo testo giusta il n. I dell’O del 14 giu. 2019, in vigore dal 15 ago. 2019 ([RU 2019 2377](https://fedlex.data.admin.ch/eli/oc/2019/446)).
+[^71-1]: Nuovo testo giusta la cifra I dell’O del 14 giu. 2019, in vigore dal 15 ago. 2019 ([RU 2019 2377](https://fedlex.data.admin.ch/eli/oc/2019/446)).
 
 #### Art. 71a
 
@@ -1926,7 +1928,7 @@ I Cantoni definiscono le modalità della comunicazione elettronica di cui all’
 - b. le comunicazioni sull’introduzione di armi da fuoco e parti essenziali di armi da fuoco nel territorio svizzero; tali comunicazioni devono contenere le indicazioni di cui all’articolo 30*a* capoverso 2 e vanno inviate entro 20 giorni tramite posta elettronica all’autorità competente del Cantone in cui ha sede il titolare della patente di commercio di armi;
 - c. le comunicazioni sulla sostituzione di parti essenziali di arma ai sensi degli articoli 9*d* e 20 capoverso 2; tali comunicazioni devono contenere le indicazioni di cui all’articolo 30*a* capoverso 2 e vanno inviate entro 20 giorni tramite posta elettronica all’autorità competente del Cantone in cui è domiciliato l’acquirente.[^71a-2]
 
-[^71a-1]: Introdotto dal n. I dell’O del 14 giu. 2019, in vigore dal 15 ago. 2019 ([RU 2019 2377](https://fedlex.data.admin.ch/eli/oc/2019/446)).
+[^71a-1]: Introdotto dalla cifra I dell’O del 14 giu. 2019, in vigore dal 15 ago. 2019 ([RU 2019 2377](https://fedlex.data.admin.ch/eli/oc/2019/446)).
 [^71a-2]: In vigore dal 14 dic. 2019 ([RU 2019 2377](https://fedlex.data.admin.ch/eli/oc/2019/446)).
 
 #### Art. 72
@@ -1947,7 +1949,7 @@ Allegato 1[^t-1]
 
 ## Emolumenti
 
-[^t-1]: Aggiornato dal n. II cpv. 1 dell’O del 4 giu. 2010 ([RU 2010 2827](https://fedlex.data.admin.ch/eli/oc/2010/370)), dal n. II dell’O del 21 nov. 2012 ([RU 2012 6781](https://fedlex.data.admin.ch/eli/oc/2012/820)), dal n. II cpv. 1 delle O del 3 giu. 2016 ([RU 2016 2117](https://fedlex.data.admin.ch/eli/oc/2016/343)), del 14 giu. 2019 ([RU 2019 2377](https://fedlex.data.admin.ch/eli/oc/2019/446)), dal n. II delle O del 13 dic. 2019 ([RU 2020 23](https://fedlex.data.admin.ch/eli/oc/2020/8)) e del 24 giu. 2020, in vigore dal 1° set. 2020 ([RU 2020 2955](https://fedlex.data.admin.ch/eli/oc/2020/549)).
+[^t-1]: Aggiornato dalla cifra II cpv. 1 dell’O del 4 giu. 2010 ([RU 2010 2827](https://fedlex.data.admin.ch/eli/oc/2010/370)), dalla cifra II dell’O del 21 nov. 2012 ([RU 2012 6781](https://fedlex.data.admin.ch/eli/oc/2012/820)), dalla cifra II cpv. 1 delle O del 3 giu. 2016 ([RU 2016 2117](https://fedlex.data.admin.ch/eli/oc/2016/343)), del 14 giu. 2019 ([RU 2019 2377](https://fedlex.data.admin.ch/eli/oc/2019/446)), dalla cifra II delle O del 13 dic. 2019 ([RU 2020 23](https://fedlex.data.admin.ch/eli/oc/2020/8)) e del 24 giu. 2020, in vigore dal 1° set. 2020 ([RU 2020 2955](https://fedlex.data.admin.ch/eli/oc/2020/549)).
 
 Per le pratiche relative a domande d’autorizzazione, per la custodia di armi e oggetti pericolosi portati abusivamente che sono stati sequestrati, nonché per le misure relative al sequestro, alla confisca definitiva e alla realizzazione di armi e di oggetti pericolosi portati abusivamente sono riscossi i seguenti emolumenti:
 
@@ -2029,7 +2031,7 @@ Allegato 3[^t-2]
 
 ## Diritti d’accesso
 
-[^t-2]: Nuovo testo giusta il n. II cpv. 2 dell’O del 14 giu. 2019 ([RU 2019 2377](https://fedlex.data.admin.ch/eli/oc/2019/446)). Aggiornato dall’all. 2 n. 9 dell’O del 25 mag. 2022 sui precursori di sostanze esplodenti, in vigore dal 1° gen. 2023 ([RU 2022 353](https://fedlex.data.admin.ch/eli/oc/2022/353)).
+[^t-2]: Nuovo testo giusta la cifra II cpv. 2 dell’O del 14 giu. 2019 ([RU 2019 2377](https://fedlex.data.admin.ch/eli/oc/2019/446)). Aggiornato dall’all. 2 n. 9 dell’O del 25 mag. 2022 sui precursori di sostanze esplodenti, in vigore dal 1° gen. 2023 ([RU 2022 353](https://fedlex.data.admin.ch/eli/oc/2022/353)).
 
 A = consultare
 
@@ -2121,8 +2123,8 @@ II
 
 Le ordinanze qui appresso sono modificate come segue:
 
-...[^annex4-lvlu1-3]
+…[^annex4-lvlu1-3]
 
-[^annex4-lvlu1-1]: [[RU 1998 2549](https://fedlex.data.admin.ch/eli/oc/1998/2549_2549_2549); [2001 1009](https://fedlex.data.admin.ch/eli/oc/2001/146); [2002 319](https://fedlex.data.admin.ch/eli/oc/2002/69)n. II, [2671](https://fedlex.data.admin.ch/eli/oc/2002/374); [2003 5143](https://fedlex.data.admin.ch/eli/oc/2003/756); [2005 2695](https://fedlex.data.admin.ch/eli/oc/2005/464)n. II 4; [2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)all. 4 n. 11]
+[^annex4-lvlu1-1]: [[RU 1998 2549](https://fedlex.data.admin.ch/eli/oc/1998/2549_2549_2549); [2001 1009](https://fedlex.data.admin.ch/eli/oc/2001/146); [2002 319](https://fedlex.data.admin.ch/eli/oc/2002/69)cifra II, [2671](https://fedlex.data.admin.ch/eli/oc/2002/374); [2003 5143](https://fedlex.data.admin.ch/eli/oc/2003/756); [2005 2695](https://fedlex.data.admin.ch/eli/oc/2005/464)cifra II n. 4; [2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)all. 4 n. 11]
 [^annex4-lvlu1-2]: [[RU 2002 258](https://fedlex.data.admin.ch/eli/oc/2002/54)]
 [^annex4-lvlu1-3]: Le mod. possono essere consultate alla [RU 2008 5525](https://fedlex.data.admin.ch/eli/oc/2008/767).

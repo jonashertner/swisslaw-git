@@ -4,11 +4,11 @@ title: "Verordnung vom 2. Juli 2008 über Waffen, Waffenzubehör und Munition (W
 short: WV
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/767"
 language: de
-version: 2025-07-22
+version: 2026-06-01
 adopted: 2008-07-02
 in_force: 2008-12-12
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/767/20250722/de/xml/fedlex-data-admin-ch-eli-cc-2008-767-20250722-de-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/767/20250722/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/767/20260601/de/xml/fedlex-data-admin-ch-eli-cc-2008-767-20260601-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/767/20260601/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/767/20250722/de"
 
 (Waffenverordnung, WV)
 
-vom 2. Juli 2008 (Stand am 22. Juli 2025)
+vom 2. Juli 2008 (Stand am 1. Juni 2026)
 
 Der Schweizerische Bundesrat,
 
@@ -25,8 +25,8 @@ gestützt auf das Waffengesetz vom 20. Juni 1997[^ingress-1] (WG) und auf Artike
 
 verordnet:
 
-[^ingress-1]: [SR 514.54](https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535)
-[^ingress-2]: [SR 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
+[^ingress-1]: [SR 514.54](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7530)
+[^ingress-2]: [SR 510.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7242)
 
 ## 1. Kapitel: Begriffe
 
@@ -65,7 +65,7 @@ Als Waffen gelten Sprayprodukte zur Selbstverteidigung mit den Reizstoffen nach 
 
 Als Waffen gelten Elektroschockgeräte, die nicht den Bestimmungen der Verordnung vom 9. April 1997[^2-1] über elektrische Niederspannungserzeugnisse entsprechen. In Zweifelsfällen entscheidet die Zentralstelle Waffen.
 
-[^2-1]: [[AS 1997 1016](https://fedlex.data.admin.ch/eli/oc/1997/1016_1016_1016); [2000 734](https://fedlex.data.admin.ch/eli/oc/2000/123)Art. 19 Ziff. 2, [762](https://fedlex.data.admin.ch/eli/oc/2000/127)Ziff. I 3; [2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)Ziff. IV 23; [2009 6243](https://fedlex.data.admin.ch/eli/oc/2009/763)Anhang 3 Ziff. II 4; [2010 2583](https://fedlex.data.admin.ch/eli/oc/2010/348)Anhang 4 Ziff. II 1, [2749](https://fedlex.data.admin.ch/eli/oc/2010/358)Ziff. I 1; [2013 3509](https://fedlex.data.admin.ch/eli/oc/2013/653)Anhang Ziff. 2. [AS 2016 105](https://fedlex.data.admin.ch/eli/oc/2016/17)Art. 29]. Siehe heute: die V vom 25 Nov. 2015 ([SR 734.26](https://fedlex.data.admin.ch/eli/cc/2016/17)).
+[^2-1]: [[AS 1997 1016](https://fedlex.data.admin.ch/eli/oc/1997/1016_1016_1016); [2000 734](https://fedlex.data.admin.ch/eli/oc/2000/123)Art. 19 Ziff. 2, [762](https://fedlex.data.admin.ch/eli/oc/2000/127)Ziff. I 3; [2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)Ziff. IV 23; [2009 6243](https://fedlex.data.admin.ch/eli/oc/2009/763)Anhang 3 Ziff. II 4; [2010 2583](https://fedlex.data.admin.ch/eli/oc/2010/348)Anhang 4 Ziff. II 1, [2749](https://fedlex.data.admin.ch/eli/oc/2010/358)Ziff. I 1; [2013 3509](https://fedlex.data.admin.ch/eli/oc/2013/653)Anhang Ziff. 2. [AS 2016 105](https://fedlex.data.admin.ch/eli/oc/2016/17)Art. 29]. Siehe heute: die V vom 25 Nov. 2015 ([SR 734.26](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8582)).
 
 #### Art. 3
 
@@ -603,7 +603,7 @@ Liegt kein gegenteiliger Hinweis vor, so darf die übertragende Person davon aus
 
 <sup>4</sup> Der schriftliche Vertrag, der Privatauszug aus dem Strafregister-Informationssystem VOSTRA und die Kopie des gültigen Passes oder der gültigen Identitätskarte sind aufzubewahren. Wurde eine Feuerwaffe übertragen, so muss die übertragende Person der kantonalen Meldestelle eine Kopie der Dokumente zustellen.[^18-4]
 
-[^18-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^18-1]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 [^18-2]: Ausdruck gemäss Anhang 10 Ziff. II 19 der Strafregisterverordnung vom 19. Okt. 2022, in Kraft seit 23. Jan. 2023 ([AS 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
 [^18-3]: Eingefügt durch Ziff. I der V vom 14. Juni 2019, in Kraft seit 15. Aug. 2019 ([AS 2019 2377](https://fedlex.data.admin.ch/eli/oc/2019/446)).
 [^18-4]: Fassung gemäss Ziff. I der V vom 14. Juni 2019, in Kraft seit 15. Aug. 2019 ([AS 2019 2377](https://fedlex.data.admin.ch/eli/oc/2019/446)).
@@ -690,7 +690,7 @@ Folgende Sportwaffen dürfen mit dem schriftlichen Einverständnis der gesetzlic
 <sup>4</sup> Der Schiessverein sorgt für die Aufbewahrung von Waffen nach Artikel 5 Absatz 1 Buchstaben b und c der Schiessverordnung vom 5. Dezember 2003, die an Personen, welche das 17. Altersjahr noch nicht vollendet haben, ausgeliehen werden.[^23-3]
 
 [^23-1]: Fassung gemäss Ziff. I der V vom 4. Juni 2010, in Kraft seit 28. Juli 2010 ([AS 2010 2827](https://fedlex.data.admin.ch/eli/oc/2010/370)).
-[^23-2]: [SR 512.31](https://fedlex.data.admin.ch/eli/cc/2003/754)
+[^23-2]: [SR 512.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7434)
 [^23-3]: Eingefügt durch Ziff. III der V vom 18. Nov. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 5071](https://fedlex.data.admin.ch/eli/oc/2015/830)).
 
 ### 3. Abschnitt: Erwerb von Munition und Munitionsbestandteilen
@@ -720,9 +720,11 @@ Die übertragende Person darf davon ausgehen, dass kein Hinderungsgrund gegeben 
 
 #### Art. 24a
 
-<sup>1</sup> Wer eine Ladevorrichtung mit hoher Kapazität überträgt, muss prüfen, ob der erwerbenden Person eine kantonale Ausnahmebewilligung oder eine Bestätigung des Besitzes für eine entsprechende Feuerwaffe ausgestellt wurde. Für die Prüfung genügt eine Kopie der Ausnahmebewilligung oder Bestätigung. Die Besitzer und Besitzerinnen von Ordonnanzfeuerwaffen, die direkt aus den Beständen der Militärverwaltung zu Eigentum übernommen wurden, müssen den Erwerb der Waffe mittels Eintrag im Dienstbüchlein nachweisen.
+<sup>1</sup> Wer eine Ladevorrichtung mit hoher Kapazität überträgt, muss prüfen, ob der erwerbenden Person eine kantonale Ausnahmebewilligung oder eine Bestätigung des Besitzes für eine entsprechende Feuerwaffe ausgestellt wurde. Für die Prüfung genügt eine Kopie der Ausnahmebewilligung oder Bestätigung. Die Besitzer und Besitzerinnen von Ordonnanzfeuerwaffen, die direkt aus den Beständen der Militärverwaltung zu Eigentum übernommen wurden, müssen den Erwerb der Waffe mittels Ausweises über die Erfüllung der Militärdienstpflicht nachweisen.[^24a-1]
 
 <sup>2</sup> Ladevorrichtungen mit einer Kapazität von 11 bis 20 Patronen, die sowohl mit Handfeuerwaffen als auch mit Faustfeuerwaffen verwendet werden können, dürfen übertragen werden, wenn der erwerbenden Person eine Ausnahmebewilligung oder Bestätigung nach Absatz 1 oder ein Waffenerwerbsschein oder europäischer Feuerwaffenpass für eine passende Faustfeuerwaffe ausgestellt wurde.
+
+[^24a-1]: Fassung gemäss Anhang Ziff. 5 der V vom 1. April 2026, in Kraft seit 1. Juni 2026 ([AS 2026 174](https://fedlex.data.admin.ch/eli/oc/2026/174)).
 
 ## 3. Kapitel: Typenprüfungen
 
@@ -1040,7 +1042,7 @@ Besteht ein Griffstück, ein Rahmen, ein Verschlussgehäuse oder ein Gehäuseobe
 <sup>5</sup> Die Markierungstiefe muss mindestens 0,0762 mm betragen.[^31e-2]
 
 [^31e-1]: Eingefügt durch Ziff. I der V vom 24. Juni 2020, in Kraft seit 1. Sept. 2020 ([AS 2020 2955](https://fedlex.data.admin.ch/eli/oc/2020/549)).
-[^31e-2]: Eingefügt durch Ziff. I der V vom 25. Juni 2025, in Kraft seit 22. Juli 2025 (AS **202****5** 427).
+[^31e-2]: Eingefügt durch Ziff. I der V vom 25. Juni 2025, in Kraft seit 22. Juli 2025 ([AS 2025 427](https://fedlex.data.admin.ch/eli/oc/2025/427)).
 
 #### Art. 31f
 
@@ -1327,8 +1329,8 @@ Von der Zuführungs- und der Anmeldepflicht nach den Artikeln 21 und 25 des Zoll
 - d. Personen, die glaubhaft machen, dass sie ihre Waffen und die dazugehörige Munition für die Jagd oder den Schiess- oder Kampfsport im Ausland benötigt haben und dass es sich um dieselben Waffen handelt, die sie zu diesem Zweck ausgeführt haben;
 - e. Personen, die glaubhaft machen, dass sie ihre Waffen und die dazugehörige Munition für die Jagd oder den Schiess- oder Kampfsport in der Schweiz benötigen und dass sie die Waffen wieder ausführen werden.
 
-[^43-1]: [SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
-[^43-2]: [SR 0.631.24](https://fedlex.data.admin.ch/eli/cc/1995/4685_4685_4685)
+[^43-1]: [SR 631.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7812)
+[^43-2]: [SR 0.631.24](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2025)
 [^43-3]: Eingefügt durch Ziff. I der V vom 21. Nov. 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 6781](https://fedlex.data.admin.ch/eli/oc/2012/820)).
 
 ### 4. Abschnitt: Ausfuhr
@@ -1561,7 +1563,7 @@ Für die Bearbeitung von Bewilligungen, Prüfungen und Bestätigungen, für die 
 
 Soweit diese Verordnung keine besondere Regelung enthält, gelten die Bestimmungen der Allgemeinen Gebührenverordnung vom 8. September 2004[^56-1].
 
-[^56-1]: [SR 172.041.1](https://fedlex.data.admin.ch/eli/cc/2004/677)
+[^56-1]: [SR 172.041.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5068)
 
 #### Art. 57
 
@@ -1695,11 +1697,11 @@ Auf die Daten der DEBBWA haben ausserdem folgende Behörden im Abrufverfahren Zu
 <sup>6</sup> Die Einzelheiten der Zugriffsrechte sind in Anhang 3 geregelt.
 
 [^61-1]: Fassung gemäss Ziff. I der V vom 3. Juni 2016, in Kraft seit 1. Juli 2016 ([AS 2016 2117](https://fedlex.data.admin.ch/eli/oc/2016/343)).
-[^61-2]: [SR 941.42](https://fedlex.data.admin.ch/eli/cc/2022/352)
+[^61-2]: [SR 941.42](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11231)
 [^61-3]: Eingefügt durch Anhang 2 Ziff. 9 der Vorläuferstoffverordnung vom 25. Mai 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 353](https://fedlex.data.admin.ch/eli/oc/2022/353)).
-[^61-4]: [SR 360](https://fedlex.data.admin.ch/eli/cc/1995/875_875_875)
-[^61-5]: [SR 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
-[^61-6]: [SR 312.2](https://fedlex.data.admin.ch/eli/cc/2012/814)
+[^61-4]: [SR 360](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6300)
+[^61-5]: [SR 312.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6214)
+[^61-6]: [SR 312.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6221)
 [^61-7]: Eingefügt durch Ziff. I der V vom 14. Juni 2019, in Kraft seit 14. Dez. 2019 ([AS 2019 2377](https://fedlex.data.admin.ch/eli/oc/2019/446)).
 
 #### Art. 62
@@ -1730,7 +1732,7 @@ Auf die Daten der DEBBWA haben ausserdem folgende Behörden im Abrufverfahren Zu
 Ein geeigneter Datenschutz der betroffenen Person im Sinne von Artikel 32*e* Absatz 3 WG liegt vor, wenn die geeigneten Garantien die Anforderungen der Artikel 9–12 der Datenschutzverordnung vom 31. August 2022[^64-2] (DSV) erfüllen.
 
 [^64-1]: Fassung gemäss Anhang 2 Ziff. II 65 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
-[^64-2]: [SR 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^64-2]: [SR 235.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5994)
 
 #### Art. 65
 
@@ -1739,7 +1741,7 @@ Ein geeigneter Datenschutz der betroffenen Person im Sinne von Artikel 32*e* Abs
 Die Rechte der Betroffenen richten sich nach dem Datenschutzgesetz vom 25. September 2020[^65-2] (DSG).
 
 [^65-1]: Fassung gemäss Anhang 2 Ziff. II 65 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
-[^65-2]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^65-2]: [SR 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 
 #### Art. 66
 
@@ -1773,8 +1775,8 @@ Die Bearbeitung von Daten in den Datenbanken nach Artikel 32*a* Absatz 1 WG und 
 Das Anbieten von Personendaten aus der Datenbank nach Artikel 59*a* an das Bundesarchiv richtet sich nach Artikel 38 des DSG[^66b-2] und nach Artikel 6 des Archivierungsgesetzes vom 26. Juni 1998[^66b-3].
 
 [^66b-1]: Eingefügt durch Ziff. I der V vom 21. Nov. 2012 ([AS 2012 6781](https://fedlex.data.admin.ch/eli/oc/2012/820)). Fassung gemäss Anhang 2 Ziff. II 65 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
-[^66b-2]: [SR 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^66b-3]: [SR 152.1](https://fedlex.data.admin.ch/eli/cc/1999/354)
+[^66b-2]: [SR 235.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5994)
+[^66b-3]: [SR 152.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4931)
 
 #### Art. 66c
 
@@ -1791,9 +1793,9 @@ Die Gewährleistung der Datensicherheit richtet sich nach:
 
 [^66c-1]: Eingefügt durch Ziff. I der V vom 21. Nov. 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 6781](https://fedlex.data.admin.ch/eli/oc/2012/820)).
 [^66c-2]: Fassung gemäss Anhang 2 Ziff. II 65 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
-[^66c-3]: [SR 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^66c-3]: [SR 235.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5994)
 [^66c-4]: Fassung gemäss Anhang 2 Ziff. II 32 der Informationssicherheitsverordnung vom 8. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
-[^66c-5]: [SR 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
+[^66c-5]: [SR 128.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40166)
 [^66c-6]: Fassung gemäss Anhang Ziff. 11 der V vom 24. Febr. 2021, in Kraft seit 1. April 2021 ([AS 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
 
 #### Art. 66d
@@ -1820,7 +1822,7 @@ Fedpol erlässt ein Reglement für die Bearbeitung der Daten in den Datenbanken 
 
 <sup>4</sup> Ist der Beizug der kantonalen Polizei nicht zweckmässig oder nicht möglich, so erstellt das BAZG nach Rücksprache mit der Polizei die Feststellungsprotokolle und übergibt diese zusammen mit den beschlagnahmten Gegenständen der zuständigen Untersuchungsbehörde zur Einleitung eines Strafverfahrens.
 
-[^67-1]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) auf den 1. Jan. 2022 angepasst ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Diese Anpassung wurde im ganzen Text vorgenommen.
+[^67-1]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)) auf den 1. Jan. 2022 angepasst ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Diese Anpassung wurde im ganzen Text vorgenommen.
 
 #### Art. 68
 
