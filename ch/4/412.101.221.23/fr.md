@@ -3,18 +3,18 @@ sr: "412.101.221.23"
 title: Ordonnance du SEFRI du 30 octobre 2009 sur la formation professionnelle initiale de mouleuse/mouleur avec certificat fédéral de capacité (CFC)
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/819"
 language: fr
-version: 2026-01-01
+version: 2026-06-01
 adopted: 2009-10-30
 in_force: 2010-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/819/20260101/fr/xml/fedlex-data-admin-ch-eli-cc-2009-819-20260101-fr-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/819/20260101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/819/20260601/fr/xml/fedlex-data-admin-ch-eli-cc-2009-819-20260601-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/819/20260601/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance du SEFRI sur la formation professionnelle initiale de mouleuse/mouleur avec certificat fédéral de capacité (CFC)\*
 
-du 30 octobre 2009 (État le 1<sup>er</sup> janvier 2026)[^t-1]
+du 30 octobre 2009 (État le 1<sup>er</sup> juin 2026)[^t-1]
 
 [^t-1]: <sup>\*</sup> Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
 
@@ -123,15 +123,15 @@ Lors de la troisième et de la quatrième année, la formation approfondie compr
 
 #### Art. 5
 
-**Parts assumées par les différents lieux de formation**
+**Parts assumées par les différents lieux de formation**[^5-1]
 
-<sup>1</sup> La formation à la pratique professionnelle s’étend sur toute la durée de la formation professionnelle initiale, en moyenne à raison de 3 jours et demi par semaine.
+<sup>1</sup> La formation à la pratique professionnelle en entreprise s’étend sur toute la durée de la formation professionnelle initiale, en moyenne à raison de 3 jours par semaine.
 
-<sup>2</sup> L’enseignement obligatoire dispensé à l’école professionnelle comprend 2120 périodes d’enseignement. Parmi celles-ci, 200 périodes sont consacrées à l’enseignement du sport.[^5-1]
+<sup>2</sup> L’enseignement obligatoire dispensé à l’école professionnelle comprend 2480 périodes d’enseignement. Parmi celles-ci, 240 périodes sont consacrées à l’enseignement du sport.
 
-<sup>3</sup> Les cours interentreprises comprennent au total 26 jours de cours au minimum et 30 au maximum, à raison de 8 heures de cours par jour. Durant le dernier semestre de la formation professionnelle initiale, aucun cours interentreprises n’a lieu.
+<sup>3</sup> Les cours interentreprises comprennent 26 jours de cours, à raison de 8 heures de cours par jour. Aucun cours interentreprises ne doit avoir lieu durant le dernier se-mestre de la formation professionnelle initiale.
 
-[^5-1]: Nouvelle teneur selon le ch. I de l’O du SEFRI du 1<sup>er</sup> juin 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 343](https://fedlex.data.admin.ch/eli/oc/2021/343)).
+[^5-1]: Nouvelle teneur selon le ch. I de l’O du SEFRI du 30 avr. 2026, en vigueur depuis le 1<sup>er</sup> juin 2026 ([RO 2026 217](https://fedlex.data.admin.ch/eli/oc/2026/217)).
 
 #### Art. 6
 
@@ -303,15 +303,16 @@ L’examen final porte sur les domaines de qualification ci-après selon les mod
   - 3\. la personne en formation doit montrer qu’elle est à même d’exécuter les tâches demandées dans les règles de l’art et en fonction des besoins et de la situation,
   - 4\. le dossier de formation et les documents relatifs aux cours interentreprises peuvent être utilisés comme aides;
 
-- b. connaissances professionnelles d’une durée de 4 à 5 heures. Ce domaine de qualification est évalué vers la fin de la formation professionnelle initiale. La personne en formation subit un examen écrit;
-- c. culture générale. Ce domaine de qualification est régi par l’ordonnance du SEFRI du 9 avril 2025[^15-3] concernant les conditions minimales relatives à la culture générale dans la formation professionnelle initiale[^15-4].
+- b.[^15-3] connaissances professionnelles d’une durée d’une heure; ce domaine de qualification est évalué vers la fin de la formation professionnelle initiale; la personne en formation subit un examen écrit;
+- c. culture générale. Ce domaine de qualification est régi par l’ordonnance du SEFRI du 9 avril 2025[^15-4] concernant les conditions minimales relatives à la culture générale dans la formation professionnelle initiale[^15-5].
 
 <sup>3</sup> Dans chaque domaine de qualification, deux experts aux examens au moins évaluent les prestations.
 
 [^15-1]: Abrogé par le ch. I de l’O du SEFRI du 22 fév. 2016, avec effet au 1<sup>er</sup> avr. 2016 ([RO 2016 997](https://fedlex.data.admin.ch/eli/oc/2016/180)).
 [^15-2]: Nouvelle teneur selon le ch. I de l’O du SEFRI du 1<sup>er</sup> juin 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 343](https://fedlex.data.admin.ch/eli/oc/2021/343)).
-[^15-3]: Le renvoi a été adapté en application de l’art. 12, al. 2, de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)), avec effet au 1<sup>er</sup> janv. 2026 ([RO 2025 593](https://fedlex.data.admin.ch/eli/oc/2025/593)).
-[^15-4]: [RS 412.101.241](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6593)
+[^15-3]: Nouvelle teneur selon le ch. I de l’O du SEFRI du 30 avr. 2026, en vigueur depuis le 1<sup>er</sup> juin 2026 ([RO 2026 217](https://fedlex.data.admin.ch/eli/oc/2026/217)).
+[^15-4]: Le renvoi a été adapté en application de l’art. 12, al. 2, de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)), avec effet au 1<sup>er</sup> janv. 2026 ([RO 2025 593](https://fedlex.data.admin.ch/eli/oc/2025/593)).
+[^15-5]: [RS 412.101.241](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6593)
 
 #### Art. 16
 
@@ -473,6 +474,20 @@ Sont abrogés:
 <sup>3</sup> Les modifications des dispositions relatives aux procédures de qualification, au certificat et au titre (art. 14 à 19) sont applicables au 1<sup>er</sup> janvier 2025.
 
 [^22b-1]: Introduit par le ch. I de l’O du SEFRI du 1<sup>er</sup> juin 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 343](https://fedlex.data.admin.ch/eli/oc/2021/343)).
+
+#### Art. 22c
+
+**Dispositions transitoires relatives à la modification du 30 avril 2026**[^22c-1]
+
+<sup>1</sup> La modification des dispositions relatives aux procédures de qualification, au certificat et au titre (art. 15, al. 2, let. b) est applicable au 1<sup>er</sup> janvier 2030.
+
+<sup>2</sup> Les personnes qui ont commencé leur formation de mouleur CFC avant l’entrée en vigueur de la modification du 1<sup>er</sup> juin 2026 l’achèvent selon l’ancien droit, pour autant qu’elles l’achèvent avant le 31 décembre 2031.
+
+<sup>3</sup> Les personnes qui, après l’entrée en vigueur de la modification du 1<sup>er</sup> juin 2026, commencent une formation raccourcie se terminant avant la première application de la modification des dispositions relatives aux procédures de qualification, au certificat et au titre (al. 1) la suivent et l’achèvent selon l’ancien droit, pour autant qu’elles l’achèvent avant le 31 décembre 2031.
+
+<sup>4</sup> Les candidats qui se sont présentés à la procédure de qualification avec examen final de mouleur CFC selon l’ancien droit et qui la répètent jusqu’au 31 décembre 2031 voient leurs prestations appréciées selon l’ancien droit.
+
+[^22c-1]: Introduit par le ch. I de l’O du SEFRI du 30 avr. 2026, en vigueur depuis le 1<sup>er</sup> juin 2026 ([RO 2026 217](https://fedlex.data.admin.ch/eli/oc/2026/217)).
 
 #### Art. 23
 

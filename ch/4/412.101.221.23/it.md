@@ -3,18 +3,18 @@ sr: "412.101.221.23"
 title: Ordinanza della SEFRI del 30 ottobre 2009 sulla formazione professionale di base Costruttrice di modelli e stampi/Costruttore di modelli e stampi con attestato federale di capacità (AFC)
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/819"
 language: it
-version: 2026-01-01
+version: 2026-06-01
 adopted: 2009-10-30
 in_force: 2010-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/819/20260101/it/xml/fedlex-data-admin-ch-eli-cc-2009-819-20260101-it-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/819/20260101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/819/20260601/it/xml/fedlex-data-admin-ch-eli-cc-2009-819-20260601-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/819/20260601/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza della SEFRI sulla formazione professionale di base Costruttrice di modelli e stampi/ Costruttore di modelli e stampi con attestato federale di capacità (AFC)
 
-del 30 ottobre 2009 (Stato 1° gennaio 2026)
+del 30 ottobre 2009 (Stato 1° giugno 2026)
 
 <table>
 <tr><td>30905</td><td>Costruttrice di modelli e stampi AFC/ Costruttore di modelli e stampi AFC Formenbauerin EFZ/Formenbauer EFZ Mouleuse CFC/Mouleur CFC</td></tr>
@@ -45,7 +45,7 @@ I costruttori di modelli e stampi di livello AFC svolgono, in particolare, le se
 - c. pensano e operano in maniera orientata alla clientela, rispettando criteri economici; elaborano soluzioni che comprendono vari processi di lavorazione; realizzano i loro incarichi e progetti in modo sistematico e autonomo;
 - d. rispettano i principi della sicurezza sul lavoro e della protezione della salute e dell’ambiente.
 
-[^1-1]: Nuovo testo giusta il n. I dell’O della SEFRI del 1° giu. 2021, in vigore dal 1° lug. 2021 ([RU 2021 343](https://fedlex.data.admin.ch/eli/oc/2021/343)).
+[^1-1]: Nuovo testo giusta la cifra I dell’O della SEFRI del 1° giu. 2021, in vigore dal 1° lug. 2021 ([RU 2021 343](https://fedlex.data.admin.ch/eli/oc/2021/343)).
 [^1-2]: Nuovo testo giusta la cifra I dell’O della SEFRI del 1° giu. 2021, in vigore dal 1° lug. 2021 ([RU 2021 343](https://fedlex.data.admin.ch/eli/oc/2021/343)).
 
 #### Art. 2
@@ -121,15 +121,15 @@ La formazione approfondita del terzo e del quarto anno comprende le seguenti com
 
 #### Art. 5
 
-**Parti svolte dai luoghi di formazione**
+**Parti svolte dai luoghi di formazione**[^5-1]
 
-<sup>1</sup> La formazione professionale pratica si svolge in media su 3,5 giorni alla settimana per tutta la durata della formazione professionale di base.
+<sup>1</sup> La formazione professionale pratica in azienda si svolge in media su 3 giornate alla settimana per tutta la durata della formazione professionale di base.
 
-<sup>2</sup> L’insegnamento scolastico obbligatorio comprende 2120 lezioni. Di queste, 200 sono dedicate all’insegnamento dello sport.[^5-1]
+<sup>2</sup> L’insegnamento scolastico obbligatorio comprende 2480 lezioni. Di queste, 240 sono dedicate all’insegnamento dell’educazione fisica.
 
-<sup>3</sup> I corsi interaziendali hanno una durata complessiva minima di 26 e massima di 30 giornate di otto ore. Nell’ultimo semestre della formazione professionale di base non si svolgono corsi interaziendali.
+<sup>3</sup> I corsi interaziendali comprendono 26 giornate di otto ore. Nell’ultimo semestre della formazione professionale di base non si possono svolgere corsi interaziendali.
 
-[^5-1]: Nuovo testo giusta la cifra I dell’O della SEFRI del 1° giu. 2021, in vigore dal 1° lug. 2021 ([RU 2021 343](https://fedlex.data.admin.ch/eli/oc/2021/343)).
+[^5-1]: Nuovo testo giusta la cifra I dell’O della SEFRI del 30 apr. 2026, in vigore dal 1° giu. 2026 ([RU 2026 217](https://fedlex.data.admin.ch/eli/oc/2026/217)).
 
 #### Art. 6
 
@@ -231,7 +231,7 @@ Il formatore soddisfa i requisiti professionali se possiede una delle qualifiche
 <sup>3</sup> ...[^11-3]
 
 [^11-1]: Nuovo testo giusta la cifra I dell’O della SEFRI del 1° giu. 2021, in vigore dal 1° lug. 2021 ([RU 2021 343](https://fedlex.data.admin.ch/eli/oc/2021/343)).
-[^11-2]: Nuovo testo giusta la cifra I dell’O della SEFRI del 1° giu. 2021, in vigore dal 1 ° lug. 2021 ([RU 2021 343](https://fedlex.data.admin.ch/eli/oc/2021/343)).
+[^11-2]: Nuovo testo giusta la cifra I dell’O della SEFRI del 1° giu. 2021, in vigore dal 1° lug. 2021 ([RU 2021 343](https://fedlex.data.admin.ch/eli/oc/2021/343)).
 [^11-3]: Abrogato dalla cifra I dell’O della SEFRI del 22 feb. 2016, con effetto dal 1° apr. 2016 ([RU 2016 997](https://fedlex.data.admin.ch/eli/oc/2016/180)).
 
 #### Art. 11a
@@ -298,15 +298,16 @@ L’esame finale valuta i campi di qualificazione sotto elencati nel modo seguen
   - 3\. la persona in formazione deve dimostrare di essere in grado di svolgere le attività richieste in modo professionalmente corretto e adeguato alle necessità e alla situazione,
   - 4\. è ammessa come ausilio la consultazione della documentazione dell’apprendimento e dei corsi interaziendali;
 
-- b. «conoscenze professionali», della durata da quattro a cinque ore. L’esame ha luogo verso la fine della formazione professionale di base. L’esame si svolge in forma scritta;
-- c. «cultura generale». Per l’esame finale fa stato l’ordinanza della SEFRI del 9 aprile 2025[^15-3] sulle prescrizioni minime in materia di cultura generale nella formazione professionale di base[^15-4].
+- b.[^15-3] «conoscenze professionali», della durata di un’ora; l’esame per questo campo di qualificazione ha luogo verso la fine della formazione professionale di base e si svolge in forma scritta;
+- c. «cultura generale». Per l’esame finale fa stato l’ordinanza della SEFRI del 9 aprile 2025[^15-4] sulle prescrizioni minime in materia di cultura generale nella formazione professionale di base[^15-5].
 
 <sup>3</sup> Per ogni campo di qualificazione la valutazione è effettuata da almeno due periti d’esame.
 
 [^15-1]: Abrogato dalla cifra I dell’O della SEFRI del 22 feb. 2016, con effetto dal 1° apr. 2016 ([RU 2016 997](https://fedlex.data.admin.ch/eli/oc/2016/180)).
 [^15-2]: Nuovo testo giusta la cifra I dell’O della SEFRI del 1° giu. 2021, in vigore dal 1° lug. 2021 ([RU 2021 343](https://fedlex.data.admin.ch/eli/oc/2021/343)).
-[^15-3]: [RS 412.101.241](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6593)
-[^15-4]: Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)), con effetto dal 1° gen. 2026 (vedi [RU 2025 593](https://fedlex.data.admin.ch/eli/oc/2025/593)).
+[^15-3]: Nuovo testo giusta la cifra I dell’O della SEFRI del 30 apr. 2026, in vigore dal 1° giu. 2026 ([RU 2026 217](https://fedlex.data.admin.ch/eli/oc/2026/217)).
+[^15-4]: [RS 412.101.241](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6593)
+[^15-5]: Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)), con effetto dal 1° gen. 2026 (vedi [RU 2025 593](https://fedlex.data.admin.ch/eli/oc/2025/593)).
 
 #### Art. 16
 
@@ -468,6 +469,20 @@ Sono abrogati:
 <sup>3</sup> Le modifiche delle disposizioni concernenti le procedure di qualificazione, le attestazioni e il titolo (art. 14*–*19) si applicano dal 1° gennaio 2025.
 
 [^22b-1]: Introdotto dalla cifra I dell’O della SEFRI del 1° giu. 2021, in vigore dal 1° lug. 2021 ([RU 2021 343](https://fedlex.data.admin.ch/eli/oc/2021/343)).
+
+#### Art. 22c
+
+**Disposizioni transitorie della modifica del 30 aprile 2026**[^22c-1]
+
+<sup>1</sup> La modifica delle disposizioni concernenti le procedure di qualificazione, le attestazioni e il titolo (art. 15 cpv. 2 lett. b) si applica dal 1° gennaio 2030.
+
+<sup>2</sup> Le persone che hanno iniziato la formazione di costruttore di modelli e stampi AFC prima dell’entrata in vigore della modifica del 1° giugno 2026 la portano a termine in base al diritto anteriore, al massimo però entro il 31 dicembre 2031.
+
+<sup>3</sup> Le persone che, dopo l’entrata in vigore della modifica del 1° giugno 2026, iniziano una formazione abbreviata che si conclude anteriormente alla prima applicazione della modifica delle disposizioni concernenti le procedure di qualificazione, le attestazioni e il titolo (cpv. 1), la svolgono e la portano a termine in base al diritto anteriore, al massimo però entro il 31 dicembre 2031.
+
+<sup>4</sup> I candidati che hanno portato a termine la procedura di qualificazione con esame finale per costruttore di modelli e stampi AFC in base al diritto anteriore e che la ripetono entro il 31 dicembre 2031 sono valutati in base al diritto anteriore.
+
+[^22c-1]: Introdotto dalla cifra I dell’O della SEFRI del 30 apr. 2026, in vigore dal 1° giu. 2026 ([RU 2026 217](https://fedlex.data.admin.ch/eli/oc/2026/217)).
 
 #### Art. 23
 

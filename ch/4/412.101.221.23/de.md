@@ -3,18 +3,18 @@ sr: "412.101.221.23"
 title: Verordnung des SBFI vom 30. Oktober 2009 über die berufliche Grundbildung Formenbauerin/Formenbauer mit eidgenössischem Fähigkeitszeugnis (EFZ)
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/819"
 language: de
-version: 2026-01-01
+version: 2026-06-01
 adopted: 2009-10-30
 in_force: 2010-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/819/20260101/de/xml/fedlex-data-admin-ch-eli-cc-2009-819-20260101-de-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/819/20260101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/819/20260601/de/xml/fedlex-data-admin-ch-eli-cc-2009-819-20260601-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/819/20260601/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung des SBFI über die berufliche Grundbildung Formenbauerin/Formenbauer mit eidgenössischem Fähigkeitszeugnis (EFZ)
 
-vom 30. Oktober 2009 (Stand am 1. Januar 2026)
+vom 30. Oktober 2009 (Stand am 1. Juni 2026)
 
 <table>
 <tr><td>30905</td><td>Formenbauerin EFZ/Formenbauer EFZ Mouleuse CFC/Mouleur CFC Costruttrice di modelli e stampi AFC/ Costruttore di modelli e stampi AFC</td></tr>
@@ -121,15 +121,15 @@ Die Schwerpunktausbildung im dritten und vierten Ausbildungsjahr umfasst die fol
 
 #### Art. 5
 
-**Anteile der Lernorte**
+**Anteile der Lernorte**[^5-1]
 
-<sup>1</sup> Die Bildung in beruflicher Praxis erfolgt über die ganze Dauer der beruflichen Grundbildung im Durchschnitt an 3½ Tagen pro Woche.
+<sup>1</sup> Die Bildung in beruflicher Praxis im Betrieb umfasst über die ganze Dauer der beruflichen Grundbildung im Durchschnitt 3 Tage pro Woche.
 
-<sup>2</sup> Die schulische Bildung im obligatorischen Unterricht erfolgt in 2120 Lektionen. Davon entfallen auf den Sportunterricht 200 Lektionen.[^5-1]
+<sup>2</sup> Die schulische Bildung im obligatorischen Unterricht umfasst 2480 Lektionen. Davon entfallen auf den Sportunterricht 240 Lektionen.
 
-<sup>3</sup> Die überbetrieblichen Kurse umfassen insgesamt mindestens 26 und höchstens 30 Tage zu 8 Stunden. Im letzten Semester der beruflichen Grundbildung finden keine überbetrieblichen Kurse mehr statt.
+<sup>3</sup> Die überbetrieblichen Kurse umfassen insgesamt 26 Tage zu 8 Stunden. Im letzten Semester der beruflichen Grundbildung dürfen keine überbetrieblichen Kurse stattfinden.
 
-[^5-1]: Fassung gemäss Ziff. I der V des SBFI vom 1. Juni 2021, in Kraft seit 1. Juli 2021 ([AS 2021 343](https://fedlex.data.admin.ch/eli/oc/2021/343)).
+[^5-1]: Fassung gemäss Ziff. I der V des SBFI vom 30. April 2026, in Kraft seit 1. Juni 2026 ([AS 2026 217](https://fedlex.data.admin.ch/eli/oc/2026/217)).
 
 #### Art. 6
 
@@ -301,15 +301,16 @@ In der Abschlussprüfung werden die nachstehenden Qualifikationsbereiche wie fol
   - 3\. die lernende Person muss zeigen, dass sie fähig ist, die geforderten Tätigkeiten fachlich korrekt sowie bedarfs- und situationsgerecht auszuführen,
   - 4\. die Lerndokumentation und die Unterlagen der überbetrieblichen Kurse dürfen als Hilfsmittel verwendet werden;
 
-- b. Berufskenntnisse im Umfang von 4–5 Stunden. Dieser Qualifikationsbereich wird gegen Ende der beruflichen Grundbildung geprüft. Die lernende Person wird schriftlich geprüft.
-- c. Allgemeinbildung. Der Qualifikationsbereich richtet sich nach der Verordnung des SBFI vom 9. April 2025[^15-3] über die Mindestvorschriften für die Allgemeinbildung in der beruflichen Grundbildung[^15-4].
+- b.[^15-3] Berufskenntnisse, im Umfang von 1 Stunde; dieser Qualifikationsbereich wird gegen Ende der beruflichen Grundbildung geprüft; die lernende Person wird schriftlich geprüft;
+- c. Allgemeinbildung. Der Qualifikationsbereich richtet sich nach der Verordnung des SBFI vom 9. April 2025[^15-4] über die Mindestvorschriften für die Allgemeinbildung in der beruflichen Grundbildung[^15-5].
 
 <sup>3</sup> In jedem Qualifikationsbereich beurteilen mindestens zwei Prüfungsexpertinnen oder -experten die Leistungen.
 
 [^15-1]: Aufgehoben durch Ziff. I der V des SBFI vom 22. Febr. 2016, mit Wirkung seit 1. April 2016 ([AS 2016 997](https://fedlex.data.admin.ch/eli/oc/2016/180)).
 [^15-2]: Fassung gemäss Ziff. I der V des SBFI vom 1. Juni 2021, in Kraft seit 1. Juli 2021 ([AS 2021 343](https://fedlex.data.admin.ch/eli/oc/2021/343)).
-[^15-3]: [SR 412.101.241](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6593)
-[^15-4]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)) auf den 1. Jan. 2026 angepasst (siehe [AS 2025 593](https://fedlex.data.admin.ch/eli/oc/2025/593)).
+[^15-3]: Fassung gemäss Ziff. I der V des SBFI vom 30. April 2026, in Kraft seit 1. Juni 2026 ([AS 2026 217](https://fedlex.data.admin.ch/eli/oc/2026/217)).
+[^15-4]: [SR 412.101.241](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6593)
+[^15-5]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)) auf den 1. Jan. 2026 angepasst (siehe [AS 2025 593](https://fedlex.data.admin.ch/eli/oc/2025/593)).
 
 #### Art. 16
 
@@ -470,6 +471,20 @@ Es werden aufgehoben:
 <sup>3</sup> Die Änderungen der Bestimmungen über Qualifikationsverfahren, Ausweise und Titel (Art. 14*–*19) kommen ab dem 1. Januar 2025 zur Anwendung.
 
 [^22b-1]: Eingefügt durch Ziff. I der V des SBFI vom 1. Juni 2021, in Kraft seit 1. Juli 2021 ([AS 2021 343](https://fedlex.data.admin.ch/eli/oc/2021/343)).
+
+#### Art. 22c
+
+**Übergangsbestimmungen zur Änderung vom 30. April 2026**[^22c-1]
+
+<sup>1</sup> Die Änderung der Bestimmungen über Qualifikationsverfahren, Ausweise und Titel (Art. 15 Abs. 2 Bst. b) kommt ab dem 1. Januar 2030 zur Anwendung.
+
+<sup>2</sup> Lernende, die ihre Ausbildung als Formenbauerin oder Formenbauer EFZ vor dem Inkrafttreten der Änderung vom 1. Juni 2026 begonnen haben, schliessen sie nach bisherigem Recht ab, sofern der Abschluss vor dem 31. Dezember 2031 erfolgt.
+
+<sup>3</sup> Lernende, die nach dem Inkrafttreten der Änderung vom 1. Juni 2026 eine verkürzte Ausbildung beginnen, die vor der erstmaligen Anwendung der Änderung der Bestimmungen über Qualifikationsverfahren, Ausweise und Titel (Abs. 1) endet, absolvieren sie nach bisherigem Recht und schliessen sie gemäss diesem ab, sofern der Abschluss vor dem 31. Dezember 2031 erfolgt.
+
+<sup>4</sup> Kandidierende, die das Qualifikationsverfahren mit Abschlussprüfung für Formenbauerin oder Formenbauer EFZ gemäss bisherigem Recht absolviert haben und dieses bis zum 31. Dezember 2031 wiederholen, werden nach bisherigem Recht beurteilt.
+
+[^22c-1]: Eingefügt durch Ziff. I der V des SBFI vom 30. April 2026, in Kraft seit 1. Juni 2026 ([AS 2026 217](https://fedlex.data.admin.ch/eli/oc/2026/217)).
 
 #### Art. 23
 
