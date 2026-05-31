@@ -4,13 +4,12 @@ number: "731.1"
 title: Planungs- und Baugesetz
 short: PBG
 language: de
-version: 2026-01-01
-valid_until: 2026-05-31
-version_adopted: 2025-07-29
+version: 2026-06-01
+version_adopted: 2026-04-28
 adopted: 2016-07-05
 in_force: 2017-10-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/731.1"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3797/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3910/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,17 +18,17 @@ pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3797/pdf_file"
 
 (PBG)
 
-vom 05.07.2016 (Stand 01.01.2026)
+vom 05.07.2016 (Stand 01.06.2026)
 
 Der Kantonsrat des Kantons St.Gallen
 
-hat von der Botschaft der Regierung vom 30. Juni 2015[^ingress-1] Kenntnis genommen und
+hat von der Botschaft der Regierung vom 11. August 2015[^ingress-1] Kenntnis genommen und
 
 erlässt
 
 als Gesetz:[^ingress-2]
 
-[^ingress-1]: ABl 2015, 2399 ff.
+[^ingress-1]: ABl 2015, 2399 ff. Im ursprünglichen Erlasstext war fälschlicherweise der 30. Juni 2015 als Beschlussdatum der Regierung aufgeführt. Dieses Versehen wurde am 7. Mai 2026 formlos berichtigt.
 [^ingress-2]: Abgekürzt PBG. Vom Kantonsrat erlassen am 27. April 2016; nach unbenützter Referendumsfrist rechtsgültig geworden am 5.Juli 2016; in Vollzug ab 1. Oktober 2017.
 
 ## A. Raumplanung
@@ -2031,11 +2030,11 @@ als Gesetz:[^ingress-2]
 
 **c) Rahmennutzungspläne**
 
-<sup>1</sup> Zonenpläne und Baureglemente der politischen Gemeinden werden innert zehn Jahren seit Vollzugsbeginn dieses Erlasses im ordentlichen Verfahren an das neue Recht angepasst.
+<sup>1</sup> Die an das neue Recht angepassten Rahmennutzungspläne der politischen Gemeinde werden innert zwölf Jahren seit Vollzugsbeginn dieses Erlasses nach Art. 41 Abs. 1 dieses Erlasses öffentlich aufgelegt. Die Regierung kann diese Frist für einzelne politische Gemeinden auf begründetes schriftliches Gesuch hin einmalig um höchstens ein Jahr verlängern. Das Gesuch enthält einen verbindlichen Zeitplan und wird wenigstens ein halbes Jahr vor Ablauf der Frist gestellt. Das Gesuch wird durch die politische Gemeinde öffentlich bekannt gemacht.
 
-<sup>2</sup> Nach Ablauf der Frist kann die Regierung anstelle und auf Kosten der politischen Gemeinde notwendige Anpassungen von Rahmennutzungsplänen der politischen Gemeinde beschliessen. Die Bestimmungen über das Verfahren für den Erlass der kantonalen Sondernutzungspläne werden sachgemäss angewendet.
+<sup>2</sup> Nach Ablauf der Frist beschliesst die Regierung anstelle und auf Kosten der politischen Gemeinde notwendige Anpassungen von Rahmennutzungsplänen der politischen Gemeinde. Die Bestimmungen über das Verfahren für den Erlass der kantonalen Sondernutzungspläne werden sachgemäss angewendet.
 
-<sup>3</sup> Formale Anpassungen an das neue Recht kann der Rat der politischen Gemeinde ohne öffentliche Auflage und fakultatives Referendum beschliessen. Der Beschluss ist öffentlich bekannt zu machen.
+<sup>3</sup> Formale Anpassungen an das neue Recht kann der Rat der politischen Gemeinde ohne öffentliche Auflage und fakultatives Referendum beschliessen. Der Beschluss wird öffentlich bekannt gemacht.
 
 #### Art. 175a
 
@@ -2045,7 +2044,20 @@ als Gesetz:[^ingress-2]
 
 - a) kommunale Rahmennutzungspläne, die noch nicht an diesen Erlass angepasst worden sind;
 - b) Änderungen der Rahmennutzungsplanung jener politischen Gemeinden, deren Rahmennutzungsplan noch nicht an diesen Erlass angepasst worden ist;
-- c) Sondernutzungspläne wie Überbauungs-, Gestaltungs-, Deponie- und Abbaupläne, die unter Geltung des Baugesetzes vom 6. Juni 1972 erlassen und nicht an diesen Erlass angepasst worden sind.
+- c) Sondernutzungspläne wie Überbauungs-, Gestaltungs-, Deponie- und Abbaupläne, die unter Geltung des Baugesetzes vom 6. Juni 1972 erlassen und nicht an diesen Erlass angepasst worden sind;
+- d) Erlass und Änderungen von Sondernutzungsplänen jener politischen Gemeinden, deren Rahmennutzungsplan nach diesem Erlass erst nach der Genehmigung des Sondernutzungsplans durch die zuständige kantonale Stelle genehmigt wird.
+
+#### Art. 175b
+
+**c<sup>ter</sup>) Sondernutzungspläne**
+
+<sup>1</sup> Sondernutzungspläne nach diesem Erlass, die sowohl mit dem an diesen Erlass angepassten Rahmennutzungsplan als auch mit dem auf der Grundlage des Baugesetzes vom 6. Juni 1972 in der Fassung vor Vollzugsbeginn dieses Erlasses erlassenen Rahmennutzungsplan vereinbar sind, können ab Beginn der öffentlichen Auflage des an diesen Erlass angepassten Rahmennutzungsplans aufgelegt und in Vollzug gesetzt werden. Solche Sondernutzungspläne unterstehen dem fakultativen Referendum.
+
+<sup>2</sup> Der Rat der politischen Gemeinde kann beschliessen, dass ein Sondernutzungsplan, der unter Geltung des auf der Grundlage des Baugesetzes vom 6. Juni 1972 in der Fassung vor Vollzugsbeginn dieses Erlasses erlassenen Rahmennutzungsplans beschlossen wurde, unter die Regelung nach Abs. 1 dieser Bestimmung fällt und die laufenden Verfahren weitergeführt werden, wenn der Sondernutzungsplan bei Genehmigung des an diesen Erlass angepassten Rahmennutzungsplans noch nicht genehmigt und mit diesem ebenfalls vereinbar ist.
+
+<sup>3</sup> Sondernutzungspläne nach diesem Erlass, die lediglich mit dem an diesen Erlass angepassten Rahmennutzungsplan vereinbar sind, können ab Beginn der öffentlichen Auflage des Rahmennutzungsplans aufgelegt und genehmigt, aber erst mit Vollzugsbeginn des angepassten Rahmennutzungsplans in Vollzug gesetzt werden.
+
+<sup>4</sup> Formale Anpassungen an das neue Recht kann der Rat der politischen Gemeinde ohne öffentliche Auflage beschliessen. Der Beschluss wird öffentlich bekannt gemacht.
 
 #### Art. 176
 
