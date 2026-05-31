@@ -4,13 +4,12 @@ number: "511.1"
 title: Gesetz über den Finanzhaushalt des Kantons
 short: "Finanzhaushaltgesetz, kFHG"
 language: de
-version: 2016-10-01
-corrected: 2025-06-10
-version_adopted: 2016-06-29
+version: 2026-06-01
+version_adopted: 2026-02-04
 adopted: 2009-10-21
 in_force: 2010-01-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/511.1"
-pdf: "https://gesetze.nw.ch/api/de/versions/971/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/1507/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,15 +18,15 @@ pdf: "https://gesetze.nw.ch/api/de/versions/971/pdf_file"
 
 (Finanzhaushaltgesetz, kFHG)
 
-vom 21.10.2009 (Stand 01.10.2016)
+vom 21.10.2009 (Stand 01.06.2026)
 
 Der Landrat von Nidwalden,
 
-gestützt auf Art. 60 der Kantonsverfassung,
+gestützt auf Art. 60 Abs. 1 der Kantonsverfassung,
 
 beschliesst:
 
-## 1 Allgemeine bestimmungen
+## 1 Allgemeine Bestimmungen
 
 ### 1.1 Ziele und Geltungsbereich
 
@@ -497,7 +496,7 @@ Die Investitionsrechnung umfasst:
 
 <sup>2</sup> Kredite sind vor dem Eingehen neuer Verpflichtungen einzuholen.
 
-<sup>3</sup> Kredite sind in Form von Verpflichtungskrediten, Zusatzkrediten, Budgetkrediten oder Nachtragskrediten zu beantragen.
+<sup>3</sup> Kredite sind in Form von Verpflichtungskrediten, Zusatzkrediten, Budgetkrediten, Nachtragskrediten oder Globalkrediten für Personallöhne zu beantragen.
 
 <sup>4</sup> Kredite sind für jenen Zweck zu verwenden, für den sie bewilligt wurden.
 
@@ -620,6 +619,93 @@ Die Investitionsrechnung umfasst:
 <sup>3</sup> Verwaltungseinheiten mit Leistungsauftrag und Globalbudget können Rücklagen bilden, wenn Globalkredite wegen projektbedingter Verzögerungen nicht oder nicht vollständig beansprucht werden oder wenn bei Einhaltung der festgelegten Leistungsziele durch die Erbringung zusätzlicher nicht budgetierter Erträge oder durch Unterschreitung des budgetierten Aufwandes eine Nettoverbesserung erzielt wird.
 
 <sup>4</sup> Der Regierungsrat erstattet dem Landrat über die Positionen gemäss Abs. 2 und 3 anlässlich der Genehmigung der Jahresrechnung Bericht.
+
+### 3.3a Globalkredit für Personallöhne
+
+#### Art. 49a
+
+**Gegenstand**
+
+<sup>1</sup> Für die Kontogruppen Löhne des Verwaltungs- und Betriebspersonals sowie Löhne der Lehrpersonen gemäss dem Harmonisierten Rechnungsmodell wird die Ermächtigung zur Belastung der Jahresrechnungen mittels eines dreijährigen Globalkredits eingeräumt.
+
+<sup>2</sup> Ausgaben in Zusammenhang mit dem Verwaltungs- und Betriebspersonal, Lehrpersonen und Mitgliedern von Behörden, Kommissionen sowie Gerichten, die nicht zu den Kontogruppen gemäss Abs. 1 gehören, sind nicht vom Globalkredit erfasst.
+
+#### Art. 49b
+
+**Festlegung**
+
+<sup>1</sup> Der Landrat beschliesst den Globalkredit jeweils für drei Jahre. Er legt dazu einen Basisbetrag und eine durchschnittliche Kostenveränderungsquote (KVQ) fest. Dieser Beschluss untersteht nicht dem Referendum.
+
+<sup>2</sup> Zur Ermittlung des Globalkredits sind folgende Teilbeträge zusammenzurechnen:
+
+- 1\. dem Basisbetrag zuzüglich des Produkts aus dem Basisbetrag und der KVQ (Teilbetrag 1);
+- 2\. dem Teilbetrag 1 zuzüglich des Produkts aus diesem Teilbetrag und der KVQ (Teilbetrag 2);
+- 3\. dem Teilbetrag 2 zuzüglich des Produkts aus diesem Teilbetrag und der KVQ (Teilbetrag 3).
+
+<sup>3</sup> Der Basisbetrag berücksichtigt die bis zum Antrag an den Landrat erfolgte Entwicklung der Kontogruppen gemäss Art. 49a Abs. 1 einschliesslich die nicht ausgeschöpften Mittel des letzten Globalkredits, die exogenen Veränderungen gemäss Art. 49d sowie 49e, die Nachträge gemäss Art. 49f und den Teuerungsausgleich gemäss Art. 35a des Personalgesetzes (PersG)[^49b-1].
+
+<sup>4</sup> Die Kostenveränderungsquote deckt insbesondere folgende Veränderungen bei den Lohnkosten ab:
+
+- 1\. Veränderungen im Personalbestand infolge neuer Leistungsaufträge oder Erhöhung der Geschäftslast;
+- 2\. die individuelle Lohnentwicklung der bestehenden Mitarbeitenden;
+- 3\. Marktanpassungen der Löhne.
+
+<sup>5</sup> Der Landrat setzt im Beschluss gemäss Abs. 1 den Basisbetrag und die Kostenveränderungsquote fest für:
+
+- 1\. das Personal der Gerichte, der Schlichtungsbehörde und der Staatsanwaltschaft;
+- 2\. das übrige Personal.
+
+[^49b-1]: NG 165.1
+
+#### Art. 49c
+
+**Bindungswirkung, Einstellung des Mittelbedarfs**
+
+<sup>1</sup> Der Landrat, der Regierungsrat, die Gerichte, die Schlichtungsbehörde und die Staatsanwaltschaft sind an den Globalkredit gebunden. Vorbehalten bleiben die Ausgabenbremse gemäss Art. 35 Abs. 1, die exogenen Veränderungen gemäss Art. 49d sowie 49e, die Nachträge gemäss Art. 49f dieses Gesetzes und der Teuerungsausgleich gemäss Art. 35a PersG[^49c-1].
+
+<sup>2</sup> Der Regierungsrat stellt den jährlichen Mittelbedarf im Rahmen des Globalkredits nach Anhörung der Gerichte, der Schlichtungsbehörde und der Staatsanwaltschaft in das jeweilige Budget ein. Der eingestellte Betrag darf über- oder unterschritten werden, sofern der Globalkredit insgesamt eingehalten werden kann.
+
+<sup>3</sup> Der Landrat ist nicht ermächtigt, den im Budget eingestellten Mittelbedarf zu verändern.
+
+[^49c-1]: NG 165.1
+
+#### Art. 49d
+
+**Exogene Veränderungen 1. Grundsatz**
+
+<sup>1</sup> Der Globalkredit verändert sich, soweit exogene Faktoren die Ursache sind. Der Regierungsrat passt den Globalkredit entsprechend an.
+
+<sup>2</sup> Fallen exogen verursachte Lohnkosten weg, dürfen die frei werdenden Mittel nicht anderweitig eingesetzt werden.
+
+#### Art. 49e
+
+**2. Definition, Kategorien, Entscheid**
+
+<sup>1</sup> Als exogene Faktoren gelten jene äusseren Umstände, die der Kanton nicht aktiv beeinflussen kann und die unmittelbare Auswirkungen auf die Lohnkosten haben.
+
+<sup>2</sup> Bei den exogenen Faktoren werden folgende Kategorien unterschieden:
+
+- 1\. notwendige Veränderungen an den kantonalen Schulen, insbesondere bei der Anzahl Klassen und bei den Lohnkosten der am Unterricht beteiligten Personen;
+- 2\. unmittelbar durch Bundesvorgaben verursachte Lohnkosten;
+- 3\. Lohnkosten, deren Bezahlung durch Dritte in ihrer Höhe rechtskräftig zugesichert ist;
+- 4\. dauerhafte Übertragung von Aufgabenbereichen an Dritte mit gleichzeitiger Reduktion des Personalbestands;
+- 5\. weitere exogen verursachte Lohnkosten.
+
+<sup>3</sup> Der Regierungsrat entscheidet, welche Lohnkosten exogen verursacht sind.
+
+#### Art. 49f
+
+**Nachtrag zum Globalkredit**
+
+<sup>1</sup> Der Landrat ist ermächtigt, eine Erhöhung des Basisbetrags für die Restzeit der dreijährigen Zeitdauer des Globalkredits zu beschliessen.
+
+#### Art. 49g
+
+**Berichterstattung**
+
+<sup>1</sup> Der Regierungsrat erstattet dem Landrat jeweils zusammen mit der Jahresrechnung Bericht über die Verwendung des Globalkredits und die Veränderungen der Stellen.
+
+<sup>2</sup> Er informiert den Landrat jeweils zusammen mit dem Budget und der Jahresrechnung über die exogen verursachten Veränderungen des Globalkredits.
 
 ### 3.4 Spezialfinanzierungen
 
@@ -995,6 +1081,12 @@ Die Investitionsrechnung umfasst:
 **Übergangsbestimmung zur Änderung vom 29. Juni 2016**
 
 <sup>1</sup> Die bilanzierten Vorfinanzierungen sind mit Ausnahme der Vorfinanzierungen für das Kantonsspital Nidwalden in die finanzpolitischen Reserven zu überführen.
+
+#### Art. 84b
+
+**Übergangsbestimmung zur Änderung vom 4. Februar 2026**
+
+<sup>1</sup> Der Landrat beschliesst den Globalkredit für Personallöhne erstmals für die ersten Kalenderjahre nach Inkrafttreten der Änderung vom 4. Februar 2026.
 
 #### Art. 85
 
