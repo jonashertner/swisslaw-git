@@ -4,11 +4,11 @@ title: "Ordonnance du 13 novembre 2019 concernant l'Inventaire fédéral des sit
 short: OISOS
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/673"
 language: fr
-version: 2025-05-01
+version: 2026-06-01
 adopted: 2019-11-13
 in_force: 2020-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/673/20250501/fr/xml/fedlex-data-admin-ch-eli-cc-2019-673-20250501-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/673/20250501/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/673/20260601/fr/xml/fedlex-data-admin-ch-eli-cc-2019-673-20260601-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/673/20260601/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2019/673/20250501/fr"
 
 (OISOS)
 
-du 13 novembre 2019 (État le 1<sup>er</sup> mai 2025)
+du 13 novembre 2019 (État le 1<sup>er</sup> juin 2026)
 
 Le Conseil fédéral suisse,
 
@@ -237,7 +237,7 @@ Annexe 1[^t-1]
 
 ## Sites construits d’importance nationale à protéger
 
-[^t-1]: Mise à jour par le ch. I des O du 19 mars 2021 ([RO 2021 195](https://fedlex.data.admin.ch/eli/oc/2021/195)), du 11 mars 2022 ([RO 2022 174](https://fedlex.data.admin.ch/eli/oc/2022/174)), du 15 fév. 2023 ([RO 2023 78](https://fedlex.data.admin.ch/eli/oc/2023/78)), du 15 mars 2024 ([RO 2024 114](https://fedlex.data.admin.ch/eli/oc/2024/114)) et du 14 mars 2025, en vigueur depuis le 1<sup>er</sup> mai 2025 ([RO 2025 170](https://fedlex.data.admin.ch/eli/oc/2025/170)).
+[^t-1]: Mise à jour par le ch. I des O du 19 mars 2021 ([RO 2021 195](https://fedlex.data.admin.ch/eli/oc/2021/195)), du 11 mars 2022 ([RO 2022 174](https://fedlex.data.admin.ch/eli/oc/2022/174)), du 15 fév. 2023 ([RO 2023 78](https://fedlex.data.admin.ch/eli/oc/2023/78)), du 15 mars 2024 ([RO 2024 114](https://fedlex.data.admin.ch/eli/oc/2024/114)), du 14 mars 2025 ([RO 2025 170](https://fedlex.data.admin.ch/eli/oc/2025/170)) et du 22 avr. 2026, en vigueur depuis le 1<sup>er</sup> juin 2026 ([RO 2026 178](https://fedlex.data.admin.ch/eli/oc/2026/178)).
 
 <table>
 <tr><th>Canton</th><th>N<sup>o</sup></th><th>Objet</th><th>Catégorie d’agglomération</th></tr>
@@ -534,22 +534,20 @@ Annexe 1[^t-1]
 <tr><td>FR</td><td>1455</td><td>Bösingen</td><td>Dorf</td></tr>
 <tr><td>FR</td><td>1655</td><td>Bourguillon (Fribourg)</td><td>cas particulier</td></tr>
 <tr><td>FR</td><td>5939</td><td>Broc-Fabrique (Broc)</td><td>cas particulier</td></tr>
-<tr><td>FR</td><td>5940</td><td>Broc-Vieille Cure (Broc)</td><td>cas particulier</td></tr>
 <tr><td>FR</td><td>1604</td><td>Bulle</td><td>petite ville/bourg</td></tr>
 <tr><td>FR</td><td>1458</td><td>Bussy (Estavayer)</td><td>village</td></tr>
-<tr><td>FR</td><td>1773</td><td>Châtel-Saint-Denis</td><td>petite ville/bourg</td></tr>
 <tr><td>FR</td><td>1608</td><td>Corbières</td><td>cas particulier</td></tr>
 <tr><td>FR</td><td>1734</td><td>Cressier</td><td>village</td></tr>
 <tr><td>FR</td><td>1613</td><td>Estavannens (Bas-Intyamon)</td><td>village</td></tr>
 <tr><td>FR</td><td>1484</td><td>Estavayer-le-Lac (Estavayer)</td><td>petite ville/bourg</td></tr>
 <tr><td>FR</td><td>1491</td><td>Font (Estavayer, Cheyres-Châbles)</td><td>cas particulier</td></tr>
+<tr><td>FR</td><td>1735</td><td>Fräschels</td><td>Dorf</td></tr>
 <tr><td>FR</td><td>1675</td><td>Fribourg/Freiburg</td><td>ville</td></tr>
 <tr><td>FR</td><td>1497</td><td>Galmis (Düdingen)</td><td>Weiler</td></tr>
 <tr><td>FR</td><td>1615</td><td>Grandvillard</td><td>village</td></tr>
-<tr><td>FR</td><td>1678</td><td>Granges-sur-Marly (Pierrafortscha)</td><td>hameau</td></tr>
+<tr><td>FR</td><td>1678</td><td>Granges-sur-Marly (Pierrafortscha, Marly)</td><td>hameau</td></tr>
 <tr><td>FR</td><td>1616</td><td>Gruyères</td><td>petite ville/bourg</td></tr>
-<tr><td>FR</td><td>1681</td><td>Hauterive</td><td>cas particulier</td></tr>
-<tr><td>FR</td><td>1620</td><td>Jaun</td><td>Dorf</td></tr>
+<tr><td>FR</td><td>1681</td><td>Hauterive (Hauterive, Bois-d’Amont)</td><td>cas particulier</td></tr>
 <tr><td>FR</td><td>1507</td><td>Jetschwil (Düdingen)</td><td>Weiler</td></tr>
 <tr><td>FR</td><td>1744</td><td>Kerzers</td><td>Verstädtertes Dorf</td></tr>
 <tr><td>FR</td><td>1621</td><td>Lessoc (Haut-Intyamon)</td><td>village</td></tr>
@@ -558,11 +556,9 @@ Annexe 1[^t-1]
 <tr><td>FR</td><td>1755</td><td>Môtier (Haut-Vully)</td><td>village</td></tr>
 <tr><td>FR</td><td>1756</td><td>Muntelier</td><td>Dorf</td></tr>
 <tr><td>FR</td><td>1758</td><td>Murten</td><td>Kleinstadt/Flecken</td></tr>
-<tr><td>FR</td><td>1628</td><td>Neirivue (Haut-Intyamon)</td><td>village</td></tr>
 <tr><td>FR</td><td>1536</td><td>Orsonnens (Villorsonnens)</td><td>village</td></tr>
 <tr><td>FR</td><td>1630</td><td>Part-Dieu, La (Gruyères)</td><td>cas particulier</td></tr>
 <tr><td>FR</td><td>1538</td><td>Plaffeien (Oberschrot, Plaffeien)</td><td>Dorf</td></tr>
-<tr><td>FR</td><td>1786</td><td>Prayoud (Châtel-Saint-Denis)</td><td>hameau</td></tr>
 <tr><td>FR</td><td>1761</td><td>Praz (Bas-Vully)</td><td>village</td></tr>
 <tr><td>FR</td><td>1548</td><td>Richterwil (Bösingen)</td><td>Weiler</td></tr>
 <tr><td>FR</td><td>1703</td><td>Riedera, La (Le Mouret)</td><td>cas particulier</td></tr>
@@ -573,10 +569,10 @@ Annexe 1[^t-1]
 <tr><td>FR</td><td>1572</td><td>Torny-le-Petit (Torny)</td><td>hameau</td></tr>
 <tr><td>FR</td><td>6291</td><td>Vallon de l’Arbogne (Montagny)</td><td>cas particulier</td></tr>
 <tr><td>FR</td><td>1711</td><td>Vallon du Gottéron (Fribourg)</td><td>cas particulier</td></tr>
-<tr><td>FR</td><td>1642</td><td>Valsainte, La (Cerniat)</td><td>cas particulier</td></tr>
-<tr><td>FR</td><td>1716</td><td>Villarsel-sur-Marly</td><td>hameau</td></tr>
-<tr><td>FR</td><td>1715</td><td>Villars-sur-Marly (Pierrafortscha)</td><td>hameau</td></tr>
-<tr><td>FR</td><td>1646</td><td>Villarvolard</td><td>village</td></tr>
+<tr><td>FR</td><td>1642</td><td>Valsainte, La (Val-de-Charmey)</td><td>cas particulier</td></tr>
+<tr><td>FR</td><td>1716</td><td>Villarsel-sur-Marly (Villarsel-sur-Marly, Le Mouret)</td><td>hameau</td></tr>
+<tr><td>FR</td><td>1715</td><td>Villars-sur-Marly (Pierrafortscha, Marly, Tentlingen)</td><td>hameau</td></tr>
+<tr><td>FR</td><td>1646</td><td>Villarvolard (Corbières)</td><td>village</td></tr>
 <tr><td>FR</td><td>1648</td><td>Vuippens (Marsens)</td><td>cas particulier</td></tr>
 <tr><td>FR</td><td>1589</td><td>Vuissens (Estavayer)</td><td>village</td></tr>
 <tr><td>GE</td><td>6283</td><td>Avanchets, Les (Vernier)</td><td>cas particulier</td></tr>
@@ -617,10 +613,10 @@ Annexe 1[^t-1]
 <tr><td>GR</td><td>1946</td><td>Augio (Rossa)</td><td>villaggio</td></tr>
 <tr><td>GR</td><td>1950</td><td>Bergün/Bravuogn (Bergün Filisur)</td><td>vitg</td></tr>
 <tr><td>GR</td><td>1951</td><td>Bever</td><td>vitg</td></tr>
-<tr><td>GR</td><td>1953</td><td>Bodio/Cauco (Cauco)</td><td>villaggio</td></tr>
+<tr><td>GR</td><td>1953</td><td>Bodio/Cauco (Calanca)</td><td>villaggio</td></tr>
 <tr><td>GR</td><td>6292</td><td>Bondo (Bregaglia)</td><td>villaggio</td></tr>
 <tr><td>GR</td><td>2320</td><td>Borgonovo (Bregaglia)</td><td>villaggio</td></tr>
-<tr><td>GR</td><td>1956</td><td>Braggio con Aira, Mezzana, Miaddi, Oer, Refontana, Stabbio (Braggio)</td><td>villaggio</td></tr>
+<tr><td>GR</td><td>1956</td><td>Braggio (Calanca)</td><td>villaggio</td></tr>
 <tr><td>GR</td><td>1960</td><td>Brün (Safiental)</td><td>Weiler</td></tr>
 <tr><td>GR</td><td>1966</td><td>Calfreisen (Arosa)</td><td>Weiler</td></tr>
 <tr><td>GR</td><td>1977</td><td>Cantone (Poschiavo)</td><td>casale/piccolo villaggio</td></tr>
@@ -631,8 +627,8 @@ Annexe 1[^t-1]
 <tr><td>GR</td><td>1991</td><td>Chur</td><td>Stadt</td></tr>
 <tr><td>GR</td><td>1993</td><td>Cinuos-chel (S-chanf)</td><td>fracziun</td></tr>
 <tr><td>GR</td><td>2323</td><td>Coltura (Bregaglia)</td><td>villaggio</td></tr>
+<tr><td>GR</td><td>2000</td><td>Cons (Lumnezia)</td><td>fracziun</td></tr>
 <tr><td>GR</td><td>2008</td><td>Curaglia (Medel (Lucmagn))</td><td>vitg</td></tr>
-<tr><td>GR</td><td>2019</td><td>Degen/Igels</td><td>vitg</td></tr>
 <tr><td>GR</td><td>2023</td><td>Disla (Disentis/Mustér)</td><td>fracziun</td></tr>
 <tr><td>GR</td><td>2204</td><td>Dörfji/Schmitten (Arosa (Sapün))</td><td>Spezialfall</td></tr>
 <tr><td>GR</td><td>6284</td><td>Dusch (Domleschg)</td><td>Spezialfall</td></tr>
@@ -645,11 +641,11 @@ Annexe 1[^t-1]
 <tr><td>GR</td><td>2060</td><td>Haldenstein</td><td>Dorf</td></tr>
 <tr><td>GR</td><td>2063</td><td>Ilanz (Ilanz/Glion)</td><td>Kleinstadt/Flecken</td></tr>
 <tr><td>GR</td><td>2066</td><td>Jenins</td><td>Dorf</td></tr>
-<tr><td>GR</td><td>2075</td><td>Landarenca (Arvigo)</td><td>casale/piccolo villaggio</td></tr>
+<tr><td>GR</td><td>2075</td><td>Landarenca (Calanca)</td><td>casale/piccolo villaggio</td></tr>
 <tr><td>GR</td><td>2080</td><td>Latsch (Bergün Filisur)</td><td>vitg</td></tr>
 <tr><td>GR</td><td>2081</td><td>Lavin (Zernez)</td><td>vitg</td></tr>
 <tr><td>GR</td><td>2086</td><td>Lohn</td><td>Dorf</td></tr>
-<tr><td>GR</td><td>2090</td><td>Lumbrein</td><td>vitg</td></tr>
+<tr><td>GR</td><td>2090</td><td>Lumbrein (Lumnezia)</td><td>vitg</td></tr>
 <tr><td>GR</td><td>2094</td><td>Luzein</td><td>Dorf</td></tr>
 <tr><td>GR</td><td>2096</td><td>Maienfeld</td><td>Kleinstadt/Flecken</td></tr>
 <tr><td>GR</td><td>2099</td><td>Malans</td><td>Kleinstadt/Flecken</td></tr>
@@ -676,6 +672,7 @@ Annexe 1[^t-1]
 <tr><td>GR</td><td>2194</td><td>Salouf (Surses)</td><td>vitg</td></tr>
 <tr><td>GR</td><td>2195</td><td>Samedan</td><td>vitg urban</td></tr>
 <tr><td>GR</td><td>2199</td><td>San Vittore</td><td>villaggio</td></tr>
+<tr><td>GR</td><td>2201</td><td>Santa Domenica (Rossa)</td><td>villaggio</td></tr>
 <tr><td>GR</td><td>2203</td><td>Santa Maria in Calanca</td><td>villaggio</td></tr>
 <tr><td>GR</td><td>2202</td><td>Santa Maria Val Müstair (Val Müstair)</td><td>vitg</td></tr>
 <tr><td>GR</td><td>2188</td><td>S-chanf</td><td>vitg</td></tr>
@@ -685,7 +682,7 @@ Annexe 1[^t-1]
 <tr><td>GR</td><td>2215</td><td>Schmitten</td><td>Dorf</td></tr>
 <tr><td>GR</td><td>2218</td><td>Scuol</td><td>vitg urban</td></tr>
 <tr><td>GR</td><td>2220</td><td>Seewis im Prättigau</td><td>Dorf</td></tr>
-<tr><td>GR</td><td>2221</td><td>Segnes (Disentis/Mustér)</td><td>vitg</td></tr>
+<tr><td>GR</td><td>2221</td><td>Segnas (Disentis/Mustér)</td><td>vitg</td></tr>
 <tr><td>GR</td><td>2225</td><td>Sent (Scuol)</td><td>vitg</td></tr>
 <tr><td>GR</td><td>2229</td><td>Siat (Ilanz/Glion)</td><td>vitg</td></tr>
 <tr><td>GR</td><td>2231</td><td>Sils im Domleschg</td><td>Verstädtertes Dorf</td></tr>
@@ -699,16 +696,16 @@ Annexe 1[^t-1]
 <tr><td>GR</td><td>2253</td><td>Sur En (Scuol)</td><td>fracziun</td></tr>
 <tr><td>GR</td><td>2264</td><td>Tamins</td><td>Dorf</td></tr>
 <tr><td>GR</td><td>2265</td><td>Tarasp (Scuol)</td><td>cas spezial</td></tr>
-<tr><td>GR</td><td>6288</td><td>Tarasp, Kurhaus (Scuol)</td><td>cas spezial</td></tr>
-<tr><td>GR</td><td>2269</td><td>Tersnaus</td><td>vitg</td></tr>
+<tr><td>GR</td><td>6286</td><td>Tarasp, Kurhaus (Scuol)</td><td>cas spezial</td></tr>
+<tr><td>GR</td><td>2269</td><td>Tersnaus (Lumnezia)</td><td>vitg</td></tr>
 <tr><td>GR</td><td>2271</td><td>Tiefencastel (Albula/Alvra)</td><td>Dorf</td></tr>
 <tr><td>GR</td><td>2277</td><td>Trun</td><td>vitg urban</td></tr>
 <tr><td>GR</td><td>2283</td><td>Tschlin (Valsot)</td><td>vitg</td></tr>
 <tr><td>GR</td><td>2295</td><td>Valendas (Safiental)</td><td>Dorf</td></tr>
-<tr><td>GR</td><td>2300</td><td>Villa</td><td>vitg</td></tr>
+<tr><td>GR</td><td>2300</td><td>Vella (Lumnezia)</td><td>vitg</td></tr>
 <tr><td>GR</td><td>2331</td><td>Vicosoprano (Bregaglia)</td><td>villaggio</td></tr>
 <tr><td>GR</td><td>2305</td><td>Vnà (Valsot)</td><td>vitg</td></tr>
-<tr><td>GR</td><td>2306</td><td>Vrin</td><td>vitg</td></tr>
+<tr><td>GR</td><td>2306</td><td>Vrin (Lumnezia)</td><td>vitg</td></tr>
 <tr><td>GR</td><td>2309</td><td>Waltensburg/Vuorz (Breil/Brigels)</td><td>vitg</td></tr>
 <tr><td>GR</td><td>2313</td><td>Zernez</td><td>vitg urban</td></tr>
 <tr><td>GR</td><td>2315</td><td>Zillis (Zillis-Reischen)</td><td>vitg</td></tr>
