@@ -4,7 +4,7 @@ number: "340.01.1"
 title: RÈGLEMENT du 16.08.2017 sur le statut des personnes condamnées exécutant une peine privative de liberté ou une mesure (RSPC)
 short: RSPC
 language: fr
-version: 2018-01-01
+version: 2026-06-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/340.01.1?id=1d02e3df-cb73-45b1-8aaf-75d5474abfaa"
 ---
 
@@ -1015,9 +1015,9 @@ arrête
 
 **Conditions [^sectionSectionXIII-1]**
 
-<sup>1</sup> Le Règlement concernant l'octroi d'autorisations de sortie aux personnes condamnées adultes et jeunes adultes (RASAdultes) est applicable aux personnes condamnées au sens du présent règlement.
+<sup>1</sup> Le Règlement du 27 mars 2025 concernant les sorties est applicable aux personnes condamnées au sens du présent règlement.
 
-[^sectionSectionXIII-1]: Modif. 1 du 22.04.2026: Modification Al. 1; entrée en vigueur au 01.06.2026; Introduction Art. 176, Al. 1, f-g; entrée en vigueur au 01.06.2026; Introduction Art. 176, Al. 3; entrée en vigueur au 01.06.2026
+[^sectionSectionXIII-1]: Modif. 1 du 22.04.2026: Modification Al. 1; entrée en vigueur au 01.06.2026
 
 ### Section XIV Conseils juridiques
 
@@ -1654,7 +1654,7 @@ arrête
 
 <sup>5</sup> La personne qui souhaite obtenir une ouverture du cadre doit adresser à l'Office d'exécution des peines une demande écrite et motivée, accompagnée de toutes les pièces utiles.
 
-<sup>6</sup> Lorsque la personne fait l'objet d'une enquête pénale, elle ne peut bénéficier d'une ouverture de cadre qu'avec l'accord de l'autorité qui dirige la procédure.
+<sup>6</sup> Lorsque la personne fait l'objet d'une enquête pénale, elle ne peut bénéficier d'une ouverture de cadre qu'avec l'avis de l'autorité qui dirige la procédure.
 
 <sup>7</sup> Toute personne bénéficiant d'une ouverture de cadre doit être en possession de la décision de sortie qui vaut sauf-conduit.
 
@@ -1664,7 +1664,7 @@ arrête
 
 <sup>10</sup> La compétence en matière d'ouverture du cadre peut être déléguée à la direction de l'institution.
 
-[^159-4]: Modif. 1 du 22.04.2026: Modification Al. 6; entrée en vigueur au 01.06.2026; Introduction Art. 176, Al. 1, f-g; entrée en vigueur au 01.06.2026; Introduction Art. 176, Al. 3; entrée en vigueur au 01.06.2026
+[^159-4]: Modif. 1 du 22.04.2026: Modification Al. 6; entrée en vigueur au 01.06.2026
 
 ### Section V Travail externe
 
@@ -1798,13 +1798,17 @@ c. se rendre sur le lieu d'activité de la personne condamnée.
 
 <sup>1</sup> L'autorité compétente peut octroyer des congés selon le barème suivant :
 
-- a. 1<sup>er</sup>mois : 52 heures ;
-- b. 2<sup>e</sup>mois : 72 heures ;
-- c. 3<sup>e</sup>mois : 86 heures ;
-- d. 4<sup>e</sup>mois : 124 heures ;
-- e. dès le 5<sup>e</sup>mois : 172 heures.
+- a. 1er mois : maximum 60 heures ;
+- b. 2ème mois : maximum 72 heures ;
+- c. 3ème mois : maximum 84 heures ;
+- d. 4ème mois : maximum 96 heures ;
+- e. 5ème mois : maximum 108 heures ;
+- f. 6ème mois : maximum 132 heures
+- g. dès le 7ème fois : maximum 156 heures.
 
 <sup>2</sup> La direction de l'établissement peut, avec l'accord de l'autorité dont la personne condamnée dépend, accorder des congés spéciaux.
+
+<sup>3</sup> Cependant, dans tous les cas, la durée maximale d'un congé ininterrompu est de 72 heures.
 
 [^175-1]: Modif. 1 du 22.04.2026: Modification Al. 1, a-e; entrée en vigueur au 01.06.2026; Introduction Al. 1, f-g; entrée en vigueur au 01.06.2026; Introduction Al. 3; entrée en vigueur au 01.06.2026
 
