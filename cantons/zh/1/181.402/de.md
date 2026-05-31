@@ -3,11 +3,10 @@ canton: ZH
 number: "181.402"
 title: Verordnung über das Pfarramt in der Landeskirche
 language: de
-version: "2025-01-01"
-nachtrag: "127"
-valid_until: 2026-06-01
+version: "2026-06-01"
+nachtrag: "133"
 adopted: 2014-09-03
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-181_402-2014_09_03-2015_01_01-127.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-181_402-2014_09_03-2015_01_01-133.html"
 text: pdf
 ---
 
@@ -27,7 +26,7 @@ beschliesst:
 [^t-2]: LS 181.10.
 [^t-3]: LS 181.40.
 [^t-4]: LS 181.401.
-[^t-5]: Fassung gemäss B vom 12. Juni 2024 (OS 79, 389; ABl 2024-06-28). In Kraft seit 1. Januar 2025. 1. 1. 25 - 127 45
+[^t-5]: Fassung gemäss B vom 12. Juni 2024 (OS 79, 389; ABl 2024-06-28). In Kraft seit 1. Januar 2025.
 
 ### 1. Abschnitt: Gegenstand und Geltungsbereich
 
@@ -35,7 +34,7 @@ beschliesst:
 
 § 1.[^h1AbschnittGegens-1] Diese Verordnung regelt in Ergänzung zur Kirchenordnung, zur Personalverordnung und zur Vollzugsverordnung zur Personalverordnung das Pfarramt in der Landeskirche.
 
-[^h1AbschnittGegens-1]: Fassung gemäss B vom 12. Juni 2024 (OS 79, 389; ABl 2024-06-28). In Kraft seit 1. Januar 2025. 1. 1. 25 - 127 45
+[^h1AbschnittGegens-1]: Fassung gemäss B vom 12. Juni 2024 (OS 79, 389; ABl 2024-06-28). In Kraft seit 1. Januar 2025.
 
 #### § 2
 
@@ -47,18 +46,17 @@ beschliesst:
 
 **b. Kirchgemeinschaften und Kirchgemeindeverbände**
 
-§ 3. Als Kirchgemeinden im Sinn dieser Verordnung gelten auch:
-
-- a. Kirchgemeinschaften im Sinn von Art. 177 Abs. 1 KO,
+§ 3. Als Kirchgemeinden im Sinn dieser Verordnung gelten auch: a.[^2-2] Kirchgemeinschaften im Sinn von Art. 178 Abs. 1 KO,
 
 - b. Kirchgemeindeverbände mit eigenen Angestellten.
 
 [^2-1]: Eingefügt durch B vom 20. April 2016 (OS 71, 276; ABl 2016-06-10). In Kraft seit 1. September 2016.
-[^2-2]: Fassung gemäss B vom 10. April 2019 (OS 74, 264; ABl 2019-04-18). In Kraft seit 1. Juli 2019.
+[^2-2]: Fassung gemäss B vom 11. März 2026 (OS 81, 130; ABl 2026-03-20). In Kraft seit 1. Juni 2026.
+[^2-3]: Fassung gemäss B vom 10. April 2019 (OS 74, 264; ABl 2019-04-18). In Kraft seit 1. Juli 2019.
 
 ### 2. Abschnitt: Neuwahl von Pfarrerinnen und Pfarrern
 
-[^2-2]
+[^2-3]
 
 ### A. Grundlagen
 
@@ -70,7 +68,7 @@ beschliesst:
 
 **1**
 
-- 1\. 1. 25 - 127
+- 1\. 7. 26 - 133
 
 <sup>2</sup> Ist eine Wahl auf Amtsdauer nicht möglich, so werden Pfarrerinnen und Pfarrer als Stellvertreterin oder Stellvertreter gemäss Art. 121 Abs. 1 KO angestellt.
 
@@ -99,15 +97,14 @@ beschliesst:
 
 **Einladung zur Stellenbesetzung**
 
-§ 9.[^hBEinleitungdesWa-1] <sup>1</sup> Sind im Pfarramt einer Kirchgemeinde Stellenprozente frei geworden, so lädt der Kirchenrat die Kirchenpflege ein, eine Pfarrwahl einzuleiten.
+§ 9.[^hBEinleitungdesWa-2] <sup>1</sup> Sind im Pfarramt einer Kirchgemeinde Stellenprozente frei geworden, so lädt der Kirchenrat die Kirchenpflege ein, eine Pfarrwahl einzuleiten.
 
-<sup>2</sup> Binnen vier Monaten nach Vorliegen der Einladung gemäss Abs. 1 beruft die Kirchenpflege eine Kirchgemeindeversammlung zur Wahl einer Pfarrwahlkommission ein oder beantragt der Kirchgemeindeversammlung das Vorgehen gemäss §§ 23 und 24. Sie kann stattdessen die frei gewordenen Stellenprozente gemäss §§ 60 und 61 auf die in der Kirchgemeinde gewählten Pfarrerinnen und Pfarrer aufteilen.
+<sup>2</sup> Die Kirchenpflege beruft binnen sechs Monaten nach Vorliegen der Einladung gemäss Abs. 1 eine Kirchgemeindeversammlung zur Wahl einer Pfarrwahlkommission ein oder stellt dem Kirchgemeindeparlament diesbezüglich Antrag oder beantragt der Kirchgemeindeversammlung oder dem Kirchgemeindeparlament das Vorgehen gemäss §§ 23 und 24. Sie kann stattdessen die frei gewordenen Stellenprozente gemäss §§ 60 und 61 auf die in der Kirchgemeinde gewählten Pfarrerinnen und Pfarrer aufteilen.
 
-<sup>3</sup> In Kirchgemeinden mit einem Kirchgemeindeparlament stellt die Kirchenpflege diesem binnen sechs Monaten gemäss Abs. 2 Antrag.
-
-<sup>4</sup> Der Kirchenrat kann die Frist gemäss Abs. 2 auf Gesuch der Kirchenpflege oder nach deren Anhörung verlängern.
+<sup>3</sup> Der Kirchenrat kann die Frist gemäss Abs. 2 auf Gesuch der Kirchenpflege oder nach deren Anhörung aus wichtigen Gründen verlängern.
 
 [^hBEinleitungdesWa-1]: Fassung gemäss B vom 10. April 2019 (OS 74, 264; ABl 2019-04-18). In Kraft seit 1. Juli 2019.
+[^hBEinleitungdesWa-2]: Fassung gemäss B vom 11. März 2026 (OS 81, 130; ABl 2026-03-20). In Kraft seit 1. Juni 2026.
 
 ### C. Verfahren mit Pfarrwahlkommission
 
@@ -129,24 +126,21 @@ beschliesst:
 
 § 12.[^hCVerfahrenmitPfa-2] <sup>1</sup> Neu gewählte Mitglieder der Kirchenpflege treten in der Pfarrwahlkommission an die Stelle der aus der Kirchenpflege ausgeschiedenen Mitglieder. Hat die Kirchenpflege gemäss Art. 170 Abs. 2 KO eine Vertretung bestimmt, so entscheidet sie über die Nachfolge.
 
-<sup>2</sup> Scheiden zugewählte Mitglieder der Pfarrwahlkommission vorzeitig aus dieser aus, so ist an der nächsten Kirchgemeindeversammlung oder in einer nächsten Sitzung des Kirchgemeindeparlaments eine Ersatzwahl vorzunehmen. Die Kirchgemeindeversammlung oder das Kirchgemeindeparlament kann stattdessen die Zahl der zugewählten Mitglieder der Pfarrwahlkommission herabsetzen.
-
-[^hCVerfahrenmitPfa-1]: Aufgehoben durch B vom 10. April 2019 (OS 74, 264; ABl 2019-04-18). In Kraft seit 1. Juli 2019.
-[^hCVerfahrenmitPfa-2]: Fassung gemäss B vom 10. April 2019 (OS 74, 264; ABl 2019-04-18). In Kraft seit 1. Juli 2019.
-
-#### § 13
+<sup>2</sup> Scheiden zugewählte Mitglieder der Pfarrwahlkommission vorzeitig aus dieser aus, so ist in der Regel an der nächsten Kirchgemeindeversammlung oder in einer nächsten Sitzung des Kirchgemeindeparlaments eine Ersatzwahl vorzunehmen. Die Kirchgemeindeversammlung oder das Kirchgemeindeparlament kann stattdessen die Zahl der zugewählten Mitglieder der Pfarrwahlkommission herabsetzen.[^hCVerfahrenmitPfa-3]
 
 **c. Konstituierung**
 
-<sup>1</sup> Die Pfarrwahlkommission konstituiert sich mit Ausnahme der Präsidentin oder des Präsidenten auf dessen oder deren Einladung selber.
+§ 13. <sup>1</sup> Die Pfarrwahlkommission konstituiert sich mit Ausnahme der Präsidentin oder des Präsidenten auf dessen oder deren Einladung selber.
 
-<sup>2</sup> An den Sitzungen der Pfarrwahlkommission nehmen mit beratender Stimme teil:[^13-1] a. die weiterhin in der Kirchgemeinde tätigen Pfarrerinnen und Pfarrer, in Kirchgemeinden mit einem Pfarrkonvent, soweit sie diesen gemäss Art. 114 Abs. 3 und 4 KO in der Kirchenpflege vertreten,
+<sup>2</sup> An den Sitzungen der Pfarrwahlkommission nehmen mit beratender Stimme teil:[^hCVerfahrenmitPfa-2] a. die weiterhin in der Kirchgemeinde tätigen Pfarrerinnen und Pfarrer, in Kirchgemeinden mit einem Pfarrkonvent, soweit sie diesen gemäss Art. 114 Abs. 3 und 4 KO in der Kirchenpflege vertreten,
 
 - b. die Leiterin oder der Leiter des Gemeindekonvents,
 
 - c. ein weiteres Mitglied des Gemeindekonvents, das dieser bestimmt, sofern eine Pfarrerin oder ein Pfarrer den Gemeindekonvent leitet.
 
-[^13-1]: Fassung gemäss B vom 10. April 2019 (OS 74, 264; ABl 2019-04-18). In Kraft seit 1. Juli 2019.
+[^hCVerfahrenmitPfa-1]: Aufgehoben durch B vom 10. April 2019 (OS 74, 264; ABl 2019-04-18). In Kraft seit 1. Juli 2019.
+[^hCVerfahrenmitPfa-2]: Fassung gemäss B vom 10. April 2019 (OS 74, 264; ABl 2019-04-18). In Kraft seit 1. Juli 2019.
+[^hCVerfahrenmitPfa-3]: Fassung gemäss B vom 11. März 2026 (OS 81, 130; ABl 2026-03-20). In Kraft seit 1. Juni 2026.
 
 #### § 14
 
@@ -156,7 +150,7 @@ Die Geschäftsführung der Pfarrwahlkommission richtet sich nach den für die Ki
 
 **3**
 
-- 1\. 1. 25 - 127 § 15.[^14-1] <sup>1</sup> Der Pfarrwahlkommission obliegen insbesondere:
+- 1\. 7. 26 - 133 § 15.[^14-1] <sup>1</sup> Der Pfarrwahlkommission obliegen insbesondere:
 
 **e. Auftrag**
 
@@ -176,27 +170,34 @@ Die Geschäftsführung der Pfarrwahlkommission richtet sich nach den für die Ki
 
 <sup>4</sup> Kann die Pfarrwahlkommission ihren Auftrag innert Jahresfrist seit ihrer Wahl nicht erfüllen, so erstattet sie der Kirchgemeindeversammlung oder dem Kirchgemeindeparlament einen Zwischenbericht über ihre Tätigkeit.
 
-[^14-1]: Fassung gemäss B vom 10. April 2019 (OS 74, 264; ABl 2019-04-18). In Kraft seit 1. Juli 2019.
-
-#### § 16
-
 **f. Dauer**
 
-<sup>1</sup> Die Pfarrwahlkommission bleibt im Amt, bis die Installation der neuen Pfarrerin oder des neuen Pfarrers gemäss Art. 110 KO erfolgt ist.
+§ 16.[^14-2] <sup>1</sup> Die Pfarrwahlkommission bleibt im Amt, bis die Installation der neuen Pfarrerin oder des neuen Pfarrers gemäss Art. 110 KO erfolgt ist.
 
-<sup>2</sup> Werden vorher weitere Stellenprozente frei, so kann die Kirchgemeindeversammlung oder das Kirchgemeindeparlament die bestehende Pfarrwahlkommission mit der Vorbereitung eines Wahlvorschlags auch für diese Stellenprozente beauftragen oder eine neue Pfarrwahlkommission bestellen.[^16-1]
+<sup>2</sup> Sind vorher weitere Stellenprozente zu besetzen, so kann die Kirchgemeindeversammlung oder das Kirchgemeindeparlament die bestehende Pfarrwahlkommission mit der Vorbereitung eines Wahlvorschlags auch für diese Stellenprozente beauftragen oder eine neue Pfarrwahlkommission bestellen.
+
+<sup>3</sup> Kann eine Pfarrwahlkommission ihren Auftrag gemäss § 15 Abs. 1 KO nicht mehr erfüllen, kann die Bezirkskirchenpflege die Pfarrwahlkommission auf deren Gesuch hin auflösen, insbesondere wenn a. die zu besetzenden Stellenprozenten gemäss § 61 Abs. 1 besetzt werden können,
+
+- b. die zu besetzenden Stellenprozente aufgrund der rechtskräftigen Zuteilung der Stellenprozente gemäss Art. 117 Abs. 1, 2 und 4 KO für die kommende Amtsdauer nicht mehr zur Verfügung stehen,
+
+- c. die Kirchensynode den Zusammenschluss der Kirchgemeinde mit einer anderen Kirchgemeinde rechtskräftig beschlossen hat.
+
+[^14-1]: Fassung gemäss B vom 10. April 2019 (OS 74, 264; ABl 2019-04-18). In Kraft seit 1. Juli 2019.
+[^14-2]: Fassung gemäss B vom 11. März 2026 (OS 81, 130; ABl 2026-03-20). In Kraft seit 1. Juni 2026.
+
+#### § 17
 
 **Erteilung der Wählbarkeit**
 
-§ 17. Liegt ein Wahlvorschlag der Pfarrwahlkommission vor, so ersucht die Kirchenpflege den Kirchenrat um die Erteilung der Wählbarkeit für die vorgeschlagene Person.
+Liegt ein Wahlvorschlag der Pfarrwahlkommission vor, so ersucht die Kirchenpflege den Kirchenrat um die Erteilung der Wählbarkeit für die vorgeschlagene Person.
 
 **Wahl a. Vorlage des Wahlvorschlags**
 
-§ 18.[^16-1] Die Kirchenpflege unterbreitet den Wahlvorschlag der Pfarrwahlkommission der Kirchgemeindeversammlung oder dem Kirchgemeindeparlament zur Beschlussfassung, sobald der Kirchenrat die Wählbarkeit erteilt hat.
+§ 18.[^17-1] Die Kirchenpflege unterbreitet den Wahlvorschlag der Pfarrwahlkommission der Kirchgemeindeversammlung oder dem Kirchgemeindeparlament zur Beschlussfassung, sobald der Kirchenrat die Wählbarkeit erteilt hat.
 
 **b. Rückweisung des Wahlvorschlags**
 
-§ 19.[^16-1] <sup>1</sup> Die Vermehrung des Wahlvorschlags der Pfarrwahlkommission durch die Kirchgemeindeversammlung oder das Kirchgemeindeparlament ist unzulässig.
+§ 19.[^17-1] <sup>1</sup> Die Vermehrung des Wahlvorschlags der Pfarrwahlkommission durch die Kirchgemeindeversammlung oder das Kirchgemeindeparlament ist unzulässig.
 
 <sup>2</sup> Beschliesst die Kirchgemeindeversammlung oder das Kirchgemeindeparlament die Rückweisung des Wahlvorschlags der Pfarrwahlkommission, so geht das Geschäft an die Pfarrwahlkommission zurück.
 
@@ -204,22 +205,26 @@ Die Geschäftsführung der Pfarrwahlkommission richtet sich nach den für die Ki
 
 **c. Stellenpensum**
 
-§ 19 a.[^16-2] Die Wahl der vorgeschlagenen Person erfolgt auf die gemäss § 15 Abs. 1 lit. d zugeteilten Stellenprozente.
+§ 19 a.[^17-2] Die Wahl der vorgeschlagenen Person erfolgt auf die gemäss § 15 Abs. 1 lit. d zugeteilten Stellenprozente.
 
-[^16-1]: Fassung gemäss B vom 10. April 2019 (OS 74, 264; ABl 2019-04-18). In Kraft seit 1. Juli 2019.
-[^16-2]: Eingefügt durch B vom 10. April 2019 (OS 74, 264; ABl 2019-04-18). In Kraft seit 1. Juli 2019.
+[^17-1]: Fassung gemäss B vom 10. April 2019 (OS 74, 264; ABl 2019-04-18). In Kraft seit 1. Juli 2019.
+[^17-2]: Eingefügt durch B vom 10. April 2019 (OS 74, 264; ABl 2019-04-18). In Kraft seit 1. Juli 2019.
 
 #### § 20
 
 **d. Kirchgemeindeversammlung**
 
-<sup>1</sup> Beschliesst die Kirchgemeindeversammlung keine Rückweisung des Wahlvorschlags der Pfarrwahlkommission, so wird über diesen in geheimer Abstimmung in der Kirchgemeindeversammlung entschieden. Die Stimmberechtigten können dem Wahlvorschlag zustimmen, diesen ablehnen oder sich der Stimme enthalten.[^16-1]
+<sup>1</sup> Beschliesst die Kirchgemeindeversammlung keine Rückweisung des Wahlvorschlags der Pfarrwahlkommission, so wird über diesen in geheimer Abstimmung in der Kirchgemeindeversammlung entschieden. Die Stimmberechtigten können dem Wahlvorschlag zustimmen, diesen ablehnen oder sich der Stimme enthalten.[^17-1]
 
 <sup>2</sup> Erfolgt die Wahl gemäss Art. 124 Abs. 2 KO in der Kirchgemeindeversammlung, so gilt die Zustimmung zum Wahlvorschlag als Wahl.
 
-**e. Kirchgemeindeparlament**
+**5**
 
-§ 20 a.[^20-1] Beschliesst das Kirchgemeindeparlament keine Rückweisung des Wahlvorschlags der Pfarrwahlkommission, so wird über diesen in geheimer Abstimmung entschieden. Die Mitglieder des Kirchgemeindeparlaments können dem Wahlvorschlag zustimmen, diesen ablehnen oder sich der Stimme enthalten.
+**Voraussetzungen**
+
+- 1\. 7. 26 - 133 § 20 a.[^20-1] Beschliesst das Kirchgemeindeparlament keine Rückweisung des Wahlvorschlags der Pfarrwahlkommission, so wird über diesen in geheimer Abstimmung entschieden. Die Mitglieder des Kirchgemeindeparlaments können dem Wahlvorschlag zustimmen, diesen ablehnen oder sich der Stimme enthalten.
+
+**e. Kirchgemeindeparlament**
 
 **f. Urnenwahl**
 
@@ -227,15 +232,15 @@ Die Geschäftsführung der Pfarrwahlkommission richtet sich nach den für die Ki
 
 <sup>2</sup> In der Urnenwahl werden die Stimmberechtigten gefragt, ob sie die vorgeschlagene Person wählen wollen. Sie können mit Ja oder Nein antworten oder sich der Stimme enthalten. Stimmen für andere als auf dem Wahlzettel aufgeführte Personen und die Wiederholung des gleichen Namens sind ungültig. Die vorgeschlagene Person ist gewählt, wenn sie mehr Ja-Stimmen als Nein-Stimmen erhalten hat.
 
-**5**
+[^20-1]: Eingefügt durch B vom 10. April 2019 (OS 74, 264; ABl 2019-04-18). In Kraft seit 1. Juli 2019.
 
-- 1\. 1. 25 - 127 § 21. <sup>1</sup> Die Kirchenpflege teilt der gewählten Person die Wahl unverzüglich schriftlich mit. Sie weist sie auf die Wahlannahme gemäss Abs. 2 und die Rechtsmittel hin.
+#### § 21
 
 **g. Wahlannahme19**
 
-<sup>2</sup> Die Wahl gilt als zustande gekommen, wenn die gewählte Person gegenüber der Kirchenpflege binnen fünf Tagen nach der Mitteilung schriftlich die Wahlannahme erklärt und das Wahlergebnis in Rechtskraft erwachsen ist.
+<sup>1</sup> Die Kirchenpflege teilt der gewählten Person die Wahl unverzüglich schriftlich mit. Sie weist sie auf die Wahlannahme gemäss Abs. 2 und die Rechtsmittel hin.
 
-[^20-1]: Eingefügt durch B vom 10. April 2019 (OS 74, 264; ABl 2019-04-18). In Kraft seit 1. Juli 2019.
+<sup>2</sup> Die Wahl gilt als zustande gekommen, wenn die gewählte Person gegenüber der Kirchenpflege binnen fünf Tagen nach der Mitteilung schriftlich die Wahlannahme erklärt und das Wahlergebnis in Rechtskraft erwachsen ist.
 
 #### § 22
 
@@ -250,8 +255,6 @@ Die Geschäftsführung der Pfarrwahlkommission richtet sich nach den für die Ki
 [^22-1]: Fassung gemäss B vom 10. April 2019 (OS 74, 264; ABl 2019-04-18). In Kraft seit 1. Juli 2019.
 
 ### D. Verfahren ohne Pfarrwahlkommission
-
-**Voraussetzungen**
 
 § 23.[^hDVerfahrenohnePf-1] <sup>1</sup> Die Kirchenpflege kann ohne vorgängige Bestellung einer Pfarrwahlkommission binnen vier Monaten nach Vorliegen der Einladung gemäss § 9 Abs. 1 der Kirchgemeindeversammlung einen Wahlvorschlag für die zu besetzenden Stellenprozente unterbreiten, wenn a. die vorgeschlagene Person bereits in der Kirchgemeinde pfarramtlich tätig war sowie mit den Verhältnissen in der Kirchgemeinde vertraut und dieser bekannt ist,
 
@@ -288,6 +291,10 @@ Die Geschäftsführung der Pfarrwahlkommission richtet sich nach den für die Ki
 
 § 24 b.[^h3AbschnittBestät-1] <sup>1</sup> Die Kirchenpflege ist gehalten, die Stellenprozente im gegenseitigen Einvernehmen auf die Pfarrerinnen und Pfarrer aufzuteilen. Sie zieht zu diesem Zweck bei Bedarf die Dekanin oder den Dekan und die Bezirkskirchenpflege bei.
 
+**7**
+
+- 1\. 7. 26 - 133
+
 <sup>2</sup> Die Kirchenpflege informiert die Pfarrerinnen und Pfarrer über die vorgesehene Aufteilung der Stellenprozente schriftlich. Diese erklären binnen fünf Tagen nach der Zustellung der Information gegenüber der Kirchenpflege, ob sie mit der sie betreffenden Aufteilung der Stellenprozente einverstanden sind oder diese ablehnen.
 
 **Wahlvorschlag a. Entscheid**
@@ -301,10 +308,6 @@ Die Geschäftsführung der Pfarrwahlkommission richtet sich nach den für die Ki
 **b. Inhalt**
 
 § 24 d.[^h3AbschnittBestät-1] <sup>1</sup> Die Kirchenpflege veröffentlicht ihren Beschluss betreffend die Bestätigung oder die Nichtbestätigung der Pfarrerinnen und Pfarrer zusammen mit der Aufteilung der Stellenprozente mindestens sechs Monate vor Ablauf der Amtsdauer als Wahlvorschlag. Sie weist auf das Verfahren gemäss § 13 Abs. 3 des Kirchengesetzes[^h3AbschnittBestät-2] hin.
-
-**7**
-
-- 1\. 1. 25 - 127
 
 <sup>2</sup> Pfarrerinnen und Pfarrer, welche die Kirchenpflege gemäss § 24 c Abs. 1 nicht zur Bestätigung vorschlägt, werden im Wahlvorschlag mit den von der Kirchenpflege gemäss § 24 a zugeteilten Stellenprozenten aufgeführt.
 
@@ -364,6 +367,10 @@ Die Geschäftsführung der Pfarrwahlkommission richtet sich nach den für die Ki
 
 <sup>1</sup> Die Erteilung der Wählbarkeit für den pfarramtlichen Dienst in der Landeskirche richtet sich nach Art. 129 und 131 KO.
 
+**9**
+
+- 1\. 7. 26 - 133
+
 <sup>2</sup> Die Wählbarkeit wird erteilt, wenn die Wahlfähigkeit gemäss Art. 128 KO, die Handlungsfähigkeit und die zur Führung des betreffenden Pfarramts erforderliche fachliche und persönliche Eignung vorliegen.
 
 #### § 26
@@ -375,10 +382,6 @@ Die Geschäftsführung der Pfarrwahlkommission richtet sich nach den für die Ki
 a.[^26-1] auf Ersuchen der Kirchenpflege bei Vorliegen eines Wahlvorschlags der Pfarrwahlkommission oder der Kirchenpflege zuhanden der Kirchgemeindeversammlung oder des Kirchgemeindeparlaments im Umfang der zugeteilten Stellenprozente,
 
 - b. im Übrigen im Rahmen der Anstellungsverfügung.
-
-**9**
-
-- 1\. 1. 25 - 127
 
 <sup>2</sup> Auf die Erteilung der Wählbarkeit wird verzichtet bei:
 
@@ -458,6 +461,10 @@ Die ausserordentliche Zulassung zum Pfarramt können Personen beantragen,
 
 - b. die, soweit von dieser Kirche vorgesehen, über die Ordination in einer evangelischen Kirche im Ausland verfügen, die Mitglied der Gemeinschaft Evangelischer Kirchen in Europa GEKE oder der Weltgemeinschaft Reformierter Kirchen WRK ist, und zum Pfarramt in dieser Kirche zugelassen wurden,
 
+**11**
+
+- 1\. 7. 26 - 133
+
 - c. die anstelle eines Studienabschlusses in Theologie an einer universitären Hochschule über eine theologisch-kirchliche Grundausbildung verfügen, die Grundlage für ergänzende Studienleistungen in Theologie an einer universitären Hochschule bilden kann.
 
 [^31-1]: Fassung gemäss B vom 14. Juli 2021 (OS 76, 355; ABl 2021-07-16). In Kraft seit 1. Januar 2022.
@@ -473,10 +480,6 @@ Die ausserordentliche Zulassung zum Pfarramt können Personen beantragen,
 - a. Prüfung von Gesuchen um Zulassung zum Kolloquium, insbesondere hinsichtlich der Erfüllung der Voraussetzungen gemäss §§ 33–35,
 
 - b. bezüglich der einzelnen Bewerberinnen und Bewerber Abgabe einer Empfehlung zuhanden des Kirchenrates hinsichtlich der zu erfüllenden Zulassungsvoraussetzungen gemäss §§ 33 und 34, der Inhalte des Kolloquiums und des Zeitpunkts der Anmeldung zum Kolloquium,
-
-**11**
-
-- 1\. 1. 25 - 127
 
 - c. Abgabe einer Einschätzung zuhanden des Kirchenrates hinsichtlich der fachlichen und persönlichen Befähigung der Bewerberinnen und Bewerber zur Führung eines Pfarramts,
 
@@ -530,6 +533,10 @@ Für Bewerberinnen und Bewerber gemäss § 31 lit. c gelten als Voraussetzungen 
 
 - d. Kenntnis der neutestamentlichen griechischen und der Grundbegriffe der hebräischen Sprache,
 
+**13**
+
+- 1\. 7. 26 - 133
+
 - e. Studium der Theologie während mindestens vier Semestern an der Theologischen Fakultät der Universität Zürich,
 
 - f. Bestehen des Ekklesiologisch-praktischen Semesters gemäss dem Konkordat betreffend die gemeinsame Ausbildung der evangelischreformierten Pfarrerinnen und Pfarrer und ihre Zulassung zum Kirchendienst[^34-1] oder Nachweis von gleichwertigen Leistungen,
@@ -551,10 +558,6 @@ a.[^35-1] ein Handlungsfähigkeitszeugnis sowie ein Privatauszug und ein Sonderp
 - b. die Bestätigung der Mitgliedschaft in einer evangelischen Kirche, die der Evangelisch-reformierten Kirche Schweiz[^35-2], der Gemeinschaft Evangelischer Kirchen in Europa (GEKE) oder der Weltgemeinschaft Reformierter Kirchen (WRK) angehört,
 
 - c. von Bewerberinnen und Bewerbern gemäss § 31 lit. a und b die Bestätigung des Studienabschlusses in Theologie an der Universität Basel, Bern oder Zürich oder an einer universitären Hochschule, die Bestätigung über die Zulassung zum Pfarramt in einer Kirche gemäss lit. b und die Ordinationsurkunde,
-
-**13**
-
-- 1\. 1. 25 - 127
 
 - d. sämtliche Unterlagen, die geeignet sind, die Erfüllung der Zulassungsvoraussetzungen gemäss §§ 33 und 34 zu belegen,
 
@@ -617,11 +620,11 @@ a.[^35-1] ein Handlungsfähigkeitszeugnis sowie ein Privatauszug und ein Sonderp
 
 <sup>2</sup> Sie legen ihrer Anmeldung den Bericht gemäss § 32 Abs. 2 lit. e bei.
 
-#### § 40
+**15**
+
+- 1\. 7. 26 - 133 § 40. <sup>1</sup> Der Kirchenrat verantwortet das Kolloquium. Dessen Durchführung obliegt den vom Kirchenrat bezeichneten Examinatorinnen und Examinatoren.
 
 **Examinatorinnen und Examinatoren**
-
-<sup>1</sup> Der Kirchenrat verantwortet das Kolloquium. Dessen Durchführung obliegt den vom Kirchenrat bezeichneten Examinatorinnen und Examinatoren.
 
 <sup>2</sup> Der Kirchenrat kann als Examinatorinnen und Examinatoren bezeichnen:
 
@@ -642,10 +645,6 @@ a.[^35-1] ein Handlungsfähigkeitszeugnis sowie ein Privatauszug und ein Sonderp
 <sup>1</sup> Der Kirchenrat legt den Termin des Kolloquiums fest.
 
 <sup>2</sup> Er kann das Kolloquium mit Rücksicht auf dessen Umfang sowie auf die persönlichen und beruflichen Verhältnisse der Bewerberinnen und Bewerber auf zwei Termine aufteilen. Zwischen diesen liegen in der Regel mindestens ein und nicht mehr als sechs Monate.
-
-**15**
-
-- 1\. 1. 25 - 127
 
 <sup>3</sup> Der Kirchenrat bestimmt rechtzeitig vor dem Kolloquium für jeden Inhalt des Kolloquiums eine Examinatorin oder einen Examinator. Er teilt den Bewerberinnen und Bewerbern die Namen der Examinatorinnen und Examinatoren mindestens vier Wochen vor dem Kolloquium mit.
 
@@ -719,6 +718,10 @@ Das Kolloquium von Bewerberinnen und Bewerbern gemäss § 31 lit. c hat zum Gege
 
 <sup>2</sup> Das Kolloquium kann in Bezug auf als «nicht bestanden» bewertete Inhalte einmal wiederholt werden. Der Kirchenrat bestimmt den Zeitpunkt der Wiederholung.
 
+**17**
+
+- 1\. 7. 26 - 133
+
 <sup>3</sup> Sind auch nach einer Wiederholung nicht alle Inhalte des Kolloquiums als «bestanden» bewertet, so gilt das Kolloquium als «nicht bestanden».
 
 ### D. Wirkungen des bestandenen Kolloquiums
@@ -746,10 +749,6 @@ Bewerberinnen und Bewerber gemäss § 31 lit. c haben nach bestandenem Kolloquiu
 **Wahlfähigkeit**
 
 <sup>1</sup> Der Kirchenrat erteilt aufgrund von Kolloquium und Ordination die Wahlfähigkeit gemäss Art. 128 lit. b KO und stellt das Wahlfähigkeitszeugnis aus.
-
-**17**
-
-- 1\. 1. 25 - 127
 
 <sup>2</sup> Wird die Wahlfähigkeit auf besonders umschriebene Pfarrstellen oder Aufgaben und Pflichten gemäss Art. 113 Abs. 1 KO beschränkt, so ist diese Beschränkung als Vorbehalt im Wahlfähigkeitszeugnis genau zu umschreiben.
 
@@ -788,7 +787,7 @@ Bewerberinnen und Bewerber gemäss § 31 lit. c haben nach bestandenem Kolloquiu
 <sup>2</sup> Die Anstellung erfolgt auf bestimmte Dauer oder bis zum Wegfall des Grundes, welcher der Anstellung zugrunde liegt, längstens aber für ein Jahr. Sie kann jeweils längstens um dieselbe Dauer verlängert werden. § 23 Abs. 2 PVO findet keine Anwendung.
 
 [^49-1]: LS 181.41.
-[^49-2]: Fassung gemäss B vom 12. Juni 2024 (OS 79, 389; ABl 2024-06-28). In Kraft seit 1. Januar 2025. 1. 1. 25 - 127 45
+[^49-2]: Fassung gemäss B vom 12. Juni 2024 (OS 79, 389; ABl 2024-06-28). In Kraft seit 1. Januar 2025.
 [^49-3]: Fassung gemäss B vom 10. April 2019 (OS 74, 264; ABl 2019-04-18). In Kraft seit 1. Juli 2019.
 
 ### 8. Abschnitt: Zuteilung von Stellenprozenten an die Kirchgemeinden
@@ -801,21 +800,26 @@ Bewerberinnen und Bewerber gemäss § 31 lit. c haben nach bestandenem Kolloquiu
 
 § 51.[^hAGrundlagen_3-1] <sup>1</sup> Die Zuteilung der Stellenprozente gemäss Art. 117 Abs. 1 und 2 KO erfolgt auf die Amtsdauer gemäss Art. 21 Abs. 1 KO.
 
+**19**
+
+- 1\. 7. 26 - 133
+
 <sup>2</sup> Für die Zuteilung der Stellenprozente gemäss Art. 117 Abs. 1 und 2 KO ist die Zahl der Mitglieder der Kirchgemeinden massgebend, wie sie die Erhebung der Wohnbevölkerung gemäss § 15 der Verordnung zum Kirchengesetz und zum Gesetz über die anerkannten jüdischen Gemeinden[^hAGrundlagen_3-2] am 31. Dezember des Jahres ausweist, das dem Zuteilungsbeschluss des Kirchenrates vorangeht.
 
 <sup>3</sup> Für Kirchgemeinden, die sich zwischen dem Zeitpunkt gemäss Abs. 2 und dem Beginn der neuen Amtsdauer der Pfarrerinnen und Pfarrer zusammenschliessen, werden die Stellenprozente gemäss Art. 117 Abs. 1 und 2 KO[^hAGrundlagen_3-3] je für die einzelnen Kirchgemeinden und für die zusammengeschlossene Kirchgemeinde berechnet. Die Zuteilung der Stellenprozente erfolgt nach der für die Kirchgemeinde günstigeren Berechnung.[^hAGrundlagen_3-4]
 
-<sup>4</sup> Der Kirchenrat beschliesst über die Zuteilung der Stellenprozente gemäss Art. 117 Abs. 1 und 2 KO spätestens ein Jahr vor Beginn der Amtsdauer gemäss Art. 21 Abs. 1 KO.
+<sup>4</sup> Der Kirchenrat beschliesst über die Zuteilung der Stellenprozente gemäss Art. 117 Abs. 1 und 2 KO spätestens 18 Monate vor Beginn der Amtsdauer gemäss Art. 21 Abs. 1 KO.[^hAGrundlagen_3-5]
 
 [^hAGrundlagen_3-1]: Fassung gemäss B vom 10. April 2019 (OS 74, 264; ABl 2019-04-18). In Kraft seit 1. Juli 2019.
 [^hAGrundlagen_3-2]: LS 180.11.
 [^hAGrundlagen_3-3]: LS 181.10.
 [^hAGrundlagen_3-4]: Fassung gemäss B vom 7. Juni 2023 (OS 78, 313; ABl 2023-06-16). In Kraft seit 1. Oktober 2023.
-[^hAGrundlagen_3-5]: Eingefügt durch B vom 10. April 2019 (OS 74, 264; ABl 2019-04-18). In Kraft seit 1. Juli 2019.
+[^hAGrundlagen_3-5]: Fassung gemäss B vom 11. März 2026 (OS 81, 130; ABl 2026-03-20). In Kraft seit 1. Juni 2026.
+[^hAGrundlagen_3-6]: Eingefügt durch B vom 10. April 2019 (OS 74, 264; ABl 2019-04-18). In Kraft seit 1. Juli 2019.
 
 ### B. Weitere Stellenprozente
 
-[^hAGrundlagen_3-5]
+[^hAGrundlagen_3-6]
 
 **Voraussetzungen**
 
@@ -828,10 +832,6 @@ Bewerberinnen und Bewerber gemäss § 31 lit. c haben nach bestandenem Kolloquiu
 - d. dies zur Vermeidung von Härtefällen bei Pfarrerinnen und Pfarrern notwendig ist.
 
 <sup>2</sup> Der Kirchenrat umschreibt die Voraussetzungen gemäss Abs. 1 in geeigneter Weise näher.
-
-**19**
-
-- 1\. 1. 25 - 127
 
 <sup>3</sup> Ausser zur Vermeidung von Härtefällen bei Pfarrerinnen und Pfarrern werden weitere Stellenprozente gemäss Art. 117 Abs. 4 KO nur zugeteilt, wenn eine Kirchgemeinde in einem angemessenen Umfang Eigenleistungen nachweisbar für den geltend gemachten Zweck erbringt und hierfür einen Schwerpunkt im Gemeindeaufbau bildet.
 
@@ -885,6 +885,10 @@ Bewerberinnen und Bewerber gemäss § 31 lit. c haben nach bestandenem Kolloquiu
 
 <sup>2</sup> Der Kirchenrat teilt den Beschluss betreffend Zuteilung weiterer Stellenprozente gemäss Art. 117 Abs. 4 KO der Kirchenpflege, der Bezirkskirchenpflege, der Dekanin oder dem Dekan sowie dem Kirchgemeindeverband mit, falls die Kirchgemeinde einem solchen angehört.
 
+**21**
+
+- 1\. 7. 26 - 133
+
 [^hBWeitereStellenpr-1]: Fassung gemäss B vom 10. April 2019 (OS 74, 264; ABl 2019-04-18). In Kraft seit 1. Juli 2019.
 [^hBWeitereStellenpr-2]: Eingefügt durch B vom 10. April 2019 (OS 74, 264; ABl 2019-04-18). In Kraft seit 1. Juli 2019.
 
@@ -929,11 +933,9 @@ Bewerberinnen und Bewerber gemäss § 31 lit. c haben nach bestandenem Kolloquiu
 
 - b. in denen zwei Personen, die als Ehegatten, eingetragene Partnerinnen oder Partner oder in faktischer Lebensgemeinschaft zusammenleben, die der Kirchgemeinde gemäss Art. 117 KO zugeteilten Stellenprozente übernehmen.
 
-**21**
-
-- 1\. 1. 25 - 127 § 61.[^h9AbschnittAuftei-1] <sup>1</sup> Die Kirchenpflege kann die Stellenprozente von gewählten Pfarrerinnen und Pfarrern während der laufenden Amtsdauer im Einvernehmen mit diesen und unter Berücksichtigung der Pfarrdienstordnung ändern. Eine solche Änderung erfolgt ohne Entlassung aus dem Amt und erneute Wahl der Pfarrerinnen und Pfarrer.
-
 **b. Änderung**
+
+§ 61.[^h9AbschnittAuftei-1] <sup>1</sup> Die Kirchenpflege kann die Stellenprozente von gewählten Pfarrerinnen und Pfarrern während der laufenden Amtsdauer im Einvernehmen mit diesen und unter Berücksichtigung der Pfarrdienstordnung ändern. Eine solche Änderung erfolgt ohne Entlassung aus dem Amt und erneute Wahl der Pfarrerinnen und Pfarrer.
 
 <sup>2</sup> Die Kirchenpflege informiert die Bezirkskirchenpflege, die Dekanin oder den Dekan und den Kirchenrat sowie in geeigneter Weise die Kirchgemeinde über die Änderung.
 
@@ -966,6 +968,10 @@ Bewerberinnen und Bewerber gemäss § 31 lit. c haben nach bestandenem Kolloquiu
 § 65.[^h9AbschnittAuftei-1] Nutzen Pfarrerinnen und Pfarrer ein Pfarrhaus oder eine Pfarrwohnung gemeinsam und sind im Pfarrhaus oder in der Pfarrwohnung Amtsräume vorhanden, so haben sie keinen Anspruch auf Amtsräume ausserhalb des Pfarrhauses oder der Pfarrwohnung.
 
 §§ 66–72.[^h9AbschnittAuftei-2]
+
+**23**
+
+- 1\. 7. 26 - 133
 
 [^h9AbschnittAuftei-1]: Fassung gemäss B vom 10. April 2019 (OS 74, 264; ABl 2019-04-18). In Kraft seit 1. Juli 2019.
 [^h9AbschnittAuftei-2]: Aufgehoben durch B vom 10. April 2019 (OS 74, 264; ABl 2019-04-18). In Kraft seit 1. Juli 2019.
@@ -1005,10 +1011,6 @@ Pfarrerinnen und Pfarrer können die gemäss § 88 Abs. 1 PVO im Rahmen der Amts
 - a. bei einem Stellenpensum von 50% und mehr bis zu einem Halbtag pro Woche,
 
 - b. bei einem Stellenpensum von weniger als 50% bis zu einem Halbtag pro zwei Wochen.
-
-**23**
-
-- 1\. 1. 25 - 127
 
 <sup>2</sup> Die Inanspruchnahme gemäss Abs. 1 kann ausnahmsweise mehr Zeit beanspruchen, insbesondere wenn der Kirchenrat Pfarrerinnen, Pfarrern oder der betreffenden Kirchgemeinde für die gemäss § 88 Abs. 1 PVO wahrzunehmenden Aufgaben eine Entlastung gewährt.
 
@@ -1079,20 +1081,17 @@ Ist eine Einzelvertretung ununterbrochen für mindestens fünf Tage erforderlich
 
 § 79.[^78-1] <sup>1</sup> Pfarrerinnen und Pfarrer, die eine Einzelvertretung leisten, erhalten eine Pauschalentschädigung.
 
-<sup>2</sup> Nehmen sie eine Amtswochenvertretung wahr, so wird ihnen für die Tage der Amtswochenvertretung, an denen sie keinen Gottesdienst halten und keine andere pfarramtliche Aufgabe ausüben, ein Amtswochengeld ausgerichtet.
+<sup>2</sup> Nehmen sie eine Amtswochenvertretung wahr, so wird ihnen ein Amtswochengeld ausgerichtet.[^78-2]
 
 <sup>3</sup> Der Kirchenrat setzt die Entschädigungen gemäss Abs. 1 und 2 fest.
 
 <sup>4</sup> Als Reisekosten wird eine Tageskarte zweiter Klasse für alle Zonen des Zürcher Verkehrsverbundes zur vollen Taxe vergütet.
 
-[^78-1]: Fassung gemäss B vom 20. September 2017 (OS 72, 615; ABl 2017-10-06). In Kraft seit 1. Januar 2018.
-[^78-2]: Fassung gemäss B vom 10. April 2019 (OS 74, 264; ABl 2019-04-18). In Kraft seit 1. Juli 2019.
+**25**
 
-#### § 80
+- 1\. 7. 26 - 133 § 80. <sup>1</sup> Die Landeskirche übernimmt die Kosten einer Einzelvertretung bei:[^78-1] a.[^78-3] Ferien gemäss § 88 Abs. 3 VVO PVO, soweit es sich um eine Kirchgemeinde handelt, in deren Pfarramt nur eine Person oder zwei Personen tätig sind, die als Ehegatten, eingetragene Partnerinnen oder Partner oder in faktischer Lebensgemeinschaft zusammenleben, b.[^78-3] bezahltem Urlaub gemäss § 69 Abs. 2 PVO und §§ 92–99 VVO PVO,
 
 **Kostentragung**
-
-<sup>1</sup> Die Landeskirche übernimmt die Kosten einer Einzelvertretung bei:[^78-1] a.[^78-2] Ferien gemäss § 88 Abs. 3 VVO PVO, soweit es sich um eine Kirchgemeinde handelt, in deren Pfarramt nur eine Person oder zwei Personen tätig sind, die als Ehegatten, eingetragene Partnerinnen oder Partner oder in faktischer Lebensgemeinschaft zusammenleben, b.[^78-2] bezahltem Urlaub gemäss § 69 Abs. 2 PVO und §§ 92–99 VVO PVO,
 
 - c. Abordnung gemäss § 103 VVO PVO,
 
@@ -1108,18 +1107,16 @@ Ist eine Einzelvertretung ununterbrochen für mindestens fünf Tage erforderlich
 
 - i. Verhinderung von Vizedekaninnen und Vizedekanen wegen Inanspruchnahme durch ihr Amt.
 
-<sup>2</sup> Im Übrigen trägt die Kirchgemeinde, die eine Einzelvertretung in Anspruch nimmt, die Kosten dieser Einzelvertretung.[^80-1]
+<sup>2</sup> Im Übrigen trägt die Kirchgemeinde, die eine Einzelvertretung in Anspruch nimmt, die Kosten dieser Einzelvertretung.[^78-4]
 
-**25**
-
-- 1\. 1. 25 - 127
-
-[^80-1]: Fassung gemäss B vom 20. April 2016 (OS 71, 276; ABl 2016-06-10). In Kraft seit 1. September 2016.
-[^80-2]: Fassung gemäss B vom 10. April 2019 (OS 74, 264; ABl 2019-04-18). In Kraft seit 1. Juli 2019.
+[^78-1]: Fassung gemäss B vom 20. September 2017 (OS 72, 615; ABl 2017-10-06). In Kraft seit 1. Januar 2018.
+[^78-2]: Fassung gemäss B vom 11. März 2026 (OS 81, 130; ABl 2026-03-20). In Kraft seit 1. Juni 2026.
+[^78-3]: Fassung gemäss B vom 10. April 2019 (OS 74, 264; ABl 2019-04-18). In Kraft seit 1. Juli 2019.
+[^78-4]: Fassung gemäss B vom 20. April 2016 (OS 71, 276; ABl 2016-06-10). In Kraft seit 1. September 2016. 1. 7. 26 - 133 45
 
 ### 12. Abschnitt: Lohn
 
-[^80-2]
+[^78-3]
 
 ### A. Festsetzung des Anfangslohns
 
@@ -1147,9 +1144,11 @@ Ist eine Einzelvertretung ununterbrochen für mindestens fünf Tage erforderlich
 
 **b. Erziehungs- oder Betreuungsarbeit**
 
-§ 83.[^hAFestsetzungdesA-1] Haben Pfarrerinnen und Pfarrer neben einer beruflichen oder anderweitigen Tätigkeit von höchstens 50% nachweislich während ununterbrochen mindestens eines Jahres Erziehungs- oder Betreuungsarbeit im Umfang von mindestens 50% geleistet, wird ihnen für diese Zeit während längstens acht Jahren pro Jahr eine Stufe angerechnet. § 84.[^hAFestsetzungdesA-1] <sup>1</sup> Pfarrerinnen und Pfarrer, die eine Berufstätigkeit nachweisen, die sie nicht in einem Pfarramt, einer Kirchgemeinde oder einem anderen Dienst einer Mitgliedskirche der Evangelisch-reformierten Kirche Schweiz oder in einer mit der Landeskirche verbundenen Institution geleistet haben, erhalten für jedes volle Jahr einer solchen Berufstätigkeit eine Stufe angerechnet.
+§ 83.[^hAFestsetzungdesA-1] Haben Pfarrerinnen und Pfarrer neben einer beruflichen oder anderweitigen Tätigkeit von höchstens 50% nachweislich während ununterbrochen mindestens eines Jahres Erziehungs- oder Betreuungsarbeit im Umfang von mindestens 50% geleistet, wird ihnen für diese Zeit während längstens acht Jahren pro Jahr eine Stufe angerechnet.
 
 **c. Berufserfahrung**
+
+§ 84.[^hAFestsetzungdesA-1] <sup>1</sup> Pfarrerinnen und Pfarrer, die eine Berufstätigkeit nachweisen, die sie nicht in einem Pfarramt, einer Kirchgemeinde oder einem anderen Dienst einer Mitgliedskirche der Evangelisch-reformierten Kirche Schweiz oder in einer mit der Landeskirche verbundenen Institution geleistet haben, erhalten für jedes volle Jahr einer solchen Berufstätigkeit eine Stufe angerechnet.
 
 <sup>2</sup> Eine Anrechnung gemäss Abs. 1 erfolgt, wenn das Gesamtpensum der einzelnen Anstellungen mindestens 50% erreichte und die einzelne Anstellung mindestens sechs Monate dauerte.
 
@@ -1157,9 +1156,11 @@ Ist eine Einzelvertretung ununterbrochen für mindestens fünf Tage erforderlich
 
 <sup>4</sup> Nicht berücksichtigt werden Berufsausbildungen, das Lernvikariat gemäss dem Konkordat betreffend die gemeinsame Ausbildung der evangelisch-reformierten Pfarrerinnen und Pfarrer und ihre Zulassung zum Kirchendienst[^hAFestsetzungdesA-5], Praktika und vergleichbare Tätigkeiten.
 
-**d. Anrechnungskonkurrenz**
+**27**
 
-§ 85.[^hAFestsetzungdesA-1] Sind die Voraussetzungen gemäss §§ 82–84 für die Anrechnung der nutzbaren Erfahrung gleichzeitig erfüllt, erfolgt die Einstufung nach jener Bestimmung, die für die Pfarrerin oder den Pfarrer günstiger ist.
+- 1\. 7. 26 - 133 § 85.[^hAFestsetzungdesA-1] Sind die Voraussetzungen gemäss §§ 82–84 für die Anrechnung der nutzbaren Erfahrung gleichzeitig erfüllt, erfolgt die Einstufung nach jener Bestimmung, die für die Pfarrerin oder den Pfarrer günstiger ist.
+
+**d. Anrechnungskonkurrenz**
 
 § 86.[^hAFestsetzungdesA-4]
 
@@ -1183,11 +1184,9 @@ Ist eine Einzelvertretung ununterbrochen für mindestens fünf Tage erforderlich
 
 § 89.[^hBStellvertreterinn-2] Pfarrerinnen und Pfarrer, die als Stellvertreterinnen oder Stellvertreter gemäss Art. 121 Abs. 1 KO tätig sind, werden in die Lohnklasse 16 gemäss Anhang 3 VVO PVO eingereiht, soweit nicht gemäss § 90 die Voraussetzungen für die Einreihung in die Lohnklasse 17 erfüllt sind.
 
-**27**
-
-- 1\. 1. 25 - 127 § 90.[^hBStellvertreterinn-2] Pfarrerinnen und Pfarrer, die als Stellvertreterinnen oder Stellvertreter gemäss Art. 121 Abs. 1 KO tätig sind, werden in die Lohnklasse 17 gemäss Anhang 3 VVO PVO eingereiht bei:
-
 **Lohnklasse 17**
+
+§ 90.[^hBStellvertreterinn-2] Pfarrerinnen und Pfarrer, die als Stellvertreterinnen oder Stellvertreter gemäss Art. 121 Abs. 1 KO tätig sind, werden in die Lohnklasse 17 gemäss Anhang 3 VVO PVO eingereiht bei:
 
 - a. Stellvertretung im Rahmen von gemäss Art. 117 Abs. 4 KO zugeteilten weiteren Stellenprozenten,
 
@@ -1214,7 +1213,7 @@ Ist eine Einzelvertretung ununterbrochen für mindestens fünf Tage erforderlich
 
 <sup>3</sup> Der Lohn von Pfarrerinnen und Pfarrern, die über die Beendigung des Arbeitsverhältnisses gemäss Art. 132 Abs. 2 KO und § 26 Abs. 2 lit. b PVO hinaus in einem Pfarramt tätig sind, wird in der Lohnklasse 16 gemäss Anhang 3 VVO PVO auf der bisherigen Stufe festgesetzt.[^91-1]
 
-[^91-1]: Fassung gemäss B vom 12. Juni 2024 (OS 79, 389; ABl 2024-06-28). In Kraft seit 1. Januar 2025. 1. 1. 25 - 127 45
+[^91-1]: Fassung gemäss B vom 12. Juni 2024 (OS 79, 389; ABl 2024-06-28). In Kraft seit 1. Januar 2025.
 
 ### C. Aushilfen für die pfarramtliche Tätigkeit
 
@@ -1248,13 +1247,17 @@ Ist eine Einzelvertretung ununterbrochen für mindestens fünf Tage erforderlich
 
 <sup>2</sup> Ausgehend von der Ersteinstufung gemäss § 81, wird Pfarrerinnen und Pfarrern aufgrund ihrer jeweiligen Einstufung in einem Lohnentwicklungsbereich gemäss Abs. 1 die in diesem Lohnentwicklungsbereich vorgesehene individuelle Lohnerhöhung gewährt. Vorbehalten bleibt Abs. 3.
 
+**29**
+
+- 1\. 7. 26 - 133
+
 <sup>3</sup> Die letzte individuelle Lohnerhöhung innerhalb eines Lohnentwicklungsbereichs erfolgt in die höchste Stufe dieses Lohnentwicklungsbereichs.
 
 <sup>4</sup> Eine individuelle Lohnerhöhung umfasst mindestens eine Stufe und höchstens drei Stufen.
 
 <sup>5</sup> Ab dem Erreichen von Stufe 41 der Lohnklassen 16 und 17 gemäss Anhang 3 VVO PVO werden keine individuellen Lohnerhöhungen mehr gewährt.
 
-[^hDIndividuelleLohn-1]: Fassung gemäss B vom 12. Juni 2024 (OS 79, 389; ABl 2024-06-28). In Kraft seit 1. Januar 2025. 1. 1. 25 - 127 45
+[^hDIndividuelleLohn-1]: Fassung gemäss B vom 12. Juni 2024 (OS 79, 389; ABl 2024-06-28). In Kraft seit 1. Januar 2025.
 [^hDIndividuelleLohn-2]: Eingefügt durch B vom 10. April 2019 (OS 74, 264; ABl 2019-04-18). In Kraft seit 1. Juli 2019.
 
 ### 13. Abschnitt: Wohnsitzpflicht
@@ -1268,10 +1271,6 @@ Ist eine Einzelvertretung ununterbrochen für mindestens fünf Tage erforderlich
 <sup>2</sup> Sie trifft den Entscheid gemäss Abs. 1 rechtzeitig vor dem Beschluss über den Wahlvorschlag gemäss §§ 15 Abs. 1 lit. e oder 23 Abs. 1. Im Übrigen kann sie in der Kirchgemeinde gewählte Pfarrerinnen und Pfarrer nur auf Beginn einer Amtsdauer der Pfarrerinnen und Pfarrer zur Wohnsitznahme in der Kirchgemeinde gemäss Art. 122 Abs. 1 und 2 KO verpflichten.
 
 <sup>3</sup> Sie hört die Pfarrerinnen und Pfarrer sowie den Pfarrkonvent vor ihrem Entscheid an.
-
-**29**
-
-- 1\. 1. 25 - 127
 
 <sup>4</sup> Die Kirchenpflege berücksichtigt bei ihrem Entscheid insbesondere die Arbeitsteilung im Pfarramt gemäss Art. 115 Abs. 2 KO, die Interessen der Kirchgemeinde sowie die persönlichen und familiären Verhältnisse der Pfarrerinnen und Pfarrer.
 
@@ -1344,32 +1343,30 @@ Ist eine Einzelvertretung ununterbrochen für mindestens fünf Tage erforderlich
 
 § 99.[^hBNutzung-1] <sup>1</sup> Die Kirchenpflege weist Pfarrerinnen und Pfarrern, die der Wohnsitzpflicht gemäss Art. 122 Abs. 1 und 2 KO unterliegen oder gemäss Art. 247 Abs. 2 KO ein Pfarrhaus oder eine Pfarrwohnung beanspruchen, ein Pfarrhaus oder eine Pfarrwohnung zu.
 
+**31**
+
+- 1\. 7. 26 - 133
+
 <sup>2</sup> Die Kirchenpflege berücksichtigt bei der Zuweisung eines Pfarrhauses oder einer Pfarrwohnung insbesondere die persönlichen und familiären Verhältnisse der Pfarrerinnen und Pfarrer, die Arbeitsteilung im Pfarramt gemäss Art. 115 Abs. 2 KO und die Interessen der Kirchgemeinde.
 
 <sup>3</sup> Die Kirchenpflege informiert den Kirchenrat über den Beginn und das Ende der Nutzung eines Pfarrhauses oder einer Pfarrwohnung durch eine Pfarrerin oder einen Pfarrer.
 
-[^hBNutzung-1]: Fassung gemäss B vom 10. April 2019 (OS 74, 264; ABl 2019-04-18). In Kraft seit 1. Juli 2019.
-[^hBNutzung-2]: SR 220.
-
-#### § 100
-
 **Regelung**
 
-<sup>1</sup> Die Nutzung von Pfarrhäusern und Pfarrwohnungen durch gewählte Pfarrerinnen und Pfarrer, die in der Kirchgemeinde, in der sie tätig sind, im Pfarrhaus oder in der Pfarrwohnung wohnen, richtet sich nach § 67 PVO, § 171 VVO PVO und §§ 101–122. Findet sich in diesen Bestimmungen keine Regelung, so sind die Bestimmungen des Obligationenrechts[^hBNutzung-2] über die Miete sinngemäss anwendbar.
+§ 100.[^hBNutzung-2] <sup>1</sup> Die Nutzung von Pfarrhäusern und Pfarrwohnungen durch gewählte Pfarrerinnen und Pfarrer, die in der Kirchgemeinde, in der sie tätig sind, im Pfarrhaus oder in der Pfarrwohnung wohnen, richtet sich nach § 67 PVO, § 171 VVO PVO und §§ 101–122. Findet sich in diesen Bestimmungen keine Regelung, so sind die Bestimmungen des Obligationenrechts[^hBNutzung-3] über die Miete sinngemäss anwendbar.
 
-<sup>2</sup> Über das Pfarrhaus oder die Pfarrwohnung einschliesslich Autoabstellplätze, Garten und Umgebung wird kein Mietvertrag abgeschlossen, wenn a. gewählte Pfarrerinnen und Pfarrer ein Pfarrhaus oder eine Pfarrwohnung in der Kirchgemeinde bewohnen, in der sie tätig sind,
+<sup>2</sup> Stellt die Kirchenpflege Stellvertreterinnen und Stellvertretern gemäss Art. 121 Abs. 1 lit. a KO, die in der Kirchgemeinde tätig sind, unter Wahrung der Interessen der Kirchgemeinde und der weiteren in der Kirchgemeinde tätigen Pfarrerinnen und Pfarrer ein Pfarrhaus oder eine Pfarrwohnung zur Verfügung, richtet sich die Nutzung des Pfarrhauses oder der Pfarrwohnung nach Abs. 1.
 
-- b. die Voraussetzungen gemäss § 171 Abs. 2 VVO PVO erfüllt sind,
+<sup>3</sup> Über das Pfarrhaus oder die Pfarrwohnung einschliesslich Autoabstellplätze, Garten und Umgebung wird kein Mietvertrag abgeschlossen, wenn a. gewählte Pfarrerinnen und Pfarrer sowie Stellvertreterinnen und Stellvertreter gemäss Art. 121 Abs. 1 lit. a KO ein Pfarrhaus oder eine Pfarrwohnung der Kirchgemeinde bewohnen, in der sie tätig sind,
 
-**31**
+- b. die Voraussetzungen gemäss § 171 Abs. 2 VVO PVO[^hBNutzung-4] erfüllt sind.
 
-- 1\. 1. 25 - 127
+<sup>4</sup> Im Übrigen schliesst die Kirchenpflege mit Nutzerinnen und Nutzern eines Pfarrhauses oder einer Pfarrwohnung einen Mietvertrag nach den Bestimmungen des Obligationenrechts[^hBNutzung-3]. Erfolgt die Vermietung unbefristet, so bringt sie den Vorbehalt einer Kündigung wegen Eigenbedarfs an.
 
-- c. eine Pfarrerin oder ein Pfarrer bis zum Stellenantritt im Wahlverhältnis oder nach Beendigung des Wahlverhältnisses im Pfarrhaus oder in der Pfarrwohnung der Kirchgemeinde wohnt, in der sie oder er als Stellvertreterin oder Stellvertreter gemäss Art. 121 Abs. 1 lit. a KO tätig ist.
-
-<sup>3</sup> Im Übrigen schliesst die Kirchenpflege mit Nutzerinnen und Nutzern eines Pfarrhauses oder einer Pfarrwohnung einen Mietvertrag nach den Bestimmungen des Obligationenrechts[^100-1]. Erfolgt die Vermietung unbefristet, so bringt sie den Vorbehalt einer Kündigung wegen Eigenbedarfs an.
-
-[^100-1]: SR 220.
+[^hBNutzung-1]: Fassung gemäss B vom 10. April 2019 (OS 74, 264; ABl 2019-04-18). In Kraft seit 1. Juli 2019.
+[^hBNutzung-2]: Fassung gemäss B vom 11. März 2026 (OS 81, 130; ABl 2026-03-20). In Kraft seit 1. Juni 2026.
+[^hBNutzung-3]: SR 220.
+[^hBNutzung-4]: LS 181.401.
 
 #### § 101
 
@@ -1413,11 +1410,11 @@ Ist eine Einzelvertretung ununterbrochen für mindestens fünf Tage erforderlich
 
 <sup>5</sup> Pfarrerinnen und Pfarrer tragen die Kosten für die Anfertigung von Namensschildern an Sonnerie, Briefkasten sowie Haus- und Wohnungstür.
 
-#### § 105
+**33**
+
+- 1\. 7. 26 - 133 § 105. <sup>1</sup> Das Pfarrhaus oder die Pfarrwohnung einschliesslich der Amtsräume und der Autoabstellplätze sind vollständig geräumt, gut gereinigt und in gutem Zustand unter Berücksichtigung der aus der bestimmungsgemässen Nutzung sich ergebenden Abnützung oder Veränderung, Garten und Umgebung in gepflegtem Zustand zurückzugeben.
 
 **Rückgabe**
-
-<sup>1</sup> Das Pfarrhaus oder die Pfarrwohnung einschliesslich der Amtsräume und der Autoabstellplätze sind vollständig geräumt, gut gereinigt und in gutem Zustand unter Berücksichtigung der aus der bestimmungsgemässen Nutzung sich ergebenden Abnützung oder Veränderung, Garten und Umgebung in gepflegtem Zustand zurückzugeben.
 
 <sup>2</sup> Die von der Pfarrerin oder vom Pfarrer vorzunehmenden Instandstellungs- und Reinigungsarbeiten sind fachgemäss auszuführen und bis zum Zeitpunkt der Rückgabe zu beenden.
 
@@ -1429,11 +1426,11 @@ Ist eine Einzelvertretung ununterbrochen für mindestens fünf Tage erforderlich
 
 <sup>6</sup> Die Kirchenpflege teilt der Pfarrerin oder dem Pfarrer diejenigen Mängel, für die diese oder dieser einzustehen hat, unverzüglich und Mängel, die trotz übungsgemässer Prüfung bei der Rückgabe nicht erkennbar waren, spätestens ein Jahr nach der Rückgabe mit.
 
-**33**
-
-- 1\. 1. 25 - 127 § 106. <sup>1</sup> Die Kirchenpflege erstellt bei der Übergabe des Pfarrhauses oder der Pfarrwohnung ein Schlüsselverzeichnis.
+#### § 106
 
 **Schlüssel**
+
+<sup>1</sup> Die Kirchenpflege erstellt bei der Übergabe des Pfarrhauses oder der Pfarrwohnung ein Schlüsselverzeichnis.
 
 <sup>2</sup> Die Pfarrerin oder der Pfarrer darf zusätzliche Schlüssel nur mit schriftlicher Einwilligung der Kirchenpflege anfertigen lassen. Sie oder er übergibt solche Schlüssel bei der Rückgabe des Pfarrhauses oder der Pfarrwohnung entschädigungslos der Kirchenpflege.
 
@@ -1485,6 +1482,10 @@ Ist eine Einzelvertretung ununterbrochen für mindestens fünf Tage erforderlich
 
 <sup>2</sup> Bewilligt die Kirchenpflege gemäss Art. 122 Abs. 4 KO einer gewählten Pfarrerin oder einem gewählten Pfarrer die Wohnsitznahme in der Kirchgemeinde ausserhalb des Pfarrhauses oder der Pfarrwohnung, so entfällt der Abzug des Mietwertanteils vom Lohn.
 
+**35**
+
+- 1\. 7. 26 - 133
+
 <sup>3</sup> Verfügen Pfarrerinnen und Pfarrer über eine Bewilligung gemäss Abs. 2, so können sie bezüglich ihrer Wohnsituation keine Ansprüche gegenüber der Kirchgemeinde geltend machen. Der Anspruch auf Amtsräume richtet sich nach Art. 247 Abs. 3 KO. Für von der Pfarrerin oder vom Pfarrer zur Verfügung gestellte Amtsräume gilt § 46 VVO PVO.
 
 [^110-1]: Fassung gemäss B vom 10. April 2019 (OS 74, 264; ABl 2019-04-18). In Kraft seit 1. Juli 2019.
@@ -1518,10 +1519,6 @@ Ist eine Einzelvertretung ununterbrochen für mindestens fünf Tage erforderlich
 - e. Kabelempfangsgebühren,
 
 - f. Kosten des Gemeinwesens für Schneeräumung sowie für die Reinigung privater Zugangsstrassen und -wege,
-
-**35**
-
-- 1\. 1. 25 - 127
 
 - g. Kosten für Hauswartung und Reinigung,
 
@@ -1579,6 +1576,10 @@ Ist eine Einzelvertretung ununterbrochen für mindestens fünf Tage erforderlich
 
 <sup>2</sup> Erträgt die Behebung eines Schadens keinen Aufschub, so haben Pfarrerinnen und Pfarrer die Reparatur unter gleichzeitiger Benachrichtigung der Kirchenpflege ohne Verzug zu veranlassen.
 
+**37**
+
+- 1\. 7. 26 - 133
+
 <sup>3</sup> Pfarrerinnen und Pfarrer haben zerbrochene Fensterscheiben auf eigene Kosten gleichwertig zu ersetzen, sofern der Bruch nicht nachweisbar von Dritten verursacht wurde oder ein Spannungsriss vorliegt.
 
 #### § 116
@@ -1599,11 +1600,11 @@ Ist eine Einzelvertretung ununterbrochen für mindestens fünf Tage erforderlich
 
 <sup>2</sup> Pfarrerinnen und Pfarrer haben die zum Pfarrhaus oder zur Pfarrwohnung gehörenden Bepflanzungen auf Sitzplätzen, Balkonen und Terrassen so zu pflegen, dass ein übermässiger Pflanzenwuchs verhindert wird.
 
-**37**
-
-- 1\. 1. 25 - 127 § 118. <sup>1</sup> Die Kirchenpflege kann im Rahmen der Zumutbarkeit Erneuerungen und Änderungen am Pfarrhaus oder an der Pfarrwohnung, an den Amtsräumen, an den Autoabstellplätzen und am Garten ohne Zustimmung der Pfarrerin oder des Pfarrers vornehmen. Vorbehalten bleibt der Anspruch der Pfarrerinnen und Pfarrer auf Herabsetzung des Mietwertabzugs während der Dauer der Arbeiten.
+#### § 118
 
 **Erneuerungsarbeiten und bauliche Änderungen a. Durch die Kirchenpflege**
+
+<sup>1</sup> Die Kirchenpflege kann im Rahmen der Zumutbarkeit Erneuerungen und Änderungen am Pfarrhaus oder an der Pfarrwohnung, an den Amtsräumen, an den Autoabstellplätzen und am Garten ohne Zustimmung der Pfarrerin oder des Pfarrers vornehmen. Vorbehalten bleibt der Anspruch der Pfarrerinnen und Pfarrer auf Herabsetzung des Mietwertabzugs während der Dauer der Arbeiten.
 
 <sup>2</sup> Die Kirchenpflege setzt den Zeitpunkt von Umbauten, Renovationen und Neuinstallationen, die erhebliche Eingriffe zur Folge haben und den Gebrauch der Liegenschaft beeinträchtigen, im Einvernehmen mit der Pfarrerin oder dem Pfarrer fest.
 
@@ -1641,6 +1642,10 @@ Ist eine Einzelvertretung ununterbrochen für mindestens fünf Tage erforderlich
 
 <sup>4</sup> Soweit Pfarrerinnen und Pfarrer für die Pflege und den Unterhalt von Garten und Umgebung zuständig sind, tragen sie die Kosten für die Beschaffung und den Unterhalt der hierfür benötigten Geräte.
 
+**39**
+
+- 1\. 7. 26 - 133
+
 <sup>5</sup> Sache der Kirchgemeinde sind in allen Teilen des Gartens und der Umgebung:
 
 - a. das Umgestalten des Gartens und der Umgebung, insbesondere das Setzen und Entfernen von Bäumen und Sträuchern, das Anbringen oder Setzen von Einfriedungen und Hecken, das Vergrössern und Verkleinern der Rasenfläche, das Anlegen oder Entfernen von Blumenrabatten und Gemüsebeeten, die Vornahme von Erdbewegungen,
@@ -1664,10 +1669,6 @@ Ist eine Einzelvertretung ununterbrochen für mindestens fünf Tage erforderlich
 <sup>2</sup> Im Übrigen obliegt die Schneeräumung der Kirchgemeinde.
 
 <sup>3</sup> Die Kirchenpflege kann mit den Pfarrerinnen und Pfarrern durch schriftliche Vereinbarung eine abweichende Regelung treffen.
-
-**39**
-
-- 1\. 1. 25 - 127
 
 ### 15. Abschnitt: Dekaninnen und Dekane, Vizedekaninnen
 
@@ -1693,22 +1694,36 @@ und Vizedekane, Pfarrkapitel[^h15AbschnittDekan-1]
 
 § 125.[^h15AbschnittDekan-1] Der Kirchenrat kann den Dekaninnen, Dekanen, Vizedekaninnen und Vizedekanen hinsichtlich der amtlichen Verrichtungen Beratung und Begleitung zur Verfügung stellen. Er regelt die Einzelheiten.
 
-§ 126.[^h15AbschnittDekan-2]
+**Zusätzliche Leistungen**
+
+§ 126.[^h15AbschnittDekan-2] <sup>1</sup> Der Kirchenrat kann Dekaninnen, Dekanen, Vizedekaninnen und Vizedekanen zusätzlich zur Entlastung gemäss § 123 und zur Funktionszulage gemäss § 124 gewähren:
+
+- a. für Gottesdienste im Zusammenhang mit den Aufgaben gemäss Art. 192 Abs. 1 KO eine Entschädigung gemäss § 79,
+
+- b. für ausserordentliche Aufwendungen im Zusammenhang mit der Begleitung von Kirchgemeinden, Pfarrerinnen und Pfarrern eine zusätzliche Entlastung gemäss § 123 oder eine finanzielle Entschädigung.
+
+<sup>2</sup> Der Kirchenrat regelt die Einzelheiten.
+
+[^h15AbschnittDekan-1]: Fassung gemäss B vom 10. April 2019 (OS 74, 264; ABl 2019-04-18). In Kraft seit 1. Juli 2019.
+[^h15AbschnittDekan-2]: Eingefügt durch B vom 11. März 2026 (OS 81, 130; ABl 2026-03-20). In Kraft seit 1. Juni 2026.
+
+#### § 127
 
 **Auslagen**
 
-§ 127. <sup>1</sup> Der Ersatz von Auslagen im Zusammenhang mit amtlichen Verrichtungen als Dekanin, Dekan, Vizedekanin und Vizedekan richtet sich nach §§ 67–75 VVO PVO und dem Allgemeinen Spesenreglement des Kirchenrates.
+<sup>1</sup> Der Ersatz von Auslagen im Zusammenhang mit amtlichen Verrichtungen als Dekanin, Dekan, Vizedekanin und Vizedekan richtet sich nach §§ 67–75 VVO PVO und dem Allgemeinen Spesenreglement des Kirchenrates.
 
 <sup>2</sup> Dekaninnen, Dekane, Vizedekaninnen und Vizedekane reichen ihre Abrechnungen dem Kirchenrat jährlich bis spätestens 30. November ein. Später eingehende Abrechnungen kommen im folgenden Rechnungsjahr zur Abrechnung.
-
-[^h15AbschnittDekan-1]: Fassung gemäss B vom 10. April 2019 (OS 74, 264; ABl 2019-04-18). In Kraft seit 1. Juli 2019.
-[^h15AbschnittDekan-2]: Aufgehoben durch B vom 10. April 2019 (OS 74, 264; ABl 2019-04-18). In Kraft seit 1. Juli 2019.
 
 #### § 128
 
 **Pfarrkapitel**
 
 <sup>1</sup> Die Pfarrkapitel tragen ihren Aufwand selber. Der Kirchenrat kann für einzelne Aufgaben und Veranstaltungen, insbesondere im Bereich der Fortbildung, die Übernahme des Aufwands durch die Landeskirche beschliessen.
+
+**41**
+
+- 1\. 7. 26 - 133
 
 <sup>2</sup> Die Pfarrkapitel können zur Deckung ihres Aufwands von ihren Mitgliedern einen jährlichen Beitrag erheben. Die Pfarrkapitel setzen den Beitrag fest.
 
@@ -1764,10 +1779,6 @@ Mit dem Inkrafttreten dieser Verordnung werden aufgehoben:
 
 - b. Satzungen für Kolloquien vom 18. August 1982,
 
-**41**
-
-- 1\. 1. 25 - 127
-
 - c. Verordnung zur Regelung der Fortbildung von Pfarrern und Pfarrerinnen vom 24. Oktober 1984,
 
 - d. Verordnung über die Aufteilung von Pfarrstellen vom 24. November 1993,
@@ -1809,7 +1820,9 @@ II. §§ 51–62, 64 und 93 a sind erstmals für die Amtsdauer 2020– 2024 der 
 
 III. Der Kirchenrat beschliesst über die erstmalige Zuteilung der Stellenprozente gemäss Art. 117 Abs. 4 KO bis spätestens 30. September 2019.
 
-IV. Im Rahmen der von der Kirchenpflege für die Amtsdauer 2020– 2024 der Pfarrerinnen und Pfarrer gemäss § 24 c Abs. 1 zu treffenden Entscheide ist unbeachtlich, ob eine Pfarrerin oder ein Pfarrer in der Amtsdauer 2016–2020 der Pfarrerinnen und Pfarrer gemäss Art. 116 und 118 der Kirchenordnung der Evangelisch-reformierten Landeskirche des Kantons Zürich in der Fassung vom 17. März 2009 auf einer ordentlichen Pfarrstelle oder einer Ergänzungspfarrstelle tätig war.
+**43**
+
+- 1\. 7. 26 - 133 IV. Im Rahmen der von der Kirchenpflege für die Amtsdauer 2020– 2024 der Pfarrerinnen und Pfarrer gemäss § 24 c Abs. 1 zu treffenden Entscheide ist unbeachtlich, ob eine Pfarrerin oder ein Pfarrer in der Amtsdauer 2016–2020 der Pfarrerinnen und Pfarrer gemäss Art. 116 und 118 der Kirchenordnung der Evangelisch-reformierten Landeskirche des Kantons Zürich in der Fassung vom 17. März 2009 auf einer ordentlichen Pfarrstelle oder einer Ergänzungspfarrstelle tätig war.
 
 V. Entfällt gemäss Art. 122 Abs. 1 KO die Wohnsitzpflicht auf Beginn der Amtsdauer 2020–2024 der Pfarrerinnen und Pfarrer, so ändert die bestehende Nutzung von Pfarrhäusern und Pfarrwohnungen durch gewählte Pfarrerinnen und Pfarrer nicht.
 
@@ -1831,9 +1844,7 @@ I. §§ 81–85 sind auf die Festsetzung des Anfangslohns von Pfarrerinnen und P
 
 II. Pfarrerinnen und Pfarrer gemäss § 4 PVO, die im Dienst der Landeskirche stehen und deren Anfangslohn nicht gemäss §§ 81–84 festgesetzt wurde, können binnen sechs Monaten ab dem Inkrafttreten dieser Änderung der Verordnung über das Pfarramt in der Landeskirche die Überprüfung ihres Anfangslohns gemäss §§ 81–84 verlangen. Sie legen die hierfür nötigen Nachweise vor.
 
-**43**
-
-- 1\. 1. 25 - 127 III. Ergibt die Überprüfung des Anfangslohns gemäss Ziff. II eine höhere als die bestehende Einstufung, erfolgt die Anpassung des Lohns rückwirkend auf den Zeitpunkt des Inkrafttretens dieser Änderung der Verordnung über das Pfarramt in der Landeskirche.
+III. Ergibt die Überprüfung des Anfangslohns gemäss Ziff. II eine höhere als die bestehende Einstufung, erfolgt die Anpassung des Lohns rückwirkend auf den Zeitpunkt des Inkrafttretens dieser Änderung der Verordnung über das Pfarramt in der Landeskirche.
 
 IV. Ergibt die Überprüfung des Anfangslohns gemäss Ziff. II eine tiefere als die bestehende Einstufung, erfolgt keine Anpassung des Lohns. Individuelle Lohnerhöhungen gemäss § 93, die ab dem Inkrafttreten dieser Änderung der Verordnung über das Pfarramt in der Landeskirche gewährt werden, werden auf die bestehende Einstufung so lange angerechnet, bis diese ausgeglichen ist.
 
