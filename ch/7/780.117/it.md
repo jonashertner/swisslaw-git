@@ -4,11 +4,11 @@ title: "Ordinanza del DFGP del 15 novembre 2017 sull'esecuzione della sorveglian
 short: OE-SCPT
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/35"
 language: it
-version: 2024-10-01
+version: 2026-06-01
 adopted: 2017-11-15
 in_force: 2018-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/35/20241001/it/xml/fedlex-data-admin-ch-eli-cc-2018-35-20241001-it-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/35/20241001/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/35/20260601/it/xml/fedlex-data-admin-ch-eli-cc-2018-35-20260601-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/35/20260601/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/35/20241001/it"
 
 (OE-SCPT)
 
-del 15 novembre 2017 (Stato 1° ottobre 2024)
+del 15 novembre 2017 (Stato 1° giugno 2026)
 
 Il Dipartimento federale di giustizia e polizia (DFGP),
 
@@ -25,8 +25,8 @@ visto l’articolo 31 capoverso 3 della legge federale del 18 marzo 2016[^ingres
 
 ordina:
 
-[^ingress-1]: [RS 780.1](https://fedlex.data.admin.ch/eli/cc/2018/31)
-[^ingress-2]: [RS 780.11](https://fedlex.data.admin.ch/eli/cc/2018/32)
+[^ingress-1]: [RS 780.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9117)
+[^ingress-2]: [RS 780.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9118)
 
 ## Sezione 1: Disposizioni generali
 
@@ -36,7 +36,7 @@ ordina:
 
 La presente ordinanza si applica al Servizio Sorveglianza della corrispondenza postale e del traffico delle telecomunicazioni (Servizio SCPT), alle autorità di cui all’articolo 1 capoverso 2 lettere a‑f OSCPT e alle persone obbligate a collaborare di cui all’articolo 2 LSCPT.
 
-[^1-1]: Nuovo testo giusta il n. I dell’O del DFGP del 15 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 686](https://fedlex.data.admin.ch/eli/oc/2023/686)).
+[^1-1]: Nuovo testo giusta la cifra I dell’O del DFGP del 15 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 686](https://fedlex.data.admin.ch/eli/oc/2023/686)).
 
 #### Art. 2
 
@@ -48,7 +48,7 @@ Le persone obbligate a collaborare sono tenute a informare i collaboratori respo
 - b. sul segreto postale e delle telecomunicazioni;
 - c. sulle conseguenze penali secondo l’articolo 321<sup>ter</sup> del Codice penale[^2-1] e l’articolo 39 LSCPT.
 
-[^2-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^2-1]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 #### Art. 3
 
@@ -64,7 +64,7 @@ Il Servizio SCPT, le autorità e le persone obbligate a collaborare comunicano t
 
 <sup>2</sup> Soltanto persone in precedenza designate possono inviare e ricevere comunicazioni confidenziali tra le persone obbligate a collaborare e il Servizio SCPT.
 
-[^3-1]: Nuovo testo giusta il n. I dell’O del DFGP del 15 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 686](https://fedlex.data.admin.ch/eli/oc/2023/686)).
+[^3-1]: Nuovo testo giusta la cifra I dell’O del DFGP del 15 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 686](https://fedlex.data.admin.ch/eli/oc/2023/686)).
 
 #### Art. 4
 
@@ -145,7 +145,7 @@ Le parti interessate riparano congiuntamente i guasti alle reti di trasferimento
 
 <sup>3</sup> La sorveglianza in tempo reale secondo l’articolo 16 lettere a e b OSCPT è allestita dai fornitori di servizi postali entro un giorno lavorativo dalla ricezione del mandato. Dura fino al momento della revoca.
 
-[^10-1]: Introdotto dal n. I dell’O del DFGP del 15 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 686](https://fedlex.data.admin.ch/eli/oc/2023/686)).
+[^10-1]: Introdotto dalla cifra I dell’O del DFGP del 15 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 686](https://fedlex.data.admin.ch/eli/oc/2023/686)).
 
 #### Art. 11
 
@@ -155,7 +155,7 @@ Le parti interessate riparano congiuntamente i guasti alle reti di trasferimento
 
 <sup>2</sup> I fornitori di servizi postali eseguono la sorveglianza retroattiva secondo l’articolo 16 lettera c OSCPT entro tre giorni lavorativi dalla ricezione del mandato.
 
-[^11-1]: Nuovo testo giusta il n. I dell’O del DFGP del 15 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 686](https://fedlex.data.admin.ch/eli/oc/2023/686)).
+[^11-1]: Nuovo testo giusta la cifra I dell’O del DFGP del 15 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 686](https://fedlex.data.admin.ch/eli/oc/2023/686)).
 
 ## Sezione 3: Informazioni sul traffico delle telecomunicazioni
 
@@ -217,9 +217,9 @@ I FST con obblighi di sorveglianza ridotti devono rispondere come segue:
 
 <sup>4</sup> I FSCD senza obblighi supplementari e i gestori di reti di telecomunicazione interne devono rispondere alle domande di informazioni entro due giorni lavorativi dalla ricezione. [^14-3]
 
-[^14-1]: Nuovo testo giusta il n. I dell’O del DFGP del 15 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 686](https://fedlex.data.admin.ch/eli/oc/2023/686)).
-[^14-2]: Nuovo testo giusta il n. I dell’O del DFGP del 15 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 686](https://fedlex.data.admin.ch/eli/oc/2023/686)).
-[^14-3]: Introdotto dal n. I dell’O del DFGP del 15 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 686](https://fedlex.data.admin.ch/eli/oc/2023/686)).
+[^14-1]: Nuovo testo giusta la cifra I dell’O del DFGP del 15 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 686](https://fedlex.data.admin.ch/eli/oc/2023/686)).
+[^14-2]: Nuovo testo giusta la cifra I dell’O del DFGP del 15 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 686](https://fedlex.data.admin.ch/eli/oc/2023/686)).
+[^14-3]: Introdotto dalla cifra I dell’O del DFGP del 15 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 686](https://fedlex.data.admin.ch/eli/oc/2023/686)).
 
 ## Sezione 4: Sorveglianza del traffico delle telecomunicazioni
 
@@ -240,7 +240,7 @@ Tutti i tipi di sorveglianza in tempo reale (art. 54–59 OSCPT), di sorveglianz
 
 <sup>3</sup> Nel caso di una sorveglianza retroattiva, il mandato si considera eseguito una volta che i dati sono stati rilevati e trasmessi.
 
-[^15-1]: Nuovo testo giusta il n. I dell’O del DFGP del 4 mag. 2022, in vigore dal 1° giu. 2022 ([RU 2022 302](https://fedlex.data.admin.ch/eli/oc/2022/302)).
+[^15-1]: Nuovo testo giusta la cifra I dell’O del DFGP del 4 mag. 2022, in vigore dal 1° giu. 2022 ([RU 2022 302](https://fedlex.data.admin.ch/eli/oc/2022/302)).
 
 #### Art. 16
 
@@ -276,8 +276,8 @@ Tutti i tipi di sorveglianza in tempo reale (art. 54–59 OSCPT), di sorveglianz
 
 <sup>3</sup> In caso di ricerca d’emergenza secondo l’articolo 67 lettera f OSCPT o di ricerca di condannati secondo l’articolo 68 capoverso 1 lettera f o g OSCPT, il fornitore esegue la sorveglianza quanto prima, ma di regola al più tardi entro quattro ore dalla ricezione del mandato.[^18-2]
 
-[^18-1]: Nuovo testo giusta il n. I dell’O del DFGP del 15 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 686](https://fedlex.data.admin.ch/eli/oc/2023/686)).
-[^18-2]: Nuovo testo giusta il n. I dell’O del DFGP del 15 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 686](https://fedlex.data.admin.ch/eli/oc/2023/686)).
+[^18-1]: Nuovo testo giusta la cifra I dell’O del DFGP del 15 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 686](https://fedlex.data.admin.ch/eli/oc/2023/686)).
+[^18-2]: Nuovo testo giusta la cifra I dell’O del DFGP del 15 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 686](https://fedlex.data.admin.ch/eli/oc/2023/686)).
 
 #### Art. 19
 
@@ -312,8 +312,8 @@ L’annullamento è eseguito nel modo seguente:
 
 <sup>4</sup> Il fornitore implementa la rete di trasferimento conformemente all’allegato 2 e alle istruzioni del Servizio SCPT.
 
-[^20-1]: Nuova espr. giusta il n. I dell’O del DFGP del 15 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 686](https://fedlex.data.admin.ch/eli/oc/2023/686)). Di detta mod. é tenuto conto nelle disp. menzionate nella RU.
-[^20-2]: Nuova espr. giusta il n. I dell’O del DFGP del 15 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 686](https://fedlex.data.admin.ch/eli/oc/2023/686)). Di detta mod. é tenuto conto nelle disp. menzionate nella RU.
+[^20-1]: Nuova espr. giusta la cifra I dell’O del DFGP del 15 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 686](https://fedlex.data.admin.ch/eli/oc/2023/686)). Di detta mod. é tenuto conto nelle disp. menzionate nella RU.
+[^20-2]: Nuova espr. giusta la cifra I dell’O del DFGP del 15 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 686](https://fedlex.data.admin.ch/eli/oc/2023/686)). Di detta mod. é tenuto conto nelle disp. menzionate nella RU.
 [^20-3]: La correzione del 4 dic. 2023 concerne soltanto il testo francese ([RU 2023 730](https://fedlex.data.admin.ch/eli/oc/2023/730)).
 
 #### Art. 21
@@ -390,7 +390,7 @@ Finché i FST e i FSCD non hanno adeguato i loro sistemi secondo l’articolo 74
 
 Finché i fornitori non hanno adeguato i loro sistemi per la localizzazione di potenziali terroristi tramite telefonia mobile, ma al più tardi fino allo scadere del periodo transitorio di cui all’articolo 74*a* capoverso 2 OSCPT, il termine per il trattamento è prorogato di un terzo.
 
-[^27a-1]: Introdotto dal n. I dell’O del DFGP del 4 mag. 2022, in vigore dal 1° giu. 2022 ([RU 2022 302](https://fedlex.data.admin.ch/eli/oc/2022/302)).
+[^27a-1]: Introdotto dalla cifra I dell’O del DFGP del 4 mag. 2022, in vigore dal 1° giu. 2022 ([RU 2022 302](https://fedlex.data.admin.ch/eli/oc/2022/302)).
 
 #### Art. 28
 
@@ -402,12 +402,12 @@ Allegato 1[^t-1]
 
 (art. 7 cpv. 3 lett. a, 26 e 27*a*)
 
-## Prescrizioni tecniche in materia di interfacce per l’esecuzione della sorveglianza delle telecomunicazioni (versione 3.1)
+## Prescrizioni tecniche in materia di interfacce per l’esecuzione della sorveglianza delle telecomunicazioni (versione 4.0)
 
 [^annex1-lvlu1-1]
 
-[^t-1]: Nuovo testo giusta il n. I dell’O del DFGP del 13 ago. 2024, in vigore dal 1° ott. 2024 ([RU 2024 432](https://fedlex.data.admin.ch/eli/oc/2024/432)).
-[^annex1-lvlu1-1]: Il testo del presente all. è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo: [https://fedlex.data.admin.ch/eli/oc/2024/432](https://fedlex.data.admin.ch/eli/oc/2024/432) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
+[^t-1]: Nuovo testo giusta la cifra I dell’O del DFGP del 19 mar. 2026, in vigore dal 1° giu. 2026 ([RU 2026 146](https://fedlex.data.admin.ch/eli/oc/2026/146)).
+[^annex1-lvlu1-1]: Il contenuto del presente allegato è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2026/146](https://fedlex.data.admin.ch/eli/oc/2026/146) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
 
 Allegato 2[^t-2]
 
@@ -417,5 +417,5 @@ Allegato 2[^t-2]
 
 [^annex2-lvlu1-1]
 
-[^t-2]: Nuovo testo giusta il n. II dell’O del DFGP del 15 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 686](https://fedlex.data.admin.ch/eli/oc/2023/686)).
+[^t-2]: Nuovo testo giusta la cifra II dell’O del DFGP del 15 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 686](https://fedlex.data.admin.ch/eli/oc/2023/686)).
 [^annex2-lvlu1-1]: Il testo del presente allegato è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2023/686](https://fedlex.data.admin.ch/eli/oc/2023/686) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.

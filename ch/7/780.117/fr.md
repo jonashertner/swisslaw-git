@@ -4,11 +4,11 @@ title: Ordonnance du DFJP du 15 novembre 2017 sur la mise en uvre de la survei
 short: OME-SCPT
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/35"
 language: fr
-version: 2024-10-01
+version: 2026-06-01
 adopted: 2017-11-15
 in_force: 2018-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/35/20241001/fr/xml/fedlex-data-admin-ch-eli-cc-2018-35-20241001-fr-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/35/20241001/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/35/20260601/fr/xml/fedlex-data-admin-ch-eli-cc-2018-35-20260601-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/35/20260601/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/35/20241001/fr"
 
 (OME-SCPT)
 
-du 15 novembre 2017 (État le 1<sup>er</sup> octobre 2024)
+du 15 novembre 2017 (État le 1<sup>er</sup> juin 2026)
 
 Le Département fédéral de justice et police (DFJP),
 
@@ -25,8 +25,8 @@ vu l’art. 31, al. 3, de la loi fédérale du 18 mars 2016 sur la surveillance 
 
 arrête:
 
-[^ingress-1]: [RS 780.1](https://fedlex.data.admin.ch/eli/cc/2018/31)
-[^ingress-2]: [RS 780.11](https://fedlex.data.admin.ch/eli/cc/2018/32)
+[^ingress-1]: [RS 780.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9117)
+[^ingress-2]: [RS 780.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9118)
 
 ## Section 1 Dispositions générales
 
@@ -48,7 +48,7 @@ Les personnes obligées de collaborer sont tenues d’informer leurs employés c
 - b. du secret des télécommunications et du secret postal;
 - c. des conséquences pénales selon l’art. 321<sup>ter</sup> du code pénal[^2-1] et l’art. 39 LSCPT.
 
-[^2-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^2-1]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 #### Art. 3
 
@@ -402,12 +402,12 @@ Annexe 1[^t-1]
 
 (art. 7, al. 3, let. a, 26 et 27*a*)
 
-## Prescriptions techniques relatives aux interfaces pour la mise en œuvre de la surveillance de la correspondance par poste et télécommunication (version 3.1)
+## Prescriptions techniques relatives aux interfaces pour la mise en œuvre de la surveillance de la correspondance par poste et télécommunication (version 4.0)
 
 [^annex1-lvlu1-1]
 
-[^t-1]: Nouvelle teneur selon le ch. I de l’O du DFJP du 13 août 2024, en vigueur depuis le 1<sup>er</sup> oct. 2024 ([RO 2024 432](https://fedlex.data.admin.ch/eli/oc/2024/432)).
-[^annex1-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement sous forme de renvoi. Il peut être consulté à l’adresse suivante [https://fedlex.data.admin.ch/eli/oc/2024/432](https://fedlex.data.admin.ch/eli/oc/2024/432) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
+[^t-1]: Nouvelle teneur selon le ch. I de l’O du DFJP du 19 mars 2026, en vigueur depuis le 1<sup>er</sup> juin 2026 ([RO 2026 146](https://fedlex.data.admin.ch/eli/oc/2026/146)).
+[^annex1-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement sous forme de renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2026/146](https://fedlex.data.admin.ch/eli/oc/2026/146) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
 
 Annexe 2[^t-2]
 

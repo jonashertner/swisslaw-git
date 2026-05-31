@@ -4,11 +4,11 @@ title: Verordnung des EJPD vom 15. November 2017 über die Durchführung der Üb
 short: VD-ÜPF
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/35"
 language: de
-version: 2024-10-01
+version: 2026-06-01
 adopted: 2017-11-15
 in_force: 2018-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/35/20241001/de/xml/fedlex-data-admin-ch-eli-cc-2018-35-20241001-de-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/35/20241001/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/35/20260601/de/xml/fedlex-data-admin-ch-eli-cc-2018-35-20260601-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/35/20260601/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/35/20241001/de"
 
 (VD-ÜPF)
 
-vom 15. November 2017 (Stand am 1. Oktober 2024)
+vom 15. November 2017 (Stand am 1. Juni 2026)
 
 Das Eidgenössische Justiz- und Polizeidepartement (EJPD),
 
@@ -25,8 +25,8 @@ gestützt auf Artikel 31 Absatz 3 des Bundesgesetzes vom 18. März 2016[^ingress
 
 verordnet:
 
-[^ingress-1]: [SR 780.1](https://fedlex.data.admin.ch/eli/cc/2018/31)
-[^ingress-2]: [SR 780.11](https://fedlex.data.admin.ch/eli/cc/2018/32)
+[^ingress-1]: [SR 780.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9117)
+[^ingress-2]: [SR 780.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9118)
 
 ## 1. Abschnitt: Allgemeine Bestimmungen
 
@@ -48,7 +48,7 @@ Die Mitwirkungspflichtigen sind verpflichtet, für Überwachungen zuständige Mi
 - b. das Post- und Fernmeldegeheimnis;
 - c. die Straffolgen gemäss Artikel 321<sup>ter</sup> des Strafgesetzbuchs[^2-1] (StGB) sowie Artikel 39 BÜPF.
 
-[^2-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^2-1]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 #### Art. 3
 
@@ -404,12 +404,12 @@ Anhang 1[^t-1]
 
 (Art. 7 Abs. 3 Bst. a, 26 und 27*a*)
 
-## Technische Vorschriften für die Schnittstellen für die Durchführung der Fernmeldeüberwachung (Ausgabe 3.1)
+## Technische Vorschriften für die Schnittstellen für die Durchführung der Fernmeldeüberwachung (Ausgabe 4.0)
 
 [^annex1-lvlu1-1]
 
-[^t-1]: Fassung gemäss Ziff. I der V des EJPD vom 13. Aug. 2024, in Kraft seit 1. Okt. 2024 ([AS 2024 432](https://fedlex.data.admin.ch/eli/oc/2024/432)).
-[^annex1-lvlu1-1]: Der Inhalt dieses Anhangs wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter [https://fedlex.data.admin.ch/eli/oc/2024/432](https://fedlex.data.admin.ch/eli/oc/2024/432) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
+[^t-1]: Fassung gemäss Ziff. I der V des EJPD vom 19. März 2026, in Kraft seit 1. Juni 2026 ([AS 2026 146](https://fedlex.data.admin.ch/eli/oc/2026/146)).
+[^annex1-lvlu1-1]: Der Inhalt dieses Anhangs wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter: [https://fedlex.data.admin.ch/eli/oc/2026/146](https://fedlex.data.admin.ch/eli/oc/2026/146) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
 
 Anhang 2[^t-2]
 
