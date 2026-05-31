@@ -3,18 +3,18 @@ sr: "832.102.14"
 title: Ordonnance du DFI du 20 novembre 2012 sur les fichiers de données pour la transmission des données entre fournisseurs de prestations et assureurs
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/867"
 language: fr
-version: 2025-06-01
+version: 2026-06-01
 adopted: 2012-11-20
 in_force: 2013-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/867/20250601/fr/xml/fedlex-data-admin-ch-eli-cc-2012-867-20250601-fr-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/867/20250601/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/867/20260601/fr/xml/fedlex-data-admin-ch-eli-cc-2012-867-20260601-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/867/20260601/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance du DFI sur les fichiers de données pour la transmission des données entre fournisseurs de prestations et assureurs
 
-du 20 novembre 2012 (État le 1<sup>er</sup> juin 2025)
+du 20 novembre 2012 (État le 1<sup>er</sup> juin 2026)
 
 Le Département fédéral de l’intérieur (DFI),
 
@@ -22,7 +22,7 @@ vu l’art. 59*a*, al. 1, de l’ordonnance du 27 juin 1995 sur l’assurance-ma
 
 arrête:
 
-[^ingress-1]: [RS 832.102](https://fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867)
+[^ingress-1]: [RS 832.102](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10135)
 
 #### Art. 1
 
@@ -38,7 +38,7 @@ Annexe[^t-1]
 
 ## Structure uniforme au niveau suisse des fichiers de données
 
-[^t-1]: Mise à jour par le ch. I de l’O du DFI du 3 déc. 2021 ([RO 2021 839](https://fedlex.data.admin.ch/eli/oc/2021/839)), l’annexe de l’O du DFI du 16 juin 2023 ([RO 2023 313](https://fedlex.data.admin.ch/eli/oc/2023/313)) et l’annexe 3 ch. 18 de l’O du 30 avr. 2025 sur la statistique fédérale, en vigueur depuis le 1<sup>er</sup> juin 2025 ([RO 2025 318](https://fedlex.data.admin.ch/eli/oc/2025/318)).
+[^t-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 6 mai 2026, en vigueur depuis le 1<sup>er</sup> juin 2026 ([RO 2026 194](https://fedlex.data.admin.ch/eli/oc/2026/194)).
 
 ### 1 Généralités
 
@@ -49,58 +49,53 @@ Annexe[^t-1]
 - SpiGes Relevé des données des fournisseurs de prestations au sens de l’art. 59*a* de la loi fédérale du 18 mars 1994 sur l’assurance-maladie[^annexu1-lvlu1-lvl1-lvl11-1] et de l’art. 30 de l’ordonnance du 27 juin 1995 sur l’assurance-maladie[^annexu1-lvlu1-lvl1-lvl11-2] dans le domaine des services de santé en cas de séjour hospitalier
 - CIM-10 Classification statistique internationale des maladies et des problèmes de santé connexes
 
-[^annexu1-lvlu1-lvl1-lvl11-1]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
-[^annexu1-lvlu1-lvl1-lvl11-2]: [RS 832.102](https://fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867)
+[^annexu1-lvlu1-lvl1-lvl11-1]: [RS 832.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133)
+[^annexu1-lvlu1-lvl1-lvl11-2]: [RS 832.102](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10135)
 
 ### 1.2 Fichier de données médicales
 
 <table>
-<tr><th>Intitulé</th><th>Variable de la statistique médicale</th><th>Teneur</th></tr>
-<tr><td>Poids à la naissance</td><td>2.2.V04</td><td>En grammes</td></tr>
-<tr><td>Diagnostic principal</td><td>4.2.V010</td><td>Code CIM-10-GM</td></tr>
-<tr><td>Complément au diagnostic principal</td><td>4.2.V020</td><td>Code CIM-10-GM</td></tr>
-<tr><td>1<sup>er</sup> au 49<sup>e</sup> diagnostic supplémentaire</td><td>4.2.V030, 4.2.V040 etc. jusqu’à 4.2.V510</td><td>Code CIM-10-GM</td></tr>
-<tr><td>Traitement principal</td><td>4.3.V010</td><td>Code CHOP</td></tr>
-<tr><td>Latéralité pour le traitement principal</td><td>4.3.V011</td><td>0 = bilatéral 1 = unilatéral droit 2 = unilatéral gauche 3 = unilatéral côté inconnu 9 = inconnu Vide = la question ne se pose pas</td></tr>
-<tr><td>Début du traitement principal</td><td>4.3.V015</td><td>Date (avec indication de l’heure)</td></tr>
-<tr><td>1<sup>er</sup> au 99<sup>e</sup> traitement supplémentaire</td><td>4.3.V020, 4.3.V030 etc. jusqu’à 4.3.V1000</td><td>Code CHOP</td></tr>
-<tr><td>Latéralité 1<sup>er</sup> au 99<sup>e</sup> traitement supplémentaire</td><td>4.3.V021, 4.3.V031 etc. jusqu’à 4.3.V1001</td><td>0 = bilatéral 1 = unilatéral droit 2 = unilatéral gauche 3 = unilatéral côté inconnu 9 = inconnu Vide = la question ne se pose pas</td></tr>
-<tr><td>Début du 1<sup>er</sup> au 99<sup>e</sup> traitement supplémentaire</td><td>4.3.V025, 4.3.V035 etc. jusqu’à 4.3.V1005</td><td>Date (avec indication de l’heure)</td></tr>
-<tr><td>Durée de la ventilation artificielle</td><td>4.4.V01</td><td>Nombre d’heures</td></tr>
-<tr><td>Poids à l’admission</td><td>4.5.V01</td><td>En grammes</td></tr>
-<tr><td>Prise en charge</td><td>2.2.V06</td><td>0 = non 1 = oui 9 = inconnu</td></tr>
+<tr><th>Désignation selon SpiGes</th><th>Variable selon SpiGes</th><th>Description</th></tr>
+<tr><td>Poids à la naissance</td><td>geburtsgewicht</td><td>En grammes</td></tr>
+<tr><td>Code diagnostic Classement du diagnostic</td><td>diagnose\_kode diagnose\_id</td><td>Code CIM-10-GM Numéro attribué au diagnostic. La catégorie 1 caractérise le diagnostic principal</td></tr>
+<tr><td>Code de traitement ID du traitement</td><td>behandlung\_chop behandlung\_id</td><td>Code CHOP Numéro attribué au traitement, dans l’ordre</td></tr>
+<tr><td>Latéralité pour le traitement</td><td>behandlung\_seitigkeit</td><td>0 = bilatéral 1 = unilatéral droit 2 = unilatéral gauche 3 = unilatéral côté inconnu 9 = inconnu Vide = la question ne se pose pas</td></tr>
+<tr><td>Début du traitement</td><td>behandlung\_beginn</td><td>Date (avec indication de l’heure)</td></tr>
+<tr><td>Durée de la ventilation artificielle</td><td>beatmung</td><td>Nombre d’heures</td></tr>
+<tr><td>Poids à l’admission</td><td>aufnahmegewicht</td><td>En grammes</td></tr>
+<tr><td>Malformations congénitales</td><td>missbildungen</td><td>0 = non 1 = oui 9 = inconnu</td></tr>
 <tr><td>Justification pour le séjour à l’hôpital</td><td>–</td><td>Selon colonne «N<sup>o</sup>» de l’annexe 1*a*, ch. II, de l’ordonnance du 29 septembre 1995 sur les prestations de l’assurance des soins[^annexu1-lvlu1-lvl1-lvl12-1]</td></tr>
+<tr><td>ID du médicament</td><td>medi\_id</td><td>Identificateur permettant de distinguer les médicaments</td></tr>
+<tr><td>Code ATC du médicament</td><td>medi\_atc</td><td>Code ATC des médicaments onéreux selon les directives de SwissDRG SA (ATC=*Anatomical* *Therapeutic* *Chemical*)</td></tr>
+<tr><td>Indications supplémentaires</td><td>medi\_zusatz</td><td>Indications supplémentaires pour les médicaments onéreux selon les directives de SwissDRG SA</td></tr>
+<tr><td>Mode d’administration</td><td>medi\_verabreichungsart</td><td>Mode d’administration des médicaments onéreux selon les directives de SwissDRG SA</td></tr>
+<tr><td>Dosage</td><td>medi\_dosis</td><td>Nombre (unité de mesure) pour les médicaments onéreux selon les directives de SwissDRG SA</td></tr>
+<tr><td>Unité de mesure</td><td>medi\_einheit</td><td>Unité de mesure pour les médicaments onéreux selon les directives de SwissDRG SA</td></tr>
 </table>
 
-[^annexu1-lvlu1-lvl1-lvl12-1]: [RS 832.112.31](https://fedlex.data.admin.ch/eli/cc/1995/4964_4964_4964)
+[^annexu1-lvlu1-lvl1-lvl12-1]: [RS 832.112.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10157)
 
 ### 1.3 Fichier de données administratives
 
 <table>
-<tr><th>Intitulé selon la statistique médicale</th><th>Variable de la statistique médicale</th><th>Teneur</th></tr>
-<tr><td>Sexe</td><td>1.1.V01</td><td>1 = masculin 2 = féminin</td></tr>
-<tr><td>Date de naissance</td><td>1.1.V02</td><td>Indication de la date</td></tr>
-<tr><td>Âge à l’admission</td><td>1.1.V03</td><td>Âge exact</td></tr>
-<tr><td>Date et heure d’admission</td><td>1.2.V01</td><td></td></tr>
-<tr><td>Séjour avant l’admission</td><td>1.2.V02</td><td>1 = domicile 2 = domicile avec soins à domicile 3 = établissement de santé non hospitalier médicalisé 4 = établissement de santé non hospitalier non médicalisé 5 = hôpital psychiatrique, autre établissement 55 = division/clinique psychiatrique, même établissement 6 = autre institution hospitalière (soins aigus) ou maison de naissance 66 = division/clinique de soins aigus, même établissement 7 = institution d’exécution des peines 8 = autre 83 = clinique de réadaptation, autre établissement 84 = division/clinique de réadaptation, même établissement 9 = inconnu</td></tr>
-<tr><td>Mode d’admission</td><td>1.2.V03</td><td>1 = urgence (nécessité d’un traitement dans les 12 heures) 2 = annoncé, planifié 3 = naissance (enfant né intra-muros) 4 = transfert interne 5 = transfert dans les 24 heures 8 = autre 9 = inconnu</td></tr>
-<tr><td>Vacances, congés administratifs</td><td>1.3.V04</td><td>Heures révolues</td></tr>
-<tr><td>Centre de prise en charge des coûts</td><td>1.4.V01</td><td>M000 = Disciplines médicales (en général) M050 = Soins intensifs M100 = Médecine interne M200 = Chirurgie M300 = Gynécologie et obstétrique M400 = Pédiatrie M500 = Psychiatrie et psychothérapie M600 = Ophtalmologie M700 = Oto-rhino-laryngologie M800 = Dermatologie et vénérologie M850 = Radiologie médicale M900 = Gériatrie M950 = Médecine physique et réadaptation M960 = Centres d’urgence M970 = Cabinet d’urgences des médecins M990 = Autres domaines d’activités</td></tr>
-<tr><td>Date et heure de sortie</td><td>1.5.V01</td><td></td></tr>
-<tr><td>Décision de sortie</td><td>1.5.V02</td><td>1 = sur l’initiative du traitant 2 = sur l’initiative du patient (contre l’avis du traitant) 3 = sur l’initiative d’une tierce personne 4 = transfert interne 5 = décédé 8 = autre 9 = inconnu</td></tr>
-<tr><td>Séjour après la sortie</td><td>1.5.V03</td><td>1 = domicile 2 = établissement de santé non hospitalier médicalisé 3 = établissement de santé non hospitalier non médicalisé 4 = institution psychiatrique, autre établissement 44 = division/clinique psychiatrique, même établissement 5 = institution de réadaptation, autre établissement 55 = division/clinique de réadaptation, même établissement 6 = autre institution hospitalière (soins aigus) ou maison de naissance 66 = division/clinique de soins aigus, même établissement 7 = institution d’exécution des peines 8 = autre 9 = inconnu 0 = décédé</td></tr>
-<tr><td>1<sup>re</sup> interruption, sortie</td><td>4.7.V01</td><td>Date (sans heure)</td></tr>
-<tr><td>1<sup>re</sup> interruption, réadmission</td><td>4.7.V02</td><td>Date (sans heure)</td></tr>
-<tr><td>2<sup>e</sup> à 4<sup>e</sup> interruptions, sortie</td><td>4.7.V11, 4.7.V21 resp. 4.7.V31</td><td>Date (sans heure)</td></tr>
-<tr><td>2<sup>e</sup> à 4<sup>e</sup> interruptions, réadmission</td><td>4.7.V12, 4.7.V22 resp. 4.7.V32</td><td>Date (sans heure)</td></tr>
-<tr><td>Réadmissions ultérieures</td><td>4.7.V41</td><td>0 = (défaut), pas plus de 5 séjours (soit 4 réadmissions) 1 = plus de 5 séjours (4 réadmissions)</td></tr>
-<tr><td>Durée de la grossesse</td><td>4.8.V16</td><td>Sous forme chiffrée</td></tr>
-<tr><td>Séjour après première interruption</td><td>4.8.V17</td><td>1 = domicile 2 = établissement de santé non hospitalier médicalisé 3 = établissement de santé non hospitalier non médicalisé 4 = institution psychiatrique, dans un autre établissement 44 = division/institution psychiatrique, dans le même établissement 5 = institution de réadaptation, dans un autre établissement 55 = division/institution de réadaptation, dans le même établissement 6 = autre institution hospitalière (soins aigus) ou maison de naissance 66 = division/clinique de soins aigus, dans le même établissement 7 = institution d’exécution des peines 8 = autre 9 = inconnu 0 = décédé</td></tr>
-<tr><td>Séjour après deuxième interruption</td><td>4.8.V18</td><td>1 = domicile 2 = établissement de santé non hospitalier médicalisé 3 = établissement de santé non hospitalier non médicalisé 4 = institution psychiatrique, dans un autre établissement 44 = division/institution psychiatrique, dans le même établissement 5 = institution de réadaptation, dans un autre établissement 55 = division/institution de réadaptation, dans le même établissement 6 = autre institution hospitalière (soins aigus) ou maison de naissance 66 = division/clinique de soins aigus, dans le même établissement 7 = institution d’exécution des peines 8 = autre 9 = inconnu 0 = décédé</td></tr>
-<tr><td>Séjour après troisième interruption</td><td>4.8.V19</td><td>1 = domicile 2 = établissement de santé non hospitalier médicalisé 3 = établissement de santé non hospitalier non médicalisé 4 = institution psychiatrique, dans un autre établissement 44 = division/institution psychiatrique, dans le même établissement 5 = institution de réadaptation, dans un autre établissement 55 = division/institution de réadaptation, dans le même établissement 6 = autre institution hospitalière (soins aigus) ou maison de naissance 66 = division/clinique de soins aigus, dans le même établissement 7 = institution d’exécution des peines 8 = autre 9 = inconnu 0 = décédé</td></tr>
-<tr><td>Séjour après quatrième interruption</td><td>4.8.V20</td><td>1 = domicile 2 = établissement de santé non hospitalier médicalisé 3 = établissement de santé non hospitalier non médicalisé 4 = institution psychiatrique, dans un autre établissement 44 = division/institution psychiatrique, dans le même établissement 5 = institution de réadaptation, dans un autre établissement 55 = division/institution de réadaptation, dans le même établissement 6 = autre institution hospitalière (soins aigus) ou maison de naissance 66 = division/clinique de soins aigus, dans le même établissement 7 = institution d’exécution des peines 8 = autre 9 = inconnu 0 = décédé</td></tr>
-<tr><td>Décision d’envoi</td><td>1.2.V04</td><td>1 = initiative propre, proches 2 = service de sauvetage (ambulance, police) 3 = médecin 4 = thérapeute non médecin 8 = autre 9 = inconnu</td></tr>
-<tr><td>Type de prise en charge</td><td>1.3.V01</td><td>1 = ambulatoire 3 = hospitalisation 9 = inconnu</td></tr>
-<tr><td>Classe</td><td>1.3.V02</td><td>1 = chambre commune 2 = semi-privé 3 = privé 9 = inconnu</td></tr>
-<tr><td>Date de naissance de la mère</td><td>2.3.V01</td><td>Date (année et mois)</td></tr>
+<tr><th>Désignation selon SpiGes</th><th>Variable selon SpiGes</th><th>Description</th></tr>
+<tr><td>Sexe</td><td>geschlecht</td><td>1 = masculin 2 = féminin</td></tr>
+<tr><td>Date de naissance</td><td>geburtsdatum</td><td>Indication de la date</td></tr>
+<tr><td>Âge à l’admission</td><td>alter</td><td>Âge exact</td></tr>
+<tr><td>Âge en jours des enfants de moins d’un an</td><td>alter\_U1</td><td>Âge à l’entrée en jours</td></tr>
+<tr><td>Date et heure d’admission</td><td>eintrittsdatum</td><td></td></tr>
+<tr><td>Séjour avant l’admission</td><td>eintritt\_aufenthalt</td><td>1 = domicile 2 = domicile avec soins à domicile 3 = établissement de santé non hospitalier médicalisé 4 = établissement de santé non hospitalier non médicalisé 5 = hôpital psychiatrique, autre établissement 55 = division/clinique psychiatrique, même établissement 6 = autre institution hospitalière (soins aigus) ou maison de naissance 66 = division/clinique de soins aigus, même établissement 7 = institution d’exécution des peines 8 = autre 83 = clinique de réadaptation, autre établissement 84 = division/clinique de réadaptation, même établissement 9 = inconnu</td></tr>
+<tr><td>Mode d’admission</td><td>eintrittsart</td><td>1 = urgence (nécessité d’un traitement dans les 12 heures) 2 = annoncé, planifié 3 = naissance (enfant né lors de ce séjour stationnaire et dans cette clinique) 4 = transfert interne 5 = transfert dans les 24 heures [tab] 6 = réhospitalisation [tab] 7 = rapatriement 8 = autre 9 = inconnu</td></tr>
+<tr><td>Vacances, congés administratifs</td><td>admin\_urlaub</td><td>Heures révolues</td></tr>
+<tr><td>Centre de prestations médicales principal</td><td>hauptleistungsstelle</td><td>M000 = Disciplines médicales (en général) M050 = Soins intensifs M100 = Médecine interne M200 = Chirurgie M300 = Gynécologie et obstétrique M400 = Pédiatrie M500 = Psychiatrie et psychothérapie M600 = Ophtalmologie M700 = Oto-rhino-laryngologie M800 = Dermatologie et vénérologie M850 = Radiologie médicale M900 = Gériatrie M950 = Médecine physique et réadaptation M960 = Centres d’urgence M970 = Cabinet d’urgences des médecins M990 = Autres domaines d’activités</td></tr>
+<tr><td>Date et heure de sortie</td><td>austrittsdatum</td><td></td></tr>
+<tr><td>Décision de sortie</td><td>austrittsentscheid</td><td>1 = sur l’initiative du traitant 2 = sur l’initiative du patient (contre l’avis du traitant) 3 = sur l’initiative d’une tierce personne 4 = transfert interne 5 = décédé 8 = autre 9 = inconnu</td></tr>
+<tr><td>Séjour après la sortie</td><td>austritt\_aufenthalt</td><td>1 = domicile 2 = établissement de santé non hospitalier médicalisé 3 = établissement de santé non hospitalier non médicalisé 4 = institution psychiatrique, autre établissement 44 = division/clinique psychiatrique, même établissement 5 = institution de réadaptation, autre établissement 55 = division/clinique de réadaptation, même établissement 6 = autre institution hospitalière (soins aigus) ou maison de naissance 66 = division/clinique de soins aigus, même établissement 7 = institution d’exécution des peines 8 = autre 9 = inconnu 0 = décédé</td></tr>
+<tr><td>Début de l’épisode</td><td>episode\_beginn</td><td>Date (sans heure), seulement pour séjours après interruption/réadmission (episode\_art = 2)</td></tr>
+<tr><td>Fin de l’épisode</td><td>episode\_ende</td><td>Date (sans heure), seulement pour séjours après interruption/réadmission (episode\_art = 2)</td></tr>
+<tr><td>Séjour après interruption</td><td>wiedereintritt\_ aufenthalt</td><td>1 = domicile 2 = établissement de santé non hospitalier médicalisé 3 = établissement de santé non hospitalier non médicalisé 4 = institution psychiatrique, dans un autre établissement 44 = division/institution psychiatrique, dans le même établissement 5 = institution de réadaptation, dans un autre établissement 55 = division/institution de réadaptation, dans le même établissement 6 = autre institution hospitalière (soins aigus) ou maison de naissance 66 = division/clinique de soins aigus, dans le même établissement 7 = institution d’exécution des peines 8 = autre 9 = inconnu</td></tr>
+<tr><td>Durée de la grossesse en fonction des dernières menstruations</td><td>gestationsalter1</td><td>Durée de la grossesse de la mère en fonction des dernières menstruation</td></tr>
+<tr><td>Durée de la grossesse en fonction de l’échographie</td><td>gestationsalter2</td><td>Durée de la grossesse de la mère en fonction de l’échographie</td></tr>
+<tr><td>Décision d’envoi</td><td>einw\_instanz</td><td>1 = initiative propre, proches 2 = service de sauvetage (ambulance, police) 3 = médecin 4 = thérapeute non médecin [tab] 5 = services socio-médicaux [tab] 6 = autorités judiciaires 8 = autre 9 = inconnu</td></tr>
+<tr><td>Classe (de traitement)</td><td>liegeklasse</td><td>1 = chambre commune 2 = semi-privé 3 = privé 9 = inconnu</td></tr>
 </table>
