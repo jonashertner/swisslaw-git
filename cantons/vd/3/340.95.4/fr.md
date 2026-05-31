@@ -4,7 +4,7 @@ number: "340.95.4"
 title: "RÈGLEMENT du 20.12.2017 concordataire sur l'exécution des peines sous la forme du travail d'intérêt général (RTIG)"
 short: RTIG
 language: fr
-version: 2018-01-01
+version: 2026-06-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/340.95.4?id=5e2be99a-ef9f-473d-8bdb-b8cf5e860056"
 ---
 
@@ -97,13 +97,12 @@ le solde de la peine, si le juge n'a pas fixé de peine d'ensemble dans une nouv
 - a. une demande de la personne condamnée ;
 - b. pas de crainte qu'elle ne s'enfuie ;
 - c. pas de crainte qu'elle ne commette d'autres infractions ;
-- d. une autorisation de séjour en suisse ;
-- e. pas d'expulsion en vertu des art. 66a et 66a<sup>bis</sup> CP[^6-1] ;
+- d. ...
+- e. ...
 - f. l'autorisation de la personne condamnée de communiquer à l'employeur [Est un employeur au sens du présent règlement toute institution ou personne auprès de laquelle une personne condamnée exécute un TIG] l'infraction qui a conduit à la sanction ;
 - g. des garanties quant au respect des conditions-cadre posées par l'autorité d'exécution et par l'entreprise d'engagement.
 
-[^5-1]: Modif. 1 du 22.04.2026: Abrogation Al. 1, d-e; entrée en vigueur au 01.06.2026; Introduction Art. 7, Al. 1, e; entrée en vigueur au 01.06.2026
-[^6-1]: [Code pénal suisse du 21.12.1937, RS 311.0](https://www.admin.ch/opc/fr/classified-compilation/19370083/index.html)
+[^5-1]: Modif. 1 du 22.04.2026: Abrogation Al. 1, d-e; entrée en vigueur au 01.06.2026
 
 ## Chapitre III Procédure
 
@@ -116,7 +115,8 @@ le solde de la peine, si le juge n'a pas fixé de peine d'ensemble dans une nouv
 - a. informe la personne condamnée des modalités de cette forme d'exécution;
 - b. impartit à la personne condamnée un délai pour le dépôt d'une demande relative à cette forme particulière d'exécution ;
 - c. examine la demande de la personne condamnée et les pièces jointes ;
-- d. statue sur la demande et, en cas d'acceptation, fixe le lieu et le début de l'exécution, ainsi que les conditions auxquelles elle est soumise.
+- d. contacte, si nécessaire, toutes les autorités compétentes, notamment en matière de droit des étrangers, en vue de s'assurer de la compatibilité de cette forme d'exécution avec la situation personnelle de la personne condamnée ;
+- e. statue sur la demande et, en cas d'acceptation, fixe le lieu et le début de l'exécution, ainsi que les conditions auxquelles elle est soumise.
 
 [^chapterChapitreIII-1]: Modif. 1 du 22.04.2026: Modification Al. 1, d; entrée en vigueur au 01.06.2026; Introduction Al. 1, e; entrée en vigueur au 01.06.2026
 
@@ -178,9 +178,9 @@ le solde de la peine, si le juge n'a pas fixé de peine d'ensemble dans une nouv
 
 <sup>1</sup> Le cumul d'une peine privative de liberté de substitution pour amende ou peine pécuniaire pendant l'exécution du TIG implique en règle générale l'interruption du TIG.
 
-<sup>2</sup> Si la personne condamnée ne remplit plus les conditions personnelles pour le TIG ou si elle y renonce, celui-ci est interrompu. Le solde de peine privative de liberté est exécuté sous la forme ordinaire ou sous celle de la semi-détention, si elle en remplit les conditions. Le cas échéant, la peine pécuniaire ou l'amende est recouvrée.
+<sup>2</sup> Si la personne condamnée ne remplit plus les conditions fixées aux art. 4, 5 et 6 ou si elle y renonce, le TIG est interrompu. Le solde de peine privative de liberté est exécuté sous la forme ordinaire ou sous celle de la semi-détention, si elle en remplit les conditions. Le cas échéant, la peine pécuniaire ou l'amende est recouvrée.
 
-[^chapterChapitreV-1]: Modif. 1 du 22.04.2026: Introduction Art. 7, Al. 1, e; entrée en vigueur au 01.06.2026; Modification Al. 2; entrée en vigueur au 01.06.2026
+[^chapterChapitreV-1]: Modif. 1 du 22.04.2026: Modification Al. 2; entrée en vigueur au 01.06.2026
 
 ## Chapitre VI Violation des règles / non-respect du plan d'exécution
 
