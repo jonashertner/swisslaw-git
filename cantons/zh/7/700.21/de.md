@@ -4,11 +4,10 @@ number: "700.21"
 title: Besondere Bauverordnung I (BBV I)
 short: BBV I
 language: de
-version: "2026-04-01"
-nachtrag: "132"
-valid_until: 2026-06-01
+version: "2026-06-01"
+nachtrag: "133"
 adopted: 1981-05-06
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-700_21-1981_05_06-1982_01_01-132.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-700_21-1981_05_06-1982_01_01-133.html"
 text: pdf
 ---
 
@@ -60,7 +59,7 @@ Als fachgerecht gilt, was nach dem jeweiligen Stand der Technik möglich ist und
 
 **1**
 
-- 1\. 4. 26 - 132 § 4.<sup>86</sup> <sup>1</sup> Im Anhang zur Verordnung werden Bereiche bezeichnet, die primär der privaten Kontrolle unterstehen.
+- 1\. 7. 26 - 133 § 4.<sup>86</sup> <sup>1</sup> Im Anhang zur Verordnung werden Bereiche bezeichnet, die primär der privaten Kontrolle unterstehen.
 
 **Private Kontrolle A. Geltungsbereich und Grundsatz**
 
@@ -124,7 +123,7 @@ Künstliche Beleuchtung und Belüftung in Arbeitsräumen sind insbesondere zulä
 
 **3**
 
-- 1\. 4. 26 - 132 § 10. <sup>1</sup> Gemeinschaftsunterkünfte müssen neben Schlafräumen mit einer der Belegung angemessenen Fläche in hinreichender Zahl, Grösse und Art enthalten:
+- 1\. 7. 26 - 133 § 10. <sup>1</sup> Gemeinschaftsunterkünfte müssen neben Schlafräumen mit einer der Belegung angemessenen Fläche in hinreichender Zahl, Grösse und Art enthalten:
 
 **II. Gemeinschaftsunterkünfte**
 
@@ -192,7 +191,7 @@ Arbeitsräume oder bauliche Einheiten von solchen müssen in hinreichender Zahl,
 
 **5**
 
-- 1\. 4. 26 - 132
+- 1\. 7. 26 - 133
 
 [^h1AbschnittLärm-1]: LS 175.2.
 
@@ -252,7 +251,7 @@ Arbeitsräume oder bauliche Einheiten von solchen müssen in hinreichender Zahl,
 
 **7**
 
-- 1\. 4. 26 - 132 § 19 d.<sup>74</sup> <sup>1</sup> Die Baubewilligungsbehörde sorgt dafür, dass unnötige Lichtemissionen vermieden werden.
+- 1\. 7. 26 - 133 § 19 d.<sup>74</sup> <sup>1</sup> Die Baubewilligungsbehörde sorgt dafür, dass unnötige Lichtemissionen vermieden werden.
 
 **B. Licht**
 
@@ -328,7 +327,7 @@ Arbeitsräume oder bauliche Einheiten von solchen müssen in hinreichender Zahl,
 
 **9**
 
-- 1\. 4. 26 - 132 § 28.<sup>30</sup> <sup>1</sup> Als Grundlage für die Überprüfung der Lufthygiene und der energetischen Massnahmen führt die Baudirektion über das ganze Kantonsgebiet einen Gebäudekataster (Emissions- und Wärmeverbrauchskataster).
+- 1\. 7. 26 - 133 § 28.<sup>30</sup> <sup>1</sup> Als Grundlage für die Überprüfung der Lufthygiene und der energetischen Massnahmen führt die Baudirektion über das ganze Kantonsgebiet einen Gebäudekataster (Emissions- und Wärmeverbrauchskataster).
 
 **Überprüfungsgrundlagen**
 
@@ -390,7 +389,7 @@ Grössere Luftgeschwindigkeiten sind zulässig, wenn mit einer fachgerechten Ene
 
 **11**
 
-- 1\. 4. 26 - 132
+- 1\. 7. 26 - 133
 
 - b. Nach Abschluss der Arbeiten ist eine Kopie der Konformitätserklärung oder eine Bestätigung einzureichen, welche die einwandfreie Ausführung gemäss der Erklärung und die sichere Funktion der Anlage nachweist.
 
@@ -474,7 +473,7 @@ Die Einstellgelegenheiten für Vorräte und Hausrat müssen pro Wohnung eine Gru
 
 **13**
 
-- 1\. 4. 26 - 132 § 41 a.<sup>82</sup> <sup>1</sup> Neubauten der Gebäudekategorien III–XII mit mindestens 5000 m<sup>2</sup> Energiebezugsfläche sind mit Einrichtungen zur Gebäudeautomation auszurüsten, die folgende Überwachungsfunktionen aufweisen:
+- 1\. 7. 26 - 133 § 41 a.<sup>82</sup> <sup>1</sup> Neubauten der Gebäudekategorien III–XII mit mindestens 5000 m<sup>2</sup> Energiebezugsfläche sind mit Einrichtungen zur Gebäudeautomation auszurüsten, die folgende Überwachungsfunktionen aufweisen:
 
 **Gebäudeautomation**
 
@@ -556,7 +555,7 @@ Die Einstellgelegenheiten für Vorräte und Hausrat müssen pro Wohnung eine Gru
 
 **15**
 
-- 1\. 4. 26 - 132
+- 1\. 7. 26 - 133
 
 <sup>3</sup> Bei handbeschickten Holzheizungen sind ortsfeste elektrische Widerstandsheizungen als Notheizungen bis zu einer Leistung von 50% des Leistungsbedarfs zulässig.
 
@@ -616,7 +615,7 @@ I Wohnen MFH 35 kWh/m<sup>2</sup> II Wohnen EFH 35 kWh/m<sup>2</sup> III Verwalt
 
 **17**
 
-- 1\. 4. 26 - 132
+- 1\. 7. 26 - 133
 
 <sup>2</sup> Die Leistung von Anlagen auf dem Grundstück oder in einem Zusammenschluss zum Eigenverbrauch wird angerechnet, sofern die Anlagen nicht älter als acht Jahre sind.
 
@@ -682,7 +681,7 @@ I Wohnen MFH 35 kWh/m<sup>2</sup> II Wohnen EFH 35 kWh/m<sup>2</sup> III Verwalt
 
 **19**
 
-- 1\. 4. 26 - 132 § 47 i.<sup>78</sup> Die Bezugsvereinbarung regelt insbesondere
+- 1\. 7. 26 - 133 § 47 i.<sup>78</sup> Die Bezugsvereinbarung regelt insbesondere
 
 **2. Bezugsvereinbarung**
 
@@ -762,7 +761,7 @@ I Wohnen MFH 35 kWh/m<sup>2</sup> II Wohnen EFH 35 kWh/m<sup>2</sup> III Verwalt
 
 **21**
 
-- 1\. 4. 26 - 132
+- 1\. 7. 26 - 133
 
 - c. für die eine freiwillige Zielvereinbarung abgeschlossen wurde (KMU-Modell).
 
@@ -820,7 +819,7 @@ Solange gemäss den Übergangsbestimmungen zur Änderung vom 23. Oktober 2023 de
 
 **23**
 
-- 1\. 4. 26 - 132
+- 1\. 7. 26 - 133
 
 ### Anhang zur Besonderen Bauverordnung I
 
@@ -852,7 +851,7 @@ Solange gemäss den Übergangsbestimmungen zur Änderung vom 23. Oktober 2023 de
 
 Hinblick auf die Verwertung, Ausgabe Februar 2017
 
-2.7<sup>47</sup> Abwasserentsorgung 2.71<sup>47</sup> Empfehlung SIA 431, Ausgabe 1997, Entwässerung von Baustellen (Norm SN 509 431) 2.72<sup>68</sup> Norm VSA/suissetec, Anlagen für die Liegenschaftsentwässerung – Planung und Ausführung, Ausgabe 2012 (Norm SN 592 000) 2.73<sup>62</sup> Richtlinie VSA, Regenwasserentsorgung, Ausgabe 2002, mit Update 2008 2.8<sup>53</sup> Luftreinhaltung 2.81<sup>75</sup> Richtlinie des Bundesamtes für Umwelt, Luftreinhaltung auf Baustellen (Baurichtlinie Luft), Ausgabe 2016 2.9<sup>61</sup> Erdbebenvorsorge 2.9.1<sup>75</sup> Normen SIA 260–267, Tragwerksnormen 2.9.2<sup>75</sup> Norm SIA 269/8, Erhaltung von Tragwerken – Erdbeben
+2.7<sup>47</sup> Abwasserentsorgung 2.71<sup>47</sup> Empfehlung SIA 431, Ausgabe 1997, Entwässerung von Baustellen (Norm SN 509 431) 2.72<sup>68</sup> Norm VSA/suissetec, Anlagen für die Liegenschaftsentwässerung – Planung und Ausführung, Ausgabe 2012 (Norm SN 592 000) 2.73<sup>89</sup> Regenwasserbewirtschaftung, Richtlinie und Praxishilfe der Baudirektion, Ausgabe 2025 2.8<sup>53</sup> Luftreinhaltung 2.81<sup>75</sup> Richtlinie des Bundesamtes für Umwelt, Luftreinhaltung auf Baustellen (Baurichtlinie Luft), Ausgabe 2016 2.9<sup>61</sup> Erdbebenvorsorge 2.9.1<sup>75</sup> Normen SIA 260–267, Tragwerksnormen 2.9.2<sup>75</sup> Norm SIA 269/8, Erhaltung von Tragwerken – Erdbeben
 
 - 3\. Private Kontrolle<sup>40</sup> Der privaten Kontrolle werden hinsichtlich Projekt und Ausführung unterstellt:
 
@@ -860,7 +859,7 @@ Hinblick auf die Verwertung, Ausgabe Februar 2017
 
 **25**
 
-- 1\. 4. 26 - 132 (im Fachbereich Wärmedämmung)
+- 1\. 7. 26 - 133 (im Fachbereich Wärmedämmung)
 
 **3.283**
 
@@ -910,7 +909,7 @@ Hinblick auf die Verwertung, Ausgabe Februar 2017
 
 **27**
 
-- 1\. 4. 26 - 132 (Fachbereich Entsorgung beim Bauen auf belasteten Standorten) die Bestimmungen über die Vermeidung und Entsorgung von Abfällen sowie über die Behandlung und Verwertung bestimmter Abfälle (Art. 30 ff. Bundesgesetz vom 7. Oktober 1983 über den Umweltschutz, USG<sup>11</sup>, Art. 9, Art. 16– 20, Anhang 3 und 5 Verordnung vom 4. Dezember 2015 über die Vermeidung und die Entsorgung von Abfällen<sup>16</sup>, Art. 4 ff. und Anhang 1 Verordnung vom 22. Juni 2005 über den Verkehr mit Abfällen<sup>17</sup>, Art. 15 Abs. 2 und 3 sowie Art. 52 Abs. 1 Freisetzungsverordnung vom 10. September 2008<sup>22</sup>, § 1 Abs. 2 Abfallgesetz vom 25. September 1994), die Bestimmungen über Erstellung und Änderungen von Bauten und Anlagen auf belasteten Standorten (Art. 3, 5 und 24 Altlasten-Verordnung vom 26.August 1998<sup>18</sup>, § 236 Abs. 1 PBG[^h1AlsVerordnungsbe-4] sowie Anhang Ziff. 1.7 Bauverfahrensverordnung vom 3. Dezember 1997[^h1AlsVerordnungsbe-3].
+- 1\. 7. 26 - 133 (Fachbereich Entsorgung beim Bauen auf belasteten Standorten) die Bestimmungen über die Vermeidung und Entsorgung von Abfällen sowie über die Behandlung und Verwertung bestimmter Abfälle (Art. 30 ff. Bundesgesetz vom 7. Oktober 1983 über den Umweltschutz, USG<sup>11</sup>, Art. 9, Art. 16– 20, Anhang 3 und 5 Verordnung vom 4. Dezember 2015 über die Vermeidung und die Entsorgung von Abfällen<sup>16</sup>, Art. 4 ff. und Anhang 1 Verordnung vom 22. Juni 2005 über den Verkehr mit Abfällen<sup>17</sup>, Art. 15 Abs. 2 und 3 sowie Art. 52 Abs. 1 Freisetzungsverordnung vom 10. September 2008<sup>22</sup>, § 1 Abs. 2 Abfallgesetz vom 25. September 1994), die Bestimmungen über Erstellung und Änderungen von Bauten und Anlagen auf belasteten Standorten (Art. 3, 5 und 24 Altlasten-Verordnung vom 26.August 1998<sup>18</sup>, § 236 Abs. 1 PBG[^h1AlsVerordnungsbe-4] sowie Anhang Ziff. 1.7 Bauverfahrensverordnung vom 3. Dezember 1997[^h1AlsVerordnungsbe-3].
 
 **3.1061**
 
@@ -986,7 +985,7 @@ Hinblick auf die Verwertung, Ausgabe Februar 2017
 
 **29**
 
-- 1\. 4. 26 - 132
+- 1\. 7. 26 - 133
 
 <sup>39</sup> Eingefügt durch RRB vom 23. Februar 1994 (OS 52, 646). In Kraft seit 1. Juli 1994.
 
@@ -1080,7 +1079,7 @@ Hinblick auf die Verwertung, Ausgabe Februar 2017
 
 **31**
 
-- 1\. 4. 26 - 132
+- 1\. 7. 26 - 133
 
 <sup>84</sup> Aufgehoben durch RRB vom 8. Juni 2022 (OS 77, 378; ABl 2022-06-10). In Kraft seit 1. September 2022.
 
@@ -1091,6 +1090,8 @@ Hinblick auf die Verwertung, Ausgabe Februar 2017
 <sup>87</sup> Fassung gemäss RRB vom 2. Oktober 2024 (OS 79, 462; ABl 2024-10-11). In Kraft seit 1. Januar 2025.
 
 <sup>88</sup> Aufgehoben durch RRB vom 17. Dezember 2025 (OS 81, 103; ABl 2026-01-16). In Kraft seit 1. April 2026.
+
+<sup>89</sup> Fassung gemäss RRB vom 2. Juli 2025 (OS 81, 243; ABl 2025-08-22). In Kraft seit 1. Juni 2026.
 
 [^h1AlsVerordnungsbe-1]: LS 700.211.
 [^h1AlsVerordnungsbe-2]: LS 730.1.
