@@ -4,23 +4,23 @@ number: "701.13"
 title: Quartierplanverordnung (QPV)
 short: QPV
 language: de
-version: "2018-01-01"
-nachtrag: "99"
-valid_until: 2026-06-01
+version: "2026-06-01"
+nachtrag: "133"
 adopted: 1978-01-18
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-701_13-1978_01_18-1978_07_01-099.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-701_13-1978_01_18-1978_07_01-133.html"
 text: pdf
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZH. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Verordnung über den Quartierplan (Quartierplanverordnung)
+# Quartierplanverordnung (QPV)
 
-(vom 18. Januar 1978)[^t-1]
+(vom 18. Januar 1978)[^t-2][^t-1]
 
 Der Regierungsrat beschliesst:
 
-[^t-1]: OS 46, 788 und GS V, 147.
+[^t-1]: Fassung gemäss RRB vom 2. Juli 2025 (OS 81, 244; ABl 2025-08-22). In Kraft seit 1. Juni 2026. 1. 7. 26 - 133 13
+[^t-2]: OS 46, 788 und GS V, 147.
 
 ### I. Materielle Grundsätze und Begriffe
 
@@ -48,11 +48,9 @@ Der Regierungsrat beschliesst:
 
 <sup>3</sup> Vorgesehene Quartierstrassen dürfen das Quartierplangebiet nur soweit begrenzen, als ihnen für das gegenüberliegende Gebiet keine baurechtliche Erschliessungsfunktion zukommt.
 
-#### § 3
-
 **II. Gewässer**
 
-<sup>1</sup> Begrenzen öffentliche Gewässer das Quartierplangebiet, ist massgeblich:
+§ 3.[^2-1] <sup>1</sup> Begrenzen öffentliche Gewässer das Quartierplangebiet, ist massgeblich:
 
 - a. bei Gewässern mit eigener Parzelle die Grundstückgrenze,
 
@@ -60,19 +58,20 @@ Der Regierungsrat beschliesst:
 
 **1**
 
-- 1\. 1. 18 - 99
+- 1\. 7. 26 - 133
 
-- c. bei geplanten Gewässerführungen die festgesetzte oder projektierte Baulinie für Fluss- und Bachkorrektionen; bei kleineren, im Sinne von § 8 Abs. 1 als Vorfluter dienenden Gewässern die Baulinienachse.
+- c. bei geplanten Gewässerführungen die festgesetzte oder projektierte Baulinie für kantonale und kommunale Wasserbauprojekte einschliesslich der Flächen für den Rückhalt oder die Ableitung von Hochwasser; bei kleineren, gemäss § 8 Abs. 1 als Vorfluter dienenden Gewässern die Baulinienachse.
 
-<sup>2</sup> Baulinien für Fluss- oder Bachkorrektionen sind in sinngemässer Anwendung von § 125 PBG festzusetzen.
+<sup>2</sup> Baulinien für kantonale und kommunale Wasserbauprojekte einschliesslich der Flächen für den Rückhalt oder die Ableitung von Hochwasser sind in sinngemässer Anwendung von § 125 PBG festzusetzen.
 
-[^3-1]: Fassung gemäss RRB vom 8. Juli 1998 (OS 54, 630). In Kraft seit 1. August 1998.
+[^2-1]: Fassung gemäss RRB vom 2. Juli 2025 (OS 81, 244; ABl 2025-08-22). In Kraft seit 1. Juni 2026. 1. 7. 26 - 133 13
+[^2-2]: Fassung gemäss RRB vom 8. Juli 1998 (OS 54, 630). In Kraft seit 1. August 1998.
 
 #### § 4
 
 **III. Wald**
 
-Wird der Quartierplan durch Wald begrenzt, gilt die vom kantonalen Forstdienst[^3-1] festgesetzte forstrechtliche Waldgrenze als Begrenzung, sofern nicht die Tiefe des im Zonenplan festgesetzten Waldabstands eine abweichende Regelung rechtfertigt.
+Wird der Quartierplan durch Wald begrenzt, gilt die vom kantonalen Forstdienst[^2-2] festgesetzte forstrechtliche Waldgrenze als Begrenzung, sofern nicht die Tiefe des im Zonenplan festgesetzten Waldabstands eine abweichende Regelung rechtfertigt.
 
 #### § 5
 
@@ -104,7 +103,7 @@ Weitere als Quartierplangrenze in Frage kommende Hindernisse im Sinne von § 124
 
 <sup>2</sup> Der Landbedarf für umgrenzende öffentliche Verkehrswege und kleinere als Vorfluter dienende Gewässer wird je nach der getroffenen Quartierplanbegrenzung bis zur Achse der projektierten Anlage oder der Baulinie abgezogen.
 
-[^5-1]: Bezeichnung gemäss RRB vom 29. Juni 2016 (OS 72, 324; ABl 2016-07-15). In Kraft seit 1. Januar 2018. 1. 1. 18 - 99 13
+[^5-1]: Bezeichnung gemäss RRB vom 29. Juni 2016 (OS 72, 324; ABl 2016-07-15). In Kraft seit 1. Januar 2018.
 
 #### § 9
 
@@ -130,11 +129,11 @@ Bei der Umlegung nach Flächen sind bereits im Altbestand ganz oder zum Teil ers
 
 § 11. <sup>1</sup> Die Pflicht zum Bau öffentlicher Verkehrswege und Versorgungsanlagen im Sinne von § 138 Abs. 2 lit. b PBG, die für die baurechtliche Erschliessung des im baulichen Vollzug befindlichen Quartierplangebiets notwendig sind, obliegt dem Gemeinwesen und richtet sich nach § 93 PBG.
 
+<sup>2</sup> Die Kosten für den im Sinne von § 93 PBG vorzeitigen Bau solcher Anlagen sind von den Gesuchstellern vorzuschiessen; das Gemeinwesen kann über die Pflicht zur Bevorschussung hinaus die vorzeitige Erstellung solcher Anlagen von einer vollumfänglichen Kostenübernahme durch die Gesuchsteller abhängig machen.
+
 **3**
 
-- 1\. 1. 18 - 99
-
-<sup>2</sup> Die Kosten für den im Sinne von § 93 PBG vorzeitigen Bau solcher Anlagen sind von den Gesuchstellern vorzuschiessen; das Gemeinwesen kann über die Pflicht zur Bevorschussung hinaus die vorzeitige Erstellung solcher Anlagen von einer vollumfänglichen Kostenübernahme durch die Gesuchsteller abhängig machen.
+- 1\. 7. 26 - 133
 
 <sup>3</sup> Für Strassen und Vorfluter, deren Achse den Quartierplan begrenzt, ist das erforderliche Land ausserhalb des Beizugsgebiets nötigenfalls zwangsweise zu erwerben.
 
@@ -204,10 +203,6 @@ Versorgungsbetriebe im Sinne von § 194 PBG sind Betriebe, die den Bewohnern des
 
 - c. als Unterlage eine Kopie des Grundbuchplans über das fragliche Gebiet und seine nähere Umgebung, der die Namen der Grundeigentümer, die geltenden Baulinien und namentlich bei Teilquartierplänen im Sinne von § 123 Abs. 2 PBG weitere für die Beurteilung erforderliche Angaben aufweist.
 
-**5**
-
-- 1\. 1. 18 - 99
-
 <sup>2</sup> Gesuch und Unterlagen sind in dreifacher Ausfertigung einzureichen.
 
 <sup>3</sup> Wird das Verfahren von Amtes wegen eingeleitet, sind die gleichen Unterlagen zu den Akten zu nehmen.
@@ -218,13 +213,13 @@ Versorgungsbetriebe im Sinne von § 194 PBG sind Betriebe, die den Bewohnern des
 
 Gesuche um Zustimmung zur Einleitung privater Quartierplanverfahren im Sinne von § 132 PBG haben überdies ein grundbuchamtliches Verzeichnis der Grundeigentümer zu enthalten; das Gesuch ist von den Eigentümern oder ihren bevollmächtigten Vertretern zu unterzeichnen.
 
-#### § 21
+**5**
 
-**2. Besondere Quartierplanarten a. Grenzbereinigung**
-
-Gesuchen um Durchführung einer Grenzbereinigung im Sinne von § 181 PBG ist lediglich eine Kopie des Grundbuchplans, der die beteiligten Grundstücke umfasst, und ein Grundbuchauszug über diese beizulegen.
+- 1\. 7. 26 - 133 § 21. Gesuchen um Durchführung einer Grenzbereinigung im Sinne von § 181 PBG ist lediglich eine Kopie des Grundbuchplans, der die beteiligten Grundstücke umfasst, und ein Grundbuchauszug über diese beizulegen.
 
 #### § 22
+
+**2. Besondere Quartierplanarten a. Grenzbereinigung**
 
 **b. Gebietssanierung**
 
@@ -242,7 +237,7 @@ Gesuchen um Durchführung einer Grenzbereinigung im Sinne von § 181 PBG ist led
 
 #### § 23
 
-**III. Einleitungsbeschluss**
+**III. Einleitungsbeschlus**
 
 Im Beschluss über die Verfahrenseinleitung ist insbesondere über die Zulässigkeit des nachgesuchten Verfahrens und die Zweckmässigkeit der Gebietsabgrenzung zu entscheiden; ferner ist auf allenfalls notwendige Neuanlagen oder Ausbauten öffentlicher Verkehrswege, Versorgungsanlagen und Vorfluter sowie auf Baudenkmäler hinzuweisen.
 
@@ -252,7 +247,7 @@ Im Beschluss über die Verfahrenseinleitung ist insbesondere über die Zulässig
 
 Ist das Verfahren rechtskräftig eingeleitet, sind die Akten durch vollständige Grundbuchauszüge zu ergänzen.
 
-[^24-1]: Bezeichnung gemäss RRB vom 29. Juni 2016 (OS 72, 324; ABl 2016-07-15). In Kraft seit 1. Januar 2018. 1. 1. 18 - 99 13
+[^24-1]: Bezeichnung gemäss RRB vom 29. Juni 2016 (OS 72, 324; ABl 2016-07-15). In Kraft seit 1. Januar 2018.
 
 #### § 25
 
@@ -306,15 +301,19 @@ Der erste Entwurf im Sinne von § 151 PBG hat je nach den konkreten Zielen des V
 
 - k. Erläuterungen besonderer Massnahmen, wie von Beseitigungen bestehender Gebäude, von Vorkehrungen hinsichtlich gesetzlicher Eigentumsbeschränkungen des privaten Rechts, Dienstbarkeiten, Grundlasten oder vorgemerkter persönlicher Rechte, von Zusammenlegungen einzelner Grundstücke, von Auskäufen und von besonderen Zuteilungsansprüchen des Gemeinwesens.
 
-**7**
-
-- 1\. 1. 18 - 99 § 28. <sup>1</sup> Bei Gebietssanierungen sind zusätzlich zu den Unterlagen gemäss § 27 vorzulegen:
+#### § 28
 
 **2. Gebietssanierung**
+
+<sup>1</sup> Bei Gebietssanierungen sind zusätzlich zu den Unterlagen gemäss § 27 vorzulegen:
 
 - a. Angaben über die in Aussicht zu nehmenden Anstrengungen zum Schutze der Eigentümer, Mieter und Pächter im Sinne von § 195 PBG,
 
 - b. Angaben über den baulichen Zustand der bestehenden Gebäude im Sinne von § 196 PBG,
+
+**7**
+
+- 1\. 7. 26 - 133
 
 - c. Vorstellungen über den Vollzug des Rechtsübergangs im Sinne von § 200 PBG und die Durchführung des Baus im Sinne von § 201 PBG.
 
@@ -408,19 +407,13 @@ Der erste Entwurf im Sinne von § 151 PBG hat je nach den konkreten Zielen des V
 
 - e. Vorkehren zum Schutz der Mieter.
 
-**9**
-
-- 1\. 1. 18 - 99
-
 <sup>2</sup> Der vollständig ausgefertigte Sozialbericht ist der Gebietssanierung beizulegen.
 
-[^32-1]: Bezeichnung gemäss RRB vom 29. Juni 2016 (OS 72, 324; ABl 2016-07-15). In Kraft seit 1. Januar 2018. 1. 1. 18 - 99 13
+**9**
 
-#### § 33
+- 1\. 7. 26 - 133 § 33. <sup>1</sup> Für die Durchführung des Quartierplans notwendige Sonderbauvorschriften und Gestaltungspläne (§ 7 Abs. 1), deren Erlass in die gleiche Zuständigkeit wie die Bau- und Zonenordnung fällt (§§ 88 und 86 Abs. 2 Satz 1 PBG), sind nach Fertigstellung des bereinigten Entwurfs und vor Festsetzung des Quartierplans dem nach der Gemeindeordnung zuständigen Organ zum Entscheid vorzulegen; bei Zuständigkeit des Gemeindevorstands[^32-1] erfolgt die Zustimmung zu entsprechenden privaten Gestaltungsplänen zusammen mit der Quartierplanfestsetzung.
 
 **D. Festsetzung bei Sonderbauvorschriften und Gestaltungsplänen**
-
-<sup>1</sup> Für die Durchführung des Quartierplans notwendige Sonderbauvorschriften und Gestaltungspläne (§ 7 Abs. 1), deren Erlass in die gleiche Zuständigkeit wie die Bau- und Zonenordnung fällt (§§ 88 und 86 Abs. 2 Satz 1 PBG), sind nach Fertigstellung des bereinigten Entwurfs und vor Festsetzung des Quartierplans dem nach der Gemeindeordnung zuständigen Organ zum Entscheid vorzulegen; bei Zuständigkeit des Gemeindevorstands[^32-1] erfolgt die Zustimmung zu entsprechenden privaten Gestaltungsplänen zusammen mit der Quartierplanfestsetzung.
 
 <sup>2</sup> Bei abweichender Zuständigkeit wird unmittelbar anschliessend an den Beschluss über die Sonderbauvorschriften oder den Gestaltungsplan – allenfalls nach Durchführung der erforderlichen Anpassung im hiefür vorgeschriebenen Verfahren – der Quartierplan festgesetzt.
 
@@ -428,13 +421,15 @@ Der erste Entwurf im Sinne von § 151 PBG hat je nach den konkreten Zielen des V
 
 <sup>4</sup> Für den Rechtsschutz gelten hinsichtlich Zuständigkeit und Verfahren die Bestimmungen über die Anfechtung von Quartierplänen.
 
+[^32-1]: Bezeichnung gemäss RRB vom 29. Juni 2016 (OS 72, 324; ABl 2016-07-15). In Kraft seit 1. Januar 2018.
+
 #### § 34
 
 **E. Genehmigung**
 
 Der rechtskräftig festgesetzte Quartierplan samt Sonderbauvorschriften oder Gestaltungsplan ist dem Regierungsrat in dreifacher Ausfertigung zur Genehmigung einzureichen.
 
-[^34-1]: Bezeichnung gemäss RRB vom 29. Juni 2016 (OS 72, 324; ABl 2016-07-15). In Kraft seit 1. Januar 2018. 1. 1. 18 - 99 13
+[^34-1]: Bezeichnung gemäss RRB vom 29. Juni 2016 (OS 72, 324; ABl 2016-07-15). In Kraft seit 1. Januar 2018.
 
 #### § 35
 
@@ -442,7 +437,7 @@ Der rechtskräftig festgesetzte Quartierplan samt Sonderbauvorschriften oder Ges
 
 Der Eintritt neuer Rechtsverhältnisse aufgrund einer Gebietssanierung ist nötigenfalls von den interessierten Grundeigentümern dem Gemeindevorstand[^34-1] zwecks Anmeldung für den grundbuchlichen Vollzug und Durchführung des Geldausgleichs schriftlich zu melden.
 
-[^35-1]: Bezeichnung gemäss RRB vom 29. Juni 2016 (OS 72, 324; ABl 2016-07-15). In Kraft seit 1. Januar 2018. 1. 1. 18 - 99 13
+[^35-1]: Bezeichnung gemäss RRB vom 29. Juni 2016 (OS 72, 324; ABl 2016-07-15). In Kraft seit 1. Januar 2018.
 
 #### § 36
 
@@ -454,7 +449,7 @@ Der Eintritt neuer Rechtsverhältnisse aufgrund einer Gebietssanierung ist nöti
 
 <sup>3</sup> Der Genehmigungsinstanz ist es jederzeit gestattet, genehmigungspflichtige Bauarbeiten zu überprüfen und, falls es die Umstände erfordern, die Inangriffnahme einzelner Bauabschnitte von einer besonderen Kontrolle abhängig zu machen.
 
-[^36-1]: Bezeichnung gemäss RRB vom 29. Juni 2016 (OS 72, 324; ABl 2016-07-15). In Kraft seit 1. Januar 2018. 1. 1. 18 - 99 13
+[^36-1]: Bezeichnung gemäss RRB vom 29. Juni 2016 (OS 72, 324; ABl 2016-07-15). In Kraft seit 1. Januar 2018.
 
 #### § 37
 
@@ -472,7 +467,7 @@ Gesuche um den Bau quartierplanlicher Anlagen durch die Gemeinde haben zu enthal
 
 ### III. Organisatorische Bestimmungen
 
-[^hIIIOrganisatorisch-1]: Bezeichnung gemäss RRB vom 29. Juni 2016 (OS 72, 324; ABl 2016-07-15). In Kraft seit 1. Januar 2018. 1. 1. 18 - 99 13
+[^hIIIOrganisatorisch-1]: Bezeichnung gemäss RRB vom 29. Juni 2016 (OS 72, 324; ABl 2016-07-15). In Kraft seit 1. Januar 2018.
 
 #### § 38
 
@@ -504,9 +499,9 @@ Gesuche um den Bau quartierplanlicher Anlagen durch die Gemeinde haben zu enthal
 
 **11**
 
-- 1\. 1. 18 - 99
+- 1\. 7. 26 - 133
 
-[^39-1]: Bezeichnung gemäss RRB vom 29. Juni 2016 (OS 72, 324; ABl 2016-07-15). In Kraft seit 1. Januar 2018. 1. 1. 18 - 99 13
+[^39-1]: Bezeichnung gemäss RRB vom 29. Juni 2016 (OS 72, 324; ABl 2016-07-15). In Kraft seit 1. Januar 2018.
 
 ### IV. Mitwirkung mehrerer Gemeinden
 
@@ -522,7 +517,7 @@ Erfordert die sinnvolle Begrenzung des Beizugsgebiets Land in zwei oder mehreren
 
 Die Planausarbeitung erfolgt in gemeinsamen Grundeigentümerversammlungen und in der Regel unter der Leitung einer gemeinsamen Quartierplankommission, in der die Gemeinden möglichst gleichmässig vertreten sind; gemischte Quartierplankommissionen dürfen nötigenfalls mehr als fünf Mitglieder umfassen.
 
-[^41-1]: Bezeichnung gemäss RRB vom 29. Juni 2016 (OS 72, 324; ABl 2016-07-15). In Kraft seit 1. Januar 2018. 1. 1. 18 - 99 13
+[^41-1]: Bezeichnung gemäss RRB vom 29. Juni 2016 (OS 72, 324; ABl 2016-07-15). In Kraft seit 1. Januar 2018.
 
 #### § 42
 
@@ -556,7 +551,7 @@ Können sich die Gemeinden hinsichtlich Inhalt oder Verfahren nicht einigen, ent
 
 ### V. Übergangsrecht
 
-[^hVÜbergangsrecht-1]: Bezeichnung gemäss RRB vom 29. Juni 2016 (OS 72, 324; ABl 2016-07-15). In Kraft seit 1. Januar 2018. 1. 1. 18 - 99 13
+[^hVÜbergangsrecht-1]: Bezeichnung gemäss RRB vom 29. Juni 2016 (OS 72, 324; ABl 2016-07-15). In Kraft seit 1. Januar 2018.
 
 #### § 46
 
