@@ -4,13 +4,13 @@ number: "153.41"
 title: Gesetz über die kantonalen Pensionskassen
 short: PKG
 language: de
-version: 2015-01-01
-valid_until: 2026-05-31
-version_adopted: 2014-05-18
+version: 2026-06-01
+valid_until: 2026-08-31
+version_adopted: 2025-09-09
 adopted: 2014-05-18
 in_force: 2014-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/153.41"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/95/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3347/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/95/pdf_file"
 
 (PKG)
 
-vom 18.05.2014 (Stand 01.01.2015)
+vom 18.05.2014 (Stand 01.06.2026)
 
 Der Grosse Rat des Kantons Bern,
 
@@ -100,9 +100,11 @@ beschliesst:
 
 #### Art. 6
 
-**Wechsel bei Auflösung der Anschlussverträge**
+**Auflösung des Anschlussvertrags oder Änderung des gesetzlichen Anschlusses**
 
-<sup>1</sup> Ein Anschlussvertrag kann nur aufgelöst werden, wenn neben den Versicherten auch die Rentenbezügerinnen und Rentenbezüger des mit Vertrag angeschlossenen Arbeitgebers die BPK bzw. die BLVK verlassen. Vorbehalten bleiben die bundesrechtlichen Bestimmungen über die Auflösung bei Zahlungsunfähigkeit des Arbeitgebers.
+<sup>1</sup> Ein Anschlussvertrag gemäss Artikel 4 Absatz 2 bzw. Artikel 5 Absatz 2 kann nur aufgelöst werden, wenn neben den Versicherten auch die Rentenbezügerinnen und Rentenbezüger des mit Vertrag angeschlossenen Arbeitgebers die BPK bzw. die BLVK verlassen. Vorbehalten bleiben die bundesrechtlichen Bestimmungen über die Auflösung bei Zahlungsunfähigkeit des Arbeitgebers.
+
+<sup>2</sup> Wird ein Anschluss gemäss Artikel 4 Absatz 1 bzw. Artikel 5 Absatz 1 aufgelöst oder verlässt eine Organisationseinheit eines gemäss Artikel 4 Absatz 1 bzw. Artikel 5 Absatz 1 angeschlossenen Arbeitgebers die BPK bzw. die BLVK, so verlassen neben den Versicherten auch die Rentenbezügerinnen und Rentenbezüger des Arbeitgebers bzw. der austretenden Organisationeinheit die BPK bzw. die BLVK. Vorbehalten bleiben zwingende Vorschriften des Bundesrechts.
 
 ## 3 Vorsorgepläne
 
@@ -308,7 +310,7 @@ beschliesst:
 - d bis zu 4 Prozent des versicherten Lohns, wenn die Deckungsgrade zu Beginn der Sanierung zwischen 5 und 10 Prozentpunkten unter den Vorgaben liegen,
 - e bis zu 2 Prozent des versicherten Lohns, wenn die Deckungsgrade zu Beginn der Sanierung zwischen 1 und 5 Prozentpunkten unter den Vorgaben liegen.
 
-<sup>4</sup> Der Anteil der Arbeitgeberseite an den Massnahmen zur Sanierung beträgt 50 Prozent. Allfällige Verzinsungen der Sparguthaben unter dem bundesrechtlichen Mindestzinssatz gelten als Anteil der Arbeitnehmerseite an den Massnahmen zur Sanierung.
+<sup>4</sup> Die aktiv Versicherten haben gleich hohe Sanierungslasten wie die Arbeitgeber zur Sanierung zu tragen. Allfällige Verzinsungen der Sparguthaben unter dem bundesrechtlichen Mindestzinssatz gelten als Anteil der Arbeitnehmerseite an den Massnahmen zur Sanierung.
 
 #### Art. 25
 
@@ -319,6 +321,12 @@ beschliesst:
 <sup>2</sup> Sie beschliesst periodisch, spätestens aber bei einer Erhöhung oder Senkung der Sanierungsbeiträge.
 
 <sup>3</sup> Die BPK oder die BLVK stellen Antrag und begründen ihn. Die zuständige kantonale Behörde kann vom Antrag abweichen.
+
+### 4.4 Massnahmen zur Behebung der Unterdeckung im System der Vollkapitalisierung
+
+#### Art. 25a
+
+<sup>1</sup> Richtet sich die Finanzierung der BPK oder der BLVK nach dem System der Vollkapitalisierung, gelten die Artikel 24 und 25 für die Massnahmen zur Behebung der Unterdeckung sinngemäss.
 
 ## 5 Organisation
 
@@ -463,6 +471,8 @@ beschliesst:
 <sup>1</sup> Der Regierungsrat erlässt ein Anforderungsprofil für die Arbeitgebervertretung in der Verwaltungskommission.
 
 <sup>2</sup> Er wählt die Vertreterinnen und Vertreter der Arbeitgeber in die Verwaltungskommissionen.
+
+<sup>3</sup> Als Vertreterinnen und Vertreter der nach diesem Gesetz angeschlossenen Arbeitgeber können nur Personen gewählt werden, die nicht selbst in der jeweiligen Pensionskasse versichert sind.
 
 ## 9 Rechtspflege
 

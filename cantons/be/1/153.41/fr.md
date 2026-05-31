@@ -4,13 +4,13 @@ number: "153.41"
 title: Loi sur les caisses de pension cantonales
 short: LCPC
 language: fr
-version: 2015-01-01
-valid_until: 2026-05-31
-version_adopted: 2014-05-18
+version: 2026-06-01
+valid_until: 2026-08-31
+version_adopted: 2025-09-09
 adopted: 2014-05-18
 in_force: 2014-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/153.41"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/95/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3347/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/95/pdf_file"
 
 (LCPC)
 
-du 18.05.2014 (état au 01.01.2015)
+du 18.05.2014 (état au 01.06.2026)
 
 Le Grand Conseil du canton de Berne,
 
@@ -100,9 +100,11 @@ arrête:
 
 #### Art. 6
 
-**Transfert en cas de résiliation du contrat d’affiliation**
+**Résiliation du contrat d’affiliation ou modification de l'affiliation légale**
 
-<sup>1</sup> Un contrat d’affiliation ne peut être résilié que si les bénéficiaires de rente quittent la CPB ou la CACEB en même temps que les personnes assurées de l’employeur affilié contractuellement. Sont réservées les dispositions du droit fédéral relatives à la résiliation du contrat d’affiliation pour cause d’insolvabilité de l’employeur.
+<sup>1</sup> Un contrat d’affiliation au sens de l'article 4, alinéa 2 ou de l'article 5, alinéa 2 ne peut être résilié que si les bénéficiaires de rente quittent la CPB ou la CACEB en même temps que les personnes assurées de l’employeur affilié contractuellement. Sont réservées les dispositions du droit fédéral relatives à la résiliation du contrat d’affiliation pour cause d’insolvabilité de l’employeur.
+
+<sup>2</sup> En cas de résiliation d'une affiliation au sens de l'article 4, alinéa 1 ou de l'article 5, alinéa 1, ou si une unité administrative d'un des employeurs affiliés en vertu de ces deux dispositions quitte la CPB ou la CACEB, alors les bénéficiaires de rente de cet employeur ou de cette unité administrative quittent respectivement la CPB ou la CACEB, en même temps que les personnes assurées. Sont réservées les prescriptions impératives du droit fédéral.
 
 ## 3 Plans de prévoyance
 
@@ -308,7 +310,7 @@ arrête:
 - d jusqu’à 4 pour cent du salaire assuré lorsque le degré de couverture au début de l’assainissement est inférieur de 5 à 10 points de pourcentage au degré de couverture imposé;
 - e jusqu’à 2 pour cent du salaire assuré lorsque le degré de couverture au début de l’assainissement est inférieur de 1 à 5 points de pourcentage au degré de couverture imposé.
 
-<sup>4</sup> Les employeurs prennent à leur charge 50 pour cent des mesures d’assainissement. Si les avoirs d’épargne sont rémunérés à un taux inférieur au taux minimal fixé par la législation fédérale, la différence de rémunération est réputée constituer une participation des salariés aux mesures d’assainissement.
+<sup>4</sup> La part des salariés dans les mesures d'assainissement est égale à celle des employeurs. Si les avoirs d’épargne sont rémunérés à un taux inférieur au taux minimal fixé par la législation fédérale, la différence de rémunération est réputée constituer une participation des salariés aux mesures d’assainissement.
 
 #### Art. 25
 
@@ -319,6 +321,12 @@ arrête:
 <sup>2</sup> Elle statue périodiquement en la matière, mais au plus tard lors d’une hausse ou d’une baisse des cotisations d’assainissement.
 
 <sup>3</sup> La CPB et la CACEB présentent chacune une proposition motivée. L’autorité cantonale compétente peut s’écarter de la proposition présentée.
+
+### 4.4 Mesures de comblement d'un déficit de couverture dans le système de capitalisation complète
+
+#### Art. 25a
+
+<sup>1</sup> Si la CPB ou la CACEB est financée selon le système de capitalisation complète, les articles 24 et 25 s'appliquent par analogie pour les mesures visant à combler un déficit de couverture.
 
 ## 5 Organisation
 
@@ -463,6 +471,8 @@ arrête:
 <sup>1</sup> Le Conseil-exécutif établit le profil requis des représentants et des représentantes des employeurs à la commission administrative.
 
 <sup>2</sup> Il nomme les représentants et les représentantes des employeurs à la commission administrative.
+
+<sup>3</sup> Les personnes nommées pour représenter les employeurs affiliés en vertu de la présente loi ne peuvent pas être elles-mêmes assurées à la caisse de pension concernée.
 
 ## 9 Voies de droit
 
