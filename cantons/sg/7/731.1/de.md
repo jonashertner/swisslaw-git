@@ -5,11 +5,12 @@ title: Planungs- und Baugesetz
 short: PBG
 language: de
 version: 2026-06-01
+corrected: 2026-05-07
 version_adopted: 2026-04-28
 adopted: 2016-07-05
 in_force: 2017-10-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/731.1"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3910/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3906/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -22,13 +23,13 @@ vom 05.07.2016 (Stand 01.06.2026)
 
 Der Kantonsrat des Kantons St.Gallen
 
-hat von der Botschaft der Regierung vom 11. August 2015[^ingress-1] Kenntnis genommen und
+hat von der Botschaft der Regierung vom 30. Juni 2015[^ingress-1] Kenntnis genommen und
 
 erlässt
 
 als Gesetz:[^ingress-2]
 
-[^ingress-1]: ABl 2015, 2399 ff. Im ursprünglichen Erlasstext war fälschlicherweise der 30. Juni 2015 als Beschlussdatum der Regierung aufgeführt. Dieses Versehen wurde am 7. Mai 2026 formlos berichtigt.
+[^ingress-1]: ABl 2015, 2399 ff.
 [^ingress-2]: Abgekürzt PBG. Vom Kantonsrat erlassen am 27. April 2016; nach unbenützter Referendumsfrist rechtsgültig geworden am 5.Juli 2016; in Vollzug ab 1. Oktober 2017.
 
 ## A. Raumplanung
