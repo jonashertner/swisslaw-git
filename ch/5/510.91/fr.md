@@ -4,22 +4,22 @@ title: Loi fédérale du 3 octobre 2008 sur les systèmes d’information de l�
 short: LSIA
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/823"
 language: fr
-version: 2026-01-01
+version: 2026-06-01
 adopted: 2008-10-03
 in_force: 2010-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/823/20260101/fr/xml/fedlex-data-admin-ch-eli-cc-2009-823-20260101-fr-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/823/20260101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/823/20260601/fr/xml/fedlex-data-admin-ch-eli-cc-2009-823-20260601-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/823/20260601/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
-# Loi fédérale sur les systèmes d’information de l’armée et du DDPS<sup>∗</sup>
+# Loi fédérale sur les systèmes d’information de l’armée et du DDPS\*
 
 (LSIA)[^t-2][^t-1]
 
-du 3 octobre 2008 (État le 1<sup>er</sup> janvier 2026)
+du 3 octobre 2008 (État le 1<sup>er</sup> juin 2026)
 
-[^t-1]: <sup>∗</sup> Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
+[^t-1]: \* Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
 [^t-2]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 
 L’Assemblée fédérale de la Confédération suisse,
@@ -111,17 +111,24 @@ Les organes responsables en vertu de la présente loi peuvent traiter, à des fi
 Les organes responsables désignés par la présente loi peuvent effectuer un profilage, y compris un profilage à risque élevé, pour analyser, évaluer, apprécier ou prédire les aspects personnels ci-après relatifs à une personne physique aux fins désignées ci-après:
 
 - a. aptitude et capacité à accomplir du service militaire et du service de protection civile, y compris les conditions déterminantes correspondantes: traitement des données comme indiqué à l’art. 13, let. b à d;
-- b. aptitude à exercer des fonctions, à effectuer des activités et à réaliser des travaux, y compris les conditions déterminantes correspondantes: traitement des données comme indiqué aux art. 13, let. b à d, et 143*b*, let. d et e;
-- c. profil de prestations et performances, notamment dans les domaines de la santé, de l’aptitude physique, de l’intelligence, de la personnalité, du psychisme, du comportement social et de l’attitude au volant: traitement des données comme indiqué aux art 13, let. b à d, et 143*b*, let. d et e;
-- d. connaissances, compétences, capacités et prestations fournies: traitement des données comme indiqué aux art. 13, let. b à d, 127, let. d et e, 143*b*, let. d. et e, et 143*h*;
+- b.[^2b-2] aptitude et capacité à exercer des fonctions, à effectuer des activités et à réaliser des travaux, y compris les conditions déterminantes correspondantes: pour les buts définis aux art. 13, let. b à d, 143*b*, let. d et e, et 179*t*;
+- c.[^2b-3] profil de prestations, capacité de performance et résistance, notamment dans les domaines de la santé, de l’aptitude physique, de l’intelligence, de la personnalité, du psychisme, du comportement social et de l’attitude au volant: pour les buts définis aux art. 13, let. b à d, 143*b*, let. d et e, et 179*t*;
+- c<sup>bis</sup>.[^2b-4] aptitudes et santé sur les plans physique et psychique: pour les buts définis à l’art. 179*t*;
+- d.[^2b-5] connaissances, compétences, capacités et prestations physiques et psychiques fournies: pour les buts définis aux art. 13, let. b à d, 127, let. d et e, 143*b*, let. d et e, 143*h* et 179*t*;
 - e. comportement d’apprentissage et progression: traitement des données comme indiqué à l’art. 127, let. a à c;
 - f. potentiel de cadre et possibilités de développement: traitement des données comme indiqué à l’art. 13, let. b à d et m;
 - g. intérêt personnel porté au service militaire et au service de protection civile, à l’embauche, à la formation (instruction) et au perfectionnement: traitement des données comme indiqué aux art. 13, let. b à d et m, 127, let. b, et 143*b*, let. a, d et e;
-- h.[^2b-2] risque pour la sécurité, ainsi que potentiel d’abus et de dangerosité en ce qui concerne l’arme personnelle: traitement des données comme indiqué à l’art. 13, let. l;
+- g<sup>bis</sup>.[^2b-6] habitudes en matière de sport, de mouvement, d’alimentation et de loisirs, y compris intérêts personnels à cet égard: pour les buts définis à l’art. 179*t*;
+- h.[^2b-7] risque pour la sécurité, ainsi que potentiel d’abus et de dangerosité en ce qui concerne l’arme personnelle: traitement des données comme indiqué à l’art. 13, let. l;
 - i. aspects personnels supplémentaires permettant de parvenir à d’autres fins de traitement des données, si la personne concernée y consent.
 
 [^2b-1]: Introduit par le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
-[^2b-2]: Nouvelle teneur selon l’annexe ch. 2 de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117), [650](https://fedlex.data.admin.ch/eli/oc/2023/650); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
+[^2b-2]: Nouvelle teneur selon l’annexe ch. 2 de la LF du 19 déc. 2025, en vigueur depuis le 1<sup>er</sup> juin 2026 ([RO 2026 164](https://fedlex.data.admin.ch/eli/oc/2026/164); [FF 2025 960](https://fedlex.data.admin.ch/eli/fga/2025/960)).
+[^2b-3]: Nouvelle teneur selon l’annexe ch. 2 de la LF du 19 déc. 2025, en vigueur depuis le 1<sup>er</sup> juin 2026 ([RO 2026 164](https://fedlex.data.admin.ch/eli/oc/2026/164); [FF 2025 960](https://fedlex.data.admin.ch/eli/fga/2025/960)).
+[^2b-4]: Introduite par l’annexe ch. 2 de la LF du 19 déc. 2025, en vigueur depuis le 1<sup>er</sup> juin 2026 ([RO 2026 164](https://fedlex.data.admin.ch/eli/oc/2026/164); [FF 2025 960](https://fedlex.data.admin.ch/eli/fga/2025/960)).
+[^2b-5]: Nouvelle teneur selon l’annexe ch. 2 de la LF du 19 déc. 2025, en vigueur depuis le 1<sup>er</sup> juin 2026 ([RO 2026 164](https://fedlex.data.admin.ch/eli/oc/2026/164); [FF 2025 960](https://fedlex.data.admin.ch/eli/fga/2025/960)).
+[^2b-6]: Introduite par l’annexe ch. 2 de la LF du 19 déc. 2025, en vigueur depuis le 1<sup>er</sup> juin 2026 ([RO 2026 164](https://fedlex.data.admin.ch/eli/oc/2026/164); [FF 2025 960](https://fedlex.data.admin.ch/eli/fga/2025/960)).
+[^2b-7]: Nouvelle teneur selon l’annexe ch. 2 de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117), [650](https://fedlex.data.admin.ch/eli/oc/2023/650); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 
 #### Art. 3
 
@@ -439,14 +446,14 @@ Le Groupement Défense ainsi que les services fédéraux et cantonaux chargés d
 Le Groupement Défense communique les données ci-après aux services et personnes suivants:[^16-16]
 
 - a. les associations militaires et les sociétés de tir: l’adresse, le grade et l’incorporation des personnes astreintes au service militaire, pour le recrutement de membres ou la souscription d’abonnements, ainsi que pour les activités hors du service;
-- b. les médias: le nom, le grade et l’incorporation en cas de promotion ou de nomination;
-- c.[^16-17] le service fédéral qui gère le casier judiciaire informatique VOSTRA: l’identité des personnes devant être annoncées aux termes de l’art. 59 de la loi du 17 juin 2016 sur le casier judiciaire[^16-18];
+- b.[^16-17] …
+- c.[^16-18] le service fédéral qui gère le casier judiciaire informatique VOSTRA: l’identité des personnes devant être annoncées aux termes de l’art. 59 de la loi du 17 juin 2016 sur le casier judiciaire[^16-19];
 - d. le service compétent chargé du marquage des uniformes et du matériel personnel: le nom et le prénom, ainsi que, pour le matériel personnel, le numéro AVS;
-- e.[^16-19] l’Office central des armes et les autorités cantonales compétentes: la décision attestant l’existence de motifs qui s’opposent à la remise d’une arme personnelle ou justifient sa reprise préventive ou son retrait.
+- e.[^16-20] l’Office central des armes et les autorités cantonales compétentes: la décision attestant l’existence de motifs qui s’opposent à la remise d’une arme personnelle ou justifient sa reprise préventive ou son retrait.
 
-<sup>3bis</sup> La communication des données visées à l’al. 3, let. e, à la banque de données visée à l’art. 32*a*, al. 1, let. d, de la loi du 20 juin 1997 sur les armes (LArm)[^16-20] est effectuée par le Système d’information pour la gestion intégrée des ressources (PSN).[^16-21]
+<sup>3bis</sup> La communication des données visées à l’al. 3, let. e, à la banque de données visée à l’art. 32*a*, al. 1, let. d, de la loi du 20 juin 1997 sur les armes (LArm)[^16-21] est effectuée par le Système d’information pour la gestion intégrée des ressources (PSN).[^16-22]
 
-<sup>4</sup> Les militaires peuvent faire interdire en tout temps la communication des données visées à l’al. 3, let. a et b, en déposant une déclaration écrite auprès du Groupement Défense.[^16-22]
+<sup>4</sup> Les militaires peuvent faire interdire en tout temps la communication des données visées à l’al. 3, let. a et b, en déposant une déclaration écrite auprès du Groupement Défense.[^16-23]
 
 [^16-1]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 [^16-2]: Introduit par le ch. I de la LF du 18 mars 2016 ([RO 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [FF 2014 6693](https://fedlex.data.admin.ch/eli/fga/2014/1566)). Nouvelle teneur selon le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
@@ -464,12 +471,13 @@ Le Groupement Défense communique les données ci-après aux services et personn
 [^16-14]: Abrogée par le ch. I de la LF du 18 mars 2016, avec effet au 1<sup>er</sup> janv. 2017 ([RO 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [FF 2014 6693](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
 [^16-15]: Nouvelle teneur selon le ch. I 12 de l’O du 12 juin 2020 sur l’adaptation de lois à la suite de la modification de la désignation de l’Administration fédérale des douanes dans le cadre du développement de cette dernière, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
 [^16-16]: Nouvelle teneur selon l’annexe 2 ch. 4 de la L du 17 juin 2016 sur le casier judiciaire, en vigueur depuis le 23 janv. 2023 ([RO 2022 600](https://fedlex.data.admin.ch/eli/oc/2022/600); [FF 2014 5525](https://fedlex.data.admin.ch/eli/fga/2014/1229)).
-[^16-17]: Nouvelle teneur selon l’annexe 2 ch. 4 de la L du 17 juin 2016 sur le casier judiciaire, en vigueur depuis le 23 janv. 2023 ([RO 2022 600](https://fedlex.data.admin.ch/eli/oc/2022/600); [FF 2014 5525](https://fedlex.data.admin.ch/eli/fga/2014/1229)).
-[^16-18]: [RS 330](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6257)
-[^16-19]: Introduite par le ch. I 4 de la LF du 25 sept. 2015 concernant l’amélioration de l’échange d’informations entre les autorités au sujet des armes, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2016 1831](https://fedlex.data.admin.ch/eli/oc/2016/326); [FF 2014 289](https://fedlex.data.admin.ch/eli/fga/2014/67)).
-[^16-20]: [RS 514.54](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7530)
-[^16-21]: Introduit par le ch. I 4 de la LF du 25 sept. 2015 concernant l’amélioration de l’échange d’informations entre les autorités au sujet des armes, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2016 1831](https://fedlex.data.admin.ch/eli/oc/2016/326); [FF 2014 289](https://fedlex.data.admin.ch/eli/fga/2014/67)).
-[^16-22]: Nouvelle teneur selon le ch. I de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [FF 2014 6693](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
+[^16-17]: Abrogée par l’annexe ch. 2 de la LF du 19 déc. 2025, avec effet au 1<sup>er</sup> juin 2026 ([RO 2026 164](https://fedlex.data.admin.ch/eli/oc/2026/164); [FF 2025 960](https://fedlex.data.admin.ch/eli/fga/2025/960)).
+[^16-18]: Nouvelle teneur selon l’annexe 2 ch. 4 de la L du 17 juin 2016 sur le casier judiciaire, en vigueur depuis le 23 janv. 2023 ([RO 2022 600](https://fedlex.data.admin.ch/eli/oc/2022/600); [FF 2014 5525](https://fedlex.data.admin.ch/eli/fga/2014/1229)).
+[^16-19]: [RS 330](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6257)
+[^16-20]: Introduite par le ch. I 4 de la LF du 25 sept. 2015 concernant l’amélioration de l’échange d’informations entre les autorités au sujet des armes, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2016 1831](https://fedlex.data.admin.ch/eli/oc/2016/326); [FF 2014 289](https://fedlex.data.admin.ch/eli/fga/2014/67)).
+[^16-21]: [RS 514.54](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7530)
+[^16-22]: Introduit par le ch. I 4 de la LF du 25 sept. 2015 concernant l’amélioration de l’échange d’informations entre les autorités au sujet des armes, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2016 1831](https://fedlex.data.admin.ch/eli/oc/2016/326); [FF 2014 289](https://fedlex.data.admin.ch/eli/fga/2014/67)).
+[^16-23]: Nouvelle teneur selon le ch. I de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [FF 2014 6693](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
 
 #### Art. 17
 
@@ -493,7 +501,7 @@ Les données du SIPA relatives à des infractions, des décisions ou des mesures
 
 <sup>4bis</sup> Les données relatives à la reprise préventive et au retrait de l’arme personnelle ou de l’arme en prêt et aux circonstances qui ont conduit à cette décision sont conservées 20 ans à compter de la libération des obligations militaires.[^17-5]
 
-<sup>4ter</sup> Les données visées à l’art. 14, al. 1, let. a<sup>bis</sup>, qui sont également des données sanitaires visées à l’art. 26, al. 2, sont conservées jusqu’à leur communication au Système d’information médicale de l’armée (MEDISA), mais une semaine au plus à compter de la fin du recrutement.[^17-6]
+<sup>4ter</sup> Les données visées à l’art. 14, al. 1, let. a<sup>bis</sup>, qui sont également des données sanitaires visées à l’art. 26, al. 2, sont conservées jusqu’à leur communication au Système d’information médicale de l’armée (MEDISA), mais un mois au plus à compter de la fin du recrutement.[^17-6]
 
 <sup>4quater</sup> Les données visées à l’art. 14, al. 4, sont conservées cinq ans au plus à compter de la fin de la prise en charge.[^17-7]
 
@@ -504,7 +512,7 @@ Les données du SIPA relatives à des infractions, des décisions ou des mesures
 [^17-3]: Introduite par le ch. I de la LF du 18 mars 2016 ([RO 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [FF 2014 6693](https://fedlex.data.admin.ch/eli/fga/2014/1566)). Nouvelle teneur selon le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 [^17-4]: [RS 520.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7590)
 [^17-5]: Introduit par le ch. II de la LF du 23 déc. 2011 ([RO 2012 4551](https://fedlex.data.admin.ch/eli/oc/2012/544)[6775](https://fedlex.data.admin.ch/eli/oc/2012/818); [FF 2011 4217](https://fedlex.data.admin.ch/eli/fga/2011/715)). Nouvelle teneur selon le ch. I de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [FF 2014 6693](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
-[^17-6]: Introduit par le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
+[^17-6]: Introduit par le ch. I de la LF du 17 juin 2022 ([RO 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)). Nouvelle teneur selon l’annexe ch. 2 de la LF du 19 déc. 2025, en vigueur depuis le 1<sup>er</sup> juin 2026 ([RO 2026 164](https://fedlex.data.admin.ch/eli/oc/2026/164); [FF 2025 960](https://fedlex.data.admin.ch/eli/fga/2025/960)).
 [^17-7]: Introduit par le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 [^17-8]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 
@@ -524,7 +532,7 @@ Le Groupement Défense exploite le Système d’information pour la gestion de d
 
 **But**
 
-Dans le SIGEDOS, les personnes astreintes au service militaire, y compris les conscrits, le personnel retenu pour accomplir un engagement de promotion de la paix, les civils qui sont pris en charge par la troupe ou qui participent à un engagement de l’armée de durée déterminée et les personnes astreintes au service de protection civile peuvent:
+Dans le SIGEDOS, les personnes astreintes au service militaire, le personnel retenu pour accomplir un engagement de promotion de la paix, les civils qui sont pris en charge par la troupe ou qui participent à un engagement de l’armée de durée déterminée, les personnes exerçant une activité de soutien en faveur de l’armée ou du personnel pour la promotion de la paix, les personnes astreintes à servir dans la protection civile et les tiers intéressés ayant atteint l’âge de 15 ans peuvent:[^17b-1]
 
 - a. consulter et mettre à jour les données les concernant et en établir des extraits;
 - b.
@@ -538,13 +546,15 @@ Dans le SIGEDOS, les personnes astreintes au service militaire, y compris les co
 
 - c. répondre à des sondages.
 
+[^17b-1]: Nouvelle teneur selon l’annexe ch. 2 de la LF du 19 déc. 2025, en vigueur depuis le 1<sup>er</sup> juin 2026 ([RO 2026 164](https://fedlex.data.admin.ch/eli/oc/2026/164); [FF 2025 960](https://fedlex.data.admin.ch/eli/fga/2025/960)).
+
 #### Art. 17c
 
 **Données**
 
 <sup>1</sup>
 
-Le SIGEDOS contient les données ci-après sur les personnes astreintes au service militaire, y compris les conscrits, le personnel retenu pour accomplir un engagement de promotion de la paix et les civils qui sont pris en charge par la troupe ou qui participent à un engagement de l’armée de durée déterminée:
+Le SIGEDOS contient les données ci-après sur les personnes astreintes au service militaire, le personnel retenu pour accomplir un engagement de promotion de la paix, les civils qui sont pris en charge par la troupe ou qui participent à un engagement de l’armée de durée déterminée, les personnes exerçant une activité de soutien en faveur de l’armée ou du personnel pour la promotion de la paix:[^17c-1]
 
 - a. l’identité, le numéro AVS, une photo, la profession, les coordonnées financières, les coordonnées de contact, les coordonnées des tiers à contacter en cas d’urgence communiquées par les personnes concernées;
 - b. le statut militaire et l’admission au service civil;
@@ -591,6 +601,11 @@ Il contient les données ci-après sur les personnes astreintes à servir dans l
 - m. les décisions relatives aux demandes, requêtes et annonces présentées par la personne concernée;
 - n. les informations issues des sondages effectués.
 
+<sup>3</sup> Il peut aussi contenir les données visées aux al. 1 et 2 des tiers intéressés qui ont atteint l’âge de 15 ans et consenti au traitement de leurs données.[^17c-2]
+
+[^17c-1]: Nouvelle teneur selon l’annexe ch. 2 de la LF du 19 déc. 2025, en vigueur depuis le 1<sup>er</sup> juin 2026 ([RO 2026 164](https://fedlex.data.admin.ch/eli/oc/2026/164); [FF 2025 960](https://fedlex.data.admin.ch/eli/fga/2025/960)).
+[^17c-2]: Introduit par l’annexe ch. 2 de la LF du 19 déc. 2025, en vigueur depuis le 1<sup>er</sup> juin 2026 ([RO 2026 164](https://fedlex.data.admin.ch/eli/oc/2026/164); [FF 2025 960](https://fedlex.data.admin.ch/eli/fga/2025/960)).
+
 #### Art. 17d
 
 **Collecte des données**
@@ -616,7 +631,7 @@ Le Groupement Défense collecte les données destinées au SIGEDOS:
 
 **Communication des données**
 
-<sup>1</sup> Le Groupement Défense donne accès en ligne aux données contenues dans le SIGEDOS les concernant aux personnes astreintes au service militaire, y compris aux conscrits, au personnel retenu pour accomplir un engagement de promotion de la paix, aux civils qui sont pris en charge par la troupe ou qui participent à un engagement de l’armée de durée limitée et aux personnes astreintes au service de protection civile.
+<sup>1</sup> Le Groupement Défense donne accès en ligne aux données contenues dans le SIGEDOS les concernant aux personnes visées à l’art. 17*b*.[^17e-1]
 
 <sup>2</sup>
 
@@ -625,11 +640,17 @@ Il donne accès en ligne ou par transmission électronique aux données ci-aprè
 - a. requêtes, demandes, annonces, commandes de matériel, messages et documents qui leur sont adressés;
 - b. données issues des sondages effectués.
 
+[^17e-1]: Nouvelle teneur selon l’annexe ch. 2 de la LF du 19 déc. 2025, en vigueur depuis le 1<sup>er</sup> juin 2026 ([RO 2026 164](https://fedlex.data.admin.ch/eli/oc/2026/164); [FF 2025 960](https://fedlex.data.admin.ch/eli/fga/2025/960)).
+
 #### Art. 17f
 
-**Conservation des données**
+**Conservation des données**[^17f-1]
 
-Les données du SIGEDOS sont conservées pendant cinq ans au plus à compter de la libération de l’obligation de servir dans l’armée ou dans la protection civile, de la fin des rapports de travail, de la prise en charge ou de l’engagement.
+<sup>1</sup> Les données du SIGEDOS sont conservées pendant cinq ans au plus à compter de la libération de l’obligation de servir dans l’armée ou dans la protection civile, de la fin des rapports de travail, de la prise en charge, de l’engagement ou de l’exercice d’une activité de soutien, pour autant que la personne concernée ne demande pas un délai de conservation plus long et qu’il ne soit pas donné suite à cette demande.
+
+<sup>2</sup> Les données du SIGEDOS concernant des tiers intéressés qui ont atteint l’âge de 15 ans et qui n’appartiennent à aucun groupe de personnes visé à l’art. 17*c*, al. 1 et 2, sont détruites à leur demande ou au plus tard deux ans après leur dernière activité.
+
+[^17f-1]: Nouvelle teneur selon l’annexe ch. 2 de la LF du 19 déc. 2025, en vigueur depuis le 1<sup>er</sup> juin 2026 ([RO 2026 164](https://fedlex.data.admin.ch/eli/oc/2026/164); [FF 2025 960](https://fedlex.data.admin.ch/eli/fga/2025/960)).
 
 ### Section 2 …
 
@@ -725,24 +746,25 @@ Le Groupement Défense donne accès en ligne aux données du MEDISA aux services
 - b. les médecins responsables de l’examen de l’aptitude au service et de l’aptitude à faire du service ainsi que des traitements médicaux, de même que leur personnel auxiliaire;
 - c.[^28-2] les spécialistes du SPP responsables de la prise en charge psychologique des militaires;
 - d. les médecins chargés des examens de l’Institut de médecine aéronautique et leur personnel auxiliaire;
-- e.[^28-3] l’assurance militaire, lorsque ces données sont nécessaires au traitement des cas d’assurance.
+- e.[^28-3] l’assurance militaire, lorsque ces données sont nécessaires au traitement des cas d’assurance;
+- f.[^28-4] les psychologues des centres de recrutement de l’armée responsables de l’évaluation psychologique des conscrits et des militaires.
 
 <sup>2</sup>
 
 Il communique les données sanitaires aux services et personnes suivants:
 
-- a.[^28-4] les médecins et établissements médicaux civils chargés du traitement de patients ou d’expertises médicales, pour autant que la personne concernée y ait consenti par écrit ou qu’il s’agisse d’une urgence;
+- a.[^28-5] les médecins et établissements médicaux civils chargés du traitement de patients ou d’expertises médicales, pour autant que la personne concernée y ait consenti par écrit ou qu’il s’agisse d’une urgence;
 - b. les tribunaux civils et militaires et les autorités de recours agissant dans le cadre de procédures judiciaires ou administratives, pour autant que la procédure prévoie que les médecins ont l’obligation de donner des renseignements;
-- c. les autorités fédérales et cantonales chargées de la perception de la taxe d’exemption, lorsque ces données sont nécessaires à l’exonération de la taxe prévue à l’art. 4, al. 1, let. b, de la loi fédérale du 12 juin 1959 sur la taxe d’exemption de l’obligation de servir[^28-5];
-- d.[^28-6] …
-- e. les médecins mandatés par le CIVI, lorsque ces données sont nécessaires aux examens et mesures prévus à l’art. 33 de la loi fédérale du 6 octobre 1995 sur le service civil[^28-7];
-- f.[^28-8] l’Office central des armes et les autorités cantonales compétentes: les raisons médicales empêchant la remise d’une arme personnelle ou justifiant sa reprise, sa reprise préventive ou son retrait.
+- c. les autorités fédérales et cantonales chargées de la perception de la taxe d’exemption, lorsque ces données sont nécessaires à l’exonération de la taxe prévue à l’art. 4, al. 1, let. b, de la loi fédérale du 12 juin 1959 sur la taxe d’exemption de l’obligation de servir[^28-6];
+- d.[^28-7] …
+- e. les médecins mandatés par le CIVI, lorsque ces données sont nécessaires aux examens et mesures prévus à l’art. 33 de la loi fédérale du 6 octobre 1995 sur le service civil[^28-8];
+- f.[^28-9] l’Office central des armes et les autorités cantonales compétentes: les raisons médicales empêchant la remise d’une arme personnelle ou justifiant sa reprise, sa reprise préventive ou son retrait.
 
-<sup>2bis</sup> La communication des données visées à l’al. 2, let. f, à la banque de données visée à l’art. 32*a*, al. 1, let. d, LArm[^28-9] est effectuée par le PSN.[^28-10]
+<sup>2bis</sup> La communication des données visées à l’al. 2, let. f, à la banque de données visée à l’art. 32*a*, al. 1, let. d, LArm[^28-10] est effectuée par le PSN.[^28-11]
 
 <sup>3</sup>
 
-Le Groupement Défense communique aux services et autorités ci-après les décisions concernant l’aptitude au service militaire ou au service de protection civile:[^28-11]
+Le Groupement Défense communique aux services et autorités ci-après les décisions concernant l’aptitude au service militaire ou au service de protection civile:[^28-12]
 
 - a. les services fédéraux et cantonaux chargés de la perception de la taxe d’exemption de l’obligation de servir;
 - b. les autorités et commandements militaires chargés des contrôles militaires et de l’instruction;
@@ -758,14 +780,15 @@ Il communique au CIVI:
 [^28-1]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 [^28-2]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 [^28-3]: Introduite par le ch. I de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [FF 2014 6693](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
-[^28-4]: Nouvelle teneur selon l’annexe ch. 4 de la LF du 18 mars 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [FF 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
-[^28-5]: [RS 661](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8232)
-[^28-6]: Abrogée par le ch. I de la LF du 18 mars 2016, avec effet au 1<sup>er</sup> janv. 2017 ([RO 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [FF 2014 6693](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
-[^28-7]: [RS 824.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9978)
-[^28-8]: Introduite par le ch. I 4 de la LF du 25 sept. 2015 concernant l’amélioration de l’échange d’informations entre les autorités au sujet des armes, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2016 1831](https://fedlex.data.admin.ch/eli/oc/2016/326); [FF 2014 289](https://fedlex.data.admin.ch/eli/fga/2014/67)).
-[^28-9]: [RS 514.54](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7530)
-[^28-10]: Introduit par le ch. I 4 de la LF du 25 sept. 2015 concernant l’amélioration de l’échange d’informations entre les autorités au sujet des armes, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2016 1831](https://fedlex.data.admin.ch/eli/oc/2016/326); [FF 2014 289](https://fedlex.data.admin.ch/eli/fga/2014/67)).
-[^28-11]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
+[^28-4]: Introduite par l’annexe ch. 2 de la LF du 19 déc. 2025, en vigueur depuis le 1<sup>er</sup> juin 2026 ([RO 2026 164](https://fedlex.data.admin.ch/eli/oc/2026/164); [FF 2025 960](https://fedlex.data.admin.ch/eli/fga/2025/960)).
+[^28-5]: Nouvelle teneur selon l’annexe ch. 4 de la LF du 18 mars 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [FF 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
+[^28-6]: [RS 661](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8232)
+[^28-7]: Abrogée par le ch. I de la LF du 18 mars 2016, avec effet au 1<sup>er</sup> janv. 2017 ([RO 2016 4307](https://fedlex.data.admin.ch/eli/oc/2016/715); [FF 2014 6693](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
+[^28-8]: [RS 824.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9978)
+[^28-9]: Introduite par le ch. I 4 de la LF du 25 sept. 2015 concernant l’amélioration de l’échange d’informations entre les autorités au sujet des armes, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2016 1831](https://fedlex.data.admin.ch/eli/oc/2016/326); [FF 2014 289](https://fedlex.data.admin.ch/eli/fga/2014/67)).
+[^28-10]: [RS 514.54](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7530)
+[^28-11]: Introduit par le ch. I 4 de la LF du 25 sept. 2015 concernant l’amélioration de l’échange d’informations entre les autorités au sujet des armes, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2016 1831](https://fedlex.data.admin.ch/eli/oc/2016/326); [FF 2014 289](https://fedlex.data.admin.ch/eli/fga/2014/67)).
+[^28-12]: Nouvelle teneur selon le ch. I de la LF du 17 juin 2022, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 117](https://fedlex.data.admin.ch/eli/oc/2023/117); [FF 2021 3046](https://fedlex.data.admin.ch/eli/fga/2021/3046)).
 
 #### Art. 29
 
@@ -2958,6 +2981,105 @@ Les données du MDM sont conservées après la fin des rapports d’affaires ave
 - b. 50 ans, pour les données visées à l’art. 179*o*, let. p.
 
 <sup>2</sup> S’il est établi qu’une personne n’est pas un partenaire, ses données sont conservées deux ans.
+
+### Section 6 Système d’information pour le sport
+
+[^chap6-sec6-1]
+
+[^chap6-sec6-1]: Introduite par l’annexe ch. 2 de la LF du 19 déc. 2025, en vigueur depuis le 1<sup>er</sup> juin 2026 ([RO 2026 164](https://fedlex.data.admin.ch/eli/oc/2026/164); [FF 2025 960](https://fedlex.data.admin.ch/eli/fga/2025/960)).
+
+#### Art. 179s
+
+**Organe responsable**
+
+Le Groupement Défense exploite le Système d’information pour le sport (ISport).
+
+#### Art. 179t
+
+**But**
+
+L’ISport sert:
+
+- a.
+
+  à recueillir, à évaluer, à surveiller, à prédire et à mettre à disposition les données relatives aux aptitudes, à la capacité de performance, à la résistance et à la santé des:
+
+  - 1\. conscrits,
+  - 2\. militaires,
+  - 3\. collaborateurs du Groupement Défense;
+
+- b. à maintenir et à améliorer les aptitudes, la capacité de performance, la résistance et la santé des personnes visées à la let. a;
+- c. à détecter à un stade précoce si l’état de santé des personnes visées à la let. a est critique;
+- d. à prévenir les accidents, les blessures et les atteintes à la santé des personnes visées à la let. a.
+
+#### Art. 179u
+
+**Données**
+
+L’ISport contient les données suivantes des conscrits, des militaires et des collaborateurs du Groupement Défense ayant expressément donné leur accord au traitement de leurs données dans l’ISport:
+
+- a. identité;
+- b. incorporation, grade, fonction et services accomplis dans l’armée;
+- c. données relatives aux aptitudes, performances, résistance et santé sur les plans physique et psychique;
+- d. données anthropométriques telles que mensurations, poids, indice de masse corporelle ou tour de taille;
+- e. fréquence cardiaque et variabilité de la fréquence cardiaque;
+- f. données sur l’accélération lors d’activités physiques;
+- g. données sur les marqueurs biochimiques;
+- h. température corporelle centrale, température de la peau, flux thermique;
+- i. saturation en oxygène;
+- j. schéma langagier;
+- k. données de géolocalisation;
+- l. qualité du sommeil;
+- m. degré d’effort physique et psychique ressenti, état d’épuisement, fatigue et stress;
+- n. données sur la nutrition.
+
+#### Art. 179v
+
+**Collecte des données**
+
+Le Groupement Défense collecte les données destinées à être versées à l’ISport:
+
+- a. auprès de la personne concernée, la collecte pouvant s’effectuer de manière automatisée par des appareils de mesure techniques installés durablement, placés parfois sur le corps;
+- b. auprès de l’armée et de l’administration militaire;
+- c.
+
+  à partir des systèmes d’information suivants:
+
+  - 1\. SIPA,
+  - 2\. SIGEDOS,
+  - 3\. MEDISA,
+  - 4\. MEDIS FA,
+  - 5\. SI IDD.
+
+#### Art. 179w
+
+**Communication des données**
+
+Le Groupement Défense communique les données de l’ISport par accès en ligne, par une interface automatisée ou d’une autre manière:
+
+- a. aux services et personnes de l’armée et de l’administration militaire chargés des tâches visées à l’art. 179*t*;
+- b. aux commandements militaires et aux unités administratives du Groupement Défense responsables de la personne concernée, pour l’accomplissement de leurs tâches légales ou contractuelles;
+- c. à d’autres services et personnes de l’administration fédérale, lorsque ces données sont nécessaires à l’accomplissement de leurs tâches légales ou contractuelles;
+- d. à la personne concernée, pour la consultation de ses données et pour leur traitement;
+- e.
+
+  aux systèmes d’information suivants, si les données peuvent y être enregistrées:
+
+  - 1\. SIPA,
+  - 2\. SIGEDOS,
+  - 3\. MEDISA,
+  - 4\. MEDIS FA,
+  - 5\. SI IDD,
+  - 6\. systèmes d’information de l’OFSPO,
+  - 7\. systèmes d’information d’armasuisse Science et Technologies.
+
+#### Art. 179x
+
+**Conservation des données**
+
+<sup>1</sup> Les données de l’ISport sont conservées cinq ans après leur dernière mise à jour.
+
+<sup>2</sup> Si la personne concernée révoque son consentement au traitement de ses données dans l’ISport, celles-ci sont détruites dans un délai d’un mois.
 
 ## Chapitre 7 Moyens de surveillance
 
