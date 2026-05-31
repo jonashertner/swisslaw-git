@@ -4,11 +4,10 @@ number: "321.4"
 title: Verordnung über psychiatrische und psychologische Gutachten in Straf- und Zivilverfahren (PPGV)
 short: PPGV
 language: de
-version: "2019-03-01"
-nachtrag: "104"
-valid_until: 2026-06-01
+version: "2026-06-01"
+nachtrag: "133"
 adopted: 2010-09-01
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-321_4-2010_09_01-2011_03_01-104.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-321_4-2010_09_01-2011_03_01-133.html"
 text: pdf
 ---
 
@@ -55,7 +54,7 @@ Die Verordnung gilt für psychiatrische und psychologische Gutachten, die im Auf
 
 **1**
 
-- 1\. 4. 19 - 104
+- 1\. 7. 26 - 133
 
 [^2-1]: Fassung gemäss RRB vom 26. November 2014 und Beschluss des Obergerichts vom 3. Dezember 2014 (OS 70, 9; ABl 2014-12-12). In Kraft seit 1. April 2015.
 [^2-2]: SR 311.0.
@@ -70,7 +69,7 @@ Die Verordnung gilt für psychiatrische und psychologische Gutachten, die im Auf
 
 - b. einer Vertretung der Direktion der Justiz und des Innern,
 
-- c. einer Vertretung der Strafverfolgungsbehörden, d.[^3-1] einer Vertretung des Geschäftsfeldes Medizin der Gesundheitsdirektion, e.[^3-1] einer Vertretung des Amtes für Justizvollzug,
+- c. einer Vertretung der Strafverfolgungsbehörden, d.[^3-1] einer Vertretung des Amtes für Gesundheit, e.[^3-2] einer Vertretung des Amtes für Justizvollzug,
 
 - f. einer Vertretung des Institutes für Rechtsmedizin der Universität Zürich,
 
@@ -86,7 +85,8 @@ Die Verordnung gilt für psychiatrische und psychologische Gutachten, die im Auf
 
 <sup>4</sup> Eine Vertreterin oder ein Vertreter des Obergerichts führt den Vorsitz. Im Übrigen konstituiert sich die Fachkommission selbst.
 
-[^3-1]: Fassung gemäss RRB vom 24. Oktober 2018 und Beschluss des Obergerichts vom 5. Dezember 2018 (OS 74, 92; ABl 2018-11-02). In Kraft seit 1. März 2019.
+[^3-1]: Fassung gemäss RRB vom 19. November 2025 und Beschluss des Obergerichts vom 4. März 2026 (OS 81, 135; ABl 2026-03-20). In Kraft seit 1. Juni 2026.
+[^3-2]: Fassung gemäss RRB vom 24. Oktober 2018 und Beschluss des Obergerichts vom 5. Dezember 2018 (OS 74, 92; ABl 2018-11-02). In Kraft seit 1. März 2019.
 
 #### § 4
 
@@ -168,7 +168,7 @@ Die Mitglieder der Kommission unterstehen dem Amtsgeheimnis im Sinne von § 51 d
 
 **3**
 
-- 1\. 4. 19 - 104
+- 1\. 7. 26 - 133
 
 - b. Gutachten zur Beurteilung der Glaubhaftigkeit von Aussagen im Straf- und Zivilverfahren,
 
@@ -176,24 +176,25 @@ Die Mitglieder der Kommission unterstehen dem Amtsgeheimnis im Sinne von § 51 d
 
 <sup>3</sup> Die Eintragung kann innerhalb einer Art von Gutachten beschränkt werden.
 
-[^10-1]: SR 311.0.
-[^10-2]: Fassung gemäss RRB vom 26. November 2014 und Beschluss des Obergerichts vom 3. Dezember 2014 (OS 70, 9; ABl 2014-12-12). In Kraft seit 1. April 2015.
-
-#### § 11
-
 **Eintragungsvoraussetzungen a. Grundsatz**
 
-<sup>1</sup> Die Eintragung in das Sachverständigenverzeichnis setzt voraus, dass die einzutragende Person[^10-2] a. über einen eidgenössischen oder eidgenössisch anerkannten ausländischen Facharzttitel für Psychiatrie und Psychotherapie verfügt und b. eine Berufsausübungsbewilligung innehat oder einer Institution gemäss § 15 angehört.
+§ 11.[^10-2] <sup>1</sup> Die Eintragung in das Sachverständigenverzeichnis setzt bei Ärztinnen und Ärzten voraus, dass die einzutragende Person a. über einen eidgenössischen oder eidgenössisch anerkannten ausländischen Facharzttitel für Psychiatrie und Psychotherapie verfügt und b. eine Berufsausübungsbewilligung innehat oder einer Institution gemäss § 15 angehört.
 
-<sup>2</sup> Die einzutragende Person muss ausserdem über einen guten Leumund und die persönliche Eignung zur Sachverständigentätigkeit verfügen und ausreichende Erfahrung in der gutachterlichen Tätigkeit nachweisen.
+<sup>2</sup> Die Eintragung setzt bei Psychologinnen und Psychologen voraus, dass die einzutragende Person a. im Psychologieberuferegister als Inhaberin oder Inhaber einer Bewilligung zur Ausübung der Psychotherapie eingetragen ist und b. über das Zertifikat der Schweizerischen Gesellschaft für Forensische Psychiatrie (SGFP) «Forensische Psychologie SGFP» mit Schwerpunkt «Begutachtung im Strafrecht SGFP» verfügt.
 
-<sup>3</sup> Über ausreichende Erfahrung verfügt, wer zehn Gutachten erstellt hat, die den Richtlinien der Fachkommission und den Anforderungen der forensischen Lehre entsprechen.
+<sup>3</sup> Die einzutragende Person muss ausserdem über einen guten Leumund und die persönliche Eignung zur Sachverständigentätigkeit verfügen und ausreichende Erfahrung in der gutachterlichen Tätigkeit nachweisen.
 
-**b. Gutachten gemäss § 10 Abs. 2 lit. a**
+<sup>4</sup> Über ausreichende Erfahrung verfügt, wer zehn Gutachten erstellt hat, die den Richtlinien der Fachkommission und den Anforderungen der forensischen Lehre entsprechen.
 
-§ 12.[^11-1] <sup>1</sup> Die Eintragung in das Sachverständigenverzeichnis für die Erstellung von Gutachten gemäss § 10 Abs. 2 lit. a setzt zusätzlich zu den Voraussetzungen gemäss § 11 voraus, dass die einzutragende Person a. in leitender Stellung in der forensischen Psychiatrie tätig ist oder über mindestens zehn Jahre Berufserfahrung in diesem Bereich verfügt,
+**b. Ausnahme betreffend fürsorgerische Unterbringung**
 
-- b. über besondere forensische Qualifikationen verfügt, wie insbesondere das Zertifikat «Forensische Psychiatrie SGFP» der Schweizerischen Gesellschaft für Forensische Psychiatrie (SGFP), das Diploma of Advanced Studies in Forensic Science (DAS) «Forensic Risk Assessment» oder «Forensic Expert Assessment» der Universität Zürich oder gleichwertige von der Fachkommission anerkannte Qualifikationen,
+§ 11 a.[^10-3] Die Eintragung in das Sachverständigenverzeichnis für die Erstellung von Gutachten zur gerichtlichen Beurteilung der fürsorgerischen Unterbringung gemäss § 2 lit. d ist Fachärztinnen und Fachärzten gemäss § 11 Abs. 1 vorbehalten.
+
+**c. Gutachten zur Beurteilung komplexer Problemstellungen oder Risiken (§ 10 Abs. 2 lit. a)**
+
+§ 12.[^10-2] <sup>1</sup> Die Eintragung in das Sachverständigenverzeichnis für die Erstellung von Gutachten zur Beurteilung komplexer Problemstellungen oder Risiken setzt zusätzlich zu den Voraussetzungen gemäss § 11 voraus, dass die einzutragende Person a. in leitender Stellung in der forensischen Psychiatrie oder forensischen Psychologie tätig ist oder über mindestens zehn Jahre Berufserfahrung in diesen Bereichen verfügt,
+
+- b. über besondere forensische Qualifikationen verfügt, wie insbesondere den FMH-Schwerpunkt «Forensische Psychiatrie und Psychotherapie» (Zertifikat «Forensische Psychiatrie SGFP») oder das Zertifikat «Forensische Psychologie SGFP» mit Schwerpunkt «Begutachtung im Strafrecht SGFP», oder gleichwertige von der Fachkommission anerkannte Qualifikationen,
 
 - c. mindestens fünf Gutachten im Sinne von § 10 Abs. 2 lit. a verfasst hat und
 
@@ -203,15 +204,13 @@ Die Mitglieder der Kommission unterstehen dem Amtsgeheimnis im Sinne von § 51 d
 
 <sup>3</sup> Eingetragene Sachverständige ohne ausreichende Berufserfahrung gemäss Abs. 1 lit. a, die aus ihrer leitenden Stellung ausscheiden, können der Fachkommission schriftlich die Aufrechterhaltung des Eintrags beantragen. Die Fachkommission legt im Einzelfall fest, welche Erfahrungs- und Eignungsnachweise zu erbringen sind, und entscheidet über die Aufrechterhaltung der Eintragung.
 
-**c. Gutachten gemäss § 10 Abs. 2 lit. b**
+**d. Gutachten zur Beurteilung der Glaubhaftigkeit von Aussagen (§ 10 Abs. 2 lit. b)**
 
-§ 12 a.[^11-2] <sup>1</sup> Die Eintragung in das Sachverständigenverzeichnis für die Erstellung von Gutachten gemäss § 10 Abs. 2 lit. b setzt zusätzlich zu den gemäss § 11 genannten Voraussetzungen voraus, dass die einzutragende Person eine anerkannte Ausbildung in Aussagepsychologie abgeschlossen hat.
+§ 12 a.[^10-2] Die Eintragung in das Sachverständigenverzeichnis für die Erstellung von Gutachten zur Beurteilung der Glaubhaftigkeit von Aussagen setzt für Fachärztinnen und Fachärzte gemäss § 11 Abs. 1 und für Psychologinnen und Psychologen gemäss § 11 Abs. 2 lit. a zusätzlich zu den Anforderungen gemäss § 11 Abs. 3 und 4 voraus, dass die einzutragende Person eine anerkannte Ausbildung in Aussagepsychologie abgeschlossen hat.
 
-<sup>2</sup> Für die Erstellung von Gutachten gemäss § 10 Abs. 2 lit. b können auch Psychologinnen und Psychologen in das Sachverständigenverzeichnis eingetragen werden, wenn sie gemäss § 25 Abs. 1 und 2 des Gesundheitsgesetzes vom 2. April 2007[^11-3] über eine Bewilligung des Kantons Zürich zur Ausübung der Psychotherapie in eigener fachlicher Verantwortung verfügen bzw. ohne Bewilligung dazu berechtigt sind.
-
-[^11-1]: Fassung gemäss RRB vom 26. November 2014 und Beschluss des Obergerichts vom 3. Dezember 2014 (OS 70, 9; ABl 2014-12-12). In Kraft seit 1. April 2015.
-[^11-2]: Eingefügt durch RRB vom 26. November 2014 und Beschluss des Obergerichts vom 3. Dezember 2014 (OS 70, 9; ABl 2014-12-12). In Kraft seit 1. April 2015.
-[^11-3]: LS 810.1.
+[^10-1]: SR 311.0.
+[^10-2]: Fassung gemäss RRB vom 19. November 2025 und Beschluss des Obergerichts vom 4. März 2026 (OS 81, 135; ABl 2026-03-20). In Kraft seit 1. Juni 2026.
+[^10-3]: Eingefügt durch RRB vom 19. November 2025 und Beschluss des Obergerichts vom 4. März 2026 (OS 81, 135; ABl 2026-03-20). In Kraft seit 1. Juni 2026.
 
 #### § 13
 
@@ -223,15 +222,19 @@ Die Mitglieder der Kommission unterstehen dem Amtsgeheimnis im Sinne von § 51 d
 
 <sup>3</sup> Kandidatinnen und Kandidaten führen Sachverständigenaufträge unter Aufsicht aus. Sie weisen bei der Auftragsannahme auf die Aufsichtsperson hin.
 
+**5**
+
+- 1\. 7. 26 - 133
+
 <sup>4</sup> Dauert die Aufsicht länger als drei Jahre, ist ein Wechsel der Aufsichtsperson vorzunehmen.
 
 <sup>5</sup> Die Fachkommission kann im Einzelfall auf die Kandidatur verzichten oder die Zahl der erforderlichen Gutachten herabsetzen. Dies gilt insbesondere, wenn die besonderen Voraussetzungen im Sinne von § 12 Abs. 1 lit. b nachgewiesen sind.
 
-**5**
-
-- 1\. 4. 19 - 104 § 14. <sup>1</sup> Wer in das Sachverständigenverzeichnis eingetragen werden will, stellt einen schriftlichen Antrag, unter Beilage der von der Fachkommission bezeichneten Unterlagen. Der Antrag kann auf die Sachverständigentätigkeit für bestimmte Fachgebiete oder Aufgabenstellungen beschränkt werden.
+#### § 14
 
 **Eintragung a. Verfahren**
+
+<sup>1</sup> Wer in das Sachverständigenverzeichnis eingetragen werden will, stellt einen schriftlichen Antrag, unter Beilage der von der Fachkommission bezeichneten Unterlagen. Der Antrag kann auf die Sachverständigentätigkeit für bestimmte Fachgebiete oder Aufgabenstellungen beschränkt werden.
 
 <sup>2</sup> Die einzutragende Person erklärt schriftlich, dass sie a. mit Abklärungen zu ihrem Leumund und ihrer Eignung einverstanden ist,
 
@@ -243,13 +246,13 @@ Die Mitglieder der Kommission unterstehen dem Amtsgeheimnis im Sinne von § 51 d
 
 <sup>4</sup> Das Verfahren vor der Fachkommission ist kostenlos.
 
-[^13-1]: Fassung gemäss RRB vom 26. November 2014 und Beschluss des Obergerichts vom 3. Dezember 2014 (OS 70, 9; ABl 2014-12-12). In Kraft seit 1. April 2015.
+[^14-1]: Fassung gemäss RRB vom 19. November 2025 und Beschluss des Obergerichts vom 4. März 2026 (OS 81, 135; ABl 2026-03-20). In Kraft seit 1. Juni 2026.
 
 #### § 15
 
 **b. Angehörige von Institutionen**
 
-<sup>1</sup> Chefärztinnen und Chefärzte, leitende Ärztinnen und Ärzte, hauptamtlich im forensisch-psychiatrischen Bereich tätige Oberärztinnen und Oberärzte der psychiatrischen Kliniken und Polikliniken im Kanton Zürich gemäss der Zürcher Spitalliste Psychiatrie können auf Antrag unabhängig vom formellen Nachweis der Voraussetzungen gemäss § 11 Abs. 2 und 3 in das Sachverständigenverzeichnis eingetragen werden, wenn sie sich zur Übernahme entsprechender Gutachtensaufträge bereit erklären.[^13-1]
+<sup>1</sup> Chefärztinnen und Chefärzte, leitende Ärztinnen und Ärzte, hauptamtlich im forensisch-psychiatrischen Bereich tätige Oberärztinnen und Oberärzte und in entsprechenden Funktionen tätige Psychologinnen und Psychologen der psychiatrischen Kliniken und Polikliniken im Kanton Zürich gemäss der Zürcher Spitalliste Psychiatrie können auf Antrag unabhängig vom formellen Nachweis der Voraussetzungen gemäss § 11 Abs. 3 und 4 in das Sachverständigenverzeichnis eingetragen werden, wenn sie sich zur Übernahme entsprechender Gutachtensaufträge bereit erklären.[^14-1]
 
 <sup>2</sup> Für die Eintragung in das Sachverständigenverzeichnis gemäss § 10 Abs. 2 lit. a und b müssen sie alle Voraussetzungen gemäss §§ 11– 12 a nachweisen.[^15-1]
 
@@ -305,11 +308,11 @@ Die Eintragung enthält folgende Angaben zur Person:
 
 - b. wiederholt Gutachtensaufträge nicht zu den vereinbarten Bedingungen erstellte oder unter ihrer Aufsicht erstellen liess.
 
-#### § 19
+**7**
+
+- 1\. 7. 26 - 133 § 19. <sup>1</sup> Bestehen begründete Zweifel an der fachlichen oder persönlichen Eignung einer im Sachverständigenverzeichnis eingetragenen Person, meldet das öffentliche Organ dies der Fachkommission.
 
 **Beanstandungen a. Meldung bei der Fachkommission**
-
-<sup>1</sup> Bestehen begründete Zweifel an der fachlichen oder persönlichen Eignung einer im Sachverständigenverzeichnis eingetragenen Person, meldet das öffentliche Organ dies der Fachkommission.
 
 <sup>2</sup> Genügt ein Gutachten den Anforderungen der Richtlinien oder der Lehre nicht, stellt das öffentliche Organ der Fachkommission eine Kopie zu.
 
@@ -318,10 +321,6 @@ Die Eintragung enthält folgende Angaben zur Person:
 **b. Abklärungen**
 
 <sup>1</sup> Die Fachkommission prüft beanstandete Gutachten, klärt ihr mitgeteilte Sachverhalte ab und lädt die betroffene Person zur Stellungnahme ein. Sie kann entsprechende Abklärungen auch von sich aus veranlassen.
-
-**7**
-
-- 1\. 4. 19 - 104
 
 <sup>2</sup> Sie ist berechtigt, bei den öffentlichen Organen Kopien von Gutachten anzufordern. Steht die fachliche Eignung einer Person infrage, kann die Fachkommission aussenstehende Fachpersonen beiziehen.
 
@@ -407,13 +406,13 @@ Gegen Entscheide der Fachkommission oder deren Ausschüsse ist der Rekurs nach �
 
 Für die Entschädigung der sachverständigen Person findet die Entschädigungsverordnung der obersten Gerichte vom 11. Juni 2002[^27-1] Anwendung.
 
+**9**
+
+- 1\. 7. 26 - 133
+
 ### E. Gutachten des Instituts für Rechtsmedizin der Universität Zürich
 
 § 29.[^hEGutachtendesIns-1] Den Mitarbeitenden des Instituts für Rechtsmedizin, die über einen Facharzttitel für Psychiatrie und Psychotherapie verfügen, können unabhängig von deren Eintragung im Sachverständigenverzeichnis Aufträge für Gutachten gemäss § 10 Abs. 2 lit. c erteilt werden.
-
-**9**
-
-- 1\. 4. 19 - 104
 
 [^hEGutachtendesIns-1]: Fassung gemäss RRB vom 26. November 2014 und Beschluss des Obergerichts vom 3. Dezember 2014 (OS 70, 9; ABl 2014-12-12). In Kraft seit 1. April 2015.
 
@@ -427,4 +426,6 @@ Für die Entschädigung der sachverständigen Person findet die Entschädigungsv
 
 ## Weitere Fussnoten
 
+- [9] LS 810.1.
 - [11] Fassung gemäss RRB vom 5. Februar 2014 und Beschluss des Obergerichts vom 5. März 2014 (OS 69, 185; ABl 2014-02-14). In Kraft seit 1. Mai 2014.
+- [12] Eingefügt durch RRB vom 26. November 2014 und Beschluss des Obergerichts vom 3. Dezember 2014 (OS 70, 9; ABl 2014-12-12). In Kraft seit 1. April 2015.
