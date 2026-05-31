@@ -4,11 +4,11 @@ title: "Ordonnance 1 du 11 août 1999 sur l'asile relative à la procédure (Ord
 short: OA 1
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/359"
 language: fr
-version: 2026-01-01
+version: 2026-06-01
 adopted: 1999-08-11
 in_force: 1999-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/359/20260101/fr/xml/fedlex-data-admin-ch-eli-cc-1999-359-20260101-fr-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/359/20260101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/359/20260601/fr/xml/fedlex-data-admin-ch-eli-cc-1999-359-20260601-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/359/20260601/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1999/359/20260101/fr"
 
 (Ordonnance 1 sur l’asile, OA 1)
 
-du 11 août 1999 (État le 1<sup>er</sup> janvier 2026)
+du 11 août 1999 (État le 1<sup>er</sup> juin 2026)
 
 Le Conseil fédéral suisse,
 
@@ -343,12 +343,12 @@ Le SEM peut également autoriser l’entrée en Suisse:
 
 <sup>1</sup> L’autorité compétente pour le contrôle à la frontière communique immédiatement au SEM les demandes d’asile déposées dans un aéroport suisse.
 
-<sup>2</sup> Le Département fédéral de justice et police (DFJP) édicte dans une ordonnance des dispositions concernant l’exploitation des logements situés dans les aéroports, notamment l’utilisation des locaux dans lesquels les requérants d’asile séjournent, l’hébergement, l’occupation des chambres, la possibilité de se promener à l’air libre et la garde des objets appartenant aux requérants d’asile.[^12-2]
+<sup>2</sup> …[^12-2]
 
 <sup>3</sup> Le SEM peut conclure des règlements d’exploitation des logements de la Confédération avec les autorités compétentes des aéroports de Zurich-Kloten et de Genève-Cointrin ou des tiers.
 
 [^12-1]: Nouvelle teneur selon le ch. I de l’O du 24 oct. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5577](https://fedlex.data.admin.ch/eli/oc/2007/767)).
-[^12-2]: Nouvelle teneur selon le ch. I de l’O du 8 juin 2018, en vigueur depuis le 1<sup>er</sup> mars 2019 ([RO 2018 2857](https://fedlex.data.admin.ch/eli/oc/2018/439)).
+[^12-2]: Abrogé par le ch. I de l’O du 6 mai 2026, avec effet au 1<sup>er</sup> juin 2026 ([RO 2026 199](https://fedlex.data.admin.ch/eli/oc/2026/199)).
 
 ### Section 2*a* Centres de la Confédération
 
@@ -404,13 +404,9 @@ Il y a notamment une atteinte sensible au fonctionnement et à la sécurité d�
 
 #### Art. 16
 
-**Exploitation des centres de la Confédération**[^16-1]
+[^16-1]
 
-### (art. 24*b*, al. 2, LAsi)
-
-Le DFJP édicte dans une ordonnance des dispositions concernant l’exploitation des centres de la Confédération, notamment les heures d’ouverture, le droit d’accès, les conditions d’entrée, de séjour et de sortie, la fouille des requérants d’asile et la garde des objets leur appartenant.
-
-[^16-1]: Nouvelle teneur selon le ch. I de l’O du 8 juin 2018, en vigueur depuis le 1<sup>er</sup> mars 2019 ([RO 2018 2857](https://fedlex.data.admin.ch/eli/oc/2018/439)).
+[^16-1]: Abrogé par le ch. I de l’O du 6 mai 2026, avec effet au 1<sup>er</sup> juin 2026 ([RO 2026 199](https://fedlex.data.admin.ch/eli/oc/2026/199)).
 
 #### Art. 16a
 

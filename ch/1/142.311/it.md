@@ -4,11 +4,11 @@ title: "Ordinanza 1 dell' 11 agosto 1999 sull'asilo relativa a questioni procedu
 short: OAsi 1
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/359"
 language: it
-version: 2026-01-01
+version: 2026-06-01
 adopted: 1999-08-11
 in_force: 1999-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/359/20260101/it/xml/fedlex-data-admin-ch-eli-cc-1999-359-20260101-it-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/359/20260101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/359/20260601/it/xml/fedlex-data-admin-ch-eli-cc-1999-359-20260601-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/359/20260601/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1999/359/20260101/it"
 
 (Ordinanza 1 sull’asilo, OAsi 1)
 
-dell’11 agosto 1999 (Stato 1° gennaio 2026)
+dell’11 agosto 1999 (Stato 1° giugno 2026)
 
 Il Consiglio federale svizzero,
 
@@ -350,12 +350,12 @@ La SEM può parimenti autorizzare l’entrata se:
 
 <sup>1</sup> L’autorità competente per il controllo di frontiera comunica senza indugio alla SEM le domande d’asilo presentate in un aeroporto svizzero.
 
-<sup>2</sup> Il Dipartimento federale di giustizia e polizia (DFGP) emana in un’ordinanza disposizioni sulla gestione degli alloggi all’aeroporto, segnatamente il luogo di soggiorno dei richiedenti l’asilo presso l’aeroporto, l’alloggio, le modalità per l’occupazione delle stanze, le passeggiate all’aria aperta e la custodia degli oggetti di queste persone.[^12-2]
+<sup>2</sup> ...[^12-2]
 
 <sup>3</sup> La SEM può concludere con le autorità competenti degli aeroporti di Zurigo-Kloten e Ginevra-Cointrin o con terzi convenzioni relative alla gestione dell’infrastruttura presso l’aeroporto.
 
 [^12-1]: Nuovo testo giusta la cifra I dell’O del 24 ott. 2007, in vigore dal 1° gen. 2008 ([RU 2007 5577](https://fedlex.data.admin.ch/eli/oc/2007/767)).
-[^12-2]: Nuovo testo giusta la cifra I dell’O dell’8 giu. 2018, in vigore dal 1° mar. 2019 ([RU 2018 2857](https://fedlex.data.admin.ch/eli/oc/2018/439)).
+[^12-2]: Abrogato dalla cifra I dell’O del 6 mag. 2026, con effetto dal 1° giu. 2026 ([RU 2026 199](https://fedlex.data.admin.ch/eli/oc/2026/199)).
 
 ### Sezione 2*a*: Centri della Confederazione
 
@@ -411,13 +411,9 @@ Vi è disturbo considerevole dell’esercizio e della sicurezza del centro della
 
 #### Art. 16
 
-**Esercizio dei centri della Confederazione**[^16-1]
+[^16-1]
 
-### (art. 24*b* cpv. 2 LAsi)
-
-Il DFGP emana in un’ordinanza disposizioni sull’esercizio dei centri della Confederazione inerenti segnatamente gli orari di apertura, il diritto d’accesso, le condizioni di entrata, di soggiorno e di uscita, le perquisizioni dei richiedenti l’asilo e la custodia degli oggetti dei richiedenti l’asilo.
-
-[^16-1]: Nuovo testo giusta la cifra I dell’O dell’8 giu. 2018, in vigore dal 1° mar. 2019 ([RU 2018 2857](https://fedlex.data.admin.ch/eli/oc/2018/439)).
+[^16-1]: Abrogato dalla cifra I dell’O del 6 mag. 2026, con effetto dal 1° giu. 2026 ([RU 2026 199](https://fedlex.data.admin.ch/eli/oc/2026/199)).
 
 #### Art. 16a
 

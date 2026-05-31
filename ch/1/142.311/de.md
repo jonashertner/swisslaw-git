@@ -4,11 +4,11 @@ title: "Asylverordnung 1 vom 11. August 1999 über Verfahrensfragen (Asylverordn
 short: AsylV 1
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/359"
 language: de
-version: 2026-01-01
+version: 2026-06-01
 adopted: 1999-08-11
 in_force: 1999-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/359/20260101/de/xml/fedlex-data-admin-ch-eli-cc-1999-359-20260101-de-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/359/20260101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/359/20260601/de/xml/fedlex-data-admin-ch-eli-cc-1999-359-20260601-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/359/20260601/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1999/359/20260101/de"
 
 (Asylverordnung 1, AsylV 1)
 
-vom 11. August 1999 (Stand am 1. Januar 2026)
+vom 11. August 1999 (Stand am 1. Juni 2026)
 
 Der Schweizerische Bundesrat,
 
@@ -346,12 +346,12 @@ Das SEM kann die Einreise auch bewilligen, wenn:
 
 <sup>1</sup> Die für die Grenzkontrolle zuständige Behörde meldet dem SEM unverzüglich Asylgesuche, die in einem schweizerischen Flughafen eingereicht werden.
 
-<sup>2</sup> Das Eidgenössische Justiz- und Polizeidepartement (EJPD) erlässt in einer Verordnung Bestimmungen über den Betrieb von Unterkünften am Flughafen, insbesondere den Ort, an welchem sich die Asylsuchenden am Flughafen aufhalten, die Unterkunft, die Modalitäten der Zimmerbelegung, den Spaziergang im Freien und die Verwahrung von Gegenständen dieser Personen.[^12-2]
+<sup>2</sup> …[^12-2]
 
 <sup>3</sup> Das SEM kann eine Einreise aus humanitären Gründen bewilligen; dies gilt auch dann, wenn die Zuständigkeit der Schweiz für die Durchführung des Asylverfahrens aufgrund der Verordnung (EU) Nr. 604/2013 nicht feststeht.[^12-3]
 
 [^12-1]: Fassung gemäss Ziff. I der V vom 24. Okt. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 5577](https://fedlex.data.admin.ch/eli/oc/2007/767)).
-[^12-2]: Fassung gemäss Ziff. I der V vom 8. Juni 2018, in Kraft seit 1. März 2019 ([AS 2018 2857](https://fedlex.data.admin.ch/eli/oc/2018/439)).
+[^12-2]: Aufgehoben durch Ziff. I der V vom 6. Mai 2026, mit Wirkung seit 1. Juni 2026 ([AS 2026 199](https://fedlex.data.admin.ch/eli/oc/2026/199)).).
 [^12-3]: Fassung gemäss Ziff. I 3 der V vom 12. Juni 2015 über die Anpassung von Verordnungen aufgrund von Neuerungen bezüglich des Dublin/Eurodac-Besitzstands, in Kraft seit 1. Juli 2015 ([AS 2015 1849](https://fedlex.data.admin.ch/eli/oc/2015/358)).
 
 ### 2*a*. Abschnitt: Zentren des Bundes
@@ -408,13 +408,9 @@ Eine erhebliche Störung des Betriebs und der Sicherheit eines Zentrums des Bund
 
 #### Art. 16
 
-**Betrieb der Zentren des Bundes**[^16-1]
+[^16-1]
 
-### (Art. 24*b* Abs. 2 AsylG)
-
-Das EJPD erlässt in einer Verordnung Bestimmungen über den Betrieb der Zentren des Bundes, insbesondere über die Öffnungszeiten, das Zutrittsrecht, die Eintritts-, Aufenthalts- und Austrittsbedingungen, die Durchsuchungen der Asylsuchenden und die Verwahrung von Gegenständen der Asylsuchenden.
-
-[^16-1]: Fassung gemäss Ziff. I der V vom 8. Juni 2018, in Kraft seit 1. März 2019 ([AS 2018 2857](https://fedlex.data.admin.ch/eli/oc/2018/439)).
+[^16-1]: Aufgehoben durch Ziff. I der V vom 6. Mai 2026, mit Wirkung seit 1. Juni 2026 ([AS 2026 199](https://fedlex.data.admin.ch/eli/oc/2026/199)).).
 
 #### Art. 16a
 
