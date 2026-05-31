@@ -3,11 +3,10 @@ canton: ZH
 number: "181.43"
 title: Verordnung über die Aufsicht und die Visitation in den Kirchgemeinden
 language: de
-version: "2020-10-01"
-nachtrag: "110"
-valid_until: 2026-06-01
+version: "2026-06-01"
+nachtrag: "133"
 adopted: 2011-01-26
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-181_43-2011_01_26-2011_07_01-110.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-181_43-2011_01_26-2011_07_01-133.html"
 text: pdf
 ---
 
@@ -42,14 +41,13 @@ beschliesst:
 
 **b. Kirchgemeinschaften und Kirchgemeindeverbände**
 
-§ 2. Als Kirchgemeinden im Sinn dieser Verordnung gelten:
-
-- a. Kirchgemeinschaften im Sinn von Art. 177 Abs. 1 KO,
+§ 2. Als Kirchgemeinden im Sinn dieser Verordnung gelten: a.[^1-3] Kirchgemeinschaften im Sinn von Art. 178 Abs. 1 KO,
 
 - b. Kirchgemeindeverbände, die über einen einheitlichen Steuerfuss und einen zentralen Steuerbezug verfügen.
 
 [^1-1]: LS 180.1.
 [^1-2]: Fassung gemäss B des Kirchenrates vom 29. Januar 2020 (OS 75, 233; ABl 2020- 02-07). In Kraft seit 1. Oktober 2020.
+[^1-3]: Fassung gemäss B des Kirchenrates vom 11. März 2026 (OS 81, 133; ABl 2026- 03-13). In Kraft seit 1. Juni 2026.
 
 #### § 3
 
@@ -63,7 +61,7 @@ Kirchenpflegen, Bezirkskirchenpflegen und Kirchenrat wachen im Rahmen ihrer Zust
 
 **1**
 
-1.10. 20 - 110
+- 1\. 7. 26 - 133
 
 <sup>2</sup> Soweit erforderlich nehmen Kirchenpflege, Bezirkskirchenpflege und Kirchenrat untereinander sowie mit der Dekanin oder dem Dekan und den Präsidentinnen oder Präsidenten des Diakonats-, Kirchenmusik- oder Katechetikkapitels Rücksprache. Kirchenpflege und Bezirkskirchenpflege lassen sich bei Bedarf in ihrem Vorgehen durch den Kirchenrat oder die von diesem bezeichneten Stellen beraten.
 
@@ -111,7 +109,7 @@ Der Kirchenrat stellt den Kirchenpflegen und Bezirkskirchenpflegen Formulare, Vo
 
 <sup>2</sup> Für die Zuständigkeit und die Voraussetzungen gelten die Bestimmungen des Gemeindegesetzes[^8-1] über die Aufsicht sinngemäss.[^8-2]
 
-<sup>3</sup> Aufsichtsrechtliche Anordnungen sind zusätzlich zu den unmittelbar betroffenen Personen, Behörden und Organen zuzustellen:
+<sup>3</sup> Aufsichtsrechtliche Anordnungen sind ausser den unmittelbar betroffenen Personen, Behörden und Organen zuzustellen[^8-3]:
 
 - a. von der Kirchenpflege an die Bezirkskirchenpflege,
 
@@ -127,12 +125,13 @@ Der Kirchenrat stellt den Kirchenpflegen und Bezirkskirchenpflegen Formulare, Vo
 
 - a. die Entlassung aus dem Amt oder Dienst und die Einstellung im Amt oder Dienst gemäss Art. 224 KO,
 
-- b. personalrechtliche Anordnungen gemäss Kirchenordnung[^8-3] und Personalverordnung[^8-4].
+- b. personalrechtliche Anordnungen gemäss Kirchenordnung[^8-4] und Personalverordnung[^8-5].
 
 [^8-1]: LS 131.1.
 [^8-2]: Fassung gemäss B des Kirchenrates vom 29. Januar 2020 (OS 75, 233; ABl 2020- 02-07). In Kraft seit 1. Oktober 2020.
-[^8-3]: LS 181.10.
-[^8-4]: LS 181.40.
+[^8-3]: Fassung gemäss B des Kirchenrates vom 11. März 2026 (OS 81, 133; ABl 2026- 03-13). In Kraft seit 1. Juni 2026.
+[^8-4]: LS 181.10.
+[^8-5]: LS 181.40.
 
 #### § 10
 
@@ -168,22 +167,27 @@ Die Kirchenpflege ist gemäss Art. 164 KO zuständig für die Aufsicht in der Ki
 
 **3**
 
-1.10. 20 - 110 § 13. <sup>1</sup> Die Kirchenpflege und der Gemeindekonvent informieren das gemäss § 15 Abs. 1 zuständige Mitglied der Bezirkskirchenpflege rechtzeitig über kirchliche Veranstaltungen, insbesondere durch die Zustellung des Gottesdienstplans, von Stundenplänen der religionspädagogischen Module und von Veranstaltungsprogrammen.
+- 1\. 7. 26 - 133 § 13.[^12-2] <sup>1</sup> Die Kirchenpflege und der Gemeindekonvent informieren das gemäss § 15 Abs. 1 zuständige Mitglied der Bezirkskirchenpflege rechtzeitig über kirchliche Veranstaltungen, insbesondere durch die Zustellung des Gottesdienstplans, von Stundenplänen der religionspädagogischen Module und von Veranstaltungsprogrammen.
 
 **Information**
 
-<sup>2</sup> Die Kirchenpflege stellt der Bezirkskirchenpflege insbesondere zu: a.[^12-2] bis 30. Juni des auf das Berichtsjahr folgenden Jahres den von der Kirchgemeindeversammlung oder vom Kirchgemeindeparlament entgegengenommenen Jahresbericht, b.[^12-2] bis 30. Juni des auf das Rechnungsjahr folgenden Jahres die Jahresrechnung, einschliesslich der Anträge der Rechnungsprüfungskommission und der diesbezüglichen Beschlüsse der Kirchgemeindeversammlung oder des Kirchgemeindeparlaments, sowie den Bericht zur finanztechnischen Prüfung des Finanzhaushalts und des Rechnungswesens der Kirchgemeinde, c.[^12-2] binnen 30 Tagen nach der Genehmigung durch die Kirchgemeindeversammlung oder das Kirchgemeindeparlament das Budget,
+<sup>2</sup> Die Kirchenpflege stellt der Bezirkskirchenpflege insbesondere zu:
+
+a.[^12-3] bis 30. Juni des auf das Berichtsjahr folgenden Jahres den von der Kirchgemeindeversammlung oder vom Kirchgemeindeparlament entgegengenommenen Jahresbericht, b.[^12-3] bis 30. Juni des auf das Rechnungsjahr folgenden Jahres die Jahresrechnung, einschliesslich der Anträge der Rechnungsprüfungskommission und der diesbezüglichen Beschlüsse der Kirchgemeindeversammlung oder des Kirchgemeindeparlaments, sowie den Bericht zur finanztechnischen Prüfung des Finanzhaushalts und des Rechnungswesens der Kirchgemeinde, c.[^12-3] binnen 30 Tagen nach der Genehmigung durch die Kirchgemeindeversammlung oder das Kirchgemeindeparlament das Budget,
 
 - d. den Stellenplan,
 
 - e. das Gemeindekonzept über die religionspädagogischen Module,
 
-- f. auf Verlangen weitere im Blick auf die Ausübung der Aufsichts- und Visitationstätigkeit erforderliche Unterlagen.
+- f. das Gemeindekonzept Diakonie,
 
-<sup>3</sup> Der Vorstand eines Kirchgemeindeverbands im Sinn von § 2 lit. b informiert die Bezirkskirchenpflege gemäss Abs. 2 lit. a–d und f.
+- g. auf Verlangen weitere im Blick auf die Ausübung der Aufsichts- und Visitationstätigkeit erforderliche Unterlagen.
 
-[^12-1]: Aufgehoben durch B des Kirchenrates vom 29. Januar 2020 (OS 75, 233; ABl 2020-02-07). In Kraft seit 1. Oktober 2020. 1.10. 20 - 110 9
-[^12-2]: Fassung gemäss B des Kirchenrates vom 29. Januar 2020 (OS 75, 233; ABl 2020- 02-07). In Kraft seit 1. Oktober 2020.
+<sup>3</sup> Der Vorstand eines Kirchgemeindeverbands im Sinn von § 2 lit. b informiert die Bezirkskirchenpflege gemäss Abs. 2 lit. a–d und g.
+
+[^12-1]: Aufgehoben durch B des Kirchenrates vom 29. Januar 2020 (OS 75, 233; ABl 2020-02-07). In Kraft seit 1. Oktober 2020.
+[^12-2]: Fassung gemäss B des Kirchenrates vom 11. März 2026 (OS 81, 133; ABl 2026- 03-13). In Kraft seit 1. Juni 2026.
+[^12-3]: Fassung gemäss B des Kirchenrates vom 29. Januar 2020 (OS 75, 233; ABl 2020- 02-07). In Kraft seit 1. Oktober 2020.
 
 ### 3. Abschnitt: Aufsicht und Visitation durch die Bezirkskirchenpflege
 
@@ -225,15 +229,34 @@ Die Kirchenpflege ist gemäss Art. 164 KO zuständig für die Aufsicht in der Ki
 
 <sup>2</sup> Die Bezirkskirchenpflegen reichen dem Kirchenrat zuhanden des Budgets der Zentralkasse jeweils bis Mitte Mai eine Aufstellung des voraussichtlichen Aufwands im Folgejahr ein.[^17-1]
 
-**Vorgehen**
+**Rechtliche Unterstützung**
 
-§ 18. <sup>1</sup> Das gemäss § 15 zuständige Mitglied der Bezirkskirchenpflege nimmt in den ihm zugewiesenen Kirchgemeinden oder in seinem Aufgabenbereich den Auftrag gemäss § 3 wahr. Die Berichterstattung an die Bezirkskirchenpflege richtet sich nach § 22 Abs. 1 und 2.
+§ 17 a.[^17-2] <sup>1</sup> Der Kirchenrat führt zuhanden der Bezirkskirchenpflegen ein Verzeichnis von Personen, die für die Unterstützung gemäss Art. 185 Abs. 3 KO zur Verfügung stehen und von den Gesamtkirchlichen Diensten unabhängig sind.
+
+<sup>2</sup> Die Bezirkskirchenpflegen können bei Bedarf für die Bearbeitung von Rekursen und Aufsichtsbeschwerden sowie von Rechtsfragen die Personen gemäss Abs. 1 beiziehen.
+
+<sup>3</sup> Die Personen gemäss Abs. 1 sind befugt, in Rechtsmittel- und Aufsichtsbeschwerdeverfahren von Bezirkskirchenpflegen mitzuwirken. Sie können insbesondere:
+
+- a. im Namen einer Bezirkskirchenpflege die Verfahrensleitung besorgen,
+
+- b. zuhanden einer Bezirkskirchenpflege Anordnungen vorbereiten,
+
+- c. an der Beschlussfassung einer Bezirkskirchenpflege mit beratender Stimme mitwirken.
+
+<sup>4</sup> Der Kirchenrat regelt die Entschädigung der Personen gemäss Abs. 1 zulasten der Zentralkasse.
+
+**5**
+
+- 1\. 7. 26 - 133 § 18. <sup>1</sup> Das gemäss § 15 zuständige Mitglied der Bezirkskirchenpflege nimmt in den ihm zugewiesenen Kirchgemeinden oder in seinem Aufgabenbereich den Auftrag gemäss § 3 wahr. Die Berichterstattung an die Bezirkskirchenpflege richtet sich nach § 22 Abs. 1 und 2.
+
+**Vorgehen**
 
 <sup>2</sup> Das zuständige Mitglied der Bezirkskirchenpflege verschafft sich in der ihm zugewiesenen Kirchgemeinde oder in seinem Aufgabenbereich im Rahmen von Besuchen und im Gespräch mit Mitgliedern der Kirchenpflege sowie mit Pfarrerinnen, Pfarrern und Angestellten ein Bild über deren Arbeit.
 
 <sup>3</sup> Die Mitglieder der Bezirkskirchenpflege führen eine Besuchskontrolle. Diese wird jeweils Ende Amtsdauer von der Bezirkskirchenpflege archiviert.
 
 [^17-1]: Fassung gemäss B des Kirchenrates vom 29. Januar 2020 (OS 75, 233; ABl 2020- 02-07). In Kraft seit 1. Oktober 2020.
+[^17-2]: Eingefügt durch B des Kirchenrates vom 11. März 2026 (OS 81, 133; ABl 2026- 03-13). In Kraft seit 1. Juni 2026.
 
 #### § 19
 
@@ -247,9 +270,7 @@ Die Kirchenpflege ist gemäss Art. 164 KO zuständig für die Aufsicht in der Ki
 
 - c. pro Amtsdauer je ein Gespräch mit den für die religionspädagogischen Module und für die Diakonie zuständigen Mitgliedern der Kirchenpflege,
 
-**5**
-
-1.10. 20 - 110 d. pro Amtsdauer einmal in Begleitung eines weiteren Mitglieds der Bezirkskirchenpflege eine Visitation der behördlichen Tätigkeit von Kirchenpflege und Rechnungsprüfungskommission, des Verwaltungsbereichs, des Gemeindehaushalts und des Rechnungswesens der Kirchgemeinde sowie des Kirchgemeindearchivs, des Pfarrarchivs und der kirchlichen Register,
+- d. pro Amtsdauer einmal in Begleitung eines weiteren Mitglieds der Bezirkskirchenpflege eine Visitation der behördlichen Tätigkeit von Kirchenpflege und Rechnungsprüfungskommission, des Verwaltungsbereichs, des Gemeindehaushalts und des Rechnungswesens der Kirchgemeinde sowie des Kirchgemeindearchivs, des Pfarrarchivs und der kirchlichen Register,
 
 - e. bei Archivübergaben Visitation des Archivs der Kirchgemeinde beziehungsweise des Pfarrarchivs und der kirchlichen Register,
 
@@ -295,19 +316,15 @@ Die Bezirkskirchenpflege kann zur Beratung aktueller Fragen des Bezirks die Kirc
 
 <sup>3</sup> Die Dekanin oder der Dekan orientiert die Bezirkskirchenpflege über Besuche und Gespräche, die im Rahmen von Art. 192 Abs. 1 lit. b–e KO stattfinden. Soweit die Dekanin oder der Dekan auf Begehren der Bezirkskirchenpflege, auf Anordnung des Kirchenrates oder auf begründetes Gesuch einer Pfarrerin oder eines Pfarrers im Rahmen von Art. 192 Abs. 1 lit. c KO einen schriftlichen Bericht erstellt, erhalten die Pfarrerin oder der Pfarrer, die betreffende Kirchenpflege und die Bezirkskirchenpflege eine Kopie des Berichts. Vorbehalten bleibt in allen Fällen das Berufsgeheimnis gemäss Art. 101 KO.
 
-#### § 23
+**7**
+
+- 1\. 7. 26 - 133 § 23. <sup>1</sup> Die Bezirkskirchenpflegen stellen dem Kirchenrat einzelne Berichte auf dessen Verlangen oder in Verbindung mit besonderen Feststellungen, Orientierungsschreiben und Anordnungen zu, unter gleichzeitiger Mitteilung an die beaufsichtigten und visitierten Personen, Behörden und Organe sowie an die betreffende Kirchenpflege.
 
 **b. An den Kirchenrat**
-
-<sup>1</sup> Die Bezirkskirchenpflegen stellen dem Kirchenrat einzelne Berichte auf dessen Verlangen oder in Verbindung mit besonderen Feststellungen, Orientierungsschreiben und Anordnungen zu, unter gleichzeitiger Mitteilung an die beaufsichtigten und visitierten Personen, Behörden und Organe sowie an die betreffende Kirchenpflege.
 
 <sup>2</sup> Die Bezirkskirchenpflegen erstatten dem Kirchenrat jährlich Bericht über ihre Tätigkeit. Sie weisen dabei insbesondere auf wichtige Feststellungen hin, die sich aus der Aufsichts- und Visitationstätigkeit ergeben. Sie geben dem Kirchenrat im Rahmen ihrer jährlichen Berichterstattung Kenntnis von den Ergebnissen der Prüfung des Finanzhaushalts und des Rechnungswesens der Kirchgemeinden, insbesondere vom Bestand und der Tilgung von Bilanzfehlbeträgen. Der Kirchenrat bestimmt den Zeitpunkt der Einreichung des Jahresberichts.
 
 <sup>3</sup> Die Bezirkskirchenpflegen stellen dem Kirchenrat auf Verlangen weitere Unterlagen zu, die dieser zur Ausübung der Aufsicht und Visitation benötigt.
-
-**7**
-
-1.10. 20 - 110
 
 ### 4. Abschnitt: Aufsicht und Visitation durch den Kirchenrat
 
@@ -364,8 +381,8 @@ Die Bezirkskirchenpflege kann zur Beratung aktueller Fragen des Bezirks die Kirc
 
 Für die Aufsicht und die Visitation sowie für alle beim Inkrafttreten dieser Verordnung laufenden Verfahren gilt ab diesem Zeitpunkt diese Verordnung.
 
-#### § 30
+**9**
 
 **Inkrafttreten**
 
-Diese Verordnung tritt am 1. Juli 2011 in Kraft.
+- 1\. 7. 26 - 133 § 30. Diese Verordnung tritt am 1. Juli 2011 in Kraft.
