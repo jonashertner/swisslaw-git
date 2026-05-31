@@ -4,11 +4,11 @@ title: "Ordonnance du 22 novembre 2017 sur les indemnités de formation pour les
 short: OIFC
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/812"
 language: fr
-version: 2022-11-10
+version: 2026-06-01
 adopted: 2017-11-22
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/812/20221110/fr/xml/fedlex-data-admin-ch-eli-cc-2017-812-20221110-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/812/20221110/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/812/20260601/fr/xml/fedlex-data-admin-ch-eli-cc-2017-812-20260601-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/812/20260601/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/812/20221110/fr"
 
 (OIFC)
 
-du 22 novembre 2017 (État le 10 novembre 2022)
+du 22 novembre 2017 (État le 1<sup>er</sup> juin 2026)
 
 Le Conseil fédéral suisse,
 
@@ -25,7 +25,7 @@ vu l’art. 29*a*, al. 2, de la loi du 3 février 1995 sur l’armée (LAAM)[^in
 
 arrête:
 
-[^ingress-1]: [RS 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
+[^ingress-1]: [RS 510.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7242)
 
 ## Section 1 Indemnités de formation
 
@@ -126,7 +126,7 @@ Le commandement de l’Instruction statue sur les demandes d’indemnités de fo
 
 <sup>1</sup>
 
-Une demande peut être déposée auprès du commandement de l’Instruction:
+Une demande peut être déposée sur papier ou sous forme électronique auprès du commandement de l’instruction:[^6-1]
 
 - a. au plus tard douze mois après que le militaire a suivi intégralement ou partiellement une formation ou un perfectionnement civil au sens de l’art. 4, et
 - b. après que le paiement de la facture est attesté.
@@ -135,7 +135,7 @@ Une demande peut être déposée auprès du commandement de l’Instruction:
 
 Les documents ci-dessous doivent être présentés avec la demande:
 
-- a.[^6-1]
+- a.[^6-2]
 
   l’attestation de formation ou de perfectionnement, y compris:
 
@@ -144,12 +144,18 @@ Les documents ci-dessous doivent être présentés avec la demande:
   - 3\. une déclaration signée par un représentant de l’établissement de formation attestant que la personne concernée a accompli la formation ou le perfectionnement correspondant;
 
 - b. la facture et la preuve du versement;
-- c. le formulaire de demande dûment rempli et signé.
+- c.[^6-3] le formulaire de demande dûment rempli; il doit contenir la signature du requérant ou sa signature électronique qualifiée au sens de la loi du 18 mars 2016 sur la signature électronique[^6-4].
 
-<sup>3</sup> Les demandes qui n’ont pas été suffisamment étayées dans le délai indiqué à l’al. 1, let. a, peuvent être rejetées.[^6-2]
+<sup>2bis</sup> La signature électronique n’est pas requise lorsque l’identification du requérant et l’intégrité de la communication sont assurées de manière adéquate par d’autres moyens.[^6-5]
 
-[^6-1]: Nouvelle teneur selon le ch. I de l’O du 22 avr. 2020, en vigueur depuis le 1<sup>er</sup> juin 2020 ([RO 2020 1549](https://fedlex.data.admin.ch/eli/oc/2020/308)).
-[^6-2]: Erratum du 10 nov. 2022, ne concerne que le texte italien ([RO 2022 664](https://fedlex.data.admin.ch/eli/oc/2022/664)).
+<sup>3</sup> Les demandes qui n’ont pas été suffisamment étayées dans le délai indiqué à l’al. 1, let. a, peuvent être rejetées.[^6-6]
+
+[^6-1]: Nouvelle teneur selon l’annexe ch. 3 de l’O du 1<sup>er</sup> avr. 2026, en vigueur depuis le 1<sup>er</sup> juin 2026 ([RO 2026 174](https://fedlex.data.admin.ch/eli/oc/2026/174)).
+[^6-2]: Nouvelle teneur selon le ch. I de l’O du 22 avr. 2020, en vigueur depuis le 1<sup>er</sup> juin 2020 ([RO 2020 1549](https://fedlex.data.admin.ch/eli/oc/2020/308)).
+[^6-3]: Nouvelle teneur selon l’annexe ch. 3 de l’O du 1<sup>er</sup> avr. 2026, en vigueur depuis le 1<sup>er</sup> juin 2026 ([RO 2026 174](https://fedlex.data.admin.ch/eli/oc/2026/174)).
+[^6-4]: [RS 943.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11301)
+[^6-5]: Introduit par l’annexe ch. 3 de l’O du 1<sup>er</sup> avr. 2026, en vigueur depuis le 1<sup>er</sup> juin 2026 ([RO 2026 174](https://fedlex.data.admin.ch/eli/oc/2026/174)).
+[^6-6]: Erratum du 10 nov. 2022, ne concerne que le texte italien ([RO 2022 664](https://fedlex.data.admin.ch/eli/oc/2022/664)).
 
 #### Art. 7
 

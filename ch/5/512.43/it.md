@@ -4,11 +4,11 @@ title: "Ordinanza del 22 novembre 2017 sul contributo per la formazione per i qu
 short: OCFQE
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/812"
 language: it
-version: 2022-11-10
+version: 2026-06-01
 adopted: 2017-11-22
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/812/20221110/it/xml/fedlex-data-admin-ch-eli-cc-2017-812-20221110-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/812/20221110/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/812/20260601/it/xml/fedlex-data-admin-ch-eli-cc-2017-812-20260601-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/812/20260601/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/812/20221110/it"
 
 (OCFQE)
 
-del 22 novembre 2017 (Stato 10 novembre 2022)
+del 22 novembre 2017 (Stato 1° giugno 2026)
 
 Il Consiglio federale svizzero,
 
@@ -25,7 +25,7 @@ visto l’articolo 29*a* capoverso 2 della legge militare del 3 febbraio 1995[^i
 
 ordina:
 
-[^ingress-1]: [RS 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
+[^ingress-1]: [RS 510.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7242)
 
 ## Sezione 1: Contributo per la formazione
 
@@ -37,7 +37,7 @@ ordina:
 
 <sup>2</sup> Non ne hanno diritto i quadri di milizia che non hanno prestato servizio pratico prima dell’ottenimento del grado secondo l’articolo 2.
 
-[^1-1]: Nuovo testo giusta il n. I dell’O del 22 apr. 2020, in vigore dal 1° giu. 2020 ([RU 2020 1549](https://fedlex.data.admin.ch/eli/oc/2020/308)).
+[^1-1]: Nuovo testo giusta la cifra I dell’O del 22 apr. 2020, in vigore dal 1° giu. 2020 ([RU 2020 1549](https://fedlex.data.admin.ch/eli/oc/2020/308)).
 
 #### Art. 2
 
@@ -74,7 +74,7 @@ ordina:
 
 <sup>5</sup> Nel caso di avanzamenti militari attraverso varie categorie di grado di cui al capoverso 1, gli importi sono addizionati, eccezion fatta nel caso di avanzamenti militari a sergente, furiere, sergente maggiore capo, sergente maggiore e tenente.
 
-[^2-1]: Nuovo testo giusta il n. I dell’O del 22 apr. 2020, in vigore dal 1° giu. 2020 ([RU 2020 1549](https://fedlex.data.admin.ch/eli/oc/2020/308)).
+[^2-1]: Nuovo testo giusta la cifra I dell’O del 22 apr. 2020, in vigore dal 1° giu. 2020 ([RU 2020 1549](https://fedlex.data.admin.ch/eli/oc/2020/308)).
 
 #### Art. 3
 
@@ -110,7 +110,7 @@ Si deroga a tale principio nel caso di:
 
 <sup>2</sup> Il contributo per la formazione serve esclusivamente a finanziare le tasse universitarie, scolastiche, di corsi ed esami.
 
-[^4-1]: Nuovo testo giusta il n. I dell’O del 22 apr. 2020, in vigore dal 1° giu. 2020 ([RU 2020 1549](https://fedlex.data.admin.ch/eli/oc/2020/308)).
+[^4-1]: Nuovo testo giusta la cifra I dell’O del 22 apr. 2020, in vigore dal 1° giu. 2020 ([RU 2020 1549](https://fedlex.data.admin.ch/eli/oc/2020/308)).
 
 ## Sezione 2: Competenza e procedura
 
@@ -126,7 +126,7 @@ Il Comando Istruzione decide in merito alle domande di riscossione di contributi
 
 <sup>1</sup>
 
-Una domanda può essere inoltrata al Comando Istruzione:
+Una domanda può essere inoltrata al Comando Istruzione in forma cartacea o elettronica:[^6-1]
 
 - a. al più tardi 12 mesi dopo che il militare ha frequentato in modo completo o parziale una formazione o una formazione continua in ambito civile di cui all’articolo 4; e
 - b. dopo che è stata prodotta la prova che la fattura è pagata.
@@ -135,7 +135,7 @@ Una domanda può essere inoltrata al Comando Istruzione:
 
 Occorre inoltrare la seguente documentazione:
 
-- a.[^6-1]
+- a.[^6-2]
 
   l’attestato di formazione o di formazione continua, incluse:
 
@@ -144,12 +144,18 @@ Occorre inoltrare la seguente documentazione:
   - 3\. una conferma firmata da un rappresentante dell’istituto di formazione che la persona interessata ha concluso la corrispondente formazione o formazione continua;
 
 - b. la fattura o il relativo giustificativo del pagamento;
-- c. l’apposito modulo debitamente compilato e firmato.
+- c.[^6-3] l’apposito modulo debitamente compilato; questo deve contenere la firma del richiedente o la sua firma elettronica secondo la legge del 18 marzo 2016[^6-4] sulla firma elettronica.
 
-<sup>3</sup> Le domande che non vengono corredate di sufficiente documentazione entro il termine di cui al capoverso 1 lettera a possono essere respinte.[^6-2]
+<sup>2bis</sup> La firma elettronica non è richiesta se l’identificazione del richiedente e l’integrità della comunicazione sono garantite con altri mezzi adeguati.[^6-5]
 
-[^6-1]: Nuovo testo giusta il n. I dell’O del 22 apr. 2020, in vigore dal 1° giu. 2020 ([RU 2020 1549](https://fedlex.data.admin.ch/eli/oc/2020/308)).
-[^6-2]: Correzione del 10 nov. 2022 ([RU 2022 664](https://fedlex.data.admin.ch/eli/oc/2022/664)).
+<sup>3</sup> Le domande che non vengono corredate di sufficiente documentazione entro il termine di cui al capoverso 1 lettera a possono essere respinte.[^6-6]
+
+[^6-1]: Nuovo testo giusta l’all. n. 3 dell’O del 1° apr. 2026, in vigore dal 1° giu. 2026 ([RU 2026 174](https://fedlex.data.admin.ch/eli/oc/2026/174)).
+[^6-2]: Nuovo testo giusta la cifra I dell’O del 22 apr. 2020, in vigore dal 1° giu. 2020 ([RU 2020 1549](https://fedlex.data.admin.ch/eli/oc/2020/308)).
+[^6-3]: Nuovo testo giusta l’all. n. 3 dell’O del 1° apr. 2026, in vigore dal 1° giu. 2026 ([RU 2026 174](https://fedlex.data.admin.ch/eli/oc/2026/174)).
+[^6-4]: [RS 943.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11301)
+[^6-5]: Introdotto dall’all. n. 3 dell’O del 1° apr. 2026, in vigore dal 1° giu. 2026 ([RU 2026 174](https://fedlex.data.admin.ch/eli/oc/2026/174)).
+[^6-6]: Correzione del 10 nov. 2022 ([RU 2022 664](https://fedlex.data.admin.ch/eli/oc/2022/664)).
 
 #### Art. 7
 
@@ -175,7 +181,7 @@ Sussiste un diritto alla concessione di contributi per la formazione per gli ava
 
 Sussiste un diritto alla concessione di contributi per la formazione per gli avanzamenti militari a sottufficiale che sono iniziati al più presto il 1° gennaio 2020 oppure che in tale data non erano ancora conclusi.
 
-[^8a-1]: Introdotto dal n. I dell’O del 22 apr. 2020, in vigore dal 1° giu. 2020 ([RU 2020 1549](https://fedlex.data.admin.ch/eli/oc/2020/308)).
+[^8a-1]: Introdotto dalla cifra I dell’O del 22 apr. 2020, in vigore dal 1° giu. 2020 ([RU 2020 1549](https://fedlex.data.admin.ch/eli/oc/2020/308)).
 
 #### Art. 9
 

@@ -4,11 +4,11 @@ title: Verordnung vom 22. November 2017 über die Ausbildungsgutschrift für Mil
 short: VAK
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/812"
 language: de
-version: 2022-11-10
+version: 2026-06-01
 adopted: 2017-11-22
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/812/20221110/de/xml/fedlex-data-admin-ch-eli-cc-2017-812-20221110-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/812/20221110/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/812/20260601/de/xml/fedlex-data-admin-ch-eli-cc-2017-812-20260601-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/812/20260601/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/812/20221110/de"
 
 (VAK)
 
-vom 22. November 2017 (Stand am 10. November 2022)
+vom 22. November 2017 (Stand am 1. Juni 2026)
 
 Der Schweizerische Bundesrat,
 
@@ -25,7 +25,7 @@ gestützt auf Artikel 29*a* Absatz 2 des Militärgesetzes vom 3. Februar 1995[^i
 
 verordnet:
 
-[^ingress-1]: [SR 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
+[^ingress-1]: [SR 510.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7242)
 
 ## 1. Abschnitt: Ausbildungsgutschrift
 
@@ -126,7 +126,7 @@ Das Kommando Ausbildung entscheidet über Gesuche um Bezug von Ausbildungsgutsch
 
 <sup>1</sup>
 
-Ein Gesuch kann beim Kommando Ausbildung eingereicht werden:
+Ein Gesuch kann beim Kommando Ausbildung in Papierform oder elektronisch eingereicht werden:[^6-1]
 
 - a. spätestens zwölf Monate, nachdem die oder der Angehörige der Armee eine zivile Aus- oder Weiterbildung gemäss Artikel 4 ganz oder teilweise besucht hat; und
 - b. nachdem die Rechnung nachweislich bezahlt ist.
@@ -135,7 +135,7 @@ Ein Gesuch kann beim Kommando Ausbildung eingereicht werden:
 
 Folgende Unterlagen sind einzureichen:
 
-- a.[^6-1]
+- a.[^6-2]
 
   der Aus- oder Weiterbildungsnachweis einschliesslich:
 
@@ -144,12 +144,18 @@ Folgende Unterlagen sind einzureichen:
   - 3\. einer unterschriftlichen Bestätigung einer Vertreterin oder eines Vertreters der Ausbildungsinstitution, dass die betroffene Person die entsprechende Aus- oder Weiterbildung absolviert hat;
 
 - b. die Rechnung und der dazugehörige Zahlungsbeleg;
-- c. das vollständig ausgefüllte und unterschriebene Antragsformular.
+- c.[^6-3] das vollständig ausgefüllte Antragsformular; dieses muss die Unterschrift der gesuchstellenden Person beziehungsweise ihre qualifizierte elektronische Signatur gemäss Bundesgesetz vom 18. März 2016[^6-4] über die elektronische Signatur enthalten.
 
-<sup>3</sup> Gesuche, die innert der Frist gemäss Absatz 1 Buchstabe a nicht ausreichend belegt werden, können abgelehnt werden.[^6-2]
+<sup>2bis</sup> Die elektronische Signatur ist nicht erforderlich, wenn die Identifizierung der gesuchstellenden Person und die Integrität der Übermittlung in anderer geeigneter Weise sichergestellt sind.[^6-5]
 
-[^6-1]: Fassung gemäss Ziff. I der V vom 22. April 2020, in Kraft seit 1. Juni 2020 ([AS 2020 1549](https://fedlex.data.admin.ch/eli/oc/2020/308)).
-[^6-2]: Die Berichtigung vom 10. Nov. 2022 betrifft nur den italienischen Text ([AS 2022 664](https://fedlex.data.admin.ch/eli/oc/2022/664)).
+<sup>3</sup> Gesuche, die innert der Frist gemäss Absatz 1 Buchstabe a nicht ausreichend belegt werden, können abgelehnt werden.[^6-6]
+
+[^6-1]: Fassung gemäss Anhang Ziff. 3 der V vom 1. April 2026, in Kraft seit 1. Juni 2026 ([AS 2026 174](https://fedlex.data.admin.ch/eli/oc/2026/174)).
+[^6-2]: Fassung gemäss Ziff. I der V vom 22. April 2020, in Kraft seit 1. Juni 2020 ([AS 2020 1549](https://fedlex.data.admin.ch/eli/oc/2020/308)).
+[^6-3]: Fassung gemäss Anhang Ziff. 3 der V vom 1. April 2026, in Kraft seit 1. Juni 2026 ([AS 2026 174](https://fedlex.data.admin.ch/eli/oc/2026/174)).
+[^6-4]: [SR 943.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11301)
+[^6-5]: Eingefügt durch Anhang Ziff. 3 der V vom 1. April 2026, in Kraft seit 1. Juni 2026 ([AS 2026 174](https://fedlex.data.admin.ch/eli/oc/2026/174)).
+[^6-6]: Die Berichtigung vom 10. Nov. 2022 betrifft nur den italienischen Text ([AS 2022 664](https://fedlex.data.admin.ch/eli/oc/2022/664)).
 
 #### Art. 7
 
