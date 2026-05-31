@@ -3,18 +3,18 @@ sr: "822.115.4"
 title: Verordnung des WBF vom 21. April 2011 über die Ausnahmen vom Verbot von Nacht- und Sonntagsarbeit während der beruflichen Grundbildung
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/251"
 language: de
-version: 2022-08-01
+version: 2026-06-01
 adopted: 2011-04-21
 in_force: 2011-05-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/251/20220801/de/xml/fedlex-data-admin-ch-eli-cc-2011-251-20220801-de-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/251/20220801/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/251/20260601/de/xml/fedlex-data-admin-ch-eli-cc-2011-251-20260601-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/251/20260601/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung des WBF über die Ausnahmen vom Verbot von Nacht- und Sonntagsarbeit während der beruflichen Grundbildung
 
-vom 21. April 2011 (Stand am 1. August 2022)
+vom 21. April 2011 (Stand am 1. Juni 2026)
 
 Das Eidgenössische Departement für Wirtschaft, Bildung und Forschung (WBF)[^ingress-1],
 
@@ -23,7 +23,7 @@ gestützt auf Artikel 14 der Jugendarbeitsschutzverordnung vom 28. September 200
 verordnet:
 
 [^ingress-1]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 16 Abs. 3 der Publikationsverordnung vom 17. Nov. 2004 ([AS 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)) auf den 1. Jan. 2013 angepasst. Die Anpassung wurde im ganzen Text vorgenommen.
-[^ingress-2]: [SR 822.115](https://fedlex.data.admin.ch/eli/cc/2007/692)
+[^ingress-2]: [SR 822.115](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9896)
 
 #### Art. 1
 
@@ -39,17 +39,16 @@ In den nachfolgend aufgeführten beruflichen Grundbildungen ist für eine Ausnah
 
 Die Bestimmungen gelten für folgende berufliche Grundbildungen:
 
-- a. Fachfrau Hauswirtschaft EFZ/Fachmann Hauswirtschaft EFZ;
-- b. Hauswirtschaftspraktikerin EBA/Hauswirtschaftspraktiker EBA;
-- c. Hotellerieangestellte EBA/Hotellerieangestellter EBA;
-- d. Hotelfachfrau EFZ/Hotelfachmann EFZ;
-- e. Restaurationsangestellte EBA/Restaurationsangestellter EBA;
-- f. Restaurationsfachfrau EFZ/Restaurationsfachmann EFZ;
-- g. Köchin EFZ/Koch EFZ;
-- h. Küchenangestellte EBA/Küchenangestellter EBA;
-- i.[^2-1] Kauffrau EFZ/Kaufmann EFZ (Basis-Grundbildung und erweiterte Grundbildung) in der Ausbildungs- und Prüfungsbranche Hotel-Gastro-Tourismus;
-- j.[^2-2] Systemgastronomiefachfrau EFZ/Systemgastronomiefachmann EFZ;
-- k.[^2-3] Hotelkommunikationsfachfrau EFZ/Hotelkommunikationsfachmann EFZ.
+- a. Fachfrau Hotellerie-Hauswirtschaft EFZ / Fachmann Hotellerie-Hauswirtschaft EFZ;
+- b. Praktikerin Hotellerie-Hauswirtschaft EBA / Praktiker Hotellerie-Hauswirtschaft EBA;
+- c. Restaurantfachfrau EFZ / Restaurantfachmann EFZ;
+- d. Restaurantangestellte EBA / Restaurantangestellter EBA;
+- e. Köchin EFZ / Koch EFZ;
+- f. Küchenangestellte EBA / Küchenangestellter EBA;
+- g. Kauffrau EFZ / Kaufmann EFZ in der Ausbildungs- und Prüfungsbranche Hotel-Gastro-Tourismus;
+- h. Systemgastronomiefachfrau EFZ / Systemgastronomiefachmann EFZ;
+- i. Systemgastronomiepraktikerin EBA / Systemgastronomiepraktiker EBA;
+- j. Hotel-Kommunikationsfachfrau EFZ / Hotel-Kommunikationsfachmann EFZ.[^2-1]
 
 <sup>2</sup>
 
@@ -65,9 +64,7 @@ Für den Einsatz von Lernenden ab dem vollendeten 16. Altersjahr an Sonntagen ge
 - a. Mindestens 12 Sonntage pro Jahr sind frei zu geben (exkl. Feriensonntage). In Saisonbetrieben können die freien Sonntage unregelmässig auf das Jahr verteilt werden.
 - b. Für Betriebe mit 2 Schliessungstagen unter der Woche ist mindestens ein Sonntag pro Quartal frei zu geben (exkl. Feriensonntage). Wenn der Besuch der Berufsfachschule oder der Besuch von überbetrieblichen Kursen auf einen der beiden Schliessungstage fällt, so sind mindestens 12 Sonntage pro Jahr frei zu geben (exkl. Feriensonntage).
 
-[^2-1]: Fassung gemäss Ziff. I der V des WBF vom 26. März 2013, in Kraft seit 1. Mai 2013 ([AS 2013 1057](https://fedlex.data.admin.ch/eli/oc/2013/231)).
-[^2-2]: Eingefügt durch Ziff. I der V des WBF vom 26. März 2013, in Kraft seit 1. Mai 2013 ([AS 2013 1057](https://fedlex.data.admin.ch/eli/oc/2013/231)).
-[^2-3]: Eingefügt durch Ziff. I der V vom 19. Juli 2017, in Kraft seit 15. Aug. 2017 ([AS 2017 3821](https://fedlex.data.admin.ch/eli/oc/2017/453)).
+[^2-1]: Fassung gemäss Ziff. I der V des WBF vom 15. April 2026, in Kraft seit 1. Juni 2026 ([AS 2026 203](https://fedlex.data.admin.ch/eli/oc/2026/203)).
 
 #### Art. 3
 
@@ -96,14 +93,14 @@ Lernende dürfen wie folgt an Sonntagen arbeiten:
 
 #### Art. 4
 
-**Detailhandel in Bäckereien, Konditoreien und Confiserien**
+**Detailhandel in Bäckereien und Confiserien[^4-1]**
 
 <sup>1</sup>
 
 Die Bestimmungen gelten für folgende berufliche Grundbildungen:
 
-- a. Detailhandelsfachfrau EFZ/Detailhandelsfachmann EFZ in der Ausbildungs- und Prüfungsbranche Bäckerei/Konditorei/Confiserie;
-- b. Detailhandelsassistentin EBA/Detailhandelsassistent EBA in der Ausbildungs- und Prüfungsbranche Bäckerei/Konditorei/Confiserie.
+- a. Detailhandelsfachfrau EFZ / Detailhandelsfachmann EFZ in der Ausbildungs- und Prüfungsbranche Bäckerei-Confiserie;
+- b. Detailhandelsassistentin EBA / Detailhandelsassistent EBA in der Ausbildungs- und Prüfungsbranche Bäckerei-Confiserie.[^4-2]
 
 <sup>2</sup>
 
@@ -111,6 +108,9 @@ Lernende dürfen wie folgt an Sonntagen arbeiten:
 
 - a. ab dem vollendeten 16. Altersjahr: höchstens einen Sonntag pro Monat;
 - b. ab dem vollendeten 17. Altersjahr: höchstens 2 Sonntage pro Monat.
+
+[^4-1]: Fassung gemäss Ziff. I der V des WBF vom 15. April 2026, in Kraft seit 1. Juni 2026 ([AS 2026 203](https://fedlex.data.admin.ch/eli/oc/2026/203)).
+[^4-2]: Fassung gemäss Ziff. I der V des WBF vom 15. April 2026, in Kraft seit 1. Juni 2026 ([AS 2026 203](https://fedlex.data.admin.ch/eli/oc/2026/203)).
 
 #### Art. 5
 
@@ -149,11 +149,12 @@ Für den Einsatz von Lernenden am Sonntag gelten folgende Bestimmungen:
 Die Bestimmungen gelten für folgende berufliche Grundbildungen:
 
 - a.[^6-1] Lebensmitteltechnologin EFZ/Lebensmitteltechnologe EFZ;
-- b. Lebensmittelpraktikerin EBA/Lebensmittelpraktiker EBA.
+- b. Lebensmittelpraktikerin EBA/Lebensmittelpraktiker EBA;
+- c.[^6-2] Brau- und Getränketechnologin EFZ/Brau- und Getränketechnologe EFZ.
 
 <sup>2</sup>
 
-Für den Einsatz von Lernenden des Schwerpunkts Backwaren in der Nacht gelten folgende Bestimmungen:[^6-2]
+Für den Einsatz von Lernenden des Schwerpunkts Backwaren in der Nacht gelten folgende Bestimmungen:[^6-3]
 
 - a. Lernende ab dem vollendeten 16. Altersjahr dürfen höchstens 5 Nächte pro Woche und höchstens 90 Nächte pro Jahr arbeiten, wovon 25 Nächte spätestens bis 1 Uhr und 25 Nächte frühestens ab 3 Uhr.
 - b. Lernende ab dem vollendeten 17. Altersjahr dürfen höchstens 5 Nächte pro Woche und höchstens 100 Nächte pro Jahr arbeiten, wovon 25 Nächte spätestens bis 1 Uhr und 25 Nächte frühestens ab 3 Uhr.
@@ -162,7 +163,7 @@ Für den Einsatz von Lernenden des Schwerpunkts Backwaren in der Nacht gelten fo
 
 <sup>3</sup>
 
-Für den Einsatz von Lernenden der übrigen Schwerpunkte in der Nacht gelten folgende Bestimmungen:[^6-3]
+Für den Einsatz von Lernenden der übrigen Schwerpunkte in der Nacht gelten folgende Bestimmungen:[^6-4]
 
 - a. Lernende ab dem vollendeten 16. Altersjahr dürfen höchstens 5 Nächte pro Woche und höchstens 50 Nächte pro Jahr arbeiten, wovon 12 Nächte spätestens bis 1 Uhr und 12 Nächte frühestens ab 3 Uhr.
 - b. Lernende ab dem vollendeten 17. Altersjahr dürfen höchstens 5 Nächte pro Woche und höchstens 60 Nächte pro Jahr arbeiten, wovon 15 Nächte spätestens bis 1 Uhr und 15 Nächte frühestens ab 3 Uhr.
@@ -170,8 +171,9 @@ Für den Einsatz von Lernenden der übrigen Schwerpunkte in der Nacht gelten fol
 - d. Auf Nachtarbeit folgt Tagesarbeit von mindestens gleicher Dauer.
 
 [^6-1]: Fassung gemäss Ziff. I der V des WBF vom 26. März 2013, in Kraft seit 1. Mai 2013 ([AS 2013 1057](https://fedlex.data.admin.ch/eli/oc/2013/231)).
-[^6-2]: Fassung gemäss Ziff. I der V des WBF vom 26. März 2013, in Kraft seit 1. Mai 2013 ([AS 2013 1057](https://fedlex.data.admin.ch/eli/oc/2013/231)).
+[^6-2]: Eingefügt durch Ziff. I der V des WBF vom 15. April 2026, in Kraft seit 1. Juni 2026 ([AS 2026 203](https://fedlex.data.admin.ch/eli/oc/2026/203)).
 [^6-3]: Fassung gemäss Ziff. I der V des WBF vom 26. März 2013, in Kraft seit 1. Mai 2013 ([AS 2013 1057](https://fedlex.data.admin.ch/eli/oc/2013/231)).
+[^6-4]: Fassung gemäss Ziff. I der V des WBF vom 26. März 2013, in Kraft seit 1. Mai 2013 ([AS 2013 1057](https://fedlex.data.admin.ch/eli/oc/2013/231)).
 
 #### Art. 7
 
@@ -206,11 +208,13 @@ Die Bestimmungen gelten für folgende berufliche Grundbildungen:
 
 Die Bestimmungen gelten für folgende berufliche Grundbildungen:
 
-- a. Pferdefachfrau EFZ/Pferdefachmann EFZ (Pferdepflege, Klassisches Reiten, Gangpferdereiten, Pferderennsport, Westernreiten);
+- a.[^9-1] Pferdefachfrau EFZ / Pferdefachmann EFZ;
 - b. Pferdewartin EBA/Pferdewart EBA;
 - c. Tierpflegerin EFZ/Tierpfleger EFZ.
 
 <sup>2</sup> Lernende ab dem vollendeten 16. Altersjahr dürfen höchstens jeden zweiten Sonntag und höchstens die Hälfte der den Sonntagen gleichgestellten Feiertagen pro Jahr arbeiten.
+
+[^9-1]: Fassung gemäss Ziff. I der V des WBF vom 15. April 2026, in Kraft seit 1. Juni 2026 ([AS 2026 203](https://fedlex.data.admin.ch/eli/oc/2026/203)).
 
 #### Art. 10
 

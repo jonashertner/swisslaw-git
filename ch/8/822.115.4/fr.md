@@ -3,18 +3,18 @@ sr: "822.115.4"
 title: "Ordonnance du DEFR du 21 avril 2011 concernant les dérogations à l'interdiction du travail de nuit et du dimanche pendant la formation professionnelle initiale"
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/251"
 language: fr
-version: 2022-08-01
+version: 2026-06-01
 adopted: 2011-04-21
 in_force: 2011-05-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/251/20220801/fr/xml/fedlex-data-admin-ch-eli-cc-2011-251-20220801-fr-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/251/20220801/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/251/20260601/fr/xml/fedlex-data-admin-ch-eli-cc-2011-251-20260601-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/251/20260601/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance du DEFR concernant les dérogations à l’interdiction du travail de nuit et du dimanche pendant la formation professionnelle initiale
 
-du 21 avril 2011 (État le 1<sup>er</sup> août 2022)
+du 21 avril 2011 (État le 1<sup>er</sup> juin 2026)
 
 Le Département fédéral de l’économie, de la formation et de la recherche (DEFR)[^ingress-1],
 
@@ -23,7 +23,7 @@ vu l’art. 14 de l’ordonnance du 28 septembre 2007 sur la protection des jeun
 arrête:
 
 [^ingress-1]: La désignation de l’unité administrative a été adaptée au 1<sup>er</sup> janv. 2013 en application de l’art. 16, al. 3, de l’O du 17 nov. 2004 sur les publications officielles ([RO 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)). Il a été tenu compte de cette mod. dans tout le texte.
-[^ingress-2]: [RS 822.115](https://fedlex.data.admin.ch/eli/cc/2007/692)
+[^ingress-2]: [RS 822.115](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9896)
 
 #### Art. 1
 
@@ -39,17 +39,16 @@ Les formations professionnelles initiales mentionnées dans les articles suivant
 
 Les dispositions s’appliquent aux formations professionnelles initiales suivantes:
 
-- a. gestionnaire en intendance CFC;
-- b. employée en intendance AFP/employé en intendance AFP;
-- c. employée en hôtellerie AFP/employé en hôtellerie AFP;
-- d. spécialiste en hôtellerie CFC;
-- e. employée en restauration AFP/employé en restauration AFP;
-- f. spécialiste en restauration CFC;
-- g. cuisinière CFC/cuisinier CFC;
-- h. employée de cuisine AFP/employé de cuisine AFP;
-- i.[^2-1] employée de commerce CFC/employé de commerce CFC (formation initiale de base et formation initiale élargie) dans la branche de formation et d’examen hôtellerie-gastronomie-tourisme;
-- j.[^2-2] spécialiste en restauration de système CFC;
-- k.[^2-3] spécialiste en communication hôtelière CFC.
+- a. gestionnaire en hôtellerie-intendance CFC;
+- b. employée en hôtellerie-intendance AFP / employé en hôtellerie-intendance AFP;
+- c. spécialiste en restauration CFC;
+- d. employée en restauration AFP / employé en restauration AFP;
+- e. cuisinière CFC / cuisinier CFC;
+- f. employée de cuisine AFP / employé de cuisine AFP;
+- g. employée de commerce CFC / employé de commerce CFC dans la branche de formation et d’examen hôtellerie-gastronomie-tourisme;
+- h. gestionnaire en restauration de système CFC;
+- i employée en restauration de système AFP / employé en restauration de système AFP;
+- j. spécialiste en communication hôtelière CFC.[^2-1]
 
 <sup>2</sup>
 
@@ -65,9 +64,7 @@ Les dispositions suivantes s’appliquent à l’occupation le dimanche de perso
 - a. outre les dimanches de périodes de vacances, au moins douze dimanches par an doivent être libres. Dans les entreprises dont l’activité est saisonnière, ces dimanches peuvent être répartis de manière irrégulière sur l’année;
 - b. les entreprises qui ferment deux jours par semaine doivent accorder, outre les dimanches de périodes de vacances, au moins un dimanche de congé par trimestre. Si un jour de cours à l’école professionnelle ou de cours interentreprises tombe sur un des deux jours de fermeture hebdomadaire, l’entreprise doit accorder, outre les dimanches de périodes de vacances, au moins douze dimanches de congé par an.
 
-[^2-1]: Nouvelle teneur selon le ch. I de l’O du DEFR du 26 mars 2013, en vigueur depuis le 1<sup>er</sup> mai 2013 ([RO 2013 1057](https://fedlex.data.admin.ch/eli/oc/2013/231)).
-[^2-2]: Introduite par le ch. I de l’O du DEFR du 26 mars 2013, en vigueur depuis le 1<sup>er</sup> mai 2013 ([RO 2013 1057](https://fedlex.data.admin.ch/eli/oc/2013/231)).
-[^2-3]: Introduite par le ch. I de l’O du DEFR du 19 juil. 2017, en vigueur depuis le 15 août 2017 ([RO 2017 3821](https://fedlex.data.admin.ch/eli/oc/2017/453)).
+[^2-1]: Nouvelle teneur selon le ch. I de l’O du DEFR du 15 avr. 2026, en vigueur depuis le 1<sup>er</sup> juin 2026 ([RO 2026 203](https://fedlex.data.admin.ch/eli/oc/2026/203)).
 
 #### Art. 3
 
@@ -96,14 +93,14 @@ Les personnes en formation sont autorisées à travailler le dimanche dans les l
 
 #### Art. 4
 
-**Commerce de détail dans la boulangerie, la pâtisserie et la confiserie**
+**Commerce de détail dans la boulangerie et la confiserie[^4-1]**
 
 <sup>1</sup>
 
 Les dispositions s’appliquent aux formations professionnelles initiales suivantes:
 
-- a. gestionnaire du commerce de détail CFC dans la branche de formation et d’examen boulangerie/pâtisserie/confiserie;
-- b. assistante du commerce de détail AFP/assistant du commerce de détail AFP dans la branche de formation et d’examen boulangerie/pâtisserie/confiserie.
+- a. gestionnaire du commerce de détail CFC dans la branche de formation et d’examen boulangerie-confiserie;
+- b. assistante du commerce de détail AFP / assistant du commerce de détail AFP dans la branche de formation et d’examen boulangerie-confiserie.[^4-2]
 
 <sup>2</sup>
 
@@ -111,6 +108,9 @@ Les personnes en formation sont autorisées à travailler le dimanche dans les l
 
 - a. dès 16 ans révolus: au maximum un dimanche par mois;
 - b. dès 17 ans révolus: au maximum deux dimanches par mois.
+
+[^4-1]: Nouvelle teneur selon le ch. I de l’O du DEFR du 15 avr. 2026, en vigueur depuis le 1<sup>er</sup> juin 2026 ([RO 2026 203](https://fedlex.data.admin.ch/eli/oc/2026/203)).
+[^4-2]: Nouvelle teneur selon le ch. I de l’O du DEFR du 15 avr. 2026, en vigueur depuis le 1<sup>er</sup> juin 2026 ([RO 2026 203](https://fedlex.data.admin.ch/eli/oc/2026/203)).
 
 #### Art. 5
 
@@ -151,11 +151,12 @@ Les dispositions suivantes s’appliquent à l’occupation le dimanche de perso
 Les dispositions s’appliquent aux formations professionnelles initiales suivantes:
 
 - a.[^6-1] technologue en denrées alimentaires CFC;
-- b. praticienne en denrées alimentaires AFP/praticien en denrées alimentaires AFP.
+- b. praticienne en denrées alimentaires AFP/praticien en denrées alimentaires AFP;
+- c.[^6-2] technologue du brassage et des boissons CFC.
 
 <sup>2</sup>
 
-Les dispositions suivantes s’appliquent à l’occupation la nuit de personnes en formation dans le domaine spécifique produits de boulangerie:[^6-2]
+Les dispositions suivantes s’appliquent à l’occupation la nuit de personnes en formation dans le domaine spécifique produits de boulangerie:[^6-3]
 
 - a. les personnes en formation âgées d’au moins 16 ans révolus sont autorisées à travailler au maximum cinq nuits par semaine et au maximum 90 nuits par an, dont 25 nuits jusqu’à 1 heure et 25 nuits à partir de 3 heures;
 - b. les personnes en formation âgées d’au moins 17 ans révolus sont autorisées à travailler au maximum cinq nuits par semaine et au maximum 100 nuits par an, dont 25 nuits jusqu’à 1 heure et 25 nuits à partir de 3 heures;
@@ -164,7 +165,7 @@ Les dispositions suivantes s’appliquent à l’occupation la nuit de personnes
 
 <sup>3</sup>
 
-Les dispositions suivantes s’appliquent à l’occupation la nuit de personnes en formation dans les autres domaines spécifiques:[^6-3]
+Les dispositions suivantes s’appliquent à l’occupation la nuit de personnes en formation dans les autres domaines spécifiques:[^6-4]
 
 - a. les personnes en formation âgées d’au moins 16 ans révolus sont autorisées à travailler au maximum cinq nuits par semaine et au maximum 50 nuits par an, dont douze nuits jusqu’à 1 heure et douze nuits à partir de 3 heures;
 - b. les personnes en formation âgées d’au moins 17 ans révolus sont autorisées à travailler au maximum cinq nuits par semaine et au maximum 60 nuits par an, dont quinze nuits jusqu’à 1 heure et quinze nuits à partir de 3 heures;
@@ -172,8 +173,9 @@ Les dispositions suivantes s’appliquent à l’occupation la nuit de personnes
 - d. une période de travail de nuit doit être suivie d’une période de travail de jour d’une durée au moins égale.
 
 [^6-1]: Nouvelle teneur selon le ch. I de l’O du DEFR du 26 mars 2013, en vigueur depuis le 1<sup>er</sup> mai 2013 ([RO 2013 1057](https://fedlex.data.admin.ch/eli/oc/2013/231)).
-[^6-2]: Nouvelle teneur selon le ch. I de l’O du DEFR du 26 mars 2013, en vigueur depuis le 1<sup>er</sup> mai 2013 ([RO 2013 1057](https://fedlex.data.admin.ch/eli/oc/2013/231)).
+[^6-2]: Introduite par le ch. I de l’O du DEFR du 15 avr. 2026, en vigueur depuis le 1<sup>er</sup> juin 2026 ([RO 2026 203](https://fedlex.data.admin.ch/eli/oc/2026/203)).
 [^6-3]: Nouvelle teneur selon le ch. I de l’O du DEFR du 26 mars 2013, en vigueur depuis le 1<sup>er</sup> mai 2013 ([RO 2013 1057](https://fedlex.data.admin.ch/eli/oc/2013/231)).
+[^6-4]: Nouvelle teneur selon le ch. I de l’O du DEFR du 26 mars 2013, en vigueur depuis le 1<sup>er</sup> mai 2013 ([RO 2013 1057](https://fedlex.data.admin.ch/eli/oc/2013/231)).
 
 #### Art. 7
 
@@ -194,9 +196,11 @@ Les dispositions suivantes s’appliquent à l’occupation la nuit de personnes
 Les dispositions s’appliquent aux formations professionnelles initiales suivantes:
 
 - a. bouchère-charcutière CFC/boucher-charcutier CFC;
-- b. assistante en boucherie et charcuterie AFP/assistant en boucherie et charcuterie AFP.
+- b.[^8-1] bouchère-charcutière AFP / boucher-charcutier AFP.
 
 <sup>2</sup> Les personnes en formation âgées d’au moins 16 ans révolus sont autorisées à travailler au maximum deux nuits par semaine jusqu’à 23 heures ou à partir de 4 heures.
+
+[^8-1]: Nouvelle teneur selon le ch. I de l’O du DEFR du 15 avr. 2026, en vigueur depuis le 1<sup>er</sup> juin 2026 ([RO 2026 203](https://fedlex.data.admin.ch/eli/oc/2026/203)).
 
 #### Art. 9
 
@@ -206,11 +210,14 @@ Les dispositions s’appliquent aux formations professionnelles initiales suivan
 
 Les dispositions s’appliquent aux formations professionnelles initiales suivantes:
 
-- a. professionnelle du cheval CFC/professionnel du cheval CFC (soins aux chevaux, monte classique, chevaux d’allures, sport de course, monte western);
-- b. gardienne de cheval AFP/gardien de cheval AFP;
+- a.[^9-1] professionnelle du cheval CFC / professionnel du cheval CFC;
+- b.[^9-2] gardienne de chevaux AFP / gardien de chevaux AFP;
 - c. gardienne d’animaux CFC/gardien d’animaux CFC.
 
 <sup>2</sup> Les personnes en formation âgées d’au moins 16 ans révolus sont autorisées à travailler au maximum un dimanche sur deux et au maximum la moitié des jours fériés de l’année assimilés à un dimanche.
+
+[^9-1]: Nouvelle teneur selon le ch. I de l’O du DEFR du 15 avr. 2026, en vigueur depuis le 1<sup>er</sup> juin 2026 ([RO 2026 203](https://fedlex.data.admin.ch/eli/oc/2026/203)).
+[^9-2]: Nouvelle teneur selon le ch. I de l’O du DEFR du 15 avr. 2026, en vigueur depuis le 1<sup>er</sup> juin 2026 ([RO 2026 203](https://fedlex.data.admin.ch/eli/oc/2026/203)).
 
 #### Art. 10
 

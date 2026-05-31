@@ -3,18 +3,18 @@ sr: "822.115.4"
 title: Ordinanza del DEFR del 21 aprile 2011 sulle deroghe al divieto del lavoro notturno e domenicale durante la formazione professionale di base
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/251"
 language: it
-version: 2022-08-01
+version: 2026-06-01
 adopted: 2011-04-21
 in_force: 2011-05-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/251/20220801/it/xml/fedlex-data-admin-ch-eli-cc-2011-251-20220801-it-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/251/20220801/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/251/20260601/it/xml/fedlex-data-admin-ch-eli-cc-2011-251-20260601-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/251/20260601/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza del DEFR sulle deroghe al divieto del lavoro notturno e domenicale durante la formazione professionale di base
 
-del 21 aprile 2011 (Stato 1° agosto 2022)
+del 21 aprile 2011 (Stato 1° giugno 2026)
 
 Il Dipartimento federale dell’economia, della formazione e della ricerca (DEFR)[^ingress-1],
 
@@ -23,7 +23,7 @@ visto l’articolo 14 dell’ordinanza del 28 settembre 2007[^ingress-2] sulla p
 ordina:
 
 [^ingress-1]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 16 cpv. 3 dell’O del 17 nov. 2004 sulle pubblicazioni ufficiali ([RU 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)), con effetto dal 1° gen. 2013. Di detta mod. è tenuto conto in tutto il presente testo.
-[^ingress-2]: [RS 822.115](https://fedlex.data.admin.ch/eli/cc/2007/692)
+[^ingress-2]: [RS 822.115](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9896)
 
 #### Art. 1
 
@@ -39,17 +39,16 @@ Durante le formazioni professionali di base elencate di seguito non è richiesta
 
 Le disposizioni si applicano alle seguenti formazioni professionali di base:
 
-- a. impiegata d’economia domestica AFC/impiegato d’economia domestica AFC;
-- b. addetta d’economia domestica CFP/addetto d’economia domestica CFP;
-- c. addetta d’albergo CFP/addetto d’albergo CFP;
-- d. impiegata d’albergo AFC/impiegato d’albergo AFC;
-- e. addetta di ristorazione CFP/addetto di ristorazione CFP;
-- f. impiegata di ristorazione AFC/impiegato di ristorazione AFC;
-- g. cuoca AFC/cuoco AFC;
-- h. addetta di cucina CFP/addetto di cucina CFP;
-- i.[^2-1] impiegata di commercio AFC/impiegato di commercio AFC (formazione di base e formazione estesa) nel ramo di formazione e d’esame settore alberghiero-gastronomia-turismo;
-- j.[^2-2] impiegata di gastronomia standardizzata AFC/impiegato di gastronomia standardizzata AFC;
-- k.[^2-3] impiegata in comunicazione alberghiera AFC/impiegato in comunicazione alberghiera AFC.
+- a. impiegata del settore alberghiero-economia domestica AFC / impiegato del settore alberghiero-economia domestica AFC;
+- b. addetta del settore alberghiero-economia domestica CFP / addetto del settore alberghiero-economia domestica CFP;
+- c. impiegata di ristorazione AFC / impiegato di ristorazione AFC;
+- d. addetta di ristorazione CFP / addetto di ristorazione CFP;
+- e. cuoca AFC / cuoco AFC;
+- f. addetta di cucina CFP / addetto di cucina CFP;
+- g. impiegata di commercio AFC / impiegato di commercio AFC nel ramo di formazione e d’esame settore alberghiero-gastronomia-turismo;
+- h. impiegata di gastronomia standardizzata AFC / impiegato di gastronomia standardizzata AFC;
+- i. addetta di gastronomia standardizzata CFP / addetto di gastronomia standardizzata CFP;
+- j. impiegata in comunicazione alberghiera AFC / impiegato in comunicazione alberghiera AFC.[^2-1]
 
 <sup>2</sup>
 
@@ -65,9 +64,7 @@ Per l’occupazione domenicale di persone in formazione a partire dai 16 anni co
 - a. oltre alle domeniche nei periodi di vacanza, devono essere accordate almeno 12 domeniche libere all’anno. Nelle aziende stagionali le domeniche libere possono essere ripartite in modo irregolare nell’arco dell’anno;
 - b. le aziende con due giorni di chiusura settimanale devono accordare, oltre alle domeniche nei periodi di vacanza, almeno una domenica libera al trimestre. Se un corso della scuola professionale o un corso interaziendale cade in uno dei due giorni di chiusura settimanale, l’azienda deve accordare, oltre alle domeniche nei periodi di vacanza, almeno 12 domeniche libere all’anno.
 
-[^2-1]: Nuovo testo il n. I dell’O del DEFR del 26 mar. 2013, in vigore dal 1° mag. 2013 ([RU 2013 1057](https://fedlex.data.admin.ch/eli/oc/2013/231)).
-[^2-2]: Introdotta dal n. I dell’O del DEFR del 26 mar. 2013, in vigore dal 1° mag. 2013 ([RU 2013 1057](https://fedlex.data.admin.ch/eli/oc/2013/231)).
-[^2-3]: Introdotta dal n. I dell’O del DEFR del 19 lug. 2017, in vigore dal 15 ago. 2017 ([RU 2017 3821](https://fedlex.data.admin.ch/eli/oc/2017/453)).
+[^2-1]: Nuovo testo giusta la cifra I dell’O del DEFR del 15 apr. 2026, in vigore dal 1° giu. 2026 ([RU 2026 203](https://fedlex.data.admin.ch/eli/oc/2026/203)).
 
 #### Art. 3
 
@@ -96,14 +93,14 @@ Le persone in formazione sono autorizzate a lavorare di domenica entro i seguent
 
 #### Art. 4
 
-**Commercio al dettaglio di panetteria, pasticceria e confetteria**
+**[Commercio al dettaglio di panetteria e confetteria](https://www.fedlex.admin.ch/eli/cc/2011/251/it)[^4-1]**
 
 <sup>1</sup>
 
 Le disposizioni si applicano alle seguenti formazioni professionali di base:
 
-- a. impiegata del commercio al dettaglio AFC/impiegato del commercio al dettaglio AFC nel ramo di formazione e d’esame panetteria, pasticceria e confetteria;
-- b. assistente del commercio al dettaglio CFP nel ramo di formazione e d’esame panetteria, pasticceria e confetteria.
+- a. impiegata del commercio al dettaglio AFC / impiegato del commercio al dettaglio AFC nel ramo di formazione e d’esame panetteria-confetteria;
+- b. assistente del commercio al dettaglio CFP nel ramo di formazione e d’esame panetteria-confetteria.[^4-2]
 
 <sup>2</sup>
 
@@ -111,6 +108,9 @@ Le persone in formazione sono autorizzate a lavorare di domenica entro i seguent
 
 - a. a partire dai 16 anni compiuti: al massimo una domenica al mese;
 - b. a partire dai 17 anni compiuti: al massimo due domeniche al mese.
+
+[^4-1]: Nuovo testo giusta la cifra I dell’O del DEFR del 15 apr. 2026, in vigore dal 1° giu. 2026 ([RU 2026 203](https://fedlex.data.admin.ch/eli/oc/2026/203)).
+[^4-2]: Nuovo testo giusta la cifra I dell’O del DEFR del 15 apr. 2026, in vigore dal 1° giu. 2026 ([RU 2026 203](https://fedlex.data.admin.ch/eli/oc/2026/203)).
 
 #### Art. 5
 
@@ -138,9 +138,9 @@ Per l’occupazione domenicale di persone in formazione si applicano le seguenti
 - a. le persone in formazione a partire dai 16 anni compiuti sono autorizzate a lavorare al massimo una domenica al mese e al massimo sei domeniche all’anno;
 - b. le persone in formazione a partire dai 17 anni compiuti sono autorizzate a lavorare al massimo due domeniche al mese e al massimo 12 domeniche all’anno.[^5-3]
 
-[^5-1]: Nuovo testo il n. I dell’O del DEFR del 25 giu. 2019, in vigore dal 1° ago. 2019 ([RU 2019 2089](https://fedlex.data.admin.ch/eli/oc/2019/382)).
-[^5-2]: Nuovo testo il n. I dell’O del DEFR del 25 giu. 2019, in vigore dal 1° ago. 2019 ([RU 2019 2089](https://fedlex.data.admin.ch/eli/oc/2019/382)).
-[^5-3]: Introdotto dal n. I dell’O del DEFR del 25 giu. 2019, in vigore dal 1° ago. 2019 ([RU 2019 2089](https://fedlex.data.admin.ch/eli/oc/2019/382)).
+[^5-1]: Nuovo testo giusta la cifra I dell’O del DEFR del 25 giu. 2019, in vigore dal 1° ago. 2019 ([RU 2019 2089](https://fedlex.data.admin.ch/eli/oc/2019/382)).
+[^5-2]: Nuovo testo giusta la cifra I dell’O del DEFR del 25 giu. 2019, in vigore dal 1° ago. 2019 ([RU 2019 2089](https://fedlex.data.admin.ch/eli/oc/2019/382)).
+[^5-3]: Introdotto dalla cifra I dell’O del DEFR del 25 giu. 2019, in vigore dal 1° ago. 2019 ([RU 2019 2089](https://fedlex.data.admin.ch/eli/oc/2019/382)).
 
 #### Art. 6
 
@@ -151,11 +151,12 @@ Per l’occupazione domenicale di persone in formazione si applicano le seguenti
 Le disposizioni si applicano alle seguenti formazioni professionali di base:
 
 - a.[^6-1] tecnica alimentarista AFC/tecnico alimentarista AFC;
-- b. addetta alimentarista CFP/addetto alimentarista CFP.
+- b. addetta alimentarista CFP/addetto alimentarista CFP;
+- c.[^6-2] tecnica della birrificazione e delle bevande AFC / tecnico della birrificazione e delle bevande AFC.
 
 <sup>2</sup>
 
-Per l’occupazione notturna di persone in formazione nell’orientamento prodotti da forno si applicano le seguenti disposizioni:[^6-2]
+Per l’occupazione notturna di persone in formazione nell’orientamento prodotti da forno si applicano le seguenti disposizioni:[^6-3]
 
 - a. le persone in formazione a partire dai 16 anni compiuti sono autorizzate a lavorare al massimo cinque notti alla settimana e al massimo 90 notti all’anno, di cui 25 notti al più tardi fino alle 01.00 e 25 notti al più presto a partire dalle 03.00;
 - b. le persone in formazione a partire dai 17 anni compiuti sono autorizzate a lavorare al massimo cinque notti alla settimana e al massimo 100 notti all’anno, di cui 25 notti al più tardi fino alle 01.00 e 25 notti al più presto a partire dalle 03.00;
@@ -164,16 +165,17 @@ Per l’occupazione notturna di persone in formazione nell’orientamento prodot
 
 <sup>3</sup>
 
-Per l’occupazione notturna di persone in formazione negli altri orientamenti si applicano le seguenti disposizioni:[^6-3]
+Per l’occupazione notturna di persone in formazione negli altri orientamenti si applicano le seguenti disposizioni:[^6-4]
 
 - a. le persone in formazione a partire dai 16 anni compiuti sono autorizzate a lavorare al massimo cinque notti alla settimana e al massimo 50 notti all’anno, di cui 12 notti al più tardi fino alle 01.00 e 12 notti al più presto a partire dalle 03.00;
 - b. le persone in formazione a partire dai 17 anni compiuti sono autorizzate a lavorare al massimo cinque notti alla settimana e al massimo 60 notti all’anno, di cui 15 notti al più tardi fino alle 01.00 e 15 notti al più presto a partire dalle 03.00;
 - c. un periodo di lavoro notturno può durare al massimo sei settimane consecutive;
 - d. un periodo di lavoro notturno deve essere seguito da un periodo di lavoro diurno di durata almeno equivalente.
 
-[^6-1]: Nuovo testo il n. I dell’O del DEFR del 26 mar. 2013, in vigore dal 1° mag. 2013 ([RU 2013 1057](https://fedlex.data.admin.ch/eli/oc/2013/231)).
-[^6-2]: Nuovo testo il n. I dell’O del DEFR del 26 mar. 2013, in vigore dal 1° mag. 2013 ([RU 2013 1057](https://fedlex.data.admin.ch/eli/oc/2013/231)).
-[^6-3]: Nuovo testo il n. I dell’O del DEFR del 26 mar. 2013, in vigore dal 1° mag. 2013 ([RU 2013 1057](https://fedlex.data.admin.ch/eli/oc/2013/231)).
+[^6-1]: Nuovo testo giusta la cifra I dell’O del DEFR del 26 mar. 2013, in vigore dal 1° mag. 2013 ([RU 2013 1057](https://fedlex.data.admin.ch/eli/oc/2013/231)).
+[^6-2]: Introdotta dalla cifra I dell’O del DEFR del 15 apr. 2026, in vigore dal 1° giu. 2026 ([RU 2026 203](https://fedlex.data.admin.ch/eli/oc/2026/203)).
+[^6-3]: Nuovo testo giusta la cifra I dell’O del DEFR del 26 mar. 2013, in vigore dal 1° mag. 2013 ([RU 2013 1057](https://fedlex.data.admin.ch/eli/oc/2013/231)).
+[^6-4]: Nuovo testo giusta la cifra I dell’O del DEFR del 26 mar. 2013, in vigore dal 1° mag. 2013 ([RU 2013 1057](https://fedlex.data.admin.ch/eli/oc/2013/231)).
 
 #### Art. 7
 
@@ -194,9 +196,11 @@ Per l’occupazione di persone che seguono la formazione professionale di base d
 Le disposizioni si applicano alle seguenti formazioni professionali di base:
 
 - a. macellaia-salumiera AFC/macellaio-salumiere AFC;
-- b. addetta di macelleria CFP/addetto di macelleria CFP.
+- b.[^8-1] macellaia-salumiera CFP / macellaio-salumiere CFP.
 
 <sup>2</sup> Le persone in formazione a partire dai 16 anni compiuti sono autorizzate a lavorare al massimo due notti alla settimana fino alle 23.00 o a partire dalle 04.00.
+
+[^8-1]: Nuovo testo giusta la cifra I dell’O del DEFR del 15 apr. 2026, in vigore dal 1° giu. 2026 ([RU 2026 203](https://fedlex.data.admin.ch/eli/oc/2026/203)).
 
 #### Art. 9
 
@@ -206,11 +210,13 @@ Le disposizioni si applicano alle seguenti formazioni professionali di base:
 
 Le disposizioni si applicano alle seguenti formazioni professionali di base:
 
-- a. professionista del cavallo AFC (cure, monta classica, cavalli d’andatura, corse, monta western);
+- a.[^9-1] professionista del cavallo AFC;
 - b. custode di cavalli CFP;
 - c. guardiana di animali AFC/guardiano di animali AFC.
 
 <sup>2</sup> Le persone in formazione a partire dai 16 anni compiuti sono autorizzate a lavorare al massimo una domenica su due e al massimo per la metà dei giorni festivi annui equiparati alla domenica.
+
+[^9-1]: Nuovo testo giusta la cifra I dell’O del DEFR del 15 apr. 2026, in vigore dal 1° giu. 2026 ([RU 2026 203](https://fedlex.data.admin.ch/eli/oc/2026/203)).
 
 #### Art. 10
 
@@ -231,8 +237,8 @@ Le disposizioni si applicano alle seguenti formazioni professionali di base:
 
 <sup>3</sup> Le persone in formazione a partire dai 17 anni compiuti sono autorizzate a lavorare al massimo una domenica al mese o un giorno festivo equiparato alla domenica al mese, ma al massimo due giorni festivi all’anno che non cadono di domenica.
 
-[^10-1]: Abrogata dal n. I dell’O del DEFR del 26 mar. 2013, con effetto dal 1° mag. 2013 ([RU 2013 1057](https://fedlex.data.admin.ch/eli/oc/2013/231)).
-[^10-2]: Introdotta dal n. I dell’O del DEFR del 3 feb. 2012, in vigore dal 1° apr. 2012 ([RU 2012 927](https://fedlex.data.admin.ch/eli/oc/2012/153)).
+[^10-1]: Abrogata dalla cifra I dell’O del DEFR del 26 mar. 2013, con effetto dal 1° mag. 2013 ([RU 2013 1057](https://fedlex.data.admin.ch/eli/oc/2013/231)).
+[^10-2]: Introdotta dalla cifra I dell’O del DEFR del 3 feb. 2012, in vigore dal 1° apr. 2012 ([RU 2012 927](https://fedlex.data.admin.ch/eli/oc/2012/153)).
 
 #### Art. 11
 
@@ -253,7 +259,7 @@ Per l’occupazione notturna di persone in formazione si applicano le seguenti d
 - b. le persone in formazione a partire dai 17 anni compiuti sono autorizzate a lavorare al massimo sei notti alla settimana, al massimo 15 notti in due mesi e al massimo 60 notti all’anno;
 - c. una settimana con lavoro notturno deve essere seguita da almeno una settimana senza lavoro notturno.
 
-[^11-1]: Nuovo testo giusta il n. I dell’O del DEFR del 20 mar. 2015, in vigore dal 1° mag. 2015 ([RU 2015 1087](https://fedlex.data.admin.ch/eli/oc/2015/216)).
+[^11-1]: Nuovo testo giusta la cifra I dell’O del DEFR del 20 mar. 2015, in vigore dal 1° mag. 2015 ([RU 2015 1087](https://fedlex.data.admin.ch/eli/oc/2015/216)).
 
 #### Art. 11a
 
@@ -275,7 +281,7 @@ Per l’occupazione di persone che seguono la formazione professionale di base d
 - b. le persone in formazione a partire dai 17 anni compiuti sono autorizzate a lavorare al massimo quattro notti alla settimana, al massimo 15 notti in due mesi e al massimo 52 notti all’anno;
 - c. una settimana di lavoro notturno deve essere seguita da almeno una settimana senza lavoro notturno.
 
-[^11a-1]: Introdotto dal n. I dell’O del DEFR del 29 ott. 2013, in vigore dal 1° dic. 2013 ([RU 2013 3859](https://fedlex.data.admin.ch/eli/oc/2013/708)).
+[^11a-1]: Introdotto dalla cifra I dell’O del DEFR del 29 ott. 2013, in vigore dal 1° dic. 2013 ([RU 2013 3859](https://fedlex.data.admin.ch/eli/oc/2013/708)).
 
 #### Art. 11b
 
@@ -303,7 +309,7 @@ Per l’occupazione domenicale o in giorni festivi equiparati alla domenica di p
 - a. le persone in formazione a partire dai 16 anni compiuti sono autorizzate a lavorare al massimo quattro domeniche o giorni festivi all’anno;
 - b. le persone in formazione a partire dai 17 anni compiuti sono autorizzate a lavorare al massimo due domeniche o giorni festivi al mese e al massimo 12 domeniche o giorni festivi all’anno, ma al massimo due giorni festivi all’anno che non cadono di domenica.
 
-[^11b-1]: Introdotto dal n. I dell’O del DEFR del 20 mar. 2015 ([RU 2015 1087](https://fedlex.data.admin.ch/eli/oc/2015/216)). Nuovo testo giusta il n. I dell’O del DEFR del 2 mag. 2022, in vigore dal 1° ago. 2022 ([RU 2022 308](https://fedlex.data.admin.ch/eli/oc/2022/308)).
+[^11b-1]: Introdotto dalla cifra I dell’O del DEFR del 20 mar. 2015 ([RU 2015 1087](https://fedlex.data.admin.ch/eli/oc/2015/216)). Nuovo testo giusta la cifra I dell’O del DEFR del 2 mag. 2022, in vigore dal 1° ago. 2022 ([RU 2022 308](https://fedlex.data.admin.ch/eli/oc/2022/308)).
 
 #### Art. 11c
 
@@ -318,7 +324,7 @@ Nelle seguenti formazioni professionali di base le persone in formazione sono au
 
 <sup>2</sup> Le persone che svolgono la formazione professionale di base quale impiegata in logistica AFC / impiegato in logistica AFC con indirizzo professionale «Trasporto» sono autorizzate, a partire dai 17 anni compiuti, a lavorare di notte al massimo due volte alla settimana e al massimo 10 volte all’anno.
 
-[^11c-1]: Introdotto dal n. I dell’O del DEFR del 2 mag. 2016, in vigore dal 1° lug. 2016 ([RU 2016 1411](https://fedlex.data.admin.ch/eli/oc/2016/275)).
+[^11c-1]: Introdotto dalla cifra I dell’O del DEFR del 2 mag. 2016, in vigore dal 1° lug. 2016 ([RU 2016 1411](https://fedlex.data.admin.ch/eli/oc/2016/275)).
 
 #### Art. 12
 
@@ -353,7 +359,7 @@ L’ordinanza del DEFR del 29 maggio 2008[^13-1] sulle deroghe al divieto del la
 
 Per le persone in formazione che hanno iniziato il tirocinio prima del 1° agosto 2022 si applica, riguardo al lavoro notturno e domenicale, il diritto previgente.
 
-[^13a-1]: Introdotto dal n. I dell’O del DEFR del 2 mag. 2022, in vigore dal 1° ago. 2022 ([RU 2022 308](https://fedlex.data.admin.ch/eli/oc/2022/308)).
+[^13a-1]: Introdotto dalla cifra I dell’O del DEFR del 2 mag. 2022, in vigore dal 1° ago. 2022 ([RU 2022 308](https://fedlex.data.admin.ch/eli/oc/2022/308)).
 
 #### Art. 14
 
