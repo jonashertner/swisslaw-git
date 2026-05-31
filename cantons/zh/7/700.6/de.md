@@ -4,11 +4,10 @@ number: "700.6"
 title: Bauverfahrensverordnung (BVV)
 short: BVV
 language: de
-version: "2024-12-01"
-nachtrag: "127"
-valid_until: 2026-06-01
+version: "2026-06-01"
+nachtrag: "133"
 adopted: 1997-12-03
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-700_6-1997_12_03-1998_01_01-127.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-700_6-1997_12_03-1998_01_01-133.html"
 text: pdf
 ---
 
@@ -38,7 +37,7 @@ Keiner baurechtlichen Bewilligung bedürfen in Bauzonen<sup>44</sup>: a.<sup>44<
 
 **1**
 
-- 1\. 1. 25 - 127 zonen sowie im Geltungsbereich einer anderen Schutzanordnung oder eines Ortsbild- oder Denkmalschutzinventars, j.<sup>54</sup> steckerfertige Solaranlagen bis zu einer Fläche von 4 m<sup>2</sup>; solche Anlagen sind jedoch bewilligungspflichtig in Kernzonen, im Geltungsbereich eines Ortsbild- oder Denkmalschutzinventars oder im Geltungsbereich einer denkmalpflegerischen Schutzanordnung, k.<sup>54</sup> nicht öffentlich zugängliche Ladestationen für Elektrofahrzeuge an bestehenden Fahrzeugabstellplätzen.
+- 1\. 7. 26 - 133 zonen sowie im Geltungsbereich einer anderen Schutzanordnung oder eines Ortsbild- oder Denkmalschutzinventars, j.<sup>54</sup> steckerfertige Solaranlagen bis zu einer Fläche von 4 m<sup>2</sup>; solche Anlagen sind jedoch bewilligungspflichtig in Kernzonen, im Geltungsbereich eines Ortsbild- oder Denkmalschutzinventars oder im Geltungsbereich einer denkmalpflegerischen Schutzanordnung, k.<sup>54</sup> nicht öffentlich zugängliche Ladestationen für Elektrofahrzeuge an bestehenden Fahrzeugabstellplätzen.
 
 [^1-1]: OS 54, 435.
 
@@ -56,7 +55,7 @@ Keiner baurechtlichen Bewilligung bedürfen in Bauzonen<sup>44</sup>: a.<sup>44<
 
 § 2 a.<sup>55</sup> <sup>1</sup> Der Meldepflicht unterliegen unter Vorbehalt von Abs. 2:
 
-- a. Solaranlagen auf Dächern, soweit sie nach Art. 32 a der Raumplanungsverordnung vom 28. Juni 2000 (RPV)[^hIIMeldepflichtsup-1] genügend angepasst sind,
+- a. Solaranlagen auf Dächern, soweit sie nach Art. 32 a der Raumplanungsverordnung vom 28. Juni 2000 (RPV) genügend angepasst sind,
 
 - b. Solaranlagen an Fassaden in Bauzonen, wenn sie nach dem Stand der Technik reflexionsarm ausgeführt werden, kompakt angeordnet sind, parallel zur Fassade verlaufen, nicht über die Fassadenfläche hinausragen und diese im rechten Winkel um höchstens 20 cm überragen,
 
@@ -72,7 +71,7 @@ Keiner baurechtlichen Bewilligung bedürfen in Bauzonen<sup>44</sup>: a.<sup>44<
 
 - h. Erdwärmesonden-Wärmepumpen, wenn alle neu zu erstellenden Erdwärmesonden mindestens 2,5 m Grenzabstand aufweisen und nicht im Bereich von Bau- und Abstandslinien liegen; vorbehalten bleibt in jedem Fall die gewässerschutzrechtliche Bewilligung,
 
-- i. Anschlüsse an ein Fernwärmenetz, wenn dieses die Voraussetzungen gemäss § 47 g der Besonderen Bauverordnung I vom 6. Mai 1981[^hIIMeldepflichtsup-2] erfüllt,
+- i. Anschlüsse an ein Fernwärmenetz, wenn dieses die Voraussetzungen gemäss § 47 g der Besonderen Bauverordnung I vom 6. Mai 1981[^hIIMeldepflichtsup-1] erfüllt,
 
 - j. öffentlich zugängliche Ladestationen für Elektrofahrzeuge an bestehenden Fahrzeugabstellplätzen.
 
@@ -114,7 +113,7 @@ Keiner baurechtlichen Bewilligung bedürfen in Bauzonen<sup>44</sup>: a.<sup>44<
 
 **3**
 
-- 1\. 1. 25 - 127
+- 1\. 7. 26 - 133
 
 - e. bei aussen aufgestellten Luft/Wasser-Wärmepumpen einfache Skizzen, Fotos oder Pläne der projektierten Anlage.
 
@@ -156,8 +155,7 @@ Keiner baurechtlichen Bewilligung bedürfen in Bauzonen<sup>44</sup>: a.<sup>44<
 
 § 2 e.<sup>58</sup> Muss ein Bewilligungsverfahren durchgeführt werden, teilt die örtliche Baubehörde dies innert 30 Tagen nach Einreichung der Meldung elektronisch über die Plattform mit. Andernfalls darf das Projekt ausgeführt werden.
 
-[^hIIMeldepflichtsup-1]: SR 700.1.
-[^hIIMeldepflichtsup-2]: LS 700.21.
+[^hIIMeldepflichtsup-1]: LS 700.21.
 
 ### III.<sup>43</sup> Baugesuch
 
@@ -171,7 +169,7 @@ Keiner baurechtlichen Bewilligung bedürfen in Bauzonen<sup>44</sup>: a.<sup>44<
 
 **A. Pläne I. Art und Inhalt**
 
-Situationsplan in Form eines aktuellen Katasterplans gemäss amtlicher Vermessung oder eines anderen Plans gleichen Inhalts und gleicher Darstellung. Der Situationsplan gibt Aufschluss über die Stellung und die Abstände der projektierten Bauten und Anlagen zu den Grundstücksgrenzen und den benachbarten Bauten und Anlagen. Ferner sind darin die im Kataster der öffentlich-rechtlichen Eigentumsbeschränkungen erfassten Themen (§ 2 Kantonale Verordnung über den Kataster der öffentlich-rechtlichen Eigentumsbeschränkungen [KÖREBKV] vom 27. Juni 2012[^3-1] soweit darstellbar abzubilden. Die Übereinstimmung mit den massgeblichen Daten und den Darstellungsnormen der amtlichen Vermessung ist durch die Nachführungsstelle der amtlichen Vermessung bestätigen zu lassen. Eine Beglaubigung im Sinne von Art. 37 Abs. 1 der Verordnung über die amtliche Vermessung vom 18. November 1992[^3-2] ist nicht erforderlich.
+Situationsplan in Form eines aktuellen Katasterplans gemäss amtlicher Vermessung oder eines anderen Plans gleichen Inhalts und gleicher Darstellung. Der Situationsplan gibt Aufschluss über die Stellung und die Abstände der projektierten Bauten und Anlagen zu den Grundstücksgrenzen und den benachbarten Bauten und Anlagen. Ferner sind darin die im Kataster der öffentlich-rechtlichen Eigentumsbeschränkungen erfassten Themen (§ 2 Kantonale Verordnung über den Kataster der öffentlich-rechtlichen Eigentumsbeschränkungen [KÖREBKV] vom 27. Juni 2012) soweit darstellbar abzubilden. Die Übereinstimmung mit den massgeblichen Daten und den Darstellungsnormen der amtlichen Vermessung ist durch die Nachführungsstelle der amtlichen Vermessung bestätigen zu lassen. Eine Beglaubigung im Sinne von Art. 37 Abs. 1 der Verordnung über die amtliche Vermessung vom 18. November 1992[^3-1] ist nicht erforderlich.
 
 **b.45**
 
@@ -195,7 +193,7 @@ Grundrisse aller Geschosse sowie die baurechtlich wesentlichen Schnitte im Masss
 
 **5**
 
-- 1\. 1. 25 - 127 d.<sup>62</sup> Umgebungsplan im Massstab 1: 200 oder 1: 100 mit Angaben über
+- 1\. 7. 26 - 133 d.<sup>62</sup> Umgebungsplan im Massstab 1: 200 oder 1: 100 mit Angaben über
 
 - die Höhen des massgebenden und des gestalteten Terrains,
 
@@ -207,8 +205,7 @@ Grundrisse aller Geschosse sowie die baurechtlich wesentlichen Schnitte im Masss
 
 <sup>3</sup> Die Pläne müssen auch die allfällig weiteren für die Prüfung des Bauvorhabens nötigen Angaben enthalten.
 
-[^3-1]: LS 704.13.
-[^3-2]: SR 211.432.2.
+[^3-1]: SR 211.432.2.
 
 #### § 4
 
@@ -268,7 +265,7 @@ Grundrisse aller Geschosse sowie die baurechtlich wesentlichen Schnitte im Masss
 
 **7**
 
-- 1\. 1. 25 - 127
+- 1\. 7. 26 - 133
 
 [^4-1]: LS 730.1.
 [^4-2]: LS 700.5.
@@ -336,7 +333,7 @@ Grundrisse aller Geschosse sowie die baurechtlich wesentlichen Schnitte im Masss
 
 **9**
 
-- 1\. 1. 25 - 127 § 12 b.<sup>58</sup> <sup>1</sup> Werden in elektronischer Form vorliegende Akten, die mit einer elektronischen Signatur versehen sind, in physische Akten gewandelt, prüft die aktenführende Verwaltungsbehörde die elektronische Signatur bezüglich
+- 1\. 7. 26 - 133 § 12 b.<sup>58</sup> <sup>1</sup> Werden in elektronischer Form vorliegende Akten, die mit einer elektronischen Signatur versehen sind, in physische Akten gewandelt, prüft die aktenführende Verwaltungsbehörde die elektronische Signatur bezüglich
 
 **3. Trägerwandlung**
 
@@ -406,7 +403,7 @@ Das Anzeigeverfahren findet namentlich Anwendung auf:<sup>55</sup> a. Vordächer
 
 **11**
 
-- 1\. 1. 25 - 127 § 16. <sup>1</sup> Die Unterlagen gemäss §§ 3 und 5 sind soweit einzureichen, als sie zur Beurteilung des Vorhabens erforderlich sind.
+- 1\. 7. 26 - 133 § 16. <sup>1</sup> Die Unterlagen gemäss §§ 3 und 5 sind soweit einzureichen, als sie zur Beurteilung des Vorhabens erforderlich sind.
 
 **Unterlagen und Vorprüfung**
 
@@ -486,7 +483,7 @@ Das Anzeigeverfahren findet namentlich Anwendung auf:<sup>55</sup> a. Vordächer
 
 **13**
 
-- 1\. 1. 25 - 127 § 21.<sup>59</sup> <sup>1</sup> Will die Standortgemeinde bei Betrieben für Schwertransporte (§ 227 PBG[^20-1] die Genehmigung des Tiefbauamtes vorbehalten, hat sie ihm dies rechtzeitig mitzuteilen, damit die Genehmigung zusammen mit der Bewilligung eröffnet werden kann.
+- 1\. 7. 26 - 133 § 21.<sup>59</sup> <sup>1</sup> Will die Standortgemeinde bei Betrieben für Schwertransporte (§ 227 PBG[^20-1] die Genehmigung des Tiefbauamtes vorbehalten, hat sie ihm dies rechtzeitig mitzuteilen, damit die Genehmigung zusammen mit der Bewilligung eröffnet werden kann.
 
 **Betriebe mit Schwertransporten**
 
@@ -537,10 +534,6 @@ Bis zur Betriebsaufnahme des Katasters der öffentlich-rechtlichen Eigentumsbesc
 (OS 79, 69)
 
 Solange gemäss den Übergangsbestimmungen zur Änderung vom 23. Oktober 2023 des PBG in einer Gemeinde ein baurechtliches Verfahren in Papierform durchgeführt wird, bleiben für dieses Verfahren die §§ 2 d, 5, 6 a, 11, 12, 15, 18, 23 und 24 in der vor Inkrafttreten der Änderung geltenden Fassung anwendbar.
-
-<sup>17</sup> SR 814.41.
-
-<sup>18</sup> SR 814.911.
 
 <sup>19</sup> SR 814.912.
 
@@ -630,9 +623,17 @@ Solange gemäss den Übergangsbestimmungen zur Änderung vom 23. Oktober 2023 de
 
 <sup>62</sup> Fassung gemäss RRB vom 25. September 2024 (OS 79, 424; ABl 2024-10-11). In Kraft seit 1. Dezember 2024.
 
+<sup>63</sup> Eingefügt durch RRB vom 2. Juli 2025 (OS 81, 241; ABl 2025-08-22). In Kraft seit 1. Juni 2026.
+
+<sup>64</sup> Fassung gemäss RRB vom 2. Juli 2025 (OS 81, 241; ABl 2025-08-22). In Kraft seit 1. Juni 2026.
+
+<sup>65</sup> Eingefügt durch RRB vom 1. April 2026 (OS 81, 249; ABl 2026-04-17). In Kraft seit 1. Juni 2026.
+
+<sup>66</sup> Fassung gemäss RRB vom 1. April 2026 (OS 81, 249; ABl 2026-04-17). In Kraft seit 1. Juni 2026.
+
 **17**
 
-- 1\. 1. 25 - 127
+- 1\. 7. 26 - 133
 
 ### Anhang zur Bauverfahrensverordnung<sup>24</sup>
 
@@ -684,7 +685,7 @@ Weitere Prüfungen und Bewilligungen aufgrund der Spezialgesetzgebung des Bundes
 
 **ARE x**
 
-- 1\. 1. 25 - 127 Besonderheiten des Vorhabens (der zu erstellenden Beantragende Zum Entscheid § § oder von der Änderung betroffenen Baute oder Anlage) Stelle
+- 1\. 7. 26 - 133 Besonderheiten des Vorhabens (der zu erstellenden Beantragende Zum Entscheid § § oder von der Änderung betroffenen Baute oder Anlage) Stelle
 
 **zuständige Stelle 8 19**
 
@@ -770,11 +771,11 @@ diesbezügliche temporäre Grundwasserabsenkungen)
 
 **AWEL**
 
-1.6.1<sup>35</sup> im Gewässerraum bzw. im Uferstreifen nach AWEL
+1.6.1<sup>64</sup> im Gewässerraum bzw. im Uferstreifen nach AWEL
 
 den Übergangsbestimmungen vom 4. Mai (Fachstelle)
 
-2011 der Gewässerschutzverordnung vom 28. Oktober 1998[^h16sup33supin-1], auf Grundstücken, die an Gewässer anstossen oder im Bereich von Baulinien für Fluss- und Bachkorrektionen (Um- und Neubauten) 1.6.2 bauliche Veränderung eines Oberflächen- AWEL
+2011 der Gewässerschutzverordnung vom 28. Oktober 1998[^h16sup33supin-1], auf Grundstücken, die an Gewässer anstossen oder im Bereich von Baulinien für kantonale und kommunale Wasserbauprojekte einschliesslich der Flächen für den Rückhalt oder die Ableitung von Hochwasser (Um- und Neubauten), ausser in den Städten Zürich und Winterthur, sofern eine Aufgabendelegation gemäss § 185 Abs. 3 bzw. § 186 Abs. 2 der Wasserverordnung vom 2. Juli 2025 (WsV)[^h16sup33supin-2] besteht 1.6.2 bauliche Veränderung eines Oberflächen- AWEL
 
 **AWEL**
 
@@ -790,13 +791,9 @@ Vorländer, Dämme) 1.6.3 Nutzung eines Oberflächengewässers (wasserrechtliche
 
 **AWEL AWEL**
 
-entnahmen (Industrie und Gewerbe) 1.6.3.3 – Nutzung zur Bewässerung (Fachstelle) 1.6.4 Vorhaben auf Konzessionsland (Zürichsee) AWEL (Fachstelle) 1.6.5 in einem Hochwassergefahrenbereich (Fachstelle) 1.6.6<sup>54</sup> Eingriffe in Gewässer, ihre Ufer oder ihren Wasserhaushalt
+entnahmen (Industrie und Gewerbe) 1.6.3.3 – Nutzung zur Bewässerung (Fachstelle) 1.6.4 Vorhaben auf Konzessionsland (Zürichsee) AWEL (Fachstelle)
 
 **AWEL**
-
-**AWEL AWEL**
-
-**ALN ALN (Fachstelle)**
 
 **21**
 
@@ -804,17 +801,30 @@ entnahmen (Industrie und Gewerbe) 1.6.3.3 – Nutzung zur Bewässerung (Fachstel
 
 **ARE**
 
-- 1\. 1. 25 - 127 Besonderheiten des Vorhabens (der zu erstellenden Beantragende Zum Entscheid § § oder von der Änderung betroffenen Baute oder Anlage) Stelle
+- 1\. 7. 26 - 133 Besonderheiten des Vorhabens (der zu erstellenden Beantragende Zum Entscheid § § oder von der Änderung betroffenen Baute oder Anlage) Stelle
 
-**zuständige Stelle 8 19**
+**zuständige Stelle 8 19 AWEL**
+
+1.6.5<sup>64</sup> in einem Hochwassergefahrenbereich, sofern AWEL es sich um ein Sonderobjekt handelt oder (Fachstelle) Sonderrisiken bestehen 1.6.6<sup>54</sup> Eingriffe in Gewässer, ihre Ufer ALN ihren Wasserhaushalt (Fachstelle) 1.6.7<sup>63</sup> Bauten und Anlagen, die sich auf die Sicher- AWEL heit einer bestehenden Stauanlage nachteilig (Fachstelle) Baudirektion auswirken können (Art. 9 Stauanlagengesetz vom 1. Oktober 2010[^h16sup33supin-3] und Art. 24 Stauanlagenverordnung vom 23. November 2022[^h16sup33supin-4];
+
+**ALN**
+
+**oder**
+
+**AWEL/**
+
+«Sicherheitsbereich von Stauanlagen»)
 
 [^h16sup33supin-1]: SR 814.201.
+[^h16sup33supin-2]: LS 724.11.
+[^h16sup33supin-3]: SR 721.101.
+[^h16sup33supin-4]: SR 721.101.1.
 
 ### 1.7<sup>35</sup> in Bezug auf belastete Standorte
 
 **AWEL**
 
-1.7.1 in einem Perimeter gemäss Kataster der AWEL belasteten Standorte (Fachstelle) 1.7.2<sup>46</sup> auf einem Baugrundstück mit Pflanzen- AWEL beständen von asiatischen Knötericharten (Fachstelle) Essigbaum gemäss Art. 15 Abs. 3 der Freisetzungsverordnung vom 10. September 2008<sup>18</sup>
+1.7.1 in einem Perimeter gemäss Kataster der AWEL belasteten Standorte (Fachstelle) 1.7.2<sup>46</sup> auf einem Baugrundstück mit Pflanzen- AWEL beständen von asiatischen Knötericharten (Fachstelle) Essigbaum gemäss Art. 15 Abs. 3 der Freisetzungsverordnung vom 10. September 2008[^h17sup35supin-1]
 
 **AWEL**
 
@@ -822,7 +832,11 @@ entnahmen (Industrie und Gewerbe) 1.6.3.3 – Nutzung zur Bewässerung (Fachstel
 
 **zonen**
 
+[^h17sup35supin-1]: SR 814.911. 1. 7. 26 - 133 15
+
 ### 1.8<sup>40</sup> in Bezug auf Bodeneingriffe ausserhalb der Bau-
+
+**AWEL AWEL (Fachstelle)**
 
 Bodenauftrag, Bodenabtrag oder Bodenverbrauch (durch Bauten und Anlagen) 1.8.1 auf mehr als 500 m<sup>2</sup> Fläche ALN (Fachstelle) 1.8.2 auf mehr als 5000 m<sup>2</sup> Fläche zusätzlich ARE (Fachstelle) Besonderheiten des Vorhabens (der zu erstellenden oder von der Änderung betroffenen Baute oder Anlage) Stelle
 
@@ -850,19 +864,21 @@ und gewerblichen Bauten und Anlagen 2.1.3 Nutzung von gereinigtem und ungereinig
 
 Abwasser zur Wärmeentnahme und zu Kühl- (Fachstelle)
 
-zwecken 2.1.4 von nicht verschmutztem Abwasser 2.1.4.1 – mit Rohrleitungen bis Ø 200 mm bei Industrie- und Gewerbebetrieben mit sehr umweltrelevanten Prozessen 2.1.4.2 – mit Rohrleitungen grösser als Ø 200 mm AWEL
+zwecken 2.1.4 von nicht verschmutztem Abwasser 2.1.4.1<sup>64</sup> mit Rohrleitungen unter 300 mm
 
-**AWEL AWEL (Fachstelle)**
+**AWEL AWEL**
 
-**AWEL**
+Nennweite bei Industrie- und Gewerbe- (Fachstelle)
+
+betrieben – mit sehr umweltrelevanten Prozessen 2.1.4.2<sup>64</sup> – mit Rohrleitungen ab 300 mm Nennweite
+
+**AWEL AWEL**
 
 ### 2.2<sup>33</sup> Bauten und Anlagen mit Versickerungen
 
 **AWEL AWEL**
 
 2.2.1 von verschmutztem Abwasser (Fachstelle) 2.2.2 von nicht verschmutztem Abwasser aus Industrie und Gewerbebetrieben mit sehr umweltrelevanten Prozessen, Versickerungen in einer Grundwasserschutzzone, sofern kein Schutzzonenreglement vorliegt oder das Schutzzonenreglement eine kantonale Bewilligung vorschreibt, Versickerungen in einem Grundwasserschutzareal sowie in belasteten Standorten und Altlastenverdachtsflächen
-
-**AWEL AWEL (Fachstelle)**
 
 **AWEL AWEL \* (Fachstelle)**
 
@@ -872,15 +888,26 @@ nicht verschmutztem Abwasser (Fremdwasser) in eine ARA
 
 **AWEL**
 
-### 2.4<sup>55</sup> Bauten und Anlagen in Industrie- und Gewerbe- AWEL
+### 2.4<sup>64</sup> Bauten und Anlagen in Industrie- und Gewerbe- AWEL
 
-betrieben mit sehr umweltrelevanten Prozessen, (Fachstelle) soweit keine Aufgabendelegation nach §§ 3 a und 3 b der Verordnung über den Gewässerschutz vom 22. Januar 1975[^h24sup55supBau-1] besteht
+betrieben mit sehr umweltrelevanten Prozessen, (Fachstelle) soweit keine Aufgabendelegation gemäss
+
+#### § 102
+
+**Abs. 2 des Wassergesetzes vom 12. Dezember**
+
+[^102-1]: LS 724.1.
+[^102-2]: LS 724.11.
+
+### 2022 in Verbindung mit § 185 Abs. 1 lit. b WsV
+
+[^102-1][^102-2]
+
+besteht (nur in der Stadt Zürich)
 
 **AWEL \***
 
 **(Fachstelle)**
-
-[^h24sup55supBau-1]: LS 711.11.
 
 ### 2.5<sup>55</sup> Lagerung und Umschlag von wassergefährdenden AWEL Flüssigkeiten 2.6<sup>33</sup> Häusliche Abwasserentsorgung mittels einer Klein- AWEL
 
@@ -890,15 +917,15 @@ Abwasserreinigungsanlage oder durch Abtransport (Fachstelle) auf eine zentrale A
 
 **23**
 
-**AWI57**
+**TBA x**
 
-**Lärmschutz**
+**Abs.**
+
+**Abs.**
 
 **TBA x**
 
-**TBA x**
-
-- 1\. 1. 25 - 127 Besonderheiten des Vorhabens (der zu erstellenden Beantragende Zum Entscheid § § oder von der Änderung betroffenen Baute oder Anlage) Stelle
+- 1\. 7. 26 - 133 Besonderheiten des Vorhabens (der zu erstellenden Beantragende Zum Entscheid § § oder von der Änderung betroffenen Baute oder Anlage) Stelle
 
 **zuständige Stelle 8 19**
 
@@ -906,17 +933,30 @@ Abwasserreinigungsanlage oder durch Abtransport (Fachstelle) auf eine zentrale A
 
 ### Bauten und Anlagen mit besonderen Problemen hinsichtlich Lärmschutz
 
-**AWEL**
+**AWI57**
 
-3.1 ortsfeste Anlagen der Industrie, des Gewerbes und AWI<sup>57</sup> der Landwirtschaft gemäss Art. 2 Abs. 1 LSV<sup>17</sup>, die (Fachstelle)<sup>25</sup> beim Betrieb Aussenlärm erzeugen, bezüglich ihrer Übereinstimmung mit den Vorschriften über den (ausserhalb der Städte Zürich und Winterthur) 3.2<sup>47</sup> Vorhaben in durch ortsfeste Anlagen lärmbelas- TBA teten Gebieten, wenn trotz Ausschöpfen aller Mass- (Fachstelle) nahmen Immissionsgrenzwertüberschreitungen verbleiben, zur Zustimmung gemäss Art. 31 Abs. 2 LSV<sup>17</sup>, allenfalls unter Anordnung von weiteren Massnahmen gemäss Art. 31 Abs. 1 LSV<sup>17</sup> 3.3<sup>33</sup> Vorhaben an geplanten (neuen oder wesentlich TBA geänderten) (Fachstelle) – National- und Staatsstrassen – Strassen mit überkommunaler Bedeutung in den Städten Zürich und Winterthur – Eisenbahnanlagen Besonderheiten des Vorhabens (der zu erstellenden oder von der Änderung betroffenen Baute oder Anlage) Stelle
+3.1 ortsfeste Anlagen der Industrie, des Gewerbes und AWI<sup>57</sup> der Landwirtschaft gemäss Art. 2 Abs. 1 LSV[^hBautenundAnlagenm-1], die (Fachstelle)<sup>25</sup> beim Betrieb Aussenlärm erzeugen, bezüglich ihrer Übereinstimmung mit den Vorschriften über den (ausserhalb der Städte Zürich und Winterthur) 3.2<sup>66</sup> Vorhaben in durch ortsfeste Anlagen lärmbelasteten Gebieten:
+
+**Lärmschutz**
+
+**TBA x**
+
+3.2.1<sup>65</sup> Prüfung der geplanten Massnahmen zur TBA Einhaltung der Immissionsgrenzwerte (Fachstelle) gemäss Art. 22 Abs. 1 USG[^hBautenundAnlagenm-2], allenfalls unter Anordnung von weiteren Massnahmen gemäss Art. 31 Abs. 1 und 1<sup>bis</sup> LSV[^hBautenundAnlagenm-1] (ausserhalb der Städte Zürich und Winterthur) 3.2.2<sup>65</sup> wenn trotz Ausschöpfen aller Massnahmen TBA Immissionsgrenzwertüberschreitungen (Fachstelle) verbleiben, zur Zustimmung gemäss Art. 31
+
+2 LSV[^hBautenundAnlagenm-1], allenfalls unter Anordnung von weiteren Massnahmen gemäss Art. 31 1 und 1<sup>bis</sup> LSV[^hBautenundAnlagenm-1] 3.3<sup>33</sup> Vorhaben an geplanten (neuen oder wesentlich TBA geänderten) (Fachstelle) – National- und Staatsstrassen – Strassen mit überkommunaler Bedeutung in den Städten Zürich und Winterthur – Eisenbahnanlagen Besonderheiten des Vorhabens (der zu erstellenden oder von der Änderung betroffenen Baute oder Anlage) Stelle
 
 **Beantragende Zum Entscheid § §**
 
 **zuständige Stelle 8 19**
 
+[^hBautenundAnlagenm-1]: SR 814.41.
+[^hBautenundAnlagenm-2]: SR 814.01.
+
 ### 4. Bauten und Anlagen mit besonderen Problemen hinsichtlich Luftreinhaltung
 
-und Energie<sup>29</sup> 4.1<sup>48</sup> Stationäre Anlagen gemäss Art. 2 Abs. 1 LRV[^h4BautenundAnlage-1] der AWEL Industrie, des Gewerbes und der Landwirtschaft (Fachstelle) (ausserhalb der Städte Zürich und Winterthur) mit erheblichen Auswirkungen bezüglich ihrer Übereinstimmung mit den Vorschriften über die Luftreinhaltung, wie Anlagen folgender Bereiche:
+und Energie<sup>29</sup> 4.1<sup>48</sup> Stationäre Anlagen gemäss Art. 2 Abs. 1 LRV der AWEL Industrie, des Gewerbes und der Landwirtschaft (Fachstelle) (ausserhalb der Städte Zürich und Winterthur) mit erheblichen Auswirkungen bezüglich ihrer Übereinstimmung mit den Vorschriften über die Luftreinhaltung, wie Anlagen folgender Bereiche:
+
+**AWEL**
 
 - Chemie-, Gummi- und Kunststoffindustrie
 
@@ -942,7 +982,7 @@ und Energie<sup>29</sup> 4.1<sup>48</sup> Stationäre Anlagen gemäss Art. 2 Abs
 
 **5.1051 5.1156 5.1256**
 
-- 1\. 1. 25 - 127 Besonderheiten des Vorhabens (der zu erstellenden Beantragende Zum Entscheid § § oder von der Änderung betroffenen Baute oder Anlage) Stelle
+- 1\. 7. 26 - 133 Besonderheiten des Vorhabens (der zu erstellenden Beantragende Zum Entscheid § § oder von der Änderung betroffenen Baute oder Anlage) Stelle
 
 **zuständige Stelle 8 19**
 
@@ -980,8 +1020,6 @@ und Energie<sup>29</sup> 4.1<sup>48</sup> Stationäre Anlagen gemäss Art. 2 Abs
 
 **AWEL**
 
-[^h4BautenundAnlage-1]: SR 814.318.142.1. 1. 1. 25 - 127 15
-
 ### 5.9<sup>34</sup> Erstellung von Wasserversorgungsanlagen
 
 **AFM AFM/**
@@ -1014,12 +1052,11 @@ und Energie<sup>29</sup> 4.1<sup>48</sup> Stationäre Anlagen gemäss Art. 2 Abs
 
 **(BAV)**
 
-6.1<sup>54</sup> Bauten und Anlagen, die nicht ganz oder überwiegend dem Eisenbahnbetrieb (Nebenanlagen) dienen, sofern das BAV gestützt auf Art. 18 m Abs. 2 des Eisenbahngesetzes vom 20. Dezember 1957[^h6LuftverkehrEise-1] anzuhören ist 6.2<sup>54</sup> Bauten und Anlagen, die nicht ganz oder überwiegend dem Flugplatzbetrieb dienen (Nebenanlagen), innerhalb des Perimeters für Flugplätze 6.3<sup>54</sup> Luftfahrtspezifische Infrastrukturbauten von untergeordneter Bedeutung ausserhalb von Flugplätzen nach der Aussenlandeverordnung vom 14. Mai 2014[^h6LuftverkehrEise-2] 6.4<sup>54</sup> Seilbahnen wie Stand- und Luftseilbahnen, Schräglifte und Skilifte, die im Zusammenhang mit einem anderen Gesuch stehen und dem kantonalen Bewilligungsverfahren nach dem Seilbahngesetz vom 23. Juni 2006[^h6LuftverkehrEise-3] unterstehen, bezüglich Publikationen und Auflageverfahren, Aussteckung und Eröffnung der Bewilligung
+6.1<sup>54</sup> Bauten und Anlagen, die nicht ganz oder überwiegend dem Eisenbahnbetrieb (Nebenanlagen) dienen, sofern das BAV gestützt auf Art. 18 m Abs. 2 des Eisenbahngesetzes vom 20. Dezember 1957 anzuhören ist 6.2<sup>54</sup> Bauten und Anlagen, die nicht ganz oder überwiegend dem Flugplatzbetrieb dienen (Nebenanlagen), innerhalb des Perimeters für Flugplätze 6.3<sup>54</sup> Luftfahrtspezifische Infrastrukturbauten von untergeordneter Bedeutung ausserhalb von Flugplätzen nach der Aussenlandeverordnung vom 14. Mai 2014[^h6LuftverkehrEise-1] 6.4<sup>54</sup> Seilbahnen wie Stand- und Luftseilbahnen, Schräglifte und Skilifte, die im Zusammenhang mit einem anderen Gesuch stehen und dem kantonalen Bewilligungsverfahren nach dem Seilbahngesetz vom 23. Juni 2006[^h6LuftverkehrEise-2] unterstehen, bezüglich Publikationen und Auflageverfahren, Aussteckung und Eröffnung der Bewilligung
 
 **27**
 
-- 1\. 1. 25 - 127
+- 1\. 7. 26 - 133
 
-[^h6LuftverkehrEise-1]: SR 742.101.
-[^h6LuftverkehrEise-2]: SR 748.132.3.
-[^h6LuftverkehrEise-3]: SR 743.01.
+[^h6LuftverkehrEise-1]: SR 748.132.3.
+[^h6LuftverkehrEise-2]: SR 743.01.
