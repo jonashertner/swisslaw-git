@@ -4,13 +4,12 @@ number: "102.111.1"
 title: Règlement du Conseil du Jura bernois
 short: RCJB
 language: fr
-version: 2022-05-01
-valid_until: 2026-05-31
-version_adopted: 2022-03-30
+version: 2026-06-01
+version_adopted: 2026-05-27
 adopted: 2006-09-27
 in_force: 2006-10-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/102.111.1"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2597/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3377/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2597/pdf_file"
 
 (RCJB)
 
-du 27.09.2006 (état au 01.05.2022)
+du 27.09.2006 (état au 01.06.2026)
 
 Le Conseil du Jura bernois,
 
@@ -230,9 +229,9 @@ arrête:
 
 #### Art. 15
 
-**Représentation des partis et des anciens districts**
+**Représentation des partis**
 
-<sup>1</sup> Le CJB veille à ce que les partis et les anciens districts soient équitablement représentés au sein des commissions permanentes et des présidences y relatives.
+<sup>1</sup> Le CJB veille à ce que les partis soient équitablement représentés au sein des commissions permanentes et des présidences y relatives.
 
 #### Art. 16
 
@@ -286,24 +285,43 @@ arrête:
 
 #### Art. 22
 
+**Indemnisation des séances**
+
+<sup>1</sup> Les membres du CJB touchent un jeton de présence pour leur participation aux séances suivantes où la séance dure une demi-heure au moins:
+
+- a les séances plénières du CJB, les séances du Bureau et des commissions;
+- b d’autres séances ou manifestations lorsqu’ils représentent le CJB où l’un de ses organes;
+- c les conférences de presse si elles ne se déroulent pas dans le cadre d’une séance.
+
+<sup>2</sup> Quatre séances au maximum peuvent être indemnisées par jour: une tôt le matin, une le matin, une l’après-midi et une le soir. Elles peuvent avoir lieu durant les plages horaires suivantes:
+
+- a tôt le matin, avant 9 heures,
+- b le matin, entre 9 heures et midi,
+- c l’après-midi, entre midi et 16 heures 30,
+- d le soir, après 16 heures 30.
+
+<sup>3</sup> Si deux séances se succèdent durant la même plage horaire, seule la première séance est indemnisée. Cette règle s’applique aussi à la direction des séances, sauf si seule la deuxième séance a été dirigée, auquel cas l’indemnité est versée pour cette dernière.
+
+<sup>4</sup> Les séances portant sur le même objet qui ne totalisent pas plus de trois heures valent comme une seule séance, même si elles se prolongent au-delà de 9 heures, de midi ou de 16 heures 30.
+
+<sup>5</sup> …
+
+#### Art. 22a
+
 **Jetons de présence**
 
-<sup>1</sup> Les membres du CJB touchent un jeton de présence s'élevant
+<sup>1</sup> Le jeton de présence s’élève à:
 
-- a à 200 francs pour une séance d'une demi-journée et
-- b à 300 francs pour une séance d'une journée.
+- a 200 francs pour la première séance,
+- b 100 francs pour la deuxième séance,
+- c 100 francs pour la troisième séance,
+- d 100 francs pour la quatrième séance.
 
-<sup>2</sup> Les jetons de présence sont versés pour la participation
+<sup>2</sup> Le président ou la présidente de même que les présidents ou présidentes des commissions touchent le double du jeton de présence. Cette règle s’applique également aux vice-présidents qui dirigent effectivement une séance.
 
-- a aux séances plénières du CJB, aux séances du Bureau et des commissions;
-- b à d'autres séances ou des manifestations lorsque le membre concerné y représente le CJB ou un de ses organes;
-- c aux conférences de presse si elles ne se déroulent pas dans le cadre d'une séance.
+<sup>3</sup> Tous les membres du CJB touchent un forfait annuel de 250 francs pour la préparation des séances. Les membres appartenant à un groupe touchent également dès la 6e séance du groupe à laquelle ils participent pour chaque année de législature, un jeton de présence s’élevant à 50 francs. Ces indemnités s’ajoutent aux autres indemnités versées selon l’alinéa 1.
 
-<sup>3</sup> Le président ou la présidente de même que les présidents ou présidentes des commissions touchent le double du jeton de présence. Cette règle s'applique également aux vice-présidents ou vice-présidentes qui dirigent effectivement une séance.
-
-<sup>4</sup> Tous les membres du CJB touchent un forfait annuel de 250 francs pour la préparation des séances. Les membres appartenant à un groupe touchent également, dès la 6<sup>e</sup> séance de groupe à laquelle ils participent pour chaque année de législature, un jeton de présence s’élevant à 50 francs. Ces indemnités s’ajoutent aux autres indemnités versées selon l’alinéa 1.
-
-<sup>5</sup> Lorsqu’une séance de groupe se tient un autre jour que la séance plénière, une indemnité de déplacement est versée.
+<sup>4</sup> Lorsqu’une séance de groupe se tient un autre jour que la séance plénière, une indemnité de déplacement est versée.
 
 #### Art. 23
 
@@ -366,6 +384,12 @@ arrête:
 #### Art. T1-1
 
 <sup>1</sup> La modification des articles 13 et 19 s'applique à partir du 1<sup>er</sup> juin 2022.
+
+## T2 Disposition transitoire de la modification du 27.05.2026
+
+#### Art. T2-1
+
+<sup>1</sup> La modification des articles 15, 22 et 22a s'applique à partir du 1<sup>er</sup> juin 2026.
 
 Tramelan, le 27 septembre 2006
 

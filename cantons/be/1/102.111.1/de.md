@@ -4,13 +4,12 @@ number: "102.111.1"
 title: Geschäftsordnung des Bernjurassischen Rats
 short: GO BJR
 language: de
-version: 2022-05-01
-valid_until: 2026-05-31
-version_adopted: 2022-03-30
+version: 2026-06-01
+version_adopted: 2026-05-27
 adopted: 2006-09-27
 in_force: 2006-10-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/102.111.1"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2597/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3377/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2597/pdf_file"
 
 (GO BJR)
 
-vom 27.09.2006 (Stand 01.05.2022)
+vom 27.09.2006 (Stand 01.06.2026)
 
 Der Bernjurassische Rat,
 
@@ -230,9 +229,9 @@ beschliesst:
 
 #### Art. 15
 
-**Vertretung der Parteien und der früheren Amtsbezirke**
+**Vertretung der Parteien**
 
-<sup>1</sup> Der BJR sorgt dafür, dass die Parteien und die früheren Amtsbezirke in den ständigen Kommissionen und in den entsprechenden Präsidien angemessen vertreten sind.
+<sup>1</sup> Der BJR sorgt dafür, dass die Parteien in den ständigen Kommissionen und in den entsprechenden Präsidien angemessen vertreten sind.
 
 #### Art. 16
 
@@ -286,24 +285,43 @@ beschliesst:
 
 #### Art. 22
 
+**Entschädigung für Sitzungen**
+
+<sup>1</sup> Die Mitglieder des BJR erhalten für die Teilnahme an folgenden Sitzungen ein Sitzungsgeld, sofern die Sitzung mindestens eine halbe Stunde gedauert hat:
+
+- a Sitzungen des Plenums, des Büros und der Kommissionen;
+- b weitere Sitzungen oder Veranstaltungen, sofern sie als Vertreterinnen oder Vertreter des BJR oder eines seiner Organe daran teilnehmen;
+- c Medienkonferenzen, wenn diese nicht im Rahmen einer Sitzung stattfinden.
+
+<sup>2</sup> Es werden höchstens vier Sitzungen pro Tag entschädigt, wovon höchstens je eine Sitzung am Frühmorgen, Morgen, Nachmittag oder Abend. Sie können in folgenden Zeitabschnitten stattfinden:
+
+- a früher Morgen: Sitzungen bis 09.00 Uhr;
+- b Morgen: Sitzungen zwischen 09.00 und 12.00 Uhr;
+- c Nachmittag: Sitzungen zwischen 12.00 und 16.30 Uhr;
+- d Abend: Sitzungen ab 16.30 Uhr.
+
+<sup>3</sup> Fallen zwei Sitzungen in den gleichen Zeitabschnitt, wird nur die frühere Sitzung entschädigt. Dies betrifft auch die Entschädigung für die Sitzungsleitung, es sei denn, nur die zweite Sitzung wurde geleitet, dann wird diese Sitzungsleitung entschädigt.
+
+<sup>4</sup> Sitzungen zum gleichen Gegenstand, die nicht länger als drei Stunden dauern, gelten als eine einzige Sitzung, auch wenn sie über 09.00 Uhr bzw. 12.00 Uhr oder 16.30 Uhr hinaus dauern.
+
+<sup>5</sup> …
+
+#### Art. 22a
+
 **Sitzungsgelder**
 
-<sup>1</sup> Die Mitglieder des BJR erhalten ein Sitzungsgeld in der Höhe von
+<sup>1</sup> Das Sitzungsgeld beträgt an einem Tag:
 
-- a 200 Franken für eine halbtägige Sitzung,
-- b 300 Franken für eine ganztätige Sitzung.
+- a 200 Franken für eine erste Sitzung,
+- b 100 Franken für eine zweite Sitzung,
+- c 100 Franken für eine dritte Sitzung,
+- d 100 Franken für eine vierte Sitzung.
 
-<sup>2</sup> Die Sitzungsgelder werden ausgerichtet für die Teilnahme
+<sup>2</sup> Die Präsidentin oder der Präsident des BJR sowie die Präsidentinnen und Präsidenten der Kommissionen erhalten ein doppeltes Sitzungsgeld. Dies gilt auch für die Vizepräsidentinnen oder Vizepräsidenten, die eine Sitzung tatsächlich leiten.
 
-- a an den Plenarsitzungen des BJR sowie an den Sitzungen des Büros und der Kommissionen;
-- b an anderen Sitzungen oder Veranstaltungen, wenn das betreffende Mitglied dort den BJR oder eines seiner Organe vertritt;
-- c an Medienkonferenzen, wenn diese ausserhalb einer Sitzung stattfinden.
+<sup>3</sup> Alle Mitglieder des BJR erhalten eine jährliche Pauschale von 250 Franken für die Vorbereitung der Sitzungen. Mitglieder, die einer Fraktion angehören, erhalten ab der sechsten Fraktionssitzung, an der sie teilnehmen, für jedes Legislaturjahr ebenfalls ein Sitzungsgeld von 50 Franken. Diese Entschädigungen werden zusätzlich zu den Entschädigungen gemäss Absatz 1 ausgerichtet.
 
-<sup>3</sup> Die Präsidentin oder der Präsident des BJR sowie die Vorsitzenden der Kommissionen erhalten ein doppeltes Sitzungsgeld. Dies gilt auch für die Vizepräsidentin oder den Vizepräsidenten des BJR sowie für die Vizevorsitzenden der Kommissionen, wenn sie eine Sitzung tatsächlich leiten.
-
-<sup>4</sup> Alle Mitglieder des BJR erhalten eine jährliche Pauschale von 250 Franken für die Vorbereitung der Sitzungen. Mitglieder, die einer Fraktion angehören, erhalten ab der sechsten Fraktionssitzung, an der sie teilnehmen, für jedes Legislaturjahr ebenfalls ein Sitzungsgeld von 50 Franken. Diese Entschädigungen werden zusätzlich zu den Entschädigungen gemäss Absatz 1 ausgerichtet.
-
-<sup>5</sup> Für Fraktionssitzungen, die nicht am Tag einer Plenarsitzung stattfinden, wird eine Reiseentschädigung ausgerichtet.
+<sup>4</sup> Findet eine Fraktionssitzung an einem anderen Tag als die Plenarsitzung statt, wird eine Reiseentschädigung ausgerichtet.
 
 #### Art. 23
 
@@ -366,6 +384,12 @@ beschliesst:
 #### Art. T1-1
 
 <sup>1</sup> Die Änderung der Artikel 13 und 19 ist ab dem 1. Juni 2022 anwendbar.
+
+## T2 Übergangsbestimmung der Änderung vom 27.05.2026
+
+#### Art. T2-1
+
+<sup>1</sup> Die Änderung der Artikel 15, 22 und 22a ist ab dem 1. Juni 2026 anwendbar.
 
 Tramelan, 27. September 2006
 
