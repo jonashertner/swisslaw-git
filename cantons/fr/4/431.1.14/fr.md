@@ -1,28 +1,27 @@
 ---
 canton: FR
 number: "431.1.14"
-title: "Ordonnance concernant l'admission des candidats et candidates étrangers aux études de médecine à l'Université de Fribourg pour l'année académique 2025/26"
+title: "Ordonnance concernant l'admission des candidats et candidates étrangers aux études de médecine à l'Université de Fribourg pour l'année académique 2027/28"
 language: fr
-version: 2025-03-11
-valid_until: 2026-05-31
-version_adopted: 2025-03-11
+version: 2026-06-01
+version_adopted: 2026-01-27
 adopted: 2026-01-27
 in_force: 2026-06-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/431.1.14"
-pdf: "https://bdlf.fr.ch/api/fr/versions/8166/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/8380/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
 
-# Ordonnance concernant l'admission des candidats et candidates étrangers aux études de médecine à l'Université de Fribourg pour l'année académique 2025/26
+# Ordonnance concernant l'admission des candidats et candidates étrangers aux études de médecine à l'Université de Fribourg pour l'année académique 2027/28
 
 Université, admission des étrangers aux études de médecine – O
 
-du 11.03.2025 (version entrée en vigueur le 11.03.2025)
+du 27.01.2026 (version entrée en vigueur le 01.06.2026)
 
 Le Conseil d'Etat du canton de Fribourg
 
-Vu la loi du 19 novembre 1997 sur l'Université (LUni);
+Vu l'article 24 de la loi du 19 novembre 1997 sur l'Université (LUni);
 
 Considérant:
 
@@ -34,7 +33,7 @@ En sa séance du 12 octobre 2006, la CUS a recommandé aux cantons universitaire
 
 Demeurent réservées les conditions d'admission générales de l'Université de Fribourg.
 
-La présente ordonnance a été préavisée favorablement par le Rectorat de l'Université de Fribourg, en sa séance du 25 novembre 2024.
+La présente ordonnance a été préavisée favorablement par le Rectorat de l'Université de Fribourg, en sa séance du 15 décembre 2025.
 
 Sur la proposition de la Direction de la formation et des affaires culturelles,
 
@@ -44,7 +43,7 @@ Arrête:
 
 **Champ d'application et but**
 
-<sup>1</sup> La présente ordonnance s'applique aux études de médecine humaine à l'Université de Fribourg pour l'année académique 2025/26.
+<sup>1</sup> La présente ordonnance s'applique aux études de médecine humaine à l'Université de Fribourg pour l'année académique 2027/28.
 
 <sup>2</sup> Elle règle la limitation de l'accès des candidats et candidates étrangers aux études de médecine humaine.
 
@@ -56,7 +55,7 @@ Arrête:
 
 - a) les ressortissants et ressortissantes de la Principauté de Liechtenstein;
 - b) les étrangers et étrangères établis en Suisse ou dans la Principauté de Liechtenstein;
-- c) les ressortissants et ressortissantes d'un Etat membre de l'Union européenne, de l'Islande et de la Norvège qui, en tant que ressortissants et ressortissantes de l'UE/AELE, bénéficient d'une autorisation de séjour en Suisse portant la mention «activité lucrative» et qui peuvent justifier d'une activité professionnelle en étroite relation avec les études de médecine conformément à l'article 9 ch. 3 de l'annexe I à l'accord du 21 juin 1999 entre la Confédération suisse, d'une part, et la Communauté européenne et ses Etats membres, d'autre part, sur la libre circulation des personnes (ALCP)[^2-1]; est considérée comme activité professionnelle en étroite relation avec les études de médecine une activité professionnelle d'une durée minimale de un an exercée en Suisse dans l'une des professions visées à l'article 2 de la loi fédérale du 23 juin 2006 sur les professions médicales (LPMéd)[^2-2];
+- c) les ressortissants et ressortissantes d'un Etat membre de l'Union européenne, de l'Islande et de la Norvège qui, en tant que ressortissants et ressortissantes de l'UE/AELE, bénéficient d'une autorisation de séjour en Suisse portant la mention «activité lucrative» et qui peuvent justifier d'une activité professionnelle en étroite relation avec les études de médecine conformément à l'article 9 ch. 3 de l'annexe I à l'accord du 21 juin 1999 entre la Confédération suisse, d'une part, et la Communauté européenne et ses Etats membres, d'autre part, sur la libre circulation des personnes (ALCP)[^2-1]; est considérée comme activité professionnelle en étroite relation avec les études de médecine une activité professionnelle d'une durée minimale de un an exercée en Suisse dans l'une des professions visées à l'article 2 de la loi fédérale du 23 juin 2006 sur les professions médicales (LMPéd)[^2-2];
 - d) les enfants, quelle que soit leur nationalité, de ressortissants et ressortissantes d'un Etat membre de l'Union européenne, de l'Islande, de la Norvège et de la Principauté de Liechtenstein qui, en tant que membres de la famille d'un ressortissant ou d'une ressortissante de l'UE/AELE, bénéficient d'une autorisation de séjour en Suisse portant la mention «regroupement familial», conformément à l'article 3 ch. 6 de l'annexe I ALCP[^2-3];
 - e) les étrangers et étrangères domiciliés en Suisse au sens des articles 23 à 26 du code civil suisse (CC)[^2-4]:
   - 1\. qui bénéficient depuis au moins cinq ans sans interruption d'une autorisation de séjour en Suisse portant la mention «activité lucrative» comme motif principal du séjour;
@@ -86,4 +85,4 @@ Arrête:
 [^2-6]: RS [413.14](https://db.clex.ch/link/Bund/413.14/fr)
 [^2-7]: RS [210](https://db.clex.ch/link/Bund/210/fr)
 
-2025\_013
+2026\_009

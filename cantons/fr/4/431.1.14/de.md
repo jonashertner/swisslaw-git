@@ -1,28 +1,27 @@
 ---
 canton: FR
 number: "431.1.14"
-title: Verordnung über die Zulassung ausländischer Kandidatinnen und Kandidaten zum Medizinstudium an der Universität Freiburg im akademischen Jahr 2025/26
+title: Verordnung über die Zulassung ausländischer Kandidatinnen und Kandidaten zum Medizinstudium an der Universität Freiburg im akademischen Jahr 2027/28
 language: de
-version: 2025-03-11
-valid_until: 2026-05-31
-version_adopted: 2025-03-11
+version: 2026-06-01
+version_adopted: 2026-01-27
 adopted: 2026-01-27
 in_force: 2026-06-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/431.1.14"
-pdf: "https://bdlf.fr.ch/api/de/versions/8166/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/8380/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Verordnung über die Zulassung ausländischer Kandidatinnen und Kandidaten zum Medizinstudium an der Universität Freiburg im akademischen Jahr 2025/26
+# Verordnung über die Zulassung ausländischer Kandidatinnen und Kandidaten zum Medizinstudium an der Universität Freiburg im akademischen Jahr 2027/28
 
 Universität, Zulassung der Ausländer zum Medizinstudium – V
 
-vom 11.03.2025 (Fassung in Kraft getreten am 11.03.2025)
+vom 27.01.2026 (Fassung in Kraft getreten am 01.06.2026)
 
 Der Staatsrat des Kantons Freiburg
 
-gestützt auf das Gesetz vom 19. November 1997 über die Universität (UniG);
+gestützt auf Artikel 24 des Gesetzes vom 19. November 1997 über die Universität (UniG);
 
 in Erwägung:
 
@@ -30,11 +29,11 @@ Die Zahl der Studienplätze für Humanmedizin in den medizinischen Fakultäten d
 
 Weil es sich dabei um einen Beruf handelt, der auf eidgenössischer Ebene reglementiert und wesentlich für das Funktionieren des nationalen Gesundheitssystems ist, muss die Ausbildung prioritär die Bedürfnisse des Landes abdecken. Aus diesem Grund hatte die Schweizerische Hochschulkonferenz (SHK) 1976 und 1998 Richtlinien erlassen, um die Zulassung für ausländische Kandidatinnen und Kandidaten zum Medizinstudium in der Schweiz einzuschränken. Diese wurden durch die Empfehlung des Hochschulrats vom 19. November 2015 zur Zulassung ausländischer Studienanwärterinnen und ‑anwärter zum Medizinstudium in der Schweiz ersetzt. In seiner Sitzung vom 27. Februar 2020 hat der Hochschulrat eine neue Empfehlung für den Zugang ausländischer Studienanwärterinnen und ‑anwärter zum Medizinstudium in der Schweiz angenommen.
 
-In ihrer Sitzung vom 12. Oktober 2006 hat die SHK den betroffenen Universitätskantonen empfohlen, die Zulassungsbeschränkung für ausländische Kandidatinnen und Kandidaten zum Medizinstudium in der kantonalen Gesetzgebung zu verankern. Dieses Vorgehen wird beibehalten.
+In ihrer Sitzung vom 12. Oktober 2006 hat die SHK den betroffenen Universitätskantonen empfohlen, die Zulassungsbeschränkung für ausländische Kandidatinnen und Kandidaten zum Medizinstudium in der Kantonsgesetzgebung zu verankern. Dieses Vorgehen wird beibehalten.
 
 Vorbehalten bleiben die allgemeinen Zulassungsbedingungen der Universität Freiburg.
 
-Das Rektorat der Universität Freiburg hat in seiner Sitzung vom 25. November 2025 dieser Verordnung zugestimmt.
+Das Rektorat der Universität Freiburg hat in seiner Sitzung vom 15. Dezember 2025 dieser Verordnung zugestimmt.
 
 Auf Antrag der Direktion für Bildung und kulturelle Angelegenheiten,
 
@@ -44,7 +43,7 @@ beschliesst:
 
 **Geltungsbereich und Zweck**
 
-<sup>1</sup> Diese Verordnung gilt für das Studium der Humanmedizin an der Universität Freiburg im akademischen Jahr 2025/26.
+<sup>1</sup> Diese Verordnung gilt für das Studium der Humanmedizin an der Universität Freiburg im akademischen Jahr 2027/28.
 
 <sup>2</sup> In ihr wird die Zugangsbeschränkung zum Studium der Humanmedizin für ausländische Kandidatinnen und Kandidaten geregelt.
 
@@ -56,12 +55,12 @@ beschliesst:
 
 - a) Staatsangehörige des Fürstentums Liechtenstein;
 - b) in der Schweiz oder im Fürstentum Liechtenstein niedergelassene Ausländerinnen und Ausländer;
-- c) Staatsangehörige eines Mitgliedstaates der Europäischen Union, von Island und Norwegen, mit einer Schweizer Aufenthaltsbewilligung EU/EFTA mit dem Vermerk «Erwerbstätigkeit», die eine berufliche Tätigkeit in engem Zusammenhang mit dem Medizinstudium nachweisen können (gemäss Freizügigkeitsabkommen [FZA] vom 21. Juni 1999 mit der EU[^2-1], Anhang I, Art. 9 Ziff. 3); als berufliche Tätigkeit in engem Zusammenhang mit dem Medizinstudium gilt eine mindestens einjährige Erwerbstätigkeit in der Schweiz in einem der Berufe gemäss Artikel 2 des Bundesgesetzes vom 23. Juni 2006 über die universitären Medizinalberufe (MedBG)[^2-2];
+- c) Staatsangehörige eines Mitgliedstaates der Europäischen Union, von Island und Norwegen, mit einer Schweizer Aufenthaltsbewilligung EU/EFTA mit dem Vermerk «Erwerbstätigkeit», die eine berufliche Tätigkeit in engem Zusammenhang mit dem Medizinstudium nachweisen können (gemäss Freizügigkeitsabkommen [FZA][^2-1] vom 21. Juni 1999 mit der EU, Anhang I, Art. 9 Ziff. 3); als berufliche Tätigkeit in engem Zusammenhang mit dem Medizinstudium gilt eine mindestens einjährige Erwerbstätigkeit in der Schweiz in einem der Berufe gemäss Artikel 2 des Bundesgesetzes vom 23. Juni 2006 über die universitären Medizinalberufe (MedBG)[^2-2];
 - d) Kinder, ungeachtet ihrer Staatsangehörigkeit, von Staatsangehörigen eines Mitgliedstaates der Europäischen Union, von Island, Norwegen und des Fürstentums Liechtenstein, mit einer Schweizer Aufenthaltsbewilligung als Familienmitglied einer Bürgerin oder eines Bürgers der EU/EFTA in der Schweiz mit dem Vermerk «Familiennachzug» (gemäss FZA[^2-3] Anhang I, Art. 3 Ziff. 6);
 - e) Ausländerinnen und Ausländer mit Wohnsitz in der Schweiz, gemäss Artikel 23–26 des Schweizerischen Zivilgesetzbuches (ZGB)[^2-4]:
   - 1\. die seit mindestens fünf Jahren ununterbrochen über eine Aufenthaltsbewilligung in der Schweiz mit dem Hauptaufenthaltszweck «Erwerbstätigkeit» verfügen;
   - 2\. die über einen schweizerischen oder kantonalen, gesamtschweizerisch anerkannten Maturitätsausweis (nach der Verordnung vom 15. Februar 1995 über die Anerkennung von gymnasialen Maturitätsausweisen[^2-5] und dem Reglement der Schweizerischen Konferenz der kantonalen Erziehungsdirektoren vom 16. Januar 1995 über die Anerkennung von gymnasialen Maturitätsausweisen) verfügen;
-  - 3\. die über eines der folgenden Zeugnisse verfügen: Eidgenössisches Berufsmaturitätszeugnis, vom Staatssekretariat für Bildung, Forschung und Innovation (SBFI) anerkanntes liechtensteinisches Berufsmaturitätszeugnis, gesamtschweizerisch anerkanntes Fachmaturitätszeugnis; die genannten Zeugnisse müssen mit dem Ausweis über die bestandene Ergänzungsprüfung (nach der Verordnung vom 2. Februar 2011 über die Ergänzungsprüfung für die Zulassung von Inhaberinnen und Inhabern eines eidgenössischen Berufsmaturitätszeugnisses oder eines gesamtschweizerisch anerkannten Fachmaturitätszeugnisses zu den universitären Hochschulen[^2-6]) ergänzt werden;
+  - 3\. die über eines der folgenden Zeugnisse verfügen: Eidgenössisches Berufsmaturitätszeugnis, vom Staatssekretariat für Bildung, Forschung und Innovation (SBFI) anerkanntes liechtensteinisches Berufsmaturitätszeugnis, gesamtschweizerisch anerkanntes Fachmaturitätszeugnis, die genannten Zeugnisse müssen mit dem Ausweis über die bestandene Ergänzungsprüfung (nach der Verordnung vom 2. Februar 2011 über die Ergänzungsprüfung für die Zulassung von Inhaberinnen und Inhabern eines eidgenössischen Berufsmaturitätszeugnisses oder eines gesamtschweizerisch anerkannten Fachmaturitätszeugnisses zu den universitären Hochschulen[^2-6]) ergänzt werden;
   - 4\. die mit einer Schweizerin oder einem Schweizer verheiratet oder eine eingetragene Partnerschaft eingegangen sind;
   - 5\. deren Ehegattinnen bzw. Ehegatten oder deren eingetragene Partnerinnen bzw. Partner in der Schweiz niedergelassen sind;
   - 6\. deren Ehegattinnen bzw. Ehegatten oder deren eingetragene Partnerinnen bzw. Partner seit mindestens fünf Jahren Wohnsitz in der Schweiz haben und ununterbrochen über eine Aufenthaltsbewilligung mit dem Hauptaufenthaltszweck «Erwerbstätigkeit» verfügen;
@@ -74,7 +73,7 @@ beschliesst:
 <sup>2</sup> Es gelten folgende Voraussetzungen:
 
 - a) Als Stichdatum gilt jeweils der letzte Tag der von swissuniversities festgelegten Anmeldefrist für das Medizinstudium.
-- b) Ausländerinnen und Ausländer nach Absatz 1 Bst. a–h müssen die Dokumente zum Nachweis der Zugangsberechtigung spätestens am Tag der von swissuniversities festgelegten Anmeldefrist für das Medizinstudium einreichen; der Vorbildungsausweis gemäss Absatz 1 Bst. e Ziff. 2–3 kann nachgereicht werden.
+- b) Ausländerinnen und Ausländer nach Absatz 1 Bst. a–h müssen die Dokumente zum Nachweis der Zugangsberechtigung spätestens am Tag der von swissuniversities festgelegten Anmeldefrist für das Medizinstudium einreichen; der Vorbildungsausweis gemäss Absatz 1 Bst. e Ziff. 2 und 3 kann nachgereicht werden.
 
 <sup>3</sup> Die allgemeinen Zulassungsbedingungen der Universität Freiburg und eine allfällige Beschränkung aufgrund eines Eignungstests bleiben vorbehalten.
 
@@ -86,4 +85,4 @@ beschliesst:
 [^2-6]: SR [413.14](https://db.clex.ch/link/Bund/413.14/de)
 [^2-7]: SR [210](https://db.clex.ch/link/Bund/210/de)
 
-2025\_013
+2026\_009
