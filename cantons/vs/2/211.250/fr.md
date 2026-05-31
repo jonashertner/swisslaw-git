@@ -4,13 +4,13 @@ number: "211.250"
 title: "Ordonnance sur la protection de l'enfant et de l'adulte"
 short: OPEA
 language: fr
-version: 2024-01-01
-valid_until: 2026-05-31
-version_adopted: 2023-11-22
+version: 2026-06-01
+valid_until: 2026-12-31
+version_adopted: 2026-06-17
 adopted: 2022-09-28
 in_force: 2023-01-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/211.250"
-pdf: "https://lex.vs.ch/api/fr/versions/3245/pdf_file"
+pdf: "https://lex.vs.ch/api/fr/versions/3617/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://lex.vs.ch/api/fr/versions/3245/pdf_file"
 
 (OPEA)
 
-du 28.09.2022 (état 01.01.2024)
+du 28.09.2022 (état 01.06.2026)
 
 Le Conseil d'Etat du canton du Valais
 
@@ -257,7 +257,7 @@ ordonne:
 
 <sup>2</sup> Lors de l’audition de l’enfant, seules les informations nécessaires à la décision sont consignées au procès-verbal.
 
-<sup>3</sup> L’APEA consigne par écrit le résultat de ses délibérations, sous forme succincte.
+<sup>3</sup> …
 
 #### Art. 21a
 

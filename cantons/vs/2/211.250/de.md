@@ -4,13 +4,13 @@ number: "211.250"
 title: Verordnung über den Kindes- und Erwachsenenschutz
 short: VKES
 language: de
-version: 2024-01-01
-valid_until: 2026-05-31
-version_adopted: 2023-11-22
+version: 2026-06-01
+valid_until: 2026-12-31
+version_adopted: 2026-06-17
 adopted: 2022-09-28
 in_force: 2023-01-01
 url: "https://lex.vs.ch/app/de/texts_of_law/211.250"
-pdf: "https://lex.vs.ch/api/de/versions/3245/pdf_file"
+pdf: "https://lex.vs.ch/api/de/versions/3617/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://lex.vs.ch/api/de/versions/3245/pdf_file"
 
 (VKES)
 
-vom 28.09.2022 (Stand 01.01.2024)
+vom 28.09.2022 (Stand 01.06.2026)
 
 Der Staatsrat des Kantons Wallis
 
@@ -257,7 +257,7 @@ verordnet:
 
 <sup>2</sup> Im Protokoll der Anhörung des Kindes werden nur die für den Entscheid wesentlichen Ergebnisse festgehalten.
 
-<sup>3</sup> Die KESB hält das Ergebnis ihrer Beratungen schriftlich in zusammengefasster Form fest.
+<sup>3</sup> …
 
 #### Art. 21a
 
