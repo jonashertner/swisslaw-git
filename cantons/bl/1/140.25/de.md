@@ -3,20 +3,19 @@ canton: BL
 number: "140.25"
 title: Verordnung über die Zuständigkeit für die Genehmigung von Gemeindenormen
 language: de
-version: 2024-09-01
-valid_until: 2026-05-31
-version_adopted: 2024-06-25
+version: 2026-06-01
+version_adopted: 2026-05-05
 adopted: 2017-10-24
 in_force: 2018-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/140.25"
-pdf: "https://bl.clex.ch/api/de/versions/3944/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/4465/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die Zuständigkeit für die Genehmigung von Gemeindenormen
 
-Vom 24.10.2017 (Stand 01.09.2024)
+Vom 24.10.2017 (Stand 01.06.2026)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -64,7 +63,8 @@ beschliesst:
 - h. Baurechte,
 - i. Feuerwehr,
 - j. Bürgernutzen,
-- k. Mietzinsbeiträge.
+- k. Mietzinsbeiträge,
+- l. Behindertenrechte.
 
 #### § 4
 
