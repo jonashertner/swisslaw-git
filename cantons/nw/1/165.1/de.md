@@ -4,13 +4,12 @@ number: "165.1"
 title: Gesetz über das öffentlich-rechtliche Arbeitsverhältnis
 short: "Personalgesetz, PersG"
 language: de
-version: 2026-01-01
-valid_until: 2026-05-31
-version_adopted: 2024-10-23
+version: 2026-06-01
+version_adopted: 2026-02-04
 adopted: 1998-06-03
 in_force: 1999-01-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/165.1"
-pdf: "https://gesetze.nw.ch/api/de/versions/1434/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/1506/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://gesetze.nw.ch/api/de/versions/1434/pdf_file"
 
 (Personalgesetz, PersG)
 
-vom 03.06.1998 (Stand 01.01.2026)
+vom 03.06.1998 (Stand 01.06.2026)
 
 Der Landrat von Nidwalden,
 
@@ -53,7 +52,7 @@ beschliesst:
 - 1\. die Gemeindeversammlung die Aufgaben wahr, welche die Personalgesetzgebung dem Landrat zuweist;
 - 2\. der administrative Rat die Aufgaben wahr, welche die Personalgesetzgebung dem Regierungsrat zuweist.
 
-<sup>4</sup> Die Anpassung der Lohnsumme für das folgende Jahr gemäss Art. 33 Abs. 2 Ziff. 2 und Abs. 3 hat sich am Beschluss des Landrates für das Kantonspersonal zu orientieren.
+<sup>4</sup> Die Gemeinden haben sich bei der Anpassung der Löhne an die steigende Teuerung am Beschluss des Landrates zum Teuerungsausgleich gemäss Art. 35a zu orientieren.
 
 <sup>5</sup> Die Entlöhnung der Lehrpersonen der Gemeinden richtet sich nach Art. 23 des Bildungsgesetzes[^2-1]
 
@@ -329,40 +328,27 @@ beschliesst:
 
 <sup>2</sup> Der Regierungsrat kann in begründeten Fällen vom Leistungslohnband abweichen.
 
-#### Art. 32
+#### Art. 32–34
 
-**Lohnsumme 1. Begriff**
-
-<sup>1</sup> Die Lohnsumme ist der für die Erfüllung des Leistungsauftrages zur Verfügung gestellte Betrag zur Bezahlung der individuellen Löhne.
-
-<sup>2</sup> Die Sozialzulagen, die Anerkennungsprämien, die Treueprämien und die erforderlichen Mittel für den Entlöhnungsnachgenuss sind nicht Bestandteil der Lohnsumme.
-
-#### Art. 33
-
-**2. Festlegung**
-
-<sup>1</sup> Der Landrat legt auf Antrag des Regierungsrates beziehungsweise des Obergerichts mit dem Budget die Lohnsumme für das folgende Jahr fest.
-
-<sup>2</sup> Dabei ist die bisher zur Verfügung gestellte Lohnsumme wie folgt anzupassen:
-
-- 1\. um den Betrag, der sich aus der Erweiterung oder Verminderung des Leistungsauftrages ergibt;
-- 2\. um den Betrag für generelle sowie leistungsbezogene Lohnanpassungen.
-
-<sup>3</sup> Der Landrat kann die Lohnsumme des Kantons und der Gemeinden zusätzlich anpassen, um dem Arbeitsmarkt oder der Lohnstruktur Rechnung zu tragen.
-
-#### Art. 34
-
-**3. Nachtragskredit**
-
-<sup>1</sup> Wird der Leistungsauftrag nach erfolgter Genehmigung des Budgets erweitert, hat der Landrat die erforderlichen Mittel durch Anpassung der Lohnsumme bereitzustellen.
-
-<sup>2</sup> Der Nachtragskredit ist gleichzeitig mit der Erweiterung des Leistungsauftrages zu beschliessen.
+**…**
 
 #### Art. 35
 
-**Lohnanpassung**
+**Lohnanpassung 1. Grundsatz**
 
-<sup>1</sup> Der Regierungsrat legt fest, wie die zur Verfügung stehenden Mittel generell und leistungsbezogen zu verteilen sind.
+<sup>1</sup> Der Regierungsrat legt fest, wie die zur Verfügung stehenden Mittel generell und leistungsbezogen zu verteilen sind. Der Teuerungsausgleich gemäss Art. 35a ist für die generelle Lohnanpassung und nicht für die individuelle Lohnentwicklung der bestehenden Mitarbeiterinnen und Mitarbeiter einzusetzen.
+
+<sup>2</sup> Die Gerichte, die Schlichtungsbehörde und die Staatsanwaltschaft sind an diesen Entscheid gebunden.
+
+#### Art. 35a
+
+**2. Teuerungsausgleich**
+
+<sup>1</sup> Der Landrat kann bei steigender Teuerung jeweils im Rahmen des Budgets eine Anpassung der Löhne auf Jahresbeginn beschliessen. Der Stand des Landesindexes für Konsumentenpreise Ende Juni ist dabei massgebend.
+
+<sup>2</sup> Bei seinem Entscheid lässt sich der Landrat von der Wirtschaftslage und der Lage der Kantonsfinanzen leiten.
+
+<sup>3</sup> Unterbleibt eine Teuerungsanpassung ganz oder teilweise, kann der Landrat im Rahmen eines künftigen Budgets eine Angleichung an den Landesindex für Konsumentenpreise beschliessen.
 
 ### 4.2.4 Weitere Ansprüche
 
