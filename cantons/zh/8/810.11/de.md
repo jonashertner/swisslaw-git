@@ -4,75 +4,109 @@ number: "810.11"
 title: Verordnung über die Bezirksärztinnen und Bezirksärzte (VBÄ)
 short: VBÄ
 language: de
-version: "2011-01-01"
-nachtrag: "71"
-valid_until: 2026-06-01
+nachtrag: "133"
 adopted: 2026-03-11
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-810_11-1963_12_12-1964_01_01-071.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-810_11-2026_03_11-2026_06_01-133.html"
 text: pdf
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZH. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Verordnung über die Entschädigung der Bezirksärztinnen und Bezirksärzte (VEB)
+# Verordnung über die Bezirksärztinnen und Bezirksärzte (VBÄ)
 
-(vom 12. Dezember 1963)[^t-2][^t-1]
+(vom 11. März 2026)[^t-1],[^t-2]
 
-**Arten der Entschädigung**
+Der Regierungsrat beschliesst:
 
-§ 1.[^t-1] <sup>1</sup> Die Bezirksärztinnen und Bezirksärzte und ihre Stellvertretungen beziehen jährlich Wartegelder sowie Entschädigungen für die einzelnen Verrichtungen.
+[^t-1]: OS 81, 252; Begründung siehe ABl 2026-03-27.
+[^t-2]: Inkrafttreten: 1. Juni 2026.
 
-<sup>2</sup> Die für besondere Aufgaben im ganzen Kanton eingesetzten ausserordentlichen Bezirksärztinnen und Bezirksärzte werden lediglich für die einzelnen Verrichtungen entschädigt.
+### A. Bezirksärztinnen und Bezirksärzte
 
-<sup>3</sup> Den von der Bezirksärztin oder vom Bezirksarzt Zürich zugezogenen ausserordentlichen Stellvertretungen für den polizeiärztlichen Dienst werden Fr. 400 je Dienstwoche ausgerichtet. Für die einzelnen Verrichtungen werden sie ausschliesslich nach der Verordnung über die Gebühren und Kostenansätze der Strafverfolgungsbehörden[^t-3] entschädigt.
+#### § 1
 
-[^t-1]: Fassung gemäss RRB vom 6. Oktober 2010 (OS 65, 744; ABl 2010, 2181). In Kraft seit 1. Januar 2011.
-[^t-2]: OS 41, 623 und GS VI, 21. Vom Regierungsrat erlassen.
-[^t-3]: LS 323.1.
-[^t-4]: Fassung gemäss RRB vom 14. Juni 2000 (OS 56, 137). In Kraft seit 1. Januar 2000.
+**Anzahl und Amtsdauer**
+
+<sup>1</sup> Das Amt für Gesundheit ernennt nach Möglichkeit für jeden Bezirk zwei Bezirksärztinnen oder Bezirksärzte.
+
+<sup>2</sup> Die Amtsdauer beträgt vier Jahre.
 
 #### § 2
 
-**Wartegeld**
+**Voraussetzungen**
 
-<sup>1</sup> Das jährliche Wartegeld der Bezirksärzte beträgt Fr. 8000, dasjenige ihrer Stellvertreter Fr. 5500.[^t-4]
+<sup>1</sup> Als Bezirksärztinnen und Bezirksärzte können Ärztinnen und Ärzte ernannt werden, die über eine Bewilligung zur selbstständigen Berufsausübung im Kanton verfügen.
 
-<sup>2</sup> Im Wartegeld ist die Entschädigung für geringfügige Bemühungen, wie Auskünfte und dergleichen, inbegriffen.
+<sup>2</sup> Sie haben eine Praxis im betreffenden Bezirk zu führen.
 
-**Entschädigungen für einzelne Verrichtungen**
+<sup>3</sup> Vom Erfordernis gemäss Abs. 2 kann aus wichtigem Grund abgewichen werden.
 
-§ 3.[^2-1] <sup>1</sup> Für die einzelnen Verrichtungen bemisst sich die Entschädigung nach dem Tarmed und dem SUVA-Taxpunktwert.
+#### § 3
 
-<sup>2</sup> Handelt die Bezirksärztin oder der Bezirksarzt auf Verlangen von Behörden oder Privaten, stellt sie oder er ihnen Rechnung.[^2-2]
+**Entschädigung a. jährliche Pauschale**
 
-<sup>3</sup> In den übrigen Fällen legt der Kantonsärztliche Dienst die Höhe der Entschädigung fest.[^2-2]
+<sup>1</sup> Das Amt für Gesundheit richtet den Bezirksärztinnen und Bezirksärzten eine jährliche Pauschale von Fr. 7000 aus.
 
-§ 4.[^2-3]
+<sup>2</sup> In der Pauschale inbegriffen sind a. die Entschädigung für geringfügige Bemühungen, insbesondere für die Erteilung von Auskünften,
 
-**Kurse und Tagungen**
+- b. die Auslagen für Fortbildungsveranstaltungen gemäss § 6.
 
-§ 5.[^2-4] <sup>1</sup> Für die Teilnahme an amtsärztlichen Fortbildungskursen und Tagungen kann der Kantonsärztliche Dienst ein Taggeld bis zu Fr. 270 für den halben und Fr. 400 für den ganzen Tag ausrichten. Er kann auch die Kurs- und Tagungskosten vergüten.
+#### § 4
 
-<sup>2</sup> Ausserdem werden den Teilnehmerinnen und Teilnehmern die Fahrkosten nach den für die oberen kantonalen Angestellten geltenden Bestimmungen ersetzt.
+**b. einzelne Verrichtungen**
+
+<sup>1</sup> Die Entschädigung für einzelne ärztliche Verrichtungen bemisst sich nach den geltenden ärztlichen Tarifen.
+
+<sup>2</sup> In den übrigen Fällen legt das Amt für Gesundheit die Entschädigung fest.
+
+<sup>3</sup> Für Verrichtungen auf Verlangen von Behörden oder Privaten erheben die Bezirksärztinnen und Bezirksärzte von diesen die anwendbare Gebühr.
+
+#### § 5
+
+**c. öffentlichrechtliche Arbeitsverhältnisse**
+
+Werden bezirksärztliche Aufgaben im Rahmen eines öffentlich-rechtlichen Arbeitsverhältnisses erfüllt, sind nur einzelne Verrichtungen gemäss § 4 Abs. 3 entschädigungsberechtigt.
 
 **1**
 
-- 1\. 1. 11 - 71 § 6.[^2-1] Angestellte des Kantons mit einem vollen Pensum, die auch bezirksärztliche Aufgaben erfüllen, beziehen lediglich Entschädigungen gemäss § 3. Die Bestimmungen des kantonalen Personalrechts bleiben vorbehalten.
+- 1\. 7. 26 - 133 § 6. <sup>1</sup> Das Amt für Gesundheit führt Fortbildungsveranstaltungen durch.
 
-**Vollamtliche Bezirksärzte und Adjunkte**
+**Fortbildungsveranstaltungen**
 
-**Rekurs**
+<sup>2</sup> Die Teilnahme ist für die Bezirksärztinnen und Bezirksärzte verpflichtend.
 
-§ 7.[^2-4] Gegen die Festsetzung der Entschädigungen kann Rekurs nach §§ 19 ff. des Verwaltungsrechtspflegegesetzes vom 24. Mai 1959[^2-5] bei der Gesundheitsdirektion erhoben werden.
+<sup>3</sup> Das Amt für Gesundheit kann sie auf begründetes Gesuch hin im Einzelfall von der Teilnahme entbinden.
 
-[^2-1]: Fassung gemäss RRB vom 4. Juni 2003 (OS 58, 122). In Kraft seit 1. Juli 2003.
-[^2-2]: Eingefügt durch RRB vom 6. Oktober 2010 (OS 65, 744; ABl 2010, 2181). In Kraft seit 1. Januar 2011.
-[^2-3]: Aufgehoben durch RRB vom 6. Oktober 2010 (OS 65, 744; ABl 2010, 2181). In Kraft seit 1. Januar 2011.
-[^2-4]: Fassung gemäss RRB vom 6. Oktober 2010 (OS 65, 744; ABl 2010, 2181). In Kraft seit 1. Januar 2011.
-[^2-5]: LS 175.2.
+#### § 7
+
+**Entlassung a. auf Gesuch hin**
+
+<sup>1</sup> Das Amt für Gesundheit kann Bezirksärztinnen und Bezirksärzte auf Gesuch hin mit einer Frist von sechs Monaten auf das Ende eines Monats vorzeitig aus ihrem Amt entlassen, wenn dadurch keine wesentlichen Interessen des Kantons beeinträchtigt werden.
+
+<sup>2</sup> Aus besonderen Gründen kann das Amt für Gesundheit die Entlassung auf einen früheren Zeitpunkt bewilligen.
 
 #### § 8
 
-**Inkrafttreten**
+**b. wegen Unzumutbarkeit**
 
-Diese Verordnung tritt am 1. Januar 1964 in Kraft. Auf den gleichen Zeitpunkt wird die Verordnung über die Entschädigung der Bezirksärzte vom 8. Oktober 1959 aufgehoben.
+Das Amt für Gesundheit kann Bezirksärztinnen und Bezirksärzte jederzeit aus dem Amt entlassen, wenn die Fortsetzung ihrer Amtstätigkeit unzumutbar ist.
+
+### B. Übertragung bezirksärztlicher Aufgaben
+
+[^hBÜbertragungbezir-1]: LS 810.1.
+
+#### § 9
+
+**Dauer**
+
+<sup>1</sup> Die Übertragung von bezirksärztlichen Aufgaben gemäss § 60 Abs. 4 des Gesundheitsgesetzes vom 2. April 2007[^hBÜbertragungbezir-1] erfolgt auf unbestimmte Zeit.
+
+<sup>2</sup> Sie kann vom Amt für Gesundheit oder von der Gemeinde oder Einrichtung, der die Aufgaben übertragen worden sind, mit einer Frist von sechs Monaten auf das Ende eines Monats beendet werden.
+
+<sup>3</sup> Ist die Fortsetzung der Übertragung unzumutbar, kann diese jederzeit beendet werden.
+
+#### § 10
+
+**Entschädigung**
+
+Die Entschädigung von Gemeinden oder Einrichtungen, denen bezirksärztliche Aufgaben übertragen worden sind, richtet sich sinngemäss nach § 4.
