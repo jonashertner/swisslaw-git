@@ -3,27 +3,27 @@ sr: "142.311.23"
 title: "Ordinanza del DFGP del 4 dicembre 2018 sull'esercizio dei centri della Confederazione e degli alloggi presso gli aeroporti"
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/1"
 language: it
-version: 2023-01-26
+version: 2026-06-01
 adopted: 2018-12-04
 in_force: 2019-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/1/20230126/it/xml/fedlex-data-admin-ch-eli-cc-2019-1-20230126-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/1/20230126/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/1/20260601/it/xml/fedlex-data-admin-ch-eli-cc-2019-1-20260601-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/1/20260601/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza del DFGP sull’esercizio dei centri della Confederazione e degli alloggi presso gli aeroporti
 
-del 4 dicembre 2018 (Stato 26 gennaio 2023)
+del 4 dicembre 2018 (Stato 1° giugno 2026)
 
 Il Dipartimento federale di giustizia e polizia (DFGP),
 
-visto l’articolo 24*b* capoverso 2 della legge del 26 giugno 1998[^ingress-1] sull’asilo (LAsi), visti gli articoli 12 capoverso 2 e 16 dell’ordinanza 1 dell’11 agosto 1999[^ingress-2] sull’asilo relativa a questioni procedurali,
+visto l’articolo 25*e* della legge del 26 giugno 1998[^ingress-1] sull’asilo (LAsi),[^ingress-2]
 
 ordina:
 
-[^ingress-1]: [RS 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
-[^ingress-2]: [RS 142.311](https://fedlex.data.admin.ch/eli/cc/1999/359)
+[^ingress-1]: [RS 142.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4878)
+[^ingress-2]: Nuovo testo giusta la cifra I dell’O del DFGP del 29 apr. 2026, in vigore dal 1° giu. 2026 ([RU 2026 200](https://fedlex.data.admin.ch/eli/oc/2026/200)).
 
 ## Sezione 1: Disposizioni generali
 
@@ -39,10 +39,11 @@ La presente ordinanza si applica ai centri della Confederazione di cui al capito
 
 Nella presente ordinanza s’intende per:
 
-- a. *richiedenti l’asilo e persone bisognose di protezione:* le persone che, durante una procedura d’asilo pendente, dopo la concessione di una protezione provvisoria o dopo una decisione di allontanamento passata in giudicato con termine di partenza, dimorano in un centro della Confederazione o in un alloggio all’aeroporto;
-- b. *famiglia:* i coniugi, le famiglie monoparentali, e i loro figli minorenni; sono equiparati ai coniugi i partner registrati e le persone che vivono in unione duratura simile a quella coniugale; nel quadro della procedura Dublino, le nozioni di familiari e parenti sono rette dal regolamento (UE) n. 604/2013[^2-1].
+- a.[^2-1] *richiedenti l’asilo e persone bisognose di protezione:* le persone che, durante una procedura d’asilo pendente, durante una procedura per la concessione di una protezione provvisoria pendente o dopo una decisione di allontanamento passata in giudicato con termine di partenza, dimorano in un centro della Confederazione o in un alloggio all’aeroporto;
+- b. *famiglia:* i coniugi, le famiglie monoparentali, e i loro figli minorenni; sono equiparati ai coniugi i partner registrati e le persone che vivono in unione duratura simile a quella coniugale; nel quadro della procedura Dublino, le nozioni di familiari e parenti sono rette dal regolamento (UE) n. 604/2013[^2-2].
 
-[^2-1]: Regolamento (UE) n. 604/2013 del Parlamento europeo e del Consiglio, del 26 giugno 2013, che stabilisce i criteri e i meccanismi di determinazione dello Stato membro competente per l’esame di una domanda di protezione internazionale presentata in uno degli Stati membri da un cittadino di un Paese terzo o da un apolide (rifusione), versione della GU L 180 del 29.6.2013, pag. 31.
+[^2-1]: Nuovo testo giusta la cifra I dell’O del DFGP del 29 apr. 2026, in vigore dal 1° giu. 2026 ([RU 2026 200](https://fedlex.data.admin.ch/eli/oc/2026/200)).
+[^2-2]: Regolamento (UE) n. 604/2013 del Parlamento europeo e del Consiglio, del 26 giugno 2013, che stabilisce i criteri e i meccanismi di determinazione dello Stato membro competente per l’esame di una domanda di protezione internazionale presentata in uno degli Stati membri da un cittadino di un Paese terzo o da un apolide (rifusione), versione della GU L 180 del 29.6.2013, pag. 31.
 
 #### Art. 3
 
@@ -65,34 +66,22 @@ Hanno accesso ai centri della Confederazione e agli alloggi presso gli aeroporti
 
 #### Art. 4
 
-**Perquisizione e ritiro di oggetti**[^4-1]
+**Perquisizione e messa al sicuro di oggetti**[^4-1]
 
-<sup>1</sup> Allo scopo di garantire o ristabilire la sicurezza e l’ordine, tutelare la sfera privata di altre persone o espletare le procedure secondo la legge sull’asilo nei centri della Confederazione o negli alloggi presso gli aeroporti, il personale del fornitore di prestazioni incaricato dalla SEM addetto alla sicurezza è autorizzato, con il loro consenso, a perquisire i richiedenti l’asilo e le persone bisognose di protezione nonché i loro bagagli.
+<sup>1</sup> Se nel quadro di una perquisizione vengono messi al sicuro degli oggetti, la SEM o il personale di un fornitore di prestazioni incaricato dalla SEM addetto alla sicurezza rilascia una ricevuta all’interessato.
 
-<sup>1bis</sup>
+<sup>2</sup>
 
-La perquisizione è finalizzata a mettere al sicuro i seguenti oggetti e documenti:
+Se la SEM o il personale di un fornitore di prestazioni incaricato dalla SEM addetto alla sicurezza effettua una perquisizione, per gli oggetti di seguito elencati vale quanto indicato qui appresso:
 
-- a. documenti di viaggio e di legittimazione;
-- b. documenti e mezzi di prova rilevanti per la procedura;
-- c. armi, accessori di armi e altri oggetti pericolosi;
-- d. bevande alcoliche e stupefacenti;
-- e. valori patrimoniali ai sensi dell’articolo 16 capoverso 1 dell’ordinanza 2 dell’11 agosto 1999[^4-2] sull’asilo.
+- a. la SEM mette agli atti i documenti di viaggio e di legittimazione messi al sicuro; mette parimenti agli atti i documenti e mezzi di prova rilevanti ai fini dell’accertamento dei fatti nel quadro della procedura di asilo o di allontanamento;
+- b. le armi e gli accessori di armi sono immediatamente notificati e consegnati alla polizia;
+- c. i valori patrimoniali secondo l’articolo 16 capoverso 1 dell’ordinanza 2 dell’11 agosto 1999[^4-2] sull’asilo la cui origine non è chiara sono messi temporaneamente al sicuro.
 
-<sup>2</sup> Il personale di sicurezza può mettere al sicuro gli oggetti di cui al capoverso 1<sup>bis</sup>; rilascia una ricevuta all’interessato. Gli stupefacenti e gli oggetti di cui al capoverso 1<sup>bis</sup> lettera c sono immediatamente notificati e consegnati alla polizia.
+<sup>3</sup> Il regolamento interno può contenere altre disposizioni, in particolare concernenti la conservazione di viveri o l’uso di apparecchi elettronici e la loro eventuale messa al sicuro temporanea in caso di disturbo dell’esercizio.
 
-<sup>3</sup> La SEM mette agli atti i documenti ritirati di cui al capoverso 1<sup>bis</sup> lettere a e b.
-
-<sup>4</sup> I valori patrimoniali di cui al capoverso 1<sup>bis</sup> lettera e, il cui valore è superiore ai 1000 franchi, sono confiscati contro ricevuta.
-
-<sup>5</sup> All’uscita dai centri della Confederazione o degli alloggi presso gli aeroporti gli oggetti e i documenti ritirati temporaneamente sono restituiti.
-
-<sup>6</sup> La perquisizione di richiedenti l’asilo e di persone bisognose di protezione può essere effettuata soltanto da una persona dello stesso sesso.
-
-<sup>7</sup> Il regolamento può contenere altre disposizioni, in particolare concernenti la conservazione di viveri o l’uso di apparecchi elettronici e il loro eventuale ritiro temporaneo in caso di disturbo dell’esercizio.
-
-[^4-1]: Nuovo testo giusta il n. I dell’O del DFGP del 6 dic. 2022, in vigore dal 15 gen. 2023 ([RU 2022 852](https://fedlex.data.admin.ch/eli/oc/2022/852)).
-[^4-2]: [RS 142.312](https://fedlex.data.admin.ch/eli/cc/1999/360)
+[^4-1]: Nuovo testo giusta la cifra I dell’O del DFGP del 29 apr. 2026, in vigore dal 1° giu. 2026 ([RU 2026 200](https://fedlex.data.admin.ch/eli/oc/2026/200)).
+[^4-2]: [RS 142.312](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4882)
 
 #### Art. 5
 
@@ -100,19 +89,21 @@ La perquisizione è finalizzata a mettere al sicuro i seguenti oggetti e documen
 
 <sup>1</sup> I richiedenti l’asilo e le persone bisognose di protezione sono alloggiati in camere separate a seconda del sesso. Le famiglie sono alloggiate nella stessa camera.
 
-<sup>2</sup> Le famiglie sono alloggiate in locali che consentono una buona convivenza e tengono conto, nella misura del possibile, del bisogno di sfera privata.
+<sup>2</sup> Le famiglie sono alloggiate in locali che consentono una buona convivenza e tengono conto, nella misura del possibile, del bisogno di sfera privata e sicurezza.[^5-1]
 
 <sup>3</sup> Contestualmente all’alloggio e all’assistenza occorre tenere conto delle particolari esigenze dei richiedenti l’asilo minorenni non accompagnati, delle persone bisognose di protezione minorenni non accompagnate e di altre persone vulnerabili. I minorenni non accompagnati devono essere alloggiati separatamente dagli adulti.
 
 <sup>4</sup> Per le persone oggetto di una decisione di allontanamento passata in giudicato con termine di partenza che dimorano in centro della Confederazione, la SEM può prevedere, nel rispetto dei capoversi 1–3, in particolare un numero più elevato di persone nelle camere nonché un controllo rafforzato delle presenze.
 
+[^5-1]: Nuovo testo giusta la cifra I dell’O del DFGP del 29 apr. 2026, in vigore dal 1° giu. 2026 ([RU 2026 200](https://fedlex.data.admin.ch/eli/oc/2026/200)).
+
 #### Art. 6
 
-**Requisiti per i fornitori di prestazioni di assistenza e sicurezza**
+**Requisiti per i fornitori di prestazioni di assistenza e sicurezza**[^6-1]
 
-<sup>1</sup> La SEM definisce standard qualitativi per i settori dell’assistenza e della sicurezza. Questi standard qualitativi fungono da base per i capitolati d’oneri dei terzi incaricati dalla SEM di svolgere determinati compiti per garantire l’esercizio.
+Gli standard qualitativi definiti dalla SEM per i settori dell’assistenza e della sicurezza fungono da base per i capitolati d’oneri dei terzi incaricati dalla SEM di svolgere determinati compiti per garantire l’esercizio.
 
-<sup>2</sup> La SEM svolge regolari controlli qualitativi.
+[^6-1]: Nuovo testo giusta la cifra I dell’O del DFGP del 29 apr. 2026, in vigore dal 1° giu. 2026 ([RU 2026 200](https://fedlex.data.admin.ch/eli/oc/2026/200)).
 
 #### Art. 7
 
@@ -128,9 +119,11 @@ L’accesso alle cure mediche di base e alle cure dentistiche urgenti è garanti
 
 #### Art. 9
 
-**Accesso all’istruzione scolastica di base**
+**Accesso all’istruzione scolastica di base**[^9-1]
 
-Il Cantone d’ubicazione organizza l’istruzione scolastica di base per i richiedenti l’asilo e le persone bisognose di protezione in età di scuola dell’obbligo. La SEM lo sostiene nell’attuazione. Può in particolare mettere a disposizione i locali necessari.
+La SEM sostiene i Cantoni d’ubicazione nell’attuazione dell’istruzione scolastica di base per i richiedenti l’asilo e le persone bisognose di protezione in età di scuola dell’obbligo. Può in particolare mettere a disposizione i locali necessari.
+
+[^9-1]: Nuovo testo giusta la cifra I dell’O del DFGP del 29 apr. 2026, in vigore dal 1° giu. 2026 ([RU 2026 200](https://fedlex.data.admin.ch/eli/oc/2026/200)).
 
 #### Art. 10
 
@@ -205,8 +198,8 @@ I centri della Confederazione nei quali sono espletate le procedure d’asilo, e
 
 <sup>4</sup> I visitatori possono trattenersi unicamente nei locali previsti a tale scopo dal regolamento interno.
 
-[^16-1]: Nuovo testo giusta il n. I dell’O del DFGP del 6 dic. 2022, in vigore dal 15 gen. 2023 ([RU 2022 852](https://fedlex.data.admin.ch/eli/oc/2022/852)).
-[^16-2]: Introdotto dal n. I dell’O del DFGP del 6 dic. 2022, in vigore dal 15 gen. 2023 ([RU 2022 852](https://fedlex.data.admin.ch/eli/oc/2022/852)).
+[^16-1]: Nuovo testo giusta la cifra I dell’O del DFGP del 6 dic. 2022, in vigore dal 15 gen. 2023 ([RU 2022 852](https://fedlex.data.admin.ch/eli/oc/2022/852)).
+[^16-2]: Introdotto dalla cifra I dell’O del DFGP del 6 dic. 2022, in vigore dal 15 gen. 2023 ([RU 2022 852](https://fedlex.data.admin.ch/eli/oc/2022/852)).
 
 #### Art. 17
 
@@ -277,99 +270,97 @@ I richiedenti l’asilo e le persone bisognose di protezione devono trattenersi 
 
 #### Art. 24
 
-**Condizioni**
+**Condizioni**[^24-1]
 
 <sup>1</sup>
 
-I richiedenti l’asilo e le persone bisognose di protezione che dimorano nei centri della Confederazione possono essere sanzionati con misure disciplinari se:
+I richiedenti l’asilo e le persone bisognose di protezione che dimorano nei centri della Confederazione e negli alloggi presso gli aeroporti possono essere sanzionati con misure disciplinari se:
 
-- a. violano gli obblighi di cui alla sezione 4; oppure
-- b. minacciano la sicurezza e l’ordine pubblici.
+- a.
 
-<sup>2</sup> La base per disporre una misura disciplinare è data da una comunicazione scritta di un collaboratore della SEM o del servizio di sicurezza o di assistenza all’autorità disciplinare. La comunicazione deve contenere le generalità della persona in questione, una descrizione dei fatti contestati e la data in cui si sono verificati.
+  in violazione del regolamento interno:
+
+  - 1\. portano con sé o conservano oggetti dichiarati proibiti come armi, stupefacenti, alcool o oggetti pericolosi,
+  - 2\. non si attengono a un divieto di fumare,
+  - 3\. registrano audio o video oppure scattano fotografie all’interno dell’alloggio,
+  - 4\. disturbano il riposo notturno,
+  - 5\. consumano pasti al di fuori dei locali designati a tale scopo,
+  - 6\. disattendono istruzioni di comportamento emanate dal personale della SEM o dal fornitore di prestazioni di sicurezza o assistenza,
+  - 7\. penetrano in aree dell’alloggio alle quali non sono autorizzati ad accedere,
+  - 8\. senza giustificato motivo non rispettano gli orari di uscita di cui all’articolo 17 capoversi 2–5;
+
+- b. violano gli obblighi di cui agli articoli 22 e 23; oppure
+- c. minacciano la sicurezza e l’ordine nel centro della Confederazione o nell’alloggio presso l’aeroporto oppure la sicurezza e l’ordine pubblici nelle aree circostanti.
+
+<sup>2</sup> La base per disporre una misura disciplinare è data da una comunicazione scritta di un collaboratore della SEM, del servizio di sicurezza o di assistenza oppure della competente autorità di polizia all’autorità disciplinare del centro della Confederazione o dell’alloggio presso l’aeroporto. La comunicazione deve contenere le generalità della persona in questione, una descrizione dei fatti contestati e la data in cui si sono verificati e una breve presa di posizione dell’interessato.
+
+<sup>3</sup> Nel caso di richiedenti l’asilo o persone bisognose di protezione minorenni, la SEM può astenersi dal disporre misure disciplinari e adottare invece misure pedagogiche, se ciò consente di meglio garantire la loro protezione.
+
+[^24-1]: Nuovo testo giusta la cifra I dell’O del DFGP del 29 apr. 2026, in vigore dal 1° giu. 2026 ([RU 2026 200](https://fedlex.data.admin.ch/eli/oc/2026/200)).
 
 #### Art. 25
 
-**Misure disciplinari**
+[^25-1]
 
-<sup>1</sup>
-
-L’autorità disciplinare può ordinare nei confronti di richiedenti l’asilo e persone bisognose di protezione le seguenti misure disciplinari:
-
-- a. divieto di accedere a determinati locali che altrimenti sono generalmente accessibili ai richiedenti l’asilo e alle persone bisognose di protezione;
-- b. rifiuto dell’uscita;
-- c. rifiuto di titoli di trasporto per mezzi di trasporto pubblici;
-- d. rifiuto della somma per piccole spese;
-- e. esclusione dall’alloggio per al massimo 24 ore;
-- f. assegnazione a un centro speciale di cui all’articolo 24*a* LAsi.
-
-<sup>2</sup> Le misure disciplinari sono limitate nel tempo.
+[^25-1]: Abrogato dalla cifra I dell’O del DFGP del 29 apr. 2026, con effetto dal 1° giu. 2026 ([RU 2026 200](https://fedlex.data.admin.ch/eli/oc/2026/200)).
 
 #### Art. 26
 
-**Emanazione delle misure**
+**Emanazione delle misure**[^26-1]
 
-<sup>1</sup> Le misure disciplinari sono emanate oralmente. Fanno eccezione l’esclusione dall’alloggio per una durata superiore a otto ore e l’assegnazione a un centro speciale di cui all’articolo 24*a* LAsi, per le quali è emanata una decisione scritta.
+<sup>1</sup> L’autorità disciplinare notifica una misura disciplinare al richiedente l’asilo o alla persona bisognosa di protezione tramite un apposito modulo. Esso contiene i dati dell’interessato, i fatti, le misure disposte, una motivazione e l’indicazione dei rimedi giuridici.
 
-<sup>2</sup> Se è vietata l’uscita per una durata superiore a 24 ore oppure reiteratamente, su richiesta della persona interessata l’autorità disciplinare emana una decisione.
+<sup>2</sup> Può essere consegnato all’interessato da dipendenti del servizio di sicurezza o di assistenza. L’interessato conferma la ricevuta del modulo apponendo la propria firma.
 
-<sup>3</sup> Se è disposta l’esclusione dall’alloggio per una durata superiore a otto ore o se al termine di un’esclusione di durata inferiore l’alloggio è chiuso, è messo a disposizione del richiedente l’asilo o della persona bisognosa di protezione un locale separato.
+[^26-1]: Nuovo testo giusta la cifra I dell’O del DFGP del 29 apr. 2026, in vigore dal 1° giu. 2026 ([RU 2026 200](https://fedlex.data.admin.ch/eli/oc/2026/200)).
 
-<sup>4</sup> Se il richiedente l’asilo o la persona bisognosa di protezione dispone di una rappresentanza legale o di una persona di fiducia, la SEM le informa in merito all’emanazione della misura.
+#### Art. 26a
+
+**Informazione alla rappresentanza legale**[^26a-1]
+
+Se il richiedente l’asilo o la persona bisognosa di protezione dispone di una rappresentanza legale o di una persona di fiducia, la SEM informa la rappresentanza legale o la persona di fiducia in merito alla disposizione di una misura disciplinare secondo l’articolo 25*a* capoverso 3 lettere d ed e LAsi. L’informazione avviene tramite copia del modulo di cui all’articolo 26 capoverso 1 o della decisione incidentale di cui all’articolo 25*a* capoverso 6 LAsi.
+
+[^26a-1]: Introdotto dalla cifra I dell’O del DFGP del 29 apr. 2026, in vigore dal 1° giu. 2026 ([RU 2026 200](https://fedlex.data.admin.ch/eli/oc/2026/200)).
 
 #### Art. 27
 
-**Autorità disciplinare**
+**Autorità disciplinare**[^27-1]
 
-<sup>1</sup> L’autorità disciplinare è la direzione dell’alloggio. È competente per l’emanazione di misure disciplinari.
+L’autorità disciplinare è la divisione competente per la regione secondo l’articolo 1*b* dell’ordinanza 1 dell’11 agosto 1999[^27-2] sull’asilo. Può delegare la competenza di emanare misure disciplinari alle direzioni delle sue sezioni.
 
-<sup>2</sup> Può demandare al servizio di sicurezza o di assistenza dell’alloggio il compito di emanare le misure disciplinari, eccettuate l’esclusione dall’alloggio per una durata superiore a otto ore e l’assegnazione a un centro speciale di cui all’articolo 24*a* LAsi.
-
-<sup>3</sup> Il servizio di sicurezza o di assistenza informa regolarmente la direzione dell’alloggio in merito alle misure disciplinari emanate e ai fatti contestati.
+[^27-1]: Nuovo testo giusta la cifra I dell’O del DFGP del 29 apr. 2026, in vigore dal 1° giu. 2026 ([RU 2026 200](https://fedlex.data.admin.ch/eli/oc/2026/200)).
+[^27-2]: [RS 142.311](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4880)
 
 #### Art. 28
 
-**Ricorso**
+**Ricorso**[^28-1]
 
-<sup>1</sup> Le misure disciplinari emanate oralmente possono essere contestate mediante ricorso disciplinare alla direzione dello Stato maggiore Asilo della SEM. La SEM mette a disposizione un pertinente modulo.
+Le misure disciplinari secondo l’articolo 25*a* capoverso 3 lettere a–d LA possono essere contestate mediante ricorso disciplinare alla direzione dello Stato maggiore Centri federali d’asilo della SEM.
 
-<sup>2</sup> Le decisioni secondo l’articolo 26 capoversi 1, secondo periodo, e 2 possono essere impugnate mediante ricorso al Tribunale amministrativo federale.
+[^28-1]: Nuovo testo giusta la cifra I dell’O del DFGP del 29 apr. 2026, in vigore dal 1° giu. 2026 ([RU 2026 200](https://fedlex.data.admin.ch/eli/oc/2026/200)).
 
 #### Art. 29
 
-**Procedura e termini per il ricorso disciplinare**
+[^29-1]
 
-<sup>1</sup> Il ricorso disciplinare va depositato entro tre giorni dalla data in cui la persona interessata è venuta a conoscenza della misura. Se l’ultimo giorno del termine è un sabato, una domenica o un giorno riconosciuto festivo dal diritto federale o cantonale, il termine scade il primo giorno feriale seguente.
-
-<sup>2</sup> Il ricorso disciplinare non ha effetto sospensivo. La misura disciplinare contestata produce effetto fino alla decisione della direzione dello Stato maggiore Asilo della SEM. Se il ricorso disciplinare è manifestamente fondato, lo Stato maggiore Asilo può sospendere l’effetto della misura disciplinare contestata.
-
-<sup>3</sup> La direzione dello Stato maggiore Asilo della SEM decide senza indugio. La decisione, corredata di una breve motivazione, è comunicata per scritto alla persona interessata. Non è impugnabile. È fatto salvo l’articolo 25*a* della legge federale del 20 dicembre 1968[^29-1] sulla procedura amministrativa.
-
-[^29-1]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^29-1]: Abrogato dalla cifra I dell’O del DFGP del 29 apr. 2026, con effetto dal 1° giu. 2026 ([RU 2026 200](https://fedlex.data.admin.ch/eli/oc/2026/200)).
 
 ## Sezione 5*a*: Fermo di breve durata per scongiurare un pericolo immediato
 
 [^sec5a-1]
 
-[^sec5a-1]: Introdotta dal n. I dell’O del DFGP del 6 dic. 2022, in vigore dal 15 gen. 2023 ([RU 2022 852](https://fedlex.data.admin.ch/eli/oc/2022/852)).
+[^sec5a-1]: Introdotta dalla cifra I dell’O del DFGP del 6 dic. 2022, in vigore dal 15 gen. 2023 ([RU 2022 852](https://fedlex.data.admin.ch/eli/oc/2022/852)).
 
 #### Art. 29a
 
-<sup>1</sup>
+[^29a-1]
 
-Per scongiurare un pericolo grave, immediato e non altrimenti evitabile, su ordine della direzione del centro della Confederazione o dell’alloggio presso l’aeroporto i richiedenti l’asilo e le persone bisognose di protezione possono essere temporaneamente trattenuti, se necessario, in un locale appositamente attrezzato, sorvegliato e chiuso all’interno del centro o dell’alloggio, se:[^29a-1]
+I locali di sicurezza destinati ai fermi di breve durata nei centri della Confederazione e negli alloggi presso gli aeroporti devono essere allestiti in modo da garantire l’integrità fisica e psichica degli interessati. Nello specifico, devono essere dotati di:
 
-- a. mettono in serio pericolo altre persone;
-- b. mettono in serio pericolo sé stessi; oppure
-- c. minacciano di causare gravi danni materiali.
+- a. ventilazione naturale o artificiale, illuminazione adeguata e posti a sedere o sdraiati;
+- b. un sistema di chiamata di emergenza per la persona trattenuta.
 
-<sup>2</sup> Prima di procedere al fermo di breve durata occorre informare le autorità di polizia competenti e, se del caso, gli altri organi responsabili. Dopo l’avvenuta comunicazione, la persona interessata può essere trattenuta fino all’arrivo dell’autorità di polizia competente o di un altro organo responsabile. Se entro due ore l’autorità di polizia competente o un altro organo responsabile non si presenta, il fermo di breve durata va interrotto.
-
-<sup>3</sup> All’inizio del fermo di breve durata occorre perquisire la persona interessata e ritirarle tutti gli oggetti pericolosi o non indispensabili. Per tutta la durata del fermo di breve durata occorre monitorare il benessere della persona interessata.
-
-<sup>4</sup> È escluso l’ordine di fermo di breve durata nei confronti di bambini e minori che non hanno ancora compiuto 15 anni.
-
-[^29a-1]: Correzione del 26 gen. 2023 ([RU 2023 32](https://fedlex.data.admin.ch/eli/oc/2023/32)).
+[^29a-1]: Nuovo testo giusta la cifra I dell’O del DFGP del 29 apr. 2026, in vigore dal 1° giu. 2026 ([RU 2026 200](https://fedlex.data.admin.ch/eli/oc/2026/200)).
 
 ## Sezione 6: Disposizioni finali
 
@@ -379,7 +370,7 @@ Per scongiurare un pericolo grave, immediato e non altrimenti evitabile, su ordi
 
 L’ordinanza del DFGP del 24 novembre 2007[^30-1] sulla gestione degli alloggi della Confederazione nel settore dell’asilo è abrogata.
 
-[^30-1]: [[RU 2007 6621](https://fedlex.data.admin.ch/eli/oc/2007/855), [2013 3071](https://fedlex.data.admin.ch/eli/oc/2013/596), [2015 2051](https://fedlex.data.admin.ch/eli/oc/2015/381), [2017 5887](https://fedlex.data.admin.ch/eli/oc/2017/642)]
+[^30-1]: [[RU 2007 6621](https://fedlex.data.admin.ch/eli/oc/2007/855); [2013 3071](https://fedlex.data.admin.ch/eli/oc/2013/596); [2015 2051](https://fedlex.data.admin.ch/eli/oc/2015/381); [2017 5887](https://fedlex.data.admin.ch/eli/oc/2017/642)]
 
 #### Art. 31
 

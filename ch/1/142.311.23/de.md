@@ -3,27 +3,27 @@ sr: "142.311.23"
 title: Verordnung des EJPD vom 4. Dezember 2018 über den Betrieb von Zentren des Bundes und Unterkünften an den Flughäfen
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/1"
 language: de
-version: 2023-01-26
+version: 2026-06-01
 adopted: 2018-12-04
 in_force: 2019-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/1/20230126/de/xml/fedlex-data-admin-ch-eli-cc-2019-1-20230126-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/1/20230126/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/1/20260601/de/xml/fedlex-data-admin-ch-eli-cc-2019-1-20260601-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/1/20260601/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung des EJPD über den Betrieb von Zentren des Bundes und Unterkünften an den Flughäfen
 
-vom 4. Dezember 2018 (Stand am 26. Januar 2023)
+vom 4. Dezember 2018 (Stand am 1. Juni 2026)
 
 Das Eidgenössische Justiz- und Polizeidepartement (EJPD),
 
-gestützt auf Artikel 24*b* Absatz 2 des Asylgesetzes vom 26. Juni 1998[^ingress-1] (AsylG) und Artikel 12 Absatz 2 und Artikel 16 der Asylverordnung 1 vom 11. August 1999[^ingress-2] über Verfahrensfragen,
+gestützt auf Artikel 25*e* des Asylgesetzes vom 26. Juni 1998[^ingress-1] (AsylG),[^ingress-2]
 
 verordnet:
 
-[^ingress-1]: [SR 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
-[^ingress-2]: [SR 142.311](https://fedlex.data.admin.ch/eli/cc/1999/359)
+[^ingress-1]: [SR 142.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4878)
+[^ingress-2]: Fassung gemäss Ziff. I der V des EJPD vom 29. April 2026, in Kraft seit 1. Juni 2026 ([AS 2026 200](https://fedlex.data.admin.ch/eli/oc/2026/200)).
 
 ## 1. Abschnitt: Allgemeine Bestimmungen
 
@@ -39,10 +39,11 @@ Diese Verordnung gilt für die Zentren des Bundes nach Kapitel 2, 2*a*. Abschnit
 
 In dieser Verordnung gelten als:
 
-- a. *Asylsuchende und Schutzbedürftige:* Personen, die sich während eines hängigen Asylverfahrens, nach Gewährung vorübergehenden Schutzes oder nach einem rechtskräftigen Wegweisungsentscheid und angesetzter Ausreisefrist in einem Zentrum des Bundes oder einer Unterkunft am Flughafen aufhalten.
-- b. *Familie:* Ehegatten sowie alleinerziehende Personen und deren minderjährige Kinder; den Ehegatten gleichgestellt sind die eingetragenen Partnerinnen und Partner und die in dauernder eheähnlicher Gemeinschaft zusammenlebenden Personen; im Dublin-Verfahren richten sich die Begriffe Familienangehörige und Verwandte nach der Verordnung (EU) Nr. 604/2013[^2-1].
+- a.[^2-1] *Asylsuchende und Schutzbedürftige:* Personen, die sich während eines hängigen Asylverfahrens, während eines hängigen Verfahrens um Gewährung vorübergehenden Schutzes oder nach einem rechtskräftigen Wegweisungsentscheid und angesetzter Ausreisefrist in einem Zentrum des Bundes oder einer Unterkunft am Flughafen aufhalten;
+- b. *Familie:* Ehegatten sowie alleinerziehende Personen und deren minderjährige Kinder; den Ehegatten gleichgestellt sind die eingetragenen Partnerinnen und Partner und die in dauernder eheähnlicher Gemeinschaft zusammenlebenden Personen; im Dublin-Verfahren richten sich die Begriffe Familienangehörige und Verwandte nach der Verordnung (EU) Nr. 604/2013[^2-2].
 
-[^2-1]: Verordnung (EU) Nr. 604/2013 des Europäischen Parlaments und des Rates vom 26. Juni 2013 zur Festlegung der Kriterien und Verfahren zur Bestimmung des Mitgliedstaats, der für die Prüfung eines von einem Drittstaatsangehörigen oder Staatenlosen in einem Mitgliedstaat gestellten Antrags auf internationalen Schutz zuständig ist (Neufassung), Fassung gemäss ABl. L 180 vom 29.6.2013, S. 31.
+[^2-1]: Fassung gemäss Ziff. I der V des EJPD vom 29. April 2026, in Kraft seit 1. Juni 2026 ([AS 2026 200](https://fedlex.data.admin.ch/eli/oc/2026/200)).
+[^2-2]: Verordnung (EU) Nr. 604/2013 des Europäischen Parlaments und des Rates vom 26. Juni 2013 zur Festlegung der Kriterien und Verfahren zur Bestimmung des Mitgliedstaats, der für die Prüfung eines von einem Drittstaatsangehörigen oder Staatenlosen in einem Mitgliedstaat gestellten Antrags auf internationalen Schutz zuständig ist (Neufassung), Fassung gemäss ABl. L 180 vom 29.6.2013, S. 31.
 
 #### Art. 3
 
@@ -65,34 +66,22 @@ Folgenden Personen wird der Zutritt zu den Zentren des Bundes und den Unterkünf
 
 #### Art. 4
 
-**Durchsuchung und Abnahme von Gegenständen**[^4-1]
+**Durchsuchung und Sicherstellung von Gegenständen**[^4-1]
 
-<sup>1</sup> Das Sicherheitspersonal des vom SEM beauftragten Leistungserbringers kann Asylsuchende und Schutzbedürftige sowie deren mitgeführte Sachen mit deren Einverständnis zur Gewährleistung oder Wiederherstellung der Sicherheit und Ordnung, zum Schutz der Privatsphäre anderer Personen sowie zur Durchführung des Verfahrens nach AsylG in den Zentren des Bundes und den Unterkünften an den Flughäfen durchsuchen.
+<sup>1</sup> Das SEM oder das Sicherheitspersonal eines vom SEM beauftragten Leistungserbringers stellt der betroffenen Person einen Beleg aus, wenn Gegenstände bei einer Durchsuchung sichergestellt werden.
 
-<sup>1bis</sup>
+<sup>2</sup>
 
-Die Durchsuchung bezweckt, folgende Gegenstände und Unterlagen sicherzustellen:
+Führt das SEM oder das Sicherheitspersonal eines vom SEM beauftragten Leistungserbringers eine Durchsuchung durch, so gilt für die nachfolgend genannten Gegenstände:
 
-- a. Reise- und Identitätspapiere;
-- b. verfahrensrelevante Unterlagen und Beweismittel;
-- c. Waffen, Waffenzubehör und weitere gefährliche Gegenstände;
-- d. alkoholische Getränke und Betäubungsmittel;
-- e. Vermögenswerte im Sinne von Artikel 16 Absatz 1 der Asylverordnung 2 vom 11. August 1999[^4-2].
+- a. Das SEM nimmt die sichergestellten Reise- und Identitätsdokumente zu den Akten; relevante Unterlagen und Beweismittel, die zur Ermittlung des Sachverhaltes im Rahmen des Asyl- und Wegweisungsverfahrens dienen, werden ebenfalls zu den Akten genommen.
+- b. Waffen, Waffenzubehör und Betäubungsmittel werden umgehend der Polizei gemeldet und übergeben.
+- c. Vermögenswerte im Sinne von Artikel 16 Absatz 1 Asylverordnung 2 vom 11. August 1999[^4-2], deren Herkunft unklar ist, werden vorläufig sichergestellt.
 
-<sup>2</sup> Das Sicherheitspersonal kann die Gegenstände nach Absatz 1<sup>bis</sup> sicherstellen; es stellt der betroffenen Person einen Beleg aus. Betäubungsmittel und Gegenstände nach Absatz 1<sup>bis</sup> Buchstabe c werden umgehend der Polizei gemeldet und übergeben.
+<sup>3</sup> Weitere Regelungen, insbesondere zur Aufbewahrung von Lebensmitteln oder zum Gebrauch von elektronischen Geräten sowie zu einer allfälligen vorübergehenden Sicherstellung bei Störung des Betriebs, können in der Hausordnung vorgesehen werden.
 
-<sup>3</sup> Das SEM nimmt die eingezogenen Dokumente nach Absatz 1<sup>bis</sup> Buchstaben a und b zu den Akten.
-
-<sup>4</sup> Vermögenswerte nach Absatz 1<sup>bis</sup> Buchstabe e, die den Wert von 1000 Franken übersteigen, werden gegen Ausstellung eines Belegs abgenommen.
-
-<sup>5</sup> Beim Austritt aus den Zentren des Bundes oder den Unterkünften an den Flughäfen werden die vorübergehend eingezogenen Gegenstände und Unterlagen zurückgegeben.
-
-<sup>6</sup> Asylsuchende und Schutzbedürftige dürfen nur von Personen gleichen Geschlechts durchsucht werden.
-
-<sup>7</sup> Weitere Regelungen, insbesondere zur Aufbewahrung von Lebensmitteln oder zum Gebrauch von elektronischen Geräten sowie zu einer allfälligen vorübergehenden Einziehung bei Störung des Betriebs, können in der Hausordnung vorgesehen werden.
-
-[^4-1]: Fassung gemäss Ziff. I der V des EJPD vom 6. Dez. 2022, in Kraft seit 15. Jan. 2023 ([AS 2022 852](https://fedlex.data.admin.ch/eli/oc/2022/852)).
-[^4-2]: [SR 142.312](https://fedlex.data.admin.ch/eli/cc/1999/360)
+[^4-1]: Fassung gemäss Ziff. I der V des EJPD vom 29. April 2026, in Kraft seit 1. Juni 2026 ([AS 2026 200](https://fedlex.data.admin.ch/eli/oc/2026/200)).
+[^4-2]: [SR 142.312](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4882)
 
 #### Art. 5
 
@@ -100,19 +89,21 @@ Die Durchsuchung bezweckt, folgende Gegenstände und Unterlagen sicherzustellen:
 
 <sup>1</sup> Asylsuchende und Schutzbedürftige werden in nach Geschlecht getrennten Schlafräumen untergebracht. Familien werden im gleichen Schlafraum untergebracht.
 
-<sup>2</sup> Familien sind in Räumlichkeiten unterzubringen, die ein funktionierendes Zusammenleben ermöglichen und dem Bedürfnis nach Privatsphäre so weit als möglich Rechnung tragen.
+<sup>2</sup> Familien sind in Räumlichkeiten unterzubringen, die ein funktionierendes Zusammenleben ermöglichen und dem Bedürfnis nach Privatsphäre und Sicherheit so weit als möglich Rechnung tragen.[^5-1]
 
 <sup>3</sup> Den besonderen Bedürfnissen von unbegleiteten minderjährigen Asylsuchenden und Schutzbedürftigen und weiteren vulnerablen Personen ist bei der Unterbringung und Betreuung Rechnung zu tragen. Unbegleitete minderjährige Asylsuchende und Schutzbedürftige sind getrennt von erwachsenen Asylsuchenden und Schutzbedürftigen unterzubringen.
 
 <sup>4</sup> Für Personen, die sich nach einem rechtskräftigen Wegweisungsentscheid und angesetzter Ausreisefrist in einem Zentrum des Bundes aufhalten, kann das SEM, unter Einhaltung der Absätze 1 bis 3, insbesondere eine höhere Auslastung bei der Belegung der Schlafräume sowie eine verstärkte Anwesenheitskontrolle vorsehen.
 
+[^5-1]: Fassung gemäss Ziff. I der V des EJPD vom 29. April 2026, in Kraft seit 1. Juni 2026 ([AS 2026 200](https://fedlex.data.admin.ch/eli/oc/2026/200)).
+
 #### Art. 6
 
-**Anforderungen an Dienstleistungserbringer in den Bereichen Betreuung und Sicherheit**
+**Anforderungen an Dienstleistungserbringer in den Bereichen Betreuung und Sicherheit**[^6-1]
 
-<sup>1</sup> Das SEM legt Qualitätsstandards für die Betreuung und Sicherheit fest. Diese bilden die Grundlage für die Pflichtenhefte von Dritten, die vom SEM mit Aufgaben zur Sicherstellung des Betriebs beauftragt werden.
+Die vom SEM festgelegten Qualitätsstandards für die Betreuung und Sicherheit bilden die Grundlage für die Pflichtenhefte von Dritten, die vom SEM mit Aufgaben zur Sicherstellung des Betriebs beauftragt werden.
 
-<sup>2</sup> Es führt regelmässige Qualitätskontrollen durch.
+[^6-1]: Fassung gemäss Ziff. I der V des EJPD vom 29. April 2026, in Kraft seit 1. Juni 2026 ([AS 2026 200](https://fedlex.data.admin.ch/eli/oc/2026/200)).
 
 #### Art. 7
 
@@ -128,9 +119,11 @@ Der Zugang zur medizinischen Grundversorgung und zur zahnärztlichen Notversorgu
 
 #### Art. 9
 
-**Zugang zum Grundschulunterricht**
+**Zugang zum Grundschulunterricht**[^9-1]
 
-Der Standortkanton organisiert den Grundschulunterricht für Asylsuchende und Schutzbedürftige im schulpflichtigen Alter. Das SEM unterstützt ihn bei der Umsetzung. Es kann ihm insbesondere die notwendigen Räumlichkeiten zur Verfügung stellen.
+Das SEM unterstützt die Standortkantone bei der Umsetzung des Grundschulunterrichts für Asylsuchende und Schutzbedürftige im schulpflichtigen Alter. Es kann ihnen insbesondere die notwendigen Räumlichkeiten zur Verfügung stellen.
+
+[^9-1]: Fassung gemäss Ziff. I der V des EJPD vom 29. April 2026, in Kraft seit 1. Juni 2026 ([AS 2026 200](https://fedlex.data.admin.ch/eli/oc/2026/200)).
 
 #### Art. 10
 
@@ -277,75 +270,80 @@ Asylsuchende und Schutzbedürftige müssen sich in der Unterkunft aufhalten, sol
 
 #### Art. 24
 
-**Voraussetzungen**
+**Voraussetzungen**[^24-1]
 
 <sup>1</sup>
 
-Asylsuchende und Schutzbedürftige in den Zentren des Bundes können mit Disziplinarmassnahmen sanktioniert werden, wenn sie:
+Asylsuchende und Schutzbedürftige in den Zentren des Bundes und den Unterkünften an den Flughäfen können mit Disziplinarmassnahmen sanktioniert werden, wenn sie:
 
-- a. die Pflichten nach dem 4. Abschnitt verletzen; oder
-- b. die öffentliche Sicherheit und Ordnung gefährden.
+- a.
 
-<sup>2</sup> Grundlage für die Anordnung einer Disziplinarmassnahme ist eine schriftliche Mitteilung einer Mitarbeiterin oder eines Mitarbeiters des SEM oder des Sicherheits- oder des Betreuungsdiensts an die Disziplinarbehörde. Die Mitteilung muss die Personalien der betroffenen Person sowie eine Darlegung des beanstandeten Vorfalls und dessen Datum enthalten.
+  entgegen den Regeln der Hausordnung:
+
+  - 1\. als verboten deklarierte Gegenstände wie Waffen, Betäubungsmittel, Alkohol oder gefährliche Gegenstände mit sich führen oder aufbewahren,
+  - 2\. ein Rauchverbot missachten,
+  - 3\. Ton-, Bild oder Videoaufnahmen innerhalb der Unterkunft machen,
+  - 4\. die Nachtruhe stören,
+  - 5\. ausserhalb der dafür bezeichneten Räumlichkeiten Mahlzeiten einnehmen,
+  - 6\. Verhaltensanweisungen der Mitarbeiterinnen und Mitarbeiter des SEM oder des Sicherheits- oder Betreuungsdienstleitungserbringers missachten,
+  - 7\. Räume der Unterkunft betreten, zu denen ihr der Zutritt nicht gestattet ist,
+  - 8\. sich unentschuldigt nicht an die Ausgangzeiten nach Artikel 17 Absätze 2–5 halten;
+
+- b. die Pflichten nach den Artikeln 22 und 23 verletzen; oder
+- c. die Sicherheit und Ordnung im Zentrum des Bundes oder der Unterkunft am Flughafen oder die öffentliche Sicherheit und Ordnung in deren Umgebung gefährden.
+
+<sup>2</sup> Grundlage für die Anordnung einer Disziplinarmassnahme ist eine schriftliche Mitteilung einer Mitarbeiterin oder eines Mitarbeiters des SEM, des Sicherheits- oder des Betreuungsdiensts oder der zuständigen Polizeibehörde an die Disziplinarbehörde des Zentrums des Bundes oder der Unterkunft am Flughafen. Die Mitteilung muss die Personalien der betroffenen Person sowie eine Darlegung des beanstandeten Vorfalls, dessen Datum und eine kurze Stellungnahme der betroffenen Person enthalten.
+
+<sup>3</sup> Das SEM kann bei minderjährigen Asylsuchenden und Schutzbedürftigen von der Anordnung von Disziplinarmassnahmen absehen und an deren Stelle pädagogische Massnahmen ergreifen, wenn der Schutz der Minderjährigen dadurch besser gewährleistet werden kann.
+
+[^24-1]: Fassung gemäss Ziff. I der V des EJPD vom 29. April 2026, in Kraft seit 1. Juni 2026 ([AS 2026 200](https://fedlex.data.admin.ch/eli/oc/2026/200)).
 
 #### Art. 25
 
-**Disziplinarmassnahmen**
+[^25-1]
 
-<sup>1</sup>
-
-Die Disziplinarbehörde kann gegenüber Asylsuchenden und Schutzbedürftigen die folgenden Disziplinarmassnahmen anordnen:
-
-- a. Verbot, bestimmte Räume zu betreten, die für Asylsuchende und Schutzbedürftige sonst allgemein zugänglich sind;
-- b. Verweigerung des Ausgangs;
-- c. Verweigerung von Fahrausweisen für den öffentlichen Verkehr;
-- d. Nichtgewährung von Taschengeld;
-- e. Ausschluss aus der Unterkunft für höchstens 24 Stunden;
-- f. Zuweisung in ein besonderes Zentrum nach Artikel 24*a* AsylG.
-
-<sup>2</sup> Die Disziplinarmassnahmen sind zu befristen.
+[^25-1]: Aufgehoben durch Ziff. I der V des EJPD vom 29. April 2026, mit Wirkung seit 1. Juni 2026 ([AS 2026 200](https://fedlex.data.admin.ch/eli/oc/2026/200)).
 
 #### Art. 26
 
-**Anordnung der Massnahmen**
+**Anordnung der Massnahmen**[^26-1]
 
-<sup>1</sup> Die Disziplinarmassnahmen werden mündlich angeordnet. Mit einer Verfügung schriftlich anzuordnen sind der Ausschluss aus der Unterkunft für länger als 8 Stunden sowie die Zuweisung in ein besonderes Zentrum nach Artikel 24*a* AsylG.
+<sup>1</sup> Die Disziplinarbehörde eröffnet der asylsuchenden oder schutzbedürftigen Person eine Disziplinarmassnahme mittels eines Formulars. Dieses enthält Angaben zur betroffenen Person, den Sachverhalt, die angeordneten Massnahmen, eine Begründung und eine Rechtsmittelbelehrung.
 
-<sup>2</sup> Wird der Ausgang für länger als 24 Stunden oder wiederholt verweigert, so erlässt die Disziplinarbehörde auf Verlangen der betroffenen Person eine Verfügung.
+<sup>2</sup> Es kann der betroffenen Person durch Mitarbeitende des Sicherheits- oder des Betreuungsdiensts ausgehändigt werden. Die betroffene Person bestätigt den Empfang des Formulars mit ihrer Unterschrift.
 
-<sup>3</sup> Wird der Ausschluss aus der Unterkunft für länger als 8 Stunden angeordnet oder ist die Unterkunft nach Ablauf einer kürzeren Dauer geschlossen, so ist der asylsuchenden oder schutzbedürftigen Person ein separater Raum zur Verfügung zu stellen.
+[^26-1]: Fassung gemäss Ziff. I der V des EJPD vom 29. April 2026, in Kraft seit 1. Juni 2026 ([AS 2026 200](https://fedlex.data.admin.ch/eli/oc/2026/200)).
 
-<sup>4</sup> Verfügt die asylsuchende oder schutzbedürftige Person über eine Rechtsvertretung oder eine Vertrauensperson, so wird diese vom SEM über die Anordnung einer Massnahme informiert.
+#### Art. 26a
+
+**Information der Rechtsvertretung**[^26a-1]
+
+Verfügt die asylsuchende oder schutzbedürftige Person über eine Rechtsvertretung oder eine Vertrauensperson, so wird diese vom SEM über die Anordnung einer Disziplinarmassnahme nach Artikel 25*a* Absatz 3 Buchstaben d und e AsylG informiert. Die Information erfolgt mittels Kopie des Formulars nach Artikel 26 Absatz 1 oder der Zwischenverfügung nach Artikel 25*a* Absatz 6 AsylG.
+
+[^26a-1]: Eingefügt durch Ziff. I der V des EJPD vom 29. April 2026, in Kraft seit 1. Juni 2026 ([AS 2026 200](https://fedlex.data.admin.ch/eli/oc/2026/200)).
 
 #### Art. 27
 
-**Disziplinarbehörde**
+**Disziplinarbehörde**[^27-1]
 
-<sup>1</sup> Disziplinarbehörde ist die Leitung der Unterkunft. Sie ist für die Anordnung von Disziplinarmassnahmen zuständig.
+Disziplinarbehörde ist die Leitung der für die Region nach Artikel 1*b* der Asylverordnung 1 vom 11. August 1999[^27-2] zuständigen Abteilung. Sie kann die Kompetenz zur Anordnung von Disziplinarmassnahmen an ihre Sektionsleitungen übertragen.
 
-<sup>2</sup> Sie kann diese Aufgabe an den Sicherheits- oder den Betreuungsdienst der Unterkunft übertragen, mit Ausnahme der Befugnis zur Anordnung eines Ausschlusses aus der Unterkunft für länger als 8 Stunden oder einer Zuweisung in ein besonderes Zentrum nach Artikel 24*a* AsylG.
-
-<sup>3</sup> Der Sicherheits- oder der Betreuungsdienst informiert die Leitung der Unterkunft regelmässig über die angeordneten Disziplinarmassnahmen und die beanstandeten Vorfälle.
+[^27-1]: Fassung gemäss Ziff. I der V des EJPD vom 29. April 2026, in Kraft seit 1. Juni 2026 ([AS 2026 200](https://fedlex.data.admin.ch/eli/oc/2026/200)).
+[^27-2]: [SR 142.311](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4880)
 
 #### Art. 28
 
-**Beschwerde**
+**Beschwerde**[^28-1]
 
-<sup>1</sup> Disziplinarmassnahmen, die mündlich angeordnet wurden, können mit Disziplinarbeschwerde bei der Leitung des Stabs Asyl des SEM angefochten werden. Das SEM stellt zu diesem Zweck ein Formular zur Verfügung.
+Disziplinarmassnahmen nach Artikel 25*a* Absatz 3 Buchstaben a–d AsylG können mit Disziplinarbeschwerde bei der Leitung des Stabs Bundesasylzentren des SEM angefochten werden.
 
-<sup>2</sup> Verfügungen nach Artikel 26 Absätze 1 zweiter Satz und Absatz 2 können mit Beschwerde beim Bundesverwaltungsgericht angefochten werden.
+[^28-1]: Fassung gemäss Ziff. I der V des EJPD vom 29. April 2026, in Kraft seit 1. Juni 2026 ([AS 2026 200](https://fedlex.data.admin.ch/eli/oc/2026/200)).
 
 #### Art. 29
 
-**Verfahren und Fristen für die Disziplinarbeschwerde**
+[^29-1]
 
-<sup>1</sup> Disziplinarbeschwerden sind spätestens drei Tage, nachdem die betroffene Person Kenntnis von der Massnahme erlangt hat, einzureichen. Ist der letzte Tag dieser Frist ein Samstag, ein Sonntag oder ein vom Bundesrecht oder vom kantonalen Recht anerkannter Feiertag, so endet sie am nächstfolgenden Werktag.
-
-<sup>2</sup> Die Disziplinarbeschwerde hat keine aufschiebende Wirkung. Die angefochtene Disziplinarmassnahme bleibt bis zum Entscheid der Leitung des Stabs Asyl des SEM wirksam. Dieser kann die Wirkung der angefochtenen Disziplinarmassnahme aufschieben, wenn die Disziplinarbeschwerde offensichtlich begründet ist.
-
-<sup>3</sup> Die Leitung des Stabs Asyl des SEM entscheidet unverzüglich. Der Entscheid wird kurz begründet und der betroffenen Person schriftlich mitgeteilt. Er kann nicht angefochten werden. Vorbehalten bleibt Artikel 25*a* des Verwaltungsverfahrensgesetzes vom 20. Dezember 1968[^29-1].
-
-[^29-1]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^29-1]: Aufgehoben durch Ziff. I der V des EJPD vom 29. April 2026, mit Wirkung seit 1. Juni 2026 ([AS 2026 200](https://fedlex.data.admin.ch/eli/oc/2026/200)).
 
 ## 5*a*. Abschnitt: Vorübergehende Festhaltung zur Abwendung unmittelbarer Gefahr
 
@@ -355,21 +353,14 @@ Die Disziplinarbehörde kann gegenüber Asylsuchenden und Schutzbedürftigen die
 
 #### Art. 29a
 
-<sup>1</sup>
+[^29a-1]
 
-Asylsuchende und Schutzbedürftige können zur Abwehr einer ernsten, unmittelbaren und nicht anders abwendbaren Gefahr auf Anordnung der Leitung des Zentrums des Bundes oder der Unterkunft am Flughafen nötigenfalls in einem dafür besonders ausgestatteten, überwachten und geschlossenen Raum innerhalb der Unterkunft vorübergehend festgehalten werden, wenn sie:[^29a-1]
+Die für die vorübergehende Festhaltung vorgesehenen Sicherheitsräume in den Zentren des Bundes und den Unterkünften an den Flughäfen müssen so gestaltet sein, dass sie die körperliche und psychische Unversehrtheit der betroffenen Personen gewährleisten. Sie müssen insbesondere:
 
-- a. andere Personen erheblich gefährden;
-- b. sich selbst erheblich gefährden; oder
-- c. einen grösseren Sachschaden zu verursachen drohen.
+- a. über natürliche oder künstliche Belüftung, ausreichende Beleuchtung, sowie eine Sitz- oder Liegegelegenheit verfügen;
+- b. über ein Notrufsystem für die festgehaltene Person verfügen.
 
-<sup>2</sup> Vor der vorübergehenden Festhaltung sind die zuständigen Polizeibehörden und bei Bedarf weitere zuständige Stellen zu informieren. Nach erfolgter Meldung kann die betroffene Person bis zum Eintreffen der zuständigen Polizeibehörden oder anderer zuständiger Stellen festgehalten werden. Treffen diese nicht innerhalb von zwei Stunden nach erfolgter Meldung ein, ist die vorübergehende Festhaltung zu beenden.
-
-<sup>3</sup> Zu Beginn der vorübergehenden Festhaltung ist die betroffene Person zu durchsuchen, und sämtliche gefährlichen oder nicht benötigten Gegenstände sind ihr abzunehmen. Während der vorübergehenden Festhaltung ist das persönliche Wohlbefinden der betroffenen Person zu überwachen.
-
-<sup>4</sup> Die Anordnung einer vorübergehenden Festhaltung ist bei Kindern und Jugendlichen, die das 15. Altersjahr noch nicht zurückgelegt haben, ausgeschlossen.
-
-[^29a-1]: Die Berichtigung vom 26. Jan. 2023 betrifft nur den italienischen Text ([AS 2023 32](https://fedlex.data.admin.ch/eli/oc/2023/32)).
+[^29a-1]: Fassung gemäss Ziff. I der V des EJPD vom 29. April 2026, in Kraft seit 1. Juni 2026 ([AS 2026 200](https://fedlex.data.admin.ch/eli/oc/2026/200)).
 
 ## 6. Abschnitt: Schlussbestimmungen
 

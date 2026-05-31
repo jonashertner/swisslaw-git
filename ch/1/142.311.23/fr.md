@@ -3,27 +3,27 @@ sr: "142.311.23"
 title: "Ordonnance du DFJP du 4 décembre 2018 relative à l'exploitation des centres de la Confédération et des logements dans les aéroports"
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/1"
 language: fr
-version: 2023-01-26
+version: 2026-06-01
 adopted: 2018-12-04
 in_force: 2019-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/1/20230126/fr/xml/fedlex-data-admin-ch-eli-cc-2019-1-20230126-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/1/20230126/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/1/20260601/fr/xml/fedlex-data-admin-ch-eli-cc-2019-1-20260601-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/1/20260601/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance du DFJP relative à l’exploitation des centres de la Confédération et des logements dans les aéroports
 
-du 4 décembre 2018 (État le 26 janvier 2023)
+du 4 décembre 2018 (État le 1<sup>er</sup> juin 2026)
 
 Le Département fédéral de justice et police (DFJP),
 
-vu l’art. 24*b*, al. 2, de la loi du 26 juin 1998 sur l’asile (LAsi)[^ingress-1], vu les art. 12, al. 2, et 16 de l’ordonnance 1 du 11 août 1999 sur l’asile relative à la procédure[^ingress-2],
+vu l’art. 25*e* de la loi du 26 juin 1998 sur l’asile (LAsi)[^ingress-1],[^ingress-2]
 
 arrête:
 
-[^ingress-1]: [RS 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
-[^ingress-2]: [RS 142.311](https://fedlex.data.admin.ch/eli/cc/1999/359)
+[^ingress-1]: [RS 142.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4878)
+[^ingress-2]: Nouvelle teneur selon le ch. I de l’O du DFJP du 29 avr. 2026, en vigueur depuis le 1<sup>er</sup> juin 2026 ([RO 2026 200](https://fedlex.data.admin.ch/eli/oc/2026/200)).
 
 ## Section 1 Dispositions générales
 
@@ -37,12 +37,14 @@ La présente ordonnance s’applique aux centres de la Confédération visés au
 
 **Définitions**
 
-Au sens de la présente ordonnance, on entend par:
+On entend par:[^2-1]
 
-- a. *requérant d’asile ou personne à protéger:* une personne séjournant dans un centre de la Confédération ou un logement dans un aéroport au cours d’une procédure d’asile, à la suite de l’octroi d’une protection provisoire ou après qu’une décision de renvoi est entrée en force et qu’un délai de départ a été imparti;
-- b. *famille:* les conjoints, les personnes élevant seules leurs enfants, et leurs enfants mineurs; sont assimilés aux conjoints les partenaires enregistrés et les personnes qui vivent en concubinage de manière durable; dans le cadre de la procédure Dublin, les termes membres de la famille et proches se réfèrent au règlement (UE) n<sup>o</sup> 604/2013[^2-1].
+- a.[^2-2] *requérant d’asile ou personne à protéger:* une personne séjournant dans un centre de la Confédération ou un logement dans un aéroport au cours d’une procédure d’asile, au cours d’une procédure d’octroi d’une protection provisoire ou après qu’une décision de renvoi est entrée en force et qu’un délai de départ a été imparti;
+- b. *famille:* les conjoints, les personnes élevant seules leurs enfants, et leurs enfants mineurs; sont assimilés aux conjoints les partenaires enregistrés et les personnes qui vivent en concubinage de manière durable; dans le cadre de la procédure Dublin, les termes membres de la famille et proches se réfèrent au règlement (UE) n<sup>o</sup> 604/2013[^2-3].
 
-[^2-1]: Règlement (UE) n<sup>o</sup> 604/2013 du Parlement européen et du Conseil du 26.6.2013 établissant les critères et mécanismes de détermination de l’État membre responsable de l’examen d’une demande de protection internationale introduite dans l’un des États membres par un ressortissant de pays tiers ou un apatride (refonte), version du JO L 180 du 29.6.2013, p. 31
+[^2-1]: Nouvelle teneur selon le ch. I de l’O du DFJP du 29 avr. 2026, en vigueur depuis le 1<sup>er</sup> juin 2026 ([RO 2026 200](https://fedlex.data.admin.ch/eli/oc/2026/200)).
+[^2-2]: Nouvelle teneur selon le ch. I de l’O du DFJP du 29 avr. 2026, en vigueur depuis le 1<sup>er</sup> juin 2026 ([RO 2026 200](https://fedlex.data.admin.ch/eli/oc/2026/200)).
+[^2-3]: Règlement (UE) n<sup>o</sup> 604/2013 du Parlement européen et du Conseil du 26.6.2013 établissant les critères et mécanismes de détermination de l’État membre responsable de l’examen d’une demande de protection internationale introduite dans l’un des États membres par un ressortissant de pays tiers ou un apatride (refonte), version du JO L 180 du 29.6.2013, p. 31
 
 #### Art. 3
 
@@ -67,32 +69,20 @@ Les personnes suivantes sont autorisées à accéder aux centres de la Confédé
 
 **Fouille et saisie d’objets**[^4-1]
 
-<sup>1</sup> Pour garantir ou rétablir la sécurité et l’ordre, protéger la sphère privée d’autres personnes ou encore mener les procédures selon la LAsi dans les centres de la Confédération et les logements dans les aéroports, le personnel de sécurité du prestataire mandaté par le SEM est habilité à fouiller, moyennant leur accord, les requérants d’asile et les personnes à protéger, de même que leurs effets personnels.
+<sup>1</sup> Le SEM ou le personnel de sécurité d’un prestataire mandaté par le SEM délivre un accusé de réception à la personne concernée lorsque des objets sont saisis lors d’une fouille.
 
-<sup>1bis</sup>
+<sup>2</sup>
 
-La fouille vise à saisir les objets et documents suivants:
+Si le SEM ou le personnel de sécurité d’un prestataire mandaté par le SEM procède à une fouille, les règles suivantes s’appliquent concernant les objets mentionnés ci-dessous:
 
-- a. documents de voyage et pièces d’identité;
-- b. documents et moyens de preuve déterminants pour la procédure;
-- c. armes, accessoires d’armes et autres objets dangereux;
-- d. boissons alcoolisées et stupéfiants;
-- e. valeurs patrimoniales au sens de l’art. 16, al. 1, de l’ordonnance 2 du 11 août 1999 sur l’asile[^4-2].
+- a. le SEM verse au dossier de la personne concernée les documents de voyage et d’identité saisis; les documents et les moyens de preuve déterminants qui servent à l’établissement des faits dans le cadre de la procédure d’asile et de renvoi sont également versés au dossier;
+- b. les armes, les accessoires d’armes et les stupéfiants sont immédiatement annoncés et remis à la police;
+- c. les valeurs patrimoniales au sens de l’art. 16, al. 1, de l’ordonnance 2 du 11 août 1999 sur l’asile[^4-2] sont saisies provisoirement lorsque leur provenance est indéterminée.
 
-<sup>2</sup> Le personnel de sécurité peut saisir les objets visés à l’al. 1<sup>bis</sup>; il délivre un accusé de réception à la personne concernée. Les stupéfiants et les objets visés à l’al. 1<sup>bis</sup>, let. c, sont immédiatement annoncés et remis à la police.
+<sup>3</sup> Le règlement intérieur peut prévoir d’autres règles, notamment sur la conservation de denrées alimentaires ou l’utilisation d’appareils électroniques, de même que sur une éventuelle saisie provisoire en cas d’atteinte au fonctionnement du centre ou du logement dans l’aéroport.
 
-<sup>3</sup> Le SEM verse au dossier de la personne concernée les documents saisis qui sont mentionnés à l’al. 1<sup>bis</sup>, let. a et b.
-
-<sup>4</sup> Les valeurs patrimoniales visées à l’al. 1<sup>bis</sup>, let. e, supérieures à 1000 francs sont saisies contre la remise d’un accusé de réception.
-
-<sup>5</sup> Les objets et documents provisoirement saisis sont restitués à leur propriétaire à sa sortie du centre ou du logement dans l’aéroport.
-
-<sup>6</sup> Les requérants d’asile et les personnes à protéger ne peuvent être fouillés que par des personnes du même sexe.
-
-<sup>7</sup> Le règlement intérieur peut prévoir d’autres règles, notamment concernant la conservation de denrées alimentaires ou l’utilisation d’appareils électroniques, de même que sur leur éventuelle confiscation provisoire en cas d’atteinte au fonctionnement du centre ou du logement dans l’aéroport.
-
-[^4-1]: Nouvelle teneur selon le ch. I de l’O du DFJP du 6 déc. 2022, en vigueur depuis le 15 janv. 2023 ([RO 2022 852](https://fedlex.data.admin.ch/eli/oc/2022/852)).
-[^4-2]: [RS 142.312](https://fedlex.data.admin.ch/eli/cc/1999/360)
+[^4-1]: Nouvelle teneur selon le ch. I de l’O du DFJP du 29 avr. 2026, en vigueur depuis le 1<sup>er</sup> juin 2026 ([RO 2026 200](https://fedlex.data.admin.ch/eli/oc/2026/200)).
+[^4-2]: [RS 142.312](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4882)
 
 #### Art. 5
 
@@ -100,19 +90,21 @@ La fouille vise à saisir les objets et documents suivants:
 
 <sup>1</sup> Les requérants d’asile et les personnes à protéger sont logés dans des dortoirs non mixtes. Les familles sont hébergées dans un même dortoir.
 
-<sup>2</sup> Les familles sont hébergées dans des locaux qui permettent une vie commune et qui prennent en compte, autant que possible, le besoin de disposer d’une sphère privée.
+<sup>2</sup> Les familles sont hébergées dans des locaux qui permettent une vie commune et qui prennent en compte, autant que possible, le besoin de sphère privée et de sécurité.[^5-1]
 
 <sup>3</sup> Les besoins particuliers des requérants d’asile et des personnes à protéger mineurs non accompagnés, de même que des autres personnes vulnérables, sont pris en compte lors de leur hébergement et de leur encadrement. Les requérants d’asile et les personnes à protéger mineurs non accompagnés sont logés à l’écart des requérants d’asile et des personnes à protéger adultes.
 
 <sup>4</sup> Dans le respect des al. 1 à 3, le SEM peut notamment prévoir un taux d’occupation plus élevé des dortoirs et un contrôle des présences renforcé pour les personnes qui séjournent dans un centre de la Confédération après avoir reçu une décision de renvoi entrée en force assortie d’un délai de départ.
 
+[^5-1]: Nouvelle teneur selon le ch. I de l’O du DFJP du 29 avr. 2026, en vigueur depuis le 1<sup>er</sup> juin 2026 ([RO 2026 200](https://fedlex.data.admin.ch/eli/oc/2026/200)).
+
 #### Art. 6
 
-**Exigences posées aux prestataires de services dans les domaines de l’encadrement et de la sécurité**
+**Exigences posées aux prestataires de services dans les domaines de l’encadrement et de la sécurité**[^6-1]
 
-<sup>1</sup> Le SEM définit des critères de qualité concernant l’encadrement et la sécurité. Ces critères forment la base du cahier des charges des tiers mandatés par le SEM pour accomplir des tâches visant à assurer le fonctionnement des centres ou des logements dans les aéroports.
+Les critères de qualité définis par le SEM en matière d’encadrement et de sécurité forment la base du cahier des charges des tiers mandatés par le SEM pour accomplir des tâches visant à assurer le fonctionnement des centres ou des logements dans les aéroports.
 
-<sup>2</sup> Il effectue régulièrement des contrôles de qualité.
+[^6-1]: Nouvelle teneur selon le ch. I de l’O du DFJP du 29 avr. 2026, en vigueur depuis le 1<sup>er</sup> juin 2026 ([RO 2026 200](https://fedlex.data.admin.ch/eli/oc/2026/200)).
 
 #### Art. 7
 
@@ -128,9 +120,11 @@ L’accès aux soins médicaux de base et aux soins dentaires d’urgence est as
 
 #### Art. 9
 
-**Accès à l’enseignement de base**
+**Accès à l’enseignement de base**[^9-1]
 
-Le canton abritant un centre organise l’enseignement de base pour les requérants d’asile en âge de scolarité. Le SEM soutient le canton dans la mise en œuvre de ce principe. Il peut notamment mettre à sa disposition les locaux nécessaires.
+Le SEM soutient les cantons abritant un centre dans la mise en œuvre de l’enseignement de base pour les requérants d’asile et les personnes à protéger en âge de scolarité. Il peut notamment mettre à leur disposition les locaux nécessaires.
+
+[^9-1]: Nouvelle teneur selon le ch. I de l’O du DFJP du 29 avr. 2026, en vigueur depuis le 1<sup>er</sup> juin 2026 ([RO 2026 200](https://fedlex.data.admin.ch/eli/oc/2026/200)).
 
 #### Art. 10
 
@@ -277,75 +271,80 @@ Les requérants d’asile et les personnes à protéger séjournent dans le loge
 
 #### Art. 24
 
-**Conditions**
+**Conditions**[^24-1]
 
 <sup>1</sup>
 
-Les requérants d’asile et les personnes à protéger hébergés dans les centres de la Confédération peuvent être sanctionnés par des mesures disciplinaires dans une des situations suivantes:
+Les requérants d’asile et les personnes à protéger hébergés dans les centres de la Confédération et les logements dans les aéroports peuvent être sanctionnés par des mesures disciplinaires dans les situations suivantes:
 
-- a. s’ils enfreignent les obligations visées à la section 4;
-- b. s’ils menacent la sécurité et l’ordre publics.
+- a.
 
-<sup>2</sup> Toute mesure disciplinaire repose sur une communication écrite d’un collaborateur du SEM ou du service de sécurité ou d’encadrement adressée à l’autorité disciplinaire. La communication mentionne l’identité de la personne concernée, expose les faits qui lui sont reprochés et indique leur date.
+  s’ils violent les prescriptions du règlement intérieur:
+
+  - 1\. en ayant sur eux ou en conservant des objets interdits, tels que des armes, des stupéfiants, des boissons alcoolisées ou des objets dangereux,
+  - 2\. en contrevenant à une interdiction de fumer,
+  - 3\. en faisant des enregistrements audio ou vidéo ou en prenant des photos au sein du logement,
+  - 4\. en perturbant le repos nocturne,
+  - 5\. en prenant leurs repas en dehors des locaux désignés à cet effet,
+  - 6\. en ne respectant pas les consignes de comportement communiquées par les collaborateurs du SEM ou du service de sécurité ou d’encadrement,
+  - 7\. en pénétrant dans des locaux du logement auxquels ils n’ont pas le droit d’accéder,
+  - 8\. en enfreignant sans excuse les heures de sortie visées à l’art. 17, al. 2 à 5;
+
+- b. s’ils enfreignent les obligations visées aux art. 22 et 23;
+- c. s’ils menacent la sécurité et l’ordre dans les centres de la Confédération ou les logements dans les aéroports, ou la sécurité et l’ordre publics dans leurs alentours.
+
+<sup>2</sup> Toute mesure disciplinaire repose sur une communication écrite d’un collaborateur du SEM, du service de sécurité ou d’encadrement ou de l’autorité de police compétente adressée à l’autorité disciplinaire du centre de la Confédération ou du logement dans un aéroport concernés. La communication mentionne l’identité de la personne concernée, expose les faits qui lui sont reprochés, indique leur date et comporte une prise de position succincte de la personne concernée.
+
+<sup>3</sup> Le SEM peut renoncer à prononcer des mesures disciplinaires à l’encontre de requérants d’asile et de personnes à protéger mineurs et, en lieu et place, prendre des mesures pédagogiques, si ces dernières permettent de garantir une meilleure protection de ces personnes.
+
+[^24-1]: Nouvelle teneur selon le ch. I de l’O du DFJP du 29 avr. 2026, en vigueur depuis le 1<sup>er</sup> juin 2026 ([RO 2026 200](https://fedlex.data.admin.ch/eli/oc/2026/200)).
 
 #### Art. 25
 
-**Mesures disciplinaires**
+[^25-1]
 
-<sup>1</sup>
-
-L’autorité disciplinaire peut prononcer les mesures disciplinaires suivantes vis-à-vis des requérants d’asile et des personnes à protéger:
-
-- a. interdiction de pénétrer dans certains locaux ouverts en temps normal à l’ensemble des requérants d’asile et des personnes à protéger;
-- b. refus de sortie;
-- c. refus de titre de transport pour les transports publics;
-- d. refus d’argent de poche;
-- e. exclusion du logement pour une durée maximale de 24 heures;
-- f. assignation à un centre spécifique au sens de l’art. 24*a* LAsi.
-
-<sup>2</sup> Les mesures disciplinaires sont limitées dans le temps.
+[^25-1]: Abrogé par le ch. I de l’O du DFJP du 29 avr. 2026, avec effet au 1<sup>er</sup> juin 2026 ([RO 2026 200](https://fedlex.data.admin.ch/eli/oc/2026/200)).
 
 #### Art. 26
 
-**Prononcé des mesures**
+**Prononcé des mesures**[^26-1]
 
-<sup>1</sup> Les mesures disciplinaires sont prononcées oralement. Font exception l’exclusion du logement pour une durée supérieure à 8 heures et l’assignation à un centre spécifique visé à l’art. 24*a* LAsi, qui requièrent une décision écrite.
+<sup>1</sup> L’autorité disciplinaire notifie une mesure disciplinaire à un requérant d’asile ou à une personne à protéger au moyen d’un formulaire. Celui-ci contient les données relatives à la personne concernée, les faits, les mesures prononcées, leurs motifs et les voies de droit.
 
-<sup>2</sup> Si le refus de sortie est prononcé pour plus de 24 heures ou à plusieurs reprises, l’autorité disciplinaire rend une décision à la demande de la personne concernée.
+<sup>2</sup> Il peut être remis à la personne concernée par un collaborateur du service de sécurité ou d’encadrement. La personne concernée accuse réception du formulaire par sa signature.
 
-<sup>3</sup> Si l’exclusion du logement est prononcée pour une durée supérieure à 8 heures ou que le logement est fermé après l’expiration d’un laps de temps plus court, un local distinct est mis à la disposition du requérant d’asile ou de la personne à protéger.
+[^26-1]: Nouvelle teneur selon le ch. I de l’O du DFJP du 29 avr. 2026, en vigueur depuis le 1<sup>er</sup> juin 2026 ([RO 2026 200](https://fedlex.data.admin.ch/eli/oc/2026/200)).
 
-<sup>4</sup> Si la personne concernée dispose d’un représentant juridique ou d’une personne de confiance, le SEM informe ce dernier ou cette dernière qu’une mesure a été prononcée.
+#### Art. 26a
+
+**Information du représentant juridique**[^26a-1]
+
+Si le requérant d’asile ou la personne à protéger dispose d’un représentant juridique ou d’une personne de confiance, le SEM informe ce dernier ou cette dernière qu’une mesure disciplinaire au sens de l’art. 25*a*, al. 3, let. d et e, LAsi a été prononcée. L’information est transmise par la remise d’une copie du formulaire visé à l’art. 26, al. 1, ou au moyen de la décision incidente visée à l’art. 25*a*, al. 6, LAsi.
+
+[^26a-1]: Introduit par le ch. I de l’O du DFJP du 29 avr. 2026, en vigueur depuis le 1<sup>er</sup> juin 2026 ([RO 2026 200](https://fedlex.data.admin.ch/eli/oc/2026/200)).
 
 #### Art. 27
 
-**Autorité disciplinaire**
+**Autorité disciplinaire**[^27-1]
 
-<sup>1</sup> L’autorité disciplinaire est la direction du logement. Elle a compétence pour prononcer des mesures disciplinaires.
+L’autorité disciplinaire est la direction de la division compétente pour la région concernée au sens de l’art. 1*b* de l’ordonnance 1 du 11 août 1999 sur l’asile[^27-2]. Elle peut déléguer la compétence de prononcer des mesures disciplinaires aux directions de ses sections régionales.
 
-<sup>2</sup> Elle peut confier cette tâche au service de sécurité ou d’encadrement du logement, sauf lorsqu’il s’agit de prononcer une exclusion du logement d’une durée supérieure à 8 heures ou une assignation à un centre spécifique au sens de l’art. 24*a* LAsi.
-
-<sup>3</sup> Le service de sécurité ou d’encadrement tient la direction du logement informée des mesures disciplinaires prononcées et des faits reprochés.
+[^27-1]: Nouvelle teneur selon le ch. I de l’O du DFJP du 29 avr. 2026, en vigueur depuis le 1<sup>er</sup> juin 2026 ([RO 2026 200](https://fedlex.data.admin.ch/eli/oc/2026/200)).
+[^27-2]: [RS 142.311](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4880)
 
 #### Art. 28
 
-**Recours**
+**Recours**[^28-1]
 
-<sup>1</sup> Les mesures disciplinaires prononcées oralement peuvent faire l’objet d’un recours disciplinaire auprès de la direction de l’État-major Asile du SEM. Le SEM fournit un formulaire à cet effet.
+Les mesures disciplinaires visées à l’art. 25*a*, al. 3, let. a à d, LAsi peuvent faire l’objet d’un recours disciplinaire auprès de la direction de l’état-major Centres fédéraux pour requérants d’asile du SEM.
 
-<sup>2</sup> Les décisions visées à l’art. 26, al. 1, 2<sup>e</sup> phrase, et 2, peuvent faire l’objet d’un recours auprès du Tribunal administratif fédéral.
+[^28-1]: Nouvelle teneur selon le ch. I de l’O du DFJP du 29 avr. 2026, en vigueur depuis le 1<sup>er</sup> juin 2026 ([RO 2026 200](https://fedlex.data.admin.ch/eli/oc/2026/200)).
 
 #### Art. 29
 
-**Modalités et délais du recours disciplinaire**
+[^29-1]
 
-<sup>1</sup> Le recours disciplinaire est déposé au plus tard trois jours après que la personne concernée a pris connaissance de la mesure prononcée à son endroit. Lorsque le délai échoit un samedi, un dimanche ou un jour férié reconnu par le droit fédéral ou cantonal, son terme est reporté au premier jour ouvrable qui suit.
-
-<sup>2</sup> Le recours disciplinaire n’a pas d’effet suspensif. La mesure disciplinaire contestée conserve son effet jusqu’à ce que la direction de l’État-major Asile du SEM rende sa décision. Celui-ci peut suspendre l’effet de la mesure si le recours est manifestement fondé.
-
-<sup>3</sup> La direction de l’État-major Asile du SEM rend sa décision sans délai. La décision est brièvement motivée et communiquée par écrit à la personne concernée. Elle est sans appel. L’art. 25*a* de la loi fédérale du 20 décembre 1968 sur la procédure administrative[^29-1] est réservé.
-
-[^29-1]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^29-1]: Abrogé par le ch. I de l’O du DFJP du 29 avr. 2026, avec effet au 1<sup>er</sup> juin 2026 ([RO 2026 200](https://fedlex.data.admin.ch/eli/oc/2026/200)).
 
 ## Section 5*a* Rétention provisoire pour parer à un danger imminent
 
@@ -355,21 +354,14 @@ L’autorité disciplinaire peut prononcer les mesures disciplinaires suivantes 
 
 #### Art. 29a
 
-<sup>1</sup>
+[^29a-1]
 
-Si cela s’avère nécessaire pour parer à un danger sérieux, direct et imminent, un requérant d’asile ou une personne à protéger peut, sur ordre de la direction du centre de la Confédération ou du logement dans l’aéroport, être retenu provisoirement dans un local fermé, spécialement aménagé et surveillé à l’intérieur du logement, s’il:[^29a-1]
+Les locaux de sécurité prévus pour la rétention provisoire dans les centres de la Confédération et les logements dans les aéroports sont aménagés de manière à garantir l’intégrité physique et psychique des personnes concernées. Ils sont notamment dotés:
 
-- a. met gravement en danger d’autres personnes;
-- b. met gravement en danger sa propre personne, ou
-- c. menace de causer d’importants dommages matériels.
+- a. d’une ventilation naturelle ou artificielle, d’un éclairage suffisant et d’une possibilité de s’asseoir ou de s’allonger;
+- b. d’un système d’appel d’urgence pour la personne retenue.
 
-<sup>2</sup> Les autorités de police compétentes et, si nécessaire, d’autres services compétents sont informés au préalable de la mise en rétention provisoire. Une fois qu’ils sont informés, la personne concernée peut être retenue jusqu’à leur arrivée. S’ils n’arrivent pas dans les deux heures après avoir été informés, la rétention provisoire prend fin.
-
-<sup>3</sup> La personne concernée est fouillée au début de la rétention provisoire et tous les objets dangereux ou dont elle n’a pas besoin sont saisis. Pendant la rétention provisoire, son bien-être personnel est surveillé.
-
-<sup>4</sup> La rétention provisoire ne peut être ordonnée pour les enfants et les adolescents de moins de 15 ans.
-
-[^29a-1]: Erratum du 26 janv. 2023, ne concerne que le texte italien ([RO 2023 32](https://fedlex.data.admin.ch/eli/oc/2023/32)).
+[^29a-1]: Nouvelle teneur selon le ch. I de l’O du DFJP du 29 avr. 2026, en vigueur depuis le 1<sup>er</sup> juin 2026 ([RO 2026 200](https://fedlex.data.admin.ch/eli/oc/2026/200)).
 
 ## Section 6 Dispositions finales
 
