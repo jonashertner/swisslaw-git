@@ -4,11 +4,11 @@ title: Dienstreglement der Armee vom 22. Juni 1994 (DRA)
 short: DRA
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/170_170_170"
 language: de
-version: 2022-01-01
+version: 2026-06-01
 adopted: 1994-06-22
 in_force: 1995-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/170_170_170/20220101/de/xml/fedlex-data-admin-ch-eli-cc-1995-170_170_170-20220101-de-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/170_170_170/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/170_170_170/20260601/de/xml/fedlex-data-admin-ch-eli-cc-1995-170_170_170-20260601-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/170_170_170/20260601/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/170_170_170/20220101/de"
 
 (DRA)[^t-1]
 
-vom 22. Juni 1994 (Stand am 1. Januar 2022)
+vom 22. Juni 1994 (Stand am 1. Juni 2026)
 
 [^t-1]: Fassung gemäss Ziff. I der V vom 22. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 7383](https://fedlex.data.admin.ch/eli/oc/2017/805)).
 
@@ -27,7 +27,7 @@ gestützt auf Artikel 150 Absatz 2 des Militärgesetzes vom 3. Februar 1995[^ing
 
 verordnet:
 
-[^ingress-1]: [SR 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
+[^ingress-1]: [SR 510.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7242)
 [^ingress-2]: Fassung gemäss Ziff. I der V vom 19. Dez. 2003, in Kraft seit 1. März 2004 ([AS 2004 729](https://fedlex.data.admin.ch/eli/oc/2004/72)).
 
 ## 1. Kapitel: Einleitung
@@ -50,7 +50,7 @@ Das Dienstreglement:
 
 <sup>3</sup> Für das militärische Personal gilt das Dienstreglement während der Ausübung des Dienstes.[^chap1-lvl2-2] Ausserhalb dieser Zeit gilt es immer dann, wenn dienstliche Pflichten zu erfüllen sind oder wenn die Uniform getragen wird.
 
-<sup>4</sup> ...[^chap1-lvl2-3]
+<sup>4</sup> …[^chap1-lvl2-3]
 
 [^chap1-lvl2-1]: Fassung gemäss Ziff. I der V vom 22. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 7383](https://fedlex.data.admin.ch/eli/oc/2017/805)).
 [^chap1-lvl2-2]: Fassung gemäss Ziff. I der V vom 19. Dez. 2003, in Kraft seit 1. März 2004 ([AS 2004 729](https://fedlex.data.admin.ch/eli/oc/2004/72)).
@@ -88,7 +88,7 @@ Im Rahmen der Sicherheitspolitik kommt der Armee eine zentrale Bedeutung zu.[^ch
 
 [^chap2-lvl4-1]
 
-[^chap2-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^chap2-1]: [SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^chap2-2]: Fassung des Einleitungsteils gemäss Ziff. I der V vom 22. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 7383](https://fedlex.data.admin.ch/eli/oc/2017/805)).
 [^chap2-lvl4-1]: Fassung gemäss Ziff. I der V vom 22. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 7383](https://fedlex.data.admin.ch/eli/oc/2017/805)).
 
@@ -888,7 +888,7 @@ Dabei ist es eine Forderung des Rechtsstaats und ein Gebot der Kameradschaft, da
 
 <sup>5</sup> Die Kommandanten orientieren die Angehörigen der Armee rechtzeitig über die einschlägigen Bestimmungen.
 
-[^chap6-lvl67-1]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^chap6-lvl67-1]: [SR 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 [^chap6-lvl67-2]: Fassung des Satzes gemäss Ziff. I der V vom 19. Dez. 2003, in Kraft seit 1. März 2004 ([AS 2004 729](https://fedlex.data.admin.ch/eli/oc/2004/72)).
 
 ## 7. Kapitel: Polizeibefugnisse der Truppe und Wachtdienst
@@ -911,7 +911,7 @@ Bei Aufgaben im Bereich von Polizeibefugnissen und Wachtdienst ist der einzelne 
 
 Zur Erfüllung ihrer Aufgaben stehen der Truppe die notwendigen Polizeibefugnisse zu. Diese werden in der Verordnung vom 26. Oktober 1994[^chap7-sec1-lvl68-2] über die Polizeibefugnisse der Armee geregelt.
 
-[^chap7-sec1-lvl68-2]: [SR 510.32](https://fedlex.data.admin.ch/eli/cc/1995/40_40_40)
+[^chap7-sec1-lvl68-2]: [SR 510.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7291)
 
 ### **69**
 
@@ -1034,9 +1034,9 @@ Dienstpflicht bedeutet aber nicht nur, dass die Rechte eingeschränkt werden. De
 
 [^chap8-sec1-lvl80a-1]
 
-[^chap8-sec1-lvl80a-1]: Eingefügt durch Ziff. I der V vom 19. Nov. 2014, in Kraft seit 1. Jan. 2015 ([AS 2014 4341](https://fedlex.data.admin.ch/eli/oc/2014/714)).
+[^chap8-sec1-lvl80a-1]: Eingefügt durch Ziff. I der V vom 19. Nov. 2014 ([AS 2014 4341](https://fedlex.data.admin.ch/eli/oc/2014/714)). Fassung gemäss Anhang Ziff. 1 der V vom 1. April 2026, in Kraft seit 1. Juni 2026 ([AS 2026 174](https://fedlex.data.admin.ch/eli/oc/2026/174)).
 
-Die Angehörigen der Armee haben sich zum Zweck der Identitätskontrolle zu Beginn jedes Dienstes mit dem Marschbefehl, dem Dienstbüchlein, der Erkennungsmarke und einem gültigen amtlichen Ausweis mit Foto (Pass, Identitätskarte oder Führerausweis) auszuweisen.
+Die Angehörigen der Armee haben sich zum Zweck der Identitätskontrolle zu Beginn jedes Dienstes mit dem Marschbefehl, der Erkennungsmarke und einem gültigen amtlichen Ausweis mit Foto, wie Pass, Identitätskarte oder Führerausweis, auszuweisen.
 
 ### **81** Befolgung von Dienstvorschriften
 
@@ -1113,7 +1113,7 @@ Die Angehörigen der Armee arbeiten kameradschaftlich zusammen. Sie respektieren
 <sup>3</sup> Wer sich vorsätzlich dienstuntauglich oder dienstunfähig macht, wird nach den Vorschriften des Militärstrafgesetzes vom 13. Juni 1927[^chap8-sec1-lvl88-2] bestraft.[^chap8-sec1-lvl88-3]
 
 [^chap8-sec1-lvl88-1]: Fassung gemäss Ziff. I 4 der V vom 3. Dez. 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 5971](https://fedlex.data.admin.ch/eli/oc/2010/858)).
-[^chap8-sec1-lvl88-2]: [SR 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
+[^chap8-sec1-lvl88-2]: [SR 321.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6242)
 [^chap8-sec1-lvl88-3]: Fassung gemäss Ziff. I der V vom 19. Dez. 2003, in Kraft seit 1. März 2004 ([AS 2004 729](https://fedlex.data.admin.ch/eli/oc/2004/72)).
 
 ### **89** Pflichten ausser Dienst
@@ -1122,14 +1122,14 @@ Die Angehörigen der Armee arbeiten kameradschaftlich zusammen. Sie respektieren
 
 <sup>2</sup> Das Aufgebot zu Nachschiesskursen erfolgt über Aufgebotsplakate. Es werden keine Marschbefehle versandt.
 
-<sup>3</sup> Die Angehörigen der Armee müssen die militärische Meldepflicht erfüllen. Änderungen von persönlichen Daten, von Wohnadresse und Beruf sind innerhalb von vierzehn Tagen dem Sektionschef beziehungsweise dem Kreiskommando zu melden.[^chap8-sec1-lvl89-2] Unverzüglich zu melden ist auch ein allfälliger Verlust des Dienstbüchleins.
+<sup>3</sup> Die Angehörigen der Armee müssen die militärische Meldepflicht erfüllen. Änderungen von persönlichen Daten, von Wohnadresse und Beruf sind innerhalb von vierzehn Tagen dem Sektionschef beziehungsweise dem Kreiskommando zu melden.[^chap8-sec1-lvl89-2]
 
 <sup>4</sup> Angehörige der Armee, die sich länger als zwölf Monate im Ausland aufhalten wollen, müssen Auslandurlaub einholen. Das Gesuch ist an das zuständige Kreiskommando zu richten.[^chap8-sec1-lvl89-3]
 
 <sup>5</sup> Die Angehörigen der Armee informieren sich rechtzeitig, ob und wann sie einrücken müssen. Die öffentlich angeschlagenen Aufgebotsplakate geben hierüber Auskunft. Sie gelten als Aufgebot. Einrückungsort und Einrückungszeit werden im Marschbefehl angeordnet. Wer 14 Tage vor Dienstbeginn keinen Marschbefehl erhalten hat, ist verpflichtet, sich bei seinem Kommandanten zu melden. Wer über seine Einrückungspflicht im Unklaren ist, fragt beim Sektionschef beziehungsweise Kreiskommando oder beim Kommandanten nach.[^chap8-sec1-lvl89-4]
 
 [^chap8-sec1-lvl89-1]: Fassung gemäss Ziff. I 4 der V vom 3. Dez. 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 5971](https://fedlex.data.admin.ch/eli/oc/2010/858)).
-[^chap8-sec1-lvl89-2]: Fassung des Satzes gemäss Ziff. I der V vom 19. Dez. 2003, in Kraft seit 1. März 2004 ([AS 2004 729](https://fedlex.data.admin.ch/eli/oc/2004/72)).
+[^chap8-sec1-lvl89-2]: Fassung gemäss Anhang Ziff. 1 der V vom 1. April 2026, in Kraft seit 1. Juni 2026 ([AS 2026 174](https://fedlex.data.admin.ch/eli/oc/2026/174)).
 [^chap8-sec1-lvl89-3]: Fassung gemäss Ziff. I der V vom 19. Dez. 2003, in Kraft seit 1. März 2004 ([AS 2004 729](https://fedlex.data.admin.ch/eli/oc/2004/72)).
 [^chap8-sec1-lvl89-4]: Satz eingefügt durch Ziff. I der V vom 19. Dez. 2003, in Kraft seit 1. März 2004 ([AS 2004 729](https://fedlex.data.admin.ch/eli/oc/2004/72)).
 
@@ -1175,11 +1175,13 @@ Die Angehörigen der Armee arbeiten kameradschaftlich zusammen. Sie respektieren
 
 <sup>2</sup> Personendaten über Angehörige der Armee dürfen nur bearbeitet werden, soweit es die Militärgesetzgebung vorsieht. Die Angehörigen der Armee sind grundsätzlich berechtigt, in die sie betreffenden Daten Einsicht zu nehmen.
 
-<sup>3</sup> Die Angehörigen der Armee haben Anspruch auf vertrauliche Behandlung der Personendaten, die im Personal-Informations-System der Armee, im Dienstbüchlein oder in anderen militärischen Akten geführt werden. Insbesondere besteht das Recht auf vertrauliche Behandlung von Daten, die aus Urteilen und Verfügungen von zivilen oder militärischen Gerichten, Verwaltungsbehörden oder Kommandostellen stammen.
+<sup>3</sup> Die Angehörigen der Armee haben Anspruch auf vertrauliche Behandlung der Personendaten, die im Personalinformationssystem der Armee und des Zivilschutzes, im Ausweis über die Erfüllung der Militärdienstpflicht oder in anderen militärischen Akten geführt werden. Insbesondere besteht das Recht auf vertrauliche Behandlung von Daten, die aus Urteilen und Verfügungen von zivilen oder militärischen Gerichten, Verwaltungsbehörden oder Kommandostellen stammen.[^chap8-sec2-lvl94-1]
 
 <sup>4</sup> Die Angehörigen der Armee haben Anspruch darauf, dass das Postgeheimnis gewahrt wird und dass Ärzte und ihre Mitarbeiter sowie Seelsorger ihr Berufsgeheimnis wahren. Sie haben Anspruch darauf, dass das Personal der sozialen und psychologischen Beratungsdienste über persönliche Daten Verschwiegenheit wahrt.
 
 <sup>5</sup> Die persönlichen Behältnisse und Gepäckstücke der Angehörigen der Armee werden respektiert. In begründeten Fällen können jedoch Kontrollen durchgeführt werden, nach Möglichkeit in Anwesenheit des Betroffenen.
+
+[^chap8-sec2-lvl94-1]: Fassung gemäss Anhang Ziff. 1 der V vom 1. April 2026, in Kraft seit 1. Juni 2026 ([AS 2026 174](https://fedlex.data.admin.ch/eli/oc/2026/174)).
 
 ### **95** Glaubens- und Gewissensfreiheit
 
@@ -1201,7 +1203,7 @@ Die Angehörigen der Armee arbeiten kameradschaftlich zusammen. Sie respektieren
 - b. im Gemeinschaftsbereich;
 - c. wenn sie die Uniform tragen.
 
-<sup>4</sup> ...[^chap8-sec2-lvl96-2]
+<sup>4</sup> …[^chap8-sec2-lvl96-2]
 
 [^chap8-sec2-lvl96-1]: Fassung gemäss Ziff. I der V vom 19. Dez. 2003, in Kraft seit 1. März 2004 ([AS 2004 729](https://fedlex.data.admin.ch/eli/oc/2004/72)).
 [^chap8-sec2-lvl96-2]: Aufgehoben durch Ziff. II 2 der V vom 28. Nov. 2014, mit Wirkung seit 1. Jan. 2015 ([AS 2014 4493](https://fedlex.data.admin.ch/eli/oc/2014/748)).
@@ -1306,7 +1308,7 @@ Ist ein Angehöriger der Armee der Überzeugung, es sei ihm Unrecht getan worden
 - e. Qualifikationen und Entscheide im Rahmen von Beförderungsverfahren;
 - f. Ernennung zum Fachoffizier und Entzug der Offiziersfunktion;
 - g. Verfügungen über die Verlängerung der Militärdienstpflicht;
-- h.[^chap8-sec3-lvl104-2] ...
+- h.[^chap8-sec3-lvl104-2] …
 - i. Abgabe und Entzug des militärischen Führerausweises;
 - j. Einstellung im Flug- oder Fallschirmsprungdienst;
 - k. Verleihung und Entzug von militärischen Auszeichnungen;
@@ -1387,7 +1389,7 @@ Disziplinarstrafen sind: Verweis, Ausgangssperre, Disziplinarbusse und Arrest.[^
 
 Eine Disziplinarstrafverfügung kann beim nächsthöheren Kommandanten angefochten werden. Der Beschwerdeentscheid dieses Kommandanten kann, wenn er auf Arrest oder Busse mit einem Betrag von 300 Franken oder mehr lautet, an den Ausschuss des Militärappellationsgerichts weitergezogen werden.[^chap9-2]
 
-...[^chap9-3]
+…[^chap9-3]
 
 [^chap9-1]: Fassung gemäss Ziff. I der V vom 19. Dez. 2003, in Kraft seit 1. März 2004 ([AS 2004 729](https://fedlex.data.admin.ch/eli/oc/2004/72)).
 [^chap9-2]: Fassung des Satzes gemäss Ziff. I der V vom 19. Dez. 2003, in Kraft seit 1. März 2004 ([AS 2004 729](https://fedlex.data.admin.ch/eli/oc/2004/72)).
@@ -1497,7 +1499,7 @@ Die Vorschriften für den Dienstbetrieb werden im Friedensförderungsdienst der 
 
 <sup>4</sup> Während des Einsatzes gibt es keinen Ausgang oder Urlaub. Die Freizeit ergibt sich aus der arbeitsfreien Zeit gemäss der Verordnung vom 2. Dezember 2005[^annex2-lvlu1-sec2-lvl9-1] über das Personal für die Friedensförderung, die Stärkung der Menschenrechte und die humanitäre Hilfe und den Befehlen für den Dienstbetrieb.
 
-[^annex2-lvlu1-sec2-lvl9-1]: [SR 172.220.111.9](https://fedlex.data.admin.ch/eli/cc/2005/764)
+[^annex2-lvlu1-sec2-lvl9-1]: [SR 172.220.111.9](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5376)
 
 ### **10** Ausweise
 

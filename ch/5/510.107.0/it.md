@@ -4,11 +4,11 @@ title: "Regolamento di servizio dell'esercito del 22 giugno 1994 (RSE)"
 short: RSE
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/170_170_170"
 language: it
-version: 2022-01-01
+version: 2026-06-01
 adopted: 1994-06-22
 in_force: 1995-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/170_170_170/20220101/it/xml/fedlex-data-admin-ch-eli-cc-1995-170_170_170-20220101-it-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/170_170_170/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/170_170_170/20260601/it/xml/fedlex-data-admin-ch-eli-cc-1995-170_170_170-20260601-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/170_170_170/20260601/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,9 +17,9 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/170_170_170/20220101/it"
 
 (RSE)[^t-1]
 
-del 22 giugno 1994 (Stato 1° gennaio 2022)
+del 22 giugno 1994 (Stato 1° giugno 2026)
 
-[^t-1]: Nuovo testo giusta il n. I dell’O del 22 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7383](https://fedlex.data.admin.ch/eli/oc/2017/805)).
+[^t-1]: Nuovo testo giusta la cifra I dell’O del 22 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7383](https://fedlex.data.admin.ch/eli/oc/2017/805)).
 
 Il Consiglio federale svizzero,
 
@@ -27,8 +27,8 @@ visto l’articolo 150 capoverso 2 della legge militare del 3 febbraio 1995[^ing
 
 decreta:
 
-[^ingress-1]: [RS 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
-[^ingress-2]: Nuovo testo giusta il n. I dell’O del 19 dic. 2003, in vigore dal 1° mar. 2004 ([RU 2004 729](https://fedlex.data.admin.ch/eli/oc/2004/72)).
+[^ingress-1]: [RS 510.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7242)
+[^ingress-2]: Nuovo testo giusta la cifra I dell’O del 19 dic. 2003, in vigore dal 1° mar. 2004 ([RU 2004 729](https://fedlex.data.admin.ch/eli/oc/2004/72)).
 
 ## Capitolo 1: Introduzione
 
@@ -40,7 +40,7 @@ Il regolamento di servizio:
 - b. determina i diritti e gli obblighi dei militari;
 - c. fornisce un’informazione di base e ragguaglia sulle relazioni tra i vari ambiti importanti per i militari.
 
-[^chap1-lvl1-1]: Nuovo testo giusta il n. I dell’O del 19 dic. 2003, in vigore dal 1° mar. 2004 ([RU 2004 729](https://fedlex.data.admin.ch/eli/oc/2004/72)).
+[^chap1-lvl1-1]: Nuovo testo giusta la cifra I dell’O del 19 dic. 2003, in vigore dal 1° mar. 2004 ([RU 2004 729](https://fedlex.data.admin.ch/eli/oc/2004/72)).
 
 ### **2** Campo d’applicazione
 
@@ -52,9 +52,9 @@ Il regolamento di servizio:
 
 <sup>4</sup> …[^chap1-lvl2-3]
 
-[^chap1-lvl2-1]: Nuovo testo giusta il n. I dell’O del 22 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7383](https://fedlex.data.admin.ch/eli/oc/2017/805)).
-[^chap1-lvl2-2]: Nuovo testo giusta il n. I dell’O del 19 dic. 2003, in vigore dal 1° mar. 2004 ([RU 2004 729](https://fedlex.data.admin.ch/eli/oc/2004/72)).
-[^chap1-lvl2-3]: Abrogato dal n. I dell’O del 22 nov. 2017, con effetto dal 1° gen. 2018 ([RU 2017 7383](https://fedlex.data.admin.ch/eli/oc/2017/805)).
+[^chap1-lvl2-1]: Nuovo testo giusta la cifra I dell’O del 22 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7383](https://fedlex.data.admin.ch/eli/oc/2017/805)).
+[^chap1-lvl2-2]: Nuovo testo giusta la cifra I dell’O del 19 dic. 2003, in vigore dal 1° mar. 2004 ([RU 2004 729](https://fedlex.data.admin.ch/eli/oc/2004/72)).
+[^chap1-lvl2-3]: Abrogato dalla cifra I dell’O del 22 nov. 2017, con effetto dal 1° gen. 2018 ([RU 2017 7383](https://fedlex.data.admin.ch/eli/oc/2017/805)).
 
 ### **3** Definizioni
 
@@ -71,8 +71,8 @@ Il regolamento di servizio:
 
 <sup>4</sup> Per ragioni pratiche, il presente regolamento usa le forme maschili, come «il militare», «il comandante», ecc.; esse comprendono però sia i militari donne che i militari uomini.
 
-[^chap1-lvl3-1]: Nuovo testo del per. giusta il n. I dell’O del 19 dic. 2003, in vigore dal 1° mar. 2004 ([RU 2004 729](https://fedlex.data.admin.ch/eli/oc/2004/72)).
-[^chap1-lvl3-2]: Nuovo testo giusta il n. I dell’O del 19 dic. 2003, in vigore dal 1° mar. 2004 ([RU 2004 729](https://fedlex.data.admin.ch/eli/oc/2004/72)).
+[^chap1-lvl3-1]: Nuovo testo del per. giusta la cifra I dell’O del 19 dic. 2003, in vigore dal 1° mar. 2004 ([RU 2004 729](https://fedlex.data.admin.ch/eli/oc/2004/72)).
+[^chap1-lvl3-2]: Nuovo testo giusta la cifra I dell’O del 19 dic. 2003, in vigore dal 1° mar. 2004 ([RU 2004 729](https://fedlex.data.admin.ch/eli/oc/2004/72)).
 
 ## Capitolo 2: Principi
 
@@ -88,9 +88,9 @@ Nel quadro della politica di sicurezza l’esercito assume un’importanza centr
 
 [^chap2-lvl4-1]
 
-[^chap2-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
-[^chap2-2]: Nuovo testo della parte introduttiva giusta il n. I dell’O del 22 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7383](https://fedlex.data.admin.ch/eli/oc/2017/805)).
-[^chap2-lvl4-1]: Nuovo testo giusta il n. I dell’O del 22 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7383](https://fedlex.data.admin.ch/eli/oc/2017/805)).
+[^chap2-1]: [RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
+[^chap2-2]: Nuovo testo della parte introduttiva giusta la cifra I dell’O del 22 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7383](https://fedlex.data.admin.ch/eli/oc/2017/805)).
+[^chap2-lvl4-1]: Nuovo testo giusta la cifra I dell’O del 22 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7383](https://fedlex.data.admin.ch/eli/oc/2017/805)).
 
 <sup>1</sup> L’esercito ha il compito di:
 
@@ -110,7 +110,7 @@ Nel quadro della politica di sicurezza l’esercito assume un’importanza centr
 
 [^chap2-lvl5-1]
 
-[^chap2-lvl5-1]: Abrogato dal n. I dell’O del 22 nov. 2017, con effetto dal 1° gen. 2018 ([RU 2017 7383](https://fedlex.data.admin.ch/eli/oc/2017/805)).
+[^chap2-lvl5-1]: Abrogato dalla cifra I dell’O del 22 nov. 2017, con effetto dal 1° gen. 2018 ([RU 2017 7383](https://fedlex.data.admin.ch/eli/oc/2017/805)).
 
 ### **6** Subordinazione dell’esercito al potere civile
 
@@ -120,7 +120,7 @@ Conformemente alla Costituzione e alla legge, l’esercito è subordinato al pot
 
 [^chap2-lvl7-1]
 
-[^chap2-lvl7-1]: Nuovo testo giusta il n. I dell’O del 22 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7383](https://fedlex.data.admin.ch/eli/oc/2017/805)).
+[^chap2-lvl7-1]: Nuovo testo giusta la cifra I dell’O del 22 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7383](https://fedlex.data.admin.ch/eli/oc/2017/805)).
 
 <sup>1</sup> Le truppe chiamate al servizio attivo sono giurate. I militari confermano così la loro volontà di adempiere gli obblighi militari.
 
@@ -166,7 +166,7 @@ Nelle formazioni sono raggruppati cittadine e cittadini di origine, età, istruz
 
 [^chap3-sec1-lvl10-1]
 
-[^chap3-sec1-lvl10-1]: Nuovo testo giusta il n. I 4 dell’O del 3 dic. 2010, in vigore dal 1° gen. 2011 ([RU 2010 5971](https://fedlex.data.admin.ch/eli/oc/2010/858)).
+[^chap3-sec1-lvl10-1]: Nuovo testo giusta la cifra I n. 4 dell’O del 3 dic. 2010, in vigore dal 1° gen. 2011 ([RU 2010 5971](https://fedlex.data.admin.ch/eli/oc/2010/858)).
 
 I capi stabiliscono gli obiettivi da realizzare. Essi lasciano ai subordinati la maggior libertà possibile nella scelta dei mezzi. Tale libertà è limitata solo dalla necessità di salvaguardare la coesione dell’insieme.
 
@@ -176,7 +176,7 @@ I capi stabiliscono gli obiettivi da realizzare. Essi lasciano ai subordinati la
 
 <sup>2</sup> Questo modo di comando esige dai subordinati riflessione attiva e prontezza ad agire autonomamente e con iniziativa al servizio del compito da adempiere.
 
-[^chap3-sec1-lvl11-1]: Nuovo testo giusta il n. I 4 dell’O del 3 dic. 2010, in vigore dal 1° gen. 2011 ([RU 2010 5971](https://fedlex.data.admin.ch/eli/oc/2010/858)).
+[^chap3-sec1-lvl11-1]: Nuovo testo giusta la cifra I n. 4 dell’O del 3 dic. 2010, in vigore dal 1° gen. 2011 ([RU 2010 5971](https://fedlex.data.admin.ch/eli/oc/2010/858)).
 
 ### **12** Responsabilità
 
@@ -212,7 +212,7 @@ I compiti assegnati a una formazione sono spesso difficili e complessi. Essi pos
 
 Condurre presuppone autorità. Questa risulta in particolare dalla credibilità tecnica e personale dei superiori. I superiori conducono in primo luogo mediante il loro esempio personale. Essi incarnano la disciplina e l’impegno, ed esercitano in tal modo un effetto educativo sui loro subordinati.[^chap3-sec1-lvl16-1]
 
-[^chap3-sec1-lvl16-1]: Nuovo testo del per. giusta il n. I dell’O del 19 dic. 2003, in vigore dal 1° mar. 2004 ([RU 2004 729](https://fedlex.data.admin.ch/eli/oc/2004/72)).
+[^chap3-sec1-lvl16-1]: Nuovo testo del per. giusta la cifra I dell’O del 19 dic. 2003, in vigore dal 1° mar. 2004 ([RU 2004 729](https://fedlex.data.admin.ch/eli/oc/2004/72)).
 
 ### **17** Spirito di corpo e lavoro
 
@@ -238,9 +238,9 @@ corpo di truppa (battaglione, gruppo, squadra, comando)
 
 Grande Unità (brigata, comando della polizia militare, Forze terrestri, Forze aeree, divisione territoriale).[^chap3-sec2-lvl18-2] [^chap3-sec2-lvl18-3]
 
-[^chap3-sec2-lvl18-1]: Secondo e terzo per. introdotti dal n. I dell’O del 19 dic. 2003, in vigore dal 1° mar. 2004 ([RU 2004 729](https://fedlex.data.admin.ch/eli/oc/2004/72)).
-[^chap3-sec2-lvl18-2]: Nuovo testo dell’ultima riga giusta il n. I dell’O del 22 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7383](https://fedlex.data.admin.ch/eli/oc/2017/805)).
-[^chap3-sec2-lvl18-3]: Nuovo testo giusta il n. I 4 dell’O del 3 dic. 2010, in vigore dal 1° gen. 2011 ([RU 2010 5971](https://fedlex.data.admin.ch/eli/oc/2010/858)).
+[^chap3-sec2-lvl18-1]: Secondo e terzo per. introdotti dalla cifra I dell’O del 19 dic. 2003, in vigore dal 1° mar. 2004 ([RU 2004 729](https://fedlex.data.admin.ch/eli/oc/2004/72)).
+[^chap3-sec2-lvl18-2]: Nuovo testo dell’ultima riga giusta la cifra I dell’O del 22 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7383](https://fedlex.data.admin.ch/eli/oc/2017/805)).
+[^chap3-sec2-lvl18-3]: Nuovo testo giusta la cifra I n. 4 dell’O del 3 dic. 2010, in vigore dal 1° gen. 2011 ([RU 2010 5971](https://fedlex.data.admin.ch/eli/oc/2010/858)).
 
 ### **19** Ordinamento del comando
 
@@ -352,8 +352,8 @@ comandante di corpo
 
 generale comandante in capo dell’esercito
 
-[^chap3-sec3-lvl22-1]: Nuovo testo giusta il n. I dell’O del 19 dic. 2003, in vigore dal 1° mar. 2004 ([RU 2004 729](https://fedlex.data.admin.ch/eli/oc/2004/72)).
-[^chap3-sec3-lvl22-2]: Nuovo testo giusta il n. I dell’O del 19 dic. 2003, in vigore dal 1° mar. 2004 ([RU 2004 729](https://fedlex.data.admin.ch/eli/oc/2004/72)).
+[^chap3-sec3-lvl22-1]: Nuovo testo giusta la cifra I dell’O del 19 dic. 2003, in vigore dal 1° mar. 2004 ([RU 2004 729](https://fedlex.data.admin.ch/eli/oc/2004/72)).
+[^chap3-sec3-lvl22-2]: Nuovo testo giusta la cifra I dell’O del 19 dic. 2003, in vigore dal 1° mar. 2004 ([RU 2004 729](https://fedlex.data.admin.ch/eli/oc/2004/72)).
 
 ### **23** Sottufficiali
 
@@ -363,9 +363,9 @@ generale comandante in capo dell’esercito
 
 <sup>3</sup> I militari di truppa che esercitano funzioni di sottufficiale sono considerati quadri.[^chap3-sec3-lvl23-3]
 
-[^chap3-sec3-lvl23-1]: Nuovo testo giusta il n. I dell’O del 19 dic. 2003, in vigore dal 1° mar. 2004 ([RU 2004 729](https://fedlex.data.admin.ch/eli/oc/2004/72)).
-[^chap3-sec3-lvl23-2]: Nuovo testo del per. giusta il n. I dell’O del 19 dic. 2003, in vigore dal 1° mar. 2004 ([RU 2004 729](https://fedlex.data.admin.ch/eli/oc/2004/72)).
-[^chap3-sec3-lvl23-3]: Nuovo testo giusta il n. I dell’O del 22 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7383](https://fedlex.data.admin.ch/eli/oc/2017/805)).
+[^chap3-sec3-lvl23-1]: Nuovo testo giusta la cifra I dell’O del 19 dic. 2003, in vigore dal 1° mar. 2004 ([RU 2004 729](https://fedlex.data.admin.ch/eli/oc/2004/72)).
+[^chap3-sec3-lvl23-2]: Nuovo testo del per. giusta la cifra I dell’O del 19 dic. 2003, in vigore dal 1° mar. 2004 ([RU 2004 729](https://fedlex.data.admin.ch/eli/oc/2004/72)).
+[^chap3-sec3-lvl23-3]: Nuovo testo giusta la cifra I dell’O del 22 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7383](https://fedlex.data.admin.ch/eli/oc/2017/805)).
 
 ### **24** Ufficiali
 
@@ -375,8 +375,8 @@ generale comandante in capo dell’esercito
 
 <sup>3</sup> I sottufficiali, gli appuntati capi, gli appuntati e i soldati con conoscenze tecniche particolari possono, se necessario, svolgere funzioni d’ufficiale ed essere nominati ufficiali specialisti.[^chap3-sec3-lvl24-2]
 
-[^chap3-sec3-lvl24-1]: Nuovo testo giusta il n. I dell’O del 19 dic. 2003, in vigore dal 1° mar. 2004 ([RU 2004 729](https://fedlex.data.admin.ch/eli/oc/2004/72)).
-[^chap3-sec3-lvl24-2]: Nuovo testo giusta il n. I dell’O del 19 dic. 2003, in vigore dal 1° mar. 2004 ([RU 2004 729](https://fedlex.data.admin.ch/eli/oc/2004/72)).
+[^chap3-sec3-lvl24-1]: Nuovo testo giusta la cifra I dell’O del 19 dic. 2003, in vigore dal 1° mar. 2004 ([RU 2004 729](https://fedlex.data.admin.ch/eli/oc/2004/72)).
+[^chap3-sec3-lvl24-2]: Nuovo testo giusta la cifra I dell’O del 19 dic. 2003, in vigore dal 1° mar. 2004 ([RU 2004 729](https://fedlex.data.admin.ch/eli/oc/2004/72)).
 
 ### **25** Comandanti
 
@@ -394,7 +394,7 @@ generale comandante in capo dell’esercito
 
 <sup>7</sup> Svolgono i compiti fuori del servizio vincolati al loro comando.
 
-[^chap3-sec3-lvl25-1]: Nuova espr. giusta il n. I dell’O del 19 dic. 2003, in vigore dal 1° mar. 2004 ([RU 2004 729](https://fedlex.data.admin.ch/eli/oc/2004/72)). Di detta mod. è tenuto conto in tutto il presente testo.
+[^chap3-sec3-lvl25-1]: Nuova espr. giusta la cifra I dell’O del 19 dic. 2003, in vigore dal 1° mar. 2004 ([RU 2004 729](https://fedlex.data.admin.ch/eli/oc/2004/72)). Di detta mod. è tenuto conto in tutto il presente testo.
 
 ### **26** Membri degli stati maggiori
 
@@ -408,7 +408,7 @@ generale comandante in capo dell’esercito
 
 [^chap3-sec3-lvl27-1]
 
-[^chap3-sec3-lvl27-1]: Nuovo testo giusta il n. I dell’O del 19 dic. 2003, in vigore dal 1° mar. 2004 ([RU 2004 729](https://fedlex.data.admin.ch/eli/oc/2004/72)).
+[^chap3-sec3-lvl27-1]: Nuovo testo giusta la cifra I dell’O del 19 dic. 2003, in vigore dal 1° mar. 2004 ([RU 2004 729](https://fedlex.data.admin.ch/eli/oc/2004/72)).
 
 <sup>1</sup> Il personale militare comprende i militari di professione (ufficiali di professione, sottufficiali di professione e soldati di professione) e i militari a contratto temporaneo (ufficiali a contratto temporaneo, sottufficiali a contratto temporaneo e soldati a contratto temporaneo).
 
@@ -434,7 +434,7 @@ generale comandante in capo dell’esercito
 
 [^chap3-sec4-lvl29-1]
 
-[^chap3-sec4-lvl29-1]: Nuovo testo giusta il n. I dell’O del 19 dic. 2003, in vigore dal 1° mar. 2004 ([RU 2004 729](https://fedlex.data.admin.ch/eli/oc/2004/72)).
+[^chap3-sec4-lvl29-1]: Nuovo testo giusta la cifra I dell’O del 19 dic. 2003, in vigore dal 1° mar. 2004 ([RU 2004 729](https://fedlex.data.admin.ch/eli/oc/2004/72)).
 
 <sup>1</sup> I caporali comandano gruppi in determinati settori di servizio specialistici.
 
@@ -471,7 +471,7 @@ generale comandante in capo dell’esercito
 
 <sup>4</sup> Per incarico del comandante, svolgono compiti particolari.
 
-[^chap3-sec4-lvl30-1]: Nuovo testo giusta il n. I dell’O del 19 dic. 2003, in vigore dal 1° mar. 2004 ([RU 2004 729](https://fedlex.data.admin.ch/eli/oc/2004/72)).
+[^chap3-sec4-lvl30-1]: Nuovo testo giusta la cifra I dell’O del 19 dic. 2003, in vigore dal 1° mar. 2004 ([RU 2004 729](https://fedlex.data.admin.ch/eli/oc/2004/72)).
 
 ### **31** Comandante d’unità
 
@@ -487,7 +487,7 @@ generale comandante in capo dell’esercito
 
 [^chap4-1]
 
-[^chap4-1]: Nuovo testo giusta il n. I dell’O del 19 dic. 2003, in vigore dal 1° mar. 2004 ([RU 2004 729](https://fedlex.data.admin.ch/eli/oc/2004/72)).
+[^chap4-1]: Nuovo testo giusta la cifra I dell’O del 19 dic. 2003, in vigore dal 1° mar. 2004 ([RU 2004 729](https://fedlex.data.admin.ch/eli/oc/2004/72)).
 
 L’istruzione e l’educazione militari hanno lo scopo di preparare i militari alla guerra e ad affrontare altre situazioni di crisi. Di regola, l’istruzione e l’educazione sono concomitanti. L’istruzione è finalizzata al raggiungimento di conoscenze e capacità specifiche. L’educazione influisce sul comportamento e sui valori.[^chap4-2]
 
@@ -501,10 +501,10 @@ Le conoscenze militari e civili si completano reciprocamente. Il nostro esercito
 
 [^chap4-lvl32-1]
 
-[^chap4-2]: Nuovo testo giusta il n. I dell’O del 19 dic. 2003, in vigore dal 1° mar. 2004 ([RU 2004 729](https://fedlex.data.admin.ch/eli/oc/2004/72)).
-[^chap4-3]: Nuovo testo del primo e secondo per. giusta il n. I dell’O del 19 dic. 2003, in vigore dal 1° mar. 2004 ([RU 2004 729](https://fedlex.data.admin.ch/eli/oc/2004/72)).
-[^chap4-4]: Nuovo testo giusta il n. I dell’O del 19 dic. 2003, in vigore dal 1° mar. 2004 ([RU 2004 729](https://fedlex.data.admin.ch/eli/oc/2004/72)).
-[^chap4-lvl32-1]: Nuovo testo giusta il n. I dell’O del 19 dic. 2003, in vigore dal 1° mar. 2004 ([RU 2004 729](https://fedlex.data.admin.ch/eli/oc/2004/72)).
+[^chap4-2]: Nuovo testo giusta la cifra I dell’O del 19 dic. 2003, in vigore dal 1° mar. 2004 ([RU 2004 729](https://fedlex.data.admin.ch/eli/oc/2004/72)).
+[^chap4-3]: Nuovo testo del primo e secondo per. giusta la cifra I dell’O del 19 dic. 2003, in vigore dal 1° mar. 2004 ([RU 2004 729](https://fedlex.data.admin.ch/eli/oc/2004/72)).
+[^chap4-4]: Nuovo testo giusta la cifra I dell’O del 19 dic. 2003, in vigore dal 1° mar. 2004 ([RU 2004 729](https://fedlex.data.admin.ch/eli/oc/2004/72)).
+[^chap4-lvl32-1]: Nuovo testo giusta la cifra I dell’O del 19 dic. 2003, in vigore dal 1° mar. 2004 ([RU 2004 729](https://fedlex.data.admin.ch/eli/oc/2004/72)).
 
 Scopo dell’istruzione e dell’educazione militari è l’attitudine ad adempiere i compiti affidati all’esercito, in tempo di guerra e in altre situazioni di crisi anche con il sacrificio della vita.
 
@@ -512,7 +512,7 @@ Scopo dell’istruzione e dell’educazione militari è l’attitudine ad adempi
 
 [^chap4-lvl33-1]
 
-[^chap4-lvl33-1]: Nuovo testo giusta il n. I dell’O del 19 dic. 2003, in vigore dal 1° mar. 2004 ([RU 2004 729](https://fedlex.data.admin.ch/eli/oc/2004/72)).
+[^chap4-lvl33-1]: Nuovo testo giusta la cifra I dell’O del 19 dic. 2003, in vigore dal 1° mar. 2004 ([RU 2004 729](https://fedlex.data.admin.ch/eli/oc/2004/72)).
 
 <sup>1</sup> L’istruzione e l’educazione militari promuovono e rafforzano nei militari:
 
@@ -539,7 +539,7 @@ Scopo dell’istruzione e dell’educazione militari è l’attitudine ad adempi
 
 <sup>3</sup> Le attitudini acquisite dai militari durante l’istruzione individuale sono messe in pratica nell’istruzione in formazione, che esige molto dai quadri. Ne risulta per la truppa un’attività d’intensità variabile.
 
-[^chap4-lvl34-1]: Nuovo testo giusta il n. I dell’O del 19 dic. 2003, in vigore dal 1° mar. 2004 ([RU 2004 729](https://fedlex.data.admin.ch/eli/oc/2004/72)).
+[^chap4-lvl34-1]: Nuovo testo giusta la cifra I dell’O del 19 dic. 2003, in vigore dal 1° mar. 2004 ([RU 2004 729](https://fedlex.data.admin.ch/eli/oc/2004/72)).
 
 ### **35** L’istruzione durante i diversi servizi
 
@@ -555,14 +555,14 @@ Scopo dell’istruzione e dell’educazione militari è l’attitudine ad adempi
 
 <sup>6</sup> All’inizio di ogni prestazione di servizio deve essere eseguito un controllo dell’identità.[^chap4-lvl35-2]
 
-[^chap4-lvl35-1]: Nuovo testo giusta il n. I dell’O del 19 dic. 2003, in vigore dal 1° mar. 2004 ([RU 2004 729](https://fedlex.data.admin.ch/eli/oc/2004/72)).
-[^chap4-lvl35-2]: Introdotto dal n. I dell’O del 19 nov. 2014, in vigore dal 1° gen. 2015 ([RU 2014 4341](https://fedlex.data.admin.ch/eli/oc/2014/714)).
+[^chap4-lvl35-1]: Nuovo testo giusta la cifra I dell’O del 19 dic. 2003, in vigore dal 1° mar. 2004 ([RU 2004 729](https://fedlex.data.admin.ch/eli/oc/2004/72)).
+[^chap4-lvl35-2]: Introdotto dalla cifra I dell’O del 19 nov. 2014, in vigore dal 1° gen. 2015 ([RU 2014 4341](https://fedlex.data.admin.ch/eli/oc/2014/714)).
 
 ### **36** Responsabilità per l’istruzione e l’educazione
 
 [^chap4-lvl36-1]
 
-[^chap4-lvl36-1]: Nuovo testo giusta il n. I dell’O del 19 dic. 2003, in vigore dal 1° mar. 2004 ([RU 2004 729](https://fedlex.data.admin.ch/eli/oc/2004/72)).
+[^chap4-lvl36-1]: Nuovo testo giusta la cifra I dell’O del 19 dic. 2003, in vigore dal 1° mar. 2004 ([RU 2004 729](https://fedlex.data.admin.ch/eli/oc/2004/72)).
 
 <sup>1</sup> Gli ufficiali di professione e i sottufficiali di professione sono responsabili dell’istruzione, dell’educazione e del comando nelle scuole reclute e nelle scuole per i quadri. Essi istruiscono principalmente i quadri di milizia e li appoggiano nella loro attività di comando, di istruzione e di educazione durante il servizio pratico. Possono essere assistiti da militari a contratto temporaneo e da insegnanti specialisti.
 
@@ -622,7 +622,7 @@ Un andamento del servizio privo di attriti costituisce il presupposto di un’is
 
 <sup>2</sup> Le prescrizioni concernenti l’andamento del servizio sono valevoli per i servizi d’istruzione. Nel servizio di promovimento della pace, nel servizio d’appoggio e nel servizio attivo l’andamento del servizio è adeguato alla situazione del momento.[^chap5-lvl41-1]
 
-[^chap5-lvl41-1]: Nuovo testo del per. giusta il n. I dell’O del 19 dic. 2003, in vigore dal 1° mar. 2004 ([RU 2004 729](https://fedlex.data.admin.ch/eli/oc/2004/72)).
+[^chap5-lvl41-1]: Nuovo testo del per. giusta la cifra I dell’O del 19 dic. 2003, in vigore dal 1° mar. 2004 ([RU 2004 729](https://fedlex.data.admin.ch/eli/oc/2004/72)).
 
 ### Sezione 1: La vita militare quotidiana
 
@@ -684,7 +684,7 @@ L’appello d’entrata inizia con il controllo dell’effettivo. L’unità pro
 
 <sup>3</sup> Il comandante dell’unità regola le responsabilità e ordina i controlli.
 
-[^chap5-sec1-lvl49-1]: Nuovo testo giusta il n. I dell’O del 19 dic. 2003, in vigore dal 1° mar. 2004 ([RU 2004 729](https://fedlex.data.admin.ch/eli/oc/2004/72)).
+[^chap5-sec1-lvl49-1]: Nuovo testo giusta la cifra I dell’O del 19 dic. 2003, in vigore dal 1° mar. 2004 ([RU 2004 729](https://fedlex.data.admin.ch/eli/oc/2004/72)).
 
 ### **50** Servizio di parco
 
@@ -702,9 +702,9 @@ L’appello d’entrata inizia con il controllo dell’effettivo. L’unità pro
 
 <sup>3</sup> Il servizio interno è diretto dal sergente maggiore capo. Per i controlli, il sergente maggiore capo dispone, d’intesa con il comandante d’unità, di quadri supplementari.[^chap5-sec1-lvl51-3]
 
-[^chap5-sec1-lvl51-1]: Nuovo testo giusta il n. I 4 dell’O del 3 dic. 2010, in vigore dal 1° gen. 2011 ([RU 2010 5971](https://fedlex.data.admin.ch/eli/oc/2010/858)).
-[^chap5-sec1-lvl51-2]: Nuovo testo giusta il n. I 4 dell’O del 3 dic. 2010, in vigore dal 1° gen. 2011 ([RU 2010 5971](https://fedlex.data.admin.ch/eli/oc/2010/858)).
-[^chap5-sec1-lvl51-3]: Nuovo testo giusta il n. I dell’O del 19 dic. 2003, in vigore dal 1° mar. 2004 ([RU 2004 729](https://fedlex.data.admin.ch/eli/oc/2004/72)).
+[^chap5-sec1-lvl51-1]: Nuovo testo giusta la cifra I n. 4 dell’O del 3 dic. 2010, in vigore dal 1° gen. 2011 ([RU 2010 5971](https://fedlex.data.admin.ch/eli/oc/2010/858)).
+[^chap5-sec1-lvl51-2]: Nuovo testo giusta la cifra I n. 4 dell’O del 3 dic. 2010, in vigore dal 1° gen. 2011 ([RU 2010 5971](https://fedlex.data.admin.ch/eli/oc/2010/858)).
+[^chap5-sec1-lvl51-3]: Nuovo testo giusta la cifra I dell’O del 19 dic. 2003, in vigore dal 1° mar. 2004 ([RU 2004 729](https://fedlex.data.admin.ch/eli/oc/2004/72)).
 
 ### **52** Appello principale
 
@@ -732,13 +732,13 @@ L’appello d’entrata inizia con il controllo dell’effettivo. L’unità pro
 
 Con l’appello serale terminano il giorno di lavoro e la libera uscita delle reclute, dei soldati e degli appuntati, come pure degli appuntati capi, sempreché non facciano parte dei quadri.[^chap5-sec1-lvl54-1] Dopo l’appello serale l’alloggio non può più essere lasciato senza autorizzazione.
 
-[^chap5-sec1-lvl54-1]: Nuovo testo giusta il n. I dell’O del 19 dic. 2003, in vigore dal 1° mar. 2004 ([RU 2004 729](https://fedlex.data.admin.ch/eli/oc/2004/72)).
+[^chap5-sec1-lvl54-1]: Nuovo testo giusta la cifra I dell’O del 19 dic. 2003, in vigore dal 1° mar. 2004 ([RU 2004 729](https://fedlex.data.admin.ch/eli/oc/2004/72)).
 
 ### **55** Tipi di congedo
 
 [^chap5-sec1-lvl55-1]
 
-[^chap5-sec1-lvl55-1]: Nuovo testo giusta il n. I dell’O del 22 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7383](https://fedlex.data.admin.ch/eli/oc/2017/805)).
+[^chap5-sec1-lvl55-1]: Nuovo testo giusta la cifra I dell’O del 22 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7383](https://fedlex.data.admin.ch/eli/oc/2017/805)).
 
 <sup>1</sup> Il congedo generale è il tempo libero, della durata di più di una giornata, ordinato dal comandante per la maggior parte dei militari che assolvono un servizio d’istruzione.
 
@@ -750,7 +750,7 @@ Con l’appello serale terminano il giorno di lavoro e la libera uscita delle re
 
 [^chap5-sec1-lvl55a-1]
 
-[^chap5-sec1-lvl55a-1]: Introdotto dal n. I dell’O del 22 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7383](https://fedlex.data.admin.ch/eli/oc/2017/805)).
+[^chap5-sec1-lvl55a-1]: Introdotto dalla cifra I dell’O del 22 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7383](https://fedlex.data.admin.ch/eli/oc/2017/805)).
 
 <sup>1</sup> I militari chiamati in servizio che necessitano di un congedo personale presentano al comandante, prima dell’inizio del servizio, una domanda motivata per iscritto, firmata e corredata delle prove necessarie. In casi imprevedibili, la domanda può essere presentata durante il servizio.
 
@@ -760,7 +760,7 @@ Con l’appello serale terminano il giorno di lavoro e la libera uscita delle re
 
 [^chap5-sec1-lvl55b-1]
 
-[^chap5-sec1-lvl55b-1]: Introdotto dal n. I dell’O del 22 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7383](https://fedlex.data.admin.ch/eli/oc/2017/805)).
+[^chap5-sec1-lvl55b-1]: Introdotto dalla cifra I dell’O del 22 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7383](https://fedlex.data.admin.ch/eli/oc/2017/805)).
 
 <sup>1</sup> Il congedo a libera scelta può essere richiesto sotto forma di giorni singoli o consecutivi.
 
@@ -776,7 +776,7 @@ Con l’appello serale terminano il giorno di lavoro e la libera uscita delle re
 
 [^chap5-sec1-lvl55c-1]
 
-[^chap5-sec1-lvl55c-1]: Introdotto dal n. I dell’O del 22 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7383](https://fedlex.data.admin.ch/eli/oc/2017/805)).
+[^chap5-sec1-lvl55c-1]: Introdotto dalla cifra I dell’O del 22 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7383](https://fedlex.data.admin.ch/eli/oc/2017/805)).
 
 <sup>1</sup> Al licenziamento per il congedo e all’entrata in servizio dopo il congedo i militari portano l’uniforme d’uscita. Il comandante può ordinare eccezioni. Durante il congedo è permesso portare abiti civili. È vietato cambiare la tenuta in pubblico.
 
@@ -792,8 +792,8 @@ Con l’appello serale terminano il giorno di lavoro e la libera uscita delle re
 
 <sup>4</sup> I militari si assistono mutualmente nel bisogno e nello sconforto, in spirito di camerateria.
 
-[^chap5-sec1-lvl56-1]: Nuovo testo giusta il n. I dell’O del 30 giu. 2021, in vigore dal 1° gen. 2022 ([RU 2021 451](https://fedlex.data.admin.ch/eli/oc/2021/451)).
-[^chap5-sec1-lvl56-2]: Nuovo testo giusta il n. I dell’O del 30 giu. 2021, in vigore dal 1° gen. 2022 ([RU 2021 451](https://fedlex.data.admin.ch/eli/oc/2021/451)).
+[^chap5-sec1-lvl56-1]: Nuovo testo giusta la cifra I dell’O del 30 giu. 2021, in vigore dal 1° gen. 2022 ([RU 2021 451](https://fedlex.data.admin.ch/eli/oc/2021/451)).
+[^chap5-sec1-lvl56-2]: Nuovo testo giusta la cifra I dell’O del 30 giu. 2021, in vigore dal 1° gen. 2022 ([RU 2021 451](https://fedlex.data.admin.ch/eli/oc/2021/451)).
 
 ### **57** Lingua
 
@@ -812,8 +812,8 @@ I superiori si esprimono, nel limite del possibile, nella lingua materna dei sub
 <sup>4</sup> Il DDPS disciplina il porto dell’uniforme fuori del servizio.[^chap5-sec2-lvl58-3]
 
 [^chap5-sec2-lvl58-1]: Nuova denominazione giusta il DCF non pubblicato del 19 dic. 1997. Di detta mod. è tenuto conto in tutto il presente testo.
-[^chap5-sec2-lvl58-2]: Nuovo testo giusta il n. I 4 dell’O del 3 dic. 2010, in vigore dal 1° gen. 2011 ([RU 2010 5971](https://fedlex.data.admin.ch/eli/oc/2010/858)).
-[^chap5-sec2-lvl58-3]: Nuovo testo giusta il n. II 2 dell’O del 28 nov. 2014, in vigore dal 1° gen. 2015 ([RU 2014 4493](https://fedlex.data.admin.ch/eli/oc/2014/748)).
+[^chap5-sec2-lvl58-2]: Nuovo testo giusta la cifra I n. 4 dell’O del 3 dic. 2010, in vigore dal 1° gen. 2011 ([RU 2010 5971](https://fedlex.data.admin.ch/eli/oc/2010/858)).
+[^chap5-sec2-lvl58-3]: Nuovo testo giusta la cifra II n. 2 dell’O del 28 nov. 2014, in vigore dal 1° gen. 2015 ([RU 2014 4493](https://fedlex.data.admin.ch/eli/oc/2014/748)).
 
 ### **59** Saluto e annuncio
 
@@ -850,7 +850,7 @@ La coesione dei membri di una formazione costituisce una condizione essenziale p
 
 <sup>4</sup> L’aiutante di stato maggiore dello stato maggiore di battaglione o di gruppo è l’alfiere.[^chap5-sec3-lvl61-1]
 
-[^chap5-sec3-lvl61-1]: Introdotto dal n. I dell’O del 19 dic. 2003, in vigore dal 1° mar. 2004 ([RU 2004 729](https://fedlex.data.admin.ch/eli/oc/2004/72)).
+[^chap5-sec3-lvl61-1]: Introdotto dalla cifra I dell’O del 19 dic. 2003, in vigore dal 1° mar. 2004 ([RU 2004 729](https://fedlex.data.admin.ch/eli/oc/2004/72)).
 
 ### **62** Cerimonie e manifestazioni militari
 
@@ -882,8 +882,8 @@ Durante il servizio militare, i militari si trovano a far fronte ad esigenze ina
 
 <sup>4</sup> I militari si assistono mutualmente nel bisogno e nello sconforto, in spirito di camerateria.
 
-[^chap6-lvl64-1]: Nuovo testo giusta il n. I dell’O del 22 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7383](https://fedlex.data.admin.ch/eli/oc/2017/805)).
-[^chap6-lvl64-2]: Nuovo testo giusta il n. I dell’O del 22 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7383](https://fedlex.data.admin.ch/eli/oc/2017/805)).
+[^chap6-lvl64-1]: Nuovo testo giusta la cifra I dell’O del 22 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7383](https://fedlex.data.admin.ch/eli/oc/2017/805)).
+[^chap6-lvl64-2]: Nuovo testo giusta la cifra I dell’O del 22 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7383](https://fedlex.data.admin.ch/eli/oc/2017/805)).
 
 ### **65** Funzioni religiose
 
@@ -895,7 +895,7 @@ Durante il servizio militare, i militari si trovano a far fronte ad esigenze ina
 
 <sup>4</sup> Se i cappellani militari celebrano una funzione religiosa militare durante il servizio, i militari appartenenti ad altre confessioni o religioni sono autorizzati a partecipare a una funzione religiosa civile della loro istituzione. Occorre tuttavia che essa sia tenuta nel luogo di stazionamento o nelle sue vicinanze e che l’andamento del servizio lo permetta. I militari che non intendono assistere alla funzione religiosa militare né ad una funzione religiosa civile sono dispensati. Possono però venir loro ordinati lavori di servizio.
 
-[^chap6-lvl65-1]: Nuovo testo giusta il n. I dell’O del 22 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7383](https://fedlex.data.admin.ch/eli/oc/2017/805)).
+[^chap6-lvl65-1]: Nuovo testo giusta la cifra I dell’O del 22 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7383](https://fedlex.data.admin.ch/eli/oc/2017/805)).
 
 ### **66** Funerali
 
@@ -917,8 +917,8 @@ Durante il servizio militare, i militari si trovano a far fronte ad esigenze ina
 
 <sup>5</sup> I comandanti informano tempestivamente i militari sulle disposizioni relative al testamento d’urgenza.
 
-[^chap6-lvl67-1]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
-[^chap6-lvl67-2]: Nuovo testo del per. giusta il n. I dell’O del 19 dic. 2003, in vigore dal 1° mar. 2004 ([RU 2004 729](https://fedlex.data.admin.ch/eli/oc/2004/72)).
+[^chap6-lvl67-1]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
+[^chap6-lvl67-2]: Nuovo testo del per. giusta la cifra I dell’O del 19 dic. 2003, in vigore dal 1° mar. 2004 ([RU 2004 729](https://fedlex.data.admin.ch/eli/oc/2004/72)).
 
 ## Capitolo 7: Poteri di polizia della truppa e servizio di guardia
 
@@ -936,17 +936,17 @@ Spesso nell’ambito dei compiti relativi ai poteri di polizia e al servizio di 
 
 [^chap7-sec1-lvl68-1]
 
-[^chap7-sec1-lvl68-1]: Nuovo testo giusta il n. I dell’O del 22 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7383](https://fedlex.data.admin.ch/eli/oc/2017/805)).
+[^chap7-sec1-lvl68-1]: Nuovo testo giusta la cifra I dell’O del 22 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7383](https://fedlex.data.admin.ch/eli/oc/2017/805)).
 
 Per l’adempimento dei propri compiti la truppa dispone dei necessari poteri di polizia. Questi sono regolati nell’ordinanza del 26 ottobre 1994[^chap7-sec1-lvl68-2] concernente i poteri di polizia dell’esercito.
 
-[^chap7-sec1-lvl68-2]: [RS 510.32](https://fedlex.data.admin.ch/eli/cc/1995/40_40_40)
+[^chap7-sec1-lvl68-2]: [RS 510.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7291)
 
 ### **69**
 
 [^chap7-sec1-lvl69-1]
 
-[^chap7-sec1-lvl69-1]: Abrogato dal n. I dell’O del 22 nov. 2017, con effetto dal 1° gen. 2018 ([RU 2017 7383](https://fedlex.data.admin.ch/eli/oc/2017/805)).
+[^chap7-sec1-lvl69-1]: Abrogato dalla cifra I dell’O del 22 nov. 2017, con effetto dal 1° gen. 2018 ([RU 2017 7383](https://fedlex.data.admin.ch/eli/oc/2017/805)).
 
 ### **70** Proporzionalità
 
@@ -956,7 +956,7 @@ Le misure coercitive di polizia sono destinate a proteggere persone, beni e diri
 
 [^chap7-sec1-lvl71-1]
 
-[^chap7-sec1-lvl71-1]: Abrogato dal n. I dell’O del 22 nov. 2017, con effetto dal 1° gen. 2018 ([RU 2017 7383](https://fedlex.data.admin.ch/eli/oc/2017/805)).
+[^chap7-sec1-lvl71-1]: Abrogato dalla cifra I dell’O del 22 nov. 2017, con effetto dal 1° gen. 2018 ([RU 2017 7383](https://fedlex.data.admin.ch/eli/oc/2017/805)).
 
 ### **72** Uso delle armi da fuoco
 
@@ -966,9 +966,9 @@ Nel quadro dei poteri di polizia, l’arma da fuoco può essere utilizzata come 
 - b. in stato di necessità: per preservare la propria integrità fisica e vita o quelle di un’altra persona da un pericolo imminente non altrimenti evitabile.[^chap7-sec1-lvl72-3] Non è dato uno stato di necessità se il pericolo è imputabile a chi agisce o se si può ragionevolmente pretendere che la persona interessata rinunci al bene minacciato;
 - c. per adempiere un compito di protezione o di sorveglianza, sempreché i beni giuridici da proteggere lo giustifichino e gli ordini dei superiori lo impongano nel caso particolare in base a disposizioni legali.
 
-[^chap7-sec1-lvl72-1]: Nuovo testo giusta il n. I dell’O del 19 dic. 2003, in vigore dal 1° mar. 2004 ([RU 2004 729](https://fedlex.data.admin.ch/eli/oc/2004/72)).
-[^chap7-sec1-lvl72-2]: Nuovo testo giusta il n. I dell’O del 19 dic. 2003, in vigore dal 1° mar. 2004 ([RU 2004 729](https://fedlex.data.admin.ch/eli/oc/2004/72)).
-[^chap7-sec1-lvl72-3]: Nuovo testo giusta il n. I dell’O del 19 dic. 2003, in vigore dal 1° mar. 2004 ([RU 2004 729](https://fedlex.data.admin.ch/eli/oc/2004/72)).
+[^chap7-sec1-lvl72-1]: Nuovo testo giusta la cifra I dell’O del 19 dic. 2003, in vigore dal 1° mar. 2004 ([RU 2004 729](https://fedlex.data.admin.ch/eli/oc/2004/72)).
+[^chap7-sec1-lvl72-2]: Nuovo testo giusta la cifra I dell’O del 19 dic. 2003, in vigore dal 1° mar. 2004 ([RU 2004 729](https://fedlex.data.admin.ch/eli/oc/2004/72)).
+[^chap7-sec1-lvl72-3]: Nuovo testo giusta la cifra I dell’O del 19 dic. 2003, in vigore dal 1° mar. 2004 ([RU 2004 729](https://fedlex.data.admin.ch/eli/oc/2004/72)).
 
 ### Sezione 2: Servizio di guardia
 
@@ -984,13 +984,13 @@ La guardia protegge la truppa, il suo materiale e le sue installazioni da attacc
 
 <sup>3</sup> Il servizio di guardia è effettuato, di regola, con l’arma da fuoco e con munizione da combattimento. Il DDPS regola i particolari.
 
-[^chap7-sec2-lvl74-1]: Nuovo testo giusta il n. I 4 dell’O del 3 dic. 2010, in vigore dal 1° gen. 2011 ([RU 2010 5971](https://fedlex.data.admin.ch/eli/oc/2010/858)).
+[^chap7-sec2-lvl74-1]: Nuovo testo giusta la cifra I n. 4 dell’O del 3 dic. 2010, in vigore dal 1° gen. 2011 ([RU 2010 5971](https://fedlex.data.admin.ch/eli/oc/2010/858)).
 
 ### **75** Ordine d’impiego per il servizio di guardia
 
 [^chap7-sec2-lvl75-1]
 
-[^chap7-sec2-lvl75-1]: Nuovo testo giusta il n. I 4 dell’O del 3 dic. 2010 , in vigore dal 1° gen. 2011 ([RU 2010 5971](https://fedlex.data.admin.ch/eli/oc/2010/858)).
+[^chap7-sec2-lvl75-1]: Nuovo testo giusta la cifra I n. 4 dell’O del 3 dic. 2010 , in vigore dal 1° gen. 2011 ([RU 2010 5971](https://fedlex.data.admin.ch/eli/oc/2010/858)).
 
 <sup>1</sup> L’ordine d’impiego per il servizio di guardia disciplina in dettaglio il compito, i diritti e gli obblighi della guardia. Disciplina in particolare l’uso delle armi da fuoco e l’impiego di mezzi coercitivi al di sotto della soglia d’uso delle armi da fuoco in base alle prescrizioni legali.
 
@@ -1026,7 +1026,7 @@ Obbligo di prestare servizio non significa unicamente che i diritti vengono limi
 
 <sup>3</sup> Ogni militare ha il dovere di rispettare i diritti umani e la dignità delle persone tenendo conto della loro diversità e senza discriminazioni. Nessuno deve essere trattato in maniera pregiudizievole in particolare a causa del sesso, dell’appartenenza etnica o nazionale, della lingua, dell’età, della religione, dell’orientamento sessuale, delle opinioni politiche o di altro genere, dell’estrazione sociale, dello stile di vita o della propria disabilità.[^chap8-sec1-lvl77-1]
 
-[^chap8-sec1-lvl77-1]: Nuovo testo giusta il n. I dell’O del 22 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7383](https://fedlex.data.admin.ch/eli/oc/2017/805)).
+[^chap8-sec1-lvl77-1]: Nuovo testo giusta la cifra I dell’O del 22 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7383](https://fedlex.data.admin.ch/eli/oc/2017/805)).
 
 ### **78** Obblighi secondo il diritto internazionale bellico
 
@@ -1063,9 +1063,9 @@ Obbligo di prestare servizio non significa unicamente che i diritti vengono limi
 
 [^chap8-sec1-lvl80a-1]
 
-[^chap8-sec1-lvl80a-1]: Introdotto dal n. I dell’O del 19 nov. 2014, in vigore dal 1° gen. 2015 ([RU 2014 4341](https://fedlex.data.admin.ch/eli/oc/2014/714)).
+[^chap8-sec1-lvl80a-1]: Introdotto dalla cifra I dell’O del 19 nov. 2014 ([RU 2014 4341](https://fedlex.data.admin.ch/eli/oc/2014/714)). Nuovo testo giusta l’all. n. 1 dell’O del 1° apr. 2026, in vigore dal 1° giu. 2026 ([RU 2026 174](https://fedlex.data.admin.ch/eli/oc/2026/174)).
 
-Ai fini del controllo dell’identità, i militari devono certificare la propria identità all’inizio di ogni servizio mediante l’ordine di marcia, il libretto di servizio, la targhetta di riconoscimento e un documento di legittimazione ufficiale valido corredato di una fotografia (passaporto, carta d’identità o licenza di condurre).
+Ai fini del controllo dell’identità, i militari devono certificare la propria identità all’inizio di ogni servizio mediante l’ordine di marcia, la targhetta di riconoscimento e un documento di legittimazione ufficiale valido corredato di una fotografia come il passaporto, la carta d’identità o la licenza di condurre.
 
 ### **81** Rispetto delle prescrizioni di servizio
 
@@ -1089,8 +1089,8 @@ I militari collaborano in spirito di camerateria. Essi rispettano la personalit�
 
 <sup>3</sup> Chi lavora con informazioni o oggetti classificati o che devono rimanere segreti, o può disporne, deve premunirsi contro la loro perdita e preservarle da qualsiasi consultazione o utilizzazione non autorizzate da parte di terzi.
 
-[^chap8-sec1-lvl84-1]: Nuovo testo giusta il n. I 4 dell’O del 3 dic. 2010, in vigore dal 1° gen. 2011 ([RU 2010 5971](https://fedlex.data.admin.ch/eli/oc/2010/858)).
-[^chap8-sec1-lvl84-2]: Nuovo testo giusta il n. I dell’O del 19 dic. 2003, in vigore dal 1° mar. 2004 ([RU 2004 729](https://fedlex.data.admin.ch/eli/oc/2004/72)).
+[^chap8-sec1-lvl84-1]: Nuovo testo giusta la cifra I n. 4 dell’O del 3 dic. 2010, in vigore dal 1° gen. 2011 ([RU 2010 5971](https://fedlex.data.admin.ch/eli/oc/2010/858)).
+[^chap8-sec1-lvl84-2]: Nuovo testo giusta la cifra I dell’O del 19 dic. 2003, in vigore dal 1° mar. 2004 ([RU 2004 729](https://fedlex.data.admin.ch/eli/oc/2004/72)).
 
 ### **85** Obbligo di accettare un grado o di assumere una funzione
 
@@ -1098,7 +1098,7 @@ I militari collaborano in spirito di camerateria. Essi rispettano la personalit�
 
 2 A sottufficiali, appuntati capi, appuntati e soldati con conoscenze tecniche particolari possono essere affidate, se necessario, funzioni d’ufficiale (ufficiale specialista).[^chap8-sec1-lvl85-1] Essi prestano i servizi corrispondenti a queste funzioni. Non devono invece prestare i servizi d’istruzione normalmente richiesti per conseguire il grado superiore o per la nuova funzione. Fintanto che esercitano la funzione, essi hanno gli stessi diritti e gli stessi obblighi degli ufficiali della stessa funzione.
 
-[^chap8-sec1-lvl85-1]: Nuovo testo giusta il n. I dell’O del 19 dic. 2003, in vigore dal 1° mar. 2004 ([RU 2004 729](https://fedlex.data.admin.ch/eli/oc/2004/72)).
+[^chap8-sec1-lvl85-1]: Nuovo testo giusta la cifra I dell’O del 19 dic. 2003, in vigore dal 1° mar. 2004 ([RU 2004 729](https://fedlex.data.admin.ch/eli/oc/2004/72)).
 
 ### **86** Obbligo di aver cura dell’equipaggiamento e del materiale
 
@@ -1116,8 +1116,8 @@ I militari collaborano in spirito di camerateria. Essi rispettano la personalit�
 
 <sup>7</sup> È vietato alienare, dare in pegno o in locazione oggetti d’equipaggiamento.
 
-[^chap8-sec1-lvl86-1]: Nuovo testo giusta il n. I 4 dell’O del 3 dic. 2010, in vigore dal 1° gen. 2011 ([RU 2010 5971](https://fedlex.data.admin.ch/eli/oc/2010/858)).
-[^chap8-sec1-lvl86-2]: Nuovo testo giusta il n. I 4 dell’O del 3 dic. 2010, in vigore dal 1° gen. 2011 ([RU 2010 5971](https://fedlex.data.admin.ch/eli/oc/2010/858)).
+[^chap8-sec1-lvl86-1]: Nuovo testo giusta la cifra I n. 4 dell’O del 3 dic. 2010, in vigore dal 1° gen. 2011 ([RU 2010 5971](https://fedlex.data.admin.ch/eli/oc/2010/858)).
+[^chap8-sec1-lvl86-2]: Nuovo testo giusta la cifra I n. 4 dell’O del 3 dic. 2010, in vigore dal 1° gen. 2011 ([RU 2010 5971](https://fedlex.data.admin.ch/eli/oc/2010/858)).
 
 ### **87** Responsabilità in caso di danni
 
@@ -1141,9 +1141,9 @@ I militari collaborano in spirito di camerateria. Essi rispettano la personalit�
 
 <sup>3</sup> Chi causa intenzionalmente la propria inabilità o la propria inidoneità a prestare servizio è punito secondo le disposizioni del Codice penale militare del 13 giugno 1927[^chap8-sec1-lvl88-2].[^chap8-sec1-lvl88-3]
 
-[^chap8-sec1-lvl88-1]: Nuovo testo giusta il n. I 4 dell’O del 3 dic. 2010, in vigore dal 1° gen. 2011 ([RU 2010 5971](https://fedlex.data.admin.ch/eli/oc/2010/858)).
-[^chap8-sec1-lvl88-2]: [RS 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
-[^chap8-sec1-lvl88-3]: Nuovo testo giusta il n. I dell’O del 19 dic. 2003, in vigore dal 1° mar. 2004 ([RU 2004 729](https://fedlex.data.admin.ch/eli/oc/2004/72)).
+[^chap8-sec1-lvl88-1]: Nuovo testo giusta la cifra I n. 4 dell’O del 3 dic. 2010, in vigore dal 1° gen. 2011 ([RU 2010 5971](https://fedlex.data.admin.ch/eli/oc/2010/858)).
+[^chap8-sec1-lvl88-2]: [RS 321.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6242)
+[^chap8-sec1-lvl88-3]: Nuovo testo giusta la cifra I dell’O del 19 dic. 2003, in vigore dal 1° mar. 2004 ([RU 2004 729](https://fedlex.data.admin.ch/eli/oc/2004/72)).
 
 ### **89** Obblighi fuori del servizio
 
@@ -1151,16 +1151,16 @@ I militari collaborano in spirito di camerateria. Essi rispettano la personalit�
 
 <sup>2</sup> La convocazione ai corsi per ritardatari ha luogo mediante affissi pubblici di chiamata. Non vengono inviati ordini di marcia.
 
-<sup>3</sup> I militari devono adempiere all’obbligo di notificazione militare. I cambiamenti di dati personali, dell’indirizzo e della professione devono essere annunciati entro due settimane al caposezione militare o al comando di circondario.[^chap8-sec1-lvl89-2] Anche l’eventuale perdita del libretto di servizio va annunciata senza indugio.
+<sup>3</sup> I militari devono adempiere all’obbligo di notificazione militare. I cambiamenti di dati personali, dell’indirizzo e della professione devono essere annunciati entro due settimane al caposezione militare o al comando di circondario.[^chap8-sec1-lvl89-2]
 
 <sup>4</sup> I militari che intendono soggiornare più di dodici mesi all’estero devono chiedere un congedo per l’estero. La domanda di congedo dev’essere presentata al comando di circondario competente.[^chap8-sec1-lvl89-3]
 
 <sup>5</sup> I militari s’informano per tempo se e quando devono entrare in servizio. Gli affissi pubblici di chiamata danno tutte le indicazioni necessarie. Essi valgono come chiamata. Il luogo e l’ora d’entrata in servizio sono indicati nell’ordine di marcia. Chi, due settimane prima dell’inizio del servizio, non ha ricevuto l’ordine di marcia è tenuto ad annunciarsi al suo comandante. Chi ha dubbi per quanto concerne il suo obbligo di entrare in servizio s’informa presso il caposezione militare, il comando di circondario o il comandante.[^chap8-sec1-lvl89-4]
 
-[^chap8-sec1-lvl89-1]: Nuovo testo giusta il n. I 4 dell’O del 3 dic. 2010, in vigore dal 1° gen. 2011 ([RU 2010 5971](https://fedlex.data.admin.ch/eli/oc/2010/858)).
-[^chap8-sec1-lvl89-2]: Nuovo testo del per. giusta il n. I dell’O del 19 dic. 2003, in vigore dal 1° mar. 2004 ([RU 2004 729](https://fedlex.data.admin.ch/eli/oc/2004/72)).
-[^chap8-sec1-lvl89-3]: Nuovo testo giusta il n. I dell’O del 19 dic. 2003, in vigore dal 1° mar. 2004 ([RU 2004 729](https://fedlex.data.admin.ch/eli/oc/2004/72)).
-[^chap8-sec1-lvl89-4]: Per. introdotto dal n. I dell’O del 19 dic. 2003, in vigore dal 1° mar. 2004 ([RU 2004 729](https://fedlex.data.admin.ch/eli/oc/2004/72)).
+[^chap8-sec1-lvl89-1]: Nuovo testo giusta la cifra I n. 4 dell’O del 3 dic. 2010, in vigore dal 1° gen. 2011 ([RU 2010 5971](https://fedlex.data.admin.ch/eli/oc/2010/858)).
+[^chap8-sec1-lvl89-2]: Nuovo testo giusta l’all. n. 1 dell’O del 1° apr. 2026, in vigore dal 1° giu. 2026 ([RU 2026 174](https://fedlex.data.admin.ch/eli/oc/2026/174)).
+[^chap8-sec1-lvl89-3]: Nuovo testo giusta la cifra I dell’O del 19 dic. 2003, in vigore dal 1° mar. 2004 ([RU 2004 729](https://fedlex.data.admin.ch/eli/oc/2004/72)).
+[^chap8-sec1-lvl89-4]: Per. introdotto dalla cifra I dell’O del 19 dic. 2003, in vigore dal 1° mar. 2004 ([RU 2004 729](https://fedlex.data.admin.ch/eli/oc/2004/72)).
 
 ### **90** Lavori di preparazione al servizio e lavori di licenziamento
 
@@ -1172,7 +1172,7 @@ I militari collaborano in spirito di camerateria. Essi rispettano la personalit�
 
 [^chap8-sec1-lvl91-1]
 
-[^chap8-sec1-lvl91-1]: Nuovo testo giusta il n. I dell’O del 19 dic. 2003, in vigore dal 1° mar. 2004 ([RU 2004 729](https://fedlex.data.admin.ch/eli/oc/2004/72)).
+[^chap8-sec1-lvl91-1]: Nuovo testo giusta la cifra I dell’O del 19 dic. 2003, in vigore dal 1° mar. 2004 ([RU 2004 729](https://fedlex.data.admin.ch/eli/oc/2004/72)).
 
 <sup>1</sup> Fuori del servizio, i militari devono tenersi pronti in modo da poter sempre rispondere a una eventuale chiamata alle armi.
 
@@ -1204,11 +1204,13 @@ I militari collaborano in spirito di camerateria. Essi rispettano la personalit�
 
 <sup>2</sup> Dati personali di militari possono essere registrati solo nella misura prevista dalla legislazione militare. Per principio, i militari hanno diritto di prendere conoscenza dei dati che li concernono.
 
-<sup>3</sup> I militari hanno diritto che i dati personali contenuti nel sistema informatico di gestione del personale dell’esercito, nel libretto di servizio o in altri documenti militari siano trattati confidenzialmente. Esiste, in particolare, il diritto al trattamento confidenziale di dati provenienti da sentenze e decisioni di tribunali civili o militari, autorità amministrative od organi di comando.
+<sup>3</sup> I militari hanno diritto che i dati personali contenuti nel Sistema di gestione del personale dell’esercito e della protezione civile, nell’attestato di adempimento dell’obbligo di prestare servizio militare o in altri documenti militari siano trattati confidenzialmente. Esiste, in particolare, il diritto al trattamento confidenziale di dati provenienti da sentenze e decisioni di tribunali civili o militari, autorità amministrative od organi di comando.[^chap8-sec2-lvl94-1]
 
 <sup>4</sup> I militari hanno diritto che il segreto postale sia tutelato e che i medici, i loro collaboratori e i cappellani militari mantengano il segreto professionale. Hanno diritto che il personale dei servizi di consulenza sociale e psicologica mantenga il segreto sui loro dati personali.
 
 <sup>5</sup> I contenitori e i bagagli personali dei militari devono essere rispettati. In casi fondati possono tuttavia essere effettuati controlli, nel limite del possibile in presenza dell’interessato.
+
+[^chap8-sec2-lvl94-1]: Nuovo testo giusta l’all. n. 1 dell’O del 1° apr. 2026, in vigore dal 1° giu. 2026 ([RU 2026 174](https://fedlex.data.admin.ch/eli/oc/2026/174)).
 
 ### **95** Libertà di credenza e di coscienza
 
@@ -1232,8 +1234,8 @@ I militari collaborano in spirito di camerateria. Essi rispettano la personalit�
 
 <sup>4</sup> ...[^chap8-sec2-lvl96-2]
 
-[^chap8-sec2-lvl96-1]: Nuovo testo giusta il n. I dell’O del 19 dic. 2003, in vigore dal 1° mar. 2004 ([RU 2004 729](https://fedlex.data.admin.ch/eli/oc/2004/72)).
-[^chap8-sec2-lvl96-2]: Abrogato dal n. II 2 dell’O del 28 nov. 2014, con effetto dal 1° gen. 2015 ([RU 2014 4493](https://fedlex.data.admin.ch/eli/oc/2014/748)).
+[^chap8-sec2-lvl96-1]: Nuovo testo giusta la cifra I dell’O del 19 dic. 2003, in vigore dal 1° mar. 2004 ([RU 2004 729](https://fedlex.data.admin.ch/eli/oc/2004/72)).
+[^chap8-sec2-lvl96-2]: Abrogato dalla cifra II n. 2 dell’O del 28 nov. 2014, con effetto dal 1° gen. 2015 ([RU 2014 4493](https://fedlex.data.admin.ch/eli/oc/2014/748)).
 
 ### **97** Esercizio di cariche pubbliche
 
@@ -1243,7 +1245,7 @@ I militari collaborano in spirito di camerateria. Essi rispettano la personalit�
 
 <sup>3</sup> I membri dell’Assemblea federale sono dispensati dal servizio d’istruzione e dal servizio d’appoggio per la durata delle sessioni e delle sedute di commissioni o gruppi delle Camere federali.[^chap8-sec2-lvl97-1]
 
-[^chap8-sec2-lvl97-1]: Nuovo testo giusta il n. I dell’O del 19 dic. 2003, in vigore dal 1° mar. 2004 ([RU 2004 729](https://fedlex.data.admin.ch/eli/oc/2004/72)).
+[^chap8-sec2-lvl97-1]: Nuovo testo giusta la cifra I dell’O del 19 dic. 2003, in vigore dal 1° mar. 2004 ([RU 2004 729](https://fedlex.data.admin.ch/eli/oc/2004/72)).
 
 ### **98** Diritto all’informazione
 
@@ -1271,13 +1273,13 @@ I militari collaborano in spirito di camerateria. Essi rispettano la personalit�
 
 <sup>2</sup> Per le questioni di carattere personale i militari possono rivolgersi direttamente al loro comandante, al medico di truppa, al cappellano militare, al Servizio sociale dell’esercito, al Servizio psicopedagogico dell’esercito o all’Organo di mediazione dell’esercito.[^chap8-sec2-lvl100-1]
 
-[^chap8-sec2-lvl100-1]: Nuovo testo giusta il n. I dell’O del 30 giu. 2021, in vigore dal 1° gen. 2022 ([RU 2021 451](https://fedlex.data.admin.ch/eli/oc/2021/451)).
+[^chap8-sec2-lvl100-1]: Nuovo testo giusta la cifra I dell’O del 30 giu. 2021, in vigore dal 1° gen. 2022 ([RU 2021 451](https://fedlex.data.admin.ch/eli/oc/2021/451)).
 
 ### **100***a* Organo di mediazione dell’esercito
 
 [^chap8-sec2-lvl100a-1]
 
-[^chap8-sec2-lvl100a-1]: Introdotto dal n. I dell’O del 30 giu. 2021, in vigore dal 1° gen. 2022 ([RU 2021 451](https://fedlex.data.admin.ch/eli/oc/2021/451)).
+[^chap8-sec2-lvl100a-1]: Introdotto dalla cifra I dell’O del 30 giu. 2021, in vigore dal 1° gen. 2022 ([RU 2021 451](https://fedlex.data.admin.ch/eli/oc/2021/451)).
 
 <sup>1</sup> L’Organo di mediazione dell’esercito consiglia i militari in caso di problemi relativi al servizio militare. Coordina le sue attività con le persone e gli organi di cui al numero 100 capoverso 2.
 
@@ -1301,8 +1303,8 @@ I militari collaborano in spirito di camerateria. Essi rispettano la personalit�
 
 <sup>7</sup> In casi urgenti i militari possono essere raggiunti mediante la procedura di richiamo tramite l’«Ufficio Svizzera».
 
-[^chap8-sec2-lvl101-1]: Nuovo testo giusta il n. I dell’O del 19 dic. 2003, in vigore dal 1° mar. 2004 ([RU 2004 729](https://fedlex.data.admin.ch/eli/oc/2004/72)).
-[^chap8-sec2-lvl101-2]: Nuovo testo giusta il n. I dell’O del 19 dic. 2003, in vigore dal 1° mar. 2004 ([RU 2004 729](https://fedlex.data.admin.ch/eli/oc/2004/72)).
+[^chap8-sec2-lvl101-1]: Nuovo testo giusta la cifra I dell’O del 19 dic. 2003, in vigore dal 1° mar. 2004 ([RU 2004 729](https://fedlex.data.admin.ch/eli/oc/2004/72)).
+[^chap8-sec2-lvl101-2]: Nuovo testo giusta la cifra I dell’O del 19 dic. 2003, in vigore dal 1° mar. 2004 ([RU 2004 729](https://fedlex.data.admin.ch/eli/oc/2004/72)).
 
 ### Sezione 3: Protezione giuridica
 
@@ -1322,7 +1324,7 @@ Il militare convinto di aver subìto un torto deve in primo luogo cercare di com
 
 [^chap8-sec3-lvl104-1]
 
-[^chap8-sec3-lvl104-1]: Nuovo testo giusta il n. I dell’O del 19 dic. 2003, in vigore dal 1° mar. 2004 ([RU 2004 729](https://fedlex.data.admin.ch/eli/oc/2004/72)).
+[^chap8-sec3-lvl104-1]: Nuovo testo giusta la cifra I dell’O del 19 dic. 2003, in vigore dal 1° mar. 2004 ([RU 2004 729](https://fedlex.data.admin.ch/eli/oc/2004/72)).
 
 <sup>1</sup> I militari possono presentare reclamo per scritto se sono convinti di avere subìto un torto da parte di un superiore militare, di un altro militare o da un’autorità militare.
 
@@ -1402,7 +1404,7 @@ Il militare convinto di aver subìto un torto deve in primo luogo cercare di com
 
 <sup>4</sup> Il termine di ricorso è di dieci giorni dalla comunicazione della decisione impugnata. La nuova decisione dev’essere pronunciata, nel limite del possibile, entro dieci giorni; fuori del servizio, entro un mese. Le disposizioni relative al computo e al decorso dei termini (n. 106, cpv. 3 a 5), all’effetto del reclamo (n. 107) e alla procedura (n. 108, cpv. 1 a 3 e 5 a 7) valgono anche per il ricorso contro la decisione sul reclamo.
 
-[^chap8-sec3-lvl109-1]: Nuovo testo giusta il n. I dell’O del 19 dic. 2003, in vigore dal 1° mar. 2004 ([RU 2004 729](https://fedlex.data.admin.ch/eli/oc/2004/72)).
+[^chap8-sec3-lvl109-1]: Nuovo testo giusta la cifra I dell’O del 19 dic. 2003, in vigore dal 1° mar. 2004 ([RU 2004 729](https://fedlex.data.admin.ch/eli/oc/2004/72)).
 
 ## Capitolo 9: Diritto penale militare
 
@@ -1418,9 +1420,9 @@ Una decisione penale disciplinare può essere impugnata presso il comandante imm
 
 ...[^chap9-3]
 
-[^chap9-1]: Nuovo testo giusta il n. I dell’O del 19 dic. 2003, in vigore dal 1° mar. 2004 ([RU 2004 729](https://fedlex.data.admin.ch/eli/oc/2004/72)).
-[^chap9-2]: Nuovo testo del per. giusta il n. I dell’O del 19 dic. 2003, in vigore dal 1° mar. 2004 ([RU 2004 729](https://fedlex.data.admin.ch/eli/oc/2004/72)).
-[^chap9-3]: Abrogato dal n. I dell’O del 19 dic. 2003, con effetto dal 1° mar. 2004 ([RU 2004 729](https://fedlex.data.admin.ch/eli/oc/2004/72)).
+[^chap9-1]: Nuovo testo giusta la cifra I dell’O del 19 dic. 2003, in vigore dal 1° mar. 2004 ([RU 2004 729](https://fedlex.data.admin.ch/eli/oc/2004/72)).
+[^chap9-2]: Nuovo testo del per. giusta la cifra I dell’O del 19 dic. 2003, in vigore dal 1° mar. 2004 ([RU 2004 729](https://fedlex.data.admin.ch/eli/oc/2004/72)).
+[^chap9-3]: Abrogato dalla cifra I dell’O del 19 dic. 2003, con effetto dal 1° mar. 2004 ([RU 2004 729](https://fedlex.data.admin.ch/eli/oc/2004/72)).
 
 ## Capitolo 10: Disposizioni finali
 
@@ -1428,7 +1430,7 @@ Una decisione penale disciplinare può essere impugnata presso il comandante imm
 
 [^chap10-lvl110-1]
 
-[^chap10-lvl110-1]: Nuovo testo giusta il n. I dell’O del 19 dic. 2003, in vigore dal 1° mar. 2004 ([RU 2004 729](https://fedlex.data.admin.ch/eli/oc/2004/72)).
+[^chap10-lvl110-1]: Nuovo testo giusta la cifra I dell’O del 19 dic. 2003, in vigore dal 1° mar. 2004 ([RU 2004 729](https://fedlex.data.admin.ch/eli/oc/2004/72)).
 
 Il regolamento di servizio dell’esercito svizzero (RS 80) del 27 giugno 1979[^chap10-lvl110-2] è abrogato.
 
@@ -1440,7 +1442,7 @@ Il presente regolamento di servizio entra in vigore il 1° gennaio 1995.
 
 Allegato 1[^t-2]
 
-[^t-2]: Abrogato dal n. IV lett. a dell’O del 29 ott. 2003, con effetto dal 1° mar. 2004 ([RU 2003 4541](https://fedlex.data.admin.ch/eli/oc/2003/673), **2004** 943).
+[^t-2]: Abrogato dalla cifra IV lett. a dell’O del 29 ott. 2003, con effetto dal 1° mar. 2004 ([RU 2003 4541](https://fedlex.data.admin.ch/eli/oc/2003/673), **2004** 943).
 
 Allegato 2[^t-3]
 
@@ -1448,7 +1450,7 @@ Allegato 2[^t-3]
 
 ## Disposizioni particolari relative al servizio di promovimento della pace
 
-[^t-3]: Introdotto dal n. III dell’O del 9 set. 1998 ([RU 1998 2288](https://fedlex.data.admin.ch/eli/oc/1998/2288_2288_2288)). Aggiornato giusta il n. II dell’O del 19 dic. 2003 ([RU 2004 729](https://fedlex.data.admin.ch/eli/oc/2004/72)), il n. IV lett. b dell’O del 29 ott. 2003 ([RU 2003 4541](https://fedlex.data.admin.ch/eli/oc/2003/673), **2004** 943) e il n. II dell’O del 22 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7383](https://fedlex.data.admin.ch/eli/oc/2017/805)).
+[^t-3]: Introdotto dalla cifra III dell’O del 9 set. 1998 ([RU 1998 2288](https://fedlex.data.admin.ch/eli/oc/1998/2288_2288_2288)). Aggiornato dalla cifra II dell’O del 19 dic. 2003 ([RU 2004 729](https://fedlex.data.admin.ch/eli/oc/2004/72)), dalla cifra IV lett. b dell’O del 29 ott. 2003 ([RU 2003 4541](https://fedlex.data.admin.ch/eli/oc/2003/673), **2004** 943) e dalla cifra II dell’O del 22 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7383](https://fedlex.data.admin.ch/eli/oc/2017/805)).
 
 ### Sezione 1: Principî
 
@@ -1526,7 +1528,7 @@ In servizio di promovimento della pace le prescrizioni relative all’andamento 
 
 <sup>4</sup> Durante l’impiego non sono previsti uscite né congedi. Il tempo libero corrisponde al tempo non lavorativo conformemente all’ordinanza del 2 dicembre 2005[^annex2-lvlu1-sec2-lvl9-1] sul personale impiegato per la promozione della pace, il rafforzamento dei diritti dell’uomo e l’aiuto umanitario e agli ordini per l’andamento del servizio.
 
-[^annex2-lvlu1-sec2-lvl9-1]: [RS 172.220.111.9](https://fedlex.data.admin.ch/eli/cc/2005/764)
+[^annex2-lvlu1-sec2-lvl9-1]: [RS 172.220.111.9](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5376)
 
 ### **10** Documenti d’identità
 

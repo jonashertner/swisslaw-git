@@ -4,11 +4,11 @@ title: "Règlement de service de l'armée du 22 juin 1994 (RSA)"
 short: RSA
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/170_170_170"
 language: fr
-version: 2022-01-01
+version: 2026-06-01
 adopted: 1994-06-22
 in_force: 1995-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/170_170_170/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-1995-170_170_170-20220101-fr-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/170_170_170/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/170_170_170/20260601/fr/xml/fedlex-data-admin-ch-eli-cc-1995-170_170_170-20260601-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/170_170_170/20260601/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/170_170_170/20220101/fr"
 
 (RSA)[^t-1]
 
-du 22 juin 1994 (État le 1<sup>er</sup> janvier 2022)
+du 22 juin 1994 (État le 1<sup>er</sup> juin 2026)
 
 [^t-1]: Nouvelle teneur selon le ch. I de l’O du 22 nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7383](https://fedlex.data.admin.ch/eli/oc/2017/805)).
 
@@ -27,7 +27,7 @@ vu l’art. 150, al. 2, de la loi du 3 février 1995 sur l’armée[^ingress-1],
 
 arrête:
 
-[^ingress-1]: [RS 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
+[^ingress-1]: [RS 510.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7242)
 [^ingress-2]: Nouvelle teneur selon le ch. I de l’O du 19 déc. 2003, en vigueur depuis le 1<sup>er</sup> mars 2004 ([RO 2004 729](https://fedlex.data.admin.ch/eli/oc/2004/72)).
 
 ## Chapitre 1 Introduction
@@ -88,7 +88,7 @@ Dans le cadre de la politique de sécurité, l’armée joue un rôle détermina
 
 [^chap2-lvl4-1]
 
-[^chap2-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^chap2-1]: [RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^chap2-2]: Nouvelle teneur de la partie introductive selon le ch. I de l’O du 22 nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7383](https://fedlex.data.admin.ch/eli/oc/2017/805)).
 [^chap2-lvl4-1]: Nouvelle teneur selon le ch. I de l’O du 22 nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7383](https://fedlex.data.admin.ch/eli/oc/2017/805)).
 
@@ -921,7 +921,7 @@ On rappellera ici une exigence de l’État de droit et une règle de la camarad
 
 <sup>5</sup> Les commandants informent les militaires suffisamment tôt sur les dispositions relatives au testament du soldat.
 
-[^chap6-lvl67-1]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^chap6-lvl67-1]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 [^chap6-lvl67-2]: Nouvelle teneur de la phrase selon le ch. I de l’O du 19 déc. 2003, en vigueur depuis le 1<sup>er</sup> mars 2004 ([RO 2004 729](https://fedlex.data.admin.ch/eli/oc/2004/72)).
 
 ## Chapitre 7 Pouvoirs de police de la troupe et service de garde
@@ -944,7 +944,7 @@ Le militaire ne peut souvent compter que sur lui-même quand il remplit des miss
 
 La troupe dispose des pouvoirs de police nécessaires à l’accomplissement de ses tâches. Ceux-ci sont réglés par l’ordonnance du 26 octobre 1994 concernant les pouvoirs de police de l’armée[^chap7-sec1-lvl68-2].
 
-[^chap7-sec1-lvl68-2]: [RS 510.32](https://fedlex.data.admin.ch/eli/cc/1995/40_40_40)
+[^chap7-sec1-lvl68-2]: [RS 510.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7291)
 
 ### **69**
 
@@ -1068,9 +1068,9 @@ L’obligation de servir n’implique pas uniquement une réduction de certains 
 
 [^chap8-sec1-lvl80a-1]
 
-[^chap8-sec1-lvl80a-1]: Introduit par le ch. I de l’O du 19 nov. 2014, en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 4341](https://fedlex.data.admin.ch/eli/oc/2014/714)).
+[^chap8-sec1-lvl80a-1]: Introduit par le ch. I de l’O du 19 nov. 2014 ([RO 2014 4341](https://fedlex.data.admin.ch/eli/oc/2014/714)). Nouvelle teneur selon l’annexe ch. 1 de l’O du 1<sup>er</sup> avr. 2026, en vigueur depuis le 1<sup>er</sup> juin 2026 ([RO 2026 174](https://fedlex.data.admin.ch/eli/oc/2026/174)).
 
-Au début de chaque service, les militaires doivent présenter l’ordre de marche, le livret de service, la plaque d’identité et une pièce d’identité officielle valable avec photo (passeport, carte d’identité ou permis de conduire) à des fins de contrôle d’identité.
+Au début de chaque service, les militaires doivent présenter, à des fins de contrôle d’identité, l’ordre de marche, la plaque d’identité et une pièce d’identité officielle valable avec photo, comme le passeport, la carte d’identité ou le permis de conduire.
 
 ### **81** Respect des prescriptions de service
 
@@ -1147,7 +1147,7 @@ Les militaires doivent collaborer dans un esprit de camaraderie. Ils respectent 
 <sup>3</sup> Tout acte intentionnel visant à provoquer l’inaptitude au service ou l’incapacité de servir est puni selon les dispositions du code pénal militaire du 13 juin 1927[^chap8-sec1-lvl88-2].[^chap8-sec1-lvl88-3]
 
 [^chap8-sec1-lvl88-1]: Nouvelle teneur selon le ch. I 4 de l’O du 3 déc. 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 5971](https://fedlex.data.admin.ch/eli/oc/2010/858)).
-[^chap8-sec1-lvl88-2]: [RS 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
+[^chap8-sec1-lvl88-2]: [RS 321.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6242)
 [^chap8-sec1-lvl88-3]: Nouvelle teneur selon le ch. I de l’O du 19 déc. 2003, en vigueur depuis le 1<sup>er</sup> mars 2004 ([RO 2004 729](https://fedlex.data.admin.ch/eli/oc/2004/72)).
 
 ### **89** Devoirs hors du service
@@ -1156,14 +1156,14 @@ Les militaires doivent collaborer dans un esprit de camaraderie. Ils respectent 
 
 <sup>2</sup> La convocation aux cours de tir pour retardataires se fait par affiches. Aucun ordre de marche n’est envoyé.
 
-<sup>3</sup> Les militaires sont tenus de respecter l’obligation d’annoncer. Toute modification de données personnelles, d’adresse ou de profession doit être communiquée, dans les quinze jours, au chef de section ou au commandement d’arrondissement.[^chap8-sec1-lvl89-2] Il faut aussi annoncer immédiatement la perte du livret de service.
+<sup>3</sup> Les militaires sont tenus de respecter l’obligation d’annoncer. Toute modification de données personnelles, d’adresse ou de profession doit être communiquée, dans les quatorze jours, au chef de section ou au commandement d’arrondissement.[^chap8-sec1-lvl89-2]
 
 <sup>4</sup> Les militaires qui désirent séjourner plus de douze mois à l’étranger doivent demander un congé pour l’étranger. Cette demande est à adresser au commandement d’arrondissement concerné.[^chap8-sec1-lvl89-3]
 
 <sup>5</sup> Les militaires s’informent à temps des date et lieu de leur entrée au service. Les affiches de mise sur pied donnent toutes les informations utiles. Elles ont valeur de convocation. Celui qui, quatorze jours avant d’entrer au service, n’a pas reçu d’ordre de marche est tenu de s’annoncer à son commandant. Celui qui n’est pas sûr de ses obligations s’informera auprès du chef de section ou de son commandant. Celui qui n’est pas sûr d’être obligé d’entrer au service s’informera auprès du chef de section ou du commandement d’arrondissement, ou de son commandant.[^chap8-sec1-lvl89-4]
 
 [^chap8-sec1-lvl89-1]: Nouvelle teneur selon le ch. I 4 de l’O du 3 déc. 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 5971](https://fedlex.data.admin.ch/eli/oc/2010/858)).
-[^chap8-sec1-lvl89-2]: Nouvelle teneur de la phrase selon le ch. I de l’O du 19 déc. 2003, en vigueur depuis le 1<sup>er</sup> mars 2004 ([RO 2004 729](https://fedlex.data.admin.ch/eli/oc/2004/72)).
+[^chap8-sec1-lvl89-2]: Nouvelle teneur selon l’annexe ch. 1 de l’O du 1<sup>er</sup> avr. 2026, en vigueur depuis le 1<sup>er</sup> juin 2026 ([RO 2026 174](https://fedlex.data.admin.ch/eli/oc/2026/174)).
 [^chap8-sec1-lvl89-3]: Nouvelle teneur selon le ch. I de l’O du 19 déc. 2003, en vigueur depuis le 1<sup>er</sup> mars 2004 ([RO 2004 729](https://fedlex.data.admin.ch/eli/oc/2004/72)).
 [^chap8-sec1-lvl89-4]: Phrase introduite par le ch. I de l’O du 19 déc. 2003, en vigueur depuis le 1<sup>er</sup> mars 2004 ([RO 2004 729](https://fedlex.data.admin.ch/eli/oc/2004/72)).
 
@@ -1209,11 +1209,13 @@ Les militaires doivent collaborer dans un esprit de camaraderie. Ils respectent 
 
 <sup>2</sup> Des renseignements relatifs aux militaires ne peuvent être enregistrés que dans la mesure où la législation militaire le prévoit. Les militaires ont en principe le droit de prendre connaissance des informations les concernant.
 
-<sup>3</sup> Les militaires ont droit à ce que les données personnelles contenues dans le système d’informations personnelles de l’armée, dans le livret de service ou dans d’autres documents militaires soient traitées de manière confidentielle. Il en va de même notamment en ce qui concerne les informations résultant de jugements ou de décisions de tribunaux civils ou militaires, d’autorités administratives ou d’organes de commandement.
+<sup>3</sup> Les militaires ont droit à ce que les données personnelles contenues dans le Système d’information sur le personnel de l’armée et de la protection civile, sur l’attestation de l’accomplissement des obligations militaires ou dans d’autres documents militaires soient traitées de manière confidentielle. Il en va de même notamment en ce qui concerne les informations résultant de jugements ou de décisions de tribunaux civils ou militaires, d’autorités administratives ou d’organes de commandement.[^chap8-sec2-lvl94-1]
 
 <sup>4</sup> En outre, les militaires ont le droit au respect du secret postal et au secret professionnel liant les médecins et leurs collaborateurs ainsi que les aumôniers. Ils ont droit à ce que le personnel des services de conseil dans les domaines social et psychologique respectent le secret en ce qui concerne les données personnelles.
 
 <sup>5</sup> Les contenants et les bagages des militaires sont également respectés. Dans des cas dûment motivés, des contrôles peuvent toutefois être effectués, dans la mesure du possible en présence du militaire concerné.
+
+[^chap8-sec2-lvl94-1]: Nouvelle teneur selon l’annexe ch. 1 de l’O du 1<sup>er</sup> avr. 2026, en vigueur depuis le 1<sup>er</sup> juin 2026 ([RO 2026 174](https://fedlex.data.admin.ch/eli/oc/2026/174)).
 
 ### **95** Liberté de croyance et de conscience
 
@@ -1529,7 +1531,7 @@ Les prescriptions relatives à la marche du service au service de promotion de l
 
 <sup>4</sup> Il n’y a pas de sorties ou de congés durant l’engagement. Le temps libre correspond au temps qui n’est pas considéré comme du temps de travail selon l’ordonnance du 2 décembre 2005 sur le personnel affecté à la promotion de la paix, au renforcement des droits de l’homme et à l’aide humanitaire[^annex2-lvlu1-sec2-lvl9-1].
 
-[^annex2-lvlu1-sec2-lvl9-1]: [RS 172.220.111.9](https://fedlex.data.admin.ch/eli/cc/2005/764)
+[^annex2-lvlu1-sec2-lvl9-1]: [RS 172.220.111.9](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5376)
 
 ### **10** Pièces d’identité
 
