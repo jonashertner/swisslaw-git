@@ -4,11 +4,11 @@ title: "Ordinanza del 21 febbraio 2018 concernente l'amministrazione dell'eserci
 short: OAE
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/161"
 language: it
-version: 2023-01-01
+version: 2026-06-01
 adopted: 2018-02-21
 in_force: 2018-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/161/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2018-161-20230101-it-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/161/20230101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/161/20260601/it/xml/fedlex-data-admin-ch-eli-cc-2018-161-20260601-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/161/20260601/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,16 +17,16 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/161/20230101/it"
 
 (OAE)
 
-del 21 febbraio 2018 (Stato 1° gennaio 2023)
+del 21 febbraio 2018 (Stato 1° giugno 2026)
 
 Il Consiglio federale svizzero,
 
-visti gli articoli 142 capoverso 3 e 150 capoverso 1 della legge militare del 3 febbraio 1995[^ingress-1] (LM); visto l’articolo 167 capoverso 3 dell’ordinanza dell’Assemblea federale del 30 marzo 1949[^ingress-2] sull’amministrazione dell’esercito,
+visti gli articoli 29*a* capoverso 5, 29*e* capoverso 2, 142 capoverso 3, 148*j* capoverso 2 e 150 capoverso 1 della legge militare del 3 febbraio 1995[^ingress-1] (LM),[^ingress-2]
 
 ordina:
 
 [^ingress-1]: [RS 510.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7242)
-[^ingress-2]: [RS 510.30](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7286)
+[^ingress-2]: Nuovo testo giusta la cifra I dell’O del 1° apr. 2026, in vigore dal 1° giu. 2026 ([RU 2026 171](https://fedlex.data.admin.ch/eli/oc/2026/171)).
 
 ## Capitolo 1: Oggetto
 
@@ -57,9 +57,13 @@ I contabili per la contabilità della truppa e del servizio tecnico nelle formaz
 - c. il furiere;
 - d. il contabile della truppa.
 
+<sup>1bis</sup> Dirigono e svolgono il servizio del commissariato degli stati maggiori e delle unità dell’esercito nonché delle scuole e dei corsi.[^3-1]
+
 <sup>2</sup> Gli impiegati della Confederazione possono esercitare la funzione di contabile nell’ambito della loro attività professionale.
 
 <sup>3</sup> In casi particolari la BLEs designa il contabile.
+
+[^3-1]: Introdotto dalla cifra I dell’O del 1° apr. 2026, in vigore dal 1° giu. 2026 ([RU 2026 171](https://fedlex.data.admin.ch/eli/oc/2026/171)).
 
 #### Art. 4
 
@@ -68,6 +72,14 @@ I contabili per la contabilità della truppa e del servizio tecnico nelle formaz
 <sup>1</sup> Nel caso di una sostituzione del contabile, la consegna degli affari, della contabilità, delle casse e delle merci ha luogo in buona e debita forma. La consegna è documentata in un verbale, la cui esattezza è attestata dalla persona che la effettua e dalla persona che la riceve. Il comandante prende conoscenza della consegna e vi appone la firma. Il verbale dev’essere allegato alla contabilità.
 
 <sup>2</sup> La persona uscente è responsabile della sua gestione e può essere tenuta a prestare il suo aiuto per il disbrigo di affari in sospeso.
+
+#### Art. 4a
+
+**Sorveglianza del servizio del commissariato**[^4a-1]
+
+I comandanti sorvegliano il servizio del commissariato nell’ambito del loro comando.
+
+[^4a-1]: Introdotto dalla cifra I dell’O del 1° apr. 2026, in vigore dal 1° giu. 2026 ([RU 2026 171](https://fedlex.data.admin.ch/eli/oc/2026/171)).
 
 #### Art. 5
 
@@ -82,6 +94,10 @@ L’organo di controllo della contabilità della truppa è, in ordine gerarchico
 - c. il quartiermastro.
 
 <sup>2</sup> Il capo della BLEs può ordinare controlli in tutto l’esercito.
+
+<sup>3</sup> I comandanti delle Grandi Unità e dei corpi di truppa provvedono affinché i capi del servizio del commissariato e i quartiermastri esercitino l’attività di controllo.[^5-1]
+
+[^5-1]: Introdotto dalla cifra I dell’O del 1° apr. 2026, in vigore dal 1° giu. 2026 ([RU 2026 171](https://fedlex.data.admin.ch/eli/oc/2026/171)).
 
 #### Art. 6
 
@@ -105,11 +121,35 @@ L’organo di controllo della contabilità della truppa è, in ordine gerarchico
 
 <sup>2</sup> La Formazione d’addestramento della logistica redige le basi per l’istruzione.
 
+#### Art. 7a
+
+**Funzione e compiti del contabile**[^7a-1]
+
+<sup>1</sup> Le unità e gli stati maggiori sono autonomi sul piano amministrativo.
+
+<sup>2</sup> Il contabile tiene la contabilità della truppa secondo il principio della parsimonia. Fa in modo che le spese non necessarie siano evitate.
+
+[^7a-1]: Introdotto dalla cifra I dell’O del 1° apr. 2026, in vigore dal 1° giu. 2026 ([RU 2026 171](https://fedlex.data.admin.ch/eli/oc/2026/171)).
+
 #### Art. 8
 
 **Giustificativi**
 
 Le entrate e le uscite di tutte le casse devono essere comprovate con moduli o fatture originali.
+
+#### Art. 8a
+
+**Inventario**[^8a-1]
+
+<sup>1</sup> Di tutti gli oggetti di valore duraturo acquistati dalle truppe (oggetti d’inventario) è tenuto un inventario.
+
+<sup>2</sup> I comandanti di truppa si accertano che gli inventari siano tenuti e controllati in modo completo.
+
+<sup>3</sup> I capi del servizio del commissariato e i quartiermastri procedono, in occasione della revisione della contabilità prescritta, anche alla revisione degli inventari.
+
+<sup>4</sup> Alla BLEs spetta l’alta vigilanza sulla tenuta degli inventari.
+
+[^8a-1]: Introdotto dalla cifra I dell’O del 1° apr. 2026, in vigore dal 1° giu. 2026 ([RU 2026 171](https://fedlex.data.admin.ch/eli/oc/2026/171)).
 
 #### Art. 9
 
@@ -147,9 +187,12 @@ Nei casi in cui la contabilità militare secondo gli articoli 7–10 non è poss
 
 <sup>1</sup> Se il comandante intende ordinare spese non previste, presenta, per la via di servizio, una domanda di credito alla BLEs.
 
-<sup>2</sup> La BLEs decide sulle domande di credito sino a un importo di 50 000 franchi, l’Aggruppamento Difesa decide sulle domande in merito a importi superiori.
+<sup>2</sup> La BLEs decide sulla domanda di credito.[^12-1]
 
-<sup>3</sup> La BLEs tiene il controllo delle domande di credito e stabilisce la procedura di contabilizzazione.
+<sup>3</sup> Tiene inoltre il controllo delle domande di credito e stabilisce la procedura di contabilizzazione.[^12-2]
+
+[^12-1]: Nuovo testo giusta la cifra I dell’O del 1° apr. 2026, in vigore dal 1° giu. 2026 ([RU 2026 171](https://fedlex.data.admin.ch/eli/oc/2026/171)).
+[^12-2]: Nuovo testo giusta la cifra I dell’O del 1° apr. 2026, in vigore dal 1° giu. 2026 ([RU 2026 171](https://fedlex.data.admin.ch/eli/oc/2026/171)).
 
 ### Sezione 3: Casse
 
@@ -201,13 +244,9 @@ Per il denaro che militari della formazione volessero depositare durante il serv
 
 #### Art. 19
 
-**Cassa del chiosco**
+[^19-1]
 
-<sup>1</sup> Le casse dei chioschi possono essere tenute soltanto sulle piazze d’armi.
-
-<sup>2</sup> Una cassa del chiosco può essere aperta soltanto con l’autorizzazione della BLEs.
-
-<sup>3</sup> La BLEs stabilisce i margini di guadagno e disciplina l’impiego degli utili.
+[^19-1]: Abrogato dalla cifra I dell’O del 1° apr. 2026, con effetto dal 1° giu. 2026 ([RU 2026 171](https://fedlex.data.admin.ch/eli/oc/2026/171)).
 
 #### Art. 20
 
@@ -217,9 +256,11 @@ Al di fuori dei singoli servizi una formazione può gestire una cassa associativ
 
 #### Art. 21
 
-**Obbligo di notifica all’apertura di una cassa degli sponsor, una cassa del chiosco o una cassa societaria**
+**Obbligo di notifica all’apertura di una cassa degli sponsor o di una cassa societaria**[^21-1]
 
-All’apertura di una cassa degli sponsor, una cassa del chiosco o una cassa societaria, il contabile garantisce che la BLEs ne sia informata per la via di servizio.
+All’apertura di una cassa degli sponsor o di una cassa societaria, il contabile garantisce che la BLEs ne sia informata per la via di servizio.
+
+[^21-1]: Nuovo testo giusta la cifra I dell’O del 1° apr. 2026, in vigore dal 1° giu. 2026 ([RU 2026 171](https://fedlex.data.admin.ch/eli/oc/2026/171)).
 
 ### Sezione 4: Pagamenti
 
@@ -273,9 +314,23 @@ All’apertura di una cassa degli sponsor, una cassa del chiosco o una cassa soc
 
 #### Art. 27
 
-**Custodia dei documenti contabili**
+**Conservazione dei documenti contabili**[^27-1]
 
-I contabili conservano per cinque anni tutti i documenti della contabilità della truppa delle formazioni, delle scuole e dei corsi.
+La BLEs e i contabili conservano per cinque anni tutti i documenti della contabilità della truppa delle formazioni, delle scuole e dei corsi. La BLEs conserva gli originali.
+
+[^27-1]: Nuovo testo giusta la cifra I dell’O del 1° apr. 2026, in vigore dal 1° giu. 2026 ([RU 2026 171](https://fedlex.data.admin.ch/eli/oc/2026/171)).
+
+#### Art. 27a
+
+**Osservazioni in sede di revisione e obbligo d’informazione**[^27a-1]
+
+<sup>1</sup> Se alla truppa vengono comunicate osservazioni in sede di revisione da parte della BLEs, il contabile deve presentare alla BLEs una presa di posizione scritta entro due mesi.
+
+<sup>2</sup> Tutte le parti coinvolte sono tenute a fornire le informazioni necessarie ai fini dell’accertamento.
+
+<sup>3</sup> La BLEs decide in merito alle controversie inerenti a pretese derivanti dalle osservazioni in sede di revisione.
+
+[^27a-1]: Introdotto dalla cifra I dell’O del 1° apr. 2026, in vigore dal 1° giu. 2026 ([RU 2026 171](https://fedlex.data.admin.ch/eli/oc/2026/171)).
 
 ## Capitolo 3: Soldo
 
@@ -347,21 +402,26 @@ In caso di trapasso del comando fuori del servizio vi è diritto:
 
 <sup>3</sup> Nel soldo del grado sono comprese le indennità per il trasporto dei bagagli militari dal domicilio alla stazione ferroviaria e viceversa.
 
-[^31-1]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 769](https://fedlex.data.admin.ch/eli/oc/2022/769)).
+[^31-1]: Nuovo testo giusta la cifra I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 769](https://fedlex.data.admin.ch/eli/oc/2022/769)).
 
 #### Art. 32
 
 **Supplemento di soldo**
 
-<sup>1</sup>
+<sup>1</sup> Gli ufficiali subalterni, gli aspiranti ufficiali, i sottufficiali, gli appuntati e i soldati ricevono un supplemento di soldo per i servizi non computati sulla durata dei corsi di ripetizione e richiesti per conseguire un grado superiore o per la loro formazione specialistica.[^32-1]
+
+<sup>1bis</sup>
 
 Durante i servizi d’istruzione di base per ottenere un grado superiore, il supplemento di soldo giornaliero ammonta al massimo a:
 
 - a. 50 franchi per l’ottenimento di un grado di sottufficiale o di sottufficiale superiore;
 - b. 80 franchi per l’ottenimento di un grado di ufficiale;
-- c. 100 franchi per l’ottenimento di un grado di sottufficiale superiore a livello di corpo di truppa o del grado di capitano.
+- c. 100 franchi per l’ottenimento di un grado di sottufficiale superiore a livello di corpo di truppa o del grado di capitano.[^32-2]
 
 <sup>2</sup> L’Aggruppamento Difesa disciplina l’ammontare del supplemento di soldo tenendo conto del grado e della funzione dei militari nonché della natura, della durata e delle particolarità dei servizi d’istruzione di base.
+
+[^32-1]: Introdotto dalla cifra I dell’O del 1° apr. 2026, in vigore dal 1° giu. 2026 ([RU 2026 171](https://fedlex.data.admin.ch/eli/oc/2026/171)).
+[^32-2]: Originario cpv. 1.
 
 #### Art. 33
 
@@ -383,7 +443,9 @@ Il personale militare ai sensi dell’articolo 47 LM e gli impiegati civili dell
 
 <sup>1</sup> I comandanti, i loro stati maggiori e i quadri che li accompagnano ricevono, per le visite alla truppa, il soldo e le indennità correlate. Hanno lo stesso diritto gli ufficiali degli stati maggiori delle Grandi Unità che, su ordine, visitano i corsi di formazioni subordinate nonché i comandanti di tutti i livelli per la ricognizione con i loro subordinati. Sono eccettuati i militari secondo l’articolo 34.
 
-<sup>2</sup> L’esattezza dei giustificativi dev’essere certificata dal comandante superiore.
+<sup>2</sup> …[^35-1]
+
+[^35-1]: Abrogato dalla cifra I dell’O del 1° apr. 2026, con effetto dal 1° giu. 2026 ([RU 2026 171](https://fedlex.data.admin.ch/eli/oc/2026/171)).
 
 #### Art. 36
 
@@ -473,6 +535,18 @@ Le trattenute sul soldo possono essere utilizzate soltanto per coprire perdite o
 
 ### Sezione 1: Sussistenza in natura
 
+#### Art. 45a
+
+**Approvvigionamento**[^45a-1]
+
+L’approvvigionamento di sussistenza e di foraggi è effettuato:
+
+- a. tramite l’acquisto libero della truppa;
+- b. tramite il rifornimento attingendo ai depositi per la sussistenza dell’esercito o di altre truppe;
+- c. tramite l’acquisto libero dei militari.
+
+[^45a-1]: Introdotto dalla cifra I dell’O del 1° apr. 2026, in vigore dal 1° giu. 2026 ([RU 2026 171](https://fedlex.data.admin.ch/eli/oc/2026/171)).
+
 #### Art. 46
 
 **Credito per la sussistenza**
@@ -531,11 +605,13 @@ Allo scopo di rinnovare le scorte dell’esercito, la BLEs può ordinare il cons
 
 #### Art. 53
 
-**Ordinario**
+**Cucina di truppa**[^53-1]
 
-<sup>1</sup> La sussistenza è di norma preparata nell’ordinario della truppa.
+<sup>1</sup> La sussistenza viene di norma preparata nelle cucine di truppa.
 
-<sup>2</sup> Ogni formazione ha di norma un ordinario proprio. Le formazioni per le quali non è possibile o è inopportuno un ordinario proprio devono essere aggregate all’ordinario di un’altra formazione.
+<sup>2</sup> Ogni formazione gestisce una propria cucina. Le formazioni per le quali non è possibile o conveniente gestire una propria cucina ricevono la sussistenza dalla cucina di un’altra formazione.
+
+[^53-1]: Nuovo testo giusta la cifra I dell’O del 1° apr. 2026, in vigore dal 1° giu. 2026 ([RU 2026 171](https://fedlex.data.admin.ch/eli/oc/2026/171)).
 
 #### Art. 54
 
@@ -547,23 +623,23 @@ Allo scopo di rinnovare le scorte dell’esercito, la BLEs può ordinare il cons
 
 #### Art. 55
 
-**Indennità per il servizio**
+[^55-1]
 
-<sup>1</sup> Per la sussistenza degli ufficiali e dei sottufficiali superiori in ristoranti sulle piazze d’armi e nei relativi stazionamenti esterni è pagata, a carico della cassa di servizio, un’indennità per il servizio, il coperto, la biancheria da tavola e gli ingredienti usuali (indennità per il servizio), sempre che ciò sia stato autorizzato dalla BLEs.
-
-<sup>2</sup> In tutti gli altri casi, la Confederazione non assume alcuna spesa per l’indennità per il servizio. Queste spese sono esclusivamente a carico del militare.
+[^55-1]: Abrogato dalla cifra I dell’O del 1° apr. 2026, con effetto dal 1° giu. 2026 ([RU 2026 171](https://fedlex.data.admin.ch/eli/oc/2026/171)).
 
 #### Art. 56
 
-**Fornitura a terzi**
+**Fornitura a terzi**[^56-1]
 
-<sup>1</sup> Per la sussistenza della truppa fornita a terzi i contabili devono chiedere i relativi contributi.
+<sup>1</sup> Per la sussistenza della truppa fornita a terzi i contabili chiedono i relativi contributi.
 
-<sup>2</sup> I contabili chiedono agli impiegati della Confederazione e ai collaboratori cantonali stazionati sulle piazze d’armi 7 franchi per ogni colazione e 10 franchi per ogni pranzo o ogni cena, sempre che vi sia un interesse di servizio alla sussistenza ritirata presso l’ordinario della truppa.
+<sup>2</sup> I contabili chiedono agli impiegati della Confederazione e ai collaboratori cantonali stazionati sulle piazze d’armi al massimo 10 franchi per ogni colazione e 20 franchi per ogni pranzo o ogni cena, sempre che vi sia un interesse di servizio a partecipare alla sussistenza dalla truppa.
 
-<sup>3</sup> Negli altri casi il comandante deve ottenere l’autorizzazione dalla BLEs. Questa stabilisce il contributo caso per caso.
+<sup>3</sup> La BLEs stabilisce il contributo.
 
-<sup>4</sup> Tutte le entrate provenienti da sussistenza fornita dalla truppa a terzi sono versate alla cassa di servizio della formazione e accreditate nel conteggio della sussistenza.
+<sup>4</sup> Tutte le entrate sono contabilizzate sulla cassa di servizio della truppa. Le entrate che superano il credito per la sussistenza confluiscono nella cassa della Confederazione.
+
+[^56-1]: Nuovo testo giusta la cifra I dell’O del 1° apr. 2026, in vigore dal 1° giu. 2026 ([RU 2026 171](https://fedlex.data.admin.ch/eli/oc/2026/171)).
 
 #### Art. 57
 
@@ -573,9 +649,9 @@ I pazienti curati presso la truppa, nei centri medici regionali, in infermerie e
 
 #### Art. 58
 
-**Sussistenza in natura al di fuori dell’ordinario della truppa**
+**Sussistenza in natura al di fuori della cucina di truppa[^58-1]**
 
-<sup>1</sup> Quando le formazioni non possono partecipare a un ordinario della truppa, i viveri devono essere consegnati a un ristorante o a un privato per la loro preparazione dietro pagamento di un’indennità.
+<sup>1</sup> Quando le formazioni non possono ricevere la sussistenza da una cucina di truppa, i viveri sono consegnati a un ristorante o a un privato per la loro preparazione dietro pagamento di un’indennità.[^58-2]
 
 <sup>2</sup> Per la preparazione della sussistenza da parte di ristoranti o privati è pagata l’indennità seguente, comprensiva dell’utilizzo della cucina e del combustibile:
 
@@ -586,6 +662,9 @@ I pazienti curati presso la truppa, nei centri medici regionali, in infermerie e
 </table>
 
 <sup>3</sup> In singoli casi debitamente motivati la BLEs può aumentare adeguatamente queste aliquote.
+
+[^58-1]: Nuovo testo giusta la cifra I dell’O del 1° apr. 2026, in vigore dal 1° giu. 2026 ([RU 2026 171](https://fedlex.data.admin.ch/eli/oc/2026/171)).
+[^58-2]: Nuovo testo giusta la cifra I dell’O del 1° apr. 2026, in vigore dal 1° giu. 2026 ([RU 2026 171](https://fedlex.data.admin.ch/eli/oc/2026/171)).
 
 ### Sezione 2: Sussistenza in pensione
 
@@ -653,9 +732,49 @@ I viveri forniti alle truppe sono destinati esclusivamente al loro consumo.
 
 #### Art. 65
 
-**Installazioni d’accantonamento**
+**Compiti dei comandanti di truppa**[^65-1]
 
-Per ottenere le installazioni indispensabili negli accantonamenti e per le misure destinate a garantire la protezione dei locali i comandanti si rivolgono previamente all’autorità comunale. L’autorità comunale procura il materiale necessario secondo le indicazioni dei comandanti e lo tiene a disposizione della truppa. Per quanto possibile, la truppa stessa esegue i lavori d’installazione.
+<sup>1</sup> Per ottenere alloggio in accantonamenti o per l’acquartieramento di truppe, i comandanti di truppa si rivolgono il più presto possibile alle autorità comunali.
+
+<sup>2</sup> Provvedono affinché vengano occupati soltanto i locali che corrispondono alle effettive esigenze della truppa.
+
+[^65-1]: Nuovo testo giusta la cifra I dell’O del 1° apr. 2026, in vigore dal 1° giu. 2026 ([RU 2026 171](https://fedlex.data.admin.ch/eli/oc/2026/171)).
+
+#### Art. 65a
+
+**Compiti delle autorità comunali**[^65a-1]
+
+<sup>1</sup> Le autorità comunali procurano il materiale necessario secondo le indicazioni dei comandanti e lo tengono a disposizione della truppa.
+
+<sup>2</sup> Per quanto possibile, la truppa stessa esegue i lavori d’installazione.
+
+[^65a-1]: Introdotto dalla cifra I dell’O del 1° apr. 2026, in vigore dal 1° giu. 2026 ([RU 2026 171](https://fedlex.data.admin.ch/eli/oc/2026/171)).
+
+#### Art. 65b
+
+**Modalità della presa in consegna e della restituzione**[^65b-1]
+
+<sup>1</sup> Prima di occupare o di lasciare un alloggio, la truppa verifica insieme al proprietario lo stato dei locali, delle istallazioni e degli utensili.
+
+<sup>2</sup> Gli eventuali difetti e danni sono messi a verbale. Questo viene firmato dal rappresentante della truppa e dal proprietario.
+
+<sup>3</sup> Quando lascia l’alloggio, la truppa restituisce in buono stato al proprietario le piazze, i locali e le installazioni utilizzati, dietro rilascio di un’attestazione scritta.
+
+<sup>4</sup> Ai danni causati dall’occupazione da parte della truppa sono applicabili le disposizioni concernenti la liquidazione delle pretese per danni cagionati alle colture e alla proprietà.
+
+[^65b-1]: Introdotto dalla cifra I dell’O del 1° apr. 2026, in vigore dal 1° giu. 2026 ([RU 2026 171](https://fedlex.data.admin.ch/eli/oc/2026/171)).
+
+#### Art. 65c
+
+**Alloggi adatti ed eccezioni**[^65c-1]
+
+<sup>1</sup> La truppa accetta i locali e le istallazioni assegnatile dalle autorità comunali, per quanto essi siano adatti per l’alloggio.
+
+<sup>2</sup> Sulle divergenze di opinione fra comandanti di truppa e autorità comunali in merito all’idoneità e all’uso di locali d’alloggio e installazioni decide il comandante della divisione territoriale.
+
+<sup>3</sup> I locali adibiti alle attività religiose e culturali come pure i locali di lusso e gli edifici che non potrebbero essere occupati senza correre il rischio di causare danni e spese sproporzionate o altri gravi svantaggi possono essere occupati soltanto in caso di assoluta necessità.
+
+[^65c-1]: Introdotto dalla cifra I dell’O del 1° apr. 2026, in vigore dal 1° giu. 2026 ([RU 2026 171](https://fedlex.data.admin.ch/eli/oc/2026/171)).
 
 #### Art. 66
 
@@ -673,35 +792,59 @@ Se le spese per le installazioni d’accantonamento, per le misure destinate a g
 
 <sup>3</sup> La BLEs può autorizzare eccezioni.
 
+#### Art. 67a
+
+**Alloggi per i quadri**[^67a-1]
+
+<sup>1</sup> Gli ufficiali, i sottufficiali superiori e singoli militari che per motivi di servizio non possono essere ospitati presso la truppa vengono, se possibile, alloggiati in camere con letti.
+
+<sup>2</sup> I sergenti capi, i sergenti e i caporali sono alloggiati, se possibile, in locali separati da quelli della truppa.
+
+<sup>3</sup> I militari che per mancanza di sottufficiali, sottufficiali superiori o ufficiali, esercitano funzioni corrispondenti hanno lo stesso diritto all’alloggio dei sottufficiali, dei sottufficiali superiori e degli ufficiali. Detto diritto esiste unicamente se l’effettivo regolamentare secondo le prescrizioni concernenti l’organizzazione dell’esercito non può essere raggiunto e non è possibile riequilibrare l’effettivo nel quadro del corpo di truppa.
+
+<sup>4</sup> Se possibile agli ufficiali superiori e ai comandanti d’unità sono messe a disposizione camere singole.
+
+[^67a-1]: Introdotto dalla cifra I dell’O del 1° apr. 2026, in vigore dal 1° giu. 2026 ([RU 2026 171](https://fedlex.data.admin.ch/eli/oc/2026/171)).
+
 #### Art. 68
 
 **Camere**
 
-<sup>1</sup> Se il costo delle camere che il Comune fornisce per alloggiare gli ufficiali, i sottufficiali superiori e i militari donna è superiore all’indennità stabilita dal Consiglio federale per la camera, il Comune si assume i costi supplementari.
+<sup>1</sup> Se il costo delle camere che il Comune fornisce per alloggiare gli ufficiali, i sottufficiali superiori e i militari che per motivi di servizio non possono essere ospitati presso la truppa è superiore all’indennità stabilita dal Consiglio federale per la camera, il Comune si assume i costi supplementari.[^68-1]
 
 <sup>2</sup> Se l’alloggio in camere non è possibile, si devono approntare accantonamenti particolari con letti o materassi e con la mobilia necessaria. In tal caso, i Comuni ricevono le indennità per gli accantonamenti e per l’utilizzo dei letti o materassi.
 
 <sup>3</sup> Le persone di cui al capoverso 1 che, con l’autorizzazione del comandante, occupano camere o accantonamenti diversi da quelli designati dal Comune, devono assumersi i costi supplementari.
 
-<sup>4</sup> In casi particolari la BLEs può aumentare l’indennità per la camera fino a 200 franchi al massimo per persona e notte.
+<sup>4</sup> In casi particolari la BLEs può aumentare l’indennità per la camera fino a 275 franchi al massimo a persona e a notte.[^68-2]
 
-<sup>5</sup> I militari devono pagare essi stessi all’alloggiatore i costi per la camera.
+<sup>5</sup> *…*[^68-3]
+
+[^68-1]: Nuovo testo giusta la cifra I dell’O del 1° apr. 2026, in vigore dal 1° giu. 2026 ([RU 2026 171](https://fedlex.data.admin.ch/eli/oc/2026/171)).
+[^68-2]: Nuovo testo giusta la cifra I dell’O del 1° apr. 2026, in vigore dal 1° giu. 2026 ([RU 2026 171](https://fedlex.data.admin.ch/eli/oc/2026/171)).
+[^68-3]: Abrogato dalla cifra I dell’O del 1° apr. 2026, con effetto dal 1° giu. 2026 ([RU 2026 171](https://fedlex.data.admin.ch/eli/oc/2026/171)).
 
 #### Art. 69
 
 **Indennità**[^69-1]
 
-Le indennità per l’uso di locali e piazze si fondano sulle aliquote nell’allegato.
+<sup>1</sup> Le indennità per l’uso di locali e piazze si basano sulle aliquote indicate nell’allegato.
 
-[^69-1]: Nuovo testo giusta il n. I dell’O del 25 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6009](https://fedlex.data.admin.ch/eli/oc/2020/1002)).
+<sup>2</sup> Le indennità per l’uso di locali sono corrisposte dal giorno della presa in consegna fino a quello della restituzione. Il fatto di non utilizzare i locali occupati non interrompe il diritto all’indennità.
+
+<sup>3</sup> Nelle indennità versate per l’uso di locali d’alloggio è compreso il compenso per l’utilizzazione e l’usura normale dei locali, delle installazioni e delle apparecchiature, per lo sgombero e la sistemazione come pure per la pulizia.
+
+[^69-1]: Nuovo testo giusta la cifra I dell’O del 1° apr. 2026, in vigore dal 1° giu. 2026 ([RU 2026 171](https://fedlex.data.admin.ch/eli/oc/2026/171)).
 
 #### Art. 70
 
 **Indennità forfettaria**
 
-<sup>1</sup> Per l’utilizzo degli accantonamenti arredati in permanenza, la BLEs può concordare con Comuni e privati un’indennità forfettaria. Per gli accantonamenti arredati in permanenza, non sussidiati dalla Confederazione, può autorizzare un aumento dell’indennità forfettaria del 40 per cento al massimo per persona e giorno.
+<sup>1</sup> Per l’utilizzo degli accantonamenti arredati in permanenza, la BLEs può concordare con Comuni e privati indennità forfettarie. Per gli accantonamenti arredati in permanenza non sussidiati dalla Confederazione può autorizzare un aumento dell’indennità forfettaria del 40 per cento al massimo.[^70-1]
 
 <sup>2</sup> Pubblica un elenco dei Comuni e dei privati con i quali sono state concordate delle indennità forfettarie.
+
+[^70-1]: Nuovo testo giusta la cifra I dell’O del 1° apr. 2026, in vigore dal 1° giu. 2026 ([RU 2026 171](https://fedlex.data.admin.ch/eli/oc/2026/171)).
 
 #### Art. 71
 
@@ -725,32 +868,13 @@ La BLEs disciplina il diritto al ritiro di paglia.
 
 Per il bivacco la truppa dispone della stessa quantità di paglia consegnata per gli accantonamenti.
 
-### Sezione 4: Indennità di pernottamento
+### Sezione 4: …
 
-#### Art. 74
+#### Art. 74 e 75
 
-**Diritto**
+[^7475-1]
 
-<sup>1</sup>
-
-Hanno diritto a un’indennità di pernottamento:
-
-- a. i militari che conducono i veicoli a motore dei comandanti delle Grandi Unità nonché dei subordinati diretti del capo dell’esercito e che durante queste corse devono alloggiare a proprie spese;
-- b. gli specialisti che non possono essere alloggiati presso la truppa.
-
-<sup>2</sup> La domanda d’indennità è presentata alla BLEs.
-
-<sup>3</sup> I costi per la camera devono essere pagati personalmente all’alloggiatore.
-
-#### Art. 75
-
-**Aliquote**
-
-<sup>1</sup> L’indennità di pernottamento corrisponde al prezzo locale usuale di una camera, ma è di franchi 70 al massimo per persona e notte. In casi speciali la BLEs può aumentare l’indennità di pernottamento fino a 200 franchi al massimo per persona e notte.
-
-<sup>2</sup> L’indennità è aumentata del 25 per cento quando la camera è occupata per non più di quattro notti.
-
-<sup>3</sup> Con l’indennità di pernottamento sono saldati tutti i costi per l’utilizzo della camera.
+[^7475-1]: Abrogati dalla cifra I dell’O del 1° apr. 2026, con effetto dal 1° giu. 2026 ([RU 2026 171](https://fedlex.data.admin.ch/eli/oc/2026/171)).
 
 ### Sezione 5: Altre infrastrutture
 
@@ -778,9 +902,11 @@ Per la celebrazione di funzioni religiose militari in chiese o luoghi di culto a
 
 **Camera privata**
 
-<sup>1</sup> Se durante il servizio i militari sono autorizzati a pernottare nella propria camera, non è pagata né un’indennità per la camera, né un’indennità di pernottamento.
+<sup>1</sup> Se durante il servizio i militari sono autorizzati a pernottare nella propria camera, non è pagata alcuna indennità per la camera.[^79-1]
 
 <sup>2</sup> Il personale militare, purché non presti servizio militare con soldo, deve assumersi le spese d’alloggio e pagare la camera direttamente all’alloggiatore.
+
+[^79-1]: Nuovo testo giusta la cifra I dell’O del 1° apr. 2026, in vigore dal 1° giu. 2026 ([RU 2026 171](https://fedlex.data.admin.ch/eli/oc/2026/171)).
 
 #### Art. 80
 
@@ -800,6 +926,14 @@ Per l’utilizzo dell’impianto di tiro, dei bersagli e del materiale per il ma
 
 <sup>4</sup> I marcatori e il servizio di sicurezza sono garantiti dalla truppa stessa.
 
+#### Art. 80a
+
+**Aerodromi civili**[^80a-1]
+
+Nell’interesse della difesa nazionale le Forze aeree possono prevedere esercizi e impieghi su aerodromi civili. Per l’utilizzo la BLEs può concordare con Comuni e terzi indennità forfettarie. Queste sono calcolate in base alle tariffe locali.
+
+[^80a-1]: Introdotto dalla cifra I dell’O del 1° apr. 2026, in vigore dal 1° giu. 2026 ([RU 2026 171](https://fedlex.data.admin.ch/eli/oc/2026/171)).
+
 #### Art. 81
 
 **Manutenzione degli alloggi**
@@ -814,7 +948,9 @@ Nei servizi d’istruzione delle formazioni, i militari della corrispondente for
 
 <sup>1</sup> Per i viaggi e i trasporti ordinati dalla truppa e da autorità militari, l’ordine di marcia vale come titolo di trasporto.
 
-<sup>2</sup> In caso di mobilitazione, l’uniforme assieme al libretto di servizio danno diritto al trasporto gratuito da parte delle imprese di trasporto pubblico.
+<sup>2</sup> In caso di mobilitazione, l’uniforme dà diritto al trasporto gratuito da parte delle imprese di trasporto pubblico.[^82-1]
+
+[^82-1]: Nuovo testo giusta la cifra I dell’O del 1° apr. 2026, in vigore dal 1° giu. 2026 ([RU 2026 171](https://fedlex.data.admin.ch/eli/oc/2026/171)).
 
 #### Art. 83
 
@@ -834,7 +970,7 @@ La BLEs, d’intesa con le imprese di trasporto pubblico, definisce l’accordo 
 
 Quando viaggiano a spese della Confederazione, gli ufficiali, gli aspiranti ufficiali, i sottufficiali superiori e gli aspiranti sottufficiali superiori hanno diritto al biglietto di prima classe; gli altri militari nonché le persone soggette all’obbligo di leva hanno diritto al biglietto di seconda classe.
 
-[^85-1]: Nuovo testo giusta il n. III dell’O del 16 ott. 2019, in vigore dal 1° dic. 2019 ([RU 2019 3233](https://fedlex.data.admin.ch/eli/oc/2019/596)).
+[^85-1]: Nuovo testo giusta la cifra III dell’O del 16 ott. 2019, in vigore dal 1° dic. 2019 ([RU 2019 3233](https://fedlex.data.admin.ch/eli/oc/2019/596)).
 
 #### Art. 86
 
@@ -853,23 +989,24 @@ Per i viaggi durante il periodo di servizio, in territorio svizzero i militari h
 
 #### Art. 88
 
-**Indennità di viaggio a Svizzeri all’estero: scuola reclute**
+**Indennità di viaggio a Svizzeri all’estero**[^88-1]
 
-Il Dipartimento federale della difesa, della protezione della popolazione e dello sport (DDPS) paga, agli Svizzeri all’estero che assolvono la scuola reclute, il giorno dell’entrata in servizio il prezzo del biglietto dal domicilio all’estero fino al luogo d’entrata in servizio e il giorno del licenziamento il prezzo del biglietto dal luogo di licenziamento fino al domicilio all’estero.
+<sup>1</sup>
 
-#### Art. 89
+La BLEs paga agli Svizzeri all’estero chiamati in servizio:
 
-**Indennità di viaggio a Svizzeri all’estero: altri servizi d’istruzione**
+- a. in occasione del reclutamento e di servizi d’istruzione: le spese di viaggio dal luogo di domicilio all’estero al luogo d’entrata in servizio e dal luogo di licenziamento al luogo di domicilio all’estero;
+- b. durante il servizio attivo: le spese per il viaggio di andata e ritorno tra il luogo di domicilio all’estero e la stazione di confine o l’aeroporto.
 
-<sup>1</sup> Gli Svizzeri all’estero che prestano altri servizi d’istruzione devono pagare loro stessi le spese per il viaggio di andata e di ritorno tra il domicilio all’estero e la stazione di confine o l’aeroporto.
+<sup>2</sup> La BLEs stabilisce i dettagli delle condizioni di rimborso.
 
-<sup>2</sup> Se, in seguito alla mancanza di quadri, il comandante ritiene indispensabile chiamare per un servizio d’istruzione militari in congedo all’estero e i militari sono disposti a prestare volontariamente servizio, la BLEs può autorizzare il rimborso del prezzo del biglietto per il viaggio di andata e di ritorno tra il domicilio all’estero e la stazione di confine o l’aeroporto, su domanda motivata presentata prima del servizio.
+[^88-1]: Nuovo testo giusta la cifra I dell’O del 1° apr. 2026, in vigore dal 1° giu. 2026 ([RU 2026 171](https://fedlex.data.admin.ch/eli/oc/2026/171)).
 
-#### Art. 90
+#### Art. 89 e 90
 
-**Indennità di viaggio a Svizzeri all’estero: servizio attivo**
+[^8990-1]
 
-Agli Svizzeri all’estero chiamati in servizio attivo sono rimborsate le spese per il viaggio di andata e di ritorno tra il domicilio all’estero e la stazione di confine o l’aeroporto. Le spese sono addebitate alla cassa di servizio.
+[^8990-1]: Abrogati dalla cifra I dell’O del 1° apr. 2026, con effetto dal 1° giu. 2026 ([RU 2026 171](https://fedlex.data.admin.ch/eli/oc/2026/171)).
 
 ## Capitolo 7: Servizio sanitario
 
@@ -931,19 +1068,61 @@ Per le prestazioni fornite in occasione dell’impiego di militari delle truppe 
 
 <sup>3</sup> Nell’indennità forfettaria sono comprese le spese per la messa a disposizione degli uffici, la pulizia dei locali di lavoro, la fornitura, la pulizia e la riparazione della biancheria d’ospedale e le altre spese accessorie.
 
-## Capitolo 8: Cappellani civili
+## Capitolo 8: Prestazioni civili
+
+[^chap8-1]
+
+[^chap8-1]: Nuovo testo giusta la cifra I dell’O del 1° apr. 2026, in vigore dal 1° giu. 2026 ([RU 2026 171](https://fedlex.data.admin.ch/eli/oc/2026/171)).
 
 #### Art. 98
+
+**Cappellani[^98-1]**
 
 <sup>1</sup> Nei casi in cui non è possibile chiamare in servizio un cappellano per compiti di assistenza spirituale, si può far capo a un cappellano civile.
 
 <sup>2</sup> I cappellani civili che collaborano in occasione di funzioni religiose militari particolari vengono indennizzati secondo le tariffe locali, a carico della cassa di servizio.
 
+[^98-1]: Introdotto dalla cifra I dell’O del 1° apr. 2026, in vigore dal 1° giu. 2026 ([RU 2026 171](https://fedlex.data.admin.ch/eli/oc/2026/171)).
+
+#### Art. 98a
+
+**Personale insegnante civile**[^98a-1]
+
+<sup>1</sup> Se per carenza di personale insegnante proprio nelle scuole e nei corsi è necessario ricorrere a insegnanti aggiuntivi che non prestano servizio militare, la loro assunzione avviene nel quadro di un rapporto di servizio civile.
+
+<sup>2</sup> La BLEs stabilisce le condizioni di assunzione.
+
+[^98a-1]: Introdotto dalla cifra I dell’O del 1° apr. 2026, in vigore dal 1° giu. 2026 ([RU 2026 171](https://fedlex.data.admin.ch/eli/oc/2026/171)).
+
+#### Art. 98b
+
+**Offerte di formazione civili**[^98b-1]
+
+<sup>1</sup> Se per l’esercizio della funzione dei militari è assolutamente necessaria una formazione e non è possibile ricorrere a offerte formative proprie, è possibile avvalersi di prestazioni civili.
+
+<sup>2</sup> La BLEs autorizza le formazioni civili.
+
+<sup>3</sup> Il conteggio viene effettuato secondo le tariffe locali a carico della cassa di servizio.
+
+[^98b-1]: Introdotto dalla cifra I dell’O del 1° apr. 2026, in vigore dal 1° giu. 2026 ([RU 2026 171](https://fedlex.data.admin.ch/eli/oc/2026/171)).
+
 ## Capitolo 9: Sussistenza degli animali dell’esercito
 
 #### Art. 99
 
+**Modalità[^99-1]**
+
 La BLEs disciplina la sussistenza degli animali dell’esercito.
+
+[^99-1]: Introdotto dalla cifra I dell’O del 1° apr. 2026, in vigore dal 1° giu. 2026 ([RU 2026 171](https://fedlex.data.admin.ch/eli/oc/2026/171)).
+
+#### Art. 99a
+
+**Obbligo di foraggiamento**[^99a-1]
+
+La truppa ha l’obbligo di foraggiare tutti i cavalli ed i muli ritenuti idonei al servizio militare, i cavalli ed i muli del Centro equestre nazionale come pure i cavalli privati degli istruttori dal giorno della presa in consegna fino a quello della restituzione.
+
+[^99a-1]: Introdotto dalla cifra I dell’O del 1° apr. 2026, in vigore dal 1° giu. 2026 ([RU 2026 171](https://fedlex.data.admin.ch/eli/oc/2026/171)).
 
 ## Capitolo 10: Disposizione e impiego di veicoli civili
 
@@ -1253,7 +1432,7 @@ Sono abrogate:
 - 1\. l’ordinanza del 29 novembre 1995[^122-1] concernente l’amministrazione dell’esercito;
 - 2\. l’ordinanza del DDPS del 12 dicembre 1995[^122-2] concernente l’amministrazione dell’esercito.
 
-[^122-1]: [[RU 1996 340](https://fedlex.data.admin.ch/eli/oc/1996/340_340_340), [2752](https://fedlex.data.admin.ch/eli/oc/1996/2752_2752_2752); [1997 2622](https://fedlex.data.admin.ch/eli/oc/1997/2622_2622_2622), [2779](https://fedlex.data.admin.ch/eli/oc/1997/2779_2779_2779)n. II 26; [1999 878](https://fedlex.data.admin.ch/eli/oc/1999/125), [3532](https://fedlex.data.admin.ch/eli/oc/1999/498); [2000 2976](https://fedlex.data.admin.ch/eli/oc/2000/535); [2001 2706](https://fedlex.data.admin.ch/eli/oc/2001/402); [2002 4201](https://fedlex.data.admin.ch/eli/oc/2002/678); [2003 4007](https://fedlex.data.admin.ch/eli/oc/2003/583), [5097](https://fedlex.data.admin.ch/eli/oc/2003/752); [2004 3197](https://fedlex.data.admin.ch/eli/oc/2004/409), [1795](https://fedlex.data.admin.ch/eli/oc/2004/215); [2006 4269](https://fedlex.data.admin.ch/eli/oc/2006/650); [2008 4871](https://fedlex.data.admin.ch/eli/oc/2008/681); [2009 4291](https://fedlex.data.admin.ch/eli/oc/2009/527)appendice n. 2, [6667](https://fedlex.data.admin.ch/eli/oc/2009/824)all. 36 n. 2; [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752)n. I 4.[3](https://fedlex.data.admin.ch/eli/oc/2011/2); [2014 771](https://fedlex.data.admin.ch/eli/oc/2014/170)art. 11]
+[^122-1]: [[RU 1996 340](https://fedlex.data.admin.ch/eli/oc/1996/340_340_340), [2752](https://fedlex.data.admin.ch/eli/oc/1996/2752_2752_2752); [1997 2622](https://fedlex.data.admin.ch/eli/oc/1997/2622_2622_2622), [2779](https://fedlex.data.admin.ch/eli/oc/1997/2779_2779_2779)cifra II n. 26; [1999 878](https://fedlex.data.admin.ch/eli/oc/1999/125), [3532](https://fedlex.data.admin.ch/eli/oc/1999/498); [2000 2976](https://fedlex.data.admin.ch/eli/oc/2000/535); [2001 2706](https://fedlex.data.admin.ch/eli/oc/2001/402); [2002 4201](https://fedlex.data.admin.ch/eli/oc/2002/678); [2003 4007](https://fedlex.data.admin.ch/eli/oc/2003/583), [5097](https://fedlex.data.admin.ch/eli/oc/2003/752); [2004 1795](https://fedlex.data.admin.ch/eli/oc/2004/215), [3197](https://fedlex.data.admin.ch/eli/oc/2004/409); [2006 4269](https://fedlex.data.admin.ch/eli/oc/2006/650); [2008 4871](https://fedlex.data.admin.ch/eli/oc/2008/681); [2009 4291](https://fedlex.data.admin.ch/eli/oc/2009/527)appendice n. 2, [6667](https://fedlex.data.admin.ch/eli/oc/2009/824)all. 36 n. 2; [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752)cifra I n. 4.[3](https://fedlex.data.admin.ch/eli/oc/2011/2); [2014 771](https://fedlex.data.admin.ch/eli/oc/2014/170)art. 11]
 [^122-2]: [[RU 1996 388](https://fedlex.data.admin.ch/eli/oc/1996/388_388_388); [1997 2623](https://fedlex.data.admin.ch/eli/oc/1997/2623_2623_2623); [1999 882](https://fedlex.data.admin.ch/eli/oc/1999/126); [2000 67](https://fedlex.data.admin.ch/eli/oc/2000/14), [2978](https://fedlex.data.admin.ch/eli/oc/2000/536); [2001 2708](https://fedlex.data.admin.ch/eli/oc/2001/403); [2002 4203](https://fedlex.data.admin.ch/eli/oc/2002/679); [2003 4059](https://fedlex.data.admin.ch/eli/oc/2003/596); [2004 3515](https://fedlex.data.admin.ch/eli/oc/2004/469), [5295](https://fedlex.data.admin.ch/eli/oc/2004/815); [2009 5557](https://fedlex.data.admin.ch/eli/oc/2009/674); [2010 4923](https://fedlex.data.admin.ch/eli/oc/2010/689); [2011 5015](https://fedlex.data.admin.ch/eli/oc/2011/733); [2014 775](https://fedlex.data.admin.ch/eli/oc/2014/171)art. 47]
 
 #### Art. 123
@@ -1268,97 +1447,89 @@ Allegato[^t-1]
 
 ## Indennità per l’uso di locali e piazze
 
-[^t-1]: Aggiornato dal n. II delle O del 25 nov. 2020 ([RU 2020 6009](https://fedlex.data.admin.ch/eli/oc/2020/1002)) e del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 769](https://fedlex.data.admin.ch/eli/oc/2022/769)).
+[^t-1]: Nuovo testo giusta la cifra II dell’O del 1° apr. 2026, in vigore dal 1° giu. 2026 ([RU 2026 171](https://fedlex.data.admin.ch/eli/oc/2026/171)).
 
 <table>
-<tr><th></th><th>Per persona e giorno</th><th>Locali in</th><th></th></tr>
-<tr><th></th><th></th><th>accantonamenti della truppa fr.</th><th>impianti / locali della protezione civile fr.</th></tr>
-<tr><td>**1.** **Accantonamenti**</td><td></td><td></td><td></td></tr>
-<tr><td>1.1 *Indennità forfettarie*</td><td></td><td></td><td></td></tr>
-<tr><td>Queste indennità comprendono tutte le prestazioni secondo il numero 1.2. Se non sono fornite tutte le prestazioni, l’indennità va proporzionalmente ridotta.</td><td>×</td><td>8.10</td><td>4.20</td></tr>
-<tr><td>1.2 *Prestazioni singole*</td><td></td><td></td><td></td></tr>
-<tr><td>Per le persone che alloggiano in camere possono essere pagate soltanto le indennità secondo i numeri 1.2.3, 1.2.4 e 1.2.5.</td><td>×</td><td></td><td></td></tr>
-<tr><td>1.2.1 Locale di accantonamento (compresi lettiere, materassi, cuscini, federe di cuscini, installazioni, elettricità per l’illuminazione e per piccoli apparecchi, gabinetti, carta igienica, lavabi, acqua, materiale di pulizia, depurazione delle acque)</td><td>×</td><td>4.30</td><td>1.60</td></tr>
-<tr><td>1.2.2 Docce (compresi elettricità per l’illuminazione e per piccoli apparecchi, acqua, spese per la preparazione dell’acqua calda, materiale di pulizia, depurazione delle acque)</td><td>×</td><td>–.80</td><td>–.80</td></tr>
-<tr><td>1.2.3 Refettorio (compresi mobilio, elettricità per l’illuminazione e per piccoli apparecchi, gabinetti, carta igienica, lavabi, acqua, materiale di pulizia, depurazione delle acque)</td><td>×</td><td>1.70</td><td>–.80</td></tr>
-<tr><td>1.2.4 Stoviglie</td><td>×</td><td>–.10</td><td>–.10</td></tr>
-<tr><td>1.2.5 Cucina (compresi apparecchi di cucina, altri equipaggiamenti nonché apparecchi, elettricità per l’illuminazione e per piccoli apparecchi, acqua, depurazione delle acque)</td><td>×</td><td>1.20</td><td>–.90</td></tr>
-<tr><td>1.3 *Prestazioni speciali*</td><td></td><td></td><td></td></tr>
-<tr><td>1.3.1 Accantonamento d’emergenza (soltanto il locale di accantonamento)</td><td>×</td><td>2.10</td><td></td></tr>
-<tr><td>1.3.2 Accantonamenti per quadri superiori, se l’alloggio in camere non è possibile (comprese le prestazioni secondo i n. 1.2.1–1.2.5, letti con biancheria; la biancheria è lavata a spese della cassa di servizio)</td><td>×</td><td>10.60</td><td>6.70</td></tr>
-<tr><td>1.3.3 Materassi</td><td>×</td><td>–.50</td><td>–.30</td></tr>
-<tr><td>1.3.4 Lettiere con materassi</td><td>×</td><td>1.50</td><td>–.80</td></tr>
-<tr><td>1.4 *Cucine*</td><td></td><td>per giorno</td><td>per giorno</td></tr>
-<tr><td>1.4.1 Utilizzo per piccole cucine (compresi cucina con forno, altri apparecchi e utensili, combustibile e illuminazione)</td><td></td><td>40.—</td><td>40.—</td></tr>
-<tr><td>1.4.2 Utilizzo per riscaldare i viveri</td><td></td><td>20.—</td><td>20.—</td></tr>
-<tr><td colspan="4">1.5 *Supplemento per acquartieramenti di breve durata*</td></tr>
-<tr><td colspan="4">Tutte le indennità secondo i numeri 1.1–1.4 sono aumentate del 25 per cento quando l’acquartieramento dura sino a tre giorni.</td></tr>
-<tr><td colspan="4">1.6 *Bagni all’aperto*</td></tr>
-<tr><td colspan="4">1.6.1 Per l’utilizzo di bagni all’aperto e di piscine coperte per i quali è domandato un prezzo d’entrata, i costi vanno a carico della cassa di servizio. Si possono conteggiare i prezzi d’entrata usuali fino a un importo massimo di 7 franchi.</td></tr>
-<tr><td colspan="4">1.6.2 L’indennità può essere versata una sola volta per mese civile. La BLEs decide in merito alle eccezioni.</td></tr>
-<tr><td colspan="4">1.7 *Riscaldamento*</td></tr>
-<tr><td colspan="4">1.7.1 Se gli impianti di riscaldamento sono muniti di dispositivi di misurazione, le spese energetiche effettive sono pagate al prezzo di mercato locale usuale e sono addebitate alla cassa di servizio.</td></tr>
-<tr><td colspan="4">1.7.2 Se le spese energetiche effettive non possono essere determinate, le indennità di riscaldamento si fondano sui numeri 3.1 e 3.2.</td></tr>
-<tr><td colspan="4">1.8 *Eliminazione dei rifiuti*</td></tr>
-<tr><td colspan="4">1.8.1 Se viene prelevata una tassa comunale per l’eliminazione dei rifiuti (tassa sul contenitore, sul sacco, a peso ecc.), le spese effettive per l’eliminazione dei rifiuti possono essere pagate secondo la tariffa locale usuale e addebitate alla cassa di servizio.</td></tr>
-<tr><td colspan="4">1.8.2 Se le spese effettive per l’eliminazione dei rifiuti non possono essere determinate, possono essere pagati, per persona e giorno, 10 centesimi per i rifiuti domestici e 10 centesimi per i rifiuti di cucina, a carico della cassa di servizio.</td></tr>
+<tr><th></th><th></th><th>Fr.</th></tr>
+<tr><td>1. Accantonamenti</td><td></td><td></td></tr>
+<tr><td>1.1 Indennità forfettaria per superfici utili principali in alloggi della truppa. Sono inclusi il locale di accantonamento, le docce, la cucina e il refettorio con le stoviglie.</td><td>ogni m<sup>2</sup></td><td>0.85</td></tr>
+<tr><td>1.2 *Alloggio d’emergenza* [tab] (soltanto il locale d’alloggio) (l’indennità è aumentata del 25 % se l’acquartieramento dura fino a tre giorni).</td><td>ogni mil</td><td>2.10</td></tr>
+<tr><td>1.3 Indennità per i lavori preparatori e successivi negli impianti (esplorazione, messa in funzione, degli impianti, lavaggio degli impianti sanitari, supporto nella presa in consegna dell’alloggio, presa in consegna/riconsegna dell’alloggio, servizio di lavanderia, pulizia materassi). Questa indennità viene versata forfettariamente ogni 30 giorni di occupazione.</td><td>fino a 499 m<sup>2</sup></td><td>1381.–</td></tr>
+<tr><td></td><td>da 500 a 999 m<sup>2</sup></td><td>2072.–</td></tr>
+<tr><td></td><td>da 1000 a 1499 m<sup>2</sup></td><td>2763.–</td></tr>
+<tr><td></td><td>da 1500 m<sup>2</sup></td><td>3453.–</td></tr>
+<tr><td>1.4 Indennità per l’assistenza ai quartiermastri durante l’occupazione da parte dell’esercito compreso il servizio di picchetto. Questa indennità viene versata per ogni giorno d’occupazione.</td><td>fino a 499 m<sup>2</sup></td><td>21.25</td></tr>
+<tr><td></td><td>da 500 a 999 m<sup>2</sup></td><td>31.88</td></tr>
+<tr><td></td><td>da 1000 a 1499 m<sup>2</sup></td><td>42.50</td></tr>
+<tr><td></td><td>da 1500 m<sup>2</sup></td><td>53.13</td></tr>
+<tr><td>1.5 Indennità per materiale di consumo, che comprende sapone, carta igienica/asciugamani di carta, prodotti di pulizia. Questa indennità viene versata in forma forfettaria ogni 30 giorni di occupazione.</td><td>fino a 499 m<sup>2</sup></td><td>250.–</td></tr>
+<tr><td></td><td>da 500 a 999 m<sup>2</sup></td><td>375.–</td></tr>
+<tr><td></td><td>da 1000 a 1499 m<sup>2</sup></td><td>500.–</td></tr>
+<tr><td></td><td>da 1500 m<sup>2</sup></td><td>625.–</td></tr>
 </table>
 
 <table>
-<tr><th></th><th>Per persona e notte</th><th>Camere in</th><th colspan="4"></th></tr>
-<tr><th></th><th></th><th>hotel e trattorie fr.</th><th colspan="4">edifici pubblici e privati fr.</th></tr>
-<tr><td>**2.** **Camere**</td><td colspan="4">Prezzi delle camere (riscaldamento compreso) secondo le tariffe locali in uso, ma al massimo fr.:</td><td></td><td></td></tr>
-<tr><td>Manutenzione delle camere e dell’equipaggiamento personale da parte della truppa (vedi art. 68 e 81)</td><td></td><td></td><td colspan="4"></td></tr>
-<tr><td>2.1 Singoli militari donne, quadri superiori se alloggiano in camere</td><td></td><td>100.—</td><td colspan="4"></td></tr>
-<tr><td>2.2 Sottufficiali e militari di truppa, se le condizioni di servizio permettono l’utilizzo di camere.</td><td></td><td>50.–</td><td colspan="4"></td></tr>
-<tr><td></td><td colspan="3">Le indennità summenzionate sono aumentate del 25 % quando la camera è occupata sino a quattro notti</td><td colspan="2"></td><td></td></tr>
+<tr><td>1.6 *Piscine all’aperto e piscine coperte*</td></tr>
+<tr><td>1.6.1 Per l’utilizzo di piscine all’aperto e di piscine coperte per le quali è richiesto un prezzo d’entrata, i costi sono a carico della cassa di servizio. Sono conteggiati i prezzi d’entrata usuali fino a un importo massimo di 7 franchi.</td></tr>
+<tr><td>1.6.2 L’indennità può essere versata una sola volta per ogni mese civile. La BLEs decide in merito alle eccezioni.</td></tr>
+<tr><td>1.7 *Riscaldamento*</td></tr>
+<tr><td>1.7.1 Se gli impianti di riscaldamento sono muniti di dispositivi di misurazione, le spese energetiche effettive sono pagate al prezzo di mercato locale usuale e sono addebitate alla cassa di servizio.</td></tr>
+<tr><td>1.7.2 Se le spese energetiche effettive non possono essere determinate, le indennità di riscaldamento si basano sul numero 3.1.</td></tr>
+<tr><td>1.8 *Smaltimento dei rifiuti*</td></tr>
+<tr><td>Se viene prelevata una tassa comunale per lo smaltimento dei rifiuti (tassa sul contenitore, sul sacco, sul peso ecc.), le spese effettive per lo smaltimento dei rifiuti sono pagate secondo la tariffa locale usuale e addebitate alla cassa di servizio.</td></tr>
+<tr><td>1.9 In caso di disdetta a breve termine inferiore a due settimane nei confronti dei fornitori di alloggi dell’esercito, la Base logistica dell’esercito può versare ai fornitori di prestazioni un importo forfettario massimo di 1000 franchi a titolo di indennità per le spese sostenute fino a quel momento.</td></tr>
 </table>
 
 <table>
-<tr><th></th><th>Per</th><th>Locali in</th><th></th><th>Riscaldamento soltanto per i giorni di riscaldamento effettivi</th></tr>
-<tr><th></th><th></th><th>hotel e trattorie fr.</th><th>edifici pubblici e privati fr.</th><th>fr.</th></tr>
-<tr><td>**3.** **Uffici, locali postali, sale di consultazione e infermerie,** **locali** **di lavoro, sale di teoria** compresi l’illuminazione e l’arredamento</td><td></td><td></td><td></td><td></td></tr>
-<tr><td>3.1 Locale fino a 30 m<sup>2</sup></td><td>giorno</td><td>15.—</td><td>11.—</td><td>2.50</td></tr>
-<tr><td>3.2 Supplemento per locali più grandi</td><td>ogni 10 m<sup>2</sup> o frazione in più / giorno</td><td>3.—</td><td>3.—</td><td>–.50</td></tr>
-<tr><td>3.3 Arredamenti speciali per le sale di consultazione e le infermerie:</td><td></td><td></td><td></td><td></td></tr>
-<tr><td>a. letti con materassi e biancheria;</td><td>giorno</td><td>2.50</td><td>2.50</td><td></td></tr>
-<tr><td>b. letti con materassi senza biancheria;</td><td>giorno</td><td>1.50</td><td>1.50</td><td></td></tr>
-<tr><td>c. materassi con biancheria da letto</td><td>giorno</td><td>1.50</td><td>1.50</td><td></td></tr>
-<tr><td>La biancheria è lavata a carico della cassa di servizio</td><td></td><td></td><td></td><td></td></tr>
-<tr><td>**4.** **Locali per rapporti** (utilizzo saltuario) compresa l’illuminazione</td><td></td><td></td><td></td><td></td></tr>
-<tr><td>4.1. Locale fino a 30 m<sup>2</sup></td><td>giorno effettivo d’utilizzo</td><td>15.—</td><td>11.—</td><td>2.50</td></tr>
-<tr><td>4.2. Supplemento per locali più grandi</td><td>ogni 10 m<sup>2</sup> o frazione in più / giorno effettivo d’utilizzo</td><td>3.—</td><td>3.—</td><td>–.50</td></tr>
-<tr><td>**5.** **Magazzini** compresa l’illuminazione</td><td></td><td></td><td></td><td></td></tr>
-<tr><td>5.1 Locale fino a 30 m<sup>2</sup></td><td></td><td></td><td></td><td></td></tr>
-<tr><td>5.1.1 Raum bis 30 m<sup>2</sup></td><td>giorno</td><td>3.—</td><td>3.—</td><td></td></tr>
-<tr><td>5.1.2 Supplemento per locali più grandi</td><td>ogni 10 m<sup>2</sup> o frazione in più / giorno</td><td>1.—</td><td>1.—</td><td></td></tr>
-<tr><td>5.2 Magazzini provvisti di binari di raccordo alla rete ferroviaria, rampe di carico, montacarichi e altri impianti</td><td></td><td></td><td></td><td></td></tr>
-<tr><td>5.2.1 Locale fino a 30 m<sup>2</sup></td><td></td><td>5.—</td><td>5.—</td><td></td></tr>
-<tr><td>5.2.2 Supplemento per locali più grandi</td><td>ogni 10 m<sup>2</sup> o frazione in più / giorno</td><td>1.—</td><td>1.—</td><td></td></tr>
-<tr><td>**6.** **Stalle**</td><td></td><td></td><td></td><td></td></tr>
-<tr><td>6.1 *Indennità forfettaria* Questa indennità comprende tutte le prestazioni secondo il numero 6.2. Se non sono fornite tutte le prestazioni, l’indennità va proporzionalmente ridotta.</td><td>cavallo o mulo e giorno</td><td>3.—</td><td></td><td></td></tr>
-<tr><td>6.2 *Prestazioni singole*</td><td></td><td></td><td></td><td></td></tr>
-<tr><td>6.2.1 Stalle</td><td>cavallo o mulo e giorno</td><td>2.10</td><td></td><td></td></tr>
-<tr><td>6.2.2 Illuminazione</td><td>cavallo o mulo e giorno</td><td>–.30</td><td></td><td></td></tr>
-<tr><td>6.2.3 Impianti delle stalle</td><td>cavallo o mulo e giorno</td><td>–.60</td><td></td><td></td></tr>
+<tr><th></th><th>A persona e a notte</th><th colspan="2">Camere in</th></tr>
+<tr><th></th><th></th><th>hotel e locande fr.</th><th>edifici pubblici e privati fr.</th></tr>
+<tr><td>2. Camere</td><td colspan="3">Prezzi delle camere (riscaldamento compreso) secondo le tariffe locali in uso, ma al massimo fr.</td></tr>
+<tr><td>Manutenzione delle camere e dell’equipaggiamento personale da parte della truppa (v. art. 68 e 81)</td><td></td><td></td><td></td></tr>
+<tr><td>2.1 Singoli militari donne, quadri superiori se alloggiano in camere</td><td></td><td>100.–</td><td></td></tr>
+<tr><td>2.2 Sottufficiali e militari di truppa, se le condizioni di servizio permettono l’utilizzo di camere</td><td></td><td>50.–</td><td></td></tr>
+<tr><td></td><td colspan="3">Le indennità summenzionate aumentano del 25 per cento se la camera è occupata per non più di quattro notti</td></tr>
 </table>
 
 <table>
-<tr><th></th><th>Per</th><th>Locali in</th><th></th><th colspan="4">Riscaldamento soltanto per i giorni di riscaldamento effettivi</th></tr>
-<tr><th></th><th></th><th>hotel e trattorie fr.</th><th>edifici pubblici e privati fr.</th><th colspan="4">fr.</th></tr>
-<tr><td>**7.** **Officine** compresi l’illuminazione e il riscaldamento</td><td></td><td></td><td></td><td colspan="4"></td></tr>
-<tr><td>7.1 Officine attrezzate ed equipaggiate utilizzate da artigiani di truppa</td><td colspan="4">per ogni posto di lavoro effettivo e giorno effettivo d’utilizzo 12 franchi</td><td></td><td></td><td></td></tr>
-<tr><td>7.2 Utilizzo di macchine e attrezzi</td><td colspan="4">secondo le tariffe locali in uso</td><td></td><td></td><td></td></tr>
-<tr><td>7.3 Consumo di energia elettrica</td><td colspan="4">secondo le tariffe locali in uso</td><td></td><td></td><td></td></tr>
+<tr><th></th><th>Per ogni</th><th>Locali in fr.</th><th>Riscaldamento soltanto per i giorni di riscaldamento effettivi fr.</th></tr>
+<tr><td>3. Uffici, locali postali, ambulatori e infermerie, locali di lavoro, sale di teoria [tab] compresi l’illuminazione e l’arredamento</td><td></td><td></td><td></td></tr>
+<tr><td>3.1 Locale</td><td>m<sup>2</sup> e giorno</td><td>0.75</td><td>14.80</td></tr>
+<tr><td>4. Locali per rapporti [tab] (utilizzo occasionale) compresa l’illuminazione</td><td></td><td></td><td></td></tr>
+<tr><td>4.1. Locale</td><td>m<sup>2</sup> e giorno</td><td>0.75</td><td>14.80</td></tr>
+<tr><td>5. Depositi [tab] compresa l’illuminazione</td><td></td><td></td><td></td></tr>
+<tr><td>5.1 Depositi generali</td><td></td><td></td><td></td></tr>
+<tr><td>5.1.1 Locale</td><td>m<sup>2</sup> e giorno</td><td>0.35</td><td></td></tr>
+<tr><td>6. Stalle</td><td></td><td></td><td></td></tr>
+<tr><td>6.1 *Indennità* *forfettaria* [tab] Comprende tutte le prestazioni secondo il numero 6.2. Se non sono fornite tutte le prestazioni, l’indennità va proporzionalmente ridotta.</td><td>cavallo o mulo e giorno</td><td>8.–</td><td></td></tr>
+<tr><td>6.2 *Prestazioni* *singole*</td><td></td><td></td><td></td></tr>
+<tr><td>6.2.1 Stalle</td><td>cavallo o mulo e giorno</td><td>7.–</td><td></td></tr>
+<tr><td>6.2.2 Illuminazione</td><td>cavallo o mulo e giorno</td><td>0.30</td><td></td></tr>
+<tr><td>6.2.3 Impianti delle stalle</td><td>cavallo o mulo e giorno</td><td>0.60</td><td></td></tr>
+<tr><td>6.2.4 Acqua</td><td>cavallo o mulo e giorno</td><td>0.10</td><td></td></tr>
+<tr><td>7. Officine [tab] compresi l’illuminazione e il riscaldamento</td><td></td><td></td><td></td></tr>
+<tr><td>7.1 Officine attrezzate ed equipaggiate ad uso degli artigiani di truppa</td><td colspan="3">effettivo posto di lavoro e giorno effettivo di utilizzo 12 franchi</td></tr>
+<tr><td>7.2 Utilizzo di macchine e attrezzi</td><td colspan="3">secondo le tariffe locali</td></tr>
+<tr><td>7.3 Consumo di energia elettrica</td><td colspan="3">secondo le tariffe locali</td></tr>
 </table>
 
 <table>
-<tr><th></th><th>Per</th><th>Motociclette, rimorchi dei veicoli fuoristrada fr.</th><th>Veicoli a motore fino a 3,5 t di peso totale fr.</th><th colspan="2">Veicoli a motore di oltre 3,5 t di peso totale fr.</th></tr>
-<tr><td>**8.** **Garage e aree di stazionamento per veicoli a motore** (se è necessario mettere i veicoli al riparo)</td><td></td><td></td><td></td><td colspan="2"></td></tr>
-<tr><td>8.1 Garage (compresi illuminazione, riscaldamento e consumo d’acqua)</td><td></td><td></td><td></td><td colspan="2"></td></tr>
-<tr><td>– durante le prime 10 notti</td><td>veicolo e notte</td><td>1.50</td><td>5.—</td><td colspan="2">7.50</td></tr>
-<tr><td>– dall’11<sup>a</sup> notte</td><td>veicolo e notte</td><td>–.75</td><td>2.50</td><td colspan="2">3.75</td></tr>
-<tr><td>8.2 Area di stazionamento</td><td colspan="4">giorno</td></tr>
-<tr><td>– fino a 1500 m<sup>2</sup></td><td colspan="4">Fr. 50.–</td></tr>
-<tr><td>– da 1501 m<sup>2</sup></td><td colspan="4">Fr. 80.–</td></tr>
+<tr><th></th><th>Per ogni</th><th>Motociclette e rimorchi delle autovetture fuoristrada fr.</th><th>Veicoli a motore fino a 3,5 t di peso totale fr.</th><th>Veicoli a motore di oltre 3,5 t di peso totale fr.</th></tr>
+<tr><td>8. Garage e aree di parcheggio per veicoli a motore [tab] (se è necessario mettere i veicoli al riparo)</td><td></td><td></td><td></td><td></td></tr>
+<tr><td>8.1 Garage (compresi illuminazione, riscaldamento e consumo d’acqua)</td><td></td><td></td><td></td><td></td></tr>
+<tr><td>– per le prime 10 notti</td><td>veicolo e notte</td><td>1.50</td><td>5.–</td><td>7.50</td></tr>
+<tr><td>– a partire dall’11° giorno</td><td>veicolo e notte</td><td>0.75</td><td>2.50</td><td>3.75</td></tr>
+<tr><td>8.2 Area di parcheggio</td><td colspan="4">giorno</td></tr>
+<tr><td>– fino a 499 m<sup>2</sup></td><td colspan="4">fr. 20.–</td></tr>
+<tr><td>– da 500 a 999 m<sup>2</sup></td><td colspan="4">fr. 50.–</td></tr>
+<tr><td>– da 1000 a 1499 m<sup>2</sup></td><td colspan="4">fr. 80.–</td></tr>
+<tr><td>– oltre 1500 m<sup>2</sup></td><td colspan="4">fr. 110.–</td></tr>
+</table>
+
+<table>
+<tr><th></th><th>Al giorno</th></tr>
+<tr><td>9. Aree per le sequenze d’istruzione militare</td><td></td></tr>
+<tr><td>– fino a 499 m<sup>2</sup></td><td>fr. 30.–</td></tr>
+<tr><td>– da 500 a 999 m<sup>2</sup></td><td>fr. 60.–</td></tr>
+<tr><td>– da 1000 a 1499 m<sup>2</sup></td><td>fr. 90.–</td></tr>
+<tr><td>– oltre 1500 m<sup>2</sup></td><td>fr. 120.–</td></tr>
 </table>

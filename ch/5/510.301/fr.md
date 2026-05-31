@@ -4,11 +4,11 @@ title: "Ordonnance du 21 février 2018 sur l'administration de l'armée (OAA)"
 short: OAA
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/161"
 language: fr
-version: 2023-01-01
+version: 2026-06-01
 adopted: 2018-02-21
 in_force: 2018-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/161/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2018-161-20230101-fr-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/161/20230101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/161/20260601/fr/xml/fedlex-data-admin-ch-eli-cc-2018-161-20260601-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/161/20260601/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,16 +17,16 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/161/20230101/fr"
 
 (OAA)
 
-du 21 février 2018 (État le 1<sup>er</sup> janvier 2023)
+du 21 février 2018 (État le 1<sup>er</sup> juin 2026)
 
 Le Conseil fédéral suisse,
 
-vu les art. 142, al. 3, et 150, al. 1, de la loi du 3 février 1995 sur l’armée (LAAM)[^ingress-1], vu l’art. 167, al. 3, de l’ordonnance de l’Assemblée fédérale du 30 mars 1949 concernant l’administration de l’armée[^ingress-2],
+vu les art. 29*a*, al. 5, 29*e*, al. 2, 142, al. 3, 148*j*, al. 2, et 150, al. 1, de la loi du 3 février 1995 sur l’armée (LAAM)[^ingress-1],[^ingress-2]
 
 arrête:
 
 [^ingress-1]: [RS 510.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7242)
-[^ingress-2]: [RS 510.30](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7286)
+[^ingress-2]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> avr. 2026, en vigueur depuis le 1<sup>er</sup> juin 2026 ([RO 2026 171](https://fedlex.data.admin.ch/eli/oc/2026/171)).
 
 ## Chapitre 1 Objet
 
@@ -57,9 +57,13 @@ Les personnes responsables de la comptabilité de la troupe et du service techni
 - c. le fourrier;
 - d. le comptable de la troupe.
 
+<sup>1bis</sup> Elles dirigent et exécutent le service du commissariat des états-majors et des unités de l’armée ainsi que des écoles et des cours.[^3-1]
+
 <sup>2</sup> Les membres du personnel fédéral peuvent exercer la fonction de comptable dans leurs activités professionnelles.
 
 <sup>3</sup> Dans les cas particuliers, la BLA désigne le comptable.
+
+[^3-1]: Introduit par le ch. I de l’O du 1<sup>er</sup> avr. 2026, en vigueur depuis le 1<sup>er</sup> juin 2026 ([RO 2026 171](https://fedlex.data.admin.ch/eli/oc/2026/171)).
 
 #### Art. 4
 
@@ -68,6 +72,14 @@ Les personnes responsables de la comptabilité de la troupe et du service techni
 <sup>1</sup> En cas de changement de comptable, les affaires en cours, les comptes, les caisses et les marchandises sont transmis en bonne et due forme. Cette opération fait l’objet d’un procès-verbal dont l’exactitude doit être certifiée par le comptable sortant et le comptable entrant. Le commandant en prend connaissance et le contresigne. Le procès-verbal est joint à la comptabilité.
 
 <sup>2</sup> Le comptable sortant reste entièrement responsable des actes de service dont il est l’auteur et peut être tenu d’apporter son concours aux affaires en suspens.
+
+#### Art. 4a
+
+**Surveillance du service du commissariat**[^4a-1]
+
+Les commandants surveillent le service du commissariat de leurs troupes.
+
+[^4a-1]: Introduit par le ch. I de l’O du 1<sup>er</sup> avr. 2026, en vigueur depuis le 1<sup>er</sup> juin 2026 ([RO 2026 171](https://fedlex.data.admin.ch/eli/oc/2026/171)).
 
 #### Art. 5
 
@@ -82,6 +94,10 @@ Les organes de contrôle de la comptabilité de la troupe, classés selon le deg
 - c. le quartier-maître.
 
 <sup>2</sup> Le chef de la BLA peut ordonner des contrôles dans toute l’armée.
+
+<sup>3</sup> Les commandants des Grandes Unités et des corps de troupe veillent à ce que les chefs du service du commissariat et les quartiers-maîtres effectuent leurs tâches de contrôle.[^5-1]
+
+[^5-1]: Introduit par le ch. I de l’O du 1<sup>er</sup> avr. 2026, en vigueur depuis le 1<sup>er</sup> juin 2026 ([RO 2026 171](https://fedlex.data.admin.ch/eli/oc/2026/171)).
 
 #### Art. 6
 
@@ -105,11 +121,35 @@ Les organes de contrôle de la comptabilité de la troupe, classés selon le deg
 
 <sup>2</sup> La Formation d’application de la logistique établit les supports didactiques.
 
+#### Art. 7a
+
+**Position et tâches des comptables**[^7a-1]
+
+<sup>1</sup> Les unités et les états-majors sont administrativement indépendants.
+
+<sup>2</sup> Le comptable tient la comptabilité de la troupe selon le principe de l’emploi ménager des fonds. Il veille à ce que les dépenses inutiles soient évitées.
+
+[^7a-1]: Introduit par le ch. I de l’O du 1<sup>er</sup> avr. 2026, en vigueur depuis le 1<sup>er</sup> juin 2026 ([RO 2026 171](https://fedlex.data.admin.ch/eli/oc/2026/171)).
+
 #### Art. 8
 
 **Pièces comptables**
 
 Les dépenses et les recettes de toutes les caisses doivent être justifiées par des formulaires et des factures originales.
+
+#### Art. 8a
+
+**Inventaire**[^8a-1]
+
+<sup>1</sup> Tous les objets de valeur durable acquis par la troupe (objets d’inventaire) figurent dans un inventaire.
+
+<sup>2</sup> Les commandants de troupe s’assurent que les inventaires sont tenus et contrôlés de façon exhaustive.
+
+<sup>3</sup> Les chefs du service du commissariat et les quartiers-maîtres vérifient les inventaires lors des révisions de la comptabilité prescrites.
+
+<sup>4</sup> La BLA exerce la haute surveillance sur la tenue des inventaires.
+
+[^8a-1]: Introduit par le ch. I de l’O du 1<sup>er</sup> avr. 2026, en vigueur depuis le 1<sup>er</sup> juin 2026 ([RO 2026 171](https://fedlex.data.admin.ch/eli/oc/2026/171)).
 
 #### Art. 9
 
@@ -147,9 +187,12 @@ Lorsqu’il n’est pas possible de tenir une comptabilité militaire conformém
 
 <sup>1</sup> Lorsque le commandant entend engager une dépense non prévue, il adresse une demande de crédit à la BLA par la voie hiérarchique.
 
-<sup>2</sup> La BLA statue sur les demandes de crédit ne dépassant pas 50 000 francs; le Groupement Défense statue sur les demandes dépassant ce montant.
+<sup>2</sup> La BLA statue sur la demande de crédit.[^12-1]
 
-<sup>3</sup> La BLA tient le contrôle des demandes et règle leur mise en compte.
+<sup>3</sup> Elle tient le contrôle des demandes et règle leur mise en compte.[^12-2]
+
+[^12-1]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> avr. 2026, en vigueur depuis le 1<sup>er</sup> juin 2026 ([RO 2026 171](https://fedlex.data.admin.ch/eli/oc/2026/171)).
+[^12-2]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> avr. 2026, en vigueur depuis le 1<sup>er</sup> juin 2026 ([RO 2026 171](https://fedlex.data.admin.ch/eli/oc/2026/171)).
 
 ### Section 3 Caisses
 
@@ -201,13 +244,9 @@ Une caisse de dépôt est tenue lorsque les militaires d’une formation désire
 
 #### Art. 19
 
-**Caisse de kiosque**
+[^19-1]
 
-<sup>1</sup> Les caisses de kiosque peuvent être tenues uniquement dans les places d’armes.
-
-<sup>2</sup> Leur ouverture nécessite l’accord de la BLA.
-
-<sup>3</sup> La BLA fixe la marge bénéficiaire et règle l’utilisation des recettes.
+[^19-1]: Abrogé par le ch. I de l’O du 1<sup>er</sup> avr. 2026, avec effet au 1<sup>er</sup> juin 2026 ([RO 2026 171](https://fedlex.data.admin.ch/eli/oc/2026/171)).
 
 #### Art. 20
 
@@ -217,9 +256,11 @@ Une formation peut tenir une caisse d’association, même en dehors du service.
 
 #### Art. 21
 
-**Obligation d’annoncer l’ouverture d’une caisse de sponsors, de kiosque ou d’association**
+**Obligation d’annoncer l’ouverture d’une caisse de sponsors ou d’association**[^21-1]
 
-Les comptables veillent à informer la BLA, par la voie hiérarchique, de l’ouverture d’une caisse de sponsors, de kiosque ou d’association.
+Les comptables veillent à ce que la BLA soit informée, par la voie hiérarchique, de l’ouverture d’une caisse de sponsors ou d’association.
+
+[^21-1]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> avr. 2026, en vigueur depuis le 1<sup>er</sup> juin 2026 ([RO 2026 171](https://fedlex.data.admin.ch/eli/oc/2026/171)).
 
 ### Section 4 Paiements
 
@@ -273,9 +314,23 @@ Les comptables veillent à informer la BLA, par la voie hiérarchique, de l’ou
 
 #### Art. 27
 
-**Conservation des documents comptables**
+**Conservation des documents comptables**[^27-1]
 
-Les comptables conservent pendant cinq ans les documents comptables des formations, des écoles et des cours.
+La BLA et les comptables conservent pendant cinq ans tous les documents comptables de la troupe concernant les formations, les écoles et les cours. La BLA conserve les originaux.
+
+[^27-1]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> avr. 2026, en vigueur depuis le 1<sup>er</sup> juin 2026 ([RO 2026 171](https://fedlex.data.admin.ch/eli/oc/2026/171)).
+
+#### Art. 27a
+
+**Observations de révision et obligation de renseigner**[^27a-1]
+
+<sup>1</sup> Lorsque des observations de révision de la BLA sont communiquées à la troupe, le comptable doit adresser ses explications par écrit à la BLA dans un délai de deux mois.
+
+<sup>2</sup> Tous les participants sont tenus de fournir les renseignements nécessaires aux clarifications.
+
+<sup>3</sup> La BLA tranche les litiges concernant les prétentions fondées sur des observations de révision.
+
+[^27a-1]: Introduit par le ch. I de l’O du 1<sup>er</sup> avr. 2026, en vigueur depuis le 1<sup>er</sup> juin 2026 ([RO 2026 171](https://fedlex.data.admin.ch/eli/oc/2026/171)).
 
 ## Chapitre 3 Solde
 
@@ -353,15 +408,20 @@ La remise d’un commandement en dehors du service donne droit:
 
 **Supplément de solde**
 
-<sup>1</sup>
+<sup>1</sup> Les officiers subalternes, les aspirants officiers, les sous-officiers, les appointés et les soldats reçoivent un supplément de solde pour les services qui ne sont pas imputés sur la durée des cours de répétition et qui sont exigés pour accéder à un grade supérieur ou obtenir une formation spéciale.[^32-1]
+
+<sup>1bis</sup>
 
 Pendant le service d’instruction de base dans une école, le montant du supplément de solde par jour s’élève au plus:
 
 - a. à 50 francs pour l’obtention d’un grade de sous-officier ou de sous-officier supérieur;
 - b. à 80 francs pour l’obtention du grade de lieutenant;
-- c. à 100 francs pour l’obtention d’un grade de sous-officier supérieur de l’échelon d’un corps de troupe ou du grade de capitaine.
+- c. à 100 francs pour l’obtention d’un grade de sous-officier supérieur de l’échelon d’un corps de troupe ou du grade de capitaine.[^32-2]
 
 <sup>2</sup> Le Groupement Défense fixe le montant des suppléments de solde en tenant compte du grade et de la fonction des militaires, ainsi que de la nature, de la durée et des particularités du service d’instruction de base.
+
+[^32-1]: Introduit par le ch. I de l’O du 1<sup>er</sup> avr. 2026, en vigueur depuis le 1<sup>er</sup> juin 2026 ([RO 2026 171](https://fedlex.data.admin.ch/eli/oc/2026/171)).
+[^32-2]: Anciennement al.1
 
 #### Art. 33
 
@@ -383,7 +443,9 @@ Le personnel militaire au sens de l’art. 47 LAAM et le personnel civil de l’
 
 <sup>1</sup> Les commandants, leur état-major et les cadres qui les accompagnent reçoivent, pour les visites à la troupe, la solde et les indemnités réglementaires. Les officiers des états-majors des Grandes Unités ont les mêmes droits lorsque, sur ordre, ils rendent visite lors de leur cours aux troupes qui leur sont subordonnées, ainsi qu’aux commandants effectuant des reconnaissances avec leurs subordonnés. Font exception les militaires visés à l’art. 34.
 
-<sup>2</sup> Le commandant supérieur certifie l’exactitude des pièces justificatives.
+<sup>2</sup> …[^35-1]
+
+[^35-1]: Abrogé par le ch. I de l’O du 1<sup>er</sup> avr. 2026, avec effet au 1<sup>er</sup> juin 2026 ([RO 2026 171](https://fedlex.data.admin.ch/eli/oc/2026/171)).
 
 #### Art. 36
 
@@ -473,6 +535,18 @@ Les retenues de solde ne peuvent être utilisées que pour couvrir les dépenses
 
 ### Section 1 Subsistance en nature
 
+#### Art. 45a
+
+**Approvisionnement**[^45a-1]
+
+L’approvisionnement en vivres et en fourrages est assuré:
+
+- a. par les soins de la troupe;
+- b. par les magasins des subsistances de l’armée ou d’autres troupes;
+- c. par les soins des militaires.
+
+[^45a-1]: Introduit par le ch. I de l’O du 1<sup>er</sup> avr. 2026, en vigueur depuis le 1<sup>er</sup> juin 2026 ([RO 2026 171](https://fedlex.data.admin.ch/eli/oc/2026/171)).
+
 #### Art. 46
 
 **Crédit de subsistance**
@@ -531,11 +605,13 @@ Pour permettre le renouvellement des réserves de l’armée, la BLA peut ordonn
 
 #### Art. 53
 
-**Ordinaire**
+**Cuisine de la troupe**[^53-1]
 
-<sup>1</sup> La subsistance est préparée dans le cadre de l’ordinaire de la troupe.
+<sup>1</sup> La subsistance est préparée dans les cuisines de la troupe.
 
-<sup>2</sup> En général, chaque formation tient un ordinaire. Les formations où il n’est pas possible ni indiqué de tenir un ordinaire doivent dépendre d’une formation qui en tient un.
+<sup>2</sup> Chaque formation exploite sa propre cuisine. Les formations où il n’est pas possible ni indiqué d’exploiter une cuisine bénéficient de celle d’une autre formation.
+
+[^53-1]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> avr. 2026, en vigueur depuis le 1<sup>er</sup> juin 2026 ([RO 2026 171](https://fedlex.data.admin.ch/eli/oc/2026/171)).
 
 #### Art. 54
 
@@ -547,23 +623,23 @@ Pour permettre le renouvellement des réserves de l’armée, la BLA peut ordonn
 
 #### Art. 55
 
-**Indemnité de service de table**
+[^55-1]
 
-<sup>1</sup> Lorsque les officiers et les sous-officiers supérieurs reçoivent l’ordinaire de la troupe dans les restaurants des places d’armes et de leurs annexes, une indemnité pour le service, les couverts, le linge de table et les petits extras (indemnité de service de table) prélevée sur la caisse de service est versée, pour autant que le versement ait été approuvé par la BLA.
-
-<sup>2</sup> Dans tous les autres cas, la Confédération ne verse aucune indemnité de service de table. Son coût est assumé exclusivement par le militaire.
+[^55-1]: Abrogé par le ch. I de l’O du 1<sup>er</sup> avr. 2026, avec effet au 1<sup>er</sup> juin 2026 ([RO 2026 171](https://fedlex.data.admin.ch/eli/oc/2026/171)).
 
 #### Art. 56
 
-**Remise de la subsistance à des tiers**
+**Remise de la subsistance à des tiers**[^56-1]
 
 <sup>1</sup> Les comptables demandent des indemnités aux tiers auxquels la subsistance de la troupe est remise.
 
-<sup>2</sup> Ils demandent 7 francs par déjeuner et 10 francs par dîner ou souper au personnel fédéral et au personnel cantonal stationnant sur les places d’armes dans la mesure où la possibilité de bénéficier de l’ordinaire de la troupe est dans l’intérêt du service.
+<sup>2</sup> Ils demandent au maximum 10 francs par déjeuner et 20 francs par dîner ou souper au personnel fédéral et au personnel cantonal qui stationne sur les places d’armes dans la mesure où la possibilité de bénéficier de la subsistance de la troupe est dans l’intérêt du service.
 
-<sup>3</sup> Dans tous les autres cas, le commandant demande l’autorisation à la BLA. Celle-ci fixe le montant de l’indemnité au cas par cas.
+<sup>3</sup> La BLA fixe le montant de l’indemnité.
 
-<sup>4</sup> Toutes les recettes provenant de la remise de la subsistance de la troupe à des tiers sont versées à la caisse de service de la formation et portées au crédit de subsistance.
+<sup>4</sup> Toutes les recettes sont comptabilisées dans la caisse de service de la troupe. Les recettes dépassant le crédit de subsistance sont versées à la caisse fédérale.
+
+[^56-1]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> avr. 2026, en vigueur depuis le 1<sup>er</sup> juin 2026 ([RO 2026 171](https://fedlex.data.admin.ch/eli/oc/2026/171)).
 
 #### Art. 57
 
@@ -573,9 +649,9 @@ Les patients qui sont soignés à la troupe, dans les centres médicaux d’une 
 
 #### Art. 58
 
-**Subsistance en nature en dehors de l’ordinaire de la troupe**
+**Subsistance en nature en dehors de la cuisine de la troupe[^58-1]**
 
-<sup>1</sup> Si des formations ne peuvent bénéficier de l’ordinaire d’une troupe, les vivres sont remis à un restaurateur ou à un particulier qui se charge de préparer les repas, moyennant une indemnité.
+<sup>1</sup> Si des formations ne peuvent pas bénéficier de la cuisine de la troupe, les vivres sont remis à un restaurateur ou à un particulier qui se charge de préparer les repas moyennant une indemnité.[^58-2]
 
 <sup>2</sup> L’indemnité payée au restaurateur ou au particulier pour la préparation des vivres, utilisation de la cuisine et combustible compris, est de:
 
@@ -586,6 +662,9 @@ Les patients qui sont soignés à la troupe, dans les centres médicaux d’une 
 </table>
 
 <sup>3</sup> Dans les cas dûment motivés, la BLA peut augmenter les indemnités dans de justes proportions.
+
+[^58-1]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> avr. 2026, en vigueur depuis le 1<sup>er</sup> juin 2026 ([RO 2026 171](https://fedlex.data.admin.ch/eli/oc/2026/171)).
+[^58-2]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> avr. 2026, en vigueur depuis le 1<sup>er</sup> juin 2026 ([RO 2026 171](https://fedlex.data.admin.ch/eli/oc/2026/171)).
 
 ### Section 2 Subsistance en pension
 
@@ -653,9 +732,49 @@ Les subsistances livrées à la troupe sont destinées exclusivement à son usag
 
 #### Art. 65
 
-**Installations de cantonnement**
+**Tâches du commandant de troupe**[^65-1]
 
-Les commandants s’adressent aux autorités communales avant le service pour obtenir les installations de cantonnement qui leur sont indispensables et prendre les mesures nécessaires à la protection des locaux. Les communes se procurent le matériel nécessaire selon les indications des commandants et le tiennent à la disposition de la troupe. Autant que possible, la troupe procède elle-même aux installations.
+<sup>1</sup> Pour s’assurer du cantonnement ou du logement chez l’habitant, les commandants de troupe s’adressent aussitôt que possible aux autorités communales.
+
+<sup>2</sup> Ils veillent à ce que les troupes n’occupent que les locaux dont elles ont réellement besoin.
+
+[^65-1]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> avr. 2026, en vigueur depuis le 1<sup>er</sup> juin 2026 ([RO 2026 171](https://fedlex.data.admin.ch/eli/oc/2026/171)).
+
+#### Art. 65a
+
+**Tâches des autorités communales**[^65a-1]
+
+<sup>1</sup> Les autorités communales se procurent le matériel nécessaire selon les indications des commandants et le tiennent à la disposition de la troupe.
+
+<sup>2</sup> Autant que possible, la troupe procède elle-même aux travaux d’installation.
+
+[^65a-1]: Introduit par le ch. I de l’O du 1<sup>er</sup> avr. 2026, en vigueur depuis le 1<sup>er</sup> juin 2026 ([RO 2026 171](https://fedlex.data.admin.ch/eli/oc/2026/171)).
+
+#### Art. 65b
+
+**Modalités de la prise de possession et de la remise**[^65b-1]
+
+<sup>1</sup> Avant d’occuper et de quitter un cantonnement, la troupe constate l’état des locaux, des installations et des ustensiles avec le propriétaire.
+
+<sup>2</sup> Les défauts et les dommages sont consignés dans un procès-verbal. Celui-ci est signé par le représentant de la troupe et le propriétaire.
+
+<sup>3</sup> En quittant un cantonnement, la troupe rend au propriétaire les places, les locaux et les installations utilisés en bon état; elle demande une attestation.
+
+<sup>4</sup> Les dégâts causés par la troupe sont réglés conformément aux dispositions concernant les dommages aux cultures et à la propriété.
+
+[^65b-1]: Introduit par le ch. I de l’O du 1<sup>er</sup> avr. 2026, en vigueur depuis le 1<sup>er</sup> juin 2026 ([RO 2026 171](https://fedlex.data.admin.ch/eli/oc/2026/171)).
+
+#### Art. 65c
+
+**Cantonnements adéquats et exceptions**[^65c-1]
+
+<sup>1</sup> La troupe est tenue d’accepter les locaux et les installations désignés par les autorités communales s’ils sont adéquats au cantonnement.
+
+<sup>2</sup> Les divergences entre les commandants de troupe et les autorités communales concernant l’adéquation et l’usage des locaux et des installations sont tranchées par le commandant de la division territoriale.
+
+<sup>3</sup> Les lieux à caractère religieux ou culturel, ainsi que les locaux luxueux et les bâtiments qui ne pourraient être occupés qu’au risque de détériorations et de frais excessifs ou d’autres graves inconvénients ne doivent être occupés qu’en cas de nécessité absolue.
+
+[^65c-1]: Introduit par le ch. I de l’O du 1<sup>er</sup> avr. 2026, en vigueur depuis le 1<sup>er</sup> juin 2026 ([RO 2026 171](https://fedlex.data.admin.ch/eli/oc/2026/171)).
 
 #### Art. 66
 
@@ -673,35 +792,59 @@ Si les frais d’installation de cantonnement, de protection des locaux ou de ra
 
 <sup>3</sup> La BLA peut accorder des dérogations.
 
+#### Art. 67a
+
+**Cantonnements des cadres**[^67a-1]
+
+<sup>1</sup> Les officiers, les sous-officiers supérieurs et certains militaires qui ne peuvent pas loger auprès de la troupe pour des raisons de service disposent si possible de chambres avec lits.
+
+<sup>2</sup> Les sergents-chefs, les sergents et les caporaux disposent si possible de leurs propres locaux.
+
+<sup>3</sup> Les militaires qui, en raison du manque de sous-officiers, de sous-officiers supérieurs ou d’officiers, exercent des fonctions normalement dévolues à ceux-ci ont le même droit au cantonnement que les sous-officiers, les sous-officiers supérieurs et les officiers. Ce droit existe uniquement si l’effectif réglementaire selon les prescriptions concernant l’organisation de l’armée ne peut pas être atteint et s’il n’est pas possible d’équilibrer l’effectif dans le cadre du corps de troupe.
+
+<sup>4</sup> Les officiers supérieurs et les commandants d’unité ont droit, si possible, à des chambres individuelles.
+
+[^67a-1]: Introduit par le ch. I de l’O du 1<sup>er</sup> avr. 2026, en vigueur depuis le 1<sup>er</sup> juin 2026 ([RO 2026 171](https://fedlex.data.admin.ch/eli/oc/2026/171)).
+
 #### Art. 68
 
 **Chambres**
 
-<sup>1</sup> Si le prix des chambres que les communes mettent à la disposition des officiers, sous-officiers supérieurs et militaires féminins dépasse l’indemnité fixée par le Conseil fédéral, les communes prennent à leur charge les frais supplémentaires.
+<sup>1</sup> Si le prix des chambres que les communes mettent à la disposition des officiers, des sous-officiers supérieurs et des militaires qui ne peuvent pas loger auprès de la troupe pour des raisons de service dépasse l’indemnité fixée par le Conseil fédéral, les communes prennent à leur charge les frais supplémentaires.[^68-1]
 
 <sup>2</sup> Si le logement en chambres n’est pas possible, il y a lieu d’installer des cantonnements particuliers pourvus de lits ou de matelas et du mobilier nécessaire. Dans ce cas, les communes reçoivent des indemnités de cantonnement et d’utilisation des lits ou matelas.
 
 <sup>3</sup> Les militaires mentionnés à l’al. 1 qui, avec l’autorisation du commandant, occupent d’autres chambres ou cantonnements que ceux qui leur ont été attribués, paient les frais supplémentaires.
 
-<sup>4</sup> Dans des cas particuliers, la BLA peut augmenter l’indemnité de chambre jusqu’au montant de 200 francs par personne et par nuit.
+<sup>4</sup> Dans des cas particuliers, la BLA peut augmenter l’indemnité de chambre jusqu’au montant de 275 francs par personne et par nuit.[^68-2]
 
-<sup>5</sup> Les militaires paient directement le prix de leur chambre au logeur.
+<sup>5</sup> …[^68-3]
+
+[^68-1]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> avr. 2026, en vigueur depuis le 1<sup>er</sup> juin 2026 ([RO 2026 171](https://fedlex.data.admin.ch/eli/oc/2026/171)).
+[^68-2]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> avr. 2026, en vigueur depuis le 1<sup>er</sup> juin 2026 ([RO 2026 171](https://fedlex.data.admin.ch/eli/oc/2026/171)).
+[^68-3]: Abrogé par le ch. I de l’O du 1<sup>er</sup> avr. 2026, avec effet au 1<sup>er</sup> juin 2026 ([RO 2026 171](https://fedlex.data.admin.ch/eli/oc/2026/171)).
 
 #### Art. 69
 
 **Indemnités**[^69-1]
 
-Les indemnités pour usage de locaux et de places sont calculées d’après le barème annexé.
+<sup>1</sup> Les indemnités pour usage de locaux et de places sont calculées d’après le barème annexé.
 
-[^69-1]: Nouvelle teneur selon le ch. I de l’O du 25 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 6009](https://fedlex.data.admin.ch/eli/oc/2020/1002)).
+<sup>2</sup> Le droit à l’indemnité pour l’usage de locaux court du jour de la prise de possession à celui de la restitution. Le fait de laisser temporairement des locaux vacants ne suspend pas l’obligation d’indemniser le propriétaire.
+
+<sup>3</sup> Les indemnités couvrent l’usage et l’usure normale des locaux, installations et ustensiles requis, le déménagement et l’emménagement, ainsi que le nettoyage.
+
+[^69-1]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> avr. 2026, en vigueur depuis le 1<sup>er</sup> juin 2026 ([RO 2026 171](https://fedlex.data.admin.ch/eli/oc/2026/171)).
 
 #### Art. 70
 
 **Indemnité forfaitaire**
 
-<sup>1</sup> La BLA peut convenir une indemnité forfaitaire avec les communes ou les particuliers pour l’utilisation de cantonnements aménagés en permanence. Elle peut augmenter cette indemnité jusqu’à concurrence de 40 % par personne et par jour pour les cantonnements aménagés en permanence non subventionnés par la Confédération.
+<sup>1</sup> La BLA peut convenir une indemnité forfaitaire avec les communes ou les particuliers pour l’utilisation de cantonnements aménagés en permanence. Elle peut augmenter cette indemnité jusqu’à concurrence de 40 % pour les cantonnements aménagés en permanence non subventionnés par la Confédération.[^70-1]
 
 <sup>2</sup> Elle établit la liste des communes et des particuliers avec lesquels une indemnité forfaitaire a été convenue.
+
+[^70-1]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> avr. 2026, en vigueur depuis le 1<sup>er</sup> juin 2026 ([RO 2026 171](https://fedlex.data.admin.ch/eli/oc/2026/171)).
 
 #### Art. 71
 
@@ -725,32 +868,13 @@ La BLA règle le droit à la paille.
 
 Au bivouac, la troupe dispose de la même quantité de paille qu’au cantonnement.
 
-### Section 4 Indemnité de nuitée
+### Section 4 …
 
-#### Art. 74
+#### Art. 74 et 75
 
-**Droit**
+[^7475-1]
 
-<sup>1</sup>
-
-Ont droit à une indemnité de nuitée:
-
-- a. les chauffeurs de commandants de Grandes Unités et de subordonnés directs du chef de l’armée si, lors de déplacements effectués à ce titre, ces militaires doivent se loger par leurs propres moyens;
-- b. les spécialistes qui ne peuvent pas loger auprès de la troupe.
-
-<sup>2</sup> La demande d’indemnisation doit être adressée à la BLA.
-
-<sup>3</sup> Les personnes visées à l’al. 1 paient directement le prix de leur chambre au logeur.
-
-#### Art. 75
-
-**Montants**
-
-<sup>1</sup> L’indemnité de nuitée correspond au prix local courant d’une chambre jusqu’à concurrence de 70 francs par personne et par nuit. Dans des cas particuliers, la BLA peut augmenter l’indemnité à 200 francs au plus par personne et par nuit.
-
-<sup>2</sup> Elle est majorée de 25 % si la chambre n’est utilisée que pour une durée n’excédant pas quatre nuits.
-
-<sup>3</sup> Elle comprend tous les frais liés à l’utilisation ed la chambre.
+[^7475-1]: Abrogés par le ch. I de l’O du 1<sup>er</sup> avr. 2026, avec effet au 1<sup>er</sup> juin 2026 ([RO 2026 171](https://fedlex.data.admin.ch/eli/oc/2026/171)).
 
 ### Section 5 Autres infrastructures
 
@@ -778,9 +902,11 @@ L’utilisation d’églises ou de lieux de culte pour la célébration de servi
 
 **Chambre privée**
 
-<sup>1</sup> Lorsque le militaire est autorisé à loger chez lui lors d’un service, il n’a droit à aucune indemnité de chambre ou de nuitée.
+<sup>1</sup> Lorsque le militaire est autorisé à loger chez lui lors d’un service, il n’a droit à aucune indemnité de chambre.[^79-1]
 
 <sup>2</sup> Lorsque le personnel militaire accomplit un service non soldé, il subvient lui-même à son logement et paie directement le logeur.
+
+[^79-1]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> avr. 2026, en vigueur depuis le 1<sup>er</sup> juin 2026 ([RO 2026 171](https://fedlex.data.admin.ch/eli/oc/2026/171)).
 
 #### Art. 80
 
@@ -800,6 +926,14 @@ En outre, la Confédération verse pour l’utilisation de l’installation de t
 
 <sup>4</sup> Le marquage et la sécurité sont du ressort de la troupe.
 
+#### Art. 80a
+
+**Aérodromes civils**[^80a-1]
+
+Dans l’intérêt de la défense nationale, les Forces aériennes peuvent prévoir des exercices et des engagements sur des aérodromes civils. La BLA peut convenir une indemnité forfaitaire avec les communes ou les particuliers pour leur utilisation. Les tarifs locaux s’appliquent.
+
+[^80a-1]: Introduit par le ch. I de l’O du 1<sup>er</sup> avr. 2026, en vigueur depuis le 1<sup>er</sup> juin 2026 ([RO 2026 171](https://fedlex.data.admin.ch/eli/oc/2026/171)).
+
 #### Art. 81
 
 **Entretien des logements**
@@ -814,7 +948,9 @@ Dans les services d’instruction des formations, l’équipement personnel et l
 
 <sup>1</sup> L’ordre de marche tient lieu de titre de tranport pour les voyages ordonnés par la troupe ou les autorités militaires.
 
-<sup>2</sup> En cas de mobilisation, le livret de service et le port simultané de l’uniforme servent de justificatifs au transport.
+<sup>2</sup> En cas de mobilisation, le port de l’uniforme sert de justificatif au transport.[^82-1]
+
+[^82-1]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> avr. 2026, en vigueur depuis le 1<sup>er</sup> juin 2026 ([RO 2026 171](https://fedlex.data.admin.ch/eli/oc/2026/171)).
 
 #### Art. 83
 
@@ -853,23 +989,24 @@ Lors de voyages pendant le service, les militaires ont droit d’emprunter gratu
 
 #### Art. 88
 
-**Indemnités de voyage pour les Suisses de l’étranger: école de recrues**
+**Indemnités de voyage pour les Suisses de l’étranger**[^88-1]
 
-Le Département fédéral de la défense, de la protection de la population et des sports (DDPS) paie le prix du billet du domicile à l’étranger jusqu’au lieu d’entrée en service et du lieu de licenciement jusqu’au domicile à l’étranger aux Suisses de l’étranger qui accomplissent l’école de recrue.
+<sup>1</sup>
 
-#### Art. 89
+La BLA paie aux Suisses de l’étranger convoqués:
 
-**Indemnités de voyage pour les Suisses de l’étranger: autres services d’instruction**
+- a. le prix du trajet entre leur domicile à l’étranger et le lieu d’entrée en service ou le lieu de licenciement lors du recrutement et des services d’instruction;
+- b. le prix du billet aller et retour entre leur domicile à l’étranger et la gare frontière ou l’aéroport durant le service actif.
 
-<sup>1</sup> Les billets pour le trajet aller et retour entre le domicile à l’étranger et la gare frontière ou l’aéroport sont à la charge des Suisses de l’étranger qui accomplissent d’autres services d’instruction.
+<sup>2</sup> La BLA fixe les modalités des conditions de remboursement.
 
-<sup>2</sup> Lorsqu’un commandant considère que la mise sur pied de militaires bénéficiant d’un congé pour l’étranger est indispensable pour un service d’instruction qui souffre d’une carence de cadres et que les militaires sont prêts à faire du service volontaire, la BLA peut, sur la base d’une demande dûment justifiée et adressée avant le service, autoriser le remboursement du billet pour le trajet aller et retour entre le domicile à l’étranger et la gare frontière ou l’aéroport.
+[^88-1]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> avr. 2026, en vigueur depuis le 1<sup>er</sup> juin 2026 ([RO 2026 171](https://fedlex.data.admin.ch/eli/oc/2026/171)).
 
-#### Art. 90
+#### Art. 89 et 90
 
-**Indemnités de voyage pour les Suisses de l’étranger: service actif**
+[^8990-1]
 
-Les Suisses de l’étranger mobilisés pour le service actif ont droit au remboursement du billet aller et retour entre leur domicile à l’étranger et la gare frontière ou l’aéroport. Les frais sont à la charge de la caisse de service.
+[^8990-1]: Abrogés par le ch. I de l’O du 1<sup>er</sup> avr. 2026, avec effet au 1<sup>er</sup> juin 2026 ([RO 2026 171](https://fedlex.data.admin.ch/eli/oc/2026/171)).
 
 ## Chapitre 7 Service sanitaire
 
@@ -931,19 +1068,61 @@ L’indemnité forfaitaire pour les prestations, par personne et par jour, se mo
 
 <sup>3</sup> L’indemnité forfaitaire comprend les frais pour la mise à la disposition de l’armée des bureaux, le nettoyage des locaux de travail, le prêt, le blanchissage et la remise en état du linge d’hôpital et les autres frais accessoires.
 
-## Chapitre 8 Personnel ecclésiastique civil
+## Chapitre 8 Prestations civiles
+
+[^chap8-1]
+
+[^chap8-1]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> avr. 2026, en vigueur depuis le 1<sup>er</sup> juin 2026 ([RO 2026 171](https://fedlex.data.admin.ch/eli/oc/2026/171)).
 
 #### Art. 98
+
+**Aumôniers[^98-1]**
 
 <sup>1</sup> Lorsqu’aucun aumônier militaire ne peut être convoqué, il est possible de recourir à du personnel ecclésiastique civil.
 
 <sup>2</sup> Le personnel ecclésiastique civil officiant lors de cultes militaires particuliers est indemnisé au tarif local, sur les fonds de la caisse de service.
 
+[^98-1]: Introduit par le ch. I de l’O du 1<sup>er</sup> avr. 2026, en vigueur depuis le 1<sup>er</sup> juin 2026 ([RO 2026 171](https://fedlex.data.admin.ch/eli/oc/2026/171)).
+
+#### Art. 98a
+
+**Personnel enseignant civil**[^98a-1]
+
+<sup>1</sup> Si, par manque de personnel enseignant dans des écoles et des cours, il doit être fait appel à des enseignants externes n’effectuant pas de service militaire, ceux-ci sont engagés selon des rapports de service civils.
+
+<sup>2</sup> La BLA fixe les conditions d’engagement.
+
+[^98a-1]: Introduit par le ch. I de l’O du 1<sup>er</sup> avr. 2026, en vigueur depuis le 1<sup>er</sup> juin 2026 ([RO 2026 171](https://fedlex.data.admin.ch/eli/oc/2026/171)).
+
+#### Art. 98b
+
+**Offres de formation civiles**[^98b-1]
+
+<sup>1</sup> Si l’exercice d’une fonction requiert impérativement de suivre une instruction mais qu’il n’existe pas de formation interne, il est alors possible de recourir à des prestations civiles.
+
+<sup>2</sup> La BLA autorise les formations civiles.
+
+<sup>3</sup> Le décompte est établi selon le tarif local à la charge de la caisse de service.
+
+[^98b-1]: Introduit par le ch. I de l’O du 1<sup>er</sup> avr. 2026, en vigueur depuis le 1<sup>er</sup> juin 2026 ([RO 2026 171](https://fedlex.data.admin.ch/eli/oc/2026/171)).
+
 ## Chapitre 9 Subsistance des animaux de l’armée
 
 #### Art. 99
 
+**Modalités[^99-1]**
+
 La BLA fixe la subsistance des animaux de l’armée.
+
+[^99-1]: Introduit par le ch. I de l’O du 1<sup>er</sup> avr. 2026, en vigueur depuis le 1<sup>er</sup> juin 2026 ([RO 2026 171](https://fedlex.data.admin.ch/eli/oc/2026/171)).
+
+#### Art. 99a
+
+**Obligation de garantir le fourrage**[^99a-1]
+
+Tous les chevaux et mulets estimés aptes au service, les chevaux et les mulets du Centre équestre national, ainsi que les chevaux privés du personnel de carrière, reçoivent le fourrage du jour de leur prise en charge par la troupe à celui de leur restitution.
+
+[^99a-1]: Introduit par le ch. I de l’O du 1<sup>er</sup> avr. 2026, en vigueur depuis le 1<sup>er</sup> juin 2026 ([RO 2026 171](https://fedlex.data.admin.ch/eli/oc/2026/171)).
 
 ## Chapitre 10 Disponibilité et emploi de véhicules civils
 
@@ -1268,93 +1447,89 @@ Annexe[^t-1]
 
 ## Indemnités pour usage de locaux et de places
 
-[^t-1]: Mise à jour par le ch. II des O du 25 nov. 2020 ([RO 2020 6009](https://fedlex.data.admin.ch/eli/oc/2020/1002)) et du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 769](https://fedlex.data.admin.ch/eli/oc/2022/769)).
+[^t-1]: Nouvelle teneur selon le ch. II de l’O du 1<sup>er</sup> avr. 2026, en vigueur depuis le 1<sup>er</sup> juin 2026 ([RO 2026 171](https://fedlex.data.admin.ch/eli/oc/2026/171)).
 
 <table>
-<tr><th></th><th>Par personne et par jour</th><th>Locaux dans</th><th></th></tr>
-<tr><th></th><th></th><th>Cantonnements fr.</th><th>Constructions et locaux de la protection civile fr.</th></tr>
-<tr><td>1. Cantonnements</td><td></td><td></td><td></td></tr>
-<tr><td>1.1 Indemnités forfaitaires</td><td></td><td></td><td></td></tr>
-<tr><td>Les indemnités ci-après comprennent toutes les prestations selon le ch. 1.2. Lorsque les prestations sont partielles, les taux correspondant aux prestations non fournies sont déduits.</td><td>×</td><td>8,10</td><td>4,20</td></tr>
-<tr><td>1.2 Prestations spécifiques</td><td></td><td></td><td></td></tr>
-<tr><td>Pour les personnes logées en chambre, seules les indemnités prévues aux ch. 1.2.3, 1.2.4 et 1.2.5 peuvent être allouées.</td><td>×</td><td></td><td></td></tr>
-<tr><td>1.2.1 Local de cantonnement (châlits, matelas, oreillers, taies, installations de cantonnement, électricité pour l’éclairage et les petits appareils, WC, papier hygiénique, lavabos, eau, produits de nettoyage, épuration des eaux usées compris)</td><td>×</td><td>4,30</td><td>1,60</td></tr>
-<tr><td>1.2.2 Douches (électricité pour l’éclairage et les petits appareils, eau, eau chaude, produits de nettoyage, épuration des eaux usées compris)</td><td>×</td><td>–.80</td><td>–.80</td></tr>
-<tr><td>1.2.3 Réfectoire (mobilier, électricité pour l’éclairage et les petits appareils, WC, papier hygiénique, lavabos, eau, produits de nettoyage, épuration des eaux usées compris)</td><td>×</td><td>1,70</td><td>–.80</td></tr>
-<tr><td>1.2.4 Vaisselle</td><td>×</td><td>–.10</td><td>–.10</td></tr>
-<tr><td>1.2.5 Cuisine (appareils de cuisson, de cuisine et autres équipements, électricité pour l’éclairage et les petits appareils, eau, épuration des eaux usées compris)</td><td>×</td><td>1,20</td><td>–.90</td></tr>
-<tr><td>1.3 Prestations spéciales</td><td></td><td></td><td></td></tr>
-<tr><td>1.3.1 Cantonnement de fortune (seulement local de cantonnement)</td><td>×</td><td>2,10</td><td></td></tr>
-<tr><td>1.3.2 Cantonnements pour cadres supérieurs, si le logement en chambre n’est pas possible (prestations selon ch. 1.2.1 à 1.2.5, lits avec literie; nettoyage de la literie à la charge de la caisse de service compris)</td><td>×</td><td>10,60</td><td>6,70</td></tr>
-<tr><td>1.3.3 Matelas</td><td>×</td><td>–.50</td><td>–.30</td></tr>
-<tr><td>1.3.4 Châlits avec matelas</td><td>×</td><td>1,50</td><td>–.80</td></tr>
-<tr><td>1.4 Cuisines</td><td></td><td>par jour</td><td>par jour</td></tr>
-<tr><td>1.4.1 Utilisation pour les petites cuisines (fourneau, batterie de cuisine et autres ustensiles, combustible et éclairage compris)</td><td></td><td>40.—</td><td>40.—</td></tr>
-<tr><td>1.4.2 Utilisation pour réchauffer des mets</td><td></td><td>20.—</td><td>20.—</td></tr>
-<tr><td colspan="4">1.5 Supplément pour utilisation de courte durée</td></tr>
-<tr><td colspan="4">Toutes les indemnités selon les ch. 1.1 à 1.4 sont augmentées de 25 % lorsque l’utilisation est de trois jours ou moins.</td></tr>
-<tr><td colspan="4">1.6 Piscines</td></tr>
-<tr><td colspan="4">1.6.1 En cas d’utilisation de piscines en plein air ou couvertes, le prix des entrées est supporté par la caisse de service. Un prix correspondant au tarif local, mais ne dépassant pas 7 francs, peut être porté en compte.</td></tr>
-<tr><td colspan="4">1.6.2 L’indemnité ne peut être versée qu’une fois par mois calendaire. La BLA statue sur les exceptions.</td></tr>
-<tr><td colspan="4">1.7 Chauffage</td></tr>
-<tr><td colspan="4">1.7.1 Lorsque des appareils de mesure sont installés, les coûts effectifs d’énergie sont facturés au prix du marché local et sont payés par la caisse de service.</td></tr>
-<tr><td colspan="4">1.7.2 Lorsque les coûts effectifs d’énergie ne peuvent être déterminés, les indemnités de chauffage sont calculées selon les dispositions des ch. 3.1 et 3.2.</td></tr>
-<tr><td colspan="4">1.8 Évacuation des ordures</td></tr>
-<tr><td colspan="4">1.8.1 Lorsqu’une taxe communale est prélevée pour l’évacuation des ordures (taxes par conteneur, par sac, selon le poids, etc.), les coûts effectifs d’évacuation des ordures peuvent être facturés au tarif local et être payés par la caisse de service.</td></tr>
-<tr><td colspan="4">1.8.2 Lorsque les coûts effectifs d’évacuation des ordures ne peuvent être déterminés, la caisse de service peut payer, par personne et par jour, 10 centimes pour les ordures ménagères et 10 centimes pour les déchets de cuisine.</td></tr>
+<tr><th></th><th></th><th>fr.</th></tr>
+<tr><td>1. Cantonnements</td><td></td><td></td></tr>
+<tr><td>1.1 Indemnité forfaitaire pour les surfaces utiles principales dans les cantonnements de la troupe. Elle comprend le local de cantonnement, les douches et le réfectoire, vaisselle comprise.</td><td>par m<sup>2</sup></td><td>0.85</td></tr>
+<tr><td>1.2 *Cantonnement de fortune* [tab] (seulement local de cantonnement) (l’indemnité est majorée de 25 % en cas d’utilisation de trois jours ou moins).</td><td>par militaire</td><td>2.10</td></tr>
+<tr><td>1.3 Indemnité pour la préparation et le rétablissement de l’installation (reconnaissance, mise en service de l’installation, vérification du fonctionnement des installations sanitaires, soutien lors de la prise du cantonnement, restitution/ remise du logement, services de blanchisserie, nettoyage des matelas). Cette indemnité est versée à titre forfaitaire pour 30 jours d’occupation.</td><td>jusqu’à 499 m<sup>2</sup></td><td>1381.–</td></tr>
+<tr><td></td><td>de 500 à 999 m<sup>2</sup></td><td>2072.–</td></tr>
+<tr><td></td><td>de 1000 à 1499 m<sup>2</sup></td><td>2763.–</td></tr>
+<tr><td></td><td>à partir de 1500 m<sup>2</sup></td><td>3453.–</td></tr>
+<tr><td>1.4 Indemnité versée au quartier-maître pour le soutien fourni durant l’occupation par l’armée, service de piquet compris. Cette indemnité est versée par jour d’occupation.</td><td>jusqu’à 499 m<sup>2</sup></td><td>21.25</td></tr>
+<tr><td></td><td>de 500 à 999 m<sup>2</sup></td><td>31.88</td></tr>
+<tr><td></td><td>de 1000 à 1499 m<sup>2</sup></td><td>42.50</td></tr>
+<tr><td></td><td>à partir de 1500 m<sup>2</sup></td><td>53.13</td></tr>
+<tr><td>1.5 Indemnité pour le matériel courant, tel que le savon, le papier hygiénique, les essuie-mains en papier et les produits de nettoyage. Cette indemnité est versée à titre forfaitaire pour 30 jours d’occupation.</td><td>jusqu’à 499 m<sup>2</sup></td><td>250.–</td></tr>
+<tr><td></td><td>de 500 à 999 m<sup>2</sup></td><td>375.–</td></tr>
+<tr><td></td><td>de 1000 à 1499 m<sup>2</sup></td><td>500.–</td></tr>
+<tr><td></td><td>à partir de 1500 m<sup>2</sup></td><td>625.–</td></tr>
 </table>
 
 <table>
-<tr><th></th><th>Par personne et par nuitée</th><th>Chambres dans</th><th colspan="4"></th></tr>
-<tr><th></th><th></th><th>Hôtels et pensions fr.</th><th colspan="4">Bâtiments publics et privés fr.</th></tr>
-<tr><td>2. Chambre</td><td colspan="4">Les prix locaux (chauffage compris) sont applicables, mais au maximum fr.</td><td></td><td></td></tr>
-<tr><td>Entretien des chambres et de l’équipement personnel par la troupe (cf. art. 68 et 81)</td><td></td><td></td><td colspan="4"></td></tr>
-<tr><td>2.1 Cadres supérieurs et personnel militaire féminin logés en chambre</td><td></td><td>100.—</td><td colspan="4"></td></tr>
-<tr><td>2.2 Sous-officiers et troupe lorsque, pour des raisons de service, ils doivent être logés en chambre</td><td></td><td>50.—</td><td colspan="4"></td></tr>
-<tr><td></td><td colspan="3">Les indemnités indiquées ci-dessus sont majorées de 25 % lorsque l’utilisation est de quatre nuits ou moins</td><td colspan="2"></td><td></td></tr>
+<tr><td>1.6 *Piscines en plein air et piscines couvertes*</td></tr>
+<tr><td>1.6.1 En cas d’utilisation de piscines en plein air ou couvertes, le prix des entrées est pris en charge par la caisse de service. Un prix correspondant au tarif local, mais ne dépassant pas 7 francs, peut être porté en compte.</td></tr>
+<tr><td>1.6.2 L’indemnité ne peut être versée qu’une fois par mois calendaire. La BLA statue sur les exceptions.</td></tr>
+<tr><td>1.7 *Chauffage*</td></tr>
+<tr><td>1.7.1 Lorsque des appareils de mesure sont installés, les coûts effectifs d’énergie sont facturés au prix du marché local et sont payés par la caisse de service.</td></tr>
+<tr><td>1.7.2 Lorsque les coûts effectifs d’énergie ne peuvent être déterminés, les indemnités de chauffage sont calculées selon les dispositions du ch. 3.1.</td></tr>
+<tr><td>1.8 *Évacuation des ordures*</td></tr>
+<tr><td>Lorsqu’une taxe communale est prélevée pour l’évacuation des ordures (taxes par conteneur, par sac, selon le poids, etc.), les coûts effectifs d’évacuation des ordures peuvent être facturés au tarif local et être payés par la caisse de service.</td></tr>
+<tr><td>1.9 En cas d’annulation de la réservation communiquée moins de deux semaines à l’avance, l’armée peut verser au fournisseur de prestations un montant forfaitaire allant jusqu’à 1000 francs par l’intermédiaire de la BLA à titre de dédommagement des dépenses déjà effectuées.</td></tr>
 </table>
 
 <table>
-<tr><th></th><th>Par</th><th>Locaux dans</th><th></th><th>Chauffage exclusivement pour les jours effectifs de chauffage</th></tr>
-<tr><th></th><th></th><th>Hôtels et pensions fr.</th><th>Bâtiments publics et privés fr.</th><th>fr.</th></tr>
-<tr><td>3. Bureaux, locaux de poste, locaux de travail, salles de théorie, salles de consultation, infirmerie éclairage et installations compris</td><td></td><td></td><td></td><td></td></tr>
-<tr><td>3.1 Local jusqu’à 30 m<sup>2</sup></td><td>jour</td><td>15.—</td><td>11.—</td><td>2,50</td></tr>
-<tr><td>3.2 Majoration pour locaux plus grands</td><td>par 10 m<sup>2</sup> en plus ou fraction de ce nombre/ jour</td><td>3.—</td><td>3.—</td><td>–.50</td></tr>
-<tr><td>3.3 Installations spéciales pour la salle de consultation et pour l’infirmerie:</td><td></td><td></td><td></td><td></td></tr>
-<tr><td>a. lits avec matelas et literie;</td><td>jour</td><td>2,50</td><td>2,50</td><td></td></tr>
-<tr><td>b. lits avec matelas sans literie;</td><td>jour</td><td>1,50</td><td>1,50</td><td></td></tr>
-<tr><td>c. matelas avec literie.</td><td>jour</td><td>1,50</td><td>1,50</td><td></td></tr>
-<tr><td>Le nettoyage de la literie est à la charge de la caisse de service</td><td></td><td></td><td></td><td></td></tr>
-<tr><td>4. Locaux pour les rapports (utilisation sporadique) éclairage compris</td><td></td><td></td><td></td><td></td></tr>
-<tr><td>4.1 Local jusqu’à 30 m<sup>2</sup></td><td>jour d’utilisa-tion effective</td><td>15.—</td><td>11.—</td><td>2,50</td></tr>
-<tr><td>4.2 Supplément pour locaux plus grands</td><td>par 10 m<sup>2</sup> en plus ou fraction de ce nombre/ jour d’utilisa-tion effective</td><td>3.—</td><td>3.—</td><td>–.50</td></tr>
-<tr><td>5. Magasins éclairage compris</td><td></td><td></td><td></td><td></td></tr>
-<tr><td>5.1 Magasins généraux</td><td></td><td></td><td></td><td></td></tr>
-<tr><td>5.1.1 Local jusqu’à 30 m<sup>2</sup></td><td>jour</td><td>3.—</td><td>3.—</td><td></td></tr>
-<tr><td>5.1.2 Supplément pour locaux plus grands</td><td>par 10 m<sup>2</sup> en plus ou fraction de ce nombre/ jour</td><td>1.—</td><td>1.—</td><td></td></tr>
-<tr><td>5.2 Magasins installés, avec raccordement ferroviaire, rampe de chargement, monte-charges et autres installations</td><td></td><td></td><td></td><td></td></tr>
-<tr><td>5.2.1 Local jusqu’à 30 m<sup>2</sup></td><td></td><td>5.—</td><td>5.—</td><td></td></tr>
-<tr><td>5.2.2 Majoration pour locaux plus grands</td><td>10 m<sup>2</sup> en plus ou fraction de ce nombre/ jour</td><td>1.—</td><td>1.—</td><td></td></tr>
-<tr><td>6. Écuries</td><td></td><td></td><td></td><td></td></tr>
-<tr><td>6.1 Indemnité forfaitaire Cette indemnité comprend toutes les prestations prévues au ch. 6.2. Lorsque les prestations sont partielles, les taux correspondant aux prestations non fournies sont déduits</td><td>cheval ou mulet et par jour</td><td>3.—</td><td></td><td></td></tr>
-<tr><td>6.2 Prestations spécifiques</td><td></td><td></td><td></td><td></td></tr>
-<tr><td>6.2.1 Écuries</td><td>cheval ou mulet et par jour</td><td>2,10</td><td></td><td></td></tr>
-<tr><td>6.2.2 Éclairage</td><td>cheval ou mulet et par jour</td><td>–.30</td><td></td><td></td></tr>
-<tr><td>6.2.3 Installation d’écurie</td><td>cheval ou mulet et par jour</td><td>–.60</td><td></td><td></td></tr>
-<tr><td>7. Ateliers éclairage et chauffage compris</td><td></td><td></td><td></td><td></td></tr>
-<tr><td>7.1 Ateliers installés et équipés, utilisés par les artisans de la troupe</td><td colspan="4">par place de travail effective et par jour de travail effectif: 12 francs</td></tr>
-<tr><td>7.2 Utilisation de machines et d’outillage</td><td colspan="4">selon les tarifs locaux</td></tr>
-<tr><td>7.3 Utilisation du courant</td><td colspan="4">selon les tarifs locaux</td></tr>
+<tr><th></th><th>Par personne et par nuitée</th><th colspan="2">Chambres dans</th></tr>
+<tr><th></th><th></th><th>hôtels et pensions fr.</th><th>bâtiments publics et privés fr.</th></tr>
+<tr><td>2. Chambre</td><td colspan="3">Les prix locaux (chauffage compris) sont applicables, mais au maximum fr.</td></tr>
+<tr><td>Entretien des chambres et de l’équipement personnel par la troupe (cf. art. 68 et 81)</td><td></td><td></td><td></td></tr>
+<tr><td>2.1 Cadres supérieurs et personnel militaire féminin logés en chambre</td><td></td><td>100.–</td><td></td></tr>
+<tr><td>2.2 Sous-officiers et troupe lorsque, pour des raisons de service, ils doivent être logés en chambre</td><td></td><td>50.–</td><td></td></tr>
+<tr><td></td><td colspan="3">Les indemnités indiquées ci-dessus sont majorées de 25 % lorsque l’utilisation est de quatre nuits ou moins.</td></tr>
 </table>
 
 <table>
-<tr><th></th><th>Par</th><th>Locaux dans</th><th></th><th>Chauffage exclusivement pour les jours effectifs de chauffage</th></tr>
-<tr><th></th><th></th><th>Hôtels et pensions fr.</th><th>Bâtiments publics et privés fr.</th><th>fr.</th></tr>
-<tr><td>**8.** **Garages et places de stationnement pour véhicules à moteur** (lorsqu’il est indispensable de les abriter)</td><td></td><td></td><td></td><td></td></tr>
+<tr><th></th><th>Par</th><th>Locaux dans fr.</th><th>Chauffage exclusivement pour les jours effectifs de chauffage fr.</th></tr>
+<tr><td>3. Bureaux, locaux de poste, locaux de travail, salles de théorie, salles de consultation, infirmerie [tab] éclairage et installations compris</td><td></td><td></td><td></td></tr>
+<tr><td>3.1 Local</td><td>par m<sup>2</sup> et par jour</td><td>0.75</td><td>14.80</td></tr>
+<tr><td>4. Locaux pour les rapports [tab] (utilisation sporadique) éclairage compris</td><td></td><td></td><td></td></tr>
+<tr><td>4.1. Local</td><td>par m<sup>2</sup> et par jour</td><td>0.75</td><td>14.80</td></tr>
+<tr><td>5. Magasins [tab] éclairage compris</td><td></td><td></td><td></td></tr>
+<tr><td>5.1 *Magasins généraux*</td><td></td><td></td><td></td></tr>
+<tr><td>5.1.1 Local</td><td>par m<sup>2</sup> et par jour</td><td>0.35</td><td></td></tr>
+<tr><td>6. Écuries</td><td></td><td></td><td></td></tr>
+<tr><td>6.1 *Indemnité forfaitaire* [tab] Cette indemnité comprend toutes les prestations prévues au ch. 6.2. Lorsque les prestations sont partielles, les taux correspondant aux prestations non fournies sont déduits.</td><td>par cheval ou mulet et par jour</td><td>8.–</td><td></td></tr>
+<tr><td>6.2 *Prestations spécifiques*</td><td></td><td></td><td></td></tr>
+<tr><td>6.2.1 Écuries</td><td>par cheval ou mulet et par jour</td><td>7.–</td><td></td></tr>
+<tr><td>6.2.2 Éclairage</td><td>par cheval ou mulet et par jour</td><td>0.30</td><td></td></tr>
+<tr><td>6.2.3 Installation d’écurie</td><td>par cheval ou mulet et par jour</td><td>0.60</td><td></td></tr>
+<tr><td>6.2.4 Eau</td><td>par cheval ou mulet et par jour</td><td>0.10</td><td></td></tr>
+<tr><td>7. Ateliers [tab] éclairage et chauffage compris</td><td></td><td></td><td></td></tr>
+<tr><td>7.1 Ateliers installés et équipés, utilisés par les artisans de la troupe</td><td></td><td></td><td></td></tr>
+<tr><td>7.2 Utilisation de machines et d’outillage</td><td></td><td></td><td></td></tr>
+<tr><td>7.3 Consommation électrique</td><td></td><td></td><td></td></tr>
+</table>
+
+<table>
+<tr><th></th><th>Par</th><th>Motocycle ou remorque de voiture tout terrain fr.</th><th>Véhicule à moteur d’un poids total n’excédant pas 3,5 t fr.</th><th>Véhicule à moteur d’un poids total excédant 3,5 t fr.</th></tr>
+<tr><td>8. Garages et places de stationnement pour véhicules à moteur [tab] (lorsqu’il est indispensable de les abriter)</td><td></td><td></td><td></td><td></td></tr>
 <tr><td>8.1 Garage (éclairage, chauffage et utilisation de l’eau compris)</td><td></td><td></td><td></td><td></td></tr>
-<tr><td>– pendant les dix premières nuits</td><td>par véhicule et par nuit</td><td>1,50</td><td>5.—</td><td>7,50</td></tr>
-<tr><td>– à partir de la onzième nuit</td><td>par véhicule et par nuit</td><td>–.75</td><td>2,50</td><td>3,75</td></tr>
-<tr><td>8.2 Place de stationnement</td><td colspan="4">[tab] par jour</td></tr>
-<tr><td>– jusqu’à 1500 m<sup>2</sup></td><td colspan="4">50.–</td></tr>
-<tr><td>– à partir de 1501 m<sup>2</sup></td><td colspan="4">80.–</td></tr>
+<tr><td>– pendant les dix premiers jours</td><td>par véhicule et par jour</td><td>1.50</td><td>5.–</td><td>7.50</td></tr>
+<tr><td>– dès le onzième jour</td><td>par véhicule et par jour</td><td>0.75</td><td>2.50</td><td>3.75</td></tr>
+<tr><td>8.2 Place de stationnement</td><td colspan="4">par jour</td></tr>
+<tr><td>– jusqu’à 499 m<sup>2</sup></td><td colspan="4">20 fr.</td></tr>
+<tr><td>– de 500 à 999 m<sup>2</sup></td><td colspan="4">50 fr.</td></tr>
+<tr><td>– de 1000 à 1499 m<sup>2</sup></td><td colspan="4">80 fr.</td></tr>
+<tr><td>– de plus de 1500 m<sup>2</sup></td><td colspan="4">110 fr.</td></tr>
+</table>
+
+<table>
+<tr><th></th><th>Par jour</th></tr>
+<tr><td>9. Surfaces pour instruction militaire</td><td></td></tr>
+<tr><td>– jusqu’à 499 m<sup>2</sup></td><td>30 fr.</td></tr>
+<tr><td>– de 500 à 999 m<sup>2</sup></td><td>60 fr.</td></tr>
+<tr><td>– de 1000 à 1499 m<sup>2</sup></td><td>90 fr.</td></tr>
+<tr><td>– de plus de 1500 m<sup>2</sup></td><td>120 fr.</td></tr>
 </table>

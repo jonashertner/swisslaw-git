@@ -4,11 +4,11 @@ title: Verordnung vom 21. Februar 2018 über die Verwaltung der Armee (VVA)
 short: VVA
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/161"
 language: de
-version: 2023-01-01
+version: 2026-06-01
 adopted: 2018-02-21
 in_force: 2018-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/161/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2018-161-20230101-de-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/161/20230101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/161/20260601/de/xml/fedlex-data-admin-ch-eli-cc-2018-161-20260601-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/161/20260601/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,16 +17,16 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/161/20230101/de"
 
 (VVA)
 
-vom 21. Februar 2018 (Stand am 1. Januar 2023)
+vom 21. Februar 2018 (Stand am 1. Juni 2026)
 
 Der Schweizerische Bundesrat,
 
-gestützt auf die Artikel 142 Absatz 3 und 150 Absatz 1 des Militärgesetzes vom 3. Februar 1995[^ingress-1] (MG) sowie auf Artikel 167 Absatz 3 der Verordnung der Bundesversammlung vom 30. März 1949[^ingress-2] über die Verwaltung der Armee,
+gestützt auf die Artikel 29*a* Absatz 5, 29*e* Absatz 2, 142 Absatz 3 148*j* Absatz 2 und 150 Absatz 1 des Militärgesetzes vom 3. Februar 1995[^ingress-1] (MG),[^ingress-2]
 
 verordnet:
 
 [^ingress-1]: [SR 510.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7242)
-[^ingress-2]: [SR 510.30](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7286)
+[^ingress-2]: Fassung gemäss Ziff. I der V vom 1. April 2026, in Kraft seit 1. Juni 2026 ([AS 2026 171](https://fedlex.data.admin.ch/eli/oc/2026/171)).
 
 ## 1. Kapitel: Gegenstand
 
@@ -57,9 +57,13 @@ Rechnungsführerin oder Rechnungsführer in Formationen, Schulen und Kursen für
 - c. Fourierin oder Fourier;
 - d. Truppenbuchhalterin oder Truppenbuchhalter.
 
+<sup>1bis</sup> Sie leiten und vollziehen den Kommissariatsdienst der Stäbe und Einheiten der Armee sowie der Schulen und Kurse.[^3-1]
+
 <sup>2</sup> Angestellte des Bundes können die Funktion als Rechnungsführerin oder Rechnungsführer im Rahmen ihrer beruflichen Tätigkeit ausüben.
 
 <sup>3</sup> In besonderen Fällen bezeichnet die LBA die Rechnungsführerin oder den Rechnungsführer.
+
+[^3-1]: Eingefügt durch Ziff. I der V vom 1. April 2026, in Kraft seit 1. Juni 2026 ([AS 2026 171](https://fedlex.data.admin.ch/eli/oc/2026/171)).
 
 #### Art. 4
 
@@ -68,6 +72,14 @@ Rechnungsführerin oder Rechnungsführer in Formationen, Schulen und Kursen für
 <sup>1</sup> Beim Wechsel der Rechnungsführerin oder des Rechnungsführers müssen Geschäfte, Buchhaltung, Kassen und Warenvorräte sachgemäss übergeben werden. Die Übergabe ist in einem Protokoll festzuhalten, dessen Richtigkeit von der übergebenden und der übernehmenden Person zu bescheinigen ist. Die Kommandantin oder der Kommandant nimmt Kenntnis von der Übergabe und bescheinigt dies mit der Unterschrift. Das Protokoll ist der Buchhaltung beizulegen.
 
 <sup>2</sup> Die übergebende Person bleibt für ihre dienstlichen Verrichtungen verantwortlich und kann bei der Erledigung hängiger Geschäfte zur Mithilfe angehalten werden.
+
+#### Art. 4a
+
+**Überwachung des Kommissariatsdienstes**[^4a-1]
+
+Die Kommandantinnen und Kommandanten überwachen den Kommissariatsdienst in ihrem Kommandobereich.
+
+[^4a-1]: Eingefügt durch Ziff. I der V vom 1. April 2026, in Kraft seit 1. Juni 2026 ([AS 2026 171](https://fedlex.data.admin.ch/eli/oc/2026/171)).
 
 #### Art. 5
 
@@ -82,6 +94,10 @@ Kontrollstelle für die Truppenbuchhaltungen ist, geordnet nach Funktionsstufe:
 - c. die Quartiermeisterin oder der Quartiermeister.
 
 <sup>2</sup> Die Chefin oder der Chef der LBA kann armeeweit Kontrollen anordnen.
+
+<sup>3</sup> Die Kommandantinnen und Kommandanten der Grossen Verbände und der Truppenkörper haben dafür zu sorgen, dass die Chefinnen und Chefs des Kommissariatsdienstes sowie die Quartiermeisterinnen und -meister ihre Kontrollaufgaben erfüllen.[^5-1]
+
+[^5-1]: Eingefügt durch Ziff. I der V vom 1. April 2026, in Kraft seit 1. Juni 2026 ([AS 2026 171](https://fedlex.data.admin.ch/eli/oc/2026/171)).
 
 #### Art. 6
 
@@ -105,11 +121,35 @@ Kontrollstelle für die Truppenbuchhaltungen ist, geordnet nach Funktionsstufe:
 
 <sup>2</sup> Der Lehrverband Logistik erstellt die Ausbildungsgrundlagen.
 
+#### Art. 7a
+
+**Stellung und Aufgaben der Rechnungsführerinnen und Rechnungsführer**[^7a-1]
+
+<sup>1</sup> Die Einheiten und Stäbe sind administrativ selbständig.
+
+<sup>2</sup> Die Rechnungsführerin oder der Rechnungsführer führt die Truppenbuchhaltung nach dem Grundsatz der Sparsamkeit. Sie oder er sorgt dafür, dass unnötige Ausgaben vermieden werden.
+
+[^7a-1]: Eingefügt durch Ziff. I der V vom 1. April 2026, in Kraft seit 1. Juni 2026 ([AS 2026 171](https://fedlex.data.admin.ch/eli/oc/2026/171)).
+
 #### Art. 8
 
 **Belege**
 
 Die Einnahmen und Ausgaben aller Kassen sind durch Formulare und Originalrechnungen zu belegen.
+
+#### Art. 8a
+
+**Inventar**[^8a-1]
+
+<sup>1</sup> Über alle von den Truppen angeschafften Gegenstände von bleibendem Wert (Inventargegenstände) ist eine Inventarkontrolle zu führen.
+
+<sup>2</sup> Die Truppenkommandantinnen und -kommandanten haben für die lückenlose Führung und Kontrolle der Inventare zu sorgen.
+
+<sup>3</sup> Die Chefinnen und Chefs des Kommissariatsdienstes und die Quartiermeister führen anlässlich der vorgeschriebenen Buchhaltungsrevision auch die Revision der Inventare durch.
+
+<sup>4</sup> Der LBA obliegt die Oberleitung des Inventarwesens.
+
+[^8a-1]: Eingefügt durch Ziff. I der V vom 1. April 2026, in Kraft seit 1. Juni 2026 ([AS 2026 171](https://fedlex.data.admin.ch/eli/oc/2026/171)).
 
 #### Art. 9
 
@@ -147,9 +187,12 @@ Ist eine militärische Buchhaltung nach den Artikeln 7–10 nicht möglich, so o
 
 <sup>1</sup> Will die Kommandantin oder der Kommandant Ausgaben anordnen, die nicht vorgesehen sind, so reicht sie oder er auf dem Dienstweg ein Kreditbegehren an die LBA ein.
 
-<sup>2</sup> Über Kreditbegehren bis zu 50 000 Franken entscheidet die LBA, über Begehren um höhere Beträge die Gruppe Verteidigung.
+<sup>2</sup> Die LBA entscheidet über das Kreditbegehren.[^12-1]
 
-<sup>3</sup> Die LBA führt über die Kreditbegehren Kontrolle und legt das Abrechnungsverfahren fest.
+<sup>3</sup> Sie führt die Kontrolle über Kreditbegehren und legt das Abrechnungsverfahren fest.[^12-2]
+
+[^12-1]: Fassung gemäss Ziff. I der V vom 1. April 2026, in Kraft seit 1. Juni 2026 ([AS 2026 171](https://fedlex.data.admin.ch/eli/oc/2026/171)).
+[^12-2]: Fassung gemäss Ziff. I der V vom 1. April 2026, in Kraft seit 1. Juni 2026 ([AS 2026 171](https://fedlex.data.admin.ch/eli/oc/2026/171)).
 
 ### 3. Abschnitt: Kassen
 
@@ -201,13 +244,9 @@ Eine Depotkasse muss geführt werden, wenn Angehörige der Formation während de
 
 #### Art. 19
 
-**Kioskkasse**
+[^19-1]
 
-<sup>1</sup> Kioskkassen dürfen nur auf Waffenplätzen geführt werden.
-
-<sup>2</sup> Eine Kioskkasse darf nur mit Zustimmung der LBA eröffnet werden.
-
-<sup>3</sup> Die LBA legt die Gewinnspanne fest und regelt die Gewinnverwendung.
+[^19-1]: Aufgehoben durch Ziff. I der V vom 1. April 2026, mit Wirkung seit 1. Juni 2026 ([AS 2026 171](https://fedlex.data.admin.ch/eli/oc/2026/171)).
 
 #### Art. 20
 
@@ -217,9 +256,11 @@ Eine Formation darf über den einzelnen Dienst hinaus eine Vereinskasse führen.
 
 #### Art. 21
 
-**Meldepflicht bei Eröffnung einer Sponsoren-, Kiosk- oder Vereinskasse**
+**Meldepflicht bei Eröffnung einer Sponsoren- oder Vereinskasse**[^21-1]
 
-Die Rechnungsführerin oder der Rechnungsführer stellt sicher, dass bei Eröffnung einer Sponsoren-, Kiosk- oder Vereinskasse die LBA auf dem Dienstweg informiert wird.
+Die Rechnungsführerin oder der Rechnungsführer stellt sicher, dass bei der Eröffnung einer Sponsoren- oder Vereinskasse die LBA auf dem Dienstweg informiert wird.
+
+[^21-1]: Fassung gemäss Ziff. I der V vom 1. April 2026, in Kraft seit 1. Juni 2026 ([AS 2026 171](https://fedlex.data.admin.ch/eli/oc/2026/171)).
 
 ### 4. Abschnitt: Zahlungen
 
@@ -273,9 +314,23 @@ Die Rechnungsführerin oder der Rechnungsführer stellt sicher, dass bei Eröffn
 
 #### Art. 27
 
-**Aufbewahrung der Buchhaltungsunterlagen**
+**Aufbewahrung der Buchhaltungsunterlagen**[^27-1]
 
-Die Rechnungsführerinnen und Rechnungsführer bewahren sämtliche Unterlagen der Truppenbuchhaltung der Formationen, Schulen und Kurse während fünf Jahren auf.
+Die LBA sowie die Rechnungsführerinnen und Rechnungsführer bewahren sämtliche Unterlagen der Truppenbuchhaltung der Formationen, Schulen und Kurse während fünf Jahren auf. Die LBA bewahrt die Originale auf.
+
+[^27-1]: Fassung gemäss Ziff. I der V vom 1. April 2026, in Kraft seit 1. Juni 2026 ([AS 2026 171](https://fedlex.data.admin.ch/eli/oc/2026/171)).
+
+#### Art. 27a
+
+**Revisionsbemerkungen und Auskunftspflicht**[^27a-1]
+
+<sup>1</sup> Werden der Truppe Revisionsbemerkungen der LBA mitgeteilt, so muss die Rechnungsführerin oder der Rechnungsführer ihr innert zwei Monaten eine schriftliche Stellungnahme einreichen.
+
+<sup>2</sup> Alle Beteiligten sind verpflichtet, die zur Aufklärung notwendigen Auskünfte zu erteilen.
+
+<sup>3</sup> Die LBA entscheidet über streitige Forderungen, die aus Revisionsbemerkungen entstanden sind.
+
+[^27a-1]: Eingefügt durch Ziff. I der V vom 1. April 2026, in Kraft seit 1. Juni 2026 ([AS 2026 171](https://fedlex.data.admin.ch/eli/oc/2026/171)).
 
 ## 3. Kapitel: Sold
 
@@ -353,15 +408,20 @@ Bei einer ausserdienstlichen Kommandoübergabe besteht Anspruch auf:
 
 **Soldzulage**
 
-<sup>1</sup>
+<sup>1</sup> Subalternoffiziere, Offiziersaspirantinnen und -aspiranten, Unteroffiziere, Gefreite und Soldaten erhalten für Dienstleistungen, die nicht als Wiederholungskurse angerechnet werden und die für die Erreichung eines höheren Grades oder für besondere fachdienstliche Ausbildung erforderlich sind, eine Soldzulage.[^32-1]
+
+<sup>1bis</sup>
 
 Während der Grundausbildungsdienste zum Erlangen eines höheren Grades beträgt die Soldzulage pro Tag höchstens:
 
 - a. 50 Franken zum Erlangen des Grades eines Unteroffiziers oder eines höheren Unteroffiziers;
 - b. 80 Franken zum Erlangen des Grades eines Offiziers;
-- c. 100 Franken zum Erlangen des Grades eines höheren Unteroffiziers auf der Stufe Truppenkörper oder des Grades eines Hauptmanns.
+- c. 100 Franken zum Erlangen des Grades eines höheren Unteroffiziers auf der Stufe Truppenkörper oder des Grades eines Hauptmanns.[^32-2]
 
 <sup>2</sup> Die Gruppe Verteidigung regelt die Höhe der Soldzulage unter Berücksichtigung des Grades und der Funktion der Angehörigen der Armee sowie der Natur, der Dauer und der Besonderheiten der Grundausbildungsdienste.
+
+[^32-1]: Eingefügt durch Ziff. I der V vom 1. April 2026, in Kraft seit 1. Juni 2026 ([AS 2026 171](https://fedlex.data.admin.ch/eli/oc/2026/171)).
+[^32-2]: Ursprünglich: Abs. 1
 
 #### Art. 33
 
@@ -383,7 +443,9 @@ Militärisches Personal nach Artikel 47 MG sowie zivile Angestellte der Militär
 
 <sup>1</sup> Die Kommandantinnen und Kommandanten, ihre Stäbe sowie die sie begleitenden Kader beziehen bei Truppenbesuchen Sold und die damit verbundenen Vergütungen. Den gleichen Anspruch haben die Offizierinnen und Offiziere der Stäbe der grossen Verbände, die auf Befehl die Kurse unterstellter Formationen besuchen, sowie die Kommandantinnen und Kommandanten aller Stufen für die Erkundung mit ihren Unterstellten. Ausgenommen sind die Angehörigen der Armee nach Artikel 34.
 
-<sup>2</sup> Die Richtigkeit der Belege ist von der vorgesetzten Kommandantin oder vom vorgesetzten Kommandanten zu bescheinigen.
+<sup>2</sup> …[^35-1]
+
+[^35-1]: Aufgehoben durch Ziff. I der V vom 1. April 2026, mit Wirkung seit 1. Juni 2026 ([AS 2026 171](https://fedlex.data.admin.ch/eli/oc/2026/171)).
 
 #### Art. 36
 
@@ -473,6 +535,18 @@ Soldabzüge dürfen nur zur Deckung von Materialverlusten und ‑beschädigungen
 
 ### 1. Abschnitt: Naturalverpflegung
 
+#### Art. 45a
+
+**Beschaffung**[^45a-1]
+
+Die Beschaffung der Verpflegung und der Futtermittel erfolgt:
+
+- a. durch Selbstsorge der Truppe;
+- b. durch Nachschub aus Verpflegungsmagazinen der Armee oder von anderen Truppen;
+- c. durch Selbstsorge der Angehörigen der Armee.
+
+[^45a-1]: Eingefügt durch Ziff. I der V vom 1. April 2026, in Kraft seit 1. Juni 2026 ([AS 2026 171](https://fedlex.data.admin.ch/eli/oc/2026/171)).
+
 #### Art. 46
 
 **Verpflegungskredit**
@@ -531,11 +605,13 @@ Zwecks Umsatz der Armeevorräte kann die LBA den Verbrauch bestimmter Verpflegun
 
 #### Art. 53
 
-**Haushalt**
+**Truppenküche**[^53-1]
 
-<sup>1</sup> Die Verpflegung wird grundsätzlich im Truppenhaushalt zubereitet.
+<sup>1</sup> Die Verpflegung wird grundsätzlich in Truppenküchen zubereitet.
 
-<sup>2</sup> Jede Formation führt in der Regel einen eigenen Haushalt. Formationen, für welche die Führung eines eigenen Haushalts nicht möglich oder unzweckmässig ist, sind dem Haushalt einer anderen Formation anzuschliessen.
+<sup>2</sup> Jede Formation betreibt eine eigene Küche. Formationen, für die der Betrieb einer eigenen Küche nicht möglich oder zweckmässig ist, werden durch die Küche einer anderen Formation verpflegt.
+
+[^53-1]: Fassung gemäss Ziff. I der V vom 1. April 2026, in Kraft seit 1. Juni 2026 ([AS 2026 171](https://fedlex.data.admin.ch/eli/oc/2026/171)).
 
 #### Art. 54
 
@@ -547,23 +623,23 @@ Zwecks Umsatz der Armeevorräte kann die LBA den Verbrauch bestimmter Verpflegun
 
 #### Art. 55
 
-**Serviceentschädigung**
+[^55-1]
 
-<sup>1</sup> Bei Truppenverpflegung der Offiziere und höheren Unteroffiziere in Restaurants auf den Waffenplätzen und den dazugehörenden Aussenstandorten wird zulasten der Dienstkasse eine Entschädigung für Bedienung, Gedeck, Tischwäsche und kleine Zutaten (Serviceentschädigung) ausgerichtet, sofern die LBA dies bewilligt hat.
-
-<sup>2</sup> In allen übrigen Fällen übernimmt der Bund keine Kosten für die Serviceentschädigung. Solche Kosten fallen ausschliesslich zulasten des Angehörigen der Armee.
+[^55-1]: Aufgehoben durch Ziff. I der V vom 1. April 2026, mit Wirkung seit 1. Juni 2026 ([AS 2026 171](https://fedlex.data.admin.ch/eli/oc/2026/171)).
 
 #### Art. 56
 
-**Abgabe an Dritte**
+**Abgabe an Dritte**[^56-1]
 
 <sup>1</sup> Rechnungsführerinnen und Rechnungsführer haben für die Abgabe von Truppenverpflegung an Dritte Entschädigungen zu verlangen.
 
-<sup>2</sup> Sie verlangen von Bundesangestellten und auf Waffenplätzen stationierten kantonalen Mitarbeiterinnen und Mitarbeitern pro Frühstück 7 Franken und pro Mittag- und Nachtessen je 10 Franken, sofern ein dienstliches Interesse an vom Truppenhaushalt bezogener Verpflegung besteht.
+<sup>2</sup> Sie verlangen von Bundesangestellten und auf Waffenplätzen stationierten kantonalen Angestellten höchstens pro Frühstück 10 Franken und pro Mittag- und Abendessen 20 Franken, sofern ein dienstliches Interesse an der Teilnahme der Verpflegung der Truppe besteht.
 
-<sup>3</sup> In den übrigen Fällen ist die Bewilligung durch die Kommandantin oder den Kommandant bei der LBA einzuholen. Diese legt die Entschädigung im Einzelfall fest.
+<sup>3</sup> Die LBA legt die Entschädigung fest.
 
-<sup>4</sup> Sämtliche Einnahmen aus an Dritte abgegebener Truppenverpflegung sind in der Dienstkasse der Formation zu verbuchen und der Verpflegungsabrechnung gutzuschreiben.
+<sup>4</sup> Sämtliche Einnahmen sind in der Dienstkasse der Truppe zu verbuchen. Die Einnahmen, die den Verpflegungskredit übersteigen, gehen in die Bundeskasse.
+
+[^56-1]: Fassung gemäss Ziff. I der V vom 1. April 2026, in Kraft seit 1. Juni 2026 ([AS 2026 171](https://fedlex.data.admin.ch/eli/oc/2026/171)).
 
 #### Art. 57
 
@@ -573,9 +649,9 @@ Die Verpflegung von Patientinnen und Patienten bei der Truppe, im medizinischen 
 
 #### Art. 58
 
-**Naturalverpflegung ausserhalb des Truppenhaushalts**
+**Naturalverpflegung ausserhalb der Truppenküche[^58-1]**
 
-<sup>1</sup> Sofern Formationen nicht an einem Truppenhaushalt teilnehmen können, sind die Verpflegungsmittel einer Gaststätte oder einer Privatperson zur Zubereitung gegen Entrichtung einer Entschädigung abzugeben.
+<sup>1</sup> Sofern Formationen nicht von einer Truppenküche verpflegt werden können, sind die Verpflegungsmittel einer Gaststätte oder einer Privatperson zur Zubereitung gegen Entrichtung einer Entschädigung abzugeben.[^58-2]
 
 <sup>2</sup> Für die Zubereitung der Verpflegung durch Gaststätten oder Private beträgt die Entschädigung inklusive Küchenbenützung und Brennmaterial:
 
@@ -586,6 +662,9 @@ Die Verpflegung von Patientinnen und Patienten bei der Truppe, im medizinischen 
 </table>
 
 <sup>3</sup> In begründeten Einzelfällen kann die LBA die Ansätze angemessen erhöhen.
+
+[^58-1]: Fassung gemäss Ziff. I der V vom 1. April 2026, in Kraft seit 1. Juni 2026 ([AS 2026 171](https://fedlex.data.admin.ch/eli/oc/2026/171)).
+[^58-2]: Fassung gemäss Ziff. I der V vom 1. April 2026, in Kraft seit 1. Juni 2026 ([AS 2026 171](https://fedlex.data.admin.ch/eli/oc/2026/171)).
 
 ### 2. Abschnitt: Pensionsverpflegung
 
@@ -653,9 +732,49 @@ Die den Truppen gelieferten Verpflegungsmittel sind ausschliesslich für ihren E
 
 #### Art. 65
 
-**Kantonnementseinrichtungen**
+**Aufgaben der Truppenkommandantinnen und -kommandanten**[^65-1]
 
-Für unentbehrliche Kantonnementseinrichtungen und Massnahmen zum Schutz der Räumlichkeiten wenden sich die Kommandantinnen und Kommandanten vorgängig an die Gemeindebehörden. Diese beschaffen das erforderliche Material nach den Angaben der Kommandantin oder des Kommandanten und halten es der Truppe zur Verfügung. Die Einrichtungsarbeiten werden so weit als möglich von der Truppe selbst ausgeführt.
+<sup>1</sup> Die Truppenkommandantinnen und -kommandanten wenden sich möglichst frühzeitig an die Gemeindebehörden, um eine Unterkunft in Kantonnementen oder für die Einquartierung sicherzustellen.
+
+<sup>2</sup> Sie sind dafür verantwortlich, dass nur Räumlichkeiten belegt werden, die den tatsächlichen Bedürfnissen der Truppe entsprechen.
+
+[^65-1]: Fassung gemäss Ziff. I der V vom 1. April 2026, in Kraft seit 1. Juni 2026 ([AS 2026 171](https://fedlex.data.admin.ch/eli/oc/2026/171)).
+
+#### Art. 65a
+
+**Aufgaben der Gemeindebehörden**[^65a-1]
+
+<sup>1</sup> Die Gemeindebehörden beschaffen das erforderliche Material nach den Angaben der Kommandantin oder des Kommandanten und halten es der Truppe zur Verfügung.
+
+<sup>2</sup> Die Einrichtungsarbeiten werden so weit als möglich von der Truppe selbst ausgeführt.
+
+[^65a-1]: Eingefügt durch Ziff. I der V vom 1. April 2026, in Kraft seit 1. Juni 2026 ([AS 2026 171](https://fedlex.data.admin.ch/eli/oc/2026/171)).
+
+#### Art. 65b
+
+**Modalitäten bei der Übernahme und Abgabe**[^65b-1]
+
+<sup>1</sup> Vor Bezug und vor Verlassen der Unterkunft muss die Truppe gemeinsam mit der Besitzerin oder dem Besitzer feststellen, in welchem Zustand sich die Unterkunftsräumlichkeiten, Einrichtungen und Gerätschaften befinden.
+
+<sup>2</sup> Mängel und Schäden sind zu protokollieren. Das Protokoll ist von der Truppe und der Besitzerin oder dem Besitzer zu unterzeichnen.
+
+<sup>3</sup> Beim Verlassen der Unterkunft hat die Truppe die benützten Plätze, Räumlichkeiten und Einrichtungen in geordnetem Zustand gegen Bescheinigung an die Besitzerin oder den Besitzer zu übergeben.
+
+<sup>4</sup> Für Beschädigungen, die durch die Truppenbelegung verursacht wurden, finden die Vorschriften über die Entschädigung von Land- und Sachschaden Anwendung.
+
+[^65b-1]: Eingefügt durch Ziff. I der V vom 1. April 2026, in Kraft seit 1. Juni 2026 ([AS 2026 171](https://fedlex.data.admin.ch/eli/oc/2026/171)).
+
+#### Art. 65c
+
+**Geeignete Unterkünfte und Ausnahmen**[^65c-1]
+
+<sup>1</sup> Die Truppe hat die von den Gemeindebehörden angewiesenen Räumlichkeiten und Einrichtungen anzunehmen, sofern diese für die Unterkunft geeignet sind.
+
+<sup>2</sup> Über Meinungsverschiedenheiten zwischen Truppenkommandantinnen und -kommandanten sowie Gemeindebehörden über die Eignung und Benützung von Unterkunftsräumlichkeiten und Einrichtungen entscheidet der Kommandantin oder der Kommandant der Territorialdivision.
+
+<sup>3</sup> Religiöse und kulturelle Räumlichkeiten sowie Luxusräume und Gebäude, deren Benützung voraussichtlich unverhältnismässige Beschädigungen und Kosten oder sonst schwere Nachteile verursachen würde, dürfen nur im Notfall belegt werden.
+
+[^65c-1]: Eingefügt durch Ziff. I der V vom 1. April 2026, in Kraft seit 1. Juni 2026 ([AS 2026 171](https://fedlex.data.admin.ch/eli/oc/2026/171)).
 
 #### Art. 66
 
@@ -673,35 +792,59 @@ Entstehen aussergewöhnlich hohe Kosten für Kantonnementseinrichtungen, für Ma
 
 <sup>3</sup> Die LBA kann Ausnahmen bewilligen.
 
+#### Art. 67a
+
+**Unterkünfte für Kaderangehörige**[^67a-1]
+
+<sup>1</sup> Offizieren, höheren Unteroffizieren und einzelnen Angehörigen der Armee, welche aus dienstlichen Gründen nicht bei der Truppe untergebracht werden können, werden wenn möglich Zimmer mit Betten zur Verfügung gestellt.
+
+<sup>2</sup> Oberwachtmeistern, Wachtmeistern und Korporalen werden, wenn möglich, eigene Räume zur Verfügung gestellt.
+
+<sup>3</sup> Angehörige der Armee, die wegen Mangels an Unteroffizieren, höheren Unteroffizieren oder Offizieren entsprechende Funktionen ausüben, haben den gleichen Anspruch auf Unterkunft wie Unteroffiziere, höhere Unteroffiziere oder Offiziere. Dieser Anspruch besteht nur, wenn der nach den Vorschriften über die Organisation der Armee vorgesehene Sollbestand nicht erreicht wird und ein Ausgleich innerhalb des Truppenkörpers nicht möglich ist.
+
+<sup>4</sup> Stabsoffizieren sowie Einheitskommandantinnen und -kommandanten werden, wenn möglich, Einzelzimmer zur Verfügung gestellt.
+
+[^67a-1]: Eingefügt durch Ziff. I der V vom 1. April 2026, in Kraft seit 1. Juni 2026 ([AS 2026 171](https://fedlex.data.admin.ch/eli/oc/2026/171)).
+
 #### Art. 68
 
 **Zimmer**
 
-<sup>1</sup> Sind die Kosten für die Zimmer, welche die Gemeinde den Offizieren, höheren Unteroffizieren und weiblichen Angehörigen der Armee als Unterkunft anbietet, höher als die vom Bundesrat festgesetzte Zimmerentschädigung, so trägt die Gemeinde die Mehrkosten.
+<sup>1</sup> Sind die Kosten für die Zimmer, welche die Gemeinde den Offizieren, höheren Unteroffizieren und Angehörigen der Armee, welche aus dienstlichen Gründen nicht bei der Truppe untergebracht werden können, als Unterkunft anbietet, höher als die vom Bundesrat festgesetzte Zimmerentschädigung, so trägt die Gemeinde die Mehrkosten.[^68-1]
 
 <sup>2</sup> Ist die Unterkunft in Zimmern nicht möglich, so sind besondere Kantonnemente mit Betten oder Matratzen und dem nötigen Mobiliar einzurichten. Den Gemeinden werden dafür die Entschädigungen für Kantonnemente sowie für Matratzen- oder Bettbenützung ausgerichtet.
 
 <sup>3</sup> Beziehen die in Absatz 1 genannten Personen mit Bewilligung der Kommandantin oder des Kommandanten andere als von der Gemeinde zugewiesene Zimmer oder Unterkünfte, so haben sie die Mehrkosten zu tragen.
 
-<sup>4</sup> In besonderen Fällen kann die LBA die Zimmerentschädigung bis auf höchstens 200 Franken pro Person und Nacht erhöhen.
+<sup>4</sup> In besonderen Fällen kann die LBA die Zimmerentschädigung bis auf 275 Franken pro Person und Nacht erhöhen.[^68-2]
 
-<sup>5</sup> Die Angehörigen der Armee haben die Zimmerkosten mit der Logisgeberin oder dem Logisgeber selber abzurechnen.
+<sup>5</sup> …[^68-3]
+
+[^68-1]: Fassung gemäss Ziff. I der V vom 1. April 2026, in Kraft seit 1. Juni 2026 ([AS 2026 171](https://fedlex.data.admin.ch/eli/oc/2026/171)).
+[^68-2]: Fassung gemäss Ziff. I der V vom 1. April 2026, in Kraft seit 1. Juni 2026 ([AS 2026 171](https://fedlex.data.admin.ch/eli/oc/2026/171)).
+[^68-3]: Aufgehoben durch Ziff. I der V vom 1. April 2026, mit Wirkung seit 1. Juni 2026 ([AS 2026 171](https://fedlex.data.admin.ch/eli/oc/2026/171)).
 
 #### Art. 69
 
 **Entschädigungen**[^69-1]
 
-Die Entschädigungen für Räumlichkeiten und Plätze richten sich nach den Ansätzen im Anhang.
+<sup>1</sup> Die Entschädigungen für Räumlichkeiten und Plätze richten sich nach den Ansätzen im Anhang
 
-[^69-1]: Fassung gemäss Ziff. I der V vom 25. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6009](https://fedlex.data.admin.ch/eli/oc/2020/1002)).
+<sup>2</sup> Die Entschädigungen für die Benützung von Räumlichkeiten sind vom Tag der Übernahme an bis zum Tag der Rückgabe auszurichten. Nichtbenützung von belegten Räumlichkeiten unterbricht die Entschädigungsberechtigung nicht.
+
+<sup>3</sup> In den Entschädigungen ist die Vergütung für Gebrauch und normale Abnützung der beanspruchten Räumlichkeiten, Einrichtungen und Gerätschaften, für Aus- und Einräumen sowie für Reinigung inbegriffen.
+
+[^69-1]: Fassung gemäss Ziff. I der V vom 1. April 2026, in Kraft seit 1. Juni 2026 ([AS 2026 171](https://fedlex.data.admin.ch/eli/oc/2026/171)).
 
 #### Art. 70
 
 **Pauschalentschädigung**
 
-<sup>1</sup> Für die Benützung ständig eingerichteter Kantonnemente kann die LBA mit Gemeinden und Privaten Pauschalentschädigungen vereinbaren. Für nicht vom Bund subventionierte, ständig eingerichtete Kantonnemente kann sie eine Erhöhung der Pauschalentschädigung um bis zu 40 Prozent pro Person und Tag bewilligen.
+<sup>1</sup> Für die Benützung ständig eingerichteter Kantonnemente kann die LBA mit Gemeinden und Privaten Pauschalentschädigungen vereinbaren. Für nicht vom Bund subventionierte, ständig eingerichtete Kantonnemente kann sie eine Erhöhung der Pauschalentschädigung um bis zu 40 Prozent bewilligen.[^70-1]
 
 <sup>2</sup> Sie gibt ein Verzeichnis der Gemeinden und Privaten heraus, mit welchen Pauschalentschädigungen vereinbart worden sind.
+
+[^70-1]: Fassung gemäss Ziff. I der V vom 1. April 2026, in Kraft seit 1. Juni 2026 ([AS 2026 171](https://fedlex.data.admin.ch/eli/oc/2026/171)).
 
 #### Art. 71
 
@@ -725,32 +868,13 @@ Die LBA legt die Berechtigung für den Bezug von Stroh fest.
 
 Für das Biwak wird der Truppe die gleiche Strohmenge abgegeben wie für das Kantonnement.
 
-### 4. Abschnitt: Logisentschädigung
+### 4. Abschnitt: …
 
-#### Art. 74
+#### Art. 74 und 75
 
-**Anspruch**
+[^7475-1]
 
-<sup>1</sup>
-
-Anspruch auf eine Logisentschädigung haben:
-
-- a. Angehörige der Armee, welche die Motorfahrzeuge der Kommandantinnen oder Kommandanten der grossen Verbände sowie der Direktunterstellten der Chefin oder des Chefs der Armee fahren und sich auf diesen Fahrten selbst unterzubringen haben;
-- b. Fachspezialistinnen und -spezialisten, die nicht bei der Truppe untergebracht werden können.
-
-<sup>2</sup> Das Gesuch um Entschädigung ist an die LBA zu richten.
-
-<sup>3</sup> Die Zimmerkosten sind der Logisgeberin oder dem Logisgeber selber zu bezahlen.
-
-#### Art. 75
-
-**Ansätze**
-
-<sup>1</sup> Die Logisentschädigung entspricht dem ortsüblichen Zimmerpreis; sie beträgt jedoch höchstens 70 Franken pro Person und Nacht. In besonderen Fällen kann die LBA die Logisentschädigung bis auf höchstens 200 Franken pro Person und Nacht erhöhen.
-
-<sup>2</sup> Wird das Zimmer nicht mehr als vier Nächte benützt, so erhöht sich die Logisentschädigung um 25 Prozent.
-
-<sup>3</sup> Mit der Logisentschädigung werden sämtliche Kosten der Zimmerbenützung abgegolten.
+[^7475-1]: Aufgehoben durch Ziff. I der V vom 1. April 2026, mit Wirkung seit 1. Juni 2026 ([AS 2026 171](https://fedlex.data.admin.ch/eli/oc/2026/171)).
 
 ### 5. Abschnitt: Andere Infrastrukturen
 
@@ -778,9 +902,11 @@ Für die Benützung von Kirchen und vergleichbaren Kultstätten zur Durchführun
 
 **Private Zimmer**
 
-<sup>1</sup> Sind Angehörige der Armee ermächtigt, während der Dienstleistung im eigenen Zimmer zu nächtigen, so wird weder eine Zimmerentschädigung noch eine Logisentschädigung ausgerichtet.
+<sup>1</sup> Sind Angehörige der Armee ermächtigt, während der Dienstleistung im eigenen Zimmer zu nächtigen, so wird keine Zimmerentschädigung ausgerichtet.[^79-1]
 
 <sup>2</sup> Das militärische Personal hat, sofern es nicht besoldeten Militärdienst leistet, für seine Unterkunft selbst aufzukommen und seine Zimmer der Quartiergeberin oder dem Quartiergeber direkt zu bezahlen.
+
+[^79-1]: Fassung gemäss Ziff. I der V vom 1. April 2026, in Kraft seit 1. Juni 2026 ([AS 2026 171](https://fedlex.data.admin.ch/eli/oc/2026/171)).
 
 #### Art. 80
 
@@ -800,6 +926,14 @@ Zusätzlich richtet der Bund für die Benützung der Schiessanlage, des Scheiben
 
 <sup>4</sup> Der Zeiger- und Sicherungsdienst hat durch die Truppe zu erfolgen.
 
+#### Art. 80a
+
+**Zivile Flugplätze**[^80a-1]
+
+Die Luftwaffe kann im Interesse der Landesverteidigung Übungen und Einsätze auf zivilen Flugplätzen vorsehen. Für die Benutzung kann die LBA mit Gemeinden und Dritten Pauschalentschädigungen vereinbaren. Diese richten sich nach den ortsüblichen Tarifen.
+
+[^80a-1]: Eingefügt durch Ziff. I der V vom 1. April 2026, in Kraft seit 1. Juni 2026 ([AS 2026 171](https://fedlex.data.admin.ch/eli/oc/2026/171)).
+
 #### Art. 81
 
 **Unterhalt der Unterkünfte**
@@ -814,7 +948,9 @@ In Ausbildungsdiensten der Formationen werden die persönliche Ausrüstung und d
 
 <sup>1</sup> Für die von der Truppe und von Militärbehörden angeordneten Reisen und Transporte gilt der Marschbefehl als Fahrausweis.
 
-<sup>2</sup> In Mobilmachungsfällen dient die Uniform zusammen mit dem Dienstbüchlein als Beförderungsberechtigung.
+<sup>2</sup> In Mobilmachungsfällen dient die Uniform als Beförderungsberechtigung.[^82-1]
+
+[^82-1]: Fassung gemäss Ziff. I der V vom 1. April 2026, in Kraft seit 1. Juni 2026 ([AS 2026 171](https://fedlex.data.admin.ch/eli/oc/2026/171)).
 
 #### Art. 83
 
@@ -853,23 +989,24 @@ Angehörige der Armee haben bei Reisen während der Dienstdauer Anspruch auf une
 
 #### Art. 88
 
-**Reisevergütung an Auslandschweizerinnen und Auslandschweizer: Rekrutenschule**
+**Reisevergütung an Auslandschweizerinnen und Auslandschweizer**[^88-1]
 
-Das Eidgenössische Departement für Verteidigung, Bevölkerungsschutz und Sport (VBS) bezahlt Auslandschweizerinnen und Auslandschweizern, die die Rekrutenschule absolvieren, am Einrückungstag die Billettkosten vom ausländischen Wohnort zum Einrückungsort und am Entlassungstag die Billettkosten vom Entlassungsort zum ausländischen Wohnort.
+<sup>1</sup>
 
-#### Art. 89
+Die LBA bezahlt den aufgebotenen Auslandschweizerinnen und Auslandschweizern:
 
-**Reisevergütung an Auslandschweizerinnen und Auslandschweizer: übrige Ausbildungsdienste**
+- a. bei der Rekrutierung und bei Ausbildungsdiensten: die Reisekosten vom ausländischen Wohnort zum Einrückungs- beziehungsweise Entlassungsort;
+- b. während dem Aktivdienst: die Reisekosten für die Hin- und Rückreise zwischen dem ausländischen Wohnort und der Grenzübergangsstation oder dem Flughafen.
 
-<sup>1</sup> Auslandschweizerinnen und Auslandschweizer, die andere Ausbildungsdienste leisten, müssen die Reisekosten für die Hin- und Rückreise zwischen dem ausländischen Wohnort und der Grenzübergangsstation oder dem Flughafen selber bezahlen.
+<sup>2</sup> Die LBA legt die Einzelheiten der Erstattungsbedingungen fest.
 
-<sup>2</sup> Sofern eine Kommandantin oder ein Kommandant aus Kadermangel die Einberufung von Angehörigen der Armee mit Auslandurlaub zu diesen Ausbildungsdiensten als unbedingt erforderlich erachtet und die Angehörigen der Armee bereit sind, den Dienst freiwillig zu leisten, kann die LBA auf begründetes vordienstliches Gesuch die Rückerstattung der Billettkosten für die Hin- und Rückreise zwischen dem ausländischen Wohnort und der Grenzübergangsstation oder dem Flughafen bewilligen.
+[^88-1]: Fassung gemäss Ziff. I der V vom 1. April 2026, in Kraft seit 1. Juni 2026 ([AS 2026 171](https://fedlex.data.admin.ch/eli/oc/2026/171)).
 
-#### Art. 90
+#### Art. 89 und 90
 
-**Reisevergütung an Auslandschweizerinnen und Auslandschweizer: Aktivdienst**
+[^8990-1]
 
-Den zum Aktivdienst aufgebotenen Auslandschweizerinnen und Auslandschweizern sind die Reisekosten für die Hin- und Rückreise zwischen dem ausländischen Wohnort und der Grenzübergangsstation oder dem Flughafen zu vergüten. Die Kosten gehen zulasten der Dienstkasse.
+[^8990-1]: Aufgehoben durch Ziff. I der V vom 1. April 2026, mit Wirkung seit 1. Juni 2026 ([AS 2026 171](https://fedlex.data.admin.ch/eli/oc/2026/171)).
 
 ## 7. Kapitel: Sanitätsdienst
 
@@ -931,19 +1068,61 @@ Für die Leistungen beim Einsatz von Angehörigen der Sanitätstruppen in Zivils
 
 <sup>3</sup> In der Pauschalentschädigung enthalten sind die Kosten für Bereitstellung der Büros, Reinigung der verschiedenen Arbeitsräume, Abgabe, Reinigung und Instandstellung der Spitalwäsche und sonstige Nebenauslagen.
 
-## 8. Kapitel: Zivile Seelsorgerinnen und Seelsorger
+## 8. Kapitel: Zivile Leistungen
+
+[^chap8-1]
+
+[^chap8-1]: Fassung gemäss Ziff. I der V vom 1. April 2026, in Kraft seit 1. Juni 2026 ([AS 2026 171](https://fedlex.data.admin.ch/eli/oc/2026/171)).
 
 #### Art. 98
+
+**Seelsorgerinnen und Seelsorger[^98-1]**
 
 <sup>1</sup> Kann für Aufgaben der Armeeseelsorge nicht eine Armeeseelsorgerin oder ein Armeeseelsorger aufgeboten werden, so darf eine zivile Seelsorgerin oder ein ziviler Seelsorger beigezogen werden.
 
 <sup>2</sup> Zivile Seelsorgerinnen und Seelsorger, die bei besonderen Militärgottesdiensten mitwirken, werden zu den ortsüblichen Ansätzen zulasten der Dienstkasse entschädigt.
 
+[^98-1]: Eingefügt durch Ziff. I der V vom 1. April 2026, in Kraft seit 1. Juni 2026 ([AS 2026 171](https://fedlex.data.admin.ch/eli/oc/2026/171)).
+
+#### Art. 98a
+
+**Ziviles Lehrpersonal**[^98a-1]
+
+<sup>1</sup> Müssen in Schulen und Kursen aus Mangel an eigenem Lehrpersonal zusätzliche Lehrkräfte beigezogen werden, die nicht Militärdienst leisten, so erfolgt deren Anstellung in einem zivilen Dienstverhältnis.
+
+<sup>2</sup> Die LBA setzt die Anstellungsbedingungen fest.
+
+[^98a-1]: Eingefügt durch Ziff. I der V vom 1. April 2026, in Kraft seit 1. Juni 2026 ([AS 2026 171](https://fedlex.data.admin.ch/eli/oc/2026/171)).
+
+#### Art. 98b
+
+**Zivile Ausbildungsangebote**[^98b-1]
+
+<sup>1</sup> Ist eine Ausbildung für die Ausübung der Funktion der Angehörigen der Armee zwingend notwendig und kann auf kein eigenes Ausbildungsangebot zurückgegriffen werden, so dürfen zivile Leistungen beigezogen werden.
+
+<sup>2</sup> Die LBA bewilligt die Zivilen Ausbildungen.
+
+<sup>3</sup> Die Abrechnung erfolgt zu den ortsüblichen Ansätzen zulasten der Dienstkasse.
+
+[^98b-1]: Eingefügt durch Ziff. I der V vom 1. April 2026, in Kraft seit 1. Juni 2026 ([AS 2026 171](https://fedlex.data.admin.ch/eli/oc/2026/171)).
+
 ## 9. Kapitel: Verpflegung der Armeetiere
 
 #### Art. 99
 
+**Modalitäten[^99-1]**
+
 Die LBA bestimmt die Verpflegung der Armeetiere.
+
+[^99-1]: Eingefügt durch Ziff. I der V vom 1. April 2026, in Kraft seit 1. Juni 2026 ([AS 2026 171](https://fedlex.data.admin.ch/eli/oc/2026/171)).
+
+#### Art. 99a
+
+**Fütterungspflicht**[^99a-1]
+
+Sämtliche für den Militärdienst eingeschätzten Pferde und Maultiere, die Bundespferde und -maultiere des Nationalen Pferdezentrums sowie die Privatpferde des Berufspersonals sind vom Zeitpunkt der Übernahme bis zur Rückgabe durch die Truppe zu füttern.
+
+[^99a-1]: Eingefügt durch Ziff. I der V vom 1. April 2026, in Kraft seit 1. Juni 2026 ([AS 2026 171](https://fedlex.data.admin.ch/eli/oc/2026/171)).
 
 ## 10. Kapitel: Disposition und Einsatz ziviler Fahrzeuge
 
@@ -1268,89 +1447,89 @@ Anhang[^t-1]
 
 ## Entschädigungen für Räumlichkeiten und Plätze
 
-[^t-1]: Bereinigt gemäss Ziff. II der V vom 25. Nov. 2020 ([AS 2020 6009](https://fedlex.data.admin.ch/eli/oc/2020/1002)) und vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 769](https://fedlex.data.admin.ch/eli/oc/2022/769)).
+[^t-1]: Fassung gemäss Ziff. II der V vom 1. April 2026, in Kraft seit 1. Juni 2026 ([AS 2026 171](https://fedlex.data.admin.ch/eli/oc/2026/171)).
 
 <table>
-<tr><th></th><th>Je Person und Tag</th><th>Räume in</th><th></th></tr>
-<tr><th></th><th></th><th>Truppenunterkünften Fr.</th><th>Zivilschutzanlagen/-räumen Fr.</th></tr>
-<tr><td>**1.** **Kantonnemente**</td><td></td><td></td><td></td></tr>
-<tr><td>1.1 *Pauschalentschädigungen*</td><td></td><td></td><td></td></tr>
-<tr><td>In diesen Entschädigungen sind alle Leistungen nach Ziffer 1.2 enthalten. Werden nicht alle Leistungen erbracht, sind die entsprechenden Ansätze abzuziehen.</td><td>×</td><td>8.10</td><td>4.20</td></tr>
-<tr><td>1.2 *Einzelne Leistungen*</td><td></td><td></td><td></td></tr>
-<tr><td>Für Personen, die in Zimmern untergebracht sind, dürfen lediglich die Entschädigungen nach den Ziffern 1.2.3, 1.2.4 und 1.2.5 ausgerichtet werden.</td><td>×</td><td></td><td></td></tr>
-<tr><td>1.2.1 Kantonnementsraum (inkl. Liegestelle, Matratze, Kissen, Kissenüberzug, Einrichtungen, elektrische Energie für Beleuchtung und Kleingeräte, WC, WC‑Papier, Waschgelegenheit, Wasser, Reinigungsmittel, Abwasserreinigung)</td><td>×</td><td>4.30</td><td>1.60</td></tr>
-<tr><td>1.2.2 Duschen (inkl. elektrische Energie für Beleuchtung und Kleingeräte, Wasser, Kosten für Warmwasseraufbereitung, Reinigungsmittel, Abwasserreinigung)</td><td>×</td><td>–.80</td><td>–.80</td></tr>
-<tr><td>1.2.3 Essraum (inkl. Mobiliar, elektrische Energie für Beleuchtung und Kleingeräte, WC, WC‑Papier, Handwaschgelegenheit, Wasser, Reinigungsmittel, Abwasserreinigung)</td><td>×</td><td>1.70</td><td>–.80</td></tr>
-<tr><td>1.2.4 Essgeschirr</td><td>×</td><td>–.10</td><td>–.10</td></tr>
-<tr><td>1.2.5 Küche (inkl. Kochapparate und sonstige Ausrüstung sowie Geräte, elektrische Energie für Beleuchtung und Kleingeräte, Wasser, Abwasserreinigung)</td><td>×</td><td>1.20</td><td>–.90</td></tr>
-<tr><td>1.3 *Sonderleistungen*</td><td></td><td></td><td></td></tr>
-<tr><td>1.3.1 Notunterkunft (nur Unterkunftsraum)</td><td>×</td><td>2.10</td><td></td></tr>
-<tr><td>1.3.2 Kantonnemente für höheres Kader, sofern die Unterkunft in Zimmern nicht möglich ist (inkl. Leistungen nach den Ziffern 1.2.1–1.2.5, Betten mit Wäsche; Reinigung der Wäsche zulasten der Dienstkasse)</td><td>×</td><td>10.60</td><td>6.70</td></tr>
-<tr><td>1.3.3 Matratzen</td><td>×</td><td>–.50</td><td>–.30</td></tr>
-<tr><td>1.3.4 Bettstellen mit Matratzen</td><td>×</td><td>1.50</td><td>–.80</td></tr>
-<tr><td>1.4 *Küchen*</td><td></td><td>pro Tag</td><td>pro Tag</td></tr>
-<tr><td>1.4.1 Benützung für Kleinküchenbetriebe (inkl. Kochherd, -geräte, -geschirr, Brennmaterial und Beleuchtung)</td><td></td><td>40.—</td><td>40.—</td></tr>
-<tr><td>1.4.2 Benützung für das Aufwärmen der Speisen</td><td></td><td>20.—</td><td>20.—</td></tr>
-<tr><td colspan="4">1.5 *Zuschlag für Kurzeinquartierungen*</td></tr>
-<tr><td colspan="4">Alle Entschädigungen nach den Ziffern 1.1–1.4 erhöhen sich bei Einquartierungen von bis zu drei Tagen um 25 Prozent.</td></tr>
-<tr><td colspan="4">1.6 *Freiluftbäder*</td></tr>
-<tr><td colspan="4">1.6.1 Für die Benützung von Freiluft- und Hallenbädern, für welche Eintrittspreise erhoben werden, fallen die Kosten zulasten der Dienstkasse. Es können die ortsüblichen Eintrittspreise bis höchstens 7 Franken verrechnet werden.</td></tr>
-<tr><td colspan="4">1.6.2 Die Entschädigung darf je Kalendermonat nur einmal ausbezahlt werden. Über Ausnahmen entscheidet die LBA.</td></tr>
-<tr><td colspan="4">1.7 *Heizung*</td></tr>
-<tr><td colspan="4">1.7.1 Wo Messgeräte vorhanden sind, werden die effektiven Energiekosten zu den ortsüblichen Marktpreisen zulasten der Dienstkasse bezahlt.</td></tr>
-<tr><td colspan="4">1.7.2 Können die tatsächlichen Energiekosten nicht ermittelt werden, so richten sich die Heizungsentschädigungen nach den Ziffern 3.1 und 3.2.</td></tr>
-<tr><td colspan="4">1.8 *Kehrichtentsorgung*</td></tr>
-<tr><td colspan="4">1.8.1 Wird eine Gemeindegebühr für die Kehrichtentsorgung (Container‑, Sack‑, Gewichtsgebühr usw.) erhoben, so können die tatsächlichen Kehrichtentsorgungskosten zum ortsüblichen Tarif zulasten der Dienstkasse bezahlt werden.</td></tr>
-<tr><td colspan="4">1.8.2 Können die tatsächlichen Kehrichtentsorgungskosten nicht ermittelt werden, so können je Person und Tag 10 Rappen für die Haushaltungsabfälle und 10 Rappen für die Küchenabfälle zulasten der Dienstkasse bezahlt werden.</td></tr>
+<tr><th></th><th></th><th>Fr.</th></tr>
+<tr><td>1. Kantonnemente</td><td></td><td></td></tr>
+<tr><td>1.1 Pauschalentschädigung für Hauptnutzflächen in Unterkünften der Truppe. Darin enthalten ist die Entschädigung für den Kantonnementsraum, die Duschen, die Küche sowie den Essraum mit Essgeschirr.</td><td>Je m<sup>2</sup></td><td>0.85</td></tr>
+<tr><td>1.2 *Notunterkunft* [tab] (nur Unterkunftsraum) (Entschädigung erhöht sich bei Einquartierung bis zu 3 Tagen um 25 %).</td><td>Je AdA</td><td>2.10</td></tr>
+<tr><td>1.3 Vergütung für die Vor- und Nachbereitung der Anlage (Erkundung, Anlagen in Betrieb nehmen, Sanitärspülung, Unterstützung bei Bezug Unterkunft, Abnahme/Abgabe Unterkunft, Wäscheservice, Matratzenreinigung) Diese Entschädigung wird pro 30 Belegungstage Pauschal ausbezahlt.</td><td>Bis 499 m<sup>2</sup></td><td>1381.–</td></tr>
+<tr><td></td><td>Von 500 bis 999 m<sup>2</sup></td><td>2072.–</td></tr>
+<tr><td></td><td>Von 1000 bis 1499 m<sup>2</sup></td><td>2763.–</td></tr>
+<tr><td></td><td>Ab 1500 m<sup>2</sup></td><td>3453.–</td></tr>
+<tr><td>1.4 Vergütung für Betreuung der Quartiermeisterin oder des Quartiermeisters während Belegung durch Armee inkl. Pikettdienst. Diese Entschädigung wird pro Belegungstag ausbezahlt.</td><td>Bis 499 m<sup>2</sup></td><td>21.25</td></tr>
+<tr><td></td><td>Von 500 bis 999 m<sup>2</sup></td><td>31.88</td></tr>
+<tr><td></td><td>Von 1000 bis 1499 m<sup>2</sup></td><td>42.50</td></tr>
+<tr><td></td><td>Ab 1500 m<sup>2</sup></td><td>53.13</td></tr>
+<tr><td>1.5 Vergütung für Verbrauchsmaterial. Dies umfasst Seife, WC-/Handpapier, Reinigungsmittel. Diese Entschädigung wird pro 30 Belegungstage Pauschal ausbezahlt.</td><td>Bis 499 m<sup>2</sup></td><td>250.–</td></tr>
+<tr><td></td><td>Von 500 bis 999 m<sup>2</sup></td><td>375.–</td></tr>
+<tr><td></td><td>Von 1000 bis 1499 m<sup>2</sup></td><td>500.–</td></tr>
+<tr><td></td><td>Ab 1500 m<sup>2</sup></td><td>625.–</td></tr>
 </table>
 
 <table>
-<tr><th></th><th>Je Person und Nacht</th><th>Zimmer in</th><th></th></tr>
+<tr><td>1.6 *Freiluft- und Hallenbäder*</td></tr>
+<tr><td>1.6.1 Für die Benützung von Freiluft- und Hallenbädern, für welche Eintrittspreise erhoben werden, fallen die Kosten zulasten der Dienstkasse. Es können die ortsüblichen Eintrittspreise bis höchstens 7 Franken verrechnet werden.</td></tr>
+<tr><td>1.6.2 Die Entschädigung darf je Kalendermonat nur einmal ausbezahlt werden. Über Ausnahmen entscheidet die LBA.</td></tr>
+<tr><td>1.7 *Heizung*</td></tr>
+<tr><td>1.7.1 Wo Messgeräte vorhanden sind, werden die effektiven Energiekosten zu den ortsüblichen Marktpreisen zulasten der Dienstkasse bezahlt.</td></tr>
+<tr><td>1.7.2 Können die tatsächlichen Energiekosten nicht ermittelt werden, so richten sich die Heizungsentschädigungen nach Ziffer 3.1.</td></tr>
+<tr><td>1.8 *Kehrichtentsorgung*</td></tr>
+<tr><td>Wird eine Gemeindegebühr für die Kehrichtentsorgung (Container‑, Sack‑, Gewichtsgebühr usw.) erhoben, so können die tatsächlichen Kehrichtentsorgungskosten zum ortsüblichen Tarif zulasten der Dienstkasse bezahlt werden.</td></tr>
+<tr><td>1.9 Für kurzfristige Absagen unter zwei Wochen gegenüber Unterkunftsgebern der Armee kann den Leistungserbringern durch die Logistikbasis der Armee eine Pauschale von bis zu maximal 1000 Franken zur Entschädigung der bisherigen Aufwände ausbezahlt werden.</td></tr>
+</table>
+
+<table>
+<tr><th></th><th>Je Person und Nacht</th><th colspan="2">Zimmer in</th></tr>
 <tr><th></th><th></th><th>Hotels und Gasthäusern Fr.</th><th>öffentlichen und privaten Gebäuden Fr.</th></tr>
-<tr><td>**2.** **Zimmer**</td><td colspan="3">Die ortsüblichen Zimmerpreise (inkl. Heizung), jedoch höchstens Fr.:</td></tr>
+<tr><td>2. Zimmer</td><td colspan="3">Die ortsüblichen Zimmerpreise (inkl. Heizung), jedoch höchstens Fr.:</td></tr>
 <tr><td>Unterhalt der Zimmer und der persönlichen Ausrüstung durch die Truppe (siehe Art. 68 und 81)</td><td></td><td></td><td></td></tr>
-<tr><td>2.1 Einzelne weibliche Angehörige der Armee, höheres Kader wenn in Zimmer untergebracht</td><td></td><td>100.—</td><td></td></tr>
-<tr><td>2.2 Unteroffizierinnen und Unteroffiziere und Angehörige der Mannschaft, sofern die dienstlichen Verhältnisse eine Benützung von Zimmern zulassen.</td><td></td><td>50.—</td><td></td></tr>
+<tr><td>2.1 Einzelne weibliche Angehörige der Armee, höheres Kader wenn in Zimmer untergebracht</td><td></td><td>100.–</td><td></td></tr>
+<tr><td>2.2 Unteroffizierinnen und Unteroffiziere und Angehörige der Mannschaft, sofern die dienstlichen Verhältnisse eine Benützung von Zimmern zulassen.</td><td></td><td>50.–</td><td></td></tr>
 <tr><td></td><td colspan="3">Die Zimmerentschädigungen erhöhen sich bei Einquartierung bis zu vier Nächten um 25 Prozent</td></tr>
 </table>
 
 <table>
-<tr><th></th><th>Je</th><th>Räume in</th><th></th><th colspan="4">Heizung nur für effektive Heizungstage</th></tr>
-<tr><th></th><th></th><th>Hotels und Gastwirtschaften Fr.</th><th>öffentlichen und privaten Gebäuden Fr.</th><th colspan="4">Fr.</th></tr>
-<tr><td>**3.** **Büros, Postlokale, Untersuchungs- und Kranken****zimmer, Arbeitsräume, Theorie****säle** inkl. Beleuchtung und Einrichtungen</td><td></td><td></td><td></td><td colspan="4"></td></tr>
-<tr><td>3.1 Raum bis zu 30 m<sup>2</sup></td><td>Tag</td><td>15.—</td><td>11.—</td><td colspan="4">2.50</td></tr>
-<tr><td>3.2 Zuschlag für grössere Räume</td><td>je weitere 10 m<sup>2</sup> oder Teile davon/ Tag</td><td>3.—</td><td>3.—</td><td colspan="4">–.50</td></tr>
-<tr><td>3.3 Spezialeinrichtungen für Untersuchungs- und Krankenzimmer:</td><td></td><td></td><td></td><td colspan="4"></td></tr>
-<tr><td>a. Betten mit Matratzen und Wäsche;</td><td>Tag</td><td>2.50</td><td>2.50</td><td colspan="4"></td></tr>
-<tr><td>b. Betten mit Matratzen ohne Wäsche;</td><td>Tag</td><td>1.50</td><td>1.50</td><td colspan="4"></td></tr>
-<tr><td>c. Matratzen mit Bettwäsche</td><td>Tag</td><td>1.50</td><td>1.50</td><td colspan="4"></td></tr>
-<tr><td>Reinigung der Wäsche zulasten der Dienstkasse</td><td></td><td></td><td></td><td colspan="4"></td></tr>
-<tr><td>**4.** **Rapporträume** (gelegentliche Benützung) inkl. Beleuchtung</td><td></td><td></td><td></td><td colspan="4"></td></tr>
-<tr><td>4.1. Raum bis zu 30 m<sup>2</sup></td><td>effektiven Benützungstag</td><td>15.—</td><td>11.—</td><td colspan="4">2.50</td></tr>
-<tr><td>4.2. Zuschlag für grössere Räume</td><td>je weitere 10 m<sup>2</sup> oder Teile davon/ effektiven Benützungstag</td><td>3.—</td><td>3.—</td><td colspan="4">–.50</td></tr>
-<tr><td>**5.** **Magazine** inkl. Beleuchtung</td><td></td><td></td><td></td><td colspan="4"></td></tr>
-<tr><td>5.1 Allgemeine Magazine</td><td></td><td></td><td></td><td colspan="4"></td></tr>
-<tr><td>5.1.1 Raum bis 30 m<sup>2</sup></td><td>Tag</td><td>3.—</td><td>3.—</td><td colspan="4"></td></tr>
-<tr><td>5.1.2 Zuschlag für grössere Räume</td><td>je weitere 10 m<sup>2</sup> oder Teile davon/ Tag</td><td>1.—</td><td>1.—</td><td colspan="4"></td></tr>
-<tr><td>5.2 Eingerichtete Magazine mit Gleisanschluss, Verladerampen, Warenaufzügen und anderen Einrichtungen</td><td></td><td></td><td></td><td colspan="4"></td></tr>
-<tr><td>5.2.1 Raum bis zu 30 m<sup>2</sup></td><td></td><td>5.—</td><td>5.—</td><td colspan="4"></td></tr>
-<tr><td>5.2.2 Zuschlag für grössere Räume</td><td>10 m<sup>2</sup> oder je weitere Teile davon/ Tag</td><td>1.—</td><td>1.—</td><td colspan="4"></td></tr>
-<tr><td>**6.** **Stallungen**</td><td></td><td></td><td></td><td colspan="4"></td></tr>
-<tr><td>6.1 *Pauschalentschädigung* In dieser Entschädigung sind alle Leistungen nach Ziffer 6.2 enthalten. Werden nicht alle Leistungen erbracht, sind die entsprechenden Ansätze in Abzug zu bringen.</td><td>Pferd oder Maultier und Tag</td><td>3.—</td><td></td><td colspan="4"></td></tr>
-<tr><td>6.2 *Einzelne Leistungen*</td><td></td><td></td><td></td><td colspan="4"></td></tr>
-<tr><td>6.2.1 Stallungen</td><td>Pferd oder Maultier und Tag</td><td>2.10</td><td></td><td colspan="4"></td></tr>
-<tr><td>6.2.2 Beleuchtung</td><td>Pferd oder Maultier und Tag</td><td>–.30</td><td></td><td colspan="4"></td></tr>
-<tr><td>6.2.3 Stalleinrichtungen</td><td>Pferd oder Maultier und Tag</td><td>–.60</td><td></td><td colspan="4"></td></tr>
-<tr><td>**7.** **Werkstätte** inkl. Beleuchtung und Heizung</td><td></td><td></td><td></td><td colspan="4"></td></tr>
-<tr><td>7.1 Eingerichtete und ausgerüstete Werkstätte bei Benützung durch Truppenhandwerker/innen</td><td colspan="4">Je effektiven Arbeitsplatz und effektiven Tag 12 Franken</td><td></td><td></td><td></td></tr>
-<tr><td>7.2 Benützung von Maschinen und Werkzeugen</td><td colspan="4">nach ortsüblichen Tarifen</td><td></td><td></td><td></td></tr>
-<tr><td>7.3 Stromverbrauch</td><td colspan="4">nach ortsüblichen Tarifen</td><td></td><td></td><td></td></tr>
-<tr><th></th><th>Je</th><th>Motorräder oder Anhänger der Geländepersonenwagen Fr.</th><th>Motorfahrzeuge bis 3,5 t Gesamtgewicht Fr.</th><th colspan="4">Motorfahrzeuge über 3,5 t Gesamtgewicht Fr.</th></tr>
-<tr><td>**8.** **Garagen und Abstellplätze für Motorfahrzeuge** (bei notwendiger Unterbringung)</td><td></td><td></td><td></td><td colspan="4"></td></tr>
-<tr><td>8.1 Garage (inkl. Licht, Heizung und Wasserverbrauch)</td><td></td><td></td><td></td><td colspan="4"></td></tr>
-<tr><td>– während der ersten 10 Nächte</td><td>Fahrzeug und Nacht</td><td>1.50</td><td>5.—</td><td colspan="4">7.50</td></tr>
-<tr><td>– ab der 11. Nacht</td><td>Fahrzeug und Nacht</td><td>–.75</td><td>2.50</td><td colspan="4">3.75</td></tr>
-<tr><td>8.2 Abstellplatz</td><td colspan="7">Tag</td></tr>
-<tr><td>– bis 1500 m<sup>2</sup></td><td colspan="7">Fr. 50.–</td></tr>
-<tr><td>– ab 1501 m<sup>2</sup></td><td colspan="7">Fr. 80.–</td></tr>
+<tr><th></th><th>Je</th><th>Räume in Fr.</th><th>Heizung nur für effektive Heizungstage Fr.</th></tr>
+<tr><td>3. Büros, Postlokale, Untersuchungs- und Krankenzimmer, Arbeitsräume, Theoriesäle inkl. Beleuchtung und Einrichtungen</td><td></td><td></td><td></td></tr>
+<tr><td>3.1 Raum</td><td>Je m<sup>2</sup> und Tag</td><td>0.75</td><td>14.80</td></tr>
+<tr><td>4. Rapporträume (gelegentliche Benützung) inkl. Beleuchtung</td><td></td><td></td><td></td></tr>
+<tr><td>4.1. Raum</td><td>Je m<sup>2</sup> und Tag</td><td>0.75</td><td>14.80</td></tr>
+<tr><td>5. Magazine inkl. Beleuchtung</td><td></td><td></td><td></td></tr>
+<tr><td>5.1 *Allgemeine Magazine*</td><td></td><td></td><td></td></tr>
+<tr><td>5.1.1 Raum</td><td>Je m<sup>2</sup> und Tag</td><td>0.35</td><td></td></tr>
+<tr><td>6. Stallungen</td><td></td><td></td><td></td></tr>
+<tr><td>6.1 *Pauschalentschädigung* [tab] In dieser Entschädigung sind alle Leistungen nach Ziffer 6.2 enthalten. Werden nicht alle Leistungen erbracht, sind die entsprechenden Ansätze in Abzug zu bringen.</td><td>Pferd oder Maultier und Tag</td><td>8.–</td><td></td></tr>
+<tr><td>6.2 *Einzelne Leistungen*</td><td></td><td></td><td></td></tr>
+<tr><td>6.2.1 Stallungen</td><td>Pferd oder Maultier und Tag</td><td>7.–</td><td></td></tr>
+<tr><td>6.2.2 Beleuchtung</td><td>Pferd oder Maultier und Tag</td><td>0.30</td><td></td></tr>
+<tr><td>6.2.3 Stalleinrichtungen</td><td>Pferd oder Maultier und Tag</td><td>0.60</td><td></td></tr>
+<tr><td>6.2.4 Wasser</td><td>Pferd oder Maultier und Tag</td><td>0.10</td><td></td></tr>
+<tr><td>7. Werkstätte [tab] inkl. Beleuchtung und Heizung</td><td></td><td></td><td></td></tr>
+<tr><td>7.1 Eingerichtete und ausgerüstete Werkstätte bei Benützung durch Truppenhandwerker/innen</td><td colspan="3">Je effektiven Arbeitsplatz und effektiven Tag 12 Franken</td></tr>
+<tr><td>7.2 Benützung von Maschinen und Werkzeugen</td><td colspan="3">nach ortsüblichen Tarifen</td></tr>
+<tr><td>7.3 Stromverbrauch</td><td colspan="3">nach ortsüblichen Tarifen</td></tr>
+</table>
+
+<table>
+<tr><th></th><th>Je</th><th>Motorräder oder Anhänger der Geländepersonenwagen Fr.</th><th>Motorfahrzeuge bis 3,5 t Gesamtgewicht Fr.</th><th>Motorfahrzeuge über 3,5 t Gesamtgewicht Fr.</th></tr>
+<tr><td>8. Garagen und Abstellplätze für Motorfahrzeuge [tab] (bei notwendiger Unterbringung)</td><td></td><td></td><td></td><td></td></tr>
+<tr><td>8.1 Garage (inkl. Licht, Heizung und Wasserverbrauch)</td><td></td><td></td><td></td><td></td></tr>
+<tr><td>– während der ersten 10 Tage</td><td>Fahrzeug und Tag</td><td>1.50</td><td>5.–</td><td>7.50</td></tr>
+<tr><td>– ab dem 11. Tag</td><td>Fahrzeug und Tag</td><td>0.75</td><td>2.50</td><td>3.75</td></tr>
+<tr><td>8.2 Abstellplatz</td><td colspan="4">Tag</td></tr>
+<tr><td>– bis 499 m<sup>2</sup></td><td colspan="4">Fr. 20.–</td></tr>
+<tr><td>– von 500–999 m<sup>2</sup></td><td colspan="4">Fr. 50.–</td></tr>
+<tr><td>– von 1000–1499 m<sup>2</sup></td><td colspan="4">Fr. 80.–</td></tr>
+<tr><td>– über 1500 m<sup>2</sup></td><td colspan="4">Fr. 110.–</td></tr>
+</table>
+
+<table>
+<tr><th></th><th>Je Tag</th></tr>
+<tr><td>9. Flächen für militärische Ausbildungen</td><td></td></tr>
+<tr><td>– bis 499 m<sup>2</sup></td><td>Fr. 30.–</td></tr>
+<tr><td>– von 500–999 m<sup>2</sup></td><td>Fr. 60.–</td></tr>
+<tr><td>– von 1000–1499 m<sup>2</sup></td><td>Fr. 90.–</td></tr>
+<tr><td>– über 1500 m<sup>2</sup></td><td>Fr. 120.–</td></tr>
 </table>
