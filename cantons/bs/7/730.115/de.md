@@ -4,24 +4,23 @@ number: "730.115"
 title: Ausführungsbestimmungen zur Bau- und Planungsverordnung
 short: ABPV
 language: de
-version: 2026-02-11
-valid_until: 2026-05-31
-version_adopted: 2026-02-05
+version: 2026-06-01
+version_adopted: 2026-05-28
 adopted: 2018-03-29
 in_force: 2018-05-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/730.115"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6785/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6828/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Ausführungsbestimmungen zur Bau- und Planungsverordnung
 
-Bau- und Planungsverordnung: Ausführungsbestimmungen | Hochbauten[^t-1]
+Hochbauten[^t-1]
 
 (ABPV)
 
-Vom 29. März 2018 (Stand 11. Februar 2026)
+Vom 29. März 2018 (Stand 1. Juni 2026)
 
 Das Bau- und Gastgewerbeinspektorat des Kantons Basel-Stadt,
 
@@ -127,12 +126,12 @@ beschliesst:
 - e) Gartenhäuser und Geräteschuppen bis zu einer Grundfläche von 10 m² innerhalb des Baugebiets oder innerhalb bewilligter Familiengartenareale;
 - f) die einmalige Errichtung von Provisorien von mehr als zwei Wochen und weniger als 6 Monaten Dauer innerhalb des Baugebiets oder innerhalb bewilligter Familiengartenareale;
 - g) liegende Dachflächenfenster (max. 10% der entsprechenden Dachfläche) in den mit Ziffern bezeichneten Zonen und in der Zone für Nutzungen im öffentlichen Interesse;
-- h) Solaranlagen auf Dächern in der Nummernzone, in der Zone für Nutzungen im öffentlichen Interesse, der Schonzone sowie von inventarisierten Objekten, wenn sie die Dachfläche im rechten Winkel um höchstens 20 cm überragen, von vorne und von oben gesehen nicht über die Dachfläche hinausragen, reflexionsarm ausgeführt werden und als kompakte Fläche zusammenhängen;
+- h) Solaranlagen auf Dächern in der Nummernzone, in der Landwirtschaftszone, in der Zone für Nutzungen im öffentlichen Interesse sowie in der Schonzone, wenn sie gemäss Art. 32a der Raumplanungsverordnung (RPV) vom 28. Juni 2000 genügend angepasst sind;
 - i) Sonnenstoren in Schon- und Schutzzonen;
 - j) unbeleuchtete Firmenaufschriften und Eigenreklamen bis zu einer Fläche von 0,50 m² je Betrieb in Schon- und Schutzzonen;
 - k) Solaranlagen in der Industrie- und Gewerbezone (Zone 7);
 - l) aussen aufgestellte Wärmepumpen im Vorgarten, sofern sie gut in die Umgebung eingebettet sind und eine Abmessung von 100x160x70 cm nicht überschreiten;
-- m) kompakte Solaranlagen an Fassaden in den Zonen 4, 5, 5a und 6, von einer minimalen Grösse von 100 m² und einer minimalen Leistung von 12 kW Peak, die sich gut in die Fassadengestaltung integrieren;
+- m) Solaranlagen an Fassaden in der Nummernzone, in der Landwirtschaftszone, in der Zone für Nutzungen im öffentlichen Interesse sowie in der Schonzone, wenn sie gemäss Art. 32a<sup>bis</sup> RPV genügend angepasst sind;
 - n) aussen aufgestellte Wärmepumpen hinter der Baulinie, sofern sie gut in die Umgebung eingebettet sind und eine Abmessung von 2 m³ nicht überschreiten;
 - o) liegende Dachflächenfenster in allen Zonen, sofern sie im Rahmen einer nur meldepflichtigen Solar- oder PV-Anlage realisiert werden.
 
