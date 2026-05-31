@@ -4,18 +4,18 @@ title: Codice penale militare del 13 giugno 1927 (CPM)
 short: CPM
 eli: "https://fedlex.data.admin.ch/eli/cc/43/359_375_369"
 language: it
-version: 2025-01-01
+version: 2026-06-01
 adopted: 1927-06-13
 in_force: 1928-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/43/359_375_369/20250101/it/xml/fedlex-data-admin-ch-eli-cc-43-359_375_369-20250101-it-xml-9.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/43/359_375_369/20250101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/43/359_375_369/20260601/it/xml/fedlex-data-admin-ch-eli-cc-43-359_375_369-20260601-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/43/359_375_369/20260601/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Codice penale militare
 
-del 13 giugno 1927 (Stato 1° gennaio 2025)
+del 13 giugno 1927 (Stato 1° giugno 2026)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -66,10 +66,10 @@ Sono sottoposti al diritto penale militare:
 - 3\. le persone obbligate al servizio militare che portano l’uniforme fuori del servizio, per i reati di cui agli articoli 61–114 e 138–144;
 - 4\.[^3-3] le persone obbligate al servizio militare, anche fuori del servizio, per quanto concerne la loro posizione militare e i loro doveri di servizio, nonché le persone che erano obbligate al servizio militare, fintanto che non hanno adempiuto i loro doveri di servizio;
 - 5\.[^3-4] le persone soggette all’obbligo di leva per quanto concerne l’obbligo di presentarsi, nonché durante la giornata informativa e le giornate di reclutamento;
-- 6\. i militari di professione, i militari a contratto temporaneo, i membri del Corpo delle guardie di confine, nonché le persone che prestano servizio di promovimento della pace ai sensi dell’articolo 66 della legge militare del 3 febbraio 1995[^3-5], durante il servizio o fuori ma in relazione con i loro doveri di servizio o la loro posizione militare, oppure quando portano l’uniforme;
+- 6\.[^3-5] i militari di professione, i militari a contratto temporaneo nonché le persone che prestano servizio di promovimento della pace ai sensi dell’articolo 66 della legge militare del 3 febbraio 1995[^3-6] (LM), durante il servizio o fuori del servizio ma in relazione con i loro doveri di servizio o la loro posizione militare, oppure quando portano l’uniforme;
 - 7\. le persone di condizione civile o i militari stranieri che si rendono colpevoli di tradimento con la violazione di segreti militari (art. 86), di sabotaggio (art. 86*a*), d’indebolimento della forza difensiva del Paese (art. 94–96), di violazione di segreti militari (art. 106) o di disobbedienza a misure prese dalle autorità militari e civili allo scopo di preparare o di eseguire la mobilitazione dell’esercito o di tutelare il segreto militare (art. 107);
-- 8\.[^3-6] le persone di condizione civile o i militari stranieri, per i reati di cui agli articoli 115–179 da essi commessi in qualità di impiegati o incaricati dell’esercito o dell’amministrazione militare congiuntamente con la truppa;
-- 9\.[^3-7] le persone di condizione civile e i militari stranieri che commettono all’estero contro un militare svizzero un reato previsto dal capo sesto (art. 108 e 109) o sesto<sup>bis</sup> (art. 110–114) della parte seconda o dall’articolo 114*a*.
+- 8\.[^3-7] le persone di condizione civile o i militari stranieri, per i reati di cui agli articoli 115–179 da essi commessi in qualità di impiegati o incaricati dell’esercito o dell’amministrazione militare congiuntamente con la truppa;
+- 9\.[^3-8] le persone di condizione civile e i militari stranieri che commettono all’estero contro un militare svizzero un reato previsto dal capo sesto (art. 108 e 109) o sesto<sup>bis</sup> (art. 110–114) della parte seconda o dall’articolo 114*a*.
 
 <sup>2</sup> Le persone di cui al capoverso 1 numeri 1, 2, 6, e 8 sono assoggettate al diritto penale militare per tutta la durata del loro impiego all’estero qualora commettano all’estero un reato ai sensi del presente codice.
 
@@ -77,9 +77,10 @@ Sono sottoposti al diritto penale militare:
 [^3-2]: Nuovo testo giusta la cifra I della LF del 3 ott. 2008 (Modifiche in seguito alla revisione della parte generale del CPM e altri adeguamenti), in vigore dal 1° mar. 2009 ([RU 2009 701](https://fedlex.data.admin.ch/eli/oc/2009/117); [FF 2007 7545](https://fedlex.data.admin.ch/eli/fga/2007/1322)).
 [^3-3]: Nuovo testo giusta la cifra I della LF del 3 ott. 2008 (Modifiche in seguito alla revisione della parte generale del CPM e altri adeguamenti), in vigore dal 1° mar. 2009 ([RU 2009 701](https://fedlex.data.admin.ch/eli/oc/2009/117); [FF 2007 7545](https://fedlex.data.admin.ch/eli/fga/2007/1322)).
 [^3-4]: Nuovo testo giusta l’all. n. 3 della LF del 19 mar. 2010, in vigore dal 1° gen. 2011 ([RU 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869); [FF 2009 5137](https://fedlex.data.admin.ch/eli/fga/2009/1057)).
-[^3-5]: [RS 510.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7242)
-[^3-6]: Nuovo testo giusta la cifra I della LF del 3 ott. 2008 (Modifiche in seguito alla revisione della parte generale del CPM e altri adeguamenti), in vigore dal 1° mar. 2009 ([RU 2009 701](https://fedlex.data.admin.ch/eli/oc/2009/117); [FF 2007 7545](https://fedlex.data.admin.ch/eli/fga/2007/1322)).
-[^3-7]: Nuovo testo giusta la cifra I n. 2 della LF del 18 giu. 2010 sulla modifica di leggi federali per l’attuazione dello Statuto di Roma della Corte penale internazionale, in vigore dal 1° gen. 2011 ([RU 2010 4963](https://fedlex.data.admin.ch/eli/oc/2010/704); [FF 2008 3293](https://fedlex.data.admin.ch/eli/fga/2008/807)).
+[^3-5]: Nuovo testo giusta l’all. n. 1 della LF del 19 dic. 2025, in vigore dal 1° giu. 2026 ([RU 2026 164](https://fedlex.data.admin.ch/eli/oc/2026/164); [FF 2025 960](https://fedlex.data.admin.ch/eli/fga/2025/960)).
+[^3-6]: [RS 510.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7242)
+[^3-7]: Nuovo testo giusta la cifra I della LF del 3 ott. 2008 (Modifiche in seguito alla revisione della parte generale del CPM e altri adeguamenti), in vigore dal 1° mar. 2009 ([RU 2009 701](https://fedlex.data.admin.ch/eli/oc/2009/117); [FF 2007 7545](https://fedlex.data.admin.ch/eli/fga/2007/1322)).
+[^3-8]: Nuovo testo giusta la cifra I n. 2 della LF del 18 giu. 2010 sulla modifica di leggi federali per l’attuazione dello Statuto di Roma della Corte penale internazionale, in vigore dal 1° gen. 2011 ([RU 2010 4963](https://fedlex.data.admin.ch/eli/oc/2010/704); [FF 2008 3293](https://fedlex.data.admin.ch/eli/fga/2008/807)).
 
 ### Estensione in caso di servizio attivo
 
@@ -1599,30 +1600,31 @@ La pena è una pena detentiva sino a tre anni o una pena pecuniaria se il colpev
 È punito con una pena detentiva fino a diciotto mesi o con una pena pecuniaria chiunque, nell’intenzione di rifiutare il servizio militare:
 
 - a. non partecipa alla giornata informativa o al reclutamento;
-- a<sup>bis</sup>.[^81-2] non si presenta all’audizione personale nel caso di controlli di sicurezza relativi alle persone o alla visita medica nel caso di un nuovo esame dell’idoneità al servizio;
+- a<sup>bis</sup>.[^81-2] non dà seguito a una convocazione ufficiale di cui all’articolo 26 LM[^81-3];
 - b. non si presenta a un servizio al quale è convocato;
 - c. abbandona senza permesso la sua truppa o il posto di servizio;
 - d. non vi ritorna dopo un’assenza giustificata;
-- e. disobbedisce, dopo l’entrata in servizio militare, a un ordine a lui diretto concernente il servizio.[^81-3]
+- e. disobbedisce, dopo l’entrata in servizio militare, a un ordine a lui diretto concernente il servizio.[^81-4]
 
-<sup>1bis</sup> In caso di reati secondo il capoverso 1, la pena pecuniaria o l’esecuzione in forma di lavoro di pubblica utilità sono escluse se è pronunciata anche l’esclusione dall’esercito secondo l’articolo 49.[^81-4]
+<sup>1bis</sup> In caso di reati secondo il capoverso 1, la pena pecuniaria o l’esecuzione in forma di lavoro di pubblica utilità sono escluse se è pronunciata anche l’esclusione dall’esercito secondo l’articolo 49.[^81-5]
 
 <sup>2</sup> In servizio attivo la pena è una pena detentiva o pecuniaria.
 
-<sup>3</sup> Chiunque, quale membro di una comunità religiosa, rifiuta per motivi religiosi di prestare servizio militare e non presenta una domanda d’ammissione al servizio civile è dichiarato colpevole e viene obbligato a prestare un lavoro di pubblico interesse, la cui durata è stabilita conformemente all’articolo 8 della legge del 6 ottobre 1995[^81-5] sul servizio civile. La prestazione di lavoro si svolge nell’ambito e giusta le prescrizioni del servizio civile. Il giudice può pronunciare l’esclusione dall’esercito.
+<sup>3</sup> Chiunque, quale membro di una comunità religiosa, rifiuta per motivi religiosi di prestare servizio militare e non presenta una domanda d’ammissione al servizio civile è dichiarato colpevole e viene obbligato a prestare un lavoro di pubblico interesse, la cui durata è stabilita conformemente all’articolo 8 della legge del 6 ottobre 1995[^81-6] sul servizio civile. La prestazione di lavoro si svolge nell’ambito e giusta le prescrizioni del servizio civile. Il giudice può pronunciare l’esclusione dall’esercito.
 
 <sup>4</sup> Chiunque rende verosimile di non poter conciliare con la propria coscienza il servizio d’istruzione per conseguire un grado superiore, ma è disposto a prestare servizio militare con il suo grado attuale, viene obbligato a prestare un lavoro di pubblico interesse. Quest’ultimo dura di regola 1,1 volte la durata del servizio d’istruzione rifiutato e si svolge nell’ambito e secondo le prescrizioni del servizio civile.
 
 <sup>5</sup> Il Consiglio federale emana le necessarie disposizioni completive per l’esecuzione della prestazione di lavoro di cui ai capoversi 3 e 4.
 
-<sup>6</sup> È fatto salvo l’articolo 84.[^81-6]
+<sup>6</sup> È fatto salvo l’articolo 84.[^81-7]
 
 [^81-1]: Nuovo testo giusta l’all. n. 5 della LF del 6 ott. 1995 sul servizio civile sostitutivo, in vigore dal 1° ott. 1996 ([RU 1996 1445](https://fedlex.data.admin.ch/eli/oc/1996/1445_1445_1445); [FF 1994 III 1445](https://fedlex.data.admin.ch/eli/fga/1994/3_1609_1579_1445)).
-[^81-2]: Introdotta dall’all. n. 1 della LF del 18 mar. 2022, in vigore dal 1° gen. 2023 ([RU 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [FF 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
-[^81-3]: Nuovo testo giusta la cifra IV lett. b della LF del 3 ott. 2003 (Revisione dell’ordinamento disciplinare), in vigore dal 1° mar. 2004 ([RU 2004 921](https://fedlex.data.admin.ch/eli/oc/2004/107); FF **2002** 6968).
-[^81-4]: Introdotto dalla cifra IV lett. b della LF del 3 ott. 2003 (Revisione dell’ordinamento disciplinare ([RU 2004 921](https://fedlex.data.admin.ch/eli/oc/2004/107); FF **2002** 6968). Nuovo testo giusta la cifra I n. 2 della LF del 19 giu. 2015 (Modifica della disciplina delle sanzioni), in vigore dal 1° gen. 2018 ([RU 2016 1249](https://fedlex.data.admin.ch/eli/oc/2016/249); [FF 2012 4181](https://fedlex.data.admin.ch/eli/fga/2012/670)).
-[^81-5]: [RS 824.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9978)
-[^81-6]: Nuovo testo giusta la cifra II n. 2 della LF del 25 set. 2015, in vigore dal 1° lug. 2016 ([RU 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 5749](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
+[^81-2]: Introdotta dall’all. n. 1 della LF del 18 mar. 2022 ([RU 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [FF 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)). Nuovo testo giusta l’all. n. 1 della LF del 19 dic. 2025, in vigore dal 1° giu. 2026 ([RU 2026 164](https://fedlex.data.admin.ch/eli/oc/2026/164); [FF 2025 960](https://fedlex.data.admin.ch/eli/fga/2025/960)).
+[^81-3]: [RS 510.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7242)
+[^81-4]: Nuovo testo giusta la cifra IV lett. b della LF del 3 ott. 2003 (Revisione dell’ordinamento disciplinare), in vigore dal 1° mar. 2004 ([RU 2004 921](https://fedlex.data.admin.ch/eli/oc/2004/107); FF **2002** 6968).
+[^81-5]: Introdotto dalla cifra IV lett. b della LF del 3 ott. 2003 (Revisione dell’ordinamento disciplinare ([RU 2004 921](https://fedlex.data.admin.ch/eli/oc/2004/107); FF **2002** 6968). Nuovo testo giusta la cifra I n. 2 della LF del 19 giu. 2015 (Modifica della disciplina delle sanzioni), in vigore dal 1° gen. 2018 ([RU 2016 1249](https://fedlex.data.admin.ch/eli/oc/2016/249); [FF 2012 4181](https://fedlex.data.admin.ch/eli/fga/2012/670)).
+[^81-6]: [RS 824.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9978)
+[^81-7]: Nuovo testo giusta la cifra II n. 2 della LF del 25 set. 2015, in vigore dal 1° lug. 2016 ([RU 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 5749](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
 
 ### Omissione del servizio e assenza ingiustificata
 
@@ -1635,25 +1637,26 @@ La pena è una pena detentiva sino a tre anni o una pena pecuniaria se il colpev
 È punito con una pena pecuniaria chiunque[^82-2], senza l’intenzione di rifiutare il servizio militare:
 
 - a. non partecipa alla giornata informativa o al reclutamento;
-- a<sup>bis</sup>.[^82-3] non si presenta all’audizione personale nel caso di controlli di sicurezza relativi alle persone o alla visita medica nel caso di un nuovo esame dell’idoneità al servizio;
+- a<sup>bis</sup>.[^82-3] non dà seguito a una convocazione ufficiale di cui all’articolo 26 LM[^82-4];
 - b. non si presenta a un servizio al quale è convocato;
 - c. abbandona senza permesso la sua truppa o il posto di servizio;
-- d. non vi ritorna dopo un’assenza giustificata.[^82-4]
+- d. non vi ritorna dopo un’assenza giustificata.[^82-5]
 
 <sup>2</sup> Nei casi poco gravi si applica una pena disciplinare.
 
 <sup>3</sup> In servizio attivo la pena è una pena detentiva sino a tre anni o una pena pecuniaria.
 
-<sup>4</sup> Se più tardi l’autore si presenta spontaneamente in servizio, il giudice può attenuare la pena (art. 42*a*).[^82-5]
+<sup>4</sup> Se più tardi l’autore si presenta spontaneamente in servizio, il giudice può attenuare la pena (art. 42*a*).[^82-6]
 
-<sup>5</sup> È fatto salvo l’articolo 84.[^82-6]
+<sup>5</sup> È fatto salvo l’articolo 84.[^82-7]
 
 [^82-1]: Nuovo testo giusta l’all. n. 5 della LF del 6 ott. 1995 sul servizio civile sostitutivo, in vigore dal 1° ott. 1996 ([RU 1996 1445](https://fedlex.data.admin.ch/eli/oc/1996/1445_1445_1445); [FF 1994 III 1445](https://fedlex.data.admin.ch/eli/fga/1994/3_1609_1579_1445)).
 [^82-2]: Nuova comminatoria giusta la cifra II n. 2 della LF del 19 giu. 2015 (Modifica della disciplina delle sanzioni), in vigore dal 1° gen. 2018 ([RU 2016 1249](https://fedlex.data.admin.ch/eli/oc/2016/249); [FF 2012 4181](https://fedlex.data.admin.ch/eli/fga/2012/670)).
-[^82-3]: Introdotta dall’all. n. 1 della LF del 18 mar. 2022, in vigore dal 1° gen. 2023 ([RU 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [FF 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
-[^82-4]: Nuovo testo giusta la cifra I della LF del 3 ott. 2003 (Revisione dell’ordinamento disciplinare), in vigore dal 1° mar. 2004 ([RU 2004 921](https://fedlex.data.admin.ch/eli/oc/2004/107); FF **2002** 6968).
-[^82-5]: Nuovo testo giusta la cifra II n. 2 della LF del 21 mar. 2003, in vigore dal 1° gen. 2007 ([RU 2006 3389](https://fedlex.data.admin.ch/eli/oc/2006/538); FF **1999** 1669).
-[^82-6]: Nuovo testo giusta la cifra II n. 2 della LF del 25 set. 2015, in vigore dal 1° lug. 2016 ([RU 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 5749](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
+[^82-3]: Introdotta dall’all. n. 1 della LF del 18 mar. 2022 ([RU 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [FF 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)). Nuovo testo giusta l’all. n. 1 della LF del 19 dic. 2025, in vigore dal 1° giu. 2026 ([RU 2026 164](https://fedlex.data.admin.ch/eli/oc/2026/164); [FF 2025 960](https://fedlex.data.admin.ch/eli/fga/2025/960)).
+[^82-4]: [RS 510.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7242)
+[^82-5]: Nuovo testo giusta la cifra I della LF del 3 ott. 2003 (Revisione dell’ordinamento disciplinare), in vigore dal 1° mar. 2004 ([RU 2004 921](https://fedlex.data.admin.ch/eli/oc/2004/107); FF **2002** 6968).
+[^82-6]: Nuovo testo giusta la cifra II n. 2 della LF del 21 mar. 2003, in vigore dal 1° gen. 2007 ([RU 2006 3389](https://fedlex.data.admin.ch/eli/oc/2006/538); FF **1999** 1669).
+[^82-7]: Nuovo testo giusta la cifra II n. 2 della LF del 25 set. 2015, in vigore dal 1° lug. 2016 ([RU 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 5749](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
 
 ### Omissione del servizio per negligenza
 
@@ -1666,23 +1669,24 @@ La pena è una pena detentiva sino a tre anni o una pena pecuniaria se il colpev
 È punito con la multa[^83-2] chiunque, per negligenza:
 
 - a. non partecipa alla giornata informativa o al reclutamento;
-- a<sup>bis</sup>.[^83-3] non si presenta all’audizione personale nel caso di controlli di sicurezza relativi alle persone o alla visita medica nel caso di un nuovo esame dell’idoneità al servizio;
+- a<sup>bis</sup>.[^83-3] non dà seguito a una convocazione ufficiale di cui all’articolo 26 LM[^83-4];
 - b. non si presenta a un servizio al quale è convocato;
 - c. abbandona senza permesso la sua truppa o il posto di servizio;
-- d. non vi ritorna dopo un’assenza giustificata.[^83-4]
+- d. non vi ritorna dopo un’assenza giustificata.[^83-5]
 
 <sup>2</sup> Nei casi poco gravi si applica una pena disciplinare.
 
-<sup>3</sup> In servizio attivo il giudice può pronunciare una pena pecuniaria sino a 90 aliquote giornaliere[^83-5].
+<sup>3</sup> In servizio attivo il giudice può pronunciare una pena pecuniaria sino a 90 aliquote giornaliere[^83-6].
 
-<sup>4</sup> È fatto salvo l’articolo 84.[^83-6]
+<sup>4</sup> È fatto salvo l’articolo 84.[^83-7]
 
 [^83-1]: Nuovo testo giusta l’all. n. 5 della LF del 6 ott. 1995 sul servizio civile sostitutivo, in vigore dal 1° ott. 1996 ([RU 1996 1445](https://fedlex.data.admin.ch/eli/oc/1996/1445_1445_1445); [FF 1994 III 1445](https://fedlex.data.admin.ch/eli/fga/1994/3_1609_1579_1445)).
 [^83-2]: Nuova espr. giusta la cifra II n. 1 cpv. 5 della LF del 21 mar. 2003, in vigore dal 1° gen. 2007 ([RU 2006 3389](https://fedlex.data.admin.ch/eli/oc/2006/538); FF **1999** 1669). Di detta mod. è tenuto conto in tutto il presente testo.
-[^83-3]: Introdotta dall’all. n. 1 della LF del 18 mar. 2022, in vigore dal 1° gen. 2023 ([RU 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [FF 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
-[^83-4]: Nuovo testo giusta la cifra I della LF del 3 ott. 2003 (Revisione dell’ordinamento disciplinare), in vigore dal 1° mar. 2004 ([RU 2004 921](https://fedlex.data.admin.ch/eli/oc/2004/107); FF **2002** 6968).
-[^83-5]: Nuova espr. giusta la cifra II n. 1 cpv. 17 della LF del 21 mar. 2003, in vigore dal 1° gen. 2007 ([RU 2006 3389](https://fedlex.data.admin.ch/eli/oc/2006/538); FF **1999** 1669). Di detta mod. è tenuto conto in tutto il presente testo.
-[^83-6]: Nuovo testo giusta la cifra II n. 3 della LF del 25 set. 2015, in vigore dal 1° lug. 2016 ([RU 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 5749](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
+[^83-3]: Introdotta dall’all. n. 1 della LF del 18 mar. 2022 ([RU 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [FF 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)). Nuovo testo giusta l’all. n. 1 della LF del 19 dic. 2025, in vigore dal 1° giu. 2026 ([RU 2026 164](https://fedlex.data.admin.ch/eli/oc/2026/164); [FF 2025 960](https://fedlex.data.admin.ch/eli/fga/2025/960)).
+[^83-4]: [RS 510.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7242)
+[^83-5]: Nuovo testo giusta la cifra I della LF del 3 ott. 2003 (Revisione dell’ordinamento disciplinare), in vigore dal 1° mar. 2004 ([RU 2004 921](https://fedlex.data.admin.ch/eli/oc/2004/107); FF **2002** 6968).
+[^83-6]: Nuova espr. giusta la cifra II n. 1 cpv. 17 della LF del 21 mar. 2003, in vigore dal 1° gen. 2007 ([RU 2006 3389](https://fedlex.data.admin.ch/eli/oc/2006/538); FF **1999** 1669). Di detta mod. è tenuto conto in tutto il presente testo.
+[^83-7]: Nuovo testo giusta la cifra II n. 3 della LF del 25 set. 2015, in vigore dal 1° lug. 2016 ([RU 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [FF 2014 5749](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
 
 ### Reati contro i doveri del servizio in caso di ammissione al servizio civile, assegnazione al servizio non armato e inabilità al servizio
 

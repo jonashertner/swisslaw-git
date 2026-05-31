@@ -4,11 +4,11 @@ title: Militärstrafgesetz vom 13. Juni 1927 (MStG)
 short: MStG
 eli: "https://fedlex.data.admin.ch/eli/cc/43/359_375_369"
 language: de
-version: 2025-01-01
+version: 2026-06-01
 adopted: 1927-06-13
 in_force: 1928-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/43/359_375_369/20250101/de/xml/fedlex-data-admin-ch-eli-cc-43-359_375_369-20250101-de-xml-9.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/43/359_375_369/20250101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/43/359_375_369/20260601/de/xml/fedlex-data-admin-ch-eli-cc-43-359_375_369-20260601-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/43/359_375_369/20260601/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/43/359_375_369/20250101/de"
 
 (MStG)
 
-vom 13. Juni 1927 (Stand am 1. Januar 2025)
+vom 13. Juni 1927 (Stand am 1. Juni 2026)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -68,18 +68,19 @@ Dem Militärstrafrecht unterstehen:
 - 3\. Dienstpflichtige, die ausserhalb des Dienstes in Uniform auftreten, für strafbare Handlungen nach den Artikeln 61–114 und 138–144;
 - 4\. Dienstpflichtige ausserhalb des Dienstes in Bezug auf ihre militärische Stellung und ihre dienstlichen Pflichten sowie ehemalige Dienstpflichtige, soweit ihre dienstlichen Pflichten nicht erfüllt sind.
 - 5\. Stellungspflichtige mit Bezug auf ihre Stellungspflicht sowie während des Orientierungstags und während der Dauer der Rekrutierungstage;
-- 6\. Berufs- und Zeitmilitärs, die Angehörigen des Grenzwachtkorps sowie Personen, die nach Artikel 66 des Militärgesetzes vom 3. Februar 1995[^3-3] Friedensförderungsdienst leisten, während der Ausübung des Dienstes, ausserhalb des Dienstes mit Bezug auf ihre dienstlichen Pflichten und ihre dienstliche Stellung oder wenn sie die Uniform tragen;
+- 6\.[^3-3] Berufs- und Zeitmilitärs sowie Personen, die nach Artikel 66 des Militärgesetzes vom 3. Februar 1995[^3-4] (MG) Friedensförderungsdienst leisten, während der Ausübung des Dienstes, ausserhalb des Dienstes mit Bezug auf ihre dienstlichen Pflichten und ihre dienstliche Stellung oder wenn sie die Uniform tragen;
 - 7\. Zivilpersonen oder ausländische Militärpersonen, die sich schuldig machen der landesverräterischen Verletzung militärischer Geheimnisse (Art. 86), der Sabotage (Art. 86*a*), der Schwächung der Wehrkraft (Art. 94–96), der Verletzung militärischer Geheimnisse (Art. 106) oder des Ungehorsams gegen militärische und behördliche Massnahmen, die der Vorbereitung oder Durchführung der Mobilmachung der Armee oder der Wahrung des militärischen Geheimnisses dienen (Art. 107);
-- 8\.[^3-4] Zivilpersonen oder ausländische Militärpersonen für Taten nach den Artikeln 115–179, die sie als Angestellte oder Beauftragte der Armee oder der Militärverwaltung im Zusammenwirken mit der Truppe begehen;
-- 9\.[^3-5] Zivilpersonen und ausländische Militärpersonen, die im Ausland gegen einen Angehörigen der Schweizer Armee eine Tat nach dem sechsten Abschnitt (Art. 108 und 109) oder dem sechsten Abschnitt<sup>bis</sup> (Art. 110–114) des zweiten Teils oder nach Artikel 114*a* begehen.
+- 8\.[^3-5] Zivilpersonen oder ausländische Militärpersonen für Taten nach den Artikeln 115–179, die sie als Angestellte oder Beauftragte der Armee oder der Militärverwaltung im Zusammenwirken mit der Truppe begehen;
+- 9\.[^3-6] Zivilpersonen und ausländische Militärpersonen, die im Ausland gegen einen Angehörigen der Schweizer Armee eine Tat nach dem sechsten Abschnitt (Art. 108 und 109) oder dem sechsten Abschnitt<sup>bis</sup> (Art. 110–114) des zweiten Teils oder nach Artikel 114*a* begehen.
 
 <sup>2</sup> Die Personen nach Absatz 1 Ziffern 1, 2, 6 und 8 unterstehen für die ganze Dauer ihres Auslandeinsatzes dem Militärstrafrecht, wenn sie im Ausland eine nach diesem Gesetz strafbare Handlung begehen.
 
 [^3-1]: Fassung gemäss Ziff. IV Bst. a des BG vom 3. Okt. 2003 (Revision der Disziplinarstrafordnung), in Kraft seit 1. März 2004 ([AS 2004 921](https://fedlex.data.admin.ch/eli/oc/2004/107); [BBl 2002 7859](https://fedlex.data.admin.ch/eli/fga/2002/1270)).
 [^3-2]: Fassung gemäss Ziff. I des BG vom 3. Okt. 2008 (Korrekturen infolge der Revision des AT MStG und weitere Anpassungen), in Kraft seit 1. März 2009 ([AS 2009 701](https://fedlex.data.admin.ch/eli/oc/2009/117); [BBl 2007 8353](https://fedlex.data.admin.ch/eli/fga/2007/1322)).
-[^3-3]: [SR 510.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7242)
-[^3-4]: Fassung gemäss Ziff. I des BG vom 3. Okt. 2008 (Korrekturen infolge der Revision des AT MStG und weitere Anpassungen), in Kraft seit 1. März 2009 ([AS 2009 701](https://fedlex.data.admin.ch/eli/oc/2009/117); [BBl 2007 8353](https://fedlex.data.admin.ch/eli/fga/2007/1322)).
-[^3-5]: Fassung gemäss Ziff. I 2 des BG vom 18. Juni 2010 über die Änderung von Bundesge-setzen zur Umsetzung des Römer Statuts des Internationalen Strafgerichtshofs, in Kraft seit 1. Jan. 2011 ([AS 2010 4963](https://fedlex.data.admin.ch/eli/oc/2010/704); [BBl 2008 3863](https://fedlex.data.admin.ch/eli/fga/2008/807)).
+[^3-3]: Fassung gemäss Anhang Ziff. 1 des BG vom 19. Dez. 2025, in Kraft seit 1. Juni 2026 ([AS 2026 164](https://fedlex.data.admin.ch/eli/oc/2026/164); [BBl 2025 960](https://fedlex.data.admin.ch/eli/fga/2025/960)).
+[^3-4]: [SR 510.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7242)
+[^3-5]: Fassung gemäss Ziff. I des BG vom 3. Okt. 2008 (Korrekturen infolge der Revision des AT MStG und weitere Anpassungen), in Kraft seit 1. März 2009 ([AS 2009 701](https://fedlex.data.admin.ch/eli/oc/2009/117); [BBl 2007 8353](https://fedlex.data.admin.ch/eli/fga/2007/1322)).
+[^3-6]: Fassung gemäss Ziff. I 2 des BG vom 18. Juni 2010 über die Änderung von Bundesge-setzen zur Umsetzung des Römer Statuts des Internationalen Strafgerichtshofs, in Kraft seit 1. Jan. 2011 ([AS 2010 4963](https://fedlex.data.admin.ch/eli/oc/2010/704); [BBl 2008 3863](https://fedlex.data.admin.ch/eli/fga/2008/807)).
 
 ### Erweiterte Geltung im Fall aktiven Dienstes
 
@@ -1608,30 +1609,31 @@ Hat der Täter in diesem selbstverschuldeten Zustand eine mit Freiheitsstrafe al
 Mit Freiheitsstrafe bis zu 18 Monaten oder Geldstrafe wird bestraft, wer in der Absicht, den Militärdienst zu verweigern:
 
 - a. nicht am Orientierungstag oder an der Rekrutierung teilnimmt;
-- a<sup>bis</sup>.[^81-2] den Termin für die persönliche Befragung bei Personensicherheitsprüfungen oder für die medizinische Untersuchung zur Neubeurteilung der Tauglichkeit nicht wahrnimmt;
+- a<sup>bis</sup>.[^81-2] einen Amtstermin nach Artikel 26 MG[^81-3] nicht wahrnimmt;
 - b. eine Militärdienstleistung, zu der er aufgeboten ist, nicht antritt;
 - c. seine Truppe oder Dienststelle ohne Erlaubnis verlässt;
 - d. nach einer rechtmässigen Abwesenheit nicht zurückkehrt; oder
-- e. nach Antritt der Militärdienstleistung einem an ihn gerichteten Befehl in Dienstsachen nicht gehorcht.[^81-3]
+- e. nach Antritt der Militärdienstleistung einem an ihn gerichteten Befehl in Dienstsachen nicht gehorcht.[^81-4]
 
-<sup>1bis</sup> Für eine strafbare Handlung nach Absatz 1 ist eine Geldstrafe oder der Vollzug in Form gemeinnütziger Arbeit bei gleichzeitigem Ausschluss aus der Armee nach Artikel 49 ausgeschlossen.[^81-4]
+<sup>1bis</sup> Für eine strafbare Handlung nach Absatz 1 ist eine Geldstrafe oder der Vollzug in Form gemeinnütziger Arbeit bei gleichzeitigem Ausschluss aus der Armee nach Artikel 49 ausgeschlossen.[^81-5]
 
 <sup>2</sup> Im Aktivdienst ist die Strafe Freiheitsstrafe oder Geldstrafe.
 
-<sup>3</sup> Wer als Angehöriger einer religiösen Gemeinschaft aus religiösen Gründen den Militärdienst verweigert und kein Gesuch um Zulassung zum Zivildienst stellt, wird schuldig erklärt und zu einer Arbeitsleistung im öffentlichen Interesse verpflichtet, deren Dauer sich in der Regel nach Artikel 8 des Zivildienstgesetzes vom 6. Oktober 1995[^81-5] richtet. Die Arbeitsleistung wird im Rahmen und nach den Vorschriften des Zivildienstes vollzogen. Das Gericht kann den Täter aus der Armee ausschliessen.
+<sup>3</sup> Wer als Angehöriger einer religiösen Gemeinschaft aus religiösen Gründen den Militärdienst verweigert und kein Gesuch um Zulassung zum Zivildienst stellt, wird schuldig erklärt und zu einer Arbeitsleistung im öffentlichen Interesse verpflichtet, deren Dauer sich in der Regel nach Artikel 8 des Zivildienstgesetzes vom 6. Oktober 1995[^81-6] richtet. Die Arbeitsleistung wird im Rahmen und nach den Vorschriften des Zivildienstes vollzogen. Das Gericht kann den Täter aus der Armee ausschliessen.
 
 <sup>4</sup> Wer glaubhaft darlegt, dass er den Ausbildungsdienst für einen höheren Grad mit seinem Gewissen nicht vereinbaren kann, aber bereit ist, im bisherigen Grad Militärdienst zu leisten, wird zu einer Arbeitsleistung im öffentlichen Interesse verpflichtet. Sie dauert in der Regel 1,1‑mal so lange wie der verweigerte Ausbildungsdienst zur Erreichung des höheren Grades und wird im Rahmen und nach den Vorschriften des Zivildienstes vollzogen.
 
 <sup>5</sup> Der Bundesrat erlässt die für den Vollzug der Arbeitsleistung nach den Absätzen 3 und 4 erforderlichen ergänzenden Bestimmungen.
 
-<sup>6</sup> Artikel 84 bleibt vorbehalten.[^81-6]
+<sup>6</sup> Artikel 84 bleibt vorbehalten.[^81-7]
 
 [^81-1]: Fassung gemäss Anhang Ziff. 5 des Zivildienstgesetzes vom 6. Okt. 1995, in Kraft seit 1. Okt. 1996 ([AS 1996 1445](https://fedlex.data.admin.ch/eli/oc/1996/1445_1445_1445); [BBl 1994 III 1609](https://fedlex.data.admin.ch/eli/fga/1994/3_1609_1579_1445)).
-[^81-2]: Eingefügt durch Anhang Ziff. 1 des BG vom 18. März 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [BBl 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
-[^81-3]: Fassung gemäss Ziff. IV Bst. b des BG vom 3. Okt. 2003 (Revision der Disziplinarstrafordnung), in Kraft seit 1. März 2004 ([AS 2004 921](https://fedlex.data.admin.ch/eli/oc/2004/107); [BBl 2002 7859](https://fedlex.data.admin.ch/eli/fga/2002/1270)).
-[^81-4]: Eingefügt durch Ziff. IV Bst. b des BG vom 3. Okt. 2003 (Revision der Disziplinarstrafordnung) ([AS 2004 921](https://fedlex.data.admin.ch/eli/oc/2004/107); [BBl 2002 7859](https://fedlex.data.admin.ch/eli/fga/2002/1270)). Fassung gemäss Ziff. I 2 des BG vom 19. Juni 2015 (Änderungen des Sanktionenrechts), in Kraft seit 1. Jan. 2018 ([AS 2016 1249](https://fedlex.data.admin.ch/eli/oc/2016/249); [BBl 2012 4721](https://fedlex.data.admin.ch/eli/fga/2012/670)).
-[^81-5]: [SR 824.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9978)
-[^81-6]: Fassung gemäss Ziff. II 2 des BG vom 25. Sept. 2015, in Kraft seit 1. Juli 2016 ([AS 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [BBl 2014 6741](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
+[^81-2]: Eingefügt durch Anhang Ziff. 1 des BG vom 18. März 2022 ([AS 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [BBl 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)). Fassung gemäss Anhang Ziff. 1 des BG vom 19. Dez. 2025, in Kraft seit 1. Juni 2026 ([AS 2026 164](https://fedlex.data.admin.ch/eli/oc/2026/164); [BBl 2025 960](https://fedlex.data.admin.ch/eli/fga/2025/960)).
+[^81-3]: [SR 510.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7242)
+[^81-4]: Fassung gemäss Ziff. IV Bst. b des BG vom 3. Okt. 2003 (Revision der Disziplinarstrafordnung), in Kraft seit 1. März 2004 ([AS 2004 921](https://fedlex.data.admin.ch/eli/oc/2004/107); [BBl 2002 7859](https://fedlex.data.admin.ch/eli/fga/2002/1270)).
+[^81-5]: Eingefügt durch Ziff. IV Bst. b des BG vom 3. Okt. 2003 (Revision der Disziplinarstrafordnung) ([AS 2004 921](https://fedlex.data.admin.ch/eli/oc/2004/107); [BBl 2002 7859](https://fedlex.data.admin.ch/eli/fga/2002/1270)). Fassung gemäss Ziff. I 2 des BG vom 19. Juni 2015 (Änderungen des Sanktionenrechts), in Kraft seit 1. Jan. 2018 ([AS 2016 1249](https://fedlex.data.admin.ch/eli/oc/2016/249); [BBl 2012 4721](https://fedlex.data.admin.ch/eli/fga/2012/670)).
+[^81-6]: [SR 824.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9978)
+[^81-7]: Fassung gemäss Ziff. II 2 des BG vom 25. Sept. 2015, in Kraft seit 1. Juli 2016 ([AS 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [BBl 2014 6741](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
 
 ### Militärdienstversäumnis und unerlaubte Entfernung
 
@@ -1644,25 +1646,26 @@ Mit Freiheitsstrafe bis zu 18 Monaten oder Geldstrafe wird bestraft, wer in der 
 Mit Geldstrafe wird bestraft, wer ohne Absicht, den Militärdienst zu verweigern:[^82-2]
 
 - a. nicht am Orientierungstag oder an der Rekrutierung teilnimmt;
-- a<sup>bis</sup>.[^82-3] den Termin für die persönliche Befragung bei Personensicherheitsprüfungen oder für die medizinische Untersuchung zur Neubeurteilung der Tauglichkeit nicht wahrnimmt;
+- a<sup>bis</sup>.[^82-3] einen Amtstermin nach Artikel 26 MG[^82-4] nicht wahrnimmt;
 - b. eine Militärdienstleistung, zu der er aufgeboten ist, nicht antritt;
 - c. seine Truppe oder Dienststelle ohne Erlaubnis verlässt;
-- d. nach einer rechtmässigen Abwesenheit nicht zurückkehrt.[^82-4]
+- d. nach einer rechtmässigen Abwesenheit nicht zurückkehrt.[^82-5]
 
 <sup>2</sup> In leichten Fällen erfolgt disziplinarische Bestrafung.
 
 <sup>3</sup> Im Aktivdienst ist die Strafe Freiheitsstrafe bis zu drei Jahren oder Geldstrafe.
 
-<sup>4</sup> Stellt sich der Täter nachträglich aus eigenem Antrieb zum Dienst, so kann das Gerichtdie Strafe mildern (Art. 42*a*).[^82-5]
+<sup>4</sup> Stellt sich der Täter nachträglich aus eigenem Antrieb zum Dienst, so kann das Gerichtdie Strafe mildern (Art. 42*a*).[^82-6]
 
-<sup>5</sup> Artikel 84 bleibt vorbehalten.[^82-6]
+<sup>5</sup> Artikel 84 bleibt vorbehalten.[^82-7]
 
 [^82-1]: Fassung gemäss Anhang Ziff. 5 des Zivildienstgesetzes vom 6. Okt. 1995, in Kraft seit 1. Okt. 1996 ([AS 1996 1445](https://fedlex.data.admin.ch/eli/oc/1996/1445_1445_1445); [BBl 1994 III 1609](https://fedlex.data.admin.ch/eli/fga/1994/3_1609_1579_1445)).
 [^82-2]: Fassung gemäss Ziff. II 2 des BG vom 19. Juni 2015 (Änderungen des Sanktionenrechts), in Kraft seit 1. Jan. 2018 ([AS 2016 1249](https://fedlex.data.admin.ch/eli/oc/2016/249); [BBl 2012 4721](https://fedlex.data.admin.ch/eli/fga/2012/670)).
-[^82-3]: Eingefügt durch Anhang Ziff. 1 des BG vom 18. März 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [BBl 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
-[^82-4]: Fassung gemäss Ziff. I des BG vom 3. Okt. 2003 (Revision der Disziplinarstrafordnung), in Kraft seit 1. März 2004 ([AS 2004 921](https://fedlex.data.admin.ch/eli/oc/2004/107); [BBl 2002 7859](https://fedlex.data.admin.ch/eli/fga/2002/1270)).
-[^82-5]: Fassung gemäss Ziff. II 2 des BG vom 21. März 2003, in Kraft seit 1. Jan. 2007 ([AS 2006 3389](https://fedlex.data.admin.ch/eli/oc/2006/538); BBl **1999** 1979).
-[^82-6]: Fassung gemäss Ziff. II 2 des BG vom 25. Sept. 2015, in Kraft seit 1. Juli 2016 ([AS 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [BBl 2014 6741](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
+[^82-3]: Eingefügt durch Anhang Ziff. 1 des BG vom 18. März 2022 ([AS 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [BBl 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)). Fassung gemäss Anhang Ziff. 1 des BG vom 19. Dez. 2025, in Kraft seit 1. Juni 2026 ([AS 2026 164](https://fedlex.data.admin.ch/eli/oc/2026/164); [BBl 2025 960](https://fedlex.data.admin.ch/eli/fga/2025/960)).
+[^82-4]: [SR 510.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7242)
+[^82-5]: Fassung gemäss Ziff. I des BG vom 3. Okt. 2003 (Revision der Disziplinarstrafordnung), in Kraft seit 1. März 2004 ([AS 2004 921](https://fedlex.data.admin.ch/eli/oc/2004/107); [BBl 2002 7859](https://fedlex.data.admin.ch/eli/fga/2002/1270)).
+[^82-6]: Fassung gemäss Ziff. II 2 des BG vom 21. März 2003, in Kraft seit 1. Jan. 2007 ([AS 2006 3389](https://fedlex.data.admin.ch/eli/oc/2006/538); BBl **1999** 1979).
+[^82-7]: Fassung gemäss Ziff. II 2 des BG vom 25. Sept. 2015, in Kraft seit 1. Juli 2016 ([AS 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [BBl 2014 6741](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
 
 ### Fahrlässiges Militärdienstversäumnis
 
@@ -1675,23 +1678,24 @@ Mit Geldstrafe wird bestraft, wer ohne Absicht, den Militärdienst zu verweigern
 Mit Busse[^83-2] wird bestraft, wer fahrlässig:
 
 - a. nicht am Orientierungstag oder an der Rekrutierung teilnimmt;
-- a<sup>bis</sup>.[^83-3] den Termin für die persönliche Befragung bei Personensicherheitsprüfungen oder für die medizinische Untersuchung zur Neubeurteilung der Tauglichkeit nicht wahrnimmt;
+- a<sup>bis</sup>.[^83-3] einen Amtstermin nach Artikel 26 MG[^83-4] nicht wahrnimmt;
 - b. eine Militärdienstleistung, zu der er aufgeboten ist, nicht antritt;
 - c. seine Truppe oder Dienststelle ohne Erlaubnis verlässt;
-- d. nach einer rechtmässigen Abwesenheit nicht zurückkehrt.[^83-4]
+- d. nach einer rechtmässigen Abwesenheit nicht zurückkehrt.[^83-5]
 
 <sup>2</sup> In leichten Fällen erfolgt disziplinarische Bestrafung.
 
-<sup>3</sup> Im Aktivdienst kann das Gerichteine Geldstrafe bis zu 90 Tagessätzen[^83-5] verhängen.
+<sup>3</sup> Im Aktivdienst kann das Gerichteine Geldstrafe bis zu 90 Tagessätzen[^83-6] verhängen.
 
-<sup>4</sup> Artikel 84 bleibt vorbehalten.[^83-6]
+<sup>4</sup> Artikel 84 bleibt vorbehalten.[^83-7]
 
 [^83-1]: Fassung gemäss Anhang Ziff. 5 des Zivildienstgesetzes vom 6. Okt. 1995, in Kraft seit 1. Okt. 1996 ([AS 1996 1445](https://fedlex.data.admin.ch/eli/oc/1996/1445_1445_1445); [BBl 1994 III 1609](https://fedlex.data.admin.ch/eli/fga/1994/3_1609_1579_1445)).
 [^83-2]: Ausdruck gemäss Ziff. II 1 Abs. 5 des BG vom 21. März 2003, in Kraft seit 1. Jan. 2007 ([AS 2006 3389](https://fedlex.data.admin.ch/eli/oc/2006/538); BBl **1999** 1979). Diese Änd. wurde im ganzen zweiten Teil des ersten Buches berücksichtigt.
-[^83-3]: Eingefügt durch Anhang Ziff. 1 des BG vom 18. März 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [BBl 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
-[^83-4]: Fassung gemäss Ziff. I des BG vom 3. Okt. 2003 (Revision der Disziplinarstrafordnung), in Kraft seit 1. März 2004 ([AS 2004 921](https://fedlex.data.admin.ch/eli/oc/2004/107); [BBl 2002 7859](https://fedlex.data.admin.ch/eli/fga/2002/1270)).
-[^83-5]: Ausdruck gemäss Ziff. II 1 Abs. 11 des BG vom 21. März 2003, in Kraft seit 1. Jan. 2007 ([AS 2006 3389](https://fedlex.data.admin.ch/eli/oc/2006/538); BBl **1999** 1979). Diese Änd. wurde im ganzen zweiten Teil des ersten Buches berücksichtigt.
-[^83-6]: Fassung gemäss Ziff. II 2 des BG vom 25. Sept. 2015, in Kraft seit 1. Juli 2016 ([AS 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [BBl 2014 6741](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
+[^83-3]: Eingefügt durch Anhang Ziff. 1 des BG vom 18. März 2022 ([AS 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [BBl 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)). Fassung gemäss Anhang Ziff. 1 des BG vom 19. Dez. 2025, in Kraft seit 1. Juni 2026 ([AS 2026 164](https://fedlex.data.admin.ch/eli/oc/2026/164); [BBl 2025 960](https://fedlex.data.admin.ch/eli/fga/2025/960)).
+[^83-4]: [SR 510.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7242)
+[^83-5]: Fassung gemäss Ziff. I des BG vom 3. Okt. 2003 (Revision der Disziplinarstrafordnung), in Kraft seit 1. März 2004 ([AS 2004 921](https://fedlex.data.admin.ch/eli/oc/2004/107); [BBl 2002 7859](https://fedlex.data.admin.ch/eli/fga/2002/1270)).
+[^83-6]: Ausdruck gemäss Ziff. II 1 Abs. 11 des BG vom 21. März 2003, in Kraft seit 1. Jan. 2007 ([AS 2006 3389](https://fedlex.data.admin.ch/eli/oc/2006/538); BBl **1999** 1979). Diese Änd. wurde im ganzen zweiten Teil des ersten Buches berücksichtigt.
+[^83-7]: Fassung gemäss Ziff. II 2 des BG vom 25. Sept. 2015, in Kraft seit 1. Juli 2016 ([AS 2016 1883](https://fedlex.data.admin.ch/eli/oc/2016/330); [BBl 2014 6741](https://fedlex.data.admin.ch/eli/fga/2014/1528)).
 
 ### Verletzung der Pflicht zur Dienstleistung bei Zulassung zum Zivildienst, Zuweisung zum waffenlosen Dienst und Dienstuntauglichkeit
 
