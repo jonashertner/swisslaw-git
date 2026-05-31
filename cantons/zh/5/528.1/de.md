@@ -4,10 +4,10 @@ number: "528.1"
 title: Verordnung über den ABC-Schutz (ABCV)
 short: ABCV
 language: de
-nachtrag: "129"
-valid_until: 2026-06-01
+version: "2026-06-01"
+nachtrag: "133"
 adopted: 2025-02-26
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-528_1-2025_02_26-2025_06_01-129.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-528_1-2025_02_26-2025_06_01-133.html"
 text: pdf
 ---
 
@@ -19,7 +19,7 @@ text: pdf
 
 Der Regierungsrat,
 
-gestützt auf Art. 14 des Bevölkerungs- und Zivilschutzgesetzes vom 20. Dezember 2019 (BZG)[^t-3], Art. 36 und 42 des Umweltschutzgesetzes vom 7. Oktober 1983[^t-4], Art. 45 des Gewässerschutzgesetzes vom 24. Januar 1991[^t-5], Art. 3, 54 und 59 des Tierseuchengesetzes vom 1. Juli 1966 (TSG)[^t-6], Art. 21 Abs. 1 des Strahlenschutzgesetzes vom 22. März 1991[^t-7], Art. 75 des Epidemiengesetzes vom 28. September 2012 (EpG)[^t-8], § 28 des Bevölkerungsschutzgesetzes vom 4. Februar 2008[^t-9], §§ 2 Abs. 3, 29 Abs. 2 und 57 des Einführungsgesetzes zum Gewässerschutzgesetz vom 8. Dezember 1974[^t-10], § 36 Abs. 1 des Gesetzes über die Feuerpolizei und das Feuerwehrwesen vom 24. September 1978 (FFG)[^t-11], § 2 Abs. 1 des Zivilschutzgesetzes vom 19. März 2007[^t-12] und § 2 Abs. 2 des Gesetzes über die Gebäudeversicherung vom 2. März 1975[^t-13],
+gestützt auf Art. 14 des Bevölkerungs- und Zivilschutzgesetzes vom 20. Dezember 2019 (BZG)[^t-3], Art. 36 und 42 des Umweltschutzgesetzes vom 7. Oktober 1983[^t-4], Art. 45 des Gewässerschutzgesetzes vom 24. Januar 1991[^t-5], Art. 3, 54 und 59 des Tierseuchengesetzes vom 1. Juli 1966 (TSG)[^t-6], Art. 21 Abs. 1 des Strahlenschutzgesetzes vom 22. März 1991[^t-7], Art. 75 des Epidemiengesetzes vom 28. September 2012 (EpG)[^t-8], § 28 des Bevölkerungsschutzgesetzes vom 4. Februar 2008[^t-9], § 102 des Wassergesetzes vom 12. Dezember 2022[^t-10], § 36 Abs. 1 des Gesetzes über die Feuerpolizei und das Feuerwehrwesen vom 24. September 1978 (FFG)[^t-11], § 2 Abs. 1 des Zivilschutzgesetzes vom 19. März 2007[^t-12] und § 2 Abs. 2 des Gesetzes über die Gebäudeversicherung vom 2. März 1975[^t-13],[^t-14]
 
 beschliesst:
 
@@ -32,10 +32,11 @@ beschliesst:
 [^t-7]: SR 814.50.
 [^t-8]: SR 818.101.
 [^t-9]: LS 520.
-[^t-10]: LS 711.1.
+[^t-10]: LS 724.1.
 [^t-11]: LS 861.1.
 [^t-12]: LS 522.
-[^t-13]: LS 862.1. 1. 7. 25 - 129 13
+[^t-13]: LS 862.1.
+[^t-14]: Fassung gemäss RRB vom 2. Juli 2025 (OS 81, 237; ABl 2025-08-22). In Kraft seit 1. Juni 2026.
 
 ### A. Allgemeine Bestimmungen
 
@@ -57,7 +58,7 @@ beschliesst:
 
 **1**
 
-- 1\. 7. 25 - 129 § 2. In dieser Verordnung bedeuten:
+- 1\. 7. 26 - 133 § 2. In dieser Verordnung bedeuten:
 
 **Begriffe**
 
@@ -137,7 +138,7 @@ das Material, das zur Bewältigung von A-, B- und C-Ereignissen nötig ist, eins
 
 **3**
 
-- 1\. 7. 25 - 129
+- 1\. 7. 26 - 133
 
 <sup>3</sup> Die Gemeinden und andere kommunale Träger von Zivilschutzorganisationen unterstützen die Partnerorganisationen auf Verlangen des AMZ bei der Bewältigung von A-, B- und C-Ereignissen mit Zivilschutzleistungen im Rahmen ihrer Kernaufgaben wie Führungsunterstützung, Absperrung oder Materialverwaltung.
 
@@ -235,7 +236,7 @@ Die GVZ wertet die Einsätze der ABC-Wehr und weiterer Einsatzkräfte für die B
 
 **5**
 
-- 1\. 7. 25 - 129 § 18. Die Einsatzkräfte werden gebildet aus
+- 1\. 7. 26 - 133 § 18. Die Einsatzkräfte werden gebildet aus
 
 **Einsatzkräfte**
 
@@ -354,7 +355,7 @@ Die ABC-Wehr a. legt den Gefahrenbereich fest,
 
 **7**
 
-- 1\. 7. 25 - 129
+- 1\. 7. 26 - 133
 
 - c. erarbeitet Entscheidungsgrundlagen für die Warnung, Alarmierung und Entwarnung,
 
@@ -454,7 +455,7 @@ Die Einsatzkräfte werden gebildet aus a. der ABC-Wehr,
 
 **9**
 
-- 1\. 7. 25 - 129 § 35. <sup>1</sup> Die ABC-Wehr ist hauptverantwortlich für die Bewältigung von C-Ereignissen.
+- 1\. 7. 26 - 133 § 35. <sup>1</sup> Die ABC-Wehr ist hauptverantwortlich für die Bewältigung von C-Ereignissen.
 
 **Aufgaben der ABC-Wehr**
 
@@ -560,9 +561,9 @@ In den Städten Zürich und Winterthur nehmen die Gewässerschutzfachstellen die
 
 **11**
 
-- 1\. 7. 25 - 129
+- 1\. 7. 26 - 133
 
-[^43-1]: LS 817.1.
+[^43-1]: LS 817.1. 1. 7. 26 - 133 13
 
 ### E. Finanzierung
 
@@ -633,3 +634,7 @@ Zu den von Verursacherinnen und Verursachern zu tragenden Kosten für den Einsat
 <sup>2</sup> Die Baudirektion regelt die Defizittragung in einer Leistungsvereinbarung mit der GVZ.
 
 <sup>3</sup> An diesem Kostenausgleichsystem können sich weitere Partnerorganisationen beteiligen. Diesfalls ist die Leistungsvereinbarung anzupassen.
+
+## Weitere Fussnoten
+
+- [5] Obsolet.
