@@ -4,11 +4,11 @@ title: Ordinanza del 24 novembre 2004 sulle indennità di perdita di guadagno (O
 short: OIPG
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/187"
 language: it
-version: 2025-01-01
+version: 2026-06-01
 adopted: 2004-11-24
 in_force: 2005-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/187/20250101/it/xml/fedlex-data-admin-ch-eli-cc-2005-187-20250101-it-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/187/20250101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/187/20260601/it/xml/fedlex-data-admin-ch-eli-cc-2005-187-20260601-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/187/20260601/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2005/187/20250101/it"
 
 (OIPG)
 
-del 24 novembre 2004 (Stato 1° gennaio 2025)
+del 24 novembre 2004 (Stato 1° giugno 2026)
 
 Il Consiglio federale svizzero,
 
@@ -25,8 +25,8 @@ visto l’articolo 81 della legge federale del 6 ottobre 2000[^ingress-1] sulla 
 
 ordina:
 
-[^ingress-1]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
-[^ingress-2]: [RS 834.1](https://fedlex.data.admin.ch/eli/cc/1952/1021_1046_1050)
+[^ingress-1]: [RS 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
+[^ingress-2]: [RS 834.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10262)
 
 ## Capitolo 1: Indennità per persone che prestano servizio
 
@@ -97,13 +97,13 @@ L’indennità per lavoratori salariati è calcolata sulla base dell’ultimo sa
 
 [^4-1]: Nuovo testo giusta la cifra I dell’O del 12 mag. 2021, in vigore dal 1° lug. 2021 ([RU 2021 289](https://fedlex.data.admin.ch/eli/oc/2021/289)).
 [^4-2]: Nuovo testo giusta la cifra I dell’O del 22 nov. 2023 (Indennità giornaliere per il genitore superstite), in vigore dal 1° gen. 2024 ([RU 2023 756](https://fedlex.data.admin.ch/eli/oc/2023/756)).
-[^4-3]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^4-3]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 [^4-4]: Nuovo testo giusta la cifra I dell’O del 12 mag. 2021, in vigore dal 1° lug. 2021 ([RU 2021 289](https://fedlex.data.admin.ch/eli/oc/2021/289)).
 [^4-5]: Introdotta dalla cifra I dell’O del 12 mag. 2021 ([RU 2021 289](https://fedlex.data.admin.ch/eli/oc/2021/289)). Nuovo testo giusta la cifra I dell’O del 24 ago. 2022, in vigore dal 1° gen. 2023 ([RU 2022 497](https://fedlex.data.admin.ch/eli/oc/2022/497)).
 [^4-6]: Introdotta dalla cifra I dell’O del 24 ago. 2022, in vigore dal 1° gen. 2023 ([RU 2022 497](https://fedlex.data.admin.ch/eli/oc/2022/497)).
 [^4-7]: Nuovo testo giusta la cifra I dell’O del 28 ago. 2024, in vigore dal 1° gen. 2025 ([RU 2024 471](https://fedlex.data.admin.ch/eli/oc/2024/471)).
 [^4-8]: Introdotto dalla cifra I dell’O del 28 ago. 2024, in vigore dal 1° gen. 2025 ([RU 2024 471](https://fedlex.data.admin.ch/eli/oc/2024/471)).
-[^4-9]: [RS 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
+[^4-9]: [RS 831.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10007)
 
 #### Art. 5
 
@@ -165,10 +165,10 @@ L’indennità per lavoratori indipendenti è calcolata sulla base del reddito d
 <sup>3</sup> Nel caso di un lavoratore indipendente che non è tenuto a pagare prima dell’entrata in servizio i contributi previsti dalla legge federale del 20 dicembre 1946[^7-5] sull’assicurazione per la vecchiaia e per i superstiti (LAVS), l’indennità è calcolata sulla base del reddito conseguito durante l’anno precedente l’entrata in servizio.
 
 [^7-1]: Nuovo testo giusta la cifra I dell’O del 22 nov. 2023 (Indennità giornaliere per il genitore superstite), in vigore dal 1° gen. 2024 ([RU 2023 756](https://fedlex.data.admin.ch/eli/oc/2023/756)).
-[^7-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^7-2]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 [^7-3]: Nuovo testo giusta la cifra I dell’O del 12 mag. 2021, in vigore dal 1° lug. 2021 ([RU 2021 289](https://fedlex.data.admin.ch/eli/oc/2021/289)).
 [^7-4]: Introdotto dalla cifra I dell’O del 12 mag. 2021, in vigore dal 1° lug. 2021 ([RU 2021 289](https://fedlex.data.admin.ch/eli/oc/2021/289)).
-[^7-5]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^7-5]: [RS 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 
 #### Art. 8
 
@@ -243,7 +243,7 @@ Ha diritto all’assegno per l’azienda chi svolge la sua attività lucrativa p
 - b. presta servizio per almeno 12 giorni consecutivi; e
 - c. per sostituire il quale è assunta, per lavorare nell’azienda, una persona retribuita per almeno dieci giorni con un salario che raggiunge, sulla base di una media giornaliera, almeno l’importo dell’assegno per l’azienda.
 
-[^14-1]: [RS 836.1](https://fedlex.data.admin.ch/eli/cc/1952/823_843_839)
+[^14-1]: [RS 836.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10273)
 
 ### Sezione 5: Esercizio del diritto
 
@@ -287,10 +287,10 @@ L’Ufficio federale delle assicurazioni sociali distribuisce il formulario per 
 
 <sup>4</sup> Ogni giorno di servizio che dà diritto a un’indennità può essere attestato una volta sola.
 
-<sup>5</sup> In caso di presentazione della domanda d’indennità mediante un formulario ufficiale cartaceo, se questo contiene errori o è andato perduto la cassa di compensazione competente rilascia un formulario sostitutivo. In tale formulario essa attesta, sulla base dei dati contenuti nel sistema d’informazione di cui all’articolo 21*a* LIPG, del libretto di servizio, dell’attestazione di frequenza del corso o di un estratto del sistema d’informazione del servizio civile, il numero dei giorni di servizio che danno diritto a un’indennità.[^16-2]
+<sup>5</sup> In caso di presentazione della domanda d’indennità mediante un formulario ufficiale cartaceo, se questo contiene errori o è andato perduto la cassa di compensazione competente rilascia un formulario sostitutivo. In tale formulario essa attesta, sulla base dei dati contenuti nel sistema d’informazione di cui all’articolo 21*a* LIPG, dell’attestazione di frequenza del corso o di un estratto del sistema d’informazione del servizio civile, il numero dei giorni di servizio che danno diritto a un’indennità.[^16-2]
 
 [^16-1]: Dal 1° gen. 2019: Ufficio federale del servizio civile.
-[^16-2]: Nuovo testo giusta la cifra I dell’O del 20 nov. 2024 (Digitalizzazione nell’ordinamento delle indennità di perdita di guadagno: fase d’introduzione del sistema d’informazione), in vigore dal 1° gen. 2025 ([RU 2024 719](https://fedlex.data.admin.ch/eli/oc/2024/719)).
+[^16-2]: Nuovo testo giusta l’all. n. 9 dell’O del 1° apr. 2026, in vigore dal 1° giu. 2026 ([RU 2026 174](https://fedlex.data.admin.ch/eli/oc/2026/174)).
 
 #### Art. 17
 
@@ -445,7 +445,7 @@ L’UCC è responsabile della protezione dei dati del sistema d’informazione d
 
 <sup>4</sup> Come ricevute valgono i giustificativi interni delle casse, le attestazioni di conteggio di Postfinance e le distinte del conto bancario.
 
-[^21-1]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^21-1]: [RS 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 [^21-2]: Nuovo testo giusta la cifra I dell’O del 20 nov. 2024 (Digitalizzazione nell’ordinamento delle indennità di perdita di guadagno: fase d’introduzione del sistema d’informazione), in vigore dal 1° gen. 2025 ([RU 2024 719](https://fedlex.data.admin.ch/eli/oc/2024/719)).
 
 #### Art. 22
@@ -458,7 +458,7 @@ L’UCC è responsabile della protezione dei dati del sistema d’informazione d
 
 <sup>2</sup> Il pagamento dell’indennità ha luogo nella valuta del Paese di domicilio. Per la conversione in valuta straniera è applicato per analogia l’articolo 20 capoverso 2 dell’ordinanza del 26 maggio 1961[^22-1] concernente l’assicurazione facoltativa per la vecchiaia, i superstiti e l’invalidità.
 
-[^22-1]: [RS 831.111](https://fedlex.data.admin.ch/eli/cc/1961/419_429_439)
+[^22-1]: [RS 831.111](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10019)
 
 ## Capitolo 2: Indennità di maternità e indennità per l’altro genitore
 
@@ -520,7 +520,7 @@ Per determinare la durata minima del periodo d’assicurazione secondo l’artic
 
 [^26-1]: Nuovo testo giusta la cifra I dell’O del 21 ott. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4697](https://fedlex.data.admin.ch/eli/oc/2020/845)).
 [^26-2]: Nuovo testo giusta la cifra I dell’O del 22 nov. 2023 (Indennità giornaliere per il genitore superstite), in vigore dal 1° gen. 2024 ([RU 2023 756](https://fedlex.data.admin.ch/eli/oc/2023/756)).
-[^26-3]: [RS 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
+[^26-3]: [RS 0.142.112.681](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/211)
 [^26-4]: R (CEE) n. 574/72 del Consiglio, del 21 mar. 1972, che stabilisce le modalità di applicazione del R (CEE) n. 1408/71, GU L 74 del 27 mar. 1972, pag. 1 (parimenti codificato dal R (CE) n. 118/97 del Consiglio, del 2 dic. 1996, GU L 28 del 30 gen. 1997, pag. 1); modificato da ultimo dal R (CE) n. 307/1999 del Consiglio, dell’8 feb. 1999 (GU L 38 del 12 feb. 1999, pag. 1).
 [^26-5]: Una versione consolidata provvisoria del testo dei R (CEE) n. 1408/71 e n. 574/72, ivi comprese le mod. introdotte mediante il R (CE) del Consiglio n. 307/1999, può essere richiesta all’Ufficio federale delle assicurazioni sociali, 3003 Berna. Fa fede solo la versione pubblicata sulla Gazzetta Ufficiale della Comunità europea.
 
@@ -558,7 +558,7 @@ Per determinare la durata minima del periodo di attività lucrativa secondo l’
 
 [^28-1]: Nuovo testo giusta la cifra I dell’O del 21 ott. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4697](https://fedlex.data.admin.ch/eli/oc/2020/845)).
 [^28-2]: Nuovo testo giusta la cifra I dell’O del 21 ott. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4697](https://fedlex.data.admin.ch/eli/oc/2020/845)).
-[^28-3]: [RS 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
+[^28-3]: [RS 0.142.112.681](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/211)
 [^28-4]: R (CEE) n. 574/72 del Consiglio, del 21 mar. 1972, che stabilisce le modalità di applicazione del R (CEE) n. 1408/71, GU L 74 del 27 mar. 1972, pag. 1 (parimenti codificato dal R (CE) n. 118/97 del Consiglio, del 2 dic. 1996, GU L 28 del 30 gen. 1997, pag. 1); modificato da ultimo dal R (CE) n. 307/1999 del Consiglio, dell’8 feb. 1999 (GU L 38 del 12 feb. 1999, pag. 1).
 [^28-5]: Una versione consolidata provvisoria del testo dei R (CEE) n. 1408/71 e n. 574/72, ivi comprese le mod. introdotte mediante il regolamento (CE) del Consiglio n. 307/1999, può essere richiesta all’Ufficio federale delle assicurazioni sociali, 3003 Berna. Fa fede solo la versione pubblicata sulla Gazzetta Ufficiale della Comunità europea.
 
@@ -609,7 +609,7 @@ L’altro genitore secondo il capoverso 2 lettera a ha diritto a indennità gior
 - b. è disponibile un attestato medico secondo l’articolo 24.[^29-6]
 
 [^29-1]: Nuovo testo giusta la cifra I dell’O del 22 nov. 2023 (Indennità giornaliere per il genitore superstite), in vigore dal 1° gen. 2024 ([RU 2023 756](https://fedlex.data.admin.ch/eli/oc/2023/756)).
-[^29-2]: [RS 837.0](https://fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184)
+[^29-2]: [RS 837.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10282)
 [^29-3]: Introdotto dalla cifra I dell’O del 12 mag. 2021, in vigore dal 1° lug. 2021 ([RU 2021 289](https://fedlex.data.admin.ch/eli/oc/2021/289)).
 [^29-4]: Nuovo testo giusta la cifra I dell’O del 22 nov. 2023 (Indennità giornaliere per il genitore superstite), in vigore dal 1° gen. 2024 ([RU 2023 756](https://fedlex.data.admin.ch/eli/oc/2023/756)).
 [^29-5]: Introdotto dalla cifra I dell’O del 21 ott. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4697](https://fedlex.data.admin.ch/eli/oc/2020/845)).
@@ -662,7 +662,7 @@ L’indennità è calcolata sulla base dell’ultimo salario determinante percep
 [^31-1]: Nuovo testo giusta la cifra I dell’O del 21 ott. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4697](https://fedlex.data.admin.ch/eli/oc/2020/845)).
 [^31-2]: Nuovo testo giusta la cifra I dell’O del 22 nov. 2023 (Indennità giornaliere per il genitore superstite), in vigore dal 1° gen. 2024 ([RU 2023 756](https://fedlex.data.admin.ch/eli/oc/2023/756)).
 [^31-3]: Nuovo testo giusta la cifra I dell’O del 22 nov. 2023 (Indennità giornaliere per il genitore superstite), in vigore dal 1° gen. 2024 ([RU 2023 756](https://fedlex.data.admin.ch/eli/oc/2023/756)).
-[^31-4]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^31-4]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 [^31-5]: Introdotta dalla cifra I dell’O del 24 ago. 2022, in vigore dal 1° gen. 2023 ([RU 2022 497](https://fedlex.data.admin.ch/eli/oc/2022/497)).
 [^31-6]: Introdotta dalla cifra I dell’O del 24 ago. 2022, in vigore dal 1° gen. 2023 ([RU 2022 497](https://fedlex.data.admin.ch/eli/oc/2022/497)).
 [^31-7]: Introdotta dalla cifra I dell’O del 24 ago. 2022, in vigore dal 1° gen. 2023 ([RU 2022 497](https://fedlex.data.admin.ch/eli/oc/2022/497)).
@@ -744,7 +744,7 @@ Competente per ricevere i formulari nonché fissare e pagare le indennità è:
 
 [^35-1]: Nuovo testo giusta la cifra I dell’O del 22 nov. 2023 (Indennità giornaliere per il genitore superstite), in vigore dal 1° gen. 2024 ([RU 2023 756](https://fedlex.data.admin.ch/eli/oc/2023/756)).
 [^35-2]: Nuovo testo giusta la cifra I dell’O del 22 nov. 2023 (Indennità giornaliere per il genitore superstite), in vigore dal 1° gen. 2024 ([RU 2023 756](https://fedlex.data.admin.ch/eli/oc/2023/756)).
-[^35-3]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^35-3]: [RS 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 [^35-4]: Introdotto dalla cifra I dell’O del 21 ott. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4697](https://fedlex.data.admin.ch/eli/oc/2020/845)).
 [^35-5]: Introdotto dalla cifra I dell’O del 21 ott. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4697](https://fedlex.data.admin.ch/eli/oc/2020/845)).
 
@@ -842,7 +842,7 @@ L’indennità è calcolata sulla base dell’ultimo salario determinante percep
 <sup>3</sup> Gli articoli 5 e 6 si applicano per analogia.
 
 [^35f-1]: Nuovo testo giusta la cifra I dell’O del 22 nov. 2023 (Indennità giornaliere per il genitore superstite), in vigore dal 1° gen. 2024 ([RU 2023 756](https://fedlex.data.admin.ch/eli/oc/2023/756)).
-[^35f-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^35f-2]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 [^35f-3]: Nuovo testo giusta la cifra I dell’O del 24 ago. 2022, in vigore dal 1° gen. 2023 ([RU 2022 497](https://fedlex.data.admin.ch/eli/oc/2022/497)).
 [^35f-4]: Introdotta dalla cifra I dell’O del 24 ago. 2022, in vigore dal 1° gen. 2023 ([RU 2022 497](https://fedlex.data.admin.ch/eli/oc/2022/497)).
 
@@ -907,7 +907,7 @@ L’indennità per gli aventi diritto che esercitano contemporaneamente un’att
 <sup>4</sup> Per la fissazione e il pagamento dell’indennità delle persone che abitano all’estero si applica per analogia l’articolo 22.
 
 [^35k-1]: Nuovo testo giusta la cifra I dell’O del 24 ago. 2022, in vigore dal 1° gen. 2023 ([RU 2022 497](https://fedlex.data.admin.ch/eli/oc/2022/497)).
-[^35k-2]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^35k-2]: [RS 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 
 ## Capitolo 2*b*: Indennità in caso di adozione
 
@@ -960,7 +960,7 @@ L’indennità è calcolata sulla base dell’ultimo salario determinante percep
 <sup>2</sup> Gli articoli 5 e 6 si applicano per analogia.
 
 [^35n-1]: Nuovo testo giusta la cifra I dell’O del 22 nov. 2023 (Indennità giornaliere per il genitore superstite), in vigore dal 1° gen. 2024 ([RU 2023 756](https://fedlex.data.admin.ch/eli/oc/2023/756)).
-[^35n-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^35n-2]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 35o
 
@@ -1018,7 +1018,7 @@ L’indennità per gli aventi diritto che esercitano contemporaneamente un’att
 
 <sup>5</sup> Per la fissazione e il pagamento dell’indennità delle persone che abitano all’estero si applica per analogia l’articolo 22.
 
-[^35s-1]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^35s-1]: [RS 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 
 ## Capitolo 3: Disposizioni comuni
 
@@ -1055,7 +1055,7 @@ L’indennità per gli aventi diritto che esercitano contemporaneamente un’att
 <sup>2</sup> Le persone che non esercitano un’attività lucrativa versano un contributo da 25 a 1250 franchi annui. Gli articoli 28–30 OAVS si applicano per analogia.
 
 [^36-1]: Nuovo testo giusta la cifra I dell’O del 28 ago. 2024, in vigore dal 1° gen. 2025 ([RU 2024 471](https://fedlex.data.admin.ch/eli/oc/2024/471)).
-[^36-2]: [RS 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
+[^36-2]: [RS 831.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10007)
 
 #### Art. 37
 
@@ -1075,9 +1075,9 @@ L’indennità per gli aventi diritto che esercitano contemporaneamente un’att
 
 <sup>6</sup> L’articolo 6<sup>quater</sup> OAVS[^37-2] concernente i contributi dovuti dagli assicurati esercitanti un’attività lucrativa dopo il raggiungimento dell’età di riferimento secondo l’articolo 21 capoverso 1 LAVS[^37-3] e l’articolo 34*d* OAVS concernente il salario di poco conto non sono applicabili.[^37-4]
 
-[^37-1]: [RS 836.1](https://fedlex.data.admin.ch/eli/cc/1952/823_843_839)
-[^37-2]: [RS 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
-[^37-3]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^37-1]: [RS 836.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10273)
+[^37-2]: [RS 831.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10007)
+[^37-3]: [RS 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 [^37-4]: Nuovo testo giusta l’all. n. 11 dell’O del 30 ago. 2023, in vigore dal 1° gen. 2024 ([RU 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
 
 #### Art. 38
@@ -1092,8 +1092,8 @@ L’indennità per gli aventi diritto che esercitano contemporaneamente un’att
 
 <sup>3</sup> L’articolo 6<sup>quater</sup> OAVS[^38-1] concernente i contributi dovuti dagli assicurati esercitanti un’attività lucrativa dopo il raggiungimento dell’età di riferimento secondo l’articolo 21 capoverso 1 LAVS[^38-2] e l’articolo 19 OAVS concernente il reddito di poco conto proveniente da attività indipendenti esercitate a titolo accessorio non sono applicabili.[^38-3]
 
-[^38-1]: [RS 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
-[^38-2]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^38-1]: [RS 831.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10007)
+[^38-2]: [RS 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 [^38-3]: Nuovo testo giusta l’all. n. 11 dell’O del 30 ago. 2023, in vigore dal 1° gen. 2024 ([RU 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
 
 #### Art. 39
@@ -1112,7 +1112,7 @@ Il datore di lavoro tiene conto delle indennità da lui versate nel conteggio pe
 
 Ai crediti per restituzione di rendite irrecuperabili è applicato l’articolo 79<sup>bis</sup> OAVS[^40-1].
 
-[^40-1]: [RS 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
+[^40-1]: [RS 831.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10007)
 
 #### Art. 41
 
@@ -1131,7 +1131,7 @@ Ai crediti per restituzione di rendite irrecuperabili è applicato l’articolo 
 Se la LIPG e la presente ordinanza non stabiliscono altrimenti, sono applicabili per analogia le disposizioni dei capi quarto e sesto nonché gli articoli 34–43 e 205–212<sup>bis</sup> OAVS[^42-2].
 
 [^42-1]: Nuovo testo giusta l’all. n. 7 dell’O del 22 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)).
-[^42-2]: [RS 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
+[^42-2]: [RS 831.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10007)
 
 ## Capitolo 4: Disposizioni finali
 
@@ -1161,7 +1161,7 @@ Le seguenti ordinanze sono abrogate:
 
 **Modifica del diritto vigente**
 
-...[^45-1]
+…[^45-1]
 
 [^45-1]: Le mod. possono essere consultate alla [RU 2005 1251](https://fedlex.data.admin.ch/eli/oc/2005/187).
 

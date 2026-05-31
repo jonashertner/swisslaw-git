@@ -4,11 +4,11 @@ title: Erwerbsersatzverordnung vom 24. November 2004 (EOV)
 short: EOV
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/187"
 language: de
-version: 2025-01-01
+version: 2026-06-01
 adopted: 2004-11-24
 in_force: 2005-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/187/20250101/de/xml/fedlex-data-admin-ch-eli-cc-2005-187-20250101-de-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/187/20250101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/187/20260601/de/xml/fedlex-data-admin-ch-eli-cc-2005-187-20260601-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/187/20260601/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2005/187/20250101/de"
 
 (EOV)[^t-1]
 
-vom 24. November 2004 (Stand am 1. Januar 2025)
+vom 24. November 2004 (Stand am 1. Juni 2026)
 
 [^t-1]: Fassung gemäss Ziff. I der V vom 12. Mai 2021, in Kraft seit 1. Juli 2021 ([AS 2021 289](https://fedlex.data.admin.ch/eli/oc/2021/289)).
 
@@ -27,8 +27,8 @@ gestützt auf Artikel 81 des Bundesgesetzes vom 6. Oktober 2000[^ingress-1] übe
 
 verordnet:
 
-[^ingress-1]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
-[^ingress-2]: [SR 834.1](https://fedlex.data.admin.ch/eli/cc/1952/1021_1046_1050)
+[^ingress-1]: [SR 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
+[^ingress-2]: [SR 834.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10262)
 
 ## 1. Kapitel: Entschädigung für Dienstleistende
 
@@ -99,13 +99,13 @@ Die Entschädigung für Arbeitnehmerinnen und Arbeitnehmer wird aufgrund des let
 
 [^4-1]: Fassung gemäss Ziff. I der V vom 12. Mai 2021, in Kraft seit 1. Juli 2021 ([AS 2021 289](https://fedlex.data.admin.ch/eli/oc/2021/289)).
 [^4-2]: Fassung gemäss Ziff. I der V vom 22. Nov. 2023 (Taggelder für den hinterlassenen Elternteil), in Kraft seit 1. Jan. 2024 ([AS 2023 756](https://fedlex.data.admin.ch/eli/oc/2023/756)).
-[^4-3]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^4-3]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 [^4-4]: Fassung gemäss Ziff. I der V vom 12. Mai 2021, in Kraft seit 1. Juli 2021 ([AS 2021 289](https://fedlex.data.admin.ch/eli/oc/2021/289)).
 [^4-5]: Eingefügt durch Ziff. I der V vom 12. Mai 2021 ([AS 2021 289](https://fedlex.data.admin.ch/eli/oc/2021/289)). Fassung gemäss Ziff. I der V vom 24. Aug. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 497](https://fedlex.data.admin.ch/eli/oc/2022/497)).
 [^4-6]: Eingefügt durch Ziff. I der V vom 24. Aug. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 497](https://fedlex.data.admin.ch/eli/oc/2022/497)).
 [^4-7]: Fassung gemäss Ziff. I der V vom 28. Aug. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 471](https://fedlex.data.admin.ch/eli/oc/2024/471)).
 [^4-8]: Eingefügt durch Ziff. I der V vom 28. Aug. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 471](https://fedlex.data.admin.ch/eli/oc/2024/471)).
-[^4-9]: [SR 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
+[^4-9]: [SR 831.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10007)
 
 #### Art. 5
 
@@ -167,10 +167,10 @@ Die Entschädigung für Selbstständigerwerbende wird aufgrund des auf den Tag u
 <sup>3</sup> War eine selbstständig erwerbende Person nach dem Bundesgesetz vom 20. Dezember 1946[^7-5] über die Alters- und Hinterlassenenversicherung (AHVG) nicht beitragspflichtig, so wird die Entschädigung auf Grund des Erwerbseinkommens berechnet, das sie während des Jahres erzielt hat, das dem Einrücken vorangegangen ist.
 
 [^7-1]: Fassung gemäss Ziff. I der V vom 22. Nov. 2023 (Taggelder für den hinterlassenen Elternteil), in Kraft seit 1. Jan. 2024 ([AS 2023 756](https://fedlex.data.admin.ch/eli/oc/2023/756)).
-[^7-2]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^7-2]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 [^7-3]: Fassung gemäss Ziff. I der V vom 12. Mai 2021, in Kraft seit 1. Juli 2021 ([AS 2021 289](https://fedlex.data.admin.ch/eli/oc/2021/289)).
 [^7-4]: Eingefügt durch Ziff. I der V vom 12. Mai 2021, in Kraft seit 1. Juli 2021 ([AS 2021 289](https://fedlex.data.admin.ch/eli/oc/2021/289)).
-[^7-5]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^7-5]: [SR 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 
 #### Art. 8
 
@@ -245,7 +245,7 @@ Anspruch auf die Betriebszulage haben Personen, die als mitarbeitende Familienmi
 - b. ununterbrochen mindestens zwölf Tage Dienst leisten; und
 - c. für die während mindestens zehn Tage eine Ersatzkraft im Betrieb tätig ist, deren Barlohn im Tagesdurchschnitt mindestens die Höhe der Betriebszulage erreicht.
 
-[^14-1]: [SR 836.1](https://fedlex.data.admin.ch/eli/cc/1952/823_843_839)
+[^14-1]: [SR 836.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10273)
 
 ### 5. Abschnitt: Geltendmachung des Anspruchs
 
@@ -290,10 +290,10 @@ Das Bundesamt für Sozialversicherungen[^15-2] gibt das Anmeldeformular und die 
 
 <sup>4</sup> Jeder entschädigungsberechtigte Diensttag darf nur einmal bescheinigt werden.
 
-<sup>5</sup> Wurde die Anmeldung auf einem offiziellen Papierformular geltend gemacht und wurden darin falsche Angaben gemacht oder ist das Papierformular verloren gegangen, so stellt die zuständige Ausgleichkasse ein Ersatzformular aus. Sie bescheinigt darauf anhand der im Informationssystem gemäss Artikel 21*a* EOG enthaltenen Daten, des Dienstbüchleins, des Ausweises über den Kursbesuch oder eines Auszugs aus dem Informationssystem des Zivildiensts die Diensttage, die zu einer Entschädigung berechtigen.[^16-2]
+<sup>5</sup> Wurde die Anmeldung auf einem offiziellen Papierformular geltend gemacht und wurden darin falsche Angaben gemacht oder ist das Papierformular verloren gegangen, so stellt die zuständige Ausgleichkasse ein Ersatzformular aus. Sie bescheinigt darauf anhand der im Informationssystem gemäss Artikel 21*a* EOG enthaltenen Daten, des Ausweises über den Kursbesuch oder eines Auszugs aus dem Informationssystem des Zivildiensts die Diensttage, die zu einer Entschädigung berechtigen.[^16-2]
 
 [^16-1]: Seit 1.1.2019: Bundesamt für Zivildienst.
-[^16-2]: Fassung gemäss Ziff. I der V vom 20. Nov. 2024 (Digitalisierung in der Erwerbsersatzordnung: Einführungsphase des Informationssystems), in Kraft seit 1. Jan. 2025 ([AS 2024 719](https://fedlex.data.admin.ch/eli/oc/2024/719)).
+[^16-2]: Fassung gemäss Anhang Ziff. 9 der V vom 1. April 2026, in Kraft seit 1. Juni 2026 ([AS 2026 174](https://fedlex.data.admin.ch/eli/oc/2026/174)).
 
 #### Art. 17
 
@@ -448,7 +448,7 @@ Die ZAS ist verantwortlich für den Datenschutz des Informationssystems nach Art
 
 <sup>4</sup> Als Zahlungsnachweise gelten die kasseninternen Belege, Verrechnungsausweise der Postfinance oder Belastungsanzeigen der Bank.
 
-[^21-1]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^21-1]: [SR 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 [^21-2]: Fassung gemäss Ziff. I der V vom 20. Nov. 2024 (Digitalisierung in der Erwerbsersatzordnung: Einführungsphase des Informationssystems), in Kraft seit 1. Jan. 2025 ([AS 2024 719](https://fedlex.data.admin.ch/eli/oc/2024/719)).
 
 #### Art. 22
@@ -461,7 +461,7 @@ Die ZAS ist verantwortlich für den Datenschutz des Informationssystems nach Art
 
 <sup>2</sup> Die Auszahlung der Entschädigung erfolgt in der Währung des Wohnsitzstaates. Für die Umrechnung in die Fremdwährung gilt Artikel 20 Absatz 2 der Verordnung vom 26. Mai 1961[^22-1] über die freiwillige Alters- Hinterlassenen- und Invalidenversicherung sinngemäss.
 
-[^22-1]: [SR 831.111](https://fedlex.data.admin.ch/eli/cc/1961/419_429_439)
+[^22-1]: [SR 831.111](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10019)
 
 ## 2. Kapitel: Entschädigung bei Mutterschaft und Entschädigung des andern Elternteils
 
@@ -523,7 +523,7 @@ Zur Bestimmung der Mindestversicherungsdauer nach Artikel 16*b* Absatz 1 Buchsta
 
 [^26-1]: Fassung gemäss Ziff. I der V vom 21. Okt. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 4697](https://fedlex.data.admin.ch/eli/oc/2020/845)).
 [^26-2]: Fassung gemäss Ziff. I der V vom 22. Nov. 2023 (Taggelder für den hinterlassenen Elternteil), in Kraft seit 1. Jan. 2024 ([AS 2023 756](https://fedlex.data.admin.ch/eli/oc/2023/756)).
-[^26-3]: [SR 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
+[^26-3]: [SR 0.142.112.681](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/211)
 [^26-4]: Verordnung (EWG) Nr. 574/72 des Rates vom 21. März 1972 über die Durchführung der Verordnung (EWG) Nr. 1408/71, ABl Nr. L 74 vom 27. März 1972, S. 1 (ebenfalls kodifiziert durch die Verordnung [EG] Nr. 118/97 des Rates vom 2. Dez. 1996, ABl Nr. L 28 vom 30. Jan. 1997, S. 1); zuletzt geändert durch Verordnung (EG) Nr. 307/1999 des Rates vom 8. Febr. 1999, ABl Nr. L 38 vom 12. Febr. 1999, S. 1.
 [^26-5]: Eine provisorische, konsolidierte Fassung des Textes der Verordnungen (EWG) Nr. 1408/71 und Nr. 574/72 mit den zuletzt durch die Verordnung (EG) des Rates Nr. 307/1999 erfolgten Änderungen kann beim Bundesamt für Sozialversicherungen, 3003 Bern bezogen werden. Massgeblich ist hingegen allein die im Amtsblatt der EG publizierte Fassung.
 
@@ -561,7 +561,7 @@ Zur Bestimmung der Mindesterwerbsdauer nach Artikel 16*b* Absatz 1 Buchstabe b o
 
 [^28-1]: Fassung gemäss Ziff. I der V vom 24. Aug. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 497](https://fedlex.data.admin.ch/eli/oc/2022/497)).
 [^28-2]: Fassung gemäss Ziff. I der V vom 21. Okt. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 4697](https://fedlex.data.admin.ch/eli/oc/2020/845)).
-[^28-3]: [SR 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
+[^28-3]: [SR 0.142.112.681](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/211)
 [^28-4]: Verordnung (EWG) Nr. 574/72 des Rates vom 21. März 1972 über die Durchführung der Verordnung (EWG) Nr. 1408/71, ABl Nr. L 74 vom 27. März 1972, S. 1 (ebenfalls kodifiziert durch die Verordnung [EG] Nr. 118/97 des Rates vom 2. Dez. 1996, ABl Nr. L 28 vom 30. Jan. 1997, S. 1); zuletzt geändert durch Verordnung (EG) Nr. 307/1999 des Rates vom 8. Febr. 1999, ABl Nr. L 38 vom 12. Febr. 1999, S. 1.
 [^28-5]: Eine provisorische, konsolidierte Fassung des Textes der Verordnungen (EWG) Nr. 1408/71 und Nr. 574/72 mit den zuletzt durch die Verordnung (EG) des Rates Nr. 307/1999 erfolgten Änderungen kann beim Bundesamt für Sozialversicherungen, 3003 Bern, bezogen werden. Massgeblich ist hingegen allein die im Amtsblatt der EG publizierte Fassung.
 
@@ -612,7 +612,7 @@ Der andere Elternteil nach Absatz 2 Buchstabe a hat Anspruch auf zusätzliche Ta
 - b. ein ärztliches Zeugnis nach Artikel 24 vorlegt.[^29-6]
 
 [^29-1]: Fassung gemäss Ziff. I der V vom 22. Nov. 2023 (Taggelder für den hinterlassenen Elternteil), in Kraft seit 1. Jan. 2024 ([AS 2023 756](https://fedlex.data.admin.ch/eli/oc/2023/756)).
-[^29-2]: [SR 837.0](https://fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184)
+[^29-2]: [SR 837.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10282)
 [^29-3]: Eingefügt durch Ziff. I der V vom 12. Mai 2021, in Kraft seit 1. Juli 2021 ([AS 2021 289](https://fedlex.data.admin.ch/eli/oc/2021/289)).
 [^29-4]: Fassung gemäss Ziff. I der V vom 22. Nov. 2023 (Taggelder für den hinterlassenen Elternteil), in Kraft seit 1. Jan. 2024 ([AS 2023 756](https://fedlex.data.admin.ch/eli/oc/2023/756)).
 [^29-5]: Eingefügt durch Ziff. I der V vom 21. Okt. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 4697](https://fedlex.data.admin.ch/eli/oc/2020/845)).
@@ -665,7 +665,7 @@ Die Entschädigung wird aufgrund des letzten vor der Geburt erzielten und auf de
 [^31-1]: Fassung gemäss Ziff. I der V vom 21. Okt. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 4697](https://fedlex.data.admin.ch/eli/oc/2020/845)).
 [^31-2]: Fassung gemäss Ziff. I der V vom 22. Nov. 2023 (Taggelder für den hinterlassenen Elternteil), in Kraft seit 1. Jan. 2024 ([AS 2023 756](https://fedlex.data.admin.ch/eli/oc/2023/756)).
 [^31-3]: Fassung gemäss Ziff. I der V vom 22. Nov. 2023 (Taggelder für den hinterlassenen Elternteil), in Kraft seit 1. Jan. 2024 ([AS 2023 756](https://fedlex.data.admin.ch/eli/oc/2023/756)).
-[^31-4]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^31-4]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 [^31-5]: Eingefügt durch Ziff. I der V vom 24. Aug. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 497](https://fedlex.data.admin.ch/eli/oc/2022/497)).
 [^31-6]: Eingefügt durch Ziff. I der V vom 24. Aug. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 497](https://fedlex.data.admin.ch/eli/oc/2022/497)).
 [^31-7]: Eingefügt durch Ziff. I der V vom 24. Aug. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 497](https://fedlex.data.admin.ch/eli/oc/2022/497)).
@@ -747,7 +747,7 @@ Zuständig für die Entgegennahme der Anmeldung sowie die Festsetzung und die Au
 
 [^35-1]: Fassung gemäss Ziff. I der V vom 22. Nov. 2023 (Taggelder für den hinterlassenen Elternteil), in Kraft seit 1. Jan. 2024 ([AS 2023 756](https://fedlex.data.admin.ch/eli/oc/2023/756)).
 [^35-2]: Fassung gemäss Ziff. I der V vom 22. Nov. 2023 (Taggelder für den hinterlassenen Elternteil), in Kraft seit 1. Jan. 2024 ([AS 2023 756](https://fedlex.data.admin.ch/eli/oc/2023/756)).
-[^35-3]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^35-3]: [SR 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 [^35-4]: Eingefügt durch Ziff. I der V vom 21. Okt. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 4697](https://fedlex.data.admin.ch/eli/oc/2020/845)).
 [^35-5]: Eingefügt durch Ziff. I der V vom 21. Okt. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 4697](https://fedlex.data.admin.ch/eli/oc/2020/845)).
 
@@ -844,7 +844,7 @@ Die Entschädigung wird aufgrund des letzten vor dem Bezug der jeweiligen Urlaub
 <sup>3</sup> Die Artikel 5 und 6 sind sinngemäss anwendbar.
 
 [^35f-1]: Fassung gemäss Ziff. I der V vom 22. Nov. 2023 (Taggelder für den hinterlassenen Elternteil), in Kraft seit 1. Jan. 2024 ([AS 2023 756](https://fedlex.data.admin.ch/eli/oc/2023/756)).
-[^35f-2]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^35f-2]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 [^35f-3]: Fassung gemäss Ziff. I der V vom 24. Aug. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 497](https://fedlex.data.admin.ch/eli/oc/2022/497)).
 [^35f-4]: Eingefügt durch Ziff. I der V vom 24. Aug. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 497](https://fedlex.data.admin.ch/eli/oc/2022/497)).
 
@@ -909,7 +909,7 @@ Die Entschädigung für Anspruchsberechtigte, die gleichzeitig Arbeitnehmende un
 <sup>4</sup> Für die Festsetzung und die Auszahlung der Entschädigung von Personen, die im Ausland wohnen, ist Artikel 22 sinngemäss anwendbar.
 
 [^35k-1]: Fassung gemäss Ziff. I der V vom 24. Aug. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 497](https://fedlex.data.admin.ch/eli/oc/2022/497)).
-[^35k-2]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^35k-2]: [SR 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 
 ## 2*b*. Kapitel: Adoptionsentschädigung
 
@@ -962,7 +962,7 @@ Die Entschädigung wird aufgrund des letzten vor dem Tag der Aufnahme des Kindes
 <sup>2</sup> Die Artikel 5 und 6 sind sinngemäss anwendbar.
 
 [^35n-1]: Fassung gemäss Ziff. I der V vom 22. Nov. 2023 (Taggelder für den hinterlassenen Elternteil), in Kraft seit 1. Jan. 2024 ([AS 2023 756](https://fedlex.data.admin.ch/eli/oc/2023/756)).
-[^35n-2]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^35n-2]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 35o
 
@@ -1020,7 +1020,7 @@ Die Entschädigung für Anspruchsberechtigte, die gleichzeitig Arbeitnehmende un
 
 <sup>5</sup> Für die Festsetzung und die Auszahlung der Entschädigung von Personen, die im Ausland wohnen, ist Artikel 22 sinngemäss anwendbar.
 
-[^35s-1]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^35s-1]: [SR 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 
 ## 3. Kapitel: Gemeinsame Bestimmungen
 
@@ -1057,7 +1057,7 @@ Die Entschädigung für Anspruchsberechtigte, die gleichzeitig Arbeitnehmende un
 <sup>2</sup> Nichterwerbstätige entrichten einen Beitrag von 25–1250 Franken im Jahr. Die Artikel 28–30 AHVV gelten sinngemäss.
 
 [^36-1]: Fassung gemäss Ziff. I der V vom 28. Aug. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 471](https://fedlex.data.admin.ch/eli/oc/2024/471)).
-[^36-2]: [SR 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
+[^36-2]: [SR 831.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10007)
 
 #### Art. 37
 
@@ -1077,9 +1077,9 @@ Die Entschädigung für Anspruchsberechtigte, die gleichzeitig Arbeitnehmende un
 
 <sup>6</sup> Artikel 6<sup>quater</sup> AHVV[^37-2] betreffend die Beiträge der erwerbstätigen Versicherten nach Erreichen des Referenzalters nach Artikel 21 Absatz 1 AHVG[^37-3] und Artikel 34*d* AHVV betreffend den geringfügigen Lohn sind nicht anwendbar.[^37-4]
 
-[^37-1]: [SR 836.1](https://fedlex.data.admin.ch/eli/cc/1952/823_843_839)
-[^37-2]: [SR 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
-[^37-3]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^37-1]: [SR 836.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10273)
+[^37-2]: [SR 831.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10007)
+[^37-3]: [SR 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 [^37-4]: Fassung gemäss Anhang Ziff. 11 der V vom 30. Aug. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
 
 #### Art. 38
@@ -1094,8 +1094,8 @@ Die Entschädigung für Anspruchsberechtigte, die gleichzeitig Arbeitnehmende un
 
 <sup>3</sup> Artikel 6<sup>quater</sup> AHVV[^38-1] betreffend die Beiträge der erwerbstätigen Versicherten nach Erreichen des Referenzalters nach Artikel 21 Absatz 1 AHVG[^38-2] und Artikel 19 AHVV betreffend den geringfügigen Nebenerwerb aus selbstständiger Erwerbstätigkeit sind nicht anwendbar.[^38-3]
 
-[^38-1]: [SR 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
-[^38-2]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^38-1]: [SR 831.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10007)
+[^38-2]: [SR 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 [^38-3]: Fassung gemäss Anhang Ziff. 11 der V vom 30. Aug. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
 
 #### Art. 39
@@ -1114,7 +1114,7 @@ Der Arbeitgeber hat über die von ihm ausbezahlten Entschädigungen mit der Ausg
 
 Für uneinbringliche Rückerstattungen ist Artikel 79<sup>bis</sup> AHVV[^40-1] anwendbar.
 
-[^40-1]: [SR 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
+[^40-1]: [SR 831.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10007)
 
 #### Art. 41
 
@@ -1133,7 +1133,7 @@ Für uneinbringliche Rückerstattungen ist Artikel 79<sup>bis</sup> AHVV[^40-1] 
 Soweit im EOG und in dieser Verordnung nichts Abweichendes bestimmt wird, gelten die Vorschriften des Vierten und des Sechsten Abschnitts sowie die Artikel 34–43 und 205–212<sup>bis</sup> AHVV[^42-2] sinngemäss.
 
 [^42-1]: Fassung gemäss Anhang Ziff. 7 der V vom 22. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)).
-[^42-2]: [SR 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
+[^42-2]: [SR 831.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10007)
 
 ## 4. Kapitel: Schlussbestimmungen
 

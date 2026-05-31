@@ -4,11 +4,11 @@ title: Ordonnance du 24 novembre 2004 sur les allocations pour perte de gain (OA
 short: OAPG
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/187"
 language: fr
-version: 2025-01-01
+version: 2026-06-01
 adopted: 2004-11-24
 in_force: 2005-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/187/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-2005-187-20250101-fr-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/187/20250101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/187/20260601/fr/xml/fedlex-data-admin-ch-eli-cc-2005-187-20260601-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/187/20260601/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2005/187/20250101/fr"
 
 (OAPG)[^t-1]
 
-du 24 novembre 2004 (État le 1<sup>er</sup> janvier 2025)
+du 24 novembre 2004 (État le 1<sup>er</sup> juin 2026)
 
 [^t-1]: Nouvelle teneur selon le ch. I de l’O du 22 nov. 2023 (Indemnités journalières pour le parent survivant), en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 756](https://fedlex.data.admin.ch/eli/oc/2023/756)).
 
@@ -27,8 +27,8 @@ vu l’art. 81 de la loi fédérale du 6 octobre 2000 sur la partie générale d
 
 arrête:
 
-[^ingress-1]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
-[^ingress-2]: [RS 834.1](https://fedlex.data.admin.ch/eli/cc/1952/1021_1046_1050)
+[^ingress-1]: [RS 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
+[^ingress-2]: [RS 834.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10262)
 
 ## Chapitre 1 Allocation en cas de service
 
@@ -99,13 +99,13 @@ L’allocation des salariés est calculée sur la base du dernier salaire déter
 
 [^4-1]: Nouvelle teneur selon le ch. I de l’O du 20 nov. 2024 (Numérisation dans le régime des APG: phase d’introduction du système d’information), en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 719](https://fedlex.data.admin.ch/eli/oc/2024/719)).
 [^4-2]: Nouvelle teneur selon le ch. I de l’O du 22 nov. 2023 (Indemnités journalières pour le parent survivant), en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 756](https://fedlex.data.admin.ch/eli/oc/2023/756)).
-[^4-3]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^4-3]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 [^4-4]: Nouvelle teneur selon le ch. I de l’O du 12 mai 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 289](https://fedlex.data.admin.ch/eli/oc/2021/289)).
 [^4-5]: Introduite par le ch. I de l’O du 12 mai 2021 ([RO 2021 289](https://fedlex.data.admin.ch/eli/oc/2021/289)). Nouvelle teneur selon le ch. I de l’O du 24 août 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 497](https://fedlex.data.admin.ch/eli/oc/2022/497)).
 [^4-6]: Introduite par le ch. I de l’O du 24 août 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 497](https://fedlex.data.admin.ch/eli/oc/2022/497)).
 [^4-7]: Nouvelle teneur selon le ch. I de l’O du 28 août 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 471](https://fedlex.data.admin.ch/eli/oc/2024/471)).
 [^4-8]: Introduit par le ch. I de l’O du 28 août 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 471](https://fedlex.data.admin.ch/eli/oc/2024/471)).
-[^4-9]: [RS 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
+[^4-9]: [RS 831.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10007)
 
 #### Art. 5
 
@@ -167,10 +167,10 @@ L’allocation des personnes exerçant une activité indépendante est calculée
 <sup>3</sup> Si une personne exerçant une activité indépendante n’est pas astreinte à payer des cotisations en vertu de la loi fédérale du 20 décembre 1946 sur l’assurance-vieillesse et survivants (LAVS)[^7-5],son allocation est calculée d’après le revenu acquis au cours de l’année précédant celle de l’entrée en service.
 
 [^7-1]: Nouvelle teneur selon le ch. I de l’O du 22 nov. 2023 (Indemnités journalières pour le parent survivant), en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 756](https://fedlex.data.admin.ch/eli/oc/2023/756)).
-[^7-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^7-2]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 [^7-3]: Nouvelle teneur selon le ch. I de l’O du 12 mai 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 289](https://fedlex.data.admin.ch/eli/oc/2021/289)).
 [^7-4]: Introduit par le ch. I de l’O du 12 mai 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 289](https://fedlex.data.admin.ch/eli/oc/2021/289)).
-[^7-5]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^7-5]: [RS 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 
 #### Art. 8
 
@@ -245,7 +245,7 @@ Les personnes qui exercent leur activité principale dans une exploitation agric
 - b. elles accomplissent une période de service ininterrompue de douze jours au minimum; et
 - c. elles sont remplacées pendant dix jours au moins par un auxiliaire auquel est versé un salaire journalier moyen en espèces égal ou supérieur au montant de l’allocation d’exploitation.
 
-[^14-1]: [RS 836.1](https://fedlex.data.admin.ch/eli/cc/1952/823_843_839)
+[^14-1]: [RS 836.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10273)
 
 ### Section 5 Exercice du droit à l’allocation
 
@@ -289,10 +289,10 @@ L’Office fédéral des assurances sociales remet le formulaire de demande et l
 
 <sup>4</sup> Les jours donnant droit à l’allocation ne doivent être attestés qu’une seule fois.
 
-<sup>5</sup> La caisse de compensation compétente établit un duplicata lorsqu’une demande d’allocation est déposée au moyen d’un formulaire papier officiel et qu’elle contient des éléments erronés ou que le formulaire a été égaré. Elle y atteste le nombre de jours donnant droit à l’allocation en se fondant sur les données contenues dans le système d’information prévu à l’art. 21*a* LAPG, sur le livret de service, sur l’attestation de cours ou sur un extrait du système d’information du service civil.[^16-2]
+<sup>5</sup> La caisse de compensation compétente établit un duplicata lorsqu’une demande d’allocation est déposée au moyen d’un formulaire papier officiel et qu’elle contient des éléments erronés ou que le formulaire a été égaré. Elle y atteste le nombre de jours de service donnant droit à l’allocation en se fondant sur les données contenues dans le système d’information prévu à l’art. 21*a* LAPG, sur l’attestation de cours ou sur un extrait du système d’information du service civil.[^16-2]
 
 [^16-1]: Depuis le 1<sup>er</sup> janv. 2019: Office fédéral du service civil.
-[^16-2]: Nouvelle teneur selon le ch. I de l’O du 20 nov. 2024 (Numérisation dans le régime des APG: phase d’introduction du système d’information), en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 719](https://fedlex.data.admin.ch/eli/oc/2024/719)).
+[^16-2]: Nouvelle teneur selon l’annexe ch. 9 de l’O du 1<sup>er</sup> avr. 2026, en vigueur depuis le 1<sup>er</sup> juin 2026 ([RO 2026 174](https://fedlex.data.admin.ch/eli/oc/2026/174)).
 
 #### Art. 17
 
@@ -447,7 +447,7 @@ La CdC est responsable de la protection des données du système d’information
 
 <sup>4</sup> Constituent des preuves du paiement les justificatifs internes des caisses, l’attestation d’exécution de Postfinance ou l’avis de débit de la banque.
 
-[^21-1]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^21-1]: [RS 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 [^21-2]: Nouvelle teneur selon le ch. I de l’O du 20 nov. 2024 (Numérisation dans le régime des APG: phase d’introduction du système d’information), en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 719](https://fedlex.data.admin.ch/eli/oc/2024/719)).
 
 #### Art. 22
@@ -460,7 +460,7 @@ La CdC est responsable de la protection des données du système d’information
 
 <sup>2</sup> L’allocation est payée dans la monnaie de l’État de résidence de l’ayant droit. L’art. 20, al. 2, de l’ordonnance du 26 mai 1961 concernant l’assurance-vieillesse, survivants et invalidité facultative[^22-1] s’applique par analogie à la conversion de l’allocation en monnaie étrangère.
 
-[^22-1]: [RS 831.111](https://fedlex.data.admin.ch/eli/cc/1961/419_429_439)
+[^22-1]: [RS 831.111](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10019)
 
 ## Chapitre 2 Allocation de maternité et allocation à l’autre parent
 
@@ -522,7 +522,7 @@ Pour la détermination de la période minimale fixée à l’art. 16*b*, al. 1, 
 
 [^26-1]: Nouvelle teneur selon le ch. I de l’O du 21 oct. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 4697](https://fedlex.data.admin.ch/eli/oc/2020/845)).
 [^26-2]: Nouvelle teneur selon le ch. I de l’O du 22 nov. 2023 (Indemnités journalières pour le parent survivant), en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 756](https://fedlex.data.admin.ch/eli/oc/2023/756)).
-[^26-3]: [RS 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
+[^26-3]: [RS 0.142.112.681](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/211)
 [^26-4]: R (CEE) n<sup>o</sup> 574/72 du Conseil du 21 mars 1972 relatif à l’application du R (CEE) 1408/71 (JO L 74 du 27 mars 1972, également codifié par le R (CE) n<sup>o</sup> 118/97 du Conseil, du 2 déc. 1996 (JO L 28 du 30 janv. 1997); modifié en dernier lieu par le R (CE) n<sup>o</sup> 307/1999 du Conseil, du 8 fév. 1999 (JO L 38 du 12 fév. 1999).
 [^26-5]: Une version consolidée provisoire des R (CEE) n<sup>os</sup> 1408/71 et 574/72, y compris les mod. introduites par le R (CE) n<sup>o</sup> 307/1999 du Conseil, peut être obtenue à l’Office fédéral des assurances sociales, 3003 Berne. Seule fait foi la version publiée dans le Journal Officel des CE.
 
@@ -560,7 +560,7 @@ Pour la détermination de la durée minimale fixée à l’art. 16*b*, al. 1, le
 
 [^28-1]: Nouvelle teneur selon le ch. I de l’O du 21 oct. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 4697](https://fedlex.data.admin.ch/eli/oc/2020/845)).
 [^28-2]: Nouvelle teneur selon le ch. I de l’O du 21 oct. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 4697](https://fedlex.data.admin.ch/eli/oc/2020/845)).
-[^28-3]: [RS 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
+[^28-3]: [RS 0.142.112.681](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/211)
 [^28-4]: R (CEE) n<sup>o</sup> 574/72 du Conseil du 21 mars 1972 relatif à l’application du R (CEE) 1408/71 (JO L 74 du 27 mars 1972 également codifié parle R (CE) n<sup>o</sup> 118/97 du Conseil, du 2 déc. 1996 (JO L 28 du 30 janv. 1997; modifié en dernier lieu par le R (CE) n<sup>o</sup> 307/1999 du Conseil, du 8 fév. 1999 (JO L 38 du 12 fév. 1999).
 [^28-5]: Une version consolidée provisoire des R (CEE) n<sup>os</sup> 1408/71 et 574/72, y compris les mod. introduites par le R (CE) n<sup>o</sup> 307/1999 du Conseil, peut être obtenue à l’Office fédéral des assurances sociales, 3003 Berne. Seule fait foi la version publiée dans le Journal officiel des CE.
 
@@ -611,7 +611,7 @@ L’autre parent au sens de l’al. 2, let. a, a droit à des indemnités journa
 - b. s’il présente un certificat médical conformément à l’art. 24.[^29-6]
 
 [^29-1]: Nouvelle teneur selon le ch. I de l’O du 22 nov. 2023 (Indemnités journalières pour le parent survivant), en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 756](https://fedlex.data.admin.ch/eli/oc/2023/756)).
-[^29-2]: [RS 837.0](https://fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184)
+[^29-2]: [RS 837.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10282)
 [^29-3]: Introduit par le ch. I de l’O du 12 mai 2021 en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 289](https://fedlex.data.admin.ch/eli/oc/2021/289)).
 [^29-4]: Nouvelle teneur selon le ch. I de l’O du 22 nov. 2023 (Indemnités journalières pour le parent survivant), en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 756](https://fedlex.data.admin.ch/eli/oc/2023/756)).
 [^29-5]: Introduit par le ch. I de l’O du 21 oct. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 4697](https://fedlex.data.admin.ch/eli/oc/2020/845)).
@@ -664,7 +664,7 @@ L’allocation est calculée sur la base du dernier salaire déterminant acquis 
 [^31-1]: Nouvelle teneur selon le ch. I de l’O du 22 nov. 2023 (Indemnités journalières pour le parent survivant), en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 756](https://fedlex.data.admin.ch/eli/oc/2023/756)).
 [^31-2]: Nouvelle teneur selon le ch. I de l’O du 22 nov. 2023 (Indemnités journalières pour le parent survivant), en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 756](https://fedlex.data.admin.ch/eli/oc/2023/756)).
 [^31-3]: Nouvelle teneur selon le ch. I de l’O du 22 nov. 2023 (Indemnités journalières pour le parent survivant), en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 756](https://fedlex.data.admin.ch/eli/oc/2023/756)).
-[^31-4]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^31-4]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 [^31-5]: Introduite par le ch. I de l’O du 24 août 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 497](https://fedlex.data.admin.ch/eli/oc/2022/497)).
 [^31-6]: Introduite par le ch. I de l’O du 24 août 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 497](https://fedlex.data.admin.ch/eli/oc/2022/497)).
 [^31-7]: Introduite par le ch. I de l’O du 24 août 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 497](https://fedlex.data.admin.ch/eli/oc/2022/497)).
@@ -746,7 +746,7 @@ La caisse de compensation compétente pour le dépôt de la demande et pour la f
 
 [^35-1]: Nouvelle teneur selon le ch. I de l’O du 22 nov. 2023 (Indemnités journalières pour le parent survivant), en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 756](https://fedlex.data.admin.ch/eli/oc/2023/756)).
 [^35-2]: Nouvelle teneur selon le ch. I de l’O du 22 nov. 2023 (Indemnités journalières pour le parent survivant), en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 756](https://fedlex.data.admin.ch/eli/oc/2023/756)).
-[^35-3]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^35-3]: [RS 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 [^35-4]: Introduit par le ch. I de l’O du 21 oct. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 4697](https://fedlex.data.admin.ch/eli/oc/2020/845)).
 [^35-5]: Introduit par le ch. I de l’O du 21 oct. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 4697](https://fedlex.data.admin.ch/eli/oc/2020/845)).
 
@@ -843,7 +843,7 @@ L’allocation est calculée sur la base du dernier salaire déterminant acquis 
 <sup>3</sup> Les art. 5 et 6 s’appliquent par analogie.
 
 [^35f-1]: Nouvelle teneur selon le ch. I de l’O du 22 nov. 2023 (Indemnités journalières pour le parent survivant), en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 756](https://fedlex.data.admin.ch/eli/oc/2023/756)).
-[^35f-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^35f-2]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 [^35f-3]: Nouvelle teneur selon le ch. I de l’O du 24 août 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 497](https://fedlex.data.admin.ch/eli/oc/2022/497)).
 [^35f-4]: Introduite par le ch. I de l’O du 24 août 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 497](https://fedlex.data.admin.ch/eli/oc/2022/497)).
 
@@ -908,7 +908,7 @@ L’allocation des ayants droit exerçant à la fois une activité salariée et 
 <sup>4</sup> L’art. 22 s’applique par analogie à la fixation et au paiement de l’allocation des personnes à l’étranger.
 
 [^35k-1]: Nouvelle teneur selon le ch. I de l’O du 24 août 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 497](https://fedlex.data.admin.ch/eli/oc/2022/497)).
-[^35k-2]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^35k-2]: [RS 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 
 ## Chapitre 2*b* Allocation d’adoption
 
@@ -961,7 +961,7 @@ L’allocation est calculée sur la base du dernier salaire déterminant acquis 
 <sup>2</sup> Les art. 5 et 6 s’appliquent par analogie.
 
 [^35n-1]: Nouvelle teneur selon le ch. I de l’O du 22 nov. 2023 (Indemnités journalières pour le parent survivant), en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 756](https://fedlex.data.admin.ch/eli/oc/2023/756)).
-[^35n-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^35n-2]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 35o
 
@@ -1019,7 +1019,7 @@ L’allocation des ayants droit exerçant à la fois une activité salariée et 
 
 <sup>5</sup> L’art. 22 s’applique par analogie à la fixation et au paiement de l’allocation des personnes à l’étranger.
 
-[^35s-1]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^35s-1]: [RS 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 
 ## Chapitre 3 Dispositions communes
 
@@ -1056,7 +1056,7 @@ L’allocation des ayants droit exerçant à la fois une activité salariée et 
 <sup>2</sup> Les personnes sans activité lucrative acquittent une cotisation de 25 à 1250 francs par an. Les art. 28 à 30 RAVS s’appliquent par analogie.
 
 [^36-1]: Nouvelle teneur selon le ch. I de l’O du 28 août 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 471](https://fedlex.data.admin.ch/eli/oc/2024/471)).
-[^36-2]: [RS 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
+[^36-2]: [RS 831.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10007)
 
 #### Art. 37
 
@@ -1076,9 +1076,9 @@ L’allocation des ayants droit exerçant à la fois une activité salariée et 
 
 <sup>6</sup> L’art. 6<sup>quater</sup> RAVS[^37-2] sur les cotisations dues par les assurés actifs après avoir atteint l’âge de référence fixé à l’art. 21, al. 1, LAVS[^37-3] et l’art. 34*d* RAVS sur le salaire de minime importance ne sont pas applicables.[^37-4]
 
-[^37-1]: [RS 836.1](https://fedlex.data.admin.ch/eli/cc/1952/823_843_839)
-[^37-2]: [RS 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
-[^37-3]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^37-1]: [RS 836.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10273)
+[^37-2]: [RS 831.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10007)
+[^37-3]: [RS 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 [^37-4]: Nouvelle teneur selon l’annexe ch. 11 de l’O du 30 août 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
 
 #### Art. 38
@@ -1093,8 +1093,8 @@ L’allocation des ayants droit exerçant à la fois une activité salariée et 
 
 <sup>3</sup> L’art. 6<sup>quater</sup> RAVS[^38-1] sur les cotisations dues par les assurés actifs après avoir atteint l’âge de référence fixé à l’art. 21, al. 1, LAVS[^38-2] et l’art. 19 RAVS sur les revenus de minime importance provenant d’une activité indépendante exercée à titre accessoire ne sont pas applicables.[^38-3]
 
-[^38-1]: [RS 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
-[^38-2]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^38-1]: [RS 831.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10007)
+[^38-2]: [RS 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 [^38-3]: Nouvelle teneur selon l’annexe ch. 11 de l’O du 30 août 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
 
 #### Art. 39
@@ -1113,7 +1113,7 @@ L’employeur inclut les allocations qu’il a versées dans le décompte destin
 
 L’art. 79<sup>bis</sup> RAVS[^40-1] s’applique aux créances en restitution irrécouvrables.
 
-[^40-1]: [RS 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
+[^40-1]: [RS 831.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10007)
 
 #### Art. 41
 
@@ -1132,7 +1132,7 @@ L’art. 79<sup>bis</sup> RAVS[^40-1] s’applique aux créances en restitution 
 Les chap. IV et VI et les art. 34 à 43 et 205 à 212<sup>bis</sup> RAVS[^42-2] s’appliquent par analogie, sous réserve des dispositions contraires de la LAPG et de la présente ordonnance.
 
 [^42-1]: Nouvelle teneur selon le ch. I de l’O du 20 nov. 2024 (Numérisation dans le régime des APG: phase d’introduction du système d’information), en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 719](https://fedlex.data.admin.ch/eli/oc/2024/719)).
-[^42-2]: [RS 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
+[^42-2]: [RS 831.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10007)
 
 ## Chapitre 4 Dispositions finales
 
