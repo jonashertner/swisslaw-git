@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 3. Februar 1995 über die Armee und die Militärverwalt
 short: MG
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093"
 language: de
-version: 2026-01-01
+version: 2026-06-01
 adopted: 1995-02-03
 in_force: 1996-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093/20260101/de/xml/fedlex-data-admin-ch-eli-cc-1995-4093_4093_4093-20260101-de-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/4093_4093_4093/20260101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093/20260601/de/xml/fedlex-data-admin-ch-eli-cc-1995-4093_4093_4093-20260601-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/4093_4093_4093/20260601/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/4093_4093_4093/20260101/de"
 
 (Militärgesetz, MG)
 
-vom 3. Februar 1995 (Stand am 1. Januar 2026)
+vom 3. Februar 1995 (Stand am 1. Juni 2026)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -242,31 +242,40 @@ Bei der Rekrutierung der Stellungspflichtigen werden mittels Untersuchungen, Tes
 
 **Zuständigkeit und Aufteilung der Kosten**
 
-<sup>1</sup> Die Einwohnergemeinden melden den kantonalen Militärbehörden jährlich und unentgeltlich Namen, Vornamen, Wohnadresse und AHV-Nummer[^11-1] der Stellungspflichtigen nach ihrem Einwohnerregister.[^11-2]
+<sup>1</sup>
+
+Die für die Einwohnerregister zuständigen Behörden melden den kantonalen Militärbehörden jährlich und unentgeltlich folgende Daten der Stellungspflichtigen:
+
+- a. Namen und Vornamen;
+- b. Wohnadresse und Heimatgemeinden;
+- c. AHV-Nummer;
+- d. Geburtsdatum;
+- e. Geschlecht;
+- f. Muttersprache;
+- g. ausgeübter Beruf.[^11-1]
 
 <sup>2</sup>
 
 Die Kantone haben folgende Aufgaben:
 
 - a. Sie nehmen die Stellungspflichtigen in die Militärkontrolle auf.
-- b.[^11-3] Sie führen die Orientierungsveranstaltung durch.
-- c.[^11-4] Sie geben an der Orientierungsveranstaltung den Ausweis über die Erfüllung der Militärdienstpflicht ab.
+- b.[^11-2] Sie führen die Orientierungsveranstaltung durch.
+- c.[^11-3] Sie geben an der Orientierungsveranstaltung den Ausweis über die Erfüllung der Militärdienstpflicht ab.
 - d. Sie wirken bei der Rekrutierung mit.
-- e.[^11-5] Sie laden die Frauen zur Orientierungsveranstaltung ein.
+- e.[^11-4] Sie laden die Frauen zur Orientierungsveranstaltung ein.
 
-<sup>2bis</sup> Der Bundesrat legt die Ziele der Orientierungsveranstaltung, die zu vermittelnden Informationen und die zu erhebenden Daten fest. Das Eidgenössische Departement für Verteidigung, Bevölkerungsschutz und Sport (VBS) regelt die Einzelheiten.[^11-6]
+<sup>2bis</sup> Der Bundesrat legt die Ziele der Orientierungsveranstaltung, die zu vermittelnden Informationen und die zu erhebenden Daten fest. Das Eidgenössische Departement für Verteidigung, Bevölkerungsschutz und Sport (VBS) regelt die Einzelheiten.[^11-5]
 
 <sup>3</sup> Der Bund führt die Rekrutierung durch. Er unterstützt die Kantone bei der Erfassung der stellungspflichtigen Auslandschweizer.
 
-<sup>4</sup> Der Bund trägt die Kosten für die Rekrutierung. Die Kantone tragen die Kosten für die Orientierungsveranstaltung.[^11-7]
+<sup>4</sup> Der Bund trägt die Kosten für die Rekrutierung. Die Kantone tragen die Kosten für die Orientierungsveranstaltung.[^11-6]
 
-[^11-1]: Ausdruck gemäss Anhang Ziff. 13 des BG vom 18. Dez. 2020 (Systematische Verwendung der AHV-Nummer durch Behörden), in Kraft seit 1. Jan. 2022 ([AS 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [BBl 2019 7359](https://fedlex.data.admin.ch/eli/fga/2019/2681)).
+[^11-1]: Fassung gemäss Ziff. I des BG vom 19. Dez. 2025, in Kraft seit 1. Juni 2026 ([AS 2026 164](https://fedlex.data.admin.ch/eli/oc/2026/164); [BBl 2025 960](https://fedlex.data.admin.ch/eli/fga/2025/960)).
 [^11-2]: Fassung gemäss Ziff. I des BG vom 19. März 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869); [BBl 2009 5917](https://fedlex.data.admin.ch/eli/fga/2009/1057)).
 [^11-3]: Fassung gemäss Ziff. I des BG vom 19. März 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869); [BBl 2009 5917](https://fedlex.data.admin.ch/eli/fga/2009/1057)).
-[^11-4]: Fassung gemäss Ziff. I des BG vom 19. März 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869); [BBl 2009 5917](https://fedlex.data.admin.ch/eli/fga/2009/1057)).
-[^11-5]: Eingefügt durch Ziff. I des BG vom 4. Okt. 2002, in Kraft seit 1. Jan. 2004 ([AS 2003 3957](https://fedlex.data.admin.ch/eli/oc/2003/570); [BBl 2002 858](https://fedlex.data.admin.ch/eli/fga/2002/118)).
-[^11-6]: Eingefügt durch Ziff. I des BG vom 19. März 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869); [BBl 2009 5917](https://fedlex.data.admin.ch/eli/fga/2009/1057)).
-[^11-7]: Fassung gemäss Ziff. I des BG vom 4. Okt. 2002, in Kraft seit 1. Jan. 2004 ([AS 2003 3957](https://fedlex.data.admin.ch/eli/oc/2003/570); [BBl 2002 858](https://fedlex.data.admin.ch/eli/fga/2002/118)).
+[^11-4]: Eingefügt durch Ziff. I des BG vom 4. Okt. 2002, in Kraft seit 1. Jan. 2004 ([AS 2003 3957](https://fedlex.data.admin.ch/eli/oc/2003/570); [BBl 2002 858](https://fedlex.data.admin.ch/eli/fga/2002/118)).
+[^11-5]: Eingefügt durch Ziff. I des BG vom 19. März 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869); [BBl 2009 5917](https://fedlex.data.admin.ch/eli/fga/2009/1057)).
+[^11-6]: Fassung gemäss Ziff. I des BG vom 4. Okt. 2002, in Kraft seit 1. Jan. 2004 ([AS 2003 3957](https://fedlex.data.admin.ch/eli/oc/2003/570); [BBl 2002 858](https://fedlex.data.admin.ch/eli/fga/2002/118)).
 
 ### 2. Abschnitt: Militärdienst
 
@@ -278,7 +287,7 @@ Die Kantone haben folgende Aufgaben:
 
 **Grundsatz**[^12-1]
 
-Militärdienstpflichtige, die militärdiensttauglich sind, müssen folgende Dienste leisten:
+Militärdienstpflichtige, die militärdiensttauglich sind, müssen folgende Dienste leisten und Pflichten erfüllen:[^12-2]
 
 - a. Ausbildungsdienste (Art. 41–61);
 - b. Friedensförderungsdienst, für den sie sich angemeldet haben (Art. 66);
@@ -287,6 +296,7 @@ Militärdienstpflichtige, die militärdiensttauglich sind, müssen folgende Dien
 - e. allgemeine Pflichten ausser Dienst (Art. 25).
 
 [^12-1]: Fassung gemäss Ziff. I des BG vom 19. März 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869); [BBl 2009 5917](https://fedlex.data.admin.ch/eli/fga/2009/1057)).
+[^12-2]: Fassung gemäss Ziff. I des BG vom 19. Dez. 2025, in Kraft seit 1. Juni 2026 ([AS 2026 164](https://fedlex.data.admin.ch/eli/oc/2026/164); [BBl 2025 960](https://fedlex.data.admin.ch/eli/fga/2025/960)).
 
 #### Art. 13
 
@@ -298,7 +308,8 @@ Die Militärdienstpflicht dauert:
 
 - a. für Angehörige der Mannschaft und für Unteroffiziere: bis zum Ende des zwölften Jahres nach Abschluss der Rekrutenschule;
 - a<sup>bis</sup>.[^13-2] für Rekrutierte, die nach Artikel 49 Absatz 2 aus der Armee entlassen wurden: bis zum Ende des zwölften Jahres nach der Entlassung aus der Armee;
-- b.[^13-3]
+- a<sup>ter</sup>.[^13-3] für Stellungspflichtige, welche die Altersgrenze zur Absolvierung der Rekrutierung nach Artikel 9 Absatz 2 überschritten haben: bis zum Ende des zwölften Jahres nach deren Überschreitung;
+- b.[^13-4]
 
   für höhere Unteroffiziere:
 
@@ -325,12 +336,13 @@ Der Bundesrat kann:
 
 - a. zur Steuerung des Bestandes der Armee die Altersgrenzen um höchstens fünf Jahre herabsetzen;
 - b. für einen Aktiv- oder Assistenzdienst die Altersgrenzen um höchstens fünf Jahre hinaufsetzen;
-- c.[^13-4] vorsehen, dass höhere Unteroffiziere, Offiziere sowie Spezialistinnen und Spezialisten bei Bedarf der Armee die Dauer der Militärdienstpflicht verlängern können, jedoch längstens bis zum Ende des Jahres, in dem sie das 65. Altersjahr vollenden.
+- c.[^13-5] vorsehen, dass höhere Unteroffiziere, Offiziere sowie Spezialistinnen und Spezialisten bei Bedarf der Armee die Dauer der Militärdienstpflicht verlängern können, jedoch längstens bis zum Ende des Jahres, in dem sie das 65. Altersjahr vollenden.
 
 [^13-1]: Fassung gemäss Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2018 ([AS 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [BBl 2014 6955](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
 [^13-2]: Eingefügt durch Ziff. I des BG vom 18. März 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [BBl 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
-[^13-3]: Fassung gemäss Ziff. I des BG vom 18. März 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [BBl 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
+[^13-3]: Eingefügt durch Ziff. I des BG vom 19. Dez. 2025, in Kraft seit 1. Juni 2026 ([AS 2026 164](https://fedlex.data.admin.ch/eli/oc/2026/164); [BBl 2025 960](https://fedlex.data.admin.ch/eli/fga/2025/960)).
 [^13-4]: Fassung gemäss Ziff. I des BG vom 18. März 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [BBl 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
+[^13-5]: Fassung gemäss Ziff. I des BG vom 18. März 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [BBl 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
 
 #### Art. 14
 
@@ -370,11 +382,13 @@ Die Angehörigen der Armee können verpflichtet werden, einen bestimmten Grad zu
 
 #### Art. 17
 
-**Dienstbefreiung der Parlamentarier und Parlamentarierinnen**
+**Dienstbefreiung der Mitglieder der Bundesversammlung[^17-1]**
 
 <sup>1</sup> Die Mitglieder der Bundesversammlung sind während der Dauer der Sessionen und der Sitzungen der Kommissionen und Fraktionen der eidgenössischen Räte vom Ausbildungsdienst und vom Assistenzdienst befreit.
 
 <sup>2</sup> Sie müssen nur Ausbildungsdienst für einen höheren Grad oder eine neue Funktion nachholen.
+
+[^17-1]: Fassung gemäss Ziff. I des BG vom 19. Dez. 2025, in Kraft seit 1. Juni 2026 ([AS 2026 164](https://fedlex.data.admin.ch/eli/oc/2026/164); [BBl 2025 960](https://fedlex.data.admin.ch/eli/fga/2025/960)).
 
 #### Art. 18
 
@@ -384,9 +398,9 @@ Die Angehörigen der Armee können verpflichtet werden, einen bestimmten Grad zu
 
 Für die Dauer ihres Amtes oder ihrer Anstellung werden von der Militärdienstpflicht befreit:
 
-- a. die Mitglieder des Bundesrates, der Bundeskanzler und die Vizekanzler;
-- b. Geistliche, die nicht der Armeeseelsorge angehören;
-- c.[^18-1]
+- a.[^18-1] die Mitglieder des Bundesrates, die Bundeskanzlerin oder der Bundeskanzler sowie die Vizekanzlerinnen oder Vizekanzler;
+- b.[^18-2] …
+- c.[^18-3]
 
   die folgenden hauptberuflich tätigen Personen:
 
@@ -399,33 +413,36 @@ Für die Dauer ihres Amtes oder ihrer Anstellung werden von der Militärdienstpf
   - 7\. Angehörige von staatlich anerkannten Feuerwehren und Wehrdiensten,
   - 8\. Angestellte der zivilen Flugsicherungsdienste, die für die Sicherstellung der zivilen Flugsicherung unentbehrlich sind und nicht zwingend für die militärische Flugsicherung benötigt werden;
 
-- d.–i.[^18-2] …
-- j.[^18-3] …
+- d.–i.[^18-4] …
+- j.[^18-5] …
 
-<sup>2</sup> Das VBS[^18-4] kann in begründeten Ausnahmefällen weitere hauptberufliche Angehörige von öffentlichen und privaten Institutionen und Diensten, die lebensnotwendige oder für die Nothilfe oder die Bewältigung von Katastrophen unentbehrliche Dienstleistungen erbringen, befreien, soweit sie für die entsprechenden Aufgaben in der Armee nicht zwingend benötigt werden.
+<sup>2</sup> Das VBS[^18-6] kann in begründeten Ausnahmefällen weitere hauptberufliche Angehörige von öffentlichen und privaten Institutionen und Diensten, die lebensnotwendige oder für die Nothilfe oder die Bewältigung von Katastrophen unentbehrliche Dienstleistungen erbringen, befreien, soweit sie für die entsprechenden Aufgaben in der Armee nicht zwingend benötigt werden.
 
-<sup>3</sup> Die Mitglieder des Bundesrates, der Bundeskanzler und die Vizekanzler werden von Amtes wegen befreit, die andern Personen auf Gesuch hin. Das Gesuch wird vom Arbeitgeber, der Arbeitgeberin oder der Stelle, die der militärdienstpflichtigen Person übergeordnet ist, gemeinsam mit dieser gestellt.
+<sup>3</sup> Personen nach Absatz 1 Buchstabe a werden von Amtes wegen befreit, die anderen Personen auf Gesuch hin.[^18-7] Das Gesuch wird vom Arbeitgeber, der Arbeitgeberin oder der Stelle, die der militärdienstpflichtigen Person übergeordnet ist, gemeinsam mit dieser gestellt.
 
 <sup>4</sup> Der Bundesrat regelt die Einzelheiten in Bezug auf die Institutionen, Personen und Tätigkeiten sowie die Zuständigkeit für den Entscheid.
 
-<sup>5</sup> Militärdienstpflichtige nach Absatz 1 Buchstabe c werden erst befreit, wenn sie die Rekrutenschule bestanden haben.[^18-5]
+<sup>5</sup> Militärdienstpflichtige nach Absatz 1 Buchstabe c werden erst befreit, wenn sie die Rekrutenschule bestanden haben.[^18-8]
 
-<sup>6</sup> Nicht von der Militärdienstpflicht befreit werden Angehörige der Armee, die als Cyberspezialistinnen und Cyberspezialisten eingeteilt sind und die von der Armee zwingend benötigt werden.[^18-6]
+<sup>6</sup> Nicht von der Militärdienstpflicht befreit werden Angehörige der Armee, die als Cyberspezialistinnen und Cyberspezialisten eingeteilt sind und die von der Armee zwingend benötigt werden.[^18-9]
 
-[^18-1]: Fassung gemäss Ziff. I des BG vom 18. März 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [BBl 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
-[^18-2]: Aufgehoben durch Ziff. I des BG vom 18. März 2022, mit Wirkung seit 1. Jan. 2023 ([AS 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [BBl 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
-[^18-3]: Eingefügt durch Ziff. I des BG vom 18. März 2016 ([AS 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714); [BBl 2014 6955](https://fedlex.data.admin.ch/eli/fga/2014/1566)). Aufgehoben durch Ziff. I des BG vom 18. März 2022, mit Wirkung seit 1. Jan. 2023 ([AS 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [BBl 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
-[^18-4]: Bezeichnung gemäss Ziff. I des BG vom 19. März 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869); [BBl 2009 5917](https://fedlex.data.admin.ch/eli/fga/2009/1057)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
-[^18-5]: Fassung gemäss Ziff. I des BG vom 18. März 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [BBl 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
-[^18-6]: Eingefügt durch Ziff. I des BG vom 18. März 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [BBl 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
+[^18-1]: Fassung gemäss Ziff. I des BG vom 19. Dez. 2025, in Kraft seit 1. Juni 2026 ([AS 2026 164](https://fedlex.data.admin.ch/eli/oc/2026/164); [BBl 2025 960](https://fedlex.data.admin.ch/eli/fga/2025/960)).
+[^18-2]: Aufgehoben durch Ziff. I des BG vom 19. Dez. 2025, mit Wirkung seit 1. Juni 2026 ([AS 2026 164](https://fedlex.data.admin.ch/eli/oc/2026/164); [BBl 2025 960](https://fedlex.data.admin.ch/eli/fga/2025/960)).
+[^18-3]: Fassung gemäss Ziff. I des BG vom 18. März 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [BBl 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
+[^18-4]: Aufgehoben durch Ziff. I des BG vom 18. März 2022, mit Wirkung seit 1. Jan. 2023 ([AS 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [BBl 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
+[^18-5]: Eingefügt durch Ziff. I des BG vom 18. März 2016 ([AS 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714); [BBl 2014 6955](https://fedlex.data.admin.ch/eli/fga/2014/1566)). Aufgehoben durch Ziff. I des BG vom 18. März 2022, mit Wirkung seit 1. Jan. 2023 ([AS 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [BBl 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
+[^18-6]: Bezeichnung gemäss Ziff. I des BG vom 19. März 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869); [BBl 2009 5917](https://fedlex.data.admin.ch/eli/fga/2009/1057)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
+[^18-7]: Fassung gemäss Ziff. I des BG vom 19. Dez. 2025, in Kraft seit 1. Juni 2026 ([AS 2026 164](https://fedlex.data.admin.ch/eli/oc/2026/164); [BBl 2025 960](https://fedlex.data.admin.ch/eli/fga/2025/960)).
+[^18-8]: Fassung gemäss Ziff. I des BG vom 18. März 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [BBl 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
+[^18-9]: Eingefügt durch Ziff. I des BG vom 18. März 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [BBl 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
 
 #### Art. 19
 
 **Wiedereinteilung**[^19-1]
 
-Wer nach Artikel 18 vom Militärdienst befreit war, wird beim Wegfall des Grundes für die Dienstbefreiung wieder in die Armee eingeteilt, wenn er von der Armee noch benötigt wird.
+Personen, die nach Artikel 18 von der Militärdienstpflicht befreit waren, werden beim Wegfall des Grundes für die Dienstbefreiung wieder in die Armee eingeteilt, wenn sie von der Armee noch benötigt werden.
 
-[^19-1]: Fassung gemäss Ziff. I des BG vom 4. Okt. 2002, in Kraft seit 1. Jan. 2004 ([AS 2003 3957](https://fedlex.data.admin.ch/eli/oc/2003/570); [BBl 2002 858](https://fedlex.data.admin.ch/eli/fga/2002/118)).
+[^19-1]: Fassung gemäss Ziff. I des BG vom 19. Dez. 2025, in Kraft seit 1. Juni 2026 ([AS 2026 164](https://fedlex.data.admin.ch/eli/oc/2026/164); [BBl 2025 960](https://fedlex.data.admin.ch/eli/fga/2025/960)).
 
 #### Art. 20
 
@@ -444,19 +461,20 @@ Ein schriftliches und begründetes Gesuch um Neubeurteilung stellen können:
 - e. die militärischen Strafbehörden;
 - f. das Bundesamt für Zivildienst[^20-2], im Rahmen der Rekrutierung auch mündlich.[^20-3]
 
-<sup>1ter</sup> Personen, die im Hinblick auf ihre dienstlichen Pflichten teilweise oder völlig urteilsunfähig sind, sind dienstuntauglich. Die Erwachsenenschutzbehörden melden dem Kommando Operationen[^20-4] unverzüglich alle rechtskräftig verfügten Beistandschaften sowie deren Aufhebung, die Stellungspflichtige und Angehörige der Armee betreffen. Das Kommando Operationen[^20-5] leitet die Meldungen an die Rekrutierungsorgane sowie die Kreiskommandantinnen und Kreiskommandanten weiter.[^20-6] [^20-7]
+<sup>1ter</sup> Personen, die im Hinblick auf ihre dienstlichen Pflichten teilweise oder völlig urteilsunfähig sind, sind dienstuntauglich. Die Erwachsenenschutzbehörden melden dem Kommando Ausbildung[^20-4] unverzüglich alle rechtskräftig verfügten Beistandschaften sowie deren Aufhebung, die Stellungspflichtige und Angehörige der Armee betreffen. Das Kommando Operationen[^20-5] leitet die Meldungen an die Rekrutierungsorgane sowie die Kreiskommandantinnen und Kreiskommandanten weiter.[^20-6] [^20-7]
 
-<sup>2</sup> Die Einteilung und die Zuteilung eines Angehörigen der Armee können jederzeit geändert werden.
+<sup>2</sup> Die Einteilung und die Zuteilung von Angehörigen der Armee können jederzeit geändert werden.[^20-8]
 
 <sup>3</sup> Der Bundesrat regelt die Voraussetzungen und das Verfahren.
 
 [^20-1]: Fassung gemäss Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2018 ([AS 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [BBl 2014 6955](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
 [^20-2]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)) auf den 1. Jan. 2019 angepasst.
 [^20-3]: Eingefügt durch Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2018 ([AS 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [BBl 2014 6955](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
-[^20-4]: Richtig: Kommando Ausbildung.
+[^20-4]: Ausdruck gemäss Ziff. I des BG vom 19. Dez. 2025, in Kraft seit 1. Juni 2026 ([AS 2026 164](https://fedlex.data.admin.ch/eli/oc/2026/164); [BBl 2025 960](https://fedlex.data.admin.ch/eli/fga/2025/960)). Diese Änd. wurde in den in der AS genannten Bestimmungen vorgenommen.
 [^20-5]: Richtig: Kommando Ausbildung.
 [^20-6]: Fassung des zweiten und dritten Satzes gemäss Ziff. I des BG vom 18. März 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [BBl 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
 [^20-7]: Ursprünglich: Abs. 1<sup>bis</sup>. Eingefügt durch Ziff. I des BG vom 19. März 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869); [BBl 2009 5917](https://fedlex.data.admin.ch/eli/fga/2009/1057)).
+[^20-8]: Fassung gemäss Ziff. I des BG vom 19. Dez. 2025, in Kraft seit 1. Juni 2026 ([AS 2026 164](https://fedlex.data.admin.ch/eli/oc/2026/164); [BBl 2025 960](https://fedlex.data.admin.ch/eli/fga/2025/960)).
 
 ### 3. Abschnitt: Nichtrekrutierung, Ausschluss aus der Armee, Degradation
 
@@ -472,28 +490,23 @@ Ein schriftliches und begründetes Gesuch um Neubeurteilung stellen können:
 
 Stellungspflichtige werden nicht rekrutiert, wenn:
 
-- a.
-
-  sie für die Armee untragbar geworden sind, weil:
-
-  - 1\. sie wegen eines Verbrechens oder Vergehens rechtskräftig verurteilt wurden,
-  - 2\. für sie eine freiheitsentziehende Massnahme rechtskräftig angeordnet wurde;
-
-- b. ihnen keine persönliche Waffe überlassen werden darf (Art. 113 Abs. 1).[^21-3]
+- a.[^21-3] sie für die Armee untragbar sind, weil sie wegen eines Verbrechens oder Vergehens rechtskräftig verurteilt wurden;
+- b. ihnen keine persönliche Waffe überlassen werden darf (Art. 113 Abs. 1).[^21-4]
 
 <sup>2</sup>
 
 Auf ihr Gesuch hin können Personen nach Absatz 1 zur Rekrutierung zugelassen werden, wenn die Armee sie benötigt und:
 
 - a. in Fällen nach Absatz 1 Buchstabe a: sie sich während der Probezeit bei bedingtem oder teilbedingtem Strafvollzug oder bei bedingter Entlassung aus dem Strafvollzug bewährt haben;
-- b. in Fällen nach Absatz 1 Buchstabe b: keine Hinderungsgründe für die Überlassung der persönlichen Waffe mehr bestehen.[^21-4]
+- b. in Fällen nach Absatz 1 Buchstabe b: keine Hinderungsgründe für die Überlassung der persönlichen Waffe mehr bestehen.[^21-5]
 
 <sup>3</sup> Die Zulassung kann widerrufen werden, wenn nachträglich bekannt wird, dass ihre Voraussetzungen nicht gegeben waren.
 
 [^21-1]: Fassung gemäss Ziff. I des BG vom 19. März 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869); [BBl 2009 5917](https://fedlex.data.admin.ch/eli/fga/2009/1057)).
 [^21-2]: Fassung gemäss Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2018 ([AS 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [BBl 2014 6955](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
-[^21-3]: Fassung gemäss Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2018 ([AS 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [BBl 2014 6955](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
+[^21-3]: Fassung gemäss Ziff. I des BG vom 19. Dez. 2025, in Kraft seit 1. Juni 2026 ([AS 2026 164](https://fedlex.data.admin.ch/eli/oc/2026/164); [BBl 2025 960](https://fedlex.data.admin.ch/eli/fga/2025/960)).
 [^21-4]: Fassung gemäss Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2018 ([AS 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [BBl 2014 6955](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
+[^21-5]: Fassung gemäss Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2018 ([AS 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [BBl 2014 6955](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
 
 #### Art. 22
 
@@ -503,28 +516,23 @@ Auf ihr Gesuch hin können Personen nach Absatz 1 zur Rekrutierung zugelassen we
 
 Angehörige der Armee werden aus der Armee ausgeschlossen, wenn:
 
-- a.
-
-  sie für die Armee untragbar geworden sind, weil:
-
-  - 1\. sie wegen eines Verbrechens oder Vergehens rechtskräftig verurteilt wurden,
-  - 2\. für sie eine freiheitsentziehende Massnahme rechtskräftig angeordnet wurde;
-
-- b. ihnen keine persönliche Waffe überlassen werden darf (Art. 113 Abs. 1).[^22-3]
+- a.[^22-3] sie für die Armee untragbar geworden sind, weil sie wegen eines Verbrechens oder Vergehens rechtskräftig verurteilt wurden;
+- b. ihnen keine persönliche Waffe überlassen werden darf (Art. 113 Abs. 1).[^22-4]
 
 <sup>2</sup>
 
 Auf ihr Gesuch hin können Personen nach Absatz 1 wieder zur Armee zugelassen werden, wenn die Armee sie benötigt und:
 
 - a. in Fällen nach Absatz 1 Buchstabe a: sie sich während der Probezeit bei bedingtem oder teilbedingtem Strafvollzug oder bei bedingter Entlassung aus dem Strafvollzug bewährt haben;
-- b. in Fällen nach Absatz 1 Buchstabe b: keine Hinderungsgründe für die Überlassung der persönlichen Waffe mehr bestehen.[^22-4]
+- b. in Fällen nach Absatz 1 Buchstabe b: keine Hinderungsgründe für die Überlassung der persönlichen Waffe mehr bestehen.[^22-5]
 
 <sup>3</sup> Die Wiederzulassung kann widerrufen werden, wenn nachträglich bekannt wird, dass ihre Voraussetzungen nicht gegeben waren.
 
 [^22-1]: Fassung gemäss Ziff. I des BG vom 19. März 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869); [BBl 2009 5917](https://fedlex.data.admin.ch/eli/fga/2009/1057)).
 [^22-2]: Fassung gemäss Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2018 ([AS 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [BBl 2014 6955](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
-[^22-3]: Fassung gemäss Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2018 ([AS 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [BBl 2014 6955](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
+[^22-3]: Fassung gemäss Ziff. I des BG vom 19. Dez. 2025, in Kraft seit 1. Juni 2026 ([AS 2026 164](https://fedlex.data.admin.ch/eli/oc/2026/164); [BBl 2025 960](https://fedlex.data.admin.ch/eli/fga/2025/960)).
 [^22-4]: Fassung gemäss Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2018 ([AS 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [BBl 2014 6955](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
+[^22-5]: Fassung gemäss Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2018 ([AS 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [BBl 2014 6955](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
 
 #### Art. 22a
 
@@ -540,7 +548,7 @@ Auf ihr Gesuch hin können Personen nach Absatz 1 wieder zur Armee zugelassen we
 
 **Zuständigkeit und Datenzugriff**[^23-1]
 
-<sup>1</sup> Für die Entscheide nach den Artikeln 21–22*a* ist das Kommando Operationen[^23-2] [^23-3] zuständig.
+<sup>1</sup> Für die Entscheide nach den Artikeln 21–22*a* ist das Kommando Ausbildung zuständig.
 
 <sup>2</sup>
 
@@ -551,12 +559,9 @@ Es kann für den Entscheid:
 - c. Auszüge aus dem Betreibungs- und Konkursregister verlangen sowie in Betreibungs- und Konkursakten Einsicht nehmen;
 - d. die Durchführung einer Personensicherheitsprüfung verlangen.
 
-<sup>3</sup> Hat ein Militärgericht auf den Ausschluss aus der Armee oder die Degradation ausdrücklich verzichtet, so ist das Kommando Operationen[^23-4] an dieses Urteil gebunden.
+<sup>3</sup> Hat ein Militärgericht auf den Ausschluss aus der Armee oder die Degradation ausdrücklich verzichtet, so ist das Kommando Ausbildung an dieses Urteil gebunden.
 
 [^23-1]: Fassung gemäss Ziff. I des BG vom 19. März 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869); [BBl 2009 5917](https://fedlex.data.admin.ch/eli/fga/2009/1057)).
-[^23-2]: Ausdruck gemäss Ziff. I des BG vom 18. März 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [BBl 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)). Diese Änd. wurde in den in der AS genannten Bestimmungen berücksichtigt.
-[^23-3]: Richtig: Kommando Ausbildung.
-[^23-4]: Richtig: Kommando Ausbildung.
 
 #### Art. 24
 
@@ -600,9 +605,13 @@ Die Militärdienstpflichtigen haben ausser Dienst die folgenden Pflichten:
 Die Militärdienstpflichtigen müssen ausser Dienst die folgenden Amtstermine wahrnehmen:
 
 - a. persönliche Befragungen bei Personensicherheitsprüfungen für Stellungspflichtige und Angehörige der Armee;
-- b. medizinische Untersuchungen zur Neubeurteilung der Tauglichkeit.
+- b. medizinische Untersuchungen zur Neubeurteilung der Tauglichkeit;
+- c.[^26-2] Schiesskurse nach Artikel 63 Absatz 5;
+- d.[^26-3] Rückgabetermin nach Artikel 112 Absatz 3.
 
 [^26-1]: Fassung gemäss Ziff. I des BG vom 18. März 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [BBl 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
+[^26-2]: Eingefügt durch Ziff. I des BG vom 19. Dez. 2025, in Kraft seit 1. Juni 2026 ([AS 2026 164](https://fedlex.data.admin.ch/eli/oc/2026/164); [BBl 2025 960](https://fedlex.data.admin.ch/eli/fga/2025/960)).
+[^26-3]: Eingefügt durch Ziff. I des BG vom 19. Dez. 2025, in Kraft seit 1. Juni 2026 ([AS 2026 164](https://fedlex.data.admin.ch/eli/oc/2026/164); [BBl 2025 960](https://fedlex.data.admin.ch/eli/fga/2025/960)).
 
 #### Art. 27
 
@@ -619,10 +628,10 @@ Die Militärdienstpflichtigen, einschliesslich der Stellungspflichtigen, sowie d
 
 <sup>1bis</sup>
 
-Sie müssen dem Kommando Operationen[^27-5] unaufgefordert folgende Daten und deren Änderungen melden:
+Sie müssen dem Kommando Ausbildung unaufgefordert folgende Daten und deren Änderungen melden:
 
 - a. rechtskräftige Strafurteile wegen eines Verbrechens oder Vergehens sowie rechtskräftige Strafurteile, die eine freiheitsentziehende Massnahme anordnen;
-- b. fruchtlose Pfändung und Konkurseröffnung.[^27-6]
+- b. fruchtlose Pfändung und Konkurseröffnung.[^27-5]
 
 <sup>2</sup> Der Bundesrat regelt die Meldepflicht der Auslandschweizer, der Personen, die einen Zivildienst leisten und der Personen, die Auslandurlaub haben.
 
@@ -630,8 +639,7 @@ Sie müssen dem Kommando Operationen[^27-5] unaufgefordert folgende Daten und de
 [^27-2]: Fassung gemäss Ziff. I des BG vom 18. März 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [BBl 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
 [^27-3]: Fassung gemäss Ziff. I des BG vom 18. März 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [BBl 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
 [^27-4]: Fassung gemäss Ziff. I des BG vom 19. März 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869); [BBl 2009 5917](https://fedlex.data.admin.ch/eli/fga/2009/1057)).
-[^27-5]: Richtig: Kommando Ausbildung.
-[^27-6]: Eingefügt durch Ziff. I des BG vom 19. März 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869); [BBl 2009 5917](https://fedlex.data.admin.ch/eli/fga/2009/1057)).
+[^27-5]: Eingefügt durch Ziff. I des BG vom 19. März 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869); [BBl 2009 5917](https://fedlex.data.admin.ch/eli/fga/2009/1057)).
 
 ## Dritter Titel: Rechte und Pflichten der Angehörigen der Armee
 
@@ -651,40 +659,126 @@ Sie müssen dem Kommando Operationen[^27-5] unaufgefordert folgende Daten und de
 
 #### Art. 29
 
-**Versorgung**[^29-1]
+**Versorgung, Postdienste und digitale Kommunikation**[^29-1]
 
-<sup>1</sup> Die Angehörigen der Armee erhalten im Militärdienst vom Bund Sold und Verpflegung.
+<sup>1</sup> Der Bund kommt für die Versorgung der Angehörigen der Armee auf.
 
-<sup>2</sup> Der Bund sorgt für ihre Unterkunft und kommt für ihre Dienstreisen auf.
+<sup>2</sup> Er sorgt für Angehörige der Armee im Militärdienst und in dienstlichen Angelegenheiten ausser Dienst für eine ausreichende und kostenlose Grundversorgung mit Postdiensten und für angemessene digitale Kommunikationsmöglichkeiten.
 
-<sup>3</sup> Er sorgt für Angehörige der Armee im Militärdienst und in dienstlichen Angelegenheiten ausser Dienst für eine ausreichende und kostenlose Grundversorgung mit Postdiensten.
-
-<sup>4</sup> Die Bundesversammlung erlässt die Bestimmungen über Sold, Verpflegung, Unterkunft und Dienstreisen.
-
-[^29-1]: Fassung gemäss Ziff. I des BG vom 18. März 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [BBl 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
+[^29-1]: Fassung gemäss Ziff. I des BG vom 19. Dez. 2025, in Kraft seit 1. Juni 2026 ([AS 2026 164](https://fedlex.data.admin.ch/eli/oc/2026/164); [BBl 2025 960](https://fedlex.data.admin.ch/eli/fga/2025/960)).
 
 #### Art. 29a
 
-**Ausbildungsgutschrift**[^29a-1]
+**Sold**[^29a-1]
 
-<sup>1</sup> Der Bund kann Angehörigen der Miliz für das Absolvieren von Kaderschulen und des praktischen Dienstes für die Ausbildung zum Unteroffizier, zum höheren Unteroffizier oder zum Offizier bis Stufe Stäbe der Truppenkörper einen finanziellen Betrag gutschreiben, den sie für zivile Ausbildungen beziehen können.[^29a-2]
+<sup>1</sup> Angehörige der Armee werden nach ihrem Grad besoldet.
+
+<sup>2</sup> Die Soldberechtigung beginnt mit dem Einrückungstag gemäss Aufgebot und hört mit dem Entlassungstag auf.
+
+<sup>3</sup>
+
+Die Soldberechtigung besteht auch in der Zeit zwischen:
+
+- a. der Rekrutenschule und Ausbildungsdiensten zur Erlangung des Grades Wachtmeister, Feldweibel, Hauptfeldweibel, Fourier oder Leutnant oder zwischen solchen Ausbildungsdiensten, sofern die jeweiligen Dienste höchstens sechs Wochen auseinanderliegen;
+- b. den separaten Teilen einer Rekrutenschule, sofern diese Teile höchstens sechs Wochen auseinanderliegen.
+
+<sup>4</sup>
+
+Nicht soldberechtigt sind:
+
+- a.
+
+  Militärdienstpflichtige, die:
+
+  - 1\. eine Altersrente der Alters- und Hinterlassenenversicherung beziehen,
+  - 2\. als militärisches Personal oder Angestellte der Militärverwaltung Dienst im Sinne von Artikel 59 Absatz 4 leisten,
+  - 3\. als Angestellte der Militärverwaltung des Bundes einen Einsatz nach Artikel 65*c* leisten;
+
+- b. Pilotinnen und Piloten sowie Beobachterinnen und Beobachter für das individuelle Training.
+
+<sup>5</sup> Der Bundesrat setzt den Sold fest.
+
+[^29a-1]: Eingefügt durch Ziff. I des BG vom 19. Dez. 2025, in Kraft seit 1. Juni 2026 ([AS 2026 164](https://fedlex.data.admin.ch/eli/oc/2026/164); [BBl 2025 960](https://fedlex.data.admin.ch/eli/fga/2025/960)).
+
+#### Art. 29b
+
+**Verpflegung**[^29b-1]
+
+<sup>1</sup> Angehörige der Armee, die Sold beziehen, sind verpflegungsberechtigt.
+
+<sup>2</sup> Sie erhalten entweder Natural- oder Pensionsverpflegung.
+
+<sup>3</sup> Die Naturalverpflegung bildet die Regel. Sie kann für bestimmte Dienstleistungen durch eine Zulage ergänzt werden.
+
+<sup>4</sup> Die Logistikbasis der Armee (LBA) setzt für die Naturalverpflegung den Basiskredit pro Person und Tag sowie allfällige Zulagen nach der Entwicklung der Marktpreise fest.
+
+[^29b-1]: Eingefügt durch Ziff. I des BG vom 19. Dez. 2025, in Kraft seit 1. Juni 2026 ([AS 2026 164](https://fedlex.data.admin.ch/eli/oc/2026/164); [BBl 2025 960](https://fedlex.data.admin.ch/eli/fga/2025/960)).
+
+#### Art. 29c
+
+**Unterkunft**[^29c-1]
+
+<sup>1</sup> Der Bund sorgt für die Unterkunft der Angehörigen der Armee im Militärdienst.
+
+<sup>2</sup>
+
+Die Unterkunft erfolgt:
+
+- a. in Kasernen oder kasernenmässig eingerichteten Gebäuden;
+- b. in Kantonnementen von Gemeinden oder Privaten;
+- c. in Biwaks;
+- d. durch Einquartierung bei Privaten.
+
+[^29c-1]: Eingefügt durch Ziff. I des BG vom 19. Dez. 2025, in Kraft seit 1. Juni 2026 ([AS 2026 164](https://fedlex.data.admin.ch/eli/oc/2026/164); [BBl 2025 960](https://fedlex.data.admin.ch/eli/fga/2025/960)).
+
+#### Art. 29d
+
+**Kasernierung in Gebäuden Dritter**[^29d-1]
+
+Für die Benützung von Kasernen oder kasernenmässig eingerichteten Gebäuden, die nicht dem Bund gehören, schliesst der Bund mit den Eigentümerinnen und Eigentümern Verträge ab.
+
+[^29d-1]: Eingefügt durch Ziff. I des BG vom 19. Dez. 2025, in Kraft seit 1. Juni 2026 ([AS 2026 164](https://fedlex.data.admin.ch/eli/oc/2026/164); [BBl 2025 960](https://fedlex.data.admin.ch/eli/fga/2025/960)).
+
+#### Art. 29e
+
+**Reisen und Transport**[^29e-1]
+
+<sup>1</sup>
+
+Der Bund trägt die Reise- und Transportkosten für das öffentliche Verkehrsmittel:
+
+- a. von Angehörigen der Armee beim Einrücken in Dienste nach Artikel 12 Buchstaben a–d und bei der Entlassung daraus;
+- b. von Angehörigen der Armee im Militärdienst für Dienstreisen;
+- c. für alle Transporte von Truppen, Fahrzeugen, Armeetieren und Material für den dienstlichen Bedarf der Armee;
+- d. von Militärdienstpflichtigen für die Wahrnehmung von Amtsterminen nach Artikel 26.
+
+<sup>2</sup> Der Bundesrat kann vorsehen, dass die Kosten für die Reise in den Urlaub ganz oder teilweise vom Bund übernommen werden.
+
+[^29e-1]: Eingefügt durch Ziff. I des BG vom 19. Dez. 2025, in Kraft seit 1. Juni 2026 ([AS 2026 164](https://fedlex.data.admin.ch/eli/oc/2026/164); [BBl 2025 960](https://fedlex.data.admin.ch/eli/fga/2025/960)).
+
+#### Art. 29f
+
+**Ausbildungsgutschrift**[^29f-1]
+
+<sup>1</sup> Der Bund kann Angehörigen der Miliz für das Absolvieren von Kaderschulen und des praktischen Dienstes für die Ausbildung zum Unteroffizier, zum höheren Unteroffizier oder zum Offizier bis Stufe Stäbe der Truppenkörper einen finanziellen Betrag gutschreiben, den sie für zivile Ausbildungen beziehen können.[^29f-2]
 
 <sup>2</sup> Der Bundesrat erlässt die Bestimmungen über die Ausbildungsgutschrift.
 
-[^29a-1]: Eingefügt durch Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2018 ([AS 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [BBl 2014 6955](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
-[^29a-2]: Fassung gemäss Ziff. I des BG vom 27. Sept. 2019, in Kraft seit 1. Juni 2020 ([AS 2020 1547](https://fedlex.data.admin.ch/eli/oc/2020/307); [BBl 2019 2177](https://fedlex.data.admin.ch/eli/fga/2019/618)).
+[^29f-1]: Ursprünglich: Art. 29*a*. Eingefügt durch Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2018 ([AS 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [BBl 2014 6955](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
+[^29f-2]: Fassung gemäss Ziff. I des BG vom 27. Sept. 2019, in Kraft seit 1. Juni 2020 ([AS 2020 1547](https://fedlex.data.admin.ch/eli/oc/2020/307); [BBl 2019 2177](https://fedlex.data.admin.ch/eli/fga/2019/618)).
 
 #### Art. 30
 
 **Ersatz des Erwerbsausfalls**
 
-<sup>1</sup> Wer Militärdienst leistet, hat Anspruch auf eine Entschädigung für den Erwerbsausfall.
+<sup>1</sup> Wer Militärdienst leistet, hat Anspruch auf eine Entschädigung für den Erwerbsausfall. Der Anspruch besteht auch in den Zeiträumen nach Artikel 29*a* Absatz 3.[^30-1]
 
-<sup>1bis</sup> Zwischen der Rekrutenschule und Ausbildungsdiensten zur Erlangung des Grades Wachtmeister, Feldweibel, Hauptfeldweibel, Fourier oder Leutnant oder zwischen solchen Ausbildungsdiensten besteht ein Anspruch auf Sold und Erwerbsersatz, sofern die jeweiligen Dienste höchstens sechs Wochen auseinanderliegen.[^30-1]
+<sup>1bis</sup> …[^30-2]
 
 <sup>2</sup> Der Erwerbsersatz wird durch ein besonderes Bundesgesetz geregelt.
 
-[^30-1]: Eingefügt durch Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2018 ([AS 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [BBl 2014 6955](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
+[^30-1]: Zweiter Satz eingefügt durch Ziff. I des BG vom 19. Dez. 2025, in Kraft seit 1. Juni 2026 ([AS 2026 164](https://fedlex.data.admin.ch/eli/oc/2026/164); [BBl 2025 960](https://fedlex.data.admin.ch/eli/fga/2025/960)).
+[^30-2]: Eingefügt durch Ziff. I des BG vom 18. März 2016 ([AS 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714); [BBl 2014 6955](https://fedlex.data.admin.ch/eli/fga/2014/1566)). Aufgehoben durch Ziff. I des BG vom 19. Dez. 2025, mit Wirkung seit 1. Juni 2026 ([AS 2026 164](https://fedlex.data.admin.ch/eli/oc/2026/164); [BBl 2025 960](https://fedlex.data.admin.ch/eli/fga/2025/960)).
 
 #### Art. 31
 
@@ -703,11 +797,13 @@ Sie müssen dem Kommando Operationen[^27-5] unaufgefordert folgende Daten und de
 
 **Befehl und Gehorsam**
 
-<sup>1</sup> Die Vorgesetzten und die von ihnen ermächtigten Führungsgehilfen haben das Recht, den Unterstellten in Dienstsachen Befehle zu erteilen.
+<sup>1</sup> Die Vorgesetzten und die von ihnen ermächtigten Führungsgehilfinnen und Führungsgehilfen haben das Recht, den Unterstellten in Dienstsachen Befehle zu erteilen.[^32-1]
 
 <sup>2</sup> Die Angehörigen der Armee sind den Vorgesetzten gegenüber in Dienstsachen zu Gehorsam verpflichtet.
 
 <sup>3</sup> Die Angehörigen der Armee führen einen Befehl nicht aus, wenn er von ihnen ein Verhalten verlangt, das nach Gesetz oder Völkerrecht strafbar ist.
+
+[^32-1]: Fassung gemäss Ziff. I des BG vom 19. Dez. 2025, in Kraft seit 1. Juni 2026 ([AS 2026 164](https://fedlex.data.admin.ch/eli/oc/2026/164); [BBl 2025 960](https://fedlex.data.admin.ch/eli/fga/2025/960)).
 
 #### Art. 33
 
@@ -770,7 +866,7 @@ Das VBS kann für die höheren Stabsoffiziere, für das militärische Personal d
 
 **Dienstbeschwerde**
 
-<sup>1</sup> Die Angehörigen der Armee haben das Recht, Dienstbeschwerde zu erheben, wenn sie der Überzeugung sind, ein militärischer Vorgesetzter, ein anderer Angehöriger der Armee oder eine Militärbehörde habe ihnen Unrecht getan.
+<sup>1</sup> Stellungspflichtige und Angehörige der Armee haben das Recht, Dienstbeschwerde zu erheben, wenn sie der Überzeugung sind, andere Stellungspflichtige, andere Angehörige der Armee oder eine Militärbehörde hätten ihnen Unrecht getan.[^36-1]
 
 <sup>2</sup> Der Entscheid über die Dienstbeschwerde kann bei der nächst höheren Stelle und deren Entscheid beim zuständigen Departement angefochten werden. Das Departement entscheidet endgültig.
 
@@ -779,6 +875,8 @@ Das VBS kann für die höheren Stabsoffiziere, für das militärische Personal d
 <sup>4</sup> Dienstbeschwerde und Weiterzug werden in einem einfachen, raschen und kostenlosen Verfahren erledigt. Sie haben keine aufschiebende Wirkung. Die angerufene Instanz kann ihnen jedoch ausnahmsweise aus besonderen Gründen aufschiebende Wirkung zuerkennen.
 
 <sup>5</sup> Der Bundesrat regelt die Einzelheiten.
+
+[^36-1]: Fassung gemäss Ziff. I des BG vom 19. Dez. 2025, in Kraft seit 1. Juni 2026 ([AS 2026 164](https://fedlex.data.admin.ch/eli/oc/2026/164); [BBl 2025 960](https://fedlex.data.admin.ch/eli/fga/2025/960)).
 
 #### Art. 37
 
@@ -833,11 +931,24 @@ Gegen Entscheide der medizinischen Untersuchungskommissionen über die Beurteilu
 
 #### Art. 40b
 
-<sup>1</sup> Schafft ein Angehöriger der Armee in Ausübung seiner dienstlichen Tätigkeit ein Werk im Sinne des Urheberrechtsgesetzes vom 9. Oktober 1992[^40b-1], so stehen dem Bund allein die Verwendungsbefugnisse zu.
+[^40b-1]
 
-<sup>2</sup> Ist das Werk von grossem Nutzen für den Bund, so kann dem Angehörigen der Armee eine angemessene Entschädigung ausgerichtet werden.
+<sup>1</sup> Schaffen Angehörige der Armee in Ausübung ihrer dienstlichen Tätigkeit ein Werk im Sinne der Artikel 2–4 des Urheberrechtsgesetzes vom 9. Oktober 1992[^40b-2], so stehen die Verwendungsbefugnisse ausschliesslich dem Bund zu.
 
-[^40b-1]: [SR 231.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5952)
+<sup>2</sup> Ist das Werk von grossem Nutzen für den Bund, so kann den betreffenden Angehörigen der Armee eine angemessene Entschädigung ausgerichtet werden.
+
+[^40b-1]: Fassung gemäss Ziff. I des BG vom 19. Dez. 2025, in Kraft seit 1. Juni 2026 ([AS 2026 164](https://fedlex.data.admin.ch/eli/oc/2026/164); [BBl 2025 960](https://fedlex.data.admin.ch/eli/fga/2025/960)).
+[^40b-2]: [SR 231.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5952)
+
+### 7. Kapitel: Pflicht zur Rückerstattung von Ausbildungskosten
+
+[^tit3-chap7-1]
+
+[^tit3-chap7-1]: Eingefügt durch Ziff. I des BG vom 19. Dez. 2025, in Kraft seit 1. Juni 2026 ([AS 2026 164](https://fedlex.data.admin.ch/eli/oc/2026/164); [BBl 2025 960](https://fedlex.data.admin.ch/eli/fga/2025/960)).
+
+#### Art. 40c
+
+Die Armee kann von Personen, die auf Kosten der Armee eine zivil anerkannte Ausbildung gemacht haben, Ausbildungskosten zurückfordern, wenn diese Personen nach Abschluss der Ausbildung innert einer gewissen Zeitspanne nicht eine Mindestanzahl Tage Militärdienst leisten.
 
 ## Vierter Titel: Ausbildung der Armee
 
@@ -913,28 +1024,30 @@ Der Bundesrat kann bei der Umorganisation oder Neuausrüstung einer Formation zu
 
 **Militärisches Personal**[^47-1]
 
-<sup>1</sup> Das militärische Personal umfasst Berufs- und Zeitmilitärs.
+<sup>1</sup> Das militärische Personal umfasst die unter dem militärischen Statut angestellten Berufs- und Zeitmilitärs. Das Statut beinhaltet die Gesamtheit aller Rechte und Pflichten des militärischen Personals. Dieses untersteht dem Bundespersonalrecht.
 
-<sup>2</sup> Berufsmilitärs sind Berufsoffiziere, Berufsunteroffiziere und Berufssoldaten. In der Regel sind sie in einem unbefristeten vertraglichen Arbeitsverhältnis nach der Bundespersonalgesetzgebung angestellt.
+<sup>2</sup> Berufsmilitärs sind Berufsoffiziere, Berufsunteroffiziere und Berufssoldaten. In der Regel sind sie in einem unbefristeten vertraglichen Arbeitsverhältnis angestellt.
 
-<sup>3</sup> Zeitmilitärs sind Zeitoffiziere, Zeitunteroffiziere und Zeitsoldaten. Sie sind in einem befristeten vertraglichen Arbeitsverhältnis nach der Bundespersonalgesetzgebung angestellt.
+<sup>3</sup> Zeitmilitärs sind Zeitoffiziere, Zeitunteroffiziere und Zeitsoldaten. Sie sind in einem befristeten vertraglichen Arbeitsverhältnis angestellt.
 
-<sup>4</sup> Das militärische Personal wird in den Bereichen Ausbildung und Führung sowie in allen Einsatzarten der Armee verwendet.[^47-2] Es kann im In- oder Ausland eingesetzt werden. Wer zum militärischen Personal gehört, gilt als Angehöriger der Armee.
+<sup>4</sup> Das militärische Personal wird in den Bereichen Ausbildung und Führung sowie in allen Einsatzarten der Armee verwendet. Es kann im In- oder Ausland eingesetzt werden. Wer zum militärischen Personal gehört, gilt als Angehörige oder Angehöriger der Armee.
 
-<sup>5</sup> Das militärische Personal wird für seine Tätigkeit besonders ausgebildet. Die Ausbildung kann in Zusammenarbeit mit Hochschulen und Fachhochschulen, mit Spezialisten sowie mit ausländischen Streitkräften erfolgen.
+<sup>5</sup> Das militärische Personal wird für seine Tätigkeit besonders ausgebildet. Die Ausbildung kann in Zusammenarbeit mit Hochschulen und Fachhochschulen, mit Spezialistinnen und Spezialisten sowie mit ausländischen Streitkräften erfolgen.
 
-[^47-1]: Fassung gemäss Ziff. I des BG vom 4. Okt. 2002, in Kraft seit 1. Jan. 2004 ([AS 2003 3957](https://fedlex.data.admin.ch/eli/oc/2003/570); [BBl 2002 858](https://fedlex.data.admin.ch/eli/fga/2002/118)).
-[^47-2]: Fassung gemäss Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2018 ([AS 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [BBl 2014 6955](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
+<sup>6</sup> Angehörigen des militärischen Personals kann aufgrund ihrer beruflichen Funktion auf Gesuch hin ein tieferer Grad verliehen werden.
+
+[^47-1]: Fassung gemäss Ziff. I des BG vom 19. Dez. 2025, in Kraft seit 1. Juni 2026 ([AS 2026 164](https://fedlex.data.admin.ch/eli/oc/2026/164); [BBl 2025 960](https://fedlex.data.admin.ch/eli/fga/2025/960)).
 
 #### Art. 48
 
 **Ausbildung und Einsatz der Truppen**[^48-1]
 
-<sup>1</sup> Die Truppenkommandanten sind für die Ausbildung und den Einsatz der ihnen unterstellten Truppen verantwortlich.
+<sup>1</sup> Die Truppenkommandantinnen und Truppenkommandanten sind für die Ausbildung und den Einsatz der ihnen unterstellten Truppen verantwortlich.[^48-2]
 
 <sup>2</sup> Der Bundesrat regelt die Organisation der Ausbildung der Truppen.
 
 [^48-1]: Fassung gemäss Ziff. I des BG vom 4. Okt. 2002, in Kraft seit 1. Jan. 2004 ([AS 2003 3957](https://fedlex.data.admin.ch/eli/oc/2003/570); [BBl 2002 858](https://fedlex.data.admin.ch/eli/fga/2002/118)).
+[^48-2]: Fassung gemäss Ziff. I des BG vom 19. Dez. 2025, in Kraft seit 1. Juni 2026 ([AS 2026 164](https://fedlex.data.admin.ch/eli/oc/2026/164); [BBl 2025 960](https://fedlex.data.admin.ch/eli/fga/2025/960)).
 
 #### Art. 48a
 
@@ -967,15 +1080,20 @@ Er erlässt Bestimmungen über den obligatorischen und freiwilligen Militärdien
 
 #### Art. 48b
 
-**Aus- und Weiterbildung militärischer Medizinalpersonen**[^48b-1]
+**Aus-, Weiter- und Fortbildung sowie Forschung im militärischen Gesundheitswesen**[^48b-1]
 
-<sup>1</sup> Aus- und Weiterbildung der militärischen Medizinalpersonen sind, soweit sie nicht an einer Hochschule erfolgen, Sache des Bundes.
+<sup>1</sup> Aus-, Weiter- und Fortbildung von Personen mit einer Tätigkeit im militärischen Gesundheitswesen sind, soweit sie nicht an einer Hochschule erfolgen, Sache des Bundes.
 
-<sup>2</sup> Der Bund gewährleistet und koordiniert im Bereich der Militär- und Katastrophenmedizin die Aus- und Weiterbildung von Militärärztinnen und -ärzten und anderen Kaderpersonen der Gesundheitsberufe.
+<sup>2</sup>
 
-<sup>3</sup> Er führt zu diesem Zweck ein Kompetenzzentrum für Militär- und Katastrophenmedizin. Das Kompetenzzentrum ist eine Verwaltungseinheit des VBS. Es kann Dritte mit der Durchführung von Aus- und Weiterbildungsmassnahmen beauftragen.
+Der Bund hat insbesondere folgende Aufgaben:
 
-[^48b-1]: Eingefügt durch Ziff. I des BG vom 19. März 2010 ([AS 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869); [BBl 2009 5917](https://fedlex.data.admin.ch/eli/fga/2009/1057)). Die Änd. gemäss BG vom 20. Juni 2014 über die Weiterbildung, in Kraft seit 1. Jan. 2017, betrifft nur den französischen und den italienischen Text ([AS 2016 689](https://fedlex.data.admin.ch/eli/oc/2016/132); [BBl 2013 3729](https://fedlex.data.admin.ch/eli/fga/2013/823)).
+- a. Er gewährleistet und koordiniert im Bereich der Militär- und Katastrophenmedizin die Aus-, Weiter- und Fortbildung von Personen mit einer Tätigkeit im militärischen Gesundheitswesen.
+- b. Er fördert und steuert die Forschung im Bereich der Militär- und Katastrophenmedizin.
+
+<sup>3</sup> Er führt zu diesem Zweck ein Kompetenzzentrum für Militär- und Katastrophenmedizin. Das Kompetenzzentrum ist eine Verwaltungseinheit des VBS. Es kann Dritte mit der Durchführung von Aus-, Weiter- und Fortbildungsmassnahmen sowie Forschungstätigkeiten, insbesondere im Bereich der Ressortforschung, beauftragen.
+
+[^48b-1]: Eingefügt durch Ziff. I des BG vom 19. März 2010 ([AS 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869); [BBl 2009 5917](https://fedlex.data.admin.ch/eli/fga/2009/1057)). Fassung gemäss Ziff. I des BG vom 19. Dez. 2025, in Kraft seit 1. Juni 2026 ([AS 2026 164](https://fedlex.data.admin.ch/eli/oc/2026/164); [BBl 2025 960](https://fedlex.data.admin.ch/eli/fga/2025/960)).
 
 #### Art. 48c
 
@@ -998,13 +1116,13 @@ Die Armee und die Militärverwaltung des Bundes können zivilen Behörden und Dr
 - a. zivilen oder ausserdienstlichen Tätigkeiten von öffentlichem Interesse;
 - b. Anlässen oder Veranstaltungen von nationaler oder internationaler Bedeutung.
 
-<sup>2</sup> Zivile Behörden haben gegenüber anderen Gesuchstellern Vorrang.
+<sup>2</sup> Zivile Behörden haben gegenüber anderen Gesuchstellenden Vorrang.[^48d-2]
 
 <sup>3</sup>
 
 Die militärischen Mittel dürfen nur zur Verfügung gestellt werden, wenn:
 
-- a. die Gesuchsteller die Tätigkeiten nachweisbar weder mit eigenen Mitteln noch mit Unterstützung des Zivilschutzes oder anerkannter militärischer Vereine oder Verbände durchführen können;
+- a.[^48d-3] Gesuchstellende die Tätigkeiten nachweisbar weder mit eigenen Mitteln noch mit Unterstützung von anderen militärischen Vereinen oder Verbänden oder des Zivilschutzes durchführen können;
 - b. die dafür vorgesehenen Personen aufgrund ihrer Ausbildung und Ausrüstung geeignet sind, die geforderte Leistung zu erbringen; und
 - c. die erforderliche Sicherheit gewährleistet ist.
 
@@ -1039,6 +1157,8 @@ Der Bundesrat regelt das Verfahren und die Kostentragung. Er kann:
 <sup>8</sup> Truppen im Ausbildungsdienst können zur Bewältigung von unvorhergesehenen Ereignissen unbewaffnet Spontanhilfe leisten.
 
 [^48d-1]: Eingefügt durch Ziff. I des BG vom 18. März 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [BBl 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
+[^48d-2]: Fassung gemäss Ziff. I des BG vom 19. Dez. 2025, in Kraft seit 1. Juni 2026 ([AS 2026 164](https://fedlex.data.admin.ch/eli/oc/2026/164); [BBl 2025 960](https://fedlex.data.admin.ch/eli/fga/2025/960)).
+[^48d-3]: Fassung gemäss Ziff. I des BG vom 19. Dez. 2025, in Kraft seit 1. Juni 2026 ([AS 2026 164](https://fedlex.data.admin.ch/eli/oc/2026/164); [BBl 2025 960](https://fedlex.data.admin.ch/eli/fga/2025/960)).
 
 ### 2. Kapitel: Grundausbildung
 
@@ -1052,16 +1172,19 @@ Der Bundesrat regelt das Verfahren und die Kostentragung. Er kann:
 
 <sup>3</sup> Der Bundesrat kann vorsehen, dass die Rekrutenschule auch noch später absolviert werden kann, sofern innerhalb der Altersgrenzen für die Militärdienstpflicht (Art. 13) die Ausbildungsdienstpflicht (Art. 42) noch erfüllt werden kann.
 
-<sup>4</sup> Die Rekrutenschule dauert 18 Wochen. Der Bundesrat kann für Formationen mit einem besonderen Ausbildungsbedürfnis eine um höchstens sechs Wochen kürzere oder längere Dauer vorsehen.
+<sup>4</sup> Die Rekrutenschule dauert 18 Wochen. Der Bundesrat kann für Formationen mit einem besonderen Ausbildungsbedürfnis eine kürzere oder längere Dauer vorsehen. Die Rekrutenschule dauert aber mindestens sechs Wochen.[^49-3]
 
 [^49-1]: Fassung gemäss Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2018 ([AS 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [BBl 2014 6955](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
 [^49-2]: Fassung gemäss Anhang Ziff. 1 des BG vom 21. März 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 703](https://fedlex.data.admin.ch/eli/oc/2025/703); [BBl 2024 1216](https://fedlex.data.admin.ch/eli/fga/2024/1216)).
+[^49-3]: Fassung gemäss Ziff. I des BG vom 19. Dez. 2025, in Kraft seit 1. Juni 2026 ([AS 2026 164](https://fedlex.data.admin.ch/eli/oc/2026/164); [BBl 2025 960](https://fedlex.data.admin.ch/eli/fga/2025/960)).
 
 #### Art. 50
 
-**Fachkurse**
+**Fachkurse**[^50-1]
 
-Spezialisten und Spezialistinnen können nach der Rekrutenschule in Fachkursen weiter ausgebildet werden.
+Spezialistinnen und Spezialisten können nach der Rekrutenschule in Fachkursen weiter ausgebildet werden.
+
+[^50-1]: Fassung gemäss Ziff. I des BG vom 19. Dez. 2025, in Kraft seit 1. Juni 2026 ([AS 2026 164](https://fedlex.data.admin.ch/eli/oc/2026/164); [BBl 2025 960](https://fedlex.data.admin.ch/eli/fga/2025/960)).
 
 ### 3. Kapitel: Ausbildungsdienste der Formationen
 
@@ -1071,13 +1194,14 @@ Spezialisten und Spezialistinnen können nach der Rekrutenschule in Fachkursen w
 
 <sup>1</sup> Die Militärdienstpflichtigen leisten jährlich Wiederholungskurse. Diese werden in der Regel in den Formationen geleistet, in denen die Pflichtigen eingeteilt sind.
 
-<sup>2</sup> Die Mannschaft leistet sechs dreiwöchige Wiederholungskurse.
+<sup>2</sup> Der Wiederholungskurs dauert für die Mannschaft längstens 19 Tage, für die anderen Militärdienstpflichtigen längstens 26 Tage.[^51-2]
 
 <sup>3</sup> Der Bundesrat legt Anzahl und Dauer der Wiederholungskurse für Militärdienstpflichtige mit Schlüsselfunktionen, Unteroffiziere, höhere Unteroffiziere und Offiziere fest. Er berücksichtigt dabei insbesondere die Ausbildungsbedürfnisse, die Einsatzbereitschaft und die verfügbaren Ressourcen.
 
 <sup>4</sup> Er kann bei besonderen Ausbildungsbedürfnissen kürzere Wiederholungskurse oder die tageweise Leistung des Wiederholungskurses vorsehen.
 
 [^51-1]: Fassung gemäss Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2018 ([AS 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [BBl 2014 6955](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
+[^51-2]: Fassung gemäss Ziff. I des BG vom 19. Dez. 2025, in Kraft seit 1. Juni 2026 ([AS 2026 164](https://fedlex.data.admin.ch/eli/oc/2026/164); [BBl 2025 960](https://fedlex.data.admin.ch/eli/fga/2025/960)).
 
 #### Art. 52
 
@@ -1107,17 +1231,17 @@ Der Bundesrat kann für Angehörige der Armee mit bestimmten Funktionen besonder
 
 #### Art. 54a
 
-<sup>1</sup> Der Militärdienstpflichtige kann seine Ausbildungsdienstpflicht freiwillig ohne Unterbrechung erfüllen. Die Anzahl der berücksichtigten Dienstpflichtigen richtet sich nach dem Bedarf der Armee.
+[^54a-1]
 
-<sup>2</sup> Wer seine Ausbildungsdienstpflicht ohne Unterbrechung leistet (Durchdiener), absolviert die Rekrutenschule und leistet unmittelbar danach die restlichen Diensttage ohne Unterbrechung.[^54a-1]
+<sup>1</sup> Militärdienstpflichtige können ihre Ausbildungsdienstpflicht freiwillig ohne Unterbrechung erfüllen. Die Anzahl der berücksichtigten Dienstpflichtigen richtet sich nach dem Bedarf der Armee.
 
-<sup>3</sup> Der Anteil der Durchdiener an einem Rekrutenjahrgang darf 15 Prozent nicht übersteigen.[^54a-2]
+<sup>2</sup> Wer die Ausbildungsdienstpflicht ohne Unterbrechung leistet (der oder die Durchdienende), absolviert die Rekrutenschule und leistet unmittelbar danach die restlichen Diensttage ohne Unterbrechung.
 
-<sup>4</sup> Durchdiener, die ihre Ausbildungsdienstpflicht erfüllt haben, bleiben während vier Jahren in der Armee eingeteilt. Sie können bei Bedarf zu Einsätzen der Armee aufgeboten werden.[^54a-3]
+<sup>3</sup> Der Anteil der Durchdienenden an einem Rekrutenjahrgang darf 15 Prozent nicht übersteigen.
 
-[^54a-1]: Fassung gemäss Ziff. I des BG vom 19. März 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869); [BBl 2009 5917](https://fedlex.data.admin.ch/eli/fga/2009/1057)).
-[^54a-2]: Fassung gemäss Ziff. I des BG vom 19. März 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869); [BBl 2009 5917](https://fedlex.data.admin.ch/eli/fga/2009/1057)).
-[^54a-3]: Eingefügt durch Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2018 ([AS 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [BBl 2014 6955](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
+<sup>4</sup> Durchdienende, die ihre Ausbildungsdienstpflicht erfüllt haben, bleiben während vier Jahren in der Armee eingeteilt. Sie können bei Bedarf zu Einsätzen der Armee aufgeboten werden.
+
+[^54a-1]: Fassung gemäss Ziff. I des BG vom 19. Dez. 2025, in Kraft seit 1. Juni 2026 ([AS 2026 164](https://fedlex.data.admin.ch/eli/oc/2026/164); [BBl 2025 960](https://fedlex.data.admin.ch/eli/fga/2025/960)).
 
 ### 4. Kapitel: Ausbildung der Unteroffiziere, höheren Unteroffiziere und Offiziere
 
@@ -1131,20 +1255,23 @@ Der Bundesrat kann für Angehörige der Armee mit bestimmten Funktionen besonder
 
 <sup>1</sup> Angehende Wachtmeister und Leutnants müssen eine auf ihre Aufgabe ausgerichtete Kaderausbildung bestehen.
 
-<sup>2</sup> Die neu ernannten Wachtmeister und Leutnants müssen einen Ausbildungsdienst in einer Rekrutenschule bestehen. Sie tragen die Ausbildungs- und Führungsverantwortung auf ihrer Stufe.
+<sup>2</sup> Nach der Beförderung müssen die Wachtmeister, Feldweibel, Hauptfeldweibel, Fouriere und Leutnants einen praktischen Dienst in einer Rekrutenschule bestehen, bei dem sie auf ihrer Stufe die Ausbildungs- und Führungsverantwortung tragen.[^55-2]
 
 <sup>3</sup>
 
 Der Bundesrat regelt:
 
-- a. welche weiteren Ausbildungsdienste für einen höheren Grad, eine neue Funktion oder eine Umschulung zu bestehen sind;
-- b.[^55-2] welche besonderen Dienste Unteroffiziere, höhere Unteroffiziere und Offiziere zu leisten haben;
+- a.[^55-3] welche weiteren Ausbildungsdienste für eine Gradänderung, eine Änderung der Funktion oder eine Umschulung zu bestehen sind;
+- b.[^55-4] welche besonderen Dienste Unteroffiziere, höhere Unteroffiziere und Offiziere zu leisten haben;
 - c. die maximale Dauer der Kaderausbildung und der Ausbildungsdienste.
 
-<sup>4</sup> Er kann das VBS ermächtigen, die Einzelheiten zu den Ausbildungsdiensten wie Aufteilung, Teilnehmer und Zulassungsbedingungen zu regeln.
+<sup>4</sup> Er kann das VBS ermächtigen, die Einzelheiten zu den Ausbildungsdiensten wie Aufteilung, Teilnehmende und Zulassungsbedingungen zu regeln, und diese Kompetenz ganz oder teilweise an die Gruppe Verteidigung delegieren.[^55-5]
 
 [^55-1]: Fassung gemäss Ziff. I des BG vom 19. März 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869); [BBl 2009 5917](https://fedlex.data.admin.ch/eli/fga/2009/1057)).
-[^55-2]: Fassung gemäss Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2018 ([AS 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [BBl 2014 6955](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
+[^55-2]: Fassung gemäss Ziff. I des BG vom 19. Dez. 2025, in Kraft seit 1. Juni 2026 ([AS 2026 164](https://fedlex.data.admin.ch/eli/oc/2026/164); [BBl 2025 960](https://fedlex.data.admin.ch/eli/fga/2025/960)).
+[^55-3]: Fassung gemäss Ziff. I des BG vom 19. Dez. 2025, in Kraft seit 1. Juni 2026 ([AS 2026 164](https://fedlex.data.admin.ch/eli/oc/2026/164); [BBl 2025 960](https://fedlex.data.admin.ch/eli/fga/2025/960)).
+[^55-4]: Fassung gemäss Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2018 ([AS 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [BBl 2014 6955](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
+[^55-5]: Fassung gemäss Ziff. I des BG vom 19. Dez. 2025, in Kraft seit 1. Juni 2026 ([AS 2026 164](https://fedlex.data.admin.ch/eli/oc/2026/164); [BBl 2025 960](https://fedlex.data.admin.ch/eli/fga/2025/960)).
 
 #### Art. 56–58
 
@@ -1249,6 +1376,18 @@ Während der Dauer der Militärdienstpflicht müssen die folgenden Angehörigen 
 
 <sup>2</sup> Das VBS kann vordienstliche Ausbildungskurse durchführen oder andere Organisationen damit beauftragen. Diese Kurse sind freiwillig. Das Bestehen eines solchen Kurses kann für die Einteilung in Truppengattungen oder für die Übertragung von bestimmten Funktionen vorausgesetzt werden.
 
+### 9. Kapitel: Informationsplattformen
+
+[^tit4-chap9-1]
+
+[^tit4-chap9-1]: Eingefügt durch Ziff. I des BG vom 19. Dez. 2025, in Kraft seit 1. Juni 2026 ([AS 2026 164](https://fedlex.data.admin.ch/eli/oc/2026/164); [BBl 2025 960](https://fedlex.data.admin.ch/eli/fga/2025/960)).
+
+#### Art. 64a
+
+<sup>1</sup> Die Armee und die Militärverwaltung können für den persönlichen, nicht öffentlichen Austausch von Informationen und Dokumenten elektronische Plattformen betreiben.
+
+<sup>2</sup> Sie können für die Öffentlichkeit bestimmte Informationen und Dokumente digital über beliebige Informationskanäle zugänglich machen. Sie können dafür Dritte beiziehen und im Rahmen der bewilligten Kredite entschädigen.
+
 ## Fünfter Titel: Einsatz der Armee
 
 [^tit5-1]
@@ -1334,11 +1473,13 @@ Der Bundesrat kann für Milizformationen, die besonders rasch für Einsätze zur
 
 <sup>2</sup> Der Bundesrat kann die für die Durchführung des Einsatzes notwendigen internationalen Abkommen abschliessen.
 
-<sup>3</sup> Soll der Einsatz bewaffnet erfolgen, so konsultiert der Bundesrat vorgängig die Aussenpolitischen und die Sicherheitspolitischen Kommissionen beider Räte.
+<sup>3</sup> Der Einsatz bewaffneter Angehöriger der Armee unterliegt der vorgängigen Genehmigung durch die Bundesversammlung. In dringenden Fällen kann der Bundesrat die Genehmigung der Bundesversammlung nachträglich einholen.[^66b-2]
 
-<sup>4</sup> Werden für einen bewaffneten Einsatz mehr als 100 Angehörige der Armee eingesetzt oder dauert dieser länger als drei Wochen, so muss die Bundesversammlung den Einsatz genehmigen. In dringenden Fällen kann der Bundesrat die Genehmigung der Bundesversammlung nachträglich einholen.
+<sup>4</sup> Über den Einsatz und die Bewaffnung von höchstens 18 Angehörigen der Armee pro Mission zum Selbstschutz, zur Notwehr und zur Notwehrhilfe entscheidet der Bundesrat selbstständig.[^66b-3]
 
 [^66b-1]: Eingefügt durch Ziff. I des BG vom 6. Okt. 2000, in Kraft seit 1. Sept. 2001 ([AS 2001 2266](https://fedlex.data.admin.ch/eli/oc/2001/324); [BBl 2000 477](https://fedlex.data.admin.ch/eli/fga/2000/142)).
+[^66b-2]: Fassung gemäss Ziff. I des BG vom 19. Dez. 2025, in Kraft seit 1. Juni 2026 ([AS 2026 164](https://fedlex.data.admin.ch/eli/oc/2026/164); [BBl 2025 960](https://fedlex.data.admin.ch/eli/fga/2025/960)).
+[^66b-3]: Fassung gemäss Ziff. I des BG vom 19. Dez. 2025, in Kraft seit 1. Juni 2026 ([AS 2026 164](https://fedlex.data.admin.ch/eli/oc/2026/164); [BBl 2025 960](https://fedlex.data.admin.ch/eli/fga/2025/960)).
 
 ### 3. Kapitel: Assistenzdienst
 
@@ -1384,7 +1525,8 @@ Zur Erhöhung der Bereitschaft der Armee können militärische Führungsstäbe o
 Im Ausland wird Assistenzdienst geleistet zur Unterstützung ziviler Behörden:
 
 - a. beim Schutz von Personen und besonders schutzwürdigen Sachen, soweit schweizerische Interessen zu wahren sind;
-- b. bei der Unterstützung humanitärer Hilfeleistungen, auf Ersuchen des betroffenen Staates oder einer internationalen Organisation.
+- b. bei der Unterstützung humanitärer Hilfeleistungen, auf Ersuchen des betroffenen Staates oder einer internationalen Organisation;
+- c.[^69-2] bei Friedensprozessen von Schweizer Behörden sowie von internationalen und regionalen Organisationen, sofern der Gaststaat und die Konfliktparteien zustimmen.
 
 <sup>2</sup> Der Assistenzdienst im Ausland ist freiwillig. Zur Unterstützung humanitärer Hilfeleistungen im grenznahen Raum kann er obligatorisch erklärt werden.
 
@@ -1393,6 +1535,7 @@ Im Ausland wird Assistenzdienst geleistet zur Unterstützung ziviler Behörden:
 <sup>4</sup> Er kann die für die Durchführung des Einsatzes notwendigen internationalen Abkommen zur Regelung der rechtlichen und administrativen Fragen des Einsatzes abschliessen.
 
 [^69-1]: Fassung gemäss Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2018 ([AS 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [BBl 2014 6955](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
+[^69-2]: Eingefügt durch Ziff. I des BG vom 19. Dez. 2025, in Kraft seit 1. Juni 2026 ([AS 2026 164](https://fedlex.data.admin.ch/eli/oc/2026/164); [BBl 2025 960](https://fedlex.data.admin.ch/eli/fga/2025/960)).
 
 #### Art. 70
 
@@ -1408,10 +1551,10 @@ Zuständig für das Aufgebot und die Zuweisung an die zivilen Behörden sind:
 
 <sup>2</sup> Werden mehr als 2000 Angehörige der Armee aufgeboten oder dauert der Einsatz länger als drei Wochen, so muss die Bundesversammlung den Einsatz in der nächsten Session genehmigen. Ist der Einsatz vor der Session beendet, so erstattet der Bundesrat Bericht.
 
-<sup>3</sup> Der Bundesrat kann ohne Genehmigung der Bundesversammlung gleichzeitig höchstens zehn Angehörige der Armee für länger als drei Wochen dauernde Einsätze aufbieten. Er erstattet über diese Aufgebote jährlich Bericht an die Aussenpolitischen und die Sicherheitspolitischen Kommissionen.[^70-2]
+<sup>3</sup> Der Bundesrat kann ohne Genehmigung der Bundesversammlung gleichzeitig höchstens 36 bewaffnete Angehörige der Armee für länger als drei Wochen dauernde Einsätze aufbieten. Er erstattet über diese Aufgebote jährlich Bericht an die Aussenpolitischen und die Sicherheitspolitischen Kommissionen.[^70-2]
 
 [^70-1]: Eingefügt durch Ziff. I des BG vom 18. März 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [BBl 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
-[^70-2]: Eingefügt durch Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714); [BBl 2014 6955](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
+[^70-2]: Eingefügt durch Ziff. I des BG vom 18. März 2016 ([AS 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714); [BBl 2014 6955](https://fedlex.data.admin.ch/eli/fga/2014/1566)). Fassung gemäss Ziff. I des BG vom 19. Dez. 2025, in Kraft seit 1. Juni 2026 ([AS 2026 164](https://fedlex.data.admin.ch/eli/oc/2026/164); [BBl 2025 960](https://fedlex.data.admin.ch/eli/fga/2025/960)).
 
 #### Art. 71
 
@@ -1421,7 +1564,9 @@ Zuständig für das Aufgebot und die Zuweisung an die zivilen Behörden sind:
 
 <sup>2</sup> Der Bundesrat oder das VBS legt die Kommandostruktur fest.
 
-<sup>3</sup> Der Truppenkommandant führt die Truppe im Einsatz.
+<sup>3</sup> Die Truppenkommandantin oder der Truppenkommandant führt die Truppe im Einsatz.[^71-1]
+
+[^71-1]: Fassung gemäss Ziff. I des BG vom 19. Dez. 2025, in Kraft seit 1. Juni 2026 ([AS 2026 164](https://fedlex.data.admin.ch/eli/oc/2026/164); [BBl 2025 960](https://fedlex.data.admin.ch/eli/fga/2025/960)).
 
 #### Art. 72
 
@@ -1534,19 +1679,46 @@ Aktivdienst wird geleistet, um:
 
 #### Art. 80
 
-**Requisition und Unbrauchbarmachung**
+**Nutzungseinschränkung und -verbot, Requisition und Unbrauchbarmachung: Pflichten**[^80-1]
 
-<sup>1</sup> Bietet der Bund Truppen zum Aktivdienst auf, ist jedermann verpflichtet, für die Erfüllung der militärischen Aufträge sein bewegliches und unbewegliches Eigentum den Militärbehörden und der Truppe zur Verfügung zu stellen. Diese Pflicht gilt bereits für die notwendigen Vorbereitungen in Friedenszeiten.
+<sup>1</sup>
 
-<sup>2</sup> Militärbehörden und Truppe dürfen von der Requisition nur soweit Gebrauch machen, als es ihre Aufträge unbedingt erfordern und sie diese nicht mit eigenen Mitteln erfüllen können.
+Bietet der Bund die Armee oder Teile davon zum Aktivdienst auf, ist jede Person verpflichtet, der Militärverwaltung und der Armee für die Erfüllung der militärischen Aufträge folgende Requisitionsgüter zur Verfügung zu stellen, die Einschränkung oder das Verbot von deren Nutzung oder deren Unbrauchbarmachung zu dulden:
 
-<sup>3</sup> Der Bund leistet für Gebrauch, Wertverminderung und Verlust des Eigentums angemessene Entschädigung.
+- a. bewegliches und unbewegliches Eigentum;
+- b. Naturkräfte, soweit sie beherrschbar sind, wie etwa Strom;
+- c. Daten;
+- d. Funkfrequenzen;
+- e. Immaterialgüter;
+- f. Arbeits- und Dienstleistungen.
 
-<sup>4</sup> Alle Verfügungen und Befehle, welche die zuständigen Organe im Zusammenhang mit der Requisition erlassen, sind endgültig und sofort vollstreckbar. Betrifft eine Verfügung jedoch Ansprüche vermögensrechtlicher Art, so kann bei der Gruppe Verteidigung des VBS dagegen Beschwerde erhoben werden.[^80-1]
+<sup>2</sup> Diese Pflichten gelten auch für die notwendigen Arbeiten zur Vorbereitung auf einen angeordneten Aktivdienst.
 
-<sup>5</sup> Der Bundesrat kann im Aktivdienst die Unbrauchbarmachung von Betrieben, Anlagen und Warenlagern anordnen.
+<sup>3</sup> Die Unbrauchbarmachung von Betrieben, Anlagen und Warenlagern bedarf der Genehmigung durch den Bundesrat.
 
-[^80-1]: Fassung des zweiten Satzes gemäss Ziff. I des BG vom 19. März 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869); [BBl 2009 5917](https://fedlex.data.admin.ch/eli/fga/2009/1057)).
+<sup>4</sup> Die Militärverwaltung und die Armee dürfen von den Verpflichtungen nach den Absätzen 1 und 2 nur soweit Gebrauch machen, als es ihre Aufträge unbedingt erfordern und sie diese nicht mit eigenen Mitteln erfüllen können.
+
+<sup>5</sup>
+
+Der Bund leistet angemessene Entschädigung für:
+
+- a. die Einschränkung oder das Verbot der Nutzung von Requisitionsgut;
+- b. den Gebrauch, die Wertverminderung, die Unbrauchbarmachung oder den Verlust von Requisitionsgut.
+
+<sup>6</sup> Der Bundesrat kann für Behörden und Organisationen, die für das Funktionieren der Wirtschaft und das Wohlergehen der Bevölkerung notwendig sind, Ausnahmen von den Pflichten nach den Absätzen 1 und 2 vorsehen.
+
+<sup>7</sup> Er bezeichnet die zuständigen Organe der Militärverwaltung und der Armee und legt ihre Aufgaben fest.
+
+[^80-1]: Fassung gemäss Ziff. I des BG vom 19. Dez. 2025, in Kraft seit 1. Juni 2026 ([AS 2026 164](https://fedlex.data.admin.ch/eli/oc/2026/164); [BBl 2025 960](https://fedlex.data.admin.ch/eli/fga/2025/960)).
+
+#### Art. 80a
+
+**Nutzungseinschränkung und -verbot, Requisition und Unbrauchbarmachung: Verfügung und Beschwerde**[^80a-1]
+
+Nutzungseinschränkung und -verbot, Requisition sowie Unbrauchbarmachung werden durch die zuständigen Organe der Militärverwaltung und der Armee verfügt. Das Verfahren richtet sich nach dem Verwaltungsverfahrensgesetz[^80a-2].
+
+[^80a-1]: Eingefügt durch Ziff. I des BG vom 19. Dez. 2025, in Kraft seit 1. Juni 2026 ([AS 2026 164](https://fedlex.data.admin.ch/eli/oc/2026/164); [BBl 2025 960](https://fedlex.data.admin.ch/eli/fga/2025/960)).
+[^80a-2]: [SR 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 #### Art. 81
 
@@ -1556,10 +1728,11 @@ Aktivdienst wird geleistet, um:
 
 Der Bundesrat kann im Aktivdienst den militärischen Betrieb anordnen für:
 
-- a. die mit öffentlichen Aufgaben betrauten privaten Unternehmen, mit Ausnahme der vom Bund konzessionierten Transportunternehmen;
-- b. die militärischen Anstalten und Betriebe.
+- a.[^81-1] die mit öffentlichen Aufgaben betrauten privaten Unternehmen;
+- b. die militärischen Anstalten und Betriebe;
+- c.[^81-2] Betriebe der kritischen Infrastruktur im Sinne von Artikel 74*b* Absatz 1 Buchstaben d, g, h, j, k, p–r, t und u des Informationssicherheitsgesetzes vom 18. Dezember 2020[^81-3].
 
-<sup>2</sup> Im militärischen Betrieb verfügen die Militärbehörden über das Personal und das Material der Unternehmen.[^81-1]
+<sup>2</sup> Im militärischen Betrieb verfügt die Militärverwaltung über das Personal, die Infrastruktur und das Material der Unternehmen.[^81-4]
 
 <sup>3</sup> Die Militärbehörden können anordnen, dass neue Einrichtungen erstellt oder bestehende zerstört werden.
 
@@ -1567,7 +1740,16 @@ Der Bundesrat kann im Aktivdienst den militärischen Betrieb anordnen für:
 
 <sup>5</sup> Der Bund leistet den Unternehmen für den Schaden, der ihnen aus dem militärischen Betrieb entsteht, angemessene Entschädigung.
 
-[^81-1]: Fassung gemäss Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2018 ([AS 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [BBl 2014 6955](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
+<sup>6</sup> Der Bundesrat kann für Behörden und Organisationen, die für das Funktionieren der Wirtschaft und das Wohlergehen der Bevölkerung notwendig sind, Ausnahmen von den Pflichten nach den Absätzen 1 und 2 vorsehen.[^81-5]
+
+<sup>7</sup> Er bezeichnet die zuständigen Organe der Militärverwaltung und der Armee und legt ihre Aufgaben fest.[^81-6]
+
+[^81-1]: Fassung gemäss Ziff. I des BG vom 19. Dez. 2025, in Kraft seit 1. Juni 2026 ([AS 2026 164](https://fedlex.data.admin.ch/eli/oc/2026/164); [BBl 2025 960](https://fedlex.data.admin.ch/eli/fga/2025/960)).
+[^81-2]: Eingefügt durch Ziff. I des BG vom 19. Dez. 2025, in Kraft seit 1. Juni 2026 ([AS 2026 164](https://fedlex.data.admin.ch/eli/oc/2026/164); [BBl 2025 960](https://fedlex.data.admin.ch/eli/fga/2025/960)).
+[^81-3]: [SR 128](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40013)
+[^81-4]: Fassung gemäss Ziff. I des BG vom 19. Dez. 2025, in Kraft seit 1. Juni 2026 ([AS 2026 164](https://fedlex.data.admin.ch/eli/oc/2026/164); [BBl 2025 960](https://fedlex.data.admin.ch/eli/fga/2025/960)).
+[^81-5]: Eingefügt durch Ziff. I des BG vom 19. Dez. 2025, in Kraft seit 1. Juni 2026 ([AS 2026 164](https://fedlex.data.admin.ch/eli/oc/2026/164); [BBl 2025 960](https://fedlex.data.admin.ch/eli/fga/2025/960)).
+[^81-6]: Eingefügt durch Ziff. I des BG vom 19. Dez. 2025, in Kraft seit 1. Juni 2026 ([AS 2026 164](https://fedlex.data.admin.ch/eli/oc/2026/164); [BBl 2025 960](https://fedlex.data.admin.ch/eli/fga/2025/960)).
 
 #### Art. 82
 
@@ -1583,25 +1765,28 @@ Der Bundesrat kann im Aktivdienst den militärischen Betrieb anordnen für:
 
 <sup>2</sup> Der Ordnungsdienst wird von der Bundesversammlung oder in dringlichen Fällen vom Bundesrat nach Artikel 77 Absatz 3 angeordnet.[^83-1]
 
-<sup>3</sup> Die zivile Behörde bestimmt den Auftrag für den Einsatz nach Rücksprache mit dem VBS oder dem Oberbefehlshaber der Armee.[^83-2]
+<sup>3</sup> Die zivile Behörde bestimmt den Auftrag für den Einsatz nach Rücksprache mit dem VBS oder der Oberbefehlshaberin beziehungsweise dem Oberbefehlshaber der Armee.[^83-2]
 
 <sup>4</sup> …[^83-3]
 
 <sup>5</sup> Die Kantone können beantragen, dass der Bund Truppen zum Ordnungsdienst aufbietet.
 
-<sup>6</sup> Im Landesverteidigungsdienst sorgt der Bund für die Wahrung der inneren Sicherheit, soweit dafür Truppen eingesetzt werden müssen. Der Bundesrat erteilt dem Oberbefehlshaber der Armee die erforderlichen Weisungen.
+<sup>6</sup> Im Landesverteidigungsdienst sorgt der Bund für die Wahrung der inneren Sicherheit, soweit dafür Truppen eingesetzt werden müssen. Der Bundesrat erteilt der Oberbefehlshaberin oder dem Oberbefehlshaber der Armee die erforderlichen Weisungen.[^83-4]
 
 [^83-1]: Fassung gemäss Ziff. I des BG vom 4. Okt. 2002, in Kraft seit 1. Jan. 2004 ([AS 2003 3957](https://fedlex.data.admin.ch/eli/oc/2003/570); [BBl 2002 858](https://fedlex.data.admin.ch/eli/fga/2002/118)).
-[^83-2]: Fassung gemäss Ziff. I des BG vom 4. Okt. 2002, in Kraft seit 1. Jan. 2004 ([AS 2003 3957](https://fedlex.data.admin.ch/eli/oc/2003/570); [BBl 2002 858](https://fedlex.data.admin.ch/eli/fga/2002/118)).
+[^83-2]: Fassung gemäss Ziff. I des BG vom 19. Dez. 2025, in Kraft seit 1. Juni 2026 ([AS 2026 164](https://fedlex.data.admin.ch/eli/oc/2026/164); [BBl 2025 960](https://fedlex.data.admin.ch/eli/fga/2025/960)).
 [^83-3]: Aufgehoben durch Ziff. I des BG vom 4. Okt. 2002, mit Wirkung seit 1. Jan. 2004 ([AS 2003 3957](https://fedlex.data.admin.ch/eli/oc/2003/570); [BBl 2002 858](https://fedlex.data.admin.ch/eli/fga/2002/118)).
+[^83-4]: Fassung des zweiten Satzes gemäss Ziff. I des BG vom 19. Dez. 2025, in Kraft seit 1. Juni 2026 ([AS 2026 164](https://fedlex.data.admin.ch/eli/oc/2026/164); [BBl 2025 960](https://fedlex.data.admin.ch/eli/fga/2025/960)).
 
 ### 2. Abschnitt: Oberbefehl
 
 #### Art. 84
 
-**General**
+**General**[^84-1]
 
-Der General ist der Oberbefehlshaber der Armee.
+Der General ist der Oberbefehlshaber oder die Oberbefehlshaberin der Armee.
+
+[^84-1]: Fassung gemäss Ziff. I des BG vom 19. Dez. 2025, in Kraft seit 1. Juni 2026 ([AS 2026 164](https://fedlex.data.admin.ch/eli/oc/2026/164); [BBl 2025 960](https://fedlex.data.admin.ch/eli/fga/2025/960)).
 
 #### Art. 85
 
@@ -1611,9 +1796,9 @@ Der General ist der Oberbefehlshaber der Armee.
 
 <sup>2</sup> Bis zur Wahl des Generals regelt der Bundesrat den Oberbefehl.
 
-<sup>3</sup> Der Bundesrat bestimmt auf Antrag des Generals dessen Stellvertreter.[^85-1]
+<sup>3</sup> Der Bundesrat bestimmt auf Antrag des Generals dessen Stellvertreterin oder Stellvertreter.[^85-1]
 
-[^85-1]: Fassung gemäss Ziff. I des BG vom 19. März 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869); [BBl 2009 5917](https://fedlex.data.admin.ch/eli/fga/2009/1057)).
+[^85-1]: Fassung gemäss Ziff. I des BG vom 19. Dez. 2025, in Kraft seit 1. Juni 2026 ([AS 2026 164](https://fedlex.data.admin.ch/eli/oc/2026/164); [BBl 2025 960](https://fedlex.data.admin.ch/eli/fga/2025/960)).
 
 #### Art. 86
 
@@ -1709,13 +1894,14 @@ Der Bundesrat regelt unter Berücksichtigung der Art der Aufgaben und des Ausbil
 
 <sup>4</sup> Gegen Staatsluftfahrzeuge, namentlich Militärluftfahrzeuge, die ohne Bewilligung oder unter Missachtung der Bewilligungsauflagen den schweizerischen Luftraum benützen, dürfen Waffen eingesetzt werden, wenn die Luftfahrzeuge den luftpolizeilichen Anordnungen nicht Folge leisten.
 
-<sup>5</sup> Die Vorsteherin oder der Vorsteher des VBS ordnet den Waffeneinsatz an. Sie oder er kann die Kompetenz für den Waffeneinsatz an den Kommandanten der Luftwaffe delegieren.
+<sup>5</sup> Die Vorsteherin oder der Vorsteher des VBS ordnet den Waffeneinsatz an. Sie oder er kann die Kompetenz für den Waffeneinsatz an die Kommandantin oder den Kommandanten der Luftwaffe delegieren.[^92a-2]
 
 <sup>6</sup> Vorbehalten bleiben Waffeneinsätze bei Notstand oder Notwehr.
 
 <sup>7</sup> Das VBS erlässt nach Anhörung des Eidgenössischen Departements für Umwelt, Verkehr, Energie und Kommunikation die Einsatzvorschriften.
 
 [^92a-1]: Eingefügt durch Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2018 ([AS 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [BBl 2014 6955](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
+[^92a-2]: Fassung des zweiten Satzes gemäss Ziff. I des BG vom 19. Dez. 2025, in Kraft seit 1. Juni 2026 ([AS 2026 164](https://fedlex.data.admin.ch/eli/oc/2026/164); [BBl 2025 960](https://fedlex.data.admin.ch/eli/fga/2025/960)).
 
 ## Sechster Titel: Organisation der Armee
 
@@ -1777,11 +1963,57 @@ Die Organisation der Armee nach dem Milizprinzip beruht auf:
 
 [^96-1]: Fassung gemäss Ziff. I des BG vom 18. März 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [BBl 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
 
-#### Art. 97 und 98
+### 2*a*. Kapitel: Betriebskontinuität und Resilienz
 
-[^9798-1]
+[^tit6-chap2a-1]
 
-[^9798-1]: Aufgehoben durch Ziff. I des BG vom 4. Okt. 2002, mit Wirkung seit 1. Jan. 2004 ([AS 2003 3957](https://fedlex.data.admin.ch/eli/oc/2003/570); [BBl 2002 858](https://fedlex.data.admin.ch/eli/fga/2002/118)).
+[^tit6-chap2a-1]: Eingefügt durch Ziff. I des BG vom 19. Dez. 2025, in Kraft seit 1. Juni 2026 ([AS 2026 164](https://fedlex.data.admin.ch/eli/oc/2026/164); [BBl 2025 960](https://fedlex.data.admin.ch/eli/fga/2025/960)).
+
+#### Art. 97
+
+[^97-1]
+
+<sup>1</sup> Zum Schutz der Lieferketten der Armee und der militärischen Informations- und Kommunikationstechnologie sowie zur Erhaltung der Betriebskontinuität und der Resilienz gegenüber Bedrohungen, insbesondere im Cyberbereich, können die Militärverwaltung und die Armee die Nutzung von Gütern nach Artikel 80 Absatz 1 Buchstaben a–c, e und f einschränken oder verbieten oder solche Güter requirieren.
+
+<sup>2</sup> Massnahmen nach Absatz 1 bedürfen der Genehmigung durch den Bundesrat.
+
+<sup>3</sup> Der Bund leistet für die Einschränkung oder das Verbot der Nutzung der Güter nach Artikel 80 Absatz 1 sowie deren Requisition angemessene Entschädigung.
+
+<sup>4</sup> Nutzungseinschränkungen und -verbote sowie Requisition werden durch die zuständigen Organe der Militärverwaltung und der Armee verfügt. Das Verfahren richtet sich nach dem Verwaltungsverfahrensgesetz[^97-2].
+
+<sup>5</sup> Der Bundesrat kann für Behörden und Organisationen, die für das Funktionieren der Wirtschaft und das Wohlergehen der Bevölkerung notwendig sind, Ausnahmen von den Pflichten nach Absatz 1 vorsehen.
+
+<sup>6</sup> Er bezeichnet die zuständigen Organe der Militärverwaltung und der Armee und legt ihre Aufgaben fest.
+
+[^97-1]: Fassung gemäss Ziff. I des BG vom 19. Dez. 2025, in Kraft seit 1. Juni 2026 ([AS 2026 164](https://fedlex.data.admin.ch/eli/oc/2026/164); [BBl 2025 960](https://fedlex.data.admin.ch/eli/fga/2025/960)).
+[^97-2]: [SR 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
+
+### 2*b*. Kapitel: Kommissariatsdienst
+
+[^tit6-chap2b-1]
+
+[^tit6-chap2b-1]: Eingefügt durch Ziff. I des BG vom 19. Dez. 2025, in Kraft seit 1. Juni 2026 ([AS 2026 164](https://fedlex.data.admin.ch/eli/oc/2026/164); [BBl 2025 960](https://fedlex.data.admin.ch/eli/fga/2025/960)).
+
+#### Art. 98
+
+[^98-1]
+
+<sup>1</sup> Der Kommissariatsdienst der Armee ist verantwortlich für die Versorgung der Angehörigen der Armee nach den Artikeln 29–29*e* sowie für das Rechnungs-, Betriebsstoff- und Transportwesen.
+
+<sup>2</sup>
+
+Für folgende Bereiche des Kommissariatsdienstes ist das Finanzhaushaltsgesetz vom 7. Oktober 2005[^98-2] (FHG) sinngemäss anwendbar:
+
+- a. Buchführung, interne Kontrolle und Kostentransparenz (Art. 38–40 FHG);
+- b. Rechnungslegung, Bilanzierung und Bewertung (Art. 47 und 48 FHG);
+- c. Aufgaben und Zuständigkeiten (56–60 FHG).
+
+<sup>3</sup> Die Eidgenössische Finanzkontrolle ist die Oberrevisionsstelle für das Rechnungswesen der Armee.
+
+<sup>4</sup> Sämtliche Forderungen auf Entschädigung aus Truppenunterkunft sowie Sold und Soldzulage verjähren mit dem Ablauf von fünf Jahren nach dem Ende des Dienstes und Wegzug der Truppe.
+
+[^98-1]: Fassung gemäss Ziff. I des BG vom 19. Dez. 2025, in Kraft seit 1. Juni 2026 ([AS 2026 164](https://fedlex.data.admin.ch/eli/oc/2026/164); [BBl 2025 960](https://fedlex.data.admin.ch/eli/fga/2025/960)).
+[^98-2]: [SR 611.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7751)
 
 ### 3. Kapitel: Nachrichtendienst und Militärische Sicherheit
 
@@ -1893,6 +2125,28 @@ Der Bundesrat regelt:
 [^100-5]: [SR 364](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6323)
 [^100-6]: Fassung gemäss Anhang 1 Ziff. II 40 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
+#### Art. 100a
+
+**Schutz militärischer Fernmeldeanlagen**[^100a-1]
+
+<sup>1</sup> Die Militärverwaltung und die Armee können zum Schutz von militärischen Fernmeldeanlagen ein nach dem Fernmeldegesetz vom 30. April 1997[^100a-2] konformes Betriebsmittel oder eine konforme Fernmeldeanlage auf Kosten des Bundes ändern oder ersetzen, sofern die Konformität gewahrt bleibt.
+
+<sup>2</sup> Die Militärverwaltung und die Armee können zum gleichen Zweck und zur Wahrung der Sicherheit die zuständige zivile Behörde anweisen, die Nutzung von Fernmeldeanlagen und Betriebsmitteln örtlich und zeitlich begrenzt einzuschränken oder zu verbieten.
+
+<sup>3</sup> Massnahmen nach Absatz 2 bedürfen der Genehmigung durch den Bundesrat.
+
+<sup>4</sup> Der Bund leistet für die Änderung, den Ersatz, Einschränkung und Verbot angemessene Entschädigung.
+
+<sup>5</sup> Änderung, Ersatz, Einschränkung und Verbot werden durch die zuständigen Organe der Militärverwaltung und der Armee verfügt. Das Verfahren richtet sich nach dem Verwaltungsverfahrensgesetz[^100a-3].
+
+<sup>6</sup> Der Bundesrat kann für Behörden und Organisationen, die für das Funktionieren der Wirtschaft und das Wohlergehen der Bevölkerung notwendig sind, Ausnahmen von den Pflichten nach den Absätzen 1 und 2 vorsehen.
+
+<sup>7</sup> Er bezeichnet die zuständigen Organe der Militärverwaltung und der Armee und legt ihre Aufgaben fest.
+
+[^100a-1]: Eingefügt durch Ziff. I des BG vom 19. Dez. 2025, in Kraft seit 1. Juni 2026 ([AS 2026 164](https://fedlex.data.admin.ch/eli/oc/2026/164); [BBl 2025 960](https://fedlex.data.admin.ch/eli/fga/2025/960)).
+[^100a-2]: [SR 784.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9171)
+[^100a-3]: [SR 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
+
 ### 4. Kapitel: Berufsformationen
 
 #### Art. 101
@@ -1937,10 +2191,11 @@ In der Armee gibt es folgende Grade:
   - 2\. Hauptmann,
   - 3\. Stabsoffiziere: Major, Oberstleutnant, Oberst,
   - 4\. höhere Stabsoffiziere: Brigadier, Divisionär, Korpskommandant,
-  - 5\. Oberbefehlshaber der Armee: General.
+  - 5\.[^102-3] Oberbefehlshaberin oder Oberbefehlshaber der Armee: General.
 
 [^102-1]: Fassung gemäss Ziff. I des BG vom 19. März 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869); [BBl 2009 5917](https://fedlex.data.admin.ch/eli/fga/2009/1057)).
 [^102-2]: Fassung gemäss Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2018 ([AS 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [BBl 2014 6955](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
+[^102-3]: Fassung gemäss Ziff. I des BG vom 19. Dez. 2025, in Kraft seit 1. Juni 2026 ([AS 2026 164](https://fedlex.data.admin.ch/eli/oc/2026/164); [BBl 2025 960](https://fedlex.data.admin.ch/eli/fga/2025/960)).
 
 #### Art. 103
 
@@ -1959,10 +2214,16 @@ Die zuständige Behörde kann für die Abklärung der Eignung eines Anwärters o
 - c. Auszüge aus dem Betreibungs- und Konkursregister verlangen sowie in Betreibungs- und Konkursakten Einsicht nehmen;
 - d. die Durchführung einer Personensicherheitsprüfung verlangen.[^103-2]
 
+<sup>3bis</sup> Bei Angehörigen der Armee, die nach einer Beförderung den praktischen Dienst nach Artikel 55 Absatz 2 nicht bestehen, wird die Beförderung rückgängig gemacht.[^103-3]
+
 <sup>4</sup> Beförderungen und Ernennungen, die diesem Gesetz oder seinen Ausführungsbestimmungen widersprechen, können für ungültig erklärt werden.
+
+<sup>5</sup> Angehörigen der Armee, die eine Funktion mit einem tieferen Grad ausüben wollen, kann auf Gesuch hin und nach Absolvierung der entsprechenden Ausbildung der tiefere Grad verliehen werden.[^103-4]
 
 [^103-1]: Aufgehoben durch Ziff. I des BG vom 4. Okt. 2002, mit Wirkung seit 1. Jan. 2004 ([AS 2003 3957](https://fedlex.data.admin.ch/eli/oc/2003/570); [BBl 2002 858](https://fedlex.data.admin.ch/eli/fga/2002/118)).
 [^103-2]: Fassung gemäss Ziff. I des BG vom 19. März 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869); [BBl 2009 5917](https://fedlex.data.admin.ch/eli/fga/2009/1057)).
+[^103-3]: Eingefügt durch Ziff. I des BG vom 19. Dez. 2025, in Kraft seit 1. Juni 2026 ([AS 2026 164](https://fedlex.data.admin.ch/eli/oc/2026/164); [BBl 2025 960](https://fedlex.data.admin.ch/eli/fga/2025/960)).
+[^103-4]: Eingefügt durch Ziff. I des BG vom 19. Dez. 2025, in Kraft seit 1. Juni 2026 ([AS 2026 164](https://fedlex.data.admin.ch/eli/oc/2026/164); [BBl 2025 960](https://fedlex.data.admin.ch/eli/fga/2025/960)).
 
 #### Art. 104
 
@@ -2010,14 +2271,28 @@ Das Armeematerial umfasst:
 
 #### Art. 106
 
-**Beschaffung**[^106-1]
+**Beschaffung und Kompensationsgeschäfte[^106-2]**[^106-1]
 
 <sup>1</sup> Der Bund beschafft das Armeematerial.
 
-<sup>2</sup> Er beschafft das Material möglichst aus schweizerischer Herkunft und unter Berücksichtigung aller Landesgegenden.[^106-2]
+<sup>2</sup> Er beschafft das Material möglichst aus schweizerischer Herkunft und unter Berücksichtigung aller Landesgegenden.[^106-3]
+
+<sup>3</sup>
+
+Der Bundesrat kann für die Beschaffung von Armeematerial im Ausland ab einem bestimmten Auftragswert eine Pflicht der Lieferanten zu Kompensationsgeschäften in der Schweiz vorsehen. Er beachtet dabei folgende Grundsätze:
+
+- a. Eine Pflicht zu Kompensationsgeschäften darf höchstens bis zum Vertragswert der Beschaffung bestehen.
+- b. Die Kompensationsgeschäfte erfolgen durch eine industrielle Zusammenarbeit des Lieferanten mit Forschungseinrichtungen und Unternehmen aus dem wehr- und sicherheitstechnischen Bereich im Inland; der Bundesrat bestimmt, welche zivilen Industriezweige ebenfalls für Kompensationsgeschäfte infrage kommen.
+- c. Das Ziel der Kompensationsgeschäfte ist die Förderung, die Erhaltung und der Aufbau von sicherheitsrelevanten Technologien, industriellen Kernfähigkeiten und Kapazitäten im Inland, die dem Schutz wesentlicher nationaler Sicherheitsinteressen dienen.
+- d. Bei den Kompensationsgeschäften werden alle Landesgegenden und die Besonderheiten des Rüstungsmarktes angemessen berücksichtigt.[^106-4]
+
+<sup>4</sup> Der Bundesrat regelt die Organisation, die Zuständigkeiten, den Mindestauftragswert, den zu kompensierenden Betrag und das Verfahren der Beschaffung von Armeematerial.[^106-5]
 
 [^106-1]: Fassung gemäss Ziff. II 8 des BG vom 6. Okt. 2006 über die Neugestaltung des Finanzausgleichs und die Aufgabenteilung zwischen Bund und Kantonen (NFA), in Kraft seit 1. Jan. 2008 ([AS 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [BBl 2005 6029](https://fedlex.data.admin.ch/eli/fga/2005/976)).
-[^106-2]: Eingefügt durch Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2018 ([AS 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [BBl 2014 6955](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
+[^106-2]: Fassung gemäss Ziff. I des BG vom 19. Dez. 2025, in Kraft seit 1. Juni 2026 ([AS 2026 164](https://fedlex.data.admin.ch/eli/oc/2026/164); [BBl 2025 960](https://fedlex.data.admin.ch/eli/fga/2025/960)).
+[^106-3]: Eingefügt durch Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2018 ([AS 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [BBl 2014 6955](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
+[^106-4]: Eingefügt durch Ziff. I des BG vom 19. Dez. 2025, in Kraft seit 1. Juni 2026 ([AS 2026 164](https://fedlex.data.admin.ch/eli/oc/2026/164); [BBl 2025 960](https://fedlex.data.admin.ch/eli/fga/2025/960)).
+[^106-5]: Eingefügt durch Ziff. I des BG vom 19. Dez. 2025, in Kraft seit 1. Juni 2026 ([AS 2026 164](https://fedlex.data.admin.ch/eli/oc/2026/164); [BBl 2025 960](https://fedlex.data.admin.ch/eli/fga/2025/960)).
 
 #### Art. 106a
 
@@ -2082,6 +2357,23 @@ Diese Abkommen können insbesondere folgende Gegenstände betreffen:
 
 [^109b-1]: Eingefügt durch Ziff. I des BG vom 19. März 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869); [BBl 2009 5917](https://fedlex.data.admin.ch/eli/fga/2009/1057)).
 
+#### Art. 109c
+
+**Forschung und Entwicklung**[^109c-1]
+
+<sup>1</sup>
+
+Das VBS kann zur Erfüllung seiner sicherheitspolitischen Aufgaben:
+
+- a. Forschungs- und Entwicklungsarbeiten sowie Technologiefolgeabschätzungen in Auftrag geben;
+- b. sich an bestehenden Förderprogrammen Dritter in den Bereichen Forschung und Innovation beteiligen;
+- c. eigene Forschungsprogramme durchführen;
+- d. projektspezifisch mit der Industrie und Hochschulen zusammenarbeiten.
+
+<sup>2</sup> Es kann an den Arbeiten nationaler oder internationaler Organisationen mitwirken und mit nationalen oder internationalen Partnern zusammenarbeiten.
+
+[^109c-1]: Eingefügt durch Ziff. I des BG vom 19. Dez. 2025, in Kraft seit 1. Juni 2026 ([AS 2026 164](https://fedlex.data.admin.ch/eli/oc/2026/164); [BBl 2025 960](https://fedlex.data.admin.ch/eli/fga/2025/960)).
+
 ### 2. Kapitel: Persönliche Ausrüstung
 
 #### Art. 110
@@ -2113,9 +2405,9 @@ Diese Abkommen können insbesondere folgende Gegenstände betreffen:
 
 <sup>2</sup> Verletzen Angehörige der Armee diese Pflichten oder missbrauchen sie die Ausrüstung, so kann ihnen diese abgenommen werden.
 
-<sup>3</sup> Ehemalige Angehörige der Armee sind verpflichtet, die persönliche Ausrüstung bis zu deren Rückgabe sicher aufzubewahren und zu unterhalten.[^112-1]
+<sup>3</sup> Ehemalige Angehörige der Armee sind verpflichtet, die persönliche Ausrüstung bis zu deren Rückgabe sicher aufzubewahren und zu unterhalten sowie den Rückgabetermin wahrzunehmen.[^112-1]
 
-[^112-1]: Eingefügt durch Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2018 ([AS 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [BBl 2014 6955](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
+[^112-1]: Eingefügt durch Ziff. I des BG vom 18. März 2016 ([AS 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714); [BBl 2014 6955](https://fedlex.data.admin.ch/eli/fga/2014/1566)). Fassung gemäss Ziff. I des BG vom 19. Dez. 2025, in Kraft seit 1. Juni 2026 ([AS 2026 164](https://fedlex.data.admin.ch/eli/oc/2026/164); [BBl 2025 960](https://fedlex.data.admin.ch/eli/fga/2025/960)).
 
 #### Art. 113
 
@@ -2123,20 +2415,21 @@ Diese Abkommen können insbesondere folgende Gegenstände betreffen:
 
 <sup>1</sup>
 
-Angehörigen der Armee darf keine persönliche Waffe abgegeben werden, wenn ernstzunehmende Anzeichen oder Hinweise bestehen, dass:
+Stellungspflichtige dürfen nicht rekrutiert werden und Angehörigen der Armee darf keine persönliche Waffe abgegeben werden, wenn ernstzunehmende Anzeichen oder Hinweise bestehen, dass:[^113-2]
 
 - a. sie sich selbst oder Dritte mit der persönlichen Waffe gefährden könnten;
 - b. sie oder Dritte die persönliche Waffe missbrauchen könnten.
 
-<sup>2</sup> Werden Anzeichen oder Hinweise nach Absatz 1 bekannt, nachdem die persönliche Waffe abgegeben wurde, so wird diese dem Angehörigen der Armee unverzüglich entzogen.
+<sup>2</sup> Werden Anzeichen oder Hinweise nach Absatz 1 bekannt, nachdem die persönliche Waffe abgegeben wurde, so wird diese dem betroffenen Angehörigen der Armee unverzüglich entzogen.[^113-3]
 
 <sup>3</sup>
 
 Das VBS prüft, ob Anzeichen oder Hinweise nach Absatz 1 bestehen:
 
-- a. vor der geplanten Abgabe der persönlichen Waffe;
+- a.[^113-4] an der Rekrutierung;
+- a<sup>bis</sup>.[^113-5] vor der geplanten Abgabe der persönlichen Waffe;
 - b. nachdem ein entsprechender Verdacht gemeldet wurde;
-- c. bevor dem Angehörigen der Armee die persönliche Waffe zu Eigentum überlassen wird.
+- c.[^113-6] bevor die persönliche Waffe zu Eigentum überlassen wird.
 
 <sup>4</sup>
 
@@ -2145,29 +2438,37 @@ Es kann dazu ohne Zustimmung der zu prüfenden Person:
 - a. polizeiliche Berichte und militärische Führungsberichte verlangen;
 - b. in das Strafregister sowie in Straf- und Strafvollzugsakten Einsicht nehmen;
 - c. Auszüge aus den Betreibungs- und Konkursregistern verlangen sowie in Betreibungs- und Konkursakten Einsicht nehmen;
-- d. die Beurteilung des Gefährdungs- oder Missbrauchpotenzials durch eine bundesinterne Prüfbehörde verlangen.
+- d.[^113-7] die Beurteilung des Gefährdungs- oder Missbrauchspotenzials durch eine bundesinterne Prüfbehörde verlangen.
 
 <sup>5</sup>
 
-Die bundesinterne Prüfbehörde kann zur Beurteilung des Gefährdungs- oder Missbrauchpotenzials:
+Die bundesinterne Prüfbehörde kann zur Beurteilung des Gefährdungs- oder Missbrauchspotenzials:[^113-8]
 
 - a. die Daten nach den Absätzen 3 Buchstabe b, 7 und 8 einholen;
 - b. Auszüge aus den Betreibungs- und Konkursregistern verlangen sowie in Betreibungs- und Konkursakten Einsicht nehmen;
-- c. Einsicht in das Strafregister, in das informatisierte Staatsschutz-Informationssystem und in den nationalen Polizeiindex nehmen;
-- d.[^113-2] bei den zuständigen Straf- und Strafvollzugsbehörden Auskünfte und Akten über laufende, abgeschlossene oder eingestellte Strafverfahren sowie Strafvollzüge einholen;
+- c.[^113-9] Einsicht in das Strafregister, in das Informationssystem INDEX NDB und in den nationalen Polizeiindex nehmen;
+- d.[^113-10] bei den zuständigen Straf- und Strafvollzugsbehörden Auskünfte und Akten über laufende, abgeschlossene oder eingestellte Strafverfahren sowie Strafvollzüge einholen;
 - e. die zu beurteilende Person und Dritte befragen, falls aufgrund der vorliegenden Daten ein Gefährdungs- oder Missbrauchspotenzial nicht eindeutig ausgeschlossen werden kann.
 
-<sup>6</sup> Das Verfahren richtet sich sinngemäss nach den Bestimmungen über die Grundsicherheitsprüfung nach Artikel 30 Buchstabe a ISG[^113-3]. Ist gleichzeitig aus anderen Gründen eine Grundsicherheitsprüfung durchzuführen, so werden die beiden Verfahren vereinigt.[^113-4]
+<sup>6</sup> Das Verfahren richtet sich sinngemäss nach den Bestimmungen über die Grundsicherheitsprüfung nach Artikel 30 Buchstabe a ISG[^113-11]. Ist gleichzeitig aus anderen Gründen eine Grundsicherheitsprüfung durchzuführen, so werden die beiden Verfahren vereinigt.[^113-12]
 
-<sup>7</sup> Behörden des Bundes, der Kantone und der Gemeinden, Ärztinnen und Ärzte, Seelsorgerinnen und Seelsorger, Psychologinnen und Psychologen, Sozialarbeiterinnen und Sozialarbeiter sowie Angehörige der Betreuungsdienste der Armee sind ohne Rücksicht auf die Bindung an das Amts- oder Berufsgeheimnis ermächtigt, Anzeichen oder Hinweise nach Absatz 1 oder einen entsprechenden Verdacht den zuständigen Stellen des VBS zu melden.[^113-5]
+<sup>7</sup> Behörden des Bundes, der Kantone und der Gemeinden, Ärztinnen und Ärzte, Seelsorgerinnen und Seelsorger, Psychologinnen und Psychologen, Sozialarbeiterinnen und Sozialarbeiter sowie Angehörige der Betreuungsdienste der Armee sind ohne Rücksicht auf die Bindung an das Amts- oder Berufsgeheimnis ermächtigt, Anzeichen oder Hinweise nach Absatz 1 oder einen entsprechenden Verdacht den zuständigen Stellen des VBS zu melden.[^113-13]
 
 <sup>8</sup> Dritte können, unter Angabe der Gründe, Anzeichen oder Hinweise nach Absatz 1 oder einen entsprechenden Verdacht den zuständigen Stellen des VBS melden.
 
 [^113-1]: Fassung gemäss Ziff. I 3 des BG vom 25. Sept. 2015 über Verbesserungen beim Informationsaustausch zwischen Behörden im Umgang mit Waffen, in Kraft seit 1. Juli 2016 ([AS 2016 1831](https://fedlex.data.admin.ch/eli/oc/2016/326); [BBl 2014 303](https://fedlex.data.admin.ch/eli/fga/2014/67)).
-[^113-2]: Die Berichtigung der RedK der BVers vom 23. Aug. 2016, veröffentlicht am 13. Sept. 2016 betrifft nur den französischen Text ([AS 2016 3167](https://fedlex.data.admin.ch/eli/oc/2016/530)).
-[^113-3]: [SR 128](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40013)
-[^113-4]: Fassung gemäss Anhang 1 Ziff. 12 des Informationssicherheitsgesetzes vom 18. Dez. 2020, in Kraft seit 1. Jan. 2024 ([AS 2022 232](https://fedlex.data.admin.ch/eli/oc/2022/232); [2023 650](https://fedlex.data.admin.ch/eli/oc/2023/650); [BBl 2017 2953](https://fedlex.data.admin.ch/eli/fga/2017/647)).
-[^113-5]: Fassung gemäss Ziff. I des BG vom 18. März 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [BBl 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
+[^113-2]: Fassung gemäss Ziff. I des BG vom 19. Dez. 2025, in Kraft seit 1. Juni 2026 ([AS 2026 164](https://fedlex.data.admin.ch/eli/oc/2026/164); [BBl 2025 960](https://fedlex.data.admin.ch/eli/fga/2025/960)).
+[^113-3]: Fassung gemäss Ziff. I des BG vom 19. Dez. 2025, in Kraft seit 1. Juni 2026 ([AS 2026 164](https://fedlex.data.admin.ch/eli/oc/2026/164); [BBl 2025 960](https://fedlex.data.admin.ch/eli/fga/2025/960)).
+[^113-4]: Eingefügt durch Ziff. I des BG vom 19. Dez. 2025, in Kraft seit 1. Juni 2026 ([AS 2026 164](https://fedlex.data.admin.ch/eli/oc/2026/164); [BBl 2025 960](https://fedlex.data.admin.ch/eli/fga/2025/960)).
+[^113-5]: Ursprünglich: Bst. a
+[^113-6]: Fassung gemäss Ziff. I des BG vom 19. Dez. 2025, in Kraft seit 1. Juni 2026 ([AS 2026 164](https://fedlex.data.admin.ch/eli/oc/2026/164); [BBl 2025 960](https://fedlex.data.admin.ch/eli/fga/2025/960)).
+[^113-7]: Fassung gemäss Ziff. I des BG vom 19. Dez. 2025, in Kraft seit 1. Juni 2026 ([AS 2026 164](https://fedlex.data.admin.ch/eli/oc/2026/164); [BBl 2025 960](https://fedlex.data.admin.ch/eli/fga/2025/960)).
+[^113-8]: Fassung gemäss Ziff. I des BG vom 19. Dez. 2025, in Kraft seit 1. Juni 2026 ([AS 2026 164](https://fedlex.data.admin.ch/eli/oc/2026/164); [BBl 2025 960](https://fedlex.data.admin.ch/eli/fga/2025/960)).
+[^113-9]: Fassung gemäss Ziff. I des BG vom 19. Dez. 2025, in Kraft seit 1. Juni 2026 ([AS 2026 164](https://fedlex.data.admin.ch/eli/oc/2026/164); [BBl 2025 960](https://fedlex.data.admin.ch/eli/fga/2025/960)).
+[^113-10]: Die Berichtigung der RedK der BVers vom 23. Aug. 2016, veröffentlicht am 13. Sept. 2016 betrifft nur den französischen Text ([AS 2016 3167](https://fedlex.data.admin.ch/eli/oc/2016/530)).
+[^113-11]: [SR 128](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40013)
+[^113-12]: Fassung gemäss Anhang 1 Ziff. 12 des Informationssicherheitsgesetzes vom 18. Dez. 2020, in Kraft seit 1. Jan. 2024 ([AS 2022 232](https://fedlex.data.admin.ch/eli/oc/2022/232); [2023 650](https://fedlex.data.admin.ch/eli/oc/2023/650); [BBl 2017 2953](https://fedlex.data.admin.ch/eli/fga/2017/647)).
+[^113-13]: Fassung gemäss Ziff. I des BG vom 18. März 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [BBl 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
 
 #### Art. 114
 
@@ -2338,7 +2639,13 @@ Sie erheben keine Gebühren für:
 
 <sup>4</sup> Die Plangenehmigung für Vorhaben, die sich erheblich auf Raum und Umwelt auswirken, setzt grundsätzlich einen Sachplan nach dem Bundesgesetz über die Raumplanung vom 22. Juni 1979[^126-1] voraus.
 
+<sup>5</sup> Der Erwerb von Grundstücken für militärische Bauten und Anlagen sowie die Begründung dinglicher Rechte an solchen Grundstücken ist Sache des VBS.[^126-2]
+
+<sup>6</sup> Das VBS ist ermächtigt, nötigenfalls Enteignungen durchzuführen.[^126-3]
+
 [^126-1]: [SR 700](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8351)
+[^126-2]: Eingefügt durch Ziff. I des BG vom 19. Dez. 2025, in Kraft seit 1. Juni 2026 ([AS 2026 164](https://fedlex.data.admin.ch/eli/oc/2026/164); [BBl 2025 960](https://fedlex.data.admin.ch/eli/fga/2025/960)).
+[^126-3]: Eingefügt durch Ziff. I des BG vom 19. Dez. 2025, in Kraft seit 1. Juni 2026 ([AS 2026 164](https://fedlex.data.admin.ch/eli/oc/2026/164); [BBl 2025 960](https://fedlex.data.admin.ch/eli/fga/2025/960)).
 
 #### Art. 126a
 
@@ -2364,11 +2671,13 @@ Das Plangenehmigungsgesuch ist mit den erforderlichen Unterlagen bei der Genehmi
 
 **Aussteckung**
 
-<sup>1</sup> Vor der öffentlichen Auflage des Gesuchs muss der Gesuchsteller die Veränderungen, welche die geplanten Bauten und Anlagen im Gelände bewirken, sichtbar machen, indem er sie aussteckt; bei Hochbauten hat er Profile aufzustellen.
+<sup>1</sup> Vor der öffentlichen Auflage des Gesuchs müssen Gesuchstellende die Veränderungen, welche die geplanten Bauten und Anlagen im Gelände bewirken, sichtbar machen, indem sie diese ausstecken; bei Hochbauten müssen sie Profile aufstellen.[^126c-1]
 
 <sup>2</sup> Aus wichtigen Gründen kann die Genehmigungsbehörde ganz oder teilweise von der Pflicht nach Absatz 1 befreien.
 
 <sup>3</sup> Einwände gegen die Aussteckung oder die Aufstellung von Profilen sind sofort, jedenfalls aber vor Ablauf der Auflagefrist bei der Genehmigungsbehörde vorzubringen.
+
+[^126c-1]: Fassung gemäss Ziff. I des BG vom 19. Dez. 2025, in Kraft seit 1. Juni 2026 ([AS 2026 164](https://fedlex.data.admin.ch/eli/oc/2026/164); [BBl 2025 960](https://fedlex.data.admin.ch/eli/fga/2025/960)).
 
 #### Art. 126d
 
@@ -2461,11 +2770,12 @@ Das vereinfachte Plangenehmigungsverfahren wird angewendet bei:
 
 <sup>2</sup> …[^129-3]
 
-<sup>3</sup> Der Präsident der Schätzungskommission kann gestützt auf einen vollstreckbaren Plangenehmigungsentscheid die vorzeitige Besitzeinweisung bewilligen. Dabei wird vermutet, dass dem Enteigner ohne die vorzeitige Besitzeinweisung bedeutende Nachteile entstünden. Im Übrigen gilt Artikel 76 EntG.
+<sup>3</sup> Die Präsidentin oder der Präsident der Schätzungskommission kann gestützt auf einen vollstreckbaren Plangenehmigungsentscheid die vorzeitige Besitzeinweisung bewilligen.[^129-4] Dabei wird vermutet, dass dem Enteigner ohne die vorzeitige Besitzeinweisung bedeutende Nachteile entstünden. Im Übrigen gilt Artikel 76 EntG.
 
 [^129-1]: [SR 711](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8369)
 [^129-2]: Fassung gemäss Anhang Ziff. 6 des BG vom 19. Juni 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 4085](https://fedlex.data.admin.ch/eli/oc/2020/748); [BBl 2018 4713](https://fedlex.data.admin.ch/eli/fga/2018/1660)).
 [^129-3]: Aufgehoben durch Anhang Ziff. 6 des BG vom 19. Juni 2020, mit Wirkung seit 1. Jan. 2021 ([AS 2020 4085](https://fedlex.data.admin.ch/eli/oc/2020/748); [BBl 2018 4713](https://fedlex.data.admin.ch/eli/fga/2018/1660)).
+[^129-4]: Fassung gemäss Ziff. I des BG vom 19. Dez. 2025, in Kraft seit 1. Juni 2026 ([AS 2026 164](https://fedlex.data.admin.ch/eli/oc/2026/164); [BBl 2025 960](https://fedlex.data.admin.ch/eli/fga/2025/960)).
 
 ### 4. Abschnitt: Rechtsmittelverfahren
 
@@ -2506,15 +2816,24 @@ Das vereinfachte Plangenehmigungsverfahren wird angewendet bei:
 
 <sup>2</sup> Der Bundesrat regelt die Einzelheiten.
 
-### 4. Kapitel: Leistungen der Gemeinden und der Einwohner
+### 4. Kapitel: Leistungen der Gemeinden sowie Privater
+
+[^tit8-chap4-1]
+
+[^tit8-chap4-1]: Fassung gemäss Ziff. I des BG vom 19. Dez. 2025, in Kraft seit 1. Juni 2026 ([AS 2026 164](https://fedlex.data.admin.ch/eli/oc/2026/164); [BBl 2025 960](https://fedlex.data.admin.ch/eli/fga/2025/960)).
 
 #### Art. 131
 
 **Unterkunft für die Truppe**
 
-<sup>1</sup> Gemeinden und Einwohner sind verpflichtet, den Truppen und Armeetieren Unterkunft zu gewähren.
+<sup>1</sup> Gemeinden und Private sind verpflichtet, den Truppen und Armeetieren Unterkunft zu gewähren sowie die dazu notwendigen geeigneten Räumlichkeiten und Plätze mit den erforderlichen Einrichtungen und Geräten zur Verfügung zu stellen.[^131-1]
 
 <sup>2</sup> Sie werden dafür vom Bund angemessen entschädigt.
+
+<sup>3</sup> Über streitige Forderungen entscheidet die LBA im Verfahren nach Artikel 142.[^131-2]
+
+[^131-1]: Fassung gemäss Ziff. I des BG vom 19. Dez. 2025, in Kraft seit 1. Juni 2026 ([AS 2026 164](https://fedlex.data.admin.ch/eli/oc/2026/164); [BBl 2025 960](https://fedlex.data.admin.ch/eli/fga/2025/960)).
+[^131-2]: Eingefügt durch Ziff. I des BG vom 19. Dez. 2025, in Kraft seit 1. Juni 2026 ([AS 2026 164](https://fedlex.data.admin.ch/eli/oc/2026/164); [BBl 2025 960](https://fedlex.data.admin.ch/eli/fga/2025/960)).
 
 #### Art. 132
 
@@ -2546,11 +2865,12 @@ Die Gemeinden stellen unentgeltlich zur Verfügung:
 
 **Benützung von Privatgrund**
 
-<sup>1</sup> Die Grundbesitzer sind verpflichtet, die Benützung ihres Landes zu militärischen Übungen zu gestatten.
+<sup>1</sup> Die Grundbesitzerinnen und Grundbesitzer sind verpflichtet, die Benützung ihres Landes zu militärischen Übungen zu gestatten.[^134-1]
 
-<sup>2</sup> Für den dadurch entstehenden Schaden leistet der Bund Ersatz nach Massgabe der Artikel 135–143. …[^134-1]
+<sup>2</sup> Für den dadurch entstehenden Schaden leistet der Bund Ersatz nach Massgabe der Artikel 135–143. …[^134-2]
 
-[^134-1]: Zweiter Satz aufgehoben durch Ziff. I des BG vom 4. Okt. 2002, mit Wirkung seit 1. Jan. 2004 ([AS 2003 3957](https://fedlex.data.admin.ch/eli/oc/2003/570); [BBl 2002 858](https://fedlex.data.admin.ch/eli/fga/2002/118)).
+[^134-1]: Fassung gemäss Ziff. I des BG vom 19. Dez. 2025, in Kraft seit 1. Juni 2026 ([AS 2026 164](https://fedlex.data.admin.ch/eli/oc/2026/164); [BBl 2025 960](https://fedlex.data.admin.ch/eli/fga/2025/960)).
+[^134-2]: Zweiter Satz aufgehoben durch Ziff. I des BG vom 4. Okt. 2002, mit Wirkung seit 1. Jan. 2004 ([AS 2003 3957](https://fedlex.data.admin.ch/eli/oc/2003/570); [BBl 2002 858](https://fedlex.data.admin.ch/eli/fga/2002/118)).
 
 ### 5. Kapitel: Haftung für Schäden
 
@@ -2599,7 +2919,9 @@ Hat der Bund eine Entschädigung geleistet, so steht ihm der Rückgriff auf die 
 
 <sup>2</sup> Sie sind für ihre persönliche Ausrüstung sowie für das ihnen im Dienst anvertraute Material verantwortlich und haften für deren Verlust und Beschädigung. Sie haften nicht, wenn sie nachweisen, dass sie den Schaden weder durch vorsätzliche noch durch grobfahrlässige Verletzung ihrer Dienstpflicht verursacht haben. In gleicher Weise haften die Angehörigen der Armee, die für die Organisation des Materialdienstes oder der Materialkontrolle verantwortlich sind.
 
-<sup>3</sup> Die Rechnungsführer und -führerinnen und die sie kontrollierenden Organe sind für den Kommissariatsdienst, die ihnen anvertrauten Gelder und deren vorschriftsgemässe Verwendung verantwortlich und haften für Schaden in diesen Bereichen. Sie haften nicht, wenn sie nachweisen, dass sie den Schaden weder durch vorsätzliche noch durch grobfahrlässige Verletzung ihrer Dienstpflicht verursacht haben.
+<sup>3</sup> Die Rechnungsführerinnen und Rechnungsführer sowie die sie kontrollierenden Organe sind für den Kommissariatsdienst, die ihnen anvertrauten Gelder und deren vorschriftsgemässe Verwendung verantwortlich und haften für Schaden in diesen Bereichen.[^139-1] Sie haften nicht, wenn sie nachweisen, dass sie den Schaden weder durch vorsätzliche noch durch grobfahrlässige Verletzung ihrer Dienstpflicht verursacht haben.
+
+[^139-1]: Fassung gemäss Ziff. I des BG vom 19. Dez. 2025, in Kraft seit 1. Juni 2026 ([AS 2026 164](https://fedlex.data.admin.ch/eli/oc/2026/164); [BBl 2025 960](https://fedlex.data.admin.ch/eli/fga/2025/960)).
 
 #### Art. 140
 
@@ -2704,7 +3026,24 @@ Bei der Rekrutierung und im Verlauf der Ausbildung können Stellungspflichtige u
 
 [^146a-1]: Eingefügt durch Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2018 ([AS 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [BBl 2014 6955](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
 
-#### Art. 147–148h
+### 7*a*. Kapitel: Elektronische Verfahren
+
+[^tit8-chap7a-1]
+
+[^tit8-chap7a-1]: Eingefügt durch Ziff. I des BG vom 19. Dez. 2025, in Kraft seit 1. Juni 2026 ([AS 2026 164](https://fedlex.data.admin.ch/eli/oc/2026/164); [BBl 2025 960](https://fedlex.data.admin.ch/eli/fga/2025/960)).
+
+#### Art. 147
+
+[^147-1]
+
+<sup>1</sup> Schriftliche Verfahren in Verwaltungs- und Dienstsachen mit Personen nach Artikel 17*b* des Bundesgesetzes vom 3. Oktober 2008[^147-2] über militärische und andere Informationssysteme im VBS werden mit dem Einverständnis der Betroffenen elektronisch über das Informationssystem Dienstmanager geführt.
+
+<sup>2</sup> Der Bundesrat bezeichnet die Verfahren im Einzelnen.
+
+[^147-1]: Fassung gemäss Ziff. I des BG vom 19. Dez. 2025, in Kraft seit 1. Juni 2026 ([AS 2026 164](https://fedlex.data.admin.ch/eli/oc/2026/164); [BBl 2025 960](https://fedlex.data.admin.ch/eli/fga/2025/960)).
+[^147-2]: [SR 510.91](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7377)
+
+#### Art. 148–148h
 
 Aufgehoben
 
@@ -2726,6 +3065,10 @@ Die Verwaltungseinheiten des VBS können Dritten gewerbliche Leistungen erbringe
 
 <sup>2</sup> Gewerbliche Leistungen sind auf der Grundlage einer Kosten- und Leistungsrechnung zu mindestens kostendeckenden Preisen zu erbringen. Das VBS kann für bestimmte Leistungen Ausnahmen vorsehen, wenn dadurch die Privatwirtschaft in keiner Weise konkurrenziert wird.
 
+<sup>3</sup> Die Armee kann ihre Führungs- und Kommunikationsausbildung für Miliz- und Berufskader der Armee auch Dritten gegenüber erbringen. Die Absätze 1 und 2 gelten sinngemäss.[^148i-1]
+
+[^148i-1]: Eingefügt durch Ziff. I des BG vom 19. Dez. 2025, in Kraft seit 1. Juni 2026 ([AS 2026 164](https://fedlex.data.admin.ch/eli/oc/2026/164); [BBl 2025 960](https://fedlex.data.admin.ch/eli/fga/2025/960)).
+
 ## 8*a*. Titel: Finanzielle Mittel für die Armee
 
 [^tit8a-1]
@@ -2734,17 +3077,21 @@ Die Verwaltungseinheiten des VBS können Dritten gewerbliche Leistungen erbringe
 
 #### Art. 148j
 
-Die Bundesversammlung beschliesst für jeweils vier Jahre mit einfachem Bundesbeschluss den Zahlungsrahmen für die finanziellen Mittel der Armee.
+<sup>1</sup> Die Bundesversammlung beschliesst für jeweils vier Jahre mit einfachem Bundesbeschluss den Zahlungsrahmen für die finanziellen Mittel der Armee.
+
+<sup>2</sup> Der Bundesrat kann in den Bereichen Verpflegung und Unterkunft Rahmenkredite vorsehen. In diesen Fällen legt das VBS die Ansätze fest.[^148j-1]
+
+[^148j-1]: Eingefügt durch Ziff. I des BG vom 19. Dez. 2025, in Kraft seit 1. Juni 2026 ([AS 2026 164](https://fedlex.data.admin.ch/eli/oc/2026/164); [BBl 2025 960](https://fedlex.data.admin.ch/eli/fga/2025/960)).
 
 ## Neunter Titel: Schlussbestimmungen
 
 #### Art. 149
 
-**Verordnungen der Bundesversammlung**[^149-1]
+**Verordnung der Bundesversammlung**[^149-1]
 
-Die Bundesversammlung erlässt die Bestimmungen nach den Artikeln 29 Absatz 4 und 93 Absatz 2 sowie ergänzende Bestimmungen über das Militärverwaltungsverfahren in der Form der Verordnung der Bundesversammlung.
+Die Bundesversammlung erlässt die Bestimmungen nach Artikel 93 Absatz 2 in der Form einer Verordnung der Bundesversammlung.
 
-[^149-1]: Fassung gemäss Ziff. I des BG vom 18. März 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [BBl 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
+[^149-1]: Fassung gemäss Ziff. I des BG vom 19. Dez. 2025, in Kraft seit 1. Juni 2026 ([AS 2026 164](https://fedlex.data.admin.ch/eli/oc/2026/164); [BBl 2025 960](https://fedlex.data.admin.ch/eli/fga/2025/960)).
 
 #### Art. 149a
 
@@ -2816,6 +3163,24 @@ Während dieser Dauer kann er aus zwingenden Gründen abweichen von den gesetzli
 
 [^151-1]: Fassung gemäss Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Jan. 2018 ([AS 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [BBl 2014 6955](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
 [^151-2]: [SR 513.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7452); [BBl 2014 6955](https://fedlex.data.admin.ch/eli/fga/2014/1566)
+
+#### Art. 151a
+
+**Übergangsbestimmungen zur Änderung vom 19. Dezember 2025**[^151a-1]
+
+<sup>1</sup>
+
+Der Bundesrat kann nach Inkrafttreten der Änderung vom 19. Dezember 2025 während fünf Jahren zur Schaffung eines flexiblen Ausbildungs- und Dienstleistungssystems für die Miliz abweichen von den gesetzlichen Bestimmungen über:
+
+- a. die Altersgrenzen für die Militärdienstpflicht (Art. 13);
+- b. die Höchstzahl der Ausbildungsdiensttage für die Mannschaft (Art. 42 Abs. 2);
+- c. die Höchstdauer der Rekrutenschulen (Art. 49 Abs. 4);
+- d. die Höchstdauer der Wiederholungskurse (Art. 51 Abs. 2);
+- e. die Erfüllung der Ausbildungsdienstpflicht ohne Unterbrechung (Art. 54*a*).
+
+<sup>2</sup> Die Höchstzahl nach Absatz 1 Buchstabe b darf um maximal 30 Tage abweichen. Die Höchstdauer nach Absatz 1 Buchstabe c darf um maximal sechs Wochen abweichen. Die Höchstdauer nach Absatz 1 Buchstabe d darf um maximal 14 Tage abweichen.
+
+[^151a-1]: Eingefügt durch Ziff. I des BG vom 19. Dez. 2025, in Kraft seit 1. Juni 2026 ([AS 2026 164](https://fedlex.data.admin.ch/eli/oc/2026/164); [BBl 2025 960](https://fedlex.data.admin.ch/eli/fga/2025/960)).
 
 #### Art. 152
 

@@ -4,11 +4,11 @@ title: "Loi fédérale du 3 février 1995 sur l'armée et l'administration milit
 short: LAAM
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093"
 language: fr
-version: 2026-01-01
+version: 2026-06-01
 adopted: 1995-02-03
 in_force: 1996-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093/20260101/fr/xml/fedlex-data-admin-ch-eli-cc-1995-4093_4093_4093-20260101-fr-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/4093_4093_4093/20260101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093/20260601/fr/xml/fedlex-data-admin-ch-eli-cc-1995-4093_4093_4093-20260601-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/4093_4093_4093/20260601/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/4093_4093_4093/20260101/fr"
 
 (Loi sur l’armée, LAAM)[^t-1]
 
-du 3 février 1995 (État le 1<sup>er</sup> janvier 2026)
+du 3 février 1995 (État le 1<sup>er</sup> juin 2026)
 
 [^t-1]: Nouvelle teneur selon le ch. I de la LF du 19 mars 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869); [FF 2009 5331](https://fedlex.data.admin.ch/eli/fga/2009/1057)).
 
@@ -234,33 +234,42 @@ Le recrutement des conscrits consiste à traiter, au moyen d’examens, de tests
 
 **Compétences, répartition des frais**
 
-<sup>1</sup> Chaque année, les communes annoncent gratuitement aux autorités militaires cantonales le nom, les prénoms, l’adresse et le numéro AVS[^11-1] des futurs conscrits qui figurent dans leur registre des habitants.[^11-2]
+<sup>1</sup>
+
+Chaque année, les autorités responsables des registres des habitants annoncent gratuitement aux autorités militaires cantonales les données suivantes des futurs conscrits:
+
+- a. noms et prénoms;
+- b. adresse du domicile et communes d’origine;
+- c. numéro AVS;
+- d. date de naissance;
+- e. sexe;
+- f. langue maternelle;
+- g. profession exercée.[^11-1]
 
 <sup>2</sup>
 
 Les tâches suivantes incombent aux cantons:
 
-- a.[^11-3] inscrire les futurs conscrits aux rôles militaires;
-- b.[^11-4] organiser la séance d’information;
-- c.[^11-5] délivrer aux conscrits lors de la séance d’information le document dans lequel l’accomplissement de leurs obligations militaires sera attesté;
+- a.[^11-2] inscrire les futurs conscrits aux rôles militaires;
+- b.[^11-3] organiser la séance d’information;
+- c.[^11-4] délivrer aux conscrits lors de la séance d’information le document dans lequel l’accomplissement de leurs obligations militaires sera attesté;
 - d. ils apportent leur concours lors du recrutement;
-- e.[^11-6] ils invitent les femmes à la séance d’information.
+- e.[^11-5] ils invitent les femmes à la séance d’information.
 
-<sup>2bis</sup> Le Conseil fédéral fixe les objectifs de la séance d’information, les informations à transmettre et les données à recueillir. Le Département fédéral de la défense, de la protection de la population et des sports (DDPS) règle les modalités.[^11-7]
+<sup>2bis</sup> Le Conseil fédéral fixe les objectifs de la séance d’information, les informations à transmettre et les données à recueillir. Le Département fédéral de la défense, de la protection de la population et des sports (DDPS) règle les modalités.[^11-6]
 
-<sup>3</sup> La Confédération organise le recrutement. Elle assiste les cantons pour ce qui est des Suisses de l’étranger astreints à l’obligation de servir dans l’armée[^11-8].
+<sup>3</sup> La Confédération organise le recrutement. Elle assiste les cantons pour ce qui est des Suisses de l’étranger astreints à l’obligation de servir dans l’armée[^11-7].
 
-<sup>4</sup> Les frais du recrutement sont à la charge de la Confédération. Les cantons prennent à leur charge les frais de la séance d’information.[^11-9]
+<sup>4</sup> Les frais du recrutement sont à la charge de la Confédération. Les cantons prennent à leur charge les frais de la séance d’information.[^11-8]
 
-[^11-1]: Nouvelle expression selon l’annexe ch. 13 de la LF du 18 déc. 2020 (Utilisation systématique du numéro AVS par les autorités), en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [FF 2019 6955](https://fedlex.data.admin.ch/eli/fga/2019/2681)).
+[^11-1]: Nouvelle teneur selon le ch. I de la LF du 19 déc. 2025, en vigueur depuis le 1<sup>er</sup> juin 2026 ([RO 2026 164](https://fedlex.data.admin.ch/eli/oc/2026/164); [FF 2025 960](https://fedlex.data.admin.ch/eli/fga/2025/960)).
 [^11-2]: Nouvelle teneur selon le ch. I de la LF du 19 mars 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869); [FF 2009 5331](https://fedlex.data.admin.ch/eli/fga/2009/1057)).
 [^11-3]: Nouvelle teneur selon le ch. I de la LF du 19 mars 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869); [FF 2009 5331](https://fedlex.data.admin.ch/eli/fga/2009/1057)).
 [^11-4]: Nouvelle teneur selon le ch. I de la LF du 19 mars 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869); [FF 2009 5331](https://fedlex.data.admin.ch/eli/fga/2009/1057)).
-[^11-5]: Nouvelle teneur selon le ch. I de la LF du 19 mars 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869); [FF 2009 5331](https://fedlex.data.admin.ch/eli/fga/2009/1057)).
-[^11-6]: Introduite par le ch. I de la LF du 4 oct. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2004 ([RO 2003 3957](https://fedlex.data.admin.ch/eli/oc/2003/570); [FF 2002 816](https://fedlex.data.admin.ch/eli/fga/2002/118)).
-[^11-7]: Introduit par le ch. I de la LF du 19 mars 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869); [FF 2009 5331](https://fedlex.data.admin.ch/eli/fga/2009/1057)).
-[^11-8]: Nouvelle expression selon le ch. I de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 6693](https://fedlex.data.admin.ch/eli/fga/2014/1566)). Il a été tenu compte de cette mod. aux disp. mentionnées dans le [RO 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714).
-[^11-9]: Nouvelle teneur selon le ch. I de la LF du 4 oct. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2004 ([RO 2003 3957](https://fedlex.data.admin.ch/eli/oc/2003/570); [FF 2002 816](https://fedlex.data.admin.ch/eli/fga/2002/118)).
+[^11-5]: Introduite par le ch. I de la LF du 4 oct. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2004 ([RO 2003 3957](https://fedlex.data.admin.ch/eli/oc/2003/570); [FF 2002 816](https://fedlex.data.admin.ch/eli/fga/2002/118)).
+[^11-6]: Introduit par le ch. I de la LF du 19 mars 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869); [FF 2009 5331](https://fedlex.data.admin.ch/eli/fga/2009/1057)).
+[^11-7]: Nouvelle expression selon le ch. I de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 6693](https://fedlex.data.admin.ch/eli/fga/2014/1566)). Il a été tenu compte de cette mod. aux disp. mentionnées dans le [RO 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714).
+[^11-8]: Nouvelle teneur selon le ch. I de la LF du 4 oct. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2004 ([RO 2003 3957](https://fedlex.data.admin.ch/eli/oc/2003/570); [FF 2002 816](https://fedlex.data.admin.ch/eli/fga/2002/118)).
 
 ### Section 2 Service militaire
 
@@ -272,13 +281,15 @@ Les tâches suivantes incombent aux cantons:
 
 **Principe**
 
-Les personnes astreintes au service militaire et aptes au service accomplissent les services suivants:
+Les personnes astreintes au service militaire et aptes au service accomplissent les services et les devoirs suivants:[^12-1]
 
 - a. les services d’instruction (art. 41 à 61);
 - b. le service de promotion de la paix pour lequel elles se sont inscrites (art. 66);
 - c. le service d’appui (art. 67 à 75);
 - d. le service actif (art. 76 à 91);
 - e. les devoirs généraux hors du service (art. 25).
+
+[^12-1]: Nouvelle teneur selon le ch. I de la LF du 19 déc. 2025, en vigueur depuis le 1<sup>er</sup> juin 2026 ([RO 2026 164](https://fedlex.data.admin.ch/eli/oc/2026/164); [FF 2025 960](https://fedlex.data.admin.ch/eli/fga/2025/960)).
 
 #### Art. 13
 
@@ -290,7 +301,8 @@ L’obligation de servir dans l’armée s’éteint:
 
 - a. pour les militaires de la troupe et les sous-officiers: à la fin de la douzième année après l’achèvement de l’école de recrues;
 - a<sup>bis</sup>.[^13-2] pour les conscrits libérés de l’obligation d’accomplir le service militaire en vertu de l’art. 49, al. 2: à la fin de la douzième année après leur libération;
-- b.[^13-3]
+- a<sup>ter</sup>.[^13-3] pour les conscrits ayant atteint la limite d’âge pour effectuer le recrutement prévue à l’art. 9, al. 2: à la fin de la douzième année suivant l’année où ils ont atteint cette limite;
+- b.[^13-4]
 
   pour les sous-officiers supérieurs:
 
@@ -317,12 +329,13 @@ Le Conseil fédéral peut:
 
 - a. abaisser de cinq ans au plus les limites d’âge pour gérer l’effectif de l’armée;
 - b. relever de cinq ans au plus les limites d’âge applicables à un service actif ou à un service d’appui;
-- c.[^13-4] prévoir que les sous-officiers supérieurs, les officiers et les spécialistes peuvent prolonger la durée de leur obligation de servir en cas de besoin de l’armée, mais au plus tard jusqu’à la fin de l’année au cours de laquelle ils atteignent l’âge de 65 ans.
+- c.[^13-5] prévoir que les sous-officiers supérieurs, les officiers et les spécialistes peuvent prolonger la durée de leur obligation de servir en cas de besoin de l’armée, mais au plus tard jusqu’à la fin de l’année au cours de laquelle ils atteignent l’âge de 65 ans.
 
 [^13-1]: Nouvelle teneur selon le ch. I de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 6693](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
 [^13-2]: Introduite par le ch. I de la LF du 18 mars 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [FF 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
-[^13-3]: Nouvelle teneur selon le ch. I de la LF du 18 mars 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [FF 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
+[^13-3]: Introduite par le ch. I de la LF du 19 déc. 2025, en vigueur depuis le 1<sup>er</sup> juin 2026 ([RO 2026 164](https://fedlex.data.admin.ch/eli/oc/2026/164); [FF 2025 960](https://fedlex.data.admin.ch/eli/fga/2025/960)).
 [^13-4]: Nouvelle teneur selon le ch. I de la LF du 18 mars 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [FF 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
+[^13-5]: Nouvelle teneur selon le ch. I de la LF du 18 mars 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [FF 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
 
 #### Art. 14
 
@@ -362,13 +375,14 @@ Tout militaire peut être tenu de revêtir un grade et d’exercer un commandeme
 
 #### Art. 17
 
-**Exemption des parlementaires**
+**Exemption des membres de l’Assemblée fédérale[^17-1]**
 
-<sup>1</sup> Les membres de l’Assemblée fédérale sont exemptés du service d’instruction et du service d’appui pendant la durée des sessions, des séances des commissions et des séances des groupes des deux conseils.[^17-1]
+<sup>1</sup> Les membres de l’Assemblée fédérale sont exemptés du service d’instruction et du service d’appui pendant la durée des sessions, des séances des commissions et des séances des groupes des deux conseils.[^17-2]
 
 <sup>2</sup> Ils doivent rattraper uniquement les services d’instruction leur permettant de revêtir un grade supérieur ou une nouvelle fonction.
 
-[^17-1]: Nouvelle teneur selon le ch. I de la LF du 19 mars 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869); [FF 2009 5331](https://fedlex.data.admin.ch/eli/fga/2009/1057)).
+[^17-1]: Nouvelle teneur selon le ch. I de la LF du 19 déc. 2025, en vigueur depuis le 1<sup>er</sup> juin 2026 ([RO 2026 164](https://fedlex.data.admin.ch/eli/oc/2026/164); [FF 2025 960](https://fedlex.data.admin.ch/eli/fga/2025/960)).
+[^17-2]: Nouvelle teneur selon le ch. I de la LF du 19 mars 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869); [FF 2009 5331](https://fedlex.data.admin.ch/eli/fga/2009/1057)).
 
 #### Art. 18
 
@@ -379,8 +393,8 @@ Tout militaire peut être tenu de revêtir un grade et d’exercer un commandeme
 Sont exemptés du service militaire tant qu’ils exercent leur fonction ou leur activité:
 
 - a. les personnes qui exercent la charge de conseiller fédéral, de chancelier ou de vice-chancelier de la Confédération;
-- b. les ecclésiastiques non incorporés comme aumôniers;
-- c.[^18-1]
+- b.[^18-1] …
+- c.[^18-2]
 
   les professionnels occupés à titre principal suivants:
 
@@ -393,25 +407,27 @@ Sont exemptés du service militaire tant qu’ils exercent leur fonction ou leur
   - 7\. les membres des sapeurs-pompiers et des services de défense reconnus par l’État,
   - 8\. le personnel indispensable pour assurer le service civil de la navigation aérienne qui n’est pas absolument nécessaire au service militaire de la navigation aérienne.
 
-- d. à i.[^18-2] …
-- j.[^18-3] …
+- d. à i.[^18-3] …
+- j.[^18-4] …
 
-<sup>2</sup> Exceptionnellement et si les circonstances le justifient, le DDPS peut exempter d’autres professionnels occupés à titre principal auprès d’institutions ou de services publics ou privés qui exercent des activités vitales ou indispensables pour l’aide d’urgence ou en cas de catastrophe, dans la mesure où ils ne sont pas absolument nécessaires à l’armée pour des tâches analogues.[^18-4]
+<sup>2</sup> Exceptionnellement et si les circonstances le justifient, le DDPS peut exempter d’autres professionnels occupés à titre principal auprès d’institutions ou de services publics ou privés qui exercent des activités vitales ou indispensables pour l’aide d’urgence ou en cas de catastrophe, dans la mesure où ils ne sont pas absolument nécessaires à l’armée pour des tâches analogues.[^18-5]
 
-<sup>3</sup> Les personnes qui exercent la charge de conseiller fédéral, de chancelier ou de vice-chancelier de la Confédération sont exemptées d’office; les autres personnes le sont sur demande. La demande est déposée en commun par la personne astreinte et son employeur ou le service auquel elle est subordonnée.
+<sup>3</sup> Les personnes visées à l’al. 1, let. a, sont exemptées d’office; les autres personnes le sont sur demande.[^18-6] La demande est déposée en commun par la personne astreinte et son employeur ou le service auquel elle est subordonnée.
 
 <sup>4</sup> Le Conseil fédéral règle les détails, notamment en ce qui concerne les institutions, les personnes et les activités, ainsi que la compétence de décider en la matière.
 
-<sup>5</sup> Les personnes astreintes au service militaire conformément à l’al. 1, let. c, ne sont exemptées qu’après avoir accompli l’école de recrues.[^18-5]
+<sup>5</sup> Les personnes astreintes au service militaire conformément à l’al. 1, let. c, ne sont exemptées qu’après avoir accompli l’école de recrues.[^18-7]
 
-<sup>6</sup> Ne sont pas exemptés du service les militaires qui sont incorporés en qualité de cyberspécialistes et qui sont indispensables à l’armée.[^18-6]
+<sup>6</sup> Ne sont pas exemptés du service les militaires qui sont incorporés en qualité de cyberspécialistes et qui sont indispensables à l’armée.[^18-8]
 
-[^18-1]: Nouvelle teneur selon le ch. I de la LF du 18 mars 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [FF 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
-[^18-2]: Abrogées par le ch. I de la LF du 18 mars 2022, avec effet au 1<sup>er</sup> janv. 2023 ([RO 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [FF 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
-[^18-3]: Introduite par le ch. I de la LF du 18 mars 2016 ([RO 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 6693](https://fedlex.data.admin.ch/eli/fga/2014/1566)). Abrogée par le ch. I de la LF du 18 mars 2022, avec effet au 1<sup>er</sup> janv. 2023 ([RO 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [FF 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
-[^18-4]: Nouvelle teneur selon le ch. I de la LF du 18 mars 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [FF 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
+[^18-1]: Abrogée par le ch. I de la LF du 19 déc. 2025, avec effet au 1<sup>er</sup> juin 2026 ([RO 2026 164](https://fedlex.data.admin.ch/eli/oc/2026/164); [FF 2025 960](https://fedlex.data.admin.ch/eli/fga/2025/960)).
+[^18-2]: Nouvelle teneur selon le ch. I de la LF du 18 mars 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [FF 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
+[^18-3]: Abrogées par le ch. I de la LF du 18 mars 2022, avec effet au 1<sup>er</sup> janv. 2023 ([RO 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [FF 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
+[^18-4]: Introduite par le ch. I de la LF du 18 mars 2016 ([RO 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 6693](https://fedlex.data.admin.ch/eli/fga/2014/1566)). Abrogée par le ch. I de la LF du 18 mars 2022, avec effet au 1<sup>er</sup> janv. 2023 ([RO 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [FF 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
 [^18-5]: Nouvelle teneur selon le ch. I de la LF du 18 mars 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [FF 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
-[^18-6]: Introduit par le ch. I de la LF du 18 mars 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [FF 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
+[^18-6]: Nouvelle teneur selon le ch. I de la LF du 19 déc. 2025, en vigueur depuis le 1<sup>er</sup> juin 2026 ([RO 2026 164](https://fedlex.data.admin.ch/eli/oc/2026/164); [FF 2025 960](https://fedlex.data.admin.ch/eli/fga/2025/960)).
+[^18-7]: Nouvelle teneur selon le ch. I de la LF du 18 mars 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [FF 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
+[^18-8]: Introduit par le ch. I de la LF du 18 mars 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [FF 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
 
 #### Art. 19
 
@@ -438,7 +454,7 @@ Peuvent déposer par écrit une demande motivée en vue d’une nouvelle appréc
 - e. les autorités pénales militaires;
 - f. l’Office fédéral du service civil[^20-2], même oralement dans le cadre du recrutement.[^20-3]
 
-<sup>1ter</sup> Les personnes qui sont, en tout ou en partie, incapables de discernement quant à leurs obligations de service sont inaptes au service. Les autorités de protection de l’adulte annoncent sans retard au commandement des Opérations[^20-4] toutes les curatelles, entrées en force ou levées, qui concernent des conscrits ou des militaires. Le commandement des Opérations[^20-5] les transmet aux organes de recrutement et aux commandants d’arrondissement.[^20-6] [^20-7]
+<sup>1ter</sup> Les personnes qui sont, en tout ou en partie, incapables de discernement quant à leurs obligations de service sont inaptes au service. Les autorités de protection de l’adulte annoncent sans retard au commandement de l’Instruction[^20-4] toutes les curatelles, entrées en force ou levées, qui concernent des conscrits ou des militaires. Le commandement de l’Instruction les transmet aux organes de recrutement et aux commandants d’arrondissement.[^20-5] [^20-6]
 
 <sup>2</sup> L’incorporation ainsi que l’affectation de tout militaire peuvent être modifiées en tout temps.
 
@@ -447,10 +463,9 @@ Peuvent déposer par écrit une demande motivée en vue d’une nouvelle appréc
 [^20-1]: Nouvelle teneur selon le ch. I de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 6693](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
 [^20-2]: La désignation de l’unité administrative a été adaptée au 1<sup>er</sup> janv. 2019 en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)).
 [^20-3]: Introduit par le ch. I de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 6693](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
-[^20-4]: Correct: Commandement de l’instruction.
-[^20-5]: Correct: Commandement de l’instruction.
-[^20-6]: Nouvelle teneur de la 2<sup>e</sup> et 3<sup>e</sup> phrases selon le ch. I de la LF du 18 mars 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [FF 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
-[^20-7]: Anciennement 1<sup>bis</sup>. Introduit par le ch. I de la LF du 19 mars 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869); [FF 2009 5331](https://fedlex.data.admin.ch/eli/fga/2009/1057)).
+[^20-4]: Nouvelle expression selon le ch. I de la LF du 19 déc. 2025, en vigueur depuis le 1<sup>er</sup> juin 2026 ([RO 2026 164](https://fedlex.data.admin.ch/eli/oc/2026/164); [FF 2025 960](https://fedlex.data.admin.ch/eli/fga/2025/960)). Il n’a été tenu compte de cette mod. que dans les disp. mentionnées au RO.
+[^20-5]: Nouvelle teneur de la 2<sup>e</sup> et 3<sup>e</sup> phrases selon le ch. I de la LF du 18 mars 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [FF 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
+[^20-6]: Anciennement 1<sup>bis</sup>. Introduit par le ch. I de la LF du 19 mars 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869); [FF 2009 5331](https://fedlex.data.admin.ch/eli/fga/2009/1057)).
 
 ### Section 3 Non-recrutement, exclusion de l’armée et dégradation
 
@@ -466,28 +481,23 @@ Peuvent déposer par écrit une demande motivée en vue d’une nouvelle appréc
 
 Ne sont pas recrutés les conscrits:
 
-- a.
-
-  dont la présence est incompatible avec les impératifs du service militaire parce que, par un jugement entré en force:
-
-  - 1\. ils ont été condamnés pour un crime ou un délit,
-  - 2\. ils ont été soumis à une mesure privative de liberté;
-
-- b. à qui aucune arme personnelle ne peut être remise (art. 113, al. 1).[^21-3]
+- a.[^21-3] dont la présence est incompatible avec les impératifs du service militaire parce qu’ils ont été condamnés pour un crime ou un délit par un jugement entré en force;
+- b. à qui aucune arme personnelle ne peut être remise (art. 113, al. 1).[^21-4]
 
 <sup>2</sup>
 
 À leur demande, les personnes visées à l’al. 1 peuvent être admises au recrutement si l’armée a besoin d’elles et si:
 
 - a. dans le cas visé à l’al. 1, let. a, elles ont subi avec succès la mise à l’épreuve en cas de condamnation avec sursis ou sursis partiel ou en cas de libération conditionnelle;
-- b. dans le cas visé à l’al. 1, let. b, aucun motif n’empêche plus la remise de l’arme personnelle.[^21-4]
+- b. dans le cas visé à l’al. 1, let. b, aucun motif n’empêche plus la remise de l’arme personnelle.[^21-5]
 
 <sup>3</sup> L’admission peut être révoquée s’il s’avère que les conditions auxquelles elle était soumise n’étaient pas remplies.
 
 [^21-1]: Nouvelle teneur selon le ch. I de la LF du 19 mars 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869); [FF 2009 5331](https://fedlex.data.admin.ch/eli/fga/2009/1057)).
 [^21-2]: Nouvelle teneur selon le ch. I de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 6693](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
-[^21-3]: Nouvelle teneur selon le ch. I de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 6693](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
+[^21-3]: Nouvelle teneur selon le ch. I de la LF du 19 déc. 2025, en vigueur depuis le 1<sup>er</sup> juin 2026 ([RO 2026 164](https://fedlex.data.admin.ch/eli/oc/2026/164); [FF 2025 960](https://fedlex.data.admin.ch/eli/fga/2025/960)).
 [^21-4]: Nouvelle teneur selon le ch. I de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 6693](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
+[^21-5]: Nouvelle teneur selon le ch. I de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 6693](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
 
 #### Art. 22
 
@@ -497,28 +507,23 @@ Ne sont pas recrutés les conscrits:
 
 Sont exclus de l’armée les militaires:
 
-- a.
-
-  dont la présence est incompatible avec les impératifs du service militaire parce que, par un jugement entré en force:
-
-  - 1\. ils ont été condamnés pour un crime ou un délit,
-  - 2\. ils ont été soumis à une mesure privative de liberté;
-
-- b. à qui aucune arme personnelle ne peut être remise (art. 113, al. 1).[^22-3]
+- a.[^22-3] dont la présence est devenue incompatible avec les impératifs du service militaire parce qu’ils ont été condamnés pour un crime ou un délit par un jugement entré en force;
+- b. à qui aucune arme personnelle ne peut être remise (art. 113, al. 1).[^22-4]
 
 <sup>2</sup>
 
 À leur demande, les personnes visées à l’al. 1 peuvent être réintégrées si l’armée a besoin d’elles et si:
 
 - a. dans le cas visé à l’al. 1, let. a, elles ont subi avec succès la mise à l’épreuve en cas de condamnation avec sursis ou sursis partiel ou en cas de libération conditionnelle;
-- b. dans le cas visé à l’al. 1, let. b, aucun motif n’empêche plus la remise de l’arme personnelle.[^22-4]
+- b. dans le cas visé à l’al. 1, let. b, aucun motif n’empêche plus la remise de l’arme personnelle.[^22-5]
 
 <sup>3</sup> La réintégration peut être révoquée s’il s’avère que les conditions auxquelles elle était soumise n’étaient pas remplies.
 
 [^22-1]: Nouvelle teneur selon le ch. I de la LF du 19 mars 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869); [FF 2009 5331](https://fedlex.data.admin.ch/eli/fga/2009/1057)).
 [^22-2]: Nouvelle teneur selon le ch. I de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 6693](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
-[^22-3]: Nouvelle teneur selon le ch. I de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 6693](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
+[^22-3]: Nouvelle teneur selon le ch. I de la LF du 19 déc. 2025, en vigueur depuis le 1<sup>er</sup> juin 2026 ([RO 2026 164](https://fedlex.data.admin.ch/eli/oc/2026/164); [FF 2025 960](https://fedlex.data.admin.ch/eli/fga/2025/960)).
 [^22-4]: Nouvelle teneur selon le ch. I de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 6693](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
+[^22-5]: Nouvelle teneur selon le ch. I de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 6693](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
 
 #### Art. 22a
 
@@ -534,7 +539,7 @@ Sont exclus de l’armée les militaires:
 
 **Compétence et accès aux données**[^23-1]
 
-<sup>1</sup> Le commandement des Opérations[^23-2] [^23-3] est l’autorité compétente pour les décisions visées aux art. 21 à 22*a*.
+<sup>1</sup> Le commandement de l’Instruction est l’autorité compétente pour les décisions visées aux art. 21 à 22*a*.
 
 <sup>2</sup>
 
@@ -545,12 +550,9 @@ Pour statuer, il peut:
 - c. demander des extraits du registre des poursuites et faillites et consulter les dossiers concernés;
 - d. demander l’exécution d’un contrôle de sécurité relatif aux personnes.
 
-<sup>3</sup> Si un tribunal militaire a expressément renoncé à prononcer l’exclusion de l’armée ou la dégradation, le commandement des Opérations[^23-4] est tenu par cette décision.
+<sup>3</sup> Si un tribunal militaire a expressément renoncé à prononcer l’exclusion de l’armée ou la dégradation, le commandement de l’Instruction est tenu par cette décision.
 
 [^23-1]: Nouvelle teneur selon le ch. I de la LF du 19 mars 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869); [FF 2009 5331](https://fedlex.data.admin.ch/eli/fga/2009/1057)).
-[^23-2]: Nouvelle expression selon le ch. I de la LF du 18 mars 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [FF 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)). Il n’a été tenu compte de cette mod. que dans les disp. mentionnées au RO.
-[^23-3]: Correct: Commandement de l’instruction.
-[^23-4]: Correct: Commandement de l’instruction.
 
 #### Art. 24
 
@@ -594,9 +596,13 @@ Hors du service, les personnes astreintes au service militaire ont les devoirs s
 Hors du service, les personnes astreintes au service militaire ont l’obligation légale de se présenter:
 
 - a. aux auditions pour conscrits et militaires soumis aux contrôles de sécurité relatifs aux personnes;
-- b. aux examens médicaux en vue d’une nouvelle appréciation de l’aptitude au service.
+- b. aux examens médicaux en vue d’une nouvelle appréciation de l’aptitude au service;
+- c.[^26-2] aux cours de tir visés à l’art. 63, al. 5;
+- d.[^26-3] à la convocation de restitution visée à l’art. 112, al. 3.
 
 [^26-1]: Nouvelle teneur selon le ch. I de la LF du 18 mars 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [FF 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
+[^26-2]: Introduite par le ch. I de la LF du 19 déc. 2025, en vigueur depuis le 1<sup>er</sup> juin 2026 ([RO 2026 164](https://fedlex.data.admin.ch/eli/oc/2026/164); [FF 2025 960](https://fedlex.data.admin.ch/eli/fga/2025/960)).
+[^26-3]: Introduite par le ch. I de la LF du 19 déc. 2025, en vigueur depuis le 1<sup>er</sup> juin 2026 ([RO 2026 164](https://fedlex.data.admin.ch/eli/oc/2026/164); [FF 2025 960](https://fedlex.data.admin.ch/eli/fga/2025/960)).
 
 #### Art. 27
 
@@ -613,10 +619,10 @@ Les personnes astreintes au service militaire, y compris les conscrits, et les d
 
 <sup>1bis</sup>
 
-Ils communiquent spontanément au commandement des Opérations[^27-5] les données ci-après, ainsi que toutes les modifications les concernant:
+Ils communiquent spontanément au commandement de l’Instruction les données ci-après, ainsi que toutes les modifications les concernant:
 
 - a. les condamnations pénales exécutoires pour un crime ou un délit et les condamnations pénales exécutoires à une mesure entraînant une privation de liberté;
-- b. les saisies infructueuses et les déclarations de faillite.[^27-6]
+- b. les saisies infructueuses et les déclarations de faillite.[^27-5]
 
 <sup>2</sup> Le Conseil fédéral règle l’obligation de s’annoncer pour les Suisses de l’étranger, ainsi que pour les personnes qui accomplissent un service civil et celles qui sont au bénéfice d’un congé à l’étranger.
 
@@ -624,8 +630,7 @@ Ils communiquent spontanément au commandement des Opérations[^27-5] les donné
 [^27-2]: Nouvelle teneur selon le ch. I de la LF du 18 mars 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [FF 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
 [^27-3]: Nouvelle teneur selon le ch. I de la LF du 18 mars 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [FF 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
 [^27-4]: Nouvelle teneur selon le ch. I de la LF du 19 mars 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869); [FF 2009 5331](https://fedlex.data.admin.ch/eli/fga/2009/1057)).
-[^27-5]: Correct: Commandement de l’instruction.
-[^27-6]: Introduit par le ch. I de la LF du 19 mars 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869); [FF 2009 5331](https://fedlex.data.admin.ch/eli/fga/2009/1057)).
+[^27-5]: Introduit par le ch. I de la LF du 19 mars 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869); [FF 2009 5331](https://fedlex.data.admin.ch/eli/fga/2009/1057)).
 
 ## Titre troisième Droits et devoirs des militaires
 
@@ -645,41 +650,127 @@ Ils communiquent spontanément au commandement des Opérations[^27-5] les donné
 
 #### Art. 29
 
-**Entretien**[^29-1]
+**Entretien, services postaux et communication numérique**[^29-1]
 
-<sup>1</sup> Les militaires en service reçoivent de la Confédération la solde et la subsistance.
+<sup>1</sup> La Confédération prend à sa charge l’entretien des militaires.
 
-<sup>2</sup> La Confédération pourvoit à leur logement et prend à sa charge leurs voyages de service.
+<sup>2</sup> Elle veille à fournir aux militaires en service et à ceux qui doivent régler des affaires officielles hors du service des services postaux relevant du service universel suffisants et gratuits et des possibilités appropriées de communiquer par des moyens numériques.
 
-<sup>3</sup> Elle veille à fournir aux militaires en service et à ceux qui doivent régler des affaires officielles hors du service des services postaux relevant du service universel suffisants et gratuits.
-
-<sup>4</sup> L’Assemblée fédérale édicte les dispositions relatives à la solde, à la subsistance, au logement et aux voyages de service.
-
-[^29-1]: Nouvelle teneur selon le ch. I de la LF du 18 mars 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [FF 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
+[^29-1]: Nouvelle teneur selon le ch. I de la LF du 19 déc. 2025, en vigueur depuis le 1<sup>er</sup> juin 2026 ([RO 2026 164](https://fedlex.data.admin.ch/eli/oc/2026/164); [FF 2025 960](https://fedlex.data.admin.ch/eli/fga/2025/960)).
 
 #### Art. 29a
 
-**Indemnités de formation**[^29a-1]
+**Solde**[^29a-1]
 
-<sup>1</sup> La Confédération peut octroyer aux militaires de milice qui accomplissent une école de cadres et le service pratique en vue d’une formation de sous-officier, de sous-officier supérieur ou d’officier jusqu’au niveau de l’état-major de corps de troupe une contribution financière que ceux-ci pourront utiliser pour suivre des formations civiles.[^29a-2]
+<sup>1</sup> Les militaires reçoivent la solde correspondant à leur grade.
+
+<sup>2</sup> Le droit à la solde commence le jour d’entrée au service fixé par l’ordre de marche et cesse le jour du licenciement.
+
+<sup>3</sup>
+
+Il s’applique également aux périodes comprises entre:
+
+- a. l’école de recrues et les services d’instruction destinés à l’obtention du grade de sergent, de sergent-major, de sergent-major chef, de fourrier ou de lieutenant, ou entre ces services d’instruction, pour autant que les intervalles entre les services d’instruction n’excèdent pas six semaines;
+- b. les parties de l’école de recrues, pour autant que les intervalles n’excèdent pas six semaines.
+
+<sup>4</sup>
+
+N’ont pas droit à la solde:
+
+- a.
+
+  les personnes astreintes au service militaire:
+
+  - 1\. qui perçoivent une rente de vieillesse de l’assurance-vieillesse et survivants,
+  - 2\. qui effectuent un service au sens de l’art. 59, al. 4, en tant que membres du personnel militaire ou qu’employées de l’administration militaire,
+  - 3\. qui accomplissent à titre d’employées de l’administration militaire un engagement ordonné en vertu de l’art. 65*c*;
+
+- b. les pilotes et les observateurs, pour l’entraînement individuel.
+
+<sup>5</sup> Le Conseil fédéral fixe la solde.
+
+[^29a-1]: Introduit par le ch. I de la LF du 19 déc. 2025, en vigueur depuis le 1<sup>er</sup> juin 2026 ([RO 2026 164](https://fedlex.data.admin.ch/eli/oc/2026/164); [FF 2025 960](https://fedlex.data.admin.ch/eli/fga/2025/960)).
+
+#### Art. 29b
+
+**Subsistance**[^29b-1]
+
+<sup>1</sup> Les militaires qui reçoivent la solde ont droit à la subsistance.
+
+<sup>2</sup> Ils reçoivent la subsistance en nature ou sous forme de pension.
+
+<sup>3</sup> La subsistance en nature constitue la règle. Pour certains services, un supplément peut être accordé.
+
+<sup>4</sup> La Base logistique de l’armée (BLA) fixe le crédit de base par personne et par jour pour la subsistance en nature, ainsi que les suppléments éventuels en fonction de l’évolution des prix du marché.
+
+[^29b-1]: Introduit par le ch. I de la LF du 19 déc. 2025, en vigueur depuis le 1<sup>er</sup> juin 2026 ([RO 2026 164](https://fedlex.data.admin.ch/eli/oc/2026/164); [FF 2025 960](https://fedlex.data.admin.ch/eli/fga/2025/960)).
+
+#### Art. 29c
+
+**Logement**[^29c-1]
+
+<sup>1</sup> La Confédération pourvoit au logement des militaires en service.
+
+<sup>2</sup>
+
+Les militaires sont logés:
+
+- a. dans des casernes ou des bâtiments aménagés en casernes;
+- b. dans des cantonnements appartenant aux communes ou à des particuliers;
+- c. au bivouac;
+- d. chez des particuliers.
+
+[^29c-1]: Introduit par le ch. I de la LF du 19 déc. 2025, en vigueur depuis le 1<sup>er</sup> juin 2026 ([RO 2026 164](https://fedlex.data.admin.ch/eli/oc/2026/164); [FF 2025 960](https://fedlex.data.admin.ch/eli/fga/2025/960)).
+
+#### Art. 29d
+
+**Casernement dans des bâtiments appartenant à des tiers**[^29d-1]
+
+La Confédération passe des contrats avec les propriétaires pour l’usage des casernes et des bâtiments aménagés en casernes qui ne lui appartiennent pas.
+
+[^29d-1]: Introduit par le ch. I de la LF du 19 déc. 2025, en vigueur depuis le 1<sup>er</sup> juin 2026 ([RO 2026 164](https://fedlex.data.admin.ch/eli/oc/2026/164); [FF 2025 960](https://fedlex.data.admin.ch/eli/fga/2025/960)).
+
+#### Art. 29e
+
+**Voyages et transports**[^29e-1]
+
+<sup>1</sup>
+
+La Confédération prend à sa charge les frais de transport et de voyage en transports publics:
+
+- a. des militaires lors de leur entrée aux services visés à l’art. 12, let. a à d, et lors de leur licenciement;
+- b. des militaires en service effectuant un voyage de service;
+- c. pour tous les transports de troupes, de véhicules, d’animaux de l’armée et de matériel destiné au service;
+- d. des personnes astreintes au service militaire qui répondent aux convocations officielles visées à l’art. 26.
+
+<sup>2</sup> Le Conseil fédéral peut prévoir que la Confédération prend en charge en tout ou partie les coûts des billets de congé.
+
+[^29e-1]: Introduit par le ch. I de la LF du 19 déc. 2025, en vigueur depuis le 1<sup>er</sup> juin 2026 ([RO 2026 164](https://fedlex.data.admin.ch/eli/oc/2026/164); [FF 2025 960](https://fedlex.data.admin.ch/eli/fga/2025/960)).
+
+#### Art. 29f
+
+**Indemnités de formation**[^29f-1]
+
+<sup>1</sup> La Confédération peut octroyer aux militaires de milice qui accomplissent une école de cadres et le service pratique en vue d’une formation de sous-officier, de sous-officier supérieur ou d’officier jusqu’au niveau de l’état-major de corps de troupe une contribution financière que ceux-ci pourront utiliser pour suivre des formations civiles.[^29f-2]
 
 <sup>2</sup> Le Conseil fédéral édicte les dispositions relatives aux indemnités de formation.
 
-[^29a-1]: Introduit par le ch. I de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 6693](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
-[^29a-2]: Nouvelle teneur selon le ch. I de la LF du 27 sept. 2019. en vigueur depuis le 1<sup>er</sup> juin 2020 ([RO 2020 1547](https://fedlex.data.admin.ch/eli/oc/2020/307); [FF 2019 2153](https://fedlex.data.admin.ch/eli/fga/2019/618)).
+[^29f-1]: Anciennement art. 29*a*. Introduit par le ch. I de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 6693](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
+[^29f-2]: Nouvelle teneur selon le ch. I de la LF du 27 sept. 2019. en vigueur depuis le 1<sup>er</sup> juin 2020 ([RO 2020 1547](https://fedlex.data.admin.ch/eli/oc/2020/307); [FF 2019 2153](https://fedlex.data.admin.ch/eli/fga/2019/618)).
 
 #### Art. 30
 
 **Indemnité pour perte de gain**
 
-<sup>1</sup> Toute personne qui effectue du service militaire a droit à une indemnité pour perte de gain.[^30-1]
+<sup>1</sup> Toute personne qui effectue du service militaire a droit à une indemnité pour perte de gain.[^30-1] Le droit à l’indemnité s’applique aussi aux périodes visées à l’art. 29*a*, al. 3.[^30-2]
 
-<sup>1bis</sup> La période entre l’école de recrues et des services d’instruction destinés à l’obtention du grade de sergent, de sergent-major, de sergent-major chef, de fourrier ou de lieutenant, ou entre des services d’instruction de ce type, donne droit à la solde et à l’indemnité pour perte de gain pour autant que les intervalles entre les services n’excèdent pas six semaines.[^30-2]
+<sup>1bis</sup> …[^30-3]
 
 <sup>2</sup> L’indemnité pour perte de gain est réglée par la loi.
 
 [^30-1]: Nouvelle teneur selon le ch. I de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 6693](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
-[^30-2]: Introduit par le ch. I de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 6693](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
+[^30-2]: Phrase introduite par le ch. I de la LF du 19 déc. 2025, en vigueur depuis le 1<sup>er</sup> juin 2026 ([RO 2026 164](https://fedlex.data.admin.ch/eli/oc/2026/164); [FF 2025 960](https://fedlex.data.admin.ch/eli/fga/2025/960)).
+[^30-3]: Introduit par le ch. I de la LF du 18 mars 2016 ([RO 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714); [FF 2014 6693](https://fedlex.data.admin.ch/eli/fga/2014/1566)). Abrogé par le ch. I de la LF du 19 déc. 2025, avec effet au 1<sup>er</sup> juin 2026 ([RO 2026 164](https://fedlex.data.admin.ch/eli/oc/2026/164); [FF 2025 960](https://fedlex.data.admin.ch/eli/fga/2025/960)).
 
 #### Art. 31
 
@@ -764,7 +855,7 @@ Le DDPS peut soumettre les officiers généraux, le personnel militaire de la po
 
 **Plainte de service**
 
-<sup>1</sup> Tout militaire a le droit de déposer une plainte de service s’il est convaincu qu’un supérieur, un autre militaire ou une autorité militaire lui a fait du tort.
+<sup>1</sup> Tout conscrit ou militaire a le droit de déposer une plainte de service s’il est convaincu qu’un conscrit, un militaire ou une autorité militaire lui a fait du tort.[^36-1]
 
 <sup>2</sup> La décision concernant la plainte de service peut être déférée à l’instance immédiatement supérieure. La décision de celle-ci peut être déférée à son tour au département fédéral compétent qui statue définitivement.
 
@@ -773,6 +864,8 @@ Le DDPS peut soumettre les officiers généraux, le personnel militaire de la po
 <sup>4</sup> Les plaintes de service et les recours sont traités selon une procédure simple, rapide et gratuite. Ils n’ont pas d’effet suspensif. L’autorité saisie peut exceptionnellement admettre un effet suspensif pour des raisons particulières.
 
 <sup>5</sup> Le Conseil fédéral règle les détails.
+
+[^36-1]: Nouvelle teneur selon le ch. I de la LF du 19 déc. 2025, en vigueur depuis le 1<sup>er</sup> juin 2026 ([RO 2026 164](https://fedlex.data.admin.ch/eli/oc/2026/164); [FF 2025 960](https://fedlex.data.admin.ch/eli/fga/2025/960)).
 
 #### Art. 37
 
@@ -829,11 +922,24 @@ Les militaires peuvent recourir contre les décisions des commissions de visite 
 
 #### Art. 40b
 
-<sup>1</sup> Lorsqu’un militaire crée une œuvre au sens de la loi du 9 octobre 1992 sur le droit d’auteur[^40b-1] dans l’exercice de ses fonctions, le droit d’utilisation revient exclusivement à la Confédération.
+[^40b-1]
 
-<sup>2</sup> Si l’œuvre a une grande utilité pour la Confédération, une indemnisation appropriée peut être accordée au militaire.
+<sup>1</sup> Lorsque des militaires créent une œuvre au sens des art. 2 à 4 de la loi du 9 octobre 1992 sur le droit d’auteur[^40b-2] dans l’exercice de leurs fonctions, le droit d’utilisation revient exclusivement à la Confédération.
 
-[^40b-1]: [RS 231.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5952)
+<sup>2</sup> Si l’œuvre a une grande utilité pour la Confédération, les militaires concernés peuvent être indemnisés de manière appropriée.
+
+[^40b-1]: Nouvelle teneur selon le ch. I de la LF du 19 déc. 2025, en vigueur depuis le 1<sup>er</sup> juin 2026 ([RO 2026 164](https://fedlex.data.admin.ch/eli/oc/2026/164); [FF 2025 960](https://fedlex.data.admin.ch/eli/fga/2025/960)).
+[^40b-2]: [RS 231.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5952)
+
+### Chapitre 7 Obligation de rembourser les coûts de formation
+
+[^tit3-chap7-1]
+
+[^tit3-chap7-1]: Introduit par le ch. I de la LF du 19 déc. 2025, en vigueur depuis le 1<sup>er</sup> juin 2026 ([RO 2026 164](https://fedlex.data.admin.ch/eli/oc/2026/164); [FF 2025 960](https://fedlex.data.admin.ch/eli/fga/2025/960)).
+
+#### Art. 40c
+
+L’armée peut exiger des personnes ayant suivi aux frais de l’armée une formation reconnue dans le civil qu’elles en remboursent les coûts si elles n’accomplissent pas au terme de leur formation un nombre minimal de jours de service militaire dans un intervalle déterminé.
 
 ## Titre quatrième Instruction de l’armée
 
@@ -909,18 +1015,19 @@ En cas de réorganisation ou de rééquipement d’une formation, le Conseil fé
 
 **Personnel militaire**[^47-1]
 
-<sup>1</sup> Le personnel militaire comprend les militaires de métier et les militaires contractuels.
+<sup>1</sup> Le personnel militaire comprend les militaires de métier et les militaires contractuels engagés sous le statut militaire. Le statut militaire comprend l’ensemble des droits et devoirs du personnel militaire. Celui-ci est soumis au droit du personnel de la Confédération.
 
-<sup>2</sup> Les militaires de métier sont les officiers de carrière, les sous-officiers de carrière et les soldats de métier. En règle générale, ils sont engagés par contrat de durée indéterminée conformément à la législation sur le personnel de la Confédération.
+<sup>2</sup> Les militaires de métier sont les officiers de carrière, les sous-officiers de carrière et les soldats de métier. En règle générale, ils sont engagés par contrat de durée indéterminée.
 
-<sup>3</sup> Les militaires contractuels sont les officiers contractuels, les sous-officiers contractuels et les soldats contractuels. Ils sont engagés par contrat de durée déterminée conformément à la législation sur le personnel de la Confédération.
+<sup>3</sup> Les militaires contractuels sont les officiers contractuels, les sous-officiers contractuels et les soldats contractuels. Ils sont engagés par contrat de durée déterminée.
 
-<sup>4</sup> Le personnel militaire est employé dans les domaines de l’instruction et de la conduite et dans tous les genres d’engagement de l’armée.[^47-2] Il peut être engagé dans le pays ou à l’étranger. Quiconque fait partie du personnel militaire est considéré comme militaire.
+<sup>4</sup> Le personnel militaire est employé dans les domaines de l’instruction et de la conduite et dans tous les genres d’engagement de l’armée. Il peut être engagé dans le pays ou à l’étranger. Quiconque fait partie du personnel militaire est considéré comme un militaire.
 
 <sup>5</sup> Le personnel militaire est spécialement instruit pour son engagement. L’instruction peut être effectuée en collaboration avec des hautes écoles et des hautes écoles spécialisées, avec des spécialistes et avec des forces armées étrangères.
 
-[^47-1]: Nouvelle teneur selon le ch. I de la LF du 4 oct. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2004 ([RO 2003 3957](https://fedlex.data.admin.ch/eli/oc/2003/570); [FF 2002 816](https://fedlex.data.admin.ch/eli/fga/2002/118)).
-[^47-2]: Nouvelle teneur selon le ch. I de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 6693](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
+<sup>6</sup> Les membres du personnel militaire peuvent sur demande se voir octroyer un grade inférieur en raison de leur fonction professionnelle.
+
+[^47-1]: Nouvelle teneur selon le ch. I de la LF du 19 déc. 2025, en vigueur depuis le 1<sup>er</sup> juin 2026 ([RO 2026 164](https://fedlex.data.admin.ch/eli/oc/2026/164); [FF 2025 960](https://fedlex.data.admin.ch/eli/fga/2025/960)).
 
 #### Art. 48
 
@@ -963,15 +1070,20 @@ Il édicte des dispositions concernant le service militaire, obligatoire ou volo
 
 #### Art. 48b
 
-**Instruction et formation continue du personnel médical militaire**[^48b-1]
+**Instruction, perfectionnement, formation continue et recherche dans le domaine du système de santé militaire**[^48b-1]
 
-<sup>1</sup> L’instruction et la formation continue du personnel médical militaire sont du ressort de la Confédération, dans la mesure où ils ne s’effectuent pas dans une haute école.
+<sup>1</sup> L’instruction, le perfectionnement et la formation continue des personnes exerçant une activité dans le système de santé militaire sont du ressort de la Confédération, s’ils ne s’effectuent pas dans une haute école.
 
-<sup>2</sup> La Confédération garantit et coordonne l’instruction et la formation continue des médecins militaires et des autres cadres des professions de la santé dans le domaine de la médecine militaire et de catastrophe.
+<sup>2</sup>
 
-<sup>3</sup> La Confédération exploite à cet effet un centre de compétences pour la médecine militaire et de catastrophe. Ce centre est une unité administrative du DDPS. Il peut confier des mandats à des tiers pour appliquer des mesures de formation et de formation continue.
+La Confédération a notamment les tâches suivantes:
 
-[^48b-1]: Introduit par le ch. I de la LF du 19 mars 2010 ([RO 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869); [FF 2009 5331](https://fedlex.data.admin.ch/eli/fga/2009/1057)). Nouvelle teneur selon l’annexe ch. 21 de la LF du 20 juin 2014 sur la formation continue, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 689](https://fedlex.data.admin.ch/eli/oc/2016/132);[FF 2013 3265](https://fedlex.data.admin.ch/eli/fga/2013/823)).
+- a. elle garantit et coordonne l’instruction, le perfectionnement et la formation continue des personnes exerçant une activité dans le système de santé militaire dans le domaine de la médecine militaire et de catastrophe;
+- b. elle encourage et pilote la recherche dans le domaine de la médecine militaire et de catastrophe.
+
+<sup>3</sup> Elle gère à cet effet un centre de compétences pour la médecine militaire et de catastrophe. Ce centre est une unité administrative du DDPS. Il peut charger des tiers d’exécuter des mesures d’instruction, de perfectionnement et de formation continue et des activités de recherche, notamment dans le domaine de la recherche de l’administration.
+
+[^48b-1]: Introduit par le ch. I de la LF du 19 mars 2010 ([RO 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869); [FF 2009 5331](https://fedlex.data.admin.ch/eli/fga/2009/1057)). Nouvelle teneur selon le ch. I de la LF du 19 déc. 2025, en vigueur depuis le 1<sup>er</sup> juin 2026 ([RO 2026 164](https://fedlex.data.admin.ch/eli/oc/2026/164); [FF 2025 960](https://fedlex.data.admin.ch/eli/fga/2025/960)).
 
 #### Art. 48c
 
@@ -1000,7 +1112,7 @@ L’armée et l’administration militaire de la Confédération peuvent mettre 
 
 Les moyens militaires ne sont mis à la disposition des autorités ou tiers demandeurs que si les conditions suivantes sont réunies:
 
-- a. il est établi que les autorités ou tiers demandeurs ne peuvent exercer les activités ni par leurs propres moyens ni avec l’aide de la protection civile ou de sociétés ou d’associations militaires reconnues;
+- a.[^48d-2] il est établi que les autorités ou tiers demandeurs ne peuvent exercer les activités ni par leurs propres moyens ni avec l’aide de sociétés ou d’associations militaires ou de la protection civile;
 - b. les personnes prévues à cet effet disposent d’une instruction et d’un équipement qui les rendent aptes à fournir la prestation demandée;
 - c. la sécurité requise est garantie.
 
@@ -1035,6 +1147,7 @@ Le Conseil fédéral règle la procédure et la prise en charge des coûts. Il p
 <sup>8</sup> Les troupes en service d’instruction peuvent fournir une aide spontanée, sans arme, en cas d’événement imprévu.
 
 [^48d-1]: Introduit par le ch. I de la LF du 18 mars 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [FF 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
+[^48d-2]: Nouvelle teneur selon le ch. I de la LF du 19 déc. 2025, en vigueur depuis le 1<sup>er</sup> juin 2026 ([RO 2026 164](https://fedlex.data.admin.ch/eli/oc/2026/164); [FF 2025 960](https://fedlex.data.admin.ch/eli/fga/2025/960)).
 
 ### Chapitre 2 Instruction de base
 
@@ -1048,10 +1161,11 @@ Le Conseil fédéral règle la procédure et la prise en charge des coûts. Il p
 
 <sup>3</sup> Le Conseil fédéral peut prévoir que l’école de recrues peut être accomplie ultérieurement si les services d’instruction obligatoires (art. 42) peuvent encore être accomplis dans les limites d’âge visées à l’art. 13.
 
-<sup>4</sup> L’école de recrues dure 18 semaines. Le Conseil fédéral peut prévoir une durée plus longue ou plus courte, de six semaines au plus, pour les formations nécessitant une instruction particulière.
+<sup>4</sup> L’école de recrues dure 18 semaines. Le Conseil fédéral peut prévoir une durée plus courte ou plus longue pour les formations nécessitant une instruction particulière. L’école de recrues dure toutefois au moins 6 semaines.[^49-3]
 
 [^49-1]: Nouvelle teneur selon le ch. I de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 6693](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
-[^49-2]: Nouvelle teneur selon l’annexe ch. 1 de la LF du 21 mars 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 703](https://fedlex.data.admin.ch/eli/oc/2025/703); [FF 2024 1216](https://fedlex.data.admin.ch/eli/fga/2024/1216)).
+[^49-2]: Nouvelle teneur selon l’annexe ch. 1 de la LF du 21 mars 2025 (Dispositions relatives au Service sanitaire coordonné, à la coordination des transports et aux points de rencontre d’urgence cantonaux ainsi que dispositions générales relatives à la protection civile), en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 703](https://fedlex.data.admin.ch/eli/oc/2025/703); [FF 2024 1216](https://fedlex.data.admin.ch/eli/fga/2024/1216)).
+[^49-3]: Nouvelle teneur selon le ch. I de la LF du 19 déc. 2025, en vigueur depuis le 1<sup>er</sup> juin 2026 ([RO 2026 164](https://fedlex.data.admin.ch/eli/oc/2026/164); [FF 2025 960](https://fedlex.data.admin.ch/eli/fga/2025/960)).
 
 #### Art. 50
 
@@ -1067,13 +1181,14 @@ Après l’école de recrues, les spécialistes peuvent recevoir une instruction
 
 <sup>1</sup> Les personnes astreintes au service militaire accomplissent des cours de répétition chaque année. En règle générale, ceux-ci doivent être effectués dans la formation d’incorporation.
 
-<sup>2</sup> Les militaires de la troupe doivent accomplir six cours de répétition d’une durée de trois semaines.
+<sup>2</sup> Le cours de répétition des militaires de la troupe dure 19 jours au plus, celui des autres personnes astreintes au service militaire 26 jours au plus.[^51-2]
 
 <sup>3</sup> Le Conseil fédéral fixe la durée et la fréquence de ces cours de répétition pour les militaires chargés de fonctions clés, les sous-officiers, les sous-officiers supérieurs et les officiers. À cet égard, il tient compte notamment des besoins de l’instruction, de la disponibilité opérationnelle et des ressources disponibles.
 
 <sup>4</sup> Si les besoins de l’instruction l’exigent, le Conseil fédéral peut prévoir des cours de répétition plus courts ou l’accomplissement de cours de répétition à la journée.
 
 [^51-1]: Nouvelle teneur selon le ch. I de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 6693](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
+[^51-2]: Nouvelle teneur selon le ch. I de la LF du 19 déc. 2025, en vigueur depuis le 1<sup>er</sup> juin 2026 ([RO 2026 164](https://fedlex.data.admin.ch/eli/oc/2026/164); [FF 2025 960](https://fedlex.data.admin.ch/eli/fga/2025/960)).
 
 #### Art. 52
 
@@ -1103,17 +1218,18 @@ Le Conseil fédéral peut ordonner des services d’instruction spéciaux hors d
 
 #### Art. 54a
 
-<sup>1</sup> La personne astreinte à l’obligation de servir dans l’armée peut, si elle le souhaite, effectuer la durée totale des services d’instruction obligatoires en une seule fois. Le nombre des personnes astreintes prises en considération est déterminé par les besoins de l’armée.
+<sup>1</sup> Les personnes astreintes au service militaire peuvent, si elles le souhaitent, effectuer la durée totale des services d’instruction obligatoires en une seule fois. Le nombre des personnes astreintes prises en considération est déterminé par les besoins de l’armée.[^54a-1]
 
-<sup>2</sup> Quiconque effectue la durée totale de ses services d’instruction obligatoires en une seule fois (militaire en service long) effectue le solde de ses jours de service immédiatement après son école de recrues.[^54a-1]
+<sup>2</sup> Quiconque effectue la durée totale de ses services d’instruction obligatoires en une seule fois (militaire en service long) effectue le solde de ses jours de service immédiatement après son école de recrues.[^54a-2]
 
-<sup>3</sup> La part des militaires en service long à une classe de recrutement ne doit pas dépasser 15 %.[^54a-2]
+<sup>3</sup> La part des militaires en service long à une classe de recrutement ne doit pas dépasser 15 %.[^54a-3]
 
-<sup>4</sup> Les militaires en service long qui ont accompli la totalité de leurs services d’instruction obligatoires sont incorporés dans l’armée pour une durée de quatre ans. Ils peuvent, en cas de besoin, être convoqués pour des engagements de l’armée.[^54a-3]
+<sup>4</sup> Les militaires en service long qui ont accompli la totalité de leurs services d’instruction obligatoires sont incorporés dans l’armée pour une durée de quatre ans. Ils peuvent, en cas de besoin, être convoqués pour des engagements de l’armée.[^54a-4]
 
-[^54a-1]: Nouvelle teneur selon le ch. I de la LF du 19 mars 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869); [FF 2009 5331](https://fedlex.data.admin.ch/eli/fga/2009/1057)).
+[^54a-1]: Nouvelle teneur selon le ch. I de la LF du 19 déc. 2025, en vigueur depuis le 1<sup>er</sup> juin 2026 ([RO 2026 164](https://fedlex.data.admin.ch/eli/oc/2026/164); [FF 2025 960](https://fedlex.data.admin.ch/eli/fga/2025/960)).
 [^54a-2]: Nouvelle teneur selon le ch. I de la LF du 19 mars 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869); [FF 2009 5331](https://fedlex.data.admin.ch/eli/fga/2009/1057)).
-[^54a-3]: Introduit par le ch. I de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 6693](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
+[^54a-3]: Nouvelle teneur selon le ch. I de la LF du 19 mars 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869); [FF 2009 5331](https://fedlex.data.admin.ch/eli/fga/2009/1057)).
+[^54a-4]: Introduit par le ch. I de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 6693](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
 
 ### Chapitre 4 Instruction des sous-officiers, des sous-officiers supérieurs et des officiers
 
@@ -1127,21 +1243,24 @@ Le Conseil fédéral peut ordonner des services d’instruction spéciaux hors d
 
 <sup>1</sup> Les aspirants sergents et lieutenants suivent une instruction de cadres adaptée à leurs missions.
 
-<sup>2</sup> Les sergents et lieutenants nouvellement nommés accomplissent un service d’instruction dans une école de recrues. Ils assument, à leur échelon, la responsabilité de l’instruction et de la conduite.
+<sup>2</sup> Une fois promus, les sergents, les sergents-majors, les sergents-majors chefs, les fourriers et les lieutenants doivent accomplir un service pratique dans une école de recrues pendant laquelle ils assument, à leur échelon, la responsabilité de l’instruction et de la conduite.[^55-3]
 
 <sup>3</sup>
 
 Le Conseil fédéral détermine:
 
-- a. les autres services d’instruction permettant d’obtenir un grade supérieur, d’exercer une nouvelle fonction ou de se reconvertir;
-- b.[^55-3] les services particuliers que les sous-officiers, les sous-officiers supérieurs et les officiers doivent accomplir;
+- a.[^55-4] les autres services d’instruction permettant de changer de grade, de changer de fonction ou de se reconvertir;
+- b.[^55-5] les services particuliers que les sous-officiers, les sous-officiers supérieurs et les officiers doivent accomplir;
 - c. la durée maximale de l’instruction des cadres et des services d’instruction.
 
-<sup>4</sup> Il peut habiliter le DDPS à régler les modalités des services d’instruction telles que leur répartition en modules, les participants et les conditions d’admission.
+<sup>4</sup> Il peut habiliter le DDPS à régler les modalités des services d’instruction telles que la répartition en modules et les conditions de participation et d’admission et déléguer entièrement ou partiellement cette compétence au Groupement Défense.[^55-6]
 
 [^55-1]: Nouvelle teneur selon le ch. I de la LF du 19 mars 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869); [FF 2009 5331](https://fedlex.data.admin.ch/eli/fga/2009/1057)).
 [^55-2]: Abrogé par le ch. I de la LF du 18 mars 2016, avec effet au 1<sup>er</sup> janv. 2018 ([RO 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 6693](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
-[^55-3]: Nouvelle teneur selon le ch. I de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 6693](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
+[^55-3]: Nouvelle teneur selon le ch. I de la LF du 19 déc. 2025, en vigueur depuis le 1<sup>er</sup> juin 2026 ([RO 2026 164](https://fedlex.data.admin.ch/eli/oc/2026/164); [FF 2025 960](https://fedlex.data.admin.ch/eli/fga/2025/960)).
+[^55-4]: Nouvelle teneur selon le ch. I de la LF du 19 déc. 2025, en vigueur depuis le 1<sup>er</sup> juin 2026 ([RO 2026 164](https://fedlex.data.admin.ch/eli/oc/2026/164); [FF 2025 960](https://fedlex.data.admin.ch/eli/fga/2025/960)).
+[^55-5]: Nouvelle teneur selon le ch. I de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 6693](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
+[^55-6]: Nouvelle teneur selon le ch. I de la LF du 19 déc. 2025, en vigueur depuis le 1<sup>er</sup> juin 2026 ([RO 2026 164](https://fedlex.data.admin.ch/eli/oc/2026/164); [FF 2025 960](https://fedlex.data.admin.ch/eli/fga/2025/960)).
 
 #### Art. 56 à 58
 
@@ -1246,6 +1365,18 @@ Doivent effectuer chaque année des exercices de tir hors du service aussi longt
 
 <sup>2</sup> Le DDPS peut organiser des cours de formation prémilitaire ou charger d’autres organisations de cette tâche. La participation à ces cours est volontaire. L’incorporation dans certaines armes ou dans certaines fonctions peut dépendre de la réussite d’un tel cours.
 
+### Chapitre 9 Plateformes d’information
+
+[^tit4-chap9-1]
+
+[^tit4-chap9-1]: Introduit par le ch. I de la LF du 19 déc. 2025, en vigueur depuis le 1<sup>er</sup> juin 2026 ([RO 2026 164](https://fedlex.data.admin.ch/eli/oc/2026/164); [FF 2025 960](https://fedlex.data.admin.ch/eli/fga/2025/960)).
+
+#### Art. 64a
+
+<sup>1</sup> L’armée et l’administration militaire peuvent gérer des plateformes électroniques permettant l’échange personnel et non public d’informations et de documents.
+
+<sup>2</sup> Elles peuvent rendre accessible, par les canaux d’information qu’elles souhaitent, des informations et des documents digitaux destinés au public. Elles peuvent recourir à des tiers à cette fin et les indemniser dans le cadre des crédits autorisés.
+
 ## Titre cinquième Engagement de l’armée
 
 [^tit5-1]
@@ -1331,12 +1462,13 @@ Le Conseil fédéral peut soumettre à un niveau élevé de disponibilité les f
 
 <sup>2</sup> Il peut conclure les conventions internationales nécessaires à l’exécution de l’engagement.
 
-<sup>3</sup> En cas d’engagement armé, il consulte les Commissions de politique extérieure et les Commissions de la politique de sécurité des deux conseils avant de l’ordonner.[^66b-2]
+<sup>3</sup> L’engagement de militaires armés est soumis à l’approbation préalable de l’Assemblée fédérale. En cas d’urgence, le Conseil fédéral peut demander ultérieurement l’approbation de l’Assemblée fédérale.[^66b-2]
 
-<sup>4</sup> Lorsque l’effectif d’un engagement armé dépasse 100 militaires ou que celui-ci dure plus de trois semaines, l’engagement est soumis à l’approbation de l’Assemblée fédérale. En cas d’urgence, le Conseil fédéral peut demander l’approbation de l’Assemblée fédérale ultérieurement.
+<sup>4</sup> Le Conseil fédéral prend de manière autonome la décision d’engager et d’armer 18 militaires au plus par mission à des fins d’autoprotection, de légitime défense et de légitime défense d’autrui.[^66b-3]
 
 [^66b-1]: Introduit par le ch. I de la LF du 6 oct. 2000, en vigueur depuis le 1<sup>er</sup> sept. 2001 ([RO 2001 2266](https://fedlex.data.admin.ch/eli/oc/2001/324); [FF 2000 433](https://fedlex.data.admin.ch/eli/fga/2000/142)).
-[^66b-2]: Nouvelle teneur selon le ch. I de la LF du 19 mars 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869); [FF 2009 5331](https://fedlex.data.admin.ch/eli/fga/2009/1057)).
+[^66b-2]: Nouvelle teneur selon le ch. I de la LF du 19 déc. 2025, en vigueur depuis le 1<sup>er</sup> juin 2026 ([RO 2026 164](https://fedlex.data.admin.ch/eli/oc/2026/164); [FF 2025 960](https://fedlex.data.admin.ch/eli/fga/2025/960)).
+[^66b-3]: Nouvelle teneur selon le ch. I de la LF du 19 déc. 2025, en vigueur depuis le 1<sup>er</sup> juin 2026 ([RO 2026 164](https://fedlex.data.admin.ch/eli/oc/2026/164); [FF 2025 960](https://fedlex.data.admin.ch/eli/fga/2025/960)).
 
 ### Chapitre 3 Service d’appui
 
@@ -1351,7 +1483,7 @@ En Suisse, l’armée fournit un service d’appui aux autorités civiles aux fi
 - a. faire face à des situations extraordinaires dans lesquelles la sécurité intérieure n’est pas gravement menacée et qui ne nécessitent pas un recours au service d’ordre;
 - b. assurer la protection de personnes et la protection de biens particulièrement dignes de protection, en particulier les infrastructures critiques;
 - c. accomplir des tâches relevant du Réseau national de sécurité ou des services coordonnés;
-- d. faire face à des catastrophes, de surcharge extrême ou accomplir des tâches que les autorités civiles ne peuvent accomplir seules faute de moyens ou de personnel appropriés;
+- d.[^67-2] faire face à des catastrophes, des situations de surcharge extrême ou accomplir des tâches que les autorités civiles ne peuvent accomplir seules faute de moyens ou de personnel appropriés;
 - e. accomplir d’autres tâches d’importance nationale ou internationale.
 
 <sup>2</sup>
@@ -1366,6 +1498,7 @@ L’appui est apporté à la demande des autorités fédérales ou cantonales co
 <sup>4</sup> Le Conseil fédéral détermine dans chaque cas quel armement est nécessaire pour assurer la protection des personnes et des troupes engagées et pour accomplir la mission.
 
 [^67-1]: Nouvelle teneur selon le ch. I de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 6693](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
+[^67-2]: Nouvelle teneur selon le ch. I de la LF du 19 déc. 2025, en vigueur depuis le 1<sup>er</sup> juin 2026 ([RO 2026 164](https://fedlex.data.admin.ch/eli/oc/2026/164); [FF 2025 960](https://fedlex.data.admin.ch/eli/fga/2025/960)).
 
 #### Art. 68
 
@@ -1382,7 +1515,8 @@ Des états-majors militaires de conduite ou des troupes peuvent être mis sur pi
 À l’étranger, l’armée fournit un service d’appui aux autorités civiles aux fins suivantes:
 
 - a. assurer la protection de personnes et la protection de biens particulièrement dignes de protection, pour autant que l’engagement vise à sauvegarder des intérêts suisses;
-- b. appuyer une aide humanitaire, à la demande de l’État concerné ou d’une organisation internationale.
+- b. appuyer une aide humanitaire, à la demande de l’État concerné ou d’une organisation internationale;
+- c.[^69-2] appuyer les processus de paix des autorités suisses et des organisations internationales ou régionales pour autant que l’État hôte et les parties en conflit y consentent.
 
 <sup>2</sup> Le service d’appui à l’étranger est volontaire. Il peut être déclaré obligatoire quand il vise à soutenir l’aide humanitaire dans les régions frontalières.
 
@@ -1391,6 +1525,7 @@ Des états-majors militaires de conduite ou des troupes peuvent être mis sur pi
 <sup>4</sup> Il peut conclure des accords internationaux déterminant les conditions juridiques et administratives de l’engagement s’ils sont nécessaires à l’exécution de l’engagement.
 
 [^69-1]: Nouvelle teneur selon le ch. I de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 6693](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
+[^69-2]: Introduite par le ch. I de la LF du 19 déc. 2025, en vigueur depuis le 1<sup>er</sup> juin 2026 ([RO 2026 164](https://fedlex.data.admin.ch/eli/oc/2026/164); [FF 2025 960](https://fedlex.data.admin.ch/eli/fga/2025/960)).
 
 #### Art. 70
 
@@ -1406,10 +1541,10 @@ Sont compétents pour la mise sur pied et l’attribution aux autorités civiles
 
 <sup>2</sup> L’Assemblée fédérale doit approuver l’engagement lors de la session suivante, pour autant que la mise sur pied comprenne plus de 2000 militaires ou qu’elle dure plus de trois semaines. Si l’engagement s’achève avant la session, le Conseil fédéral adresse un rapport à l’Assemblée fédérale.
 
-<sup>3</sup> Le Conseil fédéral n’a pas besoin de demander l’approbation de l’Assemblée fédérale pour les engagements d’une durée supérieure à trois semaines si dix militaires au plus sont mis sur pied simultanément. Il remet chaque année un rapport concernant ces mises sur pied aux Commissions de politique extérieure et aux Commissions de la politique de sécurité.[^70-2]
+<sup>3</sup> Le Conseil fédéral peut, sans demander l’approbation de l’Assemblée fédérale, convoquer simultanément au maximum 36 militaires armés pour des engagements qui durent plus de trois semaines. Il remet chaque année un rapport concernant ces mises sur pied aux Commissions de politique extérieure et aux Commissions de la politique de sécurité.[^70-2]
 
 [^70-1]: Introduite par le ch. I de la LF du 18 mars 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [FF 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
-[^70-2]: Introduit par le ch. I de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714); [FF 2014 6693](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
+[^70-2]: Introduit par le ch. I de la LF du 18 mars 2016 ([RO 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714); [FF 2014 6693](https://fedlex.data.admin.ch/eli/fga/2014/1566)). Nouvelle teneur selon le ch. I de la LF du 19 déc. 2025, en vigueur depuis le 1<sup>er</sup> juin 2026 ([RO 2026 164](https://fedlex.data.admin.ch/eli/oc/2026/164); [FF 2025 960](https://fedlex.data.admin.ch/eli/fga/2025/960)).
 
 #### Art. 71
 
@@ -1533,19 +1668,46 @@ Le service actif est accompli pour:
 
 #### Art. 80
 
-**Réquisition et mise hors d’usage**
+**Restriction et interdiction d’utilisation, réquisition et mise hors d’usage: obligations**[^80-1]
 
-<sup>1</sup> Lorsque la Confédération mobilise des troupes pour le service actif, chacun est tenu de mettre à la disposition des autorités militaires et de la troupe sa propriété mobilière et immobilière en vue de l’accomplissement des missions militaires. Cette obligation vaut également pour les préparatifs nécessaires en temps de paix.
+<sup>1</sup>
 
-<sup>2</sup> Les autorités militaires et la troupe peuvent recourir à la réquisition lorsque leur mission ne peut être remplie autrement ou si les moyens nécessaires leur font défaut.
+Lorsque la Confédération mobilise l’armée ou des éléments de l’armée pour le service actif, chacun est tenu de mettre à la disposition de l’administration militaire et de l’armée les biens de réquisition suivants en vue de l’accomplissement des missions militaires ou d’en accepter la restriction ou l’interdiction d’utilisation ou la mise hors d’usage:
 
-<sup>3</sup> La Confédération accorde une indemnité équitable pour l’usage, la moins-value et la perte de la propriété.
+- a. propriété mobilière et immobilière;
+- b. forces naturelles, dans la mesure où elles sont maîtrisables, telles que l’électricité;
+- c. données;
+- d. fréquences radio;
+- e. biens immatériels;
+- f. prestations professionnelles et prestations de service.
 
-<sup>4</sup> Toutes les décisions et tous les ordres émis par les organes compétents en matière de réquisition sont définitifs et immédiatement exécutoires. Un recours auprès du Groupement Défense du DDPS est possible contre les décisions concernant des prétentions de nature patrimoniale. [^80-1]
+<sup>2</sup> Ces obligations s’appliquent aussi aux travaux nécessaires de préparation en vue d’un service actif ordonné.
 
-<sup>5</sup> Le Conseil fédéral peut ordonner pendant le service actif la mise hors d’usage d’exploitations, d’installations et d’entrepôts.
+<sup>3</sup> La mise hors d’usage d’entreprises, d’installations et d’entrepôts requiert l’approbation du Conseil fédéral.
 
-[^80-1]: Nouvelle teneur de la phrase selon le ch. I de la LF du 19 mars 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869); [FF 2009 5331](https://fedlex.data.admin.ch/eli/fga/2009/1057)).
+<sup>4</sup> L’administration militaire et l’armée ne peuvent recourir aux obligations visées aux al. 1 et 2 que si leur mission l’exige absolument et ne peut pas être remplie avec leurs propres moyens.
+
+<sup>5</sup>
+
+La Confédération accorde une indemnité équitable en cas:
+
+- a. de restriction ou d’interdiction d’utilisation de biens de réquisition;
+- b. d’usage, de moins-value, de mise hors d’usage ou de perte du bien de réquisition.
+
+<sup>6</sup> Le Conseil fédéral peut prévoir des exceptions aux obligations visées aux al. 1 et 2 pour les autorités et les organisations nécessaires au fonctionnement de l’économie et au bien-être de la population.
+
+<sup>7</sup> Il désigne les organes compétents de l’administration militaire et de l’armée et détermine les tâches qui leur incombent.
+
+[^80-1]: Nouvelle teneur selon le ch. I de la LF du 19 déc. 2025, en vigueur depuis le 1<sup>er</sup> juin 2026 ([RO 2026 164](https://fedlex.data.admin.ch/eli/oc/2026/164); [FF 2025 960](https://fedlex.data.admin.ch/eli/fga/2025/960)).
+
+#### Art. 80a
+
+**Restriction et interdiction d’utilisation, réquisition et mise hors d’usage: décisions et recours**[^80a-1]
+
+Les décisions en matière de restriction et d’interdiction d’utilisation, de réquisition et de mise hors d’usage sont prises par les organes compétents de l’administration militaire et de l’armée. La procédure est régie par la loi fédérale du 20 décembre 1968 sur la procédure administrative[^80a-2].
+
+[^80a-1]: Introduit par le ch. I de la LF du 19 déc. 2025, en vigueur depuis le 1<sup>er</sup> juin 2026 ([RO 2026 164](https://fedlex.data.admin.ch/eli/oc/2026/164); [FF 2025 960](https://fedlex.data.admin.ch/eli/fga/2025/960)).
+[^80a-2]: [RS 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 #### Art. 81
 
@@ -1555,10 +1717,11 @@ Le service actif est accompli pour:
 
 En cas de service actif, le Conseil fédéral peut décréter l’exploitation militaire:
 
-- a. des entreprises privées chargées de tâches publiques, à l’exception des entreprises de transport titulaires d’une concession fédérale;
-- b. des établissements et exploitations militaires.
+- a.[^81-1] des entreprises privées chargées de tâches publiques;
+- b. des établissements et exploitations militaires;
+- c.[^81-2] des infrastructures critiques visées à l’art. 74*b*, al. 1, let. d, g, h, j, k, p à r, t et u, de la loi du 18 décembre 2020 sur la sécurité de l’information[^81-3].
 
-<sup>2</sup> Dans ce cas, les autorités militaires disposent du personnel et du matériel des entreprises précitées.[^81-1]
+<sup>2</sup> Dans ce cas, l’administration militaire dispose du personnel, de l’infrastructure et du matériel des entreprises précitées.[^81-4]
 
 <sup>3</sup> Les autorités militaires peuvent décréter la construction de nouvelles installations ou la destruction d’installations existantes.
 
@@ -1566,7 +1729,16 @@ En cas de service actif, le Conseil fédéral peut décréter l’exploitation m
 
 <sup>5</sup> La Confédération indemnise équitablement les entreprises pour le préjudice que leur cause l’exploitation militaire.
 
-[^81-1]: Nouvelle teneur selon le ch. I de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 6693](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
+<sup>6</sup> Le Conseil fédéral peut prévoir des exceptions aux obligations visées aux al. 1 et 2 pour les autorités et les organisations nécessaires au fonctionnement de l’économie et au bien-être de la population.[^81-5]
+
+<sup>7</sup> Il désigne les organes compétents de l’administration militaire et de l’armée et détermine les tâches qui leur incombent.[^81-6]
+
+[^81-1]: Nouvelle teneur selon le ch. I de la LF du 19 déc. 2025, en vigueur depuis le 1<sup>er</sup> juin 2026 ([RO 2026 164](https://fedlex.data.admin.ch/eli/oc/2026/164); [FF 2025 960](https://fedlex.data.admin.ch/eli/fga/2025/960)).
+[^81-2]: Introduite par le ch. I de la LF du 19 déc. 2025, en vigueur depuis le 1<sup>er</sup> juin 2026 ([RO 2026 164](https://fedlex.data.admin.ch/eli/oc/2026/164); [FF 2025 960](https://fedlex.data.admin.ch/eli/fga/2025/960)).
+[^81-3]: [RS 128](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40013)
+[^81-4]: Nouvelle teneur selon le ch. I de la LF du 19 déc. 2025, en vigueur depuis le 1<sup>er</sup> juin 2026 ([RO 2026 164](https://fedlex.data.admin.ch/eli/oc/2026/164); [FF 2025 960](https://fedlex.data.admin.ch/eli/fga/2025/960)).
+[^81-5]: Introduit par le ch. I de la LF du 19 déc. 2025, en vigueur depuis le 1<sup>er</sup> juin 2026 ([RO 2026 164](https://fedlex.data.admin.ch/eli/oc/2026/164); [FF 2025 960](https://fedlex.data.admin.ch/eli/fga/2025/960)).
+[^81-6]: Introduit par le ch. I de la LF du 19 déc. 2025, en vigueur depuis le 1<sup>er</sup> juin 2026 ([RO 2026 164](https://fedlex.data.admin.ch/eli/oc/2026/164); [FF 2025 960](https://fedlex.data.admin.ch/eli/fga/2025/960)).
 
 #### Art. 82
 
@@ -1774,11 +1946,57 @@ L’organisation de l’armée selon le principe de milice repose:
 
 [^96-1]: Nouvelle teneur selon le ch. I de la LF du 18 mars 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [FF 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
 
-#### Art. 97 et 98
+### Chapitre 2*a* Continuité des activités et résilience
 
-[^9798-1]
+[^tit6-chap2a-1]
 
-[^9798-1]: Abrogé par le ch. I de la LF du 4 oct. 2002, avec effet au 1<sup>er</sup> janv. 2004 ([RO 2003 3957](https://fedlex.data.admin.ch/eli/oc/2003/570); [FF 2002 816](https://fedlex.data.admin.ch/eli/fga/2002/118)).
+[^tit6-chap2a-1]: Introduit par le ch. I de la LF du 19 déc. 2025, en vigueur depuis le 1<sup>er</sup> juin 2026 ([RO 2026 164](https://fedlex.data.admin.ch/eli/oc/2026/164); [FF 2025 960](https://fedlex.data.admin.ch/eli/fga/2025/960)).
+
+#### Art. 97
+
+[^97-1]
+
+<sup>1</sup> Pour protéger les chaînes d’approvisionnement de l’armée et la télématique militaire et pour assurer la continuité des activités et la résilience face aux menaces, en particulier dans le domaine cyber, l’armée et l’administration militaire peuvent restreindre ou interdire l’utilisation des biens visés à l’art. 80, al. 1, let. a à c, e et f, ou les réquisitionner.
+
+<sup>2</sup> Les mesures visées à l’al. 1 requièrent l’approbation du Conseil fédéral.
+
+<sup>3</sup> La Confédération accorde une indemnité équitable en cas de restriction ou d’interdiction d’utilisation et en cas de réquisition d’un bien visé à l’art. 80, al. 1.
+
+<sup>4</sup> Les décisions en matière de restriction et d’interdiction d’utilisation et de réquisition sont prises par les organes compétents de l’administration militaire et de l’armée. La procédure est régie par la loi fédérale du 20 décembre 1968 sur la procédure administrative[^97-2].
+
+<sup>5</sup> Le Conseil fédéral peut prévoir des exceptions aux obligations découlant de l’al. 1 pour les autorités et les organisations nécessaires au fonctionnement de l’économie et au bien-être de la population.
+
+<sup>6</sup> Il désigne les organes compétents de l’administration militaire et de l’armée et détermine les tâches qui leur incombent.
+
+[^97-1]: Nouvelle teneur selon le ch. I de la LF du 19 déc. 2025, en vigueur depuis le 1<sup>er</sup> juin 2026 ([RO 2026 164](https://fedlex.data.admin.ch/eli/oc/2026/164); [FF 2025 960](https://fedlex.data.admin.ch/eli/fga/2025/960)).
+[^97-2]: [RS 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
+
+### Chapitre 2*b* Service du commissariat
+
+[^tit6-chap2b-1]
+
+[^tit6-chap2b-1]: Introduit par le ch. I de la LF du 19 déc. 2025, en vigueur depuis le 1<sup>er</sup> juin 2026 ([RO 2026 164](https://fedlex.data.admin.ch/eli/oc/2026/164); [FF 2025 960](https://fedlex.data.admin.ch/eli/fga/2025/960)).
+
+#### Art. 98
+
+[^98-1]
+
+<sup>1</sup> Le service du commissariat de l’armée est responsable de l’entretien des militaires conformément aux art. 29 à 29*e*, de la comptabilité, des carburants et des transports.
+
+<sup>2</sup>
+
+La loi du 7 octobre 2005 sur les finances (LFC)[^98-2] s’applique par analogie aux domaines suivants du service du commissariat:
+
+- a. tenue des comptes, contrôle interne et transparence des coûts (art. 38 à 40 LFC);
+- b. établissement des comptes, établissement du bilan et évaluation (art. 47 et 48 LFC);
+- c. tâches et compétences (art. 56 à 60 LFC).
+
+<sup>3</sup> Le Contrôle fédéral des finances est l’organe supérieur de révision de la comptabilité de l’armée.
+
+<sup>4</sup> Toutes les prétentions concernant la solde et le supplément de solde ainsi que les indemnités pour le logement des troupes, se prescrivent par cinq ans à compter respectivement de la fin du service et du départ de la troupe.
+
+[^98-1]: Nouvelle teneur selon le ch. I de la LF du 19 déc. 2025, en vigueur depuis le 1<sup>er</sup> juin 2026 ([RO 2026 164](https://fedlex.data.admin.ch/eli/oc/2026/164); [FF 2025 960](https://fedlex.data.admin.ch/eli/fga/2025/960)).
+[^98-2]: [RS 611.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7751)
 
 ### Chapitre 3 Service de renseignement et Sécurité militaire
 
@@ -1891,6 +2109,28 @@ Le Conseil fédéral règle:
 [^100-5]: [RS 364](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6323)
 [^100-6]: Nouvelle teneur selon l’annexe 1 ch. II 40 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
+#### Art. 100a
+
+**Protection des installations militaires de télécommunication**[^100a-1]
+
+<sup>1</sup> Afin d’assurer la protection des installations militaires de télécommunication, l’administration militaire et l’armée peuvent modifier ou remplacer, aux frais de la Confédération, un équipement ou une installation de télécommunication conforme à la loi du 30 avril 1997 sur les télécommunications[^100a-2], pour autant que la conformité reste garantie.
+
+<sup>2</sup> Elles peuvent, dans le même but et à des fins de maintien de la sécurité, ordonner à l’autorité civile compétente de limiter temporairement et localement l’utilisation des installations de télécommunication et les équipements ou de les interdire.
+
+<sup>3</sup> Les mesures visées à l’al. 2 doivent être approuvées par le Conseil fédéral.
+
+<sup>4</sup> La Confédération accorde une indemnité équitable en cas de modification, de remplacement, de restriction et d’interdiction.
+
+<sup>5</sup> Les décisions en matière de modification, de remplacement, de restriction et d’interdiction sont prises par les organes compétents de l’administration militaire et de l’armée. La procédure est régie par la loi fédérale du 20 décembre 1968 sur la procédure administrative[^100a-3].
+
+<sup>6</sup> Le Conseil fédéral peut prévoir des exceptions aux obligations visées aux al. 1 et 2 pour les autorités et les organisations nécessaires au fonctionnement de l’économie et au bien-être de la population.
+
+<sup>7</sup> Il désigne les organes compétents de l’administration militaire et de l’armée et détermine les tâches qui leur incombent.
+
+[^100a-1]: Introduit par le ch. I de la LF du 19 déc. 2025, en vigueur depuis le 1<sup>er</sup> juin 2026 ([RO 2026 164](https://fedlex.data.admin.ch/eli/oc/2026/164); [FF 2025 960](https://fedlex.data.admin.ch/eli/fga/2025/960)).
+[^100a-2]: [RS 784.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9171)
+[^100a-3]: [RS 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
+
 ### Chapitre 4 Formations professionnelles de l’armée
 
 #### Art. 101
@@ -1957,10 +2197,16 @@ Les autorités compétentes peuvent, pour déterminer l’aptitude d’un candid
 - c. demander des extraits du registre des poursuites et faillites et consulter les dossiers concernés;
 - d. demander l’exécution d’un contrôle de sécurité relatif aux personnes.[^103-2]
 
+<sup>3bis</sup> La promotion des militaires qui n’accomplissent pas le service pratique visé à l’art. 55, al. 2, est révoquée.[^103-3]
+
 <sup>4</sup> Les promotions et les nominations qui contreviennent à la présente loi ou à ses dispositions d’exécution peuvent être déclarées non valables.
+
+<sup>5</sup> Les militaires qui souhaitent exercer une fonction à laquelle un grade inférieur est attribué peuvent, sur demande et après avoir accompli l’instruction requise, se voir décerner le grade demandé.[^103-4]
 
 [^103-1]: Abrogé par le ch. I de la LF du 4 oct. 2002, avec effet au 1<sup>er</sup> janv. 2004 ([RO 2003 3957](https://fedlex.data.admin.ch/eli/oc/2003/570); [FF 2002 816](https://fedlex.data.admin.ch/eli/fga/2002/118)).
 [^103-2]: Nouvelle teneur selon le ch. I de la LF du 19 mars 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869); [FF 2009 5331](https://fedlex.data.admin.ch/eli/fga/2009/1057)).
+[^103-3]: Introduit par le ch. I de la LF du 19 déc. 2025, en vigueur depuis le 1<sup>er</sup> juin 2026 ([RO 2026 164](https://fedlex.data.admin.ch/eli/oc/2026/164); [FF 2025 960](https://fedlex.data.admin.ch/eli/fga/2025/960)).
+[^103-4]: Introduit par le ch. I de la LF du 19 déc. 2025, en vigueur depuis le 1<sup>er</sup> juin 2026 ([RO 2026 164](https://fedlex.data.admin.ch/eli/oc/2026/164); [FF 2025 960](https://fedlex.data.admin.ch/eli/fga/2025/960)).
 
 #### Art. 104
 
@@ -2008,14 +2254,28 @@ Le matériel de l’armée comprend:
 
 #### Art. 106
 
-**Acquisition du matériel**[^106-1]
+**Acquisition du matériel et affaires compensatoires[^106-2]**[^106-1]
 
 <sup>1</sup> La Confédération acquiert le matériel de l’armée.
 
-<sup>2</sup> Elle acquiert le matériel de l’armée si possible auprès d’un fabricant suisse et en prenant en considération toutes les régions du pays.[^106-2]
+<sup>2</sup> Elle acquiert le matériel de l’armée si possible auprès d’un fabricant suisse et en prenant en considération toutes les régions du pays.[^106-3]
+
+<sup>3</sup>
+
+Le Conseil fédéral peut, s’agissant de l’acquisition de matériel de l’armée à l’étranger et, à partir d’un montant défini, prévoir d’obliger le fournisseur à conclure des affaires compensatoires en Suisse. Ce faisant, il respecte les principes suivants:
+
+- a. l’obligation de conclure des affaires compensatoires correspond au plus à la valeur contractuelle de l’acquisition;
+- b. les affaires compensatoires consistent en la collaboration industrielle du fournisseur avec des établissements de recherche et des entreprises du domaine technique de la défense et de la sécurité en Suisse; le Conseil fédéral détermine les secteurs industriels civils qui sont également éligibles aux affaires compensatoires;
+- c. le but des affaires compensatoires est d’encourager, de maintenir et de développer des technologies présentant un intérêt pour la sécurité, les compétences clés et les capacités industrielles en Suisse qui servent à protéger les intérêts prépondérants en matière de sécurité nationale;
+- d. toutes les régions du pays et les particularités du marché de l’armement sont prises équitablement en considération lors des affaires compensatoires.[^106-4]
+
+<sup>4</sup> Le Conseil fédéral règle l’organisation, les compétences, la valeur contractuelle minimale, le montant à compenser et la procédure d’acquisition du matériel de l’armée.[^106-5]
 
 [^106-1]: Nouvelle teneur selon le ch. II 8 de la LF du 6 oct. 2006 sur la réforme de la péréquation financière et de la répartition des tâches entre la Confédération et les cantons (RPT), en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5641](https://fedlex.data.admin.ch/eli/fga/2005/976)).
-[^106-2]: Introduit par le ch. I de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 6693](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
+[^106-2]: Nouvelle teneur selon le ch. I de la LF du 19 déc. 2025, en vigueur depuis le 1<sup>er</sup> juin 2026 ([RO 2026 164](https://fedlex.data.admin.ch/eli/oc/2026/164); [FF 2025 960](https://fedlex.data.admin.ch/eli/fga/2025/960)).
+[^106-3]: Introduit par le ch. I de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 6693](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
+[^106-4]: Introduit par le ch. I de la LF du 19 déc. 2025, en vigueur depuis le 1<sup>er</sup> juin 2026 ([RO 2026 164](https://fedlex.data.admin.ch/eli/oc/2026/164); [FF 2025 960](https://fedlex.data.admin.ch/eli/fga/2025/960)).
+[^106-5]: Introduit par le ch. I de la LF du 19 déc. 2025, en vigueur depuis le 1<sup>er</sup> juin 2026 ([RO 2026 164](https://fedlex.data.admin.ch/eli/oc/2026/164); [FF 2025 960](https://fedlex.data.admin.ch/eli/fga/2025/960)).
 
 #### Art. 106a
 
@@ -2080,6 +2340,23 @@ Ces accords peuvent notamment concerner:
 
 [^109b-1]: Introduit par le ch. I de la LF du 19 mars 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869); [FF 2009 5331](https://fedlex.data.admin.ch/eli/fga/2009/1057)).
 
+#### Art. 109c
+
+**Recherche et développement**[^109c-1]
+
+<sup>1</sup>
+
+Afin d’accomplir ses tâches en matière de politique de sécurité, le DDPS peut:
+
+- a. commander des travaux de recherche et développement et des évaluations des choix technologiques;
+- b. participer à des programmes d’encouragement existants, organisés par des tiers dans le domaine de la recherche et de l’innovation;
+- c. mener ses propres programmes de recherche;
+- d. collaborer à des projets spécifiques avec l’industrie et les hautes écoles.
+
+<sup>2</sup> Il peut participer à des travaux d’organisations nationales ou internationales et collaborer avec des partenaires nationaux ou internationaux.
+
+[^109c-1]: Introduit par le ch. I de la LF du 19 déc. 2025, en vigueur depuis le 1<sup>er</sup> juin 2026 ([RO 2026 164](https://fedlex.data.admin.ch/eli/oc/2026/164); [FF 2025 960](https://fedlex.data.admin.ch/eli/fga/2025/960)).
+
 ### Chapitre 2 Équipement personnel
 
 #### Art. 110
@@ -2111,9 +2388,9 @@ Ces accords peuvent notamment concerner:
 
 <sup>2</sup> Si le militaire néglige ces devoirs ou fait un usage abusif de son équipement, celui-ci peut lui être retiré.
 
-<sup>3</sup> Les anciens militaires sont tenus de conserver leur équipement personnel en lieu sûr et de l’entretenir jusqu’à sa restitution.[^112-1]
+<sup>3</sup> Les anciens militaires sont tenus de conserver leur équipement personnel en lieu sûr et de l’entretenir jusqu’à sa restitution et de répondre à la convocation de restitution.[^112-1]
 
-[^112-1]: Introduit par le ch. I de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 6693](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
+[^112-1]: Introduit par le ch. I de la LF du 18 mars 2016 ([RO 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714); [FF 2014 6693](https://fedlex.data.admin.ch/eli/fga/2014/1566)). Nouvelle teneur selon le ch. I de la LF du 19 déc. 2025, en vigueur depuis le 1<sup>er</sup> juin 2026 ([RO 2026 164](https://fedlex.data.admin.ch/eli/oc/2026/164); [FF 2025 960](https://fedlex.data.admin.ch/eli/fga/2025/960)).
 
 #### Art. 113
 
@@ -2121,10 +2398,10 @@ Ces accords peuvent notamment concerner:
 
 <sup>1</sup>
 
-Aucune arme personnelle ne peut être remise à un militaire si des signes ou des indices sérieux laissent présumer:
+Aucun conscrit ne peut être recruté et aucune arme personnelle ne peut être remise à un militaire si des signes ou des indices sérieux laissent présumer:[^113-2]
 
 - a. qu’il pourrait utiliser son arme personnelle d’une manière dangereuse pour lui-même ou pour des tiers;
-- b. qu’il pourrait faire un usage abusif de son arme personnelle ou que des tiers pourraient en faire un usage abusif.
+- b. qu’il pourrait faire un usage abusif de son arme personnelle ou que des tiers pourraient en faire un usage abusif;
 
 <sup>2</sup> Si des signes ou des indices au sens de l’al. 1 se manifestent une fois que l’arme personnelle a été remise, cette dernière est immédiatement retirée au militaire.
 
@@ -2132,9 +2409,10 @@ Aucune arme personnelle ne peut être remise à un militaire si des signes ou de
 
 Le DDPS examine s’il existe des signes ou des indices au sens de l’al. 1:
 
-- a. avant la remise prévue de l’arme personnelle;
+- a.[^113-3] lors du recrutement;
+- a<sup>bis</sup>.[^113-4] avant la remise prévue de l’arme personnelle;
 - b. après que le soupçon de l’existence de tels signes ou indices a été signalé;
-- c. avant que l’arme personnelle soit remise en propriété au militaire concerné.
+- c.[^113-5] avant que l’arme personnelle soit remise en propriété.
 
 <sup>4</sup>
 
@@ -2147,25 +2425,31 @@ Il peut, sans le consentement de la personne concernée:
 
 <sup>5</sup>
 
-L’autorité de contrôle de la Confédération peut, pour évaluer le potentiel d’abus ou de dangerosité:
+Pour évaluer le potentiel d’abus ou de dangerosité, l’autorité de contrôle de la Confédération peut:[^113-6]
 
 - a. consulter les données visées aux al. 3, let. b, 7 et 8;
 - b. demander des extraits des registres des poursuites et des faillites et consulter les dossiers concernés;
-- c. consulter le casier judiciaire, le système de traitement des données relatives à la protection de l’État et l’index national de police;
-- d.[^113-2] demander, aux autorités pénales ou d’exécution des peines, des renseignements, des dossiers concernant des procédures pénales en cours, closes ou classées, et des dossiers relatifs à l’exécution des peines;
+- c.[^113-7] consulter le casier judiciaire, le système d’information INDEX SRC et l’index national de police;
+- d.[^113-8] demander, aux autorités pénales ou d’exécution des peines, des renseignements, des dossiers concernant des procédures pénales en cours, closes ou classées, et des dossiers relatifs à l’exécution des peines;
 - e. auditionner la personne concernée et des tiers si le potentiel d’abus ou de dangerosité ne peut pas être exclu de manière certaine sur la base des données disponibles.
 
-<sup>6</sup> La procédure est régie par les dispositions relatives au contrôle de sécurité de base au sens de l’art. 30, let. a, LSI[^113-3], qui s’appliquent par analogie. Si un contrôle de sécurité de base doit être réalisé simultanément pour d’autres motifs, les deux procédures sont combinées.[^113-4]
+<sup>6</sup> La procédure est régie par les dispositions relatives au contrôle de sécurité de base au sens de l’art. 30, let. a, LSI[^113-9], qui s’appliquent par analogie. Si un contrôle de sécurité de base doit être réalisé simultanément pour d’autres motifs, les deux procédures sont combinées.[^113-10]
 
-<sup>7</sup> Les autorités fédérales, cantonales et communales, de même que les médecins, les aumôniers, les psychologues, les travailleurs sociaux et les membres des services d’assistance de l’armée, sont libérés du secret de fonction ou du secret professionnel lorsqu’il s’agit de communiquer aux services compétents du DDPS tout signe ou indice visé à l’al. 1, ainsi que tout soupçon à ce propos.[^113-5]
+<sup>7</sup> Les autorités fédérales, cantonales et communales, de même que les médecins, les aumôniers, les psychologues, les travailleurs sociaux et les membres des services d’assistance de l’armée, sont libérés du secret de fonction ou du secret professionnel lorsqu’il s’agit de communiquer aux services compétents du DDPS tout signe ou indice visé à l’al. 1, ainsi que tout soupçon à ce propos.[^113-11]
 
 <sup>8</sup> Les tiers peuvent communiquer aux services compétents du DDPS l’existence de signes ou d’indices au sens de l’al. 1, ainsi que des soupçons à ce propos en motivant leur démarche.
 
 [^113-1]: Nouvelle teneur selon le ch. I 3 de la LF du 25 sept. 2015 concernant l’amélioration de l’échange d’informations entre les autorités au sujet des armes, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2016 1831](https://fedlex.data.admin.ch/eli/oc/2016/326); [FF 2014 289](https://fedlex.data.admin.ch/eli/fga/2014/67)).
-[^113-2]: Erratum de la CdR de l’Ass. féd. du 23 août 2016, publié le 13 sept. 2016 ([RO 2016 3167](https://fedlex.data.admin.ch/eli/oc/2016/530)).
-[^113-3]: [RS 128](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40013)
-[^113-4]: Nouvelle teneur selon l’annexe 1 ch. 12 de la L du 18 déc. 2020 sur la sécurité de l’information, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2022 232](https://fedlex.data.admin.ch/eli/oc/2022/232); [2023 650](https://fedlex.data.admin.ch/eli/oc/2023/650); [FF 2017 2765](https://fedlex.data.admin.ch/eli/fga/2017/647)).
-[^113-5]: Nouvelle teneur selon le ch. I de la LF du 18 mars 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [FF 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
+[^113-2]: Nouvelle teneur selon le ch. I de la LF du 19 déc. 2025, en vigueur depuis le 1<sup>er</sup> juin 2026 ([RO 2026 164](https://fedlex.data.admin.ch/eli/oc/2026/164); [FF 2025 960](https://fedlex.data.admin.ch/eli/fga/2025/960)).
+[^113-3]: Introduite par le ch. I de la LF du 19 déc. 2025, en vigueur depuis le 1<sup>er</sup> juin 2026 ([RO 2026 164](https://fedlex.data.admin.ch/eli/oc/2026/164); [FF 2025 960](https://fedlex.data.admin.ch/eli/fga/2025/960)).
+[^113-4]: Anciennement let. a.
+[^113-5]: Nouvelle teneur selon le ch. I de la LF du 19 déc. 2025, en vigueur depuis le 1<sup>er</sup> juin 2026 ([RO 2026 164](https://fedlex.data.admin.ch/eli/oc/2026/164); [FF 2025 960](https://fedlex.data.admin.ch/eli/fga/2025/960)).
+[^113-6]: Nouvelle teneur selon le ch. I de la LF du 19 déc. 2025, en vigueur depuis le 1<sup>er</sup> juin 2026 ([RO 2026 164](https://fedlex.data.admin.ch/eli/oc/2026/164); [FF 2025 960](https://fedlex.data.admin.ch/eli/fga/2025/960)).
+[^113-7]: Nouvelle teneur selon le ch. I de la LF du 19 déc. 2025, en vigueur depuis le 1<sup>er</sup> juin 2026 ([RO 2026 164](https://fedlex.data.admin.ch/eli/oc/2026/164); [FF 2025 960](https://fedlex.data.admin.ch/eli/fga/2025/960)).
+[^113-8]: Erratum de la CdR de l’Ass. féd. du 23 août 2016, publié le 13 sept. 2016 ([RO 2016 3167](https://fedlex.data.admin.ch/eli/oc/2016/530)).
+[^113-9]: [RS 128](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40013)
+[^113-10]: Nouvelle teneur selon l’annexe 1 ch. 12 de la L du 18 déc. 2020 sur la sécurité de l’information, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2022 232](https://fedlex.data.admin.ch/eli/oc/2022/232); [2023 650](https://fedlex.data.admin.ch/eli/oc/2023/650); [FF 2017 2765](https://fedlex.data.admin.ch/eli/fga/2017/647)).
+[^113-11]: Nouvelle teneur selon le ch. I de la LF du 18 mars 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [FF 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
 
 #### Art. 114
 
@@ -2335,7 +2619,13 @@ Ils ne prélèvent pas de taxes:
 
 <sup>4</sup> En règle générale, l’approbation des plans des projets ayant des effets considérables sur l’aménagement du territoire et sur l’environnement présuppose qu’un plan sectoriel conforme à la loi du 22 juin 1979 sur l’aménagement du territoire[^126-1] ait été établi.
 
+<sup>5</sup> L’acquisition de biens-fonds pour des constructions ou installations militaires et la constitution de droits réels sur des biens-fonds relèvent du DDPS.[^126-2]
+
+<sup>6</sup> Le DDPS est habilité, au besoin, à procéder à une expropriation.[^126-3]
+
 [^126-1]: [RS 700](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8351)
+[^126-2]: Introduit par le ch. I de la LF du 19 déc. 2025, en vigueur depuis le 1<sup>er</sup> juin 2026 ([RO 2026 164](https://fedlex.data.admin.ch/eli/oc/2026/164); [FF 2025 960](https://fedlex.data.admin.ch/eli/fga/2025/960)).
+[^126-3]: Introduit par le ch. I de la LF du 19 déc. 2025, en vigueur depuis le 1<sup>er</sup> juin 2026 ([RO 2026 164](https://fedlex.data.admin.ch/eli/oc/2026/164); [FF 2025 960](https://fedlex.data.admin.ch/eli/fga/2025/960)).
 
 #### Art. 126a
 
@@ -2506,15 +2796,24 @@ La procédure simplifiée d’approbation des plans s’applique:
 
 <sup>2</sup> Le Conseil fédéral règle les modalités.
 
-### Chapitre 4 Prestations des communes et des habitants
+### Chapitre 4 Prestations des communes et des particuliers
+
+[^tit8-chap4-1]
+
+[^tit8-chap4-1]: Nouvelle teneur selon le ch. I de la LF du 19 déc. 2025, en vigueur depuis le 1<sup>er</sup> juin 2026 ([RO 2026 164](https://fedlex.data.admin.ch/eli/oc/2026/164); [FF 2025 960](https://fedlex.data.admin.ch/eli/fga/2025/960)).
 
 #### Art. 131
 
 **Logement de la troupe**
 
-<sup>1</sup> Les communes et les habitants sont tenus de fournir le logement à la troupe et aux animaux de l’armée.
+<sup>1</sup> Les communes et les particuliers sont tenus de fournir le logement à la troupe et aux animaux de l’armée et de mettre à disposition les locaux et les places appropriés, avec les installations et le matériel nécessaires.[^131-1]
 
 <sup>2</sup> Ils reçoivent de la Confédération une indemnité équitable.
+
+<sup>3</sup> Les créances litigieuses sont tranchées par la BLA conformément à la procédure visée à l’art. 142.[^131-2]
+
+[^131-1]: Nouvelle teneur selon le ch. I de la LF du 19 déc. 2025, en vigueur depuis le 1<sup>er</sup> juin 2026 ([RO 2026 164](https://fedlex.data.admin.ch/eli/oc/2026/164); [FF 2025 960](https://fedlex.data.admin.ch/eli/fga/2025/960)).
+[^131-2]: Introduit par le ch. I de la LF du 19 déc. 2025, en vigueur depuis le 1<sup>er</sup> juin 2026 ([RO 2026 164](https://fedlex.data.admin.ch/eli/oc/2026/164); [FF 2025 960](https://fedlex.data.admin.ch/eli/fga/2025/960)).
 
 #### Art. 132
 
@@ -2704,7 +3003,24 @@ Lors du recrutement et durant l’instruction, les conscrits et les militaires p
 
 [^146a-1]: Introduit par le ch. I de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 6693](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
 
-#### Art. 147 à 148h
+### Chapitre 7*a* Procédures électroniques
+
+[^tit8-chap7a-1]
+
+[^tit8-chap7a-1]: Introduit par le ch. I de la LF du 19 déc. 2025, en vigueur depuis le 1<sup>er</sup> juin 2026 ([RO 2026 164](https://fedlex.data.admin.ch/eli/oc/2026/164); [FF 2025 960](https://fedlex.data.admin.ch/eli/fga/2025/960)).
+
+#### Art. 147
+
+[^147-1]
+
+<sup>1</sup> S’agissant des affaires administratives et des affaires relevant du service des personnes visées à l’art. 17*b* de la loi fédérale du 3 octobre 2008 sur les systèmes d’information de l’armée et du DDPS[^147-2], les procédures écrites sont effectuées par voie électronique dans le Système d’information pour la gestion de données de service avec l’accord des personnes concernées.
+
+<sup>2</sup> Le Conseil fédéral détermine les différentes procédures.
+
+[^147-1]: Nouvelle teneur selon le ch. I de la LF du 19 déc. 2025, en vigueur depuis le 1<sup>er</sup> juin 2026 ([RO 2026 164](https://fedlex.data.admin.ch/eli/oc/2026/164); [FF 2025 960](https://fedlex.data.admin.ch/eli/fga/2025/960)).
+[^147-2]: [RS 510.91](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7377)
+
+#### Art. 148 à 148h
 
 Abrogés
 
@@ -2726,6 +3042,10 @@ Les unités administratives du DDPS ne peuvent fournir des prestations commercia
 
 <sup>2</sup> Les prestations commerciales sont fournies à des prix permettant au moins de couvrir les coûts calculés sur la base d’une comptabilité analytique. Le DDPS peut autoriser des dérogations pour certaines prestations tant que ceci n’entraîne pas de concurrence avec le secteur privé.
 
+<sup>3</sup> L’armée peut également fournir à des tiers ses formations à la conduite et à la communication destinées aux cadres de milice et aux cadres professionnels de l’armée. Les al. 1 et 2 s’appliquent par analogie.[^148i-1]
+
+[^148i-1]: Introduit par le ch. I de la LF du 19 déc. 2025, en vigueur depuis le 1<sup>er</sup> juin 2026 ([RO 2026 164](https://fedlex.data.admin.ch/eli/oc/2026/164); [FF 2025 960](https://fedlex.data.admin.ch/eli/fga/2025/960)).
+
 ## Titre 8*a* Moyens financiers destinés à l’armée
 
 [^tit8a-1]
@@ -2734,17 +3054,21 @@ Les unités administratives du DDPS ne peuvent fournir des prestations commercia
 
 #### Art. 148j
 
-L’Assemblée fédérale fixe par voie d’arrêté fédéral simple, pour une période de quatre ans, le plafond des dépenses s’appliquant aux moyens financiers destinés à l’armée.
+<sup>1</sup> L’Assemblée fédérale fixe par voie d’arrêté fédéral simple, pour une période de quatre ans, le plafond des dépenses s’appliquant aux moyens financiers destinés à l’armée.
+
+<sup>2</sup> Le Conseil fédéral peut prévoir des crédits-cadres pour la subsistance et le logement. Dans ces cas, le DDPS fixe les taux.[^148j-1]
+
+[^148j-1]: Introduit par le ch. I de la LF du 19 déc. 2025, en vigueur depuis le 1<sup>er</sup> juin 2026 ([RO 2026 164](https://fedlex.data.admin.ch/eli/oc/2026/164); [FF 2025 960](https://fedlex.data.admin.ch/eli/fga/2025/960)).
 
 ## Titre neuvième Dispositions finales
 
 #### Art. 149
 
-**Ordonnances de l’Assemblée fédérale**[^149-1]
+**Ordonnance de l*’*Assemblée fédérale**[^149-1]
 
-L’Assemblée fédérale édicte les dispositions prévues aux art. 29, al. 4, et 93, al. 2, ainsi que les dispositions complémentaires de la procédure administrative militaire sous la forme d’ordonnances de l’Assemblée fédérale.
+L’Assemblée fédérale édicte les dispositions prévues à l’art. 93, al. 2, sous la forme d’une ordonnance de l’Assemblée fédérale.
 
-[^149-1]: Nouvelle teneur selon le ch. I de la LF du 18 mars 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 725](https://fedlex.data.admin.ch/eli/oc/2022/725); [FF 2021 2198](https://fedlex.data.admin.ch/eli/fga/2021/2198)).
+[^149-1]: Nouvelle teneur selon le ch. I de la LF du 19 déc. 2025, en vigueur depuis le 1<sup>er</sup> juin 2026 ([RO 2026 164](https://fedlex.data.admin.ch/eli/oc/2026/164); [FF 2025 960](https://fedlex.data.admin.ch/eli/fga/2025/960)).
 
 #### Art. 149a
 
@@ -2816,6 +3140,24 @@ Pendant cette période, il peut déroger pour des raisons impératives aux dispo
 
 [^151-1]: Nouvelle teneur selon le ch. I de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714), [2017 2297](https://fedlex.data.admin.ch/eli/oc/2017/215); [FF 2014 6693](https://fedlex.data.admin.ch/eli/fga/2014/1566)).
 [^151-2]: [RS 513.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7452);[FF 2014 6693](https://fedlex.data.admin.ch/eli/fga/2014/1566)
+
+#### Art. 151a
+
+**Dispositions transitoires relatives à la modification du 19 décembre 2025**[^151a-1]
+
+<sup>1</sup>
+
+Après l’entrée en vigueur de la modification du 19 décembre 2025 visant la création d’un système flexible d’instruction et de service pour les troupes de milice, le Conseil fédéral peut déroger durant cinq ans aux dispositions légales concernant:
+
+- a. la limite d’âge déterminant l’obligation d’accomplir le service militaire (art. 13);
+- b. le nombre maximal de jours de service d’instruction obligatoires pour la troupe (art. 42, al. 2);
+- c. la durée maximale des écoles de recrues (art. 49, al. 4);
+- d. la durée maximale des cours de répétition (art. 51, al. 2);
+- e. l’accomplissement des services d’instruction obligatoires en une seule fois (art. 54*a*).
+
+<sup>2</sup> Un écart de 30 jours au maximum par rapport au nombre maximal visé à l’al. 1, let. b est toléré. Un écart de six semaines au maximum par rapport à la durée maximale visée à l’al. 1, let. c est toléré. Un écart de 14 jours au maximum par rapport à la durée maximale visée à l’al. 1, let. d est toléré.
+
+[^151a-1]: Introduit par le ch. I de la LF du 19 déc. 2025, en vigueur depuis le 1<sup>er</sup> juin 2026 ([RO 2026 164](https://fedlex.data.admin.ch/eli/oc/2026/164); [FF 2025 960](https://fedlex.data.admin.ch/eli/fga/2025/960)).
 
 #### Art. 152
 
