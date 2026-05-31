@@ -4,11 +4,11 @@ title: "Verordnung vom 18. März 2022 über den militärischen Flugdienst (Milit
 short: MFV
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/213"
 language: de
-version: 2022-07-01
+version: 2026-06-01
 adopted: 2022-03-18
 in_force: 2022-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/213/20220701/de/xml/fedlex-data-admin-ch-eli-cc-2022-213-20220701-de-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/213/20220701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/213/20260601/de/xml/fedlex-data-admin-ch-eli-cc-2022-213-20260601-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/213/20260601/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2022/213/20220701/de"
 
 (Militärflugdienstverordnung, MFV)
 
-vom 18. März 2022 (Stand am 1. Juli 2022)
+vom 18. März 2022 (Stand am 1. Juni 2026)
 
 Der Schweizerische Bundesrat,
 
@@ -25,9 +25,9 @@ gestützt auf die Artikel 41 Absatz 3, 54, 55 Absatz 3 und 150 Absatz 1 des Mili
 
 verordnet:
 
-[^ingress-1]: [SR 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
-[^ingress-2]: [SR 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
-[^ingress-3]: [SR 510.30](https://fedlex.data.admin.ch/eli/cc/1949/1093_1185_1137)
+[^ingress-1]: [SR 510.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7242)
+[^ingress-2]: [SR 172.220.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5345)
+[^ingress-3]: [SR 510.30](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7286)
 
 ## 1. Abschnitt: Allgemeine Bestimmungen
 
@@ -156,7 +156,9 @@ Jährlich werden zu einem individuellen Training wie folgt aufgeboten:
   - 1\. die in ihrer beruflichen Funktion Staatsluftfahrzeuge fliegen und nicht in einer Drohnenstaffel eingeteilt sind: für höchstens 45 Tage,
   - 2\. alle übrigen Milizdrohnenoperateure und Milizdrohnenoperateurinnen: für höchstens 12 Tage.
 
-<sup>4</sup> Das individuelle Training gilt als Militärdienst, wird aber nicht an die Ausbildungsdienstpflicht angerechnet.
+<sup>4</sup> Das individuelle Training gilt als Militärdienst, wird aber nicht an die Ausbildungsdienstpflicht angerechnet, ausser bei Milizfallschirmaufklärern und Milizfallschirmaufklärerinnen.[^6-1]
+
+[^6-1]: Fassung gemäss Anhang Ziff. 2 der V vom 1. April 2026, in Kraft seit 1. Juni 2026 ([AS 2026 174](https://fedlex.data.admin.ch/eli/oc/2026/174)).
 
 ## 4. Abschnitt: Eignungs- und Tauglichkeitsuntersuchung
 
@@ -194,7 +196,7 @@ Wer Auslandurlaub hat, kann auf Gesuch hin von der Einstellung befreit werden, w
 - a. ein militärisches Bedürfnis besteht; und
 - b. er oder sie sich verpflichtet, die vorgeschriebenen Dienstleistungen zu absolvieren und dabei die Reisekosten für die Auslandstrecke zu tragen.
 
-[^8-1]: [SR 512.21](https://fedlex.data.admin.ch/eli/cc/2017/810)
+[^8-1]: [SR 512.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7406)
 
 #### Art. 9
 
@@ -292,9 +294,12 @@ Das VBS regelt die Entschädigung bei Einstellung im militärischen Flugdienst u
 
 <sup>4</sup> Für die Berufsangehörigen des Flug- und Fallschirmsprungdienstes und die Testpiloten und Testpilotinnen der Armasuisse ist der Abschluss der Versicherung freiwillig.
 
-<sup>5</sup> Wer Anspruch auf eine Entschädigung nach Artikel 17 oder auf eine Sonderzulage nach Artikel 48 der Bundespersonalverordnung vom 3. Juli 2001[^19-1] hat, muss die Versicherungsprämien selber tragen. In den übrigen Fällen übernimmt der Bund die Versicherungsprämien.
+<sup>4bis</sup> Milizfallschirmaufklärer und Milizfallschirmaufklärerinnen, welche zivile, individuelle Trainings mit den Fallschirmen der Armee absolvieren, müssen eine Haftpflichtversicherung für Drittschäden abschliessen.[^19-1]
 
-[^19-1]: [SR 172.220.111.3](https://fedlex.data.admin.ch/eli/cc/2001/319)
+<sup>5</sup> Wer Anspruch auf eine Entschädigung nach Artikel 17 oder auf eine Sonderzulage nach Artikel 48 der Bundespersonalverordnung vom 3. Juli 2001[^19-2] hat, muss die Versicherungsprämien selber tragen. In den übrigen Fällen übernimmt der Bund die Versicherungsprämien.
+
+[^19-1]: Eingefügt durch Anhang Ziff. 2 der V vom 1. April 2026, in Kraft seit 1. Juni 2026 ([AS 2026 174](https://fedlex.data.admin.ch/eli/oc/2026/174)).
+[^19-2]: [SR 172.220.111.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5349)
 
 ## 9. Abschnitt: Schlussbestimmungen
 

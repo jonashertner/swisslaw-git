@@ -4,11 +4,11 @@ title: Ordonnance du 18 mars 2022 sur le service de vol militaire (OSV)
 short: OSV
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/213"
 language: fr
-version: 2022-07-01
+version: 2026-06-01
 adopted: 2022-03-18
 in_force: 2022-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/213/20220701/fr/xml/fedlex-data-admin-ch-eli-cc-2022-213-20220701-fr-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/213/20220701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/213/20260601/fr/xml/fedlex-data-admin-ch-eli-cc-2022-213-20260601-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/213/20260601/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2022/213/20220701/fr"
 
 (OSV)
 
-du 18 mars 2022 (État le 1<sup>er</sup> juillet 2022)
+du 18 mars 2022 (État le 1<sup>er</sup> juin 2026)
 
 Le Conseil fédéral suisse,
 
@@ -25,9 +25,9 @@ vu les art. 41, al. 3, 54, 55, al. 3 et 150, al. 1, de la loi fédérale du 3 f�
 
 arrête:
 
-[^ingress-1]: [RS 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
-[^ingress-2]: [RS 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
-[^ingress-3]: [RS 510.30](https://fedlex.data.admin.ch/eli/cc/1949/1093_1185_1137)
+[^ingress-1]: [RS 510.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7242)
+[^ingress-2]: [RS 172.220.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5345)
+[^ingress-3]: [RS 510.30](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7286)
 
 ## Section 1 Dispositions générales
 
@@ -156,7 +156,9 @@ Chaque année, les membre de la milice ci-après sont convoqués à un entraîne
   - 1\. qui volent professionnellement sur des aéronefs d’État et qui ne sont pas incorporés dans une escadrille d’aviation: 45 jours au plus,
   - 2\. tous les autres: 12 jours au plus.
 
-<sup>4</sup> L’entraînement individuel est considéré comme service militaire, mais ne compte pas comme service d’instruction obligatoire.
+<sup>4</sup> L’entraînement individuel est considéré comme service militaire, mais ne compte pas comme service d’instruction obligatoire, sauf pour les éclaireurs parachutistes de milice.[^6-1]
+
+[^6-1]: Nouvelle teneur selon l’annexe ch. 2 de l’O du 1<sup>er</sup> avr. 2026, en vigueur depuis le 1<sup>er</sup> juin 2026 ([RO 2026 174](https://fedlex.data.admin.ch/eli/oc/2026/174)).
 
 ## Section 4 Contrôle des aptitudes médicales
 
@@ -194,7 +196,7 @@ La personne qui bénéficie d’un congé à l’étranger peut, sur demande, ne
 - a. que cela soit nécessaire sur le plan militaire, et
 - b. qu’elle s’engage à accomplir régulièrement ses services obligatoires et à prendre à sa charge les frais de déplacement pour le trajet à l’étranger.
 
-[^8-1]: [RS 512.21](https://fedlex.data.admin.ch/eli/cc/2017/810)
+[^8-1]: [RS 512.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7406)
 
 #### Art. 9
 
@@ -292,9 +294,12 @@ Le DDPS régle l’indemnité en cas de suspension du service de vol militaire e
 
 <sup>4</sup> L’assurance est facultative pour les membres du service de vol et du service de saut en parachute de carrière et pour les pilotes d’essai d’armasuisse.
 
-<sup>5</sup> Quiconque a droit à l’indemnité prévue à l’art. 17 ou à une allocation spéciale selon l’art. 48 de l’ordonnance du 3 juillet 2001 sur le personnel de la Confédération[^19-1] doit payer lui-même ses primes d’assurance. Dans les autres cas, la Confédération prend les primes d’assurance à sa charge.
+<sup>4bis</sup> Les éclaireurs parachutistes de milice accomplissant des entraînements civils individuels avec des parachutes de l’armée doivent conclure une assurance de responsabilité civile pour les dommages causés à des tiers.[^19-1]
 
-[^19-1]: [RS 172.220.111.3](https://fedlex.data.admin.ch/eli/cc/2001/319)
+<sup>5</sup> Quiconque a droit à l’indemnité prévue à l’art. 17 ou à une allocation spéciale selon l’art. 48 de l’ordonnance du 3 juillet 2001 sur le personnel de la Confédération[^19-2] doit payer lui-même ses primes d’assurance. Dans les autres cas, la Confédération prend les primes d’assurance à sa charge.
+
+[^19-1]: Introduit par l’annexe ch. 2 de l’O du 1<sup>er</sup> avr. 2026, en vigueur depuis le 1<sup>er</sup> juin 2026 ([RO 2026 174](https://fedlex.data.admin.ch/eli/oc/2026/174)).
+[^19-2]: [RS 172.220.111.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5349)
 
 ## Section 9 Dispositions finales
 

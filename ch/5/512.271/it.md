@@ -4,11 +4,11 @@ title: Ordinanza del 18 marzo sul servizio di volo militare (OSVM)
 short: OSVM
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/213"
 language: it
-version: 2022-07-01
+version: 2026-06-01
 adopted: 2022-03-18
 in_force: 2022-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/213/20220701/it/xml/fedlex-data-admin-ch-eli-cc-2022-213-20220701-it-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/213/20220701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/213/20260601/it/xml/fedlex-data-admin-ch-eli-cc-2022-213-20260601-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/213/20260601/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2022/213/20220701/it"
 
 (OSVM)
 
-del 18 marzo 2022 (Stato 1° luglio 2022)
+del 18 marzo 2022 (Stato 1° giugno 2026)
 
 Il Consiglio federale svizzero,
 
@@ -25,9 +25,9 @@ visti gli articoli 41 capoverso 3, 54, 55 capoverso 3 e 150 capoverso 1 della le
 
 ordina:
 
-[^ingress-1]: [RS 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
-[^ingress-2]: [RS 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
-[^ingress-3]: [RS 510.30](https://fedlex.data.admin.ch/eli/cc/1949/1093_1185_1137)
+[^ingress-1]: [RS 510.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7242)
+[^ingress-2]: [RS 172.220.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5345)
+[^ingress-3]: [RS 510.30](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7286)
 
 ## Sezione 1: Disposizioni generali
 
@@ -164,7 +164,9 @@ Sono chiamati annualmente a un allenamento individuale come segue:
   - 1\. che nella loro funzione professionale pilotano aeromobili di Stato e non sono incorporati in una squadriglia di ricognitori telecomandati: per 45 giorni al massimo,
   - 2\. tutti gli altri operatori di ricognitori telecomandati di milizia: per 12 giorni al massimo.
 
-<sup>4</sup> L’allenamento individuale è considerato servizio militare, ma non è computato sul totale obbligatorio di giorni di servizio d’istruzione.
+<sup>4</sup> L’allenamento individuale è considerato servizio militare, ma non è computato sul totale obbligatorio di giorni di servizio d’istruzione, tranne che per gli esploratori paracadutisti di milizia.[^6-1]
+
+[^6-1]: Nuovo testo giusta l’all. n. 2 dell’O del 1° apr. 2026, in vigore dal 1° giu. 2026 ([RU 2026 174](https://fedlex.data.admin.ch/eli/oc/2026/174)).
 
 ## Sezione 4: Esame dell’idoneità
 
@@ -202,7 +204,7 @@ Chi beneficia di un congedo per l’estero può essere, a richiesta, esentato da
 - a. esiste la necessità militare; e
 - b. si impegna a compiere i servizi prescritti e si assume le spese di viaggio per il tratto dei percorsi all’estero.
 
-[^8-1]: [RS 512.21](https://fedlex.data.admin.ch/eli/cc/2017/810)
+[^8-1]: [RS 512.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7406)
 
 #### Art. 9
 
@@ -300,9 +302,12 @@ L’indennità in caso di sospensione dal servizio di volo militare e la riduzio
 
 <sup>4</sup> Per i membri professionisti del servizio di volo e del servizio di lancio con il paracadute e per i piloti collaudatori di armasuisse, la conclusione dell’assicurazione è facoltativa.
 
-<sup>5</sup> Chi ha diritto a un’indennità secondo l’articolo 17 o a un’indennità speciale secondo l’articolo 48 dell’ordinanza del 3 luglio 2001[^19-1] sul personale federale, si assume i premi d’assicurazione. Negli altri casi i premi d’assicurazione sono assunti dalla Confederazione.
+<sup>4bis</sup> Gli esploratori paracadutisti di milizia che assolvono allenamenti individuali civili con i paracadute dell’esercito devono stipulare un’assicurazione di responsabilità civile per danni a terzi.[^19-1]
 
-[^19-1]: [RS 172.220.111.3](https://fedlex.data.admin.ch/eli/cc/2001/319)
+<sup>5</sup> Chi ha diritto a un’indennità secondo l’articolo 17 o a un’indennità speciale secondo l’articolo 48 dell’ordinanza del 3 luglio 2001[^19-2] sul personale federale, si assume i premi d’assicurazione. Negli altri casi i premi d’assicurazione sono assunti dalla Confederazione.
+
+[^19-1]: Introdotto dall’all. n. 2 dell’O del 1° apr. 2026, in vigore dal 1° giu. 2026 ([RU 2026 174](https://fedlex.data.admin.ch/eli/oc/2026/174)).
+[^19-2]: [RS 172.220.111.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5349)
 
 ## Sezione 9: Disposizioni finali
 
@@ -351,6 +356,6 @@ Allegato 2
 
 ## Modifica di altri atti normativi
 
-...[^annex2-lvlu1-1]
+…[^annex2-lvlu1-1]
 
 [^annex2-lvlu1-1]: Le mod. possono essere consultate alla [RU 2022 213](https://fedlex.data.admin.ch/eli/oc/2022/213).
