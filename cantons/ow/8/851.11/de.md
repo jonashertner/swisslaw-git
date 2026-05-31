@@ -4,13 +4,12 @@ number: "851.11"
 title: Verordnung zum Einführungsgesetz zum Krankenversicherungsgesetz
 short: EV KVG
 language: de
-version: 2025-12-18
-valid_until: 2026-05-31
+version: 2026-06-01
 version_adopted: 2025-03-20
 adopted: 1999-01-28
 in_force: 1999-01-01
 url: "http://gdb.ow.ch/app/de/texts_of_law/851.11"
-pdf: "http://gdb.ow.ch/api/de/versions/1966/pdf_file"
+pdf: "http://gdb.ow.ch/api/de/versions/1967/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons OW. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "http://gdb.ow.ch/api/de/versions/1966/pdf_file"
 
 (EV KVG)
 
-vom 28.01.1999 (Stand 18.12.2025)
+vom 28.01.1999 (Stand 01.06.2026)
 
 Der Kantonsrat des Kantons Obwalden,
 
@@ -196,9 +195,9 @@ beschliesst:
 
 <sup>2</sup> Versicherte, welche keine Zugangsdaten erhalten haben, können diese bei der Vollzugsstelle verlangen.
 
-<sup>3</sup> Die ausgefüllten Anmelde- oder Antragsformulare sind zusammen mit den nötigen Unterlagen bis 31. Mai des Jahres, für das die Prämienverbilligung geltend gemacht wird, bei der zuständigen kantonalen Stelle einzureichen.
+<sup>3</sup> Der Antrag ist zusammen mit den nötigen Unterlagen bis 30. April des Jahres, für das die Prämienverbilligung geltend gemacht wird, bei der Vollzugsstelle einzureichen. Der Antrag kann auch in Papierform eingereicht werden.
 
-<sup>4</sup> Ebenfalls bis 31. Mai sind Anträge auf Prämienverbilligung nach der wirtschaftlichen Leistungsfähigkeit im Sinne von Art. 8 Abs. 4 dieser Verordnung einzureichen. Treten die genannten Ereignisse später ein, so können sie erst im Folgejahr berücksichtigt werden.
+<sup>4</sup> Ebenfalls bis 30. April sind Anträge auf Prämienverbilligung nach der wirtschaftlichen Leistungsfähigkeit im Sinne von Art. 8 Abs. 4 dieser Verordnung einzureichen. Treten die genannten Ereignisse später ein, so können sie erst im Folgejahr berücksichtigt werden.
 
 <sup>5</sup> …
 
@@ -434,7 +433,7 @@ geändert durch
 
 \- Nachtrag zum Gesundheitsgesetz vom 25. Juni 2021 (OGS 2021, 23), Botschaft und Vorlage des Regierungsrats vom 9. März 2021), Kantonsratssitzungen vom 27. Mai und 25. Juni 2021 (22.21.01), Volksabstimmung vom 28. November 2021 (ABl 2021, 1747), in Kraft seit 1. Januar 2022 (OGS 2021, 41),
 
-\- Nachtrag vom 20. März 2025, Botschaft und Vorlage des Regierungsrates vom 14. Januar 2025, Kantonsratssitzung vom 20. März 2025 (22.25.01 und 23.25.01), in Kraft seit 18. Dezember 2025 (OGS 2025, 33)
+\- Nachtrag vom 20. März 2025, Botschaft und Vorlage des Regierungsrates vom 14. Januar 2025, Kantonsratssitzung vom 20. März 2025 (22.25.01 und 23.25.01), in Kraft seit 18. Dezember 2025 und 1. Juni 2026 (Art. 10 Abs. 3 und 4; OGS 2025, 33)
 
 Die Änderung der Verordnung durch den Nachtrag zum Einführungsgesetz zum Krankenversicherungsgesetz vom 28. Januar 2016 (OGS 2016, 9 und OGS 2016, 18 und 26) wurde an der Volksabstimmung vom 25. September 2016 (OGS 2016, 15, 52, 53 und 54) abgelehnt.
 
