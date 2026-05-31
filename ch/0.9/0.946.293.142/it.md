@@ -3,11 +3,11 @@ sr: "0.946.293.142"
 title: "Accordo del 12 gennaio 1994 tra il Governo Svizzero da una parte, il Governo della Danimarca ed il Governo autonomo delle Isole Färöer dall'altra, sul libero scambio tra la Svizzera e le Isole Färöer (con Protocollo e All.)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/3925_3925_3925"
 language: it
-version: 1995-03-01
+version: 2026-06-01
 adopted: 1994-01-12
 in_force: 1995-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/3925_3925_3925/19950301/it/xml/fedlex-data-admin-ch-eli-cc-1995-3925_3925_3925-19950301-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/3925_3925_3925/19950301/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/3925_3925_3925/20260601/it/xml/fedlex-data-admin-ch-eli-cc-1995-3925_3925_3925-20260601-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/3925_3925_3925/20260601/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/3925_3925_3925/19950301/it"
 
 RU **1995** 3925; FF **1994** I 836
 
-Traduzione*[^t-1]*
+Traduzione[^t-1]
 
 Concluso il 12 gennaio 1994
 
@@ -24,7 +24,7 @@ Approvato dall’Assemblea federale il 17 marzo 1994[^t-2]
 
 Entrato in vigore mediante scambio di note il 1° marzo 1995
 
-(Stato 1° marzo 1995)
+(Stato 1° giugno 2026)
 
 [^t-1]: Dai testi originali francese e tedesco.
 [^t-2]: [RU 1995 3924](https://fedlex.data.admin.ch/eli/oc/1995/3924_3924_3924)
@@ -53,7 +53,7 @@ Hanno deciso, per raggiungere tali obiettivi e constatato che nessuna disposizio
 
 di stipulare il seguente Accordo:
 
-[^ingress-1]: [RS 0.632.21](https://fedlex.data.admin.ch/eli/cc/1959/1745_1807_1812)
+[^ingress-1]: [RS 0.632.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2242)
 
 #### Art. 1
 
@@ -90,7 +90,7 @@ Il presente Accordo non si oppone ai divieti o alle restrizioni d’importazione
 
 Provvedimenti di salvaguardia adottati dalla Svizzera o dalle Isole Färöer possono essere estesi al loro reciproco commercio solo se sono conformi alle disposizioni dell’Accordo generale sulle tariffe doganali ed il commercio[^7-1].
 
-[^7-1]: [RS 0.632.21](https://fedlex.data.admin.ch/eli/cc/1959/1745_1807_1812)
+[^7-1]: [RS 0.632.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2242)
 
 #### Art. 8
 
@@ -102,9 +102,7 @@ Gli accordi raggiunti secondo la procedura definita dal capoverso precedente son
 
 #### Art. 9
 
-I quattro Protocolli, compresi i loro allegati, sono parte integrante dell’Accordo. Il Protocollo 3[^9-1] può essere emendato mediante accordi intergovernativi tra le Parti contraenti.
-
-[^9-1]: Non pubblicato nella RU. Il testo di questo protocollo può essere ottenuto presso l’Ufficio centrale federale degli stampati e del materiale, 3000 Berna.
+I quattro Protocolli, compresi i loro allegati, sono parte integrante dell’Accordo. Il Protocollo 3 può essere emendato mediante accordi intergovernativi tra le Parti contraenti.
 
 #### Art. 10
 
@@ -112,7 +110,7 @@ L’Accordo si applica alle Isole Färöer da una parte, al territorio svizzero 
 
 L’Accordo si applica al Principato del Liechtenstein finché esso rimarrà legato alla Confederazione Svizzera da un’unione doganale[^10-1].
 
-[^10-1]: [RS 0.631.112.514](https://fedlex.data.admin.ch/eli/cc/39/551_565_576)
+[^10-1]: [RS 0.631.112.514](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2001)
 
 #### Art. 11
 
@@ -225,6 +223,14 @@ ex capitolo 23 Foraggi per animali da reddito
 #### Art. 4
 
 Per i prodotti a base di balena, la Svizzera estende alle importazioni originarie delle Isole Färöer il trattamento riservato alle importazioni originarie dei Paesi dell’AELS mantenendo il divieto d’importazione e le restrizioni d’importazione previsti nella Convenzione CITES.
+
+## Protocollo 3
+
+[^annex2-lvlu2-1]
+
+[^annex2-lvlu2-1]: Aggiornato dall’Acc. del 27 ott. 2025, approvato dall’AF il 18 mar. 2021, in vigore dal 1° giu. 2026 ([RU 2026 177](https://fedlex.data.admin.ch/eli/oc/2026/177); [2021 644](https://fedlex.data.admin.ch/eli/oc/2021/644)Art. 1 cpv. 2 lett. b n. 17; [FF 2021 344](https://fedlex.data.admin.ch/eli/fga/2021/344)). Il presente Prot. non è pubblicato nella RU né nella RS. Può essere ottenuto in versione originale inglese presso l’Ufficio federale delle costruzioni e della logistica, Vendita di pubblicazioni, 3003 Berna. È inoltre disponibile sul sito Internet della SECO: [www.seco.admin.ch/seco/it/home/Aussenwirtschaftspolitik\_Wirtschaftliche\_Zusammen arbeit/Wirtschaftsbeziehungen/Freihandelsabkommen/partner\_fha/europa/faeroeer-inseln.html](https://www.seco.admin.ch/seco/it/home/Aussenwirtschaftspolitik_Wirtschaftliche_Zusammenarbeit/Wirtschaftsbeziehungen/Freihandelsabkommen/partner_fha/europa/faeroeer-inseln.html).
+
+Citato nell’articolo 2
 
 ## Protocollo 4
 

@@ -3,11 +3,11 @@ sr: "0.946.293.142"
 title: Abkommen vom 12. Januar 1994 zwischen der Schweizerischen Regierung einerseits und der Regierung von Dänemark und der Landesregierung der Färöer andererseits über den Freihandel zwischen der Schweiz und den Färöern (mit Prot. und Anhängen)
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/3925_3925_3925"
 language: de
-version: 1995-03-01
+version: 2026-06-01
 adopted: 1994-01-12
 in_force: 1995-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/3925_3925_3925/19950301/de/xml/fedlex-data-admin-ch-eli-cc-1995-3925_3925_3925-19950301-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/3925_3925_3925/19950301/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/3925_3925_3925/20260601/de/xml/fedlex-data-admin-ch-eli-cc-1995-3925_3925_3925-20260601-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/3925_3925_3925/20260601/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -24,7 +24,7 @@ Von der Bundesversammlung genehmigt am 17. März 1994[^t-1]
 
 In Kraft getreten durch Notenaustausch am 1. März 1995
 
-(Stand am 1. März 1995)
+(Stand am 1. Juni 2026)
 
 [^t-1]: [AS 1995 3924](https://fedlex.data.admin.ch/eli/oc/1995/3924_3924_3924)
 
@@ -50,9 +50,9 @@ in der Bereitschaft, unter Berücksichtigung aller Beurteilungselemente, insbeso
 
 haben beschlossen, zur Erreichung dieser Ziele und in der Erwägung, dass keine Bestimmung dieses Abkommens dahin ausgelegt werden kann, dass sie die Vertragsparteien von ihren Verpflichtungen aus anderen internationalen Verträgen entbindet,
 
-*dieses* Abkommen zu schliessen:
+dieses Abkommen zu schliessen:
 
-[^ingress-1]: [SR 0.632.21](https://fedlex.data.admin.ch/eli/cc/1959/1745_1807_1812)
+[^ingress-1]: [SR 0.632.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2242)
 
 #### Art. 1
 
@@ -89,7 +89,7 @@ Dieses Abkommen steht Einfuhr‑, Ausfuhr‑ und Durchfuhrverboten oder ‑besch
 
 Ergreifen die Schweiz oder die Färöer Schutzmassnahmen, so dürfen diese nur im Einklang mit den Bestimmungen des Allgemeinen Zoll‑ und Handelsabkommens[^7-1] auf den gegenseitigen Handel ausgedehnt werden.
 
-[^7-1]: [SR 0.632.21](https://fedlex.data.admin.ch/eli/cc/1959/1745_1807_1812)
+[^7-1]: [SR 0.632.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2242)
 
 #### Art. 8
 
@@ -101,9 +101,7 @@ Werden im Sinne des im vorhergehenden Absatzes beschriebenen Verfahrens weitere 
 
 #### Art. 9
 
-Die vier Protokolle zu diesem Abkommen, sowie ihre Anhänge, bilden einen Bestandteil des Abkommens. Protokoll 3[^9-1] kann durch Vereinbarungen zwischen den Regierungen der Vertragsparteien geändert werden.
-
-[^9-1]: In der AS nicht veröffentlicht. Der Text dieses Protokolls kann bei der Eidgenössischen Drucksachen‑ und Materialzentrale, 3000 Bern, bezogen werden.
+Die vier Protokolle zu diesem Abkommen, sowie ihre Anhänge, bilden einen Bestandteil des Abkommens. Protokoll 3 kann durch Vereinbarungen zwischen den Regierungen der Vertragsparteien geändert werden.
 
 #### Art. 10
 
@@ -111,7 +109,7 @@ Das Abkommen gilt einerseits für die Färöer, andererseits für das Hoheitsgeb
 
 Dieses Abkommen gilt ausserdem für das Fürstentum Liechtenstein und zwar so lange, als dieses durch einen Zollunionsvertrag[^10-1] mit der Schweizerischen Eidgenossenschaft verbunden bleibt.
 
-[^10-1]: [SR 0.631.112.514](https://fedlex.data.admin.ch/eli/cc/39/551_565_576)
+[^10-1]: [SR 0.631.112.514](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2001)
 
 #### Art. 11
 
@@ -223,6 +221,14 @@ ex Kapitel 23 Futtermittel für Nutztiere
 #### Art. 4
 
 Für die Einfuhr von Walprodukten mit Ursprung in den Färöern gewährt die Schweiz die gleiche Behandlung wie für Einfuhren aus EFTA‑Ländern, wobei sie die gemäss CITES‑Konvention bestehenden Importsperren und ‑beschränkungen beibehält.
+
+## Protokoll 3
+
+[^annex2-lvlu2-1]
+
+[^annex2-lvlu2-1]: Bereinigt gemäss Vereinb. vom 27. Okt. 2025, von der BVers genehmigt am 18. März 2021 und in Kraft seit 1. Juni 2026 ([AS 2026 177](https://fedlex.data.admin.ch/eli/oc/2026/177); [2021 644](https://fedlex.data.admin.ch/eli/oc/2021/644)Art. 1 Abs. 2 Bst. b Ziff. 17; [BBl 2021 344](https://fedlex.data.admin.ch/eli/fga/2021/344)). Dieser Beschluss wird weder in der AS noch in der SR veröffentlicht. Er kann in englischer Originalsprache beim Bundesamt für Bauten und Logistik, Vertrieb Publikationen, 3003 Bern, bezogen werden und ist auf der Internetseite des SECO verfügbar: [www.seco.admin.ch/seco/de/home/Aussenwirtschaftspolitik\_Wirtschaftliche\_Zusammenarbeit/Wirtschaftsbeziehungen/Freihandelsabkommen/partner\_fha/europa/faeroeer-inseln.html](https://www.seco.admin.ch/seco/de/home/Aussenwirtschaftspolitik_Wirtschaftliche_Zusammenarbeit/Wirtschaftsbeziehungen/Freihandelsabkommen/partner_fha/europa/faeroeer-inseln.html).
+
+auf das in Artikel 2 Bezug genommen wird
 
 ## Protokoll 4
 

@@ -3,16 +3,16 @@ sr: "0.946.293.142"
 title: "Accord du 12 janvier 1994 entre le Gouvernement suisse, d'une part, et le Gouvernement du Danemark et le Gouvernement autonome des Îles Féroé, d'autre part, sur le libre-échange entre la Suisse et les Îles Féroé (avec prot. et annexes)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/3925_3925_3925"
 language: fr
-version: 1995-03-01
+version: 2026-06-01
 adopted: 1994-01-12
 in_force: 1995-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/3925_3925_3925/19950301/fr/xml/fedlex-data-admin-ch-eli-cc-1995-3925_3925_3925-19950301-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/3925_3925_3925/19950301/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/3925_3925_3925/20260601/fr/xml/fedlex-data-admin-ch-eli-cc-1995-3925_3925_3925-20260601-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/3925_3925_3925/20260601/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
-# Accord entre le Gouvernement suisse, d’une part, et le Gouvernement du Danemark et le Gouvernement autonome des Iles Féroé, d’autre part, sur le libre‑échange entre la Suisse et les Iles Féroé
+# Accord entre le Gouvernement suisse, d’une part, et le Gouvernement du Danemark et le Gouvernement autonome des Îles Féroé, d’autre part, sur le libre‑échange entre la Suisse et les Îles Féroé
 
 RO **1995** 3925; FF **1994** I 665
 
@@ -24,25 +24,25 @@ Approuvé par l’Assemblée fédérale le 17 mars 1994[^t-1]
 
 Entré en vigueur par échange de notes le 1<sup>er</sup> mars 1995
 
-(Etat le 1<sup>er</sup> mars 1995)
+(État le 1<sup>er</sup> juin 2026)
 
 [^t-1]: [RO 1995 3924](https://fedlex.data.admin.ch/eli/oc/1995/3924_3924_3924)
 
-Le Gouvernement suisse, d’une part, et le Gouvernement du Danemark et le Gouvernement autonome des Iles Féroé, d’autre part,
+Le Gouvernement suisse, d’une part, et le Gouvernement du Danemark et le Gouvernement autonome des Îles Féroé, d’autre part,
 
 dénommés ci‑après les parties contractantes,
 
-rappelant le statut des Iles Féroé qui, avec un gouvernement autonome, font partie intégrante du Danemark,
+rappelant le statut des Îles Féroé qui, avec un gouvernement autonome, font partie intégrante du Danemark,
 
-considérant que les Iles Féroé ont autrefois fait partie de l’Association européenne de libre‑échange (AELE) du fait de l’appartenance du Danemark à cette organisation, mais qu’elles ne sont pas comprises dans l’adhésion du Danemark à la Communauté européenne,
+considérant que les Îles Féroé ont autrefois fait partie de l’Association européenne de libre‑échange (AELE) du fait de l’appartenance du Danemark à cette organisation, mais qu’elles ne sont pas comprises dans l’adhésion du Danemark à la Communauté européenne,
 
 considérant que le commerce entre le Danemark et la Suisse est réglementé par les accords conclus entre la Suisse et la Communauté économique européenne,
 
-considérant aussi que le commerce entre les Iles Féroé et la Communauté économique européenne est réglementé par un accord signé entre le Gouvernement du Danemark et le Gouvernement autonome des Iles Féroé d’une part et la Communauté économique européenne d’autre part,
+considérant aussi que le commerce entre les Îles Féroé et la Communauté économique européenne est réglementé par un accord signé entre le Gouvernement du Danemark et le Gouvernement autonome des Îles Féroé d’une part et la Communauté économique européenne d’autre part,
 
-considérant enfin l’importance vitale pour les Iles Féroé de la pêche, qui constitue leur activité économique essentielle, puisque le poisson et les produits de la pêche sont leurs principaux articles d’exportation,
+considérant enfin l’importance vitale pour les Îles Féroé de la pêche, qui constitue leur activité économique essentielle, puisque le poisson et les produits de la pêche sont leurs principaux articles d’exportation,
 
-désireux de consolider et de développer les relations économiques qui existent entre les Iles Féroé et la Suisse et d’assurer le développement harmonieux de leur commerce mutuel dans le contexte de la coopération européenne,
+désireux de consolider et de développer les relations économiques qui existent entre les Îles Féroé et la Suisse et d’assurer le développement harmonieux de leur commerce mutuel dans le contexte de la coopération européenne,
 
 résolus, à cet effet, à éliminer progressivement les obstacles pour l’essentiel de leurs échanges, conformément aux dispositions de l’Accord général sur les tarifs douaniers et le commerce[^ingress-1] concernant l’établissement de zones de libre‑échange,
 
@@ -52,17 +52,17 @@ ont décidé, dans la poursuite de ces objectifs et considérant qu’aucune dis
 
 de conclure le présent accord:
 
-[^ingress-1]: [RS 0.632.21](https://fedlex.data.admin.ch/eli/cc/1959/1745_1807_1812)
+[^ingress-1]: [RS 0.632.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2242)
 
 #### Art. 1
 
-A compter de la date d’entrée en vigueur du présent accord, les parties contractantes pratiquent le libre‑échange entre les Iles Féroé et la Suisse selon les règles exposées dans les articles suivants.
+À compter de la date d’entrée en vigueur du présent accord, les parties contractantes pratiquent le libre‑échange entre les Îles Féroé et la Suisse selon les règles exposées dans les articles suivants.
 
 #### Art. 2
 
 Le Protocole 3 définit les règles d’origine.
 
-Le présent accord s’applique aux produits suivants, originaires des Iles Féroé et de Suisse:
+Le présent accord s’applique aux produits suivants, originaires des Îles Féroé et de Suisse:
 
 - – produits relevant des chap. 25 à 97 du système harmonisé de désignation et de codification des marchandises, à l’exclusion des produits énumérés dans le Protocole 1;
 - – produits énumérés dans le Protocole 2, compte tenu des dispositions spécifiques qui y figurent.
@@ -87,9 +87,9 @@ Le présent accord ne fait obstacle aux interdictions ou restrictions d’import
 
 #### Art. 7
 
-Des mesures de sauvegarde prises par la Suisse ou par les Iles Féroé ne peuvent être étendues à leur commerce mutuel que si elles sont conformes aux dispositions de l’accord général sur les tarifs douaniers et le commerce[^7-1].
+Des mesures de sauvegarde prises par la Suisse ou par les Îles Féroé ne peuvent être étendues à leur commerce mutuel que si elles sont conformes aux dispositions de l’accord général sur les tarifs douaniers et le commerce[^7-1].
 
-[^7-1]: [RS 0.632.21](https://fedlex.data.admin.ch/eli/cc/1959/1745_1807_1812)
+[^7-1]: [RS 0.632.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2242)
 
 #### Art. 8
 
@@ -101,17 +101,15 @@ Les accords résultant de la démarche mentionnée au précédent alinéa feront
 
 #### Art. 9
 
-Les quatre protocoles, y compris leurs annexes, font partie intégrante du présent accord. Le Protocole 3[^9-1] peut être amendé par la voie d’arrangements intergouvernementaux entre les parties contractantes.
-
-[^9-1]: Non publié au RO. Ce Prot. peut être obtenu auprès de l’Office central fédéral des imprimés et du matériel, 3000 Berne.
+Les quatre protocoles, y compris leurs annexes, font partie intégrante du présent accord. Le Protocole 3 peut être amendé par la voie d’arrangements intergouvernementaux entre les parties contractantes.
 
 #### Art. 10
 
-L’accord s’applique, d’une part, aux Iles Féroé et, d’autre part, au territoire de la Suisse.
+L’accord s’applique, d’une part, aux Îles Féroé et, d’autre part, au territoire de la Suisse.
 
 Le présent accord s’applique à la Principauté de Liechtenstein aussi longtemps que celle‑ci reste liée à la Confédération Suisse par un accord d’union douanière[^10-1].
 
-[^10-1]: [RS 0.631.112.514](https://fedlex.data.admin.ch/eli/cc/39/551_565_576)
+[^10-1]: [RS 0.631.112.514](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2001)
 
 #### Art. 11
 
@@ -128,7 +126,7 @@ Chaque partie contractante peut dénoncer le présent accord par une notificatio
 Fait à Copenhague, le 12 janvier 1994.
 
 <table>
-<tr><td>Pour la Confédération suisse: Franz Blankart</td><td>Pour le Gouvernement du Danemark Jørgen Ørstrøm Møller Pour le Gouvernement autonome des Iles Féroé: Tryggvi Johansen</td></tr>
+<tr><td>Pour la Confédération suisse: Franz Blankart</td><td>Pour le Gouvernement du Danemark Jørgen Ørstrøm Møller Pour le Gouvernement autonome des Îles Féroé: Tryggvi Johansen</td></tr>
 </table>
 
 ## Protocole 1
@@ -153,13 +151,13 @@ Mentionné à l’art. 2
 
 #### Art. 1
 
-Les Iles Féroé, conformément au présent accord, étendent le libre‑échange aux importations de produits figurant aux chap. 1 à 24 du système harmonisé de désignation et de codification des marchandises originaires de Suisse, à l’exception de ceux qui sont mentionnés dans l’Annexe 1 du présent Protocole.
+Les Îles Féroé, conformément au présent accord, étendent le libre‑échange aux importations de produits figurant aux chap. 1 à 24 du système harmonisé de désignation et de codification des marchandises originaires de Suisse, à l’exception de ceux qui sont mentionnés dans l’Annexe 1 du présent Protocole.
 
 #### Art. 2
 
-La Suisse applique aux importations de marchandises figurant dans l’Annexe 2 du présent Protocole, originaires des Iles Féroé, le même traitement qu’aux importations originaires de pays qui font partie de l’Association européenne de libreéchange (AELE).
+La Suisse applique aux importations de marchandises figurant dans l’Annexe 2 du présent Protocole, originaires des Îles Féroé, le même traitement qu’aux importations originaires de pays qui font partie de l’Association européenne de libreéchange (AELE).
 
-Si les Iles Féroé voient un intérêt à ce que ce traitement soit étendu à d’autres produits figurant aux chap. 1 à 24 du système harmonisé de désignation et de codification des marchandises, la Suisse examinera favorablement cette demande.
+Si les Îles Féroé voient un intérêt à ce que ce traitement soit étendu à d’autres produits figurant aux chap. 1 à 24 du système harmonisé de désignation et de codification des marchandises, la Suisse examinera favorablement cette demande.
 
 #### Art. 3
 
@@ -171,7 +169,7 @@ En matière vétérinaire, sanitaire et phytosanitaire, les Parties contractante
 
 Annexe 1 au Protocole 2
 
-## Liste de marchandises non comprises dans le régime de libre‑échange appliqué par les Iles Féroé aux marchandises originaires de Suisse et figurant aux chap. 1 à 24 du système harmonisé de désignation et de codification des marchandises
+## Liste de marchandises non comprises dans le régime de libre‑échange appliqué par les Îles Féroé aux marchandises originaires de Suisse et figurant aux chap. 1 à 24 du système harmonisé de désignation et de codification des marchandises
 
 <table>
 <tr><td>N° de position SH</td><td>Désignation des produits</td></tr>
@@ -190,7 +188,7 @@ Annexe 2 au Protocole 2
 
 #### Art. 1
 
-Selon la présente annexe, la Suisse étend aux importations suivantes originaires des Iles Féroé le traitement appliqué aux importations originaires des pays de l’AELE:
+Selon la présente annexe, la Suisse étend aux importations suivantes originaires des Îles Féroé le traitement appliqué aux importations originaires des pays de l’AELE:
 
 <table>
 <tr><td>N° de position SH</td><td>Désignation des produits</td></tr>
@@ -210,7 +208,7 @@ Selon la présente annexe, la Suisse étend aux importations suivantes originair
 
 #### Art. 2
 
-La Suisse applique aux importations de bière à base de malt originaire des Iles Féroé (position 22.03), le même traitement qu’aux importations de produits similaires originaires de la Communauté européenne.
+La Suisse applique aux importations de bière à base de malt originaire des Îles Féroé (position 22.03), le même traitement qu’aux importations de produits similaires originaires de la Communauté européenne.
 
 #### Art. 3
 
@@ -222,7 +220,15 @@ ex Chap. 23 Aliments préparés pour animaux
 
 #### Art. 4
 
-Pour les produits à base de baleine, la Suisse étend aux importations originaires des Iles Féroé le traitement qu’elle applique aux importations originaires des pays de l’AELE en maintenant l’interdiction d’importer et les restrictions à l’importation prévues dans la convention CITES.
+Pour les produits à base de baleine, la Suisse étend aux importations originaires des Îles Féroé le traitement qu’elle applique aux importations originaires des pays de l’AELE en maintenant l’interdiction d’importer et les restrictions à l’importation prévues dans la convention CITES.
+
+## Protocole 3
+
+[^annex2-lvlu2-1]
+
+[^annex2-lvlu2-1]: Mis à jour par l’Ar. du 27 oct. 2025, approuvé par l’Ass. féd. le 18 mars 2021, en vigueur depuis le 1<sup>er</sup> juin 2026 ([RO 2026 177](https://fedlex.data.admin.ch/eli/oc/2026/177); [2021 644](https://fedlex.data.admin.ch/eli/oc/2021/644)art. 1, al, 2, let. b, ch. 17; [FF 2021 344](https://fedlex.data.admin.ch/eli/fga/2021/344)). Ce Prot. n’est publié ni dans le RO, ni dans le RS. Il peut être obtenu en version originale anglaise auprès de l’Office fédéral des constructions et de la logistique, Diffusions publications, 3003 Berne, et est disponible sur le site du SECO: [www.seco.admin.ch/seco/fr/home/Aussenwirtschaftspolitik\_Wirtschaftliche\_Zusammen arbeit/Wirtschaftsbeziehungen/Freihandelsabkommen/partner\_fha/europa/faeroeer-inseln.html](https://www.seco.admin.ch/seco/fr/home/Aussenwirtschaftspolitik_Wirtschaftliche_Zusammenarbeit/Wirtschaftsbeziehungen/Freihandelsabkommen/partner_fha/europa/faeroeer-inseln.html).
+
+Mentionné à l’art. 2
 
 ## Protocole 4
 
