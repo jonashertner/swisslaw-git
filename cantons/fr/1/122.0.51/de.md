@@ -4,13 +4,13 @@ number: "122.0.51"
 title: Verordnung über die Information über die Tätigkeit des Staatsrats und der Kantonsverwaltung
 short: InfoV
 language: de
-version: 2022-01-01
-valid_until: 2026-05-31
-version_adopted: 2022-01-31
+version: 2026-06-01
+valid_until: 2026-10-31
+version_adopted: 2026-05-26
 adopted: 2010-12-14
 in_force: 2011-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/122.0.51"
-pdf: "https://bdlf.fr.ch/api/de/versions/7105/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/8608/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Information – V
 
 (InfoV)
 
-vom 14.12.2010 (Fassung in Kraft getreten am 01.01.2022)
+vom 14.12.2010 (Fassung in Kraft getreten am 01.06.2026)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -105,6 +105,7 @@ beschliesst:
 - d) Es fördert die Kommunikation zwischen der Bevölkerung und dem Staatsrat beziehungsweise der Verwaltung.
 - e) Es kontrolliert regelmässig die Organisation und die Präsentation der Websites und achtet darauf, dass die einschlägigen Weisungen beachtet werden.
 - f) Es erstellt den Index mit den Themen und Suchwörtern, mit denen die Suche auf Internet vereinfacht wird, und stellt so weit möglich die Koordination mit dem Schweizer Portal sicher.
+- f1) Es erbringt für die Direktionen und ihre Einheiten Dienstleistungen im Bereich des Drucks, der Reproduktion und der Herausgabe von Dokumenten.
 - g) Es übt die übrigen Funktionen aus, die ihm in dieser Verordnung übertragen werden.
 
 <sup>2</sup> Es können ihm, insbesondere auf dem Gebiet der internen Information, weitere Aufgaben zugewiesen werden.

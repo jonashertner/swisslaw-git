@@ -4,13 +4,13 @@ number: "122.0.51"
 title: "Ordonnance relative à l'information sur les activités du Conseil d'Etat et de l'administration"
 short: OInf
 language: fr
-version: 2022-01-01
-valid_until: 2026-05-31
-version_adopted: 2022-01-31
+version: 2026-06-01
+valid_until: 2026-10-31
+version_adopted: 2026-05-26
 adopted: 2010-12-14
 in_force: 2011-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/122.0.51"
-pdf: "https://bdlf.fr.ch/api/fr/versions/7105/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/8608/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +21,7 @@ Information – O
 
 (OInf)
 
-du 14.12.2010 (version entrée en vigueur le 01.01.2022)
+du 14.12.2010 (version entrée en vigueur le 01.06.2026)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -105,6 +105,7 @@ Arrête:
 - d) il développe la communication entre la population d'une part, le Conseil d'Etat et l'administration d'autre part;
 - e) il exerce un contrôle régulier sur l'organisation et la présentation des sites Internet et veille au respect des directives en la matière;
 - f) il établit l'index des thèmes et mots clés destiné à faciliter la recherche sur les sites Internet et assure, dans la mesure du possible, la coordination avec le Portail suisse;
+- f1) il fournit aux Directions et à leurs unités des prestations en matière d'impression, de reproduction et d'édition de documents;
 - g) il exerce les autres fonctions qui lui sont confiées par la présente ordonnance.
 
 <sup>2</sup> D'autres tâches peuvent lui être attribuées, notamment dans le domaine de l'information interne.
