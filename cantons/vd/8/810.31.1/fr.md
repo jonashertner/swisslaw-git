@@ -4,7 +4,7 @@ number: "810.31.1"
 title: "RÈGLEMENT du 07.05.2008 fixant les normes relatives à la comptabilité, au contrôle des comptes et à l’analyse des établissements médico-sociaux, des lits de type C des hôpitaux et des centres de traitement et de réadaptation, reconnus d’intérêt public, ainsi que des homes non médicalisés (RCCMS)"
 short: RCCMS
 language: fr
-version: 2018-01-01
+version: 2026-06-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/810.31.1?id=a1fb85cc-f9e5-40be-b10b-433cbbe8da46"
 ---
 
@@ -73,9 +73,9 @@ les établissements médico-sociaux reconnus d'intérêt public au sens de l'art
 
 **Autorité compétente [^2-3]**
 
-<sup>1</sup> Le Service des assurances sociales et de l'hébergement (ci-après : le SASH) est l'autorité d'application du présent règlement.
+<sup>1</sup> La Direction Générale de la Cohésion Sociale (ci-après : la DGCS) est l'autorité d'application du présent règlement.
 
-[^2-3]: Modif. 3 du 11.03.2026: Modification Al. 1; entrée en vigueur au 01.06.2026; Introduction Art. 7, Al. 1, e; entrée en vigueur au 01.06.2026
+[^2-3]: Modif. 3 du 11.03.2026: Modification Al. 1; entrée en vigueur au 01.06.2026
 
 ## Chapitre II Comptabilité et reporting
 
@@ -83,21 +83,21 @@ les établissements médico-sociaux reconnus d'intérêt public au sens de l'art
 
 **Principes et directives comptables [^chapterChapitreII-1]**
 
-<sup>1</sup> Les établissements et les entités établissent des comptes annuels et remplissent la formule de reporting à l'intention du SASH.
+<sup>1</sup> Les établissements et les entités établissent des comptes annuels et remplissent la formule de reporting à l'intention de la DGCS.
 
-<sup>2</sup> Les comptes annuels et la formule de reporting sont établis conformément aux dispositions légales et aux principes comptables applicables à la forme juridique que revêt l'établissement ou l'entité ainsi qu'aux directives comptables édictées par le SASH.
+<sup>2</sup> Les comptes annuels et la formule de reporting sont établis conformément aux dispositions légales et aux principes comptables applicables à la forme juridique que revêt l'établissement ou l'entité ainsi qu'aux directives comptables édictées par la DGCS.
 
-<sup>3</sup> Le SASH fixe annuellement les directives comptables applicables aux établissements et aux entités.
+<sup>3</sup> La DGCS fixe annuellement les directives comptables applicables aux établissements et aux entités.
 
-[^chapterChapitreII-1]: Modif. 3 du 11.03.2026: Modification Al. 1-3; entrée en vigueur au 01.06.2026; Introduction Art. 7, Al. 1, e; entrée en vigueur au 01.06.2026
+[^chapterChapitreII-1]: Modif. 3 du 11.03.2026: Modification Al. 1-3; entrée en vigueur au 01.06.2026
 
 #### Art. 5
 
 **Plan comptable [^4-1]**
 
-<sup>1</sup> Les établissements et les entités sont tenus d'appliquer le plan comptable de référence élaboré par le SASH.
+<sup>1</sup> Les établissements et les entités sont tenus d'appliquer le plan comptable de référence élaboré par la DGCS.
 
-[^4-1]: Modif. 3 du 11.03.2026: Modification Al. 1; entrée en vigueur au 01.06.2026; Introduction Art. 7, Al. 1, e; entrée en vigueur au 01.06.2026
+[^4-1]: Modif. 3 du 11.03.2026: Modification Al. 1; entrée en vigueur au 01.06.2026
 
 #### Art. 6
 
@@ -111,22 +111,23 @@ les établissements médico-sociaux reconnus d'intérêt public au sens de l'art
 
 <sup>2</sup> La formule de reporting se présente sous une forme informatisée. Son utilisation est obligatoire pour les établissements et les entités.
 
-<sup>3</sup> Le SASH examine annuellement l'opportunité de modifier la formule de reporting.
+<sup>3</sup> La DGCS examine annuellement l'opportunité de modifier la formule de reporting.
 
-[^5-1]: Modif. 3 du 11.03.2026: Modification Al. 3; entrée en vigueur au 01.06.2026; Introduction Art. 7, Al. 1, e; entrée en vigueur au 01.06.2026
+[^5-1]: Modif. 3 du 11.03.2026: Modification Al. 3; entrée en vigueur au 01.06.2026
 
 #### Art. 7
 
 **Documents remis [^6-1]**
 
-<sup>1</sup> Sur la base de la directive édictée par le SASH, les établissements et les entités doivent lui fournir :
+<sup>1</sup> Sur la base de la directive édictée par la DGCS, les établissements et les entités doivent lui fournir:
 
 - a. la formule de reporting et ses annexes (y compris la déclaration d'intégralité) sous formats informatique et papier ;
 - b. les comptes annuels approuvés par l'organe suprême de l'établissement ou de l'entité ;
 - c. le rapport écrit de l'organe de révision des comptes annuels, tel que défini par l'article 12 du règlement ;
 - d. ...
+- e. les rapports établis par l'organe de révision, au sens de l'article 728b, alinéas 1 et 2 CO ou article 729b CO.
 
-<sup>2</sup> Le certificat de salaire du directeur, tel que fourni à l'administration cantonale des impôts, est adressé sous pli séparé au Chef de service du SASH.
+<sup>2</sup> Le certificat de salaire du directeur, tel que fourni à l'administration cantonale des impôts, est adressé sous pli séparé au Chef de service de la DGCS.
 
 [^6-1]: Modif. 1 du 26.04.2017: Modification Al. 1 a-c; entrée en vigueur au 01.07.2017; Abrogation Al. 1 d; entrée en vigueur au 01.07.2017; Introduction Al. 2; entrée en vigueur au 01.07.2017 · Modif. 3 du 11.03.2026: Modification Al. 1; entrée en vigueur au 01.06.2026; Introduction Al. 1, e; entrée en vigueur au 01.06.2026; Modification Al. 2; entrée en vigueur au 01.06.2026
 
@@ -134,11 +135,11 @@ les établissements médico-sociaux reconnus d'intérêt public au sens de l'art
 
 **Délai pour la remise des documents [^7-1]**
 
-<sup>1</sup> Les documents requis doivent parvenir au SASH au plus tard le 31 mai de chaque année.
+<sup>1</sup> Les documents requis doivent parvenir à la DGCS au plus tard le 31 mai de chaque année.
 
-<sup>2</sup> En cas de cession d'un établissement en cours d'exercice, l'ancienne direction remet au SASH, une fois les comptes clôturés, un reporting correspondant à la période de fin d'activité.
+<sup>2</sup> En cas de cession d'un établissement en cours d'exercice, l'ancienne direction remet à la DGCS, une fois les comptes clôturés, un reporting correspondant à la période de fin d'activité.
 
-[^7-1]: Modif. 3 du 11.03.2026: Introduction Art. 7, Al. 1, e; entrée en vigueur au 01.06.2026; Modification Al. 1-2; entrée en vigueur au 01.06.2026
+[^7-1]: Modif. 3 du 11.03.2026: Modification Al. 1-2; entrée en vigueur au 01.06.2026
 
 ## Chapitre III Révision des comptes
 
@@ -173,49 +174,49 @@ les établissements médico-sociaux reconnus d'intérêt public au sens de l'art
 - e. du respect des prescriptions légales et réglementaires concernant l'emploi du bénéfice ;
 - f. du respect des prescriptions légales et réglementaires lors de l'élaboration du reporting.
 
-<sup>2</sup> Dans le cadre de l'examen de l'affectation conforme des ressources allouées, le SASH peut décider annuellement de points particuliers de contrôle à examiner par l'organe de révision.
+<sup>2</sup> Dans le cadre de l'examen de l'affectation conforme des ressources allouées, la DGCS peut décider annuellement de points particuliers de contrôle à examiner par l'organe de révision.
 
-[^10-2]: Modif. 3 du 11.03.2026: Introduction Art. 7, Al. 1, e; entrée en vigueur au 01.06.2026; Modification Al. 2; entrée en vigueur au 01.06.2026
+[^10-2]: Modif. 3 du 11.03.2026: Modification Al. 2; entrée en vigueur au 01.06.2026
 
 #### Art. 12
 
 **Rapport et vérification des comptes [^11-1]**
 
-<sup>1</sup> L'organe de révision établit à l'intention du SASH un rapport écrit sur le résultat de ses vérifications. Le modèle figurant en annexe au présent règlement est applicable.
+<sup>1</sup> L'organe de révision établit à l'intention de la DGCS un rapport écrit sur le résultat de ses vérifications. Le modèle figurant en annexe au présent règlement est applicable.
 
 <sup>2</sup> Ce rapport intègre :
 
 - a. toutes les constatations relatives aux points contrôlés en vertu de l'article 11, premier alinéa, du présent règlement ;
 - b. des indications attestant de l'indépendance de l'organe de révision ;
-- c. une recommandation d'approuver les comptes, avec ou sans réserves, ou de les refuser.
+- c. ...
 
 <sup>3</sup> Le résultat du contrôle mentionné à l'article 11, alinéa 2, du présent règlement fait l'objet d'un rapport spécifique documenté.
 
 <sup>4</sup> Si, au cours de ses vérifications, l'organe de révision constate des violations de la loi, des règlements et directives, des statuts ou des conventions, il est tenu de le consigner dans son rapport.
 
-<sup>5</sup> En cas de non-respect du présent règlement par l'organe de révision, le département, par l'intermédiaire du SASH, peut refuser le rapport présenté et nommer un organe de révision ad hoc aux fins de procéder à une nouvelle révision des comptes, aux frais de l'établissement ou de l'entité concernés.
+<sup>5</sup> En cas de non-respect du présent règlement par l'organe de révision, le département, par l'intermédiaire de la DGCS, peut refuser le rapport présenté et nommer un organe de révision ad hoc aux fins de procéder à une nouvelle révision des comptes, aux frais de l'établissement ou de l'entité concernés.
 
-[^11-1]: Modif. 3 du 11.03.2026: Introduction Art. 7, Al. 1, e; entrée en vigueur au 01.06.2026; Modification Al. 1; entrée en vigueur au 01.06.2026; Abrogation Al. 2, c; entrée en vigueur au 01.06.2026; Modification Al. 5; entrée en vigueur au 01.06.2026
+[^11-1]: Modif. 3 du 11.03.2026: Modification Al. 1; entrée en vigueur au 01.06.2026; Abrogation Al. 2, c; entrée en vigueur au 01.06.2026; Modification Al. 5; entrée en vigueur au 01.06.2026
 
 #### Art. 13
 
 **Durée de fonction de l'organe de révision [^12-1]**
 
-<sup>1</sup> Sous réserve des dispositions du droit fédéral, l'organe de révision est élu pour une durée de un à trois exercices comptables. Son mandat prend fin avec l'approbation des derniers comptes annuels. Il peut être reconduit dans ses fonctions, étant précisé que la personne chargée de la révision ne peut exercer son mandat plus de six ans de suite.
+<sup>1</sup> L'article 730a CO s'applique par analogie à la durée de fonction de l'organe de révision.
 
-[^12-1]: Modif. 3 du 11.03.2026: Introduction Art. 7, Al. 1, e; entrée en vigueur au 01.06.2026; Modification Al. 1; entrée en vigueur au 01.06.2026
+[^12-1]: Modif. 3 du 11.03.2026: Modification Al. 1; entrée en vigueur au 01.06.2026
 
 #### Art. 14
 
 **Empêchement d'accomplir un mandat [^13-1]**
 
-<sup>1</sup> En cas d'impossibilité d'accomplir son mandat ou lorsqu'il prend fin, l'organe de révision informe immédiatement le SASH.
+<sup>1</sup> En cas d'impossibilité d'accomplir son mandat ou lorsqu'il prend fin, l'organe de révision informe immédiatement la DGCS.
 
 <sup>2</sup> En cas de démission, l'organe de révision en indique les motifs par écrit à l'organe suprême de l'établissement ou de l'entité ; il transmet une copie de ce courrier au SASH.
 
-<sup>3</sup> En cas de révocation de l'organe de révision par l'organe suprême de l'établissement ou de l'entité, ce dernier en indique les motifs par écrit audit organe et transmet une copie de ce courrier au SASH.
+<sup>3</sup> En cas de révocation de l'organe de révision par l'organe suprême de l'établissement ou de l'entité, ce dernier en indique les motifs par écrit audit organe et transmet une copie de ce courrier à la DGCS.
 
-[^13-1]: Modif. 3 du 11.03.2026: Introduction Art. 7, Al. 1, e; entrée en vigueur au 01.06.2026; Modification Al. 1,3; entrée en vigueur au 01.06.2026
+[^13-1]: Modif. 3 du 11.03.2026: Modification Al. 1,3; entrée en vigueur au 01.06.2026
 
 ## Chapitre IV Analyse, contrôle et surveillance des aspects juridiques, économiques, comptables et financiers des établissements et entités
 
@@ -223,11 +224,11 @@ les établissements médico-sociaux reconnus d'intérêt public au sens de l'art
 
 **Portée de l'analyse [^chapterChapitreIV-1]**
 
-<sup>1</sup> Le département, par l'intermédiaire du SASH, peut mener une analyse approfondie de chaque établissement et entité. Cette analyse a pour objectif de contrôler le respect des directives, du cadre conventionnel et de la législation applicables, ainsi que de déterminer les conditions à respecter par les établissements et les entités.
+<sup>1</sup> Le département, par l'intermédiaire de la DGCS, peut mener une analyse approfondie de chaque établissement et entité. Cette analyse a pour objectif de contrôler le respect des directives, du cadre conventionnel et de la législation applicables, ainsi que de déterminer les conditions à respecter par les établissements et les entités.
 
 <sup>2</sup> A cet effet, les établissements et entités ont l'obligation de produire toutes les pièces utiles à l'appréciation juridique, économique, comptable et financière de leur situation en application de la LPFES [^15-1] , de la LVPC[^15-2] et de la LAPRAMS [^15-3] .
 
-[^chapterChapitreIV-1]: Modif. 3 du 11.03.2026: Introduction Art. 7, Al. 1, e; entrée en vigueur au 01.06.2026; Modification Al. 1; entrée en vigueur au 01.06.2026
+[^chapterChapitreIV-1]: Modif. 3 du 11.03.2026: Modification Al. 1; entrée en vigueur au 01.06.2026
 [^15-1]: Loi du 05.12.1978 sur la planification et le financement des établissement sanitaires d'intérêt public ([BLV 810.01](https://prestations.vd.ch/pub/blv-publication/actes/consolide/810.01?id=be2f6c06-545a-4c48-b908-a0fef1ecae74))
 [^15-2]: Loi du 13.11.2007 sur les prestations complémentaires à l'assurance-vieillesse, survivants et invalidité [(BLV 831.21)](https://prestations.vd.ch/pub/blv-publication/actes/consolide/831.21?id=6e0918d1-9c59-4b02-8cc5-2cd9be0582b8)
 [^15-3]: Loi du 24.01.2006 d'aide aux personnes recourant à l'action médico-sociale ([BLV 850.11](https://prestations.vd.ch/pub/blv-publication/actes/consolide/850.11?id=2fa7a6aa-651f-4e5c-88ba-73796e00dd98))
@@ -236,20 +237,20 @@ les établissements médico-sociaux reconnus d'intérêt public au sens de l'art
 
 **Contrôle et surveillance [^15-4]**
 
-<sup>1</sup> Le SASH est habilité à procéder au sein des établissements et des entités à la vérification des données comptables, financières et statistiques.
+<sup>1</sup> La DGCS est habilitée à procéder au sein des établissements et des entités à la vérification des données comptables, financières et statistiques.
 
 <sup>2</sup> A cet effet, toute activité ou prestation de soins et socio-hôtelière, y compris sous-traitée, couverte par la LPFES [^16-1] , financée directement ou indirectement par les assurances sociales ou les régimes sociaux, et délivrée par un établissement ou une entité, peut faire également l'objet d'une analyse approfondie dans les limites du présent règlement.
 
-[^15-4]: Modif. 3 du 11.03.2026: Introduction Art. 7, Al. 1, e; entrée en vigueur au 01.06.2026; Modification Al. 1; entrée en vigueur au 01.06.2026
+[^15-4]: Modif. 3 du 11.03.2026: Modification Al. 1; entrée en vigueur au 01.06.2026
 [^16-1]: Loi du 05.12.1978 sur la planification et le financement des établissement sanitaires d'intérêt public ([BLV 810.01](https://prestations.vd.ch/pub/blv-publication/actes/consolide/810.01?id=be2f6c06-545a-4c48-b908-a0fef1ecae74))
 
 #### Art. 17
 
 **Mise en oeuvre [^16-2]**
 
-<sup>1</sup> Le SASH peut émettre des directives de mise en œuvre ; il est habilité à recourir à des appuis extérieurs.
+<sup>1</sup> La DGCS peut émettre des directives de mise en œuvre ; elle est habilitée à recourir à des appuis extérieurs.
 
-[^16-2]: Modif. 3 du 11.03.2026: Introduction Art. 7, Al. 1, e; entrée en vigueur au 01.06.2026; Modification Al. 1; entrée en vigueur au 01.06.2026
+[^16-2]: Modif. 3 du 11.03.2026: Modification Al. 1; entrée en vigueur au 01.06.2026
 
 #### Art. 18
 
@@ -299,6 +300,6 @@ Annexes [^22-1]
 
 1
 
-[AnnexeRCCMS070508 Rapport Organe de Révision](https://prestations.vd.ch/pub/blv-publication/api/actes/a1fb85cc-f9e5-40be-b10b-433cbbe8da46/annexes/1?dmev=01.01.2018)
+[Rapport vérifications au sens de l'art.11](https://prestations.vd.ch/pub/blv-publication/api/actes/a1fb85cc-f9e5-40be-b10b-433cbbe8da46/annexes/1?dmev=01.06.2026)
 
-[^22-1]: Modif. 3 du 11.03.2026: Introduction Art. 7, Al. 1, e; entrée en vigueur au 01.06.2026; Modification Annexes, Ann. 1; entrée en vigueur au 01.06.2026
+[^22-1]: Modif. 3 du 11.03.2026: Modification Annexes, Ann. 1; entrée en vigueur au 01.06.2026
