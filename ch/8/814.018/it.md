@@ -4,11 +4,11 @@ title: "Ordinanza del 12 novembre 1997 relativa alla tassa d'incentivazione sui 
 short: OCOV
 eli: "https://fedlex.data.admin.ch/eli/cc/1997/2972_2972_2972"
 language: it
-version: 2024-01-01
+version: 2026-06-01
 adopted: 1997-11-12
 in_force: 1998-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1997/2972_2972_2972/20240101/it/xml/fedlex-data-admin-ch-eli-cc-1997-2972_2972_2972-20240101-it-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1997/2972_2972_2972/20240101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1997/2972_2972_2972/20260601/it/xml/fedlex-data-admin-ch-eli-cc-1997-2972_2972_2972-20260601-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1997/2972_2972_2972/20260601/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1997/2972_2972_2972/20240101/it"
 
 (OCOV)
 
-del 12 novembre 1997 (Stato 1° gennaio 2024)
+del 12 novembre 1997 (Stato 1° giugno 2026)
 
 Il Consiglio federale svizzero,
 
@@ -25,7 +25,7 @@ visti gli articoli 35*a* e 35*c* della legge federale del 7 ottobre 1983[^ingres
 
 ordina:
 
-[^ingress-1]: [RS 814.01](https://fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122)
+[^ingress-1]: [RS 814.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9437)
 
 ## Sezione 1: Disposizioni generali
 
@@ -82,11 +82,11 @@ I Cantoni aiutano le autorità esecutive della Confederazione, salvo quando l’
 
 <sup>6</sup> Il Dipartimento federale dell’ambiente, dei trasporti, dell’energia e delle comunicazioni (DATEC) emana, d’intesa con il Dipartimento federale delle finanze, prescrizioni sull’indennità da versare ai Cantoni per il loro aiuto nell’ambito dell’esecuzione.
 
-[^4-1]: Nuovo testo giusta il n. I dell’O del 27 giu. 2012, in vigore dal 1° gen. 2013 ([RU 2012 3785](https://fedlex.data.admin.ch/eli/oc/2012/436)).
-[^4-2]: Abrogata dal n. I dell’O del 23 feb. 2022, con effetto dal 1° gen. 2023 ([RU 2022 160](https://fedlex.data.admin.ch/eli/oc/2022/160)).
-[^4-3]: Nuovo testo giusta il n. I dell’O del 23 feb. 2022, in vigore dal 1° gen. 2023 ([RU 2022 160](https://fedlex.data.admin.ch/eli/oc/2022/160)).
-[^4-4]: Nuovo testo giusta il n. I dell’O del 23 feb. 2022, in vigore dal 1° gen. 2023 ([RU 2022 160](https://fedlex.data.admin.ch/eli/oc/2022/160)).
-[^4-5]: Nuovo testo giusta il n. I dell’O del 23 feb. 2022, in vigore dal 1° gen. 2023 ([RU 2022 160](https://fedlex.data.admin.ch/eli/oc/2022/160)).
+[^4-1]: Nuovo testo giusta la cifra I dell’O del 27 giu. 2012, in vigore dal 1° gen. 2013 ([RU 2012 3785](https://fedlex.data.admin.ch/eli/oc/2012/436)).
+[^4-2]: Abrogata dalla cifra I dell’O del 23 feb. 2022, con effetto dal 1° gen. 2023 ([RU 2022 160](https://fedlex.data.admin.ch/eli/oc/2022/160)).
+[^4-3]: Nuovo testo giusta la cifra I dell’O del 23 feb. 2022, in vigore dal 1° gen. 2023 ([RU 2022 160](https://fedlex.data.admin.ch/eli/oc/2022/160)).
+[^4-4]: Nuovo testo giusta la cifra I dell’O del 23 feb. 2022, in vigore dal 1° gen. 2023 ([RU 2022 160](https://fedlex.data.admin.ch/eli/oc/2022/160)).
+[^4-5]: Nuovo testo giusta la cifra I dell’O del 23 feb. 2022, in vigore dal 1° gen. 2023 ([RU 2022 160](https://fedlex.data.admin.ch/eli/oc/2022/160)).
 
 #### Art. 5
 
@@ -96,9 +96,9 @@ I Cantoni aiutano le autorità esecutive della Confederazione, salvo quando l’
 
 <sup>2</sup> La Commissione consiglia la Confederazione e i Cantoni nelle questioni relative alla tassa d’incentivazione sui COV, in particolare nell’adattamento degli allegati e nell’esecuzione dell’esenzione dalla tassa grazie a provvedimenti per ridurre le emissioni.[^5-3]
 
-[^5-1]: Nuovo testo giusta il n. I dell’O dell’11 mag. 2011, in vigore dal 1° gen. 2012 ([RU 2011 1951](https://fedlex.data.admin.ch/eli/oc/2011/289)).
-[^5-2]: Nuova espr. giusta il n. I dell’O del 27 giu. 2012, in vigore dal 1° gen. 2013 ([RU 2012 3785](https://fedlex.data.admin.ch/eli/oc/2012/436)). Di detta mod. é tenuto conto in tutto il presente testo.
-[^5-3]: Nuovo testo giusta il n. I dell’O del 27 giu. 2012, in vigore dal 1° gen. 2013 ([RU 2012 3785](https://fedlex.data.admin.ch/eli/oc/2012/436)).
+[^5-1]: Nuovo testo giusta la cifra I dell’O dell’11 mag. 2011, in vigore dal 1° gen. 2012 ([RU 2011 1951](https://fedlex.data.admin.ch/eli/oc/2011/289)).
+[^5-2]: Nuova espr. giusta la cifra I dell’O del 27 giu. 2012, in vigore dal 1° gen. 2013 ([RU 2012 3785](https://fedlex.data.admin.ch/eli/oc/2012/436)). Di detta mod. é tenuto conto in tutto il presente testo.
+[^5-3]: Nuovo testo giusta la cifra I dell’O del 27 giu. 2012, in vigore dal 1° gen. 2013 ([RU 2012 3785](https://fedlex.data.admin.ch/eli/oc/2012/436)).
 
 #### Art. 6
 
@@ -112,7 +112,7 @@ I Cantoni aiutano le autorità esecutive della Confederazione, salvo quando l’
 
 [^sec3-1]
 
-[^sec3-1]: Nuovo testo giusta il n. I dell’O del 14 dic. 1998, in vigore dal 1° gen. 1999 ([RU 1999 604](https://fedlex.data.admin.ch/eli/oc/1999/88)).
+[^sec3-1]: Nuovo testo giusta la cifra I dell’O del 14 dic. 1998, in vigore dal 1° gen. 1999 ([RU 1999 604](https://fedlex.data.admin.ch/eli/oc/1999/88)).
 
 #### Art. 7
 
@@ -120,7 +120,7 @@ I Cantoni aiutano le autorità esecutive della Confederazione, salvo quando l’
 
 L’aliquota della tassa è fissata a franchi 3 per ogni chilogrammo di COV.
 
-[^7-1]: Nuovo testo giusta il n. I dell’O del 2 apr. 2008, in vigore dal 1° gen. 2009 ([RU 2008 1765](https://fedlex.data.admin.ch/eli/oc/2008/262)).
+[^7-1]: Nuovo testo giusta la cifra I dell’O del 2 apr. 2008, in vigore dal 1° gen. 2009 ([RU 2008 1765](https://fedlex.data.admin.ch/eli/oc/2008/262)).
 
 ## Sezione 4: Esenzione dalla tassa e bilancio dei COV
 
@@ -139,8 +139,8 @@ Sono esenti dalla tassa i COV presenti nelle seguenti miscele o oggetti:
 
 <sup>3</sup> Se le miscele e gli oggetti ai sensi del capoverso 1 lettere a e b vengono prodotti in Svizzera, su domanda del fabbricante, i COV in essi presenti sono esenti dalla tassa.
 
-[^8-1]: Nuovo testo giusta il n. I dell’O del 23 feb. 2022, in vigore dal 1° gen. 2023 ([RU 2022 160](https://fedlex.data.admin.ch/eli/oc/2022/160)).
-[^8-2]: Abrogato dal n. I dell’O del 23 feb. 2022, con effetto dal 1° gen. 2023 ([RU 2022 160](https://fedlex.data.admin.ch/eli/oc/2022/160)).
+[^8-1]: Nuovo testo giusta la cifra I dell’O del 23 feb. 2022, in vigore dal 1° gen. 2023 ([RU 2022 160](https://fedlex.data.admin.ch/eli/oc/2022/160)).
+[^8-2]: Abrogato dalla cifra I dell’O del 23 feb. 2022, con effetto dal 1° gen. 2023 ([RU 2022 160](https://fedlex.data.admin.ch/eli/oc/2022/160)).
 
 #### Art. 9
 
@@ -152,8 +152,8 @@ I COV impiegati in un impianto stazionario ai sensi dell’articolo 2 capoverso 
 - b. il dispositivo di abbattimento degli effluenti gassosi (dispositivo di abbattimento) impiegato a tal fine è tecnicamente in buono stato e disponibile durante il periodo d’esercizio al 95 per cento; e
 - c. le emissioni di COV dell’impianto stazionario non evacuate mediante il dispositivo di abbattimento (emissioni diffuse di COV) sono ridotte secondo l’allegato 3.
 
-[^9-1]: Nuovo testo giusta il n. I dell’O del 27 giu. 2012, in vigore dal 1° gen. 2013 ([RU 2012 3785](https://fedlex.data.admin.ch/eli/oc/2012/436)).
-[^9-2]: [RS 814.318.142.1](https://fedlex.data.admin.ch/eli/cc/1986/208_208_208)
+[^9-1]: Nuovo testo giusta la cifra I dell’O del 27 giu. 2012, in vigore dal 1° gen. 2013 ([RU 2012 3785](https://fedlex.data.admin.ch/eli/oc/2012/436)).
+[^9-2]: [RS 814.318.142.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9521)
 
 #### Art. 9a
 
@@ -180,10 +180,10 @@ La composizione di un gruppo di impianti può essere modificata in caso di:
 
 <sup>4</sup> … [^9a-4]
 
-[^9a-1]: Introdotto dal n. I dell’O del 27 giu. 2012, in vigore dal 1° gen. 2013 ([RU 2012 3785](https://fedlex.data.admin.ch/eli/oc/2012/436)).
-[^9a-2]: Nuovo testo giusta il n. I dell’O del 23 feb. 2022, in vigore dal 1° gen. 2023 ([RU 2022 160](https://fedlex.data.admin.ch/eli/oc/2022/160)).
-[^9a-3]: Nuovo testo giusta il n. I dell’O del 23 feb. 2022, in vigore dal 1° gen. 2023 ([RU 2022 160](https://fedlex.data.admin.ch/eli/oc/2022/160)). La correzione del 25 nov. 2022 della lett. e concerne soltanto il testo francesehttps://www.fedlex.admin.ch/eli/oc/2022/680/it ([RU 2022 714](https://fedlex.data.admin.ch/eli/oc/2022/714)).
-[^9a-4]: Abrogato dal n. I dell’O del 23 feb. 2022, con effetto dal 1° gen. 2023 ([RU 2022 160](https://fedlex.data.admin.ch/eli/oc/2022/160)).
+[^9a-1]: Introdotto dalla cifra I dell’O del 27 giu. 2012, in vigore dal 1° gen. 2013 ( [RU 2012 3785](https://fedlex.data.admin.ch/eli/oc/2012/436)).
+[^9a-2]: Nuovo testo giusta la cifra I dell’O del 23 feb. 2022, in vigore dal 1° gen. 2023 ([RU 2022 160](https://fedlex.data.admin.ch/eli/oc/2022/160)).
+[^9a-3]: Nuovo testo giusta la cifra I dell’O del 23 feb. 2022, in vigore dal 1° gen. 2023 ([RU 2022 160](https://fedlex.data.admin.ch/eli/oc/2022/160)). La correzione del 25 nov. 2022 della lett. e concerne soltanto il testo francesehttps://www.fedlex.admin.ch/eli/oc/2022/680/it ([RU 2022 714](https://fedlex.data.admin.ch/eli/oc/2022/714)).
+[^9a-4]: Abrogato dalla cifra I dell’O del 23 feb. 2022, con effetto dal 1° gen. 2023 ([RU 2022 160](https://fedlex.data.admin.ch/eli/oc/2022/160)).
 
 #### Art. 9b
 
@@ -205,7 +205,7 @@ Se, a causa della sostituzione del dispositivo di abbattimento, durante un anno 
 - b. l’autorità cantonale è stata previamente informata della prevista interruzione del dispositivo di abbattimento; e
 - c. i lavori di sostituzione sono stati effettuati durante le vacanze aziendali o in periodi di bassa produzione.
 
-[^9b-1]: Introdotto dal n. I dell’O del 27 giu. 2012, in vigore dal 1° gen. 2013 ([RU 2012 3785](https://fedlex.data.admin.ch/eli/oc/2012/436)).
+[^9b-1]: Introdotto dalla cifra I dell’O del 27 giu. 2012, in vigore dal 1° gen. 2013 ([RU 2012 3785](https://fedlex.data.admin.ch/eli/oc/2012/436)).
 
 #### Art. 9c
 
@@ -215,13 +215,13 @@ Se, a causa della sostituzione del dispositivo di abbattimento, durante un anno 
 
 <sup>2</sup> Le emissioni di COV da impianti stazionari che in seguito a un adeguamento secondo il capoverso 1 non sono più ridotte secondo i requisiti di cui all’allegato 3 rimangono esenti dalla tassa se l’impianto torna a soddisfare i requisiti dell’allegato 3 al più tardi entro tre anni dall’entrata in vigore degli adeguamenti.
 
-[^9c-1]: Introdotto dal n. I dell’O del 27 giu. 2012 ([RU 2012 3785](https://fedlex.data.admin.ch/eli/oc/2012/436)). Nuovo testo giusta il n. I dell’O del 23 feb. 2022, in vigore dal 1° gen. 2023 ([RU 2022 160](https://fedlex.data.admin.ch/eli/oc/2022/160)).
+[^9c-1]: Introdotto dalla cifra I dell’O del 27 giu. 2012 ([RU 2012 3785](https://fedlex.data.admin.ch/eli/oc/2012/436)). Nuovo testo giusta la cifra I dell’O del 23 feb. 2022, in vigore dal 1° gen. 2023 ([RU 2022 160](https://fedlex.data.admin.ch/eli/oc/2022/160)).
 
 #### Art. 9d a 9f
 
 [^9d9f-1]
 
-[^9d9f-1]: Introdotti dal n. I dell’O del 27 giu. 2012 ([RU 2012 3785](https://fedlex.data.admin.ch/eli/oc/2012/436)). Abrogati dal n. I dell’O del 23 feb. 2022, con effeto dal 1° gen. 2023 ([RU 2022 160](https://fedlex.data.admin.ch/eli/oc/2022/160)).
+[^9d9f-1]: Introdotti dalla cifra I dell’O del 27 giu. 2012 ([RU 2012 3785](https://fedlex.data.admin.ch/eli/oc/2012/436)). Abrogati dalla cifra I dell’O del 23 feb. 2022, con effeto dal 1° gen. 2023 ([RU 2022 160](https://fedlex.data.admin.ch/eli/oc/2022/160)).
 
 #### Art. 9g
 
@@ -231,9 +231,9 @@ Se, a causa della sostituzione del dispositivo di abbattimento, durante un anno 
 
 <sup>2</sup> … [^9g-3]
 
-[^9g-1]: Introdotto dal n. I dell’O del 27 giu. 2012, in vigore dal 1° gen. 2013 ([RU 2012 3785](https://fedlex.data.admin.ch/eli/oc/2012/436)).
-[^9g-2]: Nuovo testo giusta il n. I dell’O del 23 feb. 2022, in vigore dal 1° gen. 2023 ([RU 2022 160](https://fedlex.data.admin.ch/eli/oc/2022/160)).
-[^9g-3]: Abrogato dal n. I dell’O del 23 feb. 2022, con effetto dal 1° gen. 2023 ([RU 2022 160](https://fedlex.data.admin.ch/eli/oc/2022/160)).
+[^9g-1]: Introdotto dalla cifra I dell’O del 27 giu. 2012, in vigore dal 1° gen. 2013 ([RU 2012 3785](https://fedlex.data.admin.ch/eli/oc/2012/436)).
+[^9g-2]: Nuovo testo giusta la cifra I dell’O del 23 feb. 2022, in vigore dal 1° gen. 2023 ([RU 2022 160](https://fedlex.data.admin.ch/eli/oc/2022/160)).
+[^9g-3]: Abrogato dalla cifra I dell’O del 23 feb. 2022, con effetto dal 1° gen. 2023 ([RU 2022 160](https://fedlex.data.admin.ch/eli/oc/2022/160)).
 
 #### Art. 9h
 
@@ -245,15 +245,15 @@ Se, a causa della sostituzione del dispositivo di abbattimento, durante un anno 
 
 <sup>3</sup> Se la prova non può essere fornita, durante il corrispondente anno d’esercizio l’esenzione dalla tassa per i COV impiegati nell’impianto stazionario è sospesa.
 
-[^9h-1]: Introdotto dal n. I dell’O del 27 giu. 2012, in vigore dal 1° gen. 2013 ([RU 2012 3785](https://fedlex.data.admin.ch/eli/oc/2012/436)).
-[^9h-2]: Nuovo testo giusta il n. I dell’O del 23 feb. 2022, in vigore dal 1° gen. 2023 ([RU 2022 160](https://fedlex.data.admin.ch/eli/oc/2022/160)).
-[^9h-3]: Nuovo testo giusta il n. I dell’O del 23 feb. 2022, in vigore dal 1° gen. 2023 ([RU 2022 160](https://fedlex.data.admin.ch/eli/oc/2022/160)).
+[^9h-1]: Introdotto dalla cifra I dell’O del 27 giu. 2012, in vigore dal 1° gen. 2013 ([RU 2012 3785](https://fedlex.data.admin.ch/eli/oc/2012/436)).
+[^9h-2]: Nuovo testo giusta la cifra I dell’O del 23 feb. 2022, in vigore dal 1° gen. 2023 ([RU 2022 160](https://fedlex.data.admin.ch/eli/oc/2022/160)).
+[^9h-3]: Nuovo testo giusta la cifra I dell’O del 23 feb. 2022, in vigore dal 1° gen. 2023 ([RU 2022 160](https://fedlex.data.admin.ch/eli/oc/2022/160)).
 
 #### Art. 9i
 
 [^9i-1]
 
-[^9i-1]: Introdotto dal n. I dell’O del 25 ott. 2017 ([RU 2017 5953](https://fedlex.data.admin.ch/eli/oc/2017/651)). Abrogato dal n. I dell’O del 23 feb. 2022, con effeto dal 1° gen. 2023 ([RU 2022 160](https://fedlex.data.admin.ch/eli/oc/2022/160)).
+[^9i-1]: Introdotto dalla cifra I dell’O del 25 ott. 2017 ([RU 2017 5953](https://fedlex.data.admin.ch/eli/oc/2017/651)). Abrogato dalla cifra I dell’O del 23 feb. 2022, con effeto dal 1° gen. 2023 ([RU 2022 160](https://fedlex.data.admin.ch/eli/oc/2022/160)).
 
 #### Art. 9j
 
@@ -261,7 +261,7 @@ Se, a causa della sostituzione del dispositivo di abbattimento, durante un anno 
 
 Gli impianti stazionari sono esenti dalla tassa a partire dal momento in cui soddisfano le condizioni di esenzione di cui all’articolo 9.
 
-[^9j-1]: Introdotto dal n. I dell’O del 25 ott. 2017 ([RU 2017 5953](https://fedlex.data.admin.ch/eli/oc/2017/651)). Nuovo testo giusta il n. I dell’O del 23 feb. 2022, in vigore dal 1° gen. 2023 ([RU 2022 160](https://fedlex.data.admin.ch/eli/oc/2022/160)).
+[^9j-1]: Introdotto dalla cifra I dell’O del 25 ott. 2017 ([RU 2017 5953](https://fedlex.data.admin.ch/eli/oc/2017/651)). Nuovo testo giusta la cifra I dell’O del 23 feb. 2022, in vigore dal 1° gen. 2023 ([RU 2022 160](https://fedlex.data.admin.ch/eli/oc/2022/160)).
 
 #### Art. 9k
 
@@ -271,7 +271,7 @@ Gli impianti stazionari sono esenti dalla tassa a partire dal momento in cui sod
 
 <sup>2</sup> Verificano le conferme almeno ogni cinque anni ed effettuano appositi sopralluoghi.
 
-[^9k-1]: Introdotto dal n. I dell’O del 23 feb. 2022, in vigore dal 1° gen. 2023 ([RU 2022 160](https://fedlex.data.admin.ch/eli/oc/2022/160)).
+[^9k-1]: Introdotto dalla cifra I dell’O del 23 feb. 2022, in vigore dal 1° gen. 2023 ([RU 2022 160](https://fedlex.data.admin.ch/eli/oc/2022/160)).
 
 #### Art. 10
 
@@ -295,8 +295,8 @@ Nel bilancio dei COV devono figurare:
 
 <sup>5</sup> Se l’onere necessario all’allestimento del bilancio dei COV è sproporzionato, la Direzione generale delle dogane può derogare ai capoversi 1 e 2.
 
-[^10-1]: Nuovo testo giusta il n. I dell’O del 14 dic. 1998, in vigore dal 1° gen. 1999 ([RU 1999 604](https://fedlex.data.admin.ch/eli/oc/1999/88)).
-[^10-2]: Nuovo testo giusta il n. I dell’O del 23 feb. 2022, in vigore dal 1° gen. 2023 ([RU 2022 160](https://fedlex.data.admin.ch/eli/oc/2022/160)).
+[^10-1]: Nuovo testo giusta la cifra I dell’O del 14 dic. 1998, in vigore dal 1° gen. 1999 ([RU 1999 604](https://fedlex.data.admin.ch/eli/oc/1999/88)).
+[^10-2]: Nuovo testo giusta la cifra I dell’O del 23 feb. 2022, in vigore dal 1° gen. 2023 ([RU 2022 160](https://fedlex.data.admin.ch/eli/oc/2022/160)).
 
 ## Sezione 5: Riscossione della tassa sul territorio nazionale
 
@@ -329,8 +329,8 @@ Il credito fiscale sorge:
 
 <sup>5</sup> Chi inoltra una dichiarazione incompleta o non la inoltra entro il termine deve pagare un interesse di mora sulla tassa dovuta.[^13-2]
 
-[^13-1]: Nuovo testo giusta il n. I dell’O del 27 giu. 2012, in vigore dal 1° gen. 2013 ([RU 2012 3785](https://fedlex.data.admin.ch/eli/oc/2012/436)).
-[^13-2]: Introdotto dal n. I dell’O del 14 dic. 1998, in vigore dal 1° gen. 1999 ([RU 1999 604](https://fedlex.data.admin.ch/eli/oc/1999/88)).
+[^13-1]: Nuovo testo giusta la cifra I dell’O del 27 giu. 2012, in vigore dal 1° gen. 2013 ([RU 2012 3785](https://fedlex.data.admin.ch/eli/oc/2012/436)).
+[^13-2]: Introdotto dalla cifra I dell’O del 14 dic. 1998, in vigore dal 1° gen. 1999 ([RU 1999 604](https://fedlex.data.admin.ch/eli/oc/1999/88)).
 
 #### Art. 14
 
@@ -389,9 +389,9 @@ Il termine di prescrizione si interrompe:
 
 <sup>5</sup> Le domande di restituzione, ad eccezione di quelle che riguardano l’esportazione, possono essere presentate soltanto dopo la chiusura dell’anno d’esercizio.
 
-[^18-1]: Nuovo testo giusta il n. I dell’O del 2 apr. 2008, in vigore dal 1° gen. 2009 ([RU 2008 1765](https://fedlex.data.admin.ch/eli/oc/2008/262)).
-[^18-2]: Introdotto dal n. I dell’O del 2 apr. 2008, in vigore dal 1° gen. 2009 ([RU 2008 1765](https://fedlex.data.admin.ch/eli/oc/2008/262)).
-[^18-3]: Nuovo testo giusta il n. I dell’O del 2 apr. 2008, in vigore dal 1° gen. 2009 ([RU 2008 1765](https://fedlex.data.admin.ch/eli/oc/2008/262)).
+[^18-1]: Nuovo testo giusta la cifra I dell’O del 2 apr. 2008, in vigore dal 1° gen. 2009 ([RU 2008 1765](https://fedlex.data.admin.ch/eli/oc/2008/262)).
+[^18-2]: Introdotto dalla cifra I dell’O del 2 apr. 2008, in vigore dal 1° gen. 2009 ([RU 2008 1765](https://fedlex.data.admin.ch/eli/oc/2008/262)).
+[^18-3]: Nuovo testo giusta la cifra I dell’O del 2 apr. 2008, in vigore dal 1° gen. 2009 ([RU 2008 1765](https://fedlex.data.admin.ch/eli/oc/2008/262)).
 
 #### Art. 19
 
@@ -399,9 +399,15 @@ Il termine di prescrizione si interrompe:
 
 <sup>1</sup> I diritti alla restituzione, salvo che non siano in relazione con l’esportazione, devono essere fatti valere entro sei mesi dalla fine dell’anno d’esercizio. Su domanda motivata fatta pervenire entro tale scadenza, l’UDSC può prorogare il termine di inoltro di 30 giorni.[^19-1]
 
-<sup>2</sup> Il diritto alla restituzione decade in ogni caso dopo due anni a contare dal momento in cui è sorto il motivo della restituzione.
+<sup>2</sup>
 
-[^19-1]: Nuovo testo giusta il n. I dell’O del 23 feb. 2022, in vigore dal 1° gen. 2023 ([RU 2022 160](https://fedlex.data.admin.ch/eli/oc/2022/160)).
+I diritti alla restituzione decadono se non sono fatti valere:
+
+- a. entro due anni a contare dal momento in cui è sorto il motivo della restituzione;
+- b. in caso di controllo a posteriori, entro 60 giorni a contare dal passaggio in giudicato della decisione di riscossione posticipata, se tale termine è successivo a quello di cui alla lettera a.[^19-2]
+
+[^19-1]: Nuovo testo giusta la cifra I dell’O del 23 feb. 2022, in vigore dal 1° gen. 2023 ([RU 2022 160](https://fedlex.data.admin.ch/eli/oc/2022/160)).
+[^19-2]: Nuovo testo giusta la cifra I dell’O del 22 apr. 2026, in vigore dal 1° giu. 2026 ([RU 2026 201](https://fedlex.data.admin.ch/eli/oc/2026/201)). Vedi anche la disp. trans. della mod. del 22 apr. 2016 alla fine del presente testo.
 
 #### Art. 20
 
@@ -426,7 +432,7 @@ Nella domanda riguardante COV esportati devono figurare:
 
 [^sec7-1]
 
-[^sec7-1]: Nuovo testo giusta il n. I dell’O del 14 dic. 1998, in vigore dal 1° gen. 1999 ([RU 1999 604](https://fedlex.data.admin.ch/eli/oc/1999/88)).
+[^sec7-1]: Nuovo testo giusta la cifra I dell’O del 14 dic. 1998, in vigore dal 1° gen. 1999 ([RU 1999 604](https://fedlex.data.admin.ch/eli/oc/1999/88)).
 
 #### Art. 21
 
@@ -457,15 +463,15 @@ Esso può concedere detta autorizzazione anche alle persone che utilizzano una s
 
 <sup>4</sup> La Direzione generale delle dogane tiene un registro pubblico delle persone che possiedono un’autorizzazione per l’acquisto di COV temporaneamente non gravati dalla tassa.[^21-9]
 
-[^21-1]: Nuovo testo giusta il n. I dell’O del 14 dic. 1998, in vigore dal 1° gen. 1999 ([RU 1999 604](https://fedlex.data.admin.ch/eli/oc/1999/88)).
-[^21-2]: Nuovo testo giusta il n. I dell’O del 23 feb. 2022, in vigore dal 1° gen. 2023 ([RU 2022 160](https://fedlex.data.admin.ch/eli/oc/2022/160)).
-[^21-3]: Introdotta dal n. I dell’O del 23 feb. 2022, in vigore dal 1° gen. 2023 ([RU 2022 160](https://fedlex.data.admin.ch/eli/oc/2022/160)).
-[^21-4]: Introdotta dal n. I dell’O del 23 feb. 2022, in vigore dal 1° gen. 2023 ([RU 2022 160](https://fedlex.data.admin.ch/eli/oc/2022/160)).
-[^21-5]: Nuovo testo giusta il n. I dell’O del 26 giu. 2002, in vigore dal 1° dic. 2002 ([RU 2002 3117](https://fedlex.data.admin.ch/eli/oc/2002/457)).
-[^21-6]: Introdotto dal n. I dell’O del 4 dic. 2000 ([RU 2000 3049](https://fedlex.data.admin.ch/eli/oc/2000/553)). Abrogato dal n. I dell’O del 27 giu. 2012, con effetto dal 1° gen. 2013 ([RU 2012 3785](https://fedlex.data.admin.ch/eli/oc/2012/436)).
-[^21-7]: Introdotto dal n. I dell’O del 27 giu. 2012, in vigore dal 1° gen. 2013 ([RU 2012 3785](https://fedlex.data.admin.ch/eli/oc/2012/436)).
-[^21-8]: Nuovo testo giusta il n. I dell’O del 23 feb. 2022, in vigore dal 1° gen. 2023 ([RU 2022 160](https://fedlex.data.admin.ch/eli/oc/2022/160)).
-[^21-9]: Introdotto dal n. I dell’O del 27 giu. 2012, in vigore dal 1° gen. 2013 ([RU 2012 3785](https://fedlex.data.admin.ch/eli/oc/2012/436)).
+[^21-1]: Nuovo testo giusta la cifra I dell’O del 14 dic. 1998, in vigore dal 1° gen. 1999 ([RU 1999 604](https://fedlex.data.admin.ch/eli/oc/1999/88)).
+[^21-2]: Nuovo testo giusta la cifra I dell’O del 23 feb. 2022, in vigore dal 1° gen. 2023 ([RU 2022 160](https://fedlex.data.admin.ch/eli/oc/2022/160)).
+[^21-3]: Introdotta dalla cifra I dell’O del 23 feb. 2022, in vigore dal 1° gen. 2023 ([RU 2022 160](https://fedlex.data.admin.ch/eli/oc/2022/160)).
+[^21-4]: Introdotta dalla cifra I dell’O del 23 feb. 2022, in vigore dal 1° gen. 2023 ([RU 2022 160](https://fedlex.data.admin.ch/eli/oc/2022/160)).
+[^21-5]: Nuovo testo giusta la cifra I dell’O del 26 giu. 2002, in vigore dal 1° dic. 2002 ([RU 2002 3117](https://fedlex.data.admin.ch/eli/oc/2002/457)).
+[^21-6]: Introdotto dalla cifra I dell’O del 4 dic. 2000 ([RU 2000 3049](https://fedlex.data.admin.ch/eli/oc/2000/553)). Abrogato dalla cifra I dell’O del 27 giu. 2012, con effetto dal 1° gen. 2013 ([RU 2012 3785](https://fedlex.data.admin.ch/eli/oc/2012/436)).
+[^21-7]: Introdotto dalla cifra I dell’O del 27 giu. 2012, in vigore dal 1° gen. 2013 ([RU 2012 3785](https://fedlex.data.admin.ch/eli/oc/2012/436)).
+[^21-8]: Nuovo testo giusta la cifra I dell’O del 23 feb. 2022, in vigore dal 1° gen. 2023 ([RU 2022 160](https://fedlex.data.admin.ch/eli/oc/2022/160)).
+[^21-9]: Introdotto dalla cifra I dell’O del 27 giu. 2012, in vigore dal 1° gen. 2013 ([RU 2012 3785](https://fedlex.data.admin.ch/eli/oc/2012/436)).
 
 #### Art. 22
 
@@ -479,8 +485,8 @@ Esso può concedere detta autorizzazione anche alle persone che utilizzano una s
 
 <sup>4</sup> I documenti relativi alla procedura per l’acquisto di COV temporaneamente non gravati dalla tassa devono essere conservati per cinque anni a contare dall’inoltro del bilancio dei COV.[^22-2]
 
-[^22-1]: Abrogato dal n. I dell’O del 2 apr. 2008, con effetto dal 1° giu. 2008 ([RU 2008 1765](https://fedlex.data.admin.ch/eli/oc/2008/262)).
-[^22-2]: Nuovo testo giusta il n. I dell’O del 14 dic. 1998, in vigore dal 1° gen. 1999 ([RU 1999 604](https://fedlex.data.admin.ch/eli/oc/1999/88)).
+[^22-1]: Abrogato dalla cifra I dell’O del 2 apr. 2008, con effetto dal 1° giu. 2008 ([RU 2008 1765](https://fedlex.data.admin.ch/eli/oc/2008/262)).
+[^22-2]: Nuovo testo giusta la cifra I dell’O del 14 dic. 1998, in vigore dal 1° gen. 1999 ([RU 1999 604](https://fedlex.data.admin.ch/eli/oc/1999/88)).
 
 #### Art. 22a
 
@@ -489,7 +495,7 @@ Esso può concedere detta autorizzazione anche alle persone che utilizzano una s
 La persona soggetta all’obbligo di dichiarazione che richiede una nuova imposizione doganale conformemente all’articolo 34 capoverso 3 della legge del 18 marzo 2005[^22a-2] sulle dogane deve provare che, al momento della dichiarazione doganale originaria, vi era già un’autorizzazione per l’acquisto di COV temporaneamente non gravati dalla tassa.
 
 [^22a-1]: Introdotto dell’all. 4 n. 43 dell’O del 1° nov. 2006 sulle dogane, in vigore dal 1° mag. 2007 ([RU 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
-[^22a-2]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
+[^22a-2]: [RS 631.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7812)
 
 #### Art. 22b
 
@@ -503,9 +509,9 @@ La persona soggetta all’obbligo di dichiarazione che richiede una nuova imposi
 
 <sup>4</sup> Se il periodo di proroga secondo il capoverso 2 trascorre inutilizzato, la Direzione generale delle dogane stabilisce la tassa da pagare posticipatamente in base a una valutazione coscienziosa e in considerazione delle uscite degli anni precedenti gravate dalla tassa.
 
-[^22b-1]: Introdotto dal n. I dell’O del 2 apr. 2008, in vigore dal 1° giu. 2008 ([RU 2008 1765](https://fedlex.data.admin.ch/eli/oc/2008/262)).
-[^22b-2]: Abrogato dal n. I dell’O del 23 feb. 2022, con effeto dal 1° gen. 2023 ([RU 2022 160](https://fedlex.data.admin.ch/eli/oc/2022/160)).
-[^22b-3]: Nuovo testo giusta il n. I dell’O del 23 feb. 2022, in vigore dal 1° gen. 2023 ([RU 2022 160](https://fedlex.data.admin.ch/eli/oc/2022/160)).
+[^22b-1]: Introdotto dalla cifra I dell’O del 2 apr. 2008, in vigore dal 1° giu. 2008 ([RU 2008 1765](https://fedlex.data.admin.ch/eli/oc/2008/262)).
+[^22b-2]: Abrogato dalla cifra I dell’O del 23 feb. 2022, con effeto dal 1° gen. 2023 ([RU 2022 160](https://fedlex.data.admin.ch/eli/oc/2022/160)).
+[^22b-3]: Nuovo testo giusta la cifra I dell’O del 23 feb. 2022, in vigore dal 1° gen. 2023 ([RU 2022 160](https://fedlex.data.admin.ch/eli/oc/2022/160)).
 
 #### Art. 22c
 
@@ -526,7 +532,7 @@ Il pagamento appare a rischio in particolare se:
 - b. il titolare dell’autorizzazione è in mora con il pagamento; oppure
 - c. il titolare dell’autorizzazione non ha il domicilio in Svizzera o prende disposizioni per abbandonare il domicilio, la sede sociale o lo stabilimento d’impresa in Svizzera o per farsi cancellare dal registro di commercio svizzero.
 
-[^22c-1]: Introdotto dal n. I dell’O del 23 feb. 2022, in vigore dal 1° gen. 2023 ([RU 2022 160](https://fedlex.data.admin.ch/eli/oc/2022/160)).
+[^22c-1]: Introdotto dalla cifra I dell’O del 23 feb. 2022, in vigore dal 1° gen. 2023 ([RU 2022 160](https://fedlex.data.admin.ch/eli/oc/2022/160)).
 
 ## Sezione 8: Distribuzione del prodotto della tassa
 
@@ -558,10 +564,10 @@ Gli assicuratori distribuiscono il prodotto annuo in importi uguali a tutte le p
 
 <sup>7</sup> Gli assicuratori detraggono gli importi dai premi degli assicurati esigibili nell’anno di distribuzione.[^23-6]
 
-[^23-1]: Nuovo testo giusta il n. I dell’O dell’11 mag. 2011, in vigore, ad eccezione del cpv. 7 primo periodo, dal 1° gen. 2012 ([RU 2011 1951](https://fedlex.data.admin.ch/eli/oc/2011/289)).
-[^23-2]: Nuovo testo giusta il n. I dell’O del 23 feb. 2022, in vigore dal 1° gen. 2023 ([RU 2022 160](https://fedlex.data.admin.ch/eli/oc/2022/160)).
-[^23-3]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
-[^23-4]: [RS 833.1](https://fedlex.data.admin.ch/eli/cc/1993/3043_3043_3043)
+[^23-1]: Nuovo testo giusta la cifra I dell’O dell’11 mag. 2011, in vigore, ad eccezione del cpv. 7 primo periodo, dal 1° gen. 2012 ([RU 2011 1951](https://fedlex.data.admin.ch/eli/oc/2011/289)).
+[^23-2]: Nuovo testo giusta la cifra I dell’O del 23 feb. 2022, in vigore dal 1° gen. 2023 ([RU 2022 160](https://fedlex.data.admin.ch/eli/oc/2022/160)).
+[^23-3]: [RS 832.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133)
+[^23-4]: [RS 833.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10252)
 [^23-5]: Nuovo testo giusta l’art. 137 dell’O del 30 nov. 2012 sulla riduzione delle emissioni di CO<sub>2</sub>, in vigore dal 1° gen. 2013 ([RU 2012 7005](https://fedlex.data.admin.ch/eli/oc/2012/856)).
 [^23-6]: Nuovo testo giusta l’art. 137 dell’O del 30 nov. 2012 sulla riduzione delle emissioni di CO<sub>2</sub>, in vigore dal 1° gen. 2013 ([RU 2012 7005](https://fedlex.data.admin.ch/eli/oc/2012/856)).
 
@@ -590,8 +596,8 @@ Ogni assicuratore comunica all’Ufficio federale della sanità pubblica, entro 
 
 <sup>2</sup> Gli assicuratori informano le persone assicurate sull’ammontare dell’importo da distribuire in occasione della comunicazione dei nuovi premi per l’anno di distribuzione. Essi devono inoltre far pervenire alle persone assicurate un promemoria redatto dall’UFAM sulle modalità di esecuzione della ridistribuzione.[^23b-2]
 
-[^23b-1]: Originario art. 23*a*. Introdotto dal n. I dell’O dell’11 mag. 2011, in vigore dal 1° gen. 2012 ([RU 2011 1951](https://fedlex.data.admin.ch/eli/oc/2011/289)).
-[^23b-2]: Nuovo testo giusta il n. III 2 dell’O del 4 mag. 2022, in vigore dal 1° giu. 2022 ([RU 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
+[^23b-1]: Originario art. 23*a*. Introdotto dalla cifra I dell’O dell’11 mag. 2011, in vigore dal 1° gen. 2012 ([RU 2011 1951](https://fedlex.data.admin.ch/eli/oc/2011/289)).
+[^23b-2]: Nuovo testo giusta la cifra III 2 dell’O del 4 mag. 2022, in vigore dal 1° giu. 2022 ([RU 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
 
 #### Art. 23c
 
@@ -599,8 +605,8 @@ Ogni assicuratore comunica all’Ufficio federale della sanità pubblica, entro 
 
 L’indennizzo degli assicuratori è disciplinato dall’articolo 123 dell’ordinanza del 30 novembre 2012[^23c-2] sul CO<sub>2</sub>.
 
-[^23c-1]: Originario 23*b.* Introdotto dal n. I dell’O dell’11 mag. 2011 ([RU 2011 1951](https://fedlex.data.admin.ch/eli/oc/2011/289)). Nuovo testo giusta l’art. 137 dell’O del 30 nov. 2012 sulla riduzione delle emissioni di CO<sub>2</sub>, in vigore dal 1° gen. 2013 ([RU 2012 7005](https://fedlex.data.admin.ch/eli/oc/2012/856)).
-[^23c-2]: [RS 641.711](https://fedlex.data.admin.ch/eli/cc/2012/856)
+[^23c-1]: Originario 23*b.* Introdotto dalla cifra I dell’O dell’11 mag. 2011 ([RU 2011 1951](https://fedlex.data.admin.ch/eli/oc/2011/289)). Nuovo testo giusta l’art. 137 dell’O del 30 nov. 2012 sulla riduzione delle emissioni di CO<sub>2</sub>, in vigore dal 1° gen. 2013 ([RU 2012 7005](https://fedlex.data.admin.ch/eli/oc/2012/856)).
+[^23c-2]: [RS 641.711](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8149)
 
 ## Sezione 9: Disposizioni finali
 
@@ -618,7 +624,7 @@ Le persone che fabbricano COV devono annunciarsi alla Direzione generale delle d
 
 <sup>2</sup> La tassa d’incentivazione sui composti organici volatili viene riscossa per la prima volta il 1° gennaio 2000.[^25-1]
 
-[^25-1]: Nuovo testo giusta il n. I dell’O del 14 dic. 1998, in vigore dal 1° gen. 1999 ([RU 1999 604](https://fedlex.data.admin.ch/eli/oc/1999/88)).
+[^25-1]: Nuovo testo giusta la cifra I dell’O del 14 dic. 1998, in vigore dal 1° gen. 1999 ([RU 1999 604](https://fedlex.data.admin.ch/eli/oc/1999/88)).
 
 ## Disposizione transitoria del 27 luglio 2012
 
@@ -628,13 +634,21 @@ Le persone che fabbricano COV devono annunciarsi alla Direzione generale delle d
 
 La domanda di approvazione del piano di provvedimenti ai fini di un’esenzione dalla tassa nel 2013 deve essere presentata entro il 30 aprile 2013.
 
+## Disposizione transitoria della modifica del 22 aprile 2026
+
+[^u2-1]
+
+[^u2-1]: [RU 2026 201](https://fedlex.data.admin.ch/eli/oc/2026/201)
+
+In caso di decisioni di riscossione posticipata passate in giudicato dopo il 1° dicembre 2025, il termine per far valere diritti alla restituzione secondo l’articolo 19 capoverso 2 lettera b decorre a partire dall’entrata in vigore della modifica del 22 aprile 2026.
+
 Allegato 1[^t-1]
 
 (art. 2 lett. a)
 
 ## Elenco delle sostanze (composti organici volatili, COV, che sono soggetti alla tassa)
 
-[^t-1]: Nuovo testo giusta il n. II cpv. 1 dell’O del 25 ott. 2017 ([RU 2017 5953](https://fedlex.data.admin.ch/eli/oc/2017/651)[7643](https://fedlex.data.admin.ch/eli/oc/2017/830)). Aggiornato dall’all. 2 n. II 7 dell’O del 15 feb. 2023 concernente la modifica della tariffa doganale, in vigore dal 1° gen. 2024 ([RU 2023 86](https://fedlex.data.admin.ch/eli/oc/2023/86)).
+[^t-1]: Nuovo testo giusta la cifra II cpv. 1 dell’O del 25 ott. 2017 ([RU 2017 5953](https://fedlex.data.admin.ch/eli/oc/2017/651)[7643](https://fedlex.data.admin.ch/eli/oc/2017/830)). Aggiornato dall’all. 2 n. II 7 dell’O del 15 feb. 2023 concernente la modifica della tariffa doganale, in vigore dal 1° gen. 2024 ([RU 2023 86](https://fedlex.data.admin.ch/eli/oc/2023/86)).
 
 ### 1 Sostanze
 
@@ -724,7 +738,7 @@ Allegato 1[^t-1]
 <tr><td>2902.4390</td><td>p-xilene</td><td>106-42-3</td></tr>
 </table>
 
-[^annex1-lvlu1-lvl1-1]: [RS 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871), Allegato
+[^annex1-lvlu1-lvl1-1]: [RS 632.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7921), Allegato
 [^annex1-lvlu1-lvl1-2]: «ex» sta qui per «a» e significa che solo le sostanze esplicitamente menzionate e corrispondenti al numero di tariffa indicato sono soggette alla tassa sui COV.
 
 ### 2 Gruppi di sostanze
@@ -743,7 +757,7 @@ Allegato 1[^t-1]
 <tr><td colspan="3">\* Frazioni fino a 240 °C.</td></tr>
 </table>
 
-[^annex1-lvlu1-lvl2-1]: [RS 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871), Allegato
+[^annex1-lvlu1-lvl2-1]: [RS 632.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7921), Allegato
 
 Allegato 2[^t-2]
 
@@ -751,7 +765,7 @@ Allegato 2[^t-2]
 
 ## Elenco dei prodotti (composti organici volatili, COV, soggetti alla tassa)
 
-[^t-2]: Nuovo testo giusta il n. II dell’O del 2 apr. 2008 ([RU 2008 1765](https://fedlex.data.admin.ch/eli/oc/2008/262)). Aggiornato dell’all. 3 n. 16 dell’O del 22 giu. 2011 concernente la modifica della tariffa doganale ([RU 2011 3331](https://fedlex.data.admin.ch/eli/oc/2011/451)), dal n. II cpv. 2 dell’O del 27 giu. 2012 ([RU 2012 3785](https://fedlex.data.admin.ch/eli/oc/2012/436)), dell’all. 3 n. 10 dell’O del 10 giu. 2016 concernente la modifica della tariffa doganale, in vigore dal 1° gen. 2017 ([RU 2016 2445](https://fedlex.data.admin.ch/eli/oc/2016/393)), dell’all. 2 n. 6 dell’O del 29 giu. 2016 che modifica la tariffa doganale relativamente ai dazi doganali per alcuni prodotti delle tecnologie dell’informazione ([RU 2016 2647](https://fedlex.data.admin.ch/eli/oc/2016/424)), dal n. II cpv. 2 dell’O del 25 ott. 2017 ([RU 2017 5953](https://fedlex.data.admin.ch/eli/oc/2017/651)), dell’all. 3 n. 13 dell’O del 30 giu. 2021 concernente la modifica della tariffa doganale ([RU 2021 445](https://fedlex.data.admin.ch/eli/oc/2021/445)) e dall’all. 2 n. II 7 dell’O del 15 feb. 2023 concernente la modifica della tariffa doganale, in vigore dal 1° gen. 2024 ([RU 2023 86](https://fedlex.data.admin.ch/eli/oc/2023/86)).
+[^t-2]: Nuovo testo giusta la cifra II dell’O del 2 apr. 2008 ([RU 2008 1765](https://fedlex.data.admin.ch/eli/oc/2008/262)). Aggiornato dell’all. 3 n. 16 dell’O del 22 giu. 2011 concernente la modifica della tariffa doganale ([RU 2011 3331](https://fedlex.data.admin.ch/eli/oc/2011/451)), dalla cifra II cpv. 2 dell’O del 27 giu. 2012 ([RU 2012 3785](https://fedlex.data.admin.ch/eli/oc/2012/436)), dell’all. 3 n. 10 dell’O del 10 giu. 2016 concernente la modifica della tariffa doganale, in vigore dal 1° gen. 2017 ([RU 2016 2445](https://fedlex.data.admin.ch/eli/oc/2016/393)), dell’all. 2 n. 6 dell’O del 29 giu. 2016 che modifica la tariffa doganale relativamente ai dazi doganali per alcuni prodotti delle tecnologie dell’informazione ([RU 2016 2647](https://fedlex.data.admin.ch/eli/oc/2016/424)), dalla cifra II cpv. 2 dell’O del 25 ott. 2017 ([RU 2017 5953](https://fedlex.data.admin.ch/eli/oc/2017/651)), dell’all. 3 n. 13 dell’O del 30 giu. 2021 concernente la modifica della tariffa doganale ([RU 2021 445](https://fedlex.data.admin.ch/eli/oc/2021/445)) e dall’all. 2 n. II 7 dell’O del 15 feb. 2023 concernente la modifica della tariffa doganale, in vigore dal 1° gen. 2024 ([RU 2023 86](https://fedlex.data.admin.ch/eli/oc/2023/86)).
 
 <table>
 <tr><td>N. di tariffa[^annex2-lvlu1-1]</td><td>Prodotto(i)/Gruppo(i) di prodotti</td></tr>
@@ -1104,7 +1118,7 @@ Allegato 2[^t-2]
 <tr><td>3914.0000</td><td>Scambiatori di ioni a base di polimeri delle voci da 3901 a 3913, in forme primarie</td></tr>
 </table>
 
-[^annex2-lvlu1-1]: [RS 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871),Allegato
+[^annex2-lvlu1-1]: [RS 632.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7921),Allegato
 
 Allegato 3[^t-3]
 
@@ -1112,7 +1126,7 @@ Allegato 3[^t-3]
 
 ## Riduzione delle emissioni diffuse di COV
 
-[^t-3]: Introdotto dal n. II cpv. 3 dell’O del 27 giu. 2012 ([RU 2012 3785](https://fedlex.data.admin.ch/eli/oc/2012/436)). Aggiornato dai n. II dell’O del DATEC del 28 nov. 2016 ([RU 2016 4923](https://fedlex.data.admin.ch/eli/oc/2016/791)) e dell’O del 23 feb. 2022, in vigore dal 1° gen. 2023 ([RU 2022 160](https://fedlex.data.admin.ch/eli/oc/2022/160)).
+[^t-3]: Introdotto dalla cifra II cpv. 3 dell’O del 27 giu. 2012 ([RU 2012 3785](https://fedlex.data.admin.ch/eli/oc/2012/436)). Aggiornato dai n. II dell’O del DATEC del 28 nov. 2016 ([RU 2016 4923](https://fedlex.data.admin.ch/eli/oc/2016/791)) e dell’O del 23 feb. 2022, in vigore dal 1° gen. 2023 ([RU 2022 160](https://fedlex.data.admin.ch/eli/oc/2022/160)).
 
 ### 1 Requisiti di esercizio per impianti stazionari
 

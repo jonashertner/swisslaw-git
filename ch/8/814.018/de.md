@@ -4,11 +4,11 @@ title: Verordnung vom 12. November 1997 über die Lenkungsabgabe auf flüchtigen
 short: VOCV
 eli: "https://fedlex.data.admin.ch/eli/cc/1997/2972_2972_2972"
 language: de
-version: 2024-01-01
+version: 2026-06-01
 adopted: 1997-11-12
 in_force: 1998-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1997/2972_2972_2972/20240101/de/xml/fedlex-data-admin-ch-eli-cc-1997-2972_2972_2972-20240101-de-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1997/2972_2972_2972/20240101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1997/2972_2972_2972/20260601/de/xml/fedlex-data-admin-ch-eli-cc-1997-2972_2972_2972-20260601-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1997/2972_2972_2972/20260601/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1997/2972_2972_2972/20240101/de"
 
 (VOCV)
 
-vom 12. November 1997 (Stand am 1. Januar 2024)
+vom 12. November 1997 (Stand am 1. Juni 2026)
 
 Der Schweizerische Bundesrat,
 
@@ -25,7 +25,7 @@ gestützt auf die Artikel 35*a* und 35*c* des Umweltschutzgesetzes vom 7. Oktobe
 
 verordnet:
 
-[^ingress-1]: [SR 814.01](https://fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122)
+[^ingress-1]: [SR 814.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9437)
 
 ## 1. Abschnitt: Allgemeine Bestimmungen
 
@@ -152,7 +152,7 @@ VOC, die in einer stationären Anlage nach Artikel 2 Absatz 1 und Anhang 1 Ziffe
 - c. die VOC-Emissionen der stationären Anlage, die nicht über die ALURA geführt werden (diffuse VOC-Emissionen), nach Anhang 3 vermindert werden.
 
 [^9-1]: Fassung gemäss Ziff. I der V vom 27. Juni 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 3785](https://fedlex.data.admin.ch/eli/oc/2012/436)).
-[^9-2]: [SR 814.318.142.1](https://fedlex.data.admin.ch/eli/cc/1986/208_208_208)
+[^9-2]: [SR 814.318.142.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9521)
 
 #### Art. 9a
 
@@ -398,9 +398,15 @@ Die Verjährung wird unterbrochen:
 
 <sup>1</sup> Rückerstattungsansprüche, soweit sie nicht die Ausfuhr betreffen, sind innerhalb von sechs Monaten nach Abschluss des Geschäftsjahres zu stellen. Das BAZG kann diese Frist in begründeten Fällen auf Gesuch hin um 30 Tage erstrecken.[^19-1]
 
-<sup>2</sup> Rückerstattungsansprüche erlöschen in jedem Fall zwei Jahre nach Eintritt des Rückerstattungsgrundes.
+<sup>2</sup>
+
+Rückerstattungsansprüche erlöschen:
+
+- a. zwei Jahre nach Eintritt des Rückerstattungsgrundes;
+- b. bei nachgelagerten Kontrollen sechzig Tage nach Eintritt der Rechtskraft der Nachforderungsverfügung, wenn diese Frist später als diejenige nach Buchstabe a abläuft.[^19-2]
 
 [^19-1]: Fassung gemäss Ziff. I der V vom 23. Febr. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 160](https://fedlex.data.admin.ch/eli/oc/2022/160)).
+[^19-2]: Fassung gemäss Ziff. I der V vom 22. April 2026, in Kraft seit 1. Juni 2026 ([AS 2026 201](https://fedlex.data.admin.ch/eli/oc/2026/201)). Siehe auch die UeB dieser Änd. am Schluss des Textes.
 
 #### Art. 20
 
@@ -488,7 +494,7 @@ Es kann diese Bewilligung auch Personen erteilen, die einen Stoff nach Anhang 1 
 Die anmeldepflichtige Person, die eine neue Zollveranlagung nach Artikel 34 Absatz 3 des Zollgesetzes vom 18. März 2005[^22a-2] beantragt, muss nachweisen, dass zum Zeitpunkt der ursprünglichen Zollanmeldung eine Bewilligung zum Bezug von vorläufig abgabebefreiten VOC vorhanden war.
 
 [^22a-1]: Eingefügt durch Anhang 4 Ziff. 43 der Zollverordnung vom 1. Nov. 2006, in Kraft seit 1. Mai 2007 ([AS 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
-[^22a-2]: [SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
+[^22a-2]: [SR 631.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7812)
 
 #### Art. 22b
 
@@ -559,8 +565,8 @@ Die Versicherer verteilen den Jahresertrag in gleichmässigen Beträgen auf alle
 
 [^23-1]: Fassung gemäss Ziff. I der V vom 11. Mai 2011, in Kraft seit 1. Jan. 2012, mit Ausnahme von Abs. 7 erster Satz, in Kraft seit 1. Jan. 2011 ([AS 2011 1951](https://fedlex.data.admin.ch/eli/oc/2011/289)).
 [^23-2]: Fassung gemäss Ziff. I der V vom 23. Febr. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 160](https://fedlex.data.admin.ch/eli/oc/2022/160)).
-[^23-3]: [SR 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
-[^23-4]: [SR 833.1](https://fedlex.data.admin.ch/eli/cc/1993/3043_3043_3043)
+[^23-3]: [SR 832.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133)
+[^23-4]: [SR 833.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10252)
 [^23-5]: Fassung gemäss Art. 137 der CO<sub>2</sub>-Verordnung vom 30. Nov. 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 7005](https://fedlex.data.admin.ch/eli/oc/2012/856)).
 [^23-6]: Fassung gemäss Art. 137 der CO<sub>2</sub>-Verordnung vom 30. Nov. 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 7005](https://fedlex.data.admin.ch/eli/oc/2012/856)).
 
@@ -599,7 +605,7 @@ Jeder Versicherer meldet dem Bundesamt für Gesundheit bis zum 20. März des Ver
 Für die Entschädigung der Versicherer gilt Artikel 123 der CO<sub>2</sub>-Verordnung vom 30. November 2012[^23c-2].
 
 [^23c-1]: Ursprünglich Art. 23*b*. Eingefügt durch Ziff. I der V vom 11. Mai 2011 ([AS 2011 1951](https://fedlex.data.admin.ch/eli/oc/2011/289)). Fassung gemäss Art. 137 der CO<sub>2</sub>-Verordnung vom 30. Nov. 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 7005](https://fedlex.data.admin.ch/eli/oc/2012/856)).
-[^23c-2]: [SR 641.711](https://fedlex.data.admin.ch/eli/cc/2012/856)
+[^23c-2]: [SR 641.711](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8149)
 
 ## 9. Abschnitt: Schlussbestimmungen
 
@@ -626,6 +632,14 @@ Personen, die VOC herstellen, müssen sich innerhalb von drei Monaten seit Inkra
 [^u1-1]: [AS 2012 3785](https://fedlex.data.admin.ch/eli/oc/2012/436)
 
 Das Gesuch um Genehmigung des Massnahmenplans im Hinblick auf eine Abgabebefreiung im Jahr 2013 ist spätestens am 30. April 2013 einzureichen.
+
+## Übergangsbestimmung zur Änderung vom 22. April 2026
+
+[^u2-1]
+
+[^u2-1]: [AS 2026 201](https://fedlex.data.admin.ch/eli/oc/2026/201)
+
+Bei Nachforderungsverfügungen, die nach dem 1. Dezember 2025 in Rechtskraft erwachsen sind, beginnt die Frist für die Geltendmachung von Rückerstattungsansprüchen gemäss Artikel 19 Absatz 2 Buchstabe b ab dem Inkrafttreten der Änderung vom 22. April 2026.
 
 Anhang 1[^t-1]
 
@@ -723,7 +737,7 @@ Anhang 1[^t-1]
 <tr><td>2902.4390</td><td>p-Xylol</td><td>106-42-3</td></tr>
 </table>
 
-[^annex1-lvlu1-lvl1-1]: [SR 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871)Anhang
+[^annex1-lvlu1-lvl1-1]: [SR 632.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7921)Anhang
 [^annex1-lvlu1-lvl1-2]: «ex» bedeutet «daraus», d.h. nur die explizit genannten Stoffe dieser Zolltarif-Nummer unterliegen der VOC-Abgabe.
 
 ### 2 Stoffgruppen
@@ -742,7 +756,7 @@ Anhang 1[^t-1]
 <tr><td colspan="3">\* Fraktionen bis 240 °C.</td></tr>
 </table>
 
-[^annex1-lvlu1-lvl2-1]: [SR 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871)Anhang
+[^annex1-lvlu1-lvl2-1]: [SR 632.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7921)Anhang
 
 Anhang 2[^t-2]
 
@@ -1102,7 +1116,7 @@ Anhang 2[^t-2]
 <tr><td></td><td colspan="3">3914.0000</td><td colspan="2">Ionenaustauscher auf der Grundlage von Polymeren der Nrn. 3901 bis 3913, in Primärformen</td></tr>
 </table>
 
-[^annex2-lvlu1-1]: [SR 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871)Anhang
+[^annex2-lvlu1-1]: [SR 632.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7921)Anhang
 
 Anhang 3[^t-3]
 

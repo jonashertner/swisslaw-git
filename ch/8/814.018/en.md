@@ -4,11 +4,11 @@ title: Ordinance of 12 November 1997 on the Incentive Tax on Volatile Organic Co
 short: OVOC
 eli: "https://fedlex.data.admin.ch/eli/cc/1997/2972_2972_2972"
 language: en
-version: 2024-01-01
+version: 2026-06-01
 adopted: 1997-11-12
 in_force: 1998-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1997/2972_2972_2972/20240101/en/xml/fedlex-data-admin-ch-eli-cc-1997-2972_2972_2972-20240101-en-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1997/2972_2972_2972/20240101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1997/2972_2972_2972/20260601/en/xml/fedlex-data-admin-ch-eli-cc-1997-2972_2972_2972-20260601-en-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1997/2972_2972_2972/20260601/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (OVOC)
 
-of 12 November 1997 (Status as of 1 January 2024)
+of 12 November 1997 (Last amended on 1 June 2026)
 
 The Swiss Federal Council,
 
@@ -27,7 +27,7 @@ based on Articles 35*a* and 35*c* of the Environmental Protection Act of 7 Octob
 
 ordains:
 
-[^ingress-1]: [SR 814.01](https://fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122)
+[^ingress-1]: [SR 814.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9437)
 
 ## Section 1 General Provisions
 
@@ -154,7 +154,7 @@ VOCs that are used in stationary installations in terms of Article 2 paragraph 1
 - c. the VOC emissions of the stationary installation that are not processed by the APP (diffuse VOC emissions) are reduced in accordance with Annex 3.
 
 [^9-1]: Amended by No I of the O of 27 June 2012, in force since 1 Jan. 2013 ([AS 2012 3785](https://fedlex.data.admin.ch/eli/oc/2012/436)).
-[^9-2]: [SR 814.318.142.1](https://fedlex.data.admin.ch/eli/cc/1986/208_208_208)
+[^9-2]: [SR 814.318.142.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9521)
 
 #### Art. 9a
 
@@ -400,9 +400,15 @@ The prescriptive period shall be interrupted:
 
 <sup>1</sup> The right to a refund, unless it concerns an export, must be claimed within six months of the end of the financial year. The FOCBS may on request extend this deadline by 30 days in justified cases.[^19-1]
 
-<sup>2</sup> The right to a refund expires in all cases two years after the grounds for a refund originated.
+<sup>2</sup>
+
+The right to a refund shall expire:
+
+- a. two years after the grounds for a refund originated;
+- b. in the case of retrospective audits, 60 days after the subsequent claim decision becomes legally effective, if this period expires later than that specified in letter a.[^19-2]
 
 [^19-1]: Amended by No I of the O of 23 Feb. 2022, in force since 1 Jan. 2023 ([AS 2022 160](https://fedlex.data.admin.ch/eli/oc/2022/160)).
+[^19-2]: Amended by No I of the O of 22 April 2026, in force since 1 June 2026 ([AS 2026 201](https://fedlex.data.admin.ch/eli/oc/2026/201)). See also the transitional provision to this Amendment at the end of the text.
 
 #### Art. 20
 
@@ -490,7 +496,7 @@ It may also grant this authorisation to persons who use a substance listed in An
 Any person required to make a customs declaration who applies for a new customs assessment in accordance with Article 34 paragraph 3 of the Customs Act of 18 March 2005[^22a-2] must prove that an authorisation to obtain VOCs provisionally exempt from tax existed at the time of the original customs declaration.
 
 [^22a-1]: Inserted by Annex 4 No 43 of the Customs Ordinance of 1 Nov. 2006, in force since 1 May 2007 ([AS 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
-[^22a-2]: [SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
+[^22a-2]: [SR 631.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7812)
 
 #### Art. 22b
 
@@ -561,8 +567,8 @@ The insurers shall distribute the annual revenue in equal parts to all those who
 
 [^23-1]: Amended by No I of the O of 11 May 2011, in force since 1 Jan. 2012, with the exception of para. 7 first sentence, in force since 1 Jan. 2011 ([AS 2011 1951](https://fedlex.data.admin.ch/eli/oc/2011/289)).
 [^23-2]: Amended by No I of the O of 23 Feb. 2022, in force since 1 Jan. 2023 ([AS 2022 160](https://fedlex.data.admin.ch/eli/oc/2022/160)).
-[^23-3]: [SR 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
-[^23-4]: [SR 833.1](https://fedlex.data.admin.ch/eli/cc/1993/3043_3043_3043)
+[^23-3]: [SR 832.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133)
+[^23-4]: [SR 833.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10252)
 [^23-5]: Amended by Art. 137 of the CO<sub>2</sub> Ordinance of 30 Nov. 2012, in force since 1 Jan. 2013 ([AS 2012 7005](https://fedlex.data.admin.ch/eli/oc/2012/856)).
 [^23-6]: Amended by Art. 137 of the CO<sub>2</sub> Ordinance of 30 Nov. 2012, in force since 1 Jan. 2013 ([AS 2012 7005](https://fedlex.data.admin.ch/eli/oc/2012/856)).
 
@@ -601,7 +607,7 @@ Each insurer shall report the following to the Federal Office of Public Health b
 - [tab] Compensation for the insurers is governed by Article 123 of the CO<sub>2</sub> Ordinance of 30 November 2012[^23c-2].
 
 [^23c-1]: Originally Art. 23*b*. Inserted by No I of the O of 11 May 2011 ([AS 2011 1951](https://fedlex.data.admin.ch/eli/oc/2011/289)). Amended by Art. 137 of the CO<sub>2</sub> Ordinance of 30 Nov. 2012, in force since 1 Jan. 2013 ([AS 2012 7005](https://fedlex.data.admin.ch/eli/oc/2012/856)).
-[^23c-2]: [SR 641.711](https://fedlex.data.admin.ch/eli/cc/2012/856)
+[^23c-2]: [SR 641.711](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8149)
 
 ## Section 9 Final Provisions
 
@@ -629,6 +635,14 @@ Manufacturers of VOCs must report to the Directorate General of Customs within t
 
 Applications for the approval of a measures plan with a view to obtaining a tax exemption for 2013 must be submitted by 30 April 2013 at the latest.
 
+## Transitional Provision to the Amendment of 22 April 2026
+
+[^u2-1]
+
+[^u2-1]: [AS 2026 201](https://fedlex.data.admin.ch/eli/oc/2026/201)
+
+In the case of subsequent claim decisions that became legally effective after 1 December 2025, the time limit for asserting refund claims specified in Article 19 paragraph 2 letter b shall commence from the date on which the Amendment of 22 April 2026 comes into force.
+
 Annex 1[^t-1]
 
 (Art. 2 let. a)
@@ -646,10 +660,10 @@ Annex 1[^t-1]
 <tr><td colspan="2">ex 2909.1990</td><td>**bis(2-ethoxyethyl) ether** (diethylene glycol diethyl ether, diethyl diglycol)</td><td colspan="2">112-36-7</td></tr>
 <tr><td colspan="2">ex 2909.1990</td><td>**bis(2-methoxyethyl) ether** (diethylene glycol dimethyl ether, (dimethyl diglycol)</td><td colspan="2">111-96-6</td></tr>
 <tr><td colspan="2">2711.1390 + ex 2901.1019</td><td>n-butane</td><td colspan="2">106-97-8</td></tr>
-<tr><td colspan="2">2905.1300</td><td>**butan****e-1****-ol** (n-butyl alcohol)</td><td colspan="2">71-36-3</td></tr>
-<tr><td colspan="2">ex 2905.1490</td><td>**butan****e****-2-ol** (sec-butyl alcohol)</td><td colspan="2">78-92-2</td></tr>
+<tr><td colspan="2">2905.1300</td><td>**butane-1-ol** (n-butyl alcohol)</td><td colspan="2">71-36-3</td></tr>
+<tr><td colspan="2">ex 2905.1490</td><td>**butane-2-ol** (sec-butyl alcohol)</td><td colspan="2">78-92-2</td></tr>
 <tr><td colspan="2">ex 2909.4390</td><td>**2-n-butoxyethanol** (ethylene glycol monobutyl ether, butyl glycol)</td><td colspan="2">111-76-2</td></tr>
-<tr><td colspan="2">ex 2909.4390</td><td>**2-(2-n-butoxyethoxy)****ethanol** (diethylen glycol monobutyl ether, butyl diglycol)</td><td colspan="2">112-34-5</td></tr>
+<tr><td colspan="2">ex 2909.4390</td><td>**2-(2-n-butoxyethoxy) ethanol** (diethylen glycol monobutyl ether, butyl diglycol)</td><td colspan="2">112-34-5</td></tr>
 <tr><td colspan="2">ex 2915. 3900</td><td>**2-n-butoxyethyl acetate** (ethylene glycol monobutyl ether acetate, butyl glycol acetate)</td><td colspan="2">112-07-2</td></tr>
 <tr><td colspan="2">ex 2909.4990</td><td>1-n-butoxypropan-2-ol (propylene glycol monobutyl ether)</td><td colspan="2">5131-66-8</td></tr>
 <tr><td colspan="2">ex 2909.4990</td><td>1-tert-butoxypropan-2-ol</td><td colspan="2">57018-52-7</td></tr>
@@ -660,18 +674,18 @@ Annex 1[^t-1]
 <tr><td colspan="2">ex 2914.2200</td><td>cyclohexanone</td><td colspan="2">108-94-1</td></tr>
 <tr><td colspan="2">ex 2902.1990</td><td>cyclopentane</td><td colspan="2">287-92-3</td></tr>
 <tr><td colspan="2">ex 2902.9090 + ex 3805.9000</td><td>p-cymene</td><td colspan="2">99-87-6</td></tr>
-<tr><td colspan="2">2903.1200</td><td>**dichloromethane**(methylene chloride)</td><td colspan="2">75-09-2</td></tr>
-<tr><td colspan="2">ex 2909.1990</td><td>**1****,2-diethoxyethane** (ethylene glycol diethyl ether, diethyl glycol)</td><td colspan="2">629-14-1</td></tr>
+<tr><td colspan="2">2903.1200</td><td>**dichloromethane** (methylene chloride)</td><td colspan="2">75-09-2</td></tr>
+<tr><td colspan="2">ex 2909.1990</td><td>**1,2-diethoxyethane** (ethylene glycol diethyl ether, diethyl glycol)</td><td colspan="2">629-14-1</td></tr>
 <tr><td colspan="2">2909.1100</td><td>diethyl ether</td><td colspan="2">60-29-7</td></tr>
 <tr><td colspan="2">ex 2909.1990</td><td>**diisopropyl ether** (2-isopropoxypropane)</td><td colspan="2">108-20-3</td></tr>
 <tr><td colspan="2">ex 2909.1990</td><td>**1,2-dimethoxyethane** (ethylene glycol dimethyl ether, dimethylglycol)</td><td colspan="2">110-71-4</td></tr>
 <tr><td colspan="2">ex 2909.1990</td><td>dimethyl ether</td><td colspan="2">115-10-6</td></tr>
 <tr><td colspan="2">ex 2932.9900</td><td>**1,4-dioxane** (diethylene dioxide)</td><td colspan="2">123-91-1</td></tr>
-<tr><td colspan="2">ex 2909.1990</td><td>**di****-n-****propyl ether** (propyl ether)</td><td colspan="2">111-43-3</td></tr>
+<tr><td colspan="2">ex 2909.1990</td><td>**di-n-propyl ether** (propyl ether)</td><td colspan="2">111-43-3</td></tr>
 <tr><td colspan="2">2915.2100</td><td>acetic acid</td><td colspan="2">64-19-7</td></tr>
 <tr><td colspan="2">2915.2400</td><td>acetic anhydride</td><td colspan="2">108-24-7</td></tr>
 <tr><td colspan="2"></td><td>**ethanol,** other than distilled liquids for drinking or consumption (Art. 31 Alcohol Act)</td><td colspan="2">64-17-5</td></tr>
-<tr><td colspan="2">ex 2909. 4480</td><td>**2-****ethoxyethanol** (ethylene glycol monoethyl ether, ethyl glycol)</td><td colspan="2">110-80-5</td></tr>
+<tr><td colspan="2">ex 2909. 4480</td><td>**2-ethoxyethanol** (ethylene glycol monoethyl ether, ethyl glycol)</td><td colspan="2">110-80-5</td></tr>
 <tr><td colspan="2">ex 2909.4990</td><td>**1-ethoxypropan-2-ol** (propylene glycolmonoethyl ether)</td><td colspan="2">1569-02-4</td></tr>
 <tr><td colspan="2">2915.3100</td><td>ethyl acetate</td><td colspan="2">141-78-6</td></tr>
 <tr><td colspan="2">2902.6090</td><td>ethyl benzene</td><td colspan="2">100-41-4</td></tr>
@@ -688,28 +702,28 @@ Annex 1[^t-1]
 <tr><td colspan="2">ex 2902.1990</td><td>**l-limonene** ((S)-p-mentha-1,8-dien)</td><td colspan="2">5989-54-8</td></tr>
 <tr><td colspan="2">2905.1190</td><td>methanol</td><td colspan="2">67-56-1</td></tr>
 <tr><td colspan="2">ex 2915.3900</td><td>**1-methoxy-2-propyl acetate** (propylene glycol monomethyl ether acetate)</td><td colspan="2">108-65-6</td></tr>
-<tr><td colspan="2">ex 2909. 4480</td><td>**2-****methoxy** **ethanol** (ethylene glycol monomethyl ether, methyl glycol)</td><td colspan="2">109-86-4</td></tr>
+<tr><td colspan="2">ex 2909. 4480</td><td>**2-methoxy ethanol** (ethylene glycol monomethyl ether, methyl glycol)</td><td colspan="2">109-86-4</td></tr>
 <tr><td colspan="2">ex 2915. 3900</td><td>**2-methoxy ethyl acetate** (methyl glycol acetate)</td><td colspan="2">110-49-6</td></tr>
 <tr><td colspan="2">ex 2909.4990</td><td>**1-methoxypropan-2-ol** (propylene glycol monomethyl ether)</td><td colspan="2">107-98-2</td></tr>
 <tr><td colspan="2">ex 2915.3900</td><td>methyl acetate</td><td colspan="2">79-20-9</td></tr>
-<tr><td colspan="2">ex 2901.1099</td><td>**2-****methyl** **butane** (i-pentane)</td><td colspan="2">78-78-4</td></tr>
+<tr><td colspan="2">ex 2901.1099</td><td>**2-methyl butane** (i-pentane)</td><td colspan="2">78-78-4</td></tr>
 <tr><td colspan="2">ex 2902.1990</td><td>methylcyclohexane</td><td colspan="2">108-87-2</td></tr>
 <tr><td colspan="2">2914.1200</td><td>**methyl ethyl ketone** (2-butanone, MEK)</td><td colspan="2">78-93-3</td></tr>
 <tr><td colspan="2">ex 2915.1300</td><td>methyl formate</td><td colspan="2">107-31-3</td></tr>
 <tr><td colspan="2">ex 2901.1099</td><td>**2-methyl pentane** (i-hexane)</td><td colspan="2">107-83-5</td></tr>
-<tr><td colspan="2">2914.1300</td><td>**4-****methyl pentane****-2-one** (methyl isobutyl ketone, MIBK)</td><td colspan="2">108-10-1</td></tr>
-<tr><td colspan="2">2711.1390 + ex 2901.1019</td><td>**2-methyl****propane** (isobutane)</td><td colspan="2">75-28-5</td></tr>
-<tr><td colspan="2">ex 2905.1490</td><td>**2-****methyl propane-1****-ol** (isobutanol)</td><td colspan="2">78-83-1</td></tr>
+<tr><td colspan="2">2914.1300</td><td>**4-methyl pentane-2-one** (methyl isobutyl ketone, MIBK)</td><td colspan="2">108-10-1</td></tr>
+<tr><td colspan="2">2711.1390 + ex 2901.1019</td><td>**2-methyl propane** (isobutane)</td><td colspan="2">75-28-5</td></tr>
+<tr><td colspan="2">ex 2905.1490</td><td>**2-methyl propane-1-ol** (isobutanol)</td><td colspan="2">78-83-1</td></tr>
 <tr><td colspan="2">ex 2933.7900</td><td>**n-methyl-2-pyrrolidone** (1-methyl-2-pyrrolidone)</td><td colspan="2">872-50-4</td></tr>
 <tr><td colspan="2">ex 2901.1099</td><td>n-pentane</td><td colspan="2">109-66-0</td></tr>
-<tr><td colspan="2">ex 2905.1980</td><td>**pentan-****1****-ol** (n-amyl alcohol)</td><td colspan="2">71-41-0</td></tr>
+<tr><td colspan="2">ex 2905.1980</td><td>**pentan-1-ol** (n-amyl alcohol)</td><td colspan="2">71-41-0</td></tr>
 <tr><td colspan="2">ex 2905.1980</td><td>**pentan-2-ol** (sec-amyl alcohol)</td><td colspan="2">6032-29-7</td></tr>
 <tr><td colspan="2">2711.1290 + ex 2711.2990</td><td>propane</td><td colspan="2">74-98-6</td></tr>
 <tr><td colspan="2">ex 2905.1290</td><td>propan-1-ol</td><td colspan="2">71-23-8</td></tr>
 <tr><td colspan="2">ex 2905.1290</td><td>**propan-2-ol** (isopropyl alcohol, isopropanol)</td><td colspan="2">67-63-0</td></tr>
 <tr><td colspan="2">ex 2909.4480</td><td>**2-propoxyethanol** (ethylene glycol monopropyl ether, propylglycol)</td><td colspan="2">2807-30-9</td></tr>
 <tr><td colspan="2">ex 2915.3900</td><td>n-propyl acetate</td><td colspan="2">109-60-4</td></tr>
-<tr><td colspan="2">2903.2300</td><td>**tetrachlorethylene** (perchlorethylene, PER)</td><td colspan="2">127-18-4</td></tr>
+<tr><td colspan="2">2903.2300</td><td>**tetrachlorethylene** (perchlorethylene, PER )</td><td colspan="2">127-18-4</td></tr>
 <tr><td colspan="2">2932.1100</td><td>**tetrahydrofuran** (oxolan)</td><td colspan="2">109-99-9</td></tr>
 <tr><td colspan="2">2707.2090 + 2902.3090</td><td>toluene</td><td colspan="2">108-88-3</td></tr>
 <tr><td colspan="2">2903.2200</td><td>trichlorethylene</td><td colspan="2">79-01-6</td></tr>
@@ -721,7 +735,7 @@ Annex 1[^t-1]
 
 ### 2 Groups of Substances
 
-[^annex1-lvlu1-1]: [SR 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871)Annex
+[^annex1-lvlu1-1]: [SR 632.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7921)Annex
 [^annex1-lvlu1-2]: ‘ex’ means ‘from’, i.e. only the substances expressly named under this customs tariff number are liable to the VOC tax.
 
 <table>
@@ -738,7 +752,7 @@ Annex 1[^t-1]
 <tr><td colspan="3">\* Fractions boiling at or below 240°C.</td></tr>
 </table>
 
-[^annex1-lvlu1-lvl1-1]: [SR 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871)Annex
+[^annex1-lvlu1-lvl1-1]: [SR 632.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7921)Annex
 
 Annex 2[^t-2]
 
@@ -981,13 +995,13 @@ Annex 2[^t-2]
 <tr><td colspan="2">3826.</td><td colspan="2">Biodiesel and its mixtures, not containing or containing less than 70 % by weight of petroleum oils or oils obtained from bituminous minerals:</td></tr>
 <tr><td colspan="2">0090</td><td colspan="2">[tab] – other</td></tr>
 <tr><td>3827.</td><td colspan="2">Mixtures containing halogenated derivatives of methane, ethane or propane, not mentioned or included elsewhere:</td></tr>
-<tr><td></td><td colspan="2">[tab] – containing chlorinated fluorocarbons (CFC), including partially halogenated fluorochlorocarbons (HCFC), perfluorinated hydrocarbons or partially fluorinated hydrocarbons (PFH); containing partially halogenated bromo-fluorocarbons (HBFC); containing carbon tetrachloride; containing 1,1,1-trichlorethane (methyl chloroform):</td></tr>
-<tr><td>1100</td><td colspan="2">[tab] – – containing fluorochlorocarbons (CFC), including partially halogented fluorochlorocarbons (HCFC), perfluorinated carbons or partially fluorinated hydrocarbons (PFH)</td></tr>
+<tr><td></td><td colspan="2">[tab] – containing chlorinated fluorocarbons (CFC), including partially halogenated fluorochlorocarbons ( HCFC ), perfluorinated hydrocarbons or partially fluorinated hydrocarbons (PFH); containing partially halogenated bromo-fluorocarbons (HBFC); containing carbon tetrachloride; containing 1,1,1-trichlorethane (methyl chloroform):</td></tr>
+<tr><td>1100</td><td colspan="2">[tab] – – containing fluorochlorocarbons (CFC), including partially halogented fluorochlorocarbons ( HCFC ), perfluorinated carbons or partially fluorinated hydrocarbons (PFH)</td></tr>
 <tr><td>1200</td><td colspan="2">[tab] – – containing partially halogenated bromo-fluorocarbons (HBFC)</td></tr>
 <tr><td>1300</td><td colspan="2">[tab] – – containing carbon tetrachloride</td></tr>
 <tr><td>1400</td><td colspan="2">[tab] – – containing 1,1,1-trichlorethane (methyl chloroform)</td></tr>
 <tr><td>2000</td><td colspan="2">[tab] – containing bromochlorodifluoromethane (Halon 1211), bromotrifluoromethane (Halon 1301) or 1,2- dibromotetrafluorethane (Halon 2402)</td></tr>
-<tr><td></td><td colspan="2">[tab] – containing partially halogenated chlorofluorocarbons (HCFC), including perfluorocarbons (PFC) or partially fluorinated hydrocarbons, but not containing chlorofluorocarbons (CFC)</td></tr>
+<tr><td></td><td colspan="2">[tab] – containing partially halogenated chlorofluorocarbons ( HCFC ), including perfluorocarbons (PFC) or partially fluorinated hydrocarbons, but not containing chlorofluorocarbons (CFC)</td></tr>
 <tr><td>3100</td><td colspan="2">[tab] – – containing substances under numbers 2903.41 to 2903.48</td></tr>
 <tr><td>3200</td><td colspan="2">[tab] – – other, containing substances under numbers 2903.71 to 2903.75</td></tr>
 <tr><td>3900</td><td colspan="2">[tab] – – other</td></tr>
@@ -1019,8 +1033,8 @@ Annex 2[^t-2]
 <tr><td></td><td colspan="3">[tab] – polystyrene:</td></tr>
 <tr><td>1100</td><td colspan="3">[tab] – – expansible</td></tr>
 <tr><td>1900</td><td colspan="3">[tab] – – other</td></tr>
-<tr><td>2000</td><td colspan="3">[tab] – styrene-acrylonitrile (SAN) copolymers</td></tr>
-<tr><td>3000</td><td colspan="3">[tab] – acrylnitrile-butadiene-styrene (ABS) copolymers</td></tr>
+<tr><td>2000</td><td colspan="3">[tab] – styrene-acrylonitrile ( SAN ) copolymers</td></tr>
+<tr><td>3000</td><td colspan="3">[tab] – acrylnitrile-butadiene-styrene ( ABS ) copolymers</td></tr>
 <tr><td>9000</td><td colspan="3">[tab] – other</td></tr>
 <tr><td>3904.</td><td colspan="3">Polymers of vinyl chloride or other halogenated olefins, in primary forms:</td></tr>
 <tr><td>1000</td><td colspan="3">[tab] – poly(vinyl chloride), not mixed with any other substances</td></tr>
@@ -1094,7 +1108,7 @@ Annex 2[^t-2]
 <tr><td>3914.0000</td><td colspan="3">Ion-exchangers based on polymers of headings Nos. 3901 to 3913, in primary forms:</td></tr>
 </table>
 
-[^annex2-lvlu1-1]: [SR 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871), Annex
+[^annex2-lvlu1-1]: [SR 632.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7921), Annex
 
 Annex 3[^t-3]
 

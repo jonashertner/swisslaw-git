@@ -4,11 +4,11 @@ title: "Ordonnance du 12 novembre 1997 sur la taxe d'incitation sur les composé
 short: OCOV
 eli: "https://fedlex.data.admin.ch/eli/cc/1997/2972_2972_2972"
 language: fr
-version: 2024-01-01
+version: 2026-06-01
 adopted: 1997-11-12
 in_force: 1998-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1997/2972_2972_2972/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-1997-2972_2972_2972-20240101-fr-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1997/2972_2972_2972/20240101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1997/2972_2972_2972/20260601/fr/xml/fedlex-data-admin-ch-eli-cc-1997-2972_2972_2972-20260601-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1997/2972_2972_2972/20260601/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1997/2972_2972_2972/20240101/fr"
 
 (OCOV)
 
-du 12 novembre 1997 (État le 1<sup>er</sup> janvier 2024)
+du 12 novembre 1997 (État le 1<sup>er</sup> juin 2026)
 
 Le Conseil fédéral suisse,
 
@@ -25,7 +25,7 @@ vu les art. 35*a* et 35*c* de la loi fédérale du 7 octobre 1983[^ingress-1] su
 
 arrête:
 
-[^ingress-1]: [RS 814.01](https://fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122)
+[^ingress-1]: [RS 814.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9437)
 
 ## Section 1 Dispositions générales
 
@@ -153,7 +153,7 @@ Les COV utilisés dans une installation stationnaire au sens de l’art. 2, al. 
 - c. les émissions de COV de l’installation stationnaire qui ne sont pas dirigées vers l’installation d’épuration (émissions diffuses de COV), sont réduites selon l’annexe 3.
 
 [^9-1]: Nouvelle teneur selon le ch. I de l’O du 27 juin 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 3785](https://fedlex.data.admin.ch/eli/oc/2012/436)).
-[^9-2]: [RS 814.318.142.1](https://fedlex.data.admin.ch/eli/cc/1986/208_208_208)
+[^9-2]: [RS 814.318.142.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9521)
 
 #### Art. 9a
 
@@ -400,9 +400,15 @@ La prescription est interrompue:
 
 <sup>1</sup> Les demandes de remboursement qui ne concernent pas des COV exportés doivent être déposées dans les six mois qui suivent la clôture de l’exercice. En cas de demande justifiée, l’OFDF peut prolonger ce délai de 30 jours.[^19-1]
 
-<sup>2</sup> Le droit au remboursement s’éteint dans tous les cas deux ans après sa naissance.
+<sup>2</sup>
+
+Le droit de demander un remboursement s’éteint:
+
+- a. deux ans après la naissance du droit au remboursement;
+- b. en cas de contrôle ultérieur: 60 jours après l’entrée en force de la décision de perception subséquente, si ce délai expire après le délai prévu à la let. a.[^19-2]
 
 [^19-1]: Nouvelle teneur selon le ch. I de l’O du 23 fév. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 160](https://fedlex.data.admin.ch/eli/oc/2022/160)).
+[^19-2]: Nouvelle teneur selon le ch. I de l’O du 22 avr. 2026, en vigueur depuis le 1<sup>er</sup> juin 2026 ([RO 2026 201](https://fedlex.data.admin.ch/eli/oc/2026/201)). Voir aussi la disp. trans. de cette mod. à la fin du texte.
 
 #### Art. 20
 
@@ -490,7 +496,7 @@ Il peut aussi accorder cette autorisation à des personnes utilisant une substan
 La personne assujettie à l’obligation de déclarer qui demande une nouvelle taxation au sens de l’art. 34, al. 3, de la loi du 18 mars 2005 sur les douanes[^22a-2] doit prouver qu’une autorisation de se procurer des COV temporairement non soumis à la taxe existait au moment de la déclaration en douane initiale.
 
 [^22a-1]: Introduit par l’annexe 4 ch. 43 de l’O du 1<sup>er</sup> nov. 2006 sur les douanes, en vigueur depuis le 1<sup>er</sup> mai 2007 ([RO 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
-[^22a-2]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
+[^22a-2]: [RS 631.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7812)
 
 #### Art. 22b
 
@@ -561,8 +567,8 @@ Les assureurs redistribuent le produit annuel en montants égaux à toutes les p
 
 [^23-1]: Nouvelle teneur selon le ch. I de l’O du 11 mai 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012, sauf la 1<sup>re</sup> phrase de l’al. 7, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2011 1951](https://fedlex.data.admin.ch/eli/oc/2011/289)).
 [^23-2]: Nouvelle teneur selon le ch. I de l’O du 23 fév. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 160](https://fedlex.data.admin.ch/eli/oc/2022/160)).
-[^23-3]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
-[^23-4]: [RS 833.1](https://fedlex.data.admin.ch/eli/cc/1993/3043_3043_3043)
+[^23-3]: [RS 832.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133)
+[^23-4]: [RS 833.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10252)
 [^23-5]: Nouvelle teneur selon l’art. 137 de l’O du 30 nov. 2012 sur la réduction des émissions de CO<sub>2</sub>, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 7005](https://fedlex.data.admin.ch/eli/oc/2012/856)).
 [^23-6]: Nouvelle teneur selon l’art. 137 de l’O du 30 nov. 2012 sur la réduction des émissions de CO<sub>2</sub>, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 7005](https://fedlex.data.admin.ch/eli/oc/2012/856)).
 
@@ -601,7 +607,7 @@ Chaque assureur informe l’Office fédéral de la santé publique jusqu’au 20
 L’indemnisation des assureurs est régie par l’art. 123 de l’ordonnance du 30 novembre 2012 sur le CO<sub>2</sub>[^23c-2].
 
 [^23c-1]: Anciennement art. 23*b*. Introduit par le ch. I de l’O du 11 mai 2011 ([RO 2011 1951](https://fedlex.data.admin.ch/eli/oc/2011/289)). Nouvelle teneur selon l’art. 137 de l’O du 30 nov. 2012 sur la réduction des émissions de CO<sub>2</sub>, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 7005](https://fedlex.data.admin.ch/eli/oc/2012/856)).
-[^23c-2]: [RS 641.711](https://fedlex.data.admin.ch/eli/cc/2012/856)
+[^23c-2]: [RS 641.711](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8149)
 
 ## Section 9 Dispositions finales
 
@@ -628,6 +634,14 @@ Les personnes qui produisent des COV doivent se faire enregistrer à la DGD dans
 [^u1-1]: [RO 2012 3785](https://fedlex.data.admin.ch/eli/oc/2012/436)
 
 La demande d’approbation du plan de mesures en vue d’une exonération de la taxe en 2013 doit être déposée au plus tard le 30 avril 2013.
+
+## Disposition transitoire relative à la modification du 22 avril 2026
+
+[^u2-1]
+
+[^u2-1]: [RO 2026 201](https://fedlex.data.admin.ch/eli/oc/2026/201)
+
+Pour les décisions de perception subséquente entrées en force après le 1<sup>er</sup> décembre 2025, le délai prévu à l’art. 19, al. 2, let. b, concernant le droit de demander un remboursement commence à courir dès l’entrée en vigueur de la modification du 22 avril 2026.
 
 Annexe 1[^t-1]
 
@@ -725,7 +739,7 @@ Annexe 1[^t-1]
 <tr><td>2902.4390</td><td>p-xylène</td><td>106-42-3</td></tr>
 </table>
 
-[^annex1-lvlu1-lvl1-1]: [RS 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871), annexe
+[^annex1-lvlu1-lvl1-1]: [RS 632.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7921), annexe
 [^annex1-lvlu1-lvl1-2]: «ex» signifie «dont»; en d’autres termes, seules les substances expressément mentionnées portant ce numéro de tarif sont soumises à la taxe sur les COV.
 
 ### 2 Groupes de substances
@@ -744,7 +758,7 @@ Annexe 1[^t-1]
 <tr><td colspan="3">\* fractions dont le point d’ébullition ne dépasse pas 240 °C.</td></tr>
 </table>
 
-[^annex1-lvlu1-lvl2-1]: [RS 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871), annexe
+[^annex1-lvlu1-lvl2-1]: [RS 632.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7921), annexe
 
 Annexe 2[^t-2]
 
@@ -1108,7 +1122,7 @@ Annexe 2[^t-2]
 <tr><td>3914.0000</td><td>Échangeurs d’ions à base de polymères des n<sup>os</sup> 3901 à 3913, sous formes primaires</td></tr>
 </table>
 
-[^annex2-lvlu1-1]: [RS 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871)annexe
+[^annex2-lvlu1-1]: [RS 632.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7921)annexe
 
 Annexe 3[^t-3]
 
