@@ -4,13 +4,12 @@ number: "164.11"
 title: Verordnung zum Gesetz über die elektronische Geschäftsabwicklung und Kommunikation
 short: "E-Government-Verordnung, Vo E-GovG"
 language: de
-version: 2025-04-01
-valid_until: 2026-05-31
-version_adopted: 2024-12-17
+version: 2026-06-01
+version_adopted: 2026-04-21
 adopted: 2021-12-14
 in_force: 2022-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/164.11"
-pdf: "https://bl.clex.ch/api/de/versions/4127/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/4457/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://bl.clex.ch/api/de/versions/4127/pdf_file"
 
 (E-Government-Verordnung, Vo E-GovG)
 
-Vom 14.12.2021 (Stand 01.04.2025)
+Vom 14.12.2021 (Stand 01.06.2026)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
