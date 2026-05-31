@@ -4,11 +4,10 @@ number: "722.1"
 title: Strassengesetz (StrG)
 short: StrG
 language: de
-version: "2022-06-01"
-nachtrag: "117"
-valid_until: 2026-06-01
+version: "2026-06-01"
+nachtrag: "133"
 adopted: 1981-09-27
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-722_1-1981_09_27-1983_01_01-117.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-722_1-1981_09_27-1983_01_01-133.html"
 text: pdf
 ---
 
@@ -60,7 +59,7 @@ Vorbehalten bleibt die Gesetzgebung über die Nationalstrassen, über die Flur- 
 
 **1**
 
-- 1\. 7. 22 - 117 § 4. <sup>1</sup> Nebenanlagen zu Strassen sind Anlagen, die gemäss Planungs- und Baugesetz[^2-1] durch Baulinien für Betriebsanlagen zu Verkehrsbauten gesichert werden können.
+- 1\. 7. 26 - 133 § 4. <sup>1</sup> Nebenanlagen zu Strassen sind Anlagen, die gemäss Planungs- und Baugesetz[^2-1] durch Baulinien für Betriebsanlagen zu Verkehrsbauten gesichert werden können.
 
 **Nebenanlagen**
 
@@ -157,7 +156,7 @@ Verpflichtungskredite werden gemäss den Bestimmungen der Kantonsverfassung[^7-3
 
 **3**
 
-- 1\. 7. 22 - 117
+- 1\. 7. 26 - 133
 
 <sup>3</sup> Wird das Projekt aufgelegt, sind Einwendungen innert 30 Tagen nach der Bekanntmachung einzureichen; in schriftliche Stellungnahmen kann während 60 Tagen nach dem Kreditbeschluss auf der Gemeindeverwaltung Einsicht genommen werden. Im Übrigen gelten für das Verfahren sinngemäss die Bestimmungen des Planungs- und Baugesetzes[^13-1] über die Festsetzung von Richtplänen.
 
@@ -228,7 +227,7 @@ Die Betroffenen haben schadenmindernde Massnahmen an ihren Grundstücken, wie de
 
 **5**
 
-- 1\. 7. 22 - 117 § 21.<sup>23</sup> Die Enteignung erfolgt nach der kantonalen Enteignungsgesetzgebung[^20-1]; sofern dieses Gesetz keine abweichenden Bestimmungen enthält.
+- 1\. 7. 26 - 133 § 21.<sup>23</sup> Die Enteignung erfolgt nach der kantonalen Enteignungsgesetzgebung[^20-1]; sofern dieses Gesetz keine abweichenden Bestimmungen enthält.
 
 **2. Enteignung**
 
@@ -279,6 +278,12 @@ Die Betroffenen haben schadenmindernde Massnahmen an ihren Grundstücken, wie de
 
 <sup>4</sup> Über die Kostentragung wird in streitigen Fällen im Verfahren gemäss der kantonalen Enteignungsgesetzgebung[^27-1] entschieden.
 
+**Geschwindigkeitsanordnungen**
+
+§ 27 a.<sup>38</sup> <sup>1</sup> Der Kanton ist zuständig für Geschwindigkeitsanordnungen auf Staatsstrassen und Strassen mit überkommunaler Bedeutung. Eine Übertragung dieser Zuständigkeit ist ausgeschlossen.
+
+<sup>2</sup> Auf diesen Strassen wird die bundesrechtlich zulässige Höchstgeschwindigkeit nur in Ausnahmefällen über kurze Strecken herabgesetzt.
+
 [^27-1]: LS 781.
 
 ### IV. Finanzierung
@@ -297,13 +302,11 @@ Die Betroffenen haben schadenmindernde Massnahmen an ihren Grundstücken, wie de
 
 § 28 a.<sup>30</sup> Bis zur Verwirklichung des Radwegnetzes auf der Grundlage der regionalen Richtpläne stellt der Kantonsrat für diesen Zweck jährlich mindestens 10 Mio. Franken entsprechend dem Stand des zürcherischen Baukostenindexes am 1. Dezember 1986 im Budget ein. Der Betrag verändert sich entsprechend der seitherigen Entwicklung des Indexes.
 
-**Bau von Uferwegen a. Finanzierung**
-
-§ 28 b.<sup>30</sup> <sup>1</sup> Für die Erstellung der Uferwege entlang der Zürcher Seen und Flüsse gemäss dem kantonalen Richtplan und den regionalen Richtplänen stellt der Kantonsrat jährlich mindestens 6 Mio. Franken entsprechend dem Stand des zürcherischen Baukostenindexes am 1. April 2016 im Budget ein. Der Betrag verändert sich entsprechend der seitherigen Entwicklung des Indexes. Mindestens zwei Drittel dieses Betrags sind für den Bau des Uferweges am Zürichsee einzusetzen. Ein im Budget eingestellter Betrag, der nicht beansprucht wurde, verfällt.
-
 **7**
 
-- 1\. 7. 22 - 117
+- 1\. 7. 26 - 133 § 28 b.<sup>30</sup> <sup>1</sup> Für die Erstellung der Uferwege entlang der Zürcher Seen und Flüsse gemäss dem kantonalen Richtplan und den regionalen Richtplänen stellt der Kantonsrat jährlich mindestens 6 Mio. Franken entsprechend dem Stand des zürcherischen Baukostenindexes am 1. April 2016 im Budget ein. Der Betrag verändert sich entsprechend der seitherigen Entwicklung des Indexes. Mindestens zwei Drittel dieses Betrags sind für den Bau des Uferweges am Zürichsee einzusetzen. Ein im Budget eingestellter Betrag, der nicht beansprucht wurde, verfällt.
+
+**Bau von Uferwegen a. Finanzierung**
 
 <sup>2</sup> Die Standortgemeinden beteiligen sich an den Kosten von Wegabschnitten, die im oder angrenzend an das Siedlungsgebiet verlaufen, sofern der Wegabschnitt:
 
@@ -335,7 +338,9 @@ Die Betroffenen haben schadenmindernde Massnahmen an ihren Grundstücken, wie de
 
 § 31.<sup>27,</sup> <sup>37</sup> Für die Kostenanteile und Beiträge gemäss §§ 29 f. wird mindestens 20% der jährlichen Einlage in den Strassenfonds verwendet.
 
-§ 32.<sup>27</sup> 3. Leistungen Dritter
+§ 32.<sup>27</sup>
+
+- 3\. Leistungen Dritter
 
 **Leistungspflicht**
 
@@ -371,27 +376,31 @@ Projektierung, Bau und Unterhalt werden, soweit die fachgerechte Betreuung und �
 
 <sup>1</sup> Der Eigentümer einer öffentlichen Strasse hat die Verlegung von öffentlichen Verkehrs- und Versorgungsanlagen eines andern Gemeinwesens oder entsprechender Anlagen einer Unternehmung, die öffentliche Aufgaben erfüllt, auf schriftliches Gesuch hin zu dulden, sofern die Zweckbestimmung und die technische Anlage der Strasse dies gestatten.
 
+**9**
+
+- 1\. 7. 26 - 133
+
 <sup>2</sup> Dem Strasseneigentümer sind alle aus solchen Anlagen entstehenden Kosten zu ersetzen und die Strasse ist nach erfolgter Beanspruchung einwandfrei instandzustellen; eine weitere Entschädigung ist nicht geschuldet.
 
 <sup>3</sup> Derartige Anlagen sind auf Kosten ihres Trägers zu verlegen oder anzupassen, wenn dies ein Strassenprojekt erfordert.
 
-**9**
-
-- 1\. 7. 22 - 117 § 38. <sup>1</sup> Soll eine öffentliche Strasse aufgehoben werden, fasst der Strasseneigentümer darüber einen förmlichen Beschluss, der im kantonalen Amtsblatt und in der betreffenden Gemeinde öffentlich bekanntgemacht wird.
+#### § 38
 
 **Aufhebung öffentlicher Strassen**
 
+<sup>1</sup> Soll eine öffentliche Strasse aufgehoben werden, fasst der Strasseneigentümer darüber einen förmlichen Beschluss, der im kantonalen Amtsblatt und in der betreffenden Gemeinde öffentlich bekanntgemacht wird.
+
 <sup>2</sup> Wenn die aufzuhebende Strasse einzige Zufahrt zu Grundstücken bildet, die nach ihrer Zweckbestimmung darauf angewiesen sind, trifft der Strasseneigentümer im Aufhebungsbeschluss die Massnahmen, die zur Erhaltung einer Verbindung dieser Grundstücke mit dem öffentlichen Strassennetz unerlässlich sind; es steht ihm zu diesem Zweck das Enteignungsrecht zu.
 
-<sup>3</sup> Vorbehalten bleiben die Bestimmungen des Planungs- und Baugesetzes[^37-1].
+<sup>3</sup> Vorbehalten bleiben die Bestimmungen des Planungs- und Baugesetzes[^38-1].
 
-[^37-1]: LS 700.1.
+[^38-1]: LS 700.1.
 
 #### § 39
 
 **Strassenpolizeiliche Vorschriften**
 
-<sup>1</sup> Staat und Gemeinden stellen, soweit ein Bedürfnis besteht und das Planungs- und Baugesetz[^37-1] keine abschliessende Ordnung trifft, Polizeivorschriften über das Strassengebiet selbst, seine Benützung sowie über das an die öffentlichen und privaten Strassen im Gemeingebrauch grenzende Gebiet auf.
+<sup>1</sup> Staat und Gemeinden stellen, soweit ein Bedürfnis besteht und das Planungs- und Baugesetz[^38-1] keine abschliessende Ordnung trifft, Polizeivorschriften über das Strassengebiet selbst, seine Benützung sowie über das an die öffentlichen und privaten Strassen im Gemeingebrauch grenzende Gebiet auf.
 
 <sup>2</sup> Vorbehalten bleiben die verkehrspolizeilichen Vorschriften.
 
@@ -453,7 +462,7 @@ Projektierung, Bau und Unterhalt werden, soweit die fachgerechte Betreuung und �
 
 **11**
 
-- 1\. 7. 22 - 117
+- 1\. 7. 26 - 133
 
 <sup>5</sup> Nationalstrassen fallen bei der Berechnung ausser Betracht. Autobahnähnliche Strassen werden doppelt, Einbahnstrassensysteme in beiden Richtungen angerechnet.
 
@@ -481,7 +490,7 @@ Projektierung, Bau und Unterhalt werden, soweit die fachgerechte Betreuung und �
 
 <sup>2</sup> Für Strassen des regionalen Verkehrsplans ist dieses Recht des Staates nur gegeben, wenn durch das Vorhaben wesentliche Interessen einer benachbarten Gemeinde wahrgenommen werden.
 
-[^43-1]: Fassung gemäss G vom 1. April 1990 (OS 51, 101). In Kraft seit 1. Januar 1991 (OS 51, 200). 1. 7. 22 - 117 19
+[^43-1]: Fassung gemäss G vom 1. April 1990 (OS 51, 101). In Kraft seit 1. Januar 1991 (OS 51, 200). 1. 7. 26 - 133 19
 [^43-2]: Aufgehoben durch G vom 1. April 1990 (OS 51, 101). In Kraft seit 1. Januar 1991 (OS 51, 200).
 
 #### § 51
@@ -532,7 +541,7 @@ Die generellen und die Ausführungsprojekte bedürfen der Genehmigung durch den 
 
 **13**
 
-- 1\. 7. 22 - 117
+- 1\. 7. 26 - 133
 
 <sup>2</sup> Die Gemeinde wird zu einem Ansatz entschädigt, der den durchschnittlichen Aufwendungen des Staates für den Unterhalt der Staatsstrassen in vergleichbaren Verhältnissen entspricht. Aussergewöhnliche Arbeiten werden zusätzlich vergütet, sofern sie mit vorgängiger Zustimmung der Baudirektion durchgeführt worden sind.
 
@@ -606,7 +615,7 @@ Die Summe der Anstösserbeiträge darf die Hälfte der vollen Kosten mit Einschl
 
 **15**
 
-- 1\. 7. 22 - 117 Wo nur ein Trottoir erstellt wird, dürfen die Eigentümer der gegenüberliegenden Grundstücke höchstens mit einem Drittel der Summe der Anstösserbeiträge belastet werden. Wird später auch das gegenüberliegende Trottoir erstellt, sind die Beiträge entsprechend der Aufteilung beim Bau des ersten Trottoirs auf die beidseitigen Anstösser zu verlegen.
+- 1\. 7. 26 - 133 Wo nur ein Trottoir erstellt wird, dürfen die Eigentümer der gegenüberliegenden Grundstücke höchstens mit einem Drittel der Summe der Anstösserbeiträge belastet werden. Wird später auch das gegenüberliegende Trottoir erstellt, sind die Beiträge entsprechend der Aufteilung beim Bau des ersten Trottoirs auf die beidseitigen Anstösser zu verlegen.
 
 Bei Trottoirbauten, die vorwiegend mit Rücksicht auf den durchgehenden Verkehr erfolgen, sind Beiträge nur für Liegenschaften zu leisten, bei denen die veränderten Verkehrsverhältnisse die Wertvermehrung bewirken.
 
@@ -652,7 +661,7 @@ Das Gemeinwesen hat dem Grundeigentümer den aus einem Verzicht entstehenden Sch
 
 **17**
 
-- 1\. 7. 22 - 117 In diesem Fall hat das Gemeinwesen, wenn es nicht gemäss § 17 k auf die Ausführung des Projekts verzichtet, den bisherigen Wert der Liegenschaft ohne Rücksicht auf die entstehende Wertvermehrung zu vergüten.
+- 1\. 7. 26 - 133 In diesem Fall hat das Gemeinwesen, wenn es nicht gemäss § 17 k auf die Ausführung des Projekts verzichtet, den bisherigen Wert der Liegenschaft ohne Rücksicht auf die entstehende Wertvermehrung zu vergüten.
 
 Können sich Gemeinwesen und Grundeigentümer über den Wert der Liegenschaft nicht einigen, entscheidet auf Begehren des Grundeigentümers die Schätzungskommission; ist ein Weiterzug erfolgt, ist die Klage unmittelbar bei der obern Instanz anzubringen.
 
@@ -731,6 +740,8 @@ Die Zuständigkeit für die Beurteilung der im Zeitpunkt des Inkrafttretens hän
 <sup>36</sup> Eingefügt durch G vom 31. August 2020 (OS 76, 156; ABl 2019-04-12). In Kraft seit 1. Juli 2021.
 
 <sup>37</sup> Eingefügt durch G vom 18. November 2019 (OS 77, 232; ABl 2018-12-07). In Kraft seit 1. Juni 2022.
+
+<sup>38</sup> Eingefügt durch G vom 31. März 2025 (OS 81, 142; ABl 2024-12-20). In Kraft seit 1. Juni 2026.
 
 ## Weitere Fussnoten
 
