@@ -4,13 +4,12 @@ number: "311.4"
 title: Verordnung über die kantonalen Ordnungsbussen und den Vollzug der Ordnungsbussengesetzgebung durch die Transportpolizei
 short: KOV
 language: de
-version: 2021-08-20
-valid_until: 2026-05-31
-version_adopted: 2021-06-01
+version: 2026-06-01
+version_adopted: 2026-03-03
 adopted: 2016-11-07
 in_force: 2017-01-01
 url: "https://bgs.so.ch/app/de/texts_of_law/311.4"
-pdf: "https://bgs.so.ch/api/de/versions/5105/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5646/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://bgs.so.ch/api/de/versions/5105/pdf_file"
 
 (KOV)
 
-Vom 07.11.2016 (Stand 20.08.2021)
+Vom 07.11.2016 (Stand 01.06.2026)
 
 Der Regierungsrat des Kantons Solothurn
 
@@ -80,7 +79,7 @@ beschliesst:
 
 <sup>1</sup> Verletzung der generellen Leinenpflicht (§ 15 Gesetz über das Halten von Hunden vom 7. November 2006[^6-1] i. V. m. § 4 Abs. 1 Verordnung über das Halten von Hunden vom 6. März 2007[^6-2])
 
-- a) im Wald in den Monaten Mai und Juni — 80 Franken
+- a) im Wald vom 1. April bis 31. Juli — 80 Franken
 - b) in den entsprechend bezeichneten öffentlichen Räumen — 80 Franken
 
 [^6-1]: BGS [614.71.](https://bgs.so.ch/data/614.71./de)
