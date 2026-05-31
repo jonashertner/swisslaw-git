@@ -4,13 +4,13 @@ number: "122.0.14"
 title: "Ordonnance relative à l'identité visuelle de l'Etat de Fribourg"
 short: OIV
 language: fr
-version: 2025-01-01
-valid_until: 2026-05-31
-version_adopted: 2024-12-03
+version: 2026-06-01
+valid_until: 2026-10-31
+version_adopted: 2026-05-26
 adopted: 2011-12-06
 in_force: 2012-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/122.0.14"
-pdf: "https://bdlf.fr.ch/api/fr/versions/8089/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/8607/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +21,7 @@ Identité visuelle de l'Etat de Fribourg – O
 
 (OIV)
 
-du 06.12.2011 (version entrée en vigueur le 01.01.2025)
+du 06.12.2011 (version entrée en vigueur le 01.06.2026)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -121,13 +121,17 @@ Arrête:
 
 - a) le Service de l'informatique et des télécommunications, dans le domaine informatique;
 - b) le Service des bâtiments, dans le domaine de la signalétique des bâtiments;
-- c) le Service d'achat du matériel et des imprimés (SAMI), dans le domaine des publications, de l'achat du matériel et des imprimés.
+- c) le Bureau de l'information (BdI) et l'Office cantonal du matériel scolaire (OCMS), dans le domaine des publications et des imprimés.
 
 #### Art. 8
 
 **Acquisition et commandes de matériel et d'imprimés**
 
-<sup>1</sup> Les unités administratives recourent au SAMI pour l'acquisition de matériel soumis aux exigences de la charte graphique et pour les commandes d'imprimés (documents à produire en série et ne pouvant être réalisés dans l'unité, y compris pour leur conception graphique et leur façonnage). Le SAMI peut sous-traiter des travaux à des entreprises privées.
+<sup>1</sup> Les unités administratives recourent au BdI pour les commandes d'imprimés soumises aux exigences de la charte graphique (documents à produire en série et ne pouvant être réalisés dans l'unité, y compris pour leur conception graphique et leur façonnage).
+
+<sup>2</sup> L'acquisition de matériel soumis à ces exigences est effectuée par l'OCMS, d'entente avec le BdI.
+
+<sup>3</sup> Le BdI peut sous-traiter des travaux à des entreprises privées.
 
 #### Art. 9
 

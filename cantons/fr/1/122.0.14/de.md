@@ -4,13 +4,13 @@ number: "122.0.14"
 title: Verordnung über das Corporate Design des Staates Freiburg
 short: CDV
 language: de
-version: 2025-01-01
-valid_until: 2026-05-31
-version_adopted: 2024-12-03
+version: 2026-06-01
+valid_until: 2026-10-31
+version_adopted: 2026-05-26
 adopted: 2011-12-06
 in_force: 2012-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/122.0.14"
-pdf: "https://bdlf.fr.ch/api/de/versions/8089/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/8607/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Corporate Design des Staates Freiburg – V
 
 (CDV)
 
-vom 06.12.2011 (Fassung in Kraft getreten am 01.01.2025)
+vom 06.12.2011 (Fassung in Kraft getreten am 01.06.2026)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -121,13 +121,17 @@ beschliesst:
 
 - a) das Amt für Informatik und Telekommunikation, bei der Informatik;
 - b) das Hochbauamt, bei der Gebäudebeschriftung;
-- c) das Amt für Drucksachen und Material (DMA), bei den Veröffentlichungen, beim Kauf von Material und bei den Drucksachen.
+- c) das Büro für Information und die kantonale Lehrmittelverwaltung (KLV), bei den Veröffentlichungen und bei den Drucksachen.
 
 #### Art. 8
 
 **Anschaffung und Bestellung von Material und Drucksachen**
 
-<sup>1</sup> Die Verwaltungseinheiten wenden sich an das DMA, wenn sie Material anschaffen wollen, das den Anforderungen der Grafikcharta genügt, oder wenn sie Drucksachen bestellen (Dokumente, die serienmässig produziert werden oder besondere Anforderungen in Bezug auf ihre Gestaltung stellen und deshalb nicht in der Verwaltungseinheit hergestellt werden können). Das DMA kann Arbeiten an private Unternehmen vergeben.
+<sup>1</sup> Die Verwaltungseinheiten wenden sich an das Büro für Information, wenn sie Drucksachen bestellen, welche die Anforderungen der Grafikcharta erfüllen müssen (Dokumente, die serienmässig produziert werden und die nicht in der Verwaltungseinheit hergestellt werden können, einschliesslich die Gestaltung und das Grafikdesign).
+
+<sup>2</sup> Die Anschaffung von Material, das diese Anforderungen erfüllt, erfolgt durch die KLV in Absprache mit dem Büro für Information.
+
+<sup>3</sup> Das Büro für Information kann Arbeiten an private Unternehmen vergeben.
 
 #### Art. 9
 
