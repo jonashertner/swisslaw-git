@@ -1,22 +1,21 @@
 ---
 canton: LU
 number: 545d
-title: "Reglement über die Weiterbildungsangebote «MAS in Effective Leadership» der Universität Luzern in Kooperation mit der Höheren Kaderausbildung der Armee, «CAS in Decision Making and Leadership», «CAS in Information Management and Leadership», «CAS in Human Factors in Leadership» und «CAS in Decisive Leadership»"
+title: "Reglement über die Weiterbildungsangebote «MAS in Effective Leadership» der Universität Luzern in Kooperation mit der Höheren Kaderausbildung der Armee, «CAS in Decision Making and Leadership», «CAS in Information Management and Leadership», «CAS in Human Factors and Leadership», «CAS in Decisive Leadership» und «CAS in Human Potential and Leadership»"
 language: de
-version: 2024-12-01
-valid_until: 2026-05-31
-version_adopted: 2024-10-18
+version: 2026-06-01
+version_adopted: 2026-04-01
 adopted: 2017-12-15
 in_force: 2018-01-01
 url: "https://srl.lu.ch/app/de/texts_of_law/545d"
-pdf: "https://srl.lu.ch/api/de/versions/4288/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4789/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Reglement über die Weiterbildungsangebote «MAS in Effective Leadership» der Universität Luzern in Kooperation mit der Höheren Kaderausbildung der Armee, «CAS in Decision Making and Leadership», «CAS in Information Management and Leadership», «CAS in Human Factors in Leadership» und «CAS in Decisive Leadership»
+# Reglement über die Weiterbildungsangebote «MAS in Effective Leadership» der Universität Luzern in Kooperation mit der Höheren Kaderausbildung der Armee, «CAS in Decision Making and Leadership», «CAS in Information Management and Leadership», «CAS in Human Factors and Leadership», «CAS in Decisive Leadership» und «CAS in Human Potential and Leadership»
 
-vom 15.12.2017 (Stand 01.12.2024)
+vom 15.12.2017 (Stand 01.06.2026)
 
 Der Universitätsrat der Universität Luzern,
 
@@ -36,7 +35,9 @@ beschliesst:
 
 <sup>1</sup> Der «MAS in Effective Leadership» ist ein modulares Weiterbildungsangebot der Universität Luzern in Kooperation mit der Höheren Kaderausbildung der Armee (HKA). Es beinhaltet drei Zertifikatslehrgänge (Certificate of Advanced Studies, CAS) mit verschiedenen Fokusbereichen (§ 7 Abs. 3 bis 5) sowie einen Weiterbildungsmaster-Lehrgang (Master of Advanced Studies, MAS).
 
-<sup>1<sup>bis</sup></sup> Die Zertifikatslehrgänge gemäss Absatz 1 sind der «CAS in Information Management and Leadership» und der «CAS in Human Factors in Leadership» sowie der «CAS in Decision Making and Leadership». Wenn die Voraussetzungen nach § 7 Absatz 1<sup>bis</sup> erfüllt sind, kann anstelle des «CAS in Decision Making and Leadership» der «CAS in Decisive Leadership» absolviert werden.
+<sup>1<sup>bis</sup></sup> Die Zertifikatslehrgänge gemäss Absatz 1 sind der «CAS in Information Management and Leadership» und der «CAS in Human Factors and Leadership» sowie der «CAS in Decision Making and Leadership». Wenn die Voraussetzungen nach § 7 Absatz 1<sup>bis</sup> erfüllt sind, kann anstelle des «CAS in Decision Making and Leadership» der «CAS in Decisive Leadership» absolviert werden.
+
+<sup>1<sup>ter</sup></sup> Wenn die Voraussetzungen nach § 7 Absatz 1<sup>ter</sup> erfüllt sind, kann anstelle des «CAS in Human Factors and Leadership» der «CAS in Human Potential and Leadership» absolviert werden.
 
 <sup>2</sup> Der «MAS in Effective Leadership» befähigt qualifizierte Führungspersonen, multidisziplinäre Organisationseinheiten in anspruchsvollen Situationen wirkungsvoll zu führen.
 
@@ -70,9 +71,9 @@ beschliesst:
 
 **Vorstand**
 
-<sup>1</sup> Die Studienleitung (Vorstand) des Weiterbildungsangebots setzt sich paritätisch aus Personen der Universität Luzern und der HKA zusammen. Die Mitglieder des Vorstandes werden auf Vorschlag des Vorstandes durch die Fakultätsversammlung gewählt. Die Amtsdauer beträgt vier Jahre. Die Wiederwahl ist zulässig.
+<sup>1</sup> Die wissenschaftliche Leitung obliegt einer Inhaberin oder einem Inhaber einer Professur der Fakultät, die oder der den Vorsitz (Präsidium) in der Studienleitung (Vorstand) des Weiterbildungsangebots hat. Dem Vorstand gehören weitere Angehörige der Universität Luzern mit Promotion an, in begründeten Ausnahmefällen auch ohne, sowie Angehörige der HKA in gleicher Zahl (paritätische Vertretung). Eine Angehörige oder ein Angehöriger der HKA hat das Vizepräsidium inne. Im Übrigen konstituiert sich der Vorstand selbst.
 
-<sup>2</sup> Der Vorstand konstituiert sich selbst. Das Präsidium wird durch die Universität Luzern gestellt, das Vizepräsidium durch die HKA.
+<sup>2</sup> Die Mitglieder des Vorstandes werden auf Vorschlag des Vorstandes durch die Fakultätsversammlung gewählt. Die Amtsdauer beträgt vier Jahre. Die Wiederwahl ist zulässig.
 
 <sup>3</sup> …
 
@@ -120,7 +121,7 @@ beschliesst:
 
 <sup>3</sup> Zum Fokusbereich «Entscheidungsfindung» wird der «CAS in Decision Making and Leadership» oder, nach den Voraussetzungen von § 7 Absatz 1<sup>bis</sup>, der «CAS in Decisive Leadership» absolviert.
 
-<sup>4</sup> Zum Fokusbereich «Humanfaktoren» wird der Zertifikatslehrgang «CAS in Human Factors in Leadership» absolviert.
+<sup>4</sup> Zum Fokusbereich «Humanfaktoren» wird der Zertifikatslehrgang «CAS in Human Factors and Leadership» oder nach den Voraussetzungen von § 7 Absatz 1<sup>ter</sup> der «CAS in Human Potential and Leadership» absolviert.
 
 <sup>5</sup> Zum Fokusbereich «Informationsmanagement» wird der Zertifikatslehrgang «CAS in Information Management and Leadership» absolviert.
 
@@ -133,6 +134,8 @@ beschliesst:
 <sup>1</sup> Zu den Zertifikatslehrgängen und zum Weiterbildungsmaster-Lehrgang kann zugelassen werden, wer über ein abgeschlossenes Universitäts- oder Hochschulstudium, unter Einschluss der pädagogischen Hochschulen, verfügt. Sur-dossier-Aufnahmen sind möglich.
 
 <sup>1<sup>bis</sup></sup> Der «CAS in Decisive Leadership» kann nur durch Absolventinnen und Absolventen des Führungslehrgangs «Einheit» der HKA mit Start ab August 2022 absolviert werden. Die Zulassung zum Führungslehrgang «Einheit» richtet sich nach den für diesen geltenden Regelungen der HKA. Absolventinnen und Absolventen von vor August 2022 durchgeführten Führungslehrgängen «Einheit» belegen den «CAS in Decision Making and Leadership». Es kann nur entweder der «CAS in Decisive Leadership» oder der «CAS in Decision Making and Leadership» absolviert werden.
+
+<sup>1<sup>ter</sup></sup> Der «CAS in Human Potential and Leadership» kann nur durch Absolventinnen und Absolventen des Führungslehrgangs «Truppenkörper» der HKA mit Start ab Januar 2027 absolviert werden. Die Zulassung zum Führungslehrgang «Truppenkörper» richtet sich nach den für diesen geltenden Regelungen der HKA. Absolvierende von vor Januar 2027 durchgeführten Führungslehrgängen «Truppenkörper» belegen den «CAS in Human Factors and Leadership». Es kann nur entweder der «CAS in Human Potential and Leadership Leadership» oder der «CAS in Human Factors and Leadership» absolviert werden.
 
 <sup>2</sup> Die Zulassung zum Weiterbildungsmaster-Lehrgang erfordert zusätzlich den erfolgreichen Abschluss von drei Zertifikationslehrgängen gemäss § 1 Absatz 1<sup>bis</sup>.
 
@@ -174,7 +177,7 @@ beschliesst:
 
 **Certificate of Advanced Studies (CAS)**
 
-<sup>1</sup> Für den Erwerb eines «Certificate of Advanced Studies in Decision Making and Leadership of the University of Lucerne», eines «Certificate of Advanced Studies in Decisive Leadership of the University of Lucerne», eines «Certificate of Advanced Studies in Human Factors in Leadership of the University of Lucerne» oder eines «Certificate of Advanced Studies in Information Management and Leadership of the University of Lucerne» muss der erfolgreiche Abschluss des entsprechenden Zertifikatslehrganges im Umfang von 13 ECTS-Punkten nachgewiesen werden.
+<sup>1</sup> Für den Erwerb eines «Certificate of Advanced Studies in Decision Making and Leadership of the University of Lucerne», eines «Certificate of Advanced Studies in Decisive Leadership of the University of Lucerne», eines «Certificate of Advanced Studies in Human Factors and Leadership of the University of Lucerne», eines «Certificate of Advanced Studies in Human Potential and Leadership of the University of Lucerne» oder eines «Certificate of Advanced Studies in Information Management and Leadership of the University of Lucerne» muss der erfolgreiche Abschluss des entsprechenden Zertifikatslehrganges im Umfang von 13 ECTS-Punkten nachgewiesen werden.
 
 <sup>2</sup> Wird eine Schlussnote für einen Zertifikatslehrgang vergeben, ergibt sich diese aus dem arithmetischen Mittel der benoteten Module. Das Bestehen sämtlicher Module (pass oder Note 4.0) ist Voraussetzung für den erfolgreichen Abschluss des Zertifikatslehrgangs.
 
@@ -206,7 +209,7 @@ beschliesst:
 
 <sup>2</sup> Zwischen der Universität Luzern und der HKA besteht ein Partnerschaftsvertrag, der unter anderem die Verwendung von Ertragsüberschüssen und die Tragung von Defiziten regelt.
 
-<sup>3</sup> Die Honorare der Dozierenden werden vom Vorstand im Rahmen der durch den Universitätsrat verabschiedeten Richtlinie für Honorare im Bereich der Weiterbildung und bei wissenschaftlichen Tagungen an der Universität Luzern[^13-1] festgelegt. Die Mitglieder des Vorstands arbeiten ehrenamtlich. Spesen werden vergütet.
+<sup>3</sup> Die Honorare der Dozierenden werden vom Vorstand im Rahmen der durch den Universitätsrat verabschiedeten Richtlinie für Honorare im Bereich der Weiterbildung und bei wissenschaftlichen Tagungen an der Universität Luzern[^13-1] festgelegt. Die Mitglieder des Vorstandes arbeiten ehrenamtlich. Spesen werden vergütet.
 
 <sup>4</sup> Die beanspruchten Querschnittsleistungen der Universität im Sinne von § 22 Absatz 4 des Rahmenreglements für die Weiterbildung an der Universität Luzern[^13-2] werden durch eine Strukturkostenpauschale von 6 Prozent auf den eingenommenen Studiengebühren abgegolten.
 
