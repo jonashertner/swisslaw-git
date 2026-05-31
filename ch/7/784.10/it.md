@@ -4,11 +4,11 @@ title: Legge del 30 aprile 1997 sulle telecomunicazioni (LTC)
 short: LTC
 eli: "https://fedlex.data.admin.ch/eli/cc/1997/2187_2187_2187"
 language: it
-version: 2023-09-01
+version: 2026-06-01
 adopted: 1997-04-30
 in_force: 1997-10-20
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1997/2187_2187_2187/20230901/it/xml/fedlex-data-admin-ch-eli-cc-1997-2187_2187_2187-20230901-it-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/20230901/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1997/2187_2187_2187/20260601/it/xml/fedlex-data-admin-ch-eli-cc-1997-2187_2187_2187-20260601-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/20260601/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/20230901/it"
 
 (LTC)
 
-del 30 aprile 1997 (Stato 1° settembre 2023)
+del 30 aprile 1997 (Stato 1° giugno 2026)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -25,8 +25,8 @@ visto l’articolo 92 della Costituzione federale[^ingress-1];[^ingress-2] visto
 
 decreta:
 
-[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
-[^ingress-2]: Nuovo testo giusta il n. I della LF del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 5599](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
+[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
+[^ingress-2]: Nuovo testo giusta la cifra I della LF del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 5599](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
 [^ingress-3]: [FF 1996 III 1297](https://fedlex.data.admin.ch/eli/fga/1996/3_1405_1361_1297)
 
 ## Capitolo 1: Disposizioni generali
@@ -47,8 +47,8 @@ La presente legge intende in particolare:
 - d.[^1-1] proteggere gli utenti di servizi di telecomunicazione dalla pubblicità sleale e dall’abuso di servizi a valore aggiunto;
 - e.[^1-2] proteggere i fanciulli e gli adolescenti dai pericoli derivanti dall’utilizzazione dei servizi di telecomunicazione.
 
-[^1-1]: Introdotta dal n. I della LF del 24 mar. 2006 ([RU 2007 921](https://fedlex.data.admin.ch/eli/oc/2007/165); [FF 2003 6883](https://fedlex.data.admin.ch/eli/fga/2003/1351)). Nuovo testo giusta il n. I della LF del 22 mar. 2019, in vigore dal 1° lug. 2021 ([RU 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 5599](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
-[^1-2]: Introdotta dal n. I della LF del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 5599](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
+[^1-1]: Introdotta dalla cifra I della LF del 24 mar. 2006 ([RU 2007 921](https://fedlex.data.admin.ch/eli/oc/2007/165); [FF 2003 6883](https://fedlex.data.admin.ch/eli/fga/2003/1351)). Nuovo testo giusta la cifra I della LF del 22 mar. 2019, in vigore dal 1° lug. 2021 ([RU 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 5599](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
+[^1-2]: Introdotta dalla cifra I della LF del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 5599](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
 
 #### Art. 2
 
@@ -56,8 +56,8 @@ La presente legge intende in particolare:
 
 La presente legge disciplina la trasmissione di informazioni mediante telecomunicazione, inclusa la trasmissione di programmi radiotelevisivi per quanto la legge federale del 24 marzo 2006[^2-2] sulla radiotelevisione (LRTV) non disponga altrimenti.
 
-[^2-1]: Nuovo testo giusta l’all. n. II 2 della LF del 24 mar. 2006 sulla radiotelevisione, in vigore dal 1° apr. 2007 ([RU 2007 737](https://fedlex.data.admin.ch/eli/oc/2007/150); [FF 2003 1399](https://fedlex.data.admin.ch/eli/fga/2003/223)).
-[^2-2]: [RS 784.40](https://fedlex.data.admin.ch/eli/cc/2007/150)
+[^2-1]: Nuovo testo giusta l’all. cifra II n. 2 della LF del 24 mar. 2006 sulla radiotelevisione, in vigore dal 1° apr. 2007 ([RU 2007 737](https://fedlex.data.admin.ch/eli/oc/2007/150); [FF 2003 1399](https://fedlex.data.admin.ch/eli/fga/2003/223)).
+[^2-2]: [RS 784.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9210)
 
 #### Art. 3
 
@@ -79,17 +79,17 @@ Nella presente legge s’intende per:[^3-1]
 - g.[^3-9] *dati elenco:* indicazioni che identificano o caratterizzano un cliente in relazione a un elemento di indirizzo attribuitogli individualmente e che sono destinate alla pubblicazione di un elenco o sono necessarie alla fornitura di un servizio di telecomunicazione;
 - h.[^3-10] *programmi radiotelevisivi*: una serie di trasmissioni ai sensi dell’articolo 2 LRTV[^3-11].
 
-[^3-1]: Nuovo testo giusta il n. I della LF del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 5599](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
-[^3-2]: Introdotta dal n. I della LF del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 5599](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
-[^3-3]: Introdotta dal n. I della LF del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 5599](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
-[^3-4]: Introdotte dal n. I della LF del 24 mar. 2006 ([RU 2007 921](https://fedlex.data.admin.ch/eli/oc/2007/165); [FF 2003 6883](https://fedlex.data.admin.ch/eli/fga/2003/1351)). Abrogate dal n. I della LF del 22 mar. 2019, con effetto dal 1° gen. 2021 ([RU 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 5599](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
-[^3-5]: Nuovo testo giusta il n. I della LF del 24 mar. 2006, in vigore dal 1° apr. 2007 ([RU 2007 921](https://fedlex.data.admin.ch/eli/oc/2007/165); [FF 2003 6883](https://fedlex.data.admin.ch/eli/fga/2003/1351)).
-[^3-6]: Introdotta dal n. I della LF del 24 mar. 2006, in vigore dal 1° apr. 2007 ([RU 2007 921](https://fedlex.data.admin.ch/eli/oc/2007/165); [FF 2003 6883](https://fedlex.data.admin.ch/eli/fga/2003/1351)).
-[^3-7]: Introdotta dal n. I della LF del 24 mar. 2006, in vigore dal 1° apr. 2007 ([RU 2007 921](https://fedlex.data.admin.ch/eli/oc/2007/165); [FF 2003 6883](https://fedlex.data.admin.ch/eli/fga/2003/1351)).
-[^3-8]: Nuovo testo giusta il n. I della LF del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 5599](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
-[^3-9]: Nuovo testo giusta il n. I della LF del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 5599](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
-[^3-10]: Introdotta dall’all. n. II 2 della LF del 24 mar. 2006 sulla radiotelevisione, in vigore dal 1° apr. 2007 ([RU 2007 737](https://fedlex.data.admin.ch/eli/oc/2007/150); [FF 2003 1399](https://fedlex.data.admin.ch/eli/fga/2003/223)).
-[^3-11]: [RS 784.40](https://fedlex.data.admin.ch/eli/cc/2007/150)
+[^3-1]: Nuovo testo giusta la cifra I della LF del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 5599](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
+[^3-2]: Introdotta dalla cifra I della LF del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 5599](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
+[^3-3]: Introdotta dalla cifra I della LF del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 5599](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
+[^3-4]: Introdotte dalla cifra I della LF del 24 mar. 2006 ([RU 2007 921](https://fedlex.data.admin.ch/eli/oc/2007/165); [FF 2003 6883](https://fedlex.data.admin.ch/eli/fga/2003/1351)). Abrogate dal cifra I della LF del 22 mar. 2019, con effetto dal 1° gen. 2021 ([RU 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 5599](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
+[^3-5]: Nuovo testo giusta la cifra I della LF del 24 mar. 2006, in vigore dal 1° apr. 2007 ([RU 2007 921](https://fedlex.data.admin.ch/eli/oc/2007/165); [FF 2003 6883](https://fedlex.data.admin.ch/eli/fga/2003/1351)).
+[^3-6]: Introdotta dalla cifra I della LF del 24 mar. 2006, in vigore dal 1° apr. 2007 ([RU 2007 921](https://fedlex.data.admin.ch/eli/oc/2007/165); [FF 2003 6883](https://fedlex.data.admin.ch/eli/fga/2003/1351)).
+[^3-7]: Introdotta dalla cifra I della LF del 24 mar. 2006, in vigore dal 1° apr. 2007 ([RU 2007 921](https://fedlex.data.admin.ch/eli/oc/2007/165); [FF 2003 6883](https://fedlex.data.admin.ch/eli/fga/2003/1351)).
+[^3-8]: Nuovo testo giusta la cifra I della LF del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 5599](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
+[^3-9]: Nuovo testo giusta la cifra I della LF del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 5599](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
+[^3-10]: Introdotta dall’all. cifra II n. 2 della LF del 24 mar. 2006 sulla radiotelevisione, in vigore dal 1° apr. 2007 ([RU 2007 737](https://fedlex.data.admin.ch/eli/oc/2007/150); [FF 2003 1399](https://fedlex.data.admin.ch/eli/fga/2003/223)).
+[^3-11]: [RS 784.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9210)
 
 ## Capitolo 2: Servizi di telecomunicazione
 
@@ -111,7 +111,7 @@ Ogni tre anni il Consiglio federale riferisce all’Assemblea federale in merito
 
 <sup>2</sup> Se del caso, il Consiglio federale presenta all’Assemblea federale proposte tese a promuovere una concorrenza efficace.
 
-[^3a-1]: Introdotto dal n. I della LF del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 5599](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
+[^3a-1]: Introdotto dalla cifra I della LF del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 5599](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
 
 #### Art. 4
 
@@ -130,7 +130,7 @@ L’Ufficio federale delle comunicazioni (UFCOM) registra i fornitori di servizi
 
 <sup>4</sup> Il Consiglio federale disciplina i dettagli relativi alla registrazione.
 
-[^4-1]: Nuovo testo giusta il n. I della LF del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 5599](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
+[^4-1]: Nuovo testo giusta la cifra I della LF del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 5599](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
 
 #### Art. 5
 
@@ -138,7 +138,7 @@ L’Ufficio federale delle comunicazioni (UFCOM) registra i fornitori di servizi
 
 L’autorità competente può vietare ai fornitori di servizi di telecomunicazione organizzati secondo una legislazione estera di utilizzare le radiofrequenze o gli elementi di indirizzo di cui all’articolo 4 capoverso 1, se non è concessa la reciprocità. Sono fatti salvi gli impegni internazionali che vi si oppongono.
 
-[^5-1]: Nuovo testo giusta il n. I della LF del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 5599](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
+[^5-1]: Nuovo testo giusta la cifra I della LF del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 5599](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
 
 #### Art. 6
 
@@ -149,7 +149,7 @@ I fornitori di servizi di telecomunicazione che hanno la loro sede o una stabile
 - a. osservare le prescrizioni attinenti al diritto del lavoro e garantire le condizioni di lavoro abituali nel settore;
 - b. offrire un adeguato numero di posti di formazione professionale di base.
 
-[^6-1]: Nuovo testo giusta il n. I della LF del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 5599](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
+[^6-1]: Nuovo testo giusta la cifra I della LF del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 5599](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
 
 #### Art. 6a
 
@@ -160,14 +160,14 @@ I fornitori di servizi di telecomunicazione bloccano l’accesso alla telefonia 
 - a. hanno utilizzato un’identità inesistente o l’identità di una persona che non aveva precedentemente acconsentito a questa relazione; o
 - b. non hanno presentato un documento conforme alle esigenze definite dal Consiglio federale in virtù dell’articolo 23 capoverso 1 della legge federale del 18 marzo 2016[^6a-2] sulla sorveglianza della corrispondenza postale e del traffico delle telecomunicazioni.
 
-[^6a-1]: Introdotto dall’all. n. II 3 della LF del 18 mar. 2016 sulla sorveglianza della corrispondenza postale e del traffico delle telecomunicazioni, in vigore dal 1° mar. 2018 ([RU 2018 117](https://fedlex.data.admin.ch/eli/oc/2018/31); [FF 2013 2283](https://fedlex.data.admin.ch/eli/fga/2013/512)).
-[^6a-2]: [RS 780.1](https://fedlex.data.admin.ch/eli/cc/2018/31)
+[^6a-1]: Introdotto dall’all. cifra II n. 3 della LF del 18 mar. 2016 sulla sorveglianza della corrispondenza postale e del traffico delle telecomunicazioni, in vigore dal 1° mar. 2018 ([RU 2018 117](https://fedlex.data.admin.ch/eli/oc/2018/31); [FF 2013 2283](https://fedlex.data.admin.ch/eli/fga/2013/512)).
+[^6a-2]: [RS 780.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9117)
 
 #### Art. 7 a 10
 
 [^710-1]
 
-[^710-1]: Abrogati dal n. I della LF del 24 mar. 2006, con effetto dal 1° apr. 2007 ([RU 2007 921](https://fedlex.data.admin.ch/eli/oc/2007/165); [FF 2003 6883](https://fedlex.data.admin.ch/eli/fga/2003/1351)).
+[^710-1]: Abrogati dalla cifra I della LF del 24 mar. 2006, con effetto dal 1° apr. 2007 ([RU 2007 921](https://fedlex.data.admin.ch/eli/oc/2007/165); [FF 2003 6883](https://fedlex.data.admin.ch/eli/fga/2003/1351)).
 
 #### Art. 11
 
@@ -192,10 +192,10 @@ I fornitori di servizi di telecomunicazione che detengono una posizione dominant
 <sup>5</sup> Per la diffusione di programmi radiotelevisivi non sussiste alcun obbligo d’accesso.
 
 [^11-1]: Nuovo testo giusta l’art. 106 n. 2 della LF del 24 mar. 2006 sulla radiotelevisione, in vigore dal 1° apr. 2007 ([RU 2007 737](https://fedlex.data.admin.ch/eli/oc/2007/150); [FF 2003 1399](https://fedlex.data.admin.ch/eli/fga/2003/223)).
-[^11-2]: Nuovo testo giusta il n. I della LF del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 5599](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
-[^11-3]: Nuovo testo giusta il n. I della LF del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 5599](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
-[^11-4]: Abrogate dal n. I della LF del 22 mar. 2019, con effetto dal 1° gen. 2021 ([RU 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 5599](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
-[^11-5]: Nuova espr. giusta il n. I della LF del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 5599](https://fedlex.data.admin.ch/eli/fga/2017/1933)). Di detta mod. è tenuto conto in tutto il presente testo.
+[^11-2]: Nuovo testo giusta la cifra I della LF del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 5599](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
+[^11-3]: Nuovo testo giusta la cifra I della LF del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 5599](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
+[^11-4]: Abrogate dalla cifra I della LF del 22 mar. 2019, con effetto dal 1° gen. 2021 ([RU 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 5599](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
+[^11-5]: Nuova espr. giusta la cifra I della LF del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 5599](https://fedlex.data.admin.ch/eli/fga/2017/1933)). Di detta mod. è tenuto conto in tutto il presente testo.
 
 #### Art. 11a
 
@@ -209,9 +209,9 @@ I fornitori di servizi di telecomunicazione che detengono una posizione dominant
 
 <sup>4</sup> La ComCom disciplina il genere e la forma delle informazioni contabili e finanziarie che i fornitori di servizi di telecomunicazione che detengono una posizione dominante sul mercato devono presentare nell’ambito della procedura di cui al capoverso 1.
 
-[^11a-1]: Introdotto dal n. I della LF del 24 mar. 2006, in vigore dal 1° apr. 2007 ([RU 2007 921](https://fedlex.data.admin.ch/eli/oc/2007/165); [FF 2003 6883](https://fedlex.data.admin.ch/eli/fga/2003/1351)).
-[^11a-2]: Nuovo testo giusta il n. I della LF del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 5599](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
-[^11a-3]: Nuova espr. giusta il n. I della LF del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 5599](https://fedlex.data.admin.ch/eli/fga/2017/1933)). Di detta mod. è tenuto conto in tutto il presente testo.
+[^11a-1]: Introdotto dalla cifra I della LF del 24 mar. 2006, in vigore dal 1° apr. 2007 ([RU 2007 921](https://fedlex.data.admin.ch/eli/oc/2007/165); [FF 2003 6883](https://fedlex.data.admin.ch/eli/fga/2003/1351)).
+[^11a-2]: Nuovo testo giusta la cifra I della LF del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 5599](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
+[^11a-3]: Nuova espr. giusta la cifra I della LF del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 5599](https://fedlex.data.admin.ch/eli/fga/2017/1933)). Di detta mod. è tenuto conto in tutto il presente testo.
 
 #### Art. 11b
 
@@ -219,7 +219,7 @@ I fornitori di servizi di telecomunicazione che detengono una posizione dominant
 
 Le controversie risultanti da accordi e decisioni relativi all’accesso sottostanno alla giurisdizione dei tribunali civili.
 
-[^11b-1]: Introdotto dal n. I della LF del 24 mar. 2006, in vigore dal 1° apr. 2007 ([RU 2007 921](https://fedlex.data.admin.ch/eli/oc/2007/165); [FF 2003 6883](https://fedlex.data.admin.ch/eli/fga/2003/1351)).
+[^11b-1]: Introdotto dalla cifra I della LF del 24 mar. 2006, in vigore dal 1° apr. 2007 ([RU 2007 921](https://fedlex.data.admin.ch/eli/oc/2007/165); [FF 2003 6883](https://fedlex.data.admin.ch/eli/fga/2003/1351)).
 
 #### Art. 12
 
@@ -231,7 +231,7 @@ Le controversie risultanti da accordi e decisioni relativi all’accesso sottost
 
 <sup>3</sup> I capoversi 1 e 2 sono applicabili anche quando un fornitore di servizi di telecomunicazione aggrega i propri servizi con quelli di un’impresa terza di cui detiene il controllo o al cui controllo soggiace.
 
-[^12-1]: Nuovo testo giusta il n. I della LF del 24 mar. 2006, in vigore dal 1° apr. 2007 ([RU 2007 921](https://fedlex.data.admin.ch/eli/oc/2007/165); [FF 2003 6883](https://fedlex.data.admin.ch/eli/fga/2003/1351)).
+[^12-1]: Nuovo testo giusta la cifra I della LF del 24 mar. 2006, in vigore dal 1° apr. 2007 ([RU 2007 921](https://fedlex.data.admin.ch/eli/oc/2007/165); [FF 2003 6883](https://fedlex.data.admin.ch/eli/fga/2003/1351)).
 
 #### Art. 12a
 
@@ -245,7 +245,7 @@ Le controversie risultanti da accordi e decisioni relativi all’accesso sottost
 
 <sup>4</sup> L’UFCOM può informare il pubblico sui diversi servizi di telecomunicazione offerti dai fornitori.
 
-[^12a-1]: Introdotto dal n. I della LF del 24 mar. 2006 ([RU 2007 921](https://fedlex.data.admin.ch/eli/oc/2007/165); [FF 2003 6883](https://fedlex.data.admin.ch/eli/fga/2003/1351)). Nuovo testo giusta il n. I della LF del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 5599](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
+[^12a-1]: Introdotto dalla cifra I della LF del 24 mar. 2006 ([RU 2007 921](https://fedlex.data.admin.ch/eli/oc/2007/165); [FF 2003 6883](https://fedlex.data.admin.ch/eli/fga/2003/1351)). Nuovo testo giusta la cifra I della LF del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 5599](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
 
 #### Art. 12a<sup>bis</sup>
 
@@ -262,7 +262,7 @@ Nell’ambito dell’utilizzo di reti di telefonia mobile estere (roaming intern
 
 <sup>2</sup> L’UFCOM osserva il mercato e analizza l’evoluzione tecnologica e dei prezzi. A tale scopo si basa in particolare sulle informazioni raccolte presso i fornitori in virtù dell’articolo 59 capoverso 1 e collabora con il Sorvegliante dei prezzi.
 
-[^12abis-1]: Introdotto dal n. I della LF del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 5599](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
+[^12abis-1]: Introdotto dalla cifra I della LF del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 5599](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
 
 #### Art. 12b
 
@@ -275,7 +275,7 @@ Per impedire gli abusi, il Consiglio federale disciplina i servizi a valore aggi
 - c. stabilendo importi oltre i quali ulteriori spese possono essere fatturate soltanto previo esplicito consenso degli utenti;
 - d. prescrivendo, nel rispetto degli impegni internazionali, che i fornitori di servizi a valore aggiunto abbiano la loro sede o una stabile organizzazione in Svizzera.
 
-[^12b-1]: Introdotto dal n. I della LF del 24 mar. 2006 ([RU 2007 921](https://fedlex.data.admin.ch/eli/oc/2007/165); [FF 2003 6883](https://fedlex.data.admin.ch/eli/fga/2003/1351)). Nuovo testo giusta il n. I della LF del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 5599](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
+[^12b-1]: Introdotto dalla cifra I della LF del 24 mar. 2006 ([RU 2007 921](https://fedlex.data.admin.ch/eli/oc/2007/165); [FF 2003 6883](https://fedlex.data.admin.ch/eli/fga/2003/1351)). Nuovo testo giusta la cifra I della LF del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 5599](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
 
 #### Art. 12b<sup>bis</sup>
 
@@ -283,7 +283,7 @@ Per impedire gli abusi, il Consiglio federale disciplina i servizi a valore aggi
 
 Se un cliente contesta una fattura del suo fornitore di servizi di telecomunicazione per prestazioni diverse da quelle di telecomunicazione, il fornitore non può, per tale motivo, né bloccare l’accesso ai servizi di telecomunicazione né disdire il contratto prima che la controversia sia stata composta.
 
-[^12bbis-1]: Introdotto dal n. I della LF del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 5599](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
+[^12bbis-1]: Introdotto dalla cifra I della LF del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 5599](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
 
 #### Art. 12c
 
@@ -297,7 +297,7 @@ Se un cliente contesta una fattura del suo fornitore di servizi di telecomunicaz
 
 <sup>4</sup> Il Consiglio federale disciplina i dettagli.
 
-[^12c-1]: Introdotto dal n. I della LF del 24 mar. 2006, in vigore dal 1° apr. 2007 ([RU 2007 921](https://fedlex.data.admin.ch/eli/oc/2007/165); [FF 2003 6883](https://fedlex.data.admin.ch/eli/fga/2003/1351)).
+[^12c-1]: Introdotto dalla cifra I della LF del 24 mar. 2006, in vigore dal 1° apr. 2007 ([RU 2007 921](https://fedlex.data.admin.ch/eli/oc/2007/165); [FF 2003 6883](https://fedlex.data.admin.ch/eli/fga/2003/1351)).
 
 #### Art. 12d
 
@@ -307,7 +307,7 @@ Se un cliente contesta una fattura del suo fornitore di servizi di telecomunicaz
 
 <sup>2</sup> Il Consiglio federale può definire il contenuto minimo di un’iscrizione in un elenco. Può disciplinare i dettagli relativi alla pubblicazione e all’utilizzo dei dati.
 
-[^12d-1]: Introdotto dal n. I della LF del 24 mar. 2006 ([RU 2007 921](https://fedlex.data.admin.ch/eli/oc/2007/165); [FF 2003 6883](https://fedlex.data.admin.ch/eli/fga/2003/1351)). Nuovo testo giusta il n. I della LF del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 5599](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
+[^12d-1]: Introdotto dalla cifra I della LF del 24 mar. 2006 ([RU 2007 921](https://fedlex.data.admin.ch/eli/oc/2007/165); [FF 2003 6883](https://fedlex.data.admin.ch/eli/fga/2003/1351)). Nuovo testo giusta la cifra I della LF del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 5599](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
 
 #### Art. 12e
 
@@ -328,7 +328,7 @@ Possono trasmettere informazioni in modo differenziato se necessario per:
 
 <sup>4</sup> I fornitori di accesso a Internet devono informare il pubblico e i clienti se, al momento della trasmissione, trattano le informazioni in modo differenziato sotto il profilo tecnico o economico.
 
-[^12e-1]: Introdotto dal n. I della LF del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 5599](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
+[^12e-1]: Introdotto dalla cifra I della LF del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 5599](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
 
 #### Art. 13
 
@@ -340,7 +340,7 @@ Possono trasmettere informazioni in modo differenziato se necessario per:
 
 <sup>3</sup> Sui perseguimenti di natura amministrativa o penale in corso l’UFCOM può dare informazioni, pubblicarle o renderle accessibili mediante procedura di richiamo soltanto se ne sussiste un interesse pubblico o privato preponderante.
 
-[^13-1]: Nuovo testo giusta il n. I della LF del 24 mar. 2006, in vigore dal 1° apr. 2007 ([RU 2007 921](https://fedlex.data.admin.ch/eli/oc/2007/165); [FF 2003 6883](https://fedlex.data.admin.ch/eli/fga/2003/1351)).
+[^13-1]: Nuovo testo giusta la cifra I della LF del 24 mar. 2006, in vigore dal 1° apr. 2007 ([RU 2007 921](https://fedlex.data.admin.ch/eli/oc/2007/165); [FF 2003 6883](https://fedlex.data.admin.ch/eli/fga/2003/1351)).
 
 #### Art. 13a
 
@@ -352,8 +352,8 @@ Possono trasmettere informazioni in modo differenziato se necessario per:
 
 <sup>3</sup> Il Consiglio federale può emanare disposizioni completive, in particolare sull’organizzazione e la gestione del sistema d’informazioni, sulle categorie di dati da elaborare, sull’autorizzazione d’accesso e di elaborazione, sulla durata di conservazione, nonché sull’archiviazione e la distruzione dei dati.
 
-[^13a-1]: Introdotto dal n. I della LF del 24 mar. 2006, in vigore dal 1° apr. 2007 ([RU 2007 921](https://fedlex.data.admin.ch/eli/oc/2007/165); [FF 2003 6883](https://fedlex.data.admin.ch/eli/fga/2003/1351)).
-[^13a-2]: Nuovo testo giusta l’all. 1 n. II 68 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^13a-1]: Introdotto dalla cifra I della LF del 24 mar. 2006, in vigore dal 1° apr. 2007 ([RU 2007 921](https://fedlex.data.admin.ch/eli/oc/2007/165); [FF 2003 6883](https://fedlex.data.admin.ch/eli/fga/2003/1351)).
+[^13a-2]: Nuovo testo giusta l’all. 1 cifra II n. 68 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 13b
 
@@ -373,16 +373,16 @@ Salvo diversa disposizione di accordi internazionali, la Commissione e l’Uffic
 
 <sup>4</sup> Le autorità svizzere trasmettono gratuitamente alla Commissione e all’Ufficio federale i dati che potrebbero essere importanti per l’esecuzione della legislazione sulle telecomunicazioni, inclusi i dati personali degni di particolare protezione.[^13b-4] I dati sono resi accessibili singolarmente, mediante liste o su supporti elettronici.
 
-[^13b-1]: Introdotto dal n. I della LF del 24 mar. 2006, in vigore dal 1° apr. 2007 ([RU 2007 921](https://fedlex.data.admin.ch/eli/oc/2007/165); [FF 2003 6883](https://fedlex.data.admin.ch/eli/fga/2003/1351)).
-[^13b-2]: Nuovo testo del secondo per. giusta l’all. 1 n. II 68 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
-[^13b-3]: Nuovo testo giusta l’all. 1 n. II 68 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
-[^13b-4]: Nuovo testo giusta l’all. 1 n. II 68 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^13b-1]: Introdotto dalla cifra I della LF del 24 mar. 2006, in vigore dal 1° apr. 2007 ([RU 2007 921](https://fedlex.data.admin.ch/eli/oc/2007/165); [FF 2003 6883](https://fedlex.data.admin.ch/eli/fga/2003/1351)).
+[^13b-2]: Nuovo testo del secondo per. giusta l’all. 1 cifra II n. 68 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^13b-3]: Nuovo testo giusta l’all. 1 cifra II n. 68 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^13b-4]: Nuovo testo giusta l’all. 1 cifra II n. 68 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 ### Sezione 2: Concessione per il servizio universale
 
 [^chap2-sec2-1]
 
-[^chap2-sec2-1]: Nuovo testo giusta il n. I della LF del 24 mar. 2006, in vigore dal 1° apr. 2007 ([RU 2007 921](https://fedlex.data.admin.ch/eli/oc/2007/165); [FF 2003 6883](https://fedlex.data.admin.ch/eli/fga/2003/1351)).
+[^chap2-sec2-1]: Nuovo testo giusta la cifra I della LF del 24 mar. 2006, in vigore dal 1° apr. 2007 ([RU 2007 921](https://fedlex.data.admin.ch/eli/oc/2007/165); [FF 2003 6883](https://fedlex.data.admin.ch/eli/fga/2003/1351)).
 
 #### Art. 14
 
@@ -398,8 +398,8 @@ Salvo diversa disposizione di accordi internazionali, la Commissione e l’Uffic
 
 <sup>5</sup> Di regola, le concessioni scadono alla stessa data.
 
-[^14-1]: Nuovo testo giusta il n. I della LF del 24 mar. 2006, in vigore dal 1° apr. 2007 ([RU 2007 921](https://fedlex.data.admin.ch/eli/oc/2007/165); [FF 2003 6883](https://fedlex.data.admin.ch/eli/fga/2003/1351)).
-[^14-2]: Per. introdotto dal n. I della LF del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 5599](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
+[^14-1]: Nuovo testo giusta la cifra I della LF del 24 mar. 2006, in vigore dal 1° apr. 2007 ([RU 2007 921](https://fedlex.data.admin.ch/eli/oc/2007/165); [FF 2003 6883](https://fedlex.data.admin.ch/eli/fga/2003/1351)).
+[^14-2]: Per. introdotto dalla cifra I della LF del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 5599](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
 
 #### Art. 15
 
@@ -412,8 +412,8 @@ Chiunque vuole ottenere una concessione per il servizio universale deve:
 - c. garantire di rispettare il diritto applicabile, segnatamente la presente legge, le sue disposizioni d’esecuzione nonché la concessione;
 - d.[^15-2] garantire di osservare le prescrizioni attinenti al diritto del lavoro e le condizioni di lavoro abituali nel settore.
 
-[^15-1]: Nuovo testo giusta il n. I della LF del 24 mar. 2006, in vigore dal 1° apr. 2007 ([RU 2007 921](https://fedlex.data.admin.ch/eli/oc/2007/165); [FF 2003 6883](https://fedlex.data.admin.ch/eli/fga/2003/1351)).
-[^15-2]: Nuovo testo giusta il n. I della LF del 24 mar. 2006, in vigore dal 1° apr. 2007 ([RU 2007 921](https://fedlex.data.admin.ch/eli/oc/2007/165); [FF 2003 6883](https://fedlex.data.admin.ch/eli/fga/2003/1351)).
+[^15-1]: Nuovo testo giusta la cifra I della LF del 24 mar. 2006, in vigore dal 1° apr. 2007 ([RU 2007 921](https://fedlex.data.admin.ch/eli/oc/2007/165); [FF 2003 6883](https://fedlex.data.admin.ch/eli/fga/2003/1351)).
+[^15-2]: Nuovo testo giusta la cifra I della LF del 24 mar. 2006, in vigore dal 1° apr. 2007 ([RU 2007 921](https://fedlex.data.admin.ch/eli/oc/2007/165); [FF 2003 6883](https://fedlex.data.admin.ch/eli/fga/2003/1351)).
 
 #### Art. 16
 
@@ -441,15 +441,15 @@ Le prestazioni attinenti al servizio universale devono essere proposte in modo d
 
 <sup>3</sup> Il Consiglio federale adegua periodicamente le prestazioni del servizio universale alle esigenze sociali ed economiche e allo stato della tecnica.
 
-[^16-1]: Nuovo testo giusta il n. I della LF del 24 mar. 2006, in vigore dal 1° apr. 2007 ([RU 2007 921](https://fedlex.data.admin.ch/eli/oc/2007/165); [FF 2003 6883](https://fedlex.data.admin.ch/eli/fga/2003/1351)).
-[^16-2]: Nuovo testo giusta il n. I della LF del 24 mar. 2006, in vigore dal 1° apr. 2007 ([RU 2007 921](https://fedlex.data.admin.ch/eli/oc/2007/165); [FF 2003 6883](https://fedlex.data.admin.ch/eli/fga/2003/1351)).
-[^16-3]: Nuovo testo giusta il n. I della LF del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 5599](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
-[^16-4]: Nuovo testo giusta il n. I della LF del 24 mar. 2006, in vigore dal 1° apr. 2007 ([RU 2007 921](https://fedlex.data.admin.ch/eli/oc/2007/165); [FF 2003 6883](https://fedlex.data.admin.ch/eli/fga/2003/1351)).
-[^16-5]: Nuovo testo giusta il n. I della LF del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 5599](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
+[^16-1]: Nuovo testo giusta la cifra I della LF del 24 mar. 2006, in vigore dal 1° apr. 2007 ([RU 2007 921](https://fedlex.data.admin.ch/eli/oc/2007/165); [FF 2003 6883](https://fedlex.data.admin.ch/eli/fga/2003/1351)).
+[^16-2]: Nuovo testo giusta la cifra I della LF del 24 mar. 2006, in vigore dal 1° apr. 2007 ([RU 2007 921](https://fedlex.data.admin.ch/eli/oc/2007/165); [FF 2003 6883](https://fedlex.data.admin.ch/eli/fga/2003/1351)).
+[^16-3]: Nuovo testo giusta la cifra I della LF del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 5599](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
+[^16-4]: Nuovo testo giusta la cifra I della LF del 24 mar. 2006, in vigore dal 1° apr. 2007 ([RU 2007 921](https://fedlex.data.admin.ch/eli/oc/2007/165); [FF 2003 6883](https://fedlex.data.admin.ch/eli/fga/2003/1351)).
+[^16-5]: Nuovo testo giusta la cifra I della LF del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 5599](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
 [^16-6]: Abrogata dall’all. n. 5 della L del 13 dic. 2002 sui disabili, con effetto dal 1° gen. 2004 ([RU 2003 4487](https://fedlex.data.admin.ch/eli/oc/2003/667); [FF 2001 1477](https://fedlex.data.admin.ch/eli/fga/2001/434)).
-[^16-7]: Questo elenco non è più aggiornato. Vedi ora: il cpv. 3 nonché l’art. 15 dell’O del 9 mar. 2007 sui servizi di telecomunicazione ([RS 784.101.1](https://fedlex.data.admin.ch/eli/cc/2007/166)).
+[^16-7]: Questo elenco non è più aggiornato. Vedi ora: il cpv. 3 nonché l’art. 15 dell’O del 9 mar. 2007 sui servizi di telecomunicazione ([RS 784.101.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9173)).
 [^16-8]: Introdotto dall’all. n. 5 della L del 13 dic. 2002 sui disabili, in vigore dal 1° gen. 2004 ([RU 2003 4487](https://fedlex.data.admin.ch/eli/oc/2003/667); [FF 2001 1477](https://fedlex.data.admin.ch/eli/fga/2001/434)).
-[^16-9]: Nuovo testo del per. giusta il n. I della LF del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 5599](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
+[^16-9]: Nuovo testo del per. giusta la cifra I della LF del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 5599](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
 
 #### Art. 17
 
@@ -463,7 +463,7 @@ Le prestazioni attinenti al servizio universale devono essere proposte in modo d
 
 [^18-1]
 
-[^18-1]: Abrogato dal n. I della LF del 24 mar. 2006, con effetto dal 1° apr. 2007 ([RU 2007 921](https://fedlex.data.admin.ch/eli/oc/2007/165); [FF 2003 6883](https://fedlex.data.admin.ch/eli/fga/2003/1351)).
+[^18-1]: Abrogato dalla cifra I della LF del 24 mar. 2006, con effetto dal 1° apr. 2007 ([RU 2007 921](https://fedlex.data.admin.ch/eli/oc/2007/165); [FF 2003 6883](https://fedlex.data.admin.ch/eli/fga/2003/1351)).
 
 #### Art. 19
 
@@ -475,7 +475,7 @@ Le prestazioni attinenti al servizio universale devono essere proposte in modo d
 
 <sup>3</sup> Il Consiglio federale disciplina i dettagli.
 
-[^19-1]: Nuovo testo giusta il n. I della LF del 24 mar. 2006, in vigore dal 1° apr. 2007 ([RU 2007 921](https://fedlex.data.admin.ch/eli/oc/2007/165); [FF 2003 6883](https://fedlex.data.admin.ch/eli/fga/2003/1351)).
+[^19-1]: Nuovo testo giusta la cifra I della LF del 24 mar. 2006, in vigore dal 1° apr. 2007 ([RU 2007 921](https://fedlex.data.admin.ch/eli/oc/2007/165); [FF 2003 6883](https://fedlex.data.admin.ch/eli/fga/2003/1351)).
 
 #### Art. 19a
 
@@ -485,7 +485,7 @@ Le prestazioni attinenti al servizio universale devono essere proposte in modo d
 
 <sup>2</sup> L’articolo 24*e* si applica alla modifica della concessione.
 
-[^19a-1]: Introdotto dal n. I della LF del 24 mar. 2006 ([RU 2007 921](https://fedlex.data.admin.ch/eli/oc/2007/165); [FF 2003 6883](https://fedlex.data.admin.ch/eli/fga/2003/1351)). Nuovo testo giusta il n. I della LF del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 5599](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
+[^19a-1]: Introdotto dalla cifra I della LF del 24 mar. 2006 ([RU 2007 921](https://fedlex.data.admin.ch/eli/oc/2007/165); [FF 2003 6883](https://fedlex.data.admin.ch/eli/fga/2003/1351)). Nuovo testo giusta la cifra I della LF del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 5599](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
 
 #### Art. 19b
 
@@ -493,13 +493,13 @@ Le prestazioni attinenti al servizio universale devono essere proposte in modo d
 
 Per quanto non vi si oppongano interessi pubblici o privati preponderanti, l’UFCOM pubblica il nome e l’indirizzo del concessionario, l’oggetto della concessione, nonché i diritti e gli obblighi derivanti dalla concessione.
 
-[^19b-1]: Introdotto dal n. I della LF del 24 mar. 2006, in vigore dal 1° apr. 2007 ([RU 2007 921](https://fedlex.data.admin.ch/eli/oc/2007/165); [FF 2003 6883](https://fedlex.data.admin.ch/eli/fga/2003/1351)).
+[^19b-1]: Introdotto dalla cifra I della LF del 24 mar. 2006, in vigore dal 1° apr. 2007 ([RU 2007 921](https://fedlex.data.admin.ch/eli/oc/2007/165); [FF 2003 6883](https://fedlex.data.admin.ch/eli/fga/2003/1351)).
 
 ### Sezione 3: Obblighi derivanti dalla fornitura di servizi specifici
 
 [^chap2-sec3-1]
 
-[^chap2-sec3-1]: Introdotto dal n. I della LF del 24 mar. 2006, in vigore dal 1° apr. 2007 ([RU 2007 921](https://fedlex.data.admin.ch/eli/oc/2007/165); [FF 2003 6883](https://fedlex.data.admin.ch/eli/fga/2003/1351)).
+[^chap2-sec3-1]: Introdotto dalla cifra I della LF del 24 mar. 2006, in vigore dal 1° apr. 2007 ([RU 2007 921](https://fedlex.data.admin.ch/eli/oc/2007/165); [FF 2003 6883](https://fedlex.data.admin.ch/eli/fga/2003/1351)).
 
 #### Art. 20
 
@@ -511,7 +511,7 @@ Per quanto non vi si oppongano interessi pubblici o privati preponderanti, l’U
 
 <sup>3</sup> Il Consiglio federale può estendere l’obbligo di fornire il servizio d’emergenza ad altri servizi di telecomunicazione accessibili al pubblico e ampiamente utilizzati.
 
-[^20-1]: Nuovo testo giusta il n. I della LF del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 5599](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
+[^20-1]: Nuovo testo giusta la cifra I della LF del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 5599](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
 
 #### Art. 21
 
@@ -535,7 +535,7 @@ I fornitori del servizio telefonico pubblico raccolgono e aggiornano i dati elen
 
 <sup>6</sup> Il Consiglio federale può estendere l’applicazione delle disposizioni del presente articolo ad altri servizi di telecomunicazione accessibili al pubblico e ampiamente utilizzati.
 
-[^21-1]: Nuovo testo giusta il n. I della LF del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 5599](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
+[^21-1]: Nuovo testo giusta la cifra I della LF del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 5599](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
 
 #### Art. 21a
 
@@ -547,16 +547,16 @@ I fornitori del servizio telefonico pubblico raccolgono e aggiornano i dati elen
 
 <sup>3</sup> I fornitori tenuti a garantire l’interoperabilità devono offrire l’interconnessione anche se non detengono una posizione dominante sul mercato. Alle controversie relative alle condizioni d’interconnessione si applicano per analogia gli articoli 11*a* capoversi 1 e 3 nonché 11*b.*[^21a-4] Il Consiglio federale può imporre altri obblighi ai fornitori tenuti a garantire l’interoperabilità.
 
-[^21a-1]: Introdotto dal n. I della LF del 24 mar. 2006, in vigore dal 1° apr. 2007 ([RU 2007 921](https://fedlex.data.admin.ch/eli/oc/2007/165); [FF 2003 6883](https://fedlex.data.admin.ch/eli/fga/2003/1351)).
-[^21a-2]: Nuovo testo giusta il n. I della LF del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 5599](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
-[^21a-3]: Nuovo testo giusta il n. I della LF del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 5599](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
-[^21a-4]: Nuovo testo del per. giusta il n. I della LF del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 5599](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
+[^21a-1]: Introdotto dalla cifra I della LF del 24 mar. 2006, in vigore dal 1° apr. 2007 ([RU 2007 921](https://fedlex.data.admin.ch/eli/oc/2007/165); [FF 2003 6883](https://fedlex.data.admin.ch/eli/fga/2003/1351)).
+[^21a-2]: Nuovo testo giusta la cifra I della LF del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 5599](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
+[^21a-3]: Nuovo testo giusta la cifra I della LF del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 5599](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
+[^21a-4]: Nuovo testo del per. giusta la cifra I della LF del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 5599](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
 
 #### Art. 21b
 
 [^21b-1]
 
-[^21b-1]: Introdotto dal n. I della LF del 24 mar. 2006 ([RU 2007 921](https://fedlex.data.admin.ch/eli/oc/2007/165); [FF 2003 6883](https://fedlex.data.admin.ch/eli/fga/2003/1351)). Abrogato dal n. I della LF del 22 mar. 2019, con effetto dal 1° gen. 2021 ([RU 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 5599](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
+[^21b-1]: Introdotto dalla cifra I della LF del 24 mar. 2006 ([RU 2007 921](https://fedlex.data.admin.ch/eli/oc/2007/165); [FF 2003 6883](https://fedlex.data.admin.ch/eli/fga/2003/1351)). Abrogato dal cifra I della LF del 22 mar. 2019, con effetto dal 1° gen. 2021 ([RU 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 5599](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
 
 ## Capitolo 3: Radiocomunicazioni
 
@@ -587,7 +587,7 @@ Il Consiglio federale prevede limitazioni di cui al capoverso 2 soltanto:
 
 <sup>5</sup> Stabilisce le prescrizioni in materia di utilizzazione e le condizioni per il rilascio dei certificati di capacità.
 
-[^22-1]: Nuovo testo giusta il n. I della LF del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 5599](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
+[^22-1]: Nuovo testo giusta la cifra I della LF del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 5599](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
 
 #### Art. 22a
 
@@ -601,7 +601,7 @@ Il Consiglio federale prevede limitazioni di cui al capoverso 2 soltanto:
 
 <sup>4</sup> Il Consiglio federale disciplina i principi per il rilascio delle concessioni di radiocomunicazione destinate totalmente o in parte alla diffusione di programmi radiotelevisivi.
 
-[^22a-1]: Introdotto dal n. I della LF del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 5599](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
+[^22a-1]: Introdotto dalla cifra I della LF del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 5599](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
 
 #### Art. 23
 
@@ -620,10 +620,10 @@ Chiunque vuole ottenere una concessione deve:
 
 <sup>4</sup> Il rilascio di una concessione di radiocomunicazione non deve né sopprimere né pregiudicare considerevolmente una concorrenza efficace, tranne nel caso in cui ragioni di efficienza economica giustifichino un’eccezione. L’autorità concedente consulta la ComCom nei casi in cui è necessario determinare se il rilascio di una concessione riduca notevolmente la concorrenza o impedisca una concorrenza efficace.[^23-4]
 
-[^23-1]: Nuovo testo giusta il n. I della LF del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 5599](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
-[^23-2]: Nuovo testo giusta dall’all. n. II 2 della LF del 24 mar. 2006 sulla radiotelevisione, in vigore dal 1° apr. 2007 ([RU 2007 737](https://fedlex.data.admin.ch/eli/oc/2007/150); [FF 2003 1399](https://fedlex.data.admin.ch/eli/fga/2003/223)).
-[^23-3]: [RS 784.40](https://fedlex.data.admin.ch/eli/cc/2007/150)
-[^23-4]: Nuovo testo del per. giusta il n. I della LF del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 5599](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
+[^23-1]: Nuovo testo giusta la cifra I della LF del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 5599](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
+[^23-2]: Nuovo testo giusta dall’all. cifra II n. 2 della LF del 24 mar. 2006 sulla radiotelevisione, in vigore dal 1° apr. 2007 ([RU 2007 737](https://fedlex.data.admin.ch/eli/oc/2007/150); [FF 2003 1399](https://fedlex.data.admin.ch/eli/fga/2003/223)).
+[^23-3]: [RS 784.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9210)
+[^23-4]: Nuovo testo del per. giusta la cifra I della LF del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 5599](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
 
 #### Art. 24
 
@@ -645,14 +645,14 @@ Per la procedura di prima istanza concernente la pubblica gara e per la procedur
 
 <sup>4</sup> Le decisioni incidentali pronunciate in un procedimento concernente la pubblica gara non sono impugnabili separatamente dal merito.
 
-[^24-1]: Nuovo testo giusta il n. I della LF del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 5599](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
-[^24-2]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^24-1]: Nuovo testo giusta la cifra I della LF del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 5599](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
+[^24-2]: [RS 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 #### Art. 24a
 
 [^24a-1]
 
-[^24a-1]: Introdotto dal n. I della LF del 24 mar. 2006 ([RU 2007 921](https://fedlex.data.admin.ch/eli/oc/2007/165); [FF 2003 6883](https://fedlex.data.admin.ch/eli/fga/2003/1351)). Abrogato dal n. I della LF del 22 mar. 2019, con effetto dal 1° gen. 2021 ([RU 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 5599](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
+[^24a-1]: Introdotto dalla cifra I della LF del 24 mar. 2006 ([RU 2007 921](https://fedlex.data.admin.ch/eli/oc/2007/165); [FF 2003 6883](https://fedlex.data.admin.ch/eli/fga/2003/1351)). Abrogato dal cifra I della LF del 22 mar. 2019, con effetto dal 1° gen. 2021 ([RU 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 5599](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
 
 #### Art. 24b
 
@@ -660,7 +660,7 @@ Per la procedura di prima istanza concernente la pubblica gara e per la procedur
 
 Se per una determinata fattispecie soggetta all’obbligo della concessione non esistono prescrizioni, l’autorità concedente le fissa di caso in caso.
 
-[^24b-1]: Introdotto dal n. I della LF del 24 mar. 2006, in vigore dal 1° apr. 2007 ([RU 2007 921](https://fedlex.data.admin.ch/eli/oc/2007/165); [FF 2003 6883](https://fedlex.data.admin.ch/eli/fga/2003/1351)).
+[^24b-1]: Introdotto dalla cifra I della LF del 24 mar. 2006, in vigore dal 1° apr. 2007 ([RU 2007 921](https://fedlex.data.admin.ch/eli/oc/2007/165); [FF 2003 6883](https://fedlex.data.admin.ch/eli/fga/2003/1351)).
 
 #### Art. 24c
 
@@ -668,7 +668,7 @@ Se per una determinata fattispecie soggetta all’obbligo della concessione non 
 
 La concessione è rilasciata per un periodo determinato. L’autorità concedente stabilisce la durata in funzione del genere e dell’importanza della concessione.
 
-[^24c-1]: Introdotto dal n. I della LF del 24 mar. 2006, in vigore dal 1° apr. 2007 ([RU 2007 921](https://fedlex.data.admin.ch/eli/oc/2007/165); [FF 2003 6883](https://fedlex.data.admin.ch/eli/fga/2003/1351)).
+[^24c-1]: Introdotto dalla cifra I della LF del 24 mar. 2006, in vigore dal 1° apr. 2007 ([RU 2007 921](https://fedlex.data.admin.ch/eli/oc/2007/165); [FF 2003 6883](https://fedlex.data.admin.ch/eli/fga/2003/1351)).
 
 #### Art. 24d
 
@@ -689,7 +689,7 @@ Il trasferimento presuppone il consenso dell’autorità concedente. Il consenso
 
 <sup>5</sup> L’utilizzazione comune di elementi delle reti di radiocomunicazione da parte dei titolari di concessioni rilasciate dalla ComCom deve essere previamente notificata alla ComCom. L’utilizzazione comune delle frequenze necessita del consenso di cui al capoverso 2.
 
-[^24d-1]: Introdotto dal n. I della LF del 24 mar. 2006 ([RU 2007 921](https://fedlex.data.admin.ch/eli/oc/2007/165); [FF 2003 6883](https://fedlex.data.admin.ch/eli/fga/2003/1351)). Nuovo testo giusta il n. I della LF del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 5599](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
+[^24d-1]: Introdotto dalla cifra I della LF del 24 mar. 2006 ([RU 2007 921](https://fedlex.data.admin.ch/eli/oc/2007/165); [FF 2003 6883](https://fedlex.data.admin.ch/eli/fga/2003/1351)). Nuovo testo giusta la cifra I della LF del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 5599](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
 
 #### Art. 24e
 
@@ -699,7 +699,7 @@ Il trasferimento presuppone il consenso dell’autorità concedente. Il consenso
 
 <sup>2</sup> Il concessionario è indennizzato in modo adeguato se i diritti trasferiti sono revocati o ridotti in modo sostanziale.
 
-[^24e-1]: Introdotto dal n. I della LF del 24 mar. 2006, in vigore dal 1° apr. 2007 ([RU 2007 921](https://fedlex.data.admin.ch/eli/oc/2007/165); [FF 2003 6883](https://fedlex.data.admin.ch/eli/fga/2003/1351)).
+[^24e-1]: Introdotto dalla cifra I della LF del 24 mar. 2006, in vigore dal 1° apr. 2007 ([RU 2007 921](https://fedlex.data.admin.ch/eli/oc/2007/165); [FF 2003 6883](https://fedlex.data.admin.ch/eli/fga/2003/1351)).
 
 #### Art. 24f
 
@@ -709,8 +709,8 @@ Il trasferimento presuppone il consenso dell’autorità concedente. Il consenso
 
 <sup>2</sup> L’UFCOM può pubblicare tali informazioni e renderle accessibili mediante procedura di richiamo se ne sussiste un interesse pubblico.
 
-[^24f-1]: Introdotto dal n. I della LF del 24 mar. 2006, in vigore dal 1° apr. 2007 ([RU 2007 921](https://fedlex.data.admin.ch/eli/oc/2007/165); [FF 2003 6883](https://fedlex.data.admin.ch/eli/fga/2003/1351)).
-[^24f-2]: Nuovo testo giusta il n. I della LF del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 5599](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
+[^24f-1]: Introdotto dalla cifra I della LF del 24 mar. 2006, in vigore dal 1° apr. 2007 ([RU 2007 921](https://fedlex.data.admin.ch/eli/oc/2007/165); [FF 2003 6883](https://fedlex.data.admin.ch/eli/fga/2003/1351)).
+[^24f-2]: Nuovo testo giusta la cifra I della LF del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 5599](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
 
 #### Art. 25
 
@@ -724,9 +724,9 @@ Il trasferimento presuppone il consenso dell’autorità concedente. Il consenso
 
 <sup>3</sup> In caso di chiamata in servizio di truppe, il Consiglio federale può attribuire all’esercito, per la durata dell’impiego, frequenze supplementari, libere o attribuite tramite concessione.[^25-3]
 
-[^25-1]: Introdotto dal n. I della LF del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 5599](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
-[^25-2]: Nuovo testo giusta dall’all. n. II 2 della LF del 24 mar. 2006 sulla radiotelevisione, in vigore dal 1° apr. 2007 ([RU 2007 737](https://fedlex.data.admin.ch/eli/oc/2007/150); [FF 2003 1399](https://fedlex.data.admin.ch/eli/fga/2003/223)).
-[^25-3]: Introdotto dal n. I della LF del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 5599](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
+[^25-1]: Introdotto dalla cifra I della LF del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 5599](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
+[^25-2]: Nuovo testo giusta dall’all. cifra II n. 2 della LF del 24 mar. 2006 sulla radiotelevisione, in vigore dal 1° apr. 2007 ([RU 2007 737](https://fedlex.data.admin.ch/eli/oc/2007/150); [FF 2003 1399](https://fedlex.data.admin.ch/eli/fga/2003/223)).
+[^25-3]: Introdotto dalla cifra I della LF del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 5599](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
 
 #### Art. 26
 
@@ -748,7 +748,7 @@ Il trasferimento presuppone il consenso dell’autorità concedente. Il consenso
 
 Sono applicabili gli articoli 13*a* e 13*b* sull’elaborazione dei dati e sull’assistenza amministrativa.
 
-[^27-1]: Nuovo testo giusta il n. I della LF del 24 mar. 2006, in vigore dal 1° apr. 2007 ([RU 2007 921](https://fedlex.data.admin.ch/eli/oc/2007/165); [FF 2003 6883](https://fedlex.data.admin.ch/eli/fga/2003/1351)).
+[^27-1]: Nuovo testo giusta la cifra I della LF del 24 mar. 2006, in vigore dal 1° apr. 2007 ([RU 2007 921](https://fedlex.data.admin.ch/eli/oc/2007/165); [FF 2003 6883](https://fedlex.data.admin.ch/eli/fga/2003/1351)).
 
 ## Capitolo 4: Elementi di indirizzo
 
@@ -776,7 +776,7 @@ Il Consiglio federale emana prescrizioni sulla gestione degli elementi di indiri
 - d. la loro subattribuzione;
 - e. la portabilità dei numeri.
 
-[^28-1]: Nuovo testo giusta il n. I della LF del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 5599](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
+[^28-1]: Nuovo testo giusta la cifra I della LF del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 5599](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
 
 #### Art. 28a
 
@@ -790,7 +790,7 @@ Il Consiglio federale emana prescrizioni sulla gestione degli elementi di indiri
 
 <sup>4</sup> L’articolo 24 si applica per analogia alla procedura di selezione.
 
-[^28a-1]: Introdotto dal n. I della LF del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 5599](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
+[^28a-1]: Introdotto dalla cifra I della LF del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 5599](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
 
 #### Art. 28b
 
@@ -803,7 +803,7 @@ La presente legge si applica ai seguenti domini Internet:
 - c. i domini generici la cui gestione è di competenza di privati con domicilio o sede in Svizzera;
 - d. i domini generici che, in virtù della loro denominazione, rivestono un’importanza particolare per la Svizzera sotto il profilo politico, culturale, geografico o religioso.
 
-[^28b-1]: Introdotto dal n. I della LF del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 5599](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
+[^28b-1]: Introdotto dalla cifra I della LF del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 5599](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
 
 #### Art. 28c
 
@@ -813,8 +813,8 @@ La presente legge si applica ai seguenti domini Internet:
 
 <sup>2</sup> Può fornire prestazioni commerciali a favore di terzi a condizione che ciò sia necessario per la gestione dei nomi di dominio e che siano adempiute le condizioni di cui all’articolo 41*a* capoversi 2 e 3 della legge del 7 ottobre 2005[^28c-2] sulle finanze della Confederazione.
 
-[^28c-1]: Introdotto dal n. I della LF del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 5599](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
-[^28c-2]: [RS 611.0](https://fedlex.data.admin.ch/eli/cc/2006/227)
+[^28c-1]: Introdotto dalla cifra I della LF del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 5599](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
+[^28c-2]: [RS 611.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7751)
 
 #### Art. 28d
 
@@ -826,7 +826,7 @@ La gestione dei domini Internet e dei nomi di dominio a essi subordinati si basa
 - b. la gestione avviene in modo trasparente e non discriminatorio, se rientra nell’ambito di competenza degli enti di diritto pubblico;
 - c. i titolari e richiedenti di nomi di dominio sono protetti contro l’utilizzo abusivo dei loro dati personali.
 
-[^28d-1]: Introdotto dal n. I della LF del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 5599](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
+[^28d-1]: Introdotto dalla cifra I della LF del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 5599](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
 
 #### Art. 28e
 
@@ -841,7 +841,7 @@ Il Consiglio federale disciplina le modalità di gestione dei domini Internet e 
 - e. disciplinare la gestione dei domini di competenza di enti di diritto pubblico diversi dalla Confederazione o di privati residenti in Svizzera;
 - f. emanare disposizioni applicabili ai domini generici che rivestono un’importanza particolare sotto il profilo politico, culturale, geografico o religioso nella misura in cui è necessario per la salvaguardia degli interessi della Svizzera.
 
-[^28e-1]: Introdotto dal n. I della LF del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 5599](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
+[^28e-1]: Introdotto dalla cifra I della LF del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 5599](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
 
 #### Art. 29
 
@@ -855,7 +855,7 @@ Il titolare di elementi di indirizzo è tenuto a fornire all’autorità compete
 
 La modifica da parte delle autorità dei piani di numerazione o delle prescrizioni sulla gestione degli elementi di indirizzo non dà diritto ad alcun indennizzo.
 
-[^30-1]: Nuovo testo giusta il n. I della LF del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 5599](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
+[^30-1]: Nuovo testo giusta la cifra I della LF del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 5599](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
 
 #### Art. 30a
 
@@ -863,7 +863,7 @@ La modifica da parte delle autorità dei piani di numerazione o delle prescrizio
 
 Si applicano gli articoli 13*a* e 13*b* sull’elaborazione dei dati e sull’assistenza amministrativa.
 
-[^30a-1]: Introdotto dal n. I della LF del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 5599](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
+[^30a-1]: Introdotto dalla cifra I della LF del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 5599](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
 
 ## Capitolo 5: Impianti di telecomunicazione
 
@@ -888,14 +888,14 @@ Se il Consiglio federale ha stabilito esigenze fondamentali di tecnica delle tel
 
 <sup>5</sup> Per motivi di sicurezza di tecnica delle telecomunicazioni, l’UFCOM può prescrivere che gli impianti di telecomunicazione possono essere ceduti solamente a persone particolarmente qualificate. Esso può definire i dettagli di tale cessione.
 
-[^31-1]: Nuovo testo giusta il n. I della LF del 24 mar. 2006, in vigore dal 1° apr. 2007 ([RU 2007 921](https://fedlex.data.admin.ch/eli/oc/2007/165); [FF 2003 6883](https://fedlex.data.admin.ch/eli/fga/2003/1351)).
-[^31-2]: Nuovo testo giusta il n. I della LF del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 5599](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
-[^31-3]: [RS 946.51](https://fedlex.data.admin.ch/eli/cc/1996/1725_1725_1725)
-[^31-4]: Nuovo testo giusta il n. I della LF del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 5599](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
-[^31-5]: Nuovo testo giusta il n. I della LF del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 5599](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
-[^31-6]: Nuovo testo giusta il n. I della LF del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 5599](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
+[^31-1]: Nuovo testo giusta la cifra I della LF del 24 mar. 2006, in vigore dal 1° apr. 2007 ([RU 2007 921](https://fedlex.data.admin.ch/eli/oc/2007/165); [FF 2003 6883](https://fedlex.data.admin.ch/eli/fga/2003/1351)).
+[^31-2]: Nuovo testo giusta la cifra I della LF del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 5599](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
+[^31-3]: [RS 946.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11467)
+[^31-4]: Nuovo testo giusta la cifra I della LF del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 5599](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
+[^31-5]: Nuovo testo giusta la cifra I della LF del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 5599](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
+[^31-6]: Nuovo testo giusta la cifra I della LF del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 5599](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
 [^31-7]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 16 cpv. 3 dell’O del 17 nov. 2004 sulle pubblicazioni ufficiali ([RU 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)).
-[^31-8]: Introdotto dal n. I della LF del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 5599](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
+[^31-8]: Introdotto dalla cifra I della LF del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 5599](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
 [^31-9]: Nuova espr. giusta l’all. n. 4 della LF del 16 giu. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5607](https://fedlex.data.admin.ch/eli/oc/2017/605); [FF 2016 6401](https://fedlex.data.admin.ch/eli/fga/2016/1536)). Di detta mod. è tenuto conto in tutto il presente testo.
 
 #### Art. 32
@@ -905,7 +905,7 @@ Se il Consiglio federale ha stabilito esigenze fondamentali di tecnica delle tel
 Un impianto di telecomunicazione può essere installato ed esercitato solamente se, al momento della sua prima messa a disposizione sul mercato[^32-1], messa in servizio o installazione, corrispondeva alle prescrizioni vigenti e tale è stato mantenuto. Il Consiglio federale può prevedere eccezioni.[^32-2]
 
 [^32-1]: Nuova espr. giusta l’all. n. 4 della LF del 16 giu. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5607](https://fedlex.data.admin.ch/eli/oc/2017/605); [FF 2016 6401](https://fedlex.data.admin.ch/eli/fga/2016/1536)). Di detta mod. è tenuto conto in tutto il presente testo.
-[^32-2]: Per. introdotto dal n. I della LF del 24 mar. 2006, in vigore dal 1° apr. 2007 ([RU 2007 921](https://fedlex.data.admin.ch/eli/oc/2007/165); [FF 2003 6883](https://fedlex.data.admin.ch/eli/fga/2003/1351)).
+[^32-2]: Per. introdotto dalla cifra I della LF del 24 mar. 2006, in vigore dal 1° apr. 2007 ([RU 2007 921](https://fedlex.data.admin.ch/eli/oc/2007/165); [FF 2003 6883](https://fedlex.data.admin.ch/eli/fga/2003/1351)).
 
 #### Art. 32a
 
@@ -913,7 +913,7 @@ Un impianto di telecomunicazione può essere installato ed esercitato solamente 
 
 Il Consiglio federale disciplina l’importazione, l’offerta, la messa a disposizione sul mercato, la messa in servizio, l’installazione e l’esercizio di impianti di telecomunicazione che le autorità devono impiegare per garantire la sicurezza pubblica.
 
-[^32a-1]: Introdotto dal n. I della LF del 24 mar. 2006 ([RU 2007 921](https://fedlex.data.admin.ch/eli/oc/2007/165); [FF 2003 6883](https://fedlex.data.admin.ch/eli/fga/2003/1351)). Nuovo testo giusta il n. I della LF del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 5599](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
+[^32a-1]: Introdotto dalla cifra I della LF del 24 mar. 2006 ([RU 2007 921](https://fedlex.data.admin.ch/eli/oc/2007/165); [FF 2003 6883](https://fedlex.data.admin.ch/eli/fga/2003/1351)). Nuovo testo giusta la cifra I della LF del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 5599](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
 
 #### Art. 32b
 
@@ -941,11 +941,11 @@ Il Consiglio federale disciplina l’importazione, l’offerta, la messa a dispo
 
 <sup>6</sup> Può contribuire all’allestimento di banche dati internazionali finalizzate allo scambio di informazioni tra autorità di sorveglianza del mercato. È autorizzato a inserire soltanto dati che può trasmettere ad autorità estere conformemente all’articolo 13*b*.[^33-5]
 
-[^33-1]: Nuovo testo giusta il n. I della LF del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 5599](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
-[^33-2]: Nuovo testo giusta il n. I della LF del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 5599](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
-[^33-3]: Introdotto dal n. I della LF del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 5599](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
-[^33-4]: Introdotto dal n. I della LF del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 5599](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
-[^33-5]: Introdotto dal n. I della LF del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 5599](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
+[^33-1]: Nuovo testo giusta la cifra I della LF del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 5599](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
+[^33-2]: Nuovo testo giusta la cifra I della LF del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 5599](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
+[^33-3]: Introdotto dalla cifra I della LF del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 5599](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
+[^33-4]: Introdotto dalla cifra I della LF del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 5599](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
+[^33-5]: Introdotto dalla cifra I della LF del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 5599](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
 
 #### Art. 34
 
@@ -968,11 +968,11 @@ Il Consiglio federale stabilisce le condizioni alle quali le seguenti autorità 
 
 <sup>2</sup> Per determinare la fonte delle interferenze con il traffico delle telecomunicazioni e con la radiodiffusione, l’UFCOM ha accesso a tutti gli impianti di telecomunicazione.[^34-5]
 
-[^34-1]: Nuovo testo giusta il n. I della LF del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 5599](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
-[^34-2]: Introdotto dal n. I della LF del 24 mar. 2006 ([RU 2007 921](https://fedlex.data.admin.ch/eli/oc/2007/165); [FF 2003 6883](https://fedlex.data.admin.ch/eli/fga/2003/1351)). Nuovo testo giusta l’all. n. 2 della LF del 12 giu. 2009, in vigore dal 1° lug. 2010 ([RU 2010 2617](https://fedlex.data.admin.ch/eli/oc/2010/349); [FF 2008 6385](https://fedlex.data.admin.ch/eli/fga/2008/1231)).
-[^34-3]: Introdotto dal n. I della LF del 24 mar. 2006 ([RU 2007 921](https://fedlex.data.admin.ch/eli/oc/2007/165); [FF 2003 6883](https://fedlex.data.admin.ch/eli/fga/2003/1351)). Nuovo testo giusta il n. I della LF del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 5599](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
-[^34-4]: Introdotto dall’all. n. II 13 della LF del 25 set. 2015 sulle attività informative, in vigore dal 1° set. 2017 ([RU 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); [FF 2014 1885](https://fedlex.data.admin.ch/eli/fga/2014/407)).
-[^34-5]: Nuovo testo giusta il n. I della LF del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 5599](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
+[^34-1]: Nuovo testo giusta la cifra I della LF del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 5599](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
+[^34-2]: Introdotto dalla cifra I della LF del 24 mar. 2006 ([RU 2007 921](https://fedlex.data.admin.ch/eli/oc/2007/165); [FF 2003 6883](https://fedlex.data.admin.ch/eli/fga/2003/1351)). Nuovo testo giusta l’all. n. 2 della LF del 12 giu. 2009, in vigore dal 1° lug. 2010 ([RU 2010 2617](https://fedlex.data.admin.ch/eli/oc/2010/349); [FF 2008 6385](https://fedlex.data.admin.ch/eli/fga/2008/1231)).
+[^34-3]: Introdotto dalla cifra I della LF del 24 mar. 2006 ([RU 2007 921](https://fedlex.data.admin.ch/eli/oc/2007/165); [FF 2003 6883](https://fedlex.data.admin.ch/eli/fga/2003/1351)). Nuovo testo giusta la cifra I della LF del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 5599](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
+[^34-4]: Introdotto dall’all. cifra II n. 13 della LF del 25 set. 2015 sulle attività informative, in vigore dal 1° set. 2017 ([RU 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); [FF 2014 1885](https://fedlex.data.admin.ch/eli/fga/2014/407)).
+[^34-5]: Nuovo testo giusta la cifra I della LF del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 5599](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
 
 #### Art. 34a
 
@@ -980,7 +980,7 @@ Il Consiglio federale stabilisce le condizioni alle quali le seguenti autorità 
 
 Gli articoli 13*a* e 13*b* sull’elaborazione dei dati e sull’assistenza amministrativa sono applicabili agli articoli 31–34.
 
-[^34a-1]: Introdotto dal n. I della LF del 24 mar. 2006, in vigore dal 1° apr. 2007 ([RU 2007 921](https://fedlex.data.admin.ch/eli/oc/2007/165); [FF 2003 6883](https://fedlex.data.admin.ch/eli/fga/2003/1351)).
+[^34a-1]: Introdotto dalla cifra I della LF del 24 mar. 2006, in vigore dal 1° apr. 2007 ([RU 2007 921](https://fedlex.data.admin.ch/eli/oc/2007/165); [FF 2003 6883](https://fedlex.data.admin.ch/eli/fga/2003/1351)).
 
 #### Art. 35
 
@@ -994,11 +994,11 @@ Gli articoli 13*a* e 13*b* sull’elaborazione dei dati e sull’assistenza ammi
 
 <sup>4</sup> L’autorizzazione va concessa con procedura semplice e rapida. Oltre alle tasse a copertura delle spese, non è possibile chiedere un indennizzo per l’utilizzazione di un’area d’uso comune, a meno che tale uso ne sia pregiudicato.[^35-5]
 
-[^35-1]: Nuovo testo giusta il n. I della LF del 24 mar. 2006, in vigore dal 1° apr. 2007 ([RU 2007 921](https://fedlex.data.admin.ch/eli/oc/2007/165); [FF 2003 6883](https://fedlex.data.admin.ch/eli/fga/2003/1351)).
-[^35-2]: Nuovo testo giusta il n. I della LF del 24 mar. 2006, in vigore dal 1° apr. 2007 ([RU 2007 921](https://fedlex.data.admin.ch/eli/oc/2007/165); [FF 2003 6883](https://fedlex.data.admin.ch/eli/fga/2003/1351)).
-[^35-3]: Nuovo testo giusta il n. I della LF del 24 mar. 2006, in vigore dal 1° apr. 2007 ([RU 2007 921](https://fedlex.data.admin.ch/eli/oc/2007/165); [FF 2003 6883](https://fedlex.data.admin.ch/eli/fga/2003/1351)).
-[^35-4]: Nuovo testo giusta il n. I della LF del 24 mar. 2006, in vigore dal 1° apr. 2007 ([RU 2007 921](https://fedlex.data.admin.ch/eli/oc/2007/165); [FF 2003 6883](https://fedlex.data.admin.ch/eli/fga/2003/1351)).
-[^35-5]: Nuovo testo del per. giusta il n. I della LF del 24 mar. 2006, in vigore dal 1° apr. 2007 ([RU 2007 921](https://fedlex.data.admin.ch/eli/oc/2007/165); [FF 2003 6883](https://fedlex.data.admin.ch/eli/fga/2003/1351)).
+[^35-1]: Nuovo testo giusta la cifra I della LF del 24 mar. 2006, in vigore dal 1° apr. 2007 ([RU 2007 921](https://fedlex.data.admin.ch/eli/oc/2007/165); [FF 2003 6883](https://fedlex.data.admin.ch/eli/fga/2003/1351)).
+[^35-2]: Nuovo testo giusta la cifra I della LF del 24 mar. 2006, in vigore dal 1° apr. 2007 ([RU 2007 921](https://fedlex.data.admin.ch/eli/oc/2007/165); [FF 2003 6883](https://fedlex.data.admin.ch/eli/fga/2003/1351)).
+[^35-3]: Nuovo testo giusta la cifra I della LF del 24 mar. 2006, in vigore dal 1° apr. 2007 ([RU 2007 921](https://fedlex.data.admin.ch/eli/oc/2007/165); [FF 2003 6883](https://fedlex.data.admin.ch/eli/fga/2003/1351)).
+[^35-4]: Nuovo testo giusta la cifra I della LF del 24 mar. 2006, in vigore dal 1° apr. 2007 ([RU 2007 921](https://fedlex.data.admin.ch/eli/oc/2007/165); [FF 2003 6883](https://fedlex.data.admin.ch/eli/fga/2003/1351)).
+[^35-5]: Nuovo testo del per. giusta la cifra I della LF del 24 mar. 2006, in vigore dal 1° apr. 2007 ([RU 2007 921](https://fedlex.data.admin.ch/eli/oc/2007/165); [FF 2003 6883](https://fedlex.data.admin.ch/eli/fga/2003/1351)).
 
 #### Art. 35a
 
@@ -1017,9 +1017,9 @@ Non può essere riscosso alcun compenso per l’utilizzo quando:
 
 <sup>4</sup> Il fornitore di servizi di telecomunicazione o il locatore può sigillare i collegamenti inutilizzati e verificare i sigilli. Non può essere fatturato alcun costo per l’apposizione dei sigilli o per la riattivazione dei collegamenti.[^35a-3]
 
-[^35a-1]: Introdotto dall’all. n. II 2 della LF del 24 mar. 2006 sulla radiotelevisione, in vigore dal 1° apr. 2007 ([RU 2007 737](https://fedlex.data.admin.ch/eli/oc/2007/150); [FF 2003 1399](https://fedlex.data.admin.ch/eli/fga/2003/223)).
-[^35a-2]: Nuovo testo giusta il n. I della LF del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 5599](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
-[^35a-3]: Nuovo testo giusta il n. I della LF del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 5599](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
+[^35a-1]: Introdotto dall’all. cifra II n. 2 della LF del 24 mar. 2006 sulla radiotelevisione, in vigore dal 1° apr. 2007 ([RU 2007 737](https://fedlex.data.admin.ch/eli/oc/2007/150); [FF 2003 1399](https://fedlex.data.admin.ch/eli/fga/2003/223)).
+[^35a-2]: Nuovo testo giusta la cifra I della LF del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 5599](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
+[^35a-3]: Nuovo testo giusta la cifra I della LF del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 5599](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
 
 #### Art. 35b
 
@@ -1035,7 +1035,7 @@ Non può essere riscosso alcun compenso per l’utilizzo quando:
 
 <sup>5</sup> Su richiesta, la ComCom decide in merito a controversie tra fornitori di servizi di telecomunicazione riguardanti l’accesso al punto d’entrata nell’edificio o le condizioni di coutenza. L’articolo 11*b* si applica per analogia.
 
-[^35b-1]: Introdotto dal n. I della LF del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 5599](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
+[^35b-1]: Introdotto dalla cifra I della LF del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 5599](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
 
 #### Art. 36
 
@@ -1047,10 +1047,10 @@ Non può essere riscosso alcun compenso per l’utilizzo quando:
 
 <sup>3</sup> Alle stesse condizioni, l’UFCOM può obbligare i fornitori di servizi di telecomunicazione a installare e a utilizzare congiuntamente impianti di telecomunicazione e altri impianti, come canalizzazioni di cavi e stazioni emittenti.[^36-4]
 
-[^36-1]: Nuova espr. giusta il n. I della LF del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 5599](https://fedlex.data.admin.ch/eli/fga/2017/1933)). Di detta mod. è tenuto conto in tutto il presente testo.
-[^36-2]: [RS 711](https://fedlex.data.admin.ch/eli/cc/47/689_701_723)
-[^36-3]: Nuovo testo giusta il n. I della LF del 24 mar. 2006, in vigore dal 1° apr. 2007 ([RU 2007 921](https://fedlex.data.admin.ch/eli/oc/2007/165); [FF 2003 6883](https://fedlex.data.admin.ch/eli/fga/2003/1351)).
-[^36-4]: Introdotto dal n. I della LF del 24 mar. 2006, in vigore dal 1° apr. 2007 ([RU 2007 921](https://fedlex.data.admin.ch/eli/oc/2007/165); [FF 2003 6883](https://fedlex.data.admin.ch/eli/fga/2003/1351)).
+[^36-1]: Nuova espr. giusta la cifra I della LF del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 5599](https://fedlex.data.admin.ch/eli/fga/2017/1933)). Di detta mod. è tenuto conto in tutto il presente testo.
+[^36-2]: [RS 711](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8369)
+[^36-3]: Nuovo testo giusta la cifra I della LF del 24 mar. 2006, in vigore dal 1° apr. 2007 ([RU 2007 921](https://fedlex.data.admin.ch/eli/oc/2007/165); [FF 2003 6883](https://fedlex.data.admin.ch/eli/fga/2003/1351)).
+[^36-4]: Introdotto dalla cifra I della LF del 24 mar. 2006, in vigore dal 1° apr. 2007 ([RU 2007 921](https://fedlex.data.admin.ch/eli/oc/2007/165); [FF 2003 6883](https://fedlex.data.admin.ch/eli/fga/2003/1351)).
 
 #### Art. 36a
 
@@ -1058,7 +1058,7 @@ Non può essere riscosso alcun compenso per l’utilizzo quando:
 
 Le linee di proprietà dei fornitori di servizi di telecomunicazione che alla data dell’entrata in vigore della modifica del 22 marzo 2019 si trovano in canalizzazioni realizzate ai fini dell’urbanizzazione ai sensi del diritto in materia di pianificazione del territorio possono essere rimosse soltanto per motivi importanti. Se possibile, ai fornitori di servizi di telecomunicazione vanno proposte canalizzazioni alternative.
 
-[^36a-1]: Introdotto dal n. I della LF del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 5599](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
+[^36a-1]: Introdotto dalla cifra I della LF del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 5599](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
 
 #### Art. 37
 
@@ -1068,7 +1068,7 @@ Le linee di proprietà dei fornitori di servizi di telecomunicazione che alla da
 
 <sup>2</sup> Il proprietario che sul proprio fondo danneggia la linea o la canalizzazione dei cavi di un fornitore di servizi di telecomunicazione è responsabile del danno se causato intenzionalmente o per negligenza grave.
 
-[^37-1]: Nuovo testo giusta il n. I della LF del 24 mar. 2006, in vigore dal 1° apr. 2007 ([RU 2007 921](https://fedlex.data.admin.ch/eli/oc/2007/165); [FF 2003 6883](https://fedlex.data.admin.ch/eli/fga/2003/1351)).
+[^37-1]: Nuovo testo giusta la cifra I della LF del 24 mar. 2006, in vigore dal 1° apr. 2007 ([RU 2007 921](https://fedlex.data.admin.ch/eli/oc/2007/165); [FF 2003 6883](https://fedlex.data.admin.ch/eli/fga/2003/1351)).
 
 #### Art. 37a
 
@@ -1078,7 +1078,7 @@ Le linee di proprietà dei fornitori di servizi di telecomunicazione che alla da
 
 <sup>2</sup> La manutenzione di un’antenna o la sua sostituzione con un’antenna di dimensioni comparabili non sottostà ad autorizzazione.
 
-[^37a-1]: Introdotto dal n. I della LF del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 5599](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
+[^37a-1]: Introdotto dalla cifra I della LF del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 5599](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
 
 ## Capitolo 6: Tasse
 
@@ -1094,7 +1094,7 @@ Le linee di proprietà dei fornitori di servizi di telecomunicazione che alla da
 
 <sup>4</sup> Esso disciplina i dettagli della fornitura delle informazioni necessarie per la ripartizione e il controllo dei costi menzionati nel capoverso 1.
 
-[^38-1]: Nuovo testo giusta il n. I della LF del 24 mar. 2006, in vigore dal 1° apr. 2007 ([RU 2007 921](https://fedlex.data.admin.ch/eli/oc/2007/165); [FF 2003 6883](https://fedlex.data.admin.ch/eli/fga/2003/1351)).
+[^38-1]: Nuovo testo giusta la cifra I della LF del 24 mar. 2006, in vigore dal 1° apr. 2007 ([RU 2007 921](https://fedlex.data.admin.ch/eli/oc/2007/165); [FF 2003 6883](https://fedlex.data.admin.ch/eli/fga/2003/1351)).
 
 #### Art. 39
 
@@ -1126,14 +1126,14 @@ A condizione che non siano forniti servizi di telecomunicazione e nell’ambito 
 - c.[^39-6] i beneficiari istituzionali di privilegi, immunità e facilitazioni di cui all’articolo 2 capoverso 1 lettere a, b nonché d–l della legge del 22 giugno 2007[^39-7] sullo Stato ospite;
 - d.[^39-8] le persone giuridiche di diritto privato, purché assumano compiti pubblici della Confederazione, di un Cantone o di un Comune
 
-[^39-1]: Nuovo testo giusta l’all. n. II 2 della LF del 24 mar. 2006 sulla radiotelevisione, in vigore dal 1° apr. 2007 ([RU 2007 737](https://fedlex.data.admin.ch/eli/oc/2007/150); [FF 2003 1399](https://fedlex.data.admin.ch/eli/fga/2003/223)).
-[^39-2]: [RS 784.40](https://fedlex.data.admin.ch/eli/cc/2007/150)
+[^39-1]: Nuovo testo giusta l’all. cifra II n. 2 della LF del 24 mar. 2006 sulla radiotelevisione, in vigore dal 1° apr. 2007 ([RU 2007 737](https://fedlex.data.admin.ch/eli/oc/2007/150); [FF 2003 1399](https://fedlex.data.admin.ch/eli/fga/2003/223)).
+[^39-2]: [RS 784.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9210)
 [^39-3]: Nuovo testo giusta l’all. n. 4 della LF del 26 set. 2014, in vigore dal 1° dic. 2017 ([RU 2016 2131](https://fedlex.data.admin.ch/eli/oc/2016/345), [2017 5929](https://fedlex.data.admin.ch/eli/oc/2017/648); [FF 2013 4237](https://fedlex.data.admin.ch/eli/fga/2013/944)).
 [^39-4]: Nuovo testo giusta l’all. n. 4 della LF del 26 set. 2014, in vigore dal 1° dic. 2017 ([RU 2016 2131](https://fedlex.data.admin.ch/eli/oc/2016/345), [2017 5929](https://fedlex.data.admin.ch/eli/oc/2017/648); [FF 2013 4237](https://fedlex.data.admin.ch/eli/fga/2013/944)).
 [^39-5]: Introdotto dall’all. n. 4 della LF del 26 set. 2014, in vigore dal 1° dic. 2017 ([RU 2016 2131](https://fedlex.data.admin.ch/eli/oc/2016/345), [2017 5929](https://fedlex.data.admin.ch/eli/oc/2017/648); [FF 2013 4237](https://fedlex.data.admin.ch/eli/fga/2013/944)).
-[^39-6]: Nuovo testo giusta il n. I della LF del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 5599](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
-[^39-7]: [RS 192.12](https://fedlex.data.admin.ch/eli/cc/2007/860)
-[^39-8]: Nuovo testo giusta il n. I della LF del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 5599](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
+[^39-6]: Nuovo testo giusta la cifra I della LF del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 5599](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
+[^39-7]: [RS 192.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5676)
+[^39-8]: Nuovo testo giusta la cifra I della LF del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 5599](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
 
 #### Art. 39a
 
@@ -1141,7 +1141,7 @@ A condizione che non siano forniti servizi di telecomunicazione e nell’ambito 
 
 Il Consiglio federale può assegnare una parte dei proventi delle tasse di concessione di cui all’articolo 39 per misure collaterali quali la ricerca o studi inerenti alle tecnologie di radiocomunicazione.
 
-[^39a-1]: Introdotto dal n. I della LF del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 5599](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
+[^39a-1]: Introdotto dalla cifra I della LF del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 5599](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
 
 #### Art. 40
 
@@ -1168,10 +1168,10 @@ L’autorità competente riscuote tasse amministrative a copertura dei costi del
 <sup>4</sup> Il DATEC può fissare limiti massimi di prezzo, segnatamente se il livello dei prezzi su un determinato mercato fa supporre che vi saranno abusi.
 
 [^40-1]: Nuovo testo giusta l’art. 106 n. 2 della LF del 24 mar. 2006 sulla radiotelevisione, in vigore dal 1° apr. 2007 ([RU 2007 737](https://fedlex.data.admin.ch/eli/oc/2007/150); [FF 2003 1399](https://fedlex.data.admin.ch/eli/fga/2003/223)).
-[^40-2]: Nuovo testo giusta il n. I della LF del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 5599](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
-[^40-3]: Nuovo testo giusta il n. I della LF del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 5599](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
-[^40-4]: Nuovo testo giusta il n. I della LF del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 5599](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
-[^40-5]: Introdotto dal n. I della LF del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 5599](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
+[^40-2]: Nuovo testo giusta la cifra I della LF del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 5599](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
+[^40-3]: Nuovo testo giusta la cifra I della LF del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 5599](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
+[^40-4]: Nuovo testo giusta la cifra I della LF del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 5599](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
+[^40-5]: Introdotto dalla cifra I della LF del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 5599](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
 
 #### Art. 41
 
@@ -1179,7 +1179,7 @@ L’autorità competente riscuote tasse amministrative a copertura dei costi del
 
 Il Consiglio federale disciplina la riscossione delle tasse; fissa le modalità di finanziamento del servizio universale, nonché l’importo delle tasse per le concessioni di radiocomunicazione e delle tasse amministrative.
 
-[^41-1]: Nuovo testo giusta il n. I della LF del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 5599](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
+[^41-1]: Nuovo testo giusta la cifra I della LF del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 5599](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
 
 #### Art. 42
 
@@ -1191,7 +1191,7 @@ L’autorità competente per la riscossione delle tasse può esigere un’adegua
 
 [^chap7-1]
 
-[^chap7-1]: Nuovo testo giusta il n. I della LF del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 5599](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
+[^chap7-1]: Nuovo testo giusta la cifra I della LF del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 5599](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
 
 #### Art. 43
 
@@ -1203,7 +1203,7 @@ Le persone che sono o erano incaricate di svolgere compiti di servizio nell’am
 
 [^44-1]
 
-[^44-1]: Abrogato dal n. II 31 della LF del 20 mar. 2008 concernente l’aggiornamento formale del diritto federale, con effetto dal 1° ago. 2008 ([RU 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447); [FF 2007 5575](https://fedlex.data.admin.ch/eli/fga/2007/885)).
+[^44-1]: Abrogato dalla cifra II n. 31 della LF del 20 mar. 2008 concernente l’aggiornamento formale del diritto federale, con effetto dal 1° ago. 2008 ([RU 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447); [FF 2007 5575](https://fedlex.data.admin.ch/eli/fga/2007/885)).
 
 #### Art. 45
 
@@ -1213,19 +1213,20 @@ Le persone che sono o erano incaricate di svolgere compiti di servizio nell’am
 
 <sup>2</sup> Chiunque abbisogni di questi dati per l’identificazione di comunicazioni stabilite abusivamente o di pubblicità di massa effettuata in modo sleale può richiedere al fornitore del servizio di telecomunicazione di fornirgli informazioni sul nome e l’indirizzo degli utenti mediante il cui collegamento sono state stabilite le comunicazioni.[^45-1]
 
-[^45-1]: Nuovo testo giusta il n. I della LF del 24 mar. 2006, in vigore dal 1° apr. 2007 ([RU 2007 921](https://fedlex.data.admin.ch/eli/oc/2007/165); [FF 2003 6883](https://fedlex.data.admin.ch/eli/fga/2003/1351)).
+[^45-1]: Nuovo testo giusta la cifra I della LF del 24 mar. 2006, in vigore dal 1° apr. 2007 ([RU 2007 921](https://fedlex.data.admin.ch/eli/oc/2007/165); [FF 2003 6883](https://fedlex.data.admin.ch/eli/fga/2003/1351)).
 
 #### Art. 45a
 
 **Protezione dei fanciulli e degli adolescenti[^45a-2]**[^45a-1]
 
-<sup>1</sup> Il Consiglio federale può emanare disposizioni volte a proteggere i fanciulli e gli adolescenti dai pericoli derivanti dall’utilizzazione dei servizi di telecomunicazione. Può segnatamente obbligare i fornitori di servizi d’accesso a Internet a consigliare i loro clienti sulle possibili misure in materia di protezione dei fanciulli e degli adolescenti.[^45a-3]
+<sup>1</sup> I fornitori di servizi di telecomunicazione lottano contro la pubblicità effettuata in modo sleale ai sensi dell’articolo 3 capoverso 1 lettere o, u e v della legge federale del 19 dicembre 1986[^45a-3] contro la concorrenza sleale.[^45a-4]
 
 <sup>2</sup> Il Consiglio federale può determinare le misure di lotta appropriate e necessarie.
 
-[^45a-1]: Introdotto dal n. I della LF del 24 mar. 2006, in vigore dal 1° apr. 2007 ([RU 2007 921](https://fedlex.data.admin.ch/eli/oc/2007/165); [FF 2003 6883](https://fedlex.data.admin.ch/eli/fga/2003/1351)).
-[^45a-2]: Nuovo testo giusta il n. I della LF del 22 mar. 2019, in vigore dal 1° lug. 2021 ([RU 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 5599](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
-[^45a-3]: Nuovo testo giusta il n. I della LF del 22 mar. 2019, in vigore dal 1° lug. 2021 ([RU 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 5599](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
+[^45a-1]: Introdotto dalla cifra I della LF del 24 mar. 2006, in vigore dal 1° apr. 2007 ([RU 2007 921](https://fedlex.data.admin.ch/eli/oc/2007/165); [FF 2003 6883](https://fedlex.data.admin.ch/eli/fga/2003/1351)).
+[^45a-2]: Nuovo testo giusta la cifra I della LF del 22 mar. 2019, in vigore dal 1° lug. 2021 ([RU 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 5599](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
+[^45a-3]: [RS 241](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6122)
+[^45a-4]: Nuovo testo giusta la cifra I della LF del 22 mar. 2019, in vigore dal 1° lug. 2021 ([RU 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 5599](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
 
 #### Art. 45b
 
@@ -1233,7 +1234,7 @@ Le persone che sono o erano incaricate di svolgere compiti di servizio nell’am
 
 I fornitori di servizi di telecomunicazione possono elaborare dati relativi all’ubicazione dei loro clienti soltanto per fornire e fatturare servizi di telecomunicazione; possono farlo anche per servizi d’altro genere se i clienti hanno dato previamente il loro consenso oppure se i dati sono previamente resi anonimi.
 
-[^45b-1]: Introdotto dal n. I della LF del 24 mar. 2006, in vigore dal 1° apr. 2007 ([RU 2007 921](https://fedlex.data.admin.ch/eli/oc/2007/165); [FF 2003 6883](https://fedlex.data.admin.ch/eli/fga/2003/1351)).
+[^45b-1]: Introdotto dalla cifra I della LF del 24 mar. 2006, in vigore dal 1° apr. 2007 ([RU 2007 921](https://fedlex.data.admin.ch/eli/oc/2007/165); [FF 2003 6883](https://fedlex.data.admin.ch/eli/fga/2003/1351)).
 
 #### Art. 45c
 
@@ -1244,7 +1245,7 @@ L’elaborazione, attraverso la trasmissione mediante telecomunicazione, di dati
 - a. per fornire e fatturare servizi di telecomunicazione; oppure
 - b. se gli utenti sono informati dell’elaborazione medesima e del suo scopo ed è data loro la possibilità di rifiutarla.
 
-[^45c-1]: Introdotto dal n. I della LF del 24 mar. 2006, in vigore dal 1° apr. 2007 ([RU 2007 921](https://fedlex.data.admin.ch/eli/oc/2007/165); [FF 2003 6883](https://fedlex.data.admin.ch/eli/fga/2003/1351)).
+[^45c-1]: Introdotto dalla cifra I della LF del 24 mar. 2006, in vigore dal 1° apr. 2007 ([RU 2007 921](https://fedlex.data.admin.ch/eli/oc/2007/165); [FF 2003 6883](https://fedlex.data.admin.ch/eli/fga/2003/1351)).
 
 #### Art. 46
 
@@ -1262,8 +1263,8 @@ Il Consiglio federale disciplina in particolare l’identificazione del collegam
 
 <sup>3</sup> I fornitori di servizi di telecomunicazione dissimulano le informazioni dai contenuti pornografici ai sensi dell’articolo 197 capoversi 4 e 5 del Codice penale segnalate loro dall’Ufficio federale di polizia. I fornitori di servizi di telecomunicazione segnalano all’Ufficio federale di polizia casi sospetti di informazioni dai contenuti pornografici ai sensi dell’articolo 197 capoversi 4 e 5 del Codice penale scoperti casualmente nel quadro della loro attività o segnalati loro per scritto da terzi.
 
-[^46a-1]: Introdotto dal n. I della LF del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 5599](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
-[^46a-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^46a-1]: Introdotto dalla cifra I della LF del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 5599](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
+[^46a-2]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 ## Capitolo 8: Interessi nazionali importanti
 
@@ -1277,12 +1278,13 @@ Il Consiglio federale disciplina in particolare l’identificazione del collegam
 
 <sup>3</sup> Disciplina l’indennizzo per tali prestazioni tenendo in debito conto gli interessi del fornitore.
 
-<sup>4</sup> Può obbligare il personale necessario a prestare servizio se una situazione straordinaria lo richiede.
+<sup>4</sup> …[^47-2]
 
-<sup>5</sup> Sono fatte salve le disposizioni della legge militare del 3 febbraio 1995[^47-2] riguardanti la requisizione e la facoltà del generale di disporre.
+<sup>5</sup> Sono fatte salve le disposizioni della legge militare del 3 febbraio 1995[^47-3] riguardanti la requisizione e la facoltà del generale di disporre.
 
-[^47-1]: Nuovo testo giusta il n. I della LF del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 5599](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
-[^47-2]: [RS 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
+[^47-1]: Nuovo testo giusta la cifra I della LF del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 5599](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
+[^47-2]: Abrogato dall’all. n. 3 della LF del 19 dic. 2025, con effetto dal 1° giu. 2026 ([RU 2026 164](https://fedlex.data.admin.ch/eli/oc/2026/164); [FF 2025 960](https://fedlex.data.admin.ch/eli/fga/2025/960)).
+[^47-3]: [RS 510.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7242)
 
 #### Art. 48
 
@@ -1292,7 +1294,7 @@ Il Consiglio federale disciplina in particolare l’identificazione del collegam
 
 <sup>2</sup> Le misure di cui al capoverso 1 non danno diritto né al risarcimento dei danni né al rimborso di tasse.
 
-[^48-1]: Nuovo testo del per. giusta il n. I della LF del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 5599](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
+[^48-1]: Nuovo testo del per. giusta la cifra I della LF del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 5599](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
 
 #### Art. 48a
 
@@ -1311,7 +1313,7 @@ Al fine di proteggere dai pericoli, prevenire i danni e ridurre i rischi, il Con
 - e. la tracciabilità degli incidenti;
 - f. la deviazione o l’impedimento delle comunicazioni e la dissimulazione delle informazioni secondo il capoverso 1.
 
-[^48a-1]: Introdotto dal n. I della LF del 24 mar. 2006 ([RU 2007 921](https://fedlex.data.admin.ch/eli/oc/2007/165)939; [FF 2003 6883](https://fedlex.data.admin.ch/eli/fga/2003/1351)). Nuovo testo giusta il n. I della LF del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 5599](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
+[^48a-1]: Introdotto dalla cifra I della LF del 24 mar. 2006 ([RU 2007 921](https://fedlex.data.admin.ch/eli/oc/2007/165)939; [FF 2003 6883](https://fedlex.data.admin.ch/eli/fga/2003/1351)). Nuovo testo giusta la cifra I della LF del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 5599](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
 
 ## Capitolo 9: Disposizioni penali
 
@@ -1372,10 +1374,10 @@ Chiunque riceve, mediante un impianto di telecomunicazione, informazioni non pub
 <sup>2</sup> Se l’atto avviene per negligenza, la multa può ammontare fino a 50 000 franchi.
 
 [^52-1]: Nuovo testo giusta l’art. 333 del Codice penale , nella versione della LF del 13 dic. 2002, in vigore dal 1° gen. 2007 ([RU 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); FF **1999** 1669).
-[^52-2]: Abrogata dal n. I della LF del 22 mar. 2019, con effetto dal 1° gen. 2021 ([RU 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 5599](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
-[^52-3]: Nuovo testo giusta il n. I della LF del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 5599](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
-[^52-4]: Nuovo testo giusta il n. I della LF del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 5599](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
-[^52-5]: Nuovo testo giusta il n. I della LF del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 5599](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
+[^52-2]: Abrogata dalla cifra I della LF del 22 mar. 2019, con effetto dal 1° gen. 2021 ([RU 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 5599](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
+[^52-3]: Nuovo testo giusta la cifra I della LF del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 5599](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
+[^52-4]: Nuovo testo giusta la cifra I della LF del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 5599](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
+[^52-5]: Nuovo testo giusta la cifra I della LF del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 5599](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
 [^52-6]: Introdotta dall’all. n. 4 della LF del 16 giu. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5607](https://fedlex.data.admin.ch/eli/oc/2017/605); [FF 2016 6401](https://fedlex.data.admin.ch/eli/fga/2016/1536)).
 
 #### Art. 53
@@ -1390,7 +1392,7 @@ Chiunque riceve, mediante un impianto di telecomunicazione, informazioni non pub
 
 Sono applicabili gli articoli 14–18 della legge federale del 22 marzo 1974[^54-1] sul diritto penale amministrativo<sup>©RS\_313.0\_b®</sup>.
 
-[^54-1]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^54-1]: [RS 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 #### Art. 55
 
@@ -1400,7 +1402,7 @@ Sono applicabili gli articoli 14–18 della legge federale del 22 marzo 1974[^54
 
 <sup>2</sup> Il DATEC può delegare all’UFCOM il perseguimento e il giudizio delle infrazioni come pure l’esecuzione della decisione.
 
-[^55-1]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^55-1]: [RS 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 ## Capitolo 10: ComCom
 
@@ -1448,9 +1450,9 @@ Se accerta una violazione del diritto, l’UFCOM può:[^58-2]
 
 <sup>5</sup> L’autorità competente può disporre provvedimenti cautelari.
 
-[^58-1]: Nuovo testo giusta il n. I della LF del 24 mar. 2006, in vigore dal 1° apr. 2007 ([RU 2007 921](https://fedlex.data.admin.ch/eli/oc/2007/165); [FF 2003 6883](https://fedlex.data.admin.ch/eli/fga/2003/1351)).
-[^58-2]: Nuovo testo giusta il n. I della LF del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 5599](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
-[^58-3]: Introdotta dal n. I della LF del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 5599](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
+[^58-1]: Nuovo testo giusta la cifra I della LF del 24 mar. 2006, in vigore dal 1° apr. 2007 ([RU 2007 921](https://fedlex.data.admin.ch/eli/oc/2007/165); [FF 2003 6883](https://fedlex.data.admin.ch/eli/fga/2003/1351)).
+[^58-2]: Nuovo testo giusta la cifra I della LF del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 5599](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
+[^58-3]: Introdotta dalla cifra I della LF del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 5599](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
 
 #### Art. 59
 
@@ -1473,10 +1475,10 @@ I dati raccolti o comunicati a scopi statistici possono essere utilizzati per al
 
 <sup>3</sup> Il Consiglio federale disciplina i dettagli.
 
-[^59-1]: Nuovo testo giusta il n. I della LF del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 5599](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
-[^59-2]: Nuovo testo giusta il n. I della LF del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 5599](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
-[^59-3]: Introdotto dal n. I della LF del 24 mar. 2006, in vigore dal 1° apr. 2007 ([RU 2007 921](https://fedlex.data.admin.ch/eli/oc/2007/165); [FF 2003 6883](https://fedlex.data.admin.ch/eli/fga/2003/1351)).
-[^59-4]: Introdotto dal n. I della LF del 24 mar. 2006, in vigore dal 1° apr. 2007 ([RU 2007 921](https://fedlex.data.admin.ch/eli/oc/2007/165); [FF 2003 6883](https://fedlex.data.admin.ch/eli/fga/2003/1351)).
+[^59-1]: Nuovo testo giusta la cifra I della LF del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 5599](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
+[^59-2]: Nuovo testo giusta la cifra I della LF del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 5599](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
+[^59-3]: Introdotto dalla cifra I della LF del 24 mar. 2006, in vigore dal 1° apr. 2007 ([RU 2007 921](https://fedlex.data.admin.ch/eli/oc/2007/165); [FF 2003 6883](https://fedlex.data.admin.ch/eli/fga/2003/1351)).
+[^59-4]: Introdotto dalla cifra I della LF del 24 mar. 2006, in vigore dal 1° apr. 2007 ([RU 2007 921](https://fedlex.data.admin.ch/eli/oc/2007/165); [FF 2003 6883](https://fedlex.data.admin.ch/eli/fga/2003/1351)).
 
 #### Art. 60
 
@@ -1488,7 +1490,7 @@ I dati raccolti o comunicati a scopi statistici possono essere utilizzati per al
 
 <sup>3</sup> Per valutare l’importo della sanzione, l’autorità competente tiene conto in particolare della gravità della violazione e delle condizioni finanziarie dell’impresa.
 
-[^60-1]: Nuovo testo giusta il n. I della LF del 24 mar. 2006, in vigore dal 1° apr. 2007 ([RU 2007 921](https://fedlex.data.admin.ch/eli/oc/2007/165); [FF 2003 6883](https://fedlex.data.admin.ch/eli/fga/2003/1351)).
+[^60-1]: Nuovo testo giusta la cifra I della LF del 24 mar. 2006, in vigore dal 1° apr. 2007 ([RU 2007 921](https://fedlex.data.admin.ch/eli/oc/2007/165); [FF 2003 6883](https://fedlex.data.admin.ch/eli/fga/2003/1351)).
 
 #### Art. 61
 
@@ -1530,11 +1532,11 @@ I dati raccolti o comunicati a scopi statistici possono essere utilizzati per al
 
 <sup>6</sup> L’importo dell’aiuto finanziario dipende dall’importanza dell’organizzazione, del progetto o del provvedimento a tutela degli interessi della Svizzera e dalle altre possibilità di finanziamento del beneficiario. Ammonta al massimo al 66 per cento del costo totale della prestazione per cui è stanziato l’aiuto.[^64-5]
 
-[^64-1]: Nuovo testo giusta il n. I della LF del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 5599](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
-[^64-2]: Introdotto dal n. I della LF del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 5599](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
-[^64-3]: Introdotto dal n. I della LF del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 5599](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
-[^64-4]: Introdotto dal n. I della LF del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 5599](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
-[^64-5]: Introdotto dal n. I della LF del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 5599](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
+[^64-1]: Nuovo testo giusta la cifra I della LF del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 5599](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
+[^64-2]: Introdotto dalla cifra I della LF del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 5599](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
+[^64-3]: Introdotto dalla cifra I della LF del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 5599](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
+[^64-4]: Introdotto dalla cifra I della LF del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 5599](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
+[^64-5]: Introdotto dalla cifra I della LF del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 5599](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
 
 #### Art. 65
 
@@ -1550,7 +1552,7 @@ La legge sulle telecomunicazioni del 21 giugno 1991<sup>©RU\_1992\_58®</sup>[^
 
 [^6668-1]
 
-[^6668-1]: Abrogati dal n. II 31 della LF del 20 mar. 2008 concernente l’aggiornamento formale del diritto federale, con effetto dal 1° ago. 2008 ([RU 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447); [FF 2007 5575](https://fedlex.data.admin.ch/eli/fga/2007/885)).
+[^6668-1]: Abrogati dalla cifra II n. 31 della LF del 20 mar. 2008 concernente l’aggiornamento formale del diritto federale, con effetto dal 1° ago. 2008 ([RU 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447); [FF 2007 5575](https://fedlex.data.admin.ch/eli/fga/2007/885)).
 
 #### Art. 68a
 
@@ -1560,13 +1562,13 @@ La legge sulle telecomunicazioni del 21 giugno 1991<sup>©RU\_1992\_58®</sup>[^
 
 <sup>2</sup> La concessione per il servizio universale rilasciata secondo il vecchio diritto è retta da questo sino alla scadenza.
 
-[^68a-1]: Introdotto dal n. I della LF del 24 mar. 2006, in vigore dal 1° apr. 2007 ([RU 2007 921](https://fedlex.data.admin.ch/eli/oc/2007/165); [FF 2003 6883](https://fedlex.data.admin.ch/eli/fga/2003/1351)).
+[^68a-1]: Introdotto dalla cifra I della LF del 24 mar. 2006, in vigore dal 1° apr. 2007 ([RU 2007 921](https://fedlex.data.admin.ch/eli/oc/2007/165); [FF 2003 6883](https://fedlex.data.admin.ch/eli/fga/2003/1351)).
 
 #### Art. 69
 
 [^69-1]
 
-[^69-1]: Abrogato dal n. II 31 della LF del 20 mar. 2008 concernente l’aggiornamento formale del diritto federale, con effetto dal 1° ago. 2008 ([RU 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447); [FF 2007 5575](https://fedlex.data.admin.ch/eli/fga/2007/885)).
+[^69-1]: Abrogato dalla cifra II n. 31 della LF del 20 mar. 2008 concernente l’aggiornamento formale del diritto federale, con effetto dal 1° ago. 2008 ([RU 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447); [FF 2007 5575](https://fedlex.data.admin.ch/eli/fga/2007/885)).
 
 ### Sezione 3: Referendum ed entrata in vigore
 
@@ -1580,7 +1582,7 @@ La legge sulle telecomunicazioni del 21 giugno 1991<sup>©RU\_1992\_58®</sup>[^
 
 Data dell’entrata in vigore 1° gennaio 1998:[^70-2] Art. 56, 57, 64, 67, 68: 20 ottobre 1997
 
-[^70-1]: Abrogato dal n. II 31 della LF del 20 mar. 2008 concernente l’aggiornamento formale del diritto federale, con effetto dal 1° ago. 2008 ([RU 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447); [FF 2007 5575](https://fedlex.data.admin.ch/eli/fga/2007/885)).
+[^70-1]: Abrogato dalla cifra II n. 31 della LF del 20 mar. 2008 concernente l’aggiornamento formale del diritto federale, con effetto dal 1° ago. 2008 ([RU 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447); [FF 2007 5575](https://fedlex.data.admin.ch/eli/fga/2007/885)).
 [^70-2]: DCF del 6 ott. 1997.
 
 Allegato

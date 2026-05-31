@@ -4,11 +4,11 @@ title: Fernmeldegesetz vom 30. April 1997 (FMG)
 short: FMG
 eli: "https://fedlex.data.admin.ch/eli/cc/1997/2187_2187_2187"
 language: de
-version: 2023-09-01
+version: 2026-06-01
 adopted: 1997-04-30
 in_force: 1997-10-20
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1997/2187_2187_2187/20230901/de/xml/fedlex-data-admin-ch-eli-cc-1997-2187_2187_2187-20230901-de-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/20230901/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1997/2187_2187_2187/20260601/de/xml/fedlex-data-admin-ch-eli-cc-1997-2187_2187_2187-20260601-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/20260601/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/20230901/de"
 
 (FMG)
 
-vom 30. April 1997 (Stand am 1. September 2023)
+vom 30. April 1997 (Stand am 1. Juni 2026)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -25,7 +25,7 @@ gestützt auf Artikel 92 der Bundesverfassung[^ingress-1],[^ingress-2] nach Eins
 
 beschliesst:
 
-[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: Fassung gemäss Ziff. I des BG vom 22. März 2019, in Kraft seit 1. Jan. 2021 ([AS 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [BBl 2017 6559](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
 [^ingress-3]: [BBl 1996 III 1405](https://fedlex.data.admin.ch/eli/fga/1996/3_1405_1361_1297)
 
@@ -57,7 +57,7 @@ Es soll insbesondere:
 Das Gesetz regelt die fernmeldetechnische Übertragung von Informationen, einschliesslich der Übertragung von Radio- und Fernsehprogrammen, soweit das Bundesgesetz vom 24. März 2006[^2-2] über Radio und Fernsehen (RTVG) nichts anderes bestimmt.
 
 [^2-1]: Fassung gemäss Anhang Ziff. II 2 des BG vom 24. März 2006 über Radio und Fernsehen, in Kraft seit 1. April 2007 ([AS 2007 737](https://fedlex.data.admin.ch/eli/oc/2007/150); [BBl 2003 1569](https://fedlex.data.admin.ch/eli/fga/2003/223)).
-[^2-2]: [SR 784.40](https://fedlex.data.admin.ch/eli/cc/2007/150)
+[^2-2]: [SR 784.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9210)
 
 #### Art. 3
 
@@ -88,7 +88,7 @@ In diesem Gesetz bedeuten:
 [^3-7]: Fassung gemäss Ziff. I des BG vom 22. März 2019, in Kraft seit 1. Jan. 2021 ([AS 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [BBl 2017 6559](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
 [^3-8]: Fassung gemäss Ziff. I des BG vom 22. März 2019, in Kraft seit 1. Jan. 2021 ([AS 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [BBl 2017 6559](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
 [^3-9]: Eingefügt durch Anhang Ziff. II 2 des BG vom 24. März 2006 über Radio und Fernsehen, in Kraft seit 1. April 2007 ([AS 2007 737](https://fedlex.data.admin.ch/eli/oc/2007/150); [BBl 2003 1569](https://fedlex.data.admin.ch/eli/fga/2003/223)).
-[^3-10]: [SR 784.40](https://fedlex.data.admin.ch/eli/cc/2007/150)
+[^3-10]: [SR 784.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9210)
 
 ## 2. Kapitel: Fernmeldedienste
 
@@ -160,7 +160,7 @@ Die Anbieterinnen von Fernmeldediensten müssen den Zugang zu Telefonie und Inte
 - b. kein Dokument vorgelegt haben, das die vom Bundesrat nach Artikel 23 Absatz 1 des Bundesgesetzes vom 18. März 2016[^6a-2] betreffend die Überwachung des Post- und Fernmeldeverkehrs aufgestellten Anforderungen erfüllt.
 
 [^6a-1]: Eingefügt durch Anhang Ziff. II 3 des BG vom 18. März 2016 betreffend die Überwachung des Post- und Fernmeldeverkehrs, in Kraft seit 1. März 2018 ([AS 2018 117](https://fedlex.data.admin.ch/eli/oc/2018/31); [BBl 2013 2683](https://fedlex.data.admin.ch/eli/fga/2013/512)).
-[^6a-2]: [SR 780.1](https://fedlex.data.admin.ch/eli/cc/2018/31)
+[^6a-2]: [SR 780.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9117)
 
 #### Art. 7–10
 
@@ -445,7 +445,7 @@ Die Dienste der Grundversorgung müssen so angeboten werden, dass Menschen mit B
 [^16-3]: Fassung gemäss Ziff. I des BG vom 24. März 2006, in Kraft seit 1. April 2007 ([AS 2007 921](https://fedlex.data.admin.ch/eli/oc/2007/165); [BBl 2003 7951](https://fedlex.data.admin.ch/eli/fga/2003/1351)).
 [^16-4]: Fassung gemäss Ziff. I des BG vom 24. März 2006, in Kraft seit 1. April 2007 ([AS 2007 921](https://fedlex.data.admin.ch/eli/oc/2007/165); [BBl 2003 7951](https://fedlex.data.admin.ch/eli/fga/2003/1351)).
 [^16-5]: Aufgehoben durch Anhang Ziff. 5 des Behindertengleichstellungsgesetzes vom 13. Dez. 2002, mit Wirkung seit 1. Jan. 2004 ([AS 2003 4487](https://fedlex.data.admin.ch/eli/oc/2003/667); [BBl 2001 1715](https://fedlex.data.admin.ch/eli/fga/2001/434)).
-[^16-6]: Die Liste ist nicht mehr aktuell. Siehe heute: Abs. 3 sowie Art. 15 der V vom 9. März 2007 über Fernmeldedienste ([SR 784.101.1](https://fedlex.data.admin.ch/eli/cc/2007/166)).
+[^16-6]: Die Liste ist nicht mehr aktuell. Siehe heute: Abs. 3 sowie Art. 15 der V vom 9. März 2007 über Fernmeldedienste ([SR 784.101.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9173)).
 [^16-7]: Eingefügt durch Anhang Ziff. 5 des Behindertengleichstellungsgesetzes vom 13. Dez. 2002, in Kraft seit 1. Jan. 2004 ([AS 2003 4487](https://fedlex.data.admin.ch/eli/oc/2003/667); [BBl 2001 1715](https://fedlex.data.admin.ch/eli/fga/2001/434)).
 [^16-8]: Fassung des dritten Satzes gemäss Ziff. I des BG vom 22. März 2019, in Kraft seit 1. Jan. 2021 ([AS 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [BBl 2017 6559](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
 
@@ -620,7 +620,7 @@ Wer eine Funkkonzession erwerben will, muss:
 
 [^23-1]: Fassung gemäss Ziff. I des BG vom 22. März 2019, in Kraft seit 1. Jan. 2021 ([AS 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [BBl 2017 6559](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
 [^23-2]: Fassung gemäss Anhang Ziff. II 2 des BG vom 24. März 2006 über Radio und Fernsehen, in Kraft seit 1. April 2007 ([AS 2007 737](https://fedlex.data.admin.ch/eli/oc/2007/150); [BBl 2003 1569](https://fedlex.data.admin.ch/eli/fga/2003/223)**)**.
-[^23-3]: [SR 784.40](https://fedlex.data.admin.ch/eli/cc/2007/150)
+[^23-3]: [SR 784.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9210)
 [^23-4]: Fassung des zweiten Satzes gemäss Ziff. I des BG vom 22. März 2019, in Kraft seit 1. Jan. 2021 ([AS 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [BBl 2017 6559](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
 
 #### Art. 24
@@ -644,7 +644,7 @@ Der Bundesrat kann für das erstinstanzliche Verfahren betreffend die öffentlic
 <sup>4</sup> Zwischenverfügungen im Verfahren betreffend die öffentliche Ausschreibung sind nicht selbstständig durch Beschwerde anfechtbar.
 
 [^24-1]: Fassung gemäss Ziff. I des BG vom 22. März 2019, in Kraft seit 1. Jan. 2021 ([AS 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [BBl 2017 6559](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
-[^24-2]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^24-2]: [SR 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 #### Art. 24a
 
@@ -812,7 +812,7 @@ Dieses Gesetz gilt für die folgenden Internet-Domains:
 <sup>2</sup> Es kann gewerbliche Dienstleistungen gegenüber Dritten erbringen, soweit dies für die Verwaltung von Domain-Namen nötig ist und die Voraussetzungen nach Artikel 41*a* Absätze 2 und 3 des Finanzhaushaltsgesetzes vom 7. Oktober 2005[^28c-2] erfüllt sind.
 
 [^28c-1]: Eingefügt durch Ziff. I des BG vom 22. März 2019, in Kraft seit 1. Jan. 2021 ([AS 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [BBl 2017 6559](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
-[^28c-2]: [SR 611.0](https://fedlex.data.admin.ch/eli/cc/2006/227)
+[^28c-2]: [SR 611.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7751)
 
 #### Art. 28d
 
@@ -888,7 +888,7 @@ Hat der Bundesrat die grundlegenden fernmeldetechnischen Anforderungen nach Absa
 
 [^31-1]: Fassung gemäss Ziff. I des BG vom 24. März 2006, in Kraft seit 1. April 2007 ([AS 2007 921](https://fedlex.data.admin.ch/eli/oc/2007/165); [BBl 2003 7951](https://fedlex.data.admin.ch/eli/fga/2003/1351)).
 [^31-2]: Fassung gemäss Ziff. I des BG vom 22. März 2019, in Kraft seit 1. Jan. 2021 ([AS 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [BBl 2017 6559](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
-[^31-3]: [SR 946.51](https://fedlex.data.admin.ch/eli/cc/1996/1725_1725_1725)
+[^31-3]: [SR 946.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11467)
 [^31-4]: Fassung gemäss Ziff. I des BG vom 22. März 2019, in Kraft seit 1. Jan. 2021 ([AS 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [BBl 2017 6559](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
 [^31-5]: Fassung gemäss Ziff. I des BG vom 22. März 2019, in Kraft seit 1. Jan. 2021 ([AS 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [BBl 2017 6559](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
 [^31-6]: Fassung gemäss Ziff. I des BG vom 22. März 2019, in Kraft seit 1. Jan. 2021 ([AS 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [BBl 2017 6559](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
@@ -1043,7 +1043,7 @@ Nutzungsentgelte dürfen nicht erhoben werden, wenn:
 <sup>3</sup> Unter denselben Voraussetzungen kann das BAKOM Anbieterinnen von Fernmeldediensten verpflichten, Fernmeldeanlagen und andere Anlagen, wie Kabelkanäle und Sendestandorte, gemeinsam zu installieren und zu nutzen.[^36-4]
 
 [^36-1]: Ausdruck gemäss Ziff. I des BG vom 22. März 2019, in Kraft seit 1. Jan. 2021 ([AS 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [BBl 2017 6559](https://fedlex.data.admin.ch/eli/fga/2017/1933)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
-[^36-2]: [SR 711](https://fedlex.data.admin.ch/eli/cc/47/689_701_723)
+[^36-2]: [SR 711](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8369)
 [^36-3]: Fassung gemäss Ziff. I des BG vom 24. März 2006, in Kraft seit 1. April 2007 ([AS 2007 921](https://fedlex.data.admin.ch/eli/oc/2007/165); [BBl 2003 7951](https://fedlex.data.admin.ch/eli/fga/2003/1351)).
 [^36-4]: Eingefügt durch Ziff. I des BG vom 24. März 2006, in Kraft seit 1. April 2007 ([AS 2007 921](https://fedlex.data.admin.ch/eli/oc/2007/165); [BBl 2003 7951](https://fedlex.data.admin.ch/eli/fga/2003/1351)).
 
@@ -1122,12 +1122,12 @@ Sofern keine Fernmeldedienste erbracht werden, kann der Bundesrat nach Massgabe 
 - d.[^39-8] juristische Personen des Privatrechts, soweit sie öffentliche Aufgaben von Bund, Kantonen oder Gemeinden wahrnehmen.
 
 [^39-1]: Fassung gemäss Anhang Ziff. II 2 des BG vom 24. März 2006 über Radio und Fernsehen, in Kraft seit 1. April 2007 ([AS 2007 737](https://fedlex.data.admin.ch/eli/oc/2007/150); [BBl 2003 1569](https://fedlex.data.admin.ch/eli/fga/2003/223)**)**.
-[^39-2]: [SR 784.40](https://fedlex.data.admin.ch/eli/cc/2007/150)
+[^39-2]: [SR 784.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9210)
 [^39-3]: Fassung gemäss Anhang Ziff. 4 des BG vom vom 26. Sept. 2014, in Kraft seit 1. Dez. 2017 ([AS 2016 2131](https://fedlex.data.admin.ch/eli/oc/2016/345), [2017 5929](https://fedlex.data.admin.ch/eli/oc/2017/648); [BBl 2013 4975](https://fedlex.data.admin.ch/eli/fga/2013/944)).
 [^39-4]: Fassung gemäss Anhang Ziff. 4 des BG vom vom 26. Sept. 2014, in Kraft seit 1. Dez. 2017 ([AS 2016 2131](https://fedlex.data.admin.ch/eli/oc/2016/345), [2017 5929](https://fedlex.data.admin.ch/eli/oc/2017/648); [BBl 2013 4975](https://fedlex.data.admin.ch/eli/fga/2013/944)).
 [^39-5]: Eingefügt durch Anhang Ziff. 4 des BG vom vom 26. Sept. 2014, in Kraft seit 1. Dez. 2017 ([AS 2016 2131](https://fedlex.data.admin.ch/eli/oc/2016/345), [2017 5929](https://fedlex.data.admin.ch/eli/oc/2017/648); [BBl 2013 4975](https://fedlex.data.admin.ch/eli/fga/2013/944)).
 [^39-6]: Fassung gemäss Ziff. I des BG vom 22. März 2019, in Kraft seit 1. Jan. 2021 ([AS 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [BBl 2017 6559](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
-[^39-7]: [SR 192.12](https://fedlex.data.admin.ch/eli/cc/2007/860)
+[^39-7]: [SR 192.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5676)
 [^39-8]: Fassung gemäss Ziff. I des BG vom 22. März 2019, in Kraft seit 1. Jan. 2021 ([AS 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [BBl 2017 6559](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
 
 #### Art. 39a
@@ -1220,7 +1220,7 @@ Wer mit fernmeldedienstlichen Aufgaben betraut ist oder betraut war, darf Dritte
 
 [^45a-1]: Eingefügt durch Ziff. I des BG vom 24. März 2006, in Kraft seit 1. April 2007 ([AS 2007 921](https://fedlex.data.admin.ch/eli/oc/2007/165); [BBl 2003 7951](https://fedlex.data.admin.ch/eli/fga/2003/1351)).
 [^45a-2]: Fassung gemäss Ziff. I des BG vom 22. März 2019, in Kraft seit 1. Juli 2021 ([AS 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [BBl 2017 6559](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
-[^45a-3]: [SR 241](https://fedlex.data.admin.ch/eli/cc/1988/223_223_223)
+[^45a-3]: [SR 241](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6122)
 [^45a-4]: Fassung gemäss Ziff. I des BG vom 22. März 2019, in Kraft seit 1. Juli 2021 ([AS 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [BBl 2017 6559](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
 
 #### Art. 45b
@@ -1259,7 +1259,7 @@ Der Bundesrat regelt insbesondere die Identifikation des anrufenden Anschlusses,
 <sup>3</sup> Die Anbieterinnen von Fernmeldediensten unterdrücken die Informationen mit pornografischem Inhalt nach Artikel 197 Absätze 4 und 5 des Strafgesetzbuchs, auf die das Bundesamt für Polizei sie hinweist. Die Anbieterinnen von Fernmeldediensten melden dem Bundesamt für Polizei Verdachtsfälle über Informationen mit pornografischem Inhalt nach Artikel 197 Absätze 4 und 5 des Strafgesetzbuchs, auf die sie im Rahmen ihrer Tätigkeit zufällig gestossen sind oder auf die sie von Dritten schriftlich hingewiesen wurden.
 
 [^46a-1]: Eingefügt durch Ziff. I des BG vom 22. März 2019, in Kraft seit 1. Jan. 2021 ([AS 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [BBl 2017 6559](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
-[^46a-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^46a-2]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 ## 8. Kapitel: Wichtige Landesinteressen
 
@@ -1273,12 +1273,13 @@ Der Bundesrat regelt insbesondere die Identifikation des anrufenden Anschlusses,
 
 <sup>3</sup> Er regelt die Abgeltung dieser Leistungen und trägt dabei dem Eigeninteresse der Anbieterinnen angemessen Rechnung.
 
-<sup>4</sup> Er kann das notwendige Personal zum Dienst verpflichten, wenn eine ausserordentliche Lage dies erfordert.
+<sup>4</sup> …[^47-2]
 
-<sup>5</sup> Vorbehalten bleiben die Bestimmungen des Militärgesetzes vom 3. Februar 1995[^47-2] über die Requisition und über die Verfügungsgewalt des Generals.
+<sup>5</sup> Vorbehalten bleiben die Bestimmungen des Militärgesetzes vom 3. Februar 1995[^47-3] über die Requisition und über die Verfügungsgewalt des Generals.
 
 [^47-1]: Fassung gemäss Ziff. I des BG vom 22. März 2019, in Kraft seit 1. Jan. 2021 ([AS 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [BBl 2017 6559](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
-[^47-2]: [SR 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
+[^47-2]: Aufgehoben durch Anhang Ziff. 3 des BG vom 19. Dez. 2025, mit Wirkung seit 1. Juni 2026 ([AS 2026 164](https://fedlex.data.admin.ch/eli/oc/2026/164); [BBl 2025 960](https://fedlex.data.admin.ch/eli/fga/2025/960)).
+[^47-3]: [SR 510.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7242)
 
 #### Art. 48
 
@@ -1386,7 +1387,7 @@ Wer vorsätzlich oder fahrlässig gegen eine andere Bestimmung des Fernmelderech
 
 Die Artikel 14–18 des Verwaltungsstrafrechtsgesetzes vom 22. März 1974[^54-1] sind anwendbar.
 
-[^54-1]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^54-1]: [SR 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 #### Art. 55
 
@@ -1396,7 +1397,7 @@ Die Artikel 14–18 des Verwaltungsstrafrechtsgesetzes vom 22. März 1974[^54-1]
 
 <sup>2</sup> Das UVEK kann die Verfolgung und Beurteilung von Widerhandlungen sowie den Vollzug der Entscheide dem BAKOM übertragen.
 
-[^55-1]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^55-1]: [SR 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 ## 10. Kapitel: ComCom
 

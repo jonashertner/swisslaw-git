@@ -4,11 +4,11 @@ title: Telecommunications Act of 30 April 1997 (TCA)
 short: TCA
 eli: "https://fedlex.data.admin.ch/eli/cc/1997/2187_2187_2187"
 language: en
-version: 2023-09-01
+version: 2026-06-01
 adopted: 1997-04-30
 in_force: 1997-10-20
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1997/2187_2187_2187/20230901/en/xml/fedlex-data-admin-ch-eli-cc-1997-2187_2187_2187-20230901-en-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/20230901/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1997/2187_2187_2187/20260601/en/xml/fedlex-data-admin-ch-eli-cc-1997-2187_2187_2187-20260601-en-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/20260601/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,15 +19,15 @@ English is not an official language of the Swiss Confederation. This translation
 
 (TCA)
 
-of 30 April 1997 (Status as of 1 September 2023)
+of 30 April 1997 (Last amended on 1 June 2026)
 
 The Federal Assembly of the Swiss Confederation,
 
-based on Article 92 of the Constitution[^ingress-1],[^ingress-2] and having regard to the Federal Council Dispatch of 10 June 1996[^ingress-3],
+based on Article 92 of the Constitution[^ingress-1],[^ingress-2]and having regard to the Federal Council Dispatch of 10 June 1996[^ingress-3],
 
 decrees:
 
-[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: Amended by No I of the FA of 22 March 2019, in force since 1 Jan. 2021 ([AS 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [BBl 2017 6559](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
 [^ingress-3]: [BBl 1996 III 1405](https://fedlex.data.admin.ch/eli/fga/1996/3_1405_1361_1297)
 
@@ -59,7 +59,7 @@ It shall in particular:
 This Act shall regulate the transmission of information by means of telecommunications techniques, including the transmission of radio and television programme services, provided the Federal Act of 24 March 2006[^2-2] on Radio and Television (RTVA) does not prescribe otherwise.
 
 [^2-1]: Amended by Annex No II 2 of the FA of 24 March 2006 on Radio and Television, in force since 1 Apr. 2007 ([AS 2007 737](https://fedlex.data.admin.ch/eli/oc/2007/150); [BBl 2003 1569](https://fedlex.data.admin.ch/eli/fga/2003/223)).
-[^2-2]: [SR 784.40](https://fedlex.data.admin.ch/eli/cc/2007/150)
+[^2-2]: [SR 784.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9210)
 
 #### Art. 3
 
@@ -73,7 +73,7 @@ In this Act:
 - c<sup>bis</sup>.[^3-1] *public telephony service* means a telecommunications service for the transmission of speech in real time by means of one or more addressing resources provided for this purpose in a national or international numbering plan;
 - c<sup>ter</sup>.[^3-2] *value-added service* means a service provided by means of a telecommunications service and charged to the customers by their telecommunications service provider in addition to telecommunications services;
 - d. *telecommunications installations* means apparatus, lines or equipment intended for the transmission of information by means of telecommunications techniques or used for that purpose;
-- d<sup>bis</sup>. and d<sup>ter</sup>.[^3-3] *...*
+- d<sup>bis</sup>. and d<sup>ter</sup>.[^3-3] *…*
 - e.[^3-4] *interconnection* means establishment of access by the connection of the installations and services of two telecommunications service providers, enabling them to operate together logically and in accordance with telecommunications techniques and allowing access to the services of third parties;
 - e<sup>bis</sup>.[^3-5] *leased lines* means provision of transparent transmission capacities via point-to-point connections;
 - e<sup>ter</sup>.[^3-6] *cable ducts* means underground pipes in which lines for transmission of information by telecommunications techniques are conveyed, including the access shafts;
@@ -90,7 +90,7 @@ In this Act:
 [^3-7]: Amended by No I of the FA of 22 March 2019, in force since 1 Jan. 2021 ([AS 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [BBl 2017 6559](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
 [^3-8]: Amended by No I of the FA of 22 March 2019, in force since 1 Jan. 2021 ([AS 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [BBl 2017 6559](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
 [^3-9]: Inserted by Annex No II 2 of the FA of 24 March 2006 on Radio and Television, in force since 1 Apr. 2007 ([AS 2007 737](https://fedlex.data.admin.ch/eli/oc/2007/150); [BBl 2003 1569](https://fedlex.data.admin.ch/eli/fga/2003/223)).
-[^3-10]: [SR 784.40](https://fedlex.data.admin.ch/eli/cc/2007/150)
+[^3-10]: [SR 784.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9210)
 
 ## Chapter 2 Telecommunications Services
 
@@ -162,7 +162,7 @@ Providers of telecommunications services must block the access to telephone and 
 - b. has failed to provide a document that meets the requirements imposed by the Federal Council under Article 23 paragraph 1 of the Federal Act of 18 March 2016[^6a-2] on the Surveillance of Postal and Telecommunications Traffic.
 
 [^6a-1]: Inserted by Annex No II 3 of the FA of 18 March 2016 on the Surveillance of Postal and Telecommunications Traffic, in force since 1 March 2018 ([AS 2018 117](https://fedlex.data.admin.ch/eli/oc/2018/31); [BBl 2013 2683](https://fedlex.data.admin.ch/eli/fga/2013/512)).
-[^6a-2]: [SR 780.1](https://fedlex.data.admin.ch/eli/cc/2018/31)
+[^6a-2]: [SR 780.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9117)
 
 #### Art. 7–10
 
@@ -179,7 +179,7 @@ Providers of telecommunications services must block the access to telephone and 
 Providers of telecommunications services that have a dominant position in the market must provide access to other providers in a transparent and non-discriminatory manner at cost-oriented prices in the following forms to their facilities and services:[^11-2]
 
 - a.[^11-3] fully unbundled access to the local loop in order to use the entire frequency spectrum of the twisted pair metallic line;
-- b. and c.[^11-4] ...
+- b. and c.[^11-4] …
 - d. interconnection;
 - e. leased lines;
 - f. access to cable ducts, provided these have sufficient capacity.
@@ -447,7 +447,7 @@ Services of the universal service must be ensured in such a way that persons wit
 [^16-3]: Amended by No I of the FA of 24 March 2006, in force since 1 Apr. 2007 ([AS 2007 921](https://fedlex.data.admin.ch/eli/oc/2007/165); [BBl 2003 7951](https://fedlex.data.admin.ch/eli/fga/2003/1351)).
 [^16-4]: Amended by No I of the FA of 24 March 2006, in force since 1 Apr. 2007 ([AS 2007 921](https://fedlex.data.admin.ch/eli/oc/2007/165); [BBl 2003 7951](https://fedlex.data.admin.ch/eli/fga/2003/1351)).
 [^16-5]: Repealed by Annex No 5 of the FA on Equality for Disabled Persons of 13 Dec. 2002, with effect from 1 Jan. 2004 ([AS 2003 4487](https://fedlex.data.admin.ch/eli/oc/2003/667); [BBl 2001 1715](https://fedlex.data.admin.ch/eli/fga/2001/434)).
-[^16-6]: The list is no longer up-to-date. See now: para. 3 and Art. 15 of the O of 9 March 2007 on Telecommunications Services ([SR 784.101.1](https://fedlex.data.admin.ch/eli/cc/2007/166)).
+[^16-6]: The list is no longer up-to-date. See now: para. 3 and Art. 15 of the O of 9 March 2007 on Telecommunications Services ([SR 784.101.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9173)).
 [^16-7]: Inserted by Annex No 5 of the FA on Equality for Disabled Persons of 13 Dec. 2002, in force since 1 Jan. 2004 ([AS 2003 4487](https://fedlex.data.admin.ch/eli/oc/2003/667); [BBl 2001 1715](https://fedlex.data.admin.ch/eli/fga/2001/434)).
 [^16-8]: Third sentence amended by No I of the FA of 22 March 2019, in force since 1 Jan. 2021 ([AS 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [BBl 2017 6559](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
 
@@ -622,7 +622,7 @@ Any person wishing to obtain a radiocommunications licence must:
 
 [^23-1]: Amended by No I of the FA of 22 March 2019, in force since 1 Jan. 2021 ([AS 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [BBl 2017 6559](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
 [^23-2]: Amended by Annex No II 2 of the FA of 24 March 2006 on Radio and Television, in force since 1 Apr. 2007 ([AS 2007 737](https://fedlex.data.admin.ch/eli/oc/2007/150); [BBl 2003 1569](https://fedlex.data.admin.ch/eli/fga/2003/223)**)**.
-[^23-3]: [SR 784.40](https://fedlex.data.admin.ch/eli/cc/2007/150)
+[^23-3]: [SR 784.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9210)
 [^23-4]: Second sentence amended by No I of the FA of 22 March 2019, in force since 1 Jan. 2021 ([AS 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [BBl 2017 6559](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
 
 #### Art. 24
@@ -646,7 +646,7 @@ For the first-instance procedure concerning the public tendering process and for
 <sup>4</sup> In the procedure concerning the public tendering process, interim decisions are not in themselves contestable by means of appeal.
 
 [^24-1]: Amended by No I of the FA of 22 March 2019, in force since 1 Jan. 2021 ([AS 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [BBl 2017 6559](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
-[^24-2]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^24-2]: [SR 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 #### Art. 24a
 
@@ -814,7 +814,7 @@ This Act applies to the following internet domains:
 <sup>2</sup> It may provide commercial services to third parties provided this is necessary for managing domain names and the requirements of Article 41*a* paragraphs 2 and 3 of the Financial Budget Act of 7 October 2005[^28c-2] are met.
 
 [^28c-1]: Inserted by No I of the FA of 22 March 2019, in force since 1 Jan. 2021 ([AS 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [BBl 2017 6559](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
-[^28c-2]: [SR 611.0](https://fedlex.data.admin.ch/eli/cc/2006/227)
+[^28c-2]: [SR 611.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7751)
 
 #### Art. 28d
 
@@ -890,7 +890,7 @@ If the Federal Council has laid down basic technical requirements with regard to
 
 [^31-1]: Amended by No I of the FA of 24 March 2006, in force since 1 Apr. 2007 ([AS 2007 921](https://fedlex.data.admin.ch/eli/oc/2007/165); [BBl 2003 7951](https://fedlex.data.admin.ch/eli/fga/2003/1351)).
 [^31-2]: Amended by No I of the FA of 22 March 2019, in force since 1 Jan. 2021 ([AS 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [BBl 2017 6559](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
-[^31-3]: [SR 946.51](https://fedlex.data.admin.ch/eli/cc/1996/1725_1725_1725)
+[^31-3]: [SR 946.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11467)
 [^31-4]: Amended by No I of the FA of 22 March 2019, in force since 1 Jan. 2021 ([AS 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [BBl 2017 6559](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
 [^31-5]: Amended by No I of the FA of 22 March 2019, in force since 1 Jan. 2021 ([AS 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [BBl 2017 6559](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
 [^31-6]: Amended by No I of the FA of 22 March 2019, in force since 1 Jan. 2021 ([AS 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [BBl 2017 6559](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
@@ -1043,7 +1043,7 @@ No charge for utilisation shall be levied if:
 <sup>3</sup> Under the same conditions, OFCOM may require providers of telecommunications services to co-install and joint use of telecommunications installations and other installations, such as cable ducts and transmitter locations.[^36-4]
 
 [^36-1]: Name in accordance with No I of the FA of 22 March 2019, in force since 1 Jan. 2021 ([AS 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [BBl 2017 6559](https://fedlex.data.admin.ch/eli/fga/2017/1933)). This change has been made throughout the text.
-[^36-2]: [SR 711](https://fedlex.data.admin.ch/eli/cc/47/689_701_723)
+[^36-2]: [SR 711](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8369)
 [^36-3]: Amended by No I of the FA of 24 March 2006, in force since 1 Apr. 2007 ([AS 2007 921](https://fedlex.data.admin.ch/eli/oc/2007/165); [BBl 2003 7951](https://fedlex.data.admin.ch/eli/fga/2003/1351)).
 [^36-4]: Inserted by No I of the FA of 24 March 2006, in force since 1 Apr. 2007 ([AS 2007 921](https://fedlex.data.admin.ch/eli/oc/2007/165); [BBl 2003 7951](https://fedlex.data.admin.ch/eli/fga/2003/1351)).
 
@@ -1122,12 +1122,12 @@ The Federal Council may waive payment of the radiocommunications licence fee in 
 - d.[^39-8] legal entities under private law, provided they perform public tasks on behalf of the Confederation, cantons or communes.
 
 [^39-1]: Amended by Annex No II 2 of the FA of 24 March 2006 on Radio and Television, in force since 1 Apr. 2007 ([AS 2007 737](https://fedlex.data.admin.ch/eli/oc/2007/150); [BBl 2003 1569](https://fedlex.data.admin.ch/eli/fga/2003/223)**)**.
-[^39-2]: [SR 784.40](https://fedlex.data.admin.ch/eli/cc/2007/150)
+[^39-2]: [SR 784.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9210)
 [^39-3]: Amended by Annex No 4 of the FA of 26 Sept. 2014, in force since 1 Dec. 2017 ([AS 2016 2131](https://fedlex.data.admin.ch/eli/oc/2016/345), [2017 5929](https://fedlex.data.admin.ch/eli/oc/2017/648); [BBl 2013 4975](https://fedlex.data.admin.ch/eli/fga/2013/944)).
 [^39-4]: Amended by Annex No 4 of the FA of 26 Sept. 2014, in force since 1 Dec. 2017 ([AS 2016 2131](https://fedlex.data.admin.ch/eli/oc/2016/345), [2017 5929](https://fedlex.data.admin.ch/eli/oc/2017/648); [BBl 2013 4975](https://fedlex.data.admin.ch/eli/fga/2013/944)).
 [^39-5]: Inserted by Annex No 4 of the FA of 26 Sept. 2014, in force since 1 Dec. 2017 ([AS 2016 2131](https://fedlex.data.admin.ch/eli/oc/2016/345), [2017 5929](https://fedlex.data.admin.ch/eli/oc/2017/648); [BBl 2013 4975](https://fedlex.data.admin.ch/eli/fga/2013/944)).
 [^39-6]: Amended by No I of the FA of 22 March 2019, in force since 1 Jan. 2021 ([AS 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [BBl 2017 6559](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
-[^39-7]: [SR 192.12](https://fedlex.data.admin.ch/eli/cc/2007/860)
+[^39-7]: [SR 192.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5676)
 [^39-8]: Amended by No I of the FA of 22 March 2019, in force since 1 Jan. 2021 ([AS 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [BBl 2017 6559](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
 
 #### Art. 39a
@@ -1220,7 +1220,7 @@ No person who is or has been responsible for providing a telecommunications serv
 
 [^45a-1]: Inserted by No I of the FA of 24 March 2006, in force since 1 Apr. 2007 ([AS 2007 921](https://fedlex.data.admin.ch/eli/oc/2007/165); [BBl 2003 7951](https://fedlex.data.admin.ch/eli/fga/2003/1351)).
 [^45a-2]: Amended by No I of the FA of 22 March 2019, in force since 1 July 2021 ([AS 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [BBl 2017 6559](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
-[^45a-3]: [SR 241](https://fedlex.data.admin.ch/eli/cc/1988/223_223_223)
+[^45a-3]: [SR 241](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6122)
 [^45a-4]: Amended by No I of the FA of 22 March 2019, in force since 1 July 2021 ([AS 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [BBl 2017 6559](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
 
 #### Art. 45b
@@ -1259,7 +1259,7 @@ The Federal Council shall regulate, in particular, the identification of the cal
 <sup>3</sup> Telecommunications service providers shall block information with pornographic content in accordance with Article 197 paragraphs 4 and 5 of the Criminal Code that is brought to their attention by the Federal Office of Police. Telecommunications service providers shall report to the Federal Office of Police suspected cases of information with pornographic content in accordance with Article 197 paragraphs 4 and 5 of the Criminal Code which they have come across by chance in the course of their activities or which have been brought to their attention in writing by third parties.
 
 [^46a-1]: Inserted by No I of the FA of 22 March 2019, in force since 1 Jan. 2021 ([AS 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [BBl 2017 6559](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
-[^46a-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^46a-2]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 ## Chapter 8 Vital National Interests
 
@@ -1273,12 +1273,13 @@ The Federal Council shall regulate, in particular, the identification of the cal
 
 <sup>3</sup> It shall regulate the compensation for these services, having due regard to the interests of the provider.
 
-<sup>4</sup> It may require the necessary personnel to serve if a special situation so requires.
+<sup>4</sup> …[^47-2]
 
-<sup>5</sup> The provisions on requisition and the General’s powers under Armed Forces Act of 3 February 1995[^47-2] are reserved.
+<sup>5</sup> The provisions on requisition and the General’s powers under Armed Forces Act of 3 February 1995[^47-3] are reserved.
 
 [^47-1]: Amended by No I of the FA of 22 March 2019, in force since 1 Jan. 2021 ([AS 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [BBl 2017 6559](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
-[^47-2]: [SR 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
+[^47-2]: Repealed by Annex No 3 of the FA of 19 Dec. 2025, with effect from 1 July 2026 ([AS 2026 164](https://fedlex.data.admin.ch/eli/oc/2026/164); [BBl 2025 960](https://fedlex.data.admin.ch/eli/fga/2025/960)).
+[^47-3]: [SR 510.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7242)
 
 #### Art. 48
 
@@ -1349,7 +1350,7 @@ Any person who by means of a telecommunications installation receives private in
 
 Any person who:
 
-- a.[^52-2] ...
+- a.[^52-2] …
 - b.[^52-3]
 
   uses the frequency spectrum:
@@ -1386,7 +1387,7 @@ Any person who, intentionally or through negligence, infringes any other provisi
 
 Articles 14 to 18 of the Federal Act of 22 March 1974[^54-1] on Administrative Criminal Law apply.
 
-[^54-1]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^54-1]: [SR 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 #### Art. 55
 
@@ -1396,7 +1397,7 @@ Articles 14 to 18 of the Federal Act of 22 March 1974[^54-1] on Administrative C
 
 <sup>2</sup> DETEC may delegate to OFCOM the tasks of prosecution and adjudication of offences, as well as the enforcement of decisions.
 
-[^55-1]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^55-1]: [SR 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 ## Chapter 10 ComCom
 

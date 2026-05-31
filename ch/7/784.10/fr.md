@@ -4,11 +4,11 @@ title: Loi du 30 avril 1997 sur les télécommunications (LTC)
 short: LTC
 eli: "https://fedlex.data.admin.ch/eli/cc/1997/2187_2187_2187"
 language: fr
-version: 2023-09-01
+version: 2026-06-01
 adopted: 1997-04-30
 in_force: 1997-10-20
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1997/2187_2187_2187/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-1997-2187_2187_2187-20230901-fr-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/20230901/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1997/2187_2187_2187/20260601/fr/xml/fedlex-data-admin-ch-eli-cc-1997-2187_2187_2187-20260601-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/20260601/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/20230901/fr"
 
 (LTC)
 
-du 30 avril 1997 (État le 1<sup>er</sup> septembre 2023)
+du 30 avril 1997 (État le 1<sup>er</sup> juin 2026)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -27,7 +27,7 @@ vu le message du Conseil fédéral du 10 juin 1996[^ingress-3],
 
 arrête:
 
-[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: Nouvelle teneur selon le ch. I de la L du 22 mars 2019, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 6185](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
 [^ingress-3]: [FF 1996 III 1361](https://fedlex.data.admin.ch/eli/fga/1996/3_1405_1361_1297)
 
@@ -59,7 +59,7 @@ Elle doit en particulier:
 La présente loi règle la transmission d’informations au moyen de techniques de télécommunication, y compris la transmission de programmes de radio et de télévision, pour autant que la loi fédérale du 24 mars 2006 sur la radio et la télévision (LRTV)[^2-2] n’en dispose pas autrement.
 
 [^2-1]: Nouvelle teneur selon l’annexe ch. II 2 de la LF du 24 mars 2006 sur la radio et la télévision, en vigueur depuis le 1<sup>er</sup> avr. 2007 ([RO 2007 737](https://fedlex.data.admin.ch/eli/oc/2007/150); [FF 2003 1425](https://fedlex.data.admin.ch/eli/fga/2003/223)).
-[^2-2]: [RS 784.40](https://fedlex.data.admin.ch/eli/cc/2007/150)
+[^2-2]: [RS 784.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9210)
 
 #### Art. 3
 
@@ -90,7 +90,7 @@ Au sens de la présente loi, on entend par:
 [^3-7]: Nouvelle teneur selon le ch. I de la L du 22 mars 2019, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 6185](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
 [^3-8]: Nouvelle teneur selon le ch. I de la L du 22 mars 2019, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 6185](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
 [^3-9]: Introduite par l’annexe ch. II 2 de la LF du 24 mars 2006 sur la radio et la télévision, en vigueur depuis le 1<sup>er</sup> avr. 2007 ([RO 2007 737](https://fedlex.data.admin.ch/eli/oc/2007/150); [FF 2003 1425](https://fedlex.data.admin.ch/eli/fga/2003/223)).
-[^3-10]: [RS 784.40](https://fedlex.data.admin.ch/eli/cc/2007/150)
+[^3-10]: [RS 784.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9210)
 
 ## Chapitre 2 Services de télécommunication
 
@@ -162,7 +162,7 @@ Les fournisseurs de services de télécommunication bloquent l’accès à la t�
 - b. n’ont pas présenté un document conforme aux exigences fixées par le Conseil fédéral selon l’art. 23, al. 1, de la loi fédérale du 18 mars 2016 sur la surveillance de la correspondance par poste et télécommunication[^6a-2].
 
 [^6a-1]: Introduit par l’annexe ch. II 3 de la LF du 18 mars 2016 sur la surveillance de la correspondance par poste et télécommunication, en vigueur depuis le 1<sup>er</sup> mars 2018 ([RO 2018 117](https://fedlex.data.admin.ch/eli/oc/2018/31); [FF 2013 2379](https://fedlex.data.admin.ch/eli/fga/2013/512)).
-[^6a-2]: [RS 780.1](https://fedlex.data.admin.ch/eli/cc/2018/31)
+[^6a-2]: [RS 780.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9117)
 
 #### Art. 7 à 10
 
@@ -448,7 +448,7 @@ Les services relevant du service universel doivent être assurés dans tout le p
 [^16-4]: Nouvelle teneur selon le ch. I de la L du 24 mars 2006, en vigueur depuis le 1<sup>er</sup> avr. 2007 ([RO 2007 921](https://fedlex.data.admin.ch/eli/oc/2007/165); [FF 2003 7245](https://fedlex.data.admin.ch/eli/fga/2003/1351)).
 [^16-5]: Nouvelle teneur selon le ch. I de la L du 24 mars 2006, en vigueur depuis le 1<sup>er</sup> avr. 2007 ([RO 2007 921](https://fedlex.data.admin.ch/eli/oc/2007/165); [FF 2003 7245](https://fedlex.data.admin.ch/eli/fga/2003/1351)).
 [^16-6]: Abrogée par l’annexe ch. 5 de la L du 13 déc. 2002 sur l’égalité pour les handicapés, avec effet au 1<sup>er</sup> janv. 2004 ([RO 2003 4487](https://fedlex.data.admin.ch/eli/oc/2003/667); [FF 2001 1605](https://fedlex.data.admin.ch/eli/fga/2001/434)).
-[^16-7]: Cette liste n’est plus à jour. Voir actuellement l’al. 3 ainsi que l’art. 15 de l’O du 9 mars 2007 sur les services de télécommunication ([RS 784.101.1](https://fedlex.data.admin.ch/eli/cc/2007/166)).
+[^16-7]: Cette liste n’est plus à jour. Voir actuellement l’al. 3 ainsi que l’art. 15 de l’O du 9 mars 2007 sur les services de télécommunication ([RS 784.101.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9173)).
 [^16-8]: Introduit par l’annexe ch. 5 de la L du 13 déc. 2002 sur l’égalité pour les handicapés, en vigueur depuis le 1<sup>er</sup> janv. 2004 ([RO 2003 4487](https://fedlex.data.admin.ch/eli/oc/2003/667); [FF 2001 1605](https://fedlex.data.admin.ch/eli/fga/2001/434)).
 [^16-9]: Nouvelle teneur de la phrase selon le ch. I de la L du 22 mars 2019, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 6185](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
 
@@ -623,7 +623,7 @@ Quiconque veut obtenir une concession de radiocommunication doit:
 
 [^23-1]: Nouvelle teneur selon le ch. I de la L du 22 mars 2019, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 6185](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
 [^23-2]: Nouvelle teneur selon l’annexe ch. II 2 de la LF du 24 mars 2006 sur la radio et la télévision, en vigueur depuis le 1<sup>er</sup> avr. 2007 ([RO 2007 737](https://fedlex.data.admin.ch/eli/oc/2007/150); [FF 2003 1425](https://fedlex.data.admin.ch/eli/fga/2003/223)).
-[^23-3]: [RS 784.40](https://fedlex.data.admin.ch/eli/cc/2007/150)
+[^23-3]: [RS 784.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9210)
 [^23-4]: Nouvelle teneur selon le ch. I de la L du 22 mars 2019, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 6185](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
 [^23-5]: Nouvelle teneur de la phrase selon le ch. I de la L du 22 mars 2019, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 6185](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
 
@@ -648,7 +648,7 @@ Pour la procédure de première instance concernant l’appel d’offres public 
 <sup>4</sup> Les décisions incidentes rendues dans la procédure concernant l’appel d’offres public ne sont pas séparément susceptibles de recours.
 
 [^24-1]: Nouvelle teneur selon le ch. I de la L du 22 mars 2019, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 6185](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
-[^24-2]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^24-2]: [RS 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 #### Art. 24a
 
@@ -815,7 +815,7 @@ Relèvent de la présente loi les domaines Internet suivants:
 <sup>2</sup> Il peut fournir des prestations commerciales à des tiers pour autant que cela soit nécessaire pour la gestion des noms de domaine et que les conditions de l’art. 41*a*, al. 2 et 3, de la loi du 7 octobre 2005 sur les finances[^28c-2] soient remplies.
 
 [^28c-1]: Introduit par le ch. I de la L du 22 mars 2019, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 6185](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
-[^28c-2]: [RS 611.0](https://fedlex.data.admin.ch/eli/cc/2006/227)
+[^28c-2]: [RS 611.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7751)
 
 #### Art. 28d
 
@@ -891,7 +891,7 @@ Lorsque le Conseil fédéral a fixé les exigences essentielles en matière de t
 
 [^31-1]: Nouvelle teneur selon le ch. I de la L du 24 mars 2006, en vigueur depuis le 1<sup>er</sup> avr. 2007 ([RO 2007 921](https://fedlex.data.admin.ch/eli/oc/2007/165); [FF 2003 7245](https://fedlex.data.admin.ch/eli/fga/2003/1351)).
 [^31-2]: Nouvelle teneur selon le ch. I de la L du 22 mars 2019, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 6185](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
-[^31-3]: [RS 946.51](https://fedlex.data.admin.ch/eli/cc/1996/1725_1725_1725)
+[^31-3]: [RS 946.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11467)
 [^31-4]: Nouvelle teneur selon le ch. I de la L du 22 mars 2019, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 6185](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
 [^31-5]: Nouvelle teneur selon le ch. I de la L du 22 mars 2019, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 6185](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
 [^31-6]: Introduit par le ch. I de la L du 22 mars 2019, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 6185](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
@@ -1044,7 +1044,7 @@ Aucune taxe d’utilisation ne peut être perçue si:
 <sup>3</sup> Aux mêmes conditions, l’OFCOM peut contraindre des fournisseurs de services de télécommunication à mettre en place et à utiliser conjointement des installations de télécommunication ou d’autres installations telles que des canalisations de câbles ou des emplacements d’émetteurs.[^36-4]
 
 [^36-1]: Nouvelle expression selon le ch. I de la L du 22 mars 2019, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 6185](https://fedlex.data.admin.ch/eli/fga/2017/1933)). Il a été tenu compte de cette mod. dans tout le texte.
-[^36-2]: [RS 711](https://fedlex.data.admin.ch/eli/cc/47/689_701_723)
+[^36-2]: [RS 711](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8369)
 [^36-3]: Nouvelle teneur selon le ch. I de la L du 24 mars 2006, en vigueur depuis le 1<sup>er</sup> avr. 2007 ([RO 2007 921](https://fedlex.data.admin.ch/eli/oc/2007/165); [FF 2003 7245](https://fedlex.data.admin.ch/eli/fga/2003/1351)).
 [^36-4]: Introduit par le ch. I de la L du 24 mars 2006, en vigueur depuis le 1<sup>er</sup> avr. 2007 ([RO 2007 921](https://fedlex.data.admin.ch/eli/oc/2007/165); [FF 2003 7245](https://fedlex.data.admin.ch/eli/fga/2003/1351)).
 
@@ -1123,12 +1123,12 @@ Le Conseil fédéral peut exonérer de la redevance de concession de radiocommun
 - d.[^39-8] les personnes morales de droit privé, lorsqu’elles assument des tâches publiques relevant de la Confédération, d’un canton ou d’une commune.
 
 [^39-1]: Nouvelle teneur selon l’annexe ch. II 2 de la LF du 24 mars 2006 sur la radio et la télévision, en vigueur depuis le 1<sup>er</sup> avr. 2007 ([RO 2007 737](https://fedlex.data.admin.ch/eli/oc/2007/150); [FF 2003 1425](https://fedlex.data.admin.ch/eli/fga/2003/223)).
-[^39-2]: [RS 784.40](https://fedlex.data.admin.ch/eli/cc/2007/150)
+[^39-2]: [RS 784.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9210)
 [^39-3]: Nouvelle teneur selon l’annexe ch. 4 de LF du 26 sept. 2014, en vigueur depuis le 1<sup>er</sup> déc. 2017 ([RO 2016 2131](https://fedlex.data.admin.ch/eli/oc/2016/345), [2017 5929](https://fedlex.data.admin.ch/eli/oc/2017/648); [FF 2013 4425](https://fedlex.data.admin.ch/eli/fga/2013/944)).
 [^39-4]: Nouvelle teneur selon l’annexe ch. 4 de LF du 26 sept. 2014, en vigueur depuis le 1<sup>er</sup> déc. 2017 ([RO 2016 2131](https://fedlex.data.admin.ch/eli/oc/2016/345), [2017 5929](https://fedlex.data.admin.ch/eli/oc/2017/648); [FF 2013 4425](https://fedlex.data.admin.ch/eli/fga/2013/944)).
 [^39-5]: Introduit par l’annexe ch. 4 de LF du 26 sept. 2014, en vigueur depuis le 1<sup>er</sup> déc. 2017 ([RO 2016 2131](https://fedlex.data.admin.ch/eli/oc/2016/345), [2017 5929](https://fedlex.data.admin.ch/eli/oc/2017/648); [FF 2013 4425](https://fedlex.data.admin.ch/eli/fga/2013/944)).
 [^39-6]: Nouvelle teneur selon le ch. I de la L du 22 mars 2019, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 6185](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
-[^39-7]: [RS 192.12](https://fedlex.data.admin.ch/eli/cc/2007/860)
+[^39-7]: [RS 192.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5676)
 [^39-8]: Nouvelle teneur selon le ch. I de la L du 22 mars 2019, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 6185](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
 
 #### Art. 39a
@@ -1221,7 +1221,7 @@ Il est interdit à toute personne qui a été ou qui est chargée d’assurer un
 
 [^45a-1]: Introduit par le ch. I de la L du 24 mars 2006, en vigueur depuis le 1<sup>er</sup> avr. 2007 ([RO 2007 921](https://fedlex.data.admin.ch/eli/oc/2007/165); [FF 2003 7245](https://fedlex.data.admin.ch/eli/fga/2003/1351)).
 [^45a-2]: Nouvelle teneur selon le ch. I de la L du 22 mars 2019, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 6185](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
-[^45a-3]: [RS 241](https://fedlex.data.admin.ch/eli/cc/1988/223_223_223)
+[^45a-3]: [RS 241](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6122)
 [^45a-4]: Nouvelle teneur selon le ch. I de la L du 22 mars 2019, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 6185](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
 
 #### Art. 45b
@@ -1260,7 +1260,7 @@ Le Conseil fédéral réglemente en particulier l’identification de la ligne a
 <sup>3</sup> Les fournisseurs de services de télécommunication suppriment les informations à caractère pornographique au sens de l’art. 197, al. 4 et 5, du code pénal qui leur sont signalées par l’Office fédéral de la police. Les fournisseurs de services de télécommunication signalent à l’Office fédéral de la police les cas suspects d’informations à caractère pornographique au sens de l’art. 197, al. 4 et 5, du code pénal qu’ils découvrent fortuitement dans le cadre de leurs activités ou que des tiers ont portés à leur connaissance par écrit.
 
 [^46a-1]: Introduit par le ch. I de la L du 22 mars 2019, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 6185](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
-[^46a-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^46a-2]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 ## Chapitre 8 Intérêts nationaux importants
 
@@ -1274,12 +1274,13 @@ Le Conseil fédéral réglemente en particulier l’identification de la ligne a
 
 <sup>3</sup> Il réglemente l’indemnisation de ces prestations en tenant équitablement compte de l’intérêt qui en résulte pour le fournisseur.
 
-<sup>4</sup> Il peut réquisitionner le personnel nécessaire si une situation extraordinaire l’exige.
+<sup>4</sup> …[^47-2]
 
-<sup>5</sup> Les dispositions de la loi du 3 février 1995 sur l’armée[^47-2] concernant la réquisition et le pouvoir de disposition du général sont réservées.
+<sup>5</sup> Les dispositions de la loi du 3 février 1995 sur l’armée[^47-3] concernant la réquisition et le pouvoir de disposition du général sont réservées.
 
 [^47-1]: Nouvelle teneur selon le ch. I de la L du 22 mars 2019, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [FF 2017 6185](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
-[^47-2]: [RS 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
+[^47-2]: Abrogé par l’annexe ch. 3 de la LF du 19 déc. 2025, avec effet au 1<sup>er</sup> juin 2026 ([RO 2026 164](https://fedlex.data.admin.ch/eli/oc/2026/164); [FF 2025 960](https://fedlex.data.admin.ch/eli/fga/2025/960)).
+[^47-3]: [RS 510.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7242)
 
 #### Art. 48
 
@@ -1386,7 +1387,7 @@ Quiconque, intentionnellement ou par négligence, aura enfreint une autre dispos
 
 Les art. 14 à 18 de la loi fédérale du 22 mars 1974 sur le droit pénal administratif[^54-1] sont applicables.
 
-[^54-1]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^54-1]: [RS 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 #### Art. 55
 
@@ -1396,7 +1397,7 @@ Les art. 14 à 18 de la loi fédérale du 22 mars 1974 sur le droit pénal admin
 
 <sup>2</sup> Le DETEC peut déléguer à l’OFCOM la poursuite et le jugement des infractions ainsi que l’exécution des décisions.
 
-[^55-1]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^55-1]: [RS 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 ## Chapitre 10 Commission de la communication
 
