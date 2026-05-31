@@ -4,13 +4,12 @@ number: "175.14"
 title: Verordnung über den elektronischen Verkehr im Verwaltungsverfahren
 short: VEVV
 language: de
-version: 2022-01-01
-valid_until: 2026-05-31
-version_adopted: 2021-12-14
+version: 2026-06-01
+version_adopted: 2026-04-21
 adopted: 2021-12-14
 in_force: 2022-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/175.14"
-pdf: "https://bl.clex.ch/api/de/versions/3170/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/4458/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://bl.clex.ch/api/de/versions/3170/pdf_file"
 
 (VEVV)
 
-Vom 14.12.2021 (Stand 01.01.2022)
+Vom 14.12.2021 (Stand 01.06.2026)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -127,11 +126,16 @@ beschliesst:
 <sup>2</sup> Liegt die Verfügung zur Abholung bereit, wird eine elektronische Abholungseinladung an die elektronische Zustelladresse der Adressatin oder des Adressaten versandt. Die Abholungseinladung enthält folgende Angaben:
 
 - a. das Datum der Bereitstellung der Verfügung, und
-- b. die Internetadresse, wo die Verfügung zur Abholung bereit liegt, sowie
-- c. das Datum des letzten Tags der 7-tägigen Frist für die Abholung der Verfügung.
+- b. die Internetadresse, wo die Verfügung zur Abholung bereit liegt.
+- c. …
 
 <sup>3</sup> Die Zustellung gilt im Zeitpunkt des Herunterladens von der Zustellplattform als erfolgt.
 
-<sup>4</sup> Wird die Verfügung nicht innert der Frist gemäss Abs. 2 Bst. c heruntergeladen, gilt der 7. Tag nach der Bereitstellung als Zeitpunkt der Zustellung.
+<sup>3<sup>bis</sup></sup> Die Zustellung mit einer Plattform nach dem Bundesgesetz über die Plattformen für die elektronische Kommunikation in der Justiz (BEKJ) vom 20. Dezember 2024[^8-1] erfolgt mit dem erstmaligen Abruf.
+
+<sup>4</sup> Wird die Verfügung nicht innert 7 Tagen nach der Bereitstellung heruntergeladen oder bei einer Plattform nach BEKJ[^8-2] nicht innert 7 Tagen nach der Übermittlung abgerufen, gilt der 7. Tag nach der Bereitstellung bzw. Übermittlung als Zeitpunkt der Zustellung.
+
+[^8-1]: [SR 172.023](https://db.clex.ch/link/Bund/172.023/de)
+[^8-2]: [SR 172.023](https://db.clex.ch/link/Bund/172.023/de)
 
 GS 2021.119
