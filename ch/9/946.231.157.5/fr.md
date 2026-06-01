@@ -3,18 +3,18 @@ sr: "946.231.157.5"
 title: "Ordonnance du 17 octobre 2018 instituant des mesures à l'encontre du Myanmar"
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/560"
 language: fr
-version: 2025-09-15
+version: 2026-06-02
 adopted: 2018-10-17
 in_force: 2018-10-17
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/560/20250915/fr/xml/fedlex-data-admin-ch-eli-cc-2018-560-20250915-fr-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/560/20250915/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/560/20260602/fr/xml/fedlex-data-admin-ch-eli-cc-2018-560-20260602-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/560/20260602/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance instituant des mesures à l’encontre du Myanmar
 
-du 17 octobre 2018 (État le 15 septembre 2025)
+du 17 octobre 2018 (État le 2 juin 2026)
 
 Le Conseil fédéral suisse,
 
@@ -79,9 +79,12 @@ Pour autant que les montants crédités soient également bloqués, l’interdic
 Le Secrétariat d’État à l’économie (SECO) peut, exceptionnellement, autoriser des versements prélevés sur des comptes bloqués, des transferts de biens en capital gelés et le déblocage de ressources économiques gelées pour:
 
 - a. honorer des contrats existants;
-- b. honorer des créances en application:
-- 1\. d’une décision arbitrale existante, ou
-- 2\. d’une décision administrative ou judiciaire rendue ou exécutoire en Suisse, dans un État membre de l’Espace économique européen ou au Royaume-Uni.[^2-4]
+- b.
+
+  honorer des créances en application:
+
+  - 1\. d’une décision arbitrale existante, ou
+  - 2\. d’une décision administrative ou judiciaire rendue ou exécutoire en Suisse, dans un État membre de l’Espace économique européen ou au Royaume-Uni.[^2-4]
 
 <sup>7</sup>
 
@@ -274,8 +277,8 @@ Annexe 1[^t-1]
 
 [^annex1-lvlu1-1]
 
-[^t-1]: Mise à jour par le ch. I des O du DEFR du 17 janv. 2019 ([RO 2019 227](https://fedlex.data.admin.ch/eli/oc/2019/36)), du 20 mai 2019 ([RO 2019 1569](https://fedlex.data.admin.ch/eli/oc/2019/295)), du 6 mai 2020 ([RO 2020 1497](https://fedlex.data.admin.ch/eli/oc/2020/297)), le ch. I de l’O du 31 mars 2021 ([RO 2021 185](https://fedlex.data.admin.ch/eli/oc/2021/185)), le ch. I des O du DEFR du 29 avr. 2021 ([RO 2021 253](https://fedlex.data.admin.ch/eli/oc/2021/253)), du 10 mai 2021 ([RO 2021 268](https://fedlex.data.admin.ch/eli/oc/2021/268)), du 30 juin 2021 ([RO 2021 412](https://fedlex.data.admin.ch/eli/oc/2021/412)), du 4 mars 2022 ([RO 2022 152](https://fedlex.data.admin.ch/eli/oc/2022/152)), du 21 nov. 2022 ([RO 2022 697](https://fedlex.data.admin.ch/eli/oc/2022/697)), du 1<sup>er</sup> mars 2023 ([RO 2023 99](https://fedlex.data.admin.ch/eli/oc/2023/99)), du 9 mai 2023 ([RO 2023 225](https://fedlex.data.admin.ch/eli/oc/2023/225)), du 2 août 2023 ([RO 2023 439](https://fedlex.data.admin.ch/eli/oc/2023/439)), du 27 nov. 2023 ([RO 2023 692](https://fedlex.data.admin.ch/eli/oc/2023/692)), du 20 déc. 2023 ([RO 2023 818](https://fedlex.data.admin.ch/eli/oc/2023/818)), du 13 mai 2024 ([RO 2024 213](https://fedlex.data.admin.ch/eli/oc/2024/213)), du 11 nov. 2024 ([RO 2024 629](https://fedlex.data.admin.ch/eli/oc/2024/629)), du 10 mars 2025 ([RO 2025 160](https://fedlex.data.admin.ch/eli/oc/2025/160)) et du 12 mai 2025, en vigueur depuis le 14 mai 2025 ([RO 2025 299](https://fedlex.data.admin.ch/eli/oc/2025/299)).
-[^annex1-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement sous forme de renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2025/299](https://fedlex.data.admin.ch/eli/oc/2025/299) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
+[^t-1]: Mise à jour par le ch. I des O du DEFR du 17 janv. 2019 ([RO 2019 227](https://fedlex.data.admin.ch/eli/oc/2019/36)), du 20 mai 2019 ([RO 2019 1569](https://fedlex.data.admin.ch/eli/oc/2019/295)), du 6 mai 2020 ([RO 2020 1497](https://fedlex.data.admin.ch/eli/oc/2020/297)), le ch. I de l’O du 31 mars 2021 ([RO 2021 185](https://fedlex.data.admin.ch/eli/oc/2021/185)), le ch. I des O du DEFR du 29 avr. 2021 ([RO 2021 253](https://fedlex.data.admin.ch/eli/oc/2021/253)), du 10 mai 2021 ([RO 2021 268](https://fedlex.data.admin.ch/eli/oc/2021/268)), du 30 juin 2021 ([RO 2021 412](https://fedlex.data.admin.ch/eli/oc/2021/412)), du 4 mars 2022 ([RO 2022 152](https://fedlex.data.admin.ch/eli/oc/2022/152)), du 21 nov. 2022 ([RO 2022 697](https://fedlex.data.admin.ch/eli/oc/2022/697)), du 1<sup>er</sup> mars 2023 ([RO 2023 99](https://fedlex.data.admin.ch/eli/oc/2023/99)), du 9 mai 2023 ([RO 2023 225](https://fedlex.data.admin.ch/eli/oc/2023/225)), du 2 août 2023 ([RO 2023 439](https://fedlex.data.admin.ch/eli/oc/2023/439)), du 27 nov. 2023 ([RO 2023 692](https://fedlex.data.admin.ch/eli/oc/2023/692)), du 20 déc. 2023 ([RO 2023 818](https://fedlex.data.admin.ch/eli/oc/2023/818)), du 13 mai 2024 ([RO 2024 213](https://fedlex.data.admin.ch/eli/oc/2024/213)), du 11 nov. 2024 ([RO 2024 629](https://fedlex.data.admin.ch/eli/oc/2024/629)), du 10 mars 2025 ([RO 2025 160](https://fedlex.data.admin.ch/eli/oc/2025/160)), du 12 mai 2025 ([RO 2025 299](https://fedlex.data.admin.ch/eli/oc/2025/299)) et du 1<sup>er</sup> juin 2026, en vigueur depuis le 2 juin 2026 à 23 heures ([RO 2026 272](https://fedlex.data.admin.ch/eli/oc/2026/272)).
+[^annex1-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement sous forme de renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2026/272](https://fedlex.data.admin.ch/eli/oc/2026/272) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
 
 Annexe 2
 
