@@ -3,28 +3,28 @@ sr: "0.812.121"
 title: Convention unique sur les stupéfiants de 1961 telle que modifiée par le Protocole du 25 mars 1972 portant amendement de la Convention unique sur les stupéfiants de 1961 (avec tableaux)
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/48"
 language: fr
-version: 2020-05-27
+version: 2026-06-02
 adopted: 1972-03-25
 in_force: 1996-05-22
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/48/20200527/fr/xml/fedlex-data-admin-ch-eli-cc-2005-48-20200527-fr-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/48/20200527/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/48/20260602/fr/xml/fedlex-data-admin-ch-eli-cc-2005-48-20260602-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/48/20260602/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Convention unique sur les stupéfiants de 1961 telle que modifiée par le Protocole du 25 mars 1972 portant amendement de la Convention unique sur les stupéfiants de 1961
 
-RO **2005** 371; FF **1968** I 784, **1994** III 1949
+RO **2005** 371; FF **1968** I 784; **1994** III 1949
 
 Texte original
 
 Conclue à New York le 30 mars 1961 Approuvée par l’Assemblée fédérale le 5 décembre 1968[^t-1] Instrument de ratification déposé par la Suisse le 23 janvier 1970 Entrée en vigueur pour la Suisse le 22 février 1970[^t-2] Amendée par le Protocole du 25 mars 1972[^t-3] Approuvé par l’Assemblée fédérale le 21 mars 1995[^t-4] Instrument de ratification déposé par la Suisse le 22 avril 1996 Entré en vigueur pour la Suisse le 22 mai 1996
 
-(État le 27 mai 2020)
+(État le 2 juin 2026)
 
 [^t-1]: [RO 1970 802](https://fedlex.data.admin.ch/eli/oc/1970/801_802_801)
-[^t-2]: [RS 0.812.121.0](https://fedlex.data.admin.ch/eli/cc/1970/802_803_802)
-[^t-3]: [RS 0.812.121.01](https://fedlex.data.admin.ch/eli/cc/1996/1941_1941_1941)
+[^t-2]: [RS 0.812.121.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3437)
+[^t-3]: [RS 0.812.121.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3438)
 [^t-4]: [RO 1996 1940](https://fedlex.data.admin.ch/eli/oc/1996/1940_1940_1940)
 
 Préambule
@@ -293,7 +293,7 @@ pays ou territoire, ou, à la fois, l’importation et l’exportation, soit pou
 
 <sup>6.</sup> Les décisions de l’Organe prises en vertu du présent article doivent être adoptées à la majorité de deux tiers du nombre total des membres de l’Organe.
 
-[^14-1]: [RS 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
+[^14-1]: [RS 0.120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/41)
 
 #### Art. 14<sup>bis</sup>
 
@@ -662,7 +662,7 @@ Compte dûment tenu de leurs régimes constitutionnel, juridique et administrati
 - f) Fourniront à l’Organe et à la Commission, si elles le jugent approprié, par l’intermédiaire du Secrétaire général, outre les renseignements requis en vertu de l’art. 18, des renseignements ayant trait aux activités illicites constatées à l’intérieur de leurs frontières et relatives notamment à la culture, à la production, à la fabrication, à l’usage et au trafic illicites des stupéfiants, et
 - g) Fourniront les renseignements visés au paragraphe précédent, dans toute la mesure du possible de la manière et aux dates que l’Organe fixera, de son côté, à la demande d’une Partie, l’Organe pourra l’aider à fournir ces renseignements et soutenir ses efforts en vue de réduire les activités illicites en matière de stupéfiants à l’intérieur des frontières de celle‑ci.
 
-[^35-1]: Pour l’entraide judiciaire entre la Suisse et les Etats‑Unis d’Amérique, voir l’art. 36 de la LF du 3 oct. 1975 relative au traité conclu avec les Etats‑Unis d’Amérique sur l’entraide judiciaire en matière pénale ([RS 351.93](https://fedlex.data.admin.ch/eli/cc/1977/17_17_17)).
+[^35-1]: Pour l’entraide judiciaire entre la Suisse et les Etats‑Unis d’Amérique, voir l’art. 36 de la LF du 3 oct. 1975 relative au traité conclu avec les Etats‑Unis d’Amérique sur l’entraide judiciaire en matière pénale ([RS 351.93](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6292)).
 
 #### Art. 36
 
@@ -725,7 +725,7 @@ Nonobstant toute disposition de la présente Convention, aucune Partie ne sera, 
 
 <sup>3.</sup> La présente Convention sera ouverte à l’adhésion des États visés au par. 1 après le 1<sup>er</sup> août 1961. Les instruments d’adhésion seront déposés auprès du Secrétaire général.
 
-[^40-1]: [RS 0.193.501](https://fedlex.data.admin.ch/eli/cc/1948/1048_1037_1010)
+[^40-1]: [RS 0.193.501](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/809)
 
 #### Art. 41
 
@@ -771,15 +771,15 @@ Dès l’entrée en vigueur de la présente Convention, ses dispositions abroger
 
 <sup>2.</sup> Dès l’entrée en vigueur de la présente Convention, l’art. 9 de la Convention pour la répression du trafic illicite des drogues nuisibles, signée à Genève, le 26 juin 1936[^44-9], sera, entre les Parties à ladite Convention, qui sont aussi Parties à la présente Convention, abrogé et remplacé par l’al. b du par. 2 de l’art. 36 de la présente Convention; toutefois, une telle Partie pourra, après en avoir informé le Secrétaire général, maintenir en vigueur ledit art. 9.
 
-[^44-1]: [RS 0.812.121.2](https://fedlex.data.admin.ch/eli/cc/41/670_692_686)
+[^44-1]: [RS 0.812.121.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3442)
 [^44-2]: La Suisse n’est pas partie à cet Accord.
-[^44-3]: [RS 0.812.121.4](https://fedlex.data.admin.ch/eli/cc/45/109_113_113)
-[^44-4]: [RS 0.812.121.5](https://fedlex.data.admin.ch/eli/cc/49/329_329_347)
+[^44-3]: [RS 0.812.121.4](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3445)
+[^44-4]: [RS 0.812.121.5](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3447)
 [^44-5]: La Suisse n’est pas partie à cette Accord.
-[^44-6]: [RS 0.812.121.21](https://fedlex.data.admin.ch/eli/cc/63/1361_1362_1367)
-[^44-7]: [RS 0.812.121.52](https://fedlex.data.admin.ch/eli/cc/1953/199_199_203)
-[^44-8]: [RS 0.812.121.3](https://fedlex.data.admin.ch/eli/cc/1963/1100_1108_1149)
-[^44-9]: [RS 0.812.121.6](https://fedlex.data.admin.ch/eli/cc/1953/187_187_191)
+[^44-6]: [RS 0.812.121.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3443)
+[^44-7]: [RS 0.812.121.52](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3449)
+[^44-8]: [RS 0.812.121.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3444)
+[^44-9]: [RS 0.812.121.6](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3450)
 
 #### Art. 45
 
@@ -812,7 +812,7 @@ Toute Partie pourra proposer un amendement à la présente Convention. Le texte 
 
 <sup>2.</sup> Si un projet d’amendement distribué conformément au par. 1, b, du présent article n’a été rejeté par aucune Partie dans les dix‑huit mois qui suivent sa communication, il entrera immédiatement en vigueur. Si toutefois il est rejeté par une Partie, le Conseil pourra décider, compte tenu des observations des Parties, s’il convient de convoquer une conférence chargée d’étudier ledit amendement.
 
-[^47-1]: [RS 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
+[^47-1]: [RS 0.120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/41)
 
 #### Art. 48
 
@@ -910,7 +910,7 @@ Les sels des stupéfiants inscrits au présent tableau, dans tous les cas où ce
 
 [^t-5]: [[RO 1970 778](https://fedlex.data.admin.ch/eli/oc/1970/778_778_778)[1619](https://fedlex.data.admin.ch/eli/oc/1970/1613_1619_1619), [1971 1793](https://fedlex.data.admin.ch/eli/oc/1971/1789_1793_1793). [RO 1975 1229](https://fedlex.data.admin.ch/eli/oc/1975/1229_1229_1229)art. 6]
 
-Champ d’application le 27 mai 2020[^t-6]
+Champ d’application le 2 juin 2026[^t-6]
 
 <table>
 <tr><th>États parties</th><th>Ratification Adhésion (A) Déclaration de succession (S)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
@@ -961,7 +961,7 @@ Champ d’application le 27 mai 2020[^t-6]
 <tr><td>Corée (Nord)</td><td>19 mars</td><td>2007</td><td>18 avril</td><td>2007</td></tr>
 <tr><td>Corée (Sud)</td><td>25 janvier</td><td>1973</td><td>8 août</td><td>1975</td></tr>
 <tr><td>Costa Rica</td><td>14 février</td><td>1973</td><td>8 août</td><td>1975</td></tr>
-<tr><td>Côte d'Ivoire</td><td>28 février</td><td>1973</td><td>8 août</td><td>1975</td></tr>
+<tr><td>Côte d’Ivoire</td><td>28 février</td><td>1973</td><td>8 août</td><td>1975</td></tr>
 <tr><td>Croatie</td><td>26 juillet</td><td>1993 S</td><td>8 octobre</td><td>1991</td></tr>
 <tr><td>Cuba<sup>\*</sup></td><td>14 décembre</td><td>1989 A</td><td>13 janvier</td><td>1990</td></tr>
 <tr><td>Danemark</td><td>18 avril</td><td>1975</td><td>8 août</td><td>1975</td></tr>
@@ -1054,7 +1054,7 @@ Champ d’application le 27 mai 2020[^t-6]
 <tr><td>Panama<sup>\*</sup></td><td>19 octobre</td><td>1972</td><td>18 novembre</td><td>1972</td></tr>
 <tr><td>Papouasie-Nouvelle-Guinée<sup>\*</sup></td><td>28 octobre</td><td>1980</td><td>27 novembre</td><td>1980</td></tr>
 <tr><td>Paraguay</td><td>20 juin</td><td>1973</td><td>20 juillet</td><td>1973</td></tr>
-<tr><td>Pays-Bas<sup>\*\*</sup></td><td>29 mai</td><td>1987</td><td>28 juin</td><td>1987</td></tr>
+<tr><td>Pays-Bas</td><td>29 mai</td><td>1987</td><td>28 juin</td><td>1987</td></tr>
 <tr><td>Aruba</td><td>29 mai</td><td>1987</td><td>28 juin</td><td>1987</td></tr>
 <tr><td>Curaçao</td><td>29 mai</td><td>1987</td><td>28 juin</td><td>1987</td></tr>
 <tr><td>Partie caraïbe (Bonaire, Sint Eustatius et Saba)</td><td>29 mai</td><td>1987</td><td>28 juin</td><td>1987</td></tr>
@@ -1120,10 +1120,10 @@ Champ d’application le 27 mai 2020[^t-6]
 <tr><td>Yémen</td><td>25 mars</td><td>1996 A</td><td>24 avril</td><td>1996</td></tr>
 <tr><td>Zambie</td><td>13 mai</td><td>1998 A</td><td>12 juin</td><td>1998</td></tr>
 <tr><td>Zimbabwe</td><td>30 juillet</td><td>1993 A</td><td>29 août</td><td>1993</td></tr>
-<tr><td colspan="5">\* Réserves et déclarations. \*\* Objections. Les réserves, déclarations et objections, à l’exception des réserves et déclarations de la Suisse, ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet des Nations Unies: http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies, ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
+<tr><td colspan="5">\* Réserves et déclarations. \*\* Objections. Les réserves, déclarations et objections, à l’exception des réserves et déclarations de la Suisse, ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet de l’Organisation des Nations Unies (ONU): [http://treaties.un.org](http://treaties.un.org) ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
 </table>
 
-[^t-6]: [RO 2005 371](https://fedlex.data.admin.ch/eli/oc/2005/48), [2007 3763](https://fedlex.data.admin.ch/eli/oc/2007/485), [2013 2197](https://fedlex.data.admin.ch/eli/oc/2013/464), [2020 2819](https://fedlex.data.admin.ch/eli/oc/2020/509). Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.dfae.admin.ch/traites).
+[^t-6]: [RO 2005 371](https://fedlex.data.admin.ch/eli/oc/2005/48); [2007 3763](https://fedlex.data.admin.ch/eli/oc/2007/485); [2013 2197](https://fedlex.data.admin.ch/eli/oc/2013/464); [2020 2819](https://fedlex.data.admin.ch/eli/oc/2020/509); [2026 296](https://fedlex.data.admin.ch/eli/oc/2026/296). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).
 
 Réserves et déclarations
 
@@ -1131,4 +1131,4 @@ Suisse
 
 La Suisse maintient en vigueur l’art. 9 de la convention pour la répression du trafic illicite des drogues nuisibles, signée à Genève le 26 juin 1936[^t-7].
 
-[^t-7]: [RS 0.812.121.6](https://fedlex.data.admin.ch/eli/cc/1953/187_187_191)
+[^t-7]: [RS 0.812.121.6](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3450)

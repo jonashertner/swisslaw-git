@@ -3,31 +3,31 @@ sr: "0.812.121"
 title: Einheits-Übereinkommen von 1961 über die Betäubungsmittel in der durch das Protokoll vom 25. März 1972 geänderten Fassung (mit Tabellen)
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/48"
 language: de
-version: 2020-05-27
+version: 2026-06-02
 adopted: 1972-03-25
 in_force: 1996-05-22
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/48/20200527/de/xml/fedlex-data-admin-ch-eli-cc-2005-48-20200527-de-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/48/20200527/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/48/20260602/de/xml/fedlex-data-admin-ch-eli-cc-2005-48-20260602-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/48/20260602/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Einheits-Übereinkommen von 1961 über die Betäubungsmittel in der durch das Protokoll vom 25. März 1972 geänderten Fassung
 
-AS **2005** 371; BBl **1968** I 757, **1994** III 1273
+AS **2005** 371; BBl **1968** I 757; **1994** III 1273
 
 Übersetzung
 
 Abgeschlossen in New York am 30. März 1961 Von der Bundesversammlung genehmigt am 5. Dezember 1968[^t-1] Schweizerische Ratifikationsurkunde hinterlegt am 23. Januar 1970 In Kraft getreten für die Schweiz am 22. Februar 1970[^t-2] Geändert durch das Protokoll vom 25. März 1972[^t-3] Von der Bundesversammlung genehmigt am 21. März 1995[^t-4] Schweizerische Ratifikationsurkunde hinterlegt am 22. April 1996 In Kraft getreten für die Schweiz am 22. Mai 1996
 
-(Stand am 27. Mai 2020)
+(Stand am 2. Juni 2026)
 
 [^t-1]: [AS 1970 801](https://fedlex.data.admin.ch/eli/oc/1970/801_802_801)
-[^t-2]: [SR 0.812.121.0](https://fedlex.data.admin.ch/eli/cc/1970/802_803_802)
-[^t-3]: [SR 0.812.121.01](https://fedlex.data.admin.ch/eli/cc/1996/1941_1941_1941)
+[^t-2]: [SR 0.812.121.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3437)
+[^t-3]: [SR 0.812.121.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3438)
 [^t-4]: [AS 1996 1940](https://fedlex.data.admin.ch/eli/oc/1996/1940_1940_1940)
 
-Präambel
+*Präambel*
 
 Die Vertragsparteien
 
@@ -286,7 +286,7 @@ Die Kommission ist befugt, sämtliche die Ziele dieses Übereinkommens betreffen
 - c) Das Organ kann, wie es dies für die Beurteilung einer unter Buchstabe a) erwähnten Angelegenheit als notwendig erachtet, der betreffenden Regierung vorschlagen, eine Untersuchung über die Angelegenheit auf ihrem Hoheitsgebiet in der von ihr für angemessen gehaltenen Art durchführen zu lassen. Entschliesst sich die betreffende Regierung, diese Untersuchung durchzuführen, so kann sie das Organ ersuchen, die technischen Mittel und die Dienste einer oder mehreren Personen mit den erforderlichen Kenntnissen zur Verfügung zu stellen, um die Regierungsbeauftragten bei der beabsichtigten Untersuchung zu unterstützen. Die Person oder die Personen, die das Organ der Regierung zur Verfügung zu stellen beabsichtigt, bedürfen der Genehmigung dieser Regierung. Die Art und Weise der Untersuchung und die Frist, innerhalb welcher diese abzuschliessen ist, werden nach Beratung zwischen der Regierung und dem Organ festgelegt. Die Regierung übermittelt dem Organ die Untersuchungsergebnisse und gibt ihm die von ihr als erforderlich erachteten Verbesserungsmassnahmen bekannt.
 - d) Stellt das Organ fest, dass die betreffende Regierung auf ein Ersuchen gemäss Buchstabe a) keine zufriedenstellende Erklärung abgegeben oder nach Aufforderung gemäss Buchstabe b) keine Abhilfemassnahmen getroffen hat oder dass eine ernste Lage besteht, deren Behebung Massnahmen internationaler Zusammenarbeit bedarf, so kann es die Vertragsparteien, den Rat und die Kommission auf die Frage aufmerksam machen. Das Organ geht so vor, wenn die Ziele dieses Übereinkommens ernstlich gefährdet sind und es nicht möglich war, die Angelegenheit in anderer Weise zufriedenstellend zu regeln. Es geht in gleicher Weise vor, wenn es feststellt, dass eine ernste Lage besteht, die Massnahmen internationaler Zusammenarbeit erforderlich macht, und wenn es der Ansicht ist, zur Behebung der Lage sei die Informierung der Vertragsparteien, des Rats und der Kommission das geeignetste Mittel, um die Zusammenarbeit zu erleichtern; nach Prüfung der vom Organ und gegebenenfalls von der Kommission erstellten Berichte kann der Rat die Generalversammlung auf die Angelegenheit aufmerksam machen.
 
-[^14-1]: [SR 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
+[^14-1]: [SR 0.120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/41)
 
 #### Art. 14<sup>bis</sup>
 
@@ -634,7 +634,7 @@ Unter gebührender Berücksichtigung ihrer Verfassungs-, Rechts- und Verwaltungs
 - f) dem Organ und der Kommission, falls sie es für gegeben erachten, durch Vermittlung des Generalsekretärs ausser den aufgrund von Artikel 18 geforderten Auskünften Angaben über illegale, innerhalb ihrer Grenzen festgestellte Tätigkeiten, insbesondere in bezug auf den illegalen Anbau, die illegale Gewinnung und Herstellung, die illegale Verwendung und den unerlaubten Verkehr mit Betäubungsmitteln liefern; und
 - g) die im vorangehenden Absatz erwähnten Angaben, soweit wie möglich in der vom Organ festgelegten Art und Weise und an den von ihm festgelegten Daten, liefern; seinerseits kann das Organ auf Verlangen einer Vertragspartei dieser behilflich sein, diese Auskünfte zu liefern und ihre Bemühungen zur Einschränkung der illegalen Tätigkeiten auf dem Gebiete der Betäubungsmittel innerhalb ihrer Grenzen unterstützen.
 
-[^35-1]: Für die Rechtshilfe zwischen der Schweiz und den Vereinigten Staaten von Amerika, siehe Art. 36 des BG vom 3. Okt. 1975 zum Staatsvertrag mit den Vereinigten Staaten von Amerika über gegenseitige Rechtshilfe in Strafsachen ([SR 351.93](https://fedlex.data.admin.ch/eli/cc/1977/17_17_17)).
+[^35-1]: Für die Rechtshilfe zwischen der Schweiz und den Vereinigten Staaten von Amerika, siehe Art. 36 des BG vom 3. Okt. 1975 zum Staatsvertrag mit den Vereinigten Staaten von Amerika über gegenseitige Rechtshilfe in Strafsachen ([SR 351.93](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6292)).
 
 #### Art. 36
 
@@ -700,7 +700,7 @@ Ungeachtet der Bestimmungen dieses Übereinkommens ist es oder gilt es als keine
 
 \3) Das vorliegende Übereinkommen liegt für die in Absatz 1 bezeichneten Staaten nach dem 1. August 1961 zum Beitritt auf. Die Beitrittsurkunden sind beim Generalsekretär zu hinterlegen.
 
-[^40-1]: [SR 0.193.501](https://fedlex.data.admin.ch/eli/cc/1948/1048_1037_1010)
+[^40-1]: [SR 0.193.501](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/809)
 
 #### Art. 41
 
@@ -744,15 +744,15 @@ Das vorliegende Übereinkommen findet auf alle Gebiete ausserhalb des Mutterland
 - h. das am 19. November 1948[^44-8] in Paris unterzeichnete Protokoll über die internationale Kontrolle gewisser Stoffe, die vom internationalen Abkommen vom 13. Juli 1931 zur Beschränkung der Herstellung und zur Regelung der Verteilung der Betäubungsmittel, ergänzt durch das am 11. Dezember 1946 in Lake Success unterzeichnete Protokoll, nicht erfasst werden;
 - i. das am 23. Juni 1953[^44-9] in New York unterzeichnete Protokoll zur Beschränkung und Regelung des Mohnanbaus, der Erzeugung und Verwendung von Opium sowie des internationalen Handels und Grosshandels damit, falls dieses Protokoll in Kraft tritt.
 
-[^44-1]: [SR 0.812.121.6](https://fedlex.data.admin.ch/eli/cc/1953/187_187_191)
-[^44-2]: [SR 0.812.121.2](https://fedlex.data.admin.ch/eli/cc/41/670_692_686)
+[^44-1]: [SR 0.812.121.6](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3450)
+[^44-2]: [SR 0.812.121.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3442)
 [^44-3]: Die Schweiz ist dieser Vereinbarung nicht beigetreten.
-[^44-4]: [SR 0.812.121.4](https://fedlex.data.admin.ch/eli/cc/45/109_113_113)
-[^44-5]: [SR 0.812.121.5](https://fedlex.data.admin.ch/eli/cc/49/329_329_347)
+[^44-4]: [SR 0.812.121.4](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3445)
+[^44-5]: [SR 0.812.121.5](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3447)
 [^44-6]: Die Schweiz ist dieser Vereinbarung nicht beigetreten.
-[^44-7]: [SR 0.812.121.21](https://fedlex.data.admin.ch/eli/cc/63/1361_1362_1367)
-[^44-8]: [SR 0.812.121.52](https://fedlex.data.admin.ch/eli/cc/1953/199_199_203)
-[^44-9]: [SR 0.812.121.3](https://fedlex.data.admin.ch/eli/cc/1963/1100_1108_1149)
+[^44-7]: [SR 0.812.121.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3443)
+[^44-8]: [SR 0.812.121.52](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3449)
+[^44-9]: [SR 0.812.121.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3444)
 
 #### Art. 45
 
@@ -783,7 +783,7 @@ Das vorliegende Übereinkommen findet auf alle Gebiete ausserhalb des Mutterland
 - a. auf Grund des Artikels 62 Absatz 4 der Satzung der Vereinten Nationen[^47-1] eine Konferenz zur Prüfung des Änderungsvorschlages einzuberufen; oder
 - b. die Vertragsparteien anzufragen, ob sie die vorgeschlagene Änderung annehmen, und auch sie zu ersuchen, dem Rat ihre Bemerkungen zu diesem Vorschlag einzureichen.
 
-[^47-1]: [SR 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
+[^47-1]: [SR 0.120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/41)
 
 #### Art. 48
 
@@ -872,9 +872,9 @@ Die im Übereinkommen erwähnten Tabellen I–IV können von der internationalen
 
 Die Salze der in dieser Tabelle aufgeführten Betäubungsmittel in allen Fällen, in denen diese Salze vorkommen können.
 
-[^annexu1-lvlu1-1]: [[AS 1970 778](https://fedlex.data.admin.ch/eli/oc/1970/778_778_778)[1613](https://fedlex.data.admin.ch/eli/oc/1970/1613_1619_1619), [1971 1789](https://fedlex.data.admin.ch/eli/oc/1971/1789_1793_1793). [AS 1975 1229](https://fedlex.data.admin.ch/eli/oc/1975/1229_1229_1229)Art. 6]
+[^annexu1-lvlu1-1]: [[AS 1970 778](https://fedlex.data.admin.ch/eli/oc/1970/778_778_778), [1613](https://fedlex.data.admin.ch/eli/oc/1970/1613_1619_1619); [1971 1789](https://fedlex.data.admin.ch/eli/oc/1971/1789_1793_1793). [AS 1975 1229](https://fedlex.data.admin.ch/eli/oc/1975/1229_1229_1229)Art. 6]
 
-Geltungsbereich am 27. Mai 2020[^t-5]
+Geltungsbereich am 2. Juni 2026[^t-5]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B) Nachfolgeerklärung (N)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -1001,7 +1001,7 @@ Geltungsbereich am 27. Mai 2020[^t-5]
 <tr><td>Niue</td><td>7. Juni</td><td>1990</td><td>7. Juli</td><td>1990</td></tr>
 <tr><td>Tokelau</td><td>7. Juni</td><td>1990</td><td>7. Juli</td><td>1990</td></tr>
 <tr><td>Nicaragua</td><td>15. Februar</td><td>2005</td><td>17. März</td><td>2005</td></tr>
-<tr><td>Niederlande\*\*</td><td>29. Mai</td><td>1987</td><td>28. Juni</td><td>1987</td></tr>
+<tr><td>Niederlande</td><td>29. Mai</td><td>1987</td><td>28. Juni</td><td>1987</td></tr>
 <tr><td>Aruba</td><td>29. Mai</td><td>1987</td><td>28. Juni</td><td>1987</td></tr>
 <tr><td>Curaçao</td><td>29. Mai</td><td>1987</td><td>28. Juni</td><td>1987</td></tr>
 <tr><td>Karibische Gebiete (Bonaire, Sint Eustatius und Saba)</td><td>29. Mai</td><td>1987</td><td>28. Juni</td><td>1987</td></tr>
@@ -1084,15 +1084,15 @@ Geltungsbereich am 27. Mai 2020[^t-5]
 <tr><td>Vietnam\*</td><td>4. November</td><td>1997 B</td><td>4. Dezember</td><td>1997</td></tr>
 <tr><td>Zentralafrikanische Republik</td><td>15. Oktober</td><td>2001 B</td><td>14. November</td><td>2001</td></tr>
 <tr><td>Zypern</td><td>30. November</td><td>1973</td><td>8. August</td><td>1975</td></tr>
-<tr><td colspan="5">\* Vorbehalte und Erklärungen. \*\* Einwendungen. Die Vorbehalte, Erklärungen und Einwendungen werden in der AS nicht veröffentlicht, mit Ausnahme der Vorbehalte und Erklärungen der Schweiz. Die französischen und englischen Texte können auf der Internetseite der Vereinten Nationen: http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
+<tr><td colspan="5">\* Vorbehalte und Erklärungen. \*\* Einwendungen. Die Vorbehalte, Erklärungen und Einwendungen werden in der AS nicht veröffentlicht, mit Ausnahme der Vorbehalte und Erklärungen der Schweiz. Die französischen und englischen Texte können auf der Internetseite der Vereinten Nationen: http://treaties.un.org/ eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
 </table>
 
 ## Vorbehalte und Erklärungen
 
-[^t-5]: [AS 2005 371](https://fedlex.data.admin.ch/eli/oc/2005/48), [2007 3763](https://fedlex.data.admin.ch/eli/oc/2007/485), [2013 2197](https://fedlex.data.admin.ch/eli/oc/2013/464), [2020 2819](https://fedlex.data.admin.ch/eli/oc/2020/509). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+[^t-5]: [AS 2005 371](https://fedlex.data.admin.ch/eli/oc/2005/48); [2007 3763](https://fedlex.data.admin.ch/eli/oc/2007/485); [2013 2197](https://fedlex.data.admin.ch/eli/oc/2013/464); [2020 2819](https://fedlex.data.admin.ch/eli/oc/2020/509); [2026 296](https://fedlex.data.admin.ch/eli/oc/2026/296). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
 
 **Schweiz**
 
 Die Schweiz belässt Artikel 9 des am 26. Juni 1936[^scopeu1-lvlu1-1] in Genf unterzeichneten Abkommens zur Unterdrückung des unerlaubten Verkehrs mit Betäubungsmitteln weiterhin in Kraft.
 
-[^scopeu1-lvlu1-1]: [SR 0.812.121.6](https://fedlex.data.admin.ch/eli/cc/1953/187_187_191)
+[^scopeu1-lvlu1-1]: [SR 0.812.121.6](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3450)

@@ -3,28 +3,28 @@ sr: "0.812.121"
 title: Convenzione unica sugli stupefacenti del 1961 nella versione modificata dal Protocollo di emendamenti del 25 marzo 1972 della Convenzione unica sugli stupefacenti del 1961 (con tavole)
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/48"
 language: it
-version: 2020-05-27
+version: 2026-06-02
 adopted: 1972-03-25
 in_force: 1996-05-22
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/48/20200527/it/xml/fedlex-data-admin-ch-eli-cc-2005-48-20200527-it-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/48/20200527/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/48/20260602/it/xml/fedlex-data-admin-ch-eli-cc-2005-48-20260602-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/48/20260602/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Convenzione unica sugli stupefacenti del 1961 nella versione modificata dal Protocollo di emendamenti del 25 marzo 1972 della Convenzione unica sugli stupefacenti del 1961
 
-RU **2005** 371; FF **1968** I 489, **1994** III 1137
+RU **2005** 371; FF **1968** I 489; **1994** III 1137
 
 Traduzione
 
 Conchiusa a Nuova York il 30 marzo 1961 Approvata dall’Assemblea federale il 5 dicembre 1968[^t-1] Ratificata dalla Svizzera con strumento depositato il 23 gennaio 1970 Entrata in vigore per la Svizzera il 22 febbraio 1970[^t-2] Emendata dal Protocollo del 25 marzo 1972[^t-3] Approvato dall’Assemblea federale il 21 marzo 1995[^t-4] Ratificato dalla Svizzera con strumento depositato il 22 aprile 1996 Entrato in vigore per la Svizzera il 22 maggio 1996
 
-(Stato 27 maggio 2020)
+(Stato 2 giugno 2026)
 
 [^t-1]: [RU 1970 802](https://fedlex.data.admin.ch/eli/oc/1970/802_803_802)
-[^t-2]: [RS 0.812.121.0](https://fedlex.data.admin.ch/eli/cc/1970/802_803_802)
-[^t-3]: [RS 0.812.121.01](https://fedlex.data.admin.ch/eli/cc/1996/1941_1941_1941)
+[^t-2]: [RS 0.812.121.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3437)
+[^t-3]: [RS 0.812.121.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3438)
 [^t-4]: [RU 1996 1940](https://fedlex.data.admin.ch/eli/oc/1996/1940_1940_1940)
 
 Preambolo
@@ -84,10 +84,10 @@ Salvo contraria indicazione, espressa o desumibile dal contesto, si applicano a 
 
   il termine «riserve» designa le quantità di stupefacenti conservate in un Paese o in territorio e destinate:
 
-  - i) a un consumo medicinale e scientifico in quel Paese o territorio;
-  - ii) alla fabbricazione e alla preparazione di stupefacenti e di altre sostanze, in quel Paese o territorio;
-  - iii) all’esportazione; ma non comprende le quantità di stupefacenti conservate in un Paese o in un territorio da:
-  - iv) farmacisti o altri distributori dettaglianti autorizzati, da istituti o persone competenti nell’esercizio, debitamente autorizzato, delle loro funzioni terapeutiche o scientifiche; o
+  - i) a un consumo medicinale e scientifico in quel Paese o territorio,
+  - ii) alla fabbricazione e alla preparazione di stupefacenti e di altre sostanze, in quel Paese o territorio,
+  - iii) all’esportazione, ma non comprende le quantità di stupefacenti conservate in un Paese o in un territorio da:
+  - iv) farmacisti o altri distributori dettaglianti autorizzati, da istituti o persone competenti nell’esercizio, debitamente autorizzato, delle loro funzioni terapeutiche o scientifiche, o
   - v) in quanto riserve speciali.
 
 - y) il termine «territorio» designa qualsiasi parte di uno Stato considerata come una entità agli effetti dell’applicazione del sistema dei certificati d’importazione e delle autorizzazioni all’esportazione previsto all’articolo 31. Questa definizione non si applica al termine «territorio» impiegato agli articoli 42 e 46.
@@ -207,7 +207,7 @@ La Commissione ha la facoltà di esaminare tutte le questioni in relazione con g
 
 L’Organo si compone di tredici membri scelti dal Consiglio come segue:
 
-- a) tre membri esperti in medicina, farmacologia e farmacia e scelti da una lista di almeno cinque persone designate dall’Organizzazione mondiale della sanità, e
+- a) tre membri esperti in medicina, farmacologia e farmacia e scelti da una lista di almeno cinque persone designate dall’Organizzazione mondiale della sanità; e
 - b) dieci membri scelti da una lista di persone designate dai membri dell’Organizzazione delle Nazioni Unite e dalle Parti che non ne sono membri.
 
 <sup>2.</sup> I membri dell’Organo devono essere persone che per la loro competenza, la loro imparzialità e il loro disinteresse ispirano la fiducia generale. Durante il loro mandato, i membri non devono occupare alcun impiego né dedicarsi ad alcuna attività di natura tale da impedire loro l’esercizio imparziale delle rispettive funzioni. D’intesa con l’Organo, il Consiglio adotta tutte le disposizioni necessarie ad assicurare la piena indipendenza tecnica di quest’ultimo nell’esercizio delle sue funzioni.
@@ -291,7 +291,7 @@ L’Organo si compone di tredici membri scelti dal Consiglio come segue:
 
 <sup>6.</sup> Le decisioni dell’Organo prese in virtù del presente articolo devono essere adottate con la maggioranza dei due terzi del numero complessivo dei membri dell’Organo.
 
-[^14-1]: [RS 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
+[^14-1]: [RS 0.120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/41)
 
 #### Art. 14<sup>bis</sup>
 
@@ -404,7 +404,7 @@ La quantità totale di ogni stupefacente che è fabbricato e importato da un Pae
 
   dal momento della ricezione di tale notifica le Parti non autorizzano più, durante l’annata in corso, nessuna nuova esportazione di stupefacenti in questione a destinazione del Paese o del territorio in causa, salvo:
 
-  - i) nel caso in cui per questo Paese o territorio è stata fornita una valutazione supplementare per ciò che concerne ogni quantità importata in eccedenza e la quantità supplementare richiesta; oppure
+  - i) nel caso in cui per questo Paese o territorio è stata fornita una valutazione supplementare per ciò che concerne ogni quantità importata in eccedenza e la quantità supplementare richiesta, oppure
   - ii) nei casi eccezionali in cui, secondo il Governo del Paese esportatore, l’esportazione è indispensabile al trattamento dei malati.
 
 #### Art. 21<sup>bis</sup>
@@ -441,7 +441,7 @@ Ogni Parte considerata nel paragrafo precedente applica le disposizioni seguenti
 
 - a) l’organismo delimita le regioni e designa le parcelle di terreno dove la coltivazione del papavero da oppio in vista della produzione dell’oppio è autorizzata;
 - b) i coltivatori titolari di una licenza rilasciata dall’organismo sono i soli autorizzati a dedicarsi a questa coltivazione;
-- c) ogni licenza specifica la superficie di terreno sulla quale è autorizzata questa coltivazione.
+- c) ogni licenza specifica la superficie di terreno sulla quale è autorizzata questa coltivazione;
 - d) ogni coltivatore di papavero da oppio è tenuto a consegnare all’Organismo la totalità del suo raccolto di oppio; l’Organismo acquista questo raccolto e ne prende materialmente possesso il più presto possibile, ma, al più tardi, entro un termine di quattro mesi a contare dalla fine del raccolto; e
 - e) solamente l’Organismo ha il diritto, per ciò che concerne l’oppio, di importare, di esportare, di dedicarsi al commercio all’ingrosso e di conservare riserve, a eccezione delle riserve detenute dai fabbricanti degli alcaloidi dell’oppio medicinale e dei preparati a base d’oppio. Le Parti non sono tenute a estendere questa clausola all’oppio medicinale e ai preparati a base d’oppio.
 
@@ -561,7 +561,7 @@ Le Parti:
 Inoltre le Parti:
 
 - a) per quanto concerne il possesso da parte dei commercianti, dei distributori, delle imprese di Stato o delle persone debitamente autorizzate sopra considerate, impediscono anche l’accumulo di quantità di stupefacenti e di paglia di papavero eccedenti quelle necessarie al normale funzionamento dell’impresa, tenuto conto della situazione del mercato;
-- b) i) esigono che gli stupefacenti non siano forniti o dispensati a privati se non dietro ricetta medica. Questa disposizione non è necessariamente applicabile agli stupefacenti che privati possono legalmente ottenere, utilizzare, dispensare oppure amministrare in occasione dell’esercizio, debitamente autorizzato, delle loro funzioni terapeutiche; e
+- b) i) esigono che gli stupefacenti non siano forniti o dispensati a privati se non dietro ricetta medica. Questa disposizione non è necessariamente applicabile agli stupefacenti che privati possono legalmente ottenere, utilizzare, dispensare oppure amministrare in occasione dell’esercizio, debitamente autorizzato, delle loro funzioni terapeutiche, e
   - ii) qualora le Parti ritengano necessarie o auspicabili queste misure, esigono che le ricette prescriventi stupefacenti della Tabella I siano redatte su formulari ufficiali che sono forniti, sotto forma di un ricettario con ricevute, dalle autorità amministrative competenti o dalle associazioni professionali autorizzate.
 
 <sup>3.</sup> È auspicabile che le Parti esigano che le offerte di stupefacenti scritte o stampate, gli annunci pubblicitari di qualsiasi natura siano e le note descrittive relative agli stupefacenti e utilizzate per fini commerciali, gli imballaggi contenenti stupefacenti e le etichette sotto le quali gli stupefacenti sono messi in vendita, indichino la denominazione comune internazionale comunicata dall’Organizzazione mondiale della Sanità.
@@ -657,7 +657,7 @@ Tenuto debito conto dei loro ordinamenti costituzionali, giuridici e amministrat
 - f) forniscono all’Organo e alla Commissione, se lo ritengono opportuno, per il tramite del Segretario generale, oltre alle informazioni richieste in virtù dell’articolo 18, informazioni riguardanti le attività illecite accertate all’interno delle loro frontiere e relative in particolare alla coltivazione, produzione, fabbricazione, uso e traffico illeciti degli stupefacenti; e
 - g) forniscono le informazioni di cui al paragrafo precedente, per quanto possibile nel modo e alle date fissate dall’Organo; da parte sua, su richiesta di una Parte, l’Organo può aiutarla a fornire informazioni e appoggiare gli sforzi da essa intrapresi per ridurre le attività illecite in materia di stupefacenti all’interno delle proprie frontiere.
 
-[^35-1]: Per l’assistenza giudiziaria tra la Svizzera e gli Stati Uniti d’America, vedi l’art. 36 della LF del 3 ott. 1975 relativo al trattato concluso con gli Stati Uniti d’America sull’assistenza giudiziaria in materia penale ([RS 351.93](https://fedlex.data.admin.ch/eli/cc/1977/17_17_17))
+[^35-1]: Per l’assistenza giudiziaria tra la Svizzera e gli Stati Uniti d’America, vedi l’art. 36 della LF del 3 ott. 1975 relativo al trattato concluso con gli Stati Uniti d’America sull’assistenza giudiziaria in materia penale ([RS 351.93](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6292))
 
 #### Art. 36
 
@@ -675,7 +675,7 @@ Fatti salvi le norme costituzionali di ciascuna Parte, il suo ordinamento giurid
 - iii) le condanne pronunciate all’estero per tali infrazioni sono prese in considerazione per determinare la recidiva; e
 - iv) le predette infrazioni gravi, indipendentemente dal fatto che siano commesse da suoi cittadini o da stranieri, sono perseguite dalla Parte sul cui territorio l’infrazione è stata commessa, oppure dalla Parte sul cui territorio si trova il delinquente, se la sua estradizione non può essere concessa in base alla legislazione della Parte alla quale è stata rivolta la domanda di estradizione e se il predetto delinquente non è stato già perseguito e giudicato.
 - b) i) Ciascuna delle infrazioni elencate ai paragrafi 1 e 2, a) ii) del presente articolo rientra a pieno diritto come caso di estradizione in qualsiasi trattato di estradizione concluso fra le Parti. Le Parti s’impegnano a includere tali infrazioni come casi di estradizione in qualsiasi trattato di estradizione che dev’essere stipulato fra le Parti;
-- ii) qualora una Parte che subordina l’estradizione all’esistenza di un trattato riceva una richiesta di estradizione da un’altra Parte con la quale essa non sia legata da trattato d’estradizione, essa ha facoltà di considerare la presente Convenzione come base giuridica per l’estradizione relativamente alle infrazioni di cui ai paragrafi 1 e 2, a) ii) del presente articolo. L’estradizione è subordinata alle altre condizioni previste dal diritto della Parte oggetto della richiesta;.
+- ii) qualora una Parte che subordina l’estradizione all’esistenza di un trattato riceva una richiesta di estradizione da un’altra Parte con la quale essa non sia legata da trattato d’estradizione, essa ha facoltà di considerare la presente Convenzione come base giuridica per l’estradizione relativamente alle infrazioni di cui ai paragrafi 1 e 2, a) ii) del presente articolo. L’estradizione è subordinata alle altre condizioni previste dal diritto della Parte oggetto della richiesta;
 - iii) le Parti che non subordinano l’estradizione all’esistenza di un trattato riconoscono le infrazioni di cui ai paragrafi 1 e 2 a), ii) del presente articolo come casi di estradizione fra le stesse Parti nelle condizioni previste dal diritto della Parte oggetto della richiesta;
 - iv) l’estradizione è accordata in base alla legislazione della Parte alla quale è stata indirizzata la domanda di estradizione e, senza pregiudizio delle disposizioni dei comma b), i), ii) e iii) del presente paragrafo, la predetta Parte ha il diritto di rifiutare di concedere l’estradizione qualora le autorità competenti ritengano che l’infrazione non sia sufficientemente grave.
 
@@ -721,7 +721,7 @@ Nonostante ogni disposizione della presente Convenzione, nessuna Parte è o non 
 
 <sup>3.</sup> La presente Convenzione è aperta all’adesione degli Stati considerati al paragrafo 1 dopo il primo agosto 1961. Gli strumenti di adesione sono depositati presso il Segretariato generale.
 
-[^40-1]: [RS 0.193.501](https://fedlex.data.admin.ch/eli/cc/1948/1048_1037_1010)
+[^40-1]: [RS 0.193.501](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/809)
 
 #### Art. 41
 
@@ -767,15 +767,15 @@ A partire dall’entrata in vigore della presente Convenzione, le sue disposizio
 
 <sup>2.</sup> A partire dall’entrata in vigore della presente Convenzione, l’articolo 9 della Convenzione per la repressione del traffico illecito degli stupefacenti, firmata a Ginevra il 26 giugno 1936[^44-9], è, tra le Parti alla suddetta Convenzione, che sono anche Parti alla presente Convenzione, abrogato e sostituito dall’articolo 36 paragrafo 2 capoverso b del della presente Convenzione; tuttavia, dopo averne informato il Segretario generale, una tale Parte può mantenere in vigore il detto articolo 9.
 
-[^44-1]: [RS 0.812.121.2](https://fedlex.data.admin.ch/eli/cc/41/670_692_686)
+[^44-1]: [RS 0.812.121.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3442)
 [^44-2]: La Svizzera non partecipa a questo Accordo.
-[^44-3]: [RS 0.812.121.4](https://fedlex.data.admin.ch/eli/cc/45/109_113_113)
-[^44-4]: RS **0**.[812.121.5](https://fedlex.data.admin.ch/eli/cc/2021/217)
+[^44-3]: [RS 0.812.121.4](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3445)
+[^44-4]: [RS 0.812.121.5](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3447)
 [^44-5]: La Svizzera non partecipa a questo Accordo.
-[^44-6]: [RS 0.812.121.21](https://fedlex.data.admin.ch/eli/cc/63/1361_1362_1367)
-[^44-7]: [RS 0.812.121.52](https://fedlex.data.admin.ch/eli/cc/1953/199_199_203)
-[^44-8]: [RS 0.812.121.3](https://fedlex.data.admin.ch/eli/cc/1963/1100_1108_1149)
-[^44-9]: [RS 0.812.121.6](https://fedlex.data.admin.ch/eli/cc/1953/187_187_191)
+[^44-6]: [RS 0.812.121.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3443)
+[^44-7]: [RS 0.812.121.52](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3449)
+[^44-8]: [RS 0.812.121.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3444)
+[^44-9]: [RS 0.812.121.6](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3450)
 
 #### Art. 45
 
@@ -808,7 +808,7 @@ Ciascuna Parte può proporre un emendamento alla presente Convenzione. Il testo 
 
 <sup>2.</sup> Se non è stato respinto da alcuna Parte nei diciotto mesi che seguono la sua comunicazione, un progetto di emendamento distribuito in conformità del paragrafo 1, b, del presente articolo entra immediatamente in vigore. Se tuttavia è stato respinto da una Parte, il Consiglio, tenuto conto delle osservazioni delle Parti, può decidere se conviene convocare una Conferenza incaricata di studiare il suddetto emendamento.
 
-[^47-1]: [RS 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
+[^47-1]: [RS 0.120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/41)
 
 #### Art. 48
 
@@ -904,7 +904,7 @@ I sali degli stupefacenti indicati nella presente tavola, in tutti i casi in cui
 
 [^t-5]: [[RU 1970 778](https://fedlex.data.admin.ch/eli/oc/1970/778_778_778)[1619](https://fedlex.data.admin.ch/eli/oc/1970/1613_1619_1619), [1971 1793](https://fedlex.data.admin.ch/eli/oc/1971/1789_1793_1793). [RU 1975 1229](https://fedlex.data.admin.ch/eli/oc/1975/1229_1229_1229)art. 6]
 
-Campo d’applicazione il 27 maggio 2020[^t-6]
+Campo d’applicazione il 2 giugno 2026[^t-6]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A) Dichiarazione di successione (S)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -1039,7 +1039,7 @@ Campo d’applicazione il 27 maggio 2020[^t-6]
 <tr><td>Niue</td><td>7 giugno</td><td>1990</td><td>7 luglio</td><td>1990</td></tr>
 <tr><td>Tokelau</td><td>7 giugno</td><td>1990</td><td>7 luglio</td><td>1990</td></tr>
 <tr><td>Oman</td><td>24 luglio</td><td>1987</td><td>23 agosto</td><td>1987</td></tr>
-<tr><td>Paesi Bassi<sup>\*\*</sup></td><td>29 maggio</td><td>1987</td><td>28 giugno</td><td>1987</td></tr>
+<tr><td>Paesi Bassi</td><td>29 maggio</td><td>1987</td><td>28 giugno</td><td>1987</td></tr>
 <tr><td>Aruba</td><td>29 maggio</td><td>1987</td><td>28 giugno</td><td>1987</td></tr>
 <tr><td>Curaçao</td><td>29 maggio</td><td>1987</td><td>28 giugno</td><td>1987</td></tr>
 <tr><td>Parte caraibica (Bonaire, Sant’Eustachio e Saba)</td><td>29 maggio</td><td>1987</td><td>28 giugno</td><td>1987</td></tr>
@@ -1114,10 +1114,10 @@ Campo d’applicazione il 27 maggio 2020[^t-6]
 <tr><td>Yemen</td><td>25 marzo</td><td>1996 A</td><td>24 aprile</td><td>1996</td></tr>
 <tr><td>Zambia</td><td>13 maggio</td><td>1998 A</td><td>12 giugno</td><td>1998</td></tr>
 <tr><td>Zimbabwe</td><td>30 luglio</td><td>1993 A</td><td>29 agosto</td><td>1993</td></tr>
-<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e le dichiarazioni non sono pubblicate nella RU, eccetto quelle della Svizzera. I testi, francese ed inglese, possono essere consultati sul sito Internet del Consiglio d’Europa: www.coe.int &gt; Explorer &gt; Bureau des Traités &gt; Liste complète, oppure ottenuti presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
+<tr><td colspan="5">\* Riserve e dichiarazioni. \*\* Obbiezioni Le riserve, le dichiarazioni e le obbiezioni non sono pubblicate nella RU, eccetto quelle della Svizzera. Il testo, in francese e inglese, può essere consultato sul sito Internet dell’Organizzazione delle Nazioni Unite: http://untreaty.un.org/ oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
 </table>
 
-[^t-6]: [RU 2005 371](https://fedlex.data.admin.ch/eli/oc/2005/48), [2007 3763](https://fedlex.data.admin.ch/eli/oc/2007/485), [2013 2197](https://fedlex.data.admin.ch/eli/oc/2013/464)e [2020 2819](https://fedlex.data.admin.ch/eli/oc/2020/509). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
+[^t-6]: [RU 2005 371](https://fedlex.data.admin.ch/eli/oc/2005/48); [2007 3763](https://fedlex.data.admin.ch/eli/oc/2007/485); [2013 2197](https://fedlex.data.admin.ch/eli/oc/2013/464); [2020 2819](https://fedlex.data.admin.ch/eli/oc/2020/509); [2026 296](https://fedlex.data.admin.ch/eli/oc/2026/296). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty).
 
 Riserva e dichiarazione
 
@@ -1125,4 +1125,4 @@ Svizzera
 
 La Svizzera mantiene in vigore l’articolo 9 della Convenzione per la repressione del traffico illecito degli stupefacenti, firmata a Ginevra il 26 giugno 1936[^t-7].
 
-[^t-7]: [RS 0.812.121.6](https://fedlex.data.admin.ch/eli/cc/1953/187_187_191)
+[^t-7]: [RS 0.812.121.6](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3450)
