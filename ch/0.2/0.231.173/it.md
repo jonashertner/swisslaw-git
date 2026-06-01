@@ -3,11 +3,11 @@ sr: "0.231.173"
 title: Convenzione del 21 maggio 1974 relativa alla distribuzione dei segnali portatori di programmi trasmessi via satellite
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/2725_2725_2725"
 language: it
-version: 2017-05-31
+version: 2026-06-02
 adopted: 1974-05-21
 in_force: 1993-09-24
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/2725_2725_2725/20170531/it/xml/fedlex-data-admin-ch-eli-cc-1993-2725_2725_2725-20170531-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/2725_2725_2725/20170531/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/2725_2725_2725/20260602/it/xml/fedlex-data-admin-ch-eli-cc-1993-2725_2725_2725-20260602-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/2725_2725_2725/20260602/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,11 +16,11 @@ url: "https://www.fedlex.admin.ch/eli/cc/1993/2725_2725_2725/20170531/it"
 
 RU **1993** 2725; FF **1989** III 413
 
-Testo ufficiale italiano*[^t-1]*
+Testo ufficiale italiano[^t-1]
 
 Conclusa a Bruxelles il 21 maggio 1974 Approvata dall’Assemblea federale il 4 giugno 1992[^t-2] Ratificata dalla Svizzera con strumento depositato il 24 giugno 1993 Entrata in vigore per la Svizzera il 24 settembre 1993
 
-(Stato 31 maggio 2017)
+(Stato 2 giugno 2026)
 
 [^t-1]: Stabilito in virtù dell’art. 12 par. 2.
 [^t-2]: Art. 1 cpv. 1 lett. d del DF deL 4 giu. 1992 ([RU 1993 2634](https://fedlex.data.admin.ch/eli/oc/1993/2634_2634_2634)).
@@ -39,7 +39,7 @@ coscienti della necessità di non pregiudicare in alcun modo le convenzioni inte
 
 hanno convenuto quanto segue:
 
-[^ingress-1]: [RS 0.231.171](https://fedlex.data.admin.ch/eli/cc/1993/2696_2696_2696)
+[^ingress-1]: [RS 0.231.171](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1019)
 
 #### Art. 1
 
@@ -105,7 +105,7 @@ La presente convenzione non dovrà in alcun modo essere interpretata come limita
 
 <sup>4.</sup> È inteso che nel momento in cui uno Stato viene vincolato dalla presente convenzione, deve essere in grado, in conformità con la sua legislazione nazionale, di dare effetto alle disposizioni della convenzione.
 
-[^9-1]: [RS 0.193.501](https://fedlex.data.admin.ch/eli/cc/1948/1048_1037_1010)
+[^9-1]: [RS 0.193.501](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/809)
 
 #### Art. 10
 
@@ -139,7 +139,7 @@ Il Segretario generale dell’Organizzazione delle Nazioni Unite notificherà ag
 
 *In fede di che,* i sottoscritti, debitamente autorizzati a tale scopo hanno firmato la presente Convenzione. Fatto a Bruxelles il 21 maggio 1974. (Seguono le firme)
 
-Campo d’applicazione il 31 maggio 2017**[^t-3]**
+Campo d’applicazione il 2 giugno 2026[^t-3]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A) Dichiarazione di successione (S)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -149,6 +149,7 @@ Campo d’applicazione il 31 maggio 2017**[^t-3]**
 <tr><td>Bahrein</td><td>1° febbraio</td><td>2007 A</td><td>1° maggio</td><td>2007</td></tr>
 <tr><td>Benin</td><td>18 maggio</td><td>2017 A</td><td>18 agosto</td><td>2017</td></tr>
 <tr><td>Bosnia e Erzegovina</td><td>12 gennaio</td><td>1994 S</td><td>6 marzo</td><td>1992</td></tr>
+<tr><td>Canada</td><td>27 marzo</td><td>2024 A</td><td>27 giugno</td><td>2024</td></tr>
 <tr><td>Cile</td><td>8 marzo</td><td>2011 A</td><td>8 giugno</td><td>2011</td></tr>
 <tr><td>Colombia</td><td>20 dicembre</td><td>2013 A</td><td>20 marzo</td><td>2014</td></tr>
 <tr><td>Corea del Sud</td><td>19 dicembre</td><td>2011 A</td><td>19 marzo</td><td>2012</td></tr>
@@ -161,7 +162,7 @@ Campo d’applicazione il 31 maggio 2017**[^t-3]**
 <tr><td>Honduras</td><td>7 gennaio</td><td>2008 A</td><td>7 aprile</td><td>2008</td></tr>
 <tr><td>Italia<sup>\*</sup></td><td>7 aprile</td><td>1981</td><td>7 luglio</td><td>1981</td></tr>
 <tr><td>Kenya</td><td>6 gennaio</td><td>1976</td><td>25 agosto</td><td>1979</td></tr>
-<tr><td>Macedonia</td><td>2 settembre</td><td>1997 S</td><td>17 novembre</td><td>1991</td></tr>
+<tr><td>Macedonia del Nord</td><td>2 settembre</td><td>1997 S</td><td>17 novembre</td><td>1991</td></tr>
 <tr><td>Marocco</td><td>31 marzo</td><td>1983</td><td>30 giugno</td><td>1983</td></tr>
 <tr><td>Messico</td><td>18 marzo</td><td>1976</td><td>25 agosto</td><td>1979</td></tr>
 <tr><td>Moldova</td><td>28 luglio</td><td>2008 A</td><td>28 ottobre</td><td>2008</td></tr>
@@ -171,6 +172,7 @@ Campo d’applicazione il 31 maggio 2017**[^t-3]**
 <tr><td>Panama</td><td>25 giugno</td><td>1985 A</td><td>25 settembre</td><td>1985</td></tr>
 <tr><td>Perù</td><td>7 maggio</td><td>1985 A</td><td>7 agosto</td><td>1985</td></tr>
 <tr><td>Portogallo</td><td>11 dicembre</td><td>1995 A</td><td>11 marzo</td><td>1996</td></tr>
+<tr><td>Qatar</td><td>12 aprile</td><td>2023 A</td><td>12 luglio</td><td>2023</td></tr>
 <tr><td>Ruanda</td><td>25 aprile</td><td>2001 A</td><td>25 luglio</td><td>2001</td></tr>
 <tr><td>Russia</td><td>20 ottobre</td><td>1988 A</td><td>20 gennaio</td><td>1989</td></tr>
 <tr><td>Serbia</td><td>12 marzo</td><td>2001 S</td><td>27 aprile</td><td>1992</td></tr>
@@ -181,7 +183,7 @@ Campo d’applicazione il 31 maggio 2017**[^t-3]**
 <tr><td>Togo</td><td>10 marzo</td><td>2003 A</td><td>10 giugno</td><td>2003</td></tr>
 <tr><td>Trinidad e Tobago<sup>\*</sup></td><td>1° agosto</td><td>1996 A</td><td>1° novembre</td><td>1996</td></tr>
 <tr><td>Vietnam</td><td>12 ottobre</td><td>2005 A</td><td>12 gennaio</td><td>2006</td></tr>
-<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e dichiarazioni non sono pubblicate nella RU. I testi francesi e inglesi si possono consultare sul sito Internet dell'Organizzazione mondiale della proprietà intellettuale: www.ompi.org/treaties/index-fr.html od ottenere alla Direzione del diritto internazionale pubblico (DDIP), Sezione trattati internazionali, 3003 Berna.</td></tr>
+<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e dichiarazioni non sono pubblicate nella RU. I testi, francese ed inglese, possono essere consultati sul sito Internet dell’Organizzazione mondiale della proprietà intellettuale (OMPI): [www.wipo.int](http://www.wipo.int/) &gt; Français &gt; Trouver et découvrir &gt; Traités administrés par l’OMPI, oppure ottenuti presso la Direzione del diritto internazionale pubblico (DDIP), Sezione trattati internazionali, 3003 Berna.</td></tr>
 </table>
 
-[^t-3]: [RU 1993 2725](https://fedlex.data.admin.ch/eli/oc/1993/2725_2725_2725), [2004 1129](https://fedlex.data.admin.ch/eli/oc/2004/130), [2008 3701](https://fedlex.data.admin.ch/eli/oc/2008/488), [2011 523](https://fedlex.data.admin.ch/eli/oc/2011/76), [2014 451](https://fedlex.data.admin.ch/eli/oc/2014/75)e [2017 3379](https://fedlex.data.admin.ch/eli/oc/2017/365). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
+[^t-3]: [RU 1993 2725](https://fedlex.data.admin.ch/eli/oc/1993/2725_2725_2725); [2004 1129](https://fedlex.data.admin.ch/eli/oc/2004/130); [2008 3701](https://fedlex.data.admin.ch/eli/oc/2008/488); [2011 523](https://fedlex.data.admin.ch/eli/oc/2011/76); [2014 451](https://fedlex.data.admin.ch/eli/oc/2014/75); [2017 3379](https://fedlex.data.admin.ch/eli/oc/2017/365); [2026 286](https://fedlex.data.admin.ch/eli/oc/2026/286). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty).

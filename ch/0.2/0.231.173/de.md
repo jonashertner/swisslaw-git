@@ -3,11 +3,11 @@ sr: "0.231.173"
 title: Übereinkommen vom 21. Mai 1974 über die Verbreitung der durch Satelliten übertragenen programmtragenden Signale
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/2725_2725_2725"
 language: de
-version: 2017-05-31
+version: 2026-06-02
 adopted: 1974-05-21
 in_force: 1993-09-24
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/2725_2725_2725/20170531/de/xml/fedlex-data-admin-ch-eli-cc-1993-2725_2725_2725-20170531-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/2725_2725_2725/20170531/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/2725_2725_2725/20260602/de/xml/fedlex-data-admin-ch-eli-cc-1993-2725_2725_2725-20260602-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/2725_2725_2725/20260602/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,11 +16,11 @@ url: "https://www.fedlex.admin.ch/eli/cc/1993/2725_2725_2725/20170531/de"
 
 AS **1993** 2725; BBl **1989** III 477
 
-Amtlicher deutscher Text*[^t-1]*
+Amtlicher deutscher Text[^t-1]
 
 Abgeschlossen In Brüssel am 21. Mai 1974 Von der Bundesversammlung genehmigt am 4. Juni 1992[^t-2] Schweizerische Ratifikationsurkunde hinterlegt am 24. Juni 1993 In Kraft getreten für die Schweiz am 24. September 1993
 
-(Stand am 31. Mai 2017)
+(Stand am 2. Juni 2026)
 
 [^t-1]: Gemäss Art. 12 Abs. 2
 [^t-2]: Art. 1 Abs. 1 Bst. d des BB vom 4. Juni 1992 ([AS 1993 2634](https://fedlex.data.admin.ch/eli/oc/1993/2634_2634_2634))
@@ -39,11 +39,11 @@ eingedenk der Notwendigkeit, bereits in Kraft befindliche internationale Überei
 
 haben folgendes vereinbart:
 
-[^ingress-1]: [SR 0.231.171](https://fedlex.data.admin.ch/eli/cc/1993/2696_2696_2696)
+[^ingress-1]: [SR 0.231.171](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1019)
 
 #### Art. 1
 
-Für die Zwecke dieses Übereinkommens bedeutet
+Für die Zwecke dieses Übereinkommens bedeutet:
 
 - i) «Signal» einen elektronisch erzeugten, zur Übertragung von Programmen geeigneten Träger;
 - ii) «Programm» eine aufgenommene oder nicht aufgenommene Gesamtheit von Bildern, Tönen oder beiden, die in den letztlich zum Zweck der Verbreitung ausgestrahlten Signalen enthalten ist;
@@ -68,7 +68,7 @@ Dieses Übereinkommen ist nicht anzuwenden, wenn die von dem Ursprungsunternehme
 
 #### Art. 4
 
-Kein Vertragsstaat ist verpflichtet, die in Artikel 2 Absatz 1 vorgesehenen Massnahmen anzuwenden, wenn die in seinem Hoheitsgebiet durch einen Verbreiter, für den die ausgestrahlten Signale nicht bestimmt sind, verbreiteten Signale
+Kein Vertragsstaat ist verpflichtet, die in Artikel 2 Absatz 1 vorgesehenen Massnahmen anzuwenden, wenn die in seinem Hoheitsgebiet durch einen Verbreiter, für den die ausgestrahlten Signale nicht bestimmt sind, verbreiteten Signale:
 
 - i) kurze, aus Berichten über Tagesereignisse bestehende Auszüge aus dem von den ausgestrahlten Signalen getragenen Programm tragen, jedoch nur in dem durch den Informationszweck der Auszüge gerechtfertigten Ausmass, oder
 - ii) als Zitate kurze Auszüge aus dem von den ausgestrahlten Signalen getragenen Programm tragen, vorausgesetzt, dass die Zitate anständigen Gepflogenheiten entsprechen und durch ihren Informationszweck gerechtfertigt sind, oder,
@@ -105,7 +105,7 @@ Dieses Übereinkommen darf in keiner Weise als Beschränkung des Rechtes eines V
 
 <sup>(4)</sup> Es besteht Einverständnis darüber, dass jeder Staat in dem Zeitpunkt, in dem er durch dieses Übereinkommen gebunden wird, nach seinen innerstaatlichen Rechtsvorschriften in der Lage sein muss, den Bestimmungen dieses Übereinkommens Wirkung zu verleihen.
 
-[^9-1]: [SR 0.193.501](https://fedlex.data.admin.ch/eli/cc/1948/1048_1037_1010)
+[^9-1]: [SR 0.193.501](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/809)
 
 #### Art. 10
 
@@ -137,7 +137,7 @@ Dieses Übereinkommen darf in keiner Weise als Beschränkung des Rechtes eines V
 
 *Zu Urkund dessen* haben die hierzu gehörig bevollmächtigten Unterzeichneten dieses Übereinkommen unterschrieben. Geschehen zu Brüssel am 21. Mai 1974. (Es folgen die Unterschriften)
 
-Geltungsbereich am 31. Mai 2017**[^t-3]**
+Geltungsbereich am 2. Juni 2026[^t-3]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B) Nachfolgeerklärung (N)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -154,16 +154,18 @@ Geltungsbereich am 31. Mai 2017**[^t-3]**
 <tr><td>Honduras</td><td>7. Januar</td><td>2008 B</td><td>7. April</td><td>2008</td></tr>
 <tr><td>Italien\*</td><td>7. April</td><td>1981</td><td>7. Juli</td><td>1981</td></tr>
 <tr><td>Jamaika</td><td>12. Oktober</td><td>1999 B</td><td>12. Januar</td><td>2000</td></tr>
+<tr><td>Kanada</td><td>27. März</td><td>2024 B</td><td>27. Juni</td><td>2024</td></tr>
+<tr><td>Katar</td><td>12. April</td><td>2023 B</td><td>12. Juli</td><td>2023</td></tr>
 <tr><td>Kenia</td><td>6. Januar</td><td>1976</td><td>25. August</td><td>1979</td></tr>
 <tr><td>Kolumbien</td><td>20. Dezember</td><td>2013 B</td><td>20. März</td><td>2014</td></tr>
 <tr><td>Korea (Süd-)</td><td>19. Dezember</td><td>2011 B</td><td>19. März</td><td>2012</td></tr>
 <tr><td>Kroatien</td><td>26. Juli</td><td>1993 N</td><td>8. Oktober</td><td>1991</td></tr>
 <tr><td>Marokko</td><td>31. März</td><td>1983</td><td>30. Juni</td><td>1983</td></tr>
-<tr><td>Mazedonien</td><td>2. September</td><td>1997 N</td><td>17. November</td><td>1991</td></tr>
 <tr><td>Mexiko</td><td>18. März</td><td>1976</td><td>25. August</td><td>1979</td></tr>
 <tr><td>Moldau</td><td>28. Juli</td><td>2008 B</td><td>28. Oktober</td><td>2008</td></tr>
 <tr><td>Montenegro</td><td>23. Oktober</td><td>2006 N</td><td>3. Juni</td><td>2006</td></tr>
 <tr><td>Nicaragua</td><td>1. Dezember</td><td>1975 B</td><td>25. August</td><td>1979</td></tr>
+<tr><td>Nordmazedonien</td><td>2. September</td><td>1997 N</td><td>17. November</td><td>1991</td></tr>
 <tr><td>Oman</td><td>18. Dezember</td><td>2007 B</td><td>18. März</td><td>2008</td></tr>
 <tr><td>Österreich</td><td>6. Mai</td><td>1982</td><td>6. August</td><td>1982</td></tr>
 <tr><td>Panama</td><td>25. Juni</td><td>1985 B</td><td>25. September</td><td>1985</td></tr>
@@ -180,7 +182,7 @@ Geltungsbereich am 31. Mai 2017**[^t-3]**
 <tr><td>Vereinigte Staaten</td><td>7. Dezember</td><td>1984</td><td>7. März</td><td>1985</td></tr>
 <tr><td>Vietnam</td><td>12. Oktober</td><td>2005 B</td><td>12. Januar</td><td>2006</td></tr>
 <tr><td colspan="5">\* Vorbehalte und Erklärungen siehe hiernach.</td></tr>
-<tr><td colspan="5">Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht, mit Ausnahme derjenigen der Schweiz. Die französischen und englischen Texte können auf der Internetseite der Weltorganisation für geistiges Eigentum: http://www.wipo.int/treaties/fr/ eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
+<tr><td colspan="5">Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht, mit Ausnahme derjenigen der Schweiz. Die französischen und englischen Texte können auf der Internetseite der Weltorganisation für geistiges Eigentum: [www.wipo.int/treaties/fr/](http://www.wipo.int/treaties/fr/) eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
 </table>
 
-[^t-3]: [AS 1993 2725](https://fedlex.data.admin.ch/eli/oc/1993/2725_2725_2725), [2004 1129](https://fedlex.data.admin.ch/eli/oc/2004/130), [2008 3701](https://fedlex.data.admin.ch/eli/oc/2008/488), [2011 523](https://fedlex.data.admin.ch/eli/oc/2011/76), [2014 451](https://fedlex.data.admin.ch/eli/oc/2014/75)und [2017 3379](https://fedlex.data.admin.ch/eli/oc/2017/365). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+[^t-3]: [AS 1993 2725](https://fedlex.data.admin.ch/eli/oc/1993/2725_2725_2725); [2004 1129](https://fedlex.data.admin.ch/eli/oc/2004/130); [2008 3701](https://fedlex.data.admin.ch/eli/oc/2008/488); [2011 523](https://fedlex.data.admin.ch/eli/oc/2011/76); [2014 451](https://fedlex.data.admin.ch/eli/oc/2014/75); [2017 3379](https://fedlex.data.admin.ch/eli/oc/2017/365); [2026 286](https://fedlex.data.admin.ch/eli/oc/2026/286). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
