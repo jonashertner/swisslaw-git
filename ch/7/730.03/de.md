@@ -4,11 +4,11 @@ title: "Verordnung vom 1. November 2017 über die Förderung der Produktion von 
 short: EnFV
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/766"
 language: de
-version: 2026-01-01
+version: 2026-06-02
 adopted: 2017-11-01
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20260101/de/xml/fedlex-data-admin-ch-eli-cc-2017-766-20260101-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/766/20260101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20260602/de/xml/fedlex-data-admin-ch-eli-cc-2017-766-20260602-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/766/20260602/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/766/20260101/de"
 
 (Energieförderungsverordnung, EnFV)
 
-vom 1. November 2017 (Stand am 1. Januar 2026)
+vom 1. November 2017 (Stand am 2. Juni 2026)
 
 Der Schweizerische Bundesrat,
 
@@ -253,7 +253,7 @@ Am Einspeisevergütungssystem können nur grosse Photovoltaikanlagen teilnehmen.
 
 <sup>4</sup> Die Einspeiseprämie reduziert sich bei Betreibern, die nach den Artikeln 10–13 des Mehrwertsteuergesetzes vom 12. Juni 2009[^16-1] (MWSTG) steuerpflichtig sind, um den Faktor, der gestützt auf den jeweils gültigen Normalsatzes nach Artikel 25 Absatz 1 MWSTG, gerundet auf vier Nachkommastellen, wie folgt berechnet wird:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20260101/de/xml/image/image1.png).[^16-2]
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20260602/de/xml/image/image1.png).[^16-2]
 
 [^16-1]: [SR 641.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8079)
 [^16-2]: Eingefügt durch Ziff. I der V vom 27. Febr. 2019 ([AS 2019 923](https://fedlex.data.admin.ch/eli/oc/2019/165)). Fassung gemäss Ziff. I der V vom 29. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 764](https://fedlex.data.admin.ch/eli/oc/2023/764)).
@@ -1554,11 +1554,12 @@ Die Vollzugsstelle widerruft die Zusicherung nach Artikel 44 und weist das Gesuc
 
 **Berechnung des spezifischen Winterstromertrags und Auszahlung des Winterstrombonus**[^46a-1]
 
-<sup>1</sup> Wurde die Baukostenabrechnung nach Artikel 45 Absatz 5 eingereicht, berechnet die Vollzugsstelle nach dem dritten vollen Winterhalbjahr den durchschnittlichen spezifischen Winterstromertrag.
+<sup>1</sup> Wurde die Baukostenabrechnung nach Artikel 45 Absatz 5 eingereicht, berechnet die Vollzugsstelle nach dem dritten vollen Winterhalbjahr den durchschnittlichen spezifischen Winterstromertrag.[^46a-2]
 
 <sup>2</sup> Die Vollzugsstelle berechnet gestützt auf den durchschnittlichen spezifischen Winterstromertrag den Winterstrombonus und zahlt diesen dem Betreiber aus.
 
 [^46a-1]: Eingefügt durch Ziff. I der V vom 26. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 830](https://fedlex.data.admin.ch/eli/oc/2025/830)).
+[^46a-2]: Die Berichtigung vom 2. Juni 2026 betrifft nur den italienischen Text ([AS 2026 273](https://fedlex.data.admin.ch/eli/oc/2026/273)).
 
 ### 5. Abschnitt: Auktionen für die Einmalvergütung
 
@@ -3297,7 +3298,7 @@ Anhang 1.1[^t-1]
 - 2\.4.1 Beträgt der Anteil des nach dem Stand der Technik realisierten Wasserbaus, einschliesslich der Druckleitungen, weniger als 20 Prozent der gesamten Investitionskosten des Projekts, so entfällt der Anspruch auf den Wasserbau-Bonus. Beträgt er mehr als 50 Prozent, so besteht Anspruch auf den vollen Bonus. Zwischen 20 Prozent und 50 Prozent wird er gemäss der unten stehenden Grafik linear interpoliert. Massnahmen nach Artikel 83*a* GSchG[^annex11-lvlu1-lvl2-1] oder nach Artikel 10 BGF[^annex11-lvlu1-lvl2-2] sind für den Bonus nicht anrechenbar.
 - 2\.4.2 Dotierkraftwerke haben keinen Anspruch auf den Wasserbau-Bonus. Nebennutzungsanlagen mit einer Leistung von mehr als 100 kW haben nur bis zur äquivalenten Leistung von 100 kW Anspruch auf den Wasserbau-Bonus.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20260101/de/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20260602/de/xml/image/image2.png)
 
 - 2\.4.3 Der Satz für den Wasserbau-Bonus beträgt ab 1. Januar 2013 je Leistungsklasse:
 
@@ -3643,7 +3644,7 @@ Anhang 1.4[^t-4]
 
 - 3\.1 Geothermieanlagen müssen spätestens ab Beginn des dritten vollen Kalenderjahres nach der Inbetriebnahme einen minimalen Gesamtnutzungsgrad respektive Elektrizitätsnutzungsgrad gemäss folgendem Diagramm aufweisen:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20260101/de/xml/image/image3.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20260602/de/xml/image/image3.png)
 
 - 3\.2 Die für die Bestimmung des Gesamtnutzungsgrads relevante Beurteilungsperiode ist das ganze Kalenderjahr; der Gesamtnutzungsgrad bezieht sich auf die jährliche Energie am Bohrlochkopf mit:
 - Nutzungsgrad Wärme = genutzte Wärme dividiert durch Energie am Bohrlochkopf
@@ -3767,7 +3768,7 @@ Anhang 1.5[^t-5]
 - 2\.2.2 Die Beurteilungsperiode für die energetischen Mindestanforderungen ist das ganze Kalenderjahr.
 - 2\.2.3 Dampfprozesse, insbesondere Organic-Rankine-Cycle, Dampfturbinen und Dampfmotoren müssen einen minimalen Gesamtenergienutzungsgrad gemäss folgendem Diagramm erreichen:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20260101/de/xml/image/image4.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20260602/de/xml/image/image4.png)
 
 - Für die Berechnung des Gesamtnutzungsgrades wird der untere Heizwert H<sub>u</sub> des eingesetzten Brennstoffs verwendet.
 - Berechnung:
@@ -3780,14 +3781,16 @@ Anhang 1.5[^t-5]
   - a. elektrischer Wirkungsgrad:
   - Das WKK-Modul muss einen minimalen elektrischen Wirkungsgrad gemäss folgendem Diagramm erreichen:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20260101/de/xml/image/image5.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20260602/de/xml/image/image5.png)
 
-- b.
+-
 
-  Wärmenutzung:
+  - b.
 
-  - 1\. Anlagen, die den Landwirtschaftsbonus nach Ziffer 3.4 beanspruchen können, müssen nur den Wärmebedarf der Energieanlage (z. B. Fermenterheizung) durch Wärmenutzung der WKK-Anlage oder durch den Einsatz von erneuerbaren Energien decken.
-  - 2\. Bei den übrigen Anlagen muss der Anteil der extern, d. h. ohne Eigenverbrauch der Energieanlage, genutzten Wärme mindestens 40 Prozent der Brutto-Wärmeproduktion betragen.
+    Wärmenutzung:
+
+    - 1\. Anlagen, die den Landwirtschaftsbonus nach Ziffer 3.4 beanspruchen können, müssen nur den Wärmebedarf der Energieanlage (z. B. Fermenterheizung) durch Wärmenutzung der WKK-Anlage oder durch den Einsatz von erneuerbaren Energien decken.
+    - 2\. Bei den übrigen Anlagen muss der Anteil der extern, d. h. ohne Eigenverbrauch der Energieanlage, genutzten Wärme mindestens 40 Prozent der Brutto-Wärmeproduktion betragen.
 
 - 2\.3 Ökologische Mindestanforderungen
 - 2\.3.1 Die Beurteilungsperiode für die ökologischen Mindestanforderungen beträgt drei Monate.

@@ -4,11 +4,11 @@ title: "Ordinanza del 1° novembre 2017 sulla promozione della produzione di ele
 short: OPEn
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/766"
 language: it
-version: 2026-01-01
+version: 2026-06-02
 adopted: 2017-11-01
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20260101/it/xml/fedlex-data-admin-ch-eli-cc-2017-766-20260101-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/766/20260101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20260602/it/xml/fedlex-data-admin-ch-eli-cc-2017-766-20260602-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/766/20260602/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/766/20260101/it"
 
 (Ordinanza sulla promozione dell’energia, OPEn)
 
-del 1° novembre 2017 (Stato 1° gennaio 2026)
+del 1° novembre 2017 (Stato 2 giugno 2026)
 
 Il Consiglio federale svizzero,
 
@@ -253,7 +253,7 @@ Al sistema di rimunerazione per l’immissione di elettricità possono partecipa
 
 <sup>4</sup> Per i gestori di impianti assoggettati all’imposta secondo gli articoli 10–13 della legge del 12 giugno 2009[^16-1] sull’IVA (LIVA), il premio per l’immissione in rete si riduce del fattore calcolato come segue, in base all’aliquota normale vigente secondo l’articolo 25 capoverso 1 LIVA e arrotondato alla quarta cifra decimale:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20260101/it/xml/image/image1.png).[^16-2]
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20260602/it/xml/image/image1.png).[^16-2]
 
 [^16-1]: [RS 641.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8079)
 [^16-2]: Introdotto dalla cifra I dell’O del 27 feb. 2019 ([RU 2019 923](https://fedlex.data.admin.ch/eli/oc/2019/165)). Nuovo testo giusta la cifra I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 764](https://fedlex.data.admin.ch/eli/oc/2023/764)).
@@ -1555,11 +1555,12 @@ L’organo d’esecuzione revoca la garanzia di cui all’articolo 44 e respinge
 
 **Calcolo della resa elettrica invernale specifica e versamento del bonus per la produzione elettrica invernale**[^46a-1]
 
-<sup>1</sup> Se è stato presentato il conteggio dei costi di costruzione conformemente all’articolo 45 capoverso 5, dopo il terzo trimestre invernale completo l’organo d’esecuzione calcola la resa elettrica invernale specifica media.
+<sup>1</sup> Se è stato presentato il conteggio dei costi di costruzione conformemente all’articolo 45 capoverso 5, dopo il terzo semestre invernale completo l’organo d’esecuzione calcola la resa elettrica invernale specifica media.[^46a-2]
 
 <sup>2</sup> Sulla base della resa elettrica invernale specifica media, l’organo d’esecuzione calcola il bonus per la produzione elettrica invernale e lo versa al gestore.
 
 [^46a-1]: Introdotto dalla cifra I dell’O del 26 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 830](https://fedlex.data.admin.ch/eli/oc/2025/830)).
+[^46a-2]: Correzione del 2 giu. 2026 ([RU 2026 273](https://fedlex.data.admin.ch/eli/oc/2026/273)).
 
 ### Sezione 5**:** **Aste per la rimunerazione unica**
 
@@ -1624,11 +1625,12 @@ Esso rilascia un’aggiudicazione per le offerte:
 
 **Calcolo della resa elettrica invernale specifica e versamento del bonus per la produzione elettrica invernale**[^46dbis-1]
 
-<sup>1</sup> Se è stato presentato il conteggio dei costi di costruzione conformemente all’articolo 46*d* capoverso 5, dopo il terzo trimestre invernale completo l’organo d’esecuzione calcola la resa elettrica invernale specifica media.
+<sup>1</sup> Se è stato presentato il conteggio dei costi di costruzione conformemente all’articolo 46*d* capoverso 5, dopo il terzo semestre invernale completo l’organo d’esecuzione calcola la resa elettrica invernale specifica media.[^46dbis-2]
 
 <sup>2</sup> Sulla base della resa elettrica invernale specifica media, l’organo d’esecuzione calcola il bonus per la produzione elettrica invernale e lo versa al gestore.
 
 [^46dbis-1]: Introdotto dalla cifra I dell’O del 26 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 830](https://fedlex.data.admin.ch/eli/oc/2025/830)).
+[^46dbis-2]: Correzione del 2 giu. 2026 ([RU 2026 273](https://fedlex.data.admin.ch/eli/oc/2026/273)).
 
 #### Art. 46e
 
@@ -3297,7 +3299,7 @@ Allegato 1.1[^t-1]
 - 2\.4.1 Se la quota destinata alla realizzazione delle opere idrauliche secondo lo stato della tecnica, condotte forzate incluse, è inferiore al 20 per cento dei costi di investimento complessivi del progetto, il diritto al bonus per le opere idrauliche decade. Se tale quota è superiore al 50 per cento, si ha diritto al bonus completo. Per i valori compresi fra il 20 e il 50 per cento viene effettuata un’interpolazione lineare secondo il seguente grafico. Le misure di cui all’articolo 83*a* LPAC[^annex11-lvlu1-lvl2-1] o all’articolo 10 LFSP[^annex11-lvlu1-lvl2-2] non sono computabili ai fini del bonus.
 - 2\.4.2 Le centrali con utilizzo di acqua di dotazione non hanno diritto al bonus per le opere idrauliche. Gli impianti accessori con una potenza superiore a 100 kW hanno diritto al bonus per le opere idrauliche solo fino alla potenza equivalente di 100 kW.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20260101/it/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20260602/it/xml/image/image2.png)
 
 - 2\.4.3 Il tasso per il bonus per le opere idrauliche secondo le classi di potenza ammonta dopo il 1° gennaio 2013 a:
 
@@ -3645,7 +3647,7 @@ Allegato 1.4[^t-4]
 
 - 3\.1 Gli impianti geotermici devono presentare, al più tardi dall’inizio del terzo anno civile completo dopo la messa in esercizio, un coefficiente di sfruttamento globale minimo secondo il diagramma seguente:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20260101/it/xml/image/image3.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20260602/it/xml/image/image3.png)
 
 - 3\.2 Il periodo di valutazione rilevante per la determinazione del coefficiente di sfruttamento globale è un anno civile completo; il coefficiente di sfruttamento globale si riferisce all’energia annua misurata alla testa del pozzo con:
 - coefficiente di sfruttamento del calore = calore sfruttato diviso per energia misurata alla testa del pozzo
@@ -3769,7 +3771,7 @@ Allegato 1.5[^t-5]
 - 2\.2.2 Il periodo di valutazione per i requisiti energetici minimi è l’anno civile completo.
 - 2\.2.3 I cicli del vapore, in particolare il ciclo Rankine organico, le turbine a vapore e i motori a vapore, devono raggiungere un coefficiente di sfruttamento energetico globale minimo secondo il diagramma seguente:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20260101/it/xml/image/image4.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20260602/it/xml/image/image4.png)
 
 - Per il calcolo del coefficiente di sfruttamento globale si utilizza il potere calorifico inferiore H<sub>u</sub> del combustibile impiegato.
 - Calcolo del coefficiente di sfruttamento elettrico = la produzione di energia elettrica divisa per la quantità di energia immessa nell’impianto a combustione.
@@ -3781,14 +3783,16 @@ Allegato 1.5[^t-5]
   - a. rendimento elettrico:
   - il modulo di cogenerazione deve raggiungere un rendimento elettrico minimo conformemente al seguente diagramma:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20260101/it/xml/image/image5.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20260602/it/xml/image/image5.png)
 
-- b.
+-
 
-  sfruttamento del calore:
+  - b.
 
-  - 1\. gli impianti per i quali è possibile beneficiare del bonus agricolo secondo il numero 3.4 devono coprire soltanto il fabbisogno di calore dell’impianto di produzione di energia (p. es. riscaldamento del fermentatore) utilizzando il calore residuo dell’impianto di cogenerazione o altre energie rinnovabili;
-  - 2\. nel caso degli altri impianti, la quota di calore utilizzato esternamente, cioè escludendo quello utilizzato dall’impianto stesso, deve ammontare almeno al 40 per cento della produzione lorda di calore.
+    sfruttamento del calore:
+
+    - 1\. gli impianti per i quali è possibile beneficiare del bonus agricolo secondo il numero 3.4 devono coprire soltanto il fabbisogno di calore dell’impianto di produzione di energia (p. es. riscaldamento del fermentatore) utilizzando il calore residuo dell’impianto di cogenerazione o altre energie rinnovabili;
+    - 2\. nel caso degli altri impianti, la quota di calore utilizzato esternamente, cioè escludendo quello utilizzato dall’impianto stesso, deve ammontare almeno al 40 per cento della produzione lorda di calore.
 
 - 2\.3 Requisiti ecologici minimi
 - 2\.3.1 Il periodo di valutazione per i requisiti ecologici minimi è di tre mesi.
