@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Messagio concernente la promozione della oiazza economica negli anni 2028–2031
 document: Progetto posto in consultazione-5
 language: it

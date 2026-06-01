@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Message sur la promotion économique pour les années 2028 à 2031
 document: Projet mis en consultation-3
 language: fr

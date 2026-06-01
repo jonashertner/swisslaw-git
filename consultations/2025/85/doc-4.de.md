@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Botschaft Standortförderung 2028–2031
 document: Vernehmlassungsvorlage-5
 language: de
