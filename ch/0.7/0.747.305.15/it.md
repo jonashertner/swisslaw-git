@@ -3,11 +3,11 @@ sr: "0.747.305.15"
 title: Convenzione delle Nazioni Unite del 10 dicembre 1982 sul diritto del mare (con allegati)
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/416"
 language: it
-version: 2024-06-13
+version: 2026-06-03
 adopted: 1982-12-10
 in_force: 2009-05-31
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/416/20240613/it/xml/fedlex-data-admin-ch-eli-cc-2009-416-20240613-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/416/20240613/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/416/20260603/it/xml/fedlex-data-admin-ch-eli-cc-2009-416-20260603-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/416/20260603/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -20,7 +20,7 @@ Traduzione
 
 Conclusa a Montego Bay il 10 dicembre 1982 Approvata dall’Assemblea federale il 19 dicembre 2008[^t-1] Strumento di ratifica depositato dalla Svizzera il 1° maggio 2009 Entrata in vigore per la Svizzera il 31 maggio 2009
 
-(Stato 13 giugno 2024)
+(Stato 3 giugno 2026)
 
 [^t-1]: Art. 1 cpv. 1 del DF del 19 dic. 2008 ([RU 2009 3207](https://fedlex.data.admin.ch/eli/oc/2009/415)).
 
@@ -44,7 +44,7 @@ affermando che le questioni non disciplinate dalla presente Convenzione continua
 
 hanno convenuto quanto segue:
 
-[^ingress-1]: [RS 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
+[^ingress-1]: [RS 0.120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/41)
 
 ## Parte I: Introduzione
 
@@ -924,7 +924,7 @@ Le disposizioni degli articoli 69 e 70 non si applicano nel caso di uno Stato co
 
 <sup>4.</sup> Laddove esiste un accordo in vigore tra gli Stati interessati, la delimitazione della zona economica esclusiva viene determinata conformemente alle clausole di tale accordo.
 
-[^74-1]: [RS 0.193.501](https://fedlex.data.admin.ch/eli/cc/1948/1048_1037_1010)
+[^74-1]: [RS 0.193.501](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/809)
 
 #### Art. 75
 
@@ -1037,7 +1037,7 @@ Lo Stato costiero ha il diritto esclusivo di autorizzare e regolamentare le perf
 
 <sup>4.</sup> Quando un accordo è in vigore tra gli Stati interessati, i problemi relativi alla delimitazione della piattaforma continentale vengono risolti conformemente alle disposizioni da esso previste.
 
-[^83-1]: [RS 0.193.501](https://fedlex.data.admin.ch/eli/cc/1948/1048_1037_1010)
+[^83-1]: [RS 0.193.501](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/809)
 
 #### Art. 84
 
@@ -3516,7 +3516,7 @@ L’articolo 309 non vieta ad uno Stato, nel momento in cui firma, ratifica od a
 
 <sup>6.</sup> Gli Stati contraenti convengono che nessuna modifica deve essere portata al principio fondamentale relativo al patrimonio comune dell’umanità enunciato dall’articolo 136 e che essi non diverranno contraenti di alcun accordo che deroghi a detto principio.
 
-[^311-1]: [RS 0.747.305.11](https://fedlex.data.admin.ch/eli/cc/1966/977_1003_995)**, [0.747.305.12](https://fedlex.data.admin.ch/eli/cc/1966/986_1013_1004), [0.747.305.13](https://fedlex.data.admin.ch/eli/cc/1966/1003_1031_1020),** [0.747.305.14](https://fedlex.data.admin.ch/eli/cc/1966/1007_1036_1024)
+[^311-1]: [RS 0.747.305.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3062)**, [0.747.305.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3063), [0.747.305.13](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3064),** [0.747.305.14](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3065)
 
 #### Art. 312
 
@@ -5102,7 +5102,7 @@ La Parte XVII si applica *mutatis mutandis* alle organizzazioni internazionali s
 - c) i) una organizzazione internazionale non può denunciare la presente Convenzione conformemente all’articolo 317 se qualcuno dei suoi Stati membri è uno Stato contraente e se essa continua a rispondere ai requisiti specificati nell’articolo 1 del presente allegato;
   - ii) una organizzazione internazionale deve denunciare la presente Convenzione quando nessuno dei suoi Stati membri è Stato contraente o se l’organizzazione internazionale cessa di rispondere alle condizioni previste dall’articolo 1 del presente allegato. La denuncia ha effetto immediatamente.
 
-Campo d’applicazione il 13 giugno 2024[^t-2]
+Campo d’applicazione il 3 giugno 2026[^t-2]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A) Dichiarazione di successione (S)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -5131,6 +5131,7 @@ Campo d’applicazione il 13 giugno 2024[^t-2]
 <tr><td>Brunei</td><td>5 novembre</td><td>1996</td><td>5 dicembre</td><td>1996</td></tr>
 <tr><td>Bulgaria<sup>\* \*\*</sup></td><td>15 maggio</td><td>1996</td><td>14 giugno</td><td>1996</td></tr>
 <tr><td>Burkina Faso</td><td>25 gennaio</td><td>2005</td><td>24 febbraio</td><td>2005</td></tr>
+<tr><td>Cambogia\*</td><td>6 febbraio</td><td>2026</td><td>8 marzo</td><td>2026</td></tr>
 <tr><td>Camerun</td><td>19 novembre</td><td>1985</td><td>16 novembre</td><td>1994</td></tr>
 <tr><td>Canada<sup>\*</sup></td><td>7 novembre</td><td>2003</td><td>7 dicembre</td><td>2003</td></tr>
 <tr><td>Capo Verde<sup>\*</sup></td><td>10 agosto</td><td>1987</td><td>16 novembre</td><td>1994</td></tr>
@@ -5183,6 +5184,7 @@ Campo d’applicazione il 13 giugno 2024[^t-2]
 <tr><td>Islanda<sup>\*</sup></td><td>21 giugno</td><td>1985</td><td>16 novembre</td><td>1994</td></tr>
 <tr><td>Italia<sup>\* \*\*</sup></td><td>13 gennaio</td><td>1995</td><td>12 febbraio</td><td>1995</td></tr>
 <tr><td>Kenya<sup>\*</sup></td><td>2 marzo</td><td>1989</td><td>16 novembre</td><td>1994</td></tr>
+<tr><td>Kirghizistan</td><td>20 settembre</td><td>2025 A</td><td>20 ottobre</td><td>2025</td></tr>
 <tr><td>Kiribati<sup>\*</sup></td><td>24 febbraio</td><td>2003 A</td><td>26 marzo</td><td>2003</td></tr>
 <tr><td>Kuwait</td><td>2 maggio</td><td>1986</td><td>16 novembre</td><td>1994</td></tr>
 <tr><td>Laos</td><td>5 giugno</td><td>1998</td><td>5 luglio</td><td>1998</td></tr>
@@ -5259,9 +5261,10 @@ Campo d’applicazione il 13 giugno 2024[^t-2]
 <tr><td>Saint Vincent e Grenadine<sup>\*</sup></td><td>1° ottobre</td><td>1993</td><td>16 novembre</td><td>1994</td></tr>
 <tr><td>Salomone, Isole</td><td>23 giugno</td><td>1997</td><td>23 luglio</td><td>1997</td></tr>
 <tr><td>Samoa</td><td>14 agosto</td><td>1995</td><td>13 settembre</td><td>1995</td></tr>
+<tr><td>San Marino</td><td>19 luglio</td><td>2024 A</td><td>18 agosto</td><td>2024</td></tr>
 <tr><td>Santa Lucia</td><td>27 marzo</td><td>1985</td><td>16 novembre</td><td>1994</td></tr>
 <tr><td>Sao Tomé e Principe<sup>\*</sup></td><td>3 novembre</td><td>1987</td><td>16 novembre</td><td>1994</td></tr>
-<tr><td>Seicelle</td><td>16 settembre</td><td>1991</td><td>16 novembre</td><td>1994</td></tr>
+<tr><td>Seychelles\*</td><td>16 settembre</td><td>1991</td><td>16 novembre</td><td>1994</td></tr>
 <tr><td>Senegal</td><td>25 ottobre</td><td>1984</td><td>16 novembre</td><td>1994</td></tr>
 <tr><td>Serbia<sup>\*</sup></td><td>12 marzo</td><td>2001 S</td><td>27 aprile</td><td>1992</td></tr>
 <tr><td>Sierra Leone</td><td>12 dicembre</td><td>1994</td><td>11 gennaio</td><td>1995</td></tr>
@@ -5295,10 +5298,10 @@ Campo d’applicazione il 13 giugno 2024[^t-2]
 <tr><td>Zambia</td><td>7 marzo</td><td>1983</td><td>16 novembre</td><td>1994</td></tr>
 <tr><td>Zimbabwe</td><td>24 febbraio</td><td>1993</td><td>16 novembre</td><td>1994</td></tr>
 <tr><td colspan="5">\* Riserve e dichiarazioni.</td></tr>
-<tr><td colspan="5">\*\* Obiezioni. Le riserve, dichiarazioni ed obiezioni, non sono pubblicate nella RU, eccetto quelle della Svizzera. Il testo, in francese e inglese, può essere consultato sul sito Internet dell’Organizzazione delle Nazioni Unite (ONU): [http://treaties.un.org](http://treaties.un.org) oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
+<tr><td colspan="5">\*\* Obiezioni. Le riserve, dichiarazioni ed obiezioni, non sono pubblicate nella RU, eccetto quelle della Svizzera. Il testo, in francese e inglese, può essere consultato sul sito Internet dell’Organizzazione delle Nazioni Unite (ONU): [https://treaties.un.org/](https://treaties.un.org/) oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
 </table>
 
-[^t-2]: [RU 2009 3209](https://fedlex.data.admin.ch/eli/oc/2009/416); [2011 4625](https://fedlex.data.admin.ch/eli/oc/2011/662); [2014 129](https://fedlex.data.admin.ch/eli/oc/2014/16); [2016 621](https://fedlex.data.admin.ch/eli/oc/2016/117); [2018 1261](https://fedlex.data.admin.ch/eli/oc/2018/207); [2020 3391](https://fedlex.data.admin.ch/eli/oc/2020/582); [2024 307](https://fedlex.data.admin.ch/eli/oc/2024/307). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty)
+[^t-2]: [RU 2009 3209](https://fedlex.data.admin.ch/eli/oc/2009/416); [2011 4625](https://fedlex.data.admin.ch/eli/oc/2011/662); [2014 129](https://fedlex.data.admin.ch/eli/oc/2014/16); [2016 621](https://fedlex.data.admin.ch/eli/oc/2016/117); [2018 1261](https://fedlex.data.admin.ch/eli/oc/2018/207); [2020 3391](https://fedlex.data.admin.ch/eli/oc/2020/582); [2024 307](https://fedlex.data.admin.ch/eli/oc/2024/307); [2026 288](https://fedlex.data.admin.ch/eli/oc/2026/288). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty)
 
 Riserve e dichiarazioni
 
