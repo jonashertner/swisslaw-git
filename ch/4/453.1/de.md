@@ -3,11 +3,11 @@ sr: "453.1"
 title: Verordnung des EDI vom 4. September 2013 über die Kontrolle des Verkehrs mit Tieren und Pflanzen geschützter Arten (CITES-Kontrollverordnung)
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/602"
 language: de
-version: 2026-05-01
+version: 2026-06-03
 adopted: 2013-09-04
 in_force: 2013-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/602/20260501/de/xml/fedlex-data-admin-ch-eli-cc-2013-602-20260501-de-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/602/20260501/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/602/20260603/de/xml/fedlex-data-admin-ch-eli-cc-2013-602-20260603-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/602/20260603/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/602/20260501/de"
 
 (CITES-Kontrollverordnung)
 
-vom 4. September 2013 (Stand am 1. Mai 2026)
+vom 4. September 2013 (Stand am 3. Juni 2026)
 
 Das Eidgenössische Departement des Innern (EDI),
 
@@ -238,7 +238,7 @@ Anhang 1[^t-1]
 
 ## Liste der anzumeldenden Exemplare
 
-[^t-1]: Fassung gemäss Ziff. I der V des BLV vom 31. März 2026, in Kraft 1. Mai 2026, die Einträge «Hundshai (*Galeorhinus galeus*)», «Glatthaie (*Mustelus* spp.)», «Schlingerhaie (Centrophoridae spp.)» und «*Holothuria* [*Microthele*] *lessoni*» gelten ab dem 5. Juni 2027 ([AS 2026 148](https://fedlex.data.admin.ch/eli/oc/2026/148)).
+[^t-1]: Fassung gemäss Ziff. I der V des BLV vom 31. März 2026, in Kraft 1. Mai 2026, die Einträge «Hundshai (*Galeorhinus galeus*)», «Glatthaie (*Mustelus* spp.)», «Schlingerhaie (Centrophoridae spp.)» und «*Holothuria* [*Microthele*] *lessoni*» gelten ab dem 5. Juni 2027 ([AS 2026 148](https://fedlex.data.admin.ch/eli/oc/2026/148)). Die Berichtigung vom 3. Juni 2026 betrifft nur den italienischen Text ([AS 2026 276](https://fedlex.data.admin.ch/eli/oc/2026/276)).
 
 ### 1 Tiere sowie Teile und Erzeugnisse von Tieren
 

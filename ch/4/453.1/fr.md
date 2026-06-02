@@ -3,11 +3,11 @@ sr: "453.1"
 title: Ordonnance du DFI du 4 septembre 2013 sur le contrôle de la circulation des espèces de faune et de flore protégées (Ordonnance sur les contrôles CITES)
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/602"
 language: fr
-version: 2026-05-01
+version: 2026-06-03
 adopted: 2013-09-04
 in_force: 2013-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/602/20260501/fr/xml/fedlex-data-admin-ch-eli-cc-2013-602-20260501-fr-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/602/20260501/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/602/20260603/fr/xml/fedlex-data-admin-ch-eli-cc-2013-602-20260603-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/602/20260603/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/602/20260501/fr"
 
 (Ordonnance sur les contrôles CITES)
 
-du 4 septembre 2013 (État le 1<sup>er</sup> mai 2026)
+du 4 septembre 2013 (État le 3 juin 2026)
 
 Le Département fédéral de l’intérieur (DFI),
 
@@ -238,7 +238,7 @@ Annexe 1[^t-1]
 
 ## Liste des spécimens à déclarer
 
-[^t-1]: Nouvelle teneur selon le ch. I de l’O de l’OSAV du 31 mars 2026, en vigueur depuis le 1<sup>er</sup> mai. 2026, à l’exception des entrées «requin-hâ (*Galeorhinus galeus*)», «émissoles (*Mustelus* spp.)», «squales-chagrins (Centrophoridae spp.)» et «*Holothuria* [*Microthele*] *lessoni*», qui entrent en vigueur le 5 juin 2027 ([RO 2026 148](https://fedlex.data.admin.ch/eli/oc/2026/148)).
+[^t-1]: Nouvelle teneur selon le ch. I de l’O de l’OSAV du 31 mars 2026, en vigueur depuis le 1<sup>er</sup> mai. 2026, à l’exception des entrées «requin-hâ (*Galeorhinus galeus*)», «émissoles (*Mustelus* spp.)», «squales-chagrins (Centrophoridae spp.)» et «*Holothuria* [*Microthele*] *lessoni*», qui entrent en vigueur le 5 juin 2027 ([RO 2026 148](https://fedlex.data.admin.ch/eli/oc/2026/148)). Erratum du 3 juin 2026, ne concerne que le texte italien ([RO 2026 276](https://fedlex.data.admin.ch/eli/oc/2026/276)).
 
 ### 1 Animaux ainsi que parties et produits d’animaux
 
