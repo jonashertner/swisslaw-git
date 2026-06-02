@@ -4,7 +4,7 @@ number: "900.056.1"
 title: "RÈGLEMENT du 28.04.2021 sur le fonds de soutien à l'innovation (RF-Inno)"
 short: RF-Inno
 language: fr
-version: 2021-05-01
+version: 2026-06-03
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/900.056.1?id=11bb590f-2995-428a-aab5-0c7b2ef708e2"
 ---
 
@@ -172,7 +172,7 @@ arrête
 
 **Examen de la demande et fixation de l'aide [^10-1]**
 
-<sup>1</sup> L'aide à fonds perdus fait l'objet d'une décision annuelle ou d'une convention pluriannuelle portant sur une période d'au maximum 5 ans.
+<sup>1</sup> L'aide à fonds perdus fait l'objet d'une décision annuelle ou d'une convention pluriannuelle portant sur une période d'au maximum 5 ans. Elle peut être renouvelée, moyennant réexamen à chaque renouvellement.
 
 <sup>2</sup> Le montant de l'aide est forfaitaire.
 
@@ -235,7 +235,7 @@ arrête
 
 **Examen de la demande et fixation du montant de l'aide [^14-1]**
 
-<sup>1</sup> L'aide à fonds perdus est ponctuelle. Elle fait l'objet d'une décision annuelle et peut être renouvelée sur une période d'au maximum cinq ans.
+<sup>1</sup> L'aide à fonds perdus est ponctuelle. Elle fait l'objet d'une décision annuelle et peut être renouvelée, moyennant réexamen à chaque renouvellement.
 
 <sup>2</sup> L'aide à fonds perdus ne peut excéder 50% du coût total du projet. Les coûts externes (notamment études, mandats) et les coûts internes (notamment ressources humaines, matériel) sont pris en compte dans le calcul du coût total du projet.
 
