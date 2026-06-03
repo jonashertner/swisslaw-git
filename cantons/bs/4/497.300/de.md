@@ -3,13 +3,13 @@ canton: BS
 number: "497.300"
 title: Denkmalverzeichnis
 language: de
-version: 2026-01-15
-valid_until: 2026-06-03
-version_adopted: 2026-01-06
+version: 2026-06-04
+valid_until: 2026-07-08
+version_adopted: 2026-05-26
 adopted: 1981-06-23
 in_force: 1981-07-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/497.300"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6748/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6829/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +18,7 @@ pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6748/pdf_file"
 
 Denkmalschutz / Archäologische Forschung
 
-Vom 23. Juni 1981 (Stand 15. Januar 2026)
+Vom 23. Juni 1981 (Stand 4. Juni 2026)
 
 Der Regierungsrat des Kantons Basel-Stadt,
 
