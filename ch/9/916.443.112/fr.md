@@ -3,18 +3,18 @@ sr: "916.443.112"
 title: Ordonnance de l’OSAV du 17 juillet 2025 instituant des mesures contre la dermatose nodulaire contagieuse (lumpy skin disease)
 eli: "https://fedlex.data.admin.ch/eli/cc/2025/471"
 language: fr
-version: 2026-05-01
+version: 2026-06-05
 adopted: 2025-07-17
 in_force: 2025-07-18
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/471/20260501/fr/xml/fedlex-data-admin-ch-eli-cc-2025-471-20260501-fr-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2025/471/20260501/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/471/20260605/fr/xml/fedlex-data-admin-ch-eli-cc-2025-471-20260605-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2025/471/20260605/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance de l’OSAV instituant des mesures contre la dermatose nodulaire contagieuse (lumpy skin disease)
 
-du 17 juillet 2025 (État le 1<sup>er</sup> mai 2026)
+du 17 juillet 2025 (État le 5 juin 2026)
 
 L’Office fédéral de la sécurité alimentaire et des affaires vétérinaires (OSAV),
 
@@ -216,69 +216,65 @@ Les données sont enregistrées dans le système ASAN. Elles peuvent être saisi
 
 #### Art. 17
 
-**Trafic des animaux hors de la zone de vaccination**
+**Trafic des animaux hors et à l’intérieur la zone de vaccination**[^17-1]
 
 <sup>1</sup>
 
-Les animaux vivants des espèces réceptives peuvent être déplacés hors de la zone de vaccination:
+Les animaux vivants des espèces réceptives peuvent être déplacés hors et à l’intérieur de la zone de vaccination si les conditions suivantes sont réunies:
 
-- a.[^17-1] s’ils sont vaccinés depuis au moins 28 jours;
-- b.[^17-2] si tous les autres animaux du même troupeau sont vaccinés depuis au moins 28 jours;
-- c. si tous les autres animaux du même troupeau ont été soumis à un examen clinique et, le cas échéant, à un examen de laboratoire dont le résultat est négatif, et
-- d.[^17-3] si les animaux ont été détenus dans leur exploitation d’origine depuis leur naissance ou pendant une période ininterrompue d’au moins 28 jours avant la date du déplacement;
-- e.[^17-4] …
+- a. tous les animaux des espèces réceptives détenus dans l’exploitation de provenance ont été soumis à un examen clinique;
+- b. les animaux déplacés sont vaccinés depuis au moins 28 jours.
 
-<sup>2</sup> Ne sont pas concernés par l’al. 1 les animaux directement menés à l’abattage sur autorisation du vétérinaire cantonal.
+<sup>2</sup> Lorsque la vaccination de tous les animaux des espèces réceptives a été menée à bien dans la zone de vaccination conformément au plan de vaccination, les animaux non immunisés peuvent, en dérogation à l’al. 1, let. b, aussi être déplacés s’ils ont été soumis à un test de dépistage du virus ou de recherche d’anticorps dont le résultat s’est révélé négatif.
 
-[^17-1]: Erratum du 18 août 2025 ([RO 2025 512](https://fedlex.data.admin.ch/eli/oc/2025/512)).
-[^17-2]: Erratum du 18 août 2025 ([RO 2025 512](https://fedlex.data.admin.ch/eli/oc/2025/512)).
-[^17-3]: Nouvelle teneur selon le ch. I de l’O de l’OSAV du 22 oct. 2025, en vigueur depuis le 24 oct. 2025 ([RO 2025 637](https://fedlex.data.admin.ch/eli/oc/2025/637)).
-[^17-4]: Abrogée par le ch. I de l’O de l’OSAV du 11 mars 2026, avec effet au 1<sup>er</sup> mai 2026 ([RO 2026 116](https://fedlex.data.admin.ch/eli/oc/2026/116)).
+<sup>3</sup> Les veaux des espèces réceptives peuvent être déplacés hors et à l’intérieur de la zone de vaccination après un examen clinique s’ils se trouvent dans la période d’immunité conférée par les anticorps maternels.
+
+<sup>4</sup> Sur autorisation du vétérinaire cantonal, des animaux peuvent être transportés directement à l’abattage même s’ils ne remplissent pas les conditions fixées aux al. 1 à 3.
+
+[^17-1]: Nouvelle teneur selon le ch. I de l’O de l’OSAV du 3 juin 2026, en vigueur depuis le 5 juin 2026 ([RO 2026 279](https://fedlex.data.admin.ch/eli/oc/2026/279)).
 
 #### Art. 18
 
-**Trafic des animaux à l’intérieur de la zone de vaccination**
+[^18-1]
 
-Les animaux vivants des espèces réceptives peuvent être déplacés à l’intérieur ou entre des zones de vaccination:
-
-- a.[^18-1] s’ils sont vaccinés depuis au moins 28 jours, et
-- b.[^18-2] si tous les autres animaux du même troupeau sont vaccinés depuis au moins 28 jours.
-
-[^18-1]: Erratum du 18 août 2025 ([RO 2025 512](https://fedlex.data.admin.ch/eli/oc/2025/512)).
-[^18-2]: Erratum du 18 août 2025 ([RO 2025 512](https://fedlex.data.admin.ch/eli/oc/2025/512)).
+[^18-1]: Abrogé par le ch. I de l’O de l’OSAV du 3 juin 2026, avec effet au 5 juin 2026 ([RO 2026 279](https://fedlex.data.admin.ch/eli/oc/2026/279)).
 
 #### Art. 19
 
-**Expédition de sperme, d’ovules et d’embryons**
+**Expédition de sperme, d’ovules et d’embryons**[^19-1]
 
-<sup>1</sup> Le sperme, les ovules et les embryons provenant de la zone de vaccination ne peuvent être expédiés qu’à l’intérieur de la même zone et vers d’autres zones de vaccination.
+Le sperme, les ovules et les embryons provenant de la zone de vaccination peuvent être expédiés si les animaux donneurs ne présentent aucun symptôme clinique 28 jours avant la date de la collecte et pendant toute la période de collecte. Les animaux donneurs doivent en outre remplir l’une des conditions suivantes:
 
-<sup>2</sup> L’exportation vers la zone de vaccination d’un autre pays est interdite.
+- a.[^19-2] ils ont été vaccinés au moins 28 jours avant la date d’expédition et se trouvent, à cette date, encore dans la période d’immunité;
+- b.
+
+  ils ont été soumis à un examen sérologique de recherche d’anticorps effectué sur des échantillons de sang dont le résultat s’est révélé négatif:
+
+  - 1\. pour l’expédition de sperme: le premier jour de la collecte et au moins 28 jours après la période de collecte,
+  - 2\. pour l’expédition d’embryons et d’ovules: le jour de la collecte.
+
+[^19-1]: Nouvelle teneur selon le ch. I de l’O de l’OSAV du 3 juin 2026, en vigueur depuis le 5 juin 2026 ([RO 2026 279](https://fedlex.data.admin.ch/eli/oc/2026/279)).
+[^19-2]: Erratum du 4 juin 2026 ([RO 2026 280](https://fedlex.data.admin.ch/eli/oc/2026/280)).
 
 #### Art. 20
 
-**Expédition de sous-produits animaux, de colostrum, de lait et de produits laitiers**
+**Expédition de peaux**[^20-1]
 
-<sup>1</sup> Les sous-produits animaux non transformés peuvent être expédiés en Suisse à destination des établissements désignés par le vétérinaire cantonal, pour autant qu’ils le soient sous la surveillance officielle des autorités compétentes et en vue de leur transformation ou de leur élimination dans une installation soumise à autorisation visée à l’annexe 1*b* OSPA[^20-1]. Sont exceptées les peaux non transformées.
+<sup>1</sup> Les peaux non transformées peuvent être transportées hors de la zone de vaccination si elles ont été soumises à un traitement thermique en récipient hermétique de manière à obtenir une valeur F0 minimale de 3.
 
-<sup>2</sup> Les peaux non transformées peuvent être transportées uniquement vers un établissement situé dans la zone de vaccination, pour autant qu’elles soient expédiées sous la surveillance officielle des autorités compétentes et en vue de leur transformation ou de leur élimination dans une installation soumise à autorisation visée à l’annexe 1*b* OSPA.
+<sup>2</sup> Les peaux d’un animal respectant les conditions fixées à l’art. 17, al. 1 à 3, ne sont pas soumises aux restrictions de l’al. 1.
 
-<sup>3</sup> Le colostrum, le lait et les produits laitiers utilisés comme sous-produits animaux peuvent être transportés hors de la zone de vaccination après avoir été pasteurisés.
-
-<sup>4</sup> Les restrictions visées aux al. 1 à 3 ne s’appliquent pas aux sous-produits animaux issus d’un animal respectant les exigences de l’art. 17, al. 1.[^20-2]
-
-[^20-1]: [RS 916.441.22](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10874)
-[^20-2]: Introduit par le ch. I de l’O de l’OSAV du 22 oct. 2025, en vigueur depuis le 24 oct. 2025 ([RO 2025 637](https://fedlex.data.admin.ch/eli/oc/2025/637)).
+[^20-1]: Nouvelle teneur selon le ch. I de l’O de l’OSAV du 3 juin 2026, en vigueur depuis le 5 juin 2026 ([RO 2026 279](https://fedlex.data.admin.ch/eli/oc/2026/279)).
 
 #### Art. 21
 
-**Exigences applicables aux véhicules**
+**Exigences applicables aux véhicules**[^21-1]
 
-<sup>1</sup> Les véhicules utilisés pour le transport d’animaux des espèces réceptives ou de sous-produits animaux qui en sont issus doivent être étanches, et nettoyés, désinfectés et traités avec un insecticide avant et après chaque trajet.
+<sup>1</sup> Les véhicules utilisés pour le transport d’animaux des espèces réceptives doivent être étanches et ils doivent être nettoyés, désinfectés et traités avec un insecticide avant et après chaque trajet.
 
-<sup>2</sup> Un nettoyage suffit après un transport d’animaux des espèces réceptives directement vers un abattoir ou après tout transport de sous-produits animaux issus de ces espèces.[^21-1]
+<sup>2</sup> Le nettoyage après le transport suffit pour le transport d’animaux des espèces réceptives directement vers un abattoir et pour le transport de peaux issues de ces animaux.
 
-[^21-1]: Introduit par le ch. I de l’O de l’OSAV du 22 oct. 2025, en vigueur depuis le 24 oct. 2025 ([RO 2025 637](https://fedlex.data.admin.ch/eli/oc/2025/637)).
+[^21-1]: Nouvelle teneur selon le ch. I de l’O de l’OSAV du 3 juin 2026, en vigueur depuis le 5 juin 2026 ([RO 2026 279](https://fedlex.data.admin.ch/eli/oc/2026/279)).
 
 #### Art. 21a
 
@@ -336,4 +332,4 @@ Sont des zones de vaccination:
 - – le territoire La Pile Dessus de la commune de Saint-Cergue, dans le canton de Vaud;
 - – les territoires marqués en gris sur la carte ci-dessous appartenant aux communes suivantes du canton du Valais: Champéry, Val-d’Illiez, Finhaut, Martigny-Combe, Orsières, Salvan, Trient.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/471/20260501/fr/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/471/20260605/fr/xml/image/image1.png)

@@ -3,18 +3,18 @@ sr: "916.443.112"
 title: Ordinanza dell’USAV del 17 luglio 2025 che istituisce misure in relazione alla dermatite nodulare contagiosa (Lumpy skin disease)
 eli: "https://fedlex.data.admin.ch/eli/cc/2025/471"
 language: it
-version: 2026-05-01
+version: 2026-06-05
 adopted: 2025-07-17
 in_force: 2025-07-18
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/471/20260501/it/xml/fedlex-data-admin-ch-eli-cc-2025-471-20260501-it-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2025/471/20260501/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/471/20260605/it/xml/fedlex-data-admin-ch-eli-cc-2025-471-20260605-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2025/471/20260605/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza dell’USAV che istituisce misure in relazione alla dermatite nodulare contagiosa (Lumpy skin disease)
 
-del 17 luglio 2025 (Stato 1° maggio 2026)
+del 17 luglio 2025 (Stato 5 giugno 2026)
 
 L’Ufficio federale della sicurezza alimentare e di veterinaria (USAV),
 
@@ -216,65 +216,64 @@ I dati sono registrati in ASAN. La registrazione è effettuata:
 
 #### Art. 17
 
-**Movimenti di animali dalla zona di vaccinazione**
+**Movimenti di animali dalla zona di vaccinazione e al suo interno**[^17-1]
 
 <sup>1</sup>
 
-Gli animali vivi delle specie ricettive possono essere trasferiti dalla zona di vaccinazione se:
+Gli animali vivi delle specie ricettive possono essere trasferiti dalla zona di vaccinazione e al suo interno se:
 
-- a.[^17-1] sono stati vaccinati almeno 28 giorni prima;
-- b. tutti gli altri animali dello stesso effettivo sono stati vaccinati almeno 28 giorni prima;
-- c. tutti gli altri animali dello stesso effettivo sono stati sottoposti a un esame clinico e, se necessario, a un esame di laboratorio con esito negativo; e
-- d.[^17-2] gli animali sono stati tenuti nell’azienda di origine dalla nascita o per un periodo ininterrotto di almeno 28 giorni prima della data del trasferimento;
-- e.[^17-3] …
+- a. tutti gli altri animali delle specie ricettive tenuti nell’azienda di origine sono stati sottoposti a un esame clinico; e
+- b. gli animali da trasferire sono stati vaccinati almeno 28 giorni prima.
 
-<sup>2</sup> Il capoverso 1 non si applica agli animali trasportati direttamente per la macellazione previa autorizzazione del veterinario cantonale.
+<sup>2</sup> Se nella zona di vaccinazione è stata completata la vaccinazione di tutti gli animali delle specie ricettive conformemente al piano di vaccinazione, in deroga al capoverso 1 lettera b possono essere trasferiti anche animali non immunizzati, a condizione che siano risultati negativi al virus o agli anticorpi.
 
-[^17-1]: Correzione del 18 ago. 2025, concerne soltanto il testo francese ([RU 2025 512](https://fedlex.data.admin.ch/eli/oc/2025/512)).
-[^17-2]: Nuovo testo giusta la cifra I dell’O dell’USAV del 22 ott. 2025, in vigore dal 24 ott. 2025 ([RU 2025 637](https://fedlex.data.admin.ch/eli/oc/2025/637)).
-[^17-3]: Abrogata dalla cifra I dall’O dell’USAV dell’11 mar. 2026, con effetto dal 1° mag. 2026 ([RU 2026 116](https://fedlex.data.admin.ch/eli/oc/2026/116)).
+<sup>3</sup> I vitelli delle specie ricettive possono essere trasferiti dalla zona di vaccinazione e al suo interno dopo un esame clinico, se si trovano nel periodo di immunità dovuta agli anticorpi di origine materna.
+
+<sup>4</sup> Con l’autorizzazione del veterinario cantonale, gli animali possono essere trasportati direttamente per la macellazione anche qualora non soddisfino le condizioni previste dai capoversi 1–3.
+
+[^17-1]: Nuovo testo giusta la cifra I dall’O dell’USAV del 3 giu. 2026, in vigore dal 5 giu. 2026 ([RU 2026 279](https://fedlex.data.admin.ch/eli/oc/2026/279)).
 
 #### Art. 18
 
-**Movimenti di animali all’interno della zona di vaccinazione**
+[^18-1]
 
-All’interno della zona di vaccinazione e tra le zone di vaccinazione gli animali vivi delle specie ricettive possono essere trasferiti se:
-
-- a. sono stati vaccinati almeno 28 giorni prima; e
-- b. tutti gli altri animali dello stesso effettivo sono stati vaccinati almeno 28 giorni prima.
+[^18-1]: Abrogato dalla cifra I dall’O dell’USAV del 3 giu. 2026, con effetto dal 5 giu. 2026 ([RU 2026 279](https://fedlex.data.admin.ch/eli/oc/2026/279)).
 
 #### Art. 19
 
-**Invio di seme, ovuli ed embrioni**
+**Invio di seme, ovuli ed embrioni**[^19-1]
 
-<sup>1</sup> Il seme, gli ovuli e gli embrioni provenienti dalla zona di vaccinazione possono essere inviati solo all’interno delle zone di vaccinazione.
+Il seme, gli ovuli e gli embrioni possono essere inviati dalla zona di vaccinazione se gli animali donatori non presentano sintomi clinici 28 giorni prima della data del prelievo e per tutto il periodo del prelievo. Gli animali donatori devono inoltre soddisfare una delle seguenti condizioni:
 
-<sup>2</sup> È vietata l’esportazione nella zona di vaccinazione di un altro Paese.
+- a. sono stati vaccinati almeno 28 giorni prima della data di invio e si trovano ancora nel periodo di immunità alla data di invio;
+- b.
+
+  sono risultati negativi ai test sierologici sugli anticorpi effettuati su campioni di sangue come segue:
+
+  - 1\. per l’invio del seme: il primo giorno del prelievo e almeno 28 giorni dopo il periodo del prelievo,
+  - 2\. per l’invio di embrioni e ovuli: il giorno del prelievo.
+
+[^19-1]: Nuovo testo giusta la cifra I dall’O dell’USAV del 3 giu. 2026, in vigore dal 5 giu. 2026 ([RU 2026 279](https://fedlex.data.admin.ch/eli/oc/2026/279)).
 
 #### Art. 20
 
-**Invio di sottoprodotti di origine animale, colostro, latte e prodotti a base di latte**
+**Invio di pelli e pelame**[^20-1]
 
-<sup>1</sup> I sottoprodotti di origine animale non trasformati possono essere inviati all’interno della Svizzera a stabilimenti designati dal veterinario cantonale, a condizione che siano inviati sotto la vigilanza ufficiale delle autorità competenti per essere trasformati o eliminati in un impianto autorizzato in conformità all’allegato 1*b* OSOAn[^20-1]. Sono esclusi le pelli e il pelame non lavorati.
+<sup>1</sup> Le pelli e il pelame non lavorati possono essere trasportati al di fuori della zona di vaccinazione se sono sottoposti a un trattamento termico in un contenitore sigillato ermeticamente in modo tale da raggiungere un valore F0 minimo pari a 3.
 
-<sup>2</sup> Le pelli e il pelame non lavorati possono essere trasferiti soltanto in uno stabilimento nella zona di vaccinazione, a condizione che siano inviati sotto la vigilanza ufficiale delle autorità competenti per essere trasformati o eliminati in un impianto autorizzato in conformità all’allegato 1*b* OSOAn.
+<sup>2</sup> Le restrizioni di cui al capoverso 1 non si applicano alle pelli e al pelame di un animale che soddisfa le condizioni di cui all’articolo 17 capoversi 1–3.
 
-<sup>3</sup> Il colostro, il latte o i prodotti a base di latte utilizzati come sottoprodotti di origine animale possono essere trasportati fuori dalla zona di vaccinazione dopo la pastorizzazione.
-
-<sup>4</sup> Le restrizioni di cui ai capoversi 1–3 non si applicano ai sottoprodotti di origine animale di un animale che soddisfa le condizioni di cui all’articolo 17 capoverso 1.[^20-2]
-
-[^20-1]: [RS 916.441.22](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10874)
-[^20-2]: Introdotto dalla cifra I dell’O dell’USAV del 22 ott. 2025, in vigore dal 24 ott. 2025 ([RU 2025 637](https://fedlex.data.admin.ch/eli/oc/2025/637)).
+[^20-1]: Nuovo testo giusta la cifra I dall’O dell’USAV del 3 giu. 2026, in vigore dal 5 giu. 2026 ([RU 2026 279](https://fedlex.data.admin.ch/eli/oc/2026/279)).
 
 #### Art. 21
 
-**Requisiti dei veicoli**
+**Requisiti dei veicoli**[^21-1]
 
-<sup>1</sup> I veicoli utilizzati per il trasporto di animali delle specie ricettive o dei sottoprodotti di origine animale di tali animali devono essere a tenuta stagna e devono essere puliti, disinfettati e trattati con un insetticida sia prima sia dopo ogni trasporto.
+<sup>1</sup> I veicoli utilizzati per il trasporto di animali delle specie ricettive devono essere a tenuta stagna e devono essere puliti, disinfettati e trattati con un insetticida sia prima sia dopo ogni trasporto.
 
-<sup>2</sup> Per il trasporto di animali di specie ricettive direttamente a un macello o per qualsiasi trasporto di sottoprodotti di tali animali è sufficiente effettuare la pulizia dopo il trasporto.[^21-1]
+<sup>2</sup> Per il trasporto di animali delle specie ricettive direttamente a un macello e per qualsiasi trasporto di pelli e pelame di tali animali è sufficiente effettuare la pulizia dopo il trasporto.
 
-[^21-1]: Introdotto dalla cifra I dell’O dell’USAV del 22 ott. 2025, in vigore dal 24 ott. 2025 ([RU 2025 637](https://fedlex.data.admin.ch/eli/oc/2025/637)).
+[^21-1]: Nuovo testo giusta la cifra I dall’O dell’USAV del 3 giu. 2026, in vigore dal 5 giu. 2026 ([RU 2026 279](https://fedlex.data.admin.ch/eli/oc/2026/279)).
 
 #### Art. 21a
 
@@ -332,4 +331,4 @@ Sono zone di vaccinazione:
 - – la zona di La Pile Dessus del Comune di Saint-Cergue nel Cantone di Vaud;
 - – i territori evidenziati in grigio sulla mappa sottostante facenti parte dei seguenti Comuni del Cantone del Vallese: Champéry, Val-d’Illiez, Finhaut, Martigny-Combe, Orsières, Salvan, Trient.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/471/20260501/it/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/471/20260605/it/xml/image/image1.png)

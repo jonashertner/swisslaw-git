@@ -3,18 +3,18 @@ sr: "916.443.112"
 title: Verordnung des BLV vom 17. Juli 2025 über Massnahmen im Zusammenhang mit der Dermatitis nodularis (Lumpy Skin Disease)​
 eli: "https://fedlex.data.admin.ch/eli/cc/2025/471"
 language: de
-version: 2026-05-01
+version: 2026-06-05
 adopted: 2025-07-17
 in_force: 2025-07-18
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/471/20260501/de/xml/fedlex-data-admin-ch-eli-cc-2025-471-20260501-de-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2025/471/20260501/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/471/20260605/de/xml/fedlex-data-admin-ch-eli-cc-2025-471-20260605-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2025/471/20260605/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung des BLV über Massnahmen im Zusammenhang mit der Dermatitis nodularis (Lumpy Skin Disease)
 
-vom 17. Juli 2025 (Stand am 1. Mai 2026)
+vom 17. Juli 2025 (Stand am 5. Juni 2026)
 
 Das Bundesamt für Lebensmittelsicherheit und Veterinärwesen (BLV),
 
@@ -216,65 +216,64 @@ Die Daten werden im ASAN registriert. Die Eingabe erfolgt durch:
 
 #### Art. 17
 
-**Tierverkehr aus der Impfzone**
+**Tierverkehr aus und innerhalb der Impfzone**[^17-1]
 
 <sup>1</sup>
 
-Aus der Impfzone dürfen lebende Tiere empfänglicher Arten verstellt werden, wenn:
+Lebende Tiere empfänglicher Arten dürfen aus und innerhalb der Impfzone verstellt werden, wenn:
 
-- a.[^17-1] sie mindestens 28 Tage zuvor geimpft wurden;
-- b. alle anderen Tiere des gleichen Bestandes mindestens 28 Tage zuvor geimpft wurden;
-- c. alle anderen Tiere des gleichen Bestandes einer klinischen und nötigenfalls einer Laboruntersuchung mit negativem Ergebnis unterzogen wurden; und
-- d.[^17-2] die Tiere seit ihrer Geburt oder während eines ununterbrochenen Zeitraumes von mindestens 28 Tagen vor dem Verstelldatum in ihrem Ursprungsbetrieb gehalten wurden;
-- e.[^17-3] …
+- a. eine klinische Untersuchung aller im Herkunftsbetrieb gehaltenen Tiere empfänglicher Arten durchgeführt wurde; und
+- b. sie mindestens 28 Tage zuvor geimpft wurden.
 
-<sup>2</sup> Von Absatz 1 ausgenommen sind Tiere, die nach der Genehmigung der Kantonstierärztin oder des Kantonstierarztes direkt zur Schlachtung verbracht werden.
+<sup>2</sup> Ist in der Impfzone die Impfung aller Tiere empfänglicher Arten gemäss dem Impfplan abgeschlossen, so dürfen abweichend von Absatz 1 Buchstabe b auch nicht immunisierte Tiere verstellt werden, wenn sie negativ auf das Virus oder auf Antikörper getestet wurden.
 
-[^17-1]: Die Berichtigung vom 18. Aug. 2025 betrifft nur den französischen Text ([AS 2025 512](https://fedlex.data.admin.ch/eli/oc/2025/512)).
-[^17-2]: Fassung gemäss Ziff. I der V des BLV vom 22. Okt. 2025, in Kraft seit 24. Okt. 2025 ([AS 2025 637](https://fedlex.data.admin.ch/eli/oc/2025/637)).
-[^17-3]: Aufgehoben durch Ziff. I der V des BLV vom 11. März 2026, mit Wirkung seit 1. Mai 2026 ([AS 2026 116](https://fedlex.data.admin.ch/eli/oc/2026/116)).
+<sup>3</sup> Kälber empfänglicher Arten dürfen nach einer klinischen Untersuchung aus und innerhalb der Impfzone verstellt werden, wenn sie sich im Zeitraum der Immunität durch maternale Antikörper befinden.
+
+<sup>4</sup> Liegt eine Genehmigung der Kantonstierärztin oder des Kantonstierarztes vor, so dürfen Tiere direkt zur Schlachtung verbracht werden, auch wenn sie die Voraussetzungen nach den Absätzen 1–3 nicht erfüllen.
+
+[^17-1]: Fassung gemäss Ziff. I der V des BLV vom 3. Juni 2026, in Kraft seit vom 5. Juni 2026 ([AS 2026 279](https://fedlex.data.admin.ch/eli/oc/2026/279)).
 
 #### Art. 18
 
-**Tierverkehr innerhalb der Impfzone**
+[^18-1]
 
-Innerhalb der Impfzone und zwischen Impfzonen dürfen lebende Tiere empfänglicher Arten verstellt werden, wenn:
-
-- a. sie mindestens 28 Tage zuvor geimpft wurden; und
-- b. alle anderen Tiere des gleichen Bestandes mindestens 28 Tage zuvor geimpft wurden.
+[^18-1]: Aufgehoben durch Ziff. I der V des BLV vom 3. Juni 2026, mit Wirkung seit vom 5. Juni 2026 ([AS 2026 279](https://fedlex.data.admin.ch/eli/oc/2026/279)).
 
 #### Art. 19
 
-**Versand von Samen, Eizellen und Embryonen**
+**Versand von Samen, Eizellen und Embryonen**[^19-1]
 
-<sup>1</sup> Samen, Eizellen und Embryonen aus der Impfzone dürfen nur innerhalb der Impfzonen versandt werden.
+Samen, Eizellen und Embryonen dürfen aus der Impfzone versendet werden, wenn die Spendertiere 28 Tage vor dem Datum der Entnahme sowie während des gesamten Entnahmezeitraums keine klinischen Symptome aufweisen. Die Spendertiere müssen zudem eine der folgenden Voraussetzungen erfüllen:
 
-<sup>2</sup> Die Ausfuhr in die Impfzone eines anderen Landes ist verboten.
+- a. Sie wurden mindestens 28 Tage vor dem Versanddatum geimpft und befinden sich am Versanddatum noch im Zeitraum der Immunität.
+- b.
+
+  Sie wurden wie folgt anhand von Blutproben serologisch negativ auf Antikörper getestet:
+
+  - 1\. für den Versand von Samen: am ersten Tag der Entnahme und mindestens 28 Tage nach dem Entnahmezeitraum;
+  - 2\. für den Versand von Embryonen und Eizellen: am Tag der Entnahme.
+
+[^19-1]: Fassung gemäss Ziff. I der V des BLV vom 3. Juni 2026, in Kraft seit vom 5. Juni 2026 ([AS 2026 279](https://fedlex.data.admin.ch/eli/oc/2026/279)).
 
 #### Art. 20
 
-**Versand von tierischen Nebenprodukten, Kolostrum, Milch und Milcherzeugnissen**
+**Versand von Häuten und Fellen**[^20-1]
 
-<sup>1</sup> Unverarbeitete tierische Nebenprodukte dürfen innerhalb der Schweiz an von der Kantonstierärztin oder vom Kantonstierarzt genannte Betriebe versendet werden, sofern sie unter der amtlichen Aufsicht der zuständigen Behörden für eine Verarbeitung oder Beseitigung in einer bewilligten Anlage nach Anhang 1*b* VTNP[^20-1] versendet werden. Ausgenommen sind unverarbeitete Häute und Felle.
+<sup>1</sup> Unverarbeitete Häute und Felle dürfen aus der Impfzone verbracht werden, wenn sie einer Hitzebehandlung in einem luftdicht verschlossenen Behälter unterzogen werden, wobei ein F0-Wert von mindestens 3 erreicht wird.
 
-<sup>2</sup> Unverarbeitete Häute und Felle dürfen nur in einen Betrieb in der Impfzone verbracht werden, sofern sie unter der amtlichen Aufsicht der zuständigen Behörden zur Verarbeitung oder Beseitigung an eine bewilligte Anlage nach Anhang 1*b* VTNP versendet werden.
+<sup>2</sup> Die Einschränkungen nach Absatz 1 finden keine Anwendung auf die Häute und Felle eines Tieres, bei dem die Voraussetzungen von Artikel 17 Absätze 1–3 erfüllt sind.
 
-<sup>3</sup> Kolostrum, Milch oder Milcherzeugnisse, die als tierische Nebenprodukte verwendet werden, dürfen nach der Pasteurisation aus der Impfzone heraus transportiert werden.
-
-<sup>4</sup> Die Einschränkungen nach den Absätzen 1–3 finden keine Anwendung auf die tierischen Nebenprodukte eines Tieres, bei dem die Bedingungen von Artikel 17 Absatz 1 erfüllt sind.[^20-2]
-
-[^20-1]: [SR 916.441.22](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10874)
-[^20-2]: Eingefügt durch Ziff. I der V des BLV vom 22. Okt. 2025, in Kraft seit 24. Okt. 2025 ([AS 2025 637](https://fedlex.data.admin.ch/eli/oc/2025/637)).
+[^20-1]: Fassung gemäss Ziff. I der V des BLV vom 3. Juni 2026, in Kraft seit vom 5. Juni 2026 ([AS 2026 279](https://fedlex.data.admin.ch/eli/oc/2026/279)).
 
 #### Art. 21
 
-**Anforderungen an die Fahrzeuge**
+**Anforderungen an die Fahrzeuge**[^21-1]
 
-<sup>1</sup> Fahrzeuge, die für den Transport von Tieren empfänglicher Arten oder von tierischen Nebenprodukten solcher Tiere verwendet werden, müssen dicht sein und sowohl vor als auch nach jeder Fahrt gereinigt, desinfiziert und mit einem Insektenbekämpfungsmittel behandelt werden.
+<sup>1</sup> Fahrzeuge, die für den Transport von Tieren empfänglicher Arten verwendet werden, müssen dicht sein und sowohl vor als auch nach jeder Fahrt gereinigt, desinfiziert und mit einem Insektenbekämpfungsmittel behandelt werden.
 
-<sup>2</sup> Beim Transport von Tieren empfänglicher Arten direkt zu einem Schlachthof oder bei jeglichem Transport von tierischen Nebenprodukten solcher Tiere genügt die Reinigung nach dem Transport.[^21-1]
+<sup>2</sup> Beim Transport von Tieren empfänglicher Arten direkt zu einem Schlachthof oder bei jeglichem Transport von Häuten und Fellen solcher Tiere genügt die Reinigung nach dem Transport.
 
-[^21-1]: Eingefügt durch Ziff. I der V des BLV vom 22. Okt. 2025, in Kraft seit 24. Okt. 2025 ([AS 2025 637](https://fedlex.data.admin.ch/eli/oc/2025/637)).
+[^21-1]: Fassung gemäss Ziff. I der V des BLV vom 3. Juni 2026, in Kraft seit vom 5. Juni 2026 ([AS 2026 279](https://fedlex.data.admin.ch/eli/oc/2026/279)).
 
 #### Art. 21a
 
@@ -332,4 +331,4 @@ Als Impfzonen gelten:
 - – das Gebiet La Pile Dessus der Gemeinde Saint-Cergue des Kantons Waadt;
 - – die auf der nachstehenden Karte grau markierten Teilgebiete der folgenden Gemeinden des Kantons Wallis: Champéry, Val-d’Illiez, Finhaut, Martigny-Combe, Orsières, Salvan, Trient.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/471/20260501/de/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/471/20260605/de/xml/image/image1.png)
