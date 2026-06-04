@@ -3,20 +3,19 @@ canton: ZG
 number: "153.717"
 title: Verfügung über die Delegation von Entscheidungsbefugnissen der Direktion des Innern in sozialen und gesellschaftlichen Bereichen an das Kantonale Sozialamt
 language: de
-version: 2025-04-11
-valid_until: 2026-06-04
-version_adopted: 2025-04-08
+version: 2026-06-05
+version_adopted: 2026-05-26
 adopted: 2011-06-27
 in_force: 2011-08-01
 url: "https://bgs.zg.ch/app/de/texts_of_law/153.717"
-pdf: "https://bgs.zg.ch/api/de/versions/2687/pdf_file"
+pdf: "https://bgs.zg.ch/api/de/versions/3032/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verfügung über die Delegation von Entscheidungsbefugnissen der Direktion des Innern in sozialen und gesellschaftlichen Bereichen an das Kantonale Sozialamt
 
-Vom 27. Juni 2011 (Stand 11. April 2025)
+Vom 27. Juni 2011 (Stand 5. Juni 2026)
 
 Die Direktion des Innern des Kantons Zug,
 
@@ -59,5 +58,11 @@ verfügt:
 #### Ziff. 4
 
 **…**
+
+#### Ziff. 5
+
+<sup>1</sup> Die Befugnis zur Gesuchprüfung, zum Erlass von Verfügungen und dem Auszahlen der Kantonspauschale gemäss § 4c Abs. 1 KiBeV[^Ziff5-1] sowie damit verbundene Aufgaben und Kompetenzen werden der Abteilung Gesellschaft des Kantonalen Sozialamts übertragen.
+
+[^Ziff5-1]: BGS [213.42](https://bgs.zg.ch/data/213.42/de)
 
 GS 31, 215
