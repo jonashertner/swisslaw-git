@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Révision partielle de l’ordonnance sur le bail à loyer et le bail à ferme d’habitations et de locaux commerciaux (OBLF)
 document: Projet mis en consultation
 language: fr
