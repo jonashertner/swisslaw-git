@@ -3,11 +3,11 @@ sr: "0.351.5"
 title: "Übereinkommen vom 14. Dezember 1973 über die Verhütung, Verfolgung und Bestrafung von Straftaten gegen völkerrechtlich geschützte Personen, einschliesslich Diplomaten"
 eli: "https://fedlex.data.admin.ch/eli/cc/1985/439_439_439"
 language: de
-version: 2019-03-01
+version: 2026-06-08
 adopted: 1973-12-14
 in_force: 1985-04-04
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1985/439_439_439/20190301/de/xml/fedlex-data-admin-ch-eli-cc-1985-439_439_439-20190301-de-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1985/439_439_439/20190301/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1985/439_439_439/20260608/de/xml/fedlex-data-admin-ch-eli-cc-1985-439_439_439-20260608-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1985/439_439_439/20260608/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -20,7 +20,7 @@ AS **1985** 439; BBl **1984** I 629
 
 Abgeschlossen in New York am 14. Dezember 1973 Von der Bundesversammlung genehmigt am 29. November 1984[^t-1] Schweizerische Beitrittsurkunde hinterlegt am 5. März 1985 In Kraft getreten für die Schweiz am 4. April 1985
 
-(Stand am 1. März 2019)
+(Stand am 8. Juni 2026)
 
 [^t-1]: [AS 1985 438](https://fedlex.data.admin.ch/eli/oc/1985/438_438_438)
 
@@ -36,7 +36,7 @@ in dem Bewusstsein, dass die Begehung solcher Straftaten der Völkergemeinschaft
 
 haben folgendes vereinbart:
 
-[^ingress-1]: [SR 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
+[^ingress-1]: [SR 0.120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/41)
 
 #### Art. 1
 
@@ -190,7 +190,7 @@ Die Urschrift dieses Übereinkommens, dessen chinesischer, englischer, französi
 
 *Zu Urkund dessen* haben die von ihren Regierungen hierzu gehörig befugten Unterzeichneten dieses Übereinkommen, das am 14. Dezember 1973 in New York zur Unterzeichnung aufgelegt wurde, unterschrieben. (Es folgen die Unterschriften)
 
-Geltungsbereich am 1. März 2019**[^t-2]**
+Geltungsbereich am 8. Juni 2026[^t-2]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B) Nachfolgeerklärung (N)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -288,7 +288,7 @@ Geltungsbereich am 1. März 2019**[^t-2]**
 <tr><td>Liberia</td><td>30. September</td><td>1975 B</td><td>20. Februar</td><td>1977</td></tr>
 <tr><td>Libyen</td><td>25. September</td><td>2000 B</td><td>25. Oktober</td><td>2000</td></tr>
 <tr><td>Liechtenstein\*</td><td>28. November</td><td>1994 B</td><td>28. Dezember</td><td>1994</td></tr>
-<tr><td>Litauen\*</td><td>23. Oktober</td><td>2002 B</td><td>22. November</td><td>2002</td></tr>
+<tr><td>Litauen</td><td>23. Oktober</td><td>2002 B</td><td>22. November</td><td>2002</td></tr>
 <tr><td>Luxemburg\*</td><td>10. Mai</td><td>2006 B</td><td>9. Juni</td><td>2006</td></tr>
 <tr><td>Madagaskar</td><td>24. September</td><td>2003 B</td><td>24. Oktober</td><td>2003</td></tr>
 <tr><td>Malawi\*</td><td>14. März</td><td>1977 B</td><td>13. April</td><td>1977</td></tr>
@@ -313,6 +313,7 @@ Geltungsbereich am 1. März 2019**[^t-2]**
 <tr><td>Nepal</td><td>9. März</td><td>1990 B</td><td>8. April</td><td>1990</td></tr>
 <tr><td>Neuseeland\*</td><td>12. November</td><td>1985 B</td><td>12. Dezember</td><td>1985</td></tr>
 <tr><td>Cook-Inseln</td><td>12. November</td><td>1985 B</td><td>12. Dezember</td><td>1985</td></tr>
+<tr><td>Niue</td><td>22. Juni</td><td>2009 B</td><td>22. Juli</td><td>2009</td></tr>
 <tr><td>Nicaragua</td><td>10. März</td><td>1975</td><td>20. Februar</td><td>1977</td></tr>
 <tr><td>Niederlande\* \*\* <sup>a</sup></td><td>6. Dezember</td><td>1988 B</td><td>5. Januar</td><td>1989</td></tr>
 <tr><td>Aruba</td><td>6. Dezember</td><td>1988 B</td><td>5. Januar</td><td>1989</td></tr>
@@ -321,7 +322,6 @@ Geltungsbereich am 1. März 2019**[^t-2]**
 <tr><td>Sint Maarten</td><td>6. Dezember</td><td>1988 B</td><td>5. Januar</td><td>1989</td></tr>
 <tr><td>Niger</td><td>17. Juni</td><td>1985 B</td><td>17. Juli</td><td>1985</td></tr>
 <tr><td>Nigeria</td><td>25. September</td><td>2012 B</td><td>25. Oktober</td><td>2012</td></tr>
-<tr><td>Niue</td><td>22. Juni</td><td>2009 B</td><td>22. Juli</td><td>2009</td></tr>
 <tr><td>Nordmazedonien</td><td>12. März</td><td>1998 N</td><td>17. November</td><td>1991</td></tr>
 <tr><td>Norwegen</td><td>28. April</td><td>1980</td><td>28. Mai</td><td>1980</td></tr>
 <tr><td>Oman</td><td>22. März</td><td>1988 B</td><td>21. April</td><td>1988</td></tr>
@@ -400,11 +400,11 @@ Geltungsbereich am 1. März 2019**[^t-2]**
 <tr><td colspan="5">\* Vorbehalte und Erklärungen. \*\* Einwendungen. Die Vorbehalte, Erklärungen und Einwendungen werden in der AS nicht veröffentlicht, mit Ausnahme der Erklärung der Schweiz. Die französischen und englischen Texte können auf der Internetseite der Vereinten Nationen: http://treaties.un.org/ eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern bezogen werden. <sup>a</sup> Für das Königreich in Europa.</td></tr>
 </table>
 
-[^t-2]: [AS 1985 439](https://fedlex.data.admin.ch/eli/oc/1985/439_439_439), [1986 512](https://fedlex.data.admin.ch/eli/oc/1986/512_512_512), [1987 772](https://fedlex.data.admin.ch/eli/oc/1987/772_772_772), [1988 2076](https://fedlex.data.admin.ch/eli/oc/1988/2076_2076_2076), [1990 1154](https://fedlex.data.admin.ch/eli/oc/1990/1154_1154_1154), [2004 2985](https://fedlex.data.admin.ch/eli/oc/2004/376), [2005 4993](https://fedlex.data.admin.ch/eli/oc/2005/682), [2006 4205](https://fedlex.data.admin.ch/eli/oc/2006/630), [2008 621](https://fedlex.data.admin.ch/eli/oc/2008/141), [2009 3871](https://fedlex.data.admin.ch/eli/oc/2009/483), [2012 4205](https://fedlex.data.admin.ch/eli/oc/2012/497), [2015 683](https://fedlex.data.admin.ch/eli/oc/2015/113), [2019 947](https://fedlex.data.admin.ch/eli/oc/2019/171). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+[^t-2]: [AS 1985 439](https://fedlex.data.admin.ch/eli/oc/1985/439_439_439); [1986 512](https://fedlex.data.admin.ch/eli/oc/1986/512_512_512); [1987 772](https://fedlex.data.admin.ch/eli/oc/1987/772_772_772); [1988 2076](https://fedlex.data.admin.ch/eli/oc/1988/2076_2076_2076); [1990 1154](https://fedlex.data.admin.ch/eli/oc/1990/1154_1154_1154); [2004 2985](https://fedlex.data.admin.ch/eli/oc/2004/376); [2005 4993](https://fedlex.data.admin.ch/eli/oc/2005/682); [2006 4205](https://fedlex.data.admin.ch/eli/oc/2006/630); [2008 621](https://fedlex.data.admin.ch/eli/oc/2008/141); [2009 3871](https://fedlex.data.admin.ch/eli/oc/2009/483); [2012 4205](https://fedlex.data.admin.ch/eli/oc/2012/497); [2015 683](https://fedlex.data.admin.ch/eli/oc/2015/113); [2019 947](https://fedlex.data.admin.ch/eli/oc/2019/171); [2026 306](https://fedlex.data.admin.ch/eli/oc/2026/306). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
 
 Erklärung
 
-Schweiz**[^t-3]**
+Schweiz[^t-3]
 
 Der Schweizerische Bundesrat interpretiert die Artikel 4 und 5 Absatz 1 des Übereinkommens dahingehend, dass die Schweiz die in den betreffenden Bestimmungen enthaltenen Verpflichtungen in dem vom Landesrecht gesetzten Rahmen erfüllt.
 

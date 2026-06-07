@@ -3,11 +3,11 @@ sr: "0.351.5"
 title: "Convention du 14 décembre 1973 sur la prévention et la répression des infractions contre les personnes jouissant d'une protection internationale, y compris les agents diplomatiques"
 eli: "https://fedlex.data.admin.ch/eli/cc/1985/439_439_439"
 language: fr
-version: 2019-03-01
+version: 2026-06-08
 adopted: 1973-12-14
 in_force: 1985-04-04
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1985/439_439_439/20190301/fr/xml/fedlex-data-admin-ch-eli-cc-1985-439_439_439-20190301-fr-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1985/439_439_439/20190301/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1985/439_439_439/20260608/fr/xml/fedlex-data-admin-ch-eli-cc-1985-439_439_439-20260608-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1985/439_439_439/20260608/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -26,15 +26,15 @@ Instrument d’adhésion déposé par la Suisse le 5 mars 1985
 
 Entrée en vigueur pour la Suisse le 4 avril 1985
 
-(Etat le 1<sup>er</sup> mars 2019)
+(État le 8 juin 2026)
 
 [^t-1]: [RO 1985 438](https://fedlex.data.admin.ch/eli/oc/1985/438_438_438)
 
-Les Etats parties à la présente Convention,
+Les États parties à la présente Convention,
 
-ayant présents à l’esprit les buts et principes de la Charte des Nations Unies[^ingress-1] concernant le maintien de la paix internationale et la promotion des relations amicales et de la coopération entre les Etats,
+ayant présents à l’esprit les buts et principes de la Charte des Nations Unies[^ingress-1] concernant le maintien de la paix internationale et la promotion des relations amicales et de la coopération entre les États,
 
-considérant que les infractions commises contre les agents diplomatiques et autres personnes jouissant d’une protection internationale, en compromettant la sécurité de ces personnes, créent une menace sérieuse au maintien des relations internationales normales qui sont nécessaires pour la coopération entre les Etats,
+considérant que les infractions commises contre les agents diplomatiques et autres personnes jouissant d’une protection internationale, en compromettant la sécurité de ces personnes, créent une menace sérieuse au maintien des relations internationales normales qui sont nécessaires pour la coopération entre les États,
 
 estimant que la perpétration de ces infractions est un motif de grave inquiétude pour la communauté internationale,
 
@@ -42,7 +42,7 @@ convaincus de la nécessité d’adopter d’urgence des mesures appropriées et
 
 sont convenus de ce qui suit:
 
-[^ingress-1]: [RS 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
+[^ingress-1]: [RS 0.120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/41)
 
 #### Art. 1
 
@@ -52,8 +52,8 @@ Aux fins de la présente Convention:
 
 L’expression «personne jouissant d’une protection internationale» s’entend:
 
-- a) de tout chef d’Etat, y compris chaque membre d’un organe collégial remplissant en vertu de la constitution de l’Etat considéré les fonctions de chef d’Etat; de tout chef de gouvernement ou de tout ministre des affaires étrangères, lorsqu’une telle personne se trouve dans un Etat étranger, ainsi que des membres de sa famille qui l’accompagnent;
-- b) de tout représentant, fonctionnaire ou personnalité officielle d’un Etat et de tout fonctionnaire, personnalité officielle ou autre agent d’une organisation intergouvernementale, qui, à la date et au lieu où une infraction est commise contre sa personne, ses locaux officiels, son domicile privé ou ses moyens de transport, a droit conformément au droit international à une protection spéciale contre toute atteinte à sa personne, sa liberté ou sa dignité, ainsi que des membres de sa famille qui font partie de son ménage;
+- a) de tout chef d’État, y compris chaque membre d’un organe collégial remplissant en vertu de la constitution de l’État considéré les fonctions de chef d’État; de tout chef de gouvernement ou de tout ministre des affaires étrangères, lorsqu’une telle personne se trouve dans un État étranger, ainsi que des membres de sa famille qui l’accompagnent;
+- b) de tout représentant, fonctionnaire ou personnalité officielle d’un État et de tout fonctionnaire, personnalité officielle ou autre agent d’une organisation intergouvernementale, qui, à la date et au lieu où une infraction est commise contre sa personne, ses locaux officiels, son domicile privé ou ses moyens de transport, a droit conformément au droit international à une protection spéciale contre toute atteinte à sa personne, sa liberté ou sa dignité, ainsi que des membres de sa famille qui font partie de son ménage;
 
 <sup>2.</sup> L’expression «auteur présumé de l’infraction» s’entend de toute personne contre qui il y a des éléments de preuve suffisants pour établir de prime abord qu’elle a commis une ou plusieurs des infractions prévues à l’article 2 ou qu’elle y a participé.
 
@@ -67,71 +67,71 @@ Le fait intentionnel:
 - b) de commettre, en recourant à la violence, contre les locaux officiels, le logement privé ou les moyens de transport d’une personne jouissant d’une protection internationale une attaque de nature à mettre sa personne ou sa liberté en danger;
 - c) de menacer de commettre une telle attaque;
 - d) de tenter de commettre une telle attaque; ou
-- e) de participer en tant que complice à une telle attaque est considéré par tout Etat partie comme constituant une infraction au regard de sa législation interne.
+- e) de participer en tant que complice à une telle attaque est considéré par tout État partie comme constituant une infraction au regard de sa législation interne.
 
-<sup>2.</sup> Tout Etat partie rend ces infractions passibles de peines appropriées qui prennent en considération leur gravité.
+<sup>2.</sup> Tout État partie rend ces infractions passibles de peines appropriées qui prennent en considération leur gravité.
 
-<sup>3.</sup> Les paragraphes 1 et 2 du présent article ne portent en rien atteinte aux obligations qui, en vertu du droit international, incombent aux Etats parties de prendre toutes mesures appropriées pour prévenir d’autres atteintes à la personne, la liberté ou la dignité d’une personne jouissant d’une protection internationale.
+<sup>3.</sup> Les paragraphes 1 et 2 du présent article ne portent en rien atteinte aux obligations qui, en vertu du droit international, incombent aux États parties de prendre toutes mesures appropriées pour prévenir d’autres atteintes à la personne, la liberté ou la dignité d’une personne jouissant d’une protection internationale.
 
 #### Art. 3
 
 <sup>1.</sup>
 
-Tout Etat partie prend les mesures nécessaires pour établir sa compétence aux fins de connaître des infractions prévues à l’article 2 dans les cas ci-après:
+Tout État partie prend les mesures nécessaires pour établir sa compétence aux fins de connaître des infractions prévues à l’article 2 dans les cas ci-après:
 
-- a) lorsque l’infraction est commise sur le territoire dudit Etat ou à bord d’un navire ou d’un aéronef immatriculé dans ledit Etat;
-- b) lorsque l’auteur présumé de l’infraction a la nationalité dudit Etat;
-- c) lorsque l’infraction est commise contre une personne jouissant d’une protection internationale au sens de l’article premier, qui jouit de ce statut en vertu même des fonctions qu’elle exerce au nom dudit Etat.
+- a) lorsque l’infraction est commise sur le territoire dudit État ou à bord d’un navire ou d’un aéronef immatriculé dans ledit État;
+- b) lorsque l’auteur présumé de l’infraction a la nationalité dudit État;
+- c) lorsque l’infraction est commise contre une personne jouissant d’une protection internationale au sens de l’article premier, qui jouit de ce statut en vertu même des fonctions qu’elle exerce au nom dudit État.
 
-<sup>2.</sup> Tout Etat partie prend également les mesures nécessaires pour établir sa compétence aux fins de connaître de ces infractions dans le cas où l’auteur présumé de l’infraction se trouve sur son territoire et où il ne l’extrade pas, conformément à l’article 8, vers l’un quelconque des Etats visés au paragraphe 1 du présent article.
+<sup>2.</sup> Tout État partie prend également les mesures nécessaires pour établir sa compétence aux fins de connaître de ces infractions dans le cas où l’auteur présumé de l’infraction se trouve sur son territoire et où il ne l’extrade pas, conformément à l’article 8, vers l’un quelconque des États visés au paragraphe 1 du présent article.
 
 <sup>3.</sup> La présente Convention n’exclut pas une compétence pénale exercée en vertu de la législation interne.
 
 #### Art. 4
 
-Les Etats parties collaborent à la prévention des infractions prévues à l’article 2, notamment:
+Les États parties collaborent à la prévention des infractions prévues à l’article 2, notamment:
 
 - a) en prenant toutes les mesures possibles afin de prévenir la préparation, sur leurs territoires respectifs, de ces infractions destinées à être commises à l’intérieur ou en dehors de leur territoire;
 - b) en échangeant des renseignements et en coordonnant les mesures administratives et autres à prendre, le cas échéant, afin de prévenir la perpétration de ces infractions.
 
 #### Art. 5
 
-<sup>1.</sup> L’Etat partie sur le territoire duquel ont été commises une ou plusieurs des infractions prévues à l’article 2, s’il a des raisons de croire qu’un auteur présumé de l’infraction s’est enfui de son territoire, communique à tous les autres Etats intéressés directement ou par l’entremise du Secrétaire général de l’Organisation des Nations Unies tous les faits pertinents concernant l’infraction commise et tous les renseignements dont il dispose touchant l’identité de l’auteur présumé de l’infraction.
+<sup>1.</sup> L’État partie sur le territoire duquel ont été commises une ou plusieurs des infractions prévues à l’article 2, s’il a des raisons de croire qu’un auteur présumé de l’infraction s’est enfui de son territoire, communique à tous les autres États intéressés directement ou par l’entremise du Secrétaire général de l’Organisation des Nations Unies tous les faits pertinents concernant l’infraction commise et tous les renseignements dont il dispose touchant l’identité de l’auteur présumé de l’infraction.
 
-<sup>2.</sup> Lorsqu’une ou plusieurs des infractions prévues à l’article 2 ont été commises contre une personne jouissant d’une protection internationale, tout Etat partie qui dispose de renseignements concernant tant la victime que les circonstances de l’infraction s’efforce de les communiquer, dans les conditions prévues par sa législation interne, en temps utile et sous forme complète, à l’Etat partie au nom duquel ladite personne exerçait ses fonctions.
+<sup>2.</sup> Lorsqu’une ou plusieurs des infractions prévues à l’article 2 ont été commises contre une personne jouissant d’une protection internationale, tout État partie qui dispose de renseignements concernant tant la victime que les circonstances de l’infraction s’efforce de les communiquer, dans les conditions prévues par sa législation interne, en temps utile et sous forme complète, à l’État partie au nom duquel ladite personne exerçait ses fonctions.
 
 #### Art. 6
 
 <sup>1.</sup>
 
-S’il estime que les circonstances le justifient, l’Etat partie sur le territoire duquel se trouve l’auteur présumé de l’infraction prend les mesures appropriées conformément à sa législation interne pour assurer la présence dudit auteur présumé de l’infraction aux fins de la poursuite ou de l’extradition. Ces mesures sont notifiées sans retard directement ou par l’entremise du Secrétaire général de l’Organisation des Nations Unies:
+S’il estime que les circonstances le justifient, l’État partie sur le territoire duquel se trouve l’auteur présumé de l’infraction prend les mesures appropriées conformément à sa législation interne pour assurer la présence dudit auteur présumé de l’infraction aux fins de la poursuite ou de l’extradition. Ces mesures sont notifiées sans retard directement ou par l’entremise du Secrétaire général de l’Organisation des Nations Unies:
 
-- a) à l’Etat où l’infraction a été commise;
-- b) à l’Etat ou aux Etats dont l’auteur présumé de l’infraction a la nationalité ou, si celui-ci est apatride, à l’Etat sur le territoire duquel il réside en permanence;
-- c) à l’Etat ou aux Etats dont la personne jouissant d’une protection internationale a la nationalité ou au nom duquel ou desquels elle exerçait ses fonctions;
-- d) à tous les autres Etats intéressés; et
+- a) à l’État où l’infraction a été commise;
+- b) à l’État ou aux États dont l’auteur présumé de l’infraction a la nationalité ou, si celui-ci est apatride, à l’État sur le territoire duquel il réside en permanence;
+- c) à l’État ou aux États dont la personne jouissant d’une protection internationale a la nationalité ou au nom duquel ou desquels elle exerçait ses fonctions;
+- d) à tous les autres États intéressés; et
 - e) à l’organisation intergouvernementale dont la personne jouissant d’une protection internationale est un fonctionnaire, une personnalité officielle ou un agent.
 
 <sup>2.</sup>
 
 Toute personne à l’égard de laquelle sont prises les mesures visées au paragraphe 1 du présent article est en droit:
 
-- a) de communiquer sans retard avec le représentant compétent le plus proche de l’Etat dont elle a la nationalité ou qui est autrement habilité à protéger ses droits ou, s’il s’agit d’une personne apatride, qui est disposé, sur sa demande, à protéger ses droits; et
-- b) de recevoir la visite d’un représentant de cet Etat.
+- a) de communiquer sans retard avec le représentant compétent le plus proche de l’État dont elle a la nationalité ou qui est autrement habilité à protéger ses droits ou, s’il s’agit d’une personne apatride, qui est disposé, sur sa demande, à protéger ses droits; et
+- b) de recevoir la visite d’un représentant de cet État.
 
 #### Art. 7
 
-L’Etat partie sur le territoire duquel se trouve l’auteur présumé de l’infraction, s’il n’extrade pas ce dernier, soumet l’affaire, sans aucune exception et sans retard injustifié, à ses autorités compétentes pour l’exercice de l’action pénale, selon une procédure conforme à la législation de cet Etat.
+L’État partie sur le territoire duquel se trouve l’auteur présumé de l’infraction, s’il n’extrade pas ce dernier, soumet l’affaire, sans aucune exception et sans retard injustifié, à ses autorités compétentes pour l’exercice de l’action pénale, selon une procédure conforme à la législation de cet État.
 
 #### Art. 8
 
-<sup>1.</sup> Pour autant que les infractions prévues à l’article 2 ne figurent pas sur la liste de cas d’extradition dans un traité d’extradition en vigueur entre les Etats parties, elles sont considérées comme y étant comprises. Les Etats parties s’engagent à comprendre ces infractions comme cas d’extradition dans tout traité d’extradition à conclure entre eux.
+<sup>1.</sup> Pour autant que les infractions prévues à l’article 2 ne figurent pas sur la liste de cas d’extradition dans un traité d’extradition en vigueur entre les États parties, elles sont considérées comme y étant comprises. Les États parties s’engagent à comprendre ces infractions comme cas d’extradition dans tout traité d’extradition à conclure entre eux.
 
-<sup>2.</sup> Si un Etat partie qui subordonne l’extradition à l’existence d’un traité est saisi d’une demande d’extradition par un autre Etat partie avec lequel il n’est pas lié par un traité d’extradition, il peut, s’il décide d’extrader, considérer la présente Convention comme constituant la base Juridique de l’extradition à l’égard de ces infractions. L’extradition est soumise aux règles de procédure et aux autres conditions prévues par le droit de l’Etat requis.
+<sup>2.</sup> Si un État partie qui subordonne l’extradition à l’existence d’un traité est saisi d’une demande d’extradition par un autre État partie avec lequel il n’est pas lié par un traité d’extradition, il peut, s’il décide d’extrader, considérer la présente Convention comme constituant la base Juridique de l’extradition à l’égard de ces infractions. L’extradition est soumise aux règles de procédure et aux autres conditions prévues par le droit de l’État requis.
 
-<sup>3.</sup> Les Etats parties qui ne subordonnent pas l’extradition à l’existence d’un traité reconnaissant ces infractions comme constituant entre eux des cas d’extradition soumis aux règles de procédure et aux autres conditions prévues par le droit de l’Etat requis.
+<sup>3.</sup> Les États parties qui ne subordonnent pas l’extradition à l’existence d’un traité reconnaissant ces infractions comme constituant entre eux des cas d’extradition soumis aux règles de procédure et aux autres conditions prévues par le droit de l’État requis.
 
-<sup>4.</sup> Entre Etats parties, ces infractions sont considérées aux fins d’extradition comme ayant été commises tant au lieu de leur perpétration que sur le territoire des Etats tenus d’établir leur compétence en vertu du paragraphe 1 de l’article 3.
+<sup>4.</sup> Entre États parties, ces infractions sont considérées aux fins d’extradition comme ayant été commises tant au lieu de leur perpétration que sur le territoire des États tenus d’établir leur compétence en vertu du paragraphe 1 de l’article 3.
 
 #### Art. 9
 
@@ -139,29 +139,29 @@ Toute personne contre laquelle une procédure est engagée en raison d’une des
 
 #### Art. 10
 
-<sup>1.</sup> Les Etats parties s’accordent l’entraide judiciaire la plus large possible dans toute procédure pénale relative aux infractions prévues à l’article 2, y compris en ce qui concerne la communication de tous les éléments de preuve dont ils disposent et qui sont nécessaires aux fins de la procédure.
+<sup>1.</sup> Les États parties s’accordent l’entraide judiciaire la plus large possible dans toute procédure pénale relative aux infractions prévues à l’article 2, y compris en ce qui concerne la communication de tous les éléments de preuve dont ils disposent et qui sont nécessaires aux fins de la procédure.
 
 <sup>2.</sup> Les dispositions du paragraphe 1 du présent article n’affectent pas les obligations relatives à l’entraide Judiciaire stipulées dans tout autre traité.
 
 #### Art. 11
 
-L’Etat partie dans lequel une action pénale a été engagée contre l’auteur présumé de l’infraction en communique le résultat définitif au Secrétaire général de l’Organisation des Nations Unies, qui en informe les autres Etats parties.
+L’État partie dans lequel une action pénale a été engagée contre l’auteur présumé de l’infraction en communique le résultat définitif au Secrétaire général de l’Organisation des Nations Unies, qui en informe les autres États parties.
 
 #### Art. 12
 
-Les dispositions de la présente Convention n’affecteront pas l’application des traités sur l’asile, en vigueur à la date d’adoption de ladite Convention, en ce qui concerne les Etats qui sont parties à ces traités; mais un Etat partie à la présente Convention ne pourra invoquer ces traités à l’égard d’un autre Etat partie à la présente Convention qui n’est pas partie à ces traités.
+Les dispositions de la présente Convention n’affecteront pas l’application des traités sur l’asile, en vigueur à la date d’adoption de ladite Convention, en ce qui concerne les États qui sont parties à ces traités; mais un État partie à la présente Convention ne pourra invoquer ces traités à l’égard d’un autre État partie à la présente Convention qui n’est pas partie à ces traités.
 
 #### Art. 13
 
-<sup>1.</sup> Tout différend entre deux ou plusieurs Etats parties concernant l’interprétation ou l’application de la présente Convention qui n’est pas réglé par voie de négociation est soumis à l’arbitrage, à la demande de l’un d’entre eux. Si, dans les six mois qui suivent la date de la demande d’arbitrage, les parties ne parviennent pas a se mettre d’accord sur l’organisation de l’arbitrage, l’une quelconque d’entre elles peut soumettre le différend à la Cour internationale de Justice, en déposant une requête conformément au Statut de la Cour.
+<sup>1.</sup> Tout différend entre deux ou plusieurs États parties concernant l’interprétation ou l’application de la présente Convention qui n’est pas réglé par voie de négociation est soumis à l’arbitrage, à la demande de l’un d’entre eux. Si, dans les six mois qui suivent la date de la demande d’arbitrage, les parties ne parviennent pas a se mettre d’accord sur l’organisation de l’arbitrage, l’une quelconque d’entre elles peut soumettre le différend à la Cour internationale de Justice, en déposant une requête conformément au Statut de la Cour.
 
-<sup>2.</sup> Tout Etat partie pourra, au moment où il signera la présente Convention, la ratifiera ou y adhérera, déclarer qu’il ne se considère pas lié par les dispositions du paragraphe 1 du présent article. Les autres Etats parties ne seront pas liés par lesdites dispositions envers un Etat partie qui aura formulé une telle réserve.
+<sup>2.</sup> Tout État partie pourra, au moment où il signera la présente Convention, la ratifiera ou y adhérera, déclarer qu’il ne se considère pas lié par les dispositions du paragraphe 1 du présent article. Les autres États parties ne seront pas liés par lesdites dispositions envers un État partie qui aura formulé une telle réserve.
 
-<sup>3.</sup> Tout Etat partie qui aura formulé une réserve conformément aux dispositions du paragraphe 2 du présent article pourra à tout moment lever cette réserve par une notification adressée au Secrétaire général de l’Organisation des Nations Unies.
+<sup>3.</sup> Tout État partie qui aura formulé une réserve conformément aux dispositions du paragraphe 2 du présent article pourra à tout moment lever cette réserve par une notification adressée au Secrétaire général de l’Organisation des Nations Unies.
 
 #### Art. 14
 
-La présente Convention sera ouverte à la signature à tous les Etats, jusqu’au 31 décembre 1974, au Siège de l’Organisation des Nations Unies, à New York.
+La présente Convention sera ouverte à la signature à tous les États, jusqu’au 31 décembre 1974, au Siège de l’Organisation des Nations Unies, à New York.
 
 #### Art. 15
 
@@ -169,37 +169,37 @@ La présente Convention sera ratifiée. Les instruments de ratification seront d
 
 #### Art. 16
 
-La présente Convention restera ouverte à l’adhésion de tout Etat. Les instruments d’adhésion seront déposés auprès du Secrétaire général de l’Organisation des Nations Unies.
+La présente Convention restera ouverte à l’adhésion de tout État. Les instruments d’adhésion seront déposés auprès du Secrétaire général de l’Organisation des Nations Unies.
 
 #### Art. 17
 
 <sup>1.</sup> La présente Convention entrera en vigueur le trentième jour qui suivra la date de dépôt auprès du Secrétaire général de l’Organisation des Nations Unies du vingt-deuxième instrument de ratification ou d’adhésion.
 
-<sup>2.</sup> Pour chacun des Etats qui ratifieront la Convention ou y adhéreront après le dépôt du vingt-deuxième instrument de ratification ou d’adhésion, la Convention entrera en vigueur le trentième jour après le dépôt par cet Etat de son instrument de ratification ou d’adhésion.
+<sup>2.</sup> Pour chacun des États qui ratifieront la Convention ou y adhéreront après le dépôt du vingt-deuxième instrument de ratification ou d’adhésion, la Convention entrera en vigueur le trentième jour après le dépôt par cet État de son instrument de ratification ou d’adhésion.
 
 #### Art. 18
 
-<sup>1.</sup> Tout Etat partie peut dénoncer la présente Convention par voie de notification écrite adressée au Secrétaire général de l’Organisation des Nations Unies.
+<sup>1.</sup> Tout État partie peut dénoncer la présente Convention par voie de notification écrite adressée au Secrétaire général de l’Organisation des Nations Unies.
 
 <sup>2.</sup> La dénonciation prendra effet six mois après la date à laquelle la notification aura été reçue par le Secrétaire général de l’Organisation des Nations Unies.
 
 #### Art. 19
 
-Le Secrétaire général de l’Organisation des Nations Unies notifie à tous les Etats, entre autres:
+Le Secrétaire général de l’Organisation des Nations Unies notifie à tous les États, entre autres:
 
 - a) les signatures apposées à la présente Convention et le dépôt des instruments de ratification ou d’adhésion conformément aux articles 14, 15 et 16, ainsi que les notifications faites en vertu de l’article 18.
 - b) la date à laquelle la présente Convention entrera en vigueur, conformément à l’article 17.
 
 #### Art. 20
 
-L’original de la présente Convention, dont les textes anglais, chinois, espagnol, français et russe font également foi, sera déposé auprès du Secrétaire général de l’Organisation des Nations Unies, qui en fera tenir copie certifiée conforme à tous les Etats.
+L’original de la présente Convention, dont les textes anglais, chinois, espagnol, français et russe font également foi, sera déposé auprès du Secrétaire général de l’Organisation des Nations Unies, qui en fera tenir copie certifiée conforme à tous les États.
 
 *En foi de quoi,* les soussignés, dûment autorisés par leurs gouvernements respectifs, ont signé la présente Convention ouverte à la signature à New York le 14 décembre 1973. (Suivent les signatures)
 
-Champ d’application le 1<sup>er</sup> mars 2019**[^t-2]**
+Champ d’application le 8 juin 2026[^t-2]
 
 <table>
-<tr><th>Etats parties</th><th>Ratification Adhésion (A) Déclaration de succession (S)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
+<tr><th>États parties</th><th>Ratification Adhésion (A) Déclaration de succession (S)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
 <tr><td>Afghanistan</td><td>24 septembre</td><td>2003 A</td><td>24 octobre</td><td>2003</td></tr>
 <tr><td>Afrique du Sud</td><td>23 septembre</td><td>2003 A</td><td>23 octobre</td><td>2003</td></tr>
 <tr><td>Albanie</td><td>22 janvier</td><td>2002 A</td><td>21 février</td><td>2002</td></tr>
@@ -251,15 +251,15 @@ Champ d’application le 1<sup>er</sup> mars 2019**[^t-2]**
 <tr><td>Danemark</td><td>1<sup>er</sup> juillet</td><td>1975</td><td>20 février</td><td>1977</td></tr>
 <tr><td>Djibouti</td><td>1<sup>er</sup> juin</td><td>2004 A</td><td>1<sup>er</sup> juillet</td><td>2004</td></tr>
 <tr><td>Dominique</td><td>24 septembre</td><td>2004 A</td><td>24 octobre</td><td>2004</td></tr>
-<tr><td>Egypte</td><td>25 juin</td><td>1986 A</td><td>25 juillet</td><td>1986</td></tr>
+<tr><td>Égypte</td><td>25 juin</td><td>1986 A</td><td>25 juillet</td><td>1986</td></tr>
 <tr><td>El Salvador\*</td><td>8 août</td><td>1980 A</td><td>7 septembre</td><td>1980</td></tr>
-<tr><td>Emirats arabes unis</td><td>25 février</td><td>2003 A</td><td>27 mars</td><td>2003</td></tr>
-<tr><td>Equateur</td><td>12 mars</td><td>1975</td><td>20 février</td><td>1977</td></tr>
+<tr><td>Émirats arabes unis</td><td>25 février</td><td>2003 A</td><td>27 mars</td><td>2003</td></tr>
+<tr><td>Équateur</td><td>12 mars</td><td>1975</td><td>20 février</td><td>1977</td></tr>
 <tr><td>Espagne</td><td>8 août</td><td>1985 A</td><td>7 septembre</td><td>1985</td></tr>
 <tr><td>Estonie</td><td>21 octobre</td><td>1991 A</td><td>20 novembre</td><td>1991</td></tr>
 <tr><td>Eswatini</td><td>4 avril</td><td>2003 A</td><td>4 mai</td><td>2003</td></tr>
-<tr><td>Etats-Unis\*</td><td>26 octobre</td><td>1976</td><td>20 février</td><td>1977</td></tr>
-<tr><td>Ethiopie\*</td><td>16 avril</td><td>2003 A</td><td>16 mai</td><td>2003</td></tr>
+<tr><td>États-Unis\*</td><td>26 octobre</td><td>1976</td><td>20 février</td><td>1977</td></tr>
+<tr><td>Éthiopie\*</td><td>16 avril</td><td>2003 A</td><td>16 mai</td><td>2003</td></tr>
 <tr><td>Fidji</td><td>15 mai</td><td>2008 A</td><td>14 juin</td><td>2008</td></tr>
 <tr><td>Finlande\*</td><td>31 octobre</td><td>1978</td><td>30 novembre</td><td>1978</td></tr>
 <tr><td>France\*</td><td>26 août</td><td>2003 A</td><td>25 septembre</td><td>2003</td></tr>
@@ -276,7 +276,7 @@ Champ d’application le 1<sup>er</sup> mars 2019**[^t-2]**
 <tr><td>Haïti</td><td>25 août</td><td>1980 A</td><td>24 septembre</td><td>1980</td></tr>
 <tr><td>Honduras</td><td>29 janvier</td><td>2003 A</td><td>28 février</td><td>2003</td></tr>
 <tr><td>Hongrie</td><td>26 mars</td><td>1975</td><td>20 février</td><td>1977</td></tr>
-<tr><td>Iles Marshall</td><td>27 janvier</td><td>2003 A</td><td>26 février</td><td>2003</td></tr>
+<tr><td>Îles Marshall</td><td>27 janvier</td><td>2003 A</td><td>26 février</td><td>2003</td></tr>
 <tr><td>Inde\*</td><td>11 avril</td><td>1978 A</td><td>11 mai</td><td>1978</td></tr>
 <tr><td>Iran</td><td>12 juillet</td><td>1978 A</td><td>11 août</td><td>1978</td></tr>
 <tr><td>Iraq\*</td><td>28 février</td><td>1978 A</td><td>30 mars</td><td>1978</td></tr>
@@ -299,7 +299,7 @@ Champ d’application le 1<sup>er</sup> mars 2019**[^t-2]**
 <tr><td>Libéria</td><td>30 septembre</td><td>1975 A</td><td>20 février</td><td>1977</td></tr>
 <tr><td>Libye</td><td>25 septembre</td><td>2000 A</td><td>25 octobre</td><td>2000</td></tr>
 <tr><td>Liechtenstein\*</td><td>28 novembre</td><td>1994 A</td><td>28 décembre</td><td>1994</td></tr>
-<tr><td>Lituanie\*</td><td>23 octobre</td><td>2002 A</td><td>22 novembre</td><td>2002</td></tr>
+<tr><td>Lituanie</td><td>23 octobre</td><td>2002 A</td><td>22 novembre</td><td>2002</td></tr>
 <tr><td>Luxembourg\*</td><td>10 mai</td><td>2006 A</td><td>9 juin</td><td>2006</td></tr>
 <tr><td>Macédoine du Nord</td><td>12 mars</td><td>1998 S</td><td>17 novembre</td><td>1991</td></tr>
 <tr><td>Madagascar</td><td>24 septembre</td><td>2003 A</td><td>24 octobre</td><td>2003</td></tr>
@@ -325,10 +325,10 @@ Champ d’application le 1<sup>er</sup> mars 2019**[^t-2]**
 <tr><td>Nicaragua</td><td>10 mars</td><td>1975</td><td>20 février</td><td>1977</td></tr>
 <tr><td>Niger</td><td>17 juin</td><td>1985 A</td><td>17 juillet</td><td>1985</td></tr>
 <tr><td>Nigéria</td><td>25 septembre</td><td>2012 A</td><td>25 octobre</td><td>2012</td></tr>
-<tr><td>Nioué</td><td>22 juin</td><td>2009 A</td><td>22 juillet</td><td>2009</td></tr>
 <tr><td>Norvège</td><td>28 avril</td><td>1980</td><td>28 mai</td><td>1980</td></tr>
 <tr><td>Nouvelle-Zélande\*</td><td>12 novembre</td><td>1985 A</td><td>12 décembre</td><td>1985</td></tr>
-<tr><td>Iles Cook</td><td>12 novembre</td><td>1985 A</td><td>12 décembre</td><td>1985</td></tr>
+<tr><td>Îles Cook</td><td>12 novembre</td><td>1985 A</td><td>12 décembre</td><td>1985</td></tr>
+<tr><td>Nioué</td><td>22 juin</td><td>2009 A</td><td>22 juillet</td><td>2009</td></tr>
 <tr><td>Oman</td><td>22 mars</td><td>1988 A</td><td>21 avril</td><td>1988</td></tr>
 <tr><td>Ouganda</td><td>5 novembre</td><td>2003 A</td><td>5 décembre</td><td>2003</td></tr>
 <tr><td>Ouzbékistan</td><td>19 janvier</td><td>1998 A</td><td>18 février</td><td>1998</td></tr>
@@ -358,12 +358,12 @@ Champ d’application le 1<sup>er</sup> mars 2019**[^t-2]**
 <tr><td>Bermudes</td><td>2 mai</td><td>1979</td><td>1<sup>er</sup> juin</td><td>1979</td></tr>
 <tr><td>Gibraltar</td><td>2 mai</td><td>1979</td><td>1<sup>er</sup> juin</td><td>1979</td></tr>
 <tr><td>Guernesey</td><td>2 mai</td><td>1979</td><td>1<sup>er</sup> juin</td><td>1979</td></tr>
-<tr><td>Ile de Man</td><td>2 mai</td><td>1979</td><td>1<sup>er</sup> juin</td><td>1979</td></tr>
-<tr><td>Iles Cayman</td><td>2 mai</td><td>1979</td><td>1<sup>er</sup> juin</td><td>1979</td></tr>
-<tr><td>Iles Falkland et dépendances (Géorgie du Sud et îles Sandwich du Sud)</td><td>2 mai</td><td>1979</td><td>1<sup>er</sup> juin</td><td>1979</td></tr>
-<tr><td>Iles Pitcairn (Ducie, Oeno, Henderson et Pitcairn)</td><td>2 mai</td><td>1979</td><td>1<sup>er</sup> juin</td><td>1979</td></tr>
-<tr><td>Iles Turques et Caïques</td><td>2 mai</td><td>1979</td><td>1<sup>er</sup> juin</td><td>1979</td></tr>
-<tr><td>Iles Vierges britanniques</td><td>2 mai</td><td>1979</td><td>1<sup>er</sup> juin</td><td>1979</td></tr>
+<tr><td>Île de Man</td><td>2 mai</td><td>1979</td><td>1<sup>er</sup> juin</td><td>1979</td></tr>
+<tr><td>Îles Cayman</td><td>2 mai</td><td>1979</td><td>1<sup>er</sup> juin</td><td>1979</td></tr>
+<tr><td>Îles Falkland et dépendances (Géorgie du Sud et îles Sandwich du Sud)</td><td>2 mai</td><td>1979</td><td>1<sup>er</sup> juin</td><td>1979</td></tr>
+<tr><td>Îles Pitcairn (Ducie, Oeno, Henderson et Pitcairn)</td><td>2 mai</td><td>1979</td><td>1<sup>er</sup> juin</td><td>1979</td></tr>
+<tr><td>Îles Turques et Caïques</td><td>2 mai</td><td>1979</td><td>1<sup>er</sup> juin</td><td>1979</td></tr>
+<tr><td>Îles Vierges britanniques</td><td>2 mai</td><td>1979</td><td>1<sup>er</sup> juin</td><td>1979</td></tr>
 <tr><td>Jersey</td><td>2 mai</td><td>1979</td><td>1<sup>er</sup> juin</td><td>1979</td></tr>
 <tr><td>Montserrat</td><td>2 mai</td><td>1979</td><td>1<sup>er</sup> juin</td><td>1979</td></tr>
 <tr><td>Sainte-Hélène et dépendances (Ascension et Tristan da Cunha)</td><td>2 mai</td><td>1979</td><td>1<sup>er</sup> juin</td><td>1979</td></tr>
@@ -403,15 +403,14 @@ Champ d’application le 1<sup>er</sup> mars 2019**[^t-2]**
 <tr><td>Vietnam\*</td><td>2 mai</td><td>2002 A</td><td>1<sup>er</sup> juin</td><td>2002</td></tr>
 <tr><td>Yémen (Aden)\*</td><td>9 février</td><td>1987 A</td><td>11 mars</td><td>1987</td></tr>
 <tr><td>Zambie</td><td>17 octobre</td><td>2016 A</td><td>16 novembre</td><td>2016</td></tr>
-<tr><td colspan="6">\* Réserves et déclarations. \*\* Objections Les réserves, déclarations et objections ne sont pas publiées au RO, à l’exception des réserves et déclarations de la Suisse. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet des Nations Unies: http://treaties.un.org ou obtenus à la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
-<tr><td colspan="6"><sup>a</sup> Pour le Royaume en Europe.</td></tr>
+<tr><td colspan="6">\* Réserves et déclarations. \*\* Objections Les réserves, déclarations et objections ne sont pas publiées au RO, à l’exception des réserves et déclarations de la Suisse. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet des Nations Unies: http://treaties.un.org ou obtenus à la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> Pour le Royaume en Europe.</td></tr>
 </table>
 
-[^t-2]: [RO 1985 439](https://fedlex.data.admin.ch/eli/oc/1985/439_439_439), [1986 512](https://fedlex.data.admin.ch/eli/oc/1986/512_512_512), [1987 772](https://fedlex.data.admin.ch/eli/oc/1987/772_772_772), [1988 2076](https://fedlex.data.admin.ch/eli/oc/1988/2076_2076_2076), [1990 1154](https://fedlex.data.admin.ch/eli/oc/1990/1154_1154_1154), [2004 2985](https://fedlex.data.admin.ch/eli/oc/2004/376), [2005 4993](https://fedlex.data.admin.ch/eli/oc/2005/682), [2006 4205](https://fedlex.data.admin.ch/eli/oc/2006/630), [2008 621](https://fedlex.data.admin.ch/eli/oc/2008/141), [2009 3871](https://fedlex.data.admin.ch/eli/oc/2009/483), [2012 4205](https://fedlex.data.admin.ch/eli/oc/2012/497), [2015 683](https://fedlex.data.admin.ch/eli/oc/2015/113), [2019 947](https://fedlex.data.admin.ch/eli/oc/2019/171). Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.dfae.admin.ch/traites).
+[^t-2]: [RO 1985 439](https://fedlex.data.admin.ch/eli/oc/1985/439_439_439); [1986 512](https://fedlex.data.admin.ch/eli/oc/1986/512_512_512); [1987 772](https://fedlex.data.admin.ch/eli/oc/1987/772_772_772); [1988 2076](https://fedlex.data.admin.ch/eli/oc/1988/2076_2076_2076); [1990 1154](https://fedlex.data.admin.ch/eli/oc/1990/1154_1154_1154); [2004 2985](https://fedlex.data.admin.ch/eli/oc/2004/376); [2005 4993](https://fedlex.data.admin.ch/eli/oc/2005/682); [2006 4205](https://fedlex.data.admin.ch/eli/oc/2006/630); [2008 621](https://fedlex.data.admin.ch/eli/oc/2008/141); [2009 3871](https://fedlex.data.admin.ch/eli/oc/2009/483); [2012 4205](https://fedlex.data.admin.ch/eli/oc/2012/497); [2015 683](https://fedlex.data.admin.ch/eli/oc/2015/113); [2019 947](https://fedlex.data.admin.ch/eli/oc/2019/171); [2026 306](https://fedlex.data.admin.ch/eli/oc/2026/306). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).
 
 Déclaration
 
-Suisse**[^t-3]**
+Suisse[^t-3]
 
 Le Conseil fédéral suisse interprète les articles 4 et 5, paragraphe 1, de la convention dans le sens que la Suisse s’engage à remplir les obligations qui sont contenues dans les conditions prévues par sa législation interne.
 

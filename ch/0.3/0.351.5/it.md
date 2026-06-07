@@ -3,11 +3,11 @@ sr: "0.351.5"
 title: "Convenzione del 14 dicembre 1973 sulla prevenzione e la repressione dei reati contro le persone che godono di una protezione internazionale, ivi compresi gli agenti diplomatici"
 eli: "https://fedlex.data.admin.ch/eli/cc/1985/439_439_439"
 language: it
-version: 2019-03-01
+version: 2026-06-08
 adopted: 1973-12-14
 in_force: 1985-04-04
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1985/439_439_439/20190301/it/xml/fedlex-data-admin-ch-eli-cc-1985-439_439_439-20190301-it-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1985/439_439_439/20190301/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1985/439_439_439/20260608/it/xml/fedlex-data-admin-ch-eli-cc-1985-439_439_439-20260608-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1985/439_439_439/20260608/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -20,7 +20,7 @@ Traduzione
 
 Conchiusa a Nuova York il 14 dicembre 1973 Approvata dall’Assemblea federale il 29 novembre 1984[^t-1] Istrumento d’adesione depositato dalla Svizzera il 5 marzo 1985 Entrata in vigore per la Svizzera il 4 aprile 1985
 
-(Stato 1° marzo 2019)
+(Stato 8 giugno 2026)
 
 [^t-1]: [RU 1985 438](https://fedlex.data.admin.ch/eli/oc/1985/438_438_438)
 
@@ -36,7 +36,7 @@ Convinti della necessità di adottare urgentemente misure appropriate e efficaci
 
 hanno convenuto quanto segue:
 
-[^ingress-1]: [RS 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
+[^ingress-1]: [RS 0.120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/41)
 
 #### Art. 1
 
@@ -47,9 +47,9 @@ Ai sensi della presente Convenzione:
 l’espressione «persona che gode di una protezione internazionale» comprende:
 
 - a) ogni capo di Stato, ivi compreso ogni membro di un organo collegiale che esplica le funzioni di capo di Stato in virtù della Costituzione dello Stato in questione; ogni capo di Governo o ogni ministro degli affari esteri quando tale persona si trova in uno Stato straniero, come pure i membri della sua famiglia che lo accompagnano;
-- b) ogni rappresentante, funzionario o personalità ufficiale di uno Stato e ogni funzionario, personalità ufficiale o altro agente di un’organizzazione intergovernativa che, al momento e nel luogo in cui un reato viene commesso contro la sua persona, i suoi locali ufficiali, il suo domicilio privato o i suoi mezzi di trasporto, Può pretendere conformemente al diritto internazionale una protezione speciale contro ogni pregiudizio alla sua persona, alla sua libertà o alla sua dignità, come pure i membri della sua famiglia che fanno parte della sua comunità domestica;
+- b) ogni rappresentante, funzionario o personalità ufficiale di uno Stato e ogni funzionario, personalità ufficiale o altro agente di un’organizzazione intergovernativa che, al momento e nel luogo in cui un reato viene commesso contro la sua persona, i suoi locali ufficiali, il suo domicilio privato o i suoi mezzi di trasporto, Può pretendere conformemente al diritto internazionale una protezione speciale contro ogni pregiudizio alla sua persona, alla sua libertà o alla sua dignità, come pure i membri della sua famiglia che fanno parte della sua comunità domestica.
 
-<sup>2.</sup> l’espressione «presunto autore del reato» comprende ogni persona contro la quale vi sono elementi di prova sufficienti per ritenere di primo acchito che essa ha commesso uno o più reati previsti all’articolo 2 o che vi ha partecipato.
+<sup>2.</sup> L’espressione «presunto autore del reato» comprende ogni persona contro la quale vi sono elementi di prova sufficienti per ritenere di primo acchito che essa ha commesso uno o più reati previsti all’articolo 2 o che vi ha partecipato.
 
 #### Art. 2
 
@@ -60,7 +60,7 @@ L’atto intenzionale:
 - a) di commettere un omicidio, un rapimento o un altro attacco contro la persona o la libertà di una persona che gode di una protezione internazionale;
 - b) di commettere, ricorrendo alla violenza e prendendo di mira i locali ufficiali, l’alloggio privato o i mezzi di trasporto di una persona che gode di una protezione internazionale, un attacco di natura tale da mettere in pericolo la sua persona o la sua libertà;
 - c) di minacciare di commettere un tale attacco;
-- d) di tentare di commettere un tale attacco, o
+- d) di tentare di commettere un tale attacco; o
 - e) di partecipare quale complice a un tale attacco, è considerato da ogni Stato contraente come un reato ai sensi della propria legislazione interna.
 
 <sup>2.</sup> Ogni Stato contraente rende questi reati passibili di pene appropriate che prendono in considerazione la loro gravità.
@@ -103,7 +103,7 @@ Se lo ritiene giustificato dalle circostanze, lo Stato contraente sul cui territ
 - a) allo Stato in cui il reato è stato commesso;
 - b) allo Stato o agli Stati di cui il presunto autore del reato ha la cittadinanza o, se questi è apolide, allo Stato sul cui territorio risiede in permanenza;
 - c) allo Stato o agli Stati di cui la persona che gode di una protezione internazionale ha la cittadinanza o per conto del quale esercitava le sue funzioni;
-- d) a tutti gli altri Stati interessati, e
+- d) a tutti gli altri Stati interessati; e
 - e) all’organizzazione intergovernativa di cui la persona che gode di una protezione internazionale è un funzionario, una personalità ufficiale o un agente.
 
 <sup>2.</sup>
@@ -190,7 +190,7 @@ L’originale della presente Convenzione, i cui testi cinese, francese, inglese,
 
 *In fede di che* i sottoscritti, debitamente autorizzati dai loro governi rispettivi, hanno firmato la presente Convenzione, aperta alla firma a Nuova York il 14 dicembre 1973. (Seguono le firme)
 
-Campo d’applicazione il 1° marzo 2019**[^t-2]**
+Campo d’applicazione l’8 giugno 2026[^t-2]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A) Dichiarazione di successione (S)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -292,7 +292,7 @@ Campo d’applicazione il 1° marzo 2019**[^t-2]**
 <tr><td>Liberia</td><td>30 settembre</td><td>1975 A</td><td>20 febbraio</td><td>1977</td></tr>
 <tr><td>Libia</td><td>25 settembre</td><td>2000 A</td><td>25 ottobre</td><td>2000</td></tr>
 <tr><td>Liechtenstein<sup>\*</sup></td><td>28 novembre</td><td>1994 A</td><td>28 dicembre</td><td>1994</td></tr>
-<tr><td>Lituania<sup>\*</sup></td><td>23 ottobre</td><td>2002 A</td><td>22 novembre</td><td>2002</td></tr>
+<tr><td>Lituania</td><td>23 ottobre</td><td>2002 A</td><td>22 novembre</td><td>2002</td></tr>
 <tr><td>Lussemburgo<sup>\*</sup></td><td>10 maggio</td><td>2006 A</td><td>9 giugno</td><td>2006</td></tr>
 <tr><td>Macedonia del Nord</td><td>12 marzo</td><td>1998 S</td><td>17 novembre</td><td>1991</td></tr>
 <tr><td>Madagascar</td><td>24 settembre</td><td>2003 A</td><td>24 ottobre</td><td>2003</td></tr>
@@ -318,10 +318,10 @@ Campo d’applicazione il 1° marzo 2019**[^t-2]**
 <tr><td>Nicaragua</td><td>10 marzo</td><td>1975</td><td>20 febbraio</td><td>1977</td></tr>
 <tr><td>Niger</td><td>17 giugno</td><td>1985 A</td><td>17 luglio</td><td>1985</td></tr>
 <tr><td>Nigeria</td><td>25 settembre</td><td>2012 A</td><td>25 ottobre</td><td>2012</td></tr>
-<tr><td>Niue</td><td>22 giugno</td><td>2009 A</td><td>22 luglio</td><td>2009</td></tr>
 <tr><td>Norvegia</td><td>28 aprile</td><td>1980</td><td>28 maggio</td><td>1980</td></tr>
 <tr><td>Nuova Zelanda<sup>\*</sup></td><td>12 novembre</td><td>1985 A</td><td>12 dicembre</td><td>1985</td></tr>
 <tr><td>Isole Cook</td><td>12 novembre</td><td>1985 A</td><td>12 dicembre</td><td>1985</td></tr>
+<tr><td>Niue</td><td>22 giugno</td><td>2009 A</td><td>22 luglio</td><td>2009</td></tr>
 <tr><td>Oman</td><td>22 marzo</td><td>1988 A</td><td>21 aprile</td><td>1988</td></tr>
 <tr><td>Paesi Bassi<sup>\* \*\*</sup> <sup>a</sup></td><td>6 dicembre</td><td>1988 A</td><td>5 gennaio</td><td>1989</td></tr>
 <tr><td>Aruba</td><td>6 dicembre</td><td>1988 A</td><td>5 gennaio</td><td>1989</td></tr>
@@ -347,6 +347,7 @@ Campo d’applicazione il 1° marzo 2019**[^t-2]**
 <tr><td>Isola di Man</td><td>2 maggio</td><td>1979</td><td>1° giugno</td><td>1979</td></tr>
 <tr><td>Isole Caimane</td><td>2 maggio</td><td>1979</td><td>1° giugno</td><td>1979</td></tr>
 <tr><td>Isole Falkland e dipendenze (Georgia del Sud e Isole Sandwich del Sud)</td><td>2 maggio</td><td>1979</td><td>1° giugno</td><td>1979</td></tr>
+<tr><td>Isole Pitcairn (Ducie, Oeno, Henderson e Pitcairn)</td><td>2 maggio</td><td>1979</td><td>1° giugno</td><td>1979</td></tr>
 <tr><td>Isole Turche e Caicos</td><td>2 maggio</td><td>1979</td><td>1° giugno</td><td>1979</td></tr>
 <tr><td>Isole Vergini britanniche</td><td>2 maggio</td><td>1979</td><td>1° giugno</td><td>1979</td></tr>
 <tr><td>Jersey</td><td>2 maggio</td><td>1979</td><td>1° giugno</td><td>1979</td></tr>
@@ -394,17 +395,16 @@ Campo d’applicazione il 1° marzo 2019**[^t-2]**
 <tr><td>Uzbekistan</td><td>19 gennaio</td><td>1998 A</td><td>18 febbraio</td><td>1998</td></tr>
 <tr><td>Venezuela<sup>\*</sup></td><td>19 aprile</td><td>2005 A</td><td>19 maggio</td><td>2005</td></tr>
 <tr><td>Vietnam<sup>\*</sup></td><td>2 maggio</td><td>2002 A</td><td>1° giugno</td><td>2002</td></tr>
-<tr><td>Yemen<sup>\*</sup></td><td>9 febbraio</td><td>1987 A</td><td>11 marzo</td><td>1987</td></tr>
+<tr><td>Yemen (Aden)<sup>\*</sup></td><td>9 febbraio</td><td>1987 A</td><td>11 marzo</td><td>1987</td></tr>
 <tr><td>Zambia</td><td>17 ottobre</td><td>2016 A</td><td>16 novembre</td><td>2016</td></tr>
-<tr><td colspan="6">\* Riserve e dichiarazioni. \*\* Obiezioni. Le riserve, dichiarazioni e obiezioni non sono pubblicate nella RU, eccetto le riserve e dichiarazioni della Svizzera. Il testo, in francese e inglese, può essere consultare sul sito Internet dell’Organizzazione delle Nazioni Unite: http://treaties.un.org/ oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
-<tr><td colspan="6"><sup>a</sup> Al Regno in Europa.</td></tr>
+<tr><td colspan="6">\* Riserve e dichiarazioni. \*\* Obiezioni. Le riserve, dichiarazioni e obiezioni non sono pubblicate nella RU, eccetto le riserve e dichiarazioni della Svizzera. Il testo, in francese e inglese, può essere consultare sul sito Internet dell’Organizzazione delle Nazioni Unite: http://treaties.un.org/ oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna. <sup>a</sup> Al Regno in Europa.</td></tr>
 </table>
 
-[^t-2]: [RU 1985 439](https://fedlex.data.admin.ch/eli/oc/1985/439_439_439), [1986 512](https://fedlex.data.admin.ch/eli/oc/1986/512_512_512), [1987 772](https://fedlex.data.admin.ch/eli/oc/1987/772_772_772), [1988 2076](https://fedlex.data.admin.ch/eli/oc/1988/2076_2076_2076), [1990 1154](https://fedlex.data.admin.ch/eli/oc/1990/1154_1154_1154), [2004 2985](https://fedlex.data.admin.ch/eli/oc/2004/376), [2005 4993](https://fedlex.data.admin.ch/eli/oc/2005/682), [2006 4205](https://fedlex.data.admin.ch/eli/oc/2006/630), [2008 621](https://fedlex.data.admin.ch/eli/oc/2008/141), [2009 3871](https://fedlex.data.admin.ch/eli/oc/2009/483), [2012 4205](https://fedlex.data.admin.ch/eli/oc/2012/497), [2015 683](https://fedlex.data.admin.ch/eli/oc/2015/113)e [2019 947](https://fedlex.data.admin.ch/eli/oc/2019/171). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
+[^t-2]: [RU 1985 439](https://fedlex.data.admin.ch/eli/oc/1985/439_439_439); [1986 512](https://fedlex.data.admin.ch/eli/oc/1986/512_512_512); [1987 772](https://fedlex.data.admin.ch/eli/oc/1987/772_772_772); [1988 2076](https://fedlex.data.admin.ch/eli/oc/1988/2076_2076_2076); [1990 1154](https://fedlex.data.admin.ch/eli/oc/1990/1154_1154_1154); [2004 2985](https://fedlex.data.admin.ch/eli/oc/2004/376); [2005 4993](https://fedlex.data.admin.ch/eli/oc/2005/682); [2006 4205](https://fedlex.data.admin.ch/eli/oc/2006/630); [2008 621](https://fedlex.data.admin.ch/eli/oc/2008/141); [2009 3871](https://fedlex.data.admin.ch/eli/oc/2009/483); [2012 4205](https://fedlex.data.admin.ch/eli/oc/2012/497); [2015 683](https://fedlex.data.admin.ch/eli/oc/2015/113); [2019 947](https://fedlex.data.admin.ch/eli/oc/2019/171); [2026 306](https://fedlex.data.admin.ch/eli/oc/2026/306). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: www.fedlex.admin.ch/it/treaty.
 
 Dichiarazione
 
-Svizzera**[^t-3]**
+Svizzera[^t-3]
 
 Il Consiglio federale svizzero interpreta l’articolo 4 e l’articolo 5 paragrafo 1 della convenzione nel senso che la Svizzera si impegna ad adempiere gli obblighi ivi contenuti alle condizioni previste dalla sua legislazione interna.
 
