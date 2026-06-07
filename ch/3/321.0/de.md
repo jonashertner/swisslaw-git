@@ -4,11 +4,11 @@ title: Militärstrafgesetz vom 13. Juni 1927 (MStG)
 short: MStG
 eli: "https://fedlex.data.admin.ch/eli/cc/43/359_375_369"
 language: de
-version: 2026-06-01
+version: 2026-06-08
 adopted: 1927-06-13
 in_force: 1928-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/43/359_375_369/20260601/de/xml/fedlex-data-admin-ch-eli-cc-43-359_375_369-20260601-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/43/359_375_369/20260601/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/43/359_375_369/20260608/de/xml/fedlex-data-admin-ch-eli-cc-43-359_375_369-20260608-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/43/359_375_369/20260608/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/43/359_375_369/20260601/de"
 
 (MStG)
 
-vom 13. Juni 1927 (Stand am 1. Juni 2026)
+vom 13. Juni 1927 (Stand am 8. Juni 2026)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -68,7 +68,7 @@ Dem Militärstrafrecht unterstehen:
 - 3\. Dienstpflichtige, die ausserhalb des Dienstes in Uniform auftreten, für strafbare Handlungen nach den Artikeln 61–114 und 138–144;
 - 4\. Dienstpflichtige ausserhalb des Dienstes in Bezug auf ihre militärische Stellung und ihre dienstlichen Pflichten sowie ehemalige Dienstpflichtige, soweit ihre dienstlichen Pflichten nicht erfüllt sind.
 - 5\. Stellungspflichtige mit Bezug auf ihre Stellungspflicht sowie während des Orientierungstags und während der Dauer der Rekrutierungstage;
-- 6\.[^3-3] Berufs- und Zeitmilitärs sowie Personen, die nach Artikel 66 des Militärgesetzes vom 3. Februar 1995[^3-4] (MG) Friedensförderungsdienst leisten, während der Ausübung des Dienstes, ausserhalb des Dienstes mit Bezug auf ihre dienstlichen Pflichten und ihre dienstliche Stellung oder wenn sie die Uniform tragen;
+- 6\.[^3-3] Berufs- und Zeitmilitärs, Angehörige des Grenzwachtkorps sowie Personen, die nach Artikel 66 des Militärgesetzes vom 3. Februar 1995[^3-4] (MG) Friedensförderungsdienst leisten, während der Ausübung des Dienstes, ausserhalb des Dienstes mit Bezug auf ihre dienstlichen Pflichten und ihre dienstliche Stellung oder wenn sie die Uniform tragen;
 - 7\. Zivilpersonen oder ausländische Militärpersonen, die sich schuldig machen der landesverräterischen Verletzung militärischer Geheimnisse (Art. 86), der Sabotage (Art. 86*a*), der Schwächung der Wehrkraft (Art. 94–96), der Verletzung militärischer Geheimnisse (Art. 106) oder des Ungehorsams gegen militärische und behördliche Massnahmen, die der Vorbereitung oder Durchführung der Mobilmachung der Armee oder der Wahrung des militärischen Geheimnisses dienen (Art. 107);
 - 8\.[^3-5] Zivilpersonen oder ausländische Militärpersonen für Taten nach den Artikeln 115–179, die sie als Angestellte oder Beauftragte der Armee oder der Militärverwaltung im Zusammenwirken mit der Truppe begehen;
 - 9\.[^3-6] Zivilpersonen und ausländische Militärpersonen, die im Ausland gegen einen Angehörigen der Schweizer Armee eine Tat nach dem sechsten Abschnitt (Art. 108 und 109) oder dem sechsten Abschnitt<sup>bis</sup> (Art. 110–114) des zweiten Teils oder nach Artikel 114*a* begehen.
@@ -77,10 +77,10 @@ Dem Militärstrafrecht unterstehen:
 
 [^3-1]: Fassung gemäss Ziff. IV Bst. a des BG vom 3. Okt. 2003 (Revision der Disziplinarstrafordnung), in Kraft seit 1. März 2004 ([AS 2004 921](https://fedlex.data.admin.ch/eli/oc/2004/107); [BBl 2002 7859](https://fedlex.data.admin.ch/eli/fga/2002/1270)).
 [^3-2]: Fassung gemäss Ziff. I des BG vom 3. Okt. 2008 (Korrekturen infolge der Revision des AT MStG und weitere Anpassungen), in Kraft seit 1. März 2009 ([AS 2009 701](https://fedlex.data.admin.ch/eli/oc/2009/117); [BBl 2007 8353](https://fedlex.data.admin.ch/eli/fga/2007/1322)).
-[^3-3]: Fassung gemäss Anhang Ziff. 1 des BG vom 19. Dez. 2025, in Kraft seit 1. Juni 2026 ([AS 2026 164](https://fedlex.data.admin.ch/eli/oc/2026/164); [BBl 2025 960](https://fedlex.data.admin.ch/eli/fga/2025/960)).
+[^3-3]: Fassung gemäss Anhang Ziff. 1 des BG vom 19. Dez. 2025, in Kraft seit 1. Juni 2026 ([AS 2026 164](https://fedlex.data.admin.ch/eli/oc/2026/164); [BBl 2025 960](https://fedlex.data.admin.ch/eli/fga/2025/960)). Berichtigung der RedK der BVers vom 5. Juni 2026, veröffentlicht am 8. Juni 2026 ([AS 2026 284](https://fedlex.data.admin.ch/eli/oc/2026/284)).
 [^3-4]: [SR 510.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7242)
 [^3-5]: Fassung gemäss Ziff. I des BG vom 3. Okt. 2008 (Korrekturen infolge der Revision des AT MStG und weitere Anpassungen), in Kraft seit 1. März 2009 ([AS 2009 701](https://fedlex.data.admin.ch/eli/oc/2009/117); [BBl 2007 8353](https://fedlex.data.admin.ch/eli/fga/2007/1322)).
-[^3-6]: Fassung gemäss Ziff. I 2 des BG vom 18. Juni 2010 über die Änderung von Bundesge-setzen zur Umsetzung des Römer Statuts des Internationalen Strafgerichtshofs, in Kraft seit 1. Jan. 2011 ([AS 2010 4963](https://fedlex.data.admin.ch/eli/oc/2010/704); [BBl 2008 3863](https://fedlex.data.admin.ch/eli/fga/2008/807)).
+[^3-6]: Fassung gemäss Ziff. I 2 des BG vom 18. Juni 2010 über die Änderung von Bundesgesetzen zur Umsetzung des Römer Statuts des Internationalen Strafgerichtshofs, in Kraft seit 1. Jan. 2011 ([AS 2010 4963](https://fedlex.data.admin.ch/eli/oc/2010/704); [BBl 2008 3863](https://fedlex.data.admin.ch/eli/fga/2008/807)).
 
 ### Erweiterte Geltung im Fall aktiven Dienstes
 

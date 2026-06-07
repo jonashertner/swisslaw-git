@@ -4,11 +4,11 @@ title: Code pénal militaire du 13 juin 1927 (CPM)
 short: CPM
 eli: "https://fedlex.data.admin.ch/eli/cc/43/359_375_369"
 language: fr
-version: 2026-06-01
+version: 2026-06-08
 adopted: 1927-06-13
 in_force: 1928-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/43/359_375_369/20260601/fr/xml/fedlex-data-admin-ch-eli-cc-43-359_375_369-20260601-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/43/359_375_369/20260601/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/43/359_375_369/20260608/fr/xml/fedlex-data-admin-ch-eli-cc-43-359_375_369-20260608-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/43/359_375_369/20260608/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/43/359_375_369/20260601/fr"
 
 (CPM)
 
-du 13 juin 1927 (État le 1<sup>er</sup> juin 2026)
+du 13 juin 1927 (État le 8 juin 2026)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -68,7 +68,7 @@ Sont soumis au droit pénal militaire:
 - 3\. les personnes astreintes au service militaire, lorsqu’elles portent l’uniforme en dehors du service et qu’elles commettent les infractions prévues aux art. 61 à 114 et 138 à 144;
 - 4\. les personnes astreintes au service militaire, même si elles ne sont pas au service, pour ce qui concerne leur situation militaire et leurs devoirs de service, de même que les personnes ayant été astreintes au service militaire, tant qu’elles n’ont pas rempli leurs devoirs de service;
 - 5\.[^3-3] les conscrits, pour ce qui concerne l’obligation de se présenter, ainsi que pendant la journée d’information et la durée des journées de recrutement;
-- 6\.[^3-4] les militaires de métier, les militaires contractuels et les personnes qui, selon l’art. 66 de la loi du 3 février 1995 sur l’armée (LAAM)[^3-5], effectuent un service de promotion de la paix, pour les infractions commises durant le service, les infractions commises hors du service mais touchant leurs obligations militaires ou leur situation militaire et les infractions commises en uniforme;
+- 6\.[^3-4] les militaires de métier, les militaires contractuels, les personnes faisant partie du corps des gardes-frontière ainsi que les personnes qui, selon l’art. 66 de la loi du 3 février 1995 sur l’armée (LAAM)[^3-5], effectuent un service de promotion de la paix, pour les infractions commises durant le service, les infractions commises hors du service mais touchant leurs obligations militaires ou leur situation militaire et les infractions commises en uniforme;
 - 7\. les civils ou les militaires étrangers qui se rendent coupables de trahison par violation de secrets intéressant la défense nationale (art. 86), de sabotage (art. 86*a*), d’atteinte à la puissance défensive du pays (art. 94 à 96), de violation de secrets militaires (art. 106) ou de désobéissance à des mesures prises par les autorités militaires ou civiles en vue de préparer ou d’exécuter la mobilisation de l’armée ou de sauvegarder le secret militaire (art. 107);
 - 8\.[^3-6] les civils ou les militaires étrangers, pour les actes prévus aux art. 115 à 179 qu’ils commettent comme employés ou mandataires de l’armée ou de l’administration militaire dans le cadre de la collaboration avec la troupe;
 - 9\.[^3-7] les civils ou les militaires étrangers qui commettent à l’étranger contre un militaire suisse un des actes visés aux chapitres 6 (art. 108 et 109) et 6<sup>bis</sup> (art. 110 à 114) de la partie 2 ou à l’art. 114*a*.
@@ -78,7 +78,7 @@ Sont soumis au droit pénal militaire:
 [^3-1]: Nouvelle teneur selon le ch. IV let. a de la LF du 3 oct. 2003 (Révision du droit disciplinaire), en vigueur depuis le 1<sup>er</sup> mars 2004 (RO **2004** 92; [FF 2002 7285](https://fedlex.data.admin.ch/eli/fga/2002/1270)).
 [^3-2]: Nouvelle teneur selon le ch. I de la LF du 3 oct. 2008 (Mod. découlant de la nouvelle PG CPM et autres adaptations), en vigueur depuis le 1<sup>er</sup> mars 2009 ([RO 2009 701](https://fedlex.data.admin.ch/eli/oc/2009/117); [FF 2007 7845](https://fedlex.data.admin.ch/eli/fga/2007/1322)).
 [^3-3]: Nouvelle teneur selon l’annexe ch. 3 de la LF du 19 mars 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869); [FF 2009 5331](https://fedlex.data.admin.ch/eli/fga/2009/1057)).
-[^3-4]: Nouvelle teneur selon l’annexe ch. 1 de la LF du 19 déc. 2025, en vigueur depuis le 1<sup>er</sup> juin 2026 ([RO 2026 164](https://fedlex.data.admin.ch/eli/oc/2026/164); [FF 2025 960](https://fedlex.data.admin.ch/eli/fga/2025/960)).
+[^3-4]: Nouvelle teneur selon l’annexe ch. 1 de la LF du 19 déc. 2025, en vigueur depuis le 1<sup>er</sup> juin 2026 ([RO 2026 164](https://fedlex.data.admin.ch/eli/oc/2026/164); [FF 2025 960](https://fedlex.data.admin.ch/eli/fga/2025/960)). Erratum de la CdR de l’Ass. féd. du 5 juin 2026, publié le 8 juin 2026 ([RO 2026 284](https://fedlex.data.admin.ch/eli/oc/2026/284)).
 [^3-5]: [RS 510.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7242)
 [^3-6]: Nouvelle teneur selon le ch. I de la LF du 3 oct. 2008 (Mod. découlant de la nouvelle PG CPM et autres adaptations), en vigueur depuis le 1<sup>er</sup> mars 2009 ([RO 2009 701](https://fedlex.data.admin.ch/eli/oc/2009/117); [FF 2007 7845](https://fedlex.data.admin.ch/eli/fga/2007/1322)).
 [^3-7]: Nouvelle teneur selon le ch. I 2 de la LF du 18 juin 2010 portant mod. de LF en vue de la mise en oeuvre du Statut de Rome de la Cour pénale internationale, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 4963](https://fedlex.data.admin.ch/eli/oc/2010/704); [FF 2008 3461](https://fedlex.data.admin.ch/eli/fga/2008/807)).

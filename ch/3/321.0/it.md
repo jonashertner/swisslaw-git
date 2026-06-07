@@ -4,18 +4,18 @@ title: Codice penale militare del 13 giugno 1927 (CPM)
 short: CPM
 eli: "https://fedlex.data.admin.ch/eli/cc/43/359_375_369"
 language: it
-version: 2026-06-01
+version: 2026-06-08
 adopted: 1927-06-13
 in_force: 1928-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/43/359_375_369/20260601/it/xml/fedlex-data-admin-ch-eli-cc-43-359_375_369-20260601-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/43/359_375_369/20260601/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/43/359_375_369/20260608/it/xml/fedlex-data-admin-ch-eli-cc-43-359_375_369-20260608-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/43/359_375_369/20260608/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Codice penale militare
 
-del 13 giugno 1927 (Stato 1° giugno 2026)
+del 13 giugno 1927 (Stato 8 giugno 2026)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -66,7 +66,7 @@ Sono sottoposti al diritto penale militare:
 - 3\. le persone obbligate al servizio militare che portano l’uniforme fuori del servizio, per i reati di cui agli articoli 61–114 e 138–144;
 - 4\.[^3-3] le persone obbligate al servizio militare, anche fuori del servizio, per quanto concerne la loro posizione militare e i loro doveri di servizio, nonché le persone che erano obbligate al servizio militare, fintanto che non hanno adempiuto i loro doveri di servizio;
 - 5\.[^3-4] le persone soggette all’obbligo di leva per quanto concerne l’obbligo di presentarsi, nonché durante la giornata informativa e le giornate di reclutamento;
-- 6\.[^3-5] i militari di professione, i militari a contratto temporaneo nonché le persone che prestano servizio di promovimento della pace ai sensi dell’articolo 66 della legge militare del 3 febbraio 1995[^3-6] (LM), durante il servizio o fuori del servizio ma in relazione con i loro doveri di servizio o la loro posizione militare, oppure quando portano l’uniforme;
+- 6\.[^3-5] i militari di professione, i militari a contratto temporaneo, i membri del Corpo delle guardie di confine, nonché le persone che prestano servizio di promovimento della pace ai sensi dell’articolo 66 della legge militare del 3 febbraio 1995[^3-6] (LM), durante il servizio o fuori del servizio ma in relazione con i loro doveri di servizio o la loro posizione militare, oppure quando portano l’uniforme;
 - 7\. le persone di condizione civile o i militari stranieri che si rendono colpevoli di tradimento con la violazione di segreti militari (art. 86), di sabotaggio (art. 86*a*), d’indebolimento della forza difensiva del Paese (art. 94–96), di violazione di segreti militari (art. 106) o di disobbedienza a misure prese dalle autorità militari e civili allo scopo di preparare o di eseguire la mobilitazione dell’esercito o di tutelare il segreto militare (art. 107);
 - 8\.[^3-7] le persone di condizione civile o i militari stranieri, per i reati di cui agli articoli 115–179 da essi commessi in qualità di impiegati o incaricati dell’esercito o dell’amministrazione militare congiuntamente con la truppa;
 - 9\.[^3-8] le persone di condizione civile e i militari stranieri che commettono all’estero contro un militare svizzero un reato previsto dal capo sesto (art. 108 e 109) o sesto<sup>bis</sup> (art. 110–114) della parte seconda o dall’articolo 114*a*.
@@ -77,7 +77,7 @@ Sono sottoposti al diritto penale militare:
 [^3-2]: Nuovo testo giusta la cifra I della LF del 3 ott. 2008 (Modifiche in seguito alla revisione della parte generale del CPM e altri adeguamenti), in vigore dal 1° mar. 2009 ([RU 2009 701](https://fedlex.data.admin.ch/eli/oc/2009/117); [FF 2007 7545](https://fedlex.data.admin.ch/eli/fga/2007/1322)).
 [^3-3]: Nuovo testo giusta la cifra I della LF del 3 ott. 2008 (Modifiche in seguito alla revisione della parte generale del CPM e altri adeguamenti), in vigore dal 1° mar. 2009 ([RU 2009 701](https://fedlex.data.admin.ch/eli/oc/2009/117); [FF 2007 7545](https://fedlex.data.admin.ch/eli/fga/2007/1322)).
 [^3-4]: Nuovo testo giusta l’all. n. 3 della LF del 19 mar. 2010, in vigore dal 1° gen. 2011 ([RU 2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869); [FF 2009 5137](https://fedlex.data.admin.ch/eli/fga/2009/1057)).
-[^3-5]: Nuovo testo giusta l’all. n. 1 della LF del 19 dic. 2025, in vigore dal 1° giu. 2026 ([RU 2026 164](https://fedlex.data.admin.ch/eli/oc/2026/164); [FF 2025 960](https://fedlex.data.admin.ch/eli/fga/2025/960)).
+[^3-5]: Nuovo testo giusta l’all. n. 1 della LF del 19 dic. 2025, in vigore dal 1° giu. 2026 ([RU 2026 164](https://fedlex.data.admin.ch/eli/oc/2026/164); [FF 2025 960](https://fedlex.data.admin.ch/eli/fga/2025/960)). Correzione della CdR dell’AF del 5 giu. 2026, pubblicata l’8 giu. 2026 ([RU 2026 284](https://fedlex.data.admin.ch/eli/oc/2026/284)).
 [^3-6]: [RS 510.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7242)
 [^3-7]: Nuovo testo giusta la cifra I della LF del 3 ott. 2008 (Modifiche in seguito alla revisione della parte generale del CPM e altri adeguamenti), in vigore dal 1° mar. 2009 ([RU 2009 701](https://fedlex.data.admin.ch/eli/oc/2009/117); [FF 2007 7545](https://fedlex.data.admin.ch/eli/fga/2007/1322)).
 [^3-8]: Nuovo testo giusta la cifra I n. 2 della LF del 18 giu. 2010 sulla modifica di leggi federali per l’attuazione dello Statuto di Roma della Corte penale internazionale, in vigore dal 1° gen. 2011 ([RU 2010 4963](https://fedlex.data.admin.ch/eli/oc/2010/704); [FF 2008 3293](https://fedlex.data.admin.ch/eli/fga/2008/807)).
@@ -1529,9 +1529,9 @@ chiunque arbitrariamente abbandona il proprio posto di guardia o trasgredisce in
 
 Se il reato avviene intenzionalmente in faccia al nemico, può essere pronunciata la pena detentiva a vita.
 
-[^76-1]: Nuovo testo giusta il n. I 2 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
-[^76-2]: Introdotto dal n. I 2 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
-[^76-3]: Nuovo testo giusta il n. I della LF del 20 mar. 1992, in vigore dal 1° set. 1992 ([RU 1992 1679](https://fedlex.data.admin.ch/eli/oc/1992/1679_1679_1679); [FF 1991 II 1216](https://fedlex.data.admin.ch/eli/fga/1991/2___1216), IV 173).
+[^76-1]: Nuovo testo giusta la cifra I n. 2 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^76-2]: Introdotto dalla cifra I n. 2 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^76-3]: Nuovo testo giusta la cifra I della LF del 20 mar. 1992, in vigore dal 1° set. 1992 ([RU 1992 1679](https://fedlex.data.admin.ch/eli/oc/1992/1679_1679_1679); [FF 1991 II 1216](https://fedlex.data.admin.ch/eli/fga/1991/2___1216), IV 173).
 
 ### Violazione del segreto di servizio
 
@@ -2658,7 +2658,7 @@ per il modo in cui ha perpetrato la rapina, si dimostra comunque particolarmente
 
 <sup>1.</sup> Chiunque, per procacciare a sé o ad altri un indebito profitto, usando violenza contro una persona o minacciandola di un grave danno, la induce ad atti pregiudizievoli al patrimonio proprio o altrui, è punito con una pena detentiva sino a cinque anni o con una pena pecuniaria. …[^137a-2]
 
-<sup>2.</sup> Il colpevole è punito con una pena detentiva da uno a dieci anni se fa mestiere dell’estorsione o commette ripetutamente l’estorsione in danno della medesima persona.[^137a-3]
+<sup>2.</sup> Il colpevole è punito con una pena detentiva da sei mesi a dieci anni se fa mestiere dell’estorsione o commette ripetutamente l’estorsione in danno della medesima persona.[^137a-3]
 
 <sup>3.</sup> Se il colpevole commette l’estorsione usando violenza contro una persona o minacciandola di un pericolo imminente alla vita o all’integrità corporale, la pena è quella comminata dall’articolo 132
 
@@ -2666,7 +2666,7 @@ per il modo in cui ha perpetrato la rapina, si dimostra comunque particolarmente
 
 [^137a-1]: Nuovo testo giusta la cifra II della LF del 17 giu. 1994, in vigore dal 1° gen. 1995 ([RU 1994 2290](https://fedlex.data.admin.ch/eli/oc/1994/2290_2290_2290); [FF 1991 II 797](https://fedlex.data.admin.ch/eli/fga/1991/2_969_933_797)).
 [^137a-2]: Per. abrogato dalla cifra II n. 1 cpv. 25 della LF del 21 mar. 2003, con effetto dal 1° gen. 2007 ([RU 2006 3389](https://fedlex.data.admin.ch/eli/oc/2006/538); FF **1999** 1669).
-[^137a-3]: Nuovo testo giusta la cifra II n. 1 cpv. 25 della LF del 21 mar. 2003, in vigore dal 1° gen. 2007 ([RU 2006 3389](https://fedlex.data.admin.ch/eli/oc/2006/538); FF **1999** 1669).
+[^137a-3]: Nuovo testo giusta la cifra I n. 2 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 [^137a-4]: Nuovo testo giusta la cifra I n. 2 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Ricettazione
