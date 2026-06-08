@@ -3,13 +3,12 @@ canton: FR
 number: "612.21"
 title: Verordnung über die massgebenden Beträge gemäss der letzten Staatsrechnung
 language: de
-version: 2025-06-03
-valid_until: 2026-06-08
-version_adopted: 2025-06-03
+version: 2026-06-09
+version_adopted: 2026-06-09
 adopted: 2026-06-09
 in_force: 2026-06-09
 url: "https://bdlf.fr.ch/app/de/texts_of_law/612.21"
-pdf: "https://bdlf.fr.ch/api/de/versions/8196/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/8620/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +17,7 @@ pdf: "https://bdlf.fr.ch/api/de/versions/8196/pdf_file"
 
 Beträge gemäss der letzten Staatsrechnung – V
 
-vom 03.06.2025 (Fassung in Kraft getreten am 03.06.2025)
+vom 09.06.2026 (Fassung in Kraft getreten am 09.06.2026)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -30,11 +29,11 @@ gestützt auf Artikel 134b des Gesetzes vom 6. April 2001 über die Ausübung de
 
 gestützt auf die Artikel 30, 43 und 44 des Gesetzes vom 25. November 1994 über den Finanzhaushalt des Staates (FHG);
 
-gestützt auf das Dekret vom 21. Mai 2025 zur Staatsrechnung des Kantons Freiburg für das Jahr 2024;
+gestützt auf das Dekret vom 21. Mai 2026 zur Staatsrechnung des Kantons Freiburg für das Jahr 2025;
 
 in Erwägung:
 
-Die Gesamtausgaben oder der Gesamtaufwand der Staatsrechnung dienen laut der Kantonsverfassung und den oben genannten Gesetzen als Berechnungsgrundlage für die Beträge, ab denen ein Erlass dem Finanzreferendum untersteht, im Grossen Rat eine Genehmigung durch die Mehrheit der Mitglieder erforderlich ist oder ein Verpflichtungskredit vorgelegt werden muss, und für die Erteilung gewisser finanzieller Befugnisse an den Grossen Rat und an den Staatsrat.
+Die Gesamtausgaben oder der Gesamtaufwand der Staatsrechnung dienen laut der Kantonsverfassung und den oben genannten Gesetzen als Berechnungsgrundlage für die Beträge, ab denen ein Erlass dem Finanzreferendum untersteht, im Grossen Rat eine Genehmigung durch die Mehrheit der Mitglieder erforderlich ist oder ein Verpflichtungskredit vorgelegt werden muss, sowie für die Erteilung gewisser finanzieller Befugnisse an den Grossen Rat und an den Staatsrat.
 
 Im Interesse der Transparenz und zur Bekanntmachung der letzten aktualisierten Zahlen müssen die für diese Erlasse geltenden massgebenden Beträge jedes Jahr, unmittelbar nachdem der Grosse Rat das Dekret zur Staatsrechnung genehmigt hat, veröffentlicht werden.
 
@@ -48,27 +47,27 @@ beschliesst:
 
 #### Art. 2
 
-<sup>1</sup> Auf der Grundlage der Staatsrechnung 2024 des Kantons Freiburg, die vom Grossen Rat am 21. Mai 2025 genehmigt worden ist, gelten die folgenden massgebenden Beträge:
+<sup>1</sup> Auf der Grundlage der Staatsrechnung 2025 des Kantons Freiburg, die vom Grossen Rat am 21. Mai 2026 genehmigt worden ist, gelten die folgenden massgebenden Beträge:
 
 <table>
 <tr><th>Verfassungs- und Rechtsgrundlagen</th><th>Satz</th><th>Bezugsgrundlage</th><th>Beträge</th></tr>
-<tr><td>♦ Verfassung des Kantons Freiburg vom 16. Mai 2004 (Art. 45 und 46)</td><td></td><td></td><td></td></tr>
-<tr><td>– obligatorisches Finanzreferendum</td><td>&gt; 1 %</td><td>Gesamtausgaben \*</td><td>&gt; Fr. 45'940'183</td></tr>
-<tr><td>– fakultatives Finanzreferendum</td><td>&gt; ¼ %</td><td>Gesamtausgaben \*</td><td>&gt; Fr. 11'485'046</td></tr>
-<tr><td>♦ Grossratsgesetz vom 6. September 2006 (Art. 141)</td><td></td><td></td><td></td></tr>
-<tr><td>– einmalige Ausgaben</td><td>&gt; ⅛ %</td><td>Gesamtausgaben \*</td><td>&gt; Fr. 5'742'523</td></tr>
-<tr><td>– wiederkehrende Ausgaben</td><td>&gt; 1/40 %</td><td>Gesamtausgaben \*</td><td>&gt; Fr. 1'148'505</td></tr>
-<tr><td>– Einnahmenreduktionen</td><td>&gt; ⅛ %</td><td>Gesamtausgaben \*</td><td>&gt; Fr. 5'742'523</td></tr>
-<tr><td>♦ Gesetz vom 6. April 2001 über die Ausübung der politischen Rechte (Art. 134b)</td><td></td><td></td><td></td></tr>
-<tr><td>– Studienkredite</td><td>&gt; ½ ‰</td><td>Gesamtausgaben \*</td><td>&gt; Fr. 2'297'009</td></tr>
-<tr><td>♦ Gesetz vom 25. November 1994 über den Finanzhaushalt des Staates</td><td></td><td></td><td></td></tr>
-<tr><td>– Art. 30: Verpflichtungskredit für Investitionsausgaben, Ausgaben für Umbau und Renovierung sowie für Investitionsbeiträge</td><td>&gt; ⅛ %</td><td>Gesamtausgaben \*</td><td>&gt; Fr. 5'742'523</td></tr>
+<tr><td>**Verfassung des Kantons Freiburg vom 16. Mai 2004 (Art. 45 und 46)**</td><td></td><td></td><td></td></tr>
+<tr><td>– obligatorisches Finanzreferendum</td><td>&gt; 1 %</td><td>Gesamtausgaben \*</td><td>&gt; Fr. 47'789'550</td></tr>
+<tr><td>– fakultatives Finanzreferendum</td><td>&gt; ¼ %</td><td>Gesamtausgaben \*</td><td>&gt; Fr. 11'947'388</td></tr>
+<tr><td>**Grossratsgesetz vom 6. September 2006 (Art. 141)**</td><td></td><td></td><td></td></tr>
+<tr><td>– einmalige Ausgaben</td><td>&gt; ⅛ %</td><td>Gesamtausgaben \*</td><td>&gt; Fr. 5'973'694</td></tr>
+<tr><td>– wiederkehrende Ausgaben</td><td>&gt; 1/40 %</td><td>Gesamtausgaben \*</td><td>&gt; Fr. 1'194'739</td></tr>
+<tr><td>– Einnahmenreduktionen</td><td>&gt; ⅛ %</td><td>Gesamtausgaben \*</td><td>&gt; Fr. 5'973'694</td></tr>
+<tr><td>**Gesetz vom 6. April 2001 über die Ausübung der politischen Rechte (Art. 134b)**</td><td></td><td></td><td></td></tr>
+<tr><td>– Studienkredite</td><td>&gt; ½ ‰</td><td>Gesamtausgaben \*</td><td>&gt; Fr. 2'389'478</td></tr>
+<tr><td>**Gesetz vom 25. November 1994 über den Finanzhaushalt des Staates**</td><td></td><td></td><td></td></tr>
+<tr><td>– Art. 30: Verpflichtungskredit für Investitionsausgaben, Ausgaben für Umbau und Renovierung sowie für Investitionsbeiträge</td><td>&gt; ⅛ %</td><td>Gesamtausgaben \*</td><td>&gt; Fr. 5'973'694</td></tr>
 <tr><td>– Art. 43: Befugnisse des Grossen Rates</td><td></td><td></td><td></td></tr>
-<tr><td>• Erwerb und Veräusserung von Vermögenswerten des Finanzvermögens</td><td>&gt; ½ %</td><td>Gesamtaufwand \*\*</td><td>&gt; Fr. 21'701'020</td></tr>
-<tr><td>• weitere finanzielle Befugnisse</td><td>&gt; 0,2 ‰</td><td>Gesamtaufwand \*\*</td><td>&gt; Fr. 868'041</td></tr>
+<tr><td>• Erwerb und Veräusserung von Vermögenswerten des Finanzvermögens</td><td>&gt; ½ %</td><td>Gesamtaufwand \*\*</td><td>&gt; Fr. 22'744'976</td></tr>
+<tr><td>• weitere finanzielle Befugnisse</td><td>&gt; 0,2 ‰</td><td>Gesamtaufwand \*\*</td><td>&gt; Fr. 909'799</td></tr>
 <tr><td>– Art. 44: Befugnisse des Staatsrats</td><td></td><td></td><td></td></tr>
-<tr><td>• Erwerb und Veräusserung von Vermögenswerten des Finanzvermögens</td><td>≤ ½ %</td><td>Gesamtaufwand \*\*</td><td>≤ Fr. 21'701'020</td></tr>
-<tr><td>• weitere finanzielle Befugnisse</td><td>≤ 0,2 ‰</td><td>Gesamtaufwand \*\*</td><td>≤ Fr. 868'041</td></tr>
+<tr><td>• Erwerb und Veräusserung von Vermögenswerten des Finanzvermögens</td><td>≤ ½ %</td><td>Gesamtaufwand \*\*</td><td>≤ Fr. 22'744'976</td></tr>
+<tr><td>• weitere finanzielle Befugnisse</td><td>≤ 0,2 ‰</td><td>Gesamtaufwand \*\*</td><td>≤ Fr. 909'799</td></tr>
 </table>
 
-2025\_035
+2026\_049
