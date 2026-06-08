@@ -3,11 +3,11 @@ sr: "0.814.012"
 title: Accordo di Parigi del 12 dicembre 2015 (Accordo sul clima)
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/619"
 language: it
-version: 2024-07-23
+version: 2026-06-09
 adopted: 2015-12-12
 in_force: 2017-11-05
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/619/20240723/it/xml/fedlex-data-admin-ch-eli-cc-2017-619-20240723-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/619/20240723/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/619/20260609/it/xml/fedlex-data-admin-ch-eli-cc-2017-619-20260609-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/619/20260609/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -22,7 +22,7 @@ RU **2017** 5735; FF **2017** 265
 
 Concluso a Parigi il 12 dicembre 2015 Approvato dall’Assemblea federale il 16 giugno 2017[^t-2] Ratificato con strumenti depositati dalla Svizzera il 6 ottobre 2017 Entrato in vigore per la Svizzera il 5 novembre 2017
 
-(Stato 23 luglio 2024)
+(Stato 9 giugno 2026)
 
 [^t-1]: Correzione dell’8 dic. 2020 ([RU 2020 5373](https://fedlex.data.admin.ch/eli/oc/2020/929)).
 [^t-2]: [RU 2017 5733](https://fedlex.data.admin.ch/eli/oc/2017/618)
@@ -63,7 +63,7 @@ riconoscendo altresì che stili di vita sostenibili e schemi di consumo e produz
 
 hanno convenuto quanto segue:
 
-[^ingress-1]: [RS 0.814.01](https://fedlex.data.admin.ch/eli/cc/1994/1052_1052_1052)
+[^ingress-1]: [RS 0.814.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3475)
 
 #### Art. 1
 
@@ -451,7 +451,7 @@ Fatto a Parigi, il 12 dicembre 2015.
 
 *In fede di che* i sottoscritti, debitamente autorizzati a tal fine hanno firmato il presente Accordo. (Seguono le firme)
 
-Campo d’applicazione il 23 luglio 2024[^t-3]
+Campo d’applicazione il 9 giugno 2026[^t-3]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -628,7 +628,6 @@ Campo d’applicazione il 23 luglio 2024[^t-3]
 <tr><td>Somalia</td><td>22 aprile</td><td>2016</td><td>4 novembre</td><td>2016</td></tr>
 <tr><td>Spagna\*</td><td>12 gennaio</td><td>2017</td><td>11 febbraio</td><td>2017</td></tr>
 <tr><td>Sri Lanka</td><td>21 settembre</td><td>2016</td><td>4 novembre</td><td>2016</td></tr>
-<tr><td>Stati Uniti</td><td>20 gennaio</td><td>2021</td><td>19 febbraio</td><td>2021</td></tr>
 <tr><td>Sudafrica</td><td>1° novembre</td><td>2016</td><td>1° dicembre</td><td>2016</td></tr>
 <tr><td>Sudan</td><td>2 agosto</td><td>2017</td><td>1° settembre</td><td>2017</td></tr>
 <tr><td>Sudan del Sud</td><td>23 febbraio</td><td>2021</td><td>25 marzo</td><td>2021</td></tr>
@@ -657,9 +656,7 @@ Campo d’applicazione il 23 luglio 2024[^t-3]
 <tr><td>Vietnam</td><td>3 novembre</td><td>2016</td><td>3 dicembre</td><td>2016</td></tr>
 <tr><td>Zambia</td><td>9 dicembre</td><td>2016</td><td>8 gennaio</td><td>2017</td></tr>
 <tr><td>Zimbabwe</td><td>7 agosto</td><td>2017</td><td>6 settembre</td><td>2017</td></tr>
-<tr><td colspan="5">\* Riserve e dichiarazioni. \*\* Obiezioni. Le riserve, dichiarazioni e obiezioni non sono pubblicate nella RU. I testi in francese e in inglese si possono consultare sul sito internet dell’Organizzazione delle Nazioni Unite (ONU: [https://treaties.un.org/](https://treaties.un.org/) &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies o richiedere alla Direzione del diritto internazionale pubblico (DDIP), Sezione dei trattati internazionali, 3003 Berna.</td></tr>
-<tr><td colspan="5"><sup>a</sup> L’Acc. si applica a Tokelau.</td></tr>
-<tr><td colspan="5"><sup>b</sup> Per il territorio europeo dei Paesi Bassi.</td></tr>
+<tr><td colspan="5">\* Riserve e dichiarazioni. \*\* Obiezioni. Le riserve, dichiarazioni e obiezioni non sono pubblicate nella RU. I testi in francese e in inglese si possono consultare sul sito internet dell’Organizzazione delle Nazioni Unite (ONU): [https://treaties.un.org](https://treaties.un.org/) o richiedere alla Direzione del diritto internazionale pubblico (DDIP), Sezione dei trattati internazionali, 3003 Berna. <sup>a</sup> L’Acc. si applica a Tokelau. <sup>b</sup> Per il territorio europeo dei Paesi Bassi.</td></tr>
 </table>
 
-[^t-3]: [RU 2017 5735](https://fedlex.data.admin.ch/eli/oc/2017/619); [2018 3895](https://fedlex.data.admin.ch/eli/oc/2018/618); [2019 2463](https://fedlex.data.admin.ch/eli/oc/2019/457); [2020 1873](https://fedlex.data.admin.ch/eli/oc/2020/385); [2021 119](https://fedlex.data.admin.ch/eli/oc/2021/119); [2022 520](https://fedlex.data.admin.ch/eli/oc/2022/520); [2024 391](https://fedlex.data.admin.ch/eli/oc/2024/391). Una versione aggiornata del campo di applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: www.fedlex.admin.ch/it/treaty
+[^t-3]: [RU 2017 5735](https://fedlex.data.admin.ch/eli/oc/2017/619); [2018 3895](https://fedlex.data.admin.ch/eli/oc/2018/618); [2019 2463](https://fedlex.data.admin.ch/eli/oc/2019/457); [2020 1873](https://fedlex.data.admin.ch/eli/oc/2020/385); [2021 119](https://fedlex.data.admin.ch/eli/oc/2021/119); [2022 520](https://fedlex.data.admin.ch/eli/oc/2022/520); [2024 391](https://fedlex.data.admin.ch/eli/oc/2024/391); [2026 315](https://fedlex.data.admin.ch/eli/oc/2026/315). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: www.fedlex.admin.ch/it/treaty .

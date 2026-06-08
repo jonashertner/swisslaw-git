@@ -3,11 +3,11 @@ sr: "0.814.012"
 title: Accord de Paris du 12 décembre 2015 (Accord sur le climat)
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/619"
 language: fr
-version: 2024-07-23
+version: 2026-06-09
 adopted: 2015-12-12
 in_force: 2017-11-05
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/619/20240723/fr/xml/fedlex-data-admin-ch-eli-cc-2017-619-20240723-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/619/20240723/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/619/20260609/fr/xml/fedlex-data-admin-ch-eli-cc-2017-619-20260609-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/619/20260609/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -22,7 +22,7 @@ RO **2017** 5735; FF **2017** 300
 
 Conclu à Paris le 12 décembre 2015 Approuvé par l’Assemblée fédérale le 16 juin 2017[^t-2] Instrument de ratification déposé par la Suisse le 6 octobre 2017 Entré en vigueur pour la Suisse le 5 novembre 2017
 
-(État le 23 juillet 2024)
+(État le 9 juin 2026)
 
 [^t-1]: Erratum du 8 déc. 2020 ([RO 2020 5373](https://fedlex.data.admin.ch/eli/oc/2020/929)).
 [^t-2]: [RO 2017 5733](https://fedlex.data.admin.ch/eli/oc/2017/618)
@@ -63,7 +63,7 @@ reconnaissant également que des modes de vie durables et des modes durables de 
 
 sont convenues de ce qui suit:
 
-[^ingress-1]: [RS 0.814.01](https://fedlex.data.admin.ch/eli/cc/1994/1052_1052_1052)
+[^ingress-1]: [RS 0.814.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3475)
 
 #### Art. 1
 
@@ -452,7 +452,7 @@ Fait à Paris le douze décembre deux mille quinze.
 
 *En foi de quoi* les soussignés, dûment autorisés à cet effet, ont signé le présent Accord. (Suivent les signatures)
 
-Champ d’application le 23 juillet 2024[^t-3]
+Champ d’application le 9 juin 2026[^t-3]
 
 <table>
 <tr><th>États parties</th><th>Ratification Adhésion (A)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
@@ -518,7 +518,6 @@ Champ d’application le 23 juillet 2024[^t-3]
 <tr><td>Espagne\*</td><td>12 janvier</td><td>2017</td><td>11 février</td><td>2017</td></tr>
 <tr><td>Estonie</td><td>4 novembre</td><td>2016</td><td>4 décembre</td><td>2016</td></tr>
 <tr><td>Eswatini</td><td>21 septembre</td><td>2016</td><td>4 novembre</td><td>2016</td></tr>
-<tr><td>États-Unis</td><td>20 janvier</td><td>2021</td><td>19 février</td><td>2021</td></tr>
 <tr><td>Éthiopie</td><td>9 mars</td><td>2017</td><td>8 avril</td><td>2017</td></tr>
 <tr><td>Fidji</td><td>22 avril</td><td>2016</td><td>4 novembre</td><td>2016</td></tr>
 <tr><td>Finlande</td><td>14 novembre</td><td>2016</td><td>14 décembre</td><td>2016</td></tr>
@@ -658,7 +657,7 @@ Champ d’application le 23 juillet 2024[^t-3]
 <tr><td>Vietnam</td><td>3 novembre</td><td>2016</td><td>3 décembre</td><td>2016</td></tr>
 <tr><td>Zambie</td><td>9 décembre</td><td>2016</td><td>8 janvier</td><td>2017</td></tr>
 <tr><td>Zimbabwe</td><td>7 août</td><td>2017</td><td>6 septembre</td><td>2017</td></tr>
-<tr><td colspan="5">\* Réserves et déclarations. \*\* Objections. Les réserves, déclarations et objections ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet de l’Organisation des Nations Unies (ONU): [http://treaties.un.org](http://treaties.un.org/) &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies, ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> L’Accord s’applique aux Tokélaou. <sup>b</sup> Pour la partie européenne des Pays-Bas.</td></tr>
+<tr><td colspan="5">\* Réserves et déclarations. \*\* Objections. Les réserves, déclarations et objections ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet de l’Organisation des Nations Unies (ONU): [http://treaties.un.org](http://treaties.un.org/), ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> L’Accord s’applique aux Tokélaou. <sup>b</sup> Pour la partie européenne des Pays-Bas.</td></tr>
 </table>
 
-[^t-3]: [RO 2017 5735](https://fedlex.data.admin.ch/eli/oc/2017/619); [2018 3895](https://fedlex.data.admin.ch/eli/oc/2018/618); [2019 2463](https://fedlex.data.admin.ch/eli/oc/2019/457); [2020 1873](https://fedlex.data.admin.ch/eli/oc/2020/385); [2021 119](https://fedlex.data.admin.ch/eli/oc/2021/119); [2022 520](https://fedlex.data.admin.ch/eli/oc/2022/520); [2024 391](https://fedlex.data.admin.ch/eli/oc/2024/391). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty)
+[^t-3]: [RO 2017 5735](https://fedlex.data.admin.ch/eli/oc/2017/619); [2018 3895](https://fedlex.data.admin.ch/eli/oc/2018/618); [2019 2463](https://fedlex.data.admin.ch/eli/oc/2019/457); [2020 1873](https://fedlex.data.admin.ch/eli/oc/2020/385); [2021 119](https://fedlex.data.admin.ch/eli/oc/2021/119); [2022 520](https://fedlex.data.admin.ch/eli/oc/2022/520); [2024 391](https://fedlex.data.admin.ch/eli/oc/2024/391); [2026 315](https://fedlex.data.admin.ch/eli/oc/2026/315). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty)

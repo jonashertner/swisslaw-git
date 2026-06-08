@@ -3,11 +3,11 @@ sr: "0.814.012"
 title: Übereinkommen von Paris vom 12. Dezember 2015 (Klimaübereinkommen)
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/619"
 language: de
-version: 2024-07-23
+version: 2026-06-09
 adopted: 2015-12-12
 in_force: 2017-11-05
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/619/20240723/de/xml/fedlex-data-admin-ch-eli-cc-2017-619-20240723-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/619/20240723/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/619/20260609/de/xml/fedlex-data-admin-ch-eli-cc-2017-619-20260609-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/619/20260609/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -28,7 +28,7 @@ Ratifikationsurkunde von der Schweiz hinterlegt am 6. Oktober 2017
 
 In Kraft getreten für die Schweiz am 5. November 2017
 
-(Stand am 23. Juli 2024)
+(Stand am 9. Juni 2026)
 
 [^t-1]: Amtliche deutsche Übersetzung des Originaltexts.
 [^t-2]: Berichtigung vom 8. Dez. 2020 ([AS 2020 5373](https://fedlex.data.admin.ch/eli/oc/2020/929)).
@@ -70,7 +70,7 @@ zudem in der Erkenntnis, dass nachhaltige Lebensweisen und nachhaltige Konsum‑
 
 sind wie folgt übereingekommen:
 
-[^ingress-1]: [SR 0.814.01](https://fedlex.data.admin.ch/eli/cc/1994/1052_1052_1052)
+[^ingress-1]: [SR 0.814.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3475)
 
 #### Art. 1
 
@@ -458,7 +458,7 @@ Geschehen zu Paris am 12. Dezember 2015.
 
 *Zu Urkunde dessen* haben die hierzu gehörig befugten Unterzeichneten dieses Übereinkommen unterschrieben. (Es folgen die Unterschriften)
 
-Geltungsbereich am 23. Juli 2024[^t-4]
+Geltungsbereich am 9. Juni 2026[^t-4]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -655,7 +655,6 @@ Geltungsbereich am 23. Juli 2024[^t-4]
 <tr><td>Vanuatu\*</td><td>21. September</td><td>2016</td><td>4. November</td><td>2016</td></tr>
 <tr><td>Venezuela</td><td>21. Juli</td><td>2017</td><td>20. August</td><td>2017</td></tr>
 <tr><td>Vereinigte Arabische Emirate</td><td>21. September</td><td>2016</td><td>4. November</td><td>2016</td></tr>
-<tr><td>Vereinigte Staaten</td><td>20. Januar</td><td>2021</td><td>19. Februar</td><td>2021</td></tr>
 <tr><td>Vereinigtes Königreich</td><td>18. November</td><td>2016</td><td>18. Dezember</td><td>2016</td></tr>
 <tr><td>Gibraltar</td><td>23. September</td><td>2022</td><td>23. September</td><td>2022</td></tr>
 <tr><td>Guernsey</td><td>6. Dezember</td><td>2023</td><td>6. Dezember</td><td>2023</td></tr>
@@ -664,7 +663,7 @@ Geltungsbereich am 23. Juli 2024[^t-4]
 <tr><td>Vietnam</td><td>3. November</td><td>2016</td><td>3. Dezember</td><td>2016</td></tr>
 <tr><td>Zentralafrikanische Republik</td><td>11. Oktober</td><td>2016</td><td>10. November</td><td>2016</td></tr>
 <tr><td>Zypern</td><td>4. Januar</td><td>2017</td><td>3. Februar</td><td>2017</td></tr>
-<tr><td colspan="5">\* Vorbehalte und Erklärungen. \*\* Einwendungen. Die Vorbehalte, Erklärungen und Einwendungen werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite der Vereinten Nationen: http://treaties.un.org/ eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden. <sup>a</sup> Das Abkommen gilt nicht für Tokelau. <sup>b</sup> Für den europäischen Teil der Niederlande.</td></tr>
+<tr><td colspan="5">\* Vorbehalte und Erklärungen. \*\* Einwendungen. Die Vorbehalte, Erklärungen und Einwendungen werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite der Vereinten Nationen: [http://treaties.un.org/](http://treaties.un.org/) eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden. <sup>a</sup> Das Abkommen gilt nicht für Tokelau. <sup>b</sup> Für den europäischen Teil der Niederlande.</td></tr>
 </table>
 
-[^t-4]: [AS 2017 5735](https://fedlex.data.admin.ch/eli/oc/2017/619); [2018 3895](https://fedlex.data.admin.ch/eli/oc/2018/618); [2019 2463](https://fedlex.data.admin.ch/eli/oc/2019/457); [2020 1873](https://fedlex.data.admin.ch/eli/oc/2020/385); [2021 119](https://fedlex.data.admin.ch/eli/oc/2021/119); [2022 520](https://fedlex.data.admin.ch/eli/oc/2022/520); [2024 391](https://fedlex.data.admin.ch/eli/oc/2024/391). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
+[^t-4]: [AS 2017 5735](https://fedlex.data.admin.ch/eli/oc/2017/619); [2018 3895](https://fedlex.data.admin.ch/eli/oc/2018/618); [2019 2463](https://fedlex.data.admin.ch/eli/oc/2019/457); [2020 1873](https://fedlex.data.admin.ch/eli/oc/2020/385); [2021 119](https://fedlex.data.admin.ch/eli/oc/2021/119); [2022 520](https://fedlex.data.admin.ch/eli/oc/2022/520); [2024 391](https://fedlex.data.admin.ch/eli/oc/2024/391); [2026 315](https://fedlex.data.admin.ch/eli/oc/2026/315). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: www.fedlex.admin.ch/de/treaty .
