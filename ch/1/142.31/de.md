@@ -4,11 +4,11 @@ title: Asylgesetz vom 26. Juni 1998 (AsylG)
 short: AsylG
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/358"
 language: de
-version: 2026-06-01
+version: 2026-06-12
 adopted: 1998-06-26
 in_force: 1999-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/358/20260601/de/xml/fedlex-data-admin-ch-eli-cc-1999-358-20260601-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/358/20260601/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/358/20260612/de/xml/fedlex-data-admin-ch-eli-cc-1999-358-20260612-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/358/20260612/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1999/358/20260601/de"
 
 (AsylG)
 
-vom 26. Juni 1998 (Stand am 1. Juni 2026)
+vom 26. Juni 1998 (Stand am 12. Juni 2026)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -62,7 +62,7 @@ Dieses Gesetz regelt:
 
 [^3-1]: [SR 0.142.30](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/432)
 [^3-2]: Eingefügt durch Ziff. I des BG vom 28. Sept. 2012 (Dringliche Änderungen des Asylgesetzes) ([AS 2012 5359](https://fedlex.data.admin.ch/eli/oc/2012/612); [BBl 2010 4455](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 7325](https://fedlex.data.admin.ch/eli/fga/2011/1209)). Fassung gemäss Ziff. I des BG vom 25. Sept. 2015, in Kraft seit 1. März 2019 ([AS 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521), [2018 2855](https://fedlex.data.admin.ch/eli/oc/2018/438); [BBl 2014 7991](https://fedlex.data.admin.ch/eli/fga/2014/1715)).
-[^3-3]: Eingefügt durch Ziff. I des BG vom 14. Dez. 2012, in Kraft seit 1. Febr. 2014 ([AS 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778)[5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [BBl 2010 4455](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 7325](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
+[^3-3]: Eingefügt durch Ziff. I des BG vom 14. Dez. 2012, in Kraft seit 1. Febr. 2014 ([AS 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778), [5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [BBl 2010 4455](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 7325](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
 
 #### Art. 4
 
@@ -208,6 +208,15 @@ Elektronische Datenträger sind insbesondere:
 [^8a-1]: Eingefügt durch Ziff. I und Abs. 1 durch Ziff. III des BG vom 1. Okt. 2021, in Kraft seit 1. April 2025 ([AS 2024 189](https://fedlex.data.admin.ch/eli/oc/2024/189); [BBl 2020 9287](https://fedlex.data.admin.ch/eli/fga/2020/2506); [2021 137](https://fedlex.data.admin.ch/eli/fga/2021/137)). Siehe auch die UeB dieser Änd. am Schluss des Textes.
 [^8a-2]: [SR 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 
+#### Art. 8b
+
+**Weitere Pflichten im Dublin-Verfahren**[^8b-1]
+
+Im Rahmen eines Dublin-Verfahrens richten sich die weiteren Pflichten der asylsuchende Person nach Artikel 17 der Verordnung (EU) 2024/1351[^8b-2]. Die asylsuchende Person ist über diese Pflichten in einer ihr verständlichen Sprache zu informieren.
+
+[^8b-1]: Eingefügt durch Anhang 1 Ziff. 2 des BB vom 26. Sept. 2025 über die Genehmigung und die Umsetzung der Notenaustausche zwischen der Schweiz und der EU betreffend die Übernahme der Verordnung (EU) 2024/1351 über das Asyl- und Migrationsmanagement und der Verordnung (EU) 2024/1359 über die Bewältigung von Krisensituationen und Situationen höherer Gewalt im Bereich Migration und Asyl, in Kraft seit 12. Juni 2026 ([AS 2026 229](https://fedlex.data.admin.ch/eli/oc/2026/229); [BBl 2025 1478](https://fedlex.data.admin.ch/eli/fga/2025/1478)).
+[^8b-2]: Verordnung (EU) 2024/1351 des Europäischen Parlaments und des Rates vom 14. Mai 2024 über Asyl- und Migrationsmanagement, zur Änderung der Verordnungen (EU) 2021/1147 und (EU) 2021/1060 und zur Aufhebung der Verordnung (EU) Nr. 604/2013, Fassung gemäss ABl. L, 2024/1351, 22.5.2024.
+
 #### Art. 9
 
 **Durchsuchung**[^9-1]
@@ -247,7 +256,7 @@ Das SEM darf Asylsuchende, die in einem Zentrum des Bundes oder in einer Unterku
 
 [^10-1]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 16 Abs. 3 der Publikationsverordnung vom 17. Nov. 2004 ([AS 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)) auf den 1. Jan. 2015 angepasst. Diese Anpassung wurde im ganzen Text vorgenommen.
 [^10-2]: Fassung gemäss Ziff. I des BG vom 16. Dez. 2005, in Kraft seit 1. Jan. 2008 ([AS 2006 4745](https://fedlex.data.admin.ch/eli/oc/2006/727), [2007 5573](https://fedlex.data.admin.ch/eli/oc/2007/765); [BBl 2002 6845](https://fedlex.data.admin.ch/eli/fga/2002/1106)).
-[^10-3]: Fassung gemäss Ziff. I des BG vom 14. Dez. 2012, in Kraft seit 1. Febr. 2014 ([AS 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778)[5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [BBl 2010 4455](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 7325](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
+[^10-3]: Fassung gemäss Ziff. I des BG vom 14. Dez. 2012, in Kraft seit 1. Febr. 2014 ([AS 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778), [5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [BBl 2010 4455](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 7325](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
 [^10-4]: Eingefügt durch Ziff. I des BG vom 16. Dez. 2005, in Kraft seit 1. Jan. 2008 ([AS 2006 4745](https://fedlex.data.admin.ch/eli/oc/2006/727), [2007 5573](https://fedlex.data.admin.ch/eli/oc/2007/765); [BBl 2002 6845](https://fedlex.data.admin.ch/eli/fga/2002/1106)).
 
 #### Art. 11
@@ -319,7 +328,7 @@ Der Kanton kann mit Zustimmung des SEM einer ihm nach diesem Gesetz zugewiesenen
 <sup>6</sup> Erteilte Aufenthaltsbewilligungen bleiben gültig und können gemäss den ausländerrechtlichen Bestimmungen verlängert werden.
 
 [^14-1]: Fassung gemäss Ziff. I des BG vom 16. Dez. 2005, in Kraft seit 1. Jan. 2007 ([AS 2006 4745](https://fedlex.data.admin.ch/eli/oc/2006/727); [BBl 2002 6845](https://fedlex.data.admin.ch/eli/fga/2002/1106)).
-[^14-2]: Fassung gemäss Ziff. I des BG vom 14. Dez. 2012, in Kraft seit 1. Febr. 2014 ([AS 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778)[5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [BBl 2010 4455](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 7325](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
+[^14-2]: Fassung gemäss Ziff. I des BG vom 14. Dez. 2012, in Kraft seit 1. Febr. 2014 ([AS 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778), [5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [BBl 2010 4455](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 7325](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
 [^14-3]: Eingefügt durch Ziff. I des BG vom 14. Dez. 2012 ([AS 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778); [BBl 2010 4455](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 7325](https://fedlex.data.admin.ch/eli/fga/2011/1209)). Fassung gemäss Ziff. IV 4 des BG vom 19. Juni 2015 (Änderungen des Sanktionenrechts), in Kraft seit 1. Jan. 2018 ([AS 2016 1249](https://fedlex.data.admin.ch/eli/oc/2016/249); [BBl 2012 4721](https://fedlex.data.admin.ch/eli/fga/2012/670)).
 [^14-4]: [SR 142.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4851)
 [^14-5]: Der Titel wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)) auf den 1. Jan. 2019 angepasst. Diese Anpassung wurde im ganzen Text vorgenommen.
@@ -347,7 +356,7 @@ Das SEM kann von Absatz 2 abweichen, wenn:
 - c. die asylsuchende Person von einem Zentrum des Bundes einem Kanton mit einer anderen Amtssprache zugewiesen wird.[^16-3]
 
 [^16-1]: Fassung gemäss Ziff. I des BG vom 25. Sept. 2015, in Kraft seit 1. März 2019 ([AS 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521), [2018 2855](https://fedlex.data.admin.ch/eli/oc/2018/438); [BBl 2014 7991](https://fedlex.data.admin.ch/eli/fga/2014/1715)).
-[^16-2]: Fassung gemäss Ziff. I des BG vom 14. Dez. 2012, in Kraft seit 1. Febr. 2014 ([AS 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778)[5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [BBl 2010 4455](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 7325](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
+[^16-2]: Fassung gemäss Ziff. I des BG vom 14. Dez. 2012, in Kraft seit 1. Febr. 2014 ([AS 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778), [5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [BBl 2010 4455](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 7325](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
 [^16-3]: Fassung gemäss Ziff. I des BG vom 25. Sept. 2015, in Kraft seit 1. März 2019 ([AS 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521), [2018 2855](https://fedlex.data.admin.ch/eli/oc/2018/438); [BBl 2014 7991](https://fedlex.data.admin.ch/eli/fga/2014/1715)).
 
 #### Art. 17
@@ -376,11 +385,11 @@ Die Interessen von unbegleiteten minderjährigen Asylsuchenden werden wahrgenomm
 <sup>6</sup> Der Bundesrat bestimmt die Rolle, die Zuständigkeiten und die Aufgaben der Vertrauensperson.[^17-7]
 
 [^17-1]: [SR 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
-[^17-2]: Eingefügt durch Ziff. I des BG vom 14. Dez. 2012, in Kraft seit 1. Febr. 2014 ([AS 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778)[5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [BBl 2010 4455](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 7325](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
+[^17-2]: Eingefügt durch Ziff. I des BG vom 14. Dez. 2012, in Kraft seit 1. Febr. 2014 ([AS 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778), [5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [BBl 2010 4455](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 7325](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
 [^17-3]: Fassung gemäss Ziff. I des BG vom 25. Sept. 2015, in Kraft seit 1. März 2019 ([AS 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521), [2018 2855](https://fedlex.data.admin.ch/eli/oc/2018/438); [BBl 2014 7991](https://fedlex.data.admin.ch/eli/fga/2014/1715)).
-[^17-4]: Eingefügt durch Ziff. I des BG vom 14. Dez. 2012, in Kraft seit 1. Febr. 2014 ([AS 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778)[5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [BBl 2010 4455](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 7325](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
+[^17-4]: Eingefügt durch Ziff. I des BG vom 14. Dez. 2012, in Kraft seit 1. Febr. 2014 ([AS 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778), [5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [BBl 2010 4455](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 7325](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
 [^17-5]: Eingefügt durch Ziff. I des BG vom 16. Dez. 2005 ([AS 2006 4745](https://fedlex.data.admin.ch/eli/oc/2006/727), [BBl 2002 6845](https://fedlex.data.admin.ch/eli/fga/2002/1106)). Aufgehoben durch Ziff. I des BG vom 25. Sept. 2015, mit Wirkung seit 1. März 2019 ([AS 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521), [2018 2855](https://fedlex.data.admin.ch/eli/oc/2018/438); [BBl 2014 7991](https://fedlex.data.admin.ch/eli/fga/2014/1715)).
-[^17-6]: Eingefügt durch Ziff. I des BG vom 14. Dez. 2012, in Kraft seit 1. Febr. 2014 ([AS 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778)[5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [BBl 2010 4455](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 7325](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
+[^17-6]: Eingefügt durch Ziff. I des BG vom 14. Dez. 2012, in Kraft seit 1. Febr. 2014 ([AS 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778), [5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [BBl 2010 4455](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 7325](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
 [^17-7]: Eingefügt durch Anhang Ziff. I 2 des BB vom 26. Sept. 2014 (Übernahme der V[EU] Nr. 604/2013 zur Festlegung der Kriterien und Verfahren zur Bestimmung des Mitgliedstaats, der für die Prüfung eines Antrags auf internationalen Schutz zuständig ist), in Kraft seit 1. Juli 2015 ([AS 2015 1841](https://fedlex.data.admin.ch/eli/oc/2015/357); [BBl 2014 2675](https://fedlex.data.admin.ch/eli/fga/2014/489)).
 
 #### Art. 17a
@@ -395,7 +404,7 @@ Das SEM kann Gebühren und Auslagen für Dienstleistungen zu Gunsten Dritter die
 
 [^17b-1]
 
-[^17b-1]: Eingefügt durch Ziff. I des BG vom 16. Dez. 2005 ([AS 2006 4745](https://fedlex.data.admin.ch/eli/oc/2006/727); [BBl 2002 6845](https://fedlex.data.admin.ch/eli/fga/2002/1106)). Aufgehoben durch Ziff. I des BG vom 14. Dez. 2012, mit Wirkung seit 1. Febr. 2014 ([AS 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778)[5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [BBl 2010 4455](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 7325](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
+[^17b-1]: Eingefügt durch Ziff. I des BG vom 16. Dez. 2005 ([AS 2006 4745](https://fedlex.data.admin.ch/eli/oc/2006/727); [BBl 2002 6845](https://fedlex.data.admin.ch/eli/fga/2002/1106)). Aufgehoben durch Ziff. I des BG vom 14. Dez. 2012, mit Wirkung seit 1. Febr. 2014 ([AS 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778), [5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [BBl 2010 4455](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 7325](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
 
 ### 2. Abschnitt: Asylgesuch und Einreise
 
@@ -417,9 +426,12 @@ Jede Äusserung, mit der eine Person zu erkennen gibt, dass sie die Schweiz um S
 
 #### Art. 20
 
-[^20-1]
+**Ergebnis der Sicherheitskontrolle im Dublin-Verfahren**[^20-1]
 
-[^20-1]: Aufgehoben durch Ziff. I des BG vom 25. Sept. 2015, mit Wirkung seit 1. März 2019 ([AS 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521), [2018 2855](https://fedlex.data.admin.ch/eli/oc/2018/438); [BBl 2014 7991](https://fedlex.data.admin.ch/eli/fga/2014/1715)).
+Ergibt die Sicherheitskontrolle am Flughafen nach Artikel 21*a* oder im Zentrum des Bundes nach Artikel 26, dass die asylsuchende Person eine Gefahr für die innere Sicherheit darstellt, so wird kein Dublin-Verfahren zur Aufnahme nach Artikel 39 der Verordnung (EU) 2024/1351[^20-2] durchgeführt.
+
+[^20-1]: Fassung gemäss Anhang 1 Ziff. 2 des BB vom 26. Sept. 2025 über die Genehmigung und die Umsetzung der Notenaustausche zwischen der Schweiz und der EU betreffend die Übernahme der Verordnung (EU) 2024/1351 über das Asyl- und Migrationsmanagement und der Verordnung (EU) 2024/1359 über die Bewältigung von Krisensituationen und Situationen höherer Gewalt im Bereich Migration und Asyl, in Kraft seit 12. Juni 2026 ([AS 2026 229](https://fedlex.data.admin.ch/eli/oc/2026/229); [BBl 2025 1478](https://fedlex.data.admin.ch/eli/fga/2025/1478)).
+[^20-2]: Siehe Fussnote zu Art. 8*b.*
 
 #### Art. 21
 
@@ -434,47 +446,69 @@ Jede Äusserung, mit der eine Person zu erkennen gibt, dass sie die Schweiz um S
 [^21-1]: Fassung gemäss Anhang Ziff. 1 des BG vom 13. Juni 2008 (Ergänzungen im Rahmen der Umsetzung der Schengen- und Dublin-Assoziierungsabkommen), in Kraft seit 12. Dez. 2008 ([AS 2008 5407](https://fedlex.data.admin.ch/eli/oc/2008/756)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)Art. 2 Bst. c; [BBl 2007 7937](https://fedlex.data.admin.ch/eli/fga/2007/1287)).
 [^21-2]: Fassung gemäss Ziff. I des BG vom 25. Sept. 2015, in Kraft seit 1. März 2019 ([AS 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521), [2018 2855](https://fedlex.data.admin.ch/eli/oc/2018/438); [BBl 2014 7991](https://fedlex.data.admin.ch/eli/fga/2014/1715)).
 
+#### Art. 21a
+
+**Überprüfung bei einem Asylgesuch am Flughafen**[^21a-1]
+
+<sup>1</sup> Bei Personen, die an der Schengen-Aussengrenze an einem Schweizer Flughafen, an dem Verfahren nach Artikel 22 durchgeführt werden, um Asyl nachsuchen und welche die Einreisevoraussetzungen nicht erfüllen, informiert die zuständige Grenzkontrollbehörde nach Einreichung des Asylgesuchs unverzüglich das SEM. In Absprache mit dem SEM führt die zuständige Behörde innerhalb von sieben Tagen ab dem Zeitpunkt, an dem die Personen festgehalten wurden oder sich am Grenzübergang melden, die Überprüfung nach der Verordnung (EU) 2024/1356[^21a-2] durch.
+
+<sup>2</sup> Personen, die an der Schengen-Aussengrenze an einem Schweizer Flughafen, an dem keine Verfahren nach Artikel 22 durchgeführt werden, um Asyl nachsuchen und welche die Einreisevoraussetzungen nicht erfüllen, werden von der zuständigen Grenzkontrollbehörde an ein Zentrum des Bundes verwiesen. Bestehen konkrete Anzeichen, dass sie sich behördlichen Anordnungen oder Massnahmen entziehen wollen, werden sie zum Zentrum des Bundes begleitet. Das anschliessende Überprüfungsverfahren richtet sich nach Artikel 26 Absatz 1<sup>bis</sup>; in diesem Fall gilt die Frist nach Absatz 1.
+
+<sup>3</sup> Personen, denen die Einreise gemäss Artikel 6 Absatz 5 Buchstabe c der Verordnung (EU) 2016/399[^21a-3] gestattet wurde und die an der Schengen-Aussengrenze ein Asylgesuch an einem Schweizer Flughafen einreichen, unterstehen ebenfalls der Überprüfung nach den Absätzen 1 und 2.
+
+<sup>4</sup>
+
+Das Verfahren zur Durchführung der Überprüfung richtet sich nach der Verordnung (EU) 2024/1356. Es beinhaltet folgende Punkte:
+
+- a. vorläufige Gesundheitskontrolle;
+- b. vorläufige Prüfung der Vulnerabilität;
+- c. Identifizierung und Verifizierung der Identität;
+- d. Erfassung der biometrischen Daten in Eurodac, falls dies noch nicht erfolgt ist;
+- e. Sicherheitskontrolle;
+- f. Ausfüllen des Überprüfungsformulars;
+- g. Zuweisung an das geeignete Verfahren.
+
+<sup>5</sup> Die Asylsuchenden müssen den zuständigen Behörden während der Dauer der Überprüfung zur Verfügung stehen und ihren Namen, ihr Geburtsdatum, ihr Geschlecht und ihre Staatsangehörigkeit angeben sowie gegebenenfalls Dokumente und Informationen vorlegen, die diese Daten nachweisen können. Darüber hinaus müssen sie ihre biometrischen Daten erheben lassen.
+
+<sup>6</sup> Das SEM verweigert der asylsuchenden Person für die Dauer der Überprüfung und im Hinblick auf die Durchführung des Asylverfahrens am Flughafen die Einreise in die Schweiz.
+
+<sup>7</sup> Das SEM weist den Asylsuchenden gleichzeitig mit der Verweigerung der Einreise einen Aufenthaltsort zu und sorgt für angemessene Unterkunft. Es übernimmt die Kosten für die Unterbringung. Für die Bereitstellung einer kostengünstigen Unterkunft sind die Flughafenbetreiber verantwortlich.
+
+<sup>8</sup> Die Verfügung über die Verweigerung der Einreise und die Zuweisung eines Aufenthaltsorts ist der asylsuchenden Person innert zwei Tagen nach der Einreichung des Gesuchs mit Rechtsmittelbelehrung zu eröffnen. Vorgängig wird ihr das rechtliche Gehör gewährt.
+
+[^21a-1]: Eingefügt durch Anhang 1 Ziff. 2 des BB vom 26. Sept. 2025 über die Genehmigung und die Umsetzung des Notenaustauschs zwischen der Schweiz und der EU betreffend die Übernahme der Verordnung (EU) 2024/1356 zur Einführung der Überprüfung von Drittstaatsangehörigen an den Aussengrenzen und zur Änderung der Verordnungen (EG) Nr. 767/2008, (EU) 2017/2226, (EU) 2018/1240 und (EU) 2019/817, in Kraft seit 12. Juni 2026 ([AS 2026 230](https://fedlex.data.admin.ch/eli/oc/2026/230); [BBl 2025 1478](https://fedlex.data.admin.ch/eli/fga/2025/1478)).
+[^21a-2]: Verordnung (EU) 2024/1356 des Europäischen Parlaments und des Rates vom 14. Mai 2024 zur Einführung der Überprüfung von Drittstaatsangehörigen an den Aussengrenzen und zur Änderung der Verordnungen (EG) Nr. 767/2008, (EU) 2017/2226, (EU) 2018/1240 und (EU) 2019/817, ABl. L, 2024/1356, 22.5.2024.
+[^21a-3]: Verordnung (EU) 2016/399 des Europäischen Parlaments und des Rates vom 9. März 2016 über einen Gemeinschaftskodex für das Überschreiten der Grenzen durch Personen (Schengener Grenzkodex), ABl. L 77 vom 23.3.2016, S. 1; zuletzt geändert durch Verordnung (EU) 2024/1717, ABl. L, 2024/1717, 20.6.2024.
+
 #### Art. 22
 
-**Verfahren am Flughafen**[^22-1]
+**Asylverfahren am Flughafen**[^22-1]
 
-<sup>1</sup> Bei Personen, die in einem schweizerischen Flughafen um Asyl nachsuchen, erhebt die zuständige Behörde die Personalien und erstellt Fingerabdruckbogen und Fotografien. Sie kann weitere biometrische Daten erheben und die Asylsuchenden summarisch zum Reiseweg und zu den Gründen befragen, warum sie ihr Land verlassen haben.[^22-2]
+<sup>1</sup> Nach Abschluss der Überprüfung nach Artikel 21*a* Absatz 1 kann das SEM weitere Personalien erheben. Es erstellt, falls dies nicht bereits während der Überprüfung erfolgt ist, Fingerabdruckbogen und Fotografien. Es kann weitere biometrische Daten erheben, Beweismittel und Reise- und Identitätspapiere überprüfen und herkunfts- sowie identitätsspezifische Abklärungen treffen. Das SEM kann Dritte mit diesen Aufgaben beauftragen. Die beauftragten Dritten unterstehen der gleichen Schweigepflicht wie das Bundespersonal.
 
-<sup>1bis</sup> Das SEM prüft seine Zuständigkeit zur Durchführung des Asylverfahrens unter Berücksichtigung der Bestimmungen der Dublin-Assoziierungsabkommen.[^22-3]
+<sup>2</sup> Die zuständige Behörde weist die Asylsuchenden auf ihre Rechte und Pflichten im Asylverfahren hin. Sie kann die Asylsuchenden zu ihrer Identität, zum Reiseweg und summarisch zu den Gründen befragen, warum sie ihr Land verlassen haben.
 
-<sup>1ter</sup>
+<sup>3</sup> Das SEM prüft seine Zuständigkeit zur Durchführung des Asylverfahrens unter Berücksichtigung der Bestimmungen der Dublin-Assoziierungsabkommen.
 
-Es bewilligt die Einreise, wenn die Schweiz für die Durchführung des Asylverfahrens aufgrund der Verordnung (EU) Nr. 604/2013[^22-4] zuständig ist und Asylsuchende:[^22-5]
+<sup>4</sup>
+
+Es bewilligt die Einreise, wenn die Schweiz für die Durchführung des Asylverfahrens aufgrund der Verordnung (EU) 2024/1351[^22-2] zuständig ist und wenn Asylsuchende:
 
 - a. im Land, aus dem sie direkt in die Schweiz gelangt sind, aus einem Grund nach Artikel 3 Absatz 1 gefährdet oder von unmenschlicher Behandlung bedroht erscheinen; oder
-- b. glaubhaft machen, dass das Land, aus dem sie direkt kommen, sie in Verletzung des Rückschiebungsverbotes zur Ausreise in ein Land zwingen würde, in dem sie gefährdet erscheinen.[^22-6]
+- b. glaubhaft machen, dass das Land, aus dem sie direkt kommen, sie in Verletzung des Rückschiebungsverbots zur Ausreise in ein Land zwingen würde, in dem sie gefährdet erscheinen.
 
-<sup>2</sup> Kann auf Grund der Massnahmen nach Absatz 1 und der Prüfung nach Absatz 1<sup>bis</sup> nicht sofort festgestellt werden, ob die Voraussetzungen für eine Einreisebewilligung nach Absatz 1<sup>ter</sup> erfüllt sind, so wird die Einreise vorläufig verweigert.[^22-7]
+<sup>5</sup> Es kann die Einreise zudem bewilligen, wenn absehbar ist, dass das Verfahren nicht innert 27 Tagen nach Einreichung des Gesuchs abgeschlossen werden kann.
 
-<sup>2bis</sup> Um Härtefälle zu vermeiden, kann der Bundesrat bestimmen, in welchen weiteren Fällen die Einreise bewilligt wird.[^22-8]
+<sup>6</sup> Um Härtefälle zu vermeiden, kann der Bundesrat bestimmen, in welchen weiteren Fällen die Einreise bewilligt wird.
 
-<sup>3</sup> Das SEM weist den Asylsuchenden gleichzeitig mit der Verweigerung der Einreise einen Aufenthaltsort zu und sorgt für angemessene Unterkunft. Es übernimmt die Kosten für die Unterbringung. Für die Bereitstellung einer kostengünstigen Unterkunft sind die Flughafenbetreiber verantwortlich.[^22-9]
+<sup>7</sup> Der Bund gewährleistet asylsuchenden Personen, die an einem Schweizer Flughafen ein Asylgesuch einreichen, nach Abschluss der Überprüfung unentgeltliche Beratung und Rechtsvertretung sinngemäss nach den Artikeln 102*f*–102*k*.
 
-<sup>3bis</sup> Der Bund gewährleistet asylsuchenden Personen, die in einem schweizerischen Flughafen ein Asylgesuch einreichen, unentgeltliche Beratung und Rechtsvertretung sinngemäss nach den Artikeln 102*f*–102*k*.[^22-10]
+<sup>8</sup> Die asylsuchende Person kann am Flughafen oder ausnahmsweise an einem anderen geeigneten Ort längstens 67 Tage festgehalten werden. Nach einem rechtskräftigen Wegweisungsentscheid kann die weitere Festhaltung in einem Ausschaffungsgefängnis erfolgen.
 
-<sup>4</sup> Die Verfügung über die Verweigerung der Einreise und die Zuweisung eines Aufenthaltsortes ist der asylsuchenden Person innert zwei Tagen nach der Einreichung des Gesuches mit Rechtsmittelbelehrung zu eröffnen. Vorgängig wird ihr das rechtliche Gehör gewährt.[^22-11]
+<sup>9</sup> Das SEM kann die asylsuchende Person anschliessend einem Kanton oder einem Zentrum des Bundes zuweisen. In den übrigen Fällen richtet sich das weitere Verfahren am Flughafen nach den Artikeln 23, 29, 36 und 37.
 
-<sup>5</sup> Die asylsuchende Person kann am Flughafen oder ausnahmsweise an einem anderen geeigneten Ort längstens 60 Tage festgehalten werden. Nach einem rechtskräftigen Wegweisungsentscheid kann die weitere Festhaltung in einem Ausschaffungsgefängnis erfolgen.
-
-<sup>6</sup> Das SEM kann die asylsuchende Person anschliessend einem Kanton oder einem Zentrum des Bundes zuweisen. In den übrigen Fällen richtet sich das weitere Verfahren am Flughafen nach den Artikeln 23, 29, 36 und 37.[^22-12]
-
-[^22-1]: Fassung gemäss Ziff. I des BG vom 16. Dez. 2005, in Kraft seit 1. Jan. 2008 ([AS 2006 4745](https://fedlex.data.admin.ch/eli/oc/2006/727), [2007 5573](https://fedlex.data.admin.ch/eli/oc/2007/765); [BBl 2002 6845](https://fedlex.data.admin.ch/eli/fga/2002/1106)).
-[^22-2]: Fassung gemäss Anhang Ziff. 1 des BG vom 13. Juni 2008 (Ergänzungen im Rahmen der Umsetzung der Schengen- und Dublin-Assoziierungsabkommen), in Kraft seit 12. Dez. 2008 ([AS 2008 5407](https://fedlex.data.admin.ch/eli/oc/2008/756)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)Art. 2 Bst. c; [BBl 2007 7937](https://fedlex.data.admin.ch/eli/fga/2007/1287)).
-[^22-3]: Eingefügt durch Anhang Ziff. 1 des BG vom 13. Juni 2008 (Ergänzungen im Rahmen der Umsetzung der Schengen- und Dublin-Assoziierungsabkommen), in Kraft seit 12. Dez. 2008 ([AS 2008 5407](https://fedlex.data.admin.ch/eli/oc/2008/756)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)Art. 2 Bst. c; [BBl 2007 7937](https://fedlex.data.admin.ch/eli/fga/2007/1287)).
-[^22-4]: Verordnung (EU) Nr. 604/2013 des Europäischen Parlaments und des Rates vom 26. Juni 2013 zur Festlegung der Kriterien und Verfahren zur Bestimmung des Mitgliedstaats, der für die Prüfung eines von einem Drittstaatsangehörigen oder Staatenlosen in einem Mitgliedstaat gestellten Antrags auf internationalen Schutz zuständig ist (Neufassung), Fassung gemäss ABl. L 180 vom 29.6.2013, S. 31.
-[^22-5]: Fassung gemäss Anhang Ziff. I 2 des BB vom 26. Sept. 2014 (Übernahme der V[EU] Nr. 604/2013 zur Festlegung der Kriterien und Verfahren zur Bestimmung des Mitgliedstaats, der für die Prüfung eines Antrags auf internationalen Schutz zuständig ist), in Kraft seit 1. Juli 2015 ([AS 2015 1841](https://fedlex.data.admin.ch/eli/oc/2015/357); [BBl 2014 2675](https://fedlex.data.admin.ch/eli/fga/2014/489)).
-[^22-6]: Eingefügt durch Anhang Ziff. 1 des BG vom 13. Juni 2008 (Ergänzungen im Rahmen der Umsetzung der Schengen- und Dublin-Assoziierungsabkommen), in Kraft seit 12. Dez. 2008 ([AS 2008 5407](https://fedlex.data.admin.ch/eli/oc/2008/756)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)Art. 2 Bst. c; [BBl 2007 7937](https://fedlex.data.admin.ch/eli/fga/2007/1287)).
-[^22-7]: Fassung gemäss Anhang Ziff. 1 des BG vom 13. Juni 2008 (Ergänzungen im Rahmen der Umsetzung der Schengen- und Dublin-Assoziierungsabkommen), in Kraft seit 12. Dez. 2008 ([AS 2008 5407](https://fedlex.data.admin.ch/eli/oc/2008/756)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)Art. 2 Bst. c; [BBl 2007 7937](https://fedlex.data.admin.ch/eli/fga/2007/1287)).
-[^22-8]: Eingefügt durch Anhang Ziff. 1 des BG vom 13. Juni 2008 (Ergänzungen im Rahmen der Umsetzung der Schengen- und Dublin-Assoziierungsabkommen), in Kraft seit 12. Dez. 2008 ([AS 2008 5407](https://fedlex.data.admin.ch/eli/oc/2008/756)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)Art. 2 Bst. c; [BBl 2007 7937](https://fedlex.data.admin.ch/eli/fga/2007/1287)).
-[^22-9]: Fassung gemäss Ziff. I des BG vom 14. Dez. 2012, in Kraft seit 1. Febr. 2014 ([AS 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778)[5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [BBl 2010 4455](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 7325](https://fedlex.data.admin.ch/eli/fga/2011/1209)). Siehe auch die UeB dieser Änd. am Schluss des Textes.
-[^22-10]: Eingefügt durch Ziff. I des BG vom 25. Sept. 2015, in Kraft seit 1. März 2019 ([AS 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521), [2018 2855](https://fedlex.data.admin.ch/eli/oc/2018/438); [BBl 2014 7991](https://fedlex.data.admin.ch/eli/fga/2014/1715)).
-[^22-11]: Fassung gemäss Ziff. I des BG vom 25. Sept. 2015, in Kraft seit 1. März 2019 ([AS 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521), [2018 2855](https://fedlex.data.admin.ch/eli/oc/2018/438); [BBl 2014 7991](https://fedlex.data.admin.ch/eli/fga/2014/1715)).
-[^22-12]: Fassung gemäss Ziff. I des BG vom 25. Sept. 2015, in Kraft seit 1. März 2019 ([AS 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521), [2018 2855](https://fedlex.data.admin.ch/eli/oc/2018/438); [BBl 2014 7991](https://fedlex.data.admin.ch/eli/fga/2014/1715)).
+[^22-1]: Fassung gemäss Anhang 2 Ziff. 3 des BB vom 26. Sept. 2025 über die Genehmigung und die Umsetzung des Notenaustauschs zwischen der Schweiz und der EU betreffend die Übernahme der Verordnung (EU) 2024/1356 zur Einführung der Überprüfung von Drittstaatsangehörigen an den Aussengrenzen und zur Änderung der Verordnungen (EG) Nr. 767/2008, (EU) 2017/2226, (EU) 2018/1240 und (EU) 2019/817, in Kraft seit 12. Juni 2026 ([AS 2026 230](https://fedlex.data.admin.ch/eli/oc/2026/230); [BBl 2025 1478](https://fedlex.data.admin.ch/eli/fga/2025/1478)).
+[^22-2]: Siehe Fussnote zu Art. 8*b*.
 
 #### Art. 23
 
@@ -482,11 +516,11 @@ Es bewilligt die Einreise, wenn die Schweiz für die Durchführung des Asylverfa
 
 <sup>1</sup> Bewilligt das SEM die Einreise in die Schweiz nicht, so kann es auf das Asylgesuch nicht eintreten oder dieses ablehnen.[^23-2]
 
-<sup>2</sup> Der Entscheid ist innert 20 Tagen nach Einreichung des Gesuches zu eröffnen. Dauert das Verfahren länger, so weist das SEM die asylsuchende Person einem Kanton oder einem Zentrum des Bundes zu.[^23-3]
+<sup>2</sup> Der Entscheid ist innert 27 Tagen nach Einreichung des Gesuchs zu eröffnen. Dauert das Verfahren länger, so weist das SEM die asylsuchende Person einem Kanton oder einem Zentrum des Bundes zu.[^23-3]
 
 [^23-1]: Fassung gemäss Ziff. I des BG vom 16. Dez. 2005, in Kraft seit 1. Jan. 2008 ([AS 2006 4745](https://fedlex.data.admin.ch/eli/oc/2006/727), [2007 5573](https://fedlex.data.admin.ch/eli/oc/2007/765); [BBl 2002 6845](https://fedlex.data.admin.ch/eli/fga/2002/1106)).
-[^23-2]: Fassung gemäss Ziff. I des BG vom 14. Dez. 2012, in Kraft seit 1. Febr. 2014 ([AS 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778)[5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [BBl 2010 4455](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 7325](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
-[^23-3]: Fassung gemäss Ziff. I des BG vom 25. Sept. 2015, in Kraft seit 1. März 2019 ([AS 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521), [2018 2855](https://fedlex.data.admin.ch/eli/oc/2018/438); [BBl 2014 7991](https://fedlex.data.admin.ch/eli/fga/2014/1715)).
+[^23-2]: Fassung gemäss Ziff. I des BG vom 14. Dez. 2012, in Kraft seit 1. Febr. 2014 ([AS 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778), [5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [BBl 2010 4455](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 7325](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
+[^23-3]: Fassung gemäss Anhang 1 Ziff. 2 des BB vom 26. Sept. 2025 über die Genehmigung und die Umsetzung des Notenaustauschs zwischen der Schweiz und der EU betreffend die Übernahme der Verordnung (EU) 2024/1356 zur Einführung der Überprüfung von Drittstaatsangehörigen an den Aussengrenzen und zur Änderung der Verordnungen (EG) Nr. 767/2008, (EU) 2017/2226, (EU) 2018/1240 und (EU) 2019/817, in Kraft seit 12. Juni 2026 ([AS 2026 230](https://fedlex.data.admin.ch/eli/oc/2026/230); [BBl 2025 1478](https://fedlex.data.admin.ch/eli/fga/2025/1478)).
 
 ### 2*a*. Abschnitt: Zentren des Bundes
 
@@ -767,17 +801,58 @@ Das Eidgenössische Justiz- und Polizeidepartement (EJPD) kann Ausführungsbesti
 
 **Vorbereitungsphase**[^26-1]
 
-<sup>1</sup> Nach Einreichung des Asylgesuchs beginnt die Vorbereitungsphase. Sie dauert im Dublin-Verfahren höchstens 10 Tage und in den übrigen Verfahren höchstens 21 Tage.
+<sup>1</sup> Nach Einreichung des Asylgesuchs beginnt die Vorbereitungsphase. Sie dauert im Dublin-Verfahren höchstens 15 Tage und in den übrigen Verfahren höchstens 30 Tage.[^26-2]
+
+<sup>1bis</sup> Liegen keine Anhaltspunkte vor, dass die betroffene asylsuchende Person die Aussengrenze eines Schengen-Staats in zulässiger Weise überschritten hat und bereits eine Überprüfung durchgeführt wurde, so führt das SEM die Überprüfung nach der Verordnung (EU) 2024/1356[^26-3] durch. Die Überprüfung erfolgt innerhalb von drei Tagen ab Beginn der Vorbereitungsphase.[^26-4]
+
+<sup>1ter</sup>
+
+Das Verfahren zur Durchführung der Überprüfung richtet sich nach der Verordnung (EU) 2024/1356. Es beinhaltet folgende Punkte:
+
+- a. vorläufige Gesundheitskontrolle;
+- b. vorläufige Prüfung der Vulnerabilität;
+- c. Identifizierung und Verifizierung der Identität;
+- d. Erfassung der biometrischen Daten in Eurodac, falls dies noch nicht erfolgt ist;
+- e. Sicherheitskontrolle;
+- f. Ausfüllen des Überprüfungsformulars;
+- g. Zuweisung an das geeignete Verfahren.[^26-5]
+
+<sup>1quater</sup> Die Asylsuchenden müssen den zuständigen Behörden während der Dauer der Überprüfung zur Verfügung stehen und ihren Namen, ihr Geburtsdatum, ihr Geschlecht und ihre Staatsangehörigkeit angeben sowie gegebenenfalls Dokumente und Informationen vorlegen, die diese Daten nachweisen können. Darüber hinaus müssen sie ihre biometrischen Daten erheben lassen.[^26-6]
 
 <sup>2</sup> In der Vorbereitungsphase erhebt das SEM die Personalien und erstellt in der Regel Fingerabdruckbogen und Fotografien. Es kann weitere biometrische Daten erheben, Altersgutachten (Art. 17 Abs. 3<sup>bis</sup>) erstellen, Beweismittel und Reise- und Identitätspapiere überprüfen und herkunfts- sowie identitätsspezifische Abklärungen treffen.
 
-<sup>3</sup> Das SEM weist die Asylsuchenden auf ihre Rechte und Pflichten im Asylverfahren hin. Es kann die Asylsuchenden zu ihrer Identität, zum Reiseweg und summarisch zu den Gründen befragen, warum sie ihr Land verlassen haben. Dabei kann das SEM Asylsuchende über einen möglichen gewerbsmässigen Menschenschmuggel befragen. Es klärt mit der asylsuchenden Person ab, ob ihr Asylgesuch hinreichend begründet ist. Sollte dies nicht der Fall sein und zieht die asylsuchende Person ihr Gesuch zurück, so wird dieses formlos abgeschrieben und die Rückreise eingeleitet.
+<sup>3</sup> Das SEM weist die Asylsuchenden auf ihre Rechte und Pflichten im Asylverfahren hin. Es kann die Asylsuchenden nach Abschluss der Überprüfung nach Absatz 1<sup>ter</sup> oder falls keine Überprüfung erforderlich ist, weil sie bereits einer Überprüfung unterzogen wurden, zu ihrer Identität, zum Reiseweg und summarisch zu den Gründen befragen, warum sie ihr Land verlassen haben.[^26-7] Dabei kann das SEM Asylsuchende über einen möglichen gewerbsmässigen Menschenschmuggel befragen. Es klärt mit der asylsuchenden Person ab, ob ihr Asylgesuch hinreichend begründet ist. Sollte dies nicht der Fall sein und zieht die asylsuchende Person ihr Gesuch zurück, so wird dieses formlos abgeschrieben und die Rückreise eingeleitet.
 
-<sup>4</sup> Der Abgleich der Daten nach Artikel 102*a*<sup>bis</sup> Absätze 2–3, die Überprüfung der Fingerabdrücke nach Artikel 102*a*<sup>ter</sup> Absatz 1 sowie die Anfrage zur Aufnahme oder Wiederaufnahme an den zuständigen durch eines der Dublin-Assoziierungsabkommen gebundenen Staat werden während der Vorbereitungsphase vorgenommen.
+<sup>3bis</sup> Die Befragung nach Artikel 22 der Verordnung (EU) 2024/1351[^26-8] erfolgt vor dem Dublin-Verfahren (Art. 26*b*). Sie wird auf einem Tonträger aufgenommen und zudem schriftlich zusammengefasst. Die asylsuchende Person ist darüber vorgängig zu informieren. Die Tonaufnahme ist Bestandteil der Akteneinsicht, welche vor Ort gewährt wird.[^26-9]
+
+<sup>3ter</sup> Der Bundesrat kann festlegen, in welchen Fällen auf eine Tonaufnahme ausnahmsweise verzichtet werden kann.[^26-10]
+
+<sup>3quater</sup>
+
+Der Bundesrat regelt die Modalitäten der Tonaufnahme und der schriftlichen Zusammenfassung der Befragung nach Absatz 3<sup>bis</sup>. Er legt namentlich fest:
+
+- a. den Zweck und die Art der Aufnahme;
+- b. den Ort und die Modalitäten der Speicherung und der Archivierung der Aufnahme;
+- c. die Modalitäten des Akteneinsichtsrechts;
+- d. die Zugriffe auf die Aufnahme;
+- e. das Vorgehen bei einer technischen Störung oder einer fehlerhaften Aufnahme.[^26-11]
+
+<sup>4</sup> Der Abgleich der Daten nach Artikel 102*a*<sup>bis</sup> Absätze 2–3, die Überprüfung der Fingerabdrücke nach Artikel 102*a*<sup>ter</sup> Absatz 1 sowie die Anfrage zur Aufnahme oder Wiederaufnahme an den zuständigen durch eines der Dublin-Assoziierungsabkommen gebundenen Staat (Dublin-Staat) werden während der Vorbereitungsphase vorgenommen.[^26-12]
 
 <sup>5</sup> Das SEM kann Dritte mit Aufgaben nach Absatz 2 beauftragen. Die beauftragten Dritten unterstehen der gleichen Schweigepflicht wie das Bundespersonal.
 
 [^26-1]: Fassung gemäss Ziff. I des BG vom 25. Sept. 2015, in Kraft seit 1. März 2019 ([AS 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521), [2018 2855](https://fedlex.data.admin.ch/eli/oc/2018/438); [BBl 2014 7991](https://fedlex.data.admin.ch/eli/fga/2014/1715)).
+[^26-2]: Fassung gemäss Anhang 1 Ziff. 2 des BB vom 26. Sept. 2025 über die Genehmigung und die Umsetzung des Notenaustauschs zwischen der Schweiz und der EU betreffend die Übernahme der Verordnung (EU) 2024/1356 zur Einführung der Überprüfung von Drittstaatsangehörigen an den Aussengrenzen und zur Änderung der Verordnungen (EG) Nr. 767/2008, (EU) 2017/2226, (EU) 2018/1240 und (EU) 2019/817, in Kraft seit 12. Juni 2026 ([AS 2026 230](https://fedlex.data.admin.ch/eli/oc/2026/230); [BBl 2025 1478](https://fedlex.data.admin.ch/eli/fga/2025/1478)).
+[^26-3]: Siehe Fussnote zu Art. 21*a* Abs. 1.
+[^26-4]: Eingefügt durch Anhang 1 Ziff. 2 des BB vom 26. Sept. 2025 über die Genehmigung und die Umsetzung des Notenaustauschs zwischen der Schweiz und der EU betreffend die Übernahme der Verordnung (EU) 2024/1356 zur Einführung der Überprüfung von Drittstaatsangehörigen an den Aussengrenzen und zur Änderung der Verordnungen (EG) Nr. 767/2008, (EU) 2017/2226, (EU) 2018/1240 und (EU) 2019/817, in Kraft seit 12. Juni 2026 ([AS 2026 230](https://fedlex.data.admin.ch/eli/oc/2026/230); [BBl 2025 1478](https://fedlex.data.admin.ch/eli/fga/2025/1478)).
+[^26-5]: Eingefügt durch Anhang 1 Ziff. 2 des BB vom 26. Sept. 2025 über die Genehmigung und die Umsetzung des Notenaustauschs zwischen der Schweiz und der EU betreffend die Übernahme der Verordnung (EU) 2024/1356 zur Einführung der Überprüfung von Drittstaatsangehörigen an den Aussengrenzen und zur Änderung der Verordnungen (EG) Nr. 767/2008, (EU) 2017/2226, (EU) 2018/1240 und (EU) 2019/817, in Kraft seit 12. Juni 2026 ([AS 2026 230](https://fedlex.data.admin.ch/eli/oc/2026/230); [BBl 2025 1478](https://fedlex.data.admin.ch/eli/fga/2025/1478)).
+[^26-6]: Eingefügt durch Anhang 1 Ziff. 2 des BB vom 26. Sept. 2025 über die Genehmigung und die Umsetzung des Notenaustauschs zwischen der Schweiz und der EU betreffend die Übernahme der Verordnung (EU) 2024/1356 zur Einführung der Überprüfung von Drittstaatsangehörigen an den Aussengrenzen und zur Änderung der Verordnungen (EG) Nr. 767/2008, (EU) 2017/2226, (EU) 2018/1240 und (EU) 2019/817, in Kraft seit 12. Juni 2026 ([AS 2026 230](https://fedlex.data.admin.ch/eli/oc/2026/230); [BBl 2025 1478](https://fedlex.data.admin.ch/eli/fga/2025/1478)).
+[^26-7]: Fassung des zweiten Satzes gemäss Anhang 1 Ziff. 2 des BB vom 26. Sept. 2025 über die Genehmigung und die Umsetzung des Notenaustauschs zwischen der Schweiz und der EU betreffend die Übernahme der Verordnung (EU) 2024/1356 zur Einführung der Überprüfung von Drittstaatsangehörigen an den Aussengrenzen und zur Änderung der Verordnungen (EG) Nr. 767/2008, (EU) 2017/2226, (EU) 2018/1240 und (EU) 2019/817, in Kraft seit 12. Juni 2026 ([AS 2026 230](https://fedlex.data.admin.ch/eli/oc/2026/230); [BBl 2025 1478](https://fedlex.data.admin.ch/eli/fga/2025/1478)).
+[^26-8]: Siehe Fussnote zu Art. 8*b*.
+[^26-9]: Eingefügt durch Anhang 1 Ziff. 2 des BB vom 26. Sept. 2025 über die Genehmigung und die Umsetzung der Notenaustausche zwischen der Schweiz und der EU betreffend die Übernahme der Verordnung (EU) 2024/1351 über das Asyl- und Migrationsmanagement und der Verordnung (EU) 2024/1359 über die Bewältigung von Krisensituationen und Situationen höherer Gewalt im Bereich Migration und Asyl, in Kraft seit 12. Juni 2026 ([AS 2026 229](https://fedlex.data.admin.ch/eli/oc/2026/229); [BBl 2025 1478](https://fedlex.data.admin.ch/eli/fga/2025/1478)).
+[^26-10]: Eingefügt durch Anhang 1 Ziff. 2 des BB vom 26. Sept. 2025 über die Genehmigung und die Umsetzung der Notenaustausche zwischen der Schweiz und der EU betreffend die Übernahme der Verordnung (EU) 2024/1351 über das Asyl- und Migrationsmanagement und der Verordnung (EU) 2024/1359 über die Bewältigung von Krisensituationen und Situationen höherer Gewalt im Bereich Migration und Asyl, in Kraft seit 12. Juni 2026 ([AS 2026 229](https://fedlex.data.admin.ch/eli/oc/2026/229); [BBl 2025 1478](https://fedlex.data.admin.ch/eli/fga/2025/1478)).
+[^26-11]: Eingefügt durch Anhang 1 Ziff. 2 des BB vom 26. Sept. 2025 über die Genehmigung und die Umsetzung der Notenaustausche zwischen der Schweiz und der EU betreffend die Übernahme der Verordnung (EU) 2024/1351 über das Asyl- und Migrationsmanagement und der Verordnung (EU) 2024/1359 über die Bewältigung von Krisensituationen und Situationen höherer Gewalt im Bereich Migration und Asyl, in Kraft seit 12. Juni 2026 ([AS 2026 229](https://fedlex.data.admin.ch/eli/oc/2026/229); [BBl 2025 1478](https://fedlex.data.admin.ch/eli/fga/2025/1478)).
+[^26-12]: Fassung gemäss Anhang 1 Ziff. 2 des BB vom 26. Sept. 2025 über die Genehmigung und die Umsetzung der Notenaustausche zwischen der Schweiz und der EU betreffend die Übernahme der Verordnung (EU) 2024/1351 über das Asyl- und Migrationsmanagement und der Verordnung (EU) 2024/1359 über die Bewältigung von Krisensituationen und Situationen höherer Gewalt im Bereich Migration und Asyl, in Kraft seit 12. Juni 2026 ([AS 2026 229](https://fedlex.data.admin.ch/eli/oc/2026/229); [BBl 2025 1478](https://fedlex.data.admin.ch/eli/fga/2025/1478)).
 
 #### Art. 26a
 
@@ -789,15 +864,19 @@ Das Eidgenössische Justiz- und Polizeidepartement (EJPD) kann Ausführungsbesti
 
 <sup>3</sup> Später geltend gemachte oder von einer anderen medizinischen Fachperson festgestellte gesundheitliche Beeinträchtigungen können im Asyl- und Wegweisungsverfahren berücksichtigt werden, wenn sie nachgewiesen werden. Eine Glaubhaftmachung reicht ausnahmsweise aus, wenn entschuldbare Gründe für die Verspätung vorliegen oder im Einzelfall ein Nachweis aus medizinischen Gründen nicht erbracht werden kann. Das SEM kann eine Vertrauensärztin oder einen Vertrauensarzt beiziehen.
 
-[^26a-1]: Ursprünglich Art. 26<sup>bis</sup>. Eingefügt durch Ziff. I des BG vom 14. Dez. 2012, in Kraft seit 1. Febr. 2014 ([AS 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778)[5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [BBl 2010 4455](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 7325](https://fedlex.data.admin.ch/eli/fga/2011/1209)). Siehe auch die UeB dieser Änd. am Schluss des Textes.
+[^26a-1]: Ursprünglich Art. 26<sup>bis</sup>. Eingefügt durch Ziff. I des BG vom 14. Dez. 2012, in Kraft seit 1. Febr. 2014 ([AS 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778), [5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [BBl 2010 4455](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 7325](https://fedlex.data.admin.ch/eli/fga/2011/1209)). Siehe auch die UeB dieser Änd. am Schluss des Textes.
 
 #### Art. 26b
 
 **Dublin-Verfahren**[^26b-1]
 
-Das Verfahren im Hinblick auf einen Entscheid nach Artikel 31*a* Absatz 1 Buchstabe b beginnt mit der Einreichung des Gesuchs an einen Dublin-Staat um Aufnahme oder Wiederaufnahme der asylsuchenden Person. Es dauert bis zur Überstellung in den zuständigen Dublin-Staat oder bis zu seinem Abbruch und zum Entscheid über die Durchführung eines beschleunigten oder erweiterten Verfahrens.
+<sup>1</sup> Das Verfahren im Hinblick auf einen Entscheid nach Artikel 31*a* Absatz 1 Buchstabe b beginnt mit der Einreichung des Gesuchs an einen Dublin-Staat um Aufnahme oder Wiederaufnahme der asylsuchenden Person. Es dauert bis zur Überstellung in den zuständigen Dublin-Staat oder bis zu seinem Abbruch und zum Entscheid über die Durchführung eines beschleunigten oder erweiterten Verfahrens.
+
+<sup>2</sup> Bei Aufnahmeersuchen nach Artikel 38 Absatz 2 der Verordnung (EU) 2024/1351[^26b-2] findet Artikel 8 Absatz 3<sup>bis</sup> keine Anwendung.[^26b-3]
 
 [^26b-1]: Eingefügt durch Ziff. I des BG vom 25. Sept. 2015, in Kraft seit 1. März 2019 ([AS 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521), [2018 2855](https://fedlex.data.admin.ch/eli/oc/2018/438); [BBl 2014 7991](https://fedlex.data.admin.ch/eli/fga/2014/1715)).
+[^26b-2]: Siehe Fussnote zu Art. 8*b*.
+[^26b-3]: Eingefügt durch Anhang 1 Ziff. 2 des BB vom 26. Sept. 2025 über die Genehmigung und die Umsetzung der Notenaustausche zwischen der Schweiz und der EU betreffend die Übernahme der Verordnung (EU) 2024/1351 über das Asyl- und Migrationsmanagement und der Verordnung (EU) 2024/1359 über die Bewältigung von Krisensituationen und Situationen höherer Gewalt im Bereich Migration und Asyl, in Kraft seit 12. Juni 2026 ([AS 2026 229](https://fedlex.data.admin.ch/eli/oc/2026/229); [BBl 2025 1478](https://fedlex.data.admin.ch/eli/fga/2025/1478)).
 
 #### Art. 26c
 
@@ -879,7 +958,7 @@ Steht nach der Anhörung zu den Asylgründen fest, dass ein Entscheid im Rahmen 
 
 Der Bundesrat kann mit Drittstaaten und internationalen Organisationen Vereinbarungen über die Zusammenarbeit bei der Ermittlung des Sachverhalts abschliessen. Er kann insbesondere Vereinbarungen über den gegenseitigen Informationsaustausch zur Abklärung der Fluchtgründe einer asylsuchenden Person im Heimat- oder Herkunftsstaat, ihres Reiseweges und ihres Aufenthalts in einem Drittstaat abschliessen.
 
-[^29b-1]: Ursprünglich: Art. 29*a*. Eingefügt durch Ziff. I des BG vom 14. Dez. 2012, in Kraft seit 1. Febr. 2014 ([AS 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778)[5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [BBl 2010 4455](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 7325](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
+[^29b-1]: Ursprünglich: Art. 29*a*. Eingefügt durch Ziff. I des BG vom 14. Dez. 2012, in Kraft seit 1. Febr. 2014 ([AS 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778), [5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [BBl 2010 4455](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 7325](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
 
 #### Art. 30
 
@@ -893,7 +972,7 @@ Der Bundesrat kann mit Drittstaaten und internationalen Organisationen Vereinbar
 
 Das EJPD kann im Einverständnis mit den Kantonen festlegen, dass Angestellte kantonaler Behörden unter der Leitung des SEM Entscheide zuhanden des SEM vorbereiten.
 
-[^31-1]: Fassung gemäss Ziff. I des BG vom 14. Dez. 2012, in Kraft seit 1. Febr. 2014 ([AS 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778)[5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [BBl 2010 4455](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 7325](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
+[^31-1]: Fassung gemäss Ziff. I des BG vom 14. Dez. 2012, in Kraft seit 1. Febr. 2014 ([AS 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778), [5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [BBl 2010 4455](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 7325](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
 
 #### Art. 31a
 
@@ -916,7 +995,7 @@ Das SEM tritt in der Regel auf Asylgesuche nicht ein, wenn Asylsuchende:
 
 <sup>4</sup> In den übrigen Fällen lehnt das SEM das Asylgesuch ab, wenn die Flüchtlingseigenschaft weder bewiesen noch glaubhaft gemacht worden ist oder ein Asylausschlussgrund nach den Artikeln 53 und 54 vorliegt.[^31a-3]
 
-[^31a-1]: Eingefügt durch Ziff. I des BG vom 14. Dez. 2012, in Kraft seit 1. Febr. 2014 ([AS 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778)[5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [BBl 2010 4455](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 7325](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
+[^31a-1]: Eingefügt durch Ziff. I des BG vom 14. Dez. 2012, in Kraft seit 1. Febr. 2014 ([AS 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778), [5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [BBl 2010 4455](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 7325](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
 [^31a-2]: Eingefügt durch Ziff. I des BG vom 26. Sept. 2014, in Kraft seit 1. Juli 2015 ([AS 2015 1871](https://fedlex.data.admin.ch/eli/oc/2015/360); [BBl 2014 3373](https://fedlex.data.admin.ch/eli/fga/2014/708)).
 [^31a-3]: Fassung gemäss Ziff. I des BG vom 25. Sept. 2015, in Kraft seit 1. März 2019 ([AS 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521), [2018 2855](https://fedlex.data.admin.ch/eli/oc/2018/438); [BBl 2014 7991](https://fedlex.data.admin.ch/eli/fga/2014/1715)).
 
@@ -926,7 +1005,7 @@ Das SEM tritt in der Regel auf Asylgesuche nicht ein, wenn Asylsuchende:
 
 <sup>1</sup>
 
-Eine asylsuchende Person, gegen die in einem Staat, der durch eines der Dublin-Assoziierungsabkommen gebunden ist (Dublin-Staat), ein ablehnender Asyl- und ein rechtskräftiger Wegweisungsentscheid ergangen ist, kann nach den Voraussetzungen der Richtlinie 2001/40/EG[^31b-2] direkt in ihren Heimat- oder Herkunftsstaat weggewiesen werden, wenn:
+Eine asylsuchende Person, gegen die in einem Dublin-Staat ein ablehnender Asyl- und ein rechtskräftiger Wegweisungsentscheid ergangen ist, kann nach den Voraussetzungen der Richtlinie 2001/40/EG[^31b-2] direkt in ihren Heimat- oder Herkunftsstaat weggewiesen werden, wenn:[^31b-3]
 
 - a. der zuständige Dublin-Staat während längerer Zeit keine Wegweisungen in den Heimat- oder Herkunftsstaat der asylsuchenden Person vollzieht; und
 - b. die Wegweisung aus der Schweiz voraussichtlich rasch vollzogen werden kann.
@@ -935,21 +1014,22 @@ Eine asylsuchende Person, gegen die in einem Staat, der durch eines der Dublin-A
 
 [^31b-1]: Eingefügt durch Ziff. I des BG vom 26. Sept. 2014, in Kraft seit 1. Juli 2015 ([AS 2015 1871](https://fedlex.data.admin.ch/eli/oc/2015/360); [BBl 2014 3373](https://fedlex.data.admin.ch/eli/fga/2014/708)).
 [^31b-2]: Richtlinie 2001/40/EG des Rates vom 28. Mai 2001 über die gegenseitige Anerkennung von Entscheidungen über die Rückführung von Drittstaatsangehörigen, ABl. L 149 vom 2.6.2001, S. 34.
+[^31b-3]: Fassung gemäss Anhang 1 Ziff. 2 des BB vom 26. Sept. 2025 über die Genehmigung und die Umsetzung der Notenaustausche zwischen der Schweiz und der EU betreffend die Übernahme der Verordnung (EU) 2024/1351 über das Asyl- und Migrationsmanagement und der Verordnung (EU) 2024/1359 über die Bewältigung von Krisensituationen und Situationen höherer Gewalt im Bereich Migration und Asyl, in Kraft seit 12. Juni 2026 ([AS 2026 229](https://fedlex.data.admin.ch/eli/oc/2026/229); [BBl 2025 1478](https://fedlex.data.admin.ch/eli/fga/2025/1478)).
 
 #### Art. 32–35
 
 [^3235-1]
 
-[^3235-1]: Aufgehoben durch Ziff. I des BG vom 14. Dez. 2012, mit Wirkung seit 1. Febr. 2014 ([AS 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778)[5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [BBl 2010 4455](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 7325](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
+[^3235-1]: Aufgehoben durch Ziff. I des BG vom 14. Dez. 2012, mit Wirkung seit 1. Febr. 2014 ([AS 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778), [5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [BBl 2010 4455](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 7325](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
 
 #### Art. 35a
 
-**Wiederaufnahme des Asylverfahrens im Rahmen des Dublin-Verfahrens**[^35a-1]
+**Wiederaufnahme des Asylverfahrens im Rahmen des Dublin‑Verfahrens**[^35a-1]
 
-Ist die Schweiz aufgrund der Verordnung (EU) Nr. 604/2013[^35a-2] für die Prüfung eines Asylgesuchs zuständig, so wird das Asylverfahren wieder aufgenommen, und zwar auch dann, wenn das Asylgesuch zuvor abgeschrieben wurde.
+Ist die Schweiz aufgrund der Verordnung (EU) 2024/1351[^35a-2] für die Prüfung eines Asylgesuchs zuständig, so wird das Asylverfahren wieder aufgenommen, und zwar auch dann, wenn das Asylgesuch zuvor abgeschrieben wurde.
 
-[^35a-1]: Eingefügt durch Ziff. I des BG vom 16. Dez. 2005 ([AS 2006 4745](https://fedlex.data.admin.ch/eli/oc/2006/727); [BBl 2002 6845](https://fedlex.data.admin.ch/eli/fga/2002/1106)). Fassung gemäss Anhang Ziff. I 2 des BB vom 26. Sept. 2014 (Übernahme der V[EU] Nr. 604/2013 zur Festlegung der Kriterien und Verfahren zur Bestimmung des Mitgliedstaats, der für die Prüfung eines Antrags auf internationalen Schutz zuständig ist), in Kraft seit 1. Juli 2015 ([AS 2015 1841](https://fedlex.data.admin.ch/eli/oc/2015/357); [BBl 2014 2675](https://fedlex.data.admin.ch/eli/fga/2014/489)).
-[^35a-2]: Siehe Fussnote zu Art. 22 Abs. 1<sup>ter</sup>.
+[^35a-1]: Eingefügt durch Ziff. I des BG vom 16. Dez. 2005 ([AS 2006 4745](https://fedlex.data.admin.ch/eli/oc/2006/727); [BBl 2002 6845](https://fedlex.data.admin.ch/eli/fga/2002/1106)). Fassung gemäss Anhang Ziff. I 2 des BB vom 26. Sept. 2014 (Übernahme der V[EU] Nr. 604/2013 zur Festlegung der Kriterien und Verfahren zur Bestimmung des Mitgliedstaats, der für die Prüfung eines Antrags auf internationalen Schutz zuständig ist) ([AS 2015 1841](https://fedlex.data.admin.ch/eli/oc/2015/357); [BBl 2014 2675](https://fedlex.data.admin.ch/eli/fga/2014/489)). Fassung gemäss Anhang 1 Ziff. 2 des BB vom 26. Sept. 2025 über die Genehmigung und die Umsetzung der Notenaustausche zwischen der Schweiz und der EU betreffend die Übernahme der Verordnung (EU) 2024/1351 über das Asyl- und Migrationsmanagement und der Verordnung (EU) 2024/1359 über die Bewältigung von Krisensituationen und Situationen höherer Gewalt im Bereich Migration und Asyl, in Kraft seit 12. Juni 2026 ([AS 2026 229](https://fedlex.data.admin.ch/eli/oc/2026/229); [BBl 2025 1478](https://fedlex.data.admin.ch/eli/fga/2025/1478)).
+[^35a-2]: Siehe Fussnote zu Art. 8*b*.
 
 #### Art. 36
 
@@ -965,13 +1045,13 @@ Bei Nichteintretensentscheiden nach Artikel 31*a* Absatz 1 wird der asylsuchende
 
 <sup>2</sup> In den übrigen Fällen findet eine Anhörung nach Artikel 29 statt.
 
-[^36-1]: Fassung gemäss Ziff. I des BG vom 14. Dez. 2012, in Kraft seit 1. Febr. 2014 ([AS 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778)[5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [BBl 2010 4455](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 7325](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
+[^36-1]: Fassung gemäss Ziff. I des BG vom 14. Dez. 2012, in Kraft seit 1. Febr. 2014 ([AS 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778), [5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [BBl 2010 4455](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 7325](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
 
 #### Art. 37
 
 **Erstinstanzliche Verfahrensfristen**[^37-1]
 
-<sup>1</sup> Entscheide im Dublin-Verfahren (Art. 26*b*) sind innerhalb von drei Arbeitstagen zu eröffnen, nachdem der angefragte Dublin-Staat dem Ersuchen um Überstellung nach den Artikeln 21 und 23 der Verordnung (EU) Nr. 604/2013[^37-2] zugestimmt hat.
+<sup>1</sup> Entscheide im Dublin-Verfahren (Art. 26*b*) sind innerhalb von drei Arbeitstagen zu eröffnen, nachdem der angefragte Dublin-Staat dem Ersuchen um Überstellung nach den Artikeln 39 und 41 der Verordnung (EU) 2024/1351[^37-2] zugestimmt hat.[^37-3]
 
 <sup>2</sup> Entscheide im beschleunigten Verfahren (Art. 26*c*) sind innerhalb von acht Arbeitstagen nach Abschluss der Vorbereitungsphase zu eröffnen.
 
@@ -981,14 +1061,15 @@ Bei Nichteintretensentscheiden nach Artikel 31*a* Absatz 1 wird der asylsuchende
 
 <sup>5</sup> In den übrigen Fällen sind Nichteintretensentscheide innerhalb von fünf Arbeitstagen und Entscheide innerhalb von zehn Arbeitstagen nach der Gesuchstellung zu treffen.
 
-<sup>6</sup> Das SEM entscheidet ausserhalb der Reihe und unverzüglich, wenn die asylsuchende Person auf der Grundlage eines Ersuchens des Staates, vor welchem diese Schutz in der Schweiz sucht, in Auslieferungshaft ist. Dies gilt auch, wenn gegen sie eine Landesverweisung nach Artikel 66*a* oder 66*a*<sup>bis</sup> des Strafgesetzbuchs (StGB)[^37-3] oder Artikel 49*a* oder 49*a*<sup>bis</sup> des Militärstrafgesetzes vom 13. Juni 1927[^37-4] (MStG) oder eine Ausweisung nach Artikel 68 AIG[^37-5] ausgesprochen wurde.[^37-6]
+<sup>6</sup> Das SEM entscheidet ausserhalb der Reihe und unverzüglich, wenn die asylsuchende Person auf der Grundlage eines Ersuchens des Staates, vor welchem diese Schutz in der Schweiz sucht, in Auslieferungshaft ist. Dies gilt auch, wenn gegen sie eine Landesverweisung nach Artikel 66*a* oder 66*a*<sup>bis</sup> des Strafgesetzbuchs (StGB)[^37-4] oder Artikel 49*a* oder 49*a*<sup>bis</sup> des Militärstrafgesetzes vom 13. Juni 1927[^37-5] (MStG) oder eine Ausweisung nach Artikel 68 AIG[^37-6] ausgesprochen wurde.[^37-7]
 
 [^37-1]: Fassung gemäss Ziff. I, Abs. 4 und 6 gemäss Ziff. IV 2 des BG vom 25. Sept. 2015, in Kraft seit 1. März 2019 ([AS 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521), [2018 2855](https://fedlex.data.admin.ch/eli/oc/2018/438); [BBl 2014 7991](https://fedlex.data.admin.ch/eli/fga/2014/1715)).
-[^37-2]: Verordnung (EU) Nr. 604/2013 des Europäischen Parlaments und des Rates vom 26. Juni 2013 zur Festlegung der Kriterien und Verfahren zur Bestimmung des Mitgliedstaats, der für die Prüfung eines von einem Drittstaatsangehörigen oder Staatenlosen in einem Mitgliedstaat gestellten Antrags auf internationalen Schutz zuständig ist (Neufassung), Fassung gemäss ABl. L 180 vom 29.6.2013, S. 31.
-[^37-3]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
-[^37-4]: [SR 321.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6242)
-[^37-5]: [SR 142.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4851)
-[^37-6]: Fassung gemäss Ziff. I 3 des BG vom 25. Sept. 2020 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Juni 2022 ([AS 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [BBl 2019 4751](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
+[^37-2]: Siehe Fussnote zu Art. 8*b*.
+[^37-3]: Fassung gemäss Anhang 1 Ziff. 2 des BB vom 26. Sept. 2025 über die Genehmigung und die Umsetzung der Notenaustausche zwischen der Schweiz und der EU betreffend die Übernahme der Verordnung (EU) 2024/1351 über das Asyl- und Migrationsmanagement und der Verordnung (EU) 2024/1359 über die Bewältigung von Krisensituationen und Situationen höherer Gewalt im Bereich Migration und Asyl, in Kraft seit 12. Juni 2026 ([AS 2026 229](https://fedlex.data.admin.ch/eli/oc/2026/229); [BBl 2025 1478](https://fedlex.data.admin.ch/eli/fga/2025/1478)).
+[^37-4]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^37-5]: [SR 321.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6242)
+[^37-6]: [SR 142.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4851)
+[^37-7]: Fassung gemäss Ziff. I 3 des BG vom 25. Sept. 2020 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Juni 2022 ([AS 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [BBl 2019 4751](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
 
 #### Art. 37a
 
@@ -996,7 +1077,7 @@ Bei Nichteintretensentscheiden nach Artikel 31*a* Absatz 1 wird der asylsuchende
 
 Nichteintretensentscheide sind summarisch zu begründen.
 
-[^37a-1]: Eingefügt durch Ziff. I des BG vom 14. Dez. 2012, in Kraft seit 1. Febr. 2014 ([AS 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778)[5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [BBl 2010 4455](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 7325](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
+[^37a-1]: Eingefügt durch Ziff. I des BG vom 14. Dez. 2012, in Kraft seit 1. Febr. 2014 ([AS 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778), [5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [BBl 2010 4455](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 7325](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
 
 #### Art. 37b
 
@@ -1004,13 +1085,13 @@ Nichteintretensentscheide sind summarisch zu begründen.
 
 Das SEM legt in einer Behandlungsstrategie fest, welche Asylgesuche prioritär behandelt werden. Es berücksichtigt dabei insbesondere die gesetzlichen Behandlungsfristen, die Situation in den Herkunftsstaaten, die offensichtliche Begründetheit oder Unbegründetheit der Gesuche sowie das Verhalten der asylsuchenden Personen.
 
-[^37b-1]: Eingefügt durch Ziff. I des BG vom 14. Dez. 2012, in Kraft seit 1. Febr. 2014 ([AS 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778)[5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [BBl 2010 4455](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 7325](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
+[^37b-1]: Eingefügt durch Ziff. I des BG vom 14. Dez. 2012, in Kraft seit 1. Febr. 2014 ([AS 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778), [5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [BBl 2010 4455](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 7325](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
 
 #### Art. 38
 
 [^38-1]
 
-[^38-1]: Aufgehoben durch Ziff. I des BG vom 14. Dez. 2012, mit Wirkung seit 1. Febr. 2014 ([AS 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778)[5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [BBl 2010 4455](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 7325](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
+[^38-1]: Aufgehoben durch Ziff. I des BG vom 14. Dez. 2012, mit Wirkung seit 1. Febr. 2014 ([AS 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778), [5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [BBl 2010 4455](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 7325](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
 
 #### Art. 39
 
@@ -1018,7 +1099,7 @@ Das SEM legt in einer Behandlungsstrategie fest, welche Asylgesuche prioritär b
 
 Wird aufgrund der Befragung in einem Zentrum des Bundes[^39-2] oder der Anhörung offenkundig, dass Asylsuchende zu einer Gruppe Schutzbedürftiger nach Artikel 66 gehören, so wird ihnen vorübergehender Schutz gewährt.
 
-[^39-1]: Fassung gemäss Ziff. I des BG vom 14. Dez. 2012, in Kraft seit 1. Febr. 2014 ([AS 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778)[5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [BBl 2010 4455](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 7325](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
+[^39-1]: Fassung gemäss Ziff. I des BG vom 14. Dez. 2012, in Kraft seit 1. Febr. 2014 ([AS 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778), [5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [BBl 2010 4455](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 7325](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
 [^39-2]: Ausdruck gemäss Ziff. I des BG vom 25. Sept. 2015, in Kraft seit 1. März 2019 ([AS 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521), [2018 2855](https://fedlex.data.admin.ch/eli/oc/2018/438); BBl 2014 7991). Diese Änd. wurde im ganzen Erlass berücksichtigt.
 
 #### Art. 40
@@ -1035,7 +1116,7 @@ Wird aufgrund der Befragung in einem Zentrum des Bundes[^39-2] oder der Anhörun
 
 [^41-1]
 
-[^41-1]: Aufgehoben durch Ziff. I des BG vom 14. Dez. 2012, mit Wirkung seit 1. Febr. 2014 ([AS 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778)[5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [BBl 2010 4455](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 7325](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
+[^41-1]: Aufgehoben durch Ziff. I des BG vom 14. Dez. 2012, mit Wirkung seit 1. Febr. 2014 ([AS 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778), [5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [BBl 2010 4455](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 7325](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
 
 #### Art. 41a
 
@@ -1075,8 +1156,8 @@ Wer ein Asylgesuch in der Schweiz gestellt hat, darf sich bis zum Abschluss des 
 [^43-1]: Fassung gemäss Ziff. I des BG vom 25. Sept. 2015, in Kraft seit 1. März 2019 ([AS 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521), [2018 2855](https://fedlex.data.admin.ch/eli/oc/2018/438); [BBl 2014 7991](https://fedlex.data.admin.ch/eli/fga/2014/1715)).
 [^43-2]: [SR 142.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4851)
 [^43-3]: Eingefügt durch Anhang Ziff. II 1 des BG vom 16. Dez. 2005 über Ausländerinnen und Ausländer, in Kraft seit 1. Jan. 2008 ([AS 2007 5437](https://fedlex.data.admin.ch/eli/oc/2007/758), [2008 5405](https://fedlex.data.admin.ch/eli/oc/2008/755); [BBl 2002 3709](https://fedlex.data.admin.ch/eli/fga/2002/541)).
-[^43-4]: Fassung gemäss Ziff. I des BG vom 14. Dez. 2012, in Kraft seit 1. Febr. 2014 ([AS 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778)[5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [BBl 2010 4455](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 7325](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
-[^43-5]: Fassung gemäss Ziff. I des BG vom 14. Dez. 2012, in Kraft seit 1. Febr. 2014 ([AS 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778)[5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [BBl 2010 4455](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 7325](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
+[^43-4]: Fassung gemäss Ziff. I des BG vom 14. Dez. 2012, in Kraft seit 1. Febr. 2014 ([AS 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778), [5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [BBl 2010 4455](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 7325](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
+[^43-5]: Fassung gemäss Ziff. I des BG vom 14. Dez. 2012, in Kraft seit 1. Febr. 2014 ([AS 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778), [5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [BBl 2010 4455](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 7325](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
 [^43-6]: Eingefügt durch Ziff. I des BG vom 16. Dez. 2005, in Kraft seit 1. Jan. 2008 ([AS 2006 4745](https://fedlex.data.admin.ch/eli/oc/2006/727), [2007 5573](https://fedlex.data.admin.ch/eli/oc/2007/765); [BBl 2002 6845](https://fedlex.data.admin.ch/eli/fga/2002/1106)).
 [^43-7]: Fassung gemäss Ziff. I des BG vom 25. Sept. 2015, in Kraft seit 1. März 2019 ([AS 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521), [2018 2855](https://fedlex.data.admin.ch/eli/oc/2018/438); [BBl 2014 7991](https://fedlex.data.admin.ch/eli/fga/2014/1715)).
 
@@ -1092,7 +1173,7 @@ Wer ein Asylgesuch in der Schweiz gestellt hat, darf sich bis zum Abschluss des 
 
 Lehnt das SEM das Asylgesuch ab oder tritt es darauf nicht ein, so verfügt es in der Regel die Wegweisung aus der Schweiz und ordnet den Vollzug an; es berücksichtigt dabei den Grundsatz der Einheit der Familie. Im Übrigen finden für die Anordnung des Vollzugs der Wegweisung die Artikel 83 und 84 des AIG[^44-2] Anwendung.
 
-[^44-1]: Fassung gemäss Ziff. I des BG vom 14. Dez. 2012, in Kraft seit 1. Febr. 2014 ([AS 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778)[5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [BBl 2010 4455](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 7325](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
+[^44-1]: Fassung gemäss Ziff. I des BG vom 14. Dez. 2012, in Kraft seit 1. Febr. 2014 ([AS 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778), [5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [BBl 2010 4455](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 7325](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
 [^44-2]: [SR 142.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4851)
 
 #### Art. 44a
@@ -1225,9 +1306,9 @@ Flüchtlingen, die in einem andern Staat aufgenommen worden sind, kann Asyl gew�
 [^51-3]: Fassung gemäss Anhang Ziff. 2 des BG vom 14. Juni 2024 (Massnahmen gegen Minderjährigenheiraten), in Kraft seit 1. Jan. 2025 ([AS 2024 590](https://fedlex.data.admin.ch/eli/oc/2024/590); [BBl 2023 2127](https://fedlex.data.admin.ch/eli/fga/2023/2127)).
 [^51-4]: Vierter Satz eingefügt durch Anhang Ziff. 2 des BG vom 14. Juni 2024 (Massnahmen gegen Minderjährigenheiraten), in Kraft seit 1. Jan. 2025 ([AS 2024 590](https://fedlex.data.admin.ch/eli/oc/2024/590); [BBl 2023 2127](https://fedlex.data.admin.ch/eli/fga/2023/2127)).
 [^51-5]: Eingefügt durch Ziff. I 2 des BG vom 15. Juni 2012 über Massnahmen gegen Zwangs- heiraten, in Kraft seit 1. Juli 2013 ([AS 2013 1035](https://fedlex.data.admin.ch/eli/oc/2013/226); [BBl 2011 2185](https://fedlex.data.admin.ch/eli/fga/2011/292)).
-[^51-6]: Aufgehoben durch Ziff. I des BG vom 14. Dez. 2012, mit Wirkung seit 1. Febr. 2014 ([AS 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778)[5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [BBl 2010 4455](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 7325](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
+[^51-6]: Aufgehoben durch Ziff. I des BG vom 14. Dez. 2012, mit Wirkung seit 1. Febr. 2014 ([AS 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778), [5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [BBl 2010 4455](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 7325](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
 [^51-7]: Fassung gemäss Ziff. I des BG vom 16. Dez. 2005, in Kraft seit 1. Jan. 2008 ([AS 2006 4745](https://fedlex.data.admin.ch/eli/oc/2006/727), [2007 5573](https://fedlex.data.admin.ch/eli/oc/2007/765); [BBl 2002 6845](https://fedlex.data.admin.ch/eli/fga/2002/1106)).
-[^51-8]: Fassung gemäss Ziff. I des BG vom 14. Dez. 2012, in Kraft seit 1. Febr. 2014 ([AS 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778)[5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [BBl 2010 4455](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 7325](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
+[^51-8]: Fassung gemäss Ziff. I des BG vom 14. Dez. 2012, in Kraft seit 1. Febr. 2014 ([AS 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778), [5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [BBl 2010 4455](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 7325](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
 [^51-9]: Aufgehoben durch Ziff. I des BG vom 16. Dez. 2005, mit Wirkung seit 1. Jan. 2007 ([AS 2006 4745](https://fedlex.data.admin.ch/eli/oc/2006/727); [BBl 2002 6845](https://fedlex.data.admin.ch/eli/fga/2002/1106)).
 
 #### Art. 52
@@ -1318,7 +1399,7 @@ Personen, denen die Schweiz Asyl gewährt hat oder welche die Flüchtlingseigens
 
 [^60-1]: Fassung gemäss Ziff. I des BG vom 16. Dez. 2005, in Kraft seit 1. Jan. 2008 ([AS 2006 4745](https://fedlex.data.admin.ch/eli/oc/2006/727), [2007 5573](https://fedlex.data.admin.ch/eli/oc/2007/765); [BBl 2002 6845](https://fedlex.data.admin.ch/eli/fga/2002/1106)).
 [^60-2]: [SR 142.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4851)
-[^60-3]: Fassung gemäss Ziff. I des BG vom 14. Dez. 2012, in Kraft seit 1. Febr. 2014 ([AS 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778)[5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [BBl 2010 4455](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 7325](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
+[^60-3]: Fassung gemäss Ziff. I des BG vom 14. Dez. 2012, in Kraft seit 1. Febr. 2014 ([AS 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778), [5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [BBl 2010 4455](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 7325](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
 
 #### Art. 61
 
@@ -1393,8 +1474,8 @@ Das Asyl in der Schweiz erlischt, wenn:
 
 <sup>3</sup> Der Flüchtlingsstatus und das Asyl erlöschen, wenn die ausländische Person nach Artikel 1 Abschnitt C Ziffer 3 der Flüchtlingskonvention vom 28. Juli 1951[^64-6] die Schweizer Staatsangehörigkeit erwirbt.[^64-7]
 
-[^64-1]: Fassung gemäss Ziff. I des BG vom 14. Dez. 2012, in Kraft seit 1. Febr. 2014 ([AS 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778)[5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [BBl 2010 4455](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 7325](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
-[^64-2]: Fassung gemäss Ziff. I des BG vom 14. Dez. 2012, in Kraft seit 1. Febr. 2014 ([AS 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778)[5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [BBl 2010 4455](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 7325](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
+[^64-1]: Fassung gemäss Ziff. I des BG vom 14. Dez. 2012, in Kraft seit 1. Febr. 2014 ([AS 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778), [5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [BBl 2010 4455](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 7325](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
+[^64-2]: Fassung gemäss Ziff. I des BG vom 14. Dez. 2012, in Kraft seit 1. Febr. 2014 ([AS 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778), [5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [BBl 2010 4455](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 7325](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
 [^64-3]: Eingefügt durch Anhang Ziff. 2 des BG vom 20. März 2015 (Umsetzung von Art. 121 Abs. 3–6 BV über die Ausschaffung krimineller Ausländerinnen und Ausländer), in Kraft seit 1. Okt. 2016 ([AS 2016 2329](https://fedlex.data.admin.ch/eli/oc/2016/380); [BBl 2013 5975](https://fedlex.data.admin.ch/eli/fga/2013/1078)).
 [^64-4]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 [^64-5]: [SR 321.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6242)
@@ -1407,7 +1488,7 @@ Das Asyl in der Schweiz erlischt, wenn:
 
 Die Weg- oder Ausweisung von Flüchtlingen richtet sich nach Artikel 64 AIG[^65-2] in Verbindung mit Artikel 63 Absatz 1 Buchstabe b und Artikel 68 AIG. Artikel 5 bleibt vorbehalten.
 
-[^65-1]: Fassung gemäss Ziff. I des BG vom 14. Dez. 2012, in Kraft seit 1. Febr. 2014 ([AS 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778)[5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [BBl 2010 4455](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 7325](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
+[^65-1]: Fassung gemäss Ziff. I des BG vom 14. Dez. 2012, in Kraft seit 1. Febr. 2014 ([AS 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778), [5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [BBl 2010 4455](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 7325](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
 [^65-2]: [SR 142.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4851)
 
 ## 4. Kapitel: Gewährung vorübergehenden Schutzes und Rechtsstellung der Schutzbedürftigen
@@ -1556,7 +1637,7 @@ Vorübergehender Schutz wird nicht gewährt, wenn die schutzbedürftige Person:
 
 <sup>5</sup> Für die Absätze 2–4 sind die Bestimmungen des 1*a*. Abschnittes des 8. Kapitels sinngemäss anwendbar.[^76-4]
 
-[^76-1]: Fassung gemäss Ziff. I des BG vom 14. Dez. 2012, in Kraft seit 1. Febr. 2014 ([AS 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778)[5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [BBl 2010 4455](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 7325](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
+[^76-1]: Fassung gemäss Ziff. I des BG vom 14. Dez. 2012, in Kraft seit 1. Febr. 2014 ([AS 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778), [5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [BBl 2010 4455](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 7325](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
 [^76-2]: [SR 142.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4851)
 [^76-3]: Fassung gemäss Anhang Ziff. II 1 des BG vom 16. Dez. 2005 über Ausländerinnen und Ausländer, in Kraft seit 1. Jan. 2008 ([AS 2007 5437](https://fedlex.data.admin.ch/eli/oc/2007/758), [2008 5405](https://fedlex.data.admin.ch/eli/oc/2008/755); [BBl 2002 3709](https://fedlex.data.admin.ch/eli/fga/2002/541)).
 [^76-4]: Eingefügt durch Ziff. I des BG vom 25. Sept. 2015, in Kraft seit 1. März 2019 ([AS 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521), [2018 2855](https://fedlex.data.admin.ch/eli/oc/2018/438); [BBl 2014 7991](https://fedlex.data.admin.ch/eli/fga/2014/1715)).
@@ -1676,12 +1757,12 @@ Personen, die sich gestützt auf dieses Gesetz in der Schweiz aufhalten und die 
 <sup>5</sup> Der besonderen Lage von Flüchtlingen und Schutzbedürftigen, die Anspruch auf eine Aufenthaltsbewilligung haben, ist bei der Unterstützung Rechnung zu tragen; namentlich soll die berufliche, soziale und kulturelle Integration erleichtert werden.
 
 [^82-1]: Fassung gemäss Ziff. I des BG vom 16. Dez. 2005, in Kraft seit 1. Jan. 2008 ([AS 2006 4745](https://fedlex.data.admin.ch/eli/oc/2006/727), [2007 5573](https://fedlex.data.admin.ch/eli/oc/2007/765); [BBl 2002 6845](https://fedlex.data.admin.ch/eli/fga/2002/1106)).
-[^82-2]: Fassung gemäss Ziff. I des BG vom 14. Dez. 2012, in Kraft seit 1. Febr. 2014 ([AS 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778)[5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [BBl 2010 4455](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 7325](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
-[^82-3]: Fassung gemäss Ziff. I des BG vom 14. Dez. 2012, in Kraft seit 1. Febr. 2014 ([AS 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778)[5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [BBl 2010 4455](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 7325](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
+[^82-2]: Fassung gemäss Ziff. I des BG vom 14. Dez. 2012, in Kraft seit 1. Febr. 2014 ([AS 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778), [5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [BBl 2010 4455](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 7325](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
+[^82-3]: Fassung gemäss Ziff. I des BG vom 14. Dez. 2012, in Kraft seit 1. Febr. 2014 ([AS 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778), [5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [BBl 2010 4455](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 7325](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
 [^82-4]: Eingefügt durch Ziff. I des BG vom 25. Sept. 2015, in Kraft seit 1. Okt. 2016 ([AS 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521); [BBl 2014 7991](https://fedlex.data.admin.ch/eli/fga/2014/1715)).
-[^82-5]: Fassung gemäss Ziff. I des BG vom 14. Dez. 2012, in Kraft seit 1. Febr. 2014 ([AS 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778)[5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [BBl 2010 4455](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 7325](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
+[^82-5]: Fassung gemäss Ziff. I des BG vom 14. Dez. 2012, in Kraft seit 1. Febr. 2014 ([AS 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778), [5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [BBl 2010 4455](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 7325](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
 [^82-6]: Eingefügt durch Ziff. I des BG vom 25. Sept. 2015, in Kraft seit 1. März 2019 ([AS 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521), [2018 2855](https://fedlex.data.admin.ch/eli/oc/2018/438); [BBl 2014 7991](https://fedlex.data.admin.ch/eli/fga/2014/1715)).
-[^82-7]: Fassung gemäss Ziff. I des BG vom 14. Dez. 2012, in Kraft seit 1. Febr. 2014 ([AS 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778)[5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [BBl 2010 4455](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 7325](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
+[^82-7]: Fassung gemäss Ziff. I des BG vom 14. Dez. 2012, in Kraft seit 1. Febr. 2014 ([AS 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778), [5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [BBl 2010 4455](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 7325](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
 
 #### Art. 82a
 
@@ -1729,12 +1810,12 @@ Sozialhilfeleistungen oder reduzierte Leistungen nach Artikel 82 Absatz 3 sind g
 <sup>2</sup> Unrechtmässig bezogene Sozialhilfeleistungen sind vollumfänglich zurückzuerstatten. Der zurückzuerstattende Betrag kann namentlich von künftigen Sozialhilfeleistungen abgezogen werden. Der Kanton setzt den Rückerstattungsanspruch durch. Artikel 85 Absatz 3 ist anwendbar.[^83-8]
 
 [^83-1]: Ausdruck gemäss Ziff. I des BG vom 16. Dez. 2005, in Kraft seit 1. Jan. 2008 ([AS 2006 4745](https://fedlex.data.admin.ch/eli/oc/2006/727), [2007 5573](https://fedlex.data.admin.ch/eli/oc/2007/765); [BBl 2002 6845](https://fedlex.data.admin.ch/eli/fga/2002/1106)). Diese Änd. ist im ganzen Erlass berücksichtigt.
-[^83-2]: Fassung gemäss Ziff. I des BG vom 14. Dez. 2012, in Kraft seit 1. Febr. 2014 ([AS 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778)[5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [BBl 2010 4455](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 7325](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
-[^83-3]: Eingefügt durch Ziff. I des BG vom 14. Dez. 2012, in Kraft seit 1. Febr. 2014 ([AS 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778)[5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [BBl 2010 4455](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 7325](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
-[^83-4]: Eingefügt durch Ziff. I des BG vom 14. Dez. 2012, in Kraft seit 1. Febr. 2014 ([AS 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778)[5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [BBl 2010 4455](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 7325](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
-[^83-5]: Eingefügt durch Ziff. I des BG vom 14. Dez. 2012, in Kraft seit 1. Febr. 2014 ([AS 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778)[5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [BBl 2010 4455](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 7325](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
-[^83-6]: Eingefügt durch Ziff. I des BG vom 14. Dez. 2012, in Kraft seit 1. Febr. 2014 ([AS 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778)[5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [BBl 2010 4455](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 7325](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
-[^83-7]: Eingefügt durch Ziff. I des BG vom 14. Dez. 2012, in Kraft seit 1. Febr. 2014 ([AS 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778)[5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [BBl 2010 4455](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 7325](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
+[^83-2]: Fassung gemäss Ziff. I des BG vom 14. Dez. 2012, in Kraft seit 1. Febr. 2014 ([AS 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778), [5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [BBl 2010 4455](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 7325](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
+[^83-3]: Eingefügt durch Ziff. I des BG vom 14. Dez. 2012, in Kraft seit 1. Febr. 2014 ([AS 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778), [5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [BBl 2010 4455](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 7325](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
+[^83-4]: Eingefügt durch Ziff. I des BG vom 14. Dez. 2012, in Kraft seit 1. Febr. 2014 ([AS 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778), [5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [BBl 2010 4455](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 7325](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
+[^83-5]: Eingefügt durch Ziff. I des BG vom 14. Dez. 2012, in Kraft seit 1. Febr. 2014 ([AS 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778), [5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [BBl 2010 4455](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 7325](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
+[^83-6]: Eingefügt durch Ziff. I des BG vom 14. Dez. 2012, in Kraft seit 1. Febr. 2014 ([AS 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778), [5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [BBl 2010 4455](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 7325](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
+[^83-7]: Eingefügt durch Ziff. I des BG vom 14. Dez. 2012, in Kraft seit 1. Febr. 2014 ([AS 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778), [5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [BBl 2010 4455](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 7325](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
 [^83-8]: Eingefügt durch Ziff. I des BG vom 16. Dez. 2005, in Kraft seit 1. Jan. 2008 ([AS 2006 4745](https://fedlex.data.admin.ch/eli/oc/2006/727), [2007 5573](https://fedlex.data.admin.ch/eli/oc/2007/765); [BBl 2002 6845](https://fedlex.data.admin.ch/eli/fga/2002/1106)).
 
 #### Art. 83a
@@ -1832,8 +1913,8 @@ Die zuständigen Behörden können die Sonderabgabe nur erheben, wenn die betref
 [^88-6]: Fassung gemäss Ziff. I 3 des BG vom 25. Sept. 2020 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Juni 2022 ([AS 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [BBl 2019 4751](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
 [^88-7]: Fassung gemäss Anhang Ziff. 2 des BG vom 20. März 2015 (Umsetzung von Art. 121 Abs. 3–6 BV über die Ausschaffung krimineller Ausländerinnen und Ausländer), in Kraft seit 1. Okt. 2016 ([AS 2016 2329](https://fedlex.data.admin.ch/eli/oc/2016/380); [BBl 2013 5975](https://fedlex.data.admin.ch/eli/fga/2013/1078)).
 [^88-8]: Eingefügt durch Ziff. I des BG vom 25. Sept. 2015, in Kraft seit 1. März 2019 ([AS 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521), [2018 2855](https://fedlex.data.admin.ch/eli/oc/2018/438); [BBl 2014 7991](https://fedlex.data.admin.ch/eli/fga/2014/1715)).
-[^88-9]: Fassung gemäss Ziff. I des BG vom 14. Dez. 2012, in Kraft seit 1. Febr. 2014 ([AS 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778)[5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [BBl 2010 4455](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 7325](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
-[^88-10]: Aufgehoben durch Ziff. I des BG vom 14. Dez. 2012, mit Wirkung seit 1. Febr. 2014 ([AS 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778)[5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [BBl 2010 4455](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 7325](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
+[^88-9]: Fassung gemäss Ziff. I des BG vom 14. Dez. 2012, in Kraft seit 1. Febr. 2014 ([AS 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778), [5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [BBl 2010 4455](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 7325](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
+[^88-10]: Aufgehoben durch Ziff. I des BG vom 14. Dez. 2012, mit Wirkung seit 1. Febr. 2014 ([AS 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778), [5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [BBl 2010 4455](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 7325](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
 
 #### Art. 89
 
@@ -1862,7 +1943,7 @@ Er bestimmt die Ausgestaltung der Pauschalen sowie die Dauer ihrer Ausrichtung u
 
 <sup>2</sup> Kommt ein Kanton dieser Verpflichtung nicht nach, so kann das SEM die finanziellen Abgeltungen an diesen Kanton kürzen oder aufgrund der vorhandenen Daten festlegen.
 
-[^89a-1]: Eingefügt durch Ziff. I des BG vom 14. Dez. 2012, in Kraft seit 1. Febr. 2014 ([AS 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778)[5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [BBl 2010 4455](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 7325](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
+[^89a-1]: Eingefügt durch Ziff. I des BG vom 14. Dez. 2012, in Kraft seit 1. Febr. 2014 ([AS 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778), [5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [BBl 2010 4455](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 7325](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
 [^89a-2]: [SR 142.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4851)
 [^89a-3]: Fassung gemäss Anhang 1 Ziff. 2 des BB vom 18. Dez. 2020 über die Genehmigung und die Umsetzung der Notenaustausche zwischen der Schweiz und der EU betreffend die Übernahme der Rechtsgrundlagen über die Einrichtung, den Betrieb und die Nutzung des Schengener Informationssystems (SIS), in Kraft seit 22. Nov. 2022 ([AS 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365); [2023 16](https://fedlex.data.admin.ch/eli/oc/2023/16); [BBl 2020 3465](https://fedlex.data.admin.ch/eli/fga/2020/794)).
 
@@ -1914,7 +1995,7 @@ Er bestimmt die Ausgestaltung der Pauschalen sowie die Dauer ihrer Ausrichtung u
 [^91-1]: Aufgehoben durch Ziff. I des BG vom 16. Dez. 2005, mit Wirkung seit 1. Jan. 2008 ([AS 2006 4745](https://fedlex.data.admin.ch/eli/oc/2006/727), [2007 5573](https://fedlex.data.admin.ch/eli/oc/2007/765); [BBl 2002 6845](https://fedlex.data.admin.ch/eli/fga/2002/1106)).
 [^91-2]: Eingefügt durch Ziff. I des BG vom 16. Dez. 2005, in Kraft seit 1. Jan. 2008 ([AS 2006 4745](https://fedlex.data.admin.ch/eli/oc/2006/727), [2007 5573](https://fedlex.data.admin.ch/eli/oc/2007/765); [BBl 2002 6845](https://fedlex.data.admin.ch/eli/fga/2002/1106)).
 [^91-3]: Eingefügt durch Ziff. I des BG vom 28. Sept. 2012 (Dringliche Änderungen des Asylgesetzes) ([AS 2012 5359](https://fedlex.data.admin.ch/eli/oc/2012/612); [BBl 2010 4455](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 7325](https://fedlex.data.admin.ch/eli/fga/2011/1209)). Fassung gemäss Ziff. I des BG vom 25. Sept. 2015, in Kraft seit 1. März 2019 ([AS 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521), [2018 2855](https://fedlex.data.admin.ch/eli/oc/2018/438); [BBl 2014 7991](https://fedlex.data.admin.ch/eli/fga/2014/1715)).
-[^91-4]: Aufgehoben durch Ziff. I des BG vom 14. Dez. 2012, mit Wirkung seit 1. Jan. 2014 ([AS 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778)[5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [BBl 2010 4455](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 7325](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
+[^91-4]: Aufgehoben durch Ziff. I des BG vom 14. Dez. 2012, mit Wirkung seit 1. Jan. 2014 ([AS 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778), [5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [BBl 2010 4455](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 7325](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
 [^91-5]: Eingefügt durch Ziff. I des BG vom 28. Sept. 2012 (Dringliche Änderungen des Asylgesetzes) ([AS 2012 5359](https://fedlex.data.admin.ch/eli/oc/2012/612); [BBl 2010 4455](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 7325](https://fedlex.data.admin.ch/eli/fga/2011/1209)). Fassung gemäss Ziff. I des BG vom 25. Sept. 2015, in Kraft seit 1. März 2019 ([AS 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521), [2018 2855](https://fedlex.data.admin.ch/eli/oc/2018/438); [BBl 2014 7991](https://fedlex.data.admin.ch/eli/fga/2014/1715)).
 [^91-6]: Aufgehoben durch Ziff. I des BG vom 16. Dez. 2005, mit Wirkung seit 1. Jan. 2008 ([AS 2006 4745](https://fedlex.data.admin.ch/eli/oc/2006/727), [2007 5573](https://fedlex.data.admin.ch/eli/oc/2007/765); [BBl 2002 6845](https://fedlex.data.admin.ch/eli/fga/2002/1106)).
 
@@ -2241,15 +2322,15 @@ Das SEM oder das Bundesverwaltungsgericht übermittelt den zuständigen Strafver
 
 #### Art. 99
 
-**Abnahme und Auswertung von Fingerabdrücken**
+**Abnahme und Auswertung von Fingerabdrücken und Gesichtsbildern[^99-1]**
 
-<sup>1</sup> Von Asylsuchenden und Schutzbedürftigen werden die Abdrücke aller Finger abgenommen und Fotografien erstellt. Der Bundesrat kann Ausnahmen für Minderjährige unter 14 Jahren vorsehen.[^99-1]
+<sup>1</sup> Von Asylsuchenden und Schutzbedürftigen, die mindestens sechs Jahre alt sind, werden die Abdrücke aller Finger abgenommen und ein Gesichtsbild erstellt.[^99-2]
 
-<sup>2</sup> Die Fingerabdrücke und Fotografien werden ohne zugehörige Personalien in einer vom Bundesamt für Polizei und vom SEM geführten Datenbank gespeichert.[^99-2]
+<sup>2</sup> Die Fingerabdrücke und Gesichtsbilder werden ohne zugehörige Personalien in einer von fedpol und vom SEM geführten Datenbank gespeichert.[^99-3]
 
-<sup>3</sup> Neu abgenommene Fingerabdrücke werden mit den vom Bundesamt für Polizei geführten Fingerabdrucksammlungen verglichen.[^99-3]
+<sup>3</sup> Neu abgenommene Fingerabdrücke und Gesichtsbilder werden mit den von fedpol geführten Datensammlungen abgeglichen.[^99-4]
 
-<sup>4</sup> Stellt das Bundesamt für Polizei Übereinstimmung mit einem schon vorhandenen Fingerabdruck fest, so gibt es diesen Umstand dem SEM sowie den betroffenen kantonalen Polizeibehörden und dem Grenzwachtkorps zusammen mit den Personalien der betroffenen Person (Name, Vorname, Aliasnamen, Geburtsdatum, Geschlecht, Referenznummer, Personennummer, Staatsangehörigkeit, Prozesskontrollnummer und Zuteilungskanton) bekannt. Von polizeilichen Erfassungen werden zudem Datum, Ort und Grund der Fingerabdruckabnahme in Codeform mitgeteilt.[^99-4]
+<sup>4</sup> Stellt fedpol eine Übereinstimmung mit einem schon vorhandenen Fingerabdruck oder Gesichtsbild fest, so gibt es diesen Umstand dem SEM sowie den betroffenen kantonalen Polizeibehörden und dem Grenzwachtkorps zusammen mit den Personalien der betroffenen Person (Name, Vorname, Aliasnamen, Geburtsdatum, Geschlecht, Referenznummer, Personennummer, Staatsangehörigkeit, Prozesskontrollnummer und Zuteilungskanton) bekannt. Von polizeilichen Erfassungen werden zudem Datum, Ort und Grund der Fingerabdruckabnahme und der Gesichtsbilderstellung in Codeform mitgeteilt.[^99-5]
 
 <sup>5</sup>
 
@@ -2261,7 +2342,7 @@ Das SEM verwendet diese Angaben, um:
 - d. zu prüfen, ob Daten vorliegen, welche die Asylwürdigkeit der betroffenen Person in Frage stellen;
 - e. die Amtshilfe an polizeiliche Behörden zu erleichtern.
 
-<sup>6</sup> Personendaten, die nach Absatz 4 bekannt gegeben wurden, dürfen nur mit der Zustimmung des für die Datenbearbeitung Verantwortlichen ins Ausland bekannt gegeben werden. Artikel 16 Absatz 1 DSG[^99-5] gilt sinngemäss.[^99-6]
+<sup>6</sup> Personendaten, die nach Absatz 4 bekannt gegeben wurden, dürfen nur mit der Zustimmung des für die Datenbearbeitung Verantwortlichen ins Ausland bekannt gegeben werden. Artikel 16 Absatz 1 DSG[^99-6] gilt sinngemäss.[^99-7]
 
 <sup>7</sup>
 
@@ -2269,15 +2350,16 @@ Die Daten werden gelöscht:
 
 - a. wenn Asyl gewährt wird;
 - b. spätestens zehn Jahre nach rechtskräftiger Ablehnung, Rückzug oder Abschreibung des Asylgesuchs oder nach einem Nichteintretensentscheid;
-- c.[^99-7] bei Schutzbedürftigen spätestens zehn Jahre nach Aufhebung des vorübergehenden Schutzes.
+- c.[^99-8] bei Schutzbedürftigen spätestens zehn Jahre nach Aufhebung des vorübergehenden Schutzes.
 
-[^99-1]: Fassung gemäss Art. 3 Ziff. 2 des BB vom 17. Dez. 2004 über die Genehmigung und die Umsetzung der bilateralen Abkommen zwischen der Schweiz und der EU über die Assoziierung an Schengen und an Dublin, in Kraft seit 12. Dez. 2008 ([AS 2008 447](https://fedlex.data.admin.ch/eli/oc/2008/112)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)Art. 1 Bst. a; [BBl 2004 5965](https://fedlex.data.admin.ch/eli/fga/2004/1084)).
-[^99-2]: Fassung gemäss Ziff. I des BG vom 16. Dez. 2005, in Kraft seit 1. Jan. 2008 ([AS 2006 4745](https://fedlex.data.admin.ch/eli/oc/2006/727), [2007 5573](https://fedlex.data.admin.ch/eli/oc/2007/765); [BBl 2002 6845](https://fedlex.data.admin.ch/eli/fga/2002/1106)).
-[^99-3]: Fassung gemäss Ziff. I des BG vom 16. Dez. 2005, in Kraft seit 1. Jan. 2008 ([AS 2006 4745](https://fedlex.data.admin.ch/eli/oc/2006/727), [2007 5573](https://fedlex.data.admin.ch/eli/oc/2007/765); [BBl 2002 6845](https://fedlex.data.admin.ch/eli/fga/2002/1106)).
-[^99-4]: Fassung gemäss Ziff. I des BG vom 16. Dez. 2005, in Kraft seit 1. Jan. 2008 ([AS 2006 4745](https://fedlex.data.admin.ch/eli/oc/2006/727), [2007 5573](https://fedlex.data.admin.ch/eli/oc/2007/765); [BBl 2002 6845](https://fedlex.data.admin.ch/eli/fga/2002/1106)).
-[^99-5]: [SR 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
-[^99-6]: Fassung gemäss Anhang 1 Ziff. II 5 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
-[^99-7]: Fassung gemäss Ziff. I des BG vom 16. Dez. 2005, in Kraft seit 1. Jan. 2008 ([AS 2006 4745](https://fedlex.data.admin.ch/eli/oc/2006/727), [2007 5573](https://fedlex.data.admin.ch/eli/oc/2007/765); [BBl 2002 6845](https://fedlex.data.admin.ch/eli/fga/2002/1106)).
+[^99-1]: Fassung gemäss Anhang 1 Ziff. 2 des BB vom 26. Sept. 2025 über die Genehmigung und Umsetzung des Notenaustauschs zwischen de Schweiz und der EU betreffend die Übernahme der Verordnung (EU) 2024/1358 über die Einrichtung von Eurodac für den Abgleich biometrischer Daten, in Kraft seit 12. Juni 2026 ([AS 2026 231](https://fedlex.data.admin.ch/eli/oc/2026/231); [BBl 2025 1478](https://fedlex.data.admin.ch/eli/fga/2025/1478)).
+[^99-2]: Fassung gemäss Anhang 1 Ziff. 2 des BB vom 26. Sept. 2025 über die Genehmigung und Umsetzung des Notenaustauschs zwischen de Schweiz und der EU betreffend die Übernahme der Verordnung (EU) 2024/1358 über die Einrichtung von Eurodac für den Abgleich biometrischer Daten, in Kraft seit 12. Juni 2026 ([AS 2026 231](https://fedlex.data.admin.ch/eli/oc/2026/231); [BBl 2025 1478](https://fedlex.data.admin.ch/eli/fga/2025/1478)).
+[^99-3]: Fassung gemäss Anhang 1 Ziff. 2 des BB vom 26. Sept. 2025 über die Genehmigung und Umsetzung des Notenaustauschs zwischen de Schweiz und der EU betreffend die Übernahme der Verordnung (EU) 2024/1358 über die Einrichtung von Eurodac für den Abgleich biometrischer Daten, in Kraft seit 12. Juni 2026 ([AS 2026 231](https://fedlex.data.admin.ch/eli/oc/2026/231); [BBl 2025 1478](https://fedlex.data.admin.ch/eli/fga/2025/1478)).
+[^99-4]: Fassung gemäss Anhang 1 Ziff. 2 des BB vom 26. Sept. 2025 über die Genehmigung und Umsetzung des Notenaustauschs zwischen de Schweiz und der EU betreffend die Übernahme der Verordnung (EU) 2024/1358 über die Einrichtung von Eurodac für den Abgleich biometrischer Daten, in Kraft seit 12. Juni 2026 ([AS 2026 231](https://fedlex.data.admin.ch/eli/oc/2026/231); [BBl 2025 1478](https://fedlex.data.admin.ch/eli/fga/2025/1478)).
+[^99-5]: Fassung gemäss Anhang 1 Ziff. 2 des BB vom 26. Sept. 2025 über die Genehmigung und Umsetzung des Notenaustauschs zwischen de Schweiz und der EU betreffend die Übernahme der Verordnung (EU) 2024/1358 über die Einrichtung von Eurodac für den Abgleich biometrischer Daten, in Kraft seit 12. Juni 2026 ([AS 2026 231](https://fedlex.data.admin.ch/eli/oc/2026/231); [BBl 2025 1478](https://fedlex.data.admin.ch/eli/fga/2025/1478)).
+[^99-6]: [SR 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
+[^99-7]: Fassung gemäss Anhang 1 Ziff. II 5 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^99-8]: Fassung gemäss Ziff. I des BG vom 16. Dez. 2005, in Kraft seit 1. Jan. 2008 ([AS 2006 4745](https://fedlex.data.admin.ch/eli/oc/2006/727), [2007 5573](https://fedlex.data.admin.ch/eli/oc/2007/765); [BBl 2002 6845](https://fedlex.data.admin.ch/eli/fga/2002/1106)).
 
 ### 1*a*. Abschnitt: Informationssystem der Zentren des Bundes und der Unterkünfte an den Flughäfen
 
@@ -2383,7 +2465,7 @@ Der Bundesrat regelt:
 
 [^101-1]
 
-[^101-1]: Aufgehoben durch Ziff. I des BG vom 14. Dez. 2012, mit Wirkung seit 1. Febr. 2014 ([AS 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778)[5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [BBl 2010 4455](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 7325](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
+[^101-1]: Aufgehoben durch Ziff. I des BG vom 14. Dez. 2012, mit Wirkung seit 1. Febr. 2014 ([AS 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778), [5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [BBl 2010 4455](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 7325](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
 
 #### Art. 102
 
@@ -2417,69 +2499,143 @@ Für die Steuerung der finanziellen Abgeltung an die Kantone übermittelt das Bu
 
 #### Art. 102a<sup>bis</sup>
 
-**Eurodac**
+**Informationssystem Eurodac**[^102abis-1]
 
-<sup>1</sup> Im Rahmen der Anwendung der Dublin-Assoziierungsabkommen[^102abis-1] ist das SEM für den Verkehr mit der Zentraleinheit des Systems Eurodac zuständig.
+<sup>1</sup>
+
+Das Informationssystem Eurodac (Eurodac) enthält nach Massgabe der Verordnung (EU) 2024/1358[^102abis-2] die persönlichen Daten von Drittstaatsangehörigen, die mindestens sechs Jahre alt sind und:
+
+- a. ein Asylgesuch gestellt haben;
+- b. an einem Verfahren zur Aufnahme von Flüchtlingsgruppen beteiligt sind oder im Rahmen eines solchen Verfahrens zugelassen werden;
+- c. aus Seenot gerettet wurden;
+- d. vorübergehend Schutz erhalten haben und einer Gruppe Schutzbedürftiger angehören;
+- e. aus einem Staat, der durch keines der Dublin-Assoziierungsabkommen gebunden ist, illegal in den Schengen-Raum eingereist sind;
+- f. sich illegal im Schengen-Raum aufhalten.
 
 <sup>2</sup>
 
-Es übermittelt folgende Daten innerhalb von 72 Stunden nach Einreichung des Gesuchs an die Zentraleinheit:
+Folgende Kategorien von Daten werden über eine einzige nationale Schnittstelle an Eurodac übermittelt:
 
-- a. den Ort und das Datum der Gesuchstellung in der Schweiz;
-- b. das Geschlecht der gesuchstellenden Person;
-- c. die nach Artikel 99 Absatz 1 abgenommenen Fingerabdrücke;
-- d. das Datum der Abnahme der Fingerabdrücke;
-- e. die schweizerische Kennnummer der Fingerabdrücke;
-- f. das Datum der Übermittlung der Daten an die Zentraleinheit;
-- g. das Benutzerkennwort.[^102abis-2]
+- a. Identitätsdaten über die betreffenden Drittstaatsangehörigen sowie Daten zu den Reisedokumenten und Identitätsdokumenten;
+- b. Fingerabdrücke und Gesichtsbild;
+- c. Daten zu Verfahren und Zuständigkeiten in den Schengen-Staaten und Dublin-Staaten;
+- d. weitere Daten, einschliesslich besonders schützenswerter Personendaten, nach Massgabe der Kapitel II–VIII der Verordnung (EU) 2024/1358 über die Person und ihre Identität.
 
-<sup>2bis</sup> Lassen die Finger der betroffenen Person keine Erfassung der Fingerabdrücke zu, so müssen die Fingerabdrücke innerhalb von 48 Stunden, nachdem eine qualitativ einwandfreie Erfassung wieder möglich ist, an die Zentraleinheit übermittelt werden. Können die Fingerabdrücke wegen des Gesundheitszustands der betroffenen Person oder wegen Massnahmen der öffentlichen Gesundheit nicht abgenommen werden, so müssen diese Fingerabdrücke innerhalb von 48 Stunden nach Wegfallen des Hinderungsgrundes an die Zentraleinheit übermittelt werden.[^102abis-3]
+<sup>3</sup> Die Daten nach Absatz 2 Buchstaben a und b werden automatisiert im gemeinsamen Speicher für Identitätsdaten (CIR) gespeichert.
 
-<sup>2ter</sup> Wird die Datenübermittlung durch schwerwiegende technische Probleme verhindert, so wird eine Nachfrist von 48 Stunden gewährt, um die notwendigen Massnahmen zu treffen, damit das System wieder einwandfrei funktioniert.[^102abis-4]
-
-<sup>2quater</sup>
-
-Das SEM übermittelt zudem die folgenden Daten an die Zentraleinheit:
-
-- a. bei Aufnahme einer Person nach der Verordnung (EU) Nr. 604/2013[^102abis-5]: den Zeitpunkt der Ankunft in der Schweiz;
-- b. bei Wiederaufnahme einer Person nach der Verordnung (EU) Nr. 604/2013: den Zeitpunkt der Ankunft in der Schweiz;
-- c. bei Nachweis, dass eine gesuchstellende Person, für welche die Schweiz nach der Verordnung (EU) Nr. 604/2013 für die Behandlung ihres Gesuchs zuständig ist, für mindestens drei Monate das Gebiet der Staaten, die durch eines der Dublin-Assoziierungsabkommen gebunden sind, verlassen hat: den Zeitpunkt der Ausreise;
-- d. nach erfolgreichem Vollzug der Wegweisung, den Zeitpunkt der Ausschaffung beziehungsweise der Ausreise der gesuchstellenden Person aus dem Gebiet der Staaten, die durch eines der Dublin-Assoziierungsabkommen gebunden sind;
-- e. sofern die Schweiz aufgrund der Souveränitätsklausel der Verordnung (EU) Nr. 604/2013 freiwillig der zuständige Dublin-Staat für die Behandlung eines Asylgesuchs wird: den Zeitpunkt dieser Entscheidung.[^102abis-6]
-
-<sup>3</sup> Die übermittelten Daten werden in der Datenbank Eurodac gespeichert und mit den in dieser Datenbank bereits gespeicherten Daten automatisch verglichen. Das Ergebnis des Vergleichs wird dem SEM mitgeteilt.[^102abis-7]
-
-<sup>4</sup> Die Daten werden zehn Jahre nach Abnahme der Fingerabdrücke von der Zentraleinheit automatisch vernichtet. Erhält eine Person, deren Daten von der Schweiz an die Datenbank Eurodac übermittelt wurden, vor Ablauf dieser Frist die Staatsangehörigkeit eines Staates, der durch eines der Dublin-Assoziierungsabkommen gebunden ist, so ersucht das SEM, sobald es von diesem Umstand Kenntnis erhält, die Zentraleinheit um vorzeitige Vernichtung der Daten.
-
-[^102abis-1]: Diese Abkommen sind in Anhang 1 aufgeführt.
-[^102abis-2]: Fassung gemäss Anhang Ziff. 2 des BB vom 26. Sept. 2014 (Übernahme der V [EU] Nr. 603/2013 über die Errichtung von Eurodac sowie Änd. der V [EU] Nr. 1077/2011 zur Errichtung der IT-Agentur), in Kraft seit 20. Juli 2015 ([AS 2015 2323](https://fedlex.data.admin.ch/eli/oc/2015/432); [BBl 2014 2675](https://fedlex.data.admin.ch/eli/fga/2014/489)).
-[^102abis-3]: Eingefügt durch Anhang Ziff. 2 des BB vom 26. Sept. 2014 (Übernahme der V [EU] Nr. 603/2013 über die Errichtung von Eurodac sowie Änd. der V [EU] Nr. 1077/2011 zur Errichtung der IT-Agentur), in Kraft seit 20. Juli 2015 ([AS 2015 2323](https://fedlex.data.admin.ch/eli/oc/2015/432); [BBl 2014 2675](https://fedlex.data.admin.ch/eli/fga/2014/489)).
-[^102abis-4]: Eingefügt durch Anhang Ziff. 2 des BB vom 26. Sept. 2014 (Übernahme der V [EU] Nr. 603/2013 über die Errichtung von Eurodac sowie Änd. der V [EU] Nr. 1077/2011 zur Errichtung der IT-Agentur), in Kraft seit 20. Juli 2015 ([AS 2015 2323](https://fedlex.data.admin.ch/eli/oc/2015/432); [BBl 2014 2675](https://fedlex.data.admin.ch/eli/fga/2014/489)).
-[^102abis-5]: Verordnung (EU) Nr. 604/2013 des Europäischen Parlaments und des Rates vom 26. Juni 2013 zur Festlegung der Kriterien und Verfahren zur Bestimmung des Mitgliedstaats, der für die Prüfung eines von einem Drittstaatsangehörigen oder Staatenlosen in einem Mitgliedstaat gestellten Antrags auf internationalen Schutz zuständig ist (Neufassung), Fassung gemäss ABl. L 180 vom 29.6.2013, S. 31.
-[^102abis-6]: Eingefügt durch Anhang Ziff. 2 des BB vom 26. Sept. 2014 (Übernahme der V [EU] Nr. 603/2013 über die Errichtung von Eurodac sowie Änd. der V [EU] Nr. 1077/2011 zur Errichtung der IT-Agentur), in Kraft seit 20. Juli 2015 ([AS 2015 2323](https://fedlex.data.admin.ch/eli/oc/2015/432); [BBl 2014 2675](https://fedlex.data.admin.ch/eli/fga/2014/489)).
-[^102abis-7]: Fassung gemäss Anhang Ziff. 2 des BB vom 26. Sept. 2014 (Übernahme der V [EU] Nr. 603/2013 über die Errichtung von Eurodac sowie Änd. der V [EU] Nr. 1077/2011 zur Errichtung der IT-Agentur), in Kraft seit 20. Juli 2015 ([AS 2015 2323](https://fedlex.data.admin.ch/eli/oc/2015/432); [BBl 2014 2675](https://fedlex.data.admin.ch/eli/fga/2014/489)).
+[^102abis-1]: Fassung gemäss Anhang 1 Ziff. 2 des BB vom 26. Sept. 2025 über die Genehmigung und Umsetzung des Notenaustauschs zwischen de Schweiz und der EU betreffend die Übernahme der Verordnung (EU) 2024/1358 über die Einrichtung von Eurodac für den Abgleich biometrischer Daten, in Kraft seit 12. Juni 2026 ([AS 2026 231](https://fedlex.data.admin.ch/eli/oc/2026/231); [BBl 2025 1478](https://fedlex.data.admin.ch/eli/fga/2025/1478)).
+[^102abis-2]: Verordnung (EU) 2024/1358 des Europäischen Parlaments und des Rates über die Einrichtung von Eurodac für den Abgleich biometrischer Daten zur effektiven Anwendung der Verordnungen (EU) 2024/1351 und (EU) 2024/1350 des Europäischen Parlaments und des Rates und der Richtlinie 2001/55/EG sowie zur Feststellung der Identität illegal aufhältiger Drittstaatsangehöriger oder Staatenloser und über der Gefahrenabwehr und Strafverfolgung dienende Anträge der Gefahrenabwehr- und Strafverfolgungsbehörden der Mitgliedstaaten und Europols auf den Abgleich mit Eurodac-Daten, zur Änderung der Verordnungen (EU) 2018/1240 und (EU) 2019/818 des Europäischen Parlaments und des Rates und zur Aufhebung der Verordnung (EU) Nr. 603/2013 des Europäischen Parlaments und des Rates, ABl. L, 2024/1358, 22.5.2024.
 
 #### Art. 102a<sup>ter</sup>
 
-**Überprüfung der Fingerabdrücke in Eurodac**[^102ater-1]
+**Erfassung, Abfrage und Bearbeitung der Daten in Eurodac**[^102ater-1]
 
-<sup>1</sup> Eine Spezialistin oder ein Spezialist nimmt eine Überprüfung der Fingerabdrücke vor, wenn die Eurodac-Abfrage einen Treffer ergeben hat.
+<sup>1</sup> Im Rahmen der Anwendung der Dublin-Assoziierungsabkommen[^102ater-2] ist das SEM die nationale Zugangsstelle. Es ist für die Übermittlung und Bearbeitung der Daten und die Kommunikation mit der Zentraleinheit zuständig.
 
-<sup>2</sup> Das SEM bestimmt, über welche Qualifikationen die Fingerabdruckspezialistin oder der Fingerabdruckspezialist verfügen muss.
+<sup>2</sup>
 
-[^102ater-1]: Eingefügt durch Anhang Ziff. 2 des BB vom 26. Sept. 2014 (Übernahme der V [EU] Nr. 603/2013 über die Errichtung von Eurodac sowie Änd. der V [EU] Nr. 1077/2011 zur Errichtung der IT-Agentur), in Kraft seit 20. Juli 2015 ([AS 2015 2323](https://fedlex.data.admin.ch/eli/oc/2015/432); [BBl 2014 2675](https://fedlex.data.admin.ch/eli/fga/2014/489)).
+Folgende Behörden können Daten in Eurodac nach Massgabe der Verordnung (EU) 2024/1358[^102ater-3] erfassen und abfragen:
+
+- a. das SEM, das Grenzwachtkorps und die Flughafenpolizei: zur Erfüllung ihrer Aufgaben im Asylbereich;
+- b. das SEM und die schweizerischen Vertretungen im Ausland: zur Erfüllung ihrer Aufgaben im Verfahren zur Aufnahme von Flüchtlingsgruppen.
+
+<sup>3</sup> Die Behörden übermitteln die Daten nach Absatz 2 innerhalb von 72 Stunden nach deren Erfassung an die Zentraleinheit.
+
+<sup>4</sup> Lassen die Finger der betroffenen Person keine Erfassung der Fingerabdrücke zu, so müssen die Fingerabdrücke innerhalb von 48 Stunden, nachdem eine qualitativ einwandfreie Erfassung wieder möglich ist, an die Zentraleinheit übermittelt werden. Können wegen des Gesundheitszustands der betroffenen Person oder wegen Massnahmen der öffentlichen Gesundheit die Fingerabdrücke nicht abgenommen und das Gesichtsbild nicht erstellt werden, so müssen diese innerhalb von 48 Stunden nach Wegfallen des Hinderungsgrunds an die Zentraleinheit übermittelt werden.
+
+<sup>5</sup> Die übermittelten Daten nach Absatz 2 werden in Eurodac gespeichert und die biometrischen Daten mit den im Informationssystem bereits gespeicherten Daten automatisch abgeglichen. Nur wenn ein Abgleich anhand der Fingerabdrücke der betroffenen Person nicht möglich ist, wird dieser mittels Gesichtsbild durchgeführt. Das Ergebnis des Abgleichs wird dem SEM mitgeteilt.
+
+<sup>6</sup>
+
+Kein automatischer Datenabgleich findet statt:
+
+- a. wenn eine Person, die internationalen Schutz beantragt hat, nach einer Überstellung im Anschluss an eine Entscheidung, mit der einem Aufnahmegesuch gemäss Artikel 40 der Verordnung (EU) 2024/1351[^102ater-4] stattgegeben wurde, in der Schweiz ankommt;
+- b. wenn die Daten einer Person, die internationalen Schutz beantragt, aktualisiert werden, weil festgestellt wurde, dass die Person das Hoheitsgebiet der Dublin-Staaten verlassen hat;
+- c. bei der Datenerfassung im Verfahren nach Artikel 102*a*<sup>bis</sup> Absatz 1 Buchstabe b betreffend eine Person, die in eine Flüchtlingsgruppe aufgenommen wurde.
+
+<sup>7</sup> Bei der Übermittlung der Daten von Drittstaatsangehörigen, die für die Teilnahme am Programm zur Aufnahme in eine Flüchtlingsgruppe in Frage kommen, erfolgt ein automatischer Abgleich mit den Daten von Personen, denen Schutz gewährt wurde, und den Daten von Personen, die an einem solchen Programm teilgenommen haben oder als Flüchtlinge aufgenommen wurden.
+
+<sup>8</sup> Wird die Datenübermittlung durch schwerwiegende technische Probleme verhindert, so wird eine Nachfrist von 48 Stunden gewährt, um die notwendigen Massnahmen zu treffen, damit das System wieder einwandfrei funktioniert.
+
+<sup>9</sup>
+
+Das SEM übermittelt zudem die folgenden Daten an die Zentraleinheit:
+
+- a. den zuständigen Dublin-Staat, sobald dieser nach der Verordnung (EU) 2024/1351 bestimmt wurde;
+- b. bei Aufnahme oder Wiederaufnahme einer Person nach der Verordnung (EU) 2024/1351: den Zeitpunkt der Ankunft in der Schweiz;
+- c. bei Nachweis, dass eine gesuchstellende Person, für welche die Schweiz nach der Verordnung (EU) 2024/1351 für die Behandlung ihres Gesuchs zuständig ist, für mindestens drei Monate das Gebiet der Dublin-Staaten verlassen hat: den Zeitpunkt der Ausreise;
+- d. nach erfolgreichem Vollzug der Wegweisung, den Zeitpunkt der Ausschaffung beziehungsweise der Ausreise der gesuchstellenden Person aus dem Gebiet der Dublin-Staaten;
+- e. sofern die Schweiz aufgrund der Souveränitätsklausel der Verordnung (EU) 2024/1351 oder im Rahmen eines Verfahrens zur Aufnahme von Flüchtlingsgruppen (Art. 56) freiwillig der zuständige Dublin-Staat für die Behandlung eines Asylgesuchs wird oder einer Person einen Aufenthaltstitel gewährt: ihr Entscheid zur Übernahme der Zuständigkeit;
+- f. sofern die Fristen für eine Dublin-Überstellung nicht eingehalten wurden: der neu zuständige Staat.
+
+<sup>10</sup> Die Daten werden spätestens zehn Jahre nach Abnahme der biometrischen Daten von der Zentraleinheit automatisch vernichtet. Erhält eine Person, deren Daten von der Schweiz an Eurodac übermittelt wurden, vor Ablauf dieser Frist die Staatsangehörigkeit eines Dublin-Staats, so ersucht das SEM, sobald es von diesem Umstand Kenntnis erhält, die Zentraleinheit um vorzeitige Vernichtung der Daten.
+
+[^102ater-1]: Eingefügt durch Anhang Ziff. 2 des BB vom 26. Sept. 2014 (Übernahme der V [EU] Nr. 603/2013 über die Errichtung von Eurodac sowie Änd. der V [EU] Nr. 1077/2011 zur Errichtung der IT-Agentur) ([AS 2015 2323](https://fedlex.data.admin.ch/eli/oc/2015/432); [BBl 2014 2675](https://fedlex.data.admin.ch/eli/fga/2014/489)). Fassung gemäss Anhang 1 Ziff. 2 des BB vom 26. Sept. 2025 über die Genehmigung und Umsetzung des Notenaustauschs zwischen de Schweiz und der EU betreffend die Übernahme der Verordnung (EU) 2024/1358 über die Einrichtung von Eurodac für den Abgleich biometrischer Daten, in Kraft seit 12. Juni 2026 ([AS 2026 231](https://fedlex.data.admin.ch/eli/oc/2026/231); [BBl 2025 1478](https://fedlex.data.admin.ch/eli/fga/2025/1478)).
+[^102ater-2]: Diese Abkommen sind in Anhang 1 aufgeführt.
+[^102ater-3]: Siehe Fussnote zu Art. 102*a*<sup>bis</sup> Abs. 1.
+[^102ater-4]: Siehe Fussnote zu Art. 8*b*.
+
+#### Art. 102a<sup>quater</sup>
+
+**Abgleich in Eurodac zum Zweck der Strafverfolgung**[^102aquater-1]
+
+<sup>1</sup>
+
+Folgende Behörden können zur Verhütung, Aufdeckung oder Ermittlung terroristischer oder sonstiger schwerer Straftaten im Rahmen ihrer gesetzlichen Aufgaben bei der nationalen Prüfstelle nach Absatz 2 einen Abgleich von Fingerabdrücken oder Gesichtsbildern oder die Abfrage mittels alphanumerischer Daten in Eurodac beantragen:
+
+- a. fedpol;
+- b. der NDB;
+- c. die Bundesanwaltschaft;
+- d. die kantonalen Polizei- und Strafverfolgungsbehörden und die Polizeibehörden der Städte Zürich, Winterthur, Lausanne, Chiasso und Lugano.
+
+<sup>2</sup> Die nationale Prüfstelle nach Artikel 8 der Verordnung (EU) 2024/1358[^102aquater-2] ist die Einsatz- und Alarmzentrale fedpol. Sie prüft insbesondere, ob die Voraussetzungen für den Abgleich durch die Behörden in Eurodac nach Artikel 33 der Verordnung (EU) 2024/1358 erfüllt sind.
+
+<sup>3</sup> Sind diese Voraussetzungen erfüllt, so löst die nationale Prüfstelle die Abfrage in Eurodac aus. Der Abgleich der Fingerabdrücke oder der Gesichtsbilder oder die Abfrage mittels alphanumerischer Daten erfolgt automatisiert über die nationale Zugangsstelle.
+
+<sup>4</sup> In dringenden Ausnahmefällen nach Artikel 32 Absatz 4 der Verordnung (EU) 2024/1358 kann die nationale Prüfstelle die Abfrage unverzüglich in Eurodac auslösen und nachträglich überprüfen, ob alle Voraussetzungen erfüllt sind.
+
+<sup>5</sup>
+
+Im Sinne von Absatz 1 gelten die nachstehenden Straftaten als:
+
+- a. terroristische Straftaten: die Tatbestände nach den Artikeln 258–260<sup>sexies</sup> und 275 StGB[^102aquater-3] sowie nach Artikel 74 des Nachrichtendienstgesetzes vom 25. September 2015[^102aquater-4];
+- b. schwere Straftaten: die in Anhang 1 des Schengen-Informationsaustauschgesetzes vom 12. Juni 2009[^102aquater-5] aufgeführten Straftaten.
+
+[^102aquater-1]: Eingefügt durch Anhang 1 Ziff. 2 des BB vom 26. Sept. 2025 über die Genehmigung und Umsetzung des Notenaustauschs zwischen de Schweiz und der EU betreffend die Übernahme der Verordnung (EU) 2024/1358 über die Einrichtung von Eurodac für den Abgleich biometrischer Daten, in Kraft seit 12. Juni 2026 ([AS 2026 231](https://fedlex.data.admin.ch/eli/oc/2026/231); [BBl 2025 1478](https://fedlex.data.admin.ch/eli/fga/2025/1478)).
+[^102aquater-2]: Siehe Fussnote zu Art. 102*a*<sup>bis</sup> Abs. 1.
+[^102aquater-3]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^102aquater-4]: [SR 121](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4758)
+[^102aquater-5]: [SR 362.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6316)
+
+#### Art. 102a<sup>quinquies</sup>
+
+**Überprüfung der Fingerabdrücke und Gesichtsbilder von Eurodac**[^102aquinquies-1]
+
+<sup>1</sup> Eine Expertin oder ein Experte nimmt eine Überprüfung der Fingerabdrücke vor, wenn die automatische Eurodac-Abfrage einen Treffer ergeben hat und dies für die Bestätigung des Treffers erforderlich ist.
+
+<sup>2</sup> Eine Expertin oder ein Experte nimmt eine Überprüfung der Gesichtsbilder vor, wenn die automatische Eurodac-Abfrage nur mit Gesichtsbild erfolgt ist und einen Treffer ergeben hat.
+
+<sup>3</sup> Das SEM bestimmt, über welche Qualifikationen die Expertinnen oder Experten nach den Absätzen 1 und 2 verfügen müssen.
+
+<sup>4</sup> Bestreitet die betroffene Person ein Ergebnis, das nicht durch eine Expertin oder einen Experten überprüft wurde, und liegen begründete Zweifel an der Richtigkeit der Datenerfassung oder an der Übereinstimmung der Daten vor, so ordnet das SEM eine solche Überprüfung an. Die von Eurodac gelieferten Fingerabdrücke und Gesichtsbilder können zu diesem Zweck während höchstens zwei Monaten im AFIS gespeichert werden.
+
+[^102aquinquies-1]: Eingefügt durch Anhang 1 Ziff. 2 des BB vom 26. Sept. 2025 über die Genehmigung und Umsetzung des Notenaustauschs zwischen de Schweiz und der EU betreffend die Übernahme der Verordnung (EU) 2024/1358 über die Einrichtung von Eurodac für den Abgleich biometrischer Daten, in Kraft seit 12. Juni 2026 ([AS 2026 231](https://fedlex.data.admin.ch/eli/oc/2026/231); [BBl 2025 1478](https://fedlex.data.admin.ch/eli/fga/2025/1478)).
 
 #### Art. 102b
 
-**Bekanntgabe von Personendaten an einen Staat, der durch eines der Dublin-Assoziierungsabkommen gebunden ist**
+**Bekanntgabe von Personendaten an einen Dublin-Staat**[^102b-1]
 
-Die Bekanntgabe von Personendaten an die zuständigen Behörden von Staaten, die durch eines der Dublin-Assoziierungsabkommen gebunden sind, wird der Bekanntgabe von Personendaten zwischen Bundesorganen gleichgestellt.
+<sup>1</sup> Die Bekanntgabe von Personendaten an die zuständigen Behörden eines Dublin-Staates wird der Bekanntgabe von Personendaten zwischen Bundesorganen gleichgestellt.
+
+<sup>2</sup> Der Informationsaustausch zwischen dem SEM und den zuständigen Behörden anderer Dublin-Staaten im Rahmen des Dublin-Assoziierungsabkommens erfolgt über das elektronische Kommunikationsnetz der EU zum Dublin-Verfahren.
+
+[^102b-1]: Fassung gemäss Anhang 1 Ziff. 2 des BB vom 26. Sept. 2025 über die Genehmigung und die Umsetzung der Notenaustausche zwischen der Schweiz und der EU betreffend die Übernahme der Verordnung (EU) 2024/1351 über das Asyl- und Migrationsmanagement und der Verordnung (EU) 2024/1359 über die Bewältigung von Krisensituationen und Situationen höherer Gewalt im Bereich Migration und Asyl, in Kraft seit 12. Juni 2026 ([AS 2026 229](https://fedlex.data.admin.ch/eli/oc/2026/229); [BBl 2025 1478](https://fedlex.data.admin.ch/eli/fga/2025/1478)).
 
 #### Art. 102c
 
-**Bekanntgabe von Personendaten an einen Staat, der durch keines der Dublin-Assoziierungsabkommen gebunden ist**
+**Bekanntgabe von Personendaten an einen Nicht-Dublin-Staat[^102c-1]**
 
-<sup>1</sup> An Drittstaaten dürfen Personendaten nur bekannt gegeben werden, wenn sie ein angemessenes Datenschutzniveau nach Artikel 16 Absatz 1 DSG[^102c-1] gewährleisten.[^102c-2]
+<sup>1</sup> An Drittstaaten dürfen Personendaten nur bekannt gegeben werden, wenn sie ein angemessenes Datenschutzniveau nach Artikel 16 Absatz 1 DSG[^102c-2] gewährleisten.[^102c-3]
 
 <sup>2</sup>
 
@@ -2487,24 +2643,38 @@ Gewährleistet ein Drittstaat kein angemessenes Datenschutzniveau, so können ih
 
 - a. Die betroffene Person hat nach Artikel 6 Absatz 6 und gegebenenfalls Absatz 7 DSG eingewilligt.
 - b. Die Bekanntgabe ist notwendig, um das Leben oder die körperliche Unversehrtheit der betroffenen Person zu schützen, und es ist nicht möglich, innerhalb einer angemessenen Frist deren Einwilligung einzuholen.
-- c. Die Bekanntgabe ist notwendig zur Wahrung überwiegender öffentlicher Interessen oder zur Feststellung, Ausübung oder Durchsetzung von Rechtsansprüchen vor Gericht oder einer anderen zuständigen ausländischen Behörde.[^102c-3]
+- c. Die Bekanntgabe ist notwendig zur Wahrung überwiegender öffentlicher Interessen oder zur Feststellung, Ausübung oder Durchsetzung von Rechtsansprüchen vor Gericht oder einer anderen zuständigen ausländischen Behörde.[^102c-4]
 
 <sup>3</sup> Neben den in Absatz 2 genannten Fällen können Personendaten auch bekannt gegeben werden, wenn im Einzelfall hinreichende Garantien einen angemessenen Schutz der betroffenen Person gewährleisten.
 
 <sup>4</sup> Der Bundesrat bestimmt den Umfang der zu erbringenden Garantien und die Modalitäten der Garantieerbringung.
 
-<sup>5</sup>
+<sup>5</sup> Die in Eurodac gespeicherten Personendaten dürfen nicht an Drittstaaten, internationale Organisationen, private Stellen oder natürliche Personen übermittelt werden.[^102c-5]
 
-Die aus der Datenbank Eurodac gewonnenen Daten dürfen unter keinen Umständen übermittelt werden an:
+<sup>6</sup> Das SEM darf jedoch an einen Staat, der durch keines der Dublin-Assoziierungsabkommen gebunden ist, Daten übermitteln, wenn dies zum Nachweis der Identität einer oder eines Drittstaatsangehörigen zum Zweck der Rückkehr notwendig ist und die Bedingungen nach Artikel 50 der Verordnung (EU) 2024/1358[^102c-6] erfüllt sind.[^102c-7]
 
-- a. einen Staat, der durch keines der Dublin-Assoziierungsabkommen gebunden ist;
-- b. internationale Organisationen;
-- c. private Stellen.[^102c-4]
-
-[^102c-1]: [SR 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
-[^102c-2]: Fassung gemäss Anhang 1 Ziff. II 5 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^102c-1]: Fassung gemäss Anhang 1 Ziff. 2 des BB vom 26. Sept. 2025 über die Genehmigung und die Umsetzung der Notenaustausche zwischen der Schweiz und der EU betreffend die Übernahme der Verordnung (EU) 2024/1351 über das Asyl- und Migrationsmanagement und der Verordnung (EU) 2024/1359 über die Bewältigung von Krisensituationen und Situationen höherer Gewalt im Bereich Migration und Asyl, in Kraft seit 12. Juni 2026 ([AS 2026 229](https://fedlex.data.admin.ch/eli/oc/2026/229); [BBl 2025 1478](https://fedlex.data.admin.ch/eli/fga/2025/1478)).
+[^102c-2]: [SR 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 [^102c-3]: Fassung gemäss Anhang 1 Ziff. II 5 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
-[^102c-4]: Eingefügt durch Anhang Ziff. 2 des BB vom 26. Sept. 2014 (Übernahme der V [EU] Nr. 603/2013 über die Errichtung von Eurodac sowie Änd. der V [EU] Nr. 1077/2011 zur Errichtung der IT-Agentur), in Kraft seit 20. Juli 2015 ([AS 2015 2323](https://fedlex.data.admin.ch/eli/oc/2015/432); [BBl 2014 2675](https://fedlex.data.admin.ch/eli/fga/2014/489)).
+[^102c-4]: Fassung gemäss Anhang 1 Ziff. II 5 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^102c-5]: Eingefügt durch Anhang Ziff. 2 des BB vom 26. Sept. 2014 (Übernahme der V [EU] Nr. 603/2013 über die Errichtung von Eurodac sowie Änd. der V [EU] Nr. 1077/2011 zur Errichtung der IT-Agentur) ([AS 2015 2323](https://fedlex.data.admin.ch/eli/oc/2015/432); [BBl 2014 2675](https://fedlex.data.admin.ch/eli/fga/2014/489)). Fassung gemäss Anhang 1 Ziff. 2 des BB vom 26. Sept. 2025 über die Genehmigung und Umsetzung des Notenaustauschs zwischen de Schweiz und der EU betreffend die Übernahme der Verordnung (EU) 2024/1358 über die Einrichtung von Eurodac für den Abgleich biometrischer Daten, in Kraft seit 12. Juni 2026 ([AS 2026 231](https://fedlex.data.admin.ch/eli/oc/2026/231); [BBl 2025 1478](https://fedlex.data.admin.ch/eli/fga/2025/1478)).
+[^102c-6]: Siehe Fussnote zu Art. 102*a*<sup>bis</sup> Abs. 1.
+[^102c-7]: Eingefügt durch Anhang 1 Ziff. 2 des BB vom 26. Sept. 2025 über die Genehmigung und Umsetzung des Notenaustauschs zwischen de Schweiz und der EU betreffend die Übernahme der Verordnung (EU) 2024/1358 über die Einrichtung von Eurodac für den Abgleich biometrischer Daten, in Kraft seit 12. Juni 2026 ([AS 2026 231](https://fedlex.data.admin.ch/eli/oc/2026/231); [BBl 2025 1478](https://fedlex.data.admin.ch/eli/fga/2025/1478)).
+
+#### Art. 102c<sup>bis</sup>
+
+**Ausführungsbestimmungen zu Eurodac**[^102cbis-1]
+
+Der Bundesrat regelt:
+
+- a. für welche Einheiten der Bundesbehörden nach Artikel 102*a*<sup>ter</sup> Absatz 2 die dort genannten Befugnisse gelten;
+- b. das Verfahren für den Erhalt von Daten von Eurodac durch die Behörden nach Artikel 102*a*<sup>quater</sup> Absatz 1;
+- c. die Daten von Eurodac, auf welche die Behörden Zugriff haben;
+- d. die Speicherung der Daten und das Verfahren für deren Löschung;
+- e. die Modalitäten in Bezug auf die Datensicherheit;
+- f. die Zusammenarbeit mit den Kantonen.
+
+[^102cbis-1]: Eingefügt durch Anhang 1 Ziff. 2 des BB vom 26. Sept. 2025 über die Genehmigung und Umsetzung des Notenaustauschs zwischen de Schweiz und der EU betreffend die Übernahme der Verordnung (EU) 2024/1358 über die Einrichtung von Eurodac für den Abgleich biometrischer Daten, in Kraft seit 12. Juni 2026 ([AS 2026 231](https://fedlex.data.admin.ch/eli/oc/2026/231); [BBl 2025 1478](https://fedlex.data.admin.ch/eli/fga/2025/1478)).
 
 #### Art. 102d
 
@@ -2571,18 +2741,26 @@ Das Auskunftsrecht richtet sich nach den Datenschutzbestimmungen des Bundes oder
 
 <sup>1</sup> Während des Aufenthalts im Zentrum des Bundes haben Asylsuchende Zugang zur Beratung über das Asylverfahren.
 
-<sup>2</sup> Die Beratung beinhaltet namentlich die Information der Asylsuchenden über Rechte und Pflichten im Asylverfahren.
+<sup>2</sup>
 
-<sup>3</sup> Die Beratung beinhaltet auch die Information zum Beschwerdeverfahren nach Artikel 111 der Verordnung (EU) 2019/1896[^102g-1].[^102g-2]
+Die Beratung beinhaltet namentlich:
 
-[^102g-1]: Verordnung (EU) 2019/1896 des Europäischen Parlaments und des Rates vom 13. November 2019 über die Europäische Grenz- und Küstenwache und zur Aufhebung der Verordnungen (EU) Nr. 1052/2013 und (EU) 2016/1624, Fassung gemäss ABl. L 295 vom 14.11.2019, S. 1.
-[^102g-2]: Eingefügt durch Ziff. I des BG vom 1. Okt. 2021, in Kraft seit 1. Sept. 2022 ([AS 2022 459](https://fedlex.data.admin.ch/eli/oc/2022/459); [BBl 2022 7105](https://fedlex.data.admin.ch/eli/fga/2022/7105)).
+- a. die Information der Asylsuchenden über Rechte und Pflichten im Asylverfahren;
+- b. die Information zum Beschwerdeverfahren nach Artikel 111 der Verordnung (EU) 2019/1896[^102g-1];
+- c. die Information zum Dublin-Verfahren nach Artikel 19 der Verordnung (EU) 2024/1351[^102g-2].[^102g-3]
+
+<sup>3</sup> …[^102g-4]
+
+[^102g-1]: Verordnung (EU) 2019/1896 des Europäischen Parlaments und des Rates vom 13. November 2019 über die Europäische Grenz- und Küstenwache und zur Aufhebung der Verordnungen (EU) Nr. 1052/2013 und (EU) 2016/1624, Fassung gemäss ABl. L 295 vom 14.11.2019, S. 1; geändert durch Verordnung (EU) 2021/1134, ABl. L 248 vom 13.7.2021, S. 11.
+[^102g-2]: Siehe Fussnote zu Art. 8*b*.
+[^102g-3]: Fassung gemäss Anhang 1 Ziff. 2 des BB vom 26. Sept. 2025 über die Genehmigung und die Umsetzung der Notenaustausche zwischen der Schweiz und der EU betreffend die Übernahme der Verordnung (EU) 2024/1351 über das Asyl- und Migrationsmanagement und der Verordnung (EU) 2024/1359 über die Bewältigung von Krisensituationen und Situationen höherer Gewalt im Bereich Migration und Asyl, in Kraft seit 12. Juni 2026 ([AS 2026 229](https://fedlex.data.admin.ch/eli/oc/2026/229); [BBl 2025 1478](https://fedlex.data.admin.ch/eli/fga/2025/1478)).
+[^102g-4]: Eingefügt durch Ziff. I des BG vom 1. Okt. 2021 ([AS 2022 459](https://fedlex.data.admin.ch/eli/oc/2022/459); [BBl 2022 7105](https://fedlex.data.admin.ch/eli/fga/2022/7105)). Aufgehoben durch Anhang 1 Ziff. 2 des BB vom 26. Sept. 2025 über die Genehmigung und die Umsetzung der Notenaustausche zwischen der Schweiz und der EU betreffend die Übernahme der Verordnung (EU) 2024/1351 über das Asyl- und Migrationsmanagement und der Verordnung (EU) 2024/1359 über die Bewältigung von Krisensituationen und Situationen höherer Gewalt im Bereich Migration und Asyl, mit Wirkung seit 12. Juni 2026 ([AS 2026 229](https://fedlex.data.admin.ch/eli/oc/2026/229); [BBl 2025 1478](https://fedlex.data.admin.ch/eli/fga/2025/1478)).
 
 #### Art. 102h
 
 **Rechtsvertretung**
 
-<sup>1</sup> Jeder asylsuchenden Person wird ab Beginn der Vorbereitungsphase und für das weitere Asylverfahren eine Rechtsvertretung zugeteilt, sofern die asylsuchende Person nicht ausdrücklich darauf verzichtet.
+<sup>1</sup> Jeder asylsuchenden Person wird nach Abschluss der Überprüfung nach der Verordnung (EU) 2024/1356[^102h-1] in der Vorbereitungsphase und für das weitere Asylverfahren eine Rechtsvertretung zugeteilt, sofern die asylsuchende Person nicht ausdrücklich darauf verzichtet. Bei unbegleiteten minderjährigen Asylsuchenden erfolgt die Zuteilung bereits ab Beginn der Vorbereitungsphase.[^102h-2]
 
 <sup>2</sup> Die zugewiesene Rechtsvertretung informiert die asylsuchende Person so rasch als möglich über ihre Chancen im Asylverfahren.
 
@@ -2591,6 +2769,9 @@ Das Auskunftsrecht richtet sich nach den Datenschutzbestimmungen des Bundes oder
 <sup>4</sup> Die Rechtsvertretung endet mit der Mitteilung der zugewiesenen Rechtsvertreterin oder des zugewiesenen Rechtsvertreters an die asylsuchende Person, sie oder er sei wegen Aussichtslosigkeit nicht gewillt, eine Beschwerde einzureichen. Diese Mitteilung erfolgt so rasch als möglich nach Eröffnung des ablehnenden Asylentscheides.
 
 <sup>5</sup> Die Aufgaben der Rechtsvertretung richten sich nach Artikel 102*k*.
+
+[^102h-1]: Siehe Fussnote zu Art. 21*a* Abs. 1.
+[^102h-2]: Fassung gemäss Anhang 1 Ziff. 2 des BB vom 26. Sept. 2025 über die Genehmigung und die Umsetzung des Notenaustauschs zwischen der Schweiz und der EU betreffend die Übernahme der Verordnung (EU) 2024/1356 zur Einführung der Überprüfung von Drittstaatsangehörigen an den Aussengrenzen und zur Änderung der Verordnungen (EG) Nr. 767/2008, (EU) 2017/2226, (EU) 2018/1240 und (EU) 2019/817, in Kraft seit 12. Juni 2026 ([AS 2026 230](https://fedlex.data.admin.ch/eli/oc/2026/230); [BBl 2025 1478](https://fedlex.data.admin.ch/eli/fga/2025/1478)).
 
 #### Art. 102i
 
@@ -2610,11 +2791,14 @@ Das Auskunftsrecht richtet sich nach den Datenschutzbestimmungen des Bundes oder
 
 **Teilnahme der Rechtsvertretung**
 
-<sup>1</sup> Das SEM teilt dem Leistungserbringer die Termine für die Erstbefragung in der Vorbereitungsphase, für die Anhörung zu den Asylgründen sowie für weitere Verfahrensschritte mit, bei denen eine Mitwirkung der Rechtsvertretung notwendig ist. Der Leistungserbringer teilt der Rechtsvertretung die entsprechenden Termine unverzüglich mit.
+<sup>1</sup> Das SEM teilt dem Leistungserbringer die Termine für die Erstbefragung und für die Befragung gemäss Artikel 22 der Verordnung (EU) 2024/1351[^102j-1] in der Vorbereitungsphase, für die Anhörung zu den Asylgründen sowie für weitere Verfahrensschritte mit, bei denen eine Mitwirkung der Rechtsvertretung notwendig ist. Der Leistungserbringer teilt der Rechtsvertretung die entsprechenden Termine unverzüglich mit.[^102j-2]
 
 <sup>2</sup> Bei rechtzeitiger Mitteilung der Termine entfalten die Handlungen des SEM ihre Rechtswirkungen auch ohne die Anwesenheit oder Mitwirkung der Rechtsvertretung. Vorbehalten bleiben kurzfristige Verhinderungen aus entschuldbaren, schwerwiegenden Gründen.
 
 <sup>3</sup> Reicht eine Rechtsvertretung keine oder nicht fristgerecht eine Stellungnahme zum Entwurf eines ablehnenden Asylentscheides ein, obwohl dieser ihr vom Leistungserbringer rechtzeitig zugestellt wurde, so gilt dies als Verzicht auf eine Stellungnahme.
+
+[^102j-1]: Siehe Fussnote zu Art. 8*b*.
+[^102j-2]: Fassung gemäss Anhang 1 Ziff. 2 des BB vom 26. Sept. 2025 über die Genehmigung und die Umsetzung der Notenaustausche zwischen der Schweiz und der EU betreffend die Übernahme der Verordnung (EU) 2024/1351 über das Asyl- und Migrationsmanagement und der Verordnung (EU) 2024/1359 über die Bewältigung von Krisensituationen und Situationen höherer Gewalt im Bereich Migration und Asyl, in Kraft seit 12. Juni 2026 ([AS 2026 229](https://fedlex.data.admin.ch/eli/oc/2026/229); [BBl 2025 1478](https://fedlex.data.admin.ch/eli/fga/2025/1478)).
 
 #### Art. 102k
 
@@ -2625,17 +2809,19 @@ Das Auskunftsrecht richtet sich nach den Datenschutzbestimmungen des Bundes oder
 Der Bund richtet dem Leistungserbringer durch Vereinbarung und auf Grundlage von kostengünstigen Lösungen eine Entschädigung für die Erfüllung namentlich folgender Aufgaben aus:
 
 - a. Information und Beratung der Asylsuchenden;
-- b. Teilnahme der Rechtsvertretung an der Erstbefragung in der Vorbereitungsphase und an der Anhörung zu den Asylgründen;
+- b.[^102k-1] Teilnahme der Rechtsvertretung an der Erstbefragung und an der Befragung gemäss Artikel 22 der Verordnung (EU) 2024/1351[^102k-2] in der Vorbereitungsphase und an der Anhörung zu den Asylgründen;
 - c. Stellungnahme zum Entwurf eines ablehnenden Asylentscheides im beschleunigten Verfahren;
 - d. Wahrnehmung der Rechtsvertretung im Beschwerdeverfahren, insbesondere das Verfassen einer Beschwerdeschrift;
 - e. die Wahrnehmung der Interessen von unbegleiteten minderjährigen Asylsuchenden als Vertrauensperson in den Zentren des Bundes und am Flughafen;
 - f. bei einem Wechsel in das erweiterte Verfahren die Information der Rechtsberatungsstelle durch die zugewiesene Rechtsvertretung über den bisherigen Verfahrensstand oder die Weiterführung der zugewiesenen Rechtsvertretung bei entscheidrelevanten Verfahrensschritten nach Artikel 102*l*;
-- g.[^102k-1] Beratung und Unterstützung bei der Einreichung einer Beschwerde nach Artikel 111 der Verordnung (EU) 2019/1896[^102k-2].
+- g.[^102k-3] Beratung und Unterstützung bei der Einreichung einer Beschwerde nach Artikel 111 der Verordnung (EU) 2019/1896[^102k-4].
 
 <sup>2</sup> In der Entschädigung enthalten sind ein Beitrag an die Verwaltungs- und Personalkosten des Leistungserbringers, insbesondere für die Organisation der Beratung und der Rechtsvertretung sowie ein Beitrag an eine unabhängige Übersetzung. Die Abgeltung wird pauschal festgesetzt. Ausnahmsweise können die Beiträge nach Aufwand festgesetzt werden, insbesondere zur Abgeltung einmalig anfallender Kosten.
 
-[^102k-1]: Eingefügt durch Ziff. I des BG vom 1. Okt. 2021, in Kraft seit 1. Sept. 2022 ([AS 2022 459](https://fedlex.data.admin.ch/eli/oc/2022/459); [BBl 2022 7105](https://fedlex.data.admin.ch/eli/fga/2022/7105)).
-[^102k-2]: Siehe Fussnote zu Art. 102*g* Abs. 3
+[^102k-1]: Fassung gemäss Anhang 1 Ziff. 2 des BB vom 26. Sept. 2025 über die Genehmigung und die Umsetzung der Notenaustausche zwischen der Schweiz und der EU betreffend die Übernahme der Verordnung (EU) 2024/1351 über das Asyl- und Migrationsmanagement und der Verordnung (EU) 2024/1359 über die Bewältigung von Krisensituationen und Situationen höherer Gewalt im Bereich Migration und Asyl, in Kraft seit 12. Juni 2026 ([AS 2026 229](https://fedlex.data.admin.ch/eli/oc/2026/229); [BBl 2025 1478](https://fedlex.data.admin.ch/eli/fga/2025/1478)).
+[^102k-2]: Siehe Fussnote zu Art. 8*b*.
+[^102k-3]: Eingefügt durch Ziff. I des BG vom 1. Okt. 2021 ([AS 2022 459](https://fedlex.data.admin.ch/eli/oc/2022/459); [BBl 2022 7105](https://fedlex.data.admin.ch/eli/fga/2022/7105)). Fassung gemäss Anhang 1 Ziff. 2 des BB vom 26. Sept. 2025 über die Genehmigung und die Umsetzung der Notenaustausche zwischen der Schweiz und der EU betreffend die Übernahme der Verordnung (EU) 2024/1351 über das Asyl- und Migrationsmanagement und der Verordnung (EU) 2024/1359 über die Bewältigung von Krisensituationen und Situationen höherer Gewalt im Bereich Migration und Asyl, in Kraft seit 12. Juni 2026 ([AS 2026 229](https://fedlex.data.admin.ch/eli/oc/2026/229); [BBl 2025 1478](https://fedlex.data.admin.ch/eli/fga/2025/1478)).
+[^102k-4]: Siehe Fussnote zu Art. 102*g* Abs. 2 Bst. b.
 
 ### 1*a*. Abschnitt: Beratung und Rechtsvertretung im erweiterten Verfahren nach Zuweisung auf die Kantone
 
@@ -2723,10 +2909,11 @@ Mit der Beschwerde kann gerügt werden:
 - b. unrichtige und unvollständige Feststellung des rechtserheblichen Sachverhalts;
 - c.[^106-2] …
 
-<sup>2</sup> Artikel 27 Absatz 3 und Artikel 68 Absatz 2 bleiben vorbehalten.
+<sup>2</sup> Die Artikel 27 Absatz 3, 68 Absatz 2 und 107*a* Absatz 5 bleiben vorbehalten.[^106-3]
 
 [^106-1]: Fassung gemäss Ziff. I 2 der V der BVers vom 20. Dez. 2006 über die Anpassung von Erlassen an die Bestimmungen des Bundesgerichtsgesetzes und des Verwaltungsgerichtsgesetzes, in Kraft seit 1. Jan. 2007 ([AS 2006 5599](https://fedlex.data.admin.ch/eli/oc/2006/826); [BBl 2006 7759](https://fedlex.data.admin.ch/eli/fga/2006/974)).
-[^106-2]: Aufgehoben durch Ziff. I des BG vom 14. Dez. 2012, mit Wirkung seit 1. Febr. 2014 ([AS 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778)[5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [BBl 2010 4455](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 7325](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
+[^106-2]: Aufgehoben durch Ziff. I des BG vom 14. Dez. 2012, mit Wirkung seit 1. Febr. 2014 ([AS 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778), [5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [BBl 2010 4455](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 7325](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
+[^106-3]: Fassung gemäss Anhang 1 Ziff. 2 des BB vom 26. Sept. 2025 über die Genehmigung und die Umsetzung der Notenaustausche zwischen der Schweiz und der EU betreffend die Übernahme der Verordnung (EU) 2024/1351 über das Asyl- und Migrationsmanagement und der Verordnung (EU) 2024/1359 über die Bewältigung von Krisensituationen und Situationen höherer Gewalt im Bereich Migration und Asyl, in Kraft seit 12. Juni 2026 ([AS 2026 229](https://fedlex.data.admin.ch/eli/oc/2026/229); [BBl 2025 1478](https://fedlex.data.admin.ch/eli/fga/2025/1478)).
 
 #### Art. 107
 
@@ -2753,11 +2940,20 @@ Selbständig anfechtbar sind ausserdem, sofern sie einen nicht wieder gutzumache
 
 <sup>1</sup> Die Beschwerde gegen einen Nichteintretensentscheid bei einem Gesuch von einer asylsuchenden Person, die in einen Staat ausreisen kann, der aufgrund eines Staatsvertrags für die Durchführung des Asyl- und Wegweisungsverfahrens zuständig ist, hat keine aufschiebende Wirkung.
 
-<sup>2</sup> Die asylsuchende Person kann innerhalb der Beschwerdefrist die Gewährung der aufschiebenden Wirkung beantragen.
+<sup>2</sup> Die asylsuchende Person kann innerhalb der Beschwerdefrist die Gewährung der aufschiebenden Wirkung beantragen. Das Bundesverwaltungsgericht entscheidet innerhalb von fünf Arbeitstagen nach Eingang des Antrags darüber.[^107a-2]
 
-<sup>3</sup> Das Bundesverwaltungsgericht entscheidet innerhalb von fünf Tagen nach Eingang des Antrags nach Absatz 2 darüber. Wird die aufschiebende Wirkung innerhalb von fünf Tagen nicht gewährt, kann die Wegweisung vollzogen werden.
+<sup>3</sup> Wird die aufschiebende Wirkung innerhalb dieser Frist nicht gewährt, kann die Wegweisung vollzogen werden.[^107a-3]
+
+<sup>4</sup> Das Bundesverwaltungsgericht entscheidet über Beschwerden nach Absatz 1 innerhalb von 20 Tagen. Über offensichtlich begründete oder unbegründete Beschwerden entscheidet es innerhalb von fünf Arbeitstagen nach dem Eingang der Beschwerde oder nach dem Entscheid über die Erteilung der aufschiebenden Wirkung, wenn eine solche beantragt wurde.[^107a-4]
+
+<sup>5</sup> Die Beschwerdegründe richten sich nach Artikel 43 Absatz 1 der Verordnung (EU) 2024/1351[^107a-5].[^107a-6]
 
 [^107a-1]: Eingefügt durch Art. 3 Ziff. 2 des BB vom 17. Dez. 2004 über die Genehmigung und die Umsetzung der bilateralen Abkommen zwischen der Schweiz und der EU über die Assoziierung an Schengen und an Dublin ([AS 2008 447](https://fedlex.data.admin.ch/eli/oc/2008/112); [BBl 2004 5965](https://fedlex.data.admin.ch/eli/fga/2004/1084)). Fassung gemäss Anhang Ziff. I 2 des BB vom 26. Sept. 2014 (Übernahme der V[EU] Nr. 604/2013 zur Festlegung der Kriterien und Verfahren zur Bestimmung des Mitgliedstaats, der für die Prüfung eines Antrags auf internationalen Schutz zuständig ist), in Kraft seit 1. Juli 2015 ([AS 2015 1841](https://fedlex.data.admin.ch/eli/oc/2015/357); [BBl 2014 2675](https://fedlex.data.admin.ch/eli/fga/2014/489)).
+[^107a-2]: Fassung gemäss Anhang 1 Ziff. 2 des BB vom 26. Sept. 2025 über die Genehmigung und die Umsetzung der Notenaustausche zwischen der Schweiz und der EU betreffend die Übernahme der Verordnung (EU) 2024/1351 über das Asyl- und Migrationsmanagement und der Verordnung (EU) 2024/1359 über die Bewältigung von Krisensituationen und Situationen höherer Gewalt im Bereich Migration und Asyl, in Kraft seit 12. Juni 2026 ([AS 2026 229](https://fedlex.data.admin.ch/eli/oc/2026/229); [BBl 2025 1478](https://fedlex.data.admin.ch/eli/fga/2025/1478)).
+[^107a-3]: Fassung gemäss Anhang 1 Ziff. 2 des BB vom 26. Sept. 2025 über die Genehmigung und die Umsetzung der Notenaustausche zwischen der Schweiz und der EU betreffend die Übernahme der Verordnung (EU) 2024/1351 über das Asyl- und Migrationsmanagement und der Verordnung (EU) 2024/1359 über die Bewältigung von Krisensituationen und Situationen höherer Gewalt im Bereich Migration und Asyl, in Kraft seit 12. Juni 2026 ([AS 2026 229](https://fedlex.data.admin.ch/eli/oc/2026/229); [BBl 2025 1478](https://fedlex.data.admin.ch/eli/fga/2025/1478)).
+[^107a-4]: Eingefügt durch Anhang 1 Ziff. 2 des BB vom 26. Sept. 2025 über die Genehmigung und die Umsetzung der Notenaustausche zwischen der Schweiz und der EU betreffend die Übernahme der Verordnung (EU) 2024/1351 über das Asyl- und Migrationsmanagement und der Verordnung (EU) 2024/1359 über die Bewältigung von Krisensituationen und Situationen höherer Gewalt im Bereich Migration und Asyl, in Kraft seit 12. Juni 2026 ([AS 2026 229](https://fedlex.data.admin.ch/eli/oc/2026/229); [BBl 2025 1478](https://fedlex.data.admin.ch/eli/fga/2025/1478)).
+[^107a-5]: Siehe Fussnote zu Art. 8*b*.
+[^107a-6]: Eingefügt durch Anhang 1 Ziff. 2 des BB vom 26. Sept. 2025 über die Genehmigung und die Umsetzung der Notenaustausche zwischen der Schweiz und der EU betreffend die Übernahme der Verordnung (EU) 2024/1351 über das Asyl- und Migrationsmanagement und der Verordnung (EU) 2024/1359 über die Bewältigung von Krisensituationen und Situationen höherer Gewalt im Bereich Migration und Asyl, in Kraft seit 12. Juni 2026 ([AS 2026 229](https://fedlex.data.admin.ch/eli/oc/2026/229); [BBl 2025 1478](https://fedlex.data.admin.ch/eli/fga/2025/1478)).
 
 #### Art. 108
 
@@ -2769,16 +2965,17 @@ Selbständig anfechtbar sind ausserdem, sofern sie einen nicht wieder gutzumache
 
 <sup>3</sup> Die Beschwerde gegen Nichteintretensentscheide sowie gegen Entscheide nach Artikel 23 Absatz 1 und Artikel 40 in Verbindung mit Artikel 6*a* Absatz 2 Buchstabe a ist innerhalb von fünf Arbeitstagen seit Eröffnung der Verfügung einzureichen.
 
-<sup>4</sup> Die Verweigerung der Einreise nach Artikel 22 Absatz 2 kann bis zum Zeitpunkt der Eröffnung einer Verfügung nach Artikel 23 Absatz 1 angefochten werden.
+<sup>4</sup> Die Verweigerung der Einreise nach Artikel 21*a* Absatz 6 kann bis zum Zeitpunkt der Eröffnung einer Verfügung nach Artikel 23 Absatz 1 angefochten werden.[^108-2]
 
 <sup>5</sup> Die Überprüfung der Rechtmässigkeit und der Angemessenheit der Zuweisung eines Aufenthaltsortes am Flughafen oder an einem anderen geeigneten Ort nach Artikel 22 Absätze 3 und 4 kann jederzeit mittels Beschwerde beantragt werden.
 
 <sup>6</sup> In den übrigen Fällen beträgt die Beschwerdefrist 30 Tage seit Eröffnung der Verfügung.
 
-<sup>7</sup> Per Telefax übermittelte Rechtsschriften gelten als rechtsgültig eingereicht, wenn sie innert Frist beim Bundesverwaltungsgericht eintreffen und mittels Nachreichung des unterschriebenen Originals nach den Regeln gemäss Artikel 52 Absätze 2 und 3 VwVG[^108-2] verbessert werden.
+<sup>7</sup> Per Telefax übermittelte Rechtsschriften gelten als rechtsgültig eingereicht, wenn sie innert Frist beim Bundesverwaltungsgericht eintreffen und mittels Nachreichung des unterschriebenen Originals nach den Regeln gemäss Artikel 52 Absätze 2 und 3 VwVG[^108-3] verbessert werden.
 
 [^108-1]: Fassung gemäss Ziff. I des BG vom 25. Sept. 2015, in Kraft seit 1. März 2019 ([AS 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521), [2018 2855](https://fedlex.data.admin.ch/eli/oc/2018/438); [BBl 2014 7991](https://fedlex.data.admin.ch/eli/fga/2014/1715)).
-[^108-2]: [SR 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
+[^108-2]: Fassung gemäss Anhang 1 Ziff. 2 des BB vom 26. Sept. 2025 über die Genehmigung und die Umsetzung des Notenaustauschs zwischen der Schweiz und der EU betreffend die Übernahme der Verordnung (EU) 2024/1356 zur Einführung der Überprüfung von Drittstaatsangehörigen an den Aussengrenzen und zur Änderung der Verordnungen (EG) Nr. 767/2008, (EU) 2017/2226, (EU) 2018/1240 und (EU) 2019/817, in Kraft seit 12. Juni 2026 ([AS 2026 230](https://fedlex.data.admin.ch/eli/oc/2026/230); [BBl 2025 1478](https://fedlex.data.admin.ch/eli/fga/2025/1478)).
+[^108-3]: [SR 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 #### Art. 108a
 
@@ -2819,7 +3016,7 @@ Liegt gegen die asylsuchende Person ein Auslieferungsersuchen im Sinne des Recht
 
 Zwischen dem EJPD und dem Bundesverwaltungsgericht findet ein regelmässiger Informationsaustausch über die Priorisierung und die administrativen Abläufe von erst- und zweitinstanzlichen Verfahren statt.
 
-[^109a-1]: Eingefügt durch Ziff. I des BG vom 14. Dez. 2012, in Kraft seit 1. Febr. 2014 ([AS 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778)[5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [BBl 2010 4455](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 7325](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
+[^109a-1]: Eingefügt durch Ziff. I des BG vom 14. Dez. 2012, in Kraft seit 1. Febr. 2014 ([AS 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778), [5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [BBl 2010 4455](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 7325](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
 
 #### Art. 109b
 
@@ -2830,7 +3027,7 @@ Das Bundesverwaltungsgericht legt eine Behandlungsstrategie fest; es berücksich
 - a. die Behandlungsstrategie des SEM nach Artikel 37*b*;
 - b. die gesetzlichen Rechtsmittel- und Behandlungsfristen.
 
-[^109b-1]: Eingefügt durch Ziff. I des BG vom 14. Dez. 2012, in Kraft seit 1. Febr. 2014 ([AS 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778)[5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [BBl 2010 4455](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 7325](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
+[^109b-1]: Eingefügt durch Ziff. I des BG vom 14. Dez. 2012, in Kraft seit 1. Febr. 2014 ([AS 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778), [5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [BBl 2010 4455](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 7325](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
 
 #### Art. 110
 
@@ -2901,11 +3098,43 @@ Im Beschwerdeverfahren gegen Asylentscheide nach Artikel 31*a*, die im beschleun
 
 [^111ater-1]: Eingefügt durch Ziff. I des BG vom 25. Sept. 2015, in Kraft seit 1. März 2019 ([AS 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521), [2018 2855](https://fedlex.data.admin.ch/eli/oc/2018/438); [BBl 2014 7991](https://fedlex.data.admin.ch/eli/fga/2014/1715)).
 
+### 2*a*. Abschnitt: Unabhängiger Überwachungsmechanismus im Rahmen der Überprüfung
+
+[^chap8-sec2a-1]
+
+[^chap8-sec2a-1]: Eingefügt durch Anhang 1 Ziff. 2 des BB vom 26. Sept. 2025 über die Genehmigung und die Umsetzung des Notenaustauschs zwischen der Schweiz und der EU betreffend die Übernahme der Verordnung (EU) 2024/1356 zur Einführung der Überprüfung von Drittstaatsangehörigen an den Aussengrenzen und zur Änderung der Verordnungen (EG) Nr. 767/2008, (EU) 2017/2226, (EU) 2018/1240 und (EU) 2019/817, in Kraft seit 12. Juni 2026 ([AS 2026 230](https://fedlex.data.admin.ch/eli/oc/2026/230); [BBl 2025 1478](https://fedlex.data.admin.ch/eli/fga/2025/1478)).
+
+#### Art. 111a<sup>quater</sup>
+
+<sup>1</sup>
+
+Die für den unabhängigen Überwachungsmechanismus zuständigen Stellen nehmen die Aufgaben wahr, die ihnen nach Artikel 10 Absatz 2 der Verordnung (EU) 2024/1356[^111aquater-1] übertragen werden. Diese Aufgaben umfassen insbesondere:
+
+- a. die Überwachung der Einhaltung des Völkerrechts, insbesondere hinsichtlich der Gewährleistung des Zugangs zum Asylverfahren, der Einhaltung des Non‑Refoulement-Gebots und der Garantie des Kindeswohls;
+- b. die Kontrolle der Anwendung der kurzfristigen Festhaltung nach Artikel 73 AIG[^111aquater-2] im Rahmen des Überprüfungsverfahrens;
+- c. die Untersuchung von geltend gemachten Grundrechtsverstössen im Rahmen des Überprüfungsverfahrens;
+- d. die Abgabe von Empfehlungen zuhanden der zuständigen Behörden.
+
+<sup>2</sup>
+
+Soweit dies für die Erfüllung ihrer Aufgaben erforderlich ist, haben die für den unabhängigen Überwachungsmechanismus zuständigen Stellen folgende Befugnisse:
+
+- a. Zugang zu allen relevanten Orten, einschliesslich kantonaler Unterbringungszentren, Haftanstalten und Zentren des Bundes;
+- b. Einsichtnahme in alle Dokumente und Dossiers;
+- c. Durchführung von Befragungen von Personen;
+- d. Durchführung von Kontrollen vor Ort, von Stichproben sowie von unangekündigten Kontrollen;
+- e. Zugang zu klassifizierten Informationen, unter der Voraussetzung, dass die beteiligten Personen eine Sicherheitsüberprüfung durchlaufen haben.
+
+<sup>3</sup> Der Bundesrat kann Dritte mit den Aufgaben nach Absatz 1 im Rahmen des unabhängigen Überwachungsmechanismus betrauen.
+
+[^111aquater-1]: Siehe Fussnote zu Art. 21*a* Abs. 1.
+[^111aquater-2]: [SR 142.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4851)
+
 ### 3. Abschnitt: Wiedererwägung und Mehrfachgesuche
 
 [^chap8-sec3-1]
 
-[^chap8-sec3-1]: Eingefügt durch Ziff. I des BG vom 14. Dez. 2012, in Kraft seit 1. Febr. 2014 ([AS 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778)[5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [BBl 2010 4455](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 7325](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
+[^chap8-sec3-1]: Eingefügt durch Ziff. I des BG vom 14. Dez. 2012, in Kraft seit 1. Febr. 2014 ([AS 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778), [5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [BBl 2010 4455](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 7325](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
 
 #### Art. 111b
 
@@ -2919,7 +3148,7 @@ Im Beschwerdeverfahren gegen Asylentscheide nach Artikel 31*a*, die im beschleun
 
 <sup>4</sup> Unbegründete oder wiederholt gleich begründete Wiedererwägungsgesuche werden formlos abgeschrieben.
 
-[^111b-1]: Eingefügt durch Ziff. I des BG vom 14. Dez. 2012, in Kraft seit 1. Febr. 2014 ([AS 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778)[5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [BBl 2010 4455](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 7325](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
+[^111b-1]: Eingefügt durch Ziff. I des BG vom 14. Dez. 2012, in Kraft seit 1. Febr. 2014 ([AS 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778), [5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [BBl 2010 4455](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 7325](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
 [^111b-2]: Fassung gemäss Ziff. I des BG vom 25. Sept. 2015, in Kraft seit 1. März 2019 ([AS 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521), [2018 2855](https://fedlex.data.admin.ch/eli/oc/2018/438); [BBl 2014 7991](https://fedlex.data.admin.ch/eli/fga/2014/1715)).
 
 #### Art. 111c
@@ -2930,7 +3159,7 @@ Im Beschwerdeverfahren gegen Asylentscheide nach Artikel 31*a*, die im beschleun
 
 <sup>2</sup> Unbegründete oder wiederholt gleich begründete Mehrfachgesuche werden formlos abgeschrieben.
 
-[^111c-1]: Eingefügt durch Ziff. I des BG vom 14. Dez. 2012, in Kraft seit 1. Febr. 2014 ([AS 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778)[5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [BBl 2010 4455](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 7325](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
+[^111c-1]: Eingefügt durch Ziff. I des BG vom 14. Dez. 2012, in Kraft seit 1. Febr. 2014 ([AS 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778), [5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [BBl 2010 4455](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 7325](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
 [^111c-2]: Fassung gemäss Ziff. I des BG vom 25. Sept. 2015, in Kraft seit 1. März 2019 ([AS 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521), [2018 2855](https://fedlex.data.admin.ch/eli/oc/2018/438); [BBl 2014 7991](https://fedlex.data.admin.ch/eli/fga/2014/1715)).
 
 #### Art. 111d
@@ -2950,19 +3179,19 @@ Das SEM kann von der gesuchstellenden Person einen Gebührenvorschuss in der Hö
 
 <sup>4</sup> Der Bundesrat regelt die Bemessung der Gebühr und die Höhe des Gebührenvorschusses.
 
-[^111d-1]: Eingefügt durch Ziff. I des BG vom 14. Dez. 2012, in Kraft seit 1. Febr. 2014 ([AS 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778)[5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [BBl 2010 4455](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 7325](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
+[^111d-1]: Eingefügt durch Ziff. I des BG vom 14. Dez. 2012, in Kraft seit 1. Febr. 2014 ([AS 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778), [5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [BBl 2010 4455](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 7325](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
 
 #### Art. 112
 
 [^112-1]
 
-[^112-1]: Aufgehoben durch Ziff. I des BG vom 14. Dez. 2012, mit Wirkung seit 1. Febr. 2014 ([AS 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778)[5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [BBl 2010 4455](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 7325](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
+[^112-1]: Aufgehoben durch Ziff. I des BG vom 14. Dez. 2012, mit Wirkung seit 1. Febr. 2014 ([AS 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778), [5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [BBl 2010 4455](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 7325](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
 
 ### 4. Abschnitt: Hinderung und Stillstand der Verjährung
 
 [^chap8-sec4-1]
 
-[^chap8-sec4-1]: Eingefügt durch Ziff. I des BG vom 14. Dez. 2012, in Kraft seit 1. Febr. 2014 ([AS 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778)[5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [BBl 2010 4455](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 7325](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
+[^chap8-sec4-1]: Eingefügt durch Ziff. I des BG vom 14. Dez. 2012, in Kraft seit 1. Febr. 2014 ([AS 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778), [5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [BBl 2010 4455](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 7325](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
 
 #### Art. 112a
 
@@ -2970,13 +3199,13 @@ Das SEM kann von der gesuchstellenden Person einen Gebührenvorschuss in der Hö
 
 Während der Dauer eines Rechtsmittelverfahrens beginnt die Verjährung von finanziellen Ansprüchen des Bundes gegenüber Subventionsempfängern oder Sozialhilfeempfängerinnen und –empfängern nicht oder steht still, falls sie begonnen hat.
 
-[^112a-1]: Fassung gemäss Ziff. I des BG vom 14. Dez. 2012, in Kraft seit 1. Febr. 2014 ([AS 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778)[5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [BBl 2010 4455](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 7325](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
+[^112a-1]: Fassung gemäss Ziff. I des BG vom 14. Dez. 2012, in Kraft seit 1. Febr. 2014 ([AS 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778), [5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [BBl 2010 4455](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 7325](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
 
 ## 8*a*. Kapitel: Asylverfahren im Rahmen von Testphasen
 
 [^chap8a-1]
 
-[^chap8a-1]: Eingefügt durch Ziff. I des BG vom 14. Dez. 2012, in Kraft seit 1. Febr. 2014 ([AS 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778)[5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [BBl 2010 4455](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 7325](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
+[^chap8a-1]: Eingefügt durch Ziff. I des BG vom 14. Dez. 2012, in Kraft seit 1. Febr. 2014 ([AS 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778), [5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [BBl 2010 4455](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 7325](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
 
 #### Art. 112b
 
@@ -2988,15 +3217,34 @@ Während der Dauer eines Rechtsmittelverfahrens beginnt die Verjährung von fina
 
 [^chap9-1]
 
-[^chap9-1]: Fassung gemäss Ziff. I des BG vom 14. Dez. 2012, in Kraft seit 1. Febr. 2014 ([AS 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778)[5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [BBl 2010 4455](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 7325](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
+[^chap9-1]: Fassung gemäss Ziff. I des BG vom 14. Dez. 2012, in Kraft seit 1. Febr. 2014 ([AS 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778), [5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [BBl 2010 4455](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 7325](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
 
 #### Art. 113
 
-**Grundsätze[^113-1]**
+**Grundsätze**[^113-1]
 
-Der Bund beteiligt sich an der Harmonisierung der europäischen Flüchtlingspolitik auf internationaler Ebene sowie an der Lösung von Flüchtlingsproblemen im Ausland. Er unterstützt die Tätigkeit internationaler Hilfswerke. Er arbeitet namentlich mit dem Hochkommissariat der Vereinten Nationen für die Flüchtlinge zusammen.
+<sup>1</sup> Zur Sicherung fairer Verfahren unter Einhaltung der Grundrechte beteiligt sich der Bund an der Harmonisierung der europäischen Flüchtlingspolitik auf internationaler Ebene sowie an der Lösung von Flüchtlingsproblemen im Ausland.
 
-[^113-1]: Fassung gemäss Ziff. I des BG vom 20. Dez. 2019, in Kraft seit 1. Nov. 2020 ([AS 2020 3989](https://fedlex.data.admin.ch/eli/oc/2020/742); [BBl 2018 6565](https://fedlex.data.admin.ch/eli/fga/2018/2305)).
+<sup>2</sup>
+
+Er kann insbesondere:
+
+- a. die Europäische Union im Rahmen der in Teil IV der Verordnung (EU) 2024/1351[^113-2] vorgesehenen Solidarität unterstützen;
+- b. die Tätigkeit internationaler Hilfswerke unterstützen;
+- c. mit dem Hochkommissariat der Vereinten Nationen für die Flüchtlinge zusammenarbeiten.
+
+<sup>3</sup>
+
+Unter der Bedingung, dass das Dublin-System gegenüber der Schweiz im Wesentlichen funktioniert, leistet der Bund Solidaritätsmassnahmen nach Absatz 2 Buchstabe a. Bei der Entscheidung berücksichtigt er namentlich:
+
+- a. ob alle für die Schweiz wesentlichen Dublin-Staaten sich ihr gegenüber an die Zuständigkeitsregelung der Verordnung (EU) 2024/1351 und die daraus fliessenden Übernahme- und Rückübernahmeverpflichtungen halten;
+- b. die gesamteuropäische und nationale Migrationslage;
+- c. die finanziellen Auswirkungen der zu treffenden Massnahmen.
+
+<sup>4</sup> Vor seiner Entscheidung konsultiert er die Kantone und andere interessierte Kreise. Er stellt sicher, dass Artikel 121*a* Absatz 2 der Bundesverfassung eingehalten wird.
+
+[^113-1]: Fassung gemäss Anhang 1 Ziff. 2 des BB vom 26. Sept. 2025 über die Genehmigung und die Umsetzung der Notenaustausche zwischen der Schweiz und der EU betreffend die Übernahme der Verordnung (EU) 2024/1351 über das Asyl- und Migrationsmanagement und der Verordnung (EU) 2024/1359 über die Bewältigung von Krisensituationen und Situationen höherer Gewalt im Bereich Migration und Asyl, in Kraft seit 12. Juni 2026 ([AS 2026 229](https://fedlex.data.admin.ch/eli/oc/2026/229); [BBl 2025 1478](https://fedlex.data.admin.ch/eli/fga/2025/1478)).
+[^113-2]: Siehe Fussnote zu Art. 8*b*.
 
 #### Art. 114
 
@@ -3033,7 +3281,7 @@ Mit Geldstrafe bis zu 180 Tagessätzen wird bestraft, sofern nicht ein mit einer
 [^115-2]: Fassung gemäss Art. 333 des Strafgesetzbuches in der Fassung des BG vom 13. Dez. 2002, in Kraft seit 1. Jan. 2007 ([AS 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); BBl **1999** 1979).
 [^115-3]: Fassung gemäss Ziff. I des BG vom 16. Dez. 2005, in Kraft seit 1. Jan. 2008 ([AS 2006 4745](https://fedlex.data.admin.ch/eli/oc/2006/727), [2007 5573](https://fedlex.data.admin.ch/eli/oc/2007/765); [BBl 2002 6845](https://fedlex.data.admin.ch/eli/fga/2002/1106)).
 [^115-4]: Aufgehoben durch Anhang Ziff. 1 des BG vom 16. Dez. 2016 (Integration), mit Wirkung seit 1. Jan. 2018 ([AS 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718); [BBl 2016 2821](https://fedlex.data.admin.ch/eli/fga/2016/524), [2013 2397](https://fedlex.data.admin.ch/eli/fga/2013/416)).
-[^115-5]: Eingefügt durch Ziff. I des BG vom 14. Dez. 2012, in Kraft seit 1. Febr. 2014 ([AS 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778)[5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [BBl 2010 4455](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 7325](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
+[^115-5]: Eingefügt durch Ziff. I des BG vom 14. Dez. 2012, in Kraft seit 1. Febr. 2014 ([AS 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778), [5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [BBl 2010 4455](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 7325](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
 
 #### Art. 116
 
@@ -3046,8 +3294,8 @@ Mit Busse wird bestraft, sofern nicht ein Tatbestand nach Artikel 115 vorliegt, 
 - c.[^116-1] als asylsuchende Person einzig mit der Absicht, subjektive Nachfluchtgründe im Sinne von Artikel 54 zu schaffen, öffentliche politische Tätigkeiten in der Schweiz entfaltet;
 - d.[^116-2] zu einer Straftat im Sinne von Buchstabe c Hilfe geleistet hat, insbesondere durch Planung und Organisation.
 
-[^116-1]: Eingefügt durch Ziff. I des BG vom 14. Dez. 2012, in Kraft seit 1. Febr. 2014 ([AS 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778)[5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [BBl 2010 4455](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 7325](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
-[^116-2]: Eingefügt durch Ziff. I des BG vom 14. Dez. 2012, in Kraft seit 1. Febr. 2014 ([AS 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778)[5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [BBl 2010 4455](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 7325](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
+[^116-1]: Eingefügt durch Ziff. I des BG vom 14. Dez. 2012, in Kraft seit 1. Febr. 2014 ([AS 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778), [5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [BBl 2010 4455](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 7325](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
+[^116-2]: Eingefügt durch Ziff. I des BG vom 14. Dez. 2012, in Kraft seit 1. Febr. 2014 ([AS 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778), [5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [BBl 2010 4455](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 7325](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
 
 #### Art. 116a
 
@@ -3195,7 +3443,7 @@ Für Asylgesuche, die im Ausland vor dem Inkrafttreten der Änderung vom 28. Sep
 
 [^u4-1]
 
-[^u4-1]: [AS 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778)[5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [BBl 2010 4455](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 7325](https://fedlex.data.admin.ch/eli/fga/2011/1209)
+[^u4-1]: [AS 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778), [5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [BBl 2010 4455](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 7325](https://fedlex.data.admin.ch/eli/fga/2011/1209)
 
 <sup>1</sup> Für die im Zeitpunkt des Inkrafttretens der Änderung vom 14. Dezember 2012 dieses Gesetzes hängigen Verfahren gilt mit Ausnahme der Absätze 2–4 das neue Recht.
 
@@ -3257,19 +3505,21 @@ Anhang 1[^t-1]
 
 ## Dublin-Assoziierungsabkommen
 
-[^t-1]: Eingefügt durch Anhang Ziff. 1 des BG vom 13. Juni 2008 (Ergänzungen im Rahmen der Umsetzung der Schengen- und Dublin-Assoziierungsabkommen), in Kraft seit 12. Dez. 2008 ([AS 2008 5407](https://fedlex.data.admin.ch/eli/oc/2008/756)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)Art. 2 Bst. c; [BBl 2007 7937](https://fedlex.data.admin.ch/eli/fga/2007/1287)).
+[^t-1]: Eingefügt durch Anhang Ziff. 1 des BG vom 13. Juni 2008 (Ergänzungen im Rahmen der Umsetzung der Schengen- und Dublin-Assoziierungsabkommen) ([AS 2008 5407](https://fedlex.data.admin.ch/eli/oc/2008/756); [BBl 2007 7937](https://fedlex.data.admin.ch/eli/fga/2007/1287)). Fassung gemäss Anhang 1 Ziff. 2 des BB vom 26. Sept. 2025 über die Genehmigung und die Umsetzung der Notenaustausche zwischen der Schweiz und der EU betreffend die Übernahme der Verordnung (EU) 2024/1351 über das Asyl- und Migrationsmanagement und der Verordnung (EU) 2024/1359 über die Bewältigung von Krisensituationen und Situationen höherer Gewalt im Bereich Migration und Asyl, in Kraft seit 12. Juni 2026 ([AS 2026 229](https://fedlex.data.admin.ch/eli/oc/2026/229); [BBl 2025 1478](https://fedlex.data.admin.ch/eli/fga/2025/1478)).
 
 Die Dublin-Assoziierungsabkommen umfassen:
 
-- a. Abkommen vom 26. Oktober 2004[^annex1-lvlu1-1] zwischen der Schweizerischen Eidgenossenschaft und der Europäischen Gemeinschaft über die Kriterien und Verfahren zur Bestimmung des zuständigen Staates für die Prüfung eines in einem Mitgliedstaat oder in der Schweiz gestellten Asylantrags (DAA);
+- a. Abkommen vom 26. Oktober 2004[^annex1-lvlu1-1] zwischen der Schweizerischen Eidgenossenschaft und der Europäischen Gemeinschaft über die Kriterien und Verfahren zur Bestimmung des zuständigen Staates für die Prüfung eines in einem Mitgliedstaat oder in der Schweiz gestellten Asylantrags;
 - b. Übereinkommen vom 17. Dezember 2004[^annex1-lvlu1-2] zwischen der Schweizerischen Eidgenossenschaft, der Republik Island und dem Königreich Norwegen über die Umsetzung, Anwendung und Entwicklung des Schengen-Besitzstands und über die Kriterien und Verfahren zur Bestimmung des zuständigen Staates für die Prüfung eines in der Schweiz, in Island oder in Norwegen gestellten Asylantrags;
 - c. Protokoll vom 28. Februar 2008[^annex1-lvlu1-3] zwischen der Schweizerischen Eidgenossenschaft, der Europäischen Gemeinschaft und dem Fürstentum Liechtenstein zum Abkommen zwischen der Schweizerischen Eidgenossenschaft und der Europäischen Gemeinschaft über die Kriterien und Verfahren zur Bestimmung des zuständigen Staates für die Prüfung eines in einem Mitgliedstaat oder in der Schweiz gestellten Asylantrags;
-- d. Protokoll vom 28. Februar 2008[^annex1-lvlu1-4] zwischen der Schweizerischen Eidgenossenschaft, der Europäischen Gemeinschaft und dem Fürstentum Liechtenstein über den Beitritt des Fürstentums Liechtenstein zum Abkommen zwischen der Schweizerischen Eidgenossenschaft und der Europäischen Gemeinschaft über die Kriterien und Verfahren zur Bestimmung des zuständigen Staates für die Prüfung eines in einem Mitgliedstaat oder in der Schweiz gestellten Asylantrags.
+- d. Protokoll vom 28. Februar 2008[^annex1-lvlu1-4] zwischen der Schweizerischen Eidgenossenschaft, der Europäischen Gemeinschaft und dem Fürstentum Liechtenstein über den Beitritt des Fürstentums Liechtenstein zum Abkommen zwischen der Schweizerischen Eidgenossenschaft und der Europäischen Gemeinschaft über die Kriterien und Verfahren zur Bestimmung des zuständigen Staates für die Prüfung eines in einem Mitgliedstaat oder in der Schweiz gestellten Asylantrags;
+- e. Protokoll vom 27. Juni 2019[^annex1-lvlu1-5] zwischen der Schweizerischen Eidgenossenschaft, der Europäischen Union und dem Fürstentum Liechtenstein zum Abkommen zwischen der Schweizerischen Eidgenossenschaft und der Europäischen Gemeinschaft über die Kriterien und Verfahren zur Bestimmung des zuständigen Staates für die Prüfung eines in einem Mitgliedstaat oder in der Schweiz gestellten Asylantrags betreffend den Zugang zu Eurodac für Gefahrenabwehr- und Strafverfolgungszwecke.
 
 [^annex1-lvlu1-1]: [SR 0.142.392.68](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/443)
 [^annex1-lvlu1-2]: [SR 0.362.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1519)
 [^annex1-lvlu1-3]: [SR 0.142.393.141](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/451)
 [^annex1-lvlu1-4]: [SR 0.142.395.141](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/452)
+[^annex1-lvlu1-5]: [SR 0.142.392.682](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40016)
 
 Anhang 2[^t-2]
 

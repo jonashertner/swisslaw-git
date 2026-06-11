@@ -4,11 +4,11 @@ title: "Legge del 26 giugno 1998 sull'asilo (LAsi)"
 short: LAsi
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/358"
 language: it
-version: 2026-06-01
+version: 2026-06-12
 adopted: 1998-06-26
 in_force: 1999-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/358/20260601/it/xml/fedlex-data-admin-ch-eli-cc-1999-358-20260601-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/358/20260601/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/358/20260612/it/xml/fedlex-data-admin-ch-eli-cc-1999-358-20260612-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/358/20260612/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1999/358/20260601/it"
 
 (LAsi)
 
-del 26 giugno 1998 (Stato 1° giugno 2026)
+del 26 giugno 1998 (Stato 12 giugno 2026)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -208,6 +208,15 @@ Sono considerati supporti elettronici di dati segnatamente:
 
 [^8a-1]: Introdotto dalla cifra I, cpv. 1 dalla cifra III, della LF del 1° ott. 2021, in vigore dal 1° apr. 2025 ([RU 2024 189](https://fedlex.data.admin.ch/eli/oc/2024/189); [FF 2020 8129](https://fedlex.data.admin.ch/eli/fga/2020/2506); [2021 137](https://fedlex.data.admin.ch/eli/fga/2021/137)). Vedi anche la disp. trans. di detta mod. alla fine del testo.
 [^8a-2]: [RS 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
+
+#### Art. 8b
+
+**Altri obblighi nella procedura Dublino**[^8b-1]
+
+Nel quadro di una procedura Dublino gli altri obblighi del richiedente l’asilo sono retti dall’articolo 17 del regolamento (UE) 2024/1351[^8b-2]. Il richiedente l’asilo è informato di questi obblighi in una lingua a lui comprensibile.
+
+[^8b-1]: Introdotto dall’all. 1 n. 2 del DF del 26 set. 2025 che approva e traspone nel diritto svizzero gli scambi di note tra la Svizzera e l’UE concernenti il recepimento del regolamento (UE) 2024/1351 sulla gestione dell’asilo e della migrazione e del regolamento (UE) 2024/1359 concernente le situazioni di crisi e di forza maggiore nel settore della migrazione e dell’asilo, in vigore dal 12 giu. 2026 ([RU 2026 229](https://fedlex.data.admin.ch/eli/oc/2026/229); [FF 2025 1478](https://fedlex.data.admin.ch/eli/fga/2025/1478)).
+[^8b-2]: Regolamento (UE) 2024/1351 del Parlamento europeo e del Consiglio, del 14 maggio 2024, sulla gestione dell’asilo e della migrazione, che modifica i regolamenti (UE) 2021/1147 e (UE) 2021/1060 e che abroga il regolamento (UE) n. 604/2013, versione della GU L, 2024/1351, 22.5.2024.
 
 #### Art. 9
 
@@ -418,9 +427,12 @@ La SEM può fatturare a terzi emolumenti e spese per prestazioni a loro favore.
 
 #### Art. 20
 
-[^20-1]
+**Risultato del controllo di sicurezza nella procedura Dublino**[^20-1]
 
-[^20-1]: Abrogato dalla cifra I della LF del 25 set. 2015, con effetto dal 1° mar. 2019 ([RU 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521); [2018 2855](https://fedlex.data.admin.ch/eli/oc/2018/438); [FF 2014 6917](https://fedlex.data.admin.ch/eli/fga/2014/1715)).
+Se dal controllo di sicurezza all’aeroporto secondo l’articolo 21*a* o nel centro della Confederazione secondo l’articolo 26 emerge che il richiedente l’asilo costituisce una minaccia per la sicurezza interna, la procedura Dublino per la presa in carico secondo l’articolo 39 del regolamento (UE) 2024/1351[^20-2] non viene svolta.
+
+[^20-1]: Nuovo testo giusta l’all. 1 n. 2 del DF del 26 set. 2025 che approva e traspone nel diritto svizzero gli scambi di note tra la Svizzera e l’UE concernenti il recepimento del regolamento (UE) 2024/1351 sulla gestione dell’asilo e della migrazione e del regolamento (UE) 2024/1359 concernente le situazioni di crisi e di forza maggiore nel settore della migrazione e dell’asilo, in vigore dal 12 giu. 2026 ([RU 2026 229](https://fedlex.data.admin.ch/eli/oc/2026/229); [FF 2025 1478](https://fedlex.data.admin.ch/eli/fga/2025/1478)).
+[^20-2]: Cfr. nota a piè di pagina relativa all’art. 8*b.*
 
 #### Art. 21
 
@@ -435,47 +447,69 @@ La SEM può fatturare a terzi emolumenti e spese per prestazioni a loro favore.
 [^21-1]: Nuovo testo giusta l’all. n. 1 della LF del 13 giu. 2008 (Complementi nel quadro della trasposizione degli Acc. d’associazione alla normativa di Schengen e Dublino), in vigore dal 12 dic. 2008 ([RU 2008 5407](https://fedlex.data.admin.ch/eli/oc/2008/756), [5405](https://fedlex.data.admin.ch/eli/oc/2008/755)art. 2 lett. c; [FF 2007 7149](https://fedlex.data.admin.ch/eli/fga/2007/1287)).
 [^21-2]: Nuovo testo giusta la cifra I della LF del 25 set. 2015, in vigore dal 1° mar. 2019 ([RU 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521); [2018 2855](https://fedlex.data.admin.ch/eli/oc/2018/438); [FF 2014 6917](https://fedlex.data.admin.ch/eli/fga/2014/1715)).
 
+#### Art. 21a
+
+**Accertamenti in caso di domanda d’asilo all’aeroporto**[^21a-1]
+
+<sup>1</sup> Nel caso di persone che presentano una domanda d’asilo alla frontiera esterna Schengen presso un aeroporto svizzero in cui vengono svolte procedure secondo l’articolo 22 e che non soddisfano le condizioni d’entrata, dopo la presentazione della domanda d’asilo l’autorità competente per il controllo di frontiera informa senza indugio la SEM. D’intesa con la SEM, l’autorità competente effettua gli accertamenti previsti dal regolamento (UE) 2024/1356[^21a-2] entro sette giorni dal rintraccio delle persone in questione o dal giorno in cui si sono presentate alla frontiera.
+
+<sup>2</sup> Nel caso di persone che presentano una domanda d’asilo alla frontiera esterna Schengen presso un aeroporto svizzero in cui non vengono svolte procedure secondo l’articolo 22 e che non soddisfano le condizioni d’entrata, l’autorità competente per il controllo di frontiera indirizza le persone in questione a un centro della Confederazione. In presenza di indizi concreti secondo cui intendano sottrarsi a disposizioni o misure delle autorità, queste persone vengono accompagnate nel centro in questione. La successiva procedura di accertamento è retta dall’articolo 26 capoverso 1<sup>bis</sup>; in questo caso si applica il termine di cui al capoverso 1.
+
+<sup>3</sup> Anche le persone cui è stata autorizzata l’entrata conformemente all’articolo 6 paragrafo 5 lettera c del regolamento (UE) 2016/399[^21a-3] e che presentano una domanda d’asilo alla frontiera esterna Schengen presso un aeroporto svizzero sottostanno agli accertamenti di cui ai capoversi 1 e 2.
+
+<sup>4</sup>
+
+La procedura di accertamento è retta dal regolamento (UE) 2024/1356. Consta degli elementi seguenti:
+
+- a. un controllo preliminare dello stato di salute;
+- b. un controllo preliminare delle vulnerabilità;
+- c. identificazione e verifica dell’identità;
+- d. registrazione dei dati biometrici nell’Eurodac, qualora non sia ancora avvenuta;
+- e. un controllo di sicurezza;
+- f. compilazione del modulo consuntivo;
+- <sup>g.</sup> indirizzamento alla procedura adeguata.
+
+<sup>5</sup> I richiedenti l’asilo devono tenersi a disposizione delle autorità competenti per la durata degli accertamenti, indicare nome, data di nascita, genere e nazionalità nonché, se del caso, presentare documenti e informazioni atti a comprovare questi dati. Devono inoltre far rilevare i propri dati biometrici.
+
+<sup>6</sup> In vista di svolgere la procedura d’asilo all’aeroporto, la SEM rifiuta l’entrata in Svizzera del richiedente l’asilo per la durata degli accertamenti.
+
+<sup>7</sup> Nel momento in cui gli rifiuta l’entrata, la SEM assegna al richiedente l’asilo un luogo di soggiorno e gli fornisce un alloggio adeguato. Le spese dell’alloggio sono a carico della SEM. I gestori di aeroporti sono responsabili di mettere a disposizione alloggi a basso costo.
+
+<sup>8</sup> La decisione relativa al rifiuto dell’entrata e all’assegnazione di un luogo di soggiorno è notificata al richiedente l’asilo, indicando i rimedi giuridici, entro due giorni dal deposito della domanda. Prima della decisione al richiedente l’asilo è concesso il diritto di essere sentito.
+
+[^21a-1]: Introdotto dall’all. 1 n. 2 del DF del 26 set. 2025 che approva e traspone nel diritto svizzero lo scambio di note tra la Svizzera e l’UE concernente il recepimento del regolamento (UE) 2024/1356 che introduce accertamenti nei confronti dei cittadini di paesi terzi alle frontiere esterne e modifica i regolamenti (CE) n. 767/2008, (UE) 2017/2226, (UE) 2018/1240 e (UE) 2019/817, in vigore dal 12 giu. 2026 ([RU 2026 230](https://fedlex.data.admin.ch/eli/oc/2026/230); [FF 2025 1478](https://fedlex.data.admin.ch/eli/fga/2025/1478)).
+[^21a-2]: Regolamento (UE) 2024/1356 del Parlamento europeo e del Consiglio, del 14 maggio 2024, che introduce accertamenti nei confronti dei cittadini di paesi terzi alle frontiere esterne e modifica i regolamenti (CE) n. 767/2008, (UE) 2017/2226, (UE) 2018/1240 e (UE) 2019/817, GU L, 2024/1356, 22.5.2024.
+[^21a-3]: Regolamento (UE) 2016/399 del Parlamento europeo e del Consiglio, del 9 marzo 2016, che istituisce un codice unionale relativo al regime di attraversamento delle frontiere da parte delle persone (codice frontiere Schengen), GU L 77 del 23.3.2016, pag. 1; modificato da ultimo dal regolamento (UE) 2024/1717, GU L, 2024/1717, 20.6.2024.
+
 #### Art. 22
 
-**Procedura all’aeroporto**[^22-1]
+**Procedura d’asilo all’aeroporto**[^22-1]
 
-<sup>1</sup> L’autorità competente rileva le generalità delle persone che presentano una domanda d’asilo in un aeroporto svizzero, le fotografa e ne allestisce schede dattiloscopiche. Può rilevare altri dati biometrici e interrogarle sommariamente sull’itinerario seguito e sui motivi che le hanno indotte a lasciare il loro Paese.[^22-2]
+<sup>1</sup> Al termine degli accertamenti di cui all’articolo 21*a* capoverso 1 la SEM può rilevare altre generalità. Allestisce schede dattiloscopiche e scatta fotografie se ciò non è stato fatto durante gli accertamenti. Può rilevare altri dati biometrici, verificare mezzi probatori e documenti di viaggio e d’identità e procedere ad accertamenti per quanto riguarda la provenienza e l’identità. La SEM può incaricare terzi di svolgere questi compiti. I terzi incaricati sottostanno allo stesso obbligo del segreto che vincola il personale federale.
 
-<sup>1bis</sup> La SEM verifica la propria competenza a svolgere la procedura d’asilo tenendo conto delle disposizioni degli Accordi di associazione alla normativa di Dublino.[^22-3]
+<sup>2</sup> L’autorità competente informa i richiedenti l’asilo in merito ai loro diritti e ai loro obblighi nell’ambito della procedura d’asilo. Può interrogarli sulla loro identità, sull’itinerario di viaggio e sommariamente sui motivi che li hanno indotti a lasciare il loro Paese.
 
-<sup>1ter</sup>
+<sup>3</sup> La SEM verifica la propria competenza a svolgere la procedura d’asilo tenendo conto delle disposizioni degli Accordi di associazione alla normativa di Dublino.
 
-La SEM autorizza l’entrata se la Svizzera è competente per lo svolgimento della procedura d’asilo in virtù del regolamento (UE) n. 604/2013[^22-4] e:[^22-5]
+<sup>4</sup>
 
-- a. nel Paese dal quale è direttamente giunto in Svizzera, il richiedente l’asilo sembra esposto a pericolo per uno dei motivi enumerati dall’articolo 3 capoverso 1 o minacciato di trattamento inumano; oppure
-- b. il richiedente rende verosimile che il Paese dal quale è direttamente giunto in Svizzera lo costringerebbe, violando il principio del non respingimento, a recarsi in un Paese nel quale sembra essere esposto a pericolo.[^22-6]
+La SEM autorizza l’entrata se la Svizzera è competente per lo svolgimento della procedura d’asilo in virtù del regolamento (UE) 2024/1351[^22-2] e:
 
-<sup>2</sup> L’entrata in Svizzera è rifiutata provvisoriamente se i provvedimenti di cui al capoverso 1 e la verifica di cui al capoverso 1<sup>bis</sup> non permettono di determinare immediatamente se sono adempite le condizioni per l’ottenimento di un’autorizzazione d’entrata secondo il capoverso 1<sup>ter</sup>.[^22-7]
+- a. nel Paese dal quale è direttamente giunto in Svizzera, il richiedente l’asilo sembra essere esposto a pericolo per uno dei motivi enumerati dall’articolo 3 capoverso 1 o minacciato di trattamento inumano; oppure
+- b. il richiedente l’asilo rende verosimile che il Paese dal quale è direttamente giunto in Svizzera lo costringerebbe, violando il principio del non respingimento, a recarsi in un Paese nel quale sembra essere esposto a pericolo.
 
-<sup>2bis</sup> Per evitare casi di rigore personale, il Consiglio federale può decidere in quali altri casi l’entrata in Svizzera è autorizzata.[^22-8]
+<sup>5</sup> Può parimenti autorizzare l’entrata qualora si possa prevedere che la procedura non potrà essere portata a termine entro 27 giorni dal deposito della domanda.
 
-<sup>3</sup> Nel momento in cui gli rifiuta l’entrata, la SEM assegna al richiedente un luogo di soggiorno e gli fornisce un alloggio adeguato. Le spese dell’alloggio sono a carico della SEM. I gestori di aeroporti sono responsabili dell’approntamento di alloggi a basso costo.[^22-9]
+<sup>6</sup> Per evitare casi di rigore, il Consiglio federale può decidere in quali altri casi l’entrata in Svizzera è autorizzata.
 
-<sup>3bis</sup> Al richiedente l’asilo che presenta una domanda d’asilo in un aeroporto svizzero, la Confederazione garantisce una consulenza e una rappresentanza legale gratuite per analogia con gli articoli 102*f*–102*k*.[^22-10]
+<sup>7</sup> Al richiedente l’asilo che presenta una domanda d’asilo in un aeroporto svizzero, la Confederazione garantisce, al termine degli accertamenti, una consulenza e una rappresentanza legale gratuite per analogia agli articoli 102*f*–102*k*.
 
-<sup>4</sup> La decisione relativa al rifiuto dell’entrata e all’assegnazione di un luogo di soggiorno è notificata al richiedente, indicando i rimedi giuridici, entro due giorni dal deposito della domanda. Prima della decisione, al richiedente è concesso il diritto di essere sentito.[^22-11]
+<sup>8</sup> Il richiedente l’asilo può essere trattenuto all’aeroporto o eccezionalmente in un altro luogo adeguato al massimo per 67 giorni. Passata in giudicato una decisione di allontanamento, può essere incarcerato in vista del rinvio coatto.
 
-<sup>5</sup> Il richiedente può essere trattenuto, al massimo per 60 giorni, all’aeroporto o eccezionalmente in un altro luogo adeguato. Passata in giudicato una decisione di allontanamento, può essere incarcerato in vista del rinvio coatto.
+<sup>9</sup> La SEM può in seguito attribuire il richiedente l’asilo a un Cantone o a un centro della Confederazione. Negli altri casi, l’ulteriore procedura all’aeroporto è retta dagli articoli 23, 29, 36 e 37.
 
-<sup>6</sup> La SEM può in seguito attribuire il richiedente a un Cantone o a un centro della Confederazione. Negli altri casi, l’ulteriore procedura all’aeroporto è retta dagli articoli 23, 29, 36 e 37.[^22-12]
-
-[^22-1]: Nuovo testo giusta la cifra I della L del 16 dic. 2005, in vigore dal 1° gen. 2008 ([RU 2006 4745](https://fedlex.data.admin.ch/eli/oc/2006/727); [2007 5573](https://fedlex.data.admin.ch/eli/oc/2007/765); [FF 2002 6087](https://fedlex.data.admin.ch/eli/fga/2002/1106)).
-[^22-2]: Nuovo testo giusta l’all. n. 1 della LF del 13 giu. 2008 (Complementi nel quadro della trasposizione degli Acc. d’associazione alla normativa di Schengen e Dublino), in vigore dal 12 dic. 2008 ([RU 2008 5407](https://fedlex.data.admin.ch/eli/oc/2008/756), [5405](https://fedlex.data.admin.ch/eli/oc/2008/755)art. 2 lett. c; [FF 2007 7149](https://fedlex.data.admin.ch/eli/fga/2007/1287)).
-[^22-3]: Introdotto dall’all. n. 1 della LF del 13 giu. 2008 (Complementi nel quadro della trasposizione degli Acc. d’associazione alla normativa di Schengen e Dublino), in vigore dal 12 dic. 2008 ([RU 2008 5407](https://fedlex.data.admin.ch/eli/oc/2008/756), [5405](https://fedlex.data.admin.ch/eli/oc/2008/755)art. 2 lett. c; [FF 2007 7149](https://fedlex.data.admin.ch/eli/fga/2007/1287)).
-[^22-4]: Regolamento (UE) n. 604/2013 del Parlamento europeo e del Consiglio, del 26 giu. 2013, che stabilisce i criteri e i meccanismi di determinazione dello Stato membro competente per l’esame di una domanda di protezione internazionale presentata in uno degli Stati membri da un cittadino di un paese terzo o da un apolide (rifusione), versione della GU L 180 del 29.6.2013, pag. 31.
-[^22-5]: Nuovo testo giusta l’all. cifra I n. 2 del DF del 26 set. 2014 (Recepimento del regolamento [UE] n. 604/2013 che stabilisce i criteri e i meccanismi di determinazione dello Stato membro competente per l’esame di una domanda di protezione internazionale), in vigore dal 1° lug. 2015 ([RU 2015 1841](https://fedlex.data.admin.ch/eli/oc/2015/357); [FF 2014 2411](https://fedlex.data.admin.ch/eli/fga/2014/489)).
-[^22-6]: Introdotto dall’all. n. 1 della LF del 13 giu. 2008 (Complementi nel quadro della trasposizione degli Acc. d’associazione alla normativa di Schengen e Dublino), in vigore dal 12 dic. 2008 ([RU 2008 5407](https://fedlex.data.admin.ch/eli/oc/2008/756), [5405](https://fedlex.data.admin.ch/eli/oc/2008/755)art. 2 lett. c; [FF 2007 7149](https://fedlex.data.admin.ch/eli/fga/2007/1287)).
-[^22-7]: Nuovo testo giusta l’all. n. 1 della LF del 13 giu. 2008 (Complementi nel quadro della trasposizione degli Acc. d’associazione alla normativa di Schengen e Dublino), in vigore dal 12 dic. 2008 ([RU 2008 5407](https://fedlex.data.admin.ch/eli/oc/2008/756), [5405](https://fedlex.data.admin.ch/eli/oc/2008/755)art. 2 lett. c; [FF 2007 7149](https://fedlex.data.admin.ch/eli/fga/2007/1287)).
-[^22-8]: Introdotto dall’all. n. 1 della LF del 13 giu. 2008 (Complementi nel quadro della trasposizione degli Acc. d’associazione alla normativa di Schengen e Dublino), in vigore dal 12 dic. 2008 ([RU 2008 5407](https://fedlex.data.admin.ch/eli/oc/2008/756), [5405](https://fedlex.data.admin.ch/eli/oc/2008/755)art. 2 lett. c; [FF 2007 7149](https://fedlex.data.admin.ch/eli/fga/2007/1287)).
-[^22-9]: Nuovo testo giusta la cifra I della LF del 14 dic. 2012, in vigore dal 1° feb. 2014 ([RU 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778), [5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [FF 2010 3889](https://fedlex.data.admin.ch/eli/fga/2010/794); [2011 6503](https://fedlex.data.admin.ch/eli/fga/2011/1209)). Vedi anche la disp. trans. di detta mod. alla fine del testo.
-[^22-10]: Introdotto dalla cifra I della LF del 25 set. 2015, in vigore dal 1° mar. 2019 ([RU 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521); [2018 2855](https://fedlex.data.admin.ch/eli/oc/2018/438); [FF 2014 6917](https://fedlex.data.admin.ch/eli/fga/2014/1715)).
-[^22-11]: Nuovo testo giusta la cifra I della LF del 25 set. 2015, in vigore dal 1° mar. 2019 ([RU 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521); [2018 2855](https://fedlex.data.admin.ch/eli/oc/2018/438); [FF 2014 6917](https://fedlex.data.admin.ch/eli/fga/2014/1715)).
-[^22-12]: Nuovo testo giusta la cifra I della LF del 25 set. 2015, in vigore dal 1° mar. 2019 ([RU 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521); [2018 2855](https://fedlex.data.admin.ch/eli/oc/2018/438); [FF 2014 6917](https://fedlex.data.admin.ch/eli/fga/2014/1715)).
+[^22-1]: Nuovo testo giusta l’all. 2 n. 3, del DF del 26 set. 2025 che approva e traspone nel diritto svizzero lo scambio di note tra la Svizzera e l’UE concernente il recepimento del regolamento (UE) 2024/1356 che introduce accertamenti nei confronti dei cittadini di paesi terzi alle frontiere esterne e modifica i regolamenti (CE) n. 767/2008, (UE) 2017/2226, (UE) 2018/1240 e (UE) 2019/817, in vigore dal 12 giu. 2026 ([RU 2026 230](https://fedlex.data.admin.ch/eli/oc/2026/230); [FF 2025 1478](https://fedlex.data.admin.ch/eli/fga/2025/1478)).
+[^22-2]: Cfr. nota a piè di pagina relativa all’art. 8*b*.
 
 #### Art. 23
 
@@ -483,11 +517,11 @@ La SEM autorizza l’entrata se la Svizzera è competente per lo svolgimento del
 
 <sup>1</sup> Se non autorizza l’entrata in Svizzera, la SEM può non entrare nel merito della domanda d’asilo o respingerla.[^23-2]
 
-<sup>2</sup> La decisione è notificata entro 20 giorni dalla presentazione della domanda. Se la procedura si protrae oltre tale periodo, la SEM attribuisce il richiedente a un Cantone o a un centro della Confederazione.[^23-3]
+<sup>2</sup> La decisione è notificata entro 27 giorni dalla presentazione della domanda. Se la procedura si protrae oltre tale periodo, la SEM attribuisce il richiedente l’asilo a un Cantone o a un centro della Confederazione.[^23-3]
 
 [^23-1]: Nuovo testo giusta la cifra I della L del 16 dic. 2005, in vigore dal 1° gen. 2008 ([RU 2006 4745](https://fedlex.data.admin.ch/eli/oc/2006/727); [2007 5573](https://fedlex.data.admin.ch/eli/oc/2007/765); [FF 2002 6087](https://fedlex.data.admin.ch/eli/fga/2002/1106)).
 [^23-2]: Nuovo testo giusta la cifra I della LF del 14 dic. 2012, in vigore dal 1° feb. 2014 ([RU 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778), [5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [FF 2010 3889](https://fedlex.data.admin.ch/eli/fga/2010/794); [2011 6503](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
-[^23-3]: Nuovo testo giusta la cifra I della LF del 25 set. 2015, in vigore dal 1° mar. 2019 ([RU 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521); [2018 2855](https://fedlex.data.admin.ch/eli/oc/2018/438); [FF 2014 6917](https://fedlex.data.admin.ch/eli/fga/2014/1715)).
+[^23-3]: Nuovo testo giusta l’all. 1 n. 2 del DF del 26 set. 2025 che approva e traspone nel diritto svizzero lo scambio di note tra la Svizzera e l’UE concernente il recepimento del regolamento (UE) 2024/1356 che introduce accertamenti nei confronti dei cittadini di paesi terzi alle frontiere esterne e modifica i regolamenti (CE) n. 767/2008, (UE) 2017/2226, (UE) 2018/1240 e (UE) 2019/817, in vigore dal 12 giu. 2026 ([RU 2026 230](https://fedlex.data.admin.ch/eli/oc/2026/230); [FF 2025 1478](https://fedlex.data.admin.ch/eli/fga/2025/1478)).
 
 ### Sezione 2*a*: Centri della Confederazione
 
@@ -768,17 +802,58 @@ Il Dipartimento federale di giustizia e polizia (DFGP) può emanare disposizioni
 
 **Fase preparatoria**[^26-1]
 
-<sup>1</sup> Con la presentazione della domanda d’asilo inizia la fase preparatoria. Questa dura al massimo dieci giorni nella procedura Dublino e al massimo 21 giorni nelle altre procedure.
+<sup>1</sup> Con la presentazione della domanda d’asilo inizia la fase preparatoria. Questa dura al massimo 15 giorni nella procedura Dublino e al massimo 30 giorni nelle altre procedure.[^26-2]
+
+<sup>1bis</sup> Se non vi sono indizi che il richiedente l’asilo in questione abbia attraversato in modo autorizzato la frontiera esterna in uno Stato Schengen e che siano già stati effettuati gli accertamenti, la SEM svolge gli accertamenti previsti dal regolamento (UE) 2024/1356[^26-3]. Gli accertamenti sono effettuati entro tre giorni dall’inizio della fase preparatoria.[^26-4]
+
+<sup>1<sup>ter</sup></sup>
+
+La procedura per effettuare gli accertamenti è retta dal regolamento (UE) 2024/1356. Consta degli elementi seguenti:
+
+- a. un controllo preliminare dello stato di salute;
+- b. un controllo preliminare delle vulnerabilità;
+- c. identificazione e verifica dell’identità;
+- d. registrazione dei dati biometrici nell’Eurodac, qualora non sia ancora avvenuta;
+- e. un controllo di sicurezza;
+- f. compilazione del modulo consuntivo;
+- <sup>g.</sup> indirizzamento alla procedura adeguata.[^26-5]
+
+<sup>1quater</sup> Il richiedente l’asilo deve tenersi a disposizione delle autorità competenti per la durata degli accertamenti, indicare nome, data di nascita, genere e nazionalità nonché, se del caso, presentare documenti e informazioni atti a comprovare questi dati. Deve inoltre far rilevare i propri dati biometrici.[^26-6]
 
 <sup>2</sup> Durante la fase preparatoria la SEM rileva le generalità del richiedente e di norma allestisce schede dattiloscopiche e fotografie. Può rilevare altri dati biometrici, disporre una perizia volta ad accertare l’età (art. 17 cpv. 3<sup>bis</sup>), verificare mezzi di prova, documenti di viaggio e d’identità, nonché svolgere accertamenti specifici sulla provenienza e sull’identità del richiedente.
 
-<sup>3</sup> La SEM informa il richiedente dei suoi diritti e doveri nella procedura d’asilo. Può interrogarlo sulla sua identità, sull’itinerario seguito e sommariamente sui motivi che lo hanno indotto a lasciare il suo Paese. La SEM può interrogare il richiedente su un eventuale traffico di migranti a scopo di lucro. Accerta con il richiedente se la domanda d’asilo è sufficientemente motivata. Se questa condizione non è adempiuta e il richiedente ritira la domanda, questa è stralciata senza formalità ed è avviata la procedura per il ritorno.
+<sup>3</sup> La SEM informa il richiedente dei suoi diritti e doveri nella procedura d’asilo. Dopo gli accertamenti secondo il capoverso 1<sup>ter</sup> o se non sono necessari accertamenti giacché la persona vi è già stata sottoposta, la SEM può interrogarlo sulla sua identità, sull’itinerario seguito e sommariamente sui motivi che lo hanno indotto a lasciare il suo Paese.[^26-7] La SEM può interrogare il richiedente su un eventuale traffico di migranti a scopo di lucro. Accerta con il richiedente se la domanda d’asilo è sufficientemente motivata. Se questa condizione non è adempiuta e il richiedente ritira la domanda, questa è stralciata senza formalità ed è avviata la procedura per il ritorno.
 
-<sup>4</sup> Durante la fase preparatoria sono effettuati il confronto dei dati secondo l’articolo 102*a*<sup>bis</sup> capoversi 2–3 e la verifica delle impronte digitali secondo l’articolo 102*a*<sup>ter</sup> capoverso 1 ed è presentata la domanda di presa o ripresa in carico al competente Stato vincolato da un Accordo di associazione alla normativa di Dublino.
+<sup>3bis</sup> L’audizione secondo l’articolo 22 del regolamento (UE) 2024/1351[^26-8] precede la procedura Dublino (art. 26*b*). È registrata su un supporto audio e ne viene redatta una sintesi scritta. Il richiedente l’asilo ne è informato in anticipo. La registrazione audio rientra tra gli atti che possono essere consultati sul posto.[^26-9]
+
+<sup>3ter</sup> Il Consiglio federale può stabilire in quali casi è possibile esimersi, in via eccezionale, da una registrazione audio.[^26-10]
+
+<sup>3quater</sup>
+
+Il Consiglio federale disciplina le modalità della registrazione audio e della sintesi scritta del colloquio secondo il capoverso 3<sup>bis</sup>. Definisce nello specifico:
+
+- a. lo scopo e la tipologia della registrazione;
+- b. il luogo e le modalità di conservazione e archiviazione della registrazione;
+- c. le modalità del diritto di consultare gli atti;
+- d. gli accessi alla registrazione;
+- e. la procedura in caso di guasto tecnico o di registrazione errata.[^26-11]
+
+<sup>4</sup> Durante la fase preparatoria sono effettuati il confronto dei dati secondo l’articolo 102*a*<sup>bis</sup> capoversi 2–3 e la verifica delle impronte digitali secondo l’articolo 102*a*<sup>ter</sup> capoverso 1 ed è presentata la domanda di presa o ripresa in carico al competente Stato vincolato da un Accordo di associazione alla normativa di Dublino (Stato Dublino).[^26-12]
 
 <sup>5</sup> La SEM può incaricare terzi di svolgere i compiti di cui al capoverso 2. I terzi incaricati sottostanno allo stesso obbligo del segreto che vincola il personale della Confederazione.
 
 [^26-1]: Nuovo testo giusta la cifra I della LF del 25 set. 2015, in vigore dal 1° mar. 2019 ([RU 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521); [2018 2855](https://fedlex.data.admin.ch/eli/oc/2018/438); [FF 2014 6917](https://fedlex.data.admin.ch/eli/fga/2014/1715)).
+[^26-2]: Nuovo testo giusta l’all. 1 n. 2 del DF del 26 set. 2025 che approva e traspone nel diritto svizzero lo scambio di note tra la Svizzera e l’UE concernente il recepimento del regolamento (UE) 2024/1356 che introduce accertamenti nei confronti dei cittadini di paesi terzi alle frontiere esterne e modifica i regolamenti (CE) n. 767/2008, (UE) 2017/2226, (UE) 2018/1240 e (UE) 2019/817, in vigore dal 12 giu. 2026 ([RU 2026 230](https://fedlex.data.admin.ch/eli/oc/2026/230); [FF 2025 1478](https://fedlex.data.admin.ch/eli/fga/2025/1478)).
+[^26-3]: Cfr. nota a piè di pagina relativa all’art. 21*a* cpv. 1.
+[^26-4]: Introdotto dall’all. 1 n. 2 del DF del 26 set. 2025 che approva e traspone nel diritto svizzero lo scambio di note tra la Svizzera e l’UE concernente il recepimento del regolamento (UE) 2024/1356 che introduce accertamenti nei confronti dei cittadini di paesi terzi alle frontiere esterne e modifica i regolamenti (CE) n. 767/2008, (UE) 2017/2226, (UE) 2018/1240 e (UE) 2019/817, in vigore dal 12 giu. 2026 ([RU 2026 230](https://fedlex.data.admin.ch/eli/oc/2026/230); [FF 2025 1478](https://fedlex.data.admin.ch/eli/fga/2025/1478)).
+[^26-5]: Introdotto dall’all. 1 n. 2 del DF del 26 set. 2025 che approva e traspone nel diritto svizzero lo scambio di note tra la Svizzera e l’UE concernente il recepimento del regolamento (UE) 2024/1356 che introduce accertamenti nei confronti dei cittadini di paesi terzi alle frontiere esterne e modifica i regolamenti (CE) n. 767/2008, (UE) 2017/2226, (UE) 2018/1240 e (UE) 2019/817, in vigore dal 12 giu. 2026 ([RU 2026 230](https://fedlex.data.admin.ch/eli/oc/2026/230); [FF 2025 1478](https://fedlex.data.admin.ch/eli/fga/2025/1478)).
+[^26-6]: Introdotto dall’all. 1 n. 2 del DF del 26 set. 2025 che approva e traspone nel diritto svizzero lo scambio di note tra la Svizzera e l’UE concernente il recepimento del regolamento (UE) 2024/1356 che introduce accertamenti nei confronti dei cittadini di paesi terzi alle frontiere esterne e modifica i regolamenti (CE) n. 767/2008, (UE) 2017/2226, (UE) 2018/1240 e (UE) 2019/817, in vigore dal 12 giu. 2026 ([RU 2026 230](https://fedlex.data.admin.ch/eli/oc/2026/230); [FF 2025 1478](https://fedlex.data.admin.ch/eli/fga/2025/1478)).
+[^26-7]: Nuovo testo del per. giusta l’all. 1 n. 2 del DF del 26 set. 2025 che approva e traspone nel diritto svizzero lo scambio di note tra la Svizzera e l’UE concernente il recepimento del regolamento (UE) 2024/1356 che introduce accertamenti nei confronti dei cittadini di paesi terzi alle frontiere esterne e modifica i regolamenti (CE) n. 767/2008, (UE) 2017/2226, (UE) 2018/1240 e (UE) 2019/817, in vigore dal 12 giu. 2026 ([RU 2026 230](https://fedlex.data.admin.ch/eli/oc/2026/230); [FF 2025 1478](https://fedlex.data.admin.ch/eli/fga/2025/1478)).
+[^26-8]: Cfr. nota a piè di pagina relativa all’art. 8*b*.
+[^26-9]: Introdotto dall’all. 1 n. 2 del DF del 26 set. 2025 che approva e traspone nel diritto svizzero gli scambi di note tra la Svizzera e l’UE concernenti il recepimento del regolamento (UE) 2024/1351 sulla gestione dell’asilo e della migrazione e del regolamento (UE) 2024/1359 concernente le situazioni di crisi e di forza maggiore nel settore della migrazione e dell’asilo, in vigore dal 12 giu. 2026 ([RU 2026 229](https://fedlex.data.admin.ch/eli/oc/2026/229); [FF 2025 1478](https://fedlex.data.admin.ch/eli/fga/2025/1478)).
+[^26-10]: Introdotto dall’all. 1 n. 2 del DF del 26 set. 2025 che approva e traspone nel diritto svizzero gli scambi di note tra la Svizzera e l’UE concernenti il recepimento del regolamento (UE) 2024/1351 sulla gestione dell’asilo e della migrazione e del regolamento (UE) 2024/1359 concernente le situazioni di crisi e di forza maggiore nel settore della migrazione e dell’asilo, in vigore dal 12 giu. 2026 ([RU 2026 229](https://fedlex.data.admin.ch/eli/oc/2026/229); [FF 2025 1478](https://fedlex.data.admin.ch/eli/fga/2025/1478)).
+[^26-11]: Introdotto dall’all. 1 n. 2 del DF del 26 set. 2025 che approva e traspone nel diritto svizzero gli scambi di note tra la Svizzera e l’UE concernenti il recepimento del regolamento (UE) 2024/1351 sulla gestione dell’asilo e della migrazione e del regolamento (UE) 2024/1359 concernente le situazioni di crisi e di forza maggiore nel settore della migrazione e dell’asilo, in vigore dal 12 giu. 2026 ([RU 2026 229](https://fedlex.data.admin.ch/eli/oc/2026/229); [FF 2025 1478](https://fedlex.data.admin.ch/eli/fga/2025/1478)).
+[^26-12]: Nuovo testo giusta l’all. 1 n. 2 del DF del 26 set. 2025 che approva e traspone nel diritto svizzero gli scambi di note tra la Svizzera e l’UE concernenti il recepimento del regolamento (UE) 2024/1351 sulla gestione dell’asilo e della migrazione e del regolamento (UE) 2024/1359 concernente le situazioni di crisi e di forza maggiore nel settore della migrazione e dell’asilo, in vigore dal 12 giu. 2026 ([RU 2026 229](https://fedlex.data.admin.ch/eli/oc/2026/229); [FF 2025 1478](https://fedlex.data.admin.ch/eli/fga/2025/1478)).
 
 #### Art. 26a
 
@@ -796,9 +871,13 @@ Il Dipartimento federale di giustizia e polizia (DFGP) può emanare disposizioni
 
 **Procedura Dublino**[^26b-1]
 
-La procedura in vista di una decisione di cui all’articolo 31*a* capoverso 1 lettera b ha inizio con la presentazione della domanda a uno Stato Dublino di prendere o riprendere in carico il richiedente l’asilo. Dura fino al trasferimento nello Stato Dublino competente o fino alla sua interruzione e alla decisione relativa allo svolgimento di una procedura celere o ampliata.
+<sup>1</sup> La procedura in vista di una decisione di cui all’articolo 31*a* capoverso 1 lettera b ha inizio con la presentazione della domanda a uno Stato Dublino di prendere o riprendere in carico il richiedente l’asilo. Dura fino al trasferimento nello Stato Dublino competente o fino alla sua interruzione e alla decisione relativa allo svolgimento di una procedura celere o ampliata.
+
+<sup>2</sup> L’articolo 8 capoverso 3<sup>bis</sup> non si applica alle domande di presa in carico secondo l’articolo 38 paragrafo 2 del regolamento (UE) 2024/1351[^26b-2].[^26b-3]
 
 [^26b-1]: Introdotto dalla cifra I della LF del 25 set. 2015, in vigore dal 1° mar. 2019 ([RU 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521); [2018 2855](https://fedlex.data.admin.ch/eli/oc/2018/438); [FF 2014 6917](https://fedlex.data.admin.ch/eli/fga/2014/1715)).
+[^26b-2]: Cfr. nota a piè di pagina relativa all’art. 8*b*.
+[^26b-3]: Introdotto dall’all. 1 n. 2 del DF del 26 set. 2025 che approva e traspone nel diritto svizzero gli scambi di note tra la Svizzera e l’UE concernenti il recepimento del regolamento (UE) 2024/1351 sulla gestione dell’asilo e della migrazione e del regolamento (UE) 2024/1359 concernente le situazioni di crisi e di forza maggiore nel settore della migrazione e dell’asilo, in vigore dal 12 giu. 2026 ([RU 2026 229](https://fedlex.data.admin.ch/eli/oc/2026/229); [FF 2025 1478](https://fedlex.data.admin.ch/eli/fga/2025/1478)).
 
 #### Art. 26c
 
@@ -927,7 +1006,7 @@ Di norma la SEM non entra nel merito della domanda d’asilo se il richiedente:
 
 <sup>1</sup>
 
-Il richiedente oggetto di una decisione negativa in materia di asilo e di una decisione di allontanamento passata in giudicato, prese da uno Stato vincolato da un accordo di associazione alla normativa di Dublino (Stato Dublino), può essere allontanato direttamente nel suo Stato d’origine o di provenienza, conformemente alle condizioni della direttiva 2001/40/CE[^31b-2], se:
+Il richiedente oggetto di una decisione negativa in materia di asilo e di una decisione di allontanamento passata in giudicato, prese da uno Stato Dublino, può essere allontanato direttamente nel suo Stato d’origine o di provenienza, conformemente alle condizioni della direttiva 2001/40/CE[^31b-2], se:[^31b-3]
 
 - a. lo Stato Dublino competente non esegue per lungo tempo allontanamenti verso lo Stato d’origine o di provenienza del richiedente; e
 - b. verosimilmente l’allontanamento dalla Svizzera può essere eseguito celermente.
@@ -935,7 +1014,8 @@ Il richiedente oggetto di una decisione negativa in materia di asilo e di una de
 <sup>2</sup> Il CEM sollecita presso le autorità competenti dello Stato Dublino interessato le informazioni necessarie per l’esecuzione dell’allontanamento e prende gli accordi del caso.
 
 [^31b-1]: Introdotto dalla cifra I della LF del 26 set. 2014, in vigore dal 1° lug. 2015 ([RU 2015 1871](https://fedlex.data.admin.ch/eli/oc/2015/360); [FF 2014 2935](https://fedlex.data.admin.ch/eli/fga/2014/708)).
-[^31b-2]: Direttiva 2001/40/CE del Consiglio, del 28 mag. 2001, relativa al riconoscimento reciproco delle decisioni di allontanamento dei cittadini di paesi terzi, GU L 149 del 2.6.2001, pag. 34.
+[^31b-2]: Direttiva 2001/40/CE del Consiglio del 28 mag. 2001 relativa al riconoscimento reciproco delle decisioni di allontanamento dei cittadini di paesi terzi, GU L 149 del 2.6.2001, pag. 34.
+[^31b-3]: Nuovo testo giusta l’all. 1 n. 2 del DF del 26 set. 2025 che approva e traspone nel diritto svizzero gli scambi di note tra la Svizzera e l’UE concernenti il recepimento del regolamento (UE) 2024/1351 sulla gestione dell’asilo e della migrazione e del regolamento (UE) 2024/1359 concernente le situazioni di crisi e di forza maggiore nel settore della migrazione e dell’asilo, in vigore dal 12 giu. 2026 ([RU 2026 229](https://fedlex.data.admin.ch/eli/oc/2026/229); [FF 2025 1478](https://fedlex.data.admin.ch/eli/fga/2025/1478)).
 
 #### Art. 32 a 35
 
@@ -947,10 +1027,10 @@ Il richiedente oggetto di una decisione negativa in materia di asilo e di una de
 
 **Ripresa della procedura d’asilo nell’ambito della procedura Dublino**[^35a-1]
 
-Se in virtù del regolamento (UE) n. 604/2013[^35a-2] l’esame della domanda d’asilo spetta alla Svizzera, la procedura d’asilo è ripresa, anche se la domanda è stata precedentemente stralciata.
+Se in virtù del regolamento (UE) 2024/1351[^35a-2] l’esame della domanda d’asilo spetta alla Svizzera, la procedura d’asilo è ripresa, anche se la domanda è stata precedentemente stralciata.
 
-[^35a-1]: Introdotto dalla cifra I della L del 16 dic. 2005 ([RU 2006 4745](https://fedlex.data.admin.ch/eli/oc/2006/727); [FF 2002 6087](https://fedlex.data.admin.ch/eli/fga/2002/1106)). Nuovo testo giusta l’all. cifra I n. 2 del DF del 26 set. 2014 (Recepimento del regolamento [UE] n. 604/2013 che stabilisce i criteri e i meccanismi di determinazione dello Stato membro competente per l’esame di una domanda di protezione internazionale), in vigore dal 1° lug. 2015 ([RU 2015 1841](https://fedlex.data.admin.ch/eli/oc/2015/357); [FF 2014 2411](https://fedlex.data.admin.ch/eli/fga/2014/489)).
-[^35a-2]: Cfr. nota a piè di pagina relativa all’art. 22 cpv. 1<sup>ter</sup>.
+[^35a-1]: Introdotto dalla cifra I della L del 16 dic. 2005 ([RU 2006 4745](https://fedlex.data.admin.ch/eli/oc/2006/727); [FF 2002 6087](https://fedlex.data.admin.ch/eli/fga/2002/1106)). Nuovo testo giusta l’all. 1 n. 2 del DF del 26 set. 2025 che approva e traspone nel diritto svizzero gli scambi di note tra la Svizzera e l’UE concernenti il recepimento del regolamento (UE) 2024/1351 sulla gestione dell’asilo e della migrazione e del regolamento (UE) 2024/1359 concernente le situazioni di crisi e di forza maggiore nel settore della migrazione e dell’asilo, in vigore dal 12 giu. 2026 ([RU 2026 229](https://fedlex.data.admin.ch/eli/oc/2026/229); [FF 2025 1478](https://fedlex.data.admin.ch/eli/fga/2025/1478)).
+[^35a-2]: Cfr. nota a piè di pagina relativa all’art. 8*b*.
 
 #### Art. 36
 
@@ -972,7 +1052,7 @@ In caso di decisione di non entrata nel merito secondo l’articolo 31*a* capove
 
 **Termini procedurali di prima istanza**[^37-1]
 
-<sup>1</sup> Nella procedura Dublino (art. 26*b*) le decisioni devono essere notificate entro tre giorni lavorativi dall’approvazione da parte dello Stato Dublino interessato dalla domanda di trasferimento secondo gli articoli 21 e 23 del regolamento (UE) n. 604/2013[^37-2].
+<sup>1</sup> Nella procedura Dublino (art. 26*b*) le decisioni sono notificate entro tre giorni lavorativi dall’approvazione della domanda di trasferimento secondo gli articoli 39 e 41 del regolamento (UE) 2024/1351[^37-2] da parte dello Stato Dublino interessato.[^37-3]
 
 <sup>2</sup> Nella procedura celere (art. 26*c*) le decisioni devono essere notificate entro otto giorni lavorativi dalla conclusione della fase preparatoria.
 
@@ -982,14 +1062,15 @@ In caso di decisione di non entrata nel merito secondo l’articolo 31*a* capove
 
 <sup>5</sup> Nei casi rimanenti le decisioni di non entrata nel merito devono essere prese entro cinque giorni lavorativi e le altre decisioni entro dieci giorni lavorativi dal deposito della domanda.
 
-<sup>6</sup> Se il richiedente è incarcerato in vista d’estradizione su richiesta dello Stato da cui cerca protezione in Svizzera, la SEM decide senza indugio e in via prioritaria. Lo stesso vale anche se nei suoi confronti è stata pronunciata l’espulsione secondo l’articolo 66*a* o 66*a*<sup>bis</sup> del Codice penale (CP)[^37-3], l’articolo 49*a* o 49*a*<sup>bis</sup> del Codice penale militare del 13 giugno 1927[^37-4] (CPM) o l’articolo 68 LStrI[^37-5].[^37-6]
+<sup>6</sup> Se il richiedente è incarcerato in vista d’estradizione su richiesta dello Stato da cui cerca protezione in Svizzera, la SEM decide senza indugio e in via prioritaria. Lo stesso vale anche se nei suoi confronti è stata pronunciata l’espulsione secondo l’articolo 66*a* o 66*a*<sup>bis</sup> del Codice penale (CP)[^37-4], l’articolo 49*a* o 49*a*<sup>bis</sup> del Codice penale militare del 13 giugno 1927[^37-5] (CPM) o l’articolo 68 LStrI[^37-6].[^37-7]
 
 [^37-1]: Nuovo testo giusta le cifre I e IV n. 2 per i cpv. 4 e 6 della LF del 25 set. 2015, in vigore dal 1° mar. 2019 ([RU 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521); [2018 2855](https://fedlex.data.admin.ch/eli/oc/2018/438); [FF 2014 6917](https://fedlex.data.admin.ch/eli/fga/2014/1715)).
-[^37-2]: Regolamento (UE) n. 604/2013 del Parlamento europeo e del Consiglio, del 26 giugno 2013, che stabilisce i criteri e i meccanismi di determinazione dello Stato membro competente per l’esame di una domanda di protezione internazionale presentata in uno degli Stati membri da un cittadino di un paese terzo o da un apolide (rifusione), GU L 180 del 29.6.2013, pag. 31.
-[^37-3]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
-[^37-4]: [RS 321.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6242)
-[^37-5]: [RS 142.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4851)
-[^37-6]: Nuovo testo giusta la cifra I n. 3 della LF del 25 set. 2020 sulle misure di polizia per la lotta al terrorismo, in vigore dal 1° giu. 2022 ([RU 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [FF 2019 3935](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
+[^37-2]: Cfr. nota a piè di pagina relativa all’art. 8*b*.
+[^37-3]: Nuovo testo giusta l’all. 1 n. 2 del DF del 26 set. 2025 che approva e traspone nel diritto svizzero gli scambi di note tra la Svizzera e l’UE concernenti il recepimento del regolamento (UE) 2024/1351 sulla gestione dell’asilo e della migrazione e del regolamento (UE) 2024/1359 concernente le situazioni di crisi e di forza maggiore nel settore della migrazione e dell’asilo, in vigore dal 12 giu. 2026 ([RU 2026 229](https://fedlex.data.admin.ch/eli/oc/2026/229); [FF 2025 1478](https://fedlex.data.admin.ch/eli/fga/2025/1478)).
+[^37-4]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^37-5]: [RS 321.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6242)
+[^37-6]: [RS 142.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4851)
+[^37-7]: Nuovo testo giusta la cifra I n. 3 della LF del 25 set. 2020 sulle misure di polizia per la lotta al terrorismo, in vigore dal 1° giu. 2022 ([RU 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [FF 2019 3935](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
 
 #### Art. 37a
 
@@ -1726,7 +1807,7 @@ Le prestazioni di aiuto sociale o le prestazioni ridotte di cui all’articolo 8
 
 <sup>2</sup> Le prestazioni di aiuto sociale ottenute indebitamente devono essere restituite integralmente. L’importo da restituire può segnatamente essere detratto da future prestazioni di aiuto sociale. Il Cantone fa valere la pretesa di restituzione. L’articolo 85 capoverso 3 è applicabile.[^83-8]
 
-[^83-1]: Nuova espressione giusta la cifra I della L del 16 dic. 2005, in vigore dal 1° gen. 2008 ([RU 2006 4745](https://fedlex.data.admin.ch/eli/oc/2006/727); [2007 5573](https://fedlex.data.admin.ch/eli/oc/2007/765); [FF 2002 6087](https://fedlex.data.admin.ch/eli/fga/2002/1106)). Di detta mod. è tenuto conto in tutto il presente testo.
+[^83-1]: Nuova espr. giusta la cifra I della L del 16 dic. 2005, in vigore dal 1° gen. 2008 ([RU 2006 4745](https://fedlex.data.admin.ch/eli/oc/2006/727); [2007 5573](https://fedlex.data.admin.ch/eli/oc/2007/765); [FF 2002 6087](https://fedlex.data.admin.ch/eli/fga/2002/1106)). Di detta mod. è tenuto conto in tutto il presente testo.
 [^83-2]: Nuovo testo giusta la cifra I della LF del 14 dic. 2012, in vigore dal 1° feb. 2014 ([RU 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778), [5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [FF 2010 3889](https://fedlex.data.admin.ch/eli/fga/2010/794); [2011 6503](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
 [^83-3]: Introdotta dalla cifra I della LF del 14 dic. 2012, in vigore dal 1° feb. 2014 ([RU 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778), [5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [FF 2010 3889](https://fedlex.data.admin.ch/eli/fga/2010/794); [2011 6503](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
 [^83-4]: Introdotta dalla cifra I della LF del 14 dic. 2012, in vigore dal 1° feb. 2014 ([RU 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778), [5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [FF 2010 3889](https://fedlex.data.admin.ch/eli/fga/2010/794); [2011 6503](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
@@ -2239,15 +2320,15 @@ La SEM o il Tribunale amministrativo federale comunica alle competenti autorità
 
 #### Art. 99
 
-**Esame dattiloscopico**
+**Rilevamento e valutazione delle impronte digitali e dell’immagine del volto[^99-1]**
 
-<sup>1</sup> Ai richiedenti l’asilo e alle persone bisognose di protezione sono rilevate le impronte di tutte le dita e scattate fotografie. Il Consiglio federale può stabilire eccezioni per minori di età inferiore ai 14 anni.[^99-1]
+<sup>1</sup> Ai richiedenti l’asilo e alle persone bisognose di protezione di età non inferiore a sei anni sono rilevate le impronte di tutte le dita e l’immagine del volto.[^99-2]
 
-<sup>2</sup> Le impronte digitali e le fotografie sono registrate, senza le corrispondenti generalità, in una banca dati gestita dall’Ufficio federale di polizia e dalla SEM.[^99-2]
+<sup>2</sup> Le impronte digitali e l’immagine del volto sono registrate, senza le corrispondenti generalità, in una banca dati gestita da fedpol e dalla SEM.[^99-3]
 
-<sup>3</sup> Le nuove impronte digitali sono confrontate con quelle della banca dati gestita dall’Ufficio federale di polizia.[^99-3]
+<sup>3</sup> Le impronte digitali e l’immagine del volto rilevate sono confrontate con quelle della banca dati gestita da fedpol.[^99-4]
 
-<sup>4</sup> Se constata una concordanza con un’impronta digitale già registrata, l’Ufficio federale di polizia ne informa la SEM, nonché le autorità cantonali di polizia interessate e il Corpo delle guardie di confine, indicando le generalità della persona interessata (cognome, nome, pseudonimi, data di nascita, sesso, numero di riferimento, numero personale, cittadinanza, numero di controllo del processo e Cantone di attribuzione). Per i rilevamenti fatti dalla polizia si comunicano inoltre, in forma cifrata, la data, il luogo e il motivo del rilevamento delle impronte digitali.[^99-4]
+<sup>4</sup> Se constata una concordanza con un’impronta digitale o un’immagine del volto già registrata, fedpol ne informa la SEM, nonché le autorità cantonali di polizia interessate e il Corpo delle guardie di confine, indicando le generalità della persona interessata (cognome, nome, pseudonimi, data di nascita, sesso, numero di riferimento, numero personale, cittadinanza, numero di controllo del processo e Cantone di attribuzione). Per i rilevamenti effettuati dalla polizia si comunicano inoltre, in forma cifrata, la data, il luogo e il motivo del rilevamento delle impronte digitali e dell’immagine del volto.[^99-5]
 
 <sup>5</sup>
 
@@ -2259,7 +2340,7 @@ La SEM utilizza queste indicazioni per:
 - d. verificare se esistono dati che indicano che la persona interessata non è degna di ottenere asilo;
 - e. facilitare l’assistenza amministrativa alle autorità di polizia.
 
-<sup>6</sup> I dati personali trasmessi in virtù del capoverso 4 possono essere comunicati all’estero soltanto con il consenso del titolare del trattamento. È applicabile per analogia l’articolo 16 capoverso 1 LPD[^99-5].[^99-6]
+<sup>6</sup> I dati personali trasmessi in virtù del capoverso 4 possono essere comunicati all’estero soltanto con il consenso del titolare del trattamento. È applicabile per analogia l’articolo 16 capoverso 1 LPD[^99-6].[^99-7]
 
 <sup>7</sup>
 
@@ -2267,15 +2348,16 @@ I dati sono distrutti:
 
 - a. se l’asilo è accordato;
 - b. dieci anni al più tardi dopo il rifiuto, il ritiro o lo stralcio passati in giudicato di una domanda d’asilo o dopo una decisione di non entrata nel merito;
-- c.[^99-7] per le persone bisognose di protezione, al più tardi dieci anni dopo la soppressione della protezione provvisoria.
+- c.[^99-8] per le persone bisognose di protezione, al più tardi dieci anni dopo la soppressione della protezione provvisoria.
 
-[^99-1]: Nuovo testo giusta l’art. 3 n. 2 del DF del 17 dic. 2004 che approva e traspone nel diritto svizzero gli Acc. bilaterali con l’UE per l’associazione della Svizzera alla normativa di Schengen e Dublino, in vigore dal 12 dic. 2008 ([RU 2008 447](https://fedlex.data.admin.ch/eli/oc/2008/112), [5405](https://fedlex.data.admin.ch/eli/oc/2008/755)art. 1 lett. a; [FF 2004 5273](https://fedlex.data.admin.ch/eli/fga/2004/1084)).
-[^99-2]: Nuovo testo giusta la cifra I della L del 16 dic. 2005, in vigore dal 1° gen. 2008 ([RU 2006 4745](https://fedlex.data.admin.ch/eli/oc/2006/727); [2007 5573](https://fedlex.data.admin.ch/eli/oc/2007/765); [FF 2002 6087](https://fedlex.data.admin.ch/eli/fga/2002/1106)).
-[^99-3]: Nuovo testo giusta la cifra I della L del 16 dic. 2005, in vigore dal 1° gen. 2008 ([RU 2006 4745](https://fedlex.data.admin.ch/eli/oc/2006/727); [2007 5573](https://fedlex.data.admin.ch/eli/oc/2007/765); [FF 2002 6087](https://fedlex.data.admin.ch/eli/fga/2002/1106)).
-[^99-4]: Nuovo testo giusta la cifra I della L del 16 dic. 2005, in vigore dal 1° gen. 2008 ([RU 2006 4745](https://fedlex.data.admin.ch/eli/oc/2006/727); [2007 5573](https://fedlex.data.admin.ch/eli/oc/2007/765); [FF 2002 6087](https://fedlex.data.admin.ch/eli/fga/2002/1106)).
-[^99-5]: [RS 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
-[^99-6]: Nuovo testo giusta l’all. 1 cifra II n. 5 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
-[^99-7]: Nuovo testo giusta la cifra I della L del 16 dic. 2005, in vigore dal 1° gen. 2008 ([RU 2006 4745](https://fedlex.data.admin.ch/eli/oc/2006/727); [2007 5573](https://fedlex.data.admin.ch/eli/oc/2007/765); [FF 2002 6087](https://fedlex.data.admin.ch/eli/fga/2002/1106)).
+[^99-1]: Nuovo testo giusta l’all. 1 n. 2 del DF del 26 set. 2025 che approva e traspone nel diritto svizzero lo scambio di note tra la Svizzera e l’UE concernente il recepimento del regolamento (UE) 2024/1358 che istituisce l’«Eurodac» per il confronto dei dati biometrici, in vigore dal 12 giu. 2026 ([RU 2026 231](https://fedlex.data.admin.ch/eli/oc/2026/231); [FF 2025 1478](https://fedlex.data.admin.ch/eli/fga/2025/1478)).
+[^99-2]: Nuovo testo giusta l’all. 1 n. 2 del DF del 26 set. 2025 che approva e traspone nel diritto svizzero lo scambio di note tra la Svizzera e l’UE concernente il recepimento del regolamento (UE) 2024/1358 che istituisce l’«Eurodac» per il confronto dei dati biometrici, in vigore dal 12 giu. 2026 ([RU 2026 231](https://fedlex.data.admin.ch/eli/oc/2026/231); [FF 2025 1478](https://fedlex.data.admin.ch/eli/fga/2025/1478)).
+[^99-3]: Nuovo testo giusta l’all. 1 n. 2 del DF del 26 set. 2025 che approva e traspone nel diritto svizzero lo scambio di note tra la Svizzera e l’UE concernente il recepimento del regolamento (UE) 2024/1358 che istituisce l’«Eurodac» per il confronto dei dati biometrici, in vigore dal 12 giu. 2026 ([RU 2026 231](https://fedlex.data.admin.ch/eli/oc/2026/231); [FF 2025 1478](https://fedlex.data.admin.ch/eli/fga/2025/1478)).
+[^99-4]: Nuovo testo giusta l’all. 1 n. 2 del DF del 26 set. 2025 che approva e traspone nel diritto svizzero lo scambio di note tra la Svizzera e l’UE concernente il recepimento del regolamento (UE) 2024/1358 che istituisce l’«Eurodac» per il confronto dei dati biometrici, in vigore dal 12 giu. 2026 ([RU 2026 231](https://fedlex.data.admin.ch/eli/oc/2026/231); [FF 2025 1478](https://fedlex.data.admin.ch/eli/fga/2025/1478)).
+[^99-5]: Nuovo testo giusta l’all. 1 n. 2 del DF del 26 set. 2025 che approva e traspone nel diritto svizzero lo scambio di note tra la Svizzera e l’UE concernente il recepimento del regolamento (UE) 2024/1358 che istituisce l’«Eurodac» per il confronto dei dati biometrici, in vigore dal 12 giu. 2026 ([RU 2026 231](https://fedlex.data.admin.ch/eli/oc/2026/231); [FF 2025 1478](https://fedlex.data.admin.ch/eli/fga/2025/1478)).
+[^99-6]: [RS 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
+[^99-7]: Nuovo testo giusta l’all. 1 cifra II n. 5 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^99-8]: Nuovo testo giusta la cifra I della L del 16 dic. 2005, in vigore dal 1° gen. 2008 ([RU 2006 4745](https://fedlex.data.admin.ch/eli/oc/2006/727); [2007 5573](https://fedlex.data.admin.ch/eli/oc/2007/765); [FF 2002 6087](https://fedlex.data.admin.ch/eli/fga/2002/1106)).
 
 ### Sezione 1*a*: Sistema d’informazione per i centri della Confederazione e gli alloggi negli aeroporti
 
@@ -2415,69 +2497,143 @@ Ai fini della gestione delle indennità da versare ai Cantoni, l’Ufficio feder
 
 #### Art. 102a<sup>bis</sup>
 
-**Eurodac**
+**Sistema d’informazione Eurodac**[^102abis-1]
 
-<sup>1</sup> La SEM, insieme all’unità centrale del sistema Eurodac, è competente nell’ambito dell’applicazione degli accordi di associazione alla normativa di Dublino[^102abis-1].
+<sup>1</sup>
+
+In virtù del regolamento (UE) 2024/1358[^102abis-2] il Sistema d’informazione Eurodac (Eurodac) contiene i dati personali dei cittadini di Stati terzi di età non inferiore a sei anni che:
+
+- a. hanno depositato una domanda d’asilo;
+- b. partecipano a una procedura di ammissione di gruppi di rifugiati o sono ammessi nel quadro di una siffatta procedura;
+- c. sono stati soccorsi in mare;
+- d. hanno ottenuto una protezione provvisoria e fanno parte di un gruppo di persone bisognose di protezione;
+- e. sono entrati illegalmente nello spazio Schengen da uno Stato che non è vincolato da un accordo di associazione alla normativa di Dublino;
+- f. soggiornano illegalmente nello spazio Schengen.
 
 <sup>2</sup>
 
-La SEM trasmette i seguenti dati all’unità centrale entro 72 ore dalla presentazione della domanda:
+Le seguenti categorie di dati vengono trasmesse all’Eurodac tramite un’interfaccia nazionale unica:
 
-- a. il luogo e la data della presentazione della domanda in Svizzera;
-- b. il sesso della persona richiedente;
-- c. le impronte digitali rilevate conformemente all’articolo 99 capoverso 1;
-- d. la data del rilevamento delle impronte digitali;
-- e. il numero d’identificazione svizzero delle impronte digitali;
-- f. la data della trasmissione dei dati all’unità centrale;
-- g. il codice d’identificazione dell’operatore.[^102abis-2]
+- a. i dati d’identità relativi ai cittadini di un Paese terzo interessati nonché i dati relativi ai documenti di viaggio e d’identità;
+- b. le impronte digitali e l’immagine del volto;
+- c. i dati relativi alle procedure e alle competenze negli Stati Schengen e negli Stati Dublino;
+- d. altri dati personali compresi i dati degni di particolare protezione secondo i capi II–VIII del regolamento (UE) 2024/1358, riguardanti la persona e la sua identità.
 
-<sup>2bis</sup> Se lo stato delle dita dell’interessato impedisce il rilevamento dattiloscopico, le impronte digitali devono essere trasmesse all’unità centrale entro 48 ore dopo che il rilevamento sia nuovamente possibile con la qualità richiesta. Se lo stato di salute dell’interessato o misure adottate per motivi di salute pubblica impediscono il rilevamento dattiloscopico, le impronte digitali devono essere trasmesse all’unità centrale entro 48 ore dopo che il motivo dell’impedimento sia cessato.[^102abis-3]
+<sup>3</sup> I dati di cui al capoverso 2 lettere a e b vengono registrati in modo automatizzato nell’archivio comune di dati di identità (CIR).
 
-<sup>2ter</sup> Se gravi problemi tecnici impediscono la trasmissione dei dati, è accordato un termine supplementare di 48 ore per adottare le misure necessarie al fine di garantire il funzionamento del sistema.[^102abis-4]
-
-<sup>2quater</sup>
-
-La SEM trasmette parimenti i seguenti dati all’unità centrale:
-
-- a. se il richiedente è preso in carico conformemente al regolamento (UE) n. 604/2013[^102abis-5], la data dell’arrivo in Svizzera;
-- b. se il richiedente è ripreso in carico conformemente al regolamento (UE) n. 604/2013, la data dell’arrivo in Svizzera;
-- c. se vi è la prova che un richiedente di cui la Svizzera è tenuta a trattare la domanda d’asilo in virtù del regolamento (UE) n. 604/2013 ha lasciato per almeno tre mesi il territorio degli Stati Dublino, la data della partenza;
-- d. se l’allontanamento è eseguito con successo, la data dell’espulsione o della partenza del richiedente dal territorio degli Stati Dublino;
-- e. se in virtù della clausola di sovranità del regolamento (UE) n. 604/2013 la Svizzera diventa volontariamente lo Stato Dublino competente per l’esame della domanda, la data di tale decisione.[^102abis-6]
-
-<sup>3</sup> I dati trasmessi sono registrati nella banca dati Eurodac e confrontati automaticamente con i dati che già vi si trovano. Il risultato del confronto è comunicato alla SEM.[^102abis-7]
-
-<sup>4</sup> I dati trasmessi all’unità centrale sono distrutti automaticamente dieci anni dopo il rilevamento delle impronte digitali. La SEM chiede all’unità centrale di distruggerli anzitempo non appena viene a conoscenza del fatto che uno Stato vincolato da un accordo di associazione alla normativa di Dublino ha nel frattempo concesso la cittadinanza a una persona i cui dati sono stati trasmessi dalla Svizzera alla banca dati Eurodac.
-
-[^102abis-1]: Acc. del 26 ott. 2004 tra la Confederazione Svizzera e la Comunità europea sui criteri e i meccanismi per determinare lo Stato competente per l’esame di una domanda di asilo presentata in uno degli Stati membri o in Svizzera ([RS 0.142.392.68](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/443)); Prot. del 28 feb. 2008 sulla partecipazione del Regno di Danimarca all’Acc. di associazione alla normativa di Dublino ([RS 0.142.393.141](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/451)); Acc. del 17 dic. 2004 tra la Confederazione Svizzera, la Repubblica d’Islanda e il Regno di Norvegia sull’attuazione, l’applicazione e lo sviluppo dell’acquis di Schengen nonché sui criteri e i meccanismi per determinare lo Stato competente per l’esame di una domanda di asilo presentata in Svizzera, in Islanda o in Norvegia ([RS 0.362.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1519)).
-[^102abis-2]: Nuovo testo giusta l’all. n. 2 del DF del 26 set. 2014 (recepimento del R [UE] n. 603/2013 che istituisce l’«Eurodac» e che modifica il R [UE] n. 1077/2011 che istituisce l’agenzia IT), in vigore dal 20 lug. 2015 ([RU 2015 2323](https://fedlex.data.admin.ch/eli/oc/2015/432); [FF 2014 2411](https://fedlex.data.admin.ch/eli/fga/2014/489)).
-[^102abis-3]: Introdotto dall’all. n. 2 del DF del 26 set. 2014 (recepimento del R [UE] n. 603/2013 che istituisce l’«Eurodac» e che modifica il R [UE] n. 1077/2011 che istituisce l’agenzia IT), in vigore dal 20 lug. 2015 ([RU 2015 2323](https://fedlex.data.admin.ch/eli/oc/2015/432); [FF 2014 2411](https://fedlex.data.admin.ch/eli/fga/2014/489)).
-[^102abis-4]: Introdotto dall’all. n. 2 del DF del 26 set. 2014 (recepimento del R [UE] n. 603/2013 che istituisce l’«Eurodac» e che modifica il R [UE] n. 1077/2011 che istituisce l’agenzia IT), in vigore dal 20 lug. 2015 ([RU 2015 2323](https://fedlex.data.admin.ch/eli/oc/2015/432); [FF 2014 2411](https://fedlex.data.admin.ch/eli/fga/2014/489)).
-[^102abis-5]: Regolamento (UE) n. 604/2013 del Parlamento europeo e del Consiglio, del 26 giugno 2013, che stabilisce i criteri e i meccanismi di determinazione dello Stato membro competente per l’esame di una domanda di protezione internazionale presentata in uno degli Stati membri da un cittadino di un paese terzo o da un apolide (rifusione), versione della GU L 180 del 29.6.2013, pag. 31.
-[^102abis-6]: Introdotto dall’all. n. 2 del DF del 26 set. 2014 (recepimento del R [UE] n. 603/2013 che istituisce l’«Eurodac» e che modifica il R [UE] n. 1077/2011 che istituisce l’agenzia IT), in vigore dal 20 lug. 2015 ([RU 2015 2323](https://fedlex.data.admin.ch/eli/oc/2015/432); [FF 2014 2411](https://fedlex.data.admin.ch/eli/fga/2014/489)).
-[^102abis-7]: Nuovo testo giusta l’all. n. 2 del DF del 26 set. 2014 (recepimento del R [UE] n. 603/2013 che istituisce l’«Eurodac» e che modifica il R [UE] n. 1077/2011 che istituisce l’agenzia IT), in vigore dal 20 lug. 2015 ([RU 2015 2323](https://fedlex.data.admin.ch/eli/oc/2015/432); [FF 2014 2411](https://fedlex.data.admin.ch/eli/fga/2014/489)).
+[^102abis-1]: Nuovo testo giusta l’all. 1 n. 2 del DF del 26 set. 2025 che approva e traspone nel diritto svizzero lo scambio di note tra la Svizzera e l’UE concernente il recepimento del regolamento (UE) 2024/1358 che istituisce l’«Eurodac» per il confronto dei dati biometrici, in vigore dal 12 giu. 2026 ([RU 2026 231](https://fedlex.data.admin.ch/eli/oc/2026/231); [FF 2025 1478](https://fedlex.data.admin.ch/eli/fga/2025/1478)).
+[^102abis-2]: Regolamento (UE) 2024/1358 del Parlamento europeo e del Consiglio, del 14 maggio 2024, che istituisce l’«Eurodac» per il confronto dei dati biometrici ai fini dell’applicazione efficace dei regolamenti (UE) 2024/1351 e (UE) 2024/1350 del Parlamento europeo e del Consiglio e della direttiva 2001/55/CE del Consiglio e ai fini dell’identificazione dei cittadini di paesi terzi e apolidi il cui soggiorno è irregolare, e per le richieste di confronto con i dati Eurodac presentate dalle autorità di contrasto degli Stati membri e da Europol a fini di contrasto, che modifica i regolamenti (UE) 2018/1240 e (UE) 2019/818 del Parlamento europeo e del Consiglio e che abroga il regolamento (UE) n. 603/2013 del Parlamento europeo e del Consiglio, GU L, 2024/1358, 22.05.2024.
 
 #### Art. 102a<sup>ter</sup>
 
-**Verifica delle impronte digitali Eurodac**[^102ater-1]
+**Registrazione, consultazione e trattamento dei dati nell’Eurodac**[^102ater-1]
 
-<sup>1</sup> Un esperto in dattiloscopia controlla le impronte digitali in caso di risultato positivo della consultazione Eurodac.
+<sup>1</sup> Nel quadro dell’applicazione degli Accordi di associazione alla normativa di Dublino[^102ater-2] la SEM è il punto di accesso nazionale. È responsabile della trasmissione e del trattamento dei dati e della comunicazione con l’unità centrale.
 
-<sup>2</sup> La SEM definisce le qualifiche di cui deve disporre l’esperto in dattiloscopia.
+<sup>2</sup>
 
-[^102ater-1]: Introdotto dall’all. n. 2 del DF del 26 set. 2014 (recepimento del R [UE] n. 603/2013 che istituisce l’«Eurodac» e che modifica il R [UE] n. 1077/2011 che istituisce l’agenzia IT), in vigore dal 20 lug. 2015 ([RU 2015 2323](https://fedlex.data.admin.ch/eli/oc/2015/432); [FF 2014 2411](https://fedlex.data.admin.ch/eli/fga/2014/489)).
+Le autorità seguenti possono registrare e consultare dati nell’Eurodac secondo il regolamento (UE) 2024/1358[^102ater-3]:
+
+- a. la SEM, il Corpo delle guardie di confine e la polizia aeroportuale: per l’adempimento dei propri compiti nel settore dell’asilo;
+- b. la SEM e le rappresentanze svizzere all’estero: per l’adempimento dei propri compiti nella procedura di ammissione di gruppi di rifugiati.
+
+<sup>3</sup> Le autorità trasmettono i dati di cui al capoverso 2 all’unità centrale entro 72 ore dal loro rilevamento.
+
+<sup>4</sup> Se lo stato delle dita dell’interessato impedisce il rilevamento dattiloscopico, le impronte digitali sono trasmesse all’unità centrale entro 48 ore dopo che il rilevamento è nuovamente possibile con la qualità richiesta. Se lo stato di salute dell’interessato o misure adottate per motivi di salute pubblica impediscono il rilevamento delle impronte digitali e dell’immagine del volto, queste sono trasmesse all’unità centrale entro 48 ore dalla cessazione del motivo dell’impedimento.
+
+<sup>5</sup> I dati trasmessi secondo il capoverso 2 sono registrati nell’Eurodac e i dati biometrici sono confrontati automaticamente con i dati che già vi si trovano. Il confronto si basa sull’immagine del volto unicamente se non è possibile basarsi sulle impronte digitali. Il risultato del confronto è comunicato alla SEM.
+
+<sup>6</sup>
+
+Non viene svolto un confronto automatico dei dati:
+
+- a. se il richiedente protezione internazionale giunge in Svizzera in seguito a un trasferimento effettuato in virtù di una decisione che accoglie una richiesta di presa in carico secondo l’articolo 40 del regolamento (UE) 2024/1351[^102ater-4];
+- b. se i dati di un richiedente protezione internazionale sono aggiornati giacché è stato accertato che l’interessato ha lasciato il territorio degli Stati Dublino;
+- c. al momento della registrazione dei dati nel quadro della procedura di cui all’articolo 102*a*<sup>bis</sup> capoverso 1 lettera b, per quanto concerne una persona ammessa insieme a un gruppo di rifugiati.
+
+<sup>7</sup> Al momento di trasmettere i dati di un cittadino di un Paese terzo candidato alla partecipazione a un programma di ammissione di un gruppo di rifugiati, i dati sono confrontati automaticamente con quelli delle persone che hanno ottenuto protezione e con quelli delle persone che hanno partecipato a un tale programma oppure che sono state ammesse quali rifugiati.
+
+<sup>8</sup> Se gravi problemi tecnici impediscono la trasmissione dei dati, è accordato un termine supplementare di 48 ore per adottare le misure necessarie al fine di garantire il funzionamento del sistema.
+
+<sup>9</sup>
+
+La SEM trasmette parimenti i seguenti dati all’unità centrale:
+
+- a. lo Stato Dublino competente, non appena quest’ultimo è stato determinato secondo il regolamento (UE) 2024/1351;
+- b. se il richiedente è preso o ripreso in carico conformemente al regolamento (UE) 2024/1351, la data dell’arrivo in Svizzera;
+- c. se vi è la prova che un richiedente di cui la Svizzera è tenuta a trattare la domanda d’asilo in virtù del regolamento (UE) 2024/1351 ha lasciato per almeno tre mesi il territorio degli Stati Dublino, la data della partenza;
+- d. se l’allontanamento è eseguito con successo, la data dell’espulsione o della partenza del richiedente dal territorio degli Stati Dublino;
+- e. se in virtù della clausola di sovranità del regolamento (UE) 2024/1351 o nell’ambito di una procedura di ammissione di gruppi di rifugiati (art. 56) la Svizzera diventa volontariamente lo Stato Dublino competente per l’esame della domanda o concede un titolo di soggiorno a una persona, la propria decisione di assumere la competenza;
+- f. se non sono stati rispettati i termini per un trasferimento Dublino, lo Stato di nuova competenza.
+
+<sup>10</sup> L’unità centrale distrugge automaticamente i dati trasmessi al più tardi dieci anni dopo il rilevamento dei dati biometrici. La SEM chiede all’unità centrale di distruggerli anzitempo non appena viene a conoscenza del fatto che uno Stato Dublino ha nel frattempo concesso la cittadinanza a una persona i cui dati sono stati trasmessi dalla Svizzera all’Eurodac.
+
+[^102ater-1]: Introdotto dall’all. n. 2 del DF del 26 set. 2014 (recepimento del R [UE] n. 603/2013 che istituisce l’«Eurodac» e che modifica il R [UE] n. 1077/2011 che istituisce l’agenzia IT) ([RU 2015 2323](https://fedlex.data.admin.ch/eli/oc/2015/432); [FF 2014 2411](https://fedlex.data.admin.ch/eli/fga/2014/489)). Nuovo testo giusta l’all. 1 n. 2 del DF del 26 set. 2025 che approva e traspone nel diritto svizzero lo scambio di note tra la Svizzera e l’UE concernente il recepimento del regolamento (UE) 2024/1358 che istituisce l’«Eurodac» per il confronto dei dati biometrici, in vigore dal 12 giu. 2026 ([RU 2026 231](https://fedlex.data.admin.ch/eli/oc/2026/231); [FF 2025 1478](https://fedlex.data.admin.ch/eli/fga/2025/1478)).
+[^102ater-2]: Tali Accordi sono elencati nell’all. 1.
+[^102ater-3]: Cfr. nota a piè di pagina relativa all’art. 102*a*<sup>bis</sup> cpv. 1.
+[^102ater-4]: Cfr. nota a piè di pagina relativa all’art. 8*b.*
+
+#### Art. 102a<sup>quater</sup>
+
+**Confronto nell’Eurodac ai fini del perseguimento penale**[^102aquater-1]
+
+<sup>1</sup>
+
+Nell’ambito dei loro compiti legali, le autorità seguenti possono chiedere all’autorità nazionale di verifica di cui al capoverso 2 un confronto delle impronte digitali o delle immagini del volto oppure una consultazione tramite dati alfanumerici nell’Eurodac ai fini della prevenzione, dell’individuazione e dell’investigazione di reati di terrorismo o altri reati gravi:
+
+- a. fedpol;
+- b. il SIC;
+- c. il Ministero pubblico della Confederazione;
+- d. le autorità cantonali di polizia e di perseguimento penale nonché le autorità di polizia delle Città di Zurigo, Winterthur, Losanna, Chiasso e Lugano.
+
+<sup>2</sup> La Centrale operativa e d’allarme di fedpol costituisce l’autorità nazionale di verifica ai sensi dell’articolo 8 del regolamento (UE) 2024/1358[^102aquater-2]. Verifica in particolare che le condizioni di cui all’articolo 33 del regolamento (UE) 2024/1358 relative al confronto da parte dell’autorità nell’Eurodac siano soddisfatte.
+
+<sup>3</sup> Se queste condizioni sono soddisfatte, l’autorità nazionale di verifica avvia una consultazione nell’Eurodac. Il confronto delle impronte digitali o delle immagini del volto oppure la consultazione tramite dati alfanumerici avviene automaticamente tramite il punto di accesso nazionale.
+
+<sup>4</sup> In casi eccezionali di urgenza ai sensi dell’articolo 32 paragrafo 4 del regolamento (UE) 2024/1358, l’autorità nazionale di verifica può avviare immediatamente la consultazione e verificare solo a posteriori se sono soddisfatte tutte le condizioni.
+
+<sup>5</sup>
+
+Ai sensi del capoverso 1, sono considerati:
+
+- a. reati di terrorismo: le fattispecie secondo gli articoli 258–260<sup>sexies</sup> e 275 CP[^102aquater-3] nonché secondo l’articolo 74 della legge federale del 25 settembre 2015[^102aquater-4] sulle attività informative;
+- b. reati gravi: i reati elencati nell’allegato 1 della legge del 12 giugno 2009[^102aquater-5] sullo scambio di informazioni con gli Stati Schengen.
+
+[^102aquater-1]: Introdotto dall’all. 1 n. 2 del DF del 26 set. 2025 che approva e traspone nel diritto svizzero lo scambio di note tra la Svizzera e l’UE concernente il recepimento del regolamento (UE) 2024/1358 che istituisce l’«Eurodac» per il confronto dei dati biometrici, in vigore dal 12 giu. 2026 ([RU 2026 231](https://fedlex.data.admin.ch/eli/oc/2026/231); [FF 2025 1478](https://fedlex.data.admin.ch/eli/fga/2025/1478)).
+[^102aquater-2]: Cfr. nota a piè di pagina relativa all’art. 102*a*<sup>bis</sup> cpv. 1.
+[^102aquater-3]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^102aquater-4]: [RS 121](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4758)
+[^102aquater-5]: [RS 362.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6316)
+
+#### Art. 102a<sup>quinquie</sup><sup>s</sup>
+
+**Controllo delle impronte digitali e dell’immagine del volto Eurodac**[^102aquinquies-1]
+
+<sup>1</sup> Un esperto controlla le impronte digitali in caso di risultato positivo della consultazione automatica di Eurodac, se necessario per confermare tale risultato positivo.
+
+<sup>2</sup> Un esperto controlla l’immagine del volto se la consultazione automatica Eurodac si basa unicamente sull’immagine del volto e dà un risultato positivo.
+
+<sup>3</sup> La SEM definisce le qualifiche di cui devono disporre gli esperti di cui ai capoversi 1 e 2.
+
+<sup>4</sup> Se l’interessato contesta un risultato che non è stato controllato da un esperto, la SEM ordina un tale controllo qualora vi sia un fondato dubbio per quanto riguarda l’esattezza del rilevamento dei dati oppure la corrispondenza dei dati. Le impronte digitali e le immagini del volto fornite da Eurodac possono essere conservate a tal fine per un massimo di due mesi in AFIS.
+
+[^102aquinquies-1]: Introdotto dall’all. 1 n. 2 del DF del 26 set. 2025 che approva e traspone nel diritto svizzero lo scambio di note tra la Svizzera e l’UE concernente il recepimento del regolamento (UE) 2024/1358 che istituisce l’«Eurodac» per il confronto dei dati biometrici, in vigore dal 12 giu. 2026 ([RU 2026 231](https://fedlex.data.admin.ch/eli/oc/2026/231); [FF 2025 1478](https://fedlex.data.admin.ch/eli/fga/2025/1478)).
 
 #### Art. 102b
 
-**Comunicazione di dati personali a uno Stato vincolato da un accordo di associazione alla normativa di Dublino**
+**Comunicazione di dati personali a uno Stato Dublino**[^102b-1]
 
-La comunicazione di dati personali alle autorità competenti di Stati vincolati da un accordo di associazione alla normativa di Dublino è parificata alla comunicazione di dati personali tra organi federali.
+<sup>1</sup> La comunicazione di dati personali alle autorità competenti di uno Stato Dublino è parificata alla comunicazione di dati personali tra organi federali.
+
+<sup>2</sup> Lo scambio d’informazioni tra la SEM e le autorità competenti di altri Stati Dublino nel quadro dell’Accordo di associazione alla normativa di Dublino avviene tramite la rete di comunicazione elettronica dell’UE per la procedura Dublino.
+
+[^102b-1]: Nuovo testo giusta all’all. 1 n. 2 del DF del 26 set. 2025 che approva e traspone nel diritto svizzero gli scambi di note tra la Svizzera e l’UE concernenti il recepimento del regolamento (UE) 2024/1351 sulla gestione dell’asilo e della migrazione e del regolamento (UE) 2024/1359 concernente le situazioni di crisi e di forza maggiore nel settore della migrazione e dell’asilo, in vigore dal 12 giu. 2026 ([RU 2026 229](https://fedlex.data.admin.ch/eli/oc/2026/229); [FF 2025 1478](https://fedlex.data.admin.ch/eli/fga/2025/1478)).
 
 #### Art. 102c
 
-**Comunicazione di dati personali a uno Stato non vincolato da un accordo di associazione a Dublino**
+**Comunicazione di dati personali a uno Stato non-Dublino[^102c-1]**
 
-<sup>1</sup> Dati personali possono essere comunicati a Stati terzi soltanto se questi garantiscono una protezione adeguata dei dati ai sensi dell’articolo 16 capoverso 1 LPD[^102c-1].[^102c-2]
+<sup>1</sup> Dati personali possono essere comunicati a Stati terzi soltanto se questi garantiscono una protezione adeguata dei dati ai sensi dell’articolo 16 capoverso 1 LPD[^102c-2].[^102c-3]
 
 <sup>2</sup>
 
@@ -2485,24 +2641,38 @@ Qualora non garantisca una protezione adeguata, allo Stato terzo possono essere 
 
 - a. la persona interessata ha dato il suo consenso conformemente all’articolo 6 capoversi 6 e, se del caso, 7 LPD;
 - b. la comunicazione è necessaria per proteggere la vita o l’integrità fisica della persona interessata e non è possibile ottenere il suo consenso entro un termine ragionevole; o
-- c. la comunicazione è necessaria per tutelare un interesse pubblico preponderante o per accertare, esercitare o far valere un diritto in giustizia o dinanzi a un’altra autorità estera competente.[^102c-3]
+- c. la comunicazione è necessaria per tutelare un interesse pubblico preponderante o per accertare, esercitare o far valere un diritto in giustizia o dinanzi a un’altra autorità estera competente.[^102c-4]
 
 <sup>3</sup> Oltre che nei casi indicati nel capoverso 2, possono essere comunicati dati personali anche quando, nel caso specifico, garanzie sufficienti assicurano una protezione adeguata della persona interessata.
 
 <sup>4</sup> Il Consiglio federale definisce la portata delle garanzie da prestare e le relative modalità.
 
-<sup>5</sup>
+<sup>5</sup> I dati personali registrati nell’Eurodac non possono essere trasmessi a Stati terzi, organizzazioni internazionali, enti privati o persone fisiche.[^102c-5]
 
-I dati provenienti dalla banca dati Eurodac non possono in nessun caso essere trasmessi a:
+<sup>6</sup> La SEM può tuttavia trasmettere dati a uno Stato non vincolato da un accordo di associazione alla normativa di Dublino, se necessario per provare l’identità di cittadini di Stati terzi che soggiornano illegalmente in Svizzera ai fini del rimpatrio, purché siano soddisfatte le condizioni di cui all’articolo 50 del regolamento (UE) 2024/1358[^102c-6].[^102c-7]
 
-- a. uno Stato non vincolato da un accordo di associazione alla normativa di Dublino;
-- b. organizzazioni internazionali;
-- c. soggetti di diritto privato.[^102c-4]
-
-[^102c-1]: [RS 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
-[^102c-2]: Nuovo testo giusta l’all. 1 cifra II n. 5 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^102c-1]: Nuovo testo giusta l’all. 1 n. 2 del DF del 26 set. 2025 che approva e traspone nel diritto svizzero gli scambi di note tra la Svizzera e l’UE concernenti il recepimento del regolamento (UE) 2024/1351 sulla gestione dell’asilo e della migrazione e del regolamento (UE) 2024/1359 concernente le situazioni di crisi e di forza maggiore nel settore della migrazione e dell’asilo, in vigore dal 12 giu. 2026 ([RU 2026 229](https://fedlex.data.admin.ch/eli/oc/2026/229); [FF 2025 1478](https://fedlex.data.admin.ch/eli/fga/2025/1478)).
+[^102c-2]: [RS 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 [^102c-3]: Nuovo testo giusta l’all. 1 cifra II n. 5 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
-[^102c-4]: Introdotto dall’all. n. 2 del DF del 26 set. 2014 (recepimento del R [UE] n. 603/2013 che istituisce l’«Eurodac» e che modifica il R [UE] n. 1077/2011 che istituisce l’agenzia IT), in vigore dal 20 lug. 2015 ([RU 2015 2323](https://fedlex.data.admin.ch/eli/oc/2015/432); [FF 2014 2411](https://fedlex.data.admin.ch/eli/fga/2014/489)).
+[^102c-4]: Nuovo testo giusta l’all. 1 cifra II n. 5 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^102c-5]: Introdotto dall’all. n. 2 del DF del 26 set. 2014 (recepimento del R [UE] n. 603/2013 che istituisce l’«Eurodac» e che modifica il R [UE] n. 1077/2011 che istituisce l’agenzia IT) ([RU 2015 2323](https://fedlex.data.admin.ch/eli/oc/2015/432); [FF 2014 2411](https://fedlex.data.admin.ch/eli/fga/2014/489)). Nuovo testo giusta l’all. 1 n. 2 del DF del 26 set. 2025 che approva e traspone nel diritto svizzero lo scambio di note tra la Svizzera e l’UE concernente il recepimento del regolamento (UE) 2024/1358 che istituisce l’«Eurodac» per il confronto dei dati biometrici, in vigore dal 12 giu. 2026 ([RU 2026 231](https://fedlex.data.admin.ch/eli/oc/2026/231); [FF 2025 1478](https://fedlex.data.admin.ch/eli/fga/2025/1478)).
+[^102c-6]: Cfr. nota a piè di pagina relativa all’art. 102*a*<sup>bis</sup> cpv. 1.
+[^102c-7]: Introdotto dall’all. 1 n. 2 del DF del 26 set. 2025 che approva e traspone nel diritto svizzero lo scambio di note tra la Svizzera e l’UE concernente il recepimento del regolamento (UE) 2024/1358 che istituisce l’«Eurodac» per il confronto dei dati biometrici, in vigore dal 12 giu. 2026 ([RU 2026 231](https://fedlex.data.admin.ch/eli/oc/2026/231); [FF 2025 1478](https://fedlex.data.admin.ch/eli/fga/2025/1478)).
+
+#### Art. 102c<sup>bi</sup><sup>s</sup>
+
+**Disposizioni esecutive relative all’Eurodac**[^102cbis-1]
+
+Il Consiglio federale disciplina:
+
+- a. a quali unità delle autorità federali di cui all’articolo 102*a**<sup>ter</sup>* capoverso 2 spettano le facoltà ivi menzionate;
+- b. la procedura di acquisizione dei dati dell’Eurodac da parte delle autorità di cui all’articolo 102*a*<sup>quater</sup> capoverso 1;
+- c. i dati dell’Eurodac ai quali le autorità hanno accesso;
+- d. la registrazione dei dati e la procedura di cancellazione;
+- e. le modalità relative alla sicurezza dei dati;
+- f. la collaborazione con i Cantoni.
+
+[^102cbis-1]: Introdotto dall’all. 1 n. 2 del DF del 26 set. 2025 che approva e traspone nel diritto svizzero lo scambio di note tra la Svizzera e l’UE concernente il recepimento del regolamento (UE) 2024/1358 che istituisce l’«Eurodac» per il confronto dei dati biometrici, in vigore dal 12 giu. 2026 ([RU 2026 231](https://fedlex.data.admin.ch/eli/oc/2026/231); [FF 2025 1478](https://fedlex.data.admin.ch/eli/fga/2025/1478)).
 
 #### Art. 102d
 
@@ -2569,18 +2739,26 @@ Il diritto d’accesso è retto dalle disposizioni federali o cantonali in mater
 
 <sup>1</sup> Durante il soggiorno in un centro della Confederazione, i richiedenti l’asilo beneficiano della consulenza sulla procedura d’asilo.
 
-<sup>2</sup> La consulenza comprende segnatamente l’informazione dei richiedenti l’asilo sui loro diritti e obblighi nella procedura d’asilo.
+<sup>2</sup>
 
-<sup>3</sup> La consulenza comprende inoltre l’informazione sul meccanismo di denuncia di cui all’articolo 111 del regolamento (UE) 2019/1896[^102g-1].[^102g-2]
+La consulenza comprende segnatamente:
 
-[^102g-1]: Regolamento (UE) 2019/1896 del Parlamento europeo e del Consiglio, del 13 novembre 2019, relativo alla guardia di frontiera e costiera europea e che abroga i regolamenti (UE) n. 1052/2013 e (UE) 2016/1624, versione della GU L 295 del 14.11.2019, pag. 1.
-[^102g-2]: Introdotto dalla cifra I della LF del 1° ott. 2021, in vigore dal 1° set. 2022 ([RU 2022 459](https://fedlex.data.admin.ch/eli/oc/2022/459); [FF 2020 6219](https://fedlex.data.admin.ch/eli/fga/2020/1902)).
+- a. l’informazione dei richiedenti l’asilo sui loro diritti e obblighi nella procedura d’asilo;
+- b. l’informazione sul meccanismo di denuncia di cui all’articolo 111 del regolamento (UE) 2019/1896[^102g-1];
+- c. l’informazione sulla procedura Dublino di cui all’articolo 19 del regolamento (UE) 2024/1351[^102g-2].[^102g-3]
+
+<sup>3</sup> *...*[^102g-4]
+
+[^102g-1]: Regolamento (UE) 2019/1896 del Parlamento europeo e del Consiglio, del 13 novembre 2019, relativo alla guardia di frontiera e costiera europea e che abroga i regolamenti (UE) n. 1052/2013 e (UE) 2016/1624, versione della GU L 295 del 14.11.2019, pag. 1; modificato dal regolamento (UE) 2021/1134, GU L 248 del 13.7.2021, pag. 11.
+[^102g-2]: Cfr. nota a piè di pagina relativa all’art. 8*b*.
+[^102g-3]: Nuovo testo giusta l’all. 1 n. 2 del DF del 26 set. 2025 che approva e traspone nel diritto svizzero gli scambi di note tra la Svizzera e l’UE concernenti il recepimento del regolamento (UE) 2024/1351 sulla gestione dell’asilo e della migrazione e del regolamento (UE) 2024/1359 concernente le situazioni di crisi e di forza maggiore nel settore della migrazione e dell’asilo, in vigore dal 12 giu. 2026 ([RU 2026 229](https://fedlex.data.admin.ch/eli/oc/2026/229); [FF 2025 1478](https://fedlex.data.admin.ch/eli/fga/2025/1478)).
+[^102g-4]: Introdotto dalla cifra I della LF del 1° ott. 2021 ([RU 2022 459](https://fedlex.data.admin.ch/eli/oc/2022/459); [FF 2020 6219](https://fedlex.data.admin.ch/eli/fga/2020/1902)). Abrogato dall’all. 1 n. 2 del DF del 26 set. 2025 che approva e traspone nel diritto svizzero gli scambi di note tra la Svizzera e l’UE concernenti il recepimento del regolamento (UE) 2024/1351 sulla gestione dell’asilo e della migrazione e del regolamento (UE) 2024/1359 concernente le situazioni di crisi e di forza maggiore nel settore della migrazione e dell’asilo, con effetto dal 12 giu. 2026 ([RU 2026 229](https://fedlex.data.admin.ch/eli/oc/2026/229); [FF 2025 1478](https://fedlex.data.admin.ch/eli/fga/2025/1478)).
 
 #### Art. 102h
 
 **Rappresentante legale**
 
-<sup>1</sup> Dall’inizio della fase preparatoria e per il seguito della procedura d’asilo, a ogni richiedente l’asilo è assegnato un rappresentante legale, sempreché il richiedente l’asilo non vi rinunci esplicitamente.
+<sup>1</sup> Dopo gli accertamenti secondo il regolamento (UE) 2024/1356[^102h-1], nella fase preparatoria e per il seguito della procedura d’asilo, a ogni richiedente l’asilo è assegnato un rappresentante legale, sempreché il richiedente l’asilo non vi rinunci esplicitamente. Nel caso di richiedenti l’asilo minorenni non accompagnati l’assegnazione interviene sin dall’inizio della fase preparatoria.[^102h-2]
 
 <sup>2</sup> Il rappresentante legale assegnato informa quanto prima il richiedente l’asilo sulle probabilità di riuscita della procedura d’asilo.
 
@@ -2589,6 +2767,9 @@ Il diritto d’accesso è retto dalle disposizioni federali o cantonali in mater
 <sup>4</sup> La rappresentanza legale cessa nel momento in cui il rappresentante legale designato comunica al richiedente l’asilo di non voler interporre ricorso, in quanto esso non avrebbe alcuna probabilità di successo. Tale comunicazione avviene quanto prima una volta notificata la decisione negativa sull’asilo.
 
 <sup>5</sup> I compiti del rappresentante legale sono retti dall’articolo 102*k*.
+
+[^102h-1]: Cfr. nota a piè di pagina relativa all’art. 21*a* cpv. 1.
+[^102h-2]: Nuovo testo giusta l’all. 1 n. 2 del DF del 26 set. 2025 che approva e traspone nel diritto svizzero lo scambio di note tra la Svizzera e l’UE concernente il recepimento del regolamento (UE) 2024/1356 che introduce accertamenti nei confronti dei cittadini di paesi terzi alle frontiere esterne e modifica i regolamenti (CE) n. 767/2008, (UE) 2017/2226, (UE) 2018/1240 e (UE) 2019/817, in vigore dal 12 giu. 2026 ([RU 2026 230](https://fedlex.data.admin.ch/eli/oc/2026/230); [FF 2025 1478](https://fedlex.data.admin.ch/eli/fga/2025/1478)).
 
 #### Art. 102i
 
@@ -2608,11 +2789,14 @@ Il diritto d’accesso è retto dalle disposizioni federali o cantonali in mater
 
 **Partecipazione del rappresentante legale**
 
-<sup>1</sup> La SEM comunica al fornitore di prestazioni le date della prima interrogazione nel quadro della fase preparatoria, dell’audizione sui motivi d’asilo e delle ulteriori fasi della procedura in cui è necessaria la partecipazione del rappresentante legale. Il fornitore di prestazioni comunica senza indugio tali date al rappresentante legale.
+<sup>1</sup> La SEM comunica al fornitore di prestazioni le date della prima interrogazione e dell’audizione secondo l’articolo 22 del regolamento (UE) 2024/1351[^102j-1] nel quadro della fase preparatoria, dell’audizione sui motivi d’asilo e delle ulteriori fasi della procedura in cui è necessaria la partecipazione del rappresentante legale. Il fornitore di prestazioni comunica senza indugio tali date al rappresentante legale.[^102j-2]
 
 <sup>2</sup> Se la comunicazione delle date è tempestiva, le azioni della SEM esplicano effetto giuridico anche senza la presenza o la collaborazione del rappresentante legale. Sono fatti salvi impedimenti a breve termine per motivi gravi scusabili.
 
 <sup>3</sup> Se il rappresentante legale non presenta o non presenta entro i termini fissati il proprio parere in merito alla bozza di decisione negativa sull’asilo, sebbene il fornitore di prestazioni gliel’abbia trasmessa in tempo utile, si considera che rinunci a pronunciarsi.
+
+[^102j-1]: Cfr. nota a piè di pagina relativa all’art. 8*b*.
+[^102j-2]: Nuovo testo giusta l’all. 1 n. 2 del DF del 26 set. 2025 che approva e traspone nel diritto svizzero gli scambi di note tra la Svizzera e l’UE concernenti il recepimento del regolamento (UE) 2024/1351 sulla gestione dell’asilo e della migrazione e del regolamento (UE) 2024/1359 concernente le situazioni di crisi e di forza maggiore nel settore della migrazione e dell’asilo, in vigore dal 12 giu. 2026 ([RU 2026 229](https://fedlex.data.admin.ch/eli/oc/2026/229); [FF 2025 1478](https://fedlex.data.admin.ch/eli/fga/2025/1478)).
 
 #### Art. 102k
 
@@ -2623,17 +2807,19 @@ Il diritto d’accesso è retto dalle disposizioni federali o cantonali in mater
 Sulla base di un accordo e di soluzioni finanziariamente vantaggiose, la Confederazione versa al fornitore di prestazioni un’indennità per l’adempimento segnatamente dei seguenti compiti:
 
 - a. l’informazione e la consulenza ai richiedenti l’asilo;
-- b. la partecipazione del rappresentante legale alla prima interrogazione nel quadro della fase preparatoria e all’audizione sui motivi d’asilo;
+- b.[^102k-1] la partecipazione del rappresentante legale alla prima interrogazione e all’audizione secondo l’articolo 22 del regolamento (UE) 2024/1351[^102k-2] nel quadro della fase preparatoria e all’audizione sui motivi d’asilo;
 - c. la presentazione di un parere sulla bozza di decisione negativa sull’asilo nella procedura celere;
 - d. l’assunzione della rappresentanza legale durante la procedura di ricorso, in particolare la redazione di un atto di ricorso;
 - e. la difesa, in veste di persona di fiducia, degli interessi di richiedenti l’asilo minorenni non accompagnati nei centri della Confederazione e all’aeroporto;
 - f. in caso di passaggio alla procedura ampliata, l’informazione del consultorio giuridico da parte del rappresentante legale designato sullo stato della procedura oppure il proseguimento della rappresentanza legale nelle fasi procedurali rilevanti per la decisione ai sensi dell’articolo 102*l*;
-- g.[^102k-1] la consulenza e il sostegno nel quadro della presentazione di una denuncia ai sensi dell’articolo 111 del regolamento (UE) 2019/1896[^102k-2].
+- g.[^102k-3] la consulenza e il sostegno nel quadro della presentazione di una denuncia ai sensi dell’articolo 111 del regolamento (UE) 2019/1896[^102k-4].
 
 <sup>2</sup> L’indennità comprende un contributo per le spese amministrative e di personale del fornitore di prestazioni, in particolare per l’organizzazione della consulenza e della rappresentanza legale, nonché un contributo per interpreti indipendenti. L’indennizzo è fissato a titolo forfettario. Eccezionalmente può essere fissato in funzione del dispendio effettivo, in particolare a titolo di indennizzo per spese uniche.
 
-[^102k-1]: Introdotta dalla cifra I della LF del 1° ott. 2021, in vigore dal 1° set. 2022 ([RU 2022 459](https://fedlex.data.admin.ch/eli/oc/2022/459); [FF 2020 6219](https://fedlex.data.admin.ch/eli/fga/2020/1902)).
-[^102k-2]: Cfr. nota a piè di pagina relativa all’art. 102*g* cpv. 3.
+[^102k-1]: Nuovo testo giusta l’all. 1 n. 2 del DF del 26 set. 2025 che approva e traspone nel diritto svizzero gli scambi di note tra la Svizzera e l’UE concernenti il recepimento del regolamento (UE) 2024/1351 sulla gestione dell’asilo e della migrazione e del regolamento (UE) 2024/1359 concernente le situazioni di crisi e di forza maggiore nel settore della migrazione e dell’asilo, in vigore dal 12 giu. 2026 ([RU 2026 229](https://fedlex.data.admin.ch/eli/oc/2026/229); [FF 2025 1478](https://fedlex.data.admin.ch/eli/fga/2025/1478)).
+[^102k-2]: Cfr. nota a piè di pagina relativa all’art. 8*b*.
+[^102k-3]: Introdotta dalla cifra I della LF del 1° ott. 2021 ([RU 2022 459](https://fedlex.data.admin.ch/eli/oc/2022/459); [FF 2020 6219](https://fedlex.data.admin.ch/eli/fga/2020/1902)). Nuovo testo giusta l’all. 1 n. 2 del DF del 26 set. 2025 che approva e traspone nel diritto svizzero gli scambi di note tra la Svizzera e l’UE concernenti il recepimento del regolamento (UE) 2024/1351 sulla gestione dell’asilo e della migrazione e del regolamento (UE) 2024/1359 concernente le situazioni di crisi e di forza maggiore nel settore della migrazione e dell’asilo, in vigore dal 12 giu. 2026 ([RU 2026 229](https://fedlex.data.admin.ch/eli/oc/2026/229); [FF 2025 1478](https://fedlex.data.admin.ch/eli/fga/2025/1478)).
+[^102k-4]: Cfr. nota a piè di pagina relativa all’art. 102*g* cpv. 2 lett. b.
 
 ### Sezione 1*a*: Consulenza e rappresentanza legale nella procedura ampliata dopo l’attribuzione a un Cantone
 
@@ -2721,10 +2907,10 @@ Il ricorrente può far valere:
 - b. l’accertamento inesatto o incompleto dei fatti giuridicamente rilevanti.
 - c.[^106-1] ...
 
-<sup>2</sup> Rimangono salvi gli articoli 27 capoverso 3 e 68 capoverso 2.[^106-2]
+<sup>2</sup> Sono fatti salvi gli articoli 27 capoverso 3, 68 capoverso 2 e 107*a* capoverso 5.[^106-2]
 
 [^106-1]: Abrogata dalla cifra I della LF del 14 dic. 2012, con effetto dal 1° feb. 2014 ([RU 2013 4375](https://fedlex.data.admin.ch/eli/oc/2013/778), [5357](https://fedlex.data.admin.ch/eli/oc/2013/855); [FF 2010 3889](https://fedlex.data.admin.ch/eli/fga/2010/794), [2011 6503](https://fedlex.data.admin.ch/eli/fga/2011/1209)).
-[^106-2]: Nuovo testo giusta la cifra I n. 2 dell’O dell’AF del 20 dic. 2006 che adegua taluni atti normativi alle disposizioni della L sul Tribunale federale e della L sul Tribunale amministrativo federale, in vigore dal 1° gen. 2007 ([RU 2006 5599](https://fedlex.data.admin.ch/eli/oc/2006/826); [FF 2006 7109](https://fedlex.data.admin.ch/eli/fga/2006/974)).
+[^106-2]: Nuovo testo giusta l’all. 1 n. 2 del DF del 26 set. 2025 che approva e traspone nel diritto svizzero gli scambi di note tra la Svizzera e l’UE concernenti il recepimento del regolamento (UE) 2024/1351 sulla gestione dell’asilo e della migrazione e del regolamento (UE) 2024/1359 concernente le situazioni di crisi e di forza maggiore nel settore della migrazione e dell’asilo, in vigore dal 12 giu. 2026 ([RU 2026 229](https://fedlex.data.admin.ch/eli/oc/2026/229); [FF 2025 1478](https://fedlex.data.admin.ch/eli/fga/2025/1478)).
 
 #### Art. 107
 
@@ -2751,11 +2937,20 @@ Si possono inoltre impugnare con ricorso distinto, nella misura in cui possono c
 
 <sup>1</sup> Il ricorso interposto contro la decisione di non entrata nel merito della domanda presentata da un richiedente l’asilo che può partire per uno Stato cui compete l’esecuzione della procedura d’asilo e d’allontanamento in virtù di un trattato internazionale non ha effetto sospensivo.
 
-<sup>2</sup> Il richiedente l’asilo può, entro il termine di ricorso, chiedere la concessione dell’effetto sospensivo.
+<sup>2</sup> Il richiedente l’asilo può, entro il termine di ricorso, chiedere la concessione dell’effetto sospensivo. Il Tribunale amministrativo federale decide entro cinque giorni lavorativi dalla ricezione dell’istanza.[^107a-2]
 
-<sup>3</sup> Il Tribunale amministrativo federale decide entro cinque giorni dalla ricezione della richiesta di cui al capoverso 2. Se l’effetto sospensivo non è accordato entro tale termine, l’allontanamento può essere eseguito.
+<sup>3</sup> Se l’effetto sospensivo non è accordato entro tale termine, l’allontanamento può essere eseguito.[^107a-3]
+
+<sup>4</sup> Il Tribunale amministrativo federale decide entro 20 giorni sui ricorsi secondo il capoverso 1. In caso di ricorsi manifestamente fondati o manifestamente infondati decide entro cinque giorni feriali dal ricevimento del ricorso o dalla decisione sulla concessione dell’effetto sospensivo, qualora sia stato richiesto.[^107a-4]
+
+<sup>5</sup> I motivi del ricorso sono retti dall’articolo 43 paragrafo 1 del regolamento (UE) 2024/1351[^107a-5].[^107a-6]
 
 [^107a-1]: Introdotto dall’art. 3 n. 2 del DF del 17 dic. 2004 che approva e traspone nel diritto svizzero gli Acc. bilaterali con l’UE per l’associazione della Svizzera alla normativa di Schengen e Dublino ([RU 2008 447](https://fedlex.data.admin.ch/eli/oc/2008/112); [FF 2004 5273](https://fedlex.data.admin.ch/eli/fga/2004/1084)). Nuovo testo giusta l’all. cifra I n. 2 del DF del 26 set. 2014 (Recepimento del regolamento [UE] n. 604/2013 che stabilisce i criteri e i meccanismi di determinazione dello Stato membro competente per l’esame di una domanda di protezione internazionale), in vigore dal 1° lug. 2015 ([RU 2015 1841](https://fedlex.data.admin.ch/eli/oc/2015/357); [FF 2014 2411](https://fedlex.data.admin.ch/eli/fga/2014/489)).
+[^107a-2]: Nuovo testo giusta l’all. 1 n. 2 del DF del 26 set. 2025 che approva e traspone nel diritto svizzero gli scambi di note tra la Svizzera e l’UE concernenti il recepimento del regolamento (UE) 2024/1351 sulla gestione dell’asilo e della migrazione e del regolamento (UE) 2024/1359 concernente le situazioni di crisi e di forza maggiore nel settore della migrazione e dell’asilo, in vigore dal 12 giu. 2026 ([RU 2026 229](https://fedlex.data.admin.ch/eli/oc/2026/229); [FF 2025 1478](https://fedlex.data.admin.ch/eli/fga/2025/1478)).
+[^107a-3]: Nuovo testo giusta l’all. 1 n. 2 del DF del 26 set. 2025 che approva e traspone nel diritto svizzero gli scambi di note tra la Svizzera e l’UE concernenti il recepimento del regolamento (UE) 2024/1351 sulla gestione dell’asilo e della migrazione e del regolamento (UE) 2024/1359 concernente le situazioni di crisi e di forza maggiore nel settore della migrazione e dell’asilo, in vigore dal 12 giu. 2026 ([RU 2026 229](https://fedlex.data.admin.ch/eli/oc/2026/229); [FF 2025 1478](https://fedlex.data.admin.ch/eli/fga/2025/1478)).
+[^107a-4]: Introdotto dall’all. 1 n. 2 del DF del 26 set. 2025 che approva e traspone nel diritto svizzero gli scambi di note tra la Svizzera e l’UE concernenti il recepimento del regolamento (UE) 2024/1351 sulla gestione dell’asilo e della migrazione e del regolamento (UE) 2024/1359 concernente le situazioni di crisi e di forza maggiore nel settore della migrazione e dell’asilo, in vigore dal 12 giu. 2026 ([RU 2026 229](https://fedlex.data.admin.ch/eli/oc/2026/229); [FF 2025 1478](https://fedlex.data.admin.ch/eli/fga/2025/1478)).
+[^107a-5]: Cfr. nota a piè di pagina relativa all’art. 8*b*.
+[^107a-6]: Introdotto dall’all. 1 n. 2 del DF del 26 set. 2025 che approva e traspone nel diritto svizzero gli scambi di note tra la Svizzera e l’UE concernenti il recepimento del regolamento (UE) 2024/1351 sulla gestione dell’asilo e della migrazione e del regolamento (UE) 2024/1359 concernente le situazioni di crisi e di forza maggiore nel settore della migrazione e dell’asilo, in vigore dal 12 giu. 2026 ([RU 2026 229](https://fedlex.data.admin.ch/eli/oc/2026/229); [FF 2025 1478](https://fedlex.data.admin.ch/eli/fga/2025/1478)).
 
 #### Art. 108
 
@@ -2767,16 +2962,17 @@ Si possono inoltre impugnare con ricorso distinto, nella misura in cui possono c
 
 <sup>3</sup> Il ricorso contro le decisioni di non entrata nel merito e contro le decisioni di cui agli articoli 23 capoverso 1 e 40 in combinato disposto con l’articolo 6*a* capoverso 2 lettera a deve essere interposto entro cinque giorni lavorativi dalla notificazione della decisione.
 
-<sup>4</sup> Il ricorso contro il rifiuto dell’entrata in Svizzera secondo l’articolo 22 capoverso 2 può essere interposto fino al momento della notificazione di una decisione secondo l’articolo 23 capoverso 1.
+<sup>4</sup> Il ricorso contro il rifiuto dell’entrata in Svizzera secondo l’articolo 21*a* capoverso 6 può essere interposto fino al momento della notificazione di una decisione secondo l’articolo 23 capoverso 1.[^108-2]
 
 <sup>5</sup> La verifica della legalità e dell’adeguatezza dell’assegnazione di un luogo di soggiorno all’aeroporto o in un altro luogo appropriato conformemente all’articolo 22 capoversi 3 e 4 può essere chiesta in qualsiasi momento mediante ricorso.
 
 <sup>6</sup> Negli altri casi il termine di ricorso è di 30 giorni dalla notificazione della decisione.
 
-<sup>7</sup> Gli atti scritti trasmessi per telefax sono considerati consegnati validamente se pervengono tempestivamente al Tribunale amministrativo federale e sono regolarizzati mediante l’invio ulteriore dell’originale firmato, conformemente alle norme dell’articolo 52 capoversi 2 e 3 PA[^108-2].
+<sup>7</sup> Gli atti scritti trasmessi per telefax sono considerati consegnati validamente se pervengono tempestivamente al Tribunale amministrativo federale e sono regolarizzati mediante l’invio ulteriore dell’originale firmato, conformemente alle norme dell’articolo 52 capoversi 2 e 3 PA[^108-3].
 
 [^108-1]: Nuovo testo giusta la cifra I della LF del 25 set. 2015, in vigore dal 1° mar. 2019 ([RU 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521); [2018 2855](https://fedlex.data.admin.ch/eli/oc/2018/438); [FF 2014 6917](https://fedlex.data.admin.ch/eli/fga/2014/1715)).
-[^108-2]: [RS 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
+[^108-2]: Nuovo testo giusta l’all. 1 n. 2 del DF del 26 set. 2025 che approva e traspone nel diritto svizzero lo scambio di note tra la Svizzera e l’UE concernente il recepimento del regolamento (UE) 2024/1356 che introduce accertamenti nei confronti dei cittadini di paesi terzi alle frontiere esterne e modifica i regolamenti (CE) n. 767/2008, (UE) 2017/2226, (UE) 2018/1240 e (UE) 2019/817, in vigore dal 12 giu. 2026 ([RU 2026 230](https://fedlex.data.admin.ch/eli/oc/2026/230); [FF 2025 1478](https://fedlex.data.admin.ch/eli/fga/2025/1478)).
+[^108-3]: [RS 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 #### Art. 108a
 
@@ -2899,6 +3095,38 @@ Nella procedura di ricorso contro decisioni in materia d’asilo secondo l’art
 
 [^111ater-1]: Introdotto dalla cifra I della LF del 25 set. 2015, in vigore dal 1° mar. 2019 ([RU 2016 3101](https://fedlex.data.admin.ch/eli/oc/2016/521); [2018 2855](https://fedlex.data.admin.ch/eli/oc/2018/438); [FF 2014 6917](https://fedlex.data.admin.ch/eli/fga/2014/1715)).
 
+### Sezione 2*a*: Meccanismo di monitoraggio indipendente nell’ambito degli accertamenti
+
+[^chap8-sec2a-1]
+
+[^chap8-sec2a-1]: Introdotta dall’all. 1 n. 2 del DF del 26 set. 2025 che approva e traspone nel diritto svizzero lo scambio di note tra la Svizzera e l’UE concernente il recepimento del regolamento (UE) 2024/1356 che introduce accertamenti nei confronti dei cittadini di paesi terzi alle frontiere esterne e modifica i regolamenti (CE) n. 767/2008, (UE) 2017/2226, (UE) 2018/1240 e (UE) 2019/817, in vigore dal 12 giu. 2026 ([RU 2026 230](https://fedlex.data.admin.ch/eli/oc/2026/230); [FF 2025 1478](https://fedlex.data.admin.ch/eli/fga/2025/1478)).
+
+#### Art. 111a<sup>quater</sup>
+
+<sup>1</sup>
+
+I servizi responsabili per il meccanismo di monitoraggio indipendente svolgono i compiti loro affidati in conformità all’articolo 10 paragrafo 2 del regolamento (UE) 2024/1356[^111aquater-1]. Si tratta in particolare dei compiti seguenti:
+
+- a. monitorare il rispetto del diritto internazionale, in particolare per quanto riguarda la garanzia dell’accesso alla procedura d’asilo, il rispetto del principio di non respingimento e la garanzia dell’interesse superiore del minore;
+- b. controllare l’attuazione del fermo secondo l’articolo 73 LStrI[^111aquater-2] nel quadro della procedura di accertamento;
+- c. esaminare le violazioni dei diritti fondamentali fatte valere nel quadro della procedura di accertamento;
+- d. formulare raccomandazioni destinate alle autorità competenti.
+
+<sup>2</sup>
+
+Laddove necessario per l’esecuzione dei loro compiti, i servizi responsabili per il meccanismo di monitoraggio indipendente hanno la facoltà di:
+
+- a. accedere a tutte le ubicazioni rilevanti, compresi i centri di alloggio cantonali, gli istituti di carcerazione e i centri della Confederazione;
+- b. consultare tutti i documenti e fascicoli;
+- c. svolgere interrogatori di persone;
+- d. eseguire controlli sul posto, controlli di prove a campione e controlli senza preavviso;
+- e. accedere a informazioni classificate, sempreché le persone in questione si siano sottoposte a un controllo di sicurezza.
+
+<sup>3</sup> Il Consiglio federale può incaricare terzi di adempiere i compiti di cui al capoverso 1 nel quadro del meccanismo di monitoraggio indipendente.
+
+[^111aquater-1]: Cfr. nota a piè di pagina relativa all’art. 21*a* cpv. 1.
+[^111aquater-2]: [RS 142.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4851)
+
 ### Sezione 3: Riesame e domande multiple
 
 [^chap8-sec3-1]
@@ -2990,11 +3218,30 @@ Durante la procedura di ricorso, la prescrizione delle pretese finanziarie della
 
 #### Art. 113
 
-**Principi[^113-1]**
+**Principi**[^113-1]
 
-La Confederazione partecipa all’armonizzazione a livello internazionale della politica europea in materia di rifugiati e alla soluzione dei problemi dei rifugiati all’estero. Essa sostiene l’attività delle istituzioni internazionali di soccorso. Collabora segnatamente con l’Alto Commissariato delle Nazioni Unite per i rifugiati.
+<sup>1</sup> Per garantire una procedura equa nel rispetto dei diritti fondamentali, la Confederazione partecipa all’armonizzazione a livello internazionale della politica europea in materia di rifugiati e alla risoluzione dei problemi dei rifugiati all’estero.
 
-[^113-1]: Nuovo testo giusta la cifra I della LF del 20 dic. 2019, in vigore dal 1° nov. 2020 ([RU 2020 3989](https://fedlex.data.admin.ch/eli/oc/2020/742); [FF 2018 5563](https://fedlex.data.admin.ch/eli/fga/2018/2305)).
+<sup>2</sup>
+
+Può, nello specifico:
+
+- a. sostenere l’Unione europea nell’ambito della solidarietà prevista dalla parte IV del regolamento (UE) 2024/1351[^113-2];
+- b. sostenere l’attività delle istituzioni di soccorso internazionali;
+- c. collaborare con l’Alto Commissariato delle Nazioni Unite per i rifugiati.
+
+<sup>3</sup>
+
+A condizione che il sistema di Dublino nei confronti della Svizzera sostanzialmente funzioni, la Confederazione adotta misure di solidarietà secondo il capoverso 2 lettera a. Nell’ambito della decisione considera in particolare:
+
+- a. se tutti gli Stati Dublino rilevanti per la Svizzera si attengono nei confronti della Svizzera alla ripartizione delle competenze secondo il regolamento (UE) 2024/1351 e agli obblighi di ricollocazione e riammissione che ne derivano;
+- b. la situazione migratoria su scala europea e nazionale;
+- c. le conseguenze finanziarie delle misure da adottare.
+
+<sup>4</sup> Prima di decidere consulta i Cantoni e altre cerchie interessate. Garantisce inoltre il rispetto dell’articolo 121*a* capoverso 2 della Costituzione federale.
+
+[^113-1]: Nuovo testo giusta l’all. 1 n. 2 del DF del 26 set. 2025 che approva e traspone nel diritto svizzero gli scambi di note tra la Svizzera e l’UE concernenti il recepimento del regolamento (UE) 2024/1351 sulla gestione dell’asilo e della migrazione e del regolamento (UE) 2024/1359 concernente le situazioni di crisi e di forza maggiore nel settore della migrazione e dell’asilo, in vigore dal 12 giu. 2026 ([RU 2026 229](https://fedlex.data.admin.ch/eli/oc/2026/229); [FF 2025 1478](https://fedlex.data.admin.ch/eli/fga/2025/1478)).
+[^113-2]: Cfr. nota a piè di pagina relativa all’art. 8*b*.
 
 #### Art 114
 
@@ -3102,7 +3349,7 @@ Sono abrogati:
 - a. la legge sull’asilo del 5 ottobre 1979[^120-1];
 - b. il decreto federale del 16 dicembre 1994[^120-2] concernente provvedimenti di risparmio nel settore dell’asilo e degli stranieri.
 
-[^120-1]: [[RU 1980 1718](https://fedlex.data.admin.ch/eli/oc/1980/1718_1718_1718); [1986 2062](https://fedlex.data.admin.ch/eli/oc/1986/2062_2062_2062); [1987 1674](https://fedlex.data.admin.ch/eli/oc/1987/1674_1674_1674); [1990 938](https://fedlex.data.admin.ch/eli/oc/1990/938_938_938), [1587](https://fedlex.data.admin.ch/eli/oc/1990/1587_1587_1587)art. 3 cpv.1; **1994** 1634 cifra I 8.1, 2876; **1995** 146 cifra II 1126 cifra II, 14356; **1997** 2373,2394; **1998** 1582]
+[^120-1]: [[RU 1980 1718](https://fedlex.data.admin.ch/eli/oc/1980/1718_1718_1718); [1986 2062](https://fedlex.data.admin.ch/eli/oc/1986/2062_2062_2062); [1987 1674](https://fedlex.data.admin.ch/eli/oc/1987/1674_1674_1674); [1990 938](https://fedlex.data.admin.ch/eli/oc/1990/938_938_938), [1587](https://fedlex.data.admin.ch/eli/oc/1990/1587_1587_1587)art. 3 cpv.1; **1994** 1634 cifra I n. 8.1, 2876; **1995** 146 cifra II n. 1126 cifra II, 14356; **1997** 2373,2394; **1998** 1582]
 [^120-2]: [[RU 1994 2876](https://fedlex.data.admin.ch/eli/oc/1994/2876_2876_2876)]
 
 #### Art. 121
@@ -3119,7 +3366,7 @@ Sono abrogati:
 
 <sup>5</sup> Il versamento delle prestazioni assistenziali a rifugiati titolari di un permesso di dimora è retto dal diritto previgente durante due anni a contare dall’entrata in vigore della presente legge.
 
-[^121-1]: [CS **1** 117; [RU 1949 225](https://fedlex.data.admin.ch/eli/oc/1949/221_225_225); [1987 1665](https://fedlex.data.admin.ch/eli/oc/1987/1665_1665_1665); [1988 332](https://fedlex.data.admin.ch/eli/oc/1988/332_332_332); [1990 1587](https://fedlex.data.admin.ch/eli/oc/1990/1587_1587_1587)art. 3 cpv. 2; [1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362)cifra II 11, [1034](https://fedlex.data.admin.ch/eli/oc/1991/1034_1034_1034)cifra III; [1995 146](https://fedlex.data.admin.ch/eli/oc/1995/146_146_146); [1999 1111](https://fedlex.data.admin.ch/eli/oc/1999/148), [2253](https://fedlex.data.admin.ch/eli/oc/1999/356), [2262](https://fedlex.data.admin.ch/eli/oc/1999/358)all. n. 1; [2000 1891](https://fedlex.data.admin.ch/eli/oc/2000/293)cifra IV n. 2; [2002 685](https://fedlex.data.admin.ch/eli/oc/2002/139)cifra I n. 1, [701](https://fedlex.data.admin.ch/eli/oc/2002/140)cifra I n. 1, [3988](https://fedlex.data.admin.ch/eli/oc/2002/639)all. n. 3; [2003 4557](https://fedlex.data.admin.ch/eli/oc/2003/674)all. cifra II n. 2; [2004 1633](https://fedlex.data.admin.ch/eli/oc/2004/200)cifra I n. 1, [4655](https://fedlex.data.admin.ch/eli/oc/2004/715)cifra I n. 1; [2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782)all. n. 2; [2006 979](https://fedlex.data.admin.ch/eli/oc/2006/178)art. 2 n. 1, [1931](https://fedlex.data.admin.ch/eli/oc/2006/301)art. 18 n. 1, [2197](https://fedlex.data.admin.ch/eli/oc/2006/352)all. n. 3, [3459](https://fedlex.data.admin.ch/eli/oc/2006/549)all. n. 1, [4745](https://fedlex.data.admin.ch/eli/oc/2006/727)all. n. 1; [2007 359](https://fedlex.data.admin.ch/eli/oc/2007/71)all. n. 1. [RU 2007 5437](https://fedlex.data.admin.ch/eli/oc/2007/758)all. cifra I]. Vedi ora: la LF del 16 dic. 2005 sugli stranieri e la loro integrazione ([RS 142.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4851)).
+[^121-1]: [CS **1** 117; [RU 1949 225](https://fedlex.data.admin.ch/eli/oc/1949/221_225_225); [1987 1665](https://fedlex.data.admin.ch/eli/oc/1987/1665_1665_1665); [1988 332](https://fedlex.data.admin.ch/eli/oc/1988/332_332_332); [1990 1587](https://fedlex.data.admin.ch/eli/oc/1990/1587_1587_1587)art. 3 cpv. 2; [1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362)cifra II n. 11, [1034](https://fedlex.data.admin.ch/eli/oc/1991/1034_1034_1034)cifra III; [1995 146](https://fedlex.data.admin.ch/eli/oc/1995/146_146_146); [1999 1111](https://fedlex.data.admin.ch/eli/oc/1999/148), [2253](https://fedlex.data.admin.ch/eli/oc/1999/356), [2262](https://fedlex.data.admin.ch/eli/oc/1999/358)all. n. 1; [2000 1891](https://fedlex.data.admin.ch/eli/oc/2000/293)cifra IV n. 2; [2002 685](https://fedlex.data.admin.ch/eli/oc/2002/139)cifra I n. 1, [701](https://fedlex.data.admin.ch/eli/oc/2002/140)cifra I n. 1, [3988](https://fedlex.data.admin.ch/eli/oc/2002/639)all. n. 3; [2003 4557](https://fedlex.data.admin.ch/eli/oc/2003/674)all. cifra II n. 2; [2004 1633](https://fedlex.data.admin.ch/eli/oc/2004/200)cifra I n. 1, [4655](https://fedlex.data.admin.ch/eli/oc/2004/715)cifra I n. 1; [2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782)all. n. 2; [2006 979](https://fedlex.data.admin.ch/eli/oc/2006/178)art. 2 n. 1, [1931](https://fedlex.data.admin.ch/eli/oc/2006/301)art. 18 n. 1, [2197](https://fedlex.data.admin.ch/eli/oc/2006/352)all. n. 3, [3459](https://fedlex.data.admin.ch/eli/oc/2006/549)all. n. 1, [4745](https://fedlex.data.admin.ch/eli/oc/2006/727)all. n. 1; [2007 359](https://fedlex.data.admin.ch/eli/oc/2007/71)all. n. 1. [RU 2007 5437](https://fedlex.data.admin.ch/eli/oc/2007/758)all. cifra I]. Vedi ora: la LF del 16 dic. 2005 sugli stranieri e la loro integrazione ([RS 142.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4851)).
 
 #### Art. 122
 
@@ -3255,19 +3502,21 @@ Allegato 1[^t-1]
 
 ## Accordi di associazione alla normativa di Dublino
 
-[^t-1]: Introdotto dall’all. n. 1 della LF del 13 giu. 2008 (Complementi nel quadro della trasposizione degli Acc. d’associazione alla normativa di Schengen e Dublino), in vigore dal 12 dic. 2008 ([RU 2008 5407](https://fedlex.data.admin.ch/eli/oc/2008/756), [5405](https://fedlex.data.admin.ch/eli/oc/2008/755)art. 2 lett. c; [FF 2007 7149](https://fedlex.data.admin.ch/eli/fga/2007/1287)).
+[^t-1]: Introdotto dall’all. n. 1 della LF del 13 giu. 2008 (Complementi nel quadro della trasposizione degli Acc. d’associazione alla normativa di Schengen e Dublino ([RU 2008 5407](https://fedlex.data.admin.ch/eli/oc/2008/756), [5405](https://fedlex.data.admin.ch/eli/oc/2008/755)art. 2 lett. c; [FF 2007 7149](https://fedlex.data.admin.ch/eli/fga/2007/1287)). Nuovo testo giusta l’all. 1 n. 2 del DF del 26 set. 2025 che approva e traspone nel diritto svizzero gli scambi di note tra la Svizzera e l’UE concernenti il recepimento del regolamento (UE) 2024/1351 sulla gestione dell’asilo e della migrazione e del regolamento (UE) 2024/1359 concernente le situazioni di crisi e di forza maggiore nel settore della migrazione e dell’asilo, in vigore dal 12 giu. 2026 ([RU 2026 229](https://fedlex.data.admin.ch/eli/oc/2026/229); [FF 2025 1478](https://fedlex.data.admin.ch/eli/fga/2025/1478)).
 
 Gli accordi di associazione alla normativa di Dublino comprendono:
 
-- a. Accordo del 26 ottobre 2004[^annex1-lvlu1-1] tra la Confederazione Svizzera e la Comunità europea sui criteri e i meccanismi per determinare lo Stato competente per l’esame di una domanda di asilo presentata in uno degli Stati membri o in Svizzera (AAD);
-- b. Accordo del 17 dicembre 2004[^annex1-lvlu1-2] tra la Confederazione Svizzera, la Repubblica d’Islanda e il Regno di Norvegia sull’attuazione, l’applicazione e lo sviluppo dell’acquis di Schengen nonché sui criteri e i meccanismi per determinare lo Stato competente per l’esame di una domanda d’asilo presentata in Svizzera, in Islanda o in Norvegia;
-- c. Protocollo del 28 febbraio 2008[^annex1-lvlu1-3] tra la Confederazione Svizzera e la Comunità europea e il Principato del Liechtenstein dell’accordo tra la Confederazione Svizzera e la Comunità europea relativo ai criteri e ai meccanismi che permettono di determinare lo Stato competente per l’esame di una domanda di asilo introdotta in uno degli stati membri o in Svizzera;
-- d. Protocollo del 28 febbraio 2008[^annex1-lvlu1-4] tra la Confederazione Svizzera, la Comunità europea e il Principato del Liechtenstein sull’adesione del Principato del Liechtenstein all’accordo tra la Confederazione Svizzera e la Comunità europea relativo ai criteri e ai meccanismi che permettono di determinare lo stato competente per l’esame di una domanda di asilo introdotta in uno degli stati membri o in Svizzera.
+- a. Accordo del 26 ottobre 2004[^annex1-lvlu1-1] tra la Confederazione Svizzera e la Comunità europea relativo ai criteri e ai meccanismi che permettono di determinare lo Stato competente per l’esame di una domanda di asilo introdotta in uno degli Stati membri o in Svizzera;
+- b. Accordo del 17 dicembre 2004[^annex1-lvlu1-2] tra la Confederazione Svizzera, la Repubblica d’Islanda e il Regno di Norvegia sull’attuazione, l’applicazione e lo sviluppo dell’acquis di Schengen nonché sui criteri e i meccanismi per determinare lo Stato competente per l’esame di una domanda di asilo presentata in Svizzera, in Islanda o in Norvegia;
+- c. Protocollo del 28 febbraio 2008[^annex1-lvlu1-3] tra la Confederazione Svizzera, la Comunità europea e il Principato del Liechtenstein dell’accordo tra la Confederazione Svizzera e la Comunità europea relativo ai criteri e ai meccanismi che permettono di determinare lo Stato competente per l’esame di una domanda di asilo introdotta in uno degli stati membri o in Svizzera;
+- d. Protocollo del 28 febbraio 2008[^annex1-lvlu1-4] tra la Confederazione Svizzera, la Comunità europea e il Principato del Liechtenstein sull’adesione del Principato del Liechtenstein all’accordo tra la Confederazione Svizzera e la Comunità europea relativo ai criteri e ai meccanismi che permettono di determinare lo stato competente per l’esame di una domanda di asilo introdotta in uno degli stati membri o in Svizzera;
+- e. Protocollo del 27 giugno 2019[^annex1-lvlu1-5] tra la Confederazione Svizzera, l’Unione europea e il Principato del Liechtenstein dell’Accordo tra la Confederazione Svizzera e la Comunità europea relativo ai criteri e ai meccanismi che permettono di determinare lo Stato competente per l’esame di una domanda di asilo introdotta in uno degli Stati membri o in Svizzera riguardante l’accesso a Eurodac a fini di contrasto.
 
 [^annex1-lvlu1-1]: [RS 0.142.392.68](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/443)
 [^annex1-lvlu1-2]: [RS 0.362.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1519)
 [^annex1-lvlu1-3]: [RS 0.142.393.141](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/451)
 [^annex1-lvlu1-4]: [RS 0.142.395.141](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/452)
+[^annex1-lvlu1-5]: [RS 0.142.392.682](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40016)
 
 Allegato 2[^t-2]
 
