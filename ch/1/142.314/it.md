@@ -4,11 +4,11 @@ title: "Ordinanza 3 dell' 11 agosto 1999 sull'asilo relativa al trattamento di d
 short: OAsi 3
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/361"
 language: it
-version: 2025-04-01
+version: 2026-06-12
 adopted: 1999-08-11
 in_force: 1999-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/361/20250401/it/xml/fedlex-data-admin-ch-eli-cc-1999-361-20250401-it-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/361/20250401/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/361/20260612/it/xml/fedlex-data-admin-ch-eli-cc-1999-361-20260612-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/361/20260612/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1999/361/20250401/it"
 
 (Ordinanza 3 sull’asilo, OAsi 3)
 
-dell’11 agosto 1999 (Stato 1° aprile 2025)
+dell’11 agosto 1999 (Stato 12 giugno 2026)
 
 Il Consiglio federale svizzero,
 
@@ -45,34 +45,27 @@ ordina:
 
 [^1a-2]
 
-La Segreteria di Stato della migrazione (SEM)[^1a-3] gestisce, per l’adempimento dei suoi compiti legali, i seguenti sistemi d’informazione:
+<sup>1</sup>
 
-- a. sistema d’informazione centrale sulla migrazione (SIMIC) conformemente all’ordinanza SIMIC del 12 aprile 2006[^1a-4];
-- b.[^1a-5] banca dati Kompass;
+La Segreteria di Stato della migrazione (SEM) gestisce, per l’adempimento dei suoi compiti legali, i seguenti sistemi d’informazione:
+
+- a. sistema d’informazione centrale sulla migrazione (SIMIC) conformemente all’ordinanza SIMIC del 12 aprile 2006[^1a-3];
+- b. banca dati Kompass;
 - c. amministrazione dei prestiti;
-- d.[^1a-6] ...
-- e.[^1a-7] banca dati sul finanziamento, la statistica e il controlling (FiSCo);
-- f. banca dati sui casi medici;
-- g. banca dati Aiuto individuale al ritorno;
-- h.[^1a-8] ...
-- i. sistema d’informazione per i centri della Confederazione[^1a-9] e per gli alloggi negli aeroporti (MIDES);
-- j.[^1a-10] sistema d’informazione AURORA conformemente all’articolo 12 dell’ordinanza dell’11 agosto 1999[^1a-11] concernente l’esecuzione dell’allontanamento e dell’espulsione di stranieri
-- k.[^1a-12] banca dati sul pool d’interpreti (DOPO);
-- l.[^1a-13] lo strumento di gestione dei termini (tool FM)*.*
+- d. banca dati sul finanziamento, la statistica e il controlling (FiSCo);
+- e. banca dati sui casi medici;
+- f. banca dati Aiuto individuale al ritorno;
+- g. sistema d’informazione per i centri della Confederazione e per gli alloggi negli aeroporti (MIDES);
+- h. sistema d’informazione eRetour conformemente all’articolo 12 dell’ordinanza dell’11 agosto 1999[^1a-4] concernente l’esecuzione dell’allontanamento e dell’espulsione di stranieri;
+- i. banca dati sul pool d’interpreti (DOPO);
+- j. strumento di gestione dei termini (tool FM).
 
-[^1a-1]: Introdotto dalla cifra I n. 5 dell’O del 22 ott. 2008 (Schengen/Dublino) ([RU 2008 5421](https://fedlex.data.admin.ch/eli/oc/2008/757)). Nuovo testo giusta la cifra I dell’O del 24 nov. 2010, in vigore dal 1° gen. 2011 ([RU 2010 5775](https://fedlex.data.admin.ch/eli/oc/2010/819)).
+<sup>2</sup> Partecipa alla gestione di Eurodac nel quadro dei propri compiti nel settore degli stranieri e dell’asilo.
+
+[^1a-1]: Introdotto dalla cifra I n. 5 dell’O del 22 ott. 2008 (Schengen/Dublino) ([RU 2008 5421](https://fedlex.data.admin.ch/eli/oc/2008/757)). Nuovo testo giusta la cifra I dell’O del 20 mag. 2026, in vigore dal 12 giu. 2026 ([RU 2026 266](https://fedlex.data.admin.ch/eli/oc/2026/266)).
 [^1a-2]: LF del 20 giu. 2003 sul sistema d’informazione per il settore degli stranieri e dell’asilo ([RS 142.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4898)).
-[^1a-3]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 16 cpv. 3 dell’O del 17 nov. 2004 sulle pubblicazioni ufficiali ([RU 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)), con effetto dal 1° gen. 2015. Di detta mod. é tenuto conto in tutto il presente testo.
-[^1a-4]: [RS 142.513](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4900)
-[^1a-5]: Nuovo testo giusta la cifra I dell’O del 22 mar. 2017, in vigore dal 15 apr. 2017 ([RU 2017 2175](https://fedlex.data.admin.ch/eli/oc/2017/200)).
-[^1a-6]: Abrogata dalla cifra I dell’O del 22 mar. 2017, con effetto dal 15 apr. 2017 ([RU 2017 2175](https://fedlex.data.admin.ch/eli/oc/2017/200)).
-[^1a-7]: Nuovo testo giusta la cifra I dell’O del 15 set. 2023, in vigore dal 1° gen. 2024 ([RU 2023 550](https://fedlex.data.admin.ch/eli/oc/2023/550)).
-[^1a-8]: Abrogata dalla cifra I dell’O del 18 set. 2015, con effetto dal 15 ott. 2015 ([RU 2015 3729](https://fedlex.data.admin.ch/eli/oc/2015/627)).
-[^1a-9]: Nuova espr. giusta la cifra I dell’O dell’8 giu. 2018, in vigore dal 1° mar. 2019 ([RU 2018 2889](https://fedlex.data.admin.ch/eli/oc/2018/441)).
-[^1a-10]: La mod. giusta la cifra I n. 6 dell’O del 1° feb. 2017 sull’attuazione dell’espulsione giudiziaria, in vigore dal 1° mar. 2017, concerne soltanto il testo tedesco ([RU 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)).
-[^1a-11]: [RS 142.281](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4867)
-[^1a-12]: Introdotta dalla cifra I dell’O del 9 mag. 2012, in vigore dal 13 giu. 2012 ([RU 2012 2903](https://fedlex.data.admin.ch/eli/oc/2012/347)).
-[^1a-13]: Introdotta dalla cifra I dell’O del 1° mag. 2019, in vigore dal 1° giu. 2019 ([RU 2019 1437](https://fedlex.data.admin.ch/eli/oc/2019/281)).
+[^1a-3]: [[RS 142.513](https://www.fedlex.admin.ch/eli/cc/2006/303/de)](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4900)
+[^1a-4]: [RS 142.281](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4867)
 
 #### Art. 1b
 
@@ -255,6 +248,26 @@ La banca dati DOPO presenta le seguenti interfacce:
 
 [^1k-1]: Introdotto dalla cifra I dell’O del 1° mag. 2019, in vigore dal 1° giu. 2019 ([RU 2019 1437](https://fedlex.data.admin.ch/eli/oc/2019/281)).
 
+#### Art. 1l
+
+**Eurodac**[^1l-1]
+
+<sup>1</sup> Eurodac contiene i dati di cui all’allegato 1.
+
+<sup>2</sup>
+
+Per i seguenti gruppi di persone, a contare dalla comunicazione dei dati biometrici a Eurodac la durata di conservazione dei dati Eurodac è di:
+
+- a. richiedenti l’asilo, dieci anni;
+- b. persone ammesse in un programma di ammissione di gruppi di rifugiati, cinque anni;
+- c. persone alle quali è stata rifiutata l’ammissione in un gruppo di rifugiati oppure la cui procedura di ammissione è stata sospesa, tre anni;
+- d. persone alle quali è stata concessa protezione nel quadro della determinazione di un gruppo di rifugiati, cinque anni;
+- e. persone sbarcate a seguito di un’operazione di ricerca e soccorso, cinque anni.
+
+<sup>3</sup> I dati biometrici rilevati ai fini dell’esecuzione di una procedura di ammissione di gruppi di rifugiati non sono trasmessi a Eurodac.
+
+[^1l-1]: Introdotto dalla cifra I dell’O del 20 mag. 2026, in vigore dal 12 giu. 2026 ([RU 2026 266](https://fedlex.data.admin.ch/eli/oc/2026/266)).
+
 #### Art. 2
 
 **Divieto di comunicare i dati**[^2-1]
@@ -295,12 +308,13 @@ La SEM comunica alle competenti autorità preposte al perseguimento penale infor
 Per accertare l’identità di richiedenti l’asilo e persone bisognose di protezione le autorità competenti possono rilevare i seguenti dati biometrici:
 
 - a. impronte digitali;
-- b. fotografie.
+- b.[^5-2] immagini del volto.
 
-<sup>2</sup> L’accesso ai dati di cui al capoverso 1 è retto dall’allegato 1 dell’ordinanza del 12 aprile 2006[^5-2] concernente il sistema d’informazione centrale sulla migrazione (ordinanza SIMIC). I dati biometrici sono registrati nel sistema AFIS. Esso non contiene dati personali relativi agli interessati.
+<sup>2</sup> L’accesso ai dati di cui al capoverso 1 è retto dall’allegato 1 dell’ordinanza del 12 aprile 2006[^5-3] concernente il sistema d’informazione centrale sulla migrazione (ordinanza SIMIC). I dati biometrici sono registrati nel sistema AFIS. Esso non contiene dati personali relativi agli interessati.
 
 [^5-1]: Nuovo testo giusta la cifra I dell’O del 24 ott. 2007, in vigore dal 1° gen. 2008 ([RU 2007 5611](https://fedlex.data.admin.ch/eli/oc/2007/769)).
-[^5-2]: [RS 142.513](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4900)
+[^5-2]: Nuovo testo giusta la cifra I dell’O del 20 mag. 2026, in vigore dal 12 giu. 2026 ([RU 2026 266](https://fedlex.data.admin.ch/eli/oc/2026/266)).
+[^5-3]: [RS 142.513](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4900)
 
 #### Art. 6
 
@@ -310,9 +324,9 @@ Per accertare l’identità di richiedenti l’asilo e persone bisognose di prot
 
 [^6-2]
 
-<sup>1</sup> Non sono rilevati i dati biometrici di fanciulli di età inferiore a 14 anni accompagnati da un genitore.
+<sup>1</sup> Non sono rilevati i dati biometrici di fanciulli di età inferiore a sei anni accompagnati da un genitore.[^6-3]
 
-<sup>2</sup> Sono rilevati i dati biometrici di fanciulli di età inferiore a 14 anni non accompagnati unicamente se l’esame di tali dati consente di dedurre informazioni sulla loro identità.
+<sup>2</sup> …[^6-4]
 
 <sup>3</sup> Nei casi in cui la domanda è presentata dall’estero, al confine, all’aeroporto o in un Cantone, spetta alle autorità ivi competenti rilevare i dati biometrici.
 
@@ -326,37 +340,101 @@ Per accertare l’identità di richiedenti l’asilo e persone bisognose di prot
 
 [^6-1]: Nuovo testo giusta la cifra I dell’O del 24 ott. 2007, in vigore dal 1° gen. 2008 ([RU 2007 5611](https://fedlex.data.admin.ch/eli/oc/2007/769)).
 [^6-2]: [RS 142.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4898)
+[^6-3]: Nuovo testo giusta la cifra I dell’O del 20 mag. 2026, in vigore dal 12 giu. 2026 ([RU 2026 266](https://fedlex.data.admin.ch/eli/oc/2026/266)).
+[^6-4]: Abrogato dalla cifra I dell’O del 20 mag. 2026, con effetto dal 12 giu. 2026 ([RU 2026 266](https://fedlex.data.admin.ch/eli/oc/2026/266)).
 
 #### Art. 6a
 
-**Comunicazione di dati personali a uno Stato non vincolato da alcun accordo di associazione alla normativa di Schengen**[^6a-1]
+**Comunicazione di dati personali a uno Stato non-Dublino**[^6a-1]
 
 ### (art. 102*c* cpv. 3 e 4 LAsi)
 
-È data una protezione adeguata dei dati della persona interessata ai sensi dell’articolo 102*c* capoverso 3 LAsi se le garanzie adeguate adempiono i requisiti degli articoli 9–12 dell’ordinanza del 31 agosto 2022[^6a-2] sulla protezione dei dati (OPDa).
+[^6a-2]
+
+È data una protezione adeguata dei dati della persona interessata ai sensi dell’articolo 102*c* capoverso 3 LAsi se le garanzie adeguate adempiono i requisiti degli articoli 9–12 dell’ordinanza del 31 agosto 2022[^6a-3] sulla protezione dei dati (OPDa).
 
 [^6a-1]: Introdotto dalla cifra I n. 5 dell’O del 22 ott. 2008 (Schengen/Dublino) ([RU 2008 5421](https://fedlex.data.admin.ch/eli/oc/2008/757)). Nuovo testo giusta l’all. 2 cifra II n. 6 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
-[^6a-2]: [RS 235.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5994)
+[^6a-2]: Nuovo testo giusta la cifra I dell’O del 20 mag. 2026, in vigore dal 12 giu. 2026 ([RU 2026 266](https://fedlex.data.admin.ch/eli/oc/2026/266)).
+[^6a-3]: [RS 235.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5994)
 
 #### Art. 6b
 
-**Comunicazione di dati a uno Stato Dublino**[^6b-1]
+**Comunicazione di dati prima del trasferimento nello Stato Dublino competente**[^6b-1]
 
-<sup>1</sup>
+<sup>1</sup> Prima del trasferimento di un richiedente l’asilo nello Stato Dublino competente, la SEM comunica i dati personali di cui all’allegato V del regolamento di esecuzione (UE) 2025/2055[^6b-2] tramite la linea di comunicazione elettronica secondo l’articolo 1 di tale regolamento di esecuzione.
 
-Nel quadro dell’applicazione degli Accordi d’associazione alla normativa di Dublino[^6b-2], prima del trasferimento di un richiedente l’asilo nel competente Stato vincolato da un accordo di associazione alla normativa di Dublino (Stato Dublino), la SEM deve comunicare a detto Stato i seguenti dati:
+<sup>2</sup> Per le persone che necessitano di assistenza medica o di un trattamento medico comunica inoltre le informazioni riguardanti lo stato di salute fisica e mentale della persona interessata, di cui all’allegato VIII del regolamento di esecuzione (UE) 2025/2055.
 
-- a. i dati personali di cui all’allegato VI del regolamento (CE) 1560/2003[^6b-3]; e
-- b. le informazioni riguardanti lo stato di salute fisica e mentale della persona interessata, di cui all’allegato IX del regolamento (CE) 1560/2003, laddove siano necessarie ai fini dell’assistenza medica e del trattamento medico.
+<sup>3</sup> La procedura di comunicazione dei dati è retta dagli articoli 48 e 50 del regolamento (UE) 2024/1351[^6b-3] nonché dagli articoli 3–5 e dal capo V del regolamento di esecuzione (UE) 2025/2055.
 
-<sup>2</sup> Le informazioni di cui al capoverso 1 lettera b possono essere trasmesse soltanto tra professionisti sanitari o tra persone soggette a un corrispondente segreto professionale e soltanto con il consenso esplicito della persona interessata o del suo rappresentante. Se, per motivi fisici o giuridici, la persona interessata non è in grado di dare il proprio consenso, le informazioni possono essere comunicate eccezionalmente senza consenso esplicito qualora la tutela di interessi vitali della persona interessata o di una terza persona lo richieda.
+[^6b-1]: Introdotto dalla cifra I n. 4 dell’O del 12 giu. 2015 sull’adeguamento di ordinanze in seguito a innovazioni concernenti l’acquis di Dublino/Eurodac ([RU 2015 1849](https://fedlex.data.admin.ch/eli/oc/2015/358)). Nuovo testo giusta la cifra I dell’O del 20 mag. 2026, in vigore dal 12 giu. 2026 ([RU 2026 266](https://fedlex.data.admin.ch/eli/oc/2026/266)).
+[^6b-2]: Regolamento di esecuzione (UE) 2025/2055 della Commissione, del 2 ott. 2025, recante modalità di applicazione del regolamento (UE) 2024/1351 del Parlamento europeo e del Consiglio per quanto riguarda la gestione dell’asilo e della migrazione e che abroga il regolamento (CE) n. 1560/2003 della Commissione, versione della GU L, 2025/2055, 12.11.2025.
+[^6b-3]: Regolamento (UE) 2024/1351 del Parlamento europeo e del Consiglio, del 14 mag. 2024, sulla gestione dell’asilo e della migrazione, che modifica i regolamenti (UE) 2021/1147 e (UE) 2021/1060 e che abroga il regolamento (UE) n. 604/2013, versione della GU L, 2024/1351, 22.5.2024.
 
-<sup>3</sup> La procedura è retta dagli articoli 31 e 32 del regolamento (UE) 604/2013[^6b-4] e dagli articoli 8 paragrafo 3 e 15*a* del regolamento (UE) 1560/2003.
+#### Art. 6c
 
-[^6b-1]: Introdotto dalla cifra I n. 4 dell’O del 12 giu. 2015 sull’adeguamento di ordinanze in seguito a innovazioni concernenti l’acquis di Dublino/Eurodac, in vigore dal 1° lug. 2015 ([RU 2015 1849](https://fedlex.data.admin.ch/eli/oc/2015/358)).
-[^6b-2]: Gli Acc. di associazione alla normativa di Dublino sono menzionati nell’all. 4.
-[^6b-3]: Regolamento (CE) 1560/2003 della Commissione, del 2 set. 2003, recante modalità di applicazione del regolamento (CE) 343/2003 del Consiglio che stabilisce i criteri e i meccanismi di determinazione dello Stato membro competente per l’esame di una domanda d’asilo presentata in uno degli Stati membri da un cittadino di un Paese terzo, GU L 222 del 5.9.2003, pag. 3; modificato da ultimo dal regolamento di esecuzione (UE) 118/2014, GU L 39 dell’8.2.2014, pag. 1.
-[^6b-4]: Regolamento (UE) 604/2013 del Parlamento europeo e del Consiglio, del 26 giu. 2013, che stabilisce i criteri e i meccanismi di determinazione dello Stato membro competente per l’esame di una domanda di protezione internazionale presentata in uno degli Stati membri da un cittadino di un Paese terzo o da un apolide (rifusione), nella versione della GU L 180 del 29.6.2013, pag. 31.
+**Registrazione dei dati comunicati prima del trasferimento nello Stato Dublino competente**[^6c-1]
+
+I dati di cui all’articolo 6*b* capoverso 1 lettera b sono registrati nel sistema d’informazione eRetour. Vanno cancellati al massimo 12 mesi dopo che la persona ha lasciato la Svizzera o dopo la costatazione del suo passaggio alla clandestinità.
+
+[^6c-1]: Introdotto dalla cifra I dell’O del 20 mag. 2026, in vigore dal 12 giu. 2026 ([RU 2026 266](https://fedlex.data.admin.ch/eli/oc/2026/266)).
+
+#### Art. 6d
+
+**Comunicazione di dati Eurodac a Stati non-Dublino**[^6d-1]
+
+<sup>1</sup> I dati trattati in Eurodac non possono essere comunicati a Stati non-Dublino, organizzazioni internazionali, enti privati e persone fisiche.
+
+<sup>2</sup>
+
+Per provare l’identità di cittadini di Stati terzi ai fini del rimpatrio è possibile comunicare in via eccezionale dati personali Eurodac a uno Stato non-Dublino, purché:
+
+- a. siano rispettate le condizioni di cui all’articolo 50 paragrafi 3 e 5 del regolamento (UE) 2024/1358[^6d-2]; e
+- b. lo Stato che ha registrato i dati acconsenta alla comunicazione degli stessi.
+
+<sup>3</sup>
+
+Possono essere comunicati i seguenti dati rilevati in vista dell’esame di una domanda d’asilo, dell’accertamento dell’identità di cittadini di Stati terzi o apolidi soggiornanti illegalmente o dell’applicazione dei criteri del regolamento (UE) 2024/1351[^6d-3]:
+
+- a. nome, cognome, cognome alla nascita, eventuali cognomi precedenti e «alias»;
+- b. sesso;
+- c. data, luogo e Paese di nascita;
+- d. cittadinanza;
+- e.
+
+  le seguenti indicazioni riguardanti il documento di viaggio:
+
+  - 1\. tipo e numero del documento di viaggio,
+  - 2\. data di scadenza,
+  - 3\. autorità di rilascio,
+  - 4\. Paese di rilascio;
+
+- f. dati biometrici di persone che chiedono protezione internazionale, persone cui è stata concessa protezione, persone ammesse nel quadro di un programma di ammissione di gruppi di rifugiati, persone soggiornanti illegalmente o persone registrate come sbarcate a seguito di un’operazione di ricerca e soccorso.
+
+<sup>4</sup>
+
+Contemporaneamente ai dati biometrici di cui al capoverso 3 lettera f possono essere comunicati:
+
+- a.
+
+  i seguenti metadati relativi ai dati biometrici:
+
+  - 1\. data di rilevamento,
+  - 2\. data di comunicazione a Eurodac;
+
+- b.
+
+  i seguenti dati relativi all’interessato:
+
+  - 1\. Stato membro d’origine, luogo e data della registrazione, numero di riferimento assegnato dallo Stato membro d’origine,
+  - 2\. una copia a colori scansionata di un documento di identità o di viaggio o di un altro documento che faciliti l’identificazione, accompagnata da un’indicazione della sua autenticità,
+  - 3\. luogo e data dell’eventuale sbarco;
+
+- c. identificativo utente dell’operatore.
+
+[^6d-1]: Introdotto dalla cifra I dell’O del 20 mag. 2026, in vigore dal 12 giu. 2026 ([RU 2026 266](https://fedlex.data.admin.ch/eli/oc/2026/266)).
+[^6d-2]: Regolamento (UE) 2024/1358 del Parlamento europeo e del Consiglio, del 14 mag. 2024, che istituisce l’«Eurodac» per il confronto dei dati biometrici ai fini dell’applicazione efficace dei regolamenti (UE) 2024/1351 e (UE) 2024/1350 del Parlamento europeo e del Consiglio e della direttiva 2001/55/CE del Consiglio e ai fini dell’identificazione dei cittadini di paesi terzi e apolidi il cui soggiorno è irregolare, e per le richieste di confronto con i dati Eurodac presentate dalle autorità di contrasto degli Stati membri e da Europol a fini di contrasto, che modifica i regolamenti (UE) 2018/1240 e (UE) 2019/818 del Parlamento europeo e del Consiglio e che abroga il regolamento (UE) n. 603/2013 del Parlamento europeo e del Consiglio, versione della GU L, 2024/1358, 22.5.2024.
+[^6d-3]: Cfr. nota a piè di pagina relativa all’art. 6*b* cpv. 3.
 
 #### Art. 7 e 8
 
@@ -532,64 +610,130 @@ Nel momento in cui è invitato a consegnare i suoi supporti elettronici di dati,
 
 **Esperto in dattiloscopia**[^11-1]
 
-### (art. 102*a*<sup>ter</sup> LAsi)
+### (art. 102*a*<sup>quinquies</sup> LAsi)
 
-<sup>1</sup> La verifica dei risultati delle consultazioni Eurodac è affidata a un esperto in dattiloscopia dei Servizi AFIS DNA dell’Ufficio federale di polizia (fedpol).
+<sup>1</sup> La verifica dei risultati del confronto automatico di dati Eurodac secondo l’articolo 102*a*<sup>ter</sup> capoverso 5 LAsi è affidata a un esperto in dattiloscopia dei servizi competenti per l’identificazione biometrica dell’Ufficio federale di polizia (fedpol).
 
-<sup>2</sup> In caso di risultato positivo della consultazione Eurodac, la SEM lo rende accessibile ai Servizi AFIS DNA. L’esperto procede alla verifica il più presto possibile e trasmette senza indugio l’esito della sua verifica alla SEM.
+<sup>2</sup> In caso di risultato positivo del confronto automatico di dati Eurodac, nei casi previsti la SEM lo rende accessibile ai servizi competenti per l’identificazione biometrica. L’esperto in dattiloscopia procede alla verifica il più presto possibile e trasmette senza indugio l’esito della sua verifica alla SEM.
 
-<sup>3</sup> Se dalla verifica emerge che le impronte digitali non corrispondono, la SEM cancella senza indugio il risultato della consultazione.
+<sup>3</sup>
 
-<sup>4</sup> La SEM informa la Commissione europea e l’Agenzia eu-LISA quanto prima possibile ma al più tardi entro tre giorni lavorativi della mancata corrispondenza delle impronte digitali.
+Se dalla verifica emerge che le impronte digitali non corrispondono, la SEM:
+
+- a. cancella senza indugio il risultato della consultazione; e
+- b. ne informa la Commissione europea e l’Agenzia eu-LISA quanto prima possibile ma al più tardi entro tre giorni lavorativi.
+
+<sup>4</sup> Se dalla verifica emerge che le impronte digitali corrispondono, la SEM informa l’Agenzia eu-LISA in merito al risultato positivo.
 
 <sup>5</sup>
 
-I Servizi AFIS DNA devono parimenti esaminare le impronte digitali, se:
+I servizi competenti per l’identificazione biometrica esaminano inoltre le impronte digitali, se:
 
-- a. dopo la concessione della protezione internazionale a una persona da parte di uno Stato Dublino e dopo il corrispondente contrassegno dei dati in Eurodac, la SEM è informata del fatto che essa ha già registrato i dati di tale persona e ottiene le impronte digitali del sistema centrale per apposizione del contrassegno; oppure
+- a. dopo la concessione della protezione internazionale o il rilascio di un titolo di soggiorno a una persona da parte di uno Stato Dublino e dopo il corrispondente contrassegno dei dati in Eurodac, la SEM è informata del fatto che essa ha già registrato i dati di tale persona e ottiene le impronte digitali del sistema centrale per apposizione del contrassegno; oppure
 - b. al momento della cancellazione anticipata dei dati di una persona in Eurodac, la SEM è informata del fatto che essa ha già registrato i dati di tale persona e ottiene le impronte digitali del sistema centrale per cancellazione.
 
-[^11-1]: Nuovo testo giusta la cifra I n. 4 dell’O del 12 giu. 2015 sull’adeguamento di ordinanze in seguito a innovazioni concernenti l’acquis di Dublino/Eurodac, in vigore dal 20 lug. 2015 ([RU 2015 1849](https://fedlex.data.admin.ch/eli/oc/2015/358)).
+[^11-1]: Nuovo testo giusta la cifra I dell’O del 20 mag. 2026, in vigore dal 12 giu. 2026 ([RU 2026 266](https://fedlex.data.admin.ch/eli/oc/2026/266)).
 
 #### Art. 11a
 
-**Diritto d’accesso e diritto di rettifica o di cancellazione dei dati Eurodac**[^11a-1]
+**Esperti in immagini del volto**[^11a-1]
 
-<sup>1</sup> Chiunque fa valere il proprio diritto d’accesso, il proprio diritto di rettifica o il proprio diritto di cancellazione dei dati Eurodac deve fornire tutte le indicazioni necessarie alla propria identificazione, comprese le impronte digitali, e presentare una domanda scritta alla SEM.
+### (art. 102*a*<sup>quinquies</sup> LAsi)
 
-<sup>2</sup> La SEM tratta la domanda di diritto d’accesso d’intesa con l’autorità che ha registrato i dati o con lo Stato che ha trasferito i dati all’unità centrale.
+<sup>1</sup> La verifica dei risultati del confronto automatico di dati Eurodac secondo l’articolo 102*a*<sup>ter</sup> capoverso 5 LAsi è affidata a un esperto in immagini del volto dei servizi competenti per l’identificazione biometrica di fedpol.
 
-<sup>3</sup> Essa registra le domande di diritto d’accesso e le trasmette all’Incaricato federale della protezione dei dati e della trasparenza (IFPDT). Informa l’IFPDT in merito alle modalità secondo cui ha trattato le domande.
+<sup>2</sup> In caso di risultato positivo del confronto automatico di dati Eurodac, nei casi previsti la SEM lo rende accessibile ai servizi competenti per l’identificazione biometrica. L’esperto in immagini del volto procede alla verifica il più presto possibile e trasmette senza indugio l’esito della sua verifica alla SEM.
 
-<sup>4</sup> Se una persona fa valere il proprio diritto di rettifica o di cancellazione di dati Eurodac che non sono stati registrati da autorità svizzere, la SEM contatta entro un termine adeguato gli Stati che hanno registrato i dati e trasmette loro la domanda. La SEM informa la persona interessata della trasmissione della domanda.
+<sup>3</sup>
 
-<sup>5</sup> La SEM tratta senza indugio le domande d’accesso, di rettifica o di cancellazione.
+Se dalla verifica emerge che le immagini del volto non corrispondono, la SEM:
 
-<sup>6</sup> Essa conferma per scritto e senza indugio alla persona interessata tutte le rettifiche o cancellazioni di dati. Se non è disposta a rettificare o cancellare i dati, ne rende noti i motivi.
+- a. cancella senza indugio il risultato della consultazione; e
+- b. ne informa la Commissione europea e l’Agenzia eu-LISA quanto prima possibile ma al più tardi entro tre giorni lavorativi.
 
-<sup>7</sup> Le indicazioni necessarie per l’identificazione di cui al capoverso 1, comprese le impronte digitali, sono cancellate senza indugio dopo il trattamento della domanda.
+<sup>4</sup> Se dalla verifica emerge che le immagini del volto corrispondono, la SEM informa l’Agenzia eu-LISA in merito al risultato positivo.
 
-[^11a-1]: Introdotto dalla cifra I n. 4 dell’O del 12 giu. 2015 sull’adeguamento di ordinanze in seguito a innovazioni concernenti l’acquis di Dublino/Eurodac, in vigore dal 20 lug. 2015 ([RU 2015 1849](https://fedlex.data.admin.ch/eli/oc/2015/358)). Correzione del 7 lug. 2015 ([RU 2015 2237](https://fedlex.data.admin.ch/eli/oc/2015/414)).
+<sup>5</sup>
+
+I servizi competenti per l’identificazione biometrica esaminano inoltre le immagini del volto, se:
+
+- a. dopo la concessione della protezione internazionale o il rilascio di un titolo di soggiorno a una persona da parte di uno Stato Dublino e dopo il corrispondente contrassegno dei dati in Eurodac, la SEM è informata del fatto che essa ha già registrato i dati di tale persona e ottiene le impronte digitali del sistema centrale per apposizione del contrassegno; oppure
+- b. al momento della cancellazione anticipata dei dati di una persona in Eurodac, la SEM è informata del fatto che essa ha già registrato i dati di tale persona e ottiene le impronte digitali del sistema centrale per cancellazione.
+
+<sup>6</sup> Se la consultazione automatica di Eurodac ha dato un riscontro positivo per quanto riguarda sia le impronte digitali sia l’immagine del volto, il risultato può essere verificato da un esperto in immagini del volto.
+
+[^11a-1]: Introdotto dalla cifra I n. 4 dell’O del 12 giu. 2015 sull’adeguamento di ordinanze in seguito a innovazioni concernenti l’acquis di Dublino/Eurodac ([RU 2015 1849](https://fedlex.data.admin.ch/eli/oc/2015/358)). Nuovo testo giusta la cifra I dell’O del 20 mag. 2026, in vigore dal 12 giu. 2026 ([RU 2026 266](https://fedlex.data.admin.ch/eli/oc/2026/266)).
 
 #### Art. 11b
 
-**Responsabilità in relazione con la gestione di Eurodac**[^11b-1]
+**Diritto d’accesso**[^11b-1]
 
-La responsabilità in caso di danni in relazione con la gestione di Eurodac è retta dalla legge del 14 marzo 1958[^11b-2] sulla responsabilità, in particolare dagli articoli 19*a*–19*c*, che si applicano per analogia.
+<sup>1</sup> Il diritto d’accesso è retto dalla LPD[^11b-2].
 
-[^11b-1]: Introdotto dalla cifra I n. 4 dell’O del 12 giu. 2015 sull’adeguamento di ordinanze in seguito a innovazioni concernenti l’acquis di Dublino/Eurodac, in vigore dal 20 lug. 2015 ([RU 2015 1849](https://fedlex.data.admin.ch/eli/oc/2015/358)). Correzione del 7 lug. 2015 ([RU 2015 2237](https://fedlex.data.admin.ch/eli/oc/2015/414)).
-[^11b-2]: [RS 170.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4971)
+<sup>2</sup> La SEM tratta le domande d’accesso.
+
+[^11b-1]: Introdotto dalla cifra I n. 4 dell’O del 12 giu. 2015 sull’adeguamento di ordinanze in seguito a innovazioni concernenti l’acquis di Dublino/Eurodac ([RU 2015 1849](https://fedlex.data.admin.ch/eli/oc/2015/358)). Nuovo testo giusta la cifra I dell’O del 20 mag. 2026, in vigore dal 12 giu. 2026 ([RU 2026 266](https://fedlex.data.admin.ch/eli/oc/2026/266)).
+[^11b-2]: [RS 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 
 #### Art. 11c
 
-**Vigilanza sul trattamento dei dati Eurodac**[^11c-1]
+**[Diritto di rettifica, integrazione o cancellazione dei dati](https://www.fedlex.admin.ch/eli/cc/2021/734/de)**[^11c-1]
 
-<sup>1</sup> Nell’esercizio delle proprie funzioni, l’IFPDT coopera con il Garante europeo della protezione dei dati; per quest’ultimo funge da referente nazionale.
+<sup>1</sup> La procedura relativa all’esercizio del diritto di rettifica, integrazione o cancellazione dei dati Eurodac è retta dall’articolo 43 del regolamento (UE) 2024/1358[^11c-2].
 
-<sup>2</sup> L’IFPDT è l’autorità nazionale secondo gli articoli 29 paragrafi 11–13 e 30 del regolamento (UE) 603/2013[^11c-2]. Gli incombono i compiti definiti in tali articoli.
+<sup>2</sup> La SEM tratta le domande di rettifica, integrazione o cancellazione dei dati.
 
-[^11c-1]: Introdotto dalla cifra I n. 4 dell’O del 12 giu. 2015 sull’adeguamento di ordinanze in seguito a innovazioni concernenti l’acquis di Dublino/Eurodac, in vigore dal 20 lug. 2015 ([RU 2015 1849](https://fedlex.data.admin.ch/eli/oc/2015/358)). Correzione del 7 lug. 2015 ([RU 2015 2237](https://fedlex.data.admin.ch/eli/oc/2015/414)).
-[^11c-2]: Regolamento (UE) 603/2013 del Parlamento europeo e del Consiglio, del 26 giu. 2013, che istituisce l’«Eurodac» per il confronto delle impronte digitali per l’efficace applicazione del regolamento (UE) 604/2013 che stabilisce i criteri e i meccanismi di determinazione dello Stato membro competente per l’esame di una domanda di protezione internazionale presentata in uno degli Stati membri da un cittadino di un Paese terzo o da un apolide e per le richieste di confronto con i dati Eurodac presentate dalle autorità di contrasto degli Stati membri e da Europol a fini di contrasto, e che modifica il regolamento (UE) 1077/2011 che istituisce un’agenzia europea per la gestione operativa dei sistemi IT su larga scala nello spazio di libertà, sicurezza e giustizia (rifusione), nella versione della GU L 180 del 29.6.2013, pag. 1.
+[^11c-1]: Introdotto dalla cifra I n. 4 dell’O del 12 giu. 2015 sull’adeguamento di ordinanze in seguito a innovazioni concernenti l’acquis di Dublino/Eurodac ([RU 2015 1849](https://fedlex.data.admin.ch/eli/oc/2015/358)). Nuovo testo giusta la cifra I dell’O del 20 mag. 2026, in vigore dal 12 giu. 2026 ([RU 2026 266](https://fedlex.data.admin.ch/eli/oc/2026/266)).
+[^11c-2]: Cfr. nota a piè di pagina relativa all’art. 6*d* cpv. 2 lett. a.
+
+#### Art. 11d
+
+**Vigilanza sul trattamento dei dati Eurodac**[^11d-1]
+
+<sup>1</sup> Nell’esercizio dei propri compiti, l’IFPDT coopera con il Garante europeo della protezione dei dati. Per quest’ultimo funge da referente nazionale.
+
+<sup>2</sup> L’IFPDT è l’autorità nazionale di controllo ai sensi degli articoli 43 paragrafo 9, 44, 47 paragrafo 1 e 50 paragrafo 4 del regolamento (UE) 2024/1358[^11d-2]. Gli incombono i compiti definiti in tali articoli.
+
+[^11d-1]: Introdotto dalla cifra I dell’O del 20 mag. 2026, in vigore dal 12 giu. 2026 ([RU 2026 266](https://fedlex.data.admin.ch/eli/oc/2026/266)).
+[^11d-2]: Cfr. nota a piè di pagina relativa all’art. 6*d* cpv. 2 lett. a.
+
+#### Art. 11e
+
+**Registrazione audio nella procedura Dublino**[^11e-1]
+
+### (art. 26 cpv. 3<sup>quater</sup> LAsi)
+
+<sup>1</sup>
+
+La registrazione audio del colloquio di cui all’articolo 22 del regolamento (UE) 2024/1351[^11e-2] serve:
+
+- a. come mezzo probatorio nella procedura Dublino in caso di dubbi in merito alle affermazioni rilasciate dal richiedente l’asilo durante il colloquio;
+- b. per l’esecuzione di un controllo qualitativo dei rapporti d’interrogazione da parte della SEM.
+
+<sup>2</sup> La registrazione audio è registrata temporaneamente quale file digitale su un server sicuro del Dipartimento federale di giustizia e polizia (DFGP).
+
+<sup>3</sup>
+
+Sono autorizzati a trattare i dati personali contenuti in una registrazione audio unicamente i collaboratori:
+
+- a. della SEM competenti per compiti nel quadro della procedura Dublino o per il controllo di qualità di cui al capoverso 1 lettera b;
+- b. del Tribunale amministrativo federale (TAF) che si occupano della procedura di ricorso contro una decisione sull’asilo.
+
+<sup>4</sup> La SEM garantisce al TAF, su sua richiesta, un accesso sicuro alle registrazioni audio registrate temporaneamente sul server del DFGP. Se le registrazioni non sono accessibili durante più giorni il TAF può richiedere, all’occorrenza, una trascrizione manuale.
+
+<sup>5</sup> Il richiedente l’asilo può chiedere di ascoltare la registrazione audio sul posto. Se il richiedente l’asilo o la sua rappresentanza legale si avvale di tale diritto, la SEM comunica il luogo, la data e l’ora previsti a tal fine. È vietato trasmettere il file digitale in qualsivoglia forma per assecondare questa richiesta.
+
+<sup>6</sup> Se la registrazione audio è incompleta o difettosa, dopo aver preso atto dell’incompletezza o del difetto il richiedente l’asilo può pretendere un nuovo colloquio. Se non viene immediatamente preteso un nuovo colloquio, è determinante il rapporto d’interrogazione.
+
+<sup>7</sup>
+
+La registrazione audio è cancellata dal server del DFGP:
+
+- a. dopo sei mesi dal passaggio in giudicato della decisione di non entrata nel merito secondo l’articolo 31*a* capoverso 1 lettera b LAsi;
+- b. quando si conclude la procedura di determinazione dello Stato Dublino competente a causa dell’avvio di una procedura d’asilo in Svizzera.
+
+[^11e-1]: Introdotto dalla cifra I dell’O del 20 mag. 2026, in vigore dal 12 giu. 2026 ([RU 2026 266](https://fedlex.data.admin.ch/eli/oc/2026/266)).
+[^11e-2]: Cfr. nota a piè di pagina relativa all’art. 6*b* cpv. 3.
 
 #### Art. 12
 
@@ -640,9 +784,168 @@ La SEM ha la competenza di concludere trattati internazionali in vista del recep
 
 La presente ordinanza entra in vigore il 1° ottobre 1999.
 
-Allegati 1 e 2[^t-1]
+Allegati 1[^t-1]
 
-[^t-1]: Abrogati dell’all. 3 n. 5 dell’O del 12 apr. 2006 concernente il sistema d’informazione centrale sulla migrazione, con effetto dal 29 mag. 2006 ([RU 2006 1945](https://fedlex.data.admin.ch/eli/oc/2006/303)).
+(art. 1*l* cpv. 1)
+
+## Dati del sistema Eurodac
+
+[^t-1]: Nuovo testo giusta la cifra II dell’O del 20 mag. 2026, in vigore dal 12 giu. 2026 ([RU 2026 266](https://fedlex.data.admin.ch/eli/oc/2026/266)).
+
+### 1. Dati del settore dell’asilo
+
+### Richiesta di protezione internazionale (CAT 1)
+
+<table>
+<tr><td>dati relativi alle impronte digitali</td></tr>
+<tr><td>immagine del volto</td></tr>
+<tr><td>cognomi e nomi, cognomi alla nascita, eventuali cognomi precedenti e «alias» che possono essere registrati a parte</td></tr>
+<tr><td>cittadinanza o cittadinanze</td></tr>
+<tr><td>data di nascita</td></tr>
+<tr><td>luogo di nascita</td></tr>
+<tr><td>Stato membro d’origine, luogo e data in cui è stata presentata la domanda di protezione internazionale; nei casi di cui all’articolo 16 paragrafo 2 lettera a del regolamento (UE) 2024/1358[^annex1-lvlu1-lvl1-lvlu1-1], la data della domanda corrisponde alla data inserita dallo Stato membro che ha provveduto al trasferimento del richiedente</td></tr>
+<tr><td>sesso</td></tr>
+<tr><td>ove disponibili, tipo e numero del documento di identità o di viaggio; codice a tre lettere del Paese di rilascio e data di scadenza di tale documento</td></tr>
+<tr><td>una copia a colori scansionata di un documento di identità o di viaggio corredata di un’indicazione della sua autenticità o, se non disponibile, di un altro documento che faciliti l’identificazione del cittadino di Paese terzo o dell’apolide accompagnato da un’indicazione della sua autenticità</td></tr>
+<tr><td>numero di riferimento assegnato dallo Stato membro d’origine</td></tr>
+<tr><td>data di rilevamento dei dati biometrici</td></tr>
+<tr><td>data della trasmissione dei dati all’Eurodac</td></tr>
+<tr><td>identificativo utente dell’operatore</td></tr>
+<tr><td>lo Stato membro competente nei casi di cui all’articolo 16 paragrafo 1, 2 o 3 del regolamento (UE) 2024/1358</td></tr>
+<tr><td>lo Stato membro di ricollocazione conformemente all’articolo 25 paragrafo 1 del regolamento (UE) 2024/1358</td></tr>
+<tr><td>nei casi di cui all’articolo 16 paragrafo 2 lettera a del regolamento (UE) 2024/1358: la data di arrivo dell’interessato in seguito al buon esito del trasferimento</td></tr>
+<tr><td>nei casi di cui all’articolo 16 paragrafo 2 lettera b del regolamento (UE) 2024/1358: la data di arrivo dell’interessato in seguito al buon esito del trasferimento</td></tr>
+<tr><td>nei casi di cui all’articolo 16 paragrafo 2 lettera c del regolamento (UE) 2024/1358: la data in cui l’interessato ha lasciato il territorio degli Stati membri</td></tr>
+<tr><td>nei casi di cui all’articolo 16 paragrafo 2 lettera d del regolamento (UE) 2024/1358: la data in cui l’interessato è stato allontanato dal territorio degli Stati membri o lo ha lasciato</td></tr>
+<tr><td>nei casi di cui all’articolo 25 paragrafo 2 del regolamento (UE) 2024/1358: la data di arrivo dell’interessato in seguito al buon esito del trasferimento</td></tr>
+<tr><td>il fatto che un visto è stato rilasciato al richiedente, lo Stato membro che ha rilasciato o prorogato il visto o per conto del quale è stato rilasciato il visto, e il numero della domanda di visto</td></tr>
+<tr><td>il fatto che la persona potrebbe costituire una minaccia per la sicurezza interna in base al controllo di sicurezza di cui al regolamento (UE) 2024/1356[^annex1-lvlu1-lvl1-lvlu1-2] del Parlamento europeo e del Consiglio o in base a un esame a norma dell’articolo 16 paragrafo 4 del regolamento (UE) 2024/1351[^annex1-lvlu1-lvl1-lvlu1-3], se si verifica una delle seguenti circostanze: – la persona interessata è armata; – la persona interessata è violenta; – vi sono indizi che la persona interessata è coinvolta in uno dei reati di terrorismo di cui al numero 22 dell’allegato 3 della legge del 21 marzo 2025[^annex1-lvlu1-lvl1-lvlu1-4] sullo scambio di informazioni con gli Stati Schengen (LSIS); – vi sono indizi che la persona interessata è coinvolta in uno degli altri reati di cui all’allegato 3 LSIS</td></tr>
+<tr><td>se il richiedente non ha il diritto di rimanere e non è stato autorizzato a rimanere in uno Stato membro: il fatto che la domanda di protezione internazionale è stata respinta</td></tr>
+<tr><td>il fatto che, a seguito di un esame di una domanda nella procedura di frontiera, una decisione di rigetto della domanda di protezione internazionale per inammissibilità, infondatezza o manifesta infondatezza o una decisione che dichiara la domanda implicitamente o esplicitamente ritirata è passata in giudicato</td></tr>
+<tr><td>il fatto che è stata accordata assistenza per il rimpatrio volontario e la reintegrazione</td></tr>
+</table>
+
+[^annex1-lvlu1-lvl1-lvlu1-1]: Cfr. nota a piè di pagina relativa all’art. 6*d* cpv. 2 lett. a.
+[^annex1-lvlu1-lvl1-lvlu1-2]: Regolamento (UE) 2024/1356 del Parlamento europeo e del Consiglio, del 14 mag. 2024, che introduce accertamenti nei confronti dei cittadini di paesi terzi alle frontiere esterne e modifica i regolamenti (CE) n. 767/2008, (UE) 2017/2226, (UE) 2018/1240 e (UE) 2019/817, versione della GU L, 2024/1356, 22.5.2024.
+[^annex1-lvlu1-lvl1-lvlu1-3]: Cfr. nota a piè di pagina relativa all’art. 6*b* cpv. 3.
+[^annex1-lvlu1-lvl1-lvlu1-4]: [RS 362.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6316)
+
+### Richiesta di partecipazione a un programma di ammissione di gruppi di rifugiati (CAT 7)
+
+<table>
+<tr><td>dati relativi alle impronte digitali</td></tr>
+<tr><td>immagine del volto</td></tr>
+<tr><td>cognomi e nomi, cognomi alla nascita, eventuali cognomi precedenti e «alias» che possono essere registrati a parte</td></tr>
+<tr><td>cittadinanza o cittadinanze</td></tr>
+<tr><td>data di nascita</td></tr>
+<tr><td>luogo di nascita</td></tr>
+<tr><td>Stato membro d’origine, luogo e data di registrazione</td></tr>
+<tr><td>sesso</td></tr>
+<tr><td>ove disponibili, tipo e numero, codice a tre lettere del Paese di rilascio e data di scadenza del documento di identità o di viaggio</td></tr>
+<tr><td>una copia a colori scansionata di un documento di identità o di viaggio corredata di un’indicazione della sua autenticità o, se non disponibile, di un altro documento che faciliti l’identificazione del cittadino di Paese terzo o dell’apolide accompagnato da un’indicazione della sua autenticità</td></tr>
+<tr><td>numero di riferimento assegnato dallo Stato membro d’origine</td></tr>
+<tr><td>data di rilevamento dei dati biometrici</td></tr>
+<tr><td>data della trasmissione dei dati all’Eurodac</td></tr>
+<tr><td>identificativo utente dell’operatore</td></tr>
+<tr><td>se del caso, la data della decisione relativa al riconoscimento della protezione internazionale o di uno status umanitario ai sensi del diritto nazionale</td></tr>
+<tr><td>se del caso, la data del rifiuto dell’ammissione e i motivi per i quali l’ammissione è stata rifiutata</td></tr>
+<tr><td>se del caso, la data dell’interruzione della procedura di ammissione</td></tr>
+</table>
+
+### Dati rilevati di persone ammesse nel quadro di un programma di ammissione di gruppi di rifugiati (CAT 8)
+
+<table>
+<tr><td>dati relativi alle impronte digitali</td></tr>
+<tr><td>immagine del volto</td></tr>
+<tr><td>cognomi e nomi, cognomi alla nascita, eventuali cognomi precedenti e «alias» che possono essere registrati a parte</td></tr>
+<tr><td>cittadinanza o cittadinanze</td></tr>
+<tr><td>data di nascita</td></tr>
+<tr><td>luogo di nascita</td></tr>
+<tr><td>Stato membro d’origine, luogo e data della registrazione</td></tr>
+<tr><td>sesso</td></tr>
+<tr><td>ove disponibili, tipo e numero, codice a tre lettere del Paese di rilascio del documento di identità e di viaggio e data di scadenza del documento di identità o di viaggio</td></tr>
+<tr><td>una copia a colori scansionata di un documento di identità o di viaggio corredata di un’indicazione della sua autenticità e, se non disponibile, di un altro documento che faciliti l’identificazione del cittadino di Paese terzo o dell’apolide accompagnato da un’indicazione della sua autenticità</td></tr>
+<tr><td>numero di riferimento assegnato dallo Stato membro d’origine</td></tr>
+<tr><td>data di rilevamento dei dati biometrici</td></tr>
+<tr><td>data della trasmissione dei dati all’Eurodac</td></tr>
+<tr><td>identificativo utente dell’operatore</td></tr>
+<tr><td>data del riconoscimento della protezione internazionale o di uno status umanitario ai sensi del diritto nazionale</td></tr>
+</table>
+
+### 2. Dati rilevati e disponibili del settore degli stranieri
+
+### Attraversamento irregolare della frontiera esterna Schengen (CAT 2)
+
+<table>
+<tr><td>dati relativi alle impronte digitali</td></tr>
+<tr><td>immagine del volto</td></tr>
+<tr><td>cognomi e nomi, cognomi alla nascita, eventuali cognomi precedenti e «alias» che possono essere registrati a parte</td></tr>
+<tr><td>cittadinanza o cittadinanze</td></tr>
+<tr><td>data di nascita</td></tr>
+<tr><td>luogo di nascita</td></tr>
+<tr><td>Stato membro d’origine, luogo e data del rintraccio</td></tr>
+<tr><td>sesso</td></tr>
+<tr><td>ove disponibili, tipo e numero, codice a tre lettere del Paese di rilascio del documento di identità e di viaggio e data di scadenza del documento di identità o di viaggio</td></tr>
+<tr><td>una copia a colori scansionata di un documento di identità o di viaggio corredata di un’indicazione della sua autenticità e, se non disponibile, di un altro documento che faciliti l’identificazione del cittadino di Paese terzo o dell’apolide accompagnato da un’indicazione della sua autenticità</td></tr>
+<tr><td>numero di riferimento assegnato dallo Stato membro d’origine</td></tr>
+<tr><td>data di rilevamento dei dati biometrici</td></tr>
+<tr><td>data della trasmissione dei dati all’Eurodac</td></tr>
+<tr><td>identificativo utente dell’operatore</td></tr>
+<tr><td>la data in cui l’interessato ha lasciato il territorio degli Stati membri o ne è stato allontanato</td></tr>
+<tr><td>lo Stato membro di ricollocazione conformemente all’articolo 25 paragrafo 1 del regolamento (UE) 2024/1358</td></tr>
+<tr><td>il fatto che è stata accordata assistenza per il rimpatrio volontario e la reintegrazione</td></tr>
+<tr><td>il fatto che la persona potrebbe costituire una minaccia per la sicurezza interna in base agli accertamenti di cui al regolamento (UE) 2024/1356, se si verifica una delle seguenti circostanze: – la persona interessata è armata; – la persona interessata è violenta; – vi sono indizi che la persona interessata è coinvolta in uno dei reati di terrorismo di cui al numero 22 dell’allegato 3 LSIS; – vi sono indizi che la persona interessata è coinvolta in uno degli altri reati di cui all’allegato 3 LSIS.</td></tr>
+</table>
+
+### Persone rintracciate in situazione di soggiorno irregolare (CAT 3)
+
+<table>
+<tr><td>dati relativi alle impronte digitali</td></tr>
+<tr><td>immagine del volto</td></tr>
+<tr><td>cognomi e nomi, cognomi alla nascita, eventuali cognomi precedenti e «alias» che possono essere registrati a parte</td></tr>
+<tr><td>cittadinanza o cittadinanze</td></tr>
+<tr><td>data di nascita</td></tr>
+<tr><td>luogo di nascita</td></tr>
+<tr><td>Stato membro d’origine, luogo e data del rintraccio</td></tr>
+<tr><td>sesso</td></tr>
+<tr><td>ove disponibili, tipo e numero, codice a tre lettere del Paese di rilascio del documento di identità e di viaggio e data di scadenza del documento di identità o di viaggio</td></tr>
+<tr><td>una copia a colori scansionata di un documento di identità o di viaggio corredata di un’indicazione della sua autenticità e, se non disponibile, di un altro documento che faciliti l’identificazione del cittadino di Paese terzo o dell’apolide accompagnato da un’indicazione della sua autenticità</td></tr>
+<tr><td>numero di riferimento assegnato dallo Stato membro d’origine</td></tr>
+<tr><td>data di rilevamento dei dati biometrici</td></tr>
+<tr><td>data della trasmissione dei dati all’Eurodac</td></tr>
+<tr><td>identificativo utente dell’operatore</td></tr>
+<tr><td>la data in cui l’interessato ha lasciato il territorio degli Stati membri o ne è stato allontanato</td></tr>
+<tr><td>nei casi di cui all'articolo 25 paragrafo 2 la data di arrivo dell'interessato in seguito al buon esito del trasferimento</td></tr>
+<tr><td>il fatto che è stata accordata assistenza per il rimpatrio volontario e la reintegrazione</td></tr>
+<tr><td>il fatto che la persona potrebbe costituire una minaccia per la sicurezza interna a seguito degli accertamenti di cui al regolamento (UE) 2024/1356 o a seguito di un controllo di sicurezza effettuato al momento del rilevamento dei dati biometrici di cui all’articolo 23 paragrafo 1 del regolamento (UE) 2024/1358, se si verifica una delle seguenti circostanze: – la persona interessata è armata; – la persona interessata è violenta; – vi sono indizi che la persona interessata è coinvolta in uno dei reati di terrorismo di cui al numero 22 dell’allegato 3 LSIS; – vi sono indizi che la persona interessata è coinvolta in uno degli altri reati di cui all’allegato 3 LSIS.</td></tr>
+</table>
+
+### Persone sbarcate a seguito di un’operazione di ricerca e soccorso (CAT 9)
+
+<table>
+<tr><td>dati relativi alle impronte digitali</td></tr>
+<tr><td>immagine del volto</td></tr>
+<tr><td>cognomi e nomi, cognomi alla nascita, eventuali cognomi precedenti e «alias» che possono essere registrati a parte</td></tr>
+<tr><td>cittadinanza o cittadinanze</td></tr>
+<tr><td>data di nascita</td></tr>
+<tr><td>luogo di nascita</td></tr>
+<tr><td>Stato membro d’origine, luogo e data dello sbarco</td></tr>
+<tr><td>sesso</td></tr>
+<tr><td>ove disponibili, tipo e numero, codice a tre lettere del Paese di rilascio del documento di identità e di viaggio e data di scadenza del documento di identità o di viaggio</td></tr>
+<tr><td>una copia a colori scansionata di un documento di identità o di viaggio corredata di un’indicazione della sua autenticità e, se non disponibile, di un altro documento che faciliti l’identificazione del cittadino di Paese terzo o dell’apolide accompagnato da un’indicazione della sua autenticità</td></tr>
+<tr><td>numero di riferimento assegnato dallo Stato membro d’origine</td></tr>
+<tr><td>data di rilevamento dei dati biometrici</td></tr>
+<tr><td>data della trasmissione dei dati all’Eurodac</td></tr>
+<tr><td>identificativo utente dell’operatore</td></tr>
+<tr><td>la data in cui l’interessato ha lasciato il territorio degli Stati membri o ne è stato allontanato</td></tr>
+<tr><td>Stato membro di ricollocazione conformemente all’articolo 25 paragrafo 1 del regolamento (UE) 2024/1358</td></tr>
+<tr><td>il fatto che è stata accordata assistenza per il rimpatrio volontario e la reintegrazione</td></tr>
+<tr><td>il fatto che la persona potrebbe costituire una minaccia per la sicurezza interna in base agli accertamenti di cui al regolamento (UE) 2024/1356, se si verifica una delle seguenti circostanze: – la persona interessata è armata; – la persona interessata è violenta; – vi sono indizi che la persona interessata è coinvolta in uno dei reati di terrorismo di cui al numero 22 dell’allegato 3 LSIS; – vi sono indizi che la persona interessata è coinvolta in uno degli altri reati di cui all’allegato 3 LSIS.</td></tr>
+</table>
+
+Allegato 2[^t-2]
+
+[^t-2]: Abrogato dell’all. 3 n. 5 dell’O del 12 apr. 2006 concernente il sistema d’informazione centrale sulla migrazione, con effetto dal 29 mag. 2006 ([RU 2006 1945](https://fedlex.data.admin.ch/eli/oc/2006/303)).
 
 Allegato 3
 
@@ -652,33 +955,35 @@ Allegato 3
 
 [^annex3-lvlu1-1]: Le mod. possono essere consultate alla [RU 1999 2351](https://fedlex.data.admin.ch/eli/oc/1999/361).
 
-Allegato 4[^t-2]
+Allegato 4[^t-3]
 
 (art. 1 cpv. 2)
 
 ## Accordi di associazione alla normativa di Dublino
 
-[^t-2]: Introdotto dalla cifra I n. 5 dell’O del 22 ott. 2008 (Schengen/Dublino), in vigore dal 12 dic. 2008 ([RU 2008 5421](https://fedlex.data.admin.ch/eli/oc/2008/757)).
+[^t-3]: Introdotto dalla cifra I n. 5 dell’O del 22 ott. 2008 (Schengen/Dublino) ([RU 2008 5421](https://fedlex.data.admin.ch/eli/oc/2008/757)). Nuovo testo giusta la cifra II dell’O del 20 mag. 2026, in vigore dal 12 giu. 2026 ([RU 2026 266](https://fedlex.data.admin.ch/eli/oc/2026/266)).
 
 Gli Accordi di associazione alla normativa di Dublino comprendono gli accordi seguenti:
 
-- a. Accordo del 26 ottobre 2004[^annex4-lvlu1-1] tra la Confederazione Svizzera e la Comunità europea relativo ai criteri e ai meccanismi che permettono di determinare lo Stato competente per l’esame di una domanda di asilo introdotta in uno degli Stati membri o in Svizzera (AAD);
+- a. Accordo del 26 ottobre 2004[^annex4-lvlu1-1] tra la Confederazione Svizzera e la Comunità europea relativo ai criteri e ai meccanismi che permettono di determinare lo Stato competente per l’esame di una domanda di asilo introdotta in uno degli Stati membri o in Svizzera;
 - b. Accordo del 17 dicembre 2004[^annex4-lvlu1-2] tra la Confederazione Svizzera, la Repubblica d’Islanda e il Regno di Norvegia sull’attuazione, l’applicazione e lo sviluppo dell’acquis di Schengen nonché sui criteri e i meccanismi per determinare lo Stato competente per l’esame di una domanda di asilo presentata in Svizzera, in Islanda o in Norvegia;
 - c. Protocollo del 28 febbraio 2008[^annex4-lvlu1-3] tra la Confederazione Svizzera, Comunità europea e il Principato del Liechtenstein dell’accordo tra la Confederazione Svizzera e la Comunità europea relativo ai criteri e ai meccanismi che permettono di determinare lo Stato competente per l’esame di una domanda di asilo introdotta in uno degli stati membri o in Svizzera;
-- d. Protocollo del 28 febbraio 2008[^annex4-lvlu1-4] tra la Confederazione Svizzera, la Comunità europea e il Principato del Liechtenstein sull’adesione del Principato del Liechtenstein all’accordo tra la Confederazione Svizzera e la Comunità europea relativo ai criteri e ai meccanismi che permettono di determinare lo stato competente per l’esame di una domanda di asilo introdotta in uno degli stati membri o in Svizzera.
+- d. Protocollo del 28 febbraio 2008[^annex4-lvlu1-4] tra la Confederazione Svizzera, la Comunità europea e il Principato del Liechtenstein sull’adesione del Principato del Liechtenstein all’accordo tra la Confederazione Svizzera e la Comunità europea relativo ai criteri e ai meccanismi che permettono di determinare lo stato competente per l’esame di una domanda di asilo introdotta in uno degli stati membri o in Svizzera;
+- e. Protocollo del 27 giugno 2019[^annex4-lvlu1-5] tra la Confederazione Svizzera, l’Unione europea e il Principato del Liechtenstein dell’Accordo tra la Confederazione Svizzera e la Comunità europea relativo ai criteri e ai meccanismi che permettono di determinare lo Stato competente per l’esame di una domanda di asilo introdotta in uno degli Stati membri o in Svizzera riguardante l’accesso a Eurodac a fini di contrasto.
 
 [^annex4-lvlu1-1]: [RS 0.142.392.68](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/443)
 [^annex4-lvlu1-2]: [RS 0.362.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1519)
 [^annex4-lvlu1-3]: [RS 0.142.393.141](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/451)
 [^annex4-lvlu1-4]: [RS 0.142.395.141](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/452)
+[^annex4-lvlu1-5]: [RS 0.142.392.682](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40016)
 
-Allegato 5[^t-3]
+Allegato 5[^t-4]
 
 (art. 1*i* cpv. 2)
 
 ## Livelli d’accesso e autorizzazioni per il trattamento dei dati nel sistema d’informazione MIDES
 
-[^t-3]: Introdotto dalla cifra II dell’O del 24 nov. 2010 ([RU 2010 5775](https://fedlex.data.admin.ch/eli/oc/2010/819)). Nuovo testo giusta la cifra I dell’O del 1° mag. 2024, in vigore dal 1° giu. 2024 ([RU 2024 223](https://fedlex.data.admin.ch/eli/oc/2024/223)).
+[^t-4]: Introdotto dalla cifra II dell’O del 24 nov. 2010 ([RU 2010 5775](https://fedlex.data.admin.ch/eli/oc/2010/819)). Nuovo testo giusta la cifra I dell’O del 1° mag. 2024, in vigore dal 1° giu. 2024 ([RU 2024 223](https://fedlex.data.admin.ch/eli/oc/2024/223)).
 
 ### Legenda
 
@@ -862,13 +1167,13 @@ Consulenza per il ritorno articolo 93*a* capoverso 2 LAsi (CR): Collaboratori es
 <tr><td>Ritraduzione del verbale, lingua dell’audizione</td><td>B</td><td>A</td><td>A</td><td></td><td>A</td><td>B</td><td>A</td><td></td><td></td><td>B</td><td></td><td></td><td></td><td></td><td></td></tr>
 </table>
 
-Allegato 6[^t-4]
+Allegato 6[^t-5]
 
 (art. 1*k* cpv. 2)
 
 ## Interfacce tra i sistemi d’informazione
 
-[^t-4]: Introdotto dalla cifra II cpv. 2 dell’O del 1° mag. 2019 ([RU 2019 1437](https://fedlex.data.admin.ch/eli/oc/2019/281)). Nuovo testo giusta la cifra I dell’O del 10 mag. 2023, in vigore dal 15 giu. 2023 ([RU 2023 245](https://fedlex.data.admin.ch/eli/oc/2023/245)).
+[^t-5]: Introdotto dalla cifra II cpv. 2 dell’O del 1° mag. 2019 ([RU 2019 1437](https://fedlex.data.admin.ch/eli/oc/2019/281)). Nuovo testo giusta la cifra I dell’O del 10 mag. 2023, in vigore dal 15 giu. 2023 ([RU 2023 245](https://fedlex.data.admin.ch/eli/oc/2023/245)).
 
 <table>
 <tr><td>I. Dati della banca dati DOPO trasmessi al sistema d’informazione MIDES</td></tr>
