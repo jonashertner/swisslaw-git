@@ -4,11 +4,11 @@ title: "Legge federale del 20 giugno 2003 sul sistema d'informazione per il sett
 short: LSISA
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/301"
 language: it
-version: 2025-06-15
+version: 2026-06-12
 adopted: 2003-06-20
 in_force: 2006-05-29
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/301/20250615/it/xml/fedlex-data-admin-ch-eli-cc-2006-301-20250615-it-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/301/20250615/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/301/20260612/it/xml/fedlex-data-admin-ch-eli-cc-2006-301-20260612-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/301/20260612/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2006/301/20250615/it"
 
 (LSISA)
 
-del 20 giugno 2003 (Stato 15 giugno 2025)
+del 20 giugno 2003 (Stato 12 giugno 2026)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -25,7 +25,7 @@ visto l’articolo 121 capoverso 1 della Costituzione federale[^ingress-1]; vist
 
 decreta:
 
-[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: [FF 2002 4181](https://fedlex.data.admin.ch/eli/fga/2002/773)
 
 ## Sezione 1: Disposizioni generali
@@ -36,12 +36,12 @@ decreta:
 
 <sup>1</sup> La presente legge introduce un sistema d’informazione che serve al trattamento dei dati personali del settore degli stranieri e dell’asilo.
 
-<sup>2</sup> Sono fatti salvi gli articoli 9*a*, 92*a*, 101, 102, 102*c*–102*e*, 109*k*–109*m* e 111*a*–111*d* della legge federale del 16 dicembre 2005[^1-1] sugli stranieri e la loro integrazione (LStrI), gli articoli 96–99, 102–102*a*<sup>bis</sup> e 102*b*–102*e* della legge del 26 giugno 1998[^1-2] sull’asilo (LAsi) nonché l’articolo 44 della legge del 20 giugno 2014[^1-3] sulla cittadinanza (LCit).[^1-4]
+<sup>2</sup> Sono fatti salvi gli articoli 9*a*, 92*a*, 101, 102, 102*c*–102*e*, 109*l, 109l*<sup>bis</sup>*,* 109*m* e 111*a*–111*d* della legge federale del 16 dicembre 2005[^1-1] sugli stranieri e la loro integrazione (LStrI), gli articoli 96–99, 102, 102*a,* 102*a*<sup>ter</sup> e 102*b*–102*e* della legge del 26 giugno 1998[^1-2] sull’asilo (LAsi) nonché l’articolo 44 della legge del 20 giugno 2014[^1-3] sulla cittadinanza (LCit).[^1-4]
 
-[^1-1]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
-[^1-2]: [RS 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
-[^1-3]: [RS 141.0](https://fedlex.data.admin.ch/eli/cc/2016/404)
-[^1-4]: Nuovo testo giusta l’all. 1 n. 2 del DF del 19 mar. 2021 che approva e traspone nel diritto svizzero gli scambi di note tra la Svizzera e l’UE concernenti il recepimento dei regolamenti (UE) 2019/817 e (UE) 2019/818 che istituiscono un quadro per l’interoperabilità tra i sistemi di informazione dell’UE, in vigore dal 15 giu. 2025 ([RU 2025 347](https://fedlex.data.admin.ch/eli/oc/2025/347); [FF 2020 7005](https://fedlex.data.admin.ch/eli/fga/2020/2064)).
+[^1-1]: [RS 142.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4851)
+[^1-2]: [RS 142.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4878)
+[^1-3]: [RS 141.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4841)
+[^1-4]: Nuovo testo giusta l’all. 1 n. 3 della DF del 26 set. 2025 che approva e traspone nel diritto svizzero lo scambio di note tra la Svizzera e l’UE concernente il recepimento del regolamento (UE) 2024/1358 che istituisce l’«Eurodac» per il confronto dei dati biometrici, in vigore dal 12 giu. 2026 ([RU 2026 231](https://fedlex.data.admin.ch/eli/oc/2026/231); [FF 2025 1478](https://fedlex.data.admin.ch/eli/fga/2025/1478)).
 
 #### Art. 2
 
@@ -114,30 +114,30 @@ Ai fini del controllo e per l’allestimento di statistiche sulle misure di allo
 [^3-1]: Nuovo testo giusta l’art. 2 n. 2 del DF del 18 giu. 2010 che approva e traspone nel diritto svizzero lo scambio di note tra la Svizzera e la CE concernente l’introduzione di dati biometrici nelle carte di soggiorno per stranieri, in vigore dal 24 gen. 2011 ([RU 2011 175](https://fedlex.data.admin.ch/eli/oc/2011/25); [FF 2010 51](https://fedlex.data.admin.ch/eli/fga/2010/6)).
 [^3-2]: Nuovo testo giusta l’all. n. 2 della LF del 14 dic. 2018 (Norme procedurali e sistemi d’informazione), in vigore dal 15 ott. 2023 ([RU 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278); [2023 548](https://fedlex.data.admin.ch/eli/oc/2023/548); [FF 2018 1381](https://fedlex.data.admin.ch/eli/fga/2018/673)).
 [^3-3]: Nuovo testo giusta l’all. n. 2 della LF del 13 giu. 2008 (Complementi nel quadro della trasposizione degli Acc. d’associazione alla normativa di Schengen e Dublino), in vigore dal 12 dic. 2008 ([RU 2008 5407](https://fedlex.data.admin.ch/eli/oc/2008/756)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)art. 2 lett. c).
-[^3-4]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
-[^3-5]: [RS 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
-[^3-6]: [RS 0.632.31](https://fedlex.data.admin.ch/eli/cc/1960/590_635_621)
+[^3-4]: [RS 142.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4851)
+[^3-5]: [RS 0.142.112.681](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/211)
+[^3-6]: [RS 0.632.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2314)
 [^3-7]: Introdotta dall’all. n. 2 del DF del 25 set. 2020 che approva e traspone nel diritto svizzero lo scambio di note tra la Svizzera e l’UE concernente il recepimento del regolamento (UE) 2018/1240 che istituisce il sistema europeo di informazione e autorizzazione ai viaggi (ETIAS), in vigore dal 15 giu. 2025 ([RU 2025 346](https://fedlex.data.admin.ch/eli/oc/2025/346); [FF 2020 2577](https://fedlex.data.admin.ch/eli/fga/2020/686)).
 [^3-8]: Regolamento (UE) 2018/1240 del Parlamento europeo e del Consiglio, del 12 settembre 2018, che istituisce un sistema europeo di informazione e autorizzazione ai viaggi (ETIAS) e che modifica i regolamenti (UE) n. 1077/2011, (UE) n. 515/2014, (UE) 2016/399, (UE) 2016/1624 e (UE) 2017/2226, versione della GU L 236 del 19.9.2018, pag. 1.
-[^3-9]: [RS 141.0](https://fedlex.data.admin.ch/eli/cc/2016/404)
+[^3-9]: [RS 141.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4841)
 [^3-10]: Nuovo testo giusta l’all. 1 n. 3 del DF del 18 dic. 2020 che approva e traspone nel diritto svizzero gli scambi di note tra la Svizzera e l’UE concernenti il recepimento delle basi legali dell’istituzione, dell’esercizio e dell’uso del sistema d’informazione Schengen (SIS), in vigore dal 22 nov. 2022 ([RU 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365); [2023 16](https://fedlex.data.admin.ch/eli/oc/2023/16); [FF 2020 3117](https://fedlex.data.admin.ch/eli/fga/2020/794)).
 [^3-11]: Nuovo testo giusta l’all. n. 2 della LF del 13 giu. 2008 (Complementi nel quadro della trasposizione degli Acc. d’associazione alla normativa di Schengen e Dublino), in vigore dal 12 dic. 2008 ([RU 2008 5407](https://fedlex.data.admin.ch/eli/oc/2008/756)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)art. 2 lett. c).
 [^3-12]: Introdotta dalla cifra I n. 2 della LF del 18 giu. 2010 che adegua disposizioni concernenti la registrazione di dati nel settore della migrazione, in vigore dal 24 gen. 2011 ([RU 2011 95](https://fedlex.data.admin.ch/eli/oc/2011/17); [FF 2010 51](https://fedlex.data.admin.ch/eli/fga/2010/6)).
 [^3-13]: Introdotta dall’all. n. 2 della LF del 20 giu. 2014 (Violazioni dell’obbligo di diligenza e di comunicazione delle imprese di trasporto aereo; sistemi d’informazione), in vigore dal 1° ott. 2015 ([RU 2015 3023](https://fedlex.data.admin.ch/eli/oc/2015/570); [FF 2013 2195](https://fedlex.data.admin.ch/eli/fga/2013/451)).
-[^3-14]: [RS 823.20](https://fedlex.data.admin.ch/eli/cc/2003/231)
+[^3-14]: [RS 823.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9950)
 [^3-15]: Nuovo testo giusta la cifra I dell’O del 12 apr. 2006 sull’adeguamento della LSISA in seguito alla fusione degli uffici federali IMES e UFR, in vigore dal 29 mag. 2006 ([RU 2006 1941](https://fedlex.data.admin.ch/eli/oc/2006/302)).
 [^3-16]: Nuovo testo giusta l’all. n. 2 della LF del 14 dic. 2018 (Norme procedurali e sistemi d’informazione), in vigore dal 15 ott. 2023 ([RU 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278); [2023 548](https://fedlex.data.admin.ch/eli/oc/2023/548); [FF 2018 1381](https://fedlex.data.admin.ch/eli/fga/2018/673)).
-[^3-17]: [RS 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
+[^3-17]: [RS 142.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4878)
 [^3-18]: Nuovo testo giusta la cifra I dell’O del 12 apr. 2006 sull’adeguamento della LSISA in seguito alla fusione degli uffici federali IMES e UFR, in vigore dal 29 mag. 2006 ([RU 2006 1941](https://fedlex.data.admin.ch/eli/oc/2006/302)).
 [^3-19]: Introdotta dall’all. n. 2 della LF del 13 giu. 2008 (Complementi nel quadro della trasposizione degli Acc. d’associazione alla normativa di Schengen e Dublino), in vigore dal 12 dic. 2008 ([RU 2008 5407](https://fedlex.data.admin.ch/eli/oc/2008/756)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)art. 2 lett. c).
 [^3-20]: Introdotta dalla cifra I n. 2 della LF del 18 giu. 2010 che adegua disposizioni concernenti la registrazione di dati nel settore della migrazione, in vigore dal 24 gen. 2011 ([RU 2011 95](https://fedlex.data.admin.ch/eli/oc/2011/17); [FF 2010 51](https://fedlex.data.admin.ch/eli/fga/2010/6)).
 [^3-21]: Introdotta dall’all. 1 n. 3 del DF del 18 dic. 2020 che approva e traspone nel diritto svizzero gli scambi di note tra la Svizzera e l’UE concernenti il recepimento delle basi legali dell’istituzione, dell’esercizio e dell’uso del sistema d’informazione Schengen (SIS), in vigore dal 22 nov. 2022 ([RU 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365); [2023 16](https://fedlex.data.admin.ch/eli/oc/2023/16); [FF 2020 3117](https://fedlex.data.admin.ch/eli/fga/2020/794)).
-[^3-22]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^3-23]: [RS 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
+[^3-22]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^3-23]: [RS 321.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6242)
 [^3-24]: Introdotto dall’all. n. 3 della LF del 20 mar. 2015 (Attuazione dell’art. 121 cpv. 3–6 Cost. sull'espulsione di stranieri che commettono reati) ([RU 2016 2329](https://fedlex.data.admin.ch/eli/oc/2016/380); [FF 2013 5163](https://fedlex.data.admin.ch/eli/fga/2013/1078)). Nuovo testo giusta la cifra I della LF del 18 dic. 2020, in vigore dal 22 nov. 2022, lett. b, e e g in vigore dal 23 gen. 2023 ([RU 2022 646](https://fedlex.data.admin.ch/eli/oc/2022/646), [683](https://fedlex.data.admin.ch/eli/oc/2022/683); [FF 2020 3117](https://fedlex.data.admin.ch/eli/fga/2020/794)).
 [^3-25]: Introdotto dalla cifra I della LF du 18 dic. 2020, in vigore dal 23 gen. 2023 ([RU 2022 646](https://fedlex.data.admin.ch/eli/oc/2022/646), [683](https://fedlex.data.admin.ch/eli/oc/2022/683); [FF 2020 3117](https://fedlex.data.admin.ch/eli/fga/2020/794)).
 [^3-26]: Nuova espr. giusta l’all. n. 1 della LF del 18 dic. 2020 (Utilizzazione sistematica del numero AVS da parte delle autorità), in vigore dal 1° gen. 2022 ([RU 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [FF 2019 6043](https://fedlex.data.admin.ch/eli/fga/2019/2681)). Di detta mod. é tenuto conto unicamente nelle disp. menzionate nella RU.
-[^3-27]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^3-27]: [RS 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 [^3-28]: Introdotto dall’all. n. 1 della LF del 23 giu. 2006 sull’armonizzazione dei registri, in vigore dal 1° gen. 2008 ([RU 2006 4165](https://fedlex.data.admin.ch/eli/oc/2006/619); [FF 2006 397](https://fedlex.data.admin.ch/eli/fga/2006/49)).
 
 #### Art. 4
@@ -169,7 +169,7 @@ Il sistema d’informazione contiene:[^4-1]
 [^4-8]: Introdotta dall’all. n. 2 della LF del 14 dic. 2018 (Norme procedurali e sistemi d’informazione), in vigore dal 1° giu. 2019 ([RU 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278); [FF 2018 1381](https://fedlex.data.admin.ch/eli/fga/2018/673)).
 [^4-9]: Introdotta dall’all. n. 2 della LF del 14 dic. 2018 (Norme procedurali e sistemi d’informazione), in vigore dal 15 ott. 2023 ([RU 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278); [2023 548](https://fedlex.data.admin.ch/eli/oc/2023/548); [FF 2018 1381](https://fedlex.data.admin.ch/eli/fga/2018/673)).
 [^4-10]: Nuovo testo giusta la cifra I dell’O del 12 apr. 2006 sull’adeguamento della LSISA in seguito alla fusione degli uffici federali IMES e UFR, in vigore dal 29 mag. 2006 ([RU 2006 1941](https://fedlex.data.admin.ch/eli/oc/2006/302)).
-[^4-11]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^4-11]: [RS 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 [^4-12]: Nuovo testo giusta l’all. 1 cifra II n. 6 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 5
@@ -192,7 +192,7 @@ Il sistema d’informazione contiene:[^4-1]
 <sup>2</sup> I ricorsi sono retti dall’articolo 41 LPD; vanno indirizzati alla SEM.
 
 [^6-1]: Nuovo testo giusta l’all. 1 cifra II n. 6 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
-[^6-2]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^6-2]: [RS 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 
 ## Sezione 2: Trattamento dei dati
 
@@ -209,9 +209,9 @@ Il sistema d’informazione contiene:[^4-1]
 <sup>4</sup> Il Consiglio federale determina quali dati personali possono essere trattati nel sistema d’informazione dalle autorità di cui al capoverso 1.
 
 [^7-1]: Nuovo testo giusta l’all. n. 2 della LF del 14 dic. 2018 (Norme procedurali e sistemi d’informazione), in vigore dal 15 ott. 2023 ([RU 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278); [2023 548](https://fedlex.data.admin.ch/eli/oc/2023/548); [FF 2018 1381](https://fedlex.data.admin.ch/eli/fga/2018/673)).
-[^7-2]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^7-2]: [RS 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 [^7-3]: Nuovo testo giusta l’all. 1 cifra II n. 6 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
-[^7-4]: [RS 0.142.115.143](https://fedlex.data.admin.ch/eli/cc/1964/5_5_5)
+[^7-4]: [RS 0.142.115.143](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/320)
 
 #### Art. 7a
 
@@ -266,7 +266,7 @@ I dati seguenti possono essere trasmessi automaticamente al sistema per l’attu
 - d. il luogo, la durata e il tipo di carcerazione.
 
 [^8a-1]: Introdotto dall’art. 18*a.* Nuovo testo giusta l’all. n. 2 della LF del 14 dic. 2018 (Norme procedurali e sistemi d’informazione), in vigore dal 1° apr. 2020 ([RU 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278), [2020 881](https://fedlex.data.admin.ch/eli/oc/2020/170); [FF 2018 1381](https://fedlex.data.admin.ch/eli/fga/2018/673)).
-[^8a-2]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
+[^8a-2]: [RS 142.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4851)
 
 ## Sezione 3: Accesso al sistema d’informazione
 
@@ -348,21 +348,21 @@ La SEM può permettere alle seguenti autorità o servizi di accedere con procedu
 [^9-1]: Nuovo testo giusta l’all. n. 2 della LF del 14 dic. 2018 (Norme procedurali e sistemi d’informazione), in vigore dal 1° giu. 2019 ([RU 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278); [FF 2018 1381](https://fedlex.data.admin.ch/eli/fga/2018/673)).
 [^9-2]: Nuovo testo giusta la cifra I n. 2 della LF del 18 giu. 2010 che adegua disposizioni concernenti la registrazione di dati nel settore della migrazione, in vigore dal 24 gen. 2011 ([RU 2011 95](https://fedlex.data.admin.ch/eli/oc/2011/17); [FF 2010 51](https://fedlex.data.admin.ch/eli/fga/2010/6)).
 [^9-3]: Introdotta dall’all. 1 n. 3 del DF del 18 dic. 2020 che approva e traspone nel diritto svizzero gli scambi di note tra la Svizzera e l’UE concernenti il recepimento delle basi legali dell’istituzione, dell’esercizio e dell’uso del sistema d’informazione Schengen (SIS), in vigore dal 22 nov. 2022 ([RU 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365); [2023 16](https://fedlex.data.admin.ch/eli/oc/2023/16); [FF 2020 3117](https://fedlex.data.admin.ch/eli/fga/2020/794)).
-[^9-4]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^9-5]: [RS 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
+[^9-4]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^9-5]: [RS 321.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6242)
 [^9-6]: Nuovo testo giusta l’art. 4 n. 1 della LF del 27 set. 2019 sulla partecipazione ai costi dei Cantoni per i controlli concernenti l’obbligo di annunciare i posti vacanti, in vigore dal 1° gen. 2020 al 31 dic. 2023 ([RU 2020 811](https://fedlex.data.admin.ch/eli/oc/2020/149); [FF 2019 2341](https://fedlex.data.admin.ch/eli/fga/2019/785)).
 [^9-7]: Nuovo testo giusta l’all. n. 4 della LF del 25 set. 2020 sulle misure di polizia per la lotta al terrorismo, in vigore dal 1° gen. 2023 ([RU 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 352](https://fedlex.data.admin.ch/eli/oc/2022/352); [FF 2019 3935](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
-[^9-8]: [RS 361](https://fedlex.data.admin.ch/eli/cc/2008/698)
+[^9-8]: [RS 361](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6307)
 [^9-9]: Introdotta dalla cifra II n. 1 della LF del 12 giu. 2009 (Impedire la conclusione di matrimoni in caso di soggiorno irregolare), in vigore dal 1° gen. 2011 ([RU 2010 3057](https://fedlex.data.admin.ch/eli/oc/2010/411); [FF 2008 2145](https://fedlex.data.admin.ch/eli/fga/2008/517)[2159](https://fedlex.data.admin.ch/eli/fga/2008/519)).
-[^9-10]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
-[^9-11]: [RS 211.231](https://fedlex.data.admin.ch/eli/cc/2005/782)
+[^9-10]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
+[^9-11]: [RS 211.231](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5750)
 [^9-12]: Introdotta dall’all. n. 2 della LF del 23 dic. 2011 sulla protezione extraprocessuale dei testimoni, in vigore dal 1° gen. 2013 ([RU 2012 6715](https://fedlex.data.admin.ch/eli/oc/2012/814); [FF 2011 1](https://fedlex.data.admin.ch/eli/fga/2011/1)).
-[^9-13]: [RS 312.2](https://fedlex.data.admin.ch/eli/cc/2012/814)
+[^9-13]: [RS 312.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6221)
 [^9-14]: Introdotta dall’all. n. 2 della LF del 20 giu. 2014 (Violazioni dell’obbligo di diligenza e di comunicazione delle imprese di trasporto aereo; sistemi d’informazione ([RU 2015 3023](https://fedlex.data.admin.ch/eli/oc/2015/570); [FF 2013 2195](https://fedlex.data.admin.ch/eli/fga/2013/451)). Nuovo testo giusta la cifra I n. 4 della LF del 25 set. 2020 sulle misure di polizia per la lotta al terrorismo, in vigore dal 1° giu. 2022 ([RU 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [FF 2019 3935](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
-[^9-15]: [RS 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
-[^9-16]: [RS 141.0](https://fedlex.data.admin.ch/eli/cc/2016/404)
-[^9-17]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
-[^9-18]: [RS 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
+[^9-15]: [RS 121](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4758)
+[^9-16]: [RS 141.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4841)
+[^9-17]: [RS 142.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4851)
+[^9-18]: [RS 142.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4878)
 [^9-19]: Introdotta dall’all. n. 2 della LF del 14 dic. 2018 (Norme procedurali e sistemi d’informazione), in vigore dal 15 ott. 2023 ([RU 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278); [2023 548](https://fedlex.data.admin.ch/eli/oc/2023/548); [FF 2018 1381](https://fedlex.data.admin.ch/eli/fga/2018/673)).
 [^9-20]: Introdotta dall’all. n. 2 della LF del 14 dic. 2018 (Norme procedurali e sistemi d’informazione), in vigore dal 15 ott. 2023 ([RU 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278); [2023 548](https://fedlex.data.admin.ch/eli/oc/2023/548); [FF 2018 1381](https://fedlex.data.admin.ch/eli/fga/2018/673)).
 [^9-21]: Introdotta dall’all. n. 2 della LF del 14 dic. 2018 (Norme procedurali e sistemi d’informazione), in vigore dal 15 ott. 2023 ([RU 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278); [2023 548](https://fedlex.data.admin.ch/eli/oc/2023/548); [FF 2018 1381](https://fedlex.data.admin.ch/eli/fga/2018/673)).
@@ -402,9 +402,9 @@ La SEM può permettere alle seguenti autorità o servizi di accedere con procedu
 
 <sup>3</sup> Il Consiglio federale disciplina i particolari.
 
-[^11-1]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
-[^11-2]: [RS 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
-[^11-3]: [RS 141.0](https://fedlex.data.admin.ch/eli/cc/2016/404)
+[^11-1]: [RS 142.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4851)
+[^11-2]: [RS 142.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4878)
+[^11-3]: [RS 141.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4841)
 [^11-4]: Nuovo testo giusta l’all. cifra II n. 2 della LF del 16 dic. 2005 sugli stranieri, in vigore dal 1° gen. 2008 ([RU 2007 5437](https://fedlex.data.admin.ch/eli/oc/2007/758); [FF 2002 3327](https://fedlex.data.admin.ch/eli/fga/2002/541)).
 [^11-5]: Nuovo testo giusta la cifra I dell’O del 12 apr. 2006 sull’adeguamento della LSISA in seguito alla fusione degli uffici federali IMES e UFR, in vigore dal 29 mag. 2006 ([RU 2006 1941](https://fedlex.data.admin.ch/eli/oc/2006/302)).
 
@@ -418,9 +418,9 @@ La SEM può permettere alle seguenti autorità o servizi di accedere con procedu
 
 <sup>2</sup> La richiesta va indirizzata alla SEM.[^12-5]
 
-[^12-1]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
-[^12-2]: [RS 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
-[^12-3]: [RS 141.0](https://fedlex.data.admin.ch/eli/cc/2016/404)
+[^12-1]: [RS 142.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4851)
+[^12-2]: [RS 142.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4878)
+[^12-3]: [RS 141.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4841)
 [^12-4]: Nuovo testo giusta l’all. cifra II n. 2 della LF del 16 dic. 2005 sugli stranieri, in vigore dal 1° gen. 2008 ([RU 2007 5437](https://fedlex.data.admin.ch/eli/oc/2007/758); [FF 2002 3327](https://fedlex.data.admin.ch/eli/fga/2002/541)).
 [^12-5]: Nuovo testo giusta la cifra I dell’O del 12 apr. 2006 sull’adeguamento della LSISA in seguito alla fusione degli uffici federali IMES e UFR, in vigore dal 29 mag. 2006 ([RU 2006 1941](https://fedlex.data.admin.ch/eli/oc/2006/302)).
 
@@ -448,9 +448,9 @@ La SEM può comunicare alle seguenti autorità od organizzazioni, per l’adempi
 - f. Cassa di compensazione svizzera e casse di compensazione cantonali, per l’adempimento dei loro compiti in materia di finanziamento dei contributi minimi dell’AVS per i richiedenti l’asilo senza attività lucrativa.
 
 [^13-1]: Nuovo testo giusta la cifra I dell’O del 12 apr. 2006 sull’adeguamento della LSISA in seguito alla fusione degli uffici federali IMES e UFR, in vigore dal 29 mag. 2006 ([RU 2006 1941](https://fedlex.data.admin.ch/eli/oc/2006/302)).
-[^13-2]: [RS 431.01](https://fedlex.data.admin.ch/eli/cc/1993/2080_2080_2080)
+[^13-2]: [RS 431.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6946)
 [^13-3]: Nuovo testo giusta la cifra I dell’O del 12 apr. 2006 sull’adeguamento della LSISA in seguito alla fusione degli uffici federali IMES e UFR, in vigore dal 29 mag. 2006 ([RU 2006 1941](https://fedlex.data.admin.ch/eli/oc/2006/302)).
-[^13-4]: [RS 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
+[^13-4]: [RS 142.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4878)
 
 #### Art. 14
 
@@ -464,12 +464,12 @@ Nel caso specifico, la SEM può, su richiesta scritta e motivata, comunicare ad 
 
 **Comunicazione all’estero**[^15-1]
 
-La comunicazione di dati personali all’estero è retta dagli articoli 16 e 17 LPD[^15-2], 102*c*–102*e*, 109*k*, 109*l* e 111*a*–111*d* LStrI[^15-3], nonché 97, 98, 102*a*<sup>bis</sup>, 102*b* e 102*c* LAsi[^15-4].
+La comunicazione di dati all’estero è retta dagli articoli 6 LPD[^15-2], 102*c*–102*e*, 109*l*, 109*l*<sup>bis</sup> e 111*a*–111*d* LStrI[^15-3], nonché 97, 98, 102*a*<sup>ter</sup>, 102*b* e 102*c* LAsi[^15-4].
 
-[^15-1]: Nuovo testo giusta l’all. 2 cifra I n. 2 del DF del 19 mar. 2021 che approva e traspone nel diritto svizzero gli scambi di note tra la Svizzera e l’UE concernenti il recepimento dei regolamenti (UE) 2019/817 e (UE) 2019/818 che istituiscono un quadro per l’interoperabilità tra i sistemi di informazione dell’UE, in vigore dal 15 giu. 2025 ([RU 2025 347](https://fedlex.data.admin.ch/eli/oc/2025/347); [FF 2020 7005](https://fedlex.data.admin.ch/eli/fga/2020/2064)).
-[^15-2]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
-[^15-3]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
-[^15-4]: [RS 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
+[^15-1]: Nuovo testo giusta l’all. 1 n. 3 della DF del 26 set. 2025 che approva e traspone nel diritto svizzero lo scambio di note tra la Svizzera e l’UE concernente il recepimento del regolamento (UE) 2024/1358 che istituisce l’«Eurodac» per il confronto dei dati biometrici, in vigore dal 12 giu. 2026 ([RU 2026 231](https://fedlex.data.admin.ch/eli/oc/2026/231); [FF 2025 1478](https://fedlex.data.admin.ch/eli/fga/2025/1478)).
+[^15-2]: [RS 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
+[^15-3]: [RS 142.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4851)
+[^15-4]: [RS 142.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4878)
 
 ## Sezione 5: Disposizioni esecutive
 
@@ -541,11 +541,11 @@ Gli accordi di associazione alla normativa di Schengen comprendono:
 - d. Accordo del 28 aprile 2005[^annexu1-lvl1-4] tra la Confederazione Svizzera e il Regno di Danimarca sull’attuazione, l’applicazione e lo sviluppo delle parti dell’acquis di Schengen basate sulle disposizioni del titolo IV del Trattato che istituisce la Comunità europea;
 - e. Protocollo del 28 febbraio 2008[^annexu1-lvl1-5] tra la Confederazione Svizzera, l’Unione europea, la Comunità europea e il Principato del Liechtenstein sull’adesione del Principato del Liechtenstein all’Accordo tra la Confederazione Svizzera, l’Unione europea e la Comunità europea riguardante l’associazione della Confederazione Svizzera all’attuazione, all’applicazione e allo sviluppo dell’acquis di Schengen.
 
-[^annexu1-lvl1-1]: [RS 0.362.31](https://fedlex.data.admin.ch/eli/cc/2008/113)
-[^annexu1-lvl1-2]: [RS 0.362.1](https://fedlex.data.admin.ch/eli/cc/2008/117)
-[^annexu1-lvl1-3]: [RS 0.362.32](https://fedlex.data.admin.ch/eli/cc/2008/116)
-[^annexu1-lvl1-4]: [RS 0.362.33](https://fedlex.data.admin.ch/eli/cc/2008/114)
-[^annexu1-lvl1-5]: [RS 0.362.311](https://fedlex.data.admin.ch/eli/cc/2011/205)
+[^annexu1-lvl1-1]: [RS 0.362.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1513)
+[^annexu1-lvl1-2]: [RS 0.362.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1508)
+[^annexu1-lvl1-3]: [RS 0.362.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1519)
+[^annexu1-lvl1-4]: [RS 0.362.33](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1520)
+[^annexu1-lvl1-5]: [RS 0.362.311](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1514)
 
 ## 2. Accordi di associazione alla normativa di Dublino
 
@@ -556,7 +556,7 @@ Gli accordi di associazione alla normativa di Dublino comprendono:
 - c. Protocollo del 28 febbraio 2008[^annexu1-lvl2-3] tra tra la Confederazione Svizzera e la Comunità europea e il Principato del Liechtenstein dell’accordo tra la Confederazione Svizzera e la Comunità europea relativo ai criteri e ai meccanismi che permettono di determinare lo Stato competente per l’esame di una domanda di asilo introdotta in uno degli stati membri o in Svizzera;
 - d. Protocollo del 28 febbraio 2008[^annexu1-lvl2-4] tra la Confederazione Svizzera, la Comunità europea e il Principato del Liechtenstein sull’adesione del Principato del Liechtenstein all’accordo tra la Confederazione Svizzera e la Comunità europea relativo ai criteri e ai meccanismi che permettono di determinare lo stato competente per l’esame di una domanda di asilo introdotta in uno degli stati membri o in Svizzera.
 
-[^annexu1-lvl2-1]: [RS 0.142.392.68](https://fedlex.data.admin.ch/eli/cc/2008/115)
+[^annexu1-lvl2-1]: [RS 0.142.392.68](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/443)
 [^annexu1-lvl2-2]: RS **0.360.598.1**
-[^annexu1-lvl2-3]: [RS 0.142.393.141](https://fedlex.data.admin.ch/eli/cc/2008/777)
-[^annexu1-lvl2-4]: [RS 0.142.395.141](https://fedlex.data.admin.ch/eli/cc/2011/195)
+[^annexu1-lvl2-3]: [RS 0.142.393.141](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/451)
+[^annexu1-lvl2-4]: [RS 0.142.395.141](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/452)

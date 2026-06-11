@@ -4,11 +4,11 @@ title: "Loi fédérale du 20 juin 2003 sur le système d'information commun aux 
 short: LDEA
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/301"
 language: fr
-version: 2025-06-15
+version: 2026-06-12
 adopted: 2003-06-20
 in_force: 2006-05-29
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/301/20250615/fr/xml/fedlex-data-admin-ch-eli-cc-2006-301-20250615-fr-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/301/20250615/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/301/20260612/fr/xml/fedlex-data-admin-ch-eli-cc-2006-301-20260612-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/301/20260612/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2006/301/20250615/fr"
 
 (LDEA)
 
-du 20 juin 2003 (État le 15 juin 2025)
+du 20 juin 2003 (État le 12 juin 2026)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -25,7 +25,7 @@ vu l’art. 121, al. 1, de la Constitution[^ingress-1], vu le message du Conseil
 
 arrête:
 
-[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: [FF 2002 4367](https://fedlex.data.admin.ch/eli/fga/2002/773)
 
 ## Section 1 Dispositions générales
@@ -36,12 +36,12 @@ arrête:
 
 <sup>1</sup> La présente loi instaure un système d’information qui permet de traiter les données personnelles relevant des domaines des étrangers et de l’asile.
 
-<sup>2</sup> Les art. 9*a*, 92*a*, 101, 102, 102*c* à 102*e*, 109*k* à 109*m* et 111*a* à 111*d* de la loi fédérale du 16 décembre 2005 sur les étrangers et l’intégration (LEI)[^1-1], les art. 96 à 99, 102 à 102*a*<sup>bis</sup> et 102*b* à 102*e* de la loi du 26 juin 1998 sur l’asile (LAsi)[^1-2] et l’art. 44 de la loi du 20 juin 2014 sur la nationalité (LN)[^1-3] sont réservés.[^1-4]
+<sup>2</sup> Les art. 9*a*, 92*a*, 101, 102, 102*c* à 102*e*, 109*l*, 109*l*<sup>bis</sup> et 109*m* et 111*a* à 111*d* de la loi fédérale du 16 décembre 2005 sur les étrangers et l’intégration (LEI)[^1-1], les art. 96 à 99, 102, 102*a*, 102*a*<sup>ter</sup> et 102*b* à 102*e* de la loi du 26 juin 1998 sur l’asile (LAsi)[^1-2] et l’art. 44 de la loi du 20 juin 2014 sur la nationalité (LN)[^1-3] sont réservés.[^1-4]
 
-[^1-1]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
-[^1-2]: [RS 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
-[^1-3]: [RS 141.0](https://fedlex.data.admin.ch/eli/cc/2016/404)
-[^1-4]: Nouvelle teneur selon l’annexe 1 ch. 2 de l’AF du 19 mars 2021 portant approbation et mise en œuvre des échanges de notes entre la Suisse et l’UE concernant la reprise des règlements (UE) 2019/817 et (UE) 2019/818 relatifs à l’établissement d’un cadre pour l’interopérabilité des systèmes d’information de l’UE, en vigueur depuis le 15 juin 2025 ([RO 2025 347](https://fedlex.data.admin.ch/eli/oc/2025/347); [FF 2020 7721](https://fedlex.data.admin.ch/eli/fga/2020/2064)).
+[^1-1]: [RS 142.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4851)
+[^1-2]: [RS 142.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4878)
+[^1-3]: [RS 141.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4841)
+[^1-4]: Nouvelle teneur selon l’annexe 1 ch. 3 de l’AF du 26 sept. 2025 portant approbation et mise en œuvre de l’échange de notes entre la Suisse et l’UE concernant la reprise du règlement (UE) 2024/1358 relatif à la création d’Eurodac pour la comparaison des données biométriques, en vigueur depuis le 12 juin 2026 ([RO 2026 231](https://fedlex.data.admin.ch/eli/oc/2026/231); [FF 2025 1478](https://fedlex.data.admin.ch/eli/fga/2025/1478)).
 
 #### Art. 2
 
@@ -114,30 +114,30 @@ Aux fins de contrôle et pour l’établissement de statistiques des mesures d�
 [^3-1]: Nouvelle teneur selon le ch. I de l’O du 12 avr. 2006 relative à l’adaptation de la LDEA à la suite de la réunion des offices fédéraux IMES et ODR, en vigueur depuis le 29 mai 2006 ([RO 2006 1941](https://fedlex.data.admin.ch/eli/oc/2006/302)).
 [^3-2]: Nouvelle teneur selon l’annexe ch. 2 de la LF du 14 déc. 2018 (Normes procédurales et systèmes d’information), en vigueur depuis le 15 oct. 2023 ([RO 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278); [2023 548](https://fedlex.data.admin.ch/eli/oc/2023/548); [FF 2018 1673](https://fedlex.data.admin.ch/eli/fga/2018/673)).
 [^3-3]: Nouvelle teneur selon l’annexe ch. 2 de la LF du 13 juin 2008 (Compléments apportés dans le cadre de la mise en œuvre des accords d’association à Schengen et à Dublin), en vigueur depuis le 12 déc. 2008 ([RO 2008 5407](https://fedlex.data.admin.ch/eli/oc/2008/756)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)art. 2 let. c; [FF 2007 7449](https://fedlex.data.admin.ch/eli/fga/2007/1287)).
-[^3-4]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
-[^3-5]: [RS 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
-[^3-6]: [RS 0.632.31](https://fedlex.data.admin.ch/eli/cc/1960/590_635_621)
+[^3-4]: [RS 142.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4851)
+[^3-5]: [RS 0.142.112.681](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/211)
+[^3-6]: [RS 0.632.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2314)
 [^3-7]: Introduite par l’annexe ch. 2 de l’AF du 25 sept. 2020 portant approbation et mise en œuvre de l’échange de notes entre la Suisse et l’UE sur la reprise du règlement (UE) 2018/1240 portant création d’un système européen d’information et d’autorisation concernant les voyages (ETIAS), en vigueur depuis le 15 juin 2025 ([RO 2025 346](https://fedlex.data.admin.ch/eli/oc/2025/346); [FF 2020 2779](https://fedlex.data.admin.ch/eli/fga/2020/686)).
 [^3-8]: Règlement (UE) 2018/1240 du Parlement européen et du Conseil du 12 septembre 2018 portant création d’un système européen d’information et d’autorisation concernant les voyages (ETIAS) et modifiant les règlements (UE) n<sup>o</sup> 1077/2011, (UE) n<sup>o</sup> 515/2014, (UE) 2016/399, (UE) 2016/1624 et (UE) 2017/2226; version du JO L 236 du 19.9.2018, p. 1.
-[^3-9]: [RS 141.0](https://fedlex.data.admin.ch/eli/cc/2016/404)
+[^3-9]: [RS 141.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4841)
 [^3-10]: Nouvelle teneur selon l’annexe ch. 3 de l’AF du 18 déc. 2020 portant approbation et mise en œuvre des échanges de notes entre la Suisse et l’UE concernant la reprise des bases légales concernant l’établissement, le fonctionnement et l’utilisation du système d’information Schengen (SIS), en vigueur depuis le 22 nov. 2022 ([RO 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365); [2023 16](https://fedlex.data.admin.ch/eli/oc/2023/16); [FF 2020 3361](https://fedlex.data.admin.ch/eli/fga/2020/794)).
 [^3-11]: Nouvelle teneur selon l’annexe ch. 2 de la LF du 13 juin 2008 (Compléments apportés dans le cadre de la mise en œuvre des accords d’association à Schengen et à Dublin), en vigueur depuis le 12 déc. 2008 ([RO 2008 5407](https://fedlex.data.admin.ch/eli/oc/2008/756)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)art. 2 let. c; [FF 2007 7449](https://fedlex.data.admin.ch/eli/fga/2007/1287)).
 [^3-12]: Introduite par le ch. I 2 de la LF du 18 juin 2010 portant sur l’adaptation de disp. relatives à la saisie de données dans le domaine migratoire, en vigueur depuis le 24 janv. 2011 ([RO 2011 95](https://fedlex.data.admin.ch/eli/oc/2011/17); [FF 2010 51](https://fedlex.data.admin.ch/eli/fga/2010/6)).
 [^3-13]: Introduite par l’annexe ch. 2 de la LF du 20 juin 2014 (Violation du devoir de diligence et de l’obligation de communiquer par les entreprises de transport aérien; systèmes d’information), en vigueur depuis le 1<sup>er</sup> oct. 2015 ([RO 2015 3023](https://fedlex.data.admin.ch/eli/oc/2015/570); [FF 2013 2277](https://fedlex.data.admin.ch/eli/fga/2013/451)).
-[^3-14]: [RS 823.20](https://fedlex.data.admin.ch/eli/cc/2003/231)
+[^3-14]: [RS 823.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9950)
 [^3-15]: Nouvelle teneur selon le ch. I de l’O du 12 avr. 2006 relative à l’adaptation de la LDEA à la suite de la réunion des offices fédéraux IMES et ODR, en vigueur depuis le 29 mai 2006 ([RO 2006 1941](https://fedlex.data.admin.ch/eli/oc/2006/302)).
 [^3-16]: Nouvelle teneur selon l’annexe ch. 2 de la LF du 14 déc. 2018 (Normes procédurales et systèmes d’information), en vigueur depuis le 15 oct. 2023 ([RO 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278); [2023 548](https://fedlex.data.admin.ch/eli/oc/2023/548); [FF 2018 1673](https://fedlex.data.admin.ch/eli/fga/2018/673)).
-[^3-17]: [RS 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
+[^3-17]: [RS 142.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4878)
 [^3-18]: Nouvelle teneur selon le ch. I de l’O du 12 avr. 2006 relative à l’adaptation de la LDEA à la suite de la réunion des offices fédéraux IMES et ODR, en vigueur depuis le 29 mai 2006 ([RO 2006 1941](https://fedlex.data.admin.ch/eli/oc/2006/302)).
 [^3-19]: Introduite par l’annexe ch. 2 de la LF du 13 juin 2008 (Compléments apportés dans le cadre de la mise en œuvre des accords d’association à Schengen et à Dublin), en vigueur depuis le 12 déc. 2008 ([RO 2008 5407](https://fedlex.data.admin.ch/eli/oc/2008/756)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)art. 2 let. c; [FF 2007 7449](https://fedlex.data.admin.ch/eli/fga/2007/1287)).
 [^3-20]: Introduite par le ch. I 2 de la LF du 18 juin 2010 portant sur l’adaptation de disp. relatives à la saisie de données dans le domaine migratoire, en vigueur depuis le 24 janv. 2011 ([RO 2011 95](https://fedlex.data.admin.ch/eli/oc/2011/17); [FF 2010 51](https://fedlex.data.admin.ch/eli/fga/2010/6)).
 [^3-21]: Introduite par l’annexe ch. 3 de l’AF du 18 déc. 2020 portant approbation et mise en œuvre des échanges de notes entre la Suisse et l’UE concernant la reprise des bases légales concernant l’établissement, le fonctionnement et l’utilisation du système d’information Schengen (SIS), en vigueur depuis le 22 nov. 2022 ([RO 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365); [2023 16](https://fedlex.data.admin.ch/eli/oc/2023/16); [FF 2020 3361](https://fedlex.data.admin.ch/eli/fga/2020/794)).
-[^3-22]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^3-23]: [RS 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
+[^3-22]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^3-23]: [RS 321.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6242)
 [^3-24]: Introduit par l’annexe ch. 3 de la LF du 20 mars 2015 (Mise en œuvre de l’art. 121, al. 3 à 6, Cst. relatif au renvoi des étrangers criminels) ([RO 2016 2329](https://fedlex.data.admin.ch/eli/oc/2016/380); [FF 2013 5373](https://fedlex.data.admin.ch/eli/fga/2013/1078)). Nouvelle teneur selon le ch. I de la LF du 18 déc. 2020, en vigueur depuis le 22 nov. 2022, à l’exception des let. b, e et g, en vigueur depuis le 23 janv. 2023 ([RO 2022 646](https://fedlex.data.admin.ch/eli/oc/2022/646), [683](https://fedlex.data.admin.ch/eli/oc/2022/683); [FF 2020 3361](https://fedlex.data.admin.ch/eli/fga/2020/794)).
 [^3-25]: Introduit par le ch. I de la LF du 18 déc. 2020, en vigueur depuis le 23 janv. 2023 ([RO 2022 646](https://fedlex.data.admin.ch/eli/oc/2022/646), [683](https://fedlex.data.admin.ch/eli/oc/2022/683); [FF 2020 3361](https://fedlex.data.admin.ch/eli/fga/2020/794)).
 [^3-26]: Nouvelle expression selon l’annexe ch. 1 de la LF du 18 déc. 2020 (Utilisation systématique du numéro AVS par les autorités), en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [FF 2019 6955](https://fedlex.data.admin.ch/eli/fga/2019/2681)). Il n’a été tenu compte de cette mod. que dans les disp. mentionnées au RO.
-[^3-27]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^3-27]: [RS 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 [^3-28]: Introduit par l’annexe ch. 1 de la loi du 23 juin 2006 sur l’harmonisation de registres, en vigueur depuis l<sup>er</sup> janv. 2008 ([RO 2006 4165](https://fedlex.data.admin.ch/eli/oc/2006/619); [FF 2006 439](https://fedlex.data.admin.ch/eli/fga/2006/49)).
 
 #### Art. 4
@@ -166,7 +166,7 @@ Le système d’information contient:
 [^4-5]: Introduite par l’annexe ch. 2 de la LF du 14 déc. 2018 (Normes procédurales et systèmes d’information), en vigueur depuis le 1<sup>er</sup> juin 2019 ([RO 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278); [FF 2018 1673](https://fedlex.data.admin.ch/eli/fga/2018/673)).
 [^4-6]: Introduite par l’annexe ch. 2 de la LF du 14 déc. 2018 (Normes procédurales et systèmes d’information), en vigueur depuis le 15 oct. 2023 ([RO 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278); [2023 548](https://fedlex.data.admin.ch/eli/oc/2023/548); [FF 2018 1673](https://fedlex.data.admin.ch/eli/fga/2018/673)).
 [^4-7]: Nouvelle teneur selon le ch. I de l’O du 12 avr. 2006 relative à l’adaptation de la LDEA à la suite de la réunion des offices fédéraux IMES et ODR, en vigueur depuis le 29 mai 2006 ([RO 2006 1941](https://fedlex.data.admin.ch/eli/oc/2006/302)).
-[^4-8]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^4-8]: [RS 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 [^4-9]: Nouvelle teneur selon l’annexe 1 ch. II 6 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 5
@@ -190,7 +190,7 @@ Le système d’information contient:
 <sup>2</sup> Les recours sont régis par l’art. 41 LPD et doivent être adressés au SEM.
 
 [^6-1]: Nouvelle teneur selon l’annexe 1 ch. II 6 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
-[^6-2]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^6-2]: [RS 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 
 ## Section 2 Traitement des données
 
@@ -207,9 +207,9 @@ Le système d’information contient:
 <sup>4</sup> Le Conseil fédéral détermine les données personnelles que les autorités visées à l’al. 1 sont habilitées à traiter dans le système d’information.
 
 [^7-1]: Nouvelle teneur selon l’annexe ch. 2 de la LF du 14 déc. 2018 (Normes procédurales et systèmes d’information), en vigueur depuis le 15 oct. 2023 ([RO 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278); [2023 548](https://fedlex.data.admin.ch/eli/oc/2023/548); [FF 2018 1673](https://fedlex.data.admin.ch/eli/fga/2018/673)).
-[^7-2]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^7-2]: [RS 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 [^7-3]: Nouvelle teneur selon l’annexe 1 ch. II 6 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
-[^7-4]: [RS 0.142.115.143](https://fedlex.data.admin.ch/eli/cc/1964/5_5_5)
+[^7-4]: [RS 0.142.115.143](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/320)
 
 #### Art. 7a
 
@@ -264,7 +264,7 @@ Les données suivantes peuvent être transmises automatiquement au système dest
 - d. le lieu, la durée et la nature de la détention.
 
 [^8a-1]: Introduit par l’art. 18*a*. Nouvelle teneur selon l’annexe ch. 2 de la LF du 14 déc. 2018 (Normes procédurales et systèmes d’information), en vigueur depuis le 1<sup>er</sup> avr. 2020 ([RO 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278), [2020 881](https://fedlex.data.admin.ch/eli/oc/2020/170); [FF 2018 1673](https://fedlex.data.admin.ch/eli/fga/2018/673)).
-[^8a-2]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
+[^8a-2]: [RS 142.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4851)
 
 ## Section 3 Accès au système d’information
 
@@ -346,21 +346,21 @@ Le SEM peut permettre aux autorités et services ci-après d’accéder en ligne
 [^9-1]: Nouvelle teneur selon l’annexe ch. 2 de la LF du 14 déc. 2018 (Normes procédurales et systèmes d’information), en vigueur depuis le 1<sup>er</sup> juin 2019 ([RO 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278); [FF 2018 1673](https://fedlex.data.admin.ch/eli/fga/2018/673)).
 [^9-2]: Nouvelle teneur selon le ch. I 2 de la LF du 18 juin 2010 portant sur l’adaptation de disp. relatives à la saisie de données dans le domaine migratoire, en vigueur depuis le 24 janv. 2011 ([RO 2011 95](https://fedlex.data.admin.ch/eli/oc/2011/17); [FF 2010 51](https://fedlex.data.admin.ch/eli/fga/2010/6)).
 [^9-3]: Introduite par l’annexe ch. 3 de l’AF du 18 déc. 2020 portant approbation et mise en œuvre des échanges de notes entre la Suisse et l’UE concernant la reprise des bases légales concernant l’établissement, le fonctionnement et l’utilisation du système d’information Schengen (SIS), en vigueur depuis le 22 nov. 2022 ([RO 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365); [2023 16](https://fedlex.data.admin.ch/eli/oc/2023/16); [FF 2020 3361](https://fedlex.data.admin.ch/eli/fga/2020/794)).
-[^9-4]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^9-5]: [RS 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
+[^9-4]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^9-5]: [RS 321.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6242)
 [^9-6]: Nouvelle teneur selon l’art. 4 ch. 1 de la LF du 27 sept. 2019 sur la participation aux frais des cantons pour les contrôles relatifs à l’obligation d’annoncer les postes vacants, en vigueur du 1<sup>er</sup> janv. 2020 au 31 déc. 2023 ([RO 2020 811](https://fedlex.data.admin.ch/eli/oc/2020/149); [FF 2019 2671](https://fedlex.data.admin.ch/eli/fga/2019/785)).
 [^9-7]: Nouvelle teneur selon l’annexe ch. 4 de la LF du 25 sept. 2020 sur les mesures policières de lutte contre le terrorisme, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 352](https://fedlex.data.admin.ch/eli/oc/2022/352); [FF 2019 4541](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
-[^9-8]: [RS 361](https://fedlex.data.admin.ch/eli/cc/2008/698)
+[^9-8]: [RS 361](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6307)
 [^9-9]: Introduite par le ch. II 1 de la LF du 12 juin 2009 (Empêcher les mariages en cas de séjour irrégulier), en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 3057](https://fedlex.data.admin.ch/eli/oc/2010/411); [FF 2008 2247](https://fedlex.data.admin.ch/eli/fga/2008/517)[2261](https://fedlex.data.admin.ch/eli/fga/2008/519)).
-[^9-10]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
-[^9-11]: [RS 211.231](https://fedlex.data.admin.ch/eli/cc/2005/782)
+[^9-10]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
+[^9-11]: [RS 211.231](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5750)
 [^9-12]: Introduite par l’annexe ch. 2 de la LF du 23 déc. 2011 sur la protection extraprocédurale des témoins, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6715](https://fedlex.data.admin.ch/eli/oc/2012/814); [FF 2011 1](https://fedlex.data.admin.ch/eli/fga/2011/1)).
-[^9-13]: [RS 312.2](https://fedlex.data.admin.ch/eli/cc/2012/814)
+[^9-13]: [RS 312.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6221)
 [^9-14]: Introduite par l’annexe ch. 2 de la LF du 20 juin 2014 (Violation du devoir de diligence et de l’obligation de communiquer par les entreprises de transport aérien; systèmes d’information) ([RO 2015 3023](https://fedlex.data.admin.ch/eli/oc/2015/570); [FF 2013 2277](https://fedlex.data.admin.ch/eli/fga/2013/451)). Nouvelle teneur selon le ch. I 4 de la LF du 25 sept. 2020 sur les mesures policières de lutte contre le terrorisme, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [FF 2019 4541](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
-[^9-15]: [RS 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
-[^9-16]: [RS 141.0](https://fedlex.data.admin.ch/eli/cc/2016/404)
-[^9-17]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
-[^9-18]: [RS 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
+[^9-15]: [RS 121](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4758)
+[^9-16]: [RS 141.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4841)
+[^9-17]: [RS 142.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4851)
+[^9-18]: [RS 142.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4878)
 [^9-19]: Introduite par l’annexe ch. 2 de la LF du 14 déc. 2018 (Normes procédurales et systèmes d’information), en vigueur depuis le 15 oct. 2023 ([RO 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278); [2023 548](https://fedlex.data.admin.ch/eli/oc/2023/548); [FF 2018 1673](https://fedlex.data.admin.ch/eli/fga/2018/673)).
 [^9-20]: Introduite par l’annexe ch. 2 de la LF du 14 déc. 2018 (Normes procédurales et systèmes d’information), en vigueur depuis le 15 oct. 2023 ([RO 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278); [2023 548](https://fedlex.data.admin.ch/eli/oc/2023/548); [FF 2018 1673](https://fedlex.data.admin.ch/eli/fga/2018/673)).
 [^9-21]: Introduite par l’annexe ch. 2 de la LF du 14 déc. 2018 (Normes procédurales et systèmes d’information), en vigueur depuis le 15 oct. 2023 ([RO 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278); [2023 548](https://fedlex.data.admin.ch/eli/oc/2023/548); [FF 2018 1673](https://fedlex.data.admin.ch/eli/fga/2018/673)).
@@ -400,9 +400,9 @@ Le SEM peut permettre aux autorités et services ci-après d’accéder en ligne
 
 <sup>3</sup> Le Conseil fédéral règle les modalités.
 
-[^11-1]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
-[^11-2]: [RS 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
-[^11-3]: [RS 141.0](https://fedlex.data.admin.ch/eli/cc/2016/404)
+[^11-1]: [RS 142.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4851)
+[^11-2]: [RS 142.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4878)
+[^11-3]: [RS 141.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4841)
 [^11-4]: Nouvelle teneur selon l’annexe ch. II 2 de la loi du 16 déc. 2005 sur les étrangers, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5437](https://fedlex.data.admin.ch/eli/oc/2007/758); [FF 2002 3469](https://fedlex.data.admin.ch/eli/fga/2002/541)).
 [^11-5]: Nouvelle teneur selon le ch. I de l’O du 12 avr. 2006 relative à l’adaptation de la LDEA à la suite de la réunion des offices fédéraux IMES et ODR, en vigueur depuis le 29 mai 2006 ([RO 2006 1941](https://fedlex.data.admin.ch/eli/oc/2006/302)).
 
@@ -416,9 +416,9 @@ Le SEM peut permettre aux autorités et services ci-après d’accéder en ligne
 
 <sup>2</sup> La demande doit être adressée au SEM.[^12-5]
 
-[^12-1]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
-[^12-2]: [RS 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
-[^12-3]: [RS 141.0](https://fedlex.data.admin.ch/eli/cc/2016/404)
+[^12-1]: [RS 142.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4851)
+[^12-2]: [RS 142.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4878)
+[^12-3]: [RS 141.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4841)
 [^12-4]: Nouvelle teneur selon l’annexe ch. II 2 de la loi du 16 déc. 2005 sur les étrangers, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5437](https://fedlex.data.admin.ch/eli/oc/2007/758); [FF 2002 3469](https://fedlex.data.admin.ch/eli/fga/2002/541)).
 [^12-5]: Nouvelle teneur selon le ch. I de l’O du 12 avr. 2006 relative à l’adaptation de la LDEA à la suite de la réunion des offices fédéraux IMES et ODR, en vigueur depuis le 29 mai 2006 ([RO 2006 1941](https://fedlex.data.admin.ch/eli/oc/2006/302)).
 
@@ -446,9 +446,9 @@ Il peut communiquer, sous forme de fichiers électroniques ou de listes, les don
 - f. la Caisse suisse de compensation et les caisses cantonales de compensation, pour qu’elles puissent accomplir leurs tâches en matière de financement des cotisations AVS minimales pour les requérants d’asile n’exerçant pas d’acti-vité lucrative.
 
 [^13-1]: Nouvelle teneur selon le ch. I de l’O du 12 avr. 2006 relative à l’adaptation de la LDEA à la suite de la réunion des offices fédéraux IMES et ODR, en vigueur depuis le 29 mai 2006 ([RO 2006 1941](https://fedlex.data.admin.ch/eli/oc/2006/302)).
-[^13-2]: [RS 431.01](https://fedlex.data.admin.ch/eli/cc/1993/2080_2080_2080)
+[^13-2]: [RS 431.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6946)
 [^13-3]: Nouvelle teneur selon le ch. I de l’O du 12 avr. 2006 relative à l’adaptation de la LDEA à la suite de la réunion des offices fédéraux IMES et ODR, en vigueur depuis le 29 mai 2006 ([RO 2006 1941](https://fedlex.data.admin.ch/eli/oc/2006/302)).
-[^13-4]: [RS 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
+[^13-4]: [RS 142.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4878)
 
 #### Art. 14
 
@@ -462,12 +462,12 @@ Le SEM peut, au cas par cas et sur demande écrite dûment motivée, communiquer
 
 **Communication à des destinataires à l’étranger**[^15-1]
 
-La communication de données à des destinataires à l’étranger est régie par les art. 16 et 17 LPD[^15-2], les art. 102*c* à 102*e*, 109*k*, 109*l* et 111*a* à 111*d* LEI[^15-3] et les art. 97, 98, 102*a*<sup>bis</sup>, 102*b* et 102*c* LAsi[^15-4].
+La communication de données à des destinataires à l’étranger est régie par l’art. 6 LPD[^15-2], les art. 102*c* à 102*e*, 109*l*, 109*l*<sup>bis</sup> et 111*a* à 111*d* LEI[^15-3] et les art. 97, 98, 102*a*<sup>ter</sup>, 102*b* et 102*c* LAsi[^15-4].
 
-[^15-1]: Nouvelle teneur selon l’annexe 2 ch. I 2 de l’AF du 19 mars 2021 portant approbation et mise en œuvre des échanges de notes entre la Suisse et l’UE concernant la reprise des règlements (UE) 2019/817 et (UE) 2019/818 relatifs à l’établissement d’un cadre pour l’interopérabilité des systèmes d’information de l’UE, en vigueur depuis le 15 juin 2025 ([RO 2025 347](https://fedlex.data.admin.ch/eli/oc/2025/347); [FF 2020 7721](https://fedlex.data.admin.ch/eli/fga/2020/2064)).
-[^15-2]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
-[^15-3]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
-[^15-4]: [RS 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
+[^15-1]: Nouvelle teneur selon l’annexe 1 ch. 3 de l’AF du 26 sept. 2025 portant approbation et mise en œuvre de l’échange de notes entre la Suisse et l’UE concernant la reprise du règlement (UE) 2024/1358 relatif à la création d’Eurodac pour la comparaison des données biométriques, en vigueur depuis le 12 juin 2026 ([RO 2026 231](https://fedlex.data.admin.ch/eli/oc/2026/231); [FF 2025 1478](https://fedlex.data.admin.ch/eli/fga/2025/1478)).
+[^15-2]: [RS 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
+[^15-3]: [RS 142.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4851)
+[^15-4]: [RS 142.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4878)
 
 ## Section 5 Dispositions d’exécution
 
@@ -539,11 +539,11 @@ Les accords d’association à Schengen comprennent les accords suivants:
 - d. Accord du 28 avril 2005 entre la Confédération suisse et le Royaume de Danemark sur la mise en œuvre, l’application et le développement des parties de l’acquis de Schengen basées sur les dispositions du Titre IV du Traité instituant la Communauté européenne[^annexu1-lvl1-4];
 - e. Protocole du 28 février 2008 entre l’Union européenne, la Communauté européenne, la Suisse et la Principauté de Liechtenstein relatif à l’adhésion de la Principauté du Liechtenstein à l’accord entre la Confédération suisse, l’Union européenne et la Communauté européenne sur l’association de la Confédération suisse à la mise en œuvre, à l’application et au développement de l’acquis de Schengen[^annexu1-lvl1-5].
 
-[^annexu1-lvl1-1]: [RS 0.362.31](https://fedlex.data.admin.ch/eli/cc/2008/113)
-[^annexu1-lvl1-2]: [RS 0.362.1](https://fedlex.data.admin.ch/eli/cc/2008/117)
-[^annexu1-lvl1-3]: [RS 0.362.32](https://fedlex.data.admin.ch/eli/cc/2008/116)
-[^annexu1-lvl1-4]: [RS 0.362.33](https://fedlex.data.admin.ch/eli/cc/2008/114)
-[^annexu1-lvl1-5]: [RS 0.362.311](https://fedlex.data.admin.ch/eli/cc/2011/205)
+[^annexu1-lvl1-1]: [RS 0.362.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1513)
+[^annexu1-lvl1-2]: [RS 0.362.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1508)
+[^annexu1-lvl1-3]: [RS 0.362.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1519)
+[^annexu1-lvl1-4]: [RS 0.362.33](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1520)
+[^annexu1-lvl1-5]: [RS 0.362.311](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1514)
 
 ## 2. Accords d’association à Dublin
 
@@ -554,7 +554,7 @@ Les accords d’association à Dublin comprennent les accords suivants:
 - c. Protocole du 28 février 2008 entre la Confédération suisse, la Communauté européenne et la Principauté de Liechtenstein à l’accord entre la Confédération suisse et la Communauté européenne relatif aux critères et mécanismes de détermination de l’État responsable de l’examen d’une demande d’asile présentée dans un État membre ou en Suisse[^annexu1-lvl2-3];
 - d. Protocole du 28 février 2008 entre la Confédération suisse, la Communauté européenne et la Principauté de Liechtenstein sur l’adhésion de la Principauté de Liechtenstein à l’accord entre la Communauté européenne et la Confédération suisse relatif aux critères et mécanismes de détermination de l’État responsable de l’examen d’une demande d’asile présentée dans un État Membre ou en Suisse[^annexu1-lvl2-4].
 
-[^annexu1-lvl2-1]: [RS 0.142.392.68](https://fedlex.data.admin.ch/eli/cc/2008/115)
-[^annexu1-lvl2-2]: [RS 0.362.32](https://fedlex.data.admin.ch/eli/cc/2008/116)
-[^annexu1-lvl2-3]: [RS 0.142.393.141](https://fedlex.data.admin.ch/eli/cc/2008/777)
-[^annexu1-lvl2-4]: [RS 0.142.395.141](https://fedlex.data.admin.ch/eli/cc/2011/195)
+[^annexu1-lvl2-1]: [RS 0.142.392.68](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/443)
+[^annexu1-lvl2-2]: [RS 0.362.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1519)
+[^annexu1-lvl2-3]: [RS 0.142.393.141](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/451)
+[^annexu1-lvl2-4]: [RS 0.142.395.141](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/452)

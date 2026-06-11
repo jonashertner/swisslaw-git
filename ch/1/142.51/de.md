@@ -4,11 +4,11 @@ title: Bundesgesetz vom 20. Juni 2003 über das Informationssystem für den Ausl
 short: BGIAA
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/301"
 language: de
-version: 2025-06-15
+version: 2026-06-12
 adopted: 2003-06-20
 in_force: 2006-05-29
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/301/20250615/de/xml/fedlex-data-admin-ch-eli-cc-2006-301-20250615-de-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/301/20250615/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/301/20260612/de/xml/fedlex-data-admin-ch-eli-cc-2006-301-20260612-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/301/20260612/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2006/301/20250615/de"
 
 (BGIAA)
 
-vom 20. Juni 2003 (Stand am 15. Juni 2025)
+vom 20. Juni 2003 (Stand am 12. Juni 2026)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -25,7 +25,7 @@ gestützt auf Artikel 121 Absatz 1 der Bundesverfassung[^ingress-1], nach Einsic
 
 beschliesst:
 
-[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: [BBl 2002 4693](https://fedlex.data.admin.ch/eli/fga/2002/773)
 
 ## 1. Abschnitt: Allgemeine Bestimmungen
@@ -36,12 +36,12 @@ beschliesst:
 
 <sup>1</sup> Dieses Gesetz führt ein Informationssystem ein, das der Bearbeitung von Personendaten aus dem Ausländer- und dem Asylbereich dient.
 
-<sup>2</sup> Die Artikel 9*a*, 92*a*, 101, 102, 102*c*–102*e*, 109*k*–109*m* und 111*a*–111*d* des Ausländer- und Integrationsgesetzes vom 16. Dezember 2005[^1-1] (AIG), die Artikel 96–99, 102–102*a*<sup>bis</sup> und 102*b*–102*e* des Asylgesetzes vom 26. Juni 1998[^1-2] (AsylG) sowie Artikel 44 des Bürgerrechtsgesetzes vom 20. Juni 2014[^1-3] (BüG) bleiben vorbehalten.[^1-4]
+<sup>2</sup> Die Artikel 9*a*, 92*a*, 101, 102, 102*c*–102*e*, 109*l,* 109*l*<sup>bis</sup>*,* 109*m* und 111*a*–111*d* des Ausländer- und Integrationsgesetzes vom 16. Dezember 2005[^1-1] (AIG), die Artikel 96–99, 102, 102*a*, 102*a*<sup>ter</sup> und 102*b*–102*e* des Asylgesetzes vom 26. Juni 1998[^1-2] (AsylG) sowie Artikel 44 des Bürgerrechtsgesetzes vom 20. Juni 2014[^1-3] (BüG) bleiben vorbehalten.[^1-4]
 
-[^1-1]: [SR 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
-[^1-2]: [SR 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
-[^1-3]: [SR 141.0](https://fedlex.data.admin.ch/eli/cc/2016/404)
-[^1-4]: Fassung gemäss Anhang 1 Ziff. 2 des BB vom 19. März 2021 über die Genehmigung und die Umsetzung der Notenaustausche zwischen der Schweiz und der EU betreffend die Übernahme der Verordnungen (EU) 2019/817 und (EU) 2019/818 zur Errichtung eines Rahmens für die Interoperabilität zwischen EU‑Informationssystemen, in Kraft seit 15. Juni 2025 ([AS 2025 347](https://fedlex.data.admin.ch/eli/oc/2025/347); [BBl 2020 7983](https://fedlex.data.admin.ch/eli/fga/2020/2064)).
+[^1-1]: [SR 142.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4851)
+[^1-2]: [SR 142.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4878)
+[^1-3]: [SR 141.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4841)
+[^1-4]: Fassung gemäss Anhang 1 Ziff. 3 des BB vom 26. Sept. 2025 über die Genehmigung und Umsetzung des Notenaustauschs zwischen de Schweiz und der EU betreffend die Übernahme der Verordnung (EU) 2024/1358 über die Einrichtung von Eurodac für den Abgleich biometrischer Daten, in Kraft seit 12. Juni 2026 ([AS 2026 231](https://fedlex.data.admin.ch/eli/oc/2026/231); [BBl 2025 1478](https://fedlex.data.admin.ch/eli/fga/2025/1478)).
 
 #### Art. 2
 
@@ -114,30 +114,30 @@ Zu Kontrollzwecken und für die Erstellung von Statistiken über die gegenüber 
 [^3-1]: Fassung gemäss Ziff. I der V vom 12. April 2006 über die Anpassung des BGIAA infolge der Zusammenlegung der Bundesämter IMES und BFF, in Kraft seit 29. Mai 2006 ([AS 2006 1941](https://fedlex.data.admin.ch/eli/oc/2006/302)).
 [^3-2]: Fassung gemäss Anhang Ziff. 2 des BG vom 14. Dez. 2018 (Verfahrensregelungen und Informationssysteme), in Kraft seit 15. Okt. 2023 ([AS 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278); [2023 548](https://fedlex.data.admin.ch/eli/oc/2023/548); BBl **2018** 1673).
 [^3-3]: Fassung gemäss Anhang Ziff. 2 des BG vom 13. Juni 2008 (Ergänzungen im Rahmen der Umsetzung der Schengen- und Dublin-Assoziierungsabkommen), in Kraft seit 12. Dez. 2008 ([AS 2008 5407](https://fedlex.data.admin.ch/eli/oc/2008/756)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)Art. 2 Bst. c; [BBl 2007 7937](https://fedlex.data.admin.ch/eli/fga/2007/1287)).
-[^3-4]: [SR 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
-[^3-5]: [SR 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
-[^3-6]: [SR 0.632.31](https://fedlex.data.admin.ch/eli/cc/1960/590_635_621)
+[^3-4]: [SR 142.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4851)
+[^3-5]: [SR 0.142.112.681](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/211)
+[^3-6]: [SR 0.632.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2314)
 [^3-7]: Eingefügt durch Anhang Ziff. 2 des BB vom 25. Sept. 2020 über die Genehmigung und die Umsetzung des Notenaustauschs zwischen der Schweiz und der EU betreffend die Übernahme der Verordnung (EU) 2018/1240 über das ETIAS, in Kraft seit 15. Juni 2025 ([AS 2025 346](https://fedlex.data.admin.ch/eli/oc/2025/346); [BBl 2020 2885](https://fedlex.data.admin.ch/eli/fga/2020/686)).
 [^3-8]: Verordnung (EU) 2018/1240 des Europäischen Parlaments und des Rates vom 12. September 2018 über die Einrichtung eines Europäischen Reiseinformations- und ‑genehmigungssystems (ETIAS) und zur Änderung der Verordnungen (EU) Nr. 1077/2011, (EU) Nr. 515/2014, (EU) 2016/399, (EU) 2016/1624 und (EU) 2017/2226, Fassung gemäss ABl. L 236 vom 19.9.2018, S. 1.
-[^3-9]: [SR 141.0](https://fedlex.data.admin.ch/eli/cc/2016/404)
+[^3-9]: [SR 141.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4841)
 [^3-10]: Fassung gemäss Anhang Ziff. 3 des BB vom 18. Dez. 2020 über die Genehmigung und die Umsetzung der Notenaustausche zwischen der Schweiz und der EU betreffend die Übernahme der Rechtsgrundlagen über die Einrichtung, den Betrieb und die Nutzung des Schengener Informationssystems (SIS), in Kraft seit 22. Nov. 2022 ([AS 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365); [2023 16](https://fedlex.data.admin.ch/eli/oc/2023/16); [BBl 2020 3465](https://fedlex.data.admin.ch/eli/fga/2020/794)).
 [^3-11]: Fassung gemäss Anhang Ziff. 2 des BG vom 13. Juni 2008 (Ergänzungen im Rahmen der Umsetzung der Schengen- und Dublin-Assoziierungsabkommen), in Kraft seit 12. Dez. 2008 ([AS 2008 5407](https://fedlex.data.admin.ch/eli/oc/2008/756)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)Art. 2 Bst. c; [BBl 2007 7937](https://fedlex.data.admin.ch/eli/fga/2007/1287)).
 [^3-12]: Eingefügt durch Ziff. I 2 des BG vom 18. Juni 2010 über die Anpassung von Bestimmungen betreffend die Erfassung von Daten im Bereich der Migration, in Kraft seit 24. Jan. 2011 ([AS 2011 95](https://fedlex.data.admin.ch/eli/oc/2011/17); [BBl 2010 51](https://fedlex.data.admin.ch/eli/fga/2010/6)).
 [^3-13]: Eingefügt durch Anhang Ziff. 2 des BG vom 20. Juni 2014 (Sorgfalts- und Meldepflichtverletzungen durch Luftverkehrsunternehmen, Informationssysteme), in Kraft seit 1. Okt. 2015 ([AS 2015 3023](https://fedlex.data.admin.ch/eli/oc/2015/570); [BBl 2013 2561](https://fedlex.data.admin.ch/eli/fga/2013/451)).
-[^3-14]: [SR 823.20](https://fedlex.data.admin.ch/eli/cc/2003/231)
+[^3-14]: [SR 823.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9950)
 [^3-15]: Fassung gemäss Ziff. I der V vom 12. April 2006 über die Anpassung des BGIAA infolge der Zusammenlegung der Bundesämter IMES und BFF, in Kraft seit 29. Mai 2006 ([AS 2006 1941](https://fedlex.data.admin.ch/eli/oc/2006/302)).
 [^3-16]: Fassung gemäss Anhang Ziff. 2 des BG vom 14. Dez. 2018 (Verfahrensregelungen und Informationssysteme), in Kraft seit 15. Okt. 2023 ([AS 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278); [2023 548](https://fedlex.data.admin.ch/eli/oc/2023/548); BBl **2018** 1673).
-[^3-17]: [SR 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
+[^3-17]: [SR 142.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4878)
 [^3-18]: Fassung gemäss Ziff. I der V vom 12. April 2006 über die Anpassung des BGIAA infolge der Zusammenlegung der Bundesämter IMES und BFF, in Kraft seit 29. Mai 2006 ([AS 2006 1941](https://fedlex.data.admin.ch/eli/oc/2006/302)).
 [^3-19]: Eingefügt durch Anhang Ziff. 2 des BG vom 13. Juni 2008 (Ergänzungen im Rahmen der Umsetzung der Schengen- und Dublin-Assoziierungsabkommen), in Kraft seit 12. Dez. 2008 ([AS 2008 5407](https://fedlex.data.admin.ch/eli/oc/2008/756)[5405](https://fedlex.data.admin.ch/eli/oc/2008/755)Art. 2 Bst. c; [BBl 2007 7937](https://fedlex.data.admin.ch/eli/fga/2007/1287)).
 [^3-20]: Eingefügt durch Ziff. I 2 des BG vom 18. Juni 2010 über die Anpassung von Bestimmungen betreffend die Erfassung von Daten im Bereich der Migration, in Kraft seit 24. Jan. 2011 ([AS 2011 95](https://fedlex.data.admin.ch/eli/oc/2011/17); [BBl 2010 51](https://fedlex.data.admin.ch/eli/fga/2010/6)).
 [^3-21]: Eingefügt durch Anhang Ziff. 3 des BB vom 18. Dez. 2020 über die Genehmigung und die Umsetzung der Notenaustausche zwischen der Schweiz und der EU betreffend die Übernahme der Rechtsgrundlagen über die Einrichtung, den Betrieb und die Nutzung des Schengener Informationssystems (SIS), in Kraft seit 22. Nov. 2022 ([AS 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365); [2023 16](https://fedlex.data.admin.ch/eli/oc/2023/16); [BBl 2020 3465](https://fedlex.data.admin.ch/eli/fga/2020/794)).
-[^3-22]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^3-23]: [SR 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
+[^3-22]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^3-23]: [SR 321.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6242)
 [^3-24]: Eingefügt durch Anhang Ziff. 3 des BG vom 20. März 2015 (Umsetzung von Art. 121 Abs. 3–6 BV über die Ausschaffung krimineller Ausländerinnen und Ausländer) ([AS 2016 2329](https://fedlex.data.admin.ch/eli/oc/2016/380); [BBl 2013 5975](https://fedlex.data.admin.ch/eli/fga/2013/1078)). Fassung gemäss Ziff. I des BG vom 18. Dez. 2020, in Kraft seit 22. Nov. 2022, Bst. b, e und g, in Kraft seit 23. Jan. 2023 ([AS 2022 646](https://fedlex.data.admin.ch/eli/oc/2022/646), [683](https://fedlex.data.admin.ch/eli/oc/2022/683); [BBl 2020 3465](https://fedlex.data.admin.ch/eli/fga/2020/794)).
 [^3-25]: Eingefügt durch Ziff. I des BG vom 18. Dez. 2020, in Kraft seit 23. Jan. 2023 ([AS 2022 646](https://fedlex.data.admin.ch/eli/oc/2022/646), [683](https://fedlex.data.admin.ch/eli/oc/2022/683); [BBl 2020 3465](https://fedlex.data.admin.ch/eli/fga/2020/794)).
 [^3-26]: Ausdruck gemäss Anhang Ziff. 1 des BG vom 18. Dez. 2020 (Systematische Verwendung der AHV-Nummer durch Behörden), in Kraft seit 1. Jan. 2022 ([AS 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [BBl 2019 7359](https://fedlex.data.admin.ch/eli/fga/2019/2681)). Diese Änd. wurde in den in der AS genannten Bestimmungen vorgenommen.
-[^3-27]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^3-27]: [SR 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 [^3-28]: Eingefügt durch Anhang Ziff. 1 des Registerharmonisierungsgesetzes vom 23. Juni 2006, in Kraft seit 1. Jan. 2008 ([AS 2006 4165](https://fedlex.data.admin.ch/eli/oc/2006/619); [BBl 2006 427](https://fedlex.data.admin.ch/eli/fga/2006/49)).
 
 #### Art. 4
@@ -165,7 +165,7 @@ Das Informationssystem enthält:
 [^4-4]: Eingefügt durch Anhang Ziff. 2 des BG vom 14. Dez. 2018 (Verfahrensregelungen und Informationssysteme), in Kraft seit 1. April 2020 ([AS 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278), [2020 881](https://fedlex.data.admin.ch/eli/oc/2020/170); [BBl 2018 1685](https://fedlex.data.admin.ch/eli/fga/2018/673)). Fassung gemäss Anhang Ziff. 2 des BG vom 14. Dez. 2018 (Verfahrensregelungen und Informationssysteme), in Kraft seit 15. Okt. 2023 ([AS 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278); [2023 548](https://fedlex.data.admin.ch/eli/oc/2023/548); BBl **2018** 1673).
 [^4-5]: Eingefügt durch Anhang Ziff. 2 des BG vom 14. Dez. 2018 (Verfahrensregelungen und Informationssysteme), in Kraft seit 1. Juni 2019 ([AS 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278); [BBl 2018 1685](https://fedlex.data.admin.ch/eli/fga/2018/673)). Fassung gemäss Anhang Ziff. 2 des BG vom 14. Dez. 2018 (Verfahrensregelungen und Informationssysteme), in Kraft seit 15. Okt. 2023 ([AS 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278); [2023 548](https://fedlex.data.admin.ch/eli/oc/2023/548); BBl **2018** 1673).
 [^4-6]: Eingefügt durch Anhang Ziff. 2 des BG vom 14. Dez. 2018 (Verfahrensregelungen und Informationssysteme), in Kraft seit 15. Okt. 2023 ([AS 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278); [2023 548](https://fedlex.data.admin.ch/eli/oc/2023/548); BBl **2018** 1673).
-[^4-7]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^4-7]: [SR 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 [^4-8]: Fassung gemäss Anhang 1 Ziff. II 6 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 5
@@ -189,7 +189,7 @@ Das Informationssystem enthält:
 <sup>2</sup> Beschwerden richten sich nach Artikel 41 DSG; sie sind beim SEM einzureichen.
 
 [^6-1]: Fassung gemäss Anhang 1 Ziff. II 6 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
-[^6-2]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^6-2]: [SR 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 
 ## 2. Abschnitt: Bearbeitung von Daten
 
@@ -206,9 +206,9 @@ Das Informationssystem enthält:
 <sup>4</sup> Der Bundesrat regelt, welche Personendaten die Behörden nach Absatz 1 im Informationssystem bearbeiten können.
 
 [^7-1]: Fassung gemäss Anhang Ziff. 2 des BG vom 14. Dez. 2018 (Verfahrensregelungen und Informationssysteme), in Kraft seit 15. Okt. 2023 ([AS 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278); [2023 548](https://fedlex.data.admin.ch/eli/oc/2023/548); BBl **2018** 1673).
-[^7-2]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^7-2]: [SR 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 [^7-3]: Fassung gemäss Anhang 1 Ziff. II 6 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
-[^7-4]: [SR 0.142.115.143](https://fedlex.data.admin.ch/eli/cc/1964/5_5_5)
+[^7-4]: [SR 0.142.115.143](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/320)
 
 #### Art. 7a
 
@@ -263,7 +263,7 @@ Folgende Daten können automatisch an das Informationssystem für die Durchführ
 - d. Ort, Dauer und Art der Inhaftierung.
 
 [^8a-1]: Eingefügt durch Art. 18*a.* Fassung gemäss Anhang Ziff. 2 des BG vom 14. Dez. 2018 (Verfahrensregelungen und Informationssysteme), in Kraft seit 1. April 2020 ([AS 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278), [2020 881](https://fedlex.data.admin.ch/eli/oc/2020/170); [BBl 2018 1685](https://fedlex.data.admin.ch/eli/fga/2018/673)). Fassung gemäss Anhang Ziff. 2 des BG vom 14. Dez. 2018 (Verfahrensregelungen und Informationssysteme), in Kraft seit 15. Okt. 2023 ([AS 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278); [2023 548](https://fedlex.data.admin.ch/eli/oc/2023/548); BBl **2018** 1673).
-[^8a-2]: [SR 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
+[^8a-2]: [SR 142.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4851)
 
 ## 3. Abschnitt: Zugriff auf das Informationssystem
 
@@ -345,21 +345,21 @@ Das SEM kann die von ihm oder in seinem Auftrag im Informationssystem bearbeitet
 [^9-1]: Fassung gemäss Anhang Ziff. 2 des BG vom 14. Dez. 2018 (Verfahrensregelungen und Informationssysteme), in Kraft seit 15. Okt. 2023 ([AS 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278); [2023 548](https://fedlex.data.admin.ch/eli/oc/2023/548); BBl **2018** 1673).
 [^9-2]: Fassung gemäss Ziff. I 2 des BG vom 18. Juni 2010 über die Anpassung von Bestimmungen betreffend die Erfassung von Daten im Bereich der Migration, in Kraft seit 24. Jan. 2011 ([AS 2011 95](https://fedlex.data.admin.ch/eli/oc/2011/17); [BBl 2010 51](https://fedlex.data.admin.ch/eli/fga/2010/6)).
 [^9-3]: Eingefügt durch Anhang Ziff. 3 des BB vom 18. Dez. 2020 über die Genehmigung und die Umsetzung der Notenaustausche zwischen der Schweiz und der EU betreffend die Übernahme der Rechtsgrundlagen über die Einrichtung, den Betrieb und die Nutzung des Schengener Informationssystems (SIS), in Kraft seit 22. Nov. 2022 ([AS 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365); [2023 16](https://fedlex.data.admin.ch/eli/oc/2023/16); [BBl 2020 3465](https://fedlex.data.admin.ch/eli/fga/2020/794)).
-[^9-4]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^9-5]: [SR 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
+[^9-4]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^9-5]: [SR 321.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6242)
 [^9-6]: Fassung gemäss Art. 4 Ziff. 1 des BG vom 27. Sept. 2019 über die Beiträge an die Kosten der Kantone für die Kontrolle der Einhaltung der Stellenmeldepflicht, in Kraft vom 1. Jan. 2020 bis zum 31. Dez. 2023 (AS **2022**; [BBl 2019 2711](https://fedlex.data.admin.ch/eli/fga/2019/785)).
 [^9-7]: Fassung gemäss Anhang Ziff. 4 des BG vom 25. Sept. 2020 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Jan. 2023 ([AS 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 352](https://fedlex.data.admin.ch/eli/oc/2022/352); [BBl 2019 4751](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
-[^9-8]: [SR 361](https://fedlex.data.admin.ch/eli/cc/2008/698)
+[^9-8]: [SR 361](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6307)
 [^9-9]: Eingefügt durch Ziff. II 1 des BG vom 12. Juni 2009 (Unterbindung von Ehen bei rechtswidrigem Aufenthalt), in Kraft seit 1. Jan. 2011 ([AS 2010 3057](https://fedlex.data.admin.ch/eli/oc/2010/411); [BBl 2008 2467](https://fedlex.data.admin.ch/eli/fga/2008/517)[2481](https://fedlex.data.admin.ch/eli/fga/2008/519)).
-[^9-10]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
-[^9-11]: [SR 211.231](https://fedlex.data.admin.ch/eli/cc/2005/782)
+[^9-10]: [SR 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
+[^9-11]: [SR 211.231](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5750)
 [^9-12]: Eingefügt durch Anhang Ziff. 2 des BG vom 23. Dez. 2011 über den ausserprozessualen Zeugenschutz, in Kraft seit 1. Jan. 2013 ([AS 2012 6715](https://fedlex.data.admin.ch/eli/oc/2012/814); [BBl 2011 1](https://fedlex.data.admin.ch/eli/fga/2011/1)).
-[^9-13]: [SR 312.2](https://fedlex.data.admin.ch/eli/cc/2012/814)
+[^9-13]: [SR 312.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6221)
 [^9-14]: Eingefügt durch Anhang Ziff. 2 des BG vom 20. Juni 2014 (Sorgfalts- und Meldepflichtverletzungen durch Luftverkehrsunternehmen, Informationssysteme) ([AS 2015 3023](https://fedlex.data.admin.ch/eli/oc/2015/570); [BBl 2013 2561](https://fedlex.data.admin.ch/eli/fga/2013/451)). Fassung gemäss Ziff. I 4 des BG vom 25. Sept. 2020 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Juni 2022 ([AS 2021 565](https://fedlex.data.admin.ch/eli/oc/2021/565); [2022 300](https://fedlex.data.admin.ch/eli/oc/2022/300); [BBl 2019 4751](https://fedlex.data.admin.ch/eli/fga/2019/1718)).
-[^9-15]: [SR 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
-[^9-16]: [SR 141.0](https://fedlex.data.admin.ch/eli/cc/2016/404)
-[^9-17]: [SR 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
-[^9-18]: [SR 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
+[^9-15]: [SR 121](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4758)
+[^9-16]: [SR 141.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4841)
+[^9-17]: [SR 142.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4851)
+[^9-18]: [SR 142.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4878)
 [^9-19]: Eingefügt durch Anhang Ziff. 2 des BG vom 14. Dez. 2018 (Verfahrensregelungen und Informationssysteme), in Kraft seit 15. Okt. 2023 ([AS 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278); [2023 548](https://fedlex.data.admin.ch/eli/oc/2023/548); BBl **2018** 1673).
 [^9-20]: Eingefügt durch Anhang Ziff. 2 des BG vom 14. Dez. 2018 (Verfahrensregelungen und Informationssysteme), in Kraft seit 15. Okt. 2023 ([AS 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278); [2023 548](https://fedlex.data.admin.ch/eli/oc/2023/548); BBl **2018** 1673).
 [^9-21]: Eingefügt durch Anhang Ziff. 2 des BG vom 14. Dez. 2018 (Verfahrensregelungen und Informationssysteme), in Kraft seit 15. Okt. 2023 ([AS 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278); [2023 548](https://fedlex.data.admin.ch/eli/oc/2023/548); BBl **2018** 1673).
@@ -399,9 +399,9 @@ Das SEM kann die von ihm oder in seinem Auftrag im Informationssystem bearbeitet
 
 <sup>3</sup> Der Bundesrat regelt die Einzelheiten.
 
-[^11-1]: [SR 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
-[^11-2]: [SR 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
-[^11-3]: [SR 141.0](https://fedlex.data.admin.ch/eli/cc/2016/404)
+[^11-1]: [SR 142.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4851)
+[^11-2]: [SR 142.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4878)
+[^11-3]: [SR 141.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4841)
 [^11-4]: Fassung gemäss Anhang Ziff. II 2 des BG vom 16. Dez. 2005 über Ausländerinnen und Ausländer, in Kraft seit 1. Jan. 2008 ([AS 2007 5437](https://fedlex.data.admin.ch/eli/oc/2007/758); [BBl 2002 3709](https://fedlex.data.admin.ch/eli/fga/2002/541)).
 [^11-5]: Fassung gemäss Ziff. I der V vom 12. April 2006 über die Anpassung des BGIAA infolge der Zusammenlegung der Bundesämter IMES und BFF, in Kraft seit 29. Mai 2006 ([AS 2006 1941](https://fedlex.data.admin.ch/eli/oc/2006/302)).
 
@@ -415,9 +415,9 @@ Das SEM kann die von ihm oder in seinem Auftrag im Informationssystem bearbeitet
 
 <sup>2</sup> Das Gesuch ist beim SEM einzureichen.[^12-5]
 
-[^12-1]: [SR 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
-[^12-2]: [SR 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
-[^12-3]: [SR 141.0](https://fedlex.data.admin.ch/eli/cc/2016/404)
+[^12-1]: [SR 142.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4851)
+[^12-2]: [SR 142.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4878)
+[^12-3]: [SR 141.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4841)
 [^12-4]: Fassung gemäss Anhang Ziff. II 2 des BG vom 16. Dez. 2005 über Ausländerinnen und Ausländer, in Kraft seit 1. Jan. 2008 ([AS 2007 5437](https://fedlex.data.admin.ch/eli/oc/2007/758); [BBl 2002 3709](https://fedlex.data.admin.ch/eli/fga/2002/541)).
 [^12-5]: Fassung gemäss Ziff. I der V vom 12. April 2006 über die Anpassung des BGIAA infolge der Zusammenlegung der Bundesämter IMES und BFF, in Kraft seit 29. Mai 2006 ([AS 2006 1941](https://fedlex.data.admin.ch/eli/oc/2006/302)).
 
@@ -445,9 +445,9 @@ Das SEM kann die von ihm oder in seinem Auftrag im Informationssystem bearbeitet
 - f. der Schweizerischen Ausgleichskasse und den kantonalen Ausgleichskassen für ihre Aufgaben im Bereich der Finanzierung der AHV-Mindestbeiträge für nicht erwerbstätige Asylsuchende.
 
 [^13-1]: Fassung gemäss Ziff. I der V vom 12. April 2006 über die Anpassung des BGIAA infolge der Zusammenlegung der Bundesämter IMES und BFF, in Kraft seit 29. Mai 2006 ([AS 2006 1941](https://fedlex.data.admin.ch/eli/oc/2006/302)).
-[^13-2]: [SR 431.01](https://fedlex.data.admin.ch/eli/cc/1993/2080_2080_2080)
+[^13-2]: [SR 431.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6946)
 [^13-3]: Fassung gemäss Ziff. I der V vom 12. April 2006 über die Anpassung des BGIAA infolge der Zusammenlegung der Bundesämter IMES und BFF, in Kraft seit 29. Mai 2006 ([AS 2006 1941](https://fedlex.data.admin.ch/eli/oc/2006/302)).
-[^13-4]: [SR 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
+[^13-4]: [SR 142.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4878)
 
 #### Art. 14
 
@@ -461,12 +461,12 @@ Das SEM kann auf schriftliches und begründetes Gesuch hin im Einzelfall weitere
 
 **Bekanntgabe ins Ausland**[^15-1]
 
-Die Bekanntgabe von Personendaten ins Ausland richtet sich nach den Artikeln 16 und 17 DSG[^15-2], den Artikeln 102*c*–102*e,* 109*k,* 109*l* und 111*a*–111*d* AIG[^15-3] sowie den Artikeln 97, 98, 102*a*<sup>bis</sup>, 102*b* und 102*c* AsylG[^15-4].
+Die Bekanntgabe von Daten ins Ausland richtet sich nach Artikel 6 DSG[^15-2], den Artikeln 102*c*–102*e*, 109*l*, 109*l*<sup>bis</sup> und 111*a*–111*d* AIG[^15-3] sowie den Artikeln 97, 98, 102*a*<sup>ter</sup>, 102*b* und 102*c* AsylG[^15-4].
 
-[^15-1]: Fassung gemäss Anhang 2 Ziff. I 2 des BB vom 19. März 2021 über die Genehmigung und die Umsetzung der Notenaustausche zwischen der Schweiz und der EU betreffend die Übernahme der Verordnungen (EU) 2019/817 und (EU) 2019/818 zur Errichtung eines Rahmens für die Interoperabilität zwischen EU‑Informationssystemen, in Kraft seit 15. Juni 2025 ([AS 2025 347](https://fedlex.data.admin.ch/eli/oc/2025/347); [BBl 2020 7983](https://fedlex.data.admin.ch/eli/fga/2020/2064)).
-[^15-2]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
-[^15-3]: [SR 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
-[^15-4]: [SR 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
+[^15-1]: Fassung gemäss Anhang 1 Ziff. 3 des BB vom 26. Sept. 2025 über die Genehmigung und Umsetzung des Notenaustauschs zwischen de Schweiz und der EU betreffend die Übernahme der Verordnung (EU) 2024/1358 über die Einrichtung von Eurodac für den Abgleich biometrischer Daten, in Kraft seit 12. Juni 2026 ([AS 2026 231](https://fedlex.data.admin.ch/eli/oc/2026/231); [BBl 2025 1478](https://fedlex.data.admin.ch/eli/fga/2025/1478)).
+[^15-2]: [SR 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
+[^15-3]: [SR 142.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4851)
+[^15-4]: [SR 142.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4878)
 
 ## 5. Abschnitt: Vollzugsbestimmungen
 
@@ -538,11 +538,11 @@ Die Schengen-Assoziierungsabkommen umfassen:
 - d. Abkommen vom 28. April 2005[^annexu1-lvl1-4] zwischen der Schweizerischen Eidgenossenschaft und dem Königreich Dänemark über die Umsetzung, Anwendung und Entwicklung derjenigen Teile des Schengen-Besitzstands, die auf Bestimmungen des Titels IV des Vertrags zur Gründung der Europäischen Gemeinschaft basieren;
 - e. Protokoll vom 28. Februar 2008[^annexu1-lvl1-5] zwischen der Schweizerischen Eidgenossenschaft, der Europäischen Union, der Europäischen Gemeinschaft und dem Fürstentum Liechtenstein über den Beitritt des Fürstentums Liechtenstein zum Abkommen zwischen der Schweizerischen Eidgenossenschaft, der Europäischen Union und der Europäischen Gemeinschaft über die Assoziierung der Schweizerischen Eidgenossenschaft bei der Umsetzung, Anwendung und Entwicklung des Schengen-Besitzstands.
 
-[^annexu1-lvl1-1]: [SR 0.362.31](https://fedlex.data.admin.ch/eli/cc/2008/113)
-[^annexu1-lvl1-2]: [SR 0.362.1](https://fedlex.data.admin.ch/eli/cc/2008/117)
-[^annexu1-lvl1-3]: [SR 0.362.32](https://fedlex.data.admin.ch/eli/cc/2008/116)
-[^annexu1-lvl1-4]: [SR 0.362.33](https://fedlex.data.admin.ch/eli/cc/2008/114)
-[^annexu1-lvl1-5]: [SR 0.362.311](https://fedlex.data.admin.ch/eli/cc/2011/205)
+[^annexu1-lvl1-1]: [SR 0.362.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1513)
+[^annexu1-lvl1-2]: [SR 0.362.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1508)
+[^annexu1-lvl1-3]: [SR 0.362.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1519)
+[^annexu1-lvl1-4]: [SR 0.362.33](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1520)
+[^annexu1-lvl1-5]: [SR 0.362.311](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1514)
 
 ## 2. Dublin-Assoziierungsabkommen
 
@@ -553,7 +553,7 @@ Die Dublin-Assoziierungsabkommen umfassen:
 - c. Protokoll vom 28. Februar 2008[^annexu1-lvl2-3] zwischen der Schweizerischen Eidgenossenschaft, der Europäischen Gemeinschaft und dem Fürstentum Liechtenstein zum Abkommen zwischen der Schweizerischen Eidgenossenschaft und der Europäischen Gemeinschaft über die Kriterien und Verfahren zur Bestimmung des zuständigen Staates für die Prüfung eines in einem Mitgliedstaat oder in der Schweiz gestellten Asylantrags;
 - d. Protokoll vom 28. Februar 2008[^annexu1-lvl2-4] zwischen der Schweizerischen Eidgenossenschaft, der Europäischen Gemeinschaft und dem Fürstentum Liechtenstein über den Beitritt des Fürstentums Liechtenstein zum Abkommen zwischen der Schweizerischen Eidgenossenschaft und der Europäischen Gemeinschaft über die Kriterien und Verfahren zur Bestimmung des zuständigen Staates für die Prüfung eines in einem Mitgliedstaat oder in der Schweiz gestellten Asylantrags.
 
-[^annexu1-lvl2-1]: [SR 0.142.392.68](https://fedlex.data.admin.ch/eli/cc/2008/115)
+[^annexu1-lvl2-1]: [SR 0.142.392.68](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/443)
 [^annexu1-lvl2-2]: SR **0.360.598.1**
-[^annexu1-lvl2-3]: [SR 0.142.393.141](https://fedlex.data.admin.ch/eli/cc/2008/777)
-[^annexu1-lvl2-4]: [SR 0.142.395.141](https://fedlex.data.admin.ch/eli/cc/2011/195)
+[^annexu1-lvl2-3]: [SR 0.142.393.141](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/451)
+[^annexu1-lvl2-4]: [SR 0.142.395.141](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/452)
