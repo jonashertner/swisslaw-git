@@ -4,22 +4,22 @@ title: Loi du 17 juin 2005 sur le Tribunal administratif fédéral (LTAF)
 short: LTAF
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/352"
 language: fr
-version: 2025-06-15
+version: 2026-06-12
 adopted: 2005-06-17
 in_force: 2007-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/352/20250615/fr/xml/fedlex-data-admin-ch-eli-cc-2006-352-20250615-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/352/20250615/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/352/20260612/fr/xml/fedlex-data-admin-ch-eli-cc-2006-352-20260612-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/352/20260612/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
-# Loi sur le Tribunal administratif fédéral<sup>∗</sup>
+# Loi sur le Tribunal administratif fédéral\*
 
 (LTAF)[^t-1]
 
-du 17 juin 2005 (État le 15 juin 2025)
+du 17 juin 2005 (État le 12 juin 2026)
 
-[^t-1]: <sup>∗</sup> Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
+[^t-1]: \* Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -27,7 +27,7 @@ vu l’art. 191*a* de la Constitution[^ingress-1], vu le message du Conseil féd
 
 arrête:
 
-[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)
 
 ## Chapitre 1 Statut et organisation
@@ -312,16 +312,19 @@ Le juge instructeur statue en tant que juge unique sur:
 Les compétences particulières du juge unique fondées sur les dispositions suivantes sont réservées:
 
 - a.[^23-1] l’art. 111 de la loi du 26 juin 1998 sur l’asile[^23-2];
-- b. les art. 29, 31 et 41 de la loi fédérale du 25 septembre 2015 sur le renseignement (LRens)[^23-3];
+- a<sup>bis</sup>.[^23-3] l’art. 64*a*<sup>bis</sup>, al. 5, de la loi fédérale du 16 décembre 2005 sur les étrangers et l’intégration[^23-4];
+- b. les art. 29, 31 et 41 de la loi fédérale du 25 septembre 2015 sur le renseignement (LRens)[^23-5];
 - c. les lois fédérales d’assurances sociales;
-- d.[^23-4] l’art. 108*d*<sup>bis</sup>, al. 5, de la loi fédérale du 16 décembre 2005 sur les étrangers et l’intégration[^23-5].[^23-6]
+- d.[^23-6] l’art. 108*d*<sup>bis</sup>, al. 5, de la loi fédérale du 16 décembre 2005 sur les étrangers et l’intégration[^23-7].[^23-8]
 
-[^23-1]: Nouvelle teneur selon l’annexe ch. 2 de l’AF du 16 déc. 2022 portant approbation et mise en œuvre des échanges de notes entre la Suisse et l’UE concernant la reprise des règlements (UE) 2021/1150 et (UE) 2021/1152 en ce qui concerne l’établissement des conditions d’accès aux autres systèmes d’information de l’UE aux fins du système européen d’information et d’autorisation concernant les voyages (ETIAS), en vigueur depuis le 15 juin 2025 ([RO 2025 349](https://fedlex.data.admin.ch/eli/oc/2025/349); FF **202****2** 1449).
-[^23-2]: [[RS 142.31](https://www.fedlex.admin.ch/eli/cc/1999/358/fr)](https://fedlex.data.admin.ch/eli/cc/1999/358)
-[^23-3]: [RS 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
-[^23-4]: Introduite par l’annexe ch. 2 de l’AF du 16 déc. 2022 portant approbation et mise en œuvre des échanges de notes entre la Suisse et l’UE concernant la reprise des règlements (UE) 2021/1150 et (UE) 2021/1152 en ce qui concerne l’établissement des conditions d’accès aux autres systèmes d’information de l’UE aux fins du système européen d’information et d’autorisation concernant les voyages (ETIAS), en vigueur depuis le 15 juin 2025 ([RO 2025 349](https://fedlex.data.admin.ch/eli/oc/2025/349); [FF 2022 1449](https://fedlex.data.admin.ch/eli/fga/2022/1449)).
-[^23-5]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
-[^23-6]: Nouvelle teneur selon l’annexe ch. II 3 de la LF du 25 sept. 2015 sur le renseignement, en vigueur depuis le 1<sup>er</sup> sept. 2017 ([RO 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); [FF 2014 2029](https://fedlex.data.admin.ch/eli/fga/2014/407)).
+[^23-1]: Nouvelle teneur selon l’annexe ch. 2 de l’AF du 16 déc. 2022 portant approbation et mise en œuvre des échanges de notes entre la Suisse et l’UE concernant la reprise des règlements (UE) 2021/1150 et (UE) 2021/1152 en ce qui concerne l’établissement des conditions d’accès aux autres systèmes d’information de l’UE aux fins du système européen d’information et d’autorisation concernant les voyages (ETIAS), en vigueur depuis le 15 juin 2025 ([RO 2025 349](https://fedlex.data.admin.ch/eli/oc/2025/349); [FF 2022 1449](https://fedlex.data.admin.ch/eli/fga/2022/1449)).
+[^23-2]: [[RS 142.31](https://www.fedlex.admin.ch/eli/cc/1999/358/fr)](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4878)
+[^23-3]: Introduite par l’annexe 1 ch. 3 de l’AF du 26 sept. 2025 portant approbation et mise en œuvre des échanges de notes entre la Suisse et l’UE concernant la reprise du règlement (UE) 2024/1351 relatif à la gestion de l’asile et de la migration et du règlement (UE) 2024/1359 visant à faire face aux situations de crise et aux cas de force majeure dans le domaine de la migration et de l’asile, en vigueur depuis le 12 juin 2026 ([RO 2026 229](https://fedlex.data.admin.ch/eli/oc/2026/229); [FF 2025 1478](https://fedlex.data.admin.ch/eli/fga/2025/1478)).
+[^23-4]: [RS 142.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4851)
+[^23-5]: [RS 121](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4758)
+[^23-6]: Introduite par l’annexe ch. 2 de l’AF du 16 déc. 2022 portant approbation et mise en œuvre des échanges de notes entre la Suisse et l’UE concernant la reprise des règlements (UE) 2021/1150 et (UE) 2021/1152 en ce qui concerne l’établissement des conditions d’accès aux autres systèmes d’information de l’UE aux fins du système européen d’information et d’autorisation concernant les voyages (ETIAS), en vigueur depuis le 15 juin 2025 ([RO 2025 349](https://fedlex.data.admin.ch/eli/oc/2025/349); [FF 2022 1449](https://fedlex.data.admin.ch/eli/fga/2022/1449)).
+[^23-7]: [RS 142.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4851)
+[^23-8]: Nouvelle teneur selon l’annexe ch. II 3 de la LF du 25 sept. 2015 sur le renseignement, en vigueur depuis le 1<sup>er</sup> sept. 2017 ([RO 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); [FF 2014 2029](https://fedlex.data.admin.ch/eli/fga/2014/407)).
 
 #### Art. 24
 
@@ -370,7 +373,7 @@ Le Tribunal administratif fédéral fixe dans un règlement la manière de répa
 <sup>3</sup> La convention entre le Tribunal fédéral et le Conseil fédéral visée à l’art. 25*a*, al. 3, de la loi du 17 juin 2005 sur le Tribunal fédéral[^27a-2] s’applique par analogie aux modalités de la collaboration entre le Tribunal administratif fédéral et le Département fédéral des finances, sous réserve de la conclusion d’une convention différente entre le Tribunal administratif fédéral et le Conseil fédéral.
 
 [^27a-1]: Introduit par le ch. I 3 de la LF du 23 juin 2006 concernant la mise à jour de la révision totale de l’organisation judiciaire fédérale, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 4213](https://fedlex.data.admin.ch/eli/oc/2006/634); [FF 2006 2969](https://fedlex.data.admin.ch/eli/fga/2006/334)).
-[^27a-2]: [RS 173.110](https://fedlex.data.admin.ch/eli/cc/2006/218)
+[^27a-2]: [RS 173.110](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5575)
 
 #### Art. 27b
 
@@ -381,7 +384,7 @@ Le Tribunal administratif fédéral fixe dans un règlement la manière de répa
 <sup>2</sup> Le Tribunal administratif fédéral édicte les dispositions d’exécution.
 
 [^27b-1]: Introduit par le ch. II 2 de la LF du 1<sup>er</sup>oct. 2010 (Protection des données lors de l’utilisation de l’infrastructure électronique), en vigueur depuis le 1<sup>er</sup> avr. 2012 ([RO 2012 941](https://fedlex.data.admin.ch/eli/oc/2012/159); [FF 2009 7693](https://fedlex.data.admin.ch/eli/fga/2009/1469)).
-[^27b-2]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^27b-2]: [RS 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
 
 #### Art. 28
 
@@ -411,8 +414,8 @@ Le secrétaire général dirige l’administration, y compris les services scien
 
 <sup>2</sup> Le Tribunal administratif fédéral peut exclure la procédure de médiation; dans ce cas, il rend sa prise de position sur la demande d’accès sous la forme d’une décision directement sujette à recours.
 
-[^30-1]: [RS 152.3](https://fedlex.data.admin.ch/eli/cc/2006/355)
-[^30-2]: [RS 711](https://fedlex.data.admin.ch/eli/cc/47/689_701_723)
+[^30-1]: [RS 152.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4937)
+[^30-2]: [RS 711](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8369)
 
 ## Chapitre 2 Compétences
 
@@ -428,7 +431,7 @@ Le secrétaire général dirige l’administration, y compris les services scien
 
 Le Tribunal administratif fédéral connaît des recours contre les décisions au sens de l’art. 5 de la loi fédérale du 20 décembre 1968 sur la procédure administrative (PA)[^31-1].
 
-[^31-1]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^31-1]: [RS 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 #### Art. 32
 
@@ -506,27 +509,27 @@ Le recours est recevable contre les décisions:
 - i. d’autorités cantonales, dans la mesure où d’autres lois fédérales prévoient un recours au Tribunal administratif fédéral.
 
 [^33-1]: Nouvelle teneur selon l’annexe ch. 4 de la LF du 22 juin 2007 sur la surveillance des marchés financiers, en vigueur depuis le 1<sup>er</sup> fév. 2008 ([RO 2008 5207](https://fedlex.data.admin.ch/eli/oc/2008/736); [FF 2006 2741](https://fedlex.data.admin.ch/eli/fga/2006/303)).
-[^33-2]: [RS 951.11](https://fedlex.data.admin.ch/eli/cc/2004/221)
-[^33-3]: [RS 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
+[^33-2]: [RS 951.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11504)
+[^33-3]: [RS 956.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11614)
 [^33-4]: Introduit par l’annexe ch. 1 de la LF du 1<sup>er</sup> oct. 2010 sur la restitution des avoirs illicites ([RO 2011 275](https://fedlex.data.admin.ch/eli/oc/2011/38); [FF 2010 2995](https://fedlex.data.admin.ch/eli/fga/2010/596)). Nouvelle teneur selon l’art. 31 al. 2 ch. 1 de la L du 18 déc. 2015 sur les valeurs patrimoniales d’origine illicite, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2016 1803](https://fedlex.data.admin.ch/eli/oc/2016/322); [FF 2014 5121](https://fedlex.data.admin.ch/eli/fga/2014/1134)).
-[^33-5]: [RS 196.1](https://fedlex.data.admin.ch/eli/cc/2016/322)
+[^33-5]: [RS 196.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5693)
 [^33-6]: Introduit par l’annexe ch. 2 de la LF du 23 déc. 2011 ([RO 2012 3745](https://fedlex.data.admin.ch/eli/oc/2012/428); [FF 2007 4473](https://fedlex.data.admin.ch/eli/fga/2007/665), [2010 7147](https://fedlex.data.admin.ch/eli/fga/2010/1444)). Nouvelle teneur selon l’annexe ch. II 3 de la LF du 25 sept. 2015 sur le renseignement, en vigueur depuis le 1<sup>er</sup> sept. 2017 ([RO 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); [FF 2014 2029](https://fedlex.data.admin.ch/eli/fga/2014/407)).
-[^33-7]: [RS 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
+[^33-7]: [RS 121](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4758)
 [^33-8]: Introduit par l’annexe ch. II 3 de la LF du 25 sept. 2015 sur le renseignement, en vigueur depuis le 1<sup>er</sup> sept. 2017 ([RO 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); [FF 2014 2029](https://fedlex.data.admin.ch/eli/fga/2014/407)).
 [^33-9]: Introduit par l’art. 3 de la LF du 20 déc. 2024 interdisant le Hamas et les organisations apparentées, en vigueur depuis le 15 mai 2025 ([RO 2025 269](https://fedlex.data.admin.ch/eli/oc/2025/269); [FF 2024 2250](https://fedlex.data.admin.ch/eli/fga/2024/2250)).
-[^33-10]: [RS 122.1](https://fedlex.data.admin.ch/eli/cc/2025/269)
+[^33-10]: [RS 122.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40277)
 [^33-11]: Introduit par l’art. 26 ch. 2 de la LF du 17 juin 2011 sur l’Institut fédéral de métrologie, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2011 6515](https://fedlex.data.admin.ch/eli/oc/2011/902); [FF 2010 7305](https://fedlex.data.admin.ch/eli/fga/2010/1470)).
-[^33-12]: [RS 941.27](https://fedlex.data.admin.ch/eli/cc/2011/902)
+[^33-12]: [RS 941.27](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11204)
 [^33-13]: Introduit par l’annexe ch. 2 de la LF du 20 juin 2014 (Concentration de la surveillance des entreprises de révision et des sociétés d’audit), en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 4073](https://fedlex.data.admin.ch/eli/oc/2014/685); [FF 2013 6147](https://fedlex.data.admin.ch/eli/fga/2013/1303)).
-[^33-14]: [RS 221.302](https://fedlex.data.admin.ch/eli/cc/2007/533)
+[^33-14]: [RS 221.302](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5919)
 [^33-15]: Introduit par l’annexe ch. 1 de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), **2018** 3755; [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
-[^33-16]: [RS 812.21](https://fedlex.data.admin.ch/eli/cc/2001/422)
+[^33-16]: [RS 812.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9354)
 [^33-17]: Introduit par l’annexe ch. II 3 de la L du 16 juin 2017 sur les fonds de compensation, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2017 7563](https://fedlex.data.admin.ch/eli/oc/2017/820); [FF 2016 271](https://fedlex.data.admin.ch/eli/fga/2016/68)).
-[^33-18]: [RS 830.2](https://fedlex.data.admin.ch/eli/cc/2017/820)
+[^33-18]: [RS 830.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9996)
 [^33-19]: Introduit par l’art. 23 al. 2 de la LF du 28 sept. 2018 sur l’Institut suisse de droit comparé, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 3199](https://fedlex.data.admin.ch/eli/oc/2019/586); [FF 2018 899](https://fedlex.data.admin.ch/eli/fga/2018/336)).
-[^33-20]: [RS 425.1](https://fedlex.data.admin.ch/eli/cc/2019/586)
+[^33-20]: [RS 425.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6906)
 [^33-21]: Introduit par le ch. I 2 de la LF du 28 sept. 2018 sur l’organisation de l’infrastructure ferroviaire, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 1889](https://fedlex.data.admin.ch/eli/oc/2020/393); [FF 2016 8399](https://fedlex.data.admin.ch/eli/fga/2016/2093)).
-[^33-22]: [RS 742.101](https://fedlex.data.admin.ch/eli/cc/1958/335_341_347)
+[^33-22]: [RS 742.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8719)
 [^33-23]: Introduite par l’annexe ch. 3 de la LF du 20 mars 2009 sur TFB, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2010 513](https://fedlex.data.admin.ch/eli/oc/2010/72), [2011 2241](https://fedlex.data.admin.ch/eli/oc/2011/306); [FF 2008 373](https://fedlex.data.admin.ch/eli/fga/2008/145)).
 [^33-24]: Introduite par l’annexe ch. II 6 de la LF du 19 mars 2010 sur l’organisation des autorités pénales ([RO 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444); [FF 2008 7371](https://fedlex.data.admin.ch/eli/fga/2008/1395)). Nouvelle teneur selon le ch. I de la LF du 19 juin 2015, en vigueur depuis le 1<sup>er</sup> nov. 2015 ([RO 2015 3847](https://fedlex.data.admin.ch/eli/oc/2015/651); [FF 2015 2047](https://fedlex.data.admin.ch/eli/fga/2015/421)[2069](https://fedlex.data.admin.ch/eli/fga/2015/424)).
 [^33-25]: Introduite par l’annexe ch. II 6 de la LF du 19 mars 2010 sur l’organisation des autorités pénales, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444); [FF 2008 7371](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
@@ -557,7 +560,7 @@ Le Tribunal administratif fédéral connaît par voie d’action en première in
 
 [^35-1]: Abrogée par l’annexe 1 ch. II 15 de la LF du 25 sept. 2020 sur la protection des données, avec effet au 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 [^35-2]: Introduite par l’annexe ch. 1 de la LF du 1<sup>er</sup> oct. 2010 sur la restitution des avoirs illicites ([RO 2011 275](https://fedlex.data.admin.ch/eli/oc/2011/38); [FF 2010 2995](https://fedlex.data.admin.ch/eli/fga/2010/596)). Nouvelle teneur selon l’art. 31 al. 2 ch. 1 de la L du 18 déc. 2015 sur les valeurs patrimoniales d’origine illicite, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2016 1803](https://fedlex.data.admin.ch/eli/oc/2016/322); [FF 2014 5121](https://fedlex.data.admin.ch/eli/fga/2014/1134)).
-[^35-3]: [RS 196.1](https://fedlex.data.admin.ch/eli/cc/2016/322)
+[^35-3]: [RS 196.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5693)
 
 #### Art. 36
 
@@ -587,7 +590,7 @@ L’action est irrecevable si une autorité précédente au sens de l’art. 33 
 
 Le Tribunal administratif fédéral statue sur l’autorisation de mesures de recherche au sens de la LRens[^36b-1].
 
-[^36b-1]: [RS 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
+[^36b-1]: [RS 121](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4758)
 
 ## Chapitre 3 Procédure
 
@@ -599,7 +602,7 @@ Le Tribunal administratif fédéral statue sur l’autorisation de mesures de re
 
 La procédure devant le Tribunal administratif fédéral est régie par la PA[^37-1], pour autant que la présente loi n’en dispose pas autrement.
 
-[^37-1]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^37-1]: [RS 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 #### Art. 38
 
@@ -607,7 +610,7 @@ La procédure devant le Tribunal administratif fédéral est régie par la PA[^3
 
 Les dispositions de la loi du 17 juin 2005 sur le Tribunal fédéral[^38-1] relatives à la récusation s’appliquent par analogie à la procédure devant le Tribunal administratif fédéral.
 
-[^38-1]: [RS 173.110](https://fedlex.data.admin.ch/eli/cc/2006/218)
+[^38-1]: [RS 173.110](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5575)
 
 #### Art. 39
 
@@ -629,7 +632,7 @@ Les dispositions de la loi du 17 juin 2005 sur le Tribunal fédéral[^38-1] rela
 
 <sup>3</sup> Le huis-clos total ou partiel peut être ordonné si la sécurité, l’ordre public ou les bonnes mœurs sont menacés, ou si l’intérêt d’une personne en cause le justifie.
 
-[^40-1]: [RS 0.101](https://fedlex.data.admin.ch/eli/cc/1974/2151_2151_2151)
+[^40-1]: [RS 0.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3)
 [^40-2]: Dans les textes allemand et italien, cet al. est subdivisé en let. a et b.
 
 #### Art. 41
@@ -669,8 +672,8 @@ En cas d’exécution défectueuse d’arrêts du Tribunal administratif fédér
 
 <sup>3</sup> Les émoluments judiciaires et les dépens sont régis par les art. 63 à 65 PA[^44-2].[^44-3]
 
-[^44-1]: [RS 273](https://fedlex.data.admin.ch/eli/cc/1948/485_473_421)
-[^44-2]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^44-1]: [RS 273](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6141)
+[^44-2]: [RS 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 [^44-3]: Introduit par l’annexe ch. 1 de la LF du 1<sup>er</sup> oct. 2010 sur la restitution des avoirs illicites, en vigueur depuis le 1<sup>er</sup> fév. 2011 ([RO 2011 275](https://fedlex.data.admin.ch/eli/oc/2011/38); [FF 2010 2995](https://fedlex.data.admin.ch/eli/fga/2010/596)).
 
 ## Chapitre 4 Révision, interprétation et rectification
@@ -683,7 +686,7 @@ En cas d’exécution défectueuse d’arrêts du Tribunal administratif fédér
 
 Les art. 121 à 128 de la loi du 17 juin 2005 sur le Tribunal fédéral[^45-1] s’appliquent par analogie à la révision des arrêts du Tribunal administratif fédéral.
 
-[^45-1]: [RS 173.110](https://fedlex.data.admin.ch/eli/cc/2006/218)
+[^45-1]: [RS 173.110](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5575)
 
 #### Art. 46
 
@@ -697,7 +700,7 @@ Les griefs qui auraient pu être soulevés dans un recours à l’encontre de l�
 
 L’art. 67, al. 3, PA[^47-1] régit le contenu et la forme de la demande de révision ainsi que les conditions auxquelles celle-ci peut être améliorée ou complétée.
 
-[^47-1]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^47-1]: [RS 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 ### Section 2 Interprétation et rectification
 
@@ -707,7 +710,7 @@ L’art. 67, al. 3, PA[^47-1] régit le contenu et la forme de la demande de ré
 
 <sup>2</sup> Lorsque le Tribunal administratif fédéral interprète ou rectifie son arrêt, un nouveau délai de recours commence à courir.
 
-[^48-1]: [RS 173.110](https://fedlex.data.admin.ch/eli/cc/2006/218)
+[^48-1]: [RS 173.110](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5575)
 
 ## Chapitre 5 Dispositions finales
 
@@ -725,7 +728,7 @@ L’art. 67, al. 3, PA[^47-1] régit le contenu et la forme de la demande de ré
 
 ...[^50-2]
 
-[^50-1]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
+[^50-1]: [RS 631.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7812)
 [^50-2]: La mod. peut être consultée au [RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352).
 
 #### Art. 51
@@ -734,8 +737,8 @@ L’art. 67, al. 3, PA[^47-1] régit le contenu et la forme de la demande de ré
 
 ...[^51-3]
 
-[^51-1]: [RS 362](https://fedlex.data.admin.ch/eli/cc/2008/112)
-[^51-2]: [RS 642.11](https://fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184)
+[^51-1]: [RS 362](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6313)
+[^51-2]: [RS 642.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8175)
 [^51-3]: La mod. peut être consultée au [RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352).
 
 #### Art. 52
@@ -744,7 +747,7 @@ L’art. 67, al. 3, PA[^47-1] régit le contenu et la forme de la demande de ré
 
 ...[^52-2]
 
-[^52-1]: [RS 961.01](https://fedlex.data.admin.ch/eli/cc/2005/734)
+[^52-1]: [RS 961.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11633)
 [^52-2]: La mod. peut être consultée au [RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352).
 
 #### Art. 53

@@ -4,11 +4,11 @@ title: Legge del 17 giugno 2005 sul Tribunale amministrativo federale (LTAF)
 short: LTAF
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/352"
 language: it
-version: 2025-06-15
+version: 2026-06-12
 adopted: 2005-06-17
 in_force: 2007-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/352/20250615/it/xml/fedlex-data-admin-ch-eli-cc-2006-352-20250615-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/352/20250615/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/352/20260612/it/xml/fedlex-data-admin-ch-eli-cc-2006-352-20260612-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/352/20260612/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2006/352/20250615/it"
 
 (LTAF)
 
-del 17 giugno 2005 (Stato 15 giugno 2025)
+del 17 giugno 2005 (Stato 12 giugno 2026)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -25,7 +25,7 @@ visto l’articolo 191*a* della Costituzione federale[^ingress-1], visto il mess
 
 decreta:
 
-[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)
 
 ## Capitolo 1: Statuto e organizzazione
@@ -310,15 +310,19 @@ Il giudice dell’istruzione decide quale giudice unico circa:
 Sono fatte salve le competenze particolari del giudice unico secondo:
 
 - a.[^23-1] l’articolo 111 della legge del 26 giugno 1998[^23-2] sull’asilo;
-- b. la non entrata nel merito di impugnazioni manifestamente inammissibili;
+- a<sup>bis</sup>.[^23-3] l’articolo 64*a*<sup>bis</sup> capoverso 5 della legge federale del 16 dicembre 2005[^23-4] sugli stranieri e la loro integrazione;
+- b. gli articoli 29, 31 e 41 della legge federale del 25 settembre 2015[^23-5] sulle attività informative (LAIn);
 - c. le leggi federali in materia di assicurazioni sociali;
-- d.[^23-3] l’articolo 108*d*<sup>bis</sup> capoverso 5 della legge federale del 16 dicembre 2005[^23-4] sugli stranieri e la loro integrazione. [^23-5]
+- d.[^23-6] l’articolo 108*d*<sup>bis</sup> capoverso 5 della legge federale del 16 dicembre 2005[^23-7] sugli stranieri e la loro integrazione. [^23-8]
 
 [^23-1]: Nuovo testo giusta l’all. n. 2 del DF del 16 dic. 2022 che approva e traspone nel diritto svizzero gli scambi di note tra la Svizzera e l’UE concernenti il recepimento dei regolamenti (UE) 2021/1150 e (UE) 2021/1152 che definiscono le condizioni di accesso agli altri sistemi di informazione UE ai fini del sistema europeo di informazione e autorizzazione ai viaggi (ETIAS), in vigore dal 15 giu. 2025 ([RU 2025 349](https://fedlex.data.admin.ch/eli/oc/2025/349); [FF 2022 1449](https://fedlex.data.admin.ch/eli/fga/2022/1449)).
-[^23-2]: [[RS 142.31](https://www.fedlex.admin.ch/eli/cc/1999/358/de)](https://fedlex.data.admin.ch/eli/cc/1999/358)
-[^23-3]: Nuovo testo giusta l’all. n. 2 del DF del 16 dic. 2022 che approva e traspone nel diritto svizzero gli scambi di note tra la Svizzera e l’UE concernenti il recepimento dei regolamenti (UE) 2021/1150 e (UE) 2021/1152 che definiscono le condizioni di accesso agli altri sistemi di informazione UE ai fini del sistema europeo di informazione e autorizzazione ai viaggi (ETIAS), in vigore dal 15 giu. 2025 ([RU 2025 349](https://fedlex.data.admin.ch/eli/oc/2025/349); [FF 2022 1449](https://fedlex.data.admin.ch/eli/fga/2022/1449)).
-[^23-4]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
-[^23-5]: Nuovo testo giusta l’all. cifra II n. 3 della LF del 25 set. 2015 sulle attività informative, in vigore dal 1° set. 2017 ([RU 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); [FF 2014 1885](https://fedlex.data.admin.ch/eli/fga/2014/407)).
+[^23-2]: [[RS 142.31](https://www.fedlex.admin.ch/eli/cc/1999/358/de)](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4878)
+[^23-3]: Introdotta dall’all. 1 n. 3 del DF del 26 set. 2025 che approva e traspone nel diritto svizzero gli scambi di note tra la Svizzera e l’UE concernenti il recepimento del regolamento (UE) 2024/1351 sulla gestione dell’asilo e della migrazione e del regolamento (UE) 2024/1359 concernente le situazioni di crisi e di forza maggiore nel settore della migrazione e dell’asilo, in vigore dal 12 giu. 2026 ([RU 2026 229](https://fedlex.data.admin.ch/eli/oc/2026/229); [FF 2025 1478](https://fedlex.data.admin.ch/eli/fga/2025/1478)).
+[^23-4]: [RS 142.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4851)
+[^23-5]: [RS 121](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4758)
+[^23-6]: Introdotta dall’all. n. 2 del DF del 16 dic. 2022 che approva e traspone nel diritto svizzero gli scambi di note tra la Svizzera e l’UE concernenti il recepimento dei regolamenti (UE) 2021/1150 e (UE) 2021/1152 che definiscono le condizioni di accesso agli altri sistemi di informazione UE ai fini del sistema europeo di informazione e autorizzazione ai viaggi (ETIAS), in vigore dal 15 giu. 2025 ([RU 2025 349](https://fedlex.data.admin.ch/eli/oc/2025/349); [FF 2022 1449](https://fedlex.data.admin.ch/eli/fga/2022/1449)).
+[^23-7]: [RS 142.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4851)
+[^23-8]: Nuovo testo giusta l’all. cifra II n. 3 della LF del 25 set. 2015 sulle attività informative, in vigore dal 1° set. 2017 ([RU 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); [FF 2014 1885](https://fedlex.data.admin.ch/eli/fga/2014/407)).
 
 #### Art. 24
 
@@ -367,7 +371,7 @@ Il Tribunale amministrativo federale disciplina mediante regolamento la ripartiz
 <sup>3</sup> I dettagli della collaborazione tra il Tribunale amministrativo federale e il Dipartimento federale delle finanze sono retti per analogia dalla convenzione tra il Tribunale federale e il Consiglio federale di cui all’articolo 25*a* capoverso 3 della legge del 17 giugno 2005[^27a-2] sul Tribunale federale; è fatta salva una convenzione diversa conclusa tra il Tribunale amministrativo federale e il Consiglio federale.
 
 [^27a-1]: Introdotto dalla cifra I n. 3 della LF del 23 giu. 2006 che integra e attualizza la revisione totale dell’organizzazione giudiziaria federale, in vigore dal 1° gen. 2007 ([RU 2006 4213](https://fedlex.data.admin.ch/eli/oc/2006/634); [FF 2006 2849](https://fedlex.data.admin.ch/eli/fga/2006/334)).
-[^27a-2]: [RS 173.110](https://fedlex.data.admin.ch/eli/cc/2006/218)
+[^27a-2]: [RS 173.110](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5575)
 
 #### Art. 27b
 
@@ -378,7 +382,7 @@ Il Tribunale amministrativo federale disciplina mediante regolamento la ripartiz
 <sup>2</sup> Il Tribunale amministrativo federale emana le disposizioni d’esecuzione necessarie.
 
 [^27b-1]: Introdotto dalla cifra II n. 2 della LF del 1° ott. 2010 (Protezione dei dati derivanti dall’utilizzazione dell’infrastruttura elettronica), in vigore dal 1° apr. 2012 ([RU 2012 941](https://fedlex.data.admin.ch/eli/oc/2012/159); [FF 2009 7407](https://fedlex.data.admin.ch/eli/fga/2009/1469)).
-[^27b-2]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^27b-2]: [RS 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
 
 #### Art. 28
 
@@ -408,8 +412,8 @@ Il segretario generale dirige l’amministrazione del Tribunale, compresi i serv
 
 <sup>2</sup> Il Tribunale amministrativo federale può prevedere che non venga svolta una procedura di conciliazione; in tal caso, sulla domanda di accedere ai documenti ufficiali si pronuncia con decisione ricorribile.
 
-[^30-1]: [RS 152.3](https://fedlex.data.admin.ch/eli/cc/2006/355)
-[^30-2]: [RS 711](https://fedlex.data.admin.ch/eli/cc/47/689_701_723)
+[^30-1]: [RS 152.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4937)
+[^30-2]: [RS 711](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8369)
 
 ## Capitolo 2: Competenze
 
@@ -425,7 +429,7 @@ Il segretario generale dirige l’amministrazione del Tribunale, compresi i serv
 
 Il Tribunale amministrativo federale giudica i ricorsi contro le decisioni ai sensi dell’articolo 5 della legge federale del 20 dicembre 1968[^31-1] sulla procedura amministrativa (PA).
 
-[^31-1]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^31-1]: [RS 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 #### Art. 32
 
@@ -503,27 +507,27 @@ Il ricorso è ammissibile contro le decisioni:
 - i. delle autorità cantonali, in quanto una legge federale preveda che le loro decisioni sono impugnabili mediante ricorso dinanzi al Tribunale amministrativo federale.
 
 [^33-1]: Nuovo testo giusta l’all. n. 4 della LF del 22 giu. 2007 sulla vigilanza dei mercati finanziari, in vigore dal 1° feb. 2008 ([RU 2008 5207](https://fedlex.data.admin.ch/eli/oc/2008/736); [FF 2006 2625](https://fedlex.data.admin.ch/eli/fga/2006/303)).
-[^33-2]: [RS 951.11](https://fedlex.data.admin.ch/eli/cc/2004/221)
-[^33-3]: [RS 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
+[^33-2]: [RS 951.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11504)
+[^33-3]: [RS 956.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11614)
 [^33-4]: Introdotto dall’all. n. 1 della L del 1° ott. 2010 sulla restituzione degli averi di provenienza illecita ([RU 2011 275](https://fedlex.data.admin.ch/eli/oc/2011/38); [FF 2010 2871](https://fedlex.data.admin.ch/eli/fga/2010/596)). Nuovo testo giusta l’art. 31 cpv. 2 n. 1 della L del 18 dic. 2015 sui valori patrimoniali di provenienza illecita, in vigore dal 1° lug. 2016 ([RU 2016 1803](https://fedlex.data.admin.ch/eli/oc/2016/322); [FF 2014 4555](https://fedlex.data.admin.ch/eli/fga/2014/1134)).
-[^33-5]: [RS 196.1](https://fedlex.data.admin.ch/eli/cc/2016/322)
+[^33-5]: [RS 196.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5693)
 [^33-6]: Introdotto dall’all. n. 2 della LF del 23 dic. 2011 ([RU 2012 3745](https://fedlex.data.admin.ch/eli/oc/2012/428); [FF 2007 4613](https://fedlex.data.admin.ch/eli/fga/2007/729); [2010 6923](https://fedlex.data.admin.ch/eli/fga/2010/1444)). Nuovo testo giusta l’all. cifra II n. 3 della LF del 25 set. 2015 sulle attività informative, in vigore dal 1° set. 2017 ([RU 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); [FF 2014 1885](https://fedlex.data.admin.ch/eli/fga/2014/407)).
-[^33-7]: [RS 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
+[^33-7]: [RS 121](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4758)
 [^33-8]: Introdotto dall’all. cifra II n. 3 della LF del 25 set. 2015 sulle attività informative, in vigore dal 1° set. 2017 ([RU 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); [FF 2014 1885](https://fedlex.data.admin.ch/eli/fga/2014/407)).
 [^33-9]: Introdotto dall’art. 3 della LF del 20 dic. 2024 che vieta Hamas e le organizzazioni associate, in vigore dal 15 mag. 2025 ([RU 2025 269](https://fedlex.data.admin.ch/eli/oc/2025/269); [FF 2024 2250](https://fedlex.data.admin.ch/eli/fga/2024/2250)).
-[^33-10]: [RS 122.1](https://fedlex.data.admin.ch/eli/cc/2025/269)
+[^33-10]: [RS 122.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40277)
 [^33-11]: Introdotto dal n. 1 dell’art 26 della LF sull’Istituto federale di metrologia, in vigore dal 1° gen. 2013 ([RU 2011 6515](https://fedlex.data.admin.ch/eli/oc/2011/902); [FF 2010 7073](https://fedlex.data.admin.ch/eli/fga/2010/1470)).
-[^33-12]: [RS 941.27](https://fedlex.data.admin.ch/eli/cc/2011/902)
+[^33-12]: [RS 941.27](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11204)
 [^33-13]: Introdotta dall’all. n. 2 della L del 20 giu. 2014 (Concentrazione della sorveglianza sulle imprese di revisione e sulle società di audit), in vigore dal 1° gen. 2015 ([RU 2014 4073](https://fedlex.data.admin.ch/eli/oc/2014/685); [FF 2013 5901](https://fedlex.data.admin.ch/eli/fga/2013/1303)).
-[^33-14]: [RS 221.302](https://fedlex.data.admin.ch/eli/cc/2007/533)
+[^33-14]: [RS 221.302](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5919)
 [^33-15]: Introdotto dall’all. 1 della LF del 18 mar. 2016, in vigore dal 1° gen. 2019 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
-[^33-16]: [RS 812.21](https://fedlex.data.admin.ch/eli/cc/2001/422)
+[^33-16]: [RS 812.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9354)
 [^33-17]: Introdotto dall’all. cifra II n. 3 della LF del 16 giu. 2017 sui fondi di compensazione, in vigore dal 1° gen. 2019 ([RU 2017 7563](https://fedlex.data.admin.ch/eli/oc/2017/820); [FF 2016 255](https://fedlex.data.admin.ch/eli/fga/2016/68)).
-[^33-18]: [RS 830.2](https://fedlex.data.admin.ch/eli/cc/2017/820)
+[^33-18]: [RS 830.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9996)
 [^33-19]: Introdotto dall’art. 23 cpv. 2 della LF del 28 set. 2018 sull’Istituto svizzero di diritto comparato, in vigore dal 1° gen. 2020 ([RU 2019 3199](https://fedlex.data.admin.ch/eli/oc/2019/586); [FF 2018 771](https://fedlex.data.admin.ch/eli/fga/2018/336)).
-[^33-20]: [RS 425.1](https://fedlex.data.admin.ch/eli/cc/2019/586)
+[^33-20]: [RS 425.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6906)
 [^33-21]: Introdotto dall’all. cifra I n. 2 della LF del 28 set. 2018 sull’organizzazione dell’infrastruttura ferroviaria, in vigore dal 1° lug. 2020 ([RU 2020 1889](https://fedlex.data.admin.ch/eli/oc/2020/393); [FF 2016 7711](https://fedlex.data.admin.ch/eli/fga/2016/2093)).
-[^33-22]: [RS 742.101](https://fedlex.data.admin.ch/eli/cc/1958/335_341_347)
+[^33-22]: [RS 742.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8719)
 [^33-23]: Introdotta dall’all. n. 3 della LF del 20 mar. 2009 sul Tribunale federale dei brevetti, in vigore dal 1° gen. 2012 ([RU 2010 513](https://fedlex.data.admin.ch/eli/oc/2010/72), [2011 2241](https://fedlex.data.admin.ch/eli/oc/2011/306); [FF 2008 349](https://fedlex.data.admin.ch/eli/fga/2008/145)).
 [^33-24]: Introdotta dall’all. cifra II n. 6 della L del 19 mar. 2010 sull’organizzazione delle autorità penali ([RU 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444);[FF 2008 7093](https://fedlex.data.admin.ch/eli/fga/2008/1395)). Nuovo testo giusta la cifra I della LF del 19 giu. 2015, in vigore dal 1° nov. 2015 ([RU 2015 3847](https://fedlex.data.admin.ch/eli/oc/2015/651); [FF 2015 1861](https://fedlex.data.admin.ch/eli/fga/2015/421)[1885](https://fedlex.data.admin.ch/eli/fga/2015/424)).
 [^33-25]: Introdotta dall’all. cifra II n. 6 della L del 19 mar. 2010 sull’organizzazione delle autorità penali, in vigore dal 1° gen. 2011 ([RU 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444);[FF 2008 7093](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
@@ -554,7 +558,7 @@ Il Tribunale amministrativo federale giudica su azione in prima istanza:
 
 [^35-1]: Abrogata dall’all. 1 cifra II n. 15 della LF del 25 set. 2020 sulla protezione dei dati, con effetto dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 [^35-2]: Introdotta dall’all. n. 1 della L del 1° ott. 2010 sulla restituzione degli averi di provenienza illecita ([RU 2011 275](https://fedlex.data.admin.ch/eli/oc/2011/38); [FF 2010 2871](https://fedlex.data.admin.ch/eli/fga/2010/596)). Nuovo testo giusta l’art. 31 cpv. 2 n. 1 della L del 18 dic. 2015 sui valori patrimoniali di provenienza illecita, in vigore dal 1° lug. 2016 ([RU 2016 1803](https://fedlex.data.admin.ch/eli/oc/2016/322); [FF 2014 4555](https://fedlex.data.admin.ch/eli/fga/2014/1134)).
-[^35-3]: [RS 196.1](https://fedlex.data.admin.ch/eli/cc/2016/322)
+[^35-3]: [RS 196.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5693)
 
 #### Art. 36
 
@@ -584,7 +588,7 @@ L’azione è inammissibile se un’altra legge federale deferisce la controvers
 
 Il Tribunale amministrativo federale decide in merito all’autorizzazione di misure di acquisizione secondo la LAIn[^36b-1].
 
-[^36b-1]: [RS 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
+[^36b-1]: [RS 121](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4758)
 
 ## Capitolo 3: Procedura
 
@@ -596,7 +600,7 @@ Il Tribunale amministrativo federale decide in merito all’autorizzazione di mi
 
 La procedura dinanzi al Tribunale amministrativo federale è retta dalla PA[^37-1], in quanto la presente legge non disponga altrimenti.
 
-[^37-1]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^37-1]: [RS 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 #### Art. 38
 
@@ -604,7 +608,7 @@ La procedura dinanzi al Tribunale amministrativo federale è retta dalla PA[^37-
 
 Le disposizioni della legge del 17 giugno 2005[^38-1] sul Tribunale federale concernenti la ricusazione si applicano per analogia alla procedura dinanzi al Tribunale amministrativo federale.
 
-[^38-1]: [RS 173.110](https://fedlex.data.admin.ch/eli/cc/2006/218)
+[^38-1]: [RS 173.110](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5575)
 
 #### Art. 39
 
@@ -631,7 +635,7 @@ Laddove si debbano giudicare diritti di carattere civile o accuse penali a tenor
 
 <sup>3</sup> Qualora vi sia da temere un pericolo per la sicurezza, l’ordine pubblico o i buoni costumi o qualora l’interesse di una persona in causa lo giustifichi, il dibattimento può svolgersi in tutto o in parte a porte chiuse.
 
-[^40-1]: [RS 0.101](https://fedlex.data.admin.ch/eli/cc/1974/2151_2151_2151)
+[^40-1]: [RS 0.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3)
 [^40-2]: Nella versione francese della L, il cpv. 1 non comporta nessuna struttura.
 
 #### Art. 41
@@ -671,8 +675,8 @@ In caso di esecuzione viziata di sentenze del Tribunale amministrativo federale 
 
 <sup>3</sup> Le tasse di giustizia e le spese ripetibili sono rette dagli articoli 63–65 PA[^44-2].[^44-3]
 
-[^44-1]: [RS 273](https://fedlex.data.admin.ch/eli/cc/1948/485_473_421)
-[^44-2]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^44-1]: [RS 273](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6141)
+[^44-2]: [RS 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 [^44-3]: Introdotto dall’all. n. 2 della L del 1° ott. 2010 sulla restituzione degli averi di provenienza illecita, in vigore dal 1° feb. 2011 ([RU 2011 275](https://fedlex.data.admin.ch/eli/oc/2011/38); [FF 2010 2871](https://fedlex.data.admin.ch/eli/fga/2010/596)).
 
 ## Capitolo 4: Revisione, interpretazione e rettifica
@@ -685,7 +689,7 @@ In caso di esecuzione viziata di sentenze del Tribunale amministrativo federale 
 
 Gli articoli 121–128 della legge del 17 giugno 2005[^45-1] sul Tribunale federale si applicano per analogia alla revisione delle sentenze del Tribunale amministrativo federale.
 
-[^45-1]: [RS 173.110](https://fedlex.data.admin.ch/eli/cc/2006/218)
+[^45-1]: [RS 173.110](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5575)
 
 #### Art. 46
 
@@ -699,7 +703,7 @@ Le censure che avrebbero potuto essere sollevate in un ricorso contro la sentenz
 
 Per il contenuto, la forma, il miglioramento e il completamento della domanda di revisione è applicabile l’articolo 67 capoverso 3 PA[^47-1].
 
-[^47-1]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^47-1]: [RS 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 ### Sezione 2: Interpretazione e rettifica
 
@@ -709,7 +713,7 @@ Per il contenuto, la forma, il miglioramento e il completamento della domanda di
 
 <sup>2</sup> Dall’interpretazione o dalla rettifica decorre nuovamente un eventuale termine di ricorso.
 
-[^48-1]: [RS 173.110](https://fedlex.data.admin.ch/eli/cc/2006/218)
+[^48-1]: [RS 173.110](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5575)
 
 ## Capitolo 5: Disposizioni finali
 
@@ -727,7 +731,7 @@ Per il contenuto, la forma, il miglioramento e il completamento della domanda di
 
 ...[^50-2]
 
-[^50-1]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
+[^50-1]: [RS 631.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7812)
 [^50-2]: La mod. può essere consultata alla [RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352).
 
 #### Art. 51
@@ -736,8 +740,8 @@ Per il contenuto, la forma, il miglioramento e il completamento della domanda di
 
 ...[^51-3]
 
-[^51-1]: [RS 362](https://fedlex.data.admin.ch/eli/cc/2008/112)
-[^51-2]: [RS 642.11](https://fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184)
+[^51-1]: [RS 362](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6313)
+[^51-2]: [RS 642.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8175)
 [^51-3]: La mod. può essere consultata alla [RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352).
 
 #### Art. 52
@@ -746,7 +750,7 @@ Per il contenuto, la forma, il miglioramento e il completamento della domanda di
 
 ...[^52-2]
 
-[^52-1]: [RS 961.01](https://fedlex.data.admin.ch/eli/cc/2005/734)
+[^52-1]: [RS 961.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11633)
 [^52-2]: La mod. può essere consultata alla [RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352).
 
 #### Art. 53

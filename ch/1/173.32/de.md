@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 17. Juni 2005 über das Bundesverwaltungsgericht (Verwa
 short: VGG
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/352"
 language: de
-version: 2025-06-15
+version: 2026-06-12
 adopted: 2005-06-17
 in_force: 2007-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/352/20250615/de/xml/fedlex-data-admin-ch-eli-cc-2006-352-20250615-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/352/20250615/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/352/20260612/de/xml/fedlex-data-admin-ch-eli-cc-2006-352-20260612-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/352/20260612/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2006/352/20250615/de"
 
 (Verwaltungsgerichtsgesetz, VGG)
 
-vom 17. Juni 2005 (Stand am 15. Juni 2025)
+vom 17. Juni 2005 (Stand am 12. Juni 2026)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -25,7 +25,7 @@ gestützt auf Artikel 191*a* der Bundesverfassung[^ingress-1], nach Einsicht in 
 
 beschliesst:
 
-[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)
 
 ## 1. Kapitel: Stellung und Organisation
@@ -310,16 +310,19 @@ Der Instruktionsrichter oder die Instruktionsrichterin entscheidet als Einzelric
 Vorbehalten bleiben die besonderen Zuständigkeiten des Einzelrichters beziehungsweise der Einzelrichterin nach:
 
 - a.[^23-1] Artikel 111 des Asylgesetzes vom 26. Juni 1998[^23-2];
-- b. den Artikeln 29, 31 und 41 des Nachrichtendienstgesetzes vom 25. September 2015[^23-3] (NDG);
+- a<sup>bis</sup>.[^23-3] Artikel 64*a*<sup>bis</sup> Absatz 5 des Ausländer- und Integrationsgesetzes vom 16. Dezember 2005[^23-4];
+- b. den Artikeln 29, 31 und 41 des Nachrichtendienstgesetzes vom 25. September 2015[^23-5] (NDG);
 - c. den Bundesgesetzen über die Sozialversicherung;
-- d.[^23-4] Artikel 108*d*<sup>bis</sup> Absatz 5 des Ausländer- und Integrationsgesetzes vom 16. Dezember 2005[^23-5].[^23-6]
+- d.[^23-6] Artikel 108*d*<sup>bis</sup> Absatz 5 des Ausländer- und Integrationsgesetzes vom 16. Dezember 2005[^23-7].[^23-8]
 
 [^23-1]: Fassung gemäss Anhang Ziff. 2 des BB vom 16. Dez. 2022 über die Genehmigung und die Umsetzung der Notenaustausche zwischen der Schweiz und der EU betreffend die Übernahme der Verordnungen (EU) 2021/1150 und 2021/1152 zur Festlegung der Bedingungen für den Zugang zu anderen EU Informationssystemen für die Zwecke des Europäischen Reiseinformations- und ‑genehmigungssystems (ETIAS), in Kraft seit 15. Juni 2025 ([AS 2025 349](https://fedlex.data.admin.ch/eli/oc/2025/349); [BBl 2022 1449](https://fedlex.data.admin.ch/eli/fga/2022/1449)).
-[^23-2]: [SR 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
-[^23-3]: [SR 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
-[^23-4]: Eingefügt durch Anhang Ziff. 2 des BB vom 16. Dez. 2022 über die Genehmigung und die Umsetzung der Notenaustausche zwischen der Schweiz und der EU betreffend die Übernahme der Verordnungen (EU) 2021/1150 und 2021/1152 zur Festlegung der Bedingungen für den Zugang zu anderen EU Informationssystemen für die Zwecke des Europäischen Reiseinformations- und ‑genehmigungssystems (ETIAS), in Kraft seit 15. Juni 2025 ([AS 2025 349](https://fedlex.data.admin.ch/eli/oc/2025/349); [BBl 2022 1449](https://fedlex.data.admin.ch/eli/fga/2022/1449)).
-[^23-5]: [SR 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
-[^23-6]: Fassung gemäss Anhang Ziff. II 3 des Nachrichtendienstgesetzes vom 25. Sept. 2015, in Kraft seit 1. Sept. 2017 ([AS 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); [BBl 2014 2105](https://fedlex.data.admin.ch/eli/fga/2014/407)).
+[^23-2]: [SR 142.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4878)
+[^23-3]: Eingefügt durch Anhang 1 Ziff. 3 des BB vom 26. Sept. 2025 über die Genehmigung und die Umsetzung der Notenaustausche zwischen der Schweiz und der EU betreffend die Übernahme der Verordnung (EU) 2024/1351 über das Asyl- und Migrationsmanagement und der Verordnung (EU) 2024/1359 über die Bewältigung von Krisensituationen und Situationen höherer Gewalt im Bereich Migration und Asyl, in Kraft seit 12. Juni 2026 ([AS 2026 229](https://fedlex.data.admin.ch/eli/oc/2026/229); [BBl 2025 1478](https://fedlex.data.admin.ch/eli/fga/2025/1478)).
+[^23-4]: [SR 142.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4851)
+[^23-5]: [SR 121](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4758)
+[^23-6]: Eingefügt durch Anhang Ziff. 2 des BB vom 16. Dez. 2022 über die Genehmigung und die Umsetzung der Notenaustausche zwischen der Schweiz und der EU betreffend die Übernahme der Verordnungen (EU) 2021/1150 und 2021/1152 zur Festlegung der Bedingungen für den Zugang zu anderen EU Informationssystemen für die Zwecke des Europäischen Reiseinformations- und ‑genehmigungssystems (ETIAS), in Kraft seit 15. Juni 2025 ([AS 2025 349](https://fedlex.data.admin.ch/eli/oc/2025/349); [BBl 2022 1449](https://fedlex.data.admin.ch/eli/fga/2022/1449)).
+[^23-7]: [SR 142.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4851)
+[^23-8]: Fassung gemäss Anhang Ziff. II 3 des Nachrichtendienstgesetzes vom 25. Sept. 2015, in Kraft seit 1. Sept. 2017 ([AS 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); [BBl 2014 2105](https://fedlex.data.admin.ch/eli/fga/2014/407)).
 
 #### Art. 24
 
@@ -368,7 +371,7 @@ Das Bundesverwaltungsgericht regelt die Verteilung der Geschäfte auf die Abteil
 <sup>3</sup> Für die Einzelheiten der Zusammenarbeit zwischen dem Bundesverwaltungsgericht und dem Eidgenössischen Finanzdepartement gilt die Vereinbarung zwischen dem Bundesgericht und dem Bundesrat gemäss Artikel 25a Absatz 3 des Bundesgerichtsgesetzes vom 17. Juni 2005[^27a-2] sinngemäss; vorbehalten bleibt der Abschluss einer anders lautenden Vereinbarung zwischen dem Bundesverwaltungsgericht und dem Bundesrat.
 
 [^27a-1]: Eingefügt durch Ziff. I 3 des BG vom 23. Juni 2006 über die Bereinigung und Aktualisierung der Totalrevision der Bundesrechtspflege, in Kraft seit 1. Jan. 2007 ([AS 2006 4213](https://fedlex.data.admin.ch/eli/oc/2006/634); [BBl 2006 3067](https://fedlex.data.admin.ch/eli/fga/2006/334)).
-[^27a-2]: [SR 173.110](https://fedlex.data.admin.ch/eli/cc/2006/218)
+[^27a-2]: [SR 173.110](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5575)
 
 #### Art. 27b
 
@@ -379,7 +382,7 @@ Das Bundesverwaltungsgericht regelt die Verteilung der Geschäfte auf die Abteil
 <sup>2</sup> Das Bundesverwaltungsgericht erlässt die Ausführungsbestimmungen.
 
 [^27b-1]: Eingefügt durch Ziff. II 2 des BG vom 1. Okt. 2010 (Datenschutz bei der Benutzung der elektronischen Infrastruktur), in Kraft seit 1. April 2012 ([AS 2012 941](https://fedlex.data.admin.ch/eli/oc/2012/159); [BBl 2009 8513](https://fedlex.data.admin.ch/eli/fga/2009/1469)).
-[^27b-2]: [SR 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^27b-2]: [SR 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
 
 #### Art. 28
 
@@ -409,8 +412,8 @@ Der Generalsekretär oder die Generalsekretärin steht der Gerichtsverwaltung vo
 
 <sup>2</sup> Das Bundesverwaltungsgericht kann vorsehen, dass kein Schlichtungsverfahren durchgeführt wird; in diesem Fall erlässt es die Stellungnahme zu einem Gesuch um Zugang zu amtlichen Dokumenten in Form einer beschwerdefähigen Verfügung.
 
-[^30-1]: [SR 152.3](https://fedlex.data.admin.ch/eli/cc/2006/355)
-[^30-2]: [SR 711](https://fedlex.data.admin.ch/eli/cc/47/689_701_723)
+[^30-1]: [SR 152.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4937)
+[^30-2]: [SR 711](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8369)
 
 ## 2. Kapitel: Zuständigkeiten
 
@@ -426,7 +429,7 @@ Der Generalsekretär oder die Generalsekretärin steht der Gerichtsverwaltung vo
 
 Das Bundesverwaltungsgericht beurteilt Beschwerden gegen Verfügungen nach Artikel 5 des Bundesgesetzes vom 20. Dezember 1968[^31-1] über das Verwaltungsverfahren (VwVG).
 
-[^31-1]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^31-1]: [SR 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 #### Art. 32
 
@@ -504,27 +507,27 @@ Die Beschwerde ist zulässig gegen Verfügungen:
 - i. kantonaler Instanzen, soweit ein Bundesgesetz gegen ihre Verfügungen die Beschwerde an das Bundesverwaltungsgericht vorsieht.
 
 [^33-1]: Fassung gemäss Anhang Ziff. 4 des Finanzmarktaufsichtsgesetzes vom 22. Juni 2007, in Kraft seit 1. Febr. 2008 ([AS 2008 5207](https://fedlex.data.admin.ch/eli/oc/2008/736); [BBl 2006 2829](https://fedlex.data.admin.ch/eli/fga/2006/303)).
-[^33-2]: [SR 951.11](https://fedlex.data.admin.ch/eli/cc/2004/221)
-[^33-3]: [SR 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
+[^33-2]: [SR 951.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11504)
+[^33-3]: [SR 956.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11614)
 [^33-4]: Eingefügt durch Anhang Ziff. 1 des BG vom 1. Okt. 2010 über die Rückerstattung unrechtmässig erworbener Vermögenswerte politisch exponierter Personen ([AS 2011 275](https://fedlex.data.admin.ch/eli/oc/2011/38); [BBl 2010 3309](https://fedlex.data.admin.ch/eli/fga/2010/596)). Fassung gemäss Art. 31 Abs. 2 Ziff. 1 des BG vom 18. Dez. 2015 über die Sperrung und die Rückerstattung unrechtmässig erworbener Vermögenswerte ausländischer politisch exponierter Personen, in Kraft seit 1. Juli 2016 ([AS 2016 1803](https://fedlex.data.admin.ch/eli/oc/2016/322); [BBl 2014 5265](https://fedlex.data.admin.ch/eli/fga/2014/1134)).
-[^33-5]: [SR 196.1](https://fedlex.data.admin.ch/eli/cc/2016/322)
+[^33-5]: [SR 196.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5693)
 [^33-6]: Eingefügt durch Anhang Ziff. 2 des BG vom 23. Dez. 2011 ([AS 2012 3745](https://fedlex.data.admin.ch/eli/oc/2012/428); [BBl 2007 5037](https://fedlex.data.admin.ch/eli/fga/2007/729), [2010 7841](https://fedlex.data.admin.ch/eli/fga/2010/1444)). Fassung gemäss Anhang Ziff. II 3 des Nachrichtendienstgesetzes vom 25. Sept. 2015, in Kraft seit 1. Sept. 2017 ([AS 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); [BBl 2014 2105](https://fedlex.data.admin.ch/eli/fga/2014/407)).
-[^33-7]: [SR 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
+[^33-7]: [SR 121](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4758)
 [^33-8]: Eingefügt durch Anhang Ziff. II 3 des Nachrichtendienstgesetzes vom 25. Sept. 2015, in Kraft seit 1. Sept. 2017 ([AS 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); [BBl 2014 2105](https://fedlex.data.admin.ch/eli/fga/2014/407)).
 [^33-9]: Eingefügt durch Art. 3 des BG vom 20. Dez. 2024 über das Verbot der Hamas sowie verwandter Organisationen, in Kraft seit 15. Mai 2025 ([AS 2025 269](https://fedlex.data.admin.ch/eli/oc/2025/269); [BBl 2024 2250](https://fedlex.data.admin.ch/eli/fga/2024/2250)).
-[^33-10]: [SR 122.1](https://fedlex.data.admin.ch/eli/cc/2025/269)
+[^33-10]: [SR 122.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40277)
 [^33-11]: Eingefügt durch Art. 26 Ziff. 2 des BG vom 17. Juni 2011 über das Eidgenössische Institut für Metrologie, in Kraft seit 1. Jan. 2013 ([AS 2011 6515](https://fedlex.data.admin.ch/eli/oc/2011/902); [BBl 2010 8013](https://fedlex.data.admin.ch/eli/fga/2010/1470)).
-[^33-12]: [SR 941.27](https://fedlex.data.admin.ch/eli/cc/2011/902)
+[^33-12]: [SR 941.27](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11204)
 [^33-13]: Eingefügt durch Anhang Ziff. 2 des BG vom 20. Juni 2014 (Bündelung der Aufsicht über Revisionsunternehmen und Prüfgesellschaften), in Kraft seit 1. Jan. 2015 ([AS 2014 4073](https://fedlex.data.admin.ch/eli/oc/2014/685); [BBl 2013 6857](https://fedlex.data.admin.ch/eli/fga/2013/1303)).
-[^33-14]: [SR 221.302](https://fedlex.data.admin.ch/eli/cc/2007/533)
+[^33-14]: [SR 221.302](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5919)
 [^33-15]: Eingefügt durch Anhang Ziff. 1 des BG vom 18. März 2016, in Kraft seit 1. Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
-[^33-16]: [SR 812.21](https://fedlex.data.admin.ch/eli/cc/2001/422)
+[^33-16]: [SR 812.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9354)
 [^33-17]: Eingefügt durch Anhang Ziff. II 3 des Ausgleichsfondsgesetzes vom 16. Juni 2017, in Kraft seit 1. Jan. 2019 ([AS 2017 7563](https://fedlex.data.admin.ch/eli/oc/2017/820); [BBl 2016 311](https://fedlex.data.admin.ch/eli/fga/2016/68)).
-[^33-18]: [SR 830.2](https://fedlex.data.admin.ch/eli/cc/2017/820)
+[^33-18]: [SR 830.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9996)
 [^33-19]: Eingefügt durch Art. 23 Abs. 2 des BG vom 28. Sept. 2018 über das Schweizerische Institut für Rechtsvergleichung, in Kraft seit 1. Jan. 2020 ([AS 2019 3199](https://fedlex.data.admin.ch/eli/oc/2019/586); [BBl 2018 913](https://fedlex.data.admin.ch/eli/fga/2018/336)).
-[^33-20]: [SR 425.1](https://fedlex.data.admin.ch/eli/cc/2019/586)
+[^33-20]: [SR 425.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6906)
 [^33-21]: Eingefügt durch Ziff. I 2 des BG vom 28. Sept. 2018 über die Organisation der Bahninfrastruktur, in Kraft seit 1. Juli 2020 ([AS 2020 1889](https://fedlex.data.admin.ch/eli/oc/2020/393); [BBl 2016 8661](https://fedlex.data.admin.ch/eli/fga/2016/2093)).
-[^33-22]: [SR 742.101](https://fedlex.data.admin.ch/eli/cc/1958/335_341_347)
+[^33-22]: [SR 742.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8719)
 [^33-23]: Eingefügt durch Anhang Ziff. 3 des BG vom 20. März 2009 über das Bundespatentgericht, in Kraft seit 1. Jan. 2012 ([AS 2010 513](https://fedlex.data.admin.ch/eli/oc/2010/72), [2011 2241](https://fedlex.data.admin.ch/eli/oc/2011/306); [BBl 2008 455](https://fedlex.data.admin.ch/eli/fga/2008/145)).
 [^33-24]: Eingefügt durch Anhang Ziff. II 6 des Strafbehördenorganisationsgesetzes vom 19. März 2010 ([AS 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444); [BBl 2008 8125](https://fedlex.data.admin.ch/eli/fga/2008/1395)). Fassung gemäss Ziff. I des BG vom 19. Juni 2015, in Kraft seit 1. Nov. 2015 ([AS 2015 3847](https://fedlex.data.admin.ch/eli/oc/2015/651); [BBl 2015 2211](https://fedlex.data.admin.ch/eli/fga/2015/421)[2235](https://fedlex.data.admin.ch/eli/fga/2015/424)).
 [^33-25]: Eingefügt durch Anhang Ziff. II 6 des Strafbehördenorganisationsgesetzes vom 19. März 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444); [BBl 2008 8125](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
@@ -555,7 +558,7 @@ Das Bundesverwaltungsgericht beurteilt auf Klage als erste Instanz:
 
 [^35-1]: Aufgehoben durch Anhang 1 Ziff. II 15 des Datenschutzgesetzes vom 25. Sept. 2020, mit Wirkung seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 [^35-2]: Eingefügt durch Anhang Ziff. 1 des BG vom 1. Okt. 2010 über die Rückerstattung unrechtmässig erworbener Vermögenswerte politisch exponierter Personen ([AS 2011 275](https://fedlex.data.admin.ch/eli/oc/2011/38); [BBl 2010 3309](https://fedlex.data.admin.ch/eli/fga/2010/596)). Fassung gemäss Art. 31 Abs. 2 Ziff. 1 des BG vom 18. Dez. 2015 über die Sperrung und die Rückerstattung unrechtmässig erworbener Vermögenswerte ausländischer politisch exponierter Personen, in Kraft seit 1. Juli 2016 ([AS 2016 1803](https://fedlex.data.admin.ch/eli/oc/2016/322); [BBl 2014 5265](https://fedlex.data.admin.ch/eli/fga/2014/1134)).
-[^35-3]: [SR 196.1](https://fedlex.data.admin.ch/eli/cc/2016/322)
+[^35-3]: [SR 196.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5693)
 
 #### Art. 36
 
@@ -585,7 +588,7 @@ Die Klage ist unzulässig, wenn ein anderes Bundesgesetz die Erledigung des Stre
 
 Das Bundesverwaltungsgericht entscheidet über die Genehmigung von Beschaffungsmassnahmen nach dem NDG[^36b-1]*.*
 
-[^36b-1]: [SR 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
+[^36b-1]: [SR 121](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4758)
 
 ## 3. Kapitel: Verfahren
 
@@ -597,7 +600,7 @@ Das Bundesverwaltungsgericht entscheidet über die Genehmigung von Beschaffungsm
 
 Das Verfahren vor dem Bundesverwaltungsgericht richtet sich nach dem VwVG[^37-1], soweit dieses Gesetz nichts anderes bestimmt.
 
-[^37-1]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^37-1]: [SR 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 #### Art. 38
 
@@ -605,7 +608,7 @@ Das Verfahren vor dem Bundesverwaltungsgericht richtet sich nach dem VwVG[^37-1]
 
 Die Bestimmungen des Bundesgerichtsgesetzes vom 17. Juni 2005[^38-1] über den Ausstand gelten im Verfahren vor dem Bundesverwaltungsgericht sinngemäss.
 
-[^38-1]: [SR 173.110](https://fedlex.data.admin.ch/eli/cc/2006/218)
+[^38-1]: [SR 173.110](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5575)
 
 #### Art. 39
 
@@ -632,7 +635,7 @@ Soweit zivilrechtliche Ansprüche oder strafrechtliche Anklagen im Sinne von Art
 
 <sup>3</sup> Ist eine Gefährdung der Sicherheit, der öffentlichen Ordnung oder der Sittlichkeit zu befürchten oder rechtfertigt es das Interesse einer beteiligten Person, so kann die Öffentlichkeit ganz oder teilweise ausgeschlossen werden.
 
-[^40-1]: [SR 0.101](https://fedlex.data.admin.ch/eli/cc/1974/2151_2151_2151)
+[^40-1]: [SR 0.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3)
 [^40-2]: In der französischen Fassung weist dieser Abs. keine Bst. auf.
 
 #### Art. 41
@@ -672,8 +675,8 @@ Wegen mangelhafter Vollstreckung von Entscheiden des Bundesverwaltungsgerichts, 
 
 <sup>3</sup> Die Gerichtsgebühren und die Parteientschädigung richten sich nach den Artikeln 63–65 VwVG[^44-2].[^44-3]
 
-[^44-1]: [SR 273](https://fedlex.data.admin.ch/eli/cc/1948/485_473_421)
-[^44-2]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^44-1]: [SR 273](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6141)
+[^44-2]: [SR 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 [^44-3]: Eingefügt durch Anhang Ziff. 1 des BG vom 1. Okt. 2010 über die Rückerstattung unrechtmässig erworbener Vermögenswerte politisch exponierter Personen, in Kraft seit 1. Febr. 2011 ([AS 2011 275](https://fedlex.data.admin.ch/eli/oc/2011/38); [BBl 2010 3309](https://fedlex.data.admin.ch/eli/fga/2010/596)).
 
 ## 4. Kapitel: Revision, Erläuterung und Berichtigung
@@ -686,7 +689,7 @@ Wegen mangelhafter Vollstreckung von Entscheiden des Bundesverwaltungsgerichts, 
 
 Für die Revision von Entscheiden des Bundesverwaltungsgerichts gelten die Artikel 121–128 des Bundesgerichtsgesetzes vom 17. Juni 2005[^45-1] sinngemäss.
 
-[^45-1]: [SR 173.110](https://fedlex.data.admin.ch/eli/cc/2006/218)
+[^45-1]: [SR 173.110](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5575)
 
 #### Art. 46
 
@@ -700,7 +703,7 @@ Nicht als Revisionsgründe gelten Gründe, welche die Partei, die um Revision na
 
 Auf Inhalt, Form, Verbesserung und Ergänzung des Revisionsgesuchs findet Artikel 67 Absatz 3 VwVG[^47-1] Anwendung.
 
-[^47-1]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^47-1]: [SR 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 ### 2. Abschnitt: Erläuterung und Berichtigung
 
@@ -710,7 +713,7 @@ Auf Inhalt, Form, Verbesserung und Ergänzung des Revisionsgesuchs findet Artike
 
 <sup>2</sup> Erläutert oder berichtigt das Bundesverwaltungsgericht seinen Entscheid, so beginnt eine allfällige Rechtsmittelfrist neu zu laufen.
 
-[^48-1]: [SR 173.110](https://fedlex.data.admin.ch/eli/cc/2006/218)
+[^48-1]: [SR 173.110](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5575)
 
 ## 5. Kapitel: Schlussbestimmungen
 
@@ -728,7 +731,7 @@ Auf Inhalt, Form, Verbesserung und Ergänzung des Revisionsgesuchs findet Artike
 
 …[^50-2]
 
-[^50-1]: [SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249). Die hiernach aufgeführte Änd. ist eingefügt im genannten BG.
+[^50-1]: [SR 631.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7812). Die hiernach aufgeführte Änd. ist eingefügt im genannten BG.
 [^50-2]: Die Änderungen können unter [AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)konsultiert werden.
 
 #### Art. 51
@@ -737,8 +740,8 @@ Auf Inhalt, Form, Verbesserung und Ergänzung des Revisionsgesuchs findet Artike
 
 …[^51-3]
 
-[^51-1]: [SR 362](https://fedlex.data.admin.ch/eli/cc/2008/112)
-[^51-2]: [SR 642.11](https://fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184). Die hiernach aufgeführte Änd. ist eingefügt im genannten Erlass.
+[^51-1]: [SR 362](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6313)
+[^51-2]: [SR 642.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8175). Die hiernach aufgeführte Änd. ist eingefügt im genannten Erlass.
 [^51-3]: Die Änderungen können unter [AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)konsultiert werden.
 
 #### Art. 52
@@ -747,7 +750,7 @@ Auf Inhalt, Form, Verbesserung und Ergänzung des Revisionsgesuchs findet Artike
 
 …[^52-2]
 
-[^52-1]: [SR 961.01](https://fedlex.data.admin.ch/eli/cc/2005/734). Die hiernach aufgeführte Änd. ist eingefügt im genannten Erlass.
+[^52-1]: [SR 961.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11633). Die hiernach aufgeführte Änd. ist eingefügt im genannten Erlass.
 [^52-2]: Die Änderungen können unter [AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)konsultiert werden.
 
 #### Art. 53
