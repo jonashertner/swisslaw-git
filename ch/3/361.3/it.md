@@ -3,18 +3,18 @@ sr: "361.3"
 title: Ordinanza del 6 dicembre 2013 sul trattamento dei dati segnaletici di natura biometrica
 eli: "https://fedlex.data.admin.ch/eli/cc/2014/23"
 language: it
-version: 2024-01-01
+version: 2026-06-12
 adopted: 2013-12-06
 in_force: 2014-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/23/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2014-23-20240101-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2014/23/20240101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/23/20260612/it/xml/fedlex-data-admin-ch-eli-cc-2014-23-20260612-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2014/23/20260612/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza sul trattamento dei dati segnaletici di natura biometrica
 
-del 6 dicembre 2013 (Stato 1° gennaio 2024)
+del 6 dicembre 2013 (Stato 12 giugno 2026)
 
 Il Consiglio federale svizzero,
 
@@ -22,7 +22,7 @@ visto l’articolo 354 capoverso 4 del Codice penale[^ingress-1],
 
 ordina:
 
-[^ingress-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^ingress-1]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 ## Sezione 1: Disposizioni generali
 
@@ -30,15 +30,15 @@ ordina:
 
 **Oggetto e scopo**
 
-<sup>1</sup> La presente ordinanza disciplina il trattamento dei dati segnaletici di natura biometrica da parte dell’Ufficio federale di polizia (fedpol) e il trattamento di dati segnaletici di natura biometrica da parte della Segreteria di Stato della migrazione (SEM) nell’ambito dei suoi compiti nel settore degli stranieri.[^1-1]
+<sup>1</sup> La presente ordinanza disciplina il trattamento dei dati segnaletici di natura biometrica da parte dell’Ufficio federale di polizia (fedpol) e il trattamento di dati segnaletici di natura biometrica da parte della Segreteria di Stato della migrazione (SEM) nell’ambito dei suoi compiti nel settore degli stranieri e dell’asilo.[^1-1]
 
 <sup>2</sup> Il trattamento dei dati segnaletici ha lo scopo di permettere alle autorità della Confederazione e dei Cantoni di identificare persone vive e morte, di identificare le tracce rilevate sul luogo di un reato, nonché di individuare connessioni tra i reati.
 
 <sup>3</sup> Per altro, sono applicabili l’articolo 87 dell’ordinanza del 24 ottobre 2007[^1-2] sull’ammissione, il soggiorno e l’attività lucrativa (OASA) e l’articolo 226 dell’ordinanza del 1° novembre 2006[^1-3] sulle dogane (OD).
 
-[^1-1]: Nuovo testo giusta il n. I dell’O del 19 ott. 2022, in vigore dal 22 nov. 2022 ([RU 2022 650](https://fedlex.data.admin.ch/eli/oc/2022/650)).
-[^1-2]: [RS 142.201](https://fedlex.data.admin.ch/eli/cc/2007/759)
-[^1-3]: [RS 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)
+[^1-1]: Nuovo testo giusta la cifra I dell’O del 20 mag. 2026, in vigore dal 12 giu. 2026 ([RU 2026 269](https://fedlex.data.admin.ch/eli/oc/2026/269)).
+[^1-2]: [RS 142.201](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4852)
+[^1-3]: [RS 631.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7813)
 
 #### Art. 2
 
@@ -70,9 +70,9 @@ I servizi competenti di fedpol trattano dati segnaletici nell’ambito dei segue
 
 <sup>2</sup> I servizi competenti di cui al capoverso 1 devono essere accreditati secondo la norma ISO/IEC 17025[^3-4].
 
-[^3-1]: Nuovo testo giusta l’all. 2 n. II 44 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
-[^3-2]: Nuovo testo giusta l’all. 2 n. II 44 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
-[^3-3]: Introdotta dal n. III dell’O dell’11 giu. 2021, in vigore dal 1° lug. 2021 ([RU 2021 368](https://fedlex.data.admin.ch/eli/oc/2021/368)).
+[^3-1]: Nuovo testo giusta l’all. 2 cifra II n. 44 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^3-2]: Nuovo testo giusta l’all. 2 cifra II n. 44 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^3-3]: Introdotta dalla cifra III dell’O dell’11 giu. 2021, in vigore dal 1° lug. 2021 ([RU 2021 368](https://fedlex.data.admin.ch/eli/oc/2021/368)).
 [^3-4]: ISO/IEC 17025: 2005 Requisiti generali per la competenza dei laboratori di prova e di taratura. La norma può essere consultata gratuitamente presso fedpol od ottenuta a pagamento presso l’Associazione svizzera di normalizzazione (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch
 
 #### Art. 3a
@@ -81,9 +81,9 @@ I servizi competenti di fedpol trattano dati segnaletici nell’ambito dei segue
 
 In caso di segnalazioni ai fini del rimpatrio o della non ammissione e del divieto di soggiorno, la SEM può fornire per via informatizzata le impronte digitali e le immagini del viso al N‑SIS a partire da AFIS. La persona interessata è informata sull’utilizzazione di questi dati conformemente agli articoli 19 e 20 della legge federale del 25 settembre 2020[^3a-2] sulla protezione dei dati (LPD).[^3a-3]
 
-[^3a-1]: Introdotto dal n. I 2 dell’O del 3 apr. 2019 sulla fornitura di dati biometrici e sugli accessi in ambito migratorio al N-SIS ([RU 2019 1257](https://fedlex.data.admin.ch/eli/oc/2019/241)). Nuovo testo giusta il n. I dell’O del 19 ott. 2022, in vigore dal 22 nov. 2022 ([RU 2022 650](https://fedlex.data.admin.ch/eli/oc/2022/650)).
-[^3a-2]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
-[^3a-3]: Nuovo testo del per. giusta l’all. 2 n. II 44 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^3a-1]: Introdotto dalla cifra I n. 2 dell’O del 3 apr. 2019 sulla fornitura di dati biometrici e sugli accessi in ambito migratorio al N-SIS ([RU 2019 1257](https://fedlex.data.admin.ch/eli/oc/2019/241)). Nuovo testo giusta la cifra I dell’O del 19 ott. 2022, in vigore dal 22 nov. 2022 ([RU 2022 650](https://fedlex.data.admin.ch/eli/oc/2022/650)).
+[^3a-2]: [RS 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
+[^3a-3]: Nuovo testo del per. giusta l’all. 2 cifra II n. 44 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 4
 
@@ -104,8 +104,8 @@ Le autorità seguenti possono far confrontare dal servizio incaricato della gest
 
 <sup>2</sup> Il servizio cantonale d’identificazione di cui al capoverso 1 lettera g funge da interlocutore principale di fedpol per tutte le questioni correlate all’applicazione della presente ordinanza da parte dei servizi di polizia del Cantone pertinente.
 
-[^4-1]: Nuovo testo giusta il n. I 2 dell’O del 3 apr. 2019 sulla fornitura di dati biometrici e sugli accessi in ambito migratorio al N-SIS, in vigore dal 6 mag. 2019 ([RU 2019 1257](https://fedlex.data.admin.ch/eli/oc/2019/241)).
-[^4-2]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), con effetto dal 1° gen. 2022 ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
+[^4-1]: Nuovo testo giusta la cifra I n. 2 dell’O del 3 apr. 2019 sulla fornitura di dati biometrici e sugli accessi in ambito migratorio al N-SIS, in vigore dal 6 mag. 2019 ([RU 2019 1257](https://fedlex.data.admin.ch/eli/oc/2019/241)).
+[^4-2]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)), con effetto dal 1° gen. 2022 ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 
 #### Art. 5
 
@@ -115,10 +115,10 @@ Le autorità seguenti possono far confrontare dal servizio incaricato della gest
 
 <sup>2</sup> La persona interessata che intende far valere i propri diritti deve presentare a fedpol una domanda nella forma prevista dall’articolo 16 dell’ordinanza del 31 agosto 2022[^5-3] sulla protezione dei dati (OPDa).[^5-4]
 
-[^5-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
-[^5-2]: Nuovo testo giusta il n. III dell’O dell’11 giu. 2021, in vigore dal 1° lug. 2021 ([RU 2021 368](https://fedlex.data.admin.ch/eli/oc/2021/368)).
-[^5-3]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^5-4]: Nuovo testo giusta l’all. 2 n. II 44 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^5-1]: [RS 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
+[^5-2]: Nuovo testo giusta la cifra III dell’O dell’11 giu. 2021, in vigore dal 1° lug. 2021 ([RU 2021 368](https://fedlex.data.admin.ch/eli/oc/2021/368)).
+[^5-3]: [RS 235.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5994)
+[^5-4]: Nuovo testo giusta l’all. 2 cifra II n. 44 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 6
 
@@ -126,9 +126,9 @@ Le autorità seguenti possono far confrontare dal servizio incaricato della gest
 
 La consegna all’Archivio federale di dati contenuti nei sistemi d’informazione è retta dall’articolo 38 LPD[^6-2] e dalla legge federale del 26 giugno 1998[^6-3] sull’archiviazione.
 
-[^6-1]: Nuovo testo giusta l’all. 2 n. II 44 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
-[^6-2]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
-[^6-3]: [RS 152.1](https://fedlex.data.admin.ch/eli/cc/1999/354)
+[^6-1]: Nuovo testo giusta l’all. 2 cifra II n. 44 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^6-2]: [RS 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
+[^6-3]: [RS 152.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4931)
 
 ## Sezione 2: AFIS
 
@@ -168,12 +168,13 @@ Dopo il confronto sono registrati in AFIS:
   - 2\. persone che non possono fornire informazioni sulla propria identità causa la loro età, un infortunio, una malattia permanente, un’invalidità, una turba psichica o una turba della coscienza;
 
 - c. le tracce e le fotografie di presunti autori di reato sconosciuti;
-- d. le impronte digitali e le fotografie di richiedenti l’asilo rilevate e scattate conformemente alla legislazione sull’asilo;
+- d.[^8-2] le impronte digitali e le immagini del volto di richiedenti l’asilo rilevate e scattate conformemente alla legislazione sull’asilo;
 - e. i dati segnaletici di natura biometrica rilevati a persone conformemente alla legislazione sugli stranieri e alla legislazione doganale.
 
 <sup>2</sup> I dati segnaletici di natura biometrica del SIC non sono registrati in AFIS.
 
-[^8-1]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
+[^8-1]: [RS 312.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6214)
+[^8-2]: Nuovo testo giusta la cifra I dell’O del 20 mag. 2026, in vigore dal 12 giu. 2026 ([RU 2026 269](https://fedlex.data.admin.ch/eli/oc/2026/269)).
 
 #### Art. 9
 
@@ -224,10 +225,10 @@ La sicurezza dei dati è retta da:
 - a.[^14-1] l’OPDa[^14-2];
 - b.[^14-3] l’ordinanza dell’8 novembre 2023[^14-4] sulla sicurezza delle informazioni.
 
-[^14-1]: Nuovo testo giusta l’all. 2 n. II 44 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
-[^14-2]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^14-3]: Nuovo testo giusta l’all. 2 n. II 20 dell’O dell’8 nov. 2023 sulla sicurezza delle informazioni, in vigore dal 1° gen. 2024 ([RU 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
-[^14-4]: [RS 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
+[^14-1]: Nuovo testo giusta l’all. 2 cifra II n. 44 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^14-2]: [RS 235.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5994)
+[^14-3]: Nuovo testo giusta l’all. 2 cifra II n. 20 dell’O dell’8 nov. 2023 sulla sicurezza delle informazioni, in vigore dal 1° gen. 2024 ([RU 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
+[^14-4]: [RS 128.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40166)
 
 ## Sezione 3: Trattamento dei dati in altri sistemi d’informazione
 
@@ -237,7 +238,7 @@ La sicurezza dei dati è retta da:
 
 <sup>2</sup> Il numero di controllo del processo è collegato dal servizio competente della gestione di AFIS agli altri dati personali o inerenti alle tracce contenuti in IPAS o SIMIC.
 
-[^15-1]: Nuovo testo giusta il n. I 2 dell’O del 3 apr. 2019 sulla fornitura di dati biometrici e sugli accessi in ambito migratorio al N-SIS, in vigore dal 6 mag. 2019 ([RU 2019 1257](https://fedlex.data.admin.ch/eli/oc/2019/241)).
+[^15-1]: Nuovo testo giusta la cifra I n. 2 dell’O del 3 apr. 2019 sulla fornitura di dati biometrici e sugli accessi in ambito migratorio al N-SIS, in vigore dal 6 mag. 2019 ([RU 2019 1257](https://fedlex.data.admin.ch/eli/oc/2019/241)).
 
 ## Sezione 4: Comunicazione e trasmissione dei dati
 
@@ -317,7 +318,7 @@ Quando fedpol riceve i dati segnaletici di natura biometrica di una persona nell
 
 [^1921-1]
 
-[^1921-1]: Abrogati dall’all. 10 n. II 15 dell’O del 19 ott. 2022 sul casellario giudiziale, con effetto dal 23 gen. 2023 ([RU 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
+[^1921-1]: Abrogati dall’all. 10 cifra II n. 15 dell’O del 19 ott. 2022 sul casellario giudiziale, con effetto dal 23 gen. 2023 ([RU 2022 698](https://fedlex.data.admin.ch/eli/oc/2022/698)).
 
 #### Art. 22
 
@@ -343,7 +344,7 @@ Le seguenti autorità comunicano al servizio competente per la gestione di AFIS 
 
 <sup>2</sup> In assenza di una tale comunicazione, fedpol cancella i dati segnaletici di natura biometrica 30 anni dopo il rilevamento segnaletico della persona interessata.[^23-2]
 
-[^23-1]: [RS 361.2](https://fedlex.data.admin.ch/eli/cc/2008/700)
+[^23-1]: [RS 361.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6310)
 [^23-2]: Introdotto dall’all. n. 2 dell’O del 16 giu. 2023, in vigore dal 1° ago. 2023 ([RU 2023 325](https://fedlex.data.admin.ch/eli/oc/2023/325)).
 
 #### Art. 23a
@@ -369,7 +370,7 @@ Con l’istituzione responsabile concorda per iscritto:
 
 L’ordinanza del 21 novembre 2001[^24-1] sul trattamento dei dati segnaletici di natura biometrica è abrogata.
 
-[^24-1]: [[RU 2002 171](https://fedlex.data.admin.ch/eli/oc/2002/30); [2004 2577](https://fedlex.data.admin.ch/eli/oc/2004/307), [4813](https://fedlex.data.admin.ch/eli/oc/2004/728)all. n. 11; [2006 957](https://fedlex.data.admin.ch/eli/oc/2006/171), [1945](https://fedlex.data.admin.ch/eli/oc/2006/303)all. 3 n. 7; [2008 4943](https://fedlex.data.admin.ch/eli/oc/2008/694)n. I 13]
+[^24-1]: [[RU 2002 171](https://fedlex.data.admin.ch/eli/oc/2002/30); [2004 2577](https://fedlex.data.admin.ch/eli/oc/2004/307), [4813](https://fedlex.data.admin.ch/eli/oc/2004/728)all. n. 11; [2006 957](https://fedlex.data.admin.ch/eli/oc/2006/171), [1945](https://fedlex.data.admin.ch/eli/oc/2006/303)all. 3 n. 7; [2008 4943](https://fedlex.data.admin.ch/eli/oc/2008/694)cifra I n. 13]
 
 #### Art. 25
 

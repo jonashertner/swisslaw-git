@@ -3,18 +3,18 @@ sr: "361.3"
 title: Ordonnance du 6 décembre 2013 sur le traitement des données signalétiques biométriques
 eli: "https://fedlex.data.admin.ch/eli/cc/2014/23"
 language: fr
-version: 2024-01-01
+version: 2026-06-12
 adopted: 2013-12-06
 in_force: 2014-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/23/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2014-23-20240101-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2014/23/20240101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/23/20260612/fr/xml/fedlex-data-admin-ch-eli-cc-2014-23-20260612-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2014/23/20260612/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance sur le traitement des données signalétiques biométriques
 
-du 6 décembre 2013 (État le 1<sup>er</sup> janvier 2024)
+du 6 décembre 2013 (État le 12 juin 2026)
 
 Le Conseil fédéral suisse,
 
@@ -22,7 +22,7 @@ vu l’art. 354, al. 4, du code pénal[^ingress-1],
 
 arrête:
 
-[^ingress-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^ingress-1]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 ## Section 1 Dispositions générales
 
@@ -30,15 +30,15 @@ arrête:
 
 **Objet et but**
 
-<sup>1</sup> La présente ordonnance règle le traitement des données signalétiques biométriques par l’Office fédéral de la police (fedpol) et le traitement de données signalétiques biométriques par le Secrétariat d’État aux migrations (SEM) dans le cadre de ses tâches relevant du domaine des étrangers.[^1-1]
+<sup>1</sup> La présente ordonnance règle le traitement des données signalétiques biométriques par l’Office fédéral de la police (fedpol) et le traitement de données signalétiques biométriques par le Secrétariat d’État aux migrations (SEM) dans le cadre de ses tâches relevant du domaine des étrangers et de l’asile.[^1-1]
 
 <sup>2</sup> Le traitement des données signalétiques biométriques a pour but de permettre aux autorités fédérales et cantonales d’identifier des personnes vivantes ou décédées, d’identifier les traces relevées sur les lieux d’une infraction et d’établir des liens entre plusieurs infractions.
 
 <sup>3</sup> Pour le reste, sont applicables l’art. 87 de l’ordonnance du 24 octobre 2007 relative à l’admission, au séjour et à l’exercice d’une activité lucrative (OASA)[^1-2] et 226 de l’ordonnance du 1<sup>er</sup> novembre 2006 sur les douanes (OD)[^1-3].
 
-[^1-1]: Nouvelle teneur selon le ch. I de l’O du 19 oct. 2022, en vigueur depuis le 22 nov. 2022 ([RO 2022 650](https://fedlex.data.admin.ch/eli/oc/2022/650)).
-[^1-2]: [RS 142.201](https://fedlex.data.admin.ch/eli/cc/2007/759)
-[^1-3]: [RS 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)
+[^1-1]: Nouvelle teneur selon le ch. I de l’O du 20 mai 2026, en vigueur depuis le 12 juin 2026 ([RO 2026 269](https://fedlex.data.admin.ch/eli/oc/2026/269)).
+[^1-2]: [RS 142.201](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4852)
+[^1-3]: [RS 631.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7813)
 
 #### Art. 2
 
@@ -73,7 +73,7 @@ Les services compétents de fedpol traitent des données signalétiques lorsqu�
 [^3-1]: Nouvelle teneur selon l’annexe 2 ch. II 44 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 [^3-2]: Nouvelle teneur selon l’annexe 2 ch. II 44 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 [^3-3]: Introduite par le ch. III de l’O du 11 juin 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 368](https://fedlex.data.admin.ch/eli/oc/2021/368)).
-[^3-4]: ISO/IEC 17025: 2005 Exigences générales concernant la compétence des laboratoires d’étalonnages et d’essais. La norme peut être consultée gratuitement auprès de fedpol ou obtenue auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour; www.snv.ch.
+[^3-4]: ISO/IEC 17025: 2005 Exigences générales concernant la compétence des laboratoires d’étalonnages et d’essais. La norme peut être consultée gratuitement auprès de fedpol ou obtenue auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour; www.snv.ch .
 
 #### Art. 3a
 
@@ -82,7 +82,7 @@ Les services compétents de fedpol traitent des données signalétiques lorsqu�
 Lors de signalements aux fins de retour ou de non-admission et d’interdiction de séjour, le SEM peut livrer de manière automatisée au N-SIS les empreintes digitales et les images faciales à partir d’AFIS. La personne concernée est informée de l’utilisation de ces données conformément aux art. 19 et 20 de la loi fédérale du 25 septembre 2020 sur la protection des données (LPD)[^3a-2].[^3a-3]
 
 [^3a-1]: Introduit par le ch. I 2 de l’O du 3 avr. 2019 sur la livraison de données biométriques et sur les accès dans le domaine migratoire au N-SIS ([RO 2019 1257](https://fedlex.data.admin.ch/eli/oc/2019/241)). Nouvelle teneur selon le ch. I de l’O du 19 oct. 2022, en vigueur depuis le 22 nov. 2022 ([RO 2022 650](https://fedlex.data.admin.ch/eli/oc/2022/650)).
-[^3a-2]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^3a-2]: [RS 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 [^3a-3]: Nouvelle teneur de la phrase selon l’annexe 2 ch. II 44 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 4
@@ -105,7 +105,7 @@ Les autorités suivantes peuvent faire comparer des données signalétiques biom
 <sup>2</sup> Le service cantonal d’identification selon l’al. 1, let. g, est l’interlocuteur unique de fedpol pour toutes les questions relatives à l’application de la présente ordonnance par les services de police du canton concerné.
 
 [^4-1]: Nouvelle teneur selon le ch. I 2 de l’O du 3 avr. 2019 sur la livraison de données biométriques et sur les accès dans le domaine migratoire au N-SIS, en vigueur depuis le 6 mai 2019 ([RO 2019 1257](https://fedlex.data.admin.ch/eli/oc/2019/241)).
-[^4-2]: La désignation de l’unité administrative a été adaptée en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
+[^4-2]: La désignation de l’unité administrative a été adaptée en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)), avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 
 #### Art. 5
 
@@ -115,9 +115,9 @@ Les autorités suivantes peuvent faire comparer des données signalétiques biom
 
 <sup>2</sup> Si une personne concernée veut faire valoir son droit, elle doit présenter une demande à fedpol dans la forme prévue à l’art. 16 de l’ordonnance du 31 août 2022 sur la protection des données (OPDo)[^5-3].[^5-4]
 
-[^5-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^5-1]: [RS 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 [^5-2]: Nouvelle teneur selon le ch. III de l’O du 11 juin 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 368](https://fedlex.data.admin.ch/eli/oc/2021/368)).
-[^5-3]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^5-3]: [RS 235.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5994)
 [^5-4]: Nouvelle teneur selon l’annexe 2 ch. II 44 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 6
@@ -127,8 +127,8 @@ Les autorités suivantes peuvent faire comparer des données signalétiques biom
 La remise des données du système d’information aux Archives fédérales est régie par l’art. 38 LPD[^6-2] et par la loi fédérale du 26 juin 1998 sur l’archivage[^6-3].
 
 [^6-1]: Nouvelle teneur selon l’annexe 2 ch. II 44 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
-[^6-2]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
-[^6-3]: [RS 152.1](https://fedlex.data.admin.ch/eli/cc/1999/354)
+[^6-2]: [RS 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
+[^6-3]: [RS 152.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4931)
 
 ## Section 2 AFIS
 
@@ -168,12 +168,13 @@ Sont enregistrées dans AFIS après comparaison:
   - 2\. de personnes qui ne peuvent donner d’informations sur leur identité, en raison de leur âge, d’un accident, d’une maladie durable, d’un handicap, d’un trouble psychique ou d’une altération de la conscience;
 
 - c. les traces et les photographies d’auteurs inconnus présumés qui ont été relevées sur les lieux d’une infraction;
-- d. les empreintes digitales et les photographies de requérants d’asile prises conformément à la législation sur l’asile;
+- d.[^8-2] les empreintes digitales et les images faciales de requérants d’asile prises conformément à la législation sur l’asile;
 - e. les données signalétiques biométriques relevées sur des personnes confor-mément à la législation sur les étrangers et sur les douanes.
 
 <sup>2</sup> Les données signalétiques biométriques du SRC ne sont pas enregistrées dans AFIS.
 
-[^8-1]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
+[^8-1]: [RS 312.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6214)
+[^8-2]: Nouvelle teneur selon le ch. I de l’O du 20 mai 2026, en vigueur depuis le 12 juin 2026 ([RO 2026 269](https://fedlex.data.admin.ch/eli/oc/2026/269)).
 
 #### Art. 9
 
@@ -225,9 +226,9 @@ La sécurité des données est garantie par:
 - b.[^14-3] l’ordonnance du 8 novembre 2023 sur la sécurité de l’information[^14-4].
 
 [^14-1]: Nouvelle teneur selon l’annexe 2 ch. II 44 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
-[^14-2]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^14-2]: [RS 235.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5994)
 [^14-3]: Nouvelle teneur selon l’annexe 2 ch. II 20 de l’O du 8 nov. 2023 sur la sécurité de l’information, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
-[^14-4]: [RS 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
+[^14-4]: [RS 128.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40166)
 
 ## Section 3 Traitement des données dans d’autres systèmes d’information
 
@@ -343,7 +344,7 @@ Les autorités suivantes avertissent le service chargé de la gestion d’AFIS l
 
 <sup>2</sup> En l’absence d’une telle communication, fedpol efface les données signalétiques biométriques d’une personne 30 ans après la saisie des données signalétiques de la personne concernée.[^23-2]
 
-[^23-1]: [RS 361.2](https://fedlex.data.admin.ch/eli/cc/2008/700)
+[^23-1]: [RS 361.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6310)
 [^23-2]: Introduit par l’annexe ch. 2 de l’O du 16 juin 2023, en vigueur depuis le 1<sup>er</sup> août 2023 ([RO 2023 325](https://fedlex.data.admin.ch/eli/oc/2023/325)).
 
 #### Art. 23a

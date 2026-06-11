@@ -3,18 +3,18 @@ sr: "361.3"
 title: Verordnung vom 6. Dezember 2013 über die Bearbeitung biometrischer erkennungsdienstlicher Daten
 eli: "https://fedlex.data.admin.ch/eli/cc/2014/23"
 language: de
-version: 2024-01-01
+version: 2026-06-12
 adopted: 2013-12-06
 in_force: 2014-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/23/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2014-23-20240101-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2014/23/20240101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/23/20260612/de/xml/fedlex-data-admin-ch-eli-cc-2014-23-20260612-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2014/23/20260612/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über die Bearbeitung biometrischer erkennungsdienstlicher Daten
 
-vom 6. Dezember 2013 (Stand am 1. Januar 2024)
+vom 6. Dezember 2013 (Stand am 12. Juni 2026)
 
 Der Schweizerische Bundesrat,
 
@@ -22,7 +22,7 @@ gestützt auf Artikel 354 Absatz 4 des Strafgesetzbuches[^ingress-1],
 
 verordnet:
 
-[^ingress-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^ingress-1]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 ## 1. Abschnitt: Allgemeine Bestimmungen
 
@@ -30,15 +30,15 @@ verordnet:
 
 **Gegenstand und Zweck**
 
-<sup>1</sup> Diese Verordnung regelt die Bearbeitung biometrischer erkennungsdienstlicher Daten durch das Bundesamt für Polizei (fedpol) und die Bearbeitung biometrischer erkennungsdienstlicher Daten durch das Staatssekretariat für Migration (SEM) im Rahmen seiner Aufgaben im Ausländerbereich.[^1-1]
+<sup>1</sup> Diese Verordnung regelt die Bearbeitung biometrischer erkennungsdienstlicher Daten durch das Bundesamt für Polizei (fedpol) und die Bearbeitung biometrischer erkennungsdienstlicher Daten durch das Staatssekretariat für Migration (SEM) im Rahmen seiner Aufgaben im Ausländer- und Asylbereich.[^1-1]
 
 <sup>2</sup> Die Bearbeitung dient den Behörden des Bundes und der Kantone zur Identifikation von lebenden und toten Personen, zur Identifikation von Spuren, die an einem Tatort gesichert worden sind, sowie zum Erkennen von Tatzusammenhängen.
 
 <sup>3</sup> Im Übrigen gelten der Artikel 87 der Verordnung vom 24. Oktober 2007[^1-2] über Zulassung, Aufenthalt und Erwerbstätigkeit (VZAE) und der Artikel 226 der Zollverordnung vom 1. November 2006 (ZV)[^1-3].
 
-[^1-1]: Fassung gemäss Ziff. I der V vom 19. Okt. 2022, in Kraft seit 22. Nov. 2022 ([AS 2022 650](https://fedlex.data.admin.ch/eli/oc/2022/650)).
-[^1-2]: [SR 142.201](https://fedlex.data.admin.ch/eli/cc/2007/759)
-[^1-3]: [SR 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)
+[^1-1]: Fassung gemäss Ziff. I der V vom 20. Mai 2026, in Kraft seit 12. Juni 2026 ([AS 2026 269](https://fedlex.data.admin.ch/eli/oc/2026/269)).
+[^1-2]: [SR 142.201](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4852)
+[^1-3]: [SR 631.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7813)
 
 #### Art. 2
 
@@ -71,7 +71,7 @@ Die zuständigen Dienste von fedpol bearbeiten erkennungsdienstliche Daten bei d
 <sup>2</sup> Die zuständigen Dienste nach Absatz 1 müssen gemäss der Norm ISO/IEC 17025[^3-2] akkreditiert sein.
 
 [^3-1]: Eingefügt durch Ziff. III der V vom 11. Juni 2021, in Kraft seit 1. Juli 2021 ([AS 2021 368](https://fedlex.data.admin.ch/eli/oc/2021/368)).
-[^3-2]: ISO/IEC 17025: 2005 Allgemeine Anforderungen an die Kompetenz von Prüf- und Kalibrierlaboratorien. Die Norm kann bei fedpol kostenlos eingesehen oder gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
+[^3-2]: ISO/IEC 17025: 2005 Allgemeine Anforderungen an die Kompetenz von Prüf- und Kalibrierlaboratorien. Die Norm kann bei fedpol kostenlos eingesehen oder gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; [www.snv.ch](http://www.snv.ch).
 
 #### Art. 3a
 
@@ -80,7 +80,7 @@ Die zuständigen Dienste von fedpol bearbeiten erkennungsdienstliche Daten bei d
 Das SEM kann die Fingerabdrücke und Gesichtsbilder bei Ausschreibungen zur Rückkehr oder zur Einreise- und Aufenthaltsverweigerung aus dem AFIS dem N-SIS automatisch liefern. Die betreffende Person wird über die Verwendung dieser Daten informiert in Einklang mit den Artikeln 19 und 20 des Datenschutzgesetzes vom 25. September 2020[^3a-2] (DSG).[^3a-3]
 
 [^3a-1]: Eingefügt durch Ziff. I 2 der V vom 3. April 2019 über die Lieferung von biometrischen Daten an und Zugriffe im Migrationsbereich auf das N-SIS ([AS 2019 1257](https://fedlex.data.admin.ch/eli/oc/2019/241)). Fassung gemäss Ziff. I der V vom 19. Okt. 2022, in Kraft seit 22. Nov. 2022 ([AS 2022 650](https://fedlex.data.admin.ch/eli/oc/2022/650)).
-[^3a-2]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^3a-2]: [SR 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 [^3a-3]: Fassung des zweiten Satzes gemäss Anhang 2 Ziff. II 44 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 4
@@ -103,7 +103,7 @@ Folgende Behörden können beim für die Führung des AFIS zuständigen Dienst b
 <sup>2</sup> Der kantonale Erkennungsdienst nach Absatz 1 Buchstabe g ist gegenüber fedpol der zentrale Ansprechpartner bezüglich aller Fragen im Zusammenhang mit der Anwendung dieser Verordnung durch die polizeilichen Dienste im jeweiligen Kanton.
 
 [^4-1]: Fassung gemäss Ziff. I 2 der V vom 3. April 2019 über die Lieferung von biometrischen Daten an und Zugriffe im Migrationsbereich auf das N-SIS, in Kraft seit 6. Mai 2019 ([AS 2019 1257](https://fedlex.data.admin.ch/eli/oc/2019/241)).
-[^4-2]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) auf den 1. Jan. 2022 angepasst ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
+[^4-2]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)) auf den 1. Jan. 2022 angepasst ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 
 #### Art. 5
 
@@ -113,9 +113,9 @@ Folgende Behörden können beim für die Führung des AFIS zuständigen Dienst b
 
 <sup>2</sup> Macht eine betroffene Person ihr Recht geltend, so muss sie in der Form nach Artikel 16 der Datenschutzverordnung vom 31. August 2022[^5-3] (DSV) ein Gesuch bei fedpol einreichen.[^5-4]
 
-[^5-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^5-1]: [SR 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 [^5-2]: Fassung gemäss Ziff. III der V vom 11. Juni 2021, in Kraft seit 1. Juli 2021 ([AS 2021 368](https://fedlex.data.admin.ch/eli/oc/2021/368)).
-[^5-3]: [SR 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^5-3]: [SR 235.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5994)
 [^5-4]: Fassung gemäss Anhang 2 Ziff. II 44 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 6
@@ -125,8 +125,8 @@ Folgende Behörden können beim für die Führung des AFIS zuständigen Dienst b
 Die Ablieferung von Daten aus dem Informationssystem an das Bundesarchiv richtet sich nach Artikel 38 DSG[^6-2] und nach dem Archivierungsgesetz vom 26. Juni 1998[^6-3].
 
 [^6-1]: Fassung gemäss Anhang 2 Ziff. II 44 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
-[^6-2]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
-[^6-3]: [SR 152.1](https://fedlex.data.admin.ch/eli/cc/1999/354)
+[^6-2]: [SR 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
+[^6-3]: [SR 152.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4931)
 
 ## 2. Abschnitt: AFIS
 
@@ -166,12 +166,13 @@ In das AFIS werden nach erfolgtem Abgleich aufgenommen:
   - 2\. Personen, die wegen ihres Alters, eines Unfalls, dauernder Krankheit, Behinderung, physischer Störung oder Bewusstseinsstörung über ihre Identität nicht Auskunft geben können;
 
 - c. die Spuren und Fotografien von unbekannten mutmasslichen Täterinnen und Tätern;
-- d. die Fingerabdrücke und Fotografien, die gestützt auf die Asylgesetzgebung Asylsuchenden abgenommen oder von ihnen erstellt wurden;
+- d.[^8-2] die Fingerabdrücke und Gesichtsbilder, die gestützt auf die Asylgesetzgebung Asylsuchenden abgenommen oder von ihnen erstellt wurden;
 - e. die biometrischen erkennungsdienstlichen Daten, die Personen gestützt auf die Ausländer- und Zollgesetzgebung abgenommen wurden.
 
 <sup>2</sup> Die biometrischen erkennungsdienstlichen Daten des NDB werden nicht in das AFIS aufgenommen.
 
-[^8-1]: [SR 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
+[^8-1]: [SR 312.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6214)
+[^8-2]: Fassung gemäss Ziff. I der V vom 20. Mai 2026, in Kraft seit 12. Juni 2026 ([AS 2026 269](https://fedlex.data.admin.ch/eli/oc/2026/269)).
 
 #### Art. 9
 
@@ -223,9 +224,9 @@ Die Datensicherheit richtet sich nach:
 - b.[^14-3] der Informationssicherheitsverordnung vom 8. November 2023[^14-4].
 
 [^14-1]: Fassung gemäss Anhang 2 Ziff. II 44 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
-[^14-2]: [SR 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^14-2]: [SR 235.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5994)
 [^14-3]: Fassung gemäss Anhang 2 Ziff. II 20 der Informationssicherheitsverordnung vom 8. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
-[^14-4]: [SR 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
+[^14-4]: [SR 128.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40166)
 
 ## 3. Abschnitt: Datenbearbeitung in anderen Informationssystemen
 
@@ -341,7 +342,7 @@ Die folgenden Behörden melden dem für die Führung von AFIS zuständigen Diens
 
 <sup>2</sup> Ohne entsprechende Meldung löscht fedpol die biometrischen erkennungsdienstlichen Daten 30 Jahre nach der erkennungsdienstlichen Erfassung der betroffenen Person.[^23-2]
 
-[^23-1]: [SR 361.2](https://fedlex.data.admin.ch/eli/cc/2008/700)
+[^23-1]: [SR 361.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6310)
 [^23-2]: Eingefügt durch Anhang Ziff. 2 der V vom 16. Juni 2023, in Kraft seit 1. Aug. 2023 ([AS 2023 325](https://fedlex.data.admin.ch/eli/oc/2023/325)).
 
 #### Art. 23a
