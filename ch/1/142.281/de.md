@@ -4,11 +4,11 @@ title: Verordnung vom 11. August 1999 über den Vollzug der Weg- und Ausweisung 
 short: VVWAL
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/357"
 language: de
-version: 2025-06-15
+version: 2026-06-12
 adopted: 1999-08-11
 in_force: 1999-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/357/20250615/de/xml/fedlex-data-admin-ch-eli-cc-1999-357-20250615-de-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/357/20250615/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/357/20260612/de/xml/fedlex-data-admin-ch-eli-cc-1999-357-20260612-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/357/20260612/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1999/357/20250615/de"
 
 (VVWAL)[^t-2][^t-1]
 
-vom 11. August 1999 (Stand am 15. Juni 2025)
+vom 11. August 1999 (Stand am 12. Juni 2026)
 
 [^t-1]: Fassung gemäss Ziff. I 3 der V vom 1. Febr. 2017 über die Einführung der Landesverweisung, in Kraft seit 1. März 2017 ([AS 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)).
 [^t-2]: Fassung gemäss Ziff. I 3 der V vom 1. Febr. 2017 über die Einführung der Landesverweisung, in Kraft seit 1. März 2017 ([AS 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)).
@@ -28,10 +28,10 @@ gestützt auf Artikel 124 des Ausländer- und Integrationsgesetzes vom 16. Dezem
 
 verordnet:
 
-[^ingress-1]: [SR 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
-[^ingress-2]: Der Titel wurde in Anwendung von Art. 12 Abs. 2 der Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) auf den 1. Jan. 2019 angepasst. Diese Anpassung wurde im ganzen Text vorgenommen.
-[^ingress-3]: [SR 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
-[^ingress-4]: [SR 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^ingress-1]: [SR 142.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4851)
+[^ingress-2]: Der Titel wurde in Anwendung von Art. 12 Abs. 2 der Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)) auf den 1. Jan. 2019 angepasst. Diese Anpassung wurde im ganzen Text vorgenommen.
+[^ingress-3]: [SR 142.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4878)
+[^ingress-4]: [SR 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
 [^ingress-5]: Fassung gemäss Ziff. I der V vom 24. Okt. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 5567](https://fedlex.data.admin.ch/eli/oc/2007/764)).
 
 ## 1. Abschnitt: Vollzugsunterstützung
@@ -51,8 +51,8 @@ verordnet:
 <sup>2</sup> Das SEM kann bei der Erfüllung der Aufgaben nach Artikel 71 Absatz 1 AIG, insbesondere der Aufgaben nach Absatz 1 Buchstaben a und b, mit der Europäischen Agentur für die Grenz- und Küstenwache (Agentur) zusammenarbeiten.
 
 [^1-1]: Fassung gemäss Ziff. I der V vom 29. Juni 2022, in Kraft seit 1. Sept. 2022 ([AS 2022 458](https://fedlex.data.admin.ch/eli/oc/2022/458)).
-[^1-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^1-3]: [SR 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
+[^1-2]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^1-3]: [SR 321.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6242)
 
 #### Art. 2
 
@@ -121,7 +121,7 @@ Das Ausreisegespräch dient insbesondere dazu:
 [^3-1]: Fassung gemäss Ziff. I der V vom 1. März 2006, in Kraft seit 1. April 2006 ([AS 2006 927](https://fedlex.data.admin.ch/eli/oc/2006/164)).
 [^3-2]: Fassung gemäss Ziff. I 3 der V vom 1. Febr. 2017 über die Einführung der Landesverweisung, in Kraft seit 1. März 2017 ([AS 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)).
 [^3-3]: Fassung gemäss Ziff. I der V vom 1. Mai 2024, in Kraft seit 1. April 2025 ([AS 2024 207](https://fedlex.data.admin.ch/eli/oc/2024/207)).
-[^3-4]: [SR 142.314](https://fedlex.data.admin.ch/eli/cc/1999/361)
+[^3-4]: [SR 142.314](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4884)
 [^3-5]: Eingefügt durch Ziff. I der V vom 1. Mai 2024, in Kraft seit 1. April 2025 ([AS 2024 207](https://fedlex.data.admin.ch/eli/oc/2024/207)).
 [^3-6]: Eingefügt durch Ziff. I der V vom 1. Mai 2024, in Kraft seit 1. April 2025 ([AS 2024 207](https://fedlex.data.admin.ch/eli/oc/2024/207)).
 
@@ -247,7 +247,7 @@ Das SEM betreibt einen Flughafendienst (swissREPAT). Dieser erfüllt namentlich 
 - g. Auszahlung von Ausreise- und Reisegeldern sowie Rückkehrhilfebeiträgen des Bundes und der Kantone an den Flughäfen.
 
 [^11-1]: Fassung gemäss Ziff. I der V vom 8. Juni 2018, in Kraft seit 1. März 2019 ([AS 2018 2849](https://fedlex.data.admin.ch/eli/oc/2018/437)).
-[^11-2]: [SR 364.3](https://fedlex.data.admin.ch/eli/cc/2008/760)
+[^11-2]: [SR 364.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6324)
 
 #### Art. 11a
 
@@ -489,7 +489,7 @@ Das SEM kann mit der Agentur Finanzhilfevereinbarungen von beschränkter Tragwei
 <sup>2</sup> Es übermittelt die Informationen über internationale Rückführungseinsätze nach Artikel 7 Absatz 3 der Verordnung vom 29. Juni 2022[^15ebis-2] über die internationale Zusammenarbeit zur Grenzsicherheit (ViZG) an die Agentur.[^15ebis-3]
 
 [^15ebis-1]: Eingefügt durch Ziff. I der V vom 15. Aug. 2018, in Kraft seit 15. Sept. 2018 ([AS 2018 3119](https://fedlex.data.admin.ch/eli/oc/2018/494)).
-[^15ebis-2]: [SR 631.062](https://fedlex.data.admin.ch/eli/cc/2022/461)
+[^15ebis-2]: [SR 631.062](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7824)
 [^15ebis-3]: Fassung gemäss Ziff. I der V vom 29. Juni 2022, in Kraft seit 1. Sept. 2022 ([AS 2022 458](https://fedlex.data.admin.ch/eli/oc/2022/458)).
 
 #### Art. 15e<sup>ter</sup>
@@ -516,9 +516,9 @@ Das SEM kann mit der Agentur Finanzhilfevereinbarungen von beschränkter Tragwei
 [^15eter-2]: Fassung gemäss Ziff. I der V vom 29. Juni 2022, in Kraft seit 1. Sept. 2022 ([AS 2022 458](https://fedlex.data.admin.ch/eli/oc/2022/458)).
 [^15eter-3]: Fassung gemäss Ziff. I der V vom 29. Juni 2022, in Kraft seit 1. Sept. 2022 ([AS 2022 458](https://fedlex.data.admin.ch/eli/oc/2022/458)).
 [^15eter-4]: Eingefügt durch Ziff. I der V vom 29. Juni 2022, in Kraft seit 1. Sept. 2022 ([AS 2022 458](https://fedlex.data.admin.ch/eli/oc/2022/458)).
-[^15eter-5]: [SR 170.32](https://fedlex.data.admin.ch/eli/cc/1958/1413_1483_1489)
+[^15eter-5]: [SR 170.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4971)
 [^15eter-6]: Fassung gemäss Ziff. I der V vom 29. Juni 2022, in Kraft seit 1. Sept. 2022 ([AS 2022 458](https://fedlex.data.admin.ch/eli/oc/2022/458)).
-[^15eter-7]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^15eter-7]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 [^15eter-8]: Eingefügt durch Ziff. I der V vom 29. Juni 2022, in Kraft seit 1. Sept. 2022 ([AS 2022 458](https://fedlex.data.admin.ch/eli/oc/2022/458)).
 
 #### Art. 15e<sup>quater</sup>
@@ -536,7 +536,7 @@ Das ausländische Personal verfügt über die gleichen Zugriffsrechte auf das In
 Für schweizerisches Personal des SEM im Ausland gelten sinngemäss die Bestimmungen des dritten Abschnitts der ViZG[^15equinquies-2].
 
 [^15equinquies-1]: Eingefügt durch Ziff. I der V vom 29. Juni 2022, in Kraft seit 1. Sept. 2022 ([AS 2022 458](https://fedlex.data.admin.ch/eli/oc/2022/458)).
-[^15equinquies-2]: [SR 631.062](https://fedlex.data.admin.ch/eli/cc/2022/461)
+[^15equinquies-2]: [SR 631.062](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7824)
 
 ## 1*b*. Abschnitt: Überwachung von Ausschaffungen auf dem Luftweg
 
@@ -643,7 +643,7 @@ Der Bund gewährt im Rahmen der bewilligten Kredite Beiträge an den Neu-, Aus- 
 
 [^15j-1]: Fassung gemäss Ziff. I 3 der V vom 1. Febr. 2017 über die Einführung der Landesverweisung, in Kraft seit 1. März 2017 ([AS 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)).
 [^15j-2]: Fassung gemäss Ziff. I 3 der V vom 1. Febr. 2017 über die Einführung der Landesverweisung, in Kraft seit 1. März 2017 ([AS 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)).
-[^15j-3]: [SR 341](https://fedlex.data.admin.ch/eli/cc/1986/1934_1934_1934)
+[^15j-3]: [SR 341](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6261)
 
 #### Art. 15k
 
@@ -667,7 +667,7 @@ Der Bund gewährt im Rahmen der bewilligten Kredite Beiträge an den Neu-, Aus- 
 
 <sup>2</sup> Das EJPD bestimmt die Bemessungsgrundsätze und legt eine Platzkostenpauschale «Administrativhaft» fest.
 
-[^15l-1]: [SR 341](https://fedlex.data.admin.ch/eli/cc/1986/1934_1934_1934)
+[^15l-1]: [SR 341](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6261)
 
 #### Art. 15m
 
@@ -675,7 +675,7 @@ Der Bund gewährt im Rahmen der bewilligten Kredite Beiträge an den Neu-, Aus- 
 
 Für die Baubeiträge gelten sinngemäss die Artikel 12 Absatz 2 (Berechnungsmethode), Artikel 13 (anerkannte Baukosten), Artikel 15 (Festlegung der Pauschalen und Zuschläge; Anpassung an Kostenentwicklung und Teuerung), Artikel 19 Absätze 2–4 (Platzkostenpauschale), Artikel 20 (Sicherheitszuschläge) sowie Artikel 20*b* (Zuschläge für Umgebungsarbeiten und die bewegliche Ausstattung bei Neu- und Umbauten) der Verordnung vom 21. November 2007[^15m-1] über die Leistungen des Bundes für den Straf- und Massnahmenvollzug (LSMV).
 
-[^15m-1]: [SR 341.1](https://fedlex.data.admin.ch/eli/cc/2007/862)
+[^15m-1]: [SR 341.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6262)
 
 #### Art. 15n
 
@@ -694,7 +694,7 @@ Das BJ kann den Betrag der Rückforderung ermässigen oder auf eine Rückforderu
 - a. die Zweckänderung nur für eine kurze Dauer besteht;
 - b. die Einrichtung dem Vollzug anderer Haftarten oder der Erfüllung von bundesrechtlichen Vollzugsaufgaben dient.
 
-[^15n-1]: [SR 341](https://fedlex.data.admin.ch/eli/cc/1986/1934_1934_1934)
+[^15n-1]: [SR 341](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6261)
 
 #### Art. 15o
 
@@ -706,7 +706,21 @@ Das BJ kann den Betrag der Rückforderung ermässigen oder auf eine Rückforderu
 
 <sup>2</sup> Im Übrigen richtet sich das Verfahren sinngemäss nach den Artikeln 25–33 LSMV[^15o-1].
 
-[^15o-1]: [SR 341.1](https://fedlex.data.admin.ch/eli/cc/2007/862)
+[^15o-1]: [SR 341.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6262)
+
+## 1*c*<sup>bis</sup>. Abschnitt: Austausch von Informationen über den Gesundheitszustand vor der Überstellung in den zuständigen Dublin-Staat
+
+[^sec1cbis-1]
+
+[^sec1cbis-1]: Eingefügt durch Ziff. I der V vom 20. Mai 2026, in Kraft seit 12. Juni 2026 ([AS 2026 263](https://fedlex.data.admin.ch/eli/oc/2026/263)).
+
+### (Art. 111*a*<sup>bis</sup> AIG)
+
+#### Art. 15o<sup>bis</sup>
+
+Der Austausch von Informationen über den Gesundheitszustand vor der Überstellung in den zuständigen Dublin-Staat und die Speicherung diesbezüglicher Daten richten sich nach den Artikeln 6*b* und 6*c* der Asylverordnung 3 vom 11. August 1999[^15obis-1].
+
+[^15obis-1]: [SR 142.314](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4884)
 
 ## 1*d*. Abschnitt: Beurteilung der Transportfähigkeit
 
@@ -828,7 +842,7 @@ Im Hinblick auf die Feststellung, dass die Rückkehr in einen Heimat- oder Herku
 Die Verteilung auf die Kantone von vorläufig aufgenommenen Personen richtet sich nach den Artikeln 21 und 22 der Asylverordnung 1 vom 11. August 1999[^21-2].
 
 [^21-1]: Fassung gemäss Ziff. I der V vom 1. Mai 2024, in Kraft seit 1. Juni 2024 ([AS 2024 191](https://fedlex.data.admin.ch/eli/oc/2024/191)).
-[^21-2]: [SR 142.311](https://fedlex.data.admin.ch/eli/cc/1999/359)
+[^21-2]: [SR 142.311](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4880)
 
 #### Art. 22 und 23
 
@@ -878,7 +892,7 @@ Als definitive Ausreise nach Artikel 84 Absatz 4 AIG gilt eine Ausreise insbeson
 [^26a-3]: Fassung gemäss Ziff. I 3 der V vom 1. Febr. 2017 über die Einführung der Landesverweisung, in Kraft seit 1. März 2017 ([AS 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)).
 [^26a-4]: Aufgehoben durch Ziff. I der V vom 26. März 2014, mit Wirkung seit 1. Febr. 2014 ([AS 2014 865](https://fedlex.data.admin.ch/eli/oc/2014/183)).
 [^26a-5]: Fassung gemäss Ziff. I der V vom 15. Aug. 2018, in Kraft seit 15. Sept. 2018 ([AS 2018 3119](https://fedlex.data.admin.ch/eli/oc/2018/494)).
-[^26a-6]: [SR 143.5](https://fedlex.data.admin.ch/eli/cc/2012/713)
+[^26a-6]: [SR 143.5](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4913)
 [^26a-7]: Fassung gemäss Ziff. I der V vom 15. Aug. 2018, in Kraft seit 15. Sept. 2018 ([AS 2018 3119](https://fedlex.data.admin.ch/eli/oc/2018/494)).
 
 ## 2*a*. Abschnitt: Wegweisungsverfügung
@@ -922,15 +936,19 @@ Die Wegweisungsverfügung enthält:
 
 <sup>2</sup> Die Schengen-Assoziierungsabkommen sind in Anhang 3[^26c-1] aufgeführt.
 
-[^26c-1]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) auf den 1. April 2020 angepasst.
+[^26c-1]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)) auf den 1. April 2020 angepasst.
 
 #### Art. 26d
 
 **Standardformular**
 
-### (Art. 64*b* AIG)
+### (Art. 64*b* und Art. 64*c*<sup>bis</sup> Abs. 3 AIG)
+
+[^26d-1]
 
 Das SEM stellt den zuständigen Stellen die notwendigen Standardformulare zur Verfügung.
+
+[^26d-1]: Fassung gemäss Ziff. I der V vom 6. Mai 2026, in Kraft seit 12. Juni 2026 ([AS 2026 241](https://fedlex.data.admin.ch/eli/oc/2026/241)).
 
 #### Art. 26e
 
@@ -954,9 +972,11 @@ Das SEM stellt den zuständigen Stellen die notwendigen Standardformulare zur Ve
 
 <sup>1</sup> Lassen mehrere Mitglieder einer Familie, die von der gleichen Verfügung über die Weg- oder Ausweisung oder die Landesverweisung betroffen sind, die Ausreisefrist unbenutzt verstreichen, so kann die Verfügung zeitlich gestaffelt vollzogen werden.
 
-<sup>2</sup> Eine Staffelung nach Absatz 1 setzt voraus, dass sie für alle betroffenen Familienmitglieder zumutbar ist und die Weg oder Ausweisung oder die Landesverweisung in absehbarer Zeit vollzogen werden kann.
+<sup>2</sup> Eine Staffelung nach Absatz 1 setzt voraus, dass sie für alle betroffenen Familienmitglieder zumutbar ist und die Weg- oder Ausweisung oder die Landesverweisung in absehbarer Zeit vollzogen werden kann.[^26f-1]
 
 <sup>3</sup> Die Absätze 1 und 2 gelten für die eingetragenen Partnerschaften sinngemäss.
+
+[^26f-1]: Fassung gemäss Ziff. I der V vom 6. Mai 2026, in Kraft seit 12. Juni 2026 ([AS 2026 241](https://fedlex.data.admin.ch/eli/oc/2026/241)).
 
 ## 2*c*. Abschnitt: Wegweisung bei bestehender Landesverweisung
 
@@ -984,7 +1004,23 @@ Das SEM stellt den zuständigen Stellen die notwendigen Standardformulare zur Ve
 
 <sup>2</sup> Die Ausreisekosten werden nicht übernommen, wenn das Asylgesuch der betreffenden Person nach ihrer Rückkehr in die Schweiz nach Artikel 111*c* Absatz 2 AsylG formlos abgeschrieben worden ist.
 
-[^26h-1]: [SR 142.312](https://fedlex.data.admin.ch/eli/cc/1999/360)
+[^26h-1]: [SR 142.312](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4882)
+
+## 2*d*. Abschnitt: Wegweisung bei gemeinsamen Kontrollen mit anderen Schengen‑Staaten
+
+[^sec2d-1]
+
+[^sec2d-1]: Eingefügt durch Ziff. I der V vom 6. Mai 2026, in Kraft seit 12. Juni 2026 ([AS 2026 241](https://fedlex.data.admin.ch/eli/oc/2026/241)).
+
+#### Art. 26i
+
+**Statistiken**
+
+<sup>1</sup> Das SEM erstellt nach Anhang XII Teil A des Schengener Grenzkodex[^26i-1] Statistiken zum Wegweisungsverfahren nach Artikel 64*c*<sup>bis</sup> AIG und gibt diese der Europäischen Kommission jährlich bekannt.
+
+<sup>2</sup> Die Statistiken dürfen keine Rückschlüsse auf die betroffenen Personen zulassen.
+
+[^26i-1]: Verordnung (EU) 2016/399 des Europäischen Parlaments und des Rates vom 9. März 2016 über einen Gemeinschaftskodex für das Überschreiten der Grenze durch Personen (Schengener Grenzkodex), ABl. L 77 vom 23.3.2016, S. 1; zuletzt geändert durch Verordnung (EU) 2024/1717, ABl. L, 2024/1717, 20.6.2024.
 
 ## 3. Abschnitt: Schlussbestimmungen
 
@@ -1026,7 +1062,7 @@ Diese Verordnung tritt am 1. Oktober 1999 in Kraft.
 
 <sup>2</sup> Der Bund richtet den Kantonen für Personen, deren Nichteintretensentscheid nach den Artikeln 32–34 und deren Wegweisungsentscheid nach dem Artikel 44 des Asylgesetzes vor Inkrafttreten dieser Verordnung rechtskräftig wurde, Vollzugsentschädigungen nach Artikel 15*c* dieser Verordnung aus. Diese pauschale Entschädigung wird nur ausgerichtet, wenn die Wegweisung innert neun Monaten seit Inkrafttreten dieser Verordnung vollzogen worden ist. Keine Vollzugsentschädigung wird ausgerichtet für Personen, für die der Bund den Kantonen im Rahmen der Vollzugsunterstützung nach Artikel 22*a* des Bundesgesetzes vom 26. März 1931[^u1-2] über Aufenthalt und Niederlassung der Ausländer die Abgeltung der Sozialhilfekosten nach Artikel 88 Absatz 1 Buchstabe a des Asylgesetzes zugesichert hat.
 
-[^u1-2]: [BS **1** 121; [AS 1949 221](https://fedlex.data.admin.ch/eli/oc/1949/221_225_225); [1987 1665](https://fedlex.data.admin.ch/eli/oc/1987/1665_1665_1665); [1988 332](https://fedlex.data.admin.ch/eli/oc/1988/332_332_332); [1990 1587](https://fedlex.data.admin.ch/eli/oc/1990/1587_1587_1587)Art. 3 Abs. 2; [1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362)Ziff. II 11, [1034](https://fedlex.data.admin.ch/eli/oc/1991/1034_1034_1034)Ziff. III; [1995 146](https://fedlex.data.admin.ch/eli/oc/1995/146_146_146); [1999 1111](https://fedlex.data.admin.ch/eli/oc/1999/148), [2262](https://fedlex.data.admin.ch/eli/oc/1999/358)Anhang Ziff. 1; [2000 1891](https://fedlex.data.admin.ch/eli/oc/2000/293)Ziff. IV 2; [2002 685](https://fedlex.data.admin.ch/eli/oc/2002/139)Ziff. I 1, [701](https://fedlex.data.admin.ch/eli/oc/2002/140)Ziff. I 1, [3988](https://fedlex.data.admin.ch/eli/oc/2002/639)Anhang Ziff. 3; [2003 4557](https://fedlex.data.admin.ch/eli/oc/2003/674)Anhang Ziff. II 2; [2004 1633](https://fedlex.data.admin.ch/eli/oc/2004/200)Ziff. I 1, [4655](https://fedlex.data.admin.ch/eli/oc/2004/715)Ziff. I 1; [2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782)Anhang Ziff. 2; [2006 979](https://fedlex.data.admin.ch/eli/oc/2006/178)Art. 2 Ziff. 1, [1931](https://fedlex.data.admin.ch/eli/oc/2006/301)Art. 18 Ziff. 1, [2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Anhang Ziff. 3, [3459](https://fedlex.data.admin.ch/eli/oc/2006/549)Anhang Ziff. 1, [4745](https://fedlex.data.admin.ch/eli/oc/2006/727)Anhang Ziff. 1; [2007 359](https://fedlex.data.admin.ch/eli/oc/2007/71)Anhang Ziff. 1. [AS 2007 5437](https://fedlex.data.admin.ch/eli/oc/2007/758)Anhang Ziff. I]. Siehe heute: das Ausländer- und Integrationsgesetz vom 16. Dez. 2005 ([SR 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)).
+[^u1-2]: [BS **1** 121; [AS 1949 221](https://fedlex.data.admin.ch/eli/oc/1949/221_225_225); [1987 1665](https://fedlex.data.admin.ch/eli/oc/1987/1665_1665_1665); [1988 332](https://fedlex.data.admin.ch/eli/oc/1988/332_332_332); [1990 1587](https://fedlex.data.admin.ch/eli/oc/1990/1587_1587_1587)Art. 3 Abs. 2; [1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362)Ziff. II 11, [1034](https://fedlex.data.admin.ch/eli/oc/1991/1034_1034_1034)Ziff. III; [1995 146](https://fedlex.data.admin.ch/eli/oc/1995/146_146_146); [1999 1111](https://fedlex.data.admin.ch/eli/oc/1999/148), [2262](https://fedlex.data.admin.ch/eli/oc/1999/358)Anhang Ziff. 1; [2000 1891](https://fedlex.data.admin.ch/eli/oc/2000/293)Ziff. IV 2; [2002 685](https://fedlex.data.admin.ch/eli/oc/2002/139)Ziff. I 1, [701](https://fedlex.data.admin.ch/eli/oc/2002/140)Ziff. I 1, [3988](https://fedlex.data.admin.ch/eli/oc/2002/639)Anhang Ziff. 3; [2003 4557](https://fedlex.data.admin.ch/eli/oc/2003/674)Anhang Ziff. II 2; [2004 1633](https://fedlex.data.admin.ch/eli/oc/2004/200)Ziff. I 1, [4655](https://fedlex.data.admin.ch/eli/oc/2004/715)Ziff. I 1; [2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782)Anhang Ziff. 2; [2006 979](https://fedlex.data.admin.ch/eli/oc/2006/178)Art. 2 Ziff. 1, [1931](https://fedlex.data.admin.ch/eli/oc/2006/301)Art. 18 Ziff. 1, [2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Anhang Ziff. 3, [3459](https://fedlex.data.admin.ch/eli/oc/2006/549)Anhang Ziff. 1, [4745](https://fedlex.data.admin.ch/eli/oc/2006/727)Anhang Ziff. 1; [2007 359](https://fedlex.data.admin.ch/eli/oc/2007/71)Anhang Ziff. 1. [AS 2007 5437](https://fedlex.data.admin.ch/eli/oc/2007/758)Anhang Ziff. I]. Siehe heute: das Ausländer- und Integrationsgesetz vom 16. Dez. 2005 ([SR 142.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4851)).
 
 ## Schlussbestimmungen zur Änderung vom 1. März 2006
 
@@ -1632,7 +1668,7 @@ Organisationseinheiten
 <tr><td>Dem Ersuchen beigefügte Belege</td><td>B</td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td>B</td><td></td><td>B</td><td>B</td></tr>
 </table>
 
-[^annex1-lvlu1-lvlu2-1]: [SR 142.312](https://fedlex.data.admin.ch/eli/cc/1999/360)
+[^annex1-lvlu1-lvlu2-1]: [SR 142.312](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4882)
 
 Anhang 2[^t-4]
 
@@ -1682,9 +1718,9 @@ Die Schengen-Assoziierungsabkommen umfassen:
 - e. Abkommen vom 28. April 2005[^annex3-lvlu1-5] zwischen der Schweizerischen Eidgenossenschaft und dem Königreich Dänemark über die Umsetzung, Anwendung und Entwicklung derjenigen Teile des Schengen-Besitzstands, die auf Bestimmungen des Titels IV des Vertrags zur Gründung der Europäischen Gemeinschaft basieren;
 - f. Protokoll vom 28. Februar 2008[^annex3-lvlu1-6] zwischen der Schweizerischen Eidgenossenschaft, der Europäischen Union, der Europäischen Gemeinschaft und dem Fürstentum Liechtenstein über den Beitritt des Fürstentums Liechtenstein zu dem Abkommen zwischen der Schweizerischen Eidgenossenschaft, der Europäischen Union und der Europäischen Gemeinschaft über die Assoziierung der Schweizerischen Eidgenossenschaft bei der Umsetzung, Anwendung und Entwicklung des Schengen-Besitzstands.
 
-[^annex3-lvlu1-1]: [SR 0.362.31](https://fedlex.data.admin.ch/eli/cc/2008/113)
-[^annex3-lvlu1-2]: [SR 0.362.1](https://fedlex.data.admin.ch/eli/cc/2008/117)
-[^annex3-lvlu1-3]: [SR 0.362.11](https://fedlex.data.admin.ch/eli/cc/2012/283)
-[^annex3-lvlu1-4]: [SR 0.362.32](https://fedlex.data.admin.ch/eli/cc/2008/116)
-[^annex3-lvlu1-5]: [SR 0.362.33](https://fedlex.data.admin.ch/eli/cc/2008/114)
-[^annex3-lvlu1-6]: [SR 0.362.311](https://fedlex.data.admin.ch/eli/cc/2011/205)
+[^annex3-lvlu1-1]: [SR 0.362.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1513)
+[^annex3-lvlu1-2]: [SR 0.362.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1508)
+[^annex3-lvlu1-3]: [SR 0.362.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1509)
+[^annex3-lvlu1-4]: [SR 0.362.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1519)
+[^annex3-lvlu1-5]: [SR 0.362.33](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1520)
+[^annex3-lvlu1-6]: [SR 0.362.311](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1514)

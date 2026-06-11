@@ -4,11 +4,11 @@ title: "Ordonnance du 11 août 1999 sur l'exécution du renvoi et de l'expulsion
 short: OERE
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/357"
 language: fr
-version: 2025-06-15
+version: 2026-06-12
 adopted: 1999-08-11
 in_force: 1999-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/357/20250615/fr/xml/fedlex-data-admin-ch-eli-cc-1999-357-20250615-fr-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/357/20250615/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/357/20260612/fr/xml/fedlex-data-admin-ch-eli-cc-1999-357-20260612-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/357/20260612/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1999/357/20250615/fr"
 
 (OERE)
 
-du 11 août 1999 (État le 15 juin 2025)
+du 11 août 1999 (État le 12 juin 2026)
 
 Le Conseil fédéral suisse,
 
@@ -25,9 +25,9 @@ vu l’art. 124 de la loi fédérale du 16 décembre 2005 sur les étrangers et 
 
 arrête:
 
-[^ingress-1]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758). Le titre a été adapté au 1<sup>er</sup> janv. 2019 en application de l’art. 12 al. 2 de la LF du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)). Il a été tenu compte de cette mod. dans tout le texte.
-[^ingress-2]: [RS 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
-[^ingress-3]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^ingress-1]: [RS 142.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4851). Le titre a été adapté au 1<sup>er</sup> janv. 2019 en application de l’art. 12 al. 2 de la LF du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)). Il a été tenu compte de cette mod. dans tout le texte.
+[^ingress-2]: [RS 142.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4878)
+[^ingress-3]: [RS 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
 [^ingress-4]: Nouvelle teneur selon le ch. I de l’O du 24 oct. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5567](https://fedlex.data.admin.ch/eli/oc/2007/764)).
 
 ## Section 1 Aide à l’exécution des renvois
@@ -47,8 +47,8 @@ arrête:
 <sup>2</sup> Il peut coopérer avec l’Agence européenne de garde-frontières et de garde-côtes (Agence) dans l’accomplissement de ses tâches au sens de l’art. 71, al. 1, LEI, notamment celles visées à l’al. 1, let. a et b.
 
 [^1-1]: Nouvelle teneur selon le ch. I de l’O du 29 juin 2022, en vigueur depuis le 1<sup>er</sup> sept. 2022 ([RO 2022 458](https://fedlex.data.admin.ch/eli/oc/2022/458)).
-[^1-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^1-3]: [RS 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
+[^1-2]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^1-3]: [RS 321.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6242)
 
 #### Art. 2
 
@@ -117,7 +117,7 @@ L’entretien de départ sert notamment:
 [^3-1]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> mars 2006, en vigueur depuis le 1<sup>er</sup> avr. 2006 ([RO 2006 927](https://fedlex.data.admin.ch/eli/oc/2006/164)).
 [^3-2]: Nouvelle teneur selon le ch. I 3 de l’O du 1<sup>er</sup> fév. 2017 sur la mise en oeuvre de l’expulsion pénale, en vigueur depuis le 1<sup>er</sup> mars 2017 ([RO 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)).
 [^3-3]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> mai 2024, en vigueur depuis le 1<sup>er</sup> avr. 2025 ([RO 2024 207](https://fedlex.data.admin.ch/eli/oc/2024/207)).
-[^3-4]: [RS 142.314](https://fedlex.data.admin.ch/eli/cc/1999/361)
+[^3-4]: [RS 142.314](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4884)
 [^3-5]: Introduit par le ch. I de l’O du 1<sup>er</sup> mai 2024, en vigueur depuis le 1<sup>er</sup> avr. 2025 ([RO 2024 207](https://fedlex.data.admin.ch/eli/oc/2024/207)).
 [^3-6]: Introduit par le ch. I de l’O du 1<sup>er</sup> mai 2024, en vigueur depuis le 1<sup>er</sup> avr. 2025 ([RO 2024 207](https://fedlex.data.admin.ch/eli/oc/2024/207)).
 
@@ -245,7 +245,7 @@ Le SEM gère un service aéroportuaire (swissREPAT). Celui-ci a notamment pour m
 - g. de verser, à l’aéroport, les indemnités de départ et de voyage ainsi que les contributions fédérales et cantonales d’aide au retour.
 
 [^11-1]: Nouvelle teneur selon le ch. I de l’O du 8 juin 2018, en vigueur depuis le 1<sup>er</sup> mars 2019 ([RO 2018 2849](https://fedlex.data.admin.ch/eli/oc/2018/437)).
-[^11-2]: [RS 364.3](https://fedlex.data.admin.ch/eli/cc/2008/760)
+[^11-2]: [RS 364.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6324)
 
 #### Art. 11a
 
@@ -488,7 +488,7 @@ Il peut conclure avec l’Agence des conventions de subvention de portée mineur
 <sup>2</sup> Il transmet à l’Agence des informations sur les interventions internationales en matière de retour conformément à l’art. 7, al. 3, de l’ordonnance du 29 juin 2022 relative à la coopération internationale en matière de sécurité des frontières (OCISF)[^15ebis-2].[^15ebis-3]
 
 [^15ebis-1]: Introduit par le ch. I de l’O du 15 août 2018, en vigueur depuis le 15 sept. 2018 ([RO 2018 3119](https://fedlex.data.admin.ch/eli/oc/2018/494)).
-[^15ebis-2]: [RS 631.062](https://fedlex.data.admin.ch/eli/cc/2022/461)
+[^15ebis-2]: [RS 631.062](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7824)
 [^15ebis-3]: Nouvelle teneur selon le ch. I de l’O du 29 juin 2022, en vigueur depuis le 1<sup>er</sup> sept. 2022 ([RO 2022 458](https://fedlex.data.admin.ch/eli/oc/2022/458)).
 
 #### Art. 15e<sup>ter</sup>
@@ -515,9 +515,9 @@ Il peut conclure avec l’Agence des conventions de subvention de portée mineur
 [^15eter-2]: Nouvelle teneur selon le ch. I de l’O du 29 juin 2022, en vigueur depuis le 1<sup>er</sup> sept. 2022 ([RO 2022 458](https://fedlex.data.admin.ch/eli/oc/2022/458)).
 [^15eter-3]: Nouvelle teneur selon le ch. I de l’O du 29 juin 2022, en vigueur depuis le 1<sup>er</sup> sept. 2022 ([RO 2022 458](https://fedlex.data.admin.ch/eli/oc/2022/458)).
 [^15eter-4]: Introduit par le ch. I de l’O du 29 juin 2022, en vigueur depuis le 1<sup>er</sup> sept. 2022 ([RO 2022 458](https://fedlex.data.admin.ch/eli/oc/2022/458)).
-[^15eter-5]: [RS 170.32](https://fedlex.data.admin.ch/eli/cc/1958/1413_1483_1489)
+[^15eter-5]: [RS 170.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4971)
 [^15eter-6]: Nouvelle teneur selon le ch. I de l’O du 29 juin 2022, en vigueur depuis le 1<sup>er</sup> sept. 2022 ([RO 2022 458](https://fedlex.data.admin.ch/eli/oc/2022/458)).
-[^15eter-7]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^15eter-7]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 [^15eter-8]: Introduit par le ch. I de l’O du 29 juin 2022, en vigueur depuis le 1<sup>er</sup> sept. 2022 ([RO 2022 458](https://fedlex.data.admin.ch/eli/oc/2022/458)).
 
 #### Art. 15e<sup>quater</sup>
@@ -535,7 +535,7 @@ Pour autant que les tâches concernées l’exigent, le personnel étranger disp
 Les dispositions de section 3 de l’OCISF[^15equinquies-2] sont applicables par analogie au personnel suisse du SEM à l’étranger.
 
 [^15equinquies-1]: Introduit par le ch. I de l’O du 29 juin 2022, en vigueur depuis le 1<sup>er</sup> sept. 2022 ([RO 2022 458](https://fedlex.data.admin.ch/eli/oc/2022/458)).
-[^15equinquies-2]: [RS 631.062](https://fedlex.data.admin.ch/eli/cc/2022/461)
+[^15equinquies-2]: [RS 631.062](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7824)
 
 ## Section 1*b* Contrôle du renvoi ou de l’expulsion par voie aérienne
 
@@ -647,7 +647,7 @@ La Confédération subventionne, dans les limites des crédits ouverts, la const
 
 [^15j-1]: Nouvelle teneur selon le ch. I 3 de l’O du 1<sup>er</sup> fév. 2017 sur la mise en oeuvre de l’expulsion pénale, en vigueur depuis le 1<sup>er</sup> mars 2017 ([RO 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)).
 [^15j-2]: Nouvelle teneur selon le ch. I 3 de l’O du 1<sup>er</sup> fév. 2017 sur la mise en oeuvre de l’expulsion pénale, en vigueur depuis le 1<sup>er</sup> mars 2017 ([RO 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)).
-[^15j-3]: [RS 341](https://fedlex.data.admin.ch/eli/cc/1986/1934_1934_1934)
+[^15j-3]: [RS 341](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6261)
 
 #### Art. 15k
 
@@ -671,7 +671,7 @@ La Confédération subventionne, dans les limites des crédits ouverts, la const
 
 <sup>2</sup> Le DFJP fixe les bases de calcul et un forfait par place de détention administrative.
 
-[^15l-1]: [RS 341](https://fedlex.data.admin.ch/eli/cc/1986/1934_1934_1934)
+[^15l-1]: [RS 341](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6261)
 
 #### Art. 15m
 
@@ -679,7 +679,7 @@ La Confédération subventionne, dans les limites des crédits ouverts, la const
 
 S’appliquent par analogie aux subventions de construction les art. 12, al. 2 (Méthode de calcul), 13 (Frais de construction reconnus), 15 (Fixation des forfaits et des suppléments; adaptation à l’évolution des prix et au renchérissement), 19, al. 2 à 4, (Forfait par place), 20 (Suppléments pour la sécurité) et 20*b* (Suppléments pour les aménagements extérieurs et l’équipement mobile en cas de nouvelles constructions et de transformations) de l’ordonnance du 21 novembre 2007 sur les prestations de la Confédération dans le domaine de l’exécution des peines et des mesures (OPPM)[^15m-1].
 
-[^15m-1]: [RS 341.1](https://fedlex.data.admin.ch/eli/cc/2007/862)
+[^15m-1]: [RS 341.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6262)
 
 #### Art. 15n
 
@@ -698,7 +698,7 @@ L’OFJ peut réduire le montant de la restitution ou renoncer à une restitutio
 - a. lorsque le changement d’affectation est de courte durée;
 - b. lorsque l’établissement sert à exécuter d’autres types de détention ou à accomplir des tâches d’exécution relevant du droit fédéral.
 
-[^15n-1]: [RS 341](https://fedlex.data.admin.ch/eli/cc/1986/1934_1934_1934)
+[^15n-1]: [RS 341](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6261)
 
 #### Art. 15o
 
@@ -710,7 +710,21 @@ L’OFJ peut réduire le montant de la restitution ou renoncer à une restitutio
 
 <sup>2</sup> Au surplus, la procédure est régie, par analogie, par les art. 25 à 33 OPPM[^15o-1].
 
-[^15o-1]: [RS 341.1](https://fedlex.data.admin.ch/eli/cc/2007/862)
+[^15o-1]: [RS 341.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6262)
+
+## Section 1*c*<sup>bis</sup> Échange d’informations sur l’état de santé d’une personne avant son transfert vers l’État Dublin responsable
+
+[^sec1cbis-1]
+
+[^sec1cbis-1]: Introduite par le ch. I de l’O du 20 mai 2026, en vigueur depuis le 12 juin 2026 ([RO 2026 263](https://fedlex.data.admin.ch/eli/oc/2026/263)).
+
+### (art. 111*a*<sup>bis</sup> LEI)
+
+#### Art. 15o<sup>bis</sup>
+
+L’échange d’informations sur l’état de santé d’une personne avant son transfert vers l’État Dublin responsable et l’enregistrement des données en question sont régis par les art. 6*b* et 6*c* de l’ordonnance 3 du 11 août 1999 sur l’asile[^15obis-1].
+
+[^15obis-1]: [RS 142.314](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4884)
 
 ## Section 1*d* Évaluation de l’aptitude au transport
 
@@ -832,7 +846,7 @@ Sont pris en considération pour déterminer si le retour dans un État d’orig
 Sont applicables, pour la répartition entre les cantons des personnes admises à titre provisoire, les dispositions prévues aux art. 21 et 22 de l’ordonnance 1 du 11 août 1999 sur l’asile[^21-2].
 
 [^21-1]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> mai 2024, en vigueur depuis le 1<sup>er</sup> juin 2024 ([RO 2024 191](https://fedlex.data.admin.ch/eli/oc/2024/191)).
-[^21-2]: [RS 142.311](https://fedlex.data.admin.ch/eli/cc/1999/359)
+[^21-2]: [RS 142.311](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4880)
 
 #### Art. 22 et 23
 
@@ -882,7 +896,7 @@ Un départ est notamment considéré comme définitif au sens de l’art. 84, al
 [^26a-3]: Nouvelle teneur selon le ch. I 3 de l’O du 1<sup>er</sup> fév. 2017 sur la mise en oeuvre de l’expulsion pénale, en vigueur depuis le 1<sup>er</sup> mars 2017 ([RO 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)).
 [^26a-4]: Abrogée par le ch. I de l’O du 26 mars 2014, avec effet au 1<sup>er</sup> fév. 2014 ([RO 2014 865](https://fedlex.data.admin.ch/eli/oc/2014/183)).
 [^26a-5]: Nouvelle teneur selon le ch. I de l’O du 15 août 2018, en vigueur depuis le 15 sept. 2018 ([RO 2018 3119](https://fedlex.data.admin.ch/eli/oc/2018/494)).
-[^26a-6]: [RS 143.5](https://fedlex.data.admin.ch/eli/cc/2012/713)
+[^26a-6]: [RS 143.5](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4913)
 [^26a-7]: Nouvelle teneur selon le ch. I de l’O du 15 août 2018, en vigueur depuis le 15 sept. 2018 ([RO 2018 3119](https://fedlex.data.admin.ch/eli/oc/2018/494)).
 
 ## Section 2*a* Décision de renvoi
@@ -926,15 +940,19 @@ La décision de renvoi indique:
 
 <sup>2</sup> Les accords d’association à Schengen sont mentionnés à l’annexe 3[^26c-1].
 
-[^26c-1]: Le renvoi a été adapté au 1<sup>er</sup> avril 2020 en application de l’art. 12 al. 2 de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)).
+[^26c-1]: Le renvoi a été adapté au 1<sup>er</sup> avril 2020 en application de l’art. 12 al. 2 de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)).
 
 #### Art. 26d
 
 **Formulaire type**
 
-### (art. 64*b* LEI)
+### (art. 64*b* et art. 64*c*<sup>bis</sup>, al. 3, LEI)
+
+[^26d-1]
 
 Le SEM met les formulaires types nécessaires à la disposition des services compétents.
+
+[^26d-1]: Nouvelle teneur selon le ch. I de l’O du 6 mai 2026, en vigueur depuis le 12 juin 2026 ([RO 2026 241](https://fedlex.data.admin.ch/eli/oc/2026/241)).
 
 #### Art. 26e
 
@@ -988,7 +1006,23 @@ Le SEM met les formulaires types nécessaires à la disposition des services com
 
 <sup>2</sup> Les frais de départ ne sont pas remboursés lorsque la demande d’asile de la personne concernée a été classée sans décision formelle après son retour en Suisse en application de l’art. 111*c*, al. 2, LAsi.
 
-[^26h-1]: [RS 142.312](https://fedlex.data.admin.ch/eli/cc/1999/360)
+[^26h-1]: [RS 142.312](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4882)
+
+## Section 2*d* Renvoi à la suite d’un contrôle conjoint avec un autre État Schengen
+
+[^sec2d-1]
+
+[^sec2d-1]: Introduite par le ch. I de l’O du 6 mai 2026, en vigueur depuis le 12 juin 2026 ([RO 2026 241](https://fedlex.data.admin.ch/eli/oc/2026/241)).
+
+#### Art. 26i
+
+**Statistiques**
+
+<sup>1</sup> Le SEM établit, en vertu de l’annexe XII, partie A, du code frontières Schengen[^26i-1], des statistiques concernant la procédure de renvoi au sens de l’art. 64*c*<sup>bis</sup> LEI et les communique une fois par an à la Commission européenne.
+
+<sup>2</sup> Les statistiques ne doivent en aucun cas permettre de reconstituer des données personnelles par recoupement.
+
+[^26i-1]: Règlement (UE) 2016/399 du Parlement européen et du Conseil du 9 mars 2016 concernant un code de l’Union relatif au régime de franchissement des frontières par les personnes (code frontières Schengen), JO L 77 du 23.3.2016, p. 1; modifié en dernier lieu par le règlement (UE) 2024/1717, JO L, 2024/1717, 20.6.2024.
 
 ## Section 3 Dispositions finales
 
@@ -1030,7 +1064,7 @@ La présente ordonnance entre en vigueur le 1<sup>er</sup> octobre 1999.
 
 <sup>2</sup> Pour les personnes frappées d’une décision de non-entrée en matière en vertu des art. 32 à 34 LAsi, dont la décision de renvoi, prise en vertu de l’art. 44 LAsi, est passée en force avant l’entrée en vigueur de la présente ordonnance, la Confédération verse aux cantons l’indemnité forfaitaire visée à l’art. 15*c* de la présente ordonnance. Celle-ci n’est allouée que si le renvoi a été exécuté dans les neuf mois suivant l’entrée en vigueur de la présente ordonnance. Aucune indemnité n’est versée pour l’exécution du renvoi de personnes pour lesquelles la Confédération s’est engagée, dans le cadre du soutien à l’exécution du renvoi au sens de l’art. 22*a* de la loi fédérale du 26 mars 1931 sur le séjour et l’établissement des étrangers[^u1-2], à rembourser aux cantons les frais d’assistance conformément à l’art. 88, al. 1, let. a, LAsi.
 
-[^u1-2]: [RS **1** 113; [RO 1949 225](https://fedlex.data.admin.ch/eli/oc/1949/221_225_225), [1987 1665](https://fedlex.data.admin.ch/eli/oc/1987/1665_1665_1665), [1988 332](https://fedlex.data.admin.ch/eli/oc/1988/332_332_332), [1990 1587](https://fedlex.data.admin.ch/eli/oc/1990/1587_1587_1587)art. 3 al. 2, [1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362)ch. II 11 [1034](https://fedlex.data.admin.ch/eli/oc/1991/1034_1034_1034)ch. III, [1995 146](https://fedlex.data.admin.ch/eli/oc/1995/146_146_146), [1999 1111](https://fedlex.data.admin.ch/eli/oc/1999/148)[2253](https://fedlex.data.admin.ch/eli/oc/1999/356)[2262](https://fedlex.data.admin.ch/eli/oc/1999/358)annexe ch. 1, [2000 1891](https://fedlex.data.admin.ch/eli/oc/2000/293)ch. IV 2, [2002 685](https://fedlex.data.admin.ch/eli/oc/2002/139)ch. I 1 [701](https://fedlex.data.admin.ch/eli/oc/2002/140)ch. I 1 [3988](https://fedlex.data.admin.ch/eli/oc/2002/639)annexe ch. 3, [2003 4557](https://fedlex.data.admin.ch/eli/oc/2003/674)annexe ch. II 2, [2004 1633](https://fedlex.data.admin.ch/eli/oc/2004/200)ch. I 1 [4655](https://fedlex.data.admin.ch/eli/oc/2004/715)ch. I 1, [2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782)annexe ch. 2, [2006 979](https://fedlex.data.admin.ch/eli/oc/2006/178)art. 2 ch. 1 [1931](https://fedlex.data.admin.ch/eli/oc/2006/301)art. 18 ch. 1 [2197](https://fedlex.data.admin.ch/eli/oc/2006/352)annexe ch. 3 [3459](https://fedlex.data.admin.ch/eli/oc/2006/549)annexe ch. 1 [4745](https://fedlex.data.admin.ch/eli/oc/2006/727)annexe ch. 1, [2007 359](https://fedlex.data.admin.ch/eli/oc/2007/71)annexe ch. 1. [RO 2007 5437](https://fedlex.data.admin.ch/eli/oc/2007/758)annexe ch. I]. Voir actuellement la LF du 16 déc. 2005 sur les étrangers et l’intégration ([RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)).
+[^u1-2]: [[RS 1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4713)113; [RO 1949 225](https://fedlex.data.admin.ch/eli/oc/1949/221_225_225), [1987 1665](https://fedlex.data.admin.ch/eli/oc/1987/1665_1665_1665), [1988 332](https://fedlex.data.admin.ch/eli/oc/1988/332_332_332), [1990 1587](https://fedlex.data.admin.ch/eli/oc/1990/1587_1587_1587)art. 3 al. 2, [1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362)ch. II 11 [1034](https://fedlex.data.admin.ch/eli/oc/1991/1034_1034_1034)ch. III, [1995 146](https://fedlex.data.admin.ch/eli/oc/1995/146_146_146), [1999 1111](https://fedlex.data.admin.ch/eli/oc/1999/148)[2253](https://fedlex.data.admin.ch/eli/oc/1999/356)[2262](https://fedlex.data.admin.ch/eli/oc/1999/358)annexe ch. 1, [2000 1891](https://fedlex.data.admin.ch/eli/oc/2000/293)ch. IV 2, [2002 685](https://fedlex.data.admin.ch/eli/oc/2002/139)ch. I 1 [701](https://fedlex.data.admin.ch/eli/oc/2002/140)ch. I 1 [3988](https://fedlex.data.admin.ch/eli/oc/2002/639)annexe ch. 3, [2003 4557](https://fedlex.data.admin.ch/eli/oc/2003/674)annexe ch. II 2, [2004 1633](https://fedlex.data.admin.ch/eli/oc/2004/200)ch. I 1 [4655](https://fedlex.data.admin.ch/eli/oc/2004/715)ch. I 1, [2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782)annexe ch. 2, [2006 979](https://fedlex.data.admin.ch/eli/oc/2006/178)art. 2 ch. 1 [1931](https://fedlex.data.admin.ch/eli/oc/2006/301)art. 18 ch. 1 [2197](https://fedlex.data.admin.ch/eli/oc/2006/352)annexe ch. 3 [3459](https://fedlex.data.admin.ch/eli/oc/2006/549)annexe ch. 1 [4745](https://fedlex.data.admin.ch/eli/oc/2006/727)annexe ch. 1, [2007 359](https://fedlex.data.admin.ch/eli/oc/2007/71)annexe ch. 1. [RO 2007 5437](https://fedlex.data.admin.ch/eli/oc/2007/758)annexe ch. I]. Voir actuellement la LF du 16 déc. 2005 sur les étrangers et l’intégration ([RS 142.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4851)).
 
 ## Dispositions finales de la modification du 1<sup>er</sup> mars 2006
 
@@ -1636,7 +1670,7 @@ Unités organisationnelles
 <tr><td>Pièces justificatives annexées à la demande</td><td>B</td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td>B</td><td></td><td>B</td><td>B</td></tr>
 </table>
 
-[^annex1-lvlu1-lvlu2-1]: [RS 142.312](https://fedlex.data.admin.ch/eli/cc/1999/360)
+[^annex1-lvlu1-lvlu2-1]: [RS 142.312](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4882)
 
 Annexe 2[^t-2]
 
@@ -1686,9 +1720,9 @@ Les accords d’association à Schengen comprennent les accords suivants:
 - e. Accord du 28 avril 2005 entre la Confédération suisse et le Royaume de Danemark sur la mise en œuvre, l’application et le développement des parties de l’acquis de Schengen basées sur les dispositions du Titre IV du Traité instituant la Communauté européenne[^annex3-lvlu1-5];
 - f. Protocole du 28 février 2008 entre la Confédération suisse, l’Union européenne, la Communauté européenne et la Principauté de Liechtenstein sur l’adhésion de la Principauté de Liechtenstein à l’accord entre la Confédération suisse, l’Union européenne et la Communauté européenne sur l’association de la Confédération suisse à la mise en œuvre, à l’application et au développement de l’acquis de Schengen[^annex3-lvlu1-6].
 
-[^annex3-lvlu1-1]: [RS 0.362.31](https://fedlex.data.admin.ch/eli/cc/2008/113)
-[^annex3-lvlu1-2]: [RS 0.362.1](https://fedlex.data.admin.ch/eli/cc/2008/117)
-[^annex3-lvlu1-3]: [RS 0.362.11](https://fedlex.data.admin.ch/eli/cc/2012/283)
-[^annex3-lvlu1-4]: [RS 0.362.32](https://fedlex.data.admin.ch/eli/cc/2008/116)
-[^annex3-lvlu1-5]: [RS 0.362.33](https://fedlex.data.admin.ch/eli/cc/2008/114)
-[^annex3-lvlu1-6]: [RS 0.362.311](https://fedlex.data.admin.ch/eli/cc/2011/205)
+[^annex3-lvlu1-1]: [RS 0.362.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1513)
+[^annex3-lvlu1-2]: [RS 0.362.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1508)
+[^annex3-lvlu1-3]: [RS 0.362.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1509)
+[^annex3-lvlu1-4]: [RS 0.362.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1519)
+[^annex3-lvlu1-5]: [RS 0.362.33](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1520)
+[^annex3-lvlu1-6]: [RS 0.362.311](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1514)

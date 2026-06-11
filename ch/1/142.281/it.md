@@ -4,11 +4,11 @@ title: "Ordinanza dell' 11 agosto 1999 concernente l'esecuzione dell'allontaname
 short: OEAE
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/357"
 language: it
-version: 2025-06-15
+version: 2026-06-12
 adopted: 1999-08-11
 in_force: 1999-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/357/20250615/it/xml/fedlex-data-admin-ch-eli-cc-1999-357-20250615-it-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/357/20250615/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/357/20260612/it/xml/fedlex-data-admin-ch-eli-cc-1999-357-20260612-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/357/20260612/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1999/357/20250615/it"
 
 (OEAE)
 
-dell’11 agosto 1999 (Stato 15 giugno 2025)
+dell’11 agosto 1999 (Stato 12 giugno 2026)
 
 Il Consiglio federale svizzero,
 
@@ -25,10 +25,10 @@ visto l’articolo 124 della legge federale del 16 dicembre 2005[^ingress-1] sug
 
 ordina:
 
-[^ingress-1]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
-[^ingress-2]: Il titolo è stato adattato in applicazione dell’art. 12 cpv. 2 della LF del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), con effetto dal 1° gen. 2019. Di detta mod. è tenuto conto in tutto il presente testo.
-[^ingress-3]: [RS 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
-[^ingress-4]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^ingress-1]: [RS 142.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4851)
+[^ingress-2]: Il titolo è stato adattato in applicazione dell’art. 12 cpv. 2 della LF del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)), con effetto dal 1° gen. 2019. Di detta mod. è tenuto conto in tutto il presente testo.
+[^ingress-3]: [RS 142.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4878)
+[^ingress-4]: [RS 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
 [^ingress-5]: Nuovo testo giusta la cifra I dell’O del 24 ott. 2007, in vigore dal 1° gen. 2008 ([RU 2007 5567](https://fedlex.data.admin.ch/eli/oc/2007/764)).
 
 ## Sezione 1: Aiuto all’esecuzione
@@ -48,8 +48,8 @@ ordina:
 <sup>2</sup> Nell’adempimento dei propri compiti secondo l’articolo 71 capoverso 1 LStrI, in particolare per quanto riguarda i compiti di cui all’articolo 71 capoverso 1 lettere a e b LStrI, la SEM può collaborare con l’Agenzia europea della guardia di frontiera e costiera (Agenzia).
 
 [^1-1]: Nuovo testo giusta la cifra I dell’O del 29 giu. 2022, in vigore dal 1° set. 2022 ([RU 2022 458](https://fedlex.data.admin.ch/eli/oc/2022/458)).
-[^1-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^1-3]: [RS 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
+[^1-2]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^1-3]: [RS 321.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6242)
 
 #### Art. 2
 
@@ -116,9 +116,9 @@ Il colloquio sulla partenza serve in particolare a:
 <sup>4</sup> La SEM informa il Cantone sull’esito degli accertamenti secondo i capoversi 2 e 3.[^3-6]
 
 [^3-1]: Nuovo testo giusta la cifra I dell’O del 1° mar. 2006, in vigore dal 1° apr. 2006 ([RU 2006 927](https://fedlex.data.admin.ch/eli/oc/2006/164)).
-[^3-2]: Nuovo testo giusta la cifra I 3 dell’O del 1° feb. 2017 sull’attuazione dell’espulsione giudiziaria, in vigore dal 1° mar. 2017 ([RU 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)).
+[^3-2]: Nuovo testo giusta la cifra I n. 3 dell’O del 1° feb. 2017 sull’attuazione dell’espulsione giudiziaria, in vigore dal 1° mar. 2017 ([RU 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)).
 [^3-3]: Nuovo testo giusta la cifra I dell’O del 1° mag. 2024, in vigore dal 1° apr. 2025 ([RU 2024 207](https://fedlex.data.admin.ch/eli/oc/2024/207)).
-[^3-4]: [RS 142.314](https://fedlex.data.admin.ch/eli/cc/1999/361)
+[^3-4]: [RS 142.314](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4884)
 [^3-5]: Introdotto dalla cifra I dell’O del 1° mag. 2024, in vigore dal 1° apr. 2025 ([RU 2024 207](https://fedlex.data.admin.ch/eli/oc/2024/207)).
 [^3-6]: Introdotto dalla cifra I dell’O del 1° mag. 2024, in vigore dal 1° apr. 2025 ([RU 2024 207](https://fedlex.data.admin.ch/eli/oc/2024/207)).
 
@@ -182,7 +182,7 @@ La SEM intrattiene con il DFAE e le organizzazioni internazionali uno scambio pe
 
 [^6-1]: Nuovo testo giusta la cifra I dell’O del 1° mar. 2006, in vigore dal 1° apr. 2006 ([RU 2006 927](https://fedlex.data.admin.ch/eli/oc/2006/164)).
 [^6-2]: Nuovo testo giusta la cifra I dell’O del 24 ott. 2007, in vigore dal 1° gen. 2008 ([RU 2007 5567](https://fedlex.data.admin.ch/eli/oc/2007/764)).
-[^6-3]: Nuovo testo giusta la cifra I 3 dell’O del 1° feb. 2017 sull’attuazione dell’espulsione giudiziaria, in vigore dal 1° mar. 2017 ([RU 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)).
+[^6-3]: Nuovo testo giusta la cifra I n. 3 dell’O del 1° feb. 2017 sull’attuazione dell’espulsione giudiziaria, in vigore dal 1° mar. 2017 ([RU 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)).
 
 #### Art. 7
 
@@ -192,7 +192,7 @@ La SEM intrattiene con il DFAE e le organizzazioni internazionali uno scambio pe
 
 <sup>2</sup> Intrattiene con le competenti autorità cantonali uno scambio permanente di informazioni sulle questioni relative all’esecuzione dell’allontanamento, dell’espulsione e dell’espulsione giudiziaria e organizza segnatamente corsi di perfezionamento professionale e incontri informativi.
 
-[^7-1]: Nuovo testo giusta la cifra I 3 dell’O del 1° feb. 2017 sull’attuazione dell’espulsione giudiziaria, in vigore dal 1° mar. 2017 ([RU 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)).
+[^7-1]: Nuovo testo giusta la cifra I n. 3 dell’O del 1° feb. 2017 sull’attuazione dell’espulsione giudiziaria, in vigore dal 1° mar. 2017 ([RU 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)).
 
 #### Art. 8
 
@@ -200,7 +200,7 @@ La SEM intrattiene con il DFAE e le organizzazioni internazionali uno scambio pe
 
 I Cantoni garantiscono alla SEM l’assistenza amministrativa necessaria, in particolare per l’accompagnamento degli stranieri contro i quali è stata pronunciata una decisione di allontanamento, espulsione o espulsione giudiziaria, alle rappresentanze diplomatiche o consolari dei Paesi di origine o di provenienza, alle interviste concernenti gli accertamenti d’identità e di cittadinanza nonché agli aeroporti.
 
-[^8-1]: Nuovo testo giusta la cifra I 3 dell’O del 1° feb. 2017 sull’attuazione dell’espulsione giudiziaria, in vigore dal 1° mar. 2017 ([RU 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)).
+[^8-1]: Nuovo testo giusta la cifra I n. 3 dell’O del 1° feb. 2017 sull’attuazione dell’espulsione giudiziaria, in vigore dal 1° mar. 2017 ([RU 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)).
 
 #### Art. 9
 
@@ -208,7 +208,7 @@ I Cantoni garantiscono alla SEM l’assistenza amministrativa necessaria, in par
 
 Se per l’esecuzione dell’allontanamento, dell’espulsione o dell’espulsione giudiziaria di uno straniero non è possibile ottenere documenti di viaggio del Paese di origine, la SEM può rilasciare un documento di viaggio sostitutivo, nella misura in cui quest’ultimo consenta il rientro nel Paese di origine o di provenienza rispettivamente in uno Stato terzo.
 
-[^9-1]: Nuovo testo giusta la cifra I 3 dell’O del 1° feb. 2017 sull’attuazione dell’espulsione giudiziaria, in vigore dal 1° mar. 2017 ([RU 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)).
+[^9-1]: Nuovo testo giusta la cifra I n. 3 dell’O del 1° feb. 2017 sull’attuazione dell’espulsione giudiziaria, in vigore dal 1° mar. 2017 ([RU 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)).
 
 #### Art. 10
 
@@ -224,8 +224,8 @@ La SEM sospende l’aiuto all’esecuzione fintantoché:
 
 <sup>2</sup> L’esecuzione non è effettuabile dal profilo tecnico, se nonostante l’adempimento dell’obbligo di collaborare della persona tenuta a partire, il documento di viaggio non è ottenibile o non vi è alcuna possibilità di partenza.
 
-[^10-1]: Nuovo testo giusta la cifra I 3 dell’O del 1° feb. 2017 sull’attuazione dell’espulsione giudiziaria, in vigore dal 1° mar. 2017 ([RU 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)).
-[^10-2]: Nuovo testo giusta la cifra I 3 dell’O del 1° feb. 2017 sull’attuazione dell’espulsione giudiziaria, in vigore dal 1° mar. 2017 ([RU 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)).
+[^10-1]: Nuovo testo giusta la cifra I n. 3 dell’O del 1° feb. 2017 sull’attuazione dell’espulsione giudiziaria, in vigore dal 1° mar. 2017 ([RU 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)).
+[^10-2]: Nuovo testo giusta la cifra I n. 3 dell’O del 1° feb. 2017 sull’attuazione dell’espulsione giudiziaria, in vigore dal 1° mar. 2017 ([RU 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)).
 [^10-3]: Nuovo testo giusta la cifra I dell’O del 1° mar. 2006, in vigore dal 1° apr. 2006 ([RU 2006 927](https://fedlex.data.admin.ch/eli/oc/2006/164)).
 
 #### Art. 11
@@ -243,7 +243,7 @@ La SEM gestisce un servizio aeroportuale (swissREPAT). Esso svolge segnatamente 
 - g. versamento delle spese di partenza e di viaggio nonché dei contributi per l’aiuto al ritorno della Confederazione e del Cantone all’aeroporto.
 
 [^11-1]: Nuovo testo giusta la cifra I dell’O dell’8 giu. 2018, in vigore dal 1° mar. 2019 ([RU 2018 2849](https://fedlex.data.admin.ch/eli/oc/2018/437)).
-[^11-2]: [RS 364.3](https://fedlex.data.admin.ch/eli/cc/2008/760)
+[^11-2]: [RS 364.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6324)
 
 #### Art. 11a
 
@@ -308,7 +308,7 @@ I terzi incaricati di cui all’articolo 109*i* LStrI sono autorizzati a trattar
 
 I Cantoni rimborsano alla SEM le spese di esecuzione e di partenza da essa sostenute per stranieri a loro carico contro i quali è stata pronunciata una decisione di allontanamento, espulsione o espulsione giudiziaria. Queste spese sono conteggiate singolarmente.
 
-[^13-1]: Nuovo testo giusta la cifra I 3 dell’O del 1° feb. 2017 sull’attuazione dell’espulsione giudiziaria, in vigore dal 1° mar. 2017 ([RU 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)).
+[^13-1]: Nuovo testo giusta la cifra I n. 3 dell’O del 1° feb. 2017 sull’attuazione dell’espulsione giudiziaria, in vigore dal 1° mar. 2017 ([RU 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)).
 
 #### Art. 14
 
@@ -350,7 +350,7 @@ Si è in presenza di un numero straordinariamente elevato di passaggi illegali d
 
 <sup>2</sup> In caso di fermo secondo l’articolo 73 capoverso 1 lettera c LStrI può essere corrisposto al Cantone interessato un importo forfettario convenuto contrattualmente di massimo 100 franchi per giorno.
 
-[^15a-1]: Introdotto dalla cifra I dell’O del 1° mag. 2024, in vigore dal 1° giu. 2024 ( [RU 2024 222](https://fedlex.data.admin.ch/eli/oc/2024/222)).
+[^15a-1]: Introdotto dalla cifra I dell’O del 1° mag. 2024, in vigore dal 1° giu. 2024 ([RU 2024 222](https://fedlex.data.admin.ch/eli/oc/2024/222)).
 
 ## Sezione 1*a*: Rilevamento di dati nell’ambito delle misure coercitive
 
@@ -379,7 +379,7 @@ Le autorità cantonali competenti comunicano alla SEM i seguenti dati in merito 
 
 [^15abis-1]: Originario art. 15*a*.
 [^15abis-2]: Introdotto dalla cifra I dell’O dell’8 giu. 2018 ([RU 2018 2849](https://fedlex.data.admin.ch/eli/oc/2018/437)). Abrogato dalla cifra I dell’O del 1° mag. 2024, con effetto dal 1° giu. 2024 ([RU 2024 222](https://fedlex.data.admin.ch/eli/oc/2024/222)).
-[^15abis-3]: Nuovo testo giusta la cifra I 3 dell’O del 1° feb. 2017 sull’attuazione dell’espulsione giudiziaria, in vigore dal 1° mar. 2017 ([RU 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)).
+[^15abis-3]: Nuovo testo giusta la cifra I n. 3 dell’O del 1° feb. 2017 sull’attuazione dell’espulsione giudiziaria, in vigore dal 1° mar. 2017 ([RU 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)).
 [^15abis-4]: Introdotta dalla cifra I dell’O dell’8 giu. 2018, in vigore dal 1° mar. 2019 ([RU 2018 2849](https://fedlex.data.admin.ch/eli/oc/2018/437)).
 [^15abis-5]: Introdotta dalla cifra I dell’O dell’8 giu. 2018, in vigore dal 1° mar. 2019 ([RU 2018 2849](https://fedlex.data.admin.ch/eli/oc/2018/437)).
 [^15abis-6]: Introdotto dalla cifra I dell’O del 7 dic. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6949](https://fedlex.data.admin.ch/eli/oc/2012/841)).
@@ -469,7 +469,7 @@ La SEM può concludere con l’Agenzia convenzioni di sovvenzione di portata lim
 
 <sup>3</sup> La SEM conclude accordi individuali con le organizzazioni di cui all’articolo 71*a*<sup>bis</sup> capoverso 2 LStrI. Gli accordi disciplinano le altre modalità del distaccamento degli osservatori del rimpatrio forzato. Gli articoli 15*g*–15*i* si applicano per analogia.
 
-[^15e-1]: Introdotto dalla cifra I 2 dell’O dell’8 nov. 2006 concernente la modifica di ordinanze nel contesto della messa in vigore parziale delle modifiche del 16 dic. 2005 della L sull’asilo, della L sull’assicurazione malattie e della L sull’assicurazione per la vecchiaia e per i superstiti ([RU 2006 4739](https://fedlex.data.admin.ch/eli/oc/2006/726)). Nuovo testo giusta la cifra I dell’O del 15 ago. 2018, in vigore dal 15 set. 2018 ([RU 2018 3119](https://fedlex.data.admin.ch/eli/oc/2018/494)).
+[^15e-1]: Introdotto dalla cifra I n. 2 dell’O dell’8 nov. 2006 concernente la modifica di ordinanze nel contesto della messa in vigore parziale delle modifiche del 16 dic. 2005 della L sull’asilo, della L sull’assicurazione malattie e della L sull’assicurazione per la vecchiaia e per i superstiti ([RU 2006 4739](https://fedlex.data.admin.ch/eli/oc/2006/726)). Nuovo testo giusta la cifra I dell’O del 15 ago. 2018, in vigore dal 15 set. 2018 ([RU 2018 3119](https://fedlex.data.admin.ch/eli/oc/2018/494)).
 [^15e-2]: Nuovo testo giusta la cifra I dell’O del 29 giu. 2022, in vigore dal 1° set. 2022 ([RU 2022 458](https://fedlex.data.admin.ch/eli/oc/2022/458)).
 [^15e-3]: Cfr. nota a piè di pagina relativa all’art. 15*b*<sup>bis</sup> cpv. 3.
 [^15e-4]: Nuovo testo giusta la cifra I dell’O del 29 giu. 2022, in vigore dal 1° set. 2022 ([RU 2022 458](https://fedlex.data.admin.ch/eli/oc/2022/458)).
@@ -483,7 +483,7 @@ La SEM può concludere con l’Agenzia convenzioni di sovvenzione di portata lim
 <sup>2</sup> La SEM comunica all’Agenzia le informazioni riguardanti gli interventi internazionali di rimpatrio conformemente all’articolo 7 capoverso 3 dell’ordinanza del 29 giugno 2022[^15ebis-2] sulla cooperazione internazionale per la sicurezza dei confini (OCISC).[^15ebis-3]
 
 [^15ebis-1]: Introdotto dalla cifra I dell’O del 15 ago. 2018, in vigore dal 15 set. 2018 ([RU 2018 3119](https://fedlex.data.admin.ch/eli/oc/2018/494)).
-[^15ebis-2]: [RS 631.062](https://fedlex.data.admin.ch/eli/cc/2022/461)
+[^15ebis-2]: [RS 631.062](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7824)
 [^15ebis-3]: Nuovo testo giusta la cifra I dell’O del 29 giu. 2022, in vigore dal 1° set. 2022 ([RU 2022 458](https://fedlex.data.admin.ch/eli/oc/2022/458)).
 
 #### Art. 15e<sup>ter</sup>
@@ -510,9 +510,9 @@ La SEM può concludere con l’Agenzia convenzioni di sovvenzione di portata lim
 [^15eter-2]: Nuovo testo giusta la cifra I dell’O del 29 giu. 2022, in vigore dal 1° set. 2022 ([RU 2022 458](https://fedlex.data.admin.ch/eli/oc/2022/458)).
 [^15eter-3]: Nuovo testo giusta la cifra I dell’O del 29 giu. 2022, in vigore dal 1° set. 2022 ([RU 2022 458](https://fedlex.data.admin.ch/eli/oc/2022/458)).
 [^15eter-4]: Introdotto dalla cifra I dell’O del 29 giu. 2022, in vigore dal 1° set. 2022 ([RU 2022 458](https://fedlex.data.admin.ch/eli/oc/2022/458)).
-[^15eter-5]: [RS 170.32](https://fedlex.data.admin.ch/eli/cc/1958/1413_1483_1489)
+[^15eter-5]: [RS 170.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4971)
 [^15eter-6]: Nuovo testo giusta la cifra I dell’O del 29 giu. 2022, in vigore dal 1° set. 2022 ([RU 2022 458](https://fedlex.data.admin.ch/eli/oc/2022/458)).
-[^15eter-7]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^15eter-7]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 [^15eter-8]: Introdotto dalla cifra I dell’O del 29 giu. 2022, in vigore dal 1° set. 2022 ([RU 2022 458](https://fedlex.data.admin.ch/eli/oc/2022/458)).
 
 #### Art. 15e<sup>quater</sup>
@@ -530,7 +530,7 @@ Il personale estero ha gli stessi diritti d’accesso al sistema d’informazion
 Al personale svizzero della SEM all’estero si applicano per analogia le disposizioni della sezione 3 dell’OCISC[^15equinquies-2].
 
 [^15equinquies-1]: Introdotto dalla cifra I dell’O del 29 giu. 2022, in vigore dal 1° set. 2022 ([RU 2022 458](https://fedlex.data.admin.ch/eli/oc/2022/458)).
-[^15equinquies-2]: [RS 631.062](https://fedlex.data.admin.ch/eli/cc/2022/461)
+[^15equinquies-2]: [RS 631.062](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7824)
 
 ## Sezione 1*b*: Monitoraggio dei rinvii coatti per via aerea
 
@@ -558,7 +558,7 @@ Il monitoraggio del rinvio coatto per via aerea degli stranieri contro i quali �
 <sup>2</sup> Se le persone interessate non possono essere consegnate nello Stato di destinazione, il monitoraggio comprende anche il volo di ritorno in Svizzera, la presa in consegna all’aeroporto e la consegna alle competenti autorità cantonali.
 
 [^15f-1]: Nuovo testo giusta la cifra I dell’O del 15 ago. 2018, in vigore dal 15 set. 2018 ([RU 2018 3119](https://fedlex.data.admin.ch/eli/oc/2018/494)).
-[^15f-2]: Nuovo testo giusta la cifra I 3 dell’O del 1° feb. 2017 sull’attuazione dell’espulsione giudiziaria, in vigore dal 1° mar. 2017 ([RU 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)).
+[^15f-2]: Nuovo testo giusta la cifra I n. 3 dell’O del 1° feb. 2017 sull’attuazione dell’espulsione giudiziaria, in vigore dal 1° mar. 2017 ([RU 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)).
 [^15f-3]: Nuovo testo giusta la cifra I dell’O dell’8 giu. 2018, in vigore dal 1° mar. 2019 ([RU 2018 2849](https://fedlex.data.admin.ch/eli/oc/2018/437)).
 
 #### Art. 15g
@@ -574,7 +574,7 @@ Il monitoraggio del rinvio coatto per via aerea degli stranieri contro i quali �
 <sup>2</sup> La SEM può concludere convenzioni con i terzi incaricati.[^15g-3]
 
 [^15g-1]: Nuovo testo giusta la cifra I dell’O del 15 ago. 2018, in vigore dal 15 set. 2018 ([RU 2018 3119](https://fedlex.data.admin.ch/eli/oc/2018/494)).
-[^15g-2]: Nuovo testo giusta la cifra I 3 dell’O del 1° feb. 2017 sull’attuazione dell’espulsione giudiziaria, in vigore dal 1° mar. 2017 ([RU 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)).
+[^15g-2]: Nuovo testo giusta la cifra I n. 3 dell’O del 1° feb. 2017 sull’attuazione dell’espulsione giudiziaria, in vigore dal 1° mar. 2017 ([RU 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)).
 [^15g-3]: Nuovo testo giusta la cifra I dell’O dell’8 giu. 2018, in vigore dal 1° mar. 2019 ([RU 2018 2849](https://fedlex.data.admin.ch/eli/oc/2018/437)).
 
 #### Art. 15h
@@ -637,9 +637,9 @@ Nei limiti dei crediti stanziati, la Confederazione concede sussidi per la costr
 - e.[^15j-2] i detenuti fruiscono di congrue possibilità di movimento all’interno dello stabilimento carcerario, senza che ciò ostacoli l’esecuzione dell’allontanamento, dell’espulsione o dell’espulsione giudiziaria, il buon funzionamento dello stabilimento o l’osservanza delle prescrizioni di sicurezza;
 - f. sono soddisfatte per analogia le condizioni di cui all’articolo 3 capoverso 1 lettere a–e della legge federale del 5 ottobre 1984[^15j-3] sulle prestazioni della Confederazione nel campo dell’esecuzione delle pene e delle misure (LPPM).
 
-[^15j-1]: Nuovo testo giusta la cifra I 3 dell’O del 1° feb. 2017 sull’attuazione dell’espulsione giudiziaria, in vigore dal 1° mar. 2017 ([RU 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)).
-[^15j-2]: Nuovo testo giusta la cifra I 3 dell’O del 1° feb. 2017 sull’attuazione dell’espulsione giudiziaria, in vigore dal 1° mar. 2017 ([RU 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)).
-[^15j-3]: [RS 341](https://fedlex.data.admin.ch/eli/cc/1986/1934_1934_1934)
+[^15j-1]: Nuovo testo giusta la cifra I n. 3 dell’O del 1° feb. 2017 sull’attuazione dell’espulsione giudiziaria, in vigore dal 1° mar. 2017 ([RU 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)).
+[^15j-2]: Nuovo testo giusta la cifra I n. 3 dell’O del 1° feb. 2017 sull’attuazione dell’espulsione giudiziaria, in vigore dal 1° mar. 2017 ([RU 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)).
+[^15j-3]: [RS 341](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6261)
 
 #### Art. 15k
 
@@ -663,7 +663,7 @@ Nei limiti dei crediti stanziati, la Confederazione concede sussidi per la costr
 
 <sup>2</sup> Il DFGP definisce i principi di calcolo e un sussidio forfettario per singolo posto di «carcerazione amministrativa».
 
-[^15l-1]: [RS 341](https://fedlex.data.admin.ch/eli/cc/1986/1934_1934_1934)
+[^15l-1]: [RS 341](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6261)
 
 #### Art. 15m
 
@@ -671,7 +671,7 @@ Nei limiti dei crediti stanziati, la Confederazione concede sussidi per la costr
 
 Ai sussidi di costruzione si applicano per analogia gli articoli 12 capoverso 2 (metodo di calcolo), 13 (costi di costruzione riconosciuti), 15 (determinazione dei sussidi forfetari e dei supplementi; adeguamento all’evoluzione dei costi e al rincaro), 19 capoversi 2–4 (sussidi forfetari per singolo posto), 20 (supplementi relativi alla sicurezza) e 20*b* (supplementi per lavori di sistemazione esterna e le attrezzature mobili in caso di nuova costruzione e di trasformazione) dell’ordinanza del 21 novembre 2007[^15m-1] sulle prestazioni della Confederazione nel campo dell’esecuzione delle pene e delle misure (OPPM).
 
-[^15m-1]: [RS 341.1](https://fedlex.data.admin.ch/eli/cc/2007/862)
+[^15m-1]: [RS 341.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6262)
 
 #### Art. 15n
 
@@ -690,7 +690,7 @@ L’UFG può ridurre l’importo da restituire o rinunciare alla restituzione se
 - a. il cambiamento di destinazione è di breve durata;
 - b. lo stabilimento viene utilizzato per l’esecuzione di altre tipologie di carcerazione o per l’adempimento di compiti di esecuzione dettati dal diritto federale.
 
-[^15n-1]: [RS 341](https://fedlex.data.admin.ch/eli/cc/1986/1934_1934_1934)
+[^15n-1]: [RS 341](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6261)
 
 #### Art. 15o
 
@@ -702,7 +702,21 @@ L’UFG può ridurre l’importo da restituire o rinunciare alla restituzione se
 
 <sup>2</sup> Per il rimanente, la procedura è retta per analogia dagli articoli 25–33 OPPM[^15o-1].
 
-[^15o-1]: [RS 341.1](https://fedlex.data.admin.ch/eli/cc/2007/862)
+[^15o-1]: [RS 341.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6262)
+
+## Sezione 1*c*<sup>bis</sup>: Scambio d’informazioni sullo stato di salute prima del trasferimento nello Stato Dublino competente
+
+[^sec1cbis-1]
+
+[^sec1cbis-1]: Introdotta dalla cifra I dell’O del 20 mag. 2026, in vigore dal 12 giu. 2026 ([RU 2026 263](https://fedlex.data.admin.ch/eli/oc/2026/263)).
+
+### (art. 111*a*<sup>bis</sup> LStrI)
+
+#### Art. 15o<sup>bis</sup>
+
+Lo scambio d’informazioni sullo stato di salute prima del trasferimento nello Stato Dublino competente e la registrazione dei dati afferenti sono retti dagli articoli 6*b* e 6*c* dell’ordinanza 3 dell’11 agosto 1999[^15obis-1] sull’asilo.
+
+[^15obis-1]: [RS 142.314](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4884)
 
 ## Sezione 1*d*: Valutazione dell’idoneità al trasporto
 
@@ -814,7 +828,7 @@ Per determinare se il ritorno in uno Stato di origine o di provenienza o in una 
 <sup>5</sup> La carta di soggiorno F è ritirata se lo straniero deve lasciare o lascia la Svizzera oppure se le condizioni di residenza sono disciplinate dalla polizia degli stranieri.
 
 [^20-1]: Nuovo testo giusta la cifra I dell’O del 24 ott. 2007, in vigore dal 1° gen. 2008 ([RU 2007 5567](https://fedlex.data.admin.ch/eli/oc/2007/764)).
-[^20-2]: Nuovo testo giusta la cifra I 4 dell’O del 15 ott. 2008 sugli adeguamenti alla legge federale sui sistemi d’informazione di polizia della Confederazione, in vigore dal 5 dic. 2008 ([RU 2008 4943](https://fedlex.data.admin.ch/eli/oc/2008/694)).
+[^20-2]: Nuovo testo giusta la cifra I n. 4 dell’O del 15 ott. 2008 sugli adeguamenti alla legge federale sui sistemi d’informazione di polizia della Confederazione, in vigore dal 5 dic. 2008 ([RU 2008 4943](https://fedlex.data.admin.ch/eli/oc/2008/694)).
 [^20-3]: Abrogato dalla cifra I dell’O del 19 feb. 2020, con effetto dal 1° apr. 2020 ([RU 2020 887](https://fedlex.data.admin.ch/eli/oc/2020/172)).
 
 #### Art. 21
@@ -824,7 +838,7 @@ Per determinare se il ritorno in uno Stato di origine o di provenienza o in una 
 La ripartizione sui Cantoni di persone ammesse provvisoriamente è retta dagli articoli 21 e 22 dell’ordinanza 1 dell’11 agosto 1999[^21-2] sull’asilo.
 
 [^21-1]: Nuovo testo giusta la cifra I dell’O del 1° mag. 2024, in vigore dal 1° giu. 2024 ([RU 2024 191](https://fedlex.data.admin.ch/eli/oc/2024/191)).
-[^21-2]: [RS 142.311](https://fedlex.data.admin.ch/eli/cc/1999/359)
+[^21-2]: [RS 142.311](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4880)
 
 #### Art. 22 e 23
 
@@ -870,11 +884,11 @@ La partenza è considerata definitiva ai sensi dell’articolo 84 capoverso 4 LS
 - f. notifichi la propria partenza e lasci il Paese.
 
 [^26a-1]: Introdotto dalla cifra I dell’O del 24 ott. 2007 ([RU 2007 5567](https://fedlex.data.admin.ch/eli/oc/2007/764)). Nuovo testo giusta l’all. 4 n. 2 dell’O del 14 nov. 2012 concernente il rilascio di documenti di viaggio per stranieri, in vigore dal 1° dic. 2012 ([RU 2012 6049](https://fedlex.data.admin.ch/eli/oc/2012/713)).
-[^26a-2]: Nuovo testo giusta la cifra I 3 dell’O del 1° feb. 2017 sull’attuazione dell’espulsione giudiziaria, in vigore dal 1° mar. 2017 ([RU 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)).
-[^26a-3]: Nuovo testo giusta la cifra I 3 dell’O del 1° feb. 2017 sull’attuazione dell’espulsione giudiziaria, in vigore dal 1° mar. 2017 ([RU 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)).
+[^26a-2]: Nuovo testo giusta la cifra I n. 3 dell’O del 1° feb. 2017 sull’attuazione dell’espulsione giudiziaria, in vigore dal 1° mar. 2017 ([RU 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)).
+[^26a-3]: Nuovo testo giusta la cifra I n. 3 dell’O del 1° feb. 2017 sull’attuazione dell’espulsione giudiziaria, in vigore dal 1° mar. 2017 ([RU 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)).
 [^26a-4]: Abrogata dalla cifra I dell’O del 26 mar. 2014, con effetto dal 1° feb. 2014 ([RU 2014 865](https://fedlex.data.admin.ch/eli/oc/2014/183)).
 [^26a-5]: Nuovo testo giusta la cifra I dell’O del 15 ago. 2018, in vigore dal 15 set. 2018 ([RU 2018 3119](https://fedlex.data.admin.ch/eli/oc/2018/494)).
-[^26a-6]: [RS 143.5](https://fedlex.data.admin.ch/eli/cc/2012/713)
+[^26a-6]: [RS 143.5](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4913)
 [^26a-7]: Nuovo testo giusta la cifra I dell’O del 15 ago. 2018, in vigore dal 15 set. 2018 ([RU 2018 3119](https://fedlex.data.admin.ch/eli/oc/2018/494)).
 
 ## Sezione 2*a*: Decisione di allontanamento
@@ -922,9 +936,13 @@ La decisione di allontanamento contiene:
 
 **Modulo standard**
 
-### (art. 64*b* LStrI)
+### (art. 64*b* e 64*c*<sup>bis</sup> cpv. 3 LStrI)
+
+[^26d-1]
 
 La SEM mette a disposizione dei servizi competenti i necessari moduli standard.
+
+[^26d-1]: Nuovo testo giusta la cifra I dell’O del 6 mag. 2026, in vigore dal 12 giu. 2026 ([RU 2026 241](https://fedlex.data.admin.ch/eli/oc/2026/241)).
 
 #### Art. 26e
 
@@ -978,7 +996,23 @@ La SEM mette a disposizione dei servizi competenti i necessari moduli standard.
 
 <sup>2</sup> Non sono assunte le spese di partenza di persone la cui domanda d’asilo è stata stralciata senza formalità conformemente all’articolo 111*c* capoverso 2 LAsi dopo il loro ritorno in Svizzera.
 
-[^26h-1]: [RS 142.312](https://fedlex.data.admin.ch/eli/cc/1999/360)
+[^26h-1]: [RS 142.312](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4882)
+
+## Sezione 2*d*: Allontanamento a seguito di controlli congiunti con altri Stati Schengen
+
+[^sec2d-1]
+
+[^sec2d-1]: Introdotta dalla cifra I dell’O del 6 mag. 2026, in vigore dal 12 giu. 2026 ([RU 2026 241](https://fedlex.data.admin.ch/eli/oc/2026/241)).
+
+#### Art. 26i
+
+**Statistiche**
+
+<sup>1</sup> Conformemente all’allegato XII parte A del codice frontiere Schengen[^26i-1], la SEM compila statistiche sulla procedura di allontanamento secondo l’articolo 64*c*<sup>bis</sup> LStrI e le rende note su base annuale alla Commissione europea.
+
+<sup>2</sup> Le statistiche non devono consentire di risalire alle persone interessate.
+
+[^26i-1]: Regolamento (UE) 2016/399 del Parlamento europeo e del Consiglio, del 9 marzo 2016, che istituisce un codice comunitario relativo al regime di attraversamento delle frontiere da parte delle persone (codice frontiere Schengen), versione della GU L 77 del 23.3.2016, pag. 1; modificato da ultimo dal regolamento (UE) 2024/1717, GU L, 2024/1717 del 20.6.2024.
 
 ## Sezione 3: Disposizioni finali
 
@@ -1002,7 +1036,7 @@ La SEM stabilisce secondo l’articolo 26 della presente ordinanza il termine di
 
 Le persone che all’entrata in vigore della presente modifica d’ordinanza sono ammesse provvisoriamente da tre o più anni possono presentare immediatamente una domanda di inclusione dei familiari nell’ammissione provvisoria.
 
-[^28a-1]: Introdotto dalla cifra I 2 dell’O dell’8 nov. 2006 concernente la modifica di ordinanze nel contesto della messa in vigore parziale delle modifiche del 16 dic. 2005 della L sull’asilo, della L sull’assicurazione malattie e della L sull’assicurazione per la vecchiaia e per i superstiti, in vigore dal 1° gen. 2007 ([RU 2006 4739](https://fedlex.data.admin.ch/eli/oc/2006/726)).
+[^28a-1]: Introdotto dalla cifra I n. 2 dell’O dell’8 nov. 2006 concernente la modifica di ordinanze nel contesto della messa in vigore parziale delle modifiche del 16 dic. 2005 della L sull’asilo, della L sull’assicurazione malattie e della L sull’assicurazione per la vecchiaia e per i superstiti, in vigore dal 1° gen. 2007 ([RU 2006 4739](https://fedlex.data.admin.ch/eli/oc/2006/726)).
 
 #### Art. 29
 
@@ -1020,7 +1054,7 @@ La presente ordinanza entra in vigore il 1° ottobre 1999.
 
 <sup>2</sup> La Confederazione versa ai Cantoni un’indennità per l’esecuzione dell’allontanamento secondo l’articolo 15*c* della presente ordinanza per persone oggetto di una decisione di non entrata nel merito giusta gli articoli 32–34 e di una decisione di allontanamento ai sensi dell’articolo 44 della legge sull’asilo del 26 giugno 1998 passate in giudicato prima dell’entrata in vigore della presente ordinanza. L’indennità forfetaria è versata soltanto se l’allontanamento è avvenuto entro nove mesi dall’entrata in vigore della presente ordinanza. Non è versata l’indennità per l’esecuzione dell’allontanamento alle persone per le quali la Confederazione ha garantito ai Cantoni il rimborso delle spese d’aiuto sociale secondo l’articolo 88 capoverso 1 lettera a LAsi nell’ambito del sostegno all’esecuzione conformemente all’articolo 22*a* della legge federale del 26 marzo 1931[^u1-2] concernente la dimora e il domicilio degli stranieri.
 
-[^u1-2]: [CS **1** 117; [RU 1949 225](https://fedlex.data.admin.ch/eli/oc/1949/221_225_225); [1987 1665](https://fedlex.data.admin.ch/eli/oc/1987/1665_1665_1665); [1988 332](https://fedlex.data.admin.ch/eli/oc/1988/332_332_332); [1990 1587](https://fedlex.data.admin.ch/eli/oc/1990/1587_1587_1587)art. 3 cpv. 2; [1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362)cifra II 11, [1034](https://fedlex.data.admin.ch/eli/oc/1991/1034_1034_1034)cifra III; [1995 146](https://fedlex.data.admin.ch/eli/oc/1995/146_146_146); [1999 1111](https://fedlex.data.admin.ch/eli/oc/1999/148), [2253](https://fedlex.data.admin.ch/eli/oc/1999/356), [2262](https://fedlex.data.admin.ch/eli/oc/1999/358)all. n. 1; [2000 1891](https://fedlex.data.admin.ch/eli/oc/2000/293)cifra IV 2; [2002 685](https://fedlex.data.admin.ch/eli/oc/2002/139)cifra I 1, [701](https://fedlex.data.admin.ch/eli/oc/2002/140)cifra I 1, [3988](https://fedlex.data.admin.ch/eli/oc/2002/639)all. n. 3; [2003 4557](https://fedlex.data.admin.ch/eli/oc/2003/674)all. cifra II 2; [2004 1633](https://fedlex.data.admin.ch/eli/oc/2004/200)cifra I I 1, [4655](https://fedlex.data.admin.ch/eli/oc/2004/715)cifra I 1; [2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782)all. n. 2; [2006 979](https://fedlex.data.admin.ch/eli/oc/2006/178)art. 2 n. 1, [1931](https://fedlex.data.admin.ch/eli/oc/2006/301)art. 18 n. 1, [2197](https://fedlex.data.admin.ch/eli/oc/2006/352)all. n. 3, [3459](https://fedlex.data.admin.ch/eli/oc/2006/549)all. n. 1, [4745](https://fedlex.data.admin.ch/eli/oc/2006/727)all. n. 1; [2007 359](https://fedlex.data.admin.ch/eli/oc/2007/71)all. n. 1. [RU 2007 5437](https://fedlex.data.admin.ch/eli/oc/2007/758)all. cifra I]. Vedi ora: la LF del 16 dic. 2005 sugli stranieri e la loro integrazione ([RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)).
+[^u1-2]: [CS **1** 117; [RU 1949 225](https://fedlex.data.admin.ch/eli/oc/1949/221_225_225); [1987 1665](https://fedlex.data.admin.ch/eli/oc/1987/1665_1665_1665); [1988 332](https://fedlex.data.admin.ch/eli/oc/1988/332_332_332); [1990 1587](https://fedlex.data.admin.ch/eli/oc/1990/1587_1587_1587)art. 3 cpv. 2; [1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362)cifra II n. 11, [1034](https://fedlex.data.admin.ch/eli/oc/1991/1034_1034_1034)cifra III; [1995 146](https://fedlex.data.admin.ch/eli/oc/1995/146_146_146); [1999 1111](https://fedlex.data.admin.ch/eli/oc/1999/148), [2253](https://fedlex.data.admin.ch/eli/oc/1999/356), [2262](https://fedlex.data.admin.ch/eli/oc/1999/358)all. n. 1; [2000 1891](https://fedlex.data.admin.ch/eli/oc/2000/293)cifra IV n. 2; [2002 685](https://fedlex.data.admin.ch/eli/oc/2002/139)cifra I n. 1, [701](https://fedlex.data.admin.ch/eli/oc/2002/140)cifra I n. 1, [3988](https://fedlex.data.admin.ch/eli/oc/2002/639)all. n. 3; [2003 4557](https://fedlex.data.admin.ch/eli/oc/2003/674)all. cifra II n. 2; [2004 1633](https://fedlex.data.admin.ch/eli/oc/2004/200)cifra I I 1, [4655](https://fedlex.data.admin.ch/eli/oc/2004/715)cifra I n. 1; [2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782)all. n. 2; [2006 979](https://fedlex.data.admin.ch/eli/oc/2006/178)art. 2 n. 1, [1931](https://fedlex.data.admin.ch/eli/oc/2006/301)art. 18 n. 1, [2197](https://fedlex.data.admin.ch/eli/oc/2006/352)all. n. 3, [3459](https://fedlex.data.admin.ch/eli/oc/2006/549)all. n. 1, [4745](https://fedlex.data.admin.ch/eli/oc/2006/727)all. n. 1; [2007 359](https://fedlex.data.admin.ch/eli/oc/2007/71)all. n. 1. [RU 2007 5437](https://fedlex.data.admin.ch/eli/oc/2007/758)all. cifra I]. Vedi ora: la LF del 16 dic. 2005 sugli stranieri e la loro integrazione ([RS 142.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4851)).
 
 ## Disposizioni finali della modifica del 1° marzo 2006
 
@@ -1626,7 +1660,7 @@ Unità organizzative
 <tr><td>Giustificativi allegati alla domanda</td><td>B</td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td>B</td><td>B</td><td>B</td><td>B</td><td></td><td>B</td><td>B</td></tr>
 </table>
 
-[^annex1-lvlu1-lvlu2-1]: [RS 142.312](https://fedlex.data.admin.ch/eli/cc/1999/360)
+[^annex1-lvlu1-lvlu2-1]: [RS 142.312](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4882)
 
 Allegato 2[^t-2]
 
@@ -1676,9 +1710,9 @@ Gli accordi di associazione a Schengen comprendono gli accordi seguenti:
 - e. Accordo del 28 aprile 2005[^annex3-lvlu1-5] tra la Confederazione Svizzera e il Regno di Danimarca sull’attuazione, l’applicazione e lo sviluppo delle parti dell’acquis di Schengen basate sulle disposizioni del titolo IV del Trattato che istituisce la Comunità europea;
 - f. Protocollo del 28 febbraio 2008[^annex3-lvlu1-6] tra la Confederazion e Svizzera, l’Unione europea, la Comunità europea e il Principato del Liechtenstein sull’adesione del Principato del Liechtenstein all’accordo tra la Confederazione Svizzera, l’Unione europea e la Comunità europea, riguardante l’associazione della Confederazione Svizzera all’attuazione, all’applicazione e allo sviluppo dell’acquis di Schengen.
 
-[^annex3-lvlu1-1]: [RS 0.362.31](https://fedlex.data.admin.ch/eli/cc/2008/113)
-[^annex3-lvlu1-2]: [RS 0.362.1](https://fedlex.data.admin.ch/eli/cc/2008/117)
-[^annex3-lvlu1-3]: [RS 0.362.11](https://fedlex.data.admin.ch/eli/cc/2012/283)
-[^annex3-lvlu1-4]: [RS 0.362.32](https://fedlex.data.admin.ch/eli/cc/2008/116)
-[^annex3-lvlu1-5]: [RS 0.362.33](https://fedlex.data.admin.ch/eli/cc/2008/114)
-[^annex3-lvlu1-6]: [RS 0.362.311](https://fedlex.data.admin.ch/eli/cc/2011/205)
+[^annex3-lvlu1-1]: [RS 0.362.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1513)
+[^annex3-lvlu1-2]: [RS 0.362.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1508)
+[^annex3-lvlu1-3]: [RS 0.362.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1509)
+[^annex3-lvlu1-4]: [RS 0.362.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1519)
+[^annex3-lvlu1-5]: [RS 0.362.33](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1520)
+[^annex3-lvlu1-6]: [RS 0.362.311](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1514)
