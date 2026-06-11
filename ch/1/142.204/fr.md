@@ -4,11 +4,11 @@ title: "Ordonnance du 15 août 2018 sur l'entrée et l'octroi de visas (OEV)"
 short: OEV
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/493"
 language: fr
-version: 2026-04-08
+version: 2026-06-12
 adopted: 2018-08-15
 in_force: 2018-09-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/493/20260408/fr/xml/fedlex-data-admin-ch-eli-cc-2018-493-20260408-fr-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/493/20260408/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/493/20260612/fr/xml/fedlex-data-admin-ch-eli-cc-2018-493-20260612-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/493/20260612/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/493/20260408/fr"
 
 (OEV)
 
-du 15 août 2018 (État le 8 avril 2026)
+du 15 août 2018 (État le 12 juin 2026)
 
 Le Conseil fédéral suisse,
 
@@ -33,7 +33,7 @@ arrête:
 
 **Objet et champ d’application**
 
-<sup>1</sup> La présente ordonnance régit l’entrée en Suisse, le transit aéroportuaire et l’octroi de visas aux étrangers.
+<sup>1</sup> La présente ordonnance régit l’entrée en Suisse, le transit aéroportuaire, l’octroi de visas aux étrangers et la procédure de filtrage en cas de séjour illégal ou de franchissement irrégulier des frontières extérieures Schengen.[^1-1]
 
 <sup>2</sup> Elle est applicable dans la mesure où les accords d’association à Schengen (AAS) n’en disposent pas autrement.
 
@@ -41,60 +41,61 @@ arrête:
 
 <sup>4</sup>
 
-L’ordonnance régit également la compétence de conclure des traités internationaux de portée mineure en relation avec les actes suivants de l’UE:[^1-1]
+L’ordonnance régit également la compétence de conclure des traités internationaux de portée mineure en relation avec les actes suivants de l’UE:[^1-2]
 
-- a. règlement (UE) n<sup>o</sup> 514/2014[^1-2];
-- b. règlement (UE) n<sup>o</sup> 515/2014[^1-3];
-- b<sup>bis</sup>.[^1-4] règlement (UE) 2017/2226[^1-5];
-- b<sup>ter</sup>.[^1-6] règlement (UE) 2018/1240[^1-7];
-- c.[^1-8] règlement (CE) n<sup>o</sup> 810/2009 (code des visas)[^1-9];
-- d.[^1-10] règlement (UE) 2019/817[^1-11];
-- e.[^1-12] règlement (UE) 2019/818[^1-13];
-- f.[^1-14] règlement (CE) n<sup>o</sup> 1683/95[^1-15];
-- g.[^1-16] règlement (CE) n° 1030/2002[^1-17];
-- h.[^1-18] règlement (CE) n<sup>o</sup> 767/2008[^1-19];
-- i.[^1-20] règlement (UE) 2021/1148[^1-21];
-- j.[^1-22] règlement (UE) 2021/1060[^1-23];
-- k.[^1-24] décision n<sup>o</sup> 1105/2011/UE[^1-25];
-- l.[^1-26] règlement (CE) n<sup>o</sup> 694/2003[^1-27];
-- m.[^1-28] règlement (UE) 2016/399[^1-29];
-- n.[^1-30] règlement (UE) 2024/1356[^1-31];
-- o.[^1-32] règlement (UE) 2025/12[^1-33].[^1-34]
+- a. règlement (UE) n<sup>o</sup> 514/2014[^1-3];
+- b. règlement (UE) n<sup>o</sup> 515/2014[^1-4];
+- b<sup>bis</sup>.[^1-5] règlement (UE) 2017/2226[^1-6];
+- b<sup>ter</sup>.[^1-7] règlement (UE) 2018/1240[^1-8];
+- c.[^1-9] règlement (CE) n<sup>o</sup> 810/2009 (code des visas)[^1-10];
+- d.[^1-11] règlement (UE) 2019/817[^1-12];
+- e.[^1-13] règlement (UE) 2019/818[^1-14];
+- f.[^1-15] règlement (CE) n<sup>o</sup> 1683/95[^1-16];
+- g.[^1-17] règlement (CE) n° 1030/2002[^1-18];
+- h.[^1-19] règlement (CE) n<sup>o</sup> 767/2008[^1-20];
+- i.[^1-21] règlement (UE) 2021/1148[^1-22];
+- j.[^1-23] règlement (UE) 2021/1060[^1-24];
+- k.[^1-25] décision n<sup>o</sup> 1105/2011/UE[^1-26];
+- l.[^1-27] règlement (CE) n<sup>o</sup> 694/2003[^1-28];
+- m.[^1-29] règlement (UE) 2016/399[^1-30];
+- n.[^1-31] règlement (UE) 2024/1356[^1-32];
+- o.[^1-33] règlement (UE) 2025/12[^1-34].[^1-35]
 
-[^1-1]: Nouvelle teneur selon le ch. I de l’O du 15 sept. 2023, en vigueur depuis le 15 oct. 2023 ([RO 2023 549](https://fedlex.data.admin.ch/eli/oc/2023/549)).
-[^1-2]: Règlement (UE) n<sup>o</sup> 514/2014 du Parlement européen et du Conseil du 16 avril 2014 portant dispositions générales applicables au Fonds «Asile, migration et intégration» et à l’instrument de soutien financier à la coopération policière, à la prévention et à la répression de la criminalité, ainsi qu’à la gestion des crises, version du JO L 150 du 20.5.2014, p. 112.
-[^1-3]: Règlement (UE) n<sup>o</sup> 515/2014 du Parlement européen et du Conseil du 16 avril 2014 portant création, dans le cadre du Fonds pour la sécurité intérieure, de l’instrument de soutien financier dans le domaine des frontières extérieures et des visas et abrogeant la décision n<sup>o</sup> 574/2007/CE, version du JO L 150 du 20.5.2014, p. 143.
-[^1-4]: Introduite par le ch. I de l’O du 11 août 2021 ([RO 2021 503](https://fedlex.data.admin.ch/eli/oc/2021/503)). Nouvelle teneur selon le ch. I de l’O du 17 déc. 2021, en vigueur depuis le 15 janv. 2022 ([RO 2021 913](https://fedlex.data.admin.ch/eli/oc/2021/913)).
-[^1-5]: Règlement (UE) 2017/2226 du Parlement européen et du Conseil du 30 novembre 2017 portant création d’un système d’entrée/de sortie (EES) pour enregistrer les données relatives aux entrées, aux sorties et aux refus d’entrée concernant les ressortissants de pays tiers qui franchissent les frontières extérieures des États membres et portant détermination des conditions d’accès à l’EES à des fins répressives, et modifiant la convention d’application de l’accord de Schengen et les règlements (CE) n<sup>o</sup> 767/2008 et (UE) n<sup>o</sup> 1077/2011, JO L 327 du 9.12.2017, p. 20; modifié en dernier lieu par le règlement (UE) 2021/1134, JO L 248 du 13.7.2021, p. 11.
-[^1-6]: Introduite par le ch. I de l’O du 11 août 2021, en vigueur depuis le 15 sept. 2021 ([RO 2021 503](https://fedlex.data.admin.ch/eli/oc/2021/503)).
-[^1-7]: Règlement (UE) 2018/1240 du Parlement européen et du Conseil du 12 septembre 2018 portant création d’un système européen d’information et d’autorisation concernant les voyages (ETIAS) et modifiant les règlements (UE) n<sup>o</sup> 1077/2011, (UE) n<sup>o</sup> 515/2014, (UE) 2016/399, (UE) 2016/1624 et (UE) 2017/2226, version du JO L 236 du 19.9.2018, p. 1; modifié en dernier lieu par le règlement (UE) 2021/1152, JO L 249 du 14.7.2021, p. 15.
-[^1-8]: Nouvelle teneur selon le ch. II 1 de l’O du 7 juin 2024, en vigueur depuis le 11 juin 2024 ([RO 2024 258](https://fedlex.data.admin.ch/eli/oc/2024/258)).
-[^1-9]: Règlement (CE) n<sup>o</sup> 810/2009 du Parlement européen et du Conseil du 13 juillet 2009 établissant un code communautaire des visas (code des visas), JO L 243 du 15.9.2009, p. 1; modifié en dernier lieu par le règlement (UE) 2024/1415, JO L, 2024/1415, 22.05.2024.
-[^1-10]: Introduite par le ch. I de l’O du 13 mai 2020, en vigueur depuis le 15 juin 2020 ([RO 2020 1837](https://fedlex.data.admin.ch/eli/oc/2020/372)). Nouvelle teneur selon le ch. I de l’O du 11 août 2021, en vigueur depuis le 15 sept. 2021 ([RO 2021 503](https://fedlex.data.admin.ch/eli/oc/2021/503)).
-[^1-11]: Règlement (UE) 2019/817 du Parlement européen et du Conseil du 20 mai 2019 portant établissement d’un cadre pour l’interopérabilité des systèmes d’information de l’UE dans le domaine des frontières et des visas et modifiant les règlements (CE) n<sup>o</sup> 767/2008, (UE) 2016/399, (UE) 2017/2226, (UE) 2018/240, (UE) 2018/1726 et (UE) 2018/1861 du Parlement européen et du Conseil et les décisions 2004/512/CE et 2008/633/JAI du Conseil, JO L 135 du 22.5.2019, p. 27; modifié en dernier lieu par le règlement (UE) 2021/1152, JO L 249 du 14.7.2021, p. 15.
-[^1-12]: Introduite par le ch. I de l’O du 13 mai 2020, en vigueur depuis le 15 juin 2020 ([RO 2020 1837](https://fedlex.data.admin.ch/eli/oc/2020/372)).Nouvelle teneur selon le ch. I de l’O du 11 août 2021, en vigueur depuis le 15 sept. 2021 ([RO 2021 503](https://fedlex.data.admin.ch/eli/oc/2021/503)).
-[^1-13]: Règlement (UE) 2019/818 du Parlement européen et du Conseil du 20 mai 2019 portant établissement d’un cadre pour l’interopérabilité des systèmes d’information de l’UE dans le domaine de la coopération policière et judiciaire, de l’asile et de l’immigration et modifiant les règlements (UE) 2018/1726, (UE) 2018/1862 et (UE) 2019/816, JO L 135 du 22.5.2019, p. 85; modifié en dernier lieu par le règlement (UE) 2021/1150, JO L 249 du 14.7.2021, p. 1.
-[^1-14]: Introduite par le ch. I de l’O du 13 mai 2020 ([RO 2020 1837](https://fedlex.data.admin.ch/eli/oc/2020/372)). Nouvelle teneur selon le ch. I de l’O du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 808](https://fedlex.data.admin.ch/eli/oc/2023/808)).
-[^1-15]: Règlement (CE) n<sup>o</sup> 1683/95 du Conseil du 29 mai 1995, établissant un modèle type de visa, JO L 164 du 14.7.1995, p. 1; modifié en dernier lieu par le règlement (UE) 2023/2685, JO L, 2023/2685, 7.12.2023.
-[^1-16]: Introduite par le ch. I de l’O du 13 mai 2020, en vigueur depuis le 15 juin 2020 ([RO 2020 1837](https://fedlex.data.admin.ch/eli/oc/2020/372)).
-[^1-17]: Règlement (CE) n° 1030/2002 du Conseil du 13 juin 2002 établissant un modèle uniforme de titre de séjour pour les ressortissants de pays tiers, JO L 157 du 15.6.2002, p. 1; modifié en dernier lieu par le règlement (UE) 2017/1954, JO L 286 du 1.11.2017, p. 9.
-[^1-18]: Introduite par le ch. I de l’O du 17 déc. 2021 ([RO 2021 913](https://fedlex.data.admin.ch/eli/oc/2021/913)). Nouvelle teneur selon le ch. I de l’O du 10 avr. 2024, en vigueur depuis le 15 mai 2024 ([RO 2024 168](https://fedlex.data.admin.ch/eli/oc/2024/168)).
-[^1-19]: Règlement (CE) n<sup>o</sup> 767/2008 du Parlement européen et du Conseil du 9 juillet 2008 concernant le système d’information sur les visas (VIS) et l’échange de données entre les États membres sur les visas de court séjour (règlement VIS), JO L 218 du 13.8.2008, p. 60; modifié en dernier lieu par le règlement (UE) 2023/2667, JO L, 2023/2667, 7.12.2023.
-[^1-20]: Introduite par le ch. I de l’O du 17 déc. 2021, en vigueur depuis le 15 janv. 2022 ([RO 2021 913](https://fedlex.data.admin.ch/eli/oc/2021/913)).
-[^1-21]: Règlement (UE) 2021/1148 du Parlement européen et du Conseil du 7 juillet 2021 établissant, dans le cadre du Fonds pour la gestion intégrée des frontières, l’instrument de soutien financier à la gestion des frontières et à la politique des visas, JO L 251, du 15.7.2021, p. 48.
-[^1-22]: Introduite par le ch. I de l’O du 17 déc. 2021, en vigueur depuis le 15 janv. 2022 ([RO 2021 913](https://fedlex.data.admin.ch/eli/oc/2021/913)).
-[^1-23]: Règlement (UE) 2021/1060 du Parlement européen et du Conseil du 24 juin 2021 portant dispositions communes relatives au Fonds européen de développement régional, au Fonds social européen plus, au Fonds de cohésion, au Fonds pour une transition juste et au Fonds européen pour les affaires maritimes, la pêche et l’aquaculture, et établissant les règles financières applicables à ces Fonds et au Fonds «Asile, migration et intégration», au Fonds pour la sécurité intérieure et à l’instrument de soutien financier à la gestion des frontières et à la politique des visas, JO L 231 du 30.6.2021, p. 159.
-[^1-24]: Introduite par le ch. I de l’O du 15 sept. 2023, en vigueur depuis le 15 oct. 2023 ([RO 2023 549](https://fedlex.data.admin.ch/eli/oc/2023/549)).
-[^1-25]: Décision n<sup>o</sup> 1105/2011/UE du Parlement européen et du Conseil du 25 octobre 2011 relative à la liste des documents de voyage permettant à leur titulaire le franchissement des frontières extérieures et susceptibles d’être revêtus d’un visa, et relative à l’instauration d’un dispositif pour établir cette liste, version du JO L 287 du 4.11.2011, p. 9.
-[^1-26]: Introduite par le ch. I de l’O du 10 avr. 2024, en vigueur depuis le 15 mai 2024 ([RO 2024 168](https://fedlex.data.admin.ch/eli/oc/2024/168)).
-[^1-27]: Règlement (CE) n<sup>o</sup> 694/2003 du Conseil du 14 avril 2003 établissant des modèles uniformes pour le document facilitant le transit (DFT) et le document facilitant le transit ferroviaire (DFTF) prévus par le règlement (CE) n<sup>o</sup> 693/2003, JO L 99 du 17 avril 2003, p. 15; modifié en dernier lieu par le règlement (UE) 2023/2667, JO L, 2023/2667, 7.12.2023.
-[^1-28]: Introduite par le ch. I de l’O du 26 juin 2024, en vigueur depuis le 1<sup>er</sup> août 2024 ([RO 2024 345](https://fedlex.data.admin.ch/eli/oc/2024/345)).
-[^1-29]: Règlement (UE) 2016/399 du Parlement européen et du Conseil du 9 mars 2016 concernant un code de l’Union relatif au régime de franchissement des frontières par les personnes (code frontières Schengen), JO L 77 du 23.3.2016, p. 1; modifié en dernier lieu par le règlement (UE) 2024/1717, JO L, 2024/1717, 20.06.2024.
-[^1-30]: Introduite par le ch. I de l’O du 26 fév. 2025, en vigueur depuis le 1<sup>er</sup> avr. 2025 ([RO 2025 163](https://fedlex.data.admin.ch/eli/oc/2025/163)).
-[^1-31]: Règlement (UE) 2024/1356 du Parlement européen et du Conseil du 14 mai 2024 établissant le filtrage des ressortissants de pays tiers aux frontières extérieures et modifiant les règlements (CE) n<sup>o</sup> 767/2008, (UE) 2017/2226, (UE) 2018/1240 et (UE) 2019/817, version du JO L, 2024/1356, 22.5.2024.
-[^1-32]: Introduite par le ch. I de l’O du 20 juin 2025, en vigueur depuis le 1<sup>er</sup> août 2025 ([RO 2025 431](https://fedlex.data.admin.ch/eli/oc/2025/431)).
-[^1-33]: Règlement (UE) 2025/12 du Parlement européen et du Conseil du 19 décembre 2024 relatif à la collecte et au transfert des informations préalables sur les passagers en vue de renforcer et de faciliter les vérifications aux frontières extérieures, modifiant les règlements (UE) 2018/1726 et (UE) 2019/817, et abrogeant la directive 2004/82/CE du Conseil, version du JO L, 2025/12, 8.1.2025.
-[^1-34]: Nouvelle teneur selon le ch. I de l’O du 14 août 2019, en vigueur depuis le 2 fév. 2020 ([RO 2019 2633](https://fedlex.data.admin.ch/eli/oc/2019/491)).
+[^1-1]: Nouvelle teneur selon le ch. I de l’O du 20 mai 2026, en vigueur depuis le 12 juin 2026 ([RO 2026 261](https://fedlex.data.admin.ch/eli/oc/2026/261)).
+[^1-2]: Nouvelle teneur selon le ch. I de l’O du 15 sept. 2023, en vigueur depuis le 15 oct. 2023 ([RO 2023 549](https://fedlex.data.admin.ch/eli/oc/2023/549)).
+[^1-3]: Règlement (UE) n<sup>o</sup> 514/2014 du Parlement européen et du Conseil du 16 avril 2014 portant dispositions générales applicables au Fonds «Asile, migration et intégration» et à l’instrument de soutien financier à la coopération policière, à la prévention et à la répression de la criminalité, ainsi qu’à la gestion des crises, version du JO L 150 du 20.5.2014, p. 112.
+[^1-4]: Règlement (UE) n<sup>o</sup> 515/2014 du Parlement européen et du Conseil du 16 avril 2014 portant création, dans le cadre du Fonds pour la sécurité intérieure, de l’instrument de soutien financier dans le domaine des frontières extérieures et des visas et abrogeant la décision n<sup>o</sup> 574/2007/CE, version du JO L 150 du 20.5.2014, p. 143.
+[^1-5]: Introduite par le ch. I de l’O du 11 août 2021 ([RO 2021 503](https://fedlex.data.admin.ch/eli/oc/2021/503)). Nouvelle teneur selon le ch. I de l’O du 17 déc. 2021, en vigueur depuis le 15 janv. 2022 ([RO 2021 913](https://fedlex.data.admin.ch/eli/oc/2021/913)).
+[^1-6]: Règlement (UE) 2017/2226 du Parlement européen et du Conseil du 30 novembre 2017 portant création d’un système d’entrée/de sortie (EES) pour enregistrer les données relatives aux entrées, aux sorties et aux refus d’entrée concernant les ressortissants de pays tiers qui franchissent les frontières extérieures des États membres et portant détermination des conditions d’accès à l’EES à des fins répressives, et modifiant la convention d’application de l’accord de Schengen et les règlements (CE) n<sup>o</sup> 767/2008 et (UE) n<sup>o</sup> 1077/2011, JO L 327 du 9.12.2017, p. 20; modifié en dernier lieu par le règlement (UE) 2021/1134, JO L 248 du 13.7.2021, p. 11.
+[^1-7]: Introduite par le ch. I de l’O du 11 août 2021, en vigueur depuis le 15 sept. 2021 ([RO 2021 503](https://fedlex.data.admin.ch/eli/oc/2021/503)).
+[^1-8]: Règlement (UE) 2018/1240 du Parlement européen et du Conseil du 12 septembre 2018 portant création d’un système européen d’information et d’autorisation concernant les voyages (ETIAS) et modifiant les règlements (UE) n<sup>o</sup> 1077/2011, (UE) n<sup>o</sup> 515/2014, (UE) 2016/399, (UE) 2016/1624 et (UE) 2017/2226, version du JO L 236 du 19.9.2018, p. 1; modifié en dernier lieu par le règlement (UE) 2021/1152, JO L 249 du 14.7.2021, p. 15.
+[^1-9]: Nouvelle teneur selon le ch. II 1 de l’O du 7 juin 2024, en vigueur depuis le 11 juin 2024 ([RO 2024 258](https://fedlex.data.admin.ch/eli/oc/2024/258)).
+[^1-10]: Règlement (CE) n<sup>o</sup> 810/2009 du Parlement européen et du Conseil du 13 juillet 2009 établissant un code communautaire des visas (code des visas), JO L 243 du 15.9.2009, p. 1; modifié en dernier lieu par le règlement (UE) 2024/1415, JO L, 2024/1415, 22.05.2024.
+[^1-11]: Introduite par le ch. I de l’O du 13 mai 2020, en vigueur depuis le 15 juin 2020 ([RO 2020 1837](https://fedlex.data.admin.ch/eli/oc/2020/372)). Nouvelle teneur selon le ch. I de l’O du 11 août 2021, en vigueur depuis le 15 sept. 2021 ([RO 2021 503](https://fedlex.data.admin.ch/eli/oc/2021/503)).
+[^1-12]: Règlement (UE) 2019/817 du Parlement européen et du Conseil du 20 mai 2019 portant établissement d’un cadre pour l’interopérabilité des systèmes d’information de l’UE dans le domaine des frontières et des visas et modifiant les règlements (CE) n<sup>o</sup> 767/2008, (UE) 2016/399, (UE) 2017/2226, (UE) 2018/240, (UE) 2018/1726 et (UE) 2018/1861 du Parlement européen et du Conseil et les décisions 2004/512/CE et 2008/633/JAI du Conseil, JO L 135 du 22.5.2019, p. 27; modifié en dernier lieu par le règlement (UE) 2021/1152, JO L 249 du 14.7.2021, p. 15.
+[^1-13]: Introduite par le ch. I de l’O du 13 mai 2020, en vigueur depuis le 15 juin 2020 ([RO 2020 1837](https://fedlex.data.admin.ch/eli/oc/2020/372)).Nouvelle teneur selon le ch. I de l’O du 11 août 2021, en vigueur depuis le 15 sept. 2021 ([RO 2021 503](https://fedlex.data.admin.ch/eli/oc/2021/503)).
+[^1-14]: Règlement (UE) 2019/818 du Parlement européen et du Conseil du 20 mai 2019 portant établissement d’un cadre pour l’interopérabilité des systèmes d’information de l’UE dans le domaine de la coopération policière et judiciaire, de l’asile et de l’immigration et modifiant les règlements (UE) 2018/1726, (UE) 2018/1862 et (UE) 2019/816, JO L 135 du 22.5.2019, p. 85; modifié en dernier lieu par le règlement (UE) 2021/1150, JO L 249 du 14.7.2021, p. 1.
+[^1-15]: Introduite par le ch. I de l’O du 13 mai 2020 ([RO 2020 1837](https://fedlex.data.admin.ch/eli/oc/2020/372)). Nouvelle teneur selon le ch. I de l’O du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 808](https://fedlex.data.admin.ch/eli/oc/2023/808)).
+[^1-16]: Règlement (CE) n<sup>o</sup> 1683/95 du Conseil du 29 mai 1995, établissant un modèle type de visa, JO L 164 du 14.7.1995, p. 1; modifié en dernier lieu par le règlement (UE) 2023/2685, JO L, 2023/2685, 7.12.2023.
+[^1-17]: Introduite par le ch. I de l’O du 13 mai 2020, en vigueur depuis le 15 juin 2020 ([RO 2020 1837](https://fedlex.data.admin.ch/eli/oc/2020/372)).
+[^1-18]: Règlement (CE) n° 1030/2002 du Conseil du 13 juin 2002 établissant un modèle uniforme de titre de séjour pour les ressortissants de pays tiers, JO L 157 du 15.6.2002, p. 1; modifié en dernier lieu par le règlement (UE) 2017/1954, JO L 286 du 1.11.2017, p. 9.
+[^1-19]: Introduite par le ch. I de l’O du 17 déc. 2021 ([RO 2021 913](https://fedlex.data.admin.ch/eli/oc/2021/913)). Nouvelle teneur selon le ch. I de l’O du 10 avr. 2024, en vigueur depuis le 15 mai 2024 ([RO 2024 168](https://fedlex.data.admin.ch/eli/oc/2024/168)).
+[^1-20]: Règlement (CE) n<sup>o</sup> 767/2008 du Parlement européen et du Conseil du 9 juillet 2008 concernant le système d’information sur les visas (VIS) et l’échange de données entre les États membres sur les visas de court séjour (règlement VIS), JO L 218 du 13.8.2008, p. 60; modifié en dernier lieu par le règlement (UE) 2023/2667, JO L, 2023/2667, 7.12.2023.
+[^1-21]: Introduite par le ch. I de l’O du 17 déc. 2021, en vigueur depuis le 15 janv. 2022 ([RO 2021 913](https://fedlex.data.admin.ch/eli/oc/2021/913)).
+[^1-22]: Règlement (UE) 2021/1148 du Parlement européen et du Conseil du 7 juillet 2021 établissant, dans le cadre du Fonds pour la gestion intégrée des frontières, l’instrument de soutien financier à la gestion des frontières et à la politique des visas, JO L 251, du 15.7.2021, p. 48.
+[^1-23]: Introduite par le ch. I de l’O du 17 déc. 2021, en vigueur depuis le 15 janv. 2022 ([RO 2021 913](https://fedlex.data.admin.ch/eli/oc/2021/913)).
+[^1-24]: Règlement (UE) 2021/1060 du Parlement européen et du Conseil du 24 juin 2021 portant dispositions communes relatives au Fonds européen de développement régional, au Fonds social européen plus, au Fonds de cohésion, au Fonds pour une transition juste et au Fonds européen pour les affaires maritimes, la pêche et l’aquaculture, et établissant les règles financières applicables à ces Fonds et au Fonds «Asile, migration et intégration», au Fonds pour la sécurité intérieure et à l’instrument de soutien financier à la gestion des frontières et à la politique des visas, JO L 231 du 30.6.2021, p. 159.
+[^1-25]: Introduite par le ch. I de l’O du 15 sept. 2023, en vigueur depuis le 15 oct. 2023 ([RO 2023 549](https://fedlex.data.admin.ch/eli/oc/2023/549)).
+[^1-26]: Décision n<sup>o</sup> 1105/2011/UE du Parlement européen et du Conseil du 25 octobre 2011 relative à la liste des documents de voyage permettant à leur titulaire le franchissement des frontières extérieures et susceptibles d’être revêtus d’un visa, et relative à l’instauration d’un dispositif pour établir cette liste, version du JO L 287 du 4.11.2011, p. 9.
+[^1-27]: Introduite par le ch. I de l’O du 10 avr. 2024, en vigueur depuis le 15 mai 2024 ([RO 2024 168](https://fedlex.data.admin.ch/eli/oc/2024/168)).
+[^1-28]: Règlement (CE) n<sup>o</sup> 694/2003 du Conseil du 14 avril 2003 établissant des modèles uniformes pour le document facilitant le transit (DFT) et le document facilitant le transit ferroviaire (DFTF) prévus par le règlement (CE) n<sup>o</sup> 693/2003, JO L 99 du 17 avril 2003, p. 15; modifié en dernier lieu par le règlement (UE) 2023/2667, JO L, 2023/2667, 7.12.2023.
+[^1-29]: Introduite par le ch. I de l’O du 26 juin 2024, en vigueur depuis le 1<sup>er</sup> août 2024 ([RO 2024 345](https://fedlex.data.admin.ch/eli/oc/2024/345)).
+[^1-30]: Règlement (UE) 2016/399 du Parlement européen et du Conseil du 9 mars 2016 concernant un code de l’Union relatif au régime de franchissement des frontières par les personnes (code frontières Schengen), JO L 77 du 23.3.2016, p. 1; modifié en dernier lieu par le règlement (UE) 2024/1717, JO L, 2024/1717, 20.06.2024.
+[^1-31]: Introduite par le ch. I de l’O du 26 fév. 2025, en vigueur depuis le 1<sup>er</sup> avr. 2025 ([RO 2025 163](https://fedlex.data.admin.ch/eli/oc/2025/163)).
+[^1-32]: Règlement (UE) 2024/1356 du Parlement européen et du Conseil du 14 mai 2024 établissant le filtrage des ressortissants de pays tiers aux frontières extérieures et modifiant les règlements (CE) n<sup>o</sup> 767/2008, (UE) 2017/2226, (UE) 2018/1240 et (UE) 2019/817, version du JO L, 2024/1356, 22.5.2024.
+[^1-33]: Introduite par le ch. I de l’O du 20 juin 2025, en vigueur depuis le 1<sup>er</sup> août 2025 ([RO 2025 431](https://fedlex.data.admin.ch/eli/oc/2025/431)).
+[^1-34]: Règlement (UE) 2025/12 du Parlement européen et du Conseil du 19 décembre 2024 relatif à la collecte et au transfert des informations préalables sur les passagers en vue de renforcer et de faciliter les vérifications aux frontières extérieures, modifiant les règlements (UE) 2018/1726 et (UE) 2019/817, et abrogeant la directive 2004/82/CE du Conseil, version du JO L, 2025/12, 8.1.2025.
+[^1-35]: Nouvelle teneur selon le ch. I de l’O du 14 août 2019, en vigueur depuis le 2 fév. 2020 ([RO 2019 2633](https://fedlex.data.admin.ch/eli/oc/2019/491)).
 
 #### Art. 2
 
@@ -120,13 +121,15 @@ On entend par:
   - 2\. *à validité territoriale limitée:* valable uniquement pour passer par la zone internationale de transit des aéroports d’un ou plusieurs États Schengen;
 
 - f.[^2-4] *visa de long séjour (visa national, type D):* un document sous forme de vignette ou au format électronique établi par un État Schengen attestant que son titulaire remplit les conditions pour un long séjour;
-- g.[^2-5] r*essortissant d’un État tiers:* un citoyen d’un État qui n’est membre ni de l’Union européenne (UE) ni de l’Association européenne de libre-échange (AELE).
+- g.[^2-5] r*essortissant d’un État tiers:* un citoyen d’un État qui n’est membre ni de l’Union européenne (UE) ni de l’Association européenne de libre-échange (AELE);
+- h.[^2-6] *régions transfrontalières*: tous les cantons situés le long de la frontière terrestre de la Suisse ainsi que les cantons d’Appenzell Rhodes-Extérieures et Appenzell Rhodes-Intérieures.
 
 [^2-1]: Les accords d’association à Schengen sont mentionnés à l’annexe 1.
 [^2-2]: Nouvelle teneur selon le ch. I de l’O du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 808](https://fedlex.data.admin.ch/eli/oc/2023/808)).
 [^2-3]: Nouvelle teneur selon le ch. I de l’O du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 808](https://fedlex.data.admin.ch/eli/oc/2023/808)).
 [^2-4]: Nouvelle teneur selon le ch. I de l’O du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 808](https://fedlex.data.admin.ch/eli/oc/2023/808)).
 [^2-5]: Introduite par le ch. I de l’O du 10 nov. 2021, en vigueur depuis le 1<sup>er</sup> mai 2022 ([RO 2021 733](https://fedlex.data.admin.ch/eli/oc/2021/733)).
+[^2-6]: Introduite par le ch. I de l’O du 6 mai 2026, en vigueur depuis le 12 juin 2026 ([RO 2026 240](https://fedlex.data.admin.ch/eli/oc/2026/240)).
 
 ## Section 2 Dispositions régissant l’entrée en Suisse et le transit aéroportuaire
 
@@ -156,8 +159,8 @@ Dans les limites de leurs compétences, le Département fédéral des affaires �
 
 <sup>5</sup> Les personnes soumises à l’obligation de visa autorisées à entrer en Suisse en vertu de l’al. 4 reçoivent un visa dont la validité territoriale est limitée à la Suisse.
 
-[^3-1]: Règlement (UE) 2016/399 du Parlement européen et du Conseil du 9 mars 2016 concernant un code de l’Union relatif au régime de franchissement des frontières par les personnes (code frontières Schengen), JO L 77 du 23.3.2016, p. 1; modifié en dernier lieu par le règlement (UE) 2017/458, JO L 74 du 18.3.2017, p. 1.
-[^3-2]: Nouvelle teneur selon le ch. I de l’O du 26 juin 2024, en vigueur depuis le 1<sup>er</sup> août 2024 ([RO 2024 345](https://fedlex.data.admin.ch/eli/oc/2024/345)).
+[^3-1]: Cf. note de bas de page relative à l’art. 1, al. 4, let. m.
+[^3-2]: Nouvelle teneur selon le ch. I de l’O du 6 mai 2026, en vigueur depuis le 12 juin 2026 ([RO 2026 240](https://fedlex.data.admin.ch/eli/oc/2026/240)).
 [^3-3]: Cf. note de bas de page relative à l’art. 1, al. 4, let. c.
 
 #### Art. 4
@@ -166,14 +169,15 @@ Dans les limites de leurs compétences, le Département fédéral des affaires �
 
 <sup>1</sup>
 
-Pour un long séjour, l’étranger doit remplir, outre les conditions requises à l’art. 6, par. 1, let. a, d et e, du code frontières Schengen[^4-1], les conditions d’entrée suivantes:
+Pour un long séjour, l’étranger doit remplir, outre les conditions requises à l’art. 6, par. 1, let. a, d et e, du code frontières Schengen[^4-1], les conditions d’entrée suivantes:[^4-2]
 
 - a. il doit, si nécessaire, avoir obtenu un visa de long séjour au sens de l’art. 9;
 - b. il doit remplir les conditions d’admission pour le but du séjour envisagé.
 
 <sup>2</sup> Dans des cas dûment justifiés, un étranger qui ne remplit pas les conditions de l’al. 1 peut être autorisé pour des motifs humanitaires à entrer en Suisse en vue d’un long séjour. C’est le cas notamment lorsque sa vie ou son intégrité physique est directement, sérieusement et concrètement menacée dans son pays de provenance.
 
-[^4-1]: Cf. note de bas de page relative à l’art. 3, al. 1.
+[^4-1]: Cf. note de bas de page relative à l’art. 1, al. 4, let. m.
+[^4-2]: Nouvelle teneur selon le ch. I de l’O du 6 mai 2026, en vigueur depuis le 12 juin 2026 ([RO 2026 240](https://fedlex.data.admin.ch/eli/oc/2026/240)).
 
 #### Art. 5
 
@@ -248,16 +252,16 @@ Le SEM peut, dans des cas dûment justifiés, autoriser des exceptions à l’ob
 
 Sont libérées de l’obligation de visa de court séjour, en dérogation à l’al. 1, les personnes suivantes:
 
-- a. les titulaires d’un document de voyage valable et reconnu, ainsi que d’un visa de long séjour ou d’un titre de séjour en cours de validité délivré par un État Schengen (art. 6, par. 1, let. b, et 39, par. 1, let. a, du code frontières Schengen[^8-3]);
+- a.[^8-3] les titulaires d’un document de voyage valable et reconnu, ainsi que d’un visa de long séjour ou d’un titre de séjour en cours de validité délivré par un État Schengen (art. 6, par. 1, let. b, et 39, par. 1, let. a, du code frontières Schengen[^8-4]);
 - b. les titulaires d’un passeport diplomatique, de service, spécial ou officiel valable délivré par la Bolivie, le Maroc ou d’autres États avec lesquels la Suisse a conclu des accords bilatéraux ou multilatéraux à cet effet;
 - c. les pilotes d’aéronefs et les autres membres d’équipage conformément à l’annexe VII, ch. 2, du code frontières Schengen;
 - d. les titulaires d’un laissez-passer des Nations Unies valable;
-- e. les écoliers en provenance d’un État non-membre de l’Union européenne (UE) ou de l’Association européenne de libre-échange (AELE) qui sont domiciliés dans un État membre de l’UE ou de l’AELE, pour autant que leurs noms figurent sur la liste des écoliers délivrée ou authentifiée par les autorités compétentes de l’État concerné, conformément à la décision 94/795/JAI[^8-4];
-- f.[^8-5] les titulaires d’un titre de voyage pour réfugiés valable délivré par un État membre de l’UE ou de l’AELE ou par le Royaume-Uni conformément à l’accord du 15 octobre 1946 concernant la délivrance d’un titre de voyage à des réfugiés[^8-6] relevant de la compétence du Comité intergouvernemental pour les réfugiés ou à la Convention du 28 juillet 1951 relative au statut des réfugiés[^8-7], pour autant qu’ils séjournent dans cet État;
-- g.[^8-8] les titulaires d’un titre de voyage pour apatrides valable délivré par un État membre de l’UE ou de l’AELE ou par le Royaume-Uni, pour autant qu’ils séjournent dans cet État, conformément à la Convention du 28 septembre 1954 relative au statut des apatrides[^8-9];
-- h.[^8-10] les membres de forces armées qui voyagent dans le cadre de l’Organisation du Traité de l’Atlantique Nord (OTAN) ou du Partenariat pour la paix et qui sont titulaires de documents d’identité et d’ordres d’engagement prévus par le Statut des forces de l’OTAN du 19 juin 1951[^8-11].
+- e. les écoliers en provenance d’un État non-membre de l’Union européenne (UE) ou de l’Association européenne de libre-échange (AELE) qui sont domiciliés dans un État membre de l’UE ou de l’AELE, pour autant que leurs noms figurent sur la liste des écoliers délivrée ou authentifiée par les autorités compétentes de l’État concerné, conformément à la décision 94/795/JAI[^8-5];
+- f.[^8-6] les titulaires d’un titre de voyage pour réfugiés valable délivré par un État membre de l’UE ou de l’AELE ou par le Royaume-Uni conformément à l’accord du 15 octobre 1946 concernant la délivrance d’un titre de voyage à des réfugiés[^8-7] relevant de la compétence du Comité intergouvernemental pour les réfugiés ou à la Convention du 28 juillet 1951 relative au statut des réfugiés[^8-8], pour autant qu’ils séjournent dans cet État;
+- g.[^8-9] les titulaires d’un titre de voyage pour apatrides valable délivré par un État membre de l’UE ou de l’AELE ou par le Royaume-Uni, pour autant qu’ils séjournent dans cet État, conformément à la Convention du 28 septembre 1954 relative au statut des apatrides[^8-10];
+- h.[^8-11] les membres de forces armées qui voyagent dans le cadre de l’Organisation du Traité de l’Atlantique Nord (OTAN) ou du Partenariat pour la paix et qui sont titulaires de documents d’identité et d’ordres d’engagement prévus par le Statut des forces de l’OTAN du 19 juin 1951[^8-12].
 
-<sup>3</sup> Les ressortissants des États et des autres entités territoriales énumérés à l’annexe II du règlement (UE) 2018/1806 ne sont pas soumis à l’obligation de visa de court séjour. Les actes d’exécution et actes délégués de la Commission visant à suspendre temporairement l’exemption de l’obligation de visa de court séjour fondés sur le règlement (UE) 2018/1806 sont réservés. Ils sont mentionnés à l’annexe 5.[^8-12]
+<sup>3</sup> Les ressortissants des États et des autres entités territoriales énumérés à l’annexe II du règlement (UE) 2018/1806 ne sont pas soumis à l’obligation de visa de court séjour. Les actes d’exécution et actes délégués de la Commission visant à suspendre temporairement l’exemption de l’obligation de visa de court séjour fondés sur le règlement (UE) 2018/1806 sont réservés. Ils sont mentionnés à l’annexe 5.[^8-13]
 
 <sup>4</sup>
 
@@ -267,21 +271,22 @@ En dérogation à l’al. 3, les séjours en vue de l’exercice d’une activit
 - b. les ressortissants des États et collectivités territoriales mentionnés à l’annexe 3 sont soumis à l’obligation de visa de court séjour dans la mesure où ils exercent une activité lucrative durant plus de huit jours par année civile; les ressortissants de ces États et collectivités territoriales sont néanmoins soumis à l’obligation de visa de court séjour dès le premier jour où ils exercent une activité s’ils travaillent dans la construction, le génie civil, le second œuvre, l’hôtellerie, la restauration, le nettoyage industriel ou domestique, la surveillance, la sécurité, le commerce itinérant, l’industrie du sexe ou l’aménagement ou l’entretien paysager;
 - c. les citoyens britanniques qui ne sont pas ressortissants du Royaume-Uni de Grande-Bretagne et d’Irlande du Nord (ressortissants britanniques [outre-mer], citoyens des territoires britanniques d’outre-mer, citoyens britanniques d’outre-mer, sujets britanniques et personnes britanniques protégées) sont soumis à l’obligation de visa de court séjour dans la mesure où ils exercent une activité lucrative durant plus de huit jours par année civile; ces personnes sont néanmoins soumises à cette obligation dès le premier jour où elles exercent une activité si elles travaillent dans la construction, le génie civil, le second œuvre, l’hôtellerie, la restauration, le nettoyage industriel ou domestique, la surveillance, la sécurité, le commerce itinérant, l’industrie du sexe ou l’aménagement ou l’entretien paysager.
 
-<sup>5</sup> Le Département fédéral de justice et police (DFJP) adapte l’annexe 3 dès que la Suisse est informée de la conclusion d’un accord sur la levée de l’obligation de visa entre l’UE et l’un des États ou l’une des entités territoriales énumérés à l’annexe II du règlement (UE) 2018/1806.[^8-13]
+<sup>5</sup> Le Département fédéral de justice et police (DFJP) adapte l’annexe 3 dès que la Suisse est informée de la conclusion d’un accord sur la levée de l’obligation de visa entre l’UE et l’un des États ou l’une des entités territoriales énumérés à l’annexe II du règlement (UE) 2018/1806.[^8-14]
 
 [^8-1]: Règlement (UE) 2018/1806 du Parlement européen et du Conseil du 14 novembre 2018 fixant la liste des pays tiers dont les ressortissants sont soumis à l’obligation de visa pour franchir les frontières extérieures des États membres et la liste de ceux dont les ressortissants sont exemptés de cette obligation, JO L 303 du 28.11.2018, p. 39; modifié en dernier lieu par le règlement (UE) 2025/2441, JO L, 2025/2441, 10.12.2025.
 [^8-2]: Nouvelle teneur selon le ch. I de l’O du 5 déc. 2025, en vigueur depuis le 17 déc. 2025 ([RO 2025 804](https://fedlex.data.admin.ch/eli/oc/2025/804)).
-[^8-3]: Cf. note de bas de page relative à l’art. 3, al. 1.
-[^8-4]: Décision du Conseil du 30 novembre 1994 relative à une action commune adoptée par le Conseil sur la base de l’article K.3 paragraphe 2 point b) du traité sur l’Union européenne en ce qui concerne les facilités de déplacement des écoliers ressortissants de pays tiers résidant dans un État membre (94/795/JAI), version du JO L 327 du 19.12.1994, p. 1.
-[^8-5]: Nouvelle teneur selon le ch. I de l’O du 22 mars 2019, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 6415](https://fedlex.data.admin.ch/eli/oc/2020/1052)).
-[^8-6]: [RS 0.142.37](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/438)
-[^8-7]: [RS 0.142.30](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/432)
-[^8-8]: Nouvelle teneur selon le ch. I de l’O du 22 mars 2019, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 6415](https://fedlex.data.admin.ch/eli/oc/2020/1052)).
-[^8-9]: [RS 0.142.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/460)
-[^8-10]: Introduite par le ch. I de l’O du 10 nov. 2021, en vigueur depuis le 1<sup>er</sup> mai 2022 ([RO 2021 733](https://fedlex.data.admin.ch/eli/oc/2021/733)).
-[^8-11]: [RS 0.510.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1864)**,** annexe
-[^8-12]: Nouvelle teneur selon le ch. I de l’O du 17 mai 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 262](https://fedlex.data.admin.ch/eli/oc/2023/262)).
-[^8-13]: Nouvelle teneur selon le ch. I de l’O du 16 janv. 2019, en vigueur depuis le 15 fév. 2019 ([RO 2019 431](https://fedlex.data.admin.ch/eli/oc/2019/75)).
+[^8-3]: Nouvelle teneur selon le ch. I de l’O du 6 mai 2026, en vigueur depuis le 12 juin 2026 ([RO 2026 240](https://fedlex.data.admin.ch/eli/oc/2026/240)).
+[^8-4]: Cf. note de bas de page relative à l’art. 1, al. 4, let. m.
+[^8-5]: Décision du Conseil du 30 novembre 1994 relative à une action commune adoptée par le Conseil sur la base de l’article K.3 paragraphe 2 point b) du traité sur l’Union européenne en ce qui concerne les facilités de déplacement des écoliers ressortissants de pays tiers résidant dans un État membre (94/795/JAI), version du JO L 327 du 19.12.1994, p. 1.
+[^8-6]: Nouvelle teneur selon le ch. I de l’O du 22 mars 2019, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 6415](https://fedlex.data.admin.ch/eli/oc/2020/1052)).
+[^8-7]: [RS 0.142.37](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/438)
+[^8-8]: [RS 0.142.30](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/432)
+[^8-9]: Nouvelle teneur selon le ch. I de l’O du 22 mars 2019, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 6415](https://fedlex.data.admin.ch/eli/oc/2020/1052)).
+[^8-10]: [RS 0.142.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/460)
+[^8-11]: Introduite par le ch. I de l’O du 10 nov. 2021, en vigueur depuis le 1<sup>er</sup> mai 2022 ([RO 2021 733](https://fedlex.data.admin.ch/eli/oc/2021/733)).
+[^8-12]: [RS 0.510.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1864)**,** annexe
+[^8-13]: Nouvelle teneur selon le ch. I de l’O du 17 mai 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 262](https://fedlex.data.admin.ch/eli/oc/2023/262)).
+[^8-14]: Nouvelle teneur selon le ch. I de l’O du 16 janv. 2019, en vigueur depuis le 15 fév. 2019 ([RO 2019 431](https://fedlex.data.admin.ch/eli/oc/2019/75)).
 
 #### Art. 9
 
@@ -347,6 +352,39 @@ Conformément à l’art. 3, par. 5, du code des visas, les personnes suivantes 
 [^10-8]: [RS 0.748.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3110)
 [^10-9]: Introduit par le ch. I de l’O du 14 août 2019, en vigueur depuis le 2 fév. 2020 ([RO 2019 2633](https://fedlex.data.admin.ch/eli/oc/2019/491)).
 
+## Section 2*a* Restrictions d’entrée pour protéger la santé publique
+
+[^sec2a-1]
+
+[^sec2a-1]: Introduite par le ch. I de l’O du 6 mai 2026, en vigueur depuis le 12 juin 2026 ([RO 2026 240](https://fedlex.data.admin.ch/eli/oc/2026/240)).
+
+#### Art. 10a
+
+**Exceptions aux restrictions d’entrée**
+
+### (art. 5, al. 3, et 65*a* LEI)
+
+<sup>1</sup> Lorsque le SEM autorise une exception en vertu de l’art. 65*a*, al. 2, LEI, la personne concernée peut entrer en Suisse pour y effectuer un court séjour.
+
+<sup>2</sup>
+
+Toute personne autorisée à entrer en Suisse en vertu de l’al. 1 peut être accompagnée des personnes suivantes:
+
+- a. son conjoint, son partenaire enregistré ou son partenaire avec qui elle fait ménage commun;
+- b. ses enfants mineurs, et
+- c. une personne qui lui fournit une aide, si elle a besoin d’assistance.
+
+<sup>3</sup> Les personnes soumises à l’obligation de visa autorisées à entrer en Suisse en vertu des al. 1 et 2 reçoivent un visa dont la validité territoriale est limitée à la Suisse.
+
+#### Art. 10b
+
+**Attestation pour le voyage de ressortissants d’États tiers non soumis à l’obligation de visa**
+
+La représentation suisse à l’étranger compétente ou le SEM peut établir une attestation pour des ressortissants d’États tiers non soumis à l’obligation de visa si:
+
+- a. l’attestation est nécessaire au voyage et au transport, et
+- b. les personnes concernées sont autorisées à entrer en Suisse malgré les restrictions d’entrée mises en place pour protéger la santé publique.
+
 ## Section 3 Visa de court séjour et visa de transit aéroportuaire
 
 #### Art. 11
@@ -356,7 +394,10 @@ Conformément à l’art. 3, par. 5, du code des visas, les personnes suivantes 
 Un visa de court séjour est octroyé dans les cas suivants:
 
 - a. séjour de courte durée avec ou sans autorisation de travail en Suisse;
-- b. entrée en Suisse selon l’art. 3, al. 4.
+- b. entrée en Suisse selon l’art. 3, al. 4;
+- c.[^11-1] entrée en Suisse selon l’art. 10*a*, al. 1 et 2.
+
+[^11-1]: Introduite par le ch. I de l’O du 6 mai 2026, en vigueur depuis le 12 juin 2026 ([RO 2026 240](https://fedlex.data.admin.ch/eli/oc/2026/240)).
 
 #### Art. 12
 
@@ -552,71 +593,84 @@ Pour le traitement d’une demande de visa de long séjour, un émolument est pe
 
 **Franchissement de la frontière**
 
-L’entrée en Suisse et la sortie de Suisse sont régies par le code frontières Schengen[^28-1]. Sont réservées les dispositions de la loi du 18 mars 2005 sur les douanes[^28-2] et les dispositions d’exécution y relatives.
+L’entrée en Suisse et la sortie de Suisse sont régies par le code frontières Schengen[^28-1].[^28-2] Sont réservées les dispositions de la loi du 18 mars 2005 sur les douanes[^28-3] et les dispositions d’exécution y relatives.
 
-[^28-1]: Cf. note de bas de page relative à l’art. 3, al. 1.
-[^28-2]: [RS 631.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7812)
+[^28-1]: Cf. note de bas de page relative à l’art. 1, al. 4, let. m.
+[^28-2]: Nouvelle teneur selon le ch. I de l’O du 6 mai 2026, en vigueur depuis le 12 juin 2026 ([RO 2026 240](https://fedlex.data.admin.ch/eli/oc/2026/240)).
+[^28-3]: [RS 631.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7812)
 
 #### Art. 29
 
-**Frontières extérieures Schengen**
+**Aérodromes constituant une frontière extérieure Schengen**[^29-1]
 
-<sup>1</sup> Le SEM fixe, après entente avec l’Office fédéral de la douane et de la sécurité des frontières (OFDF), les autorités fédérales et cantonales habilitées à effectuer le contrôle des personnes et l’Office fédéral de l’aviation civile, les frontières extérieures Schengen en Suisse.[^29-1]
+### (art. 9 LEI)
 
-<sup>2</sup> Les contrôles d’identité aux frontières extérieures Schengen à l’entrée en Suisse et à la sortie de Suisse par les voies terrestre et aérienne sont régis par l’art. 8 et l’annexe VI, ch. 1 et 2, du code frontières Schengen[^29-2].
+<sup>1</sup> Le contrôle à la frontière dans les aérodromes constituant une frontière extérieure Schengen en Suisse effectué à l’entrée en Suisse et à la sortie de Suisse par la voie aérienne est régi par l’art. 8 et l’annexe VI, ch. 1 et 2, du code frontières Schengen[^29-2].
 
-<sup>3</sup> L’entrée par un aérodrome qui n’est pas désigné comme frontière extérieure Schengen nécessite l’obtention préalable d’une autorisation octroyée par l’autorité habilitée à effectuer les vérifications sur les personnes à l’aérodrome concerné.
+<sup>2</sup> L’entrée par un aérodrome qui n’est pas désigné comme frontière extérieure Schengen nécessite l’obtention préalable d’une autorisation octroyée par l’autorité habilitée à effectuer les contrôles à la frontière à l’aérodrome concerné.
 
-[^29-1]: Nouvelle teneur selon le ch. I de l’O du 10 nov. 2021, en vigueur depuis le 1<sup>er</sup> mai 2022 ([RO 2021 733](https://fedlex.data.admin.ch/eli/oc/2021/733)).
-[^29-2]: Cf. note de bas de page relative à l’art. 3, al. 1.
+[^29-1]: Nouvelle teneur selon le ch. I de l’O du 6 mai 2026, en vigueur depuis le 12 juin 2026 ([RO 2026 240](https://fedlex.data.admin.ch/eli/oc/2026/240)).
+[^29-2]: Cf. note de bas de page relative à l’art. 1, al. 4, let. m.
 
 #### Art. 29a
 
-**Frontières intérieures de l’espace Schengen**[^29a-1]
+**Frontières intérieures Schengen en Suisse[^29a-2]**[^29a-1]
 
-<sup>1</sup> Lors de contrôles aux frontières intérieures de l’espace Schengen en Suisse, le respect des exigences douanières peut être vérifié conformément à la loi du 18 mars 2005 sur les douanes[^29a-2] et aux dispositions d’exécution correspondantes. Au surplus, les contrôles sont exécutés exclusivement conformément à l’art. 23 du code frontières Schengen[^29a-3].
+<sup>1</sup> Lors de contrôles aux frontières intérieures Schengen en Suisse, le respect des exigences douanières peut être vérifié conformément à la loi du 18 mars 2005 sur les douanes[^29a-3] et aux dispositions d’exécution correspondantes. Au surplus, les contrôles sont exécutés exclusivement conformément à l’art. 23 du code frontières Schengen[^29a-4].[^29a-5]
 
 <sup>2</sup> Le SEM édicte des directives pour délimiter les contrôles visés à l’al. 1 des contrôles aux frontières extérieures de l’espace Schengen.
 
 [^29a-1]: Introduit par le ch. I de l’O du 10 nov. 2021, en vigueur depuis le 1<sup>er</sup> mai 2022 ([RO 2021 733](https://fedlex.data.admin.ch/eli/oc/2021/733)).
-[^29a-2]: [RS 631.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7812)
-[^29a-3]: Cf. note de bas de page relative à l’art. 3, al. 1.
+[^29a-2]: Nouvelle teneur selon le ch. I de l’O du 6 mai 2026, en vigueur depuis le 12 juin 2026 ([RO 2026 240](https://fedlex.data.admin.ch/eli/oc/2026/240)).
+[^29a-3]: [RS 631.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7812)
+[^29a-4]: Cf. note de bas de page relative à l’art. 1, al. 4, let. m.
+[^29a-5]: Nouvelle teneur selon le ch. I de l’O du 6 mai 2026, en vigueur depuis le 12 juin 2026 ([RO 2026 240](https://fedlex.data.admin.ch/eli/oc/2026/240)).
 
 #### Art. 30
 
-**Réintroduction des contrôles aux frontières intérieures**
+**Réintroduction temporaire du contrôle aux frontières intérieures Schengen en Suisse**[^30-1]
 
-<sup>1</sup> Lorsque les conditions prévues à l’art. 25, par. 1, du code frontières Schengen[^30-1] sont remplies, le Conseil fédéral décide de la réintroduction des contrôles aux frontières intérieures.
+### (art. 8 LEI)
 
-<sup>2</sup> En cas d’urgence, le DFJP ordonne les mesures immédiates nécessaires en vue de réintroduire les contrôles aux frontières. Il en informe aussitôt le Conseil fédéral.
+<sup>1</sup> Toute autorité fédérale ou cantonale chargée du maintien de l’ordre public ou de la sécurité intérieure peut demander au SEM, au moyen d’une requête écrite dûment motivée, la réintroduction temporaire du contrôle à l’ensemble des frontières intérieures Schengen en Suisse ou à certains tronçons de ces frontières.
 
-<sup>3</sup> Les contrôles aux frontières intérieures sont exécutés par les collaborateurs de l’OFDF chargés des contrôles aux frontières, en accord avec les cantons frontaliers.[^30-2]
+<sup>2</sup>
 
-[^30-1]: Cf. note de bas de page relative à l’art. 3, al. 1.
-[^30-2]: Nouvelle teneur selon le ch. I de l’O du 10 nov. 2021, en vigueur depuis le 1<sup>er</sup> mai 2022 ([RO 2021 733](https://fedlex.data.admin.ch/eli/oc/2021/733)).
+Décident de la réintroduction et de la prolongation du contrôle aux frontières:
+
+- a. le Conseil fédéral, après consultation des autorités concernées de la Confédération, notamment de l’Office fédéral de la douane et de la sécurité des frontières (OFDF), et des cantons;
+- b. le DFJP, en cas d’urgence.
+
+<sup>3</sup> Le Conseil fédéral lève de manière anticipée le contrôle aux frontières intérieures Schengen en Suisse réintroduit temporairement si cette mesure ne s’avère plus nécessaire, notamment si des mesures moins restrictives permettent d’atteindre le même but.
+
+<sup>4</sup> Le Conseil fédéral informe les commissions compétentes des deux conseils au sujet de la réintroduction et de la prolongation du contrôle aux frontières ainsi que de la durée de la mesure.
+
+[^30-1]: Nouvelle teneur selon le ch. I de l’O du 6 mai 2026, en vigueur depuis le 12 juin 2026 ([RO 2026 240](https://fedlex.data.admin.ch/eli/oc/2026/240)).
 
 #### Art. 31
 
-**Compétence pour le contrôle des personnes**
+**Compétence en matière de contrôle à la frontière**[^31-1]
 
-<sup>1</sup> Le DFJP réglemente l’exécution des contrôles des personnes aux frontières extérieures et intérieures.
+<sup>1</sup> Le DFJP réglemente l’exécution du contrôle aux frontières extérieures et intérieures Schengen en Suisse.
 
-<sup>2</sup> Les collaborateurs de l’OFDF et des cantons chargés des contrôles aux frontières effectuent le contrôle des personnes aux frontières. Les collaborateurs de l’OFDF exercent cette activité soit dans le cadre de leurs tâches ordinaires, soit en application des accords conclus entre le Département fédéral des finances et les cantons (art. 9, al. 2, LEI et art. 97 de la loi du 18 mars 2005 sur les douanes[^31-1]).[^31-2]
+<sup>2</sup> Les collaborateurs de l’OFDF exécutent le contrôle aux frontières extérieures Schengen en application des conventions conclues entre le Département fédéral des finances (DFF) et les cantons (art. 97 de la loi du 18 mars 2005 sur les douanes[^31-2]).
 
-<sup>3</sup> …[^31-3]
+<sup>3</sup> En cas de réintroduction du contrôle aux frontières intérieures Schengen, celui-ci est exécuté par les collaborateurs de l’OFDF chargés du contrôle à la frontière, en accord avec les cantons frontaliers.
 
-<sup>4</sup> Les cantons peuvent habiliter les collaborateurs de l’OFDF chargés des contrôles aux frontières à rendre et à notifier la décision de renvoi visée à l’art. 64, al. 1, let. a et b, LEI.[^31-4]
+<sup>4</sup> Les cantons peuvent habiliter les collaborateurs de l’OFDF chargés du contrôle à la frontière à rendre et à notifier la décision de renvoi visée aux art. 64, al. 1, let. a et b, et 64*c*<sup>bis</sup> LEI.
 
-[^31-1]: [RS 631.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7812)
-[^31-2]: Nouvelle teneur selon le ch. I de l’O du 10 nov. 2021, en vigueur depuis le 1<sup>er</sup> mai 2022 ([RO 2021 733](https://fedlex.data.admin.ch/eli/oc/2021/733)).
-[^31-3]: Abrogé par le ch. I de l’O du 1<sup>er</sup> mai 2019, avec effet au 1<sup>er</sup> juin 2019 ([RO 2019 1435](https://fedlex.data.admin.ch/eli/oc/2019/280)).
-[^31-4]: Nouvelle teneur selon le ch. I de l’O du 10 nov. 2021, en vigueur depuis le 1<sup>er</sup> mai 2022 ([RO 2021 733](https://fedlex.data.admin.ch/eli/oc/2021/733)).
+[^31-1]: Nouvelle teneur selon le ch. I de l’O du 6 mai 2026, en vigueur depuis le 12 juin 2026 ([RO 2026 240](https://fedlex.data.admin.ch/eli/oc/2026/240)).
+[^31-2]: [RS 631.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7812)
 
 ## Section 6 Devoir de diligence et de prise en charge incombant aux entreprises de transport aérien
 
 #### Art. 32
 
 **Étendue du devoir de diligence**
+
+### (art. 92 LEI)
+
+[^32-1]
 
 <sup>1</sup>
 
@@ -632,7 +686,8 @@ Les mesures prévues à l’al. 1 visent à assurer l’exécution des opératio
 - a. contrôler avant le départ si les documents de voyage, visas et titres de séjour requis lors de l’entrée dans l’espace Schengen ou du transit aéroportuaire sont valides et reconnus;
 - b. identifier les documents de voyage, visas et titres de séjour dont la contrefaçon ou la falsification peut être reconnue par une personne jouissant d’une formation adéquate et d’une acuité visuelle moyenne;
 - c. identifier un document de voyage, visa ou titre de séjour n’appartenant manifestement pas à la personne transportée;
-- d.[^32-1] vérifier si la durée maximale du séjour et le nombre d’entrées autorisés ont été atteints.
+- d.[^32-2] vérifier si la durée maximale du séjour et le nombre d’entrées autorisés ont été atteints;
+- e.[^32-3] transporter uniquement des personnes ne faisant pas l’objet d’une restriction d’entrée ordonnée par le Conseil fédéral en vertu de l’art. 65*a* LEI ou par le Conseil de l’UE en vertu de l’art. 21<sup>bis</sup> du code frontières Schengen[^32-4], dans la mesure où ce dernier s’applique également à la Suisse en vertu d’un accord avec l’UE.
 
 <sup>3</sup>
 
@@ -643,7 +698,10 @@ Le SEM peut exiger de l’entreprise de transport aérien des mesures supplémen
 
 <sup>4</sup> Par mesure supplémentaire, on entend notamment la production de copies de documents de voyage, de visas ou de titres de séjour avant le départ.
 
-[^32-1]: Nouvelle teneur selon le ch. I de l’O du 15 sept. 2023, en vigueur depuis le 15 oct. 2023 ([RO 2023 549](https://fedlex.data.admin.ch/eli/oc/2023/549)).
+[^32-1]: Nouvelle teneur selon le ch. I de l’O du 6 mai 2026, en vigueur depuis le 12 juin 2026 ([RO 2026 240](https://fedlex.data.admin.ch/eli/oc/2026/240)).
+[^32-2]: Nouvelle teneur selon le ch. I de l’O du 15 sept. 2023, en vigueur depuis le 15 oct. 2023 ([RO 2023 549](https://fedlex.data.admin.ch/eli/oc/2023/549)).
+[^32-3]: Introduite selon le ch. I de l’O du 6 mai 2026, en vigueur depuis le 12 juin 2026 ([RO 2026 240](https://fedlex.data.admin.ch/eli/oc/2026/240)).
+[^32-4]: Cf. note de bas de page relative à l’art. 1, al. 4, let. m.
 
 #### Art. 33
 
@@ -784,26 +842,27 @@ Le SEM est compétent pour conclure des traités internationaux en vue de la rep
 - b. les conditions applicables à la délivrance des visas à entrées multiples dans chaque arrondissement consulaire concerné (art. 24, par. 2<sup>quinquies</sup>);
 - c.[^34b-4] les règles applicables pour remplir les cases du visa électronique (art. 27, par. 1);
 - d. les modalités d’apposition de la vignette-visa (art. 29, par. 1<sup>bis</sup>);
-- e. les instructions opérationnelles relatives à la délivrance aux marins de visas aux frontières extérieures de Schengen (art. 36, par. 2<sup>bis</sup>);
+- e.[^34b-5] les instructions opérationnelles relatives à la délivrance aux marins de visas aux frontières extérieures Schengen (art. 36, par. 2<sup>bis</sup>);
 - f. les instructions relatives à l’application pratique du code des visas (art. 51);
-- g.[^34b-5] les normes minimales à utiliser lors du contrôle et de la vérification des documents de voyage permettant d’en vérifier l’authenticité, et les techniques, les méthodes et les procédures lors du traitement des données stockées sur la puce (art. 12, par. 7).
+- g.[^34b-6] les normes minimales à utiliser lors du contrôle et de la vérification des documents de voyage permettant d’en vérifier l’authenticité, et les techniques, les méthodes et les procédures lors du traitement des données stockées sur la puce (art. 12, par. 7).
 
 <sup>2</sup>
 
 Il est compétent pour conclure des traités internationaux en vue de la reprise d’actes d’exécution du Conseil du l’UE relatifs au code des visas, pour autant que ces traités soient de portée mineure au sens de l’art. 7*a* LOGA et pour autant que les actes d’exécution soient édictés sur la base des articles et paragraphes suivants du code des visas et qu’ils concernent les domaines suivants:
 
-- a.[^34b-6] la suspension de l’application de la gratuité des visas ou des facilités concernant la production de documents justificatifs, les délais de traitement ou la délivrance de visas à entrées multiples à tous les ressortissants ou à certaines catégories de ressortissants d’un État tiers qui ne coopère pas suffisamment en matière de réadmission de personnes en séjour irrégulier (art. 25<sup>bis</sup>, par. 5, let. a, et 6);
-- b.[^34b-7] l’augmentation progressive de l’émolument de visa si l’État tiers concerné continue de ne pas coopérer suffisamment (art. 25<sup>bis</sup>, par. 5, let. b, et 6);
-- c. l’octroi de facilités particulières à tous les ressortissants ou à certaines catégories de ressortissants d’un État tiers qui coopère suffisamment en matière de réadmission de personnes en séjour irrégulier (art. 25<sup>bis</sup>, par. 8).[^34b-8]
+- a.[^34b-7] la suspension de l’application de la gratuité des visas ou des facilités concernant la production de documents justificatifs, les délais de traitement ou la délivrance de visas à entrées multiples à tous les ressortissants ou à certaines catégories de ressortissants d’un État tiers qui ne coopère pas suffisamment en matière de réadmission de personnes en séjour irrégulier (art. 25<sup>bis</sup>, par. 5, let. a, et 6);
+- b.[^34b-8] l’augmentation progressive de l’émolument de visa si l’État tiers concerné continue de ne pas coopérer suffisamment (art. 25<sup>bis</sup>, par. 5, let. b, et 6);
+- c. l’octroi de facilités particulières à tous les ressortissants ou à certaines catégories de ressortissants d’un État tiers qui coopère suffisamment en matière de réadmission de personnes en séjour irrégulier (art. 25<sup>bis</sup>, par. 8).[^34b-9]
 
 [^34b-1]: Introduit par le ch. I de l’O du 14 août 2019, en vigueur depuis le 2 fév. 2020 ([RO 2019 2633](https://fedlex.data.admin.ch/eli/oc/2019/491)).
 [^34b-2]: Cf. note de bas de page relative à l’art. 1, al. 4, let. c.
 [^34b-3]: [RS 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
 [^34b-4]: Nouvelle teneur selon le ch. I de l’O du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 808](https://fedlex.data.admin.ch/eli/oc/2023/808)).
-[^34b-5]: Introduite par le ch. I de l’O du 10 avr. 2024, en vigueur depuis le 15 mai 2024 ([RO 2024 168](https://fedlex.data.admin.ch/eli/oc/2024/168)).
-[^34b-6]: Nouvelle teneur selon le ch. I de l’O du 26 juin 2024, en vigueur depuis le 1<sup>er</sup> août 2024 ([RO 2024 345](https://fedlex.data.admin.ch/eli/oc/2024/345)).
+[^34b-5]: Nouvelle teneur selon le ch. I de l’O du 6 mai 2026, en vigueur depuis le 12 juin 2026 ([RO 2026 240](https://fedlex.data.admin.ch/eli/oc/2026/240)).
+[^34b-6]: Introduite par le ch. I de l’O du 10 avr. 2024, en vigueur depuis le 15 mai 2024 ([RO 2024 168](https://fedlex.data.admin.ch/eli/oc/2024/168)).
 [^34b-7]: Nouvelle teneur selon le ch. I de l’O du 26 juin 2024, en vigueur depuis le 1<sup>er</sup> août 2024 ([RO 2024 345](https://fedlex.data.admin.ch/eli/oc/2024/345)).
-[^34b-8]: Introduit par le ch. I de l’O du 14 fév. 2024, en vigueur depuis le 1<sup>er</sup> mars 2024 ([RO 2024 75](https://fedlex.data.admin.ch/eli/oc/2024/75)).
+[^34b-8]: Nouvelle teneur selon le ch. I de l’O du 26 juin 2024, en vigueur depuis le 1<sup>er</sup> août 2024 ([RO 2024 345](https://fedlex.data.admin.ch/eli/oc/2024/345)).
+[^34b-9]: Introduit par le ch. I de l’O du 14 fév. 2024, en vigueur depuis le 1<sup>er</sup> mars 2024 ([RO 2024 75](https://fedlex.data.admin.ch/eli/oc/2024/75)).
 
 #### Art. 34c
 
@@ -1009,10 +1068,12 @@ Il a compétence pour toutes les tâches non dévolues à d’autres instances f
 
 - a. édicter les directives en matière de visas et de contrôle à la frontière, dans la mesure où celles-ci ne relèvent pas de la réglementation européenne;
 - b. édicter les directives sur le retrait des documents de voyages, des documents d’identité et des documents justificatifs faux, falsifiés ou présentant des indices concrets d’utilisation abusive;
-- c. procéder à des analyses de situation sur les migrations illégales, pour permettre la mise en œuvre de la pratique en matière de visas, des contrôles aux frontières extérieures de l’espace Schengen et des mesures de substitution nationales aux frontières intérieures; coopérer à cet effet avec des autorités et des organisations intéressées de Suisse et de l’étranger;
+- c.[^35-1] procéder à des analyses de situation sur les migrations illégales, pour permettre la mise en œuvre de la pratique en matière de visas, du contrôle aux frontières extérieures Schengen et des mesures de substitution nationales aux frontières intérieures; coopérer à cet effet avec des autorités et des organisations intéressées de Suisse et de l’étranger;
 - d. collaborer à la formation et au perfectionnement professionnel des autorités chargées de l’exécution de la présente ordonnance;
 - e. établir des rapports sur les visas octroyés ou refusés ainsi que des statistiques en matière de visas;
 - f. développer la stratégie suisse pour une gestion intégrée des frontières en collaboration avec les autorités fédérales et cantonales.
+
+[^35-1]: Nouvelle teneur selon le ch. I de l’O du 6 mai 2026, en vigueur depuis le 12 juin 2026 ([RO 2026 240](https://fedlex.data.admin.ch/eli/oc/2026/240)).
 
 #### Art. 36
 
@@ -1022,9 +1083,11 @@ Les représentations à l’étranger octroient, refusent, annulent et abrogent 
 
 #### Art. 37
 
-**Autorités chargées de contrôler les conditions d’entrée aux frontières extérieures et les conditions de transit aéroportuaire**
+**Autorités chargées de contrôler les conditions d’entrée aux aérodromes constituant une frontière extérieure Schengen et les conditions de transit aéroportuaire**[^37-1]
 
-Les autorités chargées de contrôler les conditions d’entrée aux frontières extérieures et les conditions de transit aéroportuaire octroient, refusent, annulent et abrogent les visas de court ou de long séjour ou de transit aéroportuaire au nom des autorités compétentes, à savoir le SEM, le DFAE et les cantons.
+Les autorités chargées de contrôler les conditions d’entrée aux aérodromes constituant une frontière extérieure Schengen et les conditions de transit aéroportuaire octroient, refusent, annulent et abrogent les visas de court ou de long séjour ou de transit aéroportuaire au nom du SEM, du DFAE ou des cantons, en fonction de la compétence.
+
+[^37-1]: Nouvelle teneur selon le ch. I de l’O du 6 mai 2026, en vigueur depuis le 12 juin 2026 ([RO 2026 240](https://fedlex.data.admin.ch/eli/oc/2026/240)).
 
 #### Art. 38
 
@@ -1138,11 +1201,12 @@ Dans le cadre de la procédure d’octroi des visas, la coopération consulaire 
 
 Les autorités fédérales et cantonales compétentes pour l’exécution des dispositions en matière d’entrée coopèrent étroitement.
 
-## Section 9 Contrôle automatisé à la frontière dans les aéroports
+## Section 9 Contrôle automatisé à la frontière dans les aérodromes constituant une frontière extérieure Schengen
 
-[^sec9-1]
+[^sec9-1][^sec9-2]
 
 [^sec9-1]: Nouvelle teneur selon le ch. I de l’O du 10 nov. 2021, en vigueur depuis le 1<sup>er</sup> mai 2022 ([RO 2021 733](https://fedlex.data.admin.ch/eli/oc/2021/733)).
+[^sec9-2]: Nouvelle teneur selon le ch. I de l’O du 6 mai 2026, en vigueur depuis le 12 juin 2026 ([RO 2026 240](https://fedlex.data.admin.ch/eli/oc/2026/240)).
 
 #### Art. 45
 
@@ -1155,7 +1219,11 @@ Peuvent prendre part au contrôle automatisé à la frontière, pour autant qu�
 
 Abrogés
 
-## Section 10 Surveillance de l’arrivée à l’aéroport
+## Section 10 Surveillance de l’arrivée aux aérodromes constituant une frontière extérieure Schengen
+
+[^sec10-1]
+
+[^sec10-1]: Nouvelle teneur selon le ch. I de l’O du 6 mai 2026, en vigueur depuis le 12 juin 2026 ([RO 2026 240](https://fedlex.data.admin.ch/eli/oc/2026/240)).
 
 #### Art. 54
 
@@ -1245,51 +1313,59 @@ Les art. 50, al. 3, et 51 à 53 s’appliquent par analogie aux droits des perso
 
 **Accords sur le recours aux services de conseillers en matière de documents**
 
-<sup>1</sup> Le DFJP peut, après entente avec le DFAE, le Département fédéral des finances et les autorités responsables du contrôle à la frontière, conclure avec des États étrangers des accords sur le recours aux services de conseillers en matière de documents (art. 100*a*, al. 3, LEI).
+<sup>1</sup> Le DFJP peut, après entente avec le DFAE, le DFF ou les autorités cantonales compétentes en matière de contrôle à la frontière, conclure avec des États étrangers des accords sur le recours aux services de conseillers en matière de documents (art. 100*a*, al. 3, LEI).[^63-1]
 
 <sup>2</sup> Les accords visés à l’al. 1 déterminent notamment le type d’activités que les conseillers en matière de documents sont autorisés à mener sur le territoire de l’autre État, la manière dont ils doivent s’annoncer et le statut qu’ils occupent.
+
+[^63-1]: Nouvelle teneur selon le ch. I de l’O du 6 mai 2026, en vigueur depuis le 12 juin 2026 ([RO 2026 240](https://fedlex.data.admin.ch/eli/oc/2026/240)).
 
 #### Art. 64
 
 **Collaboration**
 
-Le SEM, les autorités responsables du contrôle à la frontière qui détachent des conseillers en matière de documents et la Direction consulaire du DFAE (DC) se mettent d’accord sur les modalités de la collaboration, notamment:
+Le SEM, les autorités fédérales et cantonales compétentes en matière de contrôle à la frontière qui détachent du personnel et la Direction consulaire du DFAE (DC) se mettent d’accord sur les modalités de la collaboration, notamment:[^64-1]
 
 - a. les modalités du détachement de conseillers suisses en matière de documents;
 - b. la répartition des coûts concernant le recours aux services de conseillers suisses en matière de documents;
 - c. les modalités du recours aux services de conseillers étrangers en matière de documents en Suisse.
 
+[^64-1]: Nouvelle teneur selon le ch. I de l’O du 6 mai 2026, en vigueur depuis le 12 juin 2026 ([RO 2026 240](https://fedlex.data.admin.ch/eli/oc/2026/240)).
+
 #### Art. 65
 
-**Recours aux services de conseillers suisses en matière de documents à l’étranger**
+**Recours aux services de conseillers suisses en matière de documents à l’étranger**[^65-1]
 
-<sup>1</sup> Le SEM fixe les lieux et la durée d’engagement des conseillers suisses en matière de documents en accord avec les autorités responsables du contrôle à la frontière qui les détachent et la DC.
+<sup>1</sup> Le SEM fixe les lieux et la durée d’engagement des conseillers suisses en matière de documents en accord avec les autorités qui les détachent et la DC.
 
 <sup>2</sup>
 
-La DC peut, d’un commun accord avec le SEM et l’autorité responsable du contrôle à la frontière qui détache des conseillers en matière de documents, conclure des conventions avec des autorités étrangères détachant des conseillers concernant la coopération opérationnelle au lieu d’engagement. Les conventions pourront notamment porter sur:
+La DC peut, d’un commun accord avec le SEM et les autorités qui détachent du personnel, conclure des conventions avec des autorités étrangères détachant des conseillers concernant la coopération opérationnelle au lieu d’engagement. Les conventions pourront notamment porter sur:
 
 - a. la fixation d’objectifs communs;
 - b. la réglementation des échanges d’informations entre les conseillers en matière de documents;
 - c. la réglementation relative à la formation mutuelle sur un lieu d’engagement.
 
-<sup>3</sup> La mise en œuvre opérationnelle du recours aux services de conseillers en matière de documents ressortit aux autorités responsables du contrôle à la frontière qui détachent ces conseillers.
+<sup>3</sup> La mise en œuvre opérationnelle du recours aux services de conseillers en matière de documents ressortit aux autorités qui détachent ces conseillers.
+
+[^65-1]: Nouvelle teneur selon le ch. I de l’O du 6 mai 2026, en vigueur depuis le 12 juin 2026 ([RO 2026 240](https://fedlex.data.admin.ch/eli/oc/2026/240)).
 
 #### Art. 66
 
-**Recours à des conseillers étrangers en matière de documents en Suisse**
+**Recours à des conseillers étrangers en matière de documents en Suisse**[^66-1]
 
-<sup>1</sup> Le SEM fixe les lieux et la durée d’engagement des conseillers étrangers en matière de documents en accord avec les autorités étrangères détachant des conseillers, les autorités suisses responsables du contrôle à la frontière et le DFAE.
+<sup>1</sup> Le SEM fixe les lieux et la durée d’engagement des conseillers étrangers en matière de documents en accord avec les autorités étrangères détachant des conseillers, les autorités suisses compétentes en matière de contrôle à la frontière et le DFAE.
 
 <sup>2</sup>
 
-Il peut, d’un commun accord avec les autorités suisses responsables du contrôle à la frontière, conclure avec les autorités étrangères détachant des conseillers des conventions concernant la coopération opérationnelle au lieu d’engagement. Les conventions peuvent notamment porter sur:
+Il peut, d’un commun accord avec les autorités nationales compétentes en matière de contrôle à la frontière, conclure avec les autorités étrangères détachant des conseillers des conventions concernant la coopération opérationnelle au lieu d’engagement. Les conventions pourront notamment porter sur:
 
 - a. la fixation d’objectifs communs;
 - b. la réglementation relative au comportement à adopter, à l’engagement et aux compétences requises;
 - c. la réglementation relative à la formation mutuelle sur un lieu d’engagement.
 
-<sup>3</sup> La mise en œuvre opérationnelle du recours aux services de conseillers étrangers en matière de documents détachés en Suisse ressortit aux autorités responsables du contrôle à la frontière au lieu d’engagement.
+<sup>3</sup> La mise en œuvre opérationnelle du recours aux services de conseillers étrangers en matière de documents détachés en Suisse ressortit aux autorités suisses compétentes en matière de contrôle à la frontière au lieu d’engagement.
+
+[^66-1]: Nouvelle teneur selon le ch. I de l’O du 6 mai 2026, en vigueur depuis le 12 juin 2026 ([RO 2026 240](https://fedlex.data.admin.ch/eli/oc/2026/240)).
 
 ## Section 12 Refus d’entrée et voies de droit
 
@@ -1312,6 +1388,96 @@ Il peut, d’un commun accord avec les autorités suisses responsables du contr�
 <sup>1</sup> Les voies de droit cantonales sont ouvertes en cas de décision prononcée en vertu de l’art. 39 par une autorité cantonale de migration.
 
 <sup>2</sup> Les décisions de refus, d’annulation, d’abrogation d’un visa au sens de l’art. 21, al. 1, let. c, sont rendues au nom du SEM au moyen d’un formulaire.
+
+## Section 12*a* Filtrage des étrangers aux frontières extérieures de l’espace Schengen et sur le territoire suisse
+
+[^sec12a-1]
+
+[^sec12a-1]: Introduite par le ch. I de l’O du 20 mai 2026, en vigueur depuis le 12 juin 2026 ([RO 2026 261](https://fedlex.data.admin.ch/eli/oc/2026/261)).
+
+#### Art. 68a
+
+**Informations relatives au filtrage**
+
+<sup>1</sup>
+
+Avant le début du filtrage, l’autorité compétente en matière de filtrage informe les étrangers:
+
+- a. de la finalité, de la durée et des étapes du filtrage prévu par le règlement (UE) 2024/1356[^68a-1];
+- b. des résultats possibles du filtrage;
+- c. de leur droit de déposer une demande d’asile;
+- d. de leurs droits et obligations lors du filtrage, en particulier de leur obligation de collaborer et des droits que leur confère la loi fédérale du 25 septembre 2020 sur la protection des données[^68a-2].
+
+<sup>2</sup>
+
+L’autorité compétente en matière de filtrage informe en outre les étrangers, à un stade ultérieur de la procédure:
+
+- a. des conditions d’entrée et de séjour, en particulier des conditions d’entrée prévues par le règlement (UE) 2016/399[^68a-3], si ces informations ne leur ont pas déjà été communiquées précédemment;
+- b. au besoin, de l’accès aux programmes d’aide au retour et à la réintégration prévus à l’art. 60 LEI.
+
+<sup>3</sup> Les informations visées aux al. 1 et 2 sont communiquées sur papier ou sous forme électronique, dans une langue comprise par la personne concernée ou supposée compréhensible pour elle. Si nécessaire, il y a lieu d’avoir recours à un interprète. Les étrangers mineurs sont informés d’une manière adaptée à leur âge; au moins un parent, un membre adulte de la famille ou une autre personne de confiance est impliqué dans cette démarche.
+
+<sup>4</sup> Le SEM met à la disposition des autorités compétentes en matière de filtrage les documents nécessaires pour garantir la cohérence de l’information.
+
+[^68a-1]: Cf. note de bas de page relative à l’art. 1, al. 4, let. n.
+[^68a-2]: [RS 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
+[^68a-3]: Cf. note de bas de page relative à l’art. 1, al. 4, let. m.
+
+#### Art. 68b
+
+**Attribution à un centre avant le filtrage**
+
+Avant le filtrage, les étrangers sont attribués à un centre de la Confédération visé à l’art. 24 LAsi ou à un centre géré par un canton ou une commune en vertu de l’art. 24*d* LAsi:
+
+- a. s’ils déposent une demande d’asile lors de leur interception sur le territoire suisse, ou
+- b. s’ils déposent une demande d’asile à la frontière extérieure Schengen dans un aéroport suisse ne menant pas de procédures d’asile à l’aéroport au sens de l’art. 22 LAsi.
+
+#### Art. 68c
+
+**Clôture du filtrage**
+
+<sup>1</sup>
+
+Le filtrage est réputé terminé lorsque:
+
+- a. toutes les étapes du filtrage prévues à l’art. 9*b*, al. 2, LEI, à l’art. 9*c*, al. 2, LEI, à l’art. 21*a*, al. 4, de la loi du 26 juin 1998 sur l’asile (LAsi)[^68c-1] ou à l’art. 26, al. 1<sup>ter</sup>, LAsi ont été effectuées dans les délais prescrits;
+- b. le délai imparti a expiré avant que toutes les étapes du filtrage aient été terminées.
+
+<sup>2</sup> Les étrangers qui ne déposent pas de demande d’asile sont soumis à une procédure de renvoi au sens de l’art. 64 LEI; l’autorité compétente mène cette procédure une fois le filtrage terminé.
+
+<sup>3</sup> Les étrangers qui déposent une demande d’asile pendant le filtrage sont attribués, une fois le filtrage termineé, à un centre de la Confédération au sens de l’art. 24 LAsi ou à un centre cantonal ou communal au sens de l’art. 24*d* LAsi.
+
+[^68c-1]: [RS 142.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4878)
+
+#### Art. 68d
+
+**Formulaire de filtrage**
+
+<sup>1</sup> Une fois le filtrage terminé, l’autorité qui en était responsable complète le formulaire prévu à l’art. 17 du règlement (UE) 2024/1356[^68d-1]. Ce formulaire est mis à disposition par le SEM.
+
+<sup>2</sup> Le formulaire dûment complété ou les résultats qui y sont consignés sont communiqués à la personne concernée sur papier ou sous forme électronique. Les résultats de la consultation des systèmes d’information aux fins du contrôle de sécurité ne sont pas communiqués.
+
+<sup>3</sup> La personne concernée peut signaler que des indications inexactes figurent dans le formulaire. L’autorité compétente l’indique dans le formulaire complété. Cette mesure ne doit entraîner aucun préjudice pour l’intéressé dans le cadre d’une procédure ultérieure.
+
+<sup>4</sup> L’autorité compétente transmet le formulaire complété à l’autorité responsable de la suite de la procédure.
+
+[^68d-1]: Cf. note de bas de page relative à l’art. 1, al. 4, let. n.
+
+#### Art. 68e
+
+**Constatation d’un filtrage déjà effectué**
+
+<sup>1</sup> L’autorité compétente renonce à procéder à un filtrage si la personne concernée a déjà été soumise à un filtrage par le passé.
+
+<sup>2</sup> Elle peut considérer qu’un filtrage a déjà été effectué si la personne concernée a fait l’objet d’une saisie dans le système d’information Eurodac après le 12 juin 2026.
+
+#### Art. 68f
+
+**Filtrage en cas de procédure pénale ou de procédure d’extradition**
+
+<sup>1</sup> Les étrangers en cours de procédure pénale ou de procédure d’extradition ne font pas l’objet d’un filtrage. Sont réservées les procédures pénales ouvertes sur la base de l’art. 115 LEI.
+
+<sup>2</sup> Si une procédure pénale ou une procédure d’extradition est ouverte contre une personne pendant le filtrage, celui-ci prend fin. Sont réservées les procédures pénales engagées sur la base de l’art. 115 LEI. Le motif pour lequel le filtrage a pris fin est consigné dans le formulaire visé à l’art. 68*d*.
 
 ## Section 13 Dispositions finales
 

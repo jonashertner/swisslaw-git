@@ -4,11 +4,11 @@ title: Verordnung vom 15. August 2018 über die Einreise und die Visumerteilung 
 short: VEV
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/493"
 language: de
-version: 2026-04-08
+version: 2026-06-12
 adopted: 2018-08-15
 in_force: 2018-09-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/493/20260408/de/xml/fedlex-data-admin-ch-eli-cc-2018-493-20260408-de-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/493/20260408/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/493/20260612/de/xml/fedlex-data-admin-ch-eli-cc-2018-493-20260612-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/493/20260612/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/493/20260408/de"
 
 (VEV)
 
-vom 15. August 2018 (Stand am 8. April 2026)
+vom 15. August 2018 (Stand am 12. Juni 2026)
 
 Der Schweizerische Bundesrat,
 
@@ -34,7 +34,7 @@ verordnet:
 
 **Gegenstand und Geltungsbereich**
 
-<sup>1</sup> Diese Verordnung regelt die Einreise in die Schweiz, den Flughafentransit sowie die Visumerteilung an Ausländerinnen und Ausländer.
+<sup>1</sup> Diese Verordnung regelt die Einreise in die Schweiz, den Flughafentransit, die Visumerteilung an Ausländerinnen und Ausländer sowie das Überprüfungsverfahren bei illegalem Aufenthalt oder irregulärem Überschreiten der Schengen-Aussengrenzen.[^1-1]
 
 <sup>2</sup> Sie gilt, soweit die Schengen-Assoziierungsabkommen (SAA) keine abweichenden Bestimmungen enthalten.
 
@@ -42,60 +42,61 @@ verordnet:
 
 <sup>4</sup>
 
-Die Verordnung regelt auch die Kompetenz zum Abschluss völkerrechtlicher Verträge von beschränkter Tragweite in Verbindung mit den folgenden EU-Rechtsakten:[^1-1]
+Die Verordnung regelt auch die Kompetenz zum Abschluss völkerrechtlicher Verträge von beschränkter Tragweite in Verbindung mit den folgenden EU-Rechtsakten:[^1-2]
 
-- a. Verordnung (EU) Nr. 514/2014[^1-2];
-- b. Verordnung (EU) Nr. 515/2014[^1-3];
-- b<sup>bis</sup>.[^1-4] Verordnung (EU) 2017/2226[^1-5];
-- b<sup>ter</sup>.[^1-6] Verordnung (EU) 2018/1240[^1-7];
-- c.[^1-8] Verordnung (EG) Nr. 810/2009[^1-9] (Visakodex);
-- d.[^1-10] Verordnung (EU) 2019/817[^1-11];
-- e.[^1-12] Verordnung (EU) 2019/818[^1-13];
-- f.[^1-14] Verordnung (EG) Nr. 1683/95[^1-15];
-- g.[^1-16] Verordnung (EG) Nr. 1030/2002[^1-17];
-- h.[^1-18] Verordnung (EG) Nr. 767/2008[^1-19];
-- i.[^1-20] Verordnung (EU) 2021/1148[^1-21];
-- j.[^1-22] Verordnung (EU) 2021/1060[^1-23];
-- k.[^1-24] Beschluss Nr. 1105/2011/EU[^1-25];
-- l.[^1-26] Verordnung (EG) Nr. 694/2003[^1-27];
-- m.[^1-28] Verordnung (EU) 2016/399[^1-29];
-- n.[^1-30] Verordnung (EU) 2024/1356[^1-31];
-- o.[^1-32] Verordnung (EU) 2025/12[^1-33].[^1-34]
+- a. Verordnung (EU) Nr. 514/2014[^1-3];
+- b. Verordnung (EU) Nr. 515/2014[^1-4];
+- b<sup>bis</sup>.[^1-5] Verordnung (EU) 2017/2226[^1-6];
+- b<sup>ter</sup>.[^1-7] Verordnung (EU) 2018/1240[^1-8];
+- c.[^1-9] Verordnung (EG) Nr. 810/2009[^1-10] (Visakodex);
+- d.[^1-11] Verordnung (EU) 2019/817[^1-12];
+- e.[^1-13] Verordnung (EU) 2019/818[^1-14];
+- f.[^1-15] Verordnung (EG) Nr. 1683/95[^1-16];
+- g.[^1-17] Verordnung (EG) Nr. 1030/2002[^1-18];
+- h.[^1-19] Verordnung (EG) Nr. 767/2008[^1-20];
+- i.[^1-21] Verordnung (EU) 2021/1148[^1-22];
+- j.[^1-23] Verordnung (EU) 2021/1060[^1-24];
+- k.[^1-25] Beschluss Nr. 1105/2011/EU[^1-26];
+- l.[^1-27] Verordnung (EG) Nr. 694/2003[^1-28];
+- m.[^1-29] Verordnung (EU) 2016/399[^1-30];
+- n.[^1-31] Verordnung (EU) 2024/1356[^1-32];
+- o.[^1-33] Verordnung (EU) 2025/12[^1-34].[^1-35]
 
-[^1-1]: Fassung gemäss Ziff. I der V vom 15. Sept. 2023, in Kraft seit 15. Okt. 2023 ([AS 2023 549](https://fedlex.data.admin.ch/eli/oc/2023/549)).
-[^1-2]: Verordnung (EU) Nr. 514/2014 des Europäischen Parlaments und des Rates vom 16. April 2014 zur Festlegung allgemeiner Bestimmungen für den Asyl-, Migrations- und Integrationsfonds und das Instrument für die finanzielle Unterstützung der polizeilichen Zusammenarbeit, der Kriminalprävention und Kriminalitätsbekämpfung und des Krisenmanagements, Fassung gemäss ABl. L 150 vom 20.5.2014, S. 112.
-[^1-3]: Verordnung (EU) Nr. 515/2014 des Europäischen Parlaments und des Rates vom 16. April 2014 zur Schaffung eines Instruments für die finanzielle Unterstützung für Aussengrenzen und Visa im Rahmen des Fonds für die innere Sicherheit und zur Aufhebung der Entscheidung Nr. 574/2007/EG, Fassung gemäss ABl. L 150 vom 20.5.2014, S. 143.
-[^1-4]: Eingefügt durch Ziff. I der V vom 11. Aug. 2021 ([AS 2021 503](https://fedlex.data.admin.ch/eli/oc/2021/503)). Fassung gemäss Ziff. I der V vom 17. Dez. 2021, in Kraft seit 15. Jan. 2022 ([AS 2021 913](https://fedlex.data.admin.ch/eli/oc/2021/913)).
-[^1-5]: Verordnung (EU) 2017/2226 des Europäischen Parlaments und des Rates vom 30. November 2017 über ein Einreise-/Ausreisesystem (EES) zur Erfassung der Ein- und Ausreisedaten sowie der Einreiseverweigerungsdaten von Drittstaatsangehörigen an den Aussengrenzen der Mitgliedstaaten und zur Festlegung der Bedingungen für den Zugang zum EES zu Gefahrenabwehr- und Strafverfolgungszwecken und zur Änderung des zur Durchführung des Übereinkommens von Schengen sowie der Verordnungen (EG) Nr. 767/2008 und (EU) Nr. 1077/2011, ABl. L 327 vom 9.12.2017, S. 20; zuletzt geändert durch Verordnung (EU) 2021/1134, ABl. L 248 vom 13.7.2021, S. 11.
-[^1-6]: Eingefügt durch Ziff. I der V vom 11. Aug. 2021, in Kraft seit 15. Sept. 2021 ([AS 2021 503](https://fedlex.data.admin.ch/eli/oc/2021/503)).
-[^1-7]: Verordnung (EU) 2018/1240 des Europäischen Parlaments und des Rates vom 12. September 2018 über die Einrichtung eines Europäischen Reiseinformations- und ‑genehmigungssystems (ETIAS) und zur Änderung der Verordnungen (EU) Nr. 1077/2011, (EU) Nr. 515/2014, (EU) 2016/399, (EU) 2016/1624 und (EU) 2017/2226, ABl. L 236 vom 19.9.2018, S. 1; zuletzt geändert durch Verordnung (EU) 2021/1152, ABl. L 249 vom 14.7.2021, S. 15.
-[^1-8]: Fassung gemäss Ziff. II 1 der V vom 7. Juni 2024, in Kraft seit 11. Juni 2024 ([AS 2024 258](https://fedlex.data.admin.ch/eli/oc/2024/258)).
-[^1-9]: Verordnung (EG) Nr. 810/2009 des Europäischen Parlaments und des Rates vom 13. Juli 2009 über einen Visakodex der Gemeinschaft (Visakodex), ABl. L 243 vom 15.9.2009, S. 1; zuletzt geändert durch Verordnung (EU) 2024/1415, ABl. L, 2024/1415, 22.05.2024.
-[^1-10]: Eingefügt durch Ziff. I der V vom 13. Mai 2020 ([AS 2020 1837](https://fedlex.data.admin.ch/eli/oc/2020/372)). Fassung gemäss Ziff. I der V vom 11. Aug. 2021, in Kraft seit 15. Sept. 2021 ([AS 2021 503](https://fedlex.data.admin.ch/eli/oc/2021/503)).
-[^1-11]: Verordnung (EU) 2019/817 des Europäischen Parlaments und des Rates vom 20. Mai 2019 zur Errichtung eines Rahmens für die Interoperabilität zwischen EU-Informationssystemen in den Bereichen Grenzen und Visa und zur Änderung der Verordnungen (EG) Nr. 767/2008, (EU) 2016/399, (EU) 2017/2226, (EU) 2018/240, (EU) 2018/1726 und (EU) 2018/1861 des Europäischen Parlaments und des Rates, der Entscheidung 2004/512/EG des Rates und des Beschlusses 2008/633/JI des Rates, ABl. L 135 vom 22.5.2019, S. 27; zuletzt geändert durch Verordnung (EU) 2021/1152, ABl. L 249 vom 14.7.2021, S. 15.
-[^1-12]: Eingefügt durch Ziff. I der V vom 13. Mai 2020 ([AS 2020 1837](https://fedlex.data.admin.ch/eli/oc/2020/372)). Fassung gemäss Ziff. I der V vom 11. Aug. 2021, in Kraft seit 15. Sept. 2021 ([AS 2021 503](https://fedlex.data.admin.ch/eli/oc/2021/503)).
-[^1-13]: Verordnung (EU) 2019/818 des Europäischen Parlaments und des Rates vom 20. Mai 2019 zur Errichtung eines Rahmens für die Interoperabilität zwischen EU-Informationssystemen (polizeiliche und justizielle Zusammenarbeit, Asyl und Migration) und zur Änderung der Verordnungen (EU) 2018/1726, (EU) 2018/1862 und (EU) 2019/816, ABl. L 135 vom 22.5.2019, S. 85; zuletzt geändert durch Verordnung (EU) 2021/1150, ABl. L 249 vom 14.7.2021, S. 1.
-[^1-14]: Eingefügt durch Ziff. I der V vom 13. Mai 2020 ([AS 2020 1837](https://fedlex.data.admin.ch/eli/oc/2020/372)). Fassung gemäss Ziff. I der V vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 808](https://fedlex.data.admin.ch/eli/oc/2023/808)).
-[^1-15]: Verordnung (EG) Nr. 1683/95 des Rates vom 29. Mai 1995 über eine einheitliche Visagestaltung, ABl. L 164 vom 14.7.1995, S. 1; zuletzt geändert durch Verordnung (EU) 2023/2685, ABl. L, 2023/2685, 7.12.2023.
-[^1-16]: Eingefügt durch Ziff. I der V vom 13. Mai 2020, in Kraft seit 15. Juni 2020 ([AS 2020 1837](https://fedlex.data.admin.ch/eli/oc/2020/372)).
-[^1-17]: Verordnung (EG) Nr. 1030/2002 des Rates vom 13. Juni 2002 zur einheitlichen Gestaltung des Aufenthaltstitels für Drittstaatenangehörige, ABl. L 157 vom 15.6.2002, S. 1; zuletzt geändert durch Verordnung (EU) 2017/1954, ABl. L 286 vom 1.11.2017, S. 9.
-[^1-18]: Eingefügt durch Ziff. I der V vom 17. Dez. 2021 ([AS 2021 913](https://fedlex.data.admin.ch/eli/oc/2021/913)). Fassung gemäss Ziff. I der V vom 10. April 2024, in Kraft seit 15. Mai 2024 ([AS 2024 168](https://fedlex.data.admin.ch/eli/oc/2024/168)).
-[^1-19]: Verordnung (EG) Nr. 767/2008 des Europäischen Parlaments und des Rates vom 9. Juli 2008 über das Visa-Informationssystem (VIS) und den Datenaustausch zwischen den Mitgliedstaaten über Visa für einen kurzfristigen Aufenthalt (VIS-Verordnung), ABl L 218 vom 13.8.2008, S. 60; zuletzt geändert durch Verordnung (EU) 2023/2667, ABl. L, 2023/2667, 7.12.2023.
-[^1-20]: Eingefügt durch Ziff. I der V vom 17. Dez. 2021, in Kraft seit 15. Jan. 2022 ([AS 2021 913](https://fedlex.data.admin.ch/eli/oc/2021/913)).
-[^1-21]: Verordnung (EU) 2021/1148 des Europäischen Parlaments und des Rates vom 7. Juli 2021 zur Schaffung eines Instruments für finanzielle Hilfe im Bereich Grenzverwaltung und Visumpolitik im Rahmen des Fonds für integrierte Grenzverwaltung, ABl. L 251 vom 15.7.2021, S. 48.
-[^1-22]: Eingefügt durch Ziff. I der V vom 17. Dez. 2021, in Kraft seit 15. Jan. 2022 ([AS 2021 913](https://fedlex.data.admin.ch/eli/oc/2021/913)).
-[^1-23]: Verordnung (EU) 2021/1060 des Europäischen Parlaments und des Rates vom 24. Juni 2021 mit gemeinsamen Bestimmungen für den Europäischen Fonds für regionale Entwicklung, den Europäischen Sozialfonds Plus, den Kohäsionsfonds, den Fonds für einen gerechten Übergang und den Europäischen Meeres-, Fischerei- und Aquakulturfonds sowie mit Haushaltsvorschriften für diese Fonds und für den Asyl-, Migrations- und Integrationsfonds, den Fonds für die innere Sicherheit und das Instrument für finanzielle Hilfe im Bereich Grenzverwaltung und Visumpolitik, ABl. L 231 vom 30.6.2021, S. 159.
-[^1-24]: Eingefügt durch Ziff. I der V vom 15. Sept. 2023, in Kraft seit 15. Okt. 2023 ([AS 2023 549](https://fedlex.data.admin.ch/eli/oc/2023/549)).
-[^1-25]: Beschluss Nr. 1105/2011/EU des Europäischen Parlaments und des Rates vom 25. Oktober 2011 über die Liste der visierfähigen Reisedokumente, die den Inhaber zum Überschreiten der Aussengrenzen berechtigen, und über die Schaffung eines Verfahrens zur Aufstellung dieser Liste, ABl. L 287 vom 4.11.2011, S. 9.
-[^1-26]: Eingefügt durch Ziff. I der V vom 10. April 2024, in Kraft seit 15. Mai 2024 ([AS 2024 168](https://fedlex.data.admin.ch/eli/oc/2024/168)).
-[^1-27]: Verordnung (EG) Nr. 694/2003 des Rates vom 14. April 2003 über einheitliche Formate von Dokumenten für den erleichterten Transit (FTD) und Dokumenten für den erleichterten Transit im Eisenbahnverkehr (FRTD) gemäss der Verordnung (EG) Nr. 693/2003, ABl. L 99 vom 17. April 2003, S. 15; zuletzt geändert durch Verordnung (EU) 2023/2667, ABl. L, 2023/2667, 7.12.2023.
-[^1-28]: Eingefügt durch Ziff. I der V vom 26. Juni 2024, in Kraft seit 1. Aug. 2024 ([AS 2024 345](https://fedlex.data.admin.ch/eli/oc/2024/345)).
-[^1-29]: Verordnung (EU) 2016/399 des Europäischen Parlaments und des Rates vom 9. März 2016 über einen Gemeinschaftskodex für das Überschreiten der Grenzen durch Personen (Schengener Grenzkodex), ABl. L 77 vom 23.3.2016, S. 1; zuletzt geändert durch Verordnung (EU) 2024/1717, ABl. L, 2024/1717, 20.06.2024.
-[^1-30]: Eingefügt durch Ziff. I der V vom 26. Febr. 2025, in Kraft seit 1. April 2025 ([AS 2025 163](https://fedlex.data.admin.ch/eli/oc/2025/163)).
-[^1-31]: Verordnung (EU) 2024/1356 des Europäischen Parlaments und des Rates vom 14. Mai 2024 zur Einführung der Überprüfung von Drittstaatsangehörigen an den Aussengrenzen und zur Änderung der Verordnungen (EG) Nr. 767/2008, (EU) 2017/2226, (EU) 2018/1240 und (EU) 2019/817, Fassung gemäss ABl. L, 2024/1356, 22.5.2024.
-[^1-32]: Eingefügt durch Ziff. I der V vom 20. Juni 2025, in Kraft seit 1. Aug. 2025 ([AS 2025 431](https://fedlex.data.admin.ch/eli/oc/2025/431)).
-[^1-33]: Verordnung (EU) 2025/12 des Europäischen Parlaments und des Rates vom 19. Dezember 2024 über die Erhebung und Übermittlung vorab übermittelter Fluggastdaten zur Verbesserung und Erleichterung der Kontrollen an den Aussengrenzen, zur Änderung der Verordnungen (EU) 2018/1726 und (EU) 2019/817 sowie zur Aufhebung der Richtlinie 2004/82/EG des Rates, Fassung gemäss ABl. L, 2025/12, 8.1.2025.
-[^1-34]: Fassung gemäss Ziff. I der V vom 14. Aug. 2019, in Kraft seit 2. Febr. 2020 ([AS 2019 2633](https://fedlex.data.admin.ch/eli/oc/2019/491)).
+[^1-1]: Fassung gemäss Ziff. I der V vom 20. Mai 2026, in Kraft seit 12. Juni 2026 ([AS 2026 261](https://fedlex.data.admin.ch/eli/oc/2026/261)).
+[^1-2]: Fassung gemäss Ziff. I der V vom 15. Sept. 2023, in Kraft seit 15. Okt. 2023 ([AS 2023 549](https://fedlex.data.admin.ch/eli/oc/2023/549)).
+[^1-3]: Verordnung (EU) Nr. 514/2014 des Europäischen Parlaments und des Rates vom 16. April 2014 zur Festlegung allgemeiner Bestimmungen für den Asyl-, Migrations- und Integrationsfonds und das Instrument für die finanzielle Unterstützung der polizeilichen Zusammenarbeit, der Kriminalprävention und Kriminalitätsbekämpfung und des Krisenmanagements, Fassung gemäss ABl. L 150 vom 20.5.2014, S. 112.
+[^1-4]: Verordnung (EU) Nr. 515/2014 des Europäischen Parlaments und des Rates vom 16. April 2014 zur Schaffung eines Instruments für die finanzielle Unterstützung für Aussengrenzen und Visa im Rahmen des Fonds für die innere Sicherheit und zur Aufhebung der Entscheidung Nr. 574/2007/EG, Fassung gemäss ABl. L 150 vom 20.5.2014, S. 143.
+[^1-5]: Eingefügt durch Ziff. I der V vom 11. Aug. 2021 ([AS 2021 503](https://fedlex.data.admin.ch/eli/oc/2021/503)). Fassung gemäss Ziff. I der V vom 17. Dez. 2021, in Kraft seit 15. Jan. 2022 ([AS 2021 913](https://fedlex.data.admin.ch/eli/oc/2021/913)).
+[^1-6]: Verordnung (EU) 2017/2226 des Europäischen Parlaments und des Rates vom 30. November 2017 über ein Einreise-/Ausreisesystem (EES) zur Erfassung der Ein- und Ausreisedaten sowie der Einreiseverweigerungsdaten von Drittstaatsangehörigen an den Aussengrenzen der Mitgliedstaaten und zur Festlegung der Bedingungen für den Zugang zum EES zu Gefahrenabwehr- und Strafverfolgungszwecken und zur Änderung des zur Durchführung des Übereinkommens von Schengen sowie der Verordnungen (EG) Nr. 767/2008 und (EU) Nr. 1077/2011, ABl. L 327 vom 9.12.2017, S. 20; zuletzt geändert durch Verordnung (EU) 2021/1134, ABl. L 248 vom 13.7.2021, S. 11.
+[^1-7]: Eingefügt durch Ziff. I der V vom 11. Aug. 2021, in Kraft seit 15. Sept. 2021 ([AS 2021 503](https://fedlex.data.admin.ch/eli/oc/2021/503)).
+[^1-8]: Verordnung (EU) 2018/1240 des Europäischen Parlaments und des Rates vom 12. September 2018 über die Einrichtung eines Europäischen Reiseinformations- und ‑genehmigungssystems (ETIAS) und zur Änderung der Verordnungen (EU) Nr. 1077/2011, (EU) Nr. 515/2014, (EU) 2016/399, (EU) 2016/1624 und (EU) 2017/2226, ABl. L 236 vom 19.9.2018, S. 1; zuletzt geändert durch Verordnung (EU) 2021/1152, ABl. L 249 vom 14.7.2021, S. 15.
+[^1-9]: Fassung gemäss Ziff. II 1 der V vom 7. Juni 2024, in Kraft seit 11. Juni 2024 ([AS 2024 258](https://fedlex.data.admin.ch/eli/oc/2024/258)).
+[^1-10]: Verordnung (EG) Nr. 810/2009 des Europäischen Parlaments und des Rates vom 13. Juli 2009 über einen Visakodex der Gemeinschaft (Visakodex), ABl. L 243 vom 15.9.2009, S. 1; zuletzt geändert durch Verordnung (EU) 2024/1415, ABl. L, 2024/1415, 22.05.2024.
+[^1-11]: Eingefügt durch Ziff. I der V vom 13. Mai 2020 ([AS 2020 1837](https://fedlex.data.admin.ch/eli/oc/2020/372)). Fassung gemäss Ziff. I der V vom 11. Aug. 2021, in Kraft seit 15. Sept. 2021 ([AS 2021 503](https://fedlex.data.admin.ch/eli/oc/2021/503)).
+[^1-12]: Verordnung (EU) 2019/817 des Europäischen Parlaments und des Rates vom 20. Mai 2019 zur Errichtung eines Rahmens für die Interoperabilität zwischen EU-Informationssystemen in den Bereichen Grenzen und Visa und zur Änderung der Verordnungen (EG) Nr. 767/2008, (EU) 2016/399, (EU) 2017/2226, (EU) 2018/240, (EU) 2018/1726 und (EU) 2018/1861 des Europäischen Parlaments und des Rates, der Entscheidung 2004/512/EG des Rates und des Beschlusses 2008/633/JI des Rates, ABl. L 135 vom 22.5.2019, S. 27; zuletzt geändert durch Verordnung (EU) 2021/1152, ABl. L 249 vom 14.7.2021, S. 15.
+[^1-13]: Eingefügt durch Ziff. I der V vom 13. Mai 2020 ([AS 2020 1837](https://fedlex.data.admin.ch/eli/oc/2020/372)). Fassung gemäss Ziff. I der V vom 11. Aug. 2021, in Kraft seit 15. Sept. 2021 ([AS 2021 503](https://fedlex.data.admin.ch/eli/oc/2021/503)).
+[^1-14]: Verordnung (EU) 2019/818 des Europäischen Parlaments und des Rates vom 20. Mai 2019 zur Errichtung eines Rahmens für die Interoperabilität zwischen EU-Informationssystemen (polizeiliche und justizielle Zusammenarbeit, Asyl und Migration) und zur Änderung der Verordnungen (EU) 2018/1726, (EU) 2018/1862 und (EU) 2019/816, ABl. L 135 vom 22.5.2019, S. 85; zuletzt geändert durch Verordnung (EU) 2021/1150, ABl. L 249 vom 14.7.2021, S. 1.
+[^1-15]: Eingefügt durch Ziff. I der V vom 13. Mai 2020 ([AS 2020 1837](https://fedlex.data.admin.ch/eli/oc/2020/372)). Fassung gemäss Ziff. I der V vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 808](https://fedlex.data.admin.ch/eli/oc/2023/808)).
+[^1-16]: Verordnung (EG) Nr. 1683/95 des Rates vom 29. Mai 1995 über eine einheitliche Visagestaltung, ABl. L 164 vom 14.7.1995, S. 1; zuletzt geändert durch Verordnung (EU) 2023/2685, ABl. L, 2023/2685, 7.12.2023.
+[^1-17]: Eingefügt durch Ziff. I der V vom 13. Mai 2020, in Kraft seit 15. Juni 2020 ([AS 2020 1837](https://fedlex.data.admin.ch/eli/oc/2020/372)).
+[^1-18]: Verordnung (EG) Nr. 1030/2002 des Rates vom 13. Juni 2002 zur einheitlichen Gestaltung des Aufenthaltstitels für Drittstaatenangehörige, ABl. L 157 vom 15.6.2002, S. 1; zuletzt geändert durch Verordnung (EU) 2017/1954, ABl. L 286 vom 1.11.2017, S. 9.
+[^1-19]: Eingefügt durch Ziff. I der V vom 17. Dez. 2021 ([AS 2021 913](https://fedlex.data.admin.ch/eli/oc/2021/913)). Fassung gemäss Ziff. I der V vom 10. April 2024, in Kraft seit 15. Mai 2024 ([AS 2024 168](https://fedlex.data.admin.ch/eli/oc/2024/168)).
+[^1-20]: Verordnung (EG) Nr. 767/2008 des Europäischen Parlaments und des Rates vom 9. Juli 2008 über das Visa-Informationssystem (VIS) und den Datenaustausch zwischen den Mitgliedstaaten über Visa für einen kurzfristigen Aufenthalt (VIS-Verordnung), ABl L 218 vom 13.8.2008, S. 60; zuletzt geändert durch Verordnung (EU) 2023/2667, ABl. L, 2023/2667, 7.12.2023.
+[^1-21]: Eingefügt durch Ziff. I der V vom 17. Dez. 2021, in Kraft seit 15. Jan. 2022 ([AS 2021 913](https://fedlex.data.admin.ch/eli/oc/2021/913)).
+[^1-22]: Verordnung (EU) 2021/1148 des Europäischen Parlaments und des Rates vom 7. Juli 2021 zur Schaffung eines Instruments für finanzielle Hilfe im Bereich Grenzverwaltung und Visumpolitik im Rahmen des Fonds für integrierte Grenzverwaltung, ABl. L 251 vom 15.7.2021, S. 48.
+[^1-23]: Eingefügt durch Ziff. I der V vom 17. Dez. 2021, in Kraft seit 15. Jan. 2022 ([AS 2021 913](https://fedlex.data.admin.ch/eli/oc/2021/913)).
+[^1-24]: Verordnung (EU) 2021/1060 des Europäischen Parlaments und des Rates vom 24. Juni 2021 mit gemeinsamen Bestimmungen für den Europäischen Fonds für regionale Entwicklung, den Europäischen Sozialfonds Plus, den Kohäsionsfonds, den Fonds für einen gerechten Übergang und den Europäischen Meeres-, Fischerei- und Aquakulturfonds sowie mit Haushaltsvorschriften für diese Fonds und für den Asyl-, Migrations- und Integrationsfonds, den Fonds für die innere Sicherheit und das Instrument für finanzielle Hilfe im Bereich Grenzverwaltung und Visumpolitik, ABl. L 231 vom 30.6.2021, S. 159.
+[^1-25]: Eingefügt durch Ziff. I der V vom 15. Sept. 2023, in Kraft seit 15. Okt. 2023 ([AS 2023 549](https://fedlex.data.admin.ch/eli/oc/2023/549)).
+[^1-26]: Beschluss Nr. 1105/2011/EU des Europäischen Parlaments und des Rates vom 25. Oktober 2011 über die Liste der visierfähigen Reisedokumente, die den Inhaber zum Überschreiten der Aussengrenzen berechtigen, und über die Schaffung eines Verfahrens zur Aufstellung dieser Liste, ABl. L 287 vom 4.11.2011, S. 9.
+[^1-27]: Eingefügt durch Ziff. I der V vom 10. April 2024, in Kraft seit 15. Mai 2024 ([AS 2024 168](https://fedlex.data.admin.ch/eli/oc/2024/168)).
+[^1-28]: Verordnung (EG) Nr. 694/2003 des Rates vom 14. April 2003 über einheitliche Formate von Dokumenten für den erleichterten Transit (FTD) und Dokumenten für den erleichterten Transit im Eisenbahnverkehr (FRTD) gemäss der Verordnung (EG) Nr. 693/2003, ABl. L 99 vom 17. April 2003, S. 15; zuletzt geändert durch Verordnung (EU) 2023/2667, ABl. L, 2023/2667, 7.12.2023.
+[^1-29]: Eingefügt durch Ziff. I der V vom 26. Juni 2024, in Kraft seit 1. Aug. 2024 ([AS 2024 345](https://fedlex.data.admin.ch/eli/oc/2024/345)).
+[^1-30]: Verordnung (EU) 2016/399 des Europäischen Parlaments und des Rates vom 9. März 2016 über einen Gemeinschaftskodex für das Überschreiten der Grenzen durch Personen (Schengener Grenzkodex), ABl. L 77 vom 23.3.2016, S. 1; zuletzt geändert durch Verordnung (EU) 2024/1717, ABl. L, 2024/1717, 20.06.2024.
+[^1-31]: Eingefügt durch Ziff. I der V vom 26. Febr. 2025, in Kraft seit 1. April 2025 ([AS 2025 163](https://fedlex.data.admin.ch/eli/oc/2025/163)).
+[^1-32]: Verordnung (EU) 2024/1356 des Europäischen Parlaments und des Rates vom 14. Mai 2024 zur Einführung der Überprüfung von Drittstaatsangehörigen an den Aussengrenzen und zur Änderung der Verordnungen (EG) Nr. 767/2008, (EU) 2017/2226, (EU) 2018/1240 und (EU) 2019/817, Fassung gemäss ABl. L, 2024/1356, 22.5.2024.
+[^1-33]: Eingefügt durch Ziff. I der V vom 20. Juni 2025, in Kraft seit 1. Aug. 2025 ([AS 2025 431](https://fedlex.data.admin.ch/eli/oc/2025/431)).
+[^1-34]: Verordnung (EU) 2025/12 des Europäischen Parlaments und des Rates vom 19. Dezember 2024 über die Erhebung und Übermittlung vorab übermittelter Fluggastdaten zur Verbesserung und Erleichterung der Kontrollen an den Aussengrenzen, zur Änderung der Verordnungen (EU) 2018/1726 und (EU) 2019/817 sowie zur Aufhebung der Richtlinie 2004/82/EG des Rates, Fassung gemäss ABl. L, 2025/12, 8.1.2025.
+[^1-35]: Fassung gemäss Ziff. I der V vom 14. Aug. 2019, in Kraft seit 2. Febr. 2020 ([AS 2019 2633](https://fedlex.data.admin.ch/eli/oc/2019/491)).
 
 #### Art. 2
 
@@ -121,13 +122,15 @@ In dieser Verordnung bedeuten:
   - 2\. *räumlich beschränkt**:* nur für die Durchreise durch die internationalen Transitzonen der Flughäfen eines oder mehrerer Schengen-Staaten gültig;
 
 - f.[^2-4] *Visum für einen längerfristigen Aufenthalt (nationales Visum, Typ D):* Dokument in Form einer Vignette oder in elektronischem Format, das von einem Schengen-Staat ausgestellt wird und bescheinigt, dass die Inhaberin oder der Inhaber die Voraussetzungen für einen längerfristigen Aufenthalt erfüllt;
-- g.[^2-5] *Drittstaatsangehörige oder Drittstaatsangehöriger:* Angehörige oder Angehöriger eines Staates, der weder Mitgliedstaat der Europäischen Union (EU) noch der Europäischen Freihandelsassoziation (EFTA) ist.
+- g.[^2-5] *Drittstaatsangehörige oder Drittstaatsangehöriger:* Angehörige oder Angehöriger eines Staates, der weder Mitgliedstaat der Europäischen Union (EU) noch der Europäischen Freihandelsassoziation (EFTA) ist;
+- h.[^2-6] *Grenzüberschreitende Regionen*: alle Kantone entlang der Landesgrenze der Schweiz zuzüglich der Kantone Appenzell Ausserrhoden und Appenzell Innerrhoden.
 
 [^2-1]: Diese Abkommen sind in Anhang 1 aufgeführt.
 [^2-2]: Fassung gemäss Ziff. I der V vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 808](https://fedlex.data.admin.ch/eli/oc/2023/808)).
 [^2-3]: Fassung gemäss Ziff. I der V vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 808](https://fedlex.data.admin.ch/eli/oc/2023/808)).
 [^2-4]: Fassung gemäss Ziff. I der V vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 808](https://fedlex.data.admin.ch/eli/oc/2023/808)).
 [^2-5]: Eingefügt durch Ziff. I der V vom 10. Nov. 2021, in Kraft seit 1. Mai 2022 ([AS 2021 733](https://fedlex.data.admin.ch/eli/oc/2021/733)).
+[^2-6]: Eingefügt durch Ziff. I der V vom 6. Mai 2026, in Kraft seit 12. Juni 2026 ([AS 2026 240](https://fedlex.data.admin.ch/eli/oc/2026/240)).
 
 ## 2. Abschnitt: Bestimmungen zur Einreise in die Schweiz und zum Flughafentransit
 
@@ -157,8 +160,8 @@ Das Eidgenössische Departement für auswärtige Angelegenheiten (EDA) und das S
 
 <sup>5</sup> Für Personen, die der Visumpflicht unterstehen und denen nach Absatz 4 die Einreise bewilligt wurde, wird ein Visum mit räumlich beschränkter Gültigkeit für die Schweiz ausgestellt.
 
-[^3-1]: Verordnung (EU) 2016/399 des Europäischen Parlaments und des Rates vom 9. März 2016 über einen Gemeinschaftskodex für das Überschreiten der Grenzen durch Personen (Schengener Grenzkodex), ABl. L 77 vom 23.3.2016, S. 1; zuletzt geändert durch Verordnung (EU) 2017/458, ABl. L 74 vom 18.3.2017, S. 1.
-[^3-2]: Fassung gemäss Ziff. I der V vom 26. Juni 2024, in Kraft seit 1. Aug. 2024 ([AS 2024 345](https://fedlex.data.admin.ch/eli/oc/2024/345)).
+[^3-1]: Siehe Fussnote zu Art. 1 Abs. 4 Bst. m.
+[^3-2]: Fassung gemäss Ziff. I der V vom 6. Mai 2026, in Kraft seit 12. Juni 2026 ([AS 2026 240](https://fedlex.data.admin.ch/eli/oc/2026/240)).
 [^3-3]: Siehe Fussnote zu Art. 1 Abs. 4 Bst. c.
 
 #### Art. 4
@@ -167,14 +170,15 @@ Das Eidgenössische Departement für auswärtige Angelegenheiten (EDA) und das S
 
 <sup>1</sup>
 
-Für einen längerfristigen Aufenthalt müssen Ausländerinnen und Ausländer neben den Voraussetzungen nach Artikel 6 Absatz 1 Buchstaben a, d und e des Schengener Grenzkodex[^4-1] zusätzlich folgende Einreisevoraussetzungen erfüllen:
+Für einen längerfristigen Aufenthalt müssen Ausländerinnen und Ausländer neben den Voraussetzungen nach Artikel 6 Absatz 1 Buchstaben a, d und e des Schengener Grenzkodex[^4-1] zusätzlich folgende Einreisevoraussetzungen erfüllen:[^4-2]
 
 - a. Sie müssen, sofern erforderlich, über ein Visum für einen längerfristigen Aufenthalt nach Artikel 9 verfügen.
 - b. Sie müssen die ausländerrechtlichen Zulassungsvoraussetzungen für den beabsichtigten Aufenthaltszweck erfüllen.
 
 <sup>2</sup> Ausländerinnen und Ausländern, die die Voraussetzungen von Absatz 1 nicht erfüllen, kann in begründeten Fällen aus humanitären Gründen die Einreise in die Schweiz für einen längerfristigen Aufenthalt bewilligt werden. Ein solcher Fall liegt insbesondere dann vor, wenn die betreffende Person im Herkunftsstaat unmittelbar, ernsthaft und konkret an Leib und Leben gefährdet ist.
 
-[^4-1]: Siehe Fussnote zu Art. 1 Abs. 4 Bst. c.
+[^4-1]: Siehe Fussnote zu Art. 1 Abs. 4 Bst. m.
+[^4-2]: Fassung gemäss Ziff. I der V vom 6. Mai 2026, in Kraft seit 12. Juni 2026 ([AS 2026 240](https://fedlex.data.admin.ch/eli/oc/2026/240)).
 
 #### Art. 5
 
@@ -249,16 +253,16 @@ Das SEM kann in begründeten Fällen Ausnahmen von der Reisedokumentenpflicht be
 
 In Abweichung von Absatz 1 sind folgende Personen von der Visumpflicht für kurzfristige Aufenthalte befreit:
 
-- a. Inhaberinnen und Inhaber eines anerkannten und gültigen Reisedokuments sowie eines Visums für einen längerfristigen Aufenthalt oder eines gültigen Aufenthaltstitels, der von einem Schengen-Staat ausgestellt wurde (Art. 6 Abs. 1 Bst. b und 39 Abs. 1 Bst. a des Schengener Grenzkodex[^8-3]);
+- a.[^8-3] Inhaberinnen und Inhaber eines anerkannten und gültigen Reisedokuments sowie eines Visums für einen längerfristigen Aufenthalt oder eines gültigen Aufenthaltstitels, der von einem Schengen-Staat ausgestellt wurde (Art. 6 Abs. 1 Bst. b und 39 Abs. 1 Bst. a des Schengener Grenzkodex[^8-4]);
 - b. Inhaberinnen und Inhaber eines gültigen Diplomaten-, Dienst-, Spezial- oder offiziellen Passes von Bolivien, Marokko sowie von anderen Staaten, mit denen entsprechende bilaterale oder multilaterale Abkommen bestehen;
 - c. Pilotinnen und Piloten von Luftfahrzeugen und anderes Flugbesatzungspersonal nach Anhang VII Ziffer 2 des Schengener Grenzkodex;
 - d. Inhaberinnen und Inhaber von gültigen Laissez-passer der Vereinten Nationen;
-- e. Schülerinnen und Schüler von Nichtmitgliedstaaten der Europäischen Union (EU) und der Europäischen Freihandelsassoziation (EFTA) mit Wohnsitz in einem EU- oder EFTA-Mitgliedstaat, sofern ihr Name auf einer Schülerliste steht, die von der zuständigen Behörde des betreffenden Staats nach dem Beschluss 94/795/JI[^8-4] ausgestellt beziehungsweise beglaubigt wurde;
-- f.[^8-5] Inhaberinnen und Inhaber eines gültigen Reiseausweises für Flüchtlinge, der von einem EU- oder EFTA-Mitgliedstaat oder vom Vereinigten Königreich nach dem Abkommen vom 15. Oktober 1946[^8-6] über die Abgabe eines Reiseausweises an Flüchtlinge, die unter dem Schutze des Intergouvernementalen Komitees für die Flüchtlinge stehen, oder nach dem Abkommen vom 28. Juli 1951[^8-7] über die Rechtsstellung der Flüchtlinge ausgestellt wurde, sofern sie sich in diesem Staat aufhalten;
-- g.[^8-8] Inhaberinnen und Inhaber eines gültigen Reiseausweises für Staatenlose, der von einem EU- oder EFTA-Mitgliedstaat oder vom Vereinigten Königreich nach dem Übereinkommen vom 28. September 1954[^8-9] über die Rechtsstellung der Staatenlosen ausgestellt wurde, sofern sie sich in diesem Staat aufhalten;
-- h.[^8-10] Angehörige von Streitkräften, die im Rahmen der Nordatlantikvertrags-Organisation (NATO) oder der Partnerschaft für den Frieden reisen und Inhaberinnen oder Inhaber der Ausweispapiere und Einsatzbefehle sind, die im NATO-Truppenstatut vom 19. Juni 1951[^8-11] vorgesehen sind.
+- e. Schülerinnen und Schüler von Nichtmitgliedstaaten der Europäischen Union (EU) und der Europäischen Freihandelsassoziation (EFTA) mit Wohnsitz in einem EU- oder EFTA-Mitgliedstaat, sofern ihr Name auf einer Schülerliste steht, die von der zuständigen Behörde des betreffenden Staats nach dem Beschluss 94/795/JI[^8-5] ausgestellt beziehungsweise beglaubigt wurde;
+- f.[^8-6] Inhaberinnen und Inhaber eines gültigen Reiseausweises für Flüchtlinge, der von einem EU- oder EFTA-Mitgliedstaat oder vom Vereinigten Königreich nach dem Abkommen vom 15. Oktober 1946[^8-7] über die Abgabe eines Reiseausweises an Flüchtlinge, die unter dem Schutze des Intergouvernementalen Komitees für die Flüchtlinge stehen, oder nach dem Abkommen vom 28. Juli 1951[^8-8] über die Rechtsstellung der Flüchtlinge ausgestellt wurde, sofern sie sich in diesem Staat aufhalten;
+- g.[^8-9] Inhaberinnen und Inhaber eines gültigen Reiseausweises für Staatenlose, der von einem EU- oder EFTA-Mitgliedstaat oder vom Vereinigten Königreich nach dem Übereinkommen vom 28. September 1954[^8-10] über die Rechtsstellung der Staatenlosen ausgestellt wurde, sofern sie sich in diesem Staat aufhalten;
+- h.[^8-11] Angehörige von Streitkräften, die im Rahmen der Nordatlantikvertrags-Organisation (NATO) oder der Partnerschaft für den Frieden reisen und Inhaberinnen oder Inhaber der Ausweispapiere und Einsatzbefehle sind, die im NATO-Truppenstatut vom 19. Juni 1951[^8-12] vorgesehen sind.
 
-<sup>3</sup> Angehörige von Staaten und anderen Gebietskörperschaften, die in Anhang II der Verordnung (EU) 2018/1806 aufgeführt sind, unterstehen nicht der Visumpflicht für kurzfristige Aufenthalte. Vorbehalten bleiben die Durchführungsrechtsakte und delegierten Rechtsakte der Europäischen Kommission zur vorübergehenden Aussetzung der Befreiung von der Visumpflicht für den kurzfristigen Aufenthalt, die gestützt auf die Verordnung (EU) 2018/1806 erlassen wurden. Diese sind in Anhang 5 aufgeführt.[^8-12]
+<sup>3</sup> Angehörige von Staaten und anderen Gebietskörperschaften, die in Anhang II der Verordnung (EU) 2018/1806 aufgeführt sind, unterstehen nicht der Visumpflicht für kurzfristige Aufenthalte. Vorbehalten bleiben die Durchführungsrechtsakte und delegierten Rechtsakte der Europäischen Kommission zur vorübergehenden Aussetzung der Befreiung von der Visumpflicht für den kurzfristigen Aufenthalt, die gestützt auf die Verordnung (EU) 2018/1806 erlassen wurden. Diese sind in Anhang 5 aufgeführt.[^8-13]
 
 <sup>4</sup>
 
@@ -268,21 +272,22 @@ In Abweichung von Absatz 3 gelten bei Aufenthalten mit Erwerbstätigkeit folgend
 - b. Angehörige der in Anhang 3 aufgeführten Staaten und Gebietskörperschaften unterstehen der Visumpflicht für kurzfristige Aufenthalte, sofern die Erwerbstätigkeit länger als acht Tage innerhalb eines Kalenderjahres ausgeübt wird; üben diese Personen eine Tätigkeit im Bauhaupt- oder Baunebengewerbe, im Gastgewerbe, im Reinigungsgewerbe in Betrieben oder Haushalten, im Überwachungs- und Sicherheitsdienst, im Reisendengewerbe, im Erotikgewerbe oder im Garten- und Landschaftsbau aus, so unterstehen sie ab dem ersten Tag der Visumpflicht.
 - c. Britische Bürgerinnen und Bürger, die nicht Staatsangehörige des Vereinigten Königreichs Grossbritannien und Nordirland sind (British Nationals Overseas, British Overseas Territories Citizens, British Overseas Citizens, British Subjects sowie British Protected Persons), unterstehen der Visumpflicht für kurzfristige Aufenthalte, sofern die Erwerbstätigkeit länger als acht Tage innerhalb eines Kalenderjahres ausgeübt wird; üben diese Personen eine Tätigkeit im Bauhaupt- oder Baunebengewerbe, im Gastgewerbe, im Reinigungsgewerbe in Betrieben oder Haushalten, im Überwachungs- und Sicherheitsdienst, im Reisendengewerbe, im Erotikgewerbe oder im Garten- und Landschaftsbau aus, so unterstehen sie ab dem ersten Tag der Visumpflicht.
 
-<sup>5</sup> Das Eidgenössische Justiz- und Polizeidepartement (EJPD) passt Anhang 3 an, sobald die Schweiz über den Abschluss eines Abkommens zwischen der EU und einem der in Anhang II der Verordnung (EU) 2018/1806 genannten Staaten oder einer der dort genannten Gebietskörperschaften zur Aufhebung der Visumpflicht informiert worden ist.[^8-13]
+<sup>5</sup> Das Eidgenössische Justiz- und Polizeidepartement (EJPD) passt Anhang 3 an, sobald die Schweiz über den Abschluss eines Abkommens zwischen der EU und einem der in Anhang II der Verordnung (EU) 2018/1806 genannten Staaten oder einer der dort genannten Gebietskörperschaften zur Aufhebung der Visumpflicht informiert worden ist.[^8-14]
 
 [^8-1]: Verordnung (EU) 2018/1806 des Europäischen Parlaments und des Rates vom 14. November 2018 zur Aufstellung der Liste der Drittländer, deren Staatsangehörige beim Überschreiten der Aussengrenzen im Besitz eines Visums sein müssen, sowie der Liste der Drittländer, deren Staatsangehörige von dieser Visumpflicht befreit sind, ABl. L 303 vom 28.11.2018, S. 39; zuletzt geändert durch Verordnung (EU) 2025/2441, ABl L, 2025/2441, 10.12.2025.
 [^8-2]: Fassung gemäss Ziff. I der V vom 5. Dez. 2025, in Kraft seit 17. Dez. 2025 ([AS 2025 804](https://fedlex.data.admin.ch/eli/oc/2025/804)).
-[^8-3]: Siehe Fussnote zu Art. 3 Abs. 1.
-[^8-4]: Beschluss 94/795/JI des Rates vom 30. November 1994 über die vom Rat aufgrund von Artikel K.3 Absatz 2 Buchstabe b) des Vertrages über die Europäische Union beschlossene gemeinsame Massnahme über Reiseerleichterungen für Schüler von Drittstaaten mit Wohnsitz in einem Mitgliedstaat, Fassung gemäss ABl. L 327 vom 19.12.1994, S. 1.
-[^8-5]: Fassung gemäss Ziff. I der V vom 22. März 2019, in Kraft seit 1. Jan. 2021 ([AS 2020 6415](https://fedlex.data.admin.ch/eli/oc/2020/1052)).
-[^8-6]: [SR 0.142.37](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/438)
-[^8-7]: [SR 0.142.30](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/432)
-[^8-8]: Fassung gemäss Ziff. I der V vom 22. März 2019, in Kraft seit 1. Jan. 2021 ([AS 2020 6415](https://fedlex.data.admin.ch/eli/oc/2020/1052)).
-[^8-9]: [SR 0.142.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/460)
-[^8-10]: Eingefügt durch Ziff. I der V vom 10. Nov. 2021, in Kraft seit 1. Mai 2022 ([AS 2021 733](https://fedlex.data.admin.ch/eli/oc/2021/733)).
-[^8-11]: [SR 0.510.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1864), Anhang
-[^8-12]: Fassung gemäss Ziff. I der V vom 10. Juni 2022, in Kraft seit 10. Juni 2022 um 18 Uhr ([AS 2022 344](https://fedlex.data.admin.ch/eli/oc/2022/344)).
-[^8-13]: Fassung gemäss Ziff. I der V vom 16. Jan. 2019, in Kraft seit 15. Febr. 2019 ([AS 2019 431](https://fedlex.data.admin.ch/eli/oc/2019/75)).
+[^8-3]: Fassung gemäss Ziff. I der V vom 6. Mai 2026, in Kraft seit 12. Juni 2026 ([AS 2026 240](https://fedlex.data.admin.ch/eli/oc/2026/240)).
+[^8-4]: Siehe Fussnote zu Art. 1 Abs. 4 Bst. m.
+[^8-5]: Beschluss 94/795/JI des Rates vom 30. November 1994 über die vom Rat aufgrund von Artikel K.3 Absatz 2 Buchstabe b) des Vertrages über die Europäische Union beschlossene gemeinsame Massnahme über Reiseerleichterungen für Schüler von Drittstaaten mit Wohnsitz in einem Mitgliedstaat, Fassung gemäss ABl. L 327 vom 19.12.1994, S. 1.
+[^8-6]: Fassung gemäss Ziff. I der V vom 22. März 2019, in Kraft seit 1. Jan. 2021 ([AS 2020 6415](https://fedlex.data.admin.ch/eli/oc/2020/1052)).
+[^8-7]: [SR 0.142.37](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/438)
+[^8-8]: [SR 0.142.30](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/432)
+[^8-9]: Fassung gemäss Ziff. I der V vom 22. März 2019, in Kraft seit 1. Jan. 2021 ([AS 2020 6415](https://fedlex.data.admin.ch/eli/oc/2020/1052)).
+[^8-10]: [SR 0.142.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/460)
+[^8-11]: Eingefügt durch Ziff. I der V vom 10. Nov. 2021, in Kraft seit 1. Mai 2022 ([AS 2021 733](https://fedlex.data.admin.ch/eli/oc/2021/733)).
+[^8-12]: [SR 0.510.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1864), Anhang
+[^8-13]: Fassung gemäss Ziff. I der V vom 10. Juni 2022, in Kraft seit 10. Juni 2022 um 18 Uhr ([AS 2022 344](https://fedlex.data.admin.ch/eli/oc/2022/344)).
+[^8-14]: Fassung gemäss Ziff. I der V vom 16. Jan. 2019, in Kraft seit 15. Febr. 2019 ([AS 2019 431](https://fedlex.data.admin.ch/eli/oc/2019/75)).
 
 #### Art. 9
 
@@ -348,6 +353,39 @@ Gestützt auf Artikel 3 Absatz 5 des Visakodex sind folgende Personen von der Vi
 [^10-8]: [SR 0.748.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3110)
 [^10-9]: Eingefügt durch Ziff. I der V vom 14. Aug. 2019, in Kraft seit 2. Febr. 2020 ([AS 2019 2633](https://fedlex.data.admin.ch/eli/oc/2019/491)).
 
+## 2*a**.* Abschnitt: Einreisebeschränkungen zum Schutz der öffentlichen Gesundheit
+
+[^sec2a-1]
+
+[^sec2a-1]: Eingefügt durch Ziff. I der V vom 6. Mai 2026, in Kraft seit 12. Juni 2026 ([AS 2026 240](https://fedlex.data.admin.ch/eli/oc/2026/240)).
+
+#### Art. 10a
+
+**Ausnahmen von den Einreisebeschränkungen**
+
+### (Art. 5 Abs. 3 und Art. 65*a* AIG)
+
+<sup>1</sup> Bewilligt das SEM eine Ausnahme von den Einreisebeschränkungen nach Artikel 65*a* Absatz 2 AIG, so berechtigt dies die betroffene Person zur Einreise für einen kurzfristigen Aufenthalt in der Schweiz.
+
+<sup>2</sup>
+
+Wird die Einreise in die Schweiz nach Absatz 1 gestattet, kann die berechtigte Person zusammen mit folgenden Personen einreisen:
+
+- a. mit ihrem Ehegatten, mit der eingetragenen Partnerin oder mit dem eingetragenen Partner oder mit der Partnerin oder dem Partner, mit der sie oder er in einer Lebensgemeinschaft lebt;
+- b. mit ihren minderjährigen Kindern; oder
+- c. mit einer Betreuungsperson, wenn sie auf Unterstützung angewiesen ist.
+
+<sup>3</sup> Für Personen, die der Visumpflicht unterstehen und denen nach Absatz 1 und 2 die Einreise bewilligt wurde, wird ein Visum mit räumlich beschränkter Gültigkeit für die Schweiz ausgestellt.
+
+#### Art. 10b
+
+**Bescheinigung für die Reise von nicht visumspflichtigen Drittstaatsangehörigen**
+
+Die zuständige Auslandvertretung oder das SEM kann für Drittstaatsangehörige, die nicht der Visumspflicht unterliegen, eine Bescheinigung ausstellen, wenn:
+
+- a. die Bescheinigung für die Reise und Beförderung notwendig ist; und
+- b. ihnen trotz Einreisebeschränkungen zum Schutz der öffentlichen Gesundheit die Einreise erlaubt ist.
+
 ## 3. Abschnitt: Visa für kurzfristige Aufenthalte und Visa für den Flughafentransit
 
 #### Art. 11
@@ -357,7 +395,10 @@ Gestützt auf Artikel 3 Absatz 5 des Visakodex sind folgende Personen von der Vi
 Ein Visum für einen kurzfristigen Aufenthalt wird in folgenden Fällen erteilt:
 
 - a. kurzfristiger Aufenthalt mit oder ohne Arbeitsbewilligung in der Schweiz;
-- b. Einreise in die Schweiz nach Artikel 3 Absatz 4.
+- b. Einreise in die Schweiz nach Artikel 3 Absatz 4;
+- c.[^11-1] Einreise in die Schweiz nach Artikel 10*a* Absätze 1 und 2.
+
+[^11-1]: Eingefügt durch Ziff. I der V vom 6. Mai 2026, in Kraft seit 12. Juni 2026 ([AS 2026 240](https://fedlex.data.admin.ch/eli/oc/2026/240)).
 
 #### Art. 12
 
@@ -554,71 +595,84 @@ Für die Behandlung von Visumgesuchen für einen längerfristigen Aufenthalt wir
 
 **Überschreiten der Grenze**
 
-Die Regelung der Ein- und der Ausreise richtet sich nach dem Schengener Grenzkodex[^28-1]. Vorbehalten bleiben die zollrechtlichen Vorschriften nach dem Zollgesetz vom 18. März 2005[^28-2] und die entsprechenden Ausführungsbestimmungen.
+Die Regelung der Ein- und der Ausreise richtet sich nach dem Schengener Grenzkodex[^28-1].[^28-2] Vorbehalten bleiben die zollrechtlichen Vorschriften nach dem Zollgesetz vom 18. März 2005[^28-3] und die entsprechenden Ausführungsbestimmungen.
 
-[^28-1]: Siehe Fussnote zu Art. 3 Abs. 1.
-[^28-2]: [SR 631.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7812)
+[^28-1]: Siehe Fussnote zu Art. 1 Abs. 4 Bst. m.
+[^28-2]: Fassung gemäss Ziff. I der V vom 6. Mai 2026, in Kraft seit 12. Juni 2026 ([AS 2026 240](https://fedlex.data.admin.ch/eli/oc/2026/240)).
+[^28-3]: [SR 631.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7812)
 
 #### Art. 29
 
-**Schengener Aussengrenzen**
+**Flugplätze, die eine Schengen-Aussengrenze bilden**[^29-1]
 
-<sup>1</sup> Das SEM legt im Einvernehmen mit dem Bundesamt für Zoll und Grenzsicherheit (BAZG) und den für die Personenkontrollen zuständigen Behörden des Bundes und der Kantone sowie dem Bundesamt für Zivilluftfahrt die Schengener Aussengrenzen der Schweiz fest.[^29-1]
+### (Art. 9 AIG)
 
-<sup>2</sup> Die Regelung der Personenkontrollen an den Schengener Aussengrenzen bei der Ein- und Ausreise auf dem Land- und Luftweg richtet sich nach Artikel 8 und Anhang VI Ziffern 1 und 2 des Schengener Grenzkodex[^29-2].
+<sup>1</sup> Die Regelung der Grenzkontrolle an den Flugplätzen, die eine Schengen-Aussengrenze der Schweiz bilden, richtet sich bei der Ein- und Ausreise auf dem Luftweg nach Artikel 8 und Anhang VI Ziffern 1 und 2 des Schengener Grenzkodex[^29-2].
 
-<sup>3</sup> Für Einreisen an Flugplätzen, die nicht zu den Schengener Aussengrenzen gehören, wird eine vorgängige Bewilligung der für die Personenkontrollen am Landeort zuständigen Behörde benötigt.
+<sup>2</sup> Für Einreisen an Flugplätzen, die nicht zu den Schengen-Aussengrenzen gehören, wird eine vorgängige Bewilligung der für die Grenzkontrollen am Landeort zuständigen Behörde benötigt.
 
-[^29-1]: Fassung gemäss Ziff. I der V vom 10. Nov. 2021, in Kraft seit 1. Mai 2022 ([AS 2021 733](https://fedlex.data.admin.ch/eli/oc/2021/733)).
-[^29-2]: Siehe Fussnote zu Art. 3 Abs. 1.
+[^29-1]: Fassung gemäss Ziff. I der V vom 6. Mai 2026, in Kraft seit 12. Juni 2026 ([AS 2026 240](https://fedlex.data.admin.ch/eli/oc/2026/240)).
+[^29-2]: Siehe Fussnote zu Art. 1 Abs. 4 Bst. m.
 
 #### Art. 29a
 
-**Schengener Binnengrenzen**[^29a-1]
+**Schengen-Binnengrenzen der Schweiz[^29a-2]**[^29a-1]
 
-<sup>1</sup> Bei Kontrollen an den Schengener Binnengrenzen der Schweiz darf die Einhaltung zollrechtlicher Vorschriften nach dem Zollgesetz vom 18. März 2005[^29a-2] und den entsprechenden Ausführungsbestimmungen geprüft werden. Im Übrigen sind Kontrollen ausschliesslich nach Artikel 23 des Schengener Grenzkodex[^29a-3] zulässig.
+<sup>1</sup> Bei Kontrollen an den Schengen-Binnengrenzen der Schweiz darf die Einhaltung zollrechtlicher Vorschriften nach dem Zollgesetz vom 18. März 2005[^29a-3] und den entsprechenden Ausführungsbestimmungen geprüft werden. Im Übrigen sind Kontrollen ausschliesslich nach Artikel 23 des Schengener Grenzkodex[^29a-4] zulässig.[^29a-5]
 
 <sup>2</sup> Das SEM erlässt Weisungen zur Abgrenzung der Kontrollen nach Absatz 1 von den Grenzkontrollen an den Schengener Aussengrenzen.
 
 [^29a-1]: Eingefügt durch Ziff. I der V vom 10. Nov. 2021, in Kraft seit 1. Mai 2022 ([AS 2021 733](https://fedlex.data.admin.ch/eli/oc/2021/733)).
-[^29a-2]: [SR 631.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7812)
-[^29a-3]: Siehe Fussnote zu Art. 3 Abs. 1.
+[^29a-2]: Fassung gemäss Ziff. I der V vom 6. Mai 2026, in Kraft seit 12. Juni 2026 ([AS 2026 240](https://fedlex.data.admin.ch/eli/oc/2026/240)).
+[^29a-3]: [SR 631.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7812)
+[^29a-4]: Siehe Fussnote zu Art. 1 Abs. 4 Bst. m.
+[^29a-5]: Fassung gemäss Ziff. I der V vom 6. Mai 2026, in Kraft seit 12. Juni 2026 ([AS 2026 240](https://fedlex.data.admin.ch/eli/oc/2026/240)).
 
 #### Art. 30
 
-**Wiedereinführung von Grenzkontrollen an den Binnengrenzen**
+**Vorübergehende Wiedereinführung von Grenzkontrollen an den Schengen-Binnengrenzen der Schweiz**[^30-1]
 
-<sup>1</sup> Sind die nach Artikel 25 Absatz 1 des Schengener Grenzkodex[^30-1] vorgesehenen Voraussetzungen erfüllt, so entscheidet der Bundesrat über die Wiedereinführung der Grenzkontrollen an den Binnengrenzen.
+### (Art. 8 AIG)
 
-<sup>2</sup> In dringenden Fällen ordnet das EJPD die sofort notwendigen Massnahmen zur Wiedereinführung von Grenzkontrollen an. Es unterrichtet den Bundesrat umgehend darüber.
+<sup>1</sup> Jede für die Gewährleistung der öffentlichen Ordnung oder der inneren Sicherheit zuständige Behörde des Bundes oder der Kantone kann beim SEM mit einem schriftlich begründeten Gesuch die vorübergehende Wiedereinführung von Grenzkontrollen an allen oder bestimmten Abschnitten der Schengen-Binnengrenzen der Schweiz beantragen.
 
-<sup>3</sup> Die Grenzkontrollen an den Binnengrenzen werden von den für die Grenzkontrollen zuständigen Mitarbeitenden des BAZG im Einvernehmen mit den Grenzkantonen durchgeführt.[^30-2]
+<sup>2</sup>
 
-[^30-1]: Siehe Fussnote zu Art. 3 Abs. 1.
-[^30-2]: Fassung gemäss Ziff. I der V vom 10. Nov. 2021, in Kraft seit 1. Mai 2022 ([AS 2021 733](https://fedlex.data.admin.ch/eli/oc/2021/733)).
+Über die Wiedereinführung und Verlängerung der Grenzkontrollen entscheiden:
+
+- a. der Bundesrat nach Konsultation der betroffenen Behörden des Bundes, namentlich des Bundesamts für Zoll und Grenzsicherheit (BAZG), und der Kantone;
+- b. das EJPD in dringenden Fällen.
+
+<sup>3</sup> Der Bundesrat ordnet die vorzeitige Aufhebung der vorübergehend wieder eingeführten Grenzkontrollen an den Schengen-Binnengrenzen an, wenn sie sich nicht mehr als notwendig erweisen, insbesondere dann, wenn sich der mit ihnen verfolgte Zweck auch mit weniger einschneidende Massnahmen erreichen lässt.
+
+<sup>4</sup> Der Bundesrat informiert die zuständigen Kommissionen beider Räte über die Wiedereinführung und die Verlängerung der Grenzkontrollen sowie über deren Dauer.
+
+[^30-1]: Fassung gemäss Ziff. I der V vom 6. Mai 2026, in Kraft seit 12. Juni 2026 ([AS 2026 240](https://fedlex.data.admin.ch/eli/oc/2026/240)).
 
 #### Art. 31
 
-**Zuständigkeit für die Personenkontrollen**
+**Zuständigkeit für die Grenzkontrollen**[^31-1]
 
-<sup>1</sup> Das EJPD regelt die Durchführung der Personenkontrollen an den Aussen- und den Binnengrenzen.
+<sup>1</sup> Das EJPD regelt die Durchführung der Grenzkontrollen an den Schengen-Aussen- und den -Binnengrenzen der Schweiz.
 
-<sup>2</sup> Die für die Grenzkontrollen zuständigen Mitarbeitenden der Kantone und des BAZG erledigen die Personenkontrollen an der Grenze. Die Mitarbeitenden des BAZG üben diese Tätigkeit sowohl im Rahmen der hoheitlichen Aufgaben als auch gemäss den Vereinbarungen zwischen dem Eidgenössischen Finanzdepartement und den Kantonen aus (Art. 9 Abs. 2 AIG und Art. 97 des Zollgesetzes vom 18. März 2005[^31-1]).[^31-2]
+<sup>2</sup> Die Mitarbeiterinnen und Mitarbeiter des BAZG führen die Grenzkontrollen an den Schengen-Aussengrenzen gemäss den Vereinbarungen zwischen dem Eidgenössischen Finanzdepartement (EFD) und den Kantonen durch (Art. 97 des Zollgesetzes vom 18. März 2005[^31-2]).
 
-<sup>3</sup> …[^31-3]
+<sup>3</sup> Bei einer Wiedereinführung von Grenzkontrollen an den Schengen-Binnengrenzen, werden diese Kontrollen von den für die Grenzkontrollen zuständigen Mitarbeiterinnen und Mitarbeitern des BAZG im Einvernehmen mit den Grenzkantonen durchgeführt.
 
-<sup>4</sup> Die Kantone können die für die Grenzkontrollen zuständigen Mitarbeitenden des BAZG ermächtigen, die Wegweisungsverfügung nach Artikel 64 Absatz 1 Buchstaben a und b AIG zu erlassen und zu eröffnen.[^31-4]
+<sup>4</sup> Die Kantone können die für die Grenzkontrollen zuständigen Mitarbeiterinnen und Mitarbeiter des BAZG ermächtigen, die Wegweisungsverfügung nach Artikel 64 Absatz 1 Buchstaben a und b und nach Artikel 64*c*<sup>bis</sup> AIG zu erlassen und zu eröffnen.
 
-[^31-1]: [SR 631.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7812)
-[^31-2]: Fassung gemäss Ziff. I der V vom 10. Nov. 2021, in Kraft seit 1. Mai 2022 ([AS 2021 733](https://fedlex.data.admin.ch/eli/oc/2021/733)).
-[^31-3]: Aufgehoben durch Ziff. I der V vom 1. Mai 2019, mit Wirkung seit 1. Juni 2019 ([AS 2019 1435](https://fedlex.data.admin.ch/eli/oc/2019/280)).
-[^31-4]: Fassung gemäss Ziff. I der V vom 10. Nov. 2021, in Kraft seit 1. Mai 2022 ([AS 2021 733](https://fedlex.data.admin.ch/eli/oc/2021/733)).
+[^31-1]: Fassung gemäss Ziff. I der V vom 6. Mai 2026, in Kraft seit 12. Juni 2026 ([AS 2026 240](https://fedlex.data.admin.ch/eli/oc/2026/240)).
+[^31-2]: [SR 631.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7812)
 
 ## 6. Abschnitt: Sorgfalts- und Betreuungspflicht der Luftverkehrsunternehmen
 
 #### Art. 32
 
 **Umfang der Sorgfaltspflicht**
+
+### (Art. 92 AIG)
+
+[^32-1]
 
 <sup>1</sup>
 
@@ -634,7 +688,8 @@ Mit den Massnahmen nach Absatz 1 ist sicherzustellen, dass:
 - a. vor der Abreise kontrolliert wird, ob die für die Einreise in den Schengen-Raum oder für den Flughafentransit erforderlichen Reisedokumente, Visa und Aufenthaltstitel gültig und anerkannt sind;
 - b. Fälschungen oder Verfälschungen von Reisedokumenten, Visa oder Aufenthaltstiteln, die für geschulte Personen mit durchschnittlichem Sehvermögen von blossem Auge erkennbar sind, erkannt werden;
 - c. erkannt wird, wenn ein Reisedokument, Visum oder Aufenthaltstitel offensichtlich nicht der zu befördernden Person zusteht;
-- d.[^32-1] überprüft werden kann, ob die zulässige maximale Aufenthaltsdauer und die Anzahl der erlaubten Einreisen erreicht wurden.
+- d.[^32-2] überprüft werden kann, ob die zulässige maximale Aufenthaltsdauer und die Anzahl der erlaubten Einreisen erreicht wurden;
+- e.[^32-3] keine Personen befördert werden, die einer Einreisebeschränkung unterliegen, die der Bundesrat nach Artikel 65*a* AIG oder der Rat der EU nach Artikel 21*a* des Schengener Grenzkodex[^32-4] angeordnet hat, sofern letztere aufgrund eines Abkommens mit der EU auch für die Schweiz gilt.
 
 <sup>3</sup>
 
@@ -645,7 +700,10 @@ Das SEM kann von den Luftverkehrsunternehmen zusätzliche Massnahmen verlangen, 
 
 <sup>4</sup> Als zusätzliche Massnahme gilt insbesondere das Erstellen von Kopien von Reisedokumenten, Visa oder Aufenthaltstiteln vor dem Abflug.
 
-[^32-1]: Fassung gemäss Ziff. I der V vom 15. Sept. 2023, in Kraft seit 15. Okt. 2023 ([AS 2023 549](https://fedlex.data.admin.ch/eli/oc/2023/549)).
+[^32-1]: Fassung gemäss Ziff. I der V vom 6. Mai 2026, in Kraft seit 12. Juni 2026 ([AS 2026 240](https://fedlex.data.admin.ch/eli/oc/2026/240)).
+[^32-2]: Fassung gemäss Ziff. I der V vom 15. Sept. 2023, in Kraft seit 15. Okt. 2023 ([AS 2023 549](https://fedlex.data.admin.ch/eli/oc/2023/549)).
+[^32-3]: Eingefügt durch Ziff. I der V vom 6. Mai 2026, in Kraft seit 12. Juni 2026 ([AS 2026 240](https://fedlex.data.admin.ch/eli/oc/2026/240)).
+[^32-4]: Siehe Fussnote zu Art. 1 Abs. 4 Bst. m.
 
 #### Art. 33
 
@@ -670,32 +728,32 @@ Die Modalitäten der Zusammenarbeit nach Artikel 94 Absatz 1 AIG umfassen nament
 
 <sup>1</sup>
 
-Das SEM ist zuständig für den Abschluss von völkerrechtlichen Verträgen zur Übernahme von Durchführungsrechtsakten der Europäischen Kommission zur Verordnung (EU) 2017/2226[^34-2], sofern sie völkerrechtliche Verträge von beschränkter Tragweite im Sinne von Artikel 7*a* des Regierungs- und Verwaltungsorganisationsgesetzes vom 21. März 1997[^34-3] (RVOG) darstellen und Folgendes regeln:
+Das SEM ist zuständig für den Abschluss von völkerrechtlichen Verträgen zur Übernahme von Durchführungsrechtsakten der Europäischen Kommission zum Visakodex[^34-2], sofern sie völkerrechtliche Verträge von beschränkter Tragweite im Sinne von Artikel 7*a* RVOG[^34-3] darstellen und sofern die Durchführungsrechtsakte gestützt auf die nachfolgend genannten Artikel und Absätze des Visakodex erlassen wurden und Folgendes regeln:[^34-4]
 
 - a. die Voraussetzungen für den Betrieb des Web-Dienstes und die für den Web-Dienst geltenden Datenschutz- und Sicherheitsvorschriften (Art. 13 Abs. 7);
 - b. das Ausweichverfahren, falls Beförderungsunternehmen der Datenzugriff technisch nicht möglich ist, und die in diesen Fällen durch die ETIAS-Zentralstelle zu leistende Unterstützung und die Mittel zur Bereitstellung dieser Unterstützung (Art. 13*a* Abs. 3 und 4);
-- c.[^34-4] die Vorschriften über die von der Europäischen Kommission zu übermittelnden Informationen im Hinblick auf das Ausweichverfahren, wenn die Eingabe von Daten technisch nicht möglich ist oder für den Fall, dass das Einreise- und Ausreisesystem (EES) ausfällt (Art. 21 Abs. 2);
-- d.[^34-5] die Entwicklung und technische Unterstützung des EES (Art. 36);
-- e. die Informationen, über welche Drittstaatsangehörige, deren Daten im EES aufgezeichnet werden, zu unterrichten sind (Art. 50 Abs. 4);
+- c.[^34-5] die Vorschriften über die von der Europäischen Kommission zu übermittelnden Informationen im Hinblick auf das Ausweichverfahren, wenn die Eingabe von Daten technisch nicht möglich ist oder für den Fall, dass das Einreise- und Ausreisesystem (EES) ausfällt (Art. 21 Abs. 2);
+- d.[^34-6] die Entwicklung und technische Unterstützung des EES (Art. 36);
+- e.[^34-7] Weisungen zur Erteilung von Visa an den Schengen-Aussengrenzen an Seeleute (Art. 36 Abs. 2*a*);
 - f. die Spezifikation und Bedingungen für die Website, welche Informationen zum EES enthält (Art. 50 Abs. 5);
 - g. die Spezifikationen der technischen Lösung zur Erstellung von Statistiken (Art. 72 Abs. 8);
-- h.[^34-6] detaillierte Bestimmungen über die Funktion für die zentrale Verwaltung der Liste der Behörden mit Zugang zum EES (Art. 9 Abs. 2 der Verordnung [EU] 2017/2226).[^34-7]
+- h.[^34-8] detaillierte Bestimmungen über die Funktion für die zentrale Verwaltung der Liste der Behörden mit Zugang zum EES (Art. 9 Abs. 2 der Verordnung [EU] 2017/2226).[^34-9]
 
-<sup>2</sup> Es ist zuständig für den Abschluss von völkerrechtlichen Verträgen zur Übernahme von Durchführungsrechtsakten der Europäischen Kommission, welche die Verfahren für die Berichterstattung über die Betriebskostenunterstützung im Rahmen der nationalen Programme der Schengen-Staaten betreffen und gestützt auf die Artikel 10 Absatz 6 und 11 Absatz 6 der Verordnung (EU) Nr. 515/2014[^34-8] erlassen wurden, sofern sie völkerrechtliche Verträge von beschränkter Tragweite im Sinne von Artikel 7*a* RVOG darstellen.
+<sup>2</sup> Es ist zuständig für den Abschluss von völkerrechtlichen Verträgen zur Übernahme von Durchführungsrechtsakten der Europäischen Kommission, welche die Verfahren für die Berichterstattung über die Betriebskostenunterstützung im Rahmen der nationalen Programme der Schengen-Staaten betreffen und gestützt auf die Artikel 10 Absatz 6 und 11 Absatz 6 der Verordnung (EU) Nr. 515/2014[^34-10] erlassen wurden, sofern sie völkerrechtliche Verträge von beschränkter Tragweite im Sinne von Artikel 7*a* RVOG darstellen.
 
-<sup>2bis</sup> Es ist zuständig für den Abschluss von völkerrechtlichen Verträgen zur Übernahme von delegierten Rechtsakten der Europäischen Kommission, welche die Einführung eines Programms für die Entwicklung von IT-Systemen zur Unterstützung der Steuerung von Migrationsströmen über die Aussengrenzen betreffen und gestützt auf Artikel 5 Absatz 5 Buchstaben b und Artikel 15 und 17 der Verordnung (EU) Nr. 515/2014 erlassen wurden, sofern sie völkerrechtliche Verträge von beschränkter Tragweite im Sinne von Artikel 7*a* RVOG darstellen.[^34-9]
+<sup>2bis</sup> Es ist zuständig für den Abschluss von völkerrechtlichen Verträgen zur Übernahme von delegierten Rechtsakten der Europäischen Kommission, welche die Einführung eines Programms für die Entwicklung von IT-Systemen zur Unterstützung der Steuerung von Migrationsströmen über die Aussengrenzen betreffen und gestützt auf Artikel 5 Absatz 5 Buchstaben b und Artikel 15 und 17 der Verordnung (EU) Nr. 515/2014 erlassen wurden, sofern sie völkerrechtliche Verträge von beschränkter Tragweite im Sinne von Artikel 7*a* RVOG darstellen.[^34-11]
 
 <sup>3</sup>
 
-Es ist zuständig für den Abschluss von völkerrechtlichen Verträgen zur Übernahme von delegierten und Durchführungsrechtsakten der Europäischen Kommission zur Verordnung (EU) Nr. 514/2014[^34-10], sofern sie völkerrechtliche Verträge von beschränkter Tragweite im Sinne von Artikel 7*a* RVOG darstellen und:[^34-11]
+Es ist zuständig für den Abschluss von völkerrechtlichen Verträgen zur Übernahme von delegierten und Durchführungsrechtsakten der Europäischen Kommission zur Verordnung (EU) Nr. 514/2014[^34-12], sofern sie völkerrechtliche Verträge von beschränkter Tragweite im Sinne von Artikel 7*a* RVOG darstellen und:[^34-13]
 
 - a. die Meldungen der finanziellen Unregelmässigkeiten betreffen und gestützt auf Artikel 5 Absatz 6 der Verordnung (EU) Nr. 514/2014 erlassen wurden;
 - b. das Arbeitsprogramm und die Soforthilfe betreffen und gestützt auf Artikel 6 Absatz 2 der Verordnung (EU) Nr. 514/2014 erlassen wurden;
 - c. das Muster, nach dem die nationalen Programme erstellt werden, betreffen und gestützt auf Artikel 14 Absatz 4 der Verordnung (EU) Nr. 514/2014 erlassen wurden;
 - d. die Bedingungen und Modalitäten des elektronischen Datenaustauschsystems betreffen und gestützt auf Artikel 24 Absatz 5 der Verordnung (EU) Nr. 514/2014 erlassen wurden;
-- d<sup>bis</sup>.[^34-12] die Mindestvoraussetzungen für die Benennung der zuständigen Behörden in Bezug auf deren internes Umfeld, Kontrolltätigkeiten, Information, Kommunikation und Monitoring sowie Verfahrensregeln für die Erteilung und die Aufhebung der Benennung betreffen und gestützt auf Artikel 26 Absatz 4 Buchstabe a der Verordnung (EU) Nr. 514/2014 erlassen wurden;
-- d<sup>ter</sup>.[^34-13] die Regeln für die Überwachung und das Verfahren für die Überprüfung der Benennung der zuständigen Behörden betreffen und gestützt auf Artikel 26 Absatz 4 Buchstabe b der Verordnung (EU) Nr. 514/2014 erlassen wurden;
-- d<sup>quater</sup>.[^34-14] die Pflichten der zuständigen Behörden im Rahmen der öffentlichen Massnahmen sowie den Inhalt ihrer Verwaltungs- und Kontrollaufgaben betreffen und gestützt auf Artikel 26 Absatz 4 Buchstabe c der Verordnung (EU) Nr. 514/2014 erlassen wurden;
+- d<sup>bis</sup>.[^34-14] die Mindestvoraussetzungen für die Benennung der zuständigen Behörden in Bezug auf deren internes Umfeld, Kontrolltätigkeiten, Information, Kommunikation und Monitoring sowie Verfahrensregeln für die Erteilung und die Aufhebung der Benennung betreffen und gestützt auf Artikel 26 Absatz 4 Buchstabe a der Verordnung (EU) Nr. 514/2014 erlassen wurden;
+- d<sup>ter</sup>.[^34-15] die Regeln für die Überwachung und das Verfahren für die Überprüfung der Benennung der zuständigen Behörden betreffen und gestützt auf Artikel 26 Absatz 4 Buchstabe b der Verordnung (EU) Nr. 514/2014 erlassen wurden;
+- d<sup>quater</sup>.[^34-16] die Pflichten der zuständigen Behörden im Rahmen der öffentlichen Massnahmen sowie den Inhalt ihrer Verwaltungs- und Kontrollaufgaben betreffen und gestützt auf Artikel 26 Absatz 4 Buchstabe c der Verordnung (EU) Nr. 514/2014 erlassen wurden;
 - e. die Verfahren und Vorschriften zwecks Vereinheitlichung der Kontrollen durch die zuständige Behörden betreffen und gestützt auf Artikel 27 Absatz 5 der Verordnung (EU) Nr. 514/2014 erlassen wurden;
 - f. die Muster für den Antrag auf Zahlung des Jahressaldos betreffen und gestützt auf Artikel 44 Absatz 3 der Verordnung (EU) Nr. 514/2014 erlassen wurden;
 - g. die Modalitäten für das jährliche Rechnungsabschlussverfahren betreffen und gestützt auf Artikel 45 Absatz 2 der Verordnung (EU) Nr. 514/2014 erlassen wurden;
@@ -704,19 +762,21 @@ Es ist zuständig für den Abschluss von völkerrechtlichen Verträgen zur Über
 - j. die Muster für die jährlichen Durchführungsberichte und den Schlussbericht betreffen und gestützt auf Artikel 54 Absatz 8 der Verordnung (EU) Nr. 514/2014 erlassen wurden.
 
 [^34-1]: Fassung gemäss Ziff. I der V vom 13. Febr. 2019, in Kraft seit 1. April 2019 ([AS 2019 907](https://fedlex.data.admin.ch/eli/oc/2019/161)).
-[^34-2]: Vgl. die Fussnote zu Art. 1 Abs. 4 Bst. b<sup>bis</sup>
+[^34-2]: Siehe Fussnote zu Art. 1 Abs. 4 Bst. c.
 [^34-3]: [SR 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
-[^34-4]: Fassung gemäss Ziff. I der V vom 17. Dez. 2021, in Kraft seit 15. Jan. 2022 ([AS 2021 913](https://fedlex.data.admin.ch/eli/oc/2021/913)).
+[^34-4]: Fassung gemäss Ziff. I der V vom 6. Mai 2026, in Kraft seit 12. Juni 2026 ([AS 2026 240](https://fedlex.data.admin.ch/eli/oc/2026/240)).
 [^34-5]: Fassung gemäss Ziff. I der V vom 17. Dez. 2021, in Kraft seit 15. Jan. 2022 ([AS 2021 913](https://fedlex.data.admin.ch/eli/oc/2021/913)).
-[^34-6]: Eingefügt durch Ziff. I der V vom 17. Dez. 2021, in Kraft seit 15. Jan. 2022 ([AS 2021 913](https://fedlex.data.admin.ch/eli/oc/2021/913)).
-[^34-7]: Fassung gemäss Ziff. I der V vom 11. Aug. 2021, in Kraft seit 15. Sept. 2021 ([AS 2021 503](https://fedlex.data.admin.ch/eli/oc/2021/503)).
-[^34-8]: Siehe Fussnote zu Art. 1 Abs. 4 Bst. b.
-[^34-9]: Eingefügt durch Ziff. I der V vom 19. Dez. 2018, in Kraft seit 1. Febr. 2019 ([AS 2019 153](https://fedlex.data.admin.ch/eli/oc/2019/22)).
-[^34-10]: Siehe Fussnote zu Art. 1 Abs. 4 Bst. a.
-[^34-11]: Fassung gemäss Ziff. I der V vom 19. Dez. 2018, in Kraft seit 1. Febr. 2019 ([AS 2019 153](https://fedlex.data.admin.ch/eli/oc/2019/22)).
-[^34-12]: Eingefügt durch Ziff. I der V vom 19. Dez. 2018, in Kraft seit 1. Febr. 2019 ([AS 2019 153](https://fedlex.data.admin.ch/eli/oc/2019/22)).
-[^34-13]: Eingefügt durch Ziff. I der V vom 19. Dez. 2018, in Kraft seit 1. Febr. 2019 ([AS 2019 153](https://fedlex.data.admin.ch/eli/oc/2019/22)).
+[^34-6]: Fassung gemäss Ziff. I der V vom 17. Dez. 2021, in Kraft seit 15. Jan. 2022 ([AS 2021 913](https://fedlex.data.admin.ch/eli/oc/2021/913)).
+[^34-7]: Fassung gemäss Ziff. I der V vom 6. Mai 2026, in Kraft seit 12. Juni 2026 ([AS 2026 240](https://fedlex.data.admin.ch/eli/oc/2026/240)).
+[^34-8]: Eingefügt durch Ziff. I der V vom 17. Dez. 2021, in Kraft seit 15. Jan. 2022 ([AS 2021 913](https://fedlex.data.admin.ch/eli/oc/2021/913)).
+[^34-9]: Fassung gemäss Ziff. I der V vom 11. Aug. 2021, in Kraft seit 15. Sept. 2021 ([AS 2021 503](https://fedlex.data.admin.ch/eli/oc/2021/503)).
+[^34-10]: Siehe Fussnote zu Art. 1 Abs. 4 Bst. b.
+[^34-11]: Eingefügt durch Ziff. I der V vom 19. Dez. 2018, in Kraft seit 1. Febr. 2019 ([AS 2019 153](https://fedlex.data.admin.ch/eli/oc/2019/22)).
+[^34-12]: Siehe Fussnote zu Art. 1 Abs. 4 Bst. a.
+[^34-13]: Fassung gemäss Ziff. I der V vom 19. Dez. 2018, in Kraft seit 1. Febr. 2019 ([AS 2019 153](https://fedlex.data.admin.ch/eli/oc/2019/22)).
 [^34-14]: Eingefügt durch Ziff. I der V vom 19. Dez. 2018, in Kraft seit 1. Febr. 2019 ([AS 2019 153](https://fedlex.data.admin.ch/eli/oc/2019/22)).
+[^34-15]: Eingefügt durch Ziff. I der V vom 19. Dez. 2018, in Kraft seit 1. Febr. 2019 ([AS 2019 153](https://fedlex.data.admin.ch/eli/oc/2019/22)).
+[^34-16]: Eingefügt durch Ziff. I der V vom 19. Dez. 2018, in Kraft seit 1. Febr. 2019 ([AS 2019 153](https://fedlex.data.admin.ch/eli/oc/2019/22)).
 
 #### Art. 34a
 
@@ -786,26 +846,27 @@ Das SEM ist zuständig für den Abschluss von völkerrechtlichen Verträgen zur 
 - b. die in den einzelnen Konsularbezirken geltenden Bedingungen für die Erteilung von Visa für die mehrfache Einreise (Art. 24 Abs. 2*d*);
 - c.[^34b-4] das Ausfüllen der Datenfelder des Visums in elektronischem Format (Art. 27 Abs. 1);
 - d. das Anbringen der Visummarke (Art. 29 Abs. 1*a*);
-- e. Weisungen zur Erteilung von Visa an den Schengener Aussengrenzen an Seeleute (Art. 36 Abs. 2*a*);
+- e.[^34b-5] Weisungen zur Erteilung von Visa an den Schengen-Aussengrenzen an Seeleute (Art. 36 Abs. 2*a*);
 - f. Weisungen zur praktischen Anwendung des Visakodex (Art. 51);
-- g.[^34b-5] die Mindestnormen, die bei der Kontrolle und Verifizierung von Reisedokumenten anzuwenden sind, um deren Echtheit zu überprüfen, und die Techniken, Methoden und Verfahren bei der Bearbeitung der auf dem Chip gespeicherten Daten (Art. 12 Abs. 7).
+- g.[^34b-6] die Mindestnormen, die bei der Kontrolle und Verifizierung von Reisedokumenten anzuwenden sind, um deren Echtheit zu überprüfen, und die Techniken, Methoden und Verfahren bei der Bearbeitung der auf dem Chip gespeicherten Daten (Art. 12 Abs. 7).
 
 <sup>2</sup>
 
 Es ist zuständig für den Abschluss von völkerrechtlichen Verträgen zur Übernahme von Durchführungsrechtsakten des Rates der EU zum Visakodex, sofern sie völkerrechtliche Verträge von beschränkter Tragweite im Sinne von Artikel 7*a* RVOG darstellen und sofern die Durchführungsrechtsakte gestützt auf die nachfolgend genannten Artikel und Absätze des Visakodex erlassen wurden und Folgendes regeln:
 
-- a.[^34b-6] die Aussetzung der Anwendung der Gebührenfreiheit oder der Erleichterungen hinsichtlich der Vorlage von Belegen, der Behandlungsfristen oder der Ausstellung von Visa für die mehrfache Einreise für sämtliche Staatsangehörige oder bestimmte Kategorien von Staatsangehörigen eines bestimmten Drittstaates, der bei der Rückübernahme von illegal aufhältigen Personen nicht ausreichend kooperiert (Art. 25*a* Abs. 5 Bst. a und 6);
-- b.[^34b-7] die schrittweise Erhöhung der Visumgebühr bei fortbestehender unzureichender Kooperation des betroffenen Drittstaates (Art. 25*a* Abs. 5 Bst. b und 6);
-- c. die Einräumung besonderer Erleichterungen für sämtliche Staatsangehörige oder bestimmte Kategorien von Staatsangehörigen eines bestimmten Drittstaates, der bei der Rückübernahme von illegal aufhältigen Personen ausreichend kooperiert (Art. 25*a* Abs. 8).[^34b-8]
+- a.[^34b-7] die Aussetzung der Anwendung der Gebührenfreiheit oder der Erleichterungen hinsichtlich der Vorlage von Belegen, der Behandlungsfristen oder der Ausstellung von Visa für die mehrfache Einreise für sämtliche Staatsangehörige oder bestimmte Kategorien von Staatsangehörigen eines bestimmten Drittstaates, der bei der Rückübernahme von illegal aufhältigen Personen nicht ausreichend kooperiert (Art. 25*a* Abs. 5 Bst. a und 6);
+- b.[^34b-8] die schrittweise Erhöhung der Visumgebühr bei fortbestehender unzureichender Kooperation des betroffenen Drittstaates (Art. 25*a* Abs. 5 Bst. b und 6);
+- c. die Einräumung besonderer Erleichterungen für sämtliche Staatsangehörige oder bestimmte Kategorien von Staatsangehörigen eines bestimmten Drittstaates, der bei der Rückübernahme von illegal aufhältigen Personen ausreichend kooperiert (Art. 25*a* Abs. 8).[^34b-9]
 
 [^34b-1]: Eingefügt durch Ziff. I der V vom 14. Aug. 2019, in Kraft seit 2. Febr. 2020 ([AS 2019 2633](https://fedlex.data.admin.ch/eli/oc/2019/491)).
 [^34b-2]: Siehe Fussnote zu Art. 1 Abs. 4 Bst. c.
 [^34b-3]: [SR 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
 [^34b-4]: Fassung gemäss Ziff. I der V vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 808](https://fedlex.data.admin.ch/eli/oc/2023/808)).
-[^34b-5]: Eingefügt durch Ziff. I der V vom 10. April 2024, in Kraft seit 15. Mai 2024 ([AS 2024 168](https://fedlex.data.admin.ch/eli/oc/2024/168)).
-[^34b-6]: Fassung gemäss Ziff. I der V vom 26. Juni 2024, in Kraft seit 1. Aug. 2024 ([AS 2024 345](https://fedlex.data.admin.ch/eli/oc/2024/345)).
+[^34b-5]: Fassung gemäss Ziff. I der V vom 6. Mai 2026, in Kraft seit 12. Juni 2026 ([AS 2026 240](https://fedlex.data.admin.ch/eli/oc/2026/240)).
+[^34b-6]: Eingefügt durch Ziff. I der V vom 10. April 2024, in Kraft seit 15. Mai 2024 ([AS 2024 168](https://fedlex.data.admin.ch/eli/oc/2024/168)).
 [^34b-7]: Fassung gemäss Ziff. I der V vom 26. Juni 2024, in Kraft seit 1. Aug. 2024 ([AS 2024 345](https://fedlex.data.admin.ch/eli/oc/2024/345)).
-[^34b-8]: Eingefügt durch Ziff. I der V vom 14. Febr. 2024, in Kraft seit 1. März 2024 ([AS 2024 75](https://fedlex.data.admin.ch/eli/oc/2024/75)).
+[^34b-8]: Fassung gemäss Ziff. I der V vom 26. Juni 2024, in Kraft seit 1. Aug. 2024 ([AS 2024 345](https://fedlex.data.admin.ch/eli/oc/2024/345)).
+[^34b-9]: Eingefügt durch Ziff. I der V vom 14. Febr. 2024, in Kraft seit 1. März 2024 ([AS 2024 75](https://fedlex.data.admin.ch/eli/oc/2024/75)).
 
 #### Art. 34c
 
@@ -1011,10 +1072,12 @@ Es ist für alle weiteren Aufgaben zuständig, die keiner anderen Bundesbehörde
 
 - a. Erlassen von Weisungen zu Visa und Grenzkontrolle, soweit diese nicht unter die europäischen Rechtsvorschriften fallen;
 - b. Erlassen von Weisungen zum Entzug von Reisedokumenten, Identitätsausweisen und anderen Nachweisen, die falsch oder gefälscht sind oder für die konkrete Hinweise für eine missbräuchliche Verwendung bestehen;
-- c. Erstellen von Lagebildern über die illegale Migration für die Umsetzung der Visumpraxis, der Grenzkontrollen an den Schengener Aussengrenzen und der nationalen Ersatzmassnahmen an den Binnengrenzen; dabei arbeitet das SEM mit interessierten in- und ausländischen Behörden und Organisationen zusammen;
+- c.[^35-1] Erstellen von Lagebildern über die illegale Migration für die Umsetzung der Visumpraxis, der Grenzkontrollen an den Schengen-Aussengrenzen und der nationalen Ersatzmassnahmen an den Binnengrenzen; dabei arbeitet das SEM mit interessierten in- und ausländischen Behörden und Organisationen zusammen;
 - d. Mitwirkung bei der Aus- und Weiterbildung der mit dem Vollzug dieser Verordnung beauftragten Behörden;
 - e. Berichterstattung über erteilte und verweigerte Visa und Erstellen der Visumstatistik;
 - f. Entwicklung der schweizerischen Strategie für eine integrierte Grenzverwaltung zusammen mit den betroffenen Behörden des Bundes und der Kantone.
+
+[^35-1]: Fassung gemäss Ziff. I der V vom 6. Mai 2026, in Kraft seit 12. Juni 2026 ([AS 2026 240](https://fedlex.data.admin.ch/eli/oc/2026/240)).
 
 #### Art. 36
 
@@ -1024,9 +1087,11 @@ Die Auslandvertretungen sind zuständig für die Erteilung, Verweigerung, Annull
 
 #### Art. 37
 
-**Für die Kontrolle der Einreisevoraussetzungen an den Aussengrenzen und der Voraussetzungen für den Flughafentransit zuständige Behörden**
+**Für die Kontrolle der Einreisevoraussetzungen an den Flugplätzen, die eine Schengen-Aussengrenze bilden, und der Voraussetzungen für den Flughafentransit zuständige Behörden**[^37-1]
 
-Die für die Kontrolle der Einreisevoraussetzungen an den Aussengrenzen und der Voraussetzungen für den Flughafentransit zuständigen Behörden sind zuständig für die Erteilung, Verweigerung, Annullierung und Aufhebung von Visa für kurzfristige oder längerfristige Aufenthalte oder Visa für den Flughafentransit im Namen der zuständigen Behörden, das heisst des SEM, des EDA und der Kantone.
+Die für die Kontrolle der Einreisevoraussetzungen an den Flugplätzen, die eine Schengen-Aussengrenze bilden, und für die Kontrolle der Voraussetzungen für den Flughafentransit zuständigen Behörden sind zuständig für die Erteilung, Verweigerung, Annullierung und Aufhebung von Visa für kurzfristige oder längerfristige Aufenthalte oder Visa für den Flughafentransit je nach Zuständigkeit im Namen des SEM, des EDA oder der Kantone.
+
+[^37-1]: Fassung gemäss Ziff. I der V vom 6. Mai 2026, in Kraft seit 12. Juni 2026 ([AS 2026 240](https://fedlex.data.admin.ch/eli/oc/2026/240)).
 
 #### Art. 38
 
@@ -1140,11 +1205,12 @@ Für die Zusammenarbeit im Visumverfahren zwischen den Auslandvertretungen der S
 
 Die für den Vollzug der Einreisebestimmungen zuständigen Behörden des Bundes und der Kantone arbeiten eng zusammen.
 
-## 9. Abschnitt: Automatisierte Grenzkontrolle an den Schengener Aussengrenzen am Flughafen
+## 9. Abschnitt: Automatisierte Grenzkontrolle an den Flugplätzen, die eine Schengen‑Aussengrenze bilden
 
-[^sec9-1]
+[^sec9-1][^sec9-2]
 
 [^sec9-1]: Fassung gemäss Ziff. I der V vom 10. Nov. 2021, in Kraft seit 1. Mai 2022 ([AS 2021 733](https://fedlex.data.admin.ch/eli/oc/2021/733)).
+[^sec9-2]: Fassung gemäss Ziff. I der V vom 6. Mai 2026, in Kraft seit 12. Juni 2026 ([AS 2026 240](https://fedlex.data.admin.ch/eli/oc/2026/240)).
 
 #### Art. 45
 
@@ -1157,7 +1223,11 @@ An der automatisierten Grenzkontrolle können die folgenden ausländischen Perso
 
 Aufgehoben
 
-## 10. Abschnitt : Überwachung der Ankunft am Flughafen
+## 10. Abschnitt : Überwachung der Ankunft an den Flugplätzen, die eine Schengen‑Aussengrenze bilden
+
+[^sec10-1]
+
+[^sec10-1]: Fassung gemäss Ziff. I der V vom 6. Mai 2026, in Kraft seit 12. Juni 2026 ([AS 2026 240](https://fedlex.data.admin.ch/eli/oc/2026/240)).
 
 #### Art. 54
 
@@ -1247,51 +1317,59 @@ Die Rechte der Betroffenen, die Datensicherheit, die Statistik und die Auswertun
 
 **Abkommen über den Einsatz von Dokumentenberaterinnen und ‑beratern**
 
-<sup>1</sup> Das EJPD kann im Einvernehmen mit dem EDA, dem Eidgenössischen Finanzdepartement und den zuständigen Grenzkontrollbehörden mit ausländischen Staaten Abkommen über den Einsatz von Dokumentenberaterinnen und -beratern (Art. 100*a* Abs. 3 AIG) abschliessen.
+<sup>1</sup> Das EJPD kann im Einvernehmen mit dem EDA, dem EFD oder den für die Grenzkontrolle zuständigen Behörden der Kantone Abkommen mit ausländischen Staaten über den Einsatz von Dokumentenberaterinnen und -beratern (Art. 100*a* Abs. 3 AIG) abschliessen.[^63-1]
 
 <sup>2</sup> In den Abkommen nach Absatz 1 ist namentlich festzulegen, welchen Tätigkeiten die Dokumentenberaterinnen und -berater im Hoheitsgebiet des anderen Staates nachgehen dürfen, wie sie sich anmelden müssen und welchen Status sie innehaben.
+
+[^63-1]: Fassung gemäss Ziff. I der V vom 6. Mai 2026, in Kraft seit 12. Juni 2026 ([AS 2026 240](https://fedlex.data.admin.ch/eli/oc/2026/240)).
 
 #### Art. 64
 
 **Zusammenarbeit**
 
-Das SEM, die entsendenden Grenzkontrollbehörden und die Konsularische Direktion des EDA (KD) regeln ihre Zusammenarbeit, insbesondere:
+Das SEM, die für die Grenzkontrolle zuständigen Behörden des Bundes und der Kantone, die Personal für einen Einsatz entsenden (entsendende Behörden), und die Konsularische Direktion des EDA (KD) regeln ihre Zusammenarbeit, insbesondere:[^64-1]
 
 - a. die Modalitäten für die Entsendung der schweizerischen Dokumentenberaterinnen und -berater;
 - b. die Verteilung der Kosten für den Einsatz der schweizerischen Dokumentenberaterinnen und -berater;
 - c. die Modalitäten für den Einsatz der ausländischen Dokumentenberaterinnen und -berater in der Schweiz.
 
+[^64-1]: Fassung gemäss Ziff. I der V vom 6. Mai 2026, in Kraft seit 12. Juni 2026 ([AS 2026 240](https://fedlex.data.admin.ch/eli/oc/2026/240)).
+
 #### Art. 65
 
-**Einsatz schweizerischer Dokumentenberaterinnen und -berater im Ausland**
+**Einsatz schweizerischer Dokumentenberaterinnen und -berater im Ausland**[^65-1]
 
-<sup>1</sup> Das SEM bestimmt die Einsatzorte und die Einsatzdauer der schweizerischen Dokumentenberaterinnen und -berater im Einvernehmen mit den entsendenden Grenzkontrollbehörden und der KD.
+<sup>1</sup> Das SEM bestimmt die Einsatzorte und die Einsatzdauer der schweizerischen Dokumentenberaterinnen und -berater im Einvernehmen mit den entsendenden Behörden und der KD.
 
 <sup>2</sup>
 
-Die KD kann im Einvernehmen mit dem SEM und der entsendenden Grenzkontrollbehörde mit ausländischen Entsendungsbehörden Vereinbarungen über die operative Zusammenarbeit am Einsatzort abschliessen. Die Vereinbarungen können namentlich beinhalten:
+Die KD kann im Einvernehmen mit dem SEM und den entsendenden Behörden Vereinbarungen mit ausländischen Entsendungsbehörden über die operative Zusammenarbeit am Einsatzort abschliessen. Die Vereinbarungen können namentlich beinhalten:
 
 - a. die Festlegung gemeinsamer Ziele;
 - b. die Regelung des Informationsaustausches unter den Dokumentenberaterinnen und -beratern;
 - c. die Regelung von gegenseitigen Ausbildungen am Einsatzort.
 
-<sup>3</sup> Die entsendenden Grenzkontrollbehörden sind für die operative Umsetzung der Einsätze der Dokumentenberaterinnen und -berater zuständig.
+<sup>3</sup> Die entsendenden Behörden sind für die operative Umsetzung der Einsätze der Dokumentenberaterinnen und -berater zuständig.
+
+[^65-1]: Fassung gemäss Ziff. I der V vom 6. Mai 2026, in Kraft seit 12. Juni 2026 ([AS 2026 240](https://fedlex.data.admin.ch/eli/oc/2026/240)).
 
 #### Art. 66
 
-**Einsatz ausländischer Dokumentenberaterinnen und -berater in der Schweiz**
+**Einsatz ausländischer Dokumentenberaterinnen und -berater in der Schweiz**[^66-1]
 
-<sup>1</sup> Das SEM bestimmt die Einsatzorte und die Einsatzdauer der ausländischen Dokumentenberaterinnen und -berater im Einvernehmen mit den ausländischen Entsendungsbehörden, den schweizerischen Grenzkontrollbehörden und dem EDA.
+<sup>1</sup> Das SEM bestimmt die Einsatzorte und die Einsatzdauer der ausländischen Dokumentenberaterinnen und -berater im Einvernehmen mit den ausländischen Entsendungsbehörden, den für die Grenzkontrolle zuständigen schweizerischen Behörden und dem EDA.
 
 <sup>2</sup>
 
-Es kann im Einvernehmen mit den schweizerischen Grenzkontrollbehörden mit den ausländischen Entsendungsbehörden Vereinbarungen über die operative Zusammenarbeit am Einsatzort abschliessen. Die Vereinbarungen können namentlich beinhalten:
+Es kann im Einvernehmen mit den für die Grenzkontrolle zuständigen nationalen Behörden Vereinbarungen mit den ausländischen Entsendungsbehörden über die operative Zusammenarbeit am Einsatzort abschliessen. Die Vereinbarungen können namentlich beinhalten:
 
 - a. die Festlegung gemeinsamer Ziele;
 - b. die Verhaltens-, Einsatz- und Kompetenzregelung;
 - c. die Regelung von gegenseitigen Ausbildungen am Einsatzort.
 
-<sup>3</sup> Die schweizerischen Grenzkontrollbehörden am Einsatzort sind für die operative Umsetzung der Einsätze ausländischer Dokumentenberaterinnen und -berater in der Schweiz zuständig.
+<sup>3</sup> Die schweizerischen für die Grenzkontrolle am Einsatzort zuständigen Behörden sind für die operative Umsetzung der Einsätze ausländischer Dokumentenberaterinnen und -berater in der Schweiz zuständig.
+
+[^66-1]: Fassung gemäss Ziff. I der V vom 6. Mai 2026, in Kraft seit 12. Juni 2026 ([AS 2026 240](https://fedlex.data.admin.ch/eli/oc/2026/240)).
 
 ## 12. Abschnitt : Einreiseverweigerung und Rechtsschutz
 
@@ -1314,6 +1392,96 @@ Es kann im Einvernehmen mit den schweizerischen Grenzkontrollbehörden mit den a
 <sup>1</sup> Gegen Verfügungen der kantonalen Migrationsbehörden nach Artikel 39 stehen die kantonalen Rechtswege offen.
 
 <sup>2</sup> Verfügungen über die Verweigerung, Annullierung oder Aufhebung von Visa nach Artikel 21 Absatz 1 Buchstabe c werden im Namen des SEM mit einem Formular erlassen.
+
+## 12*a*. Abschnitt: Überprüfung von Ausländerinnen und Ausländern an den Schengen-Aussengrenzen und im Hoheitsgebiet
+
+[^sec12a-1]
+
+[^sec12a-1]: Eingefügt durch Ziff. I der V vom 20. Mai 2026, in Kraft seit 12. Juni 2026 ([AS 2026 261](https://fedlex.data.admin.ch/eli/oc/2026/261)).
+
+#### Art. 68a
+
+**Informationen zur Überprüfung**
+
+<sup>1</sup>
+
+Die für die Überprüfung zuständige Behörde informiert die Ausländerinnen und Ausländer vor Beginn der Überprüfung über:
+
+- a. den Zweck, die Dauer und die einzelnen Schritte der Überprüfung nach der Verordnung (EU) 2024/1356[^68a-1];
+- b. die möglichen Ergebnisse der Überprüfung;
+- c. ihr Recht, ein Asylgesuch einzureichen;
+- d. ihre Rechte und Pflichten während der Überprüfung, insbesondere über ihre Mitwirkungspflicht sowie ihre Rechte nach dem Datenschutzgesetz vom 25. September 2020[^68a-2].
+
+<sup>2</sup>
+
+Sie informiert die Ausländerinnen und Ausländer im späteren Verlauf des Verfahrens über:
+
+- a. die Einreise- und Aufenthaltsbedingungen, insbesondere die Einreisevoraussetzungen nach der Verordnung (EU) 2016/399[^68a-3], falls diese Informationen nicht bereits zuvor mitgeteilt worden sind;
+- b. falls angezeigt, den Zugang zur Rückkehr- und Wiedereingliederungshilfe nach Artikel 60 AIG.
+
+<sup>3</sup> Die Information nach den Absätzen 1 und 2 erfolgt in Papierform oder in elektronischer Form und in einer Sprache, die von der betroffenen Person verstanden wird oder von der ausgegangen werden kann, dass sie sie versteht. Falls notwendig, ist eine Dolmetscherin oder ein Dolmetscher beizuziehen. Bei minderjährigen Ausländerinnen und Ausländern erfolgt die Information auf eine kinderfreundliche und altersgerechte Weise, wobei ein Elternteil, ein erwachsener Familienangehöriger oder eine Vertrauensperson einbezogen wird.
+
+<sup>4</sup> Das SEM stellt den für die Überprüfung zuständigen Behörden die erforderlichen Unterlagen zur Verfügung, um eine einheitliche Information zu gewährleisten.
+
+[^68a-1]: Siehe Fussnote zu Art. 1 Abs. 4 Bst. n.
+[^68a-2]: [SR 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
+[^68a-3]: Siehe Fussnote zu Art. 1 Abs. 4 Bst. m.
+
+#### Art. 68b
+
+**Zuweisung an ein Zentrum vor der Überprüfung**
+
+Ausländerinnen und Ausländer werden vor der Überprüfung an ein Zentrum des Bundes nach Artikel 24 AsylG beziehungsweise an ein kantonal oder kommunal geführtes Zentrum nach Artikel 24*d* AsylG zugewiesen, wenn sie:
+
+- a. im Hoheitsgebiet der Schweiz aufgegriffen werden und ein Asylgesuch einreichen; oder
+- b. an der Schengen-Aussengrenze an einem Schweizer Flughafen ein Asylgesuch einreichen und kein Asylverfahren am Flughafen nach Artikel 22 AsylG durchgeführt wird.
+
+#### Art. 68c
+
+**Abschluss der Überprüfung**
+
+<sup>1</sup>
+
+Die Überprüfung ist abgeschlossen, wenn:
+
+- a. alle Schritte der Überprüfung nach Artikel 9*b* Absatz 2 AIG, Artikel 9*c* Absatz 2 AIG, Artikel 21*a* Absatz 4 des Asylgesetzes vom 26. Juni 1998[^68c-1] (AsylG) oder Artikel 26 Absatz 1<sup>ter</sup> AsylG innerhalb der vorgegebenen Fristen durchgeführt wurden;
+- b. vor Beendigung aller Prüfschritte die Frist abgelaufen ist.
+
+<sup>2</sup> Reichen Ausländerinnen und Ausländer kein Asylgesuch ein, so führt die zuständige Behörde nach Abschluss der Überprüfung ein Wegweisungsverfahren nach Artikel 64 AIG durch.
+
+<sup>3</sup> Reichen Ausländerinnen und Ausländer während der Überprüfung ein Asylgesuch ein, so werden sie nach Abschluss der Überprüfung an ein Zentrum des Bundes nach Artikel 24 AsylG beziehungsweise an ein kantonal oder kommunal geführtes Zentrum nach Artikel 24*d* AsylG verwiesen.
+
+[^68c-1]: [SR 142.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4878)
+
+#### Art. 68d
+
+**Überprüfungsformular**
+
+<sup>1</sup> Die für die Überprüfung zuständige Behörde füllt nach Abschluss der Überprüfung ein Formular nach Artikel 17 der Verordnung (EU) 2024/1356[^68d-1] aus. Das Formular wird vom SEM zur Verfügung gestellt.
+
+<sup>2</sup> Die betroffene Person erhält das ausgefüllte Formular oder die im Formular vermerkten Resultate der Überprüfung in Papierform oder in elektronischer Form. Die Ergebnisse der Abfragen von Informationssystemen zur Sicherheitskontrolle werden nicht mitgeteilt.
+
+<sup>3</sup> Die betroffene Person kann auf unrichtige Angaben im Formular hinweisen. Die zuständige Behörde bringt einen entsprechenden Vermerk im ausgefüllten Formular an. Der betroffenen Person darf dadurch kein Nachteil in einem nachfolgenden Verfahren erwachsen.
+
+<sup>4</sup> Die zuständige Behörde leitet das ausgefüllte Formular an die für das nachfolgende Verfahren zuständige Behörde weiter.
+
+[^68d-1]: Siehe Fussnote zu Art. 1 Abs. 4 Bst. n.
+
+#### Art. 68e
+
+**Feststellung bereits erfolgter Überprüfung**
+
+<sup>1</sup> Die zuständige Behörde verzichtet auf die Durchführung einer Überprüfung, wenn die betroffene Person bereits zu einem früheren Zeitpunkt einer Überprüfung unterzogen worden ist.
+
+<sup>2</sup> Sie darf davon ausgehen, dass eine Überprüfung bereits erfolgt ist, wenn die betroffene Person nach dem 12. Juni 2026 im Informationssystem Eurodac erfasst wurde.
+
+#### Art. 68f
+
+**Überprüfung bei einem Straf- oder Auslieferungsverfahren**
+
+<sup>1</sup> Ist gegen Ausländerinnen und Ausländer ein Straf- oder Auslieferungsverfahren hängig, so wird keine Überprüfung durchgeführt. Ausgenommen davon sind Strafverfahren, die gestützt auf Artikel 115 AIG eingeleitet wurden.
+
+<sup>2</sup> Wird während der Überprüfung ein Straf- oder Auslieferungsverfahren gegen die betroffene Person eingeleitet, so wird die Überprüfung beendet. Ausgenommen davon sind Strafverfahren, die gestützt auf Artikel 115 AIG eingeleitet werden. Der Grund für die Beendigung wird im Formular nach Artikel 68*d* vermerkt.
 
 ## 13. Abschnitt : Schlussbestimmungen
 
