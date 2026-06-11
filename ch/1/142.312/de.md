@@ -4,11 +4,11 @@ title: "Asylverordnung 2 vom 11. August 1999 über Finanzierungsfragen (Asylvero
 short: AsylV 2
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/360"
 language: de
-version: 2025-07-01
+version: 2026-06-12
 adopted: 1999-08-11
 in_force: 1999-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/360/20250701/de/xml/fedlex-data-admin-ch-eli-cc-1999-360-20250701-de-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/360/20250701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/360/20260612/de/xml/fedlex-data-admin-ch-eli-cc-1999-360-20260612-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/360/20260612/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1999/360/20250701/de"
 
 (Asylverordnung 2, AsylV 2)
 
-vom 11. August 1999 (Stand am 1. Juli 2025)
+vom 11. August 1999 (Stand am 12. Juni 2026)
 
 Der Schweizerische Bundesrat,
 
@@ -25,7 +25,7 @@ gestützt auf Artikel 119 des Asylgesetzes vom 26. Juni 1998[^ingress-1] (AsylG)
 
 verordnet:
 
-[^ingress-1]: [SR 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
+[^ingress-1]: [SR 142.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4878)
 
 ## 1. Titel: Gegenstand
 
@@ -56,8 +56,8 @@ Diese Verordnung regelt die Festsetzung, Ausrichtung, Abrechnung und Rückerstat
 Vergütbare Sozialhilfe- und Nothilfeleistungen nach Artikel 88 des AsylG sind Unterstützungen im Sinne von Artikel 82 des AsylG und Artikel 3 des Zuständigkeitsgesetzes vom 24. Juni 1977[^2-2]. Ausgenommen davon sind Leistungen, welche nach Artikel 15 der Verordnung vom 15. August 2018[^2-3] über die Integration von Ausländerinnen und Ausländern abgegolten werden.
 
 [^2-1]: Fassung gemäss Ziff. I der V vom 30. März 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 233](https://fedlex.data.admin.ch/eli/oc/2022/233)).
-[^2-2]: [SR 851.1](https://fedlex.data.admin.ch/eli/cc/1978/221_221_221)
-[^2-3]: [SR 142.205](https://fedlex.data.admin.ch/eli/cc/2018/511)
+[^2-2]: [SR 851.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10359)
+[^2-3]: [SR 142.205](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4857)
 
 #### Art. 3
 
@@ -115,8 +115,8 @@ Vorbehältlich der Artikel 82 Absatz 4 und Artikel 83*a* des AsylG richten sich 
 <sup>6</sup> Sämtliche Zahlungen werden ausschliesslich auf die Kontokorrente der Kantone bei der Eidgenössischen Finanzverwaltung angewiesen. Subventionsrechtliche Rückforderungen sowie Rückforderungen aus Kürzungen nach Artikel 89*a* Absatz 2 des AsylG werden mit den Auszahlungen nach Absatz 2 verrechnet.[^5-6]
 
 [^5-1]: Fassung gemäss Ziff. I der V vom 24. Okt. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 5585](https://fedlex.data.admin.ch/eli/oc/2007/768)).
-[^5-2]: [SR 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
-[^5-3]: Der Titel wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) auf den 1. Jan. 2019 angepasst. Diese Anpassung wurde im ganzen Text vorgenommen.
+[^5-2]: [SR 142.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4851)
+[^5-3]: Der Titel wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)) auf den 1. Jan. 2019 angepasst. Diese Anpassung wurde im ganzen Text vorgenommen.
 [^5-4]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 16 Abs. 3 der Publikationsverordnung vom 17. Nov. 2004 ([AS 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)) auf den 1. Jan. 2015 angepasst. Diese Anpassung wurde im ganzen Text vorgenommen.
 [^5-5]: Aufgehoben durch Ziff. I der V vom 7. Dez. 2012, mit Wirkung seit 1. April 2013 ([AS 2012 6951](https://fedlex.data.admin.ch/eli/oc/2012/842)).
 [^5-6]: Fassung gemäss Ziff. I der V vom 13. Dez. 2013, in Kraft seit 1. Febr. 2014 ([AS 2013 5359](https://fedlex.data.admin.ch/eli/oc/2013/856)).
@@ -140,7 +140,7 @@ Für die Steuerung und Anpassung der finanziellen Abgeltungen des Bundes können
 Der Anspruch von vorläufig aufgenommenen Personen auf Prämienverbilligungsbeiträge nach Artikel 65 des Bundesgesetzes vom 18. März 1994[^5b-2] über die Krankenversicherung (KVG) lebt sieben Jahre nach deren Einreise wieder auf.
 
 [^5b-1]: Eingefügt durch Ziff. I der V vom 24. Okt. 2007 ([AS 2007 5585](https://fedlex.data.admin.ch/eli/oc/2007/768)). Fassung gemäss Ziff. I der V vom 8. Juni 2018, in Kraft seit 1. März 2019 ([AS 2018 2875](https://fedlex.data.admin.ch/eli/oc/2018/440)).
-[^5b-2]: [SR 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^5b-2]: [SR 832.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133)
 
 ### 2. Abschnitt: Kinderzulagen
 
@@ -169,7 +169,7 @@ Zurückbehaltene Kinderzulagen werden einer asylsuchenden Person ausbezahlt, wen
 <sup>2</sup> Kinderzulagen für im Ausland lebende Kinder gelten als eigene Mittel der anspruchsberechtigten Person im Sinne von Artikel 81 des AsylG.
 
 [^7-1]: Fassung gemäss Ziff. I der V vom 24. Okt. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 5585](https://fedlex.data.admin.ch/eli/oc/2007/768)).
-[^7-2]: [SR 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
+[^7-2]: [SR 142.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4851)
 
 ### 2. Kapitel: Sonderabgabe auf Vermögenswerten
 
@@ -246,7 +246,7 @@ Das Informationssystem Sonderabgabe enthält folgende Daten:
 <sup>3</sup> Zugriff auf die Daten des Informationssystems Sonderabgabe haben die Mitarbeiterinnen und Mitarbeiter des SEM, die mit der Verwaltung der Sonderabgabe auf Vermögenswerten beauftragt sind.
 
 [^12-1]: Fassung gemäss Ziff. I der V vom 15. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6545](https://fedlex.data.admin.ch/eli/oc/2017/721)).
-[^12-2]: Bundesgesetz vom 20. Juni 2003 über das Informationssystem für den Ausländer- und den Asylbereich ([SR 142.51](https://fedlex.data.admin.ch/eli/cc/2006/301)).
+[^12-2]: Bundesgesetz vom 20. Juni 2003 über das Informationssystem für den Ausländer- und den Asylbereich ([SR 142.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4898)).
 
 #### Art. 13–15
 
@@ -335,9 +335,9 @@ Der Bund vergütet den Kantonen Globalpauschalen für Personen während des Asyl
 [^20-5]: Fassung gemäss Ziff. I der V vom 30. März 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 233](https://fedlex.data.admin.ch/eli/oc/2022/233)).
 [^20-6]: Fassung gemäss Ziff. I der V vom 28. Mai 2025, in Kraft seit 1. Juli 2025 ([AS 2025 404](https://fedlex.data.admin.ch/eli/oc/2025/404)).
 [^20-7]: Fassung gemäss Ziff. I der V vom 30. März 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 233](https://fedlex.data.admin.ch/eli/oc/2022/233)).
-[^20-8]: [SR 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
-[^20-9]: [SR 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
-[^20-10]: [SR 0.632.31](https://fedlex.data.admin.ch/eli/cc/1960/590_635_621)
+[^20-8]: [SR 142.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4851)
+[^20-9]: [SR 0.142.112.681](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/211)
+[^20-10]: [SR 0.632.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2314)
 [^20-11]: Eingefügt durch Ziff. I der V vom 28. Mai 2025, in Kraft seit 1. Juli 2025 ([AS 2025 404](https://fedlex.data.admin.ch/eli/oc/2025/404)).
 [^20-12]: Eingefügt durch Ziff. I der V vom 28. Mai 2025, in Kraft seit 1. Juli 2025 ([AS 2025 404](https://fedlex.data.admin.ch/eli/oc/2025/404)).
 
@@ -402,8 +402,8 @@ Der Anteil für die Kosten beträgt:
 [^22-1]: Siehe auch die UeB Änd. 24.10.2007, 12.12.2008, 7.12.2012, 8.6.2018, 10.4.2019 und 30.3.2022 am Ende dieses Textes.
 [^22-2]: Fassung gemäss Ziff. I der V vom 30. März 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 233](https://fedlex.data.admin.ch/eli/oc/2022/233)).
 [^22-3]: Fassung gemäss Ziff. I der V vom 8. Juni 2018, in Kraft seit 1. März 2019 ([AS 2018 2875](https://fedlex.data.admin.ch/eli/oc/2018/440)).
-[^22-4]: V des EDI vom 28. Okt. 2016 über die Durchschnittsprämien der Krankenpflegeversicherung für die Berechnung der Ergänzungsleistungen ([SR 831.309.1](https://fedlex.data.admin.ch/eli/cc/2024/659))
-[^22-5]: [SR 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^22-4]: V des EDI vom 28. Okt. 2016 über die Durchschnittsprämien der Krankenpflegeversicherung für die Berechnung der Ergänzungsleistungen ([SR 831.309.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10091))
+[^22-5]: [SR 832.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133)
 [^22-6]: Fassung gemäss Ziff. I der V vom 8. Juni 2018, in Kraft seit 1. März 2019 ([AS 2018 2875](https://fedlex.data.admin.ch/eli/oc/2018/440)).
 [^22-7]: Fassung gemäss Ziff. I der V vom 30. März 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 233](https://fedlex.data.admin.ch/eli/oc/2022/233)).
 [^22-8]: Eingefügt durch Ziff. I der V vom 10. April 2019, in Kraft seit 1. Mai 2019 ([AS 2019 1233](https://fedlex.data.admin.ch/eli/oc/2019/235)).
@@ -465,7 +465,7 @@ In der Formel bedeuten:
 [^23-3]: Fassung gemäss Ziff. I der V vom 30. März 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 233](https://fedlex.data.admin.ch/eli/oc/2022/233)).
 [^23-4]: Fassung gemäss Ziff. I der V vom 8. Juni 2018, in Kraft seit 1. März 2019 ([AS 2018 2875](https://fedlex.data.admin.ch/eli/oc/2018/440)).
 [^23-5]: Eingefügt durch Ziff. I der V vom 30. März 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 233](https://fedlex.data.admin.ch/eli/oc/2022/233)).
-[^23-6]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^23-6]: [SR 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 [^23-7]: Eingefügt durch Ziff. I der V vom 30. März 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 233](https://fedlex.data.admin.ch/eli/oc/2022/233)).
 
 #### Art. 23a
@@ -506,12 +506,12 @@ Der Bund vergütet den Kantonen Globalpauschalen für Flüchtlinge und Staatenlo
 <sup>6</sup> Wird ein anerkannter Flüchtling zu einem späteren Zeitpunkt als staatenlose Person anerkannt oder wird eine anerkannte staatenlose Person zu einem späteren Zeitpunkt als Flüchtling anerkannt, so wird die Dauer des bisherigen Aufenthalts ab Einreichung des Asylgesuchs oder ab Anerkennung der Staatenlosigkeit vollumfänglich an die maximale Dauer der Kostenerstattungspflicht nach Absatz 1 Buchstaben a–d<sup>bis</sup> angerechnet.[^24-12]
 
 [^24-1]: Siehe auch die UeB Änd. 7.12.2012 und 30.3.2022 am Ende dieses Textes.
-[^24-2]: [SR 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
-[^24-3]: [SR 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
-[^24-4]: [SR 0.632.31](https://fedlex.data.admin.ch/eli/cc/1960/590_635_621)
+[^24-2]: [SR 142.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4851)
+[^24-3]: [SR 0.142.112.681](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/211)
+[^24-4]: [SR 0.632.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2314)
 [^24-5]: Fassung gemäss Ziff. I 3 der V vom 4. Mai 2022 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Juni 2022 ([AS 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
-[^24-6]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^24-7]: [SR 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
+[^24-6]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^24-7]: [SR 321.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6242)
 [^24-8]: Fassung gemäss Ziff. I 3 der V vom 4. Mai 2022 über polizeiliche Massnahmen zur Bekämpfung von Terrorismus, in Kraft seit 1. Juni 2022 ([AS 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
 [^24-9]: Fassung gemäss Ziff. I der V vom 30. März 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 233](https://fedlex.data.admin.ch/eli/oc/2022/233)).
 [^24-10]: Fassung gemäss Ziff. I der V vom 28. Mai 2025, in Kraft seit 1. Juli 2025 ([AS 2025 404](https://fedlex.data.admin.ch/eli/oc/2025/404)).
@@ -582,7 +582,7 @@ Bei wesentlichen Veränderungen auf dem Liegenschaftsmarkt kann das SEM die kant
 [^26-2]: Fassung gemäss Ziff. I der V vom 30. März 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 233](https://fedlex.data.admin.ch/eli/oc/2022/233)).
 [^26-3]: Die Berichtigung vom 13. Febr. 2018 betrifft nur den italienischen Text ([AS 2018 731](https://fedlex.data.admin.ch/eli/oc/2018/92)).
 [^26-4]: Fassung gemäss Ziff. I der V vom 8. Juni 2018, in Kraft seit 1. März 2019 ([AS 2018 2875](https://fedlex.data.admin.ch/eli/oc/2018/440)).
-[^26-5]: [SR 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^26-5]: [SR 832.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133)
 [^26-6]: Fassung gemäss Ziff. I der V vom 8. Juni 2018, in Kraft seit 1. März 2019 ([AS 2018 2875](https://fedlex.data.admin.ch/eli/oc/2018/440)).
 [^26-7]: Fassung gemäss Ziff. I der V vom 30. März 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 233](https://fedlex.data.admin.ch/eli/oc/2022/233)).
 [^26-8]: Eingefügt durch Ziff. I der V vom 10. April 2019, in Kraft seit 1. Mai 2019 ([AS 2019 1233](https://fedlex.data.admin.ch/eli/oc/2019/235)).
@@ -621,7 +621,7 @@ In der Formel bedeuten:
 - NLQ<sub>KT</sub> = Kantonale Quote des vorletzten Jahres der im jeweiligen Kanton zu einem Niedriglohn (Bruttomonatslohn &lt; = 600 Franken) beschäftigten Flüchtlinge, Staatenlosen und schutzbedürftigen Personen mit einer Aufenthaltsbewilligung gemäss den vom SEM ausgewerteten Meldungen der Zentralen Ausgleichstelle nach Artikel 93<sup>bis</sup> AHVG[^27-2].
 
 [^27-1]: Fassung gemäss Ziff. I der V vom 30. März 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 233](https://fedlex.data.admin.ch/eli/oc/2022/233)). Siehe auch die UeB Änd. 30.3.2022 am Ende dieses Textes.
-[^27-2]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^27-2]: [SR 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 
 #### Art. 27a
 
@@ -742,7 +742,7 @@ Der Bund beteiligt sich an diesen Kosten mit einem jährlichen Pauschalbeitrag. 
 <sup>3</sup> Der Pauschalbeitrag nach Absatz 2 Variable P beträgt 550 Franken beim Stand des Landesindexes der Konsumentenpreise vom 31. Oktober 2018. Das SEM passt ihn jeweils Ende des Jahres für das folgende Kalenderjahr an diesen Index an.[^31-4]
 
 [^31-1]: Fassung gemäss Ziff. I der V vom 24. Okt. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 5585](https://fedlex.data.admin.ch/eli/oc/2007/768)).
-[^31-2]: [SR 142.311](https://fedlex.data.admin.ch/eli/cc/1999/359)
+[^31-2]: [SR 142.311](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4880)
 [^31-3]: Fassung gemäss Ziff. I der V vom 8. Juni 2018, in Kraft seit 1. März 2019 ([AS 2018 2875](https://fedlex.data.admin.ch/eli/oc/2018/440)).
 [^31-4]: Fassung gemäss Ziff. I der V vom 8. Juni 2018, in Kraft seit 1. März 2019 ([AS 2018 2875](https://fedlex.data.admin.ch/eli/oc/2018/440)).
 
@@ -1086,9 +1086,11 @@ Das SEM behandelt das Gesuch nach den Grundsätzen der Notwendigkeit und Zweckm�
 
 <sup>1</sup> Der Bundesrat beschliesst Massnahmen, die mehr als 20 Millionen Franken kosten.
 
-<sup>2</sup> Das EJPD entscheidet über Massnahmen, die mehr als 5 Millionen Franken und höchstens 20 Millionen Franken kosten. Bei Massnahmen über 10 Millionen Franken entscheidet es im Einvernehmen mit dem Eidgenössischen Finanzdepartement.
+<sup>2</sup> Das EJPD entscheidet über Massnahmen, die mehr als 5 Millionen Franken und höchstens 20 Millionen Franken kosten.[^52c-1]
 
 <sup>3</sup> Das SEM entscheidet über Massnahmen bis zum Höchstbetrag von 5 Millionen Franken.
+
+[^52c-1]: Fassung gemäss Ziff. I der V vom 20. Mai 2026, in Kraft seit 12. Juni 2026 ([AS 2026 265](https://fedlex.data.admin.ch/eli/oc/2026/265)).
 
 #### Art. 52d
 
@@ -1220,7 +1222,7 @@ Für Personen, die auf der gesamten Rückreise polizeilich begleitet werden müs
 <sup>5</sup> Der Kanton kann Drittpersonen mit der sozialen Begleitung nach Absatz 5 beauftragen.
 
 [^58-1]: Fassung gemäss Ziff. I der V vom 8. Juni 2018, in Kraft seit 1. März 2019 ([AS 2018 2875](https://fedlex.data.admin.ch/eli/oc/2018/440)).
-[^58-2]: [SR 364.3](https://fedlex.data.admin.ch/eli/cc/2008/760)
+[^58-2]: [SR 364.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6324)
 
 #### Art. 58a
 
@@ -1231,7 +1233,7 @@ Für Personen, die auf der gesamten Rückreise polizeilich begleitet werden müs
 <sup>2</sup> Der Bund vergütet dem für den Vollzug der Wegweisung zuständigen Kanton eine Pauschale von 300 Franken, wenn die ausreisepflichtige Person am Ort der Identitätsabklärung übernachten muss. In dieser Pauschale ist die Haftpauschale nach Artikel 15 Absatz 1 der Verordnung vom 11. August 1999[^58a-2] über den Vollzug der Weg- und Ausweisung sowie der Landesverweisung von ausländischen Personen (VVWAL) bereits enthalten.[^58a-3]
 
 [^58a-1]: Eingefügt durch Ziff. I der V vom 1. März 2006, in Kraft seit 1. April 2006 ([AS 2006 933](https://fedlex.data.admin.ch/eli/oc/2006/166)).
-[^58a-2]: [SR 142.281](https://fedlex.data.admin.ch/eli/cc/1999/357)
+[^58a-2]: [SR 142.281](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4867)
 [^58a-3]: Fassung gemäss Ziff. I 5 der V vom 1. Febr. 2017 über die Einführung der Landesverweisung, in Kraft seit 1. März 2017 ([AS 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)).
 
 #### Art. 58b
@@ -1245,7 +1247,7 @@ Für Personen, die auf der gesamten Rückreise polizeilich begleitet werden müs
 <sup>3</sup> Die Pauschalen nach den Absätzen 1 und 2 basieren auf dem Stand des Landesindexes der Konsumentenpreise vom 31. Oktober 2018. Das SEM passt die Pauschalen jeweils Ende des Jahres für das folgende Kalenderjahr der Indexentwicklung an.
 
 [^58b-1]: Eingefügt durch Ziff. I der V vom 8. Juni 2018, in Kraft seit 1. März 2019 ([AS 2018 2875](https://fedlex.data.admin.ch/eli/oc/2018/440)).
-[^58b-2]: [SR 364](https://fedlex.data.admin.ch/eli/cc/2008/759)
+[^58b-2]: [SR 364](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6323)
 
 #### Art. 59
 
@@ -1274,7 +1276,7 @@ Der Bund vergütet die Kosten für:
 [^59-3]: Aufgehoben durch Ziff. I der V vom 24. Okt. 2007, mit Wirkung seit 1. Jan. 2008 ([AS 2007 5585](https://fedlex.data.admin.ch/eli/oc/2007/768)).
 [^59-4]: Fassung gemäss Ziff. I der V vom 8. Juni 2018, in Kraft seit 1. März 2019 ([AS 2018 2875](https://fedlex.data.admin.ch/eli/oc/2018/440)).
 [^59-5]: Fassung gemäss Ziff. I 5 der V vom 1. Febr. 2017 über die Einführung der Landesverweisung, in Kraft seit 1. März 2017 ([AS 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)).
-[^59-6]: [SR 142.281](https://fedlex.data.admin.ch/eli/cc/1999/357)
+[^59-6]: [SR 142.281](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4867)
 [^59-7]: Aufgehoben durch Ziff. I der V vom 7. Dez. 2012, mit Wirkung seit 1. Jan. 2013 ([AS 2012 6951](https://fedlex.data.admin.ch/eli/oc/2012/842)).
 [^59-8]: Fassung gemäss Ziff. I der V vom 8. Juni 2018, in Kraft seit 1. März 2019 ([AS 2018 2875](https://fedlex.data.admin.ch/eli/oc/2018/440)).
 [^59-9]: Aufgehoben durch Ziff. I der V vom 24. Okt. 2007, mit Wirkung seit 1. Jan. 2008 ([AS 2007 5585](https://fedlex.data.admin.ch/eli/oc/2007/768)).
@@ -1294,8 +1296,8 @@ Der Bund vergütet die Kosten für:
 [^59a-1]: Eingefügt durch Ziff. I der V vom 24. Okt. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 5585](https://fedlex.data.admin.ch/eli/oc/2007/768)).
 [^59a-2]: Fassung gemäss Ziff. I der V vom 8. Juni 2018, in Kraft seit 1. März 2019 ([AS 2018 2875](https://fedlex.data.admin.ch/eli/oc/2018/440)).
 [^59a-3]: Fassung gemäss Ziff. I der V vom 8. Juni 2018, in Kraft seit 1. März 2019 ([AS 2018 2875](https://fedlex.data.admin.ch/eli/oc/2018/440)).
-[^59a-4]: [SR 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
-[^59a-5]: [SR 142.281](https://fedlex.data.admin.ch/eli/cc/1999/357)
+[^59a-4]: [SR 142.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4851)
+[^59a-5]: [SR 142.281](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4867)
 [^59a-6]: Eingefügt durch Ziff. I der V vom 7. Dez. 2012 ([AS 2012 6951](https://fedlex.data.admin.ch/eli/oc/2012/842)). Fassung gemäss Ziff. I der V vom 8. Juni 2018, in Kraft seit 1. März 2019 ([AS 2018 2875](https://fedlex.data.admin.ch/eli/oc/2018/440)).
 [^59a-7]: Fassung gemäss Ziff. I der V vom 7. Dez. 2012, in Kraft seit 1. April 2013 ([AS 2012 6951](https://fedlex.data.admin.ch/eli/oc/2012/842)).
 
@@ -1328,8 +1330,8 @@ Das SEM entscheidet auf Antrag der Kantone über die Ausrichtung des Ausreisegel
 
 [^59abis-1]: Eingefügt durch Ziff. I der V vom 7. Dez. 2012, in Kraft seit 1. April 2013 ([AS 2012 6951](https://fedlex.data.admin.ch/eli/oc/2012/842)).
 [^59abis-2]: Fassung gemäss Ziff. I der V vom 8. Juni 2018, in Kraft seit 1. März 2019 ([AS 2018 2875](https://fedlex.data.admin.ch/eli/oc/2018/440)).
-[^59abis-3]: [SR 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
-[^59abis-4]: [SR 142.281](https://fedlex.data.admin.ch/eli/cc/1999/357)
+[^59abis-3]: [SR 142.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4851)
+[^59abis-4]: [SR 142.281](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4867)
 [^59abis-5]: Eingefügt durch Ziff. I der V vom 8. Juni 2018, in Kraft seit 1. März 2019 ([AS 2018 2875](https://fedlex.data.admin.ch/eli/oc/2018/440)).
 [^59abis-6]: Fassung gemäss Ziff. I der V vom 8. Juni 2018, in Kraft seit 1. März 2019 ([AS 2018 2875](https://fedlex.data.admin.ch/eli/oc/2018/440)).
 
@@ -1399,7 +1401,7 @@ Das SEM entscheidet auf Antrag der Kantone über die Ausrichtung des Ausreisegel
 Begünstigte von Rückkehrhilfeleistungen sind Personen, deren Anwesenheitsverhältnis nach dem AsylG oder nach den Bestimmungen der vorläufigen Aufnahmen des AIG[^63-2] geregelt ist.
 
 [^63-1]: Fassung gemäss Ziff. I der V vom 24. Okt. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 5585](https://fedlex.data.admin.ch/eli/oc/2007/768)).
-[^63-2]: [SR 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
+[^63-2]: [SR 142.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4851)
 
 #### Art. 64
 
@@ -1460,7 +1462,7 @@ Aufgehoben
 Rückkehrberatungsstellen in den Kantonen, in den Zentren des Bundes[^66-1] und an den Flughäfen Zürich-Kloten und Genf-Cointrin sorgen für die Verbreitung von Informationen über Rückkehr und Rückkehrhilfe bei kantonalen Behörden, interessierten privaten Institutionen und bei Personen aus dem Asylbereich sowie bei Personen nach Artikel 60 AIG[^66-2]. Die Rückkehrberatungsstellen führen individuelle Rückkehrberatungen für Interessierte durch.
 
 [^66-1]: Ausdruck gemäss Ziff. I der V vom 8. Juni 2018, in Kraft seit 1. März 2019 ([AS 2018 2875](https://fedlex.data.admin.ch/eli/oc/2018/440)).
-[^66-2]: [SR 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
+[^66-2]: [SR 142.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4851)
 
 #### Art. 67
 
@@ -1511,7 +1513,7 @@ Rückkehrberatungsstellen in den Kantonen, in den Zentren des Bundes[^66-1] und 
 
 [^68-1]: Fassung gemäss Ziff. I der V vom 8. Juni 2018, in Kraft seit 1. Jan. 2020 ([AS 2018 2875](https://fedlex.data.admin.ch/eli/oc/2018/440)).
 [^68-2]: Fassung gemäss Ziff. I der V vom 8. Juni 2018, in Kraft seit 1. Jan. 2020 ([AS 2018 2875](https://fedlex.data.admin.ch/eli/oc/2018/440)).
-[^68-3]: [SR 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
+[^68-3]: [SR 616.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7794)
 
 #### Art. 68a
 
@@ -1745,7 +1747,7 @@ Die Asylverordnung 2 vom 22. Mai 1991[^81-1] wird aufgehoben.
 
 Für Personen, deren Nichteintretensentscheid nach den Artikeln 32–34 und deren Wegweisungsentscheid nach Artikel 44 des AsylG vor Inkrafttreten dieser Verordnungsänderung rechtskräftig wurde, richtet der Bund den Kantonen die Pauschalen für Sozialhilfekosten nach Artikel 88 Absatz 1 Buchstabe a des AsylG bis längstens zum Ablauf der Ausreisefrist aus. Hat der Bund den Kantonen im Rahmen der Vollzugsunterstützung nach Artikel 22*a* des Bundesgesetzes vom 26. März 1931[^u1-2] über Aufenthalt und Niederlassung der Ausländer die weitere Abgeltung der Sozialhilfekosten zugesichert, so richtet er ihnen die Pauschalen nach Artikel 88 Absatz 1 Buchstabe a des AsylG bis längstens neun Monate nach Inkrafttreten dieser Verordnungsänderung aus. Voraussetzung dazu ist, dass die Kantone das Gesuch um Vollzugsunterstützung inklusive Kostenübernahme bis spätestens Ende des Monats, in dem diese Verordnung in Kraft tritt, eingereicht haben.
 
-[^u1-2]: [BS **1** 121; [AS 1949 221](https://fedlex.data.admin.ch/eli/oc/1949/221_225_225); [1987 1665](https://fedlex.data.admin.ch/eli/oc/1987/1665_1665_1665); [1988 332](https://fedlex.data.admin.ch/eli/oc/1988/332_332_332); [1990 1587](https://fedlex.data.admin.ch/eli/oc/1990/1587_1587_1587)Art. 3 Abs. 2; [1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362)Ziff. II 11, [1034](https://fedlex.data.admin.ch/eli/oc/1991/1034_1034_1034)Ziff. III; [1995 146](https://fedlex.data.admin.ch/eli/oc/1995/146_146_146); [1999 1111](https://fedlex.data.admin.ch/eli/oc/1999/148), [2262](https://fedlex.data.admin.ch/eli/oc/1999/358)Anhang Ziff. 1; [2000 1891](https://fedlex.data.admin.ch/eli/oc/2000/293)Ziff. IV 2; [2002 685](https://fedlex.data.admin.ch/eli/oc/2002/139)Ziff. I 1, [701](https://fedlex.data.admin.ch/eli/oc/2002/140)Ziff. I 1, [3988](https://fedlex.data.admin.ch/eli/oc/2002/639)Anhang Ziff. 3; [2003 4557](https://fedlex.data.admin.ch/eli/oc/2003/674)Anhang Ziff. II 2; [2004 1633](https://fedlex.data.admin.ch/eli/oc/2004/200)Ziff. I 1, [4655](https://fedlex.data.admin.ch/eli/oc/2004/715)Ziff. I 1; [2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782)Anhang Ziff. 2; [2006 979](https://fedlex.data.admin.ch/eli/oc/2006/178)Art. 2 Ziff. 1, [1931](https://fedlex.data.admin.ch/eli/oc/2006/301)Art. 18 Ziff. 1, [2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Anhang Ziff. 3, [3459](https://fedlex.data.admin.ch/eli/oc/2006/549)Anhang Ziff. 1, [4745](https://fedlex.data.admin.ch/eli/oc/2006/727)Anhang Ziff. 1; [2007 359](https://fedlex.data.admin.ch/eli/oc/2007/71)Anhang Ziff. 1. [AS 2007 5437](https://fedlex.data.admin.ch/eli/oc/2007/758)Anhang Ziff. I]. Siehe heute: das Ausländer- und Integrationsgesetz vom 16. Dez. 2005 ([SR 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)).
+[^u1-2]: [BS **1** 121; [AS 1949 221](https://fedlex.data.admin.ch/eli/oc/1949/221_225_225); [1987 1665](https://fedlex.data.admin.ch/eli/oc/1987/1665_1665_1665); [1988 332](https://fedlex.data.admin.ch/eli/oc/1988/332_332_332); [1990 1587](https://fedlex.data.admin.ch/eli/oc/1990/1587_1587_1587)Art. 3 Abs. 2; [1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362)Ziff. II 11, [1034](https://fedlex.data.admin.ch/eli/oc/1991/1034_1034_1034)Ziff. III; [1995 146](https://fedlex.data.admin.ch/eli/oc/1995/146_146_146); [1999 1111](https://fedlex.data.admin.ch/eli/oc/1999/148), [2262](https://fedlex.data.admin.ch/eli/oc/1999/358)Anhang Ziff. 1; [2000 1891](https://fedlex.data.admin.ch/eli/oc/2000/293)Ziff. IV 2; [2002 685](https://fedlex.data.admin.ch/eli/oc/2002/139)Ziff. I 1, [701](https://fedlex.data.admin.ch/eli/oc/2002/140)Ziff. I 1, [3988](https://fedlex.data.admin.ch/eli/oc/2002/639)Anhang Ziff. 3; [2003 4557](https://fedlex.data.admin.ch/eli/oc/2003/674)Anhang Ziff. II 2; [2004 1633](https://fedlex.data.admin.ch/eli/oc/2004/200)Ziff. I 1, [4655](https://fedlex.data.admin.ch/eli/oc/2004/715)Ziff. I 1; [2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782)Anhang Ziff. 2; [2006 979](https://fedlex.data.admin.ch/eli/oc/2006/178)Art. 2 Ziff. 1, [1931](https://fedlex.data.admin.ch/eli/oc/2006/301)Art. 18 Ziff. 1, [2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Anhang Ziff. 3, [3459](https://fedlex.data.admin.ch/eli/oc/2006/549)Anhang Ziff. 1, [4745](https://fedlex.data.admin.ch/eli/oc/2006/727)Anhang Ziff. 1; [2007 359](https://fedlex.data.admin.ch/eli/oc/2007/71)Anhang Ziff. 1. [AS 2007 5437](https://fedlex.data.admin.ch/eli/oc/2007/758)Anhang Ziff. I]. Siehe heute: das Ausländer- und Integrationsgesetz vom 16. Dez. 2005 ([SR 142.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4851)).
 
 ## Schlussbestimmung zur Änderung vom 3. Dezember 2004
 

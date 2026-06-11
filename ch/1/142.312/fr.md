@@ -4,11 +4,11 @@ title: "Ordonnance 2 du 11 août 1999 sur l'asile relative au financement (Ordon
 short: OA 2
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/360"
 language: fr
-version: 2025-07-01
+version: 2026-06-12
 adopted: 1999-08-11
 in_force: 1999-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/360/20250701/fr/xml/fedlex-data-admin-ch-eli-cc-1999-360-20250701-fr-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/360/20250701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/360/20260612/fr/xml/fedlex-data-admin-ch-eli-cc-1999-360-20260612-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/360/20260612/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1999/360/20250701/fr"
 
 (Ordonnance 2 sur l’asile, OA 2)
 
-du 11 août 1999 (État le 1<sup>er</sup> juillet 2025)
+du 11 août 1999 (État le 12 juin 2026)
 
 Le Conseil fédéral suisse,
 
@@ -25,7 +25,7 @@ vu l’art. 119 de la loi du 26 juin 1998 sur l’asile (LAsi)[^ingress-1]
 
 arrête:
 
-[^ingress-1]: [RS 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
+[^ingress-1]: [RS 142.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4878)
 
 ## Titre 1 Objet
 
@@ -54,8 +54,8 @@ La présente ordonnance règle la fixation, l’octroi, le décompte et le rembo
 Les prestations d’aide sociale et d’aide d’urgence qui peuvent faire l’objet d’une indemnisation en vertu de l’art. 88 LAsi sont des prestations d’assistance au sens des art. 82 LAsi et 3 de la loi fédérale du 24 juin 1977 sur la compétence en matière d’assistance[^2-2]. Les prestations qui font l’objet d’une indemnisation en vertu de l’art. 15 de l’ordonnance du 15 août 2018 sur l’intégration des étrangers[^2-3] ne sont pas comprises dans cette définition.
 
 [^2-1]: Nouvelle teneur selon le ch. I de l’O du 30 mars 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 233](https://fedlex.data.admin.ch/eli/oc/2022/233)).
-[^2-2]: [RS 851.1](https://fedlex.data.admin.ch/eli/cc/1978/221_221_221)
-[^2-3]: [RS 142.205](https://fedlex.data.admin.ch/eli/cc/2018/511)
+[^2-2]: [RS 851.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10359)
+[^2-3]: [RS 142.205](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4857)
 
 #### Art. 3
 
@@ -113,7 +113,7 @@ Sous réserve des dispositions des art. 82, al. 4, et 83*a* LAsi, la fixation et
 <sup>6</sup> Tous les paiements sont exclusivement versés sur les comptes courants des cantons auprès de l’Administration fédérale des finances. Les demandes de remboursement relevant du droit des subventions de même que les réductions des indemnités de remboursement selon l’art 89*a*, al. 2, LAsi sont prises en compte dans les versements effectués conformément à l’al. 2.[^5-5]
 
 [^5-1]: Nouvelle teneur selon le ch. I de l’O du 24 oct. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5585](https://fedlex.data.admin.ch/eli/oc/2007/768)).
-[^5-2]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758). Le titre a été adapté au 1<sup>er</sup> janv. 2019 en application de l’art. 12 al. 2 de la LF du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)). Il a été tenu compte de cette mod. dans tout le texte.
+[^5-2]: [RS 142.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4851). Le titre a été adapté au 1<sup>er</sup> janv. 2019 en application de l’art. 12 al. 2 de la LF du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)). Il a été tenu compte de cette mod. dans tout le texte.
 [^5-3]: La désignation de l’unité administrative a été adaptée au 1<sup>er</sup> janv. 2015 en application de l’art. 16 al. 3 de l’O du 17 nov. 2004 sur les publications officielles ([RO 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)). Il a été tenu compte de cette mod. dans tout le texte.
 [^5-4]: Abrogé par le ch. I de l’O du 7 déc. 2012, avec effet au 1<sup>er</sup> avr. 2013 ([RO 2012 6951](https://fedlex.data.admin.ch/eli/oc/2012/842)).
 [^5-5]: Nouvelle teneur selon le ch. I de l’O du 13 déc. 2013, en vigueur depuis le 1<sup>er</sup> fév. 2014 ([RO 2013 5359](https://fedlex.data.admin.ch/eli/oc/2013/856)).
@@ -137,7 +137,7 @@ Afin de gérer et d’adapter les indemnités financières versées par la Conf�
 Le droit des personnes admises à titre provisoire à la réduction des primes conformément à l’art. 65 de la loi fédérale du 18 mars 1994 sur l’assurance-maladie (LAMal)[^5b-2] renaît sept ans après leur entrée en Suisse.
 
 [^5b-1]: Introduit par le ch. I de l’O du 24 oct. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5585](https://fedlex.data.admin.ch/eli/oc/2007/768)).
-[^5b-2]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^5b-2]: [RS 832.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133)
 
 ### Section 2 Allocations pour enfants
 
@@ -167,7 +167,7 @@ Les allocations pour enfants qui ont été retenues sont versées au requérant 
 
 [^7-1]: Nouvelle teneur selon le ch. I de l’O du 24 oct. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5585](https://fedlex.data.admin.ch/eli/oc/2007/768)).
 [^7-2]: Nouvelle teneur selon le ch. I de l’O du 24 oct. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5585](https://fedlex.data.admin.ch/eli/oc/2007/768)).
-[^7-3]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
+[^7-3]: [RS 142.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4851)
 
 ### Chapitre 2 Taxe spéciale sur les valeurs patrimoniales
 
@@ -243,7 +243,7 @@ Le système d’information sur la taxe spéciale renferme les données suivante
 <sup>3</sup> Les données du système d’information sur la taxe spéciale sont accessibles aux collaborateurs du SEM chargés d’administrer la taxe spéciale sur les valeurs patrimoniales.
 
 [^12-1]: Nouvelle teneur selon le ch. I de l’O du 15 nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6545](https://fedlex.data.admin.ch/eli/oc/2017/721)).
-[^12-2]: Loi fédérale du 20 juin 2003 sur le système d’information commun aux domaines des étrangers et de l’asile ([RS 142.51](https://fedlex.data.admin.ch/eli/cc/2006/301)).
+[^12-2]: Loi fédérale du 20 juin 2003 sur le système d’information commun aux domaines des étrangers et de l’asile ([RS 142.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4898)).
 
 #### Art. 13 à 15
 
@@ -333,9 +333,9 @@ La Confédération verse aux cantons des forfaits globaux pour les personnes pen
 [^20-5]: Nouvelle teneur selon le ch. I de l’O du 30 mars 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 233](https://fedlex.data.admin.ch/eli/oc/2022/233)).
 [^20-6]: Nouvelle teneur selon le ch. I de l’O du 28 mai 2025, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 404](https://fedlex.data.admin.ch/eli/oc/2025/404)).
 [^20-7]: Nouvelle teneur selon le ch. I de l’O du 30 mars 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 233](https://fedlex.data.admin.ch/eli/oc/2022/233)).
-[^20-8]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
-[^20-9]: [RS 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
-[^20-10]: [RS 0.632.31](https://fedlex.data.admin.ch/eli/cc/1960/590_635_621)
+[^20-8]: [RS 142.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4851)
+[^20-9]: [RS 0.142.112.681](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/211)
+[^20-10]: [RS 0.632.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2314)
 [^20-11]: Introduit par le ch. I de l’O du 28 mai 2025, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 404](https://fedlex.data.admin.ch/eli/oc/2025/404)).
 [^20-12]: Introduit par le ch. I de l’O du 28 mai 2025, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 404](https://fedlex.data.admin.ch/eli/oc/2025/404)).
 
@@ -400,8 +400,8 @@ Les montants des parts sont les suivants:
 [^22-1]: Voir aussi les disp. trans. des mod. du 24 oct. 2007, du 12 déc. 2008, du 7 déc. 2012, du 8 juin 2018, du 10 avr. 2019 et du 30 mars 2022 à la fin du texte.
 [^22-2]: Nouvelle teneur selon le ch. I de l’O du 30 mars 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 233](https://fedlex.data.admin.ch/eli/oc/2022/233)).
 [^22-3]: Nouvelle teneur selon le ch. I de l’O du 8 juin 2018, en vigueur depuis le 1<sup>er</sup> mars 2019 ([RO 2018 2875](https://fedlex.data.admin.ch/eli/oc/2018/440)).
-[^22-4]: O du DFI du 28 oct. 2016 relative aux primes moyennes de l’assurance obligatoire des soins pour le calcul des prestations complémentaires ([RS 831.309.1](https://fedlex.data.admin.ch/eli/cc/2024/659))
-[^22-5]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^22-4]: O du DFI du 28 oct. 2016 relative aux primes moyennes de l’assurance obligatoire des soins pour le calcul des prestations complémentaires ([RS 831.309.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10091))
+[^22-5]: [RS 832.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133)
 [^22-6]: Nouvelle teneur selon le ch. I de l’O du 8 juin 2018, en vigueur depuis le 1<sup>er</sup> mars 2019 ([RO 2018 2875](https://fedlex.data.admin.ch/eli/oc/2018/440)).
 [^22-7]: Nouvelle teneur selon le ch. I de l’O du 30 mars 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 233](https://fedlex.data.admin.ch/eli/oc/2022/233)).
 [^22-8]: Introduit par le ch. I de l’O du 10 avr. 2019, en vigueur depuis le 1<sup>er</sup> mai 2019 ([RO 2019 1233](https://fedlex.data.admin.ch/eli/oc/2019/235)).
@@ -463,7 +463,7 @@ Le nombre consolidé est obtenu par la formule suivante:
 [^23-3]: Nouvelle teneur selon le ch. I de l’O du 30 mars 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 233](https://fedlex.data.admin.ch/eli/oc/2022/233)).
 [^23-4]: Nouvelle teneur selon le ch. I de l’O du 8 juin 2018, en vigueur depuis le 1<sup>er</sup> mars 2019 ([RO 2018 2875](https://fedlex.data.admin.ch/eli/oc/2018/440)).
 [^23-5]: Introduit par le ch. I de l’O du 30 mars 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 233](https://fedlex.data.admin.ch/eli/oc/2022/233)).
-[^23-6]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^23-6]: [RS 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 [^23-7]: Introduit par le ch. I de l’O du 30 mars 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 233](https://fedlex.data.admin.ch/eli/oc/2022/233)).
 
 #### Art. 23a
@@ -504,12 +504,12 @@ La Confédération verse aux cantons des forfaits globaux pour les réfugiés et
 <sup>6</sup> Lorsqu’un réfugié reconnu est par la suite reconnu comme apatride ou qu’un apatride reconnu est par la suite reconnu comme réfugié, la durée maximale de l’obligation de rembourser les frais prévue à l’al. 1, let. a à d<sup>bis</sup>, inclut la durée totale du séjour déjà effectuée à compter de la date du dépôt de sa demande d’asile ou de la reconnaissance de son apatridie.[^24-12]
 
 [^24-1]: Voir aussi les disp. trans. de la mod. du 7 déc. 2012 et du 30 mars 2022 à la fin du texte.
-[^24-2]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
-[^24-3]: [RS 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
-[^24-4]: [RS 0.632.31](https://fedlex.data.admin.ch/eli/cc/1960/590_635_621)
+[^24-2]: [RS 142.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4851)
+[^24-3]: [RS 0.142.112.681](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/211)
+[^24-4]: [RS 0.632.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2314)
 [^24-5]: Nouvelle teneur selon le ch. I 3 de l’O du 4 mai 2022 sur les mesures policières de lutte contre le terrorisme, en vigueur depuis le 1<sup>er</sup>er juin 2022 ([RO 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
-[^24-6]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^24-7]: [RS 321.0](https://fedlex.data.admin.ch/eli/cc/43/359_375_369)
+[^24-6]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^24-7]: [RS 321.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6242)
 [^24-8]: Nouvelle teneur selon le ch. I 3 de l’O du 4 mai 2022 sur les mesures policières de lutte contre le terrorisme, en vigueur depuis le 1<sup>er</sup>er juin 2022 ([RO 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
 [^24-9]: Nouvelle teneur selon le ch. I de l’O du 30 mars 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 233](https://fedlex.data.admin.ch/eli/oc/2022/233)).
 [^24-10]: Nouvelle teneur selon le ch. I de l’O du 28 mai 2025, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 404](https://fedlex.data.admin.ch/eli/oc/2025/404)).
@@ -580,7 +580,7 @@ En cas de modifications substantielles sur le marché immobilier, le SEM peut aj
 [^26-2]: Nouvelle teneur selon le ch. I de l’O du 30 mars 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 233](https://fedlex.data.admin.ch/eli/oc/2022/233)).
 [^26-3]: L’erratum du 13 fév. 2018 ne concerne que le texte italien ([RO 2018 731](https://fedlex.data.admin.ch/eli/oc/2018/92)).
 [^26-4]: Nouvelle teneur selon le ch. I de l’O du 8 juin 2018, en vigueur depuis le 1<sup>er</sup> mars 2019 ([RO 2018 2875](https://fedlex.data.admin.ch/eli/oc/2018/440)).
-[^26-5]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^26-5]: [RS 832.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133)
 [^26-6]: Nouvelle teneur selon le ch. I de l’O du 8 juin 2018, en vigueur depuis le 1<sup>er</sup> mars 2019 ([RO 2018 2875](https://fedlex.data.admin.ch/eli/oc/2018/440)).
 [^26-7]: Nouvelle teneur selon le ch. I de l’O du 30 mars 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 233](https://fedlex.data.admin.ch/eli/oc/2022/233)).
 [^26-8]: Introduit par le ch. I de l’O du 10 avr. 2019, en vigueur depuis le 1<sup>er</sup> mai 2019 ([RO 2019 1233](https://fedlex.data.admin.ch/eli/oc/2019/235)).
@@ -619,7 +619,7 @@ Le nombre consolidé est obtenu par la formule suivante:
 - NLQ<sub>KT</sub> = taux cantonal de réfugiés, d’apatrides et de personnes à protéger titulaires d’une autorisation de séjour exerçant une activité lucrative à bas salaire (salaire mensuel brut ≤ 600 francs) au cours de l’avant-dernière année, selon les données communiquées par la Centrale de compensation en vertu de l’art. 93<sup>bis</sup> LAVS[^27-2] qui ont été évaluées par le SEM.
 
 [^27-1]: Nouvelle teneur selon le ch. I de l’O du 30 mars 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 233](https://fedlex.data.admin.ch/eli/oc/2022/233)). Voir aussi les disp. trans. de la mod. du 30 mars 2022 à la fin du texte.
-[^27-2]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^27-2]: [RS 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 
 #### Art. 27a
 
@@ -740,7 +740,7 @@ La Confédération participe à ces frais par une contribution forfaitaire annue
 <sup>3</sup> La contribution forfaitaire aux termes de l’al. 2 (variable P) s’élève à 550 francs, selon l’indice suisse des prix à la consommation au 31 octobre 2018. Le SEM l’adapte à cet indice à la fin de chaque année pour l’année civile suivante.[^31-4]
 
 [^31-1]: Nouvelle teneur selon le ch. I de l’O du 24 oct. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5585](https://fedlex.data.admin.ch/eli/oc/2007/768)).
-[^31-2]: [RS 142.311](https://fedlex.data.admin.ch/eli/cc/1999/359)
+[^31-2]: [RS 142.311](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4880)
 [^31-3]: Nouvelle teneur selon le ch. I de l’O du 8 juin 2018, en vigueur depuis le 1<sup>er</sup> mars 2019 ([RO 2018 2875](https://fedlex.data.admin.ch/eli/oc/2018/440)).
 [^31-4]: Nouvelle teneur selon le ch. I de l’O du 8 juin 2018, en vigueur depuis le 1<sup>er</sup> mars 2019 ([RO 2018 2875](https://fedlex.data.admin.ch/eli/oc/2018/440)).
 
@@ -1083,9 +1083,11 @@ Le SEM examine la demande sous l’angle de sa nécessité, de son opportunité 
 
 <sup>1</sup> Le Conseil fédéral décide des mesures dont le coût dépasse 20 millions de francs.
 
-<sup>2</sup> Le DFJP décide des mesures dont le coût est supérieur à 5 millions de francs mais ne dépasse pas 20 millions de francs. Pour les mesures dont le coût est supérieur à 10 millions de francs, il prend ses décisions en accord avec le Département fédéral des finances.
+<sup>2</sup> Le DFJP décide des mesures dont le coût est supérieur à 5 millions de francs mais ne dépasse pas 20 millions de francs.[^52c-1]
 
 <sup>3</sup> Le SEM décide des mesures dont le coût ne dépasse pas 5 millions de francs.
+
+[^52c-1]: Nouvelle teneur selon le ch. I de l’O du 20 mai 2026, en vigueur depuis le 12 juin 2026 ([RO 2026 265](https://fedlex.data.admin.ch/eli/oc/2026/265)).
 
 #### Art. 52d
 
@@ -1219,7 +1221,7 @@ Lorsqu’une escorte policière est nécessaire pour tout le voyage de retour, l
 <sup>5</sup> Le canton est habilité à confier l’accompagnement social visé à l’al. 5 à des tiers.
 
 [^58-1]: Nouvelle teneur selon le ch. I de l’O du 8 juin 2018, en vigueur depuis le 1<sup>er</sup> mars 2019 ([RO 2018 2875](https://fedlex.data.admin.ch/eli/oc/2018/440)).
-[^58-2]: [RS 364.3](https://fedlex.data.admin.ch/eli/cc/2008/760)
+[^58-2]: [RS 364.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6324)
 
 #### Art. 58a
 
@@ -1230,7 +1232,7 @@ Lorsqu’une escorte policière est nécessaire pour tout le voyage de retour, l
 <sup>2</sup> La Confédération accorde un forfait de 300 francs au canton chargé d’exécuter le renvoi lorsque la personne contrainte au départ doit passer la nuit sur le lieu où est effectuée la vérification de l’identité. Ce forfait comprend les frais de détention, conformément à l’art. 15. al. 1, de l’ordonnance du 11 août 1999 sur l’exécution du renvoi et de l’expulsion d’étrangers (OERE)[^58a-2].
 
 [^58a-1]: Introduit par le ch. I de l’O du 1<sup>er</sup> mars 2006, en vigueur depuis le 1<sup>er</sup> avr. 2006 ([RO 2006 933](https://fedlex.data.admin.ch/eli/oc/2006/166)).
-[^58a-2]: [RS 142.281](https://fedlex.data.admin.ch/eli/cc/1999/357)
+[^58a-2]: [RS 142.281](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4867)
 
 #### Art. 58b
 
@@ -1243,7 +1245,7 @@ Lorsqu’une escorte policière est nécessaire pour tout le voyage de retour, l
 <sup>3</sup> Les forfaits prévus aux al. 1 et 2 sont fondés sur l’indice suisse des prix à la consommation au 31 octobre 2018. Le SEM les adapte à cet indice à la fin de chaque année pour l’année civile suivante.
 
 [^58b-1]: Introduit par le ch. I de l’O du 8 juin 2018, en vigueur depuis le 1<sup>er</sup> mars 2019 ([RO 2018 2875](https://fedlex.data.admin.ch/eli/oc/2018/440)).
-[^58b-2]: [RS 364](https://fedlex.data.admin.ch/eli/cc/2008/759)
+[^58b-2]: [RS 364](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6323)
 
 #### Art. 59
 
@@ -1271,7 +1273,7 @@ La Confédération prend à sa charge:
 [^59-2]: Nouvelle teneur selon le ch. I de l’O du 8 juin 2018, en vigueur depuis le 1<sup>er</sup> mars 2019 ([RO 2018 2875](https://fedlex.data.admin.ch/eli/oc/2018/440)).
 [^59-3]: Abrogée par le ch. I de l’O du 24 oct. 2007, avec effet au 1<sup>er</sup> janv. 2008 ([RO 2007 5585](https://fedlex.data.admin.ch/eli/oc/2007/768)).
 [^59-4]: Nouvelle teneur selon le ch. I de l’O du 8 juin 2018, en vigueur depuis le 1<sup>er</sup> mars 2019 ([RO 2018 2875](https://fedlex.data.admin.ch/eli/oc/2018/440)).
-[^59-5]: [RS 142.281](https://fedlex.data.admin.ch/eli/cc/1999/357)
+[^59-5]: [RS 142.281](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4867)
 [^59-6]: Abrogée par le ch. I de l’O du 7 déc. 2012, avec effet au 1<sup>er</sup> janv. 2013 ([RO 2012 6951](https://fedlex.data.admin.ch/eli/oc/2012/842)).
 [^59-7]: Nouvelle teneur selon le ch. I de l’O du 8 juin 2018, en vigueur depuis le 1<sup>er</sup> mars 2019 ([RO 2018 2875](https://fedlex.data.admin.ch/eli/oc/2018/440)).
 [^59-8]: Abrogé par le ch. I de l’O du 24 oct. 2007, avec effet au 1<sup>er</sup> janv. 2008 ([RO 2007 5585](https://fedlex.data.admin.ch/eli/oc/2007/768)).
@@ -1291,8 +1293,8 @@ La Confédération prend à sa charge:
 [^59a-1]: Introduit par le ch. I de l’O du 24 oct. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5585](https://fedlex.data.admin.ch/eli/oc/2007/768)).
 [^59a-2]: Nouvelle teneur selon le ch. I de l’O du 8 juin 2018, en vigueur depuis le 1<sup>er</sup> mars 2019 ([RO 2018 2875](https://fedlex.data.admin.ch/eli/oc/2018/440)).
 [^59a-3]: Nouvelle teneur selon le ch. I de l’O du 8 juin 2018, en vigueur depuis le 1<sup>er</sup> mars 2019 ([RO 2018 2875](https://fedlex.data.admin.ch/eli/oc/2018/440)).
-[^59a-4]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
-[^59a-5]: [RS 142.281](https://fedlex.data.admin.ch/eli/cc/1999/357)
+[^59a-4]: [RS 142.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4851)
+[^59a-5]: [RS 142.281](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4867)
 [^59a-6]: Introduit par le ch. I de l’O du 7 déc. 2012 ([RO 2012 6951](https://fedlex.data.admin.ch/eli/oc/2012/842)). Nouvelle teneur selon le ch. I de l’O du 8 juin 2018, en vigueur depuis le 1<sup>er</sup> mars 2019 ([RO 2018 2875](https://fedlex.data.admin.ch/eli/oc/2018/440)).
 [^59a-7]: Nouvelle teneur selon le ch. I de l’O du 7 déc. 2012, en vigueur depuis le 1<sup>er</sup> avr. 2013 ([RO 2012 6951](https://fedlex.data.admin.ch/eli/oc/2012/842)).
 
@@ -1325,8 +1327,8 @@ La Confédération prend à sa charge:
 
 [^59abis-1]: Introduit par le ch. I de l’O du 7 déc. 2012, en vigueur depuis le 1<sup>er</sup> avr. 2013 ([RO 2012 6951](https://fedlex.data.admin.ch/eli/oc/2012/842)).
 [^59abis-2]: Nouvelle teneur selon le ch. I de l’O du 8 juin 2018, en vigueur depuis le 1<sup>er</sup> mars 2019 ([RO 2018 2875](https://fedlex.data.admin.ch/eli/oc/2018/440)).
-[^59abis-3]: [RS 142.281](https://fedlex.data.admin.ch/eli/cc/1999/357)
-[^59abis-4]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
+[^59abis-3]: [RS 142.281](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4867)
+[^59abis-4]: [RS 142.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4851)
 [^59abis-5]: Introduit par le ch. I de l’O du 8 juin 2018, en vigueur depuis le 1<sup>er</sup> mars 2019 ([RO 2018 2875](https://fedlex.data.admin.ch/eli/oc/2018/440)).
 [^59abis-6]: Nouvelle teneur selon le ch. I de l’O du 8 juin 2018, en vigueur depuis le 1<sup>er</sup> mars 2019 ([RO 2018 2875](https://fedlex.data.admin.ch/eli/oc/2018/440)).
 
@@ -1396,7 +1398,7 @@ La Confédération prend à sa charge:
 Les bénéficiaires des prestations fournies à titre d’aide au retour sont des personnes dont les conditions de séjour sont réglementées par la LAsi ou par les dispositions de la LEI[^63-2] relatives à l’admission provisoire.
 
 [^63-1]: Nouvelle teneur selon le ch. I de l’O du 24 oct. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5585](https://fedlex.data.admin.ch/eli/oc/2007/768)).
-[^63-2]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
+[^63-2]: [RS 142.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4851)
 
 #### Art. 64
 
@@ -1457,7 +1459,7 @@ Sont exclues de l’aide au retour financière les personnes:[^64-1]
 Les services-conseils en vue du retour situés dans les cantons, dans les centres de la Confédération[^66-1] et dans les aéroports de Zurich-Kloten et de Genève-Cointrin veillent à diffuser des informations portant sur le retour et l’aide au retour à l’intention des autorités cantonales, des institutions privées intéressées et des personnes relevant du domaine de l’asile, ainsi que de celles sous le coup de l’art. 60 LEI[^66-2]. Ils fournissent également aux intéressés des conseils en vue de leur retour.
 
 [^66-1]: Nouvelle expression selon le ch. I de l’O du 8 juin 2018, en vigueur depuis le 1<sup>er</sup> mars 2019 ([RO 2018 2875](https://fedlex.data.admin.ch/eli/oc/2018/440)).
-[^66-2]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
+[^66-2]: [RS 142.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4851)
 
 #### Art. 67
 
@@ -1508,7 +1510,7 @@ Les services-conseils en vue du retour situés dans les cantons, dans les centre
 
 [^68-1]: Nouvelle teneur selon le ch. I de l’O du 8 juin 2018, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2018 2875](https://fedlex.data.admin.ch/eli/oc/2018/440)).
 [^68-2]: Nouvelle teneur selon le ch. I de l’O du 8 juin 2018, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2018 2875](https://fedlex.data.admin.ch/eli/oc/2018/440)).
-[^68-3]: [RS 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
+[^68-3]: [RS 616.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7794)
 
 #### Art. 68a
 
@@ -1742,7 +1744,7 @@ L’ordonnance 2 du 22 mai 1991 sur l’asile[^81-1] est abrogée.
 
 Pour les personnes frappées d’une décision de non-entrée en matière en application des art. 32 à 34 LAsi et dont la décision de renvoi, prise en vertu de l’art. 44 LAsi, est passée en force avant l’entrée en vigueur de la présente modification, la Confédération verse aux cantons un forfait pour les frais d’assistance conformément à l’art. 88, al. 1, let. a, LAsi au plus tard jusqu’à l’échéance du délai de départ. Si elle s’est engagée à continuer à rembourser les frais d’assistance dans le cadre du soutien à l’exécution du renvoi au sens de l’art. 22*a* de la loi fédérale du 26 mars 1931 sur le séjour et l’établissement des étrangers (LSEE)[^u1-2], la Confédération verse aux cantons les forfaits définis à l’art. 88, al. 1, let. a, LAsi, à condition que les cantons aient présenté leur demande de soutien à l’exécution du renvoi et de prise en charge des frais avant la fin du mois au cours duquel la présente ordonnance est entrée en vigueur; le versement a lieu pendant neuf mois au maximum à compter de l’entrée en vigueur de la présente modification.
 
-[^u1-2]: [RS **1** 113; [RO 1949 225](https://fedlex.data.admin.ch/eli/oc/1949/221_225_225), [1987 1665](https://fedlex.data.admin.ch/eli/oc/1987/1665_1665_1665), [1988 332](https://fedlex.data.admin.ch/eli/oc/1988/332_332_332), [1990 1587](https://fedlex.data.admin.ch/eli/oc/1990/1587_1587_1587)art. 3 al. 2, [1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362)ch. II 11 [1034](https://fedlex.data.admin.ch/eli/oc/1991/1034_1034_1034)ch. III, [1995 146](https://fedlex.data.admin.ch/eli/oc/1995/146_146_146), [1999 1111](https://fedlex.data.admin.ch/eli/oc/1999/148)[2253](https://fedlex.data.admin.ch/eli/oc/1999/356)[2262](https://fedlex.data.admin.ch/eli/oc/1999/358)annexe ch. 1, [2000 1891](https://fedlex.data.admin.ch/eli/oc/2000/293)ch. IV 2, [2002 685](https://fedlex.data.admin.ch/eli/oc/2002/139)ch. I 1 [701](https://fedlex.data.admin.ch/eli/oc/2002/140)ch. I 1 [3988](https://fedlex.data.admin.ch/eli/oc/2002/639)annexe ch. 3, [2003 4557](https://fedlex.data.admin.ch/eli/oc/2003/674)annexe ch. II 2, [2004 1633](https://fedlex.data.admin.ch/eli/oc/2004/200)ch. I 1 [4655](https://fedlex.data.admin.ch/eli/oc/2004/715)ch. I 1, [2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782)annexe ch. 2, [2006 979](https://fedlex.data.admin.ch/eli/oc/2006/178)art. 2 ch. 1 [1931](https://fedlex.data.admin.ch/eli/oc/2006/301)art. 18 ch. 1 [2197](https://fedlex.data.admin.ch/eli/oc/2006/352)annexe ch. 3 [3459](https://fedlex.data.admin.ch/eli/oc/2006/549)annexe ch. 1 [4745](https://fedlex.data.admin.ch/eli/oc/2006/727)annexe ch. 1, [2007 359](https://fedlex.data.admin.ch/eli/oc/2007/71)annexe ch. 1. [RO 2007 5437](https://fedlex.data.admin.ch/eli/oc/2007/758)annexe ch. I]. Voir actuellement la LF du 16 déc. 2005 sur les étrangers et l’intégration ([RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)).
+[^u1-2]: [[RS 1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4713)113; [RO 1949 225](https://fedlex.data.admin.ch/eli/oc/1949/221_225_225), [1987 1665](https://fedlex.data.admin.ch/eli/oc/1987/1665_1665_1665), [1988 332](https://fedlex.data.admin.ch/eli/oc/1988/332_332_332), [1990 1587](https://fedlex.data.admin.ch/eli/oc/1990/1587_1587_1587)art. 3 al. 2, [1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362)ch. II 11 [1034](https://fedlex.data.admin.ch/eli/oc/1991/1034_1034_1034)ch. III, [1995 146](https://fedlex.data.admin.ch/eli/oc/1995/146_146_146), [1999 1111](https://fedlex.data.admin.ch/eli/oc/1999/148)[2253](https://fedlex.data.admin.ch/eli/oc/1999/356)[2262](https://fedlex.data.admin.ch/eli/oc/1999/358)annexe ch. 1, [2000 1891](https://fedlex.data.admin.ch/eli/oc/2000/293)ch. IV 2, [2002 685](https://fedlex.data.admin.ch/eli/oc/2002/139)ch. I 1 [701](https://fedlex.data.admin.ch/eli/oc/2002/140)ch. I 1 [3988](https://fedlex.data.admin.ch/eli/oc/2002/639)annexe ch. 3, [2003 4557](https://fedlex.data.admin.ch/eli/oc/2003/674)annexe ch. II 2, [2004 1633](https://fedlex.data.admin.ch/eli/oc/2004/200)ch. I 1 [4655](https://fedlex.data.admin.ch/eli/oc/2004/715)ch. I 1, [2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782)annexe ch. 2, [2006 979](https://fedlex.data.admin.ch/eli/oc/2006/178)art. 2 ch. 1 [1931](https://fedlex.data.admin.ch/eli/oc/2006/301)art. 18 ch. 1 [2197](https://fedlex.data.admin.ch/eli/oc/2006/352)annexe ch. 3 [3459](https://fedlex.data.admin.ch/eli/oc/2006/549)annexe ch. 1 [4745](https://fedlex.data.admin.ch/eli/oc/2006/727)annexe ch. 1, [2007 359](https://fedlex.data.admin.ch/eli/oc/2007/71)annexe ch. 1. [RO 2007 5437](https://fedlex.data.admin.ch/eli/oc/2007/758)annexe ch. I]. Voir actuellement la LF du 16 déc. 2005 sur les étrangers et l’intégration ([RS 142.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4851)).
 
 ## Dispositions finales de la modification du 3 décembre 2004
 
