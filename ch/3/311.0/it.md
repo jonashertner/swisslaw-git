@@ -4,18 +4,18 @@ title: Codice penale svizzero del 21 dicembre 1937
 short: CP
 eli: "https://fedlex.data.admin.ch/eli/cc/54/757_781_799"
 language: it
-version: 2026-01-01
+version: 2026-06-12
 adopted: 1937-12-21
 in_force: 1942-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/54/757_781_799/20260101/it/xml/fedlex-data-admin-ch-eli-cc-54-757_781_799-20260101-it-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/54/757_781_799/20260101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/54/757_781_799/20260612/it/xml/fedlex-data-admin-ch-eli-cc-54-757_781_799-20260612-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/54/757_781_799/20260612/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Codice penale svizzero
 
-21 dicembre 1937 (Stato 1° gennaio 2026)
+21 dicembre 1937 (Stato 12 giugno 2026)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -6209,25 +6209,24 @@ Possono confrontare e trattare i dati di cui al capoverso 1:
 - a. l’Ufficio federale di polizia;
 - b. la Segreteria di Stato della migrazione (SEM);
 - c. l’Ufficio federale di giustizia;
-
 - d. l’Ufficio federale della dogana e della sicurezza dei confini[^354-2];
 - e. le rappresentanze svizzere all’estero competenti per il rilascio di visti;
 - f. il Servizio delle attività informative della Confederazione;
 - g. le autorità cantonali di polizia;
 - h. le autorità cantonali competenti in materia di migrazione.[^354-3]
 
-<sup>3</sup> I dati personali inerenti ai dati di cui al capoverso 1 sono trattati in sistemi d’informazione separati, disciplinati dalla legge federale del 13 giugno 2008[^354-4] sui sistemi d’informazione di polizia della Confederazione, dalla legge del 26 giugno 1998[^354-5] sull’asilo, dalla legge federale del 16 dicembre 2005[^354-6] sugli stranieri e la loro integrazione e dalla legge del 18 marzo 2005[^354-7] sulle dogane.
+<sup>3</sup> I dati personali inerenti ai dati di cui al capoverso 1 sono trattati in sistemi d’informazione separati, disciplinati dalla legge federale del 13 giugno 2008[^354-4] sui sistemi d’informazione di polizia della Confederazione, dalla legge del 26 giugno 1998[^354-5] sull’asilo, dalla legge federale del 16 dicembre 2005[^354-6] sugli stranieri e la loro integrazione, della legge federale del 20 giugno 2003[^354-7] sul sistema d’informazione per il settore degli stranieri e dell’asilo e dalla legge del 18 marzo 2005[^354-8] sulle dogane.[^354-9]
 
 <sup>4</sup>
 
 I dati possono essere utilizzati:
 
-- a. sino alla scadenza dei termini di cancellazione dei profili del DNA di cui agli articoli 16–19 della legge del 20 giugno 2003[^354-8] sui profili del DNA; o
-- b.[^354-9] in caso di condanna per contravvenzione, per cinque anni a decorrere dalla data della sentenza, sempre che quest’ultima sia passata in giudicato.[^354-10]
+- a. sino alla scadenza dei termini di cancellazione dei profili del DNA di cui agli articoli 16–19 della legge del 20 giugno 2003[^354-10] sui profili del DNA; o
+- b.[^354-11] in caso di condanna per contravvenzione, per cinque anni a decorrere dalla data della sentenza, sempre che quest’ultima sia passata in giudicato.[^354-12]
 
-<sup>5</sup> Il Consiglio federale disciplina le modalità, segnatamente la durata di conservazione dei dati registrati al di fuori di procedimenti penali, la procedura di cancellazione e la collaborazione con i Cantoni. Disciplina la trasmissione dei dati segnaletici da parte delle autorità federali competenti e dei Cantoni.[^354-11]
+<sup>5</sup> Il Consiglio federale disciplina le modalità, segnatamente la durata di conservazione dei dati registrati al di fuori di procedimenti penali, la procedura di cancellazione e la collaborazione con i Cantoni. Disciplina la trasmissione dei dati segnaletici da parte delle autorità federali competenti e dei Cantoni.[^354-13]
 
-<sup>6</sup> Ai fini delle segnalazioni nel sistema d’informazione Schengen (SIS) la SEM o l’Ufficio federale di polizia (fedpol) può trasferire i dati nella parte nazionale del Sistema d’informazione di Schengen (N-SIS) e nel SIS mediante procedura automatizzata.[^354-12]
+<sup>6</sup> Ai fini delle segnalazioni nel sistema d’informazione Schengen (SIS) la SEM o l’Ufficio federale di polizia (fedpol) può trasferire i dati nella parte nazionale del Sistema d’informazione di Schengen (N-SIS) e nel SIS mediante procedura automatizzata.[^354-14]
 
 [^354-1]: Nuovo testo giusta l’all. 1 n. 3 della L del 17 giu. 2016 sul casellario giudiziale, in vigore dal 23 gen. 2023 ([RU 2022 600](https://fedlex.data.admin.ch/eli/oc/2022/600); [FF 2014 4929](https://fedlex.data.admin.ch/eli/fga/2014/1229)).
 [^354-2]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)).
@@ -6235,12 +6234,14 @@ I dati possono essere utilizzati:
 [^354-4]: [RS 361](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6307)
 [^354-5]: [RS 142.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4878)
 [^354-6]: [RS 142.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4851)
-[^354-7]: [RS 631.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7812)
-[^354-8]: [RS 363](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6319)
-[^354-9]: Nuovo testo giusta l’all. 1 n. 1 della LF del 17 dic. 2021, in vigore dal 1° ago. 2023 ([RU 2023 309](https://fedlex.data.admin.ch/eli/oc/2023/309); [FF 2021 44](https://fedlex.data.admin.ch/eli/fga/2021/44)).
-[^354-10]: Nuovo testo giusta l’all. 2 n. 1 del DF del 18 dic. 2020 che approva e traspone nel diritto svizzero gli scambi di note tra la Svizzera e l’UE concernenti il recepimento delle basi legali dell’istituzione, dell’esercizio e dell’uso del sistema d’informazione Schengen (SIS), in vigore dal 23 gen. 2023 ([RU 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365); [2022 638](https://fedlex.data.admin.ch/eli/oc/2022/638); [FF 2020 3117](https://fedlex.data.admin.ch/eli/fga/2020/794)).
-[^354-11]: Nuovo testo giusta l’all. 2 n. 1 del DF del 18 dic. 2020 che approva e traspone nel diritto svizzero gli scambi di note tra la Svizzera e l’UE concernenti il recepimento delle basi legali dell’istituzione, dell’esercizio e dell’uso del sistema d’informazione Schengen (SIS), in vigore dal 23 gen. 2023 ([RU 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365); [2022 638](https://fedlex.data.admin.ch/eli/oc/2022/638); [FF 2020 3117](https://fedlex.data.admin.ch/eli/fga/2020/794)).
-[^354-12]: Introdotto dall’all. 2 n. 1 del DF del 18 dic. 2020 che approva e traspone nel diritto svizzero gli scambi di note tra la Svizzera e l’UE concernenti il recepimento delle basi legali dell’istituzione, dell’esercizio e dell’uso del sistema d’informazione Schengen (SIS), in vigore dal 23 gen. 2023 ([RU 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365); [2022 638](https://fedlex.data.admin.ch/eli/oc/2022/638); [FF 2020 3117](https://fedlex.data.admin.ch/eli/fga/2020/794)).
+[^354-7]: [RS 142.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4898)
+[^354-8]: [RS 631.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7812)
+[^354-9]: Nuovo testo giusta l’all. 1 n. 4 della DF del 26 set. 2025 che approva e traspone nel diritto svizzero lo scambio di note tra la Svizzera e l’UE concernente il recepimento del regolamento (UE) 2024/1358 che istituisce l’«Eurodac» per il confronto dei dati biometrici, in vigore dal 12 giu. 2026 ([RU 2026 231](https://fedlex.data.admin.ch/eli/oc/2026/231); [FF 2025 1478](https://fedlex.data.admin.ch/eli/fga/2025/1478)).
+[^354-10]: [RS 363](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6319)
+[^354-11]: Nuovo testo giusta l’all. 1 n. 1 della LF del 17 dic. 2021, in vigore dal 1° ago. 2023 ([RU 2023 309](https://fedlex.data.admin.ch/eli/oc/2023/309); [FF 2021 44](https://fedlex.data.admin.ch/eli/fga/2021/44)).
+[^354-12]: Nuovo testo giusta l’all. 2 n. 1 del DF del 18 dic. 2020 che approva e traspone nel diritto svizzero gli scambi di note tra la Svizzera e l’UE concernenti il recepimento delle basi legali dell’istituzione, dell’esercizio e dell’uso del sistema d’informazione Schengen (SIS), in vigore dal 23 gen. 2023 ([RU 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365); [2022 638](https://fedlex.data.admin.ch/eli/oc/2022/638); [FF 2020 3117](https://fedlex.data.admin.ch/eli/fga/2020/794)).
+[^354-13]: Nuovo testo giusta l’all. 2 n. 1 del DF del 18 dic. 2020 che approva e traspone nel diritto svizzero gli scambi di note tra la Svizzera e l’UE concernenti il recepimento delle basi legali dell’istituzione, dell’esercizio e dell’uso del sistema d’informazione Schengen (SIS), in vigore dal 23 gen. 2023 ([RU 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365); [2022 638](https://fedlex.data.admin.ch/eli/oc/2022/638); [FF 2020 3117](https://fedlex.data.admin.ch/eli/fga/2020/794)).
+[^354-14]: Introdotto dall’all. 2 n. 1 del DF del 18 dic. 2020 che approva e traspone nel diritto svizzero gli scambi di note tra la Svizzera e l’UE concernenti il recepimento delle basi legali dell’istituzione, dell’esercizio e dell’uso del sistema d’informazione Schengen (SIS), in vigore dal 23 gen. 2023 ([RU 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365); [2022 638](https://fedlex.data.admin.ch/eli/oc/2022/638); [FF 2020 3117](https://fedlex.data.admin.ch/eli/fga/2020/794)).
 
 ### 4. ...
 
@@ -6344,7 +6345,7 @@ Gli organi di polizia federali e cantonali eseguono le disposizioni contenute ne
 
 <sup>3</sup> Il punto di contatto nazionale di cui all’articolo 357 capoverso 1 può eseguire, su richiesta, un confronto con i dati dattiloscopici registrati nei sistemi d’informazione degli Stati contraenti ai fini del perseguimento di reati.
 
-[^356-1]: Nuovo testo giusta l’all n. 3 del DF del 1° ott. 2025 che approva e traspone nel diritto svizzero l’Accordo tra la Svizzera e l’UE sul potenziamento della cooperazione transfrontaliera (cooperazione Prüm) e il Protocollo tra la Svizzera, l’UE e il Principato del Liechtenstein riguardante l’accesso a Eurodac a fini di contrasto, in vigore dal 1° ago. 2025 ([RU 2025 348](https://fedlex.data.admin.ch/eli/oc/2025/348), [401](https://fedlex.data.admin.ch/eli/oc/2025/401); [FF 2021 738](https://fedlex.data.admin.ch/eli/fga/2021/738))
+[^356-1]: Nuovo testo giusta l’all n. 3 del DF del 1° ott. 2025 che approva e traspone nel diritto svizzero l’Accordo tra la Svizzera e l’UE sul potenziamento della cooperazione transfrontaliera (cooperazione Prüm) e il Protocollo tra la Svizzera, l’UE e il Principato del Liechtenstein riguardante l’accesso a Eurodac a fini di contrasto, in vigore dal 1° ago. 2025 ([RU 2025 348](https://fedlex.data.admin.ch/eli/oc/2025/348), [401](https://fedlex.data.admin.ch/eli/oc/2025/401); [FF 2021 738](https://fedlex.data.admin.ch/eli/fga/2021/738)).
 
 ### b. Punti di contatto nazionali
 
@@ -6374,12 +6375,13 @@ Le autorità seguenti possono chiedere, nell’ambito dei compiti loro attribuit
 
 <sup>4</sup> L’Ufficio federale delle strade è il punto di contatto nazionale di cui all’articolo 12 paragrafo 2 della decisione 2008/615/GAI per lo scambio di dati relativi ai veicoli nonché di dati relativi ai proprietari o ai detentori di veicoli. In tale veste, concede allo Stato contraente richiedente l’accesso ai dati relativi ai veicoli e ai loro detentori nel sottosistema SIAC Veicoli per gli scopi di cui all’articolo 12 paragrafo 1 della decisione 2008/615/GAI. L’accesso ai dati ha luogo conformemente all’articolo 15 nonché al capo 3 dell’allegato della decisione 2008/616/GAI[^357-3].
 
-<sup>5</sup> Per reati di terrorismo di cui all’articolo 16 della decisione 2008/615/GAI s’intendono i crimini e i delitti menzionati all’articolo 111*j* capoverso 6 lettera a della legge federale del 16 dicembre 2005[^357-4] sugli stranieri e la loro integrazione
+<sup>5</sup> Per reati di terrorismo di cui all’articolo 16 della decisione 2008/615/GAI s’intendono i crimini e i delitti menzionati all’allegato 3 numero 22 della legge del 21 marzo 2025[^357-4] sullo scambio di informazioni con gli Stati Schengen.[^357-5]
 
-[^357-1]: Nuovo testo giusta l’all n. 3 del DF del 1° ott. 2025 che approva e traspone nel diritto svizzero l’Accordo tra la Svizzera e l’UE sul potenziamento della cooperazione transfrontaliera (cooperazione Prüm) e il Protocollo tra la Svizzera, l’UE e il Principato del Liechtenstein riguardante l’accesso a Eurodac a fini di contrasto, in vigore dal 1° ago. 2025 ([RU 2025 348](https://fedlex.data.admin.ch/eli/oc/2025/348), [401](https://fedlex.data.admin.ch/eli/oc/2025/401); [FF 2021 738](https://fedlex.data.admin.ch/eli/fga/2021/738))
+[^357-1]: Nuovo testo giusta l’all n. 3 del DF del 1° ott. 2025 che approva e traspone nel diritto svizzero l’Accordo tra la Svizzera e l’UE sul potenziamento della cooperazione transfrontaliera (cooperazione Prüm) e il Protocollo tra la Svizzera, l’UE e il Principato del Liechtenstein riguardante l’accesso a Eurodac a fini di contrasto, in vigore dal 1° ago. 2025 ([RU 2025 348](https://fedlex.data.admin.ch/eli/oc/2025/348), [401](https://fedlex.data.admin.ch/eli/oc/2025/401); [FF 2021 738](https://fedlex.data.admin.ch/eli/fga/2021/738)).
 [^357-2]: Cfr. nota a piè di pagina relativa all’art. 356 cpv. 2.
 [^357-3]: Decisione 2008/616/GAI del Consiglio, del 23 giugno 2008, relativa all’attuazione della decisione 2008/615/GAI sul potenziamento della cooperazione transfrontaliera, soprattutto nella lotta al terrorismo e alla criminalità transfrontaliera, GU L 210 del 6.8.2008, pag. 12.
-[^357-4]: [RS 142.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4851)
+[^357-4]: [RS 362.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6316)
+[^357-5]: Nuovo testo giusta l’all. 1 n. 4 della DF del 26 set. 2025 che approva e traspone nel diritto svizzero lo scambio di note tra la Svizzera e l’UE concernente il recepimento del regolamento (UE) 2024/1358 che istituisce l’«Eurodac» per il confronto dei dati biometrici, in vigore dal 12 giu. 2026 ([RU 2026 231](https://fedlex.data.admin.ch/eli/oc/2026/231); [FF 2025 1478](https://fedlex.data.admin.ch/eli/fga/2025/1478)).
 
 #### Art. 358 a 361
 

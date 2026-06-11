@@ -4,18 +4,18 @@ title: Code pénal suisse du 21 décembre 1937
 short: CP
 eli: "https://fedlex.data.admin.ch/eli/cc/54/757_781_799"
 language: fr
-version: 2026-01-01
+version: 2026-06-12
 adopted: 1937-12-21
 in_force: 1942-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/54/757_781_799/20260101/fr/xml/fedlex-data-admin-ch-eli-cc-54-757_781_799-20260101-fr-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/54/757_781_799/20260101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/54/757_781_799/20260612/fr/xml/fedlex-data-admin-ch-eli-cc-54-757_781_799-20260612-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/54/757_781_799/20260612/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Code pénal suisse
 
-du 21 décembre 1937 (État le 1<sup>er</sup> janvier 2026)
+du 21 décembre 1937 (État le 12 juin 2026)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -6537,18 +6537,18 @@ Les autorités suivantes peuvent comparer et traiter des données saisies en ver
 - g. les autorités de police des cantons;
 - h. les services cantonaux des migrations.[^354-3]
 
-<sup>3</sup> Les données personnelles se rapportant aux données visées à l’al. 1 sont traitées dans des systèmes d’information séparés, à savoir les systèmes régis par la loi fédérale du 13 juin 2008 sur les systèmes d’information de police de la Confédération[^354-4], la loi du 26 juin 1998 sur l’asile[^354-5], la loi fédérale du 16 décembre 2005 sur les étrangers et l’intégration[^354-6] et la loi du 18 mars 2005 sur les douanes[^354-7].
+<sup>3</sup> Les données personnelles se rapportant aux données visées à l’al. 1 sont traitées dans des systèmes d’information séparés, à savoir les systèmes régis par la loi fédérale du 13 juin 2008 sur les systèmes d’information de police de la Confédération[^354-4], la loi du 26 juin 1998 sur l’asile[^354-5], la loi fédérale du 16 décembre 2005 sur les étrangers et l’intégration[^354-6], la loi fédérale du 20 juin 2003 sur le système d’information commun aux domaines des étrangers et de l’asile[^354-7] et la loi du 18 mars 2005 sur les douanes[^354-8].[^354-9]
 
 <sup>4</sup>
 
 Elles peuvent être utilisées:
 
-- a. jusqu’à l’expiration du délai fixé pour l’effacement des profils d’ADN par les art. 16 à 19 de la loi du 20 juin 2003 sur les profils d’ADN[^354-8], ou
-- b.[^354-9] en cas de condamnation pour contravention, pour une durée de 5 ans à partir de la date du jugement, pour autant qu’il soit entré en force.[^354-10]
+- a. jusqu’à l’expiration du délai fixé pour l’effacement des profils d’ADN par les art. 16 à 19 de la loi du 20 juin 2003 sur les profils d’ADN[^354-10], ou
+- b.[^354-11] en cas de condamnation pour contravention, pour une durée de 5 ans à partir de la date du jugement, pour autant qu’il soit entré en force.[^354-12]
 
-<sup>5</sup> Le Conseil fédéral fixe les modalités, notamment la durée de conservation des données enregistrées en dehors d’une procédure pénale, la procédure à suivre pour effacer les données et la collaboration avec les cantons. Il règle la transmission des données signalétiques par les autorités fédérales compétentes et les cantons.[^354-11]
+<sup>5</sup> Le Conseil fédéral fixe les modalités, notamment la durée de conservation des données enregistrées en dehors d’une procédure pénale, la procédure à suivre pour effacer les données et la collaboration avec les cantons. Il règle la transmission des données signalétiques par les autorités fédérales compétentes et les cantons.[^354-13]
 
-<sup>6</sup> Le SEM ou l’Office fédéral de la police (fedpol) peut transmettre de manière automatisée les données à la partie nationale du Système d’information Schengen (N-SIS) et au Système d’information Schengen (SIS) aux fins de signalements dans le SIS.[^354-12]
+<sup>6</sup> Le SEM ou l’Office fédéral de la police (fedpol) peut transmettre de manière automatisée les données à la partie nationale du Système d’information Schengen (N-SIS) et au Système d’information Schengen (SIS) aux fins de signalements dans le SIS.[^354-14]
 
 [^354-1]: Nouvelle teneur selon l’annexe 1 ch. 3 de la L du 17 juin 2016 sur le casier judiciaire, en vigueur depuis le 23 janv. 2023 ([RO 2022 600](https://fedlex.data.admin.ch/eli/oc/2022/600); [FF 2014 5525](https://fedlex.data.admin.ch/eli/fga/2014/1229)).
 [^354-2]: La dénomination de l’unité administrative a été adaptée en application de l’art. 20, al. 2, de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)).
@@ -6556,12 +6556,14 @@ Elles peuvent être utilisées:
 [^354-4]: [RS 361](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6307)
 [^354-5]: [RS 142.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4878)
 [^354-6]: [RS 142.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4851)
-[^354-7]: [RS 631.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7812)
-[^354-8]: [RS 363](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6319)
-[^354-9]: Nouvelle teneur selon l’annexe 1 ch. 1 de la LF du 17 déc. 2021, en vigueur depuis le 1<sup>er</sup> août 2023 ([RO 2023 309](https://fedlex.data.admin.ch/eli/oc/2023/309); [FF 2021 44](https://fedlex.data.admin.ch/eli/fga/2021/44)).
-[^354-10]: Nouvelle teneur selon l’annexe 2 ch. 1 de l’AF du 18 déc. 2020 portant approbation et mise en œuvre des échanges de notes entre la Suisse et l’UE concernant la reprise des bases légales concernant l’établissement, le fonctionnement et l’utilisation du système d’information Schengen (SIS), en vigueur depuis le 23 janv. 2023 ([RO 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365); [2022 638](https://fedlex.data.admin.ch/eli/oc/2022/638); [FF 2020 3361](https://fedlex.data.admin.ch/eli/fga/2020/794)).
-[^354-11]: Nouvelle teneur selon l’annexe 2 ch. 1 de l’AF du 18 déc. 2020 portant approbation et mise en œuvre des échanges de notes entre la Suisse et l’UE concernant la reprise des bases légales concernant l’établissement, le fonctionnement et l’utilisation du système d’information Schengen (SIS), en vigueur depuis le 23 janv. 2023 ([RO 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365); [2022 638](https://fedlex.data.admin.ch/eli/oc/2022/638); [FF 2020 3361](https://fedlex.data.admin.ch/eli/fga/2020/794)).
-[^354-12]: Introduit par l’annexe 2 ch. 1 de l’AF du 18 déc. 2020 portant approbation et mise en œuvre des échanges de notes entre la Suisse et l’UE concernant la reprise des bases légales concernant l’établissement, le fonctionnement et l’utilisation du système d’information Schengen (SIS), en vigueur depuis le 23 janv. 2023 ([RO 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365); [2022 638](https://fedlex.data.admin.ch/eli/oc/2022/638); [FF 2020 3361](https://fedlex.data.admin.ch/eli/fga/2020/794)).
+[^354-7]: [RS 142.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4898)
+[^354-8]: [RS 631.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7812)
+[^354-9]: Nouvelle teneur selon l’annexe 1 ch. 4 de l’AF du 26 sept. 2025 portant approbation et mise en œuvre de l’échange de notes entre la Suisse et l’UE concernant la reprise du règlement (UE) 2024/1358 relatif à la création d’Eurodac pour la comparaison des données biométriques, en vigueur depuis le 12 juin 2026 ([RO 2026 231](https://fedlex.data.admin.ch/eli/oc/2026/231); [FF 2025 1478](https://fedlex.data.admin.ch/eli/fga/2025/1478)).
+[^354-10]: [RS 363](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6319)
+[^354-11]: Nouvelle teneur selon l’annexe 1 ch. 1 de la LF du 17 déc. 2021, en vigueur depuis le 1<sup>er</sup> août 2023 ([RO 2023 309](https://fedlex.data.admin.ch/eli/oc/2023/309); [FF 2021 44](https://fedlex.data.admin.ch/eli/fga/2021/44)).
+[^354-12]: Nouvelle teneur selon l’annexe 2 ch. 1 de l’AF du 18 déc. 2020 portant approbation et mise en œuvre des échanges de notes entre la Suisse et l’UE concernant la reprise des bases légales concernant l’établissement, le fonctionnement et l’utilisation du système d’information Schengen (SIS), en vigueur depuis le 23 janv. 2023 ([RO 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365); [2022 638](https://fedlex.data.admin.ch/eli/oc/2022/638); [FF 2020 3361](https://fedlex.data.admin.ch/eli/fga/2020/794)).
+[^354-13]: Nouvelle teneur selon l’annexe 2 ch. 1 de l’AF du 18 déc. 2020 portant approbation et mise en œuvre des échanges de notes entre la Suisse et l’UE concernant la reprise des bases légales concernant l’établissement, le fonctionnement et l’utilisation du système d’information Schengen (SIS), en vigueur depuis le 23 janv. 2023 ([RO 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365); [2022 638](https://fedlex.data.admin.ch/eli/oc/2022/638); [FF 2020 3361](https://fedlex.data.admin.ch/eli/fga/2020/794)).
+[^354-14]: Introduit par l’annexe 2 ch. 1 de l’AF du 18 déc. 2020 portant approbation et mise en œuvre des échanges de notes entre la Suisse et l’UE concernant la reprise des bases légales concernant l’établissement, le fonctionnement et l’utilisation du système d’information Schengen (SIS), en vigueur depuis le 23 janv. 2023 ([RO 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365); [2022 638](https://fedlex.data.admin.ch/eli/oc/2022/638); [FF 2020 3361](https://fedlex.data.admin.ch/eli/fga/2020/794)).
 
 ### 4. …
 
@@ -6696,12 +6698,13 @@ Les autorités suivantes peuvent demander une comparaison au sens de l’al. 2, 
 
 <sup>4</sup> L’Office fédéral des routes est le point de contact national au sens de l’art. 12, par. 2, de la décision 2008/615/JAI pour l’échange des données relatives aux véhicules ainsi qu’aux propriétaires ou aux détenteurs de véhicules. À ce titre, il octroie à l’État participant requérant un accès aux données relatives aux véhicules et aux détenteurs de véhicules du sous-système SIAC-Véhicules aux fins visées à l’art. 12, par. 1, de la décision 2008/615/JAI. L’accès aux données se fait conformément à l’art. 15 et au chap. 3 de l’annexe à la décision 2008/616/JAI[^357-3].
 
-<sup>5</sup> Les crimes et délits énumérés à l’art. 111*j*, al. 6, let. a, de la loi du 16 décembre 2005 sur les étrangers et l’intégration[^357-4] sont considérés comme des infractions terroristes au sens de l’art. 16 de la décision 2008/615/JAI.
+<sup>5</sup> Les crimes et délits énumérés à l’annexe 3, ch. 22, de la loi du 21 mars 2025 sur l’échange d’informations Schengen[^357-4] sont considérés comme des infractions terroristes au sens de l’art. 16 de la décision 2008/615/JAI.[^357-5]
 
 [^357-1]: Nouvelle teneur selon l’annexe ch. 3 de l’AF du 1<sup>er</sup> oct. 2021 portant approbation et mise en œuvre de l’accord entre la Suisse et l’UE concernant l’approfondissement de la coopération transfrontalière (coopération Prüm) et du Protocole Eurodac entre la Suisse, l’UE et la Principauté de Liechtenstein concernant l’accès à Eurodac à des fins répressives, en vigueur depuis le 1<sup>er</sup> août 2025 ([RO 2025 348](https://fedlex.data.admin.ch/eli/oc/2025/348), [401](https://fedlex.data.admin.ch/eli/oc/2025/401); [FF 2021 738](https://fedlex.data.admin.ch/eli/fga/2021/738)).
 [^357-2]: Cf. note de bas de page relative à l’art. 356, al. 2.
 [^357-3]: Décision 2008/616/JAI du Conseil du 23 juin 2008 concernant la mise en œuvre de la décision 2008/615/JAI relative à l’approfondissement de la coopération transfrontalière, notamment en vue de lutter contre le terrorisme et la criminalité transfrontalière, JO L 210 du 6.8.2008, p. 12.
-[^357-4]: [RS 142.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4851)
+[^357-4]: [RS 362.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6316)
+[^357-5]: Nouvelle teneur selon l’annexe 1 ch. 4 de l’AF du 26 sept. 2025 portant approbation et mise en œuvre de l’échange de notes entre la Suisse et l’UE concernant la reprise du règlement (UE) 2024/1358 relatif à la création d’Eurodac pour la comparaison des données biométriques, en vigueur depuis le 12 juin 2026 ([RO 2026 231](https://fedlex.data.admin.ch/eli/oc/2026/231); [FF 2025 1478](https://fedlex.data.admin.ch/eli/fga/2025/1478)).
 
 #### Art. 358 à 361
 

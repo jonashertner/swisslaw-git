@@ -4,18 +4,18 @@ title: Schweizerisches Strafgesetzbuch vom 21. Dezember 1937
 short: StGB
 eli: "https://fedlex.data.admin.ch/eli/cc/54/757_781_799"
 language: de
-version: 2026-01-01
+version: 2026-06-12
 adopted: 1937-12-21
 in_force: 1942-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/54/757_781_799/20260101/de/xml/fedlex-data-admin-ch-eli-cc-54-757_781_799-20260101-de-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/54/757_781_799/20260101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/54/757_781_799/20260612/de/xml/fedlex-data-admin-ch-eli-cc-54-757_781_799-20260612-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/54/757_781_799/20260612/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Schweizerisches Strafgesetzbuch
 
-vom 21. Dezember 1937 (Stand am 1. Januar 2026)
+vom 21. Dezember 1937 (Stand am 12. Juni 2026)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -6242,18 +6242,18 @@ Folgende Behörden können Daten nach Absatz 1 vergleichen und bearbeiten:
 - g. die Polizeibehörden der Kantone;
 - h. die kantonalen Migrationsbehörden.[^354-3]
 
-<sup>3</sup> Die Personendaten, die sich auf Daten nach Absatz 1 beziehen, werden in getrennten Informationssystemen bearbeitet; dabei gelten die Bestimmungen des Bundesgesetzes vom 13. Juni 2008[^354-4] über die polizeilichen Informationssysteme des Bundes, des Asylgesetzes vom 26. Juni 1998[^354-5], des Ausländer- und Integrationsgesetz vom 16. Dezember 2005[^354-6] und des Zollgesetzes vom 18. März 2005[^354-7].
+<sup>3</sup> Die Personendaten, die sich auf Daten nach Absatz 1 beziehen, werden in getrennten Informationssystemen bearbeitet; dabei gelten die Bestimmungen des Bundesgesetzes vom 13. Juni 2008[^354-4] über die polizeilichen Informationssysteme des Bundes, des Asylgesetzes vom 26. Juni 1998[^354-5], des Ausländer- und Integrationsgesetzes vom 16. Dezember 2005[^354-6], des Bundesgesetzes vom 20. Juni 2003[^354-7] über das Informationssystem für den Ausländer- und den Asylbereich und des Zollgesetzes vom 18. März 2005[^354-8].[^354-9]
 
 <sup>4</sup>
 
 Die Daten dürfen verwendet werden:
 
-- a. bis zum Ablauf der Fristen für die Löschung von DNA-Profilen nach den Artikeln 16–19 des DNA-Profil-Gesetzes vom 20. Juni 2003[^354-8]; oder
-- b.[^354-9] bei einer Verurteilung wegen einer Übertretung: für eine Dauer von fünf Jahren ab dem Datum des Urteils, sofern dieses in Rechtskraft erwachsen ist.[^354-10]
+- a. bis zum Ablauf der Fristen für die Löschung von DNA-Profilen nach den Artikeln 16–19 des DNA-Profil-Gesetzes vom 20. Juni 2003[^354-10]; oder
+- b.[^354-11] bei einer Verurteilung wegen einer Übertretung: für eine Dauer von fünf Jahren ab dem Datum des Urteils, sofern dieses in Rechtskraft erwachsen ist.[^354-12]
 
-<sup>5</sup> Der Bundesrat regelt die Einzelheiten, insbesondere die Aufbewahrungsdauer der Daten, die ausserhalb von Strafverfahren erfasst worden sind, das Löschverfahren und die Zusammenarbeit mit den Kantonen. Er regelt die Übermittlung der erkennungsdienstlichen Daten durch die zuständigen Bundesbehörden und die Kantone.[^354-11]
+<sup>5</sup> Der Bundesrat regelt die Einzelheiten, insbesondere die Aufbewahrungsdauer der Daten, die ausserhalb von Strafverfahren erfasst worden sind, das Löschverfahren und die Zusammenarbeit mit den Kantonen. Er regelt die Übermittlung der erkennungsdienstlichen Daten durch die zuständigen Bundesbehörden und die Kantone.[^354-13]
 
-<sup>6</sup> Das SEM oder das Bundesamt für Polizei (fedpol) können die Daten zwecks Ausschreibungen im Schengener Informationssystem (SIS) in einem automatisierten Verfahren in den nationalen Teil des Schengener Informationssystems (N-SIS) und das SIS überführen.[^354-12]
+<sup>6</sup> Das SEM oder das Bundesamt für Polizei (fedpol) können die Daten zwecks Ausschreibungen im Schengener Informationssystem (SIS) in einem automatisierten Verfahren in den nationalen Teil des Schengener Informationssystems (N-SIS) und das SIS überführen.[^354-14]
 
 [^354-1]: Fassung gemäss Anhang 1 Ziff. 3 des Strafregistergesetzes vom 17. Juni 2016, in Kraft seit 23. Jan. 2023 ([AS 2022 600](https://fedlex.data.admin.ch/eli/oc/2022/600); [BBl 2014 5713](https://fedlex.data.admin.ch/eli/fga/2014/1229)).
 [^354-2]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)) angepasst.
@@ -6261,12 +6261,14 @@ Die Daten dürfen verwendet werden:
 [^354-4]: [SR 361](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6307)
 [^354-5]: [SR 142.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4878)
 [^354-6]: [SR 142.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4851)
-[^354-7]: [SR 631.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7812)
-[^354-8]: [SR 363](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6319)
-[^354-9]: Fassung gemäss Anhang 1 Ziff. 1 des BG vom 17. Dez. 2021, in Kraft seit 1. Aug. 2023 ([AS 2023 309](https://fedlex.data.admin.ch/eli/oc/2023/309); [BBl 2021 44](https://fedlex.data.admin.ch/eli/fga/2021/44)).
-[^354-10]: Fassung gemäss Anhang 2 Ziff. 1 des BB vom 18. Dez. 2020 über die Genehmigung und die Umsetzung der Notenaustausche zwischen der Schweiz und der EU betreffend die Übernahme der Rechtsgrundlagen über die Einrichtung, den Betrieb und die Nutzung des Schengener Informationssystems (SIS), in Kraft seit 23. Jan. 2023 ([AS 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365); [2022 638](https://fedlex.data.admin.ch/eli/oc/2022/638); [BBl 2020 3465](https://fedlex.data.admin.ch/eli/fga/2020/794)).
-[^354-11]: Fassung gemäss Anhang 2 Ziff. 1 des BB vom 18. Dez. 2020 über die Genehmigung und die Umsetzung der Notenaustausche zwischen der Schweiz und der EU betreffend die Übernahme der Rechtsgrundlagen über die Einrichtung, den Betrieb und die Nutzung des Schengener Informationssystems (SIS), in Kraft seit 23. Jan. 2023 ([AS 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365); [2022 638](https://fedlex.data.admin.ch/eli/oc/2022/638); [BBl 2020 3465](https://fedlex.data.admin.ch/eli/fga/2020/794)).
-[^354-12]: Eingefügt durch Anhang 2 Ziff. 1 des BB vom 18. Dez. 2020 über die Genehmigung und die Umsetzung der Notenaustausche zwischen der Schweiz und der EU betreffend die Übernahme der Rechtsgrundlagen über die Einrichtung, den Betrieb und die Nutzung des Schengener Informationssystems (SIS), in Kraft seit 23. Jan. 2023 ([AS 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365); [2022 638](https://fedlex.data.admin.ch/eli/oc/2022/638); [BBl 2020 3465](https://fedlex.data.admin.ch/eli/fga/2020/794)).
+[^354-7]: [SR 142.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4898)
+[^354-8]: [SR 631.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7812)
+[^354-9]: Fassung gemäss Anhang 1 Ziff. 4 des BB vom 26. Sept. 2025 über die Genehmigung und Umsetzung des Notenaustauschs zwischen de Schweiz und der EU betreffend die Übernahme der Verordnung (EU) 2024/1358 über die Einrichtung von Eurodac für den Abgleich biometrischer Daten, in Kraft seit 12. Juni 2026 ([AS 2026 231](https://fedlex.data.admin.ch/eli/oc/2026/231); [BBl 2025 1478](https://fedlex.data.admin.ch/eli/fga/2025/1478)).
+[^354-10]: [SR 363](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6319)
+[^354-11]: Fassung gemäss Anhang 1 Ziff. 1 des BG vom 17. Dez. 2021, in Kraft seit 1. Aug. 2023 ([AS 2023 309](https://fedlex.data.admin.ch/eli/oc/2023/309); [BBl 2021 44](https://fedlex.data.admin.ch/eli/fga/2021/44)).
+[^354-12]: Fassung gemäss Anhang 2 Ziff. 1 des BB vom 18. Dez. 2020 über die Genehmigung und die Umsetzung der Notenaustausche zwischen der Schweiz und der EU betreffend die Übernahme der Rechtsgrundlagen über die Einrichtung, den Betrieb und die Nutzung des Schengener Informationssystems (SIS), in Kraft seit 23. Jan. 2023 ([AS 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365); [2022 638](https://fedlex.data.admin.ch/eli/oc/2022/638); [BBl 2020 3465](https://fedlex.data.admin.ch/eli/fga/2020/794)).
+[^354-13]: Fassung gemäss Anhang 2 Ziff. 1 des BB vom 18. Dez. 2020 über die Genehmigung und die Umsetzung der Notenaustausche zwischen der Schweiz und der EU betreffend die Übernahme der Rechtsgrundlagen über die Einrichtung, den Betrieb und die Nutzung des Schengener Informationssystems (SIS), in Kraft seit 23. Jan. 2023 ([AS 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365); [2022 638](https://fedlex.data.admin.ch/eli/oc/2022/638); [BBl 2020 3465](https://fedlex.data.admin.ch/eli/fga/2020/794)).
+[^354-14]: Eingefügt durch Anhang 2 Ziff. 1 des BB vom 18. Dez. 2020 über die Genehmigung und die Umsetzung der Notenaustausche zwischen der Schweiz und der EU betreffend die Übernahme der Rechtsgrundlagen über die Einrichtung, den Betrieb und die Nutzung des Schengener Informationssystems (SIS), in Kraft seit 23. Jan. 2023 ([AS 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365); [2022 638](https://fedlex.data.admin.ch/eli/oc/2022/638); [BBl 2020 3465](https://fedlex.data.admin.ch/eli/fga/2020/794)).
 
 ### 4. …
 
@@ -6401,12 +6403,13 @@ Die folgenden Behörden können im Rahmen ihrer gesetzlichen Aufgaben einen Abgl
 
 <sup>4</sup> Das Bundesamt für Strassen ist die nationale Kontaktstelle für den Austausch von Daten über Eigentümer oder Halter von Fahrzeugen sowie von Fahrzeugdaten nach Artikel 12 Absatz 2 des Beschlusses 2008/615/JI. Als Kontaktstelle gewährt das ASTRA dem ersuchenden Vertragsstaat Zugang auf die Fahrzeug- und Fahrzeughalterdaten im Subsystem IVZ-Fahrzeuge zu den Zwecken nach Artikel 12 Absatz 1 des Beschlusses 2008/615/JI. Der Zugang zu den Daten erfolgt gemäss Artikel 15 sowie Kapitel 3 des Anhangs des Beschlusses 2008/616/JI[^357-3].
 
-<sup>5</sup> Als terroristische Straftaten im Sinne von Artikel 16 des Beschlusses 2008/615/JI gelten die in Artikel 111j Absatz 6 Buchstabe a des Ausländer- und Integrationsgesetzes vom 16. Dezember 2005[^357-4] genannten Verbrechen und Vergehen.
+<sup>5</sup> Als terroristische Straftaten im Sinne von Artikel 16 des Beschlusses 2008/615/JI gelten die im Anhang 3 Ziffer 22 des Schengen-Informationsaustauschgesetzes vom 21. März 2025[^357-4] genannten Verbrechen und Vergehen.[^357-5]
 
 [^357-1]: Fassung gemäss Anhang Ziff. 3 des BB vom 1. Okt. 2021 über die Genehmigung und die Umsetzung des Abkommens zwischen der Schweiz und der EU zur Vertiefung der grenzüberschreitenden Zusammenarbeit (Prümer Zusammenarbeit) und des Eurodac-Protokolls zwischen der Schweiz, der EU und dem Fürstentum Liechtenstein betreffend den Zugang zu Eurodac für Gefahrenabwehr- und Strafverfolgungszwecke, in Kraft seit 1. Aug. 2025 ([AS 2025 348](https://fedlex.data.admin.ch/eli/oc/2025/348), [401](https://fedlex.data.admin.ch/eli/oc/2025/401); [BBl 2021 738](https://fedlex.data.admin.ch/eli/fga/2021/738)).
 [^357-2]: Siehe Fussnote zu Art. 356 Abs. 2.
 [^357-3]: Beschluss 2008/616/JI des Rates vom 23. Juni 2008 zur Durchführung des Beschlusses 2008/615/JI zur Vertiefung der grenzüberschreitenden Zusammenarbeit, insbesondere zur Bekämpfung des Terrorismus und der grenzüberschreitenden Kriminalität, ABl. L 210 vom 6.8.2008, S. 12.
-[^357-4]: [SR 142.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4851)
+[^357-4]: [SR 362.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6316)
+[^357-5]: Fassung gemäss Anhang 1 Ziff. 4 des BB vom 26. Sept. 2025 über die Genehmigung und Umsetzung des Notenaustauschs zwischen de Schweiz und der EU betreffend die Übernahme der Verordnung (EU) 2024/1358 über die Einrichtung von Eurodac für den Abgleich biometrischer Daten, in Kraft seit 12. Juni 2026 ([AS 2026 231](https://fedlex.data.admin.ch/eli/oc/2026/231); [BBl 2025 1478](https://fedlex.data.admin.ch/eli/fga/2025/1478)).
 
 #### Art. 358–361
 

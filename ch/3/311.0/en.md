@@ -4,11 +4,11 @@ title: Swiss Criminal Code of 21 December 1937
 short: SCC
 eli: "https://fedlex.data.admin.ch/eli/cc/54/757_781_799"
 language: en
-version: 2026-01-01
+version: 2026-06-12
 adopted: 1937-12-21
 in_force: 1942-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/54/757_781_799/20260101/en/xml/fedlex-data-admin-ch-eli-cc-54-757_781_799-20260101-en-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/54/757_781_799/20260101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/54/757_781_799/20260612/en/xml/fedlex-data-admin-ch-eli-cc-54-757_781_799-20260612-en-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/54/757_781_799/20260612/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/54/757_781_799/20260101/en"
 
 English is not an official language of the Swiss Confederation. This translation is provided for information purposes only and has no legal force.
 
-of 21 December 1937 (Status as of 1 January 2026)
+of 21 December 1937 (Last amended on 12 June 2026)
 
 The Federal Assembly the Swiss Confederation,
 
@@ -1197,7 +1197,7 @@ The court shall expel foreign nationals from Switzerland for a period of 5–15 
 [^66a-11]: [SR 0.518.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1960), [0.518.23](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1964), [0.518.42](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1966), [0.518.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1967)
 [^66a-12]: [SR 142.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4851)
 [^66a-13]: [SR 812.121](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9339)
-[^66a-14]: Inserted by Annex No II 2 of the FedD of 25 Sept. 2020 on the Approval and Implementation of the Council of Europe Convention on the Prevention of Terrorism and its Additional Protocol and the Strengthening of Criminal Justice Instruments for combating Terrorism and Organised Crime, in force since 1 July 2021 ([AS 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [BBl 2018 6427](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
+[^66a-14]: Inserted by Annex No II 2 of the FedD of 25 Sept. 2020 on the Approval and Implementation of the Council of Europe Convention on the Prevention of Terrorism and its Additional Protocol and the Strengthening of Criminal Justice Instruments for combating Terrorism and Organised Crime, in force since 1 July 2021 (AS 2021 360; [BBl 2018 6427](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
 [^66a-15]: [SR 121](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4758)
 
 ### b. Non-mandatory expulsion
@@ -3253,9 +3253,9 @@ Any person who uses a telecommunications installation in order to cause distress
 
 [^179novies-1]
 
-Any person who without authorisation obtains personal data that are particularly sensitive and that are not publicly accessible shall be liable on complaint to a custodial sentence not exceeding three years or to a monetary penalty.
-
 [^179novies-1]: Inserted by Annex No 4 of the FA of 19 June 1992 on Data Protection, ([AS 1993 1945](https://fedlex.data.admin.ch/eli/oc/1993/1945_1945_1945); [BBl 1988 II 413](https://fedlex.data.admin.ch/eli/fga/1988/2_413_421_353)). Amended by Annex 1 No II 26 of the Data Protection Act of 25 Sept. 2020, in force since 1 Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+
+### Any person who without authorisation obtains personal data that are particularly sensitive and that are not publicly accessible shall be liable on complaint to a custodial sentence not exceeding three years or to a monetary penalty.
 
 ### Identity theft
 
@@ -3313,7 +3313,7 @@ Any person who, by the use of force or the threat of serious detriment or other 
 
 Any person who persistently pursues, harasses or threatens another person in a manner that is likely to significantly restrict that person’s freedom to live their life as they wish shall, on complaint, be liable to a custodial sentence not exceeding three years or a monetary penalty.
 
-[^181b-1]: Inserted by No I of the FA of 20 June 2025 (Improving Criminal Law Protection against Stalking), in force since 1 Jan. 2026 (AS **2025** 740; BBl **2024** 751, 1219)
+[^181b-1]: Inserted by No I of the FA of 20 June 2025 (Improving Criminal Law Protection against Stalking), in force since 1 Jan. 2026 ([AS 2025 740](https://fedlex.data.admin.ch/eli/oc/2025/740); [BBl 2024 751](https://fedlex.data.admin.ch/eli/fga/2024/751), [1219](https://fedlex.data.admin.ch/eli/fga/2024/1219)).
 
 ### Trafficking in human beings
 
@@ -5043,7 +5043,7 @@ Public officials also include employees of undertakings in terms of the Railways
 [^286-1]: Amended by No I of the FA of 5 Oct. 1950, in force since 5 Jan. 1951 ([AS 1951 1](https://fedlex.data.admin.ch/eli/oc/1951/1_1_1)16; BBl **1949** 1 1249).
 [^286-2]: [SR 742.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8719)
 [^286-3]: [SR 745.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8886)
-[^286-4]: [[AS 2009 5597](https://fedlex.data.admin.ch/eli/oc/2009/679), [6019](https://fedlex.data.admin.ch/eli/oc/2009/737); [2012 5619](https://fedlex.data.admin.ch/eli/oc/2012/656)No I 5; [2013 1603](https://fedlex.data.admin.ch/eli/oc/2013/375). [AS 2016 1845](https://fedlex.data.admin.ch/eli/oc/2016/328)Annex No I 1]. See now: the FA of 25 Sept. 2015 ([SR 742.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8823)).
+[^286-4]: [AS 2009 5597, 6019; **2012** 5619 No I 5; **2013** 1603. [AS 2016 1845](https://fedlex.data.admin.ch/eli/oc/2016/328)Annex No I 1]. See now: the FA of 25 Sept. 2015 ([SR 742.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8823)).
 [^286-5]: [SR 745.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8894)
 [^286-6]: Amended by Art. 11 para. 2 of the FA of 18 June 2010 on the Security Units of Public Transport Companies, in force since 1 Oct. 2011 ([AS 2011 3961](https://fedlex.data.admin.ch/eli/oc/2011/565); [BBl 2010 891](https://fedlex.data.admin.ch/eli/fga/2010/156)[915](https://fedlex.data.admin.ch/eli/fga/2010/158)).
 
@@ -6213,11 +6213,11 @@ The data subject may request the FDPIC to check whether any data relating to the
 
 <sup>2</sup> The FADP[^352-2] applies to the exchange of information in connection with searches for missing persons and the identification of unknown persons and for administrative purposes.[^352-3]
 
-<sup>3</sup> The Federal Office may provide information directly to the Central Bureaus of other states provided the recipient state is subject to the INTERPOL data protection regulations.
-
 [^352-1]: [SR 351.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6277)
 [^352-2]: [SR 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 [^352-3]: Amended by Annex 1 No II 26 of the Data Protection Act of 25 Sept. 2020, in force since 1 Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+
+### <sup>3</sup> The Federal Office may provide information directly to the Central Bureaus of other states provided the recipient state is subject to the INTERPOL data protection regulations.
 
 ### d. Financial aid and other payments
 
@@ -6250,18 +6250,18 @@ The following authorities may use and process data in terms of paragraph 1:
 - g. the cantonal police authorities;
 - h. the cantonal migration authorities.[^354-3]
 
-<sup>3</sup> Personal data that relates data in accordance with paragraph 1 shall be processed in separate information systems; the procedure is subject to the provisions of the Federal Act of 13 June 2008[^354-4] on Federal Police Information Systems, the Asylum Act of 26 June 1998[^354-5] and the Foreign Nationals and Integration Act of 16 December 2005[^354-6] and the Customs Act of 18 March 2005[^354-7].
+<sup>3</sup> Personal data that relates to data in accordance with paragraph 1 shall be processed in separate information systems; the procedure is subject to the provisions of the Federal Act of 13 June 2008[^354-4] on Federal Police Information Systems, the Asylum Act of 26 June 1998[^354-5], the Foreign Nationals and Integration Act of 16 December 2005[^354-6], the Federal Act of 20 June 2003[^354-7] on the Information System on Matters relating to Foreign Nationals and Asylum, and the Customs Act of 18 March 2005[^354-8].[^354-9]
 
 <sup>4</sup>
 
 The data may be used:
 
-- a. until the expiry of the deadlines for the deletion of DNA profiles specified in Articles 16–19 des DNA Profiling Act of 20 June 2003[^354-8]; or
-- b.[^354-9] in the case of a conviction for a contravention: for up to five years from the date of the judgment, provided the judgment is final.[^354-10]
+- a. until the expiry of the deadlines for the deletion of DNA profiles specified in Articles 16–19 des DNA Profiling Act of 20 June 2003[^354-10]; or
+- b.[^354-11] in the case of a conviction for a contravention: for up to five years from the date of the judgment, provided the judgment is final.[^354-12]
 
-<sup>5</sup> The Federal Council shall regulate the details, and in particular the retention period for data that is recorded outside criminal proceedings, the deletion procedure and cooperation with the cantons. It shall regulate the transmission of criminal records data by the competent federal authorities and the cantons.[^354-11]
+<sup>5</sup> The Federal Council shall regulate the details, and in particular the retention period for data that is recorded outside criminal proceedings, the deletion procedure and cooperation with the cantons. It shall regulate the transmission of criminal records data by the competent federal authorities and the cantons.[^354-13]
 
-<sup>6</sup> SEM or the Federal Office of Police (fedpol) may transmit the data in an automated procedure to the national section of the Schengen Information System (SIS) for the purpose of issuing alerts.[^354-12]
+<sup>6</sup> SEM or the Federal Office of Police (fedpol) may transmit the data in an automated procedure to the national section of the Schengen Information System (SIS) for the purpose of issuing alerts.[^354-14]
 
 [^354-1]: Amended by Annex 1 No 3 of the Criminal Records Register Act of 17 June 2016, in force since 23 Jan. 2023 ([AS 2022 600](https://fedlex.data.admin.ch/eli/oc/2022/600); [BBl 2014 5713](https://fedlex.data.admin.ch/eli/fga/2014/1229)).
 [^354-2]: The name of this administrative unit was changed in application of Art. 20 para. 2 of the Publications Ordinance of 7 Oct. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)).
@@ -6269,12 +6269,14 @@ The data may be used:
 [^354-4]: [SR 361](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6307)
 [^354-5]: [SR 142.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4878)
 [^354-6]: [SR 142.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4851)
-[^354-7]: [SR 631.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7812)
-[^354-8]: [SR 363](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6319)
-[^354-9]: Amended by Annex No 1 of the FA of 17 Dec. 2021, in force since 1 Aug. 2023 ([AS 2023 309](https://fedlex.data.admin.ch/eli/oc/2023/309); [BBl 2021 44](https://fedlex.data.admin.ch/eli/fga/2021/44)).
-[^354-10]: Amended by Annex 2 No 1 of the FedD of 18 Dec. 2020 on the Approval and Implementation of the Exchange of Notes between Switzerland and the EU relating to the Adoption of the Legislation on the Establishment, Operation and Use of the Schengen Information System (SIS), in force since 23. Jan. 2023 ([AS 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365); [2022 638](https://fedlex.data.admin.ch/eli/oc/2022/638); [BBl 2020 3465](https://fedlex.data.admin.ch/eli/fga/2020/794)).
-[^354-11]: Amended by Annex 2 No 1 of the FedD of 18 Dec. 2020 on the Approval and Implementation of the Exchange of Notes between Switzerland and the EU relating to the Adoption of the Legislation on the Establishment, Operation and Use of the Schengen Information System (SIS), in force since 23. Jan. 2023 ([AS 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365); [2022 638](https://fedlex.data.admin.ch/eli/oc/2022/638); [BBl 2020 3465](https://fedlex.data.admin.ch/eli/fga/2020/794)).
-[^354-12]: Inserted by Annex 2 No 1 of the FedD of 18 Dec. 2020 on the Approval and Implementation of the Exchange of Notes between Switzerland and the EU relating to the Adoption of the Legislation on the Establishment, Operation and Use of the Schengen Information System (SIS), in force since 23. Jan. 2023 ([AS 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365); [2022 638](https://fedlex.data.admin.ch/eli/oc/2022/638); [BBl 2020 3465](https://fedlex.data.admin.ch/eli/fga/2020/794)).
+[^354-7]: [SR 142.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4898)
+[^354-8]: [SR 631.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7812)
+[^354-9]: Amended by Annex 1 No 4 of the FedD of 26 Sept. 2025 on the Approval and Implementation of the Exchange of Notes between Switzerland and the EU relating to the Adoption of Regulation (EU) 2024/1358 on the establishment of ‘Eurodac’ for the comparison of biometric data, in force since 12 June 2026 ([AS 2026 231](https://fedlex.data.admin.ch/eli/oc/2026/231); [BBl 2025 1478](https://fedlex.data.admin.ch/eli/fga/2025/1478)).
+[^354-10]: [SR 363](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6319)
+[^354-11]: Amended by Annex No 1 of the FA of 17 Dec. 2021, in force since 1 Aug. 2023 ([AS 2023 309](https://fedlex.data.admin.ch/eli/oc/2023/309); [BBl 2021 44](https://fedlex.data.admin.ch/eli/fga/2021/44)).
+[^354-12]: Amended by Annex 2 No 1 of the FedD of 18 Dec. 2020 on the Approval and Implementation of the Exchange of Notes between Switzerland and the EU relating to the Adoption of the Legislation on the Establishment, Operation and Use of the Schengen Information System (SIS), in force since 23. Jan. 2023 ([AS 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365); [2022 638](https://fedlex.data.admin.ch/eli/oc/2022/638); [BBl 2020 3465](https://fedlex.data.admin.ch/eli/fga/2020/794)).
+[^354-13]: Amended by Annex 2 No 1 of the FedD of 18 Dec. 2020 on the Approval and Implementation of the Exchange of Notes between Switzerland and the EU relating to the Adoption of the Legislation on the Establishment, Operation and Use of the Schengen Information System (SIS), in force since 23. Jan. 2023 ([AS 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365); [2022 638](https://fedlex.data.admin.ch/eli/oc/2022/638); [BBl 2020 3465](https://fedlex.data.admin.ch/eli/fga/2020/794)).
+[^354-14]: Inserted by Annex 2 No 1 of the FedD of 18 Dec. 2020 on the Approval and Implementation of the Exchange of Notes between Switzerland and the EU relating to the Adoption of the Legislation on the Establishment, Operation and Use of the Schengen Information System (SIS), in force since 23. Jan. 2023 ([AS 2021 365](https://fedlex.data.admin.ch/eli/oc/2021/365); [2022 638](https://fedlex.data.admin.ch/eli/oc/2022/638); [BBl 2020 3465](https://fedlex.data.admin.ch/eli/fga/2020/794)).
 
 ### 4. …
 
@@ -6409,12 +6411,13 @@ The following authorities may, within the scope of their statutory duties, reque
 
 <sup>4</sup> The Federal Roads Office (FEDRO) is the national contact point for the exchange of data on owners or operators of vehicles and vehicle data in accordance with Article 12 paragraph 2 of Decision 2008/615/JHA. As the contact point, FEDRO grants the requesting contracting state access to the vehicle and vehicle operator data in the IVZ vehicles subsystem for the purposes of Article 12 paragraph 1 of Decision 2008/615/JHA. Access to the data is granted in accordance with Article 15 and Chapter 3 of the Annex to the Decision 2008/616/JHA[^357-3].
 
-<sup>5</sup> Terrorist offences within the meaning of Article 16 of Decision 2008/615/JHA are the felonies and misdemeanours referred to in Article 111*j* paragraph 6 letter a of the Foreign Nationals and Integration Act of 16 December 2005[^357-4].
+<sup>5</sup> Terrorist offences within the meaning of Article 16 of Decision 2008/615/JHA are the felonies and misdemeanours referred to in Annex 3 number 22 of the Schengen Information Exchange Act of 21 March 2025[^357-4].[^357-5]
 
 [^357-1]: Amended by Annex No 3 of the FD of 1 Oct. 2021 on the Approval and Implementation of the Agreement between Switzerland and the EU on the stepping up of cross-border cooperation (Prüm cooperation) and of the Eurodac Protocol between Switzerland, the EU and the Principality of Liechtenstein regarding access to Eurodac for law enforcement purposes, in force since 1 Aug. 2025 ([AS 2025 348](https://fedlex.data.admin.ch/eli/oc/2025/348), [401](https://fedlex.data.admin.ch/eli/oc/2025/401); [BBl 2021 738](https://fedlex.data.admin.ch/eli/fga/2021/738)).
 [^357-2]: See footnote to Art. 356 para. 2.
 [^357-3]: Council Decision 2008/616/JHA of 23 June 2008 on the implementation of Decision 2008/615/JHA on the stepping up of cross-border cooperation, particularly in combating terrorism and cross-border crime, OJ. L 210 of 6.8.2008, p. 12.
-[^357-4]: [SR 142.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4851)
+[^357-4]: [SR 362.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6316)
+[^357-5]: Amended by Annex 1 No 4 of the FedD of 26 Sept. 2025 on the Approval and Implementation of the Exchange of Notes between Switzerland and the EU relating to the Adoption of Regulation (EU) 2024/1358 on the establishment of Eurodac for the comparison of biometric data, in force since 12 June 2026 ([AS 2026 231](https://fedlex.data.admin.ch/eli/oc/2026/231); [BBl 2025 1478](https://fedlex.data.admin.ch/eli/fga/2025/1478)).
 
 #### Art. 358–361
 
