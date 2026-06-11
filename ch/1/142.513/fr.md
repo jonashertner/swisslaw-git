@@ -3,11 +3,11 @@ sr: "142.513"
 title: "Ordonnance du 12 avril 2006 sur le système d'information central sur la migration (Ordonnance SYMIC)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/303"
 language: fr
-version: 2025-06-15
+version: 2026-06-12
 adopted: 2006-04-12
 in_force: 2006-05-29
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/303/20250615/fr/xml/fedlex-data-admin-ch-eli-cc-2006-303-20250615-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/303/20250615/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/303/20260612/fr/xml/fedlex-data-admin-ch-eli-cc-2006-303-20260612-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/303/20260612/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2006/303/20250615/fr"
 
 (Ordonnance SYMIC)
 
-du 12 avril 2006 (État le 15 juin 2025)
+du 12 avril 2006 (État le 12 juin 2026)
 
 Le Conseil fédéral suisse,
 
@@ -644,18 +644,17 @@ Le SEM détruit les données personnelles du SYMIC qui sont sans valeur archivis
 
 ### (art. 6 LDEA)
 
-<sup>1</sup> Les droits des personnes concernées, notamment le droit d’accès, le droit d’être informé sur la collecte de données personnelles et le droit de rectifier et de détruire les données, sont régis par les dispositions de la loi fédérale du 25 septembre 2020 sur la protection des données (LPD)[^19-1], et de la loi fédérale du 20 décembre 1968 sur la procédure administrative[^19-2] et par les art. 111*e* à 111*g* LEI[^19-3].[^19-4]
+<sup>1</sup> Les droits des personnes concernées, notamment le droit d’accès, le droit d’être informé sur la collecte de données personnelles et le droit de rectifier et de détruire les données, sont régis par les dispositions de la loi fédérale du 25 septembre 2020 sur la protection des données (LPD)[^19-1], et de la loi fédérale du 20 décembre 1968 sur la procédure administrative[^19-2].[^19-3]
 
-<sup>2</sup> Si une personne concernée veut faire valoir des droits, elle doit présenter une demande au SEM dans la forme prévue à l’art. 16 OPDo[^19-5].[^19-6]
+<sup>2</sup> Si une personne concernée veut faire valoir des droits, elle doit présenter une demande au SEM dans la forme prévue à l’art. 16 OPDo[^19-4].[^19-5]
 
 <sup>3</sup> Les données inexactes doivent être corrigées d’office.
 
 [^19-1]: [RS 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 [^19-2]: [RS 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
-[^19-3]: [RS 142.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4851). Ce renvoi est actuellement sans objet: les art. 111*e* et 111*f* ont été abrogés. L’art. 111*g* a une nouvelle teneur.
-[^19-4]: Nouvelle teneur selon l’annexe 2 ch. II 8 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
-[^19-5]: [RS 235.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5994)
-[^19-6]: Nouvelle teneur selon l’annexe 2 ch. II 8 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^19-3]: Nouvelle teneur selon le ch. I de l’O du 20 mai 2026, en vigueur depuis le 12 juin 2026 ([RO 2026 268](https://fedlex.data.admin.ch/eli/oc/2026/268)).
+[^19-4]: [RS 235.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5994)
+[^19-5]: Nouvelle teneur selon l’annexe 2 ch. II 8 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 ## Section 7 Statistiques et contrôles
 
@@ -667,16 +666,18 @@ Le SEM détruit les données personnelles du SYMIC qui sont sans valeur archivis
 
 <sup>2</sup> Il communique aux autorités de la Confédération, des cantons et des communes les statistiques dont elles ont besoin pour accomplir les tâches prescrites par la LEI[^20-1], la LAsi[^20-2], la LN[^20-3], l’accord sur la libre circulation des personnes avec la CE[^20-4] et la Convention instituant l’AELE[^20-5] ainsi que les accords d’association à Schengen[^20-6] et les accords d’association à Dublin[^20-7].[^20-8]
 
+<sup>2bis</sup> Il établit, en vertu de l’annexe XII, partie A, du règlement (UE) 2016/399[^20-9], des statistiques concernant la procédure de renvoi au sens de l’art. 64*c*<sup>bis</sup> LEI et les communique une fois par an à la Commission européenne.[^20-10]
+
 <sup>3</sup> Il publie les statistiques les plus importantes.
 
 <sup>4</sup> Il peut, sur demande et pour répondre à leurs besoins, fournir des statistiques complémentaires aux autorités, aux particuliers ou à des organisations. Il peut aussi leur établir des statistiques spéciales.
 
 <sup>5</sup>
 
-Il collabore à l’établissement du relevé fédéral annuel pour la statistique de la population et des ménages, à la statistique de la migration et à la statistique de la population active occupée. Pour permettre à l’Office fédéral de la statistique d’accomplir ses tâches conformément à l’ordonnance du 30 avril 2025 sur la statistique fédérale[^20-9], il lui fournit:[^20-10]
+Il collabore à l’établissement du relevé fédéral annuel pour la statistique de la population et des ménages, à la statistique de la migration et à la statistique de la population active occupée. Pour permettre à l’Office fédéral de la statistique d’accomplir ses tâches conformément à l’ordonnance du 30 avril 2025 sur la statistique fédérale[^20-11], il lui fournit:[^20-12]
 
 - a. à intervalles réguliers, les données relatives à l’effectif des étrangers enregistrés dans le SYMIC et à son évolution;
-- b. les données relatives aux requérants d’asile, aux personnes admises à titre provisoire et aux réfugiés, qui sont nécessaires à l’établissement de la statistique de l’aide sociale.[^20-11]
+- b. les données relatives aux requérants d’asile, aux personnes admises à titre provisoire et aux réfugiés, qui sont nécessaires à l’établissement de la statistique de l’aide sociale.[^20-13]
 
 <sup>6</sup> Il peut autoriser les services ayant un accès en ligne au SYMIC d’établir des statistiques sur la base des données qu’ils ont eux-mêmes enregistrées.
 
@@ -688,9 +689,11 @@ Il collabore à l’établissement du relevé fédéral annuel pour la statistiq
 [^20-6]: Ces Ac. sont mentionnés à l’annexe 4, ch. 1.
 [^20-7]: Ces Ac. sont mentionnés à l’annexe 4, ch. 2.
 [^20-8]: Nouvelle teneur selon le ch. I 1 de l’O du 22 oct. 2008 (Schengen et Dublin), en vigueur depuis le 12 déc. 2008 ([RO 2008 5421](https://fedlex.data.admin.ch/eli/oc/2008/757)).
-[^20-9]: [RS 431.011](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6947)
-[^20-10]: Nouvelle teneur selon l’annexe 3 ch. 1 de l’O du 30 avr. 2025 sur la statistique fédérale, en vigueur depuis le 1<sup>er</sup> juin 2025 ([RO 2025 318](https://fedlex.data.admin.ch/eli/oc/2025/318)).
-[^20-11]: Nouvelle teneur selon le ch. I de l’O du 16 nov. 2011, en vigueur depuis le 1<sup>er</sup> déc. 2011 ([RO 2011 5197](https://fedlex.data.admin.ch/eli/oc/2011/750)).
+[^20-9]: Règlement (UE) 2016/399 du Parlement européen et du Conseil du 9 mars 2016 concernant un code de l’Union relatif au régime de franchissement des frontières par les personnes (code frontières Schengen), JO L 77 du 23.3.2016, p. 1; modifié en dernier lieu par le règlement (UE) 2024/1717, JO L, 2024/1717, 20.6.2024.
+[^20-10]: Introduit par le ch. I de l’O du 6 mai 2026, en vigueur depuis le 12 juin 2026 ([RO 2026 242](https://fedlex.data.admin.ch/eli/oc/2026/242)).
+[^20-11]: [RS 431.011](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6947)
+[^20-12]: Nouvelle teneur selon l’annexe 3 ch. 1 de l’O du 30 avr. 2025 sur la statistique fédérale, en vigueur depuis le 1<sup>er</sup> juin 2025 ([RO 2025 318](https://fedlex.data.admin.ch/eli/oc/2025/318)).
+[^20-13]: Nouvelle teneur selon le ch. I de l’O du 16 nov. 2011, en vigueur depuis le 1<sup>er</sup> déc. 2011 ([RO 2011 5197](https://fedlex.data.admin.ch/eli/oc/2011/750)).
 
 #### Art. 21
 
@@ -784,18 +787,18 @@ Annexe 1[^t-1]
 
 ## Niveaux d’accès et autorisations de traiter des données
 
-[^t-1]: Nouvelle teneur selon le ch. II de l’O du 14 mai 2025, en vigueur depuis le 15 juin 2025 ([RO 2025 344](https://fedlex.data.admin.ch/eli/oc/2025/344)).
+[^t-1]: Nouvelle teneur selon le ch. II de l’O du 20 mai 2026, en vigueur depuis le 12 juin 2026 ([RO 2026 268](https://fedlex.data.admin.ch/eli/oc/2026/268)).
 
 ### Légende
 
-**Niveaux d’accès**
+Niveaux d’accès
 
 - A consulter en ligne
 - B traiter
 - W transmission individuelle via une plateforme informatique
 - Vide pas d’accès
 
-**Unités organisationnelles**
+Unités organisationnelles
 
 - ACSP Autorités cantonales d’exécution des sanctions pénales
 - AEE Autorités chargées de l’exécution des expulsions pénales
@@ -842,7 +845,7 @@ Annexe 1[^t-1]
 
 <table>
 <tr><th>Champs de données SYMIC</th><th colspan="5">SEM</th><th colspan="29">Partenaires du SEM</th></tr>
-<tr><th></th><th></th><th></th><th></th><th></th><th></th><th>MIGRA</th><th>OCT</th><th>OCF</th><th>CP</th><th>EC</th><th>fedpol</th><th></th><th></th><th></th><th>SRC</th><th>TAF</th><th></th><th>CdC</th><th>RSE</th><th>DFAE</th><th>OFJ</th><th></th><th>COM</th><th>NAT</th><th>CDF</th><th>AS</th><th>IC</th><th>CdH</th><th>AFC</th><th>OFDF</th><th>OFAS</th><th>AEE</th><th>ACSP</th><th>MPC</th></tr>
+<tr><th></th><th colspan="5"></th><th>MIGRA</th><th>OCT</th><th>OCF</th><th>CP</th><th>EC</th><th colspan="4">fedpol</th><th>SRC</th><th colspan="2">TAF</th><th>CdC</th><th>RSE</th><th>DFAE</th><th colspan="2">OFJ</th><th>COM</th><th>NAT</th><th>CDF</th><th>AS</th><th>IC</th><th>CdH</th><th>AFC</th><th>OFDF</th><th>OFAS</th><th>AEE</th><th>ACSP</th><th>MPC</th></tr>
 <tr><th></th><th>I</th><th>II</th><th>III</th><th>IV</th><th>V</th><th></th><th></th><th></th><th></th><th></th><th>I</th><th>II</th><th>III</th><th>IV</th><th></th><th>I</th><th>II</th><th></th><th></th><th></th><th>I</th><th>II</th><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th></tr>
 <tr><td colspan="35">I. Données de base</td></tr>
 <tr><td colspan="35">1. Identité</td></tr>
@@ -859,7 +862,7 @@ Annexe 1[^t-1]
 <tr><td>Empreintes digitales</td><td>B</td><td>B</td><td></td><td>B</td><td></td><td>B</td><td></td><td>A</td><td>A</td><td></td><td>A</td><td></td><td>A</td><td></td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td>Signature</td><td>B</td><td>B</td><td></td><td>B</td><td></td><td>B</td><td></td><td>A</td><td>A</td><td></td><td>A</td><td></td><td>A</td><td></td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td colspan="35">2. Numéro personnel</td></tr>
-<tr><td>Numéro personnel SYMIC (n° du dossier électronique)</td><td>B</td><td>A</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>W</td><td>A</td><td>A</td><td></td><td>A</td><td></td><td></td></tr>
+<tr><td>Numéro personnel SYMIC (n<sup>o</sup> du dossier électronique)</td><td>B</td><td>A</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>W</td><td>A</td><td>A</td><td></td><td>A</td><td></td><td></td></tr>
 <tr><td>Numéro personnel domaine des étrangers</td><td>B</td><td>A</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>W</td><td>A</td><td>A</td><td></td><td>A</td><td></td><td></td></tr>
 <tr><td>Numéro personnel domaine de l’asile</td><td>B</td><td>A</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>W</td><td>A</td><td>A</td><td></td><td></td><td></td><td></td></tr>
 <tr><td>Numéro d’assuré AVS</td><td>B</td><td>A</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A</td><td></td><td>A</td><td></td><td>A</td><td>A</td><td>W</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td></tr>
@@ -963,7 +966,7 @@ Annexe 1[^t-1]
 <tr><td>Famille ou groupe (code)</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>B</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td></td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>A</td><td>W</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td>Numéro de famille ou de groupe</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>B</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td></td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td>Numéro de contrôle du processus (PCN)</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>B</td><td></td><td>A</td><td>B</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>B</td><td></td><td></td></tr>
-<tr><td>Lieu, date et heure du relevé des empreintes digitales</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>B</td><td></td><td>A</td><td>B</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>A</td><td></td><td></td></tr>
+<tr><td>Lieu, date et heure du relevé des données biométriques</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>B</td><td></td><td>A</td><td>B</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>A</td><td></td><td></td></tr>
 <tr><td colspan="35">b. Adresses</td></tr>
 <tr><td>Adresse à l’étranger</td><td>B</td><td>B</td><td>B</td><td>B</td><td>A</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td></td><td></td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td></tr>
 <tr><td>Adresse en Suisse</td><td>B</td><td>B</td><td>B</td><td>B</td><td>A</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A</td><td></td><td>A</td><td></td><td>A</td><td>A</td><td>W</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td></tr>
@@ -976,7 +979,8 @@ Annexe 1[^t-1]
 <tr><td>Genre de la pièce de légitimation</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td></td><td>B</td><td>A</td><td></td></tr>
 <tr><td>Autorité émettrice, lieu et pays</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td></td><td>B</td><td>A</td><td></td></tr>
 <tr><td>Date de délivrance/durée de validité</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td></td><td>B</td><td>A</td><td></td></tr>
-<tr><td>Numéro</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td></td><td>B</td><td>A</td><td></td></tr>
+<tr><td>Numero</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td></td><td>B</td><td>A</td><td></td></tr>
+<tr><td>Page biographique scannée du document de voyage ou du document d’identité</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td></td><td>B</td><td>A</td><td></td></tr>
 <tr><td colspan="35">d. Entrée</td></tr>
 <tr><td>Pays limitrophe</td><td>B</td><td>A</td><td></td><td>A</td><td>A</td><td>B</td><td>B</td><td>A</td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td></td></tr>
 <tr><td>Représentation suisse à l’étranger compétente</td><td>B</td><td>B</td><td>A</td><td>B</td><td>A</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td>A</td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td></td></tr>
@@ -1129,7 +1133,7 @@ Annexe 1[^t-1]
 <tr><td>Dates d’entrée et de sortie</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>B</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td>A</td><td></td></tr>
 <tr><td>Moyen de transport</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>B</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td></td></tr>
 <tr><td>Motif de la rétention</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td></td><td>B</td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td></td></tr>
-<tr><td>Franchissement de la frontière observé par/non observé</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td></td><td>B</td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Franchissement de la frontière observé par / non observé</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td></td><td>B</td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td></td></tr>
 <tr><td>Faits</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td></td><td>B</td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td></td></tr>
 <tr><td>Remarques internes</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td></td><td>B</td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td></td></tr>
 <tr><td>Description de la falsification</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td></td><td>B</td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td></td></tr>
@@ -1180,6 +1184,7 @@ Annexe 1[^t-1]
 <tr><td>Autorité émettrice, lieu et pays</td><td>B</td><td>B</td><td>B</td><td>B</td><td>A</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td></td></tr>
 <tr><td>Date de délivrance/durée de validité</td><td>B</td><td>B</td><td>B</td><td>B</td><td>A</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td></td></tr>
 <tr><td>Numéro</td><td>B</td><td>B</td><td>B</td><td>B</td><td>A</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Page biographique scannée du document de voyage ou du document d’identité</td><td>B</td><td>B</td><td>B</td><td>B</td><td>A</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td></td></tr>
 <tr><td colspan="35">c. Procédure</td></tr>
 <tr><td colspan="35">En général</td></tr>
 <tr><td>Cas médical</td><td>B</td><td>A</td><td>B</td><td>B</td><td></td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
@@ -1196,9 +1201,9 @@ Annexe 1[^t-1]
 <tr><td>Code d’observation</td><td>B</td><td>A</td><td>B</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td></td><td></td><td>A</td><td></td><td>A</td><td></td><td></td><td></td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td>Date du dépôt et du règlement du recours</td><td>B</td><td>A</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td>A</td><td></td></tr>
 <tr><td>Collaborateur compétent</td><td>A</td><td>A</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-<tr><td colspan="35">Empreintes digitales</td></tr>
+<tr><td colspan="35">Données biométriques</td></tr>
 <tr><td>Numéro du contrôle de processus (PCN)</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-<tr><td>Lieu, date et heure du relevé des empreintes digitales</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Lieu, date et heure du relevé des données biométriques</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td colspan="35">Attribution/répartition</td></tr>
 <tr><td>Date de l’attribution</td><td>B</td><td>A</td><td>B</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td>A</td><td></td></tr>
 <tr><td>Motif de la mutation</td><td>B</td><td>A</td><td>B</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
@@ -1267,12 +1272,12 @@ Annexe 2[^t-2]
 
 **Légende**
 
-Communication des données
+Communication des données:
 
 - AU: Autorisé
 - Vide: pas autorisé
 
-Unités d’organisation
+Unités d’organisation:
 
 - OSAR: Organisation suisse d’aide aux réfugiés
 - CSC/CCC: Caisse suisse de compensation (AVS/AI)/Caisses cantonales de compensation
@@ -1315,7 +1320,7 @@ Annexe 4[^t-3]
 
 ## Accords d’association à Schengen et à Dublin
 
-[^t-3]: Introduite par le ch. I 1 de l’O du 22 oct. 2008 (Schengen et Dublin) ([RO 2008 5421](https://fedlex.data.admin.ch/eli/oc/2008/757)). Nouvelle teneur selon le ch. I de l’O du 18 sept. 2015, en vigueur depuis le 15 oct. 2015 ([RO 2015 3731](https://fedlex.data.admin.ch/eli/oc/2015/628)).
+[^t-3]: Introduite par le ch. I 1 de l’O du 22 oct. 2008 (Schengen et Dublin) ([RO 2008 5421](https://fedlex.data.admin.ch/eli/oc/2008/757)). Nouvelle teneur selon le ch. II de l’O du 20 mai 2026, en vigueur depuis le 12 juin 2026 ([RO 2026 268](https://fedlex.data.admin.ch/eli/oc/2026/268)).
 
 ### 1. Accords d’association à Schengen
 
@@ -1342,9 +1347,11 @@ Les accords d’association à Dublin comprennent les accords suivants:
 - a. Accord du 26 octobre 2004 entre la Confédération suisse et la Communauté européenne relatif aux critères et aux mécanismes permettant de déterminer l’État responsable de l’examen d’une demande d’asile introduite dans un État membre ou en Suisse[^annex4-lvlu1-lvl2-1];
 - b. Accord du 17 décembre 2004 entre la Confédération suisse, la République d’Islande et le Royaume de Norvège sur la mise en œuvre, l’application et le développement de l’acquis de Schengen et sur les critères et les mécanismes permettant de déterminer l’État responsable de l’examen d’une demande d’asile introduite en Suisse, en Islande ou en Norvège[^annex4-lvlu1-lvl2-2];
 - c. Protocole du 28 février 2008 entre la Confédération suisse, la Communauté européenne et la Principauté de Liechtenstein à l’accord entre la Confédération suisse et la Communauté européenne relatif aux critères et mécanismes de détermination de l’État responsable de l’examen d’une demande d’asile présentée dans un État membre ou en Suisse[^annex4-lvlu1-lvl2-3];
-- d. Protocole du 28 février 2008 entre la Confédération suisse, la Communauté européenne et la Principauté de Liechtenstein relatif à l’adhésion de la Principauté de Liechtenstein à l’accord entre la Confédération suisse et la Communauté européenne relatif aux critères et mécanismes de détermination de l’État responsable de l’examen d’une demande d’asile présentée dans un État membre ou en Suisse[^annex4-lvlu1-lvl2-4].
+- d. Protocole du 28 février 2008 entre la Confédération suisse, la Communauté européenne et la Principauté de Liechtenstein relatif à l’adhésion de la Principauté de Liechtenstein à l’accord entre la Confédération suisse et la Communauté européenne relatif aux critères et mécanismes de détermination de l’État responsable de l’examen d’une demande d’asile présentée dans un État membre ou en Suisse[^annex4-lvlu1-lvl2-4];
+- e. Protocole du 27 juin 2019 entre la Confédération suisse, l’Union européenne et la Principauté de Liechtenstein à l’Accord entre la Confédération suisse et la Communauté européenne relatif aux critères et aux mécanismes permettant de déterminer l’État responsable de l’examen d’une demande d’asile introduite dans un État membre ou en Suisse, concernant l’accès à Eurodac à des fins répressives[^annex4-lvlu1-lvl2-5].
 
 [^annex4-lvlu1-lvl2-1]: [RS 0.142.392.68](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/443)
 [^annex4-lvlu1-lvl2-2]: [RS 0.362.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1519)
 [^annex4-lvlu1-lvl2-3]: [RS 0.142.393.141](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/451)
 [^annex4-lvlu1-lvl2-4]: [RS 0.142.395.141](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/452)
+[^annex4-lvlu1-lvl2-5]: [RS 0.142.392.682](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40016)

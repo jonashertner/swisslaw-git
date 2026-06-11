@@ -3,11 +3,11 @@ sr: "142.513"
 title: "Ordinanza del 12 aprile 2006 concernente il sistema d'informazione centrale sulla migrazione (Ordinanza SIMIC)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/303"
 language: it
-version: 2025-06-15
+version: 2026-06-12
 adopted: 2006-04-12
 in_force: 2006-05-29
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/303/20250615/it/xml/fedlex-data-admin-ch-eli-cc-2006-303-20250615-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/303/20250615/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/303/20260612/it/xml/fedlex-data-admin-ch-eli-cc-2006-303-20260612-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/303/20260612/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2006/303/20250615/it"
 
 (Ordinanza SIMIC)
 
-del 12 aprile 2006 (Stato 15 giugno 2025)
+del 12 aprile 2006 (Stato 12 giugno 2026)
 
 Il Consiglio federale svizzero,
 
@@ -154,7 +154,7 @@ La parte generale con i dati di base comprende i dati personali delle categorie 
 
 <sup>4</sup> ...[^4-3]
 
-[^4-1]: Introdotta dall’all. n. 1 dell’O del 21 nov. 2007 sull’armonizzazione dei registri ([RU 2007 6719](https://fedlex.data.admin.ch/eli/oc/2007/868)). Nuovo testo giusta l’all. n. II 3 dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)).
+[^4-1]: Introdotta dall’all. n. 1 dell’O del 21 nov. 2007 sull’armonizzazione dei registri ([RU 2007 6719](https://fedlex.data.admin.ch/eli/oc/2007/868)). Nuovo testo giusta l’all. cifra II n. 3 dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)).
 [^4-2]: Nuovo testo giusta la cifra I dell’O del 19 feb. 2020, in vigore dal 1° apr. 2020 ([RU 2020 933](https://fedlex.data.admin.ch/eli/oc/2020/176)).
 [^4-3]: Introdotto dalla cifra I dell’O del 24 ott. 2007 ([RU 2007 5615](https://fedlex.data.admin.ch/eli/oc/2007/770)). Abrogato dalla cifra I dell’O del 1° mag. 2019, con effetto dal 1° giu. 2019 ([RU 2019 1453](https://fedlex.data.admin.ch/eli/oc/2019/282)).
 
@@ -313,9 +313,13 @@ La SEM può permettere alle autorità seguenti di accedere con procedura di rich
   - 2\. per l’adempimento dei suoi compiti di verifica della minaccia per la sicurezza interna o esterna ai sensi della LCit[^9-35], della LStrI e della LAsi,
   - 3\. per l’esame di misure di allontanamento e di respingimento ai sensi della LStrI;
 
-- o.[^9-36] l’Amministrazione federale delle contribuzioni, per l’adempimento dei suoi compiti:
-- 1\. nell’ambito della riscossione dell’imposta sul valore aggiunto sulle prestazioni che i contribuenti effettuano a titolo oneroso sul territorio svizzero (imposta sulle prestazioni eseguite sul territorio svizzero) e sull’acquisto di prestazioni di imprese con sede all’estero da parte di beneficiari che si trovano sul territorio svizzero (imposta sull’acquisto) e nell’ambito dell’applicazione dell’imposta preventiva,
-- 2\. nell’ambito dell’esecuzione di procedimenti penali e di procedimenti di assistenza amministrativa e giudiziaria;
+- o.[^9-36]
+
+  l’Amministrazione federale delle contribuzioni, per l’adempimento dei suoi compiti:
+
+  - 1\. nell’ambito della riscossione dell’imposta sul valore aggiunto sulle prestazioni che i contribuenti effettuano a titolo oneroso sul territorio svizzero (imposta sulle prestazioni eseguite sul territorio svizzero) e sull’acquisto di prestazioni di imprese con sede all’estero da parte di beneficiari che si trovano sul territorio svizzero (imposta sull’acquisto) e nell’ambito dell’applicazione dell’imposta preventiva,
+  - 2\. nell’ambito dell’esecuzione di procedimenti penali e di procedimenti di assistenza amministrativa e giudiziaria;
+
 - p.[^9-37]
 
   l’Ufficio federale della dogana e della sicurezza dei confini (UDSC)[^9-38], per l’adempimento dei suoi compiti:
@@ -357,7 +361,7 @@ La SEM può permettere alle autorità seguenti di accedere con procedura di rich
 [^9-21]: Nuovo testo giusta la cifra I dell’O del 24 ott. 2007, in vigore dal 1° gen. 2008 ([RU 2007 5615](https://fedlex.data.admin.ch/eli/oc/2007/770)).
 [^9-22]: Nuovo testo giusta la cifra I dell’O del 19 ott. 2022, in vigore dal 22 nov. 2022 ([RU 2022 647](https://fedlex.data.admin.ch/eli/oc/2022/647)).
 [^9-23]: Nuovo testo giusta l’all. 4 dell’O del 18 dic. 2013 sul sistema centrale d’informazione visti e sul sistema nazionale d’informazione visti, con effetto dal 20 gen. 2014 ([RU 2014 3](https://fedlex.data.admin.ch/eli/oc/2014/2)).
-[^9-24]: Nuova espr. giusta l’all. n. II 3 dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)). Di detta mod. è tenuto conto in tutto il presente testo.
+[^9-24]: Nuova espr. giusta l’all. cifra II n. 3 dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)). Di detta mod. è tenuto conto in tutto il presente testo.
 [^9-25]: [RS 823.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9950)
 [^9-26]: [RS 823.201](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9951)
 [^9-27]: Nuovo testo giusta l’all. cifra I dell’O del 4 giu. 2010, in vigore dal 1° gen. 2011 ([RU 2010 3061](https://fedlex.data.admin.ch/eli/oc/2010/412)).
@@ -630,18 +634,17 @@ La SEM distrugge i dati personali non degni di archiviazione contenuti nel SIMIC
 
 ### (art. 6 LSISA)
 
-<sup>1</sup> I diritti degli interessati, segnatamente il diritto d’accesso, il diritto di essere informati in merito alla raccolta dei dati personali e il diritto alla rettifica e alla distruzione dei dati, sono retti dalle disposizioni della legge federale del 25 settembre 2020[^19-1] sulla protezione dei dati (LPD) e della legge federale del 20 dicembre 1968[^19-2] sulla procedura amministrativa, nonché dagli articoli 111*e*–111*g* LStrI[^19-3].[^19-4]
+<sup>1</sup> I diritti degli interessati, segnatamente il diritto d’accesso, il diritto di essere informati in merito alla raccolta dei dati personali e il diritto alla rettifica e alla distruzione dei dati, sono retti dalle disposizioni della legge federale del 25 settembre 2020[^19-1] sulla protezione dei dati (LPD) e della legge federale del 20 dicembre 1968[^19-2] sulla procedura amministrativa.[^19-3]
 
-<sup>2</sup> L’interessato che intende far valere i propri diritti deve presentare alla SEM una domanda nella forma prevista dall’articolo 16 OPDa[^19-5].[^19-6]
+<sup>2</sup> L’interessato che intende far valere i propri diritti deve presentare alla SEM una domanda nella forma prevista dall’articolo 16 OPDa[^19-4].[^19-5]
 
 <sup>3</sup> I dati inesatti sono rettificati d’ufficio.
 
 [^19-1]: [RS 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 [^19-2]: [RS 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
-[^19-3]: [RS 142.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4851). Questo rimando è ora privo di oggetto: gli art. 111*e* e 111*f* sono stati abrogati. L’art. 111*g* ha un nuovo testo.
-[^19-4]: Nuovo testo giusta l’all. 2 cifra II n. 8 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
-[^19-5]: [RS 235.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5994)
-[^19-6]: Nuovo testo giusta l’all. 2 cifra II n. 8 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^19-3]: Nuovo testo giusta la cifra I dell’O del 20 mag. 2026, in vigore dal 12 giu. 2026 ([RU 2026 268](https://fedlex.data.admin.ch/eli/oc/2026/268)).
+[^19-4]: [RS 235.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5994)
+[^19-5]: Nuovo testo giusta l’all. 2 cifra II n. 8 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 ## Sezione 7: Statistiche e controlli
 
@@ -653,16 +656,18 @@ La SEM distrugge i dati personali non degni di archiviazione contenuti nel SIMIC
 
 <sup>2</sup> La SEM trasmette alle autorità della Confederazione, dei Cantoni e dei Comuni le statistiche necessarie per l’adempimento dei loro compiti secondo la LStrI[^20-1], la LAsi[^20-2], la LCit[^20-3], l’Accordo sulla libera circolazione delle persone[^20-4] e la Convenzione AELS[^20-5], nonché gli Accordi di associazione alla normativa di Schengen[^20-6] e di Dublino[^20-7].[^20-8]
 
+<sup>2bis</sup> Conformemente all’allegato XII parte A del regolamento (UE) 2016/399[^20-9], compila statistiche sulla procedura di allontanamento secondo l’articolo 64*c*<sup>bis</sup> LStrI e le rende note su base annuale alla Commissione europea.[^20-10]
+
 <sup>3</sup> Pubblica le statistiche più importanti.
 
 <sup>4</sup> Su richiesta, può mettere a disposizione di autorità nonché di persone od organizzazioni private i dati statistici complementari di cui necessitano. Può procedere a rilevazioni statistiche speciali in loro favore.
 
 <sup>5</sup>
 
-Collabora alla stesura della rilevazione federale annuale per la statistica della popolazione e delle economie domestiche, la statistica sulla migrazione e la statistica delle persone occupate. La SEM fornisce all’Ufficio federale di statistica per l’adempimento dei suoi compiti conformemente all’ordinanza del 30 aprile 2025[^20-9] sulla statistica federale:[^20-10]
+Collabora alla stesura della rilevazione federale annuale per la statistica della popolazione e delle economie domestiche, la statistica sulla migrazione e la statistica delle persone occupate. La SEM fornisce all’Ufficio federale di statistica per l’adempimento dei suoi compiti conformemente all’ordinanza del 30 aprile 2025[^20-11] sulla statistica federale:[^20-12]
 
 - a. a scadenze regolari, dati singoli su effettivi e movimento degli stranieri registrati nel SIMIC;
-- b. i dati relativi ai richiedenti l’asilo, alle persone ammesse provvisoriamente e ai rifugiati, necessari per la stesura della statistica dell’aiuto sociale.[^20-11]
+- b. i dati relativi ai richiedenti l’asilo, alle persone ammesse provvisoriamente e ai rifugiati, necessari per la stesura della statistica dell’aiuto sociale.[^20-13]
 
 <sup>6</sup> Può autorizzare i servizi con diritto d’accesso al SIMIC ad allestire statistiche in base ai loro propri dati.
 
@@ -674,9 +679,11 @@ Collabora alla stesura della rilevazione federale annuale per la statistica dell
 [^20-6]: Tali Acc. sono menzionati nell’all. 4 n. 1.
 [^20-7]: Tali Acc. sono menzionati nell’all. 4 n. 2.
 [^20-8]: Nuovo testo giusta la cifra I n. 1 dell’O del 22 ott. 2008 (Schengen/Dublino), in vigore dal 12 dic. 2008 ([RU 2008 5421](https://fedlex.data.admin.ch/eli/oc/2008/757)).
-[^20-9]: [RS 431.011](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6947)
-[^20-10]: Nuovo testo giusta l’all. 3 n. 1 dell’O del 30 apr. 2025 sulla statistica federale, in vigore dal 1° giu. 2025 ([RU 2025 318](https://fedlex.data.admin.ch/eli/oc/2025/318)).
-[^20-11]: Nuovo testo giusta la cifra I dell’O del 16 nov. 2011, in vigore dal 1° dic. 2011 ([RU 2011 5197](https://fedlex.data.admin.ch/eli/oc/2011/750)).
+[^20-9]: Regolamento (UE) 2016/399 del Parlamento europeo e del Consiglio, del 9 marzo 2016, che istituisce un codice unionale relativo al regime di attraversamento delle frontiere da parte delle persone (codice frontiere Schengen), versione della GU L 77 del 23.3.2016, pag. 1; modificato da ultimo dal regolamento (UE) 2024/1717, GU L, 2024/1717, 20.6.2024.
+[^20-10]: Introdotto dalla cifra I dell’O del 6 mag. 2026, in vigore dal 12 giu. 2026 ([RU 2026 242](https://fedlex.data.admin.ch/eli/oc/2026/242)).
+[^20-11]: [RS 431.011](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6947)
+[^20-12]: Nuovo testo giusta l’all. 3 n. 1 dell’O del 30 apr. 2025 sulla statistica federale, in vigore dal 1° giu. 2025 ([RU 2025 318](https://fedlex.data.admin.ch/eli/oc/2025/318)).
+[^20-13]: Nuovo testo giusta la cifra I dell’O del 16 nov. 2011, in vigore dal 1° dic. 2011 ([RU 2011 5197](https://fedlex.data.admin.ch/eli/oc/2011/750)).
 
 #### Art. 21
 
@@ -770,18 +777,18 @@ Allegato 1[^t-1]
 
 ## Livello d’accesso e autorizzazione a trattare i dati
 
-[^t-1]: Nuovo testo giusta la cifra II dell’O del 14 mag. 2025, in vigore dal 15 giu. 2025 ([RU 2025 344](https://fedlex.data.admin.ch/eli/oc/2025/344)).
+[^t-1]: Nuovo testo giusta la cifra II dell’O del 20 mag. 2026, in vigore dal 12 giu. 2026 ([RU 2026 268](https://fedlex.data.admin.ch/eli/oc/2026/268)).
 
 ### Legenda
 
-**Livello d’accesso**
+Livello d’accesso
 
 - A Consultazione in rete
 - B Trattamento
-- W Comunicazione via piattaforma informatica nel singolo caso
+- W Comunicazione via piattaforma TIC nel singolo caso
 - Vuoto Nessun accesso
 
-**Unità organizzative**
+Unità organizzative
 
 - ACEP Autorità cantonale di esecuzione delle pene
 - AEG Autorità incaricata dell’esecuzione dell’espulsione giudiziaria
@@ -793,7 +800,7 @@ Allegato 1[^t-1]
 - Cit. Autorità cantonali preposte alla cittadinanza
 - COM Commissioni tripartite secondo l’articolo 7 capoverso 1 lettera b della legge dell’8 ottobre 1999[^annex1-lvlu1-lvlu1-1] sui lavoratori distaccati
 - CP Comandi cantonali e comunali di polizia
-- DFAE Dipartimento federale degli affari esteri, Segreteria di Stato, Direzione politica e Direzione consolare
+- DFAE Dipartimento federale degli affari esteri: Segreteria di Stato, Direzione politica e Direzione consolare
 - fedpol Ufficio federale di polizia
 - – I Divisione Diritto e misure
 - – II Polizia giudiziaria federale (PGF)
@@ -828,7 +835,7 @@ Allegato 1[^t-1]
 
 <table>
 <tr><th>Denominazione dei campi di dati</th><th colspan="5">SEM</th><th colspan="29">Partner SEM</th></tr>
-<tr><th></th><th></th><th></th><th></th><th></th><th></th><th>MIGRA</th><th>UCL</th><th>OCF</th><th>CP</th><th>ASC</th><th>fedpol</th><th></th><th></th><th></th><th>SIC</th><th>TAF</th><th></th><th>UCC</th><th>RSE</th><th>DFAE</th><th>UFG</th><th></th><th>COM</th><th>Cit.</th><th>CDF</th><th>SCAR</th><th>AFCt</th><th>CdA</th><th>AFC</th><th>UDSC</th><th>UFAS</th><th>AEG</th><th>ACEP</th><th>MPC</th></tr>
+<tr><th></th><th colspan="5"></th><th>MIGRA</th><th>UCL</th><th>OCF</th><th>CP</th><th>ASC</th><th colspan="4">fedpol</th><th>SIC</th><th colspan="2">TAF</th><th>UCC</th><th>RSE</th><th>DFAE</th><th colspan="2">UFG</th><th>COM</th><th>Cit.</th><th>CDF</th><th>SCAR</th><th>AFCt</th><th>CdA</th><th>AFC</th><th>UDSC</th><th>UFAS</th><th>AEG</th><th>ACEP</th><th>MPC</th></tr>
 <tr><th></th><th>I</th><th>II</th><th>III</th><th>IV</th><th>V</th><th></th><th></th><th></th><th></th><th></th><th>I</th><th>II</th><th>III</th><th>IV</th><th></th><th>I</th><th>II</th><th></th><th></th><th></th><th>I</th><th>II</th><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th></tr>
 <tr><td colspan="35">I. Dati di base</td></tr>
 <tr><td colspan="35">1. Identità</td></tr>
@@ -885,13 +892,13 @@ Allegato 1[^t-1]
 <tr><td>Data della decisione preliminare</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td colspan="35">V. Rilascio di documenti di viaggio svizzeri e di permessi di ritorno per stranieri (eISR)</td></tr>
 <tr><td>Tipo di documento di viaggio</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td>B</td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-<tr><td>Dimensioni</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td>B</td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Dimensioni</td><td>B</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td>Data di rilascio</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td>B</td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-<tr><td>Durata di validità</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td>B</td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Durata di validità</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td>B</td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td>Codice Paese</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td>B</td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-<tr><td>Numero del documento di viaggio</td><td>B</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Numero del documento di viaggio</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td>B</td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td>Autorità di rilascio</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td>B</td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-<tr><td>Rappresentante legale dello straniero minorenne o interdetto</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td>B</td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Rappresentante legale dello straniero minorenne o interdetto</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td>B</td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td>Informazioni inserite su richiesta della persona</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td>B</td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td>Durata del viaggio</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td>B</td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td>Statuto di soggiorno</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td>B</td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
@@ -902,9 +909,9 @@ Allegato 1[^t-1]
 <tr><td>Ritiro</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td>B</td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td>Data del deposito della domanda</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td>B</td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td>Data della decisione</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td>B</td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-<tr><td>Altre indicazioni relative alla domanda</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td>B</td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Altre indicazioni relative alla domanda</td><td>B</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td>Altre indicazioni relative al documento di viaggio</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td>B</td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-<tr><td>Firma del rappresentante legale dello straniero minorenne o interdetto</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td>B</td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Firma del rappresentante legale dello straniero minorenne o interdetto</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td>B</td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td colspan="35">VI. Fascicoli cartacei</td></tr>
 <tr><td colspan="35">1. Ubicazione dei fascicoli</td></tr>
 <tr><td>Ubicazione</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>A</td><td></td><td></td><td></td><td></td><td>B</td><td></td><td>B</td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td>A</td><td></td><td></td><td></td><td></td><td></td></tr>
@@ -940,16 +947,16 @@ Allegato 1[^t-1]
 <tr><td>Luogo di nascita</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td></td><td></td><td>A</td><td>W</td><td>A</td><td>A</td><td>A</td><td>B</td><td>A</td><td></td></tr>
 <tr><td>Nascita in Svizzera (sì/no)</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td></td><td></td><td>A</td><td>W</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td></tr>
 <tr><td>Data del decesso</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>B</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td></td></tr>
-<tr><td>Coniuge svizzero (sì/no)</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A</td><td></td><td>A</td><td></td><td>A</td><td>A</td><td>W</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td></tr>
+<tr><td>Coniuge svizzero (sì/no)</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td></td><td></td><td>A</td><td></td><td>A</td><td>A</td><td>W</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td></tr>
 <tr><td>Il partner registrato è svizzero (sì/no)</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td></td><td></td><td>A</td><td></td><td></td><td>A</td><td></td><td>A</td><td>A</td><td>W</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td></tr>
-<tr><td>Libretto per stranieri dei genitori</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td>A</td><td></td><td>A</td><td></td><td></td><td></td><td></td><td></td><td>A</td><td></td><td></td><td>A</td><td></td><td></td><td></td><td></td><td>A</td><td></td><td></td></tr>
-<tr><td>Genitore svizzero (sì/no)</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td></td><td></td><td>A</td><td>A</td><td></td><td>A</td><td></td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td></td></tr>
+<tr><td>Libretto per stranieri dei genitori</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>B</td><td>B</td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td></td><td>A</td><td></td><td></td><td></td><td></td><td></td><td>A</td><td></td><td></td><td>A</td><td></td><td></td><td></td><td></td><td>A</td><td></td><td></td></tr>
+<tr><td>Genitore svizzero (sì/no)</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td></td><td></td><td>A</td><td></td><td></td><td>A</td><td></td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td></td></tr>
 <tr><td>Cognomi, nomi dei genitori</td><td>B</td><td>B</td><td>B</td><td>B</td><td>A</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td></td><td>A</td><td></td><td>A</td><td>A</td><td>W</td><td></td><td></td><td>A</td><td>B</td><td>A</td><td></td></tr>
 <tr><td>Cognomi, nomi, data di nascita dei figli</td><td>B</td><td>A</td><td></td><td>A</td><td>A</td><td>B</td><td>B</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td></td><td>A</td><td></td><td>A</td><td>A</td><td>W</td><td></td><td></td><td>A</td><td></td><td>A</td><td></td></tr>
 <tr><td>Famiglia o gruppo (codice)</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>B</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td></td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>A</td><td>W</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td>Numero di famiglia o di gruppo</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>B</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td></td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-<tr><td>Numero di controllo del processo (PCN)</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td></td></tr>
-<tr><td>Luogo, data e ora del rilevamento delle impronte digitali</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>B</td><td></td><td>A</td><td>B</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>A</td><td></td><td></td></tr>
+<tr><td>Numero di controllo del processo (PCN)</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>B</td><td></td><td>A</td><td>B</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>B</td><td></td><td></td></tr>
+<tr><td>Luogo, data e ora del rilevamento dei dati biometrici</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>B</td><td></td><td>A</td><td>B</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>A</td><td></td><td></td></tr>
 <tr><td colspan="35">b. Indirizzi</td></tr>
 <tr><td>Indirizzo all’estero</td><td>B</td><td>B</td><td>B</td><td>B</td><td>A</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td></td><td></td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td></tr>
 <tr><td>Indirizzo in Svizzera</td><td>B</td><td>B</td><td>B</td><td>B</td><td>A</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A</td><td></td><td>A</td><td></td><td>A</td><td>A</td><td>W</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td></tr>
@@ -963,6 +970,7 @@ Allegato 1[^t-1]
 <tr><td>Autorità di rilascio, luogo e Paese</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td></td><td>B</td><td>A</td><td></td></tr>
 <tr><td>Data del rilascio e durata di validità</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td></td><td>B</td><td>A</td><td></td></tr>
 <tr><td>Numero</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td></td><td>B</td><td>A</td><td></td></tr>
+<tr><td>Immagine scansionata della pagina dei dati anagrafici del documento di viaggio o del documento d’identità</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td></td><td>B</td><td>A</td><td></td></tr>
 <tr><td colspan="35">d. Entrata</td></tr>
 <tr><td>Paese limitrofo</td><td>B</td><td>A</td><td></td><td>A</td><td>A</td><td>B</td><td>B</td><td>A</td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td></td></tr>
 <tr><td>Rappresentanza all’estero responsabile</td><td>B</td><td>B</td><td>A</td><td>B</td><td>A</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td>A</td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td></td></tr>
@@ -971,17 +979,17 @@ Allegato 1[^t-1]
 <tr><td>Numero di familiari partecipanti al viaggio</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>B</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td></td><td>A</td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td>Professione</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td>A</td><td></td><td>A</td><td>A</td><td></td><td></td><td>A</td><td></td></tr>
 <tr><td>Condizioni d’entrata</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td></td><td>A</td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td>A</td><td></td><td>A</td><td>A</td><td></td><td></td><td>A</td><td></td></tr>
-<tr><td>Durata del soggiorno richiesta</td><td>B</td><td>A</td><td></td><td>A</td><td>A</td><td>B</td><td>B</td><td>A</td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td></td></tr>
+<tr><td>Durata del soggiorno richiesta</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>B</td><td></td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td></td></tr>
 <tr><td colspan="35">e. Misure coercitive</td></tr>
-<tr><td>Tipo di carcerazione</td><td>B</td><td>B</td><td></td><td></td><td></td><td>B</td><td></td><td>A</td><td>B</td><td></td><td>A</td><td></td><td></td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-<tr><td>Inizio della carcerazione</td><td>B</td><td>B</td><td></td><td></td><td></td><td>B</td><td></td><td>A</td><td>B</td><td></td><td>A</td><td></td><td></td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-<tr><td>Fine della carcerazione</td><td>B</td><td>B</td><td></td><td></td><td></td><td>B</td><td></td><td>A</td><td>B</td><td></td><td>A</td><td></td><td></td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-<tr><td>Giorni di carcerazione</td><td>B</td><td>B</td><td></td><td></td><td></td><td>B</td><td></td><td>A</td><td>B</td><td></td><td>A</td><td></td><td></td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-<tr><td>Rimpatrio (sì/no)</td><td>B</td><td>B</td><td></td><td></td><td></td><td>B</td><td></td><td>A</td><td>B</td><td></td><td>A</td><td></td><td></td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Tipo di carcerazione</td><td>B</td><td>B</td><td></td><td></td><td></td><td>B</td><td></td><td>A</td><td>B</td><td></td><td>A</td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td></td></tr>
+<tr><td>Inizio della carcerazione</td><td>B</td><td>B</td><td></td><td></td><td></td><td>B</td><td></td><td>A</td><td>B</td><td></td><td>A</td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Fine della carcerazione</td><td>B</td><td>B</td><td></td><td></td><td></td><td>B</td><td></td><td>A</td><td>B</td><td></td><td>A</td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Giorni di carcerazione</td><td>B</td><td>B</td><td></td><td></td><td></td><td>B</td><td></td><td>A</td><td>B</td><td></td><td>A</td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td></td></tr>
+<tr><td>Rimpatrio (sì/no)</td><td>B</td><td>B</td><td></td><td></td><td></td><td>B</td><td></td><td>A</td><td>B</td><td></td><td>A</td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td>Rappresentazione legale per i minori (sì/no)</td><td>B</td><td>B</td><td></td><td></td><td></td><td>B</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td>Misure a protezione del minore (sì/no)</td><td>B</td><td>B</td><td></td><td></td><td></td><td>B</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-<tr><td>Luogo di carcerazione</td><td>B</td><td>B</td><td></td><td></td><td></td><td>B</td><td></td><td>A</td><td>B</td><td></td><td>A</td><td></td><td></td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-<tr><td>Durata della carcerazione</td><td>B</td><td>B</td><td></td><td></td><td></td><td>B</td><td></td><td>A</td><td>B</td><td></td><td>A</td><td></td><td></td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Luogo di carcerazione</td><td>B</td><td>B</td><td></td><td></td><td></td><td>B</td><td></td><td>A</td><td>B</td><td></td><td>A</td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Durata della carcerazione</td><td>B</td><td>B</td><td></td><td></td><td></td><td>B</td><td></td><td>A</td><td>B</td><td></td><td>A</td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td colspan="35">f. Soggiorno e partenza</td></tr>
 <tr><td>Numero del permesso</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>W</td><td>A</td><td>A</td><td></td><td></td><td></td><td></td></tr>
 <tr><td>Statuto</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td></td></tr>
@@ -1124,13 +1132,13 @@ Allegato 1[^t-1]
 <tr><td>Motivi del respingimento (codice)</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>B</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td></td></tr>
 <tr><td>Data/ora della consegna alla polizia</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>B</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td></td></tr>
 <tr><td colspan="35">n. Osservazioni strutturate</td></tr>
-<tr><td>Codici d’osservazione</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>B</td><td>B</td><td></td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-<tr><td>Codici d’osservazione validi dal e fino al</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>B</td><td>B</td><td></td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td></td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-<tr><td>Collaboratore specialista</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>B</td><td>B</td><td></td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-<tr><td>Utente</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>B</td><td>B</td><td></td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td></td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-<tr><td>Data della mutazione</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>B</td><td>B</td><td></td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td></td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Codici d’osservazione</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>A</td><td></td><td></td></tr>
+<tr><td>Codici d’osservazione validi dal e fino al</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td></td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>A</td><td></td><td></td></tr>
+<tr><td>Collaboratore specialista</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>A</td><td></td><td></td></tr>
+<tr><td>Utente</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td></td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>A</td><td></td><td></td></tr>
+<tr><td>Data della mutazione</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td></td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>A</td><td></td><td></td></tr>
 <tr><td colspan="35">o. Ricerca del luogo di soggiorno</td></tr>
-<tr><td>Richiedente (cognomi/indirizzo: soltanto per conteggio finale tasse)</td><td>B</td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Richiedente (cognomi/indirizzo: soltanto per conteggio finale tasse)</td><td>B</td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td colspan="35">p. Tasse</td></tr>
 <tr><td>Tasse delle autorità degli stranieri</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td>Tasse delle autorità cantonali del lavoro</td><td>B</td><td>B</td><td></td><td>A</td><td>A</td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
@@ -1161,11 +1169,12 @@ Allegato 1[^t-1]
 <tr><td>Formazione</td><td>B</td><td>B</td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td>Attività lucrativa svolta finora</td><td>B</td><td>B</td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td colspan="35">b. Documenti di viaggio o d’identità</td></tr>
-<tr><td>Classificazione (originale, copia, ecc.)</td><td>B</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Classificazione (originale, copia, ecc.)</td><td>B</td><td>B</td><td>B</td><td>B</td><td>A</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td></td></tr>
 <tr><td>Tipo di documento di legittimazione</td><td>B</td><td>B</td><td>B</td><td>B</td><td>A</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td></td></tr>
 <tr><td>Autorità di rilascio, luogo e Paese</td><td>B</td><td>B</td><td>B</td><td>B</td><td>A</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td></td></tr>
 <tr><td>Data di rilascio e durata di validità</td><td>B</td><td>B</td><td>B</td><td>B</td><td>A</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td></td></tr>
 <tr><td>Numero</td><td>B</td><td>B</td><td>B</td><td>B</td><td>A</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Immagine scansionata della pagina dei dati anagrafici del documento di viaggio o del documento d’identità</td><td>B</td><td>B</td><td>B</td><td>B</td><td>A</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td></td></tr>
 <tr><td colspan="35">c. Procedura</td></tr>
 <tr><td colspan="35">In generale</td></tr>
 <tr><td>Caso medico</td><td>B</td><td>A</td><td>B</td><td>B</td><td></td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
@@ -1182,9 +1191,9 @@ Allegato 1[^t-1]
 <tr><td>Codice d’osservazione</td><td>B</td><td>A</td><td>B</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td></td><td></td><td>A</td><td></td><td>A</td><td></td><td></td><td></td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td>Data di deposito e di evasione del ricorso</td><td>B</td><td>A</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td>A</td><td></td></tr>
 <tr><td>Collaboratore specialista competente</td><td>A</td><td>A</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-<tr><td colspan="35">Rilevamento delle impronte digitali</td></tr>
-<tr><td>Numero di controllo del processo (NCP)</td><td>B</td><td>A</td><td>B</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-<tr><td>Luogo, data e ora del rilevamento</td><td>B</td><td>A</td><td>B</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td colspan="35">Dati biometrici</td></tr>
+<tr><td>Numero di controllo del processo (NCP)</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Luogo, data e ora di rilevamento dei dati biometrici</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td colspan="35">Attribuzione e ripartizione</td></tr>
 <tr><td>Data di disbrigo della decisione d’attribuzione</td><td>B</td><td>A</td><td>B</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td>A</td><td></td></tr>
 <tr><td>Motivo della mutazione</td><td>B</td><td>A</td><td>B</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
@@ -1301,7 +1310,7 @@ Allegato 4[^t-3]
 
 ## Accordi d’associazione a Schengen e Dublino
 
-[^t-3]: Introdotto dalla cifra I n. 1 dell’O del 22 ott. 2008 (Schengen/Dublino) ([RU 2008 5421](https://fedlex.data.admin.ch/eli/oc/2008/757)). Nuovo testo giusta la cifra I dell’O del 18 set. 2015, in vigore dal 15 ott. 2015 ([RU 2015 3731](https://fedlex.data.admin.ch/eli/oc/2015/628)).
+[^t-3]: Introdotto dalla cifra I n. 1 dell’O del 22 ott. 2008 (Schengen/Dublino) ([RU 2008 5421](https://fedlex.data.admin.ch/eli/oc/2008/757)). Nuovo testo giusta la cifra II dell’O del 20 mag. 2026, in vigore dal 12 giu. 2026 ([RU 2026 268](https://fedlex.data.admin.ch/eli/oc/2026/268)).
 
 ### 1. Accordi d’associazione a Schengen
 
@@ -1328,9 +1337,11 @@ Gli accordi d’associazione a Dublino comprendono gli accordi seguenti:
 - a. Accordo del 26 ottobre 2004[^annex4-lvlu1-lvl2-1] tra la Confederazione Svizzera e la Comunità europea relativo ai criteri e ai meccanismi che permettono di determinare lo Stato competente per l’esame di una domanda di asilo introdotta in uno degli Stati membri o in Svizzera;
 - b. Accordo del 17 dicembre 2004[^annex4-lvlu1-lvl2-2] tra la Confederazione Svizzera, la Repubblica d’Islanda e il Regno di Norvegia sull’attuazione, l’applicazione e lo sviluppo dell’acquis di Schengen nonché sui criteri e i meccanismi per determinare lo Stato competente per l’esame di una domanda di asilo presentata in Svizzera, in Islanda o in Norvegia;
 - c. Protocollo del 28 febbraio 2008[^annex4-lvlu1-lvl2-3] tra la Confederazione Svizzera, la Comunità europea e il Principato del Liechtenstein dell’accordo tra la Confederazione Svizzera e la Comunità europea relativo ai criteri e ai meccanismi che permettono di determinare lo Stato competente per l’esame di una domanda di asilo introdotta in uno degli stati membri o in Svizzera;
-- d. Protocollo del 28 febbraio 2008[^annex4-lvlu1-lvl2-4] tra la Confederazione Svizzera, la Comunità europea e il Principato del Liechtenstein sull’adesione del Principato del Liechtenstein all’accordo tra la Confederazione Svizzera e la Comunità europea relativo ai criteri e ai meccanismi che permettono di determinare lo stato competente per l’esame di una domanda di asilo introdotta in uno degli stati membri o in Svizzera.
+- d. Protocollo del 28 febbraio 2008[^annex4-lvlu1-lvl2-4] tra la Confederazione Svizzera, la Comunità europea e il Principato del Liechtenstein sull’adesione del Principato del Liechtenstein all’accordo tra la Confederazione Svizzera e la Comunità europea relativo ai criteri e ai meccanismi che permettono di determinare lo stato competente per l’esame di una domanda di asilo introdotta in uno degli stati membri o in Svizzera;
+- e. Protocollo del 27 giugno 2019[^annex4-lvlu1-lvl2-5] tra la Confederazione Svizzera, l’Unione europea e il Principato del Liechtenstein dell’Accordo tra la Confederazione Svizzera e la Comunità europea relativo ai criteri e ai meccanismi che permettono di determinare lo Stato competente per l’esame di una domanda di asilo introdotta in uno degli Stati membri o in Svizzera riguardante l’accesso a Eurodac a fini di contrasto.
 
 [^annex4-lvlu1-lvl2-1]: [RS 0.142.392.68](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/443)
 [^annex4-lvlu1-lvl2-2]: RS **0.363.32**
 [^annex4-lvlu1-lvl2-3]: [RS 0.142.393.141](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/451)
 [^annex4-lvlu1-lvl2-4]: [RS 0.142.395.141](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/452)
+[^annex4-lvlu1-lvl2-5]: [RS 0.142.392.682](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40016)

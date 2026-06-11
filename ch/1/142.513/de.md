@@ -3,11 +3,11 @@ sr: "142.513"
 title: Verordnung vom 12. April 2006 über das Zentrale Migrationsinformationssystem (ZEMIS-Verordnung)
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/303"
 language: de
-version: 2025-06-15
+version: 2026-06-12
 adopted: 2006-04-12
 in_force: 2006-05-29
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/303/20250615/de/xml/fedlex-data-admin-ch-eli-cc-2006-303-20250615-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/303/20250615/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/303/20260612/de/xml/fedlex-data-admin-ch-eli-cc-2006-303-20260612-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/303/20260612/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2006/303/20250615/de"
 
 (ZEMIS-Verordnung)
 
-vom 12. April 2006 (Stand am 15. Juni 2025)
+vom 12. April 2006 (Stand am 12. Juni 2026)
 
 Der Schweizerische Bundesrat,
 
@@ -645,18 +645,17 @@ Das SEM vernichtet die nicht archivwürdigen Personendaten in ZEMIS nach folgend
 
 ### (Art. 6 BGIAA)
 
-<sup>1</sup> Die Rechte der Betroffenen, insbesondere das Auskunfts-, das Berichtigungs- und das Vernichtungsrecht sowie das Recht auf Information über die Beschaffung von Personendaten, richten sich nach den Bestimmungen des Datenschutzgesetzes vom 25. September 2020[^19-1] (DSG) und des Verwaltungsverfahrensgesetzes vom 20. Dezember 1968[^19-2] sowie nach den Artikeln 111*e–*111*g* AIG[^19-3].[^19-4]
+<sup>1</sup> Die Rechte der Betroffenen, insbesondere das Auskunfts-, das Berichtigungs- und das Vernichtungsrecht sowie das Recht auf Information über die Beschaffung von Personendaten, richten sich nach den Bestimmungen des Datenschutzgesetzes vom 25. September 2020[^19-1] (DSG) und des Verwaltungsverfahrensgesetzes vom 20. Dezember 1968[^19-2].[^19-3]
 
-<sup>2</sup> Will eine betroffene Person Rechte geltend machen, so muss sie in der Form nach Artikel 16 DSV[^19-5] ein Gesuch beim SEM einreichen.[^19-6]
+<sup>2</sup> Will eine betroffene Person Rechte geltend machen, so muss sie in der Form nach Artikel 16 DSV[^19-4] ein Gesuch beim SEM einreichen.[^19-5]
 
 <sup>3</sup> Unrichtige Daten sind von Amtes wegen zu berichtigen.
 
 [^19-1]: [SR 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 [^19-2]: [SR 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
-[^19-3]: [SR 142.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4851). Dieser Verweis ist heute gegenstandslos: Art. 111*e* und 111*f* sind aufgehoben. Art. 111*g* hat eine neue Fassung.
-[^19-4]: Fassung gemäss Anhang 2 Ziff. II 8 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
-[^19-5]: [SR 235.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5994)
-[^19-6]: Fassung gemäss Anhang 2 Ziff. II 8 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^19-3]: Fassung gemäss Ziff. I der V vom 20. Mai 2026, in Kraft seit 12. Juni 2026 ([AS 2026 268](https://fedlex.data.admin.ch/eli/oc/2026/268)).
+[^19-4]: [SR 235.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5994)
+[^19-5]: Fassung gemäss Anhang 2 Ziff. II 8 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 ## 7. Abschnitt: Statistiken und Kontrollen
 
@@ -668,14 +667,18 @@ Das SEM vernichtet die nicht archivwürdigen Personendaten in ZEMIS nach folgend
 
 <sup>2</sup> Es gibt den Behörden des Bundes, der Kantone und der Gemeinden die Statistiken ab, die sie für die Erfüllung ihrer Aufgaben nach dem AIG[^20-1], AsylG[^20-2], BüG[^20-3], Freizügigkeitsabkommen[^20-4] und EFTA-Übereinkommen[^20-5] sowie nach den Schengen-Assoziierungsabkommen[^20-6] und den Dublin-Assoziierungsabkommen[^20-7] benötigen.[^20-8]
 
+<sup>2bis</sup> Es erstellt nach Anhang XII Teil A der Verordnung (EU) 2016/399[^20-9] Statistiken zum Wegweisungsverfahren nach Artikel 64*c*<sup>bis</sup> AIG und gibt diese der Europäischen Kommission jährlich bekannt.[^20-10]
+
 <sup>3</sup> Es veröffentlicht die wichtigsten Statistiken.
 
 <sup>4</sup> Es kann Behörden sowie privaten Personen und Organisationen auf Anfrage für ihre Bedürfnisse ergänzende Statistiken zur Verfügung stellen. Es kann für sie besondere statistische Auswertungen vornehmen.
 
-<sup>5</sup> Es wirkt bei der jährlichen eidgenössischen Erhebung für die Statistik der Bevölkerung und der Haushalte, bei der Migrationsstatistik und bei der Erwerbstätigenstatistik mit. Es liefert dem Bundesamt für Statistik zur Erfüllung seiner Aufgaben nach der Bundesstatistikverordnung vom 30. April 2025[^20-9].[^20-10]
+<sup>5</sup>
+
+Es wirkt bei der jährlichen eidgenössischen Erhebung für die Statistik der Bevölkerung und der Haushalte, bei der Migrationsstatistik und bei der Erwerbstätigenstatistik mit. Es liefert dem Bundesamt für Statistik zur Erfüllung seiner Aufgaben nach der Bundesstatistikverordnung vom 30. April 2025[^20-11]:[^20-12]
 
 - a. regelmässig Einzeldaten über Bestand und Bewegungen der in ZEMIS aufgeführten Ausländerinnen und Ausländer;
-- b. die für die Erstellung der Sozialhilfestatistik notwendigen Daten über Asylsuchende, vorläufig Aufgenommene und Flüchtlinge.[^20-11]
+- b. die für die Erstellung der Sozialhilfestatistik notwendigen Daten über Asylsuchende, vorläufig Aufgenommene und Flüchtlinge.[^20-13]
 
 <sup>6</sup> Es kann den auf ZEMIS zugriffsberechtigten Stellen bewilligen, aufgrund ihrer eigenen Daten selbst Statistiken zu erstellen.
 
@@ -687,9 +690,11 @@ Das SEM vernichtet die nicht archivwürdigen Personendaten in ZEMIS nach folgend
 [^20-6]: Diese Abk. sind in Anhang 4 Ziff. 1 aufgeführt.
 [^20-7]: Diese Abk. sind in Anhang 4 Ziff. 2 aufgeführt.
 [^20-8]: Fassung gemäss Ziff. I 1 der V vom 22. Okt. 2008 (Schengen und Dublin), in Kraft seit 12. Dez. 2008 ([AS 2008 5421](https://fedlex.data.admin.ch/eli/oc/2008/757)).
-[^20-9]: [SR 431.011](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6947)
-[^20-10]: Fassung gemäss Anhang 3 Ziff. 1 der Bundesstatistikverordnung vom 30. April 2025, in Kraft seit 1. Juni 2025 ([AS 2025 318](https://fedlex.data.admin.ch/eli/oc/2025/318)).
-[^20-11]: Fassung gemäss Ziff. I der V vom 16. Nov. 2011, in Kraft seit 1. Dez. 2011 ([AS 2011 5197](https://fedlex.data.admin.ch/eli/oc/2011/750)).
+[^20-9]: Verordnung (EU) 2016/399 des Europäischen Parlaments und des Rates vom 9. März 2016 über einen Gemeinschaftskodex für das Überschreiten der Grenzen durch Personen (Schengener Grenzkodex), ABl. L 77 vom 23.3.2016, S. 1; zuletzt geändert durch Verordnung (EU) 2024/1717, ABl. L, 2024/1717, 20.6.2024.
+[^20-10]: Eingefügt durch Ziff. I der V vom 6. Mai 2026, in Kraft seit 12. Juni 2026 ([AS 2026 242](https://fedlex.data.admin.ch/eli/oc/2026/242)).
+[^20-11]: [SR 431.011](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6947)
+[^20-12]: Fassung gemäss Anhang 3 Ziff. 1 der Bundesstatistikverordnung vom 30. April 2025, in Kraft seit 1. Juni 2025 ([AS 2025 318](https://fedlex.data.admin.ch/eli/oc/2025/318)).
+[^20-13]: Fassung gemäss Ziff. I der V vom 16. Nov. 2011, in Kraft seit 1. Dez. 2011 ([AS 2011 5197](https://fedlex.data.admin.ch/eli/oc/2011/750)).
 
 #### Art. 21
 
@@ -783,18 +788,18 @@ Anhang 1[^t-1]
 
 ## Zugriffsstufen und Berechtigungen zur Bearbeitung der Daten
 
-[^t-1]: Fassung gemäss Ziff. II der V vom 14. Mai 2025, in Kraft seit 15. Juni 2025 ([AS 2025 344](https://fedlex.data.admin.ch/eli/oc/2025/344)).
+[^t-1]: Fassung gemäss Ziff. II der V vom 20. Mai 2026, in Kraft seit 12. Juni 2026 ([AS 2026 268](https://fedlex.data.admin.ch/eli/oc/2026/268)).
 
 ### Zeichenerklärung
 
-**Zugriffsstufen**
+Zugriffsstufen
 
 - A Online-Abfrage
 - B Bearbeiten
-- W Weitergabe über eine Informatikplattform im Einzelfall
+- W Weitergabe über eine IKT-Plattform im Einzelfall
 - Leer Kein Zugriff
 
-**Organisationseinheiten**
+Organisationseinheiten
 
 - AV Auslandvertretungen und Missionen
 - BA Bundesanwaltschaft: Dienst Urteilsvollzug
@@ -841,7 +846,7 @@ Anhang 1[^t-1]
 
 <table>
 <tr><th>ZEMIS-Datenfelder</th><th colspan="5">SEM</th><th colspan="29">Partner des SEM</th></tr>
-<tr><th></th><th></th><th></th><th></th><th></th><th></th><th>MIGRA</th><th>KAA</th><th>GREPO</th><th>KAPO</th><th>ZstB</th><th>fedpol</th><th></th><th></th><th></th><th>NDB</th><th>BVGer</th><th></th><th>ZAS</th><th>AV</th><th>EDA</th><th>BJ</th><th></th><th>KOM</th><th>BüG</th><th>EFK</th><th>SOZ</th><th>KSt</th><th>EWK</th><th>ESTV</th><th>BAZG</th><th>BSV</th><th>LV</th><th>KJV</th><th>BA</th></tr>
+<tr><th></th><th colspan="5"></th><th>MIGRA</th><th>KAA</th><th>GREPO</th><th>KAPO</th><th>ZstB</th><th colspan="4">fedpol</th><th>NDB</th><th colspan="2">BVGer</th><th>ZAS</th><th>AV</th><th>EDA</th><th colspan="2">BJ</th><th>KOM</th><th>BüG</th><th>EFK</th><th>SOZ</th><th>KSt</th><th>EWK</th><th>ESTV</th><th>BAZG</th><th>BSV</th><th>LV</th><th>KJV</th><th>BA</th></tr>
 <tr><th></th><th>I</th><th>II</th><th>III</th><th>IV</th><th>V</th><th></th><th></th><th></th><th></th><th></th><th>I</th><th>II</th><th>III</th><th>IV</th><th></th><th>I</th><th>II</th><th></th><th></th><th></th><th>I</th><th>II</th><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th></tr>
 <tr><td colspan="35">I. Stammdaten</td></tr>
 <tr><td colspan="35">1. Personalien</td></tr>
@@ -876,7 +881,7 @@ Anhang 1[^t-1]
 <tr><td>Bezeichnung des Dokuments</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td></td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td>Datum des Dokuments</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td></td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td>Zuständige/-r Sachbearbeiter/-in</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td></td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-<tr><td>Herkunft (Datum / Art)</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td></td><td></td><td>A</td><td></td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Herkunft (Datum/Art)</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td></td><td></td><td>A</td><td></td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td>Annullierungsdatum</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td></td><td></td><td>A</td><td></td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td colspan="35">III. Elektronische ausländerrechtliche Bewilligung (eARB)</td></tr>
 <tr><td>ID des Geschäfts</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>B</td><td>B</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
@@ -962,7 +967,7 @@ Anhang 1[^t-1]
 <tr><td>Familie oder Gruppe (Code)</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>B</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td></td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>A</td><td>W</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td>Familien- oder Gruppennummer</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>B</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td></td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td>Prozesskontrollnummer (PCN)</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>B</td><td></td><td>A</td><td>B</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>B</td><td></td><td></td></tr>
-<tr><td>Ort, Datum und Uhrzeit der Fingerabdruckabnahme</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>B</td><td></td><td>A</td><td>B</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>A</td><td></td><td></td></tr>
+<tr><td>Ort, Datum und Uhrzeit der biometrischen Abnahme</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>B</td><td></td><td>A</td><td>B</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>A</td><td></td><td></td></tr>
 <tr><td colspan="35">b. Adressen</td></tr>
 <tr><td>Auslandadresse</td><td>B</td><td>B</td><td>B</td><td>B</td><td>A</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td></td><td></td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td></tr>
 <tr><td>Inlandadresse</td><td>B</td><td>B</td><td>B</td><td>B</td><td>A</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A</td><td></td><td>A</td><td></td><td>A</td><td>A</td><td>W</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td></tr>
@@ -976,6 +981,7 @@ Anhang 1[^t-1]
 <tr><td>Ausstellende Behörde, Ort und Land</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td></td><td>B</td><td>A</td><td></td></tr>
 <tr><td>Ausstellungsdatum und Gültigkeitsdauer</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td></td><td>B</td><td>A</td><td></td></tr>
 <tr><td>Nummer</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td></td><td>B</td><td>A</td><td></td></tr>
+<tr><td>Scan der Personaldatenseite des Reisedokuments oder des Identitätsdokuments</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td></td><td>B</td><td>A</td><td></td></tr>
 <tr><td colspan="35">d. Einreise</td></tr>
 <tr><td>Grenzland</td><td>B</td><td>A</td><td></td><td>A</td><td>A</td><td>B</td><td>B</td><td>A</td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td></td></tr>
 <tr><td>Zuständige Auslandvertretung</td><td>B</td><td>B</td><td>A</td><td>B</td><td>A</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td>A</td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td></td></tr>
@@ -1039,8 +1045,8 @@ Anhang 1[^t-1]
 <tr><td>Betriebsnummer ZEMIS</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td>A</td><td></td><td></td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td></td></tr>
 <tr><td>Firmenname</td><td>B</td><td>B</td><td>A</td><td>B</td><td>A</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td></td></tr>
 <tr><td>Adresse</td><td>B</td><td>B</td><td>A</td><td>B</td><td>A</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td></td></tr>
-<tr><td>Telefonnummer und E‑Mail‑Adresse</td><td>B</td><td>B</td><td>A</td><td>B</td><td>A</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td></td></tr>
-<tr><td>Zuständige Person (Telefonnummer, E‑Mail‑Adresse)</td><td>B</td><td>B</td><td>A</td><td>B</td><td>A</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td></td></tr>
+<tr><td>Telefonnummer und E‑Mail-Adresse</td><td>B</td><td>B</td><td>A</td><td>B</td><td>A</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td></td></tr>
+<tr><td>Zuständige Person (Telefonnummer, E‑Mail-Adresse)</td><td>B</td><td>B</td><td>A</td><td>B</td><td>A</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td></td></tr>
 <tr><td>Kontaktperson in der Schweiz (Unternehmen, Adresse, Telefonnummer, E‑Mail-Adresse)</td><td>B</td><td>B</td><td>A</td><td>B</td><td>A</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td></td></tr>
 <tr><td>UID</td><td>B</td><td>B</td><td>A</td><td>B</td><td>A</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td></td></tr>
 <tr><td>Benutzerkennung EasyGov</td><td>B</td><td>B</td><td>A</td><td>B</td><td>A</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td></td></tr>
@@ -1105,7 +1111,7 @@ Anhang 1[^t-1]
 <tr><td>Gefahr für öffentliche Sicherheit und Ordnung (ja/nein)</td><td>B</td><td>B</td><td>A</td><td>B</td><td>A</td><td>B</td><td></td><td>A</td><td>A</td><td></td><td>A</td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>A</td><td></td><td></td></tr>
 <tr><td>Begangene Straftaten</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td></td><td>A</td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>A</td><td></td><td></td></tr>
 <tr><td>Besondere Merkmale</td><td>B</td><td>B</td><td>A</td><td>B</td><td>A</td><td>B</td><td></td><td>A</td><td>A</td><td></td><td>A</td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>B</td><td></td><td></td></tr>
-<tr><td>Eröffnungsdatum / Inkrafttretensdatum</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>B</td><td></td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>A</td><td></td><td></td><td></td><td></td><td>A</td><td>A</td><td></td><td>B</td><td></td><td></td></tr>
+<tr><td>Eröffnungsdatum/Inkrafttretensdatum</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>B</td><td></td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>A</td><td></td><td></td><td></td><td></td><td>A</td><td>A</td><td></td><td>B</td><td></td><td></td></tr>
 <tr><td>Gültig ab und bis zum / Dauer</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>B</td><td></td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td></td><td></td><td></td><td></td><td>A</td><td>A</td><td></td><td>B</td><td></td><td></td></tr>
 <tr><td>Aufhebung</td><td>B</td><td>B</td><td>A</td><td>B</td><td>A</td><td>B</td><td></td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td></td><td></td><td></td><td></td><td>A</td><td>A</td><td></td><td>B</td><td></td><td></td></tr>
 <tr><td>Grund (Einreiseverbot)</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>B</td><td></td><td>B</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>A</td><td>A</td><td></td><td>B</td><td></td><td></td></tr>
@@ -1115,7 +1121,7 @@ Anhang 1[^t-1]
 <tr><td>Datum und Ort der Ausreise</td><td>B</td><td>B</td><td>A</td><td>B</td><td>A</td><td>B</td><td></td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>A</td><td></td><td>A</td><td>A</td><td></td><td>B</td><td></td><td></td></tr>
 <tr><td>Staat, in den die Person zurückkehrt</td><td>B</td><td>B</td><td>A</td><td>B</td><td>A</td><td>B</td><td></td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>A</td><td>A</td><td></td><td>B</td><td></td><td></td></tr>
 <tr><td>Kategorie der Ausreise</td><td>B</td><td>B</td><td>A</td><td>B</td><td>A</td><td>B</td><td></td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>A</td><td>A</td><td></td><td>B</td><td></td><td></td></tr>
-<tr><td>Suspension / Sistierung / Aufschub</td><td>B</td><td>B</td><td>A</td><td>B</td><td>A</td><td>B</td><td></td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td>A</td><td>A</td><td></td><td>B</td><td></td><td></td></tr>
+<tr><td>Suspension/Sistierung/Aufschub</td><td>B</td><td>B</td><td>A</td><td>B</td><td>A</td><td>B</td><td></td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td>A</td><td>A</td><td></td><td>B</td><td></td><td></td></tr>
 <tr><td>Bemerkung gemäss Verfügung</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>B</td><td></td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>A</td><td>A</td><td></td><td>B</td><td></td><td></td></tr>
 <tr><td>Gerichtsbehörde und Aktenzeichen des Urteils</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>B</td><td></td><td>A</td><td>A</td><td></td><td>A</td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>A</td><td>A</td><td></td><td>B</td><td></td><td></td></tr>
 <tr><td>Familienmitglied einer Bürgerin oder eines Bürgers der EU/EFTA</td><td>B</td><td>B</td><td></td><td>B</td><td></td><td>B</td><td></td><td>A</td><td>A</td><td></td><td>A</td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>A</td><td>A</td><td></td><td>B</td><td></td><td></td></tr>
@@ -1179,6 +1185,7 @@ Anhang 1[^t-1]
 <tr><td>Ausstellende Behörde, Ort und Land</td><td>B</td><td>B</td><td>B</td><td>B</td><td>A</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td></td></tr>
 <tr><td>Ausstellungsdatum und Gültigkeitsdauer</td><td>B</td><td>B</td><td>B</td><td>B</td><td>A</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td></td></tr>
 <tr><td>Nummer</td><td>B</td><td>B</td><td>B</td><td>B</td><td>A</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Scan der Personaldatenseite des Reisedokuments oder des Identitätsdokuments</td><td>B</td><td>B</td><td>B</td><td>B</td><td>A</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td></td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td></td></tr>
 <tr><td colspan="35">c. Verfahren</td></tr>
 <tr><td colspan="35">Allgemeines</td></tr>
 <tr><td>Medizinalfall</td><td>B</td><td>A</td><td>B</td><td>B</td><td></td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
@@ -1195,9 +1202,9 @@ Anhang 1[^t-1]
 <tr><td>Bemerkungscode</td><td>B</td><td>A</td><td>B</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td></td><td></td><td>A</td><td></td><td>A</td><td></td><td></td><td></td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td>Datum Beschwerdeeingang und -erledigung</td><td>B</td><td>A</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td>A</td><td></td></tr>
 <tr><td>Zuständige/-r Sachbearbeiter/-in</td><td>A</td><td>A</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-<tr><td colspan="35">Fingerabdruckabnahme</td></tr>
+<tr><td colspan="35">Biometrische Abnahme</td></tr>
 <tr><td>Prozesskontrollnummer (PCN)</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-<tr><td>Ort, Datum und Uhrzeit der Fingerabdruckabnahme</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Ort, Datum und Uhrzeit der biometrischen Abnahme</td><td>B</td><td>B</td><td>B</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td colspan="35">Zuweisung und Verteilung</td></tr>
 <tr><td>Erledigungsdatum Zuweisungsentscheid</td><td>B</td><td>A</td><td>B</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td>A</td><td></td></tr>
 <tr><td>Mutationsgrund</td><td>B</td><td>A</td><td>B</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
@@ -1237,7 +1244,7 @@ Anhang 1[^t-1]
 <tr><td>Datum Beginn und Ende des Aufenthalts</td><td>B</td><td>B</td><td></td><td>B</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td colspan="35">Analysen und Berichte</td></tr>
 <tr><td>Tonaufzeichnung</td><td>B</td><td>B</td><td></td><td>B</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-<tr><td>Expertinoder Experte</td><td>B</td><td>B</td><td></td><td>B</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Expertin oder Experte</td><td>B</td><td>B</td><td></td><td>B</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td>Gespräch durch</td><td>B</td><td>B</td><td></td><td>B</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td>Zuständige/-r Linguist/-in</td><td>B</td><td>B</td><td></td><td>B</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td>Art des Berichts</td><td>B</td><td>B</td><td></td><td>B</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
@@ -1266,19 +1273,15 @@ Anhang 2[^t-2]
 
 Zeichenerklärung
 
-- [tab]
+Bekanntgabe der Daten:
 
-  *Bekanntgabe der Daten:*
+- Bk: erlaubt
+- Leer: nicht erlaubt
 
-  - Bk: erlaubt
-  - Leer: nicht erlaubt
+Organisationseinheiten:
 
-- [tab]
-
-  *Organisationseinheiten:*
-
-  - SFH: Schweizerische Flüchtlingshilfe
-  - SAK/KAK: Schweizerische Ausgleichskasse (AHV/IV) und Kantonale Ausgleichskassen
+- SFH: Schweizerische Flüchtlingshilfe
+- SAK/KAK: Schweizerische Ausgleichskasse (AHV/IV) und Kantonale Ausgleichskassen
 
 <table>
 <tr><th></th><th>SFH</th><th>SAK/KAK</th></tr>
@@ -1318,18 +1321,18 @@ Anhang 4[^t-3]
 
 ## Schengen- und Dublin-Assoziierungsabkommen
 
-[^t-3]: Eingefügt durch Ziff. I 1 der V vom 22. Okt. 2008 (Schengen und Dublin) ([AS 2008 5421](https://fedlex.data.admin.ch/eli/oc/2008/757)). Fassung gemäss Ziff. I der V vom 18. Sept. 2015, in Kraft seit 15. Okt. 2015 ([AS 2015 3731](https://fedlex.data.admin.ch/eli/oc/2015/628)).
+[^t-3]: Eingefügt durch Ziff. I 1 der V vom 22. Okt. 2008 (Schengen und Dublin) ([AS 2008 5421](https://fedlex.data.admin.ch/eli/oc/2008/757)). Fassung gemäss Ziff. II der V vom 20. Mai 2026, in Kraft seit 12. Juni 2026 ([AS 2026 268](https://fedlex.data.admin.ch/eli/oc/2026/268)).
 
 ### 1. Schengen-Assoziierungsabkommen
 
 Die Schengen-Assoziierungsabkommen umfassen:
 
-- a. Abkommen vom 26. Oktober 2004[^annex4-lvlu1-lvl1-1] zwischen der Schweizerischen Eidgenossenschaft, der Europäischen Union und der Europäischen Gemeinschaft über die Assoziierung dieses Staates bei der Umsetzung, Anwendung und Entwicklung des Schengen-Besitzstands;
-- b. Abkommen vom 26. Oktober 2004[^annex4-lvlu1-lvl1-2] in Form eines Briefwechsels zwischen dem Rat der Europäischen Union und der Schweizerischen Eidgenossenschaft über die Ausschüsse, die die Europäische Kommission bei der Ausübung ihrer Durchführungsbefugnisse unterstützen;
-- c. Vereinbarung vom 22. September 2011[^annex4-lvlu1-lvl1-3] zwischen der Europäischen Union sowie der Republik Island, dem Fürstentum Liechtenstein, dem Königreich Norwegen und der Schweizerischen Eidgenossenschaft über die Beteiligung dieser Staaten an der Arbeit der Ausschüsse, die die Europäische Kommission bei der Ausübung ihrer Durchführungsbefugnisse in Bezug auf die Umsetzung, Anwendung und Entwicklung des Schengen-Besitzstands unterstützen;
-- d. Übereinkommen vom 17. Dezember 2004[^annex4-lvlu1-lvl1-4] zwischen der Schweizerischen Eidgenossenschaft, der Republik Island und dem Königreich Norwegen über die Umsetzung, Anwendung und Entwicklung des Schengen-Besitzstands und über die Kriterien und Verfahren zur Bestimmung des zuständigen Staates für die Prüfung eines in der Schweiz, in Island oder in Norwegen gestellten Asylantrags;
-- e. Abkommen vom 28. April 2005[^annex4-lvlu1-lvl1-5] zwischen der Schweizerischen Eidgenossenschaft und dem Königreich Dänemark über die Umsetzung, Anwendung und Entwicklung derjenigen Teile des Schengen-Besitzstands, die auf Bestimmungen des Titels IV des Vertrags zur Gründung der Europäischen Gemeinschaft basieren;
-- f. Protokoll vom 28. Februar 2008[^annex4-lvlu1-lvl1-6] zwischen der Schweizerischen Eidgenossenschaft, der Europäischen Union, der Europäischen Gemeinschaft und dem Fürstentum Liechtenstein über den Beitritt des Fürstentums Liechtenstein zu dem Abkommen zwischen der Schweizerischen Eidgenossenschaft, der Europäischen Union und der Europäischen Gemeinschaft über die Assoziierung der Schweizerischen Eidgenossenschaft bei der Umsetzung, Anwendung und Entwicklung des Schengen-Besitzstands.
+- a. das Abkommen vom 26. Oktober 2004[^annex4-lvlu1-lvl1-1] zwischen der Schweizerischen Eidgenossenschaft, der Europäischen Union und der Europäischen Gemeinschaft über die Assoziierung dieses Staates bei der Umsetzung, Anwendung und Entwicklung des Schengen-Besitzstands;
+- b. das Abkommen vom 26. Oktober 2004[^annex4-lvlu1-lvl1-2] in Form eines Briefwechsels zwischen dem Rat der Europäischen Union und der Schweizerischen Eidgenossenschaft über die Ausschüsse, die die Europäische Kommission bei der Ausübung ihrer Durchführungsbefugnisse unterstützen;
+- c. die Vereinbarung vom 22. September 2011[^annex4-lvlu1-lvl1-3] zwischen der Europäischen Union sowie der Republik Island, dem Fürstentum Liechtenstein, dem Königreich Norwegen und der Schweizerischen Eidgenossenschaft über die Beteiligung dieser Staaten an der Arbeit der Ausschüsse, die die Europäische Kommission bei der Ausübung ihrer Durchführungsbefugnisse in Bezug auf die Umsetzung, Anwendung und Entwicklung des Schengen-Besitzstands unterstützen;
+- d. das Übereinkommen vom 17. Dezember 2004[^annex4-lvlu1-lvl1-4] zwischen der Schweizerischen Eidgenossenschaft, der Republik Island und dem Königreich Norwegen über die Umsetzung, Anwendung und Entwicklung des Schengen-Besitzstands und über die Kriterien und Verfahren zur Bestimmung des zuständigen Staates für die Prüfung eines in der Schweiz, in Island oder in Norwegen gestellten Asylantrags;
+- e. das Abkommen vom 28. April 2005[^annex4-lvlu1-lvl1-5] zwischen der Schweizerischen Eidgenossenschaft und dem Königreich Dänemark über die Umsetzung, Anwendung und Entwicklung derjenigen Teile des Schengen-Besitzstands, die auf Bestimmungen des Titels IV des Vertrags zur Gründung der Europäischen Gemeinschaft basieren;
+- f. das Protokoll vom 28. Februar 2008[^annex4-lvlu1-lvl1-6] zwischen der Schweizerischen Eidgenossenschaft, der Europäischen Union, der Europäischen Gemeinschaft und dem Fürstentum Liechtenstein über den Beitritt des Fürstentums Liechtenstein zu dem Abkommen zwischen der Schweizerischen Eidgenossenschaft, der Europäischen Union und der Europäischen Gemeinschaft über die Assoziierung der Schweizerischen Eidgenossenschaft bei der Umsetzung, Anwendung und Entwicklung des Schengen-Besitzstands.
 
 [^annex4-lvlu1-lvl1-1]: [SR 0.362.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1513)
 [^annex4-lvlu1-lvl1-2]: [SR 0.362.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1508)
@@ -1342,12 +1345,14 @@ Die Schengen-Assoziierungsabkommen umfassen:
 
 Die Dublin-Assoziierungsabkommen umfassen:
 
-- a. Abkommen vom 26. Oktober 2004[^annex4-lvlu1-lvl2-1] zwischen der Schweizerischen Eidgenossenschaft und der Europäischen Gemeinschaft über die Kriterien und Verfahren zur Bestimmung des zuständigen Staates für die Prüfung eines in einem Mitgliedstaat oder in der Schweiz gestellten Asylantrags;
-- b. Übereinkommen vom 17. Dezember 2004[^annex4-lvlu1-lvl2-2] zwischen der Schweizerischen Eidgenossenschaft, der Republik Island und dem Königreich Norwegen über die Umsetzung, Anwendung und Entwicklung des Schengen-Besitzstands und über die Kriterien und Verfahren zur Bestimmung des zuständigen Staates für die Prüfung eines in der Schweiz, in Island oder in Norwegen gestellten Asylantrags;
-- c. Protokoll vom 28. Februar 2008[^annex4-lvlu1-lvl2-3] zwischen der Schweizerischen Eidgenossenschaft, der Europäischen Gemeinschaft und dem Fürstentum Liechtenstein zu dem Abkommen zwischen der Schweizerischen Eidgenossenschaft und der Europäischen Gemeinschaft über die Kriterien und Verfahren zur Bestimmung des zuständigen Staates für die Prüfung eines in einem Mitgliedstaat oder in der Schweiz gestellten Asylantrags;
-- d. Protokoll vom 28. Februar 2008[^annex4-lvlu1-lvl2-4] zwischen der Schweizerischen Eidgenossenschaft, der Europäischen Gemeinschaft und dem Fürstentum Liechtenstein über den Beitritt des Fürstentums Liechtenstein zu dem Abkommen zwischen der Schweizerischen Eidgenossenschaft und der Europäischen Gemeinschaft über die Kriterien und Verfahren zur Bestimmung des zuständigen Staates für die Prüfung eines in einem Mitgliedstaat oder in der Schweiz gestellten Asylantrags.
+- a. das Abkommen vom 26. Oktober 2004[^annex4-lvlu1-lvl2-1] zwischen der Schweizerischen Eidgenossenschaft und der Europäischen Gemeinschaft über die Kriterien und Verfahren zur Bestimmung des zuständigen Staates für die Prüfung eines in einem Mitgliedstaat oder in der Schweiz gestellten Asylantrags;
+- b. das Übereinkommen vom 17. Dezember 2004[^annex4-lvlu1-lvl2-2] zwischen der Schweizerischen Eidgenossenschaft, der Republik Island und dem Königreich Norwegen über die Umsetzung, Anwendung und Entwicklung des Schengen-Besitzstands und über die Kriterien und Verfahren zur Bestimmung des zuständigen Staates für die Prüfung eines in der Schweiz, in Island oder in Norwegen gestellten Asylantrags;
+- c. das Protokoll vom 28. Februar 2008[^annex4-lvlu1-lvl2-3] zwischen der Schweizerischen Eidgenossenschaft, der Europäischen Gemeinschaft und dem Fürstentum Liechtenstein zu dem Abkommen zwischen der Schweizerischen Eidgenossenschaft und der Europäischen Gemeinschaft über die Kriterien und Verfahren zur Bestimmung des zuständigen Staates für die Prüfung eines in einem Mitgliedstaat oder in der Schweiz gestellten Asylantrags;
+- d. das Protokoll vom 28. Februar 2008[^annex4-lvlu1-lvl2-4] zwischen der Schweizerischen Eidgenossenschaft, der Europäischen Gemeinschaft und dem Fürstentum Liechtenstein über den Beitritt des Fürstentums Liechtenstein zu dem Abkommen zwischen der Schweizerischen Eidgenossenschaft und der Europäischen Gemeinschaft über die Kriterien und Verfahren zur Bestimmung des zuständigen Staates für die Prüfung eines in einem Mitgliedstaat oder in der Schweiz gestellten Asylantrags;
+- e. das Protokoll vom 27. Juni 2019[^annex4-lvlu1-lvl2-5] zwischen der Schweizerischen Eidgenossenschaft, der Europäischen Union und dem Fürstentum Liechtenstein zum Abkommen zwischen der Schweizerischen Eidgenossenschaft und der Europäischen Gemeinschaft über die Kriterien und Verfahren zur Bestimmung des zuständigen Staates für die Prüfung eines in einem Mitgliedstaat oder in der Schweiz gestellten Asylantrags betreffend den Zugang zu Eurodac für Gefahrenabwehr- und Strafverfolgungszwecke.
 
 [^annex4-lvlu1-lvl2-1]: [SR 0.142.392.68](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/443)
 [^annex4-lvlu1-lvl2-2]: [SR 0.362.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1519)
 [^annex4-lvlu1-lvl2-3]: [SR 0.142.393.141](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/451)
 [^annex4-lvlu1-lvl2-4]: [SR 0.142.395.141](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/452)
+[^annex4-lvlu1-lvl2-5]: [SR 0.142.392.682](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40016)
