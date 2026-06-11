@@ -4,11 +4,11 @@ title: "Ordinance of 18 December 2013 on the Central Visa Information System and
 short: VISO
 eli: "https://fedlex.data.admin.ch/eli/cc/2014/2"
 language: en
-version: 2025-01-01
+version: 2026-06-12
 adopted: 2013-12-18
 in_force: 2014-01-20
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/2/20250101/en/xml/fedlex-data-admin-ch-eli-cc-2014-2-20250101-en-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2014/2/20250101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/2/20260612/en/xml/fedlex-data-admin-ch-eli-cc-2014-2-20260612-en-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2014/2/20260612/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Visa Information System Ordinance, VISO)
 
-of 18 December 2013 (Status as of 1 January 2025)
+of 18 December 2013 (Last amended on 12 June 2026)
 
 The Swiss Federal Council,
 
@@ -171,6 +171,16 @@ ORBIS has the following aims:
 
 [^9-1]: See footnote to Art. 2 let. a.
 
+#### Art. 9a
+
+**Interoperability**[^9a-1]
+
+<sup>1</sup> The identity data, travel document data and biometric data of visa applicants shall automatically be stored in the Common Identity Repository (CIR).
+
+<sup>2</sup> When a dossier is created or updated in C-VIS, a check for multiple identities shall automatically be initiated in the CIR and SIS. This check shall be carried out based on the identity data, travel document data and biometric data.
+
+[^9a-1]: Inserted by No I of the O of 6 May 2026, in force since 12 June 2026 ([AS 2026 221](https://fedlex.data.admin.ch/eli/oc/2026/221)).
+
 ### Section 3 Online Access to ORBIS
 
 ### (Art. 109*c* FNIA)
@@ -201,7 +211,7 @@ The following authorities have online access to the ORBIS data in order to fulfi
 
   - 1\. the Legal Services Section: to issue rulings on measures banning entry to safeguard Switzerland's internal and external security in accordance with Articles 67 paragraph 4 and 68 paragraph 3 FNIA,
   - 2\.[^10-3] the authorities responsible for the computerised police search system (RIPOL): for identification of persons in connection with the supervision of the recording of RIPOL data under the RIPOL Ordinance of 26 October 2016[^10-4],
-  - 3\. the authorities responsible for international correspondence, and the operations centre: in order to identify persons in connection with the exchange of police intelligence at inter-cantonal and international levels and to assess measures banning entry to safeguard Switzerland's internal and external security,
+  - 3\. the authorities responsible for international correspondence, and the Operations and Alarm Centre[^10-5]: to identify persons in the context of intercantonal and international police information exchange and to assess measures banning entry in order to safeguard Switzerland’s internal and external security,
   - 4\.
 
     the responsible authorities of the Federal Criminal Police:
@@ -211,18 +221,18 @@ The following authorities have online access to the ORBIS data in order to fulfi
 
   - 5\. the service for identity documents and tracing missing persons: to trace the whereabouts of such persons,
   - 6\. the authority responsible for operating the automated fingerprint identification system (AFIS): in order to identify persons under Article 102 paragraph 1 FNIA,
-  - 7\. the responsible service at the Money Laundering Reporting Office: in order to identify persons and to determine their residency status in connection with the statutory duties of the Reporting Office to combat money laundering and its predicate offences, organised crime and the financing of terrorism under Article 23 of the Anti-Money Laundering Act of 10 October 1997[^10-5];
+  - 7\. the responsible service at the Money Laundering Reporting Office: in order to identify persons and to determine their residency status in connection with the statutory duties of the Reporting Office to combat money laundering and its predicate offences, organised crime and the financing of terrorism under Article 23 of the Anti-Money Laundering Act of 10 October 1997[^10-6];
 
-- g.[^10-6] the cantonal and communal migration authorities and the cantonal and communal police authorities: to fulfil their duties in the field of immigration;
+- g.[^10-7] the cantonal and communal migration authorities and the cantonal and communal police authorities: to fulfil their duties in the field of immigration;
 - h. the civil register offices and their supervisory authorities, and the Federal Civil Status Office: to assess the legality of the residence in Switzerland of persons engaged to be married who are not Swiss citizens and to notify the responsible authority of the identity of persons engaged to be married who are unable to prove the legality of their residence;
 - i.
 
   at the Federal Office of Justice:
 
-  - 1\. the International Mutual Assistance Unit: to fulfil its duties in connection with international mutual assistance proceedings under the Mutual Assistance Act of 20 March 1981[^10-7],
-  - 2\. the Private Law Unit: to fulfil its duties in connection with proceedings under the Federal Act of 21 December 2007[^10-8] on International Child Abduction and the Hague Conventions on the Protection of Children and Adults;
+  - 1\. the International Mutual Assistance Unit: to fulfil its duties in connection with international mutual assistance proceedings under the Mutual Assistance Act of 20 March 1981[^10-8],
+  - 2\. the Private Law Unit: to fulfil its duties in connection with proceedings under the Federal Act of 21 December 2007[^10-9] on International Child Abduction and the Hague Conventions on the Protection of Children and Adults;
 
-- j. the Federal Intelligence Service: to assess measures banning entry to safeguard Switzerland's internal and external security under the Federal Act of 21 March 1997[^10-9] on Measures to Safeguard Internal Security;
+- j. the Federal Intelligence Service: to assess measures banning entry to safeguard Switzerland's internal and external security under the Federal Act of 21 March 1997[^10-10] on Measures to Safeguard Internal Security;
 - k. the Federal Administrative Court: for the preparatory briefing procedure for appeals under the FNIA;
 - l.
 
@@ -231,14 +241,14 @@ The following authorities have online access to the ORBIS data in order to fulfi
   - 1\. the levying of Value Added Tax on goods and services supplied for consideration by taxable persons on Swiss territory (domestic tax) and on the acquisition by recipients on Swiss territory of supplies from businesses domiciled abroad (acquisition tax) and the levying of withholding tax,
   - 2\. the conduct of criminal proceedings and administrative or mutual legal assistance proceedings;
 
-- m.[^10-10]
+- m.[^10-11]
 
-  the Federal Office for Customs and Border Security[^10-11]:
+  the Federal Office for Customs and Border Security[^10-12]:
 
   - 1\. to fulfil their tasks in levying Value Added Tax on the import of goods (import tax),
   - 2\. in order to identify persons in connection with customs investigations;
 
-- n.[^10-12] ...
+- n.[^10-13] …
 
 <sup>2</sup> The access rights are regulated in Annex 2.
 
@@ -246,14 +256,15 @@ The following authorities have online access to the ORBIS data in order to fulfi
 [^10-2]: Term in accordance with Annex No II 2 of the O of 17 Nov. 2021, in force since 1 Jan. 2022 ([AS 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)).
 [^10-3]: Amended by No I of the O of 10 May 2023, in force since 15 June 2023 ([AS 2023 246](https://fedlex.data.admin.ch/eli/oc/2023/246)).
 [^10-4]: [SR 361.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6308)
-[^10-5]: [SR 955.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11599)
-[^10-6]: Amended by No I of the O of 19 Feb. 2020, in force since 1 April 2020 ([AS 2020 917](https://fedlex.data.admin.ch/eli/oc/2020/175)).
-[^10-7]: [SR 351.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6277)
-[^10-8]: [SR 211.222.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5742)
-[^10-9]: [SR 120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4735)
-[^10-10]: Amended by No I of the O of 21 Nov. 2018, in force since 1 Jan. 2019 ([AS 2018 4567](https://fedlex.data.admin.ch/eli/oc/2018/715)).
-[^10-11]: The name of this administrative unit was changed on 1 Jan. 2022 pursuant to Art. 20 para. 2 of the Publications Ordinance of 7 Oct. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)) ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). This change has been made throughout the text.
-[^10-12]: Repealed by No I of the O of 21 Nov. 2018, with effect from 1 Jan. 2019 ([AS 2018 4567](https://fedlex.data.admin.ch/eli/oc/2018/715)).
+[^10-5]: Term in accordance with No I of the O of 6 May 2026, in force since 12 June 2026 ([AS 2026 221](https://fedlex.data.admin.ch/eli/oc/2026/221)). This change has been made throughout the text.
+[^10-6]: [SR 955.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11599)
+[^10-7]: Amended by No I of the O of 19 Feb. 2020, in force since 1 April 2020 ([AS 2020 917](https://fedlex.data.admin.ch/eli/oc/2020/175)).
+[^10-8]: [SR 351.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6277)
+[^10-9]: [SR 211.222.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5742)
+[^10-10]: [SR 120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4735)
+[^10-11]: Amended by No I of the O of 21 Nov. 2018, in force since 1 Jan. 2019 ([AS 2018 4567](https://fedlex.data.admin.ch/eli/oc/2018/715)).
+[^10-12]: The name of this administrative unit was changed on 1 Jan. 2022 pursuant to Art. 20 para. 2 of the Publications Ordinance of 7 Oct. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)) ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). This change has been made throughout the text.
+[^10-13]: Repealed by No I of the O of 21 Nov. 2018, with effect from 1 Jan. 2019 ([AS 2018 4567](https://fedlex.data.admin.ch/eli/oc/2018/715)).
 
 ## Chapter 3 Central Visa Information System
 
@@ -274,27 +285,35 @@ The following authorities may consult C-VIS data online in order to fulfil the d
   - 1\. the Entry Section and the Admission and Residence Section: to fulfil their tasks in relation to visas,
   - 2\. the Dublin Sections and the employees in reception and processing centres responsible for assessing applications for asylum: to determine the Dublin state responsible for assessing an asylum application,
   - 3\. the Asylum Division: to assess asylum applications where Switzerland is responsible for deciding,
-  - 4\. the Statistics Service: to compile visa statistics under Article 17 of the EU VIS Regulation[^11-1];
+  - 4\. the Statistics Service: to compile visa statistics under Article 17 of the EU VIS Regulation [^11-1],
+  - 5\.[^11-2] the Identification and Security Checks Division: to fulfil tasks relating to screening under Regulation (EU) 2024/1356[^11-3],
+  - 6\.[^11-4] the Federal Asylum Centres Directorate: to fulfil tasks relating to screening under Regulation (EU) 2024/1356;
 
 - b. the border posts of the cantonal police authorities and the Border Guard: to issue exceptional visas;
 - c. the Swiss representations abroad and the Swiss Mission to the UN in Geneva: to assess visa applications;
 - d. the State Secretariat, the Consular Directorate and the Directorate of Political Affairs of the FDFA: to assess visa applications for which the FDFA is responsible;
 - e.
 
-  the Border Guard and the responsible cantonal and communal police authorities:[^11-2]
+  the Border Guard and the responsible cantonal and communal police authorities:[^11-5]
 
   - 1\. to conduct checks at the external borders of the Schengen area and on the sovereign territory of Switzerland,
   - 2\. to verify the identity of visa holders, to assess the authenticity of visas or to assess whether the requirements for entry into the sovereign territory of Switzerland or for residence there are met,
   - 3\. in order to identify persons without visas who do not or no longer meet the requirements for entry into the sovereign territory of Switzerland or for the residence there;
 
-- f. the cantonal migration authorities and the communes to which the corresponding competences have been delegated by the cantons: to fulfil their duties in relation to visas.
+- f. the cantonal migration authorities and the communes to which the corresponding competences have been delegated by the cantons: to fulfil their duties in relation to visas;
+- g.[^11-6] the cantonal police authorities, the Federal Office for Customs and Border Security and the cantonal migration authorities: to fulfil tasks relating to screening under Regulation (EU) 2024/1356.
 
-<sup>2</sup> The fedpol Operations Centre (fedpol OC) may consult C-VIS data online as central access point (Art. 20).
+<sup>2</sup> The fedpol Operations and Alarm Centre (fedpol OAC[^11-7]) may consult C-VIS data online as central access point (Art. 20).
 
 <sup>3</sup> The rights to consult data are regulated in Annex 3.
 
 [^11-1]: See footnote to Art. 2 let. a.
-[^11-2]: Amended by No I of the O of 19 Feb. 2020, in force since 1 April 2020 ([AS 2020 917](https://fedlex.data.admin.ch/eli/oc/2020/175)).
+[^11-2]: Inserted by No I of the O of 20 May 2026, in force since 12 June 2026 ([AS 2026 267](https://fedlex.data.admin.ch/eli/oc/2026/267)).
+[^11-3]: Regulation (EU) 2024/1356 of the European Parliament and of the Council of 14 May 2024 introducing the screening of third-country nationals at the external borders and amending Regulations (EC) No 767/2008, (EU) 2017/2226, (EU) 2018/1240 and (EU) 2019/817, amended by OJ L 2024/1356, 22.5.2024.
+[^11-4]: Inserted by No I of the O of 20 May 2026, in force since 12 June 2026 ([AS 2026 267](https://fedlex.data.admin.ch/eli/oc/2026/267)).
+[^11-5]: Amended by No I of the O of 19 Feb. 2020, in force since 1 April 2020 ([AS 2020 917](https://fedlex.data.admin.ch/eli/oc/2020/175)).
+[^11-6]: Inserted by No I of the O of 20 May 2026, in force since 12 June 2026 ([AS 2026 267](https://fedlex.data.admin.ch/eli/oc/2026/267)).
+[^11-7]: Term in accordance with No I of the O of 6 May 2026, in force since 12 June 2026 ([AS 2026 221](https://fedlex.data.admin.ch/eli/oc/2026/221)). This change has been made throughout the text.
 
 ### Section 2 Data Categories for Consulting the C-VIS and Extent of Rights to Consult Data
 
@@ -397,7 +416,7 @@ The following federal authorities may request C-VIS data in accordance with Arti
 
   at fedpol:
 
-  - 1\. the operations centre,
+  - 1\. the Operations and Alarm Centre,
   - 2\. the Federal Criminal Police,
   - 3\. the International Identifications Service;
 
@@ -438,32 +457,33 @@ The following cantonal and communal authorities may request C-VIS data in accord
 
 **Procedure for receiving data**
 
-<sup>1</sup> The authorities under Articles 17 and 18 shall submit an application for access to the C-VIS data with a statement of the grounds to fedpol OC in paper form or electronically.
+<sup>1</sup> The authorities under Articles 17 and 18 shall submit an application for access to the C-VIS data and the result of the CIR query with a statement of the grounds to fedpol OAC, either in paper form or electronically.[^19-1]
 
-<sup>2</sup> In urgent exceptional cases, an authority may also submit an application verbally. The fedpol OC shall process the application immediately and assess subsequently whether the requirements under Article 20 have been met and whether it is actually an urgent exceptional case. Retrospective assessment must be carried out immediately after the application is processed.
+<sup>2</sup> In urgent exceptional cases, an authority may also submit an application verbally. The fedpol OAC shall process the application immediately and assess subsequently whether the requirements under Article 20 have been met and whether it is actually an urgent exceptional case. Retrospective assessment must be carried out immediately after the application is processed.
 
 <sup>3</sup> Fedpol set out the modalities of the procedure in processing regulations.
 
+[^19-1]: Amended by No I of the O of 6 May 2026, in force since 12 June 2026 ([AS 2026 221](https://fedlex.data.admin.ch/eli/oc/2026/221)).
+
 #### Art. 20
 
-**Requirements for receiving the data**
+**Requirements for receiving the data**[^20-1]
 
-The fedpol OC shall assess whether:
+The fedpol OAC shall assess whether:
 
-- a.[^20-1] the data are required to prevent, disclose or investigate terrorist or other serious offences;
-- b. their transmission are justified in the specific case;
-- c.[^20-2] there are justified grounds to assume that their transmission will considerably assist in preventing, disclosing or investigating terrorist or other serious offences.
+- a. the data are required to prevent, disclose or investigate terrorist or other serious offences;
+- b. the disclosure of the data is proportionate in the specific case; and
+- c. there is evidence or sufficient reason to believe that the disclosure of the data will contribute to the fulfilment of the purpose pursued.
 
-[^20-1]: Amended by No I of the O of 10 Nov. 2021, in force since 1 May 2022 ([AS 2022 735](https://fedlex.data.admin.ch/eli/oc/2022/735)).
-[^20-2]: Amended by No I of the O of 10 Nov. 2021, in force since 1 May 2022 ([AS 2022 735](https://fedlex.data.admin.ch/eli/oc/2022/735)).
+[^20-1]: Amended by No I of the O of 6 May 2026, in force since 12 June 2026 ([AS 2026 221](https://fedlex.data.admin.ch/eli/oc/2026/221)).
 
 #### Art. 21
 
 **Consultation and transmission of the data**
 
-<sup>1</sup> If the requirements under Article 20 are met, the fedpol OC shall consult the C-VIS data. The consultation may be carried out only on the basis of the data specified in Article 5 paragraph 2 of Decision 2008/633/JHA[^21-1] (EU VIS Decision) and in accordance with the rights to consult data set out in Annex 3.
+<sup>1</sup> If the requirements under Article 20 are met, the fedpol OAC shall consult the C-VIS data. The consultation may be carried out only on the basis of the data specified in Article 5 paragraph 2 of Decision 2008/633/JHA[^21-1] (EU VIS Decision) and in accordance with the rights to consult data set out in Annex 3.
 
-<sup>2</sup> If the consultation produces a hit, the fedpol OC shall transmit the data specified in Article 5 paragraph 3 of the EU VIS Decision to the authority by secure means.
+<sup>2</sup> If the consultation produces a hit, the fedpol OAC shall transmit the data specified in Article 5 paragraph 3 of the EU VIS Decision to the authority by secure means.
 
 [^21-1]: Council Decision 2008/633/JHA of 23 June 2008 concerning access for consultation of the Visa Information System (VIS) by designated authorities of Member States and by Europol for the purposes of the prevention, detection and investigation of terrorist offences and of other serious criminal offences, version in accordance with OJ L 218 of 13.8.2008, p. 129.
 
@@ -471,13 +491,13 @@ The fedpol OC shall assess whether:
 
 **Exchange of information with EU member states not bound by the EU VIS Regulation**
 
-<sup>1</sup> The EU member states where the EU VIS Regulation[^22-1] is not in force may submit applications to obtain C-VIS data either directly to the fedpol OC via the secure connections intended for criminal police correspondence or to the other authorities in accordance with Articles 17 and 18.
+<sup>1</sup> The EU member states where the EU VIS Regulation[^22-1] is not in force may submit applications to obtain C-VIS data either directly to the fedpol OAC via the secure connections intended for criminal police correspondence or to the other authorities in accordance with Articles 17 and 18.
 
-<sup>2</sup> The fedpol OC shall assess the applications and respond to them directly.
+<sup>2</sup> The fedpol OAC shall assess the applications and respond to them directly.
 
 <sup>3</sup> The procedure is governed by Article 19.
 
-<sup>4</sup> The fedpol OC may, with a view to obtaining information in relation to visas, submit applications to the responsible authorities in the EU member states where the EU VIS Regulation is not in force.
+<sup>4</sup> The fedpol OAC may, with a view to obtaining information in relation to visas, submit applications to the responsible authorities in the EU member states where the EU VIS Regulation is not in force.
 
 [^22-1]: See footnote to Art. 2 let. a.
 
@@ -573,7 +593,7 @@ If a person acquires Swiss citizenship:
 
 <sup>1</sup> In accordance with Article 30 EU VIS Regulation[^29-1], C-VIS data may be stored in ZEMIS, in ORBIS, in the RUMACA information system of the Border Guard or in corresponding information systems of the cantonal and communal police authorities if storage is required in the specific case and for as long as the relevant case is being processed.[^29-2]
 
-<sup>2</sup> The authorities under Articles 17 and 18 must immediately destroy the data received from the fedpol OC unless they are required for the purposes of the EU VIS Decision[^29-3]. They must destroy the data as soon as they are no longer required.
+<sup>2</sup> The authorities under Articles 17 and 18 must immediately destroy the data received from the fedpol OAC unless they are required for the purposes of the EU VIS Decision[^29-3]. They must destroy the data as soon as they are no longer required.
 
 <sup>3</sup> Any use of data in contravention of paragraphs 1 and 2 constitutes an abuse as defined in Article 120*d* FNIA.
 
@@ -658,17 +678,19 @@ Liability for loss or damage in connection with the operation of ORBIS is govern
 
 **Data security**
 
-Data security is governed by:
+Data security is governed by Article 32 of the EU VIS Regulation[^34-1] and by:[^34-2]
 
-- a. [^34-1] the DPO[^34-2];
-- b.[^34-3] the Information Security Ordinance of 8 November 2023[^34-4];
-- c.[^34-5] ...
+- a. [^34-3] the DPO[^34-4];
+- b.[^34-5] the Information Security Ordinance of 8 November 2023[^34-6];
+- c.[^34-7] …
 
-[^34-1]: Amended by Annex 2 No II 7 of the Data Protection Ordinance of 31 Aug. 2022, in force since 1 Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
-[^34-2]: [SR 235.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5994)
-[^34-3]: Amended by Annex 2 No II 5 of the Information Security Ordinance of 8 Nov. 2023, in force since 1 Jan. 2024 ([AS 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
-[^34-4]: [SR 128.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40166)
-[^34-5]: Repealed by Annex No 4 of the O of 24 Feb. 2021, with effect from 1 April 2021 ([AS 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
+[^34-1]: See footnote to Art. 2 let. a.
+[^34-2]: Amended by No I of the O of 6 May 2026, in force since 12 June 2026 ([AS 2026 221](https://fedlex.data.admin.ch/eli/oc/2026/221)).
+[^34-3]: Amended by Annex 2 No II 7 of the Data Protection Ordinance of 31 Aug. 2022, in force since 1 Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^34-4]: [SR 235.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5994)
+[^34-5]: Amended by Annex 2 No II 5 of the Information Security Ordinance of 8 Nov. 2023, in force since 1 Jan. 2024 ([AS 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
+[^34-6]: [SR 128.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40166)
+[^34-7]: Repealed by Annex No 4 of the O of 24 Feb. 2021, with effect from 1 April 2021 ([AS 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
 
 #### Art. 35
 
@@ -737,15 +759,19 @@ The amendment of another enactment is regulated in Annex 4.
 
 This Ordinance comes into force on 20 January 2014.
 
-Annex 1
+Annex 1[^t-1]
 
 (Art. 2 let. c and d)
+
+## Schengen and Dublin Association Agreements
+
+[^t-1]: Amended by No II of the O of 20 May 2026, in force since 12 June 2026 ([AS 2026 267](https://fedlex.data.admin.ch/eli/oc/2026/267)).
 
 ## 1. Schengen Association Agreements
 
 The Schengen Association Agreements comprise:
 
-- a. the Agreement of 26 October 2004[^annex1-lvl1-1] between the Swiss Confederation that European Union and the European Community on the association of that State with the implementation, application and development of the Schengen Acquis (SAA);
+- a. the Agreement of 26 October 2004[^annex1-lvl1-1] between the Swiss Confederation that European Union and the European Community on the association of that State with the implementation, application and development of the Schengen Acquis;
 - b. the Agreement of 26 October 2004[^annex1-lvl1-2] in the form of an exchange of letters between the Council of the European Union and the Swiss Confederation on the Committees that assist the European Commission in the exercise of its executive powers;
 - c. Arrangement of 22 September 2011[^annex1-lvl1-3] between the European Union and the Republic of Iceland, the Principality of Liechtenstein, the Kingdom of Norway and the Swiss Confederation on the participation by those States in the work of the committees which assist the European Commission in the exercise of its executive powers as regards the implementation, application and development of the Schengen Acquis;
 - d. the Agreement of 17 December 2004[^annex1-lvl1-4] between the Swiss Confederation that Republic of Iceland and the Kingdom of Norway on the Implementation, Application and Development of the Schengen Acquis and on the Criteria and Procedure for determining the State responsible for examining an application for asylum lodged in Switzerland, Iceland or Norway;
@@ -763,25 +789,29 @@ The Schengen Association Agreements comprise:
 
 The Dublin Association Agreements comprise:
 
-- a. the Agreement of 26 October 2004[^annex1-lvl2-1] between the Swiss Confederation and the European Community on the criteria and procedure for determining the State responsible for examining an application for asylum lodged in a member state or in Switzerland (DAA);
+- a. the Agreement of 26 October 2004[^annex1-lvl2-1] between the Swiss Confederation and the European Community on the criteria and procedure for determining the State responsible for examining an application for asylum lodged in a member state or in Switzerland;
 - b. the Agreement of 17 December 2004[^annex1-lvl2-2] between the Swiss Confederation that Republic of Iceland and the Kingdom of Norway on the implementation, application and development of the Schengen Acquis and on the criteria and procedure for determining the State responsible for examining an application for asylum lodged in Switzerland, Iceland or Norway;
 - c. the Protocol of 28 February 2008[^annex1-lvl2-3] between the Swiss Confederation that European Community and the Principality of Liechtenstein to the Agreement between the Swiss Confederation and the European Community on the criteria and procedure for determining the State responsible for examining an application for asylum lodged in a member state or in Switzerland;
-- d. the Protocol of 28 February 2008[^annex1-lvl2-4] between the Swiss Confederation that European Community and the Principality of Liechtenstein on the accession of the Principality of Liechtenstein to the Agreement between the Swiss Confederation and the European Community on the criteria and procedure for determining the State responsible for examining an application for asylum lodged in a member state or in Switzerland.
+- d. the Protocol of 28 February 2008[^annex1-lvl2-4] between the Swiss Confederation that European Community and the Principality of Liechtenstein on the accession of the Principality of Liechtenstein to the Agreement between the Swiss Confederation and the European Community on the criteria and procedure for determining the State responsible for examining an application for asylum lodged in a member state or in Switzerland;
+- e. the Protocol of 27 June 2019[^annex1-lvl2-5] between the Swiss Confederation, the European Union and the Principality of Liechtenstein to the Agreement Between the European Community and the Swiss Confederation Concerning the Criteria and Mechanisms for Establishing the State Responsible for Examining a Request for Asylum Lodged in a Member State or in Switzerland Regarding Access to Eurodac for Law Enforcement Purposes.
 
 [^annex1-lvl2-1]: [SR 0.142.392.68](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/443)
 [^annex1-lvl2-2]: [SR 0.362.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1519)
 [^annex1-lvl2-3]: [SR 0.142.393.141](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/451)
 [^annex1-lvl2-4]: [SR 0.142.395.141](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/452)
+[^annex1-lvl2-5]: [SR 0.142.392.682](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40016)
 
-Annex 2[^t-1]
+Annex 2[^t-2]
 
 (Art. 5 para. 1, 6 para. 1 and 10 para. 2)
 
 ## Access rights in ORBIS
 
-[^t-1]: Amended by No II of the O of 19 Feb. 2020, in force since 1 April 2020 ([AS 2020 917](https://fedlex.data.admin.ch/eli/oc/2020/175)).
+[^t-2]: Amended by No II of the O of 19 Feb. 2020, in force since 1 April 2020 ([AS 2020 917](https://fedlex.data.admin.ch/eli/oc/2020/175)).
 
 Legend
+
+Access levels
 
 Access levels
 
@@ -799,7 +829,7 @@ Organisational units
 - FDFA: Federal Department of Foreign Affairs: State Secretariat, Consular Directorate and Directorate of Political Affairs
 - FTA: Federal Tax Administration
 - FOCBS: Federal Office for Customs and Border Security, including the Prosecution Directorate
-- Fedpol: Federal Office of Police: Legal Services Section, Federal Criminal Police (FCP), Interpol National Central Bureau, operations centre, Identity Documents and Central Offices Division, Biometric Identification Division, MROS Section, Search and Supervision Division
+- Fedpol: Federal Office of Police: Legal Services Section, Federal Criminal Police (FCP), Interpol National Central Bureau, Operations and Alarm Centre, Identity Documents and Central Offices Division, Biometric Identification Division, MROS Section, Search and Supervision Division
 - MIGRA: Cantonal, regional and communal migration authorities
 - BORPO: Federal and cantonal bodies that carry out checks and issue visas on the Schengen external border and on Swiss sovereign territory
 - CAPO: Cantonal and communal police authorities carrying out duties under the law on foreign nationals on Swiss sovereign territory
@@ -904,19 +934,19 @@ Organisational units
 [^annex2-lvlu1-2]: See footnote to Art. 6 para. 1.
 [^annex2-lvlu1-3]: These Annexes (Documents relating to the applicant, remarks) are available in PDF format and are replaced by an e-dossier as soon as all the documents have been scanned.
 
-Annex 3[^t-2]
+Annex 3[^t-3]
 
 (Art. 11 para. 3 and 35 para. 4)
 
 ## Access rights in relation to C-VIS
 
-[^t-2]: Amended by No II of the O of 19 Feb. 2020, in force since 1 April 2020 ([AS 2020 917](https://fedlex.data.admin.ch/eli/oc/2020/175)).
+[^t-3]: Amended by No II of the O of 20 May 2026, in force since 12 June 2026 ([AS 2026 267](https://fedlex.data.admin.ch/eli/oc/2026/267)).
 
 Legend
 
 Access levels
 
-- A: Online consultations
+- A Online consultations
 - Empty: No access
 - <sup>1</sup> Data that may only be consulted under Article 14 of the Ordinance
 - <sup>2</sup> Notice that in a linked application data file only data marked with a \* may be consulted
@@ -934,93 +964,91 @@ Organisational units
 - – II: Case officer for visas (Entry Section, Admission and Residence Section)
 - – III: Case officer for Dublin proceedings (asylum procedure staff, Dublin Sections)
 - – IV: Case officer for asylum (asylum procedure staff)
+- – V: Case officer for federal asylum centres (Federal Asylum Centres Directorate staff)
+- – VI: Case officer for identification and security checks (Identification and Security Checks Division staff)
 
 C-VIS
 
 <table>
-<tr><td>Type of data field</td><td>SEM I statistics</td><td>SEM II Visa</td><td>SEM III asylum Application of EU Dublin Ordinance[^annex3-lvlu1-1]</td><td>SEM IV asylum Asylum procedure</td><td>MIGRA and BORPO as visa issuing authorities</td><td>BORPO border check</td><td>RA</td><td>FDFA</td><td>CAPO on Swiss sovereign territory</td><td>fedpol OC</td></tr>
-<tr><td colspan="11">I. Data in the application</td></tr>
-<tr><td>Application number</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A<sup>1</sup></td><td>A</td><td>A</td><td>A<sup>1</sup></td><td>A</td></tr>
-<tr><td>Status information: Application made</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
-<tr><td>On behalf of another Schengen state (yes/no)</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A<sup>1</sup></td><td>A</td><td>A</td><td>A<sup>1</sup></td><td>A</td></tr>
-<tr><td>Name and address of authority</td><td></td><td>A</td><td></td><td></td><td>A</td><td></td><td>A</td><td>A</td><td></td><td>A</td></tr>
-<tr><td>Surname, birth names (or previous surnames)</td><td></td><td>A</td><td>A\*</td><td>A\*</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
-<tr><td>Forenames</td><td></td><td>A</td><td>A\*</td><td>A\*</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
-<tr><td>Date of birth</td><td></td><td>A</td><td>A\*</td><td>A\*</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
-<tr><td>Place of birth</td><td></td><td>A</td><td>A\*</td><td>A\*</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
-<tr><td>Current nationality</td><td>A</td><td>A</td><td>A\*</td><td>A\*</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
-<tr><td>Nationality at birth</td><td></td><td>A</td><td>A\*</td><td>A\*</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
-<tr><td>Country of birth</td><td></td><td>A</td><td>A\*</td><td>A\*</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
-<tr><td>Sex</td><td></td><td>A</td><td>A\*</td><td>A\*</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
-<tr><td>Type of travel documents</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
-<tr><td>Issuing authority</td><td></td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
-<tr><td>Number of document</td><td></td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
-<tr><td>Date of issue and expiry</td><td></td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
-<tr><td>Type of data field</td><td>SEM I statistics</td><td>SEM II Visa</td><td>SEM III asylum Application of EU Dublin Ordinance</td><td>SEM IV asylum Asylum procedure</td><td>MIGRA and BORPO as visa issuing authorities</td><td>BORPO border check</td><td>RA</td><td>FDFA</td><td>CAPO on Swiss sovereign territory</td><td>fedpol OC</td></tr>
-<tr><td>Place and date of application</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
-<tr><td>Host and/or guarantor (surnames, forenames, address); if company or organisation: name and address of the company or the organisation, surname and first name of the contact person in the company/organisation</td><td></td><td>A</td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
-<tr><td>Destination states in the Schengen area</td><td></td><td>A</td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
-<tr><td>Planned duration of stay or transit journey</td><td></td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
-<tr><td>Main purposes of journey</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
-<tr><td>Planned date of entry to and exit from the Schengen area</td><td></td><td>A</td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
-<tr><td>Schengen state of first entry</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
-<tr><td>Home address of the applicant</td><td></td><td>A</td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
-<tr><td>Current occupation and employer; for students: name of educational institution</td><td></td><td>A</td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
-<tr><td>For minors: surname and first name of person with parental custody or guardian</td><td></td><td>A</td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
-<tr><td>Applicant's photograph</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
-<tr><td>Applicant's fingerprints</td><td></td><td>A</td><td></td><td></td><td>A</td><td></td><td>A</td><td>A</td><td></td><td>A</td></tr>
-<tr><td>Entry not applicable, as taking fingerprints is not possible</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td></td><td>A</td><td>A</td><td></td><td></td></tr>
-<tr><td>Entry not applicable, as taking fingerprints is not required</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td></td><td>A</td><td>A</td><td></td><td></td></tr>
-<tr><td>Fingerprints taken yes/no</td><td></td><td></td><td></td><td></td><td></td><td>A</td><td></td><td></td><td>A</td><td></td></tr>
-<tr><td>Type of data field</td><td>SEM I statistics</td><td>SEM II Visa</td><td>SEM III asylum Application of EU Dublin Ordinance</td><td>SEM IV asylum Asylum procedure</td><td>MIGRA and BORPO as visa issuing authorities</td><td>BORPO border check</td><td>RA</td><td>FDFA</td><td>CAPO on Swiss sovereign territory</td><td>fedpol OC</td></tr>
-<tr><td colspan="11">II. Data for issue of visa</td></tr>
-<tr><td>Status information: either visa issued or procedure concluded due to withdrawal of application by applicant</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
-<tr><td>Place and date of decision</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
-<tr><td>On behalf of another Schengen state (yes/no)</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
-<tr><td>Name and address of authority</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
-<tr><td>Area into which the visa holder may travel under the Visa Code[^annex3-lvlu1-2]</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
-<tr><td>Number of entries permitted during the term of validity</td><td></td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
-<tr><td>Term of validity of the visa: commencement date and expiry date</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
-<tr><td>Visa category</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
-<tr><td>Visa vignette number</td><td></td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
-<tr><td>Visa issued on separate form (yes/no)</td><td></td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
-<tr><td>Visa vignette completed by hand</td><td></td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
-<tr><td>Duration of stay permitted by visa</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
-<tr><td>Type of data field</td><td>SEM I statistics</td><td>SEM II Visa</td><td>SEM III asylum Application of EU Dublin Ordinance</td><td>SEM IV asylum Asylum procedure</td><td>MIGRA and BORPO as visa issuing authorities</td><td>BORPO border check</td><td>RA</td><td>FDFA</td><td>CAPO on Swiss sovereign territory</td><td>fedpol OC</td></tr>
-<tr><td colspan="11">III. Data in the event of non-continuation of assessment of the application</td></tr>
-<tr><td>Status information: discontinued</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A<sup>1</sup></td><td>A</td><td>A</td><td>A<sup>1</sup></td><td></td></tr>
-<tr><td>On behalf of another Schengen state (yes/no)</td><td></td><td>A</td><td></td><td></td><td>A</td><td>A<sup>1</sup></td><td>A</td><td>A</td><td>A<sup>1</sup></td><td></td></tr>
-<tr><td>Name and address of authority</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A<sup>1</sup></td><td>A</td><td>A</td><td>A<sup>1</sup></td><td></td></tr>
-<tr><td>Place and date of decision</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A<sup>1</sup></td><td>A</td><td>A</td><td>A<sup>1</sup></td><td></td></tr>
-<tr><td>Schengen state responsible for assessing the application</td><td></td><td>A</td><td></td><td></td><td>A</td><td>A<sup>1</sup></td><td>A</td><td>A</td><td>A<sup>1</sup></td><td></td></tr>
-<tr><td colspan="11">IV. Data in the event of refusal of the visa</td></tr>
-<tr><td>Status information: refused</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A<sup>1</sup></td><td>A</td><td>A</td><td>A<sup>1</sup></td><td>A</td></tr>
-<tr><td>On behalf of another Schengen state (yes/no)</td><td></td><td>A</td><td></td><td></td><td>A</td><td>A<sup>1</sup></td><td>A</td><td>A</td><td>A<sup>1</sup></td><td>A</td></tr>
-<tr><td>Name and address of authority</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A<sup>1</sup></td><td>A</td><td>A</td><td>A<sup>1</sup></td><td>A</td></tr>
-<tr><td>Place and date of decision</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A<sup>1</sup></td><td>A</td><td>A</td><td>A<sup>1</sup></td><td>A</td></tr>
-<tr><td>Reasons for refusal</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A<sup>1</sup></td><td>A</td><td>A</td><td>A<sup>1</sup></td><td>A</td></tr>
-<tr><td colspan="11">V. Data in the event of annulment or revocation of a visa</td></tr>
-<tr><td>Status information: annulled, revoked</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
-<tr><td>On behalf of another Schengen state (yes/no)</td><td></td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
-<tr><td>Name and address of authority</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
-<tr><td>Place and date of decision</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
-<tr><td>Type of data field</td><td>SEM I statistics</td><td>SEM II Visa</td><td>SEM III asylum Application of EU Dublin Ordinance</td><td>SEM IV asylum Asylum procedure</td><td>MIGRA and BORPO as visa issuing authorities</td><td>BORPO border check</td><td>RA</td><td>FDFA</td><td>CAPO on Swiss sovereign territory</td><td>fedpol OC</td></tr>
-<tr><td>Reasons for the annulment or the revocation (must be entered by hand)</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
-<tr><td colspan="11">VI. Data in the event of extension of a visa</td></tr>
-<tr><td>Status information: extended</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
-<tr><td>On behalf of another Schengen state (yes/no)</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
-<tr><td>Name and address of authority</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
-<tr><td>Place and date of decision</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
-<tr><td>Commencement and expiry date of extension</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
-<tr><td>Visa vignette number of the extended visa</td><td></td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
-<tr><td>Extended duration of the permitted stay</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
-<tr><td>Area into which the visa holder may travel where the extended visa is valid for different territory from the original visa</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
-<tr><td>Category of the extended visa</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
-<tr><td>Reasons for the extension</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
-<tr><td colspan="11">VII. Links between applications</td></tr>
-<tr><td>Linked application data files (relatives: spouse, children)</td><td></td><td>A</td><td>A<sup>2</sup></td><td>A<sup>2</sup></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td></tr>
-<tr><td>Linked application data files (group)</td><td></td><td>A</td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td></tr>
-<tr><td>Successive application data files from the applicant</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A<sup>1</sup></td><td>A</td><td>A</td><td>A<sup>1</sup></td><td>A</td></tr>
+<tr><th>Type of data field</th><th>SEM I Statistics</th><th>SEM II Visa</th><th>SEM III Asylum Application of EU Dublin Regulation[^annex3-lvlu1-1]</th><th>SEM IV Asylum Asylum procedure</th><th>SEM V Federal asylum centres</th><th>SEM VI Identification and security checks</th><th>MIGRA and BORPO as visa issuing authorities</th><th>BORPO border control</th><th>RA</th><th>FDFA</th><th>CAPO on Swiss sovereign territory</th><th>fedpol OAC</th></tr>
+<tr><td colspan="14">I. Data in the application</td></tr>
+<tr><td>Application number</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A<sup>1</sup></td><td>A</td><td>A</td><td>A<sup>1</sup></td><td>A</td></tr>
+<tr><td>Status information: application submitted</td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>On behalf of another Schengen state (yes/no)</td><td></td><td>A</td><td></td><td></td><td></td><td></td><td>A</td><td></td><td>A</td><td>A</td><td></td><td>A</td></tr>
+<tr><td>Name and address of authority</td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td>A</td><td>A<sup>1</sup></td><td>A</td><td>A</td><td>A<sup>1</sup></td><td>A</td></tr>
+<tr><td>Surname, birth names (or previous surnames)</td><td></td><td>A</td><td>A\*</td><td>A\*</td><td>A\*</td><td>A\*</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Forenames</td><td></td><td>A</td><td>A\*</td><td>A\*</td><td>A\*</td><td>A\*</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Date of birth</td><td></td><td>A</td><td>A\*</td><td>A\*</td><td>A\*</td><td>A\*</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Place of birth</td><td></td><td>A</td><td>A\*</td><td>A\*</td><td>A\*</td><td>A\*</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Current nationality</td><td>A</td><td>A</td><td>A\*</td><td>A\*</td><td>A\*</td><td>A\*</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Nationality at birth</td><td></td><td>A</td><td>A\*</td><td>A\*</td><td>A\*</td><td>A\*</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Country of birth</td><td></td><td>A</td><td>A\*</td><td>A\*</td><td>A\*</td><td>A\*</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Sex</td><td></td><td>A</td><td>A\*</td><td>A\*</td><td>A\*</td><td>A\*</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Type of travel document</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Issuing authority</td><td></td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Number of document</td><td></td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Date of issue and expiry</td><td></td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Place and date of application</td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Host and/or guarantor (surnames, forenames, address); if company or organisation: name and address of the company or organisation, surname and forename of contact person in the company or organisation</td><td></td><td>A</td><td></td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Destination states in the Schengen area</td><td></td><td>A</td><td></td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Planned duration of stay or transit journey</td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Main purpose of journey</td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Planned date of entry to and exit from the Schengen area</td><td></td><td>A</td><td></td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Schengen state of first entry</td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Applicant’s home address</td><td></td><td>A</td><td></td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Current occupation and employer; for students: name of educational institution</td><td></td><td>A</td><td></td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>For minors: surname and forename of the person with parental responsibility or the guardian</td><td></td><td>A</td><td></td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Applicant’s photograph</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Applicant’s fingerprints</td><td></td><td>A</td><td></td><td></td><td></td><td></td><td>A</td><td></td><td>A</td><td>A</td><td></td><td>A</td></tr>
+<tr><td>Entry not applicable, as taking fingerprints is not possible</td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td>A</td><td></td><td>A</td><td>A</td><td></td><td></td></tr>
+<tr><td>Entry not applicable, as taking fingerprints is not required</td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td>A</td><td></td><td>A</td><td>A</td><td></td><td></td></tr>
+<tr><td>Fingerprints taken (yes/no)</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>A</td><td></td><td></td><td>A</td><td></td></tr>
+<tr><td colspan="14">II. Data for issue of visa</td></tr>
+<tr><td>Status information: visa issued or procedure concluded due to the applicant withdrawing their application</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Place and date of decision</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>On behalf of another Schengen state (yes/no)</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Name and address of authority</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Area into which the visa holder may travel under the Visa Code[^annex3-lvlu1-2]</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Number of entries permitted during the term of validity</td><td></td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Term of validity of the visa: commencement date and expiry date</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Visa category</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Visa vignette number</td><td></td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Visa issued on separate form (yes/no)</td><td></td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Visa vignette completed by hand</td><td></td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Duration of stay permitted by the visa</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td colspan="14">III. Data in the event of discontinuation of assessment of the application</td></tr>
+<tr><td>Status information: discontinued</td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td>A</td><td>A<sup>1</sup></td><td>A</td><td>A</td><td>A<sup>1</sup></td><td></td></tr>
+<tr><td>On behalf of another Schengen state (yes/no)</td><td></td><td>A</td><td></td><td></td><td></td><td></td><td>A</td><td>A<sup>1</sup></td><td>A</td><td>A</td><td>A<sup>1</sup></td><td></td></tr>
+<tr><td>Name and address of authority</td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td>A</td><td>A<sup>1</sup></td><td>A</td><td>A</td><td>A<sup>1</sup></td><td></td></tr>
+<tr><td>Place and date of decision</td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td>A</td><td>A<sup>1</sup></td><td>A</td><td>A</td><td>A<sup>1</sup></td><td></td></tr>
+<tr><td>Schengen state responsible for assessing the application</td><td></td><td>A</td><td></td><td></td><td></td><td></td><td>A</td><td>A<sup>1</sup></td><td>A</td><td>A</td><td>A<sup>1</sup></td><td></td></tr>
+<tr><td colspan="14">IV. Data in the event of refusal of the visa</td></tr>
+<tr><td>Status information: refused</td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td>A</td><td>A<sup>1</sup></td><td>A</td><td>A</td><td>A<sup>1</sup></td><td>A</td></tr>
+<tr><td>On behalf of another Schengen state (yes/no)</td><td></td><td>A</td><td></td><td></td><td></td><td></td><td>A</td><td>A<sup>1</sup></td><td>A</td><td>A</td><td>A<sup>1</sup></td><td>A</td></tr>
+<tr><td>Name and address of authority</td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td>A</td><td>A<sup>1</sup></td><td>A</td><td>A</td><td>A<sup>1</sup></td><td>A</td></tr>
+<tr><td>Place and date of decision</td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td>A</td><td>A<sup>1</sup></td><td>A</td><td>A</td><td>A<sup>1</sup></td><td>A</td></tr>
+<tr><td>Reasons for refusal</td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td>A</td><td>A<sup>1</sup></td><td>A</td><td>A</td><td>A<sup>1</sup></td><td>A</td></tr>
+<tr><td colspan="14">V. Data in the event of annulment or revocation of a visa</td></tr>
+<tr><td>Status information: annulled, revoked</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>On behalf of another Schengen state (yes/no)</td><td></td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Name and address of authority</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Place and date of decision</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Reasons for annulment or revocation (to be entered by hand)</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td colspan="14">VI. Data in the event of extension of a visa</td></tr>
+<tr><td>Status information: extended</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>On behalf of another Schengen state (yes/no)</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Name and address of authority</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Place and date of decision</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Commencement and expiry date of the extension</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Visa vignette number of the extended visa</td><td></td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Extended duration of the permitted stay</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Area into which the visa holder may travel if the extended visa is valid for different territory from the original visa</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>On behalf of another Schengen state (yes/no)</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Reasons for the extension</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td colspan="14">VII. Links between applications</td></tr>
+<tr><td>Linked application data files (family relationship: spouse, children)</td><td></td><td>A</td><td>A<sup>2</sup></td><td>A<sup>2</sup></td><td>A<sup>2</sup></td><td>A<sup>2</sup></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td></tr>
+<tr><td>Linked application data files (group)</td><td></td><td>A</td><td></td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td></tr>
+<tr><td>Consecutive application data files from the applicant</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A<sup>1</sup></td><td>A</td><td>A</td><td>A<sup>1</sup></td><td>A</td></tr>
 </table>
 
 [^annex3-lvlu1-1]: See footnote to Art. 15 para. 1.
@@ -1032,6 +1060,6 @@ Annex 4
 
 ## Amendment of another enactment
 
-...[^annex4-lvlu1-1]
+…[^annex4-lvlu1-1]
 
-[^annex4-lvlu1-1]: The amendment may be consulted under [AS 2014 3](https://fedlex.data.admin.ch/eli/oc/2014/2)..
+[^annex4-lvlu1-1]: The amendment may be consulted under [AS 2014 3](https://fedlex.data.admin.ch/eli/oc/2014/2).

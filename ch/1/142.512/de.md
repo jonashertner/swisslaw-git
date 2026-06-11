@@ -4,11 +4,11 @@ title: "Verordnung vom 18. Dezember 2013 über das zentrale Visa-Informationssys
 short: VISV
 eli: "https://fedlex.data.admin.ch/eli/cc/2014/2"
 language: de
-version: 2025-01-01
+version: 2026-06-12
 adopted: 2013-12-18
 in_force: 2014-01-20
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/2/20250101/de/xml/fedlex-data-admin-ch-eli-cc-2014-2-20250101-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2014/2/20250101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/2/20260612/de/xml/fedlex-data-admin-ch-eli-cc-2014-2-20260612-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2014/2/20260612/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2014/2/20250101/de"
 
 (Visa-Informationssystem-Verordnung, VISV)
 
-vom 18. Dezember 2013 (Stand am 1. Januar 2025)
+vom 18. Dezember 2013 (Stand am 12. Juni 2026)
 
 Der Schweizerische Bundesrat,
 
@@ -169,6 +169,16 @@ ORBIS dient folgenden Zwecken:
 
 [^9-1]: Siehe Fussnote zu Art. 2 Bst. a.
 
+#### Art. 9a
+
+**Interoperabilität**[^9a-1]
+
+<sup>1</sup> Die Identitätsdaten, die Daten zu den Reisedokumenten und die biometrischen Daten der Visumgesuchstellerinnen und -steller werden automatisch im gemeinsamen Speicher für Identitätsdaten (CIR) gespeichert.
+
+<sup>2</sup> Beim Anlegen oder Aktualisieren eines Dossiers im C-VIS wird im CIR und im SIS automatisch eine Prüfung auf Mehrfachidentitäten eingeleitet. Diese erfolgt anhand der Identitätsdaten, der Daten zu den Reisedokumenten und der biometrischen Daten.
+
+[^9a-1]: Eingefügt durch Ziff. I der V vom 6. Mai 2026, in Kraft seit 12. Juni 2026 ([AS 2026 221](https://fedlex.data.admin.ch/eli/oc/2026/221)).
+
 ### 3. Abschnitt: Online-Zugang zum ORBIS
 
 ### (Art. 109*c* AIG)
@@ -199,7 +209,7 @@ Die folgenden Behörden haben zur Erfüllung der ihnen übertragenen Aufgaben on
 
   - 1\. der Rechtsdienst: zum Erlass von Verfügungen von Fernhaltemassnahmen zur Wahrung der inneren und äusseren Sicherheit der Schweiz nach den Artikeln 67 Absatz 4 und 68 Absatz 3 AIG,
   - 2\.[^10-3] die für das automatisierte Polizeifahndungssystem (RIPOL) zuständigen Dienststellen: zur Personenidentifikation im Zusammenhang mit der Kontrolle der RIPOL-Erfassung nach der RIPOL-Verordnung vom 26. Oktober 2016[^10-4],
-  - 3\. die Dienststellen, die für den internationalen Schriftverkehr zuständig sind, und die Einsatzzentrale: zur Personenidentifikation in den Bereichen des interkantonalen und internationalen polizeilichen Nachrichtenaustausches sowie zur Prüfung von Fernhaltemassnahmen zur Wahrung der inneren und äusseren Sicherheit der Schweiz,
+  - 3\. die Dienststellen, die für den internationalen Schriftverkehr zuständig sind, und die Einsatz- und Alarmzentrale[^10-5]: zur Personenidentifikation in den Bereichen des interkantonalen und internationalen polizeilichen Nachrichtenaustausches sowie zur Prüfung von Fernhaltemassnahmen zur Wahrung der inneren und äusseren Sicherheit der Schweiz,
   - 4\.
 
     die zuständigen Dienststellen der Bundeskriminalpolizei:
@@ -209,18 +219,18 @@ Die folgenden Behörden haben zur Erfüllung der ihnen übertragenen Aufgaben on
 
   - 5\. der Dienst Ausweisschriften und Nachforschungen nach vermissten Personen: zu Nachforschungen im Zusammenhang mit dem Aufenthalt dieser Personen,
   - 6\. die für die Führung des automatisierten Fingerabdruck-Identifikationssystems (AFIS) zuständige Dienststelle: zur Personenidentifikation nach Artikel 102 Absatz 1 AIG,
-  - 7\. der zuständige Dienst bei der Meldestelle Geldwäscherei: zur Identifikation von Personen und zur Feststellung ihres Aufenthaltsstatus im Zusammenhang mit der gesetzlichen Aufgabe der Meldestelle im Kampf gegen Geldwäscherei und deren Vortaten, organisiertes Verbrechen und Terrorismusfinanzierung nach Artikel 23 des Geldwäschereigesetzes vom 10. Oktober 1997[^10-5];
+  - 7\. der zuständige Dienst bei der Meldestelle Geldwäscherei: zur Identifikation von Personen und zur Feststellung ihres Aufenthaltsstatus im Zusammenhang mit der gesetzlichen Aufgabe der Meldestelle im Kampf gegen Geldwäscherei und deren Vortaten, organisiertes Verbrechen und Terrorismusfinanzierung nach Artikel 23 des Geldwäschereigesetzes vom 10. Oktober 1997[^10-6];
 
-- g.[^10-6] die kantonalen und kommunalen Migrationsbehörden sowie die kantonalen und kommunalen Polizeibehörden: zur Erfüllung ihrer Aufgaben im Ausländerbereich;
+- g.[^10-7] die kantonalen und kommunalen Migrationsbehörden sowie die kantonalen und kommunalen Polizeibehörden: zur Erfüllung ihrer Aufgaben im Ausländerbereich;
 - h. die Zivilstandsämter und ihre Aufsichtsbehörden sowie das Eidgenössische Amt für Zivilstandswesen: zur Prüfung der Rechtmässigkeit des Aufenthalts in der Schweiz von Verlobten ohne schweizerische Staatsbürgerschaft sowie zur Mitteilung der Identität von Verlobten, die keinen Nachweis für die Rechtmässigkeit ihres Aufenthalts erbracht haben, an die zuständige Behörde;
 - i.
 
   beim Bundesamt für Justiz:
 
-  - 1\. der Direktionsbereich Internationale Rechtshilfe: zur Erfüllung seiner Aufgaben im Zusammenhang mit Verfahren der internationalen Rechtshilfe nach dem Rechtshilfegesetz vom 20. März 1981[^10-7],
-  - 2\. der Direktionsbereich Privatrecht: zur Erfüllung seiner Aufgaben im Zusammenhang mit Verfahren nach dem Bundesgesetz vom 21. Dezember 2007[^10-8] über internationale Kindesentführung und die Haager Übereinkommen zum Schutz von Kindern und Erwachsenen;
+  - 1\. der Direktionsbereich Internationale Rechtshilfe: zur Erfüllung seiner Aufgaben im Zusammenhang mit Verfahren der internationalen Rechtshilfe nach dem Rechtshilfegesetz vom 20. März 1981[^10-8],
+  - 2\. der Direktionsbereich Privatrecht: zur Erfüllung seiner Aufgaben im Zusammenhang mit Verfahren nach dem Bundesgesetz vom 21. Dezember 2007[^10-9] über internationale Kindesentführung und die Haager Übereinkommen zum Schutz von Kindern und Erwachsenen;
 
-- j. der Nachrichtendienst des Bundes: zur Prüfung von Fernhaltemassnahmen zur Wahrung der inneren und äusseren Sicherheit der Schweiz nach dem Bundesgesetz vom 21. März 1997[^10-9] über Massnahmen zur Wahrung der inneren Sicherheit;
+- j. der Nachrichtendienst des Bundes: zur Prüfung von Fernhaltemassnahmen zur Wahrung der inneren und äusseren Sicherheit der Schweiz nach dem Bundesgesetz vom 21. März 1997[^10-10] über Massnahmen zur Wahrung der inneren Sicherheit;
 - k. das Bundesverwaltungsgericht: für die Instruktion von Beschwerden nach dem AIG;
 - l.
 
@@ -229,29 +239,30 @@ Die folgenden Behörden haben zur Erfüllung der ihnen übertragenen Aufgaben on
   - 1\. der Erhebung der Mehrwertsteuer auf den im Inland von steuerpflichtigen Personen gegen Entgelt erbrachten Leistungen (Inlandsteuer) und auf dem Bezug von Leistungen von Unternehmen mit Sitz im Ausland durch Empfängerinnen und Empfänger im Inland (Bezugsteuer) sowie bei der Erhebung der Verrechnungssteuer,
   - 2\. der Durchführung von Strafverfahren und von Amts- oder Rechtshilfeverfahren;
 
-- m.[^10-10]
+- m.[^10-11]
 
-  das Bundesamt für Zoll und Grenzsicherheit[^10-11]:
+  das Bundesamt für Zoll und Grenzsicherheit[^10-12]:
 
   - 1\. zur Erfüllung ihrer Aufgaben bei der Erhebung der Mehrwertsteuer auf der Einfuhr von Gegenständen (Einfuhrsteuer),
   - 2\. zur Personenidentifikation im Zusammenhang mit der Zollfahndung;
 
-- n.[^10-12] …
+- n.[^10-13] …
 
 <sup>2</sup> Die Zugangsberechtigungen sind in Anhang 2 geregelt.
 
-[^10-1]: Fassung gemäss Ziff. I der V vom 27. Nov. 2024, in Kraft seit 1. Jan. 2025 (AS **202****4** 715).
+[^10-1]: Fassung gemäss Ziff. I der V vom 27. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 715](https://fedlex.data.admin.ch/eli/oc/2024/715)).
 [^10-2]: Ausdruck gemäss Anhang Ziff. II 2 der V vom 17. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)).
 [^10-3]: Fassung gemäss Ziff. I der V vom 10. Mai 2023, in Kraft seit 15. Juni 2023 ([AS 2023 246](https://fedlex.data.admin.ch/eli/oc/2023/246)).
 [^10-4]: [SR 361.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6308)
-[^10-5]: [SR 955.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11599)
-[^10-6]: Fassung gemäss Ziff. I der V vom 19. Febr. 2020, in Kraft seit 1. April 2020 ([AS 2020 917](https://fedlex.data.admin.ch/eli/oc/2020/175)).
-[^10-7]: [SR 351.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6277)
-[^10-8]: [SR 211.222.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5742)
-[^10-9]: [SR 120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4735)
-[^10-10]: Fassung gemäss Ziff. I der V vom 21. Nov. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 4567](https://fedlex.data.admin.ch/eli/oc/2018/715)).
-[^10-11]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)) auf den 1. Jan. 2022 angepasst ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Diese Anpassung wurde im ganzen Text vorgenommen.
-[^10-12]: Aufgehoben durch Ziff. I der V vom 21. Nov. 2018, mit Wirkung seit 1. Jan. 2019 ([AS 2018 4567](https://fedlex.data.admin.ch/eli/oc/2018/715)).
+[^10-5]: Ausdruck gemäss Ziff. I der V vom 6. Mai 2026, in Kraft seit 12. Juni 2026 ([AS 2026 221](https://fedlex.data.admin.ch/eli/oc/2026/221)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
+[^10-6]: [SR 955.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11599)
+[^10-7]: Fassung gemäss Ziff. I der V vom 19. Febr. 2020, in Kraft seit 1. April 2020 ([AS 2020 917](https://fedlex.data.admin.ch/eli/oc/2020/175)).
+[^10-8]: [SR 351.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6277)
+[^10-9]: [SR 211.222.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5742)
+[^10-10]: [SR 120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4735)
+[^10-11]: Fassung gemäss Ziff. I der V vom 21. Nov. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 4567](https://fedlex.data.admin.ch/eli/oc/2018/715)).
+[^10-12]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)) auf den 1. Jan. 2022 angepasst ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Diese Anpassung wurde im ganzen Text vorgenommen.
+[^10-13]: Aufgehoben durch Ziff. I der V vom 21. Nov. 2018, mit Wirkung seit 1. Jan. 2019 ([AS 2018 4567](https://fedlex.data.admin.ch/eli/oc/2018/715)).
 
 ## 3. Kapitel: Zentrales Visa-Informationssystem
 
@@ -272,27 +283,35 @@ Die folgenden Behörden können zur Erfüllung der ihnen übertragenen Aufgaben 
   - 1\. die Abteilung Einreise und die Abteilung Zulassung Aufenthalt: zur Erfüllung ihrer Aufgaben im Visumbereich,
   - 2\. die Dublin-Sektionen sowie die mit der Prüfung der Asylgesuche beauftragten Mitarbeiterinnen und Mitarbeiter der Empfangs- und Verfahrenszentren: zur Bestimmung des für die Prüfung eines Asylgesuchs zuständigen Dublin-Staates,
   - 3\. der Direktionsbereich Asyl: zur Prüfung von Asylgesuchen, über die die Schweiz entscheiden muss,
-  - 4\. der Statistikdienst: zur Erstellung von Visastatistiken nach Artikel 17 der EU-VIS-Verordnung[^11-1];
+  - 4\. der Statistikdienst: zur Erstellung von Visastatistiken nach Artikel 17 der EU-VIS-Verordnung[^11-1],
+  - 5\.[^11-2] die Abteilung Identifikation und Sicherheitsprüfung: zur Erfüllung der Aufgaben im Rahmen der Überprüfung nach der Verordnung (EU) 2024/1356[^11-3],
+  - 6\.[^11-4] der Direktionsbereich Bundesasylzentren: zur Erfüllung der Aufgaben im Rahmen der Überprüfung nach der Verordnung (EU) 2024/1356;
 
 - b. die Grenzposten der kantonalen Polizeibehörden und das Grenzwachtkorps: zur Ausstellung von Ausnahmevisa;
 - c. die schweizerischen Vertretungen im Ausland und die Mission der Schweiz bei der UNO in Genf: zur Prüfung von Visumgesuchen;
 - d. das Staatssekretariat, die Konsularische Direktion und die Politische Direktion des EDA: zur Prüfung der Visumgesuche im Zuständigkeitsbereich des EDA;
 - e.
 
-  das Grenzwachtkorps und die zuständigen kantonalen und kommunalen Polizeibehörden:[^11-2]
+  das Grenzwachtkorps und die zuständigen kantonalen und kommunalen Polizeibehörden:[^11-5]
 
   - 1\. zur Durchführung von Kontrollen an den Aussengrenzen des Schengen-Raums und im Hoheitsgebiet der Schweiz,
   - 2\. zur Überprüfung der Identität von Visuminhaberinnen oder Visuminhabern, zur Prüfung der Echtheit von Visa oder zur Prüfung, ob die Voraussetzungen für eine Einreise in das Hoheitsgebiet der Schweiz oder für den dortigen Aufenthalt erfüllt sind,
   - 3\. zur Identifikation von Personen ohne Visum, welche die Voraussetzungen für die Einreise in das Hoheitsgebiet der Schweiz oder für den dortigen Aufenthalt nicht oder nicht mehr erfüllen;
 
-- f. die kantonalen Migrationsbehörden und die Gemeinden, auf welche die entsprechenden Kompetenzen durch die Kantone übertragen wurden: zur Erfüllung der Aufgaben im Visumbereich.
+- f. die kantonalen Migrationsbehörden und die Gemeinden, auf welche die entsprechenden Kompetenzen durch die Kantone übertragen wurden: zur Erfüllung der Aufgaben im Visumbereich;
+- g.[^11-6] die kantonalen Polizeibehörden, das Bundesamt für Zoll und Grenzsicherheit sowie die kantonalen Migrationsbehörden: zur Erfüllung der Aufgaben im Rahmen der Überprüfung nach der Verordnung (EU) 2024/1356.
 
-<sup>2</sup> Die Einsatzzentrale fedpol (EZ fedpol) kann als zentrale Zugangsstelle online Daten des C-VIS abfragen (Art. 20).
+<sup>2</sup> Die Einsatz- und Alarmzentrale fedpol (EAZ fedpol[^11-7]) kann als zentrale Zugangsstelle online Daten des C-VIS abfragen (Art. 20).
 
 <sup>3</sup> Die Abfrageberechtigungen sind in Anhang 3 geregelt.
 
 [^11-1]: Siehe Fussnote zu Art. 2 Bst. a.
-[^11-2]: Fassung gemäss Ziff. I der V vom 19. Febr. 2020, in Kraft seit 1. April 2020 ([AS 2020 917](https://fedlex.data.admin.ch/eli/oc/2020/175)).
+[^11-2]: Eingefügt durch Ziff. I der V vom 20. Mai 2026, in Kraft seit 12. Juni 2026 ([AS 2026 267](https://fedlex.data.admin.ch/eli/oc/2026/267)).
+[^11-3]: Verordnung (EU) 2024/1356 des Europäischen Parlaments und des Rates vom 14. Mai 2024 zur Einführung der Überprüfung von Drittstaatsangehörigen an den Aussengrenzen und zur Änderung der Verordnungen (EG) Nr. 767/2008, (EU) 2017/2226, (EU) 2018/1240 und (EU) 2019/817, Fassung gemäss ABl. L, 2024/1356, 22.5.2024.
+[^11-4]: Eingefügt durch Ziff. I der V vom 20. Mai 2026, in Kraft seit 12. Juni 2026 ([AS 2026 267](https://fedlex.data.admin.ch/eli/oc/2026/267)).
+[^11-5]: Fassung gemäss Ziff. I der V vom 19. Febr. 2020, in Kraft seit 1. April 2020 ([AS 2020 917](https://fedlex.data.admin.ch/eli/oc/2020/175)).
+[^11-6]: Eingefügt durch Ziff. I der V vom 20. Mai 2026, in Kraft seit 12. Juni 2026 ([AS 2026 267](https://fedlex.data.admin.ch/eli/oc/2026/267)).
+[^11-7]: Ausdruck gemäss Ziff. I der V vom 6. Mai 2026, in Kraft seit 12. Juni 2026 ([AS 2026 221](https://fedlex.data.admin.ch/eli/oc/2026/221)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
 
 ### 2. Abschnitt: Datenkategorien für die Abfrage des C-VIS und Umfang der Abfragerechte
 
@@ -395,7 +414,7 @@ Die folgenden Bundesbehörden können im Sinne von Artikel 109*a* Absatz 3 Buchs
 
   bei fedpol:
 
-  - 1\. die Einsatzzentrale,
+  - 1\. die Einsatz- und Alarmzentrale,
   - 2\. die Bundeskriminalpolizei,
   - 3\. der Dienst Internationale Identifizierungen;
 
@@ -436,32 +455,33 @@ Die folgenden kantonalen und kommunalen Behörden können im Sinne von Artikel 1
 
 **Verfahren für den Erhalt der Daten**
 
-<sup>1</sup> Die Behörden nach den Artikeln 17 und 18 reichen bei der EZ fedpol in Papierform oder elektronisch ein begründetes Gesuch um Zugang zu den Daten des C-VIS ein.
+<sup>1</sup> Die Behörden nach den Artikeln 17 und 18 reichen bei der EAZ fedpol in Papierform oder elektronisch ein begründetes Gesuch um Zugang zu den Daten des C‑VIS und das Resultat der Abfrage des CIR ein.[^19-1]
 
-<sup>2</sup> In dringenden Ausnahmefällen kann eine Behörde ein Gesuch auch mündlich stellen. Die EZ fedpol bearbeitet das Gesuch unverzüglich und überprüft nachträglich, ob die Voraussetzungen nach Artikel 20 erfüllt waren und ob es sich tatsächlich um einen dringenden Ausnahmefall handelte. Die nachträgliche Überprüfung ist unverzüglich nach der Bearbeitung des Gesuchs durchzuführen.
+<sup>2</sup> In dringenden Ausnahmefällen kann eine Behörde ein Gesuch auch mündlich stellen. Die EAZ fedpol bearbeitet das Gesuch unverzüglich und überprüft nachträglich, ob die Voraussetzungen nach Artikel 20 erfüllt waren und ob es sich tatsächlich um einen dringenden Ausnahmefall handelte. Die nachträgliche Überprüfung ist unverzüglich nach der Bearbeitung des Gesuchs durchzuführen.
 
 <sup>3</sup> Fedpol legt in einem Bearbeitungsreglement die Modalitäten des Verfahrens fest.
 
+[^19-1]: Fassung gemäss Ziff. I der V vom 6. Mai 2026, in Kraft seit 12. Juni 2026 ([AS 2026 221](https://fedlex.data.admin.ch/eli/oc/2026/221)).
+
 #### Art. 20
 
-**Voraussetzungen für den Erhalt der Daten**
+**[Voraussetzungen für den Erhalt der Daten](https://www.fedlex.admin.ch/eli/cc/2014/2/de)**[^20-1]
 
-Die EZ fedpol überprüft, ob:
+Die EAZ fedpol überprüft, ob:
 
-- a.[^20-1] die Daten zur Verhütung, Aufdeckung oder Ermittlung von terroristischen oder sonstigen schweren Straftaten erforderlich sind;
-- b. ihre Übermittlung im Einzelfall gerechtfertigt ist;
-- c.[^20-2] berechtigte Gründe zur Annahme bestehen, dass ihre Übermittlung zur Verhütung, Aufdeckung oder Ermittlung von terroristischen oder sonstigen schweren Straftaten erheblich beitragen wird.
+- a. die Daten zur Verhütung, Aufdeckung oder Ermittlung terroristischer oder sonstiger schwerer Straftaten erforderlich sind;
+- b. die Datenbekanntgabe im Einzelfall verhältnismässig ist; und
+- c. Beweise vorliegen oder hinreichende Gründe zur Annahme bestehen, dass die Datenbekanntgabe dazu beitragen wird, den damit verfolgten Zweck zu erfüllen.
 
-[^20-1]: Fassung gemäss Ziff. I der V vom 10. Nov. 2021, in Kraft seit 1. Mai 2022 ([AS 2022 735](https://fedlex.data.admin.ch/eli/oc/2022/735)).
-[^20-2]: Fassung gemäss Ziff. I der V vom 10. Nov. 2021, in Kraft seit 1. Mai 2022 ([AS 2022 735](https://fedlex.data.admin.ch/eli/oc/2022/735)).
+[^20-1]: Fassung gemäss Ziff. I der V vom 6. Mai 2026, in Kraft seit 12. Juni 2026 ([AS 2026 221](https://fedlex.data.admin.ch/eli/oc/2026/221)).
 
 #### Art. 21
 
 **Abfrage und Übermittlung der Daten**
 
-<sup>1</sup> Sind die Voraussetzungen nach Artikel 20 erfüllt, so fragt die EZ fedpol die Daten des C-VIS ab. Die Abfrage darf ausschliesslich anhand der in Artikel 5 Absatz 2 des Beschlusses 2008/633/JI[^21-1] (EU-VIS-Beschluss) festgelegten Daten und gemäss den in Anhang 3 festgelegten Abfrageberechtigungen durchgeführt werden.
+<sup>1</sup> Sind die Voraussetzungen nach Artikel 20 erfüllt, so fragt die EAZ fedpol die Daten des C-VIS ab. Die Abfrage darf ausschliesslich anhand der in Artikel 5 Absatz 2 des Beschlusses 2008/633/JI[^21-1] (EU-VIS-Beschluss) festgelegten Daten und gemäss den in Anhang 3 festgelegten Abfrageberechtigungen durchgeführt werden.
 
-<sup>2</sup> Ergibt die Abfrage einen Treffer, so übermittelt die EZ fedpol die in Artikel 5 Absatz 3 des EU-VIS-Beschlusses genannten Daten der Behörde auf gesichertem Weg.
+<sup>2</sup> Ergibt die Abfrage einen Treffer, so übermittelt die EAZ fedpol die in Artikel 5 Absatz 3 des EU-VIS-Beschlusses genannten Daten der Behörde auf gesichertem Weg.
 
 [^21-1]: Beschluss 2008/633/JI des Rates vom 23. Juni 2008 über den Zugang der benannten Behörden der Mitgliedstaaten und von Europol zum Visa-Informationssystem (VIS) für Datenabfragen zum Zwecke der Verhütung, Aufdeckung und Ermittlung terroristischer und sonstiger schwerwiegender Straftaten, Fassung gemäss ABl. L 218 vom 13.8.2008, S. 129.
 
@@ -469,13 +489,13 @@ Die EZ fedpol überprüft, ob:
 
 **Informationsaustausch mit den EU-Mitgliedstaaten, für welche die EU-VIS-Verordnung nicht in Kraft ist**
 
-<sup>1</sup> Die EU-Mitgliedstaaten, für welche die EU-VIS-Verordnung[^22-1] nicht in Kraft ist, können Gesuche um Erhalt von Daten des C-VIS entweder direkt über die sicheren, für den kriminalpolizeilichen Schriftverkehr bestimmten Verbindungen an die EZ fedpol oder an die anderen Behörden nach den Artikeln 17 und 18 richten.
+<sup>1</sup> Die EU-Mitgliedstaaten, für welche die EU-VIS-Verordnung[^22-1] nicht in Kraft ist, können Gesuche um Erhalt von Daten des C-VIS entweder direkt über die sicheren, für den kriminalpolizeilichen Schriftverkehr bestimmten Verbindungen an die EAZ fedpol oder an die anderen Behörden nach den Artikeln 17 und 18 richten.
 
-<sup>2</sup> Die EZ fedpol überprüft die Gesuche und beantwortet sie direkt.
+<sup>2</sup> Die EAZ fedpol überprüft die Gesuche und beantwortet sie direkt.
 
 <sup>3</sup> Das Verfahren richtet sich nach Artikel 19.
 
-<sup>4</sup> Die EZ fedpol kann im Hinblick auf den Erhalt von Informationen im Visumbereich Gesuche an die zuständigen Behörden der EU-Mitgliedstaaten richten, für welche die EU-VIS-Verordnung nicht in Kraft ist.
+<sup>4</sup> Die EAZ fedpol kann im Hinblick auf den Erhalt von Informationen im Visumbereich Gesuche an die zuständigen Behörden der EU-Mitgliedstaaten richten, für welche die EU-VIS-Verordnung nicht in Kraft ist.
 
 [^22-1]: Siehe Fussnote zu Art. 2 Bst. a.
 
@@ -571,7 +591,7 @@ Erwirbt eine Person das Schweizer Bürgerrecht, so:
 
 <sup>1</sup> Daten des C-VIS dürfen nach Artikel 30 der EU-VIS-Verordnung[^29-1] im ZEMIS, im ORBIS, im Informationssystem RUMACA des Grenzwachtkorps oder in entsprechenden Informationssystemen der kantonalen und kommunalen Polizeibehörden gespeichert werden, wenn die Speicherung im Einzelfall erforderlich ist und solange der betreffende Fall bearbeitet wird.[^29-2]
 
-<sup>2</sup> Die Behörden nach den Artikeln 17 und 18 müssen die von der EZ fedpol erhaltenen Daten unverzüglich vernichten, ausser wenn sich diese für die Zwecke des EU-VIS-Beschlusses[^29-3] als erforderlich erweisen. Sie müssen die Daten vernichten, sobald diese nicht mehr erforderlich sind.
+<sup>2</sup> Die Behörden nach den Artikeln 17 und 18 müssen die von der EAZ fedpol erhaltenen Daten unverzüglich vernichten, ausser wenn sich diese für die Zwecke des EU-VIS-Beschlusses[^29-3] als erforderlich erweisen. Sie müssen die Daten vernichten, sobald diese nicht mehr erforderlich sind.
 
 <sup>3</sup> Jede Verwendung von Daten, die den Absätzen 1 und 2 widerspricht, gilt als Missbrauch im Sinne von Artikel 120*d* AIG.
 
@@ -656,17 +676,19 @@ Die Haftung für Schäden im Zusammenhang mit dem Betrieb des ORBIS richtet sich
 
 **Datensicherheit**
 
-Die Datensicherheit richtet sich nach:
+Die Datensicherheit richtet sich nach Artikel 32 der EU-VIS-Verordnung[^34-1] und nach:[^34-2]
 
-- a.[^34-1] der DSV[^34-2];
-- b.[^34-3] der Informationssicherheitsverordnung vom 8. November 2023[^34-4];
-- c.[^34-5] …
+- a.[^34-3] der DSV[^34-4];
+- b.[^34-5] der Informationssicherheitsverordnung vom 8. November 2023[^34-6];
+- c.[^34-7] …
 
-[^34-1]: Fassung gemäss Anhang 2 Ziff. II 7 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
-[^34-2]: [SR 235.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5994)
-[^34-3]: Fassung gemäss Anhang 2 Ziff. II 5 der Informationssicherheitsverordnung vom 8. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
-[^34-4]: [SR 128.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40166)
-[^34-5]: Aufgehoben durch Anhang Ziff. 4 der V vom 24. Febr. 2021, mit Wirkung seit 1. April 2021 ([AS 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
+[^34-1]: Siehe Fussnote zu Art. 2 Bst. a.
+[^34-2]: Fassung gemäss Ziff. I der V vom 6. Mai 2026, in Kraft seit 12. Juni 2026 ([AS 2026 221](https://fedlex.data.admin.ch/eli/oc/2026/221)).
+[^34-3]: Fassung gemäss Anhang 2 Ziff. II 7 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^34-4]: [SR 235.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5994)
+[^34-5]: Fassung gemäss Anhang 2 Ziff. II 5 der Informationssicherheitsverordnung vom 8. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
+[^34-6]: [SR 128.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40166)
+[^34-7]: Aufgehoben durch Anhang Ziff. 4 der V vom 24. Febr. 2021, mit Wirkung seit 1. April 2021 ([AS 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
 
 #### Art. 35
 
@@ -735,49 +757,55 @@ Die Änderung eines anderen Erlasses wird in Anhang 4 geregelt.
 
 Diese Verordnung tritt am 20. Januar 2014 in Kraft.
 
-Anhang 1
+Anhang 1[^t-1]
 
 (Art. 2 Bst. c und d)
 
-## 1. Schengen-Assoziierungsabkommen
+## Schengen- und Dublin-Assoziierungsabkommen
+
+[^t-1]: Fassung gemäss Ziff. II der V vom 20. Mai 2026, in Kraft seit 12. Juni 2026 ([AS 2026 267](https://fedlex.data.admin.ch/eli/oc/2026/267)).
+
+### 1. Schengen-Assoziierungsabkommen
 
 Die Schengen-Assoziierungsabkommen umfassen:
 
-- a. Abkommen vom 26. Oktober 2004[^annex1-lvl1-1] zwischen der Schweizerischen Eidgenossenschaft, der Europäischen Union und der Europäischen Gemeinschaft über die Assoziierung dieses Staates bei der Umsetzung, Anwendung und Entwicklung des Schengen-Besitzstands (SAA);
-- b. Abkommen vom 26. Oktober 2004[^annex1-lvl1-2] in Form eines Briefwechsels zwischen dem Rat der Europäischen Union und der Schweizerischen Eidgenossenschaft über die Ausschüsse, die die Europäische Kommission bei der Ausübung ihrer Durchführungsbefugnisse unterstützen;
-- c. Vereinbarung vom 22. September 2011[^annex1-lvl1-3] zwischen der Europäischen Union sowie der Republik Island, dem Fürstentum Liechtenstein, dem Königreich Norwegen und der Schweizerischen Eidgenossenschaft über die Beteiligung dieser Staaten an der Arbeit der Ausschüsse, die die Europäische Kommission bei der Ausübung ihrer Durchführungsbefugnisse in Bezug auf die Umsetzung, Anwendung und Entwicklung des Schengen-Besitzstands unterstützen;
-- d. Übereinkommen vom 17. Dezember 2004[^annex1-lvl1-4] zwischen der Schweizerischen Eidgenossenschaft, der Republik Island und dem Königreich Norwegen über die Umsetzung, Anwendung und Entwicklung des Schengen-Besitzstands und über die Kriterien und Verfahren zur Bestimmung des zuständigen Staates für die Prüfung eines in der Schweiz, in Island oder in Norwegen gestellten Asylantrags;
-- e. Abkommen vom 28. April 2005[^annex1-lvl1-5] zwischen der Schweizerischen Eidgenossenschaft und dem Königreich Dänemark über die Umsetzung, Anwendung und Entwicklung derjenigen Teile des Schengen-Besitzstands, die auf Bestimmungen des Titels IV des Vertrags zur Gründung der Europäischen Gemeinschaft basieren;
-- f. Protokoll vom 28. Februar 2008[^annex1-lvl1-6] zwischen der Schweizerischen Eidgenossenschaft, der Europäischen Union, der Europäischen Gemeinschaft und dem Fürstentum Liechtenstein über den Beitritt des Fürstentums Liechtenstein zu dem Abkommen zwischen der Schweizerischen Eidgenossenschaft, der Europäischen Union und der Europäischen Gemeinschaft über die Assoziierung der Schweizerischen Eidgenossenschaft bei der Umsetzung, Anwendung und Entwicklung des Schengen-Besitzstands*.*
+- a. das Abkommen vom 26. Oktober 2004[^annex1-lvlu1-lvl1-1] zwischen der Schweizerischen Eidgenossenschaft, der Europäischen Union und der Europäischen Gemeinschaft über die Assoziierung dieses Staates bei der Umsetzung, Anwendung und Entwicklung des Schengen-Besitzstands;
+- b. das Abkommen vom 26. Oktober 2004[^annex1-lvlu1-lvl1-2] in Form eines Briefwechsels zwischen dem Rat der Europäischen Union und der Schweizerischen Eidgenossenschaft über die Ausschüsse, die die Europäische Kommission bei der Ausübung ihrer Durchführungsbefugnisse unterstützen;
+- c. die Vereinbarung vom 22. September 2011[^annex1-lvlu1-lvl1-3] zwischen der Europäischen Union sowie der Republik Island, dem Fürstentum Liechtenstein, dem Königreich Norwegen und der Schweizerischen Eidgenossenschaft über die Beteiligung dieser Staaten an der Arbeit der Ausschüsse, die die Europäische Kommission bei der Ausübung ihrer Durchführungsbefugnisse in Bezug auf die Umsetzung, Anwendung und Entwicklung des Schengen-Besitzstands unterstützen;
+- d. das Übereinkommen vom 17. Dezember 2004[^annex1-lvlu1-lvl1-4] zwischen der Schweizerischen Eidgenossenschaft, der Republik Island und dem Königreich Norwegen über die Umsetzung, Anwendung und Entwicklung des Schengen-Besitzstands und über die Kriterien und Verfahren zur Bestimmung des zuständigen Staates für die Prüfung eines in der Schweiz, in Island oder in Norwegen gestellten Asylantrags;
+- e. das Abkommen vom 28. April 2005[^annex1-lvlu1-lvl1-5] zwischen der Schweizerischen Eidgenossenschaft und dem Königreich Dänemark über die Umsetzung, Anwendung und Entwicklung derjenigen Teile des Schengen-Besitzstands, die auf Bestimmungen des Titels IV des Vertrags zur Gründung der Europäischen Gemeinschaft basieren;
+- f. das Protokoll vom 28. Februar 2008[^annex1-lvlu1-lvl1-6] zwischen der Schweizerischen Eidgenossenschaft, der Europäischen Union, der Europäischen Gemeinschaft und dem Fürstentum Liechtenstein über den Beitritt des Fürstentums Liechtenstein zu dem Abkommen zwischen der Schweizerischen Eidgenossenschaft, der Europäischen Union und der Europäischen Gemeinschaft über die Assoziierung der Schweizerischen Eidgenossenschaft bei der Umsetzung, Anwendung und Entwicklung des Schengen-Besitzstands*.*
 
-[^annex1-lvl1-1]: [SR 0.362.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1513)
-[^annex1-lvl1-2]: [SR 0.362.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1508)
-[^annex1-lvl1-3]: [SR 0.362.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1509)
-[^annex1-lvl1-4]: [SR 0.362.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1519)
-[^annex1-lvl1-5]: [SR 0.362.33](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1520)
-[^annex1-lvl1-6]: [SR 0.362.311](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1514)
+[^annex1-lvlu1-lvl1-1]: [SR 0.362.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1513)
+[^annex1-lvlu1-lvl1-2]: [SR 0.362.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1508)
+[^annex1-lvlu1-lvl1-3]: [SR 0.362.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1509)
+[^annex1-lvlu1-lvl1-4]: [SR 0.362.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1519)
+[^annex1-lvlu1-lvl1-5]: [SR 0.362.33](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1520)
+[^annex1-lvlu1-lvl1-6]: [SR 0.362.311](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1514)
 
-## 2. Dublin-Assoziierungsabkommen
+### 2. Dublin-Assoziierungsabkommen
 
 Die Dublin-Assoziierungsabkommen umfassen:
 
-- a. Abkommen vom 26. Oktober 2004[^annex1-lvl2-1] zwischen der Schweizerischen Eidgenossenschaft und der Europäischen Gemeinschaft über die Kriterien und Verfahren zur Bestimmung des zuständigen Staates für die Prüfung eines in einem Mitgliedstaat oder in der Schweiz gestellten Asylantrags (DAA);
-- b. Übereinkommen vom 17. Dezember 2004[^annex1-lvl2-2] zwischen der Schweizerischen Eidgenossenschaft, der Republik Island und dem Königreich Norwegen über die Umsetzung, Anwendung und Entwicklung des Schengen-Besitzstands und über die Kriterien und Verfahren zur Bestimmung des zuständigen Staates für die Prüfung eines in der Schweiz, in Island oder in Norwegen gestellten Asylantrags;
-- c. Protokoll vom 28. Februar 2008[^annex1-lvl2-3] zwischen der Schweizerischen Eidgenossenschaft, der Europäischen Gemeinschaft und dem Fürstentum Liechtenstein zu dem Abkommen zwischen der Schweizerischen Eidgenossenschaft und der Europäischen Gemeinschaft über die Kriterien und Verfahren zur Bestimmung des zuständigen Staates für die Prüfung eines in einem Mitgliedstaat oder in der Schweiz gestellten Asylantrags;
-- d. Protokoll vom 28. Februar 2008[^annex1-lvl2-4] zwischen der Schweizerischen Eidgenossenschaft, der Europäischen Gemeinschaft und dem Fürstentum Liechtenstein über den Beitritt des Fürstentums Liechtenstein zu dem Abkommen zwischen der Schweizerischen Eidgenossenschaft und der Europäischen Gemeinschaft über die Kriterien und Verfahren zur Bestimmung des zuständigen Staates für die Prüfung eines in einem Mitgliedstaat oder in der Schweiz gestellten Asylantrags.
+- a. das Abkommen vom 26. Oktober 2004[^annex1-lvlu1-lvl2-1] zwischen der Schweizerischen Eidgenossenschaft und der Europäischen Gemeinschaft über die Kriterien und Verfahren zur Bestimmung des zuständigen Staates für die Prüfung eines in einem Mitgliedstaat oder in der Schweiz gestellten Asylantrags;
+- b. das Übereinkommen vom 17. Dezember 2004[^annex1-lvlu1-lvl2-2] zwischen der Schweizerischen Eidgenossenschaft, der Republik Island und dem Königreich Norwegen über die Umsetzung, Anwendung und Entwicklung des Schengen-Besitzstands und über die Kriterien und Verfahren zur Bestimmung des zuständigen Staates für die Prüfung eines in der Schweiz, in Island oder in Norwegen gestellten Asylantrags;
+- c. das Protokoll vom 28. Februar 2008[^annex1-lvlu1-lvl2-3] zwischen der Schweizerischen Eidgenossenschaft, der Europäischen Gemeinschaft und dem Fürstentum Liechtenstein zum Abkommen zwischen der Schweizerischen Eidgenossenschaft und der Europäischen Gemeinschaft über die Kriterien und Verfahren zur Bestimmung des zuständigen Staates für die Prüfung eines in einem Mitgliedstaat oder in der Schweiz gestellten Asylantrags;
+- d. das Protokoll vom 28. Februar 2008[^annex1-lvlu1-lvl2-4] zwischen der Schweizerischen Eidgenossenschaft, der Europäischen Gemeinschaft und dem Fürstentum Liechtenstein über den Beitritt des Fürstentums Liechtenstein zum Abkommen zwischen der Schweizerischen Eidgenossenschaft und der Europäischen Gemeinschaft über die Kriterien und Verfahren zur Bestimmung des zuständigen Staates für die Prüfung eines in einem Mitgliedstaat oder in der Schweiz gestellten Asylantrags;
+- e. das Protokoll vom 27. Juni 2019[^annex1-lvlu1-lvl2-5] zwischen der Schweizerischen Eidgenossenschaft, der Europäischen Union und dem Fürstentum Liechtenstein zum Abkommen zwischen der Schweizerischen Eidgenossenschaft und der Europäischen Gemeinschaft über die Kriterien und Verfahren zur Bestimmung des zuständigen Staates für die Prüfung eines in einem Mitgliedstaat oder in der Schweiz gestellten Asylantrags betreffend den Zugang zu Eurodac für Gefahrenabwehr- und Strafverfolgungszwecke.
 
-[^annex1-lvl2-1]: [SR 0.142.392.68](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/443)
-[^annex1-lvl2-2]: [SR 0.362.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1519)
-[^annex1-lvl2-3]: [SR 0.142.393.141](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/451)
-[^annex1-lvl2-4]: [SR 0.142.395.141](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/452)
+[^annex1-lvlu1-lvl2-1]: [SR 0.142.392.68](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/443)
+[^annex1-lvlu1-lvl2-2]: [SR 0.362.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1519)
+[^annex1-lvlu1-lvl2-3]: [SR 0.142.393.141](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/451)
+[^annex1-lvlu1-lvl2-4]: [SR 0.142.395.141](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/452)
+[^annex1-lvlu1-lvl2-5]: [SR 0.142.392.682](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40016)
 
-Anhang 2[^t-1]
+Anhang 2[^t-2]
 
 (Art. 5 Abs. 1, 6 Abs. 1 und 10 Abs. 2)
 
 ## Zugangsberechtigungen beim ORBIS
 
-[^t-1]: Fassung gemäss Ziff. II der V vom 19. Febr. 2020, in Kraft seit 1. April 2020 ([AS 2020 917](https://fedlex.data.admin.ch/eli/oc/2020/175)).
+[^t-2]: Fassung gemäss Ziff. II der V vom 19. Febr. 2020, in Kraft seit 1. April 2020 ([AS 2020 917](https://fedlex.data.admin.ch/eli/oc/2020/175)).
 
 ### Zeichenerklärung
 
@@ -797,7 +825,7 @@ Organisationseinheiten:
 - BVGer Bundesverwaltungsgericht: vierte, fünfte und sechste Abteilung
 - EDA Eidgenössisches Departement für auswärtige Angelegenheiten: Staatssekretariat, Konsularische Direktion und Politische Direktion
 - ESTV Eidgenössische Steuerverwaltung
-- Fedpol Bundesamt für Polizei: Rechtsdienst, Bundeskriminalpolizei (BKP), Nationales Zentralbüro Interpol, Einsatzzentrale, Abteilung Ausweise und Zentralstellen, Abteilung biometrische Identifikation, Sektion MROS, Abteilung Fahndung und Aufsicht
+- Fedpol Bundesamt für Polizei: Rechtsdienst, Bundeskriminalpolizei (BKP), Nationales Zentralbüro Interpol, Einsatz- und Alarmzentrale, Abteilung Ausweise und Zentralstellen, Abteilung biometrische Identifikation, Sektion MROS, Abteilung Fahndung und Aufsicht
 - GREPO Organe des Bundes und der Kantone, die an der Schengen-Aussengrenze und auf dem Hoheitsgebiet der Schweiz Kontrollen durchführen und Visa ausstellen
 - KAPO kantonale und kommunale Polizeibehörden, die im Rahmen von ausländerrechtlichen Aufgaben im Hoheitsgebiet der Schweiz tätig sind
 - MIGRA kantonale, regionale und kommunale Migrationsbehörden
@@ -904,13 +932,13 @@ Organisationseinheiten:
 [^annex2-lvlu1-lvlu2-1]: Vgl. Fussnote zu Art. 6 Abs. 1.
 [^annex2-lvlu1-lvlu2-2]: Diese Anhänge (Dokumente der gesuchstellenden Person, Bemerkungen) sind im PDF-Format verfügbar und werden durch ein E-Dossier ersetzt, sobald alle Dokumente gescannt sind.
 
-Anhang 3[^t-2]
+Anhang 3[^t-3]
 
 (Art. 11 Abs. 3 und 35 Abs. 4)
 
 ## Zugangsberechtigungen beim C-VIS
 
-[^t-2]: Fassung gemäss Ziff. II der V vom 19. Febr. 2020, in Kraft seit 1. April 2020 ([AS 2020 917](https://fedlex.data.admin.ch/eli/oc/2020/175)).
+[^t-3]: Fassung gemäss Ziff. II der V vom 20. Mai 2026, in Kraft seit 12. Juni 2026 ([AS 2026 267](https://fedlex.data.admin.ch/eli/oc/2026/267)).
 
 ### Zeichenerklärung
 
@@ -925,7 +953,7 @@ Organisationseinheiten:
 
 - AV schweizerische Vertretungen im Ausland und Mission der Schweiz bei der UNO in Genf
 - EDA Eidgenössisches Departement für auswärtige Angelegenheiten: (Staatssekretariat, Konsularische Direktion und Politische Direktion)
-- EZ fedpol Zentrale Zugangsstelle
+- EAZ fedpol Zentrale Zugangsstelle
 - GREPO Organe des Bundes und der Kantone, die an den Schengen-Aussengrenzen und im Hoheitsgebiet der Schweiz Kontrollen durchführen
 - KAPO kantonale und kommunale Polizeibehörden, die im Rahmen von ausländerrechtlichen Aufgaben im Hoheitsgebiet der Schweiz tätig sind
 - MIGRA für Visa zuständige kantonale Migrationsbehörden und die Visumbehörden der Gemeinden, auf die entsprechende Kompetenzen übertragen wurden
@@ -934,90 +962,91 @@ Organisationseinheiten:
 - – II Sachbearbeiter/in im Visumbereich (Abteilung Einreise, Abteilung Zulassung Aufenthalt)
 - – III Sachbearbeiter/in im Bereich Dublin-Verfahren (Mitarbeitende des Asylverfahrens, Dublin-Sektionen)
 - – IV Sachbearbeiter/in im Asylbereich (Mitarbeitende des Asylverfahrens)
+- – V Sachbearbeiter/in im Bereich Bundesasylzentren (Mitarbeitende des Direktionsbereichs Bundesasylzentren)
+- – VI Sachbearbeiter/in im Bereich Identifikation und Sicherheitsprüfung (Mitarbeitende der Abteilung Identifikation und Sicherheitsprüfung)
 
 ### C-VIS
 
 <table>
-<tr><th>Bezeichnung der Datenfelder</th><th>SEM I Statistik</th><th>SEM II Visa</th><th>SEM III Asyl Anwendung EU-Dublin-Verordnung[^annex3-lvlu1-lvlu2-1]</th><th>SEM IV Asyl Asylverfahren</th><th>MIGRA und GREPO als Visa ausstellende Behörden</th><th>GREPO Grenzkontrolle</th><th>AV</th><th>EDA</th><th>KAPO im Hoheits-gebiet der Schweiz</th><th>EZ fedpol</th></tr>
-<tr><td colspan="11">I. Daten bei der Gesuchstellung</td></tr>
-<tr><td>Gesuchsnummer</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A<sup>1</sup></td><td>A</td><td>A</td><td>A<sup>1</sup></td><td>A</td></tr>
-<tr><td>Statusinformation: Gesuch gestellt</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
-<tr><td>Im Namen eines anderen Schengen-Staats (ja/nein)</td><td></td><td>A</td><td></td><td></td><td>A</td><td></td><td>A</td><td>A</td><td></td><td>A</td></tr>
-<tr><td>Name und Adresse der Behörde</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A<sup>1</sup></td><td>A</td><td>A</td><td>A<sup>1</sup></td><td>A</td></tr>
-<tr><td>Nachname, Geburtsnamen (oder frühere Nachnamen)</td><td></td><td>A</td><td>A\*</td><td>A\*</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
-<tr><td>Vornamen</td><td></td><td>A</td><td>A\*</td><td>A\*</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
-<tr><td>Geburtsdatum</td><td></td><td>A</td><td>A\*</td><td>A\*</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
-<tr><td>Geburtsort</td><td></td><td>A</td><td>A\*</td><td>A\*</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
-<tr><td>Derzeitige Staatsangehörigkeit</td><td>A</td><td>A</td><td>A\*</td><td>A\*</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
-<tr><td>Staatsangehörigkeit bei der Geburt</td><td></td><td>A</td><td>A\*</td><td>A\*</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
-<tr><td>Geburtsland</td><td></td><td>A</td><td>A\*</td><td>A\*</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
-<tr><td>Geschlecht</td><td></td><td>A</td><td>A\*</td><td>A\*</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
-<tr><td>Art des Reisedokuments</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
-<tr><td>Ausstellende Behörde</td><td></td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
-<tr><td>Nummer des Dokuments</td><td></td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
-<tr><td>Ausstellungs- und Ablaufdatum</td><td></td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
-<tr><th>Bezeichnung der Datenfelder</th><th>SEM I Statistik</th><th>SEM II Visa</th><th>SEM III Asyl Anwendung EU-Dublin-Verordnung</th><th>SEM IV Asyl Asylverfahren</th><th>MIGRA und GREPO als Visa ausstellende Behörden</th><th>GREPO Grenzkontrolle</th><th>AV</th><th>EDA</th><th>KAPO im Hoheits-gebiet der Schweiz</th><th>EZ fedpol</th></tr>
-<tr><td>Ort und Datum der Gesuchstellung</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
-<tr><td>Gastgeber/in und/oder Garant/in (Nachnamen, Vornamen, Anschrift); wenn Unternehmen oder Organisation: Name und Anschrift des Unternehmens oder der Organisation, Nachname und Vorname der Ansprechperson im Unternehmen bzw. in der Organisation</td><td></td><td>A</td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
-<tr><td>Zielstaaten im Schengen-Raum</td><td></td><td>A</td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
-<tr><td>Geplante Dauer des Aufenthalts oder der Durchreise</td><td></td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
-<tr><td>Hauptzwecke der Reise</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
-<tr><td>Geplanter Tag der Einreise und der Ausreise aus dem Schengen-Raum</td><td></td><td>A</td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
-<tr><td>Schengen-Staat der ersten Einreise</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
-<tr><td>Heimatadresse der Gesuchstellerin oder des Gesuchstellers</td><td></td><td>A</td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
-<tr><td>Derzeitige Beschäftigung und Arbeitgeber; bei Studierenden: Name der Bildungseinrichtung</td><td></td><td>A</td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
-<tr><td>Für Minderjährige: Nachname und Vorname der Inhaberin oder des Inhabers der elterlichen Sorge oder des Vormunds</td><td></td><td>A</td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
-<tr><td>Foto Gesuchsteller/in</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
-<tr><td>Fingerabdrücke Gesuchsteller/in</td><td></td><td>A</td><td></td><td></td><td>A</td><td></td><td>A</td><td>A</td><td></td><td>A</td></tr>
-<tr><td>Eintrag «entfällt», da Bereitstellung der Fingerabdrücke nicht möglich ist</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td></td><td>A</td><td>A</td><td></td><td></td></tr>
-<tr><td>Eintrag «entfällt», da Bereitstellung der Fingerabdrücke nicht erforderlich ist</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td></td><td>A</td><td>A</td><td></td><td></td></tr>
-<tr><td>Fingerabdrücke erfasst (ja/nein)</td><td></td><td></td><td></td><td></td><td></td><td>A</td><td></td><td></td><td>A</td><td></td></tr>
-<tr><td colspan="11">II. Daten bei der Visumerteilung</td></tr>
-<tr><td>Statusinformation: Visum erteilt oder Verfahren aufgrund von Rückzug des Gesuchs durch Gesuchsteller/in abgeschlossen</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
-<tr><td>Ort und Datum des Entscheids</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
-<tr><td>Im Namen eines anderen Schengen-Staats (ja/nein)</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
-<tr><td>Name und Adresse der Behörde</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
-<tr><td>Gebiet, in das die Visuminhaberin oder der Visuminhaber nach dem Visakodex[^annex3-lvlu1-lvlu2-2] reisen darf</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
-<tr><td>Zahl der erlaubten Einreisen während der Gültigkeitsdauer</td><td></td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
-<tr><td>Gültigkeitsdauer des Visums: Beginn- und Ablaufdatum</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
-<tr><td>Visumkategorie</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
-<tr><td>Nummer der Visumvignette</td><td></td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
-<tr><td>Visum auf einem separaten Formblatt erteilt (ja/nein)</td><td></td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
-<tr><td>Visumvignette handschriftlich ausgefüllt</td><td></td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
-<tr><td>Dauer des durch das Visum erlaubten Aufenthalts</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
-<tr><td colspan="11">III. Daten bei Nichtfortführung der Prüfung des Gesuchs</td></tr>
-<tr><td>Statusinformation: nicht fortgeführt</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A<sup>1</sup></td><td>A</td><td>A</td><td>A<sup>1</sup></td><td></td></tr>
-<tr><td>Im Namen eines anderen Schengen-Staats (ja/nein)</td><td></td><td>A</td><td></td><td></td><td>A</td><td>A<sup>1</sup></td><td>A</td><td>A</td><td>A<sup>1</sup></td><td></td></tr>
-<tr><td>Name und Adresse der Behörde</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A<sup>1</sup></td><td>A</td><td>A</td><td>A<sup>1</sup></td><td></td></tr>
-<tr><td>Ort und Datum des Entscheids</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A<sup>1</sup></td><td>A</td><td>A</td><td>A<sup>1</sup></td><td></td></tr>
-<tr><td>Schengen-Staat, der für die Prüfung des Gesuchs zuständig ist</td><td></td><td>A</td><td></td><td></td><td>A</td><td>A<sup>1</sup></td><td>A</td><td>A</td><td>A<sup>1</sup></td><td></td></tr>
-<tr><td colspan="11">IV. Daten bei Ablehnung des Visums</td></tr>
-<tr><td>Statusinformation: abgelehnt</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A<sup>1</sup></td><td>A</td><td>A</td><td>A<sup>1</sup></td><td>A</td></tr>
-<tr><td>Im Namen eines anderen Schengen-Staats (ja/nein)</td><td></td><td>A</td><td></td><td></td><td>A</td><td>A<sup>1</sup></td><td>A</td><td>A</td><td>A<sup>1</sup></td><td>A</td></tr>
-<tr><td>Name und Adresse der Behörde</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A<sup>1</sup></td><td>A</td><td>A</td><td>A<sup>1</sup></td><td>A</td></tr>
-<tr><td>Ort und Datum des Entscheids</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A<sup>1</sup></td><td>A</td><td>A</td><td>A<sup>1</sup></td><td>A</td></tr>
-<tr><td>Gründe für die Ablehnung</td><td>A</td><td>A</td><td></td><td></td><td>A</td><td>A<sup>1</sup></td><td>A</td><td>A</td><td>A<sup>1</sup></td><td>A</td></tr>
-<tr><td colspan="11">V. Daten bei Annullierung oder Aufhebung eines Visums</td></tr>
-<tr><td>Statusinformation: annulliert, aufgehoben</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
-<tr><td>Im Namen eines anderen Schengen-Staats (ja/nein)</td><td></td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
-<tr><td>Name und Adresse der Behörde</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
-<tr><td>Ort und Datum des Entscheids</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
-<tr><td>Gründe für die Annullierung oder die Aufhebung (von Hand einzutragen)</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
-<tr><td colspan="11">VI. Daten bei Verlängerung eines Visums</td></tr>
-<tr><td>Statusinformation: verlängert</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
-<tr><td>Im Namen eines anderen Schengen-Staats (ja/nein)</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
-<tr><td>Name und Adresse der Behörde</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
-<tr><td>Ort und Datum des Entscheids</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
-<tr><td>Beginn- und Ablaufdatum der Verlängerung</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
-<tr><td>Nummer der Visumvignette des verlängerten Visums</td><td></td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
-<tr><td>Verlängerte Dauer des erlaubten Aufenthalts</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
-<tr><td>Gebiet, in das die Visuminhaberin oder der Visuminhaber reisen darf, falls das verlängerte Visum eine andere räumliche Gültigkeit als das ursprüngliche Visum hat</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
-<tr><td>Kategorie des verlängerten Visums</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
-<tr><td>Gründe für die Verlängerung</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
-<tr><td colspan="11">VII. Verknüpfungen zwischen Gesuchen</td></tr>
-<tr><td>Verknüpfte Gesuchsdatensätze (Verwandtschaft: Ehepartner/in, Kinder)</td><td></td><td>A</td><td>A<sup>2</sup></td><td>A<sup>2</sup></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td></tr>
-<tr><td>Verknüpfte Gesuchsdatensätze (Gruppe)</td><td></td><td>A</td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td></tr>
-<tr><td>Aufeinanderfolgende Gesuchsdatensätze der Gesuchstellerin oder des Gesuchstellers</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A<sup>1</sup></td><td>A</td><td>A</td><td>A<sup>1</sup></td><td>A</td></tr>
+<tr><th>Bezeichnung der Datenfelder</th><th>SEM I Statistik</th><th>SEM II Visa</th><th>SEM III Asyl Anwendung EU-Dublin- Verordnung[^annex3-lvlu1-lvlu2-1]</th><th>SEM IV Asyl Asyl- verfahren</th><th>SEM V Bundesasylzentren</th><th>SEM VI Identifikation und Sicherheitsprüfung</th><th>MIGRA und GREPO als Visa ausstellende Behörden</th><th>GREPO Grenzkontrolle</th><th>AV</th><th>EDA</th><th>KAPO im Hoheits- gebiet der Schweiz</th><th>EAZ fedpol</th></tr>
+<tr><td colspan="14">I. Daten bei der Gesuchstellung</td></tr>
+<tr><td>Gesuchsnummer</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A<sup>1</sup></td><td>A</td><td>A</td><td>A<sup>1</sup></td><td>A</td></tr>
+<tr><td>Statusinformation: Gesuch gestellt</td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Im Namen eines anderen Schengen-Staats (ja/nein)</td><td></td><td>A</td><td></td><td></td><td></td><td></td><td>A</td><td></td><td>A</td><td>A</td><td></td><td>A</td></tr>
+<tr><td>Name und Adresse der Behörde</td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td>A</td><td>A<sup>1</sup></td><td>A</td><td>A</td><td>A<sup>1</sup></td><td>A</td></tr>
+<tr><td>Nachname, Geburtsnamen (oder frühere Nachnamen)</td><td></td><td>A</td><td>A\*</td><td>A\*</td><td>A\*</td><td>A\*</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Vornamen</td><td></td><td>A</td><td>A\*</td><td>A\*</td><td>A\*</td><td>A\*</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Geburtsdatum</td><td></td><td>A</td><td>A\*</td><td>A\*</td><td>A\*</td><td>A\*</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Geburtsort</td><td></td><td>A</td><td>A\*</td><td>A\*</td><td>A\*</td><td>A\*</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Derzeitige Staatsangehörigkeit</td><td>A</td><td>A</td><td>A\*</td><td>A\*</td><td>A\*</td><td>A\*</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Staatsangehörigkeit bei der Geburt</td><td></td><td>A</td><td>A\*</td><td>A\*</td><td>A\*</td><td>A\*</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Geburtsland</td><td></td><td>A</td><td>A\*</td><td>A\*</td><td>A\*</td><td>A\*</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Geschlecht</td><td></td><td>A</td><td>A\*</td><td>A\*</td><td>A\*</td><td>A\*</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Art des Reisedokuments</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Ausstellende Behörde</td><td></td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Nummer des Dokuments</td><td></td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Ausstellungs- und Ablaufdatum</td><td></td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Ort und Datum der Gesuchstellung</td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Gastgeber/in und/oder Garant/in (Nachnamen, Vornamen, Anschrift); wenn Unternehmen oder Organisation: Name und Anschrift des Unternehmens oder der Organisation, Nachname und Vorname der Ansprechperson im Unternehmen bzw. in der Organisation</td><td></td><td>A</td><td></td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Zielstaaten im Schengen-Raum</td><td></td><td>A</td><td></td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Geplante Dauer des Aufenthalts oder der Durchreise</td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Hauptzwecke der Reise</td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Geplanter Tag der Einreise und der Ausreise aus dem Schengen-Raum</td><td></td><td>A</td><td></td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Schengen-Staat der ersten Einreise</td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Heimatadresse der Gesuchstellerin oder des Gesuchstellers</td><td></td><td>A</td><td></td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Derzeitige Beschäftigung und Arbeitgeber; bei Studierenden: Name der Bildungseinrichtung</td><td></td><td>A</td><td></td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Für Minderjährige: Nachname und Vorname der Inhaberin oder des Inhabers der elterlichen Sorge oder des Vormunds</td><td></td><td>A</td><td></td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Foto Gesuchsteller/in</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Fingerabdrücke Gesuchsteller/in</td><td></td><td>A</td><td></td><td></td><td></td><td></td><td>A</td><td></td><td>A</td><td>A</td><td></td><td>A</td></tr>
+<tr><td>Eintrag «entfällt», da Bereitstellung der Fingerabdrücke nicht möglich ist</td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td>A</td><td></td><td>A</td><td>A</td><td></td><td></td></tr>
+<tr><td>Eintrag «entfällt», da Bereitstellung der Fingerabdrücke nicht erforderlich ist</td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td>A</td><td></td><td>A</td><td>A</td><td></td><td></td></tr>
+<tr><td>Fingerabdrücke erfasst (ja/nein)</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>A</td><td></td><td></td><td>A</td><td></td></tr>
+<tr><td colspan="14">II. Daten bei der Visumerteilung</td></tr>
+<tr><td>Statusinformation: Visum erteilt oder Verfahren aufgrund von Rückzug des Gesuchs durch Gesuchsteller/in abgeschlossen</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Ort und Datum des Entscheids</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Im Namen eines anderen Schengen-Staats (ja/nein)</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Name und Adresse der Behörde</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Gebiet, in das die Visuminhaberin oder der Visuminhaber nach dem Visakodex[^annex3-lvlu1-lvlu2-2] reisen darf</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Zahl der erlaubten Einreisen während der Gültigkeitsdauer</td><td></td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Gültigkeitsdauer des Visums: Beginn- und Ablaufdatum</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Visumkategorie</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Nummer der Visumvignette</td><td></td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Visum auf einem separaten Formblatt erteilt (ja/nein)</td><td></td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Visumvignette handschriftlich ausgefüllt</td><td></td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Dauer des durch das Visum erlaubten Aufenthalts</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td colspan="14">III. Daten bei Nichtfortführung der Prüfung des Gesuchs</td></tr>
+<tr><td>Statusinformation: nicht fortgeführt</td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td>A</td><td>A<sup>1</sup></td><td>A</td><td>A</td><td>A<sup>1</sup></td><td></td></tr>
+<tr><td>Im Namen eines anderen Schengen-Staats (ja/nein)</td><td></td><td>A</td><td></td><td></td><td></td><td></td><td>A</td><td>A<sup>1</sup></td><td>A</td><td>A</td><td>A<sup>1</sup></td><td></td></tr>
+<tr><td>Name und Adresse der Behörde</td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td>A</td><td>A<sup>1</sup></td><td>A</td><td>A</td><td>A<sup>1</sup></td><td></td></tr>
+<tr><td>Ort und Datum des Entscheids</td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td>A</td><td>A<sup>1</sup></td><td>A</td><td>A</td><td>A<sup>1</sup></td><td></td></tr>
+<tr><td>Schengen-Staat, der für die Prüfung des Gesuchs zuständig ist</td><td></td><td>A</td><td></td><td></td><td></td><td></td><td>A</td><td>A<sup>1</sup></td><td>A</td><td>A</td><td>A<sup>1</sup></td><td></td></tr>
+<tr><td colspan="14">IV. Daten bei Ablehnung des Visums</td></tr>
+<tr><td>Statusinformation: abgelehnt</td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td>A</td><td>A<sup>1</sup></td><td>A</td><td>A</td><td>A<sup>1</sup></td><td>A</td></tr>
+<tr><td>Im Namen eines anderen Schengen-Staats (ja/nein)</td><td></td><td>A</td><td></td><td></td><td></td><td></td><td>A</td><td>A<sup>1</sup></td><td>A</td><td>A</td><td>A<sup>1</sup></td><td>A</td></tr>
+<tr><td>Name und Adresse der Behörde</td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td>A</td><td>A<sup>1</sup></td><td>A</td><td>A</td><td>A<sup>1</sup></td><td>A</td></tr>
+<tr><td>Ort und Datum des Entscheids</td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td>A</td><td>A<sup>1</sup></td><td>A</td><td>A</td><td>A<sup>1</sup></td><td>A</td></tr>
+<tr><td>Gründe für die Ablehnung</td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td>A</td><td>A<sup>1</sup></td><td>A</td><td>A</td><td>A<sup>1</sup></td><td>A</td></tr>
+<tr><td colspan="14">V. Daten bei Annullierung oder Aufhebung eines Visums</td></tr>
+<tr><td>Statusinformation: annulliert, aufgehoben</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Im Namen eines anderen Schengen-Staats (ja/nein)</td><td></td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Name und Adresse der Behörde</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Ort und Datum des Entscheids</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Gründe für die Annullierung oder die Aufhebung (von Hand einzutragen)</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td colspan="14">VI. Daten bei Verlängerung eines Visums</td></tr>
+<tr><td>Statusinformation: verlängert</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Im Namen eines anderen Schengen-Staats (ja/nein)</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Name und Adresse der Behörde</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Ort und Datum des Entscheids</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Beginn- und Ablaufdatum der Verlängerung</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Nummer der Visumvignette des verlängerten Visums</td><td></td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Verlängerte Dauer des erlaubten Aufenthalts</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Gebiet, in das die Visuminhaberin oder der Visuminhaber reisen darf, falls das verlängerte Visum eine andere räumliche Gültigkeit als das ursprüngliche Visum hat</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Kategorie des verlängerten Visums</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Gründe für die Verlängerung</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td colspan="14">VII. Verknüpfungen zwischen Gesuchen</td></tr>
+<tr><td>Verknüpfte Gesuchsdatensätze (Verwandtschaft: Ehepartner/in, Kinder)</td><td></td><td>A</td><td>A<sup>2</sup></td><td>A<sup>2</sup></td><td>A<sup>2</sup></td><td>A<sup>2</sup></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td></tr>
+<tr><td>Verknüpfte Gesuchsdatensätze (Gruppe)</td><td></td><td>A</td><td></td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td></tr>
+<tr><td>Aufeinanderfolgende Gesuchsdatensätze der Gesuchstellerin oder des Gesuchstellers</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A<sup>1</sup></td><td>A</td><td>A</td><td>A<sup>1</sup></td><td>A</td></tr>
 </table>
 
 [^annex3-lvlu1-lvlu2-1]: Vgl. Fussnote zu Art. 15 Abs. 1.
