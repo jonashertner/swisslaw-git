@@ -4,11 +4,11 @@ title: "Asylverordnung 1 vom 11. August 1999 über Verfahrensfragen (Asylverordn
 short: AsylV 1
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/359"
 language: de
-version: 2026-06-01
+version: 2026-06-12
 adopted: 1999-08-11
 in_force: 1999-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/359/20260601/de/xml/fedlex-data-admin-ch-eli-cc-1999-359-20260601-de-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/359/20260601/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/359/20260612/de/xml/fedlex-data-admin-ch-eli-cc-1999-359-20260612-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/359/20260612/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1999/359/20260601/de"
 
 (Asylverordnung 1, AsylV 1)
 
-vom 11. August 1999 (Stand am 1. Juni 2026)
+vom 11. August 1999 (Stand am 12. Juni 2026)
 
 Der Schweizerische Bundesrat,
 
@@ -54,12 +54,12 @@ In dieser Verordnung gelten als:[^1a-1]
 - b. *Reisepapier:* ein amtliches Dokument, das zur Einreise in den Heimatstaat oder in andere Staaten berechtigt, namentlich ein Pass oder ein Ersatzreisedokument;
 - c. *Identitätsausweis bzw. Identitätspapier:* ein amtliches Dokument mit Fotografie, welches zum Zweck des Nachweises der Identität seiner Inhaberin oder seines Inhabers ausgestellt wurde;
 - d. *minderjährig:* wer nach Artikel 14 des Zivilgesetzbuches[^1a-2] das 18. Lebensjahr noch nicht vollendet hat;
-- e.[^1a-3] *Familie:* Ehegatten und deren minderjährige Kinder; den Ehegatten gleichgestellt sind die eingetragenen Partnerinnen und Partner und die in dauernder eheähnlicher Gemeinschaft zusammenlebenden Personen; im Dublin-Verfahren richten sich die Begriffe Familienangehörige und Verwandte nach der Verordnung (EU) Nr. 604/2013[^1a-4].
+- e.[^1a-3] *Familie:* Ehegatten und deren minderjährige Kinder; den Ehegatten gleichgestellt sind die eingetragenen Partnerinnen und Partner und die in dauernder eheähnlicher Gemeinschaft zusammenlebenden Personen; im Dublin-Verfahren richten sich die Begriffe Familienangehörige und Verwandte nach der Verordnung (EU) 2024/1351[^1a-4].
 
 [^1a-1]: Fassung gemäss Ziff. I 3 der V vom 12. Juni 2015 über die Anpassung von Verordnungen aufgrund von Neuerungen bezüglich des Dublin/Eurodac-Besitzstands, in Kraft seit 1. Juli 2015 ([AS 2015 1849](https://fedlex.data.admin.ch/eli/oc/2015/358)).
 [^1a-2]: [SR 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
-[^1a-3]: Fassung gemäss Ziff. I 3 der V vom 12. Juni 2015 über die Anpassung von Verordnungen aufgrund von Neuerungen bezüglich des Dublin/Eurodac-Besitzstands, in Kraft seit 1. Juli 2015 ([AS 2015 1849](https://fedlex.data.admin.ch/eli/oc/2015/358)).
-[^1a-4]: Verordnung (EU) Nr. 604/2013 des Europäischen Parlaments und des Rates vom 26. Juni 2013 zur Festlegung der Kriterien und Verfahren zur Bestimmung des Mitgliedstaats, der für die Prüfung eines von einem Drittstaatsangehörigen oder Staatenlosen in einem Mitgliedstaat gestellten Antrags auf internationalen Schutz zuständig ist (Neufassung), Fassung gemäss ABl. L 180 vom 29.6.2013, S. 31.
+[^1a-3]: Fassung gemäss Ziff. I der V vom 20. Mai 2026, in Kraft seit 12. Juni 2026 ([AS 2026 264](https://fedlex.data.admin.ch/eli/oc/2026/264)).
+[^1a-4]: Verordnung (EU) 2024/1351 des Europäischen Parlaments und des Rates vom 14. Mai 2024 über Asyl- und Migrationsmanagement, zur Änderung der Verordnungen (EU) 2021/1147 und (EU) 2021/1060 und zur Aufhebung der Verordnung (EU) Nr. 604/2013, Fassung gemäss ABl. L, 2024/1351, 22.5.2024.
 
 #### Art. 1b
 
@@ -220,9 +220,10 @@ Die Vertrauensperson muss über Kenntnisse des Asylrechts, des Rechts betreffend
 
 - a. Beratung vor und während den Befragungen;
 - b. Unterstützung bei der Nennung und Beschaffung von Beweismitteln;
-- c. Beistand insbesondere im Verkehr mit Behörden sowie mit Einrichtungen des Gesundheitswesens.[^7-11]
+- c. Beistand insbesondere im Verkehr mit Behörden sowie mit Einrichtungen des Gesundheitswesens;
+- d.[^7-11] Begleitung bei der Erfassung der Eurodac-Daten und dem Überprüfungsverfahren.[^7-12]
 
-<sup>4</sup> Die kantonale Behörde teilt dem Staatssekretariat für Migration (SEM)[^7-12] oder dem Bundesverwaltungsgericht sowie den Minderjährigen die Ernennung der Vertrauensperson und sämtliche vormundschaftlichen Massnahmen unverzüglich mit.[^7-13]
+<sup>4</sup> Die kantonale Behörde teilt dem Staatssekretariat für Migration (SEM)[^7-13] oder dem Bundesverwaltungsgericht sowie den Minderjährigen die Ernennung der Vertrauensperson und sämtliche vormundschaftlichen Massnahmen unverzüglich mit.[^7-14]
 
 <sup>5</sup> Personen, die minderjährige asylsuchende Personen anhören, tragen den besonderen Aspekten der Minderjährigkeit Rechnung.
 
@@ -236,9 +237,10 @@ Die Vertrauensperson muss über Kenntnisse des Asylrechts, des Rechts betreffend
 [^7-8]: Eingefügt durch Ziff. I der V vom 8. Juni 2018, in Kraft seit 1. März 2019 ([AS 2018 2857](https://fedlex.data.admin.ch/eli/oc/2018/439)).
 [^7-9]: Eingefügt durch Ziff. I der V vom 8. Juni 2018, in Kraft seit 1. März 2019 ([AS 2018 2857](https://fedlex.data.admin.ch/eli/oc/2018/439)).
 [^7-10]: Fassung gemäss Ziff. I der V vom 8. Juni 2018, in Kraft seit 1. März 2019 ([AS 2018 2857](https://fedlex.data.admin.ch/eli/oc/2018/439)).
-[^7-11]: Fassung gemäss Ziff. I 3 der V vom 12. Juni 2015 über die Anpassung von Verordnungen aufgrund von Neuerungen bezüglich des Dublin/Eurodac-Besitzstands, in Kraft seit 1. Juli 2015 ([AS 2015 1849](https://fedlex.data.admin.ch/eli/oc/2015/358)).
-[^7-12]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 16 Abs. 3 der Publikationsverordnung vom 17. Nov. 2004 ([AS 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)) auf den 1. Jan. 2015 angepasst. Diese Anpassung wurde im ganzen Text vorgenommen.
-[^7-13]: Fassung gemäss Ziff. I der V vom 13. Dez. 2013, in Kraft seit 1. Febr. 2014 ([AS 2013 5347](https://fedlex.data.admin.ch/eli/oc/2013/853)).
+[^7-11]: Eingefügt durch Ziff. I der V vom 20. Mai 2026, in Kraft seit 12. Juni 2026 ([AS 2026 264](https://fedlex.data.admin.ch/eli/oc/2026/264)).
+[^7-12]: Fassung gemäss Ziff. I 3 der V vom 12. Juni 2015 über die Anpassung von Verordnungen aufgrund von Neuerungen bezüglich des Dublin/Eurodac-Besitzstands, in Kraft seit 1. Juli 2015 ([AS 2015 1849](https://fedlex.data.admin.ch/eli/oc/2015/358)).
+[^7-13]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 16 Abs. 3 der Publikationsverordnung vom 17. Nov. 2004 ([AS 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)) auf den 1. Jan. 2015 angepasst. Diese Anpassung wurde im ganzen Text vorgenommen.
+[^7-14]: Fassung gemäss Ziff. I der V vom 13. Dez. 2013, in Kraft seit 1. Febr. 2014 ([AS 2013 5347](https://fedlex.data.admin.ch/eli/oc/2013/853)).
 
 #### Art. 7a
 
@@ -293,7 +295,9 @@ Meldet sich eine ausländische Person bei einer kantonalen oder eidgenössischen
 - b.[^8-1] weist diese sie einem Zentrum des Bundes nach Artikel 24 AsylG oder einem kantonal oder kommunal geführten Zentrum nach Artikel 24*d* AsylG zu und benachrichtigt das Zentrum; und
 - c.[^8-2] stellt diese einen Passierschein aus.
 
-<sup>2</sup> Die asylsuchende Person hat sich spätestens im Verlauf des folgenden Arbeitstags in dem ihr gemäss Absatz 1 Buchstabe b zugewiesenen Zentrum des Bundes zu melden.[^8-3]
+<sup>1bis</sup> Die asylsuchende Person ist dem nächstgelegenen Zentrum innerhalb der Region nach Artikel 1*b* zuzuweisen, in der sie aufgegriffen wurde oder in der sie sich bei einer eidgenössischen oder kantonalen Behörde gemeldet hat.[^8-3]
+
+<sup>2</sup> Die asylsuchende Person hat sich innerhalb von 24 Stunden ab der Meldung in dem ihr gemäss Absatz 1 Buchstabe b zugewiesenen Zentrum zu melden.[^8-4]
 
 <sup>3</sup> Asylgesuche von Personen, die sich in Haft oder im Strafvollzug befinden, sind durch die kantonalen Behörden entgegenzunehmen.
 
@@ -301,7 +305,8 @@ Meldet sich eine ausländische Person bei einer kantonalen oder eidgenössischen
 
 [^8-1]: Fassung gemäss Ziff. I der V vom 8. Juni 2018, in Kraft seit 1. März 2019 ([AS 2018 2857](https://fedlex.data.admin.ch/eli/oc/2018/439)).
 [^8-2]: Fassung gemäss Ziff. I der V vom 8. Juni 2018, in Kraft seit 1. März 2019 ([AS 2018 2857](https://fedlex.data.admin.ch/eli/oc/2018/439)).
-[^8-3]: Fassung gemäss Ziff. I der V vom 8. Juni 2018, in Kraft seit 1. März 2019 ([AS 2018 2857](https://fedlex.data.admin.ch/eli/oc/2018/439)).
+[^8-3]: Eingefügt durch Ziff. I der V vom 20. Mai 2026, in Kraft seit 12. Juni 2026 ([AS 2026 264](https://fedlex.data.admin.ch/eli/oc/2026/264)).
+[^8-4]: Fassung gemäss Ziff. I der V vom 20. Mai 2026, in Kraft seit 12. Juni 2026 ([AS 2026 264](https://fedlex.data.admin.ch/eli/oc/2026/264)).
 
 #### Art. 9 und 10
 
@@ -328,31 +333,25 @@ Meldet sich eine ausländische Person bei einer kantonalen oder eidgenössischen
 Das SEM kann die Einreise auch bewilligen, wenn:
 
 - a. die asylsuchende Person enge Beziehungen zu Personen hat, die in der Schweiz leben; oder
-- b.[^11a-2] die Schweiz für die Durchführung des Asylverfahrens aufgrund der Verordnung (EU) Nr. 604/2013[^11a-3] zuständig ist und die asylsuchende Person nicht direkt aus ihrem Heimat- oder Herkunftsstaat an die Schweizer Grenze gelangt ist, aber glaubhaft macht, dass sie diesen Staat aus einem Grund nach Artikel 3 Absatz 1 AsylG verlassen hat und ohne Verzug an die Schweizer Grenze gelangt ist.[^11a-4]
+- b.[^11a-2] die Schweiz für die Durchführung des Asylverfahrens aufgrund der Verordnung (EU) 2024/1351[^11a-3] zuständig ist und die asylsuchende Person nicht direkt aus ihrem Heimat- oder Herkunftsstaat an die Schweizer Grenze gelangt ist, aber glaubhaft macht, dass sie diesen Staat aus einem Grund nach Artikel 3 Absatz 1 AsylG verlassen hat und ohne Verzug an die Schweizer Grenze gelangt ist.[^11a-4]
 
-<sup>3</sup> Das SEM kann eine Einreise aus humanitären Gründen bewilligen; dies gilt auch dann, wenn die Zuständigkeit der Schweiz für die Durchführung des Asylverfahrens aufgrund der Verordnung (EG) Nr. 343/2003 nicht feststeht.[^11a-5]
+<sup>3</sup> Das SEM kann eine Einreise aus humanitären Gründen bewilligen; dies gilt auch dann, wenn die Zuständigkeit der Schweiz für die Durchführung des Asylverfahrens aufgrund der Verordnung (EU) 2024/1351 nicht feststeht.[^11a-5]
 
 [^11a-1]: Eingefügt durch Ziff. I der V vom 24. Okt. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 5577](https://fedlex.data.admin.ch/eli/oc/2007/767)).
-[^11a-2]: Fassung gemäss Ziff. I 3 der V vom 12. Juni 2015 über die Anpassung von Verordnungen aufgrund von Neuerungen bezüglich des Dublin/Eurodac-Besitzstands, in Kraft seit 1. Juli 2015 ([AS 2015 1849](https://fedlex.data.admin.ch/eli/oc/2015/358)).
+[^11a-2]: Fassung gemäss Ziff. I der V vom 20. Mai 2026, in Kraft seit 12. Juni 2026 ([AS 2026 264](https://fedlex.data.admin.ch/eli/oc/2026/264)).
 [^11a-3]: Siehe Fussnote zu Art. 1*a* Bst. e.
 [^11a-4]: Fassung gemäss Ziff. I 4 der V vom 22. Okt. 2008 (Schengen und Dublin), in Kraft seit 12. Dez. 2008 ([AS 2008 5421](https://fedlex.data.admin.ch/eli/oc/2008/757)).
-[^11a-5]: Eingefügt durch Ziff. I 4 der V vom 22. Okt. 2008 (Schengen und Dublin ([AS 2008 5421](https://fedlex.data.admin.ch/eli/oc/2008/757)). Fassung gemäss Ziff. I 3 der V vom 12. Juni 2015 über die Anpassung von Verordnungen aufgrund von Neuerungen bezüglich des Dublin/Eurodac-Besitzstands, in Kraft seit 1. Juli 2015 ([AS 2015 1849](https://fedlex.data.admin.ch/eli/oc/2015/358)).
+[^11a-5]: Eingefügt durch Ziff. I 4 der V vom 22. Okt. 2008 (Schengen und Dublin) ([AS 2008 5421](https://fedlex.data.admin.ch/eli/oc/2008/757)). Fassung gemäss Ziff. I der V vom 20. Mai 2026, in Kraft seit 12. Juni 2026 ([AS 2026 264](https://fedlex.data.admin.ch/eli/oc/2026/264)).
 
 #### Art. 12
 
-**Verfahren, Aufenthalt und Unterkunft am Flughafen**[^12-1]
+**Unterkunft am Flughafen**[^12-1]
 
-### (Art. 22 AsylG)
+### (Art. 21*a* Abs. 7 AsylG)
 
-<sup>1</sup> Die für die Grenzkontrolle zuständige Behörde meldet dem SEM unverzüglich Asylgesuche, die in einem schweizerischen Flughafen eingereicht werden.
+Das SEM kann mit den zuständigen Behörden der Flughäfen Zürich-Kloten und Genf-Cointrin oder Dritten Vereinbarungen über die Führung des Betriebs am Flughafen abschliessen.
 
-<sup>2</sup> …[^12-2]
-
-<sup>3</sup> Das SEM kann eine Einreise aus humanitären Gründen bewilligen; dies gilt auch dann, wenn die Zuständigkeit der Schweiz für die Durchführung des Asylverfahrens aufgrund der Verordnung (EU) Nr. 604/2013 nicht feststeht.[^12-3]
-
-[^12-1]: Fassung gemäss Ziff. I der V vom 24. Okt. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 5577](https://fedlex.data.admin.ch/eli/oc/2007/767)).
-[^12-2]: Aufgehoben durch Ziff. I der V vom 6. Mai 2026, mit Wirkung seit 1. Juni 2026 ([AS 2026 199](https://fedlex.data.admin.ch/eli/oc/2026/199)).).
-[^12-3]: Fassung gemäss Ziff. I 3 der V vom 12. Juni 2015 über die Anpassung von Verordnungen aufgrund von Neuerungen bezüglich des Dublin/Eurodac-Besitzstands, in Kraft seit 1. Juli 2015 ([AS 2015 1849](https://fedlex.data.admin.ch/eli/oc/2015/358)).
+[^12-1]: Fassung gemäss Ziff. I der V vom 20. Mai 2026, in Kraft seit 12. Juni 2026 ([AS 2026 264](https://fedlex.data.admin.ch/eli/oc/2026/264)).
 
 ### 2*a*. Abschnitt: Zentren des Bundes
 
@@ -448,9 +447,15 @@ Eine erhebliche Störung des Betriebs und der Sicherheit eines Zentrums des Bund
 
 #### Art. 18
 
-[^18-1]
+**Überprüfung nach der Verordnung (EU) 2024/1356**[^18-1]
 
-[^18-1]: Aufgehoben durch Ziff. I der V vom 8. Juni 2018, mit Wirkung seit 1. März 2019 ([AS 2018 2857](https://fedlex.data.admin.ch/eli/oc/2018/439)).
+### (Art. 26 Abs. 1<sup>bis</sup> und 1<sup>quater</sup> AsylG)
+
+Die Überprüfung nach der Verordnung (EU) 2024/1356[^18-2] richtet sich sinngemäss nach den Artikeln 68*a*–68*f* der Verordnung vom 15. August 2018[^18-3] über die Einreise und die Visumerteilung.
+
+[^18-1]: Fassung gemäss Ziff. I der V vom 20. Mai 2026, in Kraft seit 12. Juni 2026 ([AS 2026 264](https://fedlex.data.admin.ch/eli/oc/2026/264)).
+[^18-2]: Verordnung (EU) 2024/1356 des Europäischen Parlaments und des Rates vom 14. Mai 2024 zur Einführung der Überprüfung von Drittstaatsangehörigen an den Außengrenzen und zur Änderung der Verordnungen (EG) Nr. 767/2008, (EU) 2017/2226, (EU) 2018/1240 und (EU) 2019/817, Fassung gemäss ABl. L, 2024/1356, 22.5.2024.
+[^18-3]: [SR 142.204](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4856)
 
 #### Art. 19
 
@@ -497,10 +502,40 @@ Eine erhebliche Störung des Betriebs und der Sicherheit eines Zentrums des Bund
 
 <sup>1</sup> Zusätzlich zu den Verfahrensschritten gemäss Artikel 26 Absätze 2 und 4 AsylG wird während der Vorbereitungsphase anlässlich der Befragung nach Artikel 26 Absatz 3 AsylG das rechtliche Gehör zur Rückkehr in einen Dublin-Staat gewährt, wenn von dessen Zuständigkeit für das Asylverfahren ausgegangen werden kann.
 
+<sup>1bis</sup> Die betroffene Person erhält Zugang zum Befragungsbericht. Sie kann Klarstellungen zu Übersetzungsfehlern, Missverständnissen oder anderen sachlichen Fehlern im Bericht anbringen.[^20b-3]
+
 <sup>2</sup> Nach Abschluss der Vorbereitungsphase richtet sich das weitere Verfahren sinngemäss nach Artikel 20*c* Buchstaben g und h.
 
 [^20b-1]: Eingefügt durch Ziff. I der V vom 8. Juni 2018, in Kraft seit 1. März 2019 ([AS 2018 2857](https://fedlex.data.admin.ch/eli/oc/2018/439)).
 [^20b-2]: Berichtigung vom 21. Juni 2024 ([AS 2024 296](https://fedlex.data.admin.ch/eli/oc/2024/296)).
+[^20b-3]: Eingefügt durch Ziff. I der V vom 20. Mai 2026, in Kraft seit 12. Juni 2026 ([AS 2026 264](https://fedlex.data.admin.ch/eli/oc/2026/264)).
+
+#### Art. 20b<sup>bis</sup>
+
+**Tonaufnahme im Dublin-Verfahren**[^20bbis-1]
+
+### (Art. 26 Abs. 3<sup>bis</sup>–3<sup>ter</sup> AsylG)
+
+<sup>1</sup> Die Befragung nach Artikel 20*b* Absatz 1 wird auf einen Tonträger aufgenommen, wenn sie im Hinblick auf die Eröffnung eines Dublin-Verfahrens zur Aufnahme nach Artikel 39 der Verordnung (EU) 2024/1351[^20bbis-2] durchgeführt wird.
+
+<sup>2</sup>
+
+Auf die Tonaufnahme der Befragung nach Artikel 22 der Verordnung (EU) 2024/1351 kann verzichtet werden, wenn:
+
+- a. die asylsuchende Person ausdrücklich darum ersucht hat; oder
+- b. die asylsuchende Person sich aufgrund von Haft, Hospitalisierung oder eines Flughafenverfahrens nicht in einem Zentrum des Bundes aufhält.
+
+<sup>3</sup> Wird auf eine Tonaufnahme verzichtet, weil die asylsuchende Person darum ersucht hat, so hält das SEM dies sowie die entsprechende Begründung schriftlich fest. Das Ersuchen begründet keine Verletzung der Mitwirkungspflicht.
+
+<sup>4</sup> Verhindert ein technisches Problem die Tonaufnahme seit mehr als fünf Tagen, so wird auf die Tonaufnahme verzichtet.
+
+<sup>5</sup> Das SEM erstellt in jedem Fall einen Befragungsbericht.
+
+<sup>6</sup> Die Modalitäten der Tonaufnahme richten sich nach Artikel 11*e* der Asylverordnung 3 vom 11. August 1999[^20bbis-3].
+
+[^20bbis-1]: Eingefügt durch Ziff. I der V vom 20. Mai 2026, in Kraft seit 12. Juni 2026 ([AS 2026 264](https://fedlex.data.admin.ch/eli/oc/2026/264)).
+[^20bbis-2]: Siehe Fussnote zu Art. 1*a* Bst. e.
+[^20bbis-3]: [SR 142.314](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4884)
 
 #### Art. 20c
 
@@ -660,20 +695,20 @@ Vereinbarungen über die Zusammenarbeit bei der Ermittlung des Sachverhaltes gew
 
 [^29a-2]
 
-<sup>1</sup> Das SEM prüft die Zuständigkeit zur Behandlung eines Asylgesuchs nach den Kriterien, die in der Verordnung (EU) Nr. 604/2013[^29a-3] geregelt sind.[^29a-4]
+<sup>1</sup> Das SEM prüft die Zuständigkeit zur Behandlung eines Asylgesuchs nach den Kriterien, die in der Verordnung (EU) 2024/1351[^29a-3] geregelt sind.[^29a-4]
 
 <sup>2</sup> Ergibt die Prüfung, dass ein anderer Staat für die Behandlung des Asylgesuches zuständig ist, und hat dieser Staat der Aufnahme oder Wiederaufnahme der asylsuchenden Person zugestimmt, so fällt das SEM einen Nichteintretensentscheid.
 
 <sup>3</sup> Das SEM kann aus humanitären Gründen das Gesuch auch dann behandeln, wenn die Prüfung ergeben hat, dass ein anderer Staat dafür zuständig ist.
 
-<sup>4</sup> Das Verfahren für die Aufnahme oder Wiederaufnahme der asylsuchenden Person durch den zuständigen Staat richtet sich nach der Verordnung (EG) Nr. 1560/2003[^29a-5].[^29a-6]
+<sup>4</sup> Das Verfahren für die Aufnahme oder Wiederaufnahme der asylsuchenden Person durch den zuständigen Staat richtet sich nach den Artikeln 7–16 der Durchführungsverordnung (EU) 2025/2055[^29a-5].[^29a-6]
 
 [^29a-1]: Eingefügt durch Ziff. I 4 der V vom 22. Okt. 2008 (Schengen und Dublin), in Kraft seit 12. Dez. 2008 ([AS 2008 5421](https://fedlex.data.admin.ch/eli/oc/2008/757)).
 [^29a-2]: Fassung gemäss Ziff. I der V vom 13. Dez. 2013, in Kraft seit 1. Febr. 2014 ([AS 2013 5347](https://fedlex.data.admin.ch/eli/oc/2013/853)).
 [^29a-3]: Siehe Fussnote zu Art. 1*a* Bst. e.
-[^29a-4]: Fassung gemäss Ziff. I 3 der V vom 12. Juni 2015 über die Anpassung von Verordnungen aufgrund von Neuerungen bezüglich des Dublin/Eurodac-Besitzstands, in Kraft seit 1. Juli 2015 ([AS 2015 1849](https://fedlex.data.admin.ch/eli/oc/2015/358)).
-[^29a-5]: Verordnung (EG) Nr. 1560/2003 der Kommission vom 2. Sept. 2003 mit Durchführungsbestimmungen zur Verordnung (EG) Nr. 343/2003 des Rates zur Festlegung der Kriterien und Verfahren zur Bestimmung des Mitgliedstaats, der für die Prüfung eines von einem Drittstaatsangehörigen in einem Mitgliedstaat gestellten Asylantrags zuständig ist, ABl. L 222 vom 5.9.2003, S. 3; zuletzt geändert durch Verordnung (EU) Nr. 118/2014, ABl. L 39 vom 8.2.2014, S. 1.
-[^29a-6]: Fassung gemäss Ziff. I 3 der V vom 12. Juni 2015 über die Anpassung von Verordnungen aufgrund von Neuerungen bezüglich des Dublin/Eurodac-Besitzstands, in Kraft seit 1. Juli 2015 ([AS 2015 1849](https://fedlex.data.admin.ch/eli/oc/2015/358)).
+[^29a-4]: Fassung gemäss Ziff. I der V vom 20. Mai 2026, in Kraft seit 12. Juni 2026 ([AS 2026 264](https://fedlex.data.admin.ch/eli/oc/2026/264)).
+[^29a-5]: Durchführungsverordnung (EU) 2025/2055 der Kommission vom 2. Oktober 2025 mit Durchführungsbestimmungen zur Verordnung (EU) 2024/1351 des europäischen Parlaments und des Rates über Asyl- und Migrationsmanagement und zur Aufhebung der Verordnung (EG) Nr. 1560/2003 der Kommission, Fassung gemäss ABl. L, 2025/2055, 12.11.2025.
+[^29a-6]: Fassung gemäss Ziff. I der V vom 20. Mai 2026, in Kraft seit 12. Juni 2026 ([AS 2026 264](https://fedlex.data.admin.ch/eli/oc/2026/264)).
 
 #### Art. 29b
 
@@ -1015,17 +1050,20 @@ Wurde die ausländische Person bereits vor der Gewährung des vorübergehenden S
 
 **Information zum Beschwerdeverfahren bei der für die Überwachung der Schengen-Aussengrenzen zuständigen Agentur der Europäischen Union**[^52abis-1]
 
-### (Art. 102*g* Abs. 3 AsylG)
+### (Art. 102*g* Abs. 2 Bst. b AsylG)
+
+[^52abis-2]
 
 <sup>1</sup> Während des Aufenthaltes in den Zentren des Bundes oder am Flughafen werden die Asylsuchenden im Rahmen der Beratung nach Artikel 102*g* AsylG zu den Beschwerdemöglichkeiten bei der Europäischen Agentur für die Grenz- und Küstenwache (Agentur) in Bezug auf Grundrechtsverletzungen im Zusammenhang mit Einsätzen der Agentur informiert.
 
-<sup>2</sup> Die Information umfasst namentlich den Beschwerdemechanismus bei der Agentur gemäss Artikel 111 der Verordnung (EU) 2019/1896[^52abis-2] sowie die Aufklärung hinsichtlich möglicher Verletzungen der Grundrechte gemäss der Charta der Grundrechte der Europäischen Union[^52abis-3].
+<sup>2</sup> Die Information umfasst namentlich den Beschwerdemechanismus bei der Agentur gemäss Artikel 111 der Verordnung (EU) 2019/1896[^52abis-3] sowie die Aufklärung hinsichtlich möglicher Verletzungen der Grundrechte gemäss der Charta der Grundrechte der Europäischen Union[^52abis-4].
 
 <sup>3</sup> Die beauftragten Leistungserbringer stellen sicher, dass die Information den Bedürfnissen der Betroffenen angemessen ist und so früh wie möglich nach der Einreichung des Asylgesuchs erfolgt.
 
 [^52abis-1]: Eingefügt durch Ziff. I der V vom 29. Juni 2022, in Kraft seit 1. Sept. 2022 ([AS 2022 460](https://fedlex.data.admin.ch/eli/oc/2022/460)).
-[^52abis-2]: Verordnung (EU) 2019/1896 des Europäischen Parlaments und des Rates vom 13. November 2019 über die Europäische Grenz- und Küstenwache und zur Aufhebung der Verordnung (EU) 1052/2013 des Europäischen Parlaments und des Rates und der Verordnung (EU) 2016/1624 des Europäischen Parlaments und des Rates, Fassung gemäss ABl. L 295 vom 14.11.2019, S. 1.
-[^52abis-3]: Charta der Grundrechte der Europäischen Union, ABl. C 326 vom 26.10.2012, S. 391.
+[^52abis-2]: Fassung gemäss Ziff. I der V vom 20. Mai 2026, in Kraft seit 12. Juni 2026 ([AS 2026 264](https://fedlex.data.admin.ch/eli/oc/2026/264)).
+[^52abis-3]: Verordnung (EU) 2019/1896 des Europäischen Parlaments und des Rates vom 13. November 2019 über die Europäische Grenz- und Küstenwache und zur Aufhebung der Verordnung (EU) 1052/2013 des Europäischen Parlaments und des Rates und der Verordnung (EU) 2016/1624 des Europäischen Parlaments und des Rates, Fassung gemäss ABl. L 295 vom 14.11.2019, S. 1.
+[^52abis-4]: Charta der Grundrechte der Europäischen Union, ABl. C 326 vom 26.10.2012, S. 391.
 
 #### Art. 52b
 
@@ -1208,17 +1246,20 @@ Verfügt die unbegleitete minderjährige asylsuchende Person nicht über einen V
 
 [^53a-1]: Eingefügt durch Ziff. I der V vom 24. Okt. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 5577](https://fedlex.data.admin.ch/eli/oc/2007/767)).
 
-## 5*a*. Kapitel: Abschluss internationaler Verträge im Zusammenhang mit der Verordnung (EU) 2024/1351
+## 5*a*. Kapitel: Internationale Verträge
 
-[^chap5a-1]
+[^chap5a-1][^chap5a-2]
 
 [^chap5a-1]: Eingefügt durch Ziff. I der V vom 26. Febr. 2025, in Kraft seit 1. April 2025 ([AS 2025 164](https://fedlex.data.admin.ch/eli/oc/2025/164)).
+[^chap5a-2]: Fassung gemäss Ziff. I der V vom 20. Mai 2026, in Kraft seit 12. Juni 2026 ([AS 2026 264](https://fedlex.data.admin.ch/eli/oc/2026/264)).
 
 #### Art. 53b
 
+**Abschluss internationaler Verträge im Zusammenhang mit der Verordnung (EU) 2024/1351[^53b-1]**
+
 <sup>1</sup>
 
-Das SEM ist zuständig für den Abschluss von völkerrechtlichen Verträgen zur Übernahme von Durchführungsrechtsakten der Europäischen Kommission zur Verordnung (EU) 2024/1351[^53b-1], sofern sie völkerrechtliche Verträge von beschränkter Tragweite im Sinne von Artikel 7*a* des Regierungs- und Verwaltungsorganisationsgesetzes vom 21. März 1997[^53b-2] (RVOG) darstellen und sofern die Durchführungsrechtsakte gestützt auf die nachfolgend genannten Bestimmungen der Verordnung (EU) 2024/1351 erlassen wurden und Folgendes regeln oder festlegen:
+Das SEM ist zuständig für den Abschluss von völkerrechtlichen Verträgen zur Übernahme von Durchführungsrechtsakten der Europäischen Kommission zur Verordnung (EU) 2024/1351[^53b-2], sofern sie völkerrechtliche Verträge von beschränkter Tragweite im Sinne von Artikel 7*a* des Regierungs- und Verwaltungsorganisations-gesetzes vom 21. März 1997[^53b-3] (RVOG) darstellen und sofern die Durchführungsrechtsakte gestützt auf die nachfolgend genannten Bestimmungen der Verordnung (EU) 2024/1351 erlassen wurden und Folgendes regeln oder festlegen:[^53b-4]
 
 - a. das Standardformblatt für den Austausch relevanter Informationen zwischen den Dublin-Staaten zur Ermittlung von im Hoheitsgebiet eines anderen Dublin-Staates lebenden Familienangehörigen oder Verwandten einer oder eines unbegleiteten Minderjährigen (Art. 23 Abs. 7);
 - b. einheitliche Methoden für Konsultationen und den Informationsaustausch zwischen den Dublin-Staaten zur Bestimmung des zuständigen Dublin-Staats bei unbegleiteten Minderjährigen (Art. 25 Abs. 7);
@@ -1246,8 +1287,20 @@ Es ist zuständig für den Abschluss von völkerrechtlichen Verträgen zur Über
 - f. die Kriterien zur Beurteilung der Fähigkeit, für eine abhängige Person zu sorgen (Art. 34 Abs. 3 Bst. c);
 - g. die Gesichtspunkte, die bei der Beurteilung einer längerfristigen Reiseunfähigkeit zu berücksichtigen sind (Art. 34 Abs. 3 Bst. d).
 
-[^53b-1]: Verordnung (EU) 2024/1351 des Europäischen Parlaments und des Rates vom 14. Mai 2024 über Asyl- und Migrationsmanagement, zur Änderung der Verordnungen (EU) 2021/1147 und (EU) 2021/1060 und zur Aufhebung der Verordnung (EU) Nr. 604/2013, Fassung gemäss ABl. L, 2024/1351, 22.5.2024.
-[^53b-2]: [SR 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
+[^53b-1]: Eingefügt durch Ziff. I der V vom 20. Mai 2026, in Kraft seit 12. Juni 2026 ([AS 2026 264](https://fedlex.data.admin.ch/eli/oc/2026/264)).
+[^53b-2]: Siehe Fussnote zu Art. 1*a* Bst. e.
+[^53b-3]: [SR 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
+[^53b-4]: Fassung gemäss Ziff. I der V vom 20. Mai 2026, in Kraft seit 12. Juni 2026 ([AS 2026 264](https://fedlex.data.admin.ch/eli/oc/2026/264)).
+
+#### Art. 53c
+
+**Abschluss internationaler Verträge im Zusammenhang mit der Verordnung (EU) 2024/1358**[^53c-1]
+
+Das SEM ist zuständig für den Abschluss von völkerrechtlichen Verträgen zur Übernahme von Durchführungsrechtsakten der Europäischen Kommission zur Verordnung (EU) 2024/1358[^53c-2], sofern sie völkerrechtliche Verträge von beschränkter Tragweite im Sinne von Artikel 7*a* RVOG[^53c-3] darstellen und sofern die Durchführungsrechtsakte gestützt auf Artikel 42 Absatz 3 der Verordnung (EU) 2024/1358 erlassen wurden und das gemeinsame Merkblatt über die Erfassung der Daten im Eurodac festlegen.
+
+[^53c-1]: Eingefügt durch Ziff. I der V vom 20. Mai 2026, in Kraft seit 12. Juni 2026 ([AS 2026 264](https://fedlex.data.admin.ch/eli/oc/2026/264)).
+[^53c-2]: Verordnung (EU) 2024/1358 des Europäischen Parlaments und des Rates vom 14. Mai 2024 über die Einrichtung von Eurodac für den Abgleich biometrischer Daten zur effektiven Anwendung der Verordnungen (EU) 2024/1351 und (EU) 2024/1350 des Europäischen Parlaments und des Rates und der Richtlinie 2001/55/EG sowie zur Feststellung der Identität illegal aufhältiger Drittstaatsangehöriger oder Staatenloser und über der Gefahrenabwehr und Strafverfolgung dienende Anträge der Gefahrenabwehr- und Strafverfolgungsbehörden der Mitgliedstaaten und Europols auf den Abgleich mit Eurodac-Daten, zur Änderung der Verordnungen (EU) 2018/1240 und (EU) 2019/818 des Europäischen Parlaments und des Rates und zur Aufhebung der Verordnung (EU) Nr. 603/2013 des Europäischen Parlaments und des Rates, Fassung gemäss ABl. L, 2024/1358, 22.5.2024.
+[^53c-3]: [[SR 172.010](https://www.fedlex.admin.ch/redirect/rs/172.010/de)](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
 
 ## 6. Kapitel: Schlussbestimmungen
 
@@ -1315,19 +1368,21 @@ Anhang 1[^t-1]
 
 ## Dublin-Assoziierungsabkommen
 
-[^t-1]: Ursprünglich: Anhang. Eingefügt durch Ziff. I 4 der V vom 22. Okt. 2008 (Schengen und Dublin), in Kraft seit 12. Dez. 2008 ([AS 2008 5421](https://fedlex.data.admin.ch/eli/oc/2008/757)).
+[^t-1]: Ursprünglich: Anhang. Eingefügt durch Ziff. I 4 der V vom 22. Okt. 2008 (Schengen und Dublin) ([AS 2008 5421](https://fedlex.data.admin.ch/eli/oc/2008/757)). Fassung gemäss Ziff. II der V vom 20. Mai 2026, in Kraft seit 12. Juni 2026 ([AS 2026 264](https://fedlex.data.admin.ch/eli/oc/2026/264)).
 
 Die Dublin-Assoziierungsabkommen umfassen:
 
-- a. Abkommen vom 26. Oktober 2004[^annex1-lvlu1-1] zwischen der Schweizerischen Eidgenossenschaft und der Europäischen Gemeinschaft über die Kriterien und Verfahren zur Bestimmung des zuständigen Staates für die Prüfung eines in einem Mitgliedstaat oder in der Schweiz gestellten Asylantrags (DAA);
-- b. Übereinkommen vom 17. Dezember 2004[^annex1-lvlu1-2] zwischen der Schweizerischen Eidgenossenschaft, der Republik Island und dem Königreich Norwegen über die Umsetzung, Anwendung und Entwicklung des Schengen-Besitzstands und über die Kriterien und Verfahren zur Bestimmung des zuständigen Staates für die Prüfung eines in der Schweiz, in Island oder in Norwegen gestellten Asylantrags;
-- c. Protokoll vom 28. Februar 2008[^annex1-lvlu1-3] zwischen der Schweizerischen Eidgenossenschaft, der Europäischen Gemeinschaft und dem Fürstentum Liechtenstein zu dem Abkommen zwischen der Schweizerischen Eidgenossenschaft und der Europäischen Gemeinschaft über die Kriterien und Verfahren zur Bestimmung des zuständigen Staates für die Prüfung eines in einem Mitgliedstaat oder in der Schweiz gestellten Asylantrags;
-- d. Protokoll vom 28. Februar 2008[^annex1-lvlu1-4] zwischen der Schweizerischen Eidgenossenschaft, der Europäischen Gemeinschaft und dem Fürstentum Liechtenstein über den Beitritt des Fürstentums Liechtenstein zu dem Abkommen zwischen der Schweizerischen Eidgenossenschaft und der Europäischen Gemeinschaft über die Kriterien und Verfahren zur Bestimmung des zuständigen Staates für die Prüfung eines in einem Mitgliedstaat oder in der Schweiz gestellten Asylantrags.
+- a. das Abkommen vom 26. Oktober 2004[^annex1-lvlu1-1] zwischen der Schweizerischen Eidgenossenschaft und der Europäischen Gemeinschaft über die Kriterien und Verfahren zur Bestimmung des zuständigen Staates für die Prüfung eines in einem Mitgliedstaat oder in der Schweiz gestellten Asylantrags;
+- b. das Übereinkommen vom 17. Dezember 2004[^annex1-lvlu1-2] zwischen der Schweizerischen Eidgenossenschaft, der Republik Island und dem Königreich Norwegen über die Umsetzung, Anwendung und Entwicklung des Schengen-Besitzstands und über die Kriterien und Verfahren zur Bestimmung des zuständigen Staates für die Prüfung eines in der Schweiz, in Island oder in Norwegen gestellten Asylantrags;
+- c. das Protokoll vom 28. Februar 2008[^annex1-lvlu1-3] zwischen der Schweizerischen Eidgenossenschaft, der Europäischen Gemeinschaft und dem Fürstentum Liechtenstein zum Abkommen zwischen der Schweizerischen Eidgenossenschaft und der Europäischen Gemeinschaft über die Kriterien und Verfahren zur Bestimmung des zuständigen Staates für die Prüfung eines in einem Mitgliedstaat oder in der Schweiz gestellten Asylantrags;
+- d. das Protokoll vom 28. Februar 2008[^annex1-lvlu1-4] zwischen der Schweizerischen Eidgenossenschaft, der Europäischen Gemeinschaft und dem Fürstentum Liechtenstein über den Beitritt des Fürstentums Liechtenstein zum Abkommen zwischen der Schweizerischen Eidgenossenschaft und der Europäischen Gemeinschaft über die Kriterien und Verfahren zur Bestimmung des zuständigen Staates für die Prüfung eines in einem Mitgliedstaat oder in der Schweiz gestellten Asylantrags;
+- e. das Protokoll vom 27. Juni 2019[^annex1-lvlu1-5] zwischen der Schweizerischen Eidgenossenschaft, der Europäischen Union und dem Fürstentum Liechtenstein zum Abkommen zwischen der Schweizerischen Eidgenossenschaft und der Europäischen Gemeinschaft über die Kriterien und Verfahren zur Bestimmung des zuständigen Staates für die Prüfung eines in einem Mitgliedstaat oder in der Schweiz gestellten Asylantrags betreffend den Zugang zu Eurodac für Gefahrenabwehr- und Strafverfolgungszwecke.
 
 [^annex1-lvlu1-1]: [SR 0.142.392.68](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/443)
 [^annex1-lvlu1-2]: [SR 0.362.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1519)
 [^annex1-lvlu1-3]: [SR 0.142.393.141](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/451)
 [^annex1-lvlu1-4]: [SR 0.142.395.141](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/452)
+[^annex1-lvlu1-5]: [SR 0.142.392.682](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40016)
 
 Anhang 2[^t-2]
 

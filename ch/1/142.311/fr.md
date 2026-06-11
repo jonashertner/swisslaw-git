@@ -4,11 +4,11 @@ title: "Ordonnance 1 du 11 août 1999 sur l'asile relative à la procédure (Ord
 short: OA 1
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/359"
 language: fr
-version: 2026-06-01
+version: 2026-06-12
 adopted: 1999-08-11
 in_force: 1999-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/359/20260601/fr/xml/fedlex-data-admin-ch-eli-cc-1999-359-20260601-fr-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/359/20260601/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/359/20260612/fr/xml/fedlex-data-admin-ch-eli-cc-1999-359-20260612-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/359/20260612/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1999/359/20260601/fr"
 
 (Ordonnance 1 sur l’asile, OA 1)
 
-du 11 août 1999 (État le 1<sup>er</sup> juin 2026)
+du 11 août 1999 (État le 12 juin 2026)
 
 Le Conseil fédéral suisse,
 
@@ -54,12 +54,12 @@ Au sens de la présente ordonnance, on entend par:[^1a-1]
 - b. *document de voyage:* tout document officiel autorisant l’entrée dans l’État d’origine ou dans d’autres États, tel qu’un passeport ou un document de voyage de remplacement;
 - c. *pièce d’identité ou papier d’identité:* tout document officiel comportant une photographie délivré dans le but de prouver l’identité du détenteur;
 - d. *mineur:* quiconque n’a pas encore 18 ans révolus conformément à l’art. 14 du code civil suisse[^1a-2];
-- e.[^1a-3] *famille*: les conjoints et leurs enfants mineurs; sont assimilés aux conjoints les partenaires enregistrés et les personnes qui vivent en concubinage de manière durable; dans le cadre de la procédure Dublin, les termes membres de la famille et proches se réfèrent au règlement (UE) n° 604/2013[^1a-4].
+- e.[^1a-3] *famille:* les conjoints et leurs enfants mineurs; sont assimilés aux conjoints les partenaires enregistrés et les personnes qui vivent en concubinage de manière durable; dans le cadre de la procédure Dublin, les termes membres de la famille et proches se réfèrent au règlement (UE) 2024/1351[^1a-4].
 
 [^1a-1]: Nouvelle teneur selon le ch. I 3 de l’O du 12 juin 2015 portant adaptation d’actes en raison de nouveautés en lien avec l’acquis de Dublin/Eurodac, en vigueur depuis le 1<sup>er</sup> juil. 2015 ([RO 2015 1849](https://fedlex.data.admin.ch/eli/oc/2015/358)).
 [^1a-2]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
-[^1a-3]: Nouvelle teneur selon le ch. I 3 de l’O du 12 juin 2015 portant adaptation d’actes en raison de nouveautés en lien avec l’acquis de Dublin/Eurodac, en vigueur depuis le 1<sup>er</sup> juil. 2015 ([RO 2015 1849](https://fedlex.data.admin.ch/eli/oc/2015/358)).
-[^1a-4]: R (UE) n° 604/2013 du Parlement européen et du Conseil du 26 juin 2013 établissant les critères et mécanismes de détermination de l’Etat membre responsable de l’examen d’une demande de protection internationale introduite dans l’un des Etats membres par un ressortissant de pays tiers ou un apatride (refonte), version du JO L 180 du 29.6.2013, p. 31.
+[^1a-3]: Nouvelle teneur selon le ch. I de l’O du 20 mai 2026, en vigueur depuis le 12 juin 2026 ([RO 2026 264](https://fedlex.data.admin.ch/eli/oc/2026/264)).
+[^1a-4]: Règlement (UE) 2024/1351 du Parlement européen et du Conseil du 14 mai 2024 relatif à la gestion de l’asile et de la migration, modifiant les règlements (UE) 2021/1147 et (UE) 2021/1060 et abrogeant le règlement (UE) n<sup>o</sup> 604/2013, version du JO L, 2024/1351, 22.5.2024.
 
 #### Art. 1b
 
@@ -219,9 +219,10 @@ La personne de confiance doit posséder des connaissances du droit de l’asile,
 
 - a. conseil avant et pendant les auditions;
 - b. soutien en vue de l’indication et de l’obtention de moyens de preuve;
-- c. assistance notamment dans la communication avec les autorités et avec les établissements de santé.[^7-10]
+- c. assistance notamment dans la communication avec les autorités et avec les établissements de santé;
+- d.[^7-10] accompagnement lors de la saisie des données Eurodac et de la procédure de filtrage.[^7-11]
 
-<sup>4</sup> L’autorité cantonale communique sans tarder au Secrétariat d’État aux migrations (SEM)[^7-11] ou au Tribunal administratif fédéral, ainsi qu’aux mineurs le nom de la personne de confiance désignée et toutes les mesures tutélaires prises.[^7-12]
+<sup>4</sup> L’autorité cantonale communique sans tarder au Secrétariat d’État aux migrations (SEM)[^7-12] ou au Tribunal administratif fédéral, ainsi qu’aux mineurs le nom de la personne de confiance désignée et toutes les mesures tutélaires prises.[^7-13]
 
 <sup>5</sup> Les personnes chargées de l’audition de requérants d’asile mineurs tiennent compte des aspects particuliers de la minorité.
 
@@ -234,9 +235,10 @@ La personne de confiance doit posséder des connaissances du droit de l’asile,
 [^7-7]: Introduit par le ch. I de l’O du 8 juin 2018, en vigueur depuis le 1<sup>er</sup> mars 2019 ([RO 2018 2857](https://fedlex.data.admin.ch/eli/oc/2018/439)).
 [^7-8]: Introduit par le ch. I de l’O du 8 juin 2018, en vigueur depuis le 1<sup>er</sup> mars 2019 ([RO 2018 2857](https://fedlex.data.admin.ch/eli/oc/2018/439)).
 [^7-9]: Nouvelle teneur selon le ch. I de l’O du 8 juin 2018, en vigueur depuis le 1<sup>er</sup> mars 2019 ([RO 2018 2857](https://fedlex.data.admin.ch/eli/oc/2018/439)).
-[^7-10]: Nouvelle teneur selon le ch. I 3 de l’O du 12 juin 2015 portant adaptation d’actes en raison de nouveautés en lien avec l’acquis de Dublin/Eurodac, en vigueur depuis le 1<sup>er</sup> juil. 2015 ([RO 2015 1849](https://fedlex.data.admin.ch/eli/oc/2015/358)).
-[^7-11]: La désignation de l’unité administrative a été adaptée au 1<sup>er</sup> janv. 2015 en application de l’art. 16 al. 3 de l’O du 17 nov. 2004 sur les publications officielles ([RO 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)). Il a été tenu compte de cette mod. dans tout le texte.
-[^7-12]: Nouvelle teneur selon le ch. I de l’O du 13 déc. 2013, en vigueur depuis le 1<sup>er</sup> fév. 2014 ([RO 2013 5347](https://fedlex.data.admin.ch/eli/oc/2013/853)).
+[^7-10]: Introduite par le ch. I de l’O du 20 mai 2026, en vigueur depuis le 12 juin 2026 ([RO 2026 264](https://fedlex.data.admin.ch/eli/oc/2026/264)).
+[^7-11]: Nouvelle teneur selon le ch. I 3 de l’O du 12 juin 2015 portant adaptation d’actes en raison de nouveautés en lien avec l’acquis de Dublin/Eurodac, en vigueur depuis le 1<sup>er</sup> juil. 2015 ([RO 2015 1849](https://fedlex.data.admin.ch/eli/oc/2015/358)).
+[^7-12]: La désignation de l’unité administrative a été adaptée au 1<sup>er</sup> janv. 2015 en application de l’art. 16 al. 3 de l’O du 17 nov. 2004 sur les publications officielles ([RO 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)). Il a été tenu compte de cette mod. dans tout le texte.
+[^7-13]: Nouvelle teneur selon le ch. I de l’O du 13 déc. 2013, en vigueur depuis le 1<sup>er</sup> fév. 2014 ([RO 2013 5347](https://fedlex.data.admin.ch/eli/oc/2013/853)).
 
 #### Art. 7a
 
@@ -291,14 +293,17 @@ Lorsqu’un étranger se présente auprès d’une autorité cantonale ou fédé
 - b.[^8-1] l’attribue à un centre de la Confédération visé à l’art. 24 LAsi ou à un centre géré par un canton ou une commune en vertu de l’art. 24*d* LAsi et avise ledit centre;
 - c. lui délivre un laissez-passer.
 
-<sup>2</sup> Le requérant d’asile doit se présenter au centre auquel il a été attribué conformément à l’al. 1, let. b, au plus tard dans le courant du jour ouvrable qui suit.[^8-2]
+<sup>1bis</sup> Le requérant d’asile est attribué au centre le plus proche sis dans la région, définie à l’art. 1*b* OA 1, au sein de laquelle il a été intercepté ou au sein de laquelle il s’est présenté à une autorité fédérale ou cantonale.[^8-2]
+
+<sup>2</sup> Le requérant d’asile se présente dans un délai de 24 heures au centre auquel il a été attribué, au sens de l’al. 1, let. b, dans un délai de 24 heures après que cette attribution lui a été communiquée.[^8-3]
 
 <sup>3</sup> Les demandes d’asile émanant de personnes qui se trouvent en détention ou qui purgent une peine doivent être adressées aux autorités cantonales.
 
 <sup>4</sup> Les enfants de moins de 14 ans venus rejoindre leurs parents en Suisse déposent leur demande d’asile directement auprès des autorités du canton de séjour de ces derniers.
 
 [^8-1]: Nouvelle teneur selon le ch. I de l’O du 8 juin 2018, en vigueur depuis le 1<sup>er</sup> mars 2019 ([RO 2018 2857](https://fedlex.data.admin.ch/eli/oc/2018/439)).
-[^8-2]: Nouvelle teneur selon le ch. I de l’O du 8 juin 2018, en vigueur depuis le 1<sup>er</sup> mars 2019 ([RO 2018 2857](https://fedlex.data.admin.ch/eli/oc/2018/439)).
+[^8-2]: Introduit par le ch. I de l’O du 20 mai 2026, en vigueur depuis le 12 juin 2026 ([RO 2026 264](https://fedlex.data.admin.ch/eli/oc/2026/264)).
+[^8-3]: Nouvelle teneur selon le ch. I de l’O du 20 mai 2026, en vigueur depuis le 12 juin 2026 ([RO 2026 264](https://fedlex.data.admin.ch/eli/oc/2026/264)).
 
 #### Art. 9 et 10
 
@@ -325,30 +330,25 @@ Lorsqu’un étranger se présente auprès d’une autorité cantonale ou fédé
 Le SEM peut également autoriser l’entrée en Suisse:
 
 - a. lorsque le requérant d’asile a des liens étroits avec des personnes vivant en Suisse, ou
-- b.[^11a-2] lorsque la Suisse est compétente pour mener la procédure d’asile en application du règlement (UE) n° 604/2013[^11a-3] et que le requérant d’asile ne s’est pas rendu directement de son État d’origine ou de provenance à la frontière suisse, mais rend vraisemblable qu’il a quitté cet État pour l’un des motifs énoncés à l’art. 3, al. 1, LAsi et qu’il a cherché à atteindre la frontière suisse sans tarder.[^11a-4]
+- b.[^11a-2] lorsque la Suisse a compétence pour mener la procédure d’asile en application du règlement (UE) 2024/1351[^11a-3] et que le requérant d’asile ne s’est pas rendu directement de son État d’origine ou de provenance à la frontière suisse, mais rend vraisemblable qu’il a quitté cet État pour l’un des motifs énoncés à l’art. 3, al. 1, LAsi et qu’il a cherché à atteindre la frontière suisse sans tarder.[^11a-4]
 
-<sup>3</sup> Le SEM peut autoriser l’entrée pour des motifs humanitaires même si la compétence de la Suisse pour mener la procédure d’asile en application du règlement (UE) n° 604/2013 n’est pas établie.[^11a-5]
+<sup>3</sup> Le SEM peut autoriser l’entrée pour des motifs humanitaires même si la compétence de la Suisse pour mener la procédure d’asile en application du règlement (UE) 2024/1351 n’est pas établie.[^11a-5]
 
 [^11a-1]: Introduit par le ch. I de l’O du 24 oct. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5577](https://fedlex.data.admin.ch/eli/oc/2007/767)).
-[^11a-2]: Nouvelle teneur selon le ch. I 3 de l’O du 12 juin 2015 portant adaptation d’actes en raison de nouveautés en lien avec l’acquis de Dublin/Eurodac, en vigueur depuis le 1<sup>er</sup> juil. 2015 ([RO 2015 1849](https://fedlex.data.admin.ch/eli/oc/2015/358)).
+[^11a-2]: Nouvelle teneur selon le ch. I de l’O du 20 mai 2026, en vigueur depuis le 12 juin 2026 ([RO 2026 264](https://fedlex.data.admin.ch/eli/oc/2026/264)).
 [^11a-3]: Cf. note de bas de page relative à l’art. 1*a*, let. e.
 [^11a-4]: Nouvelle teneur selon le ch. I 4 de l’O du 22 oct. 2008 (Schengen et Dublin), en vigueur depuis le 12 déc. 2008 ([RO 2008 5421](https://fedlex.data.admin.ch/eli/oc/2008/757)).
-[^11a-5]: Introduit par le ch. I 4 de l’O du 22 oct. 2008 (Schengen et Dublin) ([RO 2008 5421](https://fedlex.data.admin.ch/eli/oc/2008/757)). Nouvelle teneur selon le ch. I 3 de l’O du 12 juin 2015 portant adaptation d’actes en raison de nouveautés en lien avec l’acquis de Dublin/Eurodac, en vigueur depuis le 1<sup>er</sup> juil. 2015 ([RO 2015 1849](https://fedlex.data.admin.ch/eli/oc/2015/358)).
+[^11a-5]: Introduit par le ch. I 4 de l’O du 22 oct. 2008 (Schengen et Dublin) ([RO 2008 5421](https://fedlex.data.admin.ch/eli/oc/2008/757)). Nouvelle teneur selon le ch. I de l’O du 20 mai 2026, en vigueur depuis le 12 juin 2026 ([RO 2026 264](https://fedlex.data.admin.ch/eli/oc/2026/264)).
 
 #### Art. 12
 
-**Procédure, séjour et hébergement à l’aéroport**[^12-1]
+**Hébergement à l’aéroport**[^12-1]
 
-### (art. 22 LAsi)
+### (art. 21*a,* al. 7, LAsi)
 
-<sup>1</sup> L’autorité compétente pour le contrôle à la frontière communique immédiatement au SEM les demandes d’asile déposées dans un aéroport suisse.
+Le SEM peut conclure des règlements d’exploitation des logements de la Confédération avec les autorités compétentes des aéroports de Zurich-Kloten et de Genève-Cointrin ou des tiers.
 
-<sup>2</sup> …[^12-2]
-
-<sup>3</sup> Le SEM peut conclure des règlements d’exploitation des logements de la Confédération avec les autorités compétentes des aéroports de Zurich-Kloten et de Genève-Cointrin ou des tiers.
-
-[^12-1]: Nouvelle teneur selon le ch. I de l’O du 24 oct. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5577](https://fedlex.data.admin.ch/eli/oc/2007/767)).
-[^12-2]: Abrogé par le ch. I de l’O du 6 mai 2026, avec effet au 1<sup>er</sup> juin 2026 ([RO 2026 199](https://fedlex.data.admin.ch/eli/oc/2026/199)).
+[^12-1]: Nouvelle teneur selon le ch. I de l’O du 20 mai 2026, en vigueur depuis le 12 juin 2026 ([RO 2026 264](https://fedlex.data.admin.ch/eli/oc/2026/264)).
 
 ### Section 2*a* Centres de la Confédération
 
@@ -444,9 +444,15 @@ Il y a notamment une atteinte sensible au fonctionnement et à la sécurité d�
 
 #### Art. 18
 
-[^18-1]
+**Filtrage prévu par le règlement (UE) 2024/1356**[^18-1]
 
-[^18-1]: Abrogé par le ch. I de l’O du 8 juin 2018, avec effet au 1<sup>er</sup> mars 2019 ([RO 2018 2857](https://fedlex.data.admin.ch/eli/oc/2018/439)).
+### (art. 26, al. 1<sup>bis</sup> et 1<sup>quater</sup>, LAsi)
+
+Le filtrage prévu par le règlement (UE) 2024/1356[^18-2] est régi par analogie par les art. 68*a* à 68*f* de l’ordonnance du 15 août 2018 sur l’entrée et l’octroi de visas[^18-3].
+
+[^18-1]: Nouvelle teneur selon le ch. I de l’O du 20 mai 2026, en vigueur depuis le 12 juin 2026 ([RO 2026 264](https://fedlex.data.admin.ch/eli/oc/2026/264)).
+[^18-2]: Règlement (UE) 2024/1356 du Parlement européen et du Conseil du 14 mai 2024 établissant le filtrage des ressortissants de pays tiers aux frontières extérieures et modifiant les règlements (CE) n<sup>o</sup> 767/2008, (UE) 2017/2226, (UE) 2018/1240 et (UE) 2019/817, version du JO L, 2024/1356, 22.5.2024.
+[^18-3]: [RS 142.204](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4856)
 
 #### Art. 19
 
@@ -493,10 +499,40 @@ Il y a notamment une atteinte sensible au fonctionnement et à la sécurité d�
 
 <sup>1</sup> Lors de l’audition pendant la phase préparatoire visée à l’art. 26, al. 3, LAsi, l’octroi au requérant du droit d’être entendu quant à son retour dans l’État Dublin présumé responsable de l’examen de sa demande d’asile s’ajoute aux étapes de procédure mentionnées à l’art. 26, al. 2 et 4, LAsi.
 
+<sup>1bis</sup> Le rapport d’audition est soumis à la personne concernée. Celle-ci peut, le cas échéant, y signaler les erreurs de traduction, malentendus ou autres erreurs de fond.[^20b-3]
+
 <sup>2</sup> Lorsque la phase préparatoire est terminée, la suite de la procédure est régie par analogie par l’art. 20*c*, let. g et h.
 
 [^20b-1]: Introduit par le ch. I de l’O du 8 juin 2018, en vigueur depuis le 1<sup>er</sup> mars 2019 ([RO 2018 2857](https://fedlex.data.admin.ch/eli/oc/2018/439)).
 [^20b-2]: Erratum du 21 juin 2024 ([RO 2024 296](https://fedlex.data.admin.ch/eli/oc/2024/296)).
+[^20b-3]: Introduit par le ch. I de l’O du 20 mai 2026, en vigueur depuis le 12 juin 2026 ([RO 2026 264](https://fedlex.data.admin.ch/eli/oc/2026/264)).
+
+#### Art. 20b<sup>bis</sup>
+
+**Enregistrement audio dans la procédure Dublin**[^20bbis-1]
+
+### (art. 26, al. 3<sup>bis</sup> à 3<sup>ter</sup>, LAsi)
+
+<sup>1</sup> L’audition visée à l’art. 20*b*, al. 1, fait l’objet d’un enregistrement audio si elle est menée dans la perspective de l’ouverture d’une procédure Dublin aux fins de prise en charge au sens de l’art. 39 du règlement (UE) 2024/1351[^20bbis-2].
+
+<sup>2</sup>
+
+L’enregistrement audio de l’audition prévu par l’art. 22 du règlement (UE) 2024/1351 peut ne pas avoir lieu:
+
+- a. si le requérant d’asile en a expressément fait la demande, ou
+- b. si, en raison d’une détention, d’une hospitalisation ou d’une procédure à l’aéroport, le requérant d’asile ne séjourne pas dans un centre de la Confédération.
+
+<sup>3</sup> Si l’enregistrement audio n’a pas lieu à la demande du requérant d’asile, le SEM consigne ce fait et les motifs correspondants. Le fait que le requérant d’asile demande que l’enregistrement audio n’ait pas lieu n’engendre pas de violation de l’obligation de collaborer.
+
+<sup>4</sup> Il est renoncé à l’enregistrement audio si un problème technique l’empêche depuis plus de cinq jours.
+
+<sup>5</sup> Le SEM établit dans tous les cas un rapport d’audition.
+
+<sup>6</sup> Les modalités de l’enregistrement audio se fondent sur l’art. 11*e* de l’ordonnance 3 du 11 août 1999 sur l’asile[^20bbis-3].
+
+[^20bbis-1]: Introduit par le ch. I de l’O du 20 mai 2026, en vigueur depuis le 12 juin 2026 ([RO 2026 264](https://fedlex.data.admin.ch/eli/oc/2026/264)).
+[^20bbis-2]: Cf. note de bas de page relative à l’art. 1*a*, let. e.
+[^20bbis-3]: [RS 142.314](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4884)
 
 #### Art. 20c
 
@@ -656,20 +692,20 @@ Des accords relatifs à la coopération lors de l’établissement des faits gar
 
 [^29a-2]
 
-<sup>1</sup> Le SEM examine la compétence relative au traitement d’une demande d’asile selon les critères fixés dans le règlement (UE) n°604/2013[^29a-3].[^29a-4]
+<sup>1</sup> Le SEM examine la compétence relative au traitement d’une demande d’asile selon les critères fixés dans le règlement (UE) 2024/1351[^29a-3].[^29a-4]
 
 <sup>2</sup> S’il ressort de cet examen qu’un autre État est responsable du traitement de la demande d’asile, le SEM rend une décision de non-entrée en matière après que l’État requis a accepté la prise ou la reprise en charge du requérant d’asile.
 
 <sup>3</sup> Le SEM peut, pour des raisons humanitaires, également traiter la demande lorsqu’il ressort de l’examen qu’un autre État est compétent.
 
-<sup>4</sup> La procédure de prise ou de reprise en charge du requérant d’asile par l’État compétent se déroule selon le règlement (CE) n° 1560/2003[^29a-5].[^29a-6]
+<sup>4</sup> La procédure de prise ou de reprise en charge du requérant d’asile par l’État compétent se déroule selon les art. 7 à 16 du règlement d’exécution (UE) 2025/2055[^29a-5].[^29a-6]
 
 [^29a-1]: Introduit par le ch. I 4 de l’O du 22 oct. 2008 (Schengen et Dublin), en vigueur depuis le 12 déc. 2008 ([RO 2008 5421](https://fedlex.data.admin.ch/eli/oc/2008/757)).
 [^29a-2]: Nouvelle teneur selon le ch. I de l’O du 13 déc. 2013, en vigueur depuis le 1<sup>er</sup> fév. 2014 ([RO 2013 5347](https://fedlex.data.admin.ch/eli/oc/2013/853)).
 [^29a-3]: Cf. note de bas de page relative à l’art. 1*a*, let. e.
-[^29a-4]: Nouvelle teneur selon le ch. I 3 de l’O du 12 juin 2015 portant adaptation d’actes en raison de nouveautés en lien avec l’acquis de Dublin/Eurodac, en vigueur depuis le 1<sup>er</sup> juil. 2015 ([RO 2015 1849](https://fedlex.data.admin.ch/eli/oc/2015/358)).
-[^29a-5]: R (CE) n° 1560/2003 de la Commission du 2 septembre 2003 portant modalités d’application du R (CE) n° 343/2003 du Conseil établissant les critères et mécanismes de détermination de l’État membre responsable de l’examen d’une demande d’asile présentée dans l’un des Etats membres par un ressortissant d’un pays tiers, JO L 222 du 5.9.2003, p. 3; R modifié en dernier lieu par le R (UE) n° 118/2014, JO L 39 du 8.2.2014, p. 1.
-[^29a-6]: Nouvelle teneur selon le ch. I 3 de l’O du 12 juin 2015 portant adaptation d’actes en raison de nouveautés en lien avec l’acquis de Dublin/Eurodac, en vigueur depuis le 1<sup>er</sup> juil. 2015 ([RO 2015 1849](https://fedlex.data.admin.ch/eli/oc/2015/358)).
+[^29a-4]: Nouvelle teneur selon le ch. I de l’O du 20 mai 2026, en vigueur depuis le 12 juin 2026 ([RO 2026 264](https://fedlex.data.admin.ch/eli/oc/2026/264)).
+[^29a-5]: Règlement d’exécution (UE) 2025/2055 de la Commission du 2 octobre 2025 portant modalités d’application du règlement (UE) 2024/1351 du Parlement européen et du Conseil en ce qui concerne la gestion de l’asile et de la migration, et abrogeant le règlement (CE) n<sup>o</sup> 1560/2003 de la Commission, version du JO L, 2025/2055, 12.11.2025.
+[^29a-6]: Nouvelle teneur selon le ch. I de l’O du 20 mai 2026, en vigueur depuis le 12 juin 2026 ([RO 2026 264](https://fedlex.data.admin.ch/eli/oc/2026/264)).
 
 #### Art. 29b
 
@@ -1016,17 +1052,20 @@ L’étranger qui, conformément à l’art. 29 LAsi, a déjà été entendu ava
 
 **Information sur le mécanisme de traitement des plaintes de l’agence de l’Union européenne compétente en matière de surveillance des frontières extérieures Schengen**[^52abis-1]
 
-### (art. 102*g*, al. 3, LAsi)
+### (art. 102*g*, al. 2, let. b, LAsi)
+
+[^52abis-2]
 
 <sup>1</sup> Durant son séjour dans un centre de la Confédération ou à l’aéroport, le requérant d’asile est informé dans le cadre du conseil au sens de l’art. 102*g* LAsi de la possibilité de déposer, auprès de l’Agence européenne de garde-frontières et de garde-côtes (Agence), une plainte concernant des violations des droits fondamentaux en relation avec des interventions de cette agence.
 
-<sup>2</sup> Le requérant est notamment informé du mécanisme de traitement des plaintes de l’Agence visé à l’art. 111 du règlement (UE) 2019/1896[^52abis-2] et des possibles violations des droits fondamentaux inscrits dans la Charte des droits fondamentaux de l’Union européenne[^52abis-3].
+<sup>2</sup> Le requérant est notamment informé du mécanisme de traitement des plaintes de l’Agence visé à l’art. 111 du règlement (UE) 2019/1896[^52abis-3] et des possibles violations des droits fondamentaux inscrits dans la Charte des droits fondamentaux de l’Union européenne[^52abis-4].
 
 <sup>3</sup> Les prestataires mandatés veillent à ce que les informations soient adaptées aux besoins des requérants d’asile et leur soit fournie dès que possible après le dépôt de leur demande.
 
 [^52abis-1]: Introduit par le ch. I de l’O du 29 juin 2022, en vigueur depuis le 1<sup>er</sup> sept. 2022 ([RO 2022 460](https://fedlex.data.admin.ch/eli/oc/2022/460)).
-[^52abis-2]: Règlement (UE) 2019/1896 du Parlement européen et du Conseil du 13 novembre 2019 relatif au corps européen de garde-frontières et de garde-côtes et abrogeant les règlements (UE) n<sup>o</sup> 1052/2013 et (UE) 2016/1624, version selon JO L 295 du 14.11. 2019, p. 1
-[^52abis-3]: Charte des droits fondamentaux de l’Union européenne, JO C 326 du 26.10.2012, p. 391
+[^52abis-2]: Nouvelle teneur selon le ch. I de l’O du 20 mai 2026, en vigueur depuis le 12 juin 2026 ([RO 2026 264](https://fedlex.data.admin.ch/eli/oc/2026/264)).
+[^52abis-3]: Règlement (UE) 2019/1896 du Parlement européen et du Conseil du 13 novembre 2019 relatif au corps européen de garde-frontières et de garde-côtes et abrogeant les règlements (UE) n<sup>o</sup> 1052/2013 et (UE) 2016/1624, version selon JO L 295 du 14.11. 2019, p. 1
+[^52abis-4]: Charte des droits fondamentaux de l’Union européenne, JO C 326 du 26.10.2012, p. 391
 
 #### Art. 52b
 
@@ -1209,17 +1248,20 @@ Lorsqu’un requérant d’asile mineur non accompagné ne dispose ni d’un tut
 
 [^53a-1]: Introduit par le ch. I de l’O du 24 oct. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5577](https://fedlex.data.admin.ch/eli/oc/2007/767)).
 
-## Chapitre 5*a* Conclusion de traités internationaux liés au règlement (UE) 2024/1351
+## Chapitre 5*a* Traités internationaux
 
-[^chap5a-1]
+[^chap5a-1][^chap5a-2]
 
 [^chap5a-1]: Introduit par le ch. I de l’O du 26 fév. 2025, en vigueur depuis le 1<sup>er</sup> avr. 2025 ([RO 2025 164](https://fedlex.data.admin.ch/eli/oc/2025/164)).
+[^chap5a-2]: Nouvelle teneur selon le ch. I de l’O du 20 mai 2026, en vigueur depuis le 12 juin 2026 ([RO 2026 264](https://fedlex.data.admin.ch/eli/oc/2026/264)).
 
 #### Art. 53b
 
+**Conclusion de traités internationaux liés au règlement (UE) 2024/1351[^53b-1]**
+
 <sup>1</sup>
 
-Le SEM est compétent pour conclure des traités internationaux en vue de la reprise d’actes d’exécution de la Commission européenne relatifs au règlement (UE) 2024/1351[^53b-1], pour autant que ces traités soient de portée mineure au sens de l’art. 7*a* de la loi du 21 mars 1997 sur l’organisation du gouvernement et de l’administration (LOGA)[^53b-2] et pour autant que les actes d’exécution soient édictés sur la base des dispositions suivantes du règlement (UE) 2024/1351 et qu’ils concernent les domaines suivants:
+Le SEM a compétence pour conclure des traités internationaux en vue de la reprise d’actes d’exécution de la Commission européenne relatifs au règlement (UE) 2024/1351[^53b-2], pour autant que ces traités soient de portée mineure au sens de l’art. 7*a* de la loi du 21 mars 1997 sur l’organisation du gouvernement et de l’administration (LOGA)[^53b-3] et pour autant que les actes d’exécution soient édictés sur la base des dispositions suivantes du règlement (UE) 2024/1351 et qu’ils concernent les domaines suivants:[^53b-4]
 
 - a. le formulaire type pour l’échange des informations utiles entre les États Dublin afin d’identifier les membres de la famille ou les proches d’un mineur non accompagné résidant sur le territoire d’un autre État Dublin (art. 23, par. 7);
 - b. les méthodes uniformes pour la consultation et l’échange d’informations entre les États Dublin afin de déterminer l’État Dublin responsable de l’examen de la demande d’un mineur non accompagné (art. 25, par. 7);
@@ -1247,8 +1289,20 @@ Il est compétent pour conclure des traités internationaux en vue de la reprise
 - f. les critères permettant d’évaluer la capacité à prendre soin d’une personne à charge (art. 34, par. 3, pt. c);
 - g. les éléments à prendre en considération pour évaluer l’incapacité à se déplacer pendant un temps assez long (art. 34, par. 3, pt. d).
 
-[^53b-1]: Règlement (UE) 2024/1351 du Parlement européen et du Conseil du 14 mai 2024 relatif à la gestion de l’asile et de la migration, modifiant les règlements (UE) 2021/1147 et (UE) 2021/1060 et abrogeant le règlement (UE) n<sup>o</sup> 604/2013, version du JO L, 2024/1351, 22.5.2024.
-[^53b-2]: [RS 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
+[^53b-1]: Introduit par le ch. I de l’O du 20 mai 2026, en vigueur depuis le 12 juin 2026 ([RO 2026 264](https://fedlex.data.admin.ch/eli/oc/2026/264)).
+[^53b-2]: Cf. note de bas de page relative à l’art. 1*a*, let. e.
+[^53b-3]: [RS 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
+[^53b-4]: Nouvelle teneur selon le ch. I de l’O du 20 mai 2026, en vigueur depuis le 12 juin 2026 ([RO 2026 264](https://fedlex.data.admin.ch/eli/oc/2026/264)).
+
+#### Art. 53c
+
+**Conclusion de traités internationaux liés au règlement (UE) 2024/1358**[^53c-1]
+
+Le SEM a compétence pour conclure des traités internationaux en vue de la reprise d’actes d’exécution de la Commission européenne relatifs au règlement (UE) 2024/1358[^53c-2], pour autant que ces traités soient de portée mineure au sens de l’art. 7*a* LOGA[^53c-3] et pour autant que les actes d’exécution soient édictés sur la base de l’art. 42, par. 3, du règlement (UE) 2024/1358 et définissent le contenu de la brochure commune d’information relative à l’enregistrement des données dans Eurodac.
+
+[^53c-1]: Introduit par le ch. I de l’O du 20 mai 2026, en vigueur depuis le 12 juin 2026 ([RO 2026 264](https://fedlex.data.admin.ch/eli/oc/2026/264)).
+[^53c-2]: Règlement (UE) 2024/1358 du Parlement européen et du Conseil du 14 mai 2024 relatif à la création d’«Eurodac» pour la comparaison des données biométriques aux fins de l’application efficace des règlements (UE) 2024/1351 et (UE) 2024/1350 du Parlement européen et du Conseil et de la directive 2001/55/CE du Conseil et aux fins de l’identification des ressortissants de pays tiers et apatrides en séjour irrégulier, et relatif aux demandes de comparaison avec les données d’Eurodac présentées par les autorités répressives des États membres et par Europol à des fins répressives, modifiant les règlements (UE) 2018/1240 et (UE) 2019/818 du Parlement européen et du Conseil et abrogeant le règlement (UE) n<sup>o</sup> 603/2013 du Parlement européen et du Conseil, version du JO L, 2024/1358, 22.5.2024.
+[^53c-3]: [[RS 172.010](https://www.fedlex.admin.ch/redirect/rs/172.010/de)](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
 
 ## Chapitre 6 Dispositions finales
 
@@ -1316,19 +1370,21 @@ Annexe 1[^t-1]
 
 ## Accords d’association à Dublin
 
-[^t-1]: Anciennement annexe. Introduite par le ch. I 4 de l’O du 22 oct. 2008 (Schengen et Dublin), en vigueur depuis le 12 déc. 2008 ([RO 2008 5421](https://fedlex.data.admin.ch/eli/oc/2008/757)).
+[^t-1]: Anciennement annexe. Introduite par le ch. I 4 de l’O du 22 oct. 2008 (Schengen et Dublin) ([RO 2008 5421](https://fedlex.data.admin.ch/eli/oc/2008/757)). Nouvelle teneur selon le ch. II de l’O du 20 mai 2026, en vigueur depuis le 12 juin 2026 ([RO 2026 264](https://fedlex.data.admin.ch/eli/oc/2026/264)).
 
 Les accords d’association à Dublin comprennent les accords suivants:
 
-- a. Accord du 26 octobre 2004 entre la Confédération suisse et la Communauté européenne relatif aux critères et aux mécanismes permettant de déterminer l’État responsable de l’examen d’une demande d’asile introduite dans un État membre ou en Suisse (AAD)[^annex1-lvlu1-1];
+- a. Accord du 26 octobre 2004 entre la Confédération suisse et la Communauté européenne relatif aux critères et aux mécanismes permettant de déterminer l’État responsable de l’examen d’une demande d’asile introduite dans un État membre ou en Suisse[^annex1-lvlu1-1];
 - b. Accord du 17 décembre 2004 entre la Confédération suisse, la République d’Islande et le Royaume de Norvège sur la mise en œuvre, l’application et le développement de l’acquis de Schengen et sur les critères et les mécanismes permettant de déterminer l’État responsable de l’examen d’une demande d’asile introduite en Suisse, en Islande ou en Norvège[^annex1-lvlu1-2];
 - c. Protocole du 28 février 2008 entre la Confédération suisse, la Communauté européenne et la Principauté de Liechtenstein à l’accord entre la Confédération suisse et la Communauté européenne relatif aux critères et mécanismes de détermination de l’État responsable de l’examen d’une demande d’asile présentée dans un État membre ou en Suisse[^annex1-lvlu1-3];
-- d. Protocole du 28 février 2008 entre la Confédération suisse, la Communauté européenne et la Principauté de Liechtenstein sur l’adhésion de la Principauté de Liechtenstein à l’accord entre la Communauté européenne et la Confédération suisse relatif aux critères et mécanismes de détermination de l’État responsable de l’examen d’une demande d’asile présentées dans un État Membre ou en Suisse[^annex1-lvlu1-4].
+- d. Protocole du 28 février 2008 entre la Confédération suisse, la Communauté européenne et la Principauté de Liechtenstein sur l’adhésion de la Principauté de Liechtenstein à l’accord entre la Communauté européenne et la Confédération suisse relatif aux critères et mécanismes de détermination de l’État responsable de l’examen d’une demande d’asile présentée dans un État Membre ou en Suisse[^annex1-lvlu1-4];
+- e. Protocole du 27 juin 2019 entre la Confédération suisse, l’Union européenne et la Principauté de Liechtenstein à l’Accord entre la Confédération suisse et la Communauté européenne relatif aux critères et aux mécanismes permettant de déterminer l’État responsable de l’examen d’une demande d’asile introduite dans un État membre ou en Suisse, concernant l’accès à Eurodac à des fins répressives[^annex1-lvlu1-5].
 
 [^annex1-lvlu1-1]: [RS 0.142.392.68](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/443)
 [^annex1-lvlu1-2]: [RS 0.362.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1519)
 [^annex1-lvlu1-3]: [RS 0.142.393.141](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/451)
 [^annex1-lvlu1-4]: [RS 0.142.395.141](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/452)
+[^annex1-lvlu1-5]: [RS 0.142.392.682](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40016)
 
 Annexe 2[^t-2]
 
