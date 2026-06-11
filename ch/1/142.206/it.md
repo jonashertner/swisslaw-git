@@ -4,11 +4,11 @@ title: Ordinanza del 10 novembre 2021 sul sistema di ingressi/uscite (OEES)
 short: OEES
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/734"
 language: it
-version: 2024-01-01
+version: 2026-06-12
 adopted: 2021-11-10
 in_force: 2022-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/734/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2021-734-20240101-it-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/734/20240101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/734/20260612/it/xml/fedlex-data-admin-ch-eli-cc-2021-734-20260612-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/734/20260612/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/734/20240101/it"
 
 (OEES)
 
-del 10 novembre 2021 (Stato 1° gennaio 2024)
+del 10 novembre 2021 (Stato 12 giugno 2026)
 
 Il Consiglio federale svizzero,
 
@@ -35,13 +35,14 @@ ordina:
 
 La presente ordinanza disciplina:
 
-- a. l’elenco dei dati del sistema di ingressi/uscite (EES), i servizi autorizzati all’accesso nonché la portata delle autorizzazioni di accesso ai sensi del regolamento (UE) 2017/2226[^1-1];
+- a.[^1-1] l’elenco dei dati del sistema di ingressi/uscite (EES), i servizi autorizzati all’accesso nonché la portata delle autorizzazioni di accesso ai sensi del regolamento (UE) 2017/2226[^1-2];
 - b. la procedura di consultazione e di accesso ai dati dell’EES;
 - c. l’accesso ai dati dell’EES tramite il punto di accesso centrale a fini di contrasto;
 - d. il diritto di rettifica, integrazione e cancellazione dei dati;
 - e. i diritti degli interessati, la protezione dei dati, la sicurezza dei dati e la vigilanza sul trattamento dei dati.
 
-[^1-1]: Regolamento (UE) 2017/2226 del Parlamento europeo e del Consiglio, del 30 nov. 2017, che istituisce un sistema di ingressi/uscite per la registrazione dei dati di ingresso e di uscita e dei dati relativi al respingimento dei cittadini di paesi terzi che attraversano le frontiere esterne degli Stati membri e che determina le condizioni di accesso al sistema di ingressi/uscite a fini di contrasto e che modifica la Convenzione di applicazione dell’Accordo di Schengen e i regolamenti (CE) n. 767/2008 e (UE) n. 1077/2011, GU L 327 del 9.12.2017, pag. 20.
+[^1-1]: Nuovo testo giusta la cifra I dell’O del 20 mag. 2026, in vigore dal 12 giu. 2026 ([RU 2026 262](https://fedlex.data.admin.ch/eli/oc/2026/262)).
+[^1-2]: Regolamento (UE) 2017/2226 del Parlamento europeo e del Consiglio, del 30 nov. 2017, che istituisce un sistema di ingressi/uscite per la registrazione dei dati di ingresso e di uscita e dei dati relativi al respingimento dei cittadini di paesi terzi che attraversano le frontiere esterne degli Stati membri e che determina le condizioni di accesso al sistema di ingressi/uscite a fini di contrasto e che modifica la Convenzione di applicazione dell’Accordo di Schengen e i regolamenti (CE) n. 767/2008 e (UE) n. 1077/2011, GU L 327 del 9.12.2017, pag. 20; modificato da ultimo dal regolamento (UE) 2024/1356, GU L, 2024/1356, 22.5.2024.
 
 #### Art. 2
 
@@ -397,23 +398,24 @@ Allegato 2[^t-1]
 
 ## Elenco dei dati, servizi autorizzati all’accesso e portata dei diritti di accesso nell’EES
 
-[^t-1]: Aggiornato dalla correzione del 13 set. 2023 ([RU 2023 508](https://fedlex.data.admin.ch/eli/oc/2023/508)).
+[^t-1]: Nuovo testo giusta la cifra II dell’O del 20 mag. 2026, in vigore dal 12 giu. 2026 ([RU 2026 262](https://fedlex.data.admin.ch/eli/oc/2026/262)).
 
-Legenda
+### Legenda
 
-Portata dei livelli di accesso:
+Portata dei livelli di accesso
 
 - A Consultazione online
 - B Inserimento e trattamento online
 - Vuoto Nessun accesso
 - <sup>1</sup> Accesso diretto tramite ORBIS
 
-Servizi autorizzati all’accesso:
+Servizi autorizzati all’accesso
 
 - SEM Segreteria di Stato della migrazione
 - – I Ambito direzionale Pianificazione e risorse
 - – II Ambito direzionale Immigrazione e integrazione
 - – III Ambito direzionale Affari internazionali
+- – IV Ambito direzionale Centri federali d’asilo
 - COA fedpol Centrale operativa e di allarme fedpol
 - RSE Rappresentanze svizzere all’estero e missioni
 - DFAE Dipartimento federale degli affari esteri: Segreteria di Stato e Direzione consolare
@@ -422,70 +424,70 @@ Servizi autorizzati all’accesso:
 - PCfr Autorità cantonali di polizia responsabili dei controlli alle frontiere esterne Schengen
 - MIGRA Autorità cantonali di migrazione o autorità comunali cui i Cantoni hanno delegato le competenze corrispondenti
 
-## Elenco dei dati dell’EES
+### Elenco dei dati dell’EES
 
 <table>
-<tr><th>Denominazione dei campi dei dati dell’EES</th><th colspan="3">SEM</th><th colspan="7"></th></tr>
-<tr><th></th><th>I</th><th>II</th><th>III</th><th>COA fedpol</th><th>RSE</th><th>DFAE</th><th>UDSC</th><th>POCA</th><th>PCfr</th><th>MIGRA</th></tr>
-<tr><td colspan="11">I. Fascicolo EES individuale</td></tr>
-<tr><td colspan="11">1. Dati personali</td></tr>
-<tr><td>Cognomi</td><td>A</td><td>B</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td></tr>
-<tr><td>Nomi</td><td>A</td><td>B</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td></tr>
-<tr><td>Data di nascita</td><td>A</td><td>B</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td></tr>
-<tr><td>Sesso</td><td>A</td><td>B</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td></tr>
-<tr><td>Cittadinanze</td><td>A</td><td>B</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td></tr>
-<tr><td colspan="11">2. Dati biometrici</td></tr>
-<tr><td>Immagine del volto</td><td></td><td>B</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td></tr>
-<tr><td>Impronte digitali</td><td></td><td>B</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td></tr>
-<tr><td>Assenza di impronte digitali o dell’immagine del volto: motivi</td><td></td><td>B</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td></tr>
-<tr><td colspan="11">3. Dati relativi al documento di viaggio</td></tr>
-<tr><td>Tipo e numero del documento di viaggio</td><td>A</td><td>B</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td></tr>
-<tr><td>Codice dello Stato di rilascio del documento di viaggio</td><td>A</td><td>B</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td></tr>
-<tr><td>Data di scadenza del documento di viaggio</td><td>A</td><td>B</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td></tr>
-<tr><td colspan="11">II. Dati d’ingresso/uscita</td></tr>
-<tr><td colspan="11">1. Dati d’ingresso</td></tr>
-<tr><td>Data e ora d’ingresso</td><td>A</td><td>B</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td></tr>
-<tr><td>Valico di frontiera utilizzato per l’ingresso</td><td>A</td><td>B</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td></tr>
-<tr><td>Autorità che ha autorizzato l’ingresso</td><td>A</td><td>B</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td></tr>
-<tr><td>Familiare di un cittadino di uno Stato terzo secondo l’art. 2 par. 3 lett. b del regolamento (UE) 2017/2226[^annex2-lvlu2-1] (sì/no)</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
-<tr><td>Numero della vignetta di visto</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
-<tr><td>Codice dello Stato che ha rilasciato la vignetta di visto</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
-<tr><td>Validità del visto: data d’inizio della validità e data di scadenza</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
-<tr><td>Data di scadenza della durata massima del soggiorno autorizzato</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
-<tr><td>Numero di ingressi autorizzati durante il periodo di validità del visto</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
-<tr><td>Informazioni sulla validità territoriale del visto</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
-<tr><td colspan="11">2. Dati di uscita</td></tr>
-<tr><td>Data e ora di uscita</td><td>A</td><td>B</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td></tr>
-<tr><td>Valico di frontiera utilizzato per uscire</td><td>A</td><td>B</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td></tr>
-<tr><td colspan="11">III. Dati in caso di annullamento o revoca del visto nonché di mancata proroga o revoca del soggiorno</td></tr>
-<tr><td>Informazioni sullo status: annullato, revocato</td><td>A</td><td>B</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td></tr>
-<tr><td>Luogo e data della decisione</td><td>A</td><td>B</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td></tr>
-<tr><td>Denominazione e sede dell’autorità responsabile</td><td>A</td><td>B</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td></tr>
-<tr><td>Motivi dell’annullamento o della revoca</td><td>A</td><td>B</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td></tr>
-<tr><td colspan="11">IV. Dati in caso di proroga del visto o del soggiorno</td></tr>
-<tr><td>Informazioni sullo status: prorogato</td><td>A</td><td>B</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td></tr>
-<tr><td>Luogo e data della decisione</td><td>A</td><td>B</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td></tr>
-<tr><td>Denominazione e sede dell’autorità responsabile</td><td>A</td><td>B</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td></tr>
-<tr><td>Data di inizio e di scadenza della proroga</td><td>A</td><td>B</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td></tr>
-<tr><td>Numero della vignetta del visto prorogato</td><td>A</td><td>B</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td></tr>
-<tr><td>Durata della proroga del soggiorno autorizzato</td><td>A</td><td>B</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td></tr>
-<tr><td>Motivi della proroga</td><td>A</td><td>B</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td></tr>
-<tr><td>Codice dello Stato di rilascio</td><td>A</td><td>B</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td></tr>
-<tr><td colspan="11">V. Dati relativi al rifiuto d’entrata</td></tr>
-<tr><td>Data e ora della decisione</td><td></td><td>B</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td></tr>
-<tr><td>Valico di frontiera presso cui ha avuto luogo il rifiuto d’entrata</td><td></td><td>B</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td></tr>
-<tr><td>Autorità competente</td><td></td><td>B</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td></tr>
-<tr><td>Motivi del rifiuto d’entrata</td><td>A</td><td>B</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td></tr>
-<tr><td>Numero della vignetta di visto</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>B</td><td>B</td></tr>
-<tr><td colspan="11">VI. Calcolatore automatic</td></tr>
-<tr><td>Durata massima rimanente di soggiorno autorizzato sulla base delle date d’ingresso previste</td><td></td><td>A</td><td>A</td><td></td><td>A1</td><td>A1</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
-<tr><td>Numero di ingressi ancora autorizzati da visti emessi per uno o due ingressi</td><td></td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
-<tr><td>Durata di un soggiorno fuori termine</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
-<tr><td>Durata massima del soggiorno autorizzato al momento dell’ingresso</td><td></td><td>A</td><td>A</td><td></td><td>A1</td><td>A1</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
-<tr><td colspan="11">VII. Informazioni sui programmi nazionali di facilitazione (NFP)</td></tr>
-<tr><td>Stato membro che gestisce un NFP (National Facilitation Programme)</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
-<tr><td>Denominazione del NFP</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
-<tr><td>Validità dello status NFP concesso</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><th>Denominazione dei campi dei dati dell’EES</th><th colspan="4">SEM</th><th colspan="7"></th></tr>
+<tr><th></th><th>I</th><th>II</th><th>III</th><th>IV</th><th>COA fedpol</th><th>RSE</th><th>DFAE</th><th>UDSC</th><th>POCA</th><th>PCfr</th><th>MIGRA</th></tr>
+<tr><td colspan="12">I. Fascicolo EES individuale</td></tr>
+<tr><td colspan="12">1. Dati personali</td></tr>
+<tr><td>Cognomi</td><td>A</td><td>B</td><td>A</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td></tr>
+<tr><td>Nomi</td><td>A</td><td>B</td><td>A</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td></tr>
+<tr><td>Data di nascita</td><td>A</td><td>B</td><td>A</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td></tr>
+<tr><td>Sesso</td><td>A</td><td>B</td><td>A</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td></tr>
+<tr><td>Cittadinanze</td><td>A</td><td>B</td><td>A</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td></tr>
+<tr><td colspan="12">2. Dati biometrici</td></tr>
+<tr><td>Immagine del volto</td><td></td><td>B</td><td>A</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td></tr>
+<tr><td>Impronte digitali</td><td></td><td>B</td><td>A</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td></tr>
+<tr><td>Assenza di impronte digitali o dell’immagine del volto: motivi</td><td></td><td>B</td><td>A</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td></tr>
+<tr><td colspan="12">3. Dati relativi al documento di viaggio</td></tr>
+<tr><td>Tipo e numero del documento di viaggio</td><td>A</td><td>B</td><td>A</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td></tr>
+<tr><td>Codice dello Stato di rilascio del documento di viaggio</td><td>A</td><td>B</td><td>A</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td></tr>
+<tr><td>Data di scadenza del documento di viaggio</td><td>A</td><td>B</td><td>A</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td></tr>
+<tr><td colspan="12">II. Dati d’ingresso/uscita</td></tr>
+<tr><td colspan="12">1. Dati d’ingresso</td></tr>
+<tr><td>Data e ora d’ingresso</td><td>A</td><td>B</td><td>A</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td></tr>
+<tr><td>Valico di frontiera utilizzato per l’ingresso</td><td>A</td><td>B</td><td>A</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td></tr>
+<tr><td>Autorità che ha autorizzato l’ingresso</td><td>A</td><td>B</td><td>A</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td></tr>
+<tr><td>Familiare di un cittadino di uno Stato terzo secondo l’art. 2 par. 3 lett. b del regolamento (UE) 2017/2226[^annex2-lvlu1-lvlu2-1] (sì/no)</td><td>A</td><td>A</td><td>A</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Numero della vignetta di visto</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Codice dello Stato che ha rilasciato la vignetta di visto</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Validità del visto: data d’inizio della validità e data di scadenza</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Data di scadenza della durata massima del soggiorno autorizzato</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Numero di ingressi autorizzati durante il periodo di validità del visto</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Informazioni sulla validità territoriale del visto</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td colspan="12">2. Dati di uscita</td></tr>
+<tr><td>Data e ora di uscita</td><td>A</td><td>B</td><td>A</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td></tr>
+<tr><td>Valico di frontiera utilizzato per uscire</td><td>A</td><td>B</td><td>A</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td></tr>
+<tr><td colspan="12">III. Dati in caso di annullamento o revoca del visto nonché di mancata proroga o revoca del soggiorno</td></tr>
+<tr><td>Informazioni sullo status: annullato, revocato</td><td>A</td><td>B</td><td>A</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td></tr>
+<tr><td>Luogo e data della decisione</td><td>A</td><td>B</td><td>A</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td></tr>
+<tr><td>Denominazione e sede dell’autorità responsabile</td><td>A</td><td>B</td><td>A</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td></tr>
+<tr><td>Motivi dell’annullamento o della revoca</td><td>A</td><td>B</td><td>A</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td></tr>
+<tr><td colspan="12">IV. Dati in caso di proroga del visto o del soggiorno</td></tr>
+<tr><td>Informazioni sullo status: prorogato</td><td>A</td><td>B</td><td>A</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td></tr>
+<tr><td>Luogo e data della decisione</td><td>A</td><td>B</td><td>A</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td></tr>
+<tr><td>Denominazione e sede dell’autorità responsabile</td><td>A</td><td>B</td><td>A</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td></tr>
+<tr><td>Data di inizio e di scadenza della proroga</td><td>A</td><td>B</td><td>A</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td></tr>
+<tr><td>Numero della vignetta del visto prorogato</td><td>A</td><td>B</td><td>A</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td></tr>
+<tr><td>Durata della proroga del soggiorno autorizzato</td><td>A</td><td>B</td><td>A</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td></tr>
+<tr><td>Motivi della proroga</td><td>A</td><td>B</td><td>A</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td></tr>
+<tr><td>Codice dello Stato di rilascio</td><td>A</td><td>B</td><td>A</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td></tr>
+<tr><td colspan="12">V. Dati relativi al rifiuto d’entrata</td></tr>
+<tr><td>Data e ora della decisione</td><td></td><td>B</td><td>A</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td></tr>
+<tr><td>Valico di frontiera presso cui ha avuto luogo il rifiuto d’entrata</td><td></td><td>B</td><td>A</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td></tr>
+<tr><td>Autorità competente</td><td></td><td>B</td><td>A</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td></tr>
+<tr><td>Motivi del rifiuto d’entrata</td><td>A</td><td>B</td><td>A</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td></tr>
+<tr><td>Numero della vignetta di visto</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>B</td><td>B</td></tr>
+<tr><td colspan="12">VI. Calcolatore automatico</td></tr>
+<tr><td>Durata massima rimanente di soggiorno autorizzato sulla base delle date d’ingresso previste</td><td></td><td>A</td><td>A</td><td>A</td><td></td><td>A<sup>1</sup></td><td>A<sup>1</sup></td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Numero di ingressi ancora autorizzati da visti emessi per uno o due ingressi</td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Durata di un soggiorno fuori termine</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Durata massima del soggiorno autorizzato al momento dell’ingresso</td><td></td><td>A</td><td>A</td><td>A</td><td></td><td>A<sup>1</sup></td><td>A<sup>1</sup></td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td colspan="12">VII. Informazioni sui programmi nazionali di facilitazione (NFP)</td></tr>
+<tr><td>Stato membro che gestisce un NFP (National Facilitation Programme)</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Denominazione del NFP</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Validità dello status NFP concesso</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
 </table>
 
-[^annex2-lvlu2-1]: Cfr. nota a piè di pagina relativa all’art. 1 lett. a.
+[^annex2-lvlu1-lvlu2-1]: Cfr. nota a piè di pagina relativa all’art. 1 lett. a.

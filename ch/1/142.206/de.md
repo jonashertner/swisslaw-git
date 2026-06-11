@@ -4,11 +4,11 @@ title: Verordnung vom 10. November 2021 über das Einreise- und Ausreisesystem (
 short: EESV
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/734"
 language: de
-version: 2024-01-01
+version: 2026-06-12
 adopted: 2021-11-10
 in_force: 2022-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/734/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2021-734-20240101-de-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/734/20240101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/734/20260612/de/xml/fedlex-data-admin-ch-eli-cc-2021-734-20260612-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/734/20260612/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/734/20240101/de"
 
 (EESV)
 
-vom 10. November 2021 (Stand am 1. Januar 2024)
+vom 10. November 2021 (Stand am 12. Juni 2026)
 
 Der Schweizerische Bundesrat,
 
@@ -35,13 +35,14 @@ verordnet:
 
 Diese Verordnung regelt:
 
-- a. den Datenkatalog des Einreise- und Ausreisesystems (EES), die zugangsberechtigten Stellen sowie den Umfang der Zugangsberechtigungen nach der Verordnung (EU) 2017/2226[^1-1];
+- a.[^1-1] den Datenkatalog des Einreise- und Ausreisesystems (EES), die zugangsberechtigten Stellen sowie den Umfang der Zugangsberechtigungen nach der Verordnung (EU) 2017/2226[^1-2];
 - b. die Verfahren für die Abfrage und den Zugang zu den Daten des EES;
 - c. den Zugang zu den Daten des EES über die zentrale Zugangsstelle zur Gefahrenabwehr und Strafverfolgung;
 - d. die Berichtigung, Ergänzung und Löschung von Daten;
 - e. die Rechte der betroffenen Personen, den Datenschutz, die Datensicherheit und die Aufsicht über die Datenbearbeitung.
 
-[^1-1]: Verordnung (EU) 2017/2226 des Europäischen Parlaments und des Rates vom 30. November 2017 über ein Einreise-/Ausreisesystem (EES) zur Erfassung der Ein- und Ausreisedaten sowie der Einreiseverweigerungsdaten von Drittstaatsangehörigen an den Aussengrenzen der Mitgliedstaaten und zur Festlegung der Bedingungen für den Zugang zum EES zu Gefahrenabwehr- und Strafverfolgungszwecken und zur Änderung des Übereinkommens zur Durchführung des Übereinkommens von Schengen sowie der Verordnungen (EG) Nr. 767/2008 und (EU) Nr. 1077/2011, Fassung gemäss ABl. L 327 vom 9.12.2017, S. 20.
+[^1-1]: Fassung gemäss Ziff. I der V vom 20. Mai 2026, in Kraft seit 12. Juni 2026 ([AS 2026 262](https://fedlex.data.admin.ch/eli/oc/2026/262)).
+[^1-2]: Verordnung (EU) 2017/2226 des Europäischen Parlaments und des Rates vom 30. November 2017 über ein Einreise-/Ausreisesystem (EES) zur Erfassung der Ein- und Ausreisedaten sowie der Einreiseverweigerungsdaten von Drittstaatsangehörigen an den Aussengrenzen der Mitgliedstaaten und zur Festlegung der Bedingungen für den Zugang zum EES zu Gefahrenabwehr- und Strafverfolgungszwecken und zur Änderung des Übereinkommens zur Durchführung des Übereinkommens von Schengen sowie der Verordnungen (EG) Nr. 767/2008 und (EU) Nr. 1077/2011, ABl. L 327 vom 9.12.2017, S. 20; zuletzt geändert durch Verordnung (EU) 2024/1356, ABl. L, 2024/1356, 22.5.2024.
 
 #### Art. 2
 
@@ -109,7 +110,7 @@ Die Abfrage des EES zur Prüfung von Visumgesuchen und zum Entscheid über solch
 
 <sup>3</sup> Ergibt die Abfrage, dass zur betreffenden Person bereits Daten im EES erfasst wurden, so kann die abfragende Stelle diese Daten aktualisieren.
 
-[^6-1]: Erratum vom 13. Sept. 2023, betrifft nur den italienischen Text ([AS 2023 508](https://fedlex.data.admin.ch/eli/oc/2023/508))
+[^6-1]: Die Berichtigung vom 13. Sept. 2023, betrifft nur den italienischen Text ([AS 2023 508](https://fedlex.data.admin.ch/eli/oc/2023/508)).
 
 #### Art. 7
 
@@ -392,27 +393,30 @@ Die Schengen-Assoziierungsabkommen umfassen:
 [^annex1-lvlu1-5]: [SR 0.362.33](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1520)
 [^annex1-lvlu1-6]: [SR 0.362.311](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1514)
 
-Anhang 2
+Anhang 2[^t-1]
 
 (Art. 3, 4 Abs. 2, 5 Abs. 3, 7 Abs. 2, 8 Abs. 2, 9 Abs. 2, 14 Abs. 2 und 3, 16 sowie 21 Abs. 2)
 
 ## Datenkatalog, zugangsberechtigte Stellen sowie Umfang der Zugangsberechtigungen im EES
 
-Zeichenerklärung
+[^t-1]: Fassung gemäss Ziff. II der V vom 20. Mai 2026, in Kraft seit 12. Juni 2026 ([AS 2026 262](https://fedlex.data.admin.ch/eli/oc/2026/262)).
 
-Umfang der Zugangsberechtigungen:
+### Zeichenerklärung
+
+Umfang der Zugangsberechtigungen
 
 - A Online-Abfrage
 - B Online-Eingabe und -Bearbeitung
 - Leer Kein Zugang
 - <sup>1</sup> Nur direkt über das ORBIS
 
-Zugangsberechtigte Stellen:
+Zugangsberechtigte Stellen
 
 - SEM Staatssekretariat für Migration
 - – I Direktionsbereich Planung und Ressourcen
 - – II Direktionsbereich Zuwanderung und Integration
 - – III Direktionsbereich Internationales
+- – IV Direktionsbereich Bundesasylzentren
 - EAZ fedpol Einsatz- und Alarmzentrale fedpol
 - AV schweizerische Vertretungen im Ausland und Missionen
 - EDA Eidgenössisches Departement für auswärtige Angelegenheiten: Staatssekretariat und Konsularische Direktion
@@ -421,70 +425,70 @@ Zugangsberechtigte Stellen:
 - GREPO kantonale Polizeibehörden, die für die Kontrolle der Schengen-Aussengrenzen verantwortlich sind
 - MIGRA kantonale Migrationsbehörden oder Gemeindebehörden, auf welche die Kantone entsprechende Kompetenzen übertragen haben
 
-## Datenkatalog EES
+### Datenkatalog EES
 
 <table>
-<tr><th>Bezeichnung EES-Datenfelder</th><th colspan="2">SEM</th><th colspan="2"></th><th></th><th colspan="7"></th></tr>
-<tr><th></th><th>I</th><th colspan="2">II</th><th colspan="2">III</th><th>EAZ fedpol</th><th>AV</th><th>EDA</th><th>BAZG</th><th>KAPO</th><th>GREPO</th><th>MIGRA</th></tr>
-<tr><td colspan="13">I. Persönliches EES-Dossier</td></tr>
-<tr><td colspan="13">1. Personenbezogene Daten</td></tr>
-<tr><td>Namen</td><td>A</td><td colspan="2">B</td><td colspan="2">A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td></tr>
-<tr><td>Vornamen</td><td>A</td><td colspan="2">B</td><td colspan="2">A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td></tr>
-<tr><td>Geburtsdatum</td><td>A</td><td colspan="2">B</td><td colspan="2">A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td></tr>
-<tr><td>Geschlecht</td><td>A</td><td colspan="2">B</td><td colspan="2">A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td></tr>
-<tr><td>Staatsangehörigkeiten</td><td>A</td><td colspan="2">B</td><td colspan="2">A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td></tr>
-<tr><td colspan="13">2. Biometrische Daten</td></tr>
-<tr><td>Gesichtsbild</td><td></td><td colspan="2">B</td><td colspan="2">A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td></tr>
-<tr><td>Fingerabdrücke</td><td></td><td colspan="2">B</td><td colspan="2">A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td></tr>
-<tr><td>Gründe für nicht abgenommene Fingerabdrücke oder nicht abgenommenes Gesichtsbild</td><td></td><td colspan="2">B</td><td colspan="2">A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td></tr>
-<tr><td colspan="13">3. Daten zum Reisedokument</td></tr>
-<tr><td>Art und Nummer des Reisedokuments</td><td>A</td><td colspan="2">B</td><td colspan="2">A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td></tr>
-<tr><td>Code des ausstellenden Staates des Reisedokuments</td><td>A</td><td colspan="2">B</td><td colspan="2">A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td></tr>
-<tr><td>Datum des Ablaufs der Gültigkeitsdauer des Reisedokuments</td><td>A</td><td colspan="2">B</td><td colspan="2">A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td></tr>
-<tr><td colspan="13">II. Einreise- und Ausreisedaten</td></tr>
-<tr><td colspan="13">1. Einreisedaten</td></tr>
-<tr><td>Datum und Uhrzeit der Einreise</td><td>A</td><td colspan="2">B</td><td colspan="2">A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td></tr>
-<tr><td>Grenzübergangsstelle der Einreise</td><td>A</td><td colspan="2">B</td><td colspan="2">A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td></tr>
-<tr><td>Zuständige Behörde</td><td>A</td><td colspan="2">B</td><td colspan="2">A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td></tr>
-<tr><td>Familienangehörige oder Familienangehöriger einer Drittstaatsangehörigen oder eines Drittstaatsangehörigen nach Art. 2 Abs. 3 Bst. b der Verordnung (EU) 2017/2226[^annex2-lvlu2-1] (ja/nein)</td><td>A</td><td colspan="2">A</td><td colspan="2">A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
-<tr><td>Nummer der Visumvignette</td><td>A</td><td colspan="2">A</td><td colspan="2">A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
-<tr><td>Code des ausstellenden Staates der Visumvignette</td><td>A</td><td colspan="2">A</td><td colspan="2">A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
-<tr><td>Gültigkeitsdauer des Visums: Datum des Gültigkeitsbeginns und Ablaufdatum</td><td>A</td><td colspan="2">A</td><td colspan="2">A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
-<tr><td>Enddatum der Höchstdauer des zulässigen Aufenthalts</td><td>A</td><td colspan="2">A</td><td colspan="2">A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
-<tr><td>Zahl der erlaubten Einreisen während der Gültigkeitsdauer</td><td>A</td><td colspan="2">A</td><td colspan="2">A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
-<tr><td>Angaben zur räumlich beschränkten Gültigkeit des Visums</td><td>A</td><td colspan="2">A</td><td colspan="2">A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
-<tr><td colspan="13">2. Ausreisedaten</td></tr>
-<tr><td>Datum und Uhrzeit der Ausreise</td><td>A</td><td colspan="2">B</td><td colspan="2">A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td></tr>
-<tr><td>Grenzübergangsstelle der Ausreise</td><td>A</td><td colspan="2">B</td><td colspan="2">A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td></tr>
-<tr><td colspan="13">III. Daten bei Annullierung oder Aufhebung eines Visums sowie Nichtverlängerung oder Widerruf eines Aufenthalts</td></tr>
-<tr><td>Statusinformation: annulliert, aufgehoben</td><td>A</td><td colspan="2">B</td><td colspan="2">A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td></tr>
-<tr><td>Ort und Datum des Entscheids</td><td>A</td><td colspan="2">B</td><td colspan="2">A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td></tr>
-<tr><td>Behörde und Standort</td><td>A</td><td colspan="2">B</td><td colspan="2">A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td></tr>
-<tr><td>Gründe für die Annullierung oder die Aufhebung</td><td>A</td><td colspan="2">B</td><td colspan="2">A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td></tr>
-<tr><td colspan="13">IV. Daten bei Verlängerung eines Visums oder eines Aufenthalts</td></tr>
-<tr><td>Statusinformation: verlängert</td><td>A</td><td colspan="2">B</td><td colspan="2">A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td></tr>
-<tr><td>Ort und Datum des Entscheids</td><td>A</td><td colspan="2">B</td><td colspan="2">A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td></tr>
-<tr><td>Behörde und Standort</td><td>A</td><td colspan="2">B</td><td colspan="2">A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td></tr>
-<tr><td>Datum des Verlängerungsbeginns und Ablaufdatum der Verlängerung</td><td>A</td><td colspan="2">B</td><td colspan="2">A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td></tr>
-<tr><td>Nummer der Visumvignette des verlängerten Visums</td><td>A</td><td colspan="2">B</td><td colspan="2">A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td></tr>
-<tr><td>Verlängerte Dauer des erlaubten Aufenthalts</td><td>A</td><td colspan="2">B</td><td colspan="2">A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td></tr>
-<tr><td>Gründe für die Verlängerung</td><td>A</td><td colspan="2">B</td><td colspan="2">A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td></tr>
-<tr><td>Code des ausstellenden Staates</td><td>A</td><td colspan="2">B</td><td colspan="2">A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td></tr>
-<tr><td colspan="13">V. Einreiseverweigerungsdaten</td></tr>
-<tr><td>Datum und Uhrzeit des Entscheids</td><td></td><td colspan="2">B</td><td colspan="2">A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td></tr>
-<tr><td>Grenzübergangsstelle der Einreiseverweigerung</td><td></td><td colspan="2">B</td><td colspan="2">A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td></tr>
-<tr><td>Zuständige Behörde</td><td></td><td colspan="2">B</td><td colspan="2">A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td></tr>
-<tr><td>Gründe für die Einreiseverweigerung</td><td>A</td><td colspan="2">B</td><td colspan="2">A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td></tr>
-<tr><td>Nummer der Visumvignette</td><td></td><td colspan="2">A</td><td colspan="2">A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>B</td></tr>
-<tr><td colspan="13">VI. Automatisiertes Berechnungssystem</td></tr>
-<tr><td>Maximal verbleibende Dauer des zulässigen Aufenthalts auf der Grundlage der Daten der beabsichtigten Einreisen</td><td></td><td colspan="2">A</td><td colspan="2">A</td><td></td><td>A<sup>1</sup></td><td>A<sup>1</sup></td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
-<tr><td>Anzahl der noch zulässigen Einreisen bei Visa, die für eine einzige oder für zwei Einreisen ausgestellt wurden</td><td></td><td colspan="2">A</td><td colspan="2">A</td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
-<tr><td>Dauer einer Aufenthaltsüberziehung</td><td>A</td><td colspan="2">A</td><td colspan="2">A</td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
-<tr><td>Höchstdauer des zulässigen Aufenthalts bei der Einreise</td><td></td><td colspan="2">A</td><td colspan="2">A</td><td></td><td>A<sup>1</sup></td><td>A<sup>1</sup></td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
-<tr><td colspan="13">VII. Informationen zu nationalen Erleichterungsprogrammen</td></tr>
-<tr><td>Mitgliedstaat, der ein nationales Erleichterungsprogramm (National Facilitation Programme, NFP) betreibt</td><td>A</td><td colspan="2">A</td><td colspan="2">A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
-<tr><td>Bezeichnung des NFP</td><td>A</td><td colspan="2">A</td><td colspan="2">A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
-<tr><td>Gültigkeit des erteilten NFP-Status</td><td>A</td><td colspan="2">A</td><td colspan="2">A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><th>Bezeichnung EES-Datenfelder</th><th colspan="4">SEM</th><th colspan="7"></th></tr>
+<tr><th></th><th>I</th><th>II</th><th>III</th><th>IV</th><th>EAZ fedpol</th><th>AV</th><th>EDA</th><th>BAZG</th><th>KAPO</th><th>GREPO</th><th>MIGRA</th></tr>
+<tr><td colspan="12">I. Persönliches EES-Dossier</td></tr>
+<tr><td colspan="12">1. Personenbezogene Daten</td></tr>
+<tr><td>Namen</td><td>A</td><td>B</td><td>A</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td></tr>
+<tr><td>Vornamen</td><td>A</td><td>B</td><td>A</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td></tr>
+<tr><td>Geburtsdatum</td><td>A</td><td>B</td><td>A</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td></tr>
+<tr><td>Geschlecht</td><td>A</td><td>B</td><td>A</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td></tr>
+<tr><td>Staatsangehörigkeiten</td><td>A</td><td>B</td><td>A</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td></tr>
+<tr><td colspan="12">2. Biometrische Daten</td></tr>
+<tr><td>Gesichtsbild</td><td></td><td>B</td><td>A</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td></tr>
+<tr><td>Fingerabdrücke</td><td></td><td>B</td><td>A</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td></tr>
+<tr><td>Gründe für nicht abgenommene Fingerabdrücke oder nicht abgenommenes Gesichtsbild</td><td></td><td>B</td><td>A</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td></tr>
+<tr><td colspan="12">3. Daten zum Reisedokument</td></tr>
+<tr><td>Art und Nummer des Reisedokuments</td><td>A</td><td>B</td><td>A</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td></tr>
+<tr><td>Code des ausstellenden Staates des Reisedokuments</td><td>A</td><td>B</td><td>A</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td></tr>
+<tr><td>Datum des Ablaufs der Gültigkeitsdauer des Reisedokuments</td><td>A</td><td>B</td><td>A</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td></tr>
+<tr><td colspan="12">II. Einreise- und Ausreisedaten</td></tr>
+<tr><td colspan="12">1. Einreisedaten</td></tr>
+<tr><td>Datum und Uhrzeit der Einreise</td><td>A</td><td>B</td><td>A</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td></tr>
+<tr><td>Grenzübergangsstelle der Einreise</td><td>A</td><td>B</td><td>A</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td></tr>
+<tr><td>Zuständige Behörde</td><td>A</td><td>B</td><td>A</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td></tr>
+<tr><td>Familienangehörige oder Familienangehöriger einer oder eines Drittstaatsangehörigen nach Art. 2 Abs. 3 Bst. b der Verordnung (EU) 2017/2226[^annex2-lvlu1-lvlu2-1] (ja/nein)</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Nummer der Visumvignette</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Code des ausstellenden Staates der Visumvignette</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Gültigkeitsdauer des Visums: Datum des Gültigkeitsbeginns und Ablaufdatum</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Enddatum der Höchstdauer des zulässigen Aufenthalts</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Zahl der erlaubten Einreisen während der Gültigkeitsdauer</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Angaben zur räumlich beschränkten Gültigkeit des Visums</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td colspan="12">2. Ausreisedaten</td></tr>
+<tr><td>Datum und Uhrzeit der Ausreise</td><td>A</td><td>B</td><td>A</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td></tr>
+<tr><td>Grenzübergangsstelle der Ausreise</td><td>A</td><td>B</td><td>A</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td></tr>
+<tr><td colspan="12">III. Daten bei Annullierung oder Aufhebung eines Visums sowie Nichtverlängerung oder Widerruf eines Aufenthalts</td></tr>
+<tr><td>Statusinformation: annulliert, aufgehoben</td><td>A</td><td>B</td><td>A</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td></tr>
+<tr><td>Ort und Datum des Entscheids</td><td>A</td><td>B</td><td>A</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td></tr>
+<tr><td>Behörde und Standort</td><td>A</td><td>B</td><td>A</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td></tr>
+<tr><td>Gründe für die Annullierung oder die Aufhebung</td><td>A</td><td>B</td><td>A</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td></tr>
+<tr><td colspan="12">IV. Daten bei Verlängerung eines Visums oder eines Aufenthalts</td></tr>
+<tr><td>Statusinformation: verlängert</td><td>A</td><td>B</td><td>A</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td></tr>
+<tr><td>Ort und Datum des Entscheids</td><td>A</td><td>B</td><td>A</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td></tr>
+<tr><td>Behörde und Standort</td><td>A</td><td>B</td><td>A</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td></tr>
+<tr><td>Datum des Verlängerungsbeginns und Ablaufdatum der Verlängerung</td><td>A</td><td>B</td><td>A</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td></tr>
+<tr><td>Nummer der Visumvignette des verlängerten Visums</td><td>A</td><td>B</td><td>A</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td></tr>
+<tr><td>Verlängerte Dauer des erlaubten Aufenthalts</td><td>A</td><td>B</td><td>A</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td></tr>
+<tr><td>Gründe für die Verlängerung</td><td>A</td><td>B</td><td>A</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td></tr>
+<tr><td>Code des ausstellenden Staates</td><td>A</td><td>B</td><td>A</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td></tr>
+<tr><td colspan="12">V. Einreiseverweigerungsdaten</td></tr>
+<tr><td>Datum und Uhrzeit des Entscheids</td><td></td><td>B</td><td>A</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td></tr>
+<tr><td>Grenzübergangsstelle der Einreiseverweigerung</td><td></td><td>B</td><td>A</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td></tr>
+<tr><td>Zuständige Behörde</td><td></td><td>B</td><td>A</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td></tr>
+<tr><td>Gründe für die Einreiseverweigerung</td><td>A</td><td>B</td><td>A</td><td>A</td><td>A</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td><td>B</td></tr>
+<tr><td>Nummer der Visumvignette</td><td></td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>B</td></tr>
+<tr><td colspan="12">VI. Automatisiertes Berechnungssystem</td></tr>
+<tr><td>Maximal verbleibende Dauer des zulässigen Aufenthalts auf der Grundlage der Daten der beabsichtigten Einreisen</td><td></td><td>A</td><td>A</td><td>A</td><td></td><td>A<sup>1</sup></td><td>A<sup>1</sup></td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Anzahl der noch zulässigen Einreisen bei Visa, die für eine einzige oder für zwei Einreisen ausgestellt wurden</td><td></td><td>A</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Dauer einer Aufenthaltsüberziehung</td><td>A</td><td>A</td><td>A</td><td>A</td><td></td><td></td><td></td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Höchstdauer des zulässigen Aufenthalts bei der Einreise</td><td></td><td>A</td><td>A</td><td>A</td><td></td><td>A<sup>1</sup></td><td>A<sup>1</sup></td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td colspan="12">VII. Informationen zu nationalen Erleichterungsprogrammen</td></tr>
+<tr><td>Mitgliedstaat, der ein nationales Erleichterungsprogramm (National Facilitation Programme, NFP) betreibt</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Bezeichnung des NFP</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
+<tr><td>Gültigkeit des erteilten NFP-Status</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
 </table>
 
-[^annex2-lvlu2-1]: Siehe Fussnote zu Art. 1 Bst. a.
+[^annex2-lvlu1-lvlu2-1]: Siehe Fussnote zu Art. 1 Bst. a.
