@@ -3,11 +3,11 @@ sr: "0.748.0"
 title: "Convention du 7 décembre 1944 relative à l'aviation civile internationale"
 eli: "https://fedlex.data.admin.ch/eli/cc/63/1377_1378_1381"
 language: fr
-version: 2025-11-27
+version: 2026-06-12
 adopted: 1944-12-07
 in_force: 1947-04-04
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/63/1377_1378_1381/20251127/fr/xml/fedlex-data-admin-ch-eli-cc-63-1377_1378_1381-20251127-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/63/1377_1378_1381/20251127/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/63/1377_1378_1381/20260612/fr/xml/fedlex-data-admin-ch-eli-cc-63-1377_1378_1381-20260612-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/63/1377_1378_1381/20260612/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -26,7 +26,7 @@ Instruments de ratification déposés par la Suisse le 6 février 1947
 
 Entrée en vigueur pour la Suisse le 4 avril 1947
 
-(État le 27 novembre 2025)
+(État le 12 juin 2026)
 
 [^t-1]: Version consolidée ([RO 1971 1296](https://fedlex.data.admin.ch/eli/oc/1971/1301_1296_1296)).
 [^t-2]: RO **63** 1377
@@ -454,11 +454,11 @@ Les pouvoirs et obligations de l’Assemblée sont les suivants:
 
 **Composition et élection du Conseil**
 
-- a) Le Conseil est un organe permanent responsable devant l’Assemblée. Il se compose de trente‑six États contractants élus par l’Assemblée.[^50-1] Il est procédé à une élection lors de la première session de l’Assemblée et ensuite tous les trois ans; les membres du Conseil ainsi élus restent en fonction jusqu’à l’élection suivante.
+- a)[^50-1] Le Conseil est un organe permanent responsable devant l’Assemblée. Il se compose de quarante États contractants élus par l’Assemblée. Il est procédé à une élection lors de la première session de l’Assemblée et ensuite tous les trois ans; les membres du Conseil ainsi élus restent en fonction jusqu’à l’élection suivante.
 - b) En élisant les membres du Conseil, l’Assemblée donne une représentation adéquate: 1) aux États d’importance majeure dans le transport aérien; 2) aux États, non inclus à un autre titre, qui contribuent le plus à fournir des installations et services pour la navigation aérienne civile internationale; 3) aux États, non inclus à un autre. titre, dont la désignation assure la représentation au Conseil de toutes les grandes régions géographiques du monde. L’Assemblée pourvoit aussitôt que possible à toute vacance au Conseil; tout État contractant ainsi élu au Conseil reste en fonction jusqu’à l’expiration du mandat de son prédécesseur.
 - c) Aucun représentant d’un État contractant au Conseil ne peut être activement associé à l’exploitation d’un service aérien international ou avoir des intérêts financiers dans un tel service.
 
-[^50-1]: Amendé par le Prot. du 26 oct. 1990, en vigueur pour la Suisse depuis le 28 nov. 2002 ([RO 2004 3999](https://fedlex.data.admin.ch/eli/oc/2004/580)).
+[^50-1]: Amendé par le Prot. du 6 oct. 2016, en vigueur pour la Suisse depuis le 12 juin 2026 ([RO 2026 350](https://fedlex.data.admin.ch/eli/oc/2026/350)).
 
 #### Art. 51
 
@@ -519,11 +519,11 @@ Le Conseil peut:
 
 #### Art. 56
 
-**Nomination de la Commission**[^56-1]
+**Nomination de la Commission**
 
-La Commission de Navigation aérienne se compose de dix-neuf membres, nommés par le Conseil parmi des personnes proposées par des États contractants. Ces personnes doivent posséder les titres et qualités ainsi que l’expérience voulus en matière de science et de pratique de l’aéronautique. Le Conseil invite tous les États contractants à soumettre des candidatures. Le Président de la Commission de Navigation aérienne est nommé par le Conseil.
+La Commission de Navigation aérienne se compose de vingt et un membres, nommés par le Conseil parmi des personnes proposées par des États contractants. Ces personnes doivent posséder les titres et qualités ainsi que l’expérience voulus en matière de science et de pratique de l’aéronautique. Le Conseil invite tous les États contractants à soumettre des candidatures. Le Président de la Commission de Navigation aérienne est nommé par le Conseil.[^56-1]
 
-[^56-1]: Amendé par le Prot. du 6 oct. 1989, en vigueur pour la Suisse depuis le 18 avril 2005 ([RO 2005 3335](https://fedlex.data.admin.ch/eli/oc/2005/484)).
+[^56-1]: Amendé par le Prot. du 6 oct. 2016, en vigueur pour la Suisse depuis le 12 juin 2026 ([RO 2026 349](https://fedlex.data.admin.ch/eli/oc/2026/349)).
 
 #### Art. 57
 

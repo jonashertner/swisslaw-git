@@ -3,11 +3,11 @@ sr: "0.748.0"
 title: Übereinkommen vom 7. Dezember 1944 über die internationale Zivilluftfahrt
 eli: "https://fedlex.data.admin.ch/eli/cc/63/1377_1378_1381"
 language: de
-version: 2025-11-27
+version: 2026-06-12
 adopted: 1944-12-07
 in_force: 1947-04-04
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/63/1377_1378_1381/20251127/de/xml/fedlex-data-admin-ch-eli-cc-63-1377_1378_1381-20251127-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/63/1377_1378_1381/20251127/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/63/1377_1378_1381/20260612/de/xml/fedlex-data-admin-ch-eli-cc-63-1377_1378_1381-20260612-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/63/1377_1378_1381/20260612/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -26,7 +26,7 @@ Schweizerische Ratifikationsurkunde hinterlegt am 6. Februar 1947
 
 In Kraft getreten für die Schweiz am 4. April 1947
 
-(Stand am 27. November 2025)
+(Stand am 12. Juni 2026)
 
 [^t-1]: Konsolidierte Version ([AS 1971 1301](https://fedlex.data.admin.ch/eli/oc/1971/1301_1296_1296)).
 
@@ -453,11 +453,11 @@ Die Befugnisse und Aufgaben der Versammlung sind:
 
 **Zusammensetzung und Wahl des Rates**
 
-- a) Der Rat ist ein ständiges Organ, das der Versammlung verantwortlich ist. Er setzt sich aus sechsunddreissig Staaten zusammen, welche von der Versammlung gewählt werden.[^50-1] Eine Wahl findet bei der ersten Tagung der Versammlung statt und danach alle drei Jahre; die so gewählten Mitglieder des Rates bleiben bis zur nächsten Wahl im Amt.
+- a)[^50-1] Der Rat ist ein ständiges Organ, das der Versammlung verantwortlich ist. Er setzt sich aus vierzig Staaten zusammen, welche von der Versammlung gewählt werden. Eine Wahl findet bei der ersten Tagung der Versammlung statt und danach alle drei Jahre; die so gewählten Mitglieder des Rates bleiben bis zur nächsten Wahl im Amt.
 - b) Bei der Wahl der Mitglieder des Rates hat die Versammlung folgenden Staaten eine angemessene Vertretung einzuräumen: 1) den im Luftverkehr bedeutendsten Staaten; 2) den in keiner anderen Gruppe enthaltenen Staaten, die den grössten Beitrag zur Bereitstellung von Einrichtungen für die internationale Zivilluftfahrt leisten, und 3) den in keiner anderen Gruppe enthaltenen Staaten, deren Benennung gewährleistet, dass alle geographischen Hauptgebiete der Welt im Rat vertreten sind. Jede freie Stelle im Rat ist durch die Versammlung so bald wie möglich zu besetzen; jeder auf diese Weise in den Rat gewählte Vertragsstaat bleibt bis zum Ablauf der Amtszeit seines Vorgängers im Amt.
 - c) Ein Vertreter eines Vertragsstaates im Rat darf am Betrieb einer internationalen Fluglinie nicht aktiv beteiligt oder finanziell interessiert sein.
 
-[^50-1]: Fassung des zweiten Satzes gemäss Prot. vom 26. Okt. 1990, für die Schweiz in Kraft seit 28. Nov. 2002 ([AS 2004 3999](https://fedlex.data.admin.ch/eli/oc/2004/580)).
+[^50-1]: Fassung gemäss Beschluss vom 6. Okt. 2016 der Versammlung der Internationalen Zivilluftfahrtorganisation, für die Schweiz in Kraft seit 12. Juni 2026 ([AS 2026 350](https://fedlex.data.admin.ch/eli/oc/2026/350)).
 
 #### Art. 51
 
@@ -518,11 +518,11 @@ Der Rat kann:
 
 #### Art. 56
 
-**Namhaftmachung und Ernennung der Kommissionsmitglieder**[^56-1]
+**Namhaftmachung und Ernennung der Kommissionsmitglieder**
 
-Die Luftfahrtkommission setzt sich aus 19 Mitgliedern zusammen, die vom Rat aus den von Vertragsstaaten namhaft gemachten Personen ernannt werden. Diese Personen müssen über die entsprechende Befähigung und Erfahrung auf den wissenschaftlichen und praktischen Gebieten der Luftfahrt verfügen. Der Rat hat alle Vertragsstaaten zu ersuchen, Bewerber namhaft zu machen. Der Präsident der Luftfahrtkommission wird vom Rat ernannt.
+Die Luftfahrtkommission setzt sich aus einundzwanzig Mitgliedern zusammen, die vom Rat aus den von Vertragsstaaten namhaft gemachten Personen ernannt werden. Diese Personen müssen über die entsprechende Befähigung und Erfahrung auf den wissenschaftlichen und praktischen Gebieten der Luftfahrt verfügen. Der Rat hat alle Vertragsstaaten zu ersuchen, Bewerber namhaft zu machen. Der Präsident der Luftfahrtkommission wird vom Rat ernannt.[^56-1]
 
-[^56-1]: Fassung gemäss Prot. vom 6. Okt. 1989, für die Schweiz in Kraft seit 18. April 2005 ([AS 2005 3335](https://fedlex.data.admin.ch/eli/oc/2005/484)).
+[^56-1]: Fassung gemäss Beschluss vom 6. Okt. 2016 der Versammlung der Internationalen Zivilluftfahrtorganisation, für die Schweiz in Kraft seit 12. Juni 2026 ([AS 2026 349](https://fedlex.data.admin.ch/eli/oc/2026/349)).
 
 #### Art. 57
 

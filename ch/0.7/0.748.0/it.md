@@ -3,11 +3,11 @@ sr: "0.748.0"
 title: "Convenzione del 7 dicembre 1944 relativa all'aviazione civile internazionale"
 eli: "https://fedlex.data.admin.ch/eli/cc/63/1377_1378_1381"
 language: it
-version: 2025-11-27
+version: 2026-06-12
 adopted: 1944-12-07
 in_force: 1947-04-04
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/63/1377_1378_1381/20251127/it/xml/fedlex-data-admin-ch-eli-cc-63-1377_1378_1381-20251127-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/63/1377_1378_1381/20251127/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/63/1377_1378_1381/20260612/it/xml/fedlex-data-admin-ch-eli-cc-63-1377_1378_1381-20260612-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/63/1377_1378_1381/20260612/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -20,7 +20,7 @@ Traduzione
 
 Conchiusa a Chicago il 7 dicembre 1944 Approvata dall’Assemblea federale il 13 dicembre 1946 Ratificazione depositata dalla Svizzera il 6 febbraio 1947 Entrata in vigore per la Svizzera il 4 aprile 1947
 
-(Stato 27 novembre 2025)
+(Stato 12 giugno 2026)
 
 [^t-1]: Versione consolidata ([RU 1971 1296](https://fedlex.data.admin.ch/eli/oc/1971/1301_1296_1296)).
 
@@ -447,11 +447,11 @@ I poteri e gli obblighi dell’Assemblea sono i seguenti:
 
 **Composizione ed elezione del Consiglio**
 
-- a) Il Consiglio è un organismo permanente che risponde davanti all’Assemblea. È composto di trentasei Stati contraenti eletti dall’Assemblea stessa.[^50-1] Si procederà ad un’elezione durante la prima sessione dell’Assemblea, ed in seguito ogni tre anni; i membri del Consiglio eletti in tal modo resteranno in carica fino all’elezione seguente.
+- a)[^50-1] Il Consiglio è un organismo permanente che risponde davanti all’Assemblea. È composto di quaranta Stati contraenti eletti dall’Assemblea stessa. Si procederà ad un’elezione durante la prima sessione dell’Assemblea, ed in seguito ogni tre anni; i membri del Consiglio eletti in tal modo resteranno in carica fino all’elezione seguente.
 - b) Eleggendo i membri del Consiglio, l’Assemblea deve accordare una rappresentanza adeguata: 1) agli Stati più importanti in materia di trasporti aerei; 2) agli Stati che contribuiscono maggiormente in materia d’impianti e servizi di navigazione aerea civile internazionale, se non sono altrimenti rappresentati; 3) agli Stati la cui designazione garantirà la rappresentanza nel Consiglio di tutte le principali regioni geografiche del mondo, se non sono altrimenti rappresentati. Le vacanze in seno al Consiglio sono colmate non appena possibile dall’Assemblea; ogni Stato contraente eletto in tal modo resta in carica fino allo spirare del mandato del suo predecessore.
 - c) Nessun rappresentante di uno Stato contraente in seno al Consiglio può partecipare in modo attivo o avere un interesse finanziario nell’esercizio di un servizio aereo internazionale.
 
-[^50-1]: Emendato dal Prot. del 26 ott. 1990, in vigore per la Svizzera dal 28 nov. 2002 ([RU 2004 3999](https://fedlex.data.admin.ch/eli/oc/2004/580)).
+[^50-1]: Emendato dal Prot. del 6 ott. 2016, in vigore per la Svizzera dal 12 giu. 2026 ([RU 2026 350](https://fedlex.data.admin.ch/eli/oc/2026/350)).
 
 #### Art. 51
 
@@ -512,11 +512,11 @@ Il Consiglio può:
 
 #### Art. 56
 
-**Nomina della Commissione**[^56-1]
+**Nomina della Commissione**
 
-La Commissione di Navigazione aerea è composta di diciannove membri nominati dal Consiglio tra le persone proposte dagli Stati contraenti. Queste persone debbono avere i titoli e le capacità come anche l’esperienza necessari per quanto concerne la conoscenza e la pratica delle questioni aeronautiche. Il Consiglio invita tutti gli Stati contraenti a sottoporgli i loro candidati. Il Presidente della Commissione di Navigazione aerea è nominato dal Consiglio.
+La Commissione di Navigazione aerea è composta di ventuno membri nominati dal Consiglio tra le persone proposte dagli Stati contraenti. Queste persone debbono avere i titoli e le capacità come anche l’esperienza necessari per quanto concerne la conoscenza e la pratica delle questioni aeronautiche. Il Consiglio invita tutti gli Stati contraenti a sottoporgli i loro candidati. Il Presidente della Commissione di Navigazione aerea è nominato dal Consiglio.[^56-1]
 
-[^56-1]: Emendato dal Prot. del 6 ott. 1989, in vigore per la Svizzera il 18 apr. 2005 ([RU 2005 3335](https://fedlex.data.admin.ch/eli/oc/2005/484)).
+[^56-1]: Emendato dal Prot. del 6 ott. 2016, in vigore per la Svizzera dal 12 giu. 2026 ([RU 2026 349](https://fedlex.data.admin.ch/eli/oc/2026/349)).
 
 #### Art. 57
 
