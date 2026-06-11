@@ -3,11 +3,11 @@ sr: "0.107"
 title: Convenzione del 20 novembre 1989 sui diritti del fanciullo
 eli: "https://fedlex.data.admin.ch/eli/cc/1998/2055_2055_2055"
 language: it
-version: 2026-05-07
+version: 2026-06-12
 adopted: 1989-11-20
 in_force: 1997-03-26
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2055_2055_2055/20260507/it/xml/fedlex-data-admin-ch-eli-cc-1998-2055_2055_2055-20260507-it-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1998/2055_2055_2055/20260507/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2055_2055_2055/20260612/it/xml/fedlex-data-admin-ch-eli-cc-1998-2055_2055_2055-20260612-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1998/2055_2055_2055/20260612/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -20,7 +20,7 @@ Traduzione
 
 Conclusa a Nuova York il 20 novembre 1989 Approvata dall’Assemblea federale il 13 dicembre 1996[^t-1] Ratificata dalla Svizzera con strumento depositato il 24 febbraio 1997 Entrata in vigore per la Svizzera il 26 marzo 1997
 
-(Stato 7 maggio 2026)
+(Stato 12 giugno 2026)
 
 [^t-1]: [RU 1998 2053](https://fedlex.data.admin.ch/eli/oc/1998/2053_2053_2053)
 
@@ -728,7 +728,7 @@ Campo d’applicazione della Convenzione il 7 maggio 2026[^t-2]
 <tr><td colspan="5"><sup>\*</sup> Riserve e dichiarazioni. <sup>\*\*</sup> Obiezioni. Le riserve, dichiarazioni e obiezioni non sono pubblicate nella RU, ad eccezione delle riserve e dichiarazioni della Svizzera. Il testo, in francese e inglese, può essere consultato sul sito Internet dell’Organizzazione delle Nazioni Unite: [http://treaties.un.org](http://treaties.un.org/) oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna. <sup>a</sup> Sino al 30 giu. 1997 la Conv. era applicabile a Hong Kong sulla base di una dichiarazione d’estensione territoriale del Regno Unito. A partire dal 1° lug. 1997 Hong Kong è divenuta una Regione amministrativa speciale (RAS) della Repubblica popolare di Cina. In virtù della dichiarazione sino-britannica del 19 dic. 1984 gli accordi applicabili a Hong Kong prima dell’annessione alla Repubblica popolare di Cina rimangono applicabili alla RAS.</td></tr>
 </table>
 
-[^t-2]: Completa quelli in [RU 1998 2055](https://fedlex.data.admin.ch/eli/oc/1998/2055_2055_2055); [2004 339](https://fedlex.data.admin.ch/eli/oc/2004/22); [2007 417](https://fedlex.data.admin.ch/eli/oc/2007/83); [2010 1619](https://fedlex.data.admin.ch/eli/oc/2010/233); [2014 1311](https://fedlex.data.admin.ch/eli/oc/2014/275); [2016 1181](https://fedlex.data.admin.ch/eli/oc/2016/222), [3803](https://fedlex.data.admin.ch/eli/oc/2016/635); [2023 102](https://fedlex.data.admin.ch/eli/oc/2023/102), [2026 214](https://fedlex.data.admin.ch/eli/oc/2026/214). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty).
+[^t-2]: Completa quelli in [RU 1998 2055](https://fedlex.data.admin.ch/eli/oc/1998/2055_2055_2055); [2004 339](https://fedlex.data.admin.ch/eli/oc/2004/22); [2007 417](https://fedlex.data.admin.ch/eli/oc/2007/83); [2010 1619](https://fedlex.data.admin.ch/eli/oc/2010/233); [2014 1311](https://fedlex.data.admin.ch/eli/oc/2014/275); [2016 1181](https://fedlex.data.admin.ch/eli/oc/2016/222), [3803](https://fedlex.data.admin.ch/eli/oc/2016/635); [2023 102](https://fedlex.data.admin.ch/eli/oc/2023/102), [2026 214](https://fedlex.data.admin.ch/eli/oc/2026/214). La correzione del 12 giu. 2026 concerne soltanto il testo francese ([RU 2026 314](https://fedlex.data.admin.ch/eli/oc/2026/314)). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty).
 
 Riserve e dichiarazioni
 

@@ -3,11 +3,11 @@ sr: "0.107"
 title: "Convention du 20 novembre 1989 relative aux droits de l'enfant"
 eli: "https://fedlex.data.admin.ch/eli/cc/1998/2055_2055_2055"
 language: fr
-version: 2026-05-07
+version: 2026-06-12
 adopted: 1989-11-20
 in_force: 1997-03-26
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2055_2055_2055/20260507/fr/xml/fedlex-data-admin-ch-eli-cc-1998-2055_2055_2055-20260507-fr-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1998/2055_2055_2055/20260507/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2055_2055_2055/20260612/fr/xml/fedlex-data-admin-ch-eli-cc-1998-2055_2055_2055-20260612-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1998/2055_2055_2055/20260612/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -26,7 +26,7 @@ Instrument de ratification déposé par la Suisse le 24 février 1997
 
 Entrée en vigueur pour la Suisse le 26 mars 1997
 
-(État le 7 mai 2026)
+(État le 12 juin 2026)
 
 [^t-1]: [RO 1998 2053](https://fedlex.data.admin.ch/eli/oc/1998/2053_2053_2053)
 
@@ -734,7 +734,7 @@ Champ d’application de la Convention le 7 mai 2026[^t-2]
 <tr><td colspan="5">\* Réserves et déclarations. \*\* Objections. Les réserves, déclarations et objections ne sont pas publiées au RO, à l’exception des réserves et déclarations de la Suisse. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet de l’Organisation des Nations Unies (ONU): [http:/treaties.un.org/](http://treaties.un.org/) ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> Jusqu’au 30 juin 1997, la Convention était applicable à Hong Kong sur la base d’une déclaration d’extension territoriale du Royaume-Uni. À partir du 1<sup>er</sup> juillet 1997, Hong Kong est devenue une Région administrative spéciale (RAS) de la République populaire de Chine. En vertu de la déclaration sino-britannique du 19 déc. 1984, les accords qui étaient applicables à Hong Kong avant sa rétrocession à la République populaire de Chine demeurent applicables à la RAS.</td></tr>
 </table>
 
-[^t-2]: [RO 1998 2055](https://fedlex.data.admin.ch/eli/oc/1998/2055_2055_2055); [2004 339](https://fedlex.data.admin.ch/eli/oc/2004/22); [2007 417](https://fedlex.data.admin.ch/eli/oc/2007/83); [2010 1619](https://fedlex.data.admin.ch/eli/oc/2010/233); [2014 1311](https://fedlex.data.admin.ch/eli/oc/2014/275); [2016 1181](https://fedlex.data.admin.ch/eli/oc/2016/222), [3803](https://fedlex.data.admin.ch/eli/oc/2016/635); [2023 102](https://fedlex.data.admin.ch/eli/oc/2023/102); [2026 214](https://fedlex.data.admin.ch/eli/oc/2026/214). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](http://www.fedlex.admin.ch/fr/treaty).
+[^t-2]: [RO 1998 2055](https://fedlex.data.admin.ch/eli/oc/1998/2055_2055_2055); [2004 339](https://fedlex.data.admin.ch/eli/oc/2004/22); [2007 417](https://fedlex.data.admin.ch/eli/oc/2007/83); [2010 1619](https://fedlex.data.admin.ch/eli/oc/2010/233); [2014 1311](https://fedlex.data.admin.ch/eli/oc/2014/275); [2016 1181](https://fedlex.data.admin.ch/eli/oc/2016/222), [3803](https://fedlex.data.admin.ch/eli/oc/2016/635); [2023 102](https://fedlex.data.admin.ch/eli/oc/2023/102); [2026 214](https://fedlex.data.admin.ch/eli/oc/2026/214). Erratum du 12 juin 2026 ([RO 2026 314](https://fedlex.data.admin.ch/eli/oc/2026/314)). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](http://www.fedlex.admin.ch/fr/treaty).
 
 Réserves et déclarations
 

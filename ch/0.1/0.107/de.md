@@ -3,11 +3,11 @@ sr: "0.107"
 title: Übereinkommen vom 20. November 1989 über die Rechte des Kindes
 eli: "https://fedlex.data.admin.ch/eli/cc/1998/2055_2055_2055"
 language: de
-version: 2026-05-07
+version: 2026-06-12
 adopted: 1989-11-20
 in_force: 1997-03-26
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2055_2055_2055/20260507/de/xml/fedlex-data-admin-ch-eli-cc-1998-2055_2055_2055-20260507-de-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1998/2055_2055_2055/20260507/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/2055_2055_2055/20260612/de/xml/fedlex-data-admin-ch-eli-cc-1998-2055_2055_2055-20260612-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1998/2055_2055_2055/20260612/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -20,7 +20,7 @@ AS **1998** 2055; BBl **1994** V 1
 
 Abgeschlossen in New York am 20. November 1989 Von der Bundesversammlung genehmigt am 13. Dezember 1996[^t-1] Ratifikationsurkunde durch die Schweiz hinterlegt am 24. Februar 1997 In Kraft getreten für die Schweiz am 26. März 1997
 
-(Stand am 7. Mai 2026)
+(Stand am 12. Juni 2026)
 
 [^t-1]: [AS 1998 2053](https://fedlex.data.admin.ch/eli/oc/1998/2053_2053_2053)
 
@@ -728,7 +728,7 @@ Geltungsbereich des Übereinkommes am 7. Mai 2026[^t-2]
 <tr><td colspan="5">\* Vorbehalte und Erklärungen. \*\* Einwendungen. Die Vorbehalte, Erklärungen und Einwendungen werden in der AS nicht veröffentlicht, mit Ausnahme der Vorbehalte und Erklärungen der Schweiz. Die französischen und englischen Texte können auf der Internetseite der Vereinten Nationen: [http://treaties.un.org/](http://treaties.un.org/) eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden. <sup>a</sup> Bis zum 30. Juni 1997 war das Übereink. aufgrund einer Ausdehungserklärung Grossbritanniens in Hongkong anwendbar. Seit dem 1. Juli 1997 bildet Hongkong eine besondere Verwaltungsregion (SAR) der Volksrepubik China. Aufgrund der chinesisch-britischen Erklärung vom 19. Dez. 1984 bleiben diejenigen Abk., welche vor der Rückgabe an die Volksrepublik China in Hongkong anwendbar waren, auch in der SAR anwendbar.</td></tr>
 </table>
 
-[^t-2]: [AS 1998 2055](https://fedlex.data.admin.ch/eli/oc/1998/2055_2055_2055); [2004 339](https://fedlex.data.admin.ch/eli/oc/2004/22); [2007 417](https://fedlex.data.admin.ch/eli/oc/2007/83); [2010 1619](https://fedlex.data.admin.ch/eli/oc/2010/233); [2014 1311](https://fedlex.data.admin.ch/eli/oc/2014/275); [2016 1181](https://fedlex.data.admin.ch/eli/oc/2016/222), [3803](https://fedlex.data.admin.ch/eli/oc/2016/635); [2023 102](https://fedlex.data.admin.ch/eli/oc/2023/102); [2026 214](https://fedlex.data.admin.ch/eli/oc/2026/214). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
+[^t-2]: [AS 1998 2055](https://fedlex.data.admin.ch/eli/oc/1998/2055_2055_2055); [2004 339](https://fedlex.data.admin.ch/eli/oc/2004/22); [2007 417](https://fedlex.data.admin.ch/eli/oc/2007/83); [2010 1619](https://fedlex.data.admin.ch/eli/oc/2010/233); [2014 1311](https://fedlex.data.admin.ch/eli/oc/2014/275); [2016 1181](https://fedlex.data.admin.ch/eli/oc/2016/222), [3803](https://fedlex.data.admin.ch/eli/oc/2016/635); [2023 102](https://fedlex.data.admin.ch/eli/oc/2023/102); [2026 214](https://fedlex.data.admin.ch/eli/oc/2026/214). Die Berichtigung vom 12. Juni 2026 betrifft nur den französischen Text ([AS 2026 314](https://fedlex.data.admin.ch/eli/oc/2026/314)). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
 
 Vorbehalte und Erklärungen
 
