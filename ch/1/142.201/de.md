@@ -4,11 +4,11 @@ title: "Verordnung vom 24. Oktober 2007 über Zulassung, Aufenthalt und Erwerbst
 short: VZAE
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/759"
 language: de
-version: 2026-04-22
+version: 2026-06-12
 adopted: 2007-10-24
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/759/20260422/de/xml/fedlex-data-admin-ch-eli-cc-2007-759-20260422-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/759/20260422/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/759/20260612/de/xml/fedlex-data-admin-ch-eli-cc-2007-759-20260612-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/759/20260612/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/759/20260422/de"
 
 (VZAE)
 
-vom 24. Oktober 2007 (Stand am 22. April 2026)
+vom 24. Oktober 2007 (Stand am 12. Juni 2026)
 
 Der Schweizerische Bundesrat,
 
@@ -2030,23 +2030,9 @@ Die KESB melden der kantonalen Migrationsbehörde unaufgefordert Kindes- und Erw
 
 #### Art. 82g
 
-**Bekanntgabe von Daten an einen Dublin-Staat**[^82g-1]
+[^82g-1]
 
-<sup>1</sup>
-
-Das SEM übermittelt im Rahmen der Anwendung der Dublin-Assoziierungsabkommen[^82g-2] vor der Überstellung einer ausländischen Person in den zuständigen Staat, der durch eines der Dublin-Assoziierungsabkommen gebunden ist (Dublin-Staat), die folgenden Daten:
-
-- a. die Personendaten gemäss Anhang VI der Verordnung (EG) Nr. 1560/2003[^82g-3]; und
-- b. die Informationen über den körperlichen und geistigen Gesundheitszustand der betroffenen Person gemäss Anhang IX der Verordnung (EG) Nr. 1560/2003, wenn diese Informationen für die medizinische Versorgung oder Behandlung erforderlich sind
-
-<sup>2</sup> Die Informationen gemäss Absatz 1 Buchstabe b dürfen nur zwischen Angehörigen der Gesundheitsberufe oder Personen, die einem entsprechenden Berufsgeheimnis unterliegen, und nur mit ausdrücklicher Einwilligung der betroffenen Person oder ihres Vertreters oder ihrer Vertreterin übermittelt werden. Ist die betroffene Person aus physischen oder rechtlichen Gründen ausserstande, ihre Einwilligung zu geben, so können Informationen ausnahmsweise auch ohne ausdrückliche Einwilligung übermittelt werden, wenn es der Schutz lebenswichtiger Interessen der betroffenen Person oder einer Drittperson erfordert.
-
-<sup>3</sup> Das Verfahren der Datenübermittlung richtet sich nach den Artikeln 31 und 32 der Verordnung (EU) Nr. 604/2013[^82g-4] und nach den Artikeln 8 Absatz 3 und 15*a* der Verordnung (EG) Nr. 1560/2003.
-
-[^82g-1]: Ursprünglich: Art. 82*a*. Eingefügt durch Ziff. I 1 der V vom 12. Juni 2015 über die Anpassung von Verordnungen aufgrund von Neuerungen bezüglich des Dublin/Eurodac-Besitzstands, in Kraft seit 1. Juli 2015 ([AS 2015 1849](https://fedlex.data.admin.ch/eli/oc/2015/358)).
-[^82g-2]: Die Dublin-Assoziierungsabkommen sind in Anhang 4 aufgeführt.
-[^82g-3]: Verordnung (EG) Nr. 1560/2003 der Kommission vom 2. Sept. 2003 mit Durchführungsbestimmungen zur Verordnung (EG) Nr. 343/2003 des Rates zur Festlegung der Kriterien und Verfahren zur Bestimmung des Mitgliedstaats, der für die Prüfung eines von einem Drittstaatsangehörigen in einem Mitgliedstaat gestellten Asylantrags zuständig ist, ABl. L 222 vom 5.9.2003, S. 3; zuletzt geändert durch Durchführungsverordnung (EU) Nr. 118/2014, ABl. L 39 vom 8.2.2014, S. 1.
-[^82g-4]: Verordnung (EU) Nr. 604/2013 des Europäischen Parlaments und des Rates vom 26. Juni 2013 zur Festlegung der Kriterien und Verfahren zur Bestimmung des Mitgliedstaats, der für die Prüfung eines von einem Drittstaatsangehörigen oder Staatenlosen in einem Mitgliedstaat gestellten Antrags auf internationalen Schutz zuständig ist (Neufassung), Fassung gemäss ABl. L 180 vom 29.6.2013, S. 31.
+[^82g-1]: Ursprünglich: Art. 82*a*. Eingefügt durch Ziff. I 1 der V vom 12. Juni 2015 über die Anpassung von Verordnungen aufgrund von Neuerungen bezüglich des Dublin/Eurodac-Besitzstands ([AS 2015 1849](https://fedlex.data.admin.ch/eli/oc/2015/358)). Aufgehoben durch Ziff. I der V vom 20. Mai 2026, mit Wirkung seit 12. Juni 2026 ([AS 2026 260](https://fedlex.data.admin.ch/eli/oc/2026/260)).
 
 ## 9. Kapitel: Arbeitsmarktlicher Vorentscheid und Zustimmungsverfahren
 
@@ -2076,18 +2062,17 @@ Vor der erstmaligen Erteilung einer Kurzaufenthalts- oder Aufenthaltsbewilligung
 
 **Anerkennung von ausländischen Wegweisungsverfügungen**[^83a-1]
 
-<sup>1</sup> Ausländerinnen und Ausländer können von den kantonalen Migrationsbehörden nach den Voraussetzungen der Richtlinie 2001/40/EG[^83a-2] in ihren Heimat- oder Herkunftsstaat ausgeschafft werden, wenn ein rechtskräftiger Wegweisungsentscheid eines Staats, der durch eines der Schengen-Assoziierungsabkommen[^83a-3] gebunden ist, feststellt, dass die Einreisevoraussetzungen nach Artikel 6 Absatz 1 des Schengener Grenzkodex[^83a-4] nicht erfüllt sind.[^83a-5]
+<sup>1</sup> Ausländerinnen und Ausländer können von den kantonalen Migrationsbehörden nach den Voraussetzungen der Richtlinie 2001/40/EG[^83a-2] in ihren Heimat- oder Herkunftsstaat ausgeschafft werden, wenn ein rechtskräftiger Wegweisungsentscheid eines Schengen-Staates feststellt, dass die Einreisevoraussetzungen nach Artikel 6 Absatz 1 des Schengener Grenzkodex[^83a-3] nicht erfüllt sind.[^83a-4]
 
 <sup>2</sup> Die Kantone prüfen, ob der Vollzug der Wegweisung in den Heimat- oder Herkunftsstaat weiterhin zulässig, zumutbar und möglich ist, und erlassen eine Verfügung.
 
-<sup>3</sup> Die Kosten für den Wegweisungsvollzug werden nach Artikel 7 der Richtlinie 2001/40/EG und nach der Entscheidung 2004/191/EG[^83a-6] zurückerstattet. Das SEM ist die Kontaktstelle im Sinne dieser Entscheidung.
+<sup>3</sup> Die Kosten für den Wegweisungsvollzug werden nach Artikel 7 der Richtlinie 2001/40/EG und nach der Entscheidung 2004/191/EG[^83a-5] zurückerstattet. Das SEM ist die Kontaktstelle im Sinne dieser Entscheidung.
 
 [^83a-1]: Eingefügt durch Ziff. I 3 der V vom 22. Okt. 2008 (Schengen und Dublin) ([AS 2008 5421](https://fedlex.data.admin.ch/eli/oc/2008/757)). Fassung gemäss Ziff. I 1 der V vom 12. Juni 2015 über die Anpassung von Verordnungen aufgrund von Neuerungen bezüglich des Dublin/Eurodac-Besitzstands, in Kraft seit 1. Juli 2015 ([AS 2015 1849](https://fedlex.data.admin.ch/eli/oc/2015/358)).
 [^83a-2]: Richtlinie 2001/40/EG des Rates vom 28. Mai 2001 über die gegenseitige Anerkennung von Entscheidungen über die Rückführung von Drittstaatsangehörigen, Fassung gemäss ABl. L 149 vom 2.6.2001, S. 34.
-[^83a-3]: Diese Abkommen sind in Anhang 3 aufgeführt.
-[^83a-4]: Verordnung (EU) 2016/399 des Europäischen Parlaments und des Rates vom 9. März 2016 über einen Gemeinschaftskodex für das Überschreiten der Grenze durch Personen (Schengener Grenzkodex), ABl. L 77 vom 23.3.2016, S. 1; geändert durch Verordnung (EU) 2017/458, ABl. L 74 vom 18.03.2017, S. 1.
-[^83a-5]: Fassung gemäss Ziff. II der V vom 5. April 2017, in Kraft seit 1. Mai 2017 ([AS 2017 2549](https://fedlex.data.admin.ch/eli/oc/2017/239)).
-[^83a-6]: Entscheidung 2004/191/EG des Rates vom 23. Februar 2004 zur Festlegung der Kriterien und praktischen Einzelheiten zum Ausgleich finanzieller Ungleichgewichte aufgrund der Anwendung der Richtlinie 2001/40/EG über die gegenseitige Anerkennung von Entscheidungen über die Rückführung von Drittstaatsangehörigen, Fassung gemäss ABl. L 60 vom 27.2.2004, S. 55.
+[^83a-3]: Verordnung (EU) 2016/399 des Europäischen Parlaments und des Rates vom 9. März 2016 über einen Gemeinschaftskodex für das Überschreiten der Grenze durch Personen (Schengener Grenzkodex), ABl. L 77 vom 23.3.2016, S. 1; zuletzt geändert durch Verordnung (EU) 2024/1717, ABl. L, 2024/1717, 20.6.2024.
+[^83a-4]: Fassung gemäss Ziff. I der V vom 6. Mai 2026, in Kraft seit 12. Juni 2026 ([AS 2026 239](https://fedlex.data.admin.ch/eli/oc/2026/239)).
+[^83a-5]: Entscheidung 2004/191/EG des Rates vom 23. Februar 2004 zur Festlegung der Kriterien und praktischen Einzelheiten zum Ausgleich finanzieller Ungleichgewichte aufgrund der Anwendung der Richtlinie 2001/40/EG über die gegenseitige Anerkennung von Entscheidungen über die Rückführung von Drittstaatsangehörigen, Fassung gemäss ABl. L 60 vom 27.2.2004, S. 55.
 
 #### Art. 84
 
@@ -2153,48 +2138,48 @@ Es verweigert die Zustimmung zur:
 Zur Feststellung und Sicherung der Identität einer Ausländerin oder eines Ausländers können die zuständigen Behörden bei der Prüfung der Einreisevoraussetzungen sowie bei ausländerrechtlichen Verfahren folgende biometrischen Daten erheben:
 
 - a. Fingerabdrücke;
-- b. Fotos;
-- c. DNA-Profile gemäss Artikel 50 des Bundesgesetzes vom 15. Juni 2018[^87-1] über genetische Untersuchungen beim Menschen.
+- b.[^87-1] Gesichtsbilder;
+- c. DNA-Profile gemäss Artikel 50 des Bundesgesetzes vom 15. Juni 2018[^87-2] über genetische Untersuchungen beim Menschen.
 
 <sup>1bis</sup>
 
-Die Daten nach Absatz 1 Buchstaben a und b können zwecks Speicherung in das automatisierte Fingerabdruck-Identifikationssystem (AFIS) des Bundesamtes für Polizei erfasst werden, sofern die betroffene Person:[^87-2]
+Die Daten nach Absatz 1 Buchstaben a und b können zwecks Speicherung in das automatisierte Fingerabdruck-Identifikationssystem (AFIS) des Bundesamtes für Polizei erfasst werden, sofern die betroffene Person:[^87-3]
 
 - a. sich mit einem gefälschten oder verfälschten Identitäts- oder Reisedokument ausweist;
 - b. das vorgewiesene Identitäts- oder Reisedokument nicht rechtmässig besitzt;
 - c. sich weigert oder nicht in der Lage ist, die Identität zu belegen;
 - d. gefälschte oder verfälschte Belege einreicht;
 - e. rechtswidrig in die Schweiz ein- oder aus der Schweiz ausreist oder sich rechtswidrig in der Schweiz aufhält;
-- f.[^87-3] angibt, ihren Namen geändert zu haben;
-- g.[^87-4] nicht nachweist, dass alle Einreisevoraussetzungen nach Artikel 6 Absatz 1 des Schengener Grenzkodex[^87-5] erfüllt sind;
-- h.[^87-6] aufgrund eines Rückkehrentscheids nach Artikel 68*a* Absatz 1 AIG verpflichtet ist, die Schweiz zu verlassen, wenn dieser Entscheid für den ganzen Schengen-Raum gilt, oder aufgrund eines Einreiseverbotes in den Schengen-Raum nicht mehr einreisen darf und ihre Fingerabdrücke im AFIS nicht enthalten sind.[^87-7]
+- f.[^87-4] angibt, ihren Namen geändert zu haben;
+- g.[^87-5] nicht nachweist, dass alle Einreisevoraussetzungen nach Artikel 6 Absatz 1 des Schengener Grenzkodex[^87-6] erfüllt sind;
+- h.[^87-7] aufgrund eines Rückkehrentscheids nach Artikel 68*a* Absatz 1 AIG verpflichtet ist, die Schweiz zu verlassen, wenn dieser Entscheid für den ganzen Schengen-Raum gilt, oder aufgrund eines Einreiseverbotes in den Schengen-Raum nicht mehr einreisen darf und ihre Fingerabdrücke im AFIS nicht enthalten sind.[^87-8]
 
-<sup>1ter</sup> Zur Feststellung und Sicherung der Identität der betroffenen Person können die Behörden nach Artikel 4 Absatz 1 Buchstabe e der Verordnung vom 6. Dezember 2013[^87-8] über die Bearbeitung biometrischer erkennungsdienstlicher Daten die biometrischen erkennungsdienstlichen Daten in das AFIS aufnehmen lassen.[^87-9]
+<sup>1ter</sup> Zur Feststellung und Sicherung der Identität der betroffenen Person können die Behörden nach Artikel 4 Absatz 1 Buchstabe e der Verordnung vom 6. Dezember 2013[^87-9] über die Bearbeitung biometrischer erkennungsdienstlicher Daten die biometrischen erkennungsdienstlichen Daten in das AFIS aufnehmen lassen.[^87-10]
 
-<sup>1quater</sup> Das SEM kann einer Behörde nach Artikel 4 Absatz 1 Buchstabe h der Verordnung vom 6. Dezember 2013 über die Bearbeitung biometrischer erkennungsdienstlicher Daten (auftraggebende Behörde) gestatten, im AFIS Datenabgleiche vorzunehmen. Die auftraggebende Behörde stellt dem SEM vorgängig einen schriftlichen Antrag, in dem sie darlegt, dass die Datenabgleiche für die Erfüllung ihrer Tätigkeit erforderlich sind.[^87-10]
+<sup>1quater</sup> Das SEM kann einer Behörde nach Artikel 4 Absatz 1 Buchstabe h der Verordnung vom 6. Dezember 2013 über die Bearbeitung biometrischer erkennungsdienstlicher Daten (auftraggebende Behörde) gestatten, im AFIS Datenabgleiche vorzunehmen. Die auftraggebende Behörde stellt dem SEM vorgängig einen schriftlichen Antrag, in dem sie darlegt, dass die Datenabgleiche für die Erfüllung ihrer Tätigkeit erforderlich sind.[^87-11]
 
-<sup>1quinquies</sup> Der für die Führung des AFIS zuständige Dienst übermittelt die Ergebnisse der Abgleiche nach Absatz 1<sup>quater</sup> einer vom SEM in Absprache mit der auftraggebenden Behörde bezeichneten Stelle. Diese bereitet die Abgleichergebnisse auf und leitet sie an die auftraggebende Behörde weiter.[^87-11]
+<sup>1quinquies</sup> Der für die Führung des AFIS zuständige Dienst übermittelt die Ergebnisse der Abgleiche nach Absatz 1<sup>quater</sup> einer vom SEM in Absprache mit der auftraggebenden Behörde bezeichneten Stelle. Diese bereitet die Abgleichergebnisse auf und leitet sie an die auftraggebende Behörde weiter.[^87-12]
 
-<sup>1sexies</sup> Die biometrischen erkennungsdienstlichen Daten, die von den Behörden nach Artikel 4 Absatz 1 Buchstabe h der Verordnung vom 6. Dezember 2013 über die Bearbeitung biometrischer erkennungsdienstlicher Daten erhoben worden sind, werden nicht in das AFIS aufgenommen.[^87-12]
+<sup>1sexies</sup> Die biometrischen erkennungsdienstlichen Daten, die von den Behörden nach Artikel 4 Absatz 1 Buchstabe h der Verordnung vom 6. Dezember 2013 über die Bearbeitung biometrischer erkennungsdienstlicher Daten erhoben worden sind, werden nicht in das AFIS aufgenommen.[^87-13]
 
-<sup>2</sup> Die Übermittlung und Speicherung der Fingerabdrücke sowie die Bearbeitung der zugehörigen Personendaten richten sich nach der Verordnung vom 6. Dezember 2013 über die Bearbeitung biometrischer erkennungsdienstlicher Daten. Die Fingerabdrücke werden zwei Jahre nach der erkennungsdienstlichen Erfassung gelöscht.[^87-13]
+<sup>2</sup> Die Übermittlung und Speicherung der Fingerabdrücke sowie die Bearbeitung der zugehörigen Personendaten richten sich nach der Verordnung vom 6. Dezember 2013 über die Bearbeitung biometrischer erkennungsdienstlicher Daten. Die Fingerabdrücke werden zwei Jahre nach der erkennungsdienstlichen Erfassung gelöscht.[^87-14]
 
-<sup>2bis</sup> Die Erfassung der Daten nach Absatz 1<sup>bis</sup> Buchstabe h erfolgt ausschliesslich zwecks Lieferung an den nationalen Teil des Schengener Informationssystems. Die entsprechenden Daten werden nach sechs Monaten gelöscht. Es findet kein Datenabgleich statt.[^87-14]
+<sup>2bis</sup> Die Erfassung der Daten nach Absatz 1<sup>bis</sup> Buchstabe h erfolgt ausschliesslich zwecks Lieferung an den nationalen Teil des Schengener Informationssystems. Die entsprechenden Daten werden nach sechs Monaten gelöscht. Es findet kein Datenabgleich statt.[^87-15]
 
 <sup>2ter</sup>
 
 In den folgenden Fällen wird auf die Datenerfassung nach Absatz 1<sup>bis</sup> Buchstabe h verzichtet:
 
 - a. die Person hat das zwölfte Altersjahr noch nicht vollendet;
-- b. die körperliche Verfassung oder der Gesundheitszustand der Person erlaubt die Erfassung der Daten nicht.[^87-15]
+- b. die körperliche Verfassung oder der Gesundheitszustand der Person erlaubt die Erfassung der Daten nicht.[^87-16]
 
-<sup>2quater</sup> Auf die Erfassung der Daten nach Absatz 1<sup>bis</sup> Buchstabe h kann ausnahmsweise verzichtet werden, wenn aufgrund konkreter Anhaltspunkte Gewissheit besteht, dass die Person aus der Schweiz und dem Schengen-Raum fristgerecht ausreist und keine Einreiseverweigerung beantragt wird.[^87-16]
+<sup>2quater</sup> Auf die Erfassung der Daten nach Absatz 1<sup>bis</sup> Buchstabe h kann ausnahmsweise verzichtet werden, wenn aufgrund konkreter Anhaltspunkte Gewissheit besteht, dass die Person aus der Schweiz und dem Schengen-Raum fristgerecht ausreist und keine Einreiseverweigerung beantragt wird.[^87-17]
 
-<sup>2quinquies</sup> Das Eidgenössische Justiz- und Polizeidepartment ist zudem befugt, in ausserordentlichen Situationen weitere Ausnahmen auf dem Verordnungsweg vorzusehen.[^87-17]
+<sup>2quinquies</sup> Das Eidgenössische Justiz- und Polizeidepartment ist zudem befugt, in ausserordentlichen Situationen weitere Ausnahmen auf dem Verordnungsweg vorzusehen.[^87-18]
 
-<sup>3</sup> Für die Bearbeitung, Bekanntgabe und Speicherung der Daten und für die Datensicherheit gelten die massgebenden Bestimmungen der Verordnung vom 12. April 2006[^87-18] über das Zentrale Migrationsinformationssystem (ZEMIS-Verordnung), insbesondere die Artikel 2, 4, 9, 11 sowie 16–19 ZEMIS-Verordnung.
+<sup>3</sup> Für die Bearbeitung, Bekanntgabe und Speicherung der Daten und für die Datensicherheit gelten die massgebenden Bestimmungen der Verordnung vom 12. April 2006[^87-19] über das Zentrale Migrationsinformationssystem (ZEMIS-Verordnung), insbesondere die Artikel 2, 4, 9, 11 sowie 16–19 ZEMIS-Verordnung.
 
-<sup>4</sup> Das Gesichtsbild und die zwei Fingerabdrücke nach Artikel 71*c* zur Ausstellung eines Ausländerausweises werden nach Massgabe der Verordnung (EG) Nr. 1030/2002[^87-19] verwendet. Der Zugriff auf diese Daten ist in Anhang 1 der ZEMIS-Verordnung geregelt.[^87-20]
+<sup>4</sup> Das Gesichtsbild und die zwei Fingerabdrücke nach Artikel 71*c* zur Ausstellung eines Ausländerausweises werden nach Massgabe der Verordnung (EG) Nr. 1030/2002[^87-20] verwendet. Der Zugriff auf diese Daten ist in Anhang 1 der ZEMIS-Verordnung geregelt.[^87-21]
 
 <sup>5</sup>
 
@@ -2202,30 +2187,31 @@ Die Daten nach Absatz 1 Buchstaben a und b können für folgende Personengruppen
 
 - a. Personen, die ein Visum C oder D beantragen und bei denen aufgrund des Reisedokuments begründete Zweifel an ihrer tatsächlichen Identität bestehen;
 - b. Personen, die ein Visum D beantragen und um Familiennachzug in die Schweiz ersuchen;
-- c. Personen, die ein humanitäres Visum nach Artikel 4 Absatz 2 der Verordnung vom 15. August 2018[^87-21] über die Einreise und die Visumerteilung beantragen.[^87-22]
+- c. Personen, die ein humanitäres Visum nach Artikel 4 Absatz 2 der Verordnung vom 15. August 2018[^87-22] über die Einreise und die Visumerteilung beantragen.[^87-23]
 
-[^87-1]: [SR 810.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9232)**.** Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)) auf den 1. Dez. 2022 angepasst.
-[^87-2]: Fassung gemäss Ziff. I der V vom 19. Febr. 2020, in Kraft seit 1. April 2020 ([AS 2020 883](https://fedlex.data.admin.ch/eli/oc/2020/171)).
-[^87-3]: Eingefügt durch Ziff. I der V vom 19. Febr. 2020, in Kraft seit 1. April 2020 ([AS 2020 883](https://fedlex.data.admin.ch/eli/oc/2020/171)).
+[^87-1]: Fassung gemäss Ziff. I der V vom 20. Mai 2026, in Kraft seit 12. Juni 2026 ([AS 2026 260](https://fedlex.data.admin.ch/eli/oc/2026/260)).
+[^87-2]: [SR 810.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9232)**.** Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)) auf den 1. Dez. 2022 angepasst.
+[^87-3]: Fassung gemäss Ziff. I der V vom 19. Febr. 2020, in Kraft seit 1. April 2020 ([AS 2020 883](https://fedlex.data.admin.ch/eli/oc/2020/171)).
 [^87-4]: Eingefügt durch Ziff. I der V vom 19. Febr. 2020, in Kraft seit 1. April 2020 ([AS 2020 883](https://fedlex.data.admin.ch/eli/oc/2020/171)).
-[^87-5]: Verordnung (EU) 2016/399 des Europäischen Parlaments und des Rates vom 9. März 2016 über einen Gemeinschaftskodex für das Überschreiten der Grenze durch Personen (Schengener Grenzkodex), ABl. L 77 vom 23.3.2016, S. 1; zuletzt geändert durch Verordnung (EU) 2017/458, ABl. L 74 vom 18.03.2017, S. 1.
-[^87-6]: Eingefügt durch Ziff. I der V vom 19. Okt. 2022, in Kraft seit 22. Nov. 2022 ([AS 2022 645](https://fedlex.data.admin.ch/eli/oc/2022/645)).
-[^87-7]: Eingefügt durch Anhang Ziff. 1 der V vom 6. Dez. 2013 über die Bearbeitung biometrischer erkennungsdienstlicher Daten, in Kraft seit 1. Sept. 2014 ([AS 2014 163](https://fedlex.data.admin.ch/eli/oc/2014/23)).
-[^87-8]: [SR 361.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6311)
-[^87-9]: Eingefügt durch Anhang Ziff. 1 der V vom 6. Dez. 2013 über die Bearbeitung biometrischer erkennungsdienstlicher Daten, in Kraft seit 1. Sept. 2014 ([AS 2014 163](https://fedlex.data.admin.ch/eli/oc/2014/23)).
+[^87-5]: Eingefügt durch Ziff. I der V vom 19. Febr. 2020 ([AS 2020 883](https://fedlex.data.admin.ch/eli/oc/2020/171)). Fassung gemäss Ziff. I der V vom 6. Mai 2026, in Kraft seit 12. Juni 2026 ([AS 2026 239](https://fedlex.data.admin.ch/eli/oc/2026/239)).
+[^87-6]: Siehe Fussnote zu Art. 83*a* Abs. 1.
+[^87-7]: Eingefügt durch Ziff. I der V vom 19. Okt. 2022, in Kraft seit 22. Nov. 2022 ([AS 2022 645](https://fedlex.data.admin.ch/eli/oc/2022/645)).
+[^87-8]: Eingefügt durch Anhang Ziff. 1 der V vom 6. Dez. 2013 über die Bearbeitung biometrischer erkennungsdienstlicher Daten, in Kraft seit 1. Sept. 2014 ([AS 2014 163](https://fedlex.data.admin.ch/eli/oc/2014/23)).
+[^87-9]: [SR 361.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6311)
 [^87-10]: Eingefügt durch Anhang Ziff. 1 der V vom 6. Dez. 2013 über die Bearbeitung biometrischer erkennungsdienstlicher Daten, in Kraft seit 1. Sept. 2014 ([AS 2014 163](https://fedlex.data.admin.ch/eli/oc/2014/23)).
-[^87-11]: Eingefügt durch Anhang Ziff. 1 der V vom 6. Dez. 2013 über die Bearbeitung biometrischer erkennungsdienstlicher Daten ([AS 2014 163](https://fedlex.data.admin.ch/eli/oc/2014/23)). Fassung gemäss Ziff. 1 der V vom 15. Aug. 2018, in Kraft seit 15. Sept. 2018 ([AS 2018 3085](https://fedlex.data.admin.ch/eli/oc/2018/492)).
-[^87-12]: Eingefügt durch Anhang Ziff. 1 der V vom 6. Dez. 2013 über die Bearbeitung biometrischer erkennungsdienstlicher Daten, in Kraft seit 1. Sept. 2014 ([AS 2014 163](https://fedlex.data.admin.ch/eli/oc/2014/23)).
-[^87-13]: Fassung gemäss Ziff. I der V vom 28. Nov. 2014, in Kraft seit 1. Jan. 2015 ([AS 2014 4441](https://fedlex.data.admin.ch/eli/oc/2014/738)).
-[^87-14]: Eingefügt durch Ziff. I der V vom 19. Okt. 2022, in Kraft seit 22. Nov. 2022 ([AS 2022 645](https://fedlex.data.admin.ch/eli/oc/2022/645)).
+[^87-11]: Eingefügt durch Anhang Ziff. 1 der V vom 6. Dez. 2013 über die Bearbeitung biometrischer erkennungsdienstlicher Daten, in Kraft seit 1. Sept. 2014 ([AS 2014 163](https://fedlex.data.admin.ch/eli/oc/2014/23)).
+[^87-12]: Eingefügt durch Anhang Ziff. 1 der V vom 6. Dez. 2013 über die Bearbeitung biometrischer erkennungsdienstlicher Daten ([AS 2014 163](https://fedlex.data.admin.ch/eli/oc/2014/23)). Fassung gemäss Ziff. 1 der V vom 15. Aug. 2018, in Kraft seit 15. Sept. 2018 ([AS 2018 3085](https://fedlex.data.admin.ch/eli/oc/2018/492)).
+[^87-13]: Eingefügt durch Anhang Ziff. 1 der V vom 6. Dez. 2013 über die Bearbeitung biometrischer erkennungsdienstlicher Daten, in Kraft seit 1. Sept. 2014 ([AS 2014 163](https://fedlex.data.admin.ch/eli/oc/2014/23)).
+[^87-14]: Fassung gemäss Ziff. I der V vom 28. Nov. 2014, in Kraft seit 1. Jan. 2015 ([AS 2014 4441](https://fedlex.data.admin.ch/eli/oc/2014/738)).
 [^87-15]: Eingefügt durch Ziff. I der V vom 19. Okt. 2022, in Kraft seit 22. Nov. 2022 ([AS 2022 645](https://fedlex.data.admin.ch/eli/oc/2022/645)).
 [^87-16]: Eingefügt durch Ziff. I der V vom 19. Okt. 2022, in Kraft seit 22. Nov. 2022 ([AS 2022 645](https://fedlex.data.admin.ch/eli/oc/2022/645)).
 [^87-17]: Eingefügt durch Ziff. I der V vom 19. Okt. 2022, in Kraft seit 22. Nov. 2022 ([AS 2022 645](https://fedlex.data.admin.ch/eli/oc/2022/645)).
-[^87-18]: [SR 142.513](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4900)
-[^87-19]: Siehe Fussnote zu Art. 71*c*.
-[^87-20]: Eingefügt durch Ziff. I der V vom 17. Dez. 2010 ([AS 2011 99](https://fedlex.data.admin.ch/eli/oc/2011/18)). Fassung gemäss Ziff. I 1 der V vom 12. Juni 2015 über die Anpassung von Verordnungen aufgrund von Neuerungen bezüglich des Dublin/Eurodac-Besitzstands, in Kraft seit 1. Juli 2015 ([AS 2015 1849](https://fedlex.data.admin.ch/eli/oc/2015/358)).
-[^87-21]: [SR 142.204](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4856)
-[^87-22]: Eingefügt durch Ziff. I der V vom 19. Febr. 2020, in Kraft seit 1. April 2020 ([AS 2020 883](https://fedlex.data.admin.ch/eli/oc/2020/171)).
+[^87-18]: Eingefügt durch Ziff. I der V vom 19. Okt. 2022, in Kraft seit 22. Nov. 2022 ([AS 2022 645](https://fedlex.data.admin.ch/eli/oc/2022/645)).
+[^87-19]: [SR 142.513](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4900)
+[^87-20]: Siehe Fussnote zu Art. 71*c*.
+[^87-21]: Eingefügt durch Ziff. I der V vom 17. Dez. 2010 ([AS 2011 99](https://fedlex.data.admin.ch/eli/oc/2011/18)). Fassung gemäss Ziff. I 1 der V vom 12. Juni 2015 über die Anpassung von Verordnungen aufgrund von Neuerungen bezüglich des Dublin/Eurodac-Besitzstands, in Kraft seit 1. Juli 2015 ([AS 2015 1849](https://fedlex.data.admin.ch/eli/oc/2015/358)).
+[^87-22]: [SR 142.204](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4856)
+[^87-23]: Eingefügt durch Ziff. I der V vom 19. Febr. 2020, in Kraft seit 1. April 2020 ([AS 2020 883](https://fedlex.data.admin.ch/eli/oc/2020/171)).
 
 ## 10*a*. Kapitel: Eurodac
 
@@ -2235,35 +2221,33 @@ Die Daten nach Absatz 1 Buchstaben a und b können für folgende Personengruppen
 
 #### Art. 87a
 
-**Fingerabdruckspezialistinnen und -spezialisten**
+**Fingerabdruck- und Gesichtsbildexpertinnen und -experten**[^87a-1]
 
-### (Art. 111*i* AIG)
+### (Art. 109*l*<sup>quinquies</sup> Abs. 1 und 2 AIG)
 
-[^87a-1]
+<sup>1</sup> Für die Überprüfung der Ergebnisse des automatischen Abgleichs von Eurodac-Daten nach Artikel 109*l* Absatz 5 AIG werden Fingerabdruck- beziehungsweise Gesichtsbildexpertinnen und -experten der für die biometrische Identifikation zuständigen Dienste des Bundesamtes für Polizei (fedpol) eingesetzt.
 
-<sup>1</sup> Bei Eurodac-Abfragen nach Artikel 111*i* Absatz 6 AIG[^87a-2] werden für die Überprüfung der Fingerabdrücke Fingerabdruckspezialistinnen und ‑spezialisten der AFIS/DNA-Services des Bundesamtes für Polizei nach Artikel 102*a*<sup>ter</sup> AsylG eingesetzt.
+<sup>2</sup> Das Verfahren richtet sich nach den Artikeln 11 Absätze 3–5 und 11*a* Absätze 3–6 der Asylverordnung 3 vom 11. August 1999[^87a-2] (AsylV 3).
 
-<sup>2</sup> Das Verfahren richtet sich nach Artikel 11 der Asylverordnung 3 vom 11. August 1999[^87a-3] (AsylV 3). Die Spezialistin oder der Spezialist übermittelt das Ergebnis der Überprüfung an das SEM sowie an die Stellen, die den Abgleich im Eurodac vorgenommen haben (Grenzwachtkorps, kantonale und kommunale Polizeibehörden).
+<sup>3</sup> Die Expertinnen und Experten übermitteln das Ergebnis der Überprüfung an das SEM sowie an die Stellen des Grenzwachtkorps oder der kantonalen und kommunalen Polizeibehörden, welche die Daten erfasst haben, die den automatischen Abgleich im Eurodac ausgelöst haben.
 
-[^87a-1]: Heute: Art. 109*k* AIG.
-[^87a-2]: Heute: Art. 109*k* Abs. 6 AIG.
-[^87a-3]: [SR 142.314](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4884)
+[^87a-1]: Fassung gemäss Ziff. I der V vom 20. Mai 2026, in Kraft seit 12. Juni 2026 ([AS 2026 260](https://fedlex.data.admin.ch/eli/oc/2026/260)).
+[^87a-2]: [SR 142.314](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4884)
 
 #### Art. 87b
 
-**Recht auf Auskunft und Recht auf Berichtigung oder Löschung von Daten im Eurodac**
+**Auskunftsrecht und Recht auf Berichtigung, Ergänzung oder Löschung von Eurodac-Daten**[^87b-1]
 
-Das Verfahren zur Ausübung des Rechts auf Auskunft und des Rechts auf Berichtigung oder Löschung von Daten im Eurodac richtet sich nach Artikel 11*a* AsylV 3[^87b-1].
+Das Verfahren zur Ausübung des Auskunftsrechts und des Rechts auf Berichtigung, Ergänzung oder Löschung von Eurodac-Daten richtet sich nach den Artikeln 11*b* und 11*c* AsylV 3[^87b-2].
 
-[^87b-1]: [SR 142.314](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4884)
+[^87b-1]: Fassung gemäss Ziff. I der V vom 20. Mai 2026, in Kraft seit 12. Juni 2026 ([AS 2026 260](https://fedlex.data.admin.ch/eli/oc/2026/260)).
+[^87b-2]: [SR 142.314](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4884)
 
 #### Art. 87c
 
-**Haftung in Zusammenhang mit dem Betrieb des Eurodac**
+[^87c-1]
 
-Die Haftung für Schäden im Zusammenhang mit dem Betrieb des Eurodac richtet sich nach dem Verantwortlichkeitsgesetz vom 14. März 1958[^87c-1], insbesondere nach dessen Artikeln 19*a*–19*c*, die sinngemäss anwendbar sind.
-
-[^87c-1]: [SR 170.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4971)
+[^87c-1]: Aufgehoben durch Ziff. I der V vom 20. Mai 2026, mit Wirkung seit 12. Juni 2026 ([AS 2026 260](https://fedlex.data.admin.ch/eli/oc/2026/260)).
 
 #### Art. 87d
 
@@ -2272,6 +2256,63 @@ Die Haftung für Schäden im Zusammenhang mit dem Betrieb des Eurodac richtet si
 Die Artikel 11*c* und 12 AsylV 3[^87d-1] gelten sinngemäss für die Aufsicht über die Bearbeitung von Daten im Eurodac und für die Datensicherheit.
 
 [^87d-1]: [SR 142.314](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4884)
+
+#### Art. 87e
+
+**Bekanntgabe von Eurodac-Daten an einen Nicht-Schengen-Staat**[^87e-1]
+
+<sup>1</sup> Die im Eurodac bearbeiteten Daten dürfen Nicht-Schengen-Staaten, internationalen Organisationen, privaten Stellen und natürlichen Personen nicht bekanntgegeben werden.
+
+<sup>2</sup>
+
+Zum Nachweis der Identität von Drittstaatsangehörigen zwecks Rückführung dürfen ausnahmsweise personenbezogene Daten des Eurodac an einen Nicht-Schengen-Staat bekanntgegeben werden, sofern:
+
+- a. die Bedingungen nach Artikel 50 Absätze 3 und 5 der Verordnung (EU) 2024/1358[^87e-2] erfüllt sind; und
+- b. der Staat, der die Daten erfasst hat, der Datenbekanntgabe zustimmt.
+
+<sup>3</sup>
+
+Folgende Daten dürfen bekanntgegeben werden, wenn sie im Hinblick auf die Prüfung eines Asylgesuchs, die Feststellung der Identität von Drittstaatsangehöriger mit illegalem Aufenthalt oder von Staatenlosen mit illegalem Aufenthalt oder die Anwendung der Kriterien der Verordnung (EU) 2024/1351[^87e-3] erhoben wurden:
+
+- a. Vorname, Nachname, Geburtsname, frühere Namen und Aliasnamen;
+- b. Geschlecht;
+- c. Datum, Ort und Land der Geburt;
+- d. Staatsangehörigkeiten;
+- e.
+
+  folgende Angaben zum Reisedokument:
+
+  - 1\. Art und Nummer des Reisedokuments,
+  - 2\. Ablaufdatum,
+  - 3\. ausstellende Behörde, und
+  - 4\. ausstellender Staat;
+
+- f. biometrische Daten von Personen, die internationalen Schutz beantragen, von Personen mit Schutzgewährung, von Personen, die im Rahmen eines Programms zur Aufnahme von Flüchtlingsgruppen aufgenommen wurden, von Personen mit illegalem Aufenthalt oder von Personen, die als nach einem Such- und Rettungseinsatz ausgeschiffte Person registriert sind.
+
+<sup>4</sup>
+
+Gleichzeitig mit den biometrischen Daten nach Absatz 3 Buchstabe f dürfen bekanntgegeben werden:
+
+- a.
+
+  folgende Metadaten zu den biometrischen Daten:
+
+  - 1\. Datum der Erfassung,
+  - 2\. Datum der Übermittlung an Eurodac;
+
+- b.
+
+  folgende Daten zu den betroffenen Personen:
+
+  - 1\. Herkunftsmitgliedstaat, Ort und Datum der Registrierung, vom Herkunftsmitgliedstaat verwendete Kennnummer,
+  - 2\. eingescannte Farbkopie eines Identitäts- oder Reisedokuments oder eines anderen Dokuments, das die Identifizierung erleichtert, zusammen mit einer Angabe zu dessen Echtheit,
+  - 3\. Ort und Datum der Ausschiffung;
+
+- c. Benutzerkennwort.
+
+[^87e-1]: Eingefügt durch Ziff. I der V vom 20. Mai 2026, in Kraft seit 12. Juni 2026 ([AS 2026 260](https://fedlex.data.admin.ch/eli/oc/2026/260)).
+[^87e-2]: Verordnung (EU) 2024/1358 des Europäischen Parlaments und des Rates vom 14. Mai 2024 über die Einrichtung von Eurodac für den Abgleich biometrischer Daten zur effektiven Anwendung der Verordnungen (EU) 2024/1351 und (EU) 2024/1350 des Europäischen Parlaments und des Rates und der Richtlinie 2001/55/EG sowie zur Feststellung der Identität illegal aufhältiger Drittstaatsangehöriger oder Staatenloser und über der Gefahrenabwehr und Strafverfolgung dienende Anträge der Gefahrenabwehr- und Strafverfolgungsbehörden der Mitgliedstaaten und Europols auf den Abgleich mit Eurodac-Daten, zur Änderung der Verordnungen (EU) 2018/1240 und (EU) 2019/818 des Europäischen Parlaments und des Rates und zur Aufhebung der Verordnung (EU) Nr. 603/2013 des Europäischen Parlaments und des Rates, Fassung gemäss ABl. L 2024/1358, 22.5.2024.
+[^87e-3]: Verordnung (EU) 2024/1351 des Europäischen Parlaments und des Rates vom 14. Mai 2024 über Asyl- und Migrationsmanagement, zur Änderung der Verordnungen (EU) 2021/1147 und (EU) 2021/1060 und zur Aufhebung der Verordnung (EU) Nr. 604/2013, Fassung gemäss ABl. L, 2024/1351, 22.5.2024.
 
 ## 11. Kapitel: Zuständigkeiten, Mitteilungen und Fristen
 
@@ -2287,13 +2328,17 @@ Die Artikel 11*c* und 12 AsylV 3[^87d-1] gelten sinngemäss für die Aufsicht ü
 
 **Spezielle Situation von unbegleiteten Minderjährigen**[^88a-1]
 
-### (Art. 64 Abs. 4 und 5 und Art. 64*a* Abs. 3<sup>bis</sup> AIG)
+### (Art. 9*b* Abs. 4, 9*c* Abs. 4, 66 sowie 109*l* Abs. 2 AIG)
+
+[^88a-2]
 
 <sup>1</sup> In Wegweisungsverfahren kann mit Unterstützung wissenschaftlicher Methoden abgeklärt werden, ob die Altersangabe der betroffenen Person dem tatsächlichen Alter entspricht.
 
-<sup>2</sup> Kann für unbegleitete Minderjährige nicht sofort eine Beistand- oder Vormundschaft eingesetzt werden, so bestimmt die zuständige kantonale Behörde für die Dauer des Wegweisungsverfahrens, längstens aber bis zur Ernennung eines Beistandes, einer Beiständin, eines Vormundes oder einer Vormundin oder bis zum Eintritt der Volljährigkeit, unverzüglich eine Vertrauensperson nach Artikel 64 Absatz 4 oder Artikel 64*a* Absatz 3<sup>bis</sup> AIG.
+<sup>1bis</sup> Handelt es sich bei der illegal aufhältigen Person oder der Person, die beim irregulären Überschreiten einer Aussengrenze aufgegriffen wurde, um einen unbegleiteten Minderjährigen, so muss sie bei der Erfassung der Daten im Eurodac von einer Vertrauensperson begleitet werden*.*[^88a-3]
 
-<sup>3</sup> Die Vertrauensperson muss über Kenntnisse des Ausländerrechts und des Rechts betreffend das Dublin-Verfahren verfügen. Sie begleitet und unterstützt die unbegleitete minderjährige Person im Wegweisungsverfahren unter Einschluss von Verfahren zur Anordnung von Zwangsmassnahmen nach den Artikeln 73–81 AIG.
+<sup>2</sup> Kann für unbegleitete Minderjährige nicht sofort eine Beistand- oder Vormundschaft eingesetzt werden, so bestimmt die zuständige kantonale Behörde für die Dauer des ausländerrechtlichen Verfahrens, längstens aber bis zur Ernennung eines Beistandes, einer Beiständin, eines Vormundes oder einer Vormundin oder bis zum Eintritt der Volljährigkeit, unverzüglich eine Vertrauensperson nach den Artikeln 9*b* Absatz 4, 9*c* Absatz 4, 66 oder 109*l* Absatz 2 AIG.[^88a-4]
+
+<sup>3</sup> Die Vertrauensperson muss über Kenntnisse des Ausländerrechts und des Rechts betreffend das Dublin-Verfahren verfügen. Sie begleitet und unterstützt die unbegleitete minderjährige Person bei der Erfassung der Daten im Eurodac und während des Überprüfungs- und Wegweisungsverfahrens unter Einschluss von Verfahren zur Anordnung von Zwangsmassnahmen nach den Artikeln 73–81 AIG. Sie handelt zum Wohl der unbegleiteten Minderjährigen, berät sie und steht ihnen insbesondere bei der Kommunikation mit Behörden zur Seite.[^88a-5]
 
 <sup>4</sup>
 
@@ -2308,6 +2353,10 @@ Sie erfüllt namentlich folgende Aufgaben:
 <sup>6</sup> Personen, die minderjährige Personen anhören, tragen den besonderen Aspekten der Minderjährigkeit Rechnung.
 
 [^88a-1]: Eingefügt durch Ziff. I 1 der V vom 12. Juni 2015 über die Anpassung von Verordnungen aufgrund von Neuerungen bezüglich des Dublin/Eurodac-Besitzstands, in Kraft seit 20. Juli 2015 ([AS 2015 1849](https://fedlex.data.admin.ch/eli/oc/2015/358)).
+[^88a-2]: Fassung gemäss Ziff. I der V vom 20. Mai 2026, in Kraft seit 12. Juni 2026 ([AS 2026 260](https://fedlex.data.admin.ch/eli/oc/2026/260)).
+[^88a-3]: Eingefügt durch Ziff. I der V vom 20. Mai 2026, in Kraft seit 12. Juni 2026 ([AS 2026 260](https://fedlex.data.admin.ch/eli/oc/2026/260)).
+[^88a-4]: Fassung gemäss Ziff. I der V vom 20. Mai 2026, in Kraft seit 12. Juni 2026 ([AS 2026 260](https://fedlex.data.admin.ch/eli/oc/2026/260)).
+[^88a-5]: Fassung gemäss Ziff. I der V vom 20. Mai 2026, in Kraft seit 12. Juni 2026 ([AS 2026 260](https://fedlex.data.admin.ch/eli/oc/2026/260)).
 
 #### Art. 89
 

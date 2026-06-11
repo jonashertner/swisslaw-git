@@ -4,11 +4,11 @@ title: "Ordonnance du 24 octobre 2007 relative à l'admission, au séjour et à 
 short: OASA
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/759"
 language: fr
-version: 2026-04-22
+version: 2026-06-12
 adopted: 2007-10-24
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/759/20260422/fr/xml/fedlex-data-admin-ch-eli-cc-2007-759-20260422-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/759/20260422/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/759/20260612/fr/xml/fedlex-data-admin-ch-eli-cc-2007-759-20260612-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/759/20260612/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/759/20260422/fr"
 
 (OASA)
 
-du 24 octobre 2007 (État le 22 avril 2026)
+du 24 octobre 2007 (État le 12 juin 2026)
 
 Le Conseil fédéral suisse,
 
@@ -2052,23 +2052,9 @@ Les APEA communiquent spontanément aux autorités migratoires cantonales les me
 
 #### Art. 82g
 
-**Communication de données à un État Dublin**[^82g-1]
+[^82g-1]
 
-<sup>1</sup>
-
-Dans le cadre de l’application des accords d’association à Dublin[^82g-2], avant de transférer un étranger vers l’État responsable lié par un de ces accords (État Dublin), le SEM transmet à cet État les données suivantes:
-
-- a. les données personnelles mentionnées à l’annexe VI du règlement (CE) n° 1560/2003[^82g-3], et
-- b. pour les personnes qui nécessitent des soins médicaux ou un traitement, les informations concernant leur état de santé physique et psychique conformément à l’annexe IX du règlement (CE) n° 1560/2003.
-
-<sup>2</sup> Les informations de l’al. 1, let. b, peuvent être transmises uniquement entre professionnels de la santé ou personnes soumises à un secret professionnel équivalent et seulement avec le consentement exprès de la personne concernée ou de son représentant. Si la personne concernée n’est pas en mesure de donner son consentement pour des raisons physiques ou légales, des données la concernant peuvent exceptionnellement être transmises sans son consentement exprès si la protection de ses intérêts vitaux ou de ceux d’un tiers l’exige.
-
-<sup>3</sup> La procédure est régie par les art. 31 et 32 du règlement (UE) n° 604/2013[^82g-4] et les art. 8, par. 3, et 15*a* du règlement (CE) n° 1560/2003.
-
-[^82g-1]: Anciennement art. 82*a*. Introduit par le ch. I 1 de l’O du 12 juin 2015 portant adaptation d’actes en raison de nouveautés en lien avec l’acquis de Dublin/Eurodac, en vigueur depuis le 1<sup>er</sup> juil. 2015 ([RO 2015 1849](https://fedlex.data.admin.ch/eli/oc/2015/358)).
-[^82g-2]: Les accords d’association à Dublin sont mentionnés à l’annexe 4.
-[^82g-3]: Règlement (CE) n° 1560/2003 de la Commission du 2 septembre 2003 portant modalités d’application du règlement (CE) n° 343/2003 du Conseil établissant les critères et mécanismes de détermination de l’État membre responsable de l’examen d’une demande d’asile présentée dans l’un des Etats membres par un ressortissant d’un pays tiers, JO L 222 du 5.9.2003, p. 3; règlement modifié en dernier lieu par le règlement (UE) n° 118/2014, JO L 39 du 8.2.2014, p. 1.
-[^82g-4]: Règlement (UE) n° 604/2013 du Parlement européen et du Conseil du 26 juin 2013 établissant les critères et mécanismes de détermination de l’Etat membre responsable de l’examen d’une demande de protection internationale introduite dans l’un des Etats membres par un ressortissant de pays tiers ou un apatride (refonte), version du JO L 180 du 29.6.2013, p. 31.
+[^82g-1]: Anciennement art. 82*a*. Introduit par le ch. I 1 de l’O du 12 juin 2015 portant adaptation d’actes en raison de nouveautés en lien avec l’acquis de Dublin/Eurodac ([RO 2015 1849](https://fedlex.data.admin.ch/eli/oc/2015/358)). Abrogé par le ch. I de l’O du 20 mai 2026, avec effet au 12 juin 2026 ([RO 2026 260](https://fedlex.data.admin.ch/eli/oc/2026/260)).
 
 ## Chapitre 9 Décision préalable des autorités du marché du travail et procédure d’admission
 
@@ -2098,18 +2084,17 @@ Avant d’octroyer une première autorisation de séjour ou de courte durée en 
 
 **Reconnaissance des décisions de renvoi prononcées par des États étrangers**[^83a-1]
 
-<sup>1</sup> Les autorités cantonales compétentes en matière d’étrangers peuvent renvoyer un étranger dans son État d’origine ou de provenance aux conditions prévues dans la directive 2001/40/CE[^83a-2] lorsqu’une décision exécutoire de renvoi prononcée par un État lié par les accords d’association à Schengen[^83a-3] établit que l’étranger ne répondait pas aux conditions d’entrée visées à l’art. 6, par. 1, du code frontières Schengen[^83a-4].[^83a-5]
+<sup>1</sup> Les autorités migratoires cantonales peuvent renvoyer un étranger dans son État d’origine ou de provenance aux conditions prévues dans la directive 2001/40/CE[^83a-2] lorsqu’une décision exécutoire de renvoi prononcée par un État Schengen établit que l’étranger ne répondait pas aux conditions d’entrée visées à l’art. 6, par. 1, du code frontières Schengen[^83a-3].[^83a-4]
 
 <sup>2</sup> Les cantons vérifient si l’exécution du renvoi dans l’État d’origine ou de provenance est encore licite, raisonnablement exigible et possible et ils rendent une décision.
 
-<sup>3</sup> Les frais d’exécution du renvoi sont remboursés conformément à l’art. 7 de la directive 2001/40/CE et en vertu de la décision 2004/191/CE[^83a-6]. Le SEM est le point de contact au sens de cette décision.
+<sup>3</sup> Les frais d’exécution du renvoi sont remboursés conformément à l’art. 7 de la directive 2001/40/CE et en vertu de la décision 2004/191/CE[^83a-5]. Le SEM est le point de contact au sens de cette décision.
 
 [^83a-1]: Introduit par le ch. I 3 de l’O du 22 oct. 2008 (Schengen et Dublin ([RO 2008 5421](https://fedlex.data.admin.ch/eli/oc/2008/757)). Nouvelle teneur selon le ch. I 1 de l’O du 12 juin 2015 portant adaptation d’actes en raison de nouveautés en lien avec l’acquis de Dublin/Eurodac, en vigueur depuis le 1<sup>er</sup> juil. 2015 ([RO 2015 1849](https://fedlex.data.admin.ch/eli/oc/2015/358)).
 [^83a-2]: Directive 2001/40/CE du Conseil du 28 mai 2001 relative à la reconnaissance mutuelle des décisions d’éloignement des ressortissants de pays tiers, version du JO L 149 du 2.6.2001, p. 34.
-[^83a-3]: Ces accords sont mentionnés à l’annexe 3.
-[^83a-4]: Règlement (UE) 2016/399 du Parlement européen et du Conseil du 9 mars 2016 établissant un code communautaire relatif au régime de franchissement des frontières par les personnes (code frontières Schengen), version du JO L 77 du 23.3.2016, p. 1; modifié par le règlement (UE) 2017/458, JO L 74 du 18.3.2017, p. 1.
-[^83a-5]: Nouvelle teneur selon le ch. II de l’O du 5 avr. 2017, en vigueur depuis le 1<sup>er</sup> mai 2017 ([RO 2017 2549](https://fedlex.data.admin.ch/eli/oc/2017/239)).
-[^83a-6]: Décision 2004/191/CE du Conseil du 23 février 2004 définissant les critères et modalités pratiques de la compensation des déséquilibres financiers résultant de l’application de la directive 2001/40/CE relative à la reconnaissance mutuelle des décisions d’éloignement des ressortissants de pays tiers, version du JO L 60 du 27.2.2004, p. 55.
+[^83a-3]: Règlement (UE) 2016/399 du Parlement européen et du Conseil du 9 mars 2016 concernant un code de l’Union relatif au régime de franchissement des frontières par les personnes (code frontières Schengen), JO L 77 du 23.3.2016, p. 1; modifié en dernier lieu par le règlement (UE) 2024/1717, JO L, 2024/1717, 20.6.2024.
+[^83a-4]: Nouvelle teneur selon le ch. I de l’O du 6 mai 2026, en vigueur depuis le 12 juin 2026 ([RO 2026 239](https://fedlex.data.admin.ch/eli/oc/2026/239)).
+[^83a-5]: Décision 2004/191/CE du Conseil du 23 février 2004 définissant les critères et modalités pratiques de la compensation des déséquilibres financiers résultant de l’application de la directive 2001/40/CE relative à la reconnaissance mutuelle des décisions d’éloignement des ressortissants de pays tiers, version du JO L 60 du 27.2.2004, p. 55.
 
 #### Art. 84
 
@@ -2176,48 +2161,48 @@ Il refuse d’approuver:
 Afin d’établir l’identité d’un étranger et d’enregistrer ses données lors de l’examen des conditions d’entrée ou lors d’une procédure relevant du droit des étrangers, les autorités compétentes peuvent relever les données biométriques suivantes:
 
 - a. empreintes digitales;
-- b. photos;
-- c. profils d’ADN conformément à l’art. 50 de la loi fédérale du 15 juin 2018 sur l’analyse génétique humaine[^87-1].
+- b.[^87-1] images faciales;
+- c. profils d’ADN conformément à l’art. 50 de la loi fédérale du 15 juin 2018 sur l’analyse génétique humaine[^87-2].
 
 <sup>1bis</sup>
 
-Les données visées à l’al. 1, let. a et b, peuvent être saisies en vue de leur enregistrement dans le système automatique d’identification des empreintes digitales (AFIS) de l’Office fédéral de la police dans la mesure où la personne concernée:[^87-2]
+Les données visées à l’al. 1, let. a et b, peuvent être saisies en vue de leur enregistrement dans le système automatique d’identification des empreintes digitales (AFIS) de l’Office fédéral de la police dans la mesure où la personne concernée:[^87-3]
 
 - a. justifie de son identité à l’aide d’un document d’identité ou de voyage faux ou falsifié;
 - b. n’est pas licitement en possession du document d’identité ou de voyage qu’elle présente;
 - c. refuse de justifier de son identité ou n’est pas en mesure de le faire;
 - d. présente des pièces justificatives fausses ou falsifiées;
 - e. entre en Suisse ou quitte la Suisse illégalement ou séjourne illégalement en Suisse;
-- f.[^87-3] déclare avoir changé de nom;
-- g.[^87-4] n’établit pas que toutes les conditions d’entrée visées à l’art. 6, par. 1, du code frontières Schengen[^87-5] sont remplies
-- h.[^87-6] a l’obligation de quitter la Suisse en raison d’une décision de retour au sens de l’art. 68*a*, al. 1, LEI qui s’applique à l’ensemble de l’espace Schengen ou n’est plus autorisée à entrer dans l’espace Schengen en raison d’une interdiction d’entrée, et ses empreintes digitales ne figurent pas dans AFIS.[^87-7]
+- f.[^87-4] déclare avoir changé de nom;
+- g.[^87-5] n’établit pas que toutes les conditions d’entrée visées à l’art. 6, par. 1, du code frontières Schengen[^87-6] sont remplies;
+- h.[^87-7] a l’obligation de quitter la Suisse en raison d’une décision de retour au sens de l’art. 68*a*, al. 1, LEI qui s’applique à l’ensemble de l’espace Schengen ou n’est plus autorisée à entrer dans l’espace Schengen en raison d’une interdiction d’entrée, et ses empreintes digitales ne figurent pas dans AFIS.[^87-8]
 
-<sup>1ter</sup> Afin d’établir l’identité de la personne concernée et d’enregistrer ses données, les autorités mentionnées à l’art. 4, al. 1, let. e, de l’ordonnance du 6 décembre 2013 sur le traitement des données signalétiques biométriques[^87-8] peuvent faire enregistrer les données signalétiques biométriques dans AFIS.[^87-9]
+<sup>1ter</sup> Afin d’établir l’identité de la personne concernée et d’enregistrer ses données, les autorités mentionnées à l’art. 4, al. 1, let. e, de l’ordonnance du 6 décembre 2013 sur le traitement des données signalétiques biométriques[^87-9] peuvent faire enregistrer les données signalétiques biométriques dans AFIS.[^87-10]
 
-<sup>1quater</sup> Le SEM peut autoriser une autorité mentionnée à l’art. 4, al. 1, let. h, de l’ordonnance du 6 décembre 2013 sur le traitement des données signalétiques biométriques (autorité requérante) à effectuer des comparaisons de données dans AFIS. L’autorité requérante adresse au préalable une demande écrite au SEM dans laquelle elle expose les motifs pour lesquels elle a besoin d’effectuer ces comparaisons pour pouvoir exécuter ses tâches.[^87-10]
+<sup>1quater</sup> Le SEM peut autoriser une autorité mentionnée à l’art. 4, al. 1, let. h, de l’ordonnance du 6 décembre 2013 sur le traitement des données signalétiques biométriques (autorité requérante) à effectuer des comparaisons de données dans AFIS. L’autorité requérante adresse au préalable une demande écrite au SEM dans laquelle elle expose les motifs pour lesquels elle a besoin d’effectuer ces comparaisons pour pouvoir exécuter ses tâches.[^87-11]
 
-<sup>1quinquies</sup> Le service chargé de la gestion d’AFIS transmet les résultats des comparaisons visées à l’al. 1<sup>quater</sup> à un service désigné par le SEM en accord avec l’autorité requérante. Ce service prépare les résultats des comparaisons et les transmet à l’autorité requérante.[^87-11]
+<sup>1quinquies</sup> Le service chargé de la gestion d’AFIS transmet les résultats des comparaisons visées à l’al. 1<sup>quater</sup> à un service désigné par le SEM en accord avec l’autorité requérante. Ce service prépare les résultats des comparaisons et les transmet à l’autorité requérante.[^87-12]
 
-<sup>1sexies</sup> Les données signalétiques biométriques relevées par les autorités mentionnées à l’art. 4, al. 1, let. h, de l’ordonnance du 6 décembre 2013 sur le traitement des données signalétiques biométriques ne sont pas enregistrées dans AFIS.[^87-12]
+<sup>1sexies</sup> Les données signalétiques biométriques relevées par les autorités mentionnées à l’art. 4, al. 1, let. h, de l’ordonnance du 6 décembre 2013 sur le traitement des données signalétiques biométriques ne sont pas enregistrées dans AFIS.[^87-13]
 
-<sup>2</sup> La transmission et l’enregistrement des empreintes digitales, de même que le traitement des données personnelles correspondantes, sont effectués conformément aux dispositions de l’ordonnance du 6 décembre 2013 sur le traitement des données signalétiques biométriques. Les empreintes des doigts sont effacées deux ans après la saisie signalétique.[^87-13]
+<sup>2</sup> La transmission et l’enregistrement des empreintes digitales, de même que le traitement des données personnelles correspondantes, sont effectués conformément aux dispositions de l’ordonnance du 6 décembre 2013 sur le traitement des données signalétiques biométriques. Les empreintes des doigts sont effacées deux ans après la saisie signalétique.[^87-14]
 
-<sup>2bis</sup> La saisie des données au sens de l’al. 1<sup>bis</sup>, let. h, est effectuée exclusivement en vue de leur livraison à la partie nationale du Système d’information Schengen. Les données sont effacées après six mois. Elles ne font l’objet d’aucune comparaison.[^87-14]
+<sup>2bis</sup> La saisie des données au sens de l’al. 1<sup>bis</sup>, let. h, est effectuée exclusivement en vue de leur livraison à la partie nationale du Système d’information Schengen. Les données sont effacées après six mois. Elles ne font l’objet d’aucune comparaison.[^87-15]
 
 <sup>2ter</sup>
 
 Dans les cas suivants, il est renoncé à la saisie des données au sens de l’al. 1<sup>bis</sup>, let. h:
 
 - a. la personne n’a pas atteint l’âge de 12 ans;
-- b. la condition physique ou l’état de santé de la personne ne permet pas la saisie.[^87-15]
+- b. la condition physique ou l’état de santé de la personne ne permet pas la saisie.[^87-16]
 
-<sup>2quater</sup> Il peut exceptionnellement être renoncé à la saisie des données au sens de l’al. 1<sup>bis</sup>, let. h, lorsqu’il est établi avec certitude, sur la base d’éléments concrets, que la personne quittera la Suisse et l’espace Schengen dans le délai imparti et qu’aucune interdiction d’entrée n’est demandée.[^87-16]
+<sup>2quater</sup> Il peut exceptionnellement être renoncé à la saisie des données au sens de l’al. 1<sup>bis</sup>, let. h, lorsqu’il est établi avec certitude, sur la base d’éléments concrets, que la personne quittera la Suisse et l’espace Schengen dans le délai imparti et qu’aucune interdiction d’entrée n’est demandée.[^87-17]
 
-<sup>2quinquies</sup> En cas de situation extraordinaire, le DFJP est autorisé à prévoir d’autres exceptions par voie d’ordonnance.[^87-17]
+<sup>2quinquies</sup> En cas de situation extraordinaire, le DFJP est autorisé à prévoir d’autres exceptions par voie d’ordonnance.[^87-18]
 
-<sup>3</sup> Le traitement, la communication et l’enregistrement des données, ainsi que la sécurité des données sont régis par les dispositions correspondantes de l’ordonnance du 12 avril 2006 sur le système d’information central sur la migration (ordonnance SYMIC)[^87-18], notamment les art. 2, 4, 9, 11, 16 à 19 de l’ordonnance SYMIC.
+<sup>3</sup> Le traitement, la communication et l’enregistrement des données, ainsi que la sécurité des données sont régis par les dispositions correspondantes de l’ordonnance du 12 avril 2006 sur le système d’information central sur la migration (ordonnance SYMIC)[^87-19], notamment les art. 2, 4, 9, 11, 16 à 19 de l’ordonnance SYMIC.
 
-<sup>4</sup> L’image du visage et les empreintes digitales de deux doigts visées à l’art. 71*c* sont utilisées aux fins de l’émission d’un titre de séjour en conformité avec le règlement (CE) n° 1030/2002[^87-19]. L’accès à ces données est régi par l’ordonnance SYMIC (annexe 1).[^87-20]
+<sup>4</sup> L’image du visage et les empreintes digitales de deux doigts visées à l’art. 71*c* sont utilisées aux fins de l’émission d’un titre de séjour en conformité avec le règlement (CE) n° 1030/2002[^87-20]. L’accès à ces données est régi par l’ordonnance SYMIC (annexe 1).[^87-21]
 
 <sup>5</sup>
 
@@ -2225,30 +2210,31 @@ Les données visées à l’al. 1, let. a et b, peuvent être saisies de manièr
 
 - a. demandeurs de visas C et D détenteurs de documents de voyage en cas de doute fondé sur leur identité;
 - b. demandeurs de visas D qui font valoir un regroupement familial en Suisse;
-- c. demandeurs de visas D humanitaires au sens de l’art. 4, al. 2, de l’ordonnance du 15 août 2018 sur l’entrée et l’octroi de visas[^87-21].[^87-22]
+- c. demandeurs de visas D humanitaires au sens de l’art. 4, al. 2, de l’ordonnance du 15 août 2018 sur l’entrée et l’octroi de visas[^87-22].[^87-23]
 
-[^87-1]: [RS 810.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9232)**.** Le renvoi a été adapté au 1<sup>er</sup> déc. 2022 en application de l’art. 12, al. 2, de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)).
-[^87-2]: Nouvelle teneur selon le ch. I de l’O du 19 fév. 2020, en vigueur depuis le 1<sup>er</sup> avr. 2020 ([RO 2020 883](https://fedlex.data.admin.ch/eli/oc/2020/171)).
-[^87-3]: Introduite par le ch. I de l’O du 19 fév. 2020, en vigueur depuis le 1<sup>er</sup> avr. 2020 ([RO 2020 883](https://fedlex.data.admin.ch/eli/oc/2020/171)).
+[^87-1]: Nouvelle teneur selon le ch. I de l’O du 20 mai 2026, en vigueur depuis le 12 juin 2026 ([RO 2026 260](https://fedlex.data.admin.ch/eli/oc/2026/260)).
+[^87-2]: [RS 810.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9232)**.** Le renvoi a été adapté au 1<sup>er</sup> déc. 2022 en application de l’art. 12, al. 2, de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)).
+[^87-3]: Nouvelle teneur selon le ch. I de l’O du 19 fév. 2020, en vigueur depuis le 1<sup>er</sup> avr. 2020 ([RO 2020 883](https://fedlex.data.admin.ch/eli/oc/2020/171)).
 [^87-4]: Introduite par le ch. I de l’O du 19 fév. 2020, en vigueur depuis le 1<sup>er</sup> avr. 2020 ([RO 2020 883](https://fedlex.data.admin.ch/eli/oc/2020/171)).
-[^87-5]: Règlement (UE) 2016/399 du Parlement européen et du Conseil du 9 mars 2016 concernant un code de l’Union relatif au régime de franchissement des frontières par les personnes (code frontières Schengen), JO L 77 du 23.3.2016, p. 1; modifié en dernier lieu par le règlement (UE) 2017/458, JO L 74 du 18.3.2017, p. 1.
-[^87-6]: Introduite par le ch. I de l’O du 19 oct. 2022, en vigueur depuis le 22 nov. 2022 ([RO 2022 645](https://fedlex.data.admin.ch/eli/oc/2022/645)).
-[^87-7]: Introduit par l’annexe ch. 1 de l’O du 6 déc. 2013 sur le traitement des données signalétiques biométriques, en vigueur depuis le 1<sup>er</sup> sept. 2014 ([RO 2014 163](https://fedlex.data.admin.ch/eli/oc/2014/23)).
-[^87-8]: [RS 361.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6311)
-[^87-9]: Introduit par l’annexe ch. 1 de l’O du 6 déc. 2013 sur le traitement des données signalétiques biométriques, en vigueur depuis le 1<sup>er</sup> sept. 2014 ([RO 2014 163](https://fedlex.data.admin.ch/eli/oc/2014/23)).
+[^87-5]: Introduite par le ch. I de l’O du 19 fév. 2020 ([RO 2020 883](https://fedlex.data.admin.ch/eli/oc/2020/171)). Nouvelle teneur selon le ch. I de l’O du 6 mai 2026, en vigueur depuis le 12 juin 2026 ([RO 2026 239](https://fedlex.data.admin.ch/eli/oc/2026/239)).
+[^87-6]: Cf. note de bas de page relative à l’art. 83*a*, al. 1.
+[^87-7]: Introduite par le ch. I de l’O du 19 oct. 2022, en vigueur depuis le 22 nov. 2022 ([RO 2022 645](https://fedlex.data.admin.ch/eli/oc/2022/645)).
+[^87-8]: Introduit par l’annexe ch. 1 de l’O du 6 déc. 2013 sur le traitement des données signalétiques biométriques, en vigueur depuis le 1<sup>er</sup> sept. 2014 ([RO 2014 163](https://fedlex.data.admin.ch/eli/oc/2014/23)).
+[^87-9]: [RS 361.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6311)
 [^87-10]: Introduit par l’annexe ch. 1 de l’O du 6 déc. 2013 sur le traitement des données signalétiques biométriques, en vigueur depuis le 1<sup>er</sup> sept. 2014 ([RO 2014 163](https://fedlex.data.admin.ch/eli/oc/2014/23)).
-[^87-11]: Introduit par l’annexe ch. 1 de l’O du 6 déc. 2013 sur le traitement des données signalétiques biométriques ([RO 2014 163](https://fedlex.data.admin.ch/eli/oc/2014/23)). Nouvelle teneur selon le ch. I de l’O du 15 août 2018, en vigueur depuis le 15 sept. 2018 ([RO 2018 3085](https://fedlex.data.admin.ch/eli/oc/2018/492)).
-[^87-12]: Introduit par l’annexe ch. 1 de l’O du 6 déc. 2013 sur le traitement des données signalétiques biométriques, en vigueur depuis le 1<sup>er</sup> sept. 2014 ([RO 2014 163](https://fedlex.data.admin.ch/eli/oc/2014/23)).
-[^87-13]: Nouvelle teneur selon le ch. I de l’O du 28 nov. 2014, en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 4441](https://fedlex.data.admin.ch/eli/oc/2014/738)).
-[^87-14]: Introduit par le ch. I de l’O du 19 oct. 2022, en vigueur depuis le 22 nov. 2022 ([RO 2022 645](https://fedlex.data.admin.ch/eli/oc/2022/645)).
+[^87-11]: Introduit par l’annexe ch. 1 de l’O du 6 déc. 2013 sur le traitement des données signalétiques biométriques, en vigueur depuis le 1<sup>er</sup> sept. 2014 ([RO 2014 163](https://fedlex.data.admin.ch/eli/oc/2014/23)).
+[^87-12]: Introduit par l’annexe ch. 1 de l’O du 6 déc. 2013 sur le traitement des données signalétiques biométriques ([RO 2014 163](https://fedlex.data.admin.ch/eli/oc/2014/23)). Nouvelle teneur selon le ch. I de l’O du 15 août 2018, en vigueur depuis le 15 sept. 2018 ([RO 2018 3085](https://fedlex.data.admin.ch/eli/oc/2018/492)).
+[^87-13]: Introduit par l’annexe ch. 1 de l’O du 6 déc. 2013 sur le traitement des données signalétiques biométriques, en vigueur depuis le 1<sup>er</sup> sept. 2014 ([RO 2014 163](https://fedlex.data.admin.ch/eli/oc/2014/23)).
+[^87-14]: Nouvelle teneur selon le ch. I de l’O du 28 nov. 2014, en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 4441](https://fedlex.data.admin.ch/eli/oc/2014/738)).
 [^87-15]: Introduit par le ch. I de l’O du 19 oct. 2022, en vigueur depuis le 22 nov. 2022 ([RO 2022 645](https://fedlex.data.admin.ch/eli/oc/2022/645)).
-[^87-16]: Introduite par le ch. I de l’O du 19 oct. 2022, en vigueur depuis le 22 nov. 2022 ([RO 2022 645](https://fedlex.data.admin.ch/eli/oc/2022/645)).
+[^87-16]: Introduit par le ch. I de l’O du 19 oct. 2022, en vigueur depuis le 22 nov. 2022 ([RO 2022 645](https://fedlex.data.admin.ch/eli/oc/2022/645)).
 [^87-17]: Introduite par le ch. I de l’O du 19 oct. 2022, en vigueur depuis le 22 nov. 2022 ([RO 2022 645](https://fedlex.data.admin.ch/eli/oc/2022/645)).
-[^87-18]: [RS 142.513](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4900)
-[^87-19]: Cf. note de bas de page relative à l’art. 71*c*.
-[^87-20]: Introduit par le ch. I de l’O du 17 déc. 2010 ([RO 2011 99](https://fedlex.data.admin.ch/eli/oc/2011/18)). Nouvelle teneur selon le ch. I 1 de l’O du 12 juin 2015 portant adaptation d’actes en raison de nouveautés en lien avec l’acquis de Dublin/Eurodac, en vigueur depuis le 1<sup>er</sup> juil. 2015 ([RO 2015 1849](https://fedlex.data.admin.ch/eli/oc/2015/358)).
-[^87-21]: [RS 142.204](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4856)
-[^87-22]: Introduit par le ch. I de l’O du 19 fév. 2020, en vigueur depuis le 1<sup>er</sup> avr. 2020 ([RO 2020 883](https://fedlex.data.admin.ch/eli/oc/2020/171)).
+[^87-18]: Introduite par le ch. I de l’O du 19 oct. 2022, en vigueur depuis le 22 nov. 2022 ([RO 2022 645](https://fedlex.data.admin.ch/eli/oc/2022/645)).
+[^87-19]: [RS 142.513](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4900)
+[^87-20]: Cf. note de bas de page relative à l’art. 71*c*.
+[^87-21]: Introduit par le ch. I de l’O du 17 déc. 2010 ([RO 2011 99](https://fedlex.data.admin.ch/eli/oc/2011/18)). Nouvelle teneur selon le ch. I 1 de l’O du 12 juin 2015 portant adaptation d’actes en raison de nouveautés en lien avec l’acquis de Dublin/Eurodac, en vigueur depuis le 1<sup>er</sup> juil. 2015 ([RO 2015 1849](https://fedlex.data.admin.ch/eli/oc/2015/358)).
+[^87-22]: [RS 142.204](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4856)
+[^87-23]: Introduit par le ch. I de l’O du 19 fév. 2020, en vigueur depuis le 1<sup>er</sup> avr. 2020 ([RO 2020 883](https://fedlex.data.admin.ch/eli/oc/2020/171)).
 
 ## Chapitre 10*a* Eurodac
 
@@ -2258,35 +2244,33 @@ Les données visées à l’al. 1, let. a et b, peuvent être saisies de manièr
 
 #### Art. 87a
 
-**Expert en empreintes digitales**
+**Experts en empreintes digitales et en images faciales**[^87a-1]
 
-### (art. 111*i* LEI)
+### (art. 109*l*<sup>quiquies</sup> al. 1 et 2 LEI)
 
-[^87a-1]
+<sup>1</sup> Un expert en empreintes digitales et un expert en images faciales des services d’identification biométrique de l’Office fédéral de la police (fedpol) sont chargés de vérifier les résultats obtenus lors de la comparaison automatique des données dans Eurodac selon l’art. 109*l*, al. 5, LEI.
 
-<sup>1</sup> Un expert en empreintes digitales des Services AFIS ADN de l’Office fédéral de la police est chargé d’effectuer un contrôle des empreintes digitales en vertu de l’art. 102*a*<sup>ter</sup> LAsi en cas de consultation de la banque de données Eurodac selon l’art. 111*i*, al. 6, LEI[^87a-2].
+<sup>2</sup> La procédure est régie par les art. 11, al. 3 à 5, et 11*a*, al. 3 à 6, de l’ordonnance 3 du 11 août 1999 sur l’asile (OA 3)[^87a-2].
 
-<sup>2</sup> La procédure est régie par l’art. 11 de l’ordonnance 3 du 11 août 1999 sur l’asile (OA 3)[^87a-3]. L’expert transmet le résultat de sa vérification au SEM ainsi qu’aux services (Corps des gardes-frontière, polices cantonales et communales) qui ont procédé à la comparaison Eurodac.
+<sup>3</sup> L’expert transmet le résultat de sa vérification au SEM ainsi qu’aux services du Corps des gardes-frontière ou des polices cantonales et communales qui ont procédé à la saisie des données ayant lancé la comparaison automatique dans Eurodac.
 
-[^87a-1]: Actuellement «l’art. 109*k* LEI».
-[^87a-2]: Actuellement «l’art. 109*k*, al. 6, LEI».
-[^87a-3]: [RS 142.314](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4884)
+[^87a-1]: Nouvelle teneur selon le ch. I de l’O du 20 mai 2026, en vigueur depuis le 12 juin 2026 ([RO 2026 260](https://fedlex.data.admin.ch/eli/oc/2026/260)).
+[^87a-2]: [RS 142.314](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4884)
 
 #### Art. 87b
 
-**Droit d’accès et droit à la rectification ou à l’effacement des données Eurodac**
+**Droit d’accès aux données d’Eurodac et droit de les faire rectifier, compléter ou effacer**[^87b-1]
 
-La procédure relative à l’exercice du droit d’accès et du droit à la rectification ou à l’effacement des données Eurodac est régie par l’art. 11*a* OA 3[^87b-1].
+La procédure relative à l’exercice du droit d’accès aux données d’Eurodac et du droit de les faire rectifier, compléter ou effacer est régie par les art. 11*b* et 11*c* OA 3[^87b-2].
 
-[^87b-1]: [RS 142.314](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4884)
+[^87b-1]: Nouvelle teneur selon le ch. I de l’O du 20 mai 2026, en vigueur depuis le 12 juin 2026 ([RO 2026 260](https://fedlex.data.admin.ch/eli/oc/2026/260)).
+[^87b-2]: [RS 142.314](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4884)
 
 #### Art. 87c
 
-**Responsabilité en lien avec l’exploitation d’Eurodac**
+[^87c-1]
 
-La responsabilité en cas de dommages liés à l’exploitation d’Eurodac est régie par la loi du 14 mars 1958 sur la responsabilité[^87c-1], notamment par ses art. 19*a* à 19*c*, qui s’appliquent par analogie.
-
-[^87c-1]: [RS 170.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4971)
+[^87c-1]: Abrogé par le ch. I de l’O du 20 mai 2026, avec effet au 12 juin 2026 ([RO 2026 260](https://fedlex.data.admin.ch/eli/oc/2026/260)).
 
 #### Art. 87d
 
@@ -2295,6 +2279,63 @@ La responsabilité en cas de dommages liés à l’exploitation d’Eurodac est 
 Les art. 11*c* et 12 OA 3[^87d-1] s’appliquent par analogie à la surveillance du traitement des données Eurodac et à la sécurité des données.
 
 [^87d-1]: [RS 142.314](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4884)
+
+#### Art. 87e
+
+**Communication de données d’Eurodac à un État non-Schengen**[^87e-1]
+
+<sup>1</sup> Les données traitées dans Eurodac ne peuvent être communiquées à un État non-Schengen, à une organisation internationale, à une entité privée ou à personne physique.
+
+<sup>2</sup>
+
+Les données d’Eurodac relatives à une personne peuvent être exceptionnellement communiquées à un État non-Schengen aux fins de prouver l’identité d’un ressortissant d’un État tiers, à des fins de retour, pour autant:
+
+- a. que les conditions fixées à l’art. 50, par. 3 et 5, du règlement (UE) 2024/1358[^87e-2] soient satisfaites, et
+- b. que l’État ayant saisi les données donne son accord.
+
+<sup>3</sup>
+
+Si elles ont été obtenues en vue d’examiner une demande d’asile, d’identifier des ressortissants d’État tiers ou des apatrides en séjour irrégulier ou d’appliquer les critères du règlement (UE) 2024/1351[^87e-3], les données suivantes peuvent être communiquées:
+
+- a. le prénom, le nom, le nom de naissance, noms antérieurs et pseudonymes;
+- b. le sexe;
+- c. la date, le lieu et le pays de naissance;
+- d. les nationalités;
+- e.
+
+  les informations suivantes relatives au document de voyage:
+
+  - 1\. le type et le numéro du document,
+  - 2\. la date d’expiration,
+  - 3\. l’autorité d’établissement, et
+  - 4\. le pays de délivrance;
+
+- f. les données biométriques de quiconque a demandé une protection internationale, a obtenu une protection, a été admis dans un programme d’admission de groupes de réfugiés, se trouve en séjour irrégulier sur le territoire ou a été enregistré comme débarqué à la suite d’une opération de recherche et de sauvetage.
+
+<sup>4</sup>
+
+Peuvent être communiqués en même temps que les données biométriques visées à l’al. 3, let. f:
+
+- a.
+
+  les métadonnées suivantes relatives aux données biométriques:
+
+  - 1\. date à laquelle les données ont été relevées,
+  - 2\. date à laquelle les données ont été transmises à Eurodac;
+
+- b.
+
+  les données suivantes relatives aux personnes concernées:
+
+  - 1\. État membre d’origine, lieu et date de l’enregistrement, numéro de référence attribué par l’État membre d’origine,
+  - 2\. copie couleur scannée d’un document d’identité ou de voyage ou d’un autre document facilitant l’identification de l’intéressé, accompagnée d’indications portant sur l’authenticité du document,
+  - 3\. lieu où l’intéressé a été débarqué et date du débarquement;
+
+- c. le code d’identification de l’opérateur.
+
+[^87e-1]: Introduit par le ch. I de l’O du 20 mai 2026, en vigueur depuis le 12 juin 2026 ([RO 2026 260](https://fedlex.data.admin.ch/eli/oc/2026/260)).
+[^87e-2]: Règlement (UE) 2024/1358 du Parlement européen et du Conseil du 14 mai 2024 relatif à la création d’«Eurodac» pour la comparaison des données biométriques aux fins de l’application efficace des règlements (UE) 2024/1351 et (UE) 2024/1350 du Parlement européen et du Conseil et de la directive 2001/55/CE du Conseil et aux fins de l’identification des ressortissants de pays tiers et apatrides en séjour irrégulier, et relatif aux demandes de comparaison avec les données d’Eurodac présentées par les autorités répressives des États membres et par Europol à des fins répressives, modifiant les règlements (UE) 2018/1240 et (UE) 2019/818 du Parlement européen et du Conseil et abrogeant le règlement (UE) n<sup>o</sup> 603/2013 du Parlement européen et du Conseil, version du JO L, 2024/1358, 22.5.2024.
+[^87e-3]: Règlement (UE) 2024/1351 du Parlement européen et du Conseil du 14 mai 2024 relatif à la gestion de l’asile et de la migration, modifiant les règlements (UE) 2021/1147 et (UE) 2021/1060 et abrogeant le règlement (UE) n<sup>o</sup> 604/2013, version du JO L, 2024/1351, 22.5.2024.
 
 ## Chapitre 11 Compétences, communications et délais
 
@@ -2310,13 +2351,17 @@ Les art. 11*c* et 12 OA 3[^87d-1] s’appliquent par analogie à la surveillance
 
 **Situation particulière des mineurs non accompagnés**[^88a-1]
 
-### (art. 64, al. 4 et 5, et 64*a*, al. 3<sup>bis</sup>, LEI)
+### (art. 9*b*, al. 4, 9*c*, al. 4, 66 et 109*l*, al. 2, LEI)
+
+[^88a-2]
 
 <sup>1</sup> Au cours de la procédure de renvoi, il est loisible aux autorités de déterminer, en recourant à des méthodes scientifiques, si l’âge indiqué par la personne concernée correspond bien à son âge réel.
 
-<sup>2</sup> Lorsqu’il n’est pas possible d’instituer immédiatement une curatelle ou une tutelle en faveur d’un mineur non accompagné, l’autorité cantonale compétente désigne sans retard une personne de confiance au sens des art. 64, al. 4, ou 64*a*, al. 3<sup>bis</sup>, LEI, pour la durée de la procédure de renvoi, le mandat de cette personne prenant toutefois fin à la nomination d’un curateur ou d’un tuteur ou à la majorité de l’intéressé.
+<sup>1bis</sup> Lorsque la personne en séjour illégal ou ayant franchi les frontières extérieures de manière irrégulière est un mineur non accompagné, elle doit être représentée par une personne de confiance lors de la saisie des données dans Eurodac*.*[^88a-3]
 
-<sup>3</sup> La personne de confiance doit posséder des connaissances du droit des étrangers et du droit relatif à la procédure Dublin. Elle guide et soutient le mineur non accompagné tout au long de la procédure de renvoi, y compris lors des procédures relatives à l’adoption des mesures de contrainte visées aux art. 73 à 81 LEI.
+<sup>2</sup> Lorsqu’il n’est pas possible d’instituer immédiatement une curatelle ou une tutelle en faveur d’un mineur non accompagné, l’autorité cantonale compétente désigne sans retard une personne de confiance au sens des art. 9*b*, al. 4, 9*c*, al. 4, 66 ou 109*l*, al. 2, LEI, pour la durée de la procédure relevant du droit des étrangers; le mandat de cette personne prend fin à la nomination d’un curateur ou d’un tuteur ou à la majorité de l’intéressé.[^88a-4]
+
+<sup>3</sup> La personne de confiance possède des connaissances du droit des étrangers et du droit relatif à la procédure Dublin. Elle accompagne et soutient le mineur non accompagné lors de la saisie des données dans Eurodac et pendant les procédures de filtrage et de renvoi, y compris pendant les procédures relatives à l’adoption des mesures de contrainte visées aux art. 73 à 81 LEI. Elle agit dans l’intérêt supérieur du mineur non accompagné, le conseille et l’assiste, notamment dans la communication avec les autorités.[^88a-5]
 
 <sup>4</sup>
 
@@ -2331,6 +2376,10 @@ Elle s’acquitte notamment des tâches suivantes:
 <sup>6</sup> Les personnes chargées de l’audition d’un mineur tiennent compte des aspects particuliers de la minorité.
 
 [^88a-1]: Introduit par le ch. I 1 de l’O du 12 juin 2015 portant adaptation d’actes en raison de nouveautés en lien avec l’acquis de Dublin/Eurodac, en vigueur depuis le 20 juil. 2015 ([RO 2015 1849](https://fedlex.data.admin.ch/eli/oc/2015/358)).
+[^88a-2]: Nouvelle teneur selon le ch. I de l’O du 20 mai 2026, en vigueur depuis le 12 juin 2026 ([RO 2026 260](https://fedlex.data.admin.ch/eli/oc/2026/260)).
+[^88a-3]: Introduit par le ch. I de l’O du 20 mai 2026, en vigueur depuis le 12 juin 2026 ([RO 2026 260](https://fedlex.data.admin.ch/eli/oc/2026/260)).
+[^88a-4]: Nouvelle teneur selon le ch. I de l’O du 20 mai 2026, en vigueur depuis le 12 juin 2026 ([RO 2026 260](https://fedlex.data.admin.ch/eli/oc/2026/260)).
+[^88a-5]: Nouvelle teneur selon le ch. I de l’O du 20 mai 2026, en vigueur depuis le 12 juin 2026 ([RO 2026 260](https://fedlex.data.admin.ch/eli/oc/2026/260)).
 
 #### Art. 89
 
