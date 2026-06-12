@@ -3,11 +3,11 @@ sr: "0.741.531.945.4"
 title: Accordo del 13 maggio 2021 tra il Consiglio federale svizzero e il Governo della Repubblica Italiana per il riconoscimento reciproco in materia di conversione di patenti di guida (con all.)
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/361"
 language: it
-version: 2023-03-31
+version: 2026-06-13
 adopted: 2021-05-13
 in_force: 2021-06-12
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/361/20230331/it/xml/fedlex-data-admin-ch-eli-cc-2021-361-20230331-it-xml-15.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/361/20230331/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/361/20260613/it/xml/fedlex-data-admin-ch-eli-cc-2021-361-20260613-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/361/20260613/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -20,7 +20,7 @@ RU **2021** 361
 
 Adottato il 13 maggio 2021 Entrato in vigore mediante scambio di note il 12 giugno 2021
 
-(Stato 31 marzo 2023)
+(Stato 13 giugno 2026)
 
 Il Consiglio federale svizzero e il Governo della Repubblica Italiana, di seguito denominati «Parti»,
 
@@ -90,9 +90,11 @@ Per la procedura di cui al primo capoverso sarà necessario presentare, oltre al
 
 #### Art. 6
 
-I titolari di patenti di guida svizzere possono convertire le proprie patenti senza sostenere esami teorici e pratici ai sensi del primo capoverso dell’articolo 4 solo se al momento della presentazione dell’istanza di conversione sono residenti in Italia da meno di quattro anni.
+I titolari di patenti di guida svizzere possono convertire le proprie patenti senza sostenere esami teorici e pratici ai sensi del primo capoverso dell’articolo 4 solo se al momento della presentazione dell’istanza di conversione sono residenti in Italia da meno di sei anni.[^6-1]
 
 I titolari di patenti di guida italiane possono convertire le proprie patenti senza sostenere esami teorici e pratici ai sensi del primo capoverso dell’articolo 4 solo se al momento della presentazione dell’istanza di conversione sono residenti in Svizzera da meno di cinque anni. Sono fatte salve situazioni particolari.
+
+[^6-1]: Nuovo testo giusta l’art. 1 dell’Acc. del 4 nov. 2025, in vigore dal 13 giu. 2026 ([RU 2026 122](https://fedlex.data.admin.ch/eli/oc/2026/122)).
 
 #### Art. 7
 
@@ -157,7 +159,9 @@ Qualsiasi controversia nell’interpretazione e/o applicazione del presente Acco
 
 L’Accordo, di cui gli allegati tecnici sono parte integrante, entrerà in vigore il 12 giugno 2021 a condizione che entro la predetta data le Parti si siano notificate reciprocamente l’adempimento delle procedure previste dai rispettivi ordinamenti per l’entrata in vigore dell’Accordo stesso. In caso contrario, il presente Accordo entrerà in vigore il giorno della data di ricezione della seconda delle due notifiche con le quali le Parti si saranno comunicate ufficialmente il completamento delle rispettive procedure interne previste a tale scopo.
 
-Il presente Accordo rimarrà valido per cinque (5) anni a meno che una delle Parti non notifichi all’altra la sua intenzione di porvi fine sei mesi prima della data prevista per la cessazione e potrà essere modificato per iscritto per mutuo consenso. A partire da un anno prima della scadenza, le Parti avvieranno consultazioni in merito al suo rinnovo.
+Il presente Accordo rimarrà valido per cinque (5) anni a meno che una delle Parti non notifichi all’altra la sua intenzione di porvi fine sei mesi prima della data prevista per la cessazione e potrà essere modificato per iscritto per mutuo consenso. A partire da un anno prima della scadenza, le Parti avvieranno consultazioni in merito al suo rinnovo[^15-1].
+
+[^15-1]: L’Acc. è rinnovato per altri cinque anni decorrenti dal 13 giu. 2026 e resterà in vigore fino al 12 giu. 2031 ([RU 2026 122](https://fedlex.data.admin.ch/eli/oc/2026/122)art. 2).
 
 *In fede di che,* i sottoscritti Rappresentanti, debitamente autorizzati hanno firmato il presente Accordo. Fatto a Roma, il 13 maggio 2021, in due originali in lingua italiana. Per il Consiglio federale svizzero: Livia Leu Per il Governo della Repubblica Italiana: Benedetto Della Vedova
 
@@ -221,119 +225,119 @@ Questo modello può essere bilingue (italiano-tedesco) solo se la patente di gui
 
 La licenza di condurre svizzera con validità illimitata
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/361/20230331/it/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/361/20260613/it/xml/image/image1.png)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/361/20230331/it/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/361/20260613/it/xml/image/image2.png)
 
 ### Modello 2
 
 La licenza di condurre svizzera con validità illimitata
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/361/20230331/it/xml/image/image3.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/361/20260613/it/xml/image/image3.png)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/361/20230331/it/xml/image/image4.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/361/20260613/it/xml/image/image4.png)
 
 La licenza di condurre svizzera con data di scadenza al punto 4b
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/361/20230331/it/xml/image/image5.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/361/20260613/it/xml/image/image5.png)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/361/20230331/it/xml/image/image6.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/361/20260613/it/xml/image/image6.png)
 
 ### Modello 3
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/361/20230331/it/xml/image/image7.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/361/20260613/it/xml/image/image7.png)
 
 ### Modello 4
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/361/20230331/it/xml/image/image8.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/361/20260613/it/xml/image/image8.png)
 
 ### Modello 5
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/361/20230331/it/xml/image/image9.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/361/20260613/it/xml/image/image9.png)
 
 ### Modello 6
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/361/20230331/it/xml/image/image10.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/361/20260613/it/xml/image/image10.png)
 
 ### Modello 7
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/361/20230331/it/xml/image/image11.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/361/20260613/it/xml/image/image11.png)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/361/20230331/it/xml/image/image12.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/361/20260613/it/xml/image/image12.png)
 
 ### Modelli di Patenti di Guida Italiane
 
 ### Modello 1
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/361/20230331/it/xml/image/image13.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/361/20260613/it/xml/image/image13.png)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/361/20230331/it/xml/image/image14.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/361/20260613/it/xml/image/image14.png)
 
 ### Modello 2
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/361/20230331/it/xml/image/image15.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/361/20260613/it/xml/image/image15.png)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/361/20230331/it/xml/image/image16.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/361/20260613/it/xml/image/image16.png)
 
 ### Modello 3
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/361/20230331/it/xml/image/image17.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/361/20260613/it/xml/image/image17.png)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/361/20230331/it/xml/image/image18.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/361/20260613/it/xml/image/image18.png)
 
 ### Modello 4
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/361/20230331/it/xml/image/image19.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/361/20260613/it/xml/image/image19.png)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/361/20230331/it/xml/image/image20.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/361/20260613/it/xml/image/image20.png)
 
 ### Modello 5
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/361/20230331/it/xml/image/image21.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/361/20260613/it/xml/image/image21.png)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/361/20230331/it/xml/image/image22.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/361/20260613/it/xml/image/image22.png)
 
 ### Modello 6
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/361/20230331/it/xml/image/image23.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/361/20260613/it/xml/image/image23.png)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/361/20230331/it/xml/image/image24.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/361/20260613/it/xml/image/image24.png)
 
 ### Modello 7
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/361/20230331/it/xml/image/image25.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/361/20260613/it/xml/image/image25.png)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/361/20230331/it/xml/image/image26.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/361/20260613/it/xml/image/image26.png)
 
 ### Modello 8
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/361/20230331/it/xml/image/image27.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/361/20260613/it/xml/image/image27.png)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/361/20230331/it/xml/image/image28.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/361/20260613/it/xml/image/image28.png)
 
 ### Modello 9
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/361/20230331/it/xml/image/image29.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/361/20260613/it/xml/image/image29.png)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/361/20230331/it/xml/image/image30.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/361/20260613/it/xml/image/image30.png)
 
 ### Modello 10
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/361/20230331/it/xml/image/image31.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/361/20260613/it/xml/image/image31.png)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/361/20230331/it/xml/image/image32.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/361/20260613/it/xml/image/image32.png)
 
 ### Modello 11
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/361/20230331/it/xml/image/image33.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/361/20260613/it/xml/image/image33.png)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/361/20230331/it/xml/image/image34.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/361/20260613/it/xml/image/image34.png)
 
 ### Modello 12
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/361/20230331/it/xml/image/image35.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/361/20260613/it/xml/image/image35.png)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/361/20230331/it/xml/image/image36.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/361/20260613/it/xml/image/image36.png)
 
 ### Modello/Modèle/Musterdokument «1»
 
@@ -470,7 +474,7 @@ per la conversione delle patenti di guida rilasciate in Italia in patenti svizze
 *Nota*: tutte le categorie svizzere (tranne la M) autorizzano a condurre veicoli delle categorie F, G e M.
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/361/20230331/it/xml/image/image37.png)</td><td>Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation UVEK Département fédéral de l’environnement, des transports, de l’énergie et de la communication DETEC Dipartimento federale dell’ambiente, dei trasporti, dell’energia e delle comunicazioni DATEC **Bundesamt für Strassen ASTRA/Office fédéral des routes OFROU/Ufficio federale delle strade USTRA** Abteilung Strassenverkehr, Bereich Fahrzeugführer- und Fahrzeugregister Division Circulation routière, Registres des conducteurs et des véhicules Divisione Circolazione stradale, Registri dei conducenti e dei veicoli Postadresse/Adresse postale/Indirizzo postale: CH-3003 Bern Standortadresse/Emplacement/Sede: Weltpoststrasse 5, 3015 Bern Tel. +41 058 462 94 11, Fax +41 058 463 23 03 info@astra.admin.ch www.astra.admin.ch</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/361/20260613/it/xml/image/image37.png)</td><td>Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation UVEK Département fédéral de l’environnement, des transports, de l’énergie et de la communication DETEC Dipartimento federale dell’ambiente, dei trasporti, dell’energia e delle comunicazioni DATEC **Bundesamt für Strassen ASTRA/Office fédéral des routes OFROU/Ufficio federale delle strade USTRA** Abteilung Strassenverkehr, Bereich Fahrzeugführer- und Fahrzeugregister Division Circulation routière, Registres des conducteurs et des véhicules Divisione Circolazione stradale, Registri dei conducenti e dei veicoli Postadresse/Adresse postale/Indirizzo postale: CH-3003 Bern Standortadresse/Emplacement/Sede: Weltpoststrasse 5, 3015 Bern Tel. +41 058 462 94 11, Fax +41 058 463 23 03 info@astra.admin.ch www.astra.admin.ch</td></tr>
 </table>
 
 Liste über die im Strassenverkehr zuständigen kantonalen Zulassungsbehörden der Schweiz
@@ -481,32 +485,32 @@ Aperçu des autorités d’immatriculation cantonales de la Suisse compétents e
 
 <table>
 <tr><th></th><th>Kanton Canton Cantone</th><th>Zulassungsbehörde Autorité d’immatriculation Autorità d’immatricolazione</th><th>Adresse Indirizzo</th><th>Ort Lieu Luogo</th><th>Telefon Téléphone Telefono</th><th>Fax</th><th>E-Mail</th><th>Landessprache\* Langue nationale Lingua nazionale</th></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/361/20230331/it/xml/image/image38.png) **AG**</td><td>Aargau</td><td>Strassenverkehrsamt des Kantons Aargau</td><td>Postfach Standort: Länzert 2 5503 Schafisheim</td><td>CH-5001 Aarau</td><td>+41 62 886 23 23</td><td>+41 62 886 22 00</td><td>strassenverkehrsamt@ag.ch</td><td>DE</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/361/20230331/it/xml/image/image39.png) **AI**</td><td>Appenzell Innerrhoden</td><td>Strassenverkehrsamt des Kantons Appenzell Innerrhoden</td><td>Brüggliweg 1</td><td>CH-9050 Appenzell</td><td>+41 71 788 95 34</td><td>+41 71 788 95 39</td><td>info@stva.ai.ch</td><td>DE</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/361/20230331/it/xml/image/image40.png) **AR**</td><td>Appenzell Ausserrhoden</td><td>Strassenverkehrsamt des Kantons Appenzell Ausserrhoden</td><td>Landsgemeindeplatz 5</td><td>CH-9043 Trogen</td><td>+41 71 343 63 11</td><td>+41 71 353 66 81</td><td>strassenverkehrsamt@ar.ch</td><td>DE</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/361/20230331/it/xml/image/image41.png) **BE**</td><td>Bern</td><td>Strassenverkehrs- und Schifffahrtsamt des Kantons Bern</td><td>Schermenweg 5 Postfach</td><td>CH-3001 Bern</td><td>+41 31 634 21 11</td><td></td><td>info.svsa@be.ch</td><td>DE/FR</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/361/20230331/it/xml/image/image42.png) **BL**</td><td>Basel-Landschaft</td><td>Motorfahrzeugkontrolle Kanton Basel-Landschaft</td><td>Ergolzstrasse 1</td><td>CH-4414 Füllinsdorf</td><td>+41 61 552 00 00</td><td></td><td>mfk@bl.ch</td><td>DE</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/361/20230331/it/xml/image/image43.png) **BS**</td><td>Basel-Stadt</td><td>Motorfahrzeugkontrolle Kanton Basel-Stadt</td><td>Clarastrasse 38 Postfach</td><td>CH-4005 Basel</td><td>+41 61 267 82 00</td><td>+4161 267 82 16</td><td>info.mfkbs@ jsd.bs.ch</td><td>DE</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/361/20230331/it/xml/image/image44.png) **FR**</td><td>Fribourg</td><td>Office de la circulation et de la navigation du canton de Fribourg</td><td>Route de Tavel 10 Case postale 192</td><td>CH-1707 Fribourg</td><td>+41 26 484 55 55</td><td>+41 26 484 55 56</td><td>info@ocn.ch</td><td>FR/DE</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/361/20230331/it/xml/image/image45.png) **GE**</td><td>Genève</td><td>Office cantonal des véhicules du canton de Genève (OCV)</td><td>86, route de Veyrier case postale 1556</td><td>CH-1227 Carouge</td><td>+41 22 388 30 30</td><td>+41 22 388 30 11</td><td>vehicules@etat.ge.ch</td><td>FR</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/361/20230331/it/xml/image/image46.png) **GL**</td><td>Glarus</td><td>Strassenverkehrs- und Schifffahrtsamt des Kantons Glarus</td><td>Mühlestrasse 17 Postfach</td><td>CH-8762 Schwanden</td><td>+41 55 646 54 00</td><td></td><td>stva@gl.ch</td><td>DE</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/361/20230331/it/xml/image/image47.png) **GR**</td><td>Graubünden</td><td>Strassenverkehrsamt des Kantons Graubünden</td><td>Ringstrasse 2</td><td>CH-7001 Chur</td><td>+41 81 257 80 00</td><td>+41 81 257 80 38</td><td>info@stva.gr.ch</td><td>DE/ RU/IT</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/361/20230331/it/xml/image/image48.png) **JU**</td><td>Jura</td><td>Office des véhicules du canton du Jura</td><td>Rue de la Communance 45</td><td>CH-2800 Delémont</td><td>+41 32 420 71 20</td><td>+41 32 420 71 25</td><td>ovj@jura.ch</td><td>FR</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/361/20230331/it/xml/image/image49.png) **LU**</td><td>Luzern</td><td>Strassenverkehrsamt des Kantons Luzern</td><td>Postfach 3970 Standort: Arsenalstr. 45, 6010 Kriens</td><td>CH-6002 Luzern 2</td><td>+41 41 318 11 11</td><td></td><td>informationsstelle@ lu.ch</td><td>DE</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/361/20230331/it/xml/image/image50.png) **NE**</td><td>Neuchâtel</td><td>Service cantonal des automobiles et de la navigation de Neuchâtel</td><td>Rue Louis-Joseph Chevrolet 55</td><td>CH-2300 La Chaux-de-Fonds</td><td>+41 32 889 13 99</td><td>+41 32 889 60 77</td><td>scan@ne.ch</td><td>FR</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/361/20230331/it/xml/image/image51.png) **NW**</td><td>Nidwalden</td><td>Verkehrssicherheitszentrum (VSZ) Ob‑ und Nidwalden</td><td>Kreuzstrasse 2 Postfach</td><td>CH-6371 Stans</td><td>+41 41 618 41 41</td><td></td><td>info@vsz.ch</td><td>DE</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/361/20230331/it/xml/image/image52.png) **OW**</td><td>Obwalden</td><td>Verkehrssicherheitszentrum (VSZ) Ob‑ und Nidwalden</td><td>Polizeigebäude / Foribach Postfach 1561</td><td>CH-6061 Sarnen</td><td>+41 41 666 66 00</td><td></td><td>info@vsz.ch</td><td>DE</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/361/20230331/it/xml/image/image53.png) **SG**</td><td>St. Gallen</td><td>Strassenverkehrs- und Schifffahrtsamt des Kantons St. Gallen</td><td>Frongartenstrasse 5</td><td>CH-9001 St. Gallen</td><td>+41 58 229 22 22</td><td>+41 58 229 36 58</td><td>info@stva.sg.ch</td><td>DE</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/361/20230331/it/xml/image/image54.png) **SH**</td><td>Schaffhausen</td><td>Strassenverkehrs- und Schifffahrtsamt des Kantons Schaffhausen</td><td>Rosengasse 8</td><td>CH-8200 Schaffhausen</td><td>+41 52 632 76 02</td><td>+41 52 632 78 11</td><td>strassenverkehrsamt@ktsh.ch</td><td>DE</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/361/20230331/it/xml/image/image55.png) **SO**</td><td>Solothurn</td><td>Motorfahrzeugkontrolle des Kantons Solothurn</td><td>Postfach</td><td>CH-4512 Bellach</td><td>+41 32 627 66 66</td><td>+41 32 627 66 99</td><td>mfk@mfk.so.ch</td><td>DE</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/361/20230331/it/xml/image/image56.png) **SZ**</td><td>Schwyz</td><td>Verkehrsamt Kanton Schwyz</td><td>Schlagstrasse 82 Postfach 3214</td><td>CH-6431 Schwyz</td><td>+41 41 819 21 56</td><td>+41 41 819 21 78</td><td>vasz@sz.ch</td><td>DE</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/361/20230331/it/xml/image/image57.png) **TG**</td><td>Thurgau</td><td>Strassenverkehrsamt des Kantons Thurgau</td><td>Moosweg 7a, Postfach</td><td>CH-8501 Frauenfeld</td><td>+41 58 345 36 36</td><td>+41 58 345 36 39</td><td>info@stva.tg.ch</td><td>DE</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/361/20230331/it/xml/image/image58.png) **TI**</td><td>Ticino</td><td>Sezione cantonale della circolazione Ticino</td><td>Ala Munda, Casella postale</td><td>CH-6528 Camorino</td><td>+41 91 814 97 00</td><td>+41 91 814 91 09</td><td>di-sc@ti.ch</td><td>IT</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/361/20230331/it/xml/image/image59.png) **UR**</td><td>Uri</td><td>Amt für Strassen- und Schiffsverkehr Uri</td><td>Gotthardstrasse 77a</td><td>CH-6460 Altdorf</td><td>+41 41 875 28 13</td><td></td><td>assv@ur.ch</td><td>DE</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/361/20230331/it/xml/image/image60.png) **VD**</td><td>Vaud</td><td>Service des automobiles et de la navigation du canton de Vaud</td><td>La Blécherette Avenue du Grey 110</td><td>CH-1014 Lausanne</td><td>+41 21 316 82 10</td><td>+41 21 316 82 11</td><td>info.auto@vd.ch</td><td>FR</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/361/20230331/it/xml/image/image61.png) **VS**</td><td>Valais</td><td>Service de la circulation routière et de la navigation du canton de Valais</td><td>Avenue de France71</td><td>CH-1951 Sion</td><td>+41 27 606 71 00</td><td>+41 27 607 01 33</td><td>scn\_sion@ admin.vs.ch</td><td>FR/DE</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/361/20230331/it/xml/image/image62.png) **ZG**</td><td>Zug</td><td>Strassenverkehrsamt des Kantons Zug</td><td>Hinterbergstrasse 41</td><td>CH-6312 Steinhausen</td><td>+41 41 728 47 11</td><td></td><td>info.stva@zg.ch</td><td>DE</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/361/20230331/it/xml/image/image63.png) **ZH**</td><td>Zürich</td><td>Strassenverkehrsamt des Kantons Zürich</td><td>Uetlibergstrasse 301 Postfach 8479</td><td>CH-8036 Zürich</td><td>+41 58 811 30 00</td><td>+41 58 811 30 01</td><td>info@stva.zh.ch</td><td>DE</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/361/20260613/it/xml/image/image38.png) **AG**</td><td>Aargau</td><td>Strassenverkehrsamt des Kantons Aargau</td><td>Postfach Standort: Länzert 2 5503 Schafisheim</td><td>CH-5001 Aarau</td><td>+41 62 886 23 23</td><td>+41 62 886 22 00</td><td>strassenverkehrsamt@ag.ch</td><td>DE</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/361/20260613/it/xml/image/image39.png) **AI**</td><td>Appenzell Innerrhoden</td><td>Strassenverkehrsamt des Kantons Appenzell Innerrhoden</td><td>Brüggliweg 1</td><td>CH-9050 Appenzell</td><td>+41 71 788 95 34</td><td>+41 71 788 95 39</td><td>info@stva.ai.ch</td><td>DE</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/361/20260613/it/xml/image/image40.png) **AR**</td><td>Appenzell Ausserrhoden</td><td>Strassenverkehrsamt des Kantons Appenzell Ausserrhoden</td><td>Landsgemeindeplatz 5</td><td>CH-9043 Trogen</td><td>+41 71 343 63 11</td><td>+41 71 353 66 81</td><td>strassenverkehrsamt@ar.ch</td><td>DE</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/361/20260613/it/xml/image/image41.png) **BE**</td><td>Bern</td><td>Strassenverkehrs- und Schifffahrtsamt des Kantons Bern</td><td>Schermenweg 5 Postfach</td><td>CH-3001 Bern</td><td>+41 31 634 21 11</td><td></td><td>info.svsa@be.ch</td><td>DE/FR</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/361/20260613/it/xml/image/image42.png) **BL**</td><td>Basel-Landschaft</td><td>Motorfahrzeugkontrolle Kanton Basel-Landschaft</td><td>Ergolzstrasse 1</td><td>CH-4414 Füllinsdorf</td><td>+41 61 552 00 00</td><td></td><td>mfk@bl.ch</td><td>DE</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/361/20260613/it/xml/image/image43.png) **BS**</td><td>Basel-Stadt</td><td>Motorfahrzeugkontrolle Kanton Basel-Stadt</td><td>Clarastrasse 38 Postfach</td><td>CH-4005 Basel</td><td>+41 61 267 82 00</td><td>+4161 267 82 16</td><td>info.mfkbs@ jsd.bs.ch</td><td>DE</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/361/20260613/it/xml/image/image44.png) **FR**</td><td>Fribourg</td><td>Office de la circulation et de la navigation du canton de Fribourg</td><td>Route de Tavel 10 Case postale 192</td><td>CH-1707 Fribourg</td><td>+41 26 484 55 55</td><td>+41 26 484 55 56</td><td>info@ocn.ch</td><td>FR/DE</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/361/20260613/it/xml/image/image45.png) **GE**</td><td>Genève</td><td>Office cantonal des véhicules du canton de Genève (OCV)</td><td>86, route de Veyrier case postale 1556</td><td>CH-1227 Carouge</td><td>+41 22 388 30 30</td><td>+41 22 388 30 11</td><td>vehicules@etat.ge.ch</td><td>FR</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/361/20260613/it/xml/image/image46.png) **GL**</td><td>Glarus</td><td>Strassenverkehrs- und Schifffahrtsamt des Kantons Glarus</td><td>Mühlestrasse 17 Postfach</td><td>CH-8762 Schwanden</td><td>+41 55 646 54 00</td><td></td><td>stva@gl.ch</td><td>DE</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/361/20260613/it/xml/image/image47.png) **GR**</td><td>Graubünden</td><td>Strassenverkehrsamt des Kantons Graubünden</td><td>Ringstrasse 2</td><td>CH-7001 Chur</td><td>+41 81 257 80 00</td><td>+41 81 257 80 38</td><td>info@stva.gr.ch</td><td>DE/ RU/IT</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/361/20260613/it/xml/image/image48.png) **JU**</td><td>Jura</td><td>Office des véhicules du canton du Jura</td><td>Rue de la Communance 45</td><td>CH-2800 Delémont</td><td>+41 32 420 71 20</td><td>+41 32 420 71 25</td><td>ovj@jura.ch</td><td>FR</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/361/20260613/it/xml/image/image49.png) **LU**</td><td>Luzern</td><td>Strassenverkehrsamt des Kantons Luzern</td><td>Postfach 3970 Standort: Arsenalstr. 45, 6010 Kriens</td><td>CH-6002 Luzern 2</td><td>+41 41 318 11 11</td><td></td><td>informationsstelle@ lu.ch</td><td>DE</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/361/20260613/it/xml/image/image50.png) **NE**</td><td>Neuchâtel</td><td>Service cantonal des automobiles et de la navigation de Neuchâtel</td><td>Rue Louis-Joseph Chevrolet 55</td><td>CH-2300 La Chaux-de-Fonds</td><td>+41 32 889 13 99</td><td>+41 32 889 60 77</td><td>scan@ne.ch</td><td>FR</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/361/20260613/it/xml/image/image51.png) **NW**</td><td>Nidwalden</td><td>Verkehrssicherheitszentrum (VSZ) Ob‑ und Nidwalden</td><td>Kreuzstrasse 2 Postfach</td><td>CH-6371 Stans</td><td>+41 41 618 41 41</td><td></td><td>info@vsz.ch</td><td>DE</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/361/20260613/it/xml/image/image52.png) **OW**</td><td>Obwalden</td><td>Verkehrssicherheitszentrum (VSZ) Ob‑ und Nidwalden</td><td>Polizeigebäude / Foribach Postfach 1561</td><td>CH-6061 Sarnen</td><td>+41 41 666 66 00</td><td></td><td>info@vsz.ch</td><td>DE</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/361/20260613/it/xml/image/image53.png) **SG**</td><td>St. Gallen</td><td>Strassenverkehrs- und Schifffahrtsamt des Kantons St. Gallen</td><td>Frongartenstrasse 5</td><td>CH-9001 St. Gallen</td><td>+41 58 229 22 22</td><td>+41 58 229 36 58</td><td>info@stva.sg.ch</td><td>DE</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/361/20260613/it/xml/image/image54.png) **SH**</td><td>Schaffhausen</td><td>Strassenverkehrs- und Schifffahrtsamt des Kantons Schaffhausen</td><td>Rosengasse 8</td><td>CH-8200 Schaffhausen</td><td>+41 52 632 76 02</td><td>+41 52 632 78 11</td><td>strassenverkehrsamt@ktsh.ch</td><td>DE</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/361/20260613/it/xml/image/image55.png) **SO**</td><td>Solothurn</td><td>Motorfahrzeugkontrolle des Kantons Solothurn</td><td>Postfach</td><td>CH-4512 Bellach</td><td>+41 32 627 66 66</td><td>+41 32 627 66 99</td><td>mfk@mfk.so.ch</td><td>DE</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/361/20260613/it/xml/image/image56.png) **SZ**</td><td>Schwyz</td><td>Verkehrsamt Kanton Schwyz</td><td>Schlagstrasse 82 Postfach 3214</td><td>CH-6431 Schwyz</td><td>+41 41 819 21 56</td><td>+41 41 819 21 78</td><td>vasz@sz.ch</td><td>DE</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/361/20260613/it/xml/image/image57.png) **TG**</td><td>Thurgau</td><td>Strassenverkehrsamt des Kantons Thurgau</td><td>Moosweg 7a, Postfach</td><td>CH-8501 Frauenfeld</td><td>+41 58 345 36 36</td><td>+41 58 345 36 39</td><td>info@stva.tg.ch</td><td>DE</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/361/20260613/it/xml/image/image58.png) **TI**</td><td>Ticino</td><td>Sezione cantonale della circolazione Ticino</td><td>Ala Munda, Casella postale</td><td>CH-6528 Camorino</td><td>+41 91 814 97 00</td><td>+41 91 814 91 09</td><td>di-sc@ti.ch</td><td>IT</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/361/20260613/it/xml/image/image59.png) **UR**</td><td>Uri</td><td>Amt für Strassen- und Schiffsverkehr Uri</td><td>Gotthardstrasse 77a</td><td>CH-6460 Altdorf</td><td>+41 41 875 28 13</td><td></td><td>assv@ur.ch</td><td>DE</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/361/20260613/it/xml/image/image60.png) **VD**</td><td>Vaud</td><td>Service des automobiles et de la navigation du canton de Vaud</td><td>La Blécherette Avenue du Grey 110</td><td>CH-1014 Lausanne</td><td>+41 21 316 82 10</td><td>+41 21 316 82 11</td><td>info.auto@vd.ch</td><td>FR</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/361/20260613/it/xml/image/image61.png) **VS**</td><td>Valais</td><td>Service de la circulation routière et de la navigation du canton de Valais</td><td>Avenue de France71</td><td>CH-1951 Sion</td><td>+41 27 606 71 00</td><td>+41 27 607 01 33</td><td>scn\_sion@ admin.vs.ch</td><td>FR/DE</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/361/20260613/it/xml/image/image62.png) **ZG**</td><td>Zug</td><td>Strassenverkehrsamt des Kantons Zug</td><td>Hinterbergstrasse 41</td><td>CH-6312 Steinhausen</td><td>+41 41 728 47 11</td><td></td><td>info.stva@zg.ch</td><td>DE</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/361/20260613/it/xml/image/image63.png) **ZH**</td><td>Zürich</td><td>Strassenverkehrsamt des Kantons Zürich</td><td>Uetlibergstrasse 301 Postfach 8479</td><td>CH-8036 Zürich</td><td>+41 58 811 30 00</td><td>+41 58 811 30 01</td><td>info@stva.zh.ch</td><td>DE</td></tr>
 </table>
 
 \* Legende/Légende/Legenda:
