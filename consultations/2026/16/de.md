@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: 24.438 n Pa. Iv. Rutz Gregor. Vorläufige Aufnahme als Ersatzmassnahme für eine nicht durchführbare Aus- oder Wegweisung. Genaue Definition der Unzumutbarkeit
 document: Vernehmlassungsvorlage
 language: de

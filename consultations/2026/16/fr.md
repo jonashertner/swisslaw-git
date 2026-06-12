@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "24.438 n Iv. pa. Rutz Gregor. Admission provisoire comme mesure de substitution lorsqu'un renvoi ne peut pas être exécuté. Préciser les cas de figure où le renvoi \"ne peut être raisonnablement exigé\""
 document: Projet mis en consultation
 language: fr

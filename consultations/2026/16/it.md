@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: 24.438 n Iv. Pa. Rutz Gregor. Ammissione provvisoria come misura sostitutiva in caso di espulsione o allontanamento ineseguibile. Per una definizione chiara di inesigibilità
 document: Progetto posto in consultazione
 language: it
