@@ -4,7 +4,7 @@ number: "101.01"
 title: CONSTITUTION du 14.04.2003 du Canton de Vaud (Cst-VD)
 short: Cst-VD
 language: fr
-version: 2025-11-30
+version: 2026-06-14
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/101.01?id=f79b6681-185b-42a1-946d-55fb19430277"
 ---
 
@@ -627,6 +627,8 @@ le peuple du Canton de Vaud se donne la Constitution suivante :
 - a. par la prévention de l'exclusion professionnelle et sociale;
 - b. par une aide sociale en principe non remboursable;
 - c. par des mesures de réinsertion.
+
+<sup>2</sup> Chaque travailleur a droit à un salaire qui lui assure un niveau de vie décent. Pour ce faire, l'État institue un salaire minimum applicable en principe à tous les secteurs économiques.
 
 [^chapterChapitreVII-1]: Modif. 18 du 03.03.2026: Introduction Al. 2; entrée en vigueur au 14.06.2026
 
