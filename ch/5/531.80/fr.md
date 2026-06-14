@@ -3,18 +3,18 @@ sr: "531.80"
 title: Ordonnance du 28 mai 2025 sur le bureau de notification pour les médicaments vitaux à usage humain
 eli: "https://fedlex.data.admin.ch/eli/cc/2025/402"
 language: fr
-version: 2026-01-15
+version: 2026-06-15
 adopted: 2025-05-28
 in_force: 2025-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/402/20260115/fr/xml/fedlex-data-admin-ch-eli-cc-2025-402-20260115-fr-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2025/402/20260115/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/402/20260615/fr/xml/fedlex-data-admin-ch-eli-cc-2025-402-20260615-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2025/402/20260615/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance sur le bureau de notification pour les médicaments vitaux à usage humain
 
-du 28 mai 2025 (État le 15 janvier 2026)
+du 28 mai 2025 (État le 15 juin 2026)
 
 Le Conseil fédéral suisse,
 
@@ -41,33 +41,60 @@ Sont réputés vitaux les médicaments à usage humain autorisés par l’Instit
 
 #### Art. 2
 
-**Obligation de notifier**
-
-<sup>1</sup> Les titulaires d’autorisations qui mettent sur le marché des médicaments à usage humain contenant un des principes actifs mentionnés en annexe doivent notifier au bureau de notification toute pénurie ou rupture de stock de médicaments vitaux à usage humain, prévisible ou imprévisible, qui durera vraisemblablement plus de quatorze jours.
-
-<sup>2</sup> Ils doivent notifier le dosage concerné d’une forme galénique et à partir de quand il sera vraisemblablement de nouveau disponible à la livraison.
-
-<sup>3</sup> Une pénurie ou une rupture de stock ne doit pas être notifiée si elle concerne seulement une taille d’emballage d’un dosage donné d’une forme galénique qu’on peut remplacer par une autre taille.
-
-<sup>4</sup> Les notifications doivent être faites dans les cinq jours ouvrables à compter du moment où le titulaire de l’autorisation en a eu connaissance.
-
-#### Art. 3
-
-**Contenu et forme de la notification**
+**Obligation de notifier**[^2-1]
 
 <sup>1</sup>
 
-Le titulaire de l’autorisation doit notamment notifier les informations suivantes:
+Les titulaires d’autorisations qui mettent sur le marché des médicaments à usage humain contenant un des principes actifs mentionnés en annexe doivent notifier au bureau de notification:
 
-- a. le nom, l’adresse et un interlocuteur;
+- a. le niveau des stocks de médicaments;
+- b. les pénuries ou les ruptures de stock de médicaments vitaux à usage humain, prévisibles ou imprévisibles, qui dureront vraisemblablement plus de quatorze jours.
+
+<sup>2</sup> Ils doivent notifier le niveau des stocks chaque semaine. L’Office fédéral pour l’approvisionnement économique du pays peut décider de modifier la fréquence à laquelle le niveau des stocks doit être notifié.
+
+<sup>3</sup> Les titulaires d’autorisations doivent notifier les pénuries ou les ruptures de stock dans les cinq jours ouvrables à compter du moment où ils en ont eu connaissance. Ne sont pas soumises à l’obligation de notifier les pénuries ou les ruptures de stock qui concernent seulement une taille d’emballage d’un dosage donné d’une forme galénique remplaçable par une autre taille.
+
+[^2-1]: Nouvelle teneur selon le ch. I de l’O du 6 mai 2026, en vigueur depuis le 15 juin 2026 ([RO 2026 208](https://fedlex.data.admin.ch/eli/oc/2026/208)).
+
+#### Art. 3
+
+**Contenu des notifications**[^3-1]
+
+<sup>1</sup>
+
+Les titulaires d’autorisations doivent notifier les informations suivantes:
+
+- a. leur nom, leur adresse et un interlocuteur;
 - b. le numéro d’autorisation et le code article international du médicament à usage humain;
 - c. la désignation exacte du médicament à usage humain, y compris le principe actif, la forme galénique, le dosage et la taille de l’emballage;
-- d. les faits, y compris leurs causes, les services concernés en Suisse et à l’étranger, le niveau actuel des stocks et les ventes passées et escomptées;
-- e. l’existence de médicaments équivalents en Suisse ou à l’étranger;
-- f. le début, la durée et l’ampleur de la pénurie ou de la rupture de stock;
-- g les mesures prises ou prévues en lien avec la pénurie ou la rupture de stock.
+- d. les variations et le niveau actuel des stocks ainsi que les ventes passées;
+- e. les dates des prochaines livraisons et les quantités attendues.
 
-<sup>2</sup> La notification doit être faite par l’intermédiaire du système d’information du bureau de notification (Plateforme des produits thérapeutiques). Si, pour des raisons techniques, l’utilisation de la Plateforme des produits thérapeutiques est impossible, les informations doivent être transmises par un autre moyen électronique ou par voie postale.
+<sup>2</sup>
+
+Elles doivent en outre préciser les circonstances des pénuries ou des ruptures de stock qu’elles notifient, notamment:
+
+- a. leur cause et leur ampleur;
+- b. leur début et leur durée probable;
+- c. les services concernés en Suisse et à l’étranger;
+- d. l’existence de médicaments équivalents en Suisse ou à l’étranger;
+- e. les mesures prises ou prévues pour y remédier.
+
+[^3-1]: Nouvelle teneur selon le ch. I de l’O du 6 mai 2026, en vigueur depuis le 15 juin 2026 ([RO 2026 208](https://fedlex.data.admin.ch/eli/oc/2026/208)).
+
+#### Art. 3a
+
+**Transmission**[^3a-1]
+
+<sup>1</sup> Les notifications doivent être transmises par l’intermédiaire du système d’information du bureau de notification (Plateforme des produits thérapeutiques).
+
+<sup>2</sup> L’exploitant de la Plateforme des produits thérapeutiques fournit une interface.
+
+<sup>3</sup> Si, pour des raisons techniques, l’utilisation de la Plateforme des produits thérapeutiques est impossible, les informations doivent être transmises au moyen d’un autre support électronique ou par voie postale.
+
+<sup>4</sup> Les titulaires d’autorisations peuvent confier la transmission des données à des tiers.
+
+[^3a-1]: Introduit par le ch. I de l’O du 6 mai 2026, en vigueur depuis le 15 juin 2026 ([RO 2026 208](https://fedlex.data.admin.ch/eli/oc/2026/208)).
 
 #### Art. 4
 

@@ -3,18 +3,18 @@ sr: "531.80"
 title: Verordnung vom 28. Mai 2025 über die Meldestelle für lebenswichtige Humanarzneimittel
 eli: "https://fedlex.data.admin.ch/eli/cc/2025/402"
 language: de
-version: 2026-01-15
+version: 2026-06-15
 adopted: 2025-05-28
 in_force: 2025-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/402/20260115/de/xml/fedlex-data-admin-ch-eli-cc-2025-402-20260115-de-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2025/402/20260115/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/402/20260615/de/xml/fedlex-data-admin-ch-eli-cc-2025-402-20260615-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2025/402/20260615/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über die Meldestelle für lebenswichtige Humanarzneimittel
 
-vom 28. Mai 2025 (Stand am 15. Januar 2026)
+vom 28. Mai 2025 (Stand am 15. Juni 2026)
 
 Der Schweizerische Bundesrat,
 
@@ -41,33 +41,60 @@ Als lebenswichtig gelten vom Schweizerischen Heilmittelinstitut zugelassene Huma
 
 #### Art. 2
 
-**Meldepflicht**
-
-<sup>1</sup> Die Inhaberinnen der Zulassung eines Humanarzneimittels, das einen im Anhang aufgeführten Wirkstoff enthält, müssen der Meldestelle sowohl voraussehbare als auch nicht voraussehbare Versorgungsengpässe oder Lieferunterbrüche von lebenswichtigen Humanarzneimitteln melden, sofern der Engpass oder Unterbruch voraussichtlich mehr als vierzehn Tage dauert.
-
-<sup>2</sup> Sie müssen melden, welche Dosierungsstärke einer Darreichungsform betroffen ist und wann diese voraussichtlich wieder lieferbar ist.
-
-<sup>3</sup> Nicht gemeldet werden müssen Versorgungsengpässe oder Lieferunterbrüche, wenn lediglich die Packungsgrösse einer bestimmten Dosierungsstärke einer Darreichungsform betroffen ist und diese durch eine andere Packungsgrösse ersetzt werden kann.
-
-<sup>4</sup> Die Meldungen müssen innerhalb von fünf Arbeitstagen, nachdem die Zulassungsinhaberin Kenntnis vom Versorgungsengpass oder Lieferunterbruch erhalten hat, erfolgen.
-
-#### Art. 3
-
-**Inhalt und Form der Meldung**
+**Meldepflicht**[^2-1]
 
 <sup>1</sup>
 
-Die Zulassungsinhaberin muss insbesondere Folgendes melden:
+Die Inhaberinnen der Zulassung von Humanarzneimitteln, die einen im Anhang aufgeführten Wirkstoff enthalten, müssen der Meldestelle Folgendes melden:
 
-- a. Name und Adresse sowie eine Ansprechperson;
+- a. Lagerbestand der Arzneimittel;
+- b. voraussehbare und nicht voraussehbare Versorgungsengpässe und Lieferunterbrüche betroffener Arzneimittel, sofern der Engpass oder Unterbruch voraussichtlich mehr als vierzehn Tage dauert.
+
+<sup>2</sup> Sie müssen den Lagerbestand wöchentlich melden. Das Bundesamt für wirtschaftliche Landesversorgung kann verfügen, dass der Bestand häufiger oder weniger häufig gemeldet werden muss.
+
+<sup>3</sup> Die Zulassungsinhaberinnen müssen Versorgungsengpässe und Lieferunterbrüche innerhalb von fünf Arbeitstagen nach Kenntnisnahme melden. Von der Meldepflicht ausgenommen sind Versorgungsengpässe und Lieferunterbrüche, wenn nur die Packungsgrösse einer bestimmten Dosierungsstärke einer Darreichungsform betroffen ist und diese durch eine andere Packungsgrösse ersetzt werden kann.
+
+[^2-1]: Fassung gemäss Ziff. I der V vom 6. Mai 2026, in Kraft seit 15. Juni 2026 ([AS 2026 208](https://fedlex.data.admin.ch/eli/oc/2026/208)).
+
+#### Art. 3
+
+**Inhalt der Meldungen**[^3-1]
+
+<sup>1</sup>
+
+Die Zulassungsinhaberinnen müssen Folgendes melden:
+
+- a. ihren Namen und ihre Adresse sowie eine Ansprechperson;
 - b. Zulassungsnummer und Handelsnummer des Humanarzneimittels;
-- c. genaue Bezeichnung des Humanarzneimittels, einschliesslich Wirkstoff, Darreichungsform, Dosierung und Packungsgrösse;
-- d. Sachverhalt, einschliesslich Ursachen, betroffener Stellen im In- und Ausland, aktueller Lagerbestände und historischer sowie erwarteter Absätze;
-- e. die Angabe, ob eine gleichwertige Alternative im In- oder Ausland vorhanden ist;
-- f. Beginn, Dauer und Ausmass des Versorgungsengpasses oder Lieferunterbruchs;
-- g. Massnahmen, die im Zusammenhang mit dem Versorgungsengpass oder Lieferunterbruch getroffen wurden oder geplant sind.
+- c. genaue Bezeichnung, Wirkstoff, Darreichungsform, Dosierungsstärke und Packungsgrösse des Humanarzneimittels;
+- d. Veränderungen des Lagerbestands, aktueller Lagerbestand und zurückliegende Absätze;
+- e. Zeitpunkt der nächsten Lieferungen und die erwarteten Mengen.
 
-<sup>2</sup> Die Meldung muss über das Informationssystem der Meldestelle (Heilmittelplattform) erfolgen. Kann die Heilmittelplattform aus technischen Gründen nicht genutzt werden, so müssen die Angaben auf einem anderen elektronischen Weg oder per Post übermittelt werden.
+<sup>2</sup>
+
+Sie müssen bei der Meldung von Versorgungsengpässen und Lieferunterbrüchen zusätzlich den Sachverhalt melden; dazu gehören insbesondere:
+
+- a. Ursache und Ausmass;
+- b. Beginn und voraussichtliche Dauer;
+- c. betroffene Stellen im In- und Ausland;
+- d. die Angabe, ob eine gleichwertige Alternative im In- oder Ausland vorhanden ist;
+- e. Massnahmen, die zur Behebung getroffen wurden oder geplant sind.
+
+[^3-1]: Fassung gemäss Ziff. I der V vom 6. Mai 2026, in Kraft seit 15. Juni 2026 ([AS 2026 208](https://fedlex.data.admin.ch/eli/oc/2026/208)).
+
+#### Art. 3a
+
+**Übermittlung**[^3a-1]
+
+<sup>1</sup> Die Meldungen müssen über das Informationssystem der Meldestelle (Heilmittelplattform) übermittelt werden.
+
+<sup>2</sup> Die Betreiberin der Heilmittelplattform stellt eine Schnittstelle zur Verfügung.
+
+<sup>3</sup> Kann die Heilmittelplattform aus technischen Gründen nicht genutzt werden, so müssen die Angaben auf einem anderen elektronischen Weg oder per Post übermittelt werden.
+
+<sup>4</sup> Die Zulassungsinhaberinnen können Dritte mit der Übermittlung beauftragen.
+
+[^3a-1]: Eingefügt durch Ziff. I der V vom 6. Mai 2026, in Kraft seit 15. Juni 2026 ([AS 2026 208](https://fedlex.data.admin.ch/eli/oc/2026/208)).
 
 #### Art. 4
 

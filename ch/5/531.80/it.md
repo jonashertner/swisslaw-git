@@ -3,18 +3,18 @@ sr: "531.80"
 title: Ordinanza del 28 maggio 2025 sul centro di notifica per i medicamenti per uso umano d’importanza vitale
 eli: "https://fedlex.data.admin.ch/eli/cc/2025/402"
 language: it
-version: 2026-01-15
+version: 2026-06-15
 adopted: 2025-05-28
 in_force: 2025-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/402/20260115/it/xml/fedlex-data-admin-ch-eli-cc-2025-402-20260115-it-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2025/402/20260115/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/402/20260615/it/xml/fedlex-data-admin-ch-eli-cc-2025-402-20260615-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2025/402/20260615/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza sul centro di notifica per i medicamenti per uso umano d’importanza vitale
 
-del 28 maggio 2025 (Stato 15 gennaio 2026)
+del 28 maggio 2025 (Stato 15 giugno 2026)
 
 Il Consiglio federale svizzero,
 
@@ -41,33 +41,60 @@ Sono considerati d’importanza vitale i medicamenti per uso umano omologati dal
 
 #### Art. 2
 
-**Obbligo di notifica**
-
-<sup>1</sup> I titolari dell’omologazione di un medicamento per uso umano contenente uno dei principi attivi di cui all’allegato devono notificare al centro di notifica le difficoltà di approvvigionamento o le interruzioni delle forniture prevedibili e non prevedibili per i medicamenti per uso umano d’importanza vitale se la durata di tali difficoltà o interruzioni è presumibilmente superiore a 14 giorni.
-
-<sup>2</sup> Devono notificare quale dosaggio di una forma galenica è interessato e quando si presume che sarà nuovamente disponibile.
-
-<sup>3</sup> Le difficoltà di approvvigionamento o l’interruzione delle forniture non devono essere notificate se concernono soltanto le confezioni di una certa grandezza di un determinato dosaggio di una forma galenica sostituibili con confezioni di un’altra grandezza.
-
-<sup>4</sup> Le notifiche devono essere effettuate entro cinque giorni lavorativi a decorrere dal giorno in cui il titolare dell’omologazione viene a conoscenza della difficoltà di approvvigionamento o dell’interruzione delle forniture.
-
-#### Art. 3
-
-**Contenuto e forma della notifica**
+**Obbligo di notifica**[^2-1]
 
 <sup>1</sup>
 
-Il titolare dell’omologazione deve notificare in particolare quanto segue:
+I titolari dell’omologazione di medicamenti per uso umano contenenti uno dei principi attivi di cui all’allegato devono notificare al centro di notifica:
 
-- a. il nome e indirizzo nonché una persona di riferimento;
+- a. la disponibilità di scorte del medicamento;
+- b. le difficoltà di approvvigionamento o le interruzioni delle forniture prevedibili e non prevedibili, se la durata di tali difficoltà o interruzioni è presumibilmente superiore a 14 giorni.
+
+<sup>2</sup> Devono notificare la disponibilità di scorte a cadenza settimanale. L’Ufficio federale per l’approvvigionamento economico del Paese può disporre che tale disponibilità debba essere notificata con una frequenza maggiore o minore.
+
+<sup>3</sup> I titolari dell’omologazione devono notificare le difficoltà di approvvigionamento o le interruzioni delle forniture entro cinque giorni lavorativi a decorrere dal giorno in cui ne vengono a conoscenza. L’obbligo di notifica non concerne le difficoltà di approvvigionamento o le interruzioni delle forniture che riguardano soltanto le confezioni di una certa grandezza di un determinato dosaggio di una forma galenica sostituibili con confezioni di un’altra grandezza.
+
+[^2-1]: Nuovo testo giusta la cifra I dell’O del 6 mag. 2026, in vigore dal 15 giu. 2026 ([RU 2026 208](https://fedlex.data.admin.ch/eli/oc/2026/208)).
+
+#### Art. 3
+
+**Contenuto delle notifiche**[^3-1]
+
+<sup>1</sup>
+
+I titolari dell’omologazione devono notificare quanto segue:
+
+- a. il loro nome e indirizzo nonché una persona di riferimento;
 - b. il numero di omologazione e il codice di articolo del medicamento per uso umano;
-- c. la denominazione esatta del medicamento per uso umano, inclusi il principio attivo, la forma galenica, il dosaggio e la grandezza della confezione;
-- d. la situazione, incluse le cause, le sedi coinvolte in Svizzera e all’estero, la disponibilità di scorte, le vendite effettuate e quelle previste;
-- e. l’indicazione di un’eventuale alternativa equivalente, disponibile in Svizzera o all’estero;
-- f. l’inizio, la durata e l’entità della difficoltà di approvvigionamento o dell’interruzione delle forniture;
-- g. le misure adottate o previste per rispondere alla difficoltà di approvvigionamento o all’interruzione delle forniture.
+- c. la denominazione esatta, il principio attivo, la forma galenica, il dosaggio e la grandezza della confezione del medicamento per uso umano;
+- d. eventuali variazioni della disponibilità di scorte, la disponibilità attuale e le vendite effettuate;
+- e. il momento in cui verranno effettuate nuove forniture e le quantità previste.
 
-<sup>2</sup> La notifica deve essere effettuata tramite il sistema d’informazione del centro di notifica (Piattaforma degli agenti terapeutici). Se per motivi tecnici non è possibile utilizzare la Piattaforma degli agenti terapeutici, i dati sono inviati tramite un altro canale elettronico o per posta.
+<sup>2</sup>
+
+Quando notificano difficoltà di approvvigionamento o interruzioni delle forniture devono inoltre precisare la situazione, in particolare:
+
+- a. la causa e l’entità;
+- b. l’inizio e la durata presumibile;
+- c. le sedi coinvolte, in Svizzera e all’estero;
+- d. l’indicazione di un’eventuale alternativa equivalente, disponibile in Svizzera o all’estero;
+- e. le misure adottate o previste per rispondere a tale situazione.
+
+[^3-1]: Nuovo testo giusta la cifra I dell’O del 6 mag. 2026, in vigore dal 15 giu. 2026 ([RU 2026 208](https://fedlex.data.admin.ch/eli/oc/2026/208)).
+
+#### Art. 3a
+
+**Invio**[^3a-1]
+
+<sup>1</sup> Le notifiche devono essere inviate tramite il sistema d’informazione del centro di notifica (Piattaforma degli agenti terapeutici).
+
+<sup>2</sup> Il gestore della Piattaforma degli agenti terapeutici mette a disposizione un’interfaccia.
+
+<sup>3</sup> Se per motivi tecnici non è possibile utilizzare la Piattaforma degli agenti terapeutici, i dati sono inviati tramite un altro canale elettronico o per posta.
+
+<sup>4</sup> I titolari dell’omologazione possono incaricare terzi dell’invio.
+
+[^3a-1]: Introdotto dalla cifra I dell’O del 6 mag. 2026, in vigore dal 15 giu. 2026 ([RU 2026 208](https://fedlex.data.admin.ch/eli/oc/2026/208)).
 
 #### Art. 4
 
