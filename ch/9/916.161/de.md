@@ -4,11 +4,11 @@ title: Pflanzenschutzmittelverordnung vom 20. August 2025 (PSMV)
 short: PSMV
 eli: "https://fedlex.data.admin.ch/eli/cc/2025/565"
 language: de
-version: 2025-12-01
+version: 2026-06-15
 adopted: 2025-08-20
 in_force: 2025-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/565/20251201/de/xml/fedlex-data-admin-ch-eli-cc-2025-565-20251201-de-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2025/565/20251201/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/565/20260615/de/xml/fedlex-data-admin-ch-eli-cc-2025-565-20260615-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2025/565/20260615/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2025/565/20251201/de"
 
 (PSMV)
 
-vom 20. August 2025 (Stand am 1. Dezember 2025)
+vom 20. August 2025 (Stand am 15. Juni 2026)
 
 Der Schweizerische Bundesrat,
 
@@ -2300,11 +2300,13 @@ Ein Pflanzenschutzmittel wird für die nichtberufliche Verwendung zugelassen, we
 
 [^annex2-lvlu1-1]: Siehe Fussnote zu Art. 57 Abs. 3 Bst. b.
 
-Anhang 3
+Anhang 3[^t-1]
 
 (Art. 26, 30 und 38 Abs. 4)
 
 ## Dossier für die Zulassung eines Pflanzenschutzmittels oder für die Erneuerung der Zulassung
+
+[^t-1]: Bereinigt gemäss Ziff. I Abs. 1 der V des BLV vom 1. Mai 2026, in Kraft seit 15. Juni 2026 ([AS 2026 205](https://fedlex.data.admin.ch/eli/oc/2026/205)).
 
 ### 1 Zulassung
 
@@ -2318,7 +2320,21 @@ Anhang 3
   - – die Angaben nach dem Anhang der Verordnung (EU) Nr. 284/2013[^annex3-lvlu1-lvl1-lvl11-2]; und
   - – die Angabe der beabsichtigten Einstufung und Kennzeichnung des Pflanzenschutzmittels nach Artikel 70.
 
-- 1\.1.2 Bei Pflanzenschutzmitteln, die Nanomaterialien nach Artikel 2 Absatz 2 Buchstabe q ChemV[^annex3-lvlu1-lvl1-lvl11-3] enthalten, muss es zudem die Angaben nach Anhang 3 Ziffer 1.2.3 enthalten.
+- 1\.1.2
+
+  Bei Pflanzenschutzmitteln, die Nanomaterialien nach Artikel 2 Absatz 2 Buchstabe q ChemV[^annex3-lvlu1-lvl1-lvl11-3] enthalten, muss es zudem die folgenden Angaben enthalten:
+
+  - – die Zusammensetzung des Nanomaterials;
+  - – die Teilchenform;
+  - – die mittlere Korngrösse; und
+  - –
+
+    soweit vorhanden:
+
+    - 1\. die Anzahlgrössenverteilung,
+    - 2\. das spezifische Oberflächen-Volumen-Verhältnis, und
+    - 3\. den Aggregationsstatus, die Oberflächenbeschichtung und die Oberflächenfunktionalisierung.
+
 - 1\.1.3 Für die korrekte Auslegung des Anhangs der Verordnung (EU) Nr. 284/2013 gelten die folgenden Entsprechungen von Ausdrücken und Erlassen:
 
 <table>
@@ -2338,11 +2354,11 @@ Anhang 3
 [^annex3-lvlu1-lvl1-lvl11-4]: [SR 455](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7197)
 [^annex3-lvlu1-lvl1-lvl11-5]: [SR 813.112.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9397)
 
-### 1.2. Dossier für die im Pflanzenschutzmittel enthaltenen Wirkstoffe, Safener und Synergisten
+### 1.2 Dossier für die im Pflanzenschutzmittel enthaltenen Wirkstoffe, Safener und Synergisten
 
 - 1\.2.1
 
-  Das Dossier für jeden im Pflanzenschutzmittel enthaltenen Wirkstoff, Safener und Synergisten, der als genehmigt gilt, aber noch in keinem zugelassenen Pflanzenschutzmittel enthalten ist oder für den der Berichtsschutz nach den Artikeln 72–74 besteht, muss umfassen:
+  Das Dossier für jeden im Pflanzenschutzmittel enthaltenen Wirkstoff, Safener und Synergisten, der als genehmigt gilt, aber noch in keinem zugelassenen Pflanzenschutzmittel enthalten ist oder für den der Berichtsschutz nach den Artikeln 62–65 besteht, muss umfassen:
 
   - – die Angaben nach Artikel 8 der Verordnung (EG) Nr. 1107/2009; und
   - – die Angaben nach dem Anhang der Verordnung (EU) Nr. 283/2013[^annex3-lvlu1-lvl1-lvl12-1] gemäss den entsprechenden Leitlinien der EU.
@@ -2398,7 +2414,7 @@ Das Dossier für jeden im Pflanzenschutzmittel enthaltenen Wirkstoff, Safener un
 
 Bei den folgenden Gesuchstypen sind für das Dossier in Abweichung von den Ziffern 1.1 und 1.2 nur die Angaben gemäss den nachstehenden Tabellen notwendig:
 
-- A: Zulassung eines neuen Pflanzenschutzmittels oder eines Pflanzenschutzmittels, das identisch ist mit einem bereits zugelassenen Pflanzenschutzmittel, für das der Berichtsschutz noch nicht abgelaufen ist.
+- A: Zulassung eines neuen Pflanzenschutzmittels oder eines Pflanzenschutzmittels, das identisch ist mit einem bereits zugelassenen Pflanzenschutzmittel, für das der Berichtsschutz abgelaufen ist.
 - B: Erweiterung der Zulassung eines Pflanzenschutzmittels.
 - C: Erweiterung der Zulassung um eine geringfügige Verwendung nach Artikel 17.
 - EK: Änderung der Einstufung und Kennzeichnung eines bereits zugelassenen Pflanzenschutzmittels aufgrund einer Anpassung der massgeblichen Bestimmungen zur Einstufung und Kennzeichnung.
@@ -2439,7 +2455,7 @@ Bei den folgenden Gesuchstypen sind für das Dossier in Abweichung von den Ziffe
 <tr><td>8 Rückstände in oder auf behandelten Erzeugnissen, Lebensmitteln und Futtermitteln</td><td>x</td><td>x</td><td></td><td></td><td></td><td></td></tr>
 <tr><td>9 Verbleib und Verhalten in der Umwelt</td><td>x</td><td>x</td><td></td><td></td><td></td><td></td></tr>
 <tr><td>10 Auswirkungen auf Nichtzielorganismen</td><td>x</td><td>x</td><td></td><td></td><td></td><td></td></tr>
-<tr><td>11 Einstufung und Kennzeichnung</td><td></td><td></td><td></td><td>x</td><td></td><td></td></tr>
+<tr><td>11 Einstufung und Kennzeichnung</td><td>x</td><td></td><td></td><td>x</td><td></td><td>x</td></tr>
 </table>
 
 Anhang 4
@@ -2539,7 +2555,7 @@ Die folgenden Angaben müssen auf der Verpackung eines Pflanzenschutzmittels mit
 - 1\.17 alle Angaben gemäss Artikel 14 sowie die aufgrund der Einstufung vorgeschriebenen Angaben;
 - 1\.18 die Verwendungskategorie der nicht beruflichen Verwendung, sofern das Pflanzenschutzmittel hierfür zugelassen wurde.
 
-[^annex6-lvlu1-lvl1-1]: Die Norm DIN EN ISO 7010:2019, Sicherheitszeichen kann gegen Bezahlung bezogen werden bei der International Organization for Standardization ISO Central Secretariat, Chemin de Blandonnet 8, CP 401 1214 Vernier, www.iso.org.
+[^annex6-lvlu1-lvl1-1]: Die Norm DIN EN ISO 7010:2019, Sicherheitszeichen kann gegen Bezahlung bezogen werden bei der International Organization for Standardization ISO Central Secretariat, Chemin de Blandonnet 8, CP 401 1214 Vernier, www.iso.org .
 
 ### 2 Angaben auf Merkblatt
 
@@ -2565,63 +2581,78 @@ Die folgenden Angaben können, wenn die auf der Verpackung verfügbare Fläche n
 - 2\.3 Hinweise auf möglicherweise auftretende Phytotoxizität, auf Empfindlichkeit bestimmter Sorten und auf andere unerwünschte mittelbare oder unmittelbare Nebenwirkungen auf Pflanzen oder Pflanzenerzeugnisse sowie die zu beachtenden Sicherheitswartezeit zwischen der Verwendung und der Ansaat oder Pflanzung der betreffenden Kultur oder nachfolgender und benachbarter Kulturen;
 - 2\.4 Anweisungen, wie das Pflanzenschutzmittel und die Verpackung gelagert und entsorgt werden müssen.
 
-Anhang 7
+Anhang 7[^t-2]
 
 (Art. 94 Abs. 2, 97 Abs. 2, 98 Abs. 2 und 103 Abs. 2)
 
 ## Genehmigte Nützlinge
 
+[^t-2]: Fassung gemäss Ziff. I Abs. 2 der V des BLV vom 1. Mai 2026, in Kraft seit 15. Juni 2026 ([AS 2026 205](https://fedlex.data.admin.ch/eli/oc/2026/205)).
+
 Die folgenden Nützlinge sind bis zum nachstehend genannten Datum für den folgenden Verwendungszweck und unter den folgenden Bedingungen und Einschränkungen genehmigt:
 
 <table>
-<tr><th>Gebräuchliche Bezeichnung, Kennnummer</th><th>Beschreibung</th><th>Zu bekämpfender Organismus</th><th>Befristung der Genehmigung</th><th>Verwendungszweck, Bedingungen und Einschränkungen</th><th>Wirkstoff mit geringem Risiko</th></tr>
-<tr><td>Adalia bipunctata</td><td>Räuberische Käfer</td><td>Insekten</td><td>01.07.2036</td><td>Insektizid</td><td>x</td></tr>
-<tr><td>Amblyseius californicus</td><td>Raubmilben</td><td>Milben</td><td>01.07.2038</td><td>Insektizid</td><td>x</td></tr>
-<tr><td>Amblyseius degenerans</td><td>Raubmilben</td><td>Milben</td><td>01.07.2036</td><td>Insektizid</td><td>x</td></tr>
-<tr><td>Anisopteromalus calandrae</td><td>Parasitische Hymenopteren</td><td>Insekten</td><td>01.02.2031</td><td>Insektizid Nur Lager- und Verarbeitungsräume</td><td></td></tr>
-<tr><td>Anthocoris nemoralis</td><td>Räuberische Wanzen</td><td>Insekten</td><td>01.07.2036</td><td>Insektizid</td><td>x</td></tr>
-<tr><td>Aphelinus abdominalis</td><td>Parasitische Hymenopteren</td><td>Insekten</td><td>01.07.2031</td><td>Insektizid Nur Gewächshaus</td><td></td></tr>
-<tr><td>Aphidius colemani</td><td>Parasitische Hymenopteren</td><td>Insekten</td><td>01.07.2031</td><td>Insektizid Nur Gewächshaus</td><td></td></tr>
-<tr><td>Aphidius ervi</td><td>Parasitische Hymenopteren</td><td>Insekten</td><td>01.07.2031</td><td>Insektizid Nur Gewächshaus</td><td></td></tr>
-<tr><td>Aphidius matricariae</td><td>Parasitische Hymenopteren</td><td>Insekten</td><td>01.01.2031</td><td>Insektizid Nur Gewächshaus</td><td></td></tr>
-<tr><td>Aphidoletes aphidimyza</td><td>Räuberische Dipteren</td><td>Insekten</td><td>01.07.2032</td><td>Insektizid Nur Gewächshaus</td><td></td></tr>
-<tr><td>Chrysoperla carnea</td><td>Räuberische Nevropteren</td><td>Insekten</td><td>01.02.2036</td><td>Insektizid</td><td>x</td></tr>
-<tr><td>Coccophagus scutellaris</td><td>Parasitische Hymenopteren</td><td>Insekten</td><td>01.01.2032</td><td>Insektizid Nur Gewächshaus</td><td></td></tr>
-<tr><td>Cryptolaemus montrouzieri</td><td>Räuberische Käfer</td><td>Insekten</td><td>01.07.2036</td><td>Insektizid</td><td>x</td></tr>
-<tr><td>Dacnusa sibirica</td><td>Parasitische Hymenopteren</td><td>Insekten</td><td>01.07.2032</td><td>Insektizid Nur Gewächshaus</td><td></td></tr>
-<tr><td>Diglyphus isaea</td><td>Parasitische Hymenopteren</td><td>Insekten</td><td>01.07.2030</td><td>Insektizid Nur Gewächshaus</td><td></td></tr>
-<tr><td>Encarsia formosa</td><td>Parasitische Hymenopteren</td><td>Insekten</td><td>01.01.2032</td><td>Insektizid Nur Gewächshaus</td><td></td></tr>
-<tr><td>Ephedrus cerasicola</td><td>Parasitische Hymenopteren</td><td>Insekten</td><td>01.01.2032</td><td>Insektizid Nur Gewächshaus</td><td></td></tr>
-<tr><td>Eretmocerus eremicus</td><td>Parasitische Hymenopteren</td><td>Insekten</td><td>01.07.2032</td><td>Insektizid Nur Gewächshaus</td><td></td></tr>
-<tr><td>Eretmocerus mundus</td><td>Parasitische Hymenopteren</td><td>Insekten</td><td>01.07.2033</td><td>Insektizid Nur Gewächshaus</td><td></td></tr>
-<tr><td>Eupeodes corollae</td><td>Räuberische Dipteren</td><td>Insekten</td><td>01.01.2033</td><td>Insektizid</td><td>x</td></tr>
-<tr><td>Feltiella acarisuga</td><td>Räuberische Gallmücke</td><td>Insekten</td><td>01.07.2033</td><td>Insektizid Nur Gewächshaus</td><td></td></tr>
-<tr><td>Habrobracon hebetor</td><td>Parasitische Hymenopteren</td><td>Insekten</td><td>01.07.2033</td><td>Insektizid Nur Vorratsschutz</td><td></td></tr>
-<tr><td>Heterorhabditis bacteriophora</td><td>Entomoparasitische Nematoden</td><td>Nematoden</td><td>01.07.2037</td><td>Insektizid</td><td>x</td></tr>
-<tr><td>Heterorhabditis megidis</td><td>Entomoparasitische Nematoden</td><td>Nematoden</td><td>01.07.2037</td><td>Insektizid</td><td>x</td></tr>
-<tr><td>Heterorhabditisdownesi</td><td>Entomoparasitische Nematoden</td><td>Nematoden</td><td>01.07.2037</td><td>Insektizid</td><td>x</td></tr>
-<tr><td>Lariophagus distinguendus</td><td>Parasitische Hymenopteren</td><td>Insekten</td><td>01.07.2033</td><td>Insektizid Nur Vorratsschutz</td><td></td></tr>
-<tr><td>Leptomastidea abnormis</td><td>Parasitische Hymenopteren</td><td>Insekten</td><td>01.07.2033</td><td>Insektizid Nur Gewächshaus</td><td></td></tr>
-<tr><td>Leptomastix dactylopii</td><td>Parasitische Hymenopteren</td><td>Insekten</td><td>01.07.2033</td><td>Insektizid Nur Gewächshaus</td><td></td></tr>
-<tr><td>Macrolophus pigmaeus</td><td>Räuberische Wanzen</td><td>Insekten</td><td>01.01.2037</td><td>Insektizid</td><td>x</td></tr>
-<tr><td>Metaphycus helvolus</td><td>Parasitische Hymenopteren</td><td>Insekten</td><td>01.07.2034</td><td>Insektizid Nur Gewächshaus</td><td></td></tr>
-<tr><td>Microterys flavus</td><td>Parasitische Hymenopteren</td><td>Insekten</td><td>01.07.2034</td><td>Insektizid Nur Gewächshaus</td><td></td></tr>
-<tr><td>Neoseiulus cucumeris (Synonym: Amblyseius cucumeris)</td><td>Raubmilben</td><td>Milben</td><td>01.01.2034</td><td>Insektizid Nur Gewächshaus</td><td></td></tr>
-<tr><td>Orius laevigatus</td><td>Räuberische Wanzen</td><td>Insekten</td><td>01.07.2034</td><td>Insektizid Nur Gewächshaus</td><td></td></tr>
-<tr><td>Orius majusculus</td><td>Räuberische Wanzen</td><td>Insekten</td><td>01.07.2034</td><td>Insektizid Nur Gewächshaus</td><td></td></tr>
-<tr><td>Phasmarhabditis hermaphrodita</td><td>Schneckenparasitische Nematoden</td><td>Nematoden</td><td>01.07.2037</td><td>Molluskizid</td><td>x</td></tr>
-<tr><td>Phytoseiulus persimilis</td><td>Raubmilben</td><td>Milben</td><td>01.07.2038</td><td>Insektizid</td><td>x</td></tr>
-<tr><td>Praon volucre</td><td>Parasitische Hymenopteren</td><td>Insekten</td><td>01.01.2034</td><td>Insektizid Nur Gewächshaus</td><td></td></tr>
-<tr><td>Pseudaphycus maculipennis</td><td>Parasitische Hymenopteren</td><td>Insekten</td><td>01.07.2035</td><td>Insektizid Nur Gewächshaus</td><td></td></tr>
-<tr><td>Rodolia cardinalis</td><td>Räuberische Käfer</td><td>Insekten</td><td>01.07.2035</td><td>Insektizid Nur Gewächshaus</td><td></td></tr>
-<tr><td>Steinernema carpocapsae all strain</td><td>Entomoparasitische Nematoden</td><td>Nematoden</td><td>01.07.2035</td><td>Insektizid</td><td></td></tr>
-<tr><td>Steinernema feltiae</td><td>Entomoparasitische Nematoden</td><td>Nematoden</td><td>01.07.2038</td><td>Insektizid</td><td>x</td></tr>
-<tr><td>Stratiolaelaps scimitus</td><td>Raubmilben</td><td>Milben</td><td>01.01.2035</td><td>Insektizid Nur Gewächshaus</td><td></td></tr>
-<tr><td>Transeius montdorensis (Synonyme: Amblyseius montdorensis und Typhlodromips montdorensis)</td><td>Raubmilben</td><td>Milben</td><td>01.07.2035</td><td>Insektizid, Akarizid Nur Gewächshaus</td><td></td></tr>
-<tr><td>Trichogramma brassicae Bezdenko</td><td>Parasitische Hymenopteren</td><td>Insekten</td><td>01.07.2038</td><td>Insektizid</td><td>x</td></tr>
-<tr><td>Trichogramma cacoeciae</td><td>Parasitische Hymenopteren</td><td>Insekten</td><td>01.07.2038</td><td>Insektizid</td><td>x</td></tr>
-<tr><td>Trichogramma evanescens</td><td>Parasitische Hymenopteren</td><td>Insekten</td><td>01.07.2035</td><td>Insektizid Nur Lagerräume oder Gewächshaus</td><td></td></tr>
-<tr><td>Typhlodromips swirskii</td><td>Raubmilben</td><td>Milben</td><td>01.07.2035</td><td>Insektizid Nur Gewächshaus</td><td></td></tr>
+<tr><th>Gebräuchliche Bezeichnung, Kennnummer</th><th>Beschreibung</th><th>Zu bekämpfender Organismus</th><th>Verwendungszweck, Bedingungen und Einschränkungen</th><th>Wirkstoff mit geringem Risiko</th></tr>
+<tr><td>Adalia bipunctata</td><td>Räuberische Käfer</td><td>Insekten</td><td>Insektizid</td><td>x</td></tr>
+<tr><td>Amblyseius andersoni</td><td>Raubmilben</td><td>Milben</td><td>Insektizid, Akarizid</td><td></td></tr>
+<tr><td>Amblyseius californicus</td><td>Raubmilben</td><td>Milben</td><td>Insektizid</td><td>x</td></tr>
+<tr><td>Amblyseius degenerans</td><td>Raubmilben</td><td>Milben</td><td>Insektizid</td><td>x</td></tr>
+<tr><td>Anagyrus vladimiri</td><td>Parasitische Hymenopteren</td><td>Insekten</td><td>Insektizid</td><td></td></tr>
+<tr><td>Anastatus bifasciatus</td><td>Parasitische Hymenopteren</td><td>Insekten</td><td>Insektizid</td><td></td></tr>
+<tr><td>Anisopteromalus calandrae</td><td>Parasitische Hymenopteren</td><td>Insekten</td><td>Insektizid Nur Lager- und Verarbeitungsräume</td><td></td></tr>
+<tr><td>Anthocoris nemoralis</td><td>Räuberische Wanzen</td><td>Insekten</td><td>Insektizid</td><td>x</td></tr>
+<tr><td>Aphelinus abdominalis</td><td>Parasitische Hymenopteren</td><td>Insekten</td><td>Insektizid Nur Gewächshaus</td><td></td></tr>
+<tr><td>Aphidius colemani</td><td>Parasitische Hymenopteren</td><td>Insekten</td><td>Insektizid Nur Gewächshaus</td><td></td></tr>
+<tr><td>Aphidius ervi</td><td>Parasitische Hymenopteren</td><td>Insekten</td><td>Insektizid Nur Gewächshaus</td><td></td></tr>
+<tr><td>Aphidius matricariae</td><td>Parasitische Hymenopteren</td><td>Insekten</td><td>Insektizid Nur Gewächshaus</td><td></td></tr>
+<tr><td>Aphidoletes aphidimyza</td><td>Räuberische Dipteren</td><td>Insekten</td><td>Insektizid Nur Gewächshaus</td><td></td></tr>
+<tr><td>Aphytis melinus</td><td>Parasitische Hymenopteren</td><td>Insekten</td><td>Insektizid Nur Gewächshaus</td><td></td></tr>
+<tr><td>Cephalonomia tarsalis</td><td>Parasitische Hymenopteren</td><td>Insekten</td><td>Insektizid Nur Lager- und Produktionsräume</td><td></td></tr>
+<tr><td>Chrysoperla carnea</td><td>Räuberische Nevropteren</td><td>Insekten</td><td>Insektizid</td><td>x</td></tr>
+<tr><td>Chrysoperla lucasina</td><td>Räuberische Neuropteren</td><td>Insekten</td><td>Insektizid</td><td></td></tr>
+<tr><td>Coccophagus scutellaris</td><td>Parasitische Hymenopteren</td><td>Insekten</td><td>Insektizid Nur Gewächshaus</td><td></td></tr>
+<tr><td>Cryptolaemus montrouzieri</td><td>Räuberische Käfer</td><td>Insekten</td><td>Insektizid</td><td>x</td></tr>
+<tr><td>Dacnusa sibirica</td><td>Parasitische Hymenopteren</td><td>Insekten</td><td>Insektizid Nur Gewächshaus</td><td></td></tr>
+<tr><td>Diglyphus isaea</td><td>Parasitische Hymenopteren</td><td>Insekten</td><td>Insektizid Nur Gewächshaus</td><td></td></tr>
+<tr><td>Encarsia citrina</td><td>Parasitische Hymenopteren</td><td>Insekten</td><td>Insektizid Nur Gewächshaus</td><td></td></tr>
+<tr><td>Encarsia formosa</td><td>Parasitische Hymenopteren</td><td>Insekten</td><td>Insektizid Nur Gewächshaus</td><td></td></tr>
+<tr><td>Ephedrus cerasicola</td><td>Parasitische Hymenopteren</td><td>Insekten</td><td>Insektizid Nur Gewächshaus</td><td></td></tr>
+<tr><td>Eretmocerus eremicus</td><td>Parasitische Hymenopteren</td><td>Insekten</td><td>Insektizid Nur Gewächshaus</td><td></td></tr>
+<tr><td>Eretmocerus mundus</td><td>Parasitische Hymenopteren</td><td>Insekten</td><td>Insektizid Nur Gewächshaus</td><td></td></tr>
+<tr><td>Eupeodes corollae</td><td>Räuberische Dipteren</td><td>Insekten</td><td>Insektizid</td><td>x</td></tr>
+<tr><td>Exochomus quadripustulatus</td><td>Räuberische Käfer</td><td>Insekten</td><td>Insektizid</td><td></td></tr>
+<tr><td>Feltiella acarisuga</td><td>Räuberische Gallmücke</td><td>Insekten</td><td>Insektizid Nur Gewächshaus</td><td></td></tr>
+<tr><td>Habrobracon hebetor</td><td>Parasitische Hymenopteren</td><td>Insekten</td><td>Insektizid Nur Lager- und Produktionsräume</td><td></td></tr>
+<tr><td>Heterorhabditis bacteriophora</td><td>Entomoparasitische Nematoden</td><td>Nematoden</td><td>Insektizid</td><td>x</td></tr>
+<tr><td>Heterorhabditis downesi</td><td>Entomoparasitische Nematoden</td><td>Nematoden</td><td>Insektizid</td><td>x</td></tr>
+<tr><td>Heterorhabditis megidis</td><td>Entomoparasitische Nematoden</td><td>Nematoden</td><td>Insektizid</td><td>x</td></tr>
+<tr><td>Lariophagus distinguendus</td><td>Parasitische Hymenopteren</td><td>Insekten</td><td>Insektizid Nur Lagerräume</td><td></td></tr>
+<tr><td>Leptomastidea abnormis</td><td>Parasitische Hymenopteren</td><td>Insekten</td><td>Insektizid Nur Gewächshaus</td><td></td></tr>
+<tr><td>Leptomastix dactylopii</td><td>Parasitische Hymenopteren</td><td>Insekten</td><td>Insektizid Nur Gewächshaus</td><td></td></tr>
+<tr><td>Macrolophus pigmaeus</td><td>Räuberische Wanzen</td><td>Insekten</td><td>Insektizid</td><td>x</td></tr>
+<tr><td>Metaphycus helvolus</td><td>Parasitische Hymenopteren</td><td>Insekten</td><td>Insektizid Nur Gewächshaus</td><td></td></tr>
+<tr><td>Micromus angulatus</td><td>Räuberische Neuropteren</td><td>Insekten</td><td>Insektizid</td><td></td></tr>
+<tr><td>Microterys flavus</td><td>Parasitische Hymenopteren</td><td>Insekten</td><td>Insektizid Nur Gewächshaus</td><td></td></tr>
+<tr><td>Neoseiulus cucumeris (Synonym: Amblyseius cucumeris)</td><td>Raubmilben</td><td>Milben</td><td>Insektizid Nur Gewächshaus</td><td></td></tr>
+<tr><td>Orius laevigatus</td><td>Räuberische Wanzen</td><td>Insekten</td><td>Insektizid Nur Gewächshaus</td><td></td></tr>
+<tr><td>Orius majusculus</td><td>Räuberische Wanzen</td><td>Insekten</td><td>Insektizid Nur Gewächshaus</td><td></td></tr>
+<tr><td>Phasmarhabditis hermaphrodita</td><td>Schneckenparasitische Nematoden</td><td>Nematoden</td><td>Molluskizid</td><td>x</td></tr>
+<tr><td>Phytoseiulus persimilis</td><td>Raubmilben</td><td>Milben</td><td>Insektizid</td><td>x</td></tr>
+<tr><td>Praon volucre</td><td>Parasitische Hymenopteren</td><td>Insekten</td><td>Insektizid Nur Gewächshaus</td><td></td></tr>
+<tr><td>Pronematus ubiquitus</td><td>Raubmilben</td><td>Milben</td><td>Akarizid Nur Gewächshaus</td><td></td></tr>
+<tr><td>Pseudaphycus maculipennis</td><td>Parasitische Hymenopteren</td><td>Insekten</td><td>Insektizid Nur Gewächshaus</td><td></td></tr>
+<tr><td>Rodolia cardinalis</td><td>Räuberische Käfer</td><td>Insekten</td><td>Insektizid Nur Gewächshaus</td><td></td></tr>
+<tr><td>Sphaerophoria rueppellii</td><td>Räuberische Dipteren</td><td>Insekten</td><td>Insektizid</td><td></td></tr>
+<tr><td>Steinernema carpocapsae</td><td>Entomoparasitische Nematoden</td><td>Nematoden</td><td>Insektizid</td><td></td></tr>
+<tr><td>Steinernema feltiae</td><td>Entomoparasitische Nematoden</td><td>Nematoden</td><td>Insektizid</td><td>x</td></tr>
+<tr><td>Stratiolaelaps scimitus</td><td>Raubmilben</td><td>Milben</td><td>Insektizid Nur Gewächshaus</td><td></td></tr>
+<tr><td>Transeius montdorensis (Synonyme: Amblyseius montdorensis und Typhlodromips montdorensis)</td><td>Raubmilben</td><td>Milben</td><td>Insektizid, Akarizid Nur Gewächshaus</td><td></td></tr>
+<tr><td>Trichogramma brassicae Bezdenko</td><td>Parasitische Hymenopteren</td><td>Insekten</td><td>Insektizid</td><td>x</td></tr>
+<tr><td>Trichogramma cacoeciae</td><td>Parasitische Hymenopteren</td><td>Insekten</td><td>Insektizid</td><td>x</td></tr>
+<tr><td>Trichogramma evanescens</td><td>Parasitische Hymenopteren</td><td>Insekten</td><td>Insektizid Nur Lagerräume oder Gewächshaus</td><td></td></tr>
+<tr><td>Trichopria drosophilae</td><td>Parasitische Hymenopteren</td><td>Insekten</td><td>Insektizid</td><td></td></tr>
+<tr><td>Trissolcus basalis</td><td>Parasitische Hymenopteren</td><td>Insekten</td><td>Insektizid Nur Gewächshaus</td><td></td></tr>
+<tr><td>Typhlodromips swirskii</td><td>Raubmilben</td><td>Milben</td><td>Insektizid Nur Gewächshaus</td><td></td></tr>
 </table>
 
 Anhang 8
@@ -2641,13 +2672,13 @@ Anhang 8
   - – für nicht gebietsfremde Nützlinge: Daten zu Gesuchstellerin und Organismus (Kap. 2.2 Teile 1 und 2);
   - – für gebietsfremde Nützlinge: zusätzlich die Daten für eine Risiko-NutzenAnalyse (Kap. 2.2 Teil 3).
 
-[^annex8-lvlu1-lvl1-1]: Leitlinie PM6/2 in der Fassung gemäss OEPP/EPPO-Bulletin (2014) 44 (3), Seiten 320–329. Sie kann bei der EPPO abgerufen werden unter www.eppo.int &gt; resources &gt; EPPO standards &gt; PM06 Biocontrol &gt; safe use of biological controls (PM6) &gt; «Import and release of non-indigenous biological control agents».
+[^annex8-lvlu1-lvl1-1]: Leitlinie PM6/2 in der Fassung gemäss OEPP/EPPO-Bulletin (2014) 44 (3), Seiten 320–329. Sie kann bei der EPPO abgerufen werden unter: www.eppo.int &gt; resources &gt; EPPO standards &gt; PM06 Biocontrol &gt; safe use of biological controls (PM6) &gt; «Import and release of non-indigenous biological control agents».
 
 ### 2 Beurteilung des Dossiers
 
 Die Beurteilung des Dossiers richtet sich nach dem EPPO-Standard «Decision-support scheme for import and release of biological control agents» (PM6/4)[^annex8-lvlu1-lvl2-1].
 
-[^annex8-lvlu1-lvl2-1]: EPPO-Standard PM6/4 in der Fassung gemäss OEPP/EPPO Bulletin (2018) 48 (3), 352–367. Er kann bei der EPPO abgerufen werden unter [www.eppo.int](http://www.eppo.int) &gt; resources &gt; EPPO standards &gt; PM06 Biocontrol &gt; safe use of biological controls (PM6) &gt; Decision‐support scheme for import and release of biological control agents of plant pests
+[^annex8-lvlu1-lvl2-1]: EPPO-Standard PM6/4 in der Fassung gemäss OEPP/EPPO Bulletin (2018) 48 (3), 352–367. Er kann bei der EPPO abgerufen werden unter: [www.eppo.int](http://www.eppo.int) &gt; resources &gt; EPPO standards &gt; PM06 Biocontrol &gt; safe use of biological controls (PM6) &gt; Decision‐support scheme for import and release of biological control agents of plant pests
 
 Anhang 9
 

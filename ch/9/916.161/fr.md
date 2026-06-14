@@ -4,11 +4,11 @@ title: Ordonnance du 20 août 2025 sur les produits phytosanitaires (OPPh)
 short: OPPh
 eli: "https://fedlex.data.admin.ch/eli/cc/2025/565"
 language: fr
-version: 2025-12-01
+version: 2026-06-15
 adopted: 2025-08-20
 in_force: 2025-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/565/20251201/fr/xml/fedlex-data-admin-ch-eli-cc-2025-565-20251201-fr-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2025/565/20251201/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/565/20260615/fr/xml/fedlex-data-admin-ch-eli-cc-2025-565-20260615-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2025/565/20260615/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2025/565/20251201/fr"
 
 (OPPh)
 
-du 20 août 2025 (État le 1<sup>er</sup> décembre 2025)
+du 20 août 2025 (État le 15 juin 2026)
 
 Le Conseil fédéral suisse,
 
@@ -1523,12 +1523,12 @@ Les organismes utiles sont approuvés sur demande si au moins une utilisation re
   - 1\. sur les espèces qu’ils ne doivent pas combattre, y compris leur comportement à long terme,
   - 2\. sur la biodiversité et l’écosystème.
 
-<sup>2</sup> Les conditions d’approbation sont réputées remplies pour les organismes utiles énumérés aux annexes 1 et 2 de la norme de l’OEPP *Biological control agents safely used in the EPPO region* (PM6/3[^95-1]).
+<sup>2</sup> Les conditions d’approbation sont réputées remplies pour les organismes utiles énumérés aux annexes 1 et 2 de la norme de l’OEPP *Biological control agents safely used in the EPPO region* (PM6/3[^116-1]).
 
-<sup>3</sup> En outre, les exigences fixées aux art. 7 à 11 ODE[^95-2] sont applicables si l’organisme utile est un organisme génétiquement modifié.
+<sup>3</sup> En outre, les exigences fixées aux art. 7 à 11 ODE[^116-2] sont applicables si l’organisme utile est un organisme génétiquement modifié.
 
-[^95-1]: Norme PM6/3 telle que définie dans OEPP/EPPO Bulletin 51. Elle peut être téléchargée depuis le site de l’OEPP: [www.eppo.int](http://www.eppo.int) &gt; resources &gt; EPPO standards &gt; PM06 Biocontrol &gt; safe use of biological controls (PM6) &gt; Biological control agents safely used in the EPPO region.
-[^95-2]: [RS 814.911](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9622)
+[^116-1]: Norme PM6/3 telle que définie dans OEPP/EPPO Bulletin 51. Elle peut être téléchargée depuis le site de l’OEPP: [www.eppo.int](http://www.eppo.int) &gt; resources &gt; EPPO standards &gt; PM06 Biocontrol &gt; safe use of biological controls (PM6) &gt; Biological control agents safely used in the EPPO region.
+[^116-2]: [RS 814.911](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9622)
 
 #### Art. 96
 
@@ -1538,11 +1538,11 @@ Les organismes utiles sont approuvés sur demande si au moins une utilisation re
 
 <sup>2</sup> Elle doit être accompagnée d’un dossier visé à l’annexe 8. Si une partie du dossier n’est pas présentée, la demande doit comprendre une justification scientifique de ce fait.
 
-<sup>3</sup> Le contenu du dossier doit remplir, outre les exigences figurant aux art. 26, 27 et 28 de la présente ordonnance, les exigences fixées aux art. 28 et 34, al. 2, ODE[^96-1] si l’organisme utile dont l’approbation est demandée est un organisme génétiquement modifié.
+<sup>3</sup> Le contenu du dossier doit remplir, outre les exigences figurant aux art. 26, 27 et 28 de la présente ordonnance, les exigences fixées aux art. 28 et 34, al. 2, ODE[^117-1] si l’organisme utile dont l’approbation est demandée est un organisme génétiquement modifié.
 
 <sup>4</sup> La demande doit être rédigée dans une langue officielle de la Confédération ou en anglais. Si elle concerne un organisme génétiquement modifié ou pathogène, le dossier doit comprendre un résumé de la demande dans une des langues officielles.
 
-[^96-1]: [RS 814.911](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9622)
+[^117-1]: [RS 814.911](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9622)
 
 #### Art. 97
 
@@ -1692,18 +1692,18 @@ Dans l’autorisation, le service d’homologation peut fixer:
 
 **Respect des valeurs maximales des résidus**
 
-Le titulaire de l’autorisation veille à ce que les valeurs maximales des résidus sur les produits d’origine végétale et animale selon les dispositions édictées en vertu de l’ODAlOUs[^109-1] soient respectées.
+Le titulaire de l’autorisation veille à ce que les valeurs maximales des résidus sur les produits d’origine végétale et animale selon les dispositions édictées en vertu de l’ODAlOUs[^121-1] soient respectées.
 
-[^109-1]: [RS 817.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9647)
+[^121-1]: [RS 817.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9647)
 
 #### Art. 110
 
 **Essais avec des organismes génétiquement modifiés ou pathogènes ainsi qu’avec de petits invertébrés exotiques**
 
-L’ODE[^110-1] et l’ordonnance du 9 mai 2012 sur l’utilisation confinée[^110-2] sont applicables à la réalisation d’essais avec des organismes génétiquement modifiés ou pathogènes et d’essais avec de petits invertébrés exotiques.
+L’ODE[^122-1] et l’ordonnance du 9 mai 2012 sur l’utilisation confinée[^122-2] sont applicables à la réalisation d’essais avec des organismes génétiquement modifiés ou pathogènes et d’essais avec de petits invertébrés exotiques.
 
-[^110-1]: [RS 814.911](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9622)
-[^110-2]: [RS 814.912](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9624)
+[^122-1]: [RS 814.911](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9622)
+[^122-2]: [RS 814.912](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9624)
 
 #### Art. 111
 
@@ -1814,9 +1814,9 @@ En outre, le service d’homologation peut publier des évaluations et des rappo
 
 **Liste des substances actives qu’il est interdit d’utiliser dans les zones de protection des eaux souterraines et dans les zones karstiques**
 
-Le service d’homologation publie la liste des substances actives qu’il est interdit d’utiliser dans les zones de protection des eaux souterraines S2 et S<sub>h</sub> visées à l’annexe 4, ch. 123 et 124, OEaux[^116-1] et dans les zones karstiques.
+Le service d’homologation publie la liste des substances actives qu’il est interdit d’utiliser dans les zones de protection des eaux souterraines S2 et S<sub>h</sub> visées à l’annexe 4, ch. 123 et 124, OEaux[^116-3] et dans les zones karstiques.
 
-[^116-1]: [RS 814.201](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9478)
+[^116-3]: [RS 814.201](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9478)
 
 #### Art. 117
 
@@ -2303,11 +2303,13 @@ Un produit phytosanitaire est homologué pour une utilisation non professionnell
 
 [^annex2-lvlu1-1]: Cf. note de bas de page relative à l’art. 57, al. 3, let. b.
 
-Annexe 3
+Annexe 3[^t-1]
 
 (art. 26, 30 et 38, al. 4)
 
 ## Dossier d’homologation d’un produit phytosanitaire ou de renouvellement de l’homologation
+
+[^t-1]: Mise à jour par le ch. I al. 1 de l’O de l’OSAV du 1<sup>er</sup> mai 2026, en vigueur depuis le 15 juin 2026 ([RO 2026 205](https://fedlex.data.admin.ch/eli/oc/2026/205)).
 
 ### 1 Homologation
 
@@ -2321,7 +2323,21 @@ Annexe 3
   - – les informations visées à l’annexe du règlement (UE) n<sup>o</sup> 284/2013[^annex3-lvlu1-lvl1-lvl11-2], et
   - – l’indication de la classification et de l’étiquetage envisagés du produit phytosanitaire conformément à l’art. 70.
 
-- 1\.1.2 Pour les produits phytosanitaires contenant des nanomatériaux au sens de l’art. 2, al. 2, let. q, OChim[^annex3-lvlu1-lvl1-lvl11-3], le dossier doit en outre contenir les informations visées à l’annexe 3, ch. 1.2.3.
+- 1\.1.2
+
+  Pour les produits phytosanitaires contenant des nanomatériaux au sens de l’art. 2, al. 2, let. q, OChim[^annex3-lvlu1-lvl1-lvl11-3], le dossier doit en outre contenir les informations suivantes:
+
+  - – la composition du nanomatériau;
+  - – la forme des particules;
+  - – leur grandeur moyenne, et
+  - –
+
+    lorsque ces informations sont disponibles:
+
+    - 1\. la distribution granulométrique,
+    - 2\. la surface spécifique en volume, et
+    - 3\. l’état d’agrégation, le revêtement de surface et la fonctionnalisation de la surface.
+
 - 1\.1.3 Afin d’interpréter correctement l’annexe du règlement (UE) n<sup>o</sup> 284/2013, on tiendra compte des équivalences suivantes:
 
 <table>
@@ -2345,10 +2361,10 @@ Annexe 3
 
 - 1\.2.1
 
-  Le dossier concernant chaque substance active, phytoprotecteur et synergiste qui est contenu dans le produit phytosanitaire et qui est réputé approuvé, mais qui n’entre pas encore dans la composition d’un produit phytosanitaire homologué ou fait l’objet de la protection des rapports au sens des art. 72 à 74, doit contenir:
+  Le dossier concernant chaque substance active, phytoprotecteur et synergiste qui est contenu dans le produit phytosanitaire et qui est réputé approuvé, mais qui n’entre pas encore dans la composition d’un produit phytosanitaire homologué ou fait l’objet de la protection des rapports au sens des art. 62 à 65, doit contenir:
 
   - – les éléments prévus à l’art. 8 du règlement (CE) n<sup>o</sup> 1107/2009, et
-  - – les informations visées à l’annexe du règlement (UE) n<sup>o</sup> 283/2013[^annex3-lvlu1-lvl1-lvl12-1]<sup>,</sup> conformément aux documents d’orientation pertinents de l’UE.
+  - – les informations visées à l’annexe du règlement (UE) n<sup>o</sup> 283/2013[^annex3-lvlu1-lvl1-lvl12-1], conformément aux documents d’orientation pertinents de l’UE.
 
 - 1\.2.2 Si l’approbation de la substance active, du phytoprotecteur ou du synergiste a déjà été renouvelée une fois dans l’UE, il y a lieu de déposer le dossier de renouvellement pertinent visé par règlement (CE) n<sup>o</sup> 1107/2009 et le règlement (UE) n<sup>o</sup> 283/2013. La version de ces deux règlements de l’UE qui était en vigueur au moment du dépôt du dossier par le demandeur dans un État membre de l’UE concerné est déterminante.
 - 1\.2.3
@@ -2377,7 +2393,7 @@ Annexe 3
 <tr><td>règlement (CE) n<sup>o</sup> 396/2005 (ch. 1.11, let. s)</td><td>ordonnance du DFI du 16 décembre 2016 sur les limites maximales applicables aux résidus de pesticides présents dans ou sur les produits d’origine végétale ou animale (OPOVA)[^annex3-lvlu1-lvl1-lvl12-2]</td></tr>
 </table>
 
-[^annex3-lvlu1-lvl1-lvl12-1]: Règlement (UE) n<sup>o</sup> 283/2013 de la Commission du 1<sup>er</sup> mars 2013 établissant les exigences en matière de données applicables aux substances actives, conformément au règlement (CE) n<sup>o</sup> 1107/2009 du Parlement européen et du Conseil concernant la mise sur le marché des produits phytopharmaceutiques, JO L 93 du 3.4.2013, p. 1; modifié en dernier lieu par le règlement (UE) n<sup>o</sup> 2022/1439, JO L 227 du 1.9.2022, p. 8.
+[^annex3-lvlu1-lvl1-lvl12-1]: Règlement (UE) n<sup>o</sup> 283/2013 de la Commission du 1<sup>er</sup> mars 2013 établissant les exigences en matière de données applicables aux substances actives, conformément au règlement (CE) n<sup>o</sup> 1107/2009 du Parlement européen et du Conseil concernant la mise sur le marché des produits phytopharmaceutiques, JO L 93 du 3.4.2013, p. 1; modifié en dernier lieu par le règlement (UE) 2022/1439, JO L 227 du 1.9.2022, p. 8.
 [^annex3-lvlu1-lvl1-lvl12-2]: [RS 817.021.23](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9653)
 
 ### 2 Renouvellement de l’homologation
@@ -2401,7 +2417,7 @@ Le dossier concernant chaque substance active, phytoprotecteur et synergiste con
 
 En dérogation aux ch. 1.1 et 1.2, seules les indications mentionnées dans les tableaux ci-dessous sont nécessaires dans le dossier pour les types de demande suivants:
 
-- A: homologation d’un nouveau produit phytosanitaire ou d’un produit phytosanitaire identique à un autre déjà homologué pour lequel la période de protection des rapports n’est pas encore échue
+- A: homologation d’un nouveau produit phytosanitaire ou d’un produit phytosanitaire identique à un autre déjà homologué pour lequel la période de protection des rapports est échue
 - B: extension de l’homologation d’un produit phytosanitaire
 - C: extension de l’homologation d’un produit phytosanitaire pour une utilisation mineure au sens de l’art. 17
 - C&E: modification de la classification et de l’étiquetage d’un produit phytosanitaire déjà homologué en raison d’une modification des dispositions déterminantes en matière de classification et d’étiquetage
@@ -2442,7 +2458,7 @@ En dérogation aux ch. 1.1 et 1.2, seules les indications mentionnées dans les 
 <tr><td>8 Résidus dans ou sur les produits, denrées alimentaires ou aliments pour animaux traités</td><td>x</td><td>x</td><td></td><td></td><td></td><td></td></tr>
 <tr><td>9 Devenir et comportement dans l’environnement</td><td>x</td><td>x</td><td></td><td></td><td></td><td></td></tr>
 <tr><td>10 Effets sur les organismes non‑cibles</td><td>x</td><td>x</td><td></td><td></td><td></td><td></td></tr>
-<tr><td>11 Classification et étiquetage</td><td></td><td></td><td></td><td>x</td><td></td><td></td></tr>
+<tr><td>11 Classification et étiquetage</td><td>x</td><td></td><td></td><td>x</td><td></td><td>x</td></tr>
 </table>
 
 Annexe 4
@@ -2568,63 +2584,78 @@ Les indications ci-dessous peuvent, si la surface disponible sur l’emballage e
 - 2\.3 les indications concernant la phytotoxicité, la sensibilité variétale et tout autre effet secondaire direct ou indirect indésirable possibles sur les produits végétaux ou les produits d’origine végétale, ainsi que l’intervalle de sécurité à respecter entre l’application et le semis ou la plantation de la culture concernée ou des cultures suivantes et adjacentes;
 - 2\.4 des instructions sur la manière de stocker et d’éliminer le produit phytosanitaire et son emballage.
 
-Annexe 7
+Annexe 7[^t-2]
 
 (art. 94, al. 2, 97, al. 2, 98, al. 2, et 103, al. 2)
 
 ## Organismes utiles approuvés
 
+[^t-2]: Nouvelle teneur selon le ch. I al. 2 de l’O de l’OSAV du 1<sup>er</sup> mai 2026, en vigueur depuis le 15 juin 2026 ([RO 2026 205](https://fedlex.data.admin.ch/eli/oc/2026/205)).
+
 Les organismes utiles suivants sont approuvés jusqu’à la date mentionnée ci-dessous pour l’utilisation suivante et sous réserve des conditions et restrictions suivantes:
 
 <table>
-<tr><th>Nom commun, numéro d’identification</th><th>Description</th><th>Organisme à combattre</th><th>Expiration de l’approbation</th><th>Utilisation, conditions et restrictions</th><th>Substance active à faible risque</th></tr>
-<tr><td>Adalia bipunctata</td><td>Coléoptères prédateurs</td><td>Insectes</td><td>01.07.2036</td><td>Insecticide</td><td>x</td></tr>
-<tr><td>Amblyseius californicus</td><td>Acariens prédateurs</td><td>Acariens</td><td>01.07.2038</td><td>Insecticide</td><td>x</td></tr>
-<tr><td>Amblyseius degenerans</td><td>Acariens prédateurs</td><td>Acariens</td><td>01.07.2036</td><td>Insecticide</td><td>x</td></tr>
-<tr><td>Anisopteromalus calandrae</td><td>Hyménoptères parasites</td><td>Insectes</td><td>01.02.2031</td><td>Insecticide Locaux de stockage et de transformation seulement</td><td></td></tr>
-<tr><td>Anthocoris nemoralis</td><td>Punaises prédatrices</td><td>Insectes</td><td>01.07.2036</td><td>Insecticide</td><td>x</td></tr>
-<tr><td>Aphelinus abdominalis</td><td>Hyménoptères parasites</td><td>Insectes</td><td>01.07.2031</td><td>Insecticide Serres seulement</td><td></td></tr>
-<tr><td>Aphidius colemani</td><td>Hyménoptères parasites</td><td>Insectes</td><td>01.07.2031</td><td>Insecticide Serres seulement</td><td></td></tr>
-<tr><td>Aphidius ervi</td><td>Hyménoptères parasites</td><td>Insectes</td><td>01.07.2031</td><td>Insecticide Serres seulement</td><td></td></tr>
-<tr><td>Aphidius matricariae</td><td>Hyménoptères parasites</td><td>Insectes</td><td>01.01.2031</td><td>Insecticide Serres seulement</td><td></td></tr>
-<tr><td>Aphidoletes aphidimyza</td><td>Diptères prédateurs</td><td>Insectes</td><td>01.07.2032</td><td>Insecticide Serres seulement</td><td></td></tr>
-<tr><td>Chrysoperla carnea</td><td>Névroptères prédateurs</td><td>Insectes</td><td>01.02.2036</td><td>Insecticide</td><td>x</td></tr>
-<tr><td>Coccophagus scutellaris</td><td>Hyménoptères parasites</td><td>Insectes</td><td>01.01.2032</td><td>Insecticide Serres seulement</td><td></td></tr>
-<tr><td>Cryptolaemus montrouzieri</td><td>Coléoptères prédateurs</td><td>Insectes</td><td>01.07.2036</td><td>Insecticide</td><td>x</td></tr>
-<tr><td>Dacnusa sibirica</td><td>Hyménoptères parasites</td><td>Insectes</td><td>01.07.2032</td><td>Insecticide Serres seulement</td><td></td></tr>
-<tr><td>Diglyphus isaea</td><td>Hyménoptères parasites</td><td>Insectes</td><td>01.07.2030</td><td>Insecticide Serres seulement</td><td></td></tr>
-<tr><td>Encarsia formosa</td><td>Hyménoptères parasites</td><td>Insectes</td><td>01.01.2032</td><td>Insecticide Serres seulement</td><td></td></tr>
-<tr><td>Ephedrus cerasicola</td><td>Hyménoptères parasites</td><td>Insectes</td><td>01.01.2032</td><td>Insecticide Serres seulement</td><td></td></tr>
-<tr><td>Eretmocerus eremicus</td><td>Hyménoptères parasites</td><td>Insectes</td><td>01.07.2032</td><td>Insecticide Serres seulement</td><td></td></tr>
-<tr><td>Eretmocerus mundus</td><td>Hyménoptères parasites</td><td>Insectes</td><td>01.07.2033</td><td>Insecticide Serres seulement</td><td></td></tr>
-<tr><td>Eupeodes corollae</td><td>Diptères prédateurs</td><td>Insectes</td><td>01.01.2033</td><td>Insecticide</td><td>x</td></tr>
-<tr><td>Feltiella acarisuga</td><td>Cécidomyies prédatrices</td><td>Insectes</td><td>01.07.2033</td><td>Insecticide Serres seulement</td><td></td></tr>
-<tr><td>Habrobracon hebetor</td><td>Hyménoptères parasites</td><td>Insectes</td><td>01.07.2033</td><td>Insecticide Protection des provisions seulement</td><td></td></tr>
-<tr><td>Heterorhabditis bacteriophora</td><td>Nématodes entomoparasitiques</td><td>Nématodes</td><td>01.07.2037</td><td>Insecticide</td><td>x</td></tr>
-<tr><td>Heterorhabditis megidis</td><td>Nématodes entomoparasitiques</td><td>Nématodes</td><td>01.07.2037</td><td>Insecticide</td><td>x</td></tr>
-<tr><td>Heterorhabditis downesi</td><td>Nématodes entomoparasitiques</td><td>Nématodes</td><td>01.07.2037</td><td>Insecticide</td><td>x</td></tr>
-<tr><td>Lariophagus distinguendus</td><td>Hyménoptères parasites</td><td>Insectes</td><td>01.07.2033</td><td>Insecticide Protection des provisions seulement</td><td></td></tr>
-<tr><td>Leptomastidea abnormis</td><td>Hyménoptères parasites</td><td>Insectes</td><td>01.07.2033</td><td>Insecticide Serres seulement</td><td></td></tr>
-<tr><td>Leptomastix dactylopii</td><td>Hyménoptères parasites</td><td>Insectes</td><td>01.07.2033</td><td>Insecticide Serres seulement</td><td></td></tr>
-<tr><td>Macrolophus pigmaeus</td><td>Punaises prédatrices</td><td>Insectes</td><td>01.01.2037</td><td>Insecticide</td><td>x</td></tr>
-<tr><td>Metaphycus helvolus</td><td>Hyménoptères parasites</td><td>Insectes</td><td>01.07.2034</td><td>Insecticide Serres seulement</td><td></td></tr>
-<tr><td>Microterys flavus</td><td>Hyménoptères parasites</td><td>Insectes</td><td>01.07.2034</td><td>Insecticide Serres seulement</td><td></td></tr>
-<tr><td>Neoseiulus cucumeris (synonyme: Amblyseius cucumeris)</td><td>Acariens prédateurs</td><td>Acariens</td><td>01.01.2034</td><td>Insecticide Serres seulement</td><td></td></tr>
-<tr><td>Orius laevigatus</td><td>Punaises prédatrices</td><td>Insectes</td><td>01.07.2034</td><td>Insecticide Serres seulement</td><td></td></tr>
-<tr><td>Orius majusculus</td><td>Punaises prédatrices</td><td>Insectes</td><td>01.07.2034</td><td>Insecticide Serres seulement</td><td></td></tr>
-<tr><td>Phasmarhabditis hermaphrodita</td><td>Nématodes parasitaires de mollusques</td><td>Nématodes</td><td>01.07.2037</td><td>Molluscicide</td><td>x</td></tr>
-<tr><td>Phytoseiulus persimilis</td><td>Acariens prédateurs</td><td>Acariens</td><td>01.07.2038</td><td>Insecticide</td><td>x</td></tr>
-<tr><td>Praon volucre</td><td>Hyménoptères parasites</td><td>Insectes</td><td>01.01.2034</td><td>Insecticide Serres seulement</td><td></td></tr>
-<tr><td>Pseudaphycus maculipennis</td><td>Hyménoptères parasites</td><td>Insectes</td><td>01.07.2035</td><td>Insecticide Serres seulement</td><td></td></tr>
-<tr><td>Rodolia cardinalis</td><td>Coléoptères prédateurs</td><td>Insectes</td><td>01.07.2035</td><td>Insecticide Serres seulement</td><td></td></tr>
-<tr><td>Steinernema carpocapse all strain</td><td>Nématodes entomoparasitiques</td><td>Nématodes</td><td>01.07.2035</td><td>Insecticide</td><td></td></tr>
-<tr><td>Steinernema feltiae</td><td>Nématodes entomoparasitiques</td><td>Nématodes</td><td>01.07.2038</td><td>Insecticide</td><td>x</td></tr>
-<tr><td>Stratiolaelaps scimitus</td><td>Acariens prédateurs</td><td>Acariens</td><td>01.01.2035</td><td>Insecticide Serres seulement</td><td></td></tr>
-<tr><td>Transeius montdorensis (synonymes: Amblyseius montdorensis et Typhlodromips montdorensis)</td><td>Acariens prédateurs</td><td>Acariens</td><td>01.07.2035</td><td>Insecticide, acaricide Serres seulement</td><td></td></tr>
-<tr><td>Trichogramma brassicae Bezdenko</td><td>Hyménoptères parasites</td><td>Insectes</td><td>01.07.2038</td><td>Insecticide</td><td>x</td></tr>
-<tr><td>Trichogramma cacoeciae</td><td>Hyménoptères parasites</td><td>Insectes</td><td>01.07.2038</td><td>Insecticide</td><td>x</td></tr>
-<tr><td>Trichogramma evanescens</td><td>Hyménoptères parasites</td><td>Insectes</td><td>01.07.2035</td><td>Insecticide Locaux de stockage ouserres seulement</td><td></td></tr>
-<tr><td>Typhlodromips swirskii</td><td>Acariens prédateurs</td><td>Acariens</td><td>01.07.2035</td><td>Insecticide Serres seulement</td><td></td></tr>
+<tr><th>Nom commun, numéro d’identification</th><th>Description</th><th>Organisme à combattre</th><th>Utilisation, conditions et restrictions</th><th>Substance active à faible risque</th></tr>
+<tr><td>Adalia bipunctata</td><td>Coléoptères prédateurs</td><td>Insectes</td><td>Insecticide</td><td>x</td></tr>
+<tr><td>Amblyseius andersoni</td><td>Acariens prédateurs</td><td>Acariens</td><td>Insecticide, acaricide</td><td></td></tr>
+<tr><td>Amblyseius californicus</td><td>Acariens prédateurs</td><td>Acariens</td><td>Insecticide</td><td>x</td></tr>
+<tr><td>Amblyseius degenerans</td><td>Acariens prédateurs</td><td>Acariens</td><td>Insecticide</td><td>x</td></tr>
+<tr><td>Anagyrus vladimiri</td><td>Hyménoptères parasites</td><td>Insectes</td><td>Insecticide</td><td></td></tr>
+<tr><td>Anastatus bifasciatus</td><td>Hyménoptères parasites</td><td>Insectes</td><td>Insecticide</td><td></td></tr>
+<tr><td>Anisopteromalus calandrae</td><td>Hyménoptères parasites</td><td>Insectes</td><td>Insecticide Locaux de stockage et de transformation seulement</td><td></td></tr>
+<tr><td>Anthocoris nemoralis</td><td>Punaises prédatrices</td><td>Insectes</td><td>Insecticide</td><td>x</td></tr>
+<tr><td>Aphelinus abdominalis</td><td>Hyménoptères parasites</td><td>Insectes</td><td>Insecticide Serres seulement</td><td></td></tr>
+<tr><td>Aphidius colemani</td><td>Hyménoptères parasites</td><td>Insectes</td><td>Insecticide Serres seulement</td><td></td></tr>
+<tr><td>Aphidius ervi</td><td>Hyménoptères parasites</td><td>Insectes</td><td>Insecticide Serres seulement</td><td></td></tr>
+<tr><td>Aphidius matricariae</td><td>Hyménoptères parasites</td><td>Insectes</td><td>Insecticide Serres seulement</td><td></td></tr>
+<tr><td>Aphidoletes aphidimyza</td><td>Diptères prédateurs</td><td>Insectes</td><td>Insecticide Serres seulement</td><td></td></tr>
+<tr><td>Aphytis melinus</td><td>Hyménoptères parasites</td><td>Insectes</td><td>Insecticide Serres seulement</td><td></td></tr>
+<tr><td>Cephalonomia tarsalis</td><td>Hyménoptères parasites</td><td>Insectes</td><td>Insecticide Locaux de stockage et de transformation seulement</td><td></td></tr>
+<tr><td>Chrysoperla carnea</td><td>Névroptères prédateurs</td><td>Insectes</td><td>Insecticide</td><td>x</td></tr>
+<tr><td>Chrysoperla lucasina</td><td>Névroptères prédateurs</td><td>Insectes</td><td>Insecticide</td><td></td></tr>
+<tr><td>Coccophagus scutellaris</td><td>Hyménoptères parasites</td><td>Insectes</td><td>Insecticide Serres seulement</td><td></td></tr>
+<tr><td>Cryptolaemus montrouzieri</td><td>Coléoptères prédateurs</td><td>Insectes</td><td>Insecticide</td><td>x</td></tr>
+<tr><td>Dacnusa sibirica</td><td>Hyménoptères parasites</td><td>Insectes</td><td>Insecticide Serres seulement</td><td></td></tr>
+<tr><td>Diglyphus isaea</td><td>Hyménoptères parasites</td><td>Insectes</td><td>Insecticide Serres seulement</td><td></td></tr>
+<tr><td>Encarsia citrina</td><td>Hyménoptères parasites</td><td>Insectes</td><td>Insecticide Serres seulement</td><td></td></tr>
+<tr><td>Encarsia formosa</td><td>Hyménoptères parasites</td><td>Insectes</td><td>Insecticide Serres seulement</td><td></td></tr>
+<tr><td>Ephedrus cerasicola</td><td>Hyménoptères parasites</td><td>Insectes</td><td>Insecticide Serres seulement</td><td></td></tr>
+<tr><td>Eretmocerus eremicus</td><td>Hyménoptères parasites</td><td>Insectes</td><td>Insecticide Serres seulement</td><td></td></tr>
+<tr><td>Eretmocerus mundus</td><td>Hyménoptères parasites</td><td>Insectes</td><td>Insecticide Serres seulement</td><td></td></tr>
+<tr><td>Eupeodes corollae</td><td>Diptères prédateurs</td><td>Insectes</td><td>Insecticide</td><td>x</td></tr>
+<tr><td>Exochomus quadripustulatus</td><td>Coléoptères prédateurs</td><td>Insectes</td><td>Insecticide</td><td></td></tr>
+<tr><td>Feltiella acarisuga</td><td>Cécidomyies prédatrices</td><td>Insectes</td><td>Insecticide Serres seulement</td><td></td></tr>
+<tr><td>Habrobracon hebetor</td><td>Hyménoptères parasites</td><td>Insectes</td><td>Insecticide Locaux de stockage et de transformation seulement</td><td></td></tr>
+<tr><td>Heterorhabditis bacteriophora</td><td>Nématodes entomoparasitiques</td><td>Nématodes</td><td>Insecticide</td><td>x</td></tr>
+<tr><td>Heterorhabditis downesi</td><td>Nématodes entomoparasitiques</td><td>Nématodes</td><td>Insecticide</td><td>x</td></tr>
+<tr><td>Heterorhabditis megidis</td><td>Nématodes entomoparasitiques</td><td>Nématodes</td><td>Insecticide</td><td>x</td></tr>
+<tr><td>Lariophagus distinguendus</td><td>Hyménoptères parasites</td><td>Insectes</td><td>Insecticide Locaux de stockage seulement</td><td></td></tr>
+<tr><td>Leptomastidea abnormis</td><td>Hyménoptères parasites</td><td>Insectes</td><td>Insecticide Serres seulement</td><td></td></tr>
+<tr><td>Leptomastix dactylopii</td><td>Hyménoptères parasites</td><td>Insectes</td><td>Insecticide Serres seulement</td><td></td></tr>
+<tr><td>Macrolophus pigmaeus</td><td>Punaises prédatrices</td><td>Insectes</td><td>Insecticide</td><td>x</td></tr>
+<tr><td>Metaphycus helvolus</td><td>Hyménoptères parasites</td><td>Insectes</td><td>Insecticide Serres seulement</td><td></td></tr>
+<tr><td>Micromus angulatus</td><td>Névroptères prédateurs</td><td>Insectes</td><td>Insecticide</td><td></td></tr>
+<tr><td>Microterys flavus</td><td>Hyménoptères parasites</td><td>Insectes</td><td>Insecticide Serres seulement</td><td></td></tr>
+<tr><td>Neoseiulus cucumeris (synonyme: Amblyseius cucumeris)</td><td>Acariens prédateurs</td><td>Acariens</td><td>Insecticide Serres seulement</td><td></td></tr>
+<tr><td>Orius laevigatus</td><td>Punaises prédatrices</td><td>Insectes</td><td>Insecticide Serres seulement</td><td></td></tr>
+<tr><td>Orius majusculus</td><td>Punaises prédatrices</td><td>Insectes</td><td>Insecticide Serres seulement</td><td></td></tr>
+<tr><td>Phasmarhabditis hermaphrodita</td><td>Nématodes parasitaires de mollusques</td><td>Nématodes</td><td>Molluscicide</td><td>x</td></tr>
+<tr><td>Phytoseiulus persimilis</td><td>Acariens prédateurs</td><td>Acariens</td><td>Insecticide</td><td>x</td></tr>
+<tr><td>Praon volucre</td><td>Hyménoptères parasites</td><td>Insectes</td><td>Insecticide Serres seulement</td><td></td></tr>
+<tr><td>Pronematus ubiquitus</td><td>Acariens prédateurs</td><td>Acariens</td><td>Acaricide Serres seulement</td><td></td></tr>
+<tr><td>Pseudaphycus maculipennis</td><td>Hyménoptères parasites</td><td>Insectes</td><td>Insecticide Serres seulement</td><td></td></tr>
+<tr><td>Rodolia cardinalis</td><td>Coléoptères prédateurs</td><td>Insectes</td><td>Insecticide Serres seulement</td><td></td></tr>
+<tr><td>Sphaerophoria rueppellii</td><td>Diptères prédateurs</td><td>Insectes</td><td>Insecticide</td><td></td></tr>
+<tr><td>Steinernema carpocapse</td><td>Nématodes entomoparasitiques</td><td>Nématodes</td><td>Insecticide</td><td></td></tr>
+<tr><td>Steinernema feltiae</td><td>Nématodes entomoparasitiques</td><td>Nématodes</td><td>Insecticide</td><td>x</td></tr>
+<tr><td>Stratiolaelaps scimitus</td><td>Acariens prédateurs</td><td>Acariens</td><td>Insecticide Serres seulement</td><td></td></tr>
+<tr><td>Transeius montdorensis (synonymes: Amblyseius montdorensis et Typhlodromips montdorensis)</td><td>Acariens prédateurs</td><td>Acariens</td><td>Insecticide, acaricide Serres seulement</td><td></td></tr>
+<tr><td>Trichogramma brassicae Bezdenko</td><td>Hyménoptères parasites</td><td>Insectes</td><td>Insecticide</td><td>x</td></tr>
+<tr><td>Trichogramma cacoeciae</td><td>Hyménoptères parasites</td><td>Insectes</td><td>Insecticide</td><td>x</td></tr>
+<tr><td>Trichogramma evanescens</td><td>Hyménoptères parasites</td><td>Insectes</td><td>Insecticide Locaux de stockage ou serres seulement</td><td></td></tr>
+<tr><td>Trichopria drosophilae</td><td>Hyménoptères parasites</td><td>Insectes</td><td>Insecticide</td><td></td></tr>
+<tr><td>Trissolcus basalis</td><td>Hyménoptères parasites</td><td>Insectes</td><td>Insecticide Serres seulement</td><td></td></tr>
+<tr><td>Typhlodromips swirskii</td><td>Acariens prédateurs</td><td>Acariens</td><td>Insecticide Serres seulement</td><td></td></tr>
 </table>
 
 Annexe 8

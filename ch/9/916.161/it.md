@@ -4,11 +4,11 @@ title: Ordinanza del 20 agosto 2025 sui prodotti fitosanitari (OPF)
 short: OPF
 eli: "https://fedlex.data.admin.ch/eli/cc/2025/565"
 language: it
-version: 2025-12-01
+version: 2026-06-15
 adopted: 2025-08-20
 in_force: 2025-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/565/20251201/it/xml/fedlex-data-admin-ch-eli-cc-2025-565-20251201-it-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2025/565/20251201/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/565/20260615/it/xml/fedlex-data-admin-ch-eli-cc-2025-565-20260615-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2025/565/20260615/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2025/565/20251201/it"
 
 (OPF)
 
-del 20 agosto 2025 (Stato 1° dicembre 2025)
+del 20 agosto 2025 (Stato 15 giugno 2026)
 
 Il Consiglio federale svizzero,
 
@@ -949,7 +949,7 @@ Per lo smaltimento, lo stoccaggio, l’immissione sul mercato e l’uso di prodo
 
 [^55-1]: [RS 813.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9396)
 
-## Sezione 10: Omologazione intesa a fronteggiare una situazione d’emergenza
+### Sezione 10: Omologazione intesa a fronteggiare una situazione d’emergenza
 
 #### Art. 56
 
@@ -1260,7 +1260,7 @@ Per la fornitura di prodotti fitosanitari si applicano per analogia anche gli ar
 - a. in riferimento all’articolo 58 OPChim, i prodotti fitosanitari sono considerati sostanze e preparati;
 - b. in riferimento alle altre disposizioni dell’OPChim, i prodotti fitosanitari sono considerati sostanze e preparati del gruppo 1 o sostanze e preparati del gruppo 2 a seconda dalla loro classificazione.
 
-[^77-1]: Entra in vigore il 1° gen. 2027 (art. 152 cpv. 2)
+[^77-1]: Entra in vigore il 1° gen. 2027 (art. 152 cpv. 2).
 [^77-2]: [RS 813.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9396)
 
 #### Art. 78
@@ -1729,9 +1729,9 @@ Chiunque esegua test di cui all’articolo 106 capoverso 1 lettera a, per ogni t
 
 **Trasmissione di dati al Servizio di omologazione e ai servizi di valutazione**
 
-Nella misura necessaria ai fini dell’esecuzione della presente ordinanza, le autorità e i servizi menzionati nell’articolo 74 OPChim[^112-1] trasmettono su domanda al Servizio di omologazione e ai servizi di valutazione i dati ivi menzionati.
+Nella misura necessaria ai fini dell’esecuzione della presente ordinanza, le autorità e i servizi menzionati nell’articolo 74 OPChim[^115-1] trasmettono su domanda al Servizio di omologazione e ai servizi di valutazione i dati ivi menzionati.
 
-[^112-1]: [RS 813.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9396)
+[^115-1]: [RS 813.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9396)
 
 #### Art. 113
 
@@ -1739,9 +1739,9 @@ Nella misura necessaria ai fini dell’esecuzione della presente ordinanza, le a
 
 <sup>1</sup> Il Servizio di omologazione e i servizi di valutazione mettono reciprocamente a disposizione, per quanto necessario per adempiere i loro compiti, i dati che hanno rilevato o fatto rilevare sulla base della presente ordinanza o di altri atti normativi che disciplinano la protezione dell’essere umano, degli animali e dell’ambiente da prodotti fitosanitari. A tal fine possono allestire procedure di richiamo automatizzate.
 
-<sup>2</sup> Per il resto si applica per analogia l’articolo 75 capoversi 2–5 OPChim[^113-1].
+<sup>2</sup> Per il resto si applica per analogia l’articolo 75 capoversi 2–5 OPChim[^116-1].
 
-[^113-1]: [RS 813.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9396)
+[^116-1]: [RS 813.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9396)
 
 #### Art. 114
 
@@ -1749,9 +1749,9 @@ Nella misura necessaria ai fini dell’esecuzione della presente ordinanza, le a
 
 <sup>1</sup> Il Servizio di omologazione e i servizi di valutazione possono trasmettere dati non confidenziali a istituzioni estere e a organizzazioni internazionali.
 
-<sup>2</sup> Le condizioni per la trasmissione di dati confidenziali sono disciplinate dall’articolo 76 capoverso 2 OPChim[^114-1].
+<sup>2</sup> Le condizioni per la trasmissione di dati confidenziali sono disciplinate dall’articolo 76 capoverso 2 OPChim[^117-1].
 
-[^114-1]: [RS 813.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9396)
+[^117-1]: [RS 813.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9396)
 
 ## Titolo ottavo: Informazione al pubblico
 
@@ -1779,7 +1779,7 @@ Le informazioni sui prodotti fitosanitari omologati e sui prodotti fitosanitari 
 - d. il tipo di formulazione;
 - e.
 
-  le seguenti informazioni conformemente al regolamento (CE) n. 1272/2008[^115-1] se pertinenti:
+  le seguenti informazioni conformemente al regolamento (CE) n. 1272/2008[^118-1] se pertinenti:
 
   - 1\. l’avvertenza che risulta dalla classificazione secondo l’allegato 1 parti 2–5,
   - 2\. le indicazioni di pericolo e la categoria secondo l’allegato 3,
@@ -1806,18 +1806,18 @@ Il Servizio di omologazione può pubblicare valutazioni e rapporti:
 - a. sull’omologazione di un prodotto fitosanitario e sul rinnovo dell’omologazione;
 - b. sull’approvazione di una sostanza attiva, un fitoprotettore o un sinergizzante e sul rinnovo dell’approvazione.
 
-<sup>5</sup> Le informazioni di cui ai capoversi 1 e 2 sono riportate periodicamente nel registro dei prodotti di cui all’articolo 72 OPChim[^115-2].
+<sup>5</sup> Le informazioni di cui ai capoversi 1 e 2 sono riportate periodicamente nel registro dei prodotti di cui all’articolo 72 OPChim[^118-2].
 
-[^115-1]: Cfr. nota a piè di pagina relativa all’art. 57 cpv. 3 lett. b.
-[^115-2]: [RS 813.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9396)
+[^118-1]: Cfr. nota a piè di pagina relativa all’art. 57 cpv. 3 lett. b.
+[^118-2]: [RS 813.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9396)
 
 #### Art. 116
 
 **Elenco delle sostanze attive che non possono essere utilizzate nelle zone di protezione delle acque sotterranee e nelle regioni carsiche**
 
-Il Servizio di omologazione pubblica un elenco delle sostanze attive che non possono essere utilizzate nelle zone S2 e S<sub>h</sub> di protezione delle acque sotterranee secondo l’allegato 4 numeri 123 e 125 OPAc[^116-1] e nelle regioni carsiche.
+Il Servizio di omologazione pubblica un elenco delle sostanze attive che non possono essere utilizzate nelle zone S2 e S<sub>h</sub> di protezione delle acque sotterranee secondo l’allegato 4 numeri 123 e 125 OPAc[^119-1] e nelle regioni carsiche.
 
-[^116-1]: [RS 814.201](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9478)
+[^119-1]: [RS 814.201](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9478)
 
 #### Art. 117
 
@@ -1936,7 +1936,7 @@ L’archiviazione dei dati registrati nel sistema d’informazione è retta dall
 
 <sup>1</sup> Sul piano amministrativo e tecnico, il Servizio di omologazione per i prodotti fitosanitari è aggregato all’USAV.
 
-<sup>2</sup> La direzione strategica del Servizio di omologazione è assunta dal comitato di direzione conformemente all’articolo 77 OPChim[^126-1].
+<sup>2</sup> La direzione strategica del Servizio di omologazione è assunta dal comitato di direzione conformemente all’articolo 77 OPChim[^141-1].
 
 <sup>3</sup>
 
@@ -1947,7 +1947,7 @@ Il comitato di direzione ha i compiti e le competenze seguenti:
 
 <sup>4</sup> Il comitato di direzione decide all’unanimità.
 
-[^126-1]: [RS 813.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9396)
+[^141-1]: [RS 813.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9396)
 
 #### Art. 127
 
@@ -2304,11 +2304,13 @@ Un prodotto fitosanitario è omologato per un uso non professionale se, oltre al
 
 [^annex2-lvlu1-1]: Cfr. nota a piè di pagina relativa all’art. 57 cpv. 3 lett. b.
 
-Allegato 3
+Allegato 3[^t-1]
 
 (art. 26, 30 e 38 cpv. 4)
 
 ## Fascicolo per l’omologazione di un prodotto fitosanitario o per il rinnovo dell’omologazione
+
+[^t-1]: Aggiornato dalla cifra I cpv. 1 dell’O dell’USAV del 1° mag. 2026, in vigore dal 15 giu. 2026 ([RU 2026 205](https://fedlex.data.admin.ch/eli/oc/2026/205)).
 
 ### 1 Omologazione
 
@@ -2322,7 +2324,21 @@ Allegato 3
   - – le informazioni di cui all’allegato del regolamento (UE) n. 284/2013[^annex3-lvlu1-lvl1-lvl11-2]; e
   - – l’informazione sulla classificazione ed etichettatura prevista del prodotto fitosanitario secondo l’articolo 70.
 
-- 1\.1.2 Per i prodotti fitosanitari contenenti nanomateriali di cui all’articolo 2 capoverso 2 lettera q OPChim[^annex3-lvlu1-lvl1-lvl11-3], il fascicolo deve inoltre contenere le informazioni di cui all’allegato 3 numero 1.2.3.
+- 1\.1.2
+
+  Per i prodotti fitosanitari contenenti nanomateriali di cui all**’**articolo 2 capoverso 2 lettera q OPChim[^annex3-lvlu1-lvl1-lvl11-3], il fascicolo deve inoltre contenere le informazioni seguenti:
+
+  - – la composizione del nanomateriale;
+  - – la forma delle particelle;
+  - – la grandezza media dei granuli; e
+  - –
+
+    se disponibili:
+
+    - 1\. la distribuzione dimensionale numerica,
+    - 2\. il rapporto superficie-volume, e
+    - 3\. lo stato di aggregazione, il rivestimento e la funzionalizzazione di superficie.
+
 - 1\.1.3 Le espressioni e gli atti normativi qui appresso utilizzati nell’allegato del regolamento (UE) n. 284/2013 hanno gli equivalenti seguenti:
 
 <table>
@@ -2342,11 +2358,11 @@ Allegato 3
 [^annex3-lvlu1-lvl1-lvl11-4]: [RS 455](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7197)
 [^annex3-lvlu1-lvl1-lvl11-5]: [RS 813.112.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9397)
 
-### 1.2. Fascicolo per le sostanze attive, i fitoprotettori e i sinergizzanti contenuti nel prodotto fitosanitario
+### 1.2 Fascicolo per le sostanze attive, i fitoprotettori e i sinergizzanti contenuti nel prodotto fitosanitario
 
 - 1\.2.1
 
-  Il fascicolo per ogni sostanza attiva, fitoprotettore e sinergizzante contenuto nel prodotto fitosanitario, che è considerato approvato ma non è ancora contenuto in alcun prodotto fitosanitario omologato o per cui esiste una protezione delle relazioni ai sensi degli articoli 72–74, deve contenere:
+  Il fascicolo per ogni sostanza attiva, fitoprotettore e sinergizzante contenuto nel prodotto fitosanitario, che è considerato approvato ma non è ancora contenuto in alcun prodotto fitosanitario omologato o per cui esiste una protezione delle relazioni ai sensi degli articoli 62–65, deve contenere:
 
   - – le informazioni riportate nell’articolo 8 del regolamento (CE) n. 1107/2009; e
   - – le informazioni riportate nell’allegato del regolamento (EU) n. 283/2013[^annex3-lvlu1-lvl1-lvl12-1] secondo le corrispondenti linee guida dell’UE.
@@ -2392,7 +2408,7 @@ Il fascicolo allegato alla domanda di rinnovo dell’omologazione di un prodotto
 - – i dati necessari all’identificazione e alla caratterizzazione del prodotto fitosanitario, compresa la sua composizione completa; e
 - – i dati necessari all’identificazione e alla caratterizzazione di tutte le sostanze attive, tutti i fitoprotettori e i sinergizzanti contenuti nel prodotto fitosanitario.
 
-### 2.2. Fascicolo per le sostanze attive, i fitoprotettori e i sinergizzanti contenuti nel prodotto fitosanitario
+### 2.2 Fascicolo per le sostanze attive, i fitoprotettori e i sinergizzanti contenuti nel prodotto fitosanitario
 
 Il fascicolo per ogni sostanza attiva, fitoprotettore e sinergizzante contenuto nel prodotto fitosanitario deve includere le informazioni di cui all’articolo 6 del regolamento di esecuzione (UE) n. 2020/1740[^annex3-lvlu1-lvl2-lvl22-1].
 
@@ -2402,7 +2418,7 @@ Il fascicolo per ogni sostanza attiva, fitoprotettore e sinergizzante contenuto 
 
 In deroga ai numeri 1.1 e 1.2, nei tipi di domanda seguenti per il fascicolo sono necessarie solo le informazioni riportate nelle tabelle sottostanti:
 
-- A: Omologazione di un nuovo prodotto o prodotto identico a un prodotto fitosanitario già omologato per il quale non è ancora scaduta la protezione delle relazioni.
+- A: Omologazione di un nuovo prodotto o prodotto identico a un prodotto fitosanitario già omologato per il quale è scaduta la protezione delle relazioni.
 - B: Estensione dell’omologazione di un prodotto fitosanitario.
 - C: Estensione dell’omologazione per un uso minore secondo l’articolo 17.
 - EK: Modifica della classificazione e dell’etichettatura di un prodotto fitosanitario già omologato a causa di un adeguamento delle disposizioni determinanti per la classificazione e l’etichettatura.
@@ -2443,7 +2459,7 @@ In deroga ai numeri 1.1 e 1.2, nei tipi di domanda seguenti per il fascicolo son
 <tr><td>8 Residui in o su prodotti, derrate alimentari e alimenti per animali trattati</td><td>x</td><td>x</td><td></td><td></td><td></td><td></td></tr>
 <tr><td>9 Destino e comportamento nell’ambiente</td><td>x</td><td>x</td><td></td><td></td><td></td><td></td></tr>
 <tr><td>10 Effetti sugli organismi non bersaglio</td><td>x</td><td>x</td><td></td><td></td><td></td><td></td></tr>
-<tr><td>11 Classificazione ed etichettatura</td><td></td><td></td><td></td><td>x</td><td></td><td></td></tr>
+<tr><td>11 Classificazione ed etichettatura</td><td>x</td><td></td><td></td><td>x</td><td></td><td>x</td></tr>
 </table>
 
 Allegato 4
@@ -2505,7 +2521,7 @@ Allegato 6
 
 ## Indicazioni sugli imballaggi dei prodotti fitosanitari
 
-### 1. Indicazioni sull’etichetta o stampate sulla confezione
+### 1 Indicazioni sull’etichetta o stampate sulla confezione
 
 \1. Ogni imballaggio di un prodotto fitosanitario deve recare in modo chiaramente leggibile e indelebile, su un’etichetta o stampate sulla confezione, le seguenti indicazioni:
 
@@ -2545,7 +2561,7 @@ Allegato 6
 
 [^annex6-lvlu1-lvl1-1]: La norma SN EN ISO 7010, 2019, Raccolta segnaletica di sicurezza può essere ottenuta a pagamento presso l’Organisation internationale de normalisation (ISO), Secrétariat central, Chemin de Blandonnet 8, CP 401, 1214 Vernier, www.iso.org.
 
-### 2. Indicazioni sul foglio illustrativo
+### 2 Indicazioni sul foglio illustrativo
 
 - 2\. Se la superficie disponibile sull’imballaggio non è sufficiente, le seguenti indicazioni possono essere riportate su un foglio illustrativo:
 - 2\.1
@@ -2568,63 +2584,78 @@ Allegato 6
 - 2\.3 le indicazioni relative all’eventuale fitotossicità, alla sensibilità varietale e a ogni altro effetto secondario negativo diretto o indiretto sulle piante o sui prodotti di origine vegetale, nonché agli intervalli di sicurezza da osservare tra l’applicazione e la semina o la piantagione della coltura in questione o delle colture successive e adiacenti;
 - 2\.4 le istruzioni per lo stoccaggio e lo smaltimento del prodotto fitosanitario e dell’imballaggio.
 
-Allegato 7
+Allegato 7[^t-2]
 
 (art. 94 cpv. 2, 97 cpv. 2, 98 cpv. 2 e 103 cpv. 2)
 
 ## Organismi ausiliari approvati
 
+[^t-2]: Nuovo testo giusta la cifra I cpv. 2 dell’O dell’USAV del 1° mag. 2026, in vigore dal 15 giu. 2026 ([RU 2026 205](https://fedlex.data.admin.ch/eli/oc/2026/205)).
+
 I seguenti organismi ausiliari sono approvati fino alle date menzionate per i seguenti usi previsti e alle seguenti condizioni e restrizioni:
 
 <table>
-<tr><th>Nome comune, numero d’identificazione</th><th>Descrizione</th><th>Organismo da combattere</th><th>Scadenza dell’approvazione</th><th>Uso previsto, condizioni e restrizioni</th><th>Sostanza attiva a basso rischio</th></tr>
-<tr><td>Adalia bipunctata</td><td>Coleottero predatore</td><td>Insetti</td><td>01.07.2036</td><td>insetticida</td><td>x</td></tr>
-<tr><td>Amblyseius californicus</td><td>Acaro predatore</td><td>Acari</td><td>01.07.2038</td><td>insetticida</td><td>x</td></tr>
-<tr><td>Amblyseius degenerans</td><td>Acaro predatore</td><td>Acari</td><td>01.07.2036</td><td>insetticida</td><td>x</td></tr>
-<tr><td>Anisopteromalus calandrae</td><td>Imenottero parassita</td><td>Insetti</td><td>01.02.2031</td><td>insetticida solo in locali di stoccaggio e per la lavorazione</td><td></td></tr>
-<tr><td>Anthocoris nemoralis</td><td>Cimice predatrice</td><td>Insetti</td><td>01.07.2036</td><td>insetticida</td><td>x</td></tr>
-<tr><td>Aphelinus abdominalis</td><td>Imenottero parassita</td><td>Insetti</td><td>01.07.2031</td><td>insetticida solo in serra</td><td></td></tr>
-<tr><td>Aphidius colemani</td><td>Imenottero parassita</td><td>Insetti</td><td>01.07.2031</td><td>insetticida solo in serra</td><td></td></tr>
-<tr><td>Aphidius ervi</td><td>Imenottero parassita</td><td>Insetti</td><td>01.07.2031</td><td>insetticida solo in serra</td><td></td></tr>
-<tr><td>Aphidius matricariae</td><td>Imenottero parassita</td><td>Insetti</td><td>01.01.2031</td><td>insetticida solo in serra</td><td></td></tr>
-<tr><td>Aphidoletes aphidimyza</td><td>Dittero predatore</td><td>Insetti</td><td>01.07.2032</td><td>insetticida solo in serra</td><td></td></tr>
-<tr><td>Chrysoperla carnea</td><td>Neurottero predatore</td><td>Insetti</td><td>01.02.2036</td><td>insetticida</td><td>x</td></tr>
-<tr><td>Coccophagus scutellaris</td><td>Imenottero parassita</td><td>Insetti</td><td>01.01.2032</td><td>insetticida solo in serra</td><td></td></tr>
-<tr><td>Cryptolaemus montrouzieri</td><td>Coleottero predatore</td><td>Insetti</td><td>01.07.2036</td><td>insetticida</td><td>x</td></tr>
-<tr><td>Dacnusa sibirica</td><td>Imenottero parassita</td><td>Insetti</td><td>01.07.2032</td><td>insetticida solo in serra</td><td></td></tr>
-<tr><td>Diglyphus isaea</td><td>Imenottero parassita</td><td>Insetti</td><td>01.07.2030</td><td>insetticida solo in serra</td><td></td></tr>
-<tr><td>Encarsia formosa</td><td>Imenottero parassita</td><td>Insetti</td><td>01.01.2032</td><td>insetticida solo in serra</td><td></td></tr>
-<tr><td>Ephedrus cerasicola</td><td>Imenottero parassita</td><td>Insetti</td><td>01.01.2032</td><td>insetticida solo in serra</td><td></td></tr>
-<tr><td>Eretmocerus eremicus</td><td>Imenottero parassita</td><td>Insetti</td><td>01.07.2032</td><td>insetticida solo in serra</td><td></td></tr>
-<tr><td>Eretmocerus mundus</td><td>Imenottero parassita</td><td>Insetti</td><td>01.07.2033</td><td>insetticida solo in serra</td><td></td></tr>
-<tr><td>Eupeodes corollae</td><td>Dittero predatore</td><td>Insetti</td><td>01.01.2033</td><td>insetticida</td><td>x</td></tr>
-<tr><td>Feltiella acarisuga</td><td>Cecidomide predatrice</td><td>Insetti</td><td>01.07.2033</td><td>insetticida solo in serra</td><td></td></tr>
-<tr><td>Habrobracon hebetor</td><td>Imenottero parassita</td><td>Insetti</td><td>01.07.2033</td><td>insetticida solo per la protezione delle scorte</td><td></td></tr>
-<tr><td>Heterorhabditis bacteriophora</td><td>Nematode entomoparassita</td><td>Nematodi</td><td>01.07.2037</td><td>insetticida</td><td>x</td></tr>
-<tr><td>Heterorhabditis megidis</td><td>Nematode entomoparassita</td><td>Nematodi</td><td>01.07.2037</td><td>insetticida</td><td>x</td></tr>
-<tr><td>Heterorhabditis downesi</td><td>Nematode entomoparassita</td><td>Nematodi</td><td>01.07.2037</td><td>insetticida</td><td>x</td></tr>
-<tr><td>Lariophagus distinguendus</td><td>Imenottero parassita</td><td>Insetti</td><td>01.07.2033</td><td>insetticida solo per la protezione delle scorte</td><td></td></tr>
-<tr><td>Leptomastidea abnormis</td><td>Imenottero parassita</td><td>Insetti</td><td>01.07.2033</td><td>insetticida solo in serra</td><td></td></tr>
-<tr><td>Leptomastix dactylopii</td><td>Imenottero parassita</td><td>Insetti</td><td>01.07.2033</td><td>insetticida solo in serra</td><td></td></tr>
-<tr><td>Macrolophus pigmaeus</td><td>Cimice predatrice</td><td>Insetti</td><td>01.01.2037</td><td>insetticida</td><td>x</td></tr>
-<tr><td>Metaphycus helvolus</td><td>Imenottero parassita</td><td>Insetti</td><td>01.07.2034</td><td>insetticida solo in serra</td><td></td></tr>
-<tr><td>Microterys flavus</td><td>Imenottero parassita</td><td>Insetti</td><td>01.07.2034</td><td>insetticida solo in serra</td><td></td></tr>
-<tr><td>Neoseiulus cucumeris (sinonimo: Amblyseius cucumeris)</td><td>Acaro predatore</td><td>Acari</td><td>01.01.2034</td><td>insetticida solo in serra</td><td></td></tr>
-<tr><td>Orius laevigatus</td><td>Cimice predatrice</td><td>Insetti</td><td>01.07.2034</td><td>insetticida solo in serra</td><td></td></tr>
-<tr><td>Orius majusculus</td><td>Cimice predatrice</td><td>Insetti</td><td>01.07.2034</td><td>insetticida solo in serra</td><td></td></tr>
-<tr><td>Phasmarhabditis hermaphrodita</td><td>Nematode parassita di molluschi</td><td>Nematodi</td><td>01.07.2037</td><td>molluschicida</td><td>x</td></tr>
-<tr><td>Phytoseiulus persimilis</td><td>Acaro predatore</td><td>Acari</td><td>01.07.2038</td><td>insetticida</td><td>x</td></tr>
-<tr><td>Praon volucre</td><td>Imenottero parassita</td><td>Insetti</td><td>01.01.2034</td><td>insetticida solo in serra</td><td></td></tr>
-<tr><td>Pseudaphycus maculipennis</td><td>Imenottero parassita</td><td>Insetti</td><td>01.07.2035</td><td>insetticida solo in serra</td><td></td></tr>
-<tr><td>Rodolia cardinalis</td><td>Coleottero predatore</td><td>Insetti</td><td>01.07.2035</td><td>insetticida solo in serra</td><td></td></tr>
-<tr><td>Steinernema carpocapsae all strain</td><td>Nematode entomoparassita</td><td>Nematodi</td><td>01.07.2035</td><td>insetticida</td><td></td></tr>
-<tr><td>Steinernema feltiae</td><td>Nematode entomoparassita</td><td>Nematodi</td><td>01.07.2038</td><td>insetticida</td><td>x</td></tr>
-<tr><td>Stratiolaelaps scimitus</td><td>Acaro predatore</td><td>Acari</td><td>01.01.2035</td><td>insetticida solo in serra</td><td></td></tr>
-<tr><td>Transeius montdorensis (sinonimi: Amblyseius montdorensis e Typhlodromips montdorensis)</td><td>Acaro predatore</td><td>Acari</td><td>01.07.2035</td><td>insetticida, acaricida solo in serra</td><td></td></tr>
-<tr><td>Trichogramma brassicae Bezdenko</td><td>Imenottero parassita</td><td>Insetti</td><td>01.07.2038</td><td>insetticida</td><td>x</td></tr>
-<tr><td>Trichogramma cacoeciae</td><td>Imenottero parassita</td><td>Insetti</td><td>01.07.2038</td><td>insetticida</td><td>x</td></tr>
-<tr><td>Trichogramma evanescens</td><td>Imenottero parassita</td><td>Insetti</td><td>01.07.2035</td><td>insetticida solo in locali di stoccaggio o in serra</td><td></td></tr>
-<tr><td>Typhlodromips swirskii</td><td>Acaro predatore</td><td>Acari</td><td>01.07.2035</td><td>insetticida solo in serra</td><td></td></tr>
+<tr><th>Nome comune, numero d’identificazione</th><th>Descrizione</th><th>Organismo da combattere</th><th>Uso previsto, condizioni e restrizioni</th><th>Sostanza attiva a basso rischio</th></tr>
+<tr><td>Adalia bipunctata</td><td>Coleottero predatore</td><td>Insetti</td><td>insetticida</td><td>x</td></tr>
+<tr><td>Amblyseius andersoni</td><td>Acaro predatore</td><td>Acari</td><td>insetticida, acaricida</td><td></td></tr>
+<tr><td>Amblyseius californicus</td><td>Acaro predatore</td><td>Acari</td><td>insetticida</td><td>x</td></tr>
+<tr><td>Amblyseius degenerans</td><td>Acaro predatore</td><td>Acari</td><td>insetticida</td><td>x</td></tr>
+<tr><td>Anagyrus vladimiri</td><td>Imenottero parassita</td><td>Insetti</td><td>insetticida</td><td></td></tr>
+<tr><td>Anastatus bifasciatus</td><td>Imenottero parassita</td><td>Insetti</td><td>insetticida</td><td></td></tr>
+<tr><td>Anisopteromalus calandrae</td><td>Imenottero parassita</td><td>Insetti</td><td>insetticida solo in locali di stoccaggio e per la lavorazione</td><td></td></tr>
+<tr><td>Anthocoris nemoralis</td><td>Cimice predatrice</td><td>Insetti</td><td>insetticida</td><td>x</td></tr>
+<tr><td>Aphelinus abdominalis</td><td>Imenottero parassita</td><td>Insetti</td><td>insetticida solo in serra</td><td></td></tr>
+<tr><td>Aphidius colemani</td><td>Imenottero parassita</td><td>Insetti</td><td>insetticida solo in serra</td><td></td></tr>
+<tr><td>Aphidius ervi</td><td>Imenottero parassita</td><td>Insetti</td><td>insetticida solo in serra</td><td></td></tr>
+<tr><td>Aphidius matricariae</td><td>Imenottero parassita</td><td>Insetti</td><td>insetticida solo in serra</td><td></td></tr>
+<tr><td>Aphidoletes aphidimyza</td><td>Dittero predatore</td><td>Insetti</td><td>insetticida solo in serra</td><td></td></tr>
+<tr><td>Aphytis melinus</td><td>Imenottero parassita</td><td>Insetti</td><td>Insetticida solo in serra</td><td></td></tr>
+<tr><td>Cephalonomia tarsalis</td><td>Imenottero parassita</td><td>Insetti</td><td>insetticida solo in locali di stoccaggio e per la lavorazione</td><td></td></tr>
+<tr><td>Chrysoperla carnea</td><td>Neurottero predatore</td><td>Insetti</td><td>insetticida</td><td>x</td></tr>
+<tr><td>Chrysoperla lucasina</td><td>Neurottero predatore</td><td>Insetti</td><td>insetticida</td><td></td></tr>
+<tr><td>Coccophagus scutellaris</td><td>Imenottero parassita</td><td>Insetti</td><td>insetticida solo in serra</td><td></td></tr>
+<tr><td>Cryptolaemus montrouzieri</td><td>Coleottero predatore</td><td>Insetti</td><td>insetticida</td><td>x</td></tr>
+<tr><td>Dacnusa sibirica</td><td>Imenottero parassita</td><td>Insetti</td><td>insetticida solo in serra</td><td></td></tr>
+<tr><td>Diglyphus isaea</td><td>Imenottero parassita</td><td>Insetti</td><td>insetticida solo in serra</td><td></td></tr>
+<tr><td>Encarsia citrina</td><td>Imenottero parassita</td><td>Insetti</td><td>insetticida solo in serra</td><td></td></tr>
+<tr><td>Encarsia formosa</td><td>Imenottero parassita</td><td>Insetti</td><td>insetticida solo in serra</td><td></td></tr>
+<tr><td>Ephedrus cerasicola</td><td>Imenottero parassita</td><td>Insetti</td><td>insetticida solo in serra</td><td></td></tr>
+<tr><td>Eretmocerus eremicus</td><td>Imenottero parassita</td><td>Insetti</td><td>insetticida solo in serra</td><td></td></tr>
+<tr><td>Eretmocerus mundus</td><td>Imenottero parassita</td><td>Insetti</td><td>insetticida solo in serra</td><td></td></tr>
+<tr><td>Eupeodes corollae</td><td>Dittero predatore</td><td>Insetti</td><td>insetticida</td><td>x</td></tr>
+<tr><td>Exochomus quadripustulatus</td><td>Dittero predatore</td><td>Insetti</td><td>insetticida</td><td></td></tr>
+<tr><td>Feltiella acarisuga</td><td>Cecidomide predatrice</td><td>Insetti</td><td>insetticida solo in serra</td><td></td></tr>
+<tr><td>Habrobracon hebetor</td><td>Imenottero parassita</td><td>Insetti</td><td>insetticida solo in locali di stoccaggio e per la lavorazione</td><td></td></tr>
+<tr><td>Heterorhabditis bacteriophora</td><td>Nematode entomoparassita</td><td>Nematodi</td><td>insetticida</td><td>x</td></tr>
+<tr><td>Heterorhabditis downesi</td><td>Nematode entomoparassita</td><td>Nematodi</td><td>insetticida</td><td>x</td></tr>
+<tr><td>Heterorhabditis megidis</td><td>Nematode entomoparassita</td><td>Nematodi</td><td>insetticida</td><td>x</td></tr>
+<tr><td>Lariophagus distinguendus</td><td>Imenottero parassita</td><td>Insetti</td><td>insetticida solo in locali di stoccaggio</td><td></td></tr>
+<tr><td>Leptomastidea abnormis</td><td>Imenottero parassita</td><td>Insetti</td><td>insetticida solo in serra</td><td></td></tr>
+<tr><td>Leptomastix dactylopii</td><td>Imenottero parassita</td><td>Insetti</td><td>insetticida solo in serra</td><td></td></tr>
+<tr><td>Macrolophus pigmaeus</td><td>Cimice predatrice</td><td>Insetti</td><td>insetticida</td><td>x</td></tr>
+<tr><td>Metaphycus helvolus</td><td>Imenottero parassita</td><td>Insetti</td><td>insetticida solo in serra</td><td></td></tr>
+<tr><td>Micromus angulatus</td><td>Neurottero predatore</td><td>Insetti</td><td>insetticida</td><td></td></tr>
+<tr><td>Microterys flavus</td><td>Imenottero parassita</td><td>Insetti</td><td>insetticida solo in serra</td><td></td></tr>
+<tr><td>Neoseiulus cucumeris (sinonimo: Amblyseius cucumeris)</td><td>Acaro predatore</td><td>Acari</td><td>insetticida solo in serra</td><td></td></tr>
+<tr><td>Orius laevigatus</td><td>Cimice predatrice</td><td>Insetti</td><td>insetticida solo in serra</td><td></td></tr>
+<tr><td>Orius majusculus</td><td>Cimice predatrice</td><td>Insetti</td><td>insetticida solo in serra</td><td></td></tr>
+<tr><td>Phasmarhabditis hermaphrodita</td><td>Nematode parassita di molluschi</td><td>Nematodi</td><td>molluschicida</td><td>x</td></tr>
+<tr><td>Phytoseiulus persimilis</td><td>Acaro predatore</td><td>Acari</td><td>insetticida</td><td>x</td></tr>
+<tr><td>Praon volucre</td><td>Imenottero parassita</td><td>Insetti</td><td>insetticida solo in serra</td><td></td></tr>
+<tr><td>Pronematus ubiquitus</td><td>Acaro predatore</td><td>Acari</td><td>Acaricida solo in serra</td><td></td></tr>
+<tr><td>Pseudaphycus maculipennis</td><td>Imenottero parassita</td><td>Insetti</td><td>insetticida solo in serra</td><td></td></tr>
+<tr><td>Rodolia cardinalis</td><td>Coleottero predatore</td><td>Insetti</td><td>insetticida solo in serra</td><td></td></tr>
+<tr><td>Sphaerophoria rueppellii</td><td>Dittero predatore</td><td>Insetti</td><td>insetticida</td><td></td></tr>
+<tr><td>Steinernema carpocapsae</td><td>Nematode entomoparassita</td><td>Nematodi</td><td>insetticida</td><td></td></tr>
+<tr><td>Steinernema feltiae</td><td>Nematode entomoparassita</td><td>Nematodi</td><td>insetticida</td><td>x</td></tr>
+<tr><td>Stratiolaelaps scimitus</td><td>Acaro predatore</td><td>Acari</td><td>insetticida solo in serra</td><td></td></tr>
+<tr><td>Transeius montdorensis (sinonimi: Amblyseius montdorensis e Typhlodromips montdorensis)</td><td>Acaro predatore</td><td>Acari</td><td>insetticida, acaricida solo in serra</td><td></td></tr>
+<tr><td>Trichogramma brassicae Bezdenko</td><td>Imenottero parassita</td><td>Insetti</td><td>insetticida</td><td>x</td></tr>
+<tr><td>Trichogramma cacoeciae</td><td>Imenottero parassita</td><td>Insetti</td><td>insetticida</td><td>x</td></tr>
+<tr><td>Trichogramma evanescens</td><td>Imenottero parassita</td><td>Insetti</td><td>insetticida solo in locali di stoccaggio o in serra</td><td></td></tr>
+<tr><td>Trichopria drosophilae</td><td>Imenottero parassita</td><td>Insetti</td><td>insetticida</td><td></td></tr>
+<tr><td>Trissolcus basalis</td><td>Imenottero parassita</td><td>Insetti</td><td>Insetticida solo in serra</td><td></td></tr>
+<tr><td>Typhlodromips swirskii</td><td>Acaro predatore</td><td>Acari</td><td>insetticida solo in serra</td><td></td></tr>
 </table>
 
 Allegato 8
