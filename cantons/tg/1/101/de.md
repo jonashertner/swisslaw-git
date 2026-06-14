@@ -4,13 +4,12 @@ number: "101"
 title: Verfassung des Kantons Thurgau
 short: KV
 language: de
-version: 2019-05-20
-valid_until: 2026-06-14
-version_adopted: 2019-05-19
+version: 2026-06-15
+version_adopted: 2025-10-22
 adopted: 1987-03-16
 in_force: 1990-01-01
 url: "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/101"
-pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2498/pdf_file"
+pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/3035/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons TG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ KV
 
 (KV)
 
-vom 16.03.1987 (Stand 20.05.2019)
+vom 16.03.1987 (Stand 15.06.2026)
 
 ## 1. Stellung des Kantons
 
@@ -219,11 +218,13 @@ vom 16.03.1987 (Stand 20.05.2019)
 
 **Volksabstimmung über Finanzbeschlüsse**
 
-<sup>1</sup> Beschlüsse des Grossen Rates, die neue einmalige Ausgaben von mehr als Fr. 3'000'000 oder neue jährlich wiederkehrende Ausgaben von mehr als Fr. 600'000 vorsehen, unterliegen der Volksabstimmung.
+<sup>1</sup> Beschlüsse des Grossen Rates, die neue einmalige Ausgaben von mehr als Fr. 6'000'000 oder neue jährlich wiederkehrende Ausgaben von mehr als Fr. 1'200'000 vorsehen, unterliegen der Volksabstimmung.
 
-<sup>2</sup> Beschlüsse, die neue einmalige Ausgaben von mehr als Fr. 1'000'000 oder neue jährlich wiederkehrende Ausgaben von mehr als Fr. 200'000 vorsehen, unterliegen der Volksabstimmung, wenn 2'000 Stimmberechtigte dies innert drei Monaten seit der Veröffentlichung verlangen.
+<sup>2</sup> Beschlüsse, die neue einmalige Ausgaben von mehr als Fr. 2'000'000 oder neue jährlich wiederkehrende Ausgaben von mehr als Fr. 400'000 vorsehen, unterliegen der Volksabstimmung, wenn 2'000 Stimmberechtigte dies innert drei Monaten seit der Veröffentlichung verlangen.
 
 <sup>3</sup> Beschlüsse über Ausgaben, die durch Bundesrecht oder durch Gesetz in Zweck und Umfang notwendig vorbestimmt sind, unterliegen nicht der Volksabstimmung.
+
+<sup>4</sup> Das Gesetz kann dem Grossen Rat oder dem Regierungsrat die endgültige Befugnis zu Ausgaben übertragen, sofern die Ermächtigung auf ein bestimmtes Gebiet beschränkt ist. Ermächtigungen des Regierungsrates müssen betreffend Inhalt und Umfang im Gesetz bestimmt werden.
 
 #### § 24
 
@@ -453,7 +454,7 @@ vom 16.03.1987 (Stand 20.05.2019)
 
 <sup>2</sup> Er beschliesst über die Aufnahme von Krediten oder Darlehen und über Erwerb oder Veräusserung von dinglichen Rechten an Grundstücken bis zu Fr. 500'000.
 
-<sup>3</sup> Er beschliesst über neue einmalige Ausgaben bis zu Fr. 100'000 und über neue jährlich wiederkehrende Ausgaben bis zu Fr. 20'000.
+<sup>3</sup> Er beschliesst über neue einmalige Ausgaben bis zu Fr. 200'000 und über neue jährlich wiederkehrende Ausgaben bis zu Fr. 40'000.
 
 #### § 46
 
