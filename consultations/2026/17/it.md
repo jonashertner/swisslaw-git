@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "25.434 Diritti d'autore. Per una gestione trasparente dei diritti durante i concerti"
 document: Progetto posto in consultazione
 language: it

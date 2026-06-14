@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: 25.434 Urheberrechte. Für eine klare Rechteverwertung bei Konzerten
 document: Vernehmlassungsvorlage
 language: de

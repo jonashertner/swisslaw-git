@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "25.434 Droits d'auteur. Pour une gestion claire des droits lors de concerts"
 document: Projet mis en consultation
 language: fr
