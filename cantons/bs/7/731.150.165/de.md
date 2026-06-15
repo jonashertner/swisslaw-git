@@ -4,13 +4,12 @@ number: "731.150.165"
 title: "Bebauungsplan 165: Basel Bahnhof St. Johann / Voltastrasse"
 short: BP 165
 language: de
-version: 2018-12-03
-valid_until: 2026-06-15
-version_adopted: 2018-05-16
+version: 2026-06-16
+version_adopted: 2026-06-16
 adopted: 2018-05-16
 in_force: 2018-12-03
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/731.150.165"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6979/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6980/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ Bebauungspläne und spezielle Bauvorschriften
 
 (BP 165)
 
-Vom 16. Mai 2018 (Stand 3. Dezember 2018)
+Vom 16. Mai 2018 (Stand 16. Juni 2026)
 
 Der Grosse Rat des Kantons Basel-Stadt,
 
