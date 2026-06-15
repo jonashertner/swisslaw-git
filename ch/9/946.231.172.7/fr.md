@@ -3,18 +3,18 @@ sr: "946.231.172.7"
 title: "Ordonnance du 8 juin 2012 instituant des mesures à l'encontre de la Syrie"
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/394"
 language: fr
-version: 2025-10-08
+version: 2026-06-16
 adopted: 2012-06-08
 in_force: 2012-06-09
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/394/20251008/fr/xml/fedlex-data-admin-ch-eli-cc-2012-394-20251008-fr-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/394/20251008/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/394/20260616/fr/xml/fedlex-data-admin-ch-eli-cc-2012-394-20260616-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/394/20260616/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance instituant des mesures à l’encontre de la Syrie
 
-du 8 juin 2012 (État le 8 octobre 2025)
+du 8 juin 2012 (État le 16 juin 2026)
 
 Le Conseil fédéral suisse,
 
@@ -601,8 +601,8 @@ Annexe 7[^t-5]
 
 [^annex7-lvlu1-1]
 
-[^t-5]: Nouvelle teneur selon le ch. II al. 2 de l’O du 7 mars 2025 ([RO 2025 156](https://fedlex.data.admin.ch/eli/oc/2025/156)). Mise à jour par le ch. II al. 2 de l’O du 20 juin 2025 ([RO 2025 410](https://fedlex.data.admin.ch/eli/oc/2025/410)), le ch. I 12 de l’O du 13 août 2025 sur l’harmonisation des ordonnances sur les sanctions ([RO 2025 528](https://fedlex.data.admin.ch/eli/oc/2025/528)) et le ch. I de l’O du DEFR du 6 oct. 2025, en vigueur depuis le 8 oct. 2025 à 23 heures ([RO 2025 605](https://fedlex.data.admin.ch/eli/oc/2025/605)).
-[^annex7-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement sous forme de renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2025/605](https://fedlex.data.admin.ch/eli/oc/2025/605) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
+[^t-5]: Nouvelle teneur selon le ch. II al. 2 de l’O du 7 mars 2025 ([RO 2025 156](https://fedlex.data.admin.ch/eli/oc/2025/156)). Mise à jour par le ch. II al. 2 de l’O du 20 juin 2025 ([RO 2025 410](https://fedlex.data.admin.ch/eli/oc/2025/410)), le ch. I 12 de l’O du 13 août 2025 sur l’harmonisation des ordonnances sur les sanctions ([RO 2025 528](https://fedlex.data.admin.ch/eli/oc/2025/528)) et le ch. I des O du DEFR du 6 oct. 2025 ([RO 2025 605](https://fedlex.data.admin.ch/eli/oc/2025/605)) et du 15 juin 2026, en vigueur depuis le 16 juin 2026 à 23 heures ([RO 2026 319](https://fedlex.data.admin.ch/eli/oc/2026/319)).
+[^annex7-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement sous forme de renvoi. Il peut être consulté à l’adresse suivante [https://fedlex.data.admin.ch/eli/oc/2026/319](https://fedlex.data.admin.ch/eli/oc/2026/319) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
 
 Annexe 7a[^t-6]
 

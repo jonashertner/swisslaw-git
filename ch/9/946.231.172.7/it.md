@@ -3,18 +3,18 @@ sr: "946.231.172.7"
 title: "Ordinanza dell' 8 giugno 2012 che istituisce provvedimenti nei confronti della Siria"
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/394"
 language: it
-version: 2025-10-08
+version: 2026-06-16
 adopted: 2012-06-08
 in_force: 2012-06-09
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/394/20251008/it/xml/fedlex-data-admin-ch-eli-cc-2012-394-20251008-it-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/394/20251008/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/394/20260616/it/xml/fedlex-data-admin-ch-eli-cc-2012-394-20260616-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/394/20260616/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza che istituisce provvedimenti nei confronti della Siria
 
-dell’8 giugno 2012 (Stato 8 ottobre 2025)
+dell’8 giugno 2012 (Stato 16 giugno 2026)
 
 Il Consiglio federale svizzero,
 
@@ -603,8 +603,8 @@ Allegato 7[^t-5]
 
 [^annex7-lvlu1-1]
 
-[^t-5]: Nuovo testo giusta la cifra II cpv. 2 dell’O del 7 mar. 2025 ([RU 2025 156](https://fedlex.data.admin.ch/eli/oc/2025/156)). Aggiornato dalla cifra II cpv. 2 dell’O del 20 giu. 2025 ([RU 2025 410](https://fedlex.data.admin.ch/eli/oc/2025/410)), dalla cifra I dell’O del 6 ott. 2025 ([RU 2025 605](https://fedlex.data.admin.ch/eli/oc/2025/605)), dalla cifra I n. 12 dell’O del 13 ago. 2025 concernente l’armonizzazione di ordinanze sulle sanzioni ([RU 2025 528](https://fedlex.data.admin.ch/eli/oc/2025/528)) e dalla cifra I dell’O del DEFR del 6 ott. 2025, in vigore dall’8 ott. 2025 alle ore 23.00 ([RU 2025 605](https://fedlex.data.admin.ch/eli/oc/2025/605)).
-[^annex7-lvlu1-1]: Il contenuto del presente allegato è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2025/605](https://fedlex.data.admin.ch/eli/oc/2025/605) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
+[^t-5]: Nuovo testo giusta la cifra II cpv. 2 dell’O del 7 mar. 2025 ([RU 2025 156](https://fedlex.data.admin.ch/eli/oc/2025/156)). Aggiornato dalla cifra II cpv. 2 dell’O del 20 giu. 2025 ([RU 2025 410](https://fedlex.data.admin.ch/eli/oc/2025/410)), dalla cifra I n. 12 dell’O del 13 ago. 2025 concernente l’armonizzazione di ordinanze sulle sanzioni ([RU 2025 528](https://fedlex.data.admin.ch/eli/oc/2025/528)), dalle cifre I delle O del DEFR del 6 ott. 2025 ([RU 2025 605](https://fedlex.data.admin.ch/eli/oc/2025/605)) e del 15 giu. 2026, in vigore dal 16 giu. 2026 alle ore 23.00 ([RU 2026 319](https://fedlex.data.admin.ch/eli/oc/2026/319)).
+[^annex7-lvlu1-1]: Il contenuto del presente allegato è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2026/319](https://fedlex.data.admin.ch/eli/oc/2026/319) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
 
 Allegato 7a[^t-6]
 

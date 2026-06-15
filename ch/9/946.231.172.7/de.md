@@ -3,18 +3,18 @@ sr: "946.231.172.7"
 title: Verordnung vom 8. Juni 2012 über Massnahmen gegenüber Syrien
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/394"
 language: de
-version: 2025-10-08
+version: 2026-06-16
 adopted: 2012-06-08
 in_force: 2012-06-09
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/394/20251008/de/xml/fedlex-data-admin-ch-eli-cc-2012-394-20251008-de-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/394/20251008/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/394/20260616/de/xml/fedlex-data-admin-ch-eli-cc-2012-394-20260616-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/394/20260616/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über Massnahmen gegenüber Syrien
 
-vom 8. Juni 2012 (Stand am 8. Oktober 2025)
+vom 8. Juni 2012 (Stand am 16. Juni 2026)
 
 Der Schweizerische Bundesrat,
 
@@ -601,8 +601,8 @@ Anhang 7[^t-5]
 
 [^annex7-lvlu1-1]
 
-[^t-5]: Fassung gemäss Ziff. II Abs. 2 der V vom 7. März 2025 ([AS 2025 156](https://fedlex.data.admin.ch/eli/oc/2025/156)). Bereinigt gemäss Ziff. II Abs. 2 der V vom 20. Juni 2025 ([AS 2025 410](https://fedlex.data.admin.ch/eli/oc/2025/410)), Ziff. I 12 der V vom 13. Aug. 2025 über die Harmonisierung von Sanktionsverordnungen ([AS 2025 528](https://fedlex.data.admin.ch/eli/oc/2025/528)) und Ziff. I der V des WBF vom 6. Okt. 2025, in Kraft seit 8. Okt. 2025 um 23.00 Uhr ([AS 2025 605](https://fedlex.data.admin.ch/eli/oc/2025/605)).
-[^annex7-lvlu1-1]: Der Inhalt dieses Anhangs wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter: [https://fedlex.data.admin.ch/eli/oc/2025/605](https://fedlex.data.admin.ch/eli/oc/2025/605) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
+[^t-5]: Fassung gemäss Ziff. II Abs. 2 der V vom 7. März 2025 ([AS 2025 156](https://fedlex.data.admin.ch/eli/oc/2025/156)). Bereinigt gemäss Ziff. II Abs. 2 der V vom 20. Juni 2025 ([AS 2025 410](https://fedlex.data.admin.ch/eli/oc/2025/410)), Ziff. I 12 der V vom 13. Aug. 2025 über die Harmonisierung von Sanktionsverordnungen ([AS 2025 528](https://fedlex.data.admin.ch/eli/oc/2025/528)), Ziff. I der V des WBF vom 6. Okt. 2025 ([AS 2025 605](https://fedlex.data.admin.ch/eli/oc/2025/605)) und vom 15. Juni 2026, in Kraft seit 16. Juni 2026 um 23.00 Uhr (AS **202****6** 319).
+[^annex7-lvlu1-1]: Der Inhalt dieses Anhangs wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter: [https://fedlex.data.admin.ch/eli/oc/2026/319](https://fedlex.data.admin.ch/eli/oc/2026/319) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
 
 Anhang 7a[^t-6]
 
