@@ -3,18 +3,18 @@ sr: "946.231.09"
 title: Ordinanza del 10 aprile 2024 che istituisce provvedimenti nei confronti delle persone e delle organizzazioni che sostengono Hamas o la Jihad islamica palestinese
 eli: "https://fedlex.data.admin.ch/eli/cc/2024/147"
 language: it
-version: 2026-02-18
+version: 2026-06-16
 adopted: 2024-04-10
 in_force: 2024-04-10
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/147/20260218/it/xml/fedlex-data-admin-ch-eli-cc-2024-147-20260218-it-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2024/147/20260218/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/147/20260616/it/xml/fedlex-data-admin-ch-eli-cc-2024-147-20260616-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2024/147/20260616/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza che istituisce provvedimenti nei confronti delle persone e delle organizzazioni che sostengono Hamas o la Jihad islamica palestinese
 
-del 10 aprile 2024 (Stato 18 febbraio 2026)
+del 10 aprile 2024 (Stato 16 giugno 2026)
 
 Il Consiglio federale svizzero,
 
@@ -189,5 +189,5 @@ Allegato[^t-1]
 
 [^annexu1-lvlu1-1]
 
-[^t-1]: Aggiornato dalle cifre I delle O del DEFR dell’8 lug. 2024 ([RU 2024 346](https://fedlex.data.admin.ch/eli/oc/2024/346)) e del 18 feb. 2026, in vigore dal 18 feb. 2026 alle ore 23.00 ([RU 2026 81](https://fedlex.data.admin.ch/eli/oc/2026/81)).
-[^annexu1-lvlu1-1]: Il contenuto del presente all. è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2026/81](https://fedlex.data.admin.ch/eli/oc/2026/81) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
+[^t-1]: Aggiornato dalle cifre I delle O del DEFR dell’8 lug. 2024 ([RU 2024 346](https://fedlex.data.admin.ch/eli/oc/2024/346)), del 18 feb. 2026 ([RU 2026 81](https://fedlex.data.admin.ch/eli/oc/2026/81)) e del 15 giu. 2026, in vigore dal 16 giu. 2026 alle ore 23.00 ([RU 2026 318](https://fedlex.data.admin.ch/eli/oc/2026/318)).
+[^annexu1-lvlu1-1]: Il contenuto del presente allegato è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2026/318](https://fedlex.data.admin.ch/eli/oc/2026/318) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
