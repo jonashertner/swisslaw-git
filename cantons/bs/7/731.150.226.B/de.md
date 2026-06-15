@@ -4,13 +4,12 @@ number: 731.150.226.B
 title: "Bebauungsplan 226.B: Basel Lysbüchelstrasse / Elsässerstrasse / Gleisanlage (Areal VoltaNord)"
 short: BP 226.B
 language: de
-version: 2022-01-20
-valid_until: 2026-06-15
-version_adopted: 2022-01-11
+version: 2026-06-16
+version_adopted: 2026-06-16
 adopted: 2022-01-11
 in_force: 2022-01-20
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/731.150.226.B"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6983/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6984/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ Bebauungspläne und spezielle Bauvorschriften
 
 (BP 226.B)
 
-Vom 11. Januar 2022 (Stand 20. Januar 2022)
+Vom 11. Januar 2022 (Stand 16. Juni 2026)
 
 Der Regierungsrat des Kantons Basel-Stadt,
 
