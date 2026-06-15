@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Revisione totale dell’ordinanza del DFI sull’attuazione della compensazione dei rischi nell’assicurazione malattie (OCoR-DFI)
 document: Progetto posto in consultazione
 language: it

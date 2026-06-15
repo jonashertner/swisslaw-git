@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Totalrevision der Verordnung des EDI über die Umsetzung des Risikoausgleichs in der Krankenversicherung (VORA-EDI)
 document: Vernehmlassungsvorlage
 language: de
