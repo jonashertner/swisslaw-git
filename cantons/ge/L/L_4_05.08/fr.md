@@ -1,0 +1,90 @@
+---
+canton: GE
+number: L 4 05.08
+title: Règlement relatif à la mise à ban temporaire d’emplacements dignes d’intérêt au titre de la protection de la nature (RMABT)
+short: RMABT
+language: fr
+version: 2026-06-17
+adopted: 2026-06-10
+url: "https://silgeneve.ch/legis/program/books/rsg/htm/rsg_l4_05p08.htm"
+---
+
+> Reproduction non officielle du recueil systématique du canton GE. Seule la publication officielle du canton fait foi.
+
+# Règlement relatif à la mise à ban temporaire d’emplacements dignes d’intérêt au titre de la protection de la nature (RMABT)
+**Refonte**
+
+du 10 juin 2026
+
+(Entrée en vigueur : 17 juin 2026)
+
+Le CONSEIL D’ÉTAT de la République et canton de Genève,
+
+vu l’article 36 de la loi sur la protection des monuments, de la nature et des sites, du 4 juin 1976,
+
+arrête :
+
+#### Art. 1
+
+**Mise à ban**
+
+Lorsque les circonstances le justifient, le département chargé de la nature (ci-après : département) peut mettre à ban, par voie d’arrêté, un emplacement digne d’intérêt au titre de la protection de la nature.
+
+#### Art. 2
+
+**Accès et usage**
+
+<sup>1</sup> La mise à ban implique en principe une interdiction générale d’accès.
+
+<sup>2</sup> L’arrêté de mise à ban précise les périmètres et usages interdits.
+
+<sup>3</sup> Ces interdictions sont signalées par des écriteaux.
+
+#### Art. 3
+
+**Durée**
+
+L’interdiction d’accès ne doit pas dépasser la période nécessaire à assurer :
+
+- a) la conservation d’un milieu naturel ou d’une espèce végétale;
+- b) la reproduction ou la tranquillité d’une espèce animale qui, sans cette protection, seraient irréalisables ou gravement compromises;
+- c) le transfert de ces mêmes espèces afin d’assurer leur conservation.
+
+#### Art. 4
+
+**Exécution**
+
+<sup>1</sup> Les agentes et agents de l’office cantonal de l’agriculture et de la nature sont chargés de l’exécution du présent règlement.
+
+<sup>2</sup> Pour les milieux aquatiques et les espèces qui y sont inféodées, les agentes et agents de l’office cantonal de l’eau sont également compétents pour exécuter le présent règlement.
+
+#### Art. 5
+
+**Commissions officielles**
+
+<sup>1</sup> Le département définit, en collaboration avec la commission consultative de la diversité biologique, les principes et critères justifiant une mise à ban. Ces principes et critères font l’objet d’une évaluation périodique.
+
+<sup>2</sup> Pour les questions relatives à la protection de la faune piscicole et astacicole, la commission de la pêche est également associée à la démarche.
+
+<sup>3</sup> Le département peut solliciter un préavis des commissions susmentionnées lorsque des circonstances particulières le justifient.
+
+<sup>4</sup> Le département informe périodiquement les commissions concernées des mises à ban arrêtées en application du présent règlement.
+
+#### Art. 6
+
+**Clause abrogatoire**
+
+Le règlement relatif à la mise à ban temporaire d’emplacements dignes d’intérêt au titre de la protection de la nature, du 3 octobre 1977, est abrogé.
+
+#### Art. 7
+
+**Entrée en vigueur**
+
+Le présent règlement entre en vigueur le lendemain de sa publication dans la Feuille d'avis officielle.
+
+## Historique
+
+| RSG Intitulé | Date d'adoption | Entrée en vigueur |
+|---|---|---|
+| L 4 05.08 R relatif à la mise à ban temporaire d’emplacements dignes d’intérêt au titre de la protection de la nature | 10.06.2026 | 17.06.2026 |
+| Modification : néant |  |  |
