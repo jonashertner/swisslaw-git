@@ -3,11 +3,11 @@ sr: "0.747.354.11"
 title: "Convention internationale du 25 août 1924 pour l'unification de certaines règles en matière de connaissement (avec protocole de signature)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1954/758_776_672"
 language: fr
-version: 2012-03-16
+version: 2026-06-18
 adopted: 1924-08-25
 in_force: 1954-11-28
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1954/758_776_672/20120316/fr/xml/fedlex-data-admin-ch-eli-cc-1954-758_776_672-20120316-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1954/758_776_672/20120316/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1954/758_776_672/20260618/fr/xml/fedlex-data-admin-ch-eli-cc-1954-758_776_672-20260618-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1954/758_776_672/20260618/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -20,9 +20,9 @@ Texte original
 
 Conclue à Bruxelles le 25 août 1924 Approuvé par l’Assemblée fédérale le 17 mars 1954[^t-2] Instrument d’adhésion déposé par la Suisse le 28 mai 1954 Entrée en vigueur pour la Suisse le 28 novembre 1954
 
-(Etat le 16 mars 2012)
+(État le 18 juin 2026)
 
-[^t-1]: Voir aussi les prot. du 3 févr. 1968 ([RS 0.747.354.111](https://fedlex.data.admin.ch/eli/cc/1977/1077_1077_1077)) et du 21 déc. 1979 ([RS 0.747.354.112](https://fedlex.data.admin.ch/eli/cc/1988/927_927_927)**)**
+[^t-1]: Voir aussi les prot. du 3 févr. 1968 ([RS 0.747.354.111](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3089)) et du 21 déc. 1979 ([RS 0.747.354.112](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3090)**)**
 [^t-2]: Ch. 2 de l’AF du 17 mars 1954 ([RO 1954 767](https://fedlex.data.admin.ch/eli/oc/1954/749_767_663))
 
 #### Art. 1
@@ -41,39 +41,43 @@ Sous réserve des dispositions de l’art. 6, le transporteur, dans tous les con
 
 #### Art. 3
 
-§ 1
+**§ 1**
 
-§ 2
+**§ 2**
 
 Le transporteur, sous réserve des dispositions de l’art. 4, procédera de façon appropriée et soigneuse au chargement, à la manutention, à l’arrimage, au transport, à la garde, aux soins et au déchargement des marchandises transportées.
 
-§ 3
+**§ 3**
 
-§ 4
+**§ 4**
 
-Un tel connaissement vaudra présomption, sauf preuve contraire, de la réception par le transporteur des marchandises telles qu’elles y sont décrites conformément au par. 3, let. a, b et c.
+Un tel connaissement vaudra présomption, sauf preuve contraire, de la réception par le transporteur des marchandises telles qu’elles y sont décrites conformément au par. 3, let. a, b et c. Toutefois, la preuve contraire n’est pas admise lorsque le connaissement a été transféré à un tiers porteur de bonne foi.[^3-1]
 
-§ 5
+**§ 5**
 
 Le chargeur sera considéré avoir garanti au transporteur, au moment du chargement, l’exactitude des marques, du nombre, de la quantité et du poids tels qu’ils sont fournis par lui, et le chargeur indemnisera le transporteur de toutes pertes, dommages et dépenses provenant ou résultant d’inexactitudes sur ces points. Le droit du transporteur à pareille indemnité ne limitera d’aucune façon sa responsabilité et ses engagements sous l’empire du contrat de transport vis‑à‑vis de toute personne autre que le chargeur.
 
-§ 6
+**§ 6**
 
-A moins qu’un avis des pertes ou dommages et de la nature générale de ces pertes ou dommages ne soit donné par écrit au transporteur ou à son agent au port de déchargement, avant ou au moment de l’enlèvement des marchandises et de leur remise sous la garde de la personne ayant droit à la délivrance sous l’empire du contrat de transport, cet enlèvement constituera jusqu’à preuve contraire une présomption que les marchandises ont été délivrées par le transporteur telles qu’elles sont décrites au connaissement.
+À moins qu’un avis des pertes ou dommages et de la nature générale de ces pertes ou dommages ne soit donné par écrit au transporteur ou à son agent au port de déchargement, avant ou au moment de l’enlèvement des marchandises et de leur remise sous la garde de la personne ayant droit à la délivrance sous l’empire du contrat de transport, cet enlèvement constituera jusqu’à preuve contraire une présomption que les marchandises ont été délivrées par le transporteur telles qu’elles sont décrites au connaissement.
 
 Si les pertes ou dommages ne sont pas apparents, l’avis doit être donné dans les trois jours de la délivrance.
 
 Les réserves écrites sont inutiles si l’état de la marchandise a été contradictoirement constaté au moment de la réception.
 
-En tout cas, le transporteur et le navire seront déchargés de toute responsabilité pour pertes ou dommages, à moins qu’une action ne soit intentée dans l’année de la délivrance des marchandises ou de la date à laquelle elles eussent dû être délivrées.
+Sous réserve des dispositions du paragraphe 6<sup>bi</sup><sup>s</sup>, le transporteur et le navire seront en tous cas déchargés de toute responsabilité quelconque relativement aux marchandises, à moins qu’une action ne soit intentée dans l’année de leur délivrance ou de la date à laquelle elles eussent dû être délivrées. Ce délai peut toutefois être prolongé par un accord conclu entre les parties postérieurement à l’événement qui a donné lieu à l’action.[^3-2]
 
 En cas de perte ou dommages certains ou présumés, le transporteur et le réceptionnaire se donneront réciproquement toutes les facilités raisonnables pour l’inspection de la marchandise et la vérification du nombre de colis.
 
-§ 7
+**§ 6**<sup>bis</sup>[^3-3]
+
+Les actions récursoires pourront être exercées même après l’expiration du délai prévu au paragraphe précédent, si elles le sont dans le délai déterminé par la loi du Tribunal saisi de l’affaire. Toutefois, ce délai ne pourra être inférieur à trois mois à partir du jour où la personne qui exerce l’action récursoire a réglé la réclamation ou a elle-même reçu signification de l’assignation.
+
+**§ 7**
 
 Lorsque les marchandises auront été chargées, le connaissement que délivrera le transporteur, capitaine ou agent du transporteur au chargeur sera, si le chargeur le demande, un connaissement libellé «Embarqué» pourvu que, si le chargeur a auparavant reçu quelque document donnant droit à ces marchandises, il restitue ce document contre remise d’un connaissement «Embarqué». Le transporteur, le capitaine ou l’agent aura également la faculté d’annoter au port d’embarquement, sur le document remis en premier lieu, le ou les noms du ou des navires sur lesquels les marchandises ont été embarquées et la date ou les dates de l’embarquement et, lorsque ce document sera ainsi annoté, il sera, s’il contient les mentions de l’art. 3, par. 3, considéré aux fins de cet article comme constituant un connaissement libellé «Embarqué».
 
-§ 8
+**§ 8**
 
 Toute clause, convention ou accord dans un contrat de transport exonérant le transporteur ou le navire de responsabilité pour perte ou dommage concernant des marchandises provenant de négligence, faute ou manquement aux devoirs ou obligations édictées dans cet article ou atténuant cette responsabilité autrement que ne le prescrit la présente convention, sera nulle, non avenue et sans effet. Une clause cédant le bénéfice de l’assurance au transporteur ou toute clause semblable sera considérée comme exonérant le transporteur de sa responsabilité.
 
@@ -89,33 +93,29 @@ Après avoir reçu et pris en charge les marchandises, le transporteur, ou le ca
 - b. Ou le nombre de colis, ou de pièces, ou la quantité ou le poids, suivant les cas, tels qu’ils sont fournis par écrit par le chargeur;
 - c. L’état et le conditionnement apparent des marchandises. Cependant aucun transporteur, capitaine ou agent du transporteur, ne sera tenu de déclarer ou de mentionner, dans le connaissement, des marques, un nombre, une quantité ou un poids dont il a une raison sérieuse de soupçonner qu’ils ne représentent pas exactement les marchandises actuellement reçues par lui, ou qu’il n’a pas eu des moyens raisonnables de vérifier.
 
+[^3-1]: Phrase introduite par l’art. 1, par. 1 du Prot. du 23 fév. 1968, approuvé par l’Ass. féd. le 24 sept. 1975, en vigueur depuis le 23 juin 1977 ([RO 1977 1077](https://fedlex.data.admin.ch/eli/oc/1977/1077_1077_1077), [1074](https://fedlex.data.admin.ch/eli/oc/1977/1074_1074_1074); FF **1975** I 917).
+[^3-2]: Nouvelle teneur selon l’art. 1, par. 2 du Prot. du 23 fév. 1968, approuvé par l’Ass. féd. le 24 sept. 1975, en vigueur depuis le 23 juin 1977 ([RO 1977 1077](https://fedlex.data.admin.ch/eli/oc/1977/1077_1077_1077), [1074](https://fedlex.data.admin.ch/eli/oc/1977/1074_1074_1074); FF **1975** I 917).
+[^3-3]: Introduit par l’art. 1, par. 3 du Prot. du 23 fév. 1968, approuvé par l’Ass. féd. le 24 sept. 1975, en vigueur depuis le 23 juin 1977 ([RO 1977 1077](https://fedlex.data.admin.ch/eli/oc/1977/1077_1077_1077), [1074](https://fedlex.data.admin.ch/eli/oc/1977/1074_1074_1074); FF **1975** I 917).
+
 #### Art. 4
 
-§ 1
+**§ 1**
 
 Ni le transporteur ni le navire ne seront responsables des pertes ou dommages provenant ou résultant de l’état d’innavigabilité, à moins qu’il ne soit imputable à un manque de diligence raisonnable de la part du transporteur à mettre le navire en état de navigabilité ou à assurer au navire un armement, équipement ou approvisionnement convenables, ou à approprier et mettre en bon état les cales, chambres froides et frigorifiques et toutes autres parties du navire où des marchandises sont chargées, de façon qu’elles soient aptes à la réception, au transport et à la préservation des marchandises, le tout conformément aux prescriptions de l’art. 3, par. 1. Toutes les fois qu’une perte ou un dommage aura résulté de l’innavigabilité, le fardeau de la preuve en ce qui concerne l’exercice de la diligence raisonnable tombera sur le transporteur ou sur toute autre personne se prévalant de l’exonération prévue au présent article.
 
-§ 2
+**§ 2**
 
-§ 3
+**§ 3**
 
 Le chargeur ne sera pas responsable des pertes ou dommages subis par le transporteur ou le navire et qui proviendraient ou résulteraient de toute cause quelconque sans qu’il y ait acte, faute ou négligence du chargeur, de ses agents ou de ses préposés.
 
-§ 4
+**§ 4**
 
 Aucun déroutement pour sauver ou tenter de sauver des vies ou des biens en mer, ni aucun déroutement raisonnable ne sera considéré comme une infraction à la présente convention ou au contrat de transport, et le transporteur ne sera responsable d’aucune perte ou dommage en résultant.
 
-§ 5
+**§ 5**[^4-1]
 
-Le transporteur comme le navire ne seront tenus en aucun cas des pertes ou dommages causés aux marchandises ou les concernant pour une somme dépassant 100 livres sterling par colis ou unité, ou l’équivalent de cette somme en une autre monnaie, à moins que la nature et la valeur de ces marchandises n’aient été déclarées par le chargeur avant leur embarquement et que cette déclaration ait été insérée dans le connaissement.
-
-Cette déclaration ainsi insérée dans le connaissement constituera une présomption, sauf preuve contraire, mais elle ne liera pas le transporteur, qui pourra la contester.
-
-Par convention entre le transporteur, capitaine ou agent du transporteur et le chargeur, une somme maximum différente de celle inscrite dans ce paragraphe peut être déterminée, pourvu que ce maximum conventionnel ne soit pas inférieur au chiffre ci‑dessus fixé.
-
-Ni le transporteur ni le navire ne seront en aucun cas responsables pour perte ou dommage causé aux marchandises ou les concernant, si dans le connaissement le chargeur a fait sciemment une déclaration fausse de leur nature ou de leur valeur.
-
-§ 6
+**§ 6**
 
 Les marchandises de nature inflammable, explosive ou dangereuse à l’embarquement desquelles le transporteur, le capitaine ou l’agent du transporteur n’auraient pas consenti, en connaissant leur nature ou leur caractère, pourront à tout moment, avant déchargement, être débarquées à tout endroit ou détruites ou rendues inoffensives par le transporteur sans indemnité et le chargeur de ces marchandises sera responsable de tout dommage et dépenses provenant ou résultant directement ou indirectement de leur embarquement. Si quelqu’une de ces marchandises embarquées à la connaissance et avec le consentement du transporteur devenait un danger pour le navire ou la cargaison, elle pourrait de même façon être débarquée ou détruite ou rendue inoffensive par le transporteur, sans responsabilité de la part du transporteur si ce n’est du chef d’avaries communes, s’il y a lieu.
 
@@ -138,6 +138,45 @@ Ni le transporteur ni le navire ne seront responsables pour perte ou dommage ré
 - o. D’une insuffisance ou imperfection de marques;
 - p. De vices cachés échappant à une diligence raisonnable;
 - q. De toute autre cause ne provenant pas du fait ou de la faute du transporteur ou du fait ou de la faute des agents ou préposés du transporteur, mais le fardeau de la preuve incombera à la personne réclamant le bénéfice de cette exception et il lui appartiendra de montrer que ni la faute personnelle ni le fait du transporteur ni la faute ou le fait des agents ou préposés du transporteur n’ont contribué à la perte ou au dommage.
+
+- a)[^4-2] À moins que la nature et la valeur des marchandises n’aient été déclarées par le chargeur avant leur embarquement et que cette déclaration ait été insérée dans le connaissement, le transporteur, comme le navire, ne seront en aucun cas responsables des pertes ou dommages des marchandises ou concernant celles-ci pour une somme supérieure à 666,67 unités de compte par colis ou unité, ou 2 unités de compte par kilogramme de poids brut des marchandises perdues ou endommagées, la limite la plus élevée étant applicable.
+- b) La somme totale due sera calculée par référence à la valeur des marchandises au lieu et au jour où elles sont déchargées conformément au contrat, ou au jour et au lieu où elles auraient dû être déchargées.
+- La valeur de la marchandise est déterminée d’après le cours en Bourse, ou, à défaut, d’après le prix courant sur le marché ou, à défaut de l’un et de l’autre, d’après la valeur usuelle de marchandises de mêmes nature et qualité.
+- c) Lorsqu’un cadre, une palette ou tout engin similaire est utilisé pour grouper des marchandises, tout colis ou unité énuméré au connaissement comme étant inclus dans cet engin sera considéré comme un colis ou unité au sens de ce paragraphe. En dehors du cas prévu ci-dessus, cet engin sera considéré comme colis ou unité.
+- d)[^4-3] L’unité de compte mentionnée dans le présent article est le Droit de Tirage Spécial tel que défini par le Fonds Monétaire International. La somme mentionnée à l’alinéa (a) de ce paragraphe sera convertie dans la monnaie nationale suivant la valeur de cette monnaie à une date qui sera déterminée par la loi de la juridiction saisie de l’affaire.
+- La valeur en Droit de Tirage Spécial d’une monnaie nationale d’un État qui est membre du Fonds Monétaire International est calculée selon la méthode d’évaluation appliquée par le Fonds Monétaire International,à la date en question pour ses propres opérations et transactions. La valeur en Droit de Tirage Spécial d’une monnaie nationale d’un État non membre du Fonds Monétaire International est calculée de la façon déterminée par cet État.
+-
+
+  Toutefois, un État qui n’est pas membre du Fonds Monétaire International et dont la législation ne permet pas l’application des dispositions prévues aux phrases précédentes peut, au moment de la ratification du Protocole de 1979 ou de l’adhésion à celui-ci ou encore à tout moment par la suite, déclarer que les limites de la responsabilité prévues dans cette Convention et applicables sur son territoire sont fixées de la manière suivante:
+
+  - (i) en ce qui concerne la somme de 666,67 unités de compte mentionnée à l’alinéa (a) du paragraphe 5 du présent article, 10 000 unités monétaires;
+  - (ii) en ce qui concerne la somme de 2 unités de compte mentionnée à l’alinéa (a) du paragraphe 5 du présent article, 30 unités monétaires.
+
+- L’unité monétaire à laquelle il est fait référence à la phrase précédente correspond à 65,5 milligrammes d’or au titre de 900 millièmes de fin. La conversion en monnaie nationale des sommes mentionnées dans cette phrase s’effectuera conformément à la législation de l’État en cause.
+- Le calcul et la conversion mentionnés aux phrases précédentes seront faits de manière à exprimer en monnaie nationale de l’État, dans la mesure du possible, la même valeur réelle pour les sommes mentionnées à l’alinéa (a) du paragraphe 5 du présent article, que celle exprimée en unités de compte.
+- Les États communiqueront au dépositaire leur méthode de calcul, ou les résultats de la conversion selon les cas, au moment du dépôt de l’instrument de ratification ou d’adhésion et chaque fois qu’un changement se produit dans leur méthode de calcul ou dans la valeur de leur monnaie nationale par rapport à l’unité de compte ou à l’unité monétaire.
+- e ) Ni le transporteur, ni le navire n’auront le droit de bénéficier de la limitation de responsabilité établie par ce paragraphe s’il est prouvé que le dommage résulte d’un acte ou d’une omission du transporteur qui a eu lieu, soit avec l’intention de provoquer un dommage, soit témérairement et avec conscience qu’un dommage en résulterait probablement.
+- f ) La déclaration mentionnée à l’alinéa a) de ce paragraphe, insérée dans le connaissement constituera une présomption saufpreuve contraire, mais elle ne liera pas le transporteur qui pourra la contester.
+- g ) Par convention entre le transporteur, capitaine ou agent du transporteur et le chargeur, d’autres sommes maxima que celles mentionnées à l’alinéa a) de ce paragraphe peuvent être déterminées, pourvu que ce montant maximum conventionnel ne soit pas inférieur au montant maximum correspondant mentionné dans cet alinéa.
+- h ) Ni le transporteur, ni le navire ne seront en aucun cas responsables pour perte ou dommage causé aux marchandises ou les concernant, si dans le connaissement le chargeur a fait sciemment une fausse déclaration de leur nature ou de leur valeur
+
+[^4-1]: Nouvelle teneur selon l’art. 2 du Prot. du 23 fév. 1968, approuvé par l’Ass. féd. le 24 sept. 1975, en vigueur depuis le 23 juin 1977 ([RO 1977 1077](https://fedlex.data.admin.ch/eli/oc/1977/1077_1077_1077), [1074](https://fedlex.data.admin.ch/eli/oc/1977/1074_1074_1074); FF **1975** I 917).
+[^4-2]: Nouvelle teneur selon l’art. II 1 du Prot. du 21 déc. 1979, en vigueur depuis le 20 avr. 1988 ([RO 1988 927](https://fedlex.data.admin.ch/eli/oc/1988/927_927_927)).
+[^4-3]: Nouvelle teneur selon l’art. II 1 du Prot. du 21 déc. 1979, en vigueur depuis le 20 avr. 1988 ([RO 1988 927](https://fedlex.data.admin.ch/eli/oc/1988/927_927_927)).
+
+#### Art. 4<sup>bis</sup>
+
+[^4bis-1]
+
+<sup>1.</sup> Les exonérations et limitations prévues par la présente Convention sont applicables à toute action contre le transporteur en réparation de pertes ou dommages à des marchandises faisant l’objet d’un contrat de transport, que l’action soit fondée sur la responsabilité contractuelle ou sur une responsabilité extra-contractuelle.
+
+<sup>2.</sup> Si une telle action est intentée contre un préposé du transporteur, ce préposé pourra se prévaloir des exonérations et des limitations de responsabilité que le transporteur peut invoquer en vertu de la Convention.
+
+<sup>3.</sup> L’ensemble des montantsmis à charge du transporteur et de ses préposés ne dépassera pas dans ce cas la limite prévue par la présente Convention.
+
+<sup>4.</sup> Toutefois le préposé ne pourra se prévaloir des dispositions du présent article, s’il est prouvé que le dommage résulte d’un acte ou d’une omission de ce préposé qui a eu lieu soit avec l’intention de provoquer un dommage, soit témérairement et avec conscience qu’un dommage en résulterait probablement.
+
+[^4bis-1]: Introduit par l’art. 3 du Prot. du 23 fév. 1968, approuvé par l’Ass. féd. le 24 sept. 1975, en vigueur depuis le 23 juin 1977 ([RO 1977 1077](https://fedlex.data.admin.ch/eli/oc/1977/1077_1077_1077), [1074](https://fedlex.data.admin.ch/eli/oc/1977/1074_1074_1074); FF **1975** I 917).
 
 #### Art. 5
 
@@ -163,31 +202,45 @@ Les dispositions de la présente convention ne modifient ni les droits ni les ob
 
 #### Art. 9
 
-<sup>1</sup> Les unités monétaires dont il s’agit dans la présente convention s’entendent valeur or.
+[^9-1]
 
-<sup>2</sup> Ceux des Etats contractants où la livre sterling n’est pas employée comme unité monétaire se réservent le droit de convertir en chiffres ronds, d’après leur système monétaire, les sommes indiquées en livres sterling dans la présente convention.
+La présente Convention ne porte pas atteinte aux dispositions des Conventions internationales ou des lois nationales régissant la responsabilité pour dommages nucléaires.
 
-<sup>3</sup> Les lois nationales peuvent réserver au débiteur la faculté de se libérer dans la monnaie nationale, d’après le cours du change au jour de l’arrivée du navire au port de déchargement de la marchandise dont il s’agit.
+[^9-1]: Nouvelle teneur selon l’art. 4 du Prot. du 23 fév. 1968, approuvé par l’Ass. féd. le 24 sept. 1975, en vigueur depuis le 23 juin 1977 ([RO 1977 1077](https://fedlex.data.admin.ch/eli/oc/1977/1077_1077_1077), [1074](https://fedlex.data.admin.ch/eli/oc/1977/1074_1074_1074); FF **1975** I 917).
 
 #### Art. 10
 
-Les dispositions de la présente convention s’appliqueront à tout connaissement créé dans un des Etats contractants.
+[^10-1]
+
+quelle que soit la nationalité du navire, du transporteur, du chargeur, du destinataire ou de toute autre personne intéressée.
+
+Chaque État contractant appliquera les dispositions de la présente Convention aux connaissements mentionnés ci-dessus.
+
+Le présent article ne porte pas atteinte au droit d’un État contractant d’appliquer les dispositions de la présente Convention aux connaissements non visés par les alinéas précédents.
+
+Les dispositions de la présente Convention s’appliqueront à tout connaissement relatif à un transport de marchandises entre ports relevant de deux États différents, quand:
+
+- a) le connaissement est émis dans un État contractant;
+- b) le transport a lieu au départ d’un port d’un État contractant, ou
+- c) le connaissement prévoit que les dispositions de la présente Convention ou de toute autre législation les appliquant ou leur donnant effet régiront le contrat,
+
+[^10-1]: Nouvelle teneur selon l’art. 5 du Prot. du 23 fév. 1968, approuvé par l’Ass. féd. le 24 sept. 1975, en vigueur depuis le 23 juin 1977 ([RO 1977 1077](https://fedlex.data.admin.ch/eli/oc/1977/1077_1077_1077), [1074](https://fedlex.data.admin.ch/eli/oc/1977/1074_1074_1074); FF **1975** I 917).
 
 #### Art. 11
 
-<sup>1</sup> A l’expiration du délai de deux ans au plus tard à compter du jour de la signature de la convention, le gouvernement belge entrera en rapport avec les gouvernements des hautes parties contractantes qui se seront déclarées prêtes à la ratifier à l’effet de faire décider s’il y a lieu de la mettre en vigueur. Les ratifications seront déposées à Bruxelles à la date qui sera fixée de commun accord entre lesdits gouvernements. Le premier dépôt de ratifications sera constaté par un procès‑verbal signé par les représentants des Etats qui y prendront part et par le ministre des affaires étrangères de Belgique.
+<sup>1</sup> À l’expiration du délai de deux ans au plus tard à compter du jour de la signature de la convention, le gouvernement belge entrera en rapport avec les gouvernements des hautes parties contractantes qui se seront déclarées prêtes à la ratifier à l’effet de faire décider s’il y a lieu de la mettre en vigueur. Les ratifications seront déposées à Bruxelles à la date qui sera fixée de commun accord entre lesdits gouvernements. Le premier dépôt de ratifications sera constaté par un procès‑verbal signé par les représentants des États qui y prendront part et par le ministre des affaires étrangères de Belgique.
 
 <sup>2</sup> Les dépôts ultérieurs se feront au moyen d’une notification écrite, adressée au gouvernement belge et accompagnée de l’instrument de ratification.
 
-<sup>3</sup> Copie certifiée conforme du procès‑verbal relatif au premier dépôt de ratifications, des notifications mentionnées à l’alinéa précédent, ainsi que des instruments de ratification qui les accompagnent sera immédiatement, par les soins du gouvernement belge et par la voie diplomatique, remise aux Etats qui ont signé la présente convention ou qui y auront adhéré. Dans les cas visés à l’alinéa précédent, ledit gouvernement fera connaître, en même temps, la date à laquelle il a reçu la notification.
+<sup>3</sup> Copie certifiée conforme du procès‑verbal relatif au premier dépôt de ratifications, des notifications mentionnées à l’alinéa précédent, ainsi que des instruments de ratification qui les accompagnent sera immédiatement, par les soins du gouvernement belge et par la voie diplomatique, remise aux États qui ont signé la présente convention ou qui y auront adhéré. Dans les cas visés à l’alinéa précédent, ledit gouvernement fera connaître, en même temps, la date à laquelle il a reçu la notification.
 
 #### Art. 12
 
-<sup>1</sup> Les Etats non signataires pourront adhérer à la présente convention, qu’ils aient été ou non représentés à la conférence internationale de Bruxelles.
+<sup>1</sup> Les États non signataires pourront adhérer à la présente convention, qu’ils aient été ou non représentés à la conférence internationale de Bruxelles.
 
-<sup>2</sup> L’Etat qui désire adhérer notifie par écrit son intention au gouvernement belge, en lui transmettant l’acte d’adhésion, qui sera déposé dans les archives dudit gouvernement.
+<sup>2</sup> L’État qui désire adhérer notifie par écrit son intention au gouvernement belge, en lui transmettant l’acte d’adhésion, qui sera déposé dans les archives dudit gouvernement.
 
-<sup>3</sup> Le gouvernement belge transmettra immédiatement à tous les Etats signataires ou adhérents copie certifiée conforme de la notification ainsi que de l’acte d’adhésion en indiquant la date à laquelle il a reçu la notification.
+<sup>3</sup> Le gouvernement belge transmettra immédiatement à tous les États signataires ou adhérents copie certifiée conforme de la notification ainsi que de l’acte d’adhésion en indiquant la date à laquelle il a reçu la notification.
 
 #### Art. 13
 
@@ -195,29 +248,29 @@ Les hautes parties contractantes peuvent, au moment de la signature du dépôt d
 
 #### Art. 14
 
-A l’égard des Etats qui auront participé au premier dépôt de ratifications, la présente convention produira effet un an après la date du procès-verbal de ce dépôt. Quant aux Etats qui la ratifieront ultérieurement ou qui y adhéreront, ainsi que dans les cas où la mise en vigueur se fera ultérieurement et selon l’art. 13, elle produira effet six mois après que les notifications prévues à l’art. 11, al. 2, et à l’art. 12, al. 2, auront été reçues par le gouvernement belge.
+À l’égard des États qui auront participé au premier dépôt de ratifications, la présente convention produira effet un an après la date du procès-verbal de ce dépôt. Quant aux États qui la ratifieront ultérieurement ou qui y adhéreront, ainsi que dans les cas où la mise en vigueur se fera ultérieurement et selon l’art. 13, elle produira effet six mois après que les notifications prévues à l’art. 11, al. 2, et à l’art. 12, al. 2, auront été reçues par le gouvernement belge.
 
 #### Art. 15
 
-<sup>1</sup> S’il arrivait qu’un des Etats contractants voulût dénoncer la présente convention, la dénonciation sera notifiée par écrit au gouvernement belge, qui communiquera immédiatement copie certifiée conforme de la notification à tous les autres Etats, en leur faisant savoir la date à laquelle il l’a reçue.
+<sup>1</sup> S’il arrivait qu’un des États contractants voulût dénoncer la présente convention, la dénonciation sera notifiée par écrit au gouvernement belge, qui communiquera immédiatement copie certifiée conforme de la notification à tous les autres États, en leur faisant savoir la date à laquelle il l’a reçue.
 
-<sup>2</sup> La dénonciation produira ses effets à l’égard de l’Etat seul qui l’aura notifiée et un an après que la notification en sera parvenue au gouvernement belge.
+<sup>2</sup> La dénonciation produira ses effets à l’égard de l’État seul qui l’aura notifiée et un an après que la notification en sera parvenue au gouvernement belge.
 
 #### Art. 16
 
-<sup>1</sup> Chaque Etat contractant aura la faculté de provoquer la réunion d’une nouvelle conférence, dans le but de rechercher les améliorations qui pourraient être apportées à la présente convention.
+<sup>1</sup> Chaque État contractant aura la faculté de provoquer la réunion d’une nouvelle conférence, dans le but de rechercher les améliorations qui pourraient être apportées à la présente convention.
 
-<sup>2</sup> Celui des Etats qui ferait usage de cette faculté aurait à notifier un an à l’avance son intention aux autres Etats, par l’intermédiaire du gouvernement belge, qui se chargerait de convoquer la conférence.
+<sup>2</sup> Celui des États qui ferait usage de cette faculté aurait à notifier un an à l’avance son intention aux autres États, par l’intermédiaire du gouvernement belge, qui se chargerait de convoquer la conférence.
 
 Fait à Bruxelles, en un seul exemplaire, le 25 août 1924.
 
 (Suivent les signatures)
 
-Protocole de signature
+## Protocole de signature
 
 En procédant à la signature dela Convention Internationale pour l’unification de certaines règles en matière de connaissement, les Plénipotentiaires soussignés ont adopté le présent Protocole qui aura la même force et la même valeur que si ses dispositions étaient insérées dans le texte même de la Convention à laquelle il se rapporte.
 
-Les Hautes Parties contractantes pourront donner effet à cette Convention soit en lui donnant force de loi, soit en introduisant dans leur législation nationale les règles adoptées par la Convention sous une forme appropriée à cette législation.[^t-3]
+Les Hautes Parties contractantes pourront donner effet à cette Convention soit en lui donnant force de loi, soit en introduisant dans leur législation nationale les règles adoptées par la Convention sous une forme appropriée à cette législation.[^lvlu18-1]
 
 Elles se réservent expressément le droit:
 
@@ -228,101 +281,103 @@ Fait à Bruxelles, en un seul exemplaire, le 25 août 1924.
 
 (Suivent les signatures)
 
-## Champ d’application le 16 mars 2012
+[^lvlu18-1]: La Confédération suisse s’est réservé d’introduire dans sa législation nationale les règles adoptées par cette convention sous une forme appropriée à sa législation.
 
-[^annexu1-lvlu1-1]
+## Champ d’application le 18 juin 2026
 
-[^t-3]: La Confédération suisse s’est réservé d’introduire dans sa législation nationale les règles adoptées par cette convention sous une forme appropriée à sa législation.
-[^annexu1-lvlu1-1]: RO **2012** 1561. Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.dfae.admin.ch/traites).
+[^lvlu19-1]
+
+[^lvlu19-1]: [RO 1954 776](https://fedlex.data.admin.ch/eli/oc/1954/758_776_672); [1977 1077](https://fedlex.data.admin.ch/eli/oc/1977/1077_1077_1077); [1988 927](https://fedlex.data.admin.ch/eli/oc/1988/927_927_927); [2012 1561](https://fedlex.data.admin.ch/eli/oc/2012/220); [2026 333](https://fedlex.data.admin.ch/eli/oc/2026/333). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).
 
 <table>
-<tr><th colspan="2">Etats parties</th><th>Ratification Adhésion (A) Déclaration de succession (S)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
-<tr><td colspan="2">Algérie</td><td>13 avril</td><td>1964 A</td><td>13 octobre</td><td>1964</td></tr>
-<tr><td colspan="2">Allemagne\*</td><td>1<sup>er</sup> juillet</td><td>1939</td><td>1<sup>er</sup> janvier</td><td>1940</td></tr>
-<tr><td colspan="2">Antigua-et-Barbuda<sup>a</sup></td><td>2 décembre</td><td>1930</td><td>2 juin</td><td>1931</td></tr>
-<tr><td colspan="2">Argentine</td><td>19 avril</td><td>1961 A</td><td>19 octobre</td><td>1961</td></tr>
-<tr><td colspan="2">Australie</td><td></td><td></td><td></td><td></td></tr>
-<tr><td colspan="2">Ile Norfolk\*</td><td>4 juillet</td><td>1955 A</td><td>4 janvier</td><td>1956</td></tr>
-<tr><td colspan="2">Autorité palestinienne<sup>a</sup></td><td>2 décembre</td><td>1930</td><td>2 juin</td><td>1931</td></tr>
-<tr><td colspan="2">Bahamas<sup>a</sup></td><td>2 décembre</td><td>1930</td><td>2 juin</td><td>1931</td></tr>
-<tr><td colspan="2">Barbade<sup>a</sup></td><td>2 décembre</td><td>1930</td><td>2 juin</td><td>1931</td></tr>
-<tr><td colspan="2">Belgique\*</td><td>2 juin</td><td>1930</td><td>2 juin</td><td>1931</td></tr>
-<tr><td colspan="2">Belize<sup>a</sup></td><td>2 décembre</td><td>1930</td><td>2 juin</td><td>1931</td></tr>
-<tr><td colspan="2">Bolivie</td><td>28 mai</td><td>1982 A</td><td>28 novembre</td><td>1982</td></tr>
-<tr><td colspan="2">Cameroun<sup>a</sup></td><td>2 décembre</td><td>1930</td><td>2 juin</td><td>1931</td></tr>
-<tr><td colspan="2">Chine</td><td></td><td></td><td></td><td></td></tr>
-<tr><td colspan="2">Hong Kong</td><td>20 juin</td><td>1997</td><td>1<sup>er</sup> juillet</td><td>1997</td></tr>
-<tr><td colspan="2">Macao</td><td>13 décembre</td><td>1999</td><td>20 décembre</td><td>1999</td></tr>
-<tr><td colspan="2">Chypre<sup>a</sup></td><td>2 décembre</td><td>1930</td><td>2 juin</td><td>1931</td></tr>
-<tr><td colspan="2">Congo (Kinshasa)</td><td>17 juillet</td><td>1967 A</td><td>17 janvier</td><td>1968</td></tr>
-<tr><td colspan="2">Croatie</td><td>30 juillet</td><td>1992 S</td><td>8 octobre</td><td>1991</td></tr>
-<tr><td colspan="2">Cuba\*</td><td>25 juillet</td><td>1977 A</td><td>25 janvier</td><td>1978</td></tr>
-<tr><td colspan="2">Côte d’Ivoire\*</td><td>15 décembre</td><td>1961 A</td><td>15 juin</td><td>1962</td></tr>
-<tr><td colspan="2">Dominique<sup>a</sup></td><td>2 décembre</td><td>1930</td><td>2 juin</td><td>1931</td></tr>
-<tr><td colspan="2">Equateur</td><td>23 mars</td><td>1977 A</td><td>23 septembre</td><td>1977</td></tr>
-<tr><td colspan="2">Espagne</td><td>2 juin</td><td>1930</td><td>2 juin</td><td>1931</td></tr>
-<tr><td colspan="2">Etats-Unis\*</td><td>29 juin</td><td>1937</td><td>29 décembre</td><td>1937</td></tr>
-<tr><td colspan="2">Fidji</td><td>22 août</td><td>1972 S</td><td>10 octobre</td><td>1970</td></tr>
-<tr><td colspan="2">France\*</td><td>4 janvier</td><td>1937</td><td>4 juillet</td><td>1937</td></tr>
-<tr><td colspan="2">Gambie<sup>a</sup></td><td>2 décembre</td><td>1930</td><td>2 juin</td><td>1931</td></tr>
-<tr><td colspan="2">Ghana<sup>a</sup></td><td>2 décembre</td><td>1930</td><td>2 juin</td><td>1931</td></tr>
-<tr><td colspan="2">Grenade<sup>a</sup></td><td>2 décembre</td><td>1930</td><td>2 juin</td><td>1931</td></tr>
-<tr><td colspan="2">Guinée-Bissau<sup>b</sup></td><td>2 février</td><td>1952</td><td>2 août</td><td>1952</td></tr>
-<tr><td colspan="2">Guyana<sup>a</sup></td><td>2 décembre</td><td>1930</td><td>2 juin</td><td>1931</td></tr>
-<tr><td colspan="2">Hongrie</td><td>2 juin</td><td>1930</td><td>2 juin</td><td>1931</td></tr>
-<tr><td colspan="2">Iran</td><td>26 avril</td><td>1966 A</td><td>26 octobre</td><td>1966</td></tr>
-<tr><td colspan="2">Irlande\*</td><td>30 janvier</td><td>1962 A</td><td>30 juillet</td><td>1962</td></tr>
-<tr><td colspan="2">Israël</td><td>5 septembre</td><td>1959 A</td><td>5 mars</td><td>1960</td></tr>
-<tr><td colspan="2">Jamaïque<sup>a</sup></td><td>2 décembre</td><td>1930</td><td>2 juin</td><td>1931</td></tr>
-<tr><td colspan="2">Kenya<sup>a</sup></td><td>2 décembre</td><td>1930</td><td>2 juin</td><td>1931</td></tr>
-<tr><td colspan="2">Kiribati<sup>a</sup></td><td>2 décembre</td><td>1930</td><td>2 juin</td><td>1931</td></tr>
-<tr><td colspan="2">Koweït\*</td><td>25 juillet</td><td>1969 A</td><td>25 janvier</td><td>1970</td></tr>
-<tr><td colspan="2">Lettonie</td><td>4 avril</td><td>2002 A</td><td>4 octobre</td><td>2002</td></tr>
-<tr><td colspan="2">Lituanie</td><td>2 décembre</td><td>2003 A</td><td>2 juin</td><td>2004</td></tr>
-<tr><td colspan="2">Luxembourg</td><td>18 février</td><td>1991 A</td><td>18 mai</td><td>1991</td></tr>
-<tr><td colspan="2">Madagascar</td><td>13 juillet</td><td>1965 A</td><td>13 janvier</td><td>1966</td></tr>
-<tr><td colspan="2">Malaisie<sup>a</sup></td><td>2 décembre</td><td>1930</td><td>2 juin</td><td>1931</td></tr>
-<tr><td colspan="2">Maurice</td><td>24 août</td><td>1970 S</td><td>12 mars</td><td>1968</td></tr>
-<tr><td colspan="2">Mexique</td><td>20 mai</td><td>1994 A</td><td>20 août</td><td>1994</td></tr>
-<tr><td colspan="2">Monaco</td><td>15 mai</td><td>1931 A</td><td>15 novembre</td><td>1931</td></tr>
-<tr><td colspan="2">Mozambique<sup>b</sup></td><td>2 février</td><td>1952</td><td>2 août</td><td>1952</td></tr>
-<tr><td colspan="2">Nauru</td><td>4 juillet</td><td>1955</td><td>4 janvier</td><td>1956</td></tr>
-<tr><td colspan="2">Nigéria<sup>a</sup></td><td>2 décembre</td><td>1930</td><td>2 juin</td><td>1931</td></tr>
-<tr><td colspan="2">Papouasie-Nouvelle-Guinée<sup>c</sup></td><td>4 juillet</td><td>1955</td><td>4 janvier</td><td>1956</td></tr>
-<tr><td colspan="2">Pologne</td><td>26 octobre</td><td>1936</td><td>26 avril</td><td>1937</td></tr>
-<tr><td colspan="2">Portugal</td><td>24 décembre</td><td>1931 A</td><td>24 juin</td><td>1932</td></tr>
-<tr><td colspan="2">Territoires portugais d’outre-mer</td><td>2 février</td><td>1952 A</td><td>2 août</td><td>1952</td></tr>
-<tr><td colspan="2">Pérou</td><td>29 octobre</td><td>1964 A</td><td>29 avril</td><td>1965</td></tr>
-<tr><td colspan="2">Royaume-Uni</td><td></td><td></td><td></td><td></td></tr>
-<tr><td colspan="2">Anguilla</td><td>2 décembre</td><td>1930</td><td>2 juin</td><td>1931</td></tr>
-<tr><td colspan="2">Ascencion</td><td>3 novembre</td><td>1931</td><td>3 mai</td><td>1932</td></tr>
-<tr><td colspan="2">Sainte-Hélène</td><td>3 novembre</td><td>1931</td><td>3 mai</td><td>1932</td></tr>
-<tr><td colspan="2">Russie</td><td>29 avril</td><td>1999 A</td><td>29 juillet</td><td>1999</td></tr>
-<tr><td colspan="2">Saint-Kitts-et-Nevis<sup>a</sup></td><td>2 décembre</td><td>1930</td><td>2 juin</td><td>1931</td></tr>
-<tr><td colspan="2">Sainte-Lucie<sup>a</sup></td><td>2 décembre</td><td>1930</td><td>2 juin</td><td>1931</td></tr>
-<tr><td colspan="2">Salomon, Iles</td><td>17 septembre</td><td>1981 S</td><td>7 juillet</td><td>1978</td></tr>
-<tr><td colspan="2">Sao Tomé-et-Principe<sup>b</sup></td><td>2 février</td><td>1952</td><td>2 août</td><td>1952</td></tr>
-<tr><td colspan="2">Serbie</td><td>17 avril</td><td>1959</td><td>17 octobre</td><td>1959</td></tr>
-<tr><td colspan="2">Seychelles<sup>a</sup></td><td>2 décembre</td><td>1930</td><td>2 juin</td><td>1931</td></tr>
-<tr><td colspan="2">Sierra Leone<sup>a</sup></td><td>2 décembre</td><td>1930</td><td>2 juin</td><td>1931</td></tr>
-<tr><td colspan="2">Singapour</td><td>18 juin</td><td>1974 S</td><td>9 août</td><td>1965</td></tr>
-<tr><td colspan="2">Slovénie</td><td>15 mai</td><td>1996 S</td><td>25 juin</td><td>1991</td></tr>
-<tr><td colspan="2">Somalie<sup>a</sup></td><td>2 décembre</td><td>1930</td><td>2 juin</td><td>1931</td></tr>
-<tr><td colspan="2">Sri Lanka<sup>a</sup></td><td>2 décembre</td><td>1930</td><td>2 juin</td><td>1931</td></tr>
-<tr><td colspan="2">Suisse\*</td><td>28 mai</td><td>1954 A</td><td>28 novembre</td><td>1954</td></tr>
-<tr><td colspan="2">Syrie</td><td>1<sup>er</sup> août</td><td>1974 A</td><td>1<sup>er</sup> février</td><td>1975</td></tr>
-<tr><td colspan="2">Sénégal</td><td>14 février</td><td>1978 A</td><td>14 août</td><td>1978</td></tr>
-<tr><td colspan="2">Timor-Leste<sup>b</sup></td><td>2 février</td><td>1952</td><td>2 août</td><td>1952</td></tr>
-<tr><td colspan="2">Tonga</td><td>13 juin</td><td>1978 S</td><td>4 juin</td><td>1970</td></tr>
-<tr><td colspan="2">Trinité-et-Tobago<sup>a</sup></td><td>2 décembre</td><td>1930</td><td>2 juin</td><td>1931</td></tr>
-<tr><td colspan="2">Turquie</td><td>4 juillet</td><td>1955 A</td><td>4 janvier</td><td>1956</td></tr>
-<tr><td colspan="2">Tuvalu<sup>a</sup></td><td>2 décembre</td><td>1931</td><td>2 juin</td><td>1931</td></tr>
-<tr><td>\*</td><td colspan="5">Réserves et déclarations.</td></tr>
-<tr><td></td><td colspan="5">Les réserves et déclarations, à l’exception de celles de la Suisse, ne sont pas publiées au RO. Les textes en français et en anglais pourront être consultés à l’adresse du site Internet du Gouvernement belge: http://diplomatie.belgium.be/fr/traites/ ou obtenus à la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
-<tr><td><sup>a</sup></td><td colspan="5">Adhésion ou ratification effectuée par la Grande-Bretagne.</td></tr>
-<tr><td><sup>b</sup></td><td colspan="5">Adhésion ou ratification éffectuée par le Portugal.</td></tr>
-<tr><td><sup>c</sup></td><td colspan="5">Adhésion ou ratification effectuée par l’Australie.</td></tr>
+<tr><th>États parties</th><th>Ratification Adhésion (A) Déclaration de succession (S)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
+<tr><td>Algérie</td><td>13 avril</td><td>1964 A</td><td>13 octobre</td><td>1964</td></tr>
+<tr><td>Allemagne\*</td><td>1<sup>er</sup> juillet</td><td>1939</td><td>1<sup>er</sup> janvier</td><td>1940</td></tr>
+<tr><td>Angola</td><td>2 février</td><td>1952 A</td><td>2 août</td><td>1952</td></tr>
+<tr><td>Antigua-et-Barbuda<sup>a</sup></td><td>2 décembre</td><td>1930</td><td>2 juin</td><td>1931</td></tr>
+<tr><td>Argentine</td><td>19 avril</td><td>1961 A</td><td>19 octobre</td><td>1961</td></tr>
+<tr><td>Australie</td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Île Norfolk\*</td><td>4 juillet</td><td>1955 A</td><td>4 janvier</td><td>1956</td></tr>
+<tr><td>Autorité palestinienne<sup>a</sup></td><td>2 décembre</td><td>1930</td><td>2 juin</td><td>1931</td></tr>
+<tr><td>Bahamas<sup>a</sup></td><td>2 décembre</td><td>1930</td><td>2 juin</td><td>1931</td></tr>
+<tr><td>Barbade<sup>a</sup></td><td>2 décembre</td><td>1930</td><td>2 juin</td><td>1931</td></tr>
+<tr><td>Belgique\*</td><td>2 juin</td><td>1930</td><td>2 juin</td><td>1931</td></tr>
+<tr><td>Belize<sup>a</sup></td><td>2 décembre</td><td>1930</td><td>2 juin</td><td>1931</td></tr>
+<tr><td>Bolivie</td><td>28 mai</td><td>1982 A</td><td>28 novembre</td><td>1982</td></tr>
+<tr><td>Cameroun<sup>a</sup></td><td>2 décembre</td><td>1930</td><td>2 juin</td><td>1931</td></tr>
+<tr><td>Cap-Vert</td><td>2 février</td><td>1952 A</td><td>2 août</td><td>1952</td></tr>
+<tr><td>Chine</td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Hong Kong</td><td>20 juin</td><td>1997</td><td>1<sup>er</sup> juillet</td><td>1997</td></tr>
+<tr><td>Macao</td><td>13 décembre</td><td>1999</td><td>20 décembre</td><td>1999</td></tr>
+<tr><td>Chypre<sup>a</sup></td><td>2 décembre</td><td>1930</td><td>2 juin</td><td>1931</td></tr>
+<tr><td>Congo (Kinshasa)</td><td>17 juillet</td><td>1967 A</td><td>17 janvier</td><td>1968</td></tr>
+<tr><td>Croatie</td><td>30 juillet</td><td>1992 S</td><td>8 octobre</td><td>1991</td></tr>
+<tr><td>Cuba\*</td><td>25 juillet</td><td>1977 A</td><td>25 janvier</td><td>1978</td></tr>
+<tr><td>Côte d’Ivoire\*</td><td>15 décembre</td><td>1961 A</td><td>15 juin</td><td>1962</td></tr>
+<tr><td>Dominique<sup>a</sup></td><td>2 décembre</td><td>1930</td><td>2 juin</td><td>1931</td></tr>
+<tr><td>Équateur</td><td>23 mars</td><td>1977 A</td><td>23 septembre</td><td>1977</td></tr>
+<tr><td>Espagne</td><td>2 juin</td><td>1930</td><td>2 juin</td><td>1931</td></tr>
+<tr><td>États-Unis\*</td><td>29 juin</td><td>1937</td><td>29 décembre</td><td>1937</td></tr>
+<tr><td>Fidji</td><td>22 août</td><td>1972 S</td><td>10 octobre</td><td>1970</td></tr>
+<tr><td>France\*</td><td>4 janvier</td><td>1937</td><td>4 juillet</td><td>1937</td></tr>
+<tr><td>Gambie<sup>a</sup></td><td>2 décembre</td><td>1930</td><td>2 juin</td><td>1931</td></tr>
+<tr><td>Ghana<sup>a</sup></td><td>2 décembre</td><td>1930</td><td>2 juin</td><td>1931</td></tr>
+<tr><td>Grenade<sup>a</sup></td><td>2 décembre</td><td>1930</td><td>2 juin</td><td>1931</td></tr>
+<tr><td>Guinée-Bissau<sup>b</sup></td><td>2 février</td><td>1952</td><td>2 août</td><td>1952</td></tr>
+<tr><td>Guyana<sup>a</sup></td><td>2 décembre</td><td>1930</td><td>2 juin</td><td>1931</td></tr>
+<tr><td>Hongrie</td><td>2 juin</td><td>1930</td><td>2 juin</td><td>1931</td></tr>
+<tr><td>Îles Salomon</td><td>17 septembre</td><td>1981 S</td><td>7 juillet</td><td>1978</td></tr>
+<tr><td>Iran</td><td>26 avril</td><td>1966 A</td><td>26 octobre</td><td>1966</td></tr>
+<tr><td>Irlande\*</td><td>30 janvier</td><td>1962 A</td><td>30 juillet</td><td>1962</td></tr>
+<tr><td>Israël</td><td>5 septembre</td><td>1959 A</td><td>5 mars</td><td>1960</td></tr>
+<tr><td>Jamaïque<sup>a</sup></td><td>2 décembre</td><td>1930</td><td>2 juin</td><td>1931</td></tr>
+<tr><td>Kenya<sup>a</sup></td><td>2 décembre</td><td>1930</td><td>2 juin</td><td>1931</td></tr>
+<tr><td>Kiribati<sup>a</sup></td><td>2 décembre</td><td>1930</td><td>2 juin</td><td>1931</td></tr>
+<tr><td>Koweït\*</td><td>25 juillet</td><td>1969 A</td><td>25 janvier</td><td>1970</td></tr>
+<tr><td>Lettonie</td><td>4 avril</td><td>2002 A</td><td>4 octobre</td><td>2002</td></tr>
+<tr><td>Lituanie</td><td>2 décembre</td><td>2003 A</td><td>2 juin</td><td>2004</td></tr>
+<tr><td>Luxembourg</td><td>18 février</td><td>1991 A</td><td>18 mai</td><td>1991</td></tr>
+<tr><td>Madagascar</td><td>13 juillet</td><td>1965 A</td><td>13 janvier</td><td>1966</td></tr>
+<tr><td>Malaisie<sup>a</sup></td><td>2 décembre</td><td>1930</td><td>2 juin</td><td>1931</td></tr>
+<tr><td>Maurice</td><td>24 août</td><td>1970 S</td><td>12 mars</td><td>1968</td></tr>
+<tr><td>Mexique</td><td>20 mai</td><td>1994 A</td><td>20 août</td><td>1994</td></tr>
+<tr><td>Monaco</td><td>15 mai</td><td>1931 A</td><td>15 novembre</td><td>1931</td></tr>
+<tr><td>Mozambique<sup>b</sup></td><td>2 février</td><td>1952</td><td>2 août</td><td>1952</td></tr>
+<tr><td>Myanmar\*</td><td>13 août</td><td>2020 A</td><td>13 février</td><td>2021</td></tr>
+<tr><td>Nauru</td><td>4 juillet</td><td>1955</td><td>4 janvier</td><td>1956</td></tr>
+<tr><td>Nigéria<sup>a</sup></td><td>2 décembre</td><td>1930</td><td>2 juin</td><td>1931</td></tr>
+<tr><td>Papouasie-Nouvelle-Guinée<sup>c</sup></td><td>4 juillet</td><td>1955</td><td>4 janvier</td><td>1956</td></tr>
+<tr><td>Pologne</td><td>26 octobre</td><td>1936</td><td>26 avril</td><td>1937</td></tr>
+<tr><td>Portugal</td><td>24 décembre</td><td>1931 A</td><td>24 juin</td><td>1932</td></tr>
+<tr><td>Territoires portugais d’outre-mer</td><td>2 février</td><td>1952 A</td><td>2 août</td><td>1952</td></tr>
+<tr><td>Royaume-Uni</td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Anguilla</td><td>2 décembre</td><td>1930</td><td>2 juin</td><td>1931</td></tr>
+<tr><td>Ascencion</td><td>3 novembre</td><td>1931</td><td>3 mai</td><td>1932</td></tr>
+<tr><td>Sainte-Hélène</td><td>3 novembre</td><td>1931</td><td>3 mai</td><td>1932</td></tr>
+<tr><td>Russie</td><td>29 avril</td><td>1999 A</td><td>29 juillet</td><td>1999</td></tr>
+<tr><td>Saint-Kitts-et-Nevis<sup>a</sup></td><td>2 décembre</td><td>1930</td><td>2 juin</td><td>1931</td></tr>
+<tr><td>Saint-Marin</td><td>6 mai</td><td>2021 A</td><td>6 novembre</td><td>2021</td></tr>
+<tr><td>Sainte-Lucie<sup>a</sup></td><td>2 décembre</td><td>1930</td><td>2 juin</td><td>1931</td></tr>
+<tr><td>Sao Tomé-et-Principe<sup>b</sup></td><td>2 février</td><td>1952</td><td>2 août</td><td>1952</td></tr>
+<tr><td>Serbie</td><td>17 avril</td><td>1959</td><td>17 octobre</td><td>1959</td></tr>
+<tr><td>Seychelles<sup>a</sup></td><td>2 décembre</td><td>1930</td><td>2 juin</td><td>1931</td></tr>
+<tr><td>Sierra Leone<sup>a</sup></td><td>2 décembre</td><td>1930</td><td>2 juin</td><td>1931</td></tr>
+<tr><td>Singapour</td><td>18 juin</td><td>1974 S</td><td>9 août</td><td>1965</td></tr>
+<tr><td>Slovénie</td><td>15 mai</td><td>1996 S</td><td>25 juin</td><td>1991</td></tr>
+<tr><td>Somalie<sup>a</sup></td><td>2 décembre</td><td>1930</td><td>2 juin</td><td>1931</td></tr>
+<tr><td>Sri Lanka<sup>a</sup></td><td>2 décembre</td><td>1930</td><td>2 juin</td><td>1931</td></tr>
+<tr><td>Suisse\*</td><td>28 mai</td><td>1954 A</td><td>28 novembre</td><td>1954</td></tr>
+<tr><td>Syrie</td><td>1<sup>er</sup> août</td><td>1974 A</td><td>1<sup>er</sup> février</td><td>1975</td></tr>
+<tr><td>Sénégal</td><td>14 février</td><td>1978 A</td><td>14 août</td><td>1978</td></tr>
+<tr><td>Timor-Leste<sup>b</sup></td><td>2 février</td><td>1952</td><td>2 août</td><td>1952</td></tr>
+<tr><td>Tonga</td><td>13 juin</td><td>1978 S</td><td>4 juin</td><td>1970</td></tr>
+<tr><td>Trinité-et-Tobago<sup>a</sup></td><td>2 décembre</td><td>1930</td><td>2 juin</td><td>1931</td></tr>
+<tr><td>Turquie</td><td>4 juillet</td><td>1955 A</td><td>4 janvier</td><td>1956</td></tr>
+<tr><td>Tuvalu<sup>a</sup></td><td>2 décembre</td><td>1931</td><td>2 juin</td><td>1931</td></tr>
+<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO, à l’exception de celles de la Suisse. Les textes en français pourront être consultés à l’adresse du site Internet du Gouvernement belge: [https://diplomatie.belgium.be/fr/traites/](https://diplomatie.belgium.be/fr/traites/) ou obtenus à la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> Adhésion ou ratification effectuée par la Grande-Bretagne. <sup>b</sup> Adhésion ou ratification éffectuée par le Portugal. c Adhésion ou ratification effectuée par l’Australie.</td></tr>
 </table>
+
+## Réserves et déclarations
 
 Suisse
 

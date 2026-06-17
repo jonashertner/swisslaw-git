@@ -3,26 +3,27 @@ sr: "0.747.354.11"
 title: "Convenzione internazionale del 25 agosto 1924 su l'unificazione di alcune regole in materia di polizza di carico (con Protocollo di firma)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1954/758_776_672"
 language: it
-version: 2012-03-16
+version: 2026-06-18
 adopted: 1924-08-25
 in_force: 1954-11-28
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1954/758_776_672/20120316/it/xml/fedlex-data-admin-ch-eli-cc-1954-758_776_672-20120316-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1954/758_776_672/20120316/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1954/758_776_672/20260618/it/xml/fedlex-data-admin-ch-eli-cc-1954-758_776_672-20260618-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1954/758_776_672/20260618/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
-# Convenzione internazionale su l’unificazione di alcune regole in materia di polizza di carico ****
+# Convenzione internazionale su l’unificazione di alcune regole in materia di polizza di carico
 
-Traduzione*[^t-2]*[^t-1]
+RU **1954** 672; FF **1953** II 781 ediz. franc., **1953** III 749 ediz. ted.[^t-1]
 
-Conchiusa a Bruxelles il 25 agosto 1924 Approvata dall’Assemblea federale il 17 marzo 1954[^t-3] Strumento d’adesione depositato dalla Svizzera il 28 maggio 1954 Entrata in vigore per la Svizzera il 28 novembre 1954
+Traduzione
 
-(Stato 16 marzo 2012)
+Conchiusa a Bruxelles il 25 agosto 1924 Approvata dall’Assemblea federale il 17 marzo 1954[^t-2] Strumento d’adesione depositato dalla Svizzera il 28 maggio 1954 Entrata in vigore per la Svizzera il 28 novembre 1954
 
-[^t-1]: Le mod. del 23 feb. 1968 ([RS 0.747.354.111](https://fedlex.data.admin.ch/eli/cc/1977/1077_1077_1077); [RU 1977 1077](https://fedlex.data.admin.ch/eli/oc/1977/1077_1077_1077)) e quelle del 21 dic. 1979 ([RS 0.747.354.112](https://fedlex.data.admin.ch/eli/cc/1988/927_927_927); [RU 1988 927](https://fedlex.data.admin.ch/eli/oc/1988/927_927_927)) sono inserite nel presente testo ma sono applicabili unicamente agli Stati che le hanno ratificate, vedi dunque il relativo campo d’applicazione.
-[^t-2]: RU **1954** 672; FF **1953** II 781 ediz. franc., **1953** III 749 ediz. ted. Dal testo originale francese.
-[^t-3]: N. 2 del DF del 17 mar. 1954 ([RU 1954 663](https://fedlex.data.admin.ch/eli/oc/1954/749_767_663)).
+(Stato 18 giugno 2026)
+
+[^t-1]: Le mod. del 23 feb. 1968 ([RS 0.747.354.111](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3089); [RU 1977 1077](https://fedlex.data.admin.ch/eli/oc/1977/1077_1077_1077)) e quelle del 21 dic. 1979 ([RS 0.747.354.112](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3090); [RU 1988 927](https://fedlex.data.admin.ch/eli/oc/1988/927_927_927)) sono inserite nel presente testo ma sono applicabili unicamente agli Stati che le hanno ratificate, vedi dunque il relativo campo d’applicazione.
+[^t-2]: N. 2 del DF del 17 mar. 1954 ([RU 1954 663](https://fedlex.data.admin.ch/eli/oc/1954/749_767_663)).
 
 #### Art. 1
 
@@ -76,7 +77,7 @@ Le azioni di regresso possono essere esercitate anche dopo la scadenza del termi
 
 **§ 7**
 
-Dopo che le merci sono state caricate la polizza di carico da emettersi dal vettore, dal capitano o dall’agente del vettore, a favore del caricatore sarà, se il caricatore lo richieda, una polizza di carico *per merce imbarcata,* purché, qualora il caricatore abbia previamente ottenuto qualche documento costituente titolo a tali merci, restituisca lo stesso contro la emissione della polizza di carico per merce imbarcata. Il vettore, il capitano o l’agente avrà pure la facoltà di annotare, nel porto di caricazione, sul documento rilasciato precedentemente, il nome o i nomi della nave o delle navi sulle quali le merci sono state imbarcate e la data o le date della caricazione, e qualora questo documento rechi una tale annotazione, lo stesso dovrà, agli effetti di questo articolo, essere considerato come costituente una polizza per *merce imbar**c**a**ta.*
+Dopo che le merci sono state caricate la polizza di carico da emettersi dal vettore, dal capitano o dall’agente del vettore, a favore del caricatore sarà, se il caricatore lo richieda, una polizza di carico *per merce imbarcata,* purché, qualora il caricatore abbia previamente ottenuto qualche documento costituente titolo a tali merci, restituisca lo stesso contro la emissione della polizza di carico per merce imbarcata. Il vettore, il capitano o l’agente avrà pure la facoltà di annotare, nel porto di caricazione, sul documento rilasciato precedentemente, il nome o i nomi della nave o delle navi sulle quali le merci sono state imbarcate e la data o le date della caricazione, e qualora questo documento rechi una tale annotazione, lo stesso dovrà, agli effetti di questo articolo, essere considerato come costituente una polizza per *merce imbar**cata.*
 
 **§ 8**
 
@@ -140,7 +141,8 @@ Né il vettore né la nave saranno responsabili per perdita o danno risultante o
 - p. vizi occulti non avvertibili mediante la dovuta diligenza;
 - q. qualsiasi altra cagione non proveniente da fatto o colpa del vettore o da fatto o colpa degli agenti o preposti del vettore, ma l’onere della prova incomberà alla persona che reclami il beneficio di questa eccezione e a essa spetterà di provare che né la colpa personale né il fatto del vettore, né la colpa o il fatto degli agenti o dipendenti dal vettore, hanno contribuito alla perdita o al danno.
 
-- a)[^4-2] A meno che la natura e il valore delle merci siano stati dichiarati dal caricatore innanzi l’imbarco e che questa dichiarazione sia stata inserita nella polizza di carico, il vettore e la nave non sono in nessun caso responsabili delle perdite o dei danni recati alle merci o concernenti queste ultime per una somma superiore a 666,67 unità di conto per collo o unità o 2 unità di conto per chilogrammo di peso lordo delle merci perse o avariate, tenuto conto che è applicabile il limite più elevato.»b) L’ammontare totale dovuto è calcolato in riferimento al valore delle merci nel luogo e giorno in cui sono state scaricate conformemente al contratto, oppure nel giorno e nel luogo in cui avrebbero dovute essere scaricate.
+- a)[^4-2] A meno che la natura e il valore delle merci siano stati dichiarati dal caricatore innanzi l’imbarco e che questa dichiarazione sia stata inserita nella polizza di carico, il vettore e la nave non sono in nessun caso responsabili delle perdite o dei danni recati alle merci o concernenti queste ultime per una somma superiore a 666,67 unità di conto per collo o unità o 2 unità di conto per chilogrammo di peso lordo delle merci perse o avariate, tenuto conto che è applicabile il limite più elevato.
+- b) L’ammontare totale dovuto è calcolato in riferimento al valore delle merci nel luogo e giorno in cui sono state scaricate conformemente al contratto, oppure nel giorno e nel luogo in cui avrebbero dovute essere scaricate.
 - Il valore della merce è determinato secondo il corso in borsa oppure, mancando quest’ultimo, secondo il prezzo corrente sul mercato o, mancando l’uno e l’altro, secondo il valore abituale di merci di natura e qualità simili.
 - c) Se per raggruppare merci sono utilizzati un contenitore, una paletta o un dispositivo analogo, qualsiasi collo o unità, indicato nella polizza di carico come incluso nel dispositivo, è considerato un collo o unità conformemente al presente paragrafo. Fuori dei casi precedentemente previsti, questo dispositivo è considerato collo o unità.
 - d)[^4-3] L’unità di conto menzionata nel presente articolo è il Diritto Speciale di Prelievo quale definito dal Fondo Monetario Internazionale. La somma menzionata nel comma (a) sarà convertita nella moneta nazionale alla data determinata dalla legge della giurisdizione adita.
@@ -266,115 +268,110 @@ Fatto a Bruxelles, in un solo esemplare, il 25 agosto 1924.
 
 (Seguono le firme)
 
-Protocollo di firma
+## Protocollo di firma
 
 Al momento di procedere alla firma della Convenzione internazionale su l’unificazione di alcune regole in materia di polizza di carico, i plenipotenziari sottoscritti hanno adottato il presente protocollo, che avrà la stessa forza e lo stesso valore che se le disposizioni fossero inserite nel testo della Convenzione alla quale si riferisce.
 
-Le Alte Parti contraenti potranno applicare la presente Convenzione sia dando a essa forza di legge, sia introducendo in modo appropriato nella loro legislazione le regole adottate dalla Convenzione[^t-4].
+Le Alte Parti contraenti potranno applicare la presente Convenzione sia dando a essa forza di legge, sia introducendo in modo appropriato nella loro legislazione le regole adottate dalla Convenzione[^lvlu18-1].
 
 Esse si riservano espressamente il diritto:
 
 - 1\. Nei casi previsti nell’articolo 4, secondo capoverso, lettere da c a p, di specificare che il portatore di una polizza di carico può provare una colpa personale del vettore o dei suoi preposti non contemplata nella lettera a.
 - 2\. Per quanto concerne il cabotaggio nazionale, di applicare le disposizioni dell’articolo 6 a tutte le categorie di merci senza tener conto della limitazione prevista nell’ultimo capoverso di detto articolo.
 
-Fatto a Bruxelles, in un solo esemplare, il 25 agosto 1924.
+[^lvlu18-1]: La Confederazione Svizzera si riserva d’introdurre nella sua legislazione nazionale le regole adottate dalla presente Conv. in forma adeguata alla legislazione stessa.
 
-(Seguono le firme)
+Fatto a Bruxelles, in un solo esemplare, il 25 agosto 1924. (Seguono le firme)
 
-[^t-4]: La Confederazione Svizzera si riserva d’introdurre nella sua legislazione nazionale le regole adottate dalla presente Conv. in forma adeguata alla legislazione stessa.
-
-Campo d’applicazione il 16 marzo 2012**[^t-5]**
+Campo d’applicazione il 18 giugno 2026
 
 <table>
-<tr><th colspan="2">Stati partecipanti</th><th>Ratifica Adesione (A) Dichiarazione di successione (S)</th><th></th><th>Entrata in vigore</th><th></th></tr>
-<tr><td colspan="2">Algeria</td><td>13 aprile</td><td>1964 A</td><td>13 ottobre</td><td>1964</td></tr>
-<tr><td colspan="2">Antigua e Barbuda<sup>a</sup></td><td>2 dicembre</td><td>1930</td><td>2 giugno</td><td>1931</td></tr>
-<tr><td colspan="2">Argentina</td><td>19 aprile</td><td>1961 A</td><td>19 ottobre</td><td>1961</td></tr>
-<tr><td colspan="2">Ausralia</td><td></td><td></td><td></td><td></td></tr>
-<tr><td colspan="2">Norfolk, Isola\*</td><td>4 luglio</td><td>1955 A</td><td>4 gennaio</td><td>1956</td></tr>
-<tr><td colspan="2">Autorità palestinese<sup>a</sup></td><td>2 dicembre</td><td>1930</td><td>2 giugno</td><td>1931</td></tr>
-<tr><td colspan="2">Bahama<sup>a</sup></td><td>2 dicembre</td><td>1930</td><td>2 giugno</td><td>1931</td></tr>
-<tr><td colspan="2">Barbados<sup>a</sup></td><td>2 dicembre</td><td>1930</td><td>2 giugno</td><td>1931</td></tr>
-<tr><td colspan="2">Belgio\*</td><td>2 giugno</td><td>1930</td><td>2 giugno</td><td>1931</td></tr>
-<tr><td colspan="2">Belize<sup>a</sup></td><td>2 dicembre</td><td>1930</td><td>2 giugno</td><td>1931</td></tr>
-<tr><td colspan="2">Bolivia</td><td>28 maggio</td><td>1982 A</td><td>28 novembre</td><td>1982</td></tr>
-<tr><td colspan="2">Camerun<sup>a</sup></td><td>2 dicembre</td><td>1930</td><td>2 giugno</td><td>1931</td></tr>
-<tr><td colspan="2">Cina</td><td></td><td></td><td></td><td></td></tr>
-<tr><td colspan="2">Hong Kong</td><td>20 giugno</td><td>1997</td><td>1° luglio</td><td>1997</td></tr>
-<tr><td colspan="2">Macao</td><td>13 dicembre</td><td>1999</td><td>20 dicembre</td><td>1999</td></tr>
-<tr><td colspan="2">Cipro<sup>a</sup></td><td>2 dicembre</td><td>1930</td><td>2 giugno</td><td>1931</td></tr>
-<tr><td colspan="2">Congo (Kinshasa)</td><td>17 luglio</td><td>1967 A</td><td>17 gennaio</td><td>1968</td></tr>
-<tr><td colspan="2">Croazia</td><td>30 luglio</td><td>1992 S</td><td>8 ottobre</td><td>1991</td></tr>
-<tr><td colspan="2">Cuba\*</td><td>25 luglio</td><td>1977 A</td><td>25 gennaio</td><td>1978</td></tr>
-<tr><td colspan="2">Costa d’Avorio\*</td><td>15 dicembre</td><td>1961 A</td><td>15 giugno</td><td>1962</td></tr>
-<tr><td colspan="2">Dominica<sup>a</sup></td><td>2 dicembre</td><td>1930</td><td>2 giugno</td><td>1931</td></tr>
-<tr><td colspan="2">Ecuador</td><td>23 marzo</td><td>1977 A</td><td>23 settembre</td><td>1977</td></tr>
-<tr><td colspan="2">Figi</td><td>22 agosto</td><td>1972 S</td><td>10 ottobre</td><td>1970</td></tr>
-<tr><td colspan="2">Francia\*</td><td>4 gennaio</td><td>1937</td><td>4 luglio</td><td>1937</td></tr>
-<tr><td colspan="2">Gambia<sup>a</sup></td><td>2 dicembre</td><td>1930</td><td>2 giugno</td><td>1931</td></tr>
-<tr><td colspan="2">Germania\*</td><td>1° luglio</td><td>1939</td><td>1° gennaio</td><td>1940</td></tr>
-<tr><td colspan="2">Ghana<sup>a</sup></td><td>2 dicembre</td><td>1930</td><td>2 giugno</td><td>1931</td></tr>
-<tr><td colspan="2">Giamaica<sup>a</sup></td><td>2 dicembre</td><td>1930</td><td>2 giugno</td><td>1931</td></tr>
-<tr><td colspan="2">Grenada<sup>a</sup></td><td>2 dicembre</td><td>1930</td><td>2 giugno</td><td>1931</td></tr>
-<tr><td colspan="2">Guinea-Bissau<sup>b</sup></td><td>2 febbraio</td><td>1952</td><td>2 agosto</td><td>1952</td></tr>
-<tr><td colspan="2">Guyana<sup>a</sup></td><td>2 dicembre</td><td>1930</td><td>2 giugno</td><td>1931</td></tr>
-<tr><td colspan="2">Iran</td><td>26 aprile</td><td>1966 A</td><td>26 ottobre</td><td>1966</td></tr>
-<tr><td colspan="2">Irlanda\*</td><td>30 gennaio</td><td>1962 A</td><td>30 luglio</td><td>1962</td></tr>
-<tr><td colspan="2">Israele</td><td>5 settembre</td><td>1959 A</td><td>5 marzo</td><td>1960</td></tr>
-<tr><td colspan="2">Kenya<sup>a</sup></td><td>2 dicembre</td><td>1930</td><td>2 giugno</td><td>1931</td></tr>
-<tr><td colspan="2">Kiribati<sup>a</sup></td><td>2 dicembre</td><td>1930</td><td>2 giugno</td><td>1931</td></tr>
-<tr><td colspan="2">Kuwait\*</td><td>25 luglio</td><td>1969 A</td><td>25 gennaio</td><td>1970</td></tr>
-<tr><td colspan="2">Lettonia</td><td>4 aprile</td><td>2002 A</td><td>4 ottobre</td><td>2002</td></tr>
-<tr><td colspan="2">Lituania</td><td>2 dicembre</td><td>2003 A</td><td>2 giugno</td><td>2004</td></tr>
-<tr><td colspan="2">Lussemburgo</td><td>18 febbraio</td><td>1991 A</td><td>18 maggio</td><td>1991</td></tr>
-<tr><td colspan="2">Madagascar</td><td>13 luglio</td><td>1965 A</td><td>13 gennaio</td><td>1966</td></tr>
-<tr><td colspan="2">Malaysia<sup>a</sup></td><td>2 dicembre</td><td>1930</td><td>2 giugno</td><td>1931</td></tr>
-<tr><td colspan="2">Maurizio</td><td>24 agosto</td><td>1970 S</td><td>12 marzo</td><td>1968</td></tr>
-<tr><td colspan="2">Messico</td><td>20 maggio</td><td>1994 A</td><td>20 agosto</td><td>1994</td></tr>
-<tr><td colspan="2">Monaco</td><td>15 maggio</td><td>1931 A</td><td>15 novembre</td><td>1931</td></tr>
-<tr><td colspan="2">Mozambico<sup>b</sup></td><td>2 febbraio</td><td>1952</td><td>2 agosto</td><td>1952</td></tr>
-<tr><td colspan="2">Nauru<sup>c</sup></td><td>4 luglio</td><td>1955</td><td>4 gennaio</td><td>1956</td></tr>
-<tr><td colspan="2">Nigeria<sup>a</sup></td><td>2 dicembre</td><td>1930</td><td>2 giugno</td><td>1931</td></tr>
-<tr><td colspan="2">Papua Nuova Guinea<sup>c</sup></td><td>4 luglio</td><td>1955</td><td>4 gennaio</td><td>1956</td></tr>
-<tr><td colspan="2">Perù</td><td>29 ottobre</td><td>1964 A</td><td>29 aprile</td><td>1965</td></tr>
-<tr><td colspan="2">Polonia</td><td>26 ottobre</td><td>1936</td><td>26 aprile</td><td>1937</td></tr>
-<tr><td colspan="2">Portogallo</td><td>24 dicembre</td><td>1931 A</td><td>24 giugno</td><td>1932</td></tr>
-<tr><td colspan="2">Territori portoghesi d’oltremare</td><td>2 febbraio</td><td>1952 A</td><td>2 agosto</td><td>1952</td></tr>
-<tr><td colspan="2">Regno Unito</td><td></td><td></td><td></td><td></td></tr>
-<tr><td colspan="2">Anguilla</td><td>2 dicembre</td><td>1930</td><td>2 giugno</td><td>1931</td></tr>
-<tr><td colspan="2">Ascension</td><td>3 novembre</td><td>1931</td><td>3 maggio</td><td>1932</td></tr>
-<tr><td colspan="2">Sant’Elena</td><td>3 novembre</td><td>1931</td><td>3 maggio</td><td>1932</td></tr>
-<tr><td colspan="2">Russia</td><td>29 aprile</td><td>1999 A</td><td>29 luglio</td><td>1999</td></tr>
-<tr><td colspan="2">Saint Kitts e Nevis<sup>a</sup></td><td>2 dicembre</td><td>1930</td><td>2 giugno</td><td>1931</td></tr>
-<tr><td colspan="2">Salomone, Isole</td><td>17 settembre</td><td>1981 S</td><td>7 luglio</td><td>1978</td></tr>
-<tr><td colspan="2">Santa Lucia<sup>a</sup></td><td>2 dicembre</td><td>1930</td><td>2 giugno</td><td>1931</td></tr>
-<tr><td colspan="2">Seicelle<sup>a</sup></td><td>2 dicembre</td><td>1930</td><td>2 giugno</td><td>1931</td></tr>
-<tr><td colspan="2">Senegal</td><td>14 febbraio</td><td>1978 A</td><td>14 agosto</td><td>1978</td></tr>
-<tr><td colspan="2">Serbia</td><td>17 aprile</td><td>1959</td><td>17 ottobre</td><td>1959</td></tr>
-<tr><td colspan="2">Sierra Leone<sup>a</sup></td><td>2 dicembre</td><td>1930</td><td>2 giugno</td><td>1931</td></tr>
-<tr><td colspan="2">Singapore</td><td>18 giugno</td><td>1974 S</td><td>9 agosto</td><td>1965</td></tr>
-<tr><td colspan="2">Siria</td><td>1° agosto</td><td>1974 A</td><td>1° febbraio</td><td>1975</td></tr>
-<tr><td colspan="2">Slovenia</td><td>15 maggio</td><td>1996 S</td><td>25 giugno</td><td>1991</td></tr>
-<tr><td colspan="2">Somalia<sup>a</sup></td><td>2 dicembre</td><td>1930</td><td>2 giugno</td><td>1931</td></tr>
-<tr><td colspan="2">Spagna</td><td>2 giugno</td><td>1930</td><td>2 giugno</td><td>1931</td></tr>
-<tr><td colspan="2">Sri Lanka<sup>a</sup></td><td>2 dicembre</td><td>1930</td><td>2 giugno</td><td>1931</td></tr>
-<tr><td colspan="2">Stati Uniti\*</td><td>29 giugno</td><td>1937</td><td>29 dicembre</td><td>1937</td></tr>
-<tr><td colspan="2">Svizzera\*</td><td>28 maggio</td><td>1954 A</td><td>28 novembre</td><td>1954</td></tr>
-<tr><td colspan="2">São Tomé e Príncipe<sup>b</sup></td><td>2 febbraio</td><td>1952</td><td>2 agosto</td><td>1952</td></tr>
-<tr><td colspan="2">Timor Est<sup>b</sup></td><td>2 febbraio</td><td>1952</td><td>2 agosto</td><td>1952</td></tr>
-<tr><td colspan="2">Tonga</td><td>13 giugno</td><td>1978 S</td><td>4 giugno</td><td>1970</td></tr>
-<tr><td colspan="2">Trinidad e Tobago<sup>a</sup></td><td>2 dicembre</td><td>1930</td><td>2 giugno</td><td>1931</td></tr>
-<tr><td colspan="2">Turchia</td><td>4 luglio</td><td>1955 A</td><td>4 gennaio</td><td>1956</td></tr>
-<tr><td colspan="2">Tuvalu<sup>a</sup></td><td>2 dicembre</td><td>1931</td><td>2 giugno</td><td>1931</td></tr>
-<tr><td colspan="2">Ungheria</td><td>2 giugno</td><td>1930</td><td>2 giugno</td><td>1931</td></tr>
-<tr><td>\*</td><td colspan="5">Riserve e dichiarazioni.</td></tr>
-<tr><td></td><td colspan="5">Le riserve e dichiarazioni non sono pubblicate nella RU, eccetto quelle della Svizzera. Il testo, in francese e inglese, può essere consultato sul sito Internet del Governo belga: http://diplomatie.belgium.be/fr/traites/ oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
-<tr><td><sup>a</sup></td><td colspan="5">Adesione o ratifica ad opera della Gran Bretagna.</td></tr>
-<tr><td><sup>b</sup></td><td colspan="5">Adesione o ratifica ad opera del Portogallo.</td></tr>
-<tr><td><sup>c</sup></td><td colspan="5">Adesione o ratifica ad opera dell’Australia.</td></tr>
+<tr><th>Stati partecipanti</th><th>Ratifica Adesione (A) Dichiarazione di successione (S)</th><th></th><th>Entrata in vigore</th><th></th></tr>
+<tr><td>Algeria</td><td>13 aprile</td><td>1964 A</td><td>13 ottobre</td><td>1964</td></tr>
+<tr><td>Angola</td><td>2 febbraio</td><td>1952 A</td><td>2 agosto</td><td>1952</td></tr>
+<tr><td>Antigua e Barbuda <sup>a</sup></td><td>2 dicembre</td><td>1930</td><td>2 giugno</td><td>1931</td></tr>
+<tr><td>Argentina</td><td>19 aprile</td><td>1961 A</td><td>19 ottobre</td><td>1961</td></tr>
+<tr><td>Ausralia</td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Norfolk, Isola\*</td><td>4 luglio</td><td>1955 A</td><td>4 gennaio</td><td>1956</td></tr>
+<tr><td>Autorità palestinese <sup>a</sup></td><td>2 dicembre</td><td>1930</td><td>2 giugno</td><td>1931</td></tr>
+<tr><td>Bahama <sup>a</sup></td><td>2 dicembre</td><td>1930</td><td>2 giugno</td><td>1931</td></tr>
+<tr><td>Barbados <sup>a</sup></td><td>2 dicembre</td><td>1930</td><td>2 giugno</td><td>1931</td></tr>
+<tr><td>Belgio\*</td><td>2 giugno</td><td>1930</td><td>2 giugno</td><td>1931</td></tr>
+<tr><td>Belize <sup>a</sup></td><td>2 dicembre</td><td>1930</td><td>2 giugno</td><td>1931</td></tr>
+<tr><td>Bolivia</td><td>28 maggio</td><td>1982 A</td><td>28 novembre</td><td>1982</td></tr>
+<tr><td>Camerun <sup>a</sup></td><td>2 dicembre</td><td>1930</td><td>2 giugno</td><td>1931</td></tr>
+<tr><td>Capo Verde</td><td>2 febbraio</td><td>1952 A</td><td>2 agosto</td><td>1952</td></tr>
+<tr><td>Cina</td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Hong Kong</td><td>20 giugno</td><td>1997</td><td>1° luglio</td><td>1997</td></tr>
+<tr><td>Macao</td><td>13 dicembre</td><td>1999</td><td>20 dicembre</td><td>1999</td></tr>
+<tr><td>Cipro <sup>a</sup></td><td>2 dicembre</td><td>1930</td><td>2 giugno</td><td>1931</td></tr>
+<tr><td>Congo (Kinshasa)</td><td>17 luglio</td><td>1967 A</td><td>17 gennaio</td><td>1968</td></tr>
+<tr><td>Croazia</td><td>30 luglio</td><td>1992 S</td><td>8 ottobre</td><td>1991</td></tr>
+<tr><td>Cuba\*</td><td>25 luglio</td><td>1977 A</td><td>25 gennaio</td><td>1978</td></tr>
+<tr><td>Costa d’Avorio\*</td><td>15 dicembre</td><td>1961 A</td><td>15 giugno</td><td>1962</td></tr>
+<tr><td>Dominica <sup>a</sup></td><td>2 dicembre</td><td>1930</td><td>2 giugno</td><td>1931</td></tr>
+<tr><td>Ecuador</td><td>23 marzo</td><td>1977 A</td><td>23 settembre</td><td>1977</td></tr>
+<tr><td>Figi</td><td>22 agosto</td><td>1972 S</td><td>10 ottobre</td><td>1970</td></tr>
+<tr><td>Francia\*</td><td>4 gennaio</td><td>1937</td><td>4 luglio</td><td>1937</td></tr>
+<tr><td>Gambia <sup>a</sup></td><td>2 dicembre</td><td>1930</td><td>2 giugno</td><td>1931</td></tr>
+<tr><td>Germania\*</td><td>1° luglio</td><td>1939</td><td>1° gennaio</td><td>1940</td></tr>
+<tr><td>Ghana <sup>a</sup></td><td>2 dicembre</td><td>1930</td><td>2 giugno</td><td>1931</td></tr>
+<tr><td>Giamaica <sup>a</sup></td><td>2 dicembre</td><td>1930</td><td>2 giugno</td><td>1931</td></tr>
+<tr><td>Grenada <sup>a</sup></td><td>2 dicembre</td><td>1930</td><td>2 giugno</td><td>1931</td></tr>
+<tr><td>Guinea-Bissau <sup>b</sup></td><td>2 febbraio</td><td>1952</td><td>2 agosto</td><td>1952</td></tr>
+<tr><td>Guyana <sup>a</sup></td><td>2 dicembre</td><td>1930</td><td>2 giugno</td><td>1931</td></tr>
+<tr><td>Iran</td><td>26 aprile</td><td>1966 A</td><td>26 ottobre</td><td>1966</td></tr>
+<tr><td>Irlanda\*</td><td>30 gennaio</td><td>1962 A</td><td>30 luglio</td><td>1962</td></tr>
+<tr><td>Israele</td><td>5 settembre</td><td>1959 A</td><td>5 marzo</td><td>1960</td></tr>
+<tr><td>Kenya <sup>a</sup></td><td>2 dicembre</td><td>1930</td><td>2 giugno</td><td>1931</td></tr>
+<tr><td>Kiribati <sup>a</sup></td><td>2 dicembre</td><td>1930</td><td>2 giugno</td><td>1931</td></tr>
+<tr><td>Kuwait\*</td><td>25 luglio</td><td>1969 A</td><td>25 gennaio</td><td>1970</td></tr>
+<tr><td>Lettonia</td><td>4 aprile</td><td>2002 A</td><td>4 ottobre</td><td>2002</td></tr>
+<tr><td>Lituania</td><td>2 dicembre</td><td>2003 A</td><td>2 giugno</td><td>2004</td></tr>
+<tr><td>Lussemburgo</td><td>18 febbraio</td><td>1991 A</td><td>18 maggio</td><td>1991</td></tr>
+<tr><td>Madagascar</td><td>13 luglio</td><td>1965 A</td><td>13 gennaio</td><td>1966</td></tr>
+<tr><td>Malaysia<sup>a</sup></td><td>2 dicembre</td><td>1930</td><td>2 giugno</td><td>1931</td></tr>
+<tr><td>Maurizio</td><td>24 agosto</td><td>1970 S</td><td>12 marzo</td><td>1968</td></tr>
+<tr><td>Messico</td><td>20 maggio</td><td>1994 A</td><td>20 agosto</td><td>1994</td></tr>
+<tr><td>Monaco</td><td>15 maggio</td><td>1931 A</td><td>15 novembre</td><td>1931</td></tr>
+<tr><td>Mozambico <sup>b</sup></td><td>2 febbraio</td><td>1952</td><td>2 agosto</td><td>1952</td></tr>
+<tr><td>Myanmar\*</td><td>13 agosto</td><td>2020 A</td><td>13 febbraio</td><td>2021</td></tr>
+<tr><td>Nauru <sup>c</sup></td><td>4 luglio</td><td>1955</td><td>4 gennaio</td><td>1956</td></tr>
+<tr><td>Nigeria <sup>a</sup></td><td>2 dicembre</td><td>1930</td><td>2 giugno</td><td>1931</td></tr>
+<tr><td>Papua Nuova Guinea <sup>c</sup></td><td>4 luglio</td><td>1955</td><td>4 gennaio</td><td>1956</td></tr>
+<tr><td>Polonia</td><td>26 ottobre</td><td>1936</td><td>26 aprile</td><td>1937</td></tr>
+<tr><td>Portogallo</td><td>24 dicembre</td><td>1931 A</td><td>24 giugno</td><td>1932</td></tr>
+<tr><td>Territori portoghesi d’oltremare</td><td>2 febbraio</td><td>1952 A</td><td>2 agosto</td><td>1952</td></tr>
+<tr><td>Regno Unito</td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Anguilla</td><td>2 dicembre</td><td>1930</td><td>2 giugno</td><td>1931</td></tr>
+<tr><td>Ascension</td><td>3 novembre</td><td>1931</td><td>3 maggio</td><td>1932</td></tr>
+<tr><td>Sant’Elena</td><td>3 novembre</td><td>1931</td><td>3 maggio</td><td>1932</td></tr>
+<tr><td>Russia</td><td>29 aprile</td><td>1999 A</td><td>29 luglio</td><td>1999</td></tr>
+<tr><td>Saint Kitts e Nevis <sup>a</sup></td><td>2 dicembre</td><td>1930</td><td>2 giugno</td><td>1931</td></tr>
+<tr><td>Salomone, Isole</td><td>17 settembre</td><td>1981 S</td><td>7 luglio</td><td>1978</td></tr>
+<tr><td>San Marino</td><td>6 maggio</td><td>2021 A</td><td>6 novembre</td><td>2021</td></tr>
+<tr><td>Santa Lucia <sup>a</sup></td><td>2 dicembre</td><td>1930</td><td>2 giugno</td><td>1931</td></tr>
+<tr><td>Seicelle <sup>a</sup></td><td>2 dicembre</td><td>1930</td><td>2 giugno</td><td>1931</td></tr>
+<tr><td>Senegal</td><td>14 febbraio</td><td>1978 A</td><td>14 agosto</td><td>1978</td></tr>
+<tr><td>Serbia</td><td>17 aprile</td><td>1959</td><td>17 ottobre</td><td>1959</td></tr>
+<tr><td>Sierra Leone <sup>a</sup></td><td>2 dicembre</td><td>1930</td><td>2 giugno</td><td>1931</td></tr>
+<tr><td>Singapore</td><td>18 giugno</td><td>1974 S</td><td>9 agosto</td><td>1965</td></tr>
+<tr><td>Siria</td><td>1° agosto</td><td>1974 A</td><td>1° febbraio</td><td>1975</td></tr>
+<tr><td>Slovenia</td><td>15 maggio</td><td>1996 S</td><td>25 giugno</td><td>1991</td></tr>
+<tr><td>Somalia <sup>a</sup></td><td>2 dicembre</td><td>1930</td><td>2 giugno</td><td>1931</td></tr>
+<tr><td>Spagna</td><td>2 giugno</td><td>1930</td><td>2 giugno</td><td>1931</td></tr>
+<tr><td>Sri Lanka <sup>a</sup></td><td>2 dicembre</td><td>1930</td><td>2 giugno</td><td>1931</td></tr>
+<tr><td>Stati Uniti\*</td><td>29 giugno</td><td>1937</td><td>29 dicembre</td><td>1937</td></tr>
+<tr><td>Svizzera\*</td><td>28 maggio</td><td>1954 A</td><td>28 novembre</td><td>1954</td></tr>
+<tr><td>São Tomé e Príncipe <sup>b</sup></td><td>2 febbraio</td><td>1952</td><td>2 agosto</td><td>1952</td></tr>
+<tr><td>Timor Est <sup>b</sup></td><td>2 febbraio</td><td>1952</td><td>2 agosto</td><td>1952</td></tr>
+<tr><td>Tonga</td><td>13 giugno</td><td>1978 S</td><td>4 giugno</td><td>1970</td></tr>
+<tr><td>Trinidad e Tobago <sup>a</sup></td><td>2 dicembre</td><td>1930</td><td>2 giugno</td><td>1931</td></tr>
+<tr><td>Turchia</td><td>4 luglio</td><td>1955 A</td><td>4 gennaio</td><td>1956</td></tr>
+<tr><td>Tuvalu <sup>a</sup></td><td>2 dicembre</td><td>1931</td><td>2 giugno</td><td>1931</td></tr>
+<tr><td>Ungheria</td><td>2 giugno</td><td>1930</td><td>2 giugno</td><td>1931</td></tr>
+<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e le dichiarazioni non sono pubblicate nella RU, eccetto quelle della Svizzera. Il testo, in francese, può essere consultato sul sito Internet del Governo belga: [https://diplomatie.belgium.be/fr/traites](https://diplomatie.belgium.be/fr/traites) oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna. <sup>a</sup> Adesione o ratifica ad opera della Gran Bretagna. <sup>b</sup> Adesione o ratifica ad opera del Portogallo. <sup>c</sup> Adesione o ratifica ad opera dell’Australia.</td></tr>
 </table>
-
-[^t-5]: [RU 2012 1561](https://fedlex.data.admin.ch/eli/oc/2012/220). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
 
 Riserve e dichiarazioni
 

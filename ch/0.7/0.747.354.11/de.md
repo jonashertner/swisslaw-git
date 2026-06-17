@@ -3,26 +3,25 @@ sr: "0.747.354.11"
 title: Internationales Übereinkommen vom 25. August 1924 zur einheitlichen Feststellung einzelner Regeln über die Konnossemente (mit Schlussprotokoll)
 eli: "https://fedlex.data.admin.ch/eli/cc/1954/758_776_672"
 language: de
-version: 2012-03-16
+version: 2026-06-18
 adopted: 1924-08-25
 in_force: 1954-11-28
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1954/758_776_672/20120316/de/xml/fedlex-data-admin-ch-eli-cc-1954-758_776_672-20120316-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1954/758_776_672/20120316/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1954/758_776_672/20260618/de/xml/fedlex-data-admin-ch-eli-cc-1954-758_776_672-20260618-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1954/758_776_672/20260618/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
-# Internationales Übereinkommen zur einheitlichen Feststellung einzelner Regeln über die Konnossemente****
+# Internationales Übereinkommen zur einheitlichen Feststellung einzelner Regeln über die Konnossemente
 
-Übersetzung*[^t-2]*[^t-1]
+Übersetzung[^t-1]
 
-Abgeschlossen in Brüssel am 25. August 1924 Von der Bundesversammlung genehmigt am 17. März 1954[^t-3] Schweizerische Beitrittsurkunde hinterlegt am 28. Mai 1954 In Kraft getreten für die Schweiz am 28. November 1954
+Abgeschlossen in Brüssel am 25. August 1924 Von der Bundesversammlung genehmigt am 17. März 1954[^t-2] Schweizerische Beitrittsurkunde hinterlegt am 28. Mai 1954 In Kraft getreten für die Schweiz am 28. November 1954
 
-(Stand am 16. März 2012)
+(Stand am 18. Juni 2026)
 
-[^t-1]: Die Änd. vom 23. Febr. 1968 ([SR 0.747.354.111](https://fedlex.data.admin.ch/eli/cc/1977/1077_1077_1077); [AS 1977 1077](https://fedlex.data.admin.ch/eli/oc/1977/1077_1077_1077)) und 21. Dez. 1979 ([SR 0.747.354.112](https://fedlex.data.admin.ch/eli/cc/1988/927_927_927); [AS 1988 927](https://fedlex.data.admin.ch/eli/oc/1988/927_927_927)), sind im vorliegenden Text eingebaut, gelten aber nur im Verhältnis zu jenen Staaten, die ihnen beigetreten sind. Siehe deshalb ihre eigenen Geltungsbereiche.
-[^t-2]: AS **1954** 758; BBl **1953** III 749 Der Originaltext findet sich unter der gleichen Nummer in der französischen Ausgabe dieser Sammlung.
-[^t-3]: Ziff. 2 des BB vom 17. März 1954 (AS **1954** 794)
+[^t-1]: Die Änd. vom 23. Febr. 1968 ([SR 0.747.354.111](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3089); [AS 1977 1077](https://fedlex.data.admin.ch/eli/oc/1977/1077_1077_1077)) und 21. Dez. 1979 ([SR 0.747.354.112](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3090); [AS 1988 927](https://fedlex.data.admin.ch/eli/oc/1988/927_927_927)), sind im vorliegenden Text eingebaut, gelten aber nur im Verhältnis zu jenen Staaten, die ihnen beigetreten sind. Siehe deshalb ihre eigenen Geltungsbereiche.
+[^t-2]: Ziff. 2 des BB vom 17. März 1954 (AS **1954** 794)
 
 #### Art. 1
 
@@ -40,27 +39,25 @@ Unbeschadet der Bestimmungen des Artikels 6 soll jeder Frachtvertrag für den Un
 
 #### Art. 3
 
-§ 1
+**§ 1**
 
-Der Unternehmer soll verpflichtet sein, vor und bei dem Antritte der Reise gehörige Sorgfalt anzuwenden,
-
-§ 2
+**§ 2**
 
 Unbeschadet der Bestimmungen des Artikels 4 soll der Unternehmer verpflichtet sein, die zu befördernden Güter sachgemäss und sorgfältig einzuladen, zu behandeln, zu stauen, zu befördern, zu verwahren, zu betreuen und auszuladen.
 
-§ 3
+**§ 3**
 
 Jedoch soll der Unternehmer, Schiffer oder Agent des Unternehmers nicht verpflichtet sein, in dem Konnossement solche Merkzeichen, Zahlen, Mengen oder Gewichte festzustellen oder zu erwähnen, von denen er den Umständen nach Verdacht hegen darf, dass sie die von ihm tatsächlich übernommenen Güter nicht genau bezeichnen, oder deren Richtigkeit zu prüfen er keine ausreichende Gelegenheit hatte.
 
-§ 4
+**§ 4**
 
 Ein solches Konnossement soll zum Beweise dafür genügen, dass der Unternehmer die Güter so empfangen hat, wie sie darin gemäss § 3 a, b, c beschrieben sind. Der Beweis des Gegenteils ist jedoch nicht zulässig, wenn das Konnossement einem gutgläubigen Dritten übertragen worden ist.[^3-1]
 
-§ 5
+**§ 5**
 
 Der Ablader soll so angesehen werden, als habe er dem Unternehmer gegenüber zur Zeit der Abladung die Gewähr für die Richtigkeit seiner Angaben über Merkzeichen, Zahl, Menge und Gewicht übernommen. Er soll verpflichtet sein, dem Unternehmer alle Verluste, Schäden und Kosten zu ersetzen, die aus Unrichtigkeit solcher Angaben entstehen. Durch das Recht des Unternehmers auf diese Entschädigung sollen die Verantwortlichkeiten und Verpflichtungen, die ihm auf Grund des Frachtvertrags anderen Personen als dem Ablader gegenüber obliegen, nicht berührt werden.
 
-§ 6
+**§ 6**
 
 Sofern nicht Verluste oder Schäden und ihre allgemeine Natur dem Unternehmer oder seinem Agenten im Entlöschungshafen vor oder bei der Überführung der Güter in den Gewahrsam des auf Grund des Frachtvertrags zum Empfange Berechtigten schriftlich angezeigt werden, soll diese Überführung zum Beweise dafür genügen, dass der Unternehmer die Güter so abgeliefert hat, wie sie in dem Konnossement beschrieben sind.
 
@@ -72,17 +69,19 @@ Vorbehaltlich des § 6<sup>bis</sup> sollen der Unternehmer und das Schiff in al
 
 Im Falle tatsächlicher oder vermeintlicher Verluste oder Beschädigungen sollen der Unternehmer und der Empfänger verpflichtet sein, einander alle angemessenen Erleichterungen zu gewähren, um die Güter besichtigen und ihre Mängel feststellen zu können.
 
-§ 6<sup>bis</sup> **[^3-3]**
+**§ 6**<sup>bis</sup>[^3-3]
 
 Rückgriffsklagen können selbst nach Ablauf der im § 6 vorgesehenen Jahresfrist erhoben werden, wenn dies innerhalb der von dem Recht des angerufenen Gerichts bestimmten Frist geschieht. Diese Frist darf jedoch nicht kürzer sein als drei Monate seit dem Tage, an dem derjenige, welcher die Rückgriffsklage erhebt, den Anspruch befriedigt hat oder an dem ihm die Klage zugestellt worden ist.
 
-§ 7
+**§ 7**
 
 Nach der Beendigung des Einladens soll das Konnossement, das der Unternehmer, Schiffer oder Agent des Unternehmers dem Ablader zu erteilen hat, auf Verlangen des Abladers und gegen Rückgabe eines ihm etwa vorher über dieselben Güter erteilten Titels als «Abladekonnossement» auszustellen sein. Jedoch soll der Unternehmer, Schiffer oder Agent des Unternehmers berechtigt sein, in dem Verschiffungshafen auf der zuerst erteilten Urkunde zu vermerken, wann und in welches Schiff die Güter abgeladen worden sind; enthält die Urkunde einen solchen Vermerk, so soll sie im Sinne dieses Artikels als Abladekonnossement gelten.
 
-§ 8
+**§ 8**
 
 Die Haftung des Unternehmers oder des Schiffes für Verlust oder Beschädigung von Gütern oder für Schäden in Bezug auf Güter soll, soweit der Schaden auf Verschulden oder auf Nichterfüllung der in diesem Artikel vorgesehenen Verpflichtungen und Verbindlichkeiten beruht, im Frachtvertrage weder ausgeschlossen noch in anderer Weise, als in diesem Übereinkommen vorgeschrieben ist, beschränkt werden können. Die Klausel, durch die dem Unternehmer der Anspruch aus der Versicherung abgetreten wird, und jede ähnliche Klausel sollen als Ausschluss der Haftung des Unternehmers angesehen werden.
+
+Der Unternehmer soll verpflichtet sein, vor und bei dem Antritte der Reise gehörige Sorgfalt anzuwenden:
 
 - a. um das Schiff seetüchtig zu machen;
 - b. um das Schiff gehörig zu bemannen, auszurüsten und zu verproviantieren;
@@ -100,23 +99,23 @@ Nach der Übernahme der Güter in seine Obhut soll der Unternehmer, Schiffer ode
 
 #### Art. 4
 
-§ 1
+**§ 1**
 
 Weder der Unternehmer noch das Schiff sollen für Verluste oder Schäden haften, die aus einem Mangel an Seetüchtigkeit entstehen, es sei denn, dass der Mangel darauf beruht, dass der Unternehmer nicht gemäss Artikel 3 § 1 die gehörige Sorgfalt angewandt hat, um das Schiff seetüchtig zu machen oder um es gehörig zu bemannen, einzurichten oder zu verproviantieren oder um die Lade-, Kühl- und Gefrierräume oder andere Teile des Schiffes, in denen Güter verladen werden, für deren Aufnahme, Beförderung und Erhaltung einzurichten und instand zu setzen. In allen Fällen, in denen Verluste oder Schäden aus einem Mangel an Seetüchtigkeit entstehen, soll die Beweislast für die Anwendung der gehörigen Sorgfalt den Unternehmer oder denjenigen treffen, der seine Befreiung von der Haftung auf Grund dieses Artikels geltend macht.
 
-§ 2
+**§ 2**
 
-§ 3
+**§ 3**
 
 Der Befrachter soll nicht für Verluste oder Schäden haften, die der Unternehmer oder das Schiff aus irgendeinem Grunde erleiden, ohne dass Handlungen, Fehler oder Nachlässigkeit des Befrachters, seiner Agenten oder der in seinem Dienste stehenden Personen vorliegen.
 
-§ 4
+**§ 4**
 
 Wird zum Zweck der Rettung oder des Versuchs der Rettung von Leben oder Eigentum zur See oder in sonst gerechtfertigter Weise vom Reiseweg abgewichen, so soll dies nicht als Verletzung dieses Übereinkommens oder als Bruch des Frachtvertrages angesehen werden, und der Unternehmer soll für einen daraus entstehenden Verlust oder Schaden nicht haften.
 
-§ 5**[^4-1]**
+**§ 5**[^4-1]
 
-§ 6
+**§ 6**
 
 Güter von entzündlicher, explosiver oder gefährlicher Natur, deren Abladung der Unternehmer, Schiffer oder Agent des Unternehmers nicht zugestimmt hätte, wenn sie die Beschaffenheit und Eigenart der Güter gekannt hätten, soll der Unternehmer, ohne ersatzpflichtig zu werden, jederzeit vor der Ausladung an jedem beliebigen Orte ausschiffen, vernichten oder unschädlich machen können, und der Ablader dieser Güter soll für alle Schäden und Kosten haften, die unmittelbar oder mittelbar aus ihrer Abladung entstehen. Gefährden derartige mit dieser Kenntnis und Zustimmung abgeladenen Güter das Schiff oder die Ladung, so soll der Unternehmer sie in gleicher Weise ausschiffen, vernichten oder unschädlich machen können, ohne dass er, abgesehen von seinem etwaigen Beitrag zur grossen Haverei, dafür zu haften hätte.
 
@@ -283,11 +282,12 @@ Geschehen zu Brüssel, in einer Ausfertigung, am 25. August 1924.
 
 [^lvlu18-1]: Die Schweizerische Eidgenossenschaft hat sich vorbehalten, dass sie die in diesem Abkommen vereinbarten Regeln in ihre eigene Landesgesetzgebung in einer, dieser entsprechenden Form einfügen wird.
 
-Geltungsbereich am 16. März 2012**[^t-4]**
+Geltungsbereich am 18. Juni 2026[^t-3]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B) Nachfolgeerklärung (N)</th><th></th><th>Inkrafttreten</th><th></th></tr>
 <tr><td>Algerien</td><td>13. April</td><td>1964 B</td><td>13. Oktober</td><td>1964</td></tr>
+<tr><td>Angola</td><td>2. Februar</td><td>1952 B</td><td>2. August</td><td>1952</td></tr>
 <tr><td>Antigua und Barbuda <sup>a</sup></td><td>2. Dezember</td><td>1930</td><td>2. Juni</td><td>1931</td></tr>
 <tr><td>Argentinien</td><td>19. April</td><td>1961 B</td><td>19. Oktober</td><td>1961</td></tr>
 <tr><td>Australien</td><td></td><td></td><td></td><td></td></tr>
@@ -316,6 +316,7 @@ Geltungsbereich am 16. März 2012**[^t-4]**
 <tr><td>Israel</td><td>5. September</td><td>1959 B</td><td>5. März</td><td>1960</td></tr>
 <tr><td>Jamaika <sup>a</sup></td><td>2. Dezember</td><td>1930</td><td>2. Juni</td><td>1931</td></tr>
 <tr><td>Kamerun <sup>a</sup></td><td>2. Dezember</td><td>1930</td><td>2. Juni</td><td>1931</td></tr>
+<tr><td>Kap Verde</td><td>2. Februar</td><td>1952 B</td><td>2. August</td><td>1952</td></tr>
 <tr><td>Kenia <sup>a</sup></td><td>2. Dezember</td><td>1930</td><td>2. Juni</td><td>1931</td></tr>
 <tr><td>Kiribati <sup>a</sup></td><td>2. Dezember</td><td>1930</td><td>2. Juni</td><td>1931</td></tr>
 <tr><td>Kongo (Kinshasa)</td><td>17. Juli</td><td>1967 B</td><td>17. Januar</td><td>1968</td></tr>
@@ -331,16 +332,17 @@ Geltungsbereich am 16. März 2012**[^t-4]**
 <tr><td>Mexiko</td><td>20. Mai</td><td>1994 B</td><td>20. August</td><td>1994</td></tr>
 <tr><td>Monaco</td><td>15. Mai</td><td>1931 B</td><td>15. November</td><td>1931</td></tr>
 <tr><td>Mosambik <sup>b</sup></td><td>2. Februar</td><td>1952</td><td>2. August</td><td>1952</td></tr>
+<tr><td>Myanmar\*</td><td>13. August</td><td>2020 B</td><td>13. Februar</td><td>2021</td></tr>
 <tr><td>Nauru</td><td>4. Juli</td><td>1955</td><td>4. Januar</td><td>1956</td></tr>
 <tr><td>Nigeria <sup>a</sup></td><td>2. Dezember</td><td>1930</td><td>2. Juni</td><td>1931</td></tr>
 <tr><td>Palästinensische Behörde <sup>a</sup></td><td>2. Dezember</td><td>1930</td><td>2. Juni</td><td>1931</td></tr>
 <tr><td>Papua-Neuguinea <sup>c</sup></td><td>4. Juli</td><td>1955</td><td>4. Januar</td><td>1956</td></tr>
-<tr><td>Peru</td><td>29. Oktober</td><td>1964 B</td><td>29. April</td><td>1965</td></tr>
 <tr><td>Polen</td><td>26. Oktober</td><td>1936</td><td>26. April</td><td>1937</td></tr>
 <tr><td>Portugal</td><td>24. Dezember</td><td>1931 B</td><td>24. Juni</td><td>1932</td></tr>
 <tr><td>Portugiesische Überseegebiete</td><td>2. Februar</td><td>1952 B</td><td>2. August</td><td>1952</td></tr>
 <tr><td>Russland</td><td>29. April</td><td>1999 B</td><td>29. Juli</td><td>1999</td></tr>
 <tr><td>Salomoninseln</td><td>17. September</td><td>1981 N</td><td>7. Juli</td><td>1978</td></tr>
+<tr><td>San Marino</td><td>6. Mai</td><td>2021 B</td><td>6. November</td><td>2021</td></tr>
 <tr><td>Schweiz\*</td><td>28. Mai</td><td>1954 B</td><td>28. November</td><td>1954</td></tr>
 <tr><td>Senegal</td><td>14. Februar</td><td>1978 B</td><td>14. August</td><td>1978</td></tr>
 <tr><td>Serbien</td><td>17. April</td><td>1959</td><td>17. Oktober</td><td>1959</td></tr>
@@ -368,13 +370,13 @@ Geltungsbereich am 16. März 2012**[^t-4]**
 <tr><td>St. Helena</td><td>3. November</td><td>1931</td><td>3. Mai</td><td>1932</td></tr>
 <tr><td>Zypern <sup>a</sup></td><td>2. Dezember</td><td>1930</td><td>2. Juni</td><td>1931</td></tr>
 <tr><td colspan="5">\* Vorbehalte und Erklärungen.</td></tr>
-<tr><td colspan="5">Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht, mit Ausnahme jener der Schweiz. Die englischen Texte können auf der Internetseite der Belgischen Regierung: http://diplomatie.belgium.be/fr/traites/ eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
+<tr><td colspan="5">Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht, mit Ausnahme jener der Schweiz. Die französischen Texte können auf der Internetseite der belgischen Regierung: [https://diplomatie.belgium.be/fr/traites](https://diplomatie.belgium.be/fr/traites) eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
 <tr><td colspan="5"><sup>a</sup> Ratifikation oder Beitrittserklärung durch Grossbritannien.</td></tr>
 <tr><td colspan="5"><sup>b</sup> Ratifikation oder Beitrittserklärung durch Portugal.</td></tr>
 <tr><td colspan="5"><sup>c</sup> Ratifikation oder Beitrittserklärung durch Australien.</td></tr>
 </table>
 
-[^t-4]: [AS 2012 1561](https://fedlex.data.admin.ch/eli/oc/2012/220). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+[^t-3]: [AS 1954 758](https://fedlex.data.admin.ch/eli/oc/1954/758_776_672); [1977 1077](https://fedlex.data.admin.ch/eli/oc/1977/1077_1077_1077); [1988 927](https://fedlex.data.admin.ch/eli/oc/1988/927_927_927); [2012 1561](https://fedlex.data.admin.ch/eli/oc/2012/220); [2026 333](https://fedlex.data.admin.ch/eli/oc/2026/333). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
 
 Vorbehalte und Erklärungen
 
