@@ -3,11 +3,11 @@ sr: "0.747.354.111"
 title: "Protocole du 23 février 1968 portant modification de la Convention internationale pour l'unification de certaines règles en matière de connaissement, signée à Bruxelles le 25 août 1924"
 eli: "https://fedlex.data.admin.ch/eli/cc/1977/1077_1077_1077"
 language: fr
-version: 2017-11-22
+version: 2026-06-18
 adopted: 1968-02-23
 in_force: 1977-06-23
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1977/1077_1077_1077/20171122/fr/xml/fedlex-data-admin-ch-eli-cc-1977-1077_1077_1077-20171122-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1977/1077_1077_1077/20171122/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1977/1077_1077_1077/20260618/fr/xml/fedlex-data-admin-ch-eli-cc-1977-1077_1077_1077-20260618-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1977/1077_1077_1077/20260618/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -26,7 +26,7 @@ Instrument de ratification déposé par la Suisse le 11 décembre 1975
 
 Entré en vigueur pour la Suisse le 23 juin 1977
 
-(Etat le 22 novembre 2017)
+(État le 18 juin 2026)
 
 [^t-1]: Art. 1<sup>er</sup> let c. de l’AF du 24 sept. 1975 ([RO 1977 1074](https://fedlex.data.admin.ch/eli/oc/1977/1074_1074_1074)).
 
@@ -36,19 +36,19 @@ Considérant qu’il est souhaitable d’amender la Convention internationale po
 
 sont convenues des dispositions suivantes:
 
-[^ingress-1]: [RS 0.747.354.11](https://fedlex.data.admin.ch/eli/cc/1954/758_776_672)
+[^ingress-1]: [RS 0.747.354.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3088)
 
 #### Art. 1
 
-<sup>1.</sup> A l’art. 3, par. 4, il y a lieu d’ajouter le texte suivant:
+<sup>1.</sup> À l’art. 3, par. 4, il y a lieu d’ajouter le texte suivant:
 
 «Toutefois, la preuve contraire n’est pas admise lorsque le connaissement a été transféré à un tiers porteur de bonne foi.»
 
-<sup>2.</sup> A l’art. 3, par. 6, le quatrième alinéa est remplacé par la disposition suivante:
+<sup>2.</sup> À l’art. 3, par. 6, le quatrième alinéa est remplacé par la disposition suivante:
 
 «Sous réserve des dispositions du par. 6<sup>bis</sup> le transporteur et le navire seront en tous cas déchargés de toute responsabilité quelconque relativement aux marchandises, à moins qu’une action ne soit intentée dans l’année de leur délivrance ou de la date à laquelle elles eussent dû être délivrées. Ce délai peut toutefois être prolongé par un accord conclu entre les parties postérieurement à l’événement qui a donné lieu à l’action.»
 
-<sup>3.</sup> A l’art. 3 il y a lieu d’ajouter après le par. 6 un par. 6<sup>bis</sup> libellé comme suit:
+<sup>3.</sup> À l’art. 3 il y a lieu d’ajouter après le par. 6 un par. 6<sup>bis</sup> libellé comme suit:
 
 «Les actions récursoires pourront être exercées même après l’expiration du délai prévu au paragraphe précédent, si elles le sont dans le délai déterminé par la loi du Tribunal saisi de l’affaire. Toutefois, ce délai ne pourra être inférieur à trois mois à partir du jour où la personne qui exerce l’action récursoire a réglé la réclamation ou a elle‑même reçu signification de l’assignation.»
 
@@ -56,15 +56,18 @@ sont convenues des dispositions suivantes:
 
 L’art. 4, par. 5, sera supprimé et remplacé par le texte suivant:
 
-- «a) A moins que la nature et la valeur des marchandises n’aient été déclarées par le chargeur avant leur embarquement et que cette déclaration ait été insérée dans le connaissement, le transporteur, comme le navire, ne seront en aucun cas responsables des pertes ou dommages des marchandises ou concernant celles‑ci pour une somme supérieure à l’équivalent de 10 000 francs par colis ou unité ou 30 francs par kilogramme de poids brut des marchandises perdues ou endommagées, la limite la plus élevée étant applicable.
+- «a)[^2-1] À moins que la nature et la valeur des marchandises n’aient été déclarées par le chargeur avant leur embarquement et que cette déclaration ait été insérée dans le connaissement, le transporteur, comme le navire, ne seront en aucun cas responsables des pertes ou dommages des marchandises ou concernant celles‑ci pour une somme supérieure à l’équivalent de 10 000 francs par colis ou unité ou 30 francs par kilogramme de poids brut des marchandises perdues ou endommagées, la limite la plus élevée étant applicable.
 - b) La somme totale due sera calculée par référence à la valeur des marchandises au lieu et au jour où elles sont déchargées conformément au contrat, ou au jour et au lieu où elles auraient dû être déchargées.
 - La valeur de la marchandise est déterminée d’après le cours en Bourse, ou, à défaut, d’après le prix courant sur le marché ou, à défaut de l’un et de l’autre, d’après la valeur usuelle de marchandises de mêmes nature et qualité.
 - c) Lorsqu’un cadre, une palette ou tout engin similaire est utilisé pour grouper des marchandises, tout colis ou unité énuméré au connaissement comme étant inclus dans cet engin sera considéré comme un colis ou unité au sens de ce paragraphe. En dehors du cas prévu ci‑dessus, cet engin sera considéré comme colis ou unité.
-- d) Par franc, il faut entendre une unité consistant en 65,5 milligrammes d’or, au titre de 900 millièmes de fin. La date de conversion de la somme accordée en monnaie nationale sera déterminée par la loi de la juridiction saisie du litige.
+- d)[^2-2] Par franc, il faut entendre une unité consistant en 65,5 milligrammes d’or, au titre de 900 millièmes de fin. La date de conversion de la somme accordée en monnaie nationale sera déterminée par la loi de la juridiction saisie du litige.
 - e) Ni le transporteur, ni le navire n’auront le droit de bénéficier de la limitation de responsabilité établie par ce paragraphe s’il est prouvé que le dommage résulte d’un acte ou d’une omission du transporteur qui a eu lieu, soit avec l’intention de provoquer un dommage, soit témérairement et avec conscience qu’un dommage en résulterait probablement.
 - f) La déclaration mentionnée à l’al. a) de ce paragraphe, insérée dans le connaissement constituera une présomption sauf preuve contraire, mais elle ne liera pas le transporteur qui pourra la contester.
 - g) Par convention entre le transporteur, capitaine ou agent du transporteur et le chargeur, d’autres sommes maxima que celles mentionnées à l’al. a) de ce paragraphe peuvent être déterminées, pourvu que ce montant maximum conventionnel ne soit pas inférieur au montant maximum correspondant mentionné dans cet alinéa.
 - h) Ni le transporteur, ni le navire ne seront en aucun cas responsables pour perte ou dommage causé aux marchandises ou les concernant, si dans le connaissement le chargeur a fait sciemment une fausse déclaration de leur nature ou de leur valeur.»
+
+[^2-1]: Voir aussi le Prot. du 21 déc. 1979 ([RS 0.747.354.112](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3090)).
+[^2-2]: Voir aussi le Prot. du 21 déc. 1979 ([RS 0.747.354.112](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3090)).
 
 #### Art. 3
 
@@ -90,21 +93,21 @@ L’art. 10 de la Convention est remplacé par la disposition suivante:
 
 quelle que soit la nationalité du navire, du transporteur, du chargeur, du destinataire ou de toute autre personne intéressée.
 
-Chaque Etat contractant appliquera les dispositions de la présente Convention aux connaissements mentionnés ci‑dessus.
+Chaque État contractant appliquera les dispositions de la présente Convention aux connaissements mentionnés ci‑dessus.
 
-Le présent article ne porte pas atteinte au droit d’un Etat contractant d’appliquer les dispositions de la présente Convention aux connaissements non visés par les alinéas précédents.»
+Le présent article ne porte pas atteinte au droit d’un État contractant d’appliquer les dispositions de la présente Convention aux connaissements non visés par les alinéas précédents.»
 
-«Les dispositions de la présente Convention s’appliqueront à tout connaissement relatif à un transport de marchandises entre ports relevant de deux Etats différents, quand:
+«Les dispositions de la présente Convention s’appliqueront à tout connaissement relatif à un transport de marchandises entre ports relevant de deux États différents, quand:
 
-- a) le connaissement est émis dans un Etat contractant
-- b) le transport a lieu au départ d’un port d’un Etat contractant ou
+- a) le connaissement est émis dans un État contractant
+- b) le transport a lieu au départ d’un port d’un État contractant ou
 - c) le connaissement prévoit que les dispositions de la présente Convention ou de toute autre législation les appliquant ou leur donnant effet régiront le contrat,
 
 #### Art. 6
 
 Entre les Parties au présent Protocole, la Convention et le Protocole seront considérés et interprétés comme un seul et même instrument.
 
-Une Partie au présent Protocole ne se verra pas obligée d’appliquer les dispositions du présent Protocole aux connaissements délivrés dans un Etat Partie à la Convention mais n’étant pas Partie au présent Protocole.
+Une Partie au présent Protocole ne se verra pas obligée d’appliquer les dispositions du présent Protocole aux connaissements délivrés dans un État Partie à la Convention mais n’étant pas Partie au présent Protocole.
 
 #### Art. 7
 
@@ -122,19 +125,19 @@ Tout différend entre des Parties Contractantes concernant l’interprétation o
 
 #### Art. 10
 
-Le présent Protocole sera ouvert à la signature des Etats qui, avant le 23 février 1968, ont ratifié la Convention ou qui y ont adhéré ainsi qu’à tout Etat représenté à la douzième session (1967–1968) de la Conférence diplomatique de Droit maritime.
+Le présent Protocole sera ouvert à la signature des États qui, avant le 23 février 1968, ont ratifié la Convention ou qui y ont adhéré ainsi qu’à tout État représenté à la douzième session (1967–1968) de la Conférence diplomatique de Droit maritime.
 
 #### Art. 11
 
 <sup>1.</sup> Le présent Protocole sera ratifié.
 
-<sup>2.</sup> La ratification du présent Protocole par un Etat qui n’est pas partie à la Convention emporte adhésion à la Convention.
+<sup>2.</sup> La ratification du présent Protocole par un État qui n’est pas partie à la Convention emporte adhésion à la Convention.
 
 <sup>3.</sup> Les instruments de ratification seront déposés auprès du Gouvernement belge.
 
 #### Art. 12
 
-<sup>1.</sup> Les Etats membres de l’Organisation des Nations Unies ou des institutions spécialisées des Nations Unies, non représentés à la douzième session de la Conférence diplomatique de Droit maritime, pourront adhérer au présent Protocole.
+<sup>1.</sup> Les États membres de l’Organisation des Nations Unies ou des institutions spécialisées des Nations Unies, non représentés à la douzième session de la Conférence diplomatique de Droit maritime, pourront adhérer au présent Protocole.
 
 <sup>2.</sup> L’adhésion au présent Protocole emporte adhésion à la Convention.
 
@@ -142,13 +145,13 @@ Le présent Protocole sera ouvert à la signature des Etats qui, avant le 23 fé
 
 #### Art. 13
 
-<sup>1.</sup> Le présent Protocole entrera en vigueur trois mois après la date du dépôt de dix instruments de ratification ou d’adhésion, dont au moins cinq émanant d’Etats qui possèdent chacun un tonnage global égal ou supérieur à un million de tonneaux de jauge brute.
+<sup>1.</sup> Le présent Protocole entrera en vigueur trois mois après la date du dépôt de dix instruments de ratification ou d’adhésion, dont au moins cinq émanant d’États qui possèdent chacun un tonnage global égal ou supérieur à un million de tonneaux de jauge brute.
 
-<sup>2.</sup> Pour chaque Etat ratifiant le présent Protocole ou y adhérant après la date du dépôt de l’instrument de ratification ou d’adhésion déterminant l’entrée en vigueur telle qu’elle est fixée au par. 1 du présent article, le présent Protocole entrera en vigueur trois mois après le dépôt de son instrument de ratification ou d’adhésion.
+<sup>2.</sup> Pour chaque État ratifiant le présent Protocole ou y adhérant après la date du dépôt de l’instrument de ratification ou d’adhésion déterminant l’entrée en vigueur telle qu’elle est fixée au par. 1 du présent article, le présent Protocole entrera en vigueur trois mois après le dépôt de son instrument de ratification ou d’adhésion.
 
 #### Art. 14
 
-<sup>1.</sup> Chacun des Etats contractants pourra dénoncer le présent Protocole par notification au Gouvernement belge.
+<sup>1.</sup> Chacun des États contractants pourra dénoncer le présent Protocole par notification au Gouvernement belge.
 
 <sup>2.</sup> Cette dénonciation emportera dénonciation de la Convention.
 
@@ -156,13 +159,13 @@ Le présent Protocole sera ouvert à la signature des Etats qui, avant le 23 fé
 
 #### Art. 15
 
-<sup>1.</sup> Tout Etat Contractant pourra, au moment de la signature, de la ratification, de l’adhésion, ou à tout moment ultérieur, notifier par écrit au Gouvernement belge quels sont parmi les territoires qui sont soumis à sa souveraineté ou dont il assure les relations internationales ceux auxquels s’applique le présent Protocole.
+<sup>1.</sup> Tout État Contractant pourra, au moment de la signature, de la ratification, de l’adhésion, ou à tout moment ultérieur, notifier par écrit au Gouvernement belge quels sont parmi les territoires qui sont soumis à sa souveraineté ou dont il assure les relations internationales ceux auxquels s’applique le présent Protocole.
 
-Le Protocole sera applicable aux dits territoires trois mois après la date de réception de cette notification par le Gouvernement belge, mais pas avant la date d’entrée en vigueur du présent Protocole à l’égard de cet Etat.
+Le Protocole sera applicable aux dits territoires trois mois après la date de réception de cette notification par le Gouvernement belge, mais pas avant la date d’entrée en vigueur du présent Protocole à l’égard de cet État.
 
 <sup>2.</sup> Cette extension vaudra également pour la Convention si celle‑ci n’est pas encore applicable à ces territoires.
 
-<sup>3.</sup> Tout Etat Contractant qui a souscrit une déclaration au titre du par. 1 du présent article, pourra, à tout moment, aviser le Gouvernement belge que le Protocole cesse de s’appliquer aux territoires en question. Cette dénonciation prendra effet un an après la date de réception par le Gouvernement belge de la notification de dénonciation; elle vaudra également pour la Convention.
+<sup>3.</sup> Tout État Contractant qui a souscrit une déclaration au titre du par. 1 du présent article, pourra, à tout moment, aviser le Gouvernement belge que le Protocole cesse de s’appliquer aux territoires en question. Cette dénonciation prendra effet un an après la date de réception par le Gouvernement belge de la notification de dénonciation; elle vaudra également pour la Convention.
 
 #### Art. 16
 
@@ -170,7 +173,7 @@ Les Parties Contractantes peuvent mettre le présent Protocole en vigueur soit e
 
 #### Art. 17
 
-Le Gouvernement belge notifiera aux Etats représentés à la douzième session (1967–1968) de la Conférence diplomatique de Droit maritime, aux Etats qui adhèrent au présent Protocole, ainsi qu’aux Etats liés par la Convention:
+Le Gouvernement belge notifiera aux États représentés à la douzième session (1967–1968) de la Conférence diplomatique de Droit maritime, aux États qui adhèrent au présent Protocole, ainsi qu’aux États liés par la Convention:
 
 <sup>1.</sup> Les signatures, ratifications et adhésions reçues en application des art. 10, 11 et 12.
 
@@ -182,16 +185,16 @@ Le Gouvernement belge notifiera aux Etats représentés à la douzième session 
 
 *En foi de quoi,* les Plénipotentiaires soussignés, dûment autorisés, ont signé le présent Protocole. Fait à Bruxelles, le 23 février 1968, en langues française et anglaise, les deux textes faisant également foi, en un seul exemplaire, qui restera déposé dans les archives du Gouvernement belge, lequel en délivrera des copies certifiées conformes. (Suivent les signatures)
 
-Champ d’application le 22 novembre 2017**[^t-2]**
+Champ d’application le 18 juin 2026[^t-2]
 
 <table>
-<tr><th>Etats parties</th><th>Ratification Adhésion (A)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
+<tr><th>États parties</th><th>Ratification Adhésion (A)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
 <tr><td>Belgique</td><td>6 septembre</td><td>1978</td><td>6 décembre</td><td>1978</td></tr>
 <tr><td>Chine</td><td></td><td></td><td></td><td></td></tr>
 <tr><td>Hong Kong\*</td><td>20 juin</td><td>1997</td><td>1<sup>er</sup> juillet</td><td>1997</td></tr>
 <tr><td>Croatie</td><td>28 octobre</td><td>1998 A</td><td>28 janvier</td><td>1999</td></tr>
 <tr><td>Danemark <sup>a</sup></td><td>20 novembre</td><td>1975</td><td>23 juin</td><td>1977</td></tr>
-<tr><td>Equateur</td><td>23 mars</td><td>1977 A</td><td>23 juin</td><td>1977</td></tr>
+<tr><td>Équateur</td><td>23 mars</td><td>1977 A</td><td>23 juin</td><td>1977</td></tr>
 <tr><td>Finlande</td><td>1<sup>er</sup> décembre</td><td>1984</td><td>1<sup>er</sup> mars</td><td>1985</td></tr>
 <tr><td>France</td><td>10 mars</td><td>1977</td><td>23 juin</td><td>1977</td></tr>
 <tr><td>Géorgie</td><td>20 février</td><td>1996 A</td><td>20 mai</td><td>1996</td></tr>
@@ -200,6 +203,7 @@ Champ d’application le 22 novembre 2017**[^t-2]**
 <tr><td>Lituanie</td><td>2 décembre</td><td>2003 A</td><td>2 mars</td><td>2004</td></tr>
 <tr><td>Luxembourg</td><td>18 février</td><td>1991 A</td><td>18 mai</td><td>1991</td></tr>
 <tr><td>Mexique</td><td>20 mai</td><td>1994 A</td><td>20 août</td><td>1994</td></tr>
+<tr><td>Myanmar</td><td>13 août</td><td>2020 A</td><td>13 novembre</td><td>2020</td></tr>
 <tr><td>Norvège</td><td>19 mars</td><td>1974</td><td>23 juin</td><td>1977</td></tr>
 <tr><td>Pays-Bas\*</td><td>26 avril</td><td>1982</td><td>26 juillet</td><td>1982</td></tr>
 <tr><td>Aruba</td><td>14 août</td><td>1986</td><td>14 novembre</td><td>1986</td></tr>
@@ -208,22 +212,22 @@ Champ d’application le 22 novembre 2017**[^t-2]**
 <tr><td>Royaume-Uni</td><td>1<sup>er</sup> octobre</td><td>1976</td><td>23 juin</td><td>1977</td></tr>
 <tr><td>[tab] Bermudes</td><td>1<sup>er</sup> novembre</td><td>1980</td><td>1<sup>er</sup> février</td><td>1981</td></tr>
 <tr><td>[tab] Gibraltar</td><td>22 septembre</td><td>1977</td><td>22 décembre</td><td>1977</td></tr>
-<tr><td>[tab] Ile de Man</td><td>1<sup>er</sup> octobre</td><td>1976</td><td>23 juin</td><td>1977</td></tr>
-<tr><td>[tab] Iles Cayman</td><td>20 octobre</td><td>1983</td><td>20 janvier</td><td>1984</td></tr>
-<tr><td>[tab] Iles Falkland et dépendances (Géorgie du Sud et îles Sandwich du Sud)</td><td>20 octobre</td><td>1983</td><td>20 janvier</td><td>1984</td></tr>
-<tr><td>[tab] Iles Turques et Caïques</td><td>20 octobre</td><td>1983</td><td>20 janvier</td><td>1984</td></tr>
-<tr><td>[tab] Iles Vierges britanniques</td><td>20 octobre</td><td>1983</td><td>20 janvier</td><td>1984</td></tr>
+<tr><td>[tab] Île de Man</td><td>1<sup>er</sup> octobre</td><td>1976</td><td>23 juin</td><td>1977</td></tr>
+<tr><td>[tab] Îles Cayman</td><td>20 octobre</td><td>1983</td><td>20 janvier</td><td>1984</td></tr>
+<tr><td>[tab] Îles Falkland et dépendances (Géorgie du Sud et îles Sandwich du Sud)</td><td>20 octobre</td><td>1983</td><td>20 janvier</td><td>1984</td></tr>
+<tr><td>[tab] Îles Turques et Caïques</td><td>20 octobre</td><td>1983</td><td>20 janvier</td><td>1984</td></tr>
+<tr><td>[tab] Îles Vierges britanniques</td><td>20 octobre</td><td>1983</td><td>20 janvier</td><td>1984</td></tr>
 <tr><td>[tab] Montserrat</td><td>20 octobre</td><td>1983</td><td>20 janvier</td><td>1984</td></tr>
 <tr><td>[tab] Territoire antarctique britannique</td><td>20 octobre</td><td>1983</td><td>20 janvier</td><td>1984</td></tr>
 <tr><td>Russie</td><td>29 avril</td><td>1999 A</td><td>29 juillet</td><td>1999</td></tr>
+<tr><td>Saint-Marin</td><td>6 mai</td><td>2021 A</td><td>6 août</td><td>2021</td></tr>
 <tr><td>Singapour</td><td>25 avril</td><td>1972 A</td><td>23 juin</td><td>1977</td></tr>
 <tr><td>Sri Lanka</td><td>21 octobre</td><td>1981 A</td><td>21 janvier</td><td>1982</td></tr>
 <tr><td>Suède</td><td>9 décembre</td><td>1974</td><td>23 juin</td><td>1977</td></tr>
 <tr><td>Suisse</td><td>11 décembre</td><td>1975</td><td>23 juin</td><td>1977</td></tr>
 <tr><td>Syrie</td><td>1<sup>er</sup> août</td><td>1974 A</td><td>23 juin</td><td>1977</td></tr>
 <tr><td>Tonga</td><td>13 juin</td><td>1978 A</td><td>13 septembre</td><td>1978</td></tr>
-<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations, à l’exception de celles de la Suisse, ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet du Gouvernement belge: http://diplomatie.belgium.be/fr/traites/ou obtenus à la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
-<tr><td colspan="5"><sup>a</sup> Le protocole n’est pas applicable aux îles Féroé</td></tr>
+<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO. Les textes en français pourront être consultés à l’adresse du site Internet du Gouvernement belge: [https://diplomatie.belgium.be/fr/traites/](https://diplomatie.belgium.be/fr/traites/) ou obtenus à la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> Le protocole n’est pas applicable aux îles Féroé</td></tr>
 </table>
 
-[^t-2]: [RO 1977 1077](https://fedlex.data.admin.ch/eli/oc/1977/1077_1077_1077), [1981 1354](https://fedlex.data.admin.ch/eli/oc/1981/1354_1354_1354), [1983 420](https://fedlex.data.admin.ch/eli/oc/1983/420_420_420), [1984 273](https://fedlex.data.admin.ch/eli/oc/1984/273_273_273), [1985 1770](https://fedlex.data.admin.ch/eli/oc/1985/1770_1770_1770), [1987 1151](https://fedlex.data.admin.ch/eli/oc/1987/1151_1151_1151), [2006 823](https://fedlex.data.admin.ch/eli/oc/2006/133), [2018 27](https://fedlex.data.admin.ch/eli/oc/2018/12). Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.dfae.admin.ch/traites).
+[^t-2]: [RO 1977 1077](https://fedlex.data.admin.ch/eli/oc/1977/1077_1077_1077)**;** **1981** 1354; [1983 420](https://fedlex.data.admin.ch/eli/oc/1983/420_420_420); [1984 273](https://fedlex.data.admin.ch/eli/oc/1984/273_273_273); [1985 1770](https://fedlex.data.admin.ch/eli/oc/1985/1770_1770_1770); [1987 1151](https://fedlex.data.admin.ch/eli/oc/1987/1151_1151_1151); [2006 823](https://fedlex.data.admin.ch/eli/oc/2006/133); [2018 27](https://fedlex.data.admin.ch/eli/oc/2018/12); [2026 334](https://fedlex.data.admin.ch/eli/oc/2026/334). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).

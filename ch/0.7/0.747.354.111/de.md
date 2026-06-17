@@ -3,11 +3,11 @@ sr: "0.747.354.111"
 title: Protokoll vom 23. Februar 1968 zur Änderung des am 25. August 1924 in Brüssel unterzeichneten Internationalen Übereinkommens zur Vereinheitlichung einzelner Regeln über Konnossemente
 eli: "https://fedlex.data.admin.ch/eli/cc/1977/1077_1077_1077"
 language: de
-version: 2017-11-22
+version: 2026-06-18
 adopted: 1968-02-23
 in_force: 1977-06-23
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1977/1077_1077_1077/20171122/de/xml/fedlex-data-admin-ch-eli-cc-1977-1077_1077_1077-20171122-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1977/1077_1077_1077/20171122/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1977/1077_1077_1077/20260618/de/xml/fedlex-data-admin-ch-eli-cc-1977-1077_1077_1077-20260618-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1977/1077_1077_1077/20260618/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -20,7 +20,7 @@ AS **1977** 1077; BBl **1975** I 929
 
 Abgeschlossen in Brüssel am 23. Februar 1968 Von der Bundesversammlung genehmigt am 24. September 1975[^t-1] Schweizerische Ratifikationsurkunde hinterlegt am 11. Dezember 1975 In Kraft getreten für die Schweiz am 23. Juni 1977
 
-(Stand am 22. November 2017)
+(Stand am 18. Juni 2026)
 
 [^t-1]: Art. 1 Bst. c des BB vom 24. Sept. 1975 ([AS 1977 1074](https://fedlex.data.admin.ch/eli/oc/1977/1074_1074_1074))
 
@@ -30,7 +30,7 @@ in der Erwägung, dass es wünschenswert ist, das am 25. August 1924 in Brüssel
 
 haben folgendes vereinbart:
 
-[^ingress-1]: [SR 0.747.354.11](https://fedlex.data.admin.ch/eli/cc/1954/758_776_672)
+[^ingress-1]: [SR 0.747.354.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3088)
 
 #### Art. 1
 
@@ -59,8 +59,8 @@ Artikel 4 § 5 wird aufgehoben und durch folgende Bestimmung ersetzt:
 - g) Durch Vereinbarung zwischen dem Unternehmer, dem Schiffer oder dem Agenten des Unternehmers einerseits und dem Befrachter andererseits sollen andere als die in Buchstabe a dieses Paragraphen genannten Höchstbeträge bestimmt werden können, sofern der vereinbarte Höchstbetrag nicht niedriger ist als der entsprechende in Buchstabe a genannte Höchstbetrag.
 - h) In keinem Falle soll der Unternehmer oder das Schiff für Verlust oder Beschädigung von Gütern oder für Schäden in Bezug auf die Güter haften, wenn der Ablader im Konnossement eine wissentlich falsche Angabe über ihre Natur oder ihren Wert gemacht hat.»
 
-[^2-1]: Siehe auch das Prot. vom 21. Dez. 1979 ([SR 0.747.354.112](https://fedlex.data.admin.ch/eli/cc/1988/927_927_927)).
-[^2-2]: Siehe auch das Prot. vom 21. Dez. 1979 ([SR 0.747.354.112](https://fedlex.data.admin.ch/eli/cc/1988/927_927_927)).
+[^2-1]: Siehe auch das Prot. vom 21. Dez. 1979 ([SR 0.747.354.112](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3090)).
+[^2-2]: Siehe auch das Prot. vom 21. Dez. 1979 ([SR 0.747.354.112](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3090)).
 
 #### Art. 3
 
@@ -178,7 +178,7 @@ Die belgische Regierung notifiziert den auf der zwölften Tagung (1967-1968) der
 
 *Zu Urkund dessen* haben die unterzeichneten, gehörig befugten Bevollmächtigten dieses Übereinkommen unterschrieben. Geschehen zu Brüssel am 23. Februar 1968 in französischer und englischer Sprache, wobei jeder Wortlaut gleichermassen verbindlich ist, in einer Urschrift, die im Archiv der belgischen Regierung hinterlegt wird; diese erteilt beglaubigte Abschriften. (Es folgen die Unterschriften)
 
-Geltungsbereich am 22. November 2017**[^t-2]**
+Geltungsbereich am 18. Juni 2026[^t-2]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -196,12 +196,14 @@ Geltungsbereich am 22. November 2017**[^t-2]**
 <tr><td>Litauen</td><td>2. Dezember</td><td>2003 B</td><td>2. März</td><td>2004</td></tr>
 <tr><td>Luxemburg</td><td>18. Februar</td><td>1991 B</td><td>18. Mai</td><td>1991</td></tr>
 <tr><td>Mexiko</td><td>20. Mai</td><td>1994 B</td><td>20. August</td><td>1994</td></tr>
+<tr><td>Myanmar</td><td>13. August</td><td>2020 B</td><td>13. November</td><td>2020</td></tr>
 <tr><td>Niederlande\*</td><td>26. April</td><td>1982</td><td>26. Juli</td><td>1982</td></tr>
 <tr><td>Aruba</td><td>14. August</td><td>1986</td><td>14. November</td><td>1986</td></tr>
 <tr><td>Curaçao</td><td>6. Februar</td><td>2014</td><td>6. Mai</td><td>2014</td></tr>
 <tr><td>Norwegen</td><td>19. März</td><td>1974</td><td>23. Juni</td><td>1977</td></tr>
 <tr><td>Polen</td><td>12. Februar</td><td>1980</td><td>12. Mai</td><td>1980</td></tr>
 <tr><td>Russland</td><td>29. April</td><td>1999 B</td><td>29. Juli</td><td>1999</td></tr>
+<tr><td>San Marino</td><td>6. Mai</td><td>2021 B</td><td>6. August</td><td>2021</td></tr>
 <tr><td>Schweden</td><td>9. Dezember</td><td>1974</td><td>23. Juni</td><td>1977</td></tr>
 <tr><td>Schweiz</td><td>11. Dezember</td><td>1975</td><td>23. Juni</td><td>1977</td></tr>
 <tr><td>Singapur</td><td>25. April</td><td>1972 B</td><td>23. Juni</td><td>1977</td></tr>
@@ -218,8 +220,8 @@ Geltungsbereich am 22. November 2017**[^t-2]**
 <tr><td>Kaimaninseln</td><td>20. Oktober</td><td>1983</td><td>20. Januar</td><td>1984</td></tr>
 <tr><td>Montserrat</td><td>20. Oktober</td><td>1983</td><td>20. Januar</td><td>1984</td></tr>
 <tr><td>Turks- und Caicosinseln</td><td>20. Oktober</td><td>1983</td><td>20. Januar</td><td>1984</td></tr>
-<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die englischen Texte können auf der Internetseite der Belgischen Regierung: http://diplomatie.belgium.be/fr/traites/ eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
+<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die englischen Texte können auf der Internetseite der Belgischen Regierung: [http://diplomatie.belgium.be/fr/traites/](http://diplomatie.belgium.be/fr/traites/) eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
 <tr><td colspan="5"><sup>a</sup> Das Prot. gilt nicht für die Färöer-Inseln.</td></tr>
 </table>
 
-[^t-2]: [AS 1977 1077](https://fedlex.data.admin.ch/eli/oc/1977/1077_1077_1077), [1981 1354](https://fedlex.data.admin.ch/eli/oc/1981/1354_1354_1354), [1983 420](https://fedlex.data.admin.ch/eli/oc/1983/420_420_420), [1984 273](https://fedlex.data.admin.ch/eli/oc/1984/273_273_273), [1985 1770](https://fedlex.data.admin.ch/eli/oc/1985/1770_1770_1770), [1987 1151](https://fedlex.data.admin.ch/eli/oc/1987/1151_1151_1151), [2006 823](https://fedlex.data.admin.ch/eli/oc/2006/133)und [2018 27](https://fedlex.data.admin.ch/eli/oc/2018/12). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+[^t-2]: [AS 1977 1077](https://fedlex.data.admin.ch/eli/oc/1977/1077_1077_1077); [1981 1354](https://fedlex.data.admin.ch/eli/oc/1981/1354_1354_1354); [1983 420](https://fedlex.data.admin.ch/eli/oc/1983/420_420_420); [1984 273](https://fedlex.data.admin.ch/eli/oc/1984/273_273_273); [1985 1770](https://fedlex.data.admin.ch/eli/oc/1985/1770_1770_1770); [1987 1151](https://fedlex.data.admin.ch/eli/oc/1987/1151_1151_1151); [2006 823](https://fedlex.data.admin.ch/eli/oc/2006/133); [2018 27](https://fedlex.data.admin.ch/eli/oc/2018/12); [2026 334](https://fedlex.data.admin.ch/eli/oc/2026/334). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).

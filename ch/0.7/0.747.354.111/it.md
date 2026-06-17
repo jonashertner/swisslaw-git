@@ -3,24 +3,26 @@ sr: "0.747.354.111"
 title: "Protocollo del 23 febbraio 1968 che modifica la Convenzione internazionale su l'unificazione di alcune regole in materia di polizza di carico, firmata a Bruxelles il 25 agosto 1924"
 eli: "https://fedlex.data.admin.ch/eli/cc/1977/1077_1077_1077"
 language: it
-version: 2017-11-22
+version: 2026-06-18
 adopted: 1968-02-23
 in_force: 1977-06-23
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1977/1077_1077_1077/20171122/it/xml/fedlex-data-admin-ch-eli-cc-1977-1077_1077_1077-20171122-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1977/1077_1077_1077/20171122/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1977/1077_1077_1077/20260618/it/xml/fedlex-data-admin-ch-eli-cc-1977-1077_1077_1077-20260618-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1977/1077_1077_1077/20260618/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Protocollo che modifica la Convenzione internazionale su l’unificazione di alcune regole in materia di polizza di carico, firmata a Bruxelles il 25 agosto 1924
 
+RU **1977** 1077; FF **1975** I 917
+
 Traduzione
 
 Conchiuso a Bruxelles il 23 febbraio 1968 Approvato dall’Assemblea federale il 24 settembre 1975[^t-1] Ratificato dalla Svizzera con strumento depositato l’11 dicembre 1975 Entrato in vigore per la Svizzera il 23 giugno 1977
 
-(Stato 22 novembre 2017)
+(Stato 18 giugno 2026)
 
-[^t-1]: RU **1977** 1077; FF **1975** I 917 Art. 1 lett. c del DF 24 set. 1975 (RU **1977** 1074).
+[^t-1]: Art. 1 lett. c del DF 24 set. 1975 ([RU 1977 1074](https://fedlex.data.admin.ch/eli/oc/1977/1074_1074_1074)).
 
 Le Parti contraenti,
 
@@ -28,7 +30,7 @@ Considerata l’opportunità di modificare la Convenzione internazionale su l’
 
 hanno convenuto quanto segue:
 
-[^ingress-1]: [RS 0.747.354.11](https://fedlex.data.admin.ch/eli/cc/1954/758_776_672)
+[^ingress-1]: [RS 0.747.354.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3088)
 
 #### Art. 1
 
@@ -58,8 +60,8 @@ L’articolo 4 paragrafo 5 è abrogato e sostituito dal testo seguente:
 - g) Mediante convenzione tra il vettore, capitano o agente del vettore e il caricatore, possono essere stabilite somme massime diverse da quelle indicate nell’alinea a) del presente paragrafo, purché questo ammontare massimo non sia inferiore alla somma massima corrispondente menzionata nel presente alinea.
 - h) Né il vettore, né la nave non sono in nessun caso responsabili per perdita o danno arrecato alle merci o in rapporto con esse se nella polizza di carico il caricatore ha fatto scientemente una dichiarazione falsa riguardo alla natura o al valore delle stesse».
 
-[^2-1]: Vedi anche il Prot. del 21 dic. 1979 ([RS 0.747.354.112](https://fedlex.data.admin.ch/eli/cc/1988/927_927_927)).
-[^2-2]: Vedi anche il Prot. del 21 dic. 1979 ([RS 0.747.354.112](https://fedlex.data.admin.ch/eli/cc/1988/927_927_927)).
+[^2-1]: Vedi anche il Prot. del 21 dic. 1979 ([RS 0.747.354.112](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3090)).
+[^2-2]: Vedi anche il Prot. del 21 dic. 1979 ([RS 0.747.354.112](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3090)).
 
 #### Art. 3
 
@@ -91,8 +93,8 @@ Il presente articolo non infirma il diritto di uno Stato contraente d’applicar
 
 «Le disposizioni della presente Convenzione s’applicano a qualsiasi polizza di carico concernente un trasporto di merce fra porti di due Stati diversi, allorché:
 
-- a) la polizza di carico è emessa in uno Stato contraente
-- b) il trasporto ha luogo partendo da un porto di uno Stato contraente oppure
+- a) la polizza di carico è emessa in uno Stato contraente;
+- b) il trasporto ha luogo partendo da un porto di uno Stato contraente; oppure
 - c) la polizza di carico prevede che le disposizioni della presente Convenzione, o di qualsiasi altra legislazione che le applica o dà loro effetto, disciplinano il contratto
 
 #### Art. 6
@@ -177,7 +179,7 @@ Il Governo belga notificherà agli Stati rappresentati nella dodicesima sessione
 
 *In fede di che,* i Plenipotenziari sottoscritti, debitamente autorizzati, hanno firmato il presente Protocollo. Fatto a Bruxelles, il 23 febbraio 1968, in lingua francese e inglese, i due testi facenti parimente fede, in un solo esemplare che permarrà depositato negli archivi del Governo belga, il quale ne rilascerà copie certificate conformi. (Seguono le firme)
 
-Campo d’applicazione il 22 novembre 2017**[^t-2]**
+Campo d’applicazione il 18 giugno 2026[^t-2]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -195,6 +197,7 @@ Campo d’applicazione il 22 novembre 2017**[^t-2]**
 <tr><td>Lituania</td><td>2 dicembre</td><td>2003 A</td><td>2 marzo</td><td>2004</td></tr>
 <tr><td>Lussemburgo</td><td>18 febbraio</td><td>1991 A</td><td>18 maggio</td><td>1991</td></tr>
 <tr><td>Messico</td><td>20 maggio</td><td>1994 A</td><td>20 agosto</td><td>1994</td></tr>
+<tr><td>Myanmar</td><td>13 agosto</td><td>2020 A</td><td>13 novembre</td><td>2020</td></tr>
 <tr><td>Norvegia</td><td>19 marzo</td><td>1974</td><td>23 giugno</td><td>1977</td></tr>
 <tr><td>Paesi Bassi\*</td><td>26 aprile</td><td>1982</td><td>26 luglio</td><td>1982</td></tr>
 <tr><td>Aruba</td><td>14 agosto</td><td>1986</td><td>14 novembre</td><td>1986</td></tr>
@@ -211,14 +214,14 @@ Campo d’applicazione il 22 novembre 2017**[^t-2]**
 <tr><td>Montserrat</td><td>20 ottobre</td><td>1983</td><td>20 gennaio</td><td>1984</td></tr>
 <tr><td>Terra antartica britannica</td><td>20 ottobre</td><td>1983</td><td>20 gennaio</td><td>1984</td></tr>
 <tr><td>Russia</td><td>29 aprile</td><td>1999 A</td><td>29 luglio</td><td>1999</td></tr>
+<tr><td>San Marino</td><td>6 maggio</td><td>2021 A</td><td>6 agosto</td><td>2021</td></tr>
 <tr><td>Singapore</td><td>25 aprile</td><td>1972 A</td><td>23 giugno</td><td>1977</td></tr>
 <tr><td>Siria</td><td>1° agosto</td><td>1974 A</td><td>23 giugno</td><td>1977</td></tr>
 <tr><td>Sri Lanka</td><td>21 ottobre</td><td>1981 A</td><td>21 gennaio</td><td>1982</td></tr>
 <tr><td>Svezia</td><td>9 dicembre</td><td>1974</td><td>23 giugno</td><td>1977</td></tr>
 <tr><td>Svizzera</td><td>11 dicembre</td><td>1975</td><td>23 giugno</td><td>1977</td></tr>
 <tr><td>Tonga</td><td>13 giugno</td><td>1978 A</td><td>13 settembre</td><td>1978</td></tr>
-<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e dichiarazioni non sono pubblicate nella RU. Il testo, in inglese, può essere consultato sul sito Internet del Governo belga: http://diplomatie.belgium.be/fr/traites/ oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
-<tr><td colspan="5"><sup>a</sup> Il Prot. non è applicabile alle Isole Färoer.</td></tr>
+<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e dichiarazioni non sono pubblicate nella RU. Il testo, in inglese, può essere consultato sul sito Internet del Governo belga: http://diplomatie.belgium.be/fr/traites/ oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna. <sup>a</sup> Il Prot. non è applicabile alle Isole Färoer.</td></tr>
 </table>
 
-[^t-2]: [RU 1977 1077](https://fedlex.data.admin.ch/eli/oc/1977/1077_1077_1077), [1981 1354](https://fedlex.data.admin.ch/eli/oc/1981/1354_1354_1354), [1983 420](https://fedlex.data.admin.ch/eli/oc/1983/420_420_420), [1984 273](https://fedlex.data.admin.ch/eli/oc/1984/273_273_273), [1985 1770](https://fedlex.data.admin.ch/eli/oc/1985/1770_1770_1770), [1987 1151](https://fedlex.data.admin.ch/eli/oc/1987/1151_1151_1151), [2006 823](https://fedlex.data.admin.ch/eli/oc/2006/133)e [2018 27](https://fedlex.data.admin.ch/eli/oc/2018/12). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
+[^t-2]: [RU 1977 1077](https://fedlex.data.admin.ch/eli/oc/1977/1077_1077_1077); [1981 1354](https://fedlex.data.admin.ch/eli/oc/1981/1354_1354_1354); [1983 420](https://fedlex.data.admin.ch/eli/oc/1983/420_420_420); [1984 273](https://fedlex.data.admin.ch/eli/oc/1984/273_273_273); [1985 1770](https://fedlex.data.admin.ch/eli/oc/1985/1770_1770_1770); [1987 1151](https://fedlex.data.admin.ch/eli/oc/1987/1151_1151_1151); [2006 823](https://fedlex.data.admin.ch/eli/oc/2006/133); [2018 27](https://fedlex.data.admin.ch/eli/oc/2018/12); [2026 334](https://fedlex.data.admin.ch/eli/oc/2026/334). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: www.fedlex.admin.ch/it/treaty .
