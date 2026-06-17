@@ -3,24 +3,22 @@ sr: "0.747.354.112"
 title: Protokoll vom 21. Dezember 1979 zur Änderung des internationalen Übereinkommens vom 25. August 1924 zur Vereinheitlichung einzelner Regeln über Konnossemente in der Fassung des Änderungsprotokolls vom 23. Februar 1968
 eli: "https://fedlex.data.admin.ch/eli/cc/1988/927_927_927"
 language: de
-version: 2017-03-10
+version: 2026-06-18
 adopted: 1979-12-21
 in_force: 1988-04-20
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/927_927_927/20170310/de/xml/fedlex-data-admin-ch-eli-cc-1988-927_927_927-20170310-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1988/927_927_927/20170310/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/927_927_927/20260618/de/xml/fedlex-data-admin-ch-eli-cc-1988-927_927_927-20260618-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1988/927_927_927/20260618/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Protokoll zur Änderung des internationalen Übereinkommens vom 25. August 1924 zur Vereinheitlichung einzelner Regeln über Konnossemente in der Fassung des Änderungsprotokolls vom 23. Februar 1968
 
-Übersetzung*[^t-1]*
+Übersetzung
 
 Abgeschlossen in Brüssel am 21. Dezember 1979 Schweizerische Ratifikationsurkunde hinterlegt am 20. Januar 1988 In Kraft getreten für die Schweiz am 20. April 1988
 
-(Stand am 10. März 2017)
-
-[^t-1]: AS **1988** 927 Der französische Originaltext findet sich unter der gleichen Nummer in der entsprechenden Ausgabe dieser Sammlung.
+(Stand am 18. Juni 2026)
 
 Die Vertragsparteien dieses Protokolls,
 
@@ -28,8 +26,8 @@ als Vertragsparteien des am 25. August 1924[^ingress-1] in Brüssel beschlossene
 
 sind wie folgt übereingekommen:
 
-[^ingress-1]: [SR 0.747.354.11](https://fedlex.data.admin.ch/eli/cc/1954/758_776_672)
-[^ingress-2]: [SR 0.747.354.111](https://fedlex.data.admin.ch/eli/cc/1977/1077_1077_1077)
+[^ingress-1]: [SR 0.747.354.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3088)
+[^ingress-2]: [SR 0.747.354.111](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3089)
 
 #### Art. I
 
@@ -123,7 +121,7 @@ Die belgische Regierung notifiziert den Unterzeichnerstaaten und den beitretende
 
 *Zu Urkund dessen* haben die hierzu gehörig befugten Unterzeichneten dieses Protokoll unterschrieben. Geschehen zu Brüssel am 21. Dezember 1979 in englischer und französischer Sprache, wobei jeder Wortlaut gleichermassen verbindlich ist, in einer Urschrift, die im Archiv der belgischen Regierung hinterlegt wird; diese erteilt beglaubigte Abschriften. (Es folgen die Unterschriften)
 
-Geltungsbereich am 10. März 2017**[^t-2]**
+Geltungsbereich am 18. Juni 2026[^t-1]
 
 <table>
 <tr><th>Vertragsstaaten</th><th colspan="2">Ratifikation Beitritt (B)</th><th colspan="2"></th><th colspan="2">Inkrafttreten</th><th></th></tr>
@@ -131,23 +129,25 @@ Geltungsbereich am 10. März 2017**[^t-2]**
 <tr><td>Belgien</td><td colspan="2">7. September</td><td colspan="2">1983</td><td colspan="2">14. Februar</td><td>1984</td></tr>
 <tr><td>China</td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td></td></tr>
 <tr><td>Hongkong <sup>a</sup></td><td colspan="2">20. Juni</td><td colspan="2">1997</td><td colspan="2">1. Juli</td><td>1997</td></tr>
-<tr><td>Dänemark\*</td><td colspan="2">3. November</td><td colspan="2">1983 B</td><td colspan="2">14. Februar</td><td>1984</td></tr>
+<tr><td>Dänemark <sup>b</sup></td><td colspan="2">3. November</td><td colspan="2">1983 B</td><td colspan="2">14. Februar</td><td>1984</td></tr>
 <tr><td>Finnland</td><td colspan="2">1. Dezember</td><td colspan="2">1984</td><td colspan="2">1. März</td><td>1985</td></tr>
 <tr><td>Frankreich</td><td colspan="2">18. November</td><td colspan="2">1986</td><td colspan="2">18. Februar</td><td>1987</td></tr>
 <tr><td>Griechenland</td><td colspan="2">23. März</td><td colspan="2">1993 B</td><td colspan="2">23. Juni</td><td>1993</td></tr>
 <tr><td>Italien\*</td><td colspan="2">22. August</td><td colspan="2">1985</td><td colspan="2">22. November</td><td>1985</td></tr>
 <tr><td>Japan</td><td colspan="2">1. März</td><td colspan="2">1993</td><td colspan="2">1. Juni</td><td>1993</td></tr>
 <tr><td>Kroatien</td><td colspan="2">28. Oktober</td><td colspan="2">1998 B</td><td colspan="2">28. Januar</td><td>1999</td></tr>
-<tr><td>Lettland</td><td colspan="2">4. April</td><td colspan="2">2002 B</td><td colspan="2">4. Oktober</td><td>2002</td></tr>
-<tr><td>Litauen</td><td colspan="2">2. Dezember</td><td colspan="2">2003 B</td><td colspan="2">2. Juni</td><td>2004</td></tr>
+<tr><td>Lettland</td><td colspan="2">4. April</td><td colspan="2">2002 B</td><td colspan="2">4. Juli</td><td>2002</td></tr>
+<tr><td>Litauen</td><td colspan="2">2. Dezember</td><td colspan="2">2003 B</td><td colspan="2">2. März</td><td>2004</td></tr>
 <tr><td>Luxemburg</td><td colspan="2">18. Februar</td><td colspan="2">1991 B</td><td colspan="2">18. Mai</td><td>1991</td></tr>
 <tr><td>Mexiko</td><td colspan="2">20. Mai</td><td colspan="2">1994 B</td><td colspan="2">20. August</td><td>1994</td></tr>
+<tr><td>Myanmar</td><td colspan="2">13. August</td><td colspan="2">2020 B</td><td colspan="2">13. November</td><td>2020</td></tr>
 <tr><td>Neuseeland</td><td colspan="2">20. Dezember</td><td colspan="2">1994 B</td><td colspan="2">20. März</td><td>1995</td></tr>
-<tr><td>Niederlande\*</td><td colspan="2">18. Februar</td><td colspan="2">1986</td><td colspan="2">18. Mai</td><td>1986</td></tr>
-<tr><td>[tab] Curaçao</td><td colspan="2">6. Februar</td><td colspan="2">2014</td><td colspan="2">6. Mai</td><td>2014</td></tr>
+<tr><td>Niederlande</td><td colspan="2">18. Februar</td><td colspan="2">1986</td><td colspan="2">18. Mai</td><td>1986</td></tr>
+<tr><td>Curaçao</td><td colspan="2">6. Februar</td><td colspan="2">2014</td><td colspan="2">6. Mai</td><td>2014</td></tr>
 <tr><td>Norwegen</td><td colspan="2">1. Dezember</td><td colspan="2">1983</td><td colspan="2">1. März</td><td>1984</td></tr>
 <tr><td>Polen</td><td colspan="2">6. Juli</td><td colspan="2">1984</td><td colspan="2">6. Oktober</td><td>1984</td></tr>
 <tr><td>Russland</td><td colspan="2">29. April</td><td colspan="2">1999 B</td><td colspan="2">29. Juli</td><td>1999</td></tr>
+<tr><td>San Marino</td><td colspan="2">6. Mai</td><td colspan="2">2021 B</td><td colspan="2">6. August</td><td>2021</td></tr>
 <tr><td>Schweden</td><td colspan="2">14. November</td><td colspan="2">1983</td><td colspan="2">14. Februar</td><td>1984</td></tr>
 <tr><td>Schweiz\*</td><td colspan="2">20. Januar</td><td colspan="2">1988</td><td colspan="2">20. April</td><td>1988</td></tr>
 <tr><td>Spanien</td><td colspan="2">6. Januar</td><td colspan="2">1982</td><td colspan="2">14. Februar</td><td>1984</td></tr>
@@ -161,27 +161,12 @@ Geltungsbereich am 10. März 2017**[^t-2]**
 <tr><td>Kaimaninseln</td><td colspan="2">20. Oktober</td><td colspan="2">1983</td><td colspan="2">14. Februar</td><td>1984</td></tr>
 <tr><td>Montserrat</td><td colspan="2">20. Oktober</td><td colspan="2">1983</td><td colspan="2">14. Februar</td><td>1984</td></tr>
 <tr><td>Turks- und Caicosinseln</td><td colspan="2">20. Oktober</td><td colspan="2">1983</td><td colspan="2">14. Februar</td><td>1984</td></tr>
-<tr><td colspan="8">\* Vorbehalte und Erklärungen siehe hiernach.</td></tr>
-<tr><td colspan="8"><sup>a</sup> Vom 14. Febr. 1984 bis zum 30. Juni 1997 war das Prot. auf Grund einer Ausdehnungserklärung des Vereinigten Königreichs in Hongkong anwendbar. Seit dem 1. Juli 1997 bildet Hongkong eine Besondere Verwaltungsregion (SAR) der Volksrepublik China. Auf Grund der chinesischen Erklärung vom 20. Juni 1997 ist das Prot. seit dem 1. Juli 1997 auch in der SAR Hongkong anwendbar.</td></tr>
+<tr><td colspan="8">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden nicht in der AS publiziert, mit Ausnahme derjenigen der Schweiz. Die englischen Texte können auf der Internetseite der Belgischen Regierung: [http://diplomatie.belgium.be/fr/traites/](http://diplomatie.belgium.be/fr/traites/) eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden. <sup>a</sup> Vom 14. Febr. 1984 bis zum 30. Juni 1997 war das Prot. auf Grund einer Ausdehnungserklärung des Vereinigten Königreichs in Hongkong anwendbar. Seit dem 1. Juli 1997 bildet Hongkong eine Besondere Verwaltungsregion (SAR) der Volksrepublik China. Auf Grund der chinesischen Erklärung vom 20. Juni 1997 ist das Prot. seit dem 1. Juli 1997 auch in der SAR Hongkong anwendbar. <sup>b</sup> Das Protokoll gilt nicht für die Färöer und Grönland.</td></tr>
 </table>
 
-[^t-2]: [AS 1988 927](https://fedlex.data.admin.ch/eli/oc/1988/927_927_927), [2006 1883](https://fedlex.data.admin.ch/eli/oc/2006/294)und [2017 2543](https://fedlex.data.admin.ch/eli/oc/2017/237). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+[^t-1]: [AS 1988 927](https://fedlex.data.admin.ch/eli/oc/1988/927_927_927); [2006 1883](https://fedlex.data.admin.ch/eli/oc/2006/294); [2017 2543](https://fedlex.data.admin.ch/eli/oc/2017/237); [2026 340](https://fedlex.data.admin.ch/eli/oc/2026/340). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
 
 Vorbehalte und Erklärungen
-
-**Dänemark**
-
-Das Protokoll gilt nicht für die Färöer-Inseln und Grönland.
-
-**Italien**
-
-Anlässlich der Ratifikation hat Italien folgende Erklärung abgegeben:
-
-«…dass für die Anwendung von Artikel 10 des Internationalen Übereinkommens von Brüssel zur einheitlichen Feststellung einzelner Regeln über die Konnossemente vom 25. August 1924, ergänzt durch die Protokolle von Brüssel vom 23. Februar 1968 und vom 21. Dezember 1979, jede Vertragspartei des Übereinkommens von 1924 oder des durch das Protokoll von 1968 geänderten Übereinkommens oder des Protokolls von 1979 von Italien als Vertragsstaat betrachtet wird.»
-
-**Niederlande**
-
-Das Protokoll gilt für das Königreich in Europa.
 
 **Schweiz**
 

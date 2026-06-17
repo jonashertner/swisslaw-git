@@ -3,24 +3,24 @@ sr: "0.747.354.112"
 title: "Protocollo del 21 dicembre 1979 che modifica la Convenzione internazionale del 25 agosto 1924 sull'unificazione di alcune regole in materia di polizza di carico, nel tenore del Protocollo di modifica del 23 febbraio 1968"
 eli: "https://fedlex.data.admin.ch/eli/cc/1988/927_927_927"
 language: it
-version: 2017-03-10
+version: 2026-06-18
 adopted: 1979-12-21
 in_force: 1988-04-20
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/927_927_927/20170310/it/xml/fedlex-data-admin-ch-eli-cc-1988-927_927_927-20170310-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1988/927_927_927/20170310/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/927_927_927/20260618/it/xml/fedlex-data-admin-ch-eli-cc-1988-927_927_927-20260618-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1988/927_927_927/20260618/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Protocollo che modifica la Convenzione internazionale del 25 agosto 1924 sull’internazionale di alcune regole in materia di polizza di carico, nel tenore del Protocollo di modifica del 23 febbraio 1968
 
-Traduzione*[^t-1]*
+RU **1988** 927
+
+Traduzione
 
 Concluso a Bruxelles il 21 dicembre 1979 Ratificato dalla Svizzera con strumento depositato il 20 gennaio 1988 Entrato in vigore per la Svizzera il 20 aprile 1988
 
-(Stato 10 marzo 2017)
-
-[^t-1]: RU **1988** 927 Dal testo originale francese.
+(Stato 18 giugno 2026)
 
 Le Parti contraenti del presente Protocollo,
 
@@ -28,8 +28,8 @@ in quanto Parti alla Convenzione internazionale sull’unificazione di alcune re
 
 hanno convenuto quanto segue:
 
-[^ingress-1]: [RS 0.747.354.11](https://fedlex.data.admin.ch/eli/cc/1954/758_776_672)
-[^ingress-2]: [RS 0.747.354.111](https://fedlex.data.admin.ch/eli/cc/1977/1077_1077_1077)
+[^ingress-1]: [RS 0.747.354.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3088)
+[^ingress-2]: [RS 0.747.354.111](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3089)
 
 #### Art. I
 
@@ -123,24 +123,26 @@ Il Governo belga notificherà agli Stati firmatari e aderenti:
 
 *In fede di che, i sottoscritti,* debitamente autorizzati a tal fine, hanno firmato il presente Protocollo. Fatto a Bruxelles, il 21 dicembre 1979, nelle lingue francese ed inglese, i due testi facenti ugualmente fede, in un solo esemplare che resterà depositato negli archivi del Governo belga, il quale ne rilascerà copie certificate conformi. (Seguono le firme)
 
-Campo d’applicazione il 10 marzo 2017**[^t-2]**
+Campo d’applicazione il 18 giugno 2026[^t-1]
 
 <table>
 <tr><th colspan="2">Stati partecipanti</th><th colspan="2">Ratifica Adesione (A)</th><th colspan="2"></th><th>Entrata in vigore</th><th></th></tr>
 <tr><td colspan="2">Australia</td><td colspan="2">16 luglio</td><td colspan="2">1993 A</td><td>16 ottobre</td><td>1993</td></tr>
 <tr><td colspan="2">Belgio</td><td colspan="2">7 settembre</td><td colspan="2">1983</td><td>14 febbraio</td><td>1984</td></tr>
+<tr><td colspan="2">Cina</td><td colspan="2"></td><td colspan="2"></td><td></td><td></td></tr>
+<tr><td colspan="2">Hong Kong <sup>a</sup></td><td colspan="2">20 giugno</td><td colspan="2">1997</td><td>1° luglio</td><td>1997</td></tr>
 <tr><td colspan="2">Croazia</td><td colspan="2">28 ottobre</td><td colspan="2">1998 A</td><td>28 gennaio</td><td>1999</td></tr>
-<tr><td colspan="2">Cina-Hong Kong</td><td colspan="2">20 giugno</td><td colspan="2">1997</td><td>1° luglio</td><td>1997</td></tr>
-<tr><td colspan="2">Danimarca\*</td><td colspan="2">3 novembre</td><td colspan="2">1983 A</td><td>14 febbraio</td><td>1984</td></tr>
+<tr><td colspan="2">Danimarca <sup>b</sup></td><td colspan="2">3 novembre</td><td colspan="2">1983 A</td><td>14 febbraio</td><td>1984</td></tr>
 <tr><td colspan="2">Finlandia</td><td colspan="2">1° dicembre</td><td colspan="2">1984</td><td>1° marzo</td><td>1985</td></tr>
 <tr><td colspan="2">Francia</td><td colspan="2">18 novembre</td><td colspan="2">1986</td><td>18 febbraio</td><td>1987</td></tr>
 <tr><td colspan="2">Giappone</td><td colspan="2">1° marzo</td><td colspan="2">1993</td><td>1° giugno</td><td>1993</td></tr>
 <tr><td colspan="2">Grecia</td><td colspan="2">23 marzo</td><td colspan="2">1993 A</td><td>23 giugno</td><td>1993</td></tr>
 <tr><td colspan="2">Italia\*</td><td colspan="2">22 agosto</td><td colspan="2">1985</td><td>22 novembre</td><td>1985</td></tr>
-<tr><td colspan="2">Lettonia</td><td colspan="2">4 aprile</td><td colspan="2">2002 A</td><td>4 ottobre</td><td>2002</td></tr>
-<tr><td colspan="2">Lituania</td><td colspan="2">2 dicembre</td><td colspan="2">2003 A</td><td>2 giugno</td><td>2004</td></tr>
+<tr><td colspan="2">Lettonia</td><td colspan="2">4 aprile</td><td colspan="2">2002 A</td><td>4 luglio</td><td>2002</td></tr>
+<tr><td colspan="2">Lituania</td><td colspan="2">2 dicembre</td><td colspan="2">2003 A</td><td>2 marzo</td><td>2004</td></tr>
 <tr><td colspan="2">Lussemburgo</td><td colspan="2">18 febbraio</td><td colspan="2">1991 A</td><td>18 maggio</td><td>1991</td></tr>
 <tr><td colspan="2">Messico</td><td colspan="2">20 maggio</td><td colspan="2">1994 A</td><td>20 agosto</td><td>1994</td></tr>
+<tr><td colspan="2">Myanmar</td><td colspan="2">13 agosto</td><td colspan="2">2020 A</td><td>13 novembre</td><td>2020</td></tr>
 <tr><td colspan="2">Norvegia</td><td colspan="2">1° dicembre</td><td colspan="2">1983</td><td>1° marzo</td><td>1984</td></tr>
 <tr><td colspan="2">Nuova Zelanda</td><td colspan="2">20 dicembre</td><td colspan="2">1994 A</td><td>20 marzo</td><td>1995</td></tr>
 <tr><td colspan="2">Paesi Bassi\*</td><td colspan="2">18 febbraio</td><td colspan="2">1986</td><td>18 maggio</td><td>1986</td></tr>
@@ -157,35 +159,18 @@ Campo d’applicazione il 10 marzo 2017**[^t-2]**
 <tr><td colspan="2">Montserrat</td><td colspan="2">20 ottobre</td><td colspan="2">1983</td><td>14 febbraio</td><td>1984</td></tr>
 <tr><td colspan="2">Terra antartica britannica</td><td colspan="2">20 ottobre</td><td colspan="2">1983</td><td>14 febbraio</td><td>1984</td></tr>
 <tr><td colspan="2">Russia</td><td colspan="2">29 aprile</td><td colspan="2">1999 A</td><td>29 luglio</td><td>1999</td></tr>
+<tr><td colspan="2">San Marino</td><td colspan="2">6 maggio</td><td colspan="2">2021 A</td><td>6 agosto</td><td>2021</td></tr>
 <tr><td colspan="2">Spagna</td><td colspan="2">6 gennaio</td><td colspan="2">1982</td><td>14 febbraio</td><td>1984</td></tr>
 <tr><td colspan="2">Svezia</td><td colspan="2">14 novembre</td><td colspan="2">1983</td><td>14 febbraio</td><td>1984</td></tr>
 <tr><td colspan="2">Svizzera\*</td><td colspan="2">20 gennaio</td><td colspan="2">1988</td><td>20 aprile</td><td>1988</td></tr>
-<tr><td colspan="8">\* Riserve e dichiarazioni.</td></tr>
-<tr><td colspan="8"><sup>a</sup> Dal 14 feb. 1984 al 30 giu. 1997, il Prot. era applicabile a Hong Kong in base a una dichiarazione d’estensione territoriale del Regno Unito. Dal 1° lug. 1997, Hong Kong è diventata una Regione amministrativa speciale (RAS) della Repubblica Popolare Cinese. In virtù della dichiarazione cinese del 20 giu. 1997, il Prot. è applicabile anche alla RAS Hong Kong dal 1° lug. 1997.</td></tr>
+<tr><td colspan="8">\* Riserve e dichiarazioni. Le riserve e le dichiarazioni non sono pubblicate nella RU, ad eccezione di quelle della Svizzera. Le riserve e dichiarazioni non sono pubblicate nella RU. Il testo, in inglese, può essere consultato sul sito Internet del Governo belga: http://diplomatie.belgium.be/fr/traites/ oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna. <sup>a</sup> Dal 14 feb. 1984 al 30 giu. 1997, il Prot. era applicabile a Hong Kong in base a una dichiarazione d’estensione territoriale del Regno Unito. Dal 1° lug. 1997, Hong Kong è diventata una Regione amministrativa speciale (RAS) della Repubblica Popolare Cinese. In virtù della dichiarazione cinese del 20 giu. 1997, il Prot. è applicabile anche alla RAS Hong Kong dal 1° lug. 1997. <sup>b</sup> Il Prot. non si applica alle Isole Faeröer e alla Groenlandia.</td></tr>
 </table>
 
-[^t-2]: [RU 1988 927](https://fedlex.data.admin.ch/eli/oc/1988/927_927_927), [2006 1883](https://fedlex.data.admin.ch/eli/oc/2006/294)e [2017 2543](https://fedlex.data.admin.ch/eli/oc/2017/237). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
+[^t-1]: [RU 1988 927](https://fedlex.data.admin.ch/eli/oc/1988/927_927_927); [2006 1883](https://fedlex.data.admin.ch/eli/oc/2006/294); [2017 2543](https://fedlex.data.admin.ch/eli/oc/2017/237); [2026 340](https://fedlex.data.admin.ch/eli/oc/2026/340). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: www.fedlex.admin.ch/it/treaty .
 
 Riserve e dichiarazioni
 
-## Danimarca
-
-Il protocollo non si applica alle Isole Féroé né alla Groenlandia.
-
-## Italia
-
-All’atto della ratificazione, l’Italia ha fatto la seguente dichiarazione:
-
-«… che ai fini dell’applicazione dell’articolo 10 della Convenzione, nel tenore emendato dai Protocolli fatti a Bruxelles il 23 febbraio 1968 e il 21 dicembre 1979, ogni Stato parte della Convenzione del 1924[^declu2-lvlu2-1], della Convenzione emendata dal protocollo del 1968[^declu2-lvlu2-2] o del Protocollo del 1979 sarà considerato dall’Italia come Stato contraente.»
-
-[^declu2-lvlu2-1]: [RS 0.747.354.11](https://fedlex.data.admin.ch/eli/cc/1954/758_776_672)
-[^declu2-lvlu2-2]: [RS 0.747.354.111](https://fedlex.data.admin.ch/eli/cc/1977/1077_1077_1077)
-
-## Paesi Bassi
-
-Il protocollo è applicabile al Regno in Europa.
-
-## Svizzera
+**Svizzera**
 
 Il Consiglio federale svizzero dichiara, riferendosi all’articolo 4 paragrafo 5 comma d) della Convenzione del 25 agosto 1924 sull’unificazione di alcune regole in materia di polizza di carico, emendata dal Protocollo del 23 febbraio 1968, sostituito dall’articolo II del Protocollo del 21 dicembre 1979, che la Svizzera calcola nel modo seguente il valore, in diritto speciale di prelievo (DSP), della sua moneta nazionale:
 
