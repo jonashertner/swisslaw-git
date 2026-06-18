@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Modification de l’ordonnance sur la viticulture et l’importation de vin; répartition du contingent tarifaire vin
 document: Projet mis en consultation
 language: fr

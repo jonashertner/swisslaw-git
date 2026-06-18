@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Modifica dell’ordinanza concernente la viticoltura e l’importazione di vino; ripartizione del contingente doganale per il vino
 document: Progetto posto in consultazione
 language: it
