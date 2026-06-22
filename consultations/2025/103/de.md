@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Revision des Bundesgesetzes über die Krankenversicherung (KVG): Anpassung der Franchise"
 document: Vernehmlassungsvorlage
 language: de

@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Révision de la loi fédérale sur l’assurance-maladie (LAMal): adaptation de la franchise"
 document: Projet mis en consultation
 language: fr

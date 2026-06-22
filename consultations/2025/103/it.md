@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Revisione della legge federale sull'assicurazione malattie (LAMal): adeguamento della franchigia"
 document: Progetto posto in consultazione
 language: it
