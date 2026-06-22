@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Verordnung über die elektronische Kommunikation in bundesrechtlichen Justiz- und Verwaltungsverfahren (VEKJ)
 document: Vernehmlassungsvorlage
 language: de

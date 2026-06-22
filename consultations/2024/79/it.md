@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Ordinanza concernente la comunicazione elettronica nei procedimenti giudiziari e amministrativi di diritto federale (OCEP)
 document: Progetto posto in consultazione
 language: it
