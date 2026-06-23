@@ -3,18 +3,18 @@ sr: "916.443.112"
 title: Ordonnance de l’OSAV du 17 juillet 2025 instituant des mesures contre la dermatose nodulaire contagieuse (lumpy skin disease)
 eli: "https://fedlex.data.admin.ch/eli/cc/2025/471"
 language: fr
-version: 2026-06-05
+version: 2026-06-24
 adopted: 2025-07-17
 in_force: 2025-07-18
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/471/20260605/fr/xml/fedlex-data-admin-ch-eli-cc-2025-471-20260605-fr-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2025/471/20260605/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/471/20260624/fr/xml/fedlex-data-admin-ch-eli-cc-2025-471-20260624-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2025/471/20260624/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance de l’OSAV instituant des mesures contre la dermatose nodulaire contagieuse (lumpy skin disease)
 
-du 17 juillet 2025 (État le 5 juin 2026)
+du 17 juillet 2025 (État le 24 juin 2026)
 
 L’Office fédéral de la sécurité alimentaire et des affaires vétérinaires (OSAV),
 
@@ -245,7 +245,7 @@ Les animaux vivants des espèces réceptives peuvent être déplacés hors et à
 
 Le sperme, les ovules et les embryons provenant de la zone de vaccination peuvent être expédiés si les animaux donneurs ne présentent aucun symptôme clinique 28 jours avant la date de la collecte et pendant toute la période de collecte. Les animaux donneurs doivent en outre remplir l’une des conditions suivantes:
 
-- a.[^19-2] ils ont été vaccinés au moins 28 jours avant la date d’expédition et se trouvent, à cette date, encore dans la période d’immunité;
+- a.[^19-2] ils ont été vaccinés au moins 28 jours avant la date de la collecte et se trouvent, à cette date, encore dans la période d’immunité;
 - b.
 
   ils ont été soumis à un examen sérologique de recherche d’anticorps effectué sur des échantillons de sang dont le résultat s’est révélé négatif:
@@ -254,7 +254,7 @@ Le sperme, les ovules et les embryons provenant de la zone de vaccination peuven
   - 2\. pour l’expédition d’embryons et d’ovules: le jour de la collecte.
 
 [^19-1]: Nouvelle teneur selon le ch. I de l’O de l’OSAV du 3 juin 2026, en vigueur depuis le 5 juin 2026 ([RO 2026 279](https://fedlex.data.admin.ch/eli/oc/2026/279)).
-[^19-2]: Erratum du 4 juin 2026 ([RO 2026 280](https://fedlex.data.admin.ch/eli/oc/2026/280)).
+[^19-2]: Erratum du 24 juin 2026 ([RO 2026 339](https://fedlex.data.admin.ch/eli/oc/2026/339)).
 
 #### Art. 20
 
@@ -332,4 +332,4 @@ Sont des zones de vaccination:
 - – le territoire La Pile Dessus de la commune de Saint-Cergue, dans le canton de Vaud;
 - – les territoires marqués en gris sur la carte ci-dessous appartenant aux communes suivantes du canton du Valais: Champéry, Val-d’Illiez, Finhaut, Martigny-Combe, Orsières, Salvan, Trient.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/471/20260605/fr/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/471/20260624/fr/xml/image/image1.png)

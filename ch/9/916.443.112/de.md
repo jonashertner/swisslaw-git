@@ -3,18 +3,18 @@ sr: "916.443.112"
 title: Verordnung des BLV vom 17. Juli 2025 über Massnahmen im Zusammenhang mit der Dermatitis nodularis (Lumpy Skin Disease)​
 eli: "https://fedlex.data.admin.ch/eli/cc/2025/471"
 language: de
-version: 2026-06-05
+version: 2026-06-24
 adopted: 2025-07-17
 in_force: 2025-07-18
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/471/20260605/de/xml/fedlex-data-admin-ch-eli-cc-2025-471-20260605-de-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2025/471/20260605/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/471/20260624/de/xml/fedlex-data-admin-ch-eli-cc-2025-471-20260624-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2025/471/20260624/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung des BLV über Massnahmen im Zusammenhang mit der Dermatitis nodularis (Lumpy Skin Disease)
 
-vom 17. Juli 2025 (Stand am 5. Juni 2026)
+vom 17. Juli 2025 (Stand am 24. Juni 2026)
 
 Das Bundesamt für Lebensmittelsicherheit und Veterinärwesen (BLV),
 
@@ -245,7 +245,7 @@ Lebende Tiere empfänglicher Arten dürfen aus und innerhalb der Impfzone verste
 
 Samen, Eizellen und Embryonen dürfen aus der Impfzone versendet werden, wenn die Spendertiere 28 Tage vor dem Datum der Entnahme sowie während des gesamten Entnahmezeitraums keine klinischen Symptome aufweisen. Die Spendertiere müssen zudem eine der folgenden Voraussetzungen erfüllen:
 
-- a. Sie wurden mindestens 28 Tage vor dem Versanddatum geimpft und befinden sich am Versanddatum noch im Zeitraum der Immunität.
+- a.[^19-2] Sie wurden mindestens 28 Tage vor dem Datum der Entnahme geimpft und befinden sich an diesem Datum noch im Zeitraum der Immunität.
 - b.
 
   Sie wurden wie folgt anhand von Blutproben serologisch negativ auf Antikörper getestet:
@@ -254,6 +254,7 @@ Samen, Eizellen und Embryonen dürfen aus der Impfzone versendet werden, wenn di
   - 2\. für den Versand von Embryonen und Eizellen: am Tag der Entnahme.
 
 [^19-1]: Fassung gemäss Ziff. I der V des BLV vom 3. Juni 2026, in Kraft seit vom 5. Juni 2026 ([AS 2026 279](https://fedlex.data.admin.ch/eli/oc/2026/279)).
+[^19-2]: Berichtigung vom 24. Juni 2026 ([AS 2026 339](https://fedlex.data.admin.ch/eli/oc/2026/339)).
 
 #### Art. 20
 
@@ -331,4 +332,4 @@ Als Impfzonen gelten:
 - – das Gebiet La Pile Dessus der Gemeinde Saint-Cergue des Kantons Waadt;
 - – die auf der nachstehenden Karte grau markierten Teilgebiete der folgenden Gemeinden des Kantons Wallis: Champéry, Val-d’Illiez, Finhaut, Martigny-Combe, Orsières, Salvan, Trient.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/471/20260605/de/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/471/20260624/de/xml/image/image1.png)
