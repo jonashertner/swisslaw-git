@@ -3,11 +3,11 @@ sr: "0.814.296"
 title: Convenzione internazionale del 2004 del 13 febbraio 2004 per il controllo e la gestione delle acque di zavorra e dei sedimenti delle navi (con all.)
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/459"
 language: it
-version: 2025-10-01
+version: 2026-06-29
 adopted: 2004-02-13
 in_force: 2017-09-08
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/459/20251001/it/xml/fedlex-data-admin-ch-eli-cc-2017-459-20251001-it-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/459/20251001/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/459/20260629/it/xml/fedlex-data-admin-ch-eli-cc-2017-459-20260629-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/459/20260629/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -20,7 +20,7 @@ Traduzione
 
 Conclusa a Londra il 13 febbraio 2004 Approvata dall’Assemblea federale il 22 marzo 2013[^t-1] Strumento di adesione depositato dalla Svizzera il 24 settembre 2013 Entrata in vigore per la Svizzera l’8 settembre 2017
 
-(Stato 1° ottobre 2025)
+(Stato 29 giugno 2026)
 
 [^t-1]: [RU 2013 5523](https://fedlex.data.admin.ch/eli/oc/2013/886)
 
@@ -50,8 +50,8 @@ considerando che il modo migliore per ottenere tali obiettivi è di concludere u
 
 hanno convenuto quanto segue:
 
-[^ingress-1]: [RS 0.747.305.15](https://fedlex.data.admin.ch/eli/cc/2009/416)
-[^ingress-2]: [RS 0.451.43](https://fedlex.data.admin.ch/eli/cc/1995/1408_1408_1408)
+[^ingress-1]: [RS 0.747.305.15](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3066)
+[^ingress-2]: [RS 0.451.43](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1840)
 
 #### Art. 1
 
@@ -83,7 +83,7 @@ Ai fini della presente Convenzione, salvo disposizione espressa contraria:
 
 <sup>12</sup> Per «nave» s’intende un’unità di qualsiasi tipo che opera nell’ambiente acquatico e che comprende le piattaforme galleggianti, le FSU e le FPSO.
 
-[^1-1]: [RS 0.747.305.412](https://fedlex.data.admin.ch/eli/cc/1982/1326_1326_1326)
+[^1-1]: [RS 0.747.305.412](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3073)
 
 #### Art. 2
 
@@ -397,7 +397,7 @@ Oltre alle funzioni specificate in altre disposizioni della presente Convenzione
 
 - b. appena la Convenzione entra in vigore, trasmette il testo al Segretariato dell’Organizzazione delle Nazioni Unite per la sua registrazione e la sua pubblicazione in conformità all’articolo 102 della Carta (o Statuto) delle Nazioni Unite[^21-1].
 
-[^21-1]: [RS 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
+[^21-1]: [RS 0.120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/41)
 
 #### Art. 22
 
@@ -411,7 +411,7 @@ Allegato[^t-2]
 
 [^t-2]: Aggiornato dalle mod. dei 13 apr. 2018, 20 nov. 2020, 7 lug. 2023 e 22 mar. 2024, in vigore dal 1° ott. 2025 ([RU 2025 286](https://www.fedlex.admin.ch/eli/oc/2025/286/it)). L’all. e i suoi emendamenti non sono pubblicati nella RU e nella RS. Possono essere consultati in inglese sul sito Internet dell’Organizzazione marittima internazionale (OMI): [www.imo.org/en/KnowledgeCentre/IndexofIMOResolutions/Pages/Default.aspx](https://www.imo.org/en/KnowledgeCentre/IndexofIMOResolutions/Pages/Default.aspx). Lì vengono aggiornati nelle risoluzioni del comitato competente dell’OMI. I testi in francese e una versione consolidata in inglese sono disponibili per la consultazione presso l’Ufficio svizzero della navigazione marittima, Elisabethenstrasse 33, 4010 Basilea.
 
-Campo d’applicazione il 18 luglio 2024[^t-3]
+Campo d’applicazione il 29 giugno 2026[^t-3]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -456,6 +456,7 @@ Campo d’applicazione il 18 luglio 2024[^t-3]
 <tr><td>Giordania</td><td>9 settembre</td><td>2014 A</td><td>8 settembre</td><td>2017</td></tr>
 <tr><td>Grecia</td><td>26 giugno</td><td>2017 A</td><td>26 settembre</td><td>2017</td></tr>
 <tr><td>Grenada</td><td>26 luglio</td><td>2018 A</td><td>26 ottobre</td><td>2018</td></tr>
+<tr><td>Guinea equatoriale</td><td>3 dicembre</td><td>2025 A</td><td>3 marzo</td><td>2026</td></tr>
 <tr><td>Guinea-Bissau</td><td>12 maggio</td><td>2022 A</td><td>12 agosto</td><td>2022</td></tr>
 <tr><td>Guyana</td><td>20 febbraio</td><td>2019 A</td><td>20 maggio</td><td>2019</td></tr>
 <tr><td>Honduras</td><td>10 luglio</td><td>2017 A</td><td>10 ottobre</td><td>2017</td></tr>
@@ -465,6 +466,7 @@ Campo d’applicazione il 18 luglio 2024[^t-3]
 <tr><td>Irlanda</td><td>30 novembre</td><td>2023 A</td><td>29 febbraio</td><td>2024</td></tr>
 <tr><td>Isole Cook</td><td>2 febbraio</td><td>2010</td><td>8 settembre</td><td>2017</td></tr>
 <tr><td>Isole Marshall</td><td>26 novembre</td><td>2009 A</td><td>8 settembre</td><td>2017</td></tr>
+<tr><td>Isole Salomone</td><td>27 novembre</td><td>2025 A</td><td>27 febbraio</td><td>2026</td></tr>
 <tr><td>Kenya</td><td>14 gennaio</td><td>2008</td><td>8 settembre</td><td>2017</td></tr>
 <tr><td>Kiribati</td><td>5 febbraio</td><td>2007 A</td><td>8 settembre</td><td>2017</td></tr>
 <tr><td>Lettonia</td><td>11 ottobre</td><td>2018 A</td><td>11 gennaio</td><td>2019</td></tr>
@@ -479,6 +481,7 @@ Campo d’applicazione il 18 luglio 2024[^t-3]
 <tr><td>Messico</td><td>18 marzo</td><td>2008 A</td><td>8 settembre</td><td>2017</td></tr>
 <tr><td>Mongolia</td><td>28 settembre</td><td>2011 A</td><td>8 settembre</td><td>2017</td></tr>
 <tr><td>Montenegro</td><td>29 novembre</td><td>2011 A</td><td>8 settembre</td><td>2017</td></tr>
+<tr><td>Mozambico</td><td>23 ottobre</td><td>2025 A</td><td>23 gennaio</td><td>2026</td></tr>
 <tr><td>Myanmar</td><td>17 agosto</td><td>2022 A</td><td>17 novembre</td><td>2022</td></tr>
 <tr><td>Namibia</td><td>15 luglio</td><td>2020 A</td><td>15 ottobre</td><td>2020</td></tr>
 <tr><td>Nauru</td><td>23 marzo</td><td>2020 A</td><td>23 giugno</td><td>2020</td></tr>
@@ -497,8 +500,8 @@ Campo d’applicazione il 18 luglio 2024[^t-3]
 <tr><td>Qatar</td><td>8 febbraio</td><td>2018 A</td><td>8 maggio</td><td>2018</td></tr>
 <tr><td>Regno Unito</td><td>26 maggio</td><td>2022 A</td><td>26 agosto</td><td>2022</td></tr>
 <tr><td>Bermuda</td><td>8 maggio</td><td>2024</td><td>8 maggio</td><td>2024</td></tr>
-<tr><td>Russia</td><td>24 maggio</td><td>2012 A</td><td>8 settembre</td><td>2017</td></tr>
 <tr><td>Repubblica Dominicana</td><td>12 ottobre</td><td>2021 A</td><td>12 gennaio</td><td>2022</td></tr>
+<tr><td>Russia</td><td>24 maggio</td><td>2012 A</td><td>8 settembre</td><td>2017</td></tr>
 <tr><td>Saint Kitts e Nevis</td><td>30 agosto</td><td>2005 A</td><td>8 settembre</td><td>2017</td></tr>
 <tr><td>Saint Lucia</td><td>26 maggio</td><td>2016</td><td>8 settembre</td><td>2017</td></tr>
 <tr><td>Saint Vincent e Grenadine</td><td>2 luglio</td><td>2020 A</td><td>2 ottobre</td><td>2020</td></tr>
@@ -508,6 +511,7 @@ Campo d’applicazione il 18 luglio 2024[^t-3]
 <tr><td>Sierra Leone</td><td>21 novembre</td><td>2007 A</td><td>8 settembre</td><td>2017</td></tr>
 <tr><td>Singapore</td><td>8 giugno</td><td>2017 A</td><td>8 settembre</td><td>2017</td></tr>
 <tr><td>Siria</td><td>2 settembre</td><td>2005</td><td>8 settembre</td><td>2017</td></tr>
+<tr><td>Slovenia</td><td>7 aprile</td><td>2026 A</td><td>7 luglio</td><td>2026</td></tr>
 <tr><td>Spagna</td><td>14 settembre</td><td>2005</td><td>8 settembre</td><td>2017</td></tr>
 <tr><td>Sudafrica</td><td>15 aprile</td><td>2008 A</td><td>8 settembre</td><td>2017</td></tr>
 <tr><td>Svezia\*</td><td>24 novembre</td><td>2009</td><td>8 settembre</td><td>2017</td></tr>
@@ -517,8 +521,9 @@ Campo d’applicazione il 18 luglio 2024[^t-3]
 <tr><td>Trinidad e Tobago</td><td>3 gennaio</td><td>2012 A</td><td>8 settembre</td><td>2017</td></tr>
 <tr><td>Turchia\*</td><td>14 ottobre</td><td>2014 A</td><td>8 settembre</td><td>2017</td></tr>
 <tr><td>Tuvalu</td><td>2 dicembre</td><td>2005 A</td><td>8 settembre</td><td>2017</td></tr>
+<tr><td>Vanuatu</td><td>16 ottobre</td><td>2025 A</td><td>16 gennaio</td><td>2026</td></tr>
 <tr><td>Vietnam</td><td>24 gennaio</td><td>2024 A</td><td>24 aprile</td><td>2024</td></tr>
 <tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e le dichiarazioni non sono pubblicate nella RU. I testi in inglese possono essere ottenuti sul sito Internet dell’Organizzazione internazionale marittima (IMO): [www.imo.org](http://www.imo.org) &gt; Qui nous sommes &gt; Conventions &gt; État des conventions &gt; Status Book, oppure presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
 </table>
 
-[^t-3]: [RU 2017 3837](https://fedlex.data.admin.ch/eli/oc/2017/459), [5879](https://fedlex.data.admin.ch/eli/oc/2017/639); [2018 2785](https://fedlex.data.admin.ch/eli/oc/2018/416), [4079](https://fedlex.data.admin.ch/eli/oc/2018/662); [2020 4343](https://fedlex.data.admin.ch/eli/oc/2020/775); [2021 774](https://fedlex.data.admin.ch/eli/oc/2021/774); [2024 380](https://fedlex.data.admin.ch/eli/oc/2024/380). Una versione aggiornata del campo di applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: www.fedlex.admin.ch/it/treaty
+[^t-3]: [RU 2017 3837](https://fedlex.data.admin.ch/eli/oc/2017/459), [5879](https://fedlex.data.admin.ch/eli/oc/2017/639); [2018 2785](https://fedlex.data.admin.ch/eli/oc/2018/416); [2020 4343](https://fedlex.data.admin.ch/eli/oc/2020/775); [2021 774](https://fedlex.data.admin.ch/eli/oc/2021/774); [2024 380](https://fedlex.data.admin.ch/eli/oc/2024/380); [2026 355](https://fedlex.data.admin.ch/eli/oc/2026/355). Una versione aggiornata del campo di applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty)

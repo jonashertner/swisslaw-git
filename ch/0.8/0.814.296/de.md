@@ -3,11 +3,11 @@ sr: "0.814.296"
 title: Internationales Übereinkommen von 2004 vom 13. Februar 2004 zur Kontrolle und Behandlung von Ballastwasser und Sedimenten von Schiffen (mit Anhang)
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/459"
 language: de
-version: 2025-10-01
+version: 2026-06-29
 adopted: 2004-02-13
 in_force: 2017-09-08
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/459/20251001/de/xml/fedlex-data-admin-ch-eli-cc-2017-459-20251001-de-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/459/20251001/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/459/20260629/de/xml/fedlex-data-admin-ch-eli-cc-2017-459-20260629-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/459/20260629/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -26,7 +26,7 @@ Schweizerische Beitrittsurkunde hinterlegt am 24. September 2013
 
 In Kraft getreten für die Schweiz am 8. September 2017
 
-(Stand am 1. Oktober 2025)
+(Stand am 29. Juni 2026)
 
 [^t-1]: [AS 2013 5523](https://fedlex.data.admin.ch/eli/oc/2013/886)
 
@@ -56,8 +56,8 @@ in der Erwägung, dass diese Ziele am besten durch den Abschluss eines Internati
 
 sind wie folgt übereingekommen:
 
-[^ingress-1]: [SR 0.747.305.15](https://fedlex.data.admin.ch/eli/cc/2009/416)
-[^ingress-2]: [SR 0.451.43](https://fedlex.data.admin.ch/eli/cc/1995/1408_1408_1408)
+[^ingress-1]: [SR 0.747.305.15](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3066)
+[^ingress-2]: [SR 0.451.43](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1840)
 
 #### Art. 1
 
@@ -89,7 +89,7 @@ Im Sinne des Übereinkommens haben, soweit nicht ausdrücklich etwas anderes bes
 
 <sup>12</sup> Der Ausdruck «Schiff» bezeichnet ein Fahrzeug beliebiger Art, das sich bei seinem Betrieb im Wasser befindet, und schliesst Unterwassergerät, schwimmendes Gerät, schwimmende Plattformen, schwimmende Lagerplattformen (FSUs) sowie schwimmende Produktions-, Lagerungs- und Verladeeinrichtungen (FPSOs) ein.
 
-[^1-1]: [SR 0.747.305.412](https://fedlex.data.admin.ch/eli/cc/1982/1326_1326_1326)
+[^1-1]: [SR 0.747.305.412](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3073)
 
 #### Art. 2
 
@@ -403,7 +403,7 @@ Zusätzlich zu den an anderer Stelle in diesem Übereinkommen festgelegten Aufga
 
 - b) sobald das Übereinkommen in Kraft tritt, seinen Wortlaut dem Sekretariat der Vereinten Nationen zur Registrierung und Veröffentlichung nach Artikel 102 der Charta der Vereinten Nationen[^21-1] zuzuleiten.
 
-[^21-1]: [SR 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
+[^21-1]: [SR 0.120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/41)
 
 #### Art. 22
 
@@ -417,13 +417,14 @@ Anlage[^t-2]
 
 [^t-2]: Die Anlage und ihre Änderungen werden in der AS und in der SR nicht mehr veröffentlicht ([AS 2025 286](https://fedlex.data.admin.ch/eli/oc/2025/286)). Die englischen Texte können auf der Internetseite der Internationalen Seeschifffahrts-Organisation (IMO): [www.imo.org/en/KnowledgeCentre/IndexofIMOResolutions/Pages/Default.aspx](https://www.imo.org/en/KnowledgeCentre/IndexofIMOResolutions/Pages/Default.aspx) eingesehen werden. Dort werden sie in den Resolutionen des zuständigen IMO-Komitees jeweils nachgeführt. Die französischen Texte sowie eine konsolidierte englische Version können beim Schweizerischen Seeschifffahrtsamt, Elisabethenstrasse 33, 4010 Basel, eingesehen werden.
 
-Geltungsbereich am 18. Juli 2024[^t-3]
+Geltungsbereich am 29. Juni 2026[^t-3]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B)</th><th></th><th>Inkrafttreten</th><th></th></tr>
 <tr><td>Ägypten</td><td>11. Mai</td><td>2007 B</td><td>8. September</td><td>2017</td></tr>
 <tr><td>Albanien</td><td>15. Januar</td><td>2009 B</td><td>8. September</td><td>2017</td></tr>
 <tr><td>Antigua und Barbuda</td><td>19. Dezember</td><td>2008 B</td><td>8. September</td><td>2017</td></tr>
+<tr><td>Äquatorialguinea</td><td>3. Dezember</td><td>2025 B</td><td>3. März</td><td>2026</td></tr>
 <tr><td>Argentinien</td><td>2. August</td><td>2017</td><td>2. November</td><td>2017</td></tr>
 <tr><td>Australien</td><td>7. Juni</td><td>2017</td><td>8. September</td><td>2017</td></tr>
 <tr><td>Bahamas</td><td>8. Juni</td><td>2017 B</td><td>8. September</td><td>2017</td></tr>
@@ -482,6 +483,7 @@ Geltungsbereich am 18. Juli 2024[^t-3]
 <tr><td>Mexiko</td><td>18. März</td><td>2008 B</td><td>8. September</td><td>2017</td></tr>
 <tr><td>Mongolei</td><td>28. September</td><td>2011 B</td><td>8. September</td><td>2017</td></tr>
 <tr><td>Montenegro</td><td>29. November</td><td>2011 B</td><td>8. September</td><td>2017</td></tr>
+<tr><td>Mosambik</td><td>23. Oktober</td><td>2025 B</td><td>23. Januar</td><td>2026</td></tr>
 <tr><td>Myanmar</td><td>17. August</td><td>2022 B</td><td>17. November</td><td>2022</td></tr>
 <tr><td>Namibia</td><td>15. Juli</td><td>2020 B</td><td>15. Oktober</td><td>2020</td></tr>
 <tr><td>Nauru</td><td>23. März</td><td>2020 B</td><td>23. Juni</td><td>2020</td></tr>
@@ -500,6 +502,7 @@ Geltungsbereich am 18. Juli 2024[^t-3]
 <tr><td>Polen</td><td>26. August</td><td>2020 B</td><td>26. November</td><td>2020</td></tr>
 <tr><td>Portugal</td><td>19. Oktober</td><td>2017 B</td><td>19. Januar</td><td>2018</td></tr>
 <tr><td>Russland</td><td>24. Mai</td><td>2012 B</td><td>8. September</td><td>2017</td></tr>
+<tr><td>Salomoninseln</td><td>27. November</td><td>2025 B</td><td>27. Februar</td><td>2026</td></tr>
 <tr><td>Saudi-Arabien</td><td>27. April</td><td>2017 B</td><td>8. September</td><td>2017</td></tr>
 <tr><td>São Tomé und Príncipe</td><td>15. August</td><td>2022 B</td><td>15. November</td><td>2022</td></tr>
 <tr><td>Schweden\*</td><td>24. November</td><td>2009</td><td>8. September</td><td>2017</td></tr>
@@ -508,6 +511,7 @@ Geltungsbereich am 18. Juli 2024[^t-3]
 <tr><td>Seychellen</td><td>27. November</td><td>2017 B</td><td>27. Februar</td><td>2018</td></tr>
 <tr><td>Sierra Leone</td><td>21. November</td><td>2007 B</td><td>8. September</td><td>2017</td></tr>
 <tr><td>Singapur</td><td>8. Juni</td><td>2017 B</td><td>8. September</td><td>2017</td></tr>
+<tr><td>Slowenien</td><td>7. April</td><td>2026 B</td><td>7. Juli</td><td>2026</td></tr>
 <tr><td>Spanien</td><td>14. September</td><td>2005</td><td>8. September</td><td>2017</td></tr>
 <tr><td>St. Kitts und Nevis</td><td>30. August</td><td>2005 B</td><td>8. September</td><td>2017</td></tr>
 <tr><td>St. Lucia</td><td>26. Mai</td><td>2016</td><td>8. September</td><td>2017</td></tr>
@@ -519,6 +523,7 @@ Geltungsbereich am 18. Juli 2024[^t-3]
 <tr><td>Trinidad und Tobago</td><td>3. Januar</td><td>2012 B</td><td>8. September</td><td>2017</td></tr>
 <tr><td>Tuvalu</td><td>2. Dezember</td><td>2005 B</td><td>8. September</td><td>2017</td></tr>
 <tr><td>Türkei\*</td><td>14. Oktober</td><td>2014 B</td><td>8. September</td><td>2017</td></tr>
+<tr><td>Vanuatu</td><td>16. Oktober</td><td>2025 B</td><td>16. Januar</td><td>2026</td></tr>
 <tr><td>Vereinigte Arabische Emirate</td><td>6. Juni</td><td>2017 B</td><td>8. September</td><td>2017</td></tr>
 <tr><td>Vereinigtes Königreich</td><td>26. Mai</td><td>2022 B</td><td>26. August</td><td>2022</td></tr>
 <tr><td>Bermudas</td><td>8. Mai</td><td>2024</td><td>8. Mai</td><td>2024</td></tr>
@@ -527,4 +532,4 @@ Geltungsbereich am 18. Juli 2024[^t-3]
 <tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die englischen Texte können auf der Internetseite der Internationalen Seeschifffahrtsorganisation (OMI): [www.imo.org](http://www.imo.org) &gt; Publications &gt; Catalogue & Code Listings oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
 </table>
 
-[^t-3]: [AS 2017 3837](https://fedlex.data.admin.ch/eli/oc/2017/459), [5879](https://fedlex.data.admin.ch/eli/oc/2017/639); [2018 2785](https://fedlex.data.admin.ch/eli/oc/2018/416), [4079](https://fedlex.data.admin.ch/eli/oc/2018/662); [2020 4343](https://fedlex.data.admin.ch/eli/oc/2020/775); [2021 774](https://fedlex.data.admin.ch/eli/oc/2021/774); [2024 380](https://fedlex.data.admin.ch/eli/oc/2024/380). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
+[^t-3]: [AS 2017 3837](https://fedlex.data.admin.ch/eli/oc/2017/459), [5879](https://fedlex.data.admin.ch/eli/oc/2017/639); [2018 2785](https://fedlex.data.admin.ch/eli/oc/2018/416); [2020 4343](https://fedlex.data.admin.ch/eli/oc/2020/775); [2021 774](https://fedlex.data.admin.ch/eli/oc/2021/774); [2024 380](https://fedlex.data.admin.ch/eli/oc/2024/380); [2026 355](https://fedlex.data.admin.ch/eli/oc/2026/355). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).

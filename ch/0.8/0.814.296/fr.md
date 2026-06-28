@@ -3,11 +3,11 @@ sr: "0.814.296"
 title: Convention internationale de 2004 du 13 février 2004 pour le contrôle et la gestion des eaux de ballast et sédiments des navires (avec annexe)
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/459"
 language: fr
-version: 2025-10-01
+version: 2026-06-29
 adopted: 2004-02-13
 in_force: 2017-09-08
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/459/20251001/fr/xml/fedlex-data-admin-ch-eli-cc-2017-459-20251001-fr-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/459/20251001/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/459/20260629/fr/xml/fedlex-data-admin-ch-eli-cc-2017-459-20260629-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/459/20260629/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -20,7 +20,7 @@ Texte original
 
 Conclue à Londres le 13 février 2004 Approuvée par l’Assemblée fédérale le 22 mars 2013[^t-1] Instrument d’adhésion déposé par la Suisse le 24 septembre 2013 Entrée en vigueur pour la Suisse le 8 septembre 2017
 
-(État le 1<sup>er</sup> octobre 2025)
+(État le 29 juin 2026)
 
 [^t-1]: [RO 2013 5523](https://fedlex.data.admin.ch/eli/oc/2013/886)
 
@@ -50,8 +50,8 @@ considérant que le meilleur moyen d’atteindre ces objectifs est de conclure u
 
 sont convenues de ce qui suit:
 
-[^ingress-1]: [RS 0.747.305.15](https://fedlex.data.admin.ch/eli/cc/2009/416)
-[^ingress-2]: [RS 0.451.43](https://fedlex.data.admin.ch/eli/cc/1995/1408_1408_1408)
+[^ingress-1]: [RS 0.747.305.15](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3066)
+[^ingress-2]: [RS 0.451.43](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1840)
 
 #### Art. 1
 
@@ -83,7 +83,7 @@ Aux fins de la présente Convention, sauf disposition expresse contraire:
 
 <sup>12</sup> «Navire» désigne un bâtiment de quelque type que ce soit exploité en milieu aquatique et englobe les engins submersibles, les engins flottants, les plates-formes flottantes, les FSU et les FPSO.
 
-[^1-1]: [RS 0.747.305.412](https://fedlex.data.admin.ch/eli/cc/1982/1326_1326_1326)
+[^1-1]: [RS 0.747.305.412](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3073)
 
 #### Art. 2
 
@@ -397,7 +397,7 @@ Outre les fonctions spécifiées dans d’autres dispositions de la présente Co
 
 - b) dès l’entrée en vigueur de la présente Convention, en transmet le texte au Secrétariat de l’Organisation des Nations Unies en vue de son enregistrement et de sa publication conformément à l’art. 102 de la Charte des Nations Unies[^21-1].
 
-[^21-1]: [RS 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
+[^21-1]: [RS 0.120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/41)
 
 #### Art. 22
 
@@ -411,7 +411,7 @@ Annexe[^t-2]
 
 [^t-2]: L’annexe et ses amendements ne sont plus publiés dans le RO et le RS ([RO 2025 286](https://fedlex.data.admin.ch/eli/oc/2025/286)). Les textes en anglais peuvent être consultés sur le site Internet de l’Organisation maritime internationale (OMI): [www.imo.org/en/KnowledgeCentre/IndexofIMOResolutions/Pages/Default.aspx](https://www.imo.org/en/KnowledgeCentre/IndexofIMOResolutions/Pages/Default.aspx). Ils y sont mis à jour dans les résolutions du comité compétent de l’OMI. Les textes français ainsi qu’une version anglaise consolidée peuvent être consultés auprès de l’Office suisse de la navigation maritime, Elisabethenstrasse 33, 4010 Bâle.
 
-Champ d’application le 18 juillet 2024[^t-3]
+Champ d’application le 29 juin 2026[^t-3]
 
 <table>
 <tr><th>États parties</th><th>Ratification Adhésion (A)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
@@ -454,10 +454,12 @@ Champ d’application le 18 juillet 2024[^t-3]
 <tr><td>Ghana</td><td>26 novembre</td><td>2015 A</td><td>8 septembre</td><td>2017</td></tr>
 <tr><td>Grèce</td><td>26 juin</td><td>2017 A</td><td>26 septembre</td><td>2017</td></tr>
 <tr><td>Grenade</td><td>26 juillet</td><td>2018 A</td><td>26 octobre</td><td>2018</td></tr>
+<tr><td>Guinée équatoriale</td><td>3 décembre</td><td>2025 A</td><td>3 mars</td><td>2026</td></tr>
 <tr><td>Guinée-Bissau</td><td>12 mai</td><td>2022 A</td><td>12 août</td><td>2022</td></tr>
 <tr><td>Guyana</td><td>20 février</td><td>2019 A</td><td>20 mai</td><td>2019</td></tr>
 <tr><td>Honduras</td><td>10 juillet</td><td>2017 A</td><td>10 octobre</td><td>2017</td></tr>
 <tr><td>Îles Marshall</td><td>26 novembre</td><td>2009 A</td><td>8 septembre</td><td>2017</td></tr>
+<tr><td>Îles Salomon</td><td>27 novembre</td><td>2025 A</td><td>27 février</td><td>2026</td></tr>
 <tr><td>Indonésie</td><td>24 novembre</td><td>2015 A</td><td>8 septembre</td><td>2017</td></tr>
 <tr><td>Iraq</td><td>30 septembre</td><td>2021 A</td><td>30 décembre</td><td>2021</td></tr>
 <tr><td>Iran\*</td><td>6 avril</td><td>2011 A</td><td>8 septembre</td><td>2017</td></tr>
@@ -479,6 +481,7 @@ Champ d’application le 18 juillet 2024[^t-3]
 <tr><td>Mexique</td><td>18 mars</td><td>2008 A</td><td>8 septembre</td><td>2017</td></tr>
 <tr><td>Mongolie</td><td>28 septembre</td><td>2011 A</td><td>8 septembre</td><td>2017</td></tr>
 <tr><td>Monténégro</td><td>29 novembre</td><td>2011 A</td><td>8 septembre</td><td>2017</td></tr>
+<tr><td>Mozambique</td><td>23 octobre</td><td>2025 A</td><td>23 janvier</td><td>2026</td></tr>
 <tr><td>Myanmar</td><td>17 août</td><td>2022 A</td><td>17 novembre</td><td>2022</td></tr>
 <tr><td>Namibie</td><td>15 juillet</td><td>2020 A</td><td>15 octobre</td><td>2020</td></tr>
 <tr><td>Nauru</td><td>23 mars</td><td>2020 A</td><td>23 juin</td><td>2020</td></tr>
@@ -509,6 +512,7 @@ Champ d’application le 18 juillet 2024[^t-3]
 <tr><td>Seychelles</td><td>27 novembre</td><td>2017 A</td><td>27 février</td><td>2018</td></tr>
 <tr><td>Sierra Leone</td><td>21 novembre</td><td>2007 A</td><td>8 septembre</td><td>2017</td></tr>
 <tr><td>Singapour</td><td>8 juin</td><td>2017 A</td><td>8 septembre</td><td>2017</td></tr>
+<tr><td>Slovénie</td><td>7 avril</td><td>2026 A</td><td>7 juillet</td><td>2026</td></tr>
 <tr><td>Suède\*</td><td>24 novembre</td><td>2009</td><td>8 septembre</td><td>2017</td></tr>
 <tr><td>Suisse</td><td>24 septembre</td><td>2013 A</td><td>8 septembre</td><td>2017</td></tr>
 <tr><td>Syrie</td><td>2 septembre</td><td>2005</td><td>8 septembre</td><td>2017</td></tr>
@@ -517,8 +521,9 @@ Champ d’application le 18 juillet 2024[^t-3]
 <tr><td>Trinité-et-Tobago</td><td>3 janvier</td><td>2012 A</td><td>8 septembre</td><td>2017</td></tr>
 <tr><td>Turquie\*</td><td>14 octobre</td><td>2014 A</td><td>8 septembre</td><td>2017</td></tr>
 <tr><td>Tuvalu</td><td>2 décembre</td><td>2005 A</td><td>8 septembre</td><td>2017</td></tr>
+<tr><td>Vanuatu</td><td>16 octobre</td><td>2025 A</td><td>16 janvier</td><td>2026</td></tr>
 <tr><td>Vietnam</td><td>24 janvier</td><td>2024 A</td><td>24 avril</td><td>2024</td></tr>
 <tr><td colspan="5">\* Réserves et déclarations Les réserves et déclarations ne sont pas publiées au RO. Les textes en anglais peuvent être obtenus à l’adresse du site Internet l’Organisation maritime internationale (OMI): [www.imo.org](http://www.imo.org/) &gt; Qui nous sommes &gt; Conventions &gt; État des conventions &gt; Status Book, ou auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
 </table>
 
-[^t-3]: [RO 2017 3837](https://fedlex.data.admin.ch/eli/oc/2017/459), [5879](https://fedlex.data.admin.ch/eli/oc/2017/639); [2018 2785](https://fedlex.data.admin.ch/eli/oc/2018/416), [4079](https://fedlex.data.admin.ch/eli/oc/2018/662); [2020 4343](https://fedlex.data.admin.ch/eli/oc/2020/775); [2021 774](https://fedlex.data.admin.ch/eli/oc/2021/774); [2024 380](https://fedlex.data.admin.ch/eli/oc/2024/380). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty)
+[^t-3]: [RO 2017 3837](https://fedlex.data.admin.ch/eli/oc/2017/459), [5879](https://fedlex.data.admin.ch/eli/oc/2017/639); [2018 2785](https://fedlex.data.admin.ch/eli/oc/2018/416), [4079](https://fedlex.data.admin.ch/eli/oc/2018/662); [2020 4343](https://fedlex.data.admin.ch/eli/oc/2020/775); [2021 774](https://fedlex.data.admin.ch/eli/oc/2021/774); [2024 380](https://fedlex.data.admin.ch/eli/oc/2024/380); [2026 355](https://fedlex.data.admin.ch/eli/oc/2026/355). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty)
