@@ -3,11 +3,11 @@ sr: "0.451.431.1"
 title: Zusatzprotokoll von Nagoya/Kuala Lumpur vom 15. Oktober 2010 über Haftung und Wiedergutmachung zum Protokoll von Cartagena über die biologische Sicherheit
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/122"
 language: de
-version: 2022-09-14
+version: 2026-06-29
 adopted: 2010-10-15
 in_force: 2018-03-05
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/122/20220914/de/xml/fedlex-data-admin-ch-eli-cc-2018-122-20220914-de-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/122/20220914/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/122/20260629/de/xml/fedlex-data-admin-ch-eli-cc-2018-122-20260629-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/122/20260629/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -20,7 +20,7 @@ AS **2018** 883; BBl **2013** 6685
 
 Abgeschlossen in Nagoya am 15. Oktober 2010 Von der Bundesversammlung genehmigt am 20. Juni 2014[^t-1] Ratifikationsurkunde von der Schweiz hinterlegt am 27. Oktober 2014 In Kraft getreten für die Schweiz am 5. März 2018
 
-(Stand am 14. September 2022)
+(Stand am 29. Juni 2026)
 
 [^t-1]: [AS 2018 881](https://fedlex.data.admin.ch/eli/oc/2018/121)
 
@@ -313,7 +313,7 @@ Die Urschrift dieses Zusatzprotokolls, dessen arabischer, chinesischer, englisch
 
 *Zu Urkund dessen* haben die hierzu gehörig befugten Unterzeichneten dieses Zusatzprotokoll unterschrieben. Geschehen zu Nagoya am 15. Oktober 2010. (Es folgen die Unterschriften)
 
-Geltungsbereich am 14. September 2022[^t-2]
+Geltungsbereich am 29. Juni 2026[^t-2]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -344,7 +344,9 @@ Geltungsbereich am 14. September 2022[^t-2]
 <tr><td>Liberia</td><td>17. August</td><td>2015 B</td><td>5. März</td><td>2018</td></tr>
 <tr><td>Litauen</td><td>6. Dezember</td><td>2012</td><td>5. März</td><td>2018</td></tr>
 <tr><td>Luxemburg</td><td>14. Mai</td><td>2013</td><td>5. März</td><td>2018</td></tr>
+<tr><td>Malawi</td><td>23. Juni</td><td>2023 B</td><td>21. September</td><td>2023</td></tr>
 <tr><td>Mali</td><td>23. Juni</td><td>2016 B</td><td>5. März</td><td>2018</td></tr>
+<tr><td>Malta</td><td>16. Juni</td><td>2025 B</td><td>14. September</td><td>2025</td></tr>
 <tr><td>Mexiko</td><td>26. September</td><td>2012</td><td>5. März</td><td>2018</td></tr>
 <tr><td>Moldau</td><td>30. Juli</td><td>2018</td><td>28. Oktober</td><td>2018</td></tr>
 <tr><td>Mongolei</td><td>21. Mai</td><td>2013</td><td>5. März</td><td>2018</td></tr>
@@ -363,6 +365,7 @@ Geltungsbereich am 14. September 2022[^t-2]
 <tr><td>Togo</td><td>8. Februar</td><td>2016</td><td>5. März</td><td>2018</td></tr>
 <tr><td>Tschechische Republik</td><td>13. Februar</td><td>2012</td><td>5. März</td><td>2018</td></tr>
 <tr><td>Uganda</td><td>25. Juni</td><td>2014 B</td><td>5. März</td><td>2018</td></tr>
+<tr><td>Ukraine</td><td>18. August</td><td>2023</td><td>19. November</td><td>2023</td></tr>
 <tr><td>Ungarn</td><td>9. Dezember</td><td>2013</td><td>5. März</td><td>2018</td></tr>
 <tr><td>Venezuela</td><td>10. Oktober</td><td>2018 B</td><td>8. Januar</td><td>2019</td></tr>
 <tr><td>Vereinigte Arabische Emirate</td><td>12. September</td><td>2014 B</td><td>5. März</td><td>2018</td></tr>
@@ -372,4 +375,4 @@ Geltungsbereich am 14. September 2022[^t-2]
 <tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite der Vereinten Nationen: [http://treaties.un.org](http://treaties.un.org) eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden. <sup>a</sup> Das Protokoll gilt nicht für Grönland und die Färöer. <sup>b</sup> Das Protokoll gilt für das Königreich in Europa.</td></tr>
 </table>
 
-[^t-2]: [AS 2018 883](https://fedlex.data.admin.ch/eli/oc/2018/122); [2020 439](https://fedlex.data.admin.ch/eli/oc/2020/75); [2022 510](https://fedlex.data.admin.ch/eli/oc/2022/510). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: https://www.fedlex.admin.ch/de/treaty
+[^t-2]: [AS 2018 883](https://fedlex.data.admin.ch/eli/oc/2018/122); [2020 439](https://fedlex.data.admin.ch/eli/oc/2020/75); [2022 510](https://fedlex.data.admin.ch/eli/oc/2022/510); [2026 354](https://fedlex.data.admin.ch/eli/oc/2026/354). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).

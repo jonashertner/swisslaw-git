@@ -3,11 +3,11 @@ sr: "0.451.431.1"
 title: Protocollo addizionale di Nagoya-Kuala Lumpur del 15 ottobre 2010 in materia di responsabilità e risarcimenti al Protocollo di Cartagena sulla biosicurezza
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/122"
 language: it
-version: 2022-09-14
+version: 2026-06-29
 adopted: 2010-10-15
 in_force: 2018-03-05
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/122/20220914/it/xml/fedlex-data-admin-ch-eli-cc-2018-122-20220914-it-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/122/20220914/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/122/20260629/it/xml/fedlex-data-admin-ch-eli-cc-2018-122-20260629-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/122/20260629/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -20,7 +20,7 @@ RU **2018** 883; FF **2013** 5743
 
 Concluso a Nagoya il 15 ottobre 2010 Approvato dall’Assemblea federale il 20 giugno 2014[^t-1] Ratificato tramite strumento depositato dalla Svizzera il 27 ottobre 2014 Entrato in vigore per la Svizzera il 5 marzo 2018
 
-(Stato 14 settembre 2022)
+(Stato 29 giugno 2026)
 
 [^t-1]: [RU 2018 881](https://fedlex.data.admin.ch/eli/oc/2018/121)
 
@@ -313,7 +313,7 @@ L’originale del presente Protocollo addizionale, i cui testi nelle lingue arab
 
 *In fede di che* i sottoscritti, debitamente autorizzati a tal fine, hanno firmato il presente Protocollo addizionale. Fatto a Nagoya addì 15 ottobre 2010. (Seguono le firme)
 
-Campo d’applicazione il 14 settembre 2022[^t-2]
+Campo d’applicazione il 29 giugno 2026[^t-2]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -345,7 +345,9 @@ Campo d’applicazione il 14 settembre 2022[^t-2]
 <tr><td>Liberia</td><td>17 agosto</td><td>2015 A</td><td>5 marzo</td><td>2018</td></tr>
 <tr><td>Lituania</td><td>6 dicembre</td><td>2012</td><td>5 marzo</td><td>2018</td></tr>
 <tr><td>Lussemburgo</td><td>14 maggio</td><td>2013</td><td>5 marzo</td><td>2018</td></tr>
+<tr><td>Malawi</td><td>23 giugno</td><td>2023 A</td><td>21 settembre</td><td>2023</td></tr>
 <tr><td>Mali</td><td>23 giugno</td><td>2016 A</td><td>5 marzo</td><td>2018</td></tr>
+<tr><td>Malta</td><td>16 giugno</td><td>2025 A</td><td>14 settembre</td><td>2025</td></tr>
 <tr><td>Messico</td><td>26 settembre</td><td>2012</td><td>5 marzo</td><td>2018</td></tr>
 <tr><td>Moldova</td><td>30 luglio</td><td>2018</td><td>28 ottobre</td><td>2018</td></tr>
 <tr><td>Mongolia</td><td>21 maggio</td><td>2013</td><td>5 marzo</td><td>2018</td></tr>
@@ -364,6 +366,7 @@ Campo d’applicazione il 14 settembre 2022[^t-2]
 <tr><td>Svezia</td><td>12 ottobre</td><td>2012</td><td>5 marzo</td><td>2018</td></tr>
 <tr><td>Svizzera</td><td>27 ottobre</td><td>2014</td><td>5 marzo</td><td>2018</td></tr>
 <tr><td>Togo</td><td>8 febbraio</td><td>2016</td><td>5 marzo</td><td>2018</td></tr>
+<tr><td>Ucraina</td><td>18 agosto</td><td>2023</td><td>19 novembre</td><td>2023</td></tr>
 <tr><td>Uganda</td><td>25 giugno</td><td>2014 A</td><td>5 marzo</td><td>2018</td></tr>
 <tr><td>Ungheria</td><td>9 dicembre</td><td>2013</td><td>5 marzo</td><td>2018</td></tr>
 <tr><td>Unione europea\*</td><td>21 marzo</td><td>2013</td><td>5 marzo</td><td>2018</td></tr>
@@ -372,4 +375,4 @@ Campo d’applicazione il 14 settembre 2022[^t-2]
 <tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e dichiarazioni non sono pubblicate nella RU. Il testo, francese ed inglese, può essere consultato sul sito Internet dell’Organizzazione delle Nazioni Unite: [http://treaties.un.org](http://treaties.un.org), oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna. <sup>a</sup> Il Prot. non vale né per la Groenlandia né per le Isole Faroe. <sup>b</sup> Il Prot. vale per il Regno in Europa.</td></tr>
 </table>
 
-[^t-2]: [RU 2018 883](https://fedlex.data.admin.ch/eli/oc/2018/122); [2020 439](https://fedlex.data.admin.ch/eli/oc/2020/75); [2022 510](https://fedlex.data.admin.ch/eli/oc/2022/510)Una versione aggiornata del campo di applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: https://www.fedlex.admin.ch/it/treaty
+[^t-2]: [RU 2018 883](https://fedlex.data.admin.ch/eli/oc/2018/122); [2020 439](https://fedlex.data.admin.ch/eli/oc/2020/75); [2022 510](https://fedlex.data.admin.ch/eli/oc/2022/510); [2026 354](https://fedlex.data.admin.ch/eli/oc/2026/354). Una versione aggiornata del campo di applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty)
