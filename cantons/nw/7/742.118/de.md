@@ -3,20 +3,20 @@ canton: NW
 number: "742.118"
 title: Regierungsratsbeschluss betreffend Festlegung der Höhe der Pflegetaxen 2026 für Pflegeleistungen in Alters- und Pflegeheimen
 language: de
-version: 2026-06-01
-valid_until: 2026-12-31
-version_adopted: 2026-09-15
+version: 2026-01-01
+corrected: 2026-06-30
+version_adopted: 2026-05-19
 adopted: 2025-09-16
 in_force: 2026-01-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/742.118"
-pdf: "https://gesetze.nw.ch/api/de/versions/1542/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/1420/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Regierungsratsbeschluss betreffend Festlegung der Höhe der Pflegetaxen 2026 für Pflegeleistungen in Alters- und Pflegeheimen
 
-vom 16.09.2025 (Stand 01.06.2026)
+vom 16.09.2025 (Stand 01.01.2026)
 
 Der Regierungsrat von Nidwalden,
 
@@ -177,7 +177,7 @@ beschliesst:
 
 **Wohnheim Nägeligasse, Stans**
 
-<sup>1</sup> Die individuellen Pflegetaxen gemäss Art. 28f kkVG[^Ziff8-1] für Pflegeleistungen des Pflegeheims Wohnheim Nägeligasse (Stiftung Alters- und Pflegeheim Nidwalden) betragen für Bewohnerinnen und Bewohner mit zivilrechtlichem Wohnsitz im Kanton ab 1. Juni 2026 je Tag und Person:
+<sup>1</sup> Die individuellen Pflegetaxen gemäss Art. 28f kkVG[^Ziff8-1] für Pflegeleistungen des Pflegeheims Wohnheim Nägeligasse (Stiftung Alters- und Pflegeheim Nidwalden) betragen für Bewohnerinnen und Bewohner mit zivilrechtlichem Wohnsitz im Kanton ab 1. Januar 2026 je Tag und Person:
 
 - a) bei einem Pflegebedarf bis 20 Minuten: — Fr. 16.00
 - b) bei einem Pflegebedarf von 21 bis 40 Minuten: — Fr. 45.20
@@ -191,7 +191,7 @@ beschliesst:
 - j) bei einem Pflegebedarf von 181 bis 200 Minuten: — Fr. 278.20
 - k) bei einem Pflegebedarf von 201 bis 220 Minuten: — Fr. 307.40
 - l) bei einem Pflegebedarf von mehr als 220 Minuten: — Fr. 336.50
-- m) bei einem besonders hohen Pflegebedarf (Schwerstpflegebedürftige Stufe 13), wenn dies in einer Leistungsvereinbarung mit dem Kanton vereinbart wurde: — Fr. 796.80
+- m) bei einem besonders hohen Pflegebedarf (Schwerstpflegebedürftige Stufe 13), wenn dies in einer Leistungsvereinbarung mit dem Kanton vereinbart wurde: — Fr. 541.70
 
 [^Ziff8-1]: NG 742.1
 
