@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Änderung der Verordnung über die Integration von Ausländerinnen und Ausländern (VIntA) und der Verordnung über Zulassung, Aufenthalt und Erwerbstätigkeit (VZAE) (Integration und Erwerbstätigkeit von spezifischen Personengruppen)"
 document: Vernehmlassungsvorlage VIntA
 language: de

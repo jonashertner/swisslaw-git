@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Modification de l’ordonnance sur l’intégration des étrangers (OIE) et de l’ordonnance relative à l’admission, au séjour et à l’exercice d’une activité lucrative (OASA) (intégration et activité lucrative de groupes spécifiques de personnes)"
 document: Projet mis en consultation OASA
 language: fr

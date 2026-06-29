@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Modifica dell’ordinanza sull’integrazione degli stranieri (OIntS) et dell’ordinanza sull’ammissione, il soggiorno e l’attività lucrativa (OASA) (integrazione e attività lucrativa di gruppi di persone specifici)"
 document: Progetto posto in consultazione OASA
 language: it
