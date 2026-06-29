@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Revision der Verordnung über die Krankenversicherung (KVV): Datenaustausch zwischen Kantonen und Versicherern; nicht kontaktierbare Versicherte"
 document: Vernehmlassungsvorlage
 language: de

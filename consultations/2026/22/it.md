@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Revisione dell’ordinanza sull’assicurazione malattie (OAMal): scambio di dati tra Cantoni e assicuratori; assicurati irreperibili"
 document: Progetto posto in consultazione
 language: it

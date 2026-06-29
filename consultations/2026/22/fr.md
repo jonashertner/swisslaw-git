@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Révision de l’ordonnance sur l’assurance-maladie (OAMal): Échange de données entre cantons et assureurs; assurés injoignables"
 document: Projet mis en consultation
 language: fr
