@@ -3,20 +3,19 @@ canton: GL
 number: V A/11/4
 title: Verordnung über die Vergütung von Inkonvenienzen bei der Kantonspolizei
 language: de
-version: 2013-04-01
-valid_until: 2026-06-30
-version_adopted: 2013-04-23
+version: 2026-07-01
+version_adopted: 2026-07-02
 adopted: 2008-12-16
 in_force: 2009-01-01
 url: "https://gesetze.gl.ch/app/de/texts_of_law/V-A.11.4"
-pdf: "https://gesetze.gl.ch/api/de/versions/1005/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2662/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die Vergütung von Inkonvenienzen bei der Kantonspolizei
 
-Vom 16.12.2008 (Stand 01.04.2013)
+Vom 16.12.2008 (Stand 01.07.2026)
 
 Der Regierungsrat,
 
@@ -40,9 +39,9 @@ verordnet:
 
 **Abend- und Nachtarbeit, Arbeit an Sonn- und Feiertagen**
 
-<sup>1</sup> Für jede angeordnete Stunde Abend- und Nachtarbeit zwischen 20.00 und 6.00 Uhr werden 7 Franken vergütet.
+<sup>1</sup> Für jede angeordnete Stunde Abend- und Nachtarbeit zwischen 20.00 und 6.00 Uhr werden 8.50 Franken vergütet.
 
-<sup>2</sup> Für jede an Sonn- und Feiertagen angeordnete Arbeitsstunde werden 7 Franken vergütet.
+<sup>2</sup> Für jede an Sonn- und Feiertagen angeordnete Arbeitsstunde werden 8.50 Franken vergütet.
 
 <sup>3</sup> Die Vergütungen für Abend- und Nachtarbeit und die Vergütungen für an Sonn- und Feiertagen geleistete Arbeit können kumuliert werden.
 
@@ -50,12 +49,17 @@ verordnet:
 
 **Pikettdienst**
 
-<sup>1</sup> Die Vergütung für den Pikettdienst beträgt pro Piketttag pauschal:
+<sup>1</sup> Die Vergütung für den Pikettdienst beträgt pro Piketttag pauschal 40 Franken.
 
-- a. für sofortige Einsatzbereitschaft — Fr. 30.–
-- b. für allgemeine Einsatzbereitschaft — Fr. 25.–
+<sup>2</sup> …
 
-<sup>2</sup> Eine Kumulation der in Absatz 1 genannten Vergütungen ist nicht zulässig.
+<sup>3</sup> Ein Aufgebot im Pikettdienst wird pauschal mit 20 Franken vergütet.
+
+#### Art. 3a
+
+**Ausrücken ausserhalb der geplanten Arbeitszeit**
+
+<sup>1</sup> Mitarbeitende, die in ihrer Freizeit (d. h. ausserhalb der geplanten Arbeitszeit) infolge eines unvorhergesehenen Ereignisses zu einem Einsatz aufgeboten werden, erhalten pro tatsächlichem Ausrücken eine zusätzliche Entschädigung in der Höhe von 100 Franken.
 
 #### Art. 4
 
@@ -67,7 +71,9 @@ verordnet:
 
 **Sonderfunktionen**
 
-<sup>1</sup> Polizeifunktionäre, die nebenbei als zertifizierte Instruktoren im sicherheitspolizeilichen Bereich als Grenadiere, Präzisionsschützen oder als Hundeführer regelmässig tätig sind, erhalten für diese Sonderfunktionen jährlich eine Vergütung von 840 Franken.
+<sup>1</sup> Polizeifunktionäre, die nebenbei als zertifizierte Instruktoren im sicherheitspolizeilichen Bereich als Grenadiere, Verhandler, Fliegende Einsatzleiter, Führungsassistent, Aspirantenbetreuer, Prüfungsexperte oder als Hundeführer regelmässig tätig sind, erhalten für diese Sonderfunktionen monatlich eine Vergütung von 70 Franken.
+
+<sup>1a</sup> Polizeifunktionäre, die regelmässig als zertifizierte Instruktoren der Interventionseinheit tätig sind, erhalten für diese Funktion monatlich eine Vergütung von 80 Franken.
 
 <sup>2</sup> Die Vergütungen für die Ausübung der in Absatz 1 genannten Sonderfunktionen sind nicht kumulierbar.
 
