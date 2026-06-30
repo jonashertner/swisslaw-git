@@ -4,13 +4,12 @@ number: "31.1"
 title: Einführungsgesetz zum Strafgesetzbuch
 short: EGStGB
 language: de
-version: 2023-01-01
-valid_until: 2026-06-30
-version_adopted: 2022-10-13
+version: 2026-07-01
+version_adopted: 2026-03-25
 adopted: 2006-10-06
 in_force: 2007-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/31.1"
-pdf: "https://bdlf.fr.ch/api/de/versions/7658/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/8594/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ Strafgesetzbuch – Einführungsgesetz
 
 (EGStGB)
 
-vom 06.10.2006 (Fassung in Kraft getreten am 01.01.2023)
+vom 06.10.2006 (Fassung in Kraft getreten am 01.07.2026)
 
 Der Grosse Rat des Kantons Freiburg
 
@@ -39,7 +38,7 @@ beschliesst:
 
 **Geltungsbereich**
 
-<sup>1</sup> Dieses Gesetz regelt die Anwendung des Strafgesetzbuches. Es bezeichnet insbesondere die zuständigen Behörden und legt die Regeln für den Vollzug und für die Vollstreckung der strafrechtlichen Sanktionen fest, mit Ausnahme der strafrechtlichen Freiheitsstrafen und freiheitsbeschränkenden Strafen und Massnahmen.
+<sup>1</sup> Dieses Gesetz regelt die Anwendung des Strafgesetzbuches und anderer strafrechtlicher Bestimmungen des Bundesrechts. Es bezeichnet insbesondere die zuständigen Behörden und legt die Regeln für den Vollzug und für die Vollstreckung der strafrechtlichen Sanktionen fest, mit Ausnahme der strafrechtlichen Freiheitsstrafen und freiheitsbeschränkenden Strafen und Massnahmen.
 
 <sup>2</sup> Es regelt zudem die Polizeiübertretungen und die auf die Übertretungen des kantonalen Rechts anwendbaren allgemeinen Bestimmungen.
 
@@ -131,6 +130,28 @@ beschliesst:
 
 <sup>4</sup> Die Übernahme der Leistungen, die im Rahmen des Lernprogramms gegen Gewalt erbracht werden, richtet sich nach den Artikeln 423 und 426 der Strafprozessordnung. Der Staatsrat erlässt einen Tarif über die Höhe der Beteiligung von Personen, die zur Teilnahme am Lernprogramm verpflichtet wurden.
 
+#### Art. 8c
+
+**Bewilligung für die Gesichtsverhüllung**
+
+<sup>1</sup> Für die Bewilligung von Gesichtsverhüllungen im Sinne von Artikel 2 Abs. 3 des Bundesgesetzes vom 29. September 2023 über das Verbot der Verhüllung des Gesichts (BVVG) ist die Oberamtsperson zuständig.
+
+<sup>2</sup> Gesuche müssen die nötigen Informationen enthalten und innert einer vom Staatsrat festgelegten Frist eingereicht werden. Der Staatsrat bestimmt, welchen Inhalt das Gesuch haben muss.
+
+<sup>3</sup> Vor ihrem Entscheid holt die Oberamtsperson die Stellungnahmen der Kantonspolizei und der betroffenen Gemeinde/n ein.
+
+<sup>4</sup> Die von der Oberamtsperson erteilte Bewilligung kann jederzeit widerrufen werden, wenn neue oder unvorhergesehene Umstände auftreten, namentlich wenn die Bedingungen für die Erteilung der Bewilligung nicht mehr erfüllt sind oder wenn es aus Gründen der öffentlichen Ordnung oder der Sicherheit erforderlich ist.
+
+#### Art. 8d
+
+**Bearbeitung von Personendaten für Bewilligungen für die Gesichtsverhüllung**
+
+<sup>1</sup> Eine Bewilligung für die Gesichtsverhüllung beruht auf einer Datei, die eigens dafür erstellt wird und Daten enthält, die bei Einreichung des Gesuchs bei der gesuchstellenden Person eingeholt werden.
+
+<sup>2</sup> Die Oberamtsperson, die Kantonspolizei und die betroffene/n Gemeinde/n sind befugt, die im Gesuch enthaltenen Personendaten, einschliesslich der besonders schützenswerten Personendaten zu religiösen Ansichten, zur Zugehörigkeit zu einer Rasse oder Ethnie und zu Betreibungen oder zu strafrechtlichen und administrativen Sanktionen zu bearbeiten, soweit dies für die Prüfung und Bearbeitung des Gesuchs notwendig ist. Der Staatsrat bestimmt den Inhalt der Datei, die Bedingungen für ihre Aufbewahrung, Archivierung oder Vernichtung, die Zugriffsmodalitäten sowie die zu treffenden technischen und organisatorischen Massnahmen.
+
+<sup>3</sup> Die Datenschutzgesetzgebung bleibt vorbehalten.
+
 ## 3 Widerhandlungen gegen das kantonale Recht
 
 ### 3.1 Allgemeine Bestimmungen
@@ -185,9 +206,9 @@ beschliesst:
 
 #### Art. 12a
 
-**Vermummungsverbot und Verbot des Mitführens gefährlicher Gegenstände**
+**Verbot des Mitführens gefährlicher Gegenstände**
 
-<sup>1</sup> Wer sich bei Veranstaltungen mit einem gesteigerten Gemeingebrauch des öffentlichen Grundes unkenntlich macht oder Gegenstände mit sich führt, die die körperliche Integrität schädigen oder materielle Schäden verursachen können, wird mit Busse bestraft.
+<sup>1</sup> Wer bei Veranstaltungen mit einem gesteigerten Gemeingebrauch des öffentlichen Grundes Gegenstände mit sich führt, welche die körperliche Integrität schädigen oder materielle Schäden verursachen können, wird mit Busse bestraft.
 
 <sup>2</sup> Die Oberamtsperson kann, auf Antrag der Kantonspolizei und der betroffenen Gemeinde, je nach Zweck der Veranstaltung Ausnahmen bewilligen.
 

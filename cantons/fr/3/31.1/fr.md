@@ -4,13 +4,12 @@ number: "31.1"
 title: "Loi d'application du code pénal"
 short: LACP
 language: fr
-version: 2023-01-01
-valid_until: 2026-06-30
-version_adopted: 2022-10-13
+version: 2026-07-01
+version_adopted: 2026-03-25
 adopted: 2006-10-06
 in_force: 2007-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/31.1"
-pdf: "https://bdlf.fr.ch/api/fr/versions/7658/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/8594/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +20,7 @@ Code pénal – Loi d'application
 
 (LACP)
 
-du 06.10.2006 (version entrée en vigueur le 01.01.2023)
+du 06.10.2006 (version entrée en vigueur le 01.07.2026)
 
 Le Grand Conseil du canton de Fribourg
 
@@ -39,7 +38,7 @@ Décrète:
 
 **Champ d'application**
 
-<sup>1</sup> La présente loi régit l'application du code pénal. Elle détermine en particulier les autorités compétentes et pose les règles en matière d'application et d'exécution des sanctions pénales, à l'exception des peines privatives de liberté, des mesures et des peines restrictives de liberté relevant du droit pénal.
+<sup>1</sup> La présente loi régit l'application du code pénal et d'autres dispositions du droit fédéral liées au domaine pénal. Elle détermine en particulier les autorités compétentes et pose les règles en matière d'application et d'exécution des sanctions pénales, à l'exception des peines privatives de liberté, des mesures et des peines restrictives de liberté relevant du droit pénal.
 
 <sup>2</sup> Elle fixe aussi les contraventions de police et les dispositions générales applicables aux infractions de droit cantonal.
 
@@ -131,6 +130,28 @@ Décrète:
 
 <sup>4</sup> La prise en charge des prestations offertes dans le cadre du programme de prévention de la violence est réglée conformément aux articles 423 et 426 du code de procédure pénale. Le Conseil d'Etat édicte un tarif sur le montant de la participation des personnes astreintes.
 
+#### Art. 8c
+
+**Autorisation de se dissimuler le visage**
+
+<sup>1</sup> Le préfet ou la préfète est compétent‑e pour statuer sur la demande d'autorisation de se dissimuler le visage au sens de l'article 2 al. 3 de la loi fédérale du 29 septembre 2023 sur l'interdiction de se dissimuler le visage (LIDV).
+
+<sup>2</sup> La demande doit contenir les informations nécessaires et être déposée dans un délai fixé par le Conseil d'Etat. Le Conseil d'Etat détermine le contenu de la demande.
+
+<sup>3</sup> Avant de statuer sur la demande, le préfet ou la préfète requiert le préavis de la Police cantonale et de la ou des commune(s) concernée(s).
+
+<sup>4</sup> L'autorisation accordée par le préfet ou la préfète peut être révoquée en tout temps si des circonstances nouvelles ou imprévues surviennent, notamment si les conditions ayant justifié l'octroi de l'autorisation ne sont plus remplies ou si des motifs d'ordre public ou de sécurité l'exigent.
+
+#### Art. 8d
+
+**Traitement des données personnelles pour l'autorisation de se dissimuler le visage**
+
+<sup>1</sup> L'autorisation de se dissimuler le visage se fonde sur un fichier de données spécialement créé et composé des données collectées auprès de la personne demanderesse lors du dépôt de la demande.
+
+<sup>2</sup> Le préfet ou la préfète, la Police cantonale et la ou les communes concernées sont habilités à traiter les données personnelles contenues dans la demande, y compris les données sensibles sur les opinions religieuses, l'origine raciale ou ethnique et sur des poursuites ou des sanctions pénales et administratives, dans la mesure où ce traitement est nécessaire à l'examen et au suivi de la demande. Le Conseil d'Etat détermine le contenu du fichier, les conditions de sa conservation, de son archivage ou de sa destruction, les modalités d'accès ainsi que les mesures techniques et organisationnelles à prendre.
+
+<sup>3</sup> La législation sur la protection des données est réservée.
+
 ## 3 Infractions au droit cantonal
 
 ### 3.1 Dispositions générales
@@ -185,9 +206,9 @@ Décrète:
 
 #### Art. 12a
 
-**Interdiction de se masquer et de porter des objets dangereux**
+**Interdiction de porter des objets dangereux**
 
-<sup>1</sup> La personne qui se rend méconnaissable ou porte des objets propres à porter atteinte à l'intégrité corporelle ou à causer un dommage matériel lors de manifestations impliquant un usage accru du domaine public est punie de l'amende.
+<sup>1</sup> La personne qui porte des objets propres à porter atteinte à l'intégrité corporelle ou à causer un dommage matériel lors de manifestations impliquant un usage accru du domaine public est punie de l'amende.
 
 <sup>2</sup> Le préfet peut, sur le préavis de la Police cantonale et de la commune concernée, autoriser des exceptions en rapport avec le but de la manifestation.
 
