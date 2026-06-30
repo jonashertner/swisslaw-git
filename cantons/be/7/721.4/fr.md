@@ -4,13 +4,12 @@ number: "721.4"
 title: Ordonnance sur le financement spécial «compensation de la plus-value»
 short: OFSCP
 language: fr
-version: 2020-04-01
-valid_until: 2026-06-30
-version_adopted: 2020-02-12
+version: 2026-07-01
+version_adopted: 2026-05-06
 adopted: 2020-02-12
 in_force: 2020-04-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/721.4"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/1822/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3375/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/1822/pdf_file"
 
 (OFSCP)
 
-du 12.02.2020 (état au 01.04.2020)
+du 12.02.2020 (état au 01.07.2026)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -29,7 +28,7 @@ sur proposition de la Direction de l’intérieur et de la justice,
 
 arrête:
 
-[^ingress-1]: RSB [721.0](https://www.belex.sites.be.ch/data/721.0/fr)
+[^ingress-1]: [RSB 721.0](https://www.belex.sites.be.ch/data/RSB%20721.0/fr)
 
 #### Art. 1
 
@@ -37,15 +36,15 @@ arrête:
 
 <sup>1</sup> Le financement spécial «compensation de la plus-value» géré par le canton constitue un financement spécial au sens de l’article 14 de la loi du 26 mars 2002 sur le pilotage des finances et des prestations (LFP)[^1-1].
 
-[^1-1]: RSB [620.0](https://www.belex.sites.be.ch/data/620.0/fr)
+[^1-1]: [RSB 620.0](https://www.belex.sites.be.ch/data/RSB%20620.0/fr)
 
 #### Art. 2
 
 **But**
 
-<sup>1</sup> Le financement spécial «compensation de la plus-value» sert à l’affectation de la part du produit de la taxe sur la plus-value revenant au canton aux mesures prévues à l’article 5, alinéa 1<sup>ter</sup> de la loi fédérale du 22 juin 1979 sur l’aménagement du territoire (loi sur l’aménagement du territoire, LAT)[^2-1].
+<sup>1</sup> Le financement spécial «compensation de la plus-value» sert à l’affectation de la part du produit de la taxe sur la plus-value revenant au canton en faveur des mesures prévues aux articles 5, alinéa 1<sup>ter</sup> et 5a de la loi fédérale du 22 juin 1979 sur l’aménagement du territoire (loi sur l’aménagement du territoire, LAT)[^2-1]
 
-[^2-1]: RS [700](https://db.clex.ch/link/Bund/700/fr)
+[^2-1]: [RS 700.1](https://db.clex.ch/link/Bund/700.1/fr)
 
 #### Art. 3
 
@@ -75,7 +74,7 @@ arrête:
 
 <sup>1</sup> Les prélèvements s’opèrent conformément aux compétences en matière d’autorisation de dépenses définies par la législation sur le pilotage des finances et des prestations.
 
-<sup>2</sup> Le montant d’un prélèvement s’élève à 50'000 francs au moins et à 200'000 francs au plus.
+<sup>2</sup> …
 
 <sup>3</sup> Le financement spécial «compensation de la plus-value» ne doit pas être négatif.
 
@@ -85,14 +84,17 @@ arrête:
 
 <sup>1</sup> L’OACOT est compétent pour utiliser les fonds du financement spécial «compensation de la plus-value».
 
-<sup>2</sup> Il utilise les fonds pour financer les mesures d’aménagement du territoire d’importance cantonale, conformément à l’article 5, alinéa 1<sup>ter</sup> LAT.
+<sup>2</sup> Il utilise les fonds conformément à
 
-<sup>3</sup> Les mesures de l’alinéa 2 correspondent notamment par ordre des priorités
+- a l’article 5, alinéa 1<sup>ter</sup> LAT pour financer les mesures d’aménagement du territoire d’importance cantonale,
+- b l’article 5a, alinéa 1 LAT pour financer la prime de démolition.
 
-- a à l’indemnisation des inconvénients majeurs résultant d’un plan de quartier cantonal au sens de l’article 102 LC,
-- b à l’édiction et à la mise en œuvre d’un plan de quartier cantonal au sens de l’article 102 LC,
-- c aux dispositifs visant la préservation des terres cultivables et en particulier des surfaces d’assolement,
-- d à la promotion et à la garantie de la disponibilité des terrains à bâtir et des réserves d’affectation.
+<sup>3</sup> Sont notamment financées en vertu de l’alinéa 2 et par ordre de priorité
+
+- a la prime de démolition au sens de l’article 5a, alinéa 1 LAT,
+- b l’indemnisation pour les inconvénients majeurs résultant d’un plan de quartier cantonal au sens de l’article 102 LC,
+- c l’édiction et la mise en œuvre d’un plan de quartier cantonal au sens de l’article 102 LC.
+- d …
 
 #### Art. 7
 

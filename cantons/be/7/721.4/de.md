@@ -4,13 +4,12 @@ number: "721.4"
 title: Verordnung über die Spezialfinanzierung Mehrwertabgabe
 short: SMWAV
 language: de
-version: 2020-04-01
-valid_until: 2026-06-30
-version_adopted: 2020-02-12
+version: 2026-07-01
+version_adopted: 2026-05-06
 adopted: 2020-02-12
 in_force: 2020-04-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/721.4"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/1822/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3375/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/1822/pdf_file"
 
 (SMWAV)
 
-vom 12.02.2020 (Stand 01.04.2020)
+vom 12.02.2020 (Stand 01.07.2026)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -29,7 +28,7 @@ auf Antrag der Direktion für Inneres und Justiz,
 
 beschliesst:
 
-[^ingress-1]: BSG [721.0](https://www.belex.sites.be.ch/data/721.0/de)
+[^ingress-1]: [BSG 721.0](https://www.belex.sites.be.ch/data/BSG%20721.0/de)
 
 #### Art. 1
 
@@ -37,15 +36,15 @@ beschliesst:
 
 <sup>1</sup> Der Kanton führt unter der Bezeichnung «Spezialfinanzierung Mehrwertabgabe» eine Spezialfinanzierung nach Artikel 14 des Gesetzes vom 26. März 2002 über die Steuerung von Finanzen und Leistungen (FLG)[^1-1].
 
-[^1-1]: BSG [620.0](https://www.belex.sites.be.ch/data/620.0/de)
+[^1-1]: [BSG 620.0](https://www.belex.sites.be.ch/data/%20BSG%20620.0/de)
 
 #### Art. 2
 
 **Zweck**
 
-<sup>1</sup> Die Spezialfinanzierung Mehrwertabgabe bezweckt, die Erträge der Mehrwertabgabe, die dem Kanton zufallen, für Massnahmen nach Artikel 5 Absatz 1<sup>ter</sup> des Bundesgesetzes vom 22. Juni 1979 über die Raumplanung (Raumplanungsgesetz, RPG)[^2-1] bereitzustellen.
+<sup>1</sup> Die Spezialfinanzierung Mehrwertabgabe bezweckt, die Erträge der Mehrwertabgabe, die dem Kanton zufallen, für Massnahmen nach Artikel 5 Absatz 1<sup>ter</sup> und Artikel 5a des Bundesgesetzes vom 22. Juni 1979 über die Raumplanung (Raumplanungsgesetz, RPG)[^2-1] bereitzustellen.
 
-[^2-1]: SR [700](https://db.clex.ch/link/Bund/700/de)
+[^2-1]: [SR 700.1](https://db.clex.ch/link/Bund/SR%20700.1/de)
 
 #### Art. 3
 
@@ -75,7 +74,7 @@ beschliesst:
 
 <sup>1</sup> Die Zuständigkeit für Entnahmen richtet sich nach den Ausgabekompetenzen der Gesetzgebung über die Steuerung von Finanzen und Leistungen.
 
-<sup>2</sup> Entnahmen aus der Spezialfinanzierung Mehrwertabgabe sollten im Einzelfall mindestens 50'000 Franken und höchstens 200'000 Franken betragen.
+<sup>2</sup> …
 
 <sup>3</sup> Die Spezialfinanzierung Mehrwertabgabe darf nicht negativ sein.
 
@@ -85,14 +84,17 @@ beschliesst:
 
 <sup>1</sup> Das AGR ist zuständig für die Verwendung der Mittel der Spezialfinanzierung Mehrwertabgabe.
 
-<sup>2</sup> Es verwendet die Mittel der Spezialfinanzierung Mehrwertabgabe nach Massgabe von Artikel 5 Absatz 1<sup>ter</sup> RPG für Massnahmen der Raumplanung von kantonaler Bedeutung.
+<sup>2</sup> Es verwendet die Mittel der Spezialfinanzierung Mehrwertabgabe nach Massgabe von
 
-<sup>3</sup> Massnahmen nach Absatz 2 sind insbesondere und nach folgender Prioritätenordnung:
+- a Artikel 5 Absatz 1<sup>ter</sup> RPG für Massnahmen der Raumplanung von kantonaler Bedeutung,
+- b Artikel 5a Absatz 1 RPG für die Finanzierung der Abbruchprämie.
 
-- a Entschädigungen für erhebliche Nachteile als Folge einer kantonalen Überbauungsordnung nach Artikel 102 BauG,
-- b Erlass und Umsetzung von kantonalen Überbauungsordnungen nach Artikel 102 BauG,
-- c Massnahmen zur Erhaltung des Kulturlandes, insbesondere der Fruchtfolgeflächen,
-- d Förderung und Sicherung der Verfügbarkeit von Bauland und Nutzungsreserven.
+<sup>3</sup> Finanziert nach Absatz 2 werden insbesondere und nach folgender Prioritätenordnung:
+
+- a Abbruchprämie nach Artikel 5a Absatz 1 RPG,
+- b Entschädigungen für erhebliche Nachteile als Folge einer kantonalen Überbauungsordnung nach Artikel 102 BauG,
+- c Erlass und Umsetzung von kantonalen Überbauungsordnungen nach Artikel 102 BauG.
+- d …
 
 #### Art. 7
 
