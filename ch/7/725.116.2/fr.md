@@ -4,11 +4,11 @@ title: "Loi fédérale du 22 mars 1985 concernant l'utilisation de l'impôt sur 
 short: LUMin
 eli: "https://fedlex.data.admin.ch/eli/cc/1985/834_834_834"
 language: fr
-version: 2026-01-01
+version: 2026-07-01
 adopted: 1985-03-22
 in_force: 1985-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1985/834_834_834/20260101/fr/xml/fedlex-data-admin-ch-eli-cc-1985-834_834_834-20260101-fr-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1985/834_834_834/20260101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1985/834_834_834/20260701/fr/xml/fedlex-data-admin-ch-eli-cc-1985-834_834_834-20260701-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1985/834_834_834/20260701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1985/834_834_834/20260101/fr"
 
 (LUMin)[^t-1]
 
-du 22 mars 1985 (État le 1<sup>er</sup> janvier 2026)
+du 22 mars 1985 (État le 1<sup>er</sup> juillet 2026)
 
 [^t-1]: Nouvelle teneur selon l’annexe ch. II 5 de la LF du 30 sept. 2016 sur le fonds pour les routes nationales et pour le trafic d’agglomération, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6825](https://fedlex.data.admin.ch/eli/oc/2017/761); [FF 2015 1899](https://fedlex.data.admin.ch/eli/fga/2015/416)).
 
@@ -455,26 +455,37 @@ Les contributions inscrites au budget et destinées aux mesures visant à améli
 
 #### Art. 18
 
-[^18-1]
+**Principe[^18-2]**[^18-1]
 
-<sup>1</sup> Pour des raisons relevant de la politique des transports ou de l’environnement, la Confédération peut allouer des contributions au titre de participation aux frais de construction et d’extension, et de réfection des installations de transbordement et de chargement au sens de l’art. 2, let. c, de la loi du 21 mars 2025 sur le transport de marchandises (LTM)[^18-2] et des contributions d’investissement ou d’exploitation afin de promouvoir le transport combiné et le transport ferroviaire de véhicules routiers accompagnés.[^18-3]
+<sup>1</sup> Pour des raisons relevant de la politique des transports ou de l’environnement, la Confédération peut allouer des contributions au titre de participation aux frais de construction et d’extension, et de réfection des installations de transbordement et de chargement au sens de l’art. 2, let. c, de la loi du 21 mars 2025 sur le transport de marchandises (LTM)[^18-3] et des contributions d’investissement ou d’exploitation afin de promouvoir le transport combiné et le transport ferroviaire de véhicules routiers accompagnés.[^18-4]
 
 <sup>2</sup> Les contributions sont allouées dans la mesure où la capacité d’autofinancement ne peut pas être assumée. La Confédération veille à garantir une exploitation non discriminatoire.
 
 <sup>3</sup> Les contributions au transport de véhicules routiers accompagnés sont allouées dans la mesure où elles rendent possibles des allègements tarifaires.
 
-<sup>4</sup> Sont applicables les art. 10 à 12 LTM.[^18-4]
+<sup>4</sup> Sont applicables les art. 10 à 12 LTM.[^18-5]
 
 [^18-1]: Nouvelle teneur selon l’annexe ch. II 1 de la LF du 25 sept. 2015 sur le transport de marchandises, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2016 1845](https://fedlex.data.admin.ch/eli/oc/2016/328); [FF 2014 3687](https://fedlex.data.admin.ch/eli/fga/2014/923)).
-[^18-2]: [RS 742.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8823)
-[^18-3]: Nouvelle teneur selon l’annexe ch. II 2 de la LF du 21 mars 2025 sur le transport de marchandises, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 749](https://fedlex.data.admin.ch/eli/oc/2025/749); [FF 2024 300](https://fedlex.data.admin.ch/eli/fga/2024/300)).
+[^18-2]: Introduit par le ch. I de la LF du 19 déc. 2025, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2026 416](https://fedlex.data.admin.ch/eli/oc/2026/416); [FF 2025 1054](https://fedlex.data.admin.ch/eli/fga/2025/1054), [1389](https://fedlex.data.admin.ch/eli/fga/2025/1389)).
+[^18-3]: [RS 742.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8823)
 [^18-4]: Nouvelle teneur selon l’annexe ch. II 2 de la LF du 21 mars 2025 sur le transport de marchandises, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 749](https://fedlex.data.admin.ch/eli/oc/2025/749); [FF 2024 300](https://fedlex.data.admin.ch/eli/fga/2024/300)).
+[^18-5]: Nouvelle teneur selon l’annexe ch. II 2 de la LF du 21 mars 2025 sur le transport de marchandises, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 749](https://fedlex.data.admin.ch/eli/oc/2025/749); [FF 2024 300](https://fedlex.data.admin.ch/eli/fga/2024/300)).
 
-#### Art. 19 et 20
+#### Art. 19
 
-[^1920-1]
+**Cautionnements pour l’acquisition de moyens d’exploitation pour le transport ferroviaire de véhicules routiers accompagnés**[^19-1]
 
-[^1920-1]: Abrogés par le ch. II 17 de la LF du 6 oct. 2006 sur la réforme de la péréquation financière et de la répartition des tâches entre la Confédération et les cantons (RPT), avec effet au 1<sup>er</sup> janv. 2008 ([RO 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5641](https://fedlex.data.admin.ch/eli/fga/2005/976)).
+<sup>1</sup> Lorsqu’une entreprise, avec ou sans commande d’exploitation, procède à l’acquisition de moyens d’exploitation pour le transport ferroviaire de véhicules routiers accompagnés, la Confédération peut accorder un cautionnement en faveur des créanciers pour autant que cette opération serve ses intérêts.
+
+<sup>2</sup> L’Office fédéral des transports règle la forme et les conditions des cautionnements.
+
+[^19-1]: Nouvelle teneur selon le ch. I de la LF du 19 déc. 2025, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2026 416](https://fedlex.data.admin.ch/eli/oc/2026/416); [FF 2025 1054](https://fedlex.data.admin.ch/eli/fga/2025/1054), [1389](https://fedlex.data.admin.ch/eli/fga/2025/1389)).
+
+#### Art. 20
+
+[^20-1]
+
+[^20-1]: Abrogé par le ch. II 17 de la LF du 6 oct. 2006 sur la réforme de la péréquation financière et de la répartition des tâches entre la Confédération et les cantons (RPT), avec effet au 1<sup>er</sup> janv. 2008 ([RO 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5641](https://fedlex.data.admin.ch/eli/fga/2005/976)).
 
 ### Section 2 …
 

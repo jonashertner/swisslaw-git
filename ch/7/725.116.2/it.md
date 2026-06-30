@@ -4,11 +4,11 @@ title: "Legge federale del 22 marzo 1985 concernente l'utilizzazione dell'impost
 short: LUMin
 eli: "https://fedlex.data.admin.ch/eli/cc/1985/834_834_834"
 language: it
-version: 2026-01-01
+version: 2026-07-01
 adopted: 1985-03-22
 in_force: 1985-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1985/834_834_834/20260101/it/xml/fedlex-data-admin-ch-eli-cc-1985-834_834_834-20260101-it-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1985/834_834_834/20260101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1985/834_834_834/20260701/it/xml/fedlex-data-admin-ch-eli-cc-1985-834_834_834-20260701-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1985/834_834_834/20260701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1985/834_834_834/20260101/it"
 
 (LUMin)[^t-1]
 
-del 22 marzo 1985 (Stato 1° gennaio 2026)
+del 22 marzo 1985 (Stato 1° luglio 2026)
 
 [^t-1]: Nuovo testo giusta l’all. cifra II n. 5 della LF del 30 set. 2016 concernente il Fondo per le strade nazionali e il traffico d’agglomerato, in vigore dal 1° gen. 2018 ([RU 2017 6825](https://fedlex.data.admin.ch/eli/oc/2017/761); [FF 2015 1717](https://fedlex.data.admin.ch/eli/fga/2015/416)).
 
@@ -449,26 +449,37 @@ I contributi iscritti nel preventivo concernenti provvedimenti volti a migliorar
 
 #### Art. 18
 
-[^18-1]
+**Principio[^18-2]**[^18-1]
 
-<sup>1</sup> Per motivi di politica dei trasporti e di protezione dell’ambiente, la Confederazione può accordare contributi per i costi di costruzione, di ampliamento e di rinnovo di impianti di trasbordo e di carico secondo l’articolo 2 lettera c della legge del 21 marzo 2025[^18-2] sul trasporto di merci (LTM), nonché contributi d’investimento e d’esercizio per il promovimento del traffico combinato e del trasporto per ferrovia di veicoli stradali accompagnati.[^18-3]
+<sup>1</sup> Per motivi di politica dei trasporti e di protezione dell’ambiente, la Confederazione può accordare contributi per i costi di costruzione, di ampliamento e di rinnovo di impianti di trasbordo e di carico secondo l’articolo 2 lettera c della legge del 21 marzo 2025[^18-3] sul trasporto di merci (LTM), nonché contributi d’investimento e d’esercizio per il promovimento del traffico combinato e del trasporto per ferrovia di veicoli stradali accompagnati.[^18-4]
 
 <sup>2</sup> I contributi sono accordati nella misura necessaria ad assicurare l’autonomia finanziaria. La Confederazione provvede affinché sia garantito un esercizio non discriminatorio.
 
 <sup>3</sup> I contributi per il trasporto di veicoli stradali accompagnati sono accordati nella misura in cui consentano riduzioni tariffali.
 
-<sup>4</sup> Sono applicabili gli articoli 10−12 LTM.[^18-4]
+<sup>4</sup> Sono applicabili gli articoli 10−12 LTM.[^18-5]
 
 [^18-1]: Nuovo testo giusta l’all. cifra II n. 1 della L del 25 set. 2015 sul trasporto di merci, in vigore dal 1° lug. 2016 ([RU 2016 1845](https://fedlex.data.admin.ch/eli/oc/2016/328); [FF 2014 3253](https://fedlex.data.admin.ch/eli/fga/2014/923)).
-[^18-2]: [RS 742.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8823)
-[^18-3]: Nuovo testo giusta l’all. cifra II n. 2 della LF del 21 mar. 2025 sul trasporto di merci per ferrovia, per idrovia e con impianti a fune, in vigore dal 1° gen. 2026 ([RU 2025 749](https://fedlex.data.admin.ch/eli/oc/2025/749); [FF 2024 300](https://fedlex.data.admin.ch/eli/fga/2024/300)).
+[^18-2]: Introdotto dalla cifra I della LF del 19 dic. 2025, in vigore dal 1° lug. 2026 ([RU 2026 416](https://fedlex.data.admin.ch/eli/oc/2026/416); [FF 2025 1054](https://fedlex.data.admin.ch/eli/fga/2025/1054), [1389](https://fedlex.data.admin.ch/eli/fga/2025/1389)).
+[^18-3]: [RS 742.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8823)
 [^18-4]: Nuovo testo giusta l’all. cifra II n. 2 della LF del 21 mar. 2025 sul trasporto di merci per ferrovia, per idrovia e con impianti a fune, in vigore dal 1° gen. 2026 ([RU 2025 749](https://fedlex.data.admin.ch/eli/oc/2025/749); [FF 2024 300](https://fedlex.data.admin.ch/eli/fga/2024/300)).
+[^18-5]: Nuovo testo giusta l’all. cifra II n. 2 della LF del 21 mar. 2025 sul trasporto di merci per ferrovia, per idrovia e con impianti a fune, in vigore dal 1° gen. 2026 ([RU 2025 749](https://fedlex.data.admin.ch/eli/oc/2025/749); [FF 2024 300](https://fedlex.data.admin.ch/eli/fga/2024/300)).
 
-#### Art. 19 e 20
+#### Art. 19
 
-[^1920-1]
+**Fideiussioni per l’acquisto di mezzi d’esercizio per il trasporto per ferrovia di veicoli stradali accompagnati**[^19-1]
 
-[^1920-1]: Abrogati dalla cifra II n. 17 della LF del 6 ott. 2006 (Nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni), con effetto dal 1° gen. 2008 ([RU 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5349](https://fedlex.data.admin.ch/eli/fga/2005/976)).
+<sup>1</sup> Se un’impresa con o senza esercizio oggetto di ordinazione acquista mezzi d’esercizio per il trasporto per ferrovia di veicoli stradali accompagnati, la Confederazione può, se è nel suo interesse, concedere una fideiussione ai creditori.
+
+<sup>2</sup> L’Ufficio federale dei trasporti disciplina la forma e le condizioni delle fideiussioni.
+
+[^19-1]: Nuovo testo giusta la cifra I della LF del 19 dic. 2025, in vigore dal 1° lug. 2026 ([RU 2026 416](https://fedlex.data.admin.ch/eli/oc/2026/416); [FF 2025 1054](https://fedlex.data.admin.ch/eli/fga/2025/1054), [1389](https://fedlex.data.admin.ch/eli/fga/2025/1389)).
+
+#### Art. 20
+
+[^20-1]
+
+[^20-1]: Abrogato dalla cifra II n. 17 della LF del 6 ott. 2006 (Nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni), con effetto dal 1° gen. 2008 ([RU 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5349](https://fedlex.data.admin.ch/eli/fga/2005/976)).
 
 ### Sezione 2: ...
 

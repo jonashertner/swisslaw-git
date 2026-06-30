@@ -4,11 +4,11 @@ title: Bundesgesetz vom 22. März 1985 über die Verwendung der zweckgebundenen 
 short: MinVG
 eli: "https://fedlex.data.admin.ch/eli/cc/1985/834_834_834"
 language: de
-version: 2026-01-01
+version: 2026-07-01
 adopted: 1985-03-22
 in_force: 1985-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1985/834_834_834/20260101/de/xml/fedlex-data-admin-ch-eli-cc-1985-834_834_834-20260101-de-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1985/834_834_834/20260101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1985/834_834_834/20260701/de/xml/fedlex-data-admin-ch-eli-cc-1985-834_834_834-20260701-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1985/834_834_834/20260701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1985/834_834_834/20260101/de"
 
 (MinVG)[^t-1]
 
-vom 22. März 1985 (Stand am 1. Januar 2026)
+vom 22. März 1985 (Stand am 1. Juli 2026)
 
 [^t-1]: Fassung gemäss Anhang Ziff. II 5 des BG vom 30. Sept. 2016 über den Fonds für die Nationalstrassen und den Agglomerationsverkehr, in Kraft seit 1. Jan. 2018 ([AS 2017 6825](https://fedlex.data.admin.ch/eli/oc/2017/761); [BBl 2015 2065](https://fedlex.data.admin.ch/eli/fga/2015/416)).
 
@@ -455,26 +455,37 @@ Die im Voranschlag eingestellten Beiträge an Massnahmen zur Verbesserung der Ve
 
 #### Art. 18
 
-[^18-1]
+**Grundsatz[^18-2]**[^18-1]
 
-<sup>1</sup> Der Bund kann aus verkehrs- und umweltpolitischen Gründen Beiträge an die Kosten des Baus, der Erweiterung und der Erneuerung von Umschlags- und Verladeanlagen nach Artikel 2 Buchstabe c des Gütertransportgesetzes vom 21. März 2025[^18-2] (GüTG) ausrichten sowie Investitions- und Betriebsbeiträge zur Förderung des kombinierten Verkehrs und des Transports begleiteter Motorfahrzeuge auf Eisenbahnen leisten.[^18-3]
+<sup>1</sup> Der Bund kann aus verkehrs- und umweltpolitischen Gründen Beiträge an die Kosten des Baus, der Erweiterung und der Erneuerung von Umschlags- und Verladeanlagen nach Artikel 2 Buchstabe c des Gütertransportgesetzes vom 21. März 2025[^18-3] (GüTG) ausrichten sowie Investitions- und Betriebsbeiträge zur Förderung des kombinierten Verkehrs und des Transports begleiteter Motorfahrzeuge auf Eisenbahnen leisten.[^18-4]
 
 <sup>2</sup> Die Beiträge werden ausgerichtet, soweit die Eigenwirtschaftlichkeit nicht erreicht werden kann. Der Bund achtet dabei auf die Sicherstellung eines diskriminierungsfreien Betriebs.
 
 <sup>3</sup> Beiträge an den Transport begleiteter Motorfahrzeuge werden ausgerichtet, soweit dadurch Tarifverbilligungen ermöglicht werden.
 
-<sup>4</sup> Die Artikel 10−12 GüTG sind anwendbar.[^18-4]
+<sup>4</sup> Die Artikel 10−12 GüTG sind anwendbar.[^18-5]
 
 [^18-1]: Fassung gemäss Anhang Ziff. II 1 des Gütertransportgesetzes vom 25. Sept. 2015, in Kraft seit 1. Juli 2016 ([AS 2016 1845](https://fedlex.data.admin.ch/eli/oc/2016/328); [BBl 2014 3827](https://fedlex.data.admin.ch/eli/fga/2014/923)).
-[^18-2]: [SR 742.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8823)
-[^18-3]: Fassung gemäss Anhang Ziff. II 2 des Gütertransportgesetzes vom 21. März 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 749](https://fedlex.data.admin.ch/eli/oc/2025/749); [BBl 2024 300](https://fedlex.data.admin.ch/eli/fga/2024/300)).
+[^18-2]: Eingefügt durch Ziff. I des BG vom 19. Dez. 2025, in Kraft seit 1. Juli 2026 (AS **20****26** 416; [BBl 2025 1054](https://fedlex.data.admin.ch/eli/fga/2025/1054), [1389](https://fedlex.data.admin.ch/eli/fga/2025/1389)).
+[^18-3]: [SR 742.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8823)
 [^18-4]: Fassung gemäss Anhang Ziff. II 2 des Gütertransportgesetzes vom 21. März 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 749](https://fedlex.data.admin.ch/eli/oc/2025/749); [BBl 2024 300](https://fedlex.data.admin.ch/eli/fga/2024/300)).
+[^18-5]: Fassung gemäss Anhang Ziff. II 2 des Gütertransportgesetzes vom 21. März 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 749](https://fedlex.data.admin.ch/eli/oc/2025/749); [BBl 2024 300](https://fedlex.data.admin.ch/eli/fga/2024/300)).
 
-#### Art. 19und 20
+#### Art. 19
 
-[^1920-1]
+**Bürgschaften für die Beschaffung von Betriebsmitteln für den Transport begleiteter Motorfahrzeuge auf Eisenbahnen**[^19-1]
 
-[^1920-1]: Aufgehoben durch Ziff. II 17 des BG vom 6. Okt. 2006 zur Neugestaltung des Finanzausgleichs und der Aufgabenteilung zwischen Bund und Kantonen (NFA), mit Wirkung seit 1. Jan. 2008 ([AS 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [BBl 2005 6029](https://fedlex.data.admin.ch/eli/fga/2005/976)).
+<sup>1</sup> Beschafft ein Unternehmen mit oder ohne bestellten Betrieb Betriebsmittel für den Transport begleiteter Motorfahrzeuge auf Eisenbahnen, so kann der Bund der Gläubigerin eine Bürgschaft gewähren, wenn dies in seinem Interesse ist.
+
+<sup>2</sup> Das Bundesamt für Verkehr regelt die Form und die Bedingungen der Bürgschaften.
+
+[^19-1]: Fassung gemäss Ziff. I des BG vom 19. Dez. 2025, in Kraft seit 1. Juli 2026 ([AS 2026 416](https://fedlex.data.admin.ch/eli/oc/2026/416); [BBl 2025 1054](https://fedlex.data.admin.ch/eli/fga/2025/1054), [1389](https://fedlex.data.admin.ch/eli/fga/2025/1389)).
+
+#### Art. 20
+
+[^20-1]
+
+[^20-1]: Aufgehoben durch Ziff. II 17 des BG vom 6. Okt. 2006 zur Neugestaltung des Finanzausgleichs und der Aufgabenteilung zwischen Bund und Kantonen (NFA), mit Wirkung seit 1. Jan. 2008 ([AS 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [BBl 2005 6029](https://fedlex.data.admin.ch/eli/fga/2005/976)).
 
 ### 2. Abschnitt: …
 
