@@ -1,380 +1,384 @@
 ---
 canton: GR
 number: "932.160"
-title: Verordnung über die Förderung der wirtschaftlichen Entwicklung im Kanton Graubünden
-short: Wirtschaftsentwicklungsverordnung
+title: Verordnung über die Förderung der wirtschaftlichen Entwicklung in Graubünden
+short: "VWE, Wirtschaftsentwicklungsverordnung"
 language: de
-version: 2009-03-01
-corrected: 2014-10-10
-version_adopted: 2009-02-24
+version: 2026-07-01
+version_adopted: 2026-06-23
 adopted: 2015-12-22
 in_force: 2016-01-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/932.160"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/1802/pdf_file"
-text: pdf
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3647/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Verordnung über die Förderung der wirtschaftlichen Entwicklung im Kanton Graubünden (Wirtschaftsentwicklungsverordnung)
+# Verordnung über die Förderung der wirtschaftlichen Entwicklung in Graubünden
 
-Gestützt auf Art. 45 Absatz 1 der Kantonsverfassung[^t-1] und Art. 20 des Gesetzes über die Förderung der wirtschaftlichen Entwicklung im Kanton Graubünden[^t-2]
+(VWE, Wirtschaftsentwicklungsverordnung)
 
-von der Regierung erlassen am 14. August 2007
+Vom 22.12.2015 (Stand 01.07.2026)
 
-I. Zuständigkeiten
+Gestützt auf Art. 45 Abs. 1 der Kantonsverfassung[^ingress-1] und Art. 32 Abs. 1 des Gesetzes über die Förderung der wirtschaftlichen Entwicklung in Graubünden[^ingress-2]
 
-[^t-1]: BR 110.100
-[^t-2]: BR 932.100
+von der Regierung erlassen am 22. Dezember 2015
+
+[^ingress-1]: BR [110.100](https://www.gr-lex.gr.ch/data/110.100/de)
+[^ingress-2]: BR [932.100](https://www.gr-lex.gr.ch/data/932.100/de)
+
+## 1. Allgemeine Bestimmungen
 
 #### Art. 1
 
-**Departement, Dienststelle**
+**Zuständigkeiten**
 
-<sup>1</sup> Zuständiges Departement für die Förderung der wirtschaftlichen Entwicklung ist das Departement für Volkswirtschaft und Soziales (Departement). Kantonale Dienststelle ist das Amt für Wirtschaft und Tourismus (AWT).
+<sup>1</sup> Zuständig für die Förderung der wirtschaftlichen Entwicklung sind das Departement für Volkswirtschaft und Soziales (Departement) und das Amt für Wirtschaft und Tourismus (Amt).
 
-<sup>2</sup> Zuständiges Departement für die neuen Verkehrsverbindungen gemäss Art. 17b des Wirtschaftsentwicklungsgesetzes[^1-1] ist das Bau-, Verkehrs- und Forstdepartement.
-
-[^1-1]: BR 932.100 1.07.2009 1
-
-### II. Allgemeine Massnahmen
+<sup>2</sup> Gesuche um Förderleistungen sind dem Amt mit allen zur Beurteilung notwendigen Unterlagen einzureichen.
 
 #### Art. 2
 
-**Studien und Konzepte**
+**Darlehen**
 
-Beiträge an Studien und Konzepte können gewährt werden, wenn deren Fragestellung volkswirtschaftlich bedeutsame Resultate erwarten lässt oder wenn damit Vorhaben von volkswirtschaftlicher Bedeutung gefördert werden können.
+<sup>1</sup> Darlehen sind abzusichern.
 
 #### Art. 3
 
-**Forschung und Entwicklung**
+**Eigene Aktivitäten**
 
-<sup>1</sup> Beiträge an Forschungsprojekte können gewährt werden, wenn das Vorhaben in der Regel auch vom Bund, von der Europäischen Union, vom Schweizerischen Nationalfonds oder ähnlichen Institutionen gefördert wird.
-
-<sup>2</sup> Beiträge an die Entwicklung von Produkten und Dienstleistungen können gewährt werden, wenn das Vorhaben besonders innovativ oder von besonderer regionalwirtschaftlicher Bedeutung ist.
+<sup>1</sup> Der Kanton kann im Rahmen von Bundesmassnahmen, der regionalen Entwicklung, von Institutionen und Organisationen, der Standortpromotion, der Regionenmarke und von Studien und Konzepten eigene Massnahmen durchführen.
 
 #### Art. 4
 
-**Projektbezogene Aus- und Weiterbildung**
+**Bürgschaften für KMU**
 
-Beiträge an die projektbezogene Aus- und Weiterbildung können gewährt werden, wenn dadurch a) der Wissens- und Technologietransfer zwischen Wirtschaft und Bildung gefördert wird;
+<sup>1</sup> Bürgschaften können eingegangen werden, wenn die gesetzlichen Möglichkeiten der BG OST-SÜD Bürgschaftsgenossenschaft für KMU in vollem Umfang ausgeschöpft sind.
 
-- b) Neuansiedlungen oder der Aufbau innovativer Betriebszweige massgeblich erleichtert werden können oder
-
-- c) der Aufbau neuer Wirtschaftsbereiche gefördert werden kann.
+<sup>2</sup> Die Bürgschaft kann pro Vorhaben maximal 500 000 Franken betragen.
 
 #### Art. 5
 
-**Institutionen**
+**Grundstücke**
 
-<sup>1</sup> Beiträge an Institutionen können gewährt werden, wenn a) dadurch volkswirtschaftliche oder betriebswirtschaftliche Grundlagen für die Entwicklung von Strategien und Umsetzungskonzepten für Branchen, Regionen und KMU geschaffen werden und b) die periodisch zu überprüfende Leistungsvereinbarung eingehalten wird.
+<sup>1</sup> Als Standorte mit volkswirtschaftlichem Potenzial gelten Standorte, an welchen die Voraussetzungen für eine industrielle oder touristische Entwicklung gegeben sind.
 
-<sup>2</sup> Beiträge an Forschungsinstitutionen können gewährt werden, wenn diese für den Wirtschaftsstandort Graubünden von besonderer Bedeutung und in der Regel international anerkannt sind.
+<sup>2</sup> Die Erschliessung muss:
 
-<sup>3</sup> Mitgliedschaften können eingegangen werden, wenn diese in einem direkten Zusammenhang mit den Zielsetzungen des Wirtschaftsentwicklungsgesetzes stehen.
+- a) den Bedürfnissen der vorgesehenen Nutzung entsprechen; und
+- b) eine hohe Qualität aufweisen.
+
+<sup>3</sup> Die Gesamtinvestitionen in Grundstücke müssen eine angemessene Kapitalrentabilität aufweisen.
+
+<sup>4</sup> Die Übertragung von Grundstücken erfolgt im Baurecht oder zu Eigentum an:
+
+- a) Unternehmen, die eine besondere Wertschöpfungsintensität und eine hohe Produktivität aufweisen;
+- b) Institutionen, die zur Stärkung der Wettbewerbsfähigkeit des Kantons beitragen; oder
+- c) Unternehmen, Institutionen oder Trägerschaften für touristische Vorhaben, die in der regionalen Standortentwicklungsstrategie enthalten sind.
 
 #### Art. 6
 
-**Förderpreise**
+**Bundesmassnahmen**
 
-Förderpreise können für herausragende Leistungen zur Stärkung der Bündner Wirtschaft vergeben werden.
+<sup>1</sup> Beiträge und Darlehen können aufgrund von Programmvereinbarungen zur Regionalpolitik und von weiteren Förderprogrammen des Bundes gewährt werden.
+
+<sup>2</sup> Beiträge an internationale Organisationen können für Programme und Projekte der grenzüberschreitenden Zusammenarbeit gewährt werden, wenn:
+
+- a) die wirtschaftliche Entwicklung des Kantons gefördert wird; oder
+- b) internationale Beziehungen gestärkt werden.
 
 #### Art. 7
 
-**Kooperationsprojekte**
+**Regionale Standortentwicklungsstrategie**
 
-<sup>1</sup> Beiträge an überbetriebliche Kooperationsprojekte können gewährt werden, wenn diese innovativ sind und zur Steigerung der Wettbewerbsfähigkeit der beteiligten Unternehmungen beitragen.
+<sup>1</sup> Regionale Standortentwicklungsstrategien umfassen unter den entsprechenden Gemeinden abgestimmte Massnahmen für deren wirtschaftliche Entwicklung, insbesondere auch betreffend Infrastrukturen.
 
-<sup>2</sup> Der Kanton kann Kooperationsprojekte mit eigenen Aktivitäten unterstützen.
+<sup>2</sup> Massnahmen betreffend touristische Infrastrukturen müssen auf die strategische Ausrichtung der Tourismusdestination (Destinationsstrategie) abgestimmt sein.
 
-### III. Standortmarketing
+<sup>3</sup> Die Massnahmen sind zu priorisieren.
+
+<sup>4</sup> Die Präsidentinnen- oder Präsidentenkonferenzen beziehungsweise die Präsidentinnen oder Präsidenten der beteiligten Gemeinden sind zuständig für die Genehmigung der regionalen Standortentwicklungsstrategien.
 
 #### Art. 8
 
-**Standortpromotion**
+**Vorzeitiger Arbeits- oder Baubeginn**
 
-<sup>1</sup> Zur Stärkung des Wohn- und Wirtschaftsstandorts Graubünden plant der Kanton Marketingaktivitäten und setzt diese um.
+<sup>1</sup> Kann die zuständige Instanz über die Gewährung von Förderleistungen ausnahmsweise nicht vorgängig entscheiden, kann sie einen vorzeitigen Arbeits- oder Baubeginn bewilligen.
 
-**2**
+## 1a. Steuergutschriften
 
-1.07.2009
+#### Art. 8a
 
-<sup>2</sup> Zur Ansiedlung neuer Unternehmen und zur Pflege bestehender Unternehmen werden die dafür notwendigen Dienstleistungen erbracht.
+**Allgemeine Voraussetzungen**
 
-<sup>3</sup> Die Aufgaben können auch durch Partnerorganisationen oder in Zusammenarbeit mit Dritten umgesetzt werden.
+<sup>1</sup> Steuergutschriften können juristischen Personen gewährt werden, die der Steuerpflicht im Kanton unterstehen.
+
+<sup>2</sup> Anrechenbar sind Aufwendungen, die im Kanton oder in der Schweiz während des Zeitraums, für welchen die Steuergutschrift gewährt wird, anfallen. Der Zeitraum beträgt maximal vier Jahre.
+
+<sup>3</sup> Geförderte Unternehmen haben die Aufwendungen, die im Zusammenhang mit der Umsetzung von Massnahmen anfallen, nachzuweisen. Der Nachweis ist spätestens ein Jahr, nachdem sie angefallen sind, zu erbringen.
+
+<sup>4</sup> Es werden keine Steuergutschriften für Tatbestände gewährt, für welche bereits eine anderweitige Förderung erfolgt.
+
+#### Art. 8b
+
+**Wertschöpfung**
+
+<sup>1</sup> Massnahmen, die einen bedeutenden Beitrag zur Erhöhung der Wertschöpfung leisten, sind:
+
+- a) der Ausbau von bestehenden Unternehmen, wenn dadurch eine wesentliche Änderung der betrieblichen Tätigkeit erfolgt; oder
+- b) die Ansiedlung und der Aufbau neuer Unternehmen.
+
+<sup>2</sup> Zu den anrechenbaren Aufwendungen zählen insbesondere Anschaffungs-, Herstellungs- und Entwicklungskosten der Sachanlagen sowie Miet- oder Leasingkosten für solche Anlagen. Grundstückskosten sind nicht anrechenbar.
+
+#### Art. 8c
+
+**Forschung, Entwicklung und Innovation**
+
+<sup>1</sup> Massnahmen, die einen bedeutenden Beitrag zur Stärkung der Forschung, der Entwicklung und der Innovation leisten, sind:
+
+- a) wissenschaftliche Forschungstätigkeiten, um Wissen zu erschliessen oder zu vertiefen; oder
+- b) wissenschaftsbasierte Tätigkeiten:
+  - 1\. zur Entwicklung neuer, verbesserter Produkte, Dienstleistungen oder Prozesse, oder
+  - 2\. zur Erschliessung neuer Märkte.
+
+<sup>2</sup> Zu den anrechenbaren Aufwendungen gehören Personalkosten sowie Aufwendungen für angewandte Auftragsforschung.
+
+#### Art. 8d
+
+**Ökologische Nachhaltigkeit**
+
+<sup>1</sup> Massnahmen zur ökologischen Nachhaltigkeit bewirken die Vermeidung oder Verminderung von Treibhausgasemissionen im Kanton. Sie müssen eine bedeutsame Wirkung erzielen und über bestehende Verpflichtungen hinausgehen.
+
+<sup>2</sup> Anrechenbar sind die zur Umsetzung dieser Massnahmen notwendigen Investitionskosten.
+
+<sup>3</sup> Massnahmen, bei denen Kompensationsinstrumente oder dergleichen eingesetzt wurden, werden nicht berücksichtigt.
+
+<sup>4</sup> Fördergesuche müssen die Bestätigung einer unabhängigen anerkannten Stelle enthalten.
+
+#### Art. 8e
+
+**Verrechnung und Auszahlung**
+
+<sup>1</sup> Die Verrechnung von gewährten Steuergutschriften mit fälligen Gewinn- und Kapitalsteuerschulden auf Ebene von Kanton und Gemeinde erfolgt frühestens:
+
+- a) wenn die Steuergutschrift jeweils zwischen Januar und Juni eines Jahres erfüllbar ist: im Folgejahr;
+- b) wenn die Steuergutschrift jeweils zwischen Juli und Dezember eines Jahres erfüllbar ist: im übernächsten Jahr.
+
+<sup>2</sup> Erfüllbar ist eine Steuergutschrift, wenn sie durch das Amt nach Prüfung des Nachweises gemäss Artikel 8a Absatz 3 und der weiteren Bedingungen und Auflagen freigegeben wurde.
+
+<sup>3</sup> Kann die Steuergutschrift innerhalb von vier Jahren ab dem frühestmöglichen Verrechnungszeitpunkt nicht verrechnet werden, insbesondere weil keine fällige Steuerschuld vorliegt, ist die Steuergutschrift auszuzahlen.
+
+## 2. Innovation
 
 #### Art. 9
 
-**Standortentwicklung**
+**Innovative Vorhaben**
 
-<sup>1</sup> Beiträge an Projekte für die Standortentwicklung können gewährt werden, wenn a) dadurch die Attraktivität oder Wettbewerbsfähigkeit von Regionen, Gemeinden oder Branchen erhöht wird und b) Arbeitsplätze geschaffen werden.
+<sup>1</sup> Beiträge und Darlehen an innovative Vorhaben können gewährt werden, wenn:
 
-<sup>2</sup> Der Kanton kann Projekte zur Standortentwicklung mit eigenen Aktivitäten unterstützen.
+- a) diese zur Stärkung einer Branche oder zur Diversifikation der Wirtschaftsstruktur beitragen; und
+- b) der Aufbau sowie die Vernetzung von Wissen gestärkt werden.
 
 #### Art. 10
 
-**Marke Graubünden**
+**Kompetenznetzwerke**
 
-<sup>1</sup> Beiträge an Projekte oder Institutionen zur Förderung und Pflege der Regionenmarke Graubünden können gewährt werden, wenn a) diese der Strategie und den Zielen der Marke Graubünden entsprechen und b) die periodisch zu überprüfende Leistungsvereinbarung eingehalten wird.
+<sup>1</sup> Beiträge an Kompetenznetzwerke können gewährt werden, wenn:
 
-<sup>2</sup> Der Kanton kann Projekte zur Förderung und Pflege der Regionenmarke Graubünden mit eigenen Aktivitäten unterstützen.
-
-### IV. Tourismus und Sportanlagen
-
-- 1\. GRAUBÜNDEN FERIEN
+- a) mehrere Unternehmen davon profitieren können;
+- b) durch den Einbezug weiterer Sektoralpolitiken ein Mehrwert für die Unternehmen entsteht; und
+- c) eine langfristige Finanzierung für deren Betrieb aufgezeigt ist.
 
 #### Art. 11
 
-**Vertretung**
+**Wissens- und Technologietransfer**
 
-Der Kanton beansprucht einen Sitz im Vorstand und in der Revisionsstelle des Vereins Graubünden Ferien.
+<sup>1</sup> Beiträge an Vorhaben im Rahmen der Strategie des Bundes können gewährt werden, wenn:
+
+- a) mehrere Unternehmen davon profitieren können;
+- b) diese auf dem aktuellsten Stand des Wissens basieren; und
+- c) eine überregionale Vernetzung angestrebt wird.
 
 #### Art. 12
 
-**Leistungsvereinbarung**
+**Forschungsinstitutionen**
 
-Das Departement schliesst mit dem Verein Graubünden Ferien eine Leistungsvereinbarung ab, welche in der Regel für mindestens drei Jahre gilt. Die erbrachten Leistungen und deren Wirkung werden jährlich beurteilt.
+<sup>1</sup> Beiträge und Darlehen an bestehende Forschungsinstitutionen können gewährt werden, wenn:
 
-- 2\. VERANSTALTUNGEN
+- a) neue Forschungsthemen bearbeitet werden; oder
+- b) die thematische und institutionelle Zusammenarbeit zwischen Forschung und Wirtschaft auf- und ausgebaut wird.
+
+<sup>2</sup> Beiträge und Darlehen an neue Forschungsinstitutionen können gewährt werden, wenn:
+
+- a) eine Vernetzung mit Forschung, Bildung und Lehre ermöglicht wird; und
+- b) Unternehmen ihren Aufbau finanziell unterstützen.
+
+## 3. Regional- und Standortentwicklung
 
 #### Art. 13
 
-**Beiträge, Voraussetzungen**
+**Regionale Entwicklung**
 
-<sup>1</sup> Beiträge an Veranstaltungen können gewährt werden, wenn
+<sup>1</sup> Beiträge und Darlehen an Vorhaben zur Standortentwicklung können gewährt werden, wenn dadurch:
 
-**3**
+- a) die Attraktivität oder Wettbewerbsfähigkeit von Gemeinden, Regionen oder Branchen erhöht wird; und
+- b) Grundlagen oder Voraussetzungen geschaffen werden, damit die Unternehmen Wertschöpfung und attraktive Arbeitsplätze schaffen können.
 
-**4**
+<sup>2</sup> Beiträge und Darlehen an Vorhaben zur Stärkung regionaler Zentren können gewährt werden, wenn:
 
-1.07.2009 a) diese den Bekanntheitsgrad der Tourismusregion Graubünden und die touristische Wertschöpfung erhöhen;
+- a) sie zur langfristigen Weiterentwicklung des Zentrums als Arbeitsplatz- und Wohnstandort beitragen;
+- b) sie zur regionalen Versorgung bezüglich Dienstleistungen, öffentlicher Dienste und Infrastrukturen beitragen;
+- c) sie in der regionalen Standortentwicklungsstrategie enthalten sind;
+- d) deren Planung und Umsetzung langfristig ausgerichtet sind; und
+- e) das Vorgehen unter den beteiligten Gemeinden abgestimmt ist.
 
-- b) diese von überregionaler Bedeutung sind;
+<sup>3</sup> Regionale Zentren sind in der Richtplanung bezeichnet.
 
-- c) diese die Marke Graubünden in das Kommunikationskonzept des Veranstalters einbeziehen und
-
-- d) die Eigenleistungen des Veranstalters und Beiträge Dritter ausgeschöpft sind.
-
-<sup>2</sup> Die Einzelheiten der Gewährung regelt das Departement.
-
-- 3\. BEHERBERGUNG
+<sup>4</sup> Zur Durchführung eigener Vorhaben kann der Kanton zusammen mit Dritten eine Trägerschaft gründen oder sich an einer solchen beteiligen und die Aufgabe dieser Trägerschaft übertragen.
 
 #### Art. 14
 
-**Beiträge oder Darlehen, Voraussetzungen**
+**Regionale Trägerschaften**
 
-<sup>1</sup> Beiträge oder Darlehen an Projekte von Beherbergungsbetrieben können gewährt werden, wenn a) es sich um ein regionalwirtschaftlich bedeutsames oder besonders innovatives Projekt handelt;
+<sup>1</sup> Beiträge an regionale Trägerschaften können gewährt werden, wenn diese mit ihren Tätigkeiten und Projekten die wirtschaftliche Entwicklung auf ihrem Gebiet fördern.
 
-- b) das Vorhaben massgeblich zur Sicherung eines wettbewerbsfähigen touristischen Angebots in der Region beiträgt;
+<sup>2</sup> Beiträge an den Personalaufwand regionaler Trägerschaften für die Regionalentwicklung können gewährt werden, wenn die Trägerschaft mindestens zwei Drittel der Einwohnerinnen und Einwohner einer Region umfasst.
 
-- c) ein angemessener Eigenkapitaleinsatz sichergestellt ist und
+<sup>3</sup> Die Regierung legt anhand eines Verteilschlüssels alle vier Jahre die Höhe der Beiträge für die jeweiligen Trägerschaften fest.
 
-- d) die marktübliche Grundfinanzierung vorliegt.
+<sup>4</sup> Die regionale Trägerschaft reicht jährlich eine Massnahmenplanung sowie einen Tätigkeitsbericht auf der Basis der regionalen Standortentwicklungsstrategie ein.
 
-<sup>2</sup> Die Einzelheiten der Gewährung regelt das Departement.
-
-- 4\. INFRASTRUKTUREN
+<sup>5</sup> Die Förderung erfolgt über einen Leistungsauftrag mit dem Departement.
 
 #### Art. 15
 
-**Beiträge, Voraussetzungen 1. Im Allgemeinen**
+**Systemrelevante Infrastrukturen**
 
-<sup>1</sup> Beiträge an den Bau und die Erneuerung von Infrastrukturen können gewährt werden, wenn a) die Förderung des Tourismus in der Gemeinde und der Region einem gesamtwirtschaftlichen Bedürfnis entspricht;
+<sup>1</sup> Beiträge an systemrelevante Infrastrukturen können gewährt werden, wenn:
 
-- b) mit dem Vorhaben eine Förderung des Tourismus erreicht wird;
+- a) es sich um ein besonders innovatives Vorhaben oder um eines mit besonderem volkswirtschaftlichem Nutzen handelt;
+- b) bestehende Infrastrukturen berücksichtigt sind;
+- c) die zumutbaren Eigenleistungen erbracht und mögliche Drittleistungen ausgeschöpft sind;
+- d) ein Betriebskonzept vorliegt;
+- e) die betriebswirtschaftliche Tragbarkeit des Vorhabens aufgezeigt ist; und
+- f) sie in der Regel für die Öffentlichkeit zugänglich sind.
 
-- c) das Vorhaben mit regionalen Konzepten übereinstimmt, mit anderen Förderungsmassnahmen koordiniert wird und bestehenden Infrastrukturen Rechnung trägt;
+<sup>2</sup> Das Vorhaben entspricht einem gesamtwirtschaftlichen Bedürfnis, wenn es überdies:
 
-- d) die zumutbaren Eigenleistungen erbracht und mögliche Drittleistungen ausgeschöpft werden;
-
-- e) die zu erstellenden Infrastrukturen in der Regel jedermann zugänglich sind und
-
-- f) ein Betriebskonzept vorliegt.
-
-<sup>2</sup> Bei Projekten des nationalen Sportanlagenkonzeptes (NASAK) sowie des kantonalen Sportanlagenkonzeptes (KASAK) gelten die spezifischen Bestimmungen.
-
-1.07.2009
+- a) in seiner Ausstrahlung und Wirkung die wirtschaftliche Entwicklung stärkt;
+- b) Potenzial zur Schaffung von privatwirtschaftlichen Arbeitsplätzen sowie zur Steigerung der Wertschöpfung entlang einer Wertschöpfungskette hat;
+- c) für verschiedene vor- und nachgelagerte Unternehmen von wirtschaftlichem Nutzen ist; und
+- d) für die Regionalwirtschaft von besonderem volkswirtschaftlichem Nutzen ist.
 
 #### Art. 16
 
-**2. Bergbahnen und Schneeanlagen**
+**Sportanlagen**
 
-Beiträge an den Bau und die Erneuerung von Bergbahnen und Schneeanlagen werden gewährt, wenn diese die vom Departement festgelegten Kriterien erfüllen.
+<sup>1</sup> Beiträge an den Bau und die Erneuerung von Sportanlagen von nationaler Bedeutung können gewährt werden, wenn sie:
+
+- a) im Nationalen Sportanlagenkonzept (NASAK) enthalten sind;
+- b) vom Bund unterstützt werden; und
+- c) den Grundsätzen des Kantonalen Sportanlagenkonzepts (KASAK) entsprechen.
+
+<sup>2</sup> Beiträge an den Bau und die Erneuerung von Sportanlagen von kantonaler oder regionaler Bedeutung können gewährt werden, wenn sie im Kantonalen Sportanlagenkonzept (KASAK) der Regierung enthalten sind.
+
+## 4. Tourismus
 
 #### Art. 17
 
-**3. NASAK**
+**Infrastrukturen 1. Beherbergung**
 
-Beiträge an den Bau und die Erneuerung von Sportanlagen von nationaler Bedeutung werden gewährt, wenn diese im NASAK enthalten sind und entsprechend vom Bund unterstützt werden.
+<sup>1</sup> Beiträge und Darlehen an Vorhaben von Beherbergungsbetrieben können gewährt werden, wenn:
+
+- a) es sich um ein regionalwirtschaftlich bedeutsames oder innovatives Vorhaben handelt;
+- b) damit eine Qualitätssteigerung des Angebots erreicht wird;
+- c) ein angemessener Eigenkapitaleinsatz sichergestellt ist; und
+- d) eine marktübliche Grundfinanzierung vorliegt.
 
 #### Art. 18
 
-**4. KASAK**
+**2. Bergbahnen**
 
-Beiträge an den Bau und die Erneuerung von Sportanlagen von kantonaler Bedeutung können gewährt werden, wenn diese im von der Regierung beschlossenen KASAK enthalten sind.
+<sup>1</sup> Beiträge oder Darlehen an den Bau, die Erneuerung und die Weiterentwicklung von Transport- und Schneeanlagen können gewährt werden, wenn:
 
-### V. Industrie, Gewerbe, Dienstleistung
+- a) damit das Gesamtangebot optimiert und eine Qualitätssteigerung erreicht wird;
+- b) die zumutbaren Eigenleistungen erbracht und mögliche Drittleistungen ausgeschöpft sind; und
+- c) die betriebswirtschaftliche Tragbarkeit aufgezeigt ist.
 
 #### Art. 19
 
-**Auf- und Ausbau von KMU**
+**3. Andere touristische Infrastrukturen**
 
-<sup>1</sup> Vorhaben entwicklungsfähiger bestehender oder neu zu gründender KMU können mit Beiträgen oder Darlehen unterstützt werden, wenn a) neue Arbeitsplätze geschaffen oder bestehende aufgewertet werden;
+<sup>1</sup> Beiträge oder Darlehen an den Bau, die Erneuerung und die Weiterentwicklung von anderen touristischen Infrastrukturen können gewährt werden, wenn:
 
-- b) Innovationen in Branchen gefördert werden, die für die bündnerische Volkswirtschaft von besonderem Interesse sind;
-
-- c) die Absatzmärkte des Unternehmens oder Produktionszweiges überwiegend ausserhalb des Kantons liegen;
-
-- d) die Erfolgsaussichten des Vorhabens in einem Businessplan aufgezeigt werden und
-
-- e) die marktübliche Grundfinanzierung vorliegt.
-
-<sup>2</sup> Die Einzelheiten der Gewährung regelt das Departement.
+- a) das Vorhaben von volkswirtschaftlichem Nutzen oder innovativ ist;
+- b) das Vorhaben bestehende Infrastrukturen berücksichtigt;
+- c) die zumutbaren Eigenleistungen erbracht und mögliche Drittleistungen ausgeschöpft sind;
+- d) ein Betriebskonzept vorliegt; und
+- e) die betriebswirtschaftliche Tragbarkeit des Vorhabens aufgezeigt ist.
 
 #### Art. 20
 
-**Erschliessung von Auslandmärkten**
+**Veranstaltungen**
 
-<sup>1</sup> Beiträge für die Erschliessung von Auslandmärkten können gewährt werden, wenn a) mit dem Vorhaben neue Arbeitsplätze geschaffen oder bestehende Arbeitsplätze aufgewertet werden;
+<sup>1</sup> Beiträge an Veranstaltungen in Graubünden können gewährt werden, wenn diese:
 
-- b) ein Vermarktungskonzept für Produkte und Dienstleistungen vorliegt und
-
-- c) es sich dabei um eine erstmalige ausländische Geschäftstätigkeit handelt.
-
-<sup>2</sup> Der Kanton kann Projekte für die Erschliessung von Auslandmärkten mit eigenen Aktivitäten unterstützen.
-
-**5**
-
-1.07.2009
-
-### VI. Informations- und Kommunikationstechnologien
+- a) die touristische Wertschöpfung erhöhen;
+- b) von überregionaler Bedeutung sind;
+- c) Entwicklungspotenzial aufweisen;
+- d) mit der Destinationsstrategie übereinstimmen;
+- e) die Marke graubünden in das Kommunikationskonzept des Veranstalters einbeziehen; und
+- f) die Eigenleistungen des Veranstalters und Beiträge Dritter ausgeschöpft sind.
 
 #### Art. 21
 
-**Erschliessung**
+**Graubünden Ferien**
 
-Beiträge oder Darlehen für die Erschliessungen mit Telekommunikationsinfrastrukturen können gewährt werden, wenn a) das Projekt von regionaler Bedeutung ist und b) die Wirtschaftlichkeit des Projekts in einem Businessplan dargelegt wird.
+<sup>1</sup> Das Departement schliesst mit dem Verein Graubünden Ferien einen Leistungsauftrag über eine Dauer von mindestens drei Jahren ab. Die Leistungsbeurteilung erfolgt jährlich.
+
+<sup>2</sup> Der Leistungsauftrag umfasst touristische Vermarktungsaktivitäten insbesondere in den Bereichen der Markt- und Produktentwicklung, des Themenmarketings sowie der Systeminnovation.
+
+## 5. Weitere Massnahmen
 
 #### Art. 22
 
-**Betrieb**
+**Institutionen und Organisationen**
 
-Beiträge an den Betrieb von Telekommunikationsdiensten, im Speziellen an deren Verbreitung, können gewährt werden, wenn a) diese von überregionaler Bedeutung sind oder mindestens eine touristische Destination betreffen;
+<sup>1</sup> Beiträge an Institutionen und Organisationen können gewährt werden, wenn diese volks- oder betriebswirtschaftliche Grundlagen für die Entwicklung von Strategien und Umsetzungskonzepten für Branchen, Regionen und Unternehmen schaffen.
 
-- b) diese einen wesentlichen volkswirtschaftlichen Nutzen bringen oder zur Stärkung einer Branche beitragen und
-
-- c) die branchenüblichen Gebühren und andere Einnahmen zur Finanzierung der Dienste nicht ausreichen.
-
-### VII. Bundesmassnahmen
+<sup>2</sup> Die Förderung erfolgt über einen Leistungsauftrag mit dem Departement.
 
 #### Art. 23
 
-**Investitionshilfe**
+**Standortpromotion**
 
-Der Kanton unterstützt die regionalen Organisationen bei der Überarbeitung und Umsetzung der regionalen Entwicklungskonzepte und der Mehrjahresprogramme gemäss Bundesgesetz über Investitionshilfe für Berggebiete (IHG)[^23-1].
-
-[^23-1]: SR 901.1 6 1.07.2009
+<sup>1</sup> Beiträge können an Vorhaben zur Bewerbung des Wirtschafts- und Wohnstandorts Graubünden gewährt werden.
 
 #### Art. 24
 
-**Strukturförderprogramme**
+**Regionenmarke**
 
-<sup>1</sup> Der Kanton fördert die Beteiligung an Strukturförderprogrammen des Bundes.
-
-<sup>2</sup> Der Kanton kann auch dann Beiträge an Aufwändungen für die Strukturförderprogramme leisten, wenn der Bund keine Finanzhilfen verlangt.
+<sup>1</sup> Die Übertragung der Markenführung auf einen Dritten erfolgt mittels eines Leistungsauftrags des Departements.
 
 #### Art. 25
 
-**Neue Regionalpolitik**
+**Kooperationen**
 
-<sup>1</sup> Der Kanton kann Projekte aufgrund des kantonalen Umsetzungsprogramms zur Neuen Regionalpolitik fördern. Er kann sich an solchen Projekten beteiligen sowie die Projektträger beraten und mit Beiträgen unterstützen. Er übernimmt die vom Bund ihm übertragenen Aufgaben.
-
-<sup>2</sup> Die Einzelheiten der Gewährung regelt das Departement.
-
-### VIII. Programme von internationalen Organisationen
+<sup>1</sup> Beiträge an überbetriebliche Kooperationsprojekte können gewährt werden, wenn diese innovativ sind und zur Steigerung der Wettbewerbsfähigkeit der beteiligten Unternehmen beitragen.
 
 #### Art. 26
 
-**Internationale Organisationen**
+**Studien und Konzepte**
 
-<sup>1</sup> Beiträge an Programme und Projekte internationaler Organisationen werden gewährt, wenn mit dem Vorhaben internationale Beziehungen gestärkt werden oder die wirtschaftliche Entwicklung der Regionen gefördert wird.
-
-<sup>2</sup> Der Kanton kann sich an solchen Vorhaben aktiv beteiligen.
-
-<sup>3</sup> Im Zusammenhang mit Programmen und Projekten von internationalen Organisationen kann der Kanton Mitgliedschaften eingehen.
-
-### IX. Regionale Organisationen
+<sup>1</sup> Beiträge an Studien und Konzepte können gewährt werden, wenn diese volkswirtschaftlich bedeutsame Resultate erwarten lassen oder die Grundlage für förderungswürdige Vorhaben bilden.
 
 #### Art. 27
 
-**Leistungen**
+**Informations- und Kommunikationstechnologien**
 
-<sup>1</sup> Beiträge an regionale Organisationen können gewährt werden, wenn a) damit ein effizientes Regionalmanagement ermöglicht und b) die periodisch zu überprüfende Leistungsvereinbarung eingehalten wird.
+<sup>1</sup> Beiträge oder Darlehen zur Erschliessung mit Informations- und Kommunikationstechnologien können gewährt werden, wenn:
 
-<sup>2</sup> Der Kanton kann auch dann Beiträge an Aufwendungen von regionalen Organisationen leisten, wenn keine Finanzhilfen des Bundes möglich sind.
+- a) mit dem Vorhaben mehrere Unternehmen in unmittelbarer Nähe erschlossen werden; und
+- b) diese Unternehmen von regionaler Bedeutung sind.
 
-<sup>3</sup> Der Kanton kann regionale Organisationen und überregionale Zusammenarbeit durch eigene Aktivitäten unterstützen.
-
-#### Art. 28
-
-**Beitragshöhe**
-
-Die Höhe der Beiträge richtet sich nach a) Inhalt und Erfolg der mit dem AWT vereinbarten Massnahmen;
-
-- b) Leistungsfähigkeit der Geschäftsstelle im Bereich der Förderung der wirtschaftlichen Entwicklung.
-
-### X. Innovative Projekte
-
-#### Art. 29
-
-**Wettbewerbsfähige Tourismusstrukturen**
-
-<sup>1</sup> Beiträge an den Aufbau von Destinationsmanagement-Organisationen (DMO), zukünftigen Tourismusorganisationen (zTO) oder an die Neuausrichtung von Graubünden Ferien können gewährt werden, wenn a) diese mit dem Umsetzungskonzept „Wettbewerbsfähige Strukturen und Aufgabenteilung im Bündner Tourismus“ übereinstimmen;
-
-- b) die Leistungsvereinbarung eingehalten wird.
-
-<sup>2</sup> Beiträge an Studien und Konzepte können gewährt werden, wenn diese mit dem Umsetzungskonzept „Wettbewerbsfähige Strukturen und Aufgabenteilung im Bündner Tourismus“ übereinstimmen.
-
-**7**
-
-1.07.2009
-
-<sup>3</sup> Der Kanton kann Projekte zur Förderung von wettbewerbsfähigen Tourismusstrukturen mit eigenen Aktivitäten unterstützen.
-
-### XI. Verfahren
-
-#### Art. 30
-
-**Gesuche**
-
-<sup>1</sup> Gesuche für Leistungen gemäss dieser Verordnung sind dem AWT einzureichen.
-
-<sup>2</sup> Die Gesuchsteller sind verpflichtet, alle zur Beurteilung notwendigen Auskünfte zu erteilen.
-
-[^30-1]: Einfügung gemäss RB vom 24. Februar 2009; am 1. März 2009 in Kraft getreten.
-
-#### Art. 30a
-
-**Vorzeitiger Arbeits- oder Baubeginn**[^30-1]
-
-<sup>1</sup> Wenn der Entscheid betreffend Leistungsgewährung ausnahmsweise nicht vorher erfolgen kann, kann ein vorzeitiger Arbeits- oder Baubeginn bewilligt werden.
-
-<sup>2</sup> Darüber befindet die für die Leistungsgewährung zuständige Instanz.
-
-### XII. Schlussbestimmungen
-
-#### Art. 31
-
-**Aufhebung bisherigen Rechts**
-
-Die Verordnung über die Förderung der wirtschaftlichen Entwicklung im Kanton Graubünden vom 26. Oktober 2004[^31-1] wird aufgehoben.
-
-[^31-1]: AGS 2004, KA 3683
-
-#### Art. 32
-
-**Inkrafttreten**
-
-Diese Verordnung tritt zusammen mit der Teilrevision des Gesetzes über die Förderung der wirtschaftlichen Entwicklung im Kanton Graubünden vom 17. April 2007 in Kraft[^32-1].
-
-[^32-1]: Am 1. September 2007 in Kraft getreten 8 1.07.2009
+2015-057
