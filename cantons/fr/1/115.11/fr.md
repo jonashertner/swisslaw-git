@@ -4,13 +4,12 @@ number: "115.11"
 title: "Règlement sur l'exercice des droits politiques"
 short: REDP
 language: fr
-version: 2024-12-01
-valid_until: 2026-06-30
-version_adopted: 2024-11-05
+version: 2026-07-01
+version_adopted: 2026-06-09
 adopted: 2001-07-10
 in_force: 2001-08-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/115.11"
-pdf: "https://bdlf.fr.ch/api/fr/versions/8074/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/8621/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +20,7 @@ Droits politiques – R
 
 (REDP)
 
-du 10.07.2001 (version entrée en vigueur le 01.12.2024)
+du 10.07.2001 (version entrée en vigueur le 01.07.2026)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -121,24 +120,25 @@ Arrête:
 
 <sup>2</sup> La Chancellerie d'Etat accomplit les tâches relatives au déroulement des scrutins et à leur dépouillement, en particulier la préparation des arrêtés de convocation, la publication des résultats ainsi que le choix et l'implantation des logiciels informatiques.
 
-<sup>3</sup> Le préfet assure la surveillance du déroulement de tous les scrutins.
+<sup>3</sup> Le préfet ou la préfète assure la surveillance du déroulement de tous les scrutins.
 
 <sup>4</sup> Les autorités précitées collaborent de manière à assurer un bon déroulement des scrutins.
 
 #### Art. 8
 
-**Matériel de vote ou matériel électoral fourni aux communes (art. 10 et 12 LEDP)**
+**Matériel de vote fourni aux communes (art. 10 et 12 LEDP)**
 
 <sup>1</sup> La Chancellerie d'Etat fournit aux communes, en fonction des scrutins concernés:
 
 - a) les bulletins de vote;
 - b) les listes électorales imprimées et en blanc ou le masque des listes électorales;
 - c) les enveloppes de vote;
-- d) les enveloppes-réponses, sur facturation.
+- d) les enveloppes-réponses, sur facturation;
+- e) les bulletins électoraux officiels.
 
 <sup>2</sup> La prise en charge des frais d'impression des listes électorales ou de leur masque, de même que leur distribution, est régie par les articles 38 et 40 LEDP.
 
-<sup>3</sup> Les règles prévues à l'article 22c LEDP en lien avec l'établissement de bulletins de vote compatibles avec les lecteurs optiques demeurent réservées.
+<sup>3</sup> Les règles prévues à l'article 22c LEDP en lien avec l'établissement de bulletins de vote compatibles avec les moyens techniques demeurent réservées.
 
 #### Art. 9
 
@@ -161,25 +161,27 @@ Arrête:
 
 **Matériel de vote (art. 12 LEDP)**
 
-<sup>1</sup> Le matériel de vote et d'information comprend:
+<sup>1</sup> Le matériel de vote et d'information comprend une enveloppe de vote destinée à recevoir l'ensemble des bulletins de vote et des bulletins électoraux une fois remplis ainsi que:
 
 - a) pour les votations cantonales:
   - 1\. un exemplaire de la loi ou du décret soumis à votation;
-  - 2\. une enveloppe de vote;
+  - 2\. …
   - 3\. un bulletin de vote en blanc;
-  - 4\. une notice d'explication du Conseil d'Etat;
+  - 4\. la brochure explicative du Conseil d'Etat;
 - b) pour les élections cantonales:
-  - 1\. une enveloppe de vote;
-  - 2\. une liste électorale en blanc;
+  - 1\. …
+  - 2\. le cas échéant, un bulletin électoral officiel;
   - 3\. le cas échéant, les listes électorales imprimées;
 - c) pour les votations communales:
   - 1\. la documentation relative à l'acte soumis à votation;
-  - 2\. une enveloppe de vote;
+  - 2\. …
   - 3\. un bulletin de vote en blanc;
+  - 4\. la brochure explicative du Conseil communal;
 - d) pour les élections communales:
-  - 1\. une enveloppe de vote;
-  - 2\. une liste électorale en blanc;
-  - 3\. le cas échéant, les listes électorales imprimées.
+  - 1\. …
+  - 2\. le cas échéant, un bulletin électoral officiel;
+  - 3\. le cas échéant, les listes électorales imprimées;
+  - 4\. le cas échéant, une brochure explicative.
 
 <sup>2</sup> La personne qui n'a pas reçu le certificat de capacité civique ou le matériel de vote, ou qui l'a égaré, peut le demander au secrétariat communal ou au bureau électoral lors du scrutin.
 
@@ -216,11 +218,11 @@ Arrête:
 - a) la mention selon laquelle la personne doit apposer sa signature de sa main;
 - b) la mention selon laquelle la personne qui participe à un scrutin sans en avoir le droit, notamment en utilisant un certificat de capacité civique qui ne lui est pas destiné ou en contrefaisant une signature, peut être punie d'une peine privative de liberté de trois ans au plus ou d'une peine pécuniaire, en application de l'article 282 du code pénal suisse.
 
-<sup>2</sup> Dès leur réception au secrétariat communal, les enveloppes-réponses doivent être enregistrées et déposées dans une urne scellée et distincte. Cette urne est remise au président ou à la présidente du bureau électoral au début des opérations de dépouillement (art. 16a al. 2), accompagnée d'un procès-verbal indiquant le nombre des votes exprimés de manière anticipée (bulletins rentrés).
+<sup>2</sup> Dès leur réception au secrétariat communal, les enveloppes-réponses peuvent être ouvertes aux fins d'enregistrement et de vérification de la citoyenneté active des votants et votantes. Elles doivent ensuite être enregistrées et déposées dans une urne scellée et distincte. Cette urne est remise au président ou à la présidente du bureau électoral au début des opérations de dépouillement (art. 16a al. 2), accompagnée d'un procès-verbal indiquant le nombre des votes exprimés de manière anticipée (bulletins rentrés).
 
 <sup>3</sup> Les enveloppes-réponses qui ne peuvent pas être enregistrées doivent être conservées séparément, dans un lieu sécurisé, et remises, pour dépouillement, au président ou à la présidente du bureau électoral au début des opérations de dépouillement (art. 16a al. 2). Le bureau électoral se détermine sur la validité du vote (art. 18 al. 2 LEDP).
 
-<sup>4</sup> Les enveloppes-réponses ne peuvent être ouvertes qu'à partir du début des opérations de dépouillement (art. 16a al. 2). Le sceau communal est alors apposé sur le matériel de vote, et l'enveloppe de vote contenant le bulletin de vote ou la liste électorale est déposée dans l'urne.
+<sup>4</sup> …
 
 #### Art. 15
 
@@ -258,13 +260,13 @@ Arrête:
 
 #### Art. 17
 
-**Bulletins nuls, listes électorales nulles et enveloppes-réponses refusées**
+**Bulletins électoraux officiels nuls, listes électorales nulles et enveloppes-réponses refusées**
 
-<sup>1</sup> Lorsque plusieurs bulletins ou listes insérés dans une même enveloppe sont identiques, un seul est validé et les exemplaires surnuméraires sont déclarés nuls.
+<sup>1</sup> Lorsque plusieurs bulletins électoraux officiels ou listes électorales insérés dans l'enveloppe de vote sont identiques, un seul est validé et les exemplaires surnuméraires sont déclarés nuls.
 
-<sup>2</sup> Lorsqu'un bulletin ou une liste électorale sont insérés dans l'enveloppe qui ne leur est pas destinée, ils sont déclarés nuls.
+<sup>2</sup> …
 
-<sup>3</sup> Les enveloppes-réponses refusées en application de l'article 18 al. 3 let. a, 2<sup>e</sup> phr., LEDP ne sont pas ouvertes. Elles sont enregistrées comme refusées dans le procès-verbal au sens de l'article 14 al. 2.
+<sup>3</sup> Les enveloppes-réponses refusées en application de l'article 18 al. 3 let. a, 2<sup>e</sup> phr., LEDP sont enregistrées comme refusées dans le procès-verbal au sens de l'article 14 al. 2.
 
 #### Art. 18
 
@@ -273,7 +275,7 @@ Arrête:
 <sup>1</sup> Les formules officielles prévues pour la tenue du procès-verbal des résultats sont établies:
 
 - a) par la Chancellerie d'Etat pour les résultats cantonaux;
-- b) par les préfectures pour les résultats des élections au Grand Conseil et à la fonction de préfet;
+- b) par les préfectures pour les résultats des élections au Grand Conseil et à la fonction de préfet ou de préfète;
 - c) par les bureaux électoraux communaux pour les résultats communaux.
 
 #### Art. 19
@@ -282,7 +284,9 @@ Arrête:
 
 <sup>1</sup> Un exemplaire du procès-verbal des opérations du bureau électoral concernant chaque scrutin est conservé dans les archives de la commune.
 
-<sup>2</sup> Un exemplaire du procès-verbal des résultats concernant chaque scrutin est conservé dans les archives de la Chancellerie d'Etat ou de la commune.
+<sup>2</sup> Un exemplaire du procès-verbal cantonal des résultats concernant chaque scrutin fédéral et cantonal est conservé dans les archives de la Chancellerie d'Etat .
+
+<sup>2a</sup> Un exemplaire du procès-verbal des résultats concernant chaque scrutin communal est conservé dans les archives de la commune.
 
 <sup>3</sup> Les pièces relatives aux votations et aux élections (enveloppes, bulletins, listes, tableaux récapitulatifs, certificats de capacité civique et autres) sont conservées à la commune.
 
@@ -308,15 +312,22 @@ Arrête:
 
 #### Art. 21
 
-**Contenu des listes électorales distribuées (art. 39 LEDP)**
+**Contenu des listes électorales officielles et des bulletins électoraux officiels (art. 39 LEDP)**
 
-<sup>1</sup> Les listes électorales imprimées, publiées par l'autorité et adressées aux électeurs et électrices comprennent les mentions suivantes:
+<sup>1</sup> Les listes électorales officielles publiées par l'autorité et adressés aux électeurs et électrices comprennent les mentions suivantes:
 
 - a) le numéro de la liste et la dénomination de la liste;
 - b) la numérotation des personnes candidates;
 - c) le nom;
 - d) le prénom;
 - e) le cas échéant, toute autre indication propre à identifier ou à distinguer la personne candidate.
+
+<sup>1a</sup> Les bulletins électoraux officiels, publiés par l'autorité et adressés aux électeurs et électrices comprennent les mentions suivantes:
+
+- a) le numéro et la dénomination du parti ou de l'alliance;
+- b) le nom;
+- c) le prénom;
+- d) le cas échéant, tout autre indication propre à identifier ou à distinguer la personne candidate.
 
 <sup>2</sup> Les listes électorales en blanc comprennent des «champs» vierges correspondant aux mentions des listes imprimées.
 
@@ -326,7 +337,7 @@ Arrête:
 
 <sup>1</sup> La Chancellerie d'Etat peut émettre des directives en vue de l'attribution des numéros d'ordre aux partis politiques ou groupes d'électeurs et électrices reconnus, dans le cadre des élections fédérales ou cantonales.
 
-<sup>2</sup> Seules les listes officielles (listes électorales définitives) sont portées à la connaissance du public. Elles le sont par affichage au pilier public ou par tout autre moyen approprié.
+<sup>2</sup> Seuls les listes officielles (listes électorales définitives) ainsi que les bulletins électoraux officiels sont portés à la connaissance du public. Ils le sont par affichage au pilier public ou par tout autre moyen approprié.
 
 #### Art. 23
 
@@ -370,11 +381,11 @@ Arrête:
 
 #### Art. 26
 
-**Election sans dépôt de listes à un tour de scrutin (art. 81 et 82 LEDP)**
+**Election ouverte (art. 81 et 82 LEDP)**
 
 <sup>1</sup> L'autorité informe les personnes éligibles ayant obtenu des suffrages et leur indique leur rang dans la liste des résultats.
 
-<sup>2</sup> L'autorité demande expressément aux personnes ayant obtenu des suffrages si elles acceptent une élection et attire leur attention sur le fait que tout défaut de réponse dans le délai imparti sera considéré comme un refus de l'élection.
+<sup>2</sup> L'autorité demande expressément aux personnes élues au sens de l'article 82 al. 1 LEDP si elles acceptent une élection et attire leur attention sur le fait que tout défaut de réponse dans le délai imparti sera considéré comme un refus de l'élection.
 
 <sup>3</sup> L'autorité peut ne contacter que les personnes ayant obtenu un nombre notable de suffrages, lorsque le nombre des personnes ayant obtenu des suffrages est important. Toutefois, si le nombre des personnes acceptant leur élection ne permet pas de pourvoir les sièges vacants, les suivantes sont alors invitées à se déterminer.
 
@@ -382,7 +393,7 @@ Arrête:
 
 #### Art. 27
 
-**Election sans dépôt de listes à deux tours de scrutin (art. 90 et 100 LEDP)**
+**Election ouverte à deux tours de scrutin (art. 90 LEDP)**
 
 <sup>1</sup> Au terme du premier tour de scrutin, l'autorité informe par écrit les personnes ayant obtenu la majorité absolue de leur élection et leur demande expressément si elles acceptent leur élection. Elle attire leur attention sur le fait que tout défaut de réponse dans le délai imparti sera considéré comme un refus de l'élection.
 
@@ -394,9 +405,9 @@ Arrête:
 
 #### Art. 27a
 
-**Candidatures de remplacement (art. 91 al. 1 et 2 LEDP)**
+**Second tour de scrutin (art. 91 al. 1 et 2 LEDP)**
 
-<sup>1</sup> En principe en même temps qu'elles retirent leur candidature, les personnes qui auraient pu prendre rang pour le second tour de scrutin informent l'autorité désignée à l'article 91 al. 1 let. a, b ou c LEDP si une candidature de remplacement est envisagée par les signataires de sa liste électorale.
+<sup>1</sup> Le mandataire d'une liste électorale dont une personne candidate qui aurait pu prendre rang pour le second tour de scrutin est devenue inéligible en informe l'autorité dès l'inéligibilité connue. Il informe en même temps l'autorité si une candidature de remplacement est envisagée par les signataires de sa liste électorale.
 
 #### Art. 28
 
@@ -420,7 +431,7 @@ Arrête:
 
 **Contrôle des listes de signatures (art. 108 LEDP)**
 
-<sup>1</sup> Le contrôle des signatures déposées à l'appui d'une initiative, d'une annonce de demande de referendum ou d'une demande de referendum doit se faire au moyen d'un exemplaire du registre électoral tiré pour cette occasion, sur lequel le nom des personnes signataires est tracé.
+<sup>1</sup> Le contrôle des signatures déposées à l'appui d'une initiative, d'une annonce de demande de referendum ou d'une demande de referendum doit se faire au moyen d'un exemplaire du registre électoral tiré pour cette occasion ou par tout autre moyen, sur lequel le nom des personnes signataires est marqué ou tracé.
 
 <sup>2</sup> L'exemplaire du registre électoral est conservé pendant un délai de six mois après le contrôle. Passé ce délai, il peut être détruit.
 

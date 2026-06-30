@@ -4,13 +4,12 @@ number: "115.11"
 title: Reglement über die Ausübung der politischen Rechte
 short: PRR
 language: de
-version: 2024-12-01
-valid_until: 2026-06-30
-version_adopted: 2024-11-05
+version: 2026-07-01
+version_adopted: 2026-06-09
 adopted: 2001-07-10
 in_force: 2001-08-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/115.11"
-pdf: "https://bdlf.fr.ch/api/de/versions/8074/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/8621/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ Politische Rechte – R
 
 (PRR)
 
-vom 10.07.2001 (Fassung in Kraft getreten am 01.12.2024)
+vom 10.07.2001 (Fassung in Kraft getreten am 01.07.2026)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -121,24 +120,25 @@ beschliesst:
 
 <sup>2</sup> Die Staatskanzlei ist für die Arbeiten in Zusammenhang mit der Durchführung der Urnengänge und ihrer Auszählung, insbesondere für die Vorbereitung der Einberufungsbeschlüsse, die Veröffentlichung der Ergebnisse sowie die Wahl und die Implementierung von Computersoftware, zuständig.
 
-<sup>3</sup> Der Oberamtmann stellt die Aufsicht über den ordnungsgemässen Ablauf aller Urnengänge sicher.
+<sup>3</sup> Die Oberamtsperson gewährleistet den ordnungsgemässen Ablauf aller Urnengänge.
 
 <sup>4</sup> Die vorerwähnten Behörden arbeiten zusammen, so dass der reibungslose Ablauf der Urnengänge gewährleistet ist.
 
 #### Art. 8
 
-**Abgabe des Stimm- und Wahlmaterials an die Gemeinden (Art. 10 und 12 PRG)**
+**Abgabe des Stimmmaterials an die Gemeinden (Art. 10 und 12 PRG)**
 
 <sup>1</sup> Die Staatskanzlei liefert den Gemeinden je nach Urnengang:
 
 - a) die Stimmzettel;
 - b) die leeren und gedruckten Wahllisten oder die Maske der Wahllisten;
 - c) die Stimmcouverts;
-- d) die Antwortcouverts gegen Rechnung.
+- d) die Antwortcouverts gegen Rechnung;
+- e) die amtlichen Wahlzettel.
 
 <sup>2</sup> Die Übernahme der Druckkosten für die Wahllisten oder ihre Maske sowie ihre Verteilung werden in den Artikeln 38 und 40 PRG geregelt.
 
-<sup>3</sup> Die Vorschriften von Artikel 22c PRG in Zusammenhang mit der Herstellung von Stimmzetteln, die mit optischen Lesegeräten kompatibel sind, bleiben vorbehalten.
+<sup>3</sup> Die in Art. 22c PRG vorgesehenen Vorschriften in Zusammenhang mit der Herstellung von mit technischen Mitteln kompatiblen Stimmzetteln bleiben vorbehalten.
 
 #### Art. 9
 
@@ -161,25 +161,27 @@ beschliesst:
 
 **Stimmmaterial (Art. 12 PRG)**
 
-<sup>1</sup> Das Stimmmaterial umfasst:
+<sup>1</sup> Das Stimm- und Informationsmaterial umfasst ein Stimmcouvert, in das alle ausgefüllten Stimmzettel und Wahlzettel einzulegen sind, sowie:
 
 - a) bei kantonalen Abstimmungen:
   - 1\. ein Exemplar des zur Abstimmung unterbreiteten Gesetzes oder Dekrets;
-  - 2\. ein Stimmcouvert;
+  - 2\. …
   - 3\. einen leeren Stimmzettel;
-  - 4\. die Erläuterungen des Staatsrates.
+  - 4\. die Abstimmungsbroschüre des Staatsrats;
 - b) bei kantonalen Wahlen:
-  - 1\. ein Stimmcouvert;
-  - 2\. eine leere Wahlliste;
+  - 1\. …
+  - 2\. gegebenenfalls einen amtlichen Wahlzettel;
   - 3\. gegebenenfalls die gedruckten Wahllisten.
 - c) bei Gemeindeabstimmungen:
   - 1\. die Unterlagen zu dem zur Abstimmung unterbreiteten Erlass;
-  - 2\. ein Stimmcouvert;
+  - 2\. …
   - 3\. einen leeren Stimmzettel.
+  - 4\. die Abstimmungsbroschüre des Gemeinderats;
 - d) bei Gemeindewahlen:
-  - 1\. ein Stimmcouvert;
-  - 2\. eine leere Wahlliste;
-  - 3\. gegebenenfalls die gedruckten Wahllisten.
+  - 1\. …
+  - 2\. gegebenenfalls einen amtlichen Wahlzettel;
+  - 3\. gegebenenfalls die gedruckten Wahllisten;
+  - 4\. gegebenenfalls eine Abstimmungsbroschüre.
 
 <sup>2</sup> Wer den Stimmrechtsausweis oder das Stimmmaterial nicht erhalten oder verloren hat, kann beides auf der Gemeindeschreiberei oder während des Urnengangs im Wahlbüro beziehen.
 
@@ -216,11 +218,11 @@ beschliesst:
 - a) den Vermerk, dass die Person den Stimmrechtsausweis eigenhändig unterschreiben muss;
 - b) den Vermerk, wonach in Anwendung von Artikel 282 des Schweizerischen Strafgesetzbuchs mit einer Freiheitsstrafe bis zu drei Jahren oder einer Geldstrafe bestraft werden kann, wer unbefugt an einer Abstimmung teilnimmt, insbesondere einen nicht für ihn bestimmten Stimmrechtsausweis verwendet oder eine Unterschrift fälscht.
 
-<sup>2</sup> Die Antwortcouverts müssen sogleich nach ihrem Eintreffen auf der Gemeindeschreiberei registriert und in eine separate, verschlossene Urne gelegt werden. Diese wird zusammen mit einem Protokoll, das die Zahl der vorzeitig abgegebenen Stimmen (eingegangene Stimmzettel) angibt, am Beginn der Auszählung (Art. 16a Abs. 2) der Präsidentin oder dem Präsidenten des Wahlbüros übergeben.
+<sup>2</sup> Die Antwortcouverts können ab ihrem Erhalt bei der Gemeindeschreiberei geöffnet werden, um sie zu erfassen und die Stimmberechtigung der Stimmenden zu überprüfen. Anschliessend müssen sie registriert und in eine separate, verschlossene Urne gelegt werden. Diese wird zusammen mit einem Protokoll, das die Zahl der vorzeitig abgegebenen Stimmen (eingegangene Stimmzettel) angibt, am Beginn der Auszählung (Art. 16a Abs. 2) der Präsidentin oder dem Präsidenten des Wahlbüros übergeben.
 
 <sup>3</sup> Die Antwortcouverts, die nicht registriert werden können, müssen separat an einem sicheren Ort aufbewahrt werden und der Präsidentin oder dem Präsidenten des Wahlbüros zu Beginn der Auszählung zur Auszählung übergeben werden (Artikel 16a Abs. 2). Das Wahlbüro entscheidet über die Gültigkeit der Stimme (Art. 18 Abs. 2 PRG).
 
-<sup>4</sup> Die Antwortcouverts können erst beim Beginn der Auszählung (Art. 16a Abs. 2) geöffnet werden. Der Gemeindestempel wird dann auf dem Stimmmaterial angebracht und das Stimmcouvert, das den Stimmzettel oder die Wahlliste enthält, wird in die Urne gelegt.
+<sup>4</sup> …
 
 #### Art. 15
 
@@ -258,13 +260,13 @@ beschliesst:
 
 #### Art. 17
 
-**Ungültige Stimmzettel und Wahllisten, zurückgewiesene Antwortcouverts**
+**Ungültige amtliche Wahlzettel und Wahllisten, zurückgewiesene Antwortcouverts**
 
-<sup>1</sup> Enthält ein Couvert mehrere gleich lautende Stimmzettel oder Listen, so ist nur einer bzw. eine gültig; die übrigen werden für ungültig erklärt.
+<sup>1</sup> Enthält ein Stimmcouvert mehrere gleich lautende amtliche Wahlzettel oder Wahllisten, so ist nur einer bzw. eine gültig; die übrigen werden für ungültig erklärt.
 
-<sup>2</sup> Wird ein Stimmzettel oder eine Wahlliste in einem nicht für ihn oder sie bestimmten Couvert abgegeben, so ist er oder sie ungültig.
+<sup>2</sup> …
 
-<sup>3</sup> Die Antwortcouverts, die in Anwendung von Artikel 18 Abs. 3 Bst. a, 2. Satz, PRG zurückgewiesen werden, werden nicht geöffnet. Sie werden im Protokoll im Sinne von Artikel 14 Abs. 2 als zurückgewiesen vermerkt.
+<sup>3</sup> Die Antwortcouverts, die in Anwendung von Artikel 18 Abs. 3 Bst. a, 2. Satz PRG zurückgewiesen werden, werden im Protokoll im Sinne von Artikel 14 Abs. 2 als zurückgewiesen vermerkt.
 
 #### Art. 18
 
@@ -273,7 +275,7 @@ beschliesst:
 <sup>1</sup> Die amtlichen Formulare für das Protokoll der Ergebnisse werden erstellt:
 
 - a) von der Staatskanzlei für die kantonalen Ergebnisse;
-- b) von den Oberämtern für die Ergebnisse der Wahlen in den Grossen Rat und das Amt des Oberamtmanns;
+- b) von den Oberämtern für die Ergebnisse der Wahlen in den Grossen Rat und das Amt der Oberamtsperson;
 - c) von den Wahlbüros der Gemeinden für die kommunalen Ergebnisse.
 
 #### Art. 19
@@ -282,7 +284,9 @@ beschliesst:
 
 <sup>1</sup> Ein Exemplar des Protokolls über die Handlungen des Wahlbüros bei jedem Urnengang wird im Gemeindearchiv aufbewahrt.
 
-<sup>2</sup> Ein Exemplar des Protokolls über die Ergebnisse jedes Urnengangs wird im Archiv der Staatskanzlei oder der Gemeinde aufbewahrt.
+<sup>2</sup> Ein Exemplar des kantonalen Protokolls über die Ergebnisse jedes eidgenössischen und kantonalen Urnengangs wird im Archiv der Staatskanzlei aufbewahrt.
+
+<sup>2a</sup> Ein Exemplar des Protokolls über die Ergebnisse jedes kommunalen Urnengangs wird im Gemeindearchiv aufbewahrt.
 
 <sup>3</sup> Die Akten der Abstimmungen und Wahlen (Couverts, Stimmzettel, Listen, Rekapitulationstabellen, Stimmrechtsausweise usw.) werden bei der Gemeinde aufbewahrt.
 
@@ -308,15 +312,22 @@ beschliesst:
 
 #### Art. 21
 
-**Inhalt der ausgehändigten Wahllisten (Art. 39 PRG)**
+**Inhalt der amtlichen Wahllisten und der amtlichen Wahlzettel (Art. 39 PRG)**
 
-<sup>1</sup> Die von der Behörde gedruckten und veröffentlichten Wahllisten, die den Stimmberechtigten zugestellt werden, enthalten folgende Angaben:
+<sup>1</sup> Die von der Behörde veröffentlichten amtlichen Wahllisten, die den Stimmberechtigten zugestellt werden, enthalten folgende Angaben:
 
 - a) die Listennummer und die Listenbezeichnung;
 - b) die Nummerierung der Kandidatinnen und Kandidaten;
 - c) den Namen;
 - d) den Vornamen;
 - e) gegebenenfalls andere geeignete Angaben, um die kandidierende Person zu identifizieren und von den übrigen Kandidatinnen und Kandidaten zu unterscheiden.
+
+<sup>1a</sup> Die von der Behörde veröffentlichten amtlichen Wahlzettel, die den Stimmberechtigten zugestellt werden, enthalten folgende Angaben:
+
+- a) die Nummer und die Bezeichnung der Partei oder des Bündnisses;
+- b) den Namen;
+- c) den Vornamen;
+- d) gegebenenfalls andere geeignete Angaben, um die kandidierende Person zu identifizieren und von den übrigen Kandidatinnen und Kandidaten zu unterscheiden.
 
 <sup>2</sup> Die leeren Wahllisten enthalten anstelle der Angaben auf den gedruckten Wahllisten leere Felder.
 
@@ -326,7 +337,7 @@ beschliesst:
 
 <sup>1</sup> Die Staatskanzlei kann bei den eidgenössischen und kantonalen Wahlen Weisungen für die Vergabe der Ordnungsnummern an die anerkannten politischen Parteien oder Wählergruppen erlassen.
 
-<sup>2</sup> Nur die amtlichen Listen (endgültige Wahllisten) werden öffentlich bekannt gemacht. Sie werden öffentlich angeschlagen oder auf eine andere geeignete Weise veröffentlicht.
+<sup>2</sup> Nur die amtlichen Listen (endgültige Wahllisten) und die amtlichen Wahlzettel werden öffentlich bekannt gemacht. Sie werden öffentlich angeschlagen oder auf eine andere geeignete Weise veröffentlicht.
 
 #### Art. 23
 
@@ -370,11 +381,11 @@ beschliesst:
 
 #### Art. 26
 
-**Wahl in einem Wahlgang ohne Einreichung von Listen (Art. 81 und 82 PRG)**
+**Offene Wahl (Art. 81 und 82 PRG)**
 
 <sup>1</sup> Die Behörde informiert die wählbaren Personen, die Stimmen erhalten haben, und teilt ihnen mit, welchen Platz sie auf der Liste der Ergebnisse einnehmen.
 
-<sup>2</sup> Die Behörde fragt die Personen, die Stimmen erhalten haben, ausdrücklich, ob sie die Wahl annehmen, und macht sie darauf aufmerksam, dass das Ausbleiben einer fristgerechten Antwort als Wahlverzicht gilt.
+<sup>2</sup> Die Behörde fragt die nach Artikel 82 Abs. 1 PRG gewählten Personen ausdrücklich, ob sie die Wahl annehmen, und macht sie darauf aufmerksam, dass das Ausbleiben einer fristgerechten Antwort als Wahlverzicht gilt.
 
 <sup>3</sup> Wenn viele Personen Stimmen erzielt haben, kann sich die Behörde darauf beschränken, lediglich die Personen zu kontaktieren, die eine erhebliche Stimmenzahl erhalten haben. Können nicht alle freien Sitze besetzt werden, weil nicht genügend Personen die Wahl annehmen, so werden die nachfolgenden kontaktiert.
 
@@ -382,7 +393,7 @@ beschliesst:
 
 #### Art. 27
 
-**Wahl in zwei Wahlgängen ohne Einreichung von Listen (Art. 99 und 100 PRG)**
+**Offene Wahl in zwei Wahlgängen (Art. 90 PRG)**
 
 <sup>1</sup> Nach dem ersten Wahlgang informiert die Behörde die Personen, die das absolute Mehr erreicht haben, schriftlich und fragt sie ausdrücklich, ob sie die Wahl annehmen. Sie macht sie darauf aufmerksam, dass das Ausbleiben einer fristgerechten Antwort als Wahlverzicht gilt.
 
@@ -394,9 +405,9 @@ beschliesst:
 
 #### Art. 27a
 
-**Ersatzkandidaturen (Art. 91 Abs. 1 und 2 PRG)**
+**Zweiter Wahlgang (Art. 91 Abs. 1 und 2 PRG)**
 
-<sup>1</sup> Personen, die zum zweiten Wahlgang zugelassen wären, aber ihre Kandidatur zurückziehen, informieren die Behörde nach Artikel 91 Abs. 1 Bst. a, b oder c PRG grundsätzlich gleichzeitig mit ihrer Verzichtserklärung darüber, ob die Unterzeichnerinnen und Unterzeichner ihrer Liste eine Ersatzkandidatur erwägen.
+<sup>1</sup> Die bevollmächtigte Person einer Wahlliste, auf der eine Person, die zum zweiten Wahlgang zugelassen wäre, nicht mehr wählbar ist, muss die Behörde darüber informieren, sobald die Nichtwählbarkeit bekannt ist. Sie informiert die Behörde gleichzeitig darüber, ob die Unterzeichnerinnen und Unterzeichner ihrer Liste eine Ersatzkandidatur erwägen.
 
 #### Art. 28
 
@@ -420,7 +431,7 @@ beschliesst:
 
 **Kontrolle der Unterschriftenbogen (Art. 108 PRG)**
 
-<sup>1</sup> Die Unterschriften, die zur Unterstützung einer Initiative, einer Ankündigung eines Referendumsbegehrens oder eines Referendumsbegehrens eingereicht wurden, müssen anhand einer dafür erstellten Kopie des Stimmregisters kontrolliert werden, auf der die Namen der Unterzeichnerinnen und Unterzeichner gestrichen werden.
+<sup>1</sup> Die Unterschriften, die zur Unterstützung einer Initiative, einer Ankündigung eines Referendumsbegehrens oder eines Referendumsbegehrens eingereicht wurden, müssen anhand einer dafür erstellten Kopie des Stimmregisters oder auf eine andere Weise kontrolliert werden, wobei die Namen der Unterzeichnerinnen und Unterzeichner markiert oder gestrichen werden.
 
 <sup>2</sup> Die Kopie des Stimmregisters wird nach der Kontrolle während sechs Monaten aufbewahrt. Danach kann sie vernichtet werden.
 
