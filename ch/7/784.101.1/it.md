@@ -4,11 +4,11 @@ title: Ordinanza del 9 marzo 2007 sui servizi di telecomunicazione (OST)
 short: OST
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/166"
 language: it
-version: 2026-03-01
+version: 2026-07-01
 adopted: 2007-03-09
 in_force: 2007-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/166/20260301/it/xml/fedlex-data-admin-ch-eli-cc-2007-166-20260301-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/166/20260301/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/166/20260701/it/xml/fedlex-data-admin-ch-eli-cc-2007-166-20260701-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/166/20260701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/166/20260301/it"
 
 (OST)
 
-del 9 marzo 2007 (Stato 1° marzo 2026)
+del 9 marzo 2007 (Stato 1° luglio 2026)
 
 Il Consiglio federale svizzero,
 
@@ -647,9 +647,15 @@ L’invio periodico della fattura cartacea deve essere gratuito per i clienti ch
 
 [^chap4-1]: Originario avanti art. 27.
 
+### Sezione 1: Indicazione del numero chiamante
+
+[^chap4-sec1-1]
+
+[^chap4-sec1-1]: Introdotta dalla cifra I dell’O del 6 mag. 2026, in vigore dal 1° lug. 2026 ([RU 2026 243](https://fedlex.data.admin.ch/eli/oc/2026/243)).
+
 #### Art. 26a
 
-**Indicazione del numero chiamante**[^26a-1]
+**...[^26a-2]**[^26a-1]
 
 <sup>1</sup> I fornitori del servizio telefonico pubblico che stabiliscono collegamenti devono assicurarsi che almeno un numero chiamante del piano svizzero di numerazione E.164 sia trasmesso come numero di chiamata del collegamento chiamante.
 
@@ -657,88 +663,154 @@ L’invio periodico della fattura cartacea deve essere gratuito per i clienti ch
 
 <sup>3</sup> I fornitori del servizio telefonico pubblico possono permettere ai loro clienti di indicare altri numeri telefonici al momento di stabilire il collegamento a condizione che detti clienti possano dimostrare di avere un diritto d’utilizzazione. Se sono a conoscenza del fatto che i loro clienti trasmettono numeri di chiamata senza possedere un diritto d’utilizzazione, i fornitori devono prendere le misure necessarie per impedire la trasmissione di tali numeri.
 
-<sup>3bis</sup> Se un cliente rende verosimile il fatto che terzi utilizzano il suo numero di telefono senza autorizzazione, i fornitori del servizio telefonico pubblico possono, in accordo con il cliente, bloccare tutte le chiamate per le quali è stato indicato il suo numero. Fanno eccezione le chiamate che provengono realmente dal numero del cliente in questione.[^26a-2]
+<sup>3bis</sup> Se un cliente rende verosimile il fatto che terzi utilizzano il suo numero di telefono senza autorizzazione, i fornitori del servizio telefonico pubblico possono, in accordo con il cliente, bloccare tutte le chiamate per le quali è stato indicato il suo numero. Fanno eccezione le chiamate che provengono realmente dal numero del cliente in questione.[^26a-3]
 
 <sup>4</sup> I numeri telefonici indicati devono essere provvisti di una segnalazione che riveli se si basano sui dati indicati dal cliente chiamante o sulle informazioni del fornitore del collegamento e se quest’ultimo ha verificato i dati forniti dal cliente.
 
 <sup>5</sup> I numeri telefonici dei gruppi 0900, 0901 e 0906 non possono essere trasmessi quali numeri chiamanti.
 
-<sup>6</sup> Se i fornitori sono a conoscenza del fatto che un numero trasmesso non è valido o viene impiegato senza possedere un diritto d’utilizzazione o che si tratta di un numero di cui al capoverso 5, devono prendere le misure necessarie e coordinarle per impedire la trasmissione di tali numeri o per bloccare la chiamata.[^26a-3]
+<sup>6</sup> Se i fornitori sono a conoscenza del fatto che un numero trasmesso non è valido o viene impiegato senza possedere un diritto d’utilizzazione o che si tratta di un numero di cui al capoverso 5, devono prendere le misure necessarie e coordinarle per impedire la trasmissione di tali numeri o per bloccare la chiamata.[^26a-4]
 
 [^26a-1]: Introdotto dalla cifra I dell’O del 4 nov. 2009, in vigore dal 1° gen. 2010 ([RU 2009 5821](https://fedlex.data.admin.ch/eli/oc/2009/703)).
-[^26a-2]: Introdotto dalla cifra I dell’O del 5 nov. 2014, in vigore dal 1° gen. 2015 ([RU 2014 4161](https://fedlex.data.admin.ch/eli/oc/2014/697)).
-[^26a-3]: Introdotto dalla cifra I dell’O del 18 nov. 2020, in vigore dal 1° lug. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+[^26a-2]: Abrogato dalla cifra I dell’O del 6 mag. 2026, con effetto dal 1° lug. 2026 ([RU 2026 243](https://fedlex.data.admin.ch/eli/oc/2026/243)).
+[^26a-3]: Introdotto dalla cifra I dell’O del 5 nov. 2014, in vigore dal 1° gen. 2015 ([RU 2014 4161](https://fedlex.data.admin.ch/eli/oc/2014/697)).
+[^26a-4]: Introdotto dalla cifra I dell’O del 18 nov. 2020, in vigore dal 1° lug. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+
+### Sezione 2: Servizi d’emergenza, di assistenza e consulenza
+
+[^chap4-sec2-1]
+
+[^chap4-sec2-1]: Introdotta dalla cifra I dell’O del 6 mag. 2026, in vigore dal 1° lug. 2026 ([RU 2026 243](https://fedlex.data.admin.ch/eli/oc/2026/243)).
 
 #### Art. 27
 
-**Accesso ai servizi di chiamata d’emergenza**[^27-1]
+**Accesso**[^27-1]
 
-<sup>1</sup> L’accesso ai servizi di chiamata d’emergenza di cui all’articolo 28 dell’ordinanza del 6 ottobre 1997[^27-2] concernente gli elementi d’indirizzo nel settore delle telecomunicazioni (ORAT) va garantito gratuitamente da ogni collegamento telefonico. Soltanto per l’assistenza telefonica per adulti è possibile riscuotere una tassa forfettaria di 20 centesimi per chiamata.
+<sup>1</sup>
 
-<sup>2</sup> I fornitori di servizi di telecomunicazione mobile via satellite del servizio universale ai quali l’Unione internazionale delle telecomunicazioni ha attribuito elementi d’indirizzo devono unicamente garantire l’accesso gratuito al numero d’emergenza europeo.
+I fornitori del servizio telefonico pubblico devono garantire da ogni collegamento telefonico l’accesso diretto:
 
-[^27-1]: Nuovo testo giusta la cifra I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+- a. ai servizi d’emergenza di cui all’articolo 28 dell’ordinanza del 6 ottobre 1997[^27-2] concernente gli elementi d’indirizzo nel settore delle telecomunicazioni (ORAT);
+- b. ai servizi di assistenza e consulenza di cui all’articolo 28*a* ORAT;
+- c. ai servizi di soccorso aereo di cui all’articolo 29 ORAT; e
+- d. ai servizi armonizzati a livello europeo di cui all’articolo 31*b* ORAT.
+
+<sup>2</sup> Devono garantirne l’accesso gratuito.
+
+<sup>3</sup> I fornitori di servizi di radiocomunicazione mobile via satellite del servizio universale ai quali l’Unione internazionale delle telecomunicazioni ha attribuito elementi d’indirizzo devono unicamente garantire l’accesso gratuito al numero d’emergenza europeo (art. 28 cpv. 1 lett. a ORAT).
+
+[^27-1]: Nuovo testo giusta la cifra I dell’O del 6 mag. 2026, in vigore dal 1° lug. 2026 ([RU 2026 243](https://fedlex.data.admin.ch/eli/oc/2026/243)).
 [^27-2]: [RS 784.104](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9196)
 
 #### Art. 28
 
-**Istradamento delle chiamate d’emergenza**[^28-1]
+**Istradamento**[^28-1]
 
-I fornitori del servizio telefonico pubblico devono garantire l’istradamento delle chiamate d’emergenza ai servizi di chiamata d’emergenza di cui all’articolo 28 ORAT[^28-2].
+<sup>1</sup> I fornitori del servizio telefonico pubblico devono garantire l’istradamento delle chiamate alle centrali dei servizi di cui agli articoli 28–29 ORAT[^28-2].
 
-[^28-1]: Nuovo testo giusta la cifra I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+<sup>2</sup> Devono garantire che le chiamate ai servizi armonizzati a livello europeo di cui all’articolo 31*b* ORAT possano essere ricevute dalle stesse centrali che ricevono le chiamate ai servizi corrispondenti di cui agli articoli 28–29 ORAT.
+
+[^28-1]: Nuovo testo giusta la cifra I dell’O del 6 mag. 2026, in vigore dal 1° lug. 2026 ([RU 2026 243](https://fedlex.data.admin.ch/eli/oc/2026/243)).
 [^28-2]: [RS 784.104](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9196)
+
+#### Art. 28a
+
+**Obblighi dei fornitori concernenti i servizi d’emergenza**[^28a-1]
+
+<sup>1</sup> I fornitori del servizio telefonico pubblico devono dare priorità all’accesso ai servizi d’emergenza rispetto ad altre chiamate.
+
+<sup>2</sup> L’accesso non può essere interrotto da servizi di telecomunicazione aventi priorità nell’ambito della comunicazione a garanzia della sicurezza (art. 90 cpv. 2).
+
+<sup>3</sup> I fornitori devono adottare, mediante mezzi tecnici adeguati, provvedimenti finalizzati a impedire che lo stabilimento regolare delle chiamate verso le centrali dei servizi d’emergenza sia ostacolato, in particolare da chiamate errate.
+
+<sup>4</sup> Devono informarsi reciprocamente quando l’accesso ai servizi d’emergenza è ostacolato e, al fine di porvi rimedio, deve essere identificato il fornitore che stabilisce le chiamate errate.
+
+<sup>5</sup> Allo scopo di garantire la disponibilità dei servizi d’emergenza, possono escludere temporaneamente i clienti dalla rete di telecomunicazione. Devono informare immediatamente i clienti in merito alla loro esclusione dalla rete, a condizione che siano raggiungibili.
+
+<sup>6</sup> Nel servizio telefonico pubblico, i concessionari di radiocomunicazione mobile devono garantire l’accesso ai servizi d’emergenza anche tramite testo in tempo reale (*Real Time Text*, RTT).
+
+[^28a-1]: Introdotto dalla cifra I dell’O del 6 mag. 2026, in vigore dal 1° lug. 2026 ([RU 2026 243](https://fedlex.data.admin.ch/eli/oc/2026/243)).
+
+### Sezione 3: Localizzazione
+
+[^chap4-sec3-1]
+
+[^chap4-sec3-1]: Introdotta dalla cifra I dell’O del 6 mag. 2026, in vigore dal 1° lug. 2026 ([RU 2026 243](https://fedlex.data.admin.ch/eli/oc/2026/243)).
 
 #### Art. 29
 
-**Localizzazione delle chiamate d’emergenza: in generale**[^29-1]
+**Principi**[^29-1]
 
-<sup>1</sup> Purché la tecnica scelta lo consenta, deve essere garantita online la possibilità di localizzare le chiamate ai servizi di chiamata d’emergenza di cui all’articolo 28 ORAT[^29-2]. Questo vale anche per i clienti che hanno rinunciato all’iscrizione negli elenchi pubblici.
+<sup>1</sup> Purché la tecnica scelta lo consenta, deve essere garantita in tempo reale la possibilità di localizzare le chiamate ai servizi d’emergenza.
 
-<sup>2</sup> In caso di una chiamata d’emergenza le funzioni di localizzazione integrate nei dispositivi possono essere attivate anche senza l’esplicito consenso dei clienti. Purché la tecnica scelta lo consenta, esse vanno disattivate di nuovo dopo la chiamata d’emergenza.
+<sup>2</sup> In caso di chiamata a un servizio d’emergenza, le funzioni di localizzazione integrate nei dispositivi possono essere attivate anche senza l’esplicito consenso dei clienti.
 
-<sup>3</sup> Su richiesta, l’UFCOM può designare altri numeri destinati esclusivamente a servizi di chiamata d’emergenza della polizia, dei pompieri, dei servizi medici e dei servizi di salvataggio, per i quali va garantita la localizzazione della chiamata. Pubblica una lista di questi numeri.
+<sup>3</sup>
 
-[^29-1]: Nuovo testo giusta la cifra I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
-[^29-2]: [RS 784.104](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9196)
+Su richiesta, l’UFCOM dichiara applicabili i capoversi 1 e 2:
+
+- a. per chiamate ai servizi di assistenza e consulenza o ai servizi di soccorso aereo, se esiste un identificatore riconosciuto a livello internazionale o di Paese e se il servizio o terzi devono essere in grado di intervenire sul posto;
+- b. per chiamate ai servizi di assistenza e consulenza o ai servizi di soccorso aereo che sono inoltrate a un servizio d’emergenza affinché intervenga, se esiste un identificatore riconosciuto a livello internazionale o di Paese;
+- c. per chiamate ai servizi d’emergenza che sono inoltrate a un servizio di soccorso aereo o a un’organizzazione riconosciuta come la polizia militare o la polizia dei trasporti.
+
+<sup>4</sup> Stabilisce il momento a partire dal quale deve essere garantita la localizzazione in tempo reale e deve essere attivata la funzione di localizzazione.
+
+<sup>5</sup> Pubblica l’elenco dei servizi e delle organizzazioni autorizzate secondo il capoverso 3 nonché il momento di cui al capoverso 4.
+
+[^29-1]: Nuovo testo giusta la cifra I dell’O del 6 mag. 2026, in vigore dal 1° lug. 2026 ([RU 2026 243](https://fedlex.data.admin.ch/eli/oc/2026/243)).
 
 #### Art. 29a
 
-**Localizzazione delle chiamate d’emergenza: obblighi per i concessionari di telecomunicazione mobile**[^29a-1]
+**Obblighi per i concessionari di radiocomunicazione mobile[^29a-2]**[^29a-1]
 
-<sup>1</sup> Per le chiamate d’emergenza verso il numero d’emergenza europeo provenienti da veicoli specificamente equipaggiati (eCall112), i concessionari di telecomunicazione mobile devono estrarre dal canale vocale la serie minima di dati (*Minimum Set of Data*, MSD) e metterla a disposizione del servizio di localizzazione delle chiamate.
+<sup>1</sup> Per le chiamate d’emergenza verso il numero d’emergenza europeo provenienti da veicoli specificamente equipaggiati (eCall112/NGeCall112), i concessionari di radiocomunicazione mobile devono estrarre la serie minima di dati (*Minimum Set of Data,* MSD) e metterla a disposizione del servizio di localizzazione delle chiamate.[^29a-3]
 
 <sup>2</sup> In caso di chiamate d’emergenza in cui vengono utilizzate le funzioni di localizzazione del dispositivo o del sistema operativo nonché la trasmissione indipendente dal canale vocale delle informazioni relative all’ubicazione (*Advanced Mobile Location*, AML), devono trasmettere queste informazioni al servizio di localizzazione.
 
 [^29a-1]: Introdotto dalla cifra I dell’O del 18 nov. 2020, in vigore dal 1° lug. 2022 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020); [2021 724](https://fedlex.data.admin.ch/eli/oc/2021/724)).
+[^29a-2]: Nuovo testo giusta la cifra I dell’O del 6 mag. 2026, in vigore dal 1° lug. 2026 ([RU 2026 243](https://fedlex.data.admin.ch/eli/oc/2026/243)).
+[^29a-3]: Nuovo testo giusta la cifra I dell’O del 6 mag. 2026, in vigore dal 1° lug. 2026 ([RU 2026 243](https://fedlex.data.admin.ch/eli/oc/2026/243)). Nuovo testo giusta la cifra I dell’O del 6 mag. 2026, in vigore dal 1° lug. 2026 ([RU 2026 243](https://fedlex.data.admin.ch/eli/oc/2026/243)).
 
 #### Art. 29b
 
-**Localizzazione delle chiamate d’emergenza: esercizio di un servizio di localizzazione**[^29b-1]
+**Esercizio di un servizio di localizzazione[^29b-2]**[^29b-1]
 
-<sup>1</sup> Il concessionario del servizio universale gestisce un servizio di localizzazione in collaborazione con gli altri fornitori del servizio telefonico pubblico e a favore delle centrali d’allarme. Questo servizio deve essere accessibile anche alle centrali d’allarme che non sono collegate alla rete del concessionario del servizio universale.
+<sup>1</sup> Il concessionario del servizio universale gestisce un servizio di localizzazione in collaborazione con gli altri fornitori del servizio telefonico pubblico. Questo servizio deve essere accessibile alle centrali dei servizi d’emergenza nonché delle organizzazioni di cui all’articolo 29 capoverso 3; questo vale anche quando una centrale di una delle suddette organizzazioni non è collegata alla rete del concessionario del servizio universale.[^29b-3]
 
-<sup>2</sup> La collaborazione tra il concessionario del servizio universale e gli altri fornitori del servizio telefonico pubblico e l’utilizzazione del servizio di localizzazione da parte delle centrali d’allarme si fonda sui principi della formazione dei prezzi in funzione dei costi di cui all’articolo 54.
+<sup>2</sup> La collaborazione tra il concessionario del servizio universale e gli altri fornitori del servizio telefonico pubblico e l’utilizzazione del servizio di localizzazione da parte delle centrali dei servizi d’emergenza e delle organizzazioni di cui all’articolo 29 capoverso 3 si fondano sull’articolo 54.[^29b-4]
 
 <sup>3</sup> I fornitori del servizio telefonico pubblico assumono i costi di investimento e d’esercizio del servizio di localizzazione.
 
 <sup>4</sup> I costi ricorrenti per la messa a disposizione del servizio vanno compensati tra i fornitori del servizio telefonico pubblico a livello di mercato all’ingrosso in funzione del numero di chiamate d’emergenza previste annualmente.
 
-<sup>5</sup> Le centrali d’allarme assumono unicamente i costi per l’utilizzazione del servizio di localizzazione.
+<sup>5</sup> Le centrali dei servizi d’emergenza nonché delle organizzazioni di cui all’articolo 29 capoverso 3 assumono unicamente i costi per l’utilizzazione del servizio di localizzazione.[^29b-5]
 
 [^29b-1]: Introdotto dalla cifra I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021, il cpv. 4 dal 1° gen. 2022 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020); [2021 724](https://fedlex.data.admin.ch/eli/oc/2021/724)).
+[^29b-2]: Nuovo testo giusta la cifra I dell’O del 6 mag. 2026, in vigore dal 1° lug. 2026 ([RU 2026 243](https://fedlex.data.admin.ch/eli/oc/2026/243)).
+[^29b-3]: Nuovo testo giusta la cifra I dell’O del 6 mag. 2026, in vigore dal 1° lug. 2026 ([RU 2026 243](https://fedlex.data.admin.ch/eli/oc/2026/243)).
+[^29b-4]: Nuovo testo giusta la cifra I dell’O del 6 mag. 2026, in vigore dal 1° lug. 2026 ([RU 2026 243](https://fedlex.data.admin.ch/eli/oc/2026/243)).
+[^29b-5]: Nuovo testo giusta la cifra I dell’O del 6 mag. 2026, in vigore dal 1° lug. 2026 ([RU 2026 243](https://fedlex.data.admin.ch/eli/oc/2026/243)).
 
 #### Art. 30
 
-**Disposizioni particolari per le chiamate d’emergenza**[^30-1]
+**Trasmissione vocale mediante protocollo Internet**[^30-1]
 
-<sup>1</sup> Finché non sarà tecnicamente possibile istradare e localizzare correttamente per tutte le ubicazioni la trasmissione vocale mediante il protocollo Internet, questo servizio va garantito solo per le chiamate d’emergenza provenienti dall’ubicazione principale indicata nel contratto d’abbonamento.
+<sup>1</sup> Nella trasmissione vocale mediante protocollo Internet sui propri collegamenti telefonici i fornitori del servizio telefonico pubblico devono garantire l’istradamento e la localizzazione, a condizione che ciò sia possibile a costi ragionevoli e che l’infrastruttura dei clienti lo consenta.
 
-<sup>2</sup> I fornitori del servizio telefonico pubblico si assicurano che i clienti siano a conoscenza di queste restrizioni e che abbiano espressamente confermato di averne preso atto. Li informano che per le chiamate d’emergenza devono impiegare, per quanto possibile, un mezzo di comunicazione che consenta tecnicamente di istradare e localizzare correttamente le chiamate.
+<sup>2</sup> Se ciò non è possibile per una determinata ubicazione, devono garantire l’istradamento e la localizzazione solo per le chiamate provenienti dall’ubicazione principale indicata nel contratto di abbonamento.
 
-<sup>3</sup> Le chiamate d’emergenza non possono essere interrotte da servizi di telecomunicazione aventi priorità nell’ambito della comunicazione di sicurezza (art. 90 cpv. 2).
+<sup>3</sup> Devono informare i clienti in merito a eventuali restrizioni e farsi confermare espressamente che questi ne hanno preso atto.
 
-[^30-1]: Nuovo testo giusta la cifra I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+<sup>4</sup> Devono indicare ai clienti che, per l’accesso ai servizi di cui agli articoli 28–29 e 31*b* ORAT[^30-2] dovrebbero impiegare, per quanto possibile, un mezzo di comunicazione che consenta tecnicamente un istradamento e una localizzazione corretti.
+
+[^30-1]: Nuovo testo giusta la cifra I dell’O del 6 mag. 2026, in vigore dal 1° lug. 2026 ([RU 2026 243](https://fedlex.data.admin.ch/eli/oc/2026/243)).
+[^30-2]: [RS 784.104](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9196)
+
+### Sezione 4: Ulteriori obblighi
+
+[^chap4-sec4-1]
+
+[^chap4-sec4-1]: Introdotta dalla cifra I dell’O del 6 mag. 2026, in vigore dal 1° lug. 2026 ([RU 2026 243](https://fedlex.data.admin.ch/eli/oc/2026/243)).
 
 #### Art. 31
 
@@ -882,7 +954,7 @@ I fornitori di servizi di telecomunicazione che hanno l’obbligo di assicurare 
 
 <sup>1</sup> Agli utenti va data la possibilità di riconoscere in modo chiaro i servizi a valore aggiunto.
 
-<sup>2</sup> I servizi a valore aggiunto offerti mediante elementi d’indirizzo del piano di numerazione E.164 possono essere forniti solo con i numeri di chiamata attribuiti individualmente ai sensi degli articoli 24*b*–24*i* ORAT[^36-1] e con i numeri brevi ai sensi degli articoli 29–32 e 54 ORAT.[^36-2]
+<sup>2</sup> I servizi a valore aggiunto offerti mediante elementi d’indirizzo del piano di numerazione E.164 possono essere forniti solo con i numeri attribuiti individualmente secondo gli articoli 24*b*–24*i* ORAT[^36-1] e con i numeri brevi secondo gli articoli 30, 31*a* e 32 ORAT.[^36-2]
 
 <sup>3</sup> I servizi a valore aggiunto offerti mediante SMS o MMS possono essere forniti solo con i numeri brevi di cui agli articoli 15*a* – 15*f* ORAT.
 
@@ -893,7 +965,7 @@ I fornitori di servizi di telecomunicazione che hanno l’obbligo di assicurare 
 <sup>5</sup> I servizi a valore aggiunto a carattere erotico o pornografico devono essere compresi in una categoria separata, chiaramente identificabile dal cliente.
 
 [^36-1]: [RS 784.104](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9196)
-[^36-2]: Nuovo testo giusta la cifra I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+[^36-2]: Nuovo testo giusta la cifra I dell’O del 6 mag. 2026, in vigore dal 1° lug. 2026 ([RU 2026 243](https://fedlex.data.admin.ch/eli/oc/2026/243)).
 [^36-3]: Introdotto dalla cifra I dell’O del 5 nov. 2014, in vigore dal 1° gen. 2015 ([RU 2014 4161](https://fedlex.data.admin.ch/eli/oc/2014/697)).
 
 #### Art. 37
@@ -1650,7 +1722,7 @@ I fornitori di servizi di telecomunicazione possono trattare i dati relativi al 
 
 <sup>1</sup> Finché sussiste la possibilità di contestare la fattura, i clienti possono chiedere al loro fornitore di servizi di telecomunicazione che comunichi loro, su singola richiesta o regolarmente a ogni fattura, tutti i dati utilizzati per la fatturazione. Se sono impiegati per la fatturazione, i numeri di chiamata dei collegamenti entranti devono essere indicati senza le ultime quattro cifre.[^81-2]
 
-<sup>2</sup> I dati non possono essere comunicati in caso di chiamate all’assistenza telefonica per bambini e giovani ai sensi dell’articolo 28 lettera f ORAT[^81-3].[^81-4]
+<sup>2</sup> I dati non possono essere comunicati in caso di chiamate ai servizi di cui agli articoli 28*a* e 31*b* ORAT[^81-3].[^81-4]
 
 <sup>3</sup> Per le comunicazioni prepagate, i dati devono essere forniti, su richiesta, durante un mese dopo l’addebito del rimborso.
 
@@ -1659,7 +1731,7 @@ I fornitori di servizi di telecomunicazione possono trattare i dati relativi al 
 [^81-1]: Nuovo testo giusta la cifra I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
 [^81-2]: Nuovo testo giusta la cifra I dell’O del 5 nov. 2014, in vigore dal 1° gen. 2015 ([RU 2014 4161](https://fedlex.data.admin.ch/eli/oc/2014/697)).
 [^81-3]: [RS 784.104](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9196)
-[^81-4]: Nuovo testo giusta la cifra I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+[^81-4]: Nuovo testo giusta la cifra I dell’O del 6 mag. 2026, in vigore dal 1° lug. 2026 ([RU 2026 243](https://fedlex.data.admin.ch/eli/oc/2026/243)).
 
 #### Art. 82
 
@@ -1706,13 +1778,33 @@ Se un cliente rende verosimile, per scritto, che è stato chiamato abusivamente 
 
 **Indicazione del numero chiamante**
 
-<sup>1</sup> Se è tecnicamente possibile a costi ragionevoli, i fornitori di servizi di telecomunicazione devono offrire ai loro clienti, in modo semplice e gratuito, la possibilità di sopprimere, per singola chiamata o in permanenza, l’indicazione del loro numero sull’apparecchio chiamato.
+<sup>1</sup> Se è tecnicamente possibile a costi proporzionati, i fornitori di servizi di telecomunicazione devono offrire ai loro clienti, in modo semplice e gratuito, la possibilità di sopprimere, per singola chiamata o in permanenza, l’indicazione del loro numero sull’apparecchio chiamato.[^84-1]
 
 <sup>2</sup> Al momento di concludere il contratto di abbonamento, i fornitori di servizi di telecomunicazione devono indicare esplicitamente ai loro clienti tale possibilità.
 
-<sup>3</sup> In ogni caso, essi devono garantire l’indicazione del numero chiamante per le chiamate di cui va garantita la localizzazione ai sensi degli articoli 29 capoverso 1 e 90 capoverso 5, e per le chiamate al servizio di trascrizione per audiolesi conformemente all’articolo 15 capoverso 1 lettera e. Eccezion fatta per il proprio servizio guasti, i fornitori non devono consentire a nessun altro cliente di conoscere il numero chiamante dei clienti che hanno scelto il servizio di soppressione dell’indicazione.[^84-1]
+<sup>3</sup>
 
-[^84-1]: Nuovo testo giusta la cifra I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+In ogni caso, essi devono indicare il numero chiamante per le chiamate:
+
+- a. ai servizi d’emergenza;
+- b. al servizio di trascrizione per audiolesi di cui all’articolo 15 capoverso 1 lettera e;
+- c. ai numeri degli organi di cui all’articolo 90 capoverso 5.[^84-2]
+
+<sup>4</sup> Possono disattivare la soppressione dell’indicazione unicamente quando chi chiama contatta il servizio guasti del proprio fornitore.[^84-3]
+
+<sup>5</sup> I servizi di cui agli articoli 28*a*, 29 e 31*b* ORAT[^84-4] e altre organizzazioni riconosciute quali la polizia militare o la polizia dei trasporti possono chiedere all’UFCOM che il numero chiamante sia indicato.[^84-5]
+
+<sup>6</sup> L’UFCOM decide il momento a partire dal quale il numero chiamante deve essere indicato.[^84-6]
+
+<sup>7</sup> Pubblica un l’elenco dei servizi e delle organizzazioni di cui al capoverso 5 la cui richiesta è stata accolta nonché il momento di cui al capoverso 6.[^84-7]
+
+[^84-1]: Nuovo testo giusta la cifra I dell’O del 6 mag. 2026, in vigore dal 1° lug. 2026 ([RU 2026 243](https://fedlex.data.admin.ch/eli/oc/2026/243)).
+[^84-2]: Nuovo testo giusta la cifra I dell’O del 6 mag. 2026, in vigore dal 1° lug. 2026 ([RU 2026 243](https://fedlex.data.admin.ch/eli/oc/2026/243)).
+[^84-3]: Introdotto dalla cifra I dell’O del 6 mag. 2026, in vigore dal 1° lug. 2026 ([RU 2026 243](https://fedlex.data.admin.ch/eli/oc/2026/243)).
+[^84-4]: [RS 784.104](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9196)
+[^84-5]: Introdotto dalla cifra I dell’O del 6 mag. 2026, in vigore dal 1° lug. 2026 ([RU 2026 243](https://fedlex.data.admin.ch/eli/oc/2026/243)).
+[^84-6]: Introdotto dalla cifra I dell’O del 6 mag. 2026, in vigore dal 1° lug. 2026 ([RU 2026 243](https://fedlex.data.admin.ch/eli/oc/2026/243)).
+[^84-7]: Introdotto dalla cifra I dell’O del 6 mag. 2026, in vigore dal 1° lug. 2026 ([RU 2026 243](https://fedlex.data.admin.ch/eli/oc/2026/243)).
 
 #### Art. 85
 
@@ -1819,14 +1911,15 @@ I fornitori di servizi di telecomunicazione possono essere chiamati a mettere a 
 
 **Designazione dei fornitori**
 
-<sup>1</sup> In linea di principio, gli organi di cui all’articolo 47 capoverso 1 LTC ordinano le prestazioni necessarie presso un fornitore di servizi di telecomunicazione di loro scelta, sulla base di un contratto.[^92-1]
+<sup>1</sup> In linea di principio, gli organi di cui all’articolo 47 capoverso 1 LTC[^92-1] ordinano le prestazioni necessarie presso fornitori di servizi di telecomunicazione di loro scelta, su base contrattuale.[^92-2]
 
-<sup>2</sup> Se la pubblica gara è stata infruttuosa, dietro presentazione dei documenti della pubblica gara possono chiedere all’UFCOM di obbligare un fornitore a mettere a disposizione i servizi necessari.[^92-2]
+<sup>2</sup> Se la pubblica gara è stata infruttuosa, dietro presentazione dei documenti della pubblica gara possono chiedere all’UFCOM di obbligare i fornitori a mettere a disposizione le prestazioni necessarie.[^92-3]
 
 <sup>3</sup> Il Consiglio federale può obbligare i fornitori di servizi di telecomunicazione i cui impianti o servizi sono importanti in situazioni straordinarie ad organizzarsi in previsione di simili situazioni.
 
-[^92-1]: Nuovo testo giusta la cifra I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
-[^92-2]: Nuovo testo giusta la cifra I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+[^92-1]: [RS 784.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9171)
+[^92-2]: Nuovo testo giusta la cifra I dell’O del 6 mag. 2026, in vigore dal 1° lug. 2026 ([RU 2026 243](https://fedlex.data.admin.ch/eli/oc/2026/243)).
+[^92-3]: Nuovo testo giusta la cifra I dell’O del 6 mag. 2026, in vigore dal 1° lug. 2026 ([RU 2026 243](https://fedlex.data.admin.ch/eli/oc/2026/243)).
 
 #### Art. 93
 
@@ -2205,6 +2298,27 @@ Devono presentare all’UFCOM:
 - b. un rapporto intermedio ogni anno, la prima volta il 31 gennaio 2028 e l’ultima volta il 31 gennaio 2034.
 
 [^108d-1]: Introdotto dalla cifra I dell’O del 14 gen. 2026, in vigore dal 1° mar. 2026 ([RU 2026 42](https://fedlex.data.admin.ch/eli/oc/2026/42)).
+
+#### Art. 108e
+
+**Disposizione transitoria relativa alla modifica del 6 maggio 2026**[^108e-1]
+
+<sup>1</sup>
+
+I fornitori del servizio telefonico pubblico devono garantire entro 12 mesi dall’entrata in vigore della presente modifica:
+
+- a. l’accesso gratuito ai servizi secondo l’articolo 27 capoverso 1;
+- b. l’istradamento secondo l’articolo 28;
+- c. l’adempimento degli obblighi secondo l’articolo 28*a* capoversi 1–5.
+
+<sup>2</sup> I concessionari di radiocomunicazione mobile devono adempiere l’obbligo di cui all’articolo 29*a* capoverso 1 entro sei mesi dall’entrata in vigore della presente modifica. Essi devono garantire l’accesso di cui all’articolo 28*a* capoverso 6 entro 24 mesi dall’entrata in vigore della presente modifica.
+
+<sup>3</sup> I servizi di assistenza e consulenza che desiderano continuare ad avvalersi della localizzazione e delle funzioni di localizzazione integrate nei dispositivi nonché del diritto di imporre l’indicazione del numero chiamante devono presentare la richiesta secondo l’articolo 29 capoverso 3 e l’articolo 84 capoverso 5 entro sei mesi dall’entrata in vigore della presente modifica. Se respinge la richiesta, l’UFCOM stabilisce il momento a partire dal quale la localizzazione deve essere disattivata. La disattivazione deve avvenire entro 24 mesi dall’entrata in vigore della presente modifica. Fino al momento della disattivazione, i servizi di assistenza e consulenza possono continuare a utilizzare la localizzazione e i fornitori del servizio telefonico pubblico devono continuare ad assicurare tale funzione.
+
+<sup>4</sup> I fornitori del servizio telefonico pubblico devono continuare ad assicurare la localizzazione per i numeri per i quali essa va garantita secondo l’articolo 29 capoverso 3 OST nella versione del 1° gennaio 2021[^108e-2] per 12 mesi dall’entrata in vigore della presente modifica. Scaduto questo termine devono disattivare la localizzazione entro sei mesi.
+
+[^108e-1]: Introdotto dalla cifra I dell’O del 6 mag. 2026, in vigore dal 1° lug. 2026 ([RU 2026 243](https://fedlex.data.admin.ch/eli/oc/2026/243)).
+[^108e-2]: [RU 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)
 
 ### Sezione 4: Entrata in vigore
 

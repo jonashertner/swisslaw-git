@@ -4,11 +4,11 @@ title: Ordinance of 9 March 2007 on Telecommunications Services (OTS)
 short: OTS
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/166"
 language: en
-version: 2026-03-01
+version: 2026-07-01
 adopted: 2007-03-09
 in_force: 2007-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/166/20260301/en/xml/fedlex-data-admin-ch-eli-cc-2007-166-20260301-en-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/166/20260301/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/166/20260701/en/xml/fedlex-data-admin-ch-eli-cc-2007-166-20260701-en-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/166/20260701/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (OTS)
 
-of 9 March 2007 (Last amended on 1 March 2026)
+of 9 March 2007 (Last amended on 1 July 2026)
 
 The Swiss Federal Council,
 
@@ -651,9 +651,15 @@ Regular billing by post must be offered free of charge to customers not provided
 
 [^chap4-1]: Previously before Art. 27.
 
+### Section 1 Transmission of Numbers
+
+[^chap4-sec1-1]
+
+[^chap4-sec1-1]: Inserted by No I of the O of 6 May 2026, in force since 1 July 2026 ([AS 2026 243](https://fedlex.data.admin.ch/eli/oc/2026/243)).
+
 #### Art. 26a
 
-**Transmission of numbers**[^26a-1]
+**…[^26a-2]**[^26a-1]
 
 <sup>1</sup> Providers of the public telephony service which generate connections must ensure that at least one number in conformity with the Swiss E.164 numbering plan is transmitted as the telephone number of the calling line.
 
@@ -661,90 +667,154 @@ Regular billing by post must be offered free of charge to customers not provided
 
 <sup>3</sup> Providers of the public telephony service may enable their customers to transmit other numbers when the connection is established, provided they can demonstrate a right of use. If providers are aware that customers are transmitting numbers for which they do not have a right of use, they must take appropriate measures to prevent the transmission of these numbers.
 
-<sup>3bis</sup> If customers provide prima facie evidence that unauthorised third parties are using their numbers, the providers of a public telephony service may with the consent of the customers concerned block calls that transmit the relevant numbers. The foregoing does not apply to calls that are actually made from the connections of the customers concerned.[^26a-2]
+<sup>3bis</sup> If customers provide prima facie evidence that unauthorised third parties are using their numbers, the providers of a public telephony service may with the consent of the customers concerned block calls that transmit the relevant numbers. The foregoing does not apply to calls that are actually made from the connections of the customers concerned.[^26a-3]
 
 <sup>4</sup> Transmitted numbers must be provided with an identifier which indicates whether they are based on information from the calling customer or on information from the provider generating the connection, and whether the latter has verified the customer’s number information.
 
 <sup>5</sup> No numbers from the ranges 0900, 0901 or 0906 shall be transmitted as numbers of calling lines.
 
-<sup>6</sup> If providers are aware that a transmitted number is invalid or is being used without the right to do so, or if it is a number in accordance with paragraph 5, they must take appropriate measures and coordinate among themselves to prevent the transmission of this number or to prevent the call from being made.[^26a-3]
+<sup>6</sup> If providers are aware that a transmitted number is invalid or is being used without the right to do so, or if it is a number in accordance with paragraph 5, they must take appropriate measures and coordinate among themselves to prevent the transmission of this number or to prevent the call from being made.[^26a-4]
 
 [^26a-1]: Inserted by No I of the O of 4 Nov. 2009, in force since 1 Jan. 2010 ([AS 2009 5821](https://fedlex.data.admin.ch/eli/oc/2009/703)).
-[^26a-2]: Inserted by No I of the O of 5 Nov. 2014, in force since 1 Jan. 2015 ([AS 2014 4161](https://fedlex.data.admin.ch/eli/oc/2014/697)).
-[^26a-3]: Inserted by No I of the O of 18 Nov. 2020, in force since 1 July 2021 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+[^26a-2]: Repealed by No I of the O of 6 May 2026, with effect from 1 July 2026 ([AS 2026 243](https://fedlex.data.admin.ch/eli/oc/2026/243)).
+[^26a-3]: Inserted by No I of the O of 5 Nov. 2014, in force since 1 Jan. 2015 ([AS 2014 4161](https://fedlex.data.admin.ch/eli/oc/2014/697)).
+[^26a-4]: Inserted by No I of the O of 18 Nov. 2020, in force since 1 July 2021 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+
+### Section 2 Emergency, Assistance and Advisory Services
+
+[^chap4-sec2-1]
+
+[^chap4-sec2-1]: Inserted by No I of the O of 6 May 2026, in force since 1 July 2026 ([AS 2026 243](https://fedlex.data.admin.ch/eli/oc/2026/243)).
 
 #### Art. 27
 
-**Access to the emergency call services**[^27-1]
+**Access**[^27-1]
 
-<sup>1</sup> Access to the emergency call services under Article 28 of the Ordinance of 6 October 1997[^27-2] on Addressing Resources in the Telecommunications Sector (TSRO) must be guaranteed from every telephone connection and must be free of charge. A flat-rate charge of 20 cents per call may be imposed for telephone assistance for adults.
+<sup>1</sup>
 
-<sup>2</sup> Providers of services of the universal service by satellite mobile communications to which the International Telecommunication Union has allocated addressing resources need only guarantee free-of-charge access to the European emergency number 112.
+Providers of the public telephony service must guarantee direct access from every telephone connection to:
 
-[^27-1]: Amended by No I of the O of 18 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+- a. emergency services in accordance with Article 28 of the Ordinance of 6 October 1997[^27-2] on Addressing Resources in the Telecommunications Sector (TSRO);
+- b. assistance and advisory services in accordance with Article 28*a* TSRO;
+- c. air rescue services in accordance with Article 29 TSRO; and
+- d. European harmonised services in accordance with Article 31*b* TSRO.
+
+<sup>2</sup> They must guarantee access free of charge.
+
+<sup>3</sup> Providers of satellite mobile communication services within the universal service to which the International Telecommunication Union has allocated addressing resources need only guarantee free-of-charge access to the European emergency call service (Art. 28 para. 1 let. a TSRO).
+
+[^27-1]: Amended by No I of the O of 6 May 2026, in force since 1 July 2026 ([AS 2026 243](https://fedlex.data.admin.ch/eli/oc/2026/243)).
 [^27-2]: [SR 784.104](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9196)
 
 #### Art. 28
 
-**Routing of emergency calls**[^28-1]
+**Routing**[^28-1]
 
-Providers of the public telephony service must assure the routing of emergency calls to the emergency services specified in Article 28 TSRO[^28-2].
+<sup>1</sup> Providers of the public telephony service must ensure the routing of calls to the control centres of the services referred to in Articles 28–29 TSRO[^28-2].
 
-[^28-1]: Amended by No I of the O of 18 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+<sup>2</sup> They must ensure that calls to the European harmonised services referred to in Article 31*b* TSRO can be answered by the same centres that receive calls to the corresponding services under Articles 28–29 TSRO.
+
+[^28-1]: Amended by No I of the O of 6 May 2026, in force since 1 July 2026 ([AS 2026 243](https://fedlex.data.admin.ch/eli/oc/2026/243)).
 [^28-2]: [SR 784.104](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9196)
+
+#### Art. 28a
+
+**Obligations of providers regarding emergency services**[^28a-1]
+
+<sup>1</sup> Providers of the public telephony service must prioritise access to emergency services over other calls.
+
+<sup>2</sup> Access must not be interrupted by prioritised telecommunications services for security communication (Art. 90 para. 2).
+
+<sup>3</sup> Providers must take measures, using appropriate technical means, to prevent disruption of the proper establishment of calls to emergency service control centres, in particular those caused by erroneous calls.
+
+<sup>4</sup> They must inform each other if access to emergency services is disrupted and the provider establishing the erroneous calls needs to be identified so that the disruption can be rectified.
+
+<sup>5</sup> They may temporarily disconnect customers from the telecommunications network to ensure the availability of emergency services. They must inform the affected customers of the disconnection from the network without delay, provided these customers can be reached.
+
+<sup>6</sup> Mobile telephony licensees must additionally ensure access to emergency services within the public telephony service by means of real-time text (RTT).
+
+[^28a-1]: Inserted by No I of the O of 6 May 2026, in force since 1 July 2026 ([AS 2026 243](https://fedlex.data.admin.ch/eli/oc/2026/243)).
+
+### Section 3 Caller Location Information
+
+[^chap4-sec3-1]
+
+[^chap4-sec3-1]: Inserted by No I of the O of 6 May 2026, in force since 1 July 2026 ([AS 2026 243](https://fedlex.data.admin.ch/eli/oc/2026/243)).
 
 #### Art. 29
 
-**Location of emergency calls**[^29-1]
+**Principles**[^29-1]
 
-<sup>1</sup> As far as the chosen technology permits, on-line caller location must be guaranteed for calls to the emergency services specified in Article 28 TSRO[^29-2]. This must also be guaranteed for customers who have chosen not to be entered in a public directory.
+<sup>1</sup> As far as the chosen technology permits, information on the caller’s location must be provided in real time for calls to emergency services.
 
-<sup>2</sup> Device-specific location functions may be activated during an emergency call even without the express consent of the customer. Insofar as the selected technology permits, they must be deactivated again after the emergency call has ended.
+<sup>2</sup> Device-specific location functions may be activated during calls to emergency services, even without the customer’s express consent.
 
-<sup>3</sup> On request, OFCOM may designate other numbers exclusively for emergency services of the police, fire brigade, ambulance and rescue services for which caller location must be possible. OFCOM shall publish a list of these numbers.
+<sup>3</sup>
 
-[^29-1]: Amended by No I of the O of 18 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
-[^29-2]: [SR 784.104](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9196)
+On application, OFCOM shall declare paragraphs 1 and 2 to be applicable:
+
+- a. to calls to assistance and advisory services or air rescue services, provided an internationally recognised or country-specific identifier is available and the service or third parties are required to be able to intervene on site;
+- b. when calls to assistance and advisory services or air rescue services are forwarded to an emergency service for the purpose of intervention by that service, provided an internationally recognised or country-specific identifier is available;
+- c. when calls to emergency services are forwarded to an air rescue service or a recognised organisation such as the military or transport police.
+
+<sup>4</sup> OFCOM shall determine the date from which real-time caller location must be guaranteed and the location function must be activated.
+
+<sup>5</sup> It shall publish the list of services and authorised organisations referred to in paragraph 3 and the date referred to in paragraph 4.
+
+[^29-1]: Amended by No I of the O of 6 May 2026, in force since 1 July 2026 ([AS 2026 243](https://fedlex.data.admin.ch/eli/oc/2026/243)).
 
 #### Art. 29a
 
-**Location of emergency calls: Obligations of mobile telephony licensees**[^29a-1]
+**Obligations of mobile telephony licensees[^29a-2]**[^29a-1]
 
-<sup>1</sup> In the case of emergency calls to the European emergency number from suitably equipped vehicles (eCall112), mobile telephony licensees must extract the minimum set of data (MSD) from the voice channel and make it available for the location service.
+<sup>1</sup> In the case of emergency calls to the European emergency number from suitably equipped vehicles (eCall112/NGeCall112), mobile telephony licensees must extract the minimum set of data (MSD) and make it available for the caller location service.[^29a-3]
 
 <sup>2</sup> In the case of emergency calls using the device and operating system-specific location function and voice channel-independent transmission of location information (Advanced Mobile Location, AML), they must make the location information available for the location service.
 
-[^29a-1]: Inserted by No I of the O of 18 Nov. 2020, in force since 1 July 2022 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020); [2021 724](https://fedlex.data.admin.ch/eli/oc/2021/724)).
+[^29a-1]: Eingefügt durch Ziff. I der V vom 18. Nov. 2020, in Kraft seit 1. Juli 2022 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020); [2021 724](https://fedlex.data.admin.ch/eli/oc/2021/724)).
+[^29a-2]: Amended by No I of the O of 6 May 2026, in force since 1 July 2026 ([AS 2026 243](https://fedlex.data.admin.ch/eli/oc/2026/243)).
+[^29a-3]: Amended by No I of the O of 6 May 2026, in force since 1 July 2026 ([AS 2026 243](https://fedlex.data.admin.ch/eli/oc/2026/243)).
 
 #### Art. 29b
 
-**Location of emergency calls: Operating a caller location service**[^29b-1]
+**Operating a caller location service[^29b-2]**[^29b-1]
 
-<sup>1</sup> The universal service licensee, in co-operation with the other public telephony service providers and for the benefit of the alarm centres, shall operate a caller location service. This service must also be accessible for alarm centres that are not connected to the universal service licensee.
+<sup>1</sup> The universal service licensee shall operate a caller location service in collaboration with other providers of the public telephony service. This service must be available to the control centres of the emergency services and the organisations specified in Article 29 paragraph 3. This also applies where a control centre of one of these organisations is not connected to the universal service licensee.[^29b-3]
 
-<sup>2</sup> The co-operation between the universal service licensee and the other public telephony service providers and the use of the caller location service by the alarm centres is based on the cost-oriented principles indicated in Article 54.
+<sup>2</sup> The collaboration between the universal service licensee and the other providers of the public telephony service and the use of the caller location service by the control centres of the emergency services and the organisations specified in Article 29 paragraph 3 shall be based on Article 54.[^29b-4]
 
 <sup>3</sup> The providers of the public telephony service shall bear the investment and operating costs for providing caller location.
 
 <sup>4</sup> The recurring costs of providing the service shall be settled among the public telephony service providers at wholesale level based on the number of emergency calls to be expected annually.
 
-<sup>5</sup> The alarm centres shall bear only the costs of using the caller location service.
+<sup>5</sup> The control centres of the emergency services and the organisations specified in Article 29 paragraph 3 shall bear only the costs of using the caller location service.[^29b-5]
 
-[^29b-1]: Inserted by No I of the O of 18 Nov. 2020, in force since 1 Jan. 2021, except for para. 4, in force since 1 Jan. 2022 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020); [2021 724](https://fedlex.data.admin.ch/eli/oc/2021/724)).
+[^29b-1]: Eingefügt durch Ziff. I der V vom 18. Nov. 2020, in Kraft seit 1. Jan. 2021, mit Ausnahme von Abs. 4, in Kraft seit 1. Jan. 2022 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020); [2021 724](https://fedlex.data.admin.ch/eli/oc/2021/724)).
+[^29b-2]: Amended by No I of the O of 6 May 2026, in force since 1 July 2026 ([AS 2026 243](https://fedlex.data.admin.ch/eli/oc/2026/243)).
+[^29b-3]: Amended by No I of the O of 6 May 2026, in force since 1 July 2026 ([AS 2026 243](https://fedlex.data.admin.ch/eli/oc/2026/243)).
+[^29b-4]: Amended by No I of the O of 6 May 2026, in force since 1 July 2026 ([AS 2026 243](https://fedlex.data.admin.ch/eli/oc/2026/243)).
+[^29b-5]: Amended by No I of the O of 6 May 2026, in force since 1 July 2026 ([AS 2026 243](https://fedlex.data.admin.ch/eli/oc/2026/243)).
 
 #### Art. 30
 
-**Special provisions concerning emergency calls**[^30-1]
+**Voice over Internet Protocol (VoIP)**[^30-1]
 
-<sup>1</sup> If, in the case of voice transmission over internet protocol, correct routing and caller identification of emergency calls is not technically possible for every location, they must be guaranteed only for calls from the main location cited in the subscription contract.
+<sup>1</sup> Providers of the public telephony service must ensure routing and caller location information in the case of VoIP via their own telephone connections, provided this is possible with justifiable outlay and is supported by the customers’ infrastructure.
 
-<sup>2</sup> Public telephony service providers must ensure that customers are informed of this limitation and have explicitly confirmed that they are aware of it. They shall inform the customers that whenever possible a means of communication should be used with which correct routing and caller identification of emergency calls is technically possible.
+<sup>2</sup> If this is not possible for a particular location, the provision of routing and caller location information need only be ensured for calls made from the main location specified in the subscription contract.
 
-<sup>2</sup> If the chosen technology so permits, in extraordinary situations emergency calls must not be interrupted by priority treatment of civil telecommunications traffic by customers who have important duties to perform in such situations.
+<sup>3</sup> Providers must inform customers of any restrictions and obtain their express confirmation that they have acknowledged these restrictions.
 
-<sup>3</sup> Emergency calls must not be interrupted by prioritised telecommunications services for security communication (Art. 90 para. 2).
+<sup>4</sup> Providers must advise customers that, wherever possible, they should use a means of communication that is technically capable of enabling correct routing and caller location information when accessing the services referred to in Articles 28–29 and 31*b* TSRO[^30-2].
 
-[^30-1]: Amended by No I of the O of 18 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+[^30-1]: Amended by No I of the O of 6 May 2026, in force since 1 July 2026 ([AS 2026 243](https://fedlex.data.admin.ch/eli/oc/2026/243)).
+[^30-2]: [SR 784.104](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9196)
+
+### Section 4 Further Obligations
+
+[^chap4-sec4-1]
+
+[^chap4-sec4-1]: Inserted by No I of the O of 6 May 2026, in force since 1 July 2026 ([AS 2026 243](https://fedlex.data.admin.ch/eli/oc/2026/243)).
 
 #### Art. 31
 
@@ -888,7 +958,7 @@ Telecommunications service providers that are required to guarantee number porta
 
 <sup>1</sup> Value-added services must be clearly identifiable to users.
 
-<sup>2</sup> For the provision of value-added services via addressing resources of the E.164 numbering plan, only individually allocated numbers in accordance with Articles 24*b*–24*i* TSRO[^36-1] and short numbers in accordance with Articles 29–32 and 54 TSRO shall be used.[^36-2]
+<sup>2</sup> For the provision of value-added services via addressing resources of the E.164 numbering plan, only individually allocated numbers in accordance with Articles 24*b*–24*i* TSRO[^36-1] and short numbers in accordance with Articles 30, 31*a* and 32 TSRO shall be used.[^36-2]
 
 <sup>3</sup> For the provision of value-added services via SMS or MMS, only short numbers in accordance with Articles 15*a*–15*f* TSRO shall be used.
 
@@ -899,7 +969,7 @@ Telecommunications service providers that are required to guarantee number porta
 <sup>5</sup> Value-added services with erotic or pornographic content must belong to a separate category clearly identifiable for customers.
 
 [^36-1]: [SR 784.104](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9196)
-[^36-2]: Amended by No I of the O of 18 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+[^36-2]: Amended by No I of the O of 6 May 2026, in force since 1 July 2026 ([AS 2026 243](https://fedlex.data.admin.ch/eli/oc/2026/243)).
 [^36-3]: Inserted by No I of the O of 5 Nov. 2014, in force since 1 Jan. 2015 ([AS 2014 4161](https://fedlex.data.admin.ch/eli/oc/2014/697)).
 
 #### Art. 37
@@ -1655,7 +1725,7 @@ Telecommunications service providers may process customers’ traffic data witho
 
 <sup>1</sup> During the period in which they may dispute an invoice, customers may ask their telecommunications service provider to supply them with all the information used for billing. Where numbers of the calling connections are provided for this purpose, the last four digits of the numbers are not supplied.[^81-2]
 
-<sup>2</sup> Data concerning calls to the telephone helpline for children and other minors in terms of Article 28 letter f TSRO[^81-3] may not be communicated.[^81-4]
+<sup>2</sup> Data concerning calls to the services specified in Articles 28*a* and 31*b* TSRO[^81-3] may not be communicated.[^81-4]
 
 <sup>3</sup> In the case of connections with prepayment for services, the data must be communicated on request within one month of charging of the fee.
 
@@ -1664,7 +1734,7 @@ Telecommunications service providers may process customers’ traffic data witho
 [^81-1]: Amended by No I of the O of 18 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
 [^81-2]: Amended by No I of the O of 5 Nov. 2014, in force since 1 Jan. 2015 ([AS 2014 4161](https://fedlex.data.admin.ch/eli/oc/2014/697)).
 [^81-3]: [SR 784.104](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9196)
-[^81-4]: Amended by No I of the O of 18 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+[^81-4]: Amended by No I of the O of 6 May 2026, in force since 1 July 2026 ([AS 2026 243](https://fedlex.data.admin.ch/eli/oc/2026/243)).
 
 #### Art. 82
 
@@ -1711,13 +1781,33 @@ Where a customer credibly shows in writing they are the victim of nuisance calls
 
 **Calling line identification**
 
-<sup>1</sup> When technically feasible with justifiable outlay, telecommunications service providers must offer their customers a simple and free-of-charge facility for concealing – for individual calls or permanently – the indication of their number that appears on the called person’s equipment.
+<sup>1</sup> When technically feasible with proportionate outlay, telecommunications service providers must offer their customers a simple and free-of-charge facility for preventing their telephone number from being displayed on the call recipient’s device, either for individual calls or permanently.[^84-1]
 
 <sup>2</sup> They must expressly draw their customers’ attention to this facility when the subscription contract is concluded.
 
-<sup>3</sup> They must in all cases guarantee identification of the calling line for connections for which location must be guaranteed in accordance with Article 29 paragraph 1 and Article 90 paragraph 4 and for calls to the transcription service for the hearing impaired in accordance with Article 15 paragraph 1 letter e. Other than in the case of calls to their own fault service, no other customer shall be provided with an indication of the number of a caller who has requested suppression of the calling line identification.[^84-1]
+<sup>3</sup>
 
-[^84-1]: Amended by No I of the O of 18 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+In all cases, they must display the telephone number during calls to:
+
+- a. the emergency services;
+- b. the transcription service for the hearing-impaired referred to in Article 15 paragraph 1 letter e;
+- c. the numbers of the bodies referred to in Article 90 paragraph 5.[^84-2]
+
+<sup>4</sup> They may only deactivate the facility to prevent telephone number display if callers contact their own provider’s fault reporting service.[^84-3]
+
+<sup>5</sup> The services specified in Articles 28*a*, 29 and 31*b* TSRO[^84-4] and other recognised organisations, such as the military or transport police, may apply to OFCOM to require that callers’ numbers be displayed.[^84-5]
+
+<sup>6</sup> OFCOM shall determine the date from which the telephone number must be displayed.[^84-6]
+
+<sup>7</sup> It shall publish the list of services and organisations referred to in paragraph 5 whose applications have been approved, and the date referred to in paragraph 6.[^84-7]
+
+[^84-1]: Amended by No I of the O of 6 May 2026, in force since 1 July 2026 ([AS 2026 243](https://fedlex.data.admin.ch/eli/oc/2026/243)).
+[^84-2]: Amended by No I of the O of 6 May 2026, in force since 1 July 2026 ([AS 2026 243](https://fedlex.data.admin.ch/eli/oc/2026/243)).
+[^84-3]: Inserted by No I of the O of 6 May 2026, in force since 1 July 2026 ([AS 2026 243](https://fedlex.data.admin.ch/eli/oc/2026/243)).
+[^84-4]: [SR 784.104](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9196)
+[^84-5]: Inserted by No I of the O of 6 May 2026, in force since 1 July 2026 ([AS 2026 243](https://fedlex.data.admin.ch/eli/oc/2026/243)).
+[^84-6]: Inserted by No I of the O of 6 May 2026, in force since 1 July 2026 ([AS 2026 243](https://fedlex.data.admin.ch/eli/oc/2026/243)).
+[^84-7]: Inserted by No I of the O of 6 May 2026, in force since 1 July 2026 ([AS 2026 243](https://fedlex.data.admin.ch/eli/oc/2026/243)).
 
 #### Art. 85
 
@@ -1820,14 +1910,15 @@ Telecommunications service providers may be enlisted to support the bodies refer
 
 **Providers**
 
-<sup>1</sup> In principle, the bodies referred to in Article 47 paragraph 1 TCA shall order on a contractual basis the services that they require from the telecommunications service provider of their choice.[^92-1]
+<sup>1</sup> In principle, the bodies referred to in Article 47 paragraph 1 TCA[^92-1] shall order on a contractual basis the services that they require from telecommunications service providers of their choice.[^92-2]
 
-<sup>2</sup> If there is no bid made in response to an invitation to tender, the bodies may ask OFCOM, subject to submission of the tender documentation, to require a provider to provide the necessary services.[^92-2]
+<sup>2</sup> If no bids are submitted in response to a public invitation to tender, the bodies may ask OFCOM, subject to submission of the tender documentation, to require providers to supply the necessary services.[^92-3]
 
 <sup>3</sup> The Federal Council may require telecommunications service providers whose installations or services are of importance in extraordinary circumstances to prepare for such situations.
 
-[^92-1]: Amended by No I of the O of 18 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
-[^92-2]: Amended by No I of the O of 18 Nov. 2020, in force since 1 Jan. 2021 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+[^92-1]: [SR 784.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9171)
+[^92-2]: Amended by No I of the O of 6 May 2026, in force since 1 July 2026 ([AS 2026 243](https://fedlex.data.admin.ch/eli/oc/2026/243)).
+[^92-3]: Amended by No I of the O of 6 May 2026, in force since 1 July 2026 ([AS 2026 243](https://fedlex.data.admin.ch/eli/oc/2026/243)).
 
 #### Art. 93
 
@@ -2206,6 +2297,27 @@ They must report to OFCOM as follows:
 - b. They shall submit an interim progress report annually, starting on 31 January 2028 and ending on 31 January 2034.
 
 [^108d-1]: Inserted by No I of the O of 14 Jan. 2026, in force since 1 March 2026 ([AS 2026 42](https://fedlex.data.admin.ch/eli/oc/2026/42)).
+
+#### Art. 108e
+
+**Transitional provision to the Amendment of 6 May 2026**[^108e-1]
+
+<sup>1</sup>
+
+Providers of the public telephony service must ensure the following within 12 months of this Amendment coming into force:
+
+- a. free-of-charge access to the services referred to in Article 27 paragraph 1;
+- b. routing in accordance with Article 28;
+- c. fulfilment of the obligations set out in Article 28*a* paragraphs 1–5.
+
+<sup>2</sup> Mobile telephony licensees must fulfil the obligation set out in Article 29*a* paragraph 1 within six months of this Amendment coming into force. They must ensure access in accordance with Article 28*a* paragraph 6 is available within 24 months of this Amendment coming into force.
+
+<sup>3</sup> Assistance and advisory services wishing to continue to avail themselves of caller location, device-specific location functions and the right to require the display of callers’ numbers must submit applications in accordance with Article 29 paragraph 3 and Article 84 paragraph 5 within six months of this Amendment coming into force. If OFCOM rejects the application, it shall determine the date from which caller location information must be deactivated. Deactivation must occur within 24 months of this Amendment coming into force. Until the deactivation date, assistance and advisory services may continue to use caller location information, and providers of the public telephony service must continue to ensure that the function is available.
+
+<sup>4</sup> For 12 months after this Amendment comes into force, providers of the public telephony service must ensure the availability of caller location information for numbers for which caller location must be guaranteed under Article 29 paragraph 3 OTS in the version of 1 January 2021[^108e-2]. They must deactivate caller location information within six months of the expiry of this period.
+
+[^108e-1]: Inserted by No I of the O of 6 May 2026, in force since 1 July 2026 ([AS 2026 243](https://fedlex.data.admin.ch/eli/oc/2026/243)).
+[^108e-2]: [AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)
 
 ### Section 4 Commencement
 

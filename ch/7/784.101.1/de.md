@@ -4,11 +4,11 @@ title: Verordnung vom 9. März 2007 über Fernmeldedienste (FDV)
 short: FDV
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/166"
 language: de
-version: 2026-03-01
+version: 2026-07-01
 adopted: 2007-03-09
 in_force: 2007-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/166/20260301/de/xml/fedlex-data-admin-ch-eli-cc-2007-166-20260301-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/166/20260301/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/166/20260701/de/xml/fedlex-data-admin-ch-eli-cc-2007-166-20260701-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/166/20260701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/166/20260301/de"
 
 (FDV)
 
-vom 9. März 2007 (Stand am 1. März 2026)
+vom 9. März 2007 (Stand am 1. Juli 2026)
 
 Der Schweizerische Bundesrat,
 
@@ -647,9 +647,15 @@ Der periodische Versand der Papierrechnung muss für diejenigen Kundinnen und Ku
 
 [^chap4-1]: Vormals: vor Art. 27
 
+### 1. Abschnitt: Übermittlung von Nummern
+
+[^chap4-sec1-1]
+
+[^chap4-sec1-1]: Eingefügt durch Ziff. I der V vom 6. Mai 2026, in Kraft seit 1. Juli 2026 ([AS 2026 243](https://fedlex.data.admin.ch/eli/oc/2026/243)).
+
 #### Art. 26a
 
-**Übermittlung von Nummern**[^26a-1]
+**…[^26a-2]**[^26a-1]
 
 <sup>1</sup> Verbindungserzeugende Anbieterinnen von öffentlichem Telefondienst müssen sicherstellen, dass als Nummer des anrufenden Anschlusses mindestens eine Nummer gemäss schweizerischem Nummerierungsplan E.164 übermittelt wird.
 
@@ -657,88 +663,154 @@ Der periodische Versand der Papierrechnung muss für diejenigen Kundinnen und Ku
 
 <sup>3</sup> Anbieterinnen von öffentlichem Telefondienst können ihren Kundinnen und Kunden ermöglichen, beim Verbindungsaufbau weitere Nummern zu übermitteln, sofern diese ein Nutzungsrecht nachweisen können. Haben die Anbieterinnen Kenntnis davon, dass Kundinnen oder Kunden Nummern übermitteln, an denen diese kein Nutzungsrecht haben, so müssen sie geeignete Massnahmen treffen um die Übermittlung dieser Nummern zu verhindern.
 
-<sup>3bis</sup> Machen Kundinnen und Kunden glaubhaft, dass unberechtigte Dritte ihre Nummern verwenden, so können die Anbieterinnen von öffentlichem Telefondienst im Einverständnis mit diesen Kundinnen und Kunden alle Anrufe unterbinden, bei denen die betreffenden Nummern übermittelt werden. Ausgenommen sind Anrufe, die von den Anschlüssen der betreffenden Kundinnen und Kunden tatsächlich ausgehen.[^26a-2]
+<sup>3bis</sup> Machen Kundinnen und Kunden glaubhaft, dass unberechtigte Dritte ihre Nummern verwenden, so können die Anbieterinnen von öffentlichem Telefondienst im Einverständnis mit diesen Kundinnen und Kunden alle Anrufe unterbinden, bei denen die betreffenden Nummern übermittelt werden. Ausgenommen sind Anrufe, die von den Anschlüssen der betreffenden Kundinnen und Kunden tatsächlich ausgehen.[^26a-3]
 
 <sup>4</sup> Übermittelte Nummern müssen mit einer Kennzeichnung versehen sein, welche darauf hinweist, ob sie auf Angaben der anrufenden Kundin bzw. des anrufenden Kunden oder auf Informationen der verbindungserzeugenden Anbieterin beruhen und ob diese die Nummernangaben der Kundin bzw. des Kunden überprüft hat.
 
 <sup>5</sup> Es dürfen keine Nummern aus den Bereichen 0900, 0901 und 0906 als Nummern anrufender Anschlüsse übermittelt werden.
 
-<sup>6</sup> Haben Anbieterinnen Kenntnis davon, dass eine übermittelte Nummer ungültig ist oder ohne Nutzungsrecht verwendet wird, oder handelt es sich um eine Nummer nach Absatz 5, so müssen sie geeignete Massnahmen treffen und untereinander koordinieren, um die Übermittlung dieser Nummer zu verhindern oder den Anruf zu unterbinden.[^26a-3]
+<sup>6</sup> Haben Anbieterinnen Kenntnis davon, dass eine übermittelte Nummer ungültig ist oder ohne Nutzungsrecht verwendet wird, oder handelt es sich um eine Nummer nach Absatz 5, so müssen sie geeignete Massnahmen treffen und untereinander koordinieren, um die Übermittlung dieser Nummer zu verhindern oder den Anruf zu unterbinden.[^26a-4]
 
 [^26a-1]: Eingefügt durch Ziff. I der V vom 4. Nov. 2009, in Kraft seit 1. Jan. 2010 ([AS 2009 5821](https://fedlex.data.admin.ch/eli/oc/2009/703)).
-[^26a-2]: Eingefügt durch Ziff. I der V vom 5. Nov. 2014, in Kraft seit 1. Jan. 2015 ([AS 2014 4161](https://fedlex.data.admin.ch/eli/oc/2014/697)).
-[^26a-3]: Eingefügt durch Ziff. I der V vom 18. Nov. 2020, in Kraft seit 1. Juli 2021 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+[^26a-2]: Aufgehoben durch Ziff. I der V vom 6. Mai 2026, mit Wirkung seit 1. Juli 2026 ([AS 2026 243](https://fedlex.data.admin.ch/eli/oc/2026/243)).
+[^26a-3]: Eingefügt durch Ziff. I der V vom 5. Nov. 2014, in Kraft seit 1. Jan. 2015 ([AS 2014 4161](https://fedlex.data.admin.ch/eli/oc/2014/697)).
+[^26a-4]: Eingefügt durch Ziff. I der V vom 18. Nov. 2020, in Kraft seit 1. Juli 2021 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+
+### 2. Abschnitt: Not-, Hilfs- und Beratungsdienste
+
+[^chap4-sec2-1]
+
+[^chap4-sec2-1]: Eingefügt durch Ziff. I der V vom 6. Mai 2026, in Kraft seit 1. Juli 2026 ([AS 2026 243](https://fedlex.data.admin.ch/eli/oc/2026/243)).
 
 #### Art. 27
 
-**Zugang zu den Notrufdiensten**[^27-1]
+**Zugang**[^27-1]
 
-<sup>1</sup> Der Zugang zu den Notrufdiensten nach Artikel 28 der Verordnung vom 6. Oktober 1997[^27-2] über die Adressierungselemente im Fernmeldebereich (AEFV) muss von jedem Telefonanschluss aus gewährleistet und unentgeltlich sein. Einzig für die telefonische Hilfe für Erwachsene kann eine Pauschalgebühr von 20 Rappen pro Anruf erhoben werden.
+<sup>1</sup>
 
-<sup>2</sup> Die Anbieterinnen von Satellitenmobilfunkdiensten der Grundversorgung, denen die Internationale Fernmeldeunion Adressierungselemente zugewiesen hat, müssen nur den unentgeltlichen Zugang zur europäischen Notrufnummer gewährleisten.
+Die Anbieterinnen des öffentlichen Telefondienstes müssen von jedem Telefonanschluss aus den direkten Zugang gewährleisten zu:
 
-[^27-1]: Fassung gemäss Ziff. I der V vom 18. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+- a. den Notdiensten nach Artikel 28 der Verordnung vom 6. Oktober 1997[^27-2] über die Adressierungselemente im Fernmeldebereich (AEFV);
+- b. den Hilfs- und Beratungsdiensten nach Artikel 28*a* AEFV;
+- c. den Luftrettungsdiensten nach Artikel 29 AEFV; und
+- d. den europäisch harmonisierten Diensten nach Artikel 31*b* AEFV.
+
+<sup>2</sup> Sie müssen den Zugang unentgeltlich gewährleisten.
+
+<sup>3</sup> Die Anbieterinnen von Satellitenmobilfunkdiensten der Grundversorgung, denen die Internationale Fernmeldeunion Adressierungselemente zugewiesen hat, müssen nur den unentgeltlichen Zugang zum europäischen Notruf (Art. 28 Abs. 1 Bst. a AEFV) gewährleisten.
+
+[^27-1]: Fassung gemäss Ziff. I der V vom 6. Mai 2026, in Kraft seit 1. Juli 2026 ([AS 2026 243](https://fedlex.data.admin.ch/eli/oc/2026/243)).
 [^27-2]: [SR 784.104](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9196)
 
 #### Art. 28
 
-**Leitweglenkung der Notrufe**[^28-1]
+**Leitweglenkung**[^28-1]
 
-Die Anbieterinnen des öffentlichen Telefondienstes müssen die Leitweglenkung der Notrufe zu den Notrufdiensten nach Artikel 28 AEFV[^28-2] sicherstellen.
+<sup>1</sup> Die Anbieterinnen des öffentlichen Telefondienstes müssen die Leitweglenkung der Anrufe auf die Zentralen der Dienste nach den Artikeln 28–29 AEFV[^28-2] sicherstellen.
 
-[^28-1]: Fassung gemäss Ziff. I der V vom 18. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+<sup>2</sup> Sie müssen sicherstellen, dass die Anrufe auf die europäisch harmonisierten Dienste nach Artikel 31*b* AEFV von denselben Zentralen entgegengenommen werden können, welche die Anrufe zu den entsprechenden Diensten nach Artikeln 28–29 AEFV entgegennehmen.
+
+[^28-1]: Fassung gemäss Ziff. I der V vom 6. Mai 2026, in Kraft seit 1. Juli 2026 ([AS 2026 243](https://fedlex.data.admin.ch/eli/oc/2026/243)).
 [^28-2]: [SR 784.104](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9196)
+
+#### Art. 28a
+
+**Pflichten der Anbieterinnen betreffend die Notdienste**[^28a-1]
+
+<sup>1</sup> Die Anbieterinnen des öffentlichen Telefondienstes müssen den Zugang zu den Notdiensten gegenüber anderen Anrufen priorisieren.
+
+<sup>2</sup> Der Zugang darf durch priorisierte Fernmeldedienste der Sicherheitskommunikation (Art. 90 Abs. 2) nicht unterbrochen werden.
+
+<sup>3</sup> Die Anbieterinnen müssen mit geeigneten technischen Mitteln Massnahmen ergreifen, um Beeinträchtigungen des ordnungsgemässen Aufbaus von Anrufen auf die Zentralen von Notdiensten insbesondere durch Fehlanrufe entgegenzuwirken.
+
+<sup>4</sup> Sie müssen einander informieren, wenn der Zugang zu den Notdiensten beeinträchtigt ist und die Fehlanrufe aufbauende Anbieterin identifiziert werden muss, damit die Beeinträchtigung behoben werden kann.
+
+<sup>5</sup> Sie können die Kundinnen und Kunden zur Gewährleistung der Verfügbarkeit der Notdienste vorübergehend vom Fernmeldenetz trennen. Sie müssen die betroffenen Kundinnen und Kunden unverzüglich über die Trennung vom Netz informieren, sofern diese erreichbar sind.
+
+<sup>6</sup> Die Mobilfunkkonzessionärinnen müssen im öffentlichen Telefondienst den Zugang zu den Notdiensten zusätzlich mittels Echtzeittext (Real Time Text, RTT) gewährleisten.
+
+[^28a-1]: Eingefügt durch Ziff. I der V vom 6. Mai 2026, in Kraft seit 1. Juli 2026 ([AS 2026 243](https://fedlex.data.admin.ch/eli/oc/2026/243)).
+
+### 3. Abschnitt: Standortidentifikation
+
+[^chap4-sec3-1]
+
+[^chap4-sec3-1]: Eingefügt durch Ziff. I der V vom 6. Mai 2026, in Kraft seit 1. Juli 2026 ([AS 2026 243](https://fedlex.data.admin.ch/eli/oc/2026/243)).
 
 #### Art. 29
 
-**Standortidentifikation bei Notrufen: Allgemeines**[^29-1]
+**Grundsätze**[^29-1]
 
-<sup>1</sup> Soweit es die gewählte Technik zulässt, muss die Standortidentifikation bei Anrufen auf die Notrufdienste nach Artikel 28 AEFV[^29-2] online gewährleistet sein. Dies gilt auch für Kundinnen und Kunden, die auf einen Eintrag im öffentlichen Verzeichnis verzichtet haben.
+<sup>1</sup> Soweit es die gewählte Technik zulässt, muss die Standortidentifikation bei Anrufen auf die Notdienste in Echtzeit gewährleistet sein.
 
-<sup>2</sup> Geräteeigene Ortungsfunktionen dürfen bei einem Notruf auch ohne ausdrückliche Zustimmung der Kundinnen und Kunden aktiviert werden. Soweit es die gewählte Technik zulässt, sind sie nach der Beendigung des Notrufs wieder zu deaktivieren.
+<sup>2</sup> Geräteeigene Ortungsfunktionen dürfen bei einem Anruf auf einen Notdienst auch ohne ausdrückliche Zustimmung der Kundinnen und Kunden aktiviert werden.
 
-<sup>3</sup> Auf Gesuch hin kann das BAKOM weitere ausschliesslich für Notrufdienste der Polizei, der Feuerwehr sowie der Sanitäts- und Rettungsdienste bestimmte Nummern bezeichnen, bei denen die Standortidentifikation zu garantieren ist. Es publiziert die Liste dieser Nummern.
+<sup>3</sup>
 
-[^29-1]: Fassung gemäss Ziff. I der V vom 18. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
-[^29-2]: [SR 784.104](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9196)
+Das BAKOM erklärt die Absätze 1 und 2 auf Gesuch hin für anwendbar:
+
+- a. für Anrufe auf Hilfs- und Beratungs- oder Luftrettungsdienste, wenn ein international anerkannter oder länderspezifischer Identifikator vorhanden ist und der Dienst oder Dritte in der Lage sein müssen, vor Ort zu intervenieren;
+- b. bei der Weiterleitung von Anrufen auf Hilfs- und Beratungsdienste oder Luftrettungsdienste an einen Notdienst zwecks Intervention durch diesen, wenn ein international anerkannter oder ein länderspezifischer Identifikator vorhanden ist;
+- c. bei der Weiterleitung von Anrufen auf Notdienste an einen Luftrettungsdienst oder an eine anerkannte Organisation wie die Militär- oder Transportpolizei.
+
+<sup>4</sup> Es verfügt den Zeitpunkt, ab dem die Standortidentifikation in Echtzeit gewährleistet und die Ortungsfunktion aktiviert sein muss.
+
+<sup>5</sup> Es publiziert die Liste der Dienste und der berechtigten Organisationen nach Absatz 3 sowie den Zeitpunkt nach Absatz 4.
+
+[^29-1]: Fassung gemäss Ziff. I der V vom 6. Mai 2026, in Kraft seit 1. Juli 2026 ([AS 2026 243](https://fedlex.data.admin.ch/eli/oc/2026/243)).
 
 #### Art. 29a
 
-**Standortidentifikation bei Notrufen: Pflichten der Mobilfunkkonzessionärinnen**[^29a-1]
+**Pflichten der Mobilfunkkonzessionärinnen[^29a-2]**[^29a-1]
 
-<sup>1</sup> Die Mobilfunkkonzessionärinnen müssen bei Notrufen auf die Europäische Notrufnummer, die von entsprechend ausgerüsteten Fahrzeugen ausgehen (eCall112), den minimalen Datensatz (*Minimum Set of Data,* MSD) aus dem Sprachkanal herauslesen und für den Standortidentifikationsdienst bereitstellen.
+<sup>1</sup> Die Mobilfunkkonzessionärinnen müssen bei Notrufen auf die Europäische Notrufnummer, die von entsprechend ausgerüsteten Fahrzeugen ausgehen (eCall112/NGeCall112), den minimalen Datensatz (*Minimum Set of Data,* MSD) herauslesen und für den Standortidentifikationsdienst bereitstellen.[^29a-3]
 
 <sup>2</sup> Sie müssen bei Notrufen¸ bei denen die geräte- und betriebssystemeigene Ortungsfunktion sowie die sprachkanalunabhängige Übertragung der Standortinformation genutzt werden (*Advanced Mobile Location,* AML), die Standortinformation für den Standortidentifikationsdienst bereitstellen.
 
 [^29a-1]: Eingefügt durch Ziff. I der V vom 18. Nov. 2020, in Kraft seit 1. Juli 2022 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020); [2021 724](https://fedlex.data.admin.ch/eli/oc/2021/724)).
+[^29a-2]: Fassung gemäss Ziff. I der V vom 6. Mai 2026, in Kraft seit 1. Juli 2026 ([AS 2026 243](https://fedlex.data.admin.ch/eli/oc/2026/243)).
+[^29a-3]: Fassung gemäss Ziff. I der V vom 6. Mai 2026, in Kraft seit 1. Juli 2026 ([AS 2026 243](https://fedlex.data.admin.ch/eli/oc/2026/243)).
 
 #### Art. 29b
 
-**Standortidentifikation bei Notrufen: Betrieb eines Standortidentifikationsdienstes**[^29b-1]
+**Betrieb eines Standortidentifikationsdienstes[^29b-2]**[^29b-1]
 
-<sup>1</sup> Die Grundversorgungskonzessionärin betreibt in Zusammenarbeit mit den übrigen Anbieterinnen des öffentlichen Telefondienstes und zugunsten der Alarmzentralen einen Standortidentifikationsdienst. Dieser muss auch Alarmzentralen zugänglich sein, die nicht bei der Grundversorgungskonzessionärin angeschlossen sind.
+<sup>1</sup> Die Grundversorgungskonzessionärin betreibt in Zusammenarbeit mit den übrigen Anbieterinnen des öffentlichen Telefondienstes einen Standortidentifikationsdienst. Dieser muss den Zentralen der Notdienste sowie der Organisationen nach Artikel 29 Absatz 3 zur Verfügung stehen; dies gilt auch, wenn eine Zentrale einer dieser Organisationen nicht bei der Grundversorgungskonzessionärin angeschlossen ist.[^29b-3]
 
-<sup>2</sup> Die Zusammenarbeit zwischen der Grundversorgungskonzessionärin und den übrigen Anbieterinnen des öffentlichen Telefondienstes sowie die Inanspruchnahme des Standortidentifikationsdienstes durch die Alarmzentralen richten sich nach den in Artikel 54 festgelegten Grundsätzen der kostenorientierten Preisgestaltung.
+<sup>2</sup> Die Zusammenarbeit zwischen der Grundversorgungskonzessionärin und den übrigen Anbieterinnen des öffentlichen Telefondienstes sowie die Nutzung des Standortidentifikationsdienstes durch die Zentralen der Notdienste sowie der Organisationen nach Artikel 29 Absatz 3 richten sich nach Artikel 54.[^29b-4]
 
 <sup>3</sup> Die Anbieterinnen des öffentlichen Telefondienstes tragen die Investitions- und Betriebskosten für das Anbieten des Standortidentifikationsdienstes.
 
 <sup>4</sup> Die wiederkehrenden Kosten der Leistungsbereitstellung sind zwischen den Anbieterinnen des öffentlichen Telefondienstes auf Vorleistungsstufe über die Anzahl der jährlich zu erwartenden Notrufe abzugelten.
 
-<sup>5</sup> Die Alarmzentralen tragen lediglich die Kosten für die Inanspruchnahme des Standortidentifikationsdienstes.
+<sup>5</sup> Die Zentralen der Notdienste sowie der Organisationen nach Artikel 29 Absatz 3 tragen lediglich die Kosten für die Nutzung des Standortidentifikationsdienstes.[^29b-5]
 
 [^29b-1]: Eingefügt durch Ziff. I der V vom 18. Nov. 2020, in Kraft seit 1. Jan. 2021, mit Ausnahme von Abs. 4, in Kraft seit 1. Jan. 2022 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020); [2021 724](https://fedlex.data.admin.ch/eli/oc/2021/724)).
+[^29b-2]: Fassung gemäss Ziff. I der V vom 6. Mai 2026, in Kraft seit 1. Juli 2026 ([AS 2026 243](https://fedlex.data.admin.ch/eli/oc/2026/243)).
+[^29b-3]: Fassung gemäss Ziff. I der V vom 6. Mai 2026, in Kraft seit 1. Juli 2026 ([AS 2026 243](https://fedlex.data.admin.ch/eli/oc/2026/243)).
+[^29b-4]: Fassung gemäss Ziff. I der V vom 6. Mai 2026, in Kraft seit 1. Juli 2026 ([AS 2026 243](https://fedlex.data.admin.ch/eli/oc/2026/243)).
+[^29b-5]: Fassung gemäss Ziff. I der V vom 6. Mai 2026, in Kraft seit 1. Juli 2026 ([AS 2026 243](https://fedlex.data.admin.ch/eli/oc/2026/243)).
 
 #### Art. 30
 
-**Besondere Bestimmungen über Notrufe**[^30-1]
+**Sprachübermittlung über Internet-Protokoll**[^30-1]
 
-<sup>1</sup> Solange bei der Sprachübermittlung über Internet-Protokoll die korrekte Leitweglenkung und Standortidentifikation der Notrufe technisch nicht für jeden Standort möglich ist, müssen diese nur bei Anrufen von dem im Abonnementsvertrag bezeichneten Hauptstandort aus gewährleistet sein.
+<sup>1</sup> Die Anbieterinnen des öffentlichen Telefondienstes müssen bei der Sprachübermittlung über Internet-Protokoll über ihre eigenen Telefonanschlüsse die Leitweglenkung und die Standortidentifikation gewährleisten, sofern dies mit vertretbarem Aufwand möglich ist und die Infrastruktur der Kundinnen und Kunden dies unterstützt.
 
-<sup>2</sup> Die Anbieterinnen des öffentlichen Telefondienstes stellen sicher, dass die Kundinnen und Kunden über diese Einschränkungen informiert werden und deren Kenntnisnahme ausdrücklich bestätigen. Sie machen diese darauf aufmerksam, dass für Notrufe, wenn immer möglich, ein Kommunikationsmittel verwendet werden soll, mit dem die korrekte Leitweglenkung und Standortidentifikation der Notrufe technisch möglich ist.
+<sup>2</sup> Ist dies für einen Standort nicht möglich, so müssen die Leitweglenkung und die Standortidentifikation nur bei Anrufen von dem im Abonnementsvertrag bezeichneten Hauptstandort aus gewährleistet sein.
 
-<sup>3</sup> Notrufe dürfen durch priorisierte Fernmeldedienste der Sicherheitskommunikation (Art. 90 Abs. 2) nicht unterbrochen werden.
+<sup>3</sup> Sie müssen die Kundinnen und Kunden über allfällige Einschränkungen informieren und sich deren Kenntnisnahme ausdrücklich bestätigen lassen.
 
-[^30-1]: Fassung gemäss Ziff. I der V vom 18. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+<sup>4</sup> Sie müssen die Kundinnen und Kunden darauf hinweisen, dass sie für den Zugang zu den Diensten nach den Artikeln 28–29 und 31*b* AEFV[^30-2], wenn immer möglich, ein Kommunikationsmittel verwenden sollten, das die korrekte Leitweglenkung und Standortidentifikation technisch ermöglicht.
+
+[^30-1]: Fassung gemäss Ziff. I der V vom 6. Mai 2026, in Kraft seit 1. Juli 2026 ([AS 2026 243](https://fedlex.data.admin.ch/eli/oc/2026/243)).
+[^30-2]: [SR 784.104](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9196)
+
+### 4. Abschnitt: Weitere Pflichten
+
+[^chap4-sec4-1]
+
+[^chap4-sec4-1]: Eingefügt durch Ziff. I der V vom 6. Mai 2026, in Kraft seit 1. Juli 2026 ([AS 2026 243](https://fedlex.data.admin.ch/eli/oc/2026/243)).
 
 #### Art. 31
 
@@ -882,7 +954,7 @@ Die Anbieterinnen von Fernmeldediensten, die verpflichtet sind, die Nummernporta
 
 <sup>1</sup> Mehrwertdienste müssen für die Benutzerinnen und Benutzer klar erkennbar sein.
 
-<sup>2</sup> Für die Bereitstellung von Mehrwertdiensten über Adressierungselemente des Nummerierungsplans E.164 dürfen nur einzeln zugeteilte Nummern nach den Artikeln 24*b*–24*i* AEFV[^36-1] und Kurznummern nach den Artikeln 29–32 und 54 AEFV verwendet werden.[^36-2]
+<sup>2</sup> Für die Bereitstellung von Mehrwertdiensten über Adressierungselemente des Nummerierungsplans E.164 dürfen nur einzeln zugeteilte Nummern nach den Artikeln 24*b*–24*i* AEFV[^36-1] und Kurznummern nach den Artikeln 30, 31*a* und 32 AEFV verwendet werden.[^36-2]
 
 <sup>3</sup> Für die Bereitstellung von Mehrwertdiensten mittels SMS oder MMS dürfen nur Kurznummern nach den Artikeln 15*a*–15*f* AEFV verwendet werden.
 
@@ -893,7 +965,7 @@ Die Anbieterinnen von Fernmeldediensten, die verpflichtet sind, die Nummernporta
 <sup>5</sup> Mehrwertdienste mit erotischen oder pornografischen Inhalten müssen einer separaten, für die Kundinnen und Kunden klar erkennbaren Kategorie angehören.
 
 [^36-1]: [SR 784.104](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9196)
-[^36-2]: Fassung gemäss Ziff. I der V vom 18. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+[^36-2]: Fassung gemäss Ziff. I der V vom 6. Mai 2026, in Kraft seit 1. Juli 2026 ([AS 2026 243](https://fedlex.data.admin.ch/eli/oc/2026/243)).
 [^36-3]: Eingefügt durch Ziff. I der V vom 5. Nov. 2014, in Kraft seit 1. Jan. 2015 ([AS 2014 4161](https://fedlex.data.admin.ch/eli/oc/2014/697)).
 
 #### Art. 37
@@ -1649,7 +1721,7 @@ Die Anbieterinnen von Fernmeldediensten dürfen die Verkehrsdaten der Kundinnen 
 
 <sup>1</sup> Solange die Möglichkeit der Anfechtung ihrer Rechnung besteht, können die Kundinnen und Kunden von ihrer Anbieterin verlangen, ihnen im Einzelfall oder bei jeder Rechnungsstellung alle Daten mitzuteilen, welche für die Rechnungsstellung verwendet werden. Sofern dafür Nummern der anrufenden Anschlüsse verwendet werden, sind diese ohne die letzten vier Ziffern anzugeben.[^81-2]
 
-<sup>2</sup> Nicht mitgeteilt werden dürfen die Daten bei Anrufen auf die telefonische Hilfe für Kinder und Jugendliche nach Artikel 28 Buchstabe f AEFV[^81-3].[^81-4]
+<sup>2</sup> Nicht mitgeteilt werden dürfen die Daten bei Anrufen auf die Dienste nach den Artikeln 28*a* und 31*b* AEFV[^81-3].[^81-4]
 
 <sup>3</sup> Bei Anschlüssen mit Vorbezahlung der Dienste müssen die Daten während eines Monats nach Belastung des Entgelts auf Verlangen mitgeteilt werden.
 
@@ -1658,7 +1730,7 @@ Die Anbieterinnen von Fernmeldediensten dürfen die Verkehrsdaten der Kundinnen 
 [^81-1]: Fassung gemäss Ziff. I der V vom 18. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
 [^81-2]: Fassung gemäss Ziff. I der V vom 5. Nov. 2014, in Kraft seit 1. Jan. 2015 ([AS 2014 4161](https://fedlex.data.admin.ch/eli/oc/2014/697)).
 [^81-3]: [SR 784.104](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9196)
-[^81-4]: Fassung gemäss Ziff. I der V vom 18. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+[^81-4]: Fassung gemäss Ziff. I der V vom 6. Mai 2026, in Kraft seit 1. Juli 2026 ([AS 2026 243](https://fedlex.data.admin.ch/eli/oc/2026/243)).
 
 #### Art. 82
 
@@ -1705,13 +1777,33 @@ Macht eine Kundin oder ein Kunde schriftlich glaubhaft, dass sie oder er missbr�
 
 **Anzeige der Nummer der Anrufenden**
 
-<sup>1</sup> Wenn es mit vertretbarem Aufwand technisch möglich ist, müssen die Anbieterinnen von Fernmeldediensten ihren Kundinnen und Kunden auf einfache und unentgeltliche Weise die Möglichkeit bieten, die Anzeige ihrer Nummer auf der Anlage der oder des Angerufenen zu unterdrücken, und zwar für jeden Anruf einzeln oder als Dauerfunktion.
+<sup>1</sup> Wenn es mit verhältnismässigem Aufwand technisch möglich ist, müssen die Anbieterinnen von Fernmeldediensten ihren Kundinnen und Kunden auf einfache und unentgeltliche Weise die Möglichkeit bieten, die Anzeige ihrer Rufnummer auf der Anlage der angerufenen Person zu unterdrücken, und zwar für jeden Anruf einzeln oder als Dauerfunktion.[^84-1]
 
 <sup>2</sup> Sie müssen ihre Kundinnen und Kunden beim Abschluss des Abonnementsvertrags ausdrücklich auf diese Möglichkeit hinweisen.
 
-<sup>3</sup> In allen Fällen garantieren müssen sie die Anzeige der Rufnummer der Anrufenden für die Verbindungen, bei denen die Standortidentifikation nach den Artikeln 29 Absatz 1 und 90 Absatz 5 gewährleistet werden muss, sowie für Anrufe auf den Transkriptionsdienst für Hörbehinderte nach Artikel 15 Absatz 1 Buchstabe e. Ausser für Anrufe auf den eigenen Störungsdienst darf anderen Kundinnen und Kunden die Anzeige der Rufnummer der Anrufenden, die den Dienst Rufnummerunterdrückung gewählt haben, nicht gewährt werden.[^84-1]
+<sup>3</sup>
 
-[^84-1]: Fassung gemäss Ziff. I der V vom 18. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+In allen Fällen anzeigen müssen sie die Rufnummer bei einem Anruf auf:
+
+- a. die Notdienste;
+- b. den Transkriptionsdienst für Hörbehinderte nach Artikel 15 Absatz 1 Buchstabe e;
+- c. die Nummern der Organe nach Artikel 90 Absatz 5.[^84-2]
+
+<sup>4</sup> Sie dürfen die Rufnummerunterdrückung nur deaktivieren, wenn die Anrufenden den Störungsdienst der eigenen Anbieterin kontaktieren.[^84-3]
+
+<sup>5</sup> Die Dienste nach den Artikeln 28*a*, 29 und 31*b* AEFV[^84-4] und andere anerkannte Organisationen wie die Militärpolizei oder Transportpolizei können beim BAKOM beantragen, dass die Rufnummer der anrufenden Person angezeigt werden muss.[^84-5]
+
+<sup>6</sup> Das BAKOM verfügt den Zeitpunkt, ab dem die Rufnummer angezeigt werden muss.[^84-6]
+
+<sup>7</sup> Es publiziert die Liste der Dienste und Organisationen nach Absatz 5, deren Antrag gutgeheissen wurde, sowie den Zeitpunkt nach Absatz 6.[^84-7]
+
+[^84-1]: Fassung gemäss Ziff. I der V vom 6. Mai 2026, in Kraft seit 1. Juli 2026 ([AS 2026 243](https://fedlex.data.admin.ch/eli/oc/2026/243)).
+[^84-2]: Fassung gemäss Ziff. I der V vom 6. Mai 2026, in Kraft seit 1. Juli 2026 ([AS 2026 243](https://fedlex.data.admin.ch/eli/oc/2026/243)).
+[^84-3]: Eingefügt durch Ziff. I der V vom 6. Mai 2026, in Kraft seit 1. Juli 2026 ([AS 2026 243](https://fedlex.data.admin.ch/eli/oc/2026/243)).
+[^84-4]: [SR 784.104](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9196)
+[^84-5]: Eingefügt durch Ziff. I der V vom 6. Mai 2026, in Kraft seit 1. Juli 2026 ([AS 2026 243](https://fedlex.data.admin.ch/eli/oc/2026/243)).
+[^84-6]: Eingefügt durch Ziff. I der V vom 6. Mai 2026, in Kraft seit 1. Juli 2026 ([AS 2026 243](https://fedlex.data.admin.ch/eli/oc/2026/243)).
+[^84-7]: Eingefügt durch Ziff. I der V vom 6. Mai 2026, in Kraft seit 1. Juli 2026 ([AS 2026 243](https://fedlex.data.admin.ch/eli/oc/2026/243)).
 
 #### Art. 85
 
@@ -1814,14 +1906,15 @@ Die Anbieterinnen von Fernmeldediensten können zur Unterstützung der Organe na
 
 **Verpflichtung von Anbieterinnen**
 
-<sup>1</sup> Grundsätzlich bestellen die Organe nach Artikel 47 Absatz 1 FMG die benötigten Leistungen auf vertraglicher Basis bei einer Anbieterin von Fernmeldediensten ihrer Wahl.[^92-1]
+<sup>1</sup> Grundsätzlich bestellen die Organe nach Artikel 47 Absatz 1 FMG[^92-1] die benötigten Leistungen auf vertraglicher Basis bei Anbieterinnen von Fernmeldediensten ihrer Wahl.[^92-2]
 
-<sup>2</sup> Erfolgt im Rahmen einer öffentlichen Ausschreibung kein Angebot, so können sie das BAKOM unter Vorlage der Ausschreibungsunterlagen ersuchen, eine Anbieterin zur Erbringung der benötigten Leistungen zu verpflichten.[^92-2]
+<sup>2</sup> Erfolgt im Rahmen einer öffentlichen Ausschreibung kein Angebot, so können sie das BAKOM unter Vorlage der Ausschreibungsunterlagen ersuchen, Anbieterinnen zur Erbringung der benötigten Leistungen zu verpflichten.[^92-3]
 
 <sup>3</sup> Der Bundesrat kann Anbieterinnen von Fernmeldediensten, deren Anlagen oder Dienste in ausserordentlichen Lagen von Bedeutung sind, verpflichten, sich im Hinblick auf solche Situationen zu organisieren.
 
-[^92-1]: Fassung gemäss Ziff. I der V vom 18. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
-[^92-2]: Fassung gemäss Ziff. I der V vom 18. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)).
+[^92-1]: [SR 784.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9171)
+[^92-2]: Fassung gemäss Ziff. I der V vom 6. Mai 2026, in Kraft seit 1. Juli 2026 ([AS 2026 243](https://fedlex.data.admin.ch/eli/oc/2026/243)).
+[^92-3]: Fassung gemäss Ziff. I der V vom 6. Mai 2026, in Kraft seit 1. Juli 2026 ([AS 2026 243](https://fedlex.data.admin.ch/eli/oc/2026/243)).
 
 #### Art. 93
 
@@ -2200,6 +2293,27 @@ Sie müssen dem BAKOM wie folgt Bericht erstatten:
 - b. Sie reichen jährlich einen Zwischenstandsbericht ein, erstmals am 31. Januar 2028, letztmals am 31. Januar 2034.
 
 [^108d-1]: Eingefügt durch Ziff. I der V vom 14. Jan. 2026, in Kraft seit 1. März 2026 ([AS 2026 42](https://fedlex.data.admin.ch/eli/oc/2026/42)).
+
+#### Art. 108e
+
+**Übergangsbestimmung zur Änderung vom 6. Mai 2026**[^108e-1]
+
+<sup>1</sup>
+
+Die Anbieterinnen des öffentlichen Telefondienstes müssen spätestens 12 Monate nach Inkrafttreten dieser Änderung Folgendes gewährleisten:
+
+- a. den unentgeltlichen Zugang zu den Diensten nach Artikel 27 Absatz 1;
+- b. die Leitweglenkung nach Artikel 28;
+- c. die Erfüllung der Pflichten nach Artikel 28*a* Absätze 1–5.
+
+<sup>2</sup> Die Mobilfunkkonzessionärinnen müssen spätestens 6 Monate nach Inkrafttreten dieser Änderung die Pflicht nach Artikel 29*a* Absatz 1 erfüllen. Sie müssen den Zugang nach Artikel 28*a* Absatz 6 spätestens 24 Monate nach Inkrafttreten dieser Änderung sicherstellen.
+
+<sup>3</sup> Die Hilfs- und Beratungsdienste, welche die Standortidentifikation und die geräteeigene Ortungsfunktionen sowie das Recht auf Erzwingung der Rufnummernanzeige weiterhin beanspruchen wollen, müssen die Gesuche nach den Artikeln 29 Absatz 3 und 84 Absatz 5 spätestens 6 Monate nach Inkrafttreten dieser Änderung einreichen. Lehnt das BAKOM das Gesuch ab, so verfügt es den Zeitpunkt, ab dem die Standortidentifikation deaktiviert sein muss. Die Deaktivierung muss spätestens 24 Monate nach Inkrafttreten dieser Änderung erfolgen. Bis zum Zeitpunkt der Deaktivierung dürfen die Hilfs- und Beratungsdienste die Standortidentifikation weiterhin nutzen und die Anbieterinnen des öffentlichen Telefondienstes müssen die Funktion weiterhin sicherstellen.
+
+<sup>4</sup> Die Anbieterinnen des öffentlichen Telefondienstes müssen die Standortidentifikation für Nummern, für die nach Artikel 29 Absatz 3 FDV in der Fassung vom 1. Januar 2021[^108e-2] die Standortidentifikation garantiert werden muss, während 12 Monaten nach Inkrafttreten dieser Änderung sicherstellen. Sie müssen die Standortidentifikation nach Ablauf dieser Frist innerhalb von 6 Monaten deaktivieren.
+
+[^108e-1]: Eingefügt durch Ziff. I der V vom 6. Mai 2026, in Kraft seit 1. Juli 2026 ([AS 2026 243](https://fedlex.data.admin.ch/eli/oc/2026/243)).
+[^108e-2]: [AS 2020 6183](https://fedlex.data.admin.ch/eli/oc/2020/1020)
 
 ### 4. Abschnitt: Inkrafttreten
 
