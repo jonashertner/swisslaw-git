@@ -3,20 +3,19 @@ canton: BL
 number: "837.21"
 title: Verordnung über die Tripartite Kommission (TPK) für die Regionalen Arbeitsvermittlungszentren (RAV)
 language: de
-version: 2003-01-01
-valid_until: 2026-06-30
-version_adopted: 2003-01-07
+version: 2026-07-01
+version_adopted: 2026-06-23
 adopted: 2003-01-07
 in_force: 2003-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/837.21"
-pdf: "https://bl.clex.ch/api/de/versions/3634/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/4482/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die Tripartite Kommission (TPK) für die Regionalen Arbeitsvermittlungszentren (RAV)
 
-Vom 07.01.2003 (Stand 01.01.2003)
+Vom 07.01.2003 (Stand 01.07.2026)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -33,8 +32,8 @@ beschliesst:
 
 <sup>1</sup> Vorschlagsberechtigte Organisationen für die Wahl der Mitglieder der TPK sind:
 
-- a. für die Vertreterinnen und Vertreter von Arbeitgebendenorganisationen: die Wirtschaftskammer Baselland, die Handelskammer beider Basel und die Basler Gesellschaft für Personal-Management;
-- b. für die Vertreterinnen und Vertreter von Arbeitnehmendenorganisationen: der Gewerkschaftsbund Baselland, die Christliche Gewerkschaftsvereinigung Nordwestschweiz und der Kaufmännische Verband Baselland;
+- a. für die Vertreterinnen und Vertreter von Arbeitgebendenorganisationen: die Wirtschaftskammer Baselland, die Handelskammer beider Basel und der Arbeitgeberverband Region Basel;
+- b. für die Vertreterinnen und Vertreter von Arbeitnehmendenorganisationen: der Gewerkschaftsbund beider Basel, die Gewerkschaft Syna und der Kaufmännische Verband Baselland;
 - c. für die Vertreterinnen und Vertreter der politischen Gemeinden: der Verband Basellandschaftlicher Gemeinden.
 
 <sup>2</sup> Verliert ein Mitglied die Funktion, aufgrund welcher es gewählt worden ist, so scheidet es aus der TPK aus.
