@@ -1,1021 +1,982 @@
 ---
 canton: NW
 number: "622.1"
-title: Gesetz über den Bau und Unterhalt der Strassen
+title: Gesetz über den Bau und Unterhalt von Strassen und Velowegen
 short: "Strassengesetz, StrG"
 language: de
-version: 2026-03-01
-valid_until: 2026-06-30
+version: 2026-07-01
 version_adopted: 2025-11-26
 adopted: 2025-11-26
 in_force: 2026-07-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/622.1"
-pdf: "https://gesetze.nw.ch/api/de/versions/1479/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/1510/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Gesetz über den Bau und Unterhalt der Strassen
+# Gesetz über den Bau und Unterhalt von Strassen und Velowegen
 
 (Strassengesetz, StrG)
 
-vom 24.04.1966 (Stand 01.03.2026)
+vom 26.11.2025 (Stand 01.07.2026)
 
-## 1 Allgemeine Bestimmungen
+Der Landrat von Nidwalden,
+
+gestützt auf Art. 60 Abs. 1 der Kantonsverfassung und in Ausführung des Bundesgesetzes vom 18. März 2022 über Velowege (Veloweggesetz)[^ingress-1],
+
+beschliesst:
+
+[^ingress-1]: SR 705
+
+## 1. Allgemeine Bestimmungen
 
 #### Art. 1
 
-**Geltungsbereich**
+**Gegenstand, Geltungsbereich**
 
-<sup>1</sup> Dieses Gesetz regelt die öffentlichrechtlichen Verhältnisse an den Strassen.
+<sup>1</sup> Dieses Gesetz regelt die Planung, den Bau, den Unterhalt, die Benutzung und die Finanzierung von Strassen und Velowegen.
 
-<sup>2</sup> Die Bestimmungen, die es für die Strassen aufstellt, sind sinngemäss auch auf Wege und Plätze anwendbar.
+<sup>2</sup> Es gilt für alle öffentlichen und privaten Strassen, mit Ausnahme der Nationalstrassen.
 
-<sup>3</sup> Vorbehalten bleibt die eidgenössische und kantonale Gesetzgebung über die Nationalstrassen[^1-1], über Fuss-, Wander- und Mountainbikewege[^1-2] sowie die als Bodenverbesserungswerke erstellten Flurstrassen[^1-3].
+<sup>3</sup> Die Vorschriften über Strassen gelten auch für Velowege, soweit in diesem Gesetz nicht abweichende Bestimmungen für Velowege bestehen.
 
-[^1-1]: SR 725.11; NG 621
+<sup>4</sup> Vorbehalten bleiben insbesondere die Vorschriften der Strassenverkehrsgesetzgebung (SVG)[^1-1] sowie des Fuss-, Wander- und Mountainbikegesetzes (FWMG)[^1-2].
+
+[^1-1]: SR 741.01
 [^1-2]: NG 614.1
-[^1-3]: NG 211.0
 
 #### Art. 2
 
-**Grundsätze für die Ausgestaltung der Strassen**
+**Strassen**
 
-<sup>1</sup> Die Strassen haben den verkehrstechnischen Anforderungen zu genügen; sie sollen insbesondere eine sichere und wirtschaftliche Abwicklung des Verkehrs gewährleisten.
+<sup>1</sup> Strassen umfassen nebst dem Strassenkörper alle Bauten und Anlagen, die aus technischen, betrieblichen, gestalterischen oder umweltrechtlichen Gründen, wegen der Verkehrssicherheit oder der öffentlichen Sicherheit innerhalb und ausserhalb der Strasse nötig sind.
 
-<sup>2</sup> Stehen diesen Anforderungen andere schutzwürdige Interessen entgegen, wie insbesondere die Erfordernisse der wirtschaftlichen Nutzung des Grundeigentums, die Anliegen der Regional- und Ortsplanung oder des Gewässer-, Natur- und Heimatschutzes, so sind die Interessen gegeneinander abzuwägen.
+<sup>2</sup> Der Regierungsrat führt die Strassenbestandteile in einer Verordnung näher aus.
 
 #### Art. 3
 
-**Umgrenzung der Strassen**
+**Velowege**
 
-<sup>1</sup> Zu den Strassen gehören neben dem Strassenkörper alle Anlagen, die zur technisch richtigen Ausgestaltung der Strassen erforderlich sind, sowie Böschungen, deren Bewirtschaftung dem Anstösser nicht zugemutet werden kann.
+<sup>1</sup> Als Velowege gelten Velowege für den Alltag und die Freizeit im Sinne des Veloweggesetzes[^3-1], soweit diese nicht unter das Fuss-, Wander- und Mountainbikegesetz (FWMG)[^3-2] fallen.
 
-<sup>2</sup> Die für den Verkehr und den Bestand der Strasse notwendigen Schutzvorrichtungen gelten ebenfalls als Bestandteil der Strasse.
+[^3-1]: SR 705
+[^3-2]: NG 614.1
 
 #### Art. 4
 
-**Einteilung der Strassen A. öffentliche Strassen**
+**Zweck, Ausgestaltung der Strassen**
 
-<sup>1</sup> Öffentliche Strassen sind jene Strassen, die aufgrund des öffentlichen Rechts im Rahmen ihrer Zweckbestimmung dem öffentlichen Verkehr dienen.
+<sup>1</sup> Die Strassen haben eine sichere und wirtschaftliche Abwicklung des Verkehrs zu gewährleisten.
 
-<sup>2</sup> Die öffentlichen Strassen werden nach ihrer Bestimmung und Bedeutung eingeteilt in:
-
-- 1\. Nationalstrassen,
-- 2\. Kantonsstrassen,
-- 3\. Gemeindestrassen,
-- 4\. öffentliche Strassen privater Eigentümer.
+<sup>2</sup> Sie haben den verkehrstechnischen Anforderungen zu entsprechen.
 
 #### Art. 5
 
-**1. Nationalstrassen**
+**Berücksichtigung des öffentlichen Verkehrs**
 
-<sup>1</sup> Die Nationalstrassen werden durch den Bund bezeichnet.[^5-1]
-
-[^5-1]: SR 725.113.11
+<sup>1</sup> Der Strassenbau ist auf allen Planungs- und Entscheidungsstufen mit den Bedürfnissen des öffentlichen Verkehrs abzustimmen.
 
 #### Art. 6
 
-**2. Kantonsstrassen a) Begriff und Einreihung**
+**Normen**
 
-<sup>1</sup> Zu den Kantonsstrassen gehören:
+<sup>1</sup> Die Normen anerkannter gesamtschweizerischer Fachverbände gelten als Richtlinien.
 
-- 1\. die Hauptverkehrsstrassen, die für den Durchgangsverkehr notwendig sind;
-- 2\. die Verbindungsstrassen, die den Anschluss wichtiger Kantonsteile an die Hauptverkehrsstrassen herstellen und nicht durch eine Flurgenossenschaft erstellt worden sind.
+<sup>2</sup> Der Regierungsrat kann Normen in einer Verordnung als verbindlich erklären.
 
-<sup>2</sup> Der Landrat legt das Kantonsstrassennetz im kantonalen Strassenrichtplan[^6-1] fest; dabei muss er alle Strassen zu Kantonsstrassen erklären, welche die Voraussetzungen gemäss Absatz 1 erfüllen.
-
-<sup>3</sup> Erfüllt eine Strasse die Aufgaben einer Kantonsstrasse nicht mehr, kann sie der Landrat nach Anhören der Gemeinde und nach Vornahme der aufgrund der verkehrstechnischen Anforderungen nötigen Instandstellungsarbeiten vom Kantonsstrassennetz ausschliessen und in das Eigentum der Gemeinde überführen.
-
-[^6-1]: NG 622.12
+## 2. Organisation
 
 #### Art. 7
 
-**b) Innerortsstrecken**
+**Grundsätze**
 
-<sup>1</sup> Das zwischen den Ortschaftstafeln liegende Stück einer Kantonsstrasse gilt als Innerortsstrecke im Sinne dieses Gesetzes.
+<sup>1</sup> Die Direktion vollzieht dieses Gesetz, soweit Aufgaben dem Kanton zugewiesen und nicht einer anderen kantonalen Instanz übertragen sind.
+
+<sup>2</sup> Der Gemeinderat vollzieht dieses Gesetz, soweit Aufgaben der Gemeinde zugewiesen und weder in diesem Gesetz noch nach kommunalem Recht einer anderen kommunalen Instanz übertragen sind.
 
 #### Art. 8
 
-**3. Gemeindestrassen a) Begriff und Einreihung**
+**Strassenverwaltung**
 
-<sup>1</sup> Gemeindestrassen sind Strassen, die dem allgemeinen Verkehr innerhalb einer Ortschaft dienen oder die Verbindung zwischen Quartieren oder Weilern unter sich, mit einer Nachbargemeinde oder einer Kantonsstrasse herstellen.
+<sup>1</sup> Strassenverwaltungsinstanz ist:
 
-<sup>2</sup> Das Netz der Gemeindestrassen wird festgelegt:
+- 1\. die Direktion für Kantonsstrassen;
+- 2\. der Gemeinderat für Gemeindestrassen und öffentliche Strassen im Privateigentum;
+- 3\. die Eigentümerschaft von Privatstrassen, wobei der Gemeinderat die hoheitlichen Befugnisse wahrnimmt.
 
-- 1\. durch den kommunalen Strassenrichtplan[^8-1];
-- 2\. durch Beschluss des Landrates gemäss Art. 6 Abs. 3.
-
-[^8-1]: NG 622.12
+<sup>2</sup> Die Strassenverwaltungsinstanz ist für den Bau, den Unterhalt und den Betrieb der Strassen zuständig, soweit dieses Gesetz oder die Strassenreglemente der Gemeinden nichts Abweichendes bestimmen.
 
 #### Art. 9
 
-**b) Übernahme von öffentlichen Strassen privater Eigentümer und Privatstrassen**
+**Strassenaufsicht**
 
-<sup>1</sup> Die Gemeindeversammlung kann öffentliche Strassen privater Eigentümer und Privatstrassen in das Eigentum der Gemeinde überführen:
+<sup>1</sup> Organe der Strassenaufsicht sind:
 
-- 1\. durch freie Vereinbarung zwischen der Gemeinde und dem Träger der Strassenbaulast;
-- 2\. durch Enteignung, sofern hierfür die gesetzlichen Voraussetzungen erfüllt sind.
+- 1\. der Gemeinderat für Privatstrassen;
+- 2\. der Regierungsrat für alle übrigen Strassen.
 
-<sup>2</sup> Der Träger der Strassenbaulast hat einen Rechtsanspruch auf die Übernahme durch die Gemeindeversammlung, sofern die zu übernehmende Strasse den verkehrstechnischen Anforderungen genügt und ausser dem Zubringerverkehr der Anstösser in erheblichem Ausmass auch dem allgemeinen Verkehr als Querverbindung zwischen Kantons- und Gemeindestrassen dient.
+<sup>2</sup> Sie überwachen die Erfüllung der Aufgaben, welche der Strassenverwaltung obliegen und ordnen erforderliche Massnahmen wie insbesondere die Ersatzvornahme nach Art. 128 ff. des Verwaltungsrechtspflegegesetzes[^9-1] an.
 
-<sup>3</sup> Der Unterhalt sowie der Ausbau sind unter Vorbehalt von Art. 75 Abs. 2 Sache der Gemeinde.
-
-<sup>4</sup> Die Vor- und Nachteile, die dem bisherigen Träger der Strassenbaulast beziehungsweise der Gemeinde erwachsen, sind voll zu entschädigen; wenn über die vom Träger der Strassenbaulast beziehungsweise von der Gemeinde zu leistende Entschädigung keine Einigung zustande kommt, hat hierüber der Richter gemäss den Grundsätzen des Enteignungsrechtes zu entscheiden.
+[^9-1]: SR 265.1
 
 #### Art. 10
 
-**4. öffentliche Strassen privater Eigentümer**
+**Fachstelle Velowege**
 
-<sup>1</sup> Öffentliche Strassen privater Eigentümer sind Strassen im Eigentum öffentlichrechtlicher Körperschaften oder Privater, die von jedermann benützt werden können, insbesondere alle Strassen, die schon vor dem Jahre 1900 öffentlich benützt worden sind.
+<sup>1</sup> Der Regierungsrat bezeichnet in einer Verordnung die Fachstelle für Velowege gemäss Art. 17 Veloweggesetz[^10-1].
 
-<sup>2</sup> Die Gemeinden sind berechtigt, Vorschriften über den Unterhalt öffentlicher Strassen privater Eigentümer zu erlassen.
+[^10-1]: SR 705
 
-#### Art. 10a
+### 3. Strassenkategorien
 
-**5. Radrouten**
-
-<sup>1</sup> Radrouten umfassen Radwege und Radstreifen, die als solche in den Strassenrichtplänen festgelegt sind; Radwege sind von Kantons- und Gemeindestrassen unabhängig geführte Wege, Radstreifen sind besonders markierte Radspuren auf der Fahrbahn von Kantons- und Gemeindestrassen.
-
-<sup>2</sup> Einteilung, Hoheit und Eigentum einer Strasse werden durch deren Bezeichnung als Radroute nicht geändert.
+### 3.1 Einteilung
 
 #### Art. 11
 
-**B. Privatstrassen**
+**Öffentliche Strassen 1. Kantonsstrassen**
 
-<sup>1</sup> Die in den Artikeln 5 bis 10 nicht genannten Strassen sind Privatstrassen.
+<sup>1</sup> Kantonsstrassen dienen dem regionalen Verkehr, verbinden die Gemeindezentren oder stellen die Verbindung zu wichtigen Ortsteilen her. Sie bilden zusammen mit den Nationalstrassen das übergeordnete Strassennetz im Kanton.
 
-<sup>2</sup> Die durch Flurgenossenschaften oder Korporationen erstellten und vorwiegend der land- oder forstwirtschaftlichen Bewirtschaftung dienenden Strassen sind Privatstrassen, soweit das Gemeinwesen bei der Beitragszusicherung nicht andere Bedingungen aufstellt.
+<sup>2</sup> Der Landrat legt das Kantonsstrassennetz fest und führt es im kantonalen Richtplan nach.
+
+<sup>3</sup> Die Kantonsstrassen stehen grundsätzlich im Eigentum des Kantons.
 
 #### Art. 12
 
-**Strassenverzeichnis**
+**2. Gemeindestrassen**
 
-<sup>1</sup> Das Strassenverzeichnis wird geführt:
+<sup>1</sup> Gemeindestrassen erschliessen die Siedlungsgebiete, stellen die Verbindung zum übergeordneten Strassennetz sicher und dienen insbesondere dem örtlichen Verkehr.
 
-- 1\. für Nationalstrassen und Kantonsstrassen durch den Kanton;
-- 2\. für Gemeindestrassen, öffentliche Strassen privater Eigentümer und Privatstrassen durch die Gemeinde.
+<sup>2</sup> Die Gemeindestrassen stehen grundsätzlich im Eigentum der Gemeinden.
 
 #### Art. 13
 
-**Hoheit**
+**3. öffentliche Strassen im Privateigentum**
 
-<sup>1</sup> Unter Vorbehalt der Befugnisse des Bundes steht die Strassenhoheit dem Kanton und im Rahmen dieses Gesetzes den Gemeinden zu.
+<sup>1</sup> Öffentliche Strassen im Privateigentum sind Strassen im Privateigentum, die der Allgemeinheit zur Verfügung stehen und an deren Benutzung ein hinreichendes öffentliches Interesse besteht.
 
-<sup>2</sup> Die Strassenhoheit erstreckt sich auch auf die dem Verkehr offenstehenden Privatstrassen, soweit es dieses Gesetz bestimmt.
+<sup>2</sup> Sie werden im Strassenverzeichnis gemäss Art. 53 ff. verbindlich festgelegt.
 
 #### Art. 14
 
-**Eigentum**
+**Privatstrassen**
 
-<sup>1</sup> Die Kantonsstrassen und deren Radstreifen stehen im Eigentum des Kantons, die Gemeindestrassen und deren Radstreifen im Eigentum der Gemeinde.
-
-<sup>2</sup> Radwege, die als solche gebaut werden, stehen ausserorts im Eigentum des Kantons, innerorts im Eigentum der Gemeinde.
-
-<sup>3</sup> Trottoirs entlang von Kantonsstrassen stehen innerorts im Eigentum der Gemeinde.
+<sup>1</sup> Strassen im Privateigentum, die keiner Strassenkategorie gemäss Art. 11 - 13 zuzuordnen sind, gelten als Privatstrassen.
 
 #### Art. 15
 
-**Strassenbaulast**
+**Velowegnetz 1. des Kantons**
 
-<sup>1</sup> Die Strassenbaulast umfasst alle mit dem Bau, Unterhalt und Betrieb einer Strasse zusammenhängenden Aufgaben; die in den Artikeln 58 bis 60 enthaltenen Vorschriften über Beleuchtung, Reinigung, Schneeräumung und Glatteisbekämpfung bleiben vorbehalten.
+<sup>1</sup> Das kantonale Velowegnetz dient dem regionalen Verkehr und stellt die Verbindung der Gemeinden sicher.
 
-#### Art. 15a
-
-**Vereinbarungen über Betrieb und Unterhalt**
-
-<sup>1</sup> Der Kanton kann im Rahmen von interkantonalen Verträgen oder von Leistungsvereinbarungen mit Gemeinwesen oder Privaten den Betrieb und den Unterhalt:
-
-- 1\. von Nationalstrassen gegen Entgelt übernehmen;
-- 2\. aller übrigen Strassen gegen Entgelt übernehmen oder übertragen.
-
-<sup>2</sup> Der Regierungsrat schliesst die Verträge und die Leistungsvereinbarungen ab.
-
-## 2 Organisation
+<sup>2</sup> Der Landrat legt das kantonale Velowegnetz fest und führt es im kantonalen Richtplan nach.
 
 #### Art. 16
 
-**Strassenaufsichtsbehörden**
+**2. der Gemeinden**
 
-<sup>1</sup> Das Strassenwesen untersteht der Oberaufsicht des Regierungsrates.
+<sup>1</sup> Das kommunale Velowegnetz dient dem örtlichen Verkehr und ergänzt das kantonale Velowegnetz.
 
-<sup>2</sup> Die unmittelbare Aufsicht obliegt:
+<sup>2</sup> Die Gemeinde legt das kommunale Velowegnetz im Verkehrsrichtplan fest.
 
-- 1\. für Kantonsstrassen der zuständigen Direktion;
-- 2\. für Gemeindestrassen, öffentliche Strassen privater Eigentümer und Privatstrassen dem Gemeinderat.
-
-<sup>3</sup> Die Strassenaufsichtsbehörde überwacht die Erfüllung der Aufgaben, die den Trägern der Strassenbaulast obliegen, und trifft die erforderlichen Massnahmen.
+### 3.2 Änderung der Strassenkategorie
 
 #### Art. 17
 
-**Strassenbauorgane**
+**Allgemein**
 
-<sup>1</sup> Strassenbauorgane sind:
+<sup>1</sup> Vor der Überführung einer Strasse in eine neue Strassenkategorie hat die Eigentümerschaft die Strasse nach Massgabe der verkehrstechnischen Anforderungen entschädigungslos in einen werkmängelfreien Zustand zu versetzen.
 
-- 1\. für Kantonsstrassen die zuständige Direktion;
-- 2\. für Gemeindestrassen der Gemeinderat, soweit die Gemeindeordnung nicht eine Kommission als Strassenbauorgan bezeichnet;
-- 3\. für öffentliche Strassen privater Eigentümer sowie für Privatstrassen die Strasseneigentümerin oder der Strasseneigentümer und, soweit es die Wahrnehmung der hoheitlichen Befugnisse im Sinne dieses Gesetzes betrifft, der Gemeinderat.
+<sup>2</sup> Die Parteien können anstelle der Instandstellung eine Entschädigungsleistung vereinbaren.
 
-<sup>2</sup> Dem Strassenbauorgan obliegen Bau und Unterhalt der Strassen und die Wahrnehmung der hoheitlichen Befugnisse; es ist verpflichtet, für die Beseitigung gesetzwidriger Zustände zu sorgen.
+<sup>3</sup> Die Änderungen von Zuordnungen zu Strassenkategorien sind in den massgebenden Richtplänen nachzuführen.
+
+<sup>4</sup> Der Regierungsrat regelt die Änderung von Zuordnungen zu Strassenkategorien in einer Verordnung.
 
 #### Art. 18
 
-**Ersatzvornahme**
+**Kantonsstrassen**
 
-<sup>1</sup> Durch Verfügung des Regierungsrates kann der Kanton die einer Gemeinde nach Massgabe dieses Gesetzes obliegenden Aufgaben auf Kosten der Gemeinde ganz oder teilweise übernehmen:
+<sup>1</sup> Erfüllt eine Kantonsstrasse aufgrund veränderter Umstände die Aufgaben einer Kantonsstrasse nicht mehr, hat die Gemeinde diese nach der Beschlussfassung durch den Landrat in das Eigentum zu übernehmen.
 
-- 1\. wenn die Gemeinde darum nachsucht und nach den tatsächlichen Verhältnissen ausserstande ist, die entsprechenden Aufgaben selbst zu erfüllen;
-- 2\. wenn es die Sicherstellung des Werkes erfordert und die Gemeinde sich weigert, binnen einer vom Regierungsrat festzusetzenden angemessenen Frist die ihr übertragenen Aufgaben auszuführen.
-
-<sup>2</sup> Die gleichen Befugnisse stehen dem Gemeinderat in Bezug auf die öffentlichen Strassen privater Eigentümer und Privatstrassen zu.
+<sup>2</sup> Die Gemeinde ist vorgängig anzuhören.
 
 #### Art. 19
 
-**…**
+**Gemeindestrassen**
 
-## 3 Neuanlage und Ausbau der Strassen
-
-### 3.1 Planung und Ausführungsprojekte
+<sup>1</sup> Erfährt eine Gemeindestrasse aufgrund veränderter Umstände eine verkehrsmässige Aufstufung und erfüllt dadurch die Aufgaben einer Kantonsstrasse, beschliesst der Landrat die Übernahme der Strasse in das Eigentums des Kantons.
 
 #### Art. 20
 
-**Planung 1. Grundsätze**
+**Öffentliche Strassen im Privateigentum, Privatstrassen**
 
-<sup>1</sup> Die Planung hat abzuklären, welche Gebiete eine neue Verbindung durch Kantons-, Gemeinde- oder Privatstrassen benötigen, und welche bestehenden Strassen auszubauen sind.
+<sup>1</sup> Erfahren öffentliche Strassen im Privateigentum oder Privatstrassen aufgrund veränderter Umstände eine verkehrsmässige Aufstufung und erfüllen dadurch die Aufgaben einer Gemeindestrasse, hat die Gemeindeversammlung auf hinreichend begründeten Antrag die Übernahme der Strasse in das Eigentum der Gemeinde zu beschliessen.
 
-<sup>2</sup> Die Strassen sind entsprechend ihrer Bedeutung und Zweckbestimmung nach den jeweiligen Erkenntnissen der Bau- und Verkehrstechnik sowie unter Berücksichtigung der Verkehrssicherheit, des Umweltschutzes und der Wirtschaftlichkeit zu planen.
+## 4. Strassenbau
 
-<sup>3</sup> Wenn es das öffentliche Interesse verlangt, kann der Landrat die Gemeinden verpflichten, zur Entlastung von Kantonsstrassen zusätzliche Gemeindestrassen zu planen und zu erstellen.
+### 4.1 Allgemein
 
 #### Art. 21
 
-**2. Verkehrsrichtpläne**
+**Inhalt**
 
-<sup>1</sup> Der Kanton und die Gemeinden haben Verkehrsrichtpläne zu erlassen. Das Verfahren, der Inhalt und die Wirkung richten sich nach den Bestimmungen der Planungs- und Baugesetzgebung[^21-1].
+<sup>1</sup> Als Strassenbau gilt der Neubau, der Ausbau und die wesentliche Änderung von Strassen.
 
-[^21-1]: NG 611.1
+<sup>2</sup> Er umfasst alle Schritte von der Planung bis zur Ausführung.
 
 #### Art. 22
 
-**…**
+**Ort der Auflage der Projektunterlagen**
 
-#### Art. 22a
+<sup>1</sup> Die öffentliche Auflage der Projektunterlagen eines Strassenbauvorhabens erfolgt:
 
-**3. Projektierung a) Aufgabe**
+- 1\. bei kantonalen Strassenbauvorhaben bei der Direktion und den Standortgemeinden;
+- 2\. bei den übrigen Strassenbauvorhaben bei der Standortgemeinde.
 
-<sup>1</sup> Mit der Projektierung ist festzulegen, welche allgemeinen Linienführungen für eine Strasse in Betracht fallen.
-
-<sup>2</sup> Nach erfolgter Wahl der Linienführung ist ein generelles Projekt bereitzustellen.
-
-#### Art. 22b
-
-**b) Zuständigkeit**
-
-<sup>1</sup> Die Projektierung der Kantonsstrassen ist von der Direktion in Zusammenarbeit mit den interessierten Instanzen des Kantons und den Gemeinden durchzuführen.
-
-<sup>2</sup> Die Projektierung der Gemeindestrassen ist Sache des Gemeinderats, der die Direktion rechtzeitig zu verständigen hat, wenn durch die Projektierung kantonale Interessen berührt werden; auf Gesuch des Gemeinderats kann der Kanton die Projektierung der Gemeindestrassen auf Kosten der Gemeinde übernehmen.
-
-<sup>3</sup> Die Projektierung der Privatstrassen ist von den interessierten Grundeigentümerinnen und Grundeigentümern sowie den Inhaberinnen und Inhabern von Baurechten im Einvernehmen mit dem Gemeinderat durchzuführen.
-
-#### Art. 22c
-
-**c) Auflage**
-
-<sup>1</sup> Der Entwurf der allgemeinen Linienführung ist unter Hinweis auf die Möglichkeit zur Einwendung im Amtsblatt zu veröffentlichen und zusammen mit den Beilagen während 30 Tagen zur öffentlichen Einsicht auf der Direktion und in den betroffenen Gemeinden aufzulegen.
-
-<sup>2</sup> Während der Auflagefrist können stimmberechtigte Personen und die gemäss dem Verwaltungsrechtspflegegesetz[^22c-1] Legitimierten sowie bei Kantonsstrassen der Gemeinderat der betroffenen Gemeinde bei der Direktion schriftlich und begründet Einwendungen, Anregungen und Vorschläge einreichen.
-
-<sup>3</sup> Im Übrigen richtet sich die Legitimation nach dem Verwaltungsrechtspflegegesetz[^22c-2].
-
-[^22c-1]: NG 265.1
-[^22c-2]: NG 265.1
-
-#### Art. 22d
-
-**d) Behandlung der Eingaben**
-
-<sup>1</sup> Hat die Behandlung der Einwendungen, Anregungen und Vorschläge wesentliche Änderungen zur Folge, ist das Einwendungsverfahren zu wiederholen.
-
-<sup>2</sup> Kann die Einwendung gegen die Projektierung einer Kantonsstrasse nicht gütlich erledigt werden, teilt der Regierungsrat der einwendenden Person mit, warum er dem Landrat die Abweisung der Einwendung beantragen werde.
-
-<sup>3</sup> Der Regierungsrat nimmt zu den nicht berücksichtigten Anregungen und Vorschlägen gesamthaft und abschliessend in einem Bericht zuhanden des Landrates Stellung.
-
-#### Art. 22e
-
-**e) Entscheid**
-
-<sup>1</sup> Der Landrat entscheidet auf Antrag des Regierungsrates über die allgemeine Linienführung sowie den Regelquerschnitt (einschliesslich Radstreifen und Trottoirs) von neu zu erstellenden oder auszubauenden Kantonsstrassen.
-
-<sup>2</sup> Er entscheidet über die nicht erledigten Einwendungen.
-
-<sup>3</sup> Für Gemeindestrassen, öffentliche Strasse privater Eigentümer und Privatstrassen fällt diese Entscheide der Gemeinderat.
-
-#### Art. 22f
-
-**f) Beschwerde**
-
-<sup>1</sup> Gegen Entscheide des Landrates gemäss Art. 22e kann binnen 20 Tagen nach Veröffentlichung Beschwerde beim Verwaltungsgericht erhoben werden.
-
-<sup>2</sup> Bei Entscheiden des Gemeinderats richten sich die Rechtsmittel nach dem Verwaltungsrechtspflegegesetz[^22f-1].
-
-[^22f-1]: NG 265.1
+### 4.2 Vorsorgliche Freihaltung des Strassenraumes
 
 #### Art. 23
 
-**Vorsorgliche Freihaltung des Strassenraumes 1. Errichtung von Projektierungszonen**
+**Projektierungszonen**
 
-<sup>1</sup> Die Strassenaufsichtsbehörde kann zur vorsorglichen Freihaltung des Strassenraumes Projektierungszonen festlegen; vor der Festlegung von Projektierungszonen für Kantonsstrassen sind die Gemeinden anzuhören.
+<sup>1</sup> Die Strassenverwaltungsinstanz kann zur vorsorglichen Freihaltung von benötigtem Strassenraum Projektierungszonen festlegen.
 
-<sup>2</sup> Die Festlegung der Projektierungszonen ist im Amtsblatt öffentlich bekanntzumachen, und die Pläne sind auf den Kanzleien der betroffenen Gemeinden während 30 Tagen aufzulegen.
-
-<sup>3</sup> Während der Auflagefrist kann beim Regierungsrat Beschwerde geführt werden, diese hat keine aufschiebende Wirkung.
-
-<sup>4</sup> Die Rechtskraft der bereinigten Projektierungszonen ist im Amtsblatt öffentlich bekanntzumachen.
+<sup>2</sup> Vor der Festlegung von Projektierungszonen für Kantonsstrassen sind die Gemeinden anzuhören.
 
 #### Art. 24
 
-**2. Wirkungen**
+**Verfahren**
 
-<sup>1</sup> Innerhalb der Projektierungszonen dürfen ohne Bewilligung der Strassenaufsichtsbehörde keine Neubauten, wertvermehrenden Umbauten oder Anlagen ausgeführt und keine wesentlichen Geländeveränderungen vorgenommen werden.
+<sup>1</sup> Die Strassenverwaltungsinstanz entscheidet über Projektierungszonen und legt ihren Entscheid während 20 Tagen öffentlich auf.
 
-<sup>2</sup> Aus dieser Eigentumsbeschränkung steht dem Grundeigentümer kein Entschädigungsanspruch zu.
+<sup>2</sup> Während der Auflage kann bei der Strassenverwaltungsinstanz Einsprache erhoben werden.
 
-<sup>3</sup> Unabhängig von der Einleitung oder dem Ausgang eines Strafverfahrens kann das Strassenbauorgan auf Kosten des Widerhandelnden die nötigen Massnahmen zur Wiederherstellung des rechtmässigen Zustandes treffen.
+<sup>3</sup> Einsprachen und Beschwerden haben keine aufschiebende Wirkung.
 
 #### Art. 25
 
-**3. Erteilung der Baubewilligung**
+**Bauten in Projektierungszonen**
 
-<sup>1</sup> Bauliche Massnahmen innerhalb der Projektierungszonen können durch die Strassenaufsichtsbehörde unter Vorbehalt des baupolizeilichen Bewilligungsverfahrens bewilligt werden, wenn sie den Strassenbau nicht erschweren oder verteuern und die Festlegung der Baulinien nicht beeinträchtigen.
+<sup>1</sup> In Projektierungszonen darf nichts unternommen werden, was den Bau der Strasse erschweren könnte; insbesondere dürfen ohne Zustimmung der Strassenverwaltungsinstanz weder Neubauten, Umbauten oder Anlagen noch wesentliche Geländeveränderungen vorgenommen werden.
+
+<sup>2</sup> Die Baubewilligungsbehörde hat die nötigen Massnahmen zur Wiederherstellung des rechtmässigen Zustandes zu treffen.
 
 #### Art. 26
 
-**Aufhebung der Projektierungszonen**
+**Dauer und Aufhebung von Projektierungszonen**
 
-<sup>1</sup> Die Projektierungszonen fallen mit der rechtskräftigen Festlegung der Baulinien, spätestens aber mit dem Ablauf von drei Jahren dahin.
+<sup>1</sup> Projektierungszonen fallen nach fünf Jahren dahin; sie können von der Strassenverwaltungsinstanz um höchstens zwei Jahre verlängert werden.
 
-<sup>2</sup> Sie sind durch die Strassenaufsichtsbehörde schon vorher aufzuheben, wenn feststeht, dass die durch sie gesicherten Varianten einer Linienführung nicht ausgeführt werden.
+<sup>2</sup> Die Strassenverwaltungsinstanz hebt eine Projektierungszone auf, wenn für diese kein Bedarf mehr besteht.
 
-<sup>3</sup> Die Aufhebung der Projektierungszonen ist im Amtsblatt öffentlich bekanntzumachen.
+<sup>3</sup> Fallen Projektierungszonen dahin oder werden sie aufgehoben, ist dies zu veröffentlichen.
 
 #### Art. 27
 
-**Ausarbeitung der Ausführungsprojekte**
+**Entschädigung**
 
-<sup>1</sup> Sobald ein generelles Projekt gemäss Art. 22d–22f rechtskräftig geworden ist, hat das Strassenbauorgan das Ausführungsprojekt auszuarbeiten.
+<sup>1</sup> Die Beschränkung von Grundeigentum durch Projektierungszonen begründet nur dann einen Entschädigungsanspruch, wenn sie in ihrer Wirkung einer materiellen Enteignung gleichkommt.
 
-<sup>2</sup> Dieses gibt Aufschluss über Art, Umfang und Lage des Werkes, die Einzelheiten seiner bautechnischen Gestaltung und die Baulinien.
+<sup>2</sup> Betroffene haben ihren Entschädigungsanspruch bei der Strassenverwaltungsinstanz schriftlich und begründet geltend zu machen. Wird dieser ganz oder teilweise bestritten, richtet sich das Verfahren nach dem kantonalen Enteignungsgesetz (kEntG)[^27-1].
 
-<sup>3</sup> Die Grundeigentümer haben gegen angemessene Entschädigung die zur Projektierung notwendigen Vermessungen, Bodenuntersuchungen und sonstigen Vorarbeiten auf ihren Grundstücken zu dulden; über die Höhe der Entschädigung entscheidet im Streitfall der Richter.
+[^27-1]: NG 266.1
+
+### 4.3 Generelles Projekt
 
 #### Art. 28
 
-**Freihaltung des Strassenraumes 1. Baulinien a) Festlegung**
+**Inhalt**
 
-<sup>1</sup> In den Ausführungsprojekten sind beidseitig der projektierten Strasse Baulinien festzulegen.
+<sup>1</sup> Bei Kantons- und Gemeindestrassen erfordert der Strassenbau ein generelles Projekt.
 
-<sup>2</sup> Bei ihrer Bemessung ist namentlich auf die Anforderungen der Verkehrssicherheit und der Wohnhygiene sowie auf die Bedürfnisse eines allfälligen künftigen Ausbaus der Strasse Rücksicht zu nehmen.
+<sup>2</sup> Es legt die Eckwerte eines Strassenbauprojektes wie Linienführung, Kreuzungsbauwerke, Knoten und Regelquerschnitt fest. Es enthält eine Grobkostenschätzung und ist so auszuarbeiten, dass keine wesentlichen Verschiebungen und Änderungen mehr zu erwarten sind.
 
-<sup>3</sup> Die Strassenabstände nach der Planungs- und Baugesetzgebung[^28-1] können durch den Gemeinderat, bei Kantonsstrassen mit Genehmigung der Direktion:
+<sup>3</sup> Kein generelles Projekt erfordern:
 
-- 1\. herabgesetzt oder aufgehoben werden, wenn es zum Schutze bestehender oder für die planerische Gestaltung neuer Ortskerne erforderlich ist;
-- 2\. im Rahmen von Gestaltungsplänen herabgesetzt werden, sofern es die Gestaltung erfordert und die Verkehrssicherheit und die Verkehrsentwicklung nicht beeinträchtigt werden;
-- 3\. herabgesetzt werden, wenn die Verkehrssicherheit und die Verkehrsentwicklung nicht beeinträchtigt werden.
+- 1\. Bauvorhaben mit geringer Gestaltungsmöglichkeit wie bauliche Umgestaltungen und Unterhaltsarbeiten an bestehenden Strassen wie die Erstellung, Änderung oder Verlegung von Kreuzungsbauwerken, Knoten oder Einmündungen und dergleichen;
+- 2\. notwendige technische oder sonstige Anpassungen oder Verbreiterungen, die nicht zu einer Verbreiterung des Regelquerschnittes führen;
+- 3\. kantonale und kommunale Velowege.
 
-<sup>4</sup> Bei der Festlegung oder Abänderung der Baulinien ist das Verfahren gemäss Art. 31 zu beobachten.
-
-[^28-1]: NG 611.1
+<sup>4</sup> Der Regierungsrat legt den Inhalt eines generellen Projekts und die Details des Regelquerschnitts in einer Verordnung fest.
 
 #### Art. 29
 
-**b) Wirkung**
+**Öffentliche Auflage, Einwendung**
 
-<sup>1</sup> Zwischen den Baulinien dürfen weder Neubauten noch andere mit dem Strassenbauvorhaben im Widerspruch stehende Anlagen errichtet werden.
+<sup>1</sup> Die Strassenverwaltungsinstanz legt das generelle Projekt während 20 Tagen öffentlich auf.
 
-<sup>2</sup> Unabhängig von der Einleitung oder dem Ausgang eines Strafverfahrens kann das Strassenbauorgan auf Kosten des Widerhandelnden die nötigen Massnahmen zur Wiederherstellung des rechtmässigen Zustandes treffen.
+<sup>2</sup> Sie veröffentlicht die Auflage unter Hinweis auf die Einwendungsmöglichkeit.
+
+<sup>3</sup> Während der Auflagefrist kann bei der Strassenverwaltungsinstanz Einwendung erhoben werden.
+
+<sup>4</sup> Nicht einwendungsberechtigte Personen können während dieser Frist Anregungen und Vorschläge vorbringen, wobei kein Anspruch auf Berücksichtigung besteht.
 
 #### Art. 30
 
-**2. Nebenanlagen**
+**Entscheid**
 
-<sup>1</sup> Für den motorisierten Strassenbenützer bestimmte Verkaufsstellen, wie Tankstellen, Kioske usw. dürfen an öffentlichen Strassen nur mit Bewilligung des Regierungsrates beziehungsweise des Gemeinderates errichtet werden.
+<sup>1</sup> Über generelle Projekte und gleichzeitig über allfällige öffentlich-rechtliche Einwendungen entscheidet:
 
-<sup>2</sup> Die Bewilligung darf nur erteilt werden, wenn durch die Anlage die Verkehrssicherheit nicht gefährdet wird.
+- 1\. der Regierungsrat bei Kantonsstrassen;
+- 2\. der Gemeinderat bei Gemeindestrassen.
 
-<sup>3</sup> Die Bewilligung für den Bau oder die Erweiterung solcher Anlagen muss die notwendigen Bedingungen und Auflagen enthalten sowie die Verleihungsgebühren festlegen.
+<sup>2</sup> Werden wesentliche Änderungen am generellen Projekt vorgenommen, ist das Auflageverfahren zu wiederholen.
+
+### 4.4 Strassenbauprojekt
 
 #### Art. 31
 
-**Einwendungsverfahren**
+**Projektbewilligung**
 
-<sup>1</sup> Das Strassenbauorgan legt das Ausführungsprojekt in den Gemeinden öffentlich auf; die durch den Strassenbau bedingten Veränderungen im Gelände sind durch Aussteckungen kenntlich zu machen.
+<sup>1</sup> Die Erstellung von Strassen erfordert eine Projektbewilligung.
 
-<sup>2</sup> Während der Auflagefrist von 30 Tagen kann bei Ausführungsprojekten für Kantonsstrassen beim Kanton und bei solchen für Gemeindestrassen, öffentliche Strassen privater Eigentümer und Privatstrassen bei der Gemeinde Einwendung gegen das Ausführungsprojekt oder die darin enthaltenen Baulinien erhoben werden.
+<sup>2</sup> Vorbehalten bleibt der Bau:
 
-<sup>3</sup> Einwendungsberechtigt sind Personen, die vom Ausführungsprojekt oder von den Baulinien in ihren Rechten oder rechtlich geschützten Interessen mittelbar oder unmittelbar beeinträchtigt werden.
+- 1\. von Privatstrassen nach der Planungs- und Baugesetzgebung[^31-1];
+- 2\. von Flurstrassen nach der Flurgenossenschaftsgesetzgebung[^31-2].
 
-<sup>4</sup> Über die Einwendungen entscheidet der Regierungsrat beziehungsweise der Gemeinderat.
+<sup>3</sup> Für den Bau einer öffentlichen Strasse im Privateigentum hat deren Eigentümerschaft ein Projektbewilligungsgesuch einzureichen.
 
-<sup>5</sup> Rügen, die bereits gegen die Projektierung hätten erhoben werden können, sind im Ausführungsprojektverfahren nicht mehr zulässig.
+[^31-1]: NG 611.1
+[^31-2]: NG 211.4
 
 #### Art. 32
 
-**Abänderung von Ausführungsprojekten**
+**Inhalt**
 
-<sup>1</sup> Die Vorschriften von Art. 31 gelten sinngemäss auch für die Abänderung von Ausführungsprojekten.
+<sup>1</sup> Das Strassenbauprojekt enthält insbesondere die genaue Linienführung, den Umfang, die Einzelheiten der bautechnischen Gestaltung, allfällige Baulinien sowie den notwendigen Landerwerbs- beziehungsweise Enteignungsplan mit Verzeichnis.
 
-<sup>2</sup> Auf die nochmalige öffentliche Auflage und die Veröffentlichung kann verzichtet werden, wenn den durch die Abänderung oder Ergänzung betroffenen Einwendungsberechtigten Gelegenheit gegeben wird, in die neuen Pläne Einsicht zu nehmen und Einwendung zu erheben.
+<sup>2</sup> Der Regierungsrat regelt in einer Verordnung die notwendigen Unterlagen für die Projektbewilligung.
 
 #### Art. 33
 
-**Genehmigung der Ausführungsprojekte**
+**Öffentliche Auflage, Aussteckung**
 
-<sup>1</sup> Nach Abschluss des Einwendungsverfahrens sind Ausführungsprojekte für Kantonsstrassen durch den Regierungsrat, solche für Gemeindestrassen, öffentliche Strassen privater Eigentümer und Privatstrassen durch den Gemeinderat zu genehmigen.
+<sup>1</sup> Die Strassenverwaltungsinstanz legt das Strassenbauprojekt während 20 Tagen öffentlich auf.
 
-<sup>2</sup> Die Rechtskraft des Ausführungsprojektes und der Baulinien sind im Amtsblatt öffentlich bekanntzumachen.
+<sup>2</sup> Sie veröffentlicht die Auflage unter Hinweis auf die Einwendungsmöglichkeit.
 
-<sup>3</sup> Beschwerden gegen die Festlegung der Baulinien haben keine aufschiebende Wirkung.
+<sup>3</sup> Das Strassenbauprojekt ist spätestens mit Beginn der öffentlichen Auflage bis zur rechtskräftigen Erledigung des Bewilligungsverfahrens auf erkennbare Weise auszustecken.
 
 #### Art. 34
 
-**Entschädigung**
+**Einwendung**
 
-<sup>1</sup> Die Beschränkung des Grundeigentums durch Baulinien begründet nur dann einen Anspruch auf Entschädigung, wenn sie in ihrer Wirkung einer Enteignung gleichkommt.
+<sup>1</sup> Während der Auflagefrist kann bei der Strassenverwaltungsinstanz Einwendung erhoben werden.
 
-<sup>2</sup> Für die Entschädigungspflicht und die Bemessung der Entschädigung sind die Verhältnisse beim Inkrafttreten der Eigentumsbeschränkung (Art. 33 Abs. 3) massgebend.
-
-<sup>3</sup> Der Betroffene hat seine Ansprüche binnen Jahresfrist seit dem Inkrafttreten der Eigentumsbeschränkung beim Kanton für Kantonsstrassen und bei der Gemeinde für Gemeindestrassen anzumelden; werden die Ansprüche ganz oder teilweise bestritten, so ist das durch das kantonale Enteignungsrecht[^34-1] vorgeschriebene Verfahren einzuleiten.
-
-<sup>4</sup> Das Recht, gestützt auf Art. 89 des Planungs- und Baugesetzes[^34-2] die Übernahme des Grundstücks durch die Gemeinde zu verlangen, bleibt vorbehalten.
-
-[^34-1]: NG 266
-[^34-2]: NG 611.1
-
-### 3.2 Landerwerb
+<sup>2</sup> Einwendungen, die bereits gegen das generelle Projekt hätten erhoben werden können, sind nicht mehr zulässig.
 
 #### Art. 35
 
-**Landerwerb für öffentliche Strassen 1. Arten**
+**Kantonale Strassenbaukoordination**
 
-<sup>1</sup> Das für den öffentlichen Strassenbau erforderliche Land ist, sofern ein freihändiger Erwerb ausser Betracht fällt, im Landumlegungs- oder Enteignungsverfahren zu erwerben.
+<sup>1</sup> Strassenbaugesuche sind zusammen mit den Unterlagen an die Direktion weiterzuleiten, wenn für das Strassenbauvorhaben neben der Projektbewilligung auch Bewilligungen, Stellungnahmen oder Begutachtungen von Kanton und Bund erforderlich sind. Diese sind von der Direktion einzuholen.
 
-<sup>2</sup> Der Landrat erlässt die für die verschiedenen Landerwerbsarten erforderlichen Verfahrensvorschriften.
+<sup>2</sup> Die Direktion entscheidet gestützt auf die kantonalen Bewilligungen über die kantonale Gesamtbewilligung und erstellt gestützt auf die kantonalen Vernehmlassungen die kantonale Gesamtstellungnahme.
 
 #### Art. 36
 
-**a) Landumlegungsverfahren**
+**Entscheid**
 
-<sup>1</sup> Das Landumlegungsverfahren in der Form der Zusammenlegung und Umlegung von landwirtschaftlichen Gütern, Wald, Bauland usw. wird angewendet, wenn es im Interesse des Strassenbaus liegt oder für die bestimmungsgemässe Verwendung und Bewirtschaftung des durch den Strassenbau beeinträchtigten Bodens notwendig ist.
+<sup>1</sup> Über die Bewilligung von Strassenbauprojekten entscheidet:
 
-<sup>2</sup> Die im Landumlegungsverfahren zu treffenden Massnahmen können bestehen:
+- 1\. der Regierungsrat für Kantonsstrassen und kantonale Velowege;
+- 2\. der Gemeinderat für alle übrigen Strassen und die kommunalen Velowege.
 
-- 1\. im Einwerfen von Grundstücken des Gemeinwesens in das Landumlegungsunternehmen;
-- 2\. in der Vornahme angemessener Abzüge von dem im Landumlegungsverfahren erfassten Grundeigentum; das auf diesem Weg für den Strassenbau abgetretene Land ist dem Landumlegungsunternehmen zum Verkehrswert zu vergüten;
-- 3\. in der Anrechnung von Mehrwerten, die durch den Strassenbau mittels Bodenverbesserungen an Grundstücken geschaffen werden.
+<sup>2</sup> Zusammen mit der Projektbewilligung wird über die öffentlich-rechtlichen Einwendungen entschieden. Mit privatrechtlichen Vorbringen werden die Parteien an den Zivilrichter verwiesen.
 
-<sup>3</sup> Der Regierungsrat kann auf Antrag der Strassenaufsichtsbehörde für den Strassenbau notwendige Landumlegungen verfügen.
+<sup>3</sup> Den Parteien werden gleichzeitig eröffnet:
+
+- 1\. die kommunale Strassenbaubewilligung mit der kantonalen Gesamtbewilligung oder der kantonalen Gesamtstellungnahme;
+- 2\. die Einwendungsentscheide.
+
+<sup>4</sup> Hat die Behandlung der Einwendungen wesentliche Änderungen eines Strassenbauprojekts zur Folge, ist das Auflageverfahren zu wiederholen.
 
 #### Art. 37
 
-**b) Enteignung**
+**Bewilligungsdauer, Verlängerung**
 
-<sup>1</sup> Dem Enteignungsverfahren ist das genehmigte Ausführungsprojekt zugrundzulegen.
+<sup>1</sup> Die Projektbewilligung erlischt, wenn mit dem Bau der Strasse nicht innert dreier Jahre nach Eintritt der Rechtskraft begonnen wird.
+
+<sup>2</sup> Die Bewilligungsinstanz kann die Gültigkeit einer Projektbewilligung um höchstens zwei Jahre verlängern.
+
+<sup>3</sup> Während der Dauer des Schätzungsverfahrens gemäss Enteignungsgesetz[^37-1] stehen diese Fristen still.
+
+[^37-1]: NG 266.1
 
 #### Art. 38
 
-**2. Zuständigkeit**
+**Landerwerbsverfahren**
 
-<sup>1</sup> Der Landerwerb wird für Kantonsstrassen durch den Kanton und für Gemeindestrassen durch die Gemeinde getätigt.
+<sup>1</sup> Fällt ein freihändiger Erwerb des für den Bau von Kantons- oder Gemeindestrassen erforderlichen Landes ausser Betracht, ist dieses im Landumlegungs- oder im Enteignungsverfahren zu erwerben.
+
+<sup>2</sup> Für das Landumlegungsverfahren gelten Art. 77 ff. des Planungs- und Baugesetzes (PBG)[^38-1]. Für die Einleitung der Landumlegung und den Entscheid darüber ist bei Kantonsstrassen der Regierungsrat zuständig, bei allen übrigen Strassen der Gemeinderat.
+
+[^38-1]: NG 611.1
+
+### 4.5 Freihaltung des Strassenraumes bei bestehenden Strassen
 
 #### Art. 39
 
-**3. Entschädigung**
+**Festlegung von Baulinien**
 
-<sup>1</sup> Die für den Landerwerb bei Landumlegung oder Enteignung zu leistende Entschädigung wird im Enteignungsverfahren festgesetzt, sofern keine gütliche Einigung zustande kommt.
+<sup>1</sup> Die Strassenverwaltungsinstanz kann für Strassen Baulinien festlegen, die der Gestaltung des Strassenraumes dienen.
 
-<sup>2</sup> Die Anrechnung besonderer Vorteile hat zu unterbleiben, wenn diese durch Perimeterbeiträge abgegolten werden.
+<sup>2</sup> Bei der Bemessung der Festlegung von Baulinien ist insbesondere auf die Anforderungen der Verkehrssicherheit und der Wohnhygiene sowie auf die Anforderungen an die Strasse Rücksicht zu nehmen.
+
+<sup>3</sup> Das Verfahren richtet sich sinngemäss nach Art. 33 ff.
+
+### 4.6 Besondere Bestimmung
 
 #### Art. 40
 
-**Landerwerb für Privatstrassen**
+**Verpflichtung zu Strassengenossenschaft**
 
-<sup>1</sup> Der Landerwerb für Privatstrassen ist Sache des Trägers der Strassenbaulast.
+<sup>1</sup> Die Gemeinde kann die Eigentümerschaft von öffentlichen Strassen im Privateigentum zur Gründung einer Strassengenossenschaft oder zum Beitritt zu einer bestehenden Genossenschaft verpflichten, soweit es für den Bau und den Unterhalt einer öffentlichen Strasse im Privateigentum erforderlich ist.
 
-### 3.3 Bau der Strassen
+<sup>2</sup> Bis sich die Genossenschaft konstituiert hat, kann die Gemeinde die erforderlichen Massnahmen für Bau und Unterhalt der Strassen auf Kosten der Eigentümerschaft treffen.
+
+<sup>3</sup> Der rechtskräftige Verpflichtungsbeschluss tritt an die Stelle der Beitrittserklärung gemäss Art. 840 des Schweizerischen Obligationenrechts (OR)[^40-1].
+
+[^40-1]: SR 220
+
+### 4.7 Finanzielles
 
 #### Art. 41
 
-**Öffentliche Strassen, Baubeschluss 1. für Kantonsstrassen**
+**Gegenstand der Strassenbaukosten**
 
-<sup>1</sup> Über die Planung sowie den Bau neuer und den Ausbau bestehender Kantonsstrassen beschliesst:
-
-- 1\. der Regierungsrat bis zum Betrag von Fr. 400'000.– unabhängig seiner verfassungsmässigen Finanzkompetenz;
-- 2\. der Landrat bei einem Betrag von mehr als Fr. 400'000.–.
+<sup>1</sup> Die Kosten für den Strassenbau beinhalten sämtliche Aufwendungen wie insbesondere Planung, Projektierung, allfällige Bodenuntersuchungen, Landerwerb, Bauarbeiten, Bauleitung, Vermessung und Vermarkung von Strassen.
 
 #### Art. 42
 
-**2. für Gemeindestrassen**
+**Tragung der Strassenbaukosten 1. Grundsatz**
 
-<sup>1</sup> Die Gemeindeversammlung beschliesst den Bau neuer und den Ausbau bestehender Gemeindestrassen; sie kann diese Befugnis generell oder für ein einzelnes Projekt dem Gemeinderat übertragen.
+<sup>1</sup> Die Strassenbaukosten trägt grundsätzlich die Strasseneigentümerschaft.
 
-<sup>2</sup> Für den Beschluss bis zum Betrag von Fr. 50'000.– ist der Gemeinderat zuständig; vorbehalten bleibt dessen weitergehende Finanzkompetenz nach der Gemeindeordnung.
+<sup>2</sup> Bei Kantonsstrassen innerorts tragen die Gemeinden nach Abzug allfälliger Beiträge durch Dritte einen Anteil von 30 Prozent der massgebenden Strassenbaukosten. Wird auf Verlangen der Gemeinden eine Ausführung beschlossen, die über den erforderlichen Standard hinausgeht, tragen sie die Mehrkosten. Die Beleuchtung entlang von Kantonsstrassen innerorts ist Sache der Gemeinde.
+
+<sup>3</sup> Bei kantonalen Velowegen und kombinierten Velo- und Fussweganlagen tragen die Gemeinden auf ihrem Gebiet nach Abzug allfälliger Beiträge durch Dritte einen Anteil von 30 Prozent der Anlagekosten.
+
+<sup>4</sup> Die Gemeinwesen können untereinander abweichende Vereinbarungen treffen.
 
 #### Art. 43
 
-**Privatstrassen 1. Baubeschluss**
+**2. Zufahrten, Kreuzungen, Einmündungen sowie Unter- oder Überquerungen**
 
-<sup>1</sup> Die interessierten Grundeigentümer und Inhaber von Baurechten beschliessen aufgrund eines vom Gemeinderat genehmigten Ausführungsprojektes den Bau neuer oder den Ausbau bestehender Privatstrassen.
+<sup>1</sup> Die Strassenbaukosten für Zufahrten, Kreuzungen, Einmündungen, sowie Unter- oder Überquerungen und dergleichen sowie für die damit verbundenen Massnahmen haben die Verursacherinnen und Verursacher zu tragen.
 
-<sup>2</sup> Der Gemeinderat beschliesst auf Gesuch interessierter Grundeigentümer und Inhaber von Baurechten oder gestützt auf die Raumplanungsgesetzgebung den Bau neuer oder den Ausbau bestehender Privatstrassen, wenn das öffentliche Interesse es erfordert. Die Kosten sind vom Gemeinderat nach dem Perimeterverfahren zu verteilen.
-
-<sup>3</sup> Der Beschluss des Gemeinderates ist aufgrund eines Ausführungsprojektes zu fassen und hat die beteiligten Grundstücke und deren Belastung festzulegen; bei der Festlegung der Belastung ist auf die Grösse der Grundstücke, denen die Privatstrasse dient auf das Ausmass des Gebrauchs sowie auf die bisherigen und künftigen Verhältnisse billigerweise Rücksicht zu nehmen.
+<sup>2</sup> Das betroffene Gemeinwesen hat sich an den Kosten für diese Anlagen zu beteiligen, wenn verkehrstechnische Verbesserungen erheblich im öffentlichen Interesse liegen. Haben mehrere Gemeinwesen ein öffentliches Interesse, richtet sich die Kostenbeteiligung nach den ihnen zurechenbaren Verkehrsaufkommen.
 
 #### Art. 44
 
-**2. Träger der Strassenbaulast**
+**3. Kostenbeteiligung an Verkehrsanlagen**
 
-<sup>1</sup> Träger der Strassenbaulast von Privatstrassen sind die Grundeigentümer und Inhaber von Baurechten, denen durch die Strasse Vorteile erwachsen.
-
-<sup>2</sup> Die Kosten werden durch den Gemeinderat nach dem Perimeterverfahren auf die Grundeigentümer und Inhaber von Baurechten im Verhältnis ihrer Interessen verteilt, sofern die Beteiligten die Kostenverlegung nicht in anderer Weise ordnen.
-
-<sup>3</sup> Mündet eine neue oder ausgebaute Privatstrasse in eine schon bestehende Privatstrasse ein und werden dadurch die Lasten der letzteren vermehrt, fällt die Mehrlast nur auf die Grundstücke, die früher zur Benützung nicht berechtigt waren.
-
-<sup>4</sup> Können sich die Beteiligten über den Unterhalt einer Privatstrasse nicht einigen, so bezeichnet der Gemeinderat durch Verfügung die Abschnitte, die jeder einzelne Pflichtige zu unterhalten hat; die Bestimmungen von Art. 43 Abs. 3 sind sinngemäss anwendbar.
+<sup>1</sup> Betriebe mit erheblichem Verkehrsaufkommen haben sich an den Strassenbaukosten zu beteiligen, wenn Verkehrsanlagen überwiegend in ihrem Interesse erstellt, ausgebaut oder auf einen höheren Ausbaustandard gehoben werden.
 
 #### Art. 45
 
-**Bauverfahren 1. Ausbaunormalien**
+**Streitigkeiten über die Kostenaufteilung oder Kostenbeteiligung**
 
-<sup>1</sup> Die Ausbaunormalien werden festgesetzt:
+<sup>1</sup> Können sich der Kanton und die Gemeinde über die Mehrkosten gemäss Art. 42 Abs. 2 oder die Kostenaufteilung unter den Gemeinwesen gemäss Art. 43 Abs. 2 nicht einigen, verfügt der Regierungsrat nach Vorliegen der Schlussabrechnung die Höhe der Beiträge. Die Gemeinde ist vorgängig anzuhören.
 
-- 1\. für Kantonsstrassen durch den Landrat;
-- 2\. für Gemeindestrassen, öffentliche Strassen privater Eigentümer und Privatstrassen durch den Gemeinderat.
-
-<sup>2</sup> Die Fahrbahnbreite von Privatstrassen kann durch den Gemeinderat zu Lasten des Trägers der Strassenbaulast bis zu fünf Metern festgesetzt werden; wird eine grössere Fahrbahnbreite, die Erstellung eines Trottoirs oder die Errichtung einer Strassenbeleuchtung vorgeschrieben, hat die Gemeinde die damit verbundenen Kosten selber zu tragen.
+<sup>2</sup> Über die Kostenbeteiligung gemäss Art. 42 Abs. 2 und Art. 43 entscheidet der Regierungsrat, sofern der Kanton oder mehrere Gemein-wesen betroffen sind; andernfalls entscheidet der Gemeinderat des betroffenen Gemeinwesens mittels Verfügung.
 
 #### Art. 46
 
-**2. Vergabe von Arbeiten und Lieferungen**
+**Finanzkompetenz 1. für kantonale Projekte**
 
-<sup>1</sup> Die Vergabe von Arbeiten und Lieferungen obliegt:
-
-- 1\. für Kantonsstrassen der nach der Submissionsgesetzgebung[^46-1] zuständigen kantonalen Stelle;
-- 2\. für Gemeindestrassen dem Gemeinderat, soweit hierfür nach der Gemeindeordnung nicht die Kommission nach Art. 17 Abs. 1 Ziff. 2 zuständig ist;
-- 3\. für öffentliche Strassen privater Eigentümer und Privatstrassen dem Träger der Strassenbaulast oder in Anwendung von Art. 43 Abs. 2 dem Gemeinderat.
-
-[^46-1]: NG 612.1
+<sup>1</sup> Die Finanzkompetenz für den Strassenbau von Kantonsstrassen und kantonalen Velowegen beträgt für den Regierungsrat unabhängig der verfassungsmässigen Finanzkompetenz Fr. 800'000.-.
 
 #### Art. 47
 
-**3. Überwachung der Bauarbeiten**
+**2. für kommunale Projekte**
 
-<sup>1</sup> Die Überwachung der Bauarbeiten obliegt dem zuständigen Strassenbauorgan.
+<sup>1</sup> Die Finanzkompetenz für den Strassenbau von Gemeindestrassen und kommunalen Velowegen richtet sich nach der Gemeindeordnung.
+
+## 5. Strassenunterhalt
 
 #### Art. 48
 
-**4. Vorkehren während der Bauausführung**
+**Grundsatz, Priorisierung, Vornahme**
 
-<sup>1</sup> Das Strassenbauorgan trifft jene Vorkehren, die zur Sicherheit von Personen und Sachen sowie zur Vermeidung von unzumutbaren Belästigungen der Anwohner notwendig sind.
+<sup>1</sup> Strassen sind im Rahmen der zeitlichen, technischen und wirtschaftlichen Möglichkeiten so zu unterhalten, dass deren sichere Benutzung gewährleistet ist.
 
-<sup>2</sup> Werden durch die Bauarbeiten öffentliche Einrichtungen wie Verkehrswege, Leitungen und ähnliche Anlagen betroffen, so ist nach Massgabe des öffentlichen Interesses deren Fortbenützung zu ermöglichen.
+<sup>2</sup> Die Priorisierung des Strassenunterhalts und vor allem des Winterdienstes richtet sich nach der Funktion und der Verkehrsbedeutung der Strassen; es besteht insbesondere kein Anspruch auf eine Schwarzräumung.
 
-<sup>3</sup> Die wirtschaftliche Nutzung des Grundeigentums während des Strassenbaus ist sicherzustellen.
-
-<sup>4</sup> Die Grundeigentümerinnen und Grundeigentümer sind verpflichtet, zeitweilige Schutzvorkehren sowie die nötigen Baueinrichtungen und Materialablagerungen neben der Strasse zu dulden; für den hieraus entstehenden Schaden ist voller Ersatz zu leisten, der im Streitfall durch die Enteignungskommission bestimmt wird.
+<sup>3</sup> Der Strassenunterhalt hat umweltfreundlich und wirtschaftlich zu erfolgen.
 
 #### Art. 49
 
-**5. Übergabe an den Verkehr**
+**Inhalt**
 
-<sup>1</sup> Die Strassen dürfen dem Verkehr erst übergeben werden, wenn der Stand der Bauarbeiten und die getroffenen Sicherheitsvorkehren einen gefahrlosen Verkehr gestatten, und wenn die wirtschaftliche Nutzung des umliegenden Grundeigentums sichergestellt ist.
+<sup>1</sup> Der Unterhalt von Strassen umfasst den betrieblichen und baulichen Unterhalt sowie Erneuerungen.
+
+<sup>2</sup> Der Regierungsrat führt den Inhalt des betrieblichen und baulichen Unterhalts sowie der Erneuerung in einer Verordnung näher aus.
 
 #### Art. 50
 
-**Künftige bauliche Massnahmen 1. Bewilligungspflicht**
+**Zuständigkeit**
 
-<sup>1</sup> Bauliche Umgestaltungen im Bereich von Strassen, wie die Erstellung, Änderung oder Verlegung von Kreuzungen mit andern Verkehrswegen, Gewässern, Seilbahnen, Leitungen aller Art und ähnlichen Anlagen sowie von Einmündungen neuer Strassen in das bestehende Strassennetz, sind bewilligungspflichtig; sie dürfen die Strassenanlage und einen allfälligen künftigen Ausbau nicht beeinträchtigen.
+<sup>1</sup> Der Unterhalt von Kantonstrassen ist Sache des Kantons; vorbehalten bleibt deren Unterhalt innerorts für Beleuchtungen, Trottoirs sowie Fussgängerunter- und -überführungen durch die Gemeinden.
 
-<sup>2</sup> Die Bewilligung einer baulichen Umgestaltung im Bereich von Kantonsstrassen wird durch die zuständige Direktion[^50-1], im Bereich der übrigen Strassen durch den Gemeinderat erteilt.
+<sup>2</sup> Die Gemeinden sorgen für den Unterhalt ihrer Strassen.
 
-<sup>3</sup> Unabhängig von der Einleitung oder vom Ausgang eines Strafverfahrens kann das Strassenbauorgan auf Kosten des Widerhandelnden die nötigen Massnahmen zur Wiederherstellung des rechtsmässigen Zustandes treffen.
+<sup>3</sup> Der betriebliche Unterhalt der öffentlichen Strassen im Privateigentum ist Sache der Gemeinde, sofern die Gemeinde den betrieblichen Unterhalt im Strassenreglement nicht der Eigentümerschaft überbindet. Der bauliche Unterhalt und die Erneuerung dieser Strassen ist Sache ihrer Eigentümerschaft.
 
-[^50-1]: Der Begriff «Baudirektion» wurde durch «zuständige Direktion» ersetzt, A 2005, 176, 547
+<sup>4</sup> Der Unterhalt von Privatstrassen obliegt deren Eigentümerschaft.
 
 #### Art. 51
 
-**2. Verteilung der Kosten von Verlegungs-, Kreuzungs- und Einmündungsbauwerken a) neue Anlagen**
+**Finanzielles**
 
-<sup>1</sup> Beeinträchtigt eine neue Strasse bestehende Verkehrswege, Leitungen oder ähnliche Anlagen oder beeinträchtigen neue derartige Anlagen eine bestehende Strasse, so fallen die Kosten aller Massnahmen, die zur Behebung der Beeinträchtigung erforderlich sind, auf die neue Strasse beziehungsweise auf die neue Anlage.
+<sup>1</sup> Die Kosten für den Strassenunterhalt trägt die oder der Unterhaltspflichtige gemäss Art. 50.
 
-<sup>2</sup> Leitungen öffentlicher Wasserversorgungen sind auf Kosten des Werkeigentümers zu verlegen, sofern keine Bewilligung für Sondergebrauch vorliegt.
+<sup>2</sup> Vorbehalten bleiben Beiträge der Gemeinde an den betrieblichen und baulichen Unterhalt und an Erneuerungen von öffentlichen Strassen im Privateigentum nach den kommunalen Bestimmungen.
 
-<sup>3</sup> Die besonderen Bestimmungen für Stark- und Schwachstromanlagen bleiben vorbehalten.
+<sup>3</sup> Kann sich die Eigentümerschaft über den baulichen Unterhalt oder die Erneuerung von öffentlichen Strassen im Privateigentum nicht einigen, kann die Gemeinde den Unterhalt übernehmen und die Kosten nach Abzug der Beiträge nach dem Perimeterverfahren auf die Anstösserinnen und Anstösser verteilen. Die angefallenen Kosten können mit Beiträgen verrechnet werden.
+
+### 6. Kommunale Strassenvorschriften
 
 #### Art. 52
 
-**b) Änderung bestehender Kreuzungen und Einmündungen**
+**Strassenreglement**
 
-<sup>1</sup> Sind Kreuzungen oder Einmündungen von Strassen verschiedener Baulastträger durch bauliche Massnahmen zu verbessern, so hat jeder Träger der Strassenbaulast in dem Umfang an die Bau- und Unterhaltskosten der Umgestaltung beizutragen, als diese durch die Entwicklung des Verkehrs bedingt ist.
+<sup>1</sup> Die Gemeinden erlassen nach Massgabe dieses Gesetzes in einem Reglement Vorschriften über Gemeindestrassen, öffentliche Strassen im Privateigentum sowie Privatstrassen.
+
+<sup>2</sup> Sie sehen in ihren Reglementen insbesondere Vorschriften vor über:
+
+- 1\. die Ausrichtung von Beiträgen an den baulichen Unterhalt und die Erneuerung öffentlicher Strassen im Privateigentum;
+- 2\. die Übertragung des betrieblichen Unterhalts von öffentlichen Strassen im Privateigentum an deren Eigentümerschaft;
+- 3\. die Ausrichtung von Beiträgen an den betrieblichen Unterhalt öffentlicher Strassen im Privateigentum, sofern dieser an deren Eigentümerschaft übertragen worden ist;
+- 4\. Gebühren für den gesteigerten Gemeingebrauch und die Sondernutzung von Gemeindestrassen gemäss Art. 57 ff.
+
+<sup>3</sup> Der Regierungsrat bestimmt in einer Verordnung die Kriterien für die Beitragsfestlegung.
 
 #### Art. 53
 
-**c) abweichende Kostenverteilung, Entscheid bei Streitigkeiten**
+**Strassenverzeichnis 1. Inhalt**
 
-<sup>1</sup> Art. 51 und 52 sind nicht anwendbar, wenn zwischen den Beteiligten abweichende Vereinbarungen über die Kostentragung bestehen oder getroffen werden.
+<sup>1</sup> Die Gemeinden führen ein Strassenverzeichnis mit den Strassenkategorien gemäss Art. 12 und 13. Die übrigen Strassenkategorien sind orientierend aufzuführen.
 
-<sup>2</sup> Streitigkeiten, die aus diesen Bestimmungen über die Kostenverteilung entstehen, entscheidet der Regierungsrat.
-
-## 4 Unterhalt der Strassen und Betrieb der technischen Einrichtungen und Nebenanlagen
-
-### 4.1 Unterhalt und Betrieb
+<sup>2</sup> Der Regierungsrat bestimmt in einer Verordnung den Inhalt des Strassenverzeichnisses.
 
 #### Art. 54
 
-**Strassenunterhalt, Betrieb der technischen Einrichtungen**
+**2. Verfahren**
 
-<sup>1</sup> Die Strassen und ihre technischen Einrichtungen sowie die Radrouten und Trottoirs sind von den Eigentümern oder Unterhaltspflichtigen derart zu unterhalten und zu betreiben, dass ein sicherer Verkehr gewährleistet ist.
+<sup>1</sup> Der Gemeinderat legt das Strassenverzeichnis während 20 Tagen öffentlich auf.
+
+<sup>2</sup> Er veröffentlicht die Auflage unter Hinweis auf die Einwendungsmöglichkeit.
+
+<sup>3</sup> Während der Auflagefrist kann beim Gemeinderat Einwendung erhoben werden.
+
+<sup>4</sup> Der Gemeinderat entscheidet gleichzeitig über das Strassenverzeichnis und die öffentlich-rechtlichen Einwendungen.
+
+<sup>5</sup> Das Strassenverzeichnis bedarf der Genehmigung des Regierungsrats.
 
 #### Art. 55
 
-**Betrieb der Nebenanlagen**
+**3. Wirkung**
 
-<sup>1</sup> Der Landrat kann auf dem Verordnungsweg Mindestvorschriften für den Betrieb von Nebenanlagen gemäss Art. 30 erlassen.
+<sup>1</sup> Mit der rechtskräftigen Aufnahme in das Strassenverzeichnis werden die öffentlichen Strassen im Privateigentum als Strassen im Sinne von Art. 13 festgelegt.
+
+<sup>2</sup> Das Strassenverzeichnis verschafft der Eigentümerschaft dieser Strassenkategorie nach Massgabe des Strassenreglements einen Anspruch auf Ausrichtung von Beiträgen an den baulichen Unterhalt und die Erneuerung.
+
+<sup>3</sup> Der Gemeinderat entscheidet auf Gesuch hin über die Höhe der auszurichtenden Beiträge.
+
+### 7. Strassenbenutzung
 
 #### Art. 56
 
-**Massnahmen zur Gewährleistung der Verkehrssicherheit 1. Schutzvorrichtungen**
+**Gemeingebrauch**
 
-<sup>1</sup> Vorübergehende Einrichtungen zum Schutz der Strassen vor nachteiligen Einwirkungen der Natur, die ausserhalb des Strassengebietes angelegt werden müssen, sind von den Grundeigentümern zu dulden.
+<sup>1</sup> Öffentliche Strassen, Wege und Plätze dürfen im Rahmen ihrer Zweckbestimmung, ihres Ausbaus, der örtlichen Verhältnisse und der geltenden Vorschriften unentgeltlich und ohne besondere Erlaubnis benutzt werden.
 
-<sup>2</sup> Für den hieraus entstehenden Schaden ist voller Ersatz zu leisten, der im Streitfall durch die Enteignungskommission festzusetzen ist.
+<sup>2</sup> Der Gemeingebrauch kann im öffentlichen Interesse beschränkt oder aufgehoben werden. Im öffentlichen Interesse liegen insbesondere die Verkehrssicherheit, die Bedürfnisse des öffentlichen Verkehrs, Bau- und Unterhaltsarbeiten, die Durchführung von Veranstaltungen, der Schutz von Wohngebieten, der Natur- und Umweltschutz, der Schutz der Strassenanlage und die Bedürfnisse der Land- und Waldwirtschaft.
 
-<sup>3</sup> Sind zum Schutz der öffentlichen Strassen und zur Sicherung des Verkehrs ausserhalb des eigentlichen Strassengebiets feste Schutzbauten notwendig, so kann das für diese Anlagen erforderliche Land im Enteignungsverfahren erworben werden.
-
-<sup>4</sup> Der Träger der Strassenbaulast kann durch die Strassenaufsichtsbehörde zur Anordnung der erforderlichen Schutzvorrichtung verpflichtet werden.
-
-<sup>5</sup> Die Kosten für Schutzvorrichtungen, die infolge von Veränderungen an benachbarten Grundstücken notwendig geworden sind, haben die Eigentümer dieser Grundstücke zu tragen, soweit die Veränderungen nicht auf Naturereignisse oder höhere Gewalt zurückzuführen sind.
+<sup>3</sup> Auf die Aufrechterhaltung des Gemeingebrauchs besteht kein Rechtsanspruch.
 
 #### Art. 57
 
-**2. Reklameverbot**
+**Gesteigerter Gemeingebrauch**
 
-<sup>1</sup> Im Bereich der Strassen sind Reklamen und Ankündigungen nach Massgabe des Bundesgesetzes über den Strassenverkehr[^57-1] untersagt.
+<sup>1</sup> Als gesteigerter Gemeingebrauch gilt die nicht mehr bestimmungs-gemässe oder gemeinverträgliche Nutzung öffentlicher Strassen, Wege und Plätze, die andere Nutzende wesentlich einschränkt aber nicht ausschliesst.
 
-<sup>2</sup> Vorbehalten bleiben kantonale Vorschriften mit weitergehenden Beschränkungen.
+<sup>2</sup> Der gesteigerte Gemeingebrauch ist bewilligungspflichtig.
 
-[^57-1]: SR 741.01
+<sup>3</sup> Die Strassenverwaltungsinstanz erteilt die Bewilligung, wenn deren Erteilung nicht überwiegende öffentliche oder private Interessen entgegenstehen. Bei öffentlichen Strassen im Privateigentum ist zusätzlich die Zustimmung der Strasseneigentümerschaft erforderlich.
 
-### 4.2 Beleuchtung, Reinigung, Schneeräumung, Glatteisbekämpfung und Entwässerung
+<sup>4</sup> Die Bewilligung ist zu befristen und kann mit Auflagen und Bedingungen versehen werden.
+
+<sup>5</sup> Die Bewilligung kann entschädigungslos geändert oder entzogen werden, wenn:
+
+- 1\. die Voraussetzungen für die Erteilung nicht mehr erfüllt sind; oder
+- 2\. Vorschriften, Bedingungen oder Auflagen nicht eingehalten werden.
 
 #### Art. 58
 
-**Beleuchtung**
+**Sondernutzung**
 
-<sup>1</sup> Die Erstellung, der Unterhalt und Betrieb der Beleuchtung von Innerortsstrecken öffentlicher Strassen sind Sache der Gemeinde.
+<sup>1</sup> Als Sondernutzung gilt die nicht bestimmungsgemässe Nutzung öffentlicher Strassen, Plätze und Wege, bei welcher die Berechtigten ein ausschliessliches Nutzungsrecht über einen Teil der Strasse erhalten.
 
-<sup>2</sup> Die Erstellung, der Unterhalt und Betrieb der Beleuchtung für Anschlusswerke von Nationalstrassen sowie besonders wichtige oder gefährliche Verkehrsknotenpunkte ausserhalb der Innerortsstrecken von Kantonsstrassen sind Sache des Strasseneigentümers.
+<sup>2</sup> Die Sondernutzung ist konzessionspflichtig.
 
-<sup>3</sup> Wo auf Begehren einer Gemeinde bei ausgewiesenem Bedürfnis ausserhalb der Innerortsstrecken von Kantonsstrassen Beleuchtungseinrichtungen erstellt werden, hat die Gemeinde für den Unterhalt und Betrieb der Beleuchtung aufzukommen.
+<sup>3</sup> Die Strassenverwaltungsinstanz kann eine Konzession erteilen, wenn deren Erteilung nicht überwiegende öffentliche oder private Interessen entgegenstehen. Steht die öffentliche Strasse im Privateigentum, ist für die Konzessionserteilung zusätzlich die Zustimmung der Strasseneigentümerschaft erforderlich.
+
+<sup>4</sup> Die Konzession ist zu befristen und kann mit Auflagen und Bedingungen versehen werden.
 
 #### Art. 59
 
-**Reinigung**
+**Gemeinsame Bestimmungen zum gesteigerten Gemeingebrauch und zur Sondernutzung 1. Gesuch**
 
-<sup>1</sup> Die Reinigung der Strassen und die periodische Entleerung der Einlaufschächte sind Sache des Trägers der Strassenbaulast.
+<sup>1</sup> Im Gesuch um gesteigerten Gemeingebrauch oder Sondernutzung sind Art und Nutzungsumfang aufzuführen.
 
-<sup>2</sup> Die Reinigung der Radstreifen entlang von Kantonsstrassen obliegt generell dem Kanton.
+<sup>2</sup> Das Gesuch ist bei der Strassenverwaltungsinstanz einzureichen.
 
-<sup>3</sup> Die Reinigung der Radwege sowie der Innerortsstrecken von Trottoirs entlang von Kantonsstrassen obliegt der Gemeinde; sind Radwege und Ausserortsstrecken von Trottoirs entlang von Kantonsstrassen kombiniert angelegt, besorgt deren Reinigung der Kanton, welcher der Gemeinde für ihren Kostenanteil Rechnung stellt.
+<sup>3</sup> Der Regierungsrat legt die erforderlichen Unterlagen in einer Verordnung fest.
 
 #### Art. 60
 
-**Schneeräumung und Glatteisbekämpfung**
+**2. Bauten und Anlagen**
 
-<sup>1</sup> Die Schneeräumung und Glatteisbekämpfung auf Strassen sind Sache des Trägers der Strassenbaulast.
+<sup>1</sup> Berechtigte haben:
 
-<sup>2</sup> Die Schneeräumung und Glatteisbekämpfung auf Radstreifen entlang von Kantonsstrassen obliegen generell dem Kanton.
-
-<sup>3</sup> Die Schneeräumung und Glatteisbekämpfung auf Radwegen sowie auf Innerortsstrecken von Trottoirs entlang von Kantonsstrassen obliegen der Gemeinde; sind Radwege und Ausserortsstrecken von Trottoirs entlang von Kantonsstrassen kombiniert angelegt, besorgt deren Schneeräumung und Glatteisbekämpfung der Kanton, welcher der Gemeinde für ihren Kostenanteil Rechnung stellt.
-
-<sup>4</sup> Die Schneeabfuhr von Innerortsstrecken der Kantonsstrassen ist Sache der Gemeinde.
+- 1\. ihre Anlagen zu unterhalten;
+- 2\. alle Mehrkosten zu tragen, die wegen ihrer Anlagen entstehen:
+- 3\. die Kosten der Verlegung oder Änderung ihrer Anlagen zu tragen, wenn dies der Strassenbau oder -unterhalt erfordert.
 
 #### Art. 61
 
-**Strassenentwässerung**
+**3. Sicherheitsleistungen, Vorschüsse**
 
-<sup>1</sup> Das von den Strassen direkt oder durch Rinnen und Durchlässe abfliessende Wasser muss von den Eigentümern der anstossenden Grundstücke aufgenommen werden.
-
-<sup>2</sup> Verändert der Anstösser die Abflussverhältnisse auf seinem Grundstück, hat er für genügende Abflussmöglichkeiten zu sorgen.
-
-<sup>3</sup> Die Durchleitung des aus Strassenentwässerungsanlagen abgeleiteten Wassers haben die Eigentümerinnen und Eigentümer der anstossenden Grundstücke gegen volle Entschädigung eines allfälligen Schadens zu dulden; Wasser von öffentlichen Strassen darf gegen Entschädigung in vorhandene Kanalisationssysteme eingeleitet werden, sofern eine Anlage hierzu geeignet ist.
-
-<sup>4</sup> Vorbehalten bleiben bereits bestehende Vereinbarungen und Verpflichtungen.
-
-## 5 Bestimmungen über das Strassengebiet und seine Benützung
+<sup>1</sup> Vor der Erteilung einer Bewilligung oder einer Konzession können von den Berechtigten Sicherheiten oder Vorschüsse verlangt werden.
 
 #### Art. 62
 
-**Gemeingebrauch**
+**Konzessionsgebühren 1. Grundsatz**
 
-<sup>1</sup> Die Benützung der öffentlichen Strassen zum Verkehr ist im Rahmen der Gesetzgebung jedermann gestattet; auf die Aufrechterhaltung des Gemeingebrauchs besteht jedoch kein Rechtsanspruch.
+<sup>1</sup> Zusätzlich zu den amtlichen Kosten werden in Konzessionsverfahren erhoben:
 
-<sup>2</sup> Im Rahmen des Gemeingebrauchs hat der fliessende Verkehr den Vorrang vor dem ruhenden Verkehr.
+- 1\. einmalige Konzessionsgebühren für die Erteilung des Nutzungsrechtes; und
+- 2\. jährlich wiederkehrende Konzessionsgebühren für die Nutzung des Rechts.
+
+<sup>2</sup> Für die Benützung von kantonalen Strassen, Plätzen und Wegen sowie deren Untergrund wird eine einmalige Konzessionsgebühr von Fr. 100.- bis Fr. 1'000.- erhoben; die jährlich wiederkehrenden Konzessionsgebühren betragen je m² Fr. 10.- bis Fr. 100.-. Die Ansätze für die Benützung der übrigen öffentlichen Strassen, Plätze und Wege richten sich nach dem kommunalen Reglement.
+
+<sup>3</sup> Für Anlagen des öffentlichen Verkehrs werden keine Gebühren erhoben.
 
 #### Art. 63
 
-**Sondergebrauch 1. allgemein**
+**2. Kriterien**
 
-<sup>1</sup> Wenn die Strasse nicht vorwiegend zum Verkehr, sondern zu andern Zwecken benützt wird, oder wenn durch die Benützungsart der Strasse deren Gebrauch durch andere Strassenbenützer ausgeschlossen oder in vermeidbarer Weise beschränkt wird, liegt Sondergebrauch vor.
-
-<sup>2</sup> Der Sondergebrauch der Strassen bedarf einer Bewilligung, die von den für die Sicherheit und Flüssigkeit des Verkehrs erforderlichen Bedingungen und Auflagen abhängig zu machen ist.
-
-<sup>3</sup> Wer die Bewilligung erhält, hat dem Träger der Strassenbaulast alle Kosten zu ersetzen, die diesem durch den Sondergebrauch entstehen; überdies können Gebühren erhoben werden, die nach dem wirtschaftlichen Vorteil des Sondergebrauchs zu bemessen sind.
-
-<sup>4</sup> Die Gemeinden können durch Verfügung des Regierungsrats, Korporationen sowie Private durch Verfügung des Gemeinderats verpflichtet werden, ihre Strassen gegen volle Entschädigung für die Errichtung von Anlagen oder für Verkehrszwecke zur Verfügung zu stellen; die Entschädigung wird im Streitfall durch die Enteignungskommission festgesetzt.
+<sup>1</sup> Für die Bemessung der Gebühren sind innerhalb des vorgegebenen Rahmens insbesondere die Art, die Intensität, der Umfang, die Dauer und die Bedeutung der Strassennutzung sowie der wirtschaftliche Vor-teil für die Berechtigten massgebend.
 
 #### Art. 64
 
-**2. Bewilligungsinstanz**
+**3. Herabsetzung, Erlass**
 
-<sup>1</sup> Die Bewilligung für Sondergebrauch wird erteilt:
+<sup>1</sup> Konzessionsgebühren können im Einzelfall herabgesetzt oder erlassen werden, wenn:
 
-- 1\. durch die zuständige Direktion[^64-1] für Kantonsstrassen;
-- 2\. durch den Gemeinderat für Gemeindestrassen;
-- 3\. durch den Träger der Strassenbaulast für öffentliche Strassen privater Eigentümer und für Privatstrassen.
-
-[^64-1]: Der Begriff «Baudirektion» wurde durch «zuständige Direktion» ersetzt, A 2005, 176, 547
+- 1\. Nutzungsintensität und -dauer gering sind;
+- 2\. Berechtigten nur ein unbedeutender wirtschaftlicher Vorteil erwächst;
+- 3\. die Nutzung einem gemeinnützigen Zweck dient; oder
+- 4\. für die Nutzung des öffentlichen Grundes ein überwiegendes öffentliches Interesse besteht.
 
 #### Art. 65
 
-**3. besondere Fälle**
+**Bewilligungspflicht für Kreuzungen, Knoten, Einmündungen und Zufahrten sowie Unter- oder Überquerungen**
 
-<sup>1</sup> Stangen und Maste für Leitungen sowie Hydranten müssen in der Regel mindestens 50 cm vom Fahrbahnrand entfernt sein.
+<sup>1</sup> Neue Einfahrten in öffentliche Strassen und deren Anpassungen im Zusammenhang mit Kreuzungsbauwerken, Knoten, Einmündungen, Zufahrten sowie Unter- oder Überquerungen und dergleichen sind bewilligungspflichtig.
 
-<sup>2</sup> Der Luftraum über der öffentlichen Strasse darf unter Vorbehalt anders lautender Bestimmungen ohne Erlaubnis der zuständigen Bewilligungsinstanz in keiner Weise zur Errichtung von Anlagen in Anspruch genommen werden.
-
-<sup>3</sup> Wer ein Fahrzeug dauernd oder regelmässig auf öffentlichem Grund parkiert, kann vom Träger der Strassenbaulast zu einer angemessenen Abgabe verpflichtet werden; der Ertrag dieser Parkierungsgebühren steht dem Träger der Strassenbaulast zu.
+<sup>2</sup> Die Strassenverwaltungsinstanz erteilt die Bewilligung.
 
 #### Art. 66
 
-**4. Haltestellen**
+**Leitungen**
 
-<sup>1</sup> Das Anhalten von fahrplanmässig verkehrenden Motorfahrzeugen auf Strassen mit allgemeinem Durchgangsverkehr zum Ein- und Aussteigen von Personen sowie zum Güterumlad und dergleichen bedarf der Bewilligung gemäss Art. 63.
+<sup>1</sup> Leitungen sind möglichst ausserhalb von Strassen zu verlegen; ist dies nur mit unverhältnismässigem Aufwand möglich, sind sie möglichst ausserhalb der Fahrbahn zu verlegen.
 
-<sup>2</sup> Die Haltestellen für solche Fahrzeuge sind nach Möglichkeit ausserhalb der Strassenfahrbahn anzulegen.
+<sup>2</sup> Erfordern Bauarbeiten an der Strasse eine Anpassung der Leitungen, ist deren Eigentümerschaft verpflichtet, diese auf ihre Kosten anzupassen.
+
+<sup>3</sup> Verursacht die Rücksichtnahme auf Leitungen Mehrkosten beim Bau oder Unterhalt der Strassen, trägt die Eigentümerschaft der Leitungen die Mehrkosten.
+
+<sup>4</sup> Vorbehalten bleiben anderweitige Vereinbarungen.
 
 #### Art. 67
 
-**Einrichtungen auf Nachbargrundstücken, Verbot**
+**Parkieren auf öffentlichem Grund 1. zeitlich beschränktes Parkieren**
 
-<sup>1</sup> Innerhalb der Baulinien sind Materialablagerungen, Einrichtungen und dergleichen, die durch Sichtbehinderung die Verkehrssicherheit gefährden oder die Flüssigkeit des Verkehrs beeinträchtigen, verboten; sie sind, soweit sie bereits bestehen, auf Verlangen des Trägers der Strassenbaulast zu beseitigen.
+<sup>1</sup> Das zeitlich beschränkte Parkieren auf öffentlichem Grund richtet sich nach dem kantonalen Strassenverkehrsgesetz (kSVG)[^67-1].
 
-<sup>2</sup> Für den hieraus entstehenden Schaden ist voller Ersatz zu leisten; kann die Entschädigung nicht vereinbart werden, wird sie aufgrund des Enteignungsrechts[^67-1] festgesetzt.
-
-[^67-1]: NG 266
+[^67-1]: NG 651.1
 
 #### Art. 68
 
-**Bewilligungspflicht**
+**2. Dauerparkieren**
 
-<sup>1</sup> Unter Vorbehalt der übrigen Gesetzgebung ist eine Bewilligung erforderlich für:
+<sup>1</sup> Kanton und Gemeinden können dauerndes und regelmässiges Parkieren von Fahrzeugen auf ihrem öffentlichen Grund der Gebührenpflicht unterstellen.
 
-- 1\. Abgrabungen, Aufschüttungen und ähnliche Veränderungen an Grundstücken, die öffentliche Strassen in ihrer Sicherheit gefährden können;
-- 2\. den Betrieb von Steinbrüchen und Kiesgruben in Strassennähe;
-- 3\. bauliche Anlagen in der Strassenzone zwischen den Baulinien, insbesondere für Stütz- und Futtermauern sowie Leitungsunterführungen und unterirdische Anlagen jeder Art.
+<sup>2</sup> Die Höhe der Gebühren, die Art deren Erhebung sowie deren Verwendung legen fest:
 
-<sup>2</sup> Die Bewilligung wird für Kantonsstrassen durch die zuständige Direktion[^68-1] sowie für alle übrigen Strassen durch den Gemeinderat erteilt.
+- 1\. der Regierungsrat für öffentlichen Grund des Kantons in einer Verordnung;
+- 2\. die Gemeinden für ihren öffentlichen Grund.
 
-[^68-1]: Der Begriff «Baudirektion» wurde durch «zuständige Direktion» ersetzt, A 2005, 176, 547
+<sup>3</sup> Die Bemessung der Gebühr richtet sich nach den Kriterien von Art. 15 Abs. 2 kSVG[^68-1]
+
+[^68-1]: NG 651.1.
 
 #### Art. 69
 
-**Einfriedungen**
+**Beschädigung und Verunreinigung von Strassen**
 
-<sup>1</sup> Einfriedungen entlang von Strassen sind durch die Eigentümer der anstossenden Grundstücke zu erstellen und zu unterhalten, soweit keine andern Vereinbarungen getroffen werden.
+<sup>1</sup> Beschädigungen sowie übermässige Abnutzungen und Verunreinigungen von Strassen sind zu vermeiden.
 
-<sup>2</sup> Auf Dämmen, Böschungen, Stützmauern, Brücken, Viadukten sowie an steilen Abhängen usw. hat der Träger der Strassenbaulast je nach Bedürfnis Brustmauern, Geländer, Leitplanken, Wehrsteine, Wehrpfosten oder Schutzbäume anzubringen und zu unterhalten.
+<sup>2</sup> Wer eine Strasse beschädigt oder übermässig abnutzt, hat die Kosten für deren Wiederherstellung zu tragen. Verursacherinnen und Verursacher haben auch dann Ersatz zu leisten, wenn die Behebung des Schadens aufgeschoben wird.
 
-<sup>3</sup> Entlang von Kantonsstrassen ausserhalb der Innerortsstrecken ist die Erstellung von festen Einfriedungen nach Möglichkeit zu unterlassen.
-
-<sup>4</sup> Neue sichtbehindernde Einfriedungen entlang von öffentlichen Strassen dürfen ohne Bewilligung der Strassenaufsichtsbehörde die Höhe von 1.20 m nicht übersteigen; an unübersichtlichen Strassenstellen sowie an Kreuzungen und Einmündungen dürfen sie die Strassenfahrbahn um höchstens 80 cm überragen.
+<sup>3</sup> Wer eine Strasse übermässig verschmutzt, hat diese umgehend zu reinigen. Kommen Verursacherinnen oder Verursacher dieser Verpflichtung nicht nach oder können sie dieser Verpflichtung nicht nachkommen, kann die Strassenverwaltungsinstanz die Verunreinigung umgehend ohne Voranzeige auf Kosten der Verursacherinnen oder der Verursacher beseitigen oder bei Bedarf durch einen Dritten beseitigen lassen.
 
 #### Art. 70
 
-**Strassenabstände für Bäume und Sträucher**
+**Verkehrsunterbrechungen**
 
-<sup>1</sup> Ausserorts haben Bäume einen Abstand von sechs Metern und Sträucher einen solchen von vier Metern vom Rand der Strassenfahrbahn aufzuweisen.
+<sup>1</sup> Bei Verkehrsunterbrechungen auf öffentlichen Strassen wegen Naturereignissen, Bau- und Unterhaltsarbeiten, Veranstaltungen oder ähnlicher Gründe darf der Verkehr umgeleitet werden.
 
-<sup>2</sup> Für Innerortsstrecken gelten die Bestimmungen des Einführungsgesetzes zum Schweizerischen Zivilgesetzbuch[^70-1].
+<sup>2</sup> Anstösserinnen und Anstösser oder Verkehrsteilnehmerinnen und Verkehrsteilnehmer haben keinen Entschädigungsanspruch. Vorbehalten bleiben Ansprüche gemäss der Enteignungsgesetzgebung[^70-1].
 
-<sup>3</sup> Wenn aus strassenbau- oder verkehrstechnischen Gründen Bepflanzungen mit Bäumen und Sträuchern notwendig oder zum Schutz des Landschaftsbildes wünschbar sind, kann die Strassenaufsichtsbehörde Ausnahmen bewilligen.
+[^70-1]: NG 266.1.
 
-<sup>4</sup> Für die Beseitigung bestehender Bäume und Sträucher im Bereiche von Kantonsstrassen ist die zuständige Direktion[^70-2], im Bereiche aller übrigen Strassen der Gemeinderat zuständig. Der durch die Beseitigung entstehende Schaden ist dem Eigentümer voll zu ersetzen.
+#### Art. 71
 
-<sup>5</sup> Das Lichtraumprofil der Strassen ist beidseitig auf eine Höhe von 2.5 Metern über Trottoirs und 4.5 Metern über der Strassenfahrbahn und, wenn die öffentliche Beleuchtung beeinträchtigt wird, bis auf Lampenhöhe von einhängenden Ästen freizuhalten; unterlässt der Eigentümer oder Besitzer das rechtzeitige Zurückschneiden, so hat auf dessen Kosten das Strassenbauorgan diese Arbeit anzuordnen.
+**Umleitungen**
 
-[^70-1]: NG 211.1
-[^70-2]: Der Begriff «Baudirektion» wurde durch «zuständige Direktion» ersetzt, A 2005, 176, 547
+<sup>1</sup> Die Eigentümerschaft betroffener Strassen hat Umleitungen zu dulden.
 
-#### Art. 71–72
+<sup>2</sup> Erfährt die durch die Umleitung beanspruchte Strasse einen Schaden, hat die Verursacherin oder der Verursacher diesen zu ersetzen.
 
-**…**
+### 8. Öffentliche Strassen und angrenzendes Grundeigentum
+
+#### Art. 72
+
+**Duldungspflicht 1. bei Bau und Unterhalt**
+
+<sup>1</sup> Anstösserinnen und Anstösser haben beim Strassenbau sowie beim Unterhalt von Strassen Eingriffe in ihr Grundeigentum entschädigungslos zu dulden, wenn:
+
+- 1\. Eingriffe nur mit unverhältnismässig hohem Aufwand vermieden werden können;
+- 2\. Vorkehren für die Abwendung von unmittelbar drohenden Gefahren zu treffen sind; oder
+- 3\. Strassenbestandteile anzubringen sind für:
+  - a) die Verkehrsführung und -sicherheit wie Verkehrssignale, Strassentafeln, Beleuchtungsanlagen oder Vermessungszeichen; oder
+  - b) die Ableitung des Wassers wie Leitungen.
 
 #### Art. 73
 
-**Beschmutzung von Strassen**
+**2. für die Erstellung von Anlagen**
 
-<sup>1</sup> Jede vermeidbare Beschmutzung von Strassen ist verboten.
+<sup>1</sup> Erfordert es das öffentliche Interesse, können Kanton und Gemeinden sowie Unternehmen der Wasser- und Energieversorgung auf Privatgrundstücken und an privaten Bauten unentgeltlich Zeichen und Einrichtungen anbringen lassen wie insbesondere Strassentafeln, Verkehrssignale, Hinweistafeln für Verteilnetze, Beleuchtungen oder Hydranten.
 
-<sup>2</sup> Ist eine Strasse beschmutzt worden, ist für die Warnung der andern Strassenbenützer und möglichst bald für die Reinigung zu sorgen.
+<sup>2</sup> Den Anliegen der betroffenen Grundeigentümerschaft ist dabei so weit wie möglich Rechnung zu tragen, was Art und Standort der Anbringung betrifft.
 
-<sup>3</sup> Das Strassenbauorgan ist befugt, die Beschmutzung auf Kosten des Verursachers beseitigen zu lassen.
+<sup>3</sup> Die Kosten für Erstellung, Unterhalt, Verlegung, Anpassung oder Entfernung der Zeichen und Einrichtungen tragen die Berechtigten.
 
 #### Art. 74
 
-**Vorschriften zum Schutz der öffentlichen Strassen**
+**Wasserableitung auf Strassen**
 
-<sup>1</sup> Es ist verboten:
-
-- 1\. Transporte so vorzunehmen, dass die Strasse beschädigt werden kann;
-- 2\. Arbeiten aller Art so vorzunehmen, dass die Strasse, die Böschung oder der Graben einer Strasse beschädigt werden können;
-- 3\. Flüssigkeiten aller Art in die Strassenentwässerungsanlage einzuleiten. Für die Erteilung einer Ausnahmebewilligung bei Kantonsstrassen ist die zuständige Direktion[^74-1], bei allen übrigen Strassen der Gemeinderat zuständig.
-
-[^74-1]: Der Begriff «Baudirektion» wurde durch «zuständige Direktion» ersetzt, A 2005, 176, 547
-
-## 6 Finanzielle Bestimmungen
+<sup>1</sup> Das Ableiten von Wasser auf Strassen ist unzulässig.
 
 #### Art. 75
 
-**Kostenverteilung 1. Erstellungs- und Ausbaukosten**
+**Strassenentwässerung 1. Grundsätze**
 
-<sup>1</sup> Die Erstellungs- und Ausbaukosten der Kantonsstrassen gehen unter Vorbehalt von Art. 78 zulasten des Kantons.
+<sup>1</sup> Das von Strassen, Plätzen und Wegen natürlich abfliessende Wasser ist von den anstossenden Grundstücken aufzunehmen.
 
-<sup>2</sup> Die Erstellungs- und Ausbaukosten der Gemeindestrassen gehen unter Vorbehalt von Art. 77 Abs. 2 zulasten der Gemeinde; diese kann die interessierten Grundeigentümerinnen und Grundeigentümer sowie Inhaberinnen und Inhaber von Baurechten über das Perimeterverfahren zu Beitragsleistungen bis zu einem Drittel der eigenen Aufwendungen heranziehen; dient die Strasse nur der Erschliessung einer Bauzone oder eines Teils einer solchen, findet Abs. 3 Anwendung.
+<sup>2</sup> Die Strasseneigentümerschaft hat das Strassenabwasser in künstliche Entwässerungsanlagen zu fassen und einzuleiten, wenn:
 
-<sup>3</sup> Die Erstellungs- und Ausbaukosten der Privatstrassen gehen unter Vorbehalt von Art. 45 Abs. 2 und Art. 79 zulasten der interessierten Grundeigentümerinnen und Grundeigentümer sowie Inhaberinnen und Inhaber von Baurechten; sie sind über das Perimeterverfahren aufzuteilen.
-
-<sup>4</sup> Für sämtliche Perimeterbeiträge besitzen Gemeinden und im Falle von Art. 43 Abs. 2 private Träger der Strassenbaulast ein gesetzliches Grundpfandrecht im Sinne von Art. 117 des Einführungsgesetzes zum Schweizerischen Zivilgesetzbuch[^75-1].
-
-[^75-1]: NG 211.1
-
-#### Art. 75a
-
-**2. kombinierte Trottoir- und Radweganlagen**
-
-<sup>1</sup> Die Erstellungs- und Ausbaukosten kombinierter Trottoir- und Radweganlagen werden mit einem Drittel der Trottoiranlage und mit zwei Dritteln der Radweganlage angelastet.
-
-<sup>2</sup> Die Kostentragung richtet sich im übrigen nach den geltenden Regelungen für Trottoirs und Radwege.
-
-#### Art. 75b
-
-**3. Radwege auf öffentlichen Strassen privater Eigentümer und Privatstrassen**
-
-<sup>1</sup> Der im Wegrechtsvertrag mit den Eigentümerinnen und Eigentümern von öffentlichen Strassen privater Eigentümer sowie von Privatstrassen beziehungsweise im Enteignungsbeschluss festgelegte Kostenanteil der öffentlichen Hand am Ausbau von Radwegen geht mit 65 Prozent zulasten des Kantons und mit 35 Prozent zulasten der Gemeinde.
+- 1\. Entwässerungsanlagen zur Aufnahme des Niederschlagswassers erforderlich sind;
+- 2\. anstossende Kulturen durch verschmutztes Wasser stark befahrener Strassen beeinträchtigt würden und die künstliche Entwässerung mit verhältnismässigem Aufwand möglich ist.
 
 #### Art. 76
 
-**Unterhalts- und Betriebskosten**
+**2. künstliche Entwässerung**
 
-<sup>1</sup> Die Kosten des Strassenunterhalts und des Betriebs ihrer technischen Einrichtungen gehen zulasten des Trägers der Strassenbaulast.
+<sup>1</sup> Bei der künstlichen Entwässerung der Strassen von Niederschlagsabwasser ist die Durchleitung von Entwässerungsanlagen durch privates Grundeigentum gegen vollen Ersatz des verursachten Schadens zu dulden.
 
-<sup>2</sup> Der im Wegrechtsvertrag mit den Eigentümerinnen und Eigentümern von öffentlichen Strassen privater Eigentümer sowie von Privatstrassen beziehungsweise im Enteignungsbeschluss festgelegte Kostenanteil am baulichen Unterhalt (Belag) von Radwegen geht mit 65 Prozent zulasten des Kantons und mit 35 Prozent zulasten der Gemeinde.
+<sup>2</sup> Die Strasseneigentümerschaft hat die Einlaufschächte und Ableitungen bis zur öffentlichen Niederschlagsabwasserleitung zu erstellen und zu unterhalten.
+
+<sup>3</sup> Die Eigentümerschaft einer Abwasserleitung hat das Strassenabwasser zu übernehmen, wenn die Anlage dazu geeignet ist und aus der Sicht des Gewässerschutzes keine vorteilhaftere Massnahme möglich ist. Die Strasseneigentümerschaft hat hierfür die einmaligen und wiederkehrenden Gebühren nach dem massgebenden kommunalen Reglement zu entrichten.
 
 #### Art. 77
 
-**Kantonsbeiträge an den Strassenaufwand der Gemeinden**
+**3. Einleitung von Niederschlagsabwasser**
 
-<sup>1</sup> Gemeinden, die entlang von Innerortsstrecken von Kantonsstrassen Trottoirs erstellen, erhalten vom Kanton nach Abzug allfälliger Bundesbeiträge und Beiträge Dritter einen Beitrag von 20 Prozent der Kosten.
+<sup>1</sup> Die Einleitung von Niederschlagsabwasser durch Dritte in Strassenentwässerungsanlagen benötigt eine Bewilligung der Strassenverwaltungsinstanz.
 
-<sup>2</sup> Wird eine Gemeinde durch den Landrat gemäss Art. 20 Abs. 3 zur Erstellung einer Strasse verpflichtet, trägt der Kanton nach Abzug allfälliger Bundesbeiträge und Beiträge Dritter die Hälfte der Kosten.
-
-<sup>3</sup> …
+<sup>2</sup> Die Einleitung ist gebührenpflichtig.
 
 #### Art. 78
 
-**Beiträge der Gemeinde 1. an Kantonsstrassen**
+**Sichtfelder, Lichtraumprofile 1. allgemein**
 
-<sup>1</sup> Von den Kosten der Neuanlage oder des Ausbaus von Innerortsstrecken der Kantonsstrassen tragen die Gemeinden nach Abzug allfälliger Bundesbeiträge und Beiträge Dritter:
+<sup>1</sup> Sichtfelder legen die massgebenden Sichtwinkel und Sichtweiten fest, die für ein gefahrloses Einmünden mit Fahrzeugen aller Art in eine vortrittsberechtigte Strasse erforderlich sind.
 
-- 1\. 20 Prozent, wenn kein Trottoir erstellt wird;
-- 2\. 25 Prozent, wenn ein Trottoir erstellt wird;
-- 3\. 30 Prozent, wenn zwei Trottoirs erstellt werden.
-
-<sup>2</sup> Von den Kosten der Neuanlage oder des Ausbaues von Radwegen oder Radstreifen, die im Radwegkonzept des Kantons enthalten sind oder entlang von Kantonsstrassen angelegt werden, tragen die Gemeinden, auf deren Gebiet die Anlage liegt, nach Abzug allfälliger Bundesbeiträge und Beiträge Dritter 35 Prozent.
-
-<sup>3</sup> Die Gemeinden können von den Grundeigentümern nach Massgabe der Vorteile, der diesen aus dem Strassenbau erwachsen, im Perimeterverfahren Beiträge erheben, höchstens jedoch im Gesamtbetrag von einem Drittel der eigenen Aufwendungen.
+<sup>2</sup> Das Lichtraumprofil begrenzt in Höhe und Breite den Raum, der für eine ganzheitliche und sichere Nutzung der Verkehrsflächen erforderlich ist.
 
 #### Art. 79
 
-**2. an Privatstrassen**
+**2. Gewährleistung, Wiederherstellung**
 
-<sup>1</sup> Die Gemeinde kann an Privatstrassen Beiträge leisten.
+<sup>1</sup> Die Einhaltung von Sichtfeldern und Lichtraumprofilen ist dauernd zu gewährleisten. Die Strassenverwaltungsinstanz kann Ausnahmen gestatten, wenn die Verkehrssicherheit nicht beeinträchtigt wird.
 
-<sup>2</sup> Die Beitragsleistung ist in einem Reglement zu ordnen.
+<sup>2</sup> Werden Sichtfelder oder Lichtraumprofile beeinträchtigt, fordert die Strassenverwaltungsinstanz die Grundeigentümerschaft auf, den rechtmässigen Zustand wiederherzustellen.
+
+<sup>3</sup> Unterlässt die Grundeigentümerschaft die Wiederherstellung, kann die Strassenverwaltungsinstanz die Ersatzvornahme anordnen. Unterlässt die Strassenverwaltungsinstanz die Wiederherstellung, kann die Strassenaufsichtsinstanz auf deren Kosten die Wiederherstellung im Sinne einer Ersatzvornahme selbst vornehmen oder durch einen Dritten vornehmen lassen. Beschwerden haben keine aufschiebende Wirkung.
 
 #### Art. 80
 
-**Berechnung der Beiträge an die Baukosten**
+**Abstände 1. Bauten und Anlagen**
 
-<sup>1</sup> Für die Berechnung der Beiträge an die Kosten der Erstellung und des Ausbaus der Strassen sind die Projektierung, einschliesslich allfälliger Bodenuntersuchungen und Materialprüfungen, der Landerwerb, die Bauleitung, die Bauausführung und die Anpassungsarbeiten zu berücksichtigen.
+<sup>1</sup> Die Abstände für Bauten und Anlagen entlang von öffentlichen Strassen richten sich nach dem Planungs- und Baugesetz[^80-1].
+
+[^80-1]: NG 611.1
 
 #### Art. 81
 
-**Berechnung der Beiträge an die Unterhaltskosten**
+**2. Einfriedungen**
 
-<sup>1</sup> Für die Berechnung der Beiträge an die Unterhaltskosten der Strassen sind die Aufwendungen zu berücksichtigen, die der Erhaltung des ordnungsgemässen Strassenzustandes dienen, mit Ausnahme der Beleuchtungs- und Verwaltungskosten sowie der Schuldzinsen.
+<sup>1</sup> Einfriedungen entlang von Strassen sind Sache der Anstösserinnen und Anstösser, sofern keine andere Vereinbarung mit der Strasseneigentümerschaft besteht.
 
-## 7 Vollzugs-, Straf-, Übergangs- und Schlussbestimmungen
+<sup>2</sup> Entlang von Strassen sind feste Einfriedungen zulässig, soweit die Verkehrssicherheit gewährleistet bleibt.
+
+<sup>3</sup> Der Regierungsrat regelt die Abstände und die Höhe von Einfriedungen sowie deren Beschaffenheit entlang von öffentlichen Strassen in einer Verordnung.
 
 #### Art. 82
 
-**Vollzug des Gesetzes 1. durch den Landrat**
+**3. Bäume und Sträucher**
 
-<sup>1</sup> Der Landrat erlässt die zum Vollzug dieses Gesetzes erforderlichen Vorschriften.
+<sup>1</sup> Der Regierungsrat regelt die Abstände von Bäumen und Sträuchern zu öffentlichen Strassen in einer Verordnung.
+
+<sup>2</sup> Die Strassenverwaltungsinstanz kann Ausnahmen bewilligen, wenn die Abstände nicht eingehalten werden können, weil aus strassenbau- oder verkehrstechnischen Gründen Bepflanzungen mit Bäumen und Sträuchern notwendig oder zum Schutz des Orts- und Landschaftsbildes wünschbar sind.
+
+### 9. Strafbestimmungen
 
 #### Art. 83
 
-**2. durch die Gemeinden**
+**Strafbarkeit**
 
-<sup>1</sup> Die Gemeinden regeln im Rahmen der Gesetzgebung die Zuständigkeiten zur Erfüllung der ihnen zugewiesenen Aufgaben und das dabei anwendbare Verfahren.
+<sup>1</sup> Vorsätzliche oder fahrlässige Widerhandlungen gegen Bestimmungen dieses Gesetzes und gestützt darauf erlassene Ausführungsbestimmungen oder Verfügungen werden mit Busse bis Fr. 20'000.-, in besonders schweren Fällen und im Wiederholungsfall mit Busse bis Fr. 50’000.- bestraft.
+
+<sup>2</sup> Strafbar macht sich insbesondere, wer:
+
+- 1\. ohne Bewilligung Bauten oder Anlagen in einer Projektierungszone erstellt (Art. 25);
+- 2\. ohne Bewilligung bewilligungspflichtige Strassen errichtet, ändert oder abbricht (Art. 31);
+- 3\. ohne Bewilligung oder Konzession Kantons- oder Gemeindestrassen zu gesteigertem Gemeingebrauch oder zur Sondernutzung nutzt (Art. 57 f.);
+- 4\. ohne Bewilligung bewilligungspflichtige Einfahrten in öffentliche Strassen errichtet oder erweitert (Art. 65);
+- 5\. öffentliche Strassen übermässig verschmutzt oder beschädigt (Art. 69);
+- 6\. Wasser auf Strassen ableitet (Art. 74).
+
+<sup>3</sup> Anstiftung und Gehilfenschaft sind strafbar.
 
 #### Art. 84
 
-**Strafbestimmungen**
+**Verantwortlichkeit des Unternehmens**
 
-<sup>1</sup> Widerhandlungen gegen die Bestimmungen dieses Gesetzes und der sich darauf stützenden Erlasse und Verfügungen werden mit Busse bestraft.
+<sup>1</sup> Anstelle einer juristischen Person oder einer Kollektiv- oder Kommanditgesellschaft sind die natürlichen Personen strafbar, die für sie gehandelt haben oder hätten handeln sollen.
 
-<sup>2</sup> Neben dem Eigentümer, Besitzer, Bauherrn oder Bauleiter sind auch die Bauunternehmer und ihre leitenden Organe sowie Bauhandwerker strafbar, wenn sie bei den Widerhandlungen mitgewirkt haben.
-
-<sup>3</sup> Fehlbare sind für Kantonsstrassen durch die zuständige Direktion[^84-1] sowie für alle übrigen Strassen durch den Gemeinderat zur Wiederherstellung des gesetzmässigen Zustandes zu verpflichten.
-
-[^84-1]: Der Begriff «Baudirektion» wurde durch «zuständige Direktion» ersetzt, A 2005, 176, 547
+<sup>2</sup> Können diese nicht festgestellt werden, wird die juristische Person oder die Gesellschaft zur Bezahlung der Busse verurteilt.
 
 #### Art. 85
 
-**Vollstreckbarkeit**
+**Verjährung**
 
-<sup>1</sup> Die aufgrund dieses Gesetzes über Bussen, Kosten, Gebühren und andere Geldleistungen getroffenen rechtskräftigen Verfügungen und Entscheide sind vollstreckbaren Urteilen im Sinne von Art. 80 des Bundesgesetzes über Schuldbetreibung und Konkurs[^85-1] gleichgestellt.
-
-[^85-1]: SR 281.1
+<sup>1</sup> Die Strafverfolgung verjährt drei Jahre nach der letzten strafbaren Handlung beziehungsweise Unterlassung.
 
 #### Art. 86
 
-**Übergangsbestimmungen 1. Anpassung bestehender Anlagen**
+**Anzeigepflicht**
 
-<sup>1</sup> Muss eine bestehende Anlage den Vorschriften dieses Gesetzes angepasst werden, so gehen die Kosten, wenn es das Gesetz nicht anders bestimmt, zulasten des Trägers der Strassenbaulast.
-
-<sup>2</sup> Ist die anzupassende Anlage jedoch bereits unter Verletzung der bisherigen Vorschriften erstellt worden, so hat der Eigentümer der Anlage die Kosten zu tragen.
+<sup>1</sup> Die Direktion ist im Zusammenhang mit Kantonsstrassen, der Gemeinderat im Zusammenhang mit allen übrigen öffentlichen Strassen zur Strafanzeige verpflichtet, wenn Widerhandlungen nicht geringfügig sind.
 
 #### Art. 87
 
-**2. Strassenverzeichnis**
+**Mitteilungspflicht, Mitwirkungsrecht**
 
-<sup>1</sup> Die Strassenverzeichnisse sind binnen drei Jahren seit dem Inkrafttreten dieses Gesetzes zu erstellen und zu veröffentlichen.
+<sup>1</sup> Polizeirapporte sowie rechtskräftige Erledigungsverfügungen, Strafbefehle und Urteile der Strafinstanzen, die sich auf diese Gesetzgebung stützen, sind der Direktion und dem Gemeinderat mitzuteilen; diese können im Strafverfahren Parteirechte ausüben.
+
+### 10. Vollzugsbestimmungen
 
 #### Art. 88
 
-**3. Rechtsmittel**
+**Wiederherstellung des rechtmässigen Zustands**
 
-<sup>1</sup> Bis zum Inkrafttreten der Gesetzgebung über das Verwaltungsgericht können Verfügungen und Entscheide des Regierungsrates beim Obergericht angefochten werden.
+<sup>1</sup> Wer einer gestützt auf die Strassengesetzgebung erlassenen Verfügung zuwiderhandelt oder eine Bedingung oder Auflage nicht erfüllt, hat auf seine Kosten den rechtswidrigen Zustand zu beseitigen.
 
-#### Art. 88a
+<sup>2</sup> Die Strassenverwaltungsinstanz hat nach den Bestimmungen des Verwaltungsrechtspflegegesetzes[^88-1] für die Wiederherstellung des rechtmässigen Zustands zu sorgen.
 
-**Übergangsbestimmungen zur Änderung vom 11. Juni 2014**
-
-<sup>1</sup> Bei Neuanlagen und Ausbauprojekte von Strassen, für welche beim Inkrafttreten der Änderung vom 11. Juni 2014 bereits Kredite für die Ausführung beschlossen wurden, gelten bezüglich Kostenverteilung, Finanzkompetenz und Referendumsrecht weiterhin die bisherigen Bestimmungen[^88a-1].
-
-[^88a-1]: A 1966, 554; A 1981, 513, 517; A 1987, 692; A 1988, 994; A 1990, 838; A 1994, 675; A 1996, 569; A 1997, 539, 859; A 2005, 117, 547; A 2005, 176, 547; A 2006, 1705; A 2007, 5, 1734; A 2008, 92; A 2009, 517, 1288
+[^88-1]: NG 265.1
 
 #### Art. 89
 
-**Änderung bestehender Gesetze 1. Baugesetz[^89-1]**
+**Anmerkung im Grundbuch**
 
-<sup>1</sup> …
+<sup>1</sup> Die zum Zweck des Vollzugs der Strassengesetzgebung verfügten oder vereinbarten öffentlich-rechtlichen Eigentumsbeschränkungen sowie Bedingungen und Auflagen mit länger dauernder Wirkung sind durch die anordnende Instanz im Grundbuch anmerken zu lassen.
 
-[^89-1]: A 1961, 481
+<sup>2</sup> Die Kosten für die Anmerkung hat diejenige Person zu tragen, welche das Verfahren, in dem die Eigentumsbeschränkung verfügt oder vereinbart wurde, verursacht hat.
+
+<sup>3</sup> Fällt die Voraussetzung für eine Anmerkung dahin, veranlasst diejenige Instanz, welche die Anmerkung veranlasst hat, deren Löschung.
 
 #### Art. 90
 
-**2. Einführungsgesetz zum Schweizerischen Zivilgesetzbuch[^90-1]**
+**Vollzug**
 
-<sup>1</sup> …
+<sup>1</sup> Der Regierungsrat erlässt die zum Vollzug dieses Gesetzes erforderlichen Bestimmungen in einer Verordnung.
 
-[^90-1]: A 1911, 129
+### 11. Übergangs- und Schlussbestimmungen
 
 #### Art. 91
 
-**Rechtskraft**
+**Übergangsbestimmungen 1. bestehende Kantonsstrassen**
 
-<sup>1</sup> Dieses Gesetz tritt auf den 1. Januar 1967 in Kraft.
+<sup>1</sup> Strassen, die im Zeitpunkt des Inkrafttreten dieses Gesetzes als Kantonsstrassen galten, bleiben dies weiterhin; Art. 18 bleibt vorbehalten.
 
-<sup>2</sup> Alle mit ihm in Widerspruch stehenden Bestimmungen sind aufgehoben, insbesondere:
+#### Art. 92
 
-- 1\. Gesetz betreffend den Ausbau und Unterhalt der Kantonsstrassen vom 29. April 1951;
-- 2\. Gesetz betreffend den Neubau der Hauptstrasse Nr. 4 im Abschnitt Kantonsgrenze Luzern bis Stansstad vom 25. April 1954;
-- 3\. Gesetz betreffend den Bau der «Linksufrigen Vierwaldstättersee-Strasse» vom 24. April 1960;
-- 4\. Gesetz über den Loskauf der Strassenbeschwerde vom 12. Mai 1856;
-- 5\. Gesetz betreffend Unterhalt der Landstrassen (ohne Datum);
-- 6\. Gesetz über die Gemeindestrassen vom 30. April 1899;
-- 7\. Gesetz betreffend die Landstrassen vom 26. April 1896.
+**2. Strassennutzung a) konzessionspflichtige Nutzungen, Meldepflicht**
 
-A 1966, 554
+<sup>1</sup> Für konzessionspflichtige Nutzungen öffentlicher Strassen, Plätze und Wege, die nach dem bisherigen Recht ohne Konzession oder Bewilligung zulässig waren, sind die Konzessionsgesuche innert eines Jahres seit dem Inkrafttreten dieses Gesetzes bei der Bewilligungsbehörde einzureichen.
+
+<sup>2</sup> Die bisherige Nutzung ist bis zum rechtskräftigen Abschluss des Konzessionsverfahrens im bisherigen Umfang ohne Konzession zulässig, sofern das Gesuch rechtzeitig und ordnungsgemäss eingereicht worden ist.
+
+#### Art. 93
+
+**b) Konzessionsgebühren**
+
+<sup>1</sup> Die Bestimmungen über die Konzessionsgebühren sind für alle hängigen Verfahren anwendbar, in denen über die Konzession noch nicht entschieden worden ist.
+
+<sup>2</sup> Soweit konzessionspflichtige Nutzungen nach dem bisherigen Recht ohne Konzession oder Bewilligung zulässig waren, ist für die erste Konzessionsdauer keine Konzessionsgebühr geschuldet.
+
+#### Art. 94
+
+**c) altrechtliche Konzessionen und Bewilligungen**
+
+<sup>1</sup> Die beim Inkrafttreten dieses Gesetzes bestehenden Konzessionen und Bewilligungen nach dem bisherigen Recht für die Nutzung öffentlicher Strassen, Plätze und Wege bleiben bis zu deren Ablauf bestehen.
+
+#### Art. 95
+
+**3. kommunale Strassenvorschriften**
+
+<sup>1</sup> Die Gemeinden haben innert fünf Jahren nach dem Inkrafttreten dieses Gesetzes ihre Strassenvorschriften wie das Strassenreglement und das Strassenverzeichnis der kantonalen Strassengesetzgebung anzupassen. Nach dem unbenutzten Ablauf dieser Frist kann der Regierungsrat im Sinne einer Ersatzvornahme anstelle der Gemeinde die nötigen kommunalen Strassenvorschriften anordnen.
+
+<sup>2</sup> Bestehende kommunale Strassenvorschriften behalten ihre Gültigkeit bis zum Inkrafttreten der an die kantonale Strassengesetzgebung angepassten kommunalen Strassenvorschriften. Bestimmungen, die in Widerspruch zu diesem Gesetz stehen, sind nicht anwendbar.
+
+#### Art. 96
+
+**4. hängige Verfahren**
+
+<sup>1</sup> Dieses Gesetz ist für Verfahren anwendbar, die bei seinem Inkrafttreten hängig sind.
+
+<sup>2</sup> Das bisherige Recht ist anwendbar:
+
+- 1\. für Verfahren, in denen eine öffentliche Auflage mit Einwendungsmöglichkeit erfolgt ist;
+- 2\. für Rechtsmittelverfahren, in denen ein Entscheid nach dem bisherigen Recht ergangen ist.
+
+2026-024
