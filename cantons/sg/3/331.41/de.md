@@ -3,20 +3,19 @@ canton: SG
 number: "331.41"
 title: Regierungsbeschluss über die Spitalliste Akutsomatik
 language: de
-version: 2026-01-01
-valid_until: 2026-06-30
-version_adopted: 2025-12-09
+version: 2026-07-01
+version_adopted: 2026-06-23
 adopted: 2024-03-05
 in_force: 2024-04-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/331.41"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3872/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3926/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Regierungsbeschluss über die Spitalliste Akutsomatik
 
-vom 05.03.2024 (Stand 01.01.2026)
+vom 05.03.2024 (Stand 01.07.2026)
 
 Die Regierung des Kantons St.Gallen
 
@@ -28,7 +27,7 @@ als Beschluss:[^ingress-3]
 
 [^ingress-1]: SR [832.10](https://db.clex.ch/link/Bund/832.10/de).
 [^ingress-2]: sGS [320.1](https://www.gesetzessammlung.sg.ch/data/320.1/de).
-[^ingress-3]: Im Amtsblatt publiziert am 21. März 2024, ABl 2024-00.144.981; in Vollzug ab 1. April 2024. Einzelne Positionen der Spitalliste Akutsomatik sind aufgrund von Beschwerden gegen diesen Erlass noch nicht rechtsgültig, vgl. die Endnoten r und s am Ende von Anhang 1.
+[^ingress-3]: Im Amtsblatt publiziert am 21. März 2024, ABl 2024-00.144.981; in Vollzug ab 1. April 2024. Einzelne Positionen der Spitalliste Akutsomatik sind aufgrund von Beschwerden gegen diesen Erlass noch nicht rechtsgültig, vgl. die Endnoten q bis v am Ende von Anhang 1.
 
 #### Art. 1
 
