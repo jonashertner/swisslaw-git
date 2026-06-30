@@ -4,13 +4,12 @@ number: "161.7"
 title: Verordnung über die Kosten in der Zivil- und Strafrechtspflege
 short: "Kostenverordnung Obergericht, KoV OG"
 language: de
-version: 2026-01-01
-valid_until: 2026-06-30
-version_adopted: 2025-11-26
+version: 2026-07-01
+version_adopted: 2026-06-23
 adopted: 2011-12-15
 in_force: 2012-01-01
 url: "https://bgs.zg.ch/app/de/texts_of_law/161.7"
-pdf: "https://bgs.zg.ch/api/de/versions/2963/pdf_file"
+pdf: "https://bgs.zg.ch/api/de/versions/3033/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://bgs.zg.ch/api/de/versions/2963/pdf_file"
 
 (Kostenverordnung Obergericht, KoV OG)
 
-Vom 15. Dezember 2011 (Stand 1. Januar 2026)
+Vom 15. Dezember 2011 (Stand 1. Juli 2026)
 
 Das Obergericht des Kantons Zug,
 
@@ -242,6 +241,8 @@ beschliesst:
 - d) Kosten für die Mitwirkung anderer Behörden;
 - e) Post-, Telefon- und ähnliche Spesen;
 - f) Kosten für Zeugen und Auskunftspersonen.
+
+<sup>3</sup> Auf die Aufführung der Gebühren und Auslagen gemäss § 7 Abs. 1 kann verzichtet werden, wenn eine Nichtanhandnahme-, Einstellungs- oder Sistierungsverfügung erlassen wird, keine externen Auslagen angefallen sind und die Kosten auf die Staatskasse genommen werden.
 
 #### § 21
 
