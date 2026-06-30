@@ -4,11 +4,11 @@ title: "Ordinanza del 27 giugno 1995 sull'assicurazione malattie (OAMal)"
 short: OAMal
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867"
 language: it
-version: 2026-01-01
+version: 2026-07-01
 adopted: 1995-06-27
 in_force: 1996-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867/20260101/it/xml/fedlex-data-admin-ch-eli-cc-1995-3867_3867_3867-20260101-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/3867_3867_3867/20260101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867/20260701/it/xml/fedlex-data-admin-ch-eli-cc-1995-3867_3867_3867-20260701-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/3867_3867_3867/20260701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/3867_3867_3867/20260101/it"
 
 (OAMal)
 
-del 27 giugno 1995 (Stato 1° gennaio 2026)
+del 27 giugno 1995 (Stato 1° luglio 2026)
 
 Il Consiglio federale svizzero,
 
@@ -2881,7 +2881,7 @@ L’assicurazione obbligatoria delle cure medico-sanitarie assume i costi di un 
 
 [^71e-1]
 
-[^71e-1]: Introdotto dalla cifra III dell’O del 12 mag. 2021 ([RU 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)). Nuovo testo giusta la cifra I dell’O del 17 dic. 2021, in vigore dal 1° gen. 2022 al 31 dic. 2022, prorogato sino al 31 gen. 2024 ([RU 2021 892](https://fedlex.data.admin.ch/eli/oc/2021/892); [2023 791](https://fedlex.data.admin.ch/eli/oc/2023/791)n. II 2).
+[^71e-1]: Introdotto dalla cifra III dell’O del 12 mag. 2021 ([RU 2021 274](https://fedlex.data.admin.ch/eli/oc/2021/274)). Nuovo testo giusta la cifra I dell’O del 17 dic. 2021, in vigore dal 1° gen. 2022 al 31 dic. 2022, prorogato sino al 31 gen. 2024 ([RU 2021 892](https://fedlex.data.admin.ch/eli/oc/2021/892); [2023 791](https://fedlex.data.admin.ch/eli/oc/2023/791)cifra II n. 2).
 
 #### Art. 71f
 
@@ -4151,11 +4151,13 @@ Notifica all’assicuratore:
 
 **Compiti dell’assicuratore**
 
-<sup>1</sup> L’assicuratore comunica al Cantone se può attribuire la notifica a un proprio assicurato. Comunica inoltre al Cantone il premio approvato e l’importo di compensazione secondo l’articolo 26 capoverso 4 dell’ordinanza del 18 novembre 2015[^106c-1] sulla vigilanza sull’assicurazione malattie.[^106c-2]
+<sup>1</sup> L’assicuratore comunica al Cantone se può collegare la notifica a un proprio assicurato. Comunica inoltre al Cantone il premio approvato e l’importo di compensazione secondo l’articolo 26 capoverso 4 dell’ordinanza del 18 novembre 2015[^106c-1] sulla vigilanza sull’assicurazione malattie (OVAMal).[^106c-2]
+
+<sup>1bis</sup> Se opera una compensazione dei premi incassati in eccesso secondo l’articolo 17 LVAMal[^106c-3], l’assicuratore informa il Cantone anche in merito agli assicurati il cui premio è interamente coperto dalle riduzioni dei premi di cui all’articolo 65 LAMal nonché all’importo del rimborso di cui all’articolo 31*a* OVAMal per ogni assicurato.[^106c-4]
 
 <sup>2</sup> Notifica al Cantone importanti cambiamenti nei rapporti con l’assicurato. Il DFI può definire quali cambiamenti sono considerati importanti.
 
-<sup>3</sup> L’assicuratore presenta al Cantone un conto annuale. Quest’ultimo comprende, per ogni avente diritto, i dati personali di cui all’articolo 105*g*, il periodo interessato, i premi mensili dell’assicurazione obbligatoria delle cure medico-sanitarie e gli importi versati.
+<sup>3</sup> L’assicuratore presenta al Cantone un conto annuale. Quest’ultimo comprende, per ogni avente diritto, i dati personali di cui all’articolo 105*g*, il periodo interessato, i premi mensili dell’assicurazione obbligatoria delle cure medico-sanitarie, gli importi versati e l’importo di eventuali rimborsi di cui all’articolo 31*a* OVAMal.[^106c-5]
 
 <sup>4</sup> L’assicuratore indica la riduzione del premio per assicurato e per mese nel conteggio dei premi. Non può indicarla sul certificato di assicurazione.
 
@@ -4164,17 +4166,20 @@ Notifica all’assicuratore:
 Può compensare i suoi crediti residui relativi ai premi per l’anno civile e altri crediti scaduti relativi all’assicurazione obbligatoria delle cure medico-sanitarie, fatto salvo l’articolo 105*k* capoverso 5, attraverso:
 
 - a. la riduzione dei premi accordata dal Cantone;
-- b. l’importo forfettario accordato dal Cantone per l’assicurazione obbligatoria delle cure medico-sanitarie di cui all’articolo 10 capoverso 3 lettera d della legge federale del 6 ottobre 2006[^106c-3] sulle prestazioni complementari all’assicurazione per la vecchiaia, i superstiti e l’invalidità.[^106c-4]
+- b. l’importo forfettario accordato dal Cantone per l’assicurazione obbligatoria delle cure medico-sanitarie di cui all’articolo 10 capoverso 3 lettera d della legge federale del 6 ottobre 2006[^106c-6] sulle prestazioni complementari all’assicurazione per la vecchiaia, i superstiti e l’invalidità.[^106c-7]
 
-<sup>5bis</sup> Versa il saldo all’assicurato entro 60 giorni dalla comunicazione di tale riduzione da parte del Cantone. Sono fatti salvi i disciplinamenti cantonali secondo cui il premio può essere ridotto al massimo del suo stesso importo mentre i piccoli importi non sono versati.[^106c-5]
+<sup>5bis</sup> Versa il saldo all’assicurato entro 60 giorni dalla comunicazione di tale riduzione da parte del Cantone. Sono fatti salvi i disciplinamenti cantonali secondo cui il premio può essere ridotto al massimo del suo stesso importo mentre i piccoli importi non sono versati.[^106c-8]
 
 <sup>6</sup> Il Cantone può prevedere che l’assicuratore gli comunichi i dati personali di cui all’articolo 105*g* e altri dati per i suoi assicurati nel Cantone interessato.
 
 [^106c-1]: [RS 832.121](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10162)
-[^106c-2]: Nuovo testo giusta la cifra I dell’O del 20 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 697](https://fedlex.data.admin.ch/eli/oc/2024/697)).
-[^106c-3]: [RS 831.30](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10077)
-[^106c-4]: Nuovo testo giusta la cifra I dell’O del 22 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 751](https://fedlex.data.admin.ch/eli/oc/2023/751)).
-[^106c-5]: Introdotto dalla cifra I dell’O del 22 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 751](https://fedlex.data.admin.ch/eli/oc/2023/751)).
+[^106c-2]: Nuovo testo giusta la cifra II dell’O del 5 giu. 2026, in vigore dal 1° lug. 2026 ([RU 2026 321](https://fedlex.data.admin.ch/eli/oc/2026/321)).
+[^106c-3]: [RS 832.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10161)
+[^106c-4]: Introdotto dalla cifra II dell’O del 5 giu. 2026, in vigore dal 1° lug. 2026 ([RU 2026 321](https://fedlex.data.admin.ch/eli/oc/2026/321)).
+[^106c-5]: Nuovo testo giusta la cifra II dell’O del 5 giu. 2026, in vigore dal 1° lug. 2026 ([RU 2026 321](https://fedlex.data.admin.ch/eli/oc/2026/321)).
+[^106c-6]: [RS 831.30](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10077)
+[^106c-7]: Nuovo testo giusta la cifra I dell’O del 22 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 751](https://fedlex.data.admin.ch/eli/oc/2023/751)).
+[^106c-8]: Introdotto dalla cifra I dell’O del 22 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 751](https://fedlex.data.admin.ch/eli/oc/2023/751)).
 
 #### Art. 106d
 

@@ -4,11 +4,11 @@ title: Verordnung vom 27. Juni 1995 über die Krankenversicherung (KVV)
 short: KVV
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867"
 language: de
-version: 2026-01-01
+version: 2026-07-01
 adopted: 1995-06-27
 in_force: 1996-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867/20260101/de/xml/fedlex-data-admin-ch-eli-cc-1995-3867_3867_3867-20260101-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/3867_3867_3867/20260101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867/20260701/de/xml/fedlex-data-admin-ch-eli-cc-1995-3867_3867_3867-20260701-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/3867_3867_3867/20260701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/3867_3867_3867/20260101/de"
 
 (KVV)
 
-vom 27. Juni 1995 (Stand am 1. Januar 2026)
+vom 27. Juni 1995 (Stand am 1. Juli 2026)
 
 Der Schweizerische Bundesrat,
 
@@ -4155,11 +4155,13 @@ Er meldet dem Versicherer:
 
 **Aufgaben des Versicherers**
 
-<sup>1</sup> Der Versicherer teilt dem Kanton mit, ob er die Meldung einer bei ihm versicherten Person zuordnen kann. Er teilt dem Kanton ausserdem die genehmigte Prämie sowie den Ausgleichsbetrag nach Artikel 26 Absatz 4 der Krankenversicherungsaufsichtsverordnung vom 18. November 2015[^106c-1] mit.[^106c-2]
+<sup>1</sup> Der Versicherer teilt dem Kanton mit, ob er die Meldung einer bei ihm versicherten Person zuordnen kann. Er teilt dem Kanton ausserdem die genehmigte Prämie sowie den Ausgleichsbetrag nach Artikel 26 Absatz 4 der Krankenversicherungsaufsichtsverordnung vom 18. November 2015[^106c-1] (KVAV) mit.[^106c-2]
+
+<sup>1bis</sup> Nimmt der Versicherer einen Ausgleich von zu hohen Prämieneinnahmen nach Artikel 17 KVAG[^106c-3] vor, so teilt er dem Kanton zudem die versicherten Personen, deren Prämie vollständig durch die Prämienverbilligung nach Artikel 65 KVG gedeckt ist, sowie den Rückvergütungsbetrag nach Artikel 31*a* KVAV pro versicherte Person mit.[^106c-4]
 
 <sup>2</sup> Er meldet dem Kanton wesentliche Änderungen im Verhältnis zwischen der versicherten Person und ihm. Das EDI kann festlegen, welche Änderungen als wesentlich gelten.
 
-<sup>3</sup> Der Versicherer legt dem Kanton eine Jahresrechnung vor. Diese umfasst je berechtigte Person die Personendaten nach Artikel 105*g*, den betroffenen Zeitraum, die Monatsprämien der obligatorischen Krankenpflegeversicherung und die ausgerichteten Beträge.
+<sup>3</sup> Der Versicherer legt dem Kanton eine Jahresrechnung vor. Diese umfasst je berechtigte Person die Personendaten nach Artikel 105*g*, den betroffenen Zeitraum, die Monatsprämien der obligatorischen Krankenpflegeversicherung, die ausgerichteten Beträge und allfällige Rückvergütungsbeträge nach Artikel 31*a* KVAV.[^106c-5]
 
 <sup>4</sup> Der Versicherer gibt die Prämienverbilligung je versicherte Person und Monat auf der Prämienrechnung an. Er darf die Prämienverbilligung nicht auf dem Versicherungsausweis angeben.
 
@@ -4168,17 +4170,20 @@ Er meldet dem Versicherer:
 Er darf seine restlichen Prämienforderungen für das laufende Kalenderjahr und seine anderen fälligen Forderungen aus der obligatorischen Krankenpflegeversicherung unter Vorbehalt von Artikel 105*k* Absatz 5 mit folgenden Beiträgen verrechnen:
 
 - a. der vom Kanton gewährten Prämienverbilligung;
-- b. dem vom Kanton gewährten Pauschalbeitrag für die obligatorische Krankenpflegeversicherung nach Artikel 10 Absatz 3 Buchstabe d des Bundesgesetzes vom 6. Oktober 2006[^106c-3] über Ergänzungsleistungen zur Alters-, Hinterlassenen- und Invalidenversicherung.[^106c-4]
+- b. dem vom Kanton gewährten Pauschalbeitrag für die obligatorische Krankenpflegeversicherung nach Artikel 10 Absatz 3 Buchstabe d des Bundesgesetzes vom 6. Oktober 2006[^106c-6] über Ergänzungsleistungen zur Alters-, Hinterlassenen- und Invalidenversicherung.[^106c-7]
 
-<sup>5bis</sup> Er bezahlt der versicherten Person den Differenzbetrag innerhalb von 60 Tagen nach der Meldung der Prämienverbilligung durch den Kanton aus. Kantonale Regelungen, wonach die Prämie höchstens bis zu ihrem vollen Umfang verbilligt werden kann und wonach kleine Beträge nicht ausgerichtet werden, bleiben vorbehalten.[^106c-5]
+<sup>5bis</sup> Er bezahlt der versicherten Person den Differenzbetrag innerhalb von 60 Tagen nach der Meldung der Prämienverbilligung durch den Kanton aus. Kantonale Regelungen, wonach die Prämie höchstens bis zu ihrem vollen Umfang verbilligt werden kann und wonach kleine Beträge nicht ausgerichtet werden, bleiben vorbehalten.[^106c-8]
 
 <sup>6</sup> Der Kanton kann vorsehen, dass der Versicherer ihm die Personendaten nach Artikel 105*g* und weitere Daten für seine Versicherten im betreffenden Kanton mitteilt.
 
 [^106c-1]: [SR 832.121](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10162)
-[^106c-2]: Fassung gemäss Ziff. I der V vom 20. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 697](https://fedlex.data.admin.ch/eli/oc/2024/697)).
-[^106c-3]: [SR 831.30](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10077)
-[^106c-4]: Fassung gemäss Ziff. I der V vom 22. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 751](https://fedlex.data.admin.ch/eli/oc/2023/751)).
-[^106c-5]: Eingefügt durch Ziff. I der V vom 22. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 751](https://fedlex.data.admin.ch/eli/oc/2023/751)).
+[^106c-2]: Fassung gemäss Ziff. II der V vom 5. Juni 2026, in Kraft seit 1. Juli 2026 ([AS 2026 321](https://fedlex.data.admin.ch/eli/oc/2026/321)).
+[^106c-3]: [SR 832.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10161)
+[^106c-4]: Eingefügt durch Ziff. II der V vom 5. Juni 2026, in Kraft seit 1. Juli 2026 ([AS 2026 321](https://fedlex.data.admin.ch/eli/oc/2026/321)).
+[^106c-5]: Fassung gemäss Ziff. II der V vom 5. Juni 2026, in Kraft seit 1. Juli 2026 ([AS 2026 321](https://fedlex.data.admin.ch/eli/oc/2026/321)).
+[^106c-6]: [SR 831.30](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10077)
+[^106c-7]: Fassung gemäss Ziff. I der V vom 22. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 751](https://fedlex.data.admin.ch/eli/oc/2023/751)).
+[^106c-8]: Eingefügt durch Ziff. I der V vom 22. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 751](https://fedlex.data.admin.ch/eli/oc/2023/751)).
 
 #### Art. 106d
 
