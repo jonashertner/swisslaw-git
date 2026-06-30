@@ -4,7 +4,7 @@ number: "850.11.1"
 title: "RÈGLEMENT du 28.06.2006 d'application de la loi du 24 janvier 2006 d'aide aux personnes recourant à l'action médico-sociale (RLAPRAMS)"
 short: RLAPRAMS
 language: fr
-version: 2025-11-01
+version: 2026-07-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/850.11.1?id=760f3b93-373a-4006-a572-9ccac7852fb8"
 ---
 
@@ -61,7 +61,7 @@ arrête
 - e. les éléments constitutifs du contrôle et de la surveillance;
 - f. les modalités de facturation et de remboursement.
 
-[^1-6]: Modif. 8 du 12.11.2025: Modification Al. 1, a; entrée en vigueur au 01.11.2025 · Modif. 8 du 12.11.2025: Introduction Art. 15a; entrée en vigueur au 01.07.2026
+[^1-6]: Modif. 8 du 12.11.2025: Modification Al. 1, a; entrée en vigueur au 01.11.2025
 
 #### Art. 3
 
@@ -77,7 +77,7 @@ arrête
 
 <sup>5</sup> S'agissant des LADA labelisés au sens de l'article 16a de la loi, la direction évalue périodiquement la qualité et le suivi des prestations fournies au sein des LADA, conformément à une directive de la direction précitée.
 
-[^2-1]: Modif. 2 du 12.10.2011: Modification Al. 2; entrée en vigueur au 01.11.2011 · Modif. 6 du 27.06.2018: Modification Al. 1,2,3; entrée en vigueur au 01.01.2018 · Modif. 8 du 12.11.2025: Modification Al. 1; entrée en vigueur au 01.11.2025; Introduction Al. 5; entrée en vigueur au 01.11.2025 · Modif. 8 du 12.11.2025: Introduction Art. 15a; entrée en vigueur au 01.07.2026
+[^2-1]: Modif. 2 du 12.10.2011: Modification Al. 2; entrée en vigueur au 01.11.2011 · Modif. 6 du 27.06.2018: Modification Al. 1,2,3; entrée en vigueur au 01.01.2018 · Modif. 8 du 12.11.2025: Modification Al. 1; entrée en vigueur au 01.11.2025; Introduction Al. 5; entrée en vigueur au 01.11.2025
 
 #### Art. 4
 
@@ -230,11 +230,31 @@ arrête
 <sup>5</sup> La demande d'aide, munie des pièces nécessaires, est remise au SASH par les organismes reconnus.
 
 [^15-1]: Loi du 29.11.1965 sur les prestations complémentaires à l'AVS / AI ([BLV 831.21](https://prestations.vd.ch/pub/blv-publication/actes/consolide/831.21?id=6e0918d1-9c59-4b02-8cc5-2cd9be0582b8))
-[^15-2]: Modif. 6 du 27.06.2018: Modification ; entrée en vigueur au 01.01.2018
+
+#### Art. 15a
+
+**Aide à l'adaptation du logement individuel (art. 12a loi) [^15-2]**
+
+<sup>1</sup> Le bénéficiaire de l'aide doit être domicilié dans le canton.
+
+<sup>2</sup> Pour prétendre à cette aide, le bénéficiaire doit être au bénéfice d'une rente de vieillesse.
+
+<sup>3</sup> Le montant de l'aide s'élève au maximum à CHF 3'000.- et concerne l'adaptation du logement principal.
+
+<sup>4</sup> Une ordonnance pour l'ergothérapie est émise par un médecin. Elle se base sur l'identification des fragilités qui menacent l'autonomie et, ou la sécurité de la personne dans les activités de la vie quotidienne.
+
+<sup>5</sup> Préalablement à l'octroi de l'aide, une évaluation est réalisée par un ergothérapeute admis à pratiquer à charge de l'assurance-maladie. Cette évaluation établit le lien entre l'état de santé de la personne, son autonomie et le projet d'adaptation. Elle prend en compte les interactions avec son environnement humain, matériel et bâti. Le rapport de l'ergothérapeute énonce notamment les adaptations pouvant faire l'objet d'une demande de financement.
+
+<sup>6</sup> Les éléments à adapter ainsi que le coût des travaux d'adaptation doivent faire l'objet d'un accord préalable entre le locataire et le propriétaire, que cette demande émane du locataire ou du propriétaire lui-même. Un accord type est établi par la direction.
+
+<sup>7</sup> Pour le surplus, une directive fixe notamment les modalités d'octroi de cette aide et de réalisation de l'adaptation du logement.
+
+[^15-2]: Modif. 8 du 12.11.2025: Introduction tArt; entrée en vigueur au 01.07.2026; Introduction Al. 1-7; entrée en vigueur au 01.07.2026; Introduction Art. 15a; entrée en vigueur au 01.07.2026
+[^15a-1]: Modif. 6 du 27.06.2018: Modification ; entrée en vigueur au 01.01.2018
 
 ### Section II Centre d'accueil temporaire
 
-[^15-2]
+[^15a-1]
 
 #### Art. 16
 
@@ -280,7 +300,7 @@ arrête
 
 <sup>2</sup> Une directive peut préciser d'autres critères médico-sociaux pertinents.
 
-[^sectionSectionIII-1]: Modif. 2 du 12.10.2011: Modification Al. 1; entrée en vigueur au 01.11.2011 · Modif. 6 du 27.06.2018: Modification Al. t,1; entrée en vigueur au 01.01.2018 · Modif. 8 du 12.11.2025: Modification tArt; entrée en vigueur au 01.11.2025; Modification Al. 1; entrée en vigueur au 01.11.2025; Introduction Al. 2; entrée en vigueur au 01.11.2025 · Modif. 8 du 12.11.2025: Introduction Art. 15a; entrée en vigueur au 01.07.2026
+[^sectionSectionIII-1]: Modif. 2 du 12.10.2011: Modification Al. 1; entrée en vigueur au 01.11.2011 · Modif. 6 du 27.06.2018: Modification Al. t,1; entrée en vigueur au 01.01.2018 · Modif. 8 du 12.11.2025: Modification tArt; entrée en vigueur au 01.11.2025; Modification Al. 1; entrée en vigueur au 01.11.2025; Introduction Al. 2; entrée en vigueur au 01.11.2025
 
 #### Art. 18a
 
@@ -294,7 +314,7 @@ arrête
 
 <sup>4</sup> Une directive précise notamment les modalités d'évaluation et la procédure d'attribution du LADA au locataire.
 
-[^18-1]: Modif. 8 du 12.11.2025: Introduction Art. 18a; entrée en vigueur au 01.11.2025 · Modif. 8 du 12.11.2025: Introduction Art. 15a; entrée en vigueur au 01.07.2026
+[^18-1]: Modif. 8 du 12.11.2025: Introduction Art. 18a; entrée en vigueur au 01.11.2025
 
 #### Art. 18b
 
@@ -313,7 +333,7 @@ arrête
 
 <sup>5</sup> Les modalités de la collaboration citées à l'alinéa 3 sont précisées dans une directive.
 
-[^18a-1]: Modif. 8 du 12.11.2025: Introduction tArt; entrée en vigueur au 01.11.2025; Introduction Al. 1-5; entrée en vigueur au 01.11.2025; Introduction Art. 18b; entrée en vigueur au 01.11.2025 · Modif. 8 du 12.11.2025: Introduction Art. 15a; entrée en vigueur au 01.07.2026
+[^18a-1]: Modif. 8 du 12.11.2025: Introduction tArt; entrée en vigueur au 01.11.2025; Introduction Al. 1-5; entrée en vigueur au 01.11.2025; Introduction Art. 18b; entrée en vigueur au 01.11.2025
 
 #### Art. 18c
 
@@ -323,7 +343,7 @@ arrête
 
 <sup>2</sup> La direction développe un catalogue de formation en collaboration avec les partenaires du dispositif LADA.
 
-[^18b-1]: Modif. 8 du 12.11.2025: Introduction Art. 18c; entrée en vigueur au 01.11.2025 · Modif. 8 du 12.11.2025: Introduction Art. 15a; entrée en vigueur au 01.07.2026
+[^18b-1]: Modif. 8 du 12.11.2025: Introduction Art. 18c; entrée en vigueur au 01.11.2025
 
 #### Art. 19
 
@@ -341,7 +361,7 @@ arrête
 
 <sup>6</sup> Une directive précise notamment les prestations précitées, les modalités de calcul du coût reconnu à la charge du locataire autonome financièrement ou des régimes sociaux ainsi que les modalités de facturation.
 
-[^18c-1]: Modif. 6 du 27.06.2018: Modification Al. t; entrée en vigueur au 01.01.2018 · Modif. 8 du 12.11.2025: Modification tArt; entrée en vigueur au 01.11.2025; Modification Al. 1-3; entrée en vigueur au 01.11.2025; Introduction Al. 4-6; entrée en vigueur au 01.11.2025 · Modif. 8 du 12.11.2025: Introduction Art. 15a; entrée en vigueur au 01.07.2026
+[^18c-1]: Modif. 6 du 27.06.2018: Modification Al. t; entrée en vigueur au 01.01.2018 · Modif. 8 du 12.11.2025: Modification tArt; entrée en vigueur au 01.11.2025; Modification Al. 1-3; entrée en vigueur au 01.11.2025; Introduction Al. 4-6; entrée en vigueur au 01.11.2025
 
 #### Art. 19a
 
@@ -379,7 +399,7 @@ arrête
 
 <sup>1</sup> ...
 
-[^20-1]: Modif. 8 du 12.11.2025: Abrogation tArt; entrée en vigueur au 01.11.2025; Abrogation Al. 1; entrée en vigueur au 01.11.2025 · Modif. 8 du 12.11.2025: Introduction Art. 15a; entrée en vigueur au 01.07.2026
+[^20-1]: Modif. 8 du 12.11.2025: Abrogation tArt; entrée en vigueur au 01.11.2025; Abrogation Al. 1; entrée en vigueur au 01.11.2025
 
 #### Art. 22
 
@@ -389,7 +409,7 @@ arrête
 
 <sup>2</sup> Des directives fixent notamment les modalités d'octroi de l'aide et de remboursement par les régimes sociaux des prestations délivrées en LADA.
 
-[^21-1]: Modif. 8 du 12.11.2025: Introduction Al. 2; entrée en vigueur au 01.11.2025 · Modif. 8 du 12.11.2025: Introduction Art. 15a; entrée en vigueur au 01.07.2026
+[^21-1]: Modif. 8 du 12.11.2025: Introduction Al. 2; entrée en vigueur au 01.11.2025
 [^22-1]: Loi du 24.01.2006 d'aide aux personnes recourant à l'action médico-sociale ([BLV 850.11](https://prestations.vd.ch/pub/blv-publication/actes/consolide/850.11?id=2fa7a6aa-651f-4e5c-88ba-73796e00dd98))
 
 ### Section IV Court séjour
