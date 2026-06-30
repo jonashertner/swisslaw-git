@@ -4,13 +4,12 @@ number: "700.101"
 title: Verordnung zum Baugesetz
 short: BauV
 language: de
-version: 2026-01-01
-corrected: 2025-12-02
-version_adopted: 2025-12-02
+version: 2026-07-01
+version_adopted: 2026-06-30
 adopted: 1998-12-15
 in_force: 1999-01-01
 url: "https://rechtsbuch.sh.ch/app/de/texts_of_law/700.101"
-pdf: "https://rechtsbuch.sh.ch/api/de/versions/2011/pdf_file"
+pdf: "https://rechtsbuch.sh.ch/api/de/versions/2121/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://rechtsbuch.sh.ch/api/de/versions/2011/pdf_file"
 
 (BauV)
 
-Vom 15.12.1998 (Stand 01.01.2026)
+Vom 15.12.1998 (Stand 01.07.2026)
 
 Der Regierungsrat des Kantons Schaffhausen,
 
@@ -258,13 +257,7 @@ beschliesst:
 
 <sup>4</sup> Für die Meldungen von baubewilligungsfreien Solaranlagen werden keine Gebühren erhoben.
 
-<sup>5</sup> Bis zur Inkraftsetzung der bundesrechtlichen Bestimmungen zur genügenden Anpassung von Solaranlagen an Fassaden in der Raumplanungsverordnung des Schweizerischen Bundesrats vom 28. Juni 2000 (SR 700.1) gelten Solaranlagen an einer Fassade als genügend angepasst im Sinne von Art. 54 Abs. 4 Baugesetz, wenn sie:
-
-- a nach dem Stand der Technik reflexionsarm ausgeführt sind;
-- b kompakt angeordnet sind;
-- c parallel zur Fassade verlaufen;
-- d nicht über die Fassadenflächen hinausragen; und
-- e die Fassadenfläche im rechten Winkel nicht mehr als 20 cm überragen.
+<sup>5</sup> …
 
 #### § 20quinquies
 
@@ -395,6 +388,67 @@ beschliesst:
 **Rückgabe der Bewilligungskompetenz**
 
 <sup>1</sup> Die übertragene Bewilligungskompetenz kann unter Einhaltung einer zweijährigen Anzeigefrist an das Baudepartement zurückgegeben werden.
+
+## 6a Abbruchprämie nach Artikel 5a RPG
+
+#### § 27bis
+
+**Grundsatz**
+
+<sup>1</sup> Der Kanton entrichtet eine Abbruchprämie nach Artikel 5a des Bundesgesetzes über die Raumplanung vom 22. Juni 1979 (Raumplanungsgesetz; RPG; SR 700.00).
+
+<sup>2</sup> Die Gewährung der Abbruchprämie bezweckt einen Anreiz zur Erreichung der Stabilisierungsziele nach Artikel 25b der Raumplanungsverordnung vom 28. Juni 2000.
+
+<sup>3</sup> Die Bestimmungen zur Abbruchprämie sind auf Gesuche um Gewährung einer Abbruchprämie anwendbar, die ab dem 1. Juli 2026 eingereicht werden.
+
+<sup>4</sup> Die Abbruchprämie deckt ausschliesslich die Kosten, die dem Abbruch einer Baute oder Anlage sowie der Entsiegelung einer Fläche unmittelbar zuzurechnen sind. Nicht prämienberechtigt sind insbesondere Aufwendungen für die Entsorgung von Spezialabfällen sowie Altlasten.
+
+<sup>5</sup> Die Ausrichtung der Abbruchprämie ist davon abhängig, dass der Bewilligungsentscheid im Sinne von Art. 57 Baugesetz Rechtskraft erlangt.
+
+<sup>6</sup> Die Finanzierung der Abbruchprämie erfolgt primär aus dem Mehrwertausgleichsfonds nach Art. 6 Abs. 2 des kantonalen Mehrwertausgleichsgesetzes vom 2. Juli 2018, darüber hinaus mit allgemeinen Kantonsmitteln.
+
+#### § 27ter
+
+**Ausschlussgründe**
+
+<sup>1</sup> Kein Anspruch auf eine Abbruchprämie besteht insbesondere, wenn:
+
+- a) eine anderweitige gesetzliche Pflicht zur Tragung der Beseitigungskosten für die Baute oder Anlage besteht;
+- b) anstelle der beseitigten Baute oder Anlage ein Ersatzneubau ohne landwirtschaftliche oder touristische Nutzung erstellt wird;
+- oder
+- c) vor dem 1. Juli 2026 mit dem Abbruch begonnen wurde.
+
+#### § 27quater
+
+**Verfahren**
+
+<sup>1</sup> Über die Abbruchprämie entscheidet das Planungs- und Naturschutzamt im Verfahren zur Erteilung von Ausnahmebewilligungen sowie von Bewilligungen nach Art. 57 Baugesetz.
+
+<sup>2</sup> Das Gesuch um Gewährung einer Abbruchprämie ist Bestandteil des Baugesuchs für den Abbruch der Baute oder Anlage beziehungsweise des Abbruchgesuchs.
+
+<sup>3</sup> Das Gesuch um Gewährung einer Abbruchprämie hat die für die Beurteilung des Anspruchs erforderlichen Unterlagen zu enthalten, insbesondere:
+
+- a) Angaben zu den abzubrechenden Bauten und Anlagen sowie zu den zu entsiegelnden Flächen;
+- b) eine Beschreibung der vorgesehenen Massnahmen;
+- c) mindestens eine Offerte eines qualifizierten Unternehmens zu den voraussichtlichen Abbruch- und Entsiegelungskosten oder alternativ – insbesondere bei kleineren Abbruchvorhaben – eine Kostenschätzung.
+
+#### § 27quinquies
+
+**Bemessung**
+
+<sup>1</sup> Die Höhe der Abbruchprämie wird auf Grundlage der eingereichten Offerten beziehungsweise Kostenschätzungen sowie allfälligen Vergleichsofferten bemessen.
+
+<sup>2</sup> Das Planungs- und Naturschutzamt kann zur Beurteilung des Anspruchs und zur Bemessung der Abbruchprämie ergänzende Unterlagen sowie Vergleichsofferten verlangen.
+
+<sup>3</sup> Das Planungs- und Naturschutzamt regelt die Einzelheiten der Bemessung der Abbruchprämie und des Vollzugs.
+
+#### § 27sexies
+
+**Auszahlung**
+
+<sup>1</sup> Die Abbruchprämie wird fällig, sobald der prämienberechtigte Abbruch ordnungsgemäss abgeschlossen ist. Dies setzt voraus, dass die Baute oder Anlage vollständig zurückgebaut beziehungsweise die Fläche vollständig entsiegelt worden ist und allfällige Auflagen im Zusammenhang mit dem bewilligten Abbruch erfüllt worden sind.
+
+<sup>2</sup> Das Planungs- und Naturschutzamt erteilt nach Eintritt der Fälligkeit und Prüfung der Voraussetzungen die Freigabe zur Auszahlung; die Auszahlung erfolgt anschliessend.
 
 ## 7 Schlussbestimmungen
 
