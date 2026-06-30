@@ -4,13 +4,12 @@ number: "351"
 title: Verordnung über die Luzerner Polizei
 short: PolV
 language: de
-version: 2026-01-01
-valid_until: 2026-06-30
-version_adopted: 2025-11-18
+version: 2026-07-01
+version_adopted: 2026-05-26
 adopted: 2004-04-06
 in_force: 2004-05-01
 url: "https://srl.lu.ch/app/de/texts_of_law/351"
-pdf: "https://srl.lu.ch/api/de/versions/4579/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4797/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://srl.lu.ch/api/de/versions/4579/pdf_file"
 
 (PolV)
 
-vom 06.04.2004 (Stand 01.01.2026)
+vom 06.04.2004 (Stand 01.07.2026)
 
 Der Regierungsrat des Kantons Luzern,
 
@@ -257,8 +256,8 @@ beschliesst:
 - a. Polizeiregion Stadt Luzern
 - b. Polizeiregion Ebikon mit folgenden Postenkreisen und zugeteilten Gemeinden:
   - 1\. …
-  - 2\. Ebikon: Ebikon, Buchrain, Dierikon, Gisikon, Root
-  - 3\. Meggen: Meggen, Adligenswil, Meierskappel, Udligenswil
+  - 2\. Ebikon: Ebikon, Adligenswil, Buchrain, Dierikon, Gisikon, Meggen, Meierskappel, Root, Udligenswil
+  - 3\. …
   - 4\. …
   - 5\. Weggis: Weggis, Greppen, Vitznau
 - c. Polizeiregion Emmen mit folgenden Postenkreisen und zugeteilten Gemeinden und Gemeindeteilen:
