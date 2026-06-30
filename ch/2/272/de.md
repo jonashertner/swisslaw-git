@@ -4,11 +4,11 @@ title: "Schweizerische Zivilprozessordnung vom 19. Dezember 2008 (Zivilprozessor
 short: ZPO
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/262"
 language: de
-version: 2025-01-01
+version: 2026-07-01
 adopted: 2008-12-19
 in_force: 2011-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/262/20250101/de/xml/fedlex-data-admin-ch-eli-cc-2010-262-20250101-de-xml-12.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/262/20250101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/262/20260701/de/xml/fedlex-data-admin-ch-eli-cc-2010-262-20260701-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/262/20260701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2010/262/20250101/de"
 
 (Zivilprozessordnung, ZPO)
 
-vom 19. Dezember 2008 (Stand am 1. Januar 2025)
+vom 19. Dezember 2008 (Stand am 1. Juli 2026)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -3032,9 +3032,11 @@ Das summarische Verfahren ist anwendbar:
 
 - a. in den vom Gesetz bestimmten Fällen;
 - b. für den Rechtsschutz in klaren Fällen;
-- c. für das gerichtliche Verbot;
+- c.[^248-1] für das gerichtliche Verbot und die gerichtliche Verfügung;
 - d. für die vorsorglichen Massnahmen;
 - e. für die Angelegenheiten der freiwilligen Gerichtsbarkeit.
+
+[^248-1]: Fassung gemäss Ziff. II des BG vom 20. Juni 2025 (Besitzesschutz bei verbotener Eigenmacht an Grundstücken), in Kraft seit 1. Juli 2026 ([AS 2026 16](https://fedlex.data.admin.ch/eli/oc/2026/16); [BBl 2024 116](https://fedlex.data.admin.ch/eli/fga/2024/116)).
 
 #### Art. 249
 
@@ -3261,7 +3263,17 @@ Das Gericht gewährt Rechtsschutz im summarischen Verfahren, wenn:
 
 <sup>3</sup> Kann dieser Rechtsschutz nicht gewährt werden, so tritt das Gericht auf das Gesuch nicht ein.
 
-### 4. Kapitel: Gerichtliches Verbot
+### 4. Kapitel: Gerichtliches Verbot und gerichtliche Verfügung
+
+[^part2-tit5-chap4-1]
+
+[^part2-tit5-chap4-1]: Fassung gemäss Ziff. II des BG vom 20. Juni 2025 (Besitzesschutz bei verbotener Eigenmacht an Grundstücken), in Kraft seit 1. Juli 2026 ([AS 2026 16](https://fedlex.data.admin.ch/eli/oc/2026/16); [BBl 2024 116](https://fedlex.data.admin.ch/eli/fga/2024/116)).
+
+### 1. Abschnitt: Gerichtliches Verbot
+
+[^part2-tit5-chap4-sec1-1]
+
+[^part2-tit5-chap4-sec1-1]: Eingefügt durch Ziff. II des BG vom 20. Juni 2025 (Besitzesschutz bei verbotener Eigenmacht an Grundstücken), in Kraft seit 1. Juli 2026 ([AS 2026 16](https://fedlex.data.admin.ch/eli/oc/2026/16); [BBl 2024 116](https://fedlex.data.admin.ch/eli/fga/2024/116)).
 
 #### Art. 258
 
@@ -3284,6 +3296,32 @@ Das Verbot ist öffentlich bekannt zu machen und auf dem Grundstück an gut sich
 <sup>1</sup> Wer das Verbot nicht anerkennen will, hat innert 30 Tagen seit dessen Bekanntmachung und Anbringung auf dem Grundstück beim Gericht Einsprache zu erheben. Die Einsprache bedarf keiner Begründung.
 
 <sup>2</sup> Die Einsprache macht das Verbot gegenüber der einsprechenden Person unwirksam. Zur Durchsetzung des Verbotes ist beim Gericht Klage einzureichen.
+
+### 2. Abschnitt: Gerichtliche Verfügung
+
+[^part2-tit5-chap4-sec2-1]
+
+[^part2-tit5-chap4-sec2-1]: Eingefügt durch Ziff. II des BG vom 20. Juni 2025 (Besitzesschutz bei verbotener Eigenmacht an Grundstücken), in Kraft seit 1. Juli 2026 ([AS 2026 16](https://fedlex.data.admin.ch/eli/oc/2026/16); [BBl 2024 116](https://fedlex.data.admin.ch/eli/fga/2024/116)).
+
+#### Art. 260a
+
+**Grundsatz**
+
+<sup>1</sup> Wird der Besitz an einem Grundstück durch verbotene Eigenmacht gestört oder entzogen, so kann der Besitzer beim Gericht beantragen, dass es gegenüber einem unbestimmten Personenkreis die Beseitigung der Störung oder die Rückgabe verfügt und die erforderlichen Massnahmen für die Anbringung der Verfügung auf dem Grundstück sowie für die Vollstreckung durch die zuständige Behörde anordnet.
+
+<sup>2</sup> Die gesuchstellende Person hat ihren Besitz zu beweisen und die rechtswidrige Störung oder Entziehung glaubhaft zu machen.
+
+<sup>3</sup> Das Gericht entscheidet unverzüglich, spätestens aber innert fünf Tagen.
+
+<sup>4</sup> Auf Antrag kann das Gericht die vorzeitige Vollstreckung der Verfügung anordnen. Nötigenfalls ordnet es sichernde Massnahmen oder die Leistung einer Sicherheit an.
+
+#### Art. 260b
+
+**Bekanntmachung und Einsprache**
+
+<sup>1</sup> Für die Bekanntmachung und Einsprache gelten die Artikel 259 und 260 sinngemäss. Die Einsprache ist jedoch innert zehn Tagen zu erheben und zu begründen.
+
+<sup>2</sup> Bei Anordnung der vorzeitigen Vollstreckung ist die Einsprache nicht zu begründen. Die Verfügung bleibt gegenüber der einsprechenden Person einstweilen wirksam. Das Gericht setzt ihr eine Frist zur Klage innert zehn Tagen an.
 
 ### 5. Kapitel: Vorsorgliche Massnahmen und Schutzschrift
 

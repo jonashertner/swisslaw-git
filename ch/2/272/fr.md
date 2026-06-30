@@ -4,11 +4,11 @@ title: Code de procédure civile du 19 décembre 2008 (CPC)
 short: CPC
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/262"
 language: fr
-version: 2025-01-01
+version: 2026-07-01
 adopted: 2008-12-19
 in_force: 2011-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/262/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-2010-262-20250101-fr-xml-12.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/262/20250101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/262/20260701/fr/xml/fedlex-data-admin-ch-eli-cc-2010-262-20260701-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/262/20260701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2010/262/20250101/fr"
 
 (CPC)
 
-du 19 décembre 2008 (État le 1<sup>er</sup> janvier 2025)
+du 19 décembre 2008 (État le 1<sup>er</sup> juillet 2026)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -3041,9 +3041,11 @@ La procédure sommaire s’applique:
 
 - a. aux cas prévus par la loi;
 - b. aux cas clairs;
-- c. à la mise à ban;
+- c.[^248-1] à la mise à ban générale et à l’injonction;
 - d. aux mesures provisionnelles;
 - e. à la juridiction gracieuse.
+
+[^248-1]: Nouvelle teneur selon le ch. II de la LF du 20 juin 2025 (Protection contre les atteintes à la possession d’un immeuble), en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2026 16](https://fedlex.data.admin.ch/eli/oc/2026/16); [FF 2024 116](https://fedlex.data.admin.ch/eli/fga/2024/116)).
 
 #### Art. 249
 
@@ -3270,7 +3272,17 @@ Le tribunal admet l’application de la procédure sommaire lorsque les conditio
 
 <sup>3</sup> Le tribunal n’entre pas en matière sur la requête lorsque cette procédure ne peut pas être appliquée.
 
-### Chapitre 4 Mise à ban générale
+### Chapitre 4 Mise à ban générale et injonction
+
+[^part2-tit5-chap4-1]
+
+[^part2-tit5-chap4-1]: Nouvelle teneur selon le ch. II de la LF du 20 juin 2025 (Protection contre les atteintes à la possession d’un immeuble), en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2026 16](https://fedlex.data.admin.ch/eli/oc/2026/16); [FF 2024 116](https://fedlex.data.admin.ch/eli/fga/2024/116)).
+
+### Section 1 Mise à ban générale
+
+[^part2-tit5-chap4-sec1-1]
+
+[^part2-tit5-chap4-sec1-1]: Introduit par le ch. II de la LF du 20 juin 2025 (Protection contre les atteintes à la possession d’un immeuble), en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2026 16](https://fedlex.data.admin.ch/eli/oc/2026/16); [FF 2024 116](https://fedlex.data.admin.ch/eli/fga/2024/116)).
 
 #### Art. 258
 
@@ -3295,6 +3307,32 @@ La mise à ban est publiée et placée de manière bien visible sur l’immeuble
 <sup>1</sup> La mise à ban peut être contestée par le dépôt d’une opposition au tribunal dans les 30 jours à compter du jour où l’avis est publié et placé sur l’immeuble. L’opposition ne doit pas être motivée.
 
 <sup>2</sup> L’opposition rend la mise à ban caduque envers la personne qui s’est opposée. Pour faire valider la mise à ban, le requérant doit intenter une action devant le tribunal.
+
+### Section 2 Injonction
+
+[^part2-tit5-chap4-sec2-1]
+
+[^part2-tit5-chap4-sec2-1]: Introduite par le ch. II de la LF du 20 juin 2025 (Protection contre les atteintes à la possession d’un immeuble), en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2026 16](https://fedlex.data.admin.ch/eli/oc/2026/16); [FF 2024 116](https://fedlex.data.admin.ch/eli/fga/2024/116)).
+
+#### Art. 260a
+
+**Principe**
+
+<sup>1</sup> Lorsque la possession d’un immeuble est troublée ou usurpée illicitement, le possesseur peut exiger du tribunal qu’il ordonne, envers un cercle indéterminé de personnes, la cessation du trouble ou la restitution et les mesures qui s’imposent pour l’affichage de l’injonction sur l’immeuble et pour l’exécution par l’autorité compétente.
+
+<sup>2</sup> Le requérant doit apporter la preuve de sa possession et rendre vraisemblable le trouble ou l’usurpation illicite.
+
+<sup>3</sup> Le tribunal statue immédiatement, dans les cinq jours au plus tard.
+
+<sup>4</sup> Il peut, sur demande, ordonner l’exécution anticipée de l’injonction. Au besoin, il ordonne des mesures conservatoires ou la fourniture de sûretés.
+
+#### Art. 260b
+
+**Avis et opposition**
+
+<sup>1</sup> Pour l’avis et l’opposition, les art. 259 et 260 sont applicables par analogie. L’opposition doit toutefois être déposée dans un délai de dix jours et doit être motivée.
+
+<sup>2</sup> L’opposition ne doit pas être motivée lorsque l’exécution anticipée a été ordonnée. L’injonction continue de déployer ses effets à l’encontre de l’opposant. Le tribunal impartit à l’opposant un délai de dix jours pour agir.
 
 ### Chapitre 5 Mesures provisionnelles et mémoire préventif
 

@@ -4,11 +4,11 @@ title: "Swiss Civil Procedure Code of 19 December 2008 (Civil Procedure Code, CP
 short: CPC
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/262"
 language: en
-version: 2025-01-01
+version: 2026-07-01
 adopted: 2008-12-19
 in_force: 2011-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/262/20250101/en/xml/fedlex-data-admin-ch-eli-cc-2010-262-20250101-en-xml-8.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/262/20250101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/262/20260701/en/xml/fedlex-data-admin-ch-eli-cc-2010-262-20260701-en-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/262/20260701/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Civil Procedure Code, CPC)
 
-of 19 December 2008 (Status as of 1 January 2025)
+of 19 December 2008 (Last amended on 1 July 2026)
 
 The Federal Assembly of the Swiss Confederation,
 
@@ -3039,9 +3039,11 @@ Summary proceedings may be brought:
 
 - a. in the cases designated by law;
 - b. for legal protection in clear cases;
-- c. for court injunctions;
+- c.[^248-1] for court injunctions and court orders;
 - d. for interim measures;
 - e. for non-contentious matters.
+
+[^248-1]: Amended by No II of the FA of 20 June 2025 (Protection of Possession in the Event of Unlawful Interference with Immovable Property), in force since 1 July 2026 ([AS 2026 16](https://fedlex.data.admin.ch/eli/oc/2026/16); [BBl 2024 116](https://fedlex.data.admin.ch/eli/fga/2024/116)).
 
 #### Art. 249
 
@@ -3268,7 +3270,17 @@ The court shall declare the case admissible under the summary procedure where:
 
 <sup>3</sup> If the case is not admissible under the foregoing procedure, the court does not consider the case.
 
-### Chapter 4 Court Injunction
+### Chapter 4 Court Injunction and Court Order
+
+[^part2-tit5-chap4-1]
+
+[^part2-tit5-chap4-1]: Amended by No II of the FA of 20 June 2025 (Protection of Possession in the Event of Unlawful Interference with Immovable Property), in force since 1 July 2026 ([AS 2026 16](https://fedlex.data.admin.ch/eli/oc/2026/16); [BBl 2024 116](https://fedlex.data.admin.ch/eli/fga/2024/116)).
+
+### Section 1 Court Injunction
+
+[^part2-tit5-chap4-sec1-1]
+
+[^part2-tit5-chap4-sec1-1]: Inserted by No II of the FA of 20 June 2025 (Protection of Possession in the Event of Unlawful Interference with Immovable Property), in force since 1 July 2026 ([AS 2026 16](https://fedlex.data.admin.ch/eli/oc/2026/16); [BBl 2024 116](https://fedlex.data.admin.ch/eli/fga/2024/116)).
 
 #### Art. 258
 
@@ -3291,6 +3303,32 @@ Notice of the injunction must be published and affixed to the property in an eas
 <sup>1</sup> Any person who is not prepared to recognise the injunction may file an opposition with the court within 30 days of notice thereof being given by publication and at the property. The opposition needs no statement of grounds.
 
 <sup>2</sup> Opposition renders the injunction ineffective towards the opposing person. In order to validate the injunction, an action must be filed in court.
+
+### Section 2 Court Order
+
+[^part2-tit5-chap4-sec2-1]
+
+[^part2-tit5-chap4-sec2-1]: Inserted by No II of the FA of 20 June 2025 (Protection of Possession in the Event of Unlawful Interference with Immovable Property), in force since 1 July 2026 ([AS 2026 16](https://fedlex.data.admin.ch/eli/oc/2026/16); [BBl 2024 116](https://fedlex.data.admin.ch/eli/fga/2024/116)).
+
+#### Art. 260a
+
+**Principle**
+
+<sup>1</sup> Where possession of immovable property is disrupted or taken away by unlawful interference, the possessor may apply to the court for an order directed at persons unknown requiring removal of the disruption or return of the property, and imposing the measures necessary for affixing the order to the property and for its enforcement by the competent authority.
+
+<sup>2</sup> The applicant must prove his or her possession and provide *prima facie* evidence of the unlawful disruption or deprivation.
+
+<sup>3</sup> The court shall issue a decision without delay, and within five days at the latest.
+
+<sup>4</sup> On application, the court may direct the early enforcement of the order. If necessary, it shall direct protective measures or the provision of security.
+
+#### Art. 260b
+
+**Notice and opposition**
+
+<sup>1</sup> Articles 259 and 260 shall apply *mutatis mutandis* to the notice and opposition proceedings. However, oppositions must be filed and substantiated within ten days.
+
+<sup>2</sup> Where early enforcement is directed, opposition need not be substantiated. The order shall remain provisionally effective against the opposing party. The court shall set a time limit of ten days for the opposing party to file an action.
 
 ### Chapter 5 Interim Measures and Protective Letter
 
