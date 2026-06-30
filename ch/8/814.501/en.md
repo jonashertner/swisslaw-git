@@ -4,11 +4,11 @@ title: Radiological Protection Ordinance of 26 April 2017 (RPO)
 short: RPO
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/502"
 language: en
-version: 2022-01-01
+version: 2026-07-01
 adopted: 2017-04-26
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/502/20220101/en/xml/fedlex-data-admin-ch-eli-cc-2017-502-20220101-en-xml-14.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/502/20220101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/502/20260701/en/xml/fedlex-data-admin-ch-eli-cc-2017-502-20260701-en-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/502/20260701/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (RPO)
 
-of 26 April 2017 (Status as of 1 January 2022)
+of 26 April 2017 (Last amended on 1 July 2026)
 
 The Swiss Federal Council,
 
@@ -223,7 +223,7 @@ The following are exempt from mandatory licensing:
   - 3\. in accordance with Article 16 of the Ordinance of 17 August 2005[^10-5] on Air Transport (LTrV),
   - 4\. in accordance with the Ordinance of 2 March 2010[^10-6] on the Implementation of the European Agreement concerning the International Carriage of Dangerous Goods by Inland Waterways;
 
-- c. the transport of radioactive substances by air (UN numbers 2908, 2909, 2910, 2911, 2912, 2913, 2915, 2916, 2978, 3321, 3322, 3332 and 3507) in accordance with Annex 18 to the Convention on International Civil Aviation of 7 December 1944[^10-7] and the associated Technical Instructions[^10-8];
+- c. the transport of radioactive substances by air (UN numbers 2908, 2909, 2910, 2911, 2912, 2913, 2915, 2916, 2978, 3321, 3322, 3332 and 3507 in accordance with Annex 18 to the Convention on International Civil Aviation of 7 December 1944[^10-7] and the associated Technical Instructions[^10-8]);
 - d. the distribution, use, storage and transport, as well as the import, export and transit, of finished timepieces containing radioactive sources, provided that they comply with the standards ISO[^10-9] 3157[^10-10] and ISO 4168[^10-11], and of no more than 1000 timepiece components with radioactive tritium-based luminous paint;
 - e.
 
@@ -237,14 +237,14 @@ The following are exempt from mandatory licensing:
 - h. activities and radiation sources which are subject to mandatory licensing or a decommissioning order under the Nuclear Energy Act of 21 March 2003[^10-13] (NEA);
 - i. the deployment of occupationally exposed aircrew by aircraft operators.
 
-[^10-1]: [SR 0.741.621](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2933). The Annexes to the ADR are not published in the Official Compilation (AS). They can be consulted free of charge on the website of the United Nations Economic Commission for Europe (UNECE) at [www.unece.org](http://www.unece.org) &gt; Legal Instruments and Recommendations &gt; ADR; offprints can be purchased from the Federal Office for Buildings and Logistics (BBL), Federal Publication Sales, 3003 Bern.
+[^10-1]: [SR 0.741.621](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2933). The Annexes to the ADR are not published in the Official Compilation (AS). They can be consulted free of charge on the website of the United Nations Economic Commission for Europe (UNECE) at www.unece.org &gt; Legal Instruments and Recommendations &gt; ADR; offprints can be purchased from the Federal Office for Buildings and Logistics (BBL), Federal Publication Sales, 3003 Bern.
 [^10-2]: [SR 741.621](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8690)
-[^10-3]: [SR 0.742.403.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3003).The Appendices to COTIF are not published in the Official Compilation (AS). The RID can be consulted free of charge on the website of the Intergovernmental Organisation for International Carriage by Rail at [www.otif.org](http://www.otif.org) &gt; Reference Texts &gt; RID; offprints can be purchased from the Federal Office for Buildings and Logistics (BBL), Federal Publication Sales, 3003 Bern.
+[^10-3]: [SR 0.742.403.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3003). The Annexes to the RID are not published in the Official Compilation (AS). They can be consulted free of charge on the website of the Intergovernmental Organisation for International Carriage by Rail at www.otif.org &gt; Reference Texts &gt; RID; offprints can be purchased from the Federal Office for Buildings and Logistics (BBL), Federal Publication Sales, 3003 Bern.
 [^10-4]: [SR 742.412](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8825)
 [^10-5]: [SR 748.411](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9102)
 [^10-6]: [SR 747.224.141](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8993)
-[^10-7]: [SR 0.748.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3110). This Annex is not published either in the Official Compilation (AS). It can be consulted free of charge on the website of the Federal Office of Civil Aviation (FOCA) at [www.bazl.admin.ch](http://www.bazl.admin.ch) &gt; Dokumentation &gt; Rechtliche Grundlagen &gt; Internationales Recht, or purchased from the International Civil Aviation Organization (ICAO, Sales Department, 999 Robert‑Bourassa Boulevard, Montréal, Quebec H3C 5H7, Canada).
-[^10-8]: The Technical Instructions are not published in the Official Compilation (AS). They can be consulted free of charge on the website of the Federal Office of Civil Aviation (FOCA) at [www.bazl.admin.ch](http://www.bazl.admin.ch) &gt; Dokumentation &gt; Rechtliche Grundlagen &gt; Internationales Recht, or purchased from the International Civil Aviation Organization (ICAO, Sales Department, 999 Robert‑Bourassa Boulevard, Montréal, Quebec H3C 5H7, Canada). They can also be consulted free of charge, in English and French, at the national airports’ information centres. They are not translated into German or Italian.
+[^10-7]: [SR 0.748.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3110). This Annex is not published in the Official Compilation (AS). It can be consulted free of charge on the website of the Federal Office of Civil Aviation (FOCA) at www.bazl.admin.ch &gt; Dokumentation &gt; Rechtliche Grundlagen &gt; Internationales Recht, or purchased from the International Civil Aviation Organization (ICAO, Sales Department, 999 Robert Bourassa Boulevard, Montréal, Quebec H3C 5H7, Canada).
+[^10-8]: The Technical Instructions are not published in the Official Compilation (AS). They can be consulted free of charge on the website of the Federal Office of Civil Aviation (FOCA) at www.bazl.admin.ch &gt; Dokumentation &gt; Rechtliche Grundlagen &gt; Internationales Recht, or purchased from the International Civil Aviation Organization (ICAO, Sales Department, 999 Robert Bourassa Boulevard, Montréal, Quebec H3C 5H7, Canada). They can also be consulted free of charge, in English and French, at the national airports’ information centres. They are not translated into German or Italian.
 [^10-9]: International Organization for Standardization. The ISO standards referred to in this Ordinance can be consulted free of charge at the Federal Office of Public Health, CH‑3003 Bern. They can be purchased from the Swiss Association for Standardisation, Sulzerallee 70, 8404 Winterthur; [[[www.snv.ch](http://www.snv.ch)](http://www.snv.ch)](http://www.snv.ch).
 [^10-10]: ISO 3157: 1991-11, Radioluminescence for time measurement instruments – Specifications.
 [^10-11]: ISO 4168: 2003-09, Timekeeping instruments – Conditions for carrying out checks on radioluminescent deposits.
@@ -267,11 +267,20 @@ The Swiss Federal Nuclear Safety Inspectorate (ENSI) is the licensing authority 
 - b. experiments involving radioactive substances in connection with geological investigations as specified in Article 35 of the NEA;
 - c. the import and export of radioactive substances for or from nuclear installations;
 - d. the transport of radioactive substances from and to nuclear installations;
-- e. the discharge of radioactive waste from nuclear installations to the environment;
-- f.[^11-2] the decay storage of radioactive waste from nuclear installations and all related activities.
+- e.[^11-2] the discharge of radioactive waste from nuclear installations to the environment and all related transport;
+- f.[^11-3] the decay storage of radioactive waste from nuclear installations and all related activities;
+- g.[^11-4]
+
+  the management of radioactive waste as defined in Article 2 paragraph 1 letter c NEA where it is conceivable that it:
+
+  - 1\. may be discharged into the environment in accordance with Articles 111–116 of this Ordinance,
+  - 2\. may be placed in decay storage in accordance with Article 117 of this Ordinance, or
+  - 3\. meets the requirements for clearance in accordance with Article 106 of this Ordinance.
 
 [^11-1]: [SR 732.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8531)
-[^11-2]: Inserted by No II of the O of 7 Dec. 2018, in force since 1 Feb. 2019 ([AS 2019 183](https://fedlex.data.admin.ch/eli/oc/2019/27)).
+[^11-2]: Amended by No II of the O of 27 May 2026, in force since 1 July 2026 ([AS 2026 302](https://fedlex.data.admin.ch/eli/oc/2026/302)).
+[^11-3]: Eingefügt durch Ziff. II der V vom 7. Dez. 2018, in Kraft seit 1. Febr. 2019 ([AS 2019 183](https://fedlex.data.admin.ch/eli/oc/2019/27)).
+[^11-4]: Inserted by No II of the O of 27 May 2026, in force since 1 July 2026 ([AS 2026 302](https://fedlex.data.admin.ch/eli/oc/2026/302)).
 
 #### Art. 12
 
@@ -1632,7 +1641,7 @@ Handling of the following shall be cleared from mandatory licensing and supervis
 - c. material from an activity subject to mandatory licensing cleared in accordance with Article 106;
 - e. NORM discharged to the environment in accordance with Article 169.
 
-[^105-1]: [[AS 1994 1947](https://fedlex.data.admin.ch/eli/oc/1994/1947_1947_1947), [1995 4959](https://fedlex.data.admin.ch/eli/oc/1995/4959_4959_4959)No II 2, [1996 2129](https://fedlex.data.admin.ch/eli/oc/1996/2129_2129_2129), [2000 107](https://fedlex.data.admin.ch/eli/oc/2000/26)[934](https://fedlex.data.admin.ch/eli/oc/2000/140)[2894](https://fedlex.data.admin.ch/eli/oc/2000/504), [2001 3294](https://fedlex.data.admin.ch/eli/oc/2001/490)No II 7, [2005 601](https://fedlex.data.admin.ch/eli/oc/2005/68)Annex 7 No 3 [2885](https://fedlex.data.admin.ch/eli/oc/2005/473)Annex No 7, [2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)Annex 4 No 44 [5651](https://fedlex.data.admin.ch/eli/oc/2007/778), [2008 3153](https://fedlex.data.admin.ch/eli/oc/2008/417)Art. 10 No 2 [5747](https://fedlex.data.admin.ch/eli/oc/2008/794)Annex No 22, [2010 5191](https://fedlex.data.admin.ch/eli/oc/2010/748)Art. 20 No 4 [5395](https://fedlex.data.admin.ch/eli/oc/2010/765)Annex 2 No II 3, [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752)No I 2.[7](https://fedlex.data.admin.ch/eli/oc/2011/4), [2012 7065](https://fedlex.data.admin.ch/eli/oc/2012/857)No I 5 [7157](https://fedlex.data.admin.ch/eli/oc/2012/866), [2013 3041](https://fedlex.data.admin.ch/eli/oc/2013/594)No I 5 [3407](https://fedlex.data.admin.ch/eli/oc/2013/643)Annex 6 No 3]
+[^105-1]: [[AS 1994 1947](https://fedlex.data.admin.ch/eli/oc/1994/1947_1947_1947); [1995 4959](https://fedlex.data.admin.ch/eli/oc/1995/4959_4959_4959)No II 2; [1996 2129](https://fedlex.data.admin.ch/eli/oc/1996/2129_2129_2129); [2000 107](https://fedlex.data.admin.ch/eli/oc/2000/26)[934](https://fedlex.data.admin.ch/eli/oc/2000/140), [2894](https://fedlex.data.admin.ch/eli/oc/2000/504); [2001 3294](https://fedlex.data.admin.ch/eli/oc/2001/490)No II 7; [2005 601](https://fedlex.data.admin.ch/eli/oc/2005/68)Annex 7 No 3, [2885](https://fedlex.data.admin.ch/eli/oc/2005/473)Annex No 7; [2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)Annex 4 No 44, [5651](https://fedlex.data.admin.ch/eli/oc/2007/778); [2008 3153](https://fedlex.data.admin.ch/eli/oc/2008/417)Art. 10 No 2, [5747](https://fedlex.data.admin.ch/eli/oc/2008/794)Annex No 22; [2010 5191](https://fedlex.data.admin.ch/eli/oc/2010/748)Art. 20 No 4, [5395](https://fedlex.data.admin.ch/eli/oc/2010/765)Annex 2 No II 3; [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752)No I 2.[7](https://fedlex.data.admin.ch/eli/oc/2011/4); [2012 7065](https://fedlex.data.admin.ch/eli/oc/2012/857)No I 5, [7157](https://fedlex.data.admin.ch/eli/oc/2012/866); [2013 3041](https://fedlex.data.admin.ch/eli/oc/2013/594)No I 5, [3407](https://fedlex.data.admin.ch/eli/oc/2013/643)Annex 6 No 3]
 
 #### Art. 106
 
@@ -2069,7 +2078,7 @@ The supervisory authority shall ensure that the persons and the cantons concerne
 
 <sup>6</sup> The FOPH and ENSI, together with the NEOC, shall develop methods and models for determining radiation doses.
 
-[^135-1]: [[AS 2007 4953](https://fedlex.data.admin.ch/eli/oc/2007/690), [2010 5395](https://fedlex.data.admin.ch/eli/oc/2010/765)Annex 2 No II 2, [2018 1093](https://fedlex.data.admin.ch/eli/oc/2018/162)Annex 2 No II 2 [4953](https://fedlex.data.admin.ch/eli/oc/2018/780)Annex 5 No II 2. [AS 2020 5087](https://fedlex.data.admin.ch/eli/oc/2020/889)Annex 3 No I 3]. See now the O of 11 Nov. 2020 on civil protection ([SR 520.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7593)).
+[^135-1]: [[AS 2007 4953](https://fedlex.data.admin.ch/eli/oc/2007/690); [2010 5395](https://fedlex.data.admin.ch/eli/oc/2010/765)Annex 2 No II 2; [2018 1093](https://fedlex.data.admin.ch/eli/oc/2018/162)Annex 2 No II 2, [4953](https://fedlex.data.admin.ch/eli/oc/2018/780)Annex 5 No II 2. [AS 2020 5087](https://fedlex.data.admin.ch/eli/oc/2020/889)Annex 3 No I 3]. See now the O of 11 Nov. 2020 on civil protection ([SR 520.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7593)).
 [^135-2]: [SR 520.17](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7601). Term in accordance with Annex 3 No II 4 of the O of 2 March 2018 on the Federal Civil Protection Crisis Management Board, in force since 1 April 2018 ([AS 2018 1093](https://fedlex.data.admin.ch/eli/oc/2018/162)). This amendment has been made throughout the text.
 
 #### Art. 136
@@ -2083,7 +2092,7 @@ The supervisory authority shall ensure that the persons and the cantons concerne
 <sup>3</sup> For warnings and alerts and for preparing and implementing measures to protect against increased radioactivity in the vicinity of nuclear installations, the Emergency Response Ordinance of 20 October 2010[^136-1] and the Alerts and Safety Radio Network Ordinance of 18 August 2010[^136-2] apply.
 
 [^136-1]: [[AS 2010 5191](https://fedlex.data.admin.ch/eli/oc/2010/748), [2018 4335](https://fedlex.data.admin.ch/eli/oc/2018/701). [AS 2018 4953](https://fedlex.data.admin.ch/eli/oc/2018/780)Annex 5 No I ]. See now the O of 14 Nov. 2018 ([RS 732.33](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8554)).
-[^136-2]: [[AS 2010 5179](https://fedlex.data.admin.ch/eli/oc/2010/746)[5191](https://fedlex.data.admin.ch/eli/oc/2010/748)Art. 20 No 2, [2013 4475](https://fedlex.data.admin.ch/eli/oc/2013/791), [2017 605](https://fedlex.data.admin.ch/eli/oc/2017/103), [2018 4953](https://fedlex.data.admin.ch/eli/oc/2018/780)Annex 5 No II 1. [AS 2020 5087](https://fedlex.data.admin.ch/eli/oc/2020/889)Annex 3 No I 1]. See now the O of 11 Nov. 2020 on civil protectiopn ([SR 520.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7593)).
+[^136-2]: [[AS 2010 5179](https://fedlex.data.admin.ch/eli/oc/2010/746), [5191](https://fedlex.data.admin.ch/eli/oc/2010/748)Art. 20 No 2; [2013 4475](https://fedlex.data.admin.ch/eli/oc/2013/791); [2017 605](https://fedlex.data.admin.ch/eli/oc/2017/103); [2018 4953](https://fedlex.data.admin.ch/eli/oc/2018/780)Annex 5 No II 1. [AS 2020 5087](https://fedlex.data.admin.ch/eli/oc/2020/889)Annex 3 No I 1]. See now the O of 11 Nov. 2020 on civil protectiopn ([SR 520.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7593)).
 
 ### Chapter 3 Management
 
@@ -2125,7 +2134,7 @@ The supervisory authority shall ensure that information on emergencies is provid
 <sup>4</sup> The FOPH shall advise the CCMB on ordering measures to protect public health.
 
 [^140-1]: [SR 520.17](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7601)
-[^140-2]: [[AS 2010 5179](https://fedlex.data.admin.ch/eli/oc/2010/746)[5191](https://fedlex.data.admin.ch/eli/oc/2010/748)Art. 20 No 2, [2013 4475](https://fedlex.data.admin.ch/eli/oc/2013/791), [2017 605](https://fedlex.data.admin.ch/eli/oc/2017/103), [2018 4953](https://fedlex.data.admin.ch/eli/oc/2018/780)Annex 5 No II 1. [AS 2020 5087](https://fedlex.data.admin.ch/eli/oc/2020/889)Annex 3 No I 1]. See now the O of 11 Nov. 2020 on civil protectiopn ([SR 520.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7593)).
+[^140-2]: [[AS 2010 5179](https://fedlex.data.admin.ch/eli/oc/2010/746), [5191](https://fedlex.data.admin.ch/eli/oc/2010/748)Art. 20 No 2; [2013 4475](https://fedlex.data.admin.ch/eli/oc/2013/791); [2017 605](https://fedlex.data.admin.ch/eli/oc/2017/103); [2018 4953](https://fedlex.data.admin.ch/eli/oc/2018/780)Annex 5 No II 1. [AS 2020 5087](https://fedlex.data.admin.ch/eli/oc/2020/889)Annex 3 No I 1]. See now the O of 11 Nov. 2020 on civil protectiopn ([SR 520.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7593)).
 
 #### Art. 141
 
@@ -2423,7 +2432,7 @@ The FOPH may, on the basis of a data protection agreement, make available to thi
 - b. The data shall not be transferred.
 - c. If the results are published, this must be done in a completely anonymised form.
 
-[^162-1]: [[AS 2000 1555](https://fedlex.data.admin.ch/eli/oc/2000/239), [2004 3367](https://fedlex.data.admin.ch/eli/oc/2004/432), [2005 3381](https://fedlex.data.admin.ch/eli/oc/2005/490), [2007 3399](https://fedlex.data.admin.ch/eli/oc/2007/413)[6719](https://fedlex.data.admin.ch/eli/oc/2007/868)Annex No 7, 2012 4707. [AS 2017 3459](https://fedlex.data.admin.ch/eli/oc/2017/376)Annex No 2 I]. See Now the O of 9 June 2017 ([RS 431.841](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7029)).
+[^162-1]: [[AS 2000 1555](https://fedlex.data.admin.ch/eli/oc/2000/239); [2004 3367](https://fedlex.data.admin.ch/eli/oc/2004/432); [2005 3381](https://fedlex.data.admin.ch/eli/oc/2005/490); [2007 3399](https://fedlex.data.admin.ch/eli/oc/2007/413), [6719](https://fedlex.data.admin.ch/eli/oc/2007/868)Annex No 7; [2012 4707](https://fedlex.data.admin.ch/eli/oc/2012/570). [AS 2017 3459](https://fedlex.data.admin.ch/eli/oc/2017/376)Annex No 2 I]. See Now the O of 9 June 2017 ([RS 431.841](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7029)).
 
 ### Section 2 Preventive Mitigation Measures and Radon Measurements
 
@@ -2982,7 +2991,7 @@ In accordance with Article 44 paragraph 1 letter f of the RPA, an offence is com
 
 The Radiological Protection Ordinance of 22 June 1994[^200-1] is repealed.
 
-[^200-1]: [[AS 1994 1947](https://fedlex.data.admin.ch/eli/oc/1994/1947_1947_1947); [1995 4959](https://fedlex.data.admin.ch/eli/oc/1995/4959_4959_4959)No II 2; [1996 2129](https://fedlex.data.admin.ch/eli/oc/1996/2129_2129_2129); [2000 107](https://fedlex.data.admin.ch/eli/oc/2000/26)[934](https://fedlex.data.admin.ch/eli/oc/2000/140)[2894](https://fedlex.data.admin.ch/eli/oc/2000/504); [2001 3294](https://fedlex.data.admin.ch/eli/oc/2001/490)No II 7; [2005 601](https://fedlex.data.admin.ch/eli/oc/2005/68)Annex 7 No 3 [2885](https://fedlex.data.admin.ch/eli/oc/2005/473)Annex No 7; [2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)Annex 4 No 44 [5651](https://fedlex.data.admin.ch/eli/oc/2007/778); [2008 3153](https://fedlex.data.admin.ch/eli/oc/2008/417)Art. 10 No 2 [5747](https://fedlex.data.admin.ch/eli/oc/2008/794)Annex No 22; [2010 5191](https://fedlex.data.admin.ch/eli/oc/2010/748)Art. 20 No 4 [5395](https://fedlex.data.admin.ch/eli/oc/2010/765)Annex 2 No II 3; [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752)No I 2.[7](https://fedlex.data.admin.ch/eli/oc/2011/4); [2012 7065](https://fedlex.data.admin.ch/eli/oc/2012/857)No I 5 [7157](https://fedlex.data.admin.ch/eli/oc/2012/866); [2013 3041](https://fedlex.data.admin.ch/eli/oc/2013/594)No I 5 [3407](https://fedlex.data.admin.ch/eli/oc/2013/643)Annex 6 No 3]
+[^200-1]: [[AS 1994 1947](https://fedlex.data.admin.ch/eli/oc/1994/1947_1947_1947); [1995 4959](https://fedlex.data.admin.ch/eli/oc/1995/4959_4959_4959)No II 2; [1996 2129](https://fedlex.data.admin.ch/eli/oc/1996/2129_2129_2129); [2000 107](https://fedlex.data.admin.ch/eli/oc/2000/26), [934](https://fedlex.data.admin.ch/eli/oc/2000/140)[2894](https://fedlex.data.admin.ch/eli/oc/2000/504); [2001 3294](https://fedlex.data.admin.ch/eli/oc/2001/490)No II 7; [2005 601](https://fedlex.data.admin.ch/eli/oc/2005/68)Annex 7 No 3, [2885](https://fedlex.data.admin.ch/eli/oc/2005/473)Annex No 7; [2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)Annex 4 No 44, [5651](https://fedlex.data.admin.ch/eli/oc/2007/778); [2008 3153](https://fedlex.data.admin.ch/eli/oc/2008/417)Art. 10 No 2, [5747](https://fedlex.data.admin.ch/eli/oc/2008/794)Annex No 22; [2010 5191](https://fedlex.data.admin.ch/eli/oc/2010/748)Art. 20 No 4, [5395](https://fedlex.data.admin.ch/eli/oc/2010/765)Annex 2 No II 3; [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752)No I 2.[7](https://fedlex.data.admin.ch/eli/oc/2011/4); [2012 7065](https://fedlex.data.admin.ch/eli/oc/2012/857)No I 5, [7157](https://fedlex.data.admin.ch/eli/oc/2012/866); [2013 3041](https://fedlex.data.admin.ch/eli/oc/2013/594)No I 5, [3407](https://fedlex.data.admin.ch/eli/oc/2013/643)Annex 6 No 3]
 
 #### Art. 201
 
@@ -3037,13 +3046,13 @@ The terms are listed in alphabetical order.
 
 Electronic personal dosimeter which provides a direct display of the accumulated dose as well as other dosimetric information, depending on the intended use.
 
-### Activity concentration index for building materials
-
-The activity concentration index *I* is given by the following formula:
-
 *I* = *C*<sub>Ra226</sub>/300 Bq/kg + *C*<sub>Th232</sub>/200 Bq/kg+ *C*<sub>K40</sub>/3000 Bq/kg
 
 where *C*<sub>Ra226</sub>, *C*<sub>Th232</sub> and *C*<sub>K40</sub> are the activity concentrations in Bq/kg of the corresponding radionuclides in the building material.
+
+### Activity concentration index for building materials
+
+The activity concentration index *I* is given by the following formula:
 
 ### Compact X-ray systems
 
@@ -3061,6 +3070,11 @@ Shielding of an installation or an irradiator, which ensures that useful, scatte
 
 Diagnostic or therapeutic interventions performed under image guidance with ionising radiation. These also include interventions outside the field of radiology, e.g. in angiology, surgery, gastroenterology, cardiology, orthopaedics, pain therapy or urology.
 
+- a. pharmaceuticals which, when ready for use, contain one or more radionuclides to be used for a medicinal purpose;
+- b. non-radioactive components (kits) used to prepare radiopharmaceuticals by reconstitution or combination with radionuclides immediately prior to use in humans;
+- c. radionuclide generators incorporating a fixed parent radionuclide from which is produced a daughter radionuclide which is to be obtained by elution or by any other method and used to prepare a radiopharmaceutical;
+- d. radionuclides used directly or as precursors for the radiolabelling of other substances (carrier compounds, cells, plasma proteins) prior to their administration.
+
 ### Partial protection system
 
 Shielding of an installation which ensures that, during operation, useful, scattered and stray radiation is completely contained, except for sample openings, and shielded to such an extent that the ambient dose rate at a distance of 10 cm from the surface is reduced to less than 1 µSv per hour and that, at all accessible locations, the dose limits applicable for members of the public cannot be exceeded.
@@ -3072,11 +3086,6 @@ Process in which the final radiopharmaceutical product is produced by following 
 ### Radiopharmaceuticals
 
 Medicinal products containing radionuclides whose radiation is utilised for diagnosis or therapy. For the purposes of this Ordinance, the following are considered to be radiopharmaceuticals:
-
-- a. pharmaceuticals which, when ready for use, contain one or more radionuclides to be used for a medicinal purpose;
-- b. non-radioactive components (kits) used to prepare radiopharmaceuticals by reconstitution or combination with radionuclides immediately prior to use in humans;
-- c. radionuclide generators incorporating a fixed parent radionuclide from which is produced a daughter radionuclide which is to be obtained by elution or by any other method and used to prepare a radiopharmaceutical;
-- d. radionuclides used directly or as precursors for the radiolabelling of other substances (carrier compounds, cells, plasma proteins) prior to their administration.
 
 ### Radon
 
@@ -3916,7 +3925,7 @@ Explanatory notes on the individual columns and a list of footnotes are given at
 - 1 Radionuclide; m: metastable. A daughter nuclide with a half-life of less than ten minutes is given after a slash.
 - 2 Half-life: s, second(s); min, minute(s); h, hour(s); d, day(s); a, year(s); E, exponential notation. Source: International Commission on Radiological Protection, ICRP Publication 107. For individual nuclides not listed therein: IAEA Safety Standards: Radiation Protection and Safety of Radiation Sources: International Basic Safety Standards (BSS), Revision of IAEA Safety Series No. 115, GOV/2011/42, 15 August 2011; Table III.2A.
 - 3 Type of decay/radiation: α, alpha radiation; β<sup>+</sup>, β<sup>-</sup>, beta radiation; ec, electron capture; it, isomeric transition; sf, spontaneous fission. For «/radiation», «/ph» is given for each radionuclide where decay involves emission of photon radiation (γ or X-rays) with an energy of more than 10<sup>-4</sup> MeV per decay.
-- **4, 5** **Dose coefficient for the committed effective dose resulting from inhalation or ingestion of a radionuclide in adults [source: IAEA Safety Standards: Radiation Protection and Safety of Radiation Sources: International Basic Safety Standards, Revision of IAEA Safety Series No. 115, GOV/2011/42, 15 August 2011;** **Table III.2A, Column** ***e*****(g)****<sub>5</sub>** µ**<sub>m</sub>** **for inhalation and Column** ***e*****(g) for ingestion.** **For individual nuclides not listed therein: ICRP Database of Dose Coefficients: Workers and Members of the Public, available on the ICRP website under «Free Educational CD Downloads».**
+- **4, 5** **Dose coefficient for the committed effective dose resulting from inhalation or ingestion of a radionuclide in adults [source: IAEA, Safety Requirements: Radiation Protection and Safety of Radiation Sources: International Basic Safety Standards, Revision of IAEA Safety Series No. 115, GOV/2011/42, 15 August 2011;** **Table III.2A, Column e(g)****<sub>5 µm</sub>** **for inhalation and Column e(g) for ingestion.** **For individual nuclides not listed therein: International Commission on Radiological Protection,** **‘****ICRP Database of Dose Coefficients: Workers and Members of the Public’, available on the website** [www.icrp.org/](http://www.icrp.org/)**under ‘Free Educational CD Downloads’].**
 - 4 Dose coefficient for the committed effective dose resulting from inhalation of a radionuclide. The inhalation of 1 Bq yields, at most, the committed effective dose (in Sv) indicated. The value given is the maximum for the various types (or rates) of absorption from the lung into the blood (fast, moderate or slow), with an activity median aerodynamic diameter (AMAD) of 5 µm
 - Note: For twelve radionuclides [Nb-91, Nb-91m, Nb-92m, Te-119m, Nd-140, Re‑183, Pt-190, Au-196, Bi-208, Po-206, Po-208, Po-209] the *e*<sub>inh</sub> values are not included either in the IAEA BSS or on the ICRP CD. For the RPO of 22 June 1994[^annex3-lvlu1-lvlu1-1], the values for these radionuclides were taken from the National Radiological Protection Board report NRPB-R245 (1991). As this source is no longer up to date and these radionuclides are of only minor importance, dose coefficients are not given for these twelve radionuclides in this Ordinance.
 - 5 Dose coefficient for the committed effective dose resulting from ingestion of a radionuclide. The ingestion of 1 Bq yields, at most, the committed effective dose (in Sv) indicated.
@@ -3925,7 +3934,7 @@ Explanatory notes on the individual columns and a list of footnotes are given at
 - 6 Dose rate at a depth of 10 mm in tissue (ambient dose equivalent rate) at a distance of 1 m from a radioactive source with an activity of 1 GBq (10<sup>9</sup> Bq).
 - 7 Dose rate at a depth of 0.07 mm in tissue (directional dose equivalent rate) at a distance of 10 cm from a radioactive source with an activity of 1 GBq.
 - 8 Dose coefficient for skin contamination. Skin contamination of 1 kBq/cm<sup>2</sup> (averaged over 100 cm<sup>2</sup>) yields the dose rate (directional dose equivalent rate) indicated.
-- **9–12** **Clearance limit,** **licensing limit** **and** **guidance value****s**
+- **9–12** **Clearance limit, licensing limit and guidance values**
 - 9 Clearance limit for specific activity in Bq/g (LL). [Sources: IAEA, Safety Standards: Radiation Protection and Safety of Radiation Sources: International Basic Safety Standards, Revision of IAEA Safety Series No. 115, GOV/2011/42, 15 August 2011; Table I.2; Brenk Systemplanung, Berechnung von Freigrenzen and Freigabewerten für Nuklide, für die keine Werte in den IAEA-BSS vorliegen, Endbericht, Aachen, 2012.] For radionuclides with a short half-life, the exemption levels calculated in the report by Brenk Systemplanung are often higher than the exemption levels for specific activity which are specified for moderate amounts of material in the IAEA BSS. In such cases, and for the small number of radionuclides for which no value was calculated by Brenk Systemplanung, the values specified for moderate amounts of material in the IAEA BSS are used in this Ordinance [source: IAEA, Safety Standards: Radiation Protection and Safety of Radiation Sources: International Basic Safety Standards, Revision of IAEA Safety Series No. 115, GOV/2011/42, 15 August 2011; Table I.1, Column «Activity concentration»]. Radionuclides for which the exemption levels given for moderate amounts of material in the IAEA BSS are used are marked [1] in Column 9 of the Table.
 - [tab] Radionuclides for which the contribution of daughter nuclides was taken into account in determining the LL value are marked [2] in Column 9 of the Table. The Table below indicates, for each radionuclide for which a daughter nuclide was taken into account, the last radionuclide in the decay chain which was used together with the parent to calculate the LL value.
 - [tab] Example: Ra-226 -&gt; Po-214 means that the daughter nuclides of Ra-226 up to Po-214 (i.e. Rn-222, Po-218, Pb-214, Bi-214 and Po-214) were taken into account, together with the parent, in calculating the clearance level.
@@ -3967,12 +3976,12 @@ Nuclide mixtures
 - **In the case of nuclide mixtures, the summation rule applies for Columns 9, 11 and 12:**
 - Rule used to assess compliance with activity limits for mixtures of nuclides. Here, the various nuclides are weighted according to the hazard they pose. If the following inequalities are satisfied, then the mixtures are below the clearance limit or below the guidance value for surface contamination.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/502/20220101/en/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/502/20260701/en/xml/image/image1.png)
 
 - *a*<sub>1</sub>, *a*<sub>2</sub>, ... *a*<sub>n</sub>: specific activities of nuclides 1, 2, ..., n in Bq/g.
 - *LL*<sub>1</sub>, *LL*<sub>2</sub>, ... *LL*<sub>n</sub> : clearance limits for nuclides 1, 2, ..., n in Bq/g as specified in Annex 3 Column 9.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/502/20220101/en/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/502/20260701/en/xml/image/image2.png)
 
 - *c*<sub>1</sub>, *c*<sub>2</sub>, ... *c*<sub>n</sub> : contamination values for nuclides 1, 2, ..., n in Bq/cm<sup>2</sup>.
 - *CS*<sub>1</sub>, *CS*<sub>2</sub>, ... *CS*<sub>n</sub>: Guidance values for surface contamination for nuclides 1, 2, ..., n in Bq/cm<sup>2</sup> as specified in Annex 3 Column 12.
@@ -4007,7 +4016,7 @@ For Footnote [2]: Daughter nuclides taken into account in calculating the cleara
 <tr><td>Zr-97</td><td>-&gt; Nb-97</td><td>Te-132</td><td>-&gt; I-132</td><td>Hg-194</td><td>-&gt; Au-194</td><td>U-240</td><td>-&gt; Np-240</td><td></td><td></td></tr>
 </table>
 
-[^annex3-lvlu1-lvlu1-1]: [[AS 1994 1947](https://fedlex.data.admin.ch/eli/oc/1994/1947_1947_1947), [1995 4959](https://fedlex.data.admin.ch/eli/oc/1995/4959_4959_4959)No II 2, [1996 2129](https://fedlex.data.admin.ch/eli/oc/1996/2129_2129_2129), [2000 107](https://fedlex.data.admin.ch/eli/oc/2000/26)[934](https://fedlex.data.admin.ch/eli/oc/2000/140)[2894](https://fedlex.data.admin.ch/eli/oc/2000/504), [2001 3294](https://fedlex.data.admin.ch/eli/oc/2001/490)No II 7, [2005 601](https://fedlex.data.admin.ch/eli/oc/2005/68)Annex 7 No 3 [2885](https://fedlex.data.admin.ch/eli/oc/2005/473)Annex No 7, [2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)Annex 4 No 44 [5651](https://fedlex.data.admin.ch/eli/oc/2007/778), [2008 3153](https://fedlex.data.admin.ch/eli/oc/2008/417)Art. 10 No 2 [5747](https://fedlex.data.admin.ch/eli/oc/2008/794)Annex No 22, [2010 5191](https://fedlex.data.admin.ch/eli/oc/2010/748)Art. 20 No 4 [5395](https://fedlex.data.admin.ch/eli/oc/2010/765)Annex 2 No II 3, [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752)No I 2.[7](https://fedlex.data.admin.ch/eli/oc/2011/4), [2012 7065](https://fedlex.data.admin.ch/eli/oc/2012/857)No I 5 [7157](https://fedlex.data.admin.ch/eli/oc/2012/866), [2013 3041](https://fedlex.data.admin.ch/eli/oc/2013/594)No I 5 [3407](https://fedlex.data.admin.ch/eli/oc/2013/643)Annex 6 No 3]
+[^annex3-lvlu1-lvlu1-1]: [[AS 1994 1947](https://fedlex.data.admin.ch/eli/oc/1994/1947_1947_1947); [1995 4959](https://fedlex.data.admin.ch/eli/oc/1995/4959_4959_4959)No II 2; [1996 2129](https://fedlex.data.admin.ch/eli/oc/1996/2129_2129_2129); [2000 107](https://fedlex.data.admin.ch/eli/oc/2000/26), [934](https://fedlex.data.admin.ch/eli/oc/2000/140), [2894](https://fedlex.data.admin.ch/eli/oc/2000/504); [2001 3294](https://fedlex.data.admin.ch/eli/oc/2001/490)No II 7; [2005 601](https://fedlex.data.admin.ch/eli/oc/2005/68)Annex 7 No 3, [2885](https://fedlex.data.admin.ch/eli/oc/2005/473)Annex No 7; [2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)Annex 4 No 44, [5651](https://fedlex.data.admin.ch/eli/oc/2007/778); [2008 3153](https://fedlex.data.admin.ch/eli/oc/2008/417)Art. 10 No 2, [5747](https://fedlex.data.admin.ch/eli/oc/2008/794)Annex No 22; [2010 5191](https://fedlex.data.admin.ch/eli/oc/2010/748)Art. 20 No 4, [5395](https://fedlex.data.admin.ch/eli/oc/2010/765)Annex 2 No II 3; [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752)No I 2.[7](https://fedlex.data.admin.ch/eli/oc/2011/4); [2012 7065](https://fedlex.data.admin.ch/eli/oc/2012/857)No I 5, [7157](https://fedlex.data.admin.ch/eli/oc/2012/866); [2013 3041](https://fedlex.data.admin.ch/eli/oc/2013/594)No I 5, [3407](https://fedlex.data.admin.ch/eli/oc/2013/643)Annex 6 No 3]
 
 Annex 4
 
@@ -4021,36 +4030,27 @@ Annex 4
 
 The fundamental dose quantity given by:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/502/20220101/en/xml/image/image3.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/502/20260701/en/xml/image/image3.png)
 
-where ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/502/20220101/en/xml/image/image4.png) is the mean energy imparted to matter of mass d*m* by ionising radiation. The SI unit for absorbed dose is joule per kilogram (J/kg), and its special name is gray (Gy).
+where ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/502/20260701/en/xml/image/image4.png) is the mean energy imparted to matter of mass d*m* by ionising radiation. The SI unit for absorbed dose is joule per kilogram (J/kg), and its special name is gray (Gy).
 
 ### 1.2 Mean absorbed dose in a tissue or organ, *D*<sub>T</sub>
 
 The absorbed dose *D*<sub>T</sub>, averaged over the tissue or organ T, which is given by:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/502/20220101/en/xml/image/image5.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/502/20260701/en/xml/image/image5.png)
 
-where ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/502/20220101/en/xml/image/image6.png) is the mean total energy imparted in a tissue or organ T, and ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/502/20220101/en/xml/image/image7.png) is the mass of that tissue or organ.
+where ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/502/20260701/en/xml/image/image6.png) is the mean total energy imparted in a tissue or organ T, and ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/502/20260701/en/xml/image/image5.png) is the mass of that tissue or organ.
 
 ### 1.3 Equivalent dose, *H*<sub>T</sub>
 
 The dose in a tissue or organ T given by:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/502/20220101/en/xml/image/image8.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/502/20260701/en/xml/image/image7.png)
 
 where *D*<sub>T.R</sub> is the mean absorbed dose from radiation R in a tissue or organ T, and *w*<sub>R</sub> is the radiation weighting factor. Since *w*<sub>R</sub> is dimensionless, the unit for the equivalent dose is the same as for absorbed dose, J/kg. Its special name is sievert (Sv).
 
 ### 1.4 Radiation weighting factors
-
-<table>
-<tr><td>**Radiation type and energy range**</td><td></td><td>**Radiation weighting factor,** ***w*****<sub>R</sub>**</td></tr>
-<tr><td>Photons, all energies</td><td></td><td>1</td></tr>
-<tr><td>Electrons and muons, all energies</td><td></td><td>1</td></tr>
-<tr><td>Neutrons, energy</td><td>[tab] – under 1 MeV [tab] – 1 MeV–50 MeV [tab] – over 50 MeV</td><td>[tab] 2,5+18,2·e<sup>-[ln(E)]²/6</sup> [tab] 5,0+17,0·e<sup>-[ln(2·E)]²/6</sup> [tab] 2,5+3,25·e<sup>-[ln(0,04·E)]²/6</sup></td></tr>
-<tr><td>Protons and charged pions</td><td></td><td>2</td></tr>
-<tr><td>Alpha particles, fission fragments, heavy nuclei</td><td></td><td>20</td></tr>
-</table>
 
 ### 1.5 Committed equivalent dose, *H*<sub>T</sub>( ) τ)
 
@@ -4060,30 +4060,11 @@ The time integral of the equivalent dose rate in a particular tissue or organ th
 
 The tissue-weighted sum of the equivalent doses in all specified tissues and organs of the body, given by the expression:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/502/20220101/en/xml/image/image9.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/502/20260701/en/xml/image/image8.png)
 
 where *H*<sub>T</sub> or *w*<sub>R</sub>*D*<sub>T.R</sub> is the equivalent dose in a tissue or organ T and *w*<sub>T</sub> is the tissue weighting factor. The unit for the effective dose is the same as for absorbed dose, J/kg, and its special name is sievert (Sv).
 
 ### 1.7 Tissue weighting factors
-
-<table>
-<tr><th>**Tissue or organ**</th><th>**Tissue weighting factor,** ***w*****<sub>T</sub>**</th></tr>
-<tr><td>Bone-marrow (red)</td><td>0.12</td></tr>
-<tr><td>Colon</td><td>0.12</td></tr>
-<tr><td>Lung</td><td>0.12</td></tr>
-<tr><td>Stomach</td><td>0.12</td></tr>
-<tr><td>Breast</td><td>0.12</td></tr>
-<tr><td>Gonads</td><td>0.08</td></tr>
-<tr><td>Bladder</td><td>0.04</td></tr>
-<tr><td>Liver</td><td>0.04</td></tr>
-<tr><td>Oesophagus</td><td>0.04</td></tr>
-<tr><td>Thyroid</td><td>0.04</td></tr>
-<tr><td>Brain</td><td>0.01</td></tr>
-<tr><td>Skin</td><td>0.01</td></tr>
-<tr><td>Bone surface</td><td>0.01</td></tr>
-<tr><td>Salivary glands</td><td>0.01</td></tr>
-<tr><td>Remainder tissues</td><td>0.12</td></tr>
-</table>
 
 ### 1.8 Committed effective dose, *E*( ) τ)
 
@@ -4093,7 +4074,7 @@ The sum of the products of the committed organ or tissue equivalent doses and th
 
 - 1\.9.1 The product of *D* and *Q* at a point in tissue, where *D* is the absorbed dose and *Q* is the quality factor for the specific radiation at this point, thus:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/502/20220101/en/xml/image/image10.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/502/20260701/en/xml/image/.png)
 
 - 1\.9.2 The unit of dose equivalent is joule per kilogram (J/kg), and its special name is sievert (Sv). For the relevant operational quantities, see personal dose equivalent and ambient dose equivalent.
 
@@ -4124,7 +4105,7 @@ A sphere of tissue-equivalent material, 30 cm in diameter, with a density of 1 g
 
 - 1\.15.1 The factor characterising the biological effectiveness of a radiation, based on the ionisation density along the tracks of charged particles in tissue. *Q* is defined as a function of the unrestricted linear energy transfer, LET (*L* in keV/μm), of charged particles in water:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/502/20220101/en/xml/image/image11.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/502/20260701/en/xml/image/.png)
 
 - 1\.15.2 *Q* has been superseded by the radiation weighting factor, *w*<sub>R</sub>, in the definition of equivalent dose, but it is still used in calculating the operational dose equivalent quantities used in monitoring.
 
@@ -4514,7 +4495,7 @@ Immission limits for air (*LI*<sub>air</sub>):
 
 - 1\.3 The immission limits for air can be calculated for additional radionuclides using the following formula:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/502/20220101/en/xml/image/image12.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/502/20260701/en/xml/image/image9.png)
 
 - [tab] where *e*<sub>inh,eb</sub>, *e*<sub>inh,e10</sub> and *e*<sub>inh,ad</sub> [mSv/Bq] are the inhalation dose coefficients for infants, ten-year-old children and adults, and *e**<sub>imm</sub>* [(mSv/h)/(Bq/m<sup>3</sup>)] is the immersion dose coefficient (non-age-dependent). The inhalation and immersion dose coefficients are taken from Annexes 5 and 6.
 - [tab] For immersion, a shielding factor (*F*<sub>abs</sub>) of 0.4 is assumed for time spent indoors.
@@ -4556,7 +4537,7 @@ Immission limits for waters (*LI*<sub>eaux</sub>):
 
 - 2\.3 The immission limits for waters can be calculated for additional radionuclides using the following formula:
 
-<sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/502/20220101/en/xml/image/image13.png)</sub>
+<sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/502/20260701/en/xml/image/image10.png)</sub>
 
 - [tab] where *e*<sub>ing,eb</sub>, *e*<sub>ing,e10</sub> and *e*<sub>ing,ad</sub> [mSv/Bq] are the ingestion dose coefficients for infants, ten-year-old children and adults, and *CoE*<sub>eb</sub>, *CoE*<sub>e10</sub>*,* and *CoE*<sub>ad</sub> are the drinking water consumption in litres per year [l/a] for infants, ten-year-old children and adults.
 - [tab] For drinking water consumption, 650 l/a was assumed for adults and ten-year-old children, and 250 l/a for infants. The ingestion dose coefficients are taken from Annex 5.
@@ -4567,12 +4548,12 @@ In the case of nuclide mixtures, the summation rule applies for the immission li
 
 - [tab] Rule used to assess compliance with immission limits for air and for waters in the case of nuclide mixtures. Here, the various nuclides are weighted according to the hazard they pose. If the following inequalities are satisfied, then the mixtures are below the immission limits.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/502/20220101/en/xml/image/image14.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/502/20260701/en/xml/image/image11.png)
 
 - [tab] *a*<sub>1</sub>, *a*<sub>2</sub>, … *a*<sub>n</sub>: airborne activity concentrations of nuclides 1, 2, …, n in Bq/m<sup>3</sup>.
 - [tab] *LI*<sub>air1</sub>, *LI*<sub>air 2</sub>, … *LI*<sub>air n</sub>: immission limits for air for nuclides 1, 2, …, n in Bq/m<sup>3</sup>.
 
-<sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/502/20220101/en/xml/image/image15.png)</sub>
+<sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/502/20260701/en/xml/image/image12.png)</sub>
 
 - [tab] *a*<sub>1</sub>, *a*<sub>2</sub>, …*a*<sub>n</sub>: airborne activity concentrations of nuclides 1, 2, ..., n in Bq/l.
 - [tab] *LI*<sub>eau1</sub>, *LI*<sub>eau2</sub>, … *LI*<sub>eau n</sub>: immission limits for air for nuclides 1, 2, ..., n in Bq/l.
@@ -4618,7 +4599,7 @@ Installations (e.g. X-ray equipment, accelerators):
 
 ### 4 Hazard warning symbol:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/502/20220101/en/xml/image/image16.png) Ratio of radii: 1 : 1,5 : 5
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/502/20260701/en/xml/image/image13.png)Ratio of radii: 1 : 1,5 : 5
 
 Annex 9
 
@@ -4626,7 +4607,7 @@ Annex 9
 
 ## Activity values for the definition of high-activity sealed sources
 
-For radionuclides not listed in the Table below, the activity value is the D value given in the IAEA publication «Dangerous quantities of radioactive material (D values)» (EPR-D-VALUES 2006)[^annex9-lvlu1-1].
+For radionuclides not listed in the Table below, the activity value is the D value given in the IAEA publication ‘Dangerous quantities of radioactive material (D values)’ (EPR-D-VALUES 2006)[^annex9-lvlu1-1].
 
 <table>
 <tr><td>Radionuclide</td><td>Activity value (TBq)</td></tr>
@@ -4648,7 +4629,7 @@ For radionuclides not listed in the Table below, the activity value is the D val
 <tr><td>Yb-169</td><td>3×10<sup>-1</sup></td></tr>
 </table>
 
-[^annex9-lvlu1-1]: The IAEA publications referred to in this O can be accessed free of charge on the IAEA website at [www.iaea.org](http://www.iaea.org) &gt; Publications.
+[^annex9-lvlu1-1]: The IAEA publications referred to in this O can be accessed free of charge (in English) on the IAEA website at www.iaea.org &gt; Publications.
 [^annex9-lvlu1-2]: The activity of the alpha-emitting radionuclide is given.
 
 Annex 10
@@ -4659,26 +4640,23 @@ Annex 10
 
 \1. Depending on the degree of contamination which is present or to be expected, zones shall be classified into the following zone types:
 
-<table>
-<tr><td>Zone type</td><td>Surface contamination *C*<sub>s</sub></td><td>Airborne contamination *C*<sub>A</sub></td></tr>
-<tr><td>0</td><td>*C*<sub>S</sub> &lt; 1<sup>.</sup>CS[^annex10-lvlu1-1]</td><td>*C*<sub>A</sub> &lt; 0.05<sup>.</sup>CA[^annex10-lvlu1-2]</td></tr>
-<tr><td>I</td><td>*C*<sub>C</sub> &lt; 1<sup>.</sup>CS</td><td>0.05<sup>.</sup>CA ≤ *C*<sub>A</sub> &lt; 0.1<sup>.</sup>CA</td></tr>
-<tr><td>II</td><td>1.CS ≤ *C*<sub>S</sub> &lt; 10.CS</td><td>0.05.CA ≤ *C*<sub>A</sub> &lt; 0.1.CA</td></tr>
-<tr><td>III</td><td>10.CS ≤ *C*<sub>S</sub> &lt; 100.CS</td><td>0.1.CA ≤ *C*<sub>A</sub> &lt; 10.CA</td></tr>
-<tr><td>IV</td><td>*C*<sub>S</sub> ≥ 100.CS</td><td>*C*<sub>A</sub> ≥ 10.CA</td></tr>
-</table>
-
 If the degrees of airborne and surface contamination do not call for the same zone type, the more restrictive factor shall be decisive.
 
 \2. Within zones where ambient dose rates are elevated, for the planning and regulation of individual doses, the following areas must be designated with maximum permissible ambient dose rates:
 
 <table>
-<tr><td>Area type</td><td>Ambient dose rate *D* at accessible locations</td></tr>
-<tr><td>V</td><td>*D* &lt; 0.01 mSv/h</td></tr>
-<tr><td>W</td><td>0.01 &lt; *D* &lt; 0.1 mSv/h</td></tr>
-<tr><td>X</td><td>0.1 &lt; *D* &lt; 1 mSv/h</td></tr>
-<tr><td>Y</td><td>1 &lt; *D* &lt; 10 mSv/h</td></tr>
-<tr><td>Z</td><td>*D* &gt; 10 mSv/h</td></tr>
+<tr><td>Zone type</td><td colspan="2">Surface contamination *C*<sub>s</sub></td><td>Airborne contamination *C*<sub>A</sub></td></tr>
+<tr><td>0</td><td colspan="2">*C*<sub>S</sub> &lt; 1<sup>.</sup>CS[^annex10-lvlu1-1]</td><td>*C*<sub>A</sub> &lt; 0.05<sup>.</sup>CA[^annex10-lvlu1-2]</td></tr>
+<tr><td>I</td><td colspan="2">*C*<sub>C</sub> &lt; 1<sup>.</sup>CS</td><td>0.05<sup>.</sup>CA ≤ *C*<sub>A</sub> &lt; 0.1<sup>.</sup>CA</td></tr>
+<tr><td>II</td><td colspan="2">1.CS ≤ *C*<sub>S</sub> &lt; 10.CS</td><td>0.05.CA ≤ *C*<sub>A</sub> &lt; 0.1.CA</td></tr>
+<tr><td>III</td><td colspan="2">10.CS ≤ *C*<sub>S</sub> &lt; 100.CS</td><td>0.1.CA ≤ *C*<sub>A</sub> &lt; 10.CA</td></tr>
+<tr><td>IV</td><td colspan="2">*C*<sub>S</sub> ≥ 100.CS</td><td>*C*<sub>A</sub> ≥ 10.CA</td></tr>
+<tr><td colspan="2">Area type</td><td colspan="2">Ambient dose rate *D* at accessible locations</td></tr>
+<tr><td colspan="2">V</td><td colspan="2">*D* &lt; 0.01 mSv/h</td></tr>
+<tr><td colspan="2">W</td><td colspan="2">0.01 &lt; *D* &lt; 0.1 mSv/h</td></tr>
+<tr><td colspan="2">X</td><td colspan="2">0.1 &lt; *D* &lt; 1 mSv/h</td></tr>
+<tr><td colspan="2">Y</td><td colspan="2">1 &lt; *D* &lt; 10 mSv/h</td></tr>
+<tr><td colspan="2">Z</td><td colspan="2">*D* &gt; 10 mSv/h</td></tr>
 </table>
 
 [^annex10-lvlu1-1]: Guidance value (Bq/cm<sup>2</sup>) for surface contamination as specified in Annex 3 Column 12; averaged over 100 cm<sup>2</sup>.

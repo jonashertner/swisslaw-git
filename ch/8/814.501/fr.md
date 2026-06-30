@@ -4,11 +4,11 @@ title: Ordonnance du 26 avril 2017 sur la radioprotection (ORaP)
 short: ORaP
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/502"
 language: fr
-version: 2022-01-01
+version: 2026-07-01
 adopted: 2017-04-26
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/502/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2017-502-20220101-fr-xml-14.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/502/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/502/20260701/fr/xml/fedlex-data-admin-ch-eli-cc-2017-502-20260701-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/502/20260701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/502/20220101/fr"
 
 (ORaP)
 
-du 26 avril 2017 (État le 1<sup>er</sup> janvier 2022)
+du 26 avril 2017 (État le 1<sup>er</sup> juillet 2026)
 
 Le Conseil fédéral suisse,
 
@@ -265,11 +265,20 @@ L’Inspection fédérale de la sécurité nucléaire (IFSN) est l’autorité d
 - b. les essais avec des substances radioactives dans le cadre des études géologiques au sens de l’art. 35 LENu;
 - c. l’importation et l’exportation de substances radioactives en provenance ou à destination d’installations nucléaires;
 - d. le transport de substances radioactives en provenance ou à destination d’installations nucléaires;
-- e. le rejet en provenance d’installations nucléaires dans l’environnement;
-- f.[^11-2] le stockage pour décroissance de déchets radioactifs provenant d’installations nucléaires et toutes les activités y afférentes.
+- e.[^11-2] le rejet en provenance d’installations nucléaires dans l’environnement et tout transport y afférent;
+- f.[^11-3] le stockage pour décroissance de déchets radioactifs provenant d’installations nucléaires et toutes les activités y afférentes;
+- g.[^11-4]
+
+  la manipulation des déchets radioactifs visés à l’art. 2, al. 1, let. c, LENu, lorsqu’il est prévisible:
+
+  - 1\. qu’ils peuvent être rejetés dans l’environnement conformément aux art. 111 à 116 de la présente ordonnance,
+  - 2\. qu’ils peuvent être mis en stockage pour décroissance visé à l’art. 117 de la présente ordonnance, ou
+  - 3\. qu’ils remplissent les conditions de libération visées à l’art. 106 de la présente ordonnance.
 
 [^11-1]: [RS 732.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8531)
-[^11-2]: Introduite par le ch. II de l’O du 7 déc. 2018, en vigueur depuis le 1<sup>er</sup> fév. 2019 ([RO 2019 183](https://fedlex.data.admin.ch/eli/oc/2019/27)).
+[^11-2]: Nouvelle teneur selon le ch. II de l’O du 27 mai 2026, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2026 302](https://fedlex.data.admin.ch/eli/oc/2026/302)).
+[^11-3]: Introduite par le ch. II de l’O du 7 déc. 2018, en vigueur depuis le 1<sup>er</sup> fév. 2019 ([RO 2019 183](https://fedlex.data.admin.ch/eli/oc/2019/27)).
+[^11-4]: Introduite par le ch. II de l’O du 27 mai 2026, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2026 302](https://fedlex.data.admin.ch/eli/oc/2026/302)).
 
 #### Art. 12
 
@@ -3915,7 +3924,7 @@ Les explications concernant les différentes colonnes et les notes de bas de pag
 - 1 Radionucléide; m: métastable. Un nucléide de filiation de période inférieure à 10 minutes est indiqué après la barre oblique.
 - 2 Période: s = seconde; min = minute; h = heure; d = jour; a = année; E = présentation exponentielle. Source: Commission internationale de protection radiologique, CIPR 107. Pour les quelques nucléides qui n’y figurent pas: IAEA, Safety Requirements: Radiation Protection and Safety of Radiation Sources: International Basic Safety Standards, Revision of IAEA Safety Series N°115, GOV2011/42, 15 août 2011; Tableau III-2A.
 - 3 Type de désintégration/rayonnement: α: rayonnement alpha; β<sup>+</sup>, β<sup>–</sup>: rayonnement bêta; ec: capture d’électron, it: transition isomérique; fs: fission spontanée. Pour chaque radionucléide, le «/rayonnement» se traduit par «/ph» si la désintégration est accompagnée par l’émission d’un rayonnement photonique (γ ou X) d’une énergie supérieure à 10<sup>-4</sup> MeV par désintégration.
-- **4, 5** **Coefficient de dose efficace engagée pour l’exposition interne chez l’adulte. [Source:** **IAEA, Safety Requirements: Radiation Protection and Safety of Radiation Sources: International Basic Safety Standards, Revision of IAEA Safety Series N°115, GOV2011/42, 15 août 2011;** **tableau III-2A, colonne e(g)****<sub>5</sub>** **<sub>µ</sub>****<sub>m</sub>** **pour l’inhalation et colonne e(g) pour l’****ingestion.** **Pour les quelques nucléides qui n’y figurent pas:** **International Commission on Radio****logical Protection,** **«****ICRP Database of Dose Coefficients: Workers and Members of the Public», accessible sur l’onglet «Free Educational CD Downloads»** **http://www.icrp.org/**
+- **4, 5** **Coefficient de dose efficace engagée pour l’exposition interne chez l’adulte. [Source:** **IAEA, Safety Requirements: Radiation Protection and Safety of Radiation Sources: International Basic Safety Standards, Revision of IAEA Safety Series N°115, GOV2011/42, 15 août 2011;** **tableau III-2A, colonne e(g)****<sub>5</sub>** **<sub>µ</sub>****<sub>m</sub>** **pour l’inhalation et colonne e(g) pour l’****ingestion.** **Pour les quelques nucléides qui n’y figurent pas:** **International Commission on Radio****logical Protection,** **«****ICRP Database of Dose Coefficients: Workers and Members of the Public», accessible sur l’onglet «Free Educational CD Downloads»** **http://www.****icrp.org/**
 - 4 Coefficient de dose efficace engagée pour l’incorporation par inhalation de l’activité d’un radionucléide. L’inhalation de 1 Bq conduit au maximum à la dose efficace engagée en Sv, indiquée dans la colonne. La valeur indiquée correspond à la valeur maximale obtenue pour les différents types (ou vitesses) d’absorption des poumons dans le sang (F, M ou S), avec un AMAD 5 µm.
 - N.B. Pour 12 radionucléides [Nb-91, Nb-91m, Nb-92m, Te-119m, Nd-140, Re-183, Pt-190, Au-196, Bi-208, Po-206, Po-208, Po-209], les valeurs de *e*<sub>inh</sub> ne sont données ni dans les BSS IAEA ni dans le CD1 ICRP. Les valeurs pour ces radionucléides, dans l’ORaP du 22 juin 1994[^annex3-lvlu1-lvlu1-1], étaient extraites du rapport NRPB-R245 de 1991; vu l’ancienneté de la source et comme ces radionucléides sont de faible importance, il a été décidé de renoncer à donner des coefficients de dose pour ces douze radionucléides dans la présente ordonnance.
 - 5 Coefficient de dose pour la dose efficace engagée pour l’incorporation par ingestion (manger, boire) de l’activité d’un radionucléide. L’ingestion de 1 Bq conduit au maximum à la dose efficace engagée, en Sv, indiquée dans la colonne.
@@ -3966,12 +3975,12 @@ Mélange de nucléides
 - **Dans le cas de mélanges de nucléides, la règle d’addition est applicable aux colonnes 9, 11 et 12:**
 - Règle permettant de contrôler le respect de limites d’activité dans le cas d’un mélange de nucléides; à cet effet, les différents nucléides sont pondérés en fonction de leur risque radiologique. Dans le cas où les inégalités ci-dessous sont satisfaites, le mélange est en dessous de la limite de libération ou de la valeur directrice de contamination surfacique.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/502/20220101/fr/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/502/20260701/fr/xml/image/image1.png)
 
 - *a*<sub>1</sub>, *a*<sub>2</sub>, … *a*<sub>n</sub>: activités spécifiques des nucléides 1, 2, …, n en Bq/g.
 - *LL*<sub>1</sub>, *LL*<sub>2</sub>, … *LL*<sub>n</sub>: limites de libération des nucléides 1, 2, …, n en Bq/g selon l’annexe 3, colonne 9.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/502/20220101/fr/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/502/20260701/fr/xml/image/image2.png)
 
 - *c*<sub>1</sub>, *c*<sub>2</sub>, … *c*<sub>n</sub>: valeurs de contamination surfacique des nucléides 1, 2, …, n en Bq/cm<sup>2</sup>
 - *CS*<sub>1</sub>, *CS*<sub>2</sub>, … *CS*<sub>n</sub>: valeurs directrices de contamination surfacique des nucléides 1, 2, …, n en Bq/cm<sup>2</sup> selon l’annexe 3, colonne 12.
@@ -4020,23 +4029,23 @@ Annexe 4
 
 Grandeur dosimétrique fondamentale exprimée par la relation
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/502/20220101/fr/xml/image/image3.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/502/20260701/fr/xml/image/image3.png)
 
-où ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/502/20220101/fr/xml/image/image4.png) est l’énergie moyenne transmise par le rayonnement ionisant à la matière de masse *d**m*. L’unité SI de dose absorbée est le joule par kilogramme (J/kg) et porte le nom spécial gray (Gy).
+où ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/502/20260701/fr/xml/image/image4.png) est l’énergie moyenne transmise par le rayonnement ionisant à la matière de masse *d**m*. L’unité SI de dose absorbée est le joule par kilogramme (J/kg) et porte le nom spécial gray (Gy).
 
 ### 1.2 Moyenne de la dose absorbée *D*<sub>T</sub> dans un organe ou tissu T (mean absorbed dose in a tissue or organ)
 
 Dose absorbée *D*<sub>T</sub> moyenne dans le tissu ou l’organe T, qui est exprimée par
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/502/20220101/fr/xml/image/image5.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/502/20260701/fr/xml/image/image5.png)
 
-où ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/502/20220101/fr/xml/image/image6.png) est l’énergie totale moyenne transmise au tissu ou à l’organe T, et ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/502/20220101/fr/xml/image/image7.png) la masse de ce tissu ou organe.
+où ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/502/20260701/fr/xml/image/image6.png) est l’énergie totale moyenne transmise au tissu ou à l’organe T, et ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/502/20260701/fr/xml/image/image7.png) la masse de ce tissu ou organe.
 
 ### 1.3 Dose équivalente *H*<sub>T</sub> (equivalent dose)
 
 Dose reçue par un tissu ou un organe T, exprimée par
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/502/20220101/fr/xml/image/image8.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/502/20260701/fr/xml/image/image8.png)
 
 où *D*<sub>T.R</sub> est la dose absorbée moyenne provenant d’un rayonnement R, reçue par un tissu ou un organe T, et *w*<sub>R</sub> est le facteur de pondération du rayonnement. Étant donné que *w*<sub>R</sub> n’a pas de dimension, l’unité de dose équivalente est la même que celle de la dose absorbée, J/kg. Elle porte le nom spécial sievert (Sv).
 
@@ -4059,7 +4068,7 @@ Intégrale dans le temps du débit de dose équivalente dans un tissu ou un orga
 
 Somme des doses équivalentes pondérées dans tous les tissus et organes spécifiés du corps donnée par l’expression
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/502/20220101/fr/xml/image/image9.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/502/20260701/fr/xml/image/image9.png)
 
 où *H*<sub>T</sub>, ou *w*<sub>R</sub>*D*<sub>T.R</sub> est la dose équivalente reçue par un tissu ou par un organe T, et *w*<sub>T</sub> est le facteur de pondération des tissus. L’unité de dose efficace est la même que celle de la dose absorbée (J/kg) et porte le nom spécial sievert (Sv).
 
@@ -4092,7 +4101,7 @@ Somme des produits des doses équivalentes engagées dans les divers tissus ou o
 
 - 1\.9.1 Produit de *D* et de *Q* dans un point du tissu, où *D* est la dose absorbée dans le tissu mou ICRU et *Q* le facteur de qualité pour le rayonnement considéré en ce point; ainsi on a:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/502/20220101/fr/xml/image/image10.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/502/20260701/fr/xml/image/image10.png)
 
 - 1\.9.2 L’unité de l’équivalent de dose est le joule par kilogramme (J/kg) et porte le nom spécial de sievert (Sv). Voir aussi les grandeurs de mesure associées: l’équivalent de dose individuel et l’équivalent de dose ambiant.
 
@@ -4123,7 +4132,7 @@ Sphère de 30 cm de diamètre, d’une densité de 1 g/cm<sup>3</sup> et de comp
 
 - 1\.15.1 Facteur caractérisant l’efficacité biologique d’un rayonnement, fondé sur la densité d’ionisation le long des traces de particules chargées dans un tissu. *Q* est défini comme une fonction du transfert linéique d’énergie non limité TEL (*L* en keV/µm) des particules chargées dans l’eau:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/502/20220101/fr/xml/image/image11.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/502/20260701/fr/xml/image/image11.png)
 
 - 1\.15.2 *Q* a été remplacé par le facteur de pondération du rayonnement *w*<sub>R</sub> dans la définition de la dose équivalente, mais il est toujours utilisé dans la définition de l’équivalent de dose.
 
@@ -4513,7 +4522,7 @@ Limites d’immission dans l’air (*LI*<sub>air</sub>):
 
 - 1\.3 Pour d’autres radionucléides, les limites d’immission dans l’air peuvent se calculer à l’aide de la formule ci-dessous:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/502/20220101/fr/xml/image/image12.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/502/20260701/fr/xml/image/image12.png)
 
 - où *e*<sub>inh,eb</sub>, *e*<sub>inh,e10</sub> et *e*<sub>ing,ad</sub> [mSv/Bq] sont les coefficients de dose pour l’inhalation pour les enfants en bas âge, les enfants de 10 ans et les adultes et *e*<sub>imm</sub> [(mSv/h)/(Bq/m<sup>3</sup>)] le cofficient d’immersion (indépendant de l’âge). Les coefficients d’inhalation et d’immersion proviennent des annexes 5 et 6.
 - Pour l’immersion un facteur d’atténuation (*F*<sub>abs</sub>) de 0,4 a été fixé pour tenir compte du séjour partiel à l’intérieur.
@@ -4555,7 +4564,7 @@ Limites d’immission dans les eaux(*LI*<sub>eaux</sub>):
 
 - 2\.3 Pour d’autres radionucléides, les limites d’immission dans les eaux peuvent se calculer à l’aide de la formule ci-dessous:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/502/20220101/fr/xml/image/image13.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/502/20260701/fr/xml/image/image13.png)
 
 - où *e*<sub>ing,eb</sub>, *e*<sub>ing,e10</sub> et *e*<sub>ing,ad</sub> [mSv/Bq] sont les coefficients de dose par ingestion pour l’enfant en bas âge, pour l’enfant de 10 ans et pour l’adulte et *CoE*<sub>eb</sub>, *CoE*<sub>e10</sub>*, CoE*<sub>ad</sub> les consommantions d’eau de boisson en litres par an [l/a] pour les enfants en bas âge, les enfants de 10 ans et les adultes.
 - Pour la consommation d’eau de boisson on a pris 650 l pour les adultes et les enfants de 10 ans et 250 l pour les enfants en bas âge. Les coefficients de dose proviennent de l’annexe 5.
@@ -4566,12 +4575,12 @@ Pour les mélanges de radionucléides, la règle d’addition s’applique pour 
 
 - Règle pour contrôler le respect des limites d’immission dans l’air et dans les eaux en cas de mélange de radionucléides. Les différents nucléides sont pondérés en fonction de leur toxicité. Lorsque les inégalités suivantes sont satisfaites, les mélanges en question sont inférieurs aux limites d’immission.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/502/20220101/fr/xml/image/image14.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/502/20260701/fr/xml/image/image14.png)
 
 - *a*<sub>1</sub>, *a*<sub>2</sub>, … *a*<sub>n</sub>: concentrations radioactives dans l’air pour les nucléides 1, 2, …, n en Bq/m<sup>3</sup>.
 - *LI*<sub>air 1</sub>, *LI*<sub>air 2</sub>, … *LI*<sub>air n</sub>: limites d’immission dans l’air pour les nucléides 1, 2, …, n en Bq/m<sup>3</sup>.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/502/20220101/fr/xml/image/image15.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/502/20260701/fr/xml/image/image15.png)
 
 - *a*<sub>1</sub>, *a*<sub>2</sub>, ... *a*<sub>n</sub>: concentrations radioactives des nucléides 1, 2, …, n dans les eaux en Bq/l.
 - *LI*<sub>eau1</sub>, *LI*<sub>eau 2</sub>, … *LI*<sub>eau n</sub>: limites d’immission dans l’eau pour les radionucléides 1, 2, …, n en Bq/l.
@@ -4617,7 +4626,7 @@ Installations (p. ex., installations à rayons X, accélérateurs):
 
 ### 4. Signe de danger:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/502/20220101/fr/xml/image/image16.png) Rapport des rayons: 1: 1,5: 5
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/502/20260701/fr/xml/image/image16.png) Rapport des rayons: 1: 1,5: 5
 
 Annexe 9
 

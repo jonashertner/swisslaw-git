@@ -4,11 +4,11 @@ title: Strahlenschutzverordnung vom 26. April 2017 (StSV)
 short: StSV
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/502"
 language: de
-version: 2022-01-01
+version: 2026-07-01
 adopted: 2017-04-26
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/502/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2017-502-20220101-de-xml-14.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/502/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/502/20260701/de/xml/fedlex-data-admin-ch-eli-cc-2017-502-20260701-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/502/20260701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/502/20220101/de"
 
 (StSV)
 
-vom 26. April 2017 (Stand am 1. Januar 2022)
+vom 26. April 2017 (Stand am 1. Juli 2026)
 
 Der Schweizerische Bundesrat,
 
@@ -235,15 +235,15 @@ Von der Bewilligungspflicht sind ausgenommen:
 - h. Tätigkeiten und Strahlungsquellen, die einer Bewilligungspflicht oder einer Stilllegungsverfügung nach dem Kernenergiegesetz vom 21. März 2003[^10-13] (KEG) unterstehen;
 - i. der Einsatz von beruflich strahlenexponiertem Flugpersonal durch Luftfahrzeugbetreiberinnen und -betreiber.
 
-[^10-1]: [SR 0.741.621](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2933). Die Anhänge zum ADR werden nicht in der AS veröffentlicht. Sie sind gratis einsehbar auf den Internetseiten der Wirtschaftskommission der Vereinten Nationen (UN) für Europa (UNECE, ECE) unter www.unece.org &gt; Legal Instruments and Recommendations &gt; ADR; Separatdrucke können gegen Entgelt bezogen werden beim Bundesamt für Bauten und Logistik, Verkauf Bundespublikationen, 3003 Bern.
+[^10-1]: [SR 0.741.621](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2933). Die Anhänge zum ADR werden nicht in der AS veröffentlicht. Sie sind gratis einsehbar auf den Internetseiten der Wirtschaftskommission der Vereinten Nationen (UN) für Europa (UNECE, ECE) unter: [www.unece.org](http://www.unece.org) &gt; Legal Instruments and Recommendations &gt; ADR; Separatdrucke können gegen Entgelt bezogen werden beim Bundesamt für Bauten und Logistik, Verkauf Bundespublikationen, 3003 Bern.
 [^10-2]: [SR 741.621](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8690)
-[^10-3]: [SR 0.742.403.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3003). Die Anhänge zur RID werden nicht in der AS veröffentlicht. Sie sind gratis einsehbar auf den Internetseiten der Zwischenstaatlichen Organisation für den internationalen Eisenbahnverkehr unter www.otif.org &gt; Veröffentlichungen &gt; RID; Separatabdrucke können gegen Entgelt bezogen werden beim Bundesamt für Bauten und Logistik, Verkauf Bundespublikationen, 3003 Bern.
+[^10-3]: [SR 0.742.403.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3003). Die Anhänge zur RID werden nicht in der AS veröffentlicht. Sie sind gratis einsehbar auf den Internetseiten der Zwischenstaatlichen Organisation für den internationalen Eisenbahnverkehr unter: [www.otif.org](http://www.otif.org) &gt; Veröffentlichungen &gt; RID; Separatabdrucke können gegen Entgelt bezogen werden beim Bundesamt für Bauten und Logistik, Verkauf Bundespublikationen, 3003 Bern.
 [^10-4]: [SR 742.412](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8825)
 [^10-5]: [SR 748.411](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9102)
 [^10-6]: [SR 747.224.141](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8993)
-[^10-7]: [SR 0.748.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3110). Dieser Anhang wird nicht in der AS veröffentlicht. Er kann gratis eingesehen werden auf den Internetseiten des Bundesamtes für Zivilluftfahrt (BAZL) unter www.bazl.admin.ch &gt; Dokumentation &gt; Rechtliche Grundlagen &gt; Internationales Recht sowie gegen Entgelt bezogen werden bei der Internationalen Zivilluftfahrt-Organisation (Organisation de l’aviation civile internationale, Groupe de la vente des documents, 999, rue de l’Université Montréal, Québec, Canada H3C 5H7).
-[^10-8]: Die technischen Vorschriften werden nicht in der AS veröffentlicht. Sie können gratis eingesehen werden auf den Internetseiten des Bundesamtes für Zivilluftfahrt (BAZL) unter www.bazl.admin.ch &gt; Dokumentation &gt; Rechtliche Grundlagen &gt; Internationales Recht sowie gegen Entgelt bezogen werden bei der Internationalen Zivilluftfahrt-Organisation (Organisation de l’aviation civile internationale, Groupe de la vente des documents, 999, rue de l’Université Montréal, Québec, Canada H3C 5H7). Sie können auch bei den Informationsstellen der Landesflughäfen in französischer und englischer Sprache gratis eingesehen werden. Sie werden nicht ins Deutsche und Italienische übersetzt.
-[^10-9]: International Organization for Standardization. Die in dieser Verordnung genannten technischen Normen der ISO können beim BAG, 3003 Bern gratis eingesehen werden. Sie können gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
+[^10-7]: [SR 0.748.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3110). Dieser Anhang wird nicht in der AS veröffentlicht. Er kann gratis eingesehen werden auf den Internetseiten des Bundesamtes für Zivilluftfahrt (BAZL) unter: [www.bazl.admin.ch](http://www.bazl.admin.ch) &gt; Dokumentation &gt; Rechtliche Grundlagen &gt; Internationales Recht sowie gegen Entgelt bezogen werden bei der Internationalen Zivilluftfahrt-Organisation (Organisation de l’aviation civile internationale, Groupe de la vente des documents, 999, rue de l’Université Montréal, Québec, Canada H3C 5H7).
+[^10-8]: Die technischen Vorschriften werden nicht in der AS veröffentlicht. Sie können gratis eingesehen werden auf den Internetseiten des Bundesamtes für Zivilluftfahrt (BAZL) unter: www.bazl.admin.ch &gt; Dokumentation &gt; Rechtliche Grundlagen &gt; Internationales Recht sowie gegen Entgelt bezogen werden bei der Internationalen Zivilluftfahrt-Organisation (Organisation de l’aviation civile internationale, Groupe de la vente des documents, 999, rue de l’Université Montréal, Québec, Canada H3C 5H7). Sie können auch bei den Informationsstellen der Landesflughäfen in französischer und englischer Sprache gratis eingesehen werden. Sie werden nicht ins Deutsche und Italienische übersetzt.
+[^10-9]: International Organization for Standardization. Die in dieser Verordnung genannten technischen Normen der ISO können beim BAG, 3003 Bern gratis eingesehen werden. Sie können gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; [www.snv.ch](http://www.snv.ch).
 [^10-10]: ISO 3157, Ausgabe 1991-11, Radioaktive Leuchtfarbe für Zeitmessgeräte, Spezifikation.
 [^10-11]: SN ISO 4168, Ausgabe 2003-09, Zeitmessgeräte – Bedingungen für die Durchführung von Kontrollen an Radiolumineszenzbeschichtungen.
 [^10-12]: Sv = Sievert; mSv = Millisievert; µSv = Mikrosievert
@@ -265,11 +265,20 @@ Das Eidgenössische Nuklearsicherheitsinspektorat (ENSI) ist Bewilligungsbehörd
 - b. Versuche mit radioaktiven Stoffen im Rahmen von erdwissenschaftlichen Untersuchungen nach Artikel 35 KEG;
 - c. die Ein- und die Ausfuhr radioaktiver Stoffe für oder aus Kernanlagen;
 - d. den Transport radioaktiver Stoffe von und zu Kernanlagen;
-- e. die Abgabe von radioaktiven Abfällen aus Kernanlagen an die Umwelt;
-- f.[^11-2] die Abklinglagerung radioaktiver Abfälle aus Kernanlagen sowie alle damit im Zusammenhang stehenden Tätigkeiten.
+- e.[^11-2] die Abgabe von radioaktiven Abfällen aus Kernanlagen an die Umwelt sowie alle damit im Zusammenhang stehenden Transporte;
+- f.[^11-3] die Abklinglagerung radioaktiver Abfälle aus Kernanlagen sowie alle damit im Zusammenhang stehenden Tätigkeiten;
+- g.[^11-4]
+
+  den Umgang mit radioaktiven Abfällen nach Artikel 2 Absatz 1 Buchstabe c KEG, bei denen absehbar ist, dass sie:
+
+  - 1\. nach den Artikeln 111–116 dieser Verordnung an die Umwelt abgegeben werden können,
+  - 2\. der Abklinglagerung nach Artikel 117 dieser Verordnung zugeführt werden können, oder
+  - 3\. die Voraussetzungen für eine Befreiung nach Artikel 106 dieser Verordnung erfüllen.
 
 [^11-1]: [SR 732.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8531)
-[^11-2]: Eingefügt durch Ziff. II der V vom 7. Dez. 2018, in Kraft seit 1. Febr. 2019 ([AS 2019 183](https://fedlex.data.admin.ch/eli/oc/2019/27)).
+[^11-2]: Fassung gemäss Ziff. II der V vom 27. Mai 2026, in Kraft seit 1. Juli 2026 ([AS 2026 302](https://fedlex.data.admin.ch/eli/oc/2026/302)).
+[^11-3]: Eingefügt durch Ziff. II der V vom 7. Dez. 2018, in Kraft seit 1. Febr. 2019 ([AS 2019 183](https://fedlex.data.admin.ch/eli/oc/2019/27)).
+[^11-4]: Eingefügt durch Ziff. II der V vom 27. Mai 2026, in Kraft seit 1. Juli 2026 ([AS 2026 302](https://fedlex.data.admin.ch/eli/oc/2026/302)).
 
 #### Art. 12
 
@@ -496,7 +505,7 @@ Medizinische Expositionen gelten unter Vorbehalt der Artikel 28 und 29 grundsät
 
 <sup>3</sup> Die KSR erarbeitet in Zusammenarbeit mit den betroffenen Berufs- und Fachverbänden Empfehlungen zur Rechtfertigung der Verfahren nach den Absätzen 1 und 2 und veröffentlicht diese.[^28-1]
 
-[^28-1]: www.ksr-cpr.ch
+[^28-1]: [www.ksr-cpr.ch](http://www.ksr-cpr.ch)
 
 #### Art. 29
 
@@ -773,8 +782,8 @@ Radiopharmazeutika müssen als solche gekennzeichnet sein. Ihre Beschriftung mus
 
 <sup>3</sup> Das EDI kann Anforderungen an die Zubereitung und an die Anwendung von Radiopharmazeutika festlegen; dabei berücksichtigt es nationale und internationale Richtlinien sowie die Empfehlungen von Fachgesellschaften, insbesondere der European Association of Nuclear Medicine (EANM)[^47-1] oder der Schweizerischen Gesellschaft für Radiopharmazie / Radiopharmazeutische Chemie (SGRRC)[^47-2].
 
-[^47-1]: Diese Empfehlungen können in englischer Sprache kostenlos abgerufen werden auf den Internetseiten der EANM unter www.eanm.org.
-[^47-2]: Diese Empfehlungen können kostenlos abgerufen werden auf den Internetseiten der SGRRC unter www.sgrrc.ch.
+[^47-1]: Diese Empfehlungen können in englischer Sprache kostenlos abgerufen werden auf den Internetseiten der EANM unter: [www.eanm.org](http://www.eanm.org).
+[^47-2]: Diese Empfehlungen können kostenlos abgerufen werden auf den Internetseiten der SGRRC unter: [www.sgrrc.ch](http://www.sgrrc.ch).
 
 #### Art. 48
 
@@ -1484,7 +1493,7 @@ Das EDI regelt im Einvernehmen mit dem ENSI:
 
 <sup>4</sup> Die Aufsichtsbehörde kann Ausnahmen von den Absätzen 1–3 gewähren, wenn sich keine Kennzeichnung anbringen lässt oder wenn wiederverwendbare Quellenbehälter verwendet werden.
 
-[^94-1]: ISO 2919, Ausgabe 2012-02-15, Strahlenschutz – Geschlossene radioaktive Stoffe – Allgemeine Anforderungen und Klassifikation. Die in dieser Verordnung genannten technischen Normen der ISO können beim BAG, 3003 Bern gratis eingesehen werden. Sie können gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
+[^94-1]: ISO 2919, Ausgabe 2012-02-15, Strahlenschutz – Geschlossene radioaktive Stoffe – Allgemeine Anforderungen und Klassifikation. Die in dieser Verordnung genannten technischen Normen der ISO können beim BAG, 3003 Bern gratis eingesehen werden. Sie können gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch .
 
 #### Art. 95
 
@@ -1496,7 +1505,7 @@ Das EDI regelt im Einvernehmen mit dem ENSI:
 
 <sup>3</sup> Die Aufsichtsbehörde kann in begründeten Fällen Ausnahmen von den Absätzen 1 und 2 zulassen oder zusätzliche Qualitätsprüfungen verlangen.
 
-[^95-1]: ISO 2919, Ausgabe 2012-02-15, Strahlenschutz – Geschlossene radioaktive Stoffe – Allgemeine Anforderungen und Klassifikation. Die in dieser Verordnung genannten technischen Normen der ISO können beim BAG, 3003 Bern gratis eingesehen werden. Sie können gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
+[^95-1]: ISO 2919, Ausgabe 2012-02-15, Strahlenschutz – Geschlossene radioaktive Stoffe – Allgemeine Anforderungen und Klassifikation. Die in dieser Verordnung genannten technischen Normen der ISO können beim BAG, 3003 Bern gratis eingesehen werden. Sie können gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch .
 
 ### 7. Abschnitt: Geschlossene hoch radioaktive Quellen
 
@@ -1991,7 +2000,7 @@ Die Bewilligungsinhaberinnen und -inhaber müssen Störfälle wie folgt rechtzei
 
 <sup>3</sup> Das ENSI meldet der IAEO die Einstufung eines Störfalls nach der Internationalen Bewertungsskala für nukleare Ereignisse (INES)[^128-1] ab der Stufe 2.
 
-[^128-1]: Die Bewertungsskala kann eingesehen werden auf der Website des Eidgenössischen Nuklearsicherheitsinspektorats (ENSI) unter: www.ensi.ch &gt; Notfallschutz INES-Stufen.
+[^128-1]: Die Bewertungsskala kann eingesehen werden auf der Website des Eidgenössischen Nuklearsicherheitsinspektorats (ENSI) unter: [www.ensi.ch](http://www.ensi.ch) &gt; Notfallschutz INES-Stufen.
 
 #### Art. 129
 
@@ -2387,7 +2396,7 @@ Die anerkannten Radonmessstellen sind verpflichtet:
 
 <sup>2</sup> Das BAG führt eine Liste, in der in der Schweiz tätige, nach Artikel 183 Buchstabe c aus- und fortgebildete Radonfachpersonen auf Antrag aufgenommen werden. Es veröffentlicht die Liste[^161-1] und aktualisiert sie regelmässig.
 
-[^161-1]: Die Liste kann auf der Internetseite des BAG gratis eingesehen werden unter: www.ch-radon.ch &gt; Beratung durch Radonfachpersonen.
+[^161-1]: Die Liste kann auf der Internetseite des BAG gratis eingesehen werden unter: [www.ch-radon.ch](http://www.ch-radon.ch) &gt; Beratung durch Radonfachpersonen.
 
 #### Art. 162
 
@@ -3918,7 +3927,7 @@ Die Erläuterungen zu den einzelnen Spalten und eine Zusammenstellung der Fussno
 - 1 Radionuklid; m: metastabil. Ein Tochternuklid mit einer Halbwertszeit von weniger als 10 Minuten ist nach dem Schrägstrich angegeben.
 - 2 Halbwertszeit: s: Sekunde; min: Minute; h: Stunde; d: Tag; a: Jahr; E: Exponentialdarstellung. Quelle: International Commission on Radiological Protection, ICRP 107. Dort nicht aufgeführte, einzelne Nuklide: IAEA, Safety Requirements: Radiation Protection and Safety of Radiation Sources: International Basic Safety Standards, Revision of IAEA Safety Series N°115, GOV2011/42, 15 August 2011; Table III-2A.
 - 3 Zerfallsart/Strahlung: α: Alphastrahlung; β+, β-: Betastrahlung; ec: Elektroneneinfang; it: isomeric transition; fs: spontane Spaltung. Für «/Strahlung» ist bei jedem Radionuklid «/ph» angegeben, wenn der Zerfall unter Emission von Photonenstrahlung (γ oder Röntgen) mit einer Energie von mehr als 10<sup>-4</sup> MeV pro Zerfall erfolgt.
-- **4, 5** **Dosiskoeffizient für die effektive Folgedosis infolge einer Inhalation (Einatmen) bzw. einer Ingestion (Essen, Trinken) eines Radionuklids für Erwachsene [Quelle: IAEA, Safety Requirements: Radiation Protection and Safety of Radiation Sources: International Basic Safety Standards, Revision of IAEA Safety Series N°115, GOV2011/42, 15 August 2011;** **Tabelle III-2A Spalte e(g)****<sub>5 µm</sub>** **für Inhalation und Spalte e(g) für Ingestion** **Dort nicht aufgeführte, einzelne Nuklide: International Commission on Radiological Protection,** **«****ICRP Database of Dose Coefficients: Workers and Members of the Public», unter der Rubrik «Free Educational CD Downloads» du site http://www.icrp.org/.**
+- **4, 5** **Dosiskoeffizient für die effektive Folgedosis infolge einer Inhalation (Einatmen) bzw. einer Ingestion (Essen, Trinken) eines Radionuklids für Erwachsene [Quelle: IAEA, Safety Requirements: Radiation Protection and Safety of Radiation Sources: International Basic Safety Standards, Revision of IAEA Safety Series N°115, GOV2011/42, 15 August 2011;** **Tabelle III-2A Spalte e(g)****<sub>5 µm</sub>** **für Inhalation und Spalte e(g) für Ingestion.** **Dort nicht aufgeführte, einzelne Nuklide: International Commission on Radiological Protection,** **«****ICRP Database of Dose Coefficients: Workers and Members of the Public», unter der Rubrik «Free Educational CD Downloads» der Seite** [http://www.icrp.org/](http://www.icrp.org/)**.**
 - 4 Dosiskoeffizient für die effektive Folgedosis infolge einer Inhalation eines Radionuklids. Die Inhalation von 1 Bq führt höchstens zur angegebenen effektiven Folgedosis in Sv. Der angegebene Wert entspricht dem Maximalwert für die verschiedenen Aufnahmearten (oder -geschwindigkeiten) von den Lungen ins Blut (F, M oder S), mit einem AMAD von 5 µm
 - Anmerkung: Für 12 Radionuklide [Nb-91, Nb-91m, Nb-92m, Te-119m, Nd-140, Re-183, Pt-190, Au-196, Bi-208, Po-206, Po-208, Po-209] sind die *e*<sub>inh</sub>-Werte weder in den IAEA BSS noch auf der CD1 ICRP aufgeführt. Die Werte für diese Radionuklide waren für die StSV vom 22. Juni 1994[^annex3-lvlu1-lvlu1-1] dem Bericht NRPB-R245 von 1991 entnommen worden. Da diese Quelle nicht mehr aktuell ist und diese Radionuklide nur von geringer Bedeutung sind, wird in dieser Verordnung auf die Angabe der Dosiskoeffizienten für diese zwölf Radionuklide verzichtet.
 - 5 Dosiskoeffizient für die effektive Folgedosis infolge einer Ingestion eines Radionuklids. Die Ingestion von 1 Bq führt höchstens zur angegebenen effektiven Folgedosis in Sv.
@@ -3969,12 +3978,12 @@ Nuklidgemische
 - **Bei Nuklidgemischen gilt für die Spalten 9, 11 und 12 die Summenregel:**
 - Regel zur Überprüfung der Einhaltung von Aktivitätsgrenzwerten bei Nuklidgemischen. Dabei werden die verschiedenen Nuklide entsprechend ihrer Gefährdung gewichtet. Wenn die folgenden Ungleichungen erfüllt sind, so liegen die Gemische unter der Befreiungsgrenze bzw. unter dem Richtwert für die Oberflächenkontamination.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/502/20220101/de/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/502/20260701/de/xml/image/image1.png)
 
 - *a*<sub>1</sub>, *a*<sub>2</sub>, ...*a*<sub>n</sub>: spezifische Aktivitäten der Nuklide 1, 2, ..., n in Bq/g.
 - *LL*<sub>1</sub>, *LL*<sub>2</sub>, ...*LL*<sub>n</sub>: Befreiungsgrenzen der Nuklide 1, 2, ..., n in Bq/g nach Anhang 3 Spalte 9.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/502/20220101/de/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/502/20260701/de/xml/image/image2.png)
 
 - *c*<sub>1</sub>, *c*<sub>2</sub>, ...*c*<sub>n</sub>: Kontaminationswerte der Nuklide 1, 2, ..., n in Bq/cm<sup>2</sup>.
 - *CS*<sub>1</sub>, *CS*<sub>2</sub>, ...*CS*<sub>n</sub>: Richtwert für die Oberflächenkontamination der Nuklide 1, 2, ..., n in Bq/cm<sup>2</sup> nach Anhang 3 Spalte 12.
@@ -4023,23 +4032,23 @@ Anhang 4
 
 Grundlegende Dosisgrösse, definiert durch die Beziehung:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/502/20220101/de/xml/image/image3.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/502/20260701/de/xml/image/image3.png)
 
-wobei ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/502/20220101/de/xml/image/image4.png) die mittlere Energie ist, die durch ionisierende Strahlung auf die Materie der Masse *dm* übertragen wird. Die SI-Einheit der Energiedosis ist das Joule durch Kilogramm (J/kg). Ihr besonderer Name ist Gray (Gy).
+wobei ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/502/20260701/de/xml/image/image4.png) die mittlere Energie ist, die durch ionisierende Strahlung auf die Materie der Masse *dm* übertragen wird. Die SI-Einheit der Energiedosis ist das Joule durch Kilogramm (J/kg). Ihr besonderer Name ist Gray (Gy).
 
 ### 1.2 Organ-Energiedosis *D*<sub>T</sub> (mean absorbed dose in a tissue or organ)
 
 Die Energiedosis *D*<sub>T</sub>, gemittelt über das Gewebe oder Organ T, die gegeben ist durch:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/502/20220101/de/xml/image/image5.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/502/20260701/de/xml/image/image5.png)
 
-wobei ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/502/20220101/de/xml/image/image6.png) die mittlere Energie ist, die auf ein Gewebe oder Organ T übertragen wird, und ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/502/20220101/de/xml/image/image7.png) die Masse dieses Gewebes oder Organs.
+wobei ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/502/20260701/de/xml/image/image6.png) die mittlere Energie ist, die auf ein Gewebe oder Organ T übertragen wird, und ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/502/20260701/de/xml/image/image7.png) die Masse dieses Gewebes oder Organs.
 
 ### 1.3 Organ-Äquivalentdosis *H*<sub>T</sub> (equivalent dose)
 
 Dosis in einem Gewebe oder Organ T gegeben durch:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/502/20220101/de/xml/image/image8.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/502/20260701/de/xml/image/image8.png)
 
 wobei *D*<sub>T.R</sub> die mittlere Energiedosis durch die Strahlung R in einem Gewebe oder Organ T und *w*<sub>R</sub> der Strahlungs-Wichtungsfaktor ist. Da *w*<sub>R</sub> dimensionslos ist, ist die Einheit für die Organ-Äquivalentdosis die gleiche wie für die Energiedosis, das J/kg. Ihr besonderer Name ist Sievert (Sv).
 
@@ -4062,7 +4071,7 @@ Zeitintegral der Äquivalentdosisleistung in einem bestimmten Gewebe oder Organ,
 
 Summe der gewichteten Organ-Äquivalentdosen für alle angegebenen Gewebe und Organe des Körpers, gegeben durch den Ausdruck:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/502/20220101/de/xml/image/image9.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/502/20260701/de/xml/image/image9.png)
 
 wobei *H*<sub>T</sub> bzw. *w*<sub>R</sub>*D*<sub>T.R</sub> die Äquivalentdosis in dem Gewebe oder Organ T und *w*<sub>T</sub> der Gewebe-Wichtungsfaktor ist. Die Einheit der effektiven Dosis ist wie die der Energiedosis das J/kg und ihr besonderer Name ist Sievert (Sv).
 
@@ -4095,7 +4104,7 @@ Summe der Produkte aus den Organ-Folgedosen und den zugehörigen Gewebe-Wichtung
 
 - 1\.9.1 Produkt aus *D* und *Q* in einem Punkt des Gewebes, wobei *D* die Energiedosis in ICRU Weichteilgewebe und *Q* der Qualitätsfaktor für die betrachtete Strahlung an diesem Punkt ist, also:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/502/20220101/de/xml/image/image10.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/502/20260701/de/xml/image/image10.png)
 
 - 1\.9.2 Die Einheit der Mess-Äquivalentdosis ist das Joule durch Kilogramm (J/kg), der besondere Name ist Sievert (Sv). Zu den entsprechenden Messgrössen siehe Personendosis und Umgebungs-Äquivalentdosis.
 
@@ -4126,7 +4135,7 @@ Die ICRU-Kugel ist definiert als eine Kugel mit dem Durchmesser 30 cm, der Dicht
 
 - 1\.15.1 Faktor, der die biologische Wirksamkeit einer Strahlung auf der Grundlage der Ionisationsdichte entlang den Spuren geladener Teilchen im Gewebe kennzeichnet. *Q* ist definiert als eine Funktion des unbeschränkten linearen Energietransfers LET (*L* in keV/µm) geladener Teilchen in Wasser:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/502/20220101/de/xml/image/image11.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/502/20260701/de/xml/image/image11.png)
 
 - 1\.15.2 Bei der Definition der Organ-Äquivalentdosen wurde *Q* durch den Strahlungs-Wichtungsfaktor *w*<sub>R</sub> ersetzt. *Q* wird jedoch nach wie vor für die Definition der Mess-Äquivalentdosis verwendet.
 
@@ -4516,7 +4525,7 @@ Immissionsgrenzwerte für die Luft (IG<sub>Lf</sub>):
 
 - 1\.3 Die Immissionsgrenzwerte für die Luft für weitere Radionuklide können mit folgender Formel berechnet werden:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/502/20220101/de/xml/image/image12.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/502/20260701/de/xml/image/image12.png)
 
 - wobei *e*<sub>inh,KK</sub>, *e*<sub>inh,10J</sub> und *e*<sub>inh,Erw</sub> [mSv/Bq] der Dosiskoeffizient für Inhalation für Kleinkinder, bzw. zehnjährige Kinder oder Erwachsene ist und *e*<sub>imm</sub> [(mSv/h)/(Bq/m<sup>3</sup>)] der Immersionsdosiskoeffizient (nicht altersabhängig). Die Inhalations- und Immersionsdosisfaktoren entstammen den Anhängen 5 und 6.
 - Berücksichtigt wurde für die Immersion ein Abschirmfaktor (*F*<sub>Abs</sub>) von 0,4 durch partiellen Aufenthalt im Haus.
@@ -4558,7 +4567,7 @@ Immissionsgrenzwerte für Gewässer (*IG*<sub>Gw</sub>):
 
 - 2\.3 Die Immissionsgrenzwerte für Gewässer für weitere Radionuklide können mit folgender Formel berechnet werden:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/502/20220101/de/xml/image/image13.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/502/20260701/de/xml/image/image13.png)
 
 - wobei *e*<sub>ing,KK</sub>, *e*<sub>ing,10J</sub> und *e*<sub>ing,Erw</sub> [mSv/Bq] der Dosiskoeffizient für Ingestion für Kleinkinder, bzw. zehnjährige Kinder oder Erwachsene ist und *TwK*<sub>K</sub>K, *TwK*<sub>10J</sub>, *TwK*<sub>Erw</sub> der Trinkwasserkonsum in Liter pro Jahr [l/a] für Kleinkinder, bzw. für zehnjährige Kinder oder für Erwachsene ist.
 - Für den Trinkwasserkonsum wurden 650 l für Erwachsene und zehnjährige Kinder und 250 l für Kleinkinder angesetzt. Die Dosisfaktoren für Ingestion entstammen dem Anhang 5.
@@ -4569,12 +4578,12 @@ Bei Nuklidgemischen gilt für die Immissionsgrenzwerte für die Luft bzw. für G
 
 - Regel zur Überprüfung der Einhaltung von Immissionsgrenzwerten für die Luft bzw. für Gewässer bei Nuklidgemischen. Dabei werden die verschiedenen Nuklide entsprechend ihrer Gefährdung gewichtet. Wenn die folgenden Ungleichungen erfüllt sind, so liegen die Gemische unter den Immissionsgrenzwerten.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/502/20220101/de/xml/image/image14.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/502/20260701/de/xml/image/image14.png)
 
 - *a*<sub>1</sub>, *a*<sub>2</sub>, ... *a*<sub>n</sub>: Luftaktivitätskonzentrationen der Nuklide 1, 2, ..., n in Bq/m<sup>3</sup>.
 - *IG*<sub>Lf1</sub>, *IG*<sub>Lf 2</sub>, ... *IG*<sub>Lf n</sub>: Immissionsgrenzwerte für die Luft der Nuklide 1, 2, ..., n in Bq/m<sup>3</sup>.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/502/20220101/de/xml/image/image15.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/502/20260701/de/xml/image/image15.png)
 
 - *a*<sub>1</sub>, *a*<sub>2</sub>, ...*a*<sub>n</sub>: Aktivitätskonzentrationen der Nuklide 1, 2, ..., n im Wasser in Bq/l.
 - *IG*<sub>Gw1</sub>, *IG*<sub>Gw2</sub>, ... *IG*<sub>Gwn</sub>: Immissionsgrenzwerte für Gewässer der Nuklide 1, 2, ..., n in Bq/l.
@@ -4620,7 +4629,7 @@ Anlagen (z. B. Röntgenanlagen, Beschleuniger):
 
 ### 4. Gefahrenzeichen:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/502/20220101/de/xml/image/image16.png) Verhältnis der Radien: 1 : 1,5 : 5
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/502/20260701/de/xml/image/image16.png) Verhältnis der Radien: 1 : 1,5 : 5
 
 Anhang 9
 
@@ -4650,7 +4659,7 @@ Für nicht in nachstehender Tabelle aufgeführte Radionuklide entspricht der Akt
 <tr><td>Yb-169</td><td>3×10<sup>-1</sup></td></tr>
 </table>
 
-[^annex9-lvlu1-1]: Die in dieser Verordnung genannten Veröffentlichungen der IAEO können in englischer Sprache kostenlos abgerufen werden auf den Internetseiten der IAEO unter www.iaea.org &gt; Publications.
+[^annex9-lvlu1-1]: Die in dieser Verordnung genannten Veröffentlichungen der IAEO können in englischer Sprache kostenlos abgerufen werden auf den Internetseiten der IAEO unter: [www.iaea.org](http://www.iaea.org) &gt; Publications.
 [^annex9-lvlu1-2]: Angegeben ist die Aktivität des alphastrahlenden Radionuklids.
 
 Anhang 10

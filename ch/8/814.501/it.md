@@ -4,11 +4,11 @@ title: Ordinanza del 26 aprile 2017 sulla radioprotezione (ORaP)
 short: ORaP
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/502"
 language: it
-version: 2022-01-01
+version: 2026-07-01
 adopted: 2017-04-26
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/502/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2017-502-20220101-it-xml-14.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/502/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/502/20260701/it/xml/fedlex-data-admin-ch-eli-cc-2017-502-20260701-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/502/20260701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/502/20220101/it"
 
 (ORaP)
 
-del 26 aprile 2017 (Stato 1° gennaio 2022)
+del 26 aprile 2017 (Stato 1° luglio 2026)
 
 Il Consiglio federale svizzero,
 
@@ -197,13 +197,11 @@ Oltre alle attività di cui all’articolo 28 LRaP o ai fini di una precisazione
 - i. le attività riguardanti la manipolazione di NORM se si applica almeno una delle fattispecie di cui all’articolo 168 capoverso 2 lettere b e c;
 - j.[^9-1] lo stoccaggio per il decadimento radioattivo di scorie radioattive provenienti da impianti nucleari al di fuori di impianti nucleari.
 
-[^9-1]: Introdotta dal n. II dell’O del 7 dic. 2018, in vigore dal 1° feb. 2019 ([RU 2019 183](https://fedlex.data.admin.ch/eli/oc/2019/27)).
+[^9-1]: Introdotta dalla cifra II dell’O del 7 dic. 2018, in vigore dal 1° feb. 2019 ([RU 2019 183](https://fedlex.data.admin.ch/eli/oc/2019/27)).
 
 #### Art. 10
 
 **Deroghe all’obbligo della licenza**
-
-<sup>1</sup>
 
 Non sono soggetti all’obbligo della licenza:
 
@@ -264,11 +262,20 @@ All’Ispettorato federale della sicurezza nucleare (IFSN) compete il rilascio d
 - b. gli esperimenti con sostanze radioattive nel quadro di indagini geologiche di cui all’articolo 35 LENu;
 - c. l’importazione e l’esportazione di sostanze radioattive destinate a impianti nucleari o provenienti da essi;
 - d. il trasporto di sostanze radioattive destinate a impianti nucleari o provenienti da essi;
-- e. l’immissione nell’ambiente di scorie radioattive provenienti da impianti nucleari;
-- f.[^11-2] lo stoccaggio per il decadimento radioattivo di scorie radioattive provenienti da impianti nucleari e tutte le attività a esso connesse.
+- e.[^11-2] l’immissione nell’ambiente di scorie radioattive provenienti da impianti nucleari e tutti i trasporti a essa connessi;
+- f.[^11-3] lo stoccaggio per il decadimento radioattivo di scorie radioattive provenienti da impianti nucleari e tutte le attività a esso connesse;
+- g.[^11-4]
+
+  la manipolazione di scorie radioattive di cui all’articolo 2 capoverso 1 lettera c LENu per le quali è prevedibile che:
+
+  - 1\. possano essere immesse nell’ambiente conformemente agli articoli 111–116 della presente ordinanza,
+  - 2\. possano essere destinate allo stoccaggio per il decadimento radioattivo conformemente all’articolo 117 della presente ordinanza, o
+  - 3\. soddisfino i presupposti per un’esenzione conformemente all’articolo 106 della presente ordinanza.
 
 [^11-1]: [RS 732.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8531)
-[^11-2]: Introdotta dal n. II dell’O del 7 dic. 2018, in vigore dal 1° feb. 2019 ([RU 2019 183](https://fedlex.data.admin.ch/eli/oc/2019/27)).
+[^11-2]: Nuovo testo giusta la cifra II dell’O del 27 mag. 2026, in vigore dal 1° lug. 2026 ([RU 2026 302](https://fedlex.data.admin.ch/eli/oc/2026/302)).
+[^11-3]: Introdotta dalla cifra II dell’O del 7 dic. 2018, in vigore dal 1° feb. 2019 ([RU 2019 183](https://fedlex.data.admin.ch/eli/oc/2019/27)).
+[^11-4]: Introdotta dalla cifra II dell’O del 27 mag. 2026, in vigore dal 1° lug. 2026 ([RU 2026 302](https://fedlex.data.admin.ch/eli/oc/2026/302)).
 
 #### Art. 12
 
@@ -793,7 +800,7 @@ Consiglia il Dipartimento federale dell’interno (DFI), l’Istituto svizzero p
 
 [^48-1]: [RS 172.010.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5016)
 [^48-2]: [RS 812.212.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9362)
-[^48-3]: Nuovo testo giusta il n. II 4 dell’all. 6 all’O del 21 set. 2018 sui medicamenti, in vigore dal 1° gen. 2019 ([RU 2018 3577](https://fedlex.data.admin.ch/eli/oc/2018/588)).
+[^48-3]: Nuovo testo giusta la cifra II n. 4 dell’all. 6 all’O del 21 set. 2018 sui medicamenti, in vigore dal 1° gen. 2019 ([RU 2018 3577](https://fedlex.data.admin.ch/eli/oc/2018/588)).
 
 ### Sezione 8: Evento radiologico medico
 
@@ -1377,7 +1384,8 @@ Vanno allestite quali aree sorvegliate:
 - a. i locali e le aree adiacenti in cui sono in funzione impianti non dotati di dispositivo di protezione totale o parziale;
 - b. le zone di tipo 0 secondo l’allegato 10;
 - c. le aree in cui le persone possono accumulare una dose efficace superiore a 1 mSv per anno civile tramite esposizione esterna alle radiazioni.
-- [tab] <sup>3</sup> Il titolare della licenza deve provvedere affinché nelle aree sorvegliate possano trattenersi soltanto persone autorizzate quando durante l’esercizio di impianti o la manipolazione di sorgenti radioattive sigillate si presentano intensità di dose ambientale elevate.
+
+<sup>3</sup> Il titolare della licenza deve provvedere affinché nelle aree sorvegliate possano trattenersi soltanto persone autorizzate quando durante l’esercizio di impianti o la manipolazione di sorgenti radioattive sigillate si presentano intensità di dose ambientale elevate.
 
 <sup>4</sup> Il titolare della licenza deve sorvegliare l’osservanza dei vincoli per le intensità di dose ambientale nonché dei provvedimenti protettivi e di sicurezza all’interno delle aree sorvegliate.
 
@@ -1633,7 +1641,7 @@ Se sussiste un’elevata probabilità che in materiali destinati al riciclaggio 
 - c. materiale proveniente da un’attività soggetta all’obbligo della licenza che è stato esentato ai sensi dell’articolo 106;
 - d. NORM, che sono stati immessi nell’ambiente ai sensi dell’articolo 169.
 
-[^105-1]: [[RU 1994 1947](https://fedlex.data.admin.ch/eli/oc/1994/1947_1947_1947); [1995 4959](https://fedlex.data.admin.ch/eli/oc/1995/4959_4959_4959)n. II 2, [1996 2129](https://fedlex.data.admin.ch/eli/oc/1996/2129_2129_2129); [2000 107](https://fedlex.data.admin.ch/eli/oc/2000/26), [934](https://fedlex.data.admin.ch/eli/oc/2000/140), [2894](https://fedlex.data.admin.ch/eli/oc/2000/504); [2001 3294](https://fedlex.data.admin.ch/eli/oc/2001/490)n. II 7, [2005 601](https://fedlex.data.admin.ch/eli/oc/2005/68)all. 7 n. 3 [2885](https://fedlex.data.admin.ch/eli/oc/2005/473)all. n. 7, [2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)all. 4 n. 44 [5651](https://fedlex.data.admin.ch/eli/oc/2007/778), [2008 3153](https://fedlex.data.admin.ch/eli/oc/2008/417)art. 10 n. 2 [5747](https://fedlex.data.admin.ch/eli/oc/2008/794)all. n. 22, [2010 5191](https://fedlex.data.admin.ch/eli/oc/2010/748)art. 20 n. 4 [5395](https://fedlex.data.admin.ch/eli/oc/2010/765)all. 2 n. II 3, [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752)n. I 2.[7](https://fedlex.data.admin.ch/eli/oc/2011/4), [2012 7065](https://fedlex.data.admin.ch/eli/oc/2012/857)n. I 5 [7157](https://fedlex.data.admin.ch/eli/oc/2012/866), [2013 3041](https://fedlex.data.admin.ch/eli/oc/2013/594)n. I 5 [3407](https://fedlex.data.admin.ch/eli/oc/2013/643)all. 6 n. 3]
+[^105-1]: [[RU 1994 1947](https://fedlex.data.admin.ch/eli/oc/1994/1947_1947_1947); [1995 4959](https://fedlex.data.admin.ch/eli/oc/1995/4959_4959_4959)cifra II n. 2, [1996 2129](https://fedlex.data.admin.ch/eli/oc/1996/2129_2129_2129); [2000 107](https://fedlex.data.admin.ch/eli/oc/2000/26), [934](https://fedlex.data.admin.ch/eli/oc/2000/140), [2894](https://fedlex.data.admin.ch/eli/oc/2000/504); [2001 3294](https://fedlex.data.admin.ch/eli/oc/2001/490)cifra II n. 7, [2005 601](https://fedlex.data.admin.ch/eli/oc/2005/68)all. 7 n. 3 [2885](https://fedlex.data.admin.ch/eli/oc/2005/473)all. n. 7, [2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)all. 4 n. 44 [5651](https://fedlex.data.admin.ch/eli/oc/2007/778), [2008 3153](https://fedlex.data.admin.ch/eli/oc/2008/417)art. 10 n. 2 [5747](https://fedlex.data.admin.ch/eli/oc/2008/794)all. n. 22, [2010 5191](https://fedlex.data.admin.ch/eli/oc/2010/748)art. 20 n. 4 [5395](https://fedlex.data.admin.ch/eli/oc/2010/765)all. 2 cifra II n. 3, [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752)cifra I n. 2.[7](https://fedlex.data.admin.ch/eli/oc/2011/4), [2012 7065](https://fedlex.data.admin.ch/eli/oc/2012/857)n. I 5 [7157](https://fedlex.data.admin.ch/eli/oc/2012/866), [2013 3041](https://fedlex.data.admin.ch/eli/oc/2013/594)cifra I n. 5 [3407](https://fedlex.data.admin.ch/eli/oc/2013/643)all. 6 n. 3]
 
 #### Art. 106
 
@@ -1786,7 +1794,7 @@ L’immissione di scorie radioattive contenenti radio arricchito tecnicamente è
 
 **Riciclaggio con l’approvazione dell’autorità preposta al rilascio delle licenze**
 
-- [tab] L’autorità preposta al rilascio delle licenze può stabilire requisiti per il riciclaggio di scorie radioattive, in particolare metalli, con un’attività specifica pari al massimo a dieci volte il livello di allontanamento, se è possibile assicurare che i materiali risultanti dal riciclaggio pianificato non raggiungano il livello di allontanamento.
+L’autorità preposta al rilascio delle licenze può stabilire requisiti per il riciclaggio di scorie radioattive, in particolare metalli, con un’attività specifica pari al massimo a dieci volte il livello di allontanamento, se è possibile assicurare che i materiali risultanti dal riciclaggio pianificato non raggiungano il livello di allontanamento.
 
 #### Art. 116
 
@@ -1825,7 +1833,7 @@ Durante il tempo di decadimento, le scorie di cui ai capoversi 1 e 2 devono esse
 
 <sup>5</sup> L’autorità preposta al rilascio delle licenze stabilisce i requisiti tecnici per i depositi di decadimento e per le attività a essi connesse.[^117-1]
 
-[^117-1]: Introdotto dal n. II dell’O del 7 dic. 2018, in vigore dal 1° feb. 2019 ([RU 2019 183](https://fedlex.data.admin.ch/eli/oc/2019/27)).
+[^117-1]: Introdotto dalla cifra II dell’O del 7 dic. 2018, in vigore dal 1° feb. 2019 ([RU 2019 183](https://fedlex.data.admin.ch/eli/oc/2019/27)).
 
 #### Art. 118
 
@@ -2039,7 +2047,7 @@ Un’emergenza è un incidente secondo l’articolo 122 o un altro evento che co
 <sup>2</sup> Lo Stato maggiore federale Protezione della popolazione (SMFP), competente in caso di eventi di portata nazionale rilevanti per la protezione della popolazione secondo l’articolo 2 capoverso 1 dell’ordinanza del 2 marzo 2018[^133-1] sullo Stato maggiore federale Protezione della popolazione (OSMFP), può, in situazioni specifiche, chiedere al Consiglio federale l’applicazione di un livello di riferimento inferiore.[^133-2]
 
 [^133-1]: [RS 520.17](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7601)
-[^133-2]: Nuovo testo giusta il n. II 4 dell’all. 3 all’O del 2 mar. 2018 sullo Stato maggiore federale Protezione della popolazione, in vigore dal 1° apr. 2018 ([RU 2018 1093](https://fedlex.data.admin.ch/eli/oc/2018/162)).
+[^133-2]: Nuovo testo giusta la cifra II n. 4 dell’all. 3 all’O del 2 mar. 2018 sullo Stato maggiore federale Protezione della popolazione, in vigore dal 1° apr. 2018 ([RU 2018 1093](https://fedlex.data.admin.ch/eli/oc/2018/162)).
 
 #### Art. 134
 
@@ -2051,7 +2059,7 @@ Un’emergenza è un incidente secondo l’articolo 122 o un altro evento che co
 
 <sup>3</sup> Per salvare vite umane, evitare gravi danni alla salute provocati da radiazioni o impedire catastrofi, si applica un livello di riferimento pari a 250 mSv all’anno.
 
-[^134-1]: Nuova espr. giusta il n. II 4 dell’all. 3 all’O del 2 mar. 2018 sullo Stato maggiore federale Protezione della popolazione, in vigore dal 1° apr. 2018 ([RU 2018 1093](https://fedlex.data.admin.ch/eli/oc/2018/162)). Di detta mod. é tenuto conto in tutto il presente testo.
+[^134-1]: Nuova espr. giusta la cifra II n. 4 dell’all. 3 all’O del 2 mar. 2018 sullo Stato maggiore federale Protezione della popolazione, in vigore dal 1° apr. 2018 ([RU 2018 1093](https://fedlex.data.admin.ch/eli/oc/2018/162)). Di detta mod. é tenuto conto in tutto il presente testo.
 
 ### Capitolo 2: Misure preparatorie
 
@@ -2071,8 +2079,8 @@ Un’emergenza è un incidente secondo l’articolo 122 o un altro evento che co
 
 <sup>6</sup> L’UFSP e l’IFSN elaborano insieme alla CENAL i metodi e i modelli per l’accertamento delle dosi di radiazione.
 
-[^135-1]: <sup>[</sup>[RU 2007 4953](https://fedlex.data.admin.ch/eli/oc/2007/690); [2010 5395](https://fedlex.data.admin.ch/eli/oc/2010/765)all. 2 n. II 2, [2018 1093](https://fedlex.data.admin.ch/eli/oc/2018/162)all. 3 n. II 2 [4953](https://fedlex.data.admin.ch/eli/oc/2018/780)all. 5 n. II 2. [RU 2021 5087](https://fedlex.data.admin.ch/eli/oc/2021/5087)all. 3 n. I 3]
-[^135-2]: [<sup>RS</sup> <sup>520.17</sup>](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7601).Nuova espr. giusta il n. II 4 dell’all. 3 all’O del 2 mar. 2018 sullo Stato maggiore federale Protezione della popolazione, in vigore dal 1° apr. 2018 ([RU 2018 1093](https://fedlex.data.admin.ch/eli/oc/2018/162)). Di detta mod. é tenuto conto in tutto il presente testo.
+[^135-1]: <sup>[</sup>[RU 2007 4953](https://fedlex.data.admin.ch/eli/oc/2007/690); [2010 5395](https://fedlex.data.admin.ch/eli/oc/2010/765)all. 2 cifra II n. 2, [2018 1093](https://fedlex.data.admin.ch/eli/oc/2018/162)all. 3 cifra II n. 2 [4953](https://fedlex.data.admin.ch/eli/oc/2018/780)all. 5 cifra II n. 2. [RU 2021 5087](https://fedlex.data.admin.ch/eli/oc/2021/5087)all. 3 cifra I n. 3]
+[^135-2]: [<sup>RS</sup> <sup>520.17</sup>](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7601).Nuova espr. giusta la cifra II n. 4 dell’all. 3 all’O del 2 mar. 2018 sullo Stato maggiore federale Protezione della popolazione, in vigore dal 1° apr. 2018 ([RU 2018 1093](https://fedlex.data.admin.ch/eli/oc/2018/162)). Di detta mod. é tenuto conto in tutto il presente testo.
 
 #### Art. 136
 
@@ -2084,8 +2092,8 @@ Un’emergenza è un incidente secondo l’articolo 122 o un altro evento che co
 
 <sup>3</sup> Per il preallarme o l’allarme e per la preparazione e l’esecuzione dei provvedimenti protettivi in caso di aumento della radioattività in prossimità di impianti nucleari si applicano l’ordinanza del 20 ottobre 2010[^136-1] sulla protezione d’emergenza e l’ordinanza del 18 agosto 2010[^136-2] sull’allarme.
 
-[^136-1]: [[RU 2010 5191](https://fedlex.data.admin.ch/eli/oc/2010/748); [2018 4335](https://fedlex.data.admin.ch/eli/oc/2018/701). [RU 2018 4953](https://fedlex.data.admin.ch/eli/oc/2018/780)all. 5 n. I]. Vedi ora l’O del 14 nov. 2018 ([RS 732.33](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8554)).
-[^136-2]: [[RU 2010 5179](https://fedlex.data.admin.ch/eli/oc/2010/746), [5191](https://fedlex.data.admin.ch/eli/oc/2010/748)art. 20 n. 2, [2013 4475](https://fedlex.data.admin.ch/eli/oc/2013/791); [2017 605](https://fedlex.data.admin.ch/eli/oc/2017/103); [2018 4953](https://fedlex.data.admin.ch/eli/oc/2018/780)all. 5 n. II 1. [RU 2020 5087](https://fedlex.data.admin.ch/eli/oc/2020/889)all. 3 n. I 1]. Vedi ora l’O dell’11 nov. 2020 sulla protezione della popolazione ( [RS 520.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7593)).
+[^136-1]: [[RU 2010 5191](https://fedlex.data.admin.ch/eli/oc/2010/748); [2018 4335](https://fedlex.data.admin.ch/eli/oc/2018/701). [RU 2018 4953](https://fedlex.data.admin.ch/eli/oc/2018/780)all. 5 cifra I]. Vedi ora l’O del 14 nov. 2018 ([RS 732.33](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8554)).
+[^136-2]: [[RU 2010 5179](https://fedlex.data.admin.ch/eli/oc/2010/746), [5191](https://fedlex.data.admin.ch/eli/oc/2010/748)art. 20 n. 2, [2013 4475](https://fedlex.data.admin.ch/eli/oc/2013/791); [2017 605](https://fedlex.data.admin.ch/eli/oc/2017/103); [2018 4953](https://fedlex.data.admin.ch/eli/oc/2018/780)all. 5 cifra II n. 1. [RU 2020 5087](https://fedlex.data.admin.ch/eli/oc/2020/889)all. 3 cifra I n. 1]. Vedi ora l’O dell’11 nov. 2020 sulla protezione della popolazione ( [RS 520.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7593)).
 
 ### Capitolo 3: Gestione
 
@@ -2112,7 +2120,7 @@ L’autorità di vigilanza provvede a informare tempestivamente sulle emergenze 
 <sup>2</sup> Per il calcolo semplificato delle dosi si applicano i fattori di dose di cui agli allegati 5 e 6.
 
 [^139-1]: [RS 520.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7593)
-[^139-2]: Nuovo testo giusta l’all. 3 n. II 8 dell’O dell’11 nov. 2020 sulla protezione della popolazione, in vigore dal 1° gen. 2021 ([RU 2020 5087](https://fedlex.data.admin.ch/eli/oc/2020/889)).
+[^139-2]: Nuovo testo giusta l’all. 3 cifra II n. 8 dell’O dell’11 nov. 2020 sulla protezione della popolazione, in vigore dal 1° gen. 2021 ([RU 2020 5087](https://fedlex.data.admin.ch/eli/oc/2020/889)).
 
 #### Art. 140
 
@@ -2127,7 +2135,7 @@ L’autorità di vigilanza provvede a informare tempestivamente sulle emergenze 
 <sup>4</sup> Fornisce consulenza allo SMFP nella disposizione di provvedimenti per la protezione della salute della popolazione.
 
 [^140-1]: [<sup>RS</sup> <sup>520.17</sup>](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7601)
-[^140-2]: <sup>[</sup>[RU 2007 4953](https://fedlex.data.admin.ch/eli/oc/2007/690); [2010 5395](https://fedlex.data.admin.ch/eli/oc/2010/765)all. 2 n. II 2, [2018 1093](https://fedlex.data.admin.ch/eli/oc/2018/162)all. 3 n. II 2 [4953](https://fedlex.data.admin.ch/eli/oc/2018/780)all. 5 n. II 2. [RU 2021 5087](https://fedlex.data.admin.ch/eli/oc/2021/5087)all. 3 n. I 3]
+[^140-2]: <sup>[</sup>[RU 2007 4953](https://fedlex.data.admin.ch/eli/oc/2007/690); [2010 5395](https://fedlex.data.admin.ch/eli/oc/2010/765)all. 2 cifra II n. 2, [2018 1093](https://fedlex.data.admin.ch/eli/oc/2018/162)all. 3 cifra II n. 2 [4953](https://fedlex.data.admin.ch/eli/oc/2018/780)all. 5 cifra II n. 2. [RU 2021 5087](https://fedlex.data.admin.ch/eli/oc/2021/5087)all. 3 cifra I n. 3]
 
 #### Art. 141
 
@@ -2231,8 +2239,6 @@ Fanno parte dell’equipaggiamento necessario, in particolare:
 ### Sezione 1: Definizione
 
 #### Art. 149
-
-<sup>1</sup>
 
 Sono radiologicamente contaminati:
 
@@ -2429,7 +2435,7 @@ L’UFSP può mettere a disposizione di terzi i dati della banca dati sul radon 
 - b. i dati non sono trasmessi a terzi;
 - c. se i risultati sono pubblicati, ciò avviene in forma completamente anonimizzata.
 
-[^162-1]: [[RU 2000 1555](https://fedlex.data.admin.ch/eli/oc/2000/239); [2004 3367](https://fedlex.data.admin.ch/eli/oc/2004/432); [2005 3381](https://fedlex.data.admin.ch/eli/oc/2005/490); [2007 3399](https://fedlex.data.admin.ch/eli/oc/2007/413), [6719](https://fedlex.data.admin.ch/eli/oc/2007/868)all. n. 7, [2012 4707](https://fedlex.data.admin.ch/eli/oc/2012/570); [RU 2017 3459](https://fedlex.data.admin.ch/eli/oc/2017/376)all. 2 n. I]. Vedo ora l’O del 9 giu. 2017 ([RS 431.841](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7029)).
+[^162-1]: [[RU 2000 1555](https://fedlex.data.admin.ch/eli/oc/2000/239); [2004 3367](https://fedlex.data.admin.ch/eli/oc/2004/432); [2005 3381](https://fedlex.data.admin.ch/eli/oc/2005/490); [2007 3399](https://fedlex.data.admin.ch/eli/oc/2007/413), [6719](https://fedlex.data.admin.ch/eli/oc/2007/868)all. n. 7, [2012 4707](https://fedlex.data.admin.ch/eli/oc/2012/570); [RU 2017 3459](https://fedlex.data.admin.ch/eli/oc/2017/376)all. 2 cifra I]. Vedo ora l’O del 9 giu. 2017 ([RS 431.841](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7029)).
 
 ### Sezione 2: Misure preventive di protezione contro il radon e misurazioni del radon
 
@@ -2785,7 +2791,7 @@ L’IFSN vigila su:
 <sup>5</sup> Le autorità di vigilanza coordinano l’esecuzione della vigilanza e si accordano tra di loro in caso di dubbio circa la competenza. A tale fine si riuniscono periodicamente.
 
 [^184-1]: [RS 732.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8531)
-[^184-2]: Introdotta dal n. II dell’O del 7 dic. 2018, in vigore dal 1° feb. 2019 ([RU 2019 183](https://fedlex.data.admin.ch/eli/oc/2019/27)).
+[^184-2]: Introdotta dalla cifra II dell’O del 7 dic. 2018, in vigore dal 1° feb. 2019 ([RU 2019 183](https://fedlex.data.admin.ch/eli/oc/2019/27)).
 
 #### Art. 185
 
@@ -2985,7 +2991,7 @@ Presta consulenza al Consiglio federale, al DFI, al DATEC, al DDPS, all’IFSN, 
 
 L’ordinanza del 22 giugno 1994[^200-1] sulla radioprotezione è abrogata.
 
-[^200-1]: [[RU 1994 1947](https://fedlex.data.admin.ch/eli/oc/1994/1947_1947_1947); [1995 4959](https://fedlex.data.admin.ch/eli/oc/1995/4959_4959_4959)n. II 2, [1996 2129](https://fedlex.data.admin.ch/eli/oc/1996/2129_2129_2129); [2000 107](https://fedlex.data.admin.ch/eli/oc/2000/26), [934](https://fedlex.data.admin.ch/eli/oc/2000/140), [2894](https://fedlex.data.admin.ch/eli/oc/2000/504); [2001 3294](https://fedlex.data.admin.ch/eli/oc/2001/490)n. II 7, [2005 601](https://fedlex.data.admin.ch/eli/oc/2005/68)all. 7 n. 3 [2885](https://fedlex.data.admin.ch/eli/oc/2005/473)all. n. 7, [2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)all. 4 n. 44 [5651](https://fedlex.data.admin.ch/eli/oc/2007/778), [2008 3153](https://fedlex.data.admin.ch/eli/oc/2008/417)art. 10 n. 2 [5747](https://fedlex.data.admin.ch/eli/oc/2008/794)all. n. 22, [2010 5191](https://fedlex.data.admin.ch/eli/oc/2010/748)art. 20 n. 4 [5395](https://fedlex.data.admin.ch/eli/oc/2010/765)all. 2 n. II 3, [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752)n. I 2.[7](https://fedlex.data.admin.ch/eli/oc/2011/4), [2012 7065](https://fedlex.data.admin.ch/eli/oc/2012/857)n. I 5 [7157](https://fedlex.data.admin.ch/eli/oc/2012/866), [2013 3041](https://fedlex.data.admin.ch/eli/oc/2013/594)n. I 5 [3407](https://fedlex.data.admin.ch/eli/oc/2013/643)all. 6 n. 3]
+[^200-1]: [[RU 1994 1947](https://fedlex.data.admin.ch/eli/oc/1994/1947_1947_1947); [1995 4959](https://fedlex.data.admin.ch/eli/oc/1995/4959_4959_4959)cifra II n. 2, [1996 2129](https://fedlex.data.admin.ch/eli/oc/1996/2129_2129_2129); [2000 107](https://fedlex.data.admin.ch/eli/oc/2000/26), [934](https://fedlex.data.admin.ch/eli/oc/2000/140), [2894](https://fedlex.data.admin.ch/eli/oc/2000/504); [2001 3294](https://fedlex.data.admin.ch/eli/oc/2001/490)cifra II n. 7, [2005 601](https://fedlex.data.admin.ch/eli/oc/2005/68)all. 7 n. 3 [2885](https://fedlex.data.admin.ch/eli/oc/2005/473)all. n. 7, [2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)all. 4 n. 44 [5651](https://fedlex.data.admin.ch/eli/oc/2007/778), [2008 3153](https://fedlex.data.admin.ch/eli/oc/2008/417)art. 10 n. 2 [5747](https://fedlex.data.admin.ch/eli/oc/2008/794)all. n. 22, [2010 5191](https://fedlex.data.admin.ch/eli/oc/2010/748)art. 20 n. 4 [5395](https://fedlex.data.admin.ch/eli/oc/2010/765)all. 2 cifra II n. 3, [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752)cifra I n. 2.[7](https://fedlex.data.admin.ch/eli/oc/2011/4), [2012 7065](https://fedlex.data.admin.ch/eli/oc/2012/857)n. I 5 [7157](https://fedlex.data.admin.ch/eli/oc/2012/866), [2013 3041](https://fedlex.data.admin.ch/eli/oc/2013/594)cifra I n. 5 [3407](https://fedlex.data.admin.ch/eli/oc/2013/643)all. 6 n. 3]
 
 #### Art. 201
 
@@ -3970,12 +3976,12 @@ Miscele di nuclidi
 - **Nel caso delle miscele di nuclidi, alle colonne 9, 11 e 12 si applica la regola dell’addizione:**
 - Regola per il controllo dell’osservanza dei limiti di attività per le miscele di nuclidi, ponderando i vari nuclidi in funzione della loro pericolosità. Se sono soddisfatte le disequazioni seguenti, le miscele si situano al di sotto del livello di allontanamento o del vincolo per la contaminazione superficiale.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/502/20220101/it/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/502/20260701/it/xml/image/image1.png)
 
 - *a*<sub>1</sub>, *a*<sub>2</sub>, ... *a*<sub>n</sub>: attività specifiche dei nuclidi 1, 2, ..., n in Bq/g.
 - *LL*<sub>1</sub>, *LL*<sub>2</sub>, ... *LL*<sub>n</sub>: livelli di allontanamento dei nuclidi 1, 2, ..., n in Bq/g secondo l’allegato 3 colonna 9.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/502/20220101/it/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/502/20260701/it/xml/image/image2.png)
 
 - *c*<sub>1</sub>, *c*<sub>2</sub>, ... *c*<sub>n</sub>: valori di contaminazione dei nuclidi 1, 2, ..., n in Bq/cm<sup>2</sup>.
 - *CS*<sub>1</sub>, *CS*<sub>2</sub>, ... *CS*<sub>n</sub>: vincolo per la contaminazione superficiale dei nuclidi 1, 2, ..., n in Bq/cm<sup>2</sup> secondo l’allegato 3 colonna 12.
@@ -4010,7 +4016,7 @@ Sulla nota [2] Inclusione di nuclidi figli nel calcolo del livello di allontanam
 <tr><td>Zr-97</td><td>-&gt; Nb-97</td><td>Te-132</td><td>-&gt; I-132</td><td>Hg-194</td><td>-&gt; Au-194</td><td>U-240</td><td>-&gt; Np-240</td><td></td><td></td></tr>
 </table>
 
-[^annex3-lvlu1-lvlu1-1]: [[RU 1994 1947](https://fedlex.data.admin.ch/eli/oc/1994/1947_1947_1947); [1995 4959](https://fedlex.data.admin.ch/eli/oc/1995/4959_4959_4959)n. II 2, [1996 2129](https://fedlex.data.admin.ch/eli/oc/1996/2129_2129_2129); [2000 107](https://fedlex.data.admin.ch/eli/oc/2000/26), [934](https://fedlex.data.admin.ch/eli/oc/2000/140), [2894](https://fedlex.data.admin.ch/eli/oc/2000/504); [2001 3294](https://fedlex.data.admin.ch/eli/oc/2001/490)n. II 7, [2005 601](https://fedlex.data.admin.ch/eli/oc/2005/68)all. 7 n. 3 [2885](https://fedlex.data.admin.ch/eli/oc/2005/473)all. n. 7, [2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)all. 4 n. 44 [5651](https://fedlex.data.admin.ch/eli/oc/2007/778), [2008 3153](https://fedlex.data.admin.ch/eli/oc/2008/417)art. 10 n. 2 [5747](https://fedlex.data.admin.ch/eli/oc/2008/794)all. n. 22, [2010 5191](https://fedlex.data.admin.ch/eli/oc/2010/748)art. 20 n. 4 [5395](https://fedlex.data.admin.ch/eli/oc/2010/765)all. 2 n. II 3, [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752)n. I 2.[7](https://fedlex.data.admin.ch/eli/oc/2011/4), [2012 7065](https://fedlex.data.admin.ch/eli/oc/2012/857)n. I 5 [7157](https://fedlex.data.admin.ch/eli/oc/2012/866), [2013 3041](https://fedlex.data.admin.ch/eli/oc/2013/594)n. I 5 [3407](https://fedlex.data.admin.ch/eli/oc/2013/643)all. 6 n. 3]
+[^annex3-lvlu1-lvlu1-1]: [[RU 1994 1947](https://fedlex.data.admin.ch/eli/oc/1994/1947_1947_1947); [1995 4959](https://fedlex.data.admin.ch/eli/oc/1995/4959_4959_4959)cifra II n. 2, [1996 2129](https://fedlex.data.admin.ch/eli/oc/1996/2129_2129_2129); [2000 107](https://fedlex.data.admin.ch/eli/oc/2000/26), [934](https://fedlex.data.admin.ch/eli/oc/2000/140), [2894](https://fedlex.data.admin.ch/eli/oc/2000/504); [2001 3294](https://fedlex.data.admin.ch/eli/oc/2001/490)cifra II n. 7, [2005 601](https://fedlex.data.admin.ch/eli/oc/2005/68)all. 7 n. 3 [2885](https://fedlex.data.admin.ch/eli/oc/2005/473)all. n. 7, [2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)all. 4 n. 44 [5651](https://fedlex.data.admin.ch/eli/oc/2007/778), [2008 3153](https://fedlex.data.admin.ch/eli/oc/2008/417)art. 10 n. 2 [5747](https://fedlex.data.admin.ch/eli/oc/2008/794)all. n. 22, [2010 5191](https://fedlex.data.admin.ch/eli/oc/2010/748)art. 20 n. 4 [5395](https://fedlex.data.admin.ch/eli/oc/2010/765)all. 2 cifra II n. 3, [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752)cifra I n. 2.[7](https://fedlex.data.admin.ch/eli/oc/2011/4), [2012 7065](https://fedlex.data.admin.ch/eli/oc/2012/857)n. I 5 [7157](https://fedlex.data.admin.ch/eli/oc/2012/866), [2013 3041](https://fedlex.data.admin.ch/eli/oc/2013/594)cifra I n. 5 [3407](https://fedlex.data.admin.ch/eli/oc/2013/643)all. 6 n. 3]
 
 Allegato 4
 
@@ -4024,23 +4030,23 @@ Allegato 4
 
 Grandezza di dose fondamentale, definita dal rapporto:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/502/20220101/it/xml/image/image3.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/502/20260701/it/xml/image/image3.png)
 
-dove ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/502/20220101/it/xml/image/image4.png) è l’energia media trasferita dalle radiazioni ionizzanti alla materia della massa *dm*. L’unità SI di dose assorbita è il joule diviso chilogrammo (J/kg) e il suo nome specifico è Gray (Gy).
+dove ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/502/20260701/it/xml/image/image4.png) è l’energia media trasferita dalle radiazioni ionizzanti alla materia della massa *dm*. L’unità SI di dose assorbita è il joule diviso chilogrammo (J/kg) e il suo nome specifico è Gray (Gy).
 
 ### 1.2 Dose assorbita media *D*<sub>T</sub> in un tessuto o in un organo (mean absorbed dose in a tissue or organ)
 
 Dose assorbita media *D*<sub>T</sub> in un tessuto o in un organo T, data da:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/502/20220101/it/xml/image/image5.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/502/20260701/it/xml/image/image5.png)
 
-dove ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/502/20220101/it/xml/image/image6.png) è l’energia media trasferita a un tessuto o a un organo T e ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/502/20220101/it/xml/image/image7.png) la massa di questo tessuto od organo.
+dove ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/502/20260701/it/xml/image/image6.png) è l’energia media trasferita a un tessuto o a un organo T e ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/502/20260701/it/xml/image/image7.png) la massa di questo tessuto od organo.
 
 ### 1.3 Dose equivalente *H*<sub>T</sub> (equivalent dose)
 
 Dose in un tessuto o in un organo T, data da:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/502/20220101/it/xml/image/image8.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/502/20260701/it/xml/image/image8.png)
 
 dove *D*<sub>T.R</sub> è la dose assorbita media dovuta alla radiazione R in un tessuto o in un organo T e *w*<sub>R</sub> il fattore di ponderazione della radiazione. Poiché *w*<sub>R</sub> è adimensionale, l’unità della dose equivalente è la stessa della dose assorbita, ossia il J/kg, e il suo nome specifico è il sievert (Sv).
 
@@ -4063,7 +4069,7 @@ Integrale rispetto al tempo dell’intensità di dose equivalente in un determin
 
 Somma delle dosi equivalenti ponderate di tutti i tessuti e gli organi del corpo indicati, data dall’espressione:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/502/20220101/it/xml/image/image9.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/502/20260701/it/xml/image/image9.png)
 
 dove *H*<sub>T</sub> o *w*<sub>R</sub>*D*<sub>T.R</sub> è la dose equivalente nel tessuto o nell’organo T e *w*<sub>T</sub> il fattore di ponderazione dei tessuti. L’unità della dose efficace è la stessa della dose assorbita, ossia il J/kg e il suo nome specifico è il sievert (Sv).
 
@@ -4095,6 +4101,9 @@ Somma dei prodotti delle dosi impegnate negli organi e dei relativi fattori di p
 ### 1.9 Equivalente di dose *H* (dose equivalent)
 
 - 1\.9.1 Prodotto tra *D* e *Q* in un punto del tessuto, dove *D* è la dose assorbita nel tessuto molle ICRU e *Q* il fattore di qualità per la radiazione osservata in quel punto, quindi:
+
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/502/20260701/it/xml/image/image10.png)
+
 - 1\.9.2 L’unità dell’equivalente di dose è il joule per chilogrammo (J/kg) e il suo nome specifico è il sievert (Sv). Riguardo alle relative grandezze di misura, si veda l’equivalente di dose individuale e l’equivalente di dose ambientale.
 
 ### 1.10 Dose ambientale
@@ -4124,7 +4133,7 @@ Sfera del diametro di 30 cm, con una densità di 1 g/cm<sup>3</sup> e la seguent
 
 - 1\.15.1 Fattore che designa l’efficacia biologica di una radiazione sulla base della densità di ionizzazione lungo le tracce di particelle cariche nel tessuto. *Q* è definito come una funzione del trasferimento lineare di energia LET (*L* in keV/µm) illimitato di particelle cariche nell’acqua:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/502/20220101/it/xml/image/image11.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/502/20260701/it/xml/image/image11.png)
 
 - 1\.15.2 Nella definizione delle dosi equivalenti, *Q* è stato sostituito dal fattore di ponderazione della radiazione *w*<sub>R</sub>. *Q* continua tuttavia a essere utilizzato per la definizione dell’equivalente di dose.
 
@@ -4514,7 +4523,7 @@ Limiti di immissione per l’aria (*LI*<sub>aria</sub>):
 
 - 1\.3 I limiti di immissione per l’aria per altri radionuclidi possono essere calcolati con la seguente formula:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/502/20220101/it/xml/image/image12.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/502/20260701/it/xml/image/image12.png)
 
 - dove *e*<sub>inal,inf</sub>, *e*<sub>inal,10a</sub> ed *e*<sub>ing,ad</sub> [mSv/Bq] è il coefficiente di dose per l’inalazione per i bambini nella prima infanzia, i bambini di 10 anni o gli adulti ed *e*<sub>imm</sub> [(mSv/h)/(Bq/m<sup>3</sup>)] è il coefficiente di dose per l’immersione (non legato all’età). I fattori di dose per inalazione e immersione provengono dagli allegati 5 e 6.
 - Per l’immersione è stato impiegato un fattore di schermatura (*F*<sub>scher</sub>) di 0,4 per una permanenza parziale nell’edificio.
@@ -4556,7 +4565,7 @@ Limiti di immissione per le acque(*LI*<sub>acque</sub>):
 
 - 2\.3 I limiti di immissione per le acque per altri radionuclidi possono essere calcolati con la seguente formula:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/502/20220101/it/xml/image/image13.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/502/20260701/it/xml/image/image13.png)
 
 - dove *e*<sub>ing,inf</sub>, *e*<sub>ing,10a</sub> ed *e*<sub>ing,ad</sub> [mSv/Bq] è il coefficiente di dose per l’ingestione per bambini nella prima infanzia, bambini di 10 anni d’età o adulti e *CA*<sub>inf</sub>, *CA*<sub>10a</sub>, *CA*<sub>ad</sub> è il consumo di acqua potabile in litri all’anno [l/a] per bambini nella prima infanzia, bambini di 10 anni o adulti.
 - Per il consumo di acqua potabile sono stati calcolati 650 l per adulti e bambini di 10 anni e 250 l per i bambini nella prima infanzia. I fattori di dose per ingestione provengono dall’allegato 5.
@@ -4567,12 +4576,12 @@ Nel caso delle miscele di nuclidi, per i limiti di immissione per l’aria o per
 
 - Regola per il controllo dell’osservanza dei limiti di immissione per l’aria o per le acque per le miscele di nuclidi, ponderando i vari nuclidi in funzione della loro pericolosità. Se sono soddisfatte le disequazioni seguenti, le miscele si situano al di sotto dei limiti di immissione.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/502/20220101/it/xml/image/image14.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/502/20260701/it/xml/image/image14.png)
 
 - *a*<sub>1</sub>, *a*<sub>2</sub>, ... *a*<sub>n</sub>: concentrazioni di attività nell’aria dei nuclidi 1, 2, ..., n in Bq/m<sup>3</sup>.
 - *LI*<sub>aria 1</sub>, *LI*<sub>aria 2</sub>, ... *LI*<sub>aria n</sub>: limitidi immissione per l’aria dei nuclidi 1, 2, ..., n in Bq/m<sup>3</sup>.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/502/20220101/it/xml/image/image15.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/502/20260701/it/xml/image/image15.png)
 
 - *a*<sub>1</sub>, *a*<sub>2</sub>, ... *a*<sub>n</sub>: concentrazioni di attività nell’acqua dei nuclidi 1, 2, ..., n in Bq/l.
 - *LI*<sub>acque 1</sub>, *LI*<sub>acque 2</sub>, ... *LI*<sub>acque n</sub>: limitidi immissione per le acque dei nuclidi 1, 2, ..., n in Bq/l.
@@ -4618,7 +4627,7 @@ Impianti (p. es. impianti a raggi X, acceleratori):
 
 ### 4. Segnale di pericolo:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/502/20220101/it/xml/image/image16.png) Rapporto tra i raggi: 1: 1,5: 5
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/502/20260701/it/xml/image/image16.png) Rapporto tra i raggi: 1: 1,5: 5
 
 Allegato 9
 
