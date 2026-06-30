@@ -4,13 +4,12 @@ number: "922.103"
 title: Standeskommissionsbeschluss über die Regulierung von Steinböcken
 short: StKB Steinböcke
 language: de
-version: 2025-07-01
-valid_until: 2026-06-30
-version_adopted: 2025-07-01
+version: 2026-07-01
+version_adopted: 2026-06-16
 adopted: 2022-02-01
 in_force: 2022-02-08
 url: "https://ai.clex.ch/app/de/texts_of_law/922.103"
-pdf: "https://ai.clex.ch/api/de/versions/2369/pdf_file"
+pdf: "https://ai.clex.ch/api/de/versions/2446/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AI. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://ai.clex.ch/api/de/versions/2369/pdf_file"
 
 (StKB Steinböcke)
 
-vom 01.02.2022 (Stand 01.07.2025)
+vom 01.02.2022 (Stand 01.07.2026)
 
 Die Standeskommission des Kantons Appenzell I.Rh.,
 
@@ -66,7 +65,7 @@ beschliesst:
 
 <sup>1</sup> Die patentälteste Jägerin oder der patentälteste Jäger darf einen Steinbock erlegen. Hierfür sind die Zulassungsbedingungen nach Art. 2 dieses Erlasses zu erfüllen.
 
-<sup>2</sup> Der Bockabschuss richtet sich nach der Abschussplanung, welche aufgrund der Populationsstruktur erstellt wird. Die Liste der patentältesten Jägerin oder des patentältesten Jägers ist dem Amt für Umwelt vom Patentjägerverein Appenzell I.Rh. jährlich bis zum 30. April zu übermitteln. Es besteht kein Anspruch auf den Abschuss eines älteren Bockes.
+<sup>2</sup> Der Bockabschuss richtet sich nach der Abschussplanung, welche aufgrund der Populationsstruktur erstellt wird. Die Liste der patentältesten Jägerin oder des patentältesten Jägers ist dem Amt für Jagd und Fischerei vom Patentjägerverein Appenzell I.Rh. jährlich bis zum 30. April zu übermitteln. Es besteht kein Anspruch auf den Abschuss eines älteren Bockes.
 
 <sup>3</sup> Bei einem Ausfall einer Jägerin oder eines Jägers kann der Abschuss von der Jagdverwaltung turnusgemäss weitergegeben werden.
 
@@ -101,7 +100,7 @@ beschliesst:
 
 **Jagd- und Schusszeiten**
 
-<sup>1</sup> Die Regulierung von Steinböcken findet zwischen dem 15. September und 20. Oktober statt.
+<sup>1</sup> Die Regulierung von Steinböcken startet zeitgleich mit der ordentlichen Hochjagd und dauert bis zum 15. Oktober.
 
 <sup>2</sup> An Sonn- und Feiertagen findet keine Jagd statt.
 
