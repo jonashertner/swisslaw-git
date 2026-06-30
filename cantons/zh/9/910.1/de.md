@@ -4,11 +4,10 @@ number: "910.1"
 title: Landwirtschaftsgesetz (LG)
 short: LG
 language: de
-version: "2021-01-01"
-nachtrag: "111"
-valid_until: 2026-07-01
+version: "2026-07-01"
+nachtrag: "133"
 adopted: 1979-09-02
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-910_1-1979_09_02-1980_01_01-111.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-910_1-1979_09_02-1980_01_01-133.html"
 text: pdf
 ---
 
@@ -44,34 +43,44 @@ A. Allgemeine Bestimmungen
 
 <sup>4</sup> Die zuständige Direktion stellt die Lehrpläne auf.
 
+**b. Internat; Ausbildungs- und Versuchsbetrieb**
+
+§ 4.[^t-6] <sup>1</sup> Die Direktion bestimmt, welche Schulen ein Internat führen; sie kann den Besuch des Internats für bestimmte Kurse obligatorisch erklären.[^t-4]
+
+<sup>2</sup> Den Berufs- und Fachschulen ist ein Ausbildungs- und Versuchsbetrieb angegliedert, der den Bedürfnissen der Schule und der praktischen Landwirtschaft dient und in diesem Rahmen rationell bewirtschaftet wird.
+
+**1**
+
+- 1\. 7. 26 - 133
+
+<sup>3</sup> Der Ausbildungs- und Versuchsbetrieb trägt durch Bildung, Forschung und Beratung dazu bei, die von der Agrarpolitik des Bundes vorgegebenen Umweltziele zu erreichen, insbesondere durch a. die Förderung der Biodiversität auf Landwirtschaftsflächen,
+
+- b. Massnahmen zur Verminderung der Treibhausgase aus der Tierhaltung,
+
+- c. Massnahmen zur Erhaltung und Verbesserung der Bodenfruchtbarkeit,
+
+- d. die Förderung von Produktionsverfahren, bei denen Pflanzenschutzmittel minimal zum Einsatz kommen.
+
+**c. Schulleitung, Lehrerschaft**
+
+§ 5.[^t-7] Der Regierungsrat oder die zuständige Direktion stellt die Schuldirektoren und die Hauptlehrer nach den Bestimmungen des Personalgesetzes[^t-8] an.
+
 [^t-1]: Fassung gemäss G über die Anpassung des kantonalen Rechts an das Partnerschaftsgesetz des Bundes vom 9. Juli 2007 (OS 62, 429; ABl 2006, 1703). In Kraft seit 1. Januar 2008.
 [^t-2]: OS 47, 257 und GS VII, 11.
 [^t-3]: Fassung gemäss G vom 28. Oktober 2013 (OS 69, 197; ABl 2012, 632). In Kraft seit 1. Mai 2014.
 [^t-4]: Fassung gemäss G über die Anpassung des kantonalen Verwaltungsverfahrensrechts vom 22. März 2010 (OS 65, 390; ABl 2009, 801). In Kraft seit 1. Juli 2010.
 [^t-5]: Aufgehoben durch Staatsbeitragsgesetz vom 1. April 1990 (OS 51, 77). In Kraft seit 1. Januar 1991 (OS 51, 350).
+[^t-6]: Fassung gemäss G vom 2. Juni 2025 (OS 81, 317; ABl 2024-11-08). In Kraft seit 1. Juli 2026. 1. 7. 26 - 133 43
+[^t-7]: Fassung gemäss G vom 27. September 1998 (OS 54, 752). In Kraft seit 1. Juli 1999 (OS 55, 62).
+[^t-8]: LS 177.10.
 
-#### § 4
-
-**b. Internat; Gutsbetrieb**
-
-<sup>1</sup> Die Direktion bestimmt, welche Schulen ein Internat führen; sie kann den Besuch des Internats für bestimmte Kurse obligatorisch erklären.[^t-4]
-
-<sup>2</sup> Den Berufs- und Fachschulen ist ein Gutsbetrieb angegliedert, der den Bedürfnissen der Schule und der praktischen Landwirtschaft zu dienen hat; er soll in diesem Rahmen rationell bewirtschaftet werden.
-
-**c. Schulleitung, Lehrerschaft**
-
-§ 5.[^4-1] Der Regierungsrat oder die zuständige Direktion stellt die Schuldirektoren und die Hauptlehrer nach den Bestimmungen des Personalgesetzes[^4-2] an.
-
-**1**
-
-- 1\. 1. 21 - 111 § 6. <sup>1</sup> Die zuständige Direktion beaufsichtigt die landwirtschaftlichen Schulen. Sie wird von den Aufsichtskommissionen unterstützt, welche vom Regierungsrat für jede Schule auf eine Amtsdauer von vier Jahren gewählt werden.
+#### § 6
 
 **d. Aufsicht**
 
-<sup>2</sup> Den Aufsichtskommissionen können weitere Aufgaben übertragen werden.
+<sup>1</sup> Die zuständige Direktion beaufsichtigt die landwirtschaftlichen Schulen. Sie wird von den Aufsichtskommissionen unterstützt, welche vom Regierungsrat für jede Schule auf eine Amtsdauer von vier Jahren gewählt werden.
 
-[^4-1]: Fassung gemäss G vom 27. September 1998 (OS 54, 752). In Kraft seit 1. Juli 1999 (OS 55, 62).
-[^4-2]: LS 177.10.
+<sup>2</sup> Den Aufsichtskommissionen können weitere Aufgaben übertragen werden.
 
 #### § 7
 
@@ -79,7 +88,7 @@ A. Allgemeine Bestimmungen
 
 Die zuständige Direktion erlässt für jede Schule eine Schulordnung.
 
-[^7-1]: Fassung gemäss G über die Anpassung der Gesetzgebung im Bereich von Ausbildungsbeiträgen (Stipendienreform) vom 27. April 2015 (OS 71, 483; ABl 2015-02-20). In Kraft seit 1. Januar 2021 (OS 75, 425). 1. 1. 21 - 111 43
+[^7-1]: Fassung gemäss G über die Anpassung der Gesetzgebung im Bereich von Ausbildungsbeiträgen (Stipendienreform) vom 27. April 2015 (OS 71, 483; ABl 2015-02-20). In Kraft seit 1. Januar 2021 (OS 75, 425).
 
 #### § 8
 
@@ -161,6 +170,10 @@ Der Regierungsrat erlässt Bestimmungen über die bäuerliche Haushaltlehre, die
 
 <sup>1</sup> Die Aufgaben der Bäuerinnenschule im Sinne der Vorschriften des Bundes obliegen den landwirtschaftlichen Haushaltungsschulen.
 
+**3**
+
+- 1\. 7. 26 - 133
+
 <sup>2</sup> Diese können besondere Kurse für Bäuerinnen durchführen, die einen Abschluss wie bei den Bäuerinnenschulen ermöglichen.
 
 <sup>3</sup> Die §§ 11, 13 und 14 gelten sinngemäss.
@@ -170,10 +183,6 @@ Der Regierungsrat erlässt Bestimmungen über die bäuerliche Haushaltlehre, die
 **Fachprüfungen**
 
 Der Regierungsrat kann Bestimmungen über die Durchführung besonderer Fachprüfungen für Bäuerinnen und über die Abgabe eines kantonalen Fachausweises erlassen.
-
-**3**
-
-- 1\. 1. 21 - 111
 
 ### D. Die Berufsbildung in den landwirtschaftlichen Spezialberufen
 
@@ -285,23 +294,23 @@ Die Gemeinden unterstützen den Kanton[^28-1] bei der Aufsicht über Beschaffung
 
 Im Kanton werden kantonale[^29-1] zentrale und regionale Viehschauen, solche von Zuchtgenossenschaften und örtliche Viehschauen sowie nach Bedarf kantonale Viehausstellungen durchgeführt.
 
-#### § 31
+**5**
+
+- 1\. 7. 26 - 133 § 31. <sup>1</sup> Der Regierungsrat wählt auf eine Amtsdauer von vier Jahren eine Schaukommission.
 
 **Schaukommission**
 
-<sup>1</sup> Der Regierungsrat wählt auf eine Amtsdauer von vier Jahren eine Schaukommission.
+<sup>2</sup> Die Beurteilung von Tieren für die Anerkennung zur Zucht, für die Aufnahme ins Herdebuch und für die Prämierung an kantonalen[^30-1] oder kantonal[^30-1] unterstützten Schauen erfolgt ausschliesslich durch Kommissionsmitglieder.
 
-<sup>2</sup> Die Beurteilung von Tieren für die Anerkennung zur Zucht, für die Aufnahme ins Herdebuch und für die Prämierung an kantonalen[^31-1] oder kantonal[^31-1] unterstützten Schauen erfolgt ausschliesslich durch Kommissionsmitglieder.
+[^30-1]: Fassung gemäss G vom 28. Oktober 2013 (OS 69, 197; ABl 2012, 632). In Kraft seit 1. Mai 2014.
 
-**5**
-
-- 1\. 1. 21 - 111 § 32. <sup>1</sup> Die Prämierung bezweckt die Förderung der Leistungszucht im Sinne der anerkannten Zuchtziele.
+#### § 32
 
 **Zuchtziel**
 
-<sup>2</sup> Die Aufnahme ins Herdebuch und die Anerkennung zur Zucht erfolgen nach den Vorschriften des Bundes.
+<sup>1</sup> Die Prämierung bezweckt die Förderung der Leistungszucht im Sinne der anerkannten Zuchtziele.
 
-[^31-1]: Fassung gemäss G vom 28. Oktober 2013 (OS 69, 197; ABl 2012, 632). In Kraft seit 1. Mai 2014.
+<sup>2</sup> Die Aufnahme ins Herdebuch und die Anerkennung zur Zucht erfolgen nach den Vorschriften des Bundes.
 
 ### B. Rindviehzucht
 
@@ -386,13 +395,13 @@ Die Gemeinden, in denen Viehschauen von Zuchtgenossenschaften oder kantonal[^37-
 
 § 41.[^39-3] Der Kanton[^39-1] kann aus dem Voranschlagskredit Subventionen gewähren a. an Gemeinden, landwirtschaftliche Organisationen oder Private, wenn sie durch besondere Leistungen oder Massnahmen zur Verbesserung der Rindviehzucht, insbesondere im Berggebiet und im angrenzenden Zuchtgebiet, beitragen,
 
+**7**
+
+- 1\. 7. 26 - 133
+
 - b. für Leistungsprüfungen, für die Prämierung von Zuchtfamilien, für die Führung der zentralen Herdebücher sowie für Ausstellungen und Ausstellungsmärkte,
 
 - c. an weitere Massnahmen und Einrichtungen zur Förderung der Rindviehzucht und des Viehabsatzes.
-
-**7**
-
-- 1\. 1. 21 - 111
 
 [^39-1]: Fassung gemäss G über die Anpassung des kantonalen Verwaltungsverfahrensrechts vom 22. März 2010 (OS 65, 390; ABl 2009, 801). In Kraft seit 1. Juli 2010.
 [^39-2]: Fassung gemäss G vom 28. Oktober 2013 (OS 69, 197; ABl 2012, 632). In Kraft seit 1. Mai 2014.
@@ -469,19 +478,15 @@ zur Verbesserung der Betriebsverhältnisse
 
 <sup>8</sup> Bei öffentlichen Bekanntmachungen und schriftlichen Mitteilungen sind die in diesem Gesetz vorgesehenen Rechtsbehelfe und -mittel, deren Fristen und notwendiger Inhalt sowie die Stelle, an die sie zu richten sind, anzugeben; ferner ist auf Ort und Zeit vorgeschriebener Auflagen hinzuweisen.
 
-[^46-1]: Aufgehoben durch Staatsbeitragsgesetz vom 1. April 1990 (OS 51, 77). In Kraft seit 1. Januar 1991 (OS 51, 350).
+**9**
 
-#### § 48
+- 1\. 7. 26 - 133 § 48. <sup>1</sup> Für die Mitwirkung der Verwaltungsbehörden bei Verhandlungen und für ihre erstinstanzlichen Entscheide werden Genossenschaften und Grundeigentümer nicht mit Kosten und Gebühren belastet.
 
 **Kostenlosigkeit des Verfahrens**
 
-<sup>1</sup> Für die Mitwirkung der Verwaltungsbehörden bei Verhandlungen und für ihre erstinstanzlichen Entscheide werden Genossenschaften und Grundeigentümer nicht mit Kosten und Gebühren belastet.
-
 <sup>2</sup> Für Amtshandlungen, die mit der Durchführung von Verbesserungsmassnahmen zusammenhängen, werden keine Notariats- und Grundbuchgebühren erhoben.
 
-**9**
-
-- 1\. 1. 21 - 111
+[^46-1]: Aufgehoben durch Staatsbeitragsgesetz vom 1. April 1990 (OS 51, 77). In Kraft seit 1. Januar 1991 (OS 51, 350).
 
 ### B. Die gemeinschaftliche Durchführung von Verbesserungs-
 
@@ -547,11 +552,11 @@ massnahmen im allgemeinen und die Unterhaltsgenossenschaften
 
 <sup>2</sup> Die Auflösung kann erst stattfinden, wenn die Genossenschaft ihre gesetzlichen und statutarischen Aufgaben erfüllt hat und der Unterhalt erstellter Anlagen sichergestellt ist.
 
-<sup>3</sup> Sie bedarf der Zustimmung der Behörde, welche die Statuten genehmigt hat.
-
 **11**
 
-- 1\. 1. 21 - 111
+- 1\. 7. 26 - 133
+
+<sup>3</sup> Sie bedarf der Zustimmung der Behörde, welche die Statuten genehmigt hat.
 
 <sup>4</sup> Genossenschaften, die ihre Aufgaben seit längerer Zeit nicht mehr erfüllen, deren Vorstand nicht mehr ordnungsgemäss bestellt ist und deren Mitgliederbestand unsicher ist, können durch den Gemeindevorstand[^53-1] mit Zustimmung der zuständigen Direktion als aufgelöst erklärt werden, sofern sich nach entsprechender Publikation keine Gläubiger und keine berechtigten oder verpflichteten Grundeigentümer melden oder diese sich ausserstande erklären, die Aufgaben der Genossenschaft weiterzuführen.
 
@@ -640,11 +645,11 @@ Die Genossenschaftsmitglieder haften unter sich solidarisch für die Verbindlich
 
 <sup>1</sup> Die Bestimmungen über die Genossenschaftsversammlung gelten vorbehältlich abweichender gesetzlicher Vorschriften sinngemäss für die Versammlungen der beteiligten Grundeigentümer, welche vor oder zur Gründung einer Genossenschaft durchzuführen sind.
 
+<sup>2</sup> Ist noch kein Vorstand bestellt, wird eine solche Versammlung vom Gemeindevorstand[^62-1] einberufen und von einer von ihm bezeichneten Person geleitet.
+
 **13**
 
-- 1\. 1. 21 - 111
-
-<sup>2</sup> Ist noch kein Vorstand bestellt, wird eine solche Versammlung vom Gemeindevorstand[^62-1] einberufen und von einer von ihm bezeichneten Person geleitet.
+- 1\. 7. 26 - 133
 
 <sup>3</sup> Erstreckt sich das Beizugsgebiet über mehrere politische Gemeinden, obliegen diese Aufgaben dem Bezirksrat.
 
@@ -722,7 +727,7 @@ Die Rechnungsrevisoren prüfen die Rechnungsführung des Vorstands. Sie müssen 
 
 **15**
 
-- 1\. 1. 21 - 111 § 70. <sup>1</sup> Die Einsprachen gemäss §§ 50, 82, 84, 87, 88, 96, 119 und 120 sowie die sich aus den Vollzugsvorschriften zu § 118 ergebenden Einsprachen werden vom Vorstand geprüft. Dieser gibt dem Einsprecher die nötigen Erläuterungen und erledigt die Einsprache soweit als möglich auf dem Wege der Verständigung.
+- 1\. 7. 26 - 133 § 70. <sup>1</sup> Die Einsprachen gemäss §§ 50, 82, 84, 87, 88, 96, 119 und 120 sowie die sich aus den Vollzugsvorschriften zu § 118 ergebenden Einsprachen werden vom Vorstand geprüft. Dieser gibt dem Einsprecher die nötigen Erläuterungen und erledigt die Einsprache soweit als möglich auf dem Wege der Verständigung.
 
 **Einsprachebehandlung durch den Vorstand**
 
@@ -795,7 +800,7 @@ Die Rechnungsrevisoren prüfen die Rechnungsführung des Vorstands. Sie müssen 
 
 **17**
 
-- 1\. 1. 21 - 111 § 80. Die zuständige Direktion stellt auf Antrag oder von sich aus, nach Anhören des Gemeindevorstands[^77-2] und nachdem sie sich von der Zweckmässigkeit des Vorhabens überzeugt hat, ein Vorprojekt auf.
+- 1\. 7. 26 - 133 § 80. Die zuständige Direktion stellt auf Antrag oder von sich aus, nach Anhören des Gemeindevorstands[^77-2] und nachdem sie sich von der Zweckmässigkeit des Vorhabens überzeugt hat, ein Vorprojekt auf.
 
 [^77-1]: Fassung gemäss G vom 28. Oktober 2013 (OS 69, 197; ABl 2012, 632). In Kraft seit 1. Mai 2014.
 [^77-2]: Fassung gemäss Gemeindegesetz vom 20. April 2015 (OS 72, 183; ABl 2013- 04-19). In Kraft seit 1. Januar 2018.
@@ -884,7 +889,7 @@ Vermessung und Bereinigung des alten Besitzstands, Boden- und Bestandesbewertung
 
 **19**
 
-- 1\. 1. 21 - 111
+- 1\. 7. 26 - 133
 
 <sup>2</sup> Nachdem die Zusammenlegung beschlossen oder angeordnet worden ist, darf das bisherige Weggebiet ohne Zustimmung des Vorstands weder veräussert noch verändert werden.
 
@@ -972,7 +977,7 @@ Vermessung und Bereinigung des alten Besitzstands, Boden- und Bestandesbewertung
 
 **21**
 
-- 1\. 1. 21 - 111
+- 1\. 7. 26 - 133
 
 - b. an die Kosten der baulichen Massnahmen einschliesslich Vermarkung 25% bis 45% der beitragsberechtigten Ausgaben. Führt eine Waldzusammenlegung zu gemeinsamer Bewirtschaftung und Benutzung, kann der Beitragssatz um 5% erhöht werden.
 
@@ -1050,7 +1055,7 @@ Sollen die Anlagen und deren Unterhalt durch die Gemeinde übernommen werden, um
 
 **23**
 
-- 1\. 1. 21 - 111 § 105. <sup>1</sup> Jede Rechtsnachfolgerin einer Zusammenlegungsgenossenschaft ist verpflichtet, innerhalb ihres Beizugsgebiets den Bau und den Unterhalt neuer gemeinschaftlicher Anlagen zu übernehmen. Sie wird Eigentümerin der Anlagen.
+- 1\. 7. 26 - 133 § 105. <sup>1</sup> Jede Rechtsnachfolgerin einer Zusammenlegungsgenossenschaft ist verpflichtet, innerhalb ihres Beizugsgebiets den Bau und den Unterhalt neuer gemeinschaftlicher Anlagen zu übernehmen. Sie wird Eigentümerin der Anlagen.
 
 **Nachträglich zu erstellende Bodenverbesserungsanlagen**
 
@@ -1143,7 +1148,7 @@ Sollen die Anlagen und deren Unterhalt durch die Gemeinde übernommen werden, um
 
 **25**
 
-- 1\. 1. 21 - 111 § 113. <sup>1</sup> Die Aufsicht über die Flurwege obliegt dem Gemeindevorstand[^112-1]. Er führt ein Flurwegverzeichnis ohne sachenrechtliche Wirkung.
+- 1\. 7. 26 - 133 § 113. <sup>1</sup> Die Aufsicht über die Flurwege obliegt dem Gemeindevorstand[^112-1]. Er führt ein Flurwegverzeichnis ohne sachenrechtliche Wirkung.
 
 **Aufsicht**
 
@@ -1226,7 +1231,7 @@ Sollen die Anlagen und deren Unterhalt durch die Gemeinde übernommen werden, um
 
 **27**
 
-- 1\. 1. 21 - 111
+- 1\. 7. 26 - 133
 
 <sup>2</sup> Wird das Grundstück des Abtretungspflichtigen durchschnitten oder wird die Bewirtschaftung in anderer Weise erschwert, ist der Minderwert angemessen zu ersetzen. Vorteile, die dem Grundstück durch die Anlage oder Verbesserung oder die Befreiung von besondern Lasten erwachsen, sind anzurechnen.
 
@@ -1293,7 +1298,7 @@ Sollen die Anlagen und deren Unterhalt durch die Gemeinde übernommen werden, um
 
 **29**
 
-- 1\. 1. 21 - 111
+- 1\. 7. 26 - 133
 
 <sup>3</sup> Bei Massnahmen im Sinne von § 123 Abs. 1 lit. f sind diese Bestimmungen nicht anwendbar.
 
@@ -1379,7 +1384,7 @@ Der Staat kann die Erneuerung und die Neupflanzung von veredelten Reben innerhal
 
 **31**
 
-- 1\. 1. 21 - 111
+- 1\. 7. 26 - 133
 
 <sup>2</sup> Zur Beratung betreffend Massnahmen im Berggebiet wählt der Regierungsrat eine Kommission. Die Gemeinden des Berggebiets sind in der Kommission angemessen vertreten.
 
@@ -1476,7 +1481,7 @@ Der mit öffentlichen Mitteln verbesserte Boden ist dauernd richtig zu bewirtsch
 
 **33**
 
-- 1\. 1. 21 - 111
+- 1\. 7. 26 - 133
 
 <sup>2</sup> Notwendige Unterhaltsarbeiten können auf Kosten des Pflichtigen vorgenommen werden.
 
@@ -1569,7 +1574,7 @@ Der Kanton[^hVierterAbschnittP-1] fördert Massnahmen gegen Schäden, welche die
 
 **35**
 
-- 1\. 1. 21 - 111 § 160. Der Regierungsrat kann Bestimmungen zum Schutz landwirtschaftlichen Bodens erlassen, dessen Ertragsfähigkeit langfristig gefährdet ist.
+- 1\. 7. 26 - 133 § 160. Der Regierungsrat kann Bestimmungen zum Schutz landwirtschaftlichen Bodens erlassen, dessen Ertragsfähigkeit langfristig gefährdet ist.
 
 [^159-1]: Fassung gemäss G vom 28. Oktober 2013 (OS 69, 197; ABl 2012, 632). In Kraft seit 1. Mai 2014.
 
@@ -1654,7 +1659,7 @@ Der Kanton[^hVierterAbschnittP-1] fördert Massnahmen gegen Schäden, welche die
 
 **37**
 
-- 1\. 1. 21 - 111
+- 1\. 7. 26 - 133
 
 <sup>2</sup> Der Kanton[^166-1] kann zur Entwicklung und Einführung umweltfreundlicher Pflanzenschutzverfahren Subventionen bis zu 75% der beitragsberechtigten Ausgaben gewähren.[^166-2]
 
@@ -1698,7 +1703,7 @@ Bei Schäden, die aufgrund von Versuchen, Erhebungen, behördlich angeordneten A
 
 [^hFünfterAbschnittF-1]: Eingefügt durch G vom 8. Dezember 1991 (OS 52, 51). In Kraft seit 1. Januar 1994 (OS 52, 558).
 [^hFünfterAbschnittF-2]: Fassung gemäss G vom 28. Oktober 2013 (OS 69, 197; ABl 2012, 632). In Kraft seit 1. Mai 2014.
-[^hFünfterAbschnittF-3]: Eingefügt durch G vom 8. Dezember 1991 (OS 52, 51). In Kraft seit 1. Januar 1990. 1. 1. 21 - 111 41
+[^hFünfterAbschnittF-3]: Eingefügt durch G vom 8. Dezember 1991 (OS 52, 51). In Kraft seit 1. Januar 1990. 1. 7. 26 - 133 41
 [^hFünfterAbschnittF-4]: Eingefügt durch G vom 8. Dezember 1991 (OS 52, 51). In Kraft seit 1. Januar 1990 (OS 52, 558).
 
 ### Sechster Abschnitt: Verschiedene Bestimmungen, Straf- und Schlussbestimmungen
@@ -1752,7 +1757,7 @@ Bei Schäden, die aufgrund von Versuchen, Erhebungen, behördlich angeordneten A
 
 **39**
 
-- 1\. 1. 21 - 111 § 176.[^171a-4] Wer obligatorisch erklärte Massnahmen zur Bekämpfung von gemeingefährlichen Krankheiten, Schädlingen oder Unkräutern nicht durchführt oder wer in diesem Zusammenhang ergangenen schriftlichen Anordnungen der Vollzugsorgane nicht nachkommt, wird durch das Statthalteramt mit Busse bestraft.
+- 1\. 7. 26 - 133 § 176.[^171a-4] Wer obligatorisch erklärte Massnahmen zur Bekämpfung von gemeingefährlichen Krankheiten, Schädlingen oder Unkräutern nicht durchführt oder wer in diesem Zusammenhang ergangenen schriftlichen Anordnungen der Vollzugsorgane nicht nachkommt, wird durch das Statthalteramt mit Busse bestraft.
 
 **Widersetzlichkeit gegen obligatorische Bekämpfungsmassnahmen**
 
