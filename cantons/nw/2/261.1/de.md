@@ -4,13 +4,12 @@ number: "261.1"
 title: Gesetz über die Gerichte und die Justizbehörden
 short: "Gerichtsgesetz, GerG"
 language: de
-version: 2026-02-01
-valid_until: 2026-06-30
-version_adopted: 2025-10-22
+version: 2026-07-01
+version_adopted: 2026-03-25
 adopted: 2010-06-09
 in_force: 2011-01-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/261.1"
-pdf: "https://gesetze.nw.ch/api/de/versions/1467/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/1515/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://gesetze.nw.ch/api/de/versions/1467/pdf_file"
 
 (Gerichtsgesetz, GerG)
 
-vom 09.06.2010 (Stand 01.02.2026)
+vom 09.06.2010 (Stand 01.07.2026)
 
 Der Landrat von Nidwalden,
 
@@ -1117,11 +1116,7 @@ beschliesst:
 
 #### Art. 93
 
-**Amtliche Sachverständige**
-
-<sup>1</sup> Für die Durchführung von Legalinspektionen gemäss Art. 253 StPO[^93-1] bei aussergewöhnlichen Todesfällen ist die Kantonsärztin oder der Kantonsarzt oder ausnahmsweise eine im Kanton zur Ausübung des Arztberufes berechtigte Person beizuziehen.
-
-[^93-1]: SR 312.0
+**…**
 
 ### 6.3.4 Zwangsmassnahmen
 
