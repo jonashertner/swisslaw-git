@@ -4,11 +4,11 @@ title: Ordonnance du DETEC du 20 novembre 2024 sur la garantie d’origine pour 
 short: OGOC
 eli: "https://fedlex.data.admin.ch/eli/cc/2024/690"
 language: fr
-version: 2025-06-01
+version: 2026-07-01
 adopted: 2024-11-20
 in_force: 2025-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/690/20250601/fr/xml/fedlex-data-admin-ch-eli-cc-2024-690-20250601-fr-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2024/690/20250601/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/690/20260701/fr/xml/fedlex-data-admin-ch-eli-cc-2024-690-20260701-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2024/690/20260701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2024/690/20250601/fr"
 
 (OGOC)
 
-du 20 novembre 2024 (État le 1<sup>er</sup> juin 2025)
+du 20 novembre 2024 (État le 1<sup>er</sup> juillet 2026)
 
 Le Département fédéral de l’environnement, des transports, de l’énergie et de la communication (DETEC),
 
@@ -25,7 +25,7 @@ vu l’art. 5 de l’ordonnance du 1<sup>er</sup> novembre 2017 sur l’énergie
 
 arrête:
 
-[^ingress-1]: [RS 730.01](https://fedlex.data.admin.ch/eli/cc/2017/763)
+[^ingress-1]: [RS 730.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8496)
 
 ## Section 1 Garantie d’origine
 
@@ -42,15 +42,16 @@ La garantie d’origine comprend au moins les indications suivantes:
 - c. agents énergétiques utilisés pour produire le combustible ou le carburant;
 - d. source de carbone utilisée pour la fabrication de combustible ou de carburant à partir d’agents énergétiques renouvelables autres que la biomasse;
 - e. période de production;
-- f. date d’établissement du certificat initial en cas d’importation de certificats étrangers pour du gaz renouvelable;
+- f.[^1-1] en cas d’importation de certificats d’origine étrangers pour du gaz renouvelable, la date d’établissement du certificat d’origine étranger initial;
 - g. émissions de gaz à effet de serre provenant de la fabrication et de l’utilisation de combustible ou de carburant;
 - h. installation de production, notamment la désignation, le lieu, la date de la mise en service ainsi que le nom et l’adresse de l’exploitant;
 - i. type d’installation, technologie de production et capacité de production;
 - j. mention si, et dans quelle mesure, le producteur a bénéficié d’une aide financière pour la production du combustible ou du carburant.
 
-<sup>2</sup> L’organe d’exécution visé à l’art. 64 de la loi du 30 septembre 2016 sur l’énergie[^1-1] (organe d’exécution) édicte des directives déterminant la forme de la garantie d’origine; il consulte au préalable les milieux concernés.
+<sup>2</sup> L’organe d’exécution visé à l’art. 64 de la loi du 30 septembre 2016 sur l’énergie[^1-2] (organe d’exécution) édicte des directives déterminant la forme de la garantie d’origine; il consulte au préalable les milieux concernés.
 
-[^1-1]: [RS 730.0](https://fedlex.data.admin.ch/eli/cc/2017/762)
+[^1-1]: Nouvelle teneur selon le ch. I de l’O du DETEC du 27 mai 2026, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2026 299](https://fedlex.data.admin.ch/eli/oc/2026/299)).
+[^1-2]: [RS 730.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8495)
 
 #### Art. 2
 
@@ -64,7 +65,7 @@ La garantie d’origine comprend au moins les indications suivantes:
 
 <sup>4</sup> Le délai de 18 mois est suspendu, sur demande, pour la durée de la procédure de décision relative à la délivrance d’attestations internationales prévue à l’art. 92*e* de l’ordonnance du 30 novembre 2012 sur le CO<sub>2</sub>[^2-1].[^2-2]
 
-[^2-1]: [RS 641.711](https://fedlex.data.admin.ch/eli/cc/2012/856)
+[^2-1]: [RS 641.711](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8149)
 [^2-2]: Introduit par le ch. I de l’O du DETEC du 3 avr. 2025, en vigueur depuis le 1<sup>er</sup> mai 2025 ([RO 2025 249](https://fedlex.data.admin.ch/eli/oc/2025/249)).
 
 #### Art. 3
@@ -89,9 +90,9 @@ Quiconque annule des garanties d’origine conformément à l’art. 4*c*, al. 1
 
 <sup>4</sup> Toute modification des données doit être annoncée immédiatement à l’organe d’exécution.
 
-[^4-1]: [RS 814.311.1](https://fedlex.data.admin.ch/eli/cc/2025/250)
+[^4-1]: [RS 814.311.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40316)
 [^4-2]: Nouvelle teneur selon le ch. I de l’O du DETEC du 3 avr. 2025, en vigueur depuis le 1<sup>er</sup> mai 2025 ([RO 2025 249](https://fedlex.data.admin.ch/eli/oc/2025/249)).
-[^4-3]: [RS 641.61](https://fedlex.data.admin.ch/eli/cc/1996/3371_3371_3371)
+[^4-3]: [RS 641.61](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8138)
 [^4-4]: Introduit par le ch. I de l’O du DETEC du 3 avr. 2025, en vigueur depuis le 1<sup>er</sup> mai 2025 ([RO 2025 249](https://fedlex.data.admin.ch/eli/oc/2025/249)).
 
 #### Art. 5
@@ -111,9 +112,9 @@ L’importateur de combustibles ou de carburants issus d’installations de prod
 <sup>3</sup> Toute modification des données doit être annoncée immédiatement à l’organe d’exécution.
 
 [^5-1]: Nouvelle teneur selon le ch. I de l’O du DETEC du 3 avr. 2025, en vigueur depuis le 1<sup>er</sup> mai 2025 ([RO 2025 249](https://fedlex.data.admin.ch/eli/oc/2025/249)).
-[^5-2]: [RS 641.61](https://fedlex.data.admin.ch/eli/cc/1996/3371_3371_3371)
+[^5-2]: [RS 641.61](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8138)
 [^5-3]: Introduite par le ch. I de l’O du DETEC du 3 avr. 2025, en vigueur depuis le 1<sup>er</sup> mai 2025 ([RO 2025 249](https://fedlex.data.admin.ch/eli/oc/2025/249)).
-[^5-4]: [RS 814.311.1](https://fedlex.data.admin.ch/eli/cc/2025/250)
+[^5-4]: [RS 814.311.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40316)
 [^5-5]: Nouvelle teneur selon le ch. I de l’O du DETEC du 3 avr. 2025, en vigueur depuis le 1<sup>er</sup> mai 2025 ([RO 2025 249](https://fedlex.data.admin.ch/eli/oc/2025/249)).
 
 ## Section 3 Saisie et annonce des données de production et des données relatives à l’importation et à l’exportation
@@ -163,16 +164,20 @@ Le producteur de biogaz qui dispose d’un compteur d’énergie thermique annon
 
 <sup>3</sup> Si des agents énergétiques primaires ou fossiles sont utilisés pour produire le combustible ou le carburant, le producteur en annonce les quantités à l’organe d’exécution.
 
-[^7-1]: [RS 431.011](https://fedlex.data.admin.ch/eli/cc/1993/2093_2093_2093)
+[^7-1]: [RS 431.011](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6947)
 [^7-2]: Nouvelle teneur selon le ch. I de l’O du DETEC du 3 avr. 2025, en vigueur depuis le 1<sup>er</sup> juin 2025 ([RO 2025 249](https://fedlex.data.admin.ch/eli/oc/2025/249)).
 
-## Section 4 Transfert de garanties d’origine étrangères pour du gaz renouvelable et d’autres certificats étrangers pour du gaz renouvelable
+## Section 4 [Transfert de garanties d’origine étrangères pour du gaz renouvelable, de certificats d’origine étrangers pour du gaz renouvelable et d’autres certificats étrangers pour du gaz renouvelable](https://www.fedlex.admin.ch/eli/cc/2024/690/fr)
+
+[^sec4-1]
+
+[^sec4-1]: Nouvelle teneur selon le ch. I de l’O du DETEC du 27 mai 2026, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2026 299](https://fedlex.data.admin.ch/eli/oc/2026/299)).
 
 #### Art. 8
 
 <sup>1</sup>
 
-Une garantie d’origine étrangère pour du gaz renouvelable ou un autre certificat étranger pour du gaz renouvelable doit remplir les conditions suivantes pour être enregistré dans la base de données visée à l’art. 9:[^8-1]
+Une garantie d’origine étrangère pour du gaz renouvelable ou un certificat d’origine étranger pour du gaz renouvelable doit remplir les conditions suivantes pour être enregistré dans la base de données visée à l’art. 9:[^8-1]
 
 - a. le gaz renouvelable est fabriqué conformément aux techniques les plus récentes et obtenu à partir de déchets ou de résidus de production biogènes;
 - b.[^8-2]
@@ -182,22 +187,25 @@ Une garantie d’origine étrangère pour du gaz renouvelable ou un autre certif
   - 1\. d’un certificat valable établi par un système reconnu au sens de l’art. 30, par. 4, de la directive (UE) 2018/2001[^8-3],
   - 2\. d’une documentation d’accompagnement montrant qu’il s’agit d’un carburant renouvelable d’origine non biologique au sens de l’art. 2, point 36, de la directive (UE) 2018/2001;
 
-- c. le certificat étranger pour du gaz renouvelable a été délivré par un registre national, négocié via le Registre européen des gaz renouvelables (ERGaR)[^8-4] ou se fonde sur le système européen de certification de l’énergie (EECS)[^8-5] de l’Association des organismes émetteurs (*Association of Issuing Bodies*)[^8-6];
+- c.[^8-4] le certificat d’origine étranger pour du gaz renouvelable a été délivré par un registre national ou négocié via le Registre européen des gaz renouvelables (ERGaR)[^8-5], ou la garantie d’origine étrangère pour du gaz renouvelable se fonde sur le système européen de certification de l’énergie (EECS)[^8-6] de l’Association des organismes émetteurs (*Association of Issuing Bodies*)[^8-7],
 - d. le gaz renouvelable a été injecté dans le réseau de gaz européen.
 
-<sup>2</sup> L’OFEN publie les directives sur les justificatifs attestant que le gaz renouvelable a été fabriqué conformément aux techniques les plus récentes et obtenu à partir de déchets ou de résidus de production biogènes.[^8-7]
+<sup>2</sup> L’OFEN publie les directives sur les justificatifs attestant que le gaz renouvelable a été fabriqué conformément aux techniques les plus récentes et obtenu à partir de déchets ou de résidus de production biogènes.[^8-8]
 
-<sup>3</sup> Lorsqu’un certificat étranger pour du gaz renouvelable est saisi dans la base de données visée à l’art. 9, il doit être supprimé du registre initial.
+<sup>3</sup> Lorsqu’un certificat d’origine étranger pour du gaz renouvelable est saisi dans la base de données visée à l’art. 9, il doit être supprimé du registre initial.[^8-9]
 
-<sup>4</sup> Lorsqu’un certificat étranger pour du gaz renouvelable qui provient d’un pays ne disposant pas d’un registre est saisi dans la base de données visée à l’art. 9, l’importateur doit attester qu’une comptabilisation commerciale à double est exclue.
+<sup>4</sup> Un certificat étranger pour du gaz renouvelable qui n’est ni une garantie d’origine, ni un certificat d’origine et qui provient d’un pays ne disposant pas d’un registre est saisi dans la base de données visée à l’art. 9 s’il remplit les conditions visées à l’al. 1, let. a, b et d. L’importateur dudit certificat doit attester qu’une comptabilisation commerciale à double est exclue.[^8-10]
 
-[^8-1]: Nouvelle teneur selon le ch. I de l’O du DETEC du 3 avr. 2025, en vigueur depuis le 1<sup>er</sup> mai 2025 ([RO 2025 249](https://fedlex.data.admin.ch/eli/oc/2025/249)).
+[^8-1]: Nouvelle teneur selon le ch. I de l’O du DETEC du 27 mai 2026, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2026 299](https://fedlex.data.admin.ch/eli/oc/2026/299)).
 [^8-2]: Nouvelle teneur selon le ch. I de l’O du DETEC du 3 avr. 2025, en vigueur depuis le 1<sup>er</sup> mai 2025 ([RO 2025 249](https://fedlex.data.admin.ch/eli/oc/2025/249)).
 [^8-3]: Directive (UE) 2018/2001 du Parlement européen et du Conseil du 11 décembre 2018 relative à la promotion de l’utilisation de l’énergie produite à partir de sources renouvelables (refonte), JO L 328 du 21.12.2018, p. 82; modifiée en dernier lieu par la directive (UE) 2024/1711, JO L, 2024/1711, 26.6.2023.
-[^8-4]: [www.ergar.org](http://www.ergar.org) &gt; ERGaR Schemes
-[^8-5]: [www.aib-net.org](http://www.aib-net.org) &gt; EECS &gt; EECS Rules
-[^8-6]: [www.aib-net.org](http://www.aib-net.org) &gt; AIB
-[^8-7]: Nouvelle teneur selon le ch. I de l’O du DETEC du 3 avr. 2025, en vigueur depuis le 1<sup>er</sup> mai 2025 ([RO 2025 249](https://fedlex.data.admin.ch/eli/oc/2025/249)).
+[^8-4]: Nouvelle teneur selon le ch. I de l’O du DETEC du 27 mai 2026, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2026 299](https://fedlex.data.admin.ch/eli/oc/2026/299)).
+[^8-5]: [www.ergar.org](http://www.ergar.org ) &gt; ERGaR Schemes
+[^8-6]: [www.aib-net.org](http://www.aib-net.org) &gt; EECS &gt; EECS Rules
+[^8-7]: [www.aib-net.org](http://www.aib-net.org) &gt; AIB
+[^8-8]: Nouvelle teneur selon le ch. I de l’O du DETEC du 3 avr. 2025, en vigueur depuis le 1<sup>er</sup> mai 2025 ([RO 2025 249](https://fedlex.data.admin.ch/eli/oc/2025/249)).
+[^8-9]: Nouvelle teneur selon le ch. I de l’O du DETEC du 27 mai 2026, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2026 299](https://fedlex.data.admin.ch/eli/oc/2026/299)).
+[^8-10]: Nouvelle teneur selon le ch. I de l’O du DETEC du 27 mai 2026, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2026 299](https://fedlex.data.admin.ch/eli/oc/2026/299)).
 
 ## Section 5 Organe d’exécution
 
@@ -220,11 +228,14 @@ L’organe d’exécution vérifie régulièrement la plausibilité:
 - c. pour les combustibles et carburants renouvelables importés en Suisse: des indications fournies par la documentation d’accompagnement visée à l’art. 6, al. 4;
 - d. pour les certificats pour du gaz renouvelable transférés en Suisse: des indications attestant que les conditions visées à l’art. 8, al. 1, sont remplies.
 
-<sup>2</sup> À cet effet, il peut procéder à des contrôles sur place et demander un renouvellement du certificat de conformité.
+<sup>2</sup> À cet effet, il peut procéder à des contrôles sur place et demander les informations et les rapports dont il a besoin ainsi qu’un renouvellement du certificat de conformité.[^10-1]
 
 <sup>3</sup> Si les données visées à l’al. 1 n’ont pas été saisies correctement, l’organe d’exécution peut demander leur rectification. En l’absence de rectification des données, il n’établit pas de garantie d’origine correspondante ou supprime les garanties d’origine déjà établies.
 
-<sup>4</sup> Il surveille le transfert en Suisse des garanties d’origine qu’il a enregistrées ainsi que l’exportation de garanties d’origine et l’importation de garanties d’origine et d’autres certificats étrangers pour du gaz renouvelable.
+<sup>4</sup> Il surveille le transfert en Suisse des garanties d’origine qu’il a enregistrées ainsi que l’exportation de garanties d’origine et l’importation de garanties d’origine, de certificats d’origine et d’autres certificats étrangers pour du gaz renouvelable.[^10-2]
+
+[^10-1]: Nouvelle teneur selon le ch. I de l’O du DETEC du 27 mai 2026, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2026 299](https://fedlex.data.admin.ch/eli/oc/2026/299)).
+[^10-2]: Nouvelle teneur selon le ch. I de l’O du DETEC du 27 mai 2026, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2026 299](https://fedlex.data.admin.ch/eli/oc/2026/299)).
 
 #### Art. 11
 
