@@ -4,13 +4,12 @@ number: "33.1"
 title: "Loi sur les amendes d'ordre de droit cantonal et de droit fédéral"
 short: LCAO
 language: fr
-version: 2022-01-01
-valid_until: 2026-06-30
-version_adopted: 2021-10-06
+version: 2026-07-01
+version_adopted: 2026-03-25
 adopted: 2021-10-06
 in_force: 2022-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/33.1"
-pdf: "https://bdlf.fr.ch/api/fr/versions/7144/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/8595/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +20,7 @@ Amendes d'ordre – L
 
 (LCAO)
 
-du 06.10.2021 (version entrée en vigueur le 01.01.2022)
+du 06.10.2021 (version entrée en vigueur le 01.07.2026)
 
 Le Grand Conseil du canton de Fribourg
 
@@ -263,9 +262,9 @@ Décrète:
 
 #### Art. 20
 
-**Compétence du Préfet**
+**Compétence du préfet ou de la préfète**
 
-<sup>1</sup> En cas d'échec de la procédure simplifiée d'amende d'ordre, les infractions aux législations suivantes sont dénoncées au préfet:
+<sup>1</sup> En cas d'échec de la procédure simplifiée d'amende d'ordre, les infractions aux législations suivantes sont dénoncées au préfet ou à la préfète:
 
 - a) législation fédérale et cantonale sur la protection de la nature et du paysage;
 - b) législation fédérale sur la circulation routière;
@@ -276,6 +275,7 @@ Décrète:
 - g) législation fédérale et cantonale sur la pêche;
 - h) législation cantonale sur la gestion des déchets;
 - i) législation cantonale sur la détention des chiens.
+- j) législation fédérale sur l'interdiction de se dissimuler le visage.
 
 #### Art. 21
 

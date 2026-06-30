@@ -4,13 +4,12 @@ number: "33.1"
 title: Gesetz über kantons- und bundesrechtliche Ordnungsbussen
 short: KOBG
 language: de
-version: 2022-01-01
-valid_until: 2026-06-30
-version_adopted: 2021-10-06
+version: 2026-07-01
+version_adopted: 2026-03-25
 adopted: 2021-10-06
 in_force: 2022-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/33.1"
-pdf: "https://bdlf.fr.ch/api/de/versions/7144/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/8595/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ Ordnungsbussen – G
 
 (KOBG)
 
-vom 06.10.2021 (Fassung in Kraft getreten am 01.01.2022)
+vom 06.10.2021 (Fassung in Kraft getreten am 01.07.2026)
 
 Der Grosse Rat des Kantons Freiburg
 
@@ -276,6 +275,7 @@ beschliesst:
 - g) eidgenössische und kantonale Gesetzgebung über die Fischerei;
 - h) kantonale Gesetzgebung über die Abfallbewirtschaftung;
 - i) kantonale Gesetzgebung über die Hundehaltung.
+- j) Bundesgesetzgebung über das Verbot der Verhüllung des Gesichts.
 
 #### Art. 21
 
