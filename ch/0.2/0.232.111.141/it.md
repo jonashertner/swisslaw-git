@@ -3,11 +3,11 @@ sr: "0.232.111.141"
 title: Regolamento d’esecuzione comune del 2 ottobre 2018 all’Accordo di Lisbona sulla protezione delle denominazioni d’origine e sulla loro registrazione internazionale e all’Atto di Ginevra dell’Accordo di Lisbona sulle denominazioni d’origine e le indicazioni geografiche
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/744"
 language: it
-version: 2023-07-14
+version: 2026-07-01
 adopted: 2018-10-02
 in_force: 2021-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/744/20230714/it/xml/fedlex-data-admin-ch-eli-cc-2021-744-20230714-it-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/744/20230714/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/744/20260701/it/xml/fedlex-data-admin-ch-eli-cc-2021-744-20260701-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/744/20260701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -20,7 +20,7 @@ Traduzione
 
 Approvato dall’Assemblea dell’Unione di Lisbona il 2 ottobre 2018 Entrato in vigore per la Svizzera il 1° dicembre 2021
 
-(Stato 14 luglio 2023)
+(Stato 1° luglio 2026)
 
 ## Capitolo I: Disposizioni generali e preliminari
 
@@ -37,7 +37,7 @@ Ai fini del presente regolamento d’esecuzione, e fatto salvo ogni significato 
 - iii) laddove l’Accordo di Lisbona del 31 ottobre 1958 sulla protezione delle denominazioni d’origine e sulla loro registrazione internazionale è applicabile in luogo dell’Atto del 1967, ogni menzione dell’Atto del 1967 è intesa come riferita all’Accordo di Lisbona del 31 ottobre 1958;
 - iv) per «regola» s’intende una regola del presente regolamento d’esecuzione;
 - v) per «istruzioni amministrative» s’intendono le istruzioni amministrative di cui alla regola 24;
-- vi) per «modulo ufficiale» s’intende un modulo allestito dall’Ufficio internazionale;
+- vi)[^1-2] per «modulo ufficiale» s’intende un modulo allestito dall’Ufficio internazionale o un’interfaccia elettronica messa a disposizione dall’Ufficio internazionale sul sito Internet dell’Organizzazione;
 - vii) per «comunicazione» s’intende ogni domanda, richiesta, dichiarazione, notifica, invito o informazione che riguarda o accompagna una domanda internazionale o una registrazione internazionale indirizzata a un’Autorità competente, all’Ufficio internazionale o, nel caso di cui all’articolo 5.3) dell’Atto di Ginevra, ai beneficiari oppure alla persona fisica o giuridica di cui all’articolo 5.2)ii) di detto Atto;
 - viii) per «domanda retta dall’Atto del 1967» s’intende una domanda depositata in virtù dell’Atto del 1967 laddove i rapporti reciproci tra le Parti contraenti interessate sono retti dall’Atto del 1967;
 - ix) per «domanda retta dall’Atto di Ginevra» s’intende una domanda depositata in virtù dell’Atto di Ginevra laddove i rapporti reciproci tra le Parti contraenti interessate sono retti dall’Atto di Ginevra;
@@ -52,6 +52,7 @@ Ai fini del presente regolamento d’esecuzione:
 - iii) il termine «pubblicazione» di cui alla regola 19 è usato in un’accezione includente, se del caso, una pubblicazione nella raccolta periodica di cui all’articolo 5.2) dell’Atto del 1967, indipendentemente dal supporto utilizzato a tal fine.
 
 [^1-1]: [RS 0.232.111.14](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1038)
+[^1-2]: Nuovo testo giusta la mod. adottata dall’Assemblea dell’Unione di Lisbona del 17 lug. 2025, in vigore dal 1° lug. 2026 ([RU 2026 331](https://fedlex.data.admin.ch/eli/oc/2026/331)).
 
 #### Regola 2
 
@@ -242,14 +243,16 @@ L’Ufficio internazionale riscuote le seguenti tasse, pagabili in franchi svizz
 
 - 8\. a) Fatto salvo il punto b), una tassa è considerata pagata il giorno in cui l’Ufficio internazionale riceve l’ammontare richiesto.
 - b) Qualora l’ammontare richiesto sia disponibile su un conto aperto presso l’Ufficio internazionale e questo abbia ricevuto dal titolare del conto l’istruzione di procedere a un prelevamento, la tassa è considerata pagata all’Ufficio internazionale il giorno in cui questo riceve una domanda o una domanda d’iscrizione di una modifica.
-
-<sup>9.</sup> Qualora l’ammontare di una tassa venga modificato, l’ammontare applicabile è quello che era in vigore il giorno in cui la tassa è stata ricevuta dall’Ufficio internazionale.
-
+- 9\. a) Qualora l’ammontare della tassa dovuta per una domanda di cui alla regola 5.2)c) è modificato tra la data di deposito della domanda e la data del pagamento, la tassa applicabile è quella che era in vigore alla prima data.
+- b) Qualora l’ammontare della tassa dovuta per una domanda d’iscrizione di una modifica di cui alla regola 15.2)a) è modificato tra la data di presentazione della domanda e la data del pagamento, la tassa applicabile è quella che era in vigore alla prima data.
+- c) Qualora l’ammontare delle tasse dovute per una modifica o in quanto tassa individuale nel caso di cui alla regola 7.4)a) e d), è modificato tra la data di entrata in vigore dell’Atto di Ginevra nello Stato che è parte dell’Atto del 1967 e la data del pagamento, la tassa applicabile è quella che era in vigore alla prima data.
+- d) Qualora l’ammontare di una tassa diversa da quelle di cui ai punti a), b) e c) venga modificato, l’ammontare applicabile è quello che era in vigore al momento in cui il pagamento della tassa è pervenuto all’Ufficio internazionale.[^8-3]
 - 10\. a) In deroga all’alinea 1)v), una dichiarazione fatta in virtù dell’articolo 7.4) dell’Atto di Ginevra da una Parte contraente di tale Atto e dell’Atto del 1967 non incide sui rapporti con un’altra Parte contraente che è parte dell’Atto di Ginevra e dell’Atto del 1967.
 - b) L’Assemblea può, a maggioranza di tre quarti, abrogare il punto a) o restringerne il campo d’applicazione. Soltanto le Parti contraenti dell’Atto di Ginevra e dell’Atto del 1967 hanno diritto di voto.
 
 [^8-1]: Nel caso di una registrazione internazionale riguardante un’area geografica situata in uno dei Paesi che figurano nell’elenco dei Paesi meno avanzati (PMA) delle Nazioni Unite, gli importi indicati all’alinea 1) si riducono del 50 % (arrotondato al numero intero più vicino): la tassa di registrazione internazionale ammonterà quindi in questi casi a 500 fr., quella per la prima modifica della registrazione internazionale a 250 fr. e la tassa supplementare per una o più modifiche supplementari presentate nella stessa domanda a 150 fr. Queste riduzioni si applicano per un periodo di tre anni a partire dalla data di entrata in vigore dell’Atto di Ginevra.
 [^8-2]: Nuovo testo giusta la mod. dell’Assemblea dell’Unione di Lisbona del 22 lug. 2022, in vigore dal 1° gen. 2023 ([RU 2026 329](https://fedlex.data.admin.ch/eli/oc/2026/329)).
+[^8-3]: Nuovo testo giusta la mod. adottata dall’Assemblea dell’Unione di Lisbona del 17 lug. 2025, in vigore dal 1° lug. 2026 ([RU 2026 331](https://fedlex.data.admin.ch/eli/oc/2026/331)).
 
 ## Capitolo III: Rifiuto e altre misure in materia di registrazione internazionale
 
@@ -382,7 +385,10 @@ Le modifiche che possono essere iscritte nel registro internazionale sono le seg
 - iii) modifica dei confini dell’area geografica di produzione o dell’area geografica d’origine del prodotto o dei prodotti cui si applica la denominazione d’origine o l’indicazione geografica;
 - iv) modifiche riguardanti l’atto legislativo o regolatorio, la decisione giudiziaria o amministrativa oppure la registrazione di cui alla regola 5.2)a)vii);
 - v) modifiche riguardanti la Parte contraente d’origine che non interessano l’area geografica di produzione o l’area geografica d’origine del prodotto o dei prodotti cui si applica la denominazione d’origine o l’indicazione geografica;
-- vi) [*Abrogato*][^15-1]
+- vi) [*Abrogato*]
+- vii)[^15-1] una modifica riguardante la denominazione d’origine o l’indicazione geografica;
+- viii)[^15-2] una modifica riguardante il prodotto o i prodotti cui si applica la denominazione d’origine o l’indicazione geografica;
+- ix)[^15-3] una modifica riguardante i dati di cui alla regola 5.3)a) o alle informazioni di cui alla regola 5.6)a) vi).[^15-4]
 - 2\. a) Ogni domanda d’iscrizione di una modifica di cui all’alinea 1) è presentata all’Ufficio internazionale e firmata dall’Autorità competente della Parte contraente d’origine o, nel caso di cui all’articolo 5.3) dell’Atto di Ginevra, dai beneficiari oppure dalla persona fisica o giuridica di cui all’articolo 5.2)ii) di detto Atto ed è accompagnata dalla tassa di cui alla regola 8.
 - b) Qualora riguardi un’area geografica di produzione o una nuova area geografica d’origine transfrontaliera di cui all’articolo 1.xiii) dell’Atto di Ginevra, ogni domanda d’iscrizione di una modifica di cui all’alinea 1) è presentata all’Ufficio internazionale e firmata dall’Autorità competente designata di comune accordo di cui all’articolo 5.4) dell’Atto di Ginevra.
 
@@ -390,7 +396,14 @@ Le modifiche che possono essere iscritte nel registro internazionale sono le seg
 
 <sup>4.</sup> Nel caso di cui all’articolo 5.3) dell’Atto di Ginevra, gli alinea 1) e 3) si applicano *mutatis mutandis*, fermo restando che una domanda presentata dai beneficiari oppure dalla persona fisica o giuridica di cui all’articolo 5.2)ii) dell’Atto di Ginevra deve indicare che la modifica si rende necessaria in ragione di una corrispondente modifica apportata alla registrazione, all’atto legislativo o regolatorio oppure alla decisione giudiziaria o amministrativa in virtù della quale la protezione era stata concessa alla denominazione d’origine o all’indicazione geografica nella Parte contraente d’origine che ha fatto una dichiarazione ai sensi dell’articolo 5.3) dell’Atto di Ginevra e che l’iscrizione di tale modifica nel registro internazionale deve essere confermata ai beneficiari oppure alla persona fisica o giuridica interessata da parte dell’Ufficio internazionale, che informa anche l’Autorità competente della Parte contraente d’origine che ha fatto una dichiarazione ai sensi dell’articolo 5.3) dell’Atto di Ginevra.
 
-[^15-1]: Nuovo testo giusta la mod. adottata dall’Assemblea dell’Unione di Lisbona del 22 lug. 2022, in vigore dal 1° gen. 2023 ([RU 2026 329](https://fedlex.data.admin.ch/eli/oc/2026/329)).
+- 5\. a) Se la modifica riguarda la denominazione d’origine o l’indicazione geografica oppure il prodotto o i prodotti cui si applica la denominazione d’origine o l’indicazione geografica, l’Autorità competente di una Parte contraente ha il diritto di dichiarare di non poter assicurare la protezione della denominazione d’origine o dell’indicazione geografica a causa della modifica. L’Autorità competente trasmette la dichiarazione corrispondente all’Ufficio internazionale entro un anno a decorrere dalla data di ricezione della notifica relativa alla modifica da parte dell’Ufficio internazionale. Le regole 9–12 si applicano *mutatis mutandis*.
+- b) Se la modifica riguarda i dati di cui alla regola 5.3)a), l’Autorità competente di una Parte contraente che ha inviato la notifica in virtù della regola 5.3) ha il diritto di dichiarare di non poter assicurare la protezione della denominazione d’origine o dell’indicazione geografica a causa della modifica. L’Autorità competente trasmette la dichiarazione corrispondente all’Ufficio internazionale entro un anno a decorrere dalla data di ricezione della notifica relativa alla modifica da parte dell’Ufficio internazionale. Le regole 9–12 si applicano *mutatis mutandis*.[^15-5]
+
+[^15-1]: Introdotto dalla mod. adottata dall’Assemblea dell’Unione di Lisbona del 17 lug. 2025, in vigore dal 1° lug. 2026 ([RU 2026 331](https://fedlex.data.admin.ch/eli/oc/2026/331)).
+[^15-2]: Introdotto dalla mod. adottata dall’Assemblea dell’Unione di Lisbona del 17 lug. 2025, in vigore dal 1° lug. 2026 ([RU 2026 331](https://fedlex.data.admin.ch/eli/oc/2026/331)).
+[^15-3]: Introdotto dalla mod. adottata dall’Assemblea dell’Unione di Lisbona del 17 lug. 2025, in vigore dal 1° lug. 2026 ([RU 2026 331](https://fedlex.data.admin.ch/eli/oc/2026/331)).
+[^15-4]: Nuovo testo giusta la mod. adottata dall’Assemblea dell’Unione di Lisbona del 22 lug. 2022, in vigore dal 1° gen. 2023 ([RU 2026 329](https://fedlex.data.admin.ch/eli/oc/2026/329)).
+[^15-5]: Introdotto dalla mod. adottata dall’Assemblea dell’Unione di Lisbona del 17 lug. 2025, in vigore dal 1° lug. 2026 ([RU 2026 331](https://fedlex.data.admin.ch/eli/oc/2026/331)).
 
 #### Regola 16
 
@@ -430,7 +443,9 @@ Le modifiche che possono essere iscritte nel registro internazionale sono le seg
 
 <sup>3.</sup> L’Ufficio internazionale notifica le rettifiche del registro internazionale all’Autorità competente di ogni Parte contraente e, nel caso si cui all’articolo 5.3) dell’Atto di Ginevra, ai beneficiari oppure alla persona fisica o giuridica di cui all’articolo 5.2)ii) di detto Atto.
 
-<sup>4.</sup> Se la rettifica di un errore riguarda la denominazione d’origine o l’indicazione geografica oppure il prodotto o i prodotti cui la denominazione d’origine o l’indicazione geografica si applica, l’Autorità competente di una Parte contraente ha il diritto di dichiarare di non poter assicurare la protezione della denominazione d’origine o dell’indicazione geografica a rettifica avvenuta. L’Autorità competente trasmette la dichiarazione corrispondente all’Ufficio internazionale entro un anno a decorrere dalla data di ricezione della notifica relativa alla rettifica da parte dell’Ufficio internazionale. Le regole 9–12 si applicano *mutatis mutandis*.
+<sup>4.</sup> Se la rettifica di un errore riguarda la denominazione d’origine o l’indicazione geografica oppure il prodotto o i prodotti cui si applica la denominazione d’origine o l’indicazione geografica, l’Autorità competente di una Parte contraente ha il diritto di dichiarare di non poter assicurare la protezione della denominazione d’origine o dell’indicazione geografica a causa della modifica. L’Autorità competente trasmette la dichiarazione corrispondente all’Ufficio internazionale entro un anno a decorrere dalla data di ricezione della notifica relativa alla rettifica da parte dell’Ufficio internazionale. Le regole 9–12 si applicano *mutatis mutandis*.[^18-1]
+
+[^18-1]: Nuovo testo giusta la mod. adottata dall’Assemblea dell’Unione di Lisbona del 17 lug. 2025, in vigore dal 1° lug. 2026 ([RU 2026 331](https://fedlex.data.admin.ch/eli/oc/2026/331)).
 
 ## Capitolo IV: Disposizioni varie
 

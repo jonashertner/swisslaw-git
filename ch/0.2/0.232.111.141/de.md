@@ -3,11 +3,11 @@ sr: "0.232.111.141"
 title: Gemeinsame Ausführungsordnung vom 2. Oktober 2018 zum Lissabonner Abkommen über den Schutz der Ursprungsbezeichnungen und ihre internationale Registrierung und zur Genfer Akte des Lissabonner Abkommens über Ursprungsbezeichnungen und geografische Angaben
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/744"
 language: de
-version: 2023-07-14
+version: 2026-07-01
 adopted: 2018-10-02
 in_force: 2021-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/744/20230714/de/xml/fedlex-data-admin-ch-eli-cc-2021-744-20230714-de-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/744/20230714/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/744/20260701/de/xml/fedlex-data-admin-ch-eli-cc-2021-744-20260701-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/744/20260701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -20,7 +20,7 @@ AS **2021** 744
 
 Angenommen von der Versammlung des Lissabonner Verband am 2. Oktober 2018 In Kraft getreten für die Schweiz am 1. Dezember 2021
 
-(Stand am 14. Juli 2023)
+(Stand am 1. Juli 2026)
 
 ## Kapitel I: Einleitende und allgemeine Bestimmungen
 
@@ -30,12 +30,12 @@ Angenommen von der Versammlung des Lissabonner Verband am 2. Oktober 2018 In Kra
 
 \1. Im Sinne dieser Akte gelten, sofern nicht ausdrücklich anders festgelegt, folgende Begriffsbestimmungen:
 
-- i) «Genfer Akte» bedeutet die Genfer Akte des Lissabonner Abkommens über Ursprungsbezeichnungen und geografische Angaben vom 20. Mai 2015[^1-1];
+- i) «Genfer Akte» bedeutet die Genfer Akte des Lissabonner Abkommens über Ursprungsbezeichnungen und geografische Angaben vom 20. Mai 2015[^1-1].
 - ii) Die in dieser Ausführungsordnung verwendeten und in Artikel 1 sowie Artikel 2 Absatz 1 der Genfer Akte definierten Abkürzungen haben dieselbe Bedeutung wie in dieser Akte.
 - iii) Ist anstelle der Akte von 1967 das Lissabonner Abkommen über den Schutz und die internationale Registrierung von Ursprungsbezeichnungen vom 31. Oktober 1958 anwendbar, so ist jede Erwähnung der Akte von 1967 als Verweis auf das Lissabonner Abkommen vom 31. Oktober 1958 zu verstehen.
 - iv) Der Begriff «Regel» bezeichnet eine Regel dieser Ausführungsordnung.
 - v) «Verwaltungsvorschriften» bedeutet die in Regel 24 genannten Verwaltungsvorschriften.
-- vi) «Amtliches Formblatt» bedeutet ein vom Internationalen Büro erstelltes Formblatt.
+- vi)[^1-2] «Amtliches Formblatt» bedeutet ein vom Internationalen Büro erstelltes Formblatt oder einer vom Internationalen Büro bereitgestellten elektronischen Benutzeroberfläche auf der Webseite der Organisation.
 - vii) «Mitteilung» bedeutet ein Gesuch oder einen Antrag, eine Erklärung, eine Benachrichtigung, eine Aufforderung oder eine Information, die sich auf ein internationales Gesuch oder eine internationale Registrierung bezieht oder einer solchen beigefügt an eine zuständige Behörde, an das Internationale Büro oder im Fall von Artikel 5 Absatz 3 der Genfer Akte an die Begünstigten bzw. die natürliche oder juristische Person gemäss Artikel 5 Absatz 2 Ziffer ii dieser Akte gerichtet ist.
 - viii) «Gesuch, das durch die Akte von 1967 geregelt ist» bedeutet ein gemäss der Akte von 1967 eingereichtes Gesuch, wenn die gegenseitigen Beziehungen der betroffenen Vertragsparteien durch die Akte von 1967 geregelt sind.
 - ix) «Gesuch, das durch die Genfer Akte geregelt ist» bedeutet ein gemäss der Genfer Akte eingereichtes Gesuch, wenn die gegenseitigen Beziehungen der betroffenen Vertragsparteien durch die Genfer Akte geregelt sind.
@@ -48,6 +48,7 @@ Angenommen von der Versammlung des Lissabonner Verband am 2. Oktober 2018 In Kra
 - iii) beinhaltet der Ausdruck «Veröffentlichung» in Regel 19 gegebenenfalls eine Veröffentlichung in der regelmässig erscheinenden Sammlung gemäss Artikel 5 Absatz 2 der Akte von 1967, ungeachtet des für die Veröffentlichung benutzten Mediums.
 
 [^1-1]: [SR 0.232.111.14](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1038)
+[^1-2]: Fassung gemäss Beschluss der Versammlung des Lissabonner Verbands vom 17. Juli 2025, in Kraft seit 1. Juli 2026 ([AS 2026 331](https://fedlex.data.admin.ch/eli/oc/2026/331)).
 
 #### Regel 2
 
@@ -215,8 +216,6 @@ ist das Datum der internationalen Registrierung das Datum, an dem die letzte der
 
 \7. Bei jeder Gebührenzahlung an das Internationale Büro ist die Ursprungsbezeichnung oder die geografische Angabe sowie der Zweck der Zahlung anzugeben.
 
-\9. Ändert sich der Betrag einer Gebühr, so findet der am Datum des Eingangs der Gebühr beim Internationalen Büro geltende Betrag Anwendung.
-
 \1. Das Internationale Büro erhebt die folgenden, in Schweizer Franken zahlbaren Gebühren:
 
 - i) Gebühr für die internationale Registrierung[^8-1]: 1000
@@ -235,12 +234,16 @@ ist das Datum der internationalen Registrierung das Datum, an dem die letzte der
 
 - 8\. a) Vorbehaltlich Buchstabe b gilt jede Gebühr als an dem Tag an das Internationale Büro gezahlt, an dem der erforderliche Betrag beim Internationalen Büro eingeht.
 - b) Ist der erforderliche Betrag auf einem beim Internationalen Büro bestehenden Konto verfügbar und hat das Internationale Büro vom Kontoinhaber den Auftrag zur Abbuchung des Betrages von diesem Konto erhalten, so gilt die Gebühr als an dem Tag an das Internationale Büro gezahlt, an dem ein Gesuch oder ein Antrag auf Eintragung einer Änderung beim Internationalen Büro eingeht.
-
+- 9\. a) Ändert sich der Betrag einer Gebühr für ein Gesuch gemäss Regel 5 Absatz 2 Buchstabe c zwischen dem Anmeldedatum und dem Zahlungsdatum, so findet die an dem zuerst genannten Datum gültige Gebühr Anwendung.
+- b) Ändert sich der Betrag einer Gebühr für einen Antrag auf Eintragung einer Änderung gemäss Regel 15 Absatz 2 Buchstabe a zwischen dem Datum der Einreichung und dem Zahlungsdatum, so findet die an dem zuerst genannten Datum gültige Gebühr Anwendung.
+- c) Ändert sich der Betrag der für eine Änderung oder als individuelle Gebühr zu entrichtenden Gebühren in dem in Regel 7 Absatz 4 Buchstabe a und d genannten Fall zwischen dem Datum des Inkrafttretens der Genfer Akte für einen Vertragsstaat der Akte von 1967 und dem Zahlungsdatum, so gilt die am erstgenannten Datum geltende Gebühr.
+- d) Ändert sich der Betrag einer Gebühr, die nicht unter die in den Buchstaben a, b und c genannten Gebühren fällt, so findet der am Tag des Eingangs der Gebühr beim Internationalen Büro geltende Betrag Anwendung.[^8-3]
 - 10\. a) Ungeachtet von Absatz 1 Ziffer v ist eine von einer Vertragspartei der Genfer Akte und der Akte von 1967 gemäss Artikel 7 Absatz 4 der Genfer Akte abgegebene Erklärung ohne Wirkung auf die Beziehungen zu einer anderen Vertragspartei, die Partei der Genfer Akte und der Akte von 1967 ist.
 - b) Die Versammlung kann mit einer Dreiviertelmehrheit den Buchstaben a aufheben oder den Geltungsbereich des Buchstabens a einschränken. Nur die Vertragsparteien der Genfer Akte und der Akte von 1967 sind stimmberechtigt.
 
 [^8-1]: Bei internationalen Registrierungen mit Bezeichnung eines geografischen Gebiets in einem Land der Kategorie der am wenigsten entwickelten Länder nach den von den Vereinten Nationen aufgestellten Listen ermässigt sich die Gebühr auf 50 % des vorgeschriebenen Betrags (gerundet auf die nächste ganze Zahl). In diesem Fall beträgt die Gebühr 500 Schweizer Franken für eine internationale Registrierung mit Bezeichnung eines geografischen Ursprungsgebiets in einem Land der Kategorie der am wenigsten entwickelten Länder, 250 Schweizer Franken für eine Änderung einer internationalen Registrierung mit Bezeichnung eines geografischen Ursprungsgebiets in einem Land der Kategorie der am wenigsten entwickelten Länder und 150 Schweizer Franken Zusatzgebühr für eine oder mehrere zusätzliche Änderungen im selben Gesuch. Diese Gebührenermässigungen gelten während einer Dauer von drei Jahren ab dem Inkrafttreten der Genfer Akte.
 [^8-2]: Fassung gemäss Beschluss der Versammlung des Lissabonner Verbands vom 22. Juli 2022, in Kraft seit 1. Jan. 2023 ([AS 2026 329](https://fedlex.data.admin.ch/eli/oc/2026/329)).
+[^8-3]: Fassung gemäss Beschluss der Versammlung des Lissabonner Verbands vom 17. Juli 2025, in Kraft seit 1. Juli 2026 ([AS 2026 331](https://fedlex.data.admin.ch/eli/oc/2026/331)).
 
 ## Kapitel III: Schutzverweigerung und sonstige Massnahmen in Bezug auf internationale Registrierungen
 
@@ -367,11 +370,21 @@ ist das Datum der internationalen Registrierung das Datum, an dem die letzte der
 - iii) Änderung der Grenzen des geografischen Produktionsgebiets oder des geografischen Ursprungsgebiets der Ware oder der Waren, auf die sich die Ursprungsbezeichnung oder die geografische Angabe bezieht;
 - iv) Änderung bezüglich des gesetzlichen oder ordnungspolitischen Erlasses, des gerichtlichen oder verwaltungsrechtlichen Entscheids oder der Registrierung gemäss Regel 5 Absatz 2 Buchstabe a Ziffer vii;
 - v) Änderung bezüglich der Ursprungsvertragspartei ohne Auswirkung auf das geografische Produktionsgebiet oder das geografische Ursprungsgebiet der Ware oder der Waren, auf die sich die Ursprungsbezeichnung oder die geografische Angabe bezieht;
-- vi) *[aufgehoben]*.[^15-1]
+- vi) *[aufgehoben]*
+- vii)[^15-1] eine Änderung bezüglich der Ursprungsbezeichnung oder der geografischen Angabe;
+- viii)[^15-2] eine Änderung bezüglich der Ware oder der Waren, auf die sich die Ursprungsbezeichnung oder die geografische Angabe bezieht;
+- ix)[^15-3] eine Änderung bezüglich der in Regel 5 Absatz 3 Buchstabe a bzw. in Regel 5 Absatz 6 Buchstabe a Ziffer vi genannten Angaben.[^15-4]
 - 2\. a) Alle Anträge auf Eintragung einer Änderung gemäss Absatz 1 sind zusammen mit der in Regel 8 vorgeschriebenen Gebühr beim Internationalen Büro einzureichen und von der zuständigen Behörde der Ursprungsvertragspartei oder im Fall von Artikel 5 Absatz 3 der Genfer Akte von den Begünstigten bzw. der natürlichen oder juristischen Person gemäss Artikel 5 Absatz 2 Ziffer ii dieser Akte zu unterzeichnen.
 - b) Alle Anträge auf Eintragung einer Änderung gemäss Absatz 1 sind, sofern sie ein neu festgelegtes geografisches Produktionsgebiet oder grenzübergreifendes geografisches Ursprungsgebiet gemäss Artikel 1 Ziffer xiii der Genfer Akte betreffen, beim Internationalen Büro einzureichen und von der gemäss Artikel 5 Absatz 4 der Genfer Akte gemeinsam benannten zuständigen Behörde zu unterzeichnen
 
-[^15-1]: Fassung gemäss Beschluss der Versammlung des Lissabonner Verbands vom 22. Juli 2022, in Kraft seit 1. Jan. 2023 ([AS 2026 329](https://fedlex.data.admin.ch/eli/oc/2026/329)).
+- 5\. a) Betrifft die Änderung die Ursprungsbezeichnung oder die geografische Angabe oder die Ware oder Waren, auf die sich die Ursprungsbezeichnung oder die geografische Angabe bezieht, hat die zuständige Behörde einer Vertragspartei das Recht, zu erklären, dass sie den Schutz der Ursprungsbezeichnung oder der geografischen Angabe aufgrund der Änderung nicht gewährleisten kann. Diese Erklärung ist dem Internationalen Büro durch die zuständige Behörde innerhalb einer Frist von einem Jahr ab dem Datum des Eingangs der Mitteilung des Internationalen Büros bezüglich der Berichtigung zuzusenden. Die Regeln 9–12 sind sinngemäss anzuwenden.
+- b) Betrifft die Änderung die in Regel 5 Absatz 3 Buchstabe a genannten Angaben, hat die zuständige Behörde einer Vertragspartei, die die Mitteilung gemäss Regel 5 Absatz 3 eingereicht hat, das Recht zu erklären, dass sie den Schutz der Ursprungsbezeichnung oder der geografischen Angabe aufgrund der Änderung nicht gewährleisten kann. Diese Erklärung ist dem Internationalen Büro durch die zuständige Behörde innerhalb einer Frist von einem Jahr ab dem Datum des Eingangs der Mitteilung des Internationalen Büros bezüglich der Berichtigung zuzusenden. Die Regeln 9–12 sind sinngemäss anzuwenden.[^15-5]
+
+[^15-1]: Eingefügt durch Beschluss der Versammlung des Lissabonner Verbands vom 17. Juli 2025, in Kraft seit 1. Juli 2026 ([AS 2026 331](https://fedlex.data.admin.ch/eli/oc/2026/331)).
+[^15-2]: Eingefügt durch Beschluss der Versammlung des Lissabonner Verbands vom 17. Juli 2025, in Kraft seit 1. Juli 2026 ([AS 2026 331](https://fedlex.data.admin.ch/eli/oc/2026/331)).
+[^15-3]: Eingefügt durch Beschluss der Versammlung des Lissabonner Verbands vom 17. Juli 2025, in Kraft seit 1. Juli 2026 ([AS 2026 331](https://fedlex.data.admin.ch/eli/oc/2026/331)).
+[^15-4]: Fassung gemäss Beschluss der Versammlung des Lissabonner Verbands vom 22. Juli 2022, in Kraft seit 1. Jan. 2023 ([AS 2026 329](https://fedlex.data.admin.ch/eli/oc/2026/329)).
+[^15-5]: Eingefügt durch Beschluss der Versammlung des Lissabonner Verbands vom 17. Juli 2025, in Kraft seit 1. Juli 2026 ([AS 2026 331](https://fedlex.data.admin.ch/eli/oc/2026/331)).
 
 #### Regel 16
 
@@ -411,7 +424,9 @@ ist das Datum der internationalen Registrierung das Datum, an dem die letzte der
 
 <sup>3.</sup> Das Internationale Büro teilt der zuständigen Behörde jeder Vertragspartei sowie im Fall von Artikel 5 Absatz 3 der Genfer Akte den Begünstigten bzw. der natürlichen oder juristischen Person gemäss Artikel 5 Absatz 2 Ziffer ii dieser Akte die Berichtigung im internationalen Register mit.
 
-\4. Betrifft die Berichtigung eines Fehlers die Ursprungsbezeichnung oder die geografische Angabe oder die Ware oder Waren, auf die sich die Ursprungsbezeichnung oder die geografische Angabe bezieht, hat die zuständige Behörde einer Vertragspartei das Recht, zu erklären, dass sie den Schutz der Ursprungsbezeichnung oder der geografischen Angabe nach der Berichtigung nicht gewährleisten kann. Diese Erklärung ist dem Internationalen Büro durch die zuständige Behörde innerhalb einer Frist von einem Jahr ab dem Datum des Eingangs der Mitteilung des Internationalen Büros bezüglich der Berichtigung zuzusenden. Die Regeln 9–12 sind sinngemäss anzuwenden.
+\4. Betrifft die Berichtigung eines Fehlers die Ursprungsbezeichnung oder die geografische Angabe oder die Ware oder Waren, auf die sich die Ursprungsbezeichnung oder die geografische Angabe bezieht, hat die zuständige Behörde einer Vertragspartei das Recht zu erklären, dass sie den Schutz der Ursprungsbezeichnung oder der geografischen Angabe aufgrund der Berichtigung nicht gewährleisten kann. Diese Erklärung ist dem Internationalen Büro durch die zuständige Behörde innerhalb einer Frist von einem Jahr ab dem Datum des Eingangs der Mitteilung des Internationalen Büros bezüglich der Berichtigung zuzusenden. Die Regeln 9–12 sind sinngemäss anzuwenden.[^18-1]
+
+[^18-1]: Fassung gemäss Beschluss der Versammlung des Lissabonner Verbands vom 17. Juli 2025, in Kraft seit 1. Juli 2026 ([AS 2026 331](https://fedlex.data.admin.ch/eli/oc/2026/331)).
 
 ## Kapitel IV: Verschiedenes
 

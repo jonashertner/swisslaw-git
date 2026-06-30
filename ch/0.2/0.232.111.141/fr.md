@@ -3,11 +3,11 @@ sr: "0.232.111.141"
 title: Règlement d’exécution commun du 2 octobre 2018 à l’Arrangement de Lisbonne concernant la protection des appellations d’origine et leur enregistrement international et à l’Acte de Genève de l’Arrangement de Lisbonne sur les appellations d’origine et les indications géographiques
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/744"
 language: fr
-version: 2023-07-14
+version: 2026-07-01
 adopted: 2018-10-02
 in_force: 2021-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/744/20230714/fr/xml/fedlex-data-admin-ch-eli-cc-2021-744-20230714-fr-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/744/20230714/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/744/20260701/fr/xml/fedlex-data-admin-ch-eli-cc-2021-744-20260701-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/744/20260701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -20,7 +20,7 @@ Texte original
 
 Adopté par l’Assemblée de l’Union de Lisbonne le 2 octobre 2018 Entré en vigueur pour la Suisse le 1<sup>er</sup> décembre 2021
 
-(État le 14 juillet 2023)
+(État le 1<sup>er</sup> juillet 2026)
 
 ## Chapitre I Dispositions générales et liminaires
 
@@ -37,7 +37,7 @@ Adopté par l’Assemblée de l’Union de Lisbonne le 2 octobre 2018 Entré en 
 - iii) lorsque l’Arrangement de Lisbonne concernant la protection des appellations d’origine et leur enregistrement international du 31 octobre 1958 est applicable en lieu et place de l’Acte de 1967, toute mention de l’Acte de 1967 doit être entendue comme se rapportant à l’Arrangement de Lisbonne du 31 octobre 1958;
 - iv) le terme «règle» désigne une règle du présent règlement d’exécution;
 - v) on entend par «instructions administratives» les instructions administratives visées à la règle 24;
-- vi) on entend par «formulaire officiel» un formulaire établi par le Bureau international;
+- vi)[^1-2] on entend par «formulaire officiel» un formulaire établi par le Bureau international ou une interface électronique mise à disposition par le Bureau international sur le site Internet de l’Organisation;
 - vii) «communication» s’entend de toute demande ou de toute requête, déclaration, notification, invitation ou information relative ou jointe à une demande internationale ou à un enregistrement international qui est adressée à une administration compétente, au Bureau international ou, dans le cas visé à l’art. 5.3) de l’Acte de Genève, aux bénéficiaires ou à la personne physique ou morale visée à l’art. 5.2)ii) de cet Acte;
 - viii) «demande régie par l’Acte de 1967» s’entend d’une demande qui est déposée en vertu de l’Acte de 1967 lorsque les relations mutuelles des Parties contractantes concernées sont régies par l’Acte de 1967;
 - ix) «demande régie par l’Acte de Genève» s’entend d’une demande qui est déposée en vertu de l’Acte de Genève lorsque les relations mutuelles des Parties contractantes concernées sont régies par l’Acte de Genève;
@@ -48,6 +48,7 @@ Adopté par l’Assemblée de l’Union de Lisbonne le 2 octobre 2018 Entré en 
 - iii) le terme «publication» figurant à la règle 19 est réputé inclure, le cas échéant, une publication dans le recueil périodique visé à l’art. 5.2) de l’Acte de 1967, quel que soit le support utilisé pour sa publication.
 
 [^1-1]: [RS 0.232.111.14](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1038)
+[^1-2]: Nouvelle teneur selon les mod. adoptées par l’Assemblée de l’Union de Lisbonne le 17 juil. 2025, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2026 331](https://fedlex.data.admin.ch/eli/oc/2026/331)).
 
 #### Règle 2
 
@@ -215,8 +216,6 @@ la date de l’enregistrement international est la date à laquelle la dernière
 
 \7. Lors du paiement d’une taxe au Bureau international, il y a lieu d’indiquer l’appellation d’origine ou l’indication géographique concernée et l’objet du paiement.
 
-\9. Lorsque le montant d’une taxe est modifié, le montant applicable est celui qui était en vigueur à la date à laquelle la taxe a été reçue par le Bureau international.
-
 \1. Le Bureau international perçoit les taxes suivantes, payables en francs suisses:
 
 - i) taxe d’enregistrement international[^8-1]: 1000
@@ -235,12 +234,16 @@ la date de l’enregistrement international est la date à laquelle la dernière
 
 - 8\. a) Sous réserve du sous-al. b), une taxe est réputée payée au Bureau international le jour où le Bureau international reçoit le montant requis.
 - b) Lorsque le montant requis est disponible sur un compte ouvert auprès du Bureau international et que le Bureau a reçu du titulaire du compte l’instruction d’opérer un prélèvement, la taxe est réputée payée au Bureau international le jour où le Bureau international reçoit une demande ou une demande d’inscription d’une modification.
-
+- 9\. a) Lorsque le montant des taxes à payer pour une demande visées à la règle 5.2)c) est modifié entre la date de dépôt de la demande et la date du paiement, la taxe applicable est celle qui était en vigueur à la première date.
+- b) Lorsque le montant des taxes à payer pour une demande d’inscription d’une modification visée à la règle 15.2)a) est modifié entre la date de présentation de la demande et la date du paiement, la taxe applicable est celle qui était en vigueur à la première date.
+- c) Lorsque le montant des taxes à payer pour une modification ou en tant que taxe individuelle, dans le cas visé à la règle 7.4)a) et d), est modifié entre la date d’entrée en vigueur de l’Acte de Genève à l’égard d’un État partie à l’Acte de 1967 et la date du paiement, la taxe en vigueur à la première date est applicable.
+- d) Lorsque le montant d’une taxe autre que les taxes visées aux sous-alinéas a), b) et c) est modifié, le montant applicable est celui qui était en vigueur à la date à laquelle la taxe a été reçue par le Bureau international.[^8-3]
 - 10\. a) Nonobstant l’al. 1)v), une déclaration faite en vertu de l’art. 7.4) de l’Acte de Genève par une Partie contractante de l’Acte de Genève et de l’Acte de 1967 est sans effet sur les relations avec une autre Partie contractante qui est partie à l’Acte de Genève et à l’Acte de 1967.
 - b) L’Assemblée peut, à la majorité des trois quarts, abroger le sous-al. a) ou restreindre la portée du sous-al. a). Seules les Parties contractantes de l’Acte de Genève et de l’Acte de 1967 ont le droit de vote.
 
 [^8-1]: Pour un enregistrement international désignant une aire géographique située dans un pays de la catégorie des pays les moins avancés (PMA), conformément aux listes établies par l’Organisation des Nations Unies, la taxe est ramenée à 50 % du montant prescrit (arrondi au nombre entier le plus proche). Dans ce cas, la taxe sera de 500 francs suisses pour un enregistrement international désignant une aire géographique d’origine située dans un pays de la catégorie des PMA, de 250 francs suisses pour une modification d’un enregistrement international désignant une aire géographique d’origine située dans un pays de la catégorie des PMA et de 150 francs suisses représentant une taxe complémentaire pour une ou plusieurs modifications supplémentaires présentées dans la même demande. Ces réductions de taxes seront applicables pendant une durée de trois ans à compter de la date d’entrée en vigueur de l’Acte de Genève.
 [^8-2]: Nouvelle teneur selon les mod. adoptées par l’Assemblée de l’Union de Lisbonne le 22 juil. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2026 329](https://fedlex.data.admin.ch/eli/oc/2026/329)).
+[^8-3]: Nouvelle teneur selon les mod. adoptées par l’Assemblée de l’Union de Lisbonne le 17 juil. 2025, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2026 331](https://fedlex.data.admin.ch/eli/oc/2026/331)).
 
 ## Chapitre III Refus et autres mesures relatives à l’enregistrement international
 
@@ -367,11 +370,21 @@ la date de l’enregistrement international est la date à laquelle la dernière
 - iii) modification des limites de l’aire géographique de production ou de l’aire géographique d’origine du ou des produits auxquels s’applique l’appellation d’origine ou l’indication géographique;
 - iv) modification relative à l’acte législatif ou réglementaire, à la décision judiciaire ou administrative ou à l’enregistrement visés à la règle 5.2)a)vii);
 - v) modification relative à la partie contractante d’origine n’affectant pas l’aire géographique de production ou l’aire géographique d’origine du ou des produits auxquels s’applique l’appellation d’origine ou l’indication géographique;
-- vi) [*supprimé*].[^15-1]
+- vi) [*supprimé*]
+- vii)[^15-1] une modification relative à l’appellation d’origine ou à l’indication géographique;
+- viii)[^15-2] une modification relative au produit ou aux produits auxquels s’applique l’appellation d’origine ou l’indication géographique;
+- ix)[^15-3] une modification relative aux données visées à la règle 5.3)a) ou aux informations visées à la règle 5.6)a) vi).[^15-4]
 - 2\. a) Toute demande d’inscription d’une modification visée à l’al. 1) doit être présentée au Bureau international et signée par l’administration compétente de la Partie contractante d’origine ou, dans le cas visé à l’art. 5.3) de l’Acte de Genève, par les bénéficiaires ou par la personne physique ou morale visée à l’art. 5.2)ii) de cet Acte et doit être accompagnée de la taxe prescrite à la règle 8.
 - b) Toute demande d’inscription d’une modification visée à l’al. 1) doit, lorsqu’elle concerne une aire géographique de production ou une aire géographique d’origine transfrontalière nouvellement établie visée à l’art. 1.xiii) de l’Acte de Genève, être présentée au Bureau international et signée par l’administration compétente désignée en commun visée à l’art. 5.4) de l’Acte de Genève.
 
-[^15-1]: Nouvelle teneur selon les mod. adoptées par l’Assemblée de l’Union de Lisbonne le 22 juil. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2026 329](https://fedlex.data.admin.ch/eli/oc/2026/329)).
+- 5\. a) Lorsque la modification concerne l’appellation d’origine ou l’indication géographique, ou le ou les produits auxquels s’applique l’appellation d’origine ou l’indication géographique, l’administration compétente d’une partie contractante a le droit de déclarer qu’elle ne peut assurer la protection de l’appellation d’origine ou de l’indication géographique en raison de la modification. Cette déclaration doit être adressée au Bureau international par ladite administration compétente dans un délai d’une année à compter de la date de réception de la notification du Bureau international relative à la modification. Les règles 9 à 12 s’appliquent *mutatis mutandis*.
+- b) Lorsque la modification concerne les données visées à la règle 5.3)a), l’administration compétente d’une partie contractante qui a fait la notification en vertu de la règle 5.3) a le droit de déclarer qu’elle ne peut assurer la protection de l’appellation d’origine ou de l’indication géographique en raison de la modification. Cette déclaration doit être adressée au Bureau international par ladite administration compétente dans un délai d’une année à compter de la date de réception de la notification du Bureau international relative à la modification. Les règles 9 à 12 s’appliquent *mutatis mutandis*.[^15-5]
+
+[^15-1]: Introduit par les mod. adoptées par l’Assemblée de l’Union de Lisbonne le 17 juil. 2025, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2026 331](https://fedlex.data.admin.ch/eli/oc/2026/331)).
+[^15-2]: Introduit par les mod. adoptées par l’Assemblée de l’Union de Lisbonne le 17 juil. 2025, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2026 331](https://fedlex.data.admin.ch/eli/oc/2026/331)).
+[^15-3]: Introduit par les mod. adoptées par l’Assemblée de l’Union de Lisbonne le 17 juil. 2025, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2026 331](https://fedlex.data.admin.ch/eli/oc/2026/331)).
+[^15-4]: Nouvelle teneur selon les mod. adoptées par l’Assemblée de l’Union de Lisbonne le 22 juil. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2026 329](https://fedlex.data.admin.ch/eli/oc/2026/329)).
+[^15-5]: Introduit par les mod. adoptées par l’Assemblée de l’Union de Lisbonne le 17 juil. 2025, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2026 331](https://fedlex.data.admin.ch/eli/oc/2026/331)).
 
 #### Règle 16
 
@@ -411,7 +424,9 @@ la date de l’enregistrement international est la date à laquelle la dernière
 
 <sup>3.</sup> Le Bureau international notifie la rectification apportée au registre international à l’administration compétente de chaque Partie contractante ainsi que, dans le cas visé à l’art. 5.3) de l’Acte de Genève, aux bénéficiaires ou à la personne physique ou morale visée à l’art. 5.2)ii) de cet Acte.
 
-\4. Lorsque la rectification d’une erreur concerne l’appellation d’origine ou l’indication géographique, ou le ou les produits auxquels s’applique l’appellation d’origine ou l’indication géographique, l’administration compétente d’une Partie contractante a le droit de déclarer qu’elle ne peut assurer la protection de l’appellation d’origine ou de l’indication géographique après rectification. Cette déclaration doit être adressée au Bureau international par ladite administration compétente dans un délai d’une année à compter de la date de réception de la notification du Bureau international relative à la rectification. Les règles 9 à 12 s’appliquent *mutatis* *mutandis*.
+\4. Lorsque la rectification d’une erreur concerne l’appellation d’origine ou l’indication géographique, ou le ou les produits auxquels s’applique l’appellation d’origine ou l’indication géographique, l’administration compétente d’une partie contractante a le droit de déclarer qu’elle ne peut assurer la protection de l’appellation d’origine ou de l’indication géographique en raison de la rectification. Cette déclaration doit être adressée au Bureau international par ladite administration compétente dans un délai d’une année à compter de la date de réception de la notification du Bureau international relative à la rectification. Les règles 9 à 12 s’appliquent *mutatis mutandis*.[^18-1]
+
+[^18-1]: Nouvelle teneur selon les mod. adoptées par l’Assemblée de l’Union de Lisbonne le 17 juil. 2025, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2026 331](https://fedlex.data.admin.ch/eli/oc/2026/331)).
 
 ## Chapitre IV Dispositions diverses
 
