@@ -1,27 +1,26 @@
 ---
 canton: FR
 number: "922.111"
-title: Ordonnance DIAF concernant la planification de la chasse pour la saison 2025
-short: OPlan 2025
+title: Ordonnance DIAF concernant la planification de la chasse pour la saison 2026
+short: OPlan 2026
 language: fr
-version: 2025-07-01
-valid_until: 2026-06-30
-version_adopted: 2025-06-30
+version: 2026-07-01
+version_adopted: 2026-07-01
 adopted: 2026-07-01
 in_force: 2026-07-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/922.111"
-pdf: "https://bdlf.fr.ch/api/fr/versions/8240/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/8657/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
 
-# Ordonnance DIAF concernant la planification de la chasse pour la saison 2025
+# Ordonnance DIAF concernant la planification de la chasse pour la saison 2026
 
-Planification de la chasse pour la saison 2025 – O
+Planification de la chasse pour la saison 2026
 
-(OPlan 2025)
+(OPlan 2026)
 
-du 30.06.2025 (version entrée en vigueur le 01.07.2025)
+du 01.07.2026 (version entrée en vigueur le 01.07.2026)
 
 La Direction des institutions, de l'agriculture et des forêts
 
@@ -47,7 +46,7 @@ Adopte ce qui suit:
 
 #### Art. 1
 
-<sup>1</sup> La présente ordonnance a pour objet d'établir des contingents pour certaines espèces ainsi que les règles particulières pour la saison de chasse 2025, y compris pour les tirs de régulation effectués en application de l'ordonnance concernant les tirs de régulation dans les zones protégées (OTir)[^1-1].
+<sup>1</sup> La présente ordonnance a pour objet d'établir des contingents pour certaines espèces ainsi que les règles particulières pour la saison de chasse 2026, y compris pour les tirs de régulation effectués en application de l'ordonnance concernant les tirs de régulation dans les zones protégées (OTir)[^1-1].
 
 [^1-1]: RSF [922.15](https://bdlf.fr.ch/data/922.15/fr)
 
@@ -79,7 +78,7 @@ Adopte ce qui suit:
 
 <sup>3</sup> Sur présentation d'une attestation délivrée par un ou une garde-faune, si, au terme de la période de chasse, le chasseur ou la chasseuse n'a pas tiré de chamois, la préfecture qui a délivré le permis rembourse la moitié du prix payé pour l'obtention du permis.
 
-<sup>4</sup> La demande de remboursement prévu aux alinéas 1 à 3 doit être déposée jusqu'au 15 mars 2026 auprès de la préfecture qui a délivré le permis.
+<sup>4</sup> La demande de remboursement prévu aux alinéas 1 à 3 doit être déposée jusqu'au 15 mars 2027 auprès de la préfecture qui a délivré le permis.
 
 <sup>5</sup> En cas de blessure avérée d'un animal par un chasseur ou une chasseuse durant la chasse, l'attestation prévue selon l'alinéa 3 ne peut être délivrée.
 
@@ -95,15 +94,15 @@ Adopte ce qui suit:
 
 **Période de chasse et participation (art. 59 et 60 OCha[^4-1])**
 
-<sup>1</sup> La chasse du chamois est autorisée du 22 septembre au 4 octobre 2025 ainsi que durant deux samedis supplémentaires (20 septembre et 11 octobre 2025) (art. 59 OCha[^4-2]).
+<sup>1</sup> La chasse du chamois est autorisée du 21 septembre au 3 octobre 2026 ainsi que durant deux samedis supplémentaires (19 septembre et 10 octobre 2026) (art. 59 OCha[^4-2]).
 
 <sup>2</sup> Le Service des forêts et de la nature (ci-après: le Service) désigne, par tirage au sort, les chasseurs et chasseuses autorisés à participer à la chasse du chamois (permis A). La procédure de désignation des chasseurs et chasseuses autorisés à participer à la chasse spéciale selon l'article 60 OCha[^4-3] s'applique.
 
 <sup>3</sup> La période de chasse spéciale du chamois et la procédure de désignation des participants sont définies à l'article 60 OCha[^4-4].
 
-<sup>4</sup> Un échange de bracelets est possible uniquement entre chasseurs et chasseuses qui ont été tirés au sort. Celui-là doit être communiqué au Service, via la formule disponible en ligne, au plus tard jusqu'au 20 août 2025.
+<sup>4</sup> Un échange de bracelets est possible uniquement entre chasseurs et chasseuses qui ont été tirés au sort. Celui-là doit être communiqué au Service, via la formule disponible en ligne, au plus tard jusqu'au 21 août 2026.
 
-<sup>5</sup> Si un chasseur ou une chasseuse commet un tir par erreur, il ou elle ne pourra plus pratiquer la chasse du chamois durant les deux saisons de chasse qui suivent l'incident. Cette restriction ne s'applique pas en cas de confusion entre un éterle et un animal âgé de deux ans et demi, sauf en présence de récidive l'année suivante.
+<sup>5</sup> Si un chasseur ou une chasseuse commet un tir par erreur, il ou elle ne pourra plus pratiquer la chasse du chamois durant deux saisons de chasse qui suivent l'incident. Cette restriction ne s'applique pas en cas de confusion entre un éterle et un animal âgé de deux ans et demi, sauf en présence de récidive l'année suivante.
 
 [^4-1]: RSF [922.11](https://bdlf.fr.ch/data/922.11/fr)
 [^4-2]: RSF [922.11](https://bdlf.fr.ch/data/922.11/fr)
@@ -118,19 +117,19 @@ Adopte ce qui suit:
 
 <sup>2</sup> Dans l'UdG 1, les contingents sont les suivants:
 
-- a) territoires ouverts à la chasse: 75 individus, soit 22 boucs, 28 chèvres et 25 jeunes (cabris et éterles);
+- a) territoires ouverts à la chasse: 75 individus, soit 24 boucs, 26 chèvres et 25 jeunes (cabris et éterles);
 - b) réserve cantonale des Raveires (chasse spéciale): 9 individus, soit 3 boucs, 3 chèvres et 3 jeunes (cabris et éterles);
 - c) réserve cantonale des Dents-Vertes (chasse spéciale): 9 individus, soit 3 boucs, 3 chèvres et 3 jeunes (cabris et éterles);
 - d) réserve cantonale du Breccaschlund (chasse spéciale): 5 individus, soit 1 bouc, 2 chèvres et 2 jeunes (cabris et éterles).
 
 <sup>3</sup> Dans l'UdG 2, les contingents sont les suivants:
 
-- a) territoires ouverts à la chasse: 72 individus, soit 20 boucs, 27 chèvres et 25 jeunes (cabris et éterles);
+- a) territoires ouverts à la chasse: 69 individus, soit 21 boucs, 24 chèvres et 24 jeunes (cabris et éterles);
 - b) réserve cantonale de la Dent-du-Chamois (chasse spéciale): 9 individus, soit 3 boucs, 3 chèvres et 3 jeunes (cabris et éterles).
 
 <sup>4</sup> Dans l'UdG 3, les contingents sont les suivants:
 
-- a) territoires ouverts à la chasse: 33 individus, soit 9 boucs, 13 chèvres et 11 jeunes (cabris et éterles).
+- a) territoires ouverts à la chasse: 30 individus, soit 10 boucs, 10 chèvres et 10 jeunes (cabris et éterles).
 
 <sup>5</sup> Dans l'UdG 4, la chasse du chamois n'est pas autorisée.
 
@@ -151,8 +150,8 @@ Adopte ce qui suit:
 <sup>1</sup> Les postes de contrôle ainsi que les horaires applicables pour la présentation des chamois abattus sont les suivants:
 
 - a) Friesmattli, Zollhaus: selon entente avec le ou la garde-faune;
-- b) Saussivue, dépôt des cantonniers, Gruyères: le 20 septembre 2025, de 20 à 21 heures, ainsi que du 22 au 27 septembre 2025, de 13 à 14 heures et de 20 à 21 heures;
-- c) Sâles, dépôt des cantonniers: les 22, 23 et 24 septembre 2025, de 20 à 21 heures.
+- b) Saussivue, dépôt des cantonniers: du 19 au 26 septembre 2026, de 13 à 14 heures et de 20 à 21 heures;
+- c) Sâles, dépôt des cantonniers: les 21, 22 et 23 septembre 2026, de 20 à 21 heures.
 
 <sup>2</sup> Les chasseurs et chasseuses qui ont bénéficié du contrôle du ou de la garde-faune sur le terrain de chasse ne doivent pas présenter l'animal aux postes de contrôle mentionnés à l'alinéa 1.
 
@@ -181,7 +180,7 @@ Adopte ce qui suit:
 
 **Période de chasse**
 
-<sup>1</sup> La chasse du chevreuil est autorisée du 22 septembre au 18 octobre 2025.
+<sup>1</sup> La chasse du chevreuil est autorisée du 21 septembre au 17 octobre 2026.
 
 #### Art. 9
 
@@ -191,7 +190,7 @@ Adopte ce qui suit:
 
 <sup>2</sup> Un seul chevreuil par chasseur ou chasseuse peut être abattu dans l'ensemble des secteurs de faune 0202, 0502, 0504, 0701, 0704, 0705, 0706, 0801, 0802, 1005 et 1503.
 
-<sup>3</sup> Pour les chasseurs et chasseuses au bénéfice de quatre marques de contrôle, le quatrième chevreuil doit être tiré dans les secteurs de faune 0103, 0104, 0402, 0404, 0406, 1107, 1108, 1305, 1401, 1403, 1404, 1406, 1601, 1602, 1603, 1604, 1605 ou 1606.
+<sup>3</sup> Pour les chasseurs et chasseuses au bénéfice de quatre marques de contrôle, le quatrième chevreuil doit être tiré dans les secteurs de faune 0103, 0104, 0402, 0404, 0406, 1107, 1108, 1302, 1401, 1403, 1404, 1406, 1601, 1602, 1603, 1604, 1605 ou 1606.
 
 [^9-1]: RSF [922.11](https://bdlf.fr.ch/data/922.11/fr)
 
@@ -205,26 +204,26 @@ Adopte ce qui suit:
 
 **Période de chasse**
 
-<sup>1</sup> La chasse du cerf est autorisée du 20 au 31 octobre et du 15 au 29 novembre 2025 dans les UdG 1, 2 et 3.
+<sup>1</sup> La chasse du cerf est autorisée du 19 au 31 octobre et du 14 au 30 novembre 2026 dans les UdG 1, 2 et 3.
 
-<sup>2</sup> Du 20 au 25 octobre 2025, seules les catégories de sexe et classe d'âge suivantes sont ouvertes à la chasse: biches, bichettes et faons.
+<sup>2</sup> Du 19 au 24 octobre 2026, le tir des coiffés est interdit.
 
 <sup>3</sup> Dans le cas où un chasseur ou une chasseuse prélève un cerf coiffé après avoir prélevé, durant la première semaine de chasse, un faon, il ou elle devra s'acquitter uniquement de la moitié des montants supplémentaires prévus à l'article 62 OCha[^10-1].
 
-<sup>4</sup> Le Service peut prolonger la période de chasse du 1<sup>er</sup> au 15 décembre 2025, si le contingent de chasse n'est pas atteint.
+<sup>4</sup> Le Service peut prolonger la période de chasse du 1<sup>er</sup> au 15 décembre 2026, si le contingent de chasse n'est pas atteint.
 
 [^10-1]: RSF [922.11](https://bdlf.fr.ch/data/922.11/fr)
 
 #### Art. 11
 
-**Contingent de chasse**
+**Contingents de chasse**
 
-<sup>1</sup> Le contingent pour l'exercice de la chasse 2025 est de 220 individus, soit:
+<sup>1</sup> Le contingent pour l'exercice de la chasse 2026 est de 230 individus, soit:
 
-- a) 35 mâles coiffés;
-- b) 35 daguets;
-- c) 80 biches et bichettes;
-- d) 70 faons.
+- a) 40 mâles coiffés;
+- b) 30 daguets;
+- c) 85 biches et bichettes;
+- d) 75 faons.
 
 #### Art. 12
 
@@ -233,8 +232,9 @@ Adopte ce qui suit:
 <sup>1</sup> Les postes de contrôle ainsi que les horaires applicables pour la présentation des cerfs abattus sont les suivants:
 
 - a) Friesmattli, Zollhaus, dépôt des cantonniers: selon entente avec le ou la garde-faune;
-- b) Saussivue, dépôt des cantonniers, Gruyères: selon entente avec le ou la garde-faune;
-- c) Sâles, dépôt des cantonniers: selon entente avec le ou la garde-faune.
+- b) Saussivue, dépôt des cantonniers: selon entente avec le ou la garde-faune;
+- c) Sâles, dépôt des cantonniers: selon entente avec le ou la garde-faune;
+- d) Val-de-Charmey, local des Invuettes: selon entente avec le ou la garde-faune.
 
 [^12-1]: RSF [922.11](https://bdlf.fr.ch/data/922.11/fr)
 
@@ -289,13 +289,14 @@ Adopte ce qui suit:
 
 **Déplacements en dehors de la période de chasse**
 
-<sup>1</sup> Les chasseurs et chasseuses sont autorisés à se rendre, par les voies habituelles dans les territoires de montagne, avec l'arme non chargée, au chalet où ils logent, les jours suivants:
+<sup>1</sup> Les chasseurs et chasseuses sont autorisés à se rendre, par les voies habituelles, dans les territoires de montagne, avec l'arme non chargée, au chalet où ils logent, les jours suivants:
 
 - a) pour la chasse du chamois:
-  - 1\. 19 et 21 septembre;
+  - 1\. 18 et 20 septembre;
+  - 2\. 9 octobre;
 - b) pour la chasse du cerf:
-  - 1\. 19 et 26 octobre;
-  - 2\. 14, 16, 21, 23 et 28 novembre.
+  - 1\. 18 et 25 octobre;
+  - 2\. 13, 15, 20, 22, 27 et 29 novembre.
 
 <sup>2</sup> Le lendemain du jour de chasse, bien que celui-ci soit fermé à la chasse, le retour depuis le chalet où les chasseurs logent est permis uniquement par les voies habituelles dans les territoires de montagne, avec l'arme non chargée.
 
@@ -309,21 +310,19 @@ Adopte ce qui suit:
 
 #### Art. 18
 
-**District franc Hochmatt–Motélon (art. A1-1 OProt[^18-1])**
+**District franc Hochmatt-Motélon (art. A1-1 OProt[^18-1])**
 
-<sup>1</sup> Dans cette réserve, seuls les tirs de régulation du cerf sont admis, ceci tous les jours ouverts à la chasse, du 20 au 31 octobre et du 15 au 29 novembre 2025. Le Service peut prolonger la période du 1<sup>er</sup> au 15 décembre 2025, si le contingent de chasse n'est pas atteint.
+<sup>1</sup> Dans cette réserve, seuls les tirs de régulation du cerf sont admis, ceci tous les jours ouverts à la chasse, du 19 au 31 octobre et du 14 au 30 novembre 2026. Le Service peut prolonger la période du 1<sup>er</sup> au 15 décembre 2026, si le contingent de chasse n'est pas atteint.
 
-<sup>2</sup> Le nombre de cerfs qui peuvent être prélevés est limité à 20 individus. Pour les classes d'âge, se référer au répondeur téléphonique de la chasse.
-
-<sup>3</sup> Le tir des coiffés est interdit.
+<sup>2</sup> Le nombre de cerfs qui peuvent être prélevés est limité à 25 individus. Pour les classes d'âge se référer au répondeur téléphonique de la chasse.
 
 [^18-1]: RSF [922.13](https://bdlf.fr.ch/data/922.13/fr)
 
 #### Art. 19
 
-**Réserve du Fanel–Chablais-de-Cudrefin–Pointe-de-Marin (art. A1-3 OProt[^19-1])**
+**Réserve du Fanel-Chablais-de-Cudrefin-Pointe-de-Marin (art. A1-3 OProt[^19-1])**
 
-<sup>1</sup> Dans cette réserve, seuls les tirs de régulation du sanglier sont admis, ceci tous les jours ouverts à la chasse, du 1<sup>er</sup> au 15 octobre et du 1<sup>er</sup> novembre au 31 décembre 2025.
+<sup>1</sup> Dans cette réserve, seuls les tirs de régulation du sanglier sont admis, ceci tous les jours ouverts à la chasse, du 1<sup>er</sup> au 15 octobre et du 1<sup>er</sup> novembre au 31 décembre 2026.
 
 <sup>2</sup> Le nombre de sangliers qui peuvent être prélevés est limité à 15 individus.
 
@@ -333,7 +332,7 @@ Adopte ce qui suit:
 
 **Réserve du Chablais (lac de Morat) (art. A1-6 OProt[^20-1])**
 
-<sup>1</sup> Dans cette réserve, seuls les tirs de régulation du sanglier sont admis, ceci tous les jours ouverts à la chasse, du 1<sup>er</sup> au 15 octobre et du 1<sup>er</sup> novembre au 31 décembre 2025.
+<sup>1</sup> Dans cette réserve, seuls les tirs de régulation du sanglier sont admis, ceci tous les jours ouverts à la chasse, du 1<sup>er</sup> au 15 octobre et du 1<sup>er</sup> novembre au 31 décembre 2026.
 
 <sup>2</sup> Le nombre de sangliers qui peuvent être prélevés est limité à 15 individus.
 
@@ -360,8 +359,8 @@ Adopte ce qui suit:
 
 —
 
-En date du 29 juillet 2025, le Département fédéral de l'environnement, des transports, de l'énergie et de la communication (DETEC) a approuvé les articles 4 al. 1, 8 al. 1, 10 al. 1 et 4 de la présente ordonnance (INFO 2025-32).
+En date du 4 août 2026, le Département fédéral de l'environnement, des transports, de l'énergie et de la communication (DETEC) a approuvé les articles 4 al. 1, 8 al. 1 et 10 al. 1 et 4 de la présente ordonnance (INFO 2026-31).
 
-Cette approbation revêtant un caractère constitutif, ces articles ne peuvent entrer en vigueur qu'au moment de la publication de son obtention, soit le 8 août 2025. Dans sa décision d'approbation, le DETEC a considéré que les articles 18 à 20 du présent acte n'étaient pas soumis à l'approbation fédérale. Ces dispositions sont donc entrées en vigueur au 1er juillet 2025, comme le reste des dispositions non-soumises à l'approbation fédérale.
+Cette approbation revêtant un caractère constitutif, ces articles ne peuvent entrer en vigueur qu'au moment de la publication de son obtention, soit le 7 août 2026.
 
-2025\_051
+2026\_052
