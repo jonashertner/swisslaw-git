@@ -4,11 +4,11 @@ title: "Ordonnance du 25 octobre 2017 sur l'approbation des plans en matière d'
 short: OAPA
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/687"
 language: fr
-version: 2021-01-01
+version: 2026-07-01
 adopted: 2017-10-25
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/687/20210101/fr/xml/fedlex-data-admin-ch-eli-cc-2017-687-20210101-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/687/20210101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/687/20260701/fr/xml/fedlex-data-admin-ch-eli-cc-2017-687-20260701-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/687/20260701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/687/20210101/fr"
 
 (OAPA)
 
-du 25 octobre 2017 (État le 1<sup>er</sup> janvier 2021)
+du 25 octobre 2017 (État le 1<sup>er</sup> juillet 2026)
 
 Le Conseil fédéral suisse,
 
@@ -25,7 +25,7 @@ vu l’art. 119 de la loi du 26 juin 1998 sur l’asile (LAsi)[^ingress-1],
 
 arrête:
 
-[^ingress-1]: [RS 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
+[^ingress-1]: [RS 142.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4878)
 
 ## Chapitre 1 Dispositions générales
 
@@ -53,7 +53,7 @@ Les constructions et les installations visées par la présente ordonnance sont 
 
 <sup>3</sup> Les dispositions de l’ordonnance du 23 novembre 1994 sur l’infrastructure aéronautique[^1-1] sont réservées.
 
-[^1-1]: [RS 748.131.1](https://fedlex.data.admin.ch/eli/cc/1994/3050_3050_3050)
+[^1-1]: [RS 748.131.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9072)
 
 #### Art. 2
 
@@ -88,13 +88,13 @@ Ne sont pas soumis à autorisation dans la mesure où les intérêts dignes de p
 
 <sup>1</sup> Le DFJP assure, au moyen du plan sectoriel Asile, la planification générale et la coordination des activités de la Confédération relatives à l’hébergement des requérants d’asile et à l’exécution des procédures d’asile ayant des effets considérables sur l’aménagement du territoire et sur l’environnement.
 
-<sup>2</sup> L’approbation des plans d’un projet qui relève du plan sectoriel dépend de son classement en catégorie « coordination réglée » dans le plan sectoriel Asile.
+<sup>2</sup> L’approbation des plans d’un projet qui relève du plan sectoriel dépend de son classement en catégorie «coordination réglée» dans le plan sectoriel Asile.
 
 <sup>3</sup> Le Secrétariat d’État aux migrations (SEM) est l’autorité fédérale compétente en matière d’élaboration et d’adaptation du plan sectoriel Asile. La procédure est régie par l’ordonnance du 28 juin 2000 sur l’aménagement du territoire[^4-1].
 
 <sup>4</sup> Le DFJP veille à la coordination entre les procédures du plan sectoriel et de l’approbation des plans.
 
-[^4-1]: [RS 700.1](https://fedlex.data.admin.ch/eli/cc/2000/310)
+[^4-1]: [RS 700.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8353)
 
 ## Chapitre 2 Procédure ordinaire d’approbation des plans
 
@@ -152,10 +152,13 @@ La demande contient, en particulier, les données et les documents suivants:
 - l. les demandes de défrichement accompagnées des données requises par les directives prévues à l’art. 5, al. 3, de l’ordonnance du 30 novembre 1992 sur les forêts[^6-1];
 - m. le classement dans le plan sectoriel Asile;
 - n.[^6-2] le rapport sur les résultats, ainsi que les propositions écrites d’une procédure de participation qui a, le cas échéant, déjà été exécutée (art. 10, al. 2);
-- o. les mesures relatives à la sécurité des constructions et des installations, en particulier la protection incendie et l’évacuation d’urgence.
+- o. les mesures relatives à la sécurité des constructions et des installations, en particulier la protection incendie et l’évacuation d’urgence;
+- p.[^6-3] pour les projets hors zone à bâtir: des plans indiquant la délimitation des bâtiments nouveaux ou supprimés conformément à l’art. 25*a*, al. 1, de l’ordonnance du 28 juin 2000 sur l’aménagement du territoire (OAT)[^6-4], ainsi que des surfaces imperméabilisées nouvelles ou supprimées conformément à l’art. 25*a*, al. 2, OAT.
 
-[^6-1]: [RS 921.01](https://fedlex.data.admin.ch/eli/cc/1992/2538_2538_2538)
+[^6-1]: [RS 921.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10959)
 [^6-2]: Nouvelle teneur selon le ch. I 1 de l’O du 19 août 2020 portant adaptation d’ordonnances en raison de la modification de la LF sur l’expropriation, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 3995](https://fedlex.data.admin.ch/eli/oc/2020/744)).
+[^6-3]: Introduite par l’annexe ch. 1 de l’O du 15 oct. 2025, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2025 659](https://fedlex.data.admin.ch/eli/oc/2025/659)).
+[^6-4]: [RS 700.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8353)
 
 #### Art. 7
 
@@ -255,7 +258,7 @@ Le DFJP soumet au SEM les prises de position, les oppositions, ainsi que les pro
 
 <sup>2</sup> Le DFJP soumet aux autorités fédérales les prises de position des cantons et des communes, ainsi que les oppositions et les propositions de la population. Les autorités fédérales prennent position dans un délai d’un mois.
 
-[^15-1]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^15-1]: [RS 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
 
 ### Section 4 Instruction et procédure de conciliation
 
@@ -297,7 +300,7 @@ Le DFJP soumet au SEM les prises de position, les oppositions, ainsi que les pro
 
 <sup>2</sup> Le SEM remet les documents requis à l’art. 28 LEx au DFJP, qui peut demander des compléments.
 
-[^19-1]: [RS 711](https://fedlex.data.admin.ch/eli/cc/47/689_701_723)
+[^19-1]: [RS 711](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8369)
 
 #### Art. 20
 
@@ -311,7 +314,7 @@ Abrogé
 
 Les oppositions et demandes visées à l’art. 33 LEx[^21-1] doivent être déposées, dans les 30 jours suivant la publication dans la Feuille fédérale du projet mis à l’enquête publique, auprès de la commune qui y est désignée et à l’attention du DFJP.
 
-[^21-1]: [RS 711](https://fedlex.data.admin.ch/eli/cc/47/689_701_723)
+[^21-1]: [RS 711](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8369)
 
 ### Section 2 Procédure autonome d’expropriation
 
@@ -319,7 +322,7 @@ Les oppositions et demandes visées à l’art. 33 LEx[^21-1] doivent être dép
 
 S’il s’agit d’autoriser une expropriation sans approbation des plans, le DFJP mène une procédure autonome d’expropriation conformément aux art. 36 à 41 LEx[^22-1].
 
-[^22-1]: [RS 711](https://fedlex.data.admin.ch/eli/cc/47/689_701_723)
+[^22-1]: [RS 711](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8369)
 
 ### Section 3 Procédures de conciliation et d’estimation
 
@@ -327,7 +330,7 @@ S’il s’agit d’autoriser une expropriation sans approbation des plans, le D
 
 Une fois la décision d’approbation des plans entrée en force, les procédures de conciliation et d’estimation sont menées au besoin devant la commission fédérale d’estimation conformément aux art. 45 à 54 ou 64 à 75 LEx[^23-1]. Le DFJP transmet à la commission les documents visés aux art. 34, al. 2, et 41, al. 2, LEx.
 
-[^23-1]: [RS 711](https://fedlex.data.admin.ch/eli/cc/47/689_701_723)
+[^23-1]: [RS 711](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8369)
 
 #### Art. 24
 
@@ -348,7 +351,7 @@ Abrogé
 La décision portant sur l’approbation des plans contient notamment:
 
 - a. les décisions concernant les consultations et les oppositions;
-- b.[^25-1] ...
+- b.[^25-1] …
 - c. les conditions et les charges, relatives notamment à la conception technique, aux mesures visant à protéger la santé des travailleurs et à assurer leur sécurité*,* à l’exécution de la construction, aux mesures de protection durant la construction et aux travaux de remise en état;
 - d. les charges relatives au contrôle des constructions et à l’exploitation;
 - e. les comptes rendus exposant comment les propositions de la population ont été prises en considération.
@@ -398,9 +401,21 @@ Les adaptations ultérieures du projet sont soumises au DFJP qui, en cas de modi
 
 #### Art. 29
 
-**Mise à jour de la mensuration officielle**
+**Devoirs d’annonce**[^29-1]
 
-Dans un délai de 30 jours après la fin des travaux de construction, le SEM déclare toute modification rendant nécessaire une mise à jour de la mensuration officielle au service cantonal chargé de la surveillance de la mensuration officielle.
+<sup>1</sup> Le DFJP informe l’Office fédéral de topographie (swisstopo) de la clôture d’une procédure d’approbation des plans en lui transmettant la décision d’approbation des plans et les plans dont swisstopo a besoin.
+
+<sup>2</sup>
+
+Pour les constructions et les installations qui nécessitent une mise à jour de la mensuration officielle ou de la mensuration nationale, le SEM informe swisstopo dans un délai de 20 jours, en lui remettant les plans dont il a besoin:
+
+- a. du début des travaux, et
+- b. de l’achèvement des travaux.
+
+<sup>3</sup> Si un projet se situe en tout ou partie hors de la zone à bâtir, le SEM transmet en même temps que l’information à swisstopo de l’achèvement des travaux, les plans en vigueur visés à l’art. 6, let. p, sous forme de géodonnées, à l’autorité cantonale compétente en vertu de l’art. 25, al. 2, de la loi du 22 juin 1979 sur l’aménagement du territoire[^29-2].
+
+[^29-1]: Nouvelle teneur selon l’annexe ch. 1 de l’O du 15 oct. 2025, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2025 659](https://fedlex.data.admin.ch/eli/oc/2025/659)).
+[^29-2]: [RS 700](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8351)
 
 ## Chapitre 6 Entrée en vigueur
 

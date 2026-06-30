@@ -4,11 +4,11 @@ title: "Ordinanza del 25 ottobre 2017 concernente la procedura d'approvazione de
 short: OAPA
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/687"
 language: it
-version: 2021-01-01
+version: 2026-07-01
 adopted: 2017-10-25
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/687/20210101/it/xml/fedlex-data-admin-ch-eli-cc-2017-687-20210101-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/687/20210101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/687/20260701/it/xml/fedlex-data-admin-ch-eli-cc-2017-687-20260701-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/687/20260701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/687/20210101/it"
 
 (OAPA)
 
-del 25 ottobre 2017 (Stato 1° gennaio 2021)
+del 25 ottobre 2017 (Stato 1° luglio 2026)
 
 Il Consiglio federale svizzero,
 
@@ -25,7 +25,7 @@ visto l’articolo 119 della legge del 26 giugno 1998[^ingress-1] sull’asilo (
 
 ordina:
 
-[^ingress-1]: [RS 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
+[^ingress-1]: [RS 142.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4878)
 
 ## Capitolo 1: Disposizioni generali
 
@@ -53,7 +53,7 @@ Si tratta segnatamente di costruzioni e di impianti che:
 
 <sup>3</sup> Sono fatte salve le disposizioni dell’ordinanza del 23 novembre 1994[^1-1] sull’infrastruttura aeronautica.
 
-[^1-1]: [RS 748.131.1](https://fedlex.data.admin.ch/eli/cc/1994/3050_3050_3050)
+[^1-1]: [RS 748.131.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9072)
 
 #### Art. 2
 
@@ -94,7 +94,7 @@ Sempre che non sia toccato alcun interesse degno di protezione dell’assetto de
 
 <sup>4</sup> Il DFGP provvede alla coordinazione della procedura concernente il piano settoriale e della procedura d’approvazione dei piani.
 
-[^4-1]: [RS 700.1](https://fedlex.data.admin.ch/eli/cc/2000/310)
+[^4-1]: [RS 700.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8353)
 
 ## Capitolo 2: Procedura ordinaria di approvazione dei piani
 
@@ -126,7 +126,7 @@ In base ai documenti presentati, il DFGP decide su:
 
 <sup>4</sup> Può esigere che i documenti siano completati o rielaborati.
 
-[^5-1]: Introdotta dal n. I 1 dell’O del 19 ago. 2020 che adegua ordinanze a seguito della modifica della legge federale sull’espropriazione, in vigore dal 1° gen. 2021 ([RU 2020 3995](https://fedlex.data.admin.ch/eli/oc/2020/744)).
+[^5-1]: Introdotta dalla cifra I n. 1 dell’O del 19 ago. 2020 che adegua ordinanze a seguito della modifica della legge federale sull’espropriazione, in vigore dal 1° gen. 2021 ([RU 2020 3995](https://fedlex.data.admin.ch/eli/oc/2020/744)).
 
 ### Sezione 2: Domanda e picchettamento
 
@@ -152,10 +152,13 @@ La domanda deve contenere segnatamente le indicazioni e i documenti seguenti:
 - l. le domande di dissodamento con le indicazioni secondo le direttive giusta l’articolo 5 capoverso 3 dell’ordinanza del 30 novembre 1992[^6-1] sulle foreste;
 - m. l’inserimento nel piano settoriale Asilo;
 - n.[^6-2] il rapporto sui risultati, nonché le proposte scritte di un’eventuale procedura di partecipazione già eseguita (art. 10 cpv. 2);
-- o. le misure atte a garantire la sicurezza degli edifici e delle infrastrutture, in particolare nell’ambito della protezione antincendio e della pianificazione d’evacuazione.
+- o. le misure atte a garantire la sicurezza degli edifici e delle infrastrutture, in particolare nell’ambito della protezione antincendio e della pianificazione d’evacuazione;
+- p.[^6-3] per i progetti fuori delle zone edificabili: i piani dai quali risulti la delimitazione di eventuali edifici nuovi o demoliti ai sensi dell’articolo 25*a* capoverso 1 dell’ordinanza del 28 giugno 2000[^6-4] sulla pianificazione del territorio e di eventuali superfici impermeabilizzate nuove o demolite ai sensi dell’articolo 25*a* capoverso 2 dell’ordinanza sulla pianificazione del territorio.
 
-[^6-1]: [RS 921.01](https://fedlex.data.admin.ch/eli/cc/1992/2538_2538_2538)
-[^6-2]: Nuovo testo giusta il n. I 1 dell’O del 19 ago. 2020 che adegua ordinanze a seguito della modifica della legge federale sull’espropriazione, in vigore dal 1° gen. 2021 ([RU 2020 3995](https://fedlex.data.admin.ch/eli/oc/2020/744)).
+[^6-1]: [RS 921.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10959)
+[^6-2]: Nuovo testo giusta la cifra I n. 1 dell’O del 19 ago. 2020 che adegua ordinanze a seguito della modifica della legge federale sull’espropriazione, in vigore dal 1° gen. 2021 ([RU 2020 3995](https://fedlex.data.admin.ch/eli/oc/2020/744)).
+[^6-3]: Introdotto dall’appendice n. 1 all’O del 15 ott. 2025, in vigore dal 1° lug. 2026 ([RU 2025 659](https://fedlex.data.admin.ch/eli/oc/2025/659)).
+[^6-4]: [RS 700.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8353)
 
 #### Art. 7
 
@@ -205,7 +208,7 @@ Il DFGP invia la documentazione relativa alla domanda contemporaneamente alle au
 
 <sup>3</sup> Nell’ambito della procedura semplificata di approvazione dei piani non ha luogo alcuna procedura di partecipazione.
 
-[^10-1]: Nuovo testo giusta il n. I 1 dell’O del 19 ago. 2020 che adegua ordinanze a seguito della modifica della legge federale sull’espropriazione, in vigore dal 1° gen. 2021 ([RU 2020 3995](https://fedlex.data.admin.ch/eli/oc/2020/744)).
+[^10-1]: Nuovo testo giusta dalla cifra I n. 1 dell’O del 19 ago. 2020 che adegua ordinanze a seguito della modifica della legge federale sull’espropriazione, in vigore dal 1° gen. 2021 ([RU 2020 3995](https://fedlex.data.admin.ch/eli/oc/2020/744)).
 
 #### Art. 11
 
@@ -219,7 +222,7 @@ Il DFGP invia la documentazione relativa alla domanda contemporaneamente alle au
 
 <sup>2</sup> Le opposizioni devono essere presentate per scritto e devono contenere le conclusioni e la motivazione.
 
-[^11-1]: Nuovo testo giusta il n. I 1 dell’O del 19 ago. 2020 che adegua ordinanze a seguito della modifica della legge federale sull’espropriazione, in vigore dal 1° gen. 2021 ([RU 2020 3995](https://fedlex.data.admin.ch/eli/oc/2020/744)).
+[^11-1]: Nuovo testo giusta la cifra I n. 1 dell’O del 19 ago. 2020 che adegua ordinanze a seguito della modifica della legge federale sull’espropriazione, in vigore dal 1° gen. 2021 ([RU 2020 3995](https://fedlex.data.admin.ch/eli/oc/2020/744)).
 
 #### Art. 12
 
@@ -255,7 +258,7 @@ Il DFGP sottopone alla SEM i pareri e le opposizioni, nonché le proposte della 
 
 <sup>2</sup> Il DFGP sottopone alle autorità specializzate della Confederazione i pareri dei Cantoni e dei Comuni, nonché le opposizioni e le proposte della popolazione. Le autorità specializzate si esprimono in modo definitivo entro un mese.
 
-[^15-1]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^15-1]: [RS 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
 
 ### Sezione 4: Procedura d’istruzione e di conciliazione
 
@@ -287,7 +290,7 @@ Il DFGP sottopone alla SEM i pareri e le opposizioni, nonché le proposte della 
 
 [^chap4-1]
 
-[^chap4-1]: Nuovo testo giusta il n. I 1 dell’O del 19 ago. 2020 che adegua ordinanze a seguito della modifica della legge federale sull’espropriazione, in vigore dal 1° gen. 2021 ([RU 2020 3995](https://fedlex.data.admin.ch/eli/oc/2020/744)).
+[^chap4-1]: Nuovo testo giusta la cifra I n. 1 dell’O del 19 ago. 2020 che adegua ordinanze a seguito della modifica della legge federale sull’espropriazione, in vigore dal 1° gen. 2021 ([RU 2020 3995](https://fedlex.data.admin.ch/eli/oc/2020/744)).
 
 ### Sezione 1: Procedura di espropriazione combinata
 
@@ -297,7 +300,7 @@ Il DFGP sottopone alla SEM i pareri e le opposizioni, nonché le proposte della 
 
 <sup>2</sup> La SEM trasmette al DFGP la documentazione necessaria secondo l’articolo 28 LEspr. Il DFGP può chiedere di completare la documentazione.
 
-[^19-1]: [RS 711](https://fedlex.data.admin.ch/eli/cc/47/689_701_723)
+[^19-1]: [RS 711](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8369)
 
 #### Art. 20
 
@@ -311,7 +314,7 @@ Abrogato
 
 Le opposizioni e le richieste di cui all’articolo 33 LEspr[^21-1] devono essere presentate entro 30 giorni dalla pubblicazione del deposito pubblico dei piani nel Foglio federale al Comune ivi indicato e all’attenzione del DFGP.
 
-[^21-1]: [RS 711](https://fedlex.data.admin.ch/eli/cc/47/689_701_723)
+[^21-1]: [RS 711](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8369)
 
 ### Sezione 2: Procedura di espropriazione autonoma
 
@@ -319,7 +322,7 @@ Le opposizioni e le richieste di cui all’articolo 33 LEspr[^21-1] devono esser
 
 Se devono essere autorizzate espropriazioni senza approvazione dei piani, il DFGP svolge la procedura di espropriazione autonoma secondo gli articoli 36–41 LEspr[^22-1].
 
-[^22-1]: [RS 711](https://fedlex.data.admin.ch/eli/cc/47/689_701_723)
+[^22-1]: [RS 711](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8369)
 
 ### Sezione 3: Procedura di conciliazione e di stima
 
@@ -327,7 +330,7 @@ Se devono essere autorizzate espropriazioni senza approvazione dei piani, il DFG
 
 Dopo il passaggio in giudicato di un’approvazione dei piani è svolta, se necessario, la procedura di conciliazione e di stima davanti alla Commissione federale di stima secondo gli articoli 45–54 o 64–75 LEspr.[^23-1] Il DFGP trasmette alla Commissione la documentazione di cui agli articoli 34 capoverso 2 e 41 capoverso 2 LEspr.
 
-[^23-1]: [RS 711](https://fedlex.data.admin.ch/eli/cc/47/689_701_723)
+[^23-1]: [RS 711](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8369)
 
 #### Art. 24
 
@@ -355,9 +358,9 @@ La decisione di approvazione dei piani contiene segnatamente:
 
 <sup>3</sup> La decisione di approvazione dei piani avviene entro tre mesi dalla conclusione della procedura di consultazione o di un’eventuale procedura di eliminazione delle divergenze previste all’articolo 15.[^25-3] Se questo termine non può essere rispettato, il DFGP comunica alla SEM, con l’indicazione dei motivi, quando prenderà detta decisione.
 
-[^25-1]: [RS 711](https://fedlex.data.admin.ch/eli/cc/47/689_701_723)
-[^25-2]: Abrogata dal n. I 1 dell’O del 19 ago. 2020 che adegua ordinanze a seguito della modifica della legge federale sull’espropriazione, con effetto dal 1° gen. 2021 ([RU 2020 3995](https://fedlex.data.admin.ch/eli/oc/2020/744)).
-[^25-3]: Nuovo testo giusta il n. I 1 dell’O del 19 ago. 2020 che adegua ordinanze a seguito della modifica della legge federale sull’espropriazione, in vigore dal 1° gen. 2021 ([RU 2020 3995](https://fedlex.data.admin.ch/eli/oc/2020/744)).
+[^25-1]: [RS 711](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8369)
+[^25-2]: Abrogata dalla cifra I n. 1 dell’O del 19 ago. 2020 che adegua ordinanze a seguito della modifica della legge federale sull’espropriazione, con effetto dal 1° gen. 2021 ([RU 2020 3995](https://fedlex.data.admin.ch/eli/oc/2020/744)).
+[^25-3]: Nuovo testo giusta la cifra I n. 1 dell’O del 19 ago. 2020 che adegua ordinanze a seguito della modifica della legge federale sull’espropriazione, in vigore dal 1° gen. 2021 ([RU 2020 3995](https://fedlex.data.admin.ch/eli/oc/2020/744)).
 
 #### Art. 26
 
@@ -399,9 +402,21 @@ Gli adattamenti ulteriori del progetto devono essere sottoposti al DFGP. Esso or
 
 #### Art. 29
 
-**Aggiornamento della misurazione ufficiale**
+**Obblighi di notifica**[^29-1]
 
-La SEM informa entro 30 giorni dalla conclusione dei lavori il servizio cantonale competente per la vigilanza sulla misurazione ufficiale in merito a modifiche che rendono necessario un aggiornamento della misurazione ufficiale.
+<sup>1</sup> Il DFGP informa l’Ufficio federale di topografia (swisstopo) in merito alla conclusione di una procedura di approvazione dei piani trasmettendo la decisione di approvazione dei piani e i piani richiesti da swisstopo.
+
+<sup>2</sup>
+
+Nel caso di costruzioni e impianti che rendono necessaria una tenuta a giorno della misurazione ufficiale o della misurazione nazionale, la SEM è tenuta a comunicare a swisstopo entro 20 giorni, allegando i piani richiesti da swisstopo:
+
+- a. l’inizio dei lavori; e
+- b. il completamento dei lavori.
+
+<sup>3</sup> Se il progetto è situato in tutto o in parte fuori delle zone edificabili, la SEM trasmette sotto forma di geodati i piani di cui all’articolo 6 lettera p approvati con decisione passata in giudicato all’autorità cantonale competente di cui all’articolo 25 capoverso 2 della legge del 22 giugno 1979[^29-2] sulla pianificazione del territorio contestualmente alla comunicazione a swisstopo del completamento dei lavori.
+
+[^29-1]: Nuovo testo giusta l’appendice n. 1 all’O del 15 ott. 2025, in vigore dal 1° lug. 2026 ([RU 2025 659](https://fedlex.data.admin.ch/eli/oc/2025/659)).
+[^29-2]: [RS 700](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8351)
 
 ## Capitolo 6: Entrata in vigore
 
@@ -417,4 +432,4 @@ La presente ordinanza entra in vigore il 1° gennaio 2018.
 
 Le procedure d’espropriazione avviate prima dell’entrata in vigore della presente modifica e ancora pendenti sono concluse conformemente al diritto previgente.
 
-[^31-1]: Introdotto dal n. I 1 dell’O del 19 ago. 2020 che adegua ordinanze a seguito della modifica della legge federale sull’espropriazione, in vigore dal 1° gen. 2021 ([RU 2020 3995](https://fedlex.data.admin.ch/eli/oc/2020/744)).
+[^31-1]: Introdotto dalla cifra I n. 1 dell’O del 19 ago. 2020 che adegua ordinanze a seguito della modifica della legge federale sull’espropriazione, in vigore dal 1° gen. 2021 ([RU 2020 3995](https://fedlex.data.admin.ch/eli/oc/2020/744)).

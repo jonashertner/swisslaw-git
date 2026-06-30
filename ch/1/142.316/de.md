@@ -4,11 +4,11 @@ title: Verordnung vom 25. Oktober 2017 über das Plangenehmigungsverfahren im As
 short: VPGA
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/687"
 language: de
-version: 2021-01-01
+version: 2026-07-01
 adopted: 2017-10-25
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/687/20210101/de/xml/fedlex-data-admin-ch-eli-cc-2017-687-20210101-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/687/20210101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/687/20260701/de/xml/fedlex-data-admin-ch-eli-cc-2017-687-20260701-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/687/20260701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/687/20210101/de"
 
 (VPGA)
 
-vom 25. Oktober 2017 (Stand am 1. Januar 2021)
+vom 25. Oktober 2017 (Stand am 1. Juli 2026)
 
 Der Schweizerische Bundesrat,
 
@@ -25,7 +25,7 @@ gestützt auf Artikel 119 des Asylgesetzes vom 26. Juni 1998[^ingress-1] (AsylG)
 
 verordnet:
 
-[^ingress-1]: [SR 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
+[^ingress-1]: [SR 142.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4878)
 
 ## 1. Kapitel: Allgemeine Bestimmungen
 
@@ -53,7 +53,7 @@ Dabei handelt es sich insbesondere um Bauten und Anlagen:
 
 <sup>3</sup> Vorbehalten bleiben die Bestimmungen der Verordnung vom 23. November 1994[^1-1] über die Infrastruktur der Luftfahrt.
 
-[^1-1]: [SR 748.131.1](https://fedlex.data.admin.ch/eli/cc/1994/3050_3050_3050)
+[^1-1]: [SR 748.131.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9072)
 
 #### Art. 2
 
@@ -94,7 +94,7 @@ Sofern keine schutzwürdigen Interessen der Raumordnung, der Umwelt oder Dritter
 
 <sup>4</sup> Das EJPD sorgt für die Koordination von Sachplan- und Plangenehmigungsverfahren.
 
-[^4-1]: [SR 700.1](https://fedlex.data.admin.ch/eli/cc/2000/310)
+[^4-1]: [SR 700.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8353)
 
 ## 2. Kapitel: Ordentliches Plangenehmigungsverfahren
 
@@ -152,10 +152,13 @@ Das Gesuch enthält insbesondere folgende Angaben und Unterlagen:
 - l. Rodungsbegehren mit Angaben gemäss den Richtlinien nach Artikel 5 Absatz 3 der Waldverordnung vom 30. November 1992[^6-1];
 - m. Festlegung im Sachplan Asyl;
 - n.[^6-2] Bericht über die Ergebnisse sowie die schriftlichen Anregungen eines allenfalls schon durchgeführten Mitwirkungsverfahrens (Art. 10 Abs. 2);
-- o. Massnahmen zur Gewährleistung der Sicherheit der Bauten und Anlagen, insbesondere im Bereich des Brandschutzes und der Evakuationsplanung.
+- o. Massnahmen zur Gewährleistung der Sicherheit der Bauten und Anlagen, insbesondere im Bereich des Brandschutzes und der Evakuationsplanung;
+- p.[^6-3] bei Vorhaben ausserhalb der Bauzonen: Pläne, aus denen die Abgrenzung allfälliger neuer oder beseitigter Gebäude gemäss Artikel 25*a* Absatz 1 der Raumplanungsverordnung vom 28. Juni 2000[^6-4] und allfälliger neuer oder beseitigter Versiegelungen gemäss Artikel 25*a* Absatz 2 der Raumplanungsverordnung ersichtlich ist.
 
-[^6-1]: [SR 921.01](https://fedlex.data.admin.ch/eli/cc/1992/2538_2538_2538)
+[^6-1]: [SR 921.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10959)
 [^6-2]: Fassung gemäss Ziff. I 1 der V vom 19. Aug. 2020 über die Anpassung des Verordnungsrechts infolge der Änderung des Bundesgesetzes über die Enteignung, in Kraft seit 1. Jan. 2021 ([AS 2020 3995](https://fedlex.data.admin.ch/eli/oc/2020/744)).
+[^6-3]: Eingefügt durch Anhang Ziff. 1 der V vom 15. Okt. 2025, in Kraft seit 1. Juli 2026 ([AS 2025 659](https://fedlex.data.admin.ch/eli/oc/2025/659)).
+[^6-4]: [SR 700.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8353)
 
 #### Art. 7
 
@@ -255,7 +258,7 @@ Das EJPD unterbreitet dem SEM die Stellungnahmen und Einsprachen sowie die Anreg
 
 <sup>2</sup> Das EJPD unterbreitet den Fachbehörden des Bundes die Stellungnahmen der Kantone und Gemeinden sowie die Einsprachen und die Anregungen aus der Bevölkerung. Die Fachbehörden nehmen dazu innert Monatsfrist abschliessend Stellung.
 
-[^15-1]: [SR 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^15-1]: [SR 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
 
 ### 4. Abschnitt: Instruktions- und Einigungsverfahren
 
@@ -301,7 +304,7 @@ Das EJPD unterbreitet dem SEM die Stellungnahmen und Einsprachen sowie die Anreg
 
 <sup>2</sup> Das SEM reicht dem EJPD die nach Artikel 28 EntG erforderlichen Unterlagen ein. Dieses kann Ergänzungen verlangen.
 
-[^19-1]: [SR 711](https://fedlex.data.admin.ch/eli/cc/47/689_701_723)
+[^19-1]: [SR 711](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8369)
 
 #### Art. 20
 
@@ -315,7 +318,7 @@ Aufgehoben
 
 Die Einsprachen und Begehren nach Artikel 33 EntG[^21-1] sind innerhalb von 30 Tagen nach der Publikation der öffentlichen Auflage im Bundesblatt bei der dort bezeichneten Gemeinde und zuhanden des EJPD einzureichen.
 
-[^21-1]: [SR 711](https://fedlex.data.admin.ch/eli/cc/47/689_701_723)
+[^21-1]: [SR 711](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8369)
 
 ### 2. Abschnitt: Selbständiges Enteignungsverfahren
 
@@ -323,7 +326,7 @@ Die Einsprachen und Begehren nach Artikel 33 EntG[^21-1] sind innerhalb von 30 T
 
 Sollen Enteignungen ohne Plangenehmigung bewilligt werden, so führt das EJPD das selbständige Enteignungsverfahren nach den Artikeln 36–41 EntG[^22-1] durch.
 
-[^22-1]: [SR 711](https://fedlex.data.admin.ch/eli/cc/47/689_701_723)
+[^22-1]: [SR 711](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8369)
 
 ### 3. Abschnitt: Einigungs- und Schätzungsverfahren
 
@@ -331,7 +334,7 @@ Sollen Enteignungen ohne Plangenehmigung bewilligt werden, so führt das EJPD da
 
 Nach Vorliegen einer rechtskräftigen Plangenehmigung wird, soweit erforderlich, das Einigungs- und Schätzungsverfahren vor der Eidgenössischen Schätzungskommission nach den Artikeln 45–54 beziehungsweise 64–75 des EntG[^23-1] durchgeführt. Das EJPD übermittelt der Kommission die Unterlagen gemäss den Artikeln 34 Absatz 2 und 41 Absatz 2 EntG.
 
-[^23-1]: [SR 711](https://fedlex.data.admin.ch/eli/cc/47/689_701_723)
+[^23-1]: [SR 711](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8369)
 
 #### Art. 24
 
@@ -402,9 +405,21 @@ Nachträgliche Projektanpassungen sind dem EJPD anzuzeigen. Bei wesentlichen Anp
 
 #### Art. 29
 
-**Nachführung der amtlichen Vermessung**
+**Meldepflichten**[^29-1]
 
-Das SEM orientiert die für die Aufsicht über die amtliche Vermessung zuständige kantonale Stelle innert 30 Tagen nach Abschluss der Bauarbeiten über Veränderungen, die eine Nachführung der amtlichen Vermessung notwendig machen.
+<sup>1</sup> Das EJPD informiert das Bundesamt für Landestopografie (swisstopo) über den Abschluss eines Plangenehmigungsverfahrens durch Zustellung der Plangenehmigungsverfügung und der vom swisstopo benötigten Pläne.
+
+<sup>2</sup>
+
+Bei Bauten und Anlagen, die eine Nachführung der amtlichen Vermessung oder der Landesvermessung notwendig machen, informiert das SEM das swisstopo unter Beilage der vom swisstopo benötigten Pläne jeweils innert 20 Tagen über:
+
+- a. den Baubeginn; und
+- b. die Bauvollendung.
+
+<sup>3</sup> Liegt ein Vorhaben ganz oder teilweise ausserhalb der Bauzonen, lässt das SEM gleichzeitig zur Information des swisstopo über die Bauvollendung die rechtskräftigen Pläne nach Artikel 6 Buchstabe p in Form von Geodaten der kantonalen Behörde zukommen, die nach Artikel 25 Absatz 2 des Raumplanungsgesetzes vom 22. Juni 1979[^29-2] zuständig ist.
+
+[^29-1]: Fassung gemäss Anhang Ziff. 1 der V vom 15. Okt. 2025, in Kraft seit 1. Juli 2026 ([AS 2025 659](https://fedlex.data.admin.ch/eli/oc/2025/659)).
+[^29-2]: [SR 700](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8351)
 
 ## 6. Kapitel: Inkrafttreten
 
