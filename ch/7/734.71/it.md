@@ -4,11 +4,11 @@ title: "Ordinanza del 14 marzo 2008 sull'approvvigionamento elettrico (OAEl)"
 short: OAEl
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/226"
 language: it
-version: 2026-01-01
+version: 2026-07-01
 adopted: 2008-03-14
 in_force: 2008-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/226/20260101/it/xml/fedlex-data-admin-ch-eli-cc-2008-226-20260101-it-xml-9.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/226/20260101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/226/20260701/it/xml/fedlex-data-admin-ch-eli-cc-2008-226-20260701-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/226/20260701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/226/20260101/it"
 
 (OAEl)
 
-del 14 marzo 2008 (Stato 1° gennaio 2026)
+del 14 marzo 2008 (Stato 1° luglio 2026)
 
 Il Consiglio federale svizzero,
 
@@ -140,7 +140,8 @@ Per il calcolo dei costi dell’energia computabili si applicano i seguenti prin
 
   nel quadro della rimunerazione secondo l’articolo 15 capoverso 1 LEne sono computabili:
 
-  - 1\. con ritiro della garanzia d’origine: al massimo i costi di produzione secondo l’articolo 4 capoverso 3 nella versione vigente il 1° luglio 2024[^4-4], al netto di eventuali incentivi secondo l’articolo 4*a* nella versione vigente il 1° luglio 2024[^4-5],
+  - 1\.[^4-4] con ritiro della garanzia d’origine: al massimo i costi di produzione secondo l’articolo 4 capoverso 3 nella versione vigente il 1° luglio 2024[^4-5], al netto di eventuali incentivi secondo l’articolo 4*a* nella versione vigente il 1° luglio 2024[^4-6], oppure, se i costi così risultanti sono inferiori al prezzo uniforme a livello nazionale secondo l’articolo 15 capoverso 1 LEne, al massimo tale prezzo uniforme al momento dell’immissione,
+  - [tab] 1<sup>bis</sup>.[^4-7] con ritiro della garanzia d’origine nel caso di impianti fotovoltaici senza consumo proprio con una potenza di almeno 100 kW e inferiore a 150 kW: al massimo i costi computabili secondo il numero 1, oppure se la rimunerazione minima secondo l’articolo 12 capoverso 1<sup>bis</sup> dell’ordinanza del 1° novembre 2017[^4-8] sull’energia (OEn) è più elevata, tale rimunerazione minima,
   - 2\. senza ritiro della garanzia d’origine: al massimo il prezzo uniforme a livello nazionale secondo l’articolo 15 capoverso 1 LEne al momento dell’immissione oppure la rimunerazione minima.
 
 <sup>4</sup> L’attribuzione di cui all’articolo 6 capoverso 5<sup>bis</sup> lettera b LAEl dei contratti di acquisto deve essere indicata il 31 agosto di ogni anno per l’anno tariffario successivo nella contabilità per unità finali di imputazione. I nuovi contratti di acquisto stipulati possono essere attribuiti al servizio universale soltanto nella misura in cui sono necessari a coprire il consumo presumibile nel servizio universale.
@@ -148,8 +149,11 @@ Per il calcolo dei costi dell’energia computabili si applicano i seguenti prin
 [^4-1]: Nuovo testo giusta la cifra I dell’O del 20 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 706](https://fedlex.data.admin.ch/eli/oc/2024/706)).
 [^4-2]: [RS 730.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8495)
 [^4-3]: [RS 730.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8507)
-[^4-4]: [RU 2019 1381](https://fedlex.data.admin.ch/eli/oc/2019/270), [3479](https://fedlex.data.admin.ch/eli/oc/2019/635); [2022 772](https://fedlex.data.admin.ch/eli/oc/2022/772)
-[^4-5]: [RU 2019 1381](https://fedlex.data.admin.ch/eli/oc/2019/270); [2022 772](https://fedlex.data.admin.ch/eli/oc/2022/772)
+[^4-4]: Nuovo testo giusta la cifra I dell’O del 27 mag. 2026, in vigore dal 1° lug. 2026 ([RU 2026 304](https://fedlex.data.admin.ch/eli/oc/2026/304)).
+[^4-5]: [RU 2019 1381](https://fedlex.data.admin.ch/eli/oc/2019/270), [3479](https://fedlex.data.admin.ch/eli/oc/2019/635); [2022 772](https://fedlex.data.admin.ch/eli/oc/2022/772)
+[^4-6]: [RU 2019 1381](https://fedlex.data.admin.ch/eli/oc/2019/270); [2022 772](https://fedlex.data.admin.ch/eli/oc/2022/772)
+[^4-7]: Introdotto dalla cifra I dell’O del 27 mag. 2026, in vigore dal 1° lug. 2026 ([RU 2026 304](https://fedlex.data.admin.ch/eli/oc/2026/304)).
+[^4-8]: [RS 730.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8496)
 
 #### Art. 4a
 
@@ -187,7 +191,7 @@ Per tutelarsi dalle fluttuazioni dei prezzi del mercato i gestori delle reti di 
 
 <sup>1</sup> I costi delle misure per realizzare gli obiettivi di miglioramento dell’efficienza energetica possono essere addebitati ai consumatori finali con servizio universale in una proporzione corrispondente alla quota di tali consumatori nella quantità di riferimento di elettricità venduta.
 
-<sup>2</sup> Nessun costo è addebitato ai consumatori finali fissi e ai consumatori finali che hanno rinunciato all’accesso alla rete e che non sono considerati ai fini della determinazione della quantità di riferimento di elettricità venduta (art. 51*a* cpv. 3 dell’ordinanza del 1° novembre 2017[^4d-2] sull’energia [OEn]).
+<sup>2</sup> Nessun costo è addebitato ai consumatori finali fissi e ai consumatori finali che hanno rinunciato all*’*accesso alla rete e che non sono considerati ai fini della determinazione della quantità di riferimento di elettricità venduta (art. 51*a* cpv. 2 OEn[^4d-2]).[^4d-3]
 
 <sup>3</sup>
 
@@ -199,6 +203,7 @@ I costi sono computabili soltanto se i gestori delle reti di distribuzione:
 
 [^4d-1]: Introdotto dalla cifra I dell’O del 20 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 706](https://fedlex.data.admin.ch/eli/oc/2024/706)).
 [^4d-2]: [RS 730.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8496)
+[^4d-3]: Nuovo testo giusta la cifra I dell’O del 27 mag. 2026, in vigore dal 1° lug. 2026 ([RU 2026 304](https://fedlex.data.admin.ch/eli/oc/2026/304)).
 
 #### Art. 4e
 
@@ -701,6 +706,8 @@ L’interazione fra gli elementi di un sistema di misurazione intelligente perme
 
 <sup>6</sup> Se un raggruppamento ai fini del consumo proprio, una comunità locale di energia elettrica oppure il gestore di un impianto di stoccaggio chiede di essere dotato di un sistema di misurazione intelligente, il gestore di rete è tenuto a installarlo entro tre mesi. Nel caso dei raggruppamenti ai fini del consumo proprio tale diritto riguarda tutti i punti di misurazione del raggruppamento nei confronti del gestore di rete.
 
+<sup>7</sup> I gestori di rete devono garantire che, dal 1° gennaio 2028, sia impiegato un sistema di misurazione intelligente presso tutti gli impianti di produzione soggetti all’obbligo di ritiro e di rimunerazione di cui all’articolo 15 capoverso 1 LEne e all’obbligo di autorizzazione di cui all’articolo 6 dell’ordinanza del 7 novembre 2001[^8adecies-14] sugli impianti a bassa tensione (OIBIT).[^8adecies-15]
+
 [^8adecies-1]: Introdotto dalla cifra I dell’O del 19 feb. 2025, in vigore dal 1° gen. 2026 ([RU 2025 139](https://fedlex.data.admin.ch/eli/oc/2025/139)).
 [^8adecies-2]: Nuovo testo giusta la cifra I dell’O del 3 apr. 2019, in vigore dal 1<sup>°</sup> giu. 2019 ([RU 2019 1381](https://fedlex.data.admin.ch/eli/oc/2019/270)).
 [^8adecies-3]: Nuovo testo giusta la cifra I dell’O del 3 apr. 2019, in vigore dal 1<sup>°</sup> giu. 2019 ([RU 2019 1381](https://fedlex.data.admin.ch/eli/oc/2019/270)).
@@ -714,6 +721,8 @@ L’interazione fra gli elementi di un sistema di misurazione intelligente perme
 [^8adecies-11]: Originaria art. 8*a* cpv. 2 lett. e, poi art. 8*a*<sup>sexies</sup> cpv. 3 lett. e. Introdotta dalla cifra I dell’O del 1<sup>°</sup> nov. 2017, in vigore dal 1<sup>°</sup> janv. 2018 ([RU 2017 7109](https://fedlex.data.admin.ch/eli/oc/2017/769)).
 [^8adecies-12]: [RS 941.210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11180)
 [^8adecies-13]: Originario art. 8*a* cpv. 4, poi art. 8*a*<sup>sexies</sup> cpv. 8. Introdotto dalla cifra I dell’O del 1<sup>°</sup> nov. 2017, in vigore dal 1<sup>°</sup> gen. 2018 ([RU 2017 7109](https://fedlex.data.admin.ch/eli/oc/2017/769)).
+[^8adecies-14]: [RS 734.27](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8584)
+[^8adecies-15]: Introdotto dalla cifra I dell’O del 27 mag. 2026, in vigore dal 1° lug. 2026 ([RU 2026 304](https://fedlex.data.admin.ch/eli/oc/2026/304)).
 
 #### Art. 8a<sup>undecies</sup>
 
@@ -1194,13 +1203,14 @@ La tariffa di rimborso per gli impianti di stoccaggio con consumo finale e per g
 
 I gestori degli impianti sotto menzionati che intendano esercitare il proprio diritto al rimborso del corrispettivo per l’utilizzazione della rete devono far dotare di un sistema di misurazione intelligente gli impianti che soddisfano i seguenti requisiti:
 
-- a. gli impianti di stoccaggio con consumo finale e gli impianti di trasformazione allacciati a un impianto di produzione utilizzato a fini del consumo proprio e soggetto all’obbligo di autorizzazione secondo l’articolo 6 dell’ordinanza del 7 novembre 2001[^18f-2] sugli impianti a bassa tensione (OIBT);
+- a.[^18f-2] gli impianti di stoccaggio con consumo finale e gli impianti di trasformazione allacciati a un impianto di produzione utilizzato a fini del consumo proprio e soggetto all’obbligo di autorizzazione di cui all’articolo 6 OIBT[^18f-3];
 - b. gli impianti pilota e di dimostrazione in cui non tutta l’elettricità prelevata viene trasformata.
 
 <sup>2</sup> I costi per le misurazioni necessarie unicamente per comprovare i quantitativi di elettricità determinanti ai fini del rimborso sono sostenuti dai gestori degli impianti.
 
 [^18f-1]: Introdotto dalla cifra I dell’O del 19 feb. 2025, in vigore dal 1° gen. 2026 ([RU 2025 139](https://fedlex.data.admin.ch/eli/oc/2025/139)).
-[^18f-2]: [RS 734.27](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8584)
+[^18f-2]: Nuovo testo giusta la cifra I dell’O del 27 mag. 2026, in vigore dal 1° lug. 2026 ([RU 2026 304](https://fedlex.data.admin.ch/eli/oc/2026/304)).
+[^18f-3]: [RS 734.27](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8584)
 
 #### Art. 18g
 

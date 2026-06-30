@@ -4,11 +4,11 @@ title: Stromversorgungsverordnung vom 14. März 2008 (StromVV)
 short: StromVV
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/226"
 language: de
-version: 2026-01-01
+version: 2026-07-01
 adopted: 2008-03-14
 in_force: 2008-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/226/20260101/de/xml/fedlex-data-admin-ch-eli-cc-2008-226-20260101-de-xml-9.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/226/20260101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/226/20260701/de/xml/fedlex-data-admin-ch-eli-cc-2008-226-20260701-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/226/20260701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/226/20260101/de"
 
 (StromVV)
 
-vom 14. März 2008 (Stand am 1. Januar 2026)
+vom 14. März 2008 (Stand am 1. Juli 2026)
 
 Der Schweizerische Bundesrat,
 
@@ -139,7 +139,8 @@ Für die Berechnung der anrechenbaren Energiekosten gelten die folgenden Grunds�
 
   Im Rahmen der Vergütung nach Artikel 15 Absatz 1 EnG sind die folgenden Kosten anrechenbar:
 
-  - 1\. mit Abnahme des Herkunftsnachweises: maximal die Gestehungskosten nach Artikel 4 Absatz 3 in der am 1. Juli 2024[^4-4] geltenden Fassung abzüglich allfälliger Fördermittel nach Artikel 4*a* in der am 1. Juli 2024[^4-5] geltenden Fassung;
+  - 1\.[^4-4] mit Abnahme des Herkunftsnachweises: maximal die Gestehungskosten nach Artikel 4 Absatz 3 in der am 1. Juli 2024[^4-5] geltenden Fassung abzüglich allfälliger Fördermittel nach Artikel 4*a* in der am 1. Juli 2024[^4-6] geltenden Fassung, oder, falls die so resultierenden Kosten unter dem schweizweit harmonisierte Preis nach Artikel 15 Absatz 1 EnG liegen, maximal dieser harmonisierte Preis zum Zeitpunkt der Einspeisung;
+  - 1<sup>bis</sup>.[^4-7] mit Abnahme des Herkunftsnachweises im Falle von Photovoltaikanlagen ohne Eigenverbrauch mit einer Leistung von mindestens 100 kW und weniger als 150 kW: maximal die anrechenbaren Kosten nach Ziffer 1, oder, falls die Minimalvergütung nach Artikel 12 Absatz 1<sup>bis</sup> der Energieverordnung vom 1. November 2017[^4-8] (EnV) höher liegt, diese Minimalvergütung;
   - 2\. ohne Abnahme des Herkunftsnachweises: maximal der schweizweit harmonisierte Preis nach Artikel 15 Absatz 1 EnG zum Zeitpunkt der Einspeisung oder die Minimalvergütung.
 
 <sup>4</sup> Die Zuweisung nach Artikel 6 Absatz 5<sup>bis</sup> Buchstabe b StromVG der Bezugsverträge muss jeweils per 31. August für das nächste Tarifjahr in der Kostenträgerrechnung ausgewiesen werden. Neu abgeschlossene Bezugsverträge dürfen nur soweit der Grundversorgung zugeordnet werden, wie sie für die Deckung des voraussichtlichen Verbrauchs in der Grundversorgung notwendig sind.
@@ -147,8 +148,11 @@ Für die Berechnung der anrechenbaren Energiekosten gelten die folgenden Grunds�
 [^4-1]: Fassung gemäss Ziff. I der V vom 20. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 706](https://fedlex.data.admin.ch/eli/oc/2024/706)).
 [^4-2]: [SR 730.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8495)
 [^4-3]: [SR 730.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8507)
-[^4-4]: [AS 2019 1381](https://fedlex.data.admin.ch/eli/oc/2019/270), [3479](https://fedlex.data.admin.ch/eli/oc/2019/635); [2022 772](https://fedlex.data.admin.ch/eli/oc/2022/772)
-[^4-5]: [AS 2019 1381](https://fedlex.data.admin.ch/eli/oc/2019/270); [2022 772](https://fedlex.data.admin.ch/eli/oc/2022/772)
+[^4-4]: Fassung gemäss Ziff. I der V vom 27. Mai 2026, in Kraft seit 1. Juli 2026 ([AS 2026 304](https://fedlex.data.admin.ch/eli/oc/2026/304)).
+[^4-5]: [AS 2019 1381](https://fedlex.data.admin.ch/eli/oc/2019/270), [3479](https://fedlex.data.admin.ch/eli/oc/2019/635); [2022 772](https://fedlex.data.admin.ch/eli/oc/2022/772)
+[^4-6]: [AS 2019 1381](https://fedlex.data.admin.ch/eli/oc/2019/270); [2022 772](https://fedlex.data.admin.ch/eli/oc/2022/772)
+[^4-7]: Eingefügt durch Ziff. I der V vom 27. Mai 2026, in Kraft seit 1. Juli 2026 ([AS 2026 304](https://fedlex.data.admin.ch/eli/oc/2026/304)).
+[^4-8]: [SR 730.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8496)
 
 #### Art. 4a
 
@@ -186,7 +190,7 @@ Die Verteilnetzbetreiber müssen Strategien für eine strukturierte Beschaffung 
 
 <sup>1</sup> Von den Kosten, die für Massnahmen zur Erreichung der Zielvorgaben zur Effizienzsteigerung anfallen, kann den Endverbrauchern mit Grundversorgung derjenige Anteil belastet werden, der ihrem Anteil am Referenzstromabsatz entspricht.
 
-<sup>2</sup> Feste Endverbraucher und Endverbraucher, die auf den Netzzugang verzichtet haben und die für die Bestimmung des Referenzstromabsatzes nicht berücksichtigt werden (Art. 51*a* Abs. 2 der Energieverordnung vom 1. November 2017[^4d-2] [EnV]), dürfen nicht mit Kosten belastet werden.
+<sup>2</sup> Feste Endverbraucher und Endverbraucher, die auf den Netzzugang verzichtet haben und die für die Bestimmung des Referenzstromabsatzes nicht berücksichtigt werden (Art. 51*a* Abs. 2 EnV[^4d-2]), dürfen nicht mit Kosten belastet werden.[^4d-3]
 
 <sup>3</sup>
 
@@ -198,6 +202,7 @@ Die Kosten sind nur anrechenbar, wenn die Verteilnetzbetreiber:
 
 [^4d-1]: Eingefügt durch Ziff. I der V vom 20. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 706](https://fedlex.data.admin.ch/eli/oc/2024/706)).
 [^4d-2]: [SR 730.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8496)
+[^4d-3]: Fassung gemäss Ziff. I der V vom 27. Mai 2026, in Kraft seit 1. Juli 2026 ([AS 2026 304](https://fedlex.data.admin.ch/eli/oc/2026/304)).
 
 #### Art. 4e
 
@@ -700,6 +705,8 @@ Die Elemente eines intelligenten Messsystems funktionieren so zusammen, dass:
 
 <sup>6</sup> Verlangt ein Zusammenschluss zum Eigenverbrauch, eine lokale Elektrizitätsgemeinschaft oder ein Speicherbetreiber die Ausstattung mit einem intelligenten Messsystem, so muss der Netzbetreiber dieses innerhalb von drei Monaten installieren. Bei Zusammenschlüssen zum Eigenverbrauch bezieht sich dieser Anspruch auf alle Messpunkte des Zusammenschlusses gegenüber dem Netzbetreiber.
 
+<sup>7</sup> Die Netzbetreiber müssen sicherstellen, dass ab dem 1. Januar 2028 bei allen Erzeugungsanlagen, die der Abnahme- und Vergütungspflicht nach Artikel 15 Absatz 1 EnG und der Bewilligungspflicht nach Artikel 6 der Niederspannungs-Installationsverordnung vom 7. November 2001[^8adecies-13] (NIV) unterliegen, ein intelligentes Messsystem eingesetzt ist.[^8adecies-14]
+
 [^8adecies-1]: Eingefügt durch Ziff. I der V vom 19. Febr. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 139](https://fedlex.data.admin.ch/eli/oc/2025/139)).
 [^8adecies-2]: Fassung gemäss Ziff. I der V vom 3. April 2019, in Kraft seit 1. Juni 2019 ([AS 2019 1381](https://fedlex.data.admin.ch/eli/oc/2019/270)).
 [^8adecies-3]: Fassung gemäss Ziff. I der V vom 3. April 2019, in Kraft seit 1. Juni 2019 ([AS 2019 1381](https://fedlex.data.admin.ch/eli/oc/2019/270)).
@@ -712,6 +719,8 @@ Die Elemente eines intelligenten Messsystems funktionieren so zusammen, dass:
 [^8adecies-10]: Ursprünglich: Art. 8*a* Abs. 2 Bst. e, dann Art. 8*a*<sup>sexies</sup> Abs. 3 Bst. e. Eingefügt durch Ziff. I der V vom 1. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 7109](https://fedlex.data.admin.ch/eli/oc/2017/769)).
 [^8adecies-11]: [SR 941.210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11180)
 [^8adecies-12]: Ursprünglich: Art. 8*a* Abs. 4, dann Art. 8*a*<sup>sexies</sup> Abs. 8. Eingefügt durch Ziff. I der V vom 1. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 7109](https://fedlex.data.admin.ch/eli/oc/2017/769)).
+[^8adecies-13]: [SR 734.27](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8584)
+[^8adecies-14]: Eingefügt durch Ziff. I der V vom 27. Mai 2026, in Kraft seit 1. Juli 2026 ([AS 2026 304](https://fedlex.data.admin.ch/eli/oc/2026/304)).
 
 #### Art. 8a<sup>undecies</sup>
 
@@ -1192,13 +1201,14 @@ Der Rückerstattungstarif für Speicher mit Endverbrauch und Umwandlungsanlagen 
 
 Betreiber der nachstehenden Anlagen, die von ihrem Recht auf Rückerstattung des Netznutzungsentgelts Gebrauch machen wollen, müssen diese unter den folgenden Voraussetzungen mit einem intelligenten Messsystem ausstatten lassen:
 
-- a. Speicher mit Endverbrauch und Umwandlungsanlagen, die mit einer Erzeugungsanlage verbunden sind, die im Eigenverbrauch betrieben wird und der Bewilligungspflicht nach Artikel 6 der Niederspannungs-Installationsverordnung vom 7. November 2001[^18f-2] (NIV) unterliegt.
+- a.[^18f-2] Speicher mit Endverbrauch und Umwandlungsanlagen, die mit einer Erzeugungsanlage verbunden sind, die im Eigenverbrauch betrieben wird und der Bewilligungspflicht nach Artikel 6 NIV[^18f-3] unterliegt.
 - b. Pilot- und Demonstrationsanlagen, bei denen nicht die gesamte bezogene Elektrizität für die Umwandlung verwendet wird.
 
 <sup>2</sup> Die Kosten für die Messungen, die allein zum Nachweis der für die Rückerstattung massgeblichen Elektrizitätsmengen erforderlich sind, müssen von den Betreibern der Anlagen getragen werden.
 
 [^18f-1]: Eingefügt durch Ziff. I der V vom 19. Febr. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 139](https://fedlex.data.admin.ch/eli/oc/2025/139)).
-[^18f-2]: [SR 734.27](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8584)
+[^18f-2]: Fassung gemäss Ziff. I der V vom 27. Mai 2026, in Kraft seit 1. Juli 2026 ([AS 2026 304](https://fedlex.data.admin.ch/eli/oc/2026/304)).
+[^18f-3]: [SR 734.27](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8584)
 
 #### Art. 18g
 

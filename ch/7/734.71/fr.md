@@ -4,11 +4,11 @@ title: "Ordonnance du 14 mars 2008 sur l'approvisionnement en électricité (OAp
 short: OApEl
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/226"
 language: fr
-version: 2026-01-01
+version: 2026-07-01
 adopted: 2008-03-14
 in_force: 2008-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/226/20260101/fr/xml/fedlex-data-admin-ch-eli-cc-2008-226-20260101-fr-xml-9.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/226/20260101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/226/20260701/fr/xml/fedlex-data-admin-ch-eli-cc-2008-226-20260701-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/226/20260701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/226/20260101/fr"
 
 (OApEl)
 
-du 14 mars 2008 (État le 1<sup>er</sup> janvier 2026)
+du 14 mars 2008 (État le 1<sup>er</sup> juillet 2026)
 
 Le Conseil fédéral suisse,
 
@@ -139,7 +139,8 @@ Les principes suivants s’appliquent au calcul des coûts énergétiques imputa
 
   les coûts suivants sont imputables dans le cadre de la rétribution visée à l’art. 15, al. 1, LEne:
 
-  - 1\. dans le cas où la garantie d’origine est reprise: au plus les coûts de revient visés à l’art. 4, al. 3, dans sa version en vigueur le 1<sup>er</sup> juillet 2024[^4-4], déduction faite des éventuels encouragements visés à l’art. 4*a* dans sa version en vigueur le 1<sup>er</sup> juillet 2024[^4-5],
+  - 1\.[^4-4] dans le cas où la garantie d’origine est reprise: au plus les coûts de revient visés à l’art. 4, al. 3, dans sa version en vigueur le 1<sup>er</sup> juillet 2024[^4-5], déduction faite des éventuels encouragements visés à l’art. 4*a* dans sa version en vigueur le 1<sup>er</sup> juillet 2024[^4-6] ou, s’il en résulte des coûts inférieurs au prix harmonisé au niveau suisse visé à l’art. 15, al. 1, LEne, au plus ce prix harmonisé au moment de l’injection,
+  - 1<sup>bis</sup>.[^4-7] dans le cas où la garantie d’origine est reprise pour des installations photovoltaïques sans consommation propre dont la puissance atteint au moins 100 kW mais moins de 150 kW: au plus les coûts imputables visés au ch. 1 ou, si la rétribution minimale visée à l’art. 12, al. 1<sup>bis</sup>, de l’ordonnance du 1<sup>er</sup> novembre 2017 sur l’énergie (OEne)[^4-8] est supérieure à ces coûts, cette rétribution minimale,
   - 2\. dans le cas où la garantie d’origine n’est pas reprise: au plus le prix harmonisé au niveau suisse visé à l’art. 15, al. 1, LEne au moment de l’injection ou la rétribution minimale.
 
 <sup>4</sup> L’attribution des contrats d’achat conformément à l’art. 6, al. 5<sup>bis</sup>, let. b, LApEl doit figurer dans la comptabilité par unité d’imputation au 31 août de chaque année pour l’année tarifaire suivante. Les contrats d’achat nouvellement conclus ne peuvent être attribués à l’approvisionnement de base que dans la mesure où ils sont nécessaires pour couvrir la consommation prévue dans l’approvisionnement de base.
@@ -147,8 +148,11 @@ Les principes suivants s’appliquent au calcul des coûts énergétiques imputa
 [^4-1]: Nouvelle teneur selon le ch. I de l’O du 20 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 706](https://fedlex.data.admin.ch/eli/oc/2024/706)).
 [^4-2]: [RS 730.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8495)
 [^4-3]: [RS 730.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8507)
-[^4-4]: [RO 2019 1381](https://fedlex.data.admin.ch/eli/oc/2019/270), [3479](https://fedlex.data.admin.ch/eli/oc/2019/635); [2022 772](https://fedlex.data.admin.ch/eli/oc/2022/772)
-[^4-5]: [RO 2019 1381](https://fedlex.data.admin.ch/eli/oc/2019/270); [2022 772](https://fedlex.data.admin.ch/eli/oc/2022/772)
+[^4-4]: Nouvelle teneur selon le ch. I de l’O du 27 mai 2026, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2026 304](https://fedlex.data.admin.ch/eli/oc/2026/304)).
+[^4-5]: [RO 2019 1381](https://fedlex.data.admin.ch/eli/oc/2019/270), [3479](https://fedlex.data.admin.ch/eli/oc/2019/635); [2022 772](https://fedlex.data.admin.ch/eli/oc/2022/772)
+[^4-6]: [RO 2019 1381](https://fedlex.data.admin.ch/eli/oc/2019/270); [2022 772](https://fedlex.data.admin.ch/eli/oc/2022/772)
+[^4-7]: Introduit par le ch. I de l’O du 27 mai 2026, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2026 304](https://fedlex.data.admin.ch/eli/oc/2026/304)).
+[^4-8]: [RS 730.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8496)
 
 #### Art. 4a
 
@@ -186,7 +190,7 @@ Le gestionnaire du réseau de distribution définit, applique et documente des s
 
 <sup>1</sup> Les coûts occasionnés par des mesures visant la réalisation des objectifs en matière de gains d’efficacité énergétique peuvent être mis à la charge des consommateurs finaux de l’approvisionnement de base dans une proportion correspondant à la part de ces clients dans le volume de référence en matière de vente d’électricité.
 
-<sup>2</sup> Aucun coût n’est mis à la charge des consommateurs captifs et des consommateurs finaux qui ont renoncé à l’accès au réseau et qui ne sont pas pris en compte pour déterminer le volume de référence en matière de vente d’électricité (art. 51*a*, al. 2, de l’ordonnance du 1<sup>er</sup> novembre 2017 sur l’énergie [OEne][^4d-2]).
+<sup>2</sup> Aucun coût n’est mis à la charge des consommateurs captifs et des consommateurs finaux qui ont renoncé à l’accès au réseau et qui ne sont pas pris en compte pour déterminer le volume de référence en matière de vente d’électricité (art. 51*a*, al. 2, OEne[^4d-2]).[^4d-3]
 
 <sup>3</sup>
 
@@ -198,6 +202,7 @@ Les coûts sont imputables uniquement si le gestionnaire du réseau de distribut
 
 [^4d-1]: Introduit par le ch. I de l’O du 20 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 706](https://fedlex.data.admin.ch/eli/oc/2024/706)).
 [^4d-2]: [RS 730.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8496)
+[^4d-3]: Nouvelle teneur selon le ch. I de l’O du 27 mai 2026, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2026 304](https://fedlex.data.admin.ch/eli/oc/2026/304)).
 
 #### Art. 4e
 
@@ -703,6 +708,8 @@ Les éléments d’un système de mesure intelligent interagissent de façon à 
 
 <sup>6</sup> Lorsqu’un regroupement dans le cadre de la consommation propre, une communauté électrique locale ou un gestionnaire d’installation de stockage demande à être équipé d’un système de mesure intelligent, le gestionnaire de réseau doit l’installer dans les trois mois. Dans le cas d’un regroupement dans le cadre de la consommation propre, ce droit s’applique à tous les points de mesure du regroupement gérés par le gestionnaire de réseau.
 
+<sup>7</sup> Les gestionnaires de réseau sont tenus de veiller à ce qu’à partir du 1<sup>er</sup> janvier 2028, des systèmes de mesure intelligents soient utilisés dans toutes les installations de production soumises à l’obligation de reprise et de rétribution visée à l’art. 15, al. 1, LEne et au régime de l’autorisation visé à l’art. 6 de l’ordonnance du 7 novembre 2001 sur les installations à basse tension (OIBT)[^8adecies-15].[^8adecies-16]
+
 [^8adecies-1]: Introduit par le ch. I de l’O du 19 fév. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 139](https://fedlex.data.admin.ch/eli/oc/2025/139)).
 [^8adecies-2]: Nouvelle teneur selon le ch. I de l’O du 3 avr. 2019, en vigueur depuis le 1<sup>er</sup> juin 2019 ([RO 2019 1381](https://fedlex.data.admin.ch/eli/oc/2019/270)).
 [^8adecies-3]: Nouvelle teneur selon le ch. I de l’O du 3 avr. 2019, en vigueur depuis le 1<sup>er</sup> juin 2019 ([RO 2019 1381](https://fedlex.data.admin.ch/eli/oc/2019/270)).
@@ -717,6 +724,8 @@ Les éléments d’un système de mesure intelligent interagissent de façon à 
 [^8adecies-12]: Anciennement art. 8*a*, al. 2, let. e, puis art. 8*a*<sup>sexies</sup>, al. 3, let. e. Introduite par le ch. I de l’O du 1<sup>er</sup> nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7109](https://fedlex.data.admin.ch/eli/oc/2017/769)).
 [^8adecies-13]: [RS 941.210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11180)
 [^8adecies-14]: Anciennement art. 8*a*, al. 4, puis art. 8*a*<sup>sexies</sup>, al. 8. Introduit par le ch. I de l’O du 1<sup>er</sup> nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7109](https://fedlex.data.admin.ch/eli/oc/2017/769)).
+[^8adecies-15]: [RS 734.27](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8584)
+[^8adecies-16]: Introduit par le ch. I de l’O du 27 mai 2026, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2026 304](https://fedlex.data.admin.ch/eli/oc/2026/304)).
 
 #### Art. 8a<sup>undecies</sup>
 
@@ -1197,13 +1206,14 @@ Le tarif de remboursement s’appliquant aux installations de stockage avec cons
 
 Les exploitants des installations mentionnées ci-après souhaitant faire usage de leur droit au remboursement de la rémunération pour l’utilisation du réseau doivent faire équiper d’un système de mesure intelligent celles qui satisfont aux conditions suivantes:
 
-- a. installations de stockage avec consommation finale et installations de transformation liées à une installation de production exploitée pour la consommation propre et soumise au régime de l’autorisation prévu à l’art. 6 de l’ordonnance du 7 novembre 2001 sur les installations à basse tension (OIBT)[^18f-2];
+- a.[^18f-2] installations de stockage avec consommation finale et installations de transformation liées à une installation de production exploitée pour la consommation propre et soumise au régime de l’autorisation prévu à l’art. 6 OIBT[^18f-3];
 - b. installations pilotes et de démonstration dans lesquelles l’électricité soutirée n’est pas entièrement utilisée pour la transformation.
 
 <sup>2</sup> Seuls les coûts des mesures nécessaires pour faire la preuve des quantités d’électricité déterminantes pour le remboursement sont à la charge des exploitants d’installations.
 
 [^18f-1]: Introduit par le ch. I de l’O du 19 fév. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 139](https://fedlex.data.admin.ch/eli/oc/2025/139)).
-[^18f-2]: [RS 734.27](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8584)
+[^18f-2]: Nouvelle teneur selon le ch. I de l’O du 27 mai 2026, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2026 304](https://fedlex.data.admin.ch/eli/oc/2026/304)).
+[^18f-3]: [RS 734.27](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8584)
 
 #### Art. 18g
 
