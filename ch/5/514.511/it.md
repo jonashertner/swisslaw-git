@@ -4,11 +4,11 @@ title: "Ordinanza del 25 febbraio 1998 concernente il materiale bellico (Ordinan
 short: OMB
 eli: "https://fedlex.data.admin.ch/eli/cc/1998/808_808_808"
 language: it
-version: 2025-03-01
+version: 2026-07-01
 adopted: 1998-02-25
 in_force: 1998-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/808_808_808/20250301/it/xml/fedlex-data-admin-ch-eli-cc-1998-808_808_808-20250301-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1998/808_808_808/20250301/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/808_808_808/20260701/it/xml/fedlex-data-admin-ch-eli-cc-1998-808_808_808-20260701-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1998/808_808_808/20260701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1998/808_808_808/20250301/it"
 
 (Ordinanza sul materiale bellico, OMB)
 
-del 25 febbraio 1998 (Stato 1° marzo 2025)
+del 25 febbraio 1998 (Stato 1° luglio 2026)
 
 Il Consiglio federale svizzero,
 
@@ -25,9 +25,9 @@ vista la legge del 13 dicembre 1996[^ingress-1] sul materiale bellico (LMB); vis
 
 ordina:
 
-[^ingress-1]: [RS 514.51](https://fedlex.data.admin.ch/eli/cc/1998/794_794_794)
-[^ingress-2]: [RS 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
-[^ingress-3]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^ingress-1]: [RS 514.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7526)
+[^ingress-2]: [RS 510.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7242)
+[^ingress-3]: [RS 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
 [^ingress-4]: Nuovo testo giusta la cifra I dell’O del 21 nov. 2001, in vigore dal 1° mar. 2002 ([RU 2002 312](https://fedlex.data.admin.ch/eli/oc/2002/68)).
 
 ## Sezione 1: Disposizioni generali
@@ -199,7 +199,7 @@ Le persone delle categorie seguenti non necessitano di alcuna autorizzazione per
 <sup>2</sup> L’importazione e la riesportazione di armi da fuoco con le relative munizioni da parte di persone delle categorie elencate nel capoverso 1 sono rette dalla legislazione sulle armi.
 
 [^9-1]: Nuovo testo giusta la cifra I dell’O del 27 ago. 2008, in vigore dal 12 dic. 2008 ([RU 2008 5495](https://fedlex.data.admin.ch/eli/oc/2008/765)).
-[^9-2]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), con effetto dal 1° gen. 2022 ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Di detta mod. è tenuto conto in tutto il presente testo.
+[^9-2]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)), con effetto dal 1° gen. 2022 ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Di detta mod. è tenuto conto in tutto il presente testo.
 
 #### Art. 9a
 
@@ -231,7 +231,7 @@ Le persone delle categorie seguenti non necessitano di alcuna autorizzazione per
 [^9c-1]: Introdotto dalla cifra I dell’O del 21 nov. 2001, in vigore dal 1° mar. 2002 ([RU 2002 312](https://fedlex.data.admin.ch/eli/oc/2002/68)).
 [^9c-2]: Nuovo testo giusta la cifra I dell’O del 30 mar. 2022, in vigore dal 1° mag. 2022 ([RU 2022 227](https://fedlex.data.admin.ch/eli/oc/2022/227)).
 [^9c-3]: Nuovo testo giusta la cifra I dell’O del 30 mar. 2022, in vigore dal 1° mag. 2022 ([RU 2022 227](https://fedlex.data.admin.ch/eli/oc/2022/227)).
-[^9c-4]: [RS 514.54](https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535)
+[^9c-4]: [RS 514.54](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7530)
 
 #### Art. 9d
 
@@ -246,7 +246,7 @@ Le persone delle categorie seguenti non necessitano di alcuna autorizzazione per
 <sup>4</sup> Per il materiale bellico che rientra anche nel campo d’applicazione della legge del 20 giugno 1997[^9d-2] sulle armi sono fatte salve le disposizioni della legislazione sulle armi.
 
 [^9d-1]: Introdotto dalla cifra I dell’O del 21 nov. 2001, in vigore dal 1° mar. 2002 ([RU 2002 312](https://fedlex.data.admin.ch/eli/oc/2002/68)).
-[^9d-2]: [RS 514.54](https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535)
+[^9d-2]: [RS 514.54](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7530)
 
 #### Art. 9e
 
@@ -263,11 +263,11 @@ Le persone delle categorie seguenti non necessitano di alcuna autorizzazione per
 <sup>5</sup> Se del caso, l’AGI o l’AGT è rifiutata per un anno; in casi motivati tale durata può essere ridotta a sei mesi.
 
 [^9e-1]: Introdotto dalla cifra I dell’O del 21 nov. 2001, in vigore dal 1° mar. 2002 ([RU 2002 312](https://fedlex.data.admin.ch/eli/oc/2002/68)).
-[^9e-2]: [RS 514.54](https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535)
+[^9e-2]: [RS 514.54](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7530)
 [^9e-3]: Nuovo testo giusta la cifra I dell’O del 27 ago. 2008, in vigore dal 12 dic. 2008 ([RU 2008 5495](https://fedlex.data.admin.ch/eli/oc/2008/765)).
 [^9e-4]: Nuovo testo giusta la cifra I dell’O del 27 ago. 2008, in vigore dal 12 dic. 2008 ([RU 2008 5495](https://fedlex.data.admin.ch/eli/oc/2008/765)).
 [^9e-5]: Nuovo testo giustal’all. 9 n. 10 dell’O del 1° nov. 2006 sulle dogane, in vigore dal 1° mag. 2007 ([RU 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
-[^9e-6]: [RS 946.202](https://fedlex.data.admin.ch/eli/cc/1997/1697_1697_1697)
+[^9e-6]: [RS 946.202](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11363)
 
 ## Sezione 4: Certificati di importazione
 
@@ -306,7 +306,7 @@ Su richiesta scritta dell’importatore, la Segreteria di Stato dell’economia 
 
 <sup>2</sup> Se il certificato di importazione non può più essere richiesto all’autorità estera o se solo una parte del materiale bellico notificato è importato, l’importatore deve darne comunicazione scritta alla SECO entro il termine fissato per l’importazione del materiale.
 
-[^12-1]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 16 cpv. 3 dell’O del 17 nov. 2004 sulle pubblicazioni ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)). Di detta mod. è tenuto conto in tutto il presente testo.
+[^12-1]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 16 cpv. 3 dell’O del 17 nov. 2004 sulle pubblicazioni ([RS 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)). Di detta mod. è tenuto conto in tutto il presente testo.
 
 ## Sezione 5: Procedura d’autorizzazione
 
@@ -336,7 +336,7 @@ Su richiesta scritta dell’importatore, la Segreteria di Stato dell’economia 
 [^13-2]: RS **580.81**
 [^13-3]: Nuovo testo giusta l’art. 17 n. 2 dell’O del 13 nov. 2024 sulla cooperazione militare internazionale, in vigore dal 1° gen. 2024 ([RU 2024 685](https://fedlex.data.admin.ch/eli/oc/2024/685)).
 [^13-4]: Introdotto dall’art. 50 n. 3 dell’O del 21 set. 1998 sulle armi nel testo del 16 mar. 2001 ([RU 2001 1009](https://fedlex.data.admin.ch/eli/oc/2001/146)). Abrogato dalla cifra I dell’O del 21 nov. 2001, con effetto dal 1° mar. 2002 ([RU 2002 312](https://fedlex.data.admin.ch/eli/oc/2002/68)).
-[^13-5]: [RS 748.111.1](https://fedlex.data.admin.ch/eli/cc/2005/284)
+[^13-5]: [RS 748.111.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9036)
 [^13-6]: Nuovo testo giusta la cifra I dell’O del 19 ago. 2015, in vigore dal 1° ott. 2015 ([RU 2015 2943](https://fedlex.data.admin.ch/eli/oc/2015/555)).
 
 #### Art. 14
@@ -505,7 +505,7 @@ Non è riscosso alcun emolumento per:
 [^22-7]: Abrogata dalla cifra I dell’O del 27 ago. 2008, con effetto dal 12 dic. 2008 ([RU 2008 5495](https://fedlex.data.admin.ch/eli/oc/2008/765)).
 [^22-8]: Introdotto dalla cifra I dell’O del 21 nov. 2001, in vigore dal 1° mar. 2002 ([RU 2002 312](https://fedlex.data.admin.ch/eli/oc/2002/68)).
 [^22-9]: Introdotto dalla cifra I dell’O del 16 giu. 2006, in vigore dal 1° ago. 2006 ([RU 2006 2671](https://fedlex.data.admin.ch/eli/oc/2006/407)).
-[^22-10]: [RS 172.041.1](https://fedlex.data.admin.ch/eli/cc/2004/677)
+[^22-10]: [RS 172.041.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5068)
 [^22-11]: Introdotto dalla cifra I dell’O del 16 giu. 2006, in vigore dal 1° ago. 2006 ([RU 2006 2671](https://fedlex.data.admin.ch/eli/oc/2006/407)).
 
 ## Sezione 8: Disposizioni finali
@@ -550,7 +550,7 @@ Le domande pendenti al momento dell’entrata in vigore della modifica del 19 se
 
 **...**
 
-<sup>1</sup> e <sup>2</sup> ...[^25-1]
+<sup>1 e <sup>2</sup></sup> ...[^25-1]
 
 <sup>3</sup> ...[^25-2]
 
@@ -627,11 +627,11 @@ I beni elencati nel presente elenco quale allegato all’ordinanza sul materiale
 
 Allegato 2[^t-2]
 
-(art. 6 e 7)
+(art. 6 cpv. 2, 7 e 9*e* cpv. 2)
 
-## Elenco degli Stati per i quali non è richiesta alcuna autorizzazione specifica giusta gli articoli 6 e 7 OMB
+## Elenco degli Stati per i quali non è richiesta alcuna autorizzazione specifica
 
-[^t-2]: Aggiornato dalla cifra I dell’O del 25 ago. 1999, in vigore dal 1° ott. 1999 ([RU 1999 2454](https://fedlex.data.admin.ch/eli/oc/1999/376)).
+[^t-2]: Nuovo testo giusta la cifra I dell’O del 27 mag. 2026, in vigore dal 1° lug. 2026 ([RU 2026 310](https://fedlex.data.admin.ch/eli/oc/2026/310)).
 
 Argentina
 
@@ -641,11 +641,19 @@ Austria
 
 Belgio
 
+Bulgaria
+
 Canada
 
-Repubblica Ceca
+Cechia
+
+Cipro
+
+Croazia
 
 Danimarca
+
+Estonia
 
 Finlandia
 
@@ -657,11 +665,19 @@ Giappone
 
 Grecia
 
-Irlanda EIRE
+Irlanda
+
+Islanda
 
 Italia
 
+Lettonia
+
+Lituania
+
 Lussemburgo
+
+Malta
 
 Norvegia
 
@@ -673,11 +689,17 @@ Polonia
 
 Portogallo
 
-Regno Unito di Gran Bretagna e Irlanda
+Regno Unito
+
+Romania
+
+Slovacchia
+
+Slovenia
 
 Spagna
 
-Stati Uniti d’America
+Stati Uniti
 
 Svezia
 
@@ -699,8 +721,8 @@ Gli accordi di associazione alla normativa di Schengen comprendono:
 - d. l’Accordo del 28 aprile 2005[^annex3-lvlu1-4] tra la Confederazione Svizzera e il Regno di Danimarca sull’attuazione, l’applicazione e lo sviluppo delle parti dell’acquis di Schengen basate sulle disposizioni del titolo IV del Trattato che istituisce la Comunità europea;
 - e. il Protocollo del 28 febbraio 2008[^annex3-lvlu1-5] tra la Confederazione Svizzera, l’Unione europea, la Comunità europea e il Principato del Liechtenstein sull’adesione del Principato del Liechtenstein all’accordo tra la Confederazione Svizzera, l’Unione europea e la Comunità europea riguardante l’associazione della Confederazione Svizzera all’attuazione, all’applicazione e allo sviluppo dell’acquis di Schengen*.*
 
-[^annex3-lvlu1-1]: [RS 0.362.31](https://fedlex.data.admin.ch/eli/cc/2008/113)
-[^annex3-lvlu1-2]: [RS 0.362.1](https://fedlex.data.admin.ch/eli/cc/2008/117)
-[^annex3-lvlu1-3]: [RS 0.362.32](https://fedlex.data.admin.ch/eli/cc/2008/116)
-[^annex3-lvlu1-4]: [RS 0.362.33](https://fedlex.data.admin.ch/eli/cc/2008/114)
-[^annex3-lvlu1-5]: [RS 0.362.311](https://fedlex.data.admin.ch/eli/cc/2011/205)
+[^annex3-lvlu1-1]: [RS 0.362.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1513)
+[^annex3-lvlu1-2]: [RS 0.362.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1508)
+[^annex3-lvlu1-3]: [RS 0.362.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1519)
+[^annex3-lvlu1-4]: [RS 0.362.33](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1520)
+[^annex3-lvlu1-5]: [RS 0.362.311](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1514)

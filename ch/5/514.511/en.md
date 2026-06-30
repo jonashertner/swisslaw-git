@@ -4,11 +4,11 @@ title: "Ordinance of 25 February 1998 on War Material (War Material Ordinance, W
 short: WMO
 eli: "https://fedlex.data.admin.ch/eli/cc/1998/808_808_808"
 language: en
-version: 2025-03-01
+version: 2026-07-01
 adopted: 1998-02-25
 in_force: 1998-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/808_808_808/20250301/en/xml/fedlex-data-admin-ch-eli-cc-1998-808_808_808-20250301-en-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1998/808_808_808/20250301/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/808_808_808/20260701/en/xml/fedlex-data-admin-ch-eli-cc-1998-808_808_808-20260701-en-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1998/808_808_808/20260701/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (War Materiel Ordinance, WMO)
 
-of 25 February 1998 (Status as of 1 March 2025)
+of 25 February 1998 (Last amended on 1 July 2026)
 
 The Swiss Federal Council,
 
@@ -28,8 +28,8 @@ based on the War Materiel Act of 13 December 1996[^ingress-1] (WMA), Article 150
 ordains:
 
 [^ingress-1]: AS **514.51**
-[^ingress-2]: [SR 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
-[^ingress-3]: [SR 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^ingress-2]: [SR 510.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7242)
+[^ingress-3]: [SR 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
 [^ingress-4]: Amended by No I of the O of 21 Nov. 2001, in force since 1 March 2002 ([AS 2002 312](https://fedlex.data.admin.ch/eli/oc/2002/68)).
 
 ## Section 1 General Provisions
@@ -201,7 +201,7 @@ No licence is required by persons in the following categories for the temporary 
 <sup>2</sup> The import and re-export of firearms with the ammunition pertaining thereto by persons in the categories mentioned in paragraph 1 are governed by the legislation on weapons.
 
 [^9-1]: Amended by No I of the O of 27 Aug. 2008, in force since 12 Dec. 2008 ([AS 2008 5495](https://fedlex.data.admin.ch/eli/oc/2008/765)).
-[^9-2]: The name of this administrative unit was changed on 1 Jan. 2022 in application of Art. 20 para. 2 of the Publications Ordinance of 7 Oct. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). This change has been made throughout the text.
+[^9-2]: The name of this administrative unit was changed on 1 Jan. 2022 in application of Art. 20 para. 2 of the Publications Ordinance of 7 Oct. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)) ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). This change has been made throughout the text.
 
 #### Art. 9a
 
@@ -233,7 +233,7 @@ No licence is required by persons in the following categories for the temporary 
 [^9c-1]: Inserted by No I of the O of 21 Nov. 2001, in force since 1 March 2002 ([AS 2002 312](https://fedlex.data.admin.ch/eli/oc/2002/68)).
 [^9c-2]: Amended by No I of the O of 30 March 2022, in force since 1 May 2022 ([AS 2022 227](https://fedlex.data.admin.ch/eli/oc/2022/227)).
 [^9c-3]: Amended by No I of the O of 30 March 2022, in force since 1 May 2022 ([AS 2022 227](https://fedlex.data.admin.ch/eli/oc/2022/227)).
-[^9c-4]: [SR 514.54](https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535)
+[^9c-4]: [SR 514.54](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7530)
 
 #### Art. 9d
 
@@ -248,7 +248,7 @@ No licence is required by persons in the following categories for the temporary 
 <sup>4</sup> War materiel that is also covered by the Weapons Act of 20 June 1997[^9d-2] remains subject to the provisions of the legislation on weapons.
 
 [^9d-1]: Inserted by No I of the O of 21 Nov. 2001, in force since 1 March 2002 ([AS 2002 312](https://fedlex.data.admin.ch/eli/oc/2002/68)).
-[^9d-2]: [SR 514.54](https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535)
+[^9d-2]: [SR 514.54](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7530)
 
 #### Art. 9e
 
@@ -265,11 +265,11 @@ No licence is required by persons in the following categories for the temporary 
 <sup>5</sup> The GIL or the GTL shall in such cases be refused for a period of one year; where there is justification, this period may be reduced to six months.
 
 [^9e-1]: Inserted by No I of the O of 21 Nov. 2001, in force since 1 March 2002 ([AS 2002 312](https://fedlex.data.admin.ch/eli/oc/2002/68)).
-[^9e-2]: [SR 514.54](https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535)
+[^9e-2]: [SR 514.54](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7530)
 [^9e-3]: Amended by No I of the O of 27 Aug. 2008, in force since 12 Dec. 2008 ([AS 2008 5495](https://fedlex.data.admin.ch/eli/oc/2008/765)).
 [^9e-4]: Amended by No I of the O of 27 Aug. 2008, in force since 12 Dec. 2008 ([AS 2008 5495](https://fedlex.data.admin.ch/eli/oc/2008/765)).
 [^9e-5]: Amended by Annex 4 No 10 of the Customs Ordinance of 1 Nov. 2006, in force since 1 May 2007 ([AS 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
-[^9e-6]: [SR 946.202](https://fedlex.data.admin.ch/eli/cc/1997/1697_1697_1697)
+[^9e-6]: [SR 946.202](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11363)
 
 ## Section 4 Import Certificates
 
@@ -336,10 +336,10 @@ On written application from the importer, the State Secretariat for Economic Aff
 <sup>3</sup> The responsibility for the transit of military and other state aircraft is governed by the Ordinance of 23 March 2005[^13-5] on the Protection of Airspace Sovereignty.[^13-6]
 
 [^13-1]: Amended by Art. 17 No 2 of the O of 13 Nov. 2024 on International Military Cooperation, in force since 1 Jan. 2025 ([AS 2024 685](https://fedlex.data.admin.ch/eli/oc/2024/685)).
-[^13-2]: [SR 510.81](https://fedlex.data.admin.ch/eli/cc/2024/685)
+[^13-2]: [SR 510.81](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7375)
 [^13-3]: Amended by Art. 17 No 2 of the O of 13 Nov. 2024 on International Military Cooperation, in force since 1 Jan. 2025 ([AS 2024 685](https://fedlex.data.admin.ch/eli/oc/2024/685)).
 [^13-4]: Inserted by Art. 50 No 3 of the Weapons Ordinance of 21 Sept. 1998, in its version of 16 March 2001 ([AS 2001 1009](https://fedlex.data.admin.ch/eli/oc/2001/146)). Repealed by No I of the O of 21 Nov. 2001, with effect from 1 March 2002 (AS **2001** 312).
-[^13-5]: [SR 748.111.1](https://fedlex.data.admin.ch/eli/cc/2005/284)
+[^13-5]: [SR 748.111.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9036)
 [^13-6]: Amended by No I of the O of 19 Aug. 2015, in force since 1 Oct. 2015 ([AS 2015 2943](https://fedlex.data.admin.ch/eli/oc/2015/555)).
 
 #### Art. 14
@@ -509,7 +509,7 @@ No fees are charged for:
 [^22-7]: Repealed by No I of the O of 27 Aug. 2008, with effect from 12 Dec. 2008 ([AS 2008 5495](https://fedlex.data.admin.ch/eli/oc/2008/765)).
 [^22-8]: Inserted by No I of the O of 21 Nov. 2001, in force since 1 March 2002 ([AS 2002 312](https://fedlex.data.admin.ch/eli/oc/2002/68)).
 [^22-9]: Inserted by No I of the O of 16 June 2006, in force since 1 Aug. 2006 ([AS 2006 2671](https://fedlex.data.admin.ch/eli/oc/2006/407)).
-[^22-10]: [SR 172.041.1](https://fedlex.data.admin.ch/eli/cc/2004/677)
+[^22-10]: [SR 172.041.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5068)
 [^22-11]: Inserted by No I of the O of 16 June 2006, in force since 1 Aug. 2006 ([AS 2006 2671](https://fedlex.data.admin.ch/eli/oc/2006/407)).
 
 ## Section 8 Final Provisions
@@ -554,7 +554,7 @@ Applications that are pending when the amendments of 19 September 2014 come into
 
 **...**
 
-<sup>1</sup> and <sup>2</sup> ...[^25-1]
+<sup>1 and <sup>2</sup></sup> ...[^25-1]
 
 <sup>3</sup> ...[^25-2]
 
@@ -580,78 +580,94 @@ Note: The goods listed as the Annex to the War Materiel Ordinance originate from
 ### Table of Contents
 
 <table>
-<tr><th>Item</th><th colspan="2">Description of goods</th></tr>
-<tr><td>ML 1</td><td colspan="2">Hand guns and small arms of any calibre</td></tr>
-<tr><td>ML 2</td><td colspan="2">Weapons of any calibre (but excluding hand guns and small arms controlled by ML 1)</td></tr>
-<tr><td>ML 3</td><td colspan="2">Ammunition for the weapons controlled by ML 1, 2 or 12</td></tr>
-<tr><td>ML 4</td><td colspan="2">Bombs, torpedoes, rockets, and missiles</td></tr>
-<tr><td>ML 5</td><td colspan="2">Fire control equipment</td></tr>
-<tr><td>ML 6</td><td colspan="2">Armoured vehicles and other ground vehicles</td></tr>
-<tr><td>ML 7</td><td colspan="2">Tear gases and other irritants</td></tr>
-<tr><td>ML 8</td><td colspan="2">Military explosives, combustible substances and fuels</td></tr>
-<tr><td>ML 9</td><td colspan="2">Vessels of war</td></tr>
-<tr><td>ML 10</td><td colspan="2">Manned and unmanned aircraft including aero-engines</td></tr>
-<tr><td>ML 11</td><td colspan="2">Electronic equipment</td></tr>
-<tr><td>ML 12</td><td colspan="2">High velocity kinetic energy weapons systems</td></tr>
-<tr><td>ML 13</td><td colspan="2">Special armoured or protective equipment</td></tr>
-<tr><td>ML 14</td><td colspan="2">(Contains no war materiel; listed in order that numbering corresponds to ML)</td></tr>
-<tr><td>ML 15</td><td colspan="2">(Contains no war materiel; listed in order that numbering corresponds to ML)</td></tr>
-<tr><td>ML 16</td><td colspan="2">Forgings, castings and other unfinished products</td></tr>
-<tr><td>ML 17</td><td colspan="2">Miscellaneous equipment (robots, etc.)</td></tr>
-<tr><td>ML 18</td><td colspan="2">(Contains no war materiel; listed in order that numbering corresponds to ML)</td></tr>
-<tr><td>ML 19</td><td colspan="2">Directed energy weapons systems (e.g. laser systems)</td></tr>
-<tr><td>ML 20</td><td colspan="2">Cryogenic (low temperature) and superconductive equipment</td></tr>
-<tr><td>ML 21</td><td colspan="2">Software</td></tr>
-<tr><td>ML 22</td><td colspan="2">(Contains no war materiel; listed in order that numbering corresponds to ML)</td></tr>
+<tr><th>Item</th><th>Description of goods</th></tr>
+<tr><td>ML 1</td><td>Hand guns and small arms of any calibre</td></tr>
+<tr><td>ML 2</td><td>Weapons of any calibre (but excluding hand guns and small arms controlled by ML 1)</td></tr>
+<tr><td>ML 3</td><td>Ammunition for the weapons controlled by ML 1, 2 or 12</td></tr>
+<tr><td>ML 4</td><td>Bombs, torpedoes, rockets, and missiles</td></tr>
+<tr><td>ML 5</td><td>Fire control equipment</td></tr>
+<tr><td>ML 6</td><td>Armoured vehicles and other ground vehicles</td></tr>
+<tr><td>ML 7</td><td>Tear gases and other irritants</td></tr>
+<tr><td>ML 8</td><td>Military explosives, combustible substances and fuels</td></tr>
+<tr><td>ML 9</td><td>Vessels of war</td></tr>
+<tr><td>ML 10</td><td>Manned and unmanned aircraft including aero-engines</td></tr>
+<tr><td>ML 11</td><td>Electronic equipment</td></tr>
+<tr><td>ML 12</td><td>High velocity kinetic energy weapons systems</td></tr>
+<tr><td>ML 13</td><td>Special armoured or protective equipment</td></tr>
+<tr><td>ML 14</td><td>(Contains no war materiel; listed in order that numbering corresponds to ML)</td></tr>
+<tr><td>ML 15</td><td>(Contains no war materiel; listed in order that numbering corresponds to ML)</td></tr>
+<tr><td>ML 16</td><td>Forgings, castings and other unfinished products</td></tr>
+<tr><td>ML 17</td><td>Miscellaneous equipment (robots, etc.)</td></tr>
+<tr><td>ML 18</td><td>(Contains no war materiel; listed in order that numbering corresponds to ML)</td></tr>
+<tr><td>ML 19</td><td>Directed energy weapons systems (e.g. laser systems)</td></tr>
+<tr><td>ML 20</td><td>Cryogenic (low temperature) and superconductive equipment</td></tr>
+<tr><td>ML 21</td><td>Software</td></tr>
+<tr><td>ML 22</td><td>(Contains no war materiel; listed in order that numbering corresponds to ML)</td></tr>
 <tr><td>ML 1</td><td>Hand guns and small arms of any calibre and accessories and specially designed components therefor, but not including: a. Clearly recognisable hunting and sports weapons (e.g. as per ISSF standard) that cannot also be used as military weapons in the same form; b. Single-shot firearms and muzzle-loading firearms; c. Small arms and repeating rifles for rimfire ammunition; d. Antique weapons for which usable ammunition is no longer produced or which are no longer available on the public market. Note: ML 1.d. also controls the following weapons: 1. Muskets, rifles and carbines manufactured before 1890 , and their reproductions; 2. Revolvers, pistols and machine guns manufactured before 1890 , and their reproductions. ML 1.a. to ML 1.d. also control weapons specially designed to fire dummy ammunition, which cannot fire ammunition controlled by ML 3.</td></tr>
-<tr><td>ML 2</td><td colspan="2">Weapons and armaments of any calibre (but not including handguns and small arms controlled by ML 1), projectors and accessories as follows, and specially designed components therefor: a. Guns, howitzers, cannon, mortars, anti-tank weapons, projectile launchers, military flame throwers and recoilless weapons; Note: ML 2.a. includes injectors, metering devices, storage tanks and specially designed components for use with liquid propelling charges for any of the equipment controlled by ML 2.a. b. Military smoke and gas projectors, military pyrotechnic projectors or generators. Note: ML 2.b. does not control signal pistols.</td></tr>
-<tr><td>ML 3</td><td colspan="2">Ammunition for weapons controlled by ML 1, ML 2 or ML 12 as well as specially designed components therefor Notes: 1. Specially designed components include: a. Metal or plastic components, e.g. primer anvils, bullet cups, cartridge links, rotating bands and other metal munitions parts; b. Safing and arming devices, fuses, sensors and initiation devices; c. Power supplies with high one-time operational output; d. Combustible cases for propelling charges; e. Submunitions including bomblets, minelets and terminally guided projectiles. 2. ML 3 does not control ammunition without a projectile (blank star) and dummy ammunition with a pierced powder chamber.</td></tr>
-<tr><td>ML 4</td><td colspan="2">Bombs, torpedoes, rockets, missiles and related equipment and accessories as follows, specially designed for military use, and specially designed components therefor: Bombs, torpedoes, grenades, smoke canisters, rockets, mines, missiles, depth charges, demolition charges and accessories, military pyrotechnics, flares and manoeuvre ammunition (i.e. equipment, simulating the characteristics of any of the items controlled by ML 4). Note: ML 4 includes: 1. Smoke grenades, fire bombs, incendiary munitions and explosive devices; 2. Missiles rocket nozzles and nose-tips for re-entry vehicles.</td></tr>
-<tr><td>ML 5</td><td colspan="2">Fire control equipment specially designed for military use, as follows, as well as specially designed components and accessories therefor a. weapons sights, bombing computers, gun laying equipment and weapon control systems; b. target acquisition, designation, range-finding, surveillance or tracking systems; detection or data merger devices (data merger) and sensor integration equipment.</td></tr>
-<tr><td>ML 6</td><td colspan="2">Armoured and other ground vehicles, and components therefor, specially designed or modified for military use Technical note: The term «ground vehicles» in ML 6 also includes specially equipped trailers. Remarks: 1. ML 6 includes: a. Armoured vehicles, with or without weapons, specifically designed or modified for military use (also includes armoured recovery vehicles); b. Other vehicles of any type that are specifically designed or modified for using weapons (e.g. combat vehicles, armed or unarmed, equipped with mountings for arms or equipment for mine laying or for the launching of munitions controlled under ML 4); c. Tracked vehicles that are specifically designed or modified for military use. 2. The design or modification of the abovementioned ground vehicles for military use may entail a structural, electrical or mechanical modification, involving one or more specially designed components. Such components include: a. Pneumatic tyre casings designed to be bullet-proof or to run when deflated; b. Tyre inflation pressure control systems that can be operated from within a moving vehicle; c. armoured protection of vital parts (e.g. fuel tanks or vehicle cabins); d. special reinforcements for the mounting of weapons. 3. ML 6 does not control civilian automobiles or trucks designed or modified for transporting money or valuables that have armoured or ballistic protection.</td></tr>
-<tr><td>ML 7</td><td colspan="2">Tear gases and other «riot control» agents: 1. CA: bromobenzyl cyanide (CAS-No. 5798-79-8); 2. CS: o- chlorobenzylidenemalononitrile (CAS-No. 2698-41-1); 3. CN: ω-chloroacetophenone (CAS-No. 532-27-4); 4. CR: Dibenz-b,f)1,4-oxazephine-b,f)1,4-oxazephine-(b,f)-1,4-oxazephine-(b,f)-1,4-oxazephine (CAS-No. 257-07-8). Remarks: 1. The following are not controlled: a. ethyl bromoacetate; b. xylyl bromide; c. benzyl bromide; d. benzyl iodide; e. bromo acetone; f. cyanogen bromide; g. bromo methylethylketone; h. chloro acetone; i. ethyl iodoacetate; j. iodo acetone. 2. Individually packaged tear gases or other irritants for personal self-defence purposes are not controlled.</td></tr>
-<tr><td>ML 8</td><td>Military explosives and combustible agents, including fuels: a. Explosives and fuels that fulfil the following performance parameters: 1. Explosives with a detonation velocity exceeding 8700 m/s or a detonation pressure exceeding 34 GPa (340 kbar); 2. Organic explosives yielding a detonation pressure of 25 GPa (250 kbar) or more that will remain stable at temperatures of 250°C (523 K) or higher for periods of 5 min or longer; 3. Solid propellants in UN Class 1.1 with a theoretical specific impulse (under standard conditions) of more than 250 seconds for non-metalised, or more than 270 seconds for aluminised compositions; 4. Solid propellants in UN Class 1.3 with a theoretical specific impulse of more than 230 seconds for non-halogenised, 250 seconds for non-metalised, and 266 seconds for metalised compositions; 5. Propellent powder with a force constant exceeding 1200 kJ/kg; 6. Explosives, fuels or pyrotechnics that can sustain a steady-state linear burning rate of more than 38 mm/s at 6.89 MPa (68,9 bar) pressure and 21°C (294 K); or 7. Elastomer modified cast double base propellants (EMCDB) with an extensibility at maximum stress of more than 5% at -40 °C (233 K); b. Military pyrotechnics; c. Other substances as follows: 1. Aircraft fuels specially designed for military use; 2. Military materials containing thickeners for hydrocarbon fuels specially developed for use in flame throwers or incendiary munitions, such as metal stearates or palmates (octal) (CAS-No. 637-12-7) and M1, M2, and M3 thickeners; 3. Liquid oxidisers comprised of or containing inhibited red fuming nitric acid (IRFNA) or oxygen difluoride. Note: Aircraft fuels that are controlled by ML 8.c.1. are finished products and not their constituents.</td></tr>
-<tr><td>ML 9</td><td colspan="2">Vessels of war and accessories as follows as well as components therefor, specially designed for military use: a. Combatant vessels or vessels (surface or underwater) specially designed or modified for offensive or defensive action, whether or not converted for non-military use, and regardless of current state of repair or operating condition or whether or not they contain weapons delivery systems or armour, as well as hulls or parts of hulls for such vessels; b. Engines as follows: 1. Diesel engines specially designed for submarines, with both of the following characteristics: a. power output of 1.12 MW (1500 PS) or more; and b. rotary speed of 700 rpm or more; 2. Electric motors specially designed for submarines, with all of the following characteristics: a. power output of more than 0.75 MW (1000 PS); b. quick reversing; c. liquid cooled; and d. totally enclosed; 3. Non-magnetic diesel engines with a power output of 37.3 kW (50 PS) or more and with a non-magnetic content of more than 75% of the total mass.</td></tr>
-<tr><td>ML 10</td><td colspan="2">Aircraft, unmanned aircraft, aero-engines, aircraft equipment, related equipment and components, specially designed or modified for military use, as follows: a. Combat aircraft and helicopters and specially designed components therefor; b. Other aircraft, specially designed or modified for military use; c. Aero-engines for aircraft under letters a and b above and specially designed components therefor; d. Unmanned aircraft including remotely piloted air vehicles (RPVs) and autonomous, programmable vehicles, specially designed or modified for military use, as well as their launchers, ground support equipment and related equipment for command and control. Notes: 1. ML 10.b. does not control aircraft or variants of such aircraft that are specially designed for military use that: a. are not configured for military use and are not fitted with technical equipment or attachments that are specially designed or modified for military use; and b. have been certified for civil use by a civil aviation authority in a participating state. 2. ML 10.c. does not control: a. Aero-engines designed or modified for military use that have been certified by the civil aviation authority of a participating state for use in civil aircraft, as well as specially designed components therefor; b. reciprocating engines or specially designed components therefor. 3. The control in ML 10.b. and ML 10.c. on specially designed components and related equipment for non-military aircraft or aero-engines modified for military use applies only to those military components and related military equipment required for the modification for military use. 4. ML 10.d does not include reconnaissance drones.</td></tr>
-<tr><td>ML 11</td><td colspan="2">Electronic equipment specially designed for military use not controlled elsewhere in this list, and specially designed components therefor Note: ML 11 includes the following: a. Equipment for electronic countermeasures (ECM) and electronic counter-countermeasure equipment (ECCM), including electronic jamming and counter-jamming equipment, i.e. equipment designed to introduce extraneous signals or erroneous signals into radar or radio communication receivers or otherwise hinder the reception, operation or effectiveness of adversary receivers including their countermeasures equipment; b. Equipment for underwater countermeasures including acoustic and magnetic jamming and decoy that introduce extraneous signals or erroneous signals into sonar receivers.</td></tr>
-<tr><td>ML 12</td><td colspan="2">High velocity kinetic energy weapon systems as follows, as well as specially designed components therefor: Kinetic energy weapon systems specially designed for the destruction or defence against (mission abort) of a target. Notes: 1. ML 12 includes the following when specially designed for kinetic energy weapons systems: a. Launch propulsion systems capable of accelerating masses larger than 1 g to velocities in excess of 1.6 km/s in single rapid fire modes; b. Prime power, electric armour, energy storage, thermal management, conditioning, switching or fuel handling equipment, electrical interfaces between power supply, gun and other tower electric drive functions; c. target acquisition, tracking, fire control or damage assessment systems; d. homing seeker, guidance or divert propulsion (lateral acceleration) systems for projectiles. 2. ML 12 controls systems using any of the following methods of propulsion: a. electromagnetic; b. electrothermal; c. plasma; d. light gas; or e. chemical (when used in combination with any of the above). 3. ML 12 does not control the technology for magnetic induction in the permanent propulsion of civil transport systems. 4. Weapons that use sub-calibre ammunition or work solely by chemical propulsion, and ammunition therefor: see ML 1, ML 2, ML 3 and ML 4.</td></tr>
-<tr><td>ML 13</td><td colspan="2">Special armoured or protective equipment and constructions and components, as follows: a. Armoured plate as follows: 1. manufactured to comply with military standard or specification; or 2. suitable for military use; b. Constructions of metallic and non-metallic materials or combinations thereof specially designed to provide ballistic protection for military systems. Note: ML 13.b. includes materials specially designed to form explosive reactive armour or to construct military shelters.</td></tr>
-<tr><td>ML 14</td><td colspan="2">(Contains no war materiel; listed in order that numbering corresponds to ML)</td></tr>
-<tr><td>ML 15</td><td colspan="2">(Contains no war materiel; listed in order that numbering corresponds to ML)</td></tr>
-<tr><td>ML 16</td><td colspan="2">Forgings, castings and other unfinished products the use of which in a controlled product is identifiable by material composition, geometry or function, and which are specially designed for any products controlled by ML 1, ML 2, ML 3, ML 4, ML 6, ML 9, ML 10, ML 12 or ML 19</td></tr>
-<tr><td>ML 17</td><td colspan="2">Miscellaneous equipment, materials and libraries, as follows, and specially designed components therefor: a. Robots, robot controllers and robot-end-effectors specially designed for Military use; b. Libraries (parametric technical databases) specially designed for military use with equipment controlled by this list; c. Nuclear power generating equipment or propulsion equipment including nuclear reactors, specially designed for military use, and components therefore specially designed or modified for military use. Technical Note: For the purpose of ML 17, the term «library» (parametric technical database) means a collection of technical information of a military nature, reference to which may enhance the performance of military equipment or systems.</td></tr>
-<tr><td>ML 18</td><td colspan="2">(Contains no war materiel; listed in order that numbering corresponds to ML)</td></tr>
-<tr><td>ML 19</td><td colspan="2">Directed energy weapon systems as follows and specially designed components therefor: a. Laser systems specially designed for the destruction or defence against (mission abort) of a target; b. Particle beam systems capable of the destruction or defence against (mission abort) of a target; c. High power radio-frequency systems capable of the destruction or defence against (mission abort) of a target. Notes: 1. Directed energy weapon systems controlled by ML 19 include systems whose capability is derived from the controlled application of: a. lasers with sufficient continuous wave or pulsed power to effect destruction comparable with that of conventional ammunition; b. particle accelerators that project a charged or neutral particle beam with destructive power; c. radio frequency beam transmitters with high pulsed power or high average power that produce fields sufficiently intense to disable electronic circuitry in a distant target. 2. ML 19 includes the following when specially designed for directed energy weapon systems: a. Prime power generation, energy storage, switching, energy conditioning and fuel-handling equipment; b. Target acquisition and tracking systems; c. Systems for assessing target damage, destruction or mission abort; d. Beam-handling, propagation or pointing equipment; e. Equipment with rapid beam slew capability for rapid multiple target operations; f. Adaptive optics and phase conjugators; g. Current injectors for negative hydrogen ion beams; h. Space qualified accelerator components; i. Negative ion beam funnelling equipment; j. Equipment for controlling and slewing a high energy ion beam; k. Space qualified foils for neutralising negative hydrogen isotope beams.</td></tr>
-<tr><td>ML 20</td><td colspan="2">Cryogenic (low temperature) and superconductive equipment, as follows, and specially designed components and accessories therefor: a. Equipment specially designed or configured for installation in a vehicle for military ground, marine, airborne or space applications as per this list capable while in motion of producing or maintaining temperatures below –170 °C (103 K); Note: ML 20.a. includes mobile systems incorporating or employing accessories and components manufactured from non-metallic or non-electrical conductive materials, such as plastics or epoxy-impregnated materials. b. Superconductive electrical equipment (rotating machinery and transformers), specially designed or configured to be installed in a vehicle for military ground, marine, airborne or space applications as per this list, and capable of operating while in motion. Note: ML 20.b. does not control direct-current hybrid, homopolar generators that have single-pole, normal metal armatures that rotate in a magnetic field produced by superconductive windings, provided those windings are the only superconductive component in the generator.</td></tr>
-<tr><td>ML 21</td><td colspan="2">Software, as follows: Software specially designed or modified for the use of products that are controlled by this list.</td></tr>
-<tr><td>ML 22</td><td colspan="2">(Contains no war materiel; listed in order that numbering corresponds to ML)</td></tr>
+<tr><td>ML 2</td><td>Weapons and armaments of any calibre (but not including handguns and small arms controlled by ML 1), projectors and accessories as follows, and specially designed components therefor: a. Guns, howitzers, cannon, mortars, anti-tank weapons, projectile launchers, military flame throwers and recoilless weapons; Note: ML 2.a. includes injectors, metering devices, storage tanks and specially designed components for use with liquid propelling charges for any of the equipment controlled by ML 2.a. b. Military smoke and gas projectors, military pyrotechnic projectors or generators. Note: ML 2.b. does not control signal pistols.</td></tr>
+<tr><td>ML 3</td><td>Ammunition for weapons controlled by ML 1, ML 2 or ML 12 as well as specially designed components therefor Notes: 1. Specially designed components include: a. Metal or plastic components, e.g. primer anvils, bullet cups, cartridge links, rotating bands and other metal munitions parts; b. Safing and arming devices, fuses, sensors and initiation devices; c. Power supplies with high one-time operational output; d. Combustible cases for propelling charges; e. Submunitions including bomblets, minelets and terminally guided projectiles. 2. ML 3 does not control ammunition without a projectile (blank star) and dummy ammunition with a pierced powder chamber.</td></tr>
+<tr><td>ML 4</td><td>Bombs, torpedoes, rockets, missiles and related equipment and accessories as follows, specially designed for military use, and specially designed components therefor: Bombs, torpedoes, grenades, smoke canisters, rockets, mines, missiles, depth charges, demolition charges and accessories, military pyrotechnics, flares and manoeuvre ammunition (i.e. equipment, simulating the characteristics of any of the items controlled by ML 4). Note: ML 4 includes: 1. Smoke grenades, fire bombs, incendiary munitions and explosive devices; 2. Missiles rocket nozzles and nose-tips for re-entry vehicles.</td></tr>
+<tr><td>ML 5</td><td>Fire control equipment specially designed for military use, as follows, as well as specially designed components and accessories therefor a. weapons sights, bombing computers, gun laying equipment and weapon control systems; b. target acquisition, designation, range-finding, surveillance or tracking systems; detection or data merger devices (data merger) and sensor integration equipment.</td></tr>
+<tr><td>ML 6</td><td>Armoured and other ground vehicles, and components therefor, specially designed or modified for military use Technical note: The term «ground vehicles» in ML 6 also includes specially equipped trailers. Remarks: 1. ML 6 includes: a. Armoured vehicles, with or without weapons, specifically designed or modified for military use (also includes armoured recovery vehicles); b. Other vehicles of any type that are specifically designed or modified for using weapons (e.g. combat vehicles, armed or unarmed, equipped with mountings for arms or equipment for mine laying or for the launching of munitions controlled under ML 4); c. Tracked vehicles that are specifically designed or modified for military use. 2. The design or modification of the abovementioned ground vehicles for military use may entail a structural, electrical or mechanical modification, involving one or more specially designed components. Such components include: a. Pneumatic tyre casings designed to be bullet-proof or to run when deflated; b. Tyre inflation pressure control systems that can be operated from within a moving vehicle; c. armoured protection of vital parts (e.g. fuel tanks or vehicle cabins); d. special reinforcements for the mounting of weapons. 3. ML 6 does not control civilian automobiles or trucks designed or modified for transporting money or valuables that have armoured or ballistic protection.</td></tr>
+<tr><td>ML 7</td><td>Tear gases and other «riot control» agents: 1. CA: bromobenzyl cyanide (CAS-No. 5798-79-8); 2. CS: o- chlorobenzylidenemalononitrile (CAS-No. 2698-41-1); 3. CN: ω-chloroacetophenone (CAS-No. 532-27-4); 4. CR: Dibenz-b,f)1,4-oxazephine-b,f)1,4-oxazephine-(b,f)-1,4-oxazephine-(b,f)-1,4-oxazephine (CAS-No. 257-07-8). Remarks: 1. The following are not controlled: a. ethyl bromoacetate; b. xylyl bromide; c. benzyl bromide; d. benzyl iodide; e. bromo acetone; f. cyanogen bromide; g. bromo methylethylketone; h. chloro acetone; i. ethyl iodoacetate; j. iodo acetone. 2. Individually packaged tear gases or other irritants for personal self-defence purposes are not controlled.</td></tr>
+<tr><td>ML 8</td><td>Military explosives and combustible agents, including fuels: a. Explosives and fuels that fulfil the following performance parameters: 1. Explosives with a detonation velocity exceeding 8700 m/s or a detonation pressure exceeding 34 GPa (340 kbar), 2. Organic explosives yielding a detonation pressure of 25 GPa (250 kbar) or more that will remain stable at temperatures of 250°C (523 K) or higher for periods of 5 min or longer, 3. Solid propellants in UN Class 1.1 with a theoretical specific impulse (under standard conditions) of more than 250 seconds for non-metalised, or more than 270 seconds for aluminised compositions, 4. Solid propellants in UN Class 1.3 with a theoretical specific impulse of more than 230 seconds for non-halogenised, 250 seconds for non-metalised, and 266 seconds for metalised compositions, 5. Propellent powder with a force constant exceeding 1200 kJ/kg, 6. Explosives, fuels or pyrotechnics that can sustain a steady-state linear burning rate of more than 38 mm/s at 6.89 MPa (68,9 bar) pressure and 21°C (294 K), or 7. Elastomer modified cast double base propellants (EMCDB) with an extensibility at maximum stress of more than 5% at -40 °C (233 K); b. Military pyrotechnics; c. Other substances as follows: 1. Aircraft fuels specially designed for military use, 2. Military materials containing thickeners for hydrocarbon fuels specially developed for use in flame throwers or incendiary munitions, such as metal stearates or palmates (octal) (CAS-No. 637-12-7) and M1, M2, and M3 thickeners, 3. Liquid oxidisers comprised of or containing inhibited red fuming nitric acid (IRFNA) or oxygen difluoride. Note: Aircraft fuels that are controlled by ML 8.c.1. are finished products and not their constituents.</td></tr>
+<tr><td>ML 9</td><td>Vessels of war and accessories as follows as well as components therefor, specially designed for military use: a. Combatant vessels or vessels (surface or underwater) specially designed or modified for offensive or defensive action, whether or not converted for non-military use, and regardless of current state of repair or operating condition or whether or not they contain weapons delivery systems or armour, as well as hulls or parts of hulls for such vessels; b. Engines as follows: 1. Diesel engines specially designed for submarines, with both of the following characteristics: a. power output of 1.12 MW (1500 PS) or more, and b. rotary speed of 700 rpm or more, 2. Electric motors specially designed for submarines, with all of the following characteristics: a. power output of more than 0.75 MW (1000 PS), b. quick reversing, c. liquid cooled, and d. totally enclosed; 3. Non-magnetic diesel engines with a power output of 37.3 kW (50 PS) or more and with a non-magnetic content of more than 75% of the total mass.</td></tr>
+<tr><td>ML 10</td><td>Aircraft, unmanned aircraft, aero-engines, aircraft equipment, related equipment and components, specially designed or modified for military use, as follows: a. Combat aircraft and helicopters and specially designed components therefor; b. Other aircraft, specially designed or modified for military use; c. Aero-engines for aircraft under letters a and b above and specially designed components therefor; d. Unmanned aircraft including remotely piloted air vehicles (RPVs) and autonomous, programmable vehicles, specially designed or modified for military use, as well as their launchers, ground support equipment and related equipment for command and control. Notes: 1. ML 10.b. does not control aircraft or variants of such aircraft that are specially designed for military use that: a. are not configured for military use and are not fitted with technical equipment or attachments that are specially designed or modified for military use; and b. have been certified for civil use by a civil aviation authority in a participating state. 2. ML 10.c. does not control: a. Aero-engines designed or modified for military use that have been certified by the civil aviation authority of a participating state for use in civil aircraft, as well as specially designed components therefor; b. reciprocating engines or specially designed components therefor. 3. The control in ML 10.b. and ML 10.c. on specially designed components and related equipment for non-military aircraft or aero-engines modified for military use applies only to those military components and related military equipment required for the modification for military use. 4. ML 10.d does not include reconnaissance drones.</td></tr>
+<tr><td>ML 11</td><td>Electronic equipment specially designed for military use not controlled elsewhere in this list, and specially designed components therefor Note: ML 11 includes the following: a. Equipment for electronic countermeasures (ECM) and electronic counter-countermeasure equipment (ECCM), including electronic jamming and counter-jamming equipment, i.e. equipment designed to introduce extraneous signals or erroneous signals into radar or radio communication receivers or otherwise hinder the reception, operation or effectiveness of adversary receivers including their countermeasures equipment; b. Equipment for underwater countermeasures including acoustic and magnetic jamming and decoy that introduce extraneous signals or erroneous signals into sonar receivers.</td></tr>
+<tr><td>ML 12</td><td>High velocity kinetic energy weapon systems as follows, as well as specially designed components therefor: Kinetic energy weapon systems specially designed for the destruction or defence against (mission abort) of a target. Notes: 1. ML 12 includes the following when specially designed for kinetic energy weapons systems: a. Launch propulsion systems capable of accelerating masses larger than 1 g to velocities in excess of 1.6 km/s in single rapid fire modes; b. Prime power, electric armour, energy storage, thermal management, conditioning, switching or fuel handling equipment, electrical interfaces between power supply, gun and other tower electric drive functions; c. target acquisition, tracking, fire control or damage assessment systems; d. homing seeker, guidance or divert propulsion (lateral acceleration) systems for projectiles. 2. ML 12 controls systems using any of the following methods of propulsion: a. electromagnetic; b. electrothermal; c. plasma; d. light gas; or e. chemical (when used in combination with any of the above). 3. ML 12 does not control the technology for magnetic induction in the permanent propulsion of civil transport systems. 4. Weapons that use sub-calibre ammunition or work solely by chemical propulsion, and ammunition therefor: see ML 1, ML 2, ML 3 and ML 4.</td></tr>
+<tr><td>ML 13</td><td>Special armoured or protective equipment and constructions and components, as follows: a. Armoured plate as follows: 1. manufactured to comply with military standard or specification; or 2. suitable for military use; b. Constructions of metallic and non-metallic materials or combinations thereof specially designed to provide ballistic protection for military systems. Note: ML 13.b. includes materials specially designed to form explosive reactive armour or to construct military shelters.</td></tr>
+<tr><td>ML 14</td><td>(Contains no war materiel; listed in order that numbering corresponds to ML)</td></tr>
+<tr><td>ML 15</td><td>(Contains no war materiel; listed in order that numbering corresponds to ML)</td></tr>
+<tr><td>ML 16</td><td>Forgings, castings and other unfinished products the use of which in a controlled product is identifiable by material composition, geometry or function, and which are specially designed for any products controlled by ML 1, ML 2, ML 3, ML 4, ML 6, ML 9, ML 10, ML 12 or ML 19</td></tr>
+<tr><td>ML 17</td><td>Miscellaneous equipment, materials and libraries, as follows, and specially designed components therefor: a. Robots, robot controllers and robot-end-effectors specially designed for Military use; b. Libraries (parametric technical databases) specially designed for military use with equipment controlled by this list; c. Nuclear power generating equipment or propulsion equipment including nuclear reactors, specially designed for military use, and components therefore specially designed or modified for military use. Technical Note: For the purpose of ML 17, the term «library» (parametric technical database) means a collection of technical information of a military nature, reference to which may enhance the performance of military equipment or systems.</td></tr>
+<tr><td>ML 18</td><td>(Contains no war materiel; listed in order that numbering corresponds to ML)</td></tr>
+<tr><td>ML 19</td><td>Directed energy weapon systems as follows and specially designed components therefor: a. Laser systems specially designed for the destruction or defence against (mission abort) of a target; b. Particle beam systems capable of the destruction or defence against (mission abort) of a target; c. High power radio-frequency systems capable of the destruction or defence against (mission abort) of a target. Notes: 1. Directed energy weapon systems controlled by ML 19 include systems whose capability is derived from the controlled application of: a. lasers with sufficient continuous wave or pulsed power to effect destruction comparable with that of conventional ammunition; b. particle accelerators that project a charged or neutral particle beam with destructive power; c. radio frequency beam transmitters with high pulsed power or high average power that produce fields sufficiently intense to disable electronic circuitry in a distant target. 2. ML 19 includes the following when specially designed for directed energy weapon systems: a. Prime power generation, energy storage, switching, energy conditioning and fuel-handling equipment; b. Target acquisition and tracking systems; c. Systems for assessing target damage, destruction or mission abort; d. Beam-handling, propagation or pointing equipment; e. Equipment with rapid beam slew capability for rapid multiple target operations; f. Adaptive optics and phase conjugators; g. Current injectors for negative hydrogen ion beams; h. Space qualified accelerator components; i. Negative ion beam funnelling equipment; j. Equipment for controlling and slewing a high energy ion beam; k. Space qualified foils for neutralising negative hydrogen isotope beams.</td></tr>
+<tr><td>ML 20</td><td>Cryogenic (low temperature) and superconductive equipment, as follows, and specially designed components and accessories therefor: a. Equipment specially designed or configured for installation in a vehicle for military ground, marine, airborne or space applications as per this list capable while in motion of producing or maintaining temperatures below –170 °C (103 K); Note: ML 20.a. includes mobile systems incorporating or employing accessories and components manufactured from non-metallic or non-electrical conductive materials, such as plastics or epoxy-impregnated materials. b. Superconductive electrical equipment (rotating machinery and transformers), specially designed or configured to be installed in a vehicle for military ground, marine, airborne or space applications as per this list, and capable of operating while in motion. Note: ML 20.b. does not control direct-current hybrid, homopolar generators that have single-pole, normal metal armatures that rotate in a magnetic field produced by superconductive windings, provided those windings are the only superconductive component in the generator.</td></tr>
+<tr><td>ML 21</td><td>Software, as follows: Software specially designed or modified for the use of products that are controlled by this list.</td></tr>
+<tr><td>ML 22</td><td>(Contains no war materiel; listed in order that numbering corresponds to ML)</td></tr>
 </table>
 
 Annex 2[^t-2]
 
-(Art. 6 and 7)
+(Art. 6 para. 2, 7, 9*e* para. 2)
 
-## List of countries where no specific licences are required in terms of Articles 6 and 7 WMO
+## List of states for which no specific licences are required
 
-[^t-2]: Revised in accordance with No I of the O of 25 Aug. 1999, in force since 1 Oct. 1999 ([AS 1999 2454](https://fedlex.data.admin.ch/eli/oc/1999/376)).
+[^t-2]: Amended by No I of the O of 27 May 2026, in force since 1 July 2026 ([AS 2026 310](https://fedlex.data.admin.ch/eli/oc/2026/310)).
 
 Argentina
+
+Austria
 
 Australia
 
 Belgium
 
+Bulgaria
+
+Canada
+
+Croatia
+
+Cyprus
+
+Czechia
+
 Denmark
 
-Germany
+Estonia
 
 Finland
 
 France
 
+Germany
+
 Greece
 
-Great Britain
+Hungary
+
+Iceland
 
 Ireland
 
@@ -659,31 +675,37 @@ Italy
 
 Japan
 
-Canada
+Latvia
+
+Lithuania
 
 Luxembourg
 
-New Zealand
+Malta
 
 Netherlands
 
-Norway
+New Zealand
 
-Austria
+Norway
 
 Poland
 
 Portugal
 
-Sweden
+Romania
+
+Slovakia
+
+Slovenia
 
 Spain
 
-Czech Republic
+Sweden
 
-Hungary
+United Kingdom
 
-USA
+United States
 
 Annex 3[^t-3]
 
@@ -701,8 +723,8 @@ The Schengen Association Agreements comprise:
 - d. the Agreement of 28 April 2005[^annex3-lvlu1-4] between the Swiss Confederation and the Kingdom of Denmark on the implementation, application and development of those parts of the Schengen Acquis that are based on the provisions of Title IV of the Treaty establishing the European Community;
 - e. the Protocol of 28 February 2008[^annex3-lvlu1-5] between the Swiss Confederation, the European Union, the European Community and the Principality of Liechtenstein on the accession of the Principality of Liechtenstein to the Agreement between the Swiss Confederation, the European Union and the European Community on the association of the Swiss Confederation with the implementation, application and development of the Schengen Acquis.
 
-[^annex3-lvlu1-1]: [SR 0.362.31](https://fedlex.data.admin.ch/eli/cc/2008/113)
-[^annex3-lvlu1-2]: [SR 0.362.1](https://fedlex.data.admin.ch/eli/cc/2008/117)
-[^annex3-lvlu1-3]: [SR 0.362.32](https://fedlex.data.admin.ch/eli/cc/2008/116)
-[^annex3-lvlu1-4]: [SR 0.362.33](https://fedlex.data.admin.ch/eli/cc/2008/114)
-[^annex3-lvlu1-5]: [SR 0.362.311](https://fedlex.data.admin.ch/eli/cc/2011/205)
+[^annex3-lvlu1-1]: [SR 0.362.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1513)
+[^annex3-lvlu1-2]: [SR 0.362.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1508)
+[^annex3-lvlu1-3]: [SR 0.362.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1519)
+[^annex3-lvlu1-4]: [SR 0.362.33](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1520)
+[^annex3-lvlu1-5]: [SR 0.362.311](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1514)

@@ -4,11 +4,11 @@ title: Ordonnance du 25 février 1998 sur le matériel de guerre (OMG)
 short: OMG
 eli: "https://fedlex.data.admin.ch/eli/cc/1998/808_808_808"
 language: fr
-version: 2025-03-01
+version: 2026-07-01
 adopted: 1998-02-25
 in_force: 1998-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/808_808_808/20250301/fr/xml/fedlex-data-admin-ch-eli-cc-1998-808_808_808-20250301-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1998/808_808_808/20250301/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/808_808_808/20260701/fr/xml/fedlex-data-admin-ch-eli-cc-1998-808_808_808-20260701-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1998/808_808_808/20260701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1998/808_808_808/20250301/fr"
 
 (OMG)
 
-du 25 février 1998 (État le 1<sup>er</sup> mars 2025)
+du 25 février 1998 (État le 1<sup>er</sup> juillet 2026)
 
 Le Conseil fédéral suisse,
 
@@ -25,9 +25,9 @@ vu la loi du 13 décembre 1996 sur le matériel de guerre (LFMG)[^ingress-1], vu
 
 arrête:
 
-[^ingress-1]: [RS 514.51](https://fedlex.data.admin.ch/eli/cc/1998/794_794_794)
-[^ingress-2]: [RS 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
-[^ingress-3]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^ingress-1]: [RS 514.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7526)
+[^ingress-2]: [RS 510.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7242)
+[^ingress-3]: [RS 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
 [^ingress-4]: Nouvelle teneur selon le ch. I de l’O du 21 nov. 2001, en vigueur depuis le 1<sup>er</sup> mars 2002 ([RO 2002 312](https://fedlex.data.admin.ch/eli/oc/2002/68)).
 
 ## Section 1 Dispositions générales
@@ -199,7 +199,7 @@ Les personnes des catégories suivantes n’ont besoin d’aucune autorisation p
 <sup>2</sup> L’importation et la réexportation d’armes à feu et de leurs munitions par des personnes des catégories visées à l’al. 1 sont régies par la législation sur les armes.
 
 [^9-1]: Nouvelle teneur selon le ch. I de l’O du 27 août 2008, en vigueur depuis le 12 déc. 2008 ([RO 2008 5495](https://fedlex.data.admin.ch/eli/oc/2008/765)).
-[^9-2]: La désignation de l’unité administrative a été adaptée en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Il a été tenu compte de cette mod. dans tout le texte.
+[^9-2]: La désignation de l’unité administrative a été adaptée en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)), avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Il a été tenu compte de cette mod. dans tout le texte.
 
 #### Art. 9a
 
@@ -231,7 +231,7 @@ Les personnes des catégories suivantes n’ont besoin d’aucune autorisation p
 [^9c-1]: Introduit par le ch. I de l’O du 21 nov. 2001, en vigueur depuis le 1<sup>er</sup> mars 2002 ([RO 2002 312](https://fedlex.data.admin.ch/eli/oc/2002/68)).
 [^9c-2]: Nouvelle teneur selon le ch. I de l’O du 30 mars 2022, en vigueur depuis le 1<sup>er</sup> mai 2022 ([RO 2022 227](https://fedlex.data.admin.ch/eli/oc/2022/227)).
 [^9c-3]: Nouvelle teneur selon le ch. I de l’O du 30 mars 2022, en vigueur depuis le 1<sup>er</sup> mai 2022 ([RO 2022 227](https://fedlex.data.admin.ch/eli/oc/2022/227)).
-[^9c-4]: [RS 514.54](https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535)
+[^9c-4]: [RS 514.54](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7530)
 
 #### Art. 9d
 
@@ -246,7 +246,7 @@ Les personnes des catégories suivantes n’ont besoin d’aucune autorisation p
 <sup>4</sup> Pour le matériel qui est également compris dans le champ d’application de la loi du 20 juin 1997 sur les armes[^9d-2], les dispositions de la législation sur les armes sont réservées.
 
 [^9d-1]: Introduit par le ch. I de l’O du 21 nov. 2001, en vigueur depuis le 1<sup>er</sup> mars 2002 ([RO 2002 312](https://fedlex.data.admin.ch/eli/oc/2002/68)).
-[^9d-2]: [RS 514.54](https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535)
+[^9d-2]: [RS 514.54](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7530)
 
 #### Art. 9e
 
@@ -263,11 +263,11 @@ Les personnes des catégories suivantes n’ont besoin d’aucune autorisation p
 <sup>5</sup> Le cas échéant, la LGI ou la LGT est refusée pour une année; dans des cas fondés, cette durée peut être ramenée à six mois.
 
 [^9e-1]: Introduit par le ch. I de l’O du 21 nov. 2001, en vigueur depuis le 1<sup>er</sup> mars 2002 ([RO 2002 312](https://fedlex.data.admin.ch/eli/oc/2002/68)).
-[^9e-2]: [RS 514.54](https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535)
+[^9e-2]: [RS 514.54](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7530)
 [^9e-3]: Nouvelle teneur selon le ch. I de l’O du 27 août 2008, en vigueur depuis le 12 déc. 2008 ([RO 2008 5495](https://fedlex.data.admin.ch/eli/oc/2008/765)).
 [^9e-4]: Nouvelle teneur selon le ch. I de l’O du 27 août 2008, en vigueur depuis le 12 déc. 2008 ([RO 2008 5495](https://fedlex.data.admin.ch/eli/oc/2008/765)).
 [^9e-5]: Nouvelle teneur selon l’annexe 4 ch. 10 de l’O du 1<sup>er</sup> nov. 2006 sur les douanes, en vigueur depuis le 1<sup>er</sup> mai 2007 ([RO 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
-[^9e-6]: [RS 946.202](https://fedlex.data.admin.ch/eli/cc/1997/1697_1697_1697)
+[^9e-6]: [RS 946.202](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11363)
 
 ## Section 4 Certificats d’importation
 
@@ -333,10 +333,10 @@ Le Secrétariat d’État à l’économie (SECO) établit, sur demande écrite 
 <sup>3</sup> La compétence en matière de transit d’aéronefs militaires et d’autres aéronefs d’État étrangers est régie par l’ordonnance du 23 mars 2005 sur la sauvegarde de la souveraineté sur l’espace aérien[^13-5].[^13-6]
 
 [^13-1]: Nouvelle teneur selon l’art. 17 ch. 2 de l’O du 13 nov. 2024 concernant la coopération militaire internationale, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 685](https://fedlex.data.admin.ch/eli/oc/2024/685)).
-[^13-2]: [RS 510.81](https://fedlex.data.admin.ch/eli/cc/2024/685)
+[^13-2]: [RS 510.81](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7375)
 [^13-3]: Nouvelle teneur selon l’art. 17 ch. 2 de l’O du 13 nov. 2024 concernant la coopération militaire internationale, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 685](https://fedlex.data.admin.ch/eli/oc/2024/685)).
 [^13-4]: Introduit par l’art. 50 ch. 3 de l’O du 21 sept. 1998 sur les armes, dans la teneur du 16 mars 2001 ([RO 2001 1009](https://fedlex.data.admin.ch/eli/oc/2001/146)). Abrogé par le ch. I de l’O du 21 nov. 2001 ([RO 2002 312](https://fedlex.data.admin.ch/eli/oc/2002/68)).
-[^13-5]: [RS 748.111.1](https://fedlex.data.admin.ch/eli/cc/2005/284)
+[^13-5]: [RS 748.111.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9036)
 [^13-6]: Nouvelle teneur selon le ch. I de l’O du 19 août 2015, en vigueur depuis le 1<sup>er</sup> oct. 2015 ([RO 2015 2943](https://fedlex.data.admin.ch/eli/oc/2015/555)).
 
 #### Art. 14
@@ -506,7 +506,7 @@ Aucun émolument n’est perçu pour:
 [^22-8]: Abrogée par le ch. I de l’O du 27 août 2008, avec effet au 12 déc. 2008 ([RO 2008 5495](https://fedlex.data.admin.ch/eli/oc/2008/765)).
 [^22-9]: Introduit par le ch. I de l’O du 21 nov. 2001, en vigueur depuis le 1<sup>er</sup> mars 2002 ([RO 2002 312](https://fedlex.data.admin.ch/eli/oc/2002/68)).
 [^22-10]: Introduit par le ch. I de l’O du 16 juin 2006, en vigueur depuis le 1<sup>er</sup> août 2006 ([RO 2006 2671](https://fedlex.data.admin.ch/eli/oc/2006/407)).
-[^22-11]: [RS 172.041.1](https://fedlex.data.admin.ch/eli/cc/2004/677)
+[^22-11]: [RS 172.041.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5068)
 [^22-12]: Introduit par le ch. I de l’O du 16 juin 2006, en vigueur depuis le 1<sup>er</sup> août 2006 ([RO 2006 2671](https://fedlex.data.admin.ch/eli/oc/2006/407)).
 
 ## Section 8 Dispositions finales
@@ -551,7 +551,7 @@ Les demandes qui sont pendantes à l’entrée en vigueur des modifications du 1
 
 **…**
 
-<sup>1</sup> et <sup>2</sup> …[^25-1]
+<sup>1 et <sup>2</sup></sup> …[^25-1]
 
 <sup>3</sup> …[^25-2]
 
@@ -607,7 +607,7 @@ Les biens répertoriés dans cette annexe de l’ordonnance sur le matériel de 
 <tr><td colspan="2">KM 3</td><td colspan="2">Munitions et leurs composants spécialement conçus, destinés aux armes visées aux rubriques KM 1, KM 2 ou KM 12 Notes: 1. Les composants spécialement conçus comprennent: a. les pièces en métal ou en plastique comme les enclumes d’amorces, les godets pour balles, les maillons, les ceintures et les pièces métalliques pour munitions; b. les dispositifs de sécurité et d’armement, les amorces, les capteurs et les détonateurs; c. les dispositifs d’alimentation à puissance de sortie opérationnelle élevée fonctionnant une seule fois; d. les étuis combustibles pour charges; e. les sous-munitions, y compris les petites bombes, les petites mines et les projectiles à guidage terminal. 2. La rubrique KM 3 ne vise pas les munitions serties sans projectile (munition d’exercice, munition de signalisation) et les munitions inertes d’instruction à chambre de poudre percée.</td></tr>
 <tr><td colspan="2">KM 4</td><td colspan="2">Bombes, torpilles, roquettes, missiles, et équipement et accessoires connexes, comme il suit, spécialement conçus pour l’engagement au combat, et leurs composants spécialement conçus: bombes, torpilles, grenades, pots fumigènes, roquettes, mines, missiles, charges sous-marines, charges et dispositifs et kits de démolition, produits pyrotechniques militaires, cartouches et simulateurs, c’est-à-dire le matériel simulant les caractéristiques de l’un des biens visés à la rubrique KM 4. Note: La rubrique KM 4 comprend: 1. les grenades fumigènes, bombes incendiaires et dispositifs explosifs; 2. les tuyères de vecteurs de missiles et les pointes d’ogives de corps de rentrée.</td></tr>
 <tr><td colspan="2">KM 5</td><td colspan="2">Matériel de conduite de tir, spécialement conçu pour l’engagement au combat, et ses composants et accessoires spécialement conçus, comme suit:</td></tr>
-<tr><td colspan="2">[tab]</td><td colspan="2">a. viseurs d’armement, calculateurs de bombardement, appareils de pointage et systèmes destinés au contrôle des armements; b. système d’acquisition des buts, de coordination des buts, de mesure de l’éloignement des buts ou de poursuite des buts; dispositifs de connexion de localisations ou de données (data fusion) et équipements d’intégration de senseurs (sensor integration equipment). Note: sont notamment visés les viseurs d’armement, calculateurs de bombardement, appareils de pointage et systèmes destinés au contrôle des armements.</td></tr>
+<tr><td colspan="2"></td><td colspan="2">a. viseurs d’armement, calculateurs de bombardement, appareils de pointage et systèmes destinés au contrôle des armements; b. système d’acquisition des buts, de coordination des buts, de mesure de l’éloignement des buts ou de poursuite des buts; dispositifs de connexion de localisations ou de données (data fusion) et équipements d’intégration de senseurs (sensor integration equipment). Note: sont notamment visés les viseurs d’armement, calculateurs de bombardement, appareils de pointage et systèmes destinés au contrôle des armements.</td></tr>
 <tr><td colspan="2">KM 6</td><td colspan="2">Véhicules blindés et autres véhicules automobiles ainsi que leurs composants, spécialement conçus ou modifiés pour l’engagement au combat Note technique: Au sens de la rubrique KM 6, le terme ‹véhicule automobile› comprend les remorques. Notes: 1. La rubrique KM 6 comprend: a. les véhicules blindés armés ou non, spécialement conçus ou modifiés pour l’engagement au combat (sont également inclus les chars de dépannage et de sauvetage); b. les autres véhicules de toute nature, spécialement conçus ou modifiés pour l’engagement d’armes (tels que les chars de combat, armés ou non, équipés de supports pour armes, d’équipements pour la pose de mines ou le lancement de munitions, visés au chiffre KM 4; c. les véhicules chenillés, spécialement conçus ou modifiés pour l’engagement au combat. 2. La conception ou la modification d’un véhicule automobile pour l’engagement au combat peut impliquer une modification structurelle, électrique ou mécanique touchant au moins un composant militaire spécialement conçu. Ces composants sont entre autres les suivants: a. les enveloppes de pneumatiques à l’épreuve des balles ou pouvant rouler à plat; b. les systèmes de variation de pression de gonflage de pneumatiques, activés de l’intérieur du véhicule pendant son déplacement; c. la protection blindée des parties vitales, par exemple les réservoirs à carburant ou les cabines; d. les armatures spéciales pour les supports d’armes. 3. La rubrique KM 6 ne vise pas les véhicules civils ou les fourgons blindés servant au transport de valeurs.</td></tr>
 <tr><td colspan="2">KM 7</td><td colspan="2">Gaz lacrymogènes et autres substances irritantes destinés à la lutte anti-émeute: 1. cyanure de bromo-benzyle (CA) (CAS 5798–79–8); 2. ochlorobenzylidènemalononitrile (ochlorobenzal-melononitrile) (CS) (CAS 2698–41–1); 3. chlorure de phenylacyle (chloroacétophénone) (CN) (CAS 532–27–4); 4. dibenzo-(b,f)-1,4-oxazéphine (CR) (CAS 257–07–8). Notes: 1. Ne sont pas compris: a. bromoacétate d’éthyle; b. bromure de benzyle; c. Benzylbromid; d. iodure de benzyle; e. bromacétone; f. bromure de cyanogène; g. bromométhyléthylcétone; h. chloracétone; i. iodacétate d’éthyle; j. iodacétone; 2. Ne sont pas compris: les gaz lacrymogènes et autres substances irritantes destinés à l’autodéfense des particuliers.</td></tr>
 <tr><td colspan="2">KM 8</td><td>Explosifs militaires et combustibles militaires, y compris les agents propulsifs: a. Explosifs et propergols répondant aux paramètres de performance suivants: 1. explosifs ayant une vitesse de détonation supérieure à 8700 m/s, ou une pression de détonation supérieure à 34 GPa (340 kilobars); 2. explosifs organiques ayant des pressions de détonation égales ou supérieures à 25 GPa (250 kilobars) et demeurant stables sur des périodes de 5 minutes ou plus à des températures égales ou supérieures à 250° C (523 K); 3. propergols solides de classe UN 1.1 ayant une impulsion spécifique théorique (dans des conditions standard) de plus de 250 s pour les compositions non métallisées ou de plus de 270 s pour les compositions aluminées; 4. propergols solides de classe UN 1.3, ayant une impulsion spécifique théorique de plus de 230 s pour les compositions non halogénées, de plus de 250 s pour les compositions non métallisées et de plus de 266 s pour les compositions métallisées; 5. agent propulsif d’artillerie ayant une constante de force supérieure à 1200 kJ/kg; 6. explosifs, propergols ou matières pyrotechniques pouvant maintenir un taux de combustion en régime continu de plus de 38 mm/s dans des conditions standard de pression 6,89 MPa (68,9 bars) et de température 21° C (294 K), ou 7. propergols double base à charge énergétique et élastomères (Nitramite E.R.) avec allongement à contrainte maximale supérieur à 5 pour cent à –40° C (233 K); b. Produits pyrotechniques militaires; c. Autres substances, comme il suit: 1. combustibles pour aéronefs spécialement formulés à des fins militaires; 2. matériel militaire comprenant des épaississants pour combustibles hydrocarbonés, spécialement formulés pour les lance-flammes ou les munitions incendiaires, notamment les stéarates ou palmates métalliques (également appelés Octol) (CAS 637–12–7) et gélifiants M1, M2, M3; 3. oxydants liquides, constitués de ou contenant de l’acide nitrique fumant inhibé (IRFNA) ou du difluorure d’oxygène. Note: Les combustibles d’aéronefs visés à la rubrique KM 8c1 sont les produits finis et non leurs composants.</td></tr>
@@ -629,11 +629,11 @@ Les biens répertoriés dans cette annexe de l’ordonnance sur le matériel de 
 
 Annexe 2[^t-2]
 
-(art. 6 et 7)
+(art. 6, al. 2, 7 et 9*e*, al. 2)
 
-## Liste des pays pour lesquels, aux termes des art. 6 et 7 de l’OMG, aucune autorisation spécifique n’est exigée
+## Liste des États pour lesquels aucune autorisation spécifique n’est exigée
 
-[^t-2]: Mise à jour par le ch. I de l’O du 25 août 1999, en vigueur depuis le 1<sup>er</sup> oct. 1999 ([RO 1999 2454](https://fedlex.data.admin.ch/eli/oc/1999/376)).
+[^t-2]: Nouvelle teneur selon le ch. I de l’O du 27 mai 2026, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2026 310](https://fedlex.data.admin.ch/eli/oc/2026/310)).
 
 Allemagne
 
@@ -645,11 +645,19 @@ Autriche
 
 Belgique
 
+Bulgarie
+
 Canada
+
+Chypre
+
+Croatie
 
 Danemark
 
 Espagne
+
+Estonie
 
 États-Unis
 
@@ -657,23 +665,29 @@ Finlande
 
 France
 
-Grande-Bretagne
-
 Grèce
 
 Hongrie
 
 Irlande
 
+Islande
+
 Italie
 
 Japon
 
+Lettonie
+
+Lituanie
+
 Luxembourg
 
-Nouvelle-Zélande
+Malte
 
 Norvège
+
+Nouvelle-Zélande
 
 Pays-Bas
 
@@ -681,9 +695,17 @@ Pologne
 
 Portugal
 
+Roumanie
+
+Royaume-Uni
+
+Slovaquie
+
+Slovénie
+
 Suède
 
-République tchèque
+Tchéquie
 
 Annexe 3[^t-3]
 
@@ -701,8 +723,8 @@ Les accords d’association à Schengen comprennent les accords suivants:
 - d. Accord du 28 avril 2005 entre la Confédération suisse et le Royaume de Danemark sur la mise en œuvre, l’application et le développement des parties de l’acquis de Schengen basées sur les dispositions du Titre IV du Traité instituant la Communauté européenne[^annex3-lvlu1-4];
 - e. Protocole du 28 février 2008 entre la Confédération suisse, l’Union européenne, la Communauté européenne et la Principauté de Liechtenstein sur l’adhésion de la Principauté de Liechtenstein à l’accord entre la Confédération suisse, l’Union européenne et la Communauté européenne sur l’association de la Confédération suisse à la mise en œuvre, à l’application et au développement de l’acquis de Schengen[^annex3-lvlu1-5].
 
-[^annex3-lvlu1-1]: [RS 0.362.31](https://fedlex.data.admin.ch/eli/cc/2008/113)
-[^annex3-lvlu1-2]: [RS 0.362.1](https://fedlex.data.admin.ch/eli/cc/2008/117)
-[^annex3-lvlu1-3]: [RS 0.362.32](https://fedlex.data.admin.ch/eli/cc/2008/116)
-[^annex3-lvlu1-4]: [RS 0.362.33](https://fedlex.data.admin.ch/eli/cc/2008/114)
-[^annex3-lvlu1-5]: [RS 0.362.311](https://fedlex.data.admin.ch/eli/cc/2011/205)
+[^annex3-lvlu1-1]: [RS 0.362.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1513)
+[^annex3-lvlu1-2]: [RS 0.362.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1508)
+[^annex3-lvlu1-3]: [RS 0.362.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1519)
+[^annex3-lvlu1-4]: [RS 0.362.33](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1520)
+[^annex3-lvlu1-5]: [RS 0.362.311](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1514)

@@ -4,11 +4,11 @@ title: "Verordnung vom 25. Februar 1998 über das Kriegsmaterial (Kriegsmaterial
 short: KMV
 eli: "https://fedlex.data.admin.ch/eli/cc/1998/808_808_808"
 language: de
-version: 2025-03-01
+version: 2026-07-01
 adopted: 1998-02-25
 in_force: 1998-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/808_808_808/20250301/de/xml/fedlex-data-admin-ch-eli-cc-1998-808_808_808-20250301-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1998/808_808_808/20250301/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/808_808_808/20260701/de/xml/fedlex-data-admin-ch-eli-cc-1998-808_808_808-20260701-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1998/808_808_808/20260701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1998/808_808_808/20250301/de"
 
 (Kriegsmaterialverordnung, KMV)
 
-vom 25. Februar 1998 (Stand am 1. März 2025)
+vom 25. Februar 1998 (Stand am 1. Juli 2026)
 
 Der Schweizerische Bundesrat,
 
@@ -25,9 +25,9 @@ gestützt auf das Kriegsmaterialgesetz vom 13. Dezember 1996[^ingress-1] (KMG), 
 
 verordnet:
 
-[^ingress-1]: [SR 514.51](https://fedlex.data.admin.ch/eli/cc/1998/794_794_794)
-[^ingress-2]: [SR 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
-[^ingress-3]: [SR 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^ingress-1]: [SR 514.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7526)
+[^ingress-2]: [SR 510.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7242)
+[^ingress-3]: [SR 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
 [^ingress-4]: Fassung gemäss Ziff. I der V vom 21. Nov. 2001, in Kraft seit 1. März 2002 ([AS 2002 312](https://fedlex.data.admin.ch/eli/oc/2002/68)).
 
 ## 1. Abschnitt: Allgemeine Bestimmungen
@@ -199,7 +199,7 @@ Personen folgender Kategorien benötigen für die vorübergehende Ausfuhr sowie 
 <sup>2</sup> Die Ein- und die Wiederausfuhr von Feuerwaffen mit dazugehöriger Munition durch Personen der in Absatz 1 genannten Kategorien richten sich nach der Waffengesetzgebung.
 
 [^9-1]: Fassung gemäss Ziff. I der V vom 27. Aug. 2008, in Kraft seit 12. Dez. 2008 ([AS 2008 5495](https://fedlex.data.admin.ch/eli/oc/2008/765)).
-[^9-2]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) auf den 1. Jan. 2022 angepasst ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Diese Anpassung wurde im ganzen Text vorgenommen.
+[^9-2]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)) auf den 1. Jan. 2022 angepasst ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Diese Anpassung wurde im ganzen Text vorgenommen.
 
 #### Art. 9a
 
@@ -231,7 +231,7 @@ Personen folgender Kategorien benötigen für die vorübergehende Ausfuhr sowie 
 [^9c-1]: Eingefügt durch Ziff. I der V vom 21. Nov. 2001, in Kraft seit 1. März 2002 ([AS 2002 312](https://fedlex.data.admin.ch/eli/oc/2002/68)).
 [^9c-2]: Fassung gemäss Ziff. I der V vom 30. März 2022, in Kraft seit 1. Mai 2022 ([AS 2022 227](https://fedlex.data.admin.ch/eli/oc/2022/227)).
 [^9c-3]: Fassung gemäss Ziff. I der V vom 30. März 2022, in Kraft seit 1. Mai 2022 ([AS 2022 227](https://fedlex.data.admin.ch/eli/oc/2022/227)).
-[^9c-4]: [SR 514.54](https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535)
+[^9c-4]: [SR 514.54](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7530)
 
 #### Art. 9d
 
@@ -246,7 +246,7 @@ Personen folgender Kategorien benötigen für die vorübergehende Ausfuhr sowie 
 <sup>4</sup> Für Kriegsmaterial, das auch in den Anwendungsbereich des Waffengesetzes vom 20. Juni 1997[^9d-2] fällt, bleiben die Bestimmungen der Waffengesetzgebung vorbehalten.
 
 [^9d-1]: Eingefügt durch Ziff. I der V vom 21. Nov. 2001, in Kraft seit 1. März 2002 ([AS 2002 312](https://fedlex.data.admin.ch/eli/oc/2002/68)).
-[^9d-2]: [SR 514.54](https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535)
+[^9d-2]: [SR 514.54](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7530)
 
 #### Art. 9e
 
@@ -263,11 +263,11 @@ Personen folgender Kategorien benötigen für die vorübergehende Ausfuhr sowie 
 <sup>5</sup> Die GEB oder die GDB wird gegebenenfalls für die Dauer eines Jahres verweigert; in begründeten Fällen kann diese Dauer auf sechs Monate verkürzt werden.
 
 [^9e-1]: Eingefügt durch Ziff. I der V vom 21. Nov. 2001, in Kraft seit 1. März 2002 ([AS 2002 312](https://fedlex.data.admin.ch/eli/oc/2002/68)).
-[^9e-2]: [SR 514.54](https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535)
+[^9e-2]: [SR 514.54](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7530)
 [^9e-3]: Fassung gemäss Ziff. I der V vom 27. Aug. 2008, in Kraft seit 12. Dez. 2008 ([AS 2008 5495](https://fedlex.data.admin.ch/eli/oc/2008/765)).
 [^9e-4]: Fassung gemäss Ziff. I der V vom 27. Aug. 2008, in Kraft seit 12. Dez. 2008 ([AS 2008 5495](https://fedlex.data.admin.ch/eli/oc/2008/765)).
 [^9e-5]: Fassung gemäss Anhang 4 Ziff. 10 der Zollverordnung vom 1. Nov. 2006, in Kraft seit 1. Mai 2007 ([AS 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
-[^9e-6]: [SR 946.202](https://fedlex.data.admin.ch/eli/cc/1997/1697_1697_1697)
+[^9e-6]: [SR 946.202](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11363)
 
 ## 4. Abschnitt: Einfuhrzertifikate
 
@@ -334,10 +334,10 @@ Das Staatssekretariat für Wirtschaft (SECO) stellt für die Einfuhr von Kriegsm
 <sup>3</sup> Die Zuständigkeit für Durchfuhren mit ausländischen Militär- und anderen Staatsluftfahrzeugen richtet sich nach der Verordnung vom 23. März 2005[^13-5] über die Wahrung der Lufthoheit.[^13-6]
 
 [^13-1]: Fassung gemäss Art. 17 Ziff. 2 der V vom 13. Nov. 2024 über die internationale militärische Kooperation, in Kraft seit 1. Jan. 2025 ([AS 2024 685](https://fedlex.data.admin.ch/eli/oc/2024/685)).
-[^13-2]: [SR 510.81](https://fedlex.data.admin.ch/eli/cc/2024/685)
+[^13-2]: [SR 510.81](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7375)
 [^13-3]: Fassung gemäss Art. 17 Ziff. 2 der V vom 13. Nov. 2024 über die internationale militärische Kooperation, in Kraft seit 1. Jan. 2025 ([AS 2024 685](https://fedlex.data.admin.ch/eli/oc/2024/685)).
 [^13-4]: Eingefügt durch Art. 50 Ziff. 3 der Waffenverordnung vom 21. Sept. 1998, in der Fassung vom 16. März 2001 ([AS 2001 1009](https://fedlex.data.admin.ch/eli/oc/2001/146)). Aufgehoben durch Ziff. I der V vom 21. Nov. 2001, mit Wirkung seit 1. März 2002 ([AS 2002 312](https://fedlex.data.admin.ch/eli/oc/2002/68)).
-[^13-5]: [SR 748.111.1](https://fedlex.data.admin.ch/eli/cc/2005/284)
+[^13-5]: [SR 748.111.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9036)
 [^13-6]: Fassung gemäss Ziff. I der V vom 19. Aug. 2015, in Kraft seit 1. Okt. 2015 ([AS 2015 2943](https://fedlex.data.admin.ch/eli/oc/2015/555)).
 
 #### Art. 14
@@ -507,7 +507,7 @@ Keine Gebühren werden erhoben für:
 [^22-7]: Aufgehoben durch Ziff. I der V vom 27. Aug. 2008, mit Wirkung seit 12. Dez. 2008 ([AS 2008 5495](https://fedlex.data.admin.ch/eli/oc/2008/765)).
 [^22-8]: Eingefügt durch Ziff. I der V vom 21. Nov. 2001, in Kraft seit 1. März 2002 ([AS 2002 312](https://fedlex.data.admin.ch/eli/oc/2002/68)).
 [^22-9]: Eingefügt durch Ziff. I der V vom 16. Juni 2006, in Kraft seit 1. Aug. 2006 ([AS 2006 2671](https://fedlex.data.admin.ch/eli/oc/2006/407)).
-[^22-10]: [SR 172.041.1](https://fedlex.data.admin.ch/eli/cc/2004/677)
+[^22-10]: [SR 172.041.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5068)
 [^22-11]: Eingefügt durch Ziff. I der V vom 16. Juni 2006, in Kraft seit 1. Aug. 2006 ([AS 2006 2671](https://fedlex.data.admin.ch/eli/oc/2006/407)).
 
 ## 8. Abschnitt: Schlussbestimmungen
@@ -552,7 +552,7 @@ Gesuche, die zum Zeitpunkt des Inkrafttretens der Änderungen vom 19. September 
 
 **…**
 
-<sup>1</sup> und <sup>2</sup> …[^25-1]
+<sup>1 und <sup>2</sup></sup> …[^25-1]
 
 <sup>3</sup> …[^25-2]
 
@@ -627,11 +627,11 @@ Anmerkung: Die in dieser Liste als Anhang zur Kriegsmaterialverordnung aufgefüh
 
 Anhang 2[^t-2]
 
-(Art. 6 und 7)
+(Art. 6 Abs. 2, 7 und 9*e* Abs. 2)
 
-## Liste der Länder, für die nach den Artikeln 6 und 7 KMV keine Einzelbewilligungen erforderlich sind
+## Liste der Staaten, für die keine Einzelbewilligungen erforderlich sind
 
-[^t-2]: Bereinigt gemäss Ziff. I der V vom 25. Aug. 1999, in Kraft seit 1. Okt. 1999 ([AS 1999 2454](https://fedlex.data.admin.ch/eli/oc/1999/376)).
+[^t-2]: Fassung gemäss Ziff. I der V vom 27. Mai 2026, in Kraft seit 1. Juli 2026 ([AS 2026 310](https://fedlex.data.admin.ch/eli/oc/2026/310)).
 
 Argentinien
 
@@ -639,9 +639,13 @@ Australien
 
 Belgien
 
+Bulgarien
+
 Dänemark
 
 Deutschland
+
+Estland
 
 Finnland
 
@@ -649,9 +653,9 @@ Frankreich
 
 Griechenland
 
-Grossbritannien
-
 Irland
+
+Island
 
 Italien
 
@@ -659,7 +663,15 @@ Japan
 
 Kanada
 
+Kroatien
+
+Lettland
+
+Litauen
+
 Luxemburg
+
+Malta
 
 Neuseeland
 
@@ -673,15 +685,25 @@ Polen
 
 Portugal
 
+Rumänien
+
 Schweden
+
+Slowakei
+
+Slowenien
 
 Spanien
 
-Tschechische Republik
+Tschechien
 
 Ungarn
 
-USA
+Vereinigte Staaten
+
+Vereinigtes Königreich
+
+Zypern
 
 Anhang 3[^t-3]
 
@@ -699,8 +721,8 @@ Die Schengen-Assoziierungsabkommen umfassen:
 - d. Abkommen vom 28. April 2005[^annex3-lvlu1-4] zwischen der Schweizerischen Eidgenossenschaft und dem Königreich Dänemark über die Umsetzung, Anwendung und Entwicklung derjenigen Teile des Schengen-Besitzstands, die auf Bestimmungen des Titels IV des Vertrags zur Gründung der Europäischen Gemeinschaft basieren;
 - e. Protokoll vom 28. Februar 2008[^annex3-lvlu1-5] zwischen der Schweizerischen Eidgenossenschaft, der Europäischen Union, der Europäischen Gemeinschaft und dem Fürstentum Liechtenstein über den Beitritt des Fürstentums Liechtenstein zum Abkommen zwischen der Schweizerischen Eidgenossenschaft, der Europäischen Union und der Europäischen Gemeinschaft über die Assoziierung der Schweizerischen Eidgenossenschaft bei der Umsetzung, Anwendung und Entwicklung des Schengen-Besitzstands.
 
-[^annex3-lvlu1-1]: [SR 0.362.31](https://fedlex.data.admin.ch/eli/cc/2008/113)
-[^annex3-lvlu1-2]: [SR 0.362.1](https://fedlex.data.admin.ch/eli/cc/2008/117)
-[^annex3-lvlu1-3]: [SR 0.362.32](https://fedlex.data.admin.ch/eli/cc/2008/116)
-[^annex3-lvlu1-4]: [SR 0.362.33](https://fedlex.data.admin.ch/eli/cc/2008/114)
-[^annex3-lvlu1-5]: [SR 0.362.311](https://fedlex.data.admin.ch/eli/cc/2011/205)
+[^annex3-lvlu1-1]: [SR 0.362.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1513)
+[^annex3-lvlu1-2]: [SR 0.362.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1508)
+[^annex3-lvlu1-3]: [SR 0.362.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1519)
+[^annex3-lvlu1-4]: [SR 0.362.33](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1520)
+[^annex3-lvlu1-5]: [SR 0.362.311](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1514)
