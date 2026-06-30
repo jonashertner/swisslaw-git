@@ -4,13 +4,12 @@ number: "17.3"
 title: Loi sur la vidéosurveillance
 short: LVid
 language: fr
-version: 2024-01-01
-valid_until: 2026-06-30
-version_adopted: 2023-10-12
+version: 2026-07-01
+version_adopted: 2026-03-27
 adopted: 2010-12-07
 in_force: 2012-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/17.3"
-pdf: "https://bdlf.fr.ch/api/fr/versions/7937/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/8599/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +20,7 @@ Vidéosurveillance -L
 
 (LVid)
 
-du 07.12.2010 (version entrée en vigueur le 01.01.2024)
+du 07.12.2010 (version entrée en vigueur le 01.07.2026)
 
 Le Grand Conseil du canton de Fribourg
 
@@ -64,6 +63,8 @@ Décrète:
 **Principes**
 
 <sup>1</sup> Des systèmes de vidéosurveillance peuvent être installés et exploités dans les lieux publics afin de prévenir les atteintes aux personnes et aux biens et de contribuer à la poursuite et à la répression des infractions.
+
+<sup>1a</sup> Des systèmes de vidéosurveillance sans enregistrement peuvent être installés et exploités dans les lieux publics afin d'atteindre les mêmes buts que ceux visés à l'alinéa 1. Ces mêmes systèmes peuvent également être installés à des fins de gestion des infrastructures publiques par les organes publics, lorsqu'il n'y a pas de risques importants ou disproportionnés pour la sphère privée des personnes concernées.
 
 <sup>2</sup> Les systèmes de vidéosurveillance sans enregistrement doivent, avant leur mise en service, être annoncés au préfet ou à la préfète ainsi qu'au ou à la préposé-e à la transparence et à la protection des données (ci-après: le ou la préposé-e).
 

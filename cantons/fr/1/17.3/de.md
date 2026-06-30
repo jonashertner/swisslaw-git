@@ -4,13 +4,12 @@ number: "17.3"
 title: Gesetz über die Videoüberwachung
 short: VidG
 language: de
-version: 2024-01-01
-valid_until: 2026-06-30
-version_adopted: 2023-10-12
+version: 2026-07-01
+version_adopted: 2026-03-27
 adopted: 2010-12-07
 in_force: 2012-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/17.3"
-pdf: "https://bdlf.fr.ch/api/de/versions/7937/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/8599/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ Videoüberwachung – G
 
 (VidG)
 
-vom 07.12.2010 (Fassung in Kraft getreten am 01.01.2024)
+vom 07.12.2010 (Fassung in Kraft getreten am 01.07.2026)
 
 Der Grosse Rat des Kantons Freiburg
 
@@ -64,6 +63,8 @@ beschliesst:
 **Grundsätze**
 
 <sup>1</sup> Videoüberwachungsanlagen können in der Öffentlichkeit auf öffentlichem Grund eingerichtet oder betrieben werden, um Übergriffen auf Personen und Sachen vorzubeugen und zur Verfolgung und zur Ahndung solcher Übergriffe beizutragen.
+
+<sup>1a</sup> Videoüberwachungsanlagen ohne Datenaufzeichnung können in der Öffentlichkeit auf öffentlichem Grund für dieselben Zwecke wie jene nach Absatz 1 eingerichtet oder betrieben werden. Solche Anlagen können auch für die Verwaltung der öffentlichen Infrastruktur durch öffentliche Organe eingerichtet werden, wenn keine erheblichen und unverhältnismässigen Risiken für die Privatsphäre der betroffenen Personen bestehen.
 
 <sup>2</sup> Videoüberwachungsanlagen ohne Datenaufzeichnung müssen vor der Inbetriebnahme der Oberamtsperson und der oder dem Öffentlichkeits- und Datenschutzbeauftragten (der oder dem Beauftragten) gemeldet werden.
 
