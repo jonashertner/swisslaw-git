@@ -4,13 +4,12 @@ number: "425.150"
 title: "Ordinaziun davart la scola media d'informatica"
 short: OSMI
 language: rm
-version: 2024-08-01
-valid_until: 2026-06-30
-version_adopted: 2024-04-29
+version: 2026-07-01
+version_adopted: 2026-06-23
 adopted: 2024-04-29
 in_force: 2024-08-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/425.150"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3431/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3857/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3431/pdf_file"
 
 (OSMI)
 
-dals 29-04-2024 (versiun dals 01-08-2024)
+dals 29-04-2024 (versiun dals 01-07-2026)
 
 Sa basond sin l'art. 45 al. 1 da la Constituziun chantunala[^ingress-1]
 
@@ -61,11 +60,13 @@ relaschada da la Regenza ils 29 d'avrigl 2024
 
 <sup>1</sup> Ils roms da promoziun èn:
 
-- a) ils roms dal sectur da basa: emprima lingua naziunala (Deutsch, rumantsch / Deutsch, italiano); segunda lingua naziunala (tedesco, franzos, talian); terza lingua (englais); matematica;
+- a) ils roms dal sectur da basa: emprima lingua naziunala (Deutsch, rumantsch / Deutsch, italiano); segunda lingua naziunala (tedesco, franzos, talian); englais; matematica;
 - b) ils roms dal sectur d'accent tenor l'agiunta 1;
 - c) ils roms dal sectur cumplementar tenor l'agiunta 1;
-- d) cumpetenzas d'informatica: la media da las notas, arrundada sin in'entira u ina mesa nota, per ils moduls dal sectur d'instrucziun «cumpetenzas d'informatica» cun ina valitaziun dad 80 pertschient e las notas dals curs intermanaschials cun ina valitaziun da 20 pertschient;
-- e) sport.
+- d) cumpetenzas d'informatica: la media da las notas, arrundada sin in'entira u ina mesa nota, per ils moduls dal sectur d'instrucziun «cumpetenzas d'informatica» cun ina valitaziun dad 80 pertschient e las notas dals curs intermanaschials cun ina valitaziun da 20 pertschient; sch'i n'èn avant maun naginas notas dals curs intermanaschials durant in semester, correspunda la nota da promoziun a la media da las notas, arrundada sin in'entira u ina mesa nota, dals moduls dal sectur d'instrucziun «cumpetenzas d'informatica»;
+- e) sport sco er il rom matematica per informatica.
+
+<sup>2</sup> Las notas cuntanschidas en ils roms da promoziun vegnan resguardadas en quels semesters che tals vegnan instruids.
 
 #### Art. 5
 
@@ -82,9 +83,11 @@ relaschada da la Regenza ils 29 d'avrigl 2024
   - 2\. la differenza da las notas da promoziun insuffizientas tar la nota 4,0 na surpassa tut en tut betg la valur da 2,0; e
   - 3\. betg dapli che trais notas da promoziun èn sut 4,0.
 
-<sup>2</sup> Tgi che n'ademplescha betg questas premissas, vegn promovì provisoricamain. Suenter ina promoziun provisorica ston las cundiziuns da promoziun vegnir ademplidas en il proxim attestat. Uschiglio ston vegnir repetids ils ultims dus semesters.
+<sup>2</sup> Tgi che n'ademplescha betg questas premissas, vegn promovì ina giada provisoricamain. Tgi che n'ademplescha – suenter ina promoziun provisorica fin al cumenzament dals examens finals da la maturitad professiunala – in'ulteriura giada betg las cundiziuns da promoziun, sto repeter ils ultims dus semesters; tgi che n'ademplescha ina terza giada betg las cundiziuns da promoziun, vegn exclus da la scola media d'informatica.
 
-<sup>3</sup> Fin a la terminaziun da la scolaziun èsi pussaivel da repeter maximalmain ina giada in onn d'instrucziun.
+<sup>3</sup> …
+
+<sup>4</sup> L'ultim semester avant ils examens finals da la maturitad professiunala na datti nagina decisiun da promoziun.
 
 ## 3. Examens da maturitad professiunala
 
@@ -92,29 +95,35 @@ relaschada da la Regenza ils 29 d'avrigl 2024
 
 **Termin dals examens finals da la maturitad professiunala**
 
-<sup>1</sup> Ils examens finals da la maturitad professiunala en scrit ed a bucca han lieu avant las vacanzas da stad a la fin dal terz onn da scolaziun.
+<sup>1</sup> Ils examens finals da la maturitad professiunala en scrit ed a bucca han lieu avant las vacanzas da stad, per regla a la fin dal terz onn da scolaziun. L'examen final en scrit en il rom matematica vegn absolvì in onn avant.
 
-<sup>2</sup> Il termin dals examens finals vegn fixà da l'Uffizi per la furmaziun media-superiura, resguardond las prescripziuns da la Confederaziun.
+<sup>2</sup> Il termin dals examens finals a bucca da la maturitad professiunala fixescha l'Uffizi da scolas medias e furmaziun terziara, quai resguardond las prescripziuns da la Confederaziun.
 
 #### Art. 7
 
 **Admissiun**
 
-<sup>1</sup> Sch'i n'è betg avant maun ina permissiun excepziunala da l'Uffizi per la furmaziun media-superiura che concerna la frequentaziun da la scola, pretenda l'admissiun la frequentaziun d'ina scola media d'informatica en il chantun Grischun durant almain ils 2 ultims onns ed almain ina promoziun provisorica en l'ultim semester avant ils examens finals da la maturitad professiunala.
+<sup>1</sup> Sch'i n'è betg avant maun ina permissiun excepziunala da l'Uffizi per la furmaziun media-superiura che concerna la frequentaziun da la scola, dovri per l'admissiun la frequentaziun d'ina scola media d'informatica en il chantun Grischun durant almain ils 2 ultims onns ed almain ina promoziun provisorica il penultim semester avant ils examens finals da la maturitad professiunala.
+
+<sup>2</sup> Tgi che na dumogna betg l'examen da maturitad professiunala, dastga repeter ina giada l'examen da maturitad professiunala, independentamain dal fatg, sche l'instrucziun per la preparaziun vegn frequentada danovamain.
 
 #### Art. 8
 
 **Participaziun da las scolas autas spezialisadas**
 
-<sup>1</sup> Las scolas autas spezialisadas ston sa participar adequatamain a la realisaziun dals examens finals da la maturitad professiunala.
+<sup>1</sup> Las scolas autas spezialisadas ston vegnir integradas adequatamain en la preparaziun e realisaziun dals examens finals da la maturitad professiunala.
 
 #### Art. 9
 
 **Roms d'examen**
 
-<sup>1</sup> Examinads en scrit vegnan l'emprima lingua naziunala, la segunda lingua naziunala, la terza lingua (englais), matematica ed ils roms dal sectur d'accent tenor l'agiunta 1. La durada dals examens sa drizza tenor las disposiziuns dal dretg federal.
+<sup>1</sup> Examinads en scrit vegnan l'emprima lingua naziunala, la segunda lingua naziunala, englais, matematica ed ils roms dal sectur d'accent tenor l'agiunta 1. La durada dals examens sa drizza tenor las disposiziuns dal dretg federal.
 
-<sup>2</sup> Examinadas a bucca vegnan l'emprima lingua naziunala, la segunda lingua naziunala sco er la terza lingua (englais). Ils examens a bucca duran 15 minutas.
+<sup>2</sup> Examinads a bucca vegnan l'emprima lingua naziunala, la segunda lingua naziunala sco er englais. Ils examens a bucca duran 15 minutas.
+
+<sup>3</sup> La preparaziun e validaziun dals examens finals en scrit, ch'èn unifitgads per mintga direcziun, sco er la determinaziun dals meds auxiliars admess sa drizzan tenor las disposiziuns da l'Ordinaziun chantunala davart la maturitad professiunala[^9-1].
+
+[^9-1]: DG [430.400](https://www.gr-lex.gr.ch/data/430.400/rm)
 
 #### Art. 10
 
@@ -122,11 +131,13 @@ relaschada da la Regenza ils 29 d'avrigl 2024
 
 <sup>1</sup> Las notas da la maturitad professiunala vegnan dadas tenor las disposiziuns dal dretg federal.
 
-<sup>2</sup> La direcziun da la scola relascha in reglament che cuntegna las disposiziuns per lavurs interdisciplinaras en ils roms da tut ils secturs d'instrucziun e per la lavur da project interdisciplinara. En spezial reglamentescha la direcziun da la scola la durada da preschentaziuns a bucca sco er la valitaziun da talas.
+<sup>2</sup> La direcziun da la scola relascha in reglament davart il lavurar en moda interdisciplinara, che cuntegna las disposiziuns per lavurs interdisciplinaras en ils roms da tut ils secturs d'instrucziun e per la lavur da project interdisciplinara. En spezial regla quest reglament la durada da preschentaziuns a bucca, inclusiv discussiuns fundadas, sco er la valitaziun.
 
-<sup>3</sup> En englais sto vegnir absolvì in examen per in diplom da linguas estras ch'è renconuschì da l'uffizi federal cumpetent.
+<sup>3</sup> En englais sto vegnir absolvì in examen per in diplom da linguas estras. L'Uffizi da scolas medias e furmaziun terziara po relaschar prescripziuns en chaussa.
 
-<sup>4</sup> Diploms da linguas estras ch'èn renconuschids da l'uffizi federal èn ina part da la nota en ils roms correspundents. La direcziun da scola relascha in reglament respectiv per quest intent.
+<sup>4</sup> Diploms da linguas estras pon esser in element da la nota da maturitad professiunala en ils roms correspundents tenor las disposiziuns da l'Ordinaziun chantunala davart la maturitad professiunala[^10-1]. La direcziun da la scola regla ils detagls.
+
+[^10-1]: DG [430.400](https://www.gr-lex.gr.ch/data/430.400/rm)
 
 #### Art. 11
 
@@ -137,7 +148,7 @@ relaschada da la Regenza ils 29 d'avrigl 2024
 - a) la media che vegn arrundada sin in'entira u sin ina mesa nota da la summa da las notas per ils moduls dal sectur d'instrucziun «cumpetenzas d'informatica»; questa nota vegn valitada cun 80 pertschient;
 - b) la media che vegn arrundada sin in'entira u sin ina mesa nota da la summa da las notas per ils curs intermanaschials; questa nota vegn valitada cun 20 pertschient.
 
-<sup>2</sup> Il certificat da notas provisoric vegn emess tras la scola media d'informatica immediatamain suenter avair absolvì ils examens finals da la maturitad professiunala e cuntegna las notas da la maturitad professiunala, danor la nota definitiva per las lavurs interdisciplinaras, sco er la nota empirica per las cumpetenzas d'informatica. Ils diploms da lingua externs acquistads vegnan menziunads.
+<sup>2</sup> Il certificat da notas provisoric vegn emess tras la scola media d'informatica immediatamain suenter avair absolvì ils examens finals da la maturitad professiunala e cuntegna las notas da la maturitad professiunala sco er la nota empirica per las cumpetenzas d'informatica. Ils diploms da linguas estras externs acquistads vegnan menziunads.
 
 ## 4. Furmaziun pratica professiunala
 
@@ -155,13 +166,13 @@ relaschada da la Regenza ils 29 d'avrigl 2024
 
 **Admissiun al praticum da manaschi lung**
 
-<sup>1</sup> Admess al praticum da manaschi lung vegn, tgi che cuntanscha almain la nota 4,0 en la nota empirica per las cumpetenzas d'informatica tenor las disposiziuns decisivas dal dretg federal e che ademplescha per regla las premissas per reussir l'examen da maturitad professiunala senza la lavur da project interdisciplinara. La direcziun da la scola decida davart excepziuns.
+<sup>1</sup> Admess al praticum da manaschi lung vegn, tgi che cuntanscha almain la nota 4,0 en la nota empirica per las cumpetenzas d'informatica tenor las disposiziuns decisivas dal dretg federal e che ademplescha per regla las premissas per reussir l'examen da maturitad professiunala. La direcziun da la scola decida davart excepziuns.
 
 #### Art. 14
 
-**Accumpagnament e valitaziun da la lavur da project interdisciplinara e da la lavur pratica individuala**
+**Accumpagnament e valitaziun**
 
-<sup>1</sup> Durant il praticum da manaschi lung vegnan las scolaras ed ils scolars accumpagnads d'ina persuna d'instrucziun da la scola media d'informatica, ch'è er responsabla per valitar la preschentaziun da la lavur da project interdisciplinara.
+<sup>1</sup> Durant il praticum da manaschi lung vegnan las scolaras ed ils scolars accumpagnads d'ina persuna d'instrucziun da la scola media d'informatica.
 
 <sup>2</sup> L'accumpagnament e la valitaziun da la lavur pratica individuala che vegn absolvida durant il praticum da manaschi lung, surpiglia la schefexperta u il schefexpert.
 
@@ -169,7 +180,7 @@ relaschada da la Regenza ils 29 d'avrigl 2024
 
 **Directivas da l'Uffizi per la furmaziun media-superiura**
 
-<sup>1</sup> L'Uffizi per la furmaziun media-superiura relascha – suenter avair consultà las organisaziuns cumpetentas dal mund da lavur, l'Uffizi per la furmaziun professiunala sco er las direcziuns da scola – directivas concernent la concepziun dal praticum da manaschi lung e da la lavur pratica individuala.
+<sup>1</sup> L'Uffizi da scolas medias e furmaziun terziara relascha – suenter avair consultà las organisaziuns cumpetentas dal mund da lavur, l'Uffizi per la furmaziun professiunala sco er las direcziuns da scola – directivas concernent la concepziun dal praticum da manaschi lung e da la lavur pratica individuala.
 
 ## 5. Proceduras da qualificaziun per l'attestat federal da qualificaziun
 
@@ -195,7 +206,7 @@ relaschada da la Regenza ils 29 d'avrigl 2024
 
 <sup>1</sup> Directamain suenter la realisaziun dals examens finals da la maturitad professiunala sa raduna la cumissiun scolastica d'examen tenor l'artitgel 30 alinea 1 da l'Ordinaziun davart il gimnasi[^18-1] sin invitaziun da la direcziun dals examens da la scola media d'informatica. Ella validescha las notas dals examens finals, las notas per la maturitad professiunala e la nota empirica per las cumpetenzas d'informatica.
 
-<sup>2</sup> Cura che la nota per la lavur da project interdisciplinara è avant maun, constatescha la direcziun dals examens da la scola media d'informatica, sche las premissas per reussir l'examen da maturitad professiunala èn ademplidas e communitgescha quai en scrit a las scolaras ed als scolars pertutgads.
+<sup>2</sup> La direcziun dals examens da la scola media d'informatica constatescha, sche las premissas per reussir l'examen da maturitad professiunala èn ademplidas e communitgescha quai en scrit a las scolaras ed als scolars pertutgads.
 
 <sup>3</sup> Suenter la terminaziun da la procedura da qualificaziun per l'attestat federal da qualificaziun eruescha la direcziun dals examens ils resultats da l'examen per las proceduras da qualificaziun e constatescha, sche la procedura da qualificaziun per l'attestat federal da qualificaziun vala sco reussida u sco betg reussida.
 
@@ -215,6 +226,8 @@ relaschada da la Regenza ils 29 d'avrigl 2024
 
 <sup>1</sup> Per repeter ils examens finals da la maturitad professiunala e la procedura da qualificaziun per l'attestat federal da qualificaziun valan las disposiziuns dal dretg federal.
 
+<sup>2</sup> Sco preparaziun per la repetiziun dals examens finals da la maturitad professiunala èsi pussaivel da repeter ina giada l'ultim onn d'instrucziun da la furmaziun scolastica en quels roms, en ils quals la nota finala era stada insuffizienta tar l'emprima emprova. Las cundiziuns da promoziun èn suspendidas durant la repetiziun da l'onn d'instrucziun.
+
 #### Art. 21
 
 **Attestat federal da qualificaziun senza maturitad professiunala**
@@ -227,6 +240,28 @@ relaschada da la Regenza ils 29 d'avrigl 2024
 
 **Execuziun**
 
-<sup>1</sup> L'execuziun da questa ordinaziun è chaussa da l'Uffizi per la furmaziun media-superiura.
+<sup>1</sup> L'execuziun da questa ordinaziun è chaussa da l'Uffizi da scolas medias e furmaziun terziara.
+
+## A1 Agiunta 1: Roms da promoziun (art. 4) e roms d'examen (art. 9) en il sectur d'accent ed en il sectur cumplementar
+
+#### Art. A1-1
+
+**Scola media d'informatica cun maturitad professiunala, direcziun economia e servetschs, tip economia**
+
+<sup>1</sup> Roms dal sectur d'accent: Finanzas e contabilitad sco er economia e dretg.
+
+<sup>2</sup> Roms dal sectur cumplementar: Istorgia e politica sco er tecnica ed ambient.
+
+<sup>3</sup> Roms d'examen: Finanzas e contabilitad sco er economia e dretg.
+
+#### Art. A1-2
+
+**Scola media d'informatica cun maturitad professiunala direcziun tecnica, architectura, life sciences (TALS)**
+
+<sup>1</sup> Roms dal sectur d'accent: Scienzas natiralas e matematica.
+
+<sup>2</sup> Roms dal sectur cumplementar: Istorgia e politica sco er economia e dretg.
+
+<sup>3</sup> Roms d'examen: Scienzas natiralas e matematica.
 
 2024-009
