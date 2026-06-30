@@ -4,11 +4,10 @@ number: "813.211"
 title: Wohnsitzprüfungsverordnung (WPV)
 short: WPV
 language: de
-version: "2020-04-01"
-nachtrag: "108"
-valid_until: 2026-07-01
+version: "2026-07-01"
+nachtrag: "133"
 adopted: 2014-02-05
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-813_211-2014_02_05-2014_05_01-108.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-813_211-2014_02_05-2014_05_01-133.html"
 text: pdf
 ---
 
@@ -71,29 +70,26 @@ Der Regierungsrat beschliesst:
 
 **1**
 
-- 1\. 4. 20 - 108
+- 1\. 7. 26 - 133
 
-<sup>2</sup> Ist es aus technischen Gründen nicht möglich, diese Daten über die Schnittstelle gemäss § 2 Abs. 2 zu melden, kann die Datenlieferung mit einer vergleichbaren Lösung erfolgen. Insbesondere können Kopien der Datenlieferungen der Gemeinde an das Statistische Amt verwendet werden.
-
-[^3-1]: Fassung gemäss RRB vom 6. September 2017 (OS 72, 519; ABl 2017-09-15). In Kraft seit 1. Dezember 2017.
-
-#### § 4
+<sup>2</sup> Ist es aus technischen Gründen nicht möglich, diese Daten über die Schnittstelle gemäss § 2 Abs. 2 zu melden, kann die Datenlieferung mit einer vergleichbaren Lösung erfolgen. Insbesondere können Kopien der Datenlieferungen der Gemeinde an das Amt für Statistik und Daten verwendet werden.[^3-1]
 
 **Datenbank a. Verantwortung**
 
-<sup>1</sup> Die Gesundheitsdirektion ist für die Datenbank verantwortlich.[^3-1]
+§ 4. <sup>1</sup> Die Gesundheitsdirektion ist für die Datenbank verantwortlich.[^3-2]
 
 <sup>2</sup> Sie schliesst mit der Fachstelle Datenlogistik ZH des Amts für Raumentwicklung eine Leistungsvereinbarung über den Aufbau und den technischen Betrieb der Datenbank ab.
 
 **b. Zugriff**
 
-§ 5.[^4-1] <sup>1</sup> Die Gesundheitsdirektion und die Registerstelle können automatisierte Abfragen und Einzelabfragen vornehmen. Die Registerstelle ist berechtigt, jährlich eine Liste mit den Daten der Datenbank zu erstellen.
+§ 5.[^3-2] <sup>1</sup> Die Gesundheitsdirektion und die Registerstelle können automatisierte Abfragen und Einzelabfragen vornehmen. Die Registerstelle ist berechtigt, jährlich eine Liste mit den Daten der Datenbank zu erstellen.
 
 <sup>2</sup> Die Gesundheitsdirektion regelt die Zugriffsberechtigung.
 
 <sup>3</sup> Jeder Zugriff auf die Datenbank wird protokolliert.
 
-[^4-1]: Fassung gemäss RRB vom 6. September 2017 (OS 72, 519; ABl 2017-09-15). In Kraft seit 1. Dezember 2017.
+[^3-1]: Fassung gemäss RRB vom 25. März 2026 (OS 81, 309; ABl 2026-04-17). In Kraft seit 1. Juli 2026.
+[^3-2]: Fassung gemäss RRB vom 6. September 2017 (OS 72, 519; ABl 2017-09-15). In Kraft seit 1. Dezember 2017.
 
 #### § 6
 
