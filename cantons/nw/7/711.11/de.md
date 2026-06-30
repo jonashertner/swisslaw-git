@@ -1,29 +1,28 @@
 ---
 canton: NW
 number: "711.11"
-title: Vollzugsverordnung zum Gesundheitsgesetz
+title: Verordnung zum Gesundheitsgesetz
 short: "Gesundheitsverordnung, GesV"
 language: de
-version: 2025-12-31
-valid_until: 2026-06-30
-version_adopted: 2025-09-02
+version: 2026-07-01
+version_adopted: 2026-06-09
 adopted: 2009-02-03
 in_force: 2009-03-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/711.11"
-pdf: "https://gesetze.nw.ch/api/de/versions/1404/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/1522/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Vollzugsverordnung zum Gesundheitsgesetz
+# Verordnung zum Gesundheitsgesetz
 
 (Gesundheitsverordnung, GesV)
 
-vom 03.02.2009 (Stand 31.12.2025)
+vom 03.02.2009 (Stand 01.07.2026)
 
 Der Regierungsrat von Nidwalden,
 
-gestützt auf Art. 64 der Kantonsverfassung, in Ausführung von Art. 21–23, 40, 62, 78 und 91 des Gesetzes vom 30. Mai 2007 zur Erhaltung und Förderung der Gesundheit (Gesundheitsgesetz, GesG)[^ingress-1],
+gestützt auf Art. 64 Abs. 1 Ziff. 1 der Kantonsverfassung, in Ausführung von Art. 21–23, 40, 62, 78 und 91 des Gesetzes vom 30. Mai 2007 zur Erhaltung und Förderung der Gesundheit (Gesundheitsgesetz, GesG)[^ingress-1],
 
 beschliesst:
 
@@ -43,15 +42,7 @@ beschliesst:
 - 2\. als Psychotherapeutin oder Psychotherapeut gemäss Psychologieberufegesetz (PsyG)[^1-2];
 - 3\. in einem Gesundheitsberuf gemäss Gesundheitsberufegesetz (GesBG)[^1-3];
 - 4\. als weitere Leistungserbringer gemäss Krankenversicherungsgesetz (KVG)[^1-4];
-- 5\. in weiteren Berufen mit besonderem Gefährdungspotential gemäss Art. 21 GesG[^1-5]:
-  - a) Akupunkteurinnen und Akupunkteure;
-  - b) Dentalhygienikerinnen und Dentalhygieniker;
-  - c) Drogistinnen und Drogisten;
-  - d) Homöopathinnen und Homöopathen;
-  - e) Naturheilpraktikerinnen und Naturheilpraktiker mit höherer Fachprüfung (HFP);
-  - f) Podologinnen und Podologen;
-  - g) Therapeutinnen und Therapeuten der traditionellen chinesischen Medizin (TCM);
-  - h) medizinische Masseurinnen und medizinische Masseure.
+- 5\. in einem Beruf gemäss der interkantonalen Vereinbarung über die Anerkennung von Ausbildungsabschlüssen[^1-5] (Art. 12ter i.V.m. Art. A1-1), der im Nationalen Register der nicht-universitären Gesundheitsberufe (NAREG) aufgeführt ist.
 
 <sup>2</sup> Die Berufsausübungsbewilligung kann nur einer natürlichen Person erteilt werden.
 
@@ -59,7 +50,7 @@ beschliesst:
 [^1-2]: SR 935.81
 [^1-3]: SR 811.21
 [^1-4]: SR 832.10
-[^1-5]: NG 711.1
+[^1-5]: NG 311.5
 
 ### 1.2 Bewilligungsverfahren
 
@@ -85,7 +76,7 @@ beschliesst:
 - 5\. Nachweis über die Absolvierung der verlangten praktischen Tätigkeit nach Ausbildungsabschluss;
 - 5a. Nachweis hinreichender Deutschkenntnisse für die dem Medizinalberufe-[^3-1], dem Psychologieberufe-[^3-2] und dem Gesundheitsberufegesetz[^3-3] unterstehenden Gesundheitsfachpersonen;
 - 6\. Angaben und Zeugnisse betreffend die bisherige Tätigkeit einschliesslich der Unbedenklichkeitserklärung vorgängiger Bewilligungsbehörden;
-- 7\. aktueller Auszug aus dem Zentralstrafregister;
+- 7\. höchstens drei Monate alter Auszug aus dem Strafregister;
 - 8\. Nachweis über den Abschluss einer Berufshaftpflichtversicherung, die das spezifische Berufsrisiko hinreichend abdeckt.
 
 <sup>2</sup> Inhaberinnen und Inhaber eines ausländischen Diploms oder Fähigkeitsausweises haben auf Verlangen der Bewilligungsinstanz zusätzlich folgende Unterlagen einzureichen:
@@ -118,7 +109,10 @@ beschliesst:
 
 **Meldung**
 
-<sup>1</sup> Gesundheitsfachpersonen haben der Bewilligungsinstanz die Aufnahme der Tätigkeit, das Praxisdomizil sowie dessen Änderung, Namensänderungen und die definitive Aufgabe der beruflichen Tätigkeit binnen 30 Tagen zu melden.
+<sup>1</sup> Gesundheitsfachpersonen haben der Bewilligungsinstanz innert 30 Tagen zu melden:
+
+- 1\. die Aufnahme ihrer Tätigkeit, das Praxisdomizil sowie dessen Änderung, Namensänderungen und die definitive Aufgabe der beruflichen Tätigkeit;
+- 2\. Änderungen von Sachverhalten, die Voraussetzung für die Bewilligungserteilung sind.
 
 ### 1.3 Stellvertretung
 
@@ -128,9 +122,9 @@ beschliesst:
 
 <sup>1</sup> Wer eine Stellvertretung übernimmt, muss in der Regel dieselben Voraussetzungen erfüllen wie diejenige Gesundheitsfachperson, die vertreten wird.
 
-<sup>2</sup> Erfolgt die Stellvertretung durch eine Gesundheitsfachperson, die im Kanton bereits eine entsprechende Berufsausübungsbewilligung hat, genügt eine Meldung an die Bewilligungsinstanz mit den Angaben über die Personalien und die Zeitdauer der Stellvertretung.
+<sup>2</sup> Erfolgt die Stellvertretung durch eine Gesundheitsfachperson, die im Kanton über eine entsprechende Berufsausübungsbewilligung verfügt, hat die vertretene Gesundheitsfachperson der Bewilligungsinstanz die Personalien und die Zeitdauer der Stellvertretung zu melden.
 
-<sup>3</sup> Erfolgt die Stellvertretung durch eine Gesundheitsfachperson, die in einem anderen Kanton eine entsprechende Berufsausübungsbewilligung hat, sind zusätzlich Kopien der Diplome und der Berufsausübungsbewilligung des anderen Kantons einzureichen.
+<sup>3</sup> Erfolgt die Stellvertretung durch eine Gesundheitsfachperson, die in einem anderen Kanton über eine entsprechende Berufsausübungsbewilligung verfügt, hat die vertretene Gesundheitsfachperson der Bewilligungsinstanz die Bewilligung einzureichen und die Zeitdauer der Stellvertretung bekanntzugeben.
 
 ### 1.4 Bewilligungsvoraussetzungen
 
@@ -167,102 +161,39 @@ beschliesst:
 
 #### § 9
 
-**Akupunkteurinnen und Akupunkteure**
+**Voraussetzungen 1. Allgemein**
 
-<sup>1</sup> Eine Berufsausübungsbewilligung als Akupunkteurin beziehungsweise Akupunkteur erhält, wer über eine vom Amt anerkannte Ausbildung verfügt.
+<sup>1</sup> Für die Berufe der interkantonalen Vereinbarung über die Anerkennung von Ausbildungsabschlüssen[^9-1] (Art. 12ter i.V.m. Art. A1-1) gelten die Voraussetzungen für den Abschluss gemäss Art. A1-1.
 
-<sup>2</sup> Vorausgesetzt wird in der Regel eine mindestens dreijährige Fachausbildung mit mindestens 1500 Stunden direkten Unterrichts (Präsenzzeit), die hinreichende Kenntnisse unter anderem in den folgenden Gebieten vermittelt:
+<sup>2–5</sup> …
 
-- 1\. Grundwissen in Anatomie, Physiologie, Pathologie, Hygiene und Psychosomatik, System und Gesetzgebung des Gesundheitswesens (mindestens 500 Stunden);
-- 2\. Anamnese, Befunderhebung, Meridiansysteme, Elementenlehre, Lokalisation und saubere Nadeltechnik nach den Regeln der Akupunktur (mindestens 1'000 Stunden).
+[^9-1]: NG 311.5
 
-<sup>3</sup> …
+#### § 9a
 
-<sup>4</sup> Das Amt berücksichtigt bei der Anerkennung der Ausbildung die Anforderungen der Berufsverbände.
+**2. Naturheilpraktikerinnen und Naturheilpraktiker**
 
-<sup>5</sup> Das Amt kann andere gleichwertige Ausbildungsgänge anerkennen.
+<sup>1</sup> Naturheilpraktikerinnen und Naturheilpraktiker haben über ein eidgenössisches Diplom zu verfügen.
 
-#### § 10
+<sup>2</sup> Inhaberinnen oder Inhaber eines Zertifikats der Organisation der Arbeitswelt Alternativmedizin Schweiz (Zertifikat OdA AM) erhalten eine auf fünf Jahre befristete Berufsausübungsbewilligung.
 
-**…**
+#### § 9b
 
-#### § 11
+**3. Podologinnen und Podologen**
 
-**Dentalhygienikerinnen und Dentalhygieniker**
+<sup>1</sup> Podologinnen und Podologen haben über eine eidgenössische höhere Fachprüfung zu verfügen.
 
-<sup>1</sup> Eine Berufsausübungsbewilligung als Dentalhygienikerin beziehungsweise Dentalhygieniker erhält, wer die eidgenössische höhere Fachprüfung bestanden hat.
+<sup>2</sup> Das selbständige Erbringen von Leistungen für Risikogruppen, das Erstellen von fachlich komplexen Behandlungsplänen und die Interpretation von fachlich komplexen ärztlichen Diagnosen und Verordnungen ist Bewilligungsinhaberinnen und -inhabern vorbehalten, die über einen der folgenden Nachweise verfügen:
 
-<sup>2</sup> …
+- 1\. den eidgenössischen Fähigkeitsausweis als diplomierte Podologin HF oder diplomierter Podologe HF;
+- 2\. ein vom Schweizerischen Podologen-Verband anerkanntes Diplom; oder
+- 3\. einen vom Schweizerischen Roten Kreuz als gleichwertig anerkannten ausländischen Fähigkeitsausweis.
 
-<sup>3</sup> Über die Anerkennung gleichwertiger ausländischer Diplome und Ausweise entscheidet das Schweizerische Rote Kreuz.
+<sup>3</sup> Der Begriff «Risikogruppen» richtet sich nach der Definition der Risikogruppen des Schweizerischen Podologen-Verbands.
 
-#### § 12
-
-**Drogistinnen und Drogisten**
-
-<sup>1</sup> Eine Berufsausübungsbewilligung erhält, wer das eidgenössische Diplom als Drogistin oder Drogist mit Diplom der Höheren Fachschule erworben hat.
-
-<sup>2</sup> Über die Anerkennung gleichwertiger ausländischer Diplome und Ausweise entscheidet das Staatssekretariat für Bildung, Forschung und Innovation (SBFI).
-
-#### § 13
-
-**Homöopathinnen und Homöopathen**
-
-<sup>1</sup> Eine Berufsausübungsbewilligung als Homöopathin beziehungsweise Homöopath erhält, wer über eine vom Amt anerkannte Ausbildung verfügt.
-
-<sup>2</sup> Vorausgesetzt wird in der Regel eine mindestens dreijährige Fachausbildung mit mindestens 1'200 Stunden direkten Unterrichts in Theorie und Praxis (Präsenzzeit), die hinreichende Kenntnisse unter anderem in den folgenden Gebieten vermittelt:
-
-- 1\. Grundwissen in Anatomie, Physiologie, Pathologie, Hygiene, Psychosomatik, System und Gesetzgebung des Gesundheitswesens (mindestens 500 Stunden);
-- 2\. Anamnese, Symptomatologie, Hierarchisierung und Repertorisation nach den Regeln der Homöopathie.
-
-<sup>3</sup> …
-
-<sup>4</sup> Bei Personen mit einem Abschluss in Pharmazie, in einem Beruf der Gesundheitspflege oder mit einem ausländischen Diplom kann das Amt andere Ausbildungen ganz oder teilweise anerkennen, wenn diese gleichwertig sind.
-
-#### § 14
-
-**Naturheilpraktikerinnen und Naturheilpraktiker HFP**
-
-<sup>1</sup> Eine Berufsausübungsbewilligung als Naturheilpraktikerin beziehungsweise Naturheilpraktiker HFP erhält, wer das eidgenössische Diplom als Naturheilpraktikerin beziehungsweise Naturheilpraktiker HFP erworben hat.
-
-<sup>2</sup> Über die Anerkennung gleichwertiger ausländischer Diplome und Ausweise entscheidet das Schweizerische Rote Kreuz.
-
-#### § 15
+#### § 10–19a
 
 **…**
-
-#### § 16
-
-**Podologinnen und Podologen**
-
-<sup>1</sup> Eine Berufsausübungsbewilligung als Podologin beziehungsweise Podologe erhält, wer die eidgenössische höhere Fachprüfung bestanden hat.
-
-<sup>2</sup> Über die Anerkennung gleichwertiger ausländischer Diplome und Ausweise entscheidet das Schweizerische Rote Kreuz.
-
-#### § 17–18
-
-**…**
-
-#### § 19
-
-**Therapeutinnen und Therapeuten der TCM**
-
-<sup>1</sup> Eine Berufsausübungsbewilligung als Therapeutin beziehungsweise Therapeut der Traditionellen Chinesischen Medizin (TCM) erhält, wer über eine vom Amt anerkannte Ausbildung verfügt.
-
-<sup>2</sup> Vorausgesetzt wird in der Regel eine mindestens dreijährige Fachausbildung mit mindestens 1'500 Stunden direkten Unterrichts (Präsenzzeit), die hinreichende Kenntnisse unter anderem in den folgenden Gebieten vermittelt:
-
-- 1\. Grundwissen in Anatomie, Physiologie, Pathologie, Hygiene, Psychosomatik, Heilkräuterkunde, System und Gesetzgebung des Gesundheitswesens (mindestens 600 Stunden);
-- 2\. Anamnese, Feststellung von Krankheiten und Verletzungen sowie anderen gesundheitlichen Störungen, Meridiansysteme, Elementenlehre und Therapieformen nach den Regeln der TCM.
-
-<sup>3</sup> …
-
-#### § 19a
-
-**Medizinische Masseurinnen und Masseure EFA**
-
-<sup>1</sup> Eine Berufsausübungsbewilligung als medizinische Masseurin beziehungsweise medizinischer Masseur EFA erhält, wer den eidgenössischen Fachausweis als medizinische Masseurin beziehungsweise medizinischer Masseur EFA erworben hat.
-
-<sup>2</sup> Über die Anerkennung gleichwertiger ausländischer Diplome und Ausweise entscheidet das Schweizerische Rote Kreuz.
 
 ### 1.5 Besondere Bestimmungen
 
@@ -299,19 +230,12 @@ beschliesst:
 - 2\. Pflegeheime und Pflegeabteilungen;
 - 3\. Geburtshäuser.
 
-<sup>2</sup> Das Amt erteilt die Betriebsbewilligung für folgende Organisationen und Einrichtungen gemäss KVG[^22-1]:
+<sup>2</sup> Das Amt erteilt die Betriebsbewilligung für weitere Organisationen und Einrichtungen als Leistungserbringer gemäss KVG[^22-1].
 
-- 1\. Organisationen der Krankenpflege und Hilfe zu Hause (Spitex);
-- 2\. Organisationen der Ergotherapie;
-- 3\. Laboratorien;
-- 4\. Abgabestellen für Mittel und Gegenstände;
-- 5\. Transport- und Rettungsunternehmen;
-- 6\. Heilbäder.
-
-<sup>3</sup> Das Amt erteilt auf Antrag der Kantonsapothekerin beziehungsweise des Kantonsapothekers die Betriebsbewilligung für:
+<sup>3</sup> Es erteilt mit Unterstützung der Kantonsapothekerin oder dem Kantonsapotheker die Betriebsbewilligung für:
 
 - 1\. Öffentliche Apotheken, Spitalapotheken, Heimapotheken sowie im Versandhandel von Heilmitteln tätige Unternehmen;
-- 2\. Privatapotheken von Medizinalpersonen im humanmedizinischen Bereich;
+- 2\. Privatapotheken von Medizinalpersonen sowie von Naturheilpraktikerinnen und Naturheilpraktikern mit eidgenössischem Diplom im humanmedizinischen Bereich;
 - 3\. Drogerien;
 - 4\. Betriebe, welche Blut oder Blutprodukte nur lagern.
 
@@ -328,15 +252,12 @@ beschliesst:
 
 <sup>1</sup> Mit dem Gesuch sind in der Regel folgende Unterlagen bei der Bewilligungsinstanz einzureichen:
 
-- 1\. Berufsausübungsbewilligung beziehungsweise tabellarischer Lebenslauf, aktueller Auszug aus dem Zentralstrafregister und Diplom oder Fähigkeitszeugnis der fachtechnisch verantwortlichen Personen;
+- 1\. Berufsausübungsbewilligung;
 - 2\. Nachweis über den Einsatz von fachlich hinreichend ausgebildetem Personal;
 - 3\. Pläne der Räumlichkeiten und Einrichtungen unter Angabe der beabsichtigten Nutzung;
-- 4\. bei den Organisationen und Einrichtungen gemäss KVG[^23-1] ist das Genügen der Anforderungen gemäss KVV[^23-2] schriftlich nachzuweisen.
+- 4\. …
 
 <sup>2</sup> Die Bewilligungsinstanz kann bei Bedarf weitere Unterlagen verlangen.
-
-[^23-1]: SR 832.10
-[^23-2]: SR 832.102
 
 #### § 24
 
