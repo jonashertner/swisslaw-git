@@ -4,13 +4,12 @@ number: "121.110"
 title: Verordnung zum Bürgerrechtsgesetz
 short: BüRV
 language: de
-version: 2024-10-01
-valid_until: 2026-06-30
-version_adopted: 2024-09-03
+version: 2026-07-01
+version_adopted: 2026-03-31
 adopted: 2017-12-12
 in_force: 2018-01-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/121.110"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6403/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6801/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ Bürgerrechtsgesetz: Verordnung | Bürgerrecht
 
 (BüRV)
 
-Vom 12. Dezember 2017 (Stand 1. Oktober 2024)
+Vom 12. Dezember 2017 (Stand 1. Juli 2026)
 
 Der Regierungsrat des Kantons Basel-Stadt,
 
@@ -368,15 +367,11 @@ beschliesst:
 
 **Kantonale Gebühren**
 
-<sup>1</sup> Das Migrationsamt erhebt von Ausländerinnen und Ausländern für die Aufnahme in das Bürgerrecht folgende Gebühren:
+<sup>1</sup> …
 
-- a) Personen bis 25 Jahre: — Fr. 600
-- b) Personen über 25 Jahre: — Fr. 850
-- c) Familien: — Fr. 950
+<sup>2</sup> …
 
-<sup>2</sup> Das Migrationsamt erhebt von Schweizer Bürgerinnen und Bürgern für die Aufnahme in das Bürgerrecht folgende Gebühren (Einzelpersonen und Familien): Fr. 150.
-
-<sup>3</sup> Die Gebühren können in Ausnahmefällen bis zum doppelten Betrag erhöht oder bis zur Hälfte reduziert werden, wenn die Behandlung des Geschäfts einen erheblich über oder unter dem Durchschnitt liegenden Arbeitsaufwand erfordert.
+<sup>3</sup> …
 
 <sup>4</sup> …
 
@@ -386,31 +381,15 @@ beschliesst:
 
 #### § 30a
 
-**Erlass der kantonalen Gebühren**
-
-<sup>1</sup> Personen, die aufgrund von Erwerbsarmut, der Wahrnehmung von Betreuungsaufgaben, einer erstmaligen formalen Ausbildung oder wegen einer körperlichen, geistigen oder psychischen Behinderung oder einer schweren oder lang andauernden Krankheit Leistungen der Sozialhilfe beziehen, können einen Erlass der kantonalen Gebühren beantragen.
-
-<sup>2</sup> Personen, die Ergänzungsleistungen beziehen, können einen hälftigen Erlass der kantonalen Gebühren beantragen.
-
-<sup>3</sup> Ein Gebührenerlass gemäss Abs. 1 oder 2 ist nur bei der erstmaligen Gesuchseinreichung möglich.
-
-<sup>4</sup> Will sich ein Ehepaar oder ein gleichgeschlechtliches Paar in eingetragener Partnerschaft von den Gebühren befreien lassen, so müssen die Kriterien gemäss Abs. 1 oder 2 von beiden Personen erfüllt werden.
-
-<sup>5</sup> Ausländerinnen und Ausländer, die in der Schweiz geboren sind, sowie Schweizer Bürgerinnen und Bürger werden bis zur Vollendung des 19. Lebensjahres bei der erstmaligen Gesuchseinreichung von den Gebühren gemäss § 30 Abs. 1 und 2 befreit.
-
-<sup>6</sup> Ist bei verheirateten oder in eingetragener Partnerschaft lebenden Paaren eine Person gemäss Abs. 5 von den Gebühren befreit, so trägt die andere die Gebühren für Einzelpersonen.
+**…**
 
 #### § 31
 
-**Vorauszahlung**
-
-<sup>1</sup> Das Migrationsamt bzw. die Bürgergemeinde, deren Bürgerrecht betroffen ist, setzt zur Vorauszahlung der Gebühren eine angemessene Frist. Wird die Vorauszahlung nicht innert Frist geleistet, so fällt das Gesuch dahin. Von den Gebühren befreite Personen sind im Umfang dieser Befreiung von der Vorauszahlungspflicht ausgenommen.
+**…**
 
 #### § 32
 
-**Rückerstattung der kantonalen Gebühren**
-
-<sup>1</sup> Wird ein Gesuch vor dem Erlass einer Verfügung zurückgezogen, so werden die dem Migrationsamt bezahlten Gebühren entsprechend dem Stand des Verfahrens zurückerstattet.
+**…**
 
 *Schlussbestimmung*
 
