@@ -4,13 +4,12 @@ number: "211.1"
 title: Gesetz über die Einführung des Schweizerischen Zivilgesetzbuches
 short: "Einführungsgesetz zum Zivilgesetzbuch, EG ZGB"
 language: de
-version: 2026-01-01
-corrected: 2026-02-03
-version_adopted: 2024-10-23
+version: 2026-07-01
+version_adopted: 2025-11-26
 adopted: 1988-04-24
 in_force: 1988-01-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/211.1"
-pdf: "https://gesetze.nw.ch/api/de/versions/1436/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/1508/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://gesetze.nw.ch/api/de/versions/1436/pdf_file"
 
 (Einführungsgesetz zum Zivilgesetzbuch, EG ZGB)
 
-vom 24.04.1988 (Stand 01.01.2026)
+vom 24.04.1988 (Stand 01.07.2026)
 
 Die Landsgemeinde,
 
@@ -1028,15 +1027,7 @@ beschliesst:
 
 #### Art. 93
 
-**2. entlang von öffentlichen Strassen**
-
-<sup>1</sup> Entlang von öffentlichen Strassen obliegt die Einfriedungspflicht den Anstössern, soweit keine andern Vereinbarungen getroffen werden.
-
-<sup>2</sup> Bei Enteignung für eine öffentliche Strasse ist der Enteignete für die entstehende Einfriedungspflicht durch den Träger der Strassenbaulast zu entschädigen.
-
-<sup>3</sup> Über die Höhe der Einfriedungen entlang von öffentlichen Strassen sind die Bestimmungen des Strassengesetzes[^93-1] massgebend.
-
-[^93-1]: NG 622.1
+**…**
 
 #### Art. 94
 
@@ -1333,7 +1324,7 @@ beschliesst:
 
 #### Art. 128c
 
-**Übergangsbestimmung zur Änderung vom...**
+**Übergangsbestimmung zur Änderung vom 23. Oktober 2024**
 
 <sup>1</sup> Der Gemeinderat hat binnen eines Jahres seit Inkrafttreten dieser Änderung die Teilungsbehörde zu wählen. Bis zu diesem Zeitpunkt besteht die Teilungsbehörde aus den bisherigen Mitgliedern.
 
