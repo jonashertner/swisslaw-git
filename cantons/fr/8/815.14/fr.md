@@ -3,13 +3,12 @@ canton: FR
 number: "815.14"
 title: "Ordonnance pour soutenir l'action communale en faveur des projets d'adaptation aux fortes chaleurs"
 language: fr
-version: 2024-06-04
-valid_until: 2026-06-30
-version_adopted: 2024-06-04
+version: 2026-07-01
+version_adopted: 2026-03-31
 adopted: 2024-06-04
 in_force: 2024-06-04
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/815.14"
-pdf: "https://bdlf.fr.ch/api/fr/versions/8023/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/8545/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -18,7 +17,7 @@ pdf: "https://bdlf.fr.ch/api/fr/versions/8023/pdf_file"
 
 Projets d'adaptation aux fortes chaleurs, soutien – O
 
-du 04.06.2024 (version entrée en vigueur le 04.06.2024)
+du 04.06.2024 (version entrée en vigueur le 01.07.2026)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -80,7 +79,7 @@ Arrête:
 
 <sup>1</sup> Le SEn détermine les modalités de la demande.
 
-<sup>2</sup> Les demandes peuvent être déposées au plus tard jusqu'au 31 mai 2026.
+<sup>2</sup> Les demandes peuvent être déposées au plus tard jusqu'au 1<sup>er</sup> décembre 2026.
 
 <sup>3</sup> Un projet comportant plusieurs mesures subventionnables fait l'objet d'une demande groupée.
 

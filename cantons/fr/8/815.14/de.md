@@ -3,13 +3,12 @@ canton: FR
 number: "815.14"
 title: Verordnung über die Unterstützung kommunaler Massnahmen zugunsten von Projekten zur Anpassung an starke Hitze
 language: de
-version: 2024-06-04
-valid_until: 2026-06-30
-version_adopted: 2024-06-04
+version: 2026-07-01
+version_adopted: 2026-03-31
 adopted: 2024-06-04
 in_force: 2024-06-04
 url: "https://bdlf.fr.ch/app/de/texts_of_law/815.14"
-pdf: "https://bdlf.fr.ch/api/de/versions/8023/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/8545/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +17,7 @@ pdf: "https://bdlf.fr.ch/api/de/versions/8023/pdf_file"
 
 Projekte zur Anpassung an starke Hitze, Unterstützung – V
 
-vom 04.06.2024 (Fassung in Kraft getreten am 04.06.2024)
+vom 04.06.2024 (Fassung in Kraft getreten am 01.07.2026)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -80,7 +79,7 @@ beschliesst:
 
 <sup>1</sup> Das AfU legt die Modalitäten des Gesuchverfahrens fest.
 
-<sup>2</sup> Die Gesuche können bis am 31. Mai 2026 eingereicht werden.
+<sup>2</sup> Die Gesuche können bis am 1. Dezember 2026 eingereicht werden.
 
 <sup>3</sup> Für ein Projekt mit mehreren beitragsberechtigten Massnahmen muss ein Sammelgesuch eingereicht werden.
 
