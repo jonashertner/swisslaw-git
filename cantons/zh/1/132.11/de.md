@@ -4,11 +4,10 @@ number: "132.11"
 title: Finanzausgleichsverordnung (FAV)
 short: FAV
 language: de
-version: "2022-06-01"
-nachtrag: "117"
-valid_until: 2026-07-01
+version: "2026-07-01"
+nachtrag: "133"
 adopted: 2011-08-17
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-132_11-2011_08_17-2012_01_01-117.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-132_11-2011_08_17-2012_01_01-133.html"
 text: pdf
 ---
 
@@ -27,13 +26,14 @@ Der Regierungsrat beschliesst:
 
 ### A. Einwohnerbestand
 
-[^hAEinwohnerbestand-1]: LS 132.1.
+[^hAEinwohnerbestand-1]: Fassung gemäss RRB vom 25. März 2026 (OS 81, 302; ABl 2026-04-17). In Kraft seit 1. Juli 2026. 1. 7. 26 - 133 13
+[^hAEinwohnerbestand-2]: LS 132.1.
 
 #### § 1
 
 **Stichtag und Zusammensetzung**
 
-<sup>1</sup> Das Statistische Amt stellt den Einwohnerbestand gemäss § 8 lit. e des Finanzausgleichsgesetzes vom 12. Juli 2010 (FAG)[^hAEinwohnerbestand-1] fest. Massgebend ist der Hauptwohnsitz.
+<sup>1</sup> Das Amt für Statistik und Daten[^hAEinwohnerbestand-1] stellt den Einwohnerbestand gemäss § 8 lit. e des Finanzausgleichsgesetzes vom 12. Juli 2010 (FAG)[^hAEinwohnerbestand-2] fest. Massgebend ist der Hauptwohnsitz.
 
 <sup>2</sup> Die Erfassung des Einwohnerbestandes erfolgt jährlich. Stichtag ist der 31. Dezember.
 
@@ -45,13 +45,17 @@ Der Regierungsrat beschliesst:
 
 <sup>4</sup> Asylsuchende werden nicht erfasst.
 
+[^1-1]: Fassung gemäss RRB vom 25. März 2026 (OS 81, 302; ABl 2026-04-17). In Kraft seit 1. Juli 2026. 1. 7. 26 - 133 13
+
 #### § 2
 
 **Lieferung der Daten**
 
-<sup>1</sup> Die Gemeinden sind für die Vollständigkeit, Richtigkeit und Rechtzeitigkeit der Datenlieferung an das Statistische Amt verantwortlich.
+<sup>1</sup> Die Gemeinden sind für die Vollständigkeit, Richtigkeit und Rechtzeitigkeit der Datenlieferung an das Amt für Statistik und Daten[^1-1] verantwortlich.
 
-<sup>2</sup> Unterbleibt die Lieferung oder ist sie unvollständig, kann das Statistische Amt Ergänzungen verlangen. Bleiben diese aus, kann es statistische Verfahren einsetzen, um den Einwohnerbestand zu berechnen.
+<sup>2</sup> Unterbleibt die Lieferung oder ist sie unvollständig, kann das Amt für Statistik und Daten[^2-1] Ergänzungen verlangen. Bleiben diese aus, kann es statistische Verfahren einsetzen, um den Einwohnerbestand zu berechnen.
+
+[^2-1]: Fassung gemäss RRB vom 25. März 2026 (OS 81, 302; ABl 2026-04-17). In Kraft seit 1. Juli 2026. 1. 7. 26 - 133 13
 
 ### B. Steuerfüsse
 
@@ -63,7 +67,7 @@ Für die Berechnung des gewogenen Steuerfusses gemäss § 8 lit. c Satz 2 FAG we
 
 **1**
 
-- 1\. 7. 22 - 117 § 4. Die Berechnung des Kantonsmittels der Gesamtsteuerfüsse gemäss § 8 lit. d FAG erfolgt analog zu § 3. Massgebend ist die Formel 8 im Anhang zu dieser Verordnung.
+- 1\. 7. 26 - 133 § 4. Die Berechnung des Kantonsmittels der Gesamtsteuerfüsse gemäss § 8 lit. d FAG erfolgt analog zu § 3. Massgebend ist die Formel 8 im Anhang zu dieser Verordnung.
 
 **Kantonsmittel der Gesamtsteuerfüsse**
 
@@ -133,25 +137,29 @@ Für die Berechnung des Kantonsmittels der relativen Steuerkraft gemäss § 8 li
 
 ### D. Meldung von Daten
 
+[^hDMeldungvonDaten-1]: Fassung gemäss RRB vom 25. März 2026 (OS 81, 302; ABl 2026-04-17). In Kraft seit 1. Juli 2026. 1. 7. 26 - 133 13
+
 #### § 10
 
-**Politische Gemeinden an Statistisches Amt**
+**Politische Gemeinden an Amt für Statistik und Daten14**
 
-Die politischen Gemeinden übermitteln dem Statistischen Amt gemäss dessen Vorgaben:
+Die politischen Gemeinden übermitteln dem Amt für Statistik und Daten[^hDMeldungvonDaten-1] gemäss dessen Vorgaben:
 
 - a. bis 31. Januar einen Auszug aus dem Einwohnerregister mit den Angaben gemäss § 1 des vorangegangenen Jahres,
 
 - b. bis 31. Januar die Steuerfüsse des laufenden Jahres,
 
-- c. bis 31. Januar alle Änderungen der Gemeindeorganisation des vorangegangenen Jahres, die sich auf die vom Statistischen Amt zu liefernden Daten auswirken können,
+- c. bis 31. Januar alle Änderungen der Gemeindeorganisation des vorangegangenen Jahres, die sich auf die vom Amt für Statistik und Daten[^10-1] zu liefernden Daten auswirken können,
 
 - d. bis 31. März sämtliche für die Berechnung der absoluten Steuerkraft erforderlichen Angaben des vorangegangenen Jahres gemäss § 5.
 
+[^10-1]: Fassung gemäss RRB vom 25. März 2026 (OS 81, 302; ABl 2026-04-17). In Kraft seit 1. Juli 2026. 1. 7. 26 - 133 13
+
 #### § 11
 
-**Bildungsdirektion an Statistisches Amt**
+**Bildungsdirektion an Amt für Statistik und Daten14**
 
-Die Bildungsstatistik der Bildungsdirektion meldet dem Statistischen Amt bis 31. März die Zahl der Schülerinnen und Schüler des vorangegangenen Jahres gemäss § 21.
+Die Bildungsstatistik der Bildungsdirektion meldet dem Amt für Statistik und Daten[^10-1] bis 31. März die Zahl der Schülerinnen und Schüler des vorangegangenen Jahres gemäss § 21.
 
 #### § 12
 
@@ -161,23 +169,27 @@ Die politischen Gemeinden melden dem Amt für Raumentwicklung des Kantons Züric
 
 #### § 13
 
-**ARE an Statistisches Amt**
+**ARE an Amt für Statistik und Daten14**
 
 <sup>1</sup> Das ARE ermittelt die Fläche der Gemeinden (Gemeindegebiet) und das Neigungsgebiet der Gemeinden gemäss §§ 24 und 25.
 
-<sup>2</sup> Das ARE meldet die entsprechenden Werte bis 31. März dem Statistischen Amt.
+<sup>2</sup> Das ARE meldet die entsprechenden Werte bis 31. März dem Amt für Statistik und Daten[^13-1].
 
 **3**
 
-- 1\. 7. 22 - 117
+- 1\. 7. 26 - 133
+
+[^13-1]: Fassung gemäss RRB vom 25. März 2026 (OS 81, 302; ABl 2026-04-17). In Kraft seit 1. Juli 2026. 1. 7. 26 - 133 13
 
 ### E. Ausgleichsfaktoren
+
+[^hEAusgleichsfaktore-1]: Fassung gemäss RRB vom 25. März 2026 (OS 81, 302; ABl 2026-04-17). In Kraft seit 1. Juli 2026. 1. 7. 26 - 133 13
 
 #### § 14
 
 **Bestand**
 
-<sup>1</sup> Das Statistische Amt erhebt oder berechnet bis 15. Juni des dem Ausgleichsjahr vorangehenden Jahres (Vorjahr) zuhanden des Gemeindeamtes folgende für den Finanzausgleich massgebenden Faktoren (Ausgleichsfaktoren):
+<sup>1</sup> Das Amt für Statistik und Daten[^hEAusgleichsfaktore-1] erhebt oder berechnet bis 15. Juni des dem Ausgleichsjahr vorangehenden Jahres (Vorjahr) zuhanden des Gemeindeamtes folgende für den Finanzausgleich massgebenden Faktoren (Ausgleichsfaktoren):
 
 - a. die Zahl der Einwohnerinnen und Einwohner der politischen Gemeinden und des Kantons gemäss § 1,
 
@@ -277,15 +289,17 @@ Die politischen Gemeinden melden dem Amt für Raumentwicklung des Kantons Züric
 
 <sup>2</sup> Das Gemeindeamt informiert die politischen Gemeinden und die Schulgemeinden bis Ende Juni über die Zahl der Schülerinnen und Schüler gemäss § 14 Abs. 1 lit. o.
 
+[^16-1]: Fassung gemäss RRB vom 25. März 2026 (OS 81, 302; ABl 2026-04-17). In Kraft seit 1. Juli 2026. 1. 7. 26 - 133 13
+
 #### § 17
 
 **Veröffentlichung**
 
-Das Statistische Amt veröffentlicht nach Ablauf der Rechtsmittelfrist die Ausgleichsfaktoren gemäss § 16 Abs. 1 umgehend elektronisch auf seiner Website. Es gibt an, welche der Ausgleichsfaktoren strittig sind.
+Das Amt für Statistik und Daten[^16-1] veröffentlicht nach Ablauf der Rechtsmittelfrist die Ausgleichsfaktoren gemäss § 16 Abs. 1 umgehend elektronisch auf seiner Website. Es gibt an, welche der Ausgleichsfaktoren strittig sind.
 
 **5**
 
-- 1\. 7. 22 - 117 § 18. <sup>1</sup> Auf der Grundlage der Ausgleichsfaktoren legt das Gemeindeamt bis Ende August des Vorjahres gegenüber den politischen Gemeinden und den Schulgemeinden die Ausgleichsbeiträge bei folgenden Instrumenten fest:
+- 1\. 7. 26 - 133 § 18. <sup>1</sup> Auf der Grundlage der Ausgleichsfaktoren legt das Gemeindeamt bis Ende August des Vorjahres gegenüber den politischen Gemeinden und den Schulgemeinden die Ausgleichsbeiträge bei folgenden Instrumenten fest:
 
 **Festlegung der Beiträge**
 
@@ -378,7 +392,7 @@ Nach Erhalt des Beitrags zahlt die politische Gemeinde den Schulgemeinden den Be
 
 **7**
 
-- 1\. 7. 22 - 117 § 26. Folgende Aufgaben der funktionalen Gliederung sind in die Abgeltung des geografisch-topografischen Sonderlastenausgleichs einbezogen:
+- 1\. 7. 26 - 133 § 26. Folgende Aufgaben der funktionalen Gliederung sind in die Abgeltung des geografisch-topografischen Sonderlastenausgleichs einbezogen:
 
 **Aufgaben**
 
@@ -456,7 +470,7 @@ Bei der Globalbudgetierung sind die Angaben der internen Rechnung massgebend, au
 
 **9**
 
-- 1\. 7. 22 - 117 § 33. Die Zahlung des vorläufigen Beitrags nach § 26 Abs. 2 FAG erfolgt Mitte des Ausgleichsjahres.
+- 1\. 7. 26 - 133 § 33. Die Zahlung des vorläufigen Beitrags nach § 26 Abs. 2 FAG erfolgt Mitte des Ausgleichsjahres.
 
 #### § 34
 
@@ -542,7 +556,7 @@ Bei der Globalbudgetierung sind die Angaben der internen Rechnung massgebend, au
 
 **11**
 
-- 1\. 7. 22 - 117
+- 1\. 7. 26 - 133
 
 <sup>2</sup> Die vorläufige Festlegung des Beitrags erfolgt bis Ende November des Vorjahres. Sind die Angaben der Gemeinden unvollständig oder strittig, kann das Gemeindeamt den Beitrag auf der Grundlage der vorhandenen Angaben vorläufig festlegen.
 
@@ -572,15 +586,17 @@ Bei einer Kürzung des Beitrags erfolgt die Rückzahlung der Gemeinde 30 Tage na
 
 § 43.[^42-1]
 
-[^42-1]: Aufgehoben durch RRB vom 9. März 2022 (OS 77, 237; ABl 2022-03-25). In Kraft seit 1. Juni 2022. 1. 7. 22 - 117 13
+[^42-1]: Aufgehoben durch RRB vom 9. März 2022 (OS 77, 237; ABl 2022-03-25). In Kraft seit 1. Juni 2022.
 
 ### B. Übrige Bestimmungen
+
+[^hBÜbrigeBestimmung-1]: Fassung gemäss RRB vom 25. März 2026 (OS 81, 302; ABl 2026-04-17). In Kraft seit 1. Juli 2026. 1. 7. 26 - 133 13
 
 #### § 44
 
 **Berechnung und Meldung von Daten**
 
-<sup>1</sup> Das Statistische Amt berechnet die Werte gemäss § 34 Abs. 2 und 3 FAG.
+<sup>1</sup> Das Amt für Statistik und Daten[^hBÜbrigeBestimmung-1] berechnet die Werte gemäss § 34 Abs. 2 und 3 FAG.
 
 <sup>2</sup> Für die Berechnung und Mitteilung des massgebenden Gesamtsteuerfusses gemäss § 36 Abs. 2 und 3 FAG kommen die Fristen gemäss § 14 Abs. 1 und § 16 Abs. 1 zur Anwendung.
 
@@ -666,7 +682,7 @@ im Bemessungsjahr t–2 (§ 1)
 
 **15**
 
-- 1\. 7. 22 - 117
+- 1\. 7. 26 - 133
 
 ### Formel 11 Kantonsmittel der relativen Steuerkraft (§ 8 lit. h FAG, § 9 FAV) SKR = <sup>N</sup> SKA / E
 
@@ -710,7 +726,7 @@ einer Hangneigung über 35% im Bemessungsjahr t–2
 
 **17**
 
-- 1\. 7. 22 - 117
+- 1\. 7. 26 - 133
 
 ## Weitere Fussnoten
 
