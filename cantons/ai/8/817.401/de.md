@@ -4,13 +4,12 @@ number: "817.401"
 title: Standeskommissionsbeschluss über den Gebührentarif für das Interkantonale Labor
 short: StKB Laborgebühren
 language: de
-version: 2024-07-15
-valid_until: 2026-06-30
-version_adopted: 2024-07-02
+version: 2026-07-01
+version_adopted: 2026-03-31
 adopted: 1997-01-07
 in_force: 1997-01-07
 url: "https://ai.clex.ch/app/de/texts_of_law/817.401"
-pdf: "https://ai.clex.ch/api/de/versions/2288/pdf_file"
+pdf: "https://ai.clex.ch/api/de/versions/2452/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AI. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,11 +18,11 @@ pdf: "https://ai.clex.ch/api/de/versions/2288/pdf_file"
 
 (StKB Laborgebühren)
 
-vom 07.01.1997 (Stand 15.07.2024)
+vom 07.01.1997 (Stand 01.07.2026)
 
 Die Standeskommission des Kantons Appenzell I. Rh.,
 
-gestützt auf Art. 12 Abs. 2 der Einführungsverordnung zum Lebensmittelgesetz vom 4. Dezember 2023 (EV LMG),
+gestützt auf Art. 12 Abs. 2 der Einführungsverordnung zum Lebensmittelgesetz vom 4. Dezember 2023 (EV LMG), Art. 3 der Einführungsverordnung zur Bundesgesetzgebung über Tabakprodukte und elektronische Zigaretten vom 22. Juni 2026 und Art. 7 des Einführungsgesetzes zum Bundesgesetz über den Umweltschutz vom 25. April 1993
 
 beschliesst:
 
@@ -70,11 +69,11 @@ beschliesst:
 
 #### Art. 4
 
-<sup>1</sup> Der Aufwandpunkt beträgt Fr. 2.20.
+<sup>1</sup> Der Aufwandpunkt beträgt Fr. 2.20. Das Gesundheits- und Sozialdepartement überprüft und passt diesen Wert bei Bedarf an. Allfällige Anpassungen erfolgen in Absprache mit den Partnerkantonen der Vereinbarung über eine gemeinsame Lebensmittelkontrolle der Kantone Appenzell Ausserrhoden, Appenzell Innerrhoden und Schaffhausen. Es orientiert sich dabei an den Empfehlungen des Verbandes der Kantonschemiker der Schweiz (VKCS).
 
 #### Art. 5
 
-<sup>1</sup>
+<sup>1</sup> Für Aufwendungen auf dem Gebiet des Vollzugs der Tabakproduktegesetzgebung, der Chemikaliengesetzgebung und der Verordnung über den Schutz vor Störfällen gilt dieser Tarif sinngemäss.
 
 #### Art. 6
 
