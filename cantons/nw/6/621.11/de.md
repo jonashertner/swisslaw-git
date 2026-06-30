@@ -4,13 +4,12 @@ number: "621.11"
 title: Einführungsverordnung zum Bundesgesetz über die Nationalstrassen
 short: "Kantonale Nationalstrassenverordnung, kNSV"
 language: de
-version: 2021-11-01
-corrected: 2024-03-13
-version_adopted: 2021-10-19
+version: 2026-07-01
+version_adopted: 2026-06-09
 adopted: 2021-10-19
 in_force: 2021-11-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/621.11"
-pdf: "https://gesetze.nw.ch/api/de/versions/742/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/1524/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://gesetze.nw.ch/api/de/versions/742/pdf_file"
 
 (Kantonale Nationalstrassenverordnung, kNSV)
 
-vom 19.10.2021 (Stand 01.11.2021)
+vom 19.10.2021 (Stand 01.07.2026)
 
 Der Regierungsrat von Nidwalden,
 
@@ -35,26 +34,24 @@ beschliesst:
 
 <sup>1</sup> Diese Verordnung regelt die Zuständigkeiten der kantonalen Behörden und die Verfahren gestützt auf die Bundesgesetzgebung über die Nationalstrassen[^1-1].
 
-beschliesst:
-
 [^1-1]: SR 725.11
 
 #### § 2
 
 **Verlegungs-, Kreuzungs- und Anschlussbauwerke**
 
-<sup>1</sup> Bei Verlegungs-, Kreuzungs- und Anschlussbauwerken im Zusammenhang mit Nationalstrassen gemäss Art. 45–46 NSG[^2-1] richtet sich die innerkantonale Kostenverteilung nach den Art. 51 ff. des Gesetzes über den Bau und Unterhalt der Strassen (Strassengesetz, StrG)[^2-2].
+<sup>1</sup> Bei Verlegungs-, Kreuzungs- und Anschlussbauwerken im Zusammenhang mit Nationalstrassen gemäss Art. 45 - 46 NSG[^2-1] richtet sich die innerkantonale Kostenverteilung nach Art. 41 ff. Strassengesetz (StrG)[^2-2].
 
-[^2-1]: SR 725.11
+[^2-1]: SR 725.113
 [^2-2]: NG 622.1
 
 #### § 3
 
 **Landumlegung**
 
-<sup>1</sup> Soweit die Kantone nach dem Bundesgesetz über die Nationalstrassen[^3-1] das Landumlegungsverfahren zu ordnen haben, ist Art. 36 StrG[^3-2] anwendbar.
+<sup>1</sup> Soweit die Kantone nach dem Bundesgesetz über die Nationalstrassen[^3-1] das Landumlegungsverfahren regeln, ist Art. 37 StrG[^3-2] anwendbar.
 
-[^3-1]: SR 725.11
+[^3-1]: SR 725.113
 [^3-2]: NG 622.1
 
 #### § 4
