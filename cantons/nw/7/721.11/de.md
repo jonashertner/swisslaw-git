@@ -4,13 +4,12 @@ number: "721.11"
 title: Vollzugsverordnung zum kantonalen Umweltschutzgesetz
 short: "Kantonale Umweltschutzverordnung, kUSV"
 language: de
-version: 2023-09-01
-valid_until: 2026-06-30
-version_adopted: 2023-05-16
+version: 2026-07-01
+version_adopted: 2026-06-09
 adopted: 2005-07-12
 in_force: 2005-09-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/721.11"
-pdf: "https://gesetze.nw.ch/api/de/versions/1147/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/1526/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://gesetze.nw.ch/api/de/versions/1147/pdf_file"
 
 (Kantonale Umweltschutzverordnung, kUSV)
 
-vom 12.07.2005 (Stand 01.09.2023)
+vom 12.07.2005 (Stand 01.07.2026)
 
 Der Regierungsrat von Nidwalden,
 
@@ -500,7 +499,7 @@ beschliesst:
 <tr><th>Nr.</th><th>Titel / Anlagetyp</th><th>Massgebliches Verfahren</th></tr>
 <tr><td>1</td><td>Verkehr</td><td></td></tr>
 <tr><td>11</td><td>Strassenverkehr</td><td></td></tr>
-<tr><td>11.2</td><td>Hauptstrassen, die mit Bundeshilfe ausgebaut werden</td><td>Verfahren betreffend Ausführungsprojekt (Art. 33 Strassengesetz; StrG)[^A11-1]</td></tr>
+<tr><td>11.2</td><td>Hauptstrassen, die mit Bundeshilfe ausgebaut werden</td><td>Verfahren betreffend Ausführungsprojekt (Art. 31 ff. Strassengesetz; StrG)[^A11-1]</td></tr>
 <tr><td>11.3</td><td>Andere Hochleistungs- und Hauptverkehrsstrassen (HLS und HVS)</td><td>analog Nr. 11.2</td></tr>
 <tr><td>11.4</td><td>Parkhäuser und plätze für mehr als 500 Motorwagen</td><td>Baubewilligungsverfahren (Art. 141 ff. Planungs- und Baugesetz, PBG)</td></tr>
 <tr><td>13</td><td>Schifffahrt</td><td></td></tr>
