@@ -4,11 +4,11 @@ title: "Ordonnance de l'OFAG du 29 novembre 2019 sur les mesures phytosanitaires
 short: OMP-OFAG
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/757"
 language: fr
-version: 2025-07-01
+version: 2026-07-01
 adopted: 2019-11-29
 in_force: 2020-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/757/20250701/fr/xml/fedlex-data-admin-ch-eli-cc-2019-757-20250701-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/757/20250701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/757/20260701/fr/xml/fedlex-data-admin-ch-eli-cc-2019-757-20260701-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/757/20260701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2019/757/20250701/fr"
 
 (OMP-OFAG)
 
-du 29 novembre 2019 (État le 1<sup>er</sup> juillet 2025)
+du 29 novembre 2019 (État le 1<sup>er</sup> juillet 2026)
 
 L’Office fédéral de l’agriculture (OFAG),
 
@@ -25,7 +25,7 @@ vu les art. 3, let. b, 5, al. 2, 16, 22, 23, 31, al. 1, 32, 34 et 36 de l’ordo
 
 arrête:
 
-[^ingress-1]: [RS 916.20](https://fedlex.data.admin.ch/eli/cc/2018/682)
+[^ingress-1]: [RS 916.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10651)
 [^ingress-2]: Nouvelle teneur selon le ch. I de l’O de l’OFAG du 26 mai 2025, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 397](https://fedlex.data.admin.ch/eli/oc/2025/397)).
 
 #### Art. 1
@@ -57,7 +57,7 @@ Les mesures contre l’introduction et la propagation des organismes de quaranta
 Les mesures particulières qui doivent être prises en cas de risque phytosanitaire accru pour éviter l’introduction et la propagation des organismes de quarantaine visés à l’annexe 1 de l’ordonnance du DEFR et du DETEC du 14 novembre 2019 relative à l’ordonnance sur la santé des végétaux (OSaVé-DEFR-DETEC)[^4-2] sont indiquées à l’annexe 4.
 
 [^4-1]: Nouvelle teneur selon le ch. I de l’O de l’OFAG du 25 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 832](https://fedlex.data.admin.ch/eli/oc/2021/832)).
-[^4-2]: [RS 916.201](https://fedlex.data.admin.ch/eli/cc/2019/787)
+[^4-2]: [RS 916.201](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10652)
 
 #### Art. 5
 
@@ -74,7 +74,7 @@ Les marchandises en provenance de certains pays tiers pour lesquelles une interd
 Les mesures prises par des pays tiers dont il est reconnu qu’elles assurent le même niveau de protection phytosanitaire que le respect des conditions fixées à l’annexe 7 OSaVé-DEFR-DETEC[^5a-2] sont énumérées à l’annexe 6.
 
 [^5a-1]: Introduit par le ch. I de l’O de l’OFAG du 26 mai 2025, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 397](https://fedlex.data.admin.ch/eli/oc/2025/397)).
-[^5a-2]: [RS 916.201](https://fedlex.data.admin.ch/eli/cc/2019/787)
+[^5a-2]: [RS 916.201](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10652)
 
 #### Art. 6
 
@@ -164,9 +164,9 @@ Lorsque la présente ordonnance renvoie à des actes juridiques de l’UE qui eu
 <tr><td>Décision d’exécution 2014/917/UE de la Commission du 15 décembre 2014 portant modalités d’application de la directive 2000/29/CE du Conseil en ce qui concerne la notification de la présence d’organismes nuisibles et des mesures prises ou envisagées par les États membres, JO L 360 du 17.12.2014, p. 59.</td><td>Art. 9, al. 1, de l’annexe 4 de l’Accord du 21 juin 1999 entre la Confédération suisse et la Communauté européenne relatif aux échanges de produits agricoles[^annex1-lvlu1-lvl2-3]</td></tr>
 </table>
 
-[^annex1-lvlu1-lvl2-1]: [RS 916.201](https://fedlex.data.admin.ch/eli/cc/2019/787)
-[^annex1-lvlu1-lvl2-2]: [RS 0.916.20](https://fedlex.data.admin.ch/eli/cc/1997/1515_1515_1515)
-[^annex1-lvlu1-lvl2-3]: [RS 0.916.026.81](https://fedlex.data.admin.ch/eli/cc/2002/323)
+[^annex1-lvlu1-lvl2-1]: [RS 916.201](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10652)
+[^annex1-lvlu1-lvl2-2]: [RS 0.916.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4047)
+[^annex1-lvlu1-lvl2-3]: [RS 0.916.026.81](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4010)
 
 Annexe 2[^t-2]
 
@@ -174,38 +174,19 @@ Annexe 2[^t-2]
 
 ## Marchandises faisant l’objet d’une dérogation temporaire à l’interdiction d’importation, conditions d’importation et durée de la levée de ladite interdiction
 
-[^t-2]: Mise à jour par le ch. I de l’O de l’OFAG du 8 nov. 2022, ([RO 2022 715](https://fedlex.data.admin.ch/eli/oc/2022/715)) et le ch. II al. 1 de l’O de l’OFAG du 26 mai 2025, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 397](https://fedlex.data.admin.ch/eli/oc/2025/397)).
+[^t-2]: Nouvelle teneur selon le ch. I al. 1 de l’O de l’OFAG du 29 mai 2026, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2026 313](https://fedlex.data.admin.ch/eli/oc/2026/313)).
 
-### 1 Pommes de terre originaires d’Égypte
+### 1 Tubercules de *Solanum tuberosum* L., autres que ceux destinés à la plantation, originaires d’Égypte
 
 ### 1.1 Levée temporaire de l’interdiction d’importation
 
-L’importation de tubercules de *Solanum tuberosum* L. (pommes de terre) originaires d’Égypte fait l’objet d’une dérogation temporaire à l’interdiction d’importation si les conditions suivantes sont remplies:
+Les tubercules de *Solanum tuberosum* L., autres que ceux destinés à la plantation, originaires d’Égypte font l’objet d’une dérogation temporaire à l’interdiction d’importation si les conditions des art. 1 à 8 et des annexes I et II du règlement d’exécution (UE) 2025/1289[^annex2-lvlu1-lvl1-lvl11-1] sont remplies.
 
-- a. les pommes de terre ne sont pas destinées à la plantation;
-- b. elles proviennent de zones qui figurent sur la liste des zones indemnes fournie par l’Égypte, établie conformément aux prescriptions de la norme internationale pour les mesures phytosanitaires n<sup>o</sup> 4 (NIMP n<sup>o</sup> 4)[^annex2-lvlu1-lvl1-lvl11-1] de l’Organisation des Nations Unies pour l’alimentation et l’agriculture (FAO) et reconnues en tant que telles par l’Union européenne en vertu de l’art. 1, al. 2, de la décision d’exécution 2011/787/UE[^annex2-lvlu1-lvl1-lvl11-2];
-- c. elles répondent aux exigences fixées dans l’annexe, ch. 1 et 2, de la décision d’exécution 2011/787/UE en plus de celles fixées pour les tubercules de *Solanum tuberosum* L. dans l’annexe 3 OSaVé-DEFR-DETEC[^annex2-lvlu1-lvl1-lvl11-3].
+[^annex2-lvlu1-lvl1-lvl11-1]: Règlement d’exécution (UE) 2025/1289 de la Commission du 2 juillet 2025 établissant des mesures temporaires relatives aux tubercules de Solanum tuberosum L., autres que ceux destinés à la plantation, originaires d’Égypte afin d’éviter l’introduction de Ralstonia solanacearum (Smith) Yabuuchi et al. emend. Safni et al. sur le territoire de l’Union, modifiant le règlement d’exécution (UE) 2019/2072 et abrogeant la décision d’exécution 2011/787/UE, version du JO L, 2025/1289, 3.7.2025.
 
-[^annex2-lvlu1-lvl1-lvl11-1]: La norme NIMP n<sup>o</sup> 4 «Exigences pour l’établissement de zones indemnes» (version du 29.5.2017) peut être consultée gratuitement sous www.ippc.int/fr/ &gt; Activités de base &gt; Normes et mises en œuvre &gt; Standard Setting &gt; Adopted Standards &gt; ISPM 04 Exigences pour l’établissement de zones indemnes &gt; Fr.
-[^annex2-lvlu1-lvl1-lvl11-2]: Décision d’exécution 2011/787/UE de la Commission du 29 novembre 2011 autorisant les États membres à prendre provisoirement des mesures d’urgence en vue de se protéger contre la propagation de *Ralstonia solanacearum* (Smith) Yabuuchi *et al.* en provenance d’Égypte, version du JO L 319 du 2.12.2011, p. 112.
-[^annex2-lvlu1-lvl1-lvl11-3]: [RS 916.201](https://fedlex.data.admin.ch/eli/cc/2019/787)
+### 1.2 Examen de la dérogation à l’interdiction d’importation
 
-### 1.2 Exclusion de la liste des zones indemnes
-
-Si une contamination par *Ralstonia solanacearum* (Smith) Yabuuchi *et al.* est constatée lors des contrôles réalisés en Égypte avant l’exportation conformément à l’annexe, ch. 2.1, de la décision d’exécution 2011/787/UE ou lors du contrôle à l’importation conformément au ch. 1.4, l’interdiction d’importation est rétablie pour les pommes de terre provenant de la zone concernée au moins jusqu’à ce que cette zone soit de nouveau considérée comme indemne sur la base des conclusions des enquêtes réalisées par l’Égypte.
-
-### 1.3 Annonce d’un envoi d’importation
-
-La date prévue de l’arrivée d’un envoi de pommes de terre originaires d’Égypte, la quantité qu’il comporte ainsi que le lieu de débarquement dans l’UE doivent être communiqués au Service phytosanitaire fédéral (SPF) au moins une semaine à l’avance.
-
-### 1.4 Contrôle à l’importation
-
-- 1\.4.1 Lors du contrôle prescrit par l’art. 43, al. 1, OSaVé, les pommes de terre originaires d’Égypte sont soumises aux inspections et tests conformément aux ch. 4 et 5 de l’annexe de la décision d’exécution 2011/787/UE.
-- 1\.4.2 Les envois de pommes de terre pour lesquels il ressort des documents d’accompagnement visés à l’art. 46, al. 2, OSaVé qu’ils ont été soumis à un contrôle phytosanitaire complet dans l’UE peuvent être importés en Suisse sans contrôle par le SPF.
-
-### 1.5 Durée de la levée de l’interdiction d’importation
-
-La dérogation à l’interdiction d’importation est examinée au plus tard le 31 décembre 2026.
+La dérogation à l’interdiction d’importation est examinée au plus tard le 30 novembre 2029.
 
 Annexe 3[^t-3]
 
@@ -294,8 +275,8 @@ Annexe 4[^t-4]
 
 [^annex4-lvlu1-1]
 
-[^t-4]: Mise à jour par le ch. I de l’O de l’OFAG du 30 oct. 2020 ([RO 2020 4817](https://fedlex.data.admin.ch/eli/oc/2020/866)), le ch. II al. 1 de l’O de l’OFAG du 25 nov. 2021 ([RO 2021 832](https://fedlex.data.admin.ch/eli/oc/2021/832)), le ch. I de l’O de l’OFAG du 8 nov. 2022 ([RO 2022 715](https://fedlex.data.admin.ch/eli/oc/2022/715)) et le ch. II al. 1 de l’O de l’OFAG du 26 mai 2025, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 397](https://fedlex.data.admin.ch/eli/oc/2025/397)).
-[^annex4-lvlu1-1]: [RS 916.201](https://fedlex.data.admin.ch/eli/cc/2019/787)
+[^t-4]: Mise à jour par le ch. I de l’O de l’OFAG du 30 oct. 2020 ([RO 2020 4817](https://fedlex.data.admin.ch/eli/oc/2020/866)), le ch. II al. 1 de l’O de l’OFAG du 25 nov. 2021 ([RO 2021 832](https://fedlex.data.admin.ch/eli/oc/2021/832)), le ch. I de l’O de l’OFAG du 8 nov. 2022 ([RO 2022 715](https://fedlex.data.admin.ch/eli/oc/2022/715)), le ch. II al. 1 de l’O de l’OFAG du 26 mai 2025 ([RO 2025 397](https://fedlex.data.admin.ch/eli/oc/2025/397)) et le ch. I al. 2 de l’O de l’OFAG du 29 mai 2026, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2026 313](https://fedlex.data.admin.ch/eli/oc/2026/313)).
+[^annex4-lvlu1-1]: [RS 916.201](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10652)
 
 ### 1 …
 
@@ -303,9 +284,9 @@ Annexe 4[^t-4]
 
 ### 2.1 Mesures contre l’introduction et la propagation
 
-Les art. 1, 2, al. 1 à 7, 3 à 34 et les annexes 1 à 4 du règlement d’exécution (UE) 2020/1201[^annex4-lvlu1-lvl2-lvl21-1] s’appliquent afin de prévenir l’introduction et la propagation de *Xylella fastidiosa* (Wells et al.).
+Les art. 1, 2, al. 1 à 7, 3 à 34 et les annexes 1 à 4 du règlement d’exécution (UE) 2020/1201[^annex4-lvlu1-lvl2-lvl21-1] s’appliquent afin de prévenir l’introduction et la propagation de *Xylella* *fastidiosa* (Wells et al.).
 
-[^annex4-lvlu1-lvl2-lvl21-1]: Règlement d’exécution (UE) 2020/1201 de la Commission du 14 août 2020 relatif à des mesures visant à prévenir l’introduction et la dissémination dans l’Union de *Xylella fastidiosa* (Wells et al.), JO L 269 du 17.8.2020, p. 2; modifié en dernier lieu par le règlement d’exécution (UE) 2024/2507, JO L, 2024/2507, 27.9.2024.
+[^annex4-lvlu1-lvl2-lvl21-1]: Règlement d’exécution (UE) 2020/1201 de la Commission du 14 août 2020 relatif à des mesures visant à prévenir l’introduction et la dissémination dans l’Union de *Xylella fastidiosa* (Wells et al.), JO L 269 du 17.8.2020, p. 2; modifié en dernier lieu par le règlement d’exécution (UE) 2025/2231, JO L, 2025/2231, 3.11.2025.
 
 ### 2.2 Dispositions spéciales
 
@@ -326,7 +307,7 @@ Les art. 1, 2, al. 1 à 7, 3 à 34 et les annexes 1 à 4 du règlement d’exéc
 
 Les art. 1 à 4, 5 al. 2, 6, 8, 9 et 11 et les annexes I à V du règlement d’exécution (UE) 2022/632[^annex4-lvlu1-lvl3-lvl31-1] s’appliquent afin de prévenir l’introduction et la propagation de *Phyllosticta citricarpa* (McAlpine) Van der Aa.
 
-[^annex4-lvlu1-lvl3-lvl31-1]: Règlement d’exécution (UE) 2022/632 de la Commission du 13 avril 2022 établissant des mesures temporaires à l’égard de certains fruits originaires d’Argentine, du Brésil, d’Afrique du Sud, d’Uruguay et du Zimbabwe visant à éviter l’introduction et la propagation sur le territoire de l’Union de l’organisme nuisible *Phyllosticta citricarpa* (McAlpine) Van der Aa, version du JO L 117 du 19.4.2022, p. 11.
+[^annex4-lvlu1-lvl3-lvl31-1]: Règlement d’exécution (UE) 2022/632 de la Commission du 13 avril 2022 établissant des mesures temporaires à l’égard de certains fruits originaires d’Argentine, du Brésil, d’Afrique du Sud, d’Uruguay et du Zimbabwe visant à éviter l’introduction et la propagation sur le territoire de l’Union de l’organisme nuisible *Phyllosticta citricarpa* (McAlpine) Van der Aa, version du JO L 117 du 19.4.2022, p. 11; modifié en dernier lieu par le règlement d’exécution (UE) 2025/505, JO L, 2025/505, 20.3.2025.
 
 ### 3.2 Dispositions spéciales
 
@@ -339,7 +320,7 @@ Les art. 1 à 4, 5 al. 2, 6, 8, 9 et 11 et les annexes I à V du règlement d’
 
 Les art. 1 à 12 et les annexes 1 et 2 du règlement d’exécution (UE) 2023/1134[^annex4-lvlu1-lvl4-lvl41-1] s’appliquent afin de prévenir l’introduction et la propagation de *Spodoptera frugiperda* (Smith).
 
-[^annex4-lvlu1-lvl4-lvl41-1]: Règlement d’exécution (UE) 2023/1134 de la Commission du 8 June 2023 relatif aux mesures destinées à éviter l’introduction, l’établissement et la propagation de *Spodoptera frugiperda* (Smith) sur le territoire de l’Union, modifiant le règlement d’exécution (UE) 2019/2072 et abrogeant la décision d’exécution (UE) 2018/638, version du JO L 149 du 9.6.2023, p. 62.
+[^annex4-lvlu1-lvl4-lvl41-1]: Règlement d’exécution (UE) 2023/1134 de la Commission du 8 juin 2023 relatif aux mesures destinées à éviter l’introduction, l’établissement et la propagation de *Spodoptera frugiperda* (Smith) sur le territoire de l’Union, modifiant le règlement d’exécution (UE) 2019/2072 et abrogeant la décision d’exécution (UE) 2018/638, version du JO L 149 du 9.6.2023, p. 62; modifié en dernier lieu par le règlement d’exécution (UE) 2025/2408, JO L, 2025/2408, 2.12.2025.
 
 ### 4.2 Dispositions spéciales
 
@@ -429,19 +410,134 @@ Les art. 1 à 9 et les annexes I à IV du règlement d’exécution (UE) 2022/11
 - 9\.2.2 L’établissement de zones délimitées selon l’art. 5 du règlement d’exécution (UE) 2022/1195 est réalisé avec le concours du SPF.
 - 9\.2.3 Les prescriptions et délais fixés par le SPF s’appliquent aux rapports selon l’art. 3, al. 3, et 8, al. 3, du règlement d’exécution (UE) 2020/1195. Le SPF communique les prescriptions et les délais aux cantons sous une forme appropriée.
 
+### 10 *Popillia japonica* Newman
+
+### 10.1 Mesures d’éradication et de prévention de la propagation
+
+- 10\.1.1 Enquêtes à l’intérieur et à l’extérieur des zones délimitées
+
+<sup>1</sup> Le service cantonal compétent effectue chaque année des enquêtes basés sur les risques concernant la présence de *Popillia japonica* Newman, conformément au mandat de surveillance du territoire confié au SPF.
+
+<sup>2</sup> Les prescriptions et les délais fixés par le SPF s’appliquent à l’établissement des rapports sur les enquêtes annuelles effectués.
+
+- 10\.1.2 Création de zones délimitées
+
+<sup>1</sup> Si la présence de *Popillia japonica* Newman est officiellement confirmée, le service cantonal compétent détermine dès que possible l’étendue de l’infestation au moyen de l’utilisation de pièges contenant des appâts pour *Popillia japonica* Newman et établit immédiatement une zone délimitée en vue de l’éradication du ravageur.
+
+<sup>2</sup> La zone délimitée se compose:
+
+- a. d’un foyer d’infestation comprenant la zone dans laquelle la présence de *Popillia* *japonica* Newman a été officiellement confirmée, entouré d’une zone d’une largeur d’au moins 1 km;
+- b. d’une zone tampon d’une largeur d’au moins 5 km au-delà de la limite du foyer d’infestation;
+
+<sup>3</sup> Lors de la délimitation de la zone délimitée, le service cantonal compétent tient compte des principes scientifiques, de la biologie de *Popillia japonica* Newman, de l’étendue de l’infestation, de la répartition particulière des plantes hôtes dans la zone concernée, de la topographie et de la preuve de l’établissement de *Popillia japonica* Newman.
+
+<sup>4</sup> Il peut déroger aux dispositions visées à l’al. 2 sur la base des critères énoncés à l’al. 3 et en accord avec l’OFAG.
+
+<sup>5</sup> Avec le soutien du SPF, il sensibilise le public, au sein des zones délimitées, à la menace que représente *Popillia japonica* Newman et l’informe des mesures prises pour l’éradiquer et empêcher sa propagation au-delà de ces zones. Les services cantonaux compétents et le SPF veillent à ce que le public et les exploitations soient informés de la délimitation des zones concernées et des mesures prises.
+
+- 10\.1.3 Dérogation à l’obligation d’établir des zones délimitées
+
+Le service cantonal compétente peut décider de ne pas établir de zone délimitée avec l’accord de l’OFAG si les conditions suivantes sont remplies:
+
+- a. il existe des preuves que *Popillia japonica* Newman ne s’est pas reproduit;
+- b.
+
+  il existe des preuves:
+
+  - 1\. que *Popillia japonica* Newman a été introduit dans la zone avec les végétaux sur lesquels elle a été trouvée et que ces végétaux étaient infestés avant leur introduction dans la zone concernée, ou
+  - 2\. il s’agit d’un cas isolé pour lequel aucun établissement n’est à craindre.
+
+- 10\.1.4 Levée de la délimitation
+
+La délimitation peut être levée si, sur la base des enquêtes effectués conformément au ch. 10.1.1, *Popillia japonica* Newman n’a pas été détecté dans la zone délimitée pendant au moins trois années consécutives.
+
+- 10\.1.5 Mesures visant à éradiquer et à empêcher la propagation
+
+<sup>1</sup> Le services cantonal compétent prend les mesures suivantes dans les foyers d’infestation en vue de l’éradication:
+
+- a.
+
+  contre les adultes de *Popillia japonica* Newman, toutes les mesures pertinentes et efficaces pour la zone concernée afin d’atteindre l’objectif, mais au moins l’une des mesures suivantes:
+
+  - 1\. capture massive à l’aide de pièges et d’appâts,
+  - 2\. stratégie d’attraction et d’élimination,
+  - 3\. traitement des plantes avec un insecticide,
+  - 4\. lutte biologique;
+
+- b.
+
+  contre les larves de *Popillia japonica* Newman, toutes les mesures pertinentes et efficaces pour la zone concernée afin d’atteindre l’objectif, mais au moins une combinaison de deux des mesures suivantes:
+
+  - 1\. traitements appropriés du sol dans lequel se trouvent les larves de *Popillia japonica* Newman,
+  - 2\. lutte biologique, par exemple, à l’aide de nématodes entomopathogènes,
+  - 3\. interdiction d’arroser les espaces verts pendant la période où les adultes de *Popillia japonica* Newman sortent du sol et pendant la période de vol du 1<sup>er</sup> juin au 30 septembre,
+  - 4\. travail mécanique du sol par fraisage afin de détruire les larves à des moments appropriés de l’année.
+
+<sup>2</sup> Il prend les mesures suivantes dans les foyers d’infestation pour lutter contre la propagation:
+
+- a.
+
+  des adultes de *Popillia japonica* Newman du 1<sup>er</sup> juin au 30 septembre: interdiction de déplacer du matériel végétal non traité issu des travaux d’entretien de végétaux en dehors de la zone infestée, à l’exception:
+
+  - 1\. du matériel végétal transporté dans des véhicules fermés ou de toute autre manière à l’abri des insectes et stocké et transformé dans une installation fermée située en dehors de la zone infestée,
+  - 2\.
+
+    du matériel végétal qui, avant d’être transporté hors de la zone infestée:
+
+    - – est broyé en morceaux d’une taille maximale de 5 cm, ou
+    - – est soumis à un traitement qui offre une sécurité phytosanitaire comparable à celle du broyage et qui a été autorisé par le service cantonal compétent en accord avec le SPF;
+
+- b.
+
+  des larves de *Popillia japonica* Newman:
+
+  - 1\.
+
+    interdiction de transporter la couche superficielle du sol, jusqu’à une profondeur de 30 cm, hors du foyer d’infestation, des dérogations pouvant être accordées sur demande par le service cantonal compétent, à condition qu’il soit garanti:
+
+    - – que le sol est stocké sous la surveillance du service cantonal compétent, de manière à exclure toute propagation de *Popillia japonica* Newman, par exemple en le recouvrant afin d’empêcher les coléoptères de s’échapper, et que toutes les mesures soient prises pendant le transport pour éviter toute propagation de *Popillia japonica* Newman, ou
+    - – que le sol a été traité de manière à éliminer définitivement les œufs, les larves et les nymphes,
+
+  - 2\. interdiction de transporter du compost végétal provenant d’installations qui ne sont pas équipées de cuves de fermentation à température contrôlée et de systèmes de criblage du compost final hors du foyer d’infestation.
+
+<sup>3</sup> Il est interdit de transporter et de commercialiser hors du foyer d’infestation des rouleaux de gazon qui y ont été produits.
+
+<sup>4</sup> Le transport et la mise en circulation de graminées ornementales (*Poaceae*) dont les racines sont en terre ou dans un substrat de culture composé de matières organiques solides ne sont autorisés que si ces graminées ont été produites et stockées exclusivement dans une infrastructure anti-insectes (filet anti-insectes avec mailles de 5 mm au maximum). La sous-famille des *Bambusoideae* fait exception; les conditions prévues à l’al. 5 s’appliquent à celle-ci.
+
+<sup>5</sup> Le transport et la mise en circulation de tous les autres végétaux dont les racines sont dans la terre ou dans un substrat de culture composé de matières organiques solides, à l’exception des plantes aquatiques et des plantes issues de cultures tissulaires, ne sont autorisés que si l’une des conditions suivantes est remplie:
+
+- a. la production et le stockage temporaire des végétaux ont lieu dans une infrastructure anti-insectes (fenêtres et portes avec toile anti-insectes mailles de 5 mm au maximum);
+- b. les racines sont lavées et la terre ou le milieu de culture est complètement enlevé;
+- c. les pots de cultures sont désherbés du 1<sup>er</sup> juin au 30 septembre; les pots sont posés sur une surface étanche ne laissant pas passer les larves de scarabées et les racines, ou sur des tables de travail surélevées;
+- d. les végétaux en plein champ sont cultivés de manière à ce que, du 1<sup>er</sup> juin au 30 septembre, le sol recouvrant leur motte soit exempt de mauvaises herbes.
+
+<sup>6</sup> L’absence de mauvaises herbes dans la terre ou le substrat de culture visé à l’al. 5 doit être garantie du 1<sup>er</sup> juin au 30 septembre, y compris en cas de stockage temporaire des plantes, tant que celles-ci se trouvent dans le foyer d’infestation.
+
+<sup>7</sup> Les mesures prévues à l’al. 5 ne s’appliquent que si le transport ou la mise en circulation des végétaux est prévu dans les deux prochaines années.
+
+<sup>8</sup> Si l’exploitation est agréée pour le passeport phytosanitaire conformément aux art. 76 ou 89 OSaVé et qu’elle se trouve dans un foyer d’infestation, le sol est en outre échantillonné une fois par an, lors d’un contrôle officiel, jusqu’à une profondeur de 30 cm, à la recherche de *Popillia japonica* Newman.
+
+<sup>9</sup> Le service cantonal compétent garantit que le matériel végétal non traité issu des travaux d’entretien de végétaux n’est transporté hors de la zone tampon que s’il a été traité de manière à exclure tout risque de propagation de *Popillia japonica* Newman.
+
+<sup>10</sup> Il peut, en accord avec l’OFAG, déroger aux mesures ou interdictions prévues aux al. 1 à 9, pour autant qu’il prenne des mesures compensatoires conformes à l’état actuel des connaissances scientifiques.
+
+<sup>11</sup> Si les mesures prévues aux al. 1 à 3 concernent des exploitations autorisées au sens de l’art. 76 OSaVé, la compétence et la mise en œuvre des mesures incombent au SPF et non au service cantonal compétent. L’art. 13, al. 4, let. a et b, OSaVé est réservé.
+
+<sup>12</sup> Si plusieurs cantons ou un pays voisin sont concernés par une zone délimitée, les mesures mentionnées aux al. 1 à 3 sont ordonnées par le service cantonal compétent, en accord avec le SPF.
+
 Annexe 5[^t-5]
 
 (art. 5)
 
 ## Marchandises en provenance de certains pays tiers pour lesquelles une interdiction d’importer à titre de précaution s’applique en raison d’un risque phytosanitaire élevé
 
-[^t-5]: Introduite par le ch. II al. 2 de l’O de l’OFAG du 10 juil. 2020 ([RO 2020 3371](https://fedlex.data.admin.ch/eli/oc/2020/577)). Nouvelle teneur selon le ch. II al. 2 de l’O de l’OFAG du 26 mai 2025, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 397](https://fedlex.data.admin.ch/eli/oc/2025/397)).
+[^t-5]: Introduite par le ch. II al. 2 de l’O de l’OFAG du 10 juil. 2020 ([RO 2020 3371](https://fedlex.data.admin.ch/eli/oc/2020/577)). Nouvelle teneur selon le ch. II al. 2 de l’O de l’OFAG du 26 mai 2025 ([RO 2025 397](https://fedlex.data.admin.ch/eli/oc/2025/397)). Mise à jour par le ch. I al. 2 de l’O de l’OFAG du 29 mai 2026, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2026 313](https://fedlex.data.admin.ch/eli/oc/2026/313)).
 
 - 1 Les marchandises pour lesquelles une interdiction d’importer à titre de précaution s’applique sont énumérées dans l’annexe du règlement d’exécution (UE) 2018/2019[^annex5-lvlu1-1].
-- 2 Les marchandises faisant l’objet d’une dérogation à l’interdiction d’importation conformément à l’annexe du règlement d’exécution (UE) 2018/2019 et qui sont énumérées à l’annexe du règlement d’exécution (UE) 2020/1213[^annex5-lvlu1-2] ne font l’objet d’une telle dérogation que si les mesures énumérées dans le règlement d’exécution (UE) 2020/1213 ont été prises.
+- 2 Les marchandises faisant l’objet d’une dérogation à l’interdiction d’importation conformément à l’annexe du règlement d’exécution (UE) 2018/2019 et qui sont énumérées à l’annexe du règlement d’exécution (UE) 2020/1213 ne font l’objet d’une telle dérogation que si les mesures énumérées dans le règlement d’exécution (UE) 2020/1213[^annex5-lvlu1-2].
 
-[^annex5-lvlu1-1]: Règlement d’exécution (UE) 2018/2019 de la Commission du 18 décembre 2018 établissant une liste provisoire de végétaux, produits végétaux ou autres objets à haut risque, au sens de l’art. 42 du règlement (UE) 2016/2031 et une liste des végétaux pour lesquels un certificat phytosanitaire n’est pas exigé pour l’introduction sur le territoire de l’Union, au sens de l’art. 73 dudit règlement, JO L 323 du 19.12.2018, p. 10; modifié en dernier lieu par le règlement d’exécution (UE) 2025/312, JO L, 2025/312, 17.2.2025.
-[^annex5-lvlu1-2]: Règlement d’exécution (UE) 2020/1213 de la Commission du 21 août 2020 concernant les mesures phytosanitaires préalables à l’introduction dans l’Union de certains végétaux, produits végétaux et autres objets ayant été retirés de l’annexe du règlement d’exécution (UE) 2018/2019, JO L 275 du 24.8.2020, p. 5; modifié en dernier lieu par le règlement d’exécution (UE) 2024/2931, JO L, 2024/2931, 28 11. 2024.
+[^annex5-lvlu1-1]: Règlement d’exécution (UE) 2018/2019 de la Commission du 18 décembre 2018 établissant une liste provisoire de végétaux, produits végétaux ou autres objets à haut risque, au sens de l’art. 42 du règlement (UE) 2016/2031 et une liste des végétaux pour lesquels un certificat phytosanitaire n’est pas exigé pour l’introduction sur le territoire de l’Union, au sens de l’art. 73 dudit règlement, JO L 323 du 19.12.2018, p. 10; modifié en dernier lieu par le règlement d’exécution (UE) 2026/152, JO L, 2026/152, 23.1.2026.
+[^annex5-lvlu1-2]: Règlement d’exécution (UE) 2020/1213 de la Commission du 21 août 2020 concernant les mesures phytosanitaires préalables à l’introduction dans l’Union de certains végétaux, produits végétaux et autres objets ayant été retirés de l’annexe du règlement d’exécution (UE) 2018/2019, JO L 275 du 24.8.2020, p. 5; modifié en dernier lieu par le règlement d’exécution (UE) 2026/152, JO L, 2026/152, 23.1.2026.
 
 Annexe 6[^t-6]
 
@@ -452,7 +548,7 @@ Annexe 6[^t-6]
 [^annex6-lvlu1-1]
 
 [^t-6]: Introduite par le ch. II al. 3 de l’O de l’OFAG du 26 mai 2025, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 397](https://fedlex.data.admin.ch/eli/oc/2025/397)).
-[^annex6-lvlu1-1]: [RS 916.201](https://fedlex.data.admin.ch/eli/cc/2019/787)
+[^annex6-lvlu1-1]: [RS 916.201](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10652)
 
 ### 1 Mesures concernant les fruits de *Citrus sinensis* Pers. originaires d’Israël compte tenu des risques liés à *Thaumatotibia leucotreta*
 

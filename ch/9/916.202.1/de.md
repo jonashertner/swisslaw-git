@@ -4,11 +4,11 @@ title: Verordnung des BLW vom 29. November 2019 über phytosanitäre Massnahmen 
 short: VpM-BLW
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/757"
 language: de
-version: 2025-07-01
+version: 2026-07-01
 adopted: 2019-11-29
 in_force: 2020-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/757/20250701/de/xml/fedlex-data-admin-ch-eli-cc-2019-757-20250701-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/757/20250701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/757/20260701/de/xml/fedlex-data-admin-ch-eli-cc-2019-757-20260701-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/757/20260701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2019/757/20250701/de"
 
 (VpM-BLW)
 
-vom 29. November 2019 (Stand am 1. Juli 2025)
+vom 29. November 2019 (Stand am 1. Juli 2026)
 
 Das Bundesamt für Landwirtschaft (BLW),
 
@@ -25,7 +25,7 @@ gestützt auf die Artikel 3 Buchstabe b, 5 Absatz 2, 16, 22, 23, 31 Absatz 1, 32
 
 verordnet:
 
-[^ingress-1]: [SR 916.20](https://fedlex.data.admin.ch/eli/cc/2018/682)
+[^ingress-1]: [SR 916.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10651)
 [^ingress-2]: Fassung gemäss Ziff. I der V des BLW vom 26. Mai 2025, in Kraft seit 1. Juli 2025 ([AS 2025 397](https://fedlex.data.admin.ch/eli/oc/2025/397)).
 
 #### Art. 1
@@ -57,7 +57,7 @@ Die Massnahmen gegen die Einschleppung und Ausbreitung von potenziellen Quarant�
 Die besonderen Massnahmen, die bei erhöhtem phytosanitärem Risiko gegen die Einschleppung und Ausbreitung von Quarantäneorganismen nach Anhang 1 der Verordnung des WBF und des UVEK vom 14. November 2019[^4-2] zur Pflanzengesundheitsverordnung (PGesV-WBF-UVEK) ergriffen werden, sind in Anhang 4 aufgeführt.
 
 [^4-1]: Fassung gemäss Ziff. I der V des BLW vom 25. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 832](https://fedlex.data.admin.ch/eli/oc/2021/832)).
-[^4-2]: [SR 916.201](https://fedlex.data.admin.ch/eli/cc/2019/787)
+[^4-2]: [SR 916.201](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10652)
 
 #### Art. 5
 
@@ -74,7 +74,7 @@ Die Waren aus bestimmten Drittländern, für die aufgrund eines hohen phytosanit
 Die von Drittländern getroffenen Massnahmen, für die anerkannt wird, dass sie zum gleichen phytosanitären Schutzniveau führen wie die Erfüllung der in Anhang 7 PGesV-WBF-UVEK[^5a-2] festgelegten Voraussetzungen, sind in Anhang 6 aufgeführt.
 
 [^5a-1]: Eingefügt durch Ziff. I der V des BLW vom 26. Mai 2025, in Kraft seit 1. Juli 2025 ([AS 2025 397](https://fedlex.data.admin.ch/eli/oc/2025/397)).
-[^5a-2]: [SR 916.201](https://fedlex.data.admin.ch/eli/cc/2019/787)
+[^5a-2]: [SR 916.201](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10652)
 
 #### Art. 6
 
@@ -163,9 +163,9 @@ Wird in dieser Verordnung auf EU-Rechtsakte verwiesen, die ihrerseits auf andere
 <tr><td colspan="2">Durchführungsbeschluss 2014/917/EU der Kommission vom 15. Dezember 2014 mit Durchführungsvorschriften für die Richtlinie 2000/29/EG des Rates betreffend die Meldung des Vorkommens von Schadorganismen und der von den Mitgliedstaaten ergriffenen oder beabsichtigten Massnahmen, ABl. L 360 vom 17.12.2014, S. 59.</td><td colspan="2">Art. 9 Abs. 1 von Anhang 4 des Abkommens vom 21. Juni 1999[^annex1-lvlu1-lvl2-3] zwischen der Schweizerischen Eidgenossenschaft und der Europäischen Gemeinschaft über den Handel mit landwirtschaftlichen Erzeugnissen</td></tr>
 </table>
 
-[^annex1-lvlu1-lvl2-1]: [SR 916.201](https://fedlex.data.admin.ch/eli/cc/2019/787)
-[^annex1-lvlu1-lvl2-2]: [SR 0.916.20](https://fedlex.data.admin.ch/eli/cc/1997/1515_1515_1515)
-[^annex1-lvlu1-lvl2-3]: [SR 0.916.026.81](https://fedlex.data.admin.ch/eli/cc/2002/323)
+[^annex1-lvlu1-lvl2-1]: [SR 916.201](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10652)
+[^annex1-lvlu1-lvl2-2]: [SR 0.916.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4047)
+[^annex1-lvlu1-lvl2-3]: [SR 0.916.026.81](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4010)
 
 Anhang 2[^t-2]
 
@@ -173,38 +173,19 @@ Anhang 2[^t-2]
 
 ## Vorübergehend vom Einfuhrverbot ausgenommene Waren, Einfuhrbedingungen und Dauer der Aufhebung des Einfuhrverbots
 
-[^t-2]: Bereinigt gemäss Ziff. I der V des BLW vom 8. Nov. 2022 ([AS 2022 715](https://fedlex.data.admin.ch/eli/oc/2022/715)) und Ziff. II Abs. 1 der V des BLW vom 26. Mai 2025, in Kraft seit 1. Juli 2025 ([AS 2025 397](https://fedlex.data.admin.ch/eli/oc/2025/397)).
+[^t-2]: Fassung gemäss Ziff. I Abs. 1 der V des BLW vom 29. Mai 2026, in Kraft seit 1. Juli 2026 ([AS 2026 313](https://fedlex.data.admin.ch/eli/oc/2026/313)).
 
-### 1 Kartoffeln aus Ägypten
+### 1 Nicht zum Anpflanzen bestimmte Knollen von *Solanum tuberosum* L. aus Ägypten
 
 ### 1.1 Vorübergehende Ausnahme vom Einfuhrverbot
 
-Die Einfuhr von Knollen von *Solanum tuberosum* L. (Kartoffeln) mit Ursprung in Ägypten ist vorübergehend vom Einfuhrverbot ausgenommen, wenn die Kartoffeln:
+Nicht zum Anpflanzen bestimmte Knollen von *Solanum tuberosum* L. mit Ursprung in Ägypten sind vorübergehend vom Einfuhrverbot ausgenommen, wenn die Anforderungen der Artikel 1–8 sowie der Anhänge I und II der Durchführungsverordnung (EU) 2025/1289[^annex2-lvlu1-lvl1-lvl11-1] erfüllt sind.
 
-- a. nicht zum Anpflanzen bestimmt sind;
-- b. aus Gebieten stammen, die auf der von Ägypten nach den Vorgaben des Internationalen FAO-Standards für Pflanzenschutzmassnahmen Nr. 4 der Ernährungs- und Landwirtschaftsorganisation der UNO (FAO) (ISPM Nr. 4)[^annex2-lvlu1-lvl1-lvl11-1] erstellten Liste der schadorganismusfreien Gebiete aufgeführt sind und gemäss Artikel 1 Absatz 2 des Durchführungsbeschlusses 2011/787/EU[^annex2-lvlu1-lvl1-lvl11-2] von der EU als solche anerkannt worden sind; und
-- c. zusätzlich zu den in Anhang 3 PGesV-WBF-UVEK[^annex2-lvlu1-lvl1-lvl11-3] festgelegten Anforderungen an Knollen von *Solanum tuberosum* L. die Anforderungen nach dem Anhang Ziffern 1 und 2 des Durchführungsbeschlusses 2011/787/EU erfüllen.
+[^annex2-lvlu1-lvl1-lvl11-1]: Durchführungsverordnung (EU) 2025/1289 der Kommission vom 2. Juli 2025 zur Festlegung befristeter Massnahmen für nicht zum Anpflanzen bestimmte Knollen von *Solanum* *tuberosum* L. mit Ursprung in Ägypten zur Verhinderung der Einschleppung von *Ralstonia* *solanacearum* (Smith) Yabuuchi et al. emend. Safni et al. in das Gebiet der Union, zur Änderung der Durchführungsverordnung (EU) 2019/2072 und zur Aufhebung des Durchführungsbeschlusses 2011/787/EU, Fassung gemäss ABl. L, 2025/1289, 3.7.2025.
 
-[^annex2-lvlu1-lvl1-lvl11-1]: Der ISPM Nr. 4 «Requirements for the establishment of pest free areas» (Ausgabe vom 29.5.2011) kann kostenlos abgerufen werden unter: www.ippc.int &gt; Core Activities &gt; Standards & Implementation &gt; Standard Setting &gt; Adopted Standards.
-[^annex2-lvlu1-lvl1-lvl11-2]: Durchführungsbeschluss 2011/787/EU der Kommission vom 29. November 2011 zur befristeten Ermächtigung der Mitgliedstaaten, zum Schutz vor der Verbreitung von *Ralstonia solanacearum* (Smith) Yabuuchi *et al.* Sofortmassnahmen gegenüber Ägypten zu treffen, Fassung gemäss ABl. L 319 vom 2.12.2011, S. 112.
-[^annex2-lvlu1-lvl1-lvl11-3]: [SR 916.201](https://fedlex.data.admin.ch/eli/cc/2019/787)
+### 1.2 Überprüfung der Ausnahme vom Einfuhrverbot
 
-### 1.2 Ausschluss von der Liste der schadorganismusfreien Gebiete
-
-Wird anlässlich der Kontrollen, die in Ägypten vor der Ausfuhr gemäss dem Anhang Ziffer 2.1 des Durchführungsbeschlusses 2011/787/EU durchgeführt werden, oder anlässlich der Einfuhrkontrollen gemäss Ziffer 1.4 ein Befall von *Ralstonia sola**nacearum* (Smith) Yabuuchi *et al.* festgestellt, so gilt für Kartoffeln aus dem betroffenen Ursprungsgebiet mindestens so lange wieder ein Einfuhrverbot, bis das betreffende Gebiet aufgrund der Ergebnisse der von Ägypten durchgeführten Untersuchungen wieder als schadorganismusfrei gilt.
-
-### 1.3 Anmeldung von Einfuhrsendungen
-
-Der voraussichtliche Zeitpunkt der Ankunft einer Einfuhrsendung mit Kartoffeln aus Ägypten, deren Menge sowie der Ort der Ausschiffung der Sendung in der EU sind dem Eidgenössischen Pflanzenschutzdienst (EPSD) mindestens eine Woche im Voraus anzumelden.
-
-### 1.4 Einfuhrkontrolle
-
-- 1\.4.1 Anlässlich der nach Artikel 43 Absatz 1 PGesV vorgeschriebenen Einfuhrkontrolle werden Kartoffeln aus Ägypten Untersuchungen nach dem Anhang Ziffern 4 und 5 des Durchführungsbeschlusses 2011/787/EU unterzogen.
-- 1\.4.2 Kartoffelsendungen, für welche aus den Kontrollnachweisen nach Artikel 46 Absatz 2 PGesV hervorgeht, dass sie einer vollständigen phytosanitären Kontrolle in der EU unterzogen worden sind, dürfen ohne Kontrolle durch den EPSD in die Schweiz eingeführt werden.
-
-### 1.5 Dauer der Aufhebung des Einfuhrverbots
-
-Die Ausnahme vom Einfuhrverbot wird spätestens am 31. Dezember 2026 überprüft.
+Die Ausnahme vom Einfuhrverbot wird spätestens am 30. November 2029 überprüft.
 
 Anhang 3[^t-3]
 
@@ -293,18 +274,18 @@ Anhang 4[^t-4]
 
 [^annex4-lvlu1-1]
 
-[^t-4]: Bereinigt gemäss Ziff. I der V des BLW vom 30. Okt. 2020 ([AS 2020 4817](https://fedlex.data.admin.ch/eli/oc/2020/866)) und Ziff. II Abs. 1 der V des BLW vom 25. Nov. 2021 ([AS 2021 832](https://fedlex.data.admin.ch/eli/oc/2021/832)), Ziff. I der V des BLW vom 8. Nov. 2022 ([AS 2022 715](https://fedlex.data.admin.ch/eli/oc/2022/715)) und Ziff. II Abs. 1 der V des BLW vom 26. Mai 2025, in Kraft seit 1. Juli 2025 ([AS 2025 397](https://fedlex.data.admin.ch/eli/oc/2025/397)).
-[^annex4-lvlu1-1]: [SR 916.201](https://fedlex.data.admin.ch/eli/cc/2019/787)
+[^t-4]: Bereinigt gemäss Ziff. I der V des BLW vom 30. Okt. 2020 ([AS 2020 4817](https://fedlex.data.admin.ch/eli/oc/2020/866)) und Ziff. II Abs. 1 der V des BLW vom 25. Nov. 2021 ([AS 2021 832](https://fedlex.data.admin.ch/eli/oc/2021/832)), Ziff. I der V des BLW vom 8. Nov. 2022 ([AS 2022 715](https://fedlex.data.admin.ch/eli/oc/2022/715)), Ziff. II Abs. 1 der V des BLW vom 26. Mai 2025 ([AS 2025 397](https://fedlex.data.admin.ch/eli/oc/2025/397)) und Ziff. I Abs. 2 der V des BLW vom 29. Mai 2026, in Kraft seit 1. Juli 2026 ([AS 2026 313](https://fedlex.data.admin.ch/eli/oc/2026/313)).
+[^annex4-lvlu1-1]: [SR 916.201](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10652)
 
 ### 1 …
 
-### 2 *Xylella fastidiosa* (Wells et al.)
+### 2 *Xylella fastidiosa* (Wells *et al.*)
 
 ### 2.1 Massnahmen gegen die Einschleppung und Ausbreitung
 
-Zum Schutz gegen die Einschleppung und Ausbreitung von *Xylella fastidiosa* (Wells et al.) gelten die Artikel 1, 2 Absätze 1–7 und 3–34 sowie die Anhänge 1–4 der Durchführungsverordnung (EU) 2020/1201[^annex4-lvlu1-lvl2-lvl21-1].
+Zum Schutz gegen die Einschleppung und Ausbreitung von *Xylella fastidiosa* (Wells *et al*.) gelten die Artikel 1, 2 Absätze 1–7 und 3–34 sowie die Anhänge 1–4 der Durchführungsverordnung (EU) 2020/1201[^annex4-lvlu1-lvl2-lvl21-1].
 
-[^annex4-lvlu1-lvl2-lvl21-1]: Durchführungsverordnung (EU) 2020/1201 der Kommission vom 14. August 2020 über Massnahmen zum Schutz der Union gegen die Einschleppung und Ausbreitung von *Xylella fastidiosa* (Wells et al.), ABl. L 269 vom 17.8.2020, S. 2.; zuletzt geändert durch Durchführungsverordnung (EU) 2024/2507, ABl. L, 2024/2507, 27.9.2024.
+[^annex4-lvlu1-lvl2-lvl21-1]: Durchführungsverordnung (EU) 2020/1201 der Kommission vom 14. August 2020 über Massnahmen zum Schutz der Union gegen die Einschleppung und Ausbreitung von *Xylella fastidiosa* (Wells et al.), ABl. L 269 vom 17.8.2020, S. 2.; zuletzt geändert durch Durchführungsverordnung (EU) 2025/2231, ABl. L, 2025/2231, 3.11.2025.
 
 ### 2.2 Besondere Bestimmungen
 
@@ -325,7 +306,7 @@ Zum Schutz gegen die Einschleppung und Ausbreitung von *Xylella fastidiosa* (Wel
 
 Zum Schutz gegen die Einschleppung und Ausbreitung von *Phyllosticta citricarpa* (McAlpine) Van der Aa gelten die Artikel 1–4, Artikel 5 Absatz 2 und die Artikel 6, 8, 9 und 11 sowie die Anhänge I–V der Durchführungsverordnung (EU) 2022/632[^annex4-lvlu1-lvl3-lvl31-1].
 
-[^annex4-lvlu1-lvl3-lvl31-1]: Durchführungsverordnung (EU) 2022/632 der Kommission vom 13. April 2022 mit befristeten Massnahmen für spezifizierte Früchte mit Ursprung in Argentinien, Brasilien, Südafrika, Uruguay und Simbabwe zum Schutz des Unionsgebiets gegen die Einschleppung und Ausbreitung des Schädlings *Phyllosticta citricarpa* (McAlpine) Van der Aa, Fassung gemäss ABl. L 117 vom 19.4.2022, S. 11.
+[^annex4-lvlu1-lvl3-lvl31-1]: Durchführungsverordnung (EU) 2022/632 der Kommission vom 13. April 2022 mit befristeten Massnahmen für spezifizierte Früchte mit Ursprung in Argentinien, Brasilien, Südafrika, Uruguay und Simbabwe zum Schutz des Unionsgebiets gegen die Einschleppung und Ausbreitung des Schädlings *Phyllosticta citricarpa* (McAlpine) Van der Aa, Fassung gemäss ABl. L 117 vom 19.4.2022, S. 11; zuletzt geändert durch Durchführungsverordnung (EU) 2025/505, ABl. L, 2025/505, 20.3.2025.
 
 ### 3.2 Besondere Bestimmungen
 
@@ -338,7 +319,7 @@ Zum Schutz gegen die Einschleppung und Ausbreitung von *Phyllosticta citricarpa*
 
 Zum Schutz gegen die Einschleppung und Ausbreitung von *Spodoptera frugiperda* (Smith) gelten die Artikel 1–12 sowie die Anhänge 1 und 2 der Durchführungsverordnung (EU) 2023/1134[^annex4-lvlu1-lvl4-lvl41-1].
 
-[^annex4-lvlu1-lvl4-lvl41-1]: Durchführungsverordnung (EU) 2023/1134 der Kommission vom 8. Juni 2023 über Massnahmen zum Schutz der Union gegen die Einschleppung, Etablierung und Ausbreitung von *Spodoptera frugiperda* (Smith), zur Änderung der Durchführungsverordnung (EU) 2019/2072 und zur Aufhebung des Durchführungsbeschlusses (EU) 2018/638, Fassung gemäss ABl. L 149 vom 9.6.2023, S. 62.
+[^annex4-lvlu1-lvl4-lvl41-1]: Durchführungsverordnung (EU) 2023/1134 der Kommission vom 8. Juni 2023 über Massnahmen zum Schutz der Union gegen die Einschleppung, Etablierung und Ausbreitung von *Spodoptera frugiperda* (Smith), zur Änderung der Durchführungsverordnung (EU) 2019/2072 und zur Aufhebung des Durchführungsbeschlusses (EU) 2018/638, Fassung gemäss ABl. L 149 vom 9.6.2023, S. 62; zuletzt geändert durch Durchführungsverordnung (EU) 2025/2408, ABl. L, 2025/2408, 2.12.2025.
 
 ### 4.2 Besondere Bestimmungen
 
@@ -428,19 +409,134 @@ Zur Tilgung und zur Verhinderung der Ausbreitung von *Synchytrium endobioticum* 
 - 9\.2.2 Die Einrichtung abgegrenzter Gebiete gemäss Artikel 5 der Durchführungsverordnung (EU) 2022/1195 ist unter Mitwirkung des EPSD vorzunehmen.
 - 9\.2.3 Für die Berichterstattung nach den Artikel 3 Absatz 3 und 8 Absatz 3 der Durchführungsverordnung (EU) 2022/1195 gelten die vom EPSD festgelegten Vorgaben und Fristen. Dieser gibt die Vorgaben und Fristen den Kantonen in geeigneter Form bekannt
 
+### 10 *Popillia japonica* Newman
+
+### 10.1 Massnahmen zur Tilgung und zur Verhinderung der Ausbreitung
+
+- 10\.1.1 Erhebungen innerhalb und ausserhalb von abgegrenzten Gebieten
+
+<sup>1</sup> Der zuständige kantonale Dienst führt jährliche risikobasierte Erhebungen über das Auftreten von *Popillia japonica* Newman gemäss dem Gebietsüberwachungsauftrag des EPSD durch.
+
+<sup>2</sup> Für die Berichterstattung über die durchgeführten jährlichen Erhebungen gelten die vom EPSD festgelegten Vorgaben und Fristen.
+
+- 10\.1.2 Einrichtung von abgegrenzten Gebieten
+
+<sup>1</sup> Wird das Auftreten von *Popillia japonica* Newman amtlich bestätigt, so bestimmt der zuständige kantonale Dienst so rasch wie möglich das Ausmass des Befalls durch den Einsatz von Fallen mit Lockstoffen für *Popillia japonica* Newman und richtet unverzüglich ein abgegrenztes Gebiet zur Tilgung des Schädlings ein.
+
+<sup>2</sup> Das abgegrenzte Gebiet besteht aus:
+
+- a. einem Befallsherd, der den Bereich umfasst, in dem das Auftreten von *Popillia japonica* Newman amtlich bestätigt wurde, umgeben von einem Gebiet mit einer Breite von mindestens 1 km;
+- b. einer Pufferzone mit einer Breite von mindestens 5 km über die Grenze des Befallsherdes hinaus.
+
+<sup>3</sup> Bei der Festlegung des abgegrenzten Gebiets berücksichtigt der zuständige kantonale Dienst die wissenschaftlichen Grundsätze, die Biologie von *Popillia Japonica* Newman, das Ausmass des Befalls, die besondere Verteilung der Hauptwirtspflanzen in dem betreffenden Gebiet, die Topografie und den Nachweis der Ansiedlung von *Popillia japonica* Newman.
+
+<sup>4</sup> Er kann basierend auf den Kriterien nach Absatz 3 und im Einvernehmen mit dem BLW von den Vorgaben nach Absatz 2 abweichen.
+
+<sup>5</sup> Er sensibilisiert die Öffentlichkeit mit Unterstützung des EPSD innerhalb der abgegrenzten Gebiete bezüglich der von *Popillia japonica* Newman ausgehenden Bedrohung und informiert sie über die Massnahmen, die getroffen werden, um *Popillia* *japonica* Newman zu tilgen und ihre weitere Ausbreitung über diese Gebiete hinaus zu verhindern. Die zuständigen kantonalen Dienste und der EPSD stellen sicher, dass die Öffentlichkeit und die Betriebe über die Festlegung der abgegrenzten Gebiete und die Massnahmen informiert sind.
+
+- 10\.1.3 Ausnahme von der Pflicht zur Einrichtung abgegrenzter Gebiete
+
+Der zuständige kantonale Dienst kann im Einvernehmen mit dem BLW auf die Einrichtung eines abgegrenzten Gebietes verzichten, wenn folgende Voraussetzungen erfüllt sind:
+
+- a. Es liegen Nachweise vor, dass sich *Popillia japonica* Newman nicht vermehrt hat.
+- b.
+
+  Es liegen Nachweise vor:
+
+  - 1\. dass *Popillia japonica* Newman mit den Pflanzen, auf denen sie gefunden wurde, in das Gebiet eingeschleppt wurde und dass diese Pflanzen vor dem Einführen in das betroffene Gebiet befallen waren; oder
+  - 2\. dass es sich um einen Einzelfall handelt, bei dem nicht mit einer Ansiedlung zu rechnen ist.
+
+- 10\.1.4 Aufhebung der Abgrenzung
+
+Der zuständige kantonale Dienst kann die Abgrenzung aufheben, wenn *Popillia* *japonica* Newman auf der Grundlage der Erhebungen nach Ziffer 10.1.1 in mindestens drei aufeinanderfolgenden Jahren im abgegrenzten Gebiet nicht nachgewiesen wurde.
+
+- 10\.1.5 Massnahmen zur Tilgung und Verhinderung der Ausbreitung
+
+<sup>1</sup> Der zuständige kantonale Dienst ergreift in den Befallsherden folgende Massnahmen zur Tilgung:
+
+- a.
+
+  gegen die Adulten von *Popillia japonica* Newman: sämtliche Massnahmen, die für das Gebiet sinnvoll und wirksam sind, um das Ziel zu erreichen, mindestens aber eine der folgenden Massnahmen:
+
+  - 1\. Massenfang mit Fallen und Lockstoffen,
+  - 2\. Strategie des Anlockens und Abtötens,
+  - 3\. Behandlung der Pflanzen mit einem Insektizid,
+  - 4\. biologische Bekämpfung;
+
+- b.
+
+  gegen die Larven von *Popillia japonica* Newman: sämtliche Massnahmen, die für das Gebiet sinnvoll und wirksam sind, um das Ziel zu erreichen, mindestens aber zwei der folgenden Massnahmen:
+
+  - 1\. geeignete Behandlungen des Bodens, in dem Larven von *Popillia japonica* Newman auftreten,
+  - 2\. biologische Bekämpfung, beispielsweise durch entomopathogene Nematoden,
+  - 3\. Verbot der Bewässerung von Grünflächen während der Zeit, in der die Adulten von *Popillia japonica* Newman aus dem Boden kommen, und während der Flugzeit vom 1. Juni bis zum 30. September,
+  - 4\. mechanische Bodenbearbeitung durch Fräsen zur Vernichtung der Larven zu geeigneten Zeitpunkten im Jahr.
+
+<sup>2</sup> Er ergreift in den Befallsherden folgende Massnahmen gegen die Verbreitung:
+
+- a.
+
+  von Adulten von *Popillia* *japonica* Newman vom 1. Juni bis zum 30. September: Verbot der Verbringung von unbehandeltem Schnittgut aus der Grünpflege aus dem Befallsherd, mit Ausnahme von:
+
+  - 1\. Pflanzenmaterial, das in geschlossenen Fahrzeugen oder auf eine andere Art insektensicher befördert und in einer geschlossenen Anlage ausserhalb des befallenen Gebiets gelagert und verarbeitet wird,
+  - 2\.
+
+    Pflanzenmaterial, das vor dem Transport aus dem Befallsherd:
+
+    - – auf eine Grösse von höchstens 5 cm gehäckselt wird oder
+    - – einer vergleichbaren phytosanitären Massnahme unterzogen wurde und dessen Behandlung vom zuständigen kantonalen Dienst in Absprache mit dem EPSD bewilligt wurde;
+
+- b.
+
+  von Larven von *Popillia japonica* Newman:
+
+  - 1\.
+
+    Verbot der Verbringung der Oberflächenschicht des Bodens, bis zu einer Tiefe von 30 cm, aus dem Befallsherd hinaus; der zuständige kantonale Dienst kann Ausnahmen bewilligen, sofern sichergestellt ist:
+
+    - – dass der Boden unter seiner Aufsicht gelagert wird, sodass eine Verbreitung von *Popillia japonica* Newman ausgeschlossen werden kann, beispielweise durch Abdecken, sodass keine Käfer entweichen können, und dass während des Transports alle Massnahmen ergriffen werden, um eine Verbreitung von *Popillia japonica* Newman zu vermeiden oder
+    - – dass der Boden auf eine Weise behandelt wurde, die die Eier, Larven und Puppen mit Sicherheit tötet,
+
+  - 2\. Verbot der Verbringung von Kompostmaterial aus dem Befallsherd hinaus, sofern dieses nicht aus Anlagen stammt, die mit temperaturkontrollierten Fermentationsboxen und Endkompost-Siebanlagen ausgerüstet sind.
+
+<sup>3</sup> Die Verbringung und das Inverkehrbringen von im Befallsherd produzierten Rasenrollen aus dem Befallsherd hinaus ist verboten.
+
+<sup>4</sup> Die Verbringung und das Inverkehrbringen von Ziergräsern (*Poaceae*) mit Wurzeln in Erde oder aus festen organischen Stoffen bestehendem Kultursubstrat ist nur erlaubt, wenn die Ziergräser ausschliesslich in einer insektensicheren Infrastruktur (Insektenschutzgewebe mit einer Maschenweite von max. 5 mm) produziert und gelagert werden. Ausgenommen ist die Unterfamilie *Bambusoideae*; für diese gelten die Auflagen nach Absatz 5.
+
+<sup>5</sup> Die Verbringung und das Inverkehrbringen von allen weiteren Pflanzen mit Wurzeln in Erde oder aus festen organischen Stoffen bestehendem Kultursubstrat, mit Ausnahme von Wasserpflanzen und Pflanzen in Gewebekulturen, ist nur erlaubt, wenn eine der folgenden Voraussetzungen erfüllt ist:
+
+- a. Die Produktion und die Zwischenlagerung der Pflanzen findet in einer insektensicheren Infrastruktur (Fenster und Türen mit Insektenschutzgewebe mit einer Maschenweite von max. 5 mm) statt.
+- b. Die Wurzeln werden ausgewaschen und die Anbauerde oder das Kultursubstrat komplett entfernt.
+- c. Die bepflanzten Töpfe werden vom 1. Juni bis zum 30. September unkrautfrei gehalten; Töpfe müssen auf einer versiegelten Fläche, die für die Larven des Schädlings und die Wurzeln undurchlässig ist, oder erhöht auf Arbeitstischen stehen.
+- d. Pflanzen im Freiland werden so angebaut, dass vom 1. Juni bis zum 30. September der Boden über dem Erdballen der Pflanzen unkrautfrei gehalten wird.
+
+<sup>6</sup> Die Unkrautfreiheit der Anbauerde oder des Kultursubstrats nach Absatz 5 muss vom 1. Juni bis zum 30. September auch bei der Zwischenlagerung der Pflanzen gewährleistet sein, solange diese sich im Befallsherd befinden.
+
+<sup>7</sup> Die Massnahmen nach Absatz 5 gelten nur, wenn die Verbringung oder das Inverkehrbringen der Pflanzen in den nächsten zwei Jahren geplant ist.
+
+<sup>8</sup> Ist der Betrieb nach Artikel 76 oder 89 PGesV für den Pflanzenpass zugelassen und befindet er sich im Befallsherd, so wird ausserdem einmal im Jahr bei einer amtlichen Kontrolle der Boden bis in eine Tiefe von 30 cm auf *Popillia japonica* Newman beprobt
+
+<sup>9</sup> Der zuständige kantonale Dienst stellt sicher, dass unbehandeltes Schnittgut aus der Grünpflege nur dann aus der Pufferzone verbracht wird, wenn es so behandelt ist, dass eine Verbreitung von *Popillia japonica* Newman ausgeschlossen werden kann.
+
+<sup>10</sup> Er kann im Einvernehmen mit dem BLW von den Massnahmen oder Verboten nach den Absätzen 1–9 abweichen, sofern er ausgleichende Massnahmen ergreift, die dem aktuellen Stand der Wissenschaft entsprechen.
+
+<sup>11</sup> Sind Betriebe nach Artikel 76 PGesV von den Massnahmen nach den Absätzen 1–3 betroffen, so liegt die Zuständigkeit für die Umsetzung der Massnahmen beim EPSD. Artikel 13 Absatz 4 Buchstaben a und b PGesV bleibt vorbehalten.
+
+<sup>12</sup> Sind von einem abgegrenzten Gebiet mehrere Kantone oder ein Nachbarland betroffen, so ordnet der zuständige kantonale Dienst die Massnahmen nach den Absätzen 1–3 im Einvernehmen mit dem EPSD an.
+
 Anhang 5[^t-5]
 
 (Art. 5)
 
 ## Waren aus bestimmten Drittländern, für die aufgrund eines hohen phytosanitären Risikos ein vorsorgliches Einfuhrverbot gilt
 
-[^t-5]: Eingefügt durch Ziff. II Abs. 2 der V des BLW vom 10. Juli 2020 ([AS 2020 3371](https://fedlex.data.admin.ch/eli/oc/2020/577)). Fassung gemäss Ziff. II Abs. 2 der V des BLW vom 26. Mai 2025, in Kraft seit 1. Juli 2025 ([AS 2025 397](https://fedlex.data.admin.ch/eli/oc/2025/397)).
+[^t-5]: Eingefügt durch Ziff. II Abs. 2 der V des BLW vom 10. Juli 2020 ([AS 2020 3371](https://fedlex.data.admin.ch/eli/oc/2020/577)). Fassung gemäss Ziff. II Abs. 2 der V des BLW vom 26. Mai 2025 ([AS 2025 397](https://fedlex.data.admin.ch/eli/oc/2025/397)). Bereinigt gemäss Ziff. I Abs. 2 der V des BLW vom 29. Mai 2026, in Kraft seit 1. Juli 2026 ([AS 2026 313](https://fedlex.data.admin.ch/eli/oc/2026/313)).
 
 - 1 Die Waren, für die aufgrund eines hohen phytosanitären Risikos ein vorsorgliches Einfuhrverbot gilt, sind im Anhang der Durchführungsverordnung (EU) 2018/2019[^annex5-lvlu1-1] aufgeführt.
 - 2 Waren, die gemäss dem Anhang der Durchführungsverordnung (EU) 2018/2019 vom Einfuhrverbot ausgenommen sind und die im Anhang der Durchführungsverordnung (EU) 2020/1213[^annex5-lvlu1-2] aufgeführt sind, sind nur dann vom Einfuhrverbot ausgenommen, wenn die in der Durchführungsverordnung (EU) 2020/1213 aufgeführten Massnahmen getroffen wurden.
 
-[^annex5-lvlu1-1]: Durchführungsverordnung (EU) 2018/2019 der Kommission vom 18. Dezember 2018 zur Erstellung einer vorläufigen Liste von Pflanzen, Pflanzenerzeugnissen und anderen Gegenständen mit hohem Risiko im Sinne des Artikels 42 der Verordnung (EU) 2016/2031 und einer Liste von Pflanzen, für die gemäss Artikel 73 der genannten Verordnung für das Einführen in die Union kein Pflanzengesundheitszeugnis benötigt wird, ABl. L 323 vom 19.12.2018, S. 10; zuletzt geändert durch Durchführungsbeschluss (EU) 2025/312, ABl. L, 2025/312, 17.2.2025.
-[^annex5-lvlu1-2]: Durchführungsverordnung (EU) 2020/1213 der Kommission vom 21. August 2020 mit Pflanzenschutzmaßnahmen für das Einführen bestimmter Pflanzen, Pflanzenerzeugnisse und anderer Gegenstände, die aus dem Anhang der Durchführungsverordnung (EU) 2018/2019 gestrichen wurden, in die Union, ABI. L 275 vom 24.8.2020, S. 5; zuletzt geändert durch Durchführungsbeschluss (EU) 2024/2931, ABl. L, 2024/2931, 28.11.2024.
+[^annex5-lvlu1-1]: Durchführungsverordnung (EU) 2018/2019 der Kommission vom 18. Dezember 2018 zur Erstellung einer vorläufigen Liste von Pflanzen, Pflanzenerzeugnissen und anderen Gegenständen mit hohem Risiko im Sinne des Artikels 42 der Verordnung (EU) 2016/2031 und einer Liste von Pflanzen, für die gemäss Artikel 73 der genannten Verordnung für das Einführen in die Union kein Pflanzengesundheitszeugnis benötigt wird, ABl. L 323 vom 19.12.2018, S. 10; zuletzt geändert durch Durchführungsbeschluss (EU) 2026/152, ABl. L, 2026/152, 23.1.2026.
+[^annex5-lvlu1-2]: Durchführungsverordnung (EU) 2020/1213 der Kommission vom 21. August 2020 mit Pflanzenschutzmassnahmen für das Einführen bestimmter Pflanzen, Pflanzenerzeugnisse und anderer Gegenstände, die aus dem Anhang der Durchführungsverordnung (EU) 2018/2019 gestrichen wurden, in die Union, ABl. L 275 vom 24.8.2020, S. 5; zuletzt geändert durch Durchführungsbeschluss (EU) 2026/152, ABl. L, 2026/152, 23.1.2026.
 
 Anhang 6[^t-6]
 
@@ -451,7 +547,7 @@ Anhang 6[^t-6]
 [^annex6-lvlu1-1]
 
 [^t-6]: Eingefügt durch Ziff. II Abs. 3 der V des BLW vom 26. Mai 2025, in Kraft seit 1. Juli 2025 ([AS 2025 397](https://fedlex.data.admin.ch/eli/oc/2025/397)).
-[^annex6-lvlu1-1]: [SR 916.201](https://fedlex.data.admin.ch/eli/cc/2019/787)
+[^annex6-lvlu1-1]: [SR 916.201](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10652)
 
 ### 1 Massnahmen betreffend Früchte von *Citrus sinensis* Pers. mit Ursprung in Israel angesichts der Risiken aufgrund von *Thaumatotibia leucotreta*
 
