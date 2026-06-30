@@ -4,11 +4,11 @@ title: "Ordonnance du 2 février 2000 sur la procédure d'approbation des plans 
 short: OPAPIF
 eli: "https://fedlex.data.admin.ch/eli/cc/2000/124"
 language: fr
-version: 2014-11-01
+version: 2026-07-01
 adopted: 2000-02-02
 in_force: 2000-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/124/20141101/fr/xml/fedlex-data-admin-ch-eli-cc-2000-124-20141101-fr-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2000/124/20141101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/124/20260701/fr/xml/fedlex-data-admin-ch-eli-cc-2000-124-20260701-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2000/124/20260701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2000/124/20141101/fr"
 
 (OPAPIF)
 
-du 2 février 2000 (État le 1<sup>er</sup> novembre 2014)
+du 2 février 2000 (État le 1<sup>er</sup> juillet 2026)
 
 Le Conseil fédéral suisse,
 
@@ -25,8 +25,8 @@ vu l’art. 97 de la loi du 20 décembre 1957 sur les chemins de fer (LCdF)[^ing
 
 arrête:
 
-[^ingress-1]: [RS 742.101](https://fedlex.data.admin.ch/eli/cc/1958/335_341_347)
-[^ingress-2]: [RS 734.0](https://fedlex.data.admin.ch/eli/cc/19/259_252_257)
+[^ingress-1]: [RS 742.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8719)
+[^ingress-2]: [RS 734.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8570)
 
 #### Art. 1
 
@@ -38,8 +38,8 @@ arrête:
 
 <sup>3</sup> La procédure d’approbation des plans des installations ferroviaires s’applique par analogie à la détermination des zones réservées et des alignements.
 
-[^1-1]: Nouvelle teneur selon le ch. 5 de l’annexe à l’O 9 oct. 2013, en vigueur depuis le 1<sup>er</sup> déc. 2013 ([RO 2013 3509](https://fedlex.data.admin.ch/eli/oc/2013/653)).
-[^1-2]: [RS 742.141.1](https://fedlex.data.admin.ch/eli/cc/1983/1902_1902_1902)
+[^1-1]: Nouvelle teneur selon l’annexe ch. 5 de l’O du 9 oct. 2013, en vigueur depuis le 1<sup>er</sup> déc. 2013 ([RO 2013 3509](https://fedlex.data.admin.ch/eli/oc/2013/653)).
+[^1-2]: [RS 742.141.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8749)
 
 #### Art. 1a
 
@@ -101,6 +101,8 @@ Pour les projets sur des tronçons interopérables (art. 15*a*, al. 1, let a, OC
 - b. lorsqu’un organisme notifié est impliqué (art. 15*r* OCF): la déclaration «CE» de vérification, toutes les attestations «CE» de vérification et tous les dossiers techniques établis par les organismes de contrôle indépendants mandatés et concernant la planification du projet jusqu’au dépôt de la demande;
 - c. les demandes de dérogation aux STI (art. 15*e* OCF).
 
+<sup>3bis</sup> Pour les projets situés hors de la zone à bâtir, la demande doit notamment comprendre des plans indiquant la délimitation des bâtiments nouveaux ou supprimés conformément à l’art. 25*a*, al. 1, de l’ordonnance du 28 juin 2000 sur l’aménagement du territoire (OAT)[^3-4], ainsi que des surfaces imperméabilisées nouvelles ou supprimées conformément à l’art. 25*a*, al. 2, OAT.[^3-5]
+
 <sup>4</sup> Pour les projets sur des tronçons interopérables sans participation d’un organisme notifié, il y a lieu de fournir, en sus des documents énumérés à l’al. 3, toutes les attestations et rapports des organismes de contrôle indépendants mandatés concernant la planification du projet jusqu’au dépôt de la demande.
 
 <sup>5</sup> Au besoin, l’autorité chargée de l’approbation (art. 18, al. 2, LCdF) peut exiger des documents supplémentaires.
@@ -108,8 +110,10 @@ Pour les projets sur des tronçons interopérables (art. 15*a*, al. 1, let a, OC
 <sup>6</sup> L’OFT édicte des directives sur la nature, les caractéristiques, le contenu et le nombre des documents à remettre.
 
 [^3-1]: Nouvelle teneur selon le ch. I de l’O du 29 mai 2013, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1691](https://fedlex.data.admin.ch/eli/oc/2013/388)).
-[^3-2]: [RS 742.141.1](https://fedlex.data.admin.ch/eli/cc/1983/1902_1902_1902)
-[^3-3]: [RS 742.141.11](https://fedlex.data.admin.ch/eli/cc/2024/240)
+[^3-2]: [RS 742.141.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8749)
+[^3-3]: [RS 742.141.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8750)
+[^3-4]: [RS 700.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8353)
+[^3-5]: Introduit par l’annexe ch. 9 de l’O du 15 oct. 2025, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2025 659](https://fedlex.data.admin.ch/eli/oc/2025/659)).
 
 #### Art. 4
 
@@ -156,7 +160,7 @@ En approuvant les plans, l’autorité chargée de l’approbation peut autorise
 Les émoluments sont régis par l’ordonnance du 25 novembre 1998 sur les émoluments de l’OFT[^6a-2].
 
 [^6a-1]: Introduit par le ch. II de l’O du 16 mars 2001, en vigueur depuis le 1<sup>er</sup> avril 2001 ([RO 2001 1081](https://fedlex.data.admin.ch/eli/oc/2001/166)).
-[^6a-2]: [RS 742.102](https://fedlex.data.admin.ch/eli/cc/1999/116)
+[^6a-2]: [RS 742.102](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8725)
 
 #### Art. 7
 
@@ -184,7 +188,7 @@ En règle générale, les demandes sont traitées dans les délais suivants:
 
 L’ordonnance du 23 décembre 1932 sur les projets de construction de chemins de fer[^9-1] est abrogée.
 
-[^9-1]: [RS **7** 31; [RO 1984 1436](https://fedlex.data.admin.ch/eli/oc/1984/1436_1436_1436), [1991 1476](https://fedlex.data.admin.ch/eli/oc/1991/1476_1476_1476)art. 34 ch. 2, [1999 689](https://fedlex.data.admin.ch/eli/oc/1999/101)art. 11, al. 2 [704](https://fedlex.data.admin.ch/eli/oc/1999/104)ch. II 24]
+[^9-1]: [[RS 7](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8349)31; [RO 1984 1436](https://fedlex.data.admin.ch/eli/oc/1984/1436_1436_1436), [1991 1476](https://fedlex.data.admin.ch/eli/oc/1991/1476_1476_1476)art. 34 ch. 2, [1999 689](https://fedlex.data.admin.ch/eli/oc/1999/101)art. 11, al. 2 [704](https://fedlex.data.admin.ch/eli/oc/1999/104)ch. II 24]
 
 #### Art. 10
 
@@ -215,7 +219,7 @@ Annexe[^t-1]
 [^annexu1-lvlu1-1]
 
 [^t-1]: Introduite par le ch. II de l’O du 4 juil. 2012, en vigueur depuis le 1<sup>er</sup> août 2012 ([RO 2012 4057](https://fedlex.data.admin.ch/eli/oc/2012/465)). Mise à jour selon l’annexe à l’O du 19 sept. 2014, en vigueur depuis le 1<sup>er</sup> nov. 2014 ([RO 2014 3169](https://fedlex.data.admin.ch/eli/oc/2014/534)).
-[^annexu1-lvlu1-1]: Terminologie selon SN 588 469 «Conservation des ouvrages», édition 1997, www.sia.ch.
+[^annexu1-lvlu1-1]: Terminologie selon SN 588 469 «Conservation des ouvrages», édition 1997, [www.sia.ch](http://www.sia.ch).
 
 - a. *Remise en état d’ouvrages,* sans modification de l’aspect extérieur ni des structures porteuses;
 - b. *rénovation d’éléments de construction à l’exception des structures porteuses,* sans modification de l’aspect extérieur, dans la mesure où il n’en résulte aucune influence négative sur les structures porteuses;
@@ -243,4 +247,4 @@ Annexe[^t-1]
 - x. *démontage de voies sans remplacement,* longueur ≤500 m;
 - y. *pose de croix de St-André ou de signaux «tramway» aux passages à niveau*.
 
-[^annexu1-lvlu1-2]: [RS 734.27](https://fedlex.data.admin.ch/eli/cc/2002/22)
+[^annexu1-lvlu1-2]: [RS 734.27](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8584)

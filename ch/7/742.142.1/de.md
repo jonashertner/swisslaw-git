@@ -4,11 +4,11 @@ title: Verordnung vom 2. Februar 2000 über das Plangenehmigungsverfahren für E
 short: VPVE
 eli: "https://fedlex.data.admin.ch/eli/cc/2000/124"
 language: de
-version: 2014-11-01
+version: 2026-07-01
 adopted: 2000-02-02
 in_force: 2000-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/124/20141101/de/xml/fedlex-data-admin-ch-eli-cc-2000-124-20141101-de-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2000/124/20141101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/124/20260701/de/xml/fedlex-data-admin-ch-eli-cc-2000-124-20260701-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2000/124/20260701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2000/124/20141101/de"
 
 (VPVE)
 
-vom 2. Februar 2000 (Stand am 1. November 2014)
+vom 2. Februar 2000 (Stand am 1. Juli 2026)
 
 Der Schweizerische Bundesrat,
 
@@ -25,8 +25,8 @@ gestützt auf Artikel 97 des Eisenbahngesetzes vom 20. Dezember 1957[^ingress-1]
 
 verordnet:
 
-[^ingress-1]: [SR 742.101](https://fedlex.data.admin.ch/eli/cc/1958/335_341_347)
-[^ingress-2]: [SR 734.0](https://fedlex.data.admin.ch/eli/cc/19/259_252_257)
+[^ingress-1]: [SR 742.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8719)
+[^ingress-2]: [SR 734.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8570)
 
 #### Art. 1
 
@@ -39,7 +39,7 @@ verordnet:
 <sup>3</sup> Das Plangenehmigungsverfahren für Eisenbahnanlagen ist für die Festlegung von Projektierungszonen und Baulinien sinngemäss anwendbar.
 
 [^1-1]: Fassung gemäss Anhang Ziff. 5 der V vom 9. Okt. 2013, in Kraft seit 1. Dez. 2013 ([AS 2013 3509](https://fedlex.data.admin.ch/eli/oc/2013/653)).
-[^1-2]: [SR 742.141.1](https://fedlex.data.admin.ch/eli/cc/1983/1902_1902_1902)
+[^1-2]: [SR 742.141.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8749)
 
 #### Art. 1a
 
@@ -64,7 +64,7 @@ Bauten und Anlagen gemäss Anhang können ohne Plangenehmigungsverfahren erstell
 
 Das Plangenehmigungsverfahren kann mit dem Infrastrukturkonzessionsverfahren zusammengelegt werden. Diesfalls muss die Planvorlage den Anforderungen dieser Verordnung entsprechen, das Konzessionsgesuch denen der Verordnung vom 25. November 1998[^2-1] über die Konzessionierung von Eisenbahninfrastrukturen.
 
-[^2-1]: [[AS 1999 689](https://fedlex.data.admin.ch/eli/oc/1999/101). [AS 2009 5981](https://fedlex.data.admin.ch/eli/oc/2009/732)Art. 26 Bst. c]. Heute: der V vom 4. Nov. 2009 über die Konzessionierung und Finanzierung der Eisenbahninfrastruktur ([SR 742.120](https://fedlex.data.admin.ch/eli/cc/2015/697)).
+[^2-1]: [[AS 1999 689](https://fedlex.data.admin.ch/eli/oc/1999/101). [AS 2009 5981](https://fedlex.data.admin.ch/eli/oc/2009/732)Art. 26 Bst. c]. Heute: der V vom 4. Nov. 2009 über die Konzessionierung und Finanzierung der Eisenbahninfrastruktur ([SR 742.120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8733)).
 
 #### Art. 3
 
@@ -101,6 +101,8 @@ Für Vorhaben auf interoperablen Strecken (Art. 15*a* Abs. 1 Bst. a EBV) sind zu
 - b. bei Beteiligung einer benannten Stelle (Art. 15*r* EBV): die EG-Prüferklärung, alle EG-Prüfbescheinigungen und technischen Dossiers der beauftragten unabhängigen Prüfstellen über die Planung bis zur Gesuchseinreichung;
 - c. Gesuche um Bewilligungen für Abweichungen von den TSI (Art. 15*e* EBV).
 
+<sup>3bis</sup> Bei Vorhaben ausserhalb der Bauzonen muss das Plangenehmigungsgesuch insbesondere Pläne enthalten, aus denen die Abgrenzung allfälliger neuer oder beseitigter Gebäude gemäss Artikel 25*a* Absatz 1 der Raumplanungsverordnung vom 28. Juni 2000[^3-4] und allfälliger neuer oder beseitigter Versiegelungen gemäss Artikel 25*a* Absatz 2 der Raumplanungsverordnung ersichtlich ist.[^3-5]
+
 <sup>4</sup> Für Vorhaben auf interoperablen Strecken ohne Beteiligung einer benannten Stelle sind neben den Unterlagen nach Absatz 3 alle Bescheinigungen und Berichte der beauftragten unabhängigen Prüfstellen betreffend die Planung bis zur Gesuchseinreichung vorzulegen.
 
 <sup>5</sup> Die Genehmigungsbehörde (Art. 18 Abs. 2 EBG) kann bei Bedarf zusätzliche Unterlagen verlangen.
@@ -108,8 +110,10 @@ Für Vorhaben auf interoperablen Strecken (Art. 15*a* Abs. 1 Bst. a EBV) sind zu
 <sup>6</sup> Das BAV erlässt Richtlinien über Art, Beschaffenheit, Inhalt und Anzahl der einzureichenden Unterlagen.
 
 [^3-1]: Fassung gemäss Ziff. I der V vom 29. Mai 2013, in Kraft seit 1. Juli 2013 ([AS 2013 1691](https://fedlex.data.admin.ch/eli/oc/2013/388)).
-[^3-2]: [SR 742.141.1](https://fedlex.data.admin.ch/eli/cc/1983/1902_1902_1902)
-[^3-3]: [SR 742.141.11](https://fedlex.data.admin.ch/eli/cc/2024/240)
+[^3-2]: [SR 742.141.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8749)
+[^3-3]: [SR 742.141.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8750)
+[^3-4]: [SR 700.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8353)
+[^3-5]: Eingefügt durch Anhang Ziff. 9 der V vom 15. Okt. 2025, in Kraft seit 1. Juli 2026 ([AS 2025 659](https://fedlex.data.admin.ch/eli/oc/2025/659)).
 
 #### Art. 4
 
@@ -156,7 +160,7 @@ Die Genehmigungsbehörde kann mit der Plangenehmigung den sofortigen Baubeginn f
 Die Gebühren richten sich nach der Gebührenverordnung BAV vom 25. November 1998[^6a-2].
 
 [^6a-1]: Eingefügt durch Ziff. II der V vom 16. März 2001, in Kraft seit 1. April 2001 ([AS 2001 1081](https://fedlex.data.admin.ch/eli/oc/2001/166)).
-[^6a-2]: [SR 742.102](https://fedlex.data.admin.ch/eli/cc/1999/116)
+[^6a-2]: [SR 742.102](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8725)
 
 #### Art. 7
 
@@ -184,7 +188,7 @@ In der Regel gelten folgende Behandlungsfristen:
 
 Die Verordnung vom 23. Dezember 1932[^9-1] über die Planvorlagen für Eisenbahnbauten wird aufgehoben.
 
-[^9-1]: [BS **7** 31; [AS 1984 1436](https://fedlex.data.admin.ch/eli/oc/1984/1436_1436_1436), [1991 1476](https://fedlex.data.admin.ch/eli/oc/1991/1476_1476_1476)Art. 34 Ziff. 2, [1999 689](https://fedlex.data.admin.ch/eli/oc/1999/101)Art. 11 Abs. 2 [704](https://fedlex.data.admin.ch/eli/oc/1999/104)Ziff. II 24]
+[^9-1]: [BS **7** 31; [AS 1984 1436](https://fedlex.data.admin.ch/eli/oc/1984/1436_1436_1436); [1991 1476](https://fedlex.data.admin.ch/eli/oc/1991/1476_1476_1476)Art. 34 Ziff. 2; [1999 689](https://fedlex.data.admin.ch/eli/oc/1999/101)Art. 11 Abs. 2, [704](https://fedlex.data.admin.ch/eli/oc/1999/104)Ziff. II 24]
 
 #### Art. 10
 
@@ -215,7 +219,7 @@ Anhang[^t-1]
 [^annexu1-lvlu1-1]
 
 [^t-1]: Eingefügt durch Ziff. II der V vom 4. Juli 2012 ([AS 2012 4057](https://fedlex.data.admin.ch/eli/oc/2012/465)). Bereinigt gemäss Anhang der V vom 19. Sept. 2014, in Kraft seit 1. Nov. 2014 ([AS 2014 3169](https://fedlex.data.admin.ch/eli/oc/2014/534)).
-[^annexu1-lvlu1-1]: Begriffe gemäss SN 588 469 «Erhaltung von Bauwerken», Ausgabe 1997; www.sia.ch.
+[^annexu1-lvlu1-1]: Begriffe gemäss SN 588 469 «Erhaltung von Bauwerken», Ausgabe 1997; [www.sia.ch](http://www.sia.ch).
 
 - a. *Instandsetzung von Bauwerken,* ohne Veränderung des äusseren Erscheinungsbildes und des Tragwerks;
 - b. *Erneuerung von Bauteilen mit Ausnahme des Tragwerks,* ohne Veränderung des äusseren Erscheinungsbildes, sofern keine nachteilige Wirkung auf das Tragwerk entsteht;
@@ -243,4 +247,4 @@ Anhang[^t-1]
 - x. *Ersatzloser Rückbau von Gleisen,* Länge≤ 500 m;
 - y. *Anbringen von Andreaskreuzen oder von Signalen «Strassenbahn» an Bahnübergängen*.
 
-[^annexu1-lvlu1-2]: [SR 734.27](https://fedlex.data.admin.ch/eli/cc/2002/22)
+[^annexu1-lvlu1-2]: [SR 734.27](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8584)

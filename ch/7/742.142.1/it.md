@@ -4,11 +4,11 @@ title: "Ordinanza del 2 febbraio 2000 sulla procedura d'approvazione dei piani d
 short: OPAPIF
 eli: "https://fedlex.data.admin.ch/eli/cc/2000/124"
 language: it
-version: 2014-11-01
+version: 2026-07-01
 adopted: 2000-02-02
 in_force: 2000-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/124/20141101/it/xml/fedlex-data-admin-ch-eli-cc-2000-124-20141101-it-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2000/124/20141101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/124/20260701/it/xml/fedlex-data-admin-ch-eli-cc-2000-124-20260701-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2000/124/20260701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2000/124/20141101/it"
 
 (OPAPIF)
 
-del 2 febbraio 2000 (Stato 1° novembre 2014)
+del 2 febbraio 2000 (Stato 1° luglio 2026)
 
 Il Consiglio federale svizzero,
 
@@ -25,8 +25,8 @@ visti l’articolo 97 della legge del 20 dicembre 1957[^ingress-1] sulle ferrovi
 
 ordina:
 
-[^ingress-1]: [RS 742.101](https://fedlex.data.admin.ch/eli/cc/1958/335_341_347)
-[^ingress-2]: [RS 734.0](https://fedlex.data.admin.ch/eli/cc/19/259_252_257)
+[^ingress-1]: [RS 742.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8719)
+[^ingress-2]: [RS 734.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8570)
 
 #### Art. 1
 
@@ -39,7 +39,7 @@ ordina:
 <sup>3</sup> La procedura d’approvazione dei piani di impianti ferroviari si applica per analogia alla determinazione delle zone riservate e degli allineamenti.
 
 [^1-1]: Nuovo testo giusta il n. 5 dell’all. all’O del 9 ott. 2013, in vigore dal 1° dic. 2013 ([RU 2013 3509](https://fedlex.data.admin.ch/eli/oc/2013/653)).
-[^1-2]: [RS 742.141.1](https://fedlex.data.admin.ch/eli/cc/1983/1902_1902_1902)
+[^1-2]: [RS 742.141.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8749)
 
 #### Art. 1a
 
@@ -56,7 +56,7 @@ Le costruzioni e gli impianti di cui all’allegato possono essere realizzati o 
 
 <sup>3</sup> Le imprese ferroviarie devono presentare annualmente all’Ufficio federale dei trasporti (UFT) un elenco di tutte le costruzioni e di tutti gli impianti realizzati o modificati senza obbligo di approvazione.
 
-[^1a-1]: Introdotto dal n. I dell’O del 4 lug. 2012, in vigore dal 1° ago. 2012 ([RU 2012 4057](https://fedlex.data.admin.ch/eli/oc/2012/465)).
+[^1a-1]: Introdotto dalla cifra I dell’O del 4 lug. 2012, in vigore dal 1° ago. 2012 ([RU 2012 4057](https://fedlex.data.admin.ch/eli/oc/2012/465)).
 
 #### Art. 2
 
@@ -64,7 +64,7 @@ Le costruzioni e gli impianti di cui all’allegato possono essere realizzati o 
 
 Le procedure d’approvazione dei piani e di concessione d’infrastruttura possono essere riunite. In tal caso, i progetti devono soddisfare le esigenze della presente ordinanza, mentre la domanda di concessione deve soddisfare quelle dell’ordinanza del 25 novembre 1998[^2-1] sul rilascio di concessioni per l’infrastruttura ferroviaria.
 
-[^2-1]: [[RU 1999 689](https://fedlex.data.admin.ch/eli/oc/1999/101).[RU 2009 5981](https://fedlex.data.admin.ch/eli/oc/2009/732)art. 26]. Vedi ora l’O del 4 nov. 2009 sulle concessioni e sul finanziamento dell’infrastruttura ferroviaria ([RS 742.120](https://fedlex.data.admin.ch/eli/cc/2015/697)).
+[^2-1]: [[RU 1999 689](https://fedlex.data.admin.ch/eli/oc/1999/101).[RU 2009 5981](https://fedlex.data.admin.ch/eli/oc/2009/732)art. 26]. Vedi ora l’O del 4 nov. 2009 sulle concessioni e sul finanziamento dell’infrastruttura ferroviaria ([RS 742.120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8733)).
 
 #### Art. 3
 
@@ -101,15 +101,19 @@ Per progetti su tratte interoperabili (art. 15*a* Oferr), oltre ai documenti di 
 - b. qualora vi sia una partecipazione di un organismo notificato di cui all’articolo 15*r* Oferr: la dichiarazione «CE» di verifica, tutti gli attestati «CE» di verifica e i dossier tecnici degli organismi di valutazione incaricati indipendenti, riguardanti la pianificazione e la fase precedente alla presentazione della domanda d’approvazione dei piani;
 - c. domande di autorizzazione di deroghe alle STI (art. 15*e* Oferr).
 
+<sup>3bis</sup> Nel caso di progetti fuori delle zone edificabili, la domanda di approvazione dei piani deve contenere in particolare i piani dai quali risulti la delimitazione di eventuali edifici nuovi o demoliti ai sensi dell’articolo 25*a* capoverso 1 dell’ordinanza del 28 giugno 2000[^3-4] sulla pianificazione del territorio e di eventuali superfici impermeabilizzate nuove o demolite ai sensi dell’articolo 25*a* capoverso 2 dell’ordinanza sulla pianificazione del territorio.[^3-5]
+
 <sup>4</sup> Per progetti su tratte interoperabili che non prevedono la partecipazione di un organismo notificato, oltre ai documenti di cui al capoverso 3, si devono presentare tutti gli attestati e i rapporti degli organismi di valutazione incaricati indipendenti, riguardanti la pianificazione e precedenti la presentazione della domanda.
 
 <sup>5</sup> Se necessario, l’autorità competente per l’approvazione (art. 18 cpv. 2 Lferr) può esigere ulteriori documenti.
 
 <sup>6</sup> L’UFT emana direttive circa il genere, le caratteristiche, il contenuto e il numero dei documenti richiesti.
 
-[^3-1]: Nuovo testo giusta il n. I dell’O del 29 mag. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1691](https://fedlex.data.admin.ch/eli/oc/2013/388)).
-[^3-2]: [RS 742.141.1](https://fedlex.data.admin.ch/eli/cc/1983/1902_1902_1902)
-[^3-3]: [RS 742.141.11](https://fedlex.data.admin.ch/eli/cc/2024/240)
+[^3-1]: Nuovo testo giusta la cifra I dell’O del 29 mag. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1691](https://fedlex.data.admin.ch/eli/oc/2013/388)).
+[^3-2]: [RS 742.141.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8749)
+[^3-3]: [RS 742.141.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8750)
+[^3-4]: [RS 700.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8353)
+[^3-5]: Introdotto dall’appendice n. 9 dell’O del 15 ott. 2025, in vigore dal 1° lug. 2026 ([RU 2025 659](https://fedlex.data.admin.ch/eli/oc/2025/659)).
 
 #### Art. 4
 
@@ -147,7 +151,7 @@ Con la decisione d’approvazione dei piani l’autorità competente può permet
 - b. non vi siano obiezioni da parte dei Cantoni interessati e dei servizi specializzati della Confederazione; e
 - c. l’inizio della costruzione non comporti modifiche irreversibili.[^6-1]
 
-[^6-1]: Nuovo testo giusta il n. I dell’O del 29 mag. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1691](https://fedlex.data.admin.ch/eli/oc/2013/388)).
+[^6-1]: Nuovo testo giusta la cifra I dell’O del 29 mag. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1691](https://fedlex.data.admin.ch/eli/oc/2013/388)).
 
 #### Art. 6a
 
@@ -155,8 +159,8 @@ Con la decisione d’approvazione dei piani l’autorità competente può permet
 
 Gli emolumenti si conformano all’ordinanza del 25 novembre 1998[^6a-2] sugli emolumenti dell’UFT.
 
-[^6a-1]: Introdotto dal n. II dell’O del 16 mar. 2001, in vigore dal 1° apr. 2001 ([RU 2001 1081](https://fedlex.data.admin.ch/eli/oc/2001/166)).
-[^6a-2]: [RS 742.102](https://fedlex.data.admin.ch/eli/cc/1999/116)
+[^6a-1]: Introdotto dalla cifra II dell’O del 16 mar. 2001, in vigore dal 1° apr. 2001 ([RU 2001 1081](https://fedlex.data.admin.ch/eli/oc/2001/166)).
+[^6a-2]: [RS 742.102](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8725)
 
 #### Art. 7
 
@@ -184,7 +188,7 @@ Di regola si applicano i seguenti termini di trattazione:
 
 L’ordinanza del 23 dicembre 1932[^9-1] sui progetti di costruzioni ferroviarie è abrogata.
 
-[^9-1]: [CS **7** 31; [RU 1984 1436](https://fedlex.data.admin.ch/eli/oc/1984/1436_1436_1436), [1991 1476](https://fedlex.data.admin.ch/eli/oc/1991/1476_1476_1476)art. 34 n. 2, [1999 689](https://fedlex.data.admin.ch/eli/oc/1999/101)art. 11 cpv. 2 [704](https://fedlex.data.admin.ch/eli/oc/1999/104)n. II 24]
+[^9-1]: [CS **7** 31; [RU 1984 1436](https://fedlex.data.admin.ch/eli/oc/1984/1436_1436_1436); [1991 1476](https://fedlex.data.admin.ch/eli/oc/1991/1476_1476_1476)art. 34 n. 2; [1999 689](https://fedlex.data.admin.ch/eli/oc/1999/101)art. 11 cpv. 2, [704](https://fedlex.data.admin.ch/eli/oc/1999/104)cifra II n. 24]
 
 #### Art. 10
 
@@ -214,7 +218,7 @@ Allegato[^t-1]
 
 [^annexu1-lvlu1-1]
 
-[^t-1]: Introdotto dal n. II dell’O del 4 lug. 2012 ([RU 2012 4057](https://fedlex.data.admin.ch/eli/oc/2012/465)). Aggiornato dall’all. all’O del 19 set. 2014, in vigore dal 1° nov. 2014 ([RU 2014 3169](https://fedlex.data.admin.ch/eli/oc/2014/534))
+[^t-1]: Introdotto dalla cifra II dell’O del 4 lug. 2012 ([RU 2012 4057](https://fedlex.data.admin.ch/eli/oc/2012/465)). Aggiornato dall’all. all’O del 19 set. 2014, in vigore dal 1° nov. 2014 ([RU 2014 3169](https://fedlex.data.admin.ch/eli/oc/2014/534)).
 [^annexu1-lvlu1-1]: Termini di cui alla SN 588 469 «Conservazione delle costruzioni», edizione 1997; www.sia.ch
 
 - a. *Ripristino di costruzioni**,* senza modifiche dell’aspetto esterno e della struttura portante;
@@ -243,4 +247,4 @@ Allegato[^t-1]
 - x. *rimozione di binari senza loro sostituzione,* lunghezza ≤ 500 m.;
 - y. *posa di croci di Sant’Andrea o segnali «Tram» ai passaggi a livello*.
 
-[^annexu1-lvlu1-2]: [RS 734.27](https://fedlex.data.admin.ch/eli/cc/2002/22)
+[^annexu1-lvlu1-2]: [RS 734.27](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8584)
