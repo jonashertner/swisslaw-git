@@ -4,11 +4,10 @@ number: "161.1"
 title: Verordnung über die politischen Rechte (VPR)
 short: VPR
 language: de
-version: "2022-10-01"
-nachtrag: "118"
-valid_until: 2026-07-01
+version: "2026-07-01"
+nachtrag: "133"
 adopted: 2004-10-27
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-161_1-2004_10_27-2005_01_01-118.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-161_1-2004_10_27-2005_01_01-133.html"
 text: pdf
 ---
 
@@ -66,7 +65,7 @@ Direktion im Sinne von § 10 Abs. 3 GPR und im Sinne dieser Verordnung ist die D
 
 **1**
 
-1.10. 22 - 118 d.[^3-3] nicht wegen dauernder Urteilsunfähigkeit unter umfassender Beistandschaft stehen oder durch eine vorsorgebeauftragte Person vertreten sind.
+- 1\. 7. 26 - 133 d.[^3-3] nicht wegen dauernder Urteilsunfähigkeit unter umfassender Beistandschaft stehen oder durch eine vorsorgebeauftragte Person vertreten sind.
 
 <sup>2</sup> Im Stimmregister oder in Zusatzregistern werden ferner eingetragen:[^3-4] a. Fahrende, welche die politischen Rechte in ihrer Heimatgemeinde ausüben,
 
@@ -170,7 +169,7 @@ Der Kanton und die Gemeinden versenden Dokumente, die nicht oder nur mit unverh�
 
 **3**
 
-1.10. 22 - 118
+- 1\. 7. 26 - 133
 
 <sup>2</sup> Die beauftragte Person ergänzt die Erklärung mit ihrem Namen und ihrer Unterschrift, ferner mit einem Zusatz, der das Vertretungsverhältnis offen legt, wie «in Vertretung» oder «im Auftrag».
 
@@ -236,30 +235,34 @@ Der Kanton und die Gemeinden versenden Dokumente, die nicht oder nur mit unverh�
 
 - k. Nachrückenlassen einer Ersatzperson (§ 108 Abs. 1 GPR).
 
-<sup>3</sup> Die übrigen Aufgaben werden vom Statistischen Amt erfüllt. Abweichende Bestimmungen dieser Verordnung bleiben vorbehalten.
+<sup>3</sup> Die übrigen Aufgaben werden vom Amt für Statistik und Daten[^hIITeilWahlenund-2] erfüllt. Abweichende Bestimmungen dieser Verordnung bleiben vorbehalten.
 
 [^hIITeilWahlenund-1]: Fassung gemäss RRB vom 31. August 2022 (OS 77, 413; ABl 2022-09-02). In Kraft seit 1. Oktober 2022.
-[^hIITeilWahlenund-2]: SR 161.11.
+[^hIITeilWahlenund-2]: Fassung gemäss RRB vom 25. März 2026 (OS 81, 303; ABl 2026-04-17). In Kraft seit 1. Juli 2026.
+[^hIITeilWahlenund-3]: SR 161.11.
 
 #### § 14
 
 **b. Bei eidgenössischen Wahlen und Abstimmungen12**
 
-Das Statistische Amt des Kantons ist a. kantonale Zentralstelle gemäss Art. 5 der eidgenössischen Verordnung über die politischen Rechte[^hIITeilWahlenund-2] bei eidgenössischen Abstimmungen,
+Das Amt für Statistik und Daten[^hIITeilWahlenund-2] des Kantons ist a. kantonale Zentralstelle gemäss Art. 5 der eidgenössischen Verordnung über die politischen Rechte[^hIITeilWahlenund-3] bei eidgenössischen Abstimmungen,
 
 - b. kantonales Wahlbüro gemäss Art. 7a der eidgenössischen Verordnung[^14-1] bei Nationalratswahlen.
 
 [^14-1]: SR 161.11.
 [^14-2]: LS 180.1.
-[^14-3]: Fassung gemäss RRB vom 31. August 2022 (OS 77, 413; ABl 2022-09-02). In Kraft seit 1. Oktober 2022.
+[^14-3]: Fassung gemäss RRB vom 25. März 2026 (OS 81, 303; ABl 2026-04-17). In Kraft seit 1. Juli 2026.
+[^14-4]: Fassung gemäss RRB vom 31. August 2022 (OS 77, 413; ABl 2022-09-02). In Kraft seit 1. Oktober 2022.
 
 #### § 14 a
 
 **c. Bei kirchlichen Wahlen und Abstimmungen**
 
-<sup>1</sup> Soweit bei kantonalen kirchlichen Erneuerungswahlen und Abstimmungen die Aufgaben der wahlleitenden Behörde dem Kanton übertragen werden (§ 17 a Abs. 2 lit. a und b Kirchengesetz vom 9. Juli 2007 [KiG][^14-2], erfüllt die Direktion die Aufgaben nach § 13 Abs. 1 und 2 dieser Verordnung. Zudem setzt sie Frist nach §§ 49 Abs. 1 und 53 Abs. 1 GPR an und erklärt vorgeschlagene Personen als gewählt (§ 54 a Abs. 1 GPR). Die übrigen übertragenen Aufgaben werden vom Statistischen Amt erfüllt.[^14-3]
+<sup>1</sup> Soweit bei kantonalen kirchlichen Erneuerungswahlen und Abstimmungen die Aufgaben der wahlleitenden Behörde dem Kanton übertragen werden (§ 17 a Abs. 2 lit. a und b Kirchengesetz vom 9. Juli 2007 [KiG][^14-2], erfüllt die Direktion die Aufgaben nach § 13 Abs. 1 und 2 dieser Verordnung. Zudem setzt sie Frist nach §§ 49 Abs. 1 und 53 Abs. 1 GPR an und erklärt vorgeschlagene Personen als gewählt (§ 54 a Abs. 1 GPR). Die übrigen übertragenen Aufgaben werden vom Amt für Statistik und Daten[^14-3] erfüllt.[^14-4]
 
-<sup>2</sup> Bei kantonalen kirchlichen Ersatzwahlen werden alle dem Kanton übertragenen Aufgaben vom Statistischen Amt erfüllt.
+<sup>2</sup> Bei kantonalen kirchlichen Ersatzwahlen werden alle dem Kanton übertragenen Aufgaben vom Amt für Statistik und Daten[^14a-1] erfüllt.
+
+[^14a-1]: Fassung gemäss RRB vom 25. März 2026 (OS 81, 303; ABl 2026-04-17). In Kraft seit 1. Juli 2026.
 
 #### § 15
 
@@ -275,7 +278,7 @@ Bei der vorzeitigen Stimmabgabe in den Abstimmungslokalen wird der Urnendienst v
 
 **5**
 
-1.10. 22 - 118 § 17. Die Leiterinnen und Leiter der Abstimmungslokale oder die Gemeindeangestellten gemäss § 15 Abs. 3 GPR überzeugen sich vor dem Einsatz der Urnen, dass sie leer sind. Danach verschliessen sie diese und schützen sie vor unbefugtem Einwerfen von Wahl- oder Stimmzetteln und vor Entwendung.
+- 1\. 7. 26 - 133 § 17. Die Leiterinnen und Leiter der Abstimmungslokale oder die Gemeindeangestellten gemäss § 15 Abs. 3 GPR überzeugen sich vor dem Einsatz der Urnen, dass sie leer sind. Danach verschliessen sie diese und schützen sie vor unbefugtem Einwerfen von Wahl- oder Stimmzetteln und vor Entwendung.
 
 #### § 18
 
@@ -365,7 +368,7 @@ Amt dauer Verordnung a. Nationalrat, Ständerat b. Kantonsrat, Regierungsrat c. 
 
 **7**
 
-1.10. 22 - 118
+- 1\. 7. 26 - 133
 
 <sup>5</sup> Abs. 3 gilt auch für Begehren um Durchführung einer Bestätigungswahl an der Urne für Pfarrerinnen und Pfarrer (§ 13 Abs. 3 KiG[^21-7]. Solche Begehren können nicht eingesehen werden.[^21-8]
 
@@ -443,7 +446,7 @@ Amt dauer Verordnung a. Nationalrat, Ständerat b. Kantonsrat, Regierungsrat c. 
 
 **9**
 
-1.10. 22 - 118
+- 1\. 7. 26 - 133
 
 <sup>3</sup> Für Personen ohne Internetzugang wird eine Möglichkeit zur Verfügung gestellt, kostenlos Einsicht in die auf einer Internetseite veröffentlichten Einzelheiten zu nehmen. Im Beleuchtenden Bericht wird auf diese Möglichkeit hingewiesen.
 
@@ -557,7 +560,7 @@ Stimmabgabe an der Urne (§ 68 Abs. 1 und 3 GPR).
 
 **11**
 
-1.10. 22 - 118 § 37.[^36-1] <sup>1</sup> Die Gemeindeangestellten prüfen die Antwortkuverts gemäss § 69 a GPR. Dabei gilt:
+- 1\. 7. 26 - 133 § 37.[^36-1] <sup>1</sup> Die Gemeindeangestellten prüfen die Antwortkuverts gemäss § 69 a GPR. Dabei gilt:
 
 **b. Mit Vorprüfung**
 
@@ -577,7 +580,7 @@ Stimmabgabe an der Urne (§ 68 Abs. 1 und 3 GPR).
 
 <sup>2</sup> Zeigt sich während des Auszählens, dass eine unter «Vereinzelte» fallende Person gewählt werden könnte, kann die Präsidentin oder der Präsident der wahlleitenden Behörde anordnen, dass auch deren Stimmen einzeln ausgezählt werden.
 
-<sup>3</sup> Bei kantonalen Wahlen werden die Entscheide nach Abs. 1 und 2 vom Statistischen Amt getroffen.[^36-2]
+<sup>3</sup> Bei kantonalen Wahlen werden die Entscheide nach Abs. 1 und 2 vom Amt für Statistik und Daten[^36-2] getroffen.[^36-3]
 
 **Beginn der Bearbeitung und Auszählung**
 
@@ -601,12 +604,13 @@ Stimmabgabe an der Urne (§ 68 Abs. 1 und 3 GPR).
 
 <sup>3</sup> Die Präsidentin oder der Präsident des Wahlbüros trifft Vorkehrungen, damit der Ausgang der Wahl oder Abstimmung nicht vor Schliessung der Urnen abgeschätzt werden kann.
 
-<sup>4</sup> Die wahlleitende Behörde bzw. bei kantonalen Wahlen und Abstimmungen die Direktion bestimmt den Zeitpunkt, bis zu dem die Wahl- und Stimmzettel ausgewertet sein sollen. Die Qualität der Auswertung der Wahl- und Stimmzettel geht der Einhaltung der Zeitvorgabe vor.[^36-2]
+<sup>4</sup> Die wahlleitende Behörde bzw. bei kantonalen Wahlen und Abstimmungen die Direktion bestimmt den Zeitpunkt, bis zu dem die Wahl- und Stimmzettel ausgewertet sein sollen. Die Qualität der Auswertung der Wahl- und Stimmzettel geht der Einhaltung der Zeitvorgabe vor.[^36-3]
 
 <sup>5</sup> Finden gleichzeitig Wahlen oder Abstimmungen auf der Ebene des Bundes, des Kantons, des Bezirks, des Kreises oder der Gemeinde statt, so werden die Wahl- und Stimmzettel in dieser Reihenfolge ausgewertet.
 
 [^36-1]: Fassung gemäss RRB vom 31. August 2022 (OS 77, 413; ABl 2022-09-02). In Kraft seit 1. Oktober 2022.
-[^36-2]: Fassung gemäss RRB vom 9. Dezember 2009 (OS 64, 883; ABl 2009, 2463). In Kraft seit 1. Januar 2010.
+[^36-2]: Fassung gemäss RRB vom 25. März 2026 (OS 81, 303; ABl 2026-04-17). In Kraft seit 1. Juli 2026.
+[^36-3]: Fassung gemäss RRB vom 9. Dezember 2009 (OS 64, 883; ABl 2009, 2463). In Kraft seit 1. Januar 2010.
 
 #### § 40
 
@@ -638,7 +642,7 @@ Die Abläufe im Wahlbüro werden so festgelegt, dass das Stimmgeheimnis gewahrt 
 
 **13**
 
-1.10. 22 - 118 § 44.[^40-2]
+- 1\. 7. 26 - 133 § 44.[^40-2]
 
 **Stempelung bei gedruckten Wahlzetteln**
 
@@ -727,7 +731,9 @@ der Ja-Stimmen und die Zahl der Nein-Stimmen,
 
 **15**
 
-1.10. 22 - 118 b. Eine Person wird wegen Nichterreichens des absoluten Mehrs nicht gewählt, und die Differenz zwischen ihrer Stimmenzahl und dem absoluten Mehr beträgt weniger als 0,8 Prozent des absoluten Mehrs.
+- 1\. 7. 26 - 133
+
+- b. Eine Person wird wegen Nichterreichens des absoluten Mehrs nicht gewählt, und die Differenz zwischen ihrer Stimmenzahl und dem absoluten Mehr beträgt weniger als 0,8 Prozent des absoluten Mehrs.
 
 [^49-1]: Fassung gemäss RRB vom 31. August 2022 (OS 77, 413; ABl 2022-09-02). In Kraft seit 1. Oktober 2022.
 
@@ -747,29 +753,31 @@ der Ja-Stimmen und die Zahl der Nein-Stimmen,
 
 **Mehrfachkandidaturen**
 
-§ 52.[^50-1] Eine Person darf nur auf einem Wahlvorschlag zur Wahl vorgeschlagen werden. Andernfalls entfernt das Statistische Amt ihren Namen von allen Wahlvorschlägen.
+§ 52.[^50-1] Eine Person darf nur auf einem Wahlvorschlag zur Wahl vorgeschlagen werden. Andernfalls entfernt das Amt für Statistik und Daten[^50-2] ihren Namen von allen Wahlvorschlägen.
 
 **Listen**
 
 § 53.[^50-1] Die Angaben auf den Listen entsprechen jenen auf den gedruckten Wahlzetteln gemäss § 26 Abs. 1. Die Parteizugehörigkeit wird nicht erwähnt.
 
 [^50-1]: Fassung gemäss RRB vom 31. August 2022 (OS 77, 413; ABl 2022-09-02). In Kraft seit 1. Oktober 2022.
+[^50-2]: Fassung gemäss RRB vom 25. März 2026 (OS 81, 303; ABl 2026-04-17). In Kraft seit 1. Juli 2026.
 
 #### § 54
 
 **Zusammenstellung der Kandidierenden**
 
-<sup>1</sup> Das Statistische Amt stellt die Namen der Personen, die auf den Listen des Wahlkreises genannt sind, in alphabetischer Reihenfolge zusammen, unter Angabe der Listenbezeichnung und der Listennummer.[^50-1]
+<sup>1</sup> Das Amt für Statistik und Daten[^50-2] stellt die Namen der Personen, die auf den Listen des Wahlkreises genannt sind, in alphabetischer Reihenfolge zusammen, unter Angabe der Listenbezeichnung und der Listennummer.[^50-1]
 
 <sup>2</sup> Sie macht die Zusammenstellung den Wahlbüros der Gemeinden bekannt.
 
 [^54-1]: Fassung gemäss RRB vom 9. Dezember 2009 (OS 64, 883; ABl 2009, 2463). In Kraft seit 1. Januar 2010.
+[^54-2]: Fassung gemäss RRB vom 25. März 2026 (OS 81, 303; ABl 2026-04-17). In Kraft seit 1. Juli 2026.
 
 #### § 55
 
 **Listengruppen**
 
-<sup>1</sup> Listen werden als Listengruppe behandelt, wenn a.[^54-1] die Vertreterinnen oder Vertreter der Unterzeichnenden der Listen eine entsprechende schriftliche Erklärung gegenüber dem Statistischen Amt abgegeben haben,
+<sup>1</sup> Listen werden als Listengruppe behandelt, wenn a.[^54-1] die Vertreterinnen oder Vertreter der Unterzeichnenden der Listen eine entsprechende schriftliche Erklärung gegenüber dem Amt für Statistik und Daten[^54-2] abgegeben haben,
 
 - b. sämtliche Listen aus verschiedenen Wahlkreisen stammen,
 
@@ -815,7 +823,7 @@ der Ja-Stimmen und die Zahl der Nein-Stimmen,
 
 - b. Ordnungswidrigkeiten und die getroffenen Anordnungen.
 
-<sup>3</sup> Die Protokolle des Wahlbüros oder der Stimmkreise werden direkt dem Statistischen Amt übermittelt.[^56-3]
+<sup>3</sup> Die Protokolle des Wahlbüros oder der Stimmkreise werden direkt dem Amt für Statistik und Daten[^56-3] übermittelt.[^56-4]
 
 **Publikation**
 
@@ -825,7 +833,9 @@ der Ja-Stimmen und die Zahl der Nein-Stimmen,
 
 **17**
 
-1.10. 22 - 118 b. die Wählerzahl jeder Listengruppe, den Kantons-Wahlschlüssel und den Sitzanspruch jeder Listengruppe,
+- 1\. 7. 26 - 133
+
+- b. die Wählerzahl jeder Listengruppe, den Kantons-Wahlschlüssel und den Sitzanspruch jeder Listengruppe,
 
 - c. in einer Tabelle den Sitzanspruch jedes Wahlkreises und jeder Listengruppe, die Parteistimmen jeder Liste, die Wahlkreis-Divisoren, die Listengruppen-Divisoren und die jeder Liste zugewiesene Zahl von Sitzen,
 
@@ -835,18 +845,19 @@ der Ja-Stimmen und die Zahl der Nein-Stimmen,
 
 **Ständerat**
 
-§ 59.[^56-4], <sup>23</sup> Der Versand des Stimmmaterials an Auslandschweizerinnen und Auslandschweizer und deren Stimmabgabe an der Urne richten sich nach Art. 12 und 13 der Auslandschweizerverordnung vom 7. Oktober 2015[^56-5].
+§ 59.[^56-5], <sup>23</sup> Der Versand des Stimmmaterials an Auslandschweizerinnen und Auslandschweizer und deren Stimmabgabe an der Urne richten sich nach Art. 12 und 13 der Auslandschweizerverordnung vom 7. Oktober 2015[^56-6].
 
 **Nationalrat**
 
-§ 60.[^56-2] Die Bereinigungsfrist gemäss Art. 29 Abs. 4 des Bundesgesetzes vom 17. Dezember 1976 über die politischen Rechte[^56-6] endet am zweiten Montag nach dem Schlusstermin für die Wahlanmeldung gemäss § 110 GPR.
+§ 60.[^56-2] Die Bereinigungsfrist gemäss Art. 29 Abs. 4 des Bundesgesetzes vom 17. Dezember 1976 über die politischen Rechte[^56-7] endet am zweiten Montag nach dem Schlusstermin für die Wahlanmeldung gemäss § 110 GPR.
 
 [^56-1]: Eingefügt durch RRB vom 31. August 2022 (OS 77, 413; ABl 2022-09-02). In Kraft seit 1. Oktober 2022.
 [^56-2]: Fassung gemäss RRB vom 31. August 2022 (OS 77, 413; ABl 2022-09-02). In Kraft seit 1. Oktober 2022.
-[^56-3]: Fassung gemäss RRB vom 9. Dezember 2009 (OS 64, 883; ABl 2009, 2463). In Kraft seit 1. Januar 2010.
-[^56-4]: Aufgehoben durch RRB vom 3. November 2010 (OS 65, 767; ABl 2010, 2429). In Kraft seit 1. Januar 2011.
-[^56-5]: SR 195.11.
-[^56-6]: SR 161.1.
+[^56-3]: Fassung gemäss RRB vom 25. März 2026 (OS 81, 303; ABl 2026-04-17). In Kraft seit 1. Juli 2026.
+[^56-4]: Fassung gemäss RRB vom 9. Dezember 2009 (OS 64, 883; ABl 2009, 2463). In Kraft seit 1. Januar 2010.
+[^56-5]: Aufgehoben durch RRB vom 3. November 2010 (OS 65, 767; ABl 2010, 2429). In Kraft seit 1. Januar 2011.
+[^56-6]: SR 195.11.
+[^56-7]: SR 161.1.
 
 ### III. Teil: Kantonale Initiativen
 
@@ -906,7 +917,7 @@ Bei der Veröffentlichung der Volksinitiative im Amtsblatt wird neben den in § 
 
 **19**
 
-1.10. 22 - 118
+- 1\. 7. 26 - 133
 
 <sup>2</sup> Beschliesst der Kantonsrat, eine Initiative in der Form der allgemeinen Anregung ohne Gegenvorschlag umzusetzen, unterbreitet ihm der Regierungsrat innert 16 Monaten nach Einreichung der Initiative Bericht und Antrag über die Umsetzungsvorlage. Der Kantonsrat beschliesst darüber innert 23 Monaten nach Einreichung der Initiative.
 
@@ -986,7 +997,7 @@ Bei der Veröffentlichung der Volksinitiative im Amtsblatt wird neben den in § 
 
 **21**
 
-1.10. 22 - 118 § 71.[^hVTeilVolksinitia-4],[^hVTeilVolksinitia-5] <sup>1</sup> Die Mehrheit der Mitglieder des Initiativkomitees kann die Volksinitiative mit schriftlicher Erklärung an den Verbandsvorstand zurückziehen.
+- 1\. 7. 26 - 133 § 71.[^hVTeilVolksinitia-4],[^hVTeilVolksinitia-5] <sup>1</sup> Die Mehrheit der Mitglieder des Initiativkomitees kann die Volksinitiative mit schriftlicher Erklärung an den Verbandsvorstand zurückziehen.
 
 **c. Rückzug**
 
@@ -1046,7 +1057,7 @@ Für Volksinitiativen in Zweckverbänden mit Delegiertenversammlung gelten §§ 
 
 <sup>3</sup> Für die Teilnahme der Auslandschweizerinnen und Auslandschweizer am Urnengang vom 28. September 2014 gelten die bisherigen Regelungen und Zuständigkeiten.
 
-[^hÜbergangsbestimmunge-1]: Eingefügt durch RRB vom 16. April 2014 (OS 69, 273; ABl 2014-04-25). In Kraft seit 1. Juli 2014. 1.10. 22 - 118 23
+[^hÜbergangsbestimmunge-1]: Eingefügt durch RRB vom 16. April 2014 (OS 69, 273; ABl 2014-04-25). In Kraft seit 1. Juli 2014. 1. 7. 26 - 133 23
 
 ## Weitere Fussnoten
 
