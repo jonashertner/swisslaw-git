@@ -4,18 +4,18 @@ title: Legge federale del 23 settembre 1953 sulla navigazione marittima sotto ba
 short: LNM
 eli: "https://fedlex.data.admin.ch/eli/cc/1956/1305_1395_1407"
 language: it
-version: 2023-07-01
+version: 2026-07-01
 adopted: 1953-09-23
 in_force: 1957-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1956/1305_1395_1407/20230701/it/xml/fedlex-data-admin-ch-eli-cc-1956-1305_1395_1407-20230701-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1956/1305_1395_1407/20230701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1956/1305_1395_1407/20260701/it/xml/fedlex-data-admin-ch-eli-cc-1956-1305_1395_1407-20260701-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1956/1305_1395_1407/20260701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Legge federale sulla navigazione marittima sotto bandiera svizzera
 
-del 23 settembre 1953 (Stato 1° luglio 2023)
+del 23 settembre 1953 (Stato 1° luglio 2026)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -24,7 +24,7 @@ visti gli articoli 87 e 122 della Costituzione federale[^ingress-1];[^ingress-2]
 decreta:
 
 [^ingress-1]: [RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
-[^ingress-2]: Nuovo testo giusta l’all. 3 n. II 4 della L del 21 giu. 2013 sulla protezione degli stemmi, in vigore dal 1° gen. 2017 ([RU 2015 3679](https://fedlex.data.admin.ch/eli/oc/2015/613); [FF 2009 7425](https://fedlex.data.admin.ch/eli/fga/2009/1471)).
+[^ingress-2]: Nuovo testo giusta l’all. 3 cifra II n. 4 della L del 21 giu. 2013 sulla protezione degli stemmi, in vigore dal 1° gen. 2017 ([RU 2015 3679](https://fedlex.data.admin.ch/eli/oc/2015/613); [FF 2009 7425](https://fedlex.data.admin.ch/eli/fga/2009/1471)).
 
 ## Titolo I: Organizzazione e autorità
 
@@ -44,7 +44,7 @@ Nella misura compatibile con i principî del diritto delle genti, la navigazione
 
 <sup>2</sup> Basilea è l’unico porto d’iscrizione delle navi svizzere.[^2-1]
 
-[^2-1]: Nuovo testo giusta il n. I della LF del 14 dic. 1965, in vigore dal 1° gen. 1967 ([RU 1966 1491](https://fedlex.data.admin.ch/eli/oc/1966/1453_1503_1491); [FF 1965 II 1](https://fedlex.data.admin.ch/eli/fga/1965/2_284_303_1)).
+[^2-1]: Nuovo testo giusta la cifra I della LF del 14 dic. 1965, in vigore dal 1° gen. 1967 ([RU 1966 1491](https://fedlex.data.admin.ch/eli/oc/1966/1453_1503_1491); [FF 1965 II 1](https://fedlex.data.admin.ch/eli/fga/1965/2_284_303_1)).
 
 ### Bandiera marittima svizzera
 
@@ -54,7 +54,7 @@ Nella misura compatibile con i principî del diritto delle genti, la navigazione
 
 <sup>2</sup> Per la forma, il colore e le proporzioni fa stato il modello raffigurato nell’allegato I.[^3-1]
 
-[^3-1]: Nuovo testo giusta l’all. 3 n. II 4 della L del 21 giu. 2013 sulla protezione degli stemmi, in vigore dal 1° gen. 2017 ([RU 2015 3679](https://fedlex.data.admin.ch/eli/oc/2015/613); [FF 2009 7425](https://fedlex.data.admin.ch/eli/fga/2009/1471)).
+[^3-1]: Nuovo testo giusta l’all. 3 cifra II n. 4 della L del 21 giu. 2013 sulla protezione degli stemmi, in vigore dal 1° gen. 2017 ([RU 2015 3679](https://fedlex.data.admin.ch/eli/oc/2015/613); [FF 2009 7425](https://fedlex.data.admin.ch/eli/fga/2009/1471)).
 
 ### Applicazione del diritto svizzero
 
@@ -68,7 +68,7 @@ Nella misura compatibile con i principî del diritto delle genti, la navigazione
 
 <sup>4</sup>
 
-Fatta salva una crassa violazione dei principi della Costituzione fe-derale e della Convenzione del 4 novembre 1950[^4-2] per la salvaguardia dei diritti dell’uomo e delle libertà fondamentali, l’autore non è più perseguito in Svizzera per il medesimo fatto se:
+Fatta salva una crassa violazione dei principi della Costituzione federale e della Convenzione del 4 novembre 1950[^4-2] per la salvaguardia dei diritti dell’uomo e delle libertà fondamentali, l’autore non è più perseguito in Svizzera per il medesimo fatto se:
 
 - a. è stato assolto con sentenza definitiva da un tribunale estero; o
 - b. la sanzione inflittagli all’estero è stata eseguita o condonata oppure è caduta in prescrizione.[^4-3]
@@ -77,8 +77,8 @@ Fatta salva una crassa violazione dei principi della Costituzione fe-derale e de
 
 [^4-1]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 [^4-2]: [RS 0.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3)
-[^4-3]: Nuovo testo giusta il n. I 24 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
-[^4-4]: Introdotto dal n. I 24 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^4-3]: Nuovo testo giusta la cifra I n. 24 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^4-4]: Introdotto dalla cifra I n. 24 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Conclusione autonoma di convenzioni internazionali da parte del Consiglio federale
 
@@ -97,7 +97,7 @@ Il Consiglio federale può concludere convenzioni internazionali adottate nell�
 
 <sup>2</sup> Prima di concludere una convenzione internazionale consulta le cerchie interessate.
 
-[^4a-1]: Introdotto dal n. I della LF del 22 mar. 2013, in vigore dal 20 ago. 2013 ([RU 2013 2323](https://fedlex.data.admin.ch/eli/oc/2013/488); [FF 2012 7595](https://fedlex.data.admin.ch/eli/fga/2012/1568)).
+[^4a-1]: Introdotto dalla cifra I della LF del 22 mar. 2013, in vigore dal 20 ago. 2013 ([RU 2013 2323](https://fedlex.data.admin.ch/eli/oc/2013/488); [FF 2012 7595](https://fedlex.data.admin.ch/eli/fga/2012/1568)).
 
 ### Ordinanze del Consiglio federale
 
@@ -109,7 +109,7 @@ Il Consiglio federale può concludere convenzioni internazionali adottate nell�
 
 <sup>3</sup> Se gli importi unitari o le unità di conto per il calcolo della limitazione della responsabilità, fissati in convenzioni internazionali, sono modificati, o se intervengono cambiamenti essenziali e durevoli delle basi di valutazione o di calcolo, il Consiglio federale può diminuire o aumentare gli importi unitari della responsabilità (art. 49, 105, 118 e 126) o determinarli in altre unità di conto e disciplinare la procedura di conversione in moneta nazionale.[^5-1]
 
-[^5-1]: Introdotto dal n. I della LF del 20 mar. 1987, in vigore dal 1° feb. 1989 ([RU 1989 212](https://fedlex.data.admin.ch/eli/oc/1989/212_212_212); [FF 1986 II 541](https://fedlex.data.admin.ch/eli/fga/1986/2_717_741_541)).
+[^5-1]: Introdotto dalla cifra I della LF del 20 mar. 1987, in vigore dal 1° feb. 1989 ([RU 1989 212](https://fedlex.data.admin.ch/eli/oc/1989/212_212_212); [FF 1986 II 541](https://fedlex.data.admin.ch/eli/fga/1986/2_717_741_541)).
 
 ### Misure straordinarie
 
@@ -121,7 +121,7 @@ Il Consiglio federale può concludere convenzioni internazionali adottate nell�
 
 <sup>3</sup> Qualora prenda altre misure, il Consiglio federale può secondo le circostanze fissare un’indennità, se un danno notevole è derivato dall’impossibilità di trarre altrimenti profitto dalla nave; l’indennità è concessa al proprietario della nave, all’armatore o al vettore.
 
-[^6-1]: Nuovo testo giusta l’all. 2 n. II 4 della L del 17 giu. 2016 sull’approvvigionamento del Paese, in vigore dal 1° giu. 2017 ([RU 2017 3097](https://fedlex.data.admin.ch/eli/oc/2017/308); [FF 2014 6105](https://fedlex.data.admin.ch/eli/fga/2014/1571)).
+[^6-1]: Nuovo testo giusta l’all. 2 cifra II n. 4 della L del 17 giu. 2016 sull’approvvigionamento del Paese, in vigore dal 1° giu. 2017 ([RU 2017 3097](https://fedlex.data.admin.ch/eli/oc/2017/308); [FF 2014 6105](https://fedlex.data.admin.ch/eli/fga/2014/1571)).
 
 ### Applicazione del diritto da parte del giudice
 
@@ -169,7 +169,7 @@ Il Consiglio federale può concludere convenzioni internazionali adottate nell�
 
 <sup>2</sup> Salvo disposizioni contrarie della presente legge o delle ordinanze che ne derivano, alla tenuta del registro del naviglio svizzero è applicabile per analogia la legislazione federale in materia di registro del naviglio.[^10-1]
 
-[^10-1]: Nuovo testo giusta il n. I della LF del 18 dic. 1992, in vigore dal 1° giu. 1993 ([RU 1993 1703](https://fedlex.data.admin.ch/eli/oc/1993/1703_1703_1703); [FF 1992 II 1313](https://fedlex.data.admin.ch/eli/fga/1992/2_1561_1533_1313)).
+[^10-1]: Nuovo testo giusta la cifra I della LF del 18 dic. 1992, in vigore dal 1° giu. 1993 ([RU 1993 1703](https://fedlex.data.admin.ch/eli/oc/1993/1703_1703_1703); [FF 1992 II 1313](https://fedlex.data.admin.ch/eli/fga/1992/2_1561_1533_1313)).
 
 ### Organizzazione degli uffici; responsabilità
 
@@ -199,7 +199,7 @@ Il Consiglio federale può concludere convenzioni internazionali adottate nell�
 
 <sup>2</sup> ...[^13-2]
 
-[^13-1]: Nuovo testo giusta il n. I della LF del 17 dic. 1976, in vigore dal 1° ago. 1977 ([RU 1977 1323](https://fedlex.data.admin.ch/eli/oc/1977/1323_1323_1323); [FF 1976 II 1165](https://fedlex.data.admin.ch/eli/fga/1976/2_1181_1153_1165)).
+[^13-1]: Nuovo testo giusta la cifra I della LF del 17 dic. 1976, in vigore dal 1° ago. 1977 ([RU 1977 1323](https://fedlex.data.admin.ch/eli/oc/1977/1323_1323_1323); [FF 1976 II 1165](https://fedlex.data.admin.ch/eli/fga/1976/2_1181_1153_1165)).
 [^13-2]: Abrogato dall’all. n. 81 della L del 17 giu. 2005 sul Tribunale amministrativo federale, con effetto dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 ### Giurisdizione civile
@@ -222,28 +222,30 @@ Il Consiglio federale può concludere convenzioni internazionali adottate nell�
 
 <sup>3</sup> Le autorità del Cantone di Basilea Città sono tenute a comunicare al Ministero pubblico della Confederazione tutte le sentenze penali e tutte le dichiarazioni di non doversi procedere pronunciate in virtù della presente legge.
 
-[^15-1]: Nuovo testo giusta il n. I 24 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^15-1]: Nuovo testo giusta la cifra I n. 24 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 #### Art. 16
 
 [^16-1]
 
-[^16-1]: Abrogato dall’all. 1 n. II 24 del Codice di procedura civile del 19 dic. 2008, con effetto dal 1° gen. 2011 ([RU 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6593](https://fedlex.data.admin.ch/eli/fga/2006/914)).
+[^16-1]: Abrogato dall’all. 1 cifra II n. 24 del Codice di procedura civile del 19 dic. 2008, con effetto dal 1° gen. 2011 ([RU 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6593](https://fedlex.data.admin.ch/eli/fga/2006/914)).
 
 ## Titolo II: Navi svizzere
 
 ### Capo I: Iscrizione delle navi
 
-### I. Condizioni In generale
+### I. Condizioni
+
+### In generale
 
 #### Art. 17
 
-<sup>1</sup> Possono essere iscritte nel registro del naviglio svizzero soltanto le navi adibite o destinate al trasporto professionale di persone o di cose o ad altra attività professionale in mare, che rispondono alle condizioni legali circa la proprietà, i mezzi finanziari, l’ammissione alla navigazione marittima, il nome e la procedura.[^17-1]
+<sup>1</sup> Possono essere iscritte nel registro del naviglio svizzero soltanto le navi adibite o destinate al trasporto professionale di persone o di cose o ad altra attività professionale in mare, che rispondono alle condizioni legali circa la proprietà, i mezzi finanziari, l’ammissione alla navigazione marittima, il nome e la procedura.[^18-1]
 
-<sup>2</sup> Ogni iscrizione e cancellazione dev’essere pubblicata dall’Ufficio svizzero del registro del naviglio nel *Foglio federale* e nel *Foglio ufficiale svizzero di commercio*.[^17-2]
+<sup>2</sup> Ogni iscrizione e cancellazione dev’essere pubblicata dall’Ufficio svizzero del registro del naviglio nel *Foglio federale* e nel *Foglio ufficiale svizzero di commercio*.[^18-2]
 
-[^17-1]: Nuovo testo giusta il n. I della LF del 20 mar. 1987, in vigore dal 1° feb. 1989 ([RU 1989 212](https://fedlex.data.admin.ch/eli/oc/1989/212_212_212); [FF 1986 II 541](https://fedlex.data.admin.ch/eli/fga/1986/2_717_741_541)).
-[^17-2]: Cpv. 3 originario. Il cpv. 2 primitivo è stato abrogato dal n. I della LF del 17 dic. 1976 ([RU 1977 1323](https://fedlex.data.admin.ch/eli/oc/1977/1323_1323_1323); [FF 1976 II 1165](https://fedlex.data.admin.ch/eli/fga/1976/2_1181_1153_1165)).
+[^18-1]: Nuovo testo giusta la cifra I della LF del 20 mar. 1987, in vigore dal 1° feb. 1989 ([RU 1989 212](https://fedlex.data.admin.ch/eli/oc/1989/212_212_212); [FF 1986 II 541](https://fedlex.data.admin.ch/eli/fga/1986/2_717_741_541)).
+[^18-2]: Cpv. 3 originario. Il cpv. 2 primitivo è stato abrogato dalla cifra I della LF del 17 dic. 1976 ([RU 1977 1323](https://fedlex.data.admin.ch/eli/oc/1977/1323_1323_1323); [FF 1976 II 1165](https://fedlex.data.admin.ch/eli/fga/1976/2_1181_1153_1165)).
 
 ### II. Enti e istituti di diritto pubblico
 
@@ -261,17 +263,17 @@ Nel registro del naviglio svizzero sono iscritte le navi appartenenti alla Confe
 
 Le aziende individuali, le società commerciali e le società cooperative iscritte nel registro svizzero di commercio, che adempiano le condizioni previste negli articoli 20–24 e la cui sede e centro effettivo d’affari si trovi in Svizzera, possono iscrivere le loro navi nel registro del naviglio svizzero.
 
-[^19-1]: Nuovo testo giusta il n. I della LF del 18 dic. 1992, in vigore dal 1° giu. 1993 ([RU 1993 1703](https://fedlex.data.admin.ch/eli/oc/1993/1703_1703_1703); [FF 1992 II 1313](https://fedlex.data.admin.ch/eli/fga/1992/2_1561_1533_1313)).
+[^19-1]: Nuovo testo giusta la cifra I della LF del 18 dic. 1992, in vigore dal 1° giu. 1993 ([RU 1993 1703](https://fedlex.data.admin.ch/eli/oc/1993/1703_1703_1703); [FF 1992 II 1313](https://fedlex.data.admin.ch/eli/fga/1992/2_1561_1533_1313)).
 
 ### 2. Cittadinanza e domicilio
 
 #### Art. 20
 
-[^20-1]
+[^31-1]
 
 Fintanto che il diritto internazionale non disponga altrimenti, il Consiglio federale stabilisce le condizioni in materia di cittadinanza e di domicilio che devono adempiere le persone fisiche, i titolari di un’azienda individuale, i soci, gli accomandanti, gli azionisti, i soci di una società cooperativa o altri titolari di quote sociali nonché tutti i gerenti di una società in nome collettivo, in accomandita o a garanzia limitata.
 
-[^20-1]: Nuovo testo giusta il n. I della LF del 18 dic. 1992, in vigore dal 1° giu. 1993 ([RU 1993 1703](https://fedlex.data.admin.ch/eli/oc/1993/1703_1703_1703); [FF 1992 II 1313](https://fedlex.data.admin.ch/eli/fga/1992/2_1561_1533_1313)).
+[^31-1]: Nuovo testo giusta la cifra I della LF del 18 dic. 1992, in vigore dal 1° giu. 1993 ([RU 1993 1703](https://fedlex.data.admin.ch/eli/oc/1993/1703_1703_1703); [FF 1992 II 1313](https://fedlex.data.admin.ch/eli/fga/1992/2_1561_1533_1313)).
 
 ### 3. Organi di amministrazione e di controllo
 
@@ -281,7 +283,7 @@ Fintanto che il diritto internazionale non disponga altrimenti, il Consiglio fed
 
 Fintanto che il diritto internazionale non disponga altrimenti, il Consiglio federale stabilisce le condizioni in materia di cittadinanza e di domicilio che devono adempiere gli organi d’amministrazione e di gestione di una società anonima, in accomandita per azioni, a garanzia limitata o cooperativa, come pure le persone incaricate del controllo di queste società.
 
-[^21-1]: Nuovo testo giusta il n. I della LF del 18 dic. 1992, in vigore dal 1° giu. 1993 ([RU 1993 1703](https://fedlex.data.admin.ch/eli/oc/1993/1703_1703_1703); [FF 1992 II 1313](https://fedlex.data.admin.ch/eli/fga/1992/2_1561_1533_1313)).
+[^21-1]: Nuovo testo giusta la cifra I della LF del 18 dic. 1992, in vigore dal 1° giu. 1993 ([RU 1993 1703](https://fedlex.data.admin.ch/eli/oc/1993/1703_1703_1703); [FF 1992 II 1313](https://fedlex.data.admin.ch/eli/fga/1992/2_1561_1533_1313)).
 
 ### 4. Azioni e quote sociali
 
@@ -294,7 +296,7 @@ Fintanto che il diritto internazionale non disponga altrimenti, il Consiglio fed
 <sup>3</sup> Le azioni e le quote sociali possono essere validamente costituite in pegno, gravate da usufrutto o da qualsiasi altro diritto soltanto mediante autorizzazione della società e iscrizione nel libro delle azioni o delle quote sociali.
 
 [^22-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
-[^22-2]: Nuovo testo giusta il n. I della LF del 18 dic. 1992, in vigore dal 1° giu. 1993 ([RU 1993 1703](https://fedlex.data.admin.ch/eli/oc/1993/1703_1703_1703); [FF 1992 II 1313](https://fedlex.data.admin.ch/eli/fga/1992/2_1561_1533_1313)).
+[^22-2]: Nuovo testo giusta la cifra I della LF del 18 dic. 1992, in vigore dal 1° giu. 1993 ([RU 1993 1703](https://fedlex.data.admin.ch/eli/oc/1993/1703_1703_1703); [FF 1992 II 1313](https://fedlex.data.admin.ch/eli/fga/1992/2_1561_1533_1313)).
 
 ### 5. Società e creditori interessati
 
@@ -308,7 +310,7 @@ Il Consiglio federale stabilisce ai sensi degli articoli 20 e 21 le condizioni c
 - b. come creditore di capitali investiti d’origine svizzera o come usufruttuario, oppure in virtù di altri diritti particolari;
 - c. come ufficio di revisione.
 
-[^23-1]: Nuovo testo giusta il n. I della LF del 18 dic. 1992, in vigore dal 1° giu. 1993 ([RU 1993 1703](https://fedlex.data.admin.ch/eli/oc/1993/1703_1703_1703); [FF 1992 II 1313](https://fedlex.data.admin.ch/eli/fga/1992/2_1561_1533_1313)).
+[^23-1]: Nuovo testo giusta la cifra I della LF del 18 dic. 1992, in vigore dal 1° giu. 1993 ([RU 1993 1703](https://fedlex.data.admin.ch/eli/oc/1993/1703_1703_1703); [FF 1992 II 1313](https://fedlex.data.admin.ch/eli/fga/1992/2_1561_1533_1313)).
 
 ### 6. Mezzi finanziari
 
@@ -322,7 +324,7 @@ Il Consiglio federale stabilisce ai sensi degli articoli 20 e 21 le condizioni c
 
 <sup>3</sup> Il Consiglio federale stabilisce in che misura e per quanto tempo i fondi propri, ove diminuiscano in seguito a perdite, possano rimanere al di sotto del limite fissato nel capoverso 2.
 
-[^24-1]: Nuovo testo giusta il n. I della LF del 18 dic. 1992, in vigore dal 1° giu. 1993 ([RU 1993 1703](https://fedlex.data.admin.ch/eli/oc/1993/1703_1703_1703); [FF 1992 II 1313](https://fedlex.data.admin.ch/eli/fga/1992/2_1561_1533_1313)).
+[^24-1]: Nuovo testo giusta la cifra I della LF del 18 dic. 1992, in vigore dal 1° giu. 1993 ([RU 1993 1703](https://fedlex.data.admin.ch/eli/oc/1993/1703_1703_1703); [FF 1992 II 1313](https://fedlex.data.admin.ch/eli/fga/1992/2_1561_1533_1313)).
 
 ### 7. Dichiarazione di conformità
 
@@ -332,7 +334,7 @@ Il Consiglio federale stabilisce ai sensi degli articoli 20 e 21 le condizioni c
 
 L’USNM attesta mediante una dichiarazione di conformità l’adempimento delle condizioni previste dagli articoli 18 a 24.
 
-[^25-1]: Nuovo testo giusta il n. I della LF del 18 dic. 1992, in vigore dal 1° giu. 1993 ([RU 1993 1703](https://fedlex.data.admin.ch/eli/oc/1993/1703_1703_1703); [FF 1992 II 1313](https://fedlex.data.admin.ch/eli/fga/1992/2_1561_1533_1313)).
+[^25-1]: Nuovo testo giusta la cifra I della LF del 18 dic. 1992, in vigore dal 1° giu. 1993 ([RU 1993 1703](https://fedlex.data.admin.ch/eli/oc/1993/1703_1703_1703); [FF 1992 II 1313](https://fedlex.data.admin.ch/eli/fga/1992/2_1561_1533_1313)).
 
 ### 8. Controllo
 
@@ -342,7 +344,7 @@ L’USNM attesta mediante una dichiarazione di conformità l’adempimento delle
 
 <sup>2</sup> Nell’interesse di siffatto controllo, il Consiglio federale può emanare particolari prescrizioni concernenti la tenuta dei registri e dei libri contabili e stabilire una tariffa delle tasse per i lavori dell’ufficio di revisione.
 
-[^26-1]: Nuovo testo giusta il n. I della LF del 14 dic. 1965, in vigore dal 1° gen. 1967 ([RU 1966 1491](https://fedlex.data.admin.ch/eli/oc/1966/1453_1503_1491); [FF 1965 II 1](https://fedlex.data.admin.ch/eli/fga/1965/2_284_303_1)).
+[^26-1]: Nuovo testo giusta la cifra I della LF del 14 dic. 1965, in vigore dal 1° gen. 1967 ([RU 1966 1491](https://fedlex.data.admin.ch/eli/oc/1966/1453_1503_1491); [FF 1965 II 1](https://fedlex.data.admin.ch/eli/fga/1965/2_284_303_1)).
 
 ### 9. Procedura di ripristinamento
 
@@ -354,7 +356,7 @@ L’USNM attesta mediante una dichiarazione di conformità l’adempimento delle
 
 <sup>3</sup> Se le condizioni non sono adempiute entro altri tre mesi, il Consiglio federale può ordinare sia la cancellazione della nave dal registro del naviglio svizzero sia, qualora l’approvvigionamento economico del Paese[^27-1] lo esiga, la vendita della nave ai pubblici incanti. In questo caso, l’aggiudicazione può essere fatta soltanto a un deliberatario che adempie, secondo un’attestazione dell’USNM, le condizioni legali. La Confederazione può partecipare all’incanto. Sono competenti per l’incanto le autorità del Cantone di Basilea Città.
 
-[^27-1]: Nuova espr. giusta il n. I della LF del 20 mar. 1987, in vigore dal 1° feb. 1989 ([RU 1989 212](https://fedlex.data.admin.ch/eli/oc/1989/212_212_212); [FF 1986 II 541](https://fedlex.data.admin.ch/eli/fga/1986/2_717_741_541)). Di detta mod. è tenuto conto in tutto il presente testo.
+[^27-1]: Nuova espr. giusta la cifra I della LF del 20 mar. 1987, in vigore dal 1° feb. 1989 ([RU 1989 212](https://fedlex.data.admin.ch/eli/oc/1989/212_212_212); [FF 1986 II 541](https://fedlex.data.admin.ch/eli/fga/1986/2_717_741_541)). Di detta mod. è tenuto conto in tutto il presente testo.
 
 ### 10. Protezione degli interessati
 
@@ -386,9 +388,9 @@ L’USNM attesta mediante una dichiarazione di conformità l’adempimento delle
 
 ### a. In generale
 
-[^titII-chapI-lvlIV-lvl1-lvla-1]
+[^titII-chapI-lvlV-lvl1-lvla-1]
 
-[^titII-chapI-lvlIV-lvl1-lvla-1]: Nuovo testo giusta il n. I della LF del 20 mar. 1987, in vigore dal 1° feb. 1989 ([RU 1989 212](https://fedlex.data.admin.ch/eli/oc/1989/212_212_212); [FF 1986 II 541](https://fedlex.data.admin.ch/eli/fga/1986/2_717_741_541)).
+[^titII-chapI-lvlV-lvl1-lvla-1]: Nuovo testo giusta la cifra I della LF del 20 mar. 1987, in vigore dal 1° feb. 1989 ([RU 1989 212](https://fedlex.data.admin.ch/eli/oc/1989/212_212_212); [FF 1986 II 541](https://fedlex.data.admin.ch/eli/fga/1986/2_717_741_541)).
 
 #### Art. 30
 
@@ -400,8 +402,8 @@ L’USNM attesta mediante una dichiarazione di conformità l’adempimento delle
 
 <sup>3</sup> Il Consiglio federale fissa, dopo aver sentito le cerchie interessate e tenuto conto degli usi generalmente riconosciuti nella navigazione marittima, le condizioni per la classificazione delle navi svizzere.[^30-2]
 
-[^30-1]: Introdotto dal n. I della LF del 18 dic. 1992, in vigore dal 1° giu. 1993 ([RU 1993 1703](https://fedlex.data.admin.ch/eli/oc/1993/1703_1703_1703); [FF 1992 II 1313](https://fedlex.data.admin.ch/eli/fga/1992/2_1561_1533_1313)).
-[^30-2]: Originario cpv. 4. Il cpv. 3 primitivo è stato abrogato dal n. I della LF del 17 dic. 1976, con effetto dal 1° ago. 1977 ([RU 1977 1323](https://fedlex.data.admin.ch/eli/oc/1977/1323_1323_1323); [FF 1976 II 1165](https://fedlex.data.admin.ch/eli/fga/1976/2_1181_1153_1165)).
+[^30-1]: Introdotto dalla cifra I della LF del 18 dic. 1992, in vigore dal 1° giu. 1993 ([RU 1993 1703](https://fedlex.data.admin.ch/eli/oc/1993/1703_1703_1703); [FF 1992 II 1313](https://fedlex.data.admin.ch/eli/fga/1992/2_1561_1533_1313)).
+[^30-2]: Originario cpv. 4. Il cpv. 3 primitivo è stato abrogato dalla cifra I della LF del 17 dic. 1976, con effetto dal 1° ago. 1977 ([RU 1977 1323](https://fedlex.data.admin.ch/eli/oc/1977/1323_1323_1323); [FF 1976 II 1165](https://fedlex.data.admin.ch/eli/fga/1976/2_1181_1153_1165)).
 
 ### b. Navi della navigazione interna in mare
 
@@ -411,7 +413,7 @@ L’USNM attesta mediante una dichiarazione di conformità l’adempimento delle
 
 L’USNM può fissare, per determinati singoli viaggi in mare, le prescrizioni di sicurezza e rilasciare i documenti necessari a una nave della navigazione interna iscritta nel registro del naviglio svizzero che, in relazione con un trasporto professionale di merci su acque interne, effettui anche una navigazione sul mare. Sono salve le prescrizioni degli Stati rivieraschi sulle cui acque naviga la nave.
 
-[^30a-1]: Introdotto dal n. I della LF del 20 mar. 1987, in vigore dal 1° feb. 1989 ([RU 1989 212](https://fedlex.data.admin.ch/eli/oc/1989/212_212_212); [FF 1986 II 541](https://fedlex.data.admin.ch/eli/fga/1986/2_717_741_541)).
+[^30a-1]: Introdotto dalla cifra I della LF del 20 mar. 1987, in vigore dal 1° feb. 1989 ([RU 1989 212](https://fedlex.data.admin.ch/eli/oc/1989/212_212_212); [FF 1986 II 541](https://fedlex.data.admin.ch/eli/fga/1986/2_717_741_541)).
 
 ### 2. Riparazioni e impianti
 
@@ -445,7 +447,7 @@ L’USNM può fissare, per determinati singoli viaggi in mare, le prescrizioni d
 
 <sup>3</sup> Ogni modificazione dei dati contenuti nella richiesta dev’essere comunicata dal proprietario all’Ufficio svizzero del registro del naviglio, che a sua volta ne informa l’Ufficio della navigazione marittima.
 
-[^33-1]: Nuovo testo giusta il n. I della LF del 18 dic. 1992, in vigore dal 1° giu. 1993 ([RU 1993 1703](https://fedlex.data.admin.ch/eli/oc/1993/1703_1703_1703); [FF 1992 II 1313](https://fedlex.data.admin.ch/eli/fga/1992/2_1561_1533_1313)).
+[^33-1]: Nuovo testo giusta la cifra I della LF del 18 dic. 1992, in vigore dal 1° giu. 1993 ([RU 1993 1703](https://fedlex.data.admin.ch/eli/oc/1993/1703_1703_1703); [FF 1992 II 1313](https://fedlex.data.admin.ch/eli/fga/1992/2_1561_1533_1313)).
 
 ### 2. ...
 
@@ -453,22 +455,22 @@ L’USNM può fissare, per determinati singoli viaggi in mare, le prescrizioni d
 
 [^34-1]
 
-[^34-1]: Abrogato dal n. I della LF del 18 dic. 1992, con effetto dal 1° giu. 1993 ([RU 1993 1703](https://fedlex.data.admin.ch/eli/oc/1993/1703_1703_1703); [FF 1992 II 1313](https://fedlex.data.admin.ch/eli/fga/1992/2_1561_1533_1313)).
+[^34-1]: Abrogato dalla cifra I della LF del 18 dic. 1992, con effetto dal 1° giu. 1993 ([RU 1993 1703](https://fedlex.data.admin.ch/eli/oc/1993/1703_1703_1703); [FF 1992 II 1313](https://fedlex.data.admin.ch/eli/fga/1992/2_1561_1533_1313)).
 
 ### VII. Navigazione non professionale
 
 #### Art. 35
 
-[^35-1]
+[^36-1]
 
-<sup>1</sup> Eccezionalmente, il Dipartimento federale degli affari esteri può autorizzare l’iscrizione nel registro del naviglio svizzero di navi appartenenti a persone fisiche, società commerciali o persone giuridiche, che adempiano le condizioni previste dagli articoli 20 e 21 e che utilizzino la nave per uno scopo filantropico, umanitario, scientifico, culturale o analogo; ne stabilisce le condizioni caso per caso.[^35-2]
+<sup>1</sup> Eccezionalmente, il Dipartimento federale degli affari esteri può autorizzare l’iscrizione nel registro del naviglio svizzero di navi appartenenti a persone fisiche, società commerciali o persone giuridiche, che adempiano le condizioni previste dagli articoli 20 e 21 e che utilizzino la nave per uno scopo filantropico, umanitario, scientifico, culturale o analogo; ne stabilisce le condizioni caso per caso.[^36-2]
 
 <sup>2</sup> Il Consiglio federale può prevedere, con ordinanza, l’iscrizione di navi da diporto in un registro svizzero e determinare le condizioni per l’iscrizione e lo statuto giuridico delle navi da diporto iscritte; esso può inoltre autorizzare l’USNM a disciplinare il rilascio di un certificato svizzero di capacità per comandanti di tali navi.
 
 <sup>3</sup> Il Consiglio federale può stabilire, con ordinanza, la possibilità di rilasciare, in circostanze speciali, un certificato di bandiera anche a natanti non suscettibili di essere immatricolati nel registro svizzero degli yacht.
 
-[^35-1]: Nuovo testo giusta il n. I della LF del 20 mar. 1987, in vigore dal 1° feb. 1989 ([RU 1989 212](https://fedlex.data.admin.ch/eli/oc/1989/212_212_212); [FF 1986 II 541](https://fedlex.data.admin.ch/eli/fga/1986/2_717_741_541)).
-[^35-2]: Nuovo testo giusta il n. I della LF del 18 dic. 1992, in vigore dal 1° giu. 1993 ([RU 1993 1703](https://fedlex.data.admin.ch/eli/oc/1993/1703_1703_1703); [FF 1992 II 1313](https://fedlex.data.admin.ch/eli/fga/1992/2_1561_1533_1313)).
+[^36-1]: Nuovo testo giusta la cifra I della LF del 20 mar. 1987, in vigore dal 1° feb. 1989 ([RU 1989 212](https://fedlex.data.admin.ch/eli/oc/1989/212_212_212); [FF 1986 II 541](https://fedlex.data.admin.ch/eli/fga/1986/2_717_741_541)).
+[^36-2]: Nuovo testo giusta la cifra I della LF del 18 dic. 1992, in vigore dal 1° giu. 1993 ([RU 1993 1703](https://fedlex.data.admin.ch/eli/oc/1993/1703_1703_1703); [FF 1992 II 1313](https://fedlex.data.admin.ch/eli/fga/1992/2_1561_1533_1313)).
 
 ### VIII. Cancellazione volontaria
 
@@ -476,11 +478,11 @@ L’USNM può fissare, per determinati singoli viaggi in mare, le prescrizioni d
 
 <sup>1</sup> La cancellazione volontaria di una nave dal registro del naviglio svizzero è soggetta all’autorizzazione del Consiglio federale. L’autorizzazione può essere negata soltanto se l’approvvigionamento economico del Paese lo esige.
 
-<sup>2</sup> Se l’autorizzazione è negata e il proprietario chiede la vendita, la Confederazione deve acquistare la nave al suo prezzo di mercato, salvo che il Consiglio federale ne abbia ordinato la vendita ai pubblici incanti conformemente all’articolo 27 capoverso 3. Il proprietario può inoltrare la richiesta di vendita con o dopo la domanda di cancellazione, ma al più tardi entro trenta giorni a partire dal rifiuto della cancellazione. L’acquisto da parte della Confederazione o l’indizione dei pubblici incanti deve avvenire entro trenta giorni dalla richiesta di vendita, ma al più presto a partire dal rifiuto dell’autorizzazione.[^36-1]
+<sup>2</sup> Se l’autorizzazione è negata e il proprietario chiede la vendita, la Confederazione deve acquistare la nave al suo prezzo di mercato, salvo che il Consiglio federale ne abbia ordinato la vendita ai pubblici incanti conformemente all’articolo 27 capoverso 3. Il proprietario può inoltrare la richiesta di vendita con o dopo la domanda di cancellazione, ma al più tardi entro trenta giorni a partire dal rifiuto della cancellazione. L’acquisto da parte della Confederazione o l’indizione dei pubblici incanti deve avvenire entro trenta giorni dalla richiesta di vendita, ma al più presto a partire dal rifiuto dell’autorizzazione.[^36-3]
 
 <sup>3</sup> Il negozio giuridico, in virtù del quale la proprietà della nave è trasferita, è nullo se la cancellazione non è stata autorizzata.
 
-[^36-1]: Nuovo testo giusta il n. I della LF del 20 mar. 1987, in vigore dal 1° feb. 1989 ([RU 1989 212](https://fedlex.data.admin.ch/eli/oc/1989/212_212_212); [FF 1986 II 541](https://fedlex.data.admin.ch/eli/fga/1986/2_717_741_541)).
+[^36-3]: Nuovo testo giusta la cifra I della LF del 20 mar. 1987, in vigore dal 1° feb. 1989 ([RU 1989 212](https://fedlex.data.admin.ch/eli/oc/1989/212_212_212); [FF 1986 II 541](https://fedlex.data.admin.ch/eli/fga/1986/2_717_741_541)).
 
 ### Capo II: Diritti reali sulle navi
 
@@ -496,7 +498,7 @@ L’USNM può fissare, per determinati singoli viaggi in mare, le prescrizioni d
 
 <sup>4</sup> Un usufrutto può essere iscritto nel registro del naviglio svizzero soltanto a favore di una persona che adempie, secondo un’attestazione dell’USNM, le condizioni previste dagli articoli 18 a 23. La procedura di ripristinamento è applicabile per analogia.
 
-[^37-1]: Nuovo testo giusta il n. I della LF del 18 dic. 1992, in vigore dal 1° giu. 1993 ([RU 1993 1703](https://fedlex.data.admin.ch/eli/oc/1993/1703_1703_1703); [FF 1992 II 1313](https://fedlex.data.admin.ch/eli/fga/1992/2_1561_1533_1313)).
+[^37-1]: Nuovo testo giusta la cifra I della LF del 18 dic. 1992, in vigore dal 1° giu. 1993 ([RU 1993 1703](https://fedlex.data.admin.ch/eli/oc/1993/1703_1703_1703); [FF 1992 II 1313](https://fedlex.data.admin.ch/eli/fga/1992/2_1561_1533_1313)).
 
 ### Privilegi e ipoteche
 
@@ -591,7 +593,7 @@ L’USNM può esigere la restituzione dell’atto di nazionalità, negarne la pr
 
 <sup>3</sup> Se siffatte condizioni non sono più adempiute, l’USNM fissa all’armatore un termine di almeno trenta giorni per conformarsi nuovamente alle condizioni stesse. Se le condizioni non sono adempiute prima dello scadere di tale termine, l’USNM può ordinare il ritiro dell’atto di nazionalità.
 
-[^46-1]: Nuovo testo giusta il n. I della LF del 18 dic. 1992, in vigore dal 1° giu. 1993 ([RU 1993 1703](https://fedlex.data.admin.ch/eli/oc/1993/1703_1703_1703); [FF 1992 II 1313](https://fedlex.data.admin.ch/eli/fga/1992/2_1561_1533_1313)).
+[^46-1]: Nuovo testo giusta la cifra I della LF del 18 dic. 1992, in vigore dal 1° giu. 1993 ([RU 1993 1703](https://fedlex.data.admin.ch/eli/oc/1993/1703_1703_1703); [FF 1992 II 1313](https://fedlex.data.admin.ch/eli/fga/1992/2_1561_1533_1313)).
 
 ### Sicurezza dell’esercizio
 
@@ -611,11 +613,11 @@ L’USNM può esigere la restituzione dell’atto di nazionalità, negarne la pr
 
 <sup>3</sup> L’armatore di una petroliera è responsabile dei danni da inquinamento secondo gli articoli 1–11 della Convenzione internazionale del 29 novembre 1969[^48-2]<sup>©RS\_0.814.2®</sup> sulla responsabilità civile per i danni derivanti da inquinamento da idrocarburi e secondo i relativi Protocolli del 19 novembre 1976[^48-3]<sup>©RS\_0.814.2®</sup> e del 27 novembre 1992[^48-4], non appena entrati in vigore.[^48-5]
 
-[^48-1]: Nuovo testo giusta il n. I della LF del 14 dic. 1965, in vigore dal 1° gen. 1967 ([RU 1966 1491](https://fedlex.data.admin.ch/eli/oc/1966/1453_1503_1491); [FF 1965 II 1](https://fedlex.data.admin.ch/eli/fga/1965/2_284_303_1)).
+[^48-1]: Nuovo testo giusta la cifra I della LF del 14 dic. 1965, in vigore dal 1° gen. 1967 ([RU 1966 1491](https://fedlex.data.admin.ch/eli/oc/1966/1453_1503_1491); [FF 1965 II 1](https://fedlex.data.admin.ch/eli/fga/1965/2_284_303_1)).
 [^48-2]: [RS 0.814.291](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3526)
 [^48-3]: [RS 0.814.291.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3527)
 [^48-4]: [RS 0.814.291.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3528)
-[^48-5]: Introdotto dal n. I della LF del 20 mar. 1987 ([RU 1989 212](https://fedlex.data.admin.ch/eli/oc/1989/212_212_212); [FF 1986 II 541](https://fedlex.data.admin.ch/eli/fga/1986/2_717_741_541)). Nuovo testo giusta il n. I della LF del 22 mar. 1996, in vigore dal 1° nav. 1997 ([RU 1997 2184](https://fedlex.data.admin.ch/eli/oc/1997/2184_2184_2184); [FF 1995 IV 229](https://fedlex.data.admin.ch/eli/fga/1995/4_241_233_229)).
+[^48-5]: Introdotto dalla cifra I della LF del 20 mar. 1987 ([RU 1989 212](https://fedlex.data.admin.ch/eli/oc/1989/212_212_212); [FF 1986 II 541](https://fedlex.data.admin.ch/eli/fga/1986/2_717_741_541)). Nuovo testo giusta la cifra I della LF del 22 mar. 1996, in vigore dal 1° nav. 1997 ([RU 1997 2184](https://fedlex.data.admin.ch/eli/oc/1997/2184_2184_2184); [FF 1995 IV 229](https://fedlex.data.admin.ch/eli/fga/1995/4_241_233_229)).
 
 ### Limitazione della responsabilità
 
@@ -629,12 +631,12 @@ L’USNM può esigere la restituzione dell’atto di nazionalità, negarne la pr
 
 <sup>2</sup> La prova di una colpa propria del proprietario della nave, dell’armatore, del noleggiatore o del vettore incombe a chi la fa valere per escludere la limitazione della responsabilità.
 
-[^49-1]: Nuovo testo giusta il n. I della LF del 14 dic. 1965, in vigore dal 1° gen. 1967 ([RU 1966 1491](https://fedlex.data.admin.ch/eli/oc/1966/1453_1503_1491); [FF 1965 II 1](https://fedlex.data.admin.ch/eli/fga/1965/2_284_303_1)).
+[^49-1]: Nuovo testo giusta la cifra I della LF del 14 dic. 1965, in vigore dal 1° gen. 1967 ([RU 1966 1491](https://fedlex.data.admin.ch/eli/oc/1966/1453_1503_1491); [FF 1965 II 1](https://fedlex.data.admin.ch/eli/fga/1965/2_284_303_1)).
 [^49-2]: [RS 0.747.331.53](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3083)
-[^49-3]: Nuovo testo giusta il n. I della LF del 20 mar. 1987, in vigore dal 1° feb. 1989 ([RU 1989 212](https://fedlex.data.admin.ch/eli/oc/1989/212_212_212); [FF 1986 II 541](https://fedlex.data.admin.ch/eli/fga/1986/2_717_741_541)).
+[^49-3]: Nuovo testo giusta la cifra I della LF del 20 mar. 1987, in vigore dal 1° feb. 1989 ([RU 1989 212](https://fedlex.data.admin.ch/eli/oc/1989/212_212_212); [FF 1986 II 541](https://fedlex.data.admin.ch/eli/fga/1986/2_717_741_541)).
 [^49-4]: [RS 0.814.291](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3526)
 [^49-5]: [RS 0.814.291.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3527)
-[^49-6]: Introdotto dal n. I della LF del 20 mar. 1987 ([RU 1989 212](https://fedlex.data.admin.ch/eli/oc/1989/212_212_212); [FF 1986 II 541](https://fedlex.data.admin.ch/eli/fga/1986/2_717_741_541)). Nuovo testo giusta il n. I della LF del 22 mar. 1996, in vigore dal 1° nov. 1997 ([RU 1997 2184](https://fedlex.data.admin.ch/eli/oc/1997/2184_2184_2184); [FF 1995 IV 229](https://fedlex.data.admin.ch/eli/fga/1995/4_241_233_229)).
+[^49-6]: Introdotto dalla cifra I della LF del 20 mar. 1987 ([RU 1989 212](https://fedlex.data.admin.ch/eli/oc/1989/212_212_212); [FF 1986 II 541](https://fedlex.data.admin.ch/eli/fga/1986/2_717_741_541)). Nuovo testo giusta la cifra I della LF del 22 mar. 1996, in vigore dal 1° nov. 1997 ([RU 1997 2184](https://fedlex.data.admin.ch/eli/oc/1997/2184_2184_2184); [FF 1995 IV 229](https://fedlex.data.admin.ch/eli/fga/1995/4_241_233_229)).
 
 ### Procedura
 
@@ -644,7 +646,7 @@ L’USNM può esigere la restituzione dell’atto di nazionalità, negarne la pr
 
 Il Consiglio federale disciplina, per ordinanza, la procedura e i termini necessari all’applicazione delle disposizioni sulla limitazione della responsabilità.
 
-[^50-1]: Nuovo testo giusta il n. I della LF del 14 dic. 1965, in vigore dal 1° gen. 1967 ([RU 1966 1491](https://fedlex.data.admin.ch/eli/oc/1966/1453_1503_1491); [FF 1965 II 1](https://fedlex.data.admin.ch/eli/fga/1965/2_284_303_1)).
+[^50-1]: Nuovo testo giusta la cifra I della LF del 14 dic. 1965, in vigore dal 1° gen. 1967 ([RU 1966 1491](https://fedlex.data.admin.ch/eli/oc/1966/1453_1503_1491); [FF 1965 II 1](https://fedlex.data.admin.ch/eli/fga/1965/2_284_303_1)).
 
 ### Capo II: Capitano
 
@@ -700,7 +702,7 @@ Il Consiglio federale disciplina, per ordinanza, la procedura e i termini necess
 
 [^titIII-chapII-lvlu6-1]
 
-[^titIII-chapII-lvlu6-1]: Nuovo testo giusta il n. I della LF del 18 dic. 1992, in vigore dal 1° giu. 1993 ([RU 1993 1703](https://fedlex.data.admin.ch/eli/oc/1993/1703_1703_1703); [FF 1992 II 1313](https://fedlex.data.admin.ch/eli/fga/1992/2_1561_1533_1313)).
+[^titIII-chapII-lvlu6-1]: Nuovo testo giusta la cifra I della LF del 18 dic. 1992, in vigore dal 1° giu. 1993 ([RU 1993 1703](https://fedlex.data.admin.ch/eli/oc/1993/1703_1703_1703); [FF 1992 II 1313](https://fedlex.data.admin.ch/eli/fga/1992/2_1561_1533_1313)).
 
 #### Art. 56
 
@@ -710,8 +712,8 @@ Il Consiglio federale disciplina, per ordinanza, la procedura e i termini necess
 
 <sup>3</sup> Se una persona muore a bordo di una nave svizzera, il capitano prende in custodia, dopo averli inventariati con il concorso di un altro membro dell’equipaggio, gli oggetti che appartenevano al defunto come pure gli eventuali testamenti, e li consegna al Consolato di Svizzera più vicino.
 
-[^56-1]: Nuovo testo giusta il n. I della LF del 14 dic. 1965, in vigore dal 1° gen. 1967 ([RU 1966 1491](https://fedlex.data.admin.ch/eli/oc/1966/1453_1503_1491); [FF 1965 II 1](https://fedlex.data.admin.ch/eli/fga/1965/2_284_303_1)).
-[^56-2]: Nuovo testo giusta il n. I della LF del 14 dic. 1965, in vigore dal 1° gen. 1967 ([RU 1966 1491](https://fedlex.data.admin.ch/eli/oc/1966/1453_1503_1491); [FF 1965 II 1](https://fedlex.data.admin.ch/eli/fga/1965/2_284_303_1)).
+[^56-1]: Nuovo testo giusta la cifra I della LF del 14 dic. 1965, in vigore dal 1° gen. 1967 ([RU 1966 1491](https://fedlex.data.admin.ch/eli/oc/1966/1453_1503_1491); [FF 1965 II 1](https://fedlex.data.admin.ch/eli/fga/1965/2_284_303_1)).
+[^56-2]: Nuovo testo giusta la cifra I della LF del 14 dic. 1965, in vigore dal 1° gen. 1967 ([RU 1966 1491](https://fedlex.data.admin.ch/eli/oc/1966/1453_1503_1491); [FF 1965 II 1](https://fedlex.data.admin.ch/eli/fga/1965/2_284_303_1)).
 
 ### Competenza in caso di reati
 
@@ -725,9 +727,9 @@ Il Consiglio federale disciplina, per ordinanza, la procedura e i termini necess
 
 <sup>4</sup> Il Consiglio federale può emanare disposizioni speciali concernenti siffatta procedura.
 
-[^57-1]: Nuovo testo giusta l’all. 1 n. II 24 del Codice di procedura penale del 5 ott. 2007, in vigore dal 1° gen. 2011 ([RU 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267); [FF 2006 989](https://fedlex.data.admin.ch/eli/fga/2006/124)).
+[^57-1]: Nuovo testo giusta l’all. 1 cifra II n. 24 del Codice di procedura penale del 5 ott. 2007, in vigore dal 1° gen. 2011 ([RU 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267); [FF 2006 989](https://fedlex.data.admin.ch/eli/fga/2006/124)).
 [^57-2]: [RS 312.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6214)
-[^57-3]: Nuovo testo giusta l’all. 1 n. II 24 del Codice di procedura penale del 5 ott. 2007, in vigore dal 1° gen. 2011 ([RU 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267); [FF 2006 989](https://fedlex.data.admin.ch/eli/fga/2006/124)).
+[^57-3]: Nuovo testo giusta l’all. 1 cifra II n. 24 del Codice di procedura penale del 5 ott. 2007, in vigore dal 1° gen. 2011 ([RU 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267); [FF 2006 989](https://fedlex.data.admin.ch/eli/fga/2006/124)).
 
 ### Documenti di bordo
 
@@ -765,7 +767,7 @@ Il Consiglio federale disciplina, per ordinanza, la procedura e i termini necess
 
 <sup>3</sup> Se l’interesse del Paese lo esige, l’USNM può decidere, in ogni tempo e senza indicazione dei motivi, il licenziamento immediato di un membro dell’equipaggio. Se al componente dell’equipaggio licenziato e all’armatore non è imputabile colpa alcuna, la Confederazione li risarcisce del danno cagionato dal licenziamento.
 
-[^60-1]: Nuovo testo giusta il n. I della LF del 18 dic. 1992, in vigore dal 1° giu. 1993 ([RU 1993 1703](https://fedlex.data.admin.ch/eli/oc/1993/1703_1703_1703); [FF 1992 II 1313](https://fedlex.data.admin.ch/eli/fga/1992/2_1561_1533_1313)).
+[^60-1]: Nuovo testo giusta la cifra I della LF del 18 dic. 1992, in vigore dal 1° giu. 1993 ([RU 1993 1703](https://fedlex.data.admin.ch/eli/oc/1993/1703_1703_1703); [FF 1992 II 1313](https://fedlex.data.admin.ch/eli/fga/1992/2_1561_1533_1313)).
 
 ### Cittadinanza e formazione professionale
 
@@ -775,7 +777,7 @@ Il Consiglio federale disciplina, per ordinanza, la procedura e i termini necess
 
 <sup>2</sup> La Confederazione può promuovere la formazione professionale di capitani e di gente di mare svizzeri. Il Consiglio federale stabilisce le disposizioni necessarie.[^61-2]
 
-[^61-1]: Nuovo testo giusta il n. I della LF del 18 dic. 1992, in vigore dal 1° giu. 1993 ([RU 1993 1703](https://fedlex.data.admin.ch/eli/oc/1993/1703_1703_1703); [FF 1992 II 1313](https://fedlex.data.admin.ch/eli/fga/1992/2_1561_1533_1313)).
+[^61-1]: Nuovo testo giusta la cifra I della LF del 18 dic. 1992, in vigore dal 1° giu. 1993 ([RU 1993 1703](https://fedlex.data.admin.ch/eli/oc/1993/1703_1703_1703); [FF 1992 II 1313](https://fedlex.data.admin.ch/eli/fga/1992/2_1561_1533_1313)).
 [^61-2]: Nuovo testo giusta l’all. n. 17 della L del 5 ott. 1990 sui sussidi, in vigore dal 1° apr. 1991 ([RU 1991 857](https://fedlex.data.admin.ch/eli/oc/1991/857_857_857); FF**1987** I 297).
 
 ### Requisiti professionali
@@ -806,7 +808,7 @@ Il Consiglio federale emana, tenuto conto delle convenzioni internazionali e deg
 - d. la tutela della salute, l’assistenza medica, l’assistenza sociale e la protezione in materia di sicurezza sociale;
 - e. l’adempimento e l’applicazione delle disposizioni della Convenzione del 23 febbraio 2006[^63-2] sul lavoro marittimo.[^63-3]
 
-[^63-1]: Nuovo testo giusta il n. I della LF del 20 mar. 1987, in vigore dal 1° feb. 1989 ([RU 1989 212](https://fedlex.data.admin.ch/eli/oc/1989/212_212_212); [FF 1986 II 541](https://fedlex.data.admin.ch/eli/fga/1986/2_717_741_541)).
+[^63-1]: Nuovo testo giusta la cifra I della LF del 20 mar. 1987, in vigore dal 1° feb. 1989 ([RU 1989 212](https://fedlex.data.admin.ch/eli/oc/1989/212_212_212); [FF 1986 II 541](https://fedlex.data.admin.ch/eli/fga/1986/2_717_741_541)).
 [^63-2]: [RS 0.822.81](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3669)
 [^63-3]: Nuovo testo giusta l’art. 2 del DF del 1° ott. 2010 concernente l’approvazione della Convenzione sul lavoro marittimo, 2006, in vigore dal 20 ago. 2013 ([RU 2013 2507](https://fedlex.data.admin.ch/eli/oc/2013/529); [FF 2009 7831](https://fedlex.data.admin.ch/eli/fga/2009/1535)).
 
@@ -830,7 +832,7 @@ Il Consiglio federale emana, tenuto conto delle convenzioni internazionali e deg
 
 <sup>2</sup> Il capitano o un altro rappresentante autorizzato dall’armatore da una parte e l’arruolato dall’altra appongono la loro firma a lato dell’iscrizione fatta nel ruolo d’equipaggio.
 
-<sup>3</sup> Dopo la firma delle parti, il console convalida l’arruolamento apponendo il suo visto nel ruolo d’equipaggio. Se nel porto d’arruola-mento non può essere raggiunto un Consolato di Svizzera, l’iscrizione nel ruolo dev’essere sottoposta per approvazione al Consolato più vicino.
+<sup>3</sup> Dopo la firma delle parti, il console convalida l’arruolamento apponendo il suo visto nel ruolo d’equipaggio. Se nel porto d’arruolamento non può essere raggiunto un Consolato di Svizzera, l’iscrizione nel ruolo dev’essere sottoposta per approvazione al Consolato più vicino.
 
 <sup>4</sup> La forma dell’arruolamento vale anche per la sua cessazione (formalità di sbarco). Se il console ha motivo di credere che il membro dell’equipaggio sia stato cancellato indebitamente, egli ne informa l’USNM.
 
@@ -844,7 +846,7 @@ Il Consiglio federale emana, tenuto conto delle convenzioni internazionali e deg
 
 <sup>2</sup> Al momento del congedamento, il capitano iscrive nel libretto di navigazione la natura e la durata del lavoro svolto a bordo della sua nave.
 
-[^66-1]: Nuovo testo giusta il n. I della LF del 20 mar. 1987, in vigore dal 1° feb. 1989 ([RU 1989 212](https://fedlex.data.admin.ch/eli/oc/1989/212_212_212); [FF 1986 II 541](https://fedlex.data.admin.ch/eli/fga/1986/2_717_741_541)).
+[^66-1]: Nuovo testo giusta la cifra I della LF del 20 mar. 1987, in vigore dal 1° feb. 1989 ([RU 1989 212](https://fedlex.data.admin.ch/eli/oc/1989/212_212_212); [FF 1986 II 541](https://fedlex.data.admin.ch/eli/fga/1986/2_717_741_541)).
 
 ### Servizio a bordo
 
@@ -867,7 +869,7 @@ Il Consiglio federale emana, tenuto conto delle convenzioni internazionali e deg
 <sup>2</sup> Con riserva delle disposizioni della presente legge, al contratto d’arruolamento della gente di mare assunta a bordo di navi svizzere è applicabile il Codice delle obbligazioni[^68-1].L’articolo 333*a* del Codice delle obbligazioni, concernente la consultazione dei rappresentanti dei lavoratori in caso di trasferimento del rapporto di lavoro, gli articoli 335*d -* 335*g,* concernenti il licenziamento collettivo, nonché l’articolo 336 capoverso 3 non sono tuttavia applicabili.[^68-2]
 
 [^68-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
-[^68-2]: Per. 2 introdotto dal n. II della LF del 17 dic. 1993, in vigore dal 1° mag. 1994 ([RU 1994 804](https://fedlex.data.admin.ch/eli/oc/1994/804_804_804); FF**1993** I 609.
+[^68-2]: Per. 2 introdotto dalla cifra II della LF del 17 dic. 1993, in vigore dal 1° mag. 1994 ([RU 1994 804](https://fedlex.data.admin.ch/eli/oc/1994/804_804_804); FF**1993** I 609.
 
 ### Conclusione del contratto
 
@@ -899,7 +901,7 @@ Il contratto d’arruolamento deve indicare in modo chiaro e preciso i diritti e
 - l.[^70-4] se del caso, il rinvio al contratto collettivo di lavoro.
 
 [^70-1]: Nuovo testo giusta l’art. 2 del DF del 1° ott. 2010 concernente l’approvazione della Convenzione sul lavoro marittimo, 2006, in vigore dal 20 ago. 2013 ([RU 2013 2507](https://fedlex.data.admin.ch/eli/oc/2013/529); [FF 2009 7831](https://fedlex.data.admin.ch/eli/fga/2009/1535)).
-[^70-2]: Introdotta dall’art. 2 del DF del 1° ott. 2010 concernente l’approvazione della Convenzione sul lavoro marittimo, 2006, in vigore dal 20 ago. 2013 ([RU 2013 2507](https://fedlex.data.admin.ch/eli/oc/2013/529); [FF 2009 7831](https://fedlex.data.admin.ch/eli/fga/2009/1535)).
+[^70-2]: Introdotta dall’art. 2 del DF del 1° ott. 2010 concernente l’approvazione della Convenzione sul lavoro marittimo, 2006, in vigore dal 20 ago. 2013([RU 2013 2507](https://fedlex.data.admin.ch/eli/oc/2013/529); [FF 2009 7831](https://fedlex.data.admin.ch/eli/fga/2009/1535)).
 [^70-3]: Introdotta dall’art. 2 del DF del 1° ott. 2010 concernente l’approvazione della Convenzione sul lavoro marittimo, 2006, in vigore dal 20 ago. 2013 ([RU 2013 2507](https://fedlex.data.admin.ch/eli/oc/2013/529); [FF 2009 7831](https://fedlex.data.admin.ch/eli/fga/2009/1535)).
 [^70-4]: Introdotta dall’art. 2 del DF del 1° ott. 2010 concernente l’approvazione della Convenzione sul lavoro marittimo, 2006, in vigore dal 20 ago. 2013 ([RU 2013 2507](https://fedlex.data.admin.ch/eli/oc/2013/529); [FF 2009 7831](https://fedlex.data.admin.ch/eli/fga/2009/1535)).
 
@@ -933,8 +935,8 @@ Il contratto d’arruolamento deve indicare in modo chiaro e preciso i diritti e
 
 <sup>3</sup> Il Consiglio federale stabilisce, per ordinanza, i casi, in cui un’indennità complessiva fissa per il lavoro supplementare può essere prevista nel contratto di arruolamento.[^73-2]
 
-[^73-1]: Nuovo testo giusta il n. I della LF del 14 dic. 1965, in vigore dal 1° gen. 1967 ([RU 1966 1491](https://fedlex.data.admin.ch/eli/oc/1966/1453_1503_1491); [FF 1965 II 1](https://fedlex.data.admin.ch/eli/fga/1965/2_284_303_1)).
-[^73-2]: Nuovo testo giusta il n. I della LF del 14 dic. 1965, in vigore dal 1° gen. 1967 ([RU 1966 1491](https://fedlex.data.admin.ch/eli/oc/1966/1453_1503_1491); [FF 1965 II 1](https://fedlex.data.admin.ch/eli/fga/1965/2_284_303_1)).
+[^73-1]: Nuovo testo giusta la cifra I della LF del 14 dic. 1965, in vigore dal 1° gen. 1967 ([RU 1966 1491](https://fedlex.data.admin.ch/eli/oc/1966/1453_1503_1491); [FF 1965 II 1](https://fedlex.data.admin.ch/eli/fga/1965/2_284_303_1)).
+[^73-2]: Nuovo testo giusta la cifra I della LF del 14 dic. 1965, in vigore dal 1° gen. 1967 ([RU 1966 1491](https://fedlex.data.admin.ch/eli/oc/1966/1453_1503_1491); [FF 1965 II 1](https://fedlex.data.admin.ch/eli/fga/1965/2_284_303_1)).
 
 ### Scadenza e sospensione della retribuzione
 
@@ -956,7 +958,7 @@ Il contratto d’arruolamento deve indicare in modo chiaro e preciso i diritti e
 
 <sup>2</sup> I compensi per atti d’assistenza o di salvataggio sono ripartiti, dedotti le maggiori spese d’esercizio avute e i danni subiti dai salvatori, tra l’armatore e l’equipaggio in ragione di metà per parte. La metà spettante all’equipaggio deve di massima essere ripartita proporzionatamente alle retribuzioni, tenuto conto tuttavia degli speciali meriti di singoli componenti dell’equipaggio.
 
-[^75-1]: Nuovo testo giusta il n. I della LF del 14 dic. 1965, in vigore dal 1° gen. 1967 ([RU 1966 1491](https://fedlex.data.admin.ch/eli/oc/1966/1453_1503_1491); [FF 1965 II 1](https://fedlex.data.admin.ch/eli/fga/1965/2_284_303_1)).
+[^75-1]: Nuovo testo giusta la cifra I della LF del 14 dic. 1965, in vigore dal 1° gen. 1967 ([RU 1966 1491](https://fedlex.data.admin.ch/eli/oc/1966/1453_1503_1491); [FF 1965 II 1](https://fedlex.data.admin.ch/eli/fga/1965/2_284_303_1)).
 
 ### Pagamenti agli arruolati
 
@@ -982,7 +984,7 @@ Il contratto d’arruolamento deve indicare in modo chiaro e preciso i diritti e
 
 <sup>4</sup> Per altro, il datore di lavoro non può trasferire a un terzo i diritti derivanti dal rapporto di lavoro, in quanto il contrario non risulti da un accordo o dalle circostanze.
 
-[^76a-1]: Introdotto dal n. II della LF del 17 dic. 1993, in vigore dal 1° mag. 1994 ([RU 1994 804](https://fedlex.data.admin.ch/eli/oc/1994/804_804_804); [FF 1993 I 609](https://fedlex.data.admin.ch/eli/fga/1993/1_805_757_609)).
+[^76a-1]: Introdotto dalla cifra II della LF del 17 dic. 1993, in vigore dal 1° mag. 1994 ([RU 1994 804](https://fedlex.data.admin.ch/eli/oc/1994/804_804_804); [FF 1993 I 609](https://fedlex.data.admin.ch/eli/fga/1993/1_805_757_609)).
 
 ### Fine del contratto
 
@@ -1031,7 +1033,7 @@ Il contratto d’arruolamento deve indicare in modo chiaro e preciso i diritti e
 
 [^81-1]
 
-[^81-1]: Abrogato dall’all. n. III 4 della LF del 26 set. 2014 sugli Svizzeri all’estero, con effetto dal 1° nov. 2015 ([RU 2015 3857](https://fedlex.data.admin.ch/eli/oc/2015/653); [FF 2014 1723](https://fedlex.data.admin.ch/eli/fga/2014/363)[2379](https://fedlex.data.admin.ch/eli/fga/2014/452)).
+[^81-1]: Abrogato dall’all. cifra III n. 4 della LF del 26 set. 2014 sugli Svizzeri all’estero, con effetto dal 1° nov. 2015 ([RU 2015 3857](https://fedlex.data.admin.ch/eli/oc/2015/653); [FF 2014 1723](https://fedlex.data.admin.ch/eli/fga/2014/363)[2379](https://fedlex.data.admin.ch/eli/fga/2014/452)).
 
 ### Capo III: Sicurezza sociale
 
@@ -1097,9 +1099,9 @@ Il contratto d’arruolamento deve indicare in modo chiaro e preciso i diritti e
 
 <sup>2</sup> Tutte le azioni fondate su contratti di locazione, di noleggio o di trasporto marittimo si prescrivono in un anno; in caso di contratto di locazione o di noleggio, a contare dalla scadenza del contratto, e in caso di contratto di trasporto, a contare dal giorno in cui la merce è stata riconsegnata o avrebbe dovuto essere riconsegnata.[^87-3]
 
-[^87-1]: Nuovo testo giusta il n. I della LF del 14 dic. 1965, in vigore dal 1° gen. 1967 ([RU 1966 1491](https://fedlex.data.admin.ch/eli/oc/1966/1453_1503_1491); [FF 1965 II 1](https://fedlex.data.admin.ch/eli/fga/1965/2_284_303_1)).
+[^87-1]: Nuovo testo giusta la cifra I della LF del 14 dic. 1965, in vigore dal 1° gen. 1967 ([RU 1966 1491](https://fedlex.data.admin.ch/eli/oc/1966/1453_1503_1491); [FF 1965 II 1](https://fedlex.data.admin.ch/eli/fga/1965/2_284_303_1)).
 [^87-2]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
-[^87-3]: Nuovo testo giusta il n. I della LF del 18 dic. 1992, in vigore dal 1° giu. 1993 ([RU 1993 1703](https://fedlex.data.admin.ch/eli/oc/1993/1703_1703_1703); [FF 1992 II 1313](https://fedlex.data.admin.ch/eli/fga/1992/2_1561_1533_1313)).
+[^87-3]: Nuovo testo giusta la cifra I della LF del 18 dic. 1992, in vigore dal 1° giu. 1993 ([RU 1993 1703](https://fedlex.data.admin.ch/eli/oc/1993/1703_1703_1703); [FF 1992 II 1313](https://fedlex.data.admin.ch/eli/fga/1992/2_1561_1533_1313)).
 
 ### Impossibilità dell’adempimento
 
@@ -1129,7 +1131,7 @@ Il contratto d’arruolamento deve indicare in modo chiaro e preciso i diritti e
 
 <sup>2</sup> Per la validità del contratto si richiede la forma scritta.
 
-[^90-1]: Nuovo testo giusta il n. I della LF del 14 dic. 1965, in vigore dal 1° gen. 1967 ([RU 1966 1491](https://fedlex.data.admin.ch/eli/oc/1966/1453_1503_1491); [FF 1965 II 1](https://fedlex.data.admin.ch/eli/fga/1965/2_284_303_1)).
+[^90-1]: Nuovo testo giusta la cifra I della LF del 14 dic. 1965, in vigore dal 1° gen. 1967 ([RU 1966 1491](https://fedlex.data.admin.ch/eli/oc/1966/1453_1503_1491); [FF 1965 II 1](https://fedlex.data.admin.ch/eli/fga/1965/2_284_303_1)).
 
 ### Locazione e sublocazione
 
@@ -1142,7 +1144,7 @@ Il contratto d’arruolamento deve indicare in modo chiaro e preciso i diritti e
 <sup>3</sup> La locazione e la sublocazione di una nave sono sottoposte alle disposizioni generali del Codice delle obbligazioni[^91-1] sul diritto di locazione, in quanto esse siano compatibili con le particolarità della navigazione marittima.[^91-2]
 
 [^91-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
-[^91-2]: Nuovo testo giusta il n. I della LF del 18 dic. 1992, in vigore dal 1° giu. 1993 ([RU 1993 1703](https://fedlex.data.admin.ch/eli/oc/1993/1703_1703_1703); [FF 1992 II 1313](https://fedlex.data.admin.ch/eli/fga/1992/2_1561_1533_1313)).
+[^91-2]: Nuovo testo giusta la cifra I della LF del 18 dic. 1992, in vigore dal 1° giu. 1993 ([RU 1993 1703](https://fedlex.data.admin.ch/eli/oc/1993/1703_1703_1703); [FF 1992 II 1313](https://fedlex.data.admin.ch/eli/fga/1992/2_1561_1533_1313)).
 
 ### Diritti e obblighi delle parti
 
@@ -1158,9 +1160,9 @@ Il contratto d’arruolamento deve indicare in modo chiaro e preciso i diritti e
 
 <sup>5</sup> La locazione di una nave può essere oggetto di un’annotazione nel registro del naviglio svizzero secondo l’articolo 261*b* del Codice delle obbligazioni[^92-2].[^92-3]
 
-[^92-1]: Nuovo testo giusta il n. I della LF del 18 dic. 1992, in vigore dal 1° giu. 1993 ([RU 1993 1703](https://fedlex.data.admin.ch/eli/oc/1993/1703_1703_1703); [FF 1992 II 1313](https://fedlex.data.admin.ch/eli/fga/1992/2_1561_1533_1313)).
+[^92-1]: Nuovo testo giusta la cifra I della LF del 18 dic. 1992, in vigore dal 1° giu. 1993 ([RU 1993 1703](https://fedlex.data.admin.ch/eli/oc/1993/1703_1703_1703); [FF 1992 II 1313](https://fedlex.data.admin.ch/eli/fga/1992/2_1561_1533_1313)).
 [^92-2]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
-[^92-3]: Introdotto dal n. I della LF del 18 dic. 1992, in vigore dal 1° giu. 1993 ([RU 1993 1703](https://fedlex.data.admin.ch/eli/oc/1993/1703_1703_1703); [FF 1992 II 1313](https://fedlex.data.admin.ch/eli/fga/1992/2_1561_1533_1313)).
+[^92-3]: Introdotto dalla cifra I della LF del 18 dic. 1992, in vigore dal 1° giu. 1993 ([RU 1993 1703](https://fedlex.data.admin.ch/eli/oc/1993/1703_1703_1703); [FF 1992 II 1313](https://fedlex.data.admin.ch/eli/fga/1992/2_1561_1533_1313)).
 
 ### Menzione
 
@@ -1170,7 +1172,7 @@ Il contratto d’arruolamento deve indicare in modo chiaro e preciso i diritti e
 
 Fintanto che la locazione della nave non è stata menzionata nel registro del naviglio svizzero, il proprietario risponde come armatore verso i terzi, in quanto non avessero conoscenza del contratto di locazione quando nacque il loro diritto.
 
-[^93-1]: Nuovo testo giusta il n. I della LF del 20 mar. 1987, in vigore dal 1° feb. 1989 ([RU 1989 212](https://fedlex.data.admin.ch/eli/oc/1989/212_212_212); [FF 1986 II 541](https://fedlex.data.admin.ch/eli/fga/1986/2_717_741_541)).
+[^93-1]: Nuovo testo giusta la cifra I della LF del 20 mar. 1987, in vigore dal 1° feb. 1989 ([RU 1989 212](https://fedlex.data.admin.ch/eli/oc/1989/212_212_212); [FF 1986 II 541](https://fedlex.data.admin.ch/eli/fga/1986/2_717_741_541)).
 
 ### Capo III: Noleggio
 
@@ -1184,7 +1186,7 @@ Fintanto che la locazione della nave non è stata menzionata nel registro del na
 
 <sup>3</sup> Il noleggiante e il noleggiatore possono convenire che il contratto di noleggio sia annotato nel registro del naviglio svizzero come una locazione. Questa annotazione ha per effetto che, nel caso di alienazione della nave, qualsiasi nuovo proprietario deve lasciare al noleggiatore l’uso della nave conformemente al contratto di noleggio.[^94-1]
 
-[^94-1]: Introdotto dal n. I della LF del 14 dic. 1965, in vigore dal 1° gen. 1967 ([RU 1966 1491](https://fedlex.data.admin.ch/eli/oc/1966/1453_1503_1491); [FF 1965 II 1](https://fedlex.data.admin.ch/eli/fga/1965/2_284_303_1)).
+[^94-1]: Introdotto dalla cifra I della LF del 14 dic. 1965, in vigore dal 1° gen. 1967 ([RU 1966 1491](https://fedlex.data.admin.ch/eli/oc/1966/1453_1503_1491); [FF 1965 II 1](https://fedlex.data.admin.ch/eli/fga/1965/2_284_303_1)).
 
 ### Responsabilità del noleggiante
 
@@ -1196,8 +1198,8 @@ Fintanto che la locazione della nave non è stata menzionata nel registro del na
 
 <sup>3</sup> Se il noleggiante si è obbligato, conformemente al contratto di noleggio, a trasportare merce sul mare, le disposizioni sul contratto di trasporto marittimo sono applicabili ai suoi diritti verso il caricatore e il destinatario e alla sua responsabilità per il trasporto delle merci.[^95-2]
 
-[^95-1]: Nuovo testo giusta il n. I della LF del 14 dic. 1965, in vigore dal 1° gen. 1967 ([RU 1966 1491](https://fedlex.data.admin.ch/eli/oc/1966/1453_1503_1491); [FF 1965 II 1](https://fedlex.data.admin.ch/eli/fga/1965/2_284_303_1)).
-[^95-2]: Introdotto dal n. I della LF del 14 dic. 1965, in vigore dal 1° gen. 1967 ([RU 1966 1491](https://fedlex.data.admin.ch/eli/oc/1966/1453_1503_1491); [FF 1965 II 1](https://fedlex.data.admin.ch/eli/fga/1965/2_284_303_1)).
+[^95-1]: Nuovo testo giusta la cifra I della LF del 14 dic. 1965, in vigore dal 1° gen. 1967 ([RU 1966 1491](https://fedlex.data.admin.ch/eli/oc/1966/1453_1503_1491); [FF 1965 II 1](https://fedlex.data.admin.ch/eli/fga/1965/2_284_303_1)).
+[^95-2]: Introdotto dalla cifra I della LF del 14 dic. 1965, in vigore dal 1° gen. 1967 ([RU 1966 1491](https://fedlex.data.admin.ch/eli/oc/1966/1453_1503_1491); [FF 1965 II 1](https://fedlex.data.admin.ch/eli/fga/1965/2_284_303_1)).
 
 ### Rapporti tra l’armatore, il noleggiatore e il capitano
 
@@ -1211,8 +1213,8 @@ Fintanto che la locazione della nave non è stata menzionata nel registro del na
 
 <sup>4</sup> L’armatore non risponde tuttavia verso il noleggiatore degli atti compiuti dal capitano in virtù degli ordini che questo stesso noleggiatore gli ha impartito.
 
-[^96-1]: Nuovo testo giusta il n. I della LF del 14 dic. 1965, in vigore dal 1° gen. 1967 ([RU 1966 1491](https://fedlex.data.admin.ch/eli/oc/1966/1453_1503_1491); [FF 1965 II 1](https://fedlex.data.admin.ch/eli/fga/1965/2_284_303_1)).
-[^96-2]: Nuovo testo giusta il n. I della LF del 14 dic. 1965, in vigore dal 1° gen. 1967 ([RU 1966 1491](https://fedlex.data.admin.ch/eli/oc/1966/1453_1503_1491); [FF 1965 II 1](https://fedlex.data.admin.ch/eli/fga/1965/2_284_303_1)).
+[^96-1]: Nuovo testo giusta la cifra I della LF del 14 dic. 1965, in vigore dal 1° gen. 1967 ([RU 1966 1491](https://fedlex.data.admin.ch/eli/oc/1966/1453_1503_1491); [FF 1965 II 1](https://fedlex.data.admin.ch/eli/fga/1965/2_284_303_1)).
+[^96-2]: Nuovo testo giusta la cifra I della LF del 14 dic. 1965, in vigore dal 1° gen. 1967 ([RU 1966 1491](https://fedlex.data.admin.ch/eli/oc/1966/1453_1503_1491); [FF 1965 II 1](https://fedlex.data.admin.ch/eli/fga/1965/2_284_303_1)).
 
 ### Ripartizione delle spese
 
@@ -1268,10 +1270,10 @@ Fintanto che la locazione della nave non è stata menzionata nel registro del na
 
 <sup>2</sup> Nell’applicazione e nell’interpretazione delle disposizioni del presente capo devono essere considerati la Convenzione internazionale del 25 agosto 1924[^101-2] sull’unificazione di alcune regole in materia di polizza di carico, come pure i suoi Protocolli[^101-3].[^101-4]
 
-[^101-1]: Nuovo testo giusta il n. I della LF del 14 dic. 1965, in vigore dal 1° gen. 1967 ([RU 1966 1491](https://fedlex.data.admin.ch/eli/oc/1966/1453_1503_1491); [FF 1965 II 1](https://fedlex.data.admin.ch/eli/fga/1965/2_284_303_1)).
+[^101-1]: Nuovo testo giusta la cifra I della LF del 14 dic. 1965, in vigore dal 1° gen. 1967 ([RU 1966 1491](https://fedlex.data.admin.ch/eli/oc/1966/1453_1503_1491); [FF 1965 II 1](https://fedlex.data.admin.ch/eli/fga/1965/2_284_303_1)).
 [^101-2]: [RS 0.747.354.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3088)
 [^101-3]: [RS 0.747.354.111](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3089), [0.747.354.112](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3090)
-[^101-4]: Nuovo testo giusta il n. I della LF del 20 mar. 1987, in vigore dal 1° feb. 1989 ([RU 1989 212](https://fedlex.data.admin.ch/eli/oc/1989/212_212_212); [FF 1986 II 541](https://fedlex.data.admin.ch/eli/fga/1986/2_717_741_541)).
+[^101-4]: Nuovo testo giusta la cifra I della LF del 20 mar. 1987, in vigore dal 1° feb. 1989 ([RU 1989 212](https://fedlex.data.admin.ch/eli/oc/1989/212_212_212); [FF 1986 II 541](https://fedlex.data.admin.ch/eli/fga/1986/2_717_741_541)).
 
 ### Diligenza del vettore
 
@@ -1283,7 +1285,7 @@ Fintanto che la locazione della nave non è stata menzionata nel registro del na
 
 <sup>2</sup> Il vettore deve appropriatamente e accuratamente caricare, stivare, trasportare, conservare, maneggiare e scaricare le merci, in quanto questi compiti non spettino al caricatore o al destinatario.
 
-[^102-1]: Nuovo testo giusta il n. I della LF del 14 dic. 1965, in vigore dal 1° gen. 1967 ([RU 1966 1491](https://fedlex.data.admin.ch/eli/oc/1966/1453_1503_1491); [FF 1965 II 1](https://fedlex.data.admin.ch/eli/fga/1965/2_284_303_1)).
+[^102-1]: Nuovo testo giusta la cifra I della LF del 14 dic. 1965, in vigore dal 1° gen. 1967 ([RU 1966 1491](https://fedlex.data.admin.ch/eli/oc/1966/1453_1503_1491); [FF 1965 II 1](https://fedlex.data.admin.ch/eli/fga/1965/2_284_303_1)).
 
 ### Responsabilità del vettore
 
@@ -1297,8 +1299,8 @@ Fintanto che la locazione della nave non è stata menzionata nel registro del na
 
 <sup>3</sup> Se pretese per la perdita, la distruzione o l’avaria delle merci o il ritardo della loro consegna sono dirette contro il capitano, l’equipaggio o altre persone al servizio della nave o di cui il vettore si è servito nell’esecuzione del trasporto, queste persone, indipendentemente dal titolo giuridico su cui si basa la pretesa, possono invocare i motivi di liberazione dalla responsabilità o di limitazione della medesima propri del vettore. Rimane salvo l’articolo 105*a*.[^103-2]
 
-[^103-1]: Nuovo testo giusta il n. I della LF del 14 dic. 1965, in vigore dal 1° gen. 1967 ([RU 1966 1491](https://fedlex.data.admin.ch/eli/oc/1966/1453_1503_1491); [FF 1965 II 1](https://fedlex.data.admin.ch/eli/fga/1965/2_284_303_1)).
-[^103-2]: Nuovo testo giusta il n. I della LF del 20 mar. 1987, in vigore dal 1° feb. 1989 ([RU 1989 212](https://fedlex.data.admin.ch/eli/oc/1989/212_212_212); [FF 1986 II 541](https://fedlex.data.admin.ch/eli/fga/1986/2_717_741_541)).
+[^103-1]: Nuovo testo giusta la cifra I della LF del 14 dic. 1965, in vigore dal 1° gen. 1967 ([RU 1966 1491](https://fedlex.data.admin.ch/eli/oc/1966/1453_1503_1491); [FF 1965 II 1](https://fedlex.data.admin.ch/eli/fga/1965/2_284_303_1)).
+[^103-2]: Nuovo testo giusta la cifra I della LF del 20 mar. 1987, in vigore dal 1° feb. 1989 ([RU 1989 212](https://fedlex.data.admin.ch/eli/oc/1989/212_212_212); [FF 1986 II 541](https://fedlex.data.admin.ch/eli/fga/1986/2_717_741_541)).
 
 ### Esclusione della responsabilità del vettore
 
@@ -1322,7 +1324,7 @@ Il vettore non è responsabile della perdita, della distruzione o della avaria d
 - h. insufficienza d’imballaggio o insufficienza o non corrispondenza di marche;
 - i. vizi occulti della nave non avvertibili mediante la dovuta diligenza.
 
-[^104-1]: Nuovo testo giusta il n. I della LF del 14 dic. 1965, in vigore dal 1° gen. 1967 ([RU 1966 1491](https://fedlex.data.admin.ch/eli/oc/1966/1453_1503_1491); [FF 1965 II 1](https://fedlex.data.admin.ch/eli/fga/1965/2_284_303_1)).
+[^104-1]: Nuovo testo giusta la cifra I della LF del 14 dic. 1965, in vigore dal 1° gen. 1967 ([RU 1966 1491](https://fedlex.data.admin.ch/eli/oc/1966/1453_1503_1491); [FF 1965 II 1](https://fedlex.data.admin.ch/eli/fga/1965/2_284_303_1)).
 
 ### Estensione e limitazione della responsabilità
 
@@ -1342,7 +1344,7 @@ Il vettore non è responsabile della perdita, della distruzione o della avaria d
 
 <sup>6</sup> Il vettore e gli ausiliari (art. 103 cpv. 3) non rispondono insieme oltre l’importo di cui risponderebbe il solo vettore.
 
-[^105-1]: Nuovo testo giusta il n. I della LF del 20 mar. 1987, in vigore dal 1° feb. 1989 ([RU 1989 212](https://fedlex.data.admin.ch/eli/oc/1989/212_212_212); [FF 1986 II 541](https://fedlex.data.admin.ch/eli/fga/1986/2_717_741_541)).
+[^105-1]: Nuovo testo giusta la cifra I della LF del 20 mar. 1987, in vigore dal 1° feb. 1989 ([RU 1989 212](https://fedlex.data.admin.ch/eli/oc/1989/212_212_212); [FF 1986 II 541](https://fedlex.data.admin.ch/eli/fga/1986/2_717_741_541)).
 
 ### Decadenza dal diritto di limitazione della responsabilità
 
@@ -1352,7 +1354,7 @@ Il vettore non è responsabile della perdita, della distruzione o della avaria d
 
 Né il vettore né i suoi ausiliari (art. 103 cpv. 3) possono avvalersi di una liberazione dalla responsabilità o di una limitazione della medesima se è provato che il danno risulta da un atto o da un’omissione commessa sia con l’intenzione di causare un danno, sia temerariamente e con la consapevolezza che ne sarebbe probabilmente derivato un danno.
 
-[^105a-1]: Introdotto dal n. I della LF del 20 mar. 1987, in vigore dal 1° feb. 1989 ([RU 1989 212](https://fedlex.data.admin.ch/eli/oc/1989/212_212_212); [FF 1986 II 541](https://fedlex.data.admin.ch/eli/fga/1986/2_717_741_541)).
+[^105a-1]: Introdotto dalla cifra I della LF del 20 mar. 1987, in vigore dal 1° feb. 1989 ([RU 1989 212](https://fedlex.data.admin.ch/eli/oc/1989/212_212_212); [FF 1986 II 541](https://fedlex.data.admin.ch/eli/fga/1986/2_717_741_541)).
 
 ### Dichiarazioni del caricatore
 
@@ -1372,7 +1374,7 @@ Prima dell’imbarco delle merci, il caricatore deve dichiarare per iscritto al 
 
 <sup>3</sup> Se il caricatore ha fornito scientemente false dichiarazioni sulla natura o sul valore delle merci, il vettore non risponde per i danni alle merci né per altri svantaggi derivanti dalla inesattezza delle dichiarazioni del caricatore.
 
-[^106-1]: Nuovo testo giusta il n. I della LF del 14 dic. 1965, in vigore dal 1° gen. 1967 ([RU 1966 1491](https://fedlex.data.admin.ch/eli/oc/1966/1453_1503_1491); [FF 1965 II 1](https://fedlex.data.admin.ch/eli/fga/1965/2_284_303_1)).
+[^106-1]: Nuovo testo giusta la cifra I della LF del 14 dic. 1965, in vigore dal 1° gen. 1967 ([RU 1966 1491](https://fedlex.data.admin.ch/eli/oc/1966/1453_1503_1491); [FF 1965 II 1](https://fedlex.data.admin.ch/eli/fga/1965/2_284_303_1)).
 
 ### Merci pericolose o vietate
 
@@ -1384,7 +1386,7 @@ Prima dell’imbarco delle merci, il caricatore deve dichiarare per iscritto al 
 
 <sup>2</sup> Se tali merci o cose sono state imbarcate con il consenso del vettore o del capitano, in conoscenza della loro natura o del loro condizionamento pericolosi, esse possono, senza che il vettore sia tenuto al risarcimento, essere sbarcate, distrutte o rese innocue nello stesso modo, qualora costituissero un pericolo per la nave, le persone a bordo o il rimanente carico.
 
-[^107-1]: Nuovo testo giusta il n. I della LF del 14 dic. 1965, in vigore dal 1° gen. 1967 ([RU 1966 1491](https://fedlex.data.admin.ch/eli/oc/1966/1453_1503_1491); [FF 1965 II 1](https://fedlex.data.admin.ch/eli/fga/1965/2_284_303_1)).
+[^107-1]: Nuovo testo giusta la cifra I della LF del 14 dic. 1965, in vigore dal 1° gen. 1967 ([RU 1966 1491](https://fedlex.data.admin.ch/eli/oc/1966/1453_1503_1491); [FF 1965 II 1](https://fedlex.data.admin.ch/eli/fga/1965/2_284_303_1)).
 
 ### Caricazione e scaricazione
 
@@ -1406,7 +1408,7 @@ Prima dell’imbarco delle merci, il caricatore deve dichiarare per iscritto al 
 
 <sup>3</sup> Per gli animali periti in corso di viaggio, il nolo dev’essere corrisposto, in quanto il caricatore non provi che la morte degli animali è dovuta a colpa del vettore.
 
-[^109-1]: Per. abrogato dal n. I della LF del 14 dic. 1965, con effetto dal 1° gen. 1967 ([RU 1966 1491](https://fedlex.data.admin.ch/eli/oc/1966/1453_1503_1491); [FF 1965 II 1](https://fedlex.data.admin.ch/eli/fga/1965/2_284_303_1)).
+[^109-1]: Per. abrogato dalla cifra I della LF del 14 dic. 1965, con effetto dal 1° gen. 1967 ([RU 1966 1491](https://fedlex.data.admin.ch/eli/oc/1966/1453_1503_1491); [FF 1965 II 1](https://fedlex.data.admin.ch/eli/fga/1965/2_284_303_1)).
 
 ### Debitore del nolo
 
@@ -1428,7 +1430,7 @@ Prima dell’imbarco delle merci, il caricatore deve dichiarare per iscritto al 
 
 <sup>3</sup> Le riserve del destinatario, in quanto non vi sia stata una constatazione in contraddittorio dello stato e della quantità delle merci riconsegnate, devono essere espresse per iscritto, con indicazione della generica natura del danno, al più tardi alla riconsegna delle merci, se si tratta di danni e perdite riconoscibili esternamente, o entro tre giorni dalla riconsegna al destinatario, se si tratta di danni e perdite non riconoscibili esternamente; nel caso contrario, le merci si considerano accettate senza riserve.
 
-[^111-1]: Nuovo testo giusta il n. I della LF del 14 dic. 1965, in vigore dal 1° gen. 1967 ([RU 1966 1491](https://fedlex.data.admin.ch/eli/oc/1966/1453_1503_1491); [FF 1965 II 1](https://fedlex.data.admin.ch/eli/fga/1965/2_284_303_1)).
+[^111-1]: Nuovo testo giusta la cifra I della LF del 14 dic. 1965, in vigore dal 1° gen. 1967 ([RU 1966 1491](https://fedlex.data.admin.ch/eli/oc/1966/1453_1503_1491); [FF 1965 II 1](https://fedlex.data.admin.ch/eli/fga/1965/2_284_303_1)).
 
 ### II. Polizza di carico.
 
@@ -1478,7 +1480,7 @@ Il vettore non è tenuto a indicare nella polizza di carico:
 
 <sup>4</sup> Gli esemplari originali della polizza di carico devono essere firmati dal capitano o dal vettore. A domanda del capitano, del vettore o del caricatore, essi devono essere sottoscritti dal caricatore.
 
-[^114-1]: Nuovo testo giusta il n. I della LF del 14 dic. 1965, in vigore dal 1° gen. 1967 ([RU 1966 1491](https://fedlex.data.admin.ch/eli/oc/1966/1453_1503_1491); [FF 1965 II 1](https://fedlex.data.admin.ch/eli/fga/1965/2_284_303_1)).
+[^114-1]: Nuovo testo giusta la cifra I della LF del 14 dic. 1965, in vigore dal 1° gen. 1967 ([RU 1966 1491](https://fedlex.data.admin.ch/eli/oc/1966/1453_1503_1491); [FF 1965 II 1](https://fedlex.data.admin.ch/eli/fga/1965/2_284_303_1)).
 
 ### Valore delle indicazioni contenute nella polizza di carico
 
@@ -1490,8 +1492,8 @@ Il vettore non è tenuto a indicare nella polizza di carico:
 
 <sup>3</sup> Il vettore può inserire nella polizza di carico riserve circa la descrizione delle merci soltanto se si tratta di indicazioni che non è obbligato a dare nella polizza o se vi è un caso previsto nell’articolo 114 capoverso 3.[^115-2]
 
-[^115-1]: Nuovo testo giusta il n. I della LF del 20 mar. 1987, in vigore dal 1° feb. 1989 ([RU 1989 212](https://fedlex.data.admin.ch/eli/oc/1989/212_212_212); [FF 1986 II 541](https://fedlex.data.admin.ch/eli/fga/1986/2_717_741_541)).
-[^115-2]: Nuovo testo giusta il n. I della LF del 14 dic. 1965, in vigore dal 1° gen. 1967 ([RU 1966 1491](https://fedlex.data.admin.ch/eli/oc/1966/1453_1503_1491); [FF 1965 II 1](https://fedlex.data.admin.ch/eli/fga/1965/2_284_303_1)).
+[^115-1]: Nuovo testo giusta la cifra I della LF del 20 mar. 1987, in vigore dal 1° feb. 1989 ([RU 1989 212](https://fedlex.data.admin.ch/eli/oc/1989/212_212_212); [FF 1986 II 541](https://fedlex.data.admin.ch/eli/fga/1986/2_717_741_541)).
+[^115-2]: Nuovo testo giusta la cifra I della LF del 14 dic. 1965, in vigore dal 1° gen. 1967 ([RU 1966 1491](https://fedlex.data.admin.ch/eli/oc/1966/1453_1503_1491); [FF 1965 II 1](https://fedlex.data.admin.ch/eli/fga/1965/2_284_303_1)).
 
 ### Effetti giuridici
 
@@ -1521,7 +1523,7 @@ Il vettore non è tenuto a indicare nella polizza di carico:
 
 <sup>4</sup> Il presente articolo non si oppone a qualsiasi intesa per il caso di avaria comune.
 
-[^117-1]: Nuovo testo giusta il n. I della LF del 14 dic. 1965, in vigore dal 1° gen. 1967 ([RU 1966 1491](https://fedlex.data.admin.ch/eli/oc/1966/1453_1503_1491); [FF 1965 II 1](https://fedlex.data.admin.ch/eli/fga/1965/2_284_303_1)).
+[^117-1]: Nuovo testo giusta la cifra I della LF del 14 dic. 1965, in vigore dal 1° gen. 1967 ([RU 1966 1491](https://fedlex.data.admin.ch/eli/oc/1966/1453_1503_1491); [FF 1965 II 1](https://fedlex.data.admin.ch/eli/fga/1965/2_284_303_1)).
 
 ### Capo V: Trasporto di persone
 
@@ -1537,11 +1539,11 @@ Il vettore non è tenuto a indicare nella polizza di carico:
 
 <sup>4</sup> Il Consiglio federale può emanare altre disposizioni concernenti il trasporto di passeggeri con navi svizzere.
 
-[^118-1]: Nuovo testo giusta il n. I della LF del 14 dic. 1965, in vigore dal 1° gen. 1967 ([RU 1966 1491](https://fedlex.data.admin.ch/eli/oc/1966/1453_1503_1491); [FF 1965 II 1](https://fedlex.data.admin.ch/eli/fga/1965/2_284_303_1)).
+[^118-1]: Nuovo testo giusta la cifra I della LF del 14 dic. 1965, in vigore dal 1° gen. 1967 ([RU 1966 1491](https://fedlex.data.admin.ch/eli/oc/1966/1453_1503_1491); [FF 1965 II 1](https://fedlex.data.admin.ch/eli/fga/1965/2_284_303_1)).
 [^118-2]: [RS 0.747.356.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3092)
 [^118-3]: [RS 0.747.356.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3093)
 [^118-4]: Non ancora pubblicato nella RU.
-[^118-5]: Nuovo testo giusta il n. I della LF del 18 dic. 1992, in vigore dal 1° giu. 1993 ([RU 1993 1703](https://fedlex.data.admin.ch/eli/oc/1993/1703_1703_1703)178; [FF 1992 II 1313](https://fedlex.data.admin.ch/eli/fga/1992/2_1561_1533_1313)).
+[^118-5]: Nuovo testo giusta la cifra I della LF del 18 dic. 1992, in vigore dal 1° giu. 1993 ([RU 1993 1703](https://fedlex.data.admin.ch/eli/oc/1993/1703_1703_1703)178; [FF 1992 II 1313](https://fedlex.data.admin.ch/eli/fga/1992/2_1561_1533_1313)).
 
 ## Titolo VI: Sinistri di mare e altri fatti particolari
 
@@ -1570,9 +1572,9 @@ Il vettore non è tenuto a indicare nella polizza di carico:
 <sup>2</sup> Le disposizioni della convenzione internazionale del 28 aprile 1989[^121-3] sull’assistenza sono applicabili alla navigazione marittima sotto bandiera svizzera. Il pagamento del compenso deve essere effettuato dal proprietario della nave assistita. Questi ha diritto di regresso verso gli aventi diritto sugli altri valori salvati, proporzionalmente alle loro parti rispettive.[^121-4]
 
 [^121-1]: [RS 0.747.363.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3094)
-[^121-2]: Nuovo testo giusta il n. I della LF del 14 dic. 1965, in vigore dal 1° gen. 1967 ([RU 1966 1491](https://fedlex.data.admin.ch/eli/oc/1966/1453_1503_1491); [FF 1965 II 1](https://fedlex.data.admin.ch/eli/fga/1965/2_284_303_1)).
+[^121-2]: Nuovo testo giusta la cifra I della LF del 14 dic. 1965, in vigore dal 1° gen. 1967 ([RU 1966 1491](https://fedlex.data.admin.ch/eli/oc/1966/1453_1503_1491); [FF 1965 II 1](https://fedlex.data.admin.ch/eli/fga/1965/2_284_303_1)).
 [^121-3]: [RS 0.747.363.4](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3100)
-[^121-4]: Nuovo testo giusta il n. I della LF del 18 dic. 1992, in vigore dal 1° mar. 1997 ([RU 1993 1703](https://fedlex.data.admin.ch/eli/oc/1993/1703_1703_1703), [1997 562](https://fedlex.data.admin.ch/eli/oc/1997/562_562_562); [FF 1992 II 1313](https://fedlex.data.admin.ch/eli/fga/1992/2_1561_1533_1313)).
+[^121-4]: Nuovo testo giusta la cifra I della LF del 18 dic. 1992, in vigore dal 1° mar. 1997 ([RU 1993 1703](https://fedlex.data.admin.ch/eli/oc/1993/1703_1703_1703), [1997 562](https://fedlex.data.admin.ch/eli/oc/1997/562_562_562); [FF 1992 II 1313](https://fedlex.data.admin.ch/eli/fga/1992/2_1561_1533_1313)).
 
 ### Avaria comune
 
@@ -1584,9 +1586,9 @@ Il vettore non è tenuto a indicare nella polizza di carico:
 
 <sup>2</sup> L’avaria comune è retta dalle regole di York e di Anversa[^122-2]. Il Consiglio federale stabilisce quali siano le disposizioni e il tenore applicabili. [^122-3]
 
-[^122-1]: Nuovo testo giusta il n. I della LF del 14 dic. 1965, in vigore dal 1° gen. 1967 ([RU 1966 1491](https://fedlex.data.admin.ch/eli/oc/1966/1453_1503_1491); [FF 1965 II 1](https://fedlex.data.admin.ch/eli/fga/1965/2_284_303_1)).
+[^122-1]: Nuovo testo giusta la cifra I della LF del 14 dic. 1965, in vigore dal 1° gen. 1967 ([RU 1966 1491](https://fedlex.data.admin.ch/eli/oc/1966/1453_1503_1491); [FF 1965 II 1](https://fedlex.data.admin.ch/eli/fga/1965/2_284_303_1)).
 [^122-2]: Ex nota soppressa dalla Commissione di redazione dell’AF [art. 33 LRC – [RU 1974 1051](https://fedlex.data.admin.ch/eli/oc/1974/1051_1051_1051)].
-[^122-3]: Nuovo testo giusta il n. I della LF del 18 dic. 1992, in vigore dal 1° giu. 1993 ([RU 1993 1703](https://fedlex.data.admin.ch/eli/oc/1993/1703_1703_1703); [FF 1992 II 1313](https://fedlex.data.admin.ch/eli/fga/1992/2_1561_1533_1313)).
+[^122-3]: Nuovo testo giusta la cifra I della LF del 18 dic. 1992, in vigore dal 1° giu. 1993 ([RU 1993 1703](https://fedlex.data.admin.ch/eli/oc/1993/1703_1703_1703); [FF 1992 II 1313](https://fedlex.data.admin.ch/eli/fga/1992/2_1561_1533_1313)).
 
 ### Regolamento d’avaria
 
@@ -1638,19 +1640,24 @@ Il vettore non è tenuto a indicare nella polizza di carico:
 
 <sup>3</sup> Le disposizioni della presente legge non sono tuttavia applicabili alla navigazione interna esercitata in virtù di una concessione federale.
 
-### Definizione e responsabilità dell’armatore
+### Responsabilità dell’armatore e degli addetti al recupero
+
+[^titVII-lvlu2-1]
+
+[^titVII-lvlu2-1]: Nuovo testo giusta l’all. del DF del 22 dic. 2023 che approva la Convenzione di Strasburgo del 2012 sulla limitazione della responsabilità nella navigazione interna e la traspone nel diritto svizzero, in vigore dal 1° lug. 2026 ([RU 2026 256](https://fedlex.data.admin.ch/eli/oc/2026/256); [FF 2023 999](https://fedlex.data.admin.ch/eli/fga/2023/999)).
 
 #### Art. 126
 
-<sup>1</sup> È armatore di una nave della navigazione interna chi, sia come proprietario o usufruttuario, sia come conduttore, ne ha il possesso e ne controlla l’esercizio.
+<sup>1</sup> È armatore di una nave della navigazione interna il proprietario di battello secondo l’articolo 1 paragrafo 2 lettera a della Convenzione di Strasburgo del 27 settembre 2012[^126-1] sulla limitazione della responsabilità nella navigazione interna (CLNI 2012).[^126-2]
 
-<sup>2</sup> Alla responsabilità dell’armatore sono applicabili gli articoli 48 capoversi 1 e 2. La limitazione della sua responsabilità è disciplinata dalle disposizioni della Convenzione di Strasburgo del 4 novembre 1988[^126-1]<sup>©RU\_...\_(FF®</sup> sulla limitazione della responsabilità nella navigazione interna.[^126-2]
+<sup>2</sup> Alla responsabilità dell’armatore e degli addetti al recupero secondo l’articolo 1 paragrafo 2 lettera c CLNI 2012 è applicabile l’articolo 48 capoversi 1 e 2 della presente legge. La limitazione della loro responsabilità è disciplinata dalle disposizioni della CLNI 2012.[^126-3]
 
-<sup>3</sup> Se, al momento in cui il danno è stato cagionato, la nave da spinta era solidamente raccordata con chiatte spinte in modo da formare un convoglio a spinta, l’importo della responsabilità è calcolato in totale secondo la potenza della nave da spinta e la portata lorda delle chiatte spinte.[^126-3]
+<sup>3</sup> Se, al momento in cui il danno è stato cagionato, la nave da spinta era solidamente raccordata con chiatte spinte in modo da formare un convoglio a spinta, l’importo della responsabilità è calcolato in totale secondo la potenza della nave da spinta e la portata lorda delle chiatte spinte.[^126-4]
 
 [^126-1]: [RS 0.747.206](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3021)
-[^126-2]: Nuovo testo giusta il n. I della LF del 22 mar. 1996, in vigore dal 1° nov. 1997 ([RU 1997 2184](https://fedlex.data.admin.ch/eli/oc/1997/2184_2184_2184); [FF 1995 IV 229](https://fedlex.data.admin.ch/eli/fga/1995/4_241_233_229)).
-[^126-3]: Introdotto dal n. I della LF del 14 dic. 1965, in vigore dal 1° gen. 1967 ([RU 1966 1491](https://fedlex.data.admin.ch/eli/oc/1966/1453_1503_1491); [FF 1965 II 1](https://fedlex.data.admin.ch/eli/fga/1965/2_284_303_1)).
+[^126-2]: Nuovo testo giusta l’all. del DF del 22 dic. 2023 che approva la Convenzione di Strasburgo del 2012 sulla limitazione della responsabilità nella navigazione interna e la traspone nel diritto svizzero, in vigore dal 1° lug. 2026 ([RU 2026 256](https://fedlex.data.admin.ch/eli/oc/2026/256); [FF 2023 999](https://fedlex.data.admin.ch/eli/fga/2023/999)).
+[^126-3]: Nuovo testo giusta l’all. del DF del 22 dic. 2023 che approva la Convenzione di Strasburgo del 2012 sulla limitazione della responsabilità nella navigazione interna e la traspone nel diritto svizzero, in vigore dal 1° lug. 2026 ([RU 2026 256](https://fedlex.data.admin.ch/eli/oc/2026/256); [FF 2023 999](https://fedlex.data.admin.ch/eli/fga/2023/999)).
+[^126-4]: Introdotto dalla cifra I della LF del 14 dic. 1965, in vigore dal 1° gen. 1967 ([RU 1966 1491](https://fedlex.data.admin.ch/eli/oc/1966/1453_1503_1491); [FF 1965 II 1](https://fedlex.data.admin.ch/eli/fga/1965/2_284_303_1)).
 
 ### Altri casi
 
@@ -1666,11 +1673,11 @@ Il vettore non è tenuto a indicare nella polizza di carico:
 
 <sup>5</sup> Inoltre, gli articoli 7 e 14 capoverso 3 sono applicabili per analogia alla navigazione interna.[^127-5]
 
-[^127-1]: Nuovo testo giusta il n. I della LF del 14 dic. 1965, in vigore dal 1° gen. 1967 ([RU 1966 1491](https://fedlex.data.admin.ch/eli/oc/1966/1453_1503_1491); [FF 1965 II 1](https://fedlex.data.admin.ch/eli/fga/1965/2_284_303_1)).
+[^127-1]: Nuovo testo giusta la cifra I della LF del 14 dic. 1965, in vigore dal 1° gen. 1967 ([RU 1966 1491](https://fedlex.data.admin.ch/eli/oc/1966/1453_1503_1491); [FF 1965 II 1](https://fedlex.data.admin.ch/eli/fga/1965/2_284_303_1)).
 [^127-2]: [RS 0.747.205](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3020)
-[^127-3]: Nuovo testo giusta il n. II della LF dell’8 ott. 1971 che modifica quella sul registro del naviglio, in vigore dal 1° feb. 1972 ([RU 1972 349](https://fedlex.data.admin.ch/eli/oc/1972/345_349_349); [FF 1970 II 989](https://fedlex.data.admin.ch/eli/fga/1970/2_1236_1248_989)).
-[^127-4]: Nuovo testo giusta il n. II della LF dell’8 ott. 1971 che modifica quella sul registro del naviglio, in vigore dal 1° feb. 1972 ([RU 1972 349](https://fedlex.data.admin.ch/eli/oc/1972/345_349_349); [FF 1970 II 989](https://fedlex.data.admin.ch/eli/fga/1970/2_1236_1248_989)).
-[^127-5]: Originario cpv. 4. Nuovo testo giusta il n. I della LF del 14 dic. 1965, in vigore dal 1° gen. 1967 ([RU 1966 1491](https://fedlex.data.admin.ch/eli/oc/1966/1453_1503_1491); [FF 1965 II 1](https://fedlex.data.admin.ch/eli/fga/1965/2_284_303_1)).
+[^127-3]: Nuovo testo giusta la cifra II della LF dell’8 ott. 1971 che modifica quella sul registro del naviglio, in vigore dal 1° feb. 1972 ([RU 1972 349](https://fedlex.data.admin.ch/eli/oc/1972/345_349_349); [FF 1970 II 989](https://fedlex.data.admin.ch/eli/fga/1970/2_1236_1248_989)).
+[^127-4]: Nuovo testo giusta la cifra II della LF dell’8 ott. 1971 che modifica quella sul registro del naviglio, in vigore dal 1° feb. 1972 ([RU 1972 349](https://fedlex.data.admin.ch/eli/oc/1972/345_349_349); [FF 1970 II 989](https://fedlex.data.admin.ch/eli/fga/1970/2_1236_1248_989)).
+[^127-5]: Originario cpv. 4. Nuovo testo giusta la cifra I della LF del 14 dic. 1965, in vigore dal 1° gen. 1967 ([RU 1966 1491](https://fedlex.data.admin.ch/eli/oc/1966/1453_1503_1491); [FF 1965 II 1](https://fedlex.data.admin.ch/eli/fga/1965/2_284_303_1)).
 
 ## Titolo VIII: Disposizioni penali e disciplinari
 
@@ -1684,14 +1691,14 @@ Il vettore non è tenuto a indicare nella polizza di carico:
 
 <sup>1</sup>
 
-È punito con una pena detentiva sino a dieci anni o con una pena pe-cuniaria chiunque espone scientemente a pericolo una nave svizzera o le persone a bordo in quanto intenzionalmente:
+È punito con una pena detentiva sino a dieci anni o con una pena pecuniaria chiunque espone scientemente a pericolo una nave svizzera o le persone a bordo in quanto intenzionalmente:
 
 - a. deteriora, distrugge, rende inservibile o fa scomparire la nave, le sue parti costitutive o i suoi accessori, oppure i carburanti o i viveri a bordo; o
 - b. impedisce o intralcia il governo della nave oppure l’ordine o la vita a bordo.
 
 <sup>2</sup> Se l’autore ha agito per negligenza, la pena è una pena detentiva sino a tre anni o una pena pecuniaria.
 
-[^128-1]: Nuovo testo giusta il n. I 24 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^128-1]: Nuovo testo giusta la cifra I n. 24 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Perturbamento della navigazione
 
@@ -1703,7 +1710,7 @@ Il vettore non è tenuto a indicare nella polizza di carico:
 
 <sup>2</sup> Se l’autore ha agito per negligenza, la pena è una pena detentiva sino a tre anni o una pena pecuniaria.
 
-[^129-1]: Nuovo testo giusta il n. I 24 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^129-1]: Nuovo testo giusta la cifra I n. 24 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Inquinamento marino
 
@@ -1717,9 +1724,9 @@ Il vettore non è tenuto a indicare nella polizza di carico:
 
 <sup>3</sup> Nei casi di minore importanza, il reato è punito disciplinarmente.
 
-[^129a-1]: Introdotto dal n. I della LF del 20 mar. 1987, in vigore dal 1° feb. 1989 ([RU 1989 212](https://fedlex.data.admin.ch/eli/oc/1989/212_212_212); [FF 1986 II 541](https://fedlex.data.admin.ch/eli/fga/1986/2_717_741_541)).
-[^129a-2]: Nuovo testo giusta il n. I 24 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
-[^129a-3]: Nuovo testo giusta il n. I 24 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^129a-1]: Introdotto dalla cifra I della LF del 20 mar. 1987, in vigore dal 1° feb. 1989 ([RU 1989 212](https://fedlex.data.admin.ch/eli/oc/1989/212_212_212); [FF 1986 II 541](https://fedlex.data.admin.ch/eli/fga/1986/2_717_741_541)).
+[^129a-2]: Nuovo testo giusta la cifra I n. 24 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^129a-3]: Nuovo testo giusta la cifra I n. 24 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Violazione delle regole dell’arte nautica
 
@@ -1729,7 +1736,7 @@ Il vettore non è tenuto a indicare nella polizza di carico:
 
 Il capitano o il componente dell’equipaggio di una nave svizzera che viola le disposizioni legali o le regole riconosciute sulla condotta nautica della nave oppure le prescrizioni svizzere o straniere in materia di navigazione o di polizia sul mare è punito, per quanto il reato non sia perseguibile in virtù di un’altra disposizione legale, con la multa sino a 20 000 franchi.
 
-[^130-1]: Nuovo testo giusta il n. I 24 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^130-1]: Nuovo testo giusta la cifra I n. 24 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Cattivo stato di navigabilità
 
@@ -1737,11 +1744,11 @@ Il capitano o il componente dell’equipaggio di una nave svizzera che viola le 
 
 [^131-1]
 
-<sup>1</sup> Il capitano che, intenzionalmente, prende il mare con una nave sviz-zera innavigabile o insufficientemente equipaggiata, armata o approvvigionata ed espone in tal modo a pericolo la nave o le persone a bor-do è punito con una pena detentiva sino a dieci anni o con una pena pecuniaria.
+<sup>1</sup> Il capitano che, intenzionalmente, prende il mare con una nave svizzera innavigabile o insufficientemente equipaggiata, armata o approvvigionata ed espone in tal modo a pericolo la nave o le persone a bordo è punito con una pena detentiva sino a dieci anni o con una pena pecuniaria.
 
 <sup>2</sup> Se l’autore ha agito per negligenza, la pena è una pena detentiva sino a tre anni o una pena pecuniaria.
 
-[^131-1]: Nuovo testo giusta il n. I 24 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^131-1]: Nuovo testo giusta la cifra I n. 24 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Violazione delle regole sulla navigabilità
 
@@ -1749,9 +1756,9 @@ Il capitano o il componente dell’equipaggio di una nave svizzera che viola le 
 
 [^132-1]
 
-Il capitano o l’armatore che fa prendere il mare a una nave svizzera in-navigabile o insufficientemente equipaggiata, armata o approvvigionata è punito, in quanto non sia adempiuta una fattispecie di reato più grave, con una pena detentiva sino a tre anni o con una pena pecuniaria.
+Il capitano o l’armatore che fa prendere il mare a una nave svizzera innavigabile o insufficientemente equipaggiata, armata o approvvigionata è punito, in quanto non sia adempiuta una fattispecie di reato più grave, con una pena detentiva sino a tre anni o con una pena pecuniaria.
 
-[^132-1]: Nuovo testo giusta il n. I 24 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^132-1]: Nuovo testo giusta la cifra I n. 24 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Omissione di soccorso
 
@@ -1763,15 +1770,11 @@ Il capitano o l’armatore che fa prendere il mare a una nave svizzera in-naviga
 
 <sup>2</sup> Se l’autore ha agito per negligenza, la pena è una pena pecuniaria.
 
-[^133-1]: Nuovo testo giusta il n. I 24 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^133-1]: Nuovo testo giusta la cifra I n. 24 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Capo II: Reati contro la disciplina e l’ordine a bordo
 
 ### Abbandono della nave in pericolo
-
-### Mancato esercizio del comando
-
-### Abuso di autorità e usurpazione di funzioni
 
 #### Art. 134
 
@@ -1779,29 +1782,37 @@ Il capitano o l’armatore che fa prendere il mare a una nave svizzera in-naviga
 
 <sup>1</sup> Il capitano di una nave svizzera che non abbandona per ultimo la sua nave in pericolo è punito con una pena detentiva sino a tre anni o con una pena pecuniaria.
 
-<sup>2</sup> Il componente dell’equipaggio che abbandona una nave svizzera in pericolo senza l’autorizzazione del capitano è punito con una pena de-tentiva sino a un anno o con una pena pecuniaria.
+<sup>2</sup> Il componente dell’equipaggio che abbandona una nave svizzera in pericolo senza l’autorizzazione del capitano è punito con una pena detentiva sino a un anno o con una pena pecuniaria.
 
-**Art. 135**[^134-2]
+[^134-1]: Nuovo testo giusta la cifra I n. 24 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+
+### Mancato esercizio del comando
+
+#### Art. 135
+
+[^135-1]
 
 <sup>1</sup> Il capitano di una nave svizzera che, intenzionalmente, non dirige o trascura il governo della nave posta sotto il suo comando è punito con una pena detentiva sino a un anno o con una pena pecuniaria.
 
 <sup>2</sup> Se l’autore ha agito per negligenza, la pena è della multa.
 
-**Art. 136**
+[^135-1]: Nuovo testo giusta la cifra I n. 24 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+
+### Abuso di autorità e usurpazione di funzioni
+
+#### Art. 136
 
 <sup>1</sup>
 
-È punito con una pena detentiva sino a tre anni o con una pena pecu-niaria:
+È punito con una pena detentiva sino a tre anni o con una pena pecuniaria:
 
 - a. il capitano o l’ufficiale di una nave svizzera che abusa del suo diritto di dare ordini a un subordinato impartendogli ordini che non hanno relazione alcuna con il servizio a bordo;
 - b. il capitano che oltrepassa il suo diritto d’infliggere pene disciplinari oppure ne abusa;
-- c. chiunque, non avendo il potere di dare ordini o di punire a bordo, si arroga tale potere.[^134-3]
+- c. chiunque, non avendo il potere di dare ordini o di punire a bordo, si arroga tale potere.[^136-1]
 
 <sup>2</sup> La pena è della multa nei casi di minore importanza.
 
-[^134-1]: Nuovo testo giusta il n. I 24 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
-[^134-2]: Nuovo testo giusta il n. I 24 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
-[^134-3]: Nuovo testo giusta il n. I 24 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^136-1]: Nuovo testo giusta la cifra I n. 24 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Diserzione
 
@@ -1809,15 +1820,15 @@ Il capitano o l’armatore che fa prendere il mare a una nave svizzera in-naviga
 
 [^137-1]
 
-<sup>1</sup> Il capitano o il membro dell’equipaggio di una nave svizzera che, in violazione del contratto di arruolamento, non si reca a bordo della na-ve ovvero l’abbandona dopo l’arruolamento, è punito, se dal fatto de-riva un notevole ritardo nella partenza della nave o notevoli spese per evitare il ritardo, con una pena pecuniaria.[^137-2]
+<sup>1</sup> Il capitano o il membro dell’equipaggio di una nave svizzera che, in violazione del contratto di arruolamento, non si reca a bordo della nave ovvero l’abbandona dopo l’arruolamento, è punito, se dal fatto deriva un notevole ritardo nella partenza della nave o notevoli spese per evitare il ritardo, con una pena pecuniaria.[^137-2]
 
 <sup>2</sup> Se più persone agiscono insieme, la pena è una pena detentiva sino a tre anni o una pena pecuniaria.[^137-3]
 
 <sup>3</sup> Nei casi di minore importanza, il reato è punito disciplinarmente.
 
-[^137-1]: Nuovo testo giusta il n. I della LF del 14 dic. 1965, in vigore dal 1° gen. 1967 ([RU 1966 1491](https://fedlex.data.admin.ch/eli/oc/1966/1453_1503_1491); [FF 1965 II 1](https://fedlex.data.admin.ch/eli/fga/1965/2_284_303_1)).
-[^137-2]: Nuovo testo giusta il n. I 24 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
-[^137-3]: Nuovo testo giusta il n. I 24 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^137-1]: Nuovo testo giusta la cifra I della LF del 14 dic. 1965, in vigore dal 1° gen. 1967 ([RU 1966 1491](https://fedlex.data.admin.ch/eli/oc/1966/1453_1503_1491); [FF 1965 II 1](https://fedlex.data.admin.ch/eli/fga/1965/2_284_303_1)).
+[^137-2]: Nuovo testo giusta la cifra I n. 24 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^137-3]: Nuovo testo giusta la cifra I n. 24 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Abbandono del posto
 
@@ -1827,7 +1838,7 @@ Il capitano o l’armatore che fa prendere il mare a una nave svizzera in-naviga
 
 <sup>2</sup> Nei casi di minore importanza, il reato è punito disciplinarmente.
 
-[^138-1]: Nuovo testo giusta il n. I 24 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^138-1]: Nuovo testo giusta la cifra I n. 24 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Ebbrezza o intossicazione
 
@@ -1835,11 +1846,11 @@ Il capitano o l’armatore che fa prendere il mare a una nave svizzera in-naviga
 
 [^139-1]
 
-<sup>1</sup> Il capitano di una nave svizzera che per causa di ebbrezza o di intossicazione si trova in uno stato tale da escludere o da notevolmente me-nomare la sua capacità a condurre la nave è punito con una pena de-tentiva sino a tre anni o con una pena pecuniaria.
+<sup>1</sup> Il capitano di una nave svizzera che per causa di ebbrezza o di intossicazione si trova in uno stato tale da escludere o da notevolmente menomare la sua capacità a condurre la nave è punito con una pena detentiva sino a tre anni o con una pena pecuniaria.
 
 <sup>2</sup> Il componente dell’equipaggio che nell’esercizio di una mansione essenziale per la sicurezza della nave o della navigazione si trova in uno stato d’ebbrezza o di intossicazione è punito con una pena detentiva sino a un anno o con una pena pecuniaria. Nei casi di minore importanza, il reato è punito disciplinarmente.
 
-[^139-1]: Nuovo testo giusta il n. I 24 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^139-1]: Nuovo testo giusta la cifra I n. 24 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Disobbedienza
 
@@ -1853,36 +1864,37 @@ Il capitano o l’armatore che fa prendere il mare a una nave svizzera in-naviga
 
 <sup>4</sup> Le lesioni personali semplici e le vie di fatto cagionate da un membro dell’equipaggio a un superiore sono perseguite d’ufficio.[^140-3]
 
-[^140-1]: Nuovo testo giusta il n. I 24 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
-[^140-2]: Nuovo testo giusta il n. I 24 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
-[^140-3]: Introdotto dal n. I della LF del 14 dic. 1965, in vigore dal 1° gen. 1967 ([RU 1966 1491](https://fedlex.data.admin.ch/eli/oc/1966/1453_1503_1491); [FF 1965 II 1](https://fedlex.data.admin.ch/eli/fga/1965/2_284_303_1)).
+[^140-1]: Nuovo testo giusta la cifra I n. 24 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^140-2]: Nuovo testo giusta la cifra I n. 24 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^140-3]: Introdotto dalla cifra I della LF del 14 dic. 1965, in vigore dal 1° gen. 1967 ([RU 1966 1491](https://fedlex.data.admin.ch/eli/oc/1966/1453_1503_1491); [FF 1965 II 1](https://fedlex.data.admin.ch/eli/fga/1965/2_284_303_1)).
 
 ### Imbarco abusivo
-
-### Pregiudizio da infrazioni
 
 #### Art. 141
 
 <sup>1</sup>
 
-È punito con una pena detentiva sino a tre anni o con una pena pecu-niaria chiunque, senza l’autorizzazione dell’armatore o del capitano:
+È punito con una pena detentiva sino a tre anni o con una pena pecuniaria chiunque, senza l’autorizzazione dell’armatore o del capitano:
 
 - a. imbarca, possiede o dissimula a bordo di una nave svizzera degli oggetti, in particolare oggetti pericolosi o vietati;
 - b. imbarca o nasconde persone a bordo di una nave svizzera.[^141-1]
 
 <sup>2</sup> Nei casi di minore importanza, il reato è punito disciplinarmente.
 
-**Art. 142**
+[^141-1]: Nuovo testo giusta la cifra I n. 24 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
-<sup>1</sup> Chiunque, all’insaputa dell’armatore o del capitano di una nave svizzera, si dà al contrabbando o commette altri atti illeciti, esponendo in tal modo l’armatore o il capitano al pericolo d’essere punito oppure di subire una perdita in seguito al sequestro della nave o del carico, a ritardo nella partenza o ad altre misure analoghe, è punito con una pena detentiva sino a un anno o con una pena pecuniaria.[^141-2]
+### Pregiudizio da infrazioni
+
+#### Art. 142
+
+<sup>1</sup> Chiunque, all’insaputa dell’armatore o del capitano di una nave svizzera, si dà al contrabbando o commette altri atti illeciti, esponendo in tal modo l’armatore o il capitano al pericolo d’essere punito oppure di subire una perdita in seguito al sequestro della nave o del carico, a ritardo nella partenza o ad altre misure analoghe, è punito con una pena detentiva sino a un anno o con una pena pecuniaria.[^142-1]
 
 <sup>2</sup> Nei casi di minore importanza, il reato è punito disciplinarmente.
 
-<sup>3</sup> Il capitano di una nave svizzera che commette tali reati all’insaputa dell’armatore è punito con una pena detentiva sino a tre anni o con una pena pecuniaria.[^141-3]
+<sup>3</sup> Il capitano di una nave svizzera che commette tali reati all’insaputa dell’armatore è punito con una pena detentiva sino a tre anni o con una pena pecuniaria.[^142-2]
 
-[^141-1]: Nuovo testo giusta il n. I 24 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
-[^141-2]: Nuovo testo giusta il n. I 24 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
-[^141-3]: Nuovo testo giusta il n. I 24 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^142-1]: Nuovo testo giusta la cifra I n. 24 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^142-2]: Nuovo testo giusta la cifra I n. 24 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Capo III: Reati contro l’organizzazione della navigazione marittima svizzera
 
@@ -1894,7 +1906,7 @@ Il capitano o l’armatore che fa prendere il mare a una nave svizzera in-naviga
 
 <sup>1</sup>
 
-È punito con una pena detentiva sino a tre anni o con una pena pecu-niaria:
+È punito con una pena detentiva sino a tre anni o con una pena pecuniaria:
 
 - a. chiunque inalbera in mare la bandiera svizzera per una nave non iscritta nel registro del naviglio svizzero;
 - b. il capitano di una nave svizzera che non inalbera in mare la bandiera svizzera o inalbera una bandiera straniera;
@@ -1903,7 +1915,7 @@ Il capitano o l’armatore che fa prendere il mare a una nave svizzera in-naviga
 
 <sup>2</sup> Il capitano di una nave svizzera che non inalbera una bandiera svizzera della forma prescritta, o non l’inalbera nel modo usuale per le navi del medesimo tipo, è punito con la multa.
 
-[^143-1]: Nuovo testo giusta il n. I 24 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^143-1]: Nuovo testo giusta la cifra I n. 24 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Frode nella procedura d’iscrizione
 
@@ -1922,7 +1934,7 @@ Il capitano o l’armatore che fa prendere il mare a una nave svizzera in-naviga
 
 <sup>3</sup> Chiunque viola intenzionalmente le prescrizioni del Consiglio federale sull’iscrizione di navi di diporto in un registro svizzero e chiunque, per ottenere l’iscrizione di una nave di diporto, fornisce dichiarazioni contrarie alla verità o dissimula fatti essenziali, è punito con una pena detentiva sino a tre anni o con una pena pecuniaria. La pena è una pena pecuniaria se l’autore ha agito per negligenza.
 
-[^144-1]: Nuovo testo giusta il n. I 24 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^144-1]: Nuovo testo giusta la cifra I n. 24 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Sottrazione della nave, violazione di disposizione della autorità
 
@@ -1936,7 +1948,7 @@ Il capitano o l’armatore che fa prendere il mare a una nave svizzera in-naviga
 
 <sup>3</sup> L’armatore, il vettore o il capitano che imbarca o trasporta a bordo di una nave svizzera merci vietate dal Consiglio federale è punito con una pena detentiva sino a tre anni o con una pena pecuniaria. Se si tratta del trasporto vietato di materiale da guerra, la pena è una pena detentiva da uno a cinque anni.
 
-[^145-1]: Nuovo testo giusta il n. I 24 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^145-1]: Nuovo testo giusta la cifra I n. 24 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 [^145-2]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 ### Alienazione illecita
@@ -1947,7 +1959,7 @@ Il capitano o l’armatore che fa prendere il mare a una nave svizzera in-naviga
 
 Chiunque aliena a uno straniero una nave svizzera la cui cancellazione dal registro del naviglio svizzero non è stata autorizzata è punito con una pena detentiva sino a tre anni o con una pena pecuniaria.
 
-[^146-1]: Nuovo testo giusta il n. I 24 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^146-1]: Nuovo testo giusta la cifra I n. 24 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Mancata restituzione dell’atto di nazionalità
 
@@ -1957,7 +1969,7 @@ Chiunque aliena a uno straniero una nave svizzera la cui cancellazione dal regis
 
 Chiunque contravviene all’obbligo che gli è imposto dalla legge di restituire l’atto di nazionalità o qualsiasi altro certificato concernente una nave svizzera è punito con la multa sino a 100 000 franchi.
 
-[^147-1]: Nuovo testo giusta il n. I 24 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^147-1]: Nuovo testo giusta la cifra I n. 24 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Negligenza nella tenuta dei libri di bordo
 
@@ -1972,7 +1984,7 @@ Il capitano di una nave svizzera che contravviene all’obbligo prescrittogli da
 - a. di tenere e conservare in buono stato il giornale di bordo, il ruolo d’equipaggio, il giornale di macchina o altri libri di bordo, verbali o documenti di controllo;
 - b. di avere a bordo i libri, le carte, gli atti e i documenti prescritti,
 
-[^148-1]: Nuovo testo giusta il n. I della LF del 18 dic. 1992, in vigore dal 1° giu. 1993 ([RU 1993 1703](https://fedlex.data.admin.ch/eli/oc/1993/1703_1703_1703); [FF 1992 II 1313](https://fedlex.data.admin.ch/eli/fga/1992/2_1561_1533_1313)).
+[^148-1]: Nuovo testo giusta la cifra I della LF del 18 dic. 1992, in vigore dal 1° giu. 1993 ([RU 1993 1703](https://fedlex.data.admin.ch/eli/oc/1993/1703_1703_1703); [FF 1992 II 1313](https://fedlex.data.admin.ch/eli/fga/1992/2_1561_1533_1313)).
 
 ### Inosservanza dell’obbligo di fornire informazioni
 
@@ -2007,7 +2019,7 @@ Il capitano o l’armatore di una nave svizzera che viola le disposizioni della 
 
 Il capitano o l’armatore di una nave svizzera che contravviene alle disposizioni della presente legge e delle sue prescrizioni d’esecuzione concernenti la sicurezza dei trasporti di passeggeri sul mare, l’armamento delle navi a ciò destinate oppure il vitto o l’alloggio dei passeggeri è punito, se non è adempiuta una fattispecie di reato più grave, con una multa sino a 100 000 franchi.
 
-[^151-1]: Nuovo testo giusta il n. I 24 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^151-1]: Nuovo testo giusta la cifra I n. 24 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Distruzione e grave danneggiamento del patrimonio culturale subacqueo
 
@@ -2033,7 +2045,7 @@ Chiunque, a partire da una nave svizzera, distrugge o danneggia in modo grave il
 
 <sup>3</sup> Queste misure possono essere adottate anche in caso di incapacità o di scemata imputabilità del colpevole secondo l’articolo 19 capoversi 1 e 2 del Codice penale svizzero[^152-2].
 
-[^152-1]: Nuovo testo giusta il n. I 24 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^152-1]: Nuovo testo giusta la cifra I n. 24 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 [^152-2]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 ### Infrazioni commesse nell’azienda
@@ -2044,7 +2056,7 @@ Chiunque, a partire da una nave svizzera, distrugge o danneggia in modo grave il
 
 Alle infrazioni commesse nell’azienda è applicabile l’articolo 6 della legge federale del 22 marzo 1974[^153-2] sul diritto penale amministrativo.
 
-[^153-1]: Nuovo testo giusta il n. I 24 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^153-1]: Nuovo testo giusta la cifra I n. 24 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 [^153-2]: [RS 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 ### Estradizione
@@ -2055,7 +2067,7 @@ Alle infrazioni commesse nell’azienda è applicabile l’articolo 6 della legg
 
 I reati per i quali la presente legge commina una pena detentiva della durata di un anno oppure una pena più grave danno luogo all’estradizione ai sensi della legislazione svizzera sull’estradizione agli Stati stranieri.
 
-[^154-1]: Nuovo testo giusta il n. I 24 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^154-1]: Nuovo testo giusta la cifra I n. 24 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Capo V: Ordinamento disciplinare
 
@@ -2108,8 +2120,8 @@ Possono essere inflitte esclusivamente le seguenti pene:
 
 <sup>3</sup> Le pene disciplinari non possono essere cumulate.
 
-[^156-1]: Nuovo testo giusta il n. I della LF del 20 mar. 1987, in vigore dal 1° feb. 1989 ([RU 1989 212](https://fedlex.data.admin.ch/eli/oc/1989/212_212_212); [FF 1986 II 541](https://fedlex.data.admin.ch/eli/fga/1986/2_717_741_541)).
-[^156-2]: Nuovo testo giusta il n. I della LF del 20 mar. 1987, in vigore dal 1° feb. 1989 ([RU 1989 212](https://fedlex.data.admin.ch/eli/oc/1989/212_212_212); [FF 1986 II 541](https://fedlex.data.admin.ch/eli/fga/1986/2_717_741_541)).
+[^156-1]: Nuovo testo giusta la cifra I della LF del 20 mar. 1987, in vigore dal 1° feb. 1989 ([RU 1989 212](https://fedlex.data.admin.ch/eli/oc/1989/212_212_212); [FF 1986 II 541](https://fedlex.data.admin.ch/eli/fga/1986/2_717_741_541)).
+[^156-2]: Nuovo testo giusta la cifra I della LF del 20 mar. 1987, in vigore dal 1° feb. 1989 ([RU 1989 212](https://fedlex.data.admin.ch/eli/oc/1989/212_212_212); [FF 1986 II 541](https://fedlex.data.admin.ch/eli/fga/1986/2_717_741_541)).
 
 ### Competenza
 
@@ -2121,8 +2133,8 @@ Possono essere inflitte esclusivamente le seguenti pene:
 
 <sup>3</sup> Se l’autore non è più al servizio di una nave svizzera, può essere pronunciata una multa sino a 3000 franchi in luogo e vece degli arresti disciplinari.[^157-2]
 
-[^157-1]: Nuovo testo giusta il n. I della LF del 20 mar. 1987, in vigore dal 1° feb. 1989 ([RU 1989 212](https://fedlex.data.admin.ch/eli/oc/1989/212_212_212); [FF 1986 II 541](https://fedlex.data.admin.ch/eli/fga/1986/2_717_741_541)).
-[^157-2]: Introdotto dal n. I della LF del 20 mar. 1987 ([RU 1989 212](https://fedlex.data.admin.ch/eli/oc/1989/212_212_212); [FF 1986 II 541](https://fedlex.data.admin.ch/eli/fga/1986/2_717_741_541)). Nuovo testo giusta il n. I 24 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^157-1]: Nuovo testo giusta la cifra I della LF del 20 mar. 1987, in vigore dal 1° feb. 1989 ([RU 1989 212](https://fedlex.data.admin.ch/eli/oc/1989/212_212_212); [FF 1986 II 541](https://fedlex.data.admin.ch/eli/fga/1986/2_717_741_541)).
+[^157-2]: Introdotto dalla cifra I della LF del 20 mar. 1987 ([RU 1989 212](https://fedlex.data.admin.ch/eli/oc/1989/212_212_212); [FF 1986 II 541](https://fedlex.data.admin.ch/eli/fga/1986/2_717_741_541)). Nuovo testo giusta la cifra I n. 24 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 ### Esecuzione delle pene disciplinari
 
@@ -2138,8 +2150,8 @@ Possono essere inflitte esclusivamente le seguenti pene:
 
 <sup>5</sup> Le multe sono versate all’USNM, che le destina a scopi di previdenza in favore della gente di mare e dei loro familiari. L’USNM può inoltre destinare detti fondi al sostegno di azioni intese in particolare a promuovere la navigazione marittima sotto bandiera svizzera, oppure al versamento di premi per ricompensare prestazioni particolari fornite da marinai. Il Dipartimento federale degli affari esteri emana un regolamento circa la destinazione dei fondi.[^158-2]
 
-[^158-1]: Abrogato dal n. I della LF del 20 mar. 1987, con effetto dal 1° feb. 1989 ([RU 1989 212](https://fedlex.data.admin.ch/eli/oc/1989/212_212_212); [FF 1986 II 541](https://fedlex.data.admin.ch/eli/fga/1986/2_717_741_541)).
-[^158-2]: Nuovo testo giusta il n. I della LF del 18 dic. 1992, in vigore dal 1° giu. 1993 ([RU 1993 1703](https://fedlex.data.admin.ch/eli/oc/1993/1703_1703_1703); [FF 1992 II 1313](https://fedlex.data.admin.ch/eli/fga/1992/2_1561_1533_1313)).
+[^158-1]: Abrogato dalla cifra I della LF del 20 mar. 1987, con effetto dal 1° feb. 1989 ([RU 1989 212](https://fedlex.data.admin.ch/eli/oc/1989/212_212_212); [FF 1986 II 541](https://fedlex.data.admin.ch/eli/fga/1986/2_717_741_541)).
+[^158-2]: Nuovo testo giusta la cifra I della LF del 18 dic. 1992, in vigore dal 1° giu. 1993 ([RU 1993 1703](https://fedlex.data.admin.ch/eli/oc/1993/1703_1703_1703); [FF 1992 II 1313](https://fedlex.data.admin.ch/eli/fga/1992/2_1561_1533_1313)).
 
 ### Prescrizione
 
@@ -2149,7 +2161,7 @@ Possono essere inflitte esclusivamente le seguenti pene:
 
 <sup>2</sup> La prescrizione non è soggetta a interruzione. Tuttavia, se per il fatto è stato aperto un procedimento penale, la prescrizione decorre soltanto a contare dal momento dell’arrivo della nave nel prossimo porto ed è sospesa fino alla conclusione di siffatto procedimento.[^159-1]
 
-[^159-1]: Nuovo testo giusta il n. I della LF del 14 dic. 1965, in vigore dal 1° gen. 1967 ([RU 1966 1491](https://fedlex.data.admin.ch/eli/oc/1966/1453_1503_1491); [FF 1965 II 1](https://fedlex.data.admin.ch/eli/fga/1965/2_284_303_1)).
+[^159-1]: Nuovo testo giusta la cifra I della LF del 14 dic. 1965, in vigore dal 1° gen. 1967 ([RU 1966 1491](https://fedlex.data.admin.ch/eli/oc/1966/1453_1503_1491); [FF 1965 II 1](https://fedlex.data.admin.ch/eli/fga/1965/2_284_303_1)).
 
 ### Procedura
 
@@ -2178,12 +2190,12 @@ La pena disciplinare ordinata dal capitano diviene esecutiva con la sua comunica
 
 <sup>4</sup> ...[^161-6]
 
-[^161-1]: Nuovo testo giusta il n. I della LF del 14 dic. 1965, in vigore dal 1° gen. 1967 ([RU 1966 1491](https://fedlex.data.admin.ch/eli/oc/1966/1453_1503_1491); [FF 1965 II 1](https://fedlex.data.admin.ch/eli/fga/1965/2_284_303_1)).
-[^161-2]: Nuovo testo giusta il n. I della LF del 20 mar. 1987, in vigore dal 1° feb. 1989 ([RU 1989 212](https://fedlex.data.admin.ch/eli/oc/1989/212_212_212); [FF 1986 II 541](https://fedlex.data.admin.ch/eli/fga/1986/2_717_741_541)).
-[^161-3]: Nuovo testo giusta il n. I della LF del 20 mar. 1987, in vigore dal 1° feb. 1989 ([RU 1989 212](https://fedlex.data.admin.ch/eli/oc/1989/212_212_212); [FF 1986 II 541](https://fedlex.data.admin.ch/eli/fga/1986/2_717_741_541)).
+[^161-1]: Nuovo testo giusta la cifra I della LF del 14 dic. 1965, in vigore dal 1° gen. 1967 ([RU 1966 1491](https://fedlex.data.admin.ch/eli/oc/1966/1453_1503_1491); [FF 1965 II 1](https://fedlex.data.admin.ch/eli/fga/1965/2_284_303_1)).
+[^161-2]: Nuovo testo giusta la cifra I della LF del 20 mar. 1987, in vigore dal 1° feb. 1989 ([RU 1989 212](https://fedlex.data.admin.ch/eli/oc/1989/212_212_212); [FF 1986 II 541](https://fedlex.data.admin.ch/eli/fga/1986/2_717_741_541)).
+[^161-3]: Nuovo testo giusta la cifra I della LF del 20 mar. 1987, in vigore dal 1° feb. 1989 ([RU 1989 212](https://fedlex.data.admin.ch/eli/oc/1989/212_212_212); [FF 1986 II 541](https://fedlex.data.admin.ch/eli/fga/1986/2_717_741_541)).
 [^161-4]: [RS 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
-[^161-5]: Nuovo testo giusta il n. I della LF del 20 mar. 1987, in vigore dal 1° feb. 1989 ([RU 1989 212](https://fedlex.data.admin.ch/eli/oc/1989/212_212_212); [FF 1986 II 541](https://fedlex.data.admin.ch/eli/fga/1986/2_717_741_541)).
-[^161-6]: Introdotto dal n. I della LF del 17 dic. 1976 ([RU 1977 1323](https://fedlex.data.admin.ch/eli/oc/1977/1323_1323_1323); [FF 1976 II 1165](https://fedlex.data.admin.ch/eli/fga/1976/2_1181_1153_1165)). Abrogato dall’all. n. 81 della L del 17 giu. 2005 sul Tribunale amministrativo federale, con effetto dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^161-5]: Nuovo testo giusta la cifra I della LF del 20 mar. 1987, in vigore dal 1° feb. 1989 ([RU 1989 212](https://fedlex.data.admin.ch/eli/oc/1989/212_212_212); [FF 1986 II 541](https://fedlex.data.admin.ch/eli/fga/1986/2_717_741_541)).
+[^161-6]: Introdotto dalla cifra I della LF del 17 dic. 1976 ([RU 1977 1323](https://fedlex.data.admin.ch/eli/oc/1977/1323_1323_1323); [FF 1976 II 1165](https://fedlex.data.admin.ch/eli/fga/1976/2_1181_1153_1165)). Abrogato dall’all. n. 81 della L del 17 giu. 2005 sul Tribunale amministrativo federale, con effetto dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 ## Disposizioni finali e transitorie
 
@@ -2201,7 +2213,7 @@ La pena disciplinare ordinata dal capitano diviene esecutiva con la sua comunica
 - b. a detrimento del portatore di una polizza di carico originale, le disposizioni dell’articolo 117;
 - c. a detrimento di un passeggero le disposizioni imperative sul trasporto dei passeggeri per mare, dichiarate applicabili in virtù dell’articolo 118 capoverso 1.
 
-[^u1-162-1]: Nuovo testo giusta il n. I della LF del 14 dic. 1965, in vigore dal 1° gen. 1967 ([RU 1966 1491](https://fedlex.data.admin.ch/eli/oc/1966/1453_1503_1491); [FF 1965 II 1](https://fedlex.data.admin.ch/eli/fga/1965/2_284_303_1)).
+[^u1-162-1]: Nuovo testo giusta la cifra I della LF del 14 dic. 1965, in vigore dal 1° gen. 1967 ([RU 1966 1491](https://fedlex.data.admin.ch/eli/oc/1966/1453_1503_1491); [FF 1965 II 1](https://fedlex.data.admin.ch/eli/fga/1965/2_284_303_1)).
 
 ### Applicazione del titolo finale del CC
 
@@ -2255,9 +2267,9 @@ Allegato I[^t-1]
 
 ## La bandiera marittima svizzera
 
-[^t-1]: Nuovo testo giusta l’all. 3 n. II 4 della L del 21 giu. 2013 sulla protezione degli stemmi, in vigore dal 1° gen. 2017 ([RU 2015 3679](https://fedlex.data.admin.ch/eli/oc/2015/613); [FF 2009 7425](https://fedlex.data.admin.ch/eli/fga/2009/1471)).
+[^t-1]: Nuovo testo giusta l’all. 3 cifra II n. 4 della L del 21 giu. 2013 sulla protezione degli stemmi, in vigore dal 1° gen. 2017 ([RU 2015 3679](https://fedlex.data.admin.ch/eli/oc/2015/613); [FF 2009 7425](https://fedlex.data.admin.ch/eli/fga/2009/1471)).
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1956/1305_1395_1407/20230701/it/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1956/1305_1395_1407/20260701/it/xml/image/image1.png)
 
 Definizione del colore rosso:
 
@@ -2303,7 +2315,7 @@ Allegato IV[^t-2]
 
 [^annexIV-lvlu1-1]
 
-[^t-2]: Originario all. III
+[^t-2]: Originario all. III.
 [^annexIV-lvlu1-1]: [RS 0.747.331.53](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3083)
 
 Allegato V[^t-3]
@@ -2314,7 +2326,7 @@ Allegato V[^t-3]
 
 [^annexV-lvlu1-1]
 
-[^t-3]: Originario all. IV
+[^t-3]: Originario all. IV.
 [^annexV-lvlu1-1]: [RS 0.747.354.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3088)
 
 Allegato VI[^t-4]
@@ -2325,7 +2337,7 @@ Allegato VI[^t-4]
 
 [^annexVI-lvlu1-1]
 
-[^t-4]: Originario all. V
+[^t-4]: Originario all. V.
 [^annexVI-lvlu1-1]: RS **747.356.11**
 
 Allegato VII[^t-5]
@@ -2336,7 +2348,7 @@ Allegato VII[^t-5]
 
 [^annexVII-lvlu1-1]
 
-[^t-5]: Originario all. VI
+[^t-5]: Originario all. VI.
 [^annexVII-lvlu1-1]: [RS 0.747.363.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3094)
 
 Allegato VIII[^t-6]
@@ -2347,7 +2359,7 @@ Allegato VIII[^t-6]
 
 [^annexVIII-lvlu1-1]
 
-[^t-6]: Originario all. VII
+[^t-6]: Originario all. VII.
 [^annexVIII-lvlu1-1]: [RS 0.747.363.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3095)
 
 Allegato IX[^t-7]

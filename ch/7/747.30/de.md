@@ -4,11 +4,11 @@ title: Bundesgesetz vom 23. September 1953 über die Seeschifffahrt unter der Sc
 short: SSG
 eli: "https://fedlex.data.admin.ch/eli/cc/1956/1305_1395_1407"
 language: de
-version: 2023-07-01
+version: 2026-07-01
 adopted: 1953-09-23
 in_force: 1957-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1956/1305_1395_1407/20230701/de/xml/fedlex-data-admin-ch-eli-cc-1956-1305_1395_1407-20230701-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1956/1305_1395_1407/20230701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1956/1305_1395_1407/20260701/de/xml/fedlex-data-admin-ch-eli-cc-1956-1305_1395_1407-20260701-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1956/1305_1395_1407/20260701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1956/1305_1395_1407/20230701/de"
 
 (Seeschifffahrtsgesetz)
 
-vom 23. September 1953 (Stand am 1. Juli 2023)
+vom 23. September 1953 (Stand am 1. Juli 2026)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -116,7 +116,7 @@ Der Bundesrat kann internationale Übereinkommen, die im Rahmen der Internationa
 
 [^5-1]: Eingefügt durch Ziff. I des BG vom 20. März 1987, in Kraft seit 1. Febr. 1989 ([AS 1989 212](https://fedlex.data.admin.ch/eli/oc/1989/212_212_212); [BBl 1986 II 717](https://fedlex.data.admin.ch/eli/fga/1986/2_717_741_541)).
 
-### Ausser- ordentliche Massnahmen
+### Ausser-ordentliche Massnahmen
 
 #### Art. 6
 
@@ -256,7 +256,7 @@ Der Bundesrat kann internationale Übereinkommen, die im Rahmen der Internationa
 
 Im Register der schweizerischen Seeschiffe werden die im Eigentum des Bundes, der Kantone und der schweizerischen öffentlich-rechtlichen Körperschaften und Anstalten stehenden Seeschiffe eingetragen.
 
-### III. Privat- rechtliche Unternehmen
+### III. Privat-rechtliche Unternehmen
 
 ### 1. Anspruch auf Eintragung
 
@@ -387,7 +387,7 @@ Das SSA stellt eine Bescheinigung aus, wenn die Bedingungen nach den Artikeln 18
 
 ### 1. Bewilligung
 
-### a. im all- gemeinen
+### a. im allgemeinen
 
 [^titII-chapI-lvlIV-lvl1-lvla-1]
 
@@ -917,7 +917,7 @@ Der Heuervertrag soll die Rechte und Pflichten beider Parteien klar und deutlich
 
 <sup>3</sup> Bei Seegefahr hat der Seemann jede Hilfe zu leisten, um die er zur Rettung von Personen, des Seeschiffs oder der Ladung angehalten wird.
 
-### Ausser- gewöhnliche Arbeiten
+### Ausser-gewöhnliche Arbeiten
 
 #### Art. 72
 
@@ -1104,7 +1104,7 @@ Der Heuervertrag soll die Rechte und Pflichten beider Parteien klar und deutlich
 [^87-2]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 [^87-3]: Fassung gemäss Ziff. I des BG vom 18. Dez. 1992, in Kraft seit 1. Juni 1993 ([AS 1993 1703](https://fedlex.data.admin.ch/eli/oc/1993/1703_1703_1703); [BBl 1992 II 1561](https://fedlex.data.admin.ch/eli/fga/1992/2_1561_1533_1313)).
 
-### Unmöglich- werden der Leistung
+### Unmöglichwerden der Leistung
 
 ### a. Dauernde Unmöglichkeit
 
@@ -1114,7 +1114,7 @@ Der Heuervertrag soll die Rechte und Pflichten beider Parteien klar und deutlich
 
 <sup>2</sup> Tritt eine solche Unmöglichkeit während einer Reise ein, so fällt der Vertrag spätestens bei Ankunft im nächsten erreichbaren oder von der Behörde bezeichneten Hafen dahin. Die Güter sind daselbst zu löschen und für Rechnung der Berechtigten zu hinterlegen. Die vertragliche Gegenleistung ist beim Miet- und Chartervertrag bis zum Tage des Dahinfallens des Vertrages, bei Seefrachtverträgen bis zur vollständigen Löschung der Güter geschuldet, und die Fracht ist entsprechend der zurückgelegten Entfernung zu bezahlen.
 
-### b. Vorüber- gehende Unmöglichkeit
+### b. Vorübergehende Unmöglichkeit
 
 #### Art. 89
 
@@ -1272,7 +1272,7 @@ Solange eine Vermietung des Seeschiffes nicht ins Register der schweizerischen S
 [^101-3]: [SR 0.747.354.111](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3089), [SR 0.747.354.112](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3090)
 [^101-4]: Fassung gemäss Ziff. I des BG vom 20. März 1987, in Kraft seit 1. Febr. 1989 ([AS 1989 212](https://fedlex.data.admin.ch/eli/oc/1989/212_212_212); [BBl 1986 II 717](https://fedlex.data.admin.ch/eli/fga/1986/2_717_741_541)).
 
-### Sorgfalts- pflichten des Seefrachtführers
+### Sorgfaltspflichten des Seefrachtführers
 
 #### Art. 102
 
@@ -1635,19 +1635,24 @@ Das Konnossement soll insbesondere folgende Angaben enthalten:
 
 <sup>3</sup> Die Bestimmungen dieses Gesetzes finden jedoch keine Anwendung auf Schiffe, mit denen die Schifffahrt gestützt auf eine Bundeskonzession betrieben wird.
 
-### Begriff und Haftung des Binnenreeders
+### Haftung des Binnenreeders und der Berger oder Retter
+
+[^titVII-lvlu2-1]
+
+[^titVII-lvlu2-1]: Fassung gemäss Anhang des BB vom 22. Dez. 2023 über die Genehmigung des Strassburger Übereinkommens von 2012 über die Beschränkung der Haftung in der Binnenschifffahrt und über seine Umsetzung, in Kraft seit 1. Juli 2026 ([AS 2026 256](https://fedlex.data.admin.ch/eli/oc/2026/256); [BBl 2023 999](https://fedlex.data.admin.ch/eli/fga/2023/999)).
 
 #### Art. 126
 
-<sup>1</sup> Binnenreeder ist, wer ein Binnenschiff als Eigentümer, Nutzniesser oder Mieter in seinem Besitz hat und damit den Betrieb der Binnenschifffahrt ausübt.
+<sup>1</sup> Binnenreeder ist, wer Schiffseigentümer im Sinne von Artikel 1 Absatz 2 Buchstabe a des Strassburger Übereinkommens vom 27. September 2012[^126-1] über die Beschränkung der Haftung in der Binnenschifffahrt (CLNI 2012) ist.[^126-2]
 
-<sup>2</sup> Der Binnenreeder haftet nach Artikel 48 Absätze 1 und 2. Für die Beschränkung seiner Haftung sind die Bestimmungen des Strassburger Übereinkommens vom 4. November 1988[^126-1] über die Beschränkung der Haftung in der Binnenschifffahrt anwendbar.[^126-2]
+<sup>2</sup> Der Binnenreeder und die Berger oder Retter nach Artikel 1 Absatz 2 Buchstabe c CLNI 2012 haften nach Artikel 48 Absätze 1 und 2 des vorliegenden Gesetzes. Für die Beschränkung ihrer Haftung sind die Bestimmungen des CLNI 2012 anwendbar.[^126-3]
 
-<sup>3</sup> War ein Schubboot im Zeitpunkt der Verursachung des Schadens starr mit Schubleichtern zu einem Schubverband verbunden, so berechnet sich der Haftungsbetrag gesamthaft nach der Maschinenleistung des Schubbootes und der Tragfähigkeit der Schubleichter.[^126-3]
+<sup>3</sup> War ein Schubboot im Zeitpunkt der Verursachung des Schadens starr mit Schubleichtern zu einem Schubverband verbunden, so berechnet sich der Haftungsbetrag gesamthaft nach der Maschinenleistung des Schubbootes und der Tragfähigkeit der Schubleichter.[^126-4]
 
 [^126-1]: [SR 0.747.206](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3021)
-[^126-2]: Fassung gemäss Ziff. I des BG vom 22. März 1996, in Kraft seit 1. Nov. 1997 ([AS 1997 2184](https://fedlex.data.admin.ch/eli/oc/1997/2184_2184_2184); [BBl 1995 IV 241](https://fedlex.data.admin.ch/eli/fga/1995/4_241_233_229)).
-[^126-3]: Eingefügt durch Ziff. I des BG vom 14. Dez. 1965, in Kraft seit 1. Jan. 1967 ([AS 1966 1453](https://fedlex.data.admin.ch/eli/oc/1966/1453_1503_1491); [BBl 1965 II 284](https://fedlex.data.admin.ch/eli/fga/1965/2_284_303_1)).
+[^126-2]: Fassung gemäss Anhang des BB vom 22. Dez. 2023 über die Genehmigung des Strassburger Übereinkommens von 2012 über die Beschränkung der Haftung in der Binnenschifffahrt und über seine Umsetzung, in Kraft seit 1. Juli 2026 ([AS 2026 256](https://fedlex.data.admin.ch/eli/oc/2026/256); [BBl 2023 999](https://fedlex.data.admin.ch/eli/fga/2023/999)).
+[^126-3]: Fassung gemäss Anhang des BB vom 22. Dez. 2023 über die Genehmigung des Strassburger Übereinkommens von 2012 über die Beschränkung der Haftung in der Binnenschifffahrt und über seine Umsetzung, in Kraft seit 1. Juli 2026 ([AS 2026 256](https://fedlex.data.admin.ch/eli/oc/2026/256); [BBl 2023 999](https://fedlex.data.admin.ch/eli/fga/2023/999)).
+[^126-4]: Eingefügt durch Ziff. I des BG vom 14. Dez. 1965, in Kraft seit 1. Jan. 1967 ([AS 1966 1453](https://fedlex.data.admin.ch/eli/oc/1966/1453_1503_1491); [BBl 1965 II 284](https://fedlex.data.admin.ch/eli/fga/1965/2_284_303_1)).
 
 ### Weitere Fälle
 
@@ -2267,7 +2272,7 @@ Anhang I[^t-1]
 
 [^t-1]: Fassung gemäss Anhang 3 Ziff. II 4 des Wappenschutzgesetzes vom 21. Juni 2013, in Kraft seit 1. Jan. 2017 ([AS 2015 3679](https://fedlex.data.admin.ch/eli/oc/2015/613); [BBl 2009 8533](https://fedlex.data.admin.ch/eli/fga/2009/1471)).
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1956/1305_1395_1407/20230701/de/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1956/1305_1395_1407/20260701/de/xml/image/image1.png)
 
 Farbdefinition Rot:
 

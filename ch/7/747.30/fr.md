@@ -4,18 +4,18 @@ title: Loi fédérale du 23 septembre 1953 sur la navigation maritime sous pavil
 short: LNM
 eli: "https://fedlex.data.admin.ch/eli/cc/1956/1305_1395_1407"
 language: fr
-version: 2023-07-01
+version: 2026-07-01
 adopted: 1953-09-23
 in_force: 1957-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1956/1305_1395_1407/20230701/fr/xml/fedlex-data-admin-ch-eli-cc-1956-1305_1395_1407-20230701-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1956/1305_1395_1407/20230701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1956/1305_1395_1407/20260701/fr/xml/fedlex-data-admin-ch-eli-cc-1956-1305_1395_1407-20260701-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1956/1305_1395_1407/20260701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Loi fédérale sur la navigation maritime sous pavillon suisse
 
-du 23 septembre 1953 (État le 1<sup>er</sup> juillet 2023)
+du 23 septembre 1953 (État le 1<sup>er</sup> juillet 2026)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -254,7 +254,7 @@ Sont enregistrés dans le registre des navires suisses les navires appartenant �
 
 ### III. Entreprises privées
 
-### 1. Droit à enregistrement
+### 1. Droit à l’enregistrement
 
 #### Art. 19
 
@@ -1640,19 +1640,24 @@ Le transporteur n’est pas tenu d’insérer dans le connaissement:
 
 <sup>3</sup> Échappe toutefois à cette assimilation la navigation intérieure exercée en vertu d’une concession accordée par la Confédération.
 
-### Qualité d’armateur et responsabilité de l’armateur
+### Responsabilité de l’armateur et des assistants
+
+[^titVII-lvlu2-1]
+
+[^titVII-lvlu2-1]: Nouvelle teneur selon l’annexe de l’AF du 22 déc. 2023 portant approbation et mise en œuvre de la Conv. de Strasbourg de 2012 sur la limitation de la responsabilité en navigation intérieure, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2026 256](https://fedlex.data.admin.ch/eli/oc/2026/256); [FF 2023 999](https://fedlex.data.admin.ch/eli/fga/2023/999)).
 
 #### Art. 126
 
-<sup>1</sup> Est armateur d’un bateau de la navigation intérieure la personne qui, soit à titre de propriétaire ou d’usufruitier, soit à titre de locataire, tient le bateau en sa possession et contrôle son exploitation.
+<sup>1</sup> Est armateur d’un bateau de la navigation intérieure la personne qui est propriétaire dudit bateau selon de l’art. 1, par. 2, let. a, de la Convention de Strasbourg du 27 septembre 2012 sur la limitation de la responsabilité en navigation intérieure (CLNI 2012)[^126-1].[^126-2]
 
-<sup>2</sup> La responsabilité de l’armateur est régie par les art. 48, al. 1 et 2. La limitation de sa responsabilité est régie par les dispositions de la Convention de Strasbourg du 4 novembre 1988[^126-1] sur la limitation de la responsabilité en navigation intérieure.[^126-2]
+<sup>2</sup> La responsabilité de l’armateur et de l’assistant selon l’art. 1, par. 2, let. c, CLNI 2012 est régie par l’art. 48, al. 1 et 2, de la présente loi. La limitation de leur responsabilité est régie par les dispositions de la CLNI 2012.[^126-3]
 
-<sup>3</sup> Lorsqu’un pousseur était, au moment où le dommage a été causé, accouplé solidement avec des barges en convoi poussé, le montant de la responsabilité se calcule en totalité d’après la puissance du pousseur et la portée en lourd des barges poussées.[^126-3]
+<sup>3</sup> Lorsqu’un pousseur était, au moment où le dommage a été causé, accouplé solidement avec des barges en convoi poussé, le montant de la responsabilité se calcule en totalité d’après la puissance du pousseur et la portée en lourd des barges poussées.[^126-4]
 
-[^126-1]: FF **1995** IV 337
-[^126-2]: Nouvelle teneur selon le ch. I de la LF du 20 mars 1996, en vigueur depuis le 1<sup>er</sup> nov. 1997 ([RO 1997 2184](https://fedlex.data.admin.ch/eli/oc/1997/2184_2184_2184); [FF 1995 IV 233](https://fedlex.data.admin.ch/eli/fga/1995/4_241_233_229)).
-[^126-3]: Introduit par le ch. I de la LF du 14 déc. 1965, en vigueur depuis le 1<sup>er</sup> janv. 1967 ([RO 1966 1503](https://fedlex.data.admin.ch/eli/oc/1966/1453_1503_1491); [FF 1965 II 303](https://fedlex.data.admin.ch/eli/fga/1965/2_284_303_1)).
+[^126-1]: [RS 0.747.206](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3021)
+[^126-2]: Nouvelle teneur selon l’annexe de l’AF du 22 déc. 2023 portant approbation et mise en œuvre de la Conv. de Strasbourg de 2012 sur la limitation de la responsabilité en navigation intérieure, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2026 256](https://fedlex.data.admin.ch/eli/oc/2026/256); [FF 2023 999](https://fedlex.data.admin.ch/eli/fga/2023/999)).
+[^126-3]: Nouvelle teneur selon l’annexe de l’AF du 22 déc. 2023 portant approbation et mise en œuvre de la Conv. de Strasbourg de 2012 sur la limitation de la responsabilité en navigation intérieure, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2026 256](https://fedlex.data.admin.ch/eli/oc/2026/256); [FF 2023 999](https://fedlex.data.admin.ch/eli/fga/2023/999)).
+[^126-4]: Introduit par le ch. I de la LF du 14 déc. 1965, en vigueur depuis le 1<sup>er</sup> janv. 1967 ([RO 1966 1503](https://fedlex.data.admin.ch/eli/oc/1966/1453_1503_1491); [FF 1965 II 303](https://fedlex.data.admin.ch/eli/fga/1965/2_284_303_1)).
 
 ### Autres cas
 
@@ -2279,7 +2284,7 @@ Annexe I[^t-1]
 
 [^t-1]: Nouvelle teneur selon l’annexe 3 ch. II 4 de la L du 21 juin 2013 sur la protection des armoiries, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2015 3679](https://fedlex.data.admin.ch/eli/oc/2015/613); [FF 2009 7711](https://fedlex.data.admin.ch/eli/fga/2009/1471)).
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1956/1305_1395_1407/20230701/fr/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1956/1305_1395_1407/20260701/fr/xml/image/image1.png)
 
 Définition de la couleur rouge:
 
