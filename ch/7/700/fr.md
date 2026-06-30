@@ -4,11 +4,11 @@ title: "Loi fédérale du 22 juin 1979 sur l'aménagement du territoire (Loi sur
 short: LAT
 eli: "https://fedlex.data.admin.ch/eli/cc/1979/1573_1573_1573"
 language: fr
-version: 2026-04-01
+version: 2026-07-01
 adopted: 1979-06-22
 in_force: 1980-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1573_1573_1573/20260401/fr/xml/fedlex-data-admin-ch-eli-cc-1979-1573_1573_1573-20260401-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/20260401/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1573_1573_1573/20260701/fr/xml/fedlex-data-admin-ch-eli-cc-1979-1573_1573_1573-20260701-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/20260701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,18 +17,18 @@ url: "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/20260401/fr"
 
 (Loi sur l’aménagement du territoire, LAT)[^t-1]
 
-du 22 juin 1979 (État le 1<sup>er</sup> avril 2026)
+du 22 juin 1979 (État le 1<sup>er</sup> juillet 2026)
 
 [^t-1]: Nouvelle teneur selon le ch. I de la LF du 6 oct. 1995, en vigueur depuis le 1<sup>er</sup> janv. 1997 ([RO 1996 965](https://fedlex.data.admin.ch/eli/oc/1996/965_965_965); [FF 1994 III 1059](https://fedlex.data.admin.ch/eli/fga/1994/3_1075_1059_971)).
 
 L’Assemblée fédérale de la Confédération suisse,
 
-vu les art. 22<sup>quater</sup> et 34<sup>sexies</sup> de la constitution[^ingress-1],[^ingress-2] vu le message du Conseil fédéral du 27 février 1978[^ingress-3],
+vu les art. 75, 104*a* et 108 de la Constitution[^ingress-1],[^ingress-2] vu le message du Conseil fédéral du 27 février 1978[^ingress-3],
 
 arrête:
 
-[^ingress-1]: [[RS 1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4713)3; [RO 1969 1265](https://fedlex.data.admin.ch/eli/oc/1969/1249_1265_1267), [1972 1509](https://fedlex.data.admin.ch/eli/oc/1972/1481_1509_1681)]. Aux disp. mentionnées correspondent actuellement les art. 41, 75, 108 et 147 de la Cst du 18 avril 1999 ([RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)).
-[^ingress-2]: Nouvelle teneur selon le ch. I de la LF du 6 oct. 1995, en vigueur depuis le 1<sup>er</sup> janv. 1997 ([RO 1996 965](https://fedlex.data.admin.ch/eli/oc/1996/965_965_965); [FF 1994 III 1059](https://fedlex.data.admin.ch/eli/fga/1994/3_1075_1059_971)).
+[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
+[^ingress-2]: Nouvelle teneur selon le ch. I de la LF du 29 sept. 2023, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2025 640](https://fedlex.data.admin.ch/eli/oc/2025/640); [FF 2018 7423](https://fedlex.data.admin.ch/eli/fga/2018/2625)).
 [^ingress-3]: [FF 1978 I 1007](https://fedlex.data.admin.ch/eli/fga/1978/1_1006_1007_959)
 
 ## Titre 1 Introduction
@@ -47,16 +47,20 @@ Ils soutiennent par des mesures d’aménagement les efforts qui sont entrepris 
 - a<sup>bis</sup>.[^1-2] d’orienter le développement de l’urbanisation vers l’intérieur du milieu bâti, en maintenant une qualité de l’habitat appropriée;
 - b.[^1-3] de créer un milieu bâti compact;
 - b<sup>bis</sup>.[^1-4] de créer et de maintenir un milieu bâti favorable à l’exercice des activités économiques;
+- b<sup>ter</sup>.[^1-5] de stabiliser le nombre de bâtiments en territoire non constructible;
+- b<sup>quater</sup>.[^1-6] de stabiliser l’imperméabilisation du sol dans les zones agricoles visées à l’art. 16 qui sont exploitées toute l’année, pour autant qu’elle ne serve pas à l’agriculture ou au tourisme;
 - c. de favoriser la vie sociale, économique et culturelle des diverses régions du pays et de promouvoir une décentralisation judicieuse de l’urbanisation et de l’économie;
 - d. de garantir des sources d’approvisionnement suffisantes dans le pays;
 - e. d’assurer la défense générale du pays;
-- f.[^1-5] d’encourager l’intégration des étrangers et la cohésion sociale.
+- f.[^1-7] d’encourager l’intégration des étrangers et la cohésion sociale.
 
 [^1-1]: Nouvelle teneur selon le ch. I de la LF du 15 juin 2012, en vigueur depuis le 1<sup>er</sup> mai 2014 ([RO 2014 899](https://fedlex.data.admin.ch/eli/oc/2014/197); [FF 2010 959](https://fedlex.data.admin.ch/eli/fga/2010/186)).
 [^1-2]: Introduite par le ch. I de la LF du 15 juin 2012, en vigueur depuis le 1<sup>er</sup> mai 2014 ([RO 2014 899](https://fedlex.data.admin.ch/eli/oc/2014/197); [FF 2010 959](https://fedlex.data.admin.ch/eli/fga/2010/186)).
 [^1-3]: Nouvelle teneur selon le ch. I de la LF du 15 juin 2012, en vigueur depuis le 1<sup>er</sup> mai 2014 ([RO 2014 899](https://fedlex.data.admin.ch/eli/oc/2014/197); [FF 2010 959](https://fedlex.data.admin.ch/eli/fga/2010/186)).
 [^1-4]: Introduite par le ch. I de la LF du 15 juin 2012, en vigueur depuis le 1<sup>er</sup> mai 2014 ([RO 2014 899](https://fedlex.data.admin.ch/eli/oc/2014/197); [FF 2010 959](https://fedlex.data.admin.ch/eli/fga/2010/186)).
-[^1-5]: Introduite par l’annexe ch. 3 de la LF du 16 déc. 2016 (Intégration), en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718), [2018 3171](https://fedlex.data.admin.ch/eli/oc/2018/509); [FF 2013 2131](https://fedlex.data.admin.ch/eli/fga/2013/416), [2016 2665](https://fedlex.data.admin.ch/eli/fga/2016/524)).
+[^1-5]: Introduite par le ch. I de la LF du 29 sept. 2023, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2025 640](https://fedlex.data.admin.ch/eli/oc/2025/640); [FF 2018 7423](https://fedlex.data.admin.ch/eli/fga/2018/2625)).
+[^1-6]: Introduite par le ch. I de la LF du 29 sept. 2023, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2025 640](https://fedlex.data.admin.ch/eli/oc/2025/640); [FF 2018 7423](https://fedlex.data.admin.ch/eli/fga/2018/2625)). Rectifiée par la Commission de rédaction de l’Ass. féd. (art. 58, al. 1 LParl; [RS 171.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4991)).
+[^1-7]: Introduite par l’annexe ch. 3 de la LF du 16 déc. 2016 (Intégration), en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718), [2018 3171](https://fedlex.data.admin.ch/eli/oc/2018/509); [FF 2013 2131](https://fedlex.data.admin.ch/eli/fga/2013/416), [2016 2665](https://fedlex.data.admin.ch/eli/fga/2016/524)).
 
 #### Art. 2
 
@@ -152,6 +156,18 @@ Le droit cantonal peut prévoir une exemption de la taxe dans les cas suivants:
 [^5-5]: Introduit par le ch. I de la LF du 15 juin 2012, en vigueur depuis le 1<sup>er</sup> mai 2014 ([RO 2014 899](https://fedlex.data.admin.ch/eli/oc/2014/197); [FF 2010 959](https://fedlex.data.admin.ch/eli/fga/2010/186)).
 [^5-6]: Introduit par le ch. I de la LF du 15 juin 2012, en vigueur depuis le 1<sup>er</sup> mai 2014 ([RO 2014 899](https://fedlex.data.admin.ch/eli/oc/2014/197); [FF 2010 959](https://fedlex.data.admin.ch/eli/fga/2010/186)).
 
+#### Art. 5a
+
+**Prime de démolition**[^5a-1]
+
+<sup>1</sup> Les propriétaires de constructions et d’installations implantées hors de la zone à bâtir reçoivent, lors de la démolition de celles-ci, une prime correspondant aux frais de démolition à l’exclusion d’éventuels frais d’élimination de déchets spéciaux et d’assainissement de sites contaminés, sauf s’il existe une autre obligation légale de prise en charge des frais de démolition. En cas de démolition de constructions et d’installations non utilisées à des fins agricoles ou touristiques, la prime n’est versée que si aucune construction de remplacement n’est réalisée.
+
+<sup>2</sup> Les cantons financent la prime de démolition en premier lieu par le produit de la taxe au sens de l’art. 5, al. 1, puis par des moyens financiers généraux.
+
+<sup>3</sup> La Confédération peut allouer des contributions aux cantons pour leurs dépenses. Le Conseil fédéral règle les modalités. Il tient compte, dans ce cadre, des différences entre les cantons, en particulier du rendement de la taxe sur la plus-value.
+
+[^5a-1]: Introduit par le ch. I de la LF du 29 sept. 2023, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2025 640](https://fedlex.data.admin.ch/eli/oc/2025/640); [FF 2018 7423](https://fedlex.data.admin.ch/eli/fga/2018/2625)).
+
 ## Titre 2 Mesures d’aménagement
 
 ### Chapitre 1 Plans directeurs des cantons
@@ -179,9 +195,11 @@ De plus, les cantons décrivent dans les études de base l’état et le dévelo
 - b.[^6-6] des transports;
 - b<sup>bis</sup>.[^6-7] de l’approvisionnement, notamment en électricité issue des énergies renouvelables;
 - b<sup>ter</sup>.[^6-8] des constructions et installations publiques;
-- c.[^6-9] des terres agricoles.
+- c.[^6-9] des terres agricoles;
+- d.[^6-10] du nombre de bâtiments hors zones à bâtir;
+- e.[^6-11] de l’imperméabilisation du sol dans les zones agricoles visées à l’art. 16 qui sont exploitées toute l’année, pour autant qu’elle ne serve pas à l’agriculture ou au tourisme.
 
-<sup>4</sup> Ils tiennent compte des conceptions et plans sectoriels de la Confédération, des plans directeurs des cantons voisins, ainsi que des programmes de développement régional et des plans d’aménagement régional.
+<sup>4</sup> Ils tiennent compte notamment des conceptions et plans sectoriels de la Confédération, des plans directeurs des cantons voisins, des inventaires fédéraux, ainsi que des programmes de développement régional et des plans d’aménagement régional en fonction de leur caractère contraignant.[^6-12]
 
 [^6-1]: Abrogé par le ch. I de la LF du 15 juin 2012, avec effet au 1<sup>er</sup> mai 2014 ([RO 2014 899](https://fedlex.data.admin.ch/eli/oc/2014/197); [FF 2010 959](https://fedlex.data.admin.ch/eli/fga/2010/186)).
 [^6-2]: Nouvelle teneur selon le ch. I de la LF du 15 juin 2012, en vigueur depuis le 1<sup>er</sup> mai 2014 ([RO 2014 899](https://fedlex.data.admin.ch/eli/oc/2014/197); [FF 2010 959](https://fedlex.data.admin.ch/eli/fga/2010/186)).
@@ -192,6 +210,9 @@ De plus, les cantons décrivent dans les études de base l’état et le dévelo
 [^6-7]: Introduite par l’annexe ch. II 5 de la L du 30 sept. 2016 sur l’énergie, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6839](https://fedlex.data.admin.ch/eli/oc/2017/762); [FF 2013 6771](https://fedlex.data.admin.ch/eli/fga/2013/1476)).
 [^6-8]: Introduite par l’annexe ch. II 5 de la L du 30 sept. 2016 sur l’énergie, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6839](https://fedlex.data.admin.ch/eli/oc/2017/762); [FF 2013 6771](https://fedlex.data.admin.ch/eli/fga/2013/1476)).
 [^6-9]: Introduite par le ch. I de la LF du 15 juin 2012, en vigueur depuis le 1<sup>er</sup> mai 2014 ([RO 2014 899](https://fedlex.data.admin.ch/eli/oc/2014/197); [FF 2010 959](https://fedlex.data.admin.ch/eli/fga/2010/186)).
+[^6-10]: Introduite par le ch. I de la LF du 29 sept. 2023, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2025 640](https://fedlex.data.admin.ch/eli/oc/2025/640); [FF 2018 7423](https://fedlex.data.admin.ch/eli/fga/2018/2625)).
+[^6-11]: Introduite par le ch. I de la LF du 29 sept. 2023, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2025 640](https://fedlex.data.admin.ch/eli/oc/2025/640); [FF 2018 7423](https://fedlex.data.admin.ch/eli/fga/2018/2625)). Rectifiée par la Commission de rédaction de l’Ass. féd. (art. 58, al. 1 LParl; [RS 171.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4991)).
+[^6-12]: Nouvelle teneur selon le ch. I de la LF du 29 sept. 2023, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2025 640](https://fedlex.data.admin.ch/eli/oc/2025/640); [FF 2018 7423](https://fedlex.data.admin.ch/eli/fga/2018/2625)).
 
 #### Art. 7
 
@@ -250,6 +271,42 @@ Dans le domaine de l’urbanisation, le plan directeur définit notamment:
 Le plan directeur désigne les zones et les tronçons de cours d’eau qui se prêtent à l’utilisation d’énergies renouvelables.
 
 [^8b-1]: Introduit par l’annexe ch. II 5 de la L du 30 sept. 2016 sur l’énergie, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6839](https://fedlex.data.admin.ch/eli/oc/2017/762); [FF 2013 6771](https://fedlex.data.admin.ch/eli/fga/2013/1476)).
+
+#### Art. 8c
+
+**Contenu du plan directeur relatif aux zones prévues à l’art. 18<sup>bis</sup>**[^8c-1]
+
+<sup>1</sup>
+
+Les cantons peuvent, sur la base d’une conception d’ensemble du territoire, désigner dans leur plan directeur des territoires définis hors zone à bâtir dans lesquels des zones au sens de l’art. 18<sup>bis</sup> incluant des utilisations soumises à compensation sont admissibles, pour autant que les conditions suivantes soient remplies:
+
+- a. la délimitation de telles zones améliore la situation globale dans le territoire en question au regard des buts et principes de l’aménagement du territoire;
+- b. des mandats sont donnés à la planification d’affectation de prévoir les mesures de compensation et d’amélioration requises.
+
+<sup>2</sup> En respectant les principes selon l’al. 1, les cantons peuvent, dans leur plan directeur, délimiter des territoires définis dans lesquels ils prévoient la réaffectation de bâtiments agricoles inutilisés à des fins d’habitation.
+
+<sup>3</sup>
+
+Le plan directeur précise au minimum:
+
+- a. la manière dont la situation globale doit être améliorée, les objectifs supérieurs poursuivis et les raisons motivant cette amélioration;
+- b. la manière dont la conception d’ensemble du territoire sera concrètement mise en œuvre dans le plan d’affectation pour le territoire concerné.
+
+[^8c-1]: Introduit par le ch. I de la LF du 29 sept. 2023, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2025 640](https://fedlex.data.admin.ch/eli/oc/2025/640); [FF 2018 7423](https://fedlex.data.admin.ch/eli/fga/2018/2625)).
+
+#### Art. 8d
+
+**Contenu du plan directeur relatif à l’objectif de stabilisation en territoire non constructible**[^8d-1]
+
+<sup>1</sup> Les cantons définissent, dans leur plan directeur, un concept global permettant d’atteindre les objectifs de stabilisation selon l’art. 1, al. 2, let. b<sup>ter</sup> et b<sup>quater</sup>, et donnent les mandats correspondants, en particulier en ce qui concerne le versement et le financement des primes à la démolition au sens de l’art. 5*a*, al. 1. La comparaison avec l’état au 29 septembre 2023 est déterminante à ce titre.
+
+<sup>2</sup> Les bâtiments protégés et les bâtiments qui ont été classés en zone à bâtir après le 29 septembre 2023 ne doivent pas être pris en compte dans l’appréciation du degré de réalisation de l’objectif selon l’art. 1, al. 2, let. b<sup>ter</sup>. L’imperméabilisation du sol liée à des installations de production et de transport d’énergie ou à des installations de transport cantonales ou nationales ne doit pas être prise en compte dans l’appréciation du degré de réalisation de l’objectif selon l’art. 1, al. 2, let. b<sup>quater</sup>.
+
+<sup>3</sup> La réalisation des objectifs de stabilisation au sens de l’art. 1, al. 2, let. b<sup>ter</sup> et b<sup>quater</sup> sera examinée périodiquement et les contenus du plan directeur au sens de l’al. 1 seront adaptés le cas échéant.
+
+<sup>4</sup> Si l’examen indique que les objectifs de stabilisation n’ont pas été atteints, le Conseil fédéral ordonne une application par analogie de l’art. 38*b*.
+
+[^8d-1]: Introduit par le ch. I de la LF du 29 sept. 2023, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2025 640](https://fedlex.data.admin.ch/eli/oc/2025/640); [FF 2018 7423](https://fedlex.data.admin.ch/eli/fga/2018/2625)).
 
 #### Art. 9
 
@@ -393,7 +450,7 @@ Dans une exploitation agricole, les constructions et installations nécessaires 
 <sup>3</sup> Les constructions et installations dépassant le cadre de ce qui peut être admis au titre du développement interne peuvent être déclarées conformes à l’affectation de la zone et autorisées lorsqu’elles seront implantées dans une partie de la zone agricole que le canton a désignée à cet effet moyennant une procédure de planification.
 
 [^16a-1]: Introduit par le ch. I de la LF du 20 mars 1998, en vigueur depuis le 1<sup>er</sup> sept. 2000 ([RO 2000 2042](https://fedlex.data.admin.ch/eli/oc/2000/309); [FF 1996 III 485](https://fedlex.data.admin.ch/eli/fga/1996/3_513_485_457)).
-[^16a-2]: Introduit par le ch. I de la LF du 23 mars 2007 ([RO 2007 3637](https://fedlex.data.admin.ch/eli/oc/2007/452); [FF 2005 6629](https://fedlex.data.admin.ch/eli/fga/2005/1151)). Nouvelle teneur selon le ch. III de la LF du 29 sept. 2023 relative à un approvisionnement en électricité sûr reposant sur des énergies renouvelables, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [2025 636](https://fedlex.data.admin.ch/eli/oc/2025/636); [FF 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
+[^16a-2]: Introduit par le ch. I de la LF du 23 mars 2007 ([RO 2007 3637](https://fedlex.data.admin.ch/eli/oc/2007/452); [FF 2005 6629](https://fedlex.data.admin.ch/eli/fga/2005/1151)). Nouvelle teneur selon le ch. I de la LF du 29 sept. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 640](https://fedlex.data.admin.ch/eli/oc/2025/640); [FF 2018 7423](https://fedlex.data.admin.ch/eli/fga/2018/2625)).
 [^16a-3]: Phrase introduite par le ch. I de la LF du 29 sept. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 640](https://fedlex.data.admin.ch/eli/oc/2025/640); [FF 2018 7423](https://fedlex.data.admin.ch/eli/fga/2018/2625)).
 [^16a-4]: Nouvelle teneur selon ch. I de la LF du 23 mars 2007, en vigueur depuis le 1<sup>er</sup> sept. 2007 ([RO 2007 3637](https://fedlex.data.admin.ch/eli/oc/2007/452); [FF 2005 6629](https://fedlex.data.admin.ch/eli/fga/2005/1151)).
 
@@ -444,11 +501,37 @@ Les zones à protéger comprennent:
 
 **Autres zones et territoires**
 
-<sup>1</sup> Le droit cantonal peut prévoir d’autres zones d’affectation.
+<sup>1</sup> Le droit cantonal distingue différents types de zones à bâtir et peut prévoir d’autres zones d’affectation hors de la zone à bâtir.[^18-1]
 
-<sup>2</sup> Il peut régler le cas des territoires non affectés ou de ceux dont l’affectation est différée.
+<sup>1bis</sup> Dans ces autres zones d’affectation hors de la zone à bâtir, des constructions ou des installations destinées à des utilisations imposées par leur destination, ainsi que d’autres constructions ou installations ayant un lien fonctionnel avec l’utilisation principale peuvent être admises. L’autorisation expire pour toutes les constructions et installations lorsque l’utilisation principale prend fin.[^18-2]
+
+<sup>2</sup> Le droit cantonal peut régler le cas des territoires non affectés ou de ceux dont l’affectation est différée.[^18-3]
 
 <sup>3</sup> L’aire forestière est définie et protégée par la législation sur les forêts.
+
+[^18-1]: Nouvelle teneur selon le ch. I de la LF du 29 sept. 2023, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2025 640](https://fedlex.data.admin.ch/eli/oc/2025/640); [FF 2018 7423](https://fedlex.data.admin.ch/eli/fga/2018/2625)).
+[^18-2]: Introduit par le ch. I de la LF du 29 sept. 2023, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2025 640](https://fedlex.data.admin.ch/eli/oc/2025/640); [FF 2018 7423](https://fedlex.data.admin.ch/eli/fga/2018/2625)).
+[^18-3]: Nouvelle teneur selon le ch. I de la LF du 29 sept. 2023, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2025 640](https://fedlex.data.admin.ch/eli/oc/2025/640); [FF 2018 7423](https://fedlex.data.admin.ch/eli/fga/2018/2625)).
+
+#### Art. 18<sup>bis</sup>
+
+**Zones non constructibles incluant des utilisations soumises à compensation**[^18bis-1]
+
+<sup>1</sup>
+
+Si des zones non constructibles sont délimitées selon l’art. 8*c* pour des utilisations non imposées par leur destination, il faut prévoir les conditions pour que ces utilisations:[^18bis-2]
+
+- a. soient assorties des mesures de compensation et d’amélioration requises, et
+- b. entraînent globalement une amélioration de la situation générale de la structure du milieu bâti, de la culture du bâti, du paysage, des terres cultivables et de la biodiversité.
+
+<sup>2</sup> Aucune mesure de compensation ou d’amélioration n’est exigée lorsqu’une autorisation est susceptible d’être octroyée hors de telles zones sur la base du droit en vigueur.
+
+<sup>3</sup> Dans les petites entités urbanisées dans les zones selon le présent article, les autorisations de changement d’affectation et d’extension d’affectation sont accordées sans mesures de compensation et d’amélioration.
+
+<sup>4</sup> Dans le cadre de la procédure d’autorisation, il convient de vérifier et de s’assurer que les conditions prévues à l’al. 1 sont remplies.
+
+[^18bis-1]: Introduit par le ch. I de la LF du 29 sept. 2023, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2025 640](https://fedlex.data.admin.ch/eli/oc/2025/640); [FF 2018 7423](https://fedlex.data.admin.ch/eli/fga/2018/2625)).
+[^18bis-2]: Rectifiée par la Commission de rédaction de l’Ass. féd. (art. 58, al. 1 LParl; [RS 171.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4991)).
 
 #### Art. 18a
 
@@ -767,6 +850,20 @@ Les autorisations prévues par le présent article ne peuvent être délivrées 
 [^24e-1]: Introduit par le ch. I de la LF du 22 mars 2013, en vigueur depuis le 1<sup>er</sup> mai 2014 ([RO 2014 905](https://fedlex.data.admin.ch/eli/oc/2014/198); [FF 2012 6115](https://fedlex.data.admin.ch/eli/fga/2012/960)[6133](https://fedlex.data.admin.ch/eli/fga/2012/962)).
 [^24e-2]: Introduit par le ch. I de la LF du 29 sept. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 640](https://fedlex.data.admin.ch/eli/oc/2025/640); [FF 2018 7423](https://fedlex.data.admin.ch/eli/fga/2018/2625)).
 
+### Section 2*b* Information
+
+[^tit2-chap3-sec2b-1]
+
+[^tit2-chap3-sec2b-1]: Introduite par le ch. I de la LF du 29 sept. 2023, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2025 640](https://fedlex.data.admin.ch/eli/oc/2025/640); [FF 2018 7423](https://fedlex.data.admin.ch/eli/fga/2018/2625)).
+
+#### Art. 24f
+
+<sup>1</sup> Les cantons fournissent périodiquement à la Confédération un rapport sur le versement et le financement des primes à la démolition prévues à l’art. 5*a*, al. 1 et 2.
+
+<sup>2</sup> Le Conseil fédéral fournit périodiquement au Parlement un rapport sur la réalisation des objectifs de stabilisation au sens de l’art. 1, al. 2, let. b<sup>ter</sup> et b<sup>quater</sup>, en évaluant les effets des dispositions déterminantes.
+
+<sup>3</sup> Il présente dans son rapport des propositions d’amélioration.
+
 ### Section 3 Compétence et procédure
 
 #### Art. 25
@@ -779,14 +876,17 @@ Les autorisations prévues par le présent article ne peuvent être délivrées 
 
 <sup>2</sup> Pour tous les projets de construction situés hors de la zone à bâtir, l’autorité cantonale compétente décide si ceux-ci sont conformes à l’affectation de la zone ou si une dérogation peut être accordée.[^25-2]
 
-<sup>3 et <sup>4</sup></sup> …[^25-3]
+<sup>3</sup> Elle veille à ce que les utilisations non autorisées soient constatées en temps utile, puis interdites et interrompues immédiatement; le rétablissement de l’état conforme au droit est ordonné et exécuté sans délai.[^25-3]
 
-<sup>5</sup> Le droit au rétablissement de la situation conforme au droit se prescrit après 30 ans. Le délai est respecté lorsque l’autorité compétente intervient pour la première fois avant la fin de ce délai. Il n’y a pas de prescription si des biens de police, en particulier l’ordre public, la tranquillité, la sécurité ou la santé publics, sont mis en péril.[^25-4]
+<sup>4</sup> Seule l’autorité cantonale compétente a le pouvoir de décider valablement qu’il n’est exceptionnellement pas nécessaire de rétablir une situation conforme au droit.[^25-4]
+
+<sup>5</sup> Le droit au rétablissement de la situation conforme au droit se prescrit après 30 ans. Le délai est respecté lorsque l’autorité compétente intervient pour la première fois avant la fin de ce délai. Il n’y a pas de prescription si des biens de police, en particulier l’ordre public, la tranquillité, la sécurité ou la santé publics, sont mis en péril.[^25-5]
 
 [^25-1]: Introduit par le ch. I de la LF du 6 oct. 1995 ([RO 1996 965](https://fedlex.data.admin.ch/eli/oc/1996/965_965_965); [FF 1994 III 1059](https://fedlex.data.admin.ch/eli/fga/1994/3_1075_1059_971)). Nouvelle teneur selon le ch. I de la LF du 20 mars 1998, en vigueur depuis le 1<sup>er</sup> sept. 2000 ([RO 2000 2042](https://fedlex.data.admin.ch/eli/oc/2000/309); [FF 1996 III 485](https://fedlex.data.admin.ch/eli/fga/1996/3_513_485_457)).
 [^25-2]: Nouvelle teneur selon le ch. I de la LF du 20 mars 1998, en vigueur depuis le 1<sup>er</sup> sept. 2000 ([RO 2000 2042](https://fedlex.data.admin.ch/eli/oc/2000/309); [FF 1996 III 485](https://fedlex.data.admin.ch/eli/fga/1996/3_513_485_457)).
-[^25-3]: Entrent en vigueur le 1<sup>er</sup> juil. 2026 ([RO 2025 640](https://fedlex.data.admin.ch/eli/oc/2025/640); [FF 2018 7423](https://fedlex.data.admin.ch/eli/fga/2018/2625)).
-[^25-4]: Introduit par le ch. I de la LF du 29 sept. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 640](https://fedlex.data.admin.ch/eli/oc/2025/640); [FF 2018 7423](https://fedlex.data.admin.ch/eli/fga/2018/2625)).
+[^25-3]: Introduit par le ch. I de la LF du 29 sept. 2023, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2025 640](https://fedlex.data.admin.ch/eli/oc/2025/640); [FF 2018 7423](https://fedlex.data.admin.ch/eli/fga/2018/2625)).
+[^25-4]: Introduit par le ch. I de la LF du 29 sept. 2023, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2025 640](https://fedlex.data.admin.ch/eli/oc/2025/640); [FF 2018 7423](https://fedlex.data.admin.ch/eli/fga/2018/2625)).
+[^25-5]: Introduit par le ch. I de la LF du 29 sept. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 640](https://fedlex.data.admin.ch/eli/oc/2025/640); [FF 2018 7423](https://fedlex.data.admin.ch/eli/fga/2018/2625)).
 
 #### Art. 25a
 
@@ -915,12 +1015,12 @@ Les cantons et les communes ont qualité pour recourir contre les décisions pri
 
 - a. des indemnisations résultant de restrictions apportées au droit de propriété (art. 5);
 - b. la reconnaissance de la conformité à l’affectation de la zone de constructions et d’installations sises hors de la zone à bâtir;
-- c. des autorisations visées aux art. 24 à 24*d*[^34-2] et 37*a*.[^34-3]
+- c.[^34-2] des autorisations visées aux art. 24 à 24*e* et 37*a*.[^34-3]
 
 <sup>3</sup> L’Office fédéral de l’agriculture a qualité pour recourir contre les décisions portant sur des projets qui requièrent des surfaces d’assolement.[^34-4]
 
 [^34-1]: Nouvelle teneur selon l’annexe ch. 64 de la LF du 17 juin 2005 sur le TAF, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
-[^34-2]: Actuellement: art. 24 à 24*e*.
+[^34-2]: Nouvelle teneur selon le ch. I de la LF du 29 sept. 2023, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2025 640](https://fedlex.data.admin.ch/eli/oc/2025/640); [FF 2018 7423](https://fedlex.data.admin.ch/eli/fga/2018/2625)).
 [^34-3]: Nouvelle teneur selon ch. I de la LF du 23 mars 2007, en vigueur depuis le 1<sup>er</sup> sept. 2007 ([RO 2007 3637](https://fedlex.data.admin.ch/eli/oc/2007/452); [FF 2005 6629](https://fedlex.data.admin.ch/eli/fga/2005/1151)).
 [^34-4]: Introduit par l’annexe ch. 5 de la LF du 22 mars 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [FF 2012 1857](https://fedlex.data.admin.ch/eli/fga/2012/356)).
 
@@ -970,19 +1070,18 @@ Les cantons veillent à ce que:
 
 **Constructions et installations à usage commercial sises hors zone à bâtir et non conformes à l’affectation de la zone**[^37a-1]
 
-Le Conseil fédéral définit les conditions auxquelles sont autorisés les changements d’affectation de constructions et d’installations à usage commercial qui ont été érigées avant le 1<sup>er</sup> janvier 1980 ou qui sont devenues contraires à l’affectation de la zone en raison d’une modification du plan d’affectation.
+<sup>1</sup> Le Conseil fédéral définit les conditions auxquelles sont autorisés les changements d’affectation de constructions et d’installations à usage commercial qui ont été érigées avant le 1<sup>er</sup> janvier 1980 ou qui sont devenues contraires à l’affectation de la zone en raison d’une modification du plan d’affectation.
+
+<sup>2</sup> Il définit les conditions auxquelles les établissements de restauration et d’hébergement créés selon l’ancien droit hors de la zone à bâtir peuvent en outre être démolis et reconstruits, et dans quelle mesure ils peuvent être agrandis pour l’exploitation. Il règle également les conditions auxquelles la démolition de constructions et installations commerciales ailleurs dans le même compartiment de terrain autorise une extension supplémentaire de l’exploitation.[^37a-2]
 
 [^37a-1]: Introduit par le ch. I de la LF du 20 mars 1998, en vigueur depuis le 1<sup>er</sup> sept. 2000 ([RO 2000 2042](https://fedlex.data.admin.ch/eli/oc/2000/309); [FF 1996 III 485](https://fedlex.data.admin.ch/eli/fga/1996/3_513_485_457)).
+[^37a-2]: Introduit par le ch. I de la LF du 29 sept. 2023, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2025 640](https://fedlex.data.admin.ch/eli/oc/2025/640); [FF 2018 7423](https://fedlex.data.admin.ch/eli/fga/2018/2625)).
 
 #### Art. 38
 
-**Dispositions transitoires de la modification du 17 décembre 2010**[^38-1]
+[^38-1]
 
-<sup>1</sup> Les cantons concernés adaptent leur plan directeur aux exigences de la présente loi dans un délai de trois ans à compter de l’entrée en vigueur de la présente modification et veillent, le cas échéant, à ce que les communes concernées prennent les mesures nécessaires dans le même délai, notamment par la fixation de contingents annuels ou d’un taux de résidences principales, par la délimitation de zones d’affectation spéciale ou par le prélèvement de taxes d’incitation.
-
-<sup>2</sup> À l’expiration de ce délai, aucune nouvelle résidence secondaire ne sera autorisée tant que les cantons et les communes n’auront pas pris les dispositions nécessaires.
-
-[^38-1]: [RO 2011 2913](https://fedlex.data.admin.ch/eli/oc/2011/377); [FF 2007 5477](https://fedlex.data.admin.ch/eli/fga/2007/793).Nouvelle teneur selon le ch. I de la LF du 15 juin 2012, en vigueur depuis le 1<sup>er</sup> mai 2014 ([RO 2014 899](https://fedlex.data.admin.ch/eli/oc/2014/197); [FF 2010 959](https://fedlex.data.admin.ch/eli/fga/2010/186)).
+[^38-1]: Abrogé par le ch. I de la LF du 29 sept. 2023, avec effet au 1<sup>er</sup> juil. 2026 ([RO 2025 640](https://fedlex.data.admin.ch/eli/oc/2025/640); [FF 2018 7423](https://fedlex.data.admin.ch/eli/fga/2018/2625)).
 
 #### Art. 38a
 
@@ -999,6 +1098,29 @@ Le Conseil fédéral définit les conditions auxquelles sont autorisés les chan
 <sup>5</sup> À l’échéance du délai prévu à l’al. 4, aucune nouvelle zone à bâtir ne peut être créée dans les cantons qui ne disposent pas d’un régime de compensation équitable répondant aux exigences de l’art. 5. Le Conseil fédéral désigne ces cantons après les avoir entendus.
 
 [^38a-1]: Introduit par le ch. I de la LF du 15 juin 2012, en vigueur depuis le 1<sup>er</sup> mai 2014 ([RO 2014 899](https://fedlex.data.admin.ch/eli/oc/2014/197); [FF 2010 959](https://fedlex.data.admin.ch/eli/fga/2010/186)).
+
+#### Art. 38b
+
+**Disposition transitoire de la modification du 29 septembre 2023**[^38b-1]
+
+<sup>1</sup> Les cantons adaptent leurs plans directeurs aux exigences définies à l’art. 8*d* dans les cinq ans suivant l’entrée en vigueur de la modification du 29 septembre 2023.
+
+<sup>2</sup> Les modifications des plans directeurs selon les art. 8*c* et 18<sup>bis</sup> sont approuvées à condition qu’une modification selon l’art. 8*d* puisse être effectuée au préalable ou simultanément.
+
+<sup>3</sup> À l’échéance du délai fixé à l’al. 1, tout nouveau bâtiment hors zone à bâtir dans le canton concerné est soumis à compensation jusqu’à l’approbation du plan directeur cantonal.
+
+<sup>4</sup> Les bâtiments qui ont déjà été autorisés peuvent être construits sans compensation durant un délai non prolongeable de trois ans après l’expiration du délai visé à l’al. 1.
+
+[^38b-1]: Introduit par le ch. I de la LF du 29 sept. 2023, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2025 640](https://fedlex.data.admin.ch/eli/oc/2025/640); [FF 2018 7423](https://fedlex.data.admin.ch/eli/fga/2018/2625)).
+
+#### Art. 38c
+
+**Première élaboration d’études de base pour le plan directeur en ce qui concerne les objectifs au sens de l’art. 1, al. 2, let. b<sup>ter</sup> et b<sup>quater</sup>**[^38c-1]
+
+Lorsqu’on présente pour la première fois le nombre de bâtiments hors zones à bâtir ainsi que l’imperméabilisation du sol dans les zones agricoles visées à l’art. 16 qui sont exploitées toute l’année, pour autant qu’elle ne serve pas à l’agriculture, en guise d’études de base au sens de l’art. 6, al. 3, let. d et e, les explications concernant l’évolution passée peuvent rester peu détaillées.[^38c-2]
+
+[^38c-1]: Introduit par le ch. I de la LF du 29 sept. 2023, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2025 640](https://fedlex.data.admin.ch/eli/oc/2025/640); [FF 2018 7423](https://fedlex.data.admin.ch/eli/fga/2018/2625)).
+[^38c-2]: Rectifiée par la Commission de rédaction de l’Ass. féd. (art. 58, al. 1 LParl; [RS 171.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4991)).
 
 #### Art. 39
 

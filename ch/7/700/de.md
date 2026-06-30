@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 22. Juni 1979 über die Raumplanung (Raumplanungsgesetz
 short: RPG
 eli: "https://fedlex.data.admin.ch/eli/cc/1979/1573_1573_1573"
 language: de
-version: 2026-04-01
+version: 2026-07-01
 adopted: 1979-06-22
 in_force: 1980-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1573_1573_1573/20260401/de/xml/fedlex-data-admin-ch-eli-cc-1979-1573_1573_1573-20260401-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/20260401/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1573_1573_1573/20260701/de/xml/fedlex-data-admin-ch-eli-cc-1979-1573_1573_1573-20260701-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/20260701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,18 +17,18 @@ url: "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/20260401/de"
 
 (Raumplanungsgesetz, RPG)[^t-1]
 
-vom 22. Juni 1979 (Stand am 1. April 2026)
+vom 22. Juni 1979 (Stand am 1. Juli 2026)
 
 [^t-1]: Fassung gemäss Ziff. I des BG vom 6. Okt. 1995, in Kraft seit 1. Jan. 1997 ([AS 1996 965](https://fedlex.data.admin.ch/eli/oc/1996/965_965_965); [BBl 1994 III 1075](https://fedlex.data.admin.ch/eli/fga/1994/3_1075_1059_971)).
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
-gestützt auf die Artikel 22<sup>quater</sup> und 34<sup>sexies</sup> der Bundesverfassung[^ingress-1],[^ingress-2] nach Einsicht in eine Botschaft des Bundesrates vom 27. Februar 1978[^ingress-3],
+gestützt auf die Artikel 75, 104*a* und 108 der Bundesverfassung[^ingress-1],[^ingress-2] nach Einsicht in eine Botschaft des Bundesrates vom 27. Februar 1978[^ingress-3],
 
 beschliesst:
 
-[^ingress-1]: [[AS 1969 1249](https://fedlex.data.admin.ch/eli/oc/1969/1249_1265_1267); [1972 1481](https://fedlex.data.admin.ch/eli/oc/1972/1481_1509_1681)]. Den genannten Bestimmungen entsprechen heute die Art. 41, 75, 108 und 147 der BV vom 18. April 1999 ([SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)).
-[^ingress-2]: Fassung gemäss Ziff. I des BG vom 6. Okt. 1995, in Kraft seit 1. Jan. 1997 ([AS 1996 965](https://fedlex.data.admin.ch/eli/oc/1996/965_965_965); [BBl 1994 III 1075](https://fedlex.data.admin.ch/eli/fga/1994/3_1075_1059_971)).
+[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
+[^ingress-2]: Fassung gemäss Ziff. I des BG vom 29. Sept. 2023, in Kraft seit 1. Juli 2026 ([AS 2025 640](https://fedlex.data.admin.ch/eli/oc/2025/640); [BBl 2018 7443](https://fedlex.data.admin.ch/eli/fga/2018/2625)).
 [^ingress-3]: [BBl 1978 I 1006](https://fedlex.data.admin.ch/eli/fga/1978/1_1006_1007_959)
 
 ## 1. Titel: Einleitung
@@ -47,16 +47,20 @@ Sie unterstützen mit Massnahmen der Raumplanung insbesondere die Bestrebungen:
 - a<sup>bis</sup>.[^1-2] die Siedlungsentwicklung nach innen zu lenken, unter Berücksichtigung einer angemessenen Wohnqualität;
 - b.[^1-3] kompakte Siedlungen zu schaffen;
 - b<sup>bis</sup>.[^1-4] die räumlichen Voraussetzungen für die Wirtschaft zu schaffen und zu erhalten;
+- b<sup>ter</sup>.[^1-5] die Zahl der Gebäude im Nichtbaugebiet zu stabilisieren;
+- b<sup>quater</sup>.[^1-6] die Bodenversiegelung in den ganzjährig bewirtschafteten Landwirtschaftszonen nach Artikel 16 zu stabilisieren, soweit sie nicht landwirtschaftlich oder zur Ausübung touristischer Aktivitäten bedingt ist;
 - c. das soziale, wirtschaftliche und kulturelle Leben in den einzelnen Landesteilen zu fördern und auf eine angemessene Dezentralisation der Besiedlung und der Wirtschaft hinzuwirken;
 - d. die ausreichende Versorgungsbasis des Landes zu sichern;
 - e. die Gesamtverteidigung zu gewährleisten;
-- f.[^1-5] die Integration von Ausländerinnen und Ausländern sowie den gesellschaftlichen Zusammenhalt zu fördern.
+- f.[^1-7] die Integration von Ausländerinnen und Ausländern sowie den gesellschaftlichen Zusammenhalt zu fördern.
 
 [^1-1]: Fassung gemäss Ziff. I des BG vom 15. Juni 2012, in Kraft seit 1. Mai 2014 ([AS 2014 899](https://fedlex.data.admin.ch/eli/oc/2014/197); [BBl 2010 1049](https://fedlex.data.admin.ch/eli/fga/2010/186)).
 [^1-2]: Eingefügt durch Ziff. I des BG vom 15. Juni 2012, in Kraft seit 1. Mai 2014 ([AS 2014 899](https://fedlex.data.admin.ch/eli/oc/2014/197); [BBl 2010 1049](https://fedlex.data.admin.ch/eli/fga/2010/186)).
 [^1-3]: Fassung gemäss Ziff. I des BG vom 15. Juni 2012, in Kraft seit 1. Mai 2014 ([AS 2014 899](https://fedlex.data.admin.ch/eli/oc/2014/197); [BBl 2010 1049](https://fedlex.data.admin.ch/eli/fga/2010/186)).
 [^1-4]: Eingefügt durch Ziff. I des BG vom 15. Juni 2012, in Kraft seit 1. Mai 2014 ([AS 2014 899](https://fedlex.data.admin.ch/eli/oc/2014/197); [BBl 2010 1049](https://fedlex.data.admin.ch/eli/fga/2010/186)).
-[^1-5]: Eingefügt durch Anhang Ziff. 3 des BG vom 16. Dez. 2016 (Integration), in Kraft seit 1. Jan. 2019 ([AS 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718); [2018 3171](https://fedlex.data.admin.ch/eli/oc/2018/509); [BBl 2013 2397](https://fedlex.data.admin.ch/eli/fga/2013/416); [2016 2821](https://fedlex.data.admin.ch/eli/fga/2016/524)).
+[^1-5]: Eingefügt durch Ziff. I des BG vom 29. Sept. 2023, in Kraft seit 1. Juli 2026 ([AS 2025 640](https://fedlex.data.admin.ch/eli/oc/2025/640); [BBl 2018 7443](https://fedlex.data.admin.ch/eli/fga/2018/2625)).
+[^1-6]: Eingefügt durch Ziff. I des BG vom 29. Sept. 2023, in Kraft seit 1. Juli 2026 ([AS 2025 640](https://fedlex.data.admin.ch/eli/oc/2025/640); [BBl 2018 7443](https://fedlex.data.admin.ch/eli/fga/2018/2625)).
+[^1-7]: Eingefügt durch Anhang Ziff. 3 des BG vom 16. Dez. 2016 (Integration), in Kraft seit 1. Jan. 2019 ([AS 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718); [2018 3171](https://fedlex.data.admin.ch/eli/oc/2018/509); [BBl 2013 2397](https://fedlex.data.admin.ch/eli/fga/2013/416); [2016 2821](https://fedlex.data.admin.ch/eli/fga/2016/524)).
 
 #### Art. 2
 
@@ -152,6 +156,18 @@ Das kantonale Recht kann von der Erhebung der Abgabe absehen, wenn:
 [^5-5]: Eingefügt durch Ziff. I des BG vom 15. Juni 2012, in Kraft seit 1. Mai 2014 ([AS 2014 899](https://fedlex.data.admin.ch/eli/oc/2014/197); [BBl 2010 1049](https://fedlex.data.admin.ch/eli/fga/2010/186)).
 [^5-6]: Eingefügt durch Ziff. I des BG vom 15. Juni 2012, in Kraft seit 1. Mai 2014 ([AS 2014 899](https://fedlex.data.admin.ch/eli/oc/2014/197); [BBl 2010 1049](https://fedlex.data.admin.ch/eli/fga/2010/186)).
 
+#### Art. 5a
+
+**Abbruchprämie**[^5a-1]
+
+<sup>1</sup> Eigentümer von Bauten und Anlagen, die ausserhalb der Bauzonen liegen, erhalten bei deren Abbruch eine Abbruchprämie in der Höhe der Abbruchkosten unter Ausschluss allfälliger Aufwendungen für die Entsorgung von Spezialabfällen oder Altlasten, ausser wenn eine anderweitige gesetzliche Pflicht zur Tragung der Beseitigungskosten besteht. Bei der Beseitigung von Bauten und Anlagen ohne landwirtschaftliche oder touristische Nutzung wird die Abbruchprämie nur ausgerichtet, wenn kein Ersatzneubau erstellt wird.
+
+<sup>2</sup> Die Kantone finanzieren die Abbruchprämie primär mit den Erträgen aus der Abgabe gemäss Artikel 5 Absatz 1, darüber hinaus mit allgemeinen Finanzmitteln.
+
+<sup>3</sup> Der Bund kann Beiträge an die Aufwendungen der Kantone leisten. Der Bundesrat regelt die Einzelheiten. Er berücksichtigt dabei die unterschiedlichen Voraussetzungen der Kantone, insbesondere die Ergiebigkeit der Mehrwertabgabe.
+
+[^5a-1]: Eingefügt durch Ziff. I des BG vom 29. Sept. 2023, in Kraft seit 1. Juli 2026 ([AS 2025 640](https://fedlex.data.admin.ch/eli/oc/2025/640); [BBl 2018 7443](https://fedlex.data.admin.ch/eli/fga/2018/2625)).
+
 ## 2. Titel: Massnahmen der Raumplanung
 
 ### 1. Kapitel: Richtpläne der Kantone
@@ -179,9 +195,11 @@ In den Grundlagen geben sie auch Aufschluss über den Stand und die bisherige En
 - b.[^6-6] des Verkehrs;
 - b<sup>bis</sup>.[^6-7] der Versorgung, insbesondere mit Elektrizität aus erneuerbaren Energien;
 - b<sup>ter</sup>.[^6-8] der öffentlichen Bauten und Anlagen;
-- c.[^6-9] ihres Kulturlandes.
+- c.[^6-9] ihres Kulturlandes;
+- d.[^6-10] der Anzahl Gebäude ausserhalb der Bauzonen;
+- e.[^6-11] der Bodenversiegelung in der ganzjährig bewirtschafteten Landwirtschaftszone nach Artikel 16, soweit sie nicht landwirtschaftlich oder zur Ausübung touristischer Aktivitäten bedingt ist.
 
-<sup>4</sup> Sie berücksichtigen die Konzepte und Sachpläne des Bundes, die Richtpläne der Nachbarkantone sowie regionale Entwicklungskonzepte und Pläne.
+<sup>4</sup> Sie berücksichtigen insbesondere die Konzepte und Sachpläne des Bundes, die Richtpläne der Nachbarkantone, die Bundesinventare sowie regionale Entwicklungskonzepte und Pläne nach Massgabe ihrer Verbindlichkeit.[^6-12]
 
 [^6-1]: Aufgehoben durch Ziff. I des BG vom 15. Juni 2012, mit Wirkung seit 1. Mai 2014 ([AS 2014 899](https://fedlex.data.admin.ch/eli/oc/2014/197); [BBl 2010 1049](https://fedlex.data.admin.ch/eli/fga/2010/186)).
 [^6-2]: Fassung gemäss Ziff. I des BG vom 15. Juni 2012, in Kraft seit 1. Mai 2014 ([AS 2014 899](https://fedlex.data.admin.ch/eli/oc/2014/197); [BBl 2010 1049](https://fedlex.data.admin.ch/eli/fga/2010/186)).
@@ -192,6 +210,9 @@ In den Grundlagen geben sie auch Aufschluss über den Stand und die bisherige En
 [^6-7]: Eingefügt durch Anhang Ziff. II 5 des Energiegesetzes vom 30. Sept. 2016, in Kraft seit 1. Jan. 2018 ([AS 2017 6839](https://fedlex.data.admin.ch/eli/oc/2017/762); [BBl 2013 7561](https://fedlex.data.admin.ch/eli/fga/2013/1476)).
 [^6-8]: Eingefügt durch Anhang Ziff. II 5 des Energiegesetzes vom 30. Sept. 2016, in Kraft seit 1. Jan. 2018 ([AS 2017 6839](https://fedlex.data.admin.ch/eli/oc/2017/762); [BBl 2013 7561](https://fedlex.data.admin.ch/eli/fga/2013/1476)).
 [^6-9]: Eingefügt durch Ziff. I des BG vom 15. Juni 2012, in Kraft seit 1. Mai 2014 ([AS 2014 899](https://fedlex.data.admin.ch/eli/oc/2014/197); [BBl 2010 1049](https://fedlex.data.admin.ch/eli/fga/2010/186)).
+[^6-10]: Eingefügt durch Ziff. I des BG vom 29. Sept. 2023, in Kraft seit 1. Juli 2026 ([AS 2025 640](https://fedlex.data.admin.ch/eli/oc/2025/640); [BBl 2018 7443](https://fedlex.data.admin.ch/eli/fga/2018/2625)).
+[^6-11]: Eingefügt durch Ziff. I des BG vom 29. Sept. 2023, in Kraft seit 1. Juli 2026 ([AS 2025 640](https://fedlex.data.admin.ch/eli/oc/2025/640); [BBl 2018 7443](https://fedlex.data.admin.ch/eli/fga/2018/2625)).
+[^6-12]: Fassung gemäss Ziff. I des BG vom 29. Sept. 2023, in Kraft seit 1. Juli 2026 ([AS 2025 640](https://fedlex.data.admin.ch/eli/oc/2025/640); [BBl 2018 7443](https://fedlex.data.admin.ch/eli/fga/2018/2625)).
 
 #### Art. 7
 
@@ -250,6 +271,42 @@ Der Richtplan legt im Bereich Siedlung insbesondere fest:
 Der Richtplan bezeichnet die für die Nutzung erneuerbarer Energien geeigneten Gebiete und Gewässerstrecken.
 
 [^8b-1]: Eingefügt durch Anhang Ziff. II 5 des Energiegesetzes vom 30. Sept. 2016, in Kraft seit 1. Jan. 2018 ([AS 2017 6839](https://fedlex.data.admin.ch/eli/oc/2017/762); [BBl 2013 7561](https://fedlex.data.admin.ch/eli/fga/2013/1476)).
+
+#### Art. 8c
+
+**Richtplaninhalt im Bereich von Zonen nach Artikel 18<sup>bis</sup>**[^8c-1]
+
+<sup>1</sup>
+
+Die Kantone können im Richtplan bestimmte Gebiete bezeichnen, in denen aufgrund einer räumlichen Gesamtkonzeption ausserhalb der Bauzonen Zonen nach Artikel 18<sup>bis</sup> mit zu kompensierenden Nutzungen zulässig sind, sofern:
+
+- a. die Ausscheidung solcher Zonen im Hinblick auf die Ziele und Grundsätze der Raumplanung zu einer Verbesserung der Gesamtsituation im betreffenden Gebiet führt; und
+- b. Aufträge für die Nutzungsplanung erteilt werden, die erforderlichen Kompensations- und Aufwertungsmassnahmen vorzusehen.
+
+<sup>2</sup> Unter Berücksichtigung der Grundsätze nach Absatz 1 können die Kantone in ihrem Richtplan besondere Gebiete bestimmen, in welchen sie die Umnutzung nicht mehr benötigter landwirtschaftlicher Bauten zur Wohnnutzung vorsehen.
+
+<sup>3</sup>
+
+Im Richtplan ist mindestens festzulegen:
+
+- a. welche Verbesserung der Gesamtsituation mit der Ausscheidung solcher Zonen erreicht und welche übergeordneten Ziele damit konkret verfolgt werden sollen und die Gründe dafür;
+- b. wie im jeweiligen Gebiet die Gesamtkonzeption in der Nutzungsplanung konkret umgesetzt wird.
+
+[^8c-1]: Eingefügt durch Ziff. I des BG vom 29. Sept. 2023, in Kraft seit 1. Juli 2026 ([AS 2025 640](https://fedlex.data.admin.ch/eli/oc/2025/640); [BBl 2018 7443](https://fedlex.data.admin.ch/eli/fga/2018/2625)).
+
+#### Art. 8d
+
+**Richtplaninhalt zum Stabilisierungsziel im Nichtbaugebiet**[^8d-1]
+
+<sup>1</sup> Die Kantone legen in ihrem Richtplan ein Gesamtkonzept zur Erreichung der Stabilisierungsziele nach Artikel 1 Absatz 2 Buchstaben b<sup>ter</sup> und b<sup>quater</sup> fest und erteilen die entsprechenden Aufträge, insbesondere zur Ausrichtung und Finanzierung der Abbruchprämien gemäss Artikel 5*a* Absatz 1. Massgebend für die Beurteilung der Zielerreichung ist der Vergleich mit dem Stand am 29. September 2023.
+
+<sup>2</sup> Bei der Beurteilung der Erreichung des Ziels nach Artikel 1 Absatz 2 Buchstabe b<sup>ter</sup> sind die geschützten Gebäude und die Gebäude, die nach dem 29. September 2023 einer Bauzone zugewiesen worden sind, nicht zu berücksichtigen. Bei der Beurteilung der Erreichung des Ziels nach Artikel 1 Absatz 2 Buchstabe b<sup>quater</sup> ist die Bodenversiegelung, die durch Energieanlagen oder kantonale oder nationale Verkehrsanlagen bedingt ist, nicht zu berücksichtigen.
+
+<sup>3</sup> Die Erreichung der Stabilisierungsziele nach Artikel 1 Absatz 2 Buchstaben b<sup>ter</sup> und b<sup>quater</sup> ist periodisch zu überprüfen und die Richtplaninhalte gemäss Absatz 1 gegebenenfalls anzupassen.
+
+<sup>4</sup> Ergibt die Überprüfung eine Verfehlung der Stabilisierungsziele, ordnet der Bundesrat die sinngemässe Anwendung von Artikel 38*b* an.
+
+[^8d-1]: Eingefügt durch Ziff. I des BG vom 29. Sept. 2023, in Kraft seit 1. Juli 2026 ([AS 2025 640](https://fedlex.data.admin.ch/eli/oc/2025/640); [BBl 2018 7443](https://fedlex.data.admin.ch/eli/fga/2018/2625)).
 
 #### Art. 9
 
@@ -444,11 +501,36 @@ Schutzzonen umfassen:
 
 **Weitere Zonen und Gebiete**
 
-<sup>1</sup> Das kantonale Recht kann weitere Nutzungszonen vorsehen.
+<sup>1</sup> Das kantonale Recht unterscheidet verschiedene Arten von Bauzonen und kann weitere Nutzungszonen ausserhalb der Bauzonen vorsehen.[^18-1]
 
-<sup>2</sup> Es kann Vorschriften enthalten über Gebiete, deren Nutzung noch nicht bestimmt ist oder in denen eine bestimmte Nutzung erst später zugelassen wird.
+<sup>1bis</sup> In solchen Nutzungszonen ausserhalb der Bauzonen können Bauten oder Anlagen für standortgebundene Nutzungen sowie andere Bauten und Anlagen, die in einem funktionellen Zusammenhang mit der Hauptnutzung stehen, zugelassen werden. Die Zulassung erlischt für sämtliche Bauten und Anlagen bei Wegfall der Hauptnutzung.[^18-2]
+
+<sup>2</sup> Das kantonale Recht kann Vorschriften enthalten über Gebiete, deren Nutzung noch nicht bestimmt ist oder in denen eine bestimmte Nutzung erst später zugelassen wird.[^18-3]
 
 <sup>3</sup> Das Waldareal ist durch die Forstgesetzgebung umschrieben und geschützt.
+
+[^18-1]: Fassung gemäss Ziff. I des BG vom 29. Sept. 2023, in Kraft seit 1. Juli 2026 ([AS 2025 640](https://fedlex.data.admin.ch/eli/oc/2025/640); [BBl 2018 7443](https://fedlex.data.admin.ch/eli/fga/2018/2625)).
+[^18-2]: Eingefügt durch Ziff. I des BG vom 29. Sept. 2023, in Kraft seit 1. Juli 2026 ([AS 2025 640](https://fedlex.data.admin.ch/eli/oc/2025/640); [BBl 2018 7443](https://fedlex.data.admin.ch/eli/fga/2018/2625)).
+[^18-3]: Fassung gemäss Ziff. I des BG vom 29. Sept. 2023, in Kraft seit 1. Juli 2026 ([AS 2025 640](https://fedlex.data.admin.ch/eli/oc/2025/640); [BBl 2018 7443](https://fedlex.data.admin.ch/eli/fga/2018/2625)).
+
+#### Art. 18<sup>bis</sup>
+
+**Nichtbauzonen mit zu kompensierenden Nutzungen**[^18bis-1]
+
+<sup>1</sup>
+
+Werden gestützt auf Artikel 8*c* Nichtbauzonen für nicht standortgebundene Nutzungen ausgeschieden, so sind die Voraussetzungen zu schaffen, dass diese Nutzungen:
+
+- a. mit den erforderlichen Kompensations- und Aufwertungsmassnahmen verbunden werden; und
+- b. in der Summe zu einer Verbesserung der Gesamtsituation von Siedlungsstruktur, Landschaft, Baukultur, Kulturland und Biodiversität führen.
+
+<sup>2</sup> Keine Kompensations- oder Aufwertungsmassnahmen sind erforderlich, wenn nach geltendem Recht ausserhalb solcher Zonen eine Bewilligung erteilt werden könnte.
+
+<sup>3</sup> In Kleinsiedlungen sind innerhalb von Zonen nach diesem Artikel Bewilligungen von Umnutzungen und Nutzungserweiterungen ohne Kompensations- und Aufwertungsmassnahmen zugelassen.
+
+<sup>4</sup> Im Bewilligungsverfahren ist zu überprüfen und sicherzustellen, dass die Voraussetzungen nach Absatz 1 erfüllt sind.
+
+[^18bis-1]: Eingefügt durch Ziff. I des BG vom 29. Sept. 2023, in Kraft seit 1. Juli 2026 ([AS 2025 640](https://fedlex.data.admin.ch/eli/oc/2025/640); [BBl 2018 7443](https://fedlex.data.admin.ch/eli/fga/2018/2625)).
 
 #### Art. 18a
 
@@ -766,6 +848,20 @@ Bewilligungen nach diesem Artikel dürfen nur erteilt werden, wenn:[^24d-6]
 [^24e-1]: Eingefügt durch Ziff. I des BG vom 22. März 2013, in Kraft seit 1. Mai 2014 ([AS 2014 905](https://fedlex.data.admin.ch/eli/oc/2014/198); [BBl 2012 6589](https://fedlex.data.admin.ch/eli/fga/2012/960), [6607](https://fedlex.data.admin.ch/eli/fga/2012/962)).
 [^24e-2]: Eingefügt durch Ziff. I des BG vom 29. Sept. 2023, in Kraft seit 1. Jan. 2026 ([AS 2025 640](https://fedlex.data.admin.ch/eli/oc/2025/640); [BBl 2018 7443](https://fedlex.data.admin.ch/eli/fga/2018/2625)).
 
+### 2*b*. Abschnitt: Berichterstattung
+
+[^tit2-chap3-sec2b-1]
+
+[^tit2-chap3-sec2b-1]: Eingefügt durch Ziff. I des BG vom 29. Sept. 2023, in Kraft seit 1. Juli 2026 ([AS 2025 640](https://fedlex.data.admin.ch/eli/oc/2025/640); [BBl 2018 7443](https://fedlex.data.admin.ch/eli/fga/2018/2625)).
+
+#### Art. 24f
+
+<sup>1</sup> Die Kantone erstatten dem Bund periodisch Bericht über die Ausrichtung und Finanzierung der Abbruchprämien nach Artikel 5*a* Absätze 1 und 2.
+
+<sup>2</sup> Der Bundesrat erstattet dem Parlament periodisch Bericht über die Erreichung der Stabilisierungsziele nach Artikel 1 Absatz 2 Buchstaben b<sup>ter</sup> und b<sup>quater</sup> und nimmt dabei eine Beurteilung der Wirkung der massgebenden Bestimmungen vor.
+
+<sup>3</sup> Er unterbreitet im Bericht Vorschläge für mögliche Verbesserungen.
+
 ### 3. Abschnitt: Zuständigkeit und Verfahren
 
 #### Art. 25
@@ -778,14 +874,17 @@ Bewilligungen nach diesem Artikel dürfen nur erteilt werden, wenn:[^24d-6]
 
 <sup>2</sup> Die zuständige kantonale Behörde entscheidet bei allen Bauvorhaben ausserhalb der Bauzonen, ob sie zonenkonform sind oder ob für sie eine Ausnahmebewilligung erteilt werden kann.[^25-2]
 
-<sup>3 und <sup>4</sup></sup> ...[^25-3]
+<sup>3</sup> Sie stellt sicher, dass unbewilligte Nutzungen innert nützlicher Frist festgestellt und anschliessend sofort untersagt und unterbunden werden; Rückbauten zur Wiederherstellung des rechtmässigen Zustands sind ohne Verzug anzuordnen und zu vollziehen.[^25-3]
 
-<sup>5</sup> Der Anspruch auf Wiederherstellung des rechtmässigen Zustands verjährt nach 30 Jahren. Die Frist ist gewahrt, wenn die zuständige Behörde vor Ablauf der Frist erstmals einschreitet. Keine Verjährung tritt ein, wenn Polizeigüter, insbesondere die öffentliche Ordnung, Ruhe, Sicherheit oder Gesundheit, gefährdet sind.[^25-4]
+<sup>4</sup> Nur die zuständige kantonale Behörde kann gültig den ausnahmsweisen Verzicht auf die Wiederherstellung des rechtmässigen Zustandes beschliessen.[^25-4]
+
+<sup>5</sup> Der Anspruch auf Wiederherstellung des rechtmässigen Zustands verjährt nach 30 Jahren. Die Frist ist gewahrt, wenn die zuständige Behörde vor Ablauf der Frist erstmals einschreitet. Keine Verjährung tritt ein, wenn Polizeigüter, insbesondere die öffentliche Ordnung, Ruhe, Sicherheit oder Gesundheit, gefährdet sind.[^25-5]
 
 [^25-1]: Eingefügt durch Ziff. I des BG vom 6. Okt. 1995 ([AS 1996 965](https://fedlex.data.admin.ch/eli/oc/1996/965_965_965); [BBl 1994 III 1075](https://fedlex.data.admin.ch/eli/fga/1994/3_1075_1059_971)). Fassung gemäss Ziff. I des BG vom 20. März 1998, in Kraft seit 1. Sept. 2000 ([AS 2000 2042](https://fedlex.data.admin.ch/eli/oc/2000/309); [BBl 1996 III 513](https://fedlex.data.admin.ch/eli/fga/1996/3_513_485_457)).
 [^25-2]: Fassung gemäss Ziff. I des BG vom 20. März 1998, in Kraft seit 1. Sept. 2000 ([AS 2000 2042](https://fedlex.data.admin.ch/eli/oc/2000/309); [BBl 1996 III 513](https://fedlex.data.admin.ch/eli/fga/1996/3_513_485_457)).
-[^25-3]: Treten am 1. Juli 2026 in Kraft ([AS 2025 640](https://fedlex.data.admin.ch/eli/oc/2025/640); [BBl 2018 7443](https://fedlex.data.admin.ch/eli/fga/2018/2625)).
-[^25-4]: Eingefügt durch Ziff. I des BG vom 29. Sept. 2023, in Kraft seit 1. Jan. 2026 ([AS 2025 640](https://fedlex.data.admin.ch/eli/oc/2025/640); [BBl 2018 7443](https://fedlex.data.admin.ch/eli/fga/2018/2625)).
+[^25-3]: Eingefügt durch Ziff. I des BG vom 29. Sept. 2023, in Kraft seit 1. Juli 2026 ([AS 2025 640](https://fedlex.data.admin.ch/eli/oc/2025/640); [BBl 2018 7443](https://fedlex.data.admin.ch/eli/fga/2018/2625)).
+[^25-4]: Eingefügt durch Ziff. I des BG vom 29. Sept. 2023, in Kraft seit 1. Juli 2026 ([AS 2025 640](https://fedlex.data.admin.ch/eli/oc/2025/640); [BBl 2018 7443](https://fedlex.data.admin.ch/eli/fga/2018/2625)).
+[^25-5]: Eingefügt durch Ziff. I des BG vom 29. Sept. 2023, in Kraft seit 1. Jan. 2026 ([AS 2025 640](https://fedlex.data.admin.ch/eli/oc/2025/640); [BBl 2018 7443](https://fedlex.data.admin.ch/eli/fga/2018/2625)).
 
 #### Art. 25a
 
@@ -914,12 +1013,12 @@ Kantone und Gemeinden sind zur Beschwerde berechtigt gegen Entscheide letzter ka
 
 - a. Entschädigungen als Folge von Eigentumsbeschränkungen (Art. 5);
 - b. die Zonenkonformität von Bauten und Anlagen ausserhalb der Bauzonen;
-- c. Bewilligungen im Sinne der Artikel 24–24*d*[^34-2] und 37*a*.[^34-3]
+- c.[^34-2] Bewilligungen im Sinne der Artikel 24–24*e* und 37*a*.[^34-3]
 
 <sup>3</sup> Das Bundesamt für Landwirtschaft ist zur Beschwerde berechtigt gegen Entscheide über Vorhaben, die Fruchtfolgeflächen beanspruchen.[^34-4]
 
 [^34-1]: Fassung gemäss Anhang Ziff. 64 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, in Kraft seit 1. Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
-[^34-2]: Heute: Art. 24–24*e*.
+[^34-2]: Fassung gemäss Ziff. I des BG vom 29. Sept. 2023, in Kraft seit 1. Juli 2026 ([AS 2025 640](https://fedlex.data.admin.ch/eli/oc/2025/640); [BBl 2018 7443](https://fedlex.data.admin.ch/eli/fga/2018/2625)).
 [^34-3]: Fassung gemäss Ziff. I des BG vom 23. März 2007, in Kraft seit 1. Sept. 2007 ([AS 2007 3637](https://fedlex.data.admin.ch/eli/oc/2007/452); [BBl 2005 7097](https://fedlex.data.admin.ch/eli/fga/2005/1151)).
 [^34-4]: Eingefügt durch Anhang Ziff. 5 des BG vom 22. März 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646), [3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [BBl 2012 2075](https://fedlex.data.admin.ch/eli/fga/2012/356)).
 
@@ -969,19 +1068,18 @@ Die Kantone sorgen dafür, dass:
 
 **Zonenfremde gewerbliche Bauten und Anlagen ausserhalb von Bauzonen**[^37a-1]
 
-Der Bundesrat regelt, unter welchen Voraussetzungen Zweckänderungen gewerblich genutzter Bauten und Anlagen zulässig sind, die vor dem 1. Januar 1980 erstellt wurden oder seither als Folge von Änderungen der Nutzungspläne zonenwidrig geworden sind.
+<sup>1</sup> Der Bundesrat regelt, unter welchen Voraussetzungen Zweckänderungen gewerblich genutzter Bauten und Anlagen zulässig sind, die vor dem 1. Januar 1980 erstellt wurden oder seither als Folge von Änderungen der Nutzungspläne zonenwidrig geworden sind.
+
+<sup>2</sup> Er legt fest, unter welchen Voraussetzungen altrechtliche Gast- und Beherbergungsbetriebe ausserhalb der Bauzonen zudem abgerissen und wieder aufgebaut werden können und in welchem Ausmass dabei betriebliche Erweiterungen zulässig sind. Er regelt zudem, unter welchen Voraussetzungen gewerbliche Bauten und Anlagen, die andernorts in der gleichen Geländekammer beseitigt werden, zu zusätzlichen Erweiterungen des Betriebs berechtigen.[^37a-2]
 
 [^37a-1]: Eingefügt durch Ziff. I des BG vom 20. März 1998, in Kraft seit 1. Sept. 2000 ([AS 2000 2042](https://fedlex.data.admin.ch/eli/oc/2000/309); [BBl 1996 III 513](https://fedlex.data.admin.ch/eli/fga/1996/3_513_485_457)).
+[^37a-2]: Eingefügt durch Ziff. I des BG vom 29. Sept. 2023, in Kraft seit 1. Juli 2026 ([AS 2025 640](https://fedlex.data.admin.ch/eli/oc/2025/640); [BBl 2018 7443](https://fedlex.data.admin.ch/eli/fga/2018/2625)).
 
 #### Art. 38
 
-**Übergangsbestimmung der Änderung vom 17. Dezember 2010**[^38-1]
+[^38-1]
 
-<sup>1</sup> Die betroffenen Kantone passen ihre Richtpläne innerhalb einer Frist von drei Jahren nach dem Inkrafttreten dieser Änderung an deren Anforderungen an und sorgen dafür, dass die betroffenen Gemeinden innerhalb der gleichen Frist geeignete Massnahmen treffen, insbesondere die Festlegung jährlicher Kontingente, die Festlegung von Erstwohnanteilen, die Ausscheidung spezieller Nutzungszonen oder die Erhebung von Lenkungsabgaben.
-
-<sup>2</sup> Nach Ablauf dieser Frist dürfen so lange keine Zweitwohnungen bewilligt werden, bis die Kantone und Gemeinden die nötigen Vorkehrungen getroffen haben.
-
-[^38-1]: [AS 2011 2913](https://fedlex.data.admin.ch/eli/oc/2011/377); [BBl 2007 5765](https://fedlex.data.admin.ch/eli/fga/2007/793). Fassung gemäss Ziff. I des BG vom 15. Juni 2012, in Kraft seit 1. Mai 2014 ([AS 2014 899](https://fedlex.data.admin.ch/eli/oc/2014/197); [BBl 2010 1049](https://fedlex.data.admin.ch/eli/fga/2010/186)).
+[^38-1]: Aufgehoben durch Ziff. I des BG vom 29. Sept. 2023, mit Wirkung seit 1. Juli 2026 ([AS 2025 640](https://fedlex.data.admin.ch/eli/oc/2025/640); [BBl 2018 7443](https://fedlex.data.admin.ch/eli/fga/2018/2625)).
 
 #### Art. 38a
 
@@ -998,6 +1096,28 @@ Der Bundesrat regelt, unter welchen Voraussetzungen Zweckänderungen gewerblich 
 <sup>5</sup> Nach Ablauf der Frist von Absatz 4 ist die Ausscheidung neuer Bauzonen unzulässig, solange der betreffende Kanton nicht über einen angemessenen Ausgleich nach den Anforderungen von Artikel 5 verfügt. Der Bundesrat bezeichnet nach Anhörung diese Kantone.
 
 [^38a-1]: Eingefügt durch Ziff. I des BG vom 15. Juni 2012, in Kraft seit 1. Mai 2014 ([AS 2014 899](https://fedlex.data.admin.ch/eli/oc/2014/197); [BBl 2010 1049](https://fedlex.data.admin.ch/eli/fga/2010/186)).
+
+#### Art. 38b
+
+**Übergangsbestimmung zur Änderung vom 29. September 2023**[^38b-1]
+
+<sup>1</sup> Die Kantone passen innert fünf Jahren nach Inkrafttreten der Änderung vom 29. September 2023 ihre Richtpläne an die Anforderungen von Artikel 8*d* an.
+
+<sup>2</sup> Voraussetzung für eine Genehmigung von Richtplanänderungen gemäss den Artikeln 8*c* und 18<sup>bis</sup> ist eine Richtplanänderung gemäss Artikel 8*d*, die vorgängig oder gleichzeitig vorgenommen werden kann.
+
+<sup>3</sup> Nach Ablauf der Frist nach Absatz 1 ist im betreffenden Kanton jedes weitere neue Gebäude ausserhalb der Bauzone bis zum Vorliegen der Genehmigung kompensationspflichtig.
+
+<sup>4</sup> Bereits bewilligte Gebäude können ohne Kompensation, während einer nicht verlängerbaren Frist von drei Jahren nach Ablauf der Frist nach Absatz 1 weiterhin errichtet werden.
+
+[^38b-1]: Eingefügt durch Ziff. I des BG vom 29. Sept. 2023, in Kraft seit 1. Juli 2026 ([AS 2025 640](https://fedlex.data.admin.ch/eli/oc/2025/640); [BBl 2018 7443](https://fedlex.data.admin.ch/eli/fga/2018/2625)).
+
+#### Art. 38c
+
+**Erstmalige Erarbeitung von Richtplangrundlagen zu den Zielen nach Artikel 1 Absatz 2 Buchstaben b<sup>ter</sup> und b<sup>quater</sup>**[^38c-1]
+
+Bei den erstmaligen Darlegungen über die Anzahl Gebäude ausserhalb der Bauzonen und über die Bodenversiegelung in der ganzjährig bewirtschafteten Landwirtschaftszone nach Artikel 16, soweit sie nicht landwirtschaftlich bedingt ist, im Sinne der Grundlagen nach Artikel 6 Absatz 3 Buchstaben d und e, können die Ausführungen über die bisherige Entwicklung skizzenhaft bleiben.
+
+[^38c-1]: Eingefügt durch Ziff. I des BG vom 29. Sept. 2023, in Kraft seit 1. Juli 2026 ([AS 2025 640](https://fedlex.data.admin.ch/eli/oc/2025/640); [BBl 2018 7443](https://fedlex.data.admin.ch/eli/fga/2018/2625)).
 
 #### Art. 39
 

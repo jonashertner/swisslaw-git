@@ -4,11 +4,11 @@ title: "Federal Act of 22 June 1979 on Spatial Planning (Spatial Planning Act, S
 short: SPA
 eli: "https://fedlex.data.admin.ch/eli/cc/1979/1573_1573_1573"
 language: en
-version: 2026-04-01
+version: 2026-07-01
 adopted: 1979-06-22
 in_force: 1980-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1573_1573_1573/20260401/en/xml/fedlex-data-admin-ch-eli-cc-1979-1573_1573_1573-20260401-en-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/20260401/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1573_1573_1573/20260701/en/xml/fedlex-data-admin-ch-eli-cc-1979-1573_1573_1573-20260701-en-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/20260701/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,19 +19,19 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Spatial Planning Act, SPA)[^t-1]
 
-of 22 June 1979 (Last amended on 1 April 2026)
+of 22 June 1979 (Last amended on 1 July 2026)
 
 [^t-1]: Amended by No 1 of the FA of 6 Oct. 1995, in force since 1 Jan. 1997 ([AS 1996 965](https://fedlex.data.admin.ch/eli/oc/1996/965_965_965); [BBl 1994 III 1075](https://fedlex.data.admin.ch/eli/fga/1994/3_1075_1059_971)).
 
 The Federal Assembly of the Swiss Confederation,
 
-on the basis of Articles 22<sup>quater</sup> and 34<sup>sexies</sup> of the Federal Constitution[^ingress-1],[^ingress-2] and having considered the Federal Council dispatch dated 27 February 1978[^ingress-3]
+on the basis of Articles 75, 104*a* and 108 of the Federal Constitution[^ingress-1],[^ingress-2] and having considered the Federal Council dispatch dated 27 February 1978[^ingress-3],
 
 decrees:
 
-[^ingress-1]: [[AS 1969 1249](https://fedlex.data.admin.ch/eli/oc/1969/1249_1265_1267), [1972 1481](https://fedlex.data.admin.ch/eli/oc/1972/1481_1509_1681)]. The said provisions correspond today to Art. 41, 75, 108 and 147 of the Federal Constitution of 18 April 1999 ([SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)).
-[^ingress-2]: Amended by No 1 of the FA of 6 Oct. 1995, in force since 1 Jan. 1997 ([AS 1996 965](https://fedlex.data.admin.ch/eli/oc/1996/965_965_965); [BBl 1994 III 1075](https://fedlex.data.admin.ch/eli/fga/1994/3_1075_1059_971)).
-[^ingress-3]: BBl **1978** I1006
+[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
+[^ingress-2]: Amended by No I of the FA of 29 Sept. 2023, in force since 1 July 2026 ([AS 2025 640](https://fedlex.data.admin.ch/eli/oc/2025/640); [BBl 2018 7443](https://fedlex.data.admin.ch/eli/fga/2018/2625)).
+[^ingress-3]: [BBl 1978 I 1006](https://fedlex.data.admin.ch/eli/fga/1978/1_1006_1007_959)
 
 ## Title 1 Introduction
 
@@ -49,16 +49,20 @@ By means of spatial and regional planning measures, they shall in particular sup
 - a<sup>bis</sup>.[^1-2] promote inward settlement development, while ensuring an appropriate quality of housing;
 - b.[^1-3] create compact settlements;
 - b<sup>bis</sup>.[^1-4] create and maintain the regional requirements for the economy;
+- b<sup>ter</sup>.[^1-5] stabilise the number of buildings in areas where building is not permitted;
+- b<sup>quater</sup>.[^1-6] stabilise soil sealing in agricultural zones cultivated year-round as defined in Article 16, in so far as such sealing is not caused by agricultural or tourism-related activities;
 - c. encourage social, economic and cultural life in the various regions of the country, and promote appropriate decentralisation of settlement and economic activities;
 - d. guarantee the basis for the provision of sufficient food supplies for the country;
 - e. ensure the general defence of the country;
-- f.[^1-5] promote the integration of foreigners and social cohesion.
+- f.[^1-7] promote the integration of foreigners and social cohesion.
 
 [^1-1]: Amended by No I of the FA of 15 June 2012, in force since 1 May 2014 ([AS 2014 899](https://fedlex.data.admin.ch/eli/oc/2014/197); [BBl 2010 1049](https://fedlex.data.admin.ch/eli/fga/2010/186)).
 [^1-2]: Inserted by No I of the FA of 15 June 2012, in force since 1 May 2014 ([AS 2014 899](https://fedlex.data.admin.ch/eli/oc/2014/197); [BBl 2010 1049](https://fedlex.data.admin.ch/eli/fga/2010/186)).
 [^1-3]: Amended by No I of the FA of 15 June 2012, in force since 1 May 2014 ([AS 2014 899](https://fedlex.data.admin.ch/eli/oc/2014/197); [BBl 2010 1049](https://fedlex.data.admin.ch/eli/fga/2010/186)).
 [^1-4]: Inserted by No I of the FA of 15 June 2012, in force since 1 May 2014 ([AS 2014 899](https://fedlex.data.admin.ch/eli/oc/2014/197); [BBl 2010 1049](https://fedlex.data.admin.ch/eli/fga/2010/186)).
-[^1-5]: Inserted by Annex No III of the FA of 16 Dec. 2016 (Integration), in force since 1 Jan. 2019 ([AS 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718), [2018 3171](https://fedlex.data.admin.ch/eli/oc/2018/509); [BBl 2013 2397](https://fedlex.data.admin.ch/eli/fga/2013/416), [2016 2821](https://fedlex.data.admin.ch/eli/fga/2016/524)).
+[^1-5]: Inserted by No I of the FA of 29 Sept. 2023, in force since 1 July 2026 ([AS 2025 640](https://fedlex.data.admin.ch/eli/oc/2025/640); [BBl 2018 7443](https://fedlex.data.admin.ch/eli/fga/2018/2625)).
+[^1-6]: Inserted by No I of the FA of 29 Sept. 2023, in force since 1 July 2026 ([AS 2025 640](https://fedlex.data.admin.ch/eli/oc/2025/640); [BBl 2018 7443](https://fedlex.data.admin.ch/eli/fga/2018/2625)).
+[^1-7]: Inserted by Annex No III of the FA of 16 Dec. 2016 (Integration), in force since 1 Jan. 2019 ([AS 2017 6521](https://fedlex.data.admin.ch/eli/oc/2017/718), [2018 3171](https://fedlex.data.admin.ch/eli/oc/2018/509); [BBl 2013 2397](https://fedlex.data.admin.ch/eli/fga/2013/416), [2016 2821](https://fedlex.data.admin.ch/eli/fga/2016/524)).
 
 #### Art. 2
 
@@ -154,6 +158,18 @@ Cantonal law may waive the charging of compensation if:
 [^5-5]: Inserted by No I of the FA of 15 June 2012, in force since 1 May 2014 ([AS 2014 899](https://fedlex.data.admin.ch/eli/oc/2014/197); [BBl 2010 1049](https://fedlex.data.admin.ch/eli/fga/2010/186)).
 [^5-6]: Inserted by No I of the FA of 15 June 2012, in force since 1 May 2014 ([AS 2014 899](https://fedlex.data.admin.ch/eli/oc/2014/197); [BBl 2010 1049](https://fedlex.data.admin.ch/eli/fga/2010/186)).
 
+#### Art. 5a
+
+**Demolition premium**[^5a-1]
+
+<sup>1</sup> Owners of buildings and installations situated outside the building zones shall, if they are demolished, receive a demolition premium equal to the demolition costs, excluding any expenses for the disposal of special waste or the remediation of contaminated sites, unless there is a separate statutory obligation to bear the costs of disposal. In the event of the removal of buildings and installations not used for agricultural or tourism purposes, the demolition premium shall only be paid if no replacement building is constructed.
+
+<sup>2</sup> The cantons shall finance the demolition premium primarily from the proceeds of the compensation under Article 5 paragraph 1, and additionally from general financial resources.
+
+<sup>3</sup> The Confederation may make contributions towards the cantons’ expenditure. The Federal Council shall specify the details, taking account of the cantons’ differing circumstances, particularly the revenue generated by the added-value levy.
+
+[^5a-1]: Inserted by No I of the FA of 29 Sept. 2023, in force since 1 July 2026 ([AS 2025 640](https://fedlex.data.admin.ch/eli/oc/2025/640); [BBl 2018 7443](https://fedlex.data.admin.ch/eli/fga/2018/2625)).
+
 ## Title 2 Spatial and Regional Planning Measures
 
 ### Chapter 1 Cantonal Structure Plans
@@ -181,9 +197,11 @@ In the guidelines, they shall also provide information on the current condition 
 - b.[^6-6] transport;
 - b<sup>bis</sup>.[^6-7] provision of public utilities, in particular electricity from renewable energies;
 - b<sup>ter</sup>.[^6-8] public buildings and installations;
-- c.[^6-9] their arable land.
+- c.[^6-9] their arable land;
+- d.[^6-10] the number of buildings situated outside building zones;
+- e.[^6-11] soil sealing in agricultural zones cultivated year-round as defined in Article 16, in so far as such sealing is not caused by agricultural or tourism-related activities.
 
-<sup>4</sup> They shall take account of federal strategies and sectoral plans, the structure plans of neighbouring cantons and other regional development policies and plans.
+<sup>4</sup> In particular, they shall take account of federal policies and sectoral plans, the structure plans of neighbouring cantons, federal inventories, and other regional development policies and plans in accordance with their binding nature.[^6-12]
 
 [^6-1]: Repealed by No I of the FA of 15 June 2012, with effect from 1 May 2014 ([AS 2014 899](https://fedlex.data.admin.ch/eli/oc/2014/197); [BBl 2010 1049](https://fedlex.data.admin.ch/eli/fga/2010/186)).
 [^6-2]: Amended by No I of the FA of 15 June 2012, in force since 1 May 2014 ([AS 2014 899](https://fedlex.data.admin.ch/eli/oc/2014/197); [BBl 2010 1049](https://fedlex.data.admin.ch/eli/fga/2010/186)).
@@ -194,6 +212,9 @@ In the guidelines, they shall also provide information on the current condition 
 [^6-7]: Inserted by Annex No II 5 of the Energy Act of 30 Sept. 2016, in force since 1 Jan. 2018 ([AS 2017 6839](https://fedlex.data.admin.ch/eli/oc/2017/762); [BBl 2013 7561](https://fedlex.data.admin.ch/eli/fga/2013/1476)).
 [^6-8]: Inserted by Annex No II 5 of the Energy Act of 30 Sept. 2016, in force since 1 Jan. 2018 ([AS 2017 6839](https://fedlex.data.admin.ch/eli/oc/2017/762); [BBl 2013 7561](https://fedlex.data.admin.ch/eli/fga/2013/1476)).
 [^6-9]: Inserted by No I of the FA of 15 June 2012, in force since 1 May 2014 ([AS 2014 899](https://fedlex.data.admin.ch/eli/oc/2014/197); [BBl 2010 1049](https://fedlex.data.admin.ch/eli/fga/2010/186)).
+[^6-10]: Inserted by No I of the FA of 29 Sept. 2023, in force since 1 July 2026 ([AS 2025 640](https://fedlex.data.admin.ch/eli/oc/2025/640); [BBl 2018 7443](https://fedlex.data.admin.ch/eli/fga/2018/2625)).
+[^6-11]: Inserted by No I of the FA of 29 Sept. 2023, in force since 1 July 2026 ([AS 2025 640](https://fedlex.data.admin.ch/eli/oc/2025/640); [BBl 2018 7443](https://fedlex.data.admin.ch/eli/fga/2018/2625)).
+[^6-12]: Amended by No I of the FA of 29 Sept. 2023, in force since 1 July 2026 ([AS 2025 640](https://fedlex.data.admin.ch/eli/oc/2025/640); [BBl 2018 7443](https://fedlex.data.admin.ch/eli/fga/2018/2625)).
 
 #### Art. 7
 
@@ -252,6 +273,42 @@ The structure plan shall define the following in relation to settlements:
 The structure plan shall designate suitable areas and stretches of water that may be used to generate renewable energies.
 
 [^8b-1]: Inserted by Annex No II 5 of the Energy Act of 30 Sept. 2016, in force since 1 Jan. 2018 ([AS 2017 6839](https://fedlex.data.admin.ch/eli/oc/2017/762); [BBl 2013 7561](https://fedlex.data.admin.ch/eli/fga/2013/1476)).
+
+#### Art. 8c
+
+**Structure plan content in relation to zones defined in Article 18<sup>bis</sup>**[^8c-1]
+
+<sup>1</sup>
+
+The cantons may designate specific areas in the structure plan in which, based on an overall spatial concept, zones under Article 18<sup>bis</sup> with uses subject to compensation are permitted outside building zones if:
+
+- a. the creation of such zones leads to an improvement in the overall situation in the area concerned, having regard to the objectives and principles of spatial planning; and
+- b. planning mandates are issued requiring the necessary compensation and enhancement measures to be provided for in land use planning.
+
+<sup>2</sup> Taking account of the principles set out in paragraph 1, the cantons may designate specific areas in their structure plan in which they provide for agricultural buildings that are no longer required to be converted to residential use.
+
+<sup>3</sup>
+
+As a minimum, the structure plan must specify:
+
+- a. the improvement in the overall situation that will be achieved by creating such zones, the specific overarching objectives to be pursued thereby and the reasons for these;
+- b. how the overall spatial concept is to be implemented in practice in the land use planning process for the area in question.
+
+[^8c-1]: Inserted by No I of the FA of 29 Sept. 2023, in force since 1 July 2026 ([AS 2025 640](https://fedlex.data.admin.ch/eli/oc/2025/640); [BBl 2018 7443](https://fedlex.data.admin.ch/eli/fga/2018/2625)).
+
+#### Art. 8d
+
+**Structure plan content in relation to the stabilisation objective in areas where building is not permitted**[^8d-1]
+
+<sup>1</sup> The cantons shall specify in their structure plan an overall concept for achieving the stabilisation objectives set out in Article 1 paragraph 2 letters b<sup>ter</sup> and b<sup>quater</sup> and shall issue the corresponding mandates, particularly with regard to the payment and financing of demolition premiums under Article 5*a* paragraph 1. A comparison with the situation as at 29 September 2023 shall be used to determine whether the objectives have been achieved.
+
+<sup>2</sup> When assessing whether the objective under Article 1 paragraph 2 letter b<sup>ter</sup> has been achieved, protected buildings and buildings assigned to a building zone after 29 September 2023 shall not be included. When assessing whether the objective under Article 1 paragraph 2 letter b<sup>quater</sup> has been achieved, soil sealing caused by energy installations or cantonal or national transport infrastructure shall not be included.
+
+<sup>3</sup> The achievement of the stabilisation objectives under Article 1 paragraph 2 letters b<sup>ter</sup> and b<sup>quater</sup> must be reviewed periodically, and the structure plan content under paragraph 1 must be amended if necessary.
+
+<sup>4</sup> If the review reveals that the stabilisation objectives have not been achieved, the Federal Council shall order that Article 38*b* be applied *mutatis mutandis*.
+
+[^8d-1]: Inserted by No I of the FA of 29 Sept. 2023, in force since 1 July 2026 ([AS 2025 640](https://fedlex.data.admin.ch/eli/oc/2025/640); [BBl 2018 7443](https://fedlex.data.admin.ch/eli/fga/2018/2625)).
 
 #### Art. 9
 
@@ -446,11 +503,36 @@ Protection zones shall include:
 
 **Other zones and areas**
 
-<sup>1</sup> Cantonal legislation may provide for other land use zones.
+<sup>1</sup> Cantonal law divides building zones into different types and may provide for other land use zones situated outside the building zones.[^18-1]
 
-<sup>2</sup> It may contain regulations concerning areas for which no use has yet been determined or for which a specific use will be permitted only at a later date.
+<sup>1bis</sup> In such land use zones situated outside the building zones, buildings or installations for site-specific uses and other buildings and installations that are functionally related to the main use may be permitted. Permission for all buildings and installations shall lapse if the main use ceases.[^18-2]
+
+<sup>2</sup> Cantonal law may contain provisions regarding areas whose use is not yet specified or in which a specific use will only be permitted at a later date.[^18-3]
 
 <sup>3</sup> Forested areas shall be defined and protected by forestry legislation.
+
+[^18-1]: Amended by No I of the FA of 29 Sept. 2023, in force since 1 July 2026 ([AS 2025 640](https://fedlex.data.admin.ch/eli/oc/2025/640); [BBl 2018 7443](https://fedlex.data.admin.ch/eli/fga/2018/2625)).
+[^18-2]: Inserted by No I of the FA of 29 Sept. 2023, in force since 1 July 2026 ([AS 2025 640](https://fedlex.data.admin.ch/eli/oc/2025/640); [BBl 2018 7443](https://fedlex.data.admin.ch/eli/fga/2018/2625)).
+[^18-3]: Amended by No I of the FA of 29 Sept. 2023, in force since 1 July 2026 ([AS 2025 640](https://fedlex.data.admin.ch/eli/oc/2025/640); [BBl 2018 7443](https://fedlex.data.admin.ch/eli/fga/2018/2625)).
+
+#### Art. 18<sup>bis</sup>
+
+**Non-building zones with uses subject to compensation**[^18bis-1]
+
+<sup>1</sup>
+
+Where, based on Article 8*c*, non-building zones are created for non-site-specific uses, the conditions must be established to ensure that these uses:
+
+- a. are accompanied by the necessary compensation and enhancement measures; and
+- b. lead, on balance, to an improvement in the overall situation regarding settlement structure, landscape, *Baukultur*, arable land and biodiversity.
+
+<sup>2</sup> No compensation or enhancement measures are required if, under current law, a permit could be issued outside such zones.
+
+<sup>3</sup> In small settlements, conversions and extensions of use shall be permitted in zones covered by this Article without being subject to compensation and enhancement measures.
+
+<sup>4</sup> When deciding on an application for a permit, it must be verified and ensured that the conditions set out in paragraph 1 are met.
+
+[^18bis-1]: Inserted by No I of the FA of 29 Sept. 2023, in force since 1 July 2026 ([AS 2025 640](https://fedlex.data.admin.ch/eli/oc/2025/640); [BBl 2018 7443](https://fedlex.data.admin.ch/eli/fga/2018/2625)).
 
 #### Art. 18a
 
@@ -768,6 +850,20 @@ Permits under this Article may be issued only if:[^24d-6]
 [^24e-1]: Inserted by No I of the FA of 22 March 2013, in force since 1 May 2014 ([AS 2014 905](https://fedlex.data.admin.ch/eli/oc/2014/198); [BBl 2012 6589](https://fedlex.data.admin.ch/eli/fga/2012/960)[6607](https://fedlex.data.admin.ch/eli/fga/2012/962)).
 [^24e-2]: Inserted by No I of the FA of 29 Sept. 2023, in force since 1 Jan. 2026 ([AS 2025 640](https://fedlex.data.admin.ch/eli/oc/2025/640); [BBl 2018 7443](https://fedlex.data.admin.ch/eli/fga/2018/2625)).
 
+### Section 2*b* Reporting
+
+[^tit2-chap3-sec2b-1]
+
+[^tit2-chap3-sec2b-1]: Inserted by No I of the FA of 29 Sept. 2023, in force since 1 July 2026 ([AS 2025 640](https://fedlex.data.admin.ch/eli/oc/2025/640); [BBl 2018 7443](https://fedlex.data.admin.ch/eli/fga/2018/2625)).
+
+#### Art. 24f
+
+<sup>1</sup> The cantons shall provide the Confederation with periodic reports on the payment and financing of the demolition premiums set out in Article 5*a* paragraphs 1 and 2.
+
+<sup>2</sup> The Federal Council shall provide Parliament with periodic reports on the achievement of the stabilisation objectives set out in Article 1 paragraph 2 letters b<sup>ter</sup> and b<sup>quater</sup> and, in doing so, shall assess the impact of the relevant provisions.
+
+<sup>3</sup> In the reports, the Federal Council shall put forward proposals for possible improvements.
+
 ### Section 3 Responsibilities and Procedures
 
 #### Art. 25
@@ -780,14 +876,17 @@ Permits under this Article may be issued only if:[^24d-6]
 
 <sup>2</sup> In the case of any building projects outside the building zones the competent cantonal authority shall decide if they meet zone requirements or if an exceptional permit may be issued.[^25-2]
 
-<sup>3 and <sup>4</sup></sup> ...[^25-3]
+<sup>3</sup> It shall ensure that unauthorised uses are identified within a reasonable time frame and are then immediately prohibited and stopped; removal work to restore the lawful state shall be ordered and carried out without delay.[^25-3]
 
-<sup>5</sup> The right to restore to the lawful state is subject to a 30-year statute of limitations. The time limit is deemed to have been met if the competent authority takes action for the first time before expiry of the time limit. No statute of limitations applies if public interests, in particular public order, peace, safety and security or health, are at risk.[^25-4]
+<sup>4</sup> Only the competent cantonal authority may validly decide, by way of exception, to waive the restoration of the lawful state.[^25-4]
+
+<sup>5</sup> The right to restore to the lawful state is subject to a 30-year statute of limitations. The time limit is deemed to have been met if the competent authority takes action for the first time before expiry of the time limit. No statute of limitations applies if public interests, in particular public order, peace, safety and security or health, are at risk.[^25-5]
 
 [^25-1]: Inserted by No I of the FA of 6 Oct. 1995 ([AS 1996 965](https://fedlex.data.admin.ch/eli/oc/1996/965_965_965); [BBl 1994 III 1075](https://fedlex.data.admin.ch/eli/fga/1994/3_1075_1059_971)). Amended by No I of the FA of 20 March 1998, in force since 1 Sept. 2000 ([AS 2000 2042](https://fedlex.data.admin.ch/eli/oc/2000/309); [BBl 1996 III 513](https://fedlex.data.admin.ch/eli/fga/1996/3_513_485_457)).
 [^25-2]: Amended by No I of the FA of 20 March 1998, in force since 1 Sept. 2000 ([AS 2000 2042](https://fedlex.data.admin.ch/eli/oc/2000/309); [BBl 1996 III 513](https://fedlex.data.admin.ch/eli/fga/1996/3_513_485_457)).
-[^25-3]: Come into force on 1 July 2026 ([AS 2025 640](https://fedlex.data.admin.ch/eli/oc/2025/640); [BBl 2018 7443](https://fedlex.data.admin.ch/eli/fga/2018/2625)).
-[^25-4]: Inserted by No I of the FA of 29 Sept. 2023, in force since 1 Jan. 2026 ([AS 2025 640](https://fedlex.data.admin.ch/eli/oc/2025/640); [BBl 2018 7443](https://fedlex.data.admin.ch/eli/fga/2018/2625)).
+[^25-3]: Inserted by No I of the FA of 29 Sept. 2023, in force since 1 July 2026 ([AS 2025 640](https://fedlex.data.admin.ch/eli/oc/2025/640); [BBl 2018 7443](https://fedlex.data.admin.ch/eli/fga/2018/2625)).
+[^25-4]: Inserted by No I of the FA of 29 Sept. 2023, in force since 1 July 2026 ([AS 2025 640](https://fedlex.data.admin.ch/eli/oc/2025/640); [BBl 2018 7443](https://fedlex.data.admin.ch/eli/fga/2018/2625)).
+[^25-5]: Inserted by No I of the FA of 29 Sept. 2023, in force since 1 Jan. 2026 ([AS 2025 640](https://fedlex.data.admin.ch/eli/oc/2025/640); [BBl 2018 7443](https://fedlex.data.admin.ch/eli/fga/2018/2625)).
 
 #### Art. 25a
 
@@ -916,12 +1015,12 @@ Cantons and communes are entitled to appeal against decisions made by ultimate c
 
 - a. compensation resulting from restrictions of title (Art. 5);
 - b. the conformity of buildings and installations to zone regulations;
-- c. permits in accordance with Articles 24–24*d*[^34-2] and 37*a*.[^34-3]
+- c[^34-2] permits as defined in Articles 24–24*e* and Article 37*a*.[^34-3]
 
 <sup>3</sup> The Federal Office for Agriculture has the right to appeal against decisions on projects that affect crop rotation areas.[^34-4]
 
 [^34-1]: Amended by Annex No 64 of the Administrative Court Act of 17 June 2005, in force since 1 Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
-[^34-2]: Now Arts 24–24*e*.
+[^34-2]: Amended by No I of the FA of 29 Sept. 2023, in force since 1 July 2026 ([AS 2025 640](https://fedlex.data.admin.ch/eli/oc/2025/640); [BBl 2018 7443](https://fedlex.data.admin.ch/eli/fga/2018/2625)).
 [^34-3]: Amended by No I of the FA of 23 March 2007, in force since 1 Sept. 2007 ([AS 2007 3637](https://fedlex.data.admin.ch/eli/oc/2007/452); [BBl 2005 7097](https://fedlex.data.admin.ch/eli/fga/2005/1151)).
 [^34-4]: Inserted by Annex No 5 of the FA of 22 March 2013, in force since 1 Jan. 2014 ([AS 2013 3463](https://fedlex.data.admin.ch/eli/oc/2013/646)[3863](https://fedlex.data.admin.ch/eli/oc/2013/710); [BBl 2012 2075](https://fedlex.data.admin.ch/eli/fga/2012/356)).
 
@@ -971,19 +1070,18 @@ The cantons shall ensure that:
 
 **Commercial buildings and installations that contravene zone requirements outside building zones**[^37a-1]
 
-The Federal Council shall determine the conditions under which a change of purpose may be permitted to commercial buildings and installations built before 1 January 1980 or which subsequently come to contravene zone requirements as a result of changes in the land use plans.
+<sup>1</sup> The Federal Council shall determine the conditions under which a change of purpose may be permitted to commercially used buildings and installations constructed before 1 January 1980 or which have since failed to meet zone requirements as a result of changes to the land use plans.
+
+<sup>2</sup> It shall specify the conditions under which restaurants and accommodation businesses subject to the previous law and situated outside the building zones may also be demolished and rebuilt, and the extent to which operational expansions are permitted in this context. It shall also determine the conditions under which the demolition of commercial buildings and installations that are located elsewhere in the same terrain compartment confer an entitlement to additional expansions of the business.[^37a-2]
 
 [^37a-1]: Inserted by No I of the FA of 20 March 1998, in force since 1 Sept. 2000 ([AS 2000 2042](https://fedlex.data.admin.ch/eli/oc/2000/309); [BBl 1996 III 513](https://fedlex.data.admin.ch/eli/fga/1996/3_513_485_457)).
+[^37a-2]: Inserted by No I of the FA of 29 Sept. 2023, in force since 1 July 2026 ([AS 2025 640](https://fedlex.data.admin.ch/eli/oc/2025/640); [BBl 2018 7443](https://fedlex.data.admin.ch/eli/fga/2018/2625)).
 
 #### Art. 38
 
-**Transitional Provision to the Amendment of 17 December 2010**[^38-1]
+[^38-1]
 
-<sup>1</sup> The cantons concerned shall amend their structure plans to the requirements within three years of this Amendment coming into force and ensure that the communes concerned take suitable measures within the same period, in particular setting annual quotas, setting minimum limits for primary dwellings, delimiting special land use zones or levying incentive taxes.
-
-<sup>2</sup> On expiry of this period, no second homes may be authorised until the cantons have made the required arrangements.
-
-[^38-1]: [AS 2011 2913](https://fedlex.data.admin.ch/eli/oc/2011/377); [BBl 2007 5765](https://fedlex.data.admin.ch/eli/fga/2007/793). Amended by No I of the FA of 15 June 2012, in force since 1 May 2014 ([AS 2014 899](https://fedlex.data.admin.ch/eli/oc/2014/197); [BBl 2010 1049](https://fedlex.data.admin.ch/eli/fga/2010/186)).
+[^38-1]: Repealed by No I of the FA of 29 Sept. 2023, with effect from 1 July 2026 ([AS 2025 640](https://fedlex.data.admin.ch/eli/oc/2025/640); [BBl 2018 7443](https://fedlex.data.admin.ch/eli/fga/2018/2625)).
 
 #### Art. 38a
 
@@ -1000,6 +1098,28 @@ The Federal Council shall determine the conditions under which a change of purpo
 <sup>5</sup> On expiry of the deadline set in paragraph 4, new building zones may not be created in cantons unless they have appropriate compensation procedures in accordance with the requirements of Article 5. The Federal Council determines these cantons following a hearing.
 
 [^38a-1]: Inserted by No I of the FA of 15 June 2012, in force since 1 May 2014 ([AS 2014 899](https://fedlex.data.admin.ch/eli/oc/2014/197); [BBl 2010 1049](https://fedlex.data.admin.ch/eli/fga/2010/186)).
+
+#### Art. 38b
+
+**Transitional provision to the Amendment of 29 September 2023**[^38b-1]
+
+<sup>1</sup> The cantons shall bring their structure plans into line with the requirements of Article 8*d* within five years of the amendment of 29 September 2023 coming into force.
+
+<sup>2</sup> The approval of structure plan amendments in accordance with Articles 8*c* and 18<sup>bis</sup> shall be conditional upon a structure plan amendment in accordance with Article 8*d*, which may be carried out in advance or concurrently.
+
+<sup>3</sup> Once the period specified in paragraph 1 has expired, any additional new buildings outside the building zone in the canton concerned shall be subject to compensation until approval has been granted.
+
+<sup>4</sup> Buildings that have already been granted a permit may continue to be constructed without the need for compensation for a non-extendable period of three years following expiry of the period specified in paragraph 1.
+
+[^38b-1]: Inserted by No I of the FA of 29 Sept. 2023, in force since 1 July 2026 ([AS 2025 640](https://fedlex.data.admin.ch/eli/oc/2025/640); [BBl 2018 7443](https://fedlex.data.admin.ch/eli/fga/2018/2625)).
+
+#### Art. 38c
+
+**Initial preparation of structure plan guidelines relating to the objectives set out in Article 1 paragraph 2 letters b<sup>ter</sup> and b<sup>quater</sup>**[^38c-1]
+
+Where initial information on the number of buildings outside the building zones and on soil sealing in the agricultural zone cultivated year-round under Article 16, in so far as such sealing is not caused by agricultural activities, is provided as part of the guidelines under Article 6 paragraph 3 letters d and e, the account of developments to date may be kept in outline form.
+
+[^38c-1]: Inserted by No I of the FA of 29 Sept. 2023, in force since 1 July 2026 ([AS 2025 640](https://fedlex.data.admin.ch/eli/oc/2025/640); [BBl 2018 7443](https://fedlex.data.admin.ch/eli/fga/2018/2625)).
 
 #### Art. 39
 
