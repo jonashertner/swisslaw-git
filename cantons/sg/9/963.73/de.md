@@ -1,25 +1,24 @@
 ---
 canton: SG
 number: "963.73"
-title: Prüfungs- und Bewilligungsreglement für Rechtsanwälte und Rechtsagenten
+title: Prüfungs- und Bewilligungsreglement für Rechtsanwältinnen und Rechtsanwälte sowie Rechtsagentinnen und Rechtsagenten
 short: PBR
 language: de
-version: 2022-08-01
-valid_until: 2026-06-30
-version_adopted: 2022-06-13
+version: 2026-07-01
+version_adopted: 2025-07-16
 adopted: 1994-04-22
 in_force: 1994-07-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/963.73"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3374/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3790/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Prüfungs- und Bewilligungsreglement für Rechtsanwälte und Rechtsagenten
+# Prüfungs- und Bewilligungsreglement für Rechtsanwältinnen und Rechtsanwälte sowie Rechtsagentinnen und Rechtsagenten
 
 (PBR)
 
-vom 22.04.1994 (Stand 01.08.2022)
+vom 22.04.1994 (Stand 01.07.2026)
 
 Das Kantonsgericht des Kantons St.Gallen
 
@@ -32,7 +31,7 @@ als Reglement:[^ingress-2]
 [^ingress-1]: sGS [963.70](https://www.gesetzessammlung.sg.ch/data/963.70/de).
 [^ingress-2]: Abgekürzt PBR. nGS 29–45. Vom Regierungsrat genehmigt am 25. Mai 1994; in Vollzug ab 1. Juli 1994.
 
-## I. Prüfung
+## I. Anwalts- und Rechtsagentenprüfung
 
 #### Art. 1
 
@@ -46,9 +45,11 @@ als Reglement:[^ingress-2]
 
 #### Art. 3
 
-**c) Voraussetzung für die Anwaltsprüfung 1. fachliche und persönliche Voraussetzungen**
+**c) Voraussetzungen für die Anwaltsprüfung 1. fachliche und persönliche Voraussetzungen**
 
 <sup>1</sup> Die fachlichen und persönlichen Voraussetzungen für die Zulassung zur Prüfung richten sich nach Art. 14 Bst. a und b des Anwaltsgesetzes vom 11. November 1993.[^3-1]
+
+<sup>2</sup> Zur Prüfung wird nicht zugelassen, wer innert der letzten drei Jahre in einem anderen Kanton die Anwaltsprüfung endgültig nicht bestanden hat oder sich in einer Wartefrist befindet.
 
 [^3-1]: sGS [963.70](https://www.gesetzessammlung.sg.ch/data/963.70/de).
 
@@ -58,15 +59,15 @@ als Reglement:[^ingress-2]
 
 <sup>1</sup> Als praktische Tätigkeit in der st.gallischen Rechtspflege gilt eine juristische Tätigkeit von wenigstens einem Jahr im Kanton St.Gallen nach Abschluss des Rechtsstudiums.
 
-<sup>2</sup> Für Absolventen einer ausländischen Hochschule wird eine juristische Tätigkeit von wenigstens drei Jahren in der Schweiz, wovon wenigstens einem Jahr im Kanton St.Gallen, verlangt.
+<sup>2</sup> …
 
-<sup>3</sup> Als juristische Tätigkeit wird die Tätigkeit bei Gerichten, bei Rechtsanwälten, bei der Staatsanwaltschaft sowie bei Rechtsdiensten von Behörden des Kantons und der Gemeinden anerkannt.
+<sup>3</sup> Als juristische Tätigkeit wird die Tätigkeit bei Gerichten, bei Rechtsanwältinnen und Rechtsanwälten, bei der Staatsanwaltschaft sowie bei Rechtsdiensten von Behörden des Kantons und der Gemeinden anerkannt.
 
-<sup>4</sup> Die Tätigkeit bei Rechtsdiensten privater Unternehmen wird anerkannt, wenn Gewähr dafür besteht, dass während der Praktikumsdauer unter Anleitung eines ausgebildeten Juristen überwiegend Rechtsprobleme bearbeitet worden sind.
+<sup>4</sup> …
 
-<sup>5</sup> Die Anwaltskammer kann eine praktische Tätigkeit in einem anderen Kanton im Umfang von drei Monaten anerkennen.
+<sup>5</sup> …
 
-<sup>6</sup> In jedem Fall wird eine wenigstens halbjährige Tätigkeit an einem st.gallischen Gericht oder bei einem st.gallischen Rechtsanwalt verlangt.
+<sup>6</sup> In jedem Fall wird eine wenigstens halbjährige Tätigkeit an einem erst- oder zweitinstanzlichen Gericht des Kantons St.Gallen oder bei einer st.gallischen Rechtsanwältin oder einem st.gallischen Rechtsanwalt verlangt.
 
 #### Art. 4bis
 
@@ -78,74 +79,84 @@ als Reglement:[^ingress-2]
 
 **Prüfungsstoff a) allgemein**
 
-<sup>1</sup> Die Prüfung ist auf die praktische Tätigkeit des Rechtsanwalts und Rechtsagenten ausgerichtet.
+<sup>1</sup> Die Prüfung ist auf die praktische Tätigkeit der Rechtsanwältinnen und Rechtsanwälte sowie der Rechtsagentinnen und Rechtsagenten ausgerichtet.
 
-<sup>2</sup> Aus Fächergruppen kann auch nur ein Fach geprüft werden.
+<sup>2</sup> …
 
-<sup>3</sup> Die Prüfung in einer Fächergruppe kann auch Fragen aus anderen Fächergruppen umfassen, soweit ein Zusammenhang besteht.
+<sup>3</sup> …
 
 #### Art. 6
 
-**b) Rechtsanwälte**
+**…**
 
-<sup>1</sup> Prüfungsfächer für Rechtsanwälte sind:
+#### Art. 6bis
 
-- a) Privatrecht, insbesondere Einleitungsartikel des Zivilgesetzbuches, Personen-, Familien-, Erb- und Sachenrecht;
-- b) …
-- c) Privatrecht, insbesondere die allgemeinen Bestimmungen des Obligationenrechts und die einzelnen Vertragsverhältnisse;
-- d) Privatrecht, insbesondere Gesellschafts-, Wertpapier- und Immaterialgüterrecht;
-- e) Zivilprozess-, Anwalts- sowie Schuldbetreibungs- und Konkursrecht;
-- f) Straf- und Strafprozessrecht;
-- g) Staats- und Verwaltungsrecht, insbesondere Abgabe-, Verantwortlichkeits- und Disziplinarrecht, Grundzüge des Sozialversicherungsrechts sowie dazugehörendes Verfahrensrecht;
-- h) Staats- und Verwaltungsrecht, insbesondere Bau-, Planungs-, Enteignungs- und Strassenrecht, Recht der öffentlich-rechtlichen Körperschaften und politische Rechte sowie dazugehörendes Verfahrensrecht.
+**b) Rechtsanwältinnen und Rechtsanwälte**
 
-<sup>2</sup> Das Internationale Privatrecht wird im Rahmen der übrigen Fächer geprüft.
+<sup>1</sup> Prüfungsstoff ist:
 
-<sup>3</sup> Das Beurkundungsrecht wird im Rahmen der Fächer des Privatrechts geprüft.
+- a) Staats- und Verwaltungsrecht sowie dazugehörendes Verfahrensrecht;
+- b) Obligationenrecht;
+- c) übriges Zivilrecht (einschliesslich internationales Privatrecht);
+- d) Zivilprozessrecht;
+- e) Schuldbetreibungs- und Konkursrecht;
+- f) Strafrecht;
+- g) Strafprozessrecht;
+- h) Anwaltsrecht;
+- i) Beurkundungsrecht.
 
 #### Art. 7
 
-**c) Rechtsagenten**
+**…**
 
-<sup>1</sup> Prüfungsfächer für Rechtsagenten sind die Grundzüge des:
+#### Art. 7bis
 
-- a) Zivilgesetzbuches;
-- b) Obligationenrechts;
-- c) Straf- und Strafprozessrechts;
-- d) Zivilprozess- sowie Schuldbetreibungs- und Konkursrechts;
-- e) Staats- und Verwaltungsrechts, insbesondere Verfassungsrecht des Bundes und des Kantons, Baurecht, Recht der öffentlich-rechtlichen Körperschaften, politische Rechte, Strassenrecht, Steuerrecht sowie Verwaltungsrechtspflege.
+**c) Rechtsagentinnen und Rechtsagenten**
+
+<sup>1</sup> Prüfungsstoff ist jeweils in den Grundzügen:
+
+- a) Staats- und Verwaltungsrecht sowie dazugehörendes Verfahrensrecht;
+- b) Obligationenrecht;
+- c) Zivilgesetzbuch;
+- d) Zivilprozessrecht;
+- e) Schuldbetreibungs- und Konkursrecht;
+- f) Strafrecht;
+- g) Strafprozessrecht;
+- h) Anwaltsrecht.
 
 #### Art. 8
 
 **Organisation der Prüfung a) Zeitpunkt**
 
-<sup>1</sup> Die Prüfung wird im Frühjahr und im Herbst durchgeführt.
+<sup>1</sup> Die Anwaltsprüfung wird in der Regel im Frühjahr und im Herbst durchgeführt.
+
+<sup>2</sup> Die Rechtsagentenprüfung wird in der Regel im Frühjahr durchgeführt.
 
 #### Art. 9
 
 **b) Anmeldung**
 
-<sup>1</sup> Der Bewerber meldet sich bei der Anwaltskammer an:
+<sup>1</sup> Die kandidierende Person meldet sich bei der Anwaltskammer mit dem zur Verfügung gestellten Formular an.
 
-- a) für die Prüfung im Frühjahr bis zum 15. Januar;
-- b) für die Prüfung im Herbst bis zum 15. Juli.
+- a) …
+- b) …
 
-<sup>2</sup> Er reicht ein:
+<sup>2</sup> Sie reicht ein:
 
 - 1\. einen Lebenslauf;
 - 2\. einen Strafregisterauszug;
 - 3\. eine Bescheinigung des Betreibungsamtes, dass keine Verlustscheine bestehen;
 - 4\. ein Handlungsfähigkeitszeugnis der Wohnsitzgemeinde.
 
-<sup>3</sup> Der Bewerber für die Rechtsanwaltsprüfung reicht zudem Ausweise über den Studienabschluss und über die praktische Tätigkeit ein.
+<sup>3</sup> Die für die Anwaltsprüfung kandidierende Person reicht zudem Ausweise über den Studienabschluss und über die praktische Tätigkeit sowie eine Erklärung, dass sie innert der letzten drei Jahre in keinem anderen Kanton die Anwaltsprüfung endgültig nicht bestanden hat und sich nicht in einer Wartefrist befindet, ein.
 
 #### Art. 10
 
 **Art und Dauer der Prüfung**
 
-<sup>1</sup> Die Prüfung besteht aus einem schriftlichen und einem mündlichen Teil.
+<sup>1</sup> Die Prüfung besteht aus einem mündlichen und einem schriftlichen Teil.
 
-<sup>2</sup> Der schriftliche Teil der Anwaltsprüfung dauert höchstens acht Stunden und der mündliche höchstens dreieinhalb Stunden.
+<sup>2</sup> Der mündliche Teil der Anwaltsprüfung dauert höchstens vier Stunden und der schriftliche höchstens acht Stunden.
 
 <sup>3</sup> Beide Teile der Rechtsagentenprüfung dauern höchstens je vier Stunden.
 
@@ -153,31 +164,39 @@ als Reglement:[^ingress-2]
 
 **Reihenfolge**
 
-<sup>1</sup> Der schriftliche Teil wird vor dem mündlichen abgelegt.
+<sup>1</sup> Der mündliche Teil der Prüfung wird vor dem schriftlichen Teil abgelegt.
+
+<sup>2</sup> Zum schriftlichen Teil der Prüfung wird zugelassen, wer den mündlichen Teil bestanden hat.
 
 #### Art. 12
 
 **Aufgabenstellung**
 
-<sup>1</sup> Der Präsident der Prüfungskommission arbeitet die Aufgaben für den schriftlichen Teil unter Beizug von zwei Mitgliedern der Prüfungskommission aus.
+<sup>1</sup> Die Präsidentin oder der Präsident der jeweiligen Prüfungskommission weist den Mitgliedern der jeweiligen Prüfungskommission die zu prüfenden Fächer für den mündlichen Teil zu.
 
-<sup>2</sup> Er weist den Mitgliedern der Prüfungskommission die zu prüfenden Fächer für den mündlichen Teil zu.
+<sup>2</sup> Sie oder er arbeitet die Aufgaben für den schriftlichen Teil unter Beizug von zwei Mitgliedern der jeweiligen Prüfungskommission aus.
 
 #### Art. 13
 
-**Schriftlicher Teil**
-
-<sup>1</sup> Dem Bewerber werden ein Rechtsfall oder mehrere Rechtsfälle zur Bearbeitung vorgelegt. Die Bearbeitung kann die Ausarbeitung von Urteilen, Gutachten, Rechtsschriften, Verträgen oder Plädoyers beinhalten.
-
-<sup>2</sup> Für die Bearbeitung stehen die einschlägigen Gesetze sowie nach Ermessen des Präsidenten der Prüfungskommission Literatur und Judikatur zur Verfügung.
-
-<sup>3</sup> Die schriftlichen Arbeiten werden von drei Mitgliedern der Prüfungskommission beurteilt.
+**…**
 
 #### Art. 14
 
 **Mündlicher Teil**
 
-<sup>1</sup> Die Prüfung in den einzelnen Fächern wird vor wenigstens zwei Mitgliedern der Prüfungskommission abgelegt.
+<sup>1</sup> Die Prüfung in den einzelnen Fächern wird vor wenigstens zwei Mitgliedern der jeweiligen Prüfungskommission abgelegt.
+
+<sup>2</sup> Sie ist öffentlich. Die Präsidentin oder der Präsident der jeweiligen Prüfungskommission kann die Öffentlichkeit aus wichtigen Gründen ganz oder teilweise ausschliessen.
+
+#### Art. 14bis
+
+**Schriftlicher Teil**
+
+<sup>1</sup> Der kandidierenden Person werden ein Rechtsfall oder mehrere Rechtsfälle zur Bearbeitung vorgelegt. Die Bearbeitung kann insbesondere die Ausarbeitung von Rechtsschriften, Plädoyers, Verträgen, Statuten, letztwilligen Verfügungen oder Gutachten enthalten.
+
+<sup>2</sup> Für die Bearbeitung stehen die einschlägigen Gesetze sowie nach Ermessen der Präsidentin oder des Präsidenten der jeweiligen Prüfungskommission Literatur und Judikatur zur Verfügung.
+
+<sup>3</sup> Die schriftlichen Arbeiten werden von drei Mitgliedern der jeweiligen Prüfungskommission beurteilt.
 
 #### Art. 15
 
@@ -185,43 +204,96 @@ als Reglement:[^ingress-2]
 
 #### Art. 16
 
-**Bewertung**
+**Bestehen der Prüfung**
 
-<sup>1</sup> Die Prüfung ist bestanden, wenn der schriftliche und der mündliche Teil je als genügend bewertet werden.
+<sup>1</sup> Die Prüfung ist bestanden, wenn der mündliche und der schriftliche Teil je als genügend bewertet werden.
 
-<sup>2</sup> Die Prüfungskommission kann Richtlinien zur Bewertung der Prüfung erlassen.
+<sup>1<sup>bis</sup></sup> Wird der mündliche Teil als ungenügend bewertet, ist die Prüfung nicht bestanden.
+
+<sup>2</sup> …
 
 #### Art. 17
 
-**Nachprüfung**
+**Nachprüfung des schriftlichen Teils**
 
-<sup>1</sup> Werden der mündliche oder der schriftliche Teil als genügend und der andere Teil als ungenügend bewertet, so kann der ungenügende Teil wiederholt werden.
+<sup>1</sup> Wird der schriftliche Teil der Prüfung als ungenügend bewertet, kann dieser wiederholt werden.
 
-<sup>2</sup> Der ungenügende Teil ist am folgenden Prüfungstermin zu wiederholen. Wenn dieser Termin dem Bewerber nicht zumutbar ist, kann der Präsident der Prüfungskommission einen anderen Termin bestimmen.
+<sup>2</sup> Der zu wiederholende schriftliche Teil wird am folgenden Prüfungstermin abgelegt. Wenn dieser Termin der kandidierenden Person nicht zumutbar ist, bestimmt die Präsidentin oder der Präsident der jeweiligen Prüfungskommission einen anderen Termin.
 
-<sup>3</sup> Wird der wiederholte Teil als ungenügend bewertet, ist die Prüfung nicht bestanden.
+<sup>3</sup> Wird der wiederholte schriftliche Teil als ungenügend bewertet, ist die Prüfung nicht bestanden.
 
 #### Art. 18
 
 **Wartefrist**
 
-<sup>1</sup> Kandidaten, welche die Prüfung dreimal nicht bestanden haben, werden fünf Jahre lang zu keiner weiteren Prüfung zugelassen.
+<sup>1</sup> Wer die Prüfung zweimal nicht bestanden hat, wird drei Jahre lang zu keiner weiteren Prüfung zugelassen.
 
 #### Art. 19
 
-**Rückzug**
+**Rückzug und Abbruch**
 
-<sup>1</sup> Eine freiwillig abgebrochene Prüfung gilt als nicht bestanden.
+<sup>1</sup> …
+
+<sup>2</sup> Die Anmeldung zur Prüfung kann bis vor Prüfungsantritt zurückgezogen werden.
+
+<sup>3</sup> Wird ein angetretener mündlicher Teil oder eine angetretene Nachprüfung des schriftlichen Teils ohne wichtigen Grund abgebrochen oder wird ein zumutbarer Termin für die Nachprüfung des schriftlichen Teils ohne wichtigen Grund nicht angetreten, gilt die Prüfung als nicht bestanden.
+
+<sup>4</sup> Wird ein angetretener schriftlicher Teil ohne wichtigen Grund abgebrochen, gilt der Prüfungsteil als nicht bestanden.
 
 #### Art. 19bis
 
 **Eröffnung des Prüfungsergebnisses**
 
-<sup>1</sup> Der Bewerber kann innert 14 Tagen nach Eröffnung des Ergebnisses bei der Prüfungskommission eine mündliche Erörterung verlangen.
+<sup>1</sup> Die kandidierende Person kann innert 14 Tagen nach Eröffnung des Ergebnisses bei der jeweiligen Prüfungskommission eine mündliche Erörterung eines nicht bestandenen Prüfungsteils verlangen.
 
-<sup>2</sup> Er kann innert 14 Tagen nach der mündlichen Erörterung bei der Prüfungskommission eine schriftlich begründete Verfügung verlangen.
+<sup>2</sup> Sie kann innert 14 Tagen nach der mündlichen Erörterung bei der Prüfungskommission eine schriftlich begründete Verfügung verlangen.
 
-<sup>3</sup> Das Kantonsgericht beurteilt Beschwerden gegen Verfügungen der Prüfungskommission.
+<sup>2<sup>bis</sup></sup> Die Verfügung wird von der Präsidentin oder dem Präsidenten der jeweiligen Prüfungskommission unter Mitwirkung der Mitglieder, welche die Prüfungen der kandidierenden Person bewertet haben, erlassen.
+
+<sup>3</sup> Das Verwaltungsgericht beurteilt Beschwerden gegen Verfügungen der jeweiligen Prüfungskommission und ihrer Präsidentin oder ihres Präsidenten.
+
+#### Art. 19ter
+
+**Ausführungsbestimmungen**
+
+<sup>1</sup> Die Prüfungskommissionen nach [Art. 3](https://www.gesetzessammlung.sg.ch/data/963.70/de/art3) des Anwaltsgesetzes vom 11. November 1993[^19ter-1] regeln für ihren Zuständigkeitsbereich in einer Prüfungsordnung:
+
+- a) ihre Organisation;
+- b) den Ablauf der Prüfung;
+- c) die Prüfungsfächer;
+- d) die Eröffnung der Ergebnisse.
+
+<sup>2</sup> Sie erlassen Richtlinien zur Bewertung der Prüfung.
+
+[^19ter-1]: sGS [963.70](https://www.gesetzessammlung.sg.ch/data/963.70/de).
+
+## I<sup>bis</sup>. Besondere Prüfungen
+
+#### Art. 19quater
+
+**Eignungsprüfung und Gespräch zur Prüfung der beruflichen Fähigkeiten**
+
+<sup>1</sup> Die Voraussetzungen für die Zulassung zur Eignungsprüfung und zum Gespräch zur Prüfung der beruflichen Fähigkeiten (Prüfungsgespräch) für Anwältinnen und Anwälte aus Mitgliedstaaten der Europäischen Union oder der Europäischen Freihandelsassoziation richten sich nach [Art. 31](https://db.clex.ch/link/Bund/935.61/de) f. des Bundesgesetzes über die Freizügigkeit der Anwältinnen und Anwälte vom 23. Juni 2000[^19quater-1].
+
+<sup>2</sup> Die Eignungsprüfung erfolgt mündlich. Sie und das Prüfungsgespräch werden in der Regel im Frühjahr und Herbst durchgeführt.
+
+<sup>3</sup> Der Prüfungsstoff für die Eignungsprüfung und das Prüfungsgespräch richtet sich nach [Art. 5](https://www.gesetzessammlung.sg.ch/data/963.73/de/art5) und 6<sup>bis</sup> dieses Erlasses. Die Präsidentin oder der Präsident der Prüfungskommission für Rechtsanwälte bestimmt im Einzelfall Inhalt und Umfang der Eignungsprüfung und des Prüfungsgesprächs.
+
+<sup>4</sup> Die Prüfungsfächer für die Eignungsprüfung und das Prüfungsgespräch werden der kandidierenden Person spätestens zwei Monate vor dem Termin bekannt gegeben.
+
+<sup>5</sup> Die Bestimmungen über die Anwaltsprüfung werden sachgemäss angewendet.
+
+[^19quater-1]: SR [935.61](https://db.clex.ch/link/Bund/935.61/de).
+
+#### Art. 19quinquies
+
+**Prüfung über das Beurkundungsrecht**
+
+<sup>1</sup> Die Prüfung über das Beurkundungsrecht nach [Art. 18<sup>ter</sup>](https://www.gesetzessammlung.sg.ch/data/963.70/de/art18ter) des Anwaltsgesetzes vom 11. November 1993[^19quinquies-1] erfolgt mündlich und wird durch zwei Mitglieder der Prüfungskommission für Rechtsanwälte abgenommen. Sie wird in der Regel im Frühjahr und Herbst durchgeführt.
+
+<sup>2</sup> Die Bestimmungen über die Anwaltsprüfung werden sachgemäss angewendet.
+
+[^19quinquies-1]: sGS [963.70](https://www.gesetzessammlung.sg.ch/data/963.70/de).
 
 ## II. Bewilligung
 
@@ -233,18 +305,18 @@ als Reglement:[^ingress-2]
 
 **Praktikantenbewilligung**
 
-<sup>1</sup> Als Praktikant wird zur Vertretung von Parteien vor Gericht zugelassen, wer:
+<sup>1</sup> Als Praktikantin oder Praktikant wird zur Vertretung von Parteien vor Gericht zugelassen, wer:
 
 - a) über einen juristischen Masterabschluss verfügt;
-- b) nach dem juristischen Masterabschluss wenigstens ein halbes Jahr an einem Gericht oder bei einem Rechtsanwalt im Kanton St.Gallen oder einem Nachbarkanton tätig war;
-- c) die übrigen Voraussetzungen mit Ausnahme der praktischen Tätigkeit für die Zulassung zur Prüfung als Rechtsanwalt erfüllt.
+- b) nach dem juristischen Masterabschluss wenigstens ein halbes Jahr an einem Gericht oder bei einer Rechtsanwältin oder einem Rechtsanwalt im Kanton St.Gallen oder einem Nachbarkanton tätig war;
+- c) die übrigen Voraussetzungen mit Ausnahme der praktischen Tätigkeit für die Zulassung zur Anwaltsprüfung erfüllt.
 
-<sup>2</sup> Der Bewerber reicht der Anwaltskammer ein:
+<sup>2</sup> Die Praktikantin oder der Praktikant reicht der Anwaltskammer ein:
 
 - 1\. einen Lebenslauf;
 - 2\. Ausweise über die praktische Tätigkeit;
 - 3\. Studienausweise;
-- 4\. die Verantwortlichkeitserklärung eines Rechtsanwalts;
+- 4\. die Verantwortlichkeitserklärung einer Rechtsanwältin oder eines Rechtsanwalts;
 - 5\. einen Strafregisterauszug;
 - 6\. eine Bescheinigung des Betreibungsamtes, dass keine Verlustscheine vorliegen;
 - 7\. ein Handlungsfähigkeitszeugnis der Wohnsitzgemeinde.
@@ -253,7 +325,7 @@ als Reglement:[^ingress-2]
 
 **Ergänzende Auskünfte**
 
-<sup>1</sup> Die Anwaltskammer kann vom Bewerber weitere Ausweise oder Auskünfte verlangen.
+<sup>1</sup> Die Anwaltskammer kann von der Praktikantin oder dem Praktikanten weitere Ausweise oder Auskünfte verlangen.
 
 ## III. Schlussbestimmungen
 
@@ -280,6 +352,20 @@ als Reglement:[^ingress-2]
 **Übergangsbestimmung**
 
 <sup>1</sup> Die Anwaltskammer führt Disziplinarverfahren, die bei Vollzugsbeginn dieses Reglementes bei der Aufsichtskommission über Anwälte und Rechtsagenten oder der Verwaltungskommission des Kantonsgerichtes anhängig sind, weiter.
+
+#### Art. 25bis
+
+**Übergangsbestimmungen des II. Nachtrags vom 16. Juli 2025**
+
+<sup>1</sup> Kandidierende Personen, die am 30. Juni 2026 noch einen Anspruch auf eine Nachprüfung nach bisherigem Recht haben, können diese am nächsten zumutbaren Prüfungstermin ablegen.
+
+<sup>2</sup> Unter bisherigem Recht erfolglos abgelegte Prüfungsteile werden an die Anzahl der Wiederholungsmöglichkeiten nach neuem Recht angerechnet.
+
+<sup>3</sup> Für Beschwerden, die am 1. Juli 2026 beim Kantonsgericht hängig sind, bleibt das Kantonsgericht zuständig.
+
+<sup>4</sup> Praktische Tätigkeiten nach [Art. 4](https://www.gesetzessammlung.sg.ch/data/963.73/de/art4) Abs. 4 und 5 dieses Erlasses in der Fassung vor Vollzugsbeginn dieses Nachtrags, die bis 30. Juni 2028 absolviert werden, werden bis 30. Juni 2030 nach Massgabe jener Bestimmungen anerkannt.
+
+<sup>5</sup> Auf Personen, die vor Vollzugsbeginn dieses Nachtrags die Prüfung dreimal nicht bestanden haben, findet die fünfjährige Wartefrist gemäss bisherigem Recht weiterhin Anwendung.
 
 #### Art. 26
 
