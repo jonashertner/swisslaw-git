@@ -4,11 +4,11 @@ title: "Verordnung vom 13. Dezember 1999 über das Plangenehmigungsverfahren fü
 short: MPV
 eli: "https://fedlex.data.admin.ch/eli/cc/2000/15"
 language: de
-version: 2024-01-01
+version: 2026-07-01
 adopted: 1999-12-13
 in_force: 2000-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/15/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2000-15-20240101-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2000/15/20240101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/15/20260701/de/xml/fedlex-data-admin-ch-eli-cc-2000-15-20260701-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2000/15/20260701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2000/15/20240101/de"
 
 (Militärische Plangenehmigungsverordnung, MPV)
 
-vom 13. Dezember 1999 (Stand am 1. Januar 2024)
+vom 13. Dezember 1999 (Stand am 1. Juli 2026)
 
 Der Schweizerische Bundesrat,
 
@@ -25,7 +25,7 @@ gestützt auf die Artikel 126–130 und 150 Absatz 1 des Militärgesetzes vom 3.
 
 verordnet:
 
-[^ingress-1]: [SR 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
+[^ingress-1]: [SR 510.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7242)
 [^ingress-2]: Fassung gemäss Ziff. I 2 der V vom 19. Aug. 2020 über die Anpassung des Verordnungsrechts infolge der Änderung des Bundesgesetzes über die Enteignung, in Kraft seit 1. Jan. 2021 ([AS 2020 3995](https://fedlex.data.admin.ch/eli/oc/2020/744)).
 
 ## 1. Kapitel: Allgemeine Bestimmungen
@@ -66,9 +66,9 @@ Für die Durchführung des militärischen Plangenehmigungsverfahrens ist das Gen
 <sup>4</sup> Soweit zivile Nutzungen dem militärischen Plangenehmigungsverfahren unterliegen, gelten die materiellen Bestimmungen des Raumplanungsrechts, insbesondere die Artikel 22 und 24 des Raumplanungsgesetzes vom 22. Juni 1979[^3-4].
 
 [^3-1]: Fassung gemäss Ziff. I 2 der V vom 19. Aug. 2020 über die Anpassung des Verordnungsrechts infolge der Änderung des Bundesgesetzes über die Enteignung, in Kraft seit 1. Jan. 2021 ([AS 2020 3995](https://fedlex.data.admin.ch/eli/oc/2020/744)).
-[^3-2]: [SR 711](https://fedlex.data.admin.ch/eli/cc/47/689_701_723)
+[^3-2]: [SR 711](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8369)
 [^3-3]: Fassung gemäss Ziff. I 2 der V vom 19. Aug. 2020 über die Anpassung des Verordnungsrechts infolge der Änderung des Bundesgesetzes über die Enteignung, in Kraft seit 1. Jan. 2021 ([AS 2020 3995](https://fedlex.data.admin.ch/eli/oc/2020/744)).
-[^3-4]: [SR 700](https://fedlex.data.admin.ch/eli/cc/1979/1573_1573_1573)
+[^3-4]: [SR 700](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8351)
 
 #### Art. 4
 
@@ -107,8 +107,8 @@ Sofern keine schutzwürdigen Interessen der Raumordnung, der Umwelt oder Dritter
 
 <sup>5</sup> Die Genehmigungsbehörde sorgt für die Koordination von Sachplan- und Plangenehmigungsverfahren.
 
-[^6-1]: [SR 510.518](https://fedlex.data.admin.ch/eli/cc/1950/1474_1519_1485)
-[^6-2]: [SR 814.011](https://fedlex.data.admin.ch/eli/cc/1988/1931_1931_1931)
+[^6-1]: [SR 510.518](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7325)
+[^6-2]: [SR 814.011](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9438)
 
 ## 2. Kapitel: Ordentliches Plangenehmigungsverfahren
 
@@ -173,12 +173,15 @@ Das Gesuch muss insbesondere folgende Angaben und Unterlagen enthalten:
 - m. Rodungsbegehren mit Angaben gemäss den Richtlinien nach Artikel 5 der Waldverordnung vom 30. November 1992[^9-3];
 - n*.* Festlegung im Sachplan Militär;
 - o.[^9-4] Bericht über die Ergebnisse sowie die schriftlichen Anregungen eines allenfalls schon durchgeführten Mitwirkungsverfahrens (Art. 13 Abs. 2);
-- p. notwendige Nutzungsregelungen bei sachplanrelevanten Vorhaben.
+- p. notwendige Nutzungsregelungen bei sachplanrelevanten Vorhaben;
+- q.[^9-5] bei Vorhaben ausserhalb der Bauzonen: Pläne, aus denen die Abgrenzung allfälliger neuer oder beseitigter Gebäude gemäss Artikel 25*a* Absatz 1 der Raumplanungsverordnung vom 28. Juni 2000[^9-6] und allfälliger neuer oder beseitigter Versiegelungen gemäss Artikel 25*a* Absatz 2 der Raumplanungsverordnung ersichtlich ist.
 
-[^9-1]: [SR 814.011](https://fedlex.data.admin.ch/eli/cc/1988/1931_1931_1931)
-[^9-2]: [SR 814.012](https://fedlex.data.admin.ch/eli/cc/1991/748_748_748)
-[^9-3]: [SR 921.01](https://fedlex.data.admin.ch/eli/cc/1992/2538_2538_2538)
+[^9-1]: [SR 814.011](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9438)
+[^9-2]: [SR 814.012](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9439)
+[^9-3]: [SR 921.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10959)
 [^9-4]: Fassung gemäss Ziff. I 2 der V vom 19. Aug. 2020 über die Anpassung des Verordnungsrechts infolge der Änderung des Bundesgesetzes über die Enteignung, in Kraft seit 1. Jan. 2021 ([AS 2020 3995](https://fedlex.data.admin.ch/eli/oc/2020/744)).
+[^9-5]: Eingefügt durch Anhang Ziff. 2 der V vom 15. Okt. 2025, in Kraft seit 1. Juli 2026 ([AS 2025 659](https://fedlex.data.admin.ch/eli/oc/2025/659)).
+[^9-6]: [SR 700.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8353)
 
 #### Art. 10
 
@@ -243,7 +246,7 @@ Die Genehmigungsbehörde stellt den betroffenen Fachbehörden des Bundes, den Ka
 
 <sup>2</sup> Sie äussert sich darin zum Gesuch, zu den Einsprachen sowie zu den Anregungen aus der Bevölkerung.
 
-<sup>3</sup> ...[^15-1]
+<sup>3</sup> …[^15-1]
 
 [^15-1]: Aufgehoben durch Ziff. I 2 der V vom 19. Aug. 2020 über die Anpassung des Verordnungsrechts infolge der Änderung des Bundesgesetzes über die Enteignung, mit Wirkung seit 1. Jan. 2021 ([AS 2020 3995](https://fedlex.data.admin.ch/eli/oc/2020/744)).
 
@@ -269,7 +272,7 @@ Die Genehmigungsbehörde unterbreitet dem Gesuchsteller die Stellungnahmen und E
 
 <sup>2</sup> Die Genehmigungsbehörde unterbreitet den Fachbehörden des Bundes die Stellungnahmen der Kantone und Gemeinden sowie die Einsprachen und Anregungen aus der Bevölkerung. Die Fachbehörden nehmen innert Monatsfrist abschliessend Stellung.
 
-[^18-1]: [SR 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^18-1]: [SR 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
 
 #### Art. 19
 
@@ -279,7 +282,7 @@ Die Genehmigungsbehörde unterbreitet dem Gesuchsteller die Stellungnahmen und E
 
 <sup>2</sup> Abweichende Fristen nach der Verordnung vom 19. Oktober 1988[^19-1] über die Umweltverträglichkeitsprüfung bleiben vorbehalten.
 
-[^19-1]: [SR 814.011](https://fedlex.data.admin.ch/eli/cc/1988/1931_1931_1931)
+[^19-1]: [SR 814.011](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9438)
 
 ### 4. Abschnitt: Instruktions- und Einigungsverfahren
 
@@ -321,7 +324,7 @@ Die Genehmigungsbehörde unterbreitet dem Gesuchsteller die Stellungnahmen und E
 
 <sup>2</sup> Der Gesuchsteller reicht die nach Artikel 28 EntG erforderlichen Unterlagen der Genehmigungsbehörde ein. Diese verlangt nach durchgeführter Prüfung allenfalls noch Ergänzungen.
 
-[^23-1]: [SR 711](https://fedlex.data.admin.ch/eli/cc/47/689_701_723)
+[^23-1]: [SR 711](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8369)
 
 #### Art. 24–26
 
@@ -333,7 +336,7 @@ Aufgehoben
 
 Sollen Enteignungen ohne Plangenehmigung bewilligt werden, so führt die Genehmigungsbehörde das selbständige Enteignungsverfahren nach den Artikeln 36–41 EntG[^26a-1] durch.
 
-[^26a-1]: [SR 711](https://fedlex.data.admin.ch/eli/cc/47/689_701_723)
+[^26a-1]: [SR 711](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8369)
 
 ### 3. Abschnitt: Einigungs- und Schätzungsverfahren
 
@@ -341,7 +344,7 @@ Sollen Enteignungen ohne Plangenehmigung bewilligt werden, so führt die Genehmi
 
 Nach Vorliegen einer rechtskräftigen Plangenehmigung wird, soweit erforderlich, das Einigungs- und Schätzungsverfahren vor der Eidgenössischen Schätzungskommission nach den Artikeln 45–54 beziehungsweise 64–75 des EntG[^27-1] durchgeführt.
 
-[^27-1]: [SR 711](https://fedlex.data.admin.ch/eli/cc/47/689_701_723)
+[^27-1]: [SR 711](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8369)
 
 #### Art. 28
 
@@ -362,7 +365,7 @@ Aufgehoben
 Diese Verfügung enthält insbesondere:
 
 - a. die Entscheide über die Begehren aus Anhörungen und Einsprachen sowie allenfalls den Entscheid über die Umweltverträglichkeit;
-- b.[^29-1] ...
+- b.[^29-1] …
 - c. Bedingungen und Auflagen, die aus Anhörungen oder Einigungsverhandlungen hervorgehen, insbesondere über die technische Ausgestaltung, die Massnahmen zum Schutz der Gesundheit und der Sicherheit der Arbeitnehmerinnen und Arbeitnehmer, die Bauausführung, Schutzmassnahmen während der Bautätigkeit und Wiederinstandstellungsarbeiten;
 - d. Auflagen hinsichtlich der Baukontrolle und des Betriebs;
 - e. Ausführungen dazu, wie den Anregungen aus der Bevölkerung Rechnung getragen worden ist.
@@ -412,13 +415,21 @@ Nachträgliche Projektanpassungen sind der Genehmigungsbehörde anzuzeigen. Bei 
 
 #### Art. 32a
 
-**Meldungen an die kantonale Vermessungsaufsicht**[^32a-1]
+**Meldepflichten**[^32a-1]
 
-<sup>1</sup> Die Genehmigungsbehörde informiert die kantonale Vermessungsaufsicht über die Eröffnung eines Plangenehmigungsverfahrens.
+<sup>1</sup> Die Genehmigungsbehörde informiert das Bundesamt für Landestopografie (swisstopo) über den Abschluss eines Plangenehmigungsverfahrens durch Zustellung der Plangenehmigungsverfügung und der vom swisstopo benötigten Pläne.
 
-<sup>2</sup> Die Bauherrschaft informiert die kantonale Vermessungsaufsicht innert 20 Tagen nach Abschluss der Bauarbeiten über Änderungen ihrer Bauten und Anlagen, die eine Nachführung der amtlichen Vermessung notwendig machen.
+<sup>2</sup>
 
-[^32a-1]: Eingefügt gemäss Anhang Ziff. 2 der V vom 21. Mai 2008 ([AS 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)). Fassung gemäss Anhang Ziff. 4 der V vom 23. Aug. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)).
+Bei Bauten und Anlagen, die eine Nachführung der amtlichen Vermessung oder der Landesvermessung notwendig machen, informiert die Bauherrschaft das swisstopo unter Beilage der vom swisstopo benötigten Pläne jeweils innert 20 Tagen über:
+
+- a. den Baubeginn; und
+- b. die Bauvollendung.
+
+<sup>3</sup> Liegt ein Vorhaben ganz oder teilweise ausserhalb der Bauzonen, lässt die Bauherrschaft gleichzeitig zur Information des swisstopo über die Bauvollendung die rechtskräftigen Pläne nach Artikel 9 Buchstabe q in Form von Geodaten der kantonalen Behörde zukommen, die nach Artikel 25 Absatz 2 des Raumplanungsgesetzes vom 22. Juni 1979[^32a-2] zuständig ist.
+
+[^32a-1]: Eingefügt gemäss Anhang Ziff. 2 der V vom 21. Mai 2008 ([AS 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)). Fassung gemäss Anhang Ziff. 2 der V vom 15. Okt. 2025, in Kraft seit 1. Juli 2026 ([AS 2025 659](https://fedlex.data.admin.ch/eli/oc/2025/659)).
+[^32a-2]: [SR 700](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8351)
 
 ## 6. Kapitel: Schlussbestimmungen
 

@@ -4,11 +4,11 @@ title: "Ordonnance du 13 décembre 1999 concernant la procédure d'approbation d
 short: OAPCM
 eli: "https://fedlex.data.admin.ch/eli/cc/2000/15"
 language: fr
-version: 2024-01-01
+version: 2026-07-01
 adopted: 1999-12-13
 in_force: 2000-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/15/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2000-15-20240101-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2000/15/20240101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/15/20260701/fr/xml/fedlex-data-admin-ch-eli-cc-2000-15-20260701-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2000/15/20260701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2000/15/20240101/fr"
 
 (Ordonnance concernant l’approbation des plans de constructions militaires, OAPCM)
 
-du 13 décembre 1999 (État le 1<sup>er</sup> janvier 2024)
+du 13 décembre 1999 (État le 1<sup>er</sup> juillet 2026)
 
 Le Conseil fédéral suisse,
 
@@ -25,7 +25,7 @@ vu les art. 126 à 130 et 150, al. 1, de la loi du 3 février 1995 sur l’armé
 
 arrête:
 
-[^ingress-1]: [RS 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
+[^ingress-1]: [RS 510.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7242)
 [^ingress-2]: Nouvelle teneur selon le ch. I 2 de l’O du 19 août 2020 portant adaptation d’ordonnances en raison de la modification de la LF sur l’expropriation, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 3995](https://fedlex.data.admin.ch/eli/oc/2020/744)).
 
 ## Chapitre 1 Dispositions générales
@@ -66,9 +66,9 @@ Le Secrétariat général du Département fédéral de la défense, de la protec
 <sup>4</sup> Pour autant que les exploitations civiles soient soumises à la procédure d’approbation des plans de constructions militaires, les dispositions matérielles du droit sur l’aménagement du territoire, notamment les art. 22 et 24 de la loi du 22 juin 1979 sur l’aménagement du territoire[^3-4], sont applicables.
 
 [^3-1]: Nouvelle teneur selon le ch. I 2 de l’O du 19 août 2020 portant adaptation d’ordonnances en raison de la modification de la LF sur l’expropriation, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 3995](https://fedlex.data.admin.ch/eli/oc/2020/744)).
-[^3-2]: [RS 711](https://fedlex.data.admin.ch/eli/cc/47/689_701_723)
+[^3-2]: [RS 711](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8369)
 [^3-3]: Nouvelle teneur selon le ch. I 2 de l’O du 19 août 2020 portant adaptation d’ordonnances en raison de la modification de la LF sur l’expropriation, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 3995](https://fedlex.data.admin.ch/eli/oc/2020/744)).
-[^3-4]: [RS 700](https://fedlex.data.admin.ch/eli/cc/1979/1573_1573_1573)
+[^3-4]: [RS 700](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8351)
 
 #### Art. 4
 
@@ -107,8 +107,8 @@ Ne sont pas soumis à autorisation dans la mesure où les intérêts dignes de p
 
 <sup>5</sup> L’autorité d’approbation veille à la coordination entre les procédures du plan sectoriel et de l’approbation des plans.
 
-[^6-1]: [RS 510.518](https://fedlex.data.admin.ch/eli/cc/1950/1474_1519_1485)
-[^6-2]: [RS 814.011](https://fedlex.data.admin.ch/eli/cc/1988/1931_1931_1931)
+[^6-1]: [RS 510.518](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7325)
+[^6-2]: [RS 814.011](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9438)
 
 ## Chapitre 2 Procédure ordinaire d’approbation des plans
 
@@ -173,12 +173,15 @@ La demande doit, en particulier, contenir les données et les documents suivants
 - m. les demandes de défrichement accompagnées des données requises par les directives prévues à l’art. 5 de l’ordonnance du 30 novembre 1992 sur les forêts[^9-3];
 - n. le classement dans le plan sectoriel militaire;
 - o.[^9-4] le rapport sur les résultats, ainsi que les propositions écrites d’une procédure de participation qui a, le cas échéant, déjà été exécutée (art. 13, al. 2);
-- p. les règlements d’exploitation nécessaires dans le cadre de projets relevant du plan sectoriel.
+- p. les règlements d’exploitation nécessaires dans le cadre de projets relevant du plan sectoriel;
+- q.[^9-5] pour les projets situés hors de la zone à bâtir: des plans indiquant la délimitation des bâtiments nouveaux ou supprimés conformément à l’art. 25*a*, al. 1, de l’ordonnance du 28 juin 2000 sur l’aménagement du territoire (OAT)[^9-6], ainsi que des surfaces imperméabilisées nouvelles ou supprimées conformément à l’art. 25*a*, al. 2, OAT.
 
-[^9-1]: [RS 814.011](https://fedlex.data.admin.ch/eli/cc/1988/1931_1931_1931)
-[^9-2]: [RS 814.012](https://fedlex.data.admin.ch/eli/cc/1991/748_748_748)
-[^9-3]: [RS 921.01](https://fedlex.data.admin.ch/eli/cc/1992/2538_2538_2538)
+[^9-1]: [RS 814.011](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9438)
+[^9-2]: [RS 814.012](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9439)
+[^9-3]: [RS 921.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10959)
 [^9-4]: Nouvelle teneur selon le ch. I 2 de l’O du 19 août 2020 portant adaptation d’ordonnances en raison de la modification de la LF sur l’expropriation, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 3995](https://fedlex.data.admin.ch/eli/oc/2020/744)).
+[^9-5]: Introduite par l’annexe ch. 2 de l’O du 15 oct. 2025, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2025 659](https://fedlex.data.admin.ch/eli/oc/2025/659)).
+[^9-6]: [RS 700.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8353)
 
 #### Art. 10
 
@@ -269,7 +272,7 @@ L’autorité d’approbation soumet au requérant les prises de position, les o
 
 <sup>2</sup> L’autorité d’approbation soumet aux autorités fédérales les prises de position des cantons et des communes, ainsi que les oppositions et les propositions de la population. Les autorités fédérales prennent position dans un délai d’un mois.
 
-[^18-1]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^18-1]: [RS 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
 
 #### Art. 19
 
@@ -279,7 +282,7 @@ L’autorité d’approbation soumet au requérant les prises de position, les o
 
 <sup>2</sup> Les délais divergents prévus dans l’ordonnance du 19 octobre 1988 relative à l’étude de l’impact sur l’environnement[^19-1] sont réservés.
 
-[^19-1]: [RS 814.011](https://fedlex.data.admin.ch/eli/cc/1988/1931_1931_1931)
+[^19-1]: [RS 814.011](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9438)
 
 ### Section 4 Instruction et procédure de conciliation
 
@@ -321,7 +324,7 @@ L’autorité d’approbation soumet au requérant les prises de position, les o
 
 <sup>2</sup> Le requérant remet à l’autorité d’approbation les documents nécessaires en vertu de l’art. 28 LEx. Après avoir procédé à un examen, l’autorité d’approbation demande éventuellement des compléments.
 
-[^23-1]: [RS 711](https://fedlex.data.admin.ch/eli/cc/47/689_701_723)
+[^23-1]: [RS 711](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8369)
 
 #### Art. 24 à 26
 
@@ -333,7 +336,7 @@ Abrogés
 
 S’il s’agit d’approuver une expropriation sans approbation de plans, l’autorité d’approbation mène la procédure autonome d’expropriation conformément aux art. 36 à 41 LEx[^26a-1].
 
-[^26a-1]: [RS 711](https://fedlex.data.admin.ch/eli/cc/47/689_701_723)
+[^26a-1]: [RS 711](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8369)
 
 ### Section 3 Procédures de conciliation et d’estimation
 
@@ -341,7 +344,7 @@ S’il s’agit d’approuver une expropriation sans approbation de plans, l’a
 
 Une fois la décision d’approbation des plans entrée en force, les procédures de conciliation et d’estimation sont menées au besoin devant la commission fédérale d’estimation conformément aux art. 45 à 54 ou 64 à 75 LEx[^27-1].
 
-[^27-1]: [RS 711](https://fedlex.data.admin.ch/eli/cc/47/689_701_723)
+[^27-1]: [RS 711](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8369)
 
 #### Art. 28
 
@@ -412,13 +415,21 @@ Les adaptations ultérieures du projet doivent être soumises à l’autorité d
 
 #### Art. 32a
 
-**Annonces au service cantonal du cadastre**[^32a-1]
+**Devoirs d*’*annonce**[^32a-1]
 
-<sup>1</sup> L’autorité d’approbation informe le service cantonal du cadastre de l’ouverture d’une procédure d’approbation des plans.
+<sup>1</sup> L’autorité compétente pour l’approbation informe l’Office fédéral de topographie (swisstopo) de la clôture d’une procédure d’approbation des plans en lui transmettant la décision d’approbation des plans et les plans dont swisstopo a besoin.
 
-<sup>2</sup> Le maître d’ouvrage informe le service cantonal du cadastre, dans un délai de 20 jours après la fin des travaux de construction, de toute modification de ses constructions et installations rendant nécessaire une mise à jour de la mensuration officielle.
+<sup>2</sup>
 
-[^32a-1]: Introduit par l’annexe ch. 2 de l’O du 21 mai 2008 ([RO 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)). Nouvelle teneur selon l’annexe ch. 4 de l’O du 23 août 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)).
+Pour les constructions et les installations qui nécessitent une mise à jour de la mensuration officielle ou de la mensuration nationale, le maître d’ouvrage informe swisstopo dans un délai de 20 jours, en lui remettant les plans de planification dont il a besoin:
+
+- a. du début des travaux, et
+- b. de l’achèvement des travaux.
+
+<sup>3</sup> Si un projet se situe en tout ou en partie hors de la zone à bâtir, le maître d’ouvrage transmet en même temps que l’information à swisstopo de l’achèvement des travaux, les plans en vigueur visés à l’art. 9, let. q, sous forme de géodonnées, à l’autorité cantonale compétente visée à l’art. 25, al. 2, de la loi du 22 juin 1979 sur l’aménagement du territoire[^32a-2].
+
+[^32a-1]: Introduit par l’annexe ch. 2 de l’O du 21 mai 2008 ([RO 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)). Nouvelle teneur selon l’annexe ch. 2 de l’O du 15 oct. 2025, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2025 659](https://fedlex.data.admin.ch/eli/oc/2025/659)).
+[^32a-2]: [RS 700](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8351)
 
 ## Chapitre 6 Dispositions finales
 

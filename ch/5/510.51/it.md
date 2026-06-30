@@ -4,11 +4,11 @@ title: "Ordinanza del 13 dicembre 1999 concernente la procedura di approvazione 
 short: OAPCM
 eli: "https://fedlex.data.admin.ch/eli/cc/2000/15"
 language: it
-version: 2024-01-01
+version: 2026-07-01
 adopted: 1999-12-13
 in_force: 2000-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/15/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2000-15-20240101-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2000/15/20240101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/15/20260701/it/xml/fedlex-data-admin-ch-eli-cc-2000-15-20260701-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2000/15/20260701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2000/15/20240101/it"
 
 (Ordinanza concernente l’approvazione dei piani di costruzioni militari, OAPCM)
 
-del 13 dicembre 1999 (Stato 1° gennaio 2024)
+del 13 dicembre 1999 (Stato 1° luglio 2026)
 
 Il Consiglio federale svizzero,
 
@@ -25,8 +25,8 @@ visti gli articoli 126–130 e 150 capoverso 1 della legge militare del 3 febbra
 
 ordina:
 
-[^ingress-1]: [RS 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
-[^ingress-2]: Nuovo testo giusta il n. I 2 dell’O del 19 ago. 2020 che adegua ordinanze a seguito della modifica della legge federale sull’espropriazione, in vigore dal 1° gen. 2021 ([RU 2020 3995](https://fedlex.data.admin.ch/eli/oc/2020/744)).
+[^ingress-1]: [RS 510.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7242)
+[^ingress-2]: Nuovo testo giusta la cifra I n. 2 dell’O del 19 ago. 2020 che adegua ordinanze a seguito della modifica della legge federale sull’espropriazione, in vigore dal 1° gen. 2021 ([RU 2020 3995](https://fedlex.data.admin.ch/eli/oc/2020/744)).
 
 ## Capitolo 1: Disposizioni generali
 
@@ -51,7 +51,7 @@ Si tratta segnatamente di costruzioni e di impianti che:
 
 La Segreteria generale del Dipartimento federale della difesa, della protezione della popolazione e dello sport (DDPS) è competente per lo svolgimento della procedura di approvazione dei piani militari.
 
-[^2-1]: Nuovo testo giusta il n. I 2 dell’O del 19 ago. 2020 che adegua ordinanze a seguito della modifica della legge federale sull’espropriazione, in vigore dal 1° gen. 2021 ([RU 2020 3995](https://fedlex.data.admin.ch/eli/oc/2020/744)).
+[^2-1]: Nuovo testo giusta la cifra I n. 2 dell’O del 19 ago. 2020 che adegua ordinanze a seguito della modifica della legge federale sull’espropriazione, in vigore dal 1° gen. 2021 ([RU 2020 3995](https://fedlex.data.admin.ch/eli/oc/2020/744)).
 
 #### Art. 3
 
@@ -65,10 +65,10 @@ La Segreteria generale del Dipartimento federale della difesa, della protezione 
 
 <sup>4</sup> Nella misura in cui l’utilizzazione civile sottostà alla procedura di approvazione dei piani militare, sono applicabili le disposizioni materiali del diritto di pianificazione del territorio, segnatamente gli articoli 22 e 24 della legge del 22 giugno 1979[^3-4] sulla pianificazione del territorio.
 
-[^3-1]: Nuovo testo giusta il n. I 2 dell’O del 19 ago. 2020 che adegua ordinanze a seguito della modifica della legge federale sull’espropriazione, in vigore dal 1° gen. 2021 ([RU 2020 3995](https://fedlex.data.admin.ch/eli/oc/2020/744)).
-[^3-2]: [RS 711](https://fedlex.data.admin.ch/eli/cc/47/689_701_723)
-[^3-3]: Nuovo testo giusta il n. I 2 dell’O del 19 ago. 2020 che adegua ordinanze a seguito della modifica della legge federale sull’espropriazione, in vigore dal 1° gen. 2021 ([RU 2020 3995](https://fedlex.data.admin.ch/eli/oc/2020/744)).
-[^3-4]: [RS 700](https://fedlex.data.admin.ch/eli/cc/1979/1573_1573_1573)
+[^3-1]: Nuovo testo giusta la cifra I n. 2 dell’O del 19 ago. 2020 che adegua ordinanze a seguito della modifica della legge federale sull’espropriazione, in vigore dal 1° gen. 2021 ([RU 2020 3995](https://fedlex.data.admin.ch/eli/oc/2020/744)).
+[^3-2]: [RS 711](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8369)
+[^3-3]: Nuovo testo giusta la cifra I n. 2 dell’O del 19 ago. 2020 che adegua ordinanze a seguito della modifica della legge federale sull’espropriazione, in vigore dal 1° gen. 2021 ([RU 2020 3995](https://fedlex.data.admin.ch/eli/oc/2020/744)).
+[^3-4]: [RS 700](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8351)
 
 #### Art. 4
 
@@ -107,8 +107,8 @@ Sempre che non sia toccato alcun interesse degno di protezione dell’assetto de
 
 <sup>5</sup> L’autorità competente per l’approvazione dei piani provvede alla coordinazione della procedura concernente il piano settoriale e della procedura d’approvazione dei piani.
 
-[^6-1]: [RS 510.518](https://fedlex.data.admin.ch/eli/cc/1950/1474_1519_1485)
-[^6-2]: [RS 814.011](https://fedlex.data.admin.ch/eli/cc/1988/1931_1931_1931)
+[^6-1]: [RS 510.518](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7325)
+[^6-2]: [RS 814.011](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9438)
 
 ## Capitolo 2: Procedura ordinaria di approvazione dei piani
 
@@ -150,7 +150,7 @@ In base ai documenti presentati l’autorità competente per l’approvazione de
 
 <sup>2</sup> Detta autorità può esigere che i documenti siano completati o rielaborati.
 
-[^8-1]: Nuovo testo giusta il n. I 2 dell’O del 19 ago. 2020 che adegua ordinanze a seguito della modifica della legge federale sull’espropriazione, in vigore dal 1° gen. 2021 ([RU 2020 3995](https://fedlex.data.admin.ch/eli/oc/2020/744)).
+[^8-1]: Nuovo testo giusta la cifra I n. 2 dell’O del 19 ago. 2020 che adegua ordinanze a seguito della modifica della legge federale sull’espropriazione, in vigore dal 1° gen. 2021 ([RU 2020 3995](https://fedlex.data.admin.ch/eli/oc/2020/744)).
 
 #### Art. 9
 
@@ -173,12 +173,15 @@ La domanda deve contenere segnatamente le indicazioni e i documenti seguenti:
 - m. le domande di dissodamento con le indicazioni secondo le direttive giusta l’articolo 5 dell’ordinanza del 30 novembre 1992[^9-3] sulle foreste;
 - n. l’inserimento nel piano settoriale Militare;
 - o.[^9-4] il rapporto sui risultati, nonché le proposte scritte di un’eventuale procedura di consultazione già eseguita (art. 13 cpv. 2);
-- p. i regolamenti di utilizzazione necessari nell’ambito di progetti rilevanti in materia di piano settoriale.
+- p. i regolamenti di utilizzazione necessari nell’ambito di progetti rilevanti in materia di piano settoriale;
+- q.[^9-5] per i progetti fuori delle zone edificabili: i piani dai quali risulti la delimitazione di eventuali edifici nuovi o demoliti ai sensi dell’articolo 25*a* capoverso 1 dell’ordinanza del 28 giugno 2000[^9-6] sulla pianificazione del territorio e di eventuali superfici impermeabilizzate nuove o demolite ai sensi dell’articolo 25*a* capoverso 2 dell’ordinanza sulla pianificazione del territorio.
 
-[^9-1]: [RS 814.011](https://fedlex.data.admin.ch/eli/cc/1988/1931_1931_1931)
-[^9-2]: [RS 814.012](https://fedlex.data.admin.ch/eli/cc/1991/748_748_748)
-[^9-3]: [RS 921.01](https://fedlex.data.admin.ch/eli/cc/1992/2538_2538_2538)
-[^9-4]: Nuovo testo giusta il n. I 2 dell’O del 19 ago. 2020 che adegua ordinanze a seguito della modifica della legge federale sull’espropriazione, in vigore dal 1° gen. 2021 ([RU 2020 3995](https://fedlex.data.admin.ch/eli/oc/2020/744)).
+[^9-1]: [RS 814.011](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9438)
+[^9-2]: [RS 814.012](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9439)
+[^9-3]: [RS 921.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10959)
+[^9-4]: Nuovo testo giusta la cifra I n. 2 dell’O del 19 ago. 2020 che adegua ordinanze a seguito della modifica della legge federale sull’espropriazione, in vigore dal 1° gen. 2021 ([RU 2020 3995](https://fedlex.data.admin.ch/eli/oc/2020/744)).
+[^9-5]: Introdotta dall’appendice n. 2 dell’O del 15 ott. 2025, in vigore dal 1° lug. 2026 ([RU 2025 659](https://fedlex.data.admin.ch/eli/oc/2025/659)).
+[^9-6]: [RS 700.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8353)
 
 #### Art. 10
 
@@ -220,7 +223,7 @@ L’autorità competente per l’approvazione dei piani invia la documentazione 
 
 <sup>3</sup> Nell’ambito della procedura semplificata di approvazione dei piani non ha luogo alcuna procedura di partecipazione.
 
-[^13-1]: Nuovo testo giusta il n. I 2 dell’O del 19 ago. 2020 che adegua ordinanze a seguito della modifica della legge federale sull’espropriazione, in vigore dal 1° gen. 2021 ([RU 2020 3995](https://fedlex.data.admin.ch/eli/oc/2020/744)).
+[^13-1]: Nuovo testo giusta la cifra I n. 2 dell’O del 19 ago. 2020 che adegua ordinanze a seguito della modifica della legge federale sull’espropriazione, in vigore dal 1° gen. 2021 ([RU 2020 3995](https://fedlex.data.admin.ch/eli/oc/2020/744)).
 
 #### Art. 14
 
@@ -232,8 +235,8 @@ L’autorità competente per l’approvazione dei piani invia la documentazione 
 
 <sup>3</sup> Allo scadere del termine di deposito pubblico dei piani, l’autorità competente per l’approvazione dei piani trasmette al Comune eventuali opposizioni e proposte ricevute dalla popolazione e impartisce al Comune un termine per la presentazione di un parere.[^14-2]
 
-[^14-1]: Nuovo testo giusta il n. I 2 dell’O del 19 ago. 2020 che adegua ordinanze a seguito della modifica della legge federale sull’espropriazione, in vigore dal 1° gen. 2021 ([RU 2020 3995](https://fedlex.data.admin.ch/eli/oc/2020/744)).
-[^14-2]: Introdotto dal n. I 2 dell’O del 19 ago. 2020 che adegua ordinanze a seguito della modifica della legge federale sull’espropriazione, in vigore dal 1° gen. 2021 ([RU 2020 3995](https://fedlex.data.admin.ch/eli/oc/2020/744)).
+[^14-1]: Nuovo testo giusta la cifra I n. 2 dell’O del 19 ago. 2020 che adegua ordinanze a seguito della modifica della legge federale sull’espropriazione, in vigore dal 1° gen. 2021 ([RU 2020 3995](https://fedlex.data.admin.ch/eli/oc/2020/744)).
+[^14-2]: Introdotto dalla I n. 2 dell’O del 19 ago. 2020 che adegua ordinanze a seguito della modifica della legge federale sull’espropriazione, in vigore dal 1° gen. 2021 ([RU 2020 3995](https://fedlex.data.admin.ch/eli/oc/2020/744)).
 
 #### Art. 15
 
@@ -245,7 +248,7 @@ L’autorità competente per l’approvazione dei piani invia la documentazione 
 
 <sup>3</sup> ...[^15-1]
 
-[^15-1]: Abrogato dal n. I 2 dell’O del 19 ago. 2020 che adegua ordinanze a seguito della modifica della legge federale sull’espropriazione, con effetto dal 1° gen. 2021 ([RU 2020 3995](https://fedlex.data.admin.ch/eli/oc/2020/744)).
+[^15-1]: Abrogato dalla I n. 2 dell’O del 19 ago. 2020 che adegua ordinanze a seguito della modifica della legge federale sull’espropriazione, con effetto dal 1° gen. 2021 ([RU 2020 3995](https://fedlex.data.admin.ch/eli/oc/2020/744)).
 
 #### Art. 16
 
@@ -269,7 +272,7 @@ L’autorità competente per l’approvazione dei piani sottopone al richiedente
 
 <sup>2</sup> L’autorità competente per l’approvazione dei piani sottopone alle autorità specializzate della Confederazione i pareri dei Cantoni e dei Comuni, nonché le opposizioni e le proposte della popolazione. Le autorità specializzate si esprimono in modo definitivo entro un mese.
 
-[^18-1]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^18-1]: [RS 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
 
 #### Art. 19
 
@@ -279,7 +282,7 @@ L’autorità competente per l’approvazione dei piani sottopone al richiedente
 
 <sup>2</sup> Sono fatti salvi i termini derogatori secondo l’ordinanza del 19 ottobre 1988[^19-1] concernente l’esame dell’impatto sull’ambiente.
 
-[^19-1]: [RS 814.011](https://fedlex.data.admin.ch/eli/cc/1988/1931_1931_1931)
+[^19-1]: [RS 814.011](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9438)
 
 ### Sezione 4: Procedura d’istruzione e di conciliazione
 
@@ -311,7 +314,7 @@ L’autorità competente per l’approvazione dei piani sottopone al richiedente
 
 [^chap4-1]
 
-[^chap4-1]: Nuovo testo giusta il n. I 2 dell’O del 19 ago. 2020 che adegua ordinanze a seguito della modifica della legge federale sull’espropriazione, in vigore dal 1° gen. 2021 ([RU 2020 3995](https://fedlex.data.admin.ch/eli/oc/2020/744)).
+[^chap4-1]: Nuovo testo giusta la cifra I n. 2 dell’O del 19 ago. 2020 che adegua ordinanze a seguito della modifica della legge federale sull’espropriazione, in vigore dal 1° gen. 2021 ([RU 2020 3995](https://fedlex.data.admin.ch/eli/oc/2020/744)).
 
 ### Sezione 1: Procedura di espropriazione combinata
 
@@ -321,7 +324,7 @@ L’autorità competente per l’approvazione dei piani sottopone al richiedente
 
 <sup>2</sup> Il richiedente trasmette all’autorità competente per l’approvazione dei piani la documentazione necessaria secondo l’articolo 28 LEspr. Dopo averla esaminata, se del caso, l’autorità citata chiede di completare la documentazione.
 
-[^23-1]: [RS 711](https://fedlex.data.admin.ch/eli/cc/47/689_701_723)
+[^23-1]: [RS 711](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8369)
 
 #### Art. 24–26
 
@@ -333,7 +336,7 @@ Abrogati
 
 Se devono essere autorizzate espropriazioni senza approvazione dei piani, l’autorità competente per l’approvazione dei piani svolge la procedura di espropriazione autonoma secondo gli articoli 36–41 LEspr[^26a-1].
 
-[^26a-1]: [RS 711](https://fedlex.data.admin.ch/eli/cc/47/689_701_723)
+[^26a-1]: [RS 711](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8369)
 
 ### Sezione 3: Procedura di conciliazione e di stima
 
@@ -341,7 +344,7 @@ Se devono essere autorizzate espropriazioni senza approvazione dei piani, l’au
 
 Dopo il passaggio in giudicato di un’approvazione dei piani è svolta, se necessario, la procedura di conciliazione e di stima davanti alla Commissione federale di stima secondo gli articoli 45–54 o 64–75 LEspr[^27-1].
 
-[^27-1]: [RS 711](https://fedlex.data.admin.ch/eli/cc/47/689_701_723)
+[^27-1]: [RS 711](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8369)
 
 #### Art. 28
 
@@ -369,7 +372,7 @@ La decisione contiene segnatamente:
 
 <sup>4</sup> La decisione di approvazione dei piani avviene, di regola, entro tre mesi dalla chiusura della procedura di eliminazione delle divergenze. Se questo termine non può essere rispettato, l’autorità competente per l’approvazione comunica al richiedente, con l’indicazione dei motivi, quando prenderà detta decisione.
 
-[^29-1]: Abrogata dal n. I 2 dell’O del 19 ago. 2020 che adegua ordinanze a seguito della modifica della legge federale sull’espropriazione, con effetto dal 1° gen. 2021 ([RU 2020 3995](https://fedlex.data.admin.ch/eli/oc/2020/744)).
+[^29-1]: Abrogata dalla cifra I n. 2 dell’O del 19 ago. 2020 che adegua ordinanze a seguito della modifica della legge federale sull’espropriazione, con effetto dal 1° gen. 2021 ([RU 2020 3995](https://fedlex.data.admin.ch/eli/oc/2020/744)).
 
 #### Art. 30
 
@@ -401,8 +404,8 @@ Con l’approvazione dei piani, l’autorità competente per l’approvazione de
 - b. le opposizioni sembrano non avere alcuna possibilità di successo e il richiedente può assicurare il ripristino nello stato originale;
 - c. è dimostrata la particolare urgenza.
 
-[^31-1]: Nuovo testo giusta il n. I 2 dell’O del 19 ago. 2020 che adegua ordinanze a seguito della modifica della legge federale sull’espropriazione, in vigore dal 1° gen. 2021 ([RU 2020 3995](https://fedlex.data.admin.ch/eli/oc/2020/744)).
-[^31-2]: Nuovo testo giusta il n. I 2 dell’O del 19 ago. 2020 che adegua ordinanze a seguito della modifica della legge federale sull’espropriazione, in vigore dal 1° gen. 2021 ([RU 2020 3995](https://fedlex.data.admin.ch/eli/oc/2020/744)).
+[^31-1]: Nuovo testo giusta la cifra I n. 2 dell’O del 19 ago. 2020 che adegua ordinanze a seguito della modifica della legge federale sull’espropriazione, in vigore dal 1° gen. 2021 ([RU 2020 3995](https://fedlex.data.admin.ch/eli/oc/2020/744)).
+[^31-2]: Nuovo testo giusta la cifra I n. 2 dell’O del 19 ago. 2020 che adegua ordinanze a seguito della modifica della legge federale sull’espropriazione, in vigore dal 1° gen. 2021 ([RU 2020 3995](https://fedlex.data.admin.ch/eli/oc/2020/744)).
 
 #### Art. 32
 
@@ -412,13 +415,21 @@ Gli adattamenti ulteriori del progetto devono essere sottoposti all’autorità 
 
 #### Art. 32a
 
-**Notifiche al servizio cantonale di vigilanza sulle misurazioni**[^32a-1]
+**Obblighi di notifica**[^32a-1]
 
-<sup>1</sup> L’autorità competente per l’approvazione dei piani informa il servizio cantonale di vigilanza sulle misurazioni in merito all’apertura di una procedura di approvazione dei piani.
+<sup>1</sup> L’autorità competente per l’approvazione informa l’Ufficio federale di topografia (swisstopo) in merito alla conclusione di una procedura di approvazione dei piani trasmettendo la decisione di approvazione dei piani e i piani richiesti da swisstopo.
 
-<sup>2</sup> Il committente informa entro 20 giorni dalla conclusione dei lavori il servizio cantonale di vigilanza sulle misurazioni in merito a modifiche delle proprie costruzioni e dei propri impianti che rendono necessaria una tenuta a giorno della misurazione ufficiale.
+<sup>2</sup>
 
-[^32a-1]: Introdotto dall’all. n. 2 all’O del 21 mag. 2008 ([RU 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)). Nuovo testo giusta l’all. n. 4 dell’O del 23 ago. 2023, in vigore dal 1° gen. 2024 ([RU 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)).
+Nel caso di costruzioni e impianti che rendono necessaria una tenuta a giorno della misurazione ufficiale o della misurazione nazionale, il committente è tenuto a comunicare a swisstopo entro 20 giorni, allegando i piani richiesti da swisstopo:
+
+- a. l’inizio dei lavori; e
+- b. il completamento dei lavori.
+
+<sup>3</sup> Se il progetto è situato in tutto o in parte fuori delle zone edificabili, il committente trasmette sotto forma di geodati i piani di cui all’articolo 9 lettera q approvati con decisione passata in giudicato all’autorità cantonale competente di cui all’articolo 25 capoverso 2 della legge del 22 giugno 1979[^32a-2] sulla pianificazione del territorio contestualmente alla comunicazione a swisstopo del completamento dei lavori.
+
+[^32a-1]: Introdotto dall’all. n. 2 dell’O del 21 mag. 2008 ([RU 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)). Nuovo testo giusta l’appendice n. 2 dell’O del 15 ott. 2025, in vigore dal 1° lug. 2026 ([RU 2025 659](https://fedlex.data.admin.ch/eli/oc/2025/659)).
+[^32a-2]: [RS 700](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8351)
 
 ## Capitolo 6: Disposizioni finali
 
@@ -442,7 +453,7 @@ Alle fasi delle procedure in sospeso al momento dell’entrata in vigore della p
 
 Le procedure di espropriazione avviate prima dell’entrata in vigore della presente modifica e ancora pendenti sono concluse conformemente al diritto previgente.
 
-[^34a-1]: Introdotto dal n. I 2 dell’O del 19 ago. 2020 che adegua ordinanze a seguito della modifica della legge federale sull’espropriazione, in vigore dal 1° gen. 2021 ([RU 2020 3995](https://fedlex.data.admin.ch/eli/oc/2020/744)).
+[^34a-1]: Introdotto dalla cifra I n. 2 dell’O del 19 ago. 2020 che adegua ordinanze a seguito della modifica della legge federale sull’espropriazione, in vigore dal 1° gen. 2021 ([RU 2020 3995](https://fedlex.data.admin.ch/eli/oc/2020/744)).
 
 #### Art. 35
 
