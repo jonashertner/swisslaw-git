@@ -3,20 +3,19 @@ canton: NW
 number: "611.113"
 title: Regierungsratsbeschluss zur Anwendbarkeit des Gewässerraumabstands
 language: de
-version: 2026-05-01
-valid_until: 2026-06-30
-version_adopted: 2026-04-21
+version: 2026-07-01
+version_adopted: 2026-05-26
 adopted: 2025-02-18
 in_force: 2025-03-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/611.113"
-pdf: "https://gesetze.nw.ch/api/de/versions/1500/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/1527/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Regierungsratsbeschluss zur Anwendbarkeit des Gewässerraumabstands
 
-vom 18.02.2025 (Stand 01.05.2026)
+vom 18.02.2025 (Stand 01.07.2026)
 
 Der Regierungsrat von Nidwalden,
 
@@ -32,11 +31,11 @@ beschliesst:
 
 <table>
 <tr><th>Gemeinde</th><th>Anwendbarkeit des Gewässerraumabstands</th></tr>
-<tr><td>Beckenried</td><td>noch anwendbar</td></tr>
+<tr><td>Beckenried</td><td>ab 1. Juli 2026 nicht mehr anwendbar</td></tr>
 <tr><td>Buochs</td><td>ab 1. Oktober 2025 nicht mehr anwendbar</td></tr>
 <tr><td>Dallenwil</td><td>noch anwendbar</td></tr>
-<tr><td>Emmetten</td><td>noch anwendbar</td></tr>
-<tr><td>Ennetbürgen</td><td>noch anwendbar</td></tr>
+<tr><td>Emmetten</td><td>ab 1. Juli 2026 nicht mehr anwendbar</td></tr>
+<tr><td>Ennetbürgen</td><td>ab 1. Juli 2026 nicht mehr anwendbar</td></tr>
 <tr><td>Ennetmoos</td><td>ab 1. März 2025 nicht mehr anwendbar</td></tr>
 <tr><td>Hergiswil</td><td>ab 1. März 2025 nicht mehr anwendbar</td></tr>
 <tr><td>Oberdorf</td><td>noch anwendbar</td></tr>
