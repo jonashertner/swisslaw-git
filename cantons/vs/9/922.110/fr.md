@@ -1,22 +1,21 @@
 ---
 canton: VS
 number: "922.110"
-title: "Arrêté sur l'exercice de la chasse en Valais 2025-2026"
+title: "Arrêté sur l'exercice de la chasse en Valais 2026-2027"
 language: fr
-version: 2025-07-01
-corrected: 2025-08-08
-version_adopted: 2025-08-06
+version: 2026-07-01
+version_adopted: 2026-07-08
 adopted: 2026-06-17
 in_force: 2026-07-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/922.110"
-pdf: "https://lex.vs.ch/api/fr/versions/3500/pdf_file"
+pdf: "https://lex.vs.ch/api/fr/versions/3642/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
 
-# Arrêté sur l'exercice de la chasse en Valais 2025-2026
+# Arrêté sur l'exercice de la chasse en Valais 2026-2027
 
-du 18.06.2025 (état 01.07.2025)
+du 17.06.2026 (état 01.07.2026)
 
 Le Conseil d'Etat du canton du Valais
 
@@ -118,11 +117,7 @@ arrête:[^ingress-1]
 
 <sup>2</sup> Celui qui n’a pas reçu le formulaire de commande au 1<sup>er</sup> août peut s’adresser au SCPF.
 
-<sup>3</sup> A l'exception du permis S, pour toutes les commandes de permis de chasse qui parviennent au SCPF sous forme papier, une taxe de 50 francs est perçue.
-
-<sup>4</sup> Toute commande de permis A, B, A+B et G émise après le 21 août fera l'objet d'une facturation de 50 francs. Le cachet du timbre postal fait foi. Pour les commandes formulées avec le formulaire papier, cette taxe fera l’objet d’une facture et pour les commandes en ligne elle sera automatiquement imputée sur le prix du permis.
-
-<sup>5</sup> Le permis R peut être requis par toute personne disposant d'un certificat de capacité de chasser équivalent à celui du permis de chasse valaisan.
+<sup>3</sup> Le permis R peut être requis par toute personne disposant d'un certificat de capacité de chasser équivalent à celui du permis de chasse valaisan.
 
 #### Art. 7
 
@@ -130,7 +125,7 @@ arrête:[^ingress-1]
 
 <sup>1</sup> La délivrance de la carte d’invité est sollicitée exclusivement par le chasseur porteur du permis valaisan qui en assume les frais. L'inscription se fait uniquement via le formulaire mis en ligne sur le site du SCPF. Il n'est pas possible de s'inscrire par d'autres moyens.
 
-<sup>2</sup> Le formulaire de commande de la carte d’invité doit être transmis au SCPF avec tous les justificatifs requis au plus tard 2 semaines avant l’ouverture de la chasse haute.
+<sup>2</sup> Le formulaire de commande de la carte d’invité doit être transmis au SCPF avec tous les justificatifs requis au plus tard 10 jours avant le jour de chasse correspondant.
 
 <sup>3</sup> Sous réserve de l'article 23 alinéa 4 RexChP, l’invité est autorisé à prélever le cerf, le chevreuil, le chamois, la marmotte, le sanglier et les petits prédateurs autorisés durant les périodes des permis A et B, selon les dispositions spécifiques à ces espèces et pour autant que le contingent attribué au chasseur qui a sollicité l’invitation le permette.
 
@@ -144,11 +139,11 @@ arrête:[^ingress-1]
 
 **Dates d'ouvertures et durées**
 
-<sup>1</sup> L’ouverture de l’exercice de la chasse 2025-2026 est fixée au 15 septembre 2025.
+<sup>1</sup> L’ouverture de l’exercice de la chasse 2026-2027 est fixée au 21 septembre 2026.
 
-<sup>2</sup> Les dates d’ouverture pour l’exercice de la chasse 2025-2026 figurent dans l’annexe 1.
+<sup>2</sup> Les dates d’ouverture pour l’exercice de la chasse 2026-2027 figurent dans l’annexe 1.
 
-<sup>3</sup> L'ouverture de l'exercice de la chasse 2026-2027 est fixée au 21 septembre 2026.
+<sup>3</sup> L'ouverture de l'exercice de la chasse 2027-2028 est fixée au 20 septembre 2026.
 
 #### Art. 9
 
@@ -291,7 +286,7 @@ arrête:[^ingress-1]
 - a) 2 chamois adultes de 3,5 ans ou plus, à savoir 1 bouc et 1 chèvre ou 2 boucs;
 - b) 1 éterle (mâle).
 
-<sup>2</sup> Il est autorisé de tirer au maximum 2 chamois mâles (à savoir 1 bouc adulte de 3,5 ans ou plus et 1 éterle mâle ou 2 boucs adultes de 3,5 ans ou plus).
+<sup>2</sup> Il est autorisé de tirer au maximum 2 chamois mâles (à savoir 1 bouc adulte et 1 éterle mâle ou 2 boucs adultes), dont au maximum 1 bouc adulte peut être abattu dans l'ensemble des zones soumises à des prescriptions spéciales conformément à l'article 18. Par conséquent, pour atteindre le quota maximum de 2 boucs, 1 bouc adulte doit être abattu dans une zone sans prescriptions spéciales.
 
 <sup>3</sup> Le gibier suivant est protégé:
 
@@ -330,16 +325,17 @@ arrête:[^ingress-1]
 
 <sup>2</sup> Dans les sous-unités de chamois 1.1, 1.2 et 1.3, le chasseur peut tirer le gibier suivant:
 
-- a) 1 chèvre non-allaitante de 11,5 ans ou plus;
-- b) 1 éterle chétif (mâle d’un poids inférieur ou égal à 14kg / femelle d’un poids inférieur ou égal à 13kg).
+- a) 1 bouc de 11,5 ans ou plus;
+- b) 1 chèvre non-allaitante de 11,5 ans ou plus;
+- c) 1 éterle chétif (mâle d’un poids inférieur ou égal à 14kg / femelle d’un poids inférieur ou égal à 13kg).
 
-<sup>3</sup> Dans les sous-unités de chamois 2.2 et 6.3, le chasseur peut tirer le gibier suivant:
+<sup>3</sup> Dans les sous-unités de chamois 2.2, 6.1 et 6.3, le chasseur peut tirer le gibier suivant:
 
 - a) 1 bouc de 5,5 ans ou plus;
 - b) 1 chèvre non-allaitante de 3,5 ans ou plus;
 - c) 1 éterle mâle. Si un éterle mâle fort est prélevé (poids supérieur ou égal à 17kg), le contingent de tir du chamois adulte mâle est perdu. Si le bouc a déjà été prélevé, il s’agit d’une erreur de tir.
 
-<sup>4</sup> Dans les sous-unités de chamois 4.1 et 4.2, le chasseur peut tirer le gibier suivant:
+<sup>4</sup> Dans les sous-unités de chamois 4.1, 4.2, 5.2 et 6.4, le chasseur peut tirer le gibier suivant:
 
 - a) 1 bouc de 3,5 ans ou plus;
 - b) 1 chèvre non-allaitante de 3,5 ans ou plus;
@@ -349,7 +345,7 @@ arrête:[^ingress-1]
 
 - a) 1 bouc de 5,5 ans ou plus;
 - b) 1 chèvre non-allaitante de 3,5 ans ou plus;
-- c) 1 éterle chétif (mâle d’un poids inférieur ou égal à 14kg / femelle d’un poids inférieur ou égal à 13kg).
+- c) 1 éterle mâle chétif (d’un poids inférieur ou égal à 14kg).
 
 <sup>6</sup> Dans les sous-unités de chamois 7.2, 7.3, 7.4, 10.4 et 10.5, le chasseur peut tirer le gibier suivant:
 
@@ -363,6 +359,8 @@ arrête:[^ingress-1]
 **g) Chasse du chevreuil pendant la chasse haute**
 
 <sup>1</sup> Le porteur du permis A+B ou G est autorisé à tirer 2 chevrettes non allaitantes durant toute la chasse haute. Le chasseur qui a abattu 1 chevrette allaitante, 1 faon de chevreuil ou 1 brocard, perd son contingent chevrette. Lors du contrôle, le garde-faune lui supprime les droits de tir restants.
+
+<sup>2</sup> Dans les sous-unités 7.1, 7.2, 7.3, 7.4, 7.5 et 7.6, il est interdit de tirer des chevrettes pendant la chasse haute.
 
 #### Art. 20
 
@@ -387,13 +385,15 @@ arrête:[^ingress-1]
 
 <sup>3</sup> Un chasseur peut céder le contingent dont il dispose encore à un autre chasseur titulaire d'un permis B. Les 2 chasseurs doivent être présents simultanément sur le terrain de chasse et sur le lieu du tir pour inscrire l’animal avant de le déplacer.
 
-<sup>4</sup> Le chasseur qui, lors de la chasse au brocard, abat 1 chevrette ou 1 faon de chevreuil, perd son contingent brocard. Lors du contrôle, le garde-faune lui supprime les droits de tir restants.
+<sup>4</sup> Dans l'ensemble des sous-unités 7.1, 7.2, 7.3, 7.4, 7.5 et 7.6, le chasseur peut tirer au maximum 1 brocard. Par conséquent, le deuxième brocard doit être abattu dans une sous-unité située en dehors des unités susmentionnées. En outre, dans ces sous-unités, le chasseur n'est pas autorisé à transférer son quota à d'autres chasseurs.
+
+<sup>5</sup> Le chasseur qui, lors de la chasse au brocard, abat 1 chevrette ou 1 faon de chevreuil, perd son contingent brocard. Lors du contrôle, le garde-faune lui supprime les droits de tir restants.
 
 #### Art. 22
 
 **c) Chasse au lièvre brun et variable et lapin de garenne**
 
-<sup>1</sup> La chasse est autorisée à partir du 4 octobre 2025 jusqu'au 29 novembre 2025.
+<sup>1</sup> La chasse est autorisée à partir du 6 octobre 2026 jusqu'au 28 novembre 2026.
 
 <sup>2</sup> Les dispositions relatives à l'utilisation des chiens selon l'article 29 du présent arrêté sont applicables.
 
@@ -403,16 +403,16 @@ arrête:[^ingress-1]
 
 <sup>1</sup> La chasse à l'arrêt pour le tétras-lyre et le lagopède se pratique:
 
-- a) dès le 16 octobre 2025, sans jours de trêve, jusqu'au 31 octobre 2025;
-- b) dès le 4 novembre 2025, les jours autorisés du permis B, jusqu'au 29 novembre 2025.
+- a) dès le 16 octobre 2026, sans jours de trêve, jusqu'au 31 octobre 2026;
+- b) dès le 3 novembre 2026, les jours autorisés du permis B, jusqu'au 28 novembre 2026.
 
 <sup>2</sup> La chasse à l'arrêt pour la bécasse des bois se pratique:
 
-- a) dès le 20 octobre 2025, sans jours de trêve, jusqu'au 31 octobre 2025;
-- b) dès le 4 novembre 2025, les jours autorisés du permis B, jusqu'au 29 novembre 2025;
+- a) dès le 20 octobre 2026, sans jours de trêve, jusqu'au 31 octobre 2026;
+- b) dès le 3 novembre 2026, les jours autorisés du permis B, jusqu'au 28 novembre 2026;
 - c) contingents: 15 pièces, jusqu'à fin octobre 3 pièces (maximum 1 par jour), dès le 1<sup>er</sup> novembre, solde du contingent (maximum 2 par jour).
 
-<sup>3</sup> Du 16 au 31 octobre 2025, la restriction de l’utilisation des véhicules à moteur définie par l’article 32 du présent arrêté est applicable uniquement pendant les jours de chasse où la chasse au brocard est également autorisée.
+<sup>3</sup> Du 16 au 31 octobre 2026, la restriction de l’utilisation des véhicules à moteur définie par l’article 32 du présent arrêté est applicable uniquement pendant les jours de chasse où la chasse au brocard est également autorisée.
 
 <sup>4</sup> Les dispositions relatives à l'utilisation des chiens selon l'article 29 du présent arrêté sont applicables.
 
@@ -422,8 +422,8 @@ arrête:[^ingress-1]
 
 <sup>1</sup> La chasse au gibier d'eau se pratique:
 
-- a) dès le 4 novembre 2025, les jours autorisés du permis B, jusqu'au 29 novembre 2025;
-- b) dès le 1<sup>er</sup> décembre 2025 sans jours de trêve, jusqu'au 31 janvier 2026.
+- a) dès le 3 novembre 2026, les jours autorisés du permis B, jusqu'au 28 novembre 2026;
+- b) dès le 1<sup>er</sup> décembre 2026 sans jours de trêve, jusqu'au 30 janvier 2027.
 
 <sup>2</sup> Ce permis donne le droit d'abattre, avec l'arme à canon lisse, le grèbe huppé, la foulque macroule, le cormoran et les canards sauvages autorisés par la LChP, ainsi que les corvidés et les petits prédateurs chassables selon l’article 25 du présent arrêté.
 
@@ -437,7 +437,7 @@ arrête:[^ingress-1]
 
 **Permis E - Chasse aux petits prédateurs**
 
-<sup>1</sup> Le permis E donne le droit de tirer le blaireau (protégé dès le 16 janvier), la martre et la fouine (protégées dès le 16 février) et le renard (jusqu’au 28 février), selon les conditions suivantes:
+<sup>1</sup> Le permis E donne le droit de tirer le blaireau (protégé dès le 16 janvier), la martre et la fouine (protégées dès le 16 février) et le renard (jusqu’au 27 février), selon les conditions suivantes:
 
 - a) pour la chasse au terrier avec l'arme à canon lisse:
   - 1\. les chasseurs doivent s'annoncer au moins 24 heures à l'avance au garde-faune du secteur, en précisant le lieu, les chasseurs accompagnants et le moment de la chasse,
@@ -449,10 +449,10 @@ arrête:[^ingress-1]
   - 4\. le changement du lieu d’affût durant la même soirée de chasse est interdit. En quittant son poste le chasseur met fin à la chasse du jour,
   - 5\. le tir depuis l’intérieur d’un véhicule stationné à l’emplacement de l’affût est autorisé,
   - 6\. les prescriptions techniques du RexChP relatives aux postes fixes et aux tirs depuis un bâtiment ne sont pas applicables,
-  - 7\. sous réserve d'une autorisation du garde-faune, l’utilisation de sous-produits animaux[^25-1] en guise d’appâts est interdite;
+  - 7\. sous réserve d'une autorisation du garde-faune, l’utilisation de sous-produits animaux [^25-1] en guise d’appâts est interdite;
 - c) le chasseur a le devoir de déposer les animaux abattus dans un centre pour déchets carnés. Toutefois, les carcasses qui ne sont pas suspectées d'être porteuses d'une maladie transmissible à l'homme ou aux animaux peuvent être éliminées conformément aux bonnes pratiques de chasse.
 
-[^25-1]: Ordonnance concernant l'élimination des sous-produits animaux (RS/VS 916.400)
+[^25-1]: Ordonnance concernant l'élimination des sous-produits animaux (RS/VS 916.400):[916.400](https://lex.vs.ch/data/916.400/fr)
 
 #### Art. 26
 
@@ -522,12 +522,13 @@ arrête:[^ingress-1]
 - k) St. Niklaus - Stalden: depuis le Birchbach jusqu'à la jonction de la Saaser Vispa et de la Matter Vispa, il est interdit de tirer par-dessus la Matter Vispa et les voies du MGB;
 - l) Randa - Täsch: de l’embouchure du Birchbach dans la Vispa en remontant ce cours d’eau jusqu’à la fenêtre de déviation, de ce point en suivant le chemin pédestre jusqu’au Schalibach, en descendant cette rivière dans la Vispa, de là en suivant cette rivière jusqu’au pont du Schali; de là suivre la route jusqu’à la route cantonale "maison Bärgfriede". Puis suivre la route cantonale jusqu’au Birchbach pour finalement suivre ce cours d’eau jusqu’au point initial;
 - m) Zermatt/Zär Bänä: de la Mattervispa, monter le couloir Leimragraben jusqu’à la route Riedstrasse. Suivre la route Riedstrasse jusqu'à la bifurcation avec le chemin de l'AHV en dessus de l'hôtel Cervin. Suivre ce chemin jusqu'à la voie de chemin de fer GGB. Suivre celle-ci en montant jusqu’au pont Findelbrücke et de là descendre le Findelbach jusqu’à la Vispa, puis en aval de la Vispa jusqu’au point de départ;
-- n) Gampel-Bratsch - Steg-Hohtenn: le tir d’une rive à l’autre est interdit de l’usine électrique de Steg en remontant la Lonza jusqu’à Hohen Brücke (P. 873);
+- n) Gampel-Bratsch - Steg-Hohtenn: le tir d’une rive à l’autre est interdit de l’usine électrique de Steg en remontant la Lonza jusqu’à Hohen Brücke (pt 873);
 - o) Les Haudères (Sanières): depuis l’intersection du torrent descendant des Coulayes avec la route de Molignon; puis par cette route vers Molignon - les Haudères - les Sanières jusqu’aux Coulayes; de là en descendant le torrent jusqu’au point initial;
 - p) Riddes - Bieudron: le tir contre le mont depuis la plaine, les vignes et les vergers est interdit entre le torrent d’Econe et la STEP de Bieudron;
-- q) Ardève - Chamoson – Leytron: le tir contre le mont depuis la plaine et les vignes est interdit dans tout le périmètre de l’Ardève;
-- r) les Marécottes (Salvan): 200 mètres de part et d’autre de la voie ferrée, depuis la gare des Marécottes jusqu’à la dernière habitation du hameau de la Medetta;
-- s) dans les places de camping et de sport.
+- q) Icogne: dans le secteur de la menuiserie (pt 933), la zone de sécurité délimitée par le point de départ du pont sur la Lienne (pt 915) de la route d’Ayent, en remontant cette route en direction d’Icogne jusqu’au second virage, de là en suivant la courbe de niveau longeant le bord de la décharge jusqu’au torrent, en remontant ce torrent jusqu’à l’intersection avec le Grand Bisse de Lens, par ce bisse en remontant deux virages jusqu’au dernier rocher surplombant le petit torrent qui croise la route de l’Usine de Croix et situé en aval, en descendant par la forêt jusqu’au petit torrent, puis par ce torrent jusqu’à la Lienne, puis en descendant la Lienne jusqu’au pont point de départ (pt 915);
+- r) Ardève - Chamoson – Leytron: le tir contre le mont depuis la plaine et les vignes est interdit dans tout le périmètre de l’Ardève;
+- s) les Marécottes (Salvan): 200 mètres de part et d’autre de la voie ferrée, depuis la gare des Marécottes jusqu’à la dernière habitation du hameau de la Medetta;
+- t) dans les places de camping et de sport.
 
 <sup>2</sup> Le tir avec l’arme à canon lisse est interdit pendant la chasse basse:
 
@@ -543,7 +544,7 @@ arrête:[^ingress-1]
 
 **Autres prescriptions de sécurité**
 
-<sup>1</sup> Pour tous les déplacements avec un moyen de transport motorisé ou non, l'arme doit être déchargée et rangée dans une housse de protection fermée. En l'absence d'une housse de protection, l'arme doit être démontée.
+<sup>1</sup> Pour tous les déplacements avec un moyen de transport motorisé ou non, l'arme doit être déchargée et rangée dans une housse de protection fermée. En l'absence d'une housse de protection, l'arme doit être démontée. Les armes ne peuvent en aucun cas être transportées dans la partie avant du véhicule motorisé (zone conducteur/passager).
 
 <sup>2</sup> En action de chasse, les déplacements avec une arme à feu chargée ne sont autorisés que pour des trajets effectués à pied.
 
@@ -668,13 +669,11 @@ arrête:[^ingress-1]
 
 #### Art. 41
 
-**Inscription pour l’action bouquetin**
+**Inscription à la régulation du bouquetin**
 
-<sup>1</sup> Le chasseur qui s’intéresse à la régulation du bouquetin doit s’inscrire lors de la commande de son permis de chasse. L’inscription n’est possible que pour le chasseur, membre d’une Diana.
+<sup>1</sup> Le chasseur qui s’intéresse à la régulation du bouquetin et remplissant les modalités fixées par la directive correspondante sur la chasse de régulation du bouquetin (DCRB) peut s'inscrire du 1<sup>er</sup> au 30 avril via le formulaire en ligne sur le site web du SCPF.
 
-<sup>2</sup> L’inscription en dehors de la commande du permis de chasse est exclue.
-
-<sup>3</sup> Une directive du SCPF fixe le détail des modalités concernant la régulation du bouquetin.
+<sup>2</sup> Pour la régulation du bouquetin, les dispositions figurant dans les directives du SCPF s'appliquent.
 
 #### Art. 42
 
@@ -684,7 +683,7 @@ arrête:[^ingress-1]
 
 <sup>2</sup> Afin de garantir l’exercice de la chasse nécessaire à la régulation des populations de gibier, afin de prévenir les dommages aux forêts de protection et aux cultures, préserver les habitats et la diversité des espèces, l’effet suspensif d’un éventuel recours contre cet arrêté est retiré.
 
-## 1 Annexe 1 à l'article 8 de l’arrêté sur l'exercice de la chasse en Valais 2025-2026
+## 1 Annexe 1 à l'article 8 de l’arrêté sur l'exercice de la chasse en Valais 2026-2027
 
 #### Art. A1-1
 
@@ -692,24 +691,24 @@ arrête:[^ingress-1]
 
 <table>
 <tr><th>Type de permis</th><th>Espèces chassables</th><th>Dates de chasse</th><th>Jours de la semaine</th></tr>
-<tr><td>A</td><td>Cerf, chamois, chevrette, sanglier, marmotte, renard, blaireau</td><td>15.09.2025 - 27.09.2025</td><td>Lu - Sa</td></tr>
-<tr><td>B</td><td>Brocard, sanglier, lièvre brun et variable, lapin de garenne, renard, blaireau, martre, fouine, corneille noire et mantelée, pie, geai, grand corbeau, corbeau freux, tourterelle turque, pigeon ramier</td><td>30.09.2025 - 18.10.2025</td><td>Ma + Sa</td></tr>
-<tr><td>B</td><td>Lièvre brun et variable, et lapin de garenne</td><td>04.10.2025 - 29.11.2025</td><td>Ma + Je + Sa</td></tr>
-<tr><td>B</td><td>Coq de tétras-lyre et lagopède (uniquement avec un chien d’arrêt ou un chien qui rapporte)</td><td>16.10.2025 - 31.10.2025</td><td>Lu - Sa</td></tr>
-<tr><td>B</td><td>Bécasse des bois (uniquement avec un chien d’arrêt ou un chien qui rapporte)</td><td>20.10.2025 - 31.10.2025</td><td>Lu - Sa</td></tr>
-<tr><td>B</td><td>Coq de tétras-lyre, lagopède et bécasse des bois (uniquement avec un chien d’arrêt ou un chien qui rapporte)</td><td>04.11.2025 - 29.11.2025</td><td>Ma + Je + Sa</td></tr>
-<tr><td>B</td><td>Sanglier, renard, blaireau, martre, fouine, corneille noire et mantelée, bécasse des bois, pie, geai, grand corbeau, corbeau freux, tourterelle turque et pigeon ramier</td><td>21.10.2025 - 29.11.2025</td><td>Ma + Je + Sa</td></tr>
-<tr><td>C</td><td>Canard, grèbe huppé, foulque macroule, cormoran, renard, blaireau, martre, fouine, corneille noire et mantelée, pie, geai, grand corbeau, corbeau freux</td><td>04.11.2025 - 29.11.2025</td><td>Ma + Je + Sa</td></tr>
-<tr><td>C</td><td>Canard, grèbe huppé, foulque macroule, cormoran, renard, blaireau, martre, fouine, corneille noire et mantelée, pie, geai, grand corbeau, corbeau freux</td><td>01.12.2025 - 31.01.2026</td><td>Lu - Sa</td></tr>
+<tr><td>A</td><td>Cerf, chamois, chevrette, sanglier, marmotte, renard, blaireau</td><td>21.09.2026 - 03.10.2026</td><td>Lu - Sa</td></tr>
+<tr><td>B</td><td>Brocard, sanglier, lièvre brun et variable, lapin de garenne, renard, blaireau, martre, fouine, corneille noire et mantelée, pie, geai, grand corbeau, corbeau freux, tourterelle turque, pigeon ramier</td><td>06.10.2026 - 24.10.2026</td><td>Ma + Sa</td></tr>
+<tr><td>B</td><td>Lièvre brun et variable, et lapin de garenne</td><td>27.10.2026 - 28.11.2026</td><td>Ma + Je + Sa</td></tr>
+<tr><td>B</td><td>Coq de tétras-lyre et lagopède (uniquement avec un chien d’arrêt ou un chien qui rapporte)</td><td>16.10.2026 - 31.10.2026</td><td>Lu - Sa</td></tr>
+<tr><td>B</td><td>Bécasse des bois (uniquement avec un chien d’arrêt ou un chien qui rapporte)</td><td>20.10.2026 - 31.10.2026</td><td>Lu - Sa</td></tr>
+<tr><td>B</td><td>Coq de tétras-lyre, lagopède et bécasse des bois (uniquement avec un chien d’arrêt ou un chien qui rapporte)</td><td>03.11.2026 - 28.11.2026</td><td>Ma + Je + Sa</td></tr>
+<tr><td>B</td><td>Sanglier, renard, blaireau, martre, fouine, corneille noire et mantelée, pie, geai, grand corbeau, corbeau freux, tourterelle turque et pigeon ramier</td><td>27.10.2026 - 28.11.2026</td><td>Ma + Je + Sa</td></tr>
+<tr><td>C</td><td>Canard, grèbe huppé, foulque macroule, cormoran, renard, blaireau, martre, fouine, corneille noire et mantelée, pie, geai, grand corbeau, corbeau freux</td><td>03.11.2026 - 28.11.2026</td><td>Ma + Je + Sa</td></tr>
+<tr><td>C</td><td>Canard, grèbe huppé, foulque macroule, cormoran, renard, blaireau, martre, fouine, corneille noire et mantelée, pie, geai, grand corbeau, corbeau freux</td><td>01.12.2026 - 31.01.2027</td><td>Lu - Sa</td></tr>
 <tr><td>C</td><td>Blaireau</td><td>Protégé dès le 16 janvier</td><td>---</td></tr>
-<tr><td>E</td><td>Renard, blaireau, martre, fouine</td><td>17.11.2025 - 28.02.2026</td><td>Lu - Sa</td></tr>
+<tr><td>E</td><td>Renard, blaireau, martre, fouine</td><td>16.11.2026 - 27.02.2027</td><td>Lu - Sa</td></tr>
 <tr><td>E</td><td>Blaireau</td><td>Protégé dès le 16 janvier</td><td>---</td></tr>
 <tr><td>E</td><td>Martre, fouine</td><td>Protégé dès le 16 février</td><td>---</td></tr>
-<tr><td>S</td><td>Sanglier, renard, blaireau</td><td>06.12.2025 13.12.2025 20.12.2025 03.01.2026 10.01.2026 17.01.2026 24.01.2026 31.01.2026</td><td>Sa</td></tr>
+<tr><td>S</td><td>Sanglier, renard, blaireau</td><td>05.12.2026 12.12.2026 19.12.2026 09.01.2027 16.01.2027 23.01.2027 30.01.2027 06.02.2027</td><td>Sa</td></tr>
 <tr><td>S</td><td>Blaireau</td><td>Protégé dès le 16 janvier</td><td>---</td></tr>
 </table>
 
-## 2 Annexe 2 aux articles 10, 13 et 37 de l’arrêté sur l'exercice de la chasse en Valais 2025-2026
+## 2 Annexe 2 aux articles 10, 13 et 37 de l’arrêté sur l'exercice de la chasse en Valais 2026-2027
 
 #### Art. A2-1
 
@@ -718,7 +717,7 @@ arrête:[^ingress-1]
 <sup>1</sup> La marmotte est protégée dans les zones ci-dessous:
 
 - a) 200 mètres à gauche et à droite de toutes les voies ferrées alpestres, des téléphériques, des télésièges touristiques, ainsi que des routes du Grand-Saint-Bernard, en amont de Bourg-St-Pierre, du Simplon, de la Furka, du Grimsel, du Nufenen et du Herrenweg sur le parcours "lac de Merjelen – Riederalp";
-- b) dans un rayon de 500 mètres autour des cabanes du C.A.S. et de ski-club et dans un rayon de 1000 mètres autour de la cabane de Susanfe;
+- b) dans un rayon de 500 mètres autour des cabanes du CAS et de ski-club et dans un rayon de 1000 mètres autour de la cabane de Susanfe;
 - c) dans la région de Ginals, Unterbäch, du pont du Mühlebach - Unter - Senntum en suivant le chemin jusqu'à Altstafel; de là, en direction sud en suivant le bisse jusqu'au torrent de Altstafeltälli; ce torrent en descendant jusqu'au Mühlebach, point initial;
 - d) sur le territoire de la commune de Naters: 200 mètres à gauche et à droite du sentier Alpe Bel-Sattlen-hôtel Belalp;
 - e) sur le territoire de la commune de Mund: 300 mètres autour de la chapelle Eril à Baltschiedertal;
@@ -764,29 +763,29 @@ arrête:[^ingress-1]
 - c) le long du Rhône de l’embouchure de la Pissechèvre jusqu’au pont de Lavey-Village;
 - d) du pont de la Porte du Scex en remontant la route de la berge du Rhône jusqu’à la route descendant en direction du lieu-dit Les Iles, en suivant la route cantonale direction Vouvry jusqu’au manège Les Iles, de là, direction Sud-Est jusqu’au pt 379, traverser en ligne droite pardessus la voie de chemin de fer jusqu’au canal des Chambettes, pour suivre direction les Grands Prés jusqu’à la route cantonale, par la route cantonale direction la Porte du Scex, point initial.
 
-## 3 Annexe 3 à l’article 28 de l’arrêté sur l’exercice de la chasse en Valais 2025-2026
+## 3 Annexe 3 à l’article 28 de l’arrêté sur l’exercice de la chasse en Valais 2026-2027
 
 #### Art. A3-1
 
 **Territoires où les entraînements de chiens sont autorisés (CH)**
 
-<sup>1</sup> Les entraînements de chiens sont autorisés du 1<sup>er</sup> juillet au 1<sup>er</sup> septembre 2025 et à partir du lundi qui suit la chasse haute jusqu'au 31 décembre 2025, sur les territoires inscrits CH sur la carte de chasse.
+<sup>1</sup> Les entraînements de chiens sont autorisés du 1<sup>er</sup> juillet au 1<sup>er</sup> septembre 2026 et à partir du lundi qui suit la chasse haute jusqu'au 31 décembre 2026, sur les territoires inscrits CH sur la carte de chasse.
 
 #### Art. A3-2
 
 **Territoires pour entraînements de chiens d’arrêt sur tétraonidés autorisés (TE)**
 
-<sup>1</sup> Les entraînements de chiens d’arrêt sont autorisés du 15 août au 7 septembre 2025, sur les territoires inscrits TE sur la carte de chasse.
+<sup>1</sup> Les entraînements de chiens d’arrêt sont autorisés du 15 août au 13 septembre 2026, sur les territoires inscrits TE sur la carte de chasse.
 
 #### Art. A3-3
 
 **Territoires pour entraînements de chiens sur lièvres autorisés (LI)**
 
-<sup>1</sup> Les entraînements de chiens sur lièvre sont autorisés du 1<sup>er</sup> juillet 2025 au 31 janvier 2026, sur les territoires inscrits LI sur la carte de chasse.
+<sup>1</sup> Les entraînements de chiens sur lièvre sont autorisés du 1<sup>er</sup> juillet 2026 au 31 janvier 2027, sur les territoires inscrits LI sur la carte de chasse.
 
 <sup>2</sup> Sur ce territoire la chasse au lièvre est interdite.
 
-## 4 Annexe 4 aux articles 15, 33 et 37 de l’arrêté sur l'exercice de la chasse en Valais 2025-2026
+## 4 Annexe 4 aux articles 15, 33 et 37 de l’arrêté sur l'exercice de la chasse en Valais 2026-2027
 
 #### Art. A4-1
 
@@ -847,7 +846,8 @@ arrête:[^ingress-1]
   - 1\. mixte n° 12 Hohgibirg,
   - 2\. mixte n° 15 Mäderhorn,
   - 3\. mixte n° 48 Plumachit,
-  - 4\. mixte n° 74 Steinumatte;
+  - 4\. mixte n° 74 Steinumatte,
+  - 5\. mixte n° 75 Furmule;
 - d) la chasse est autorisée uniquement pendant la chasse haute dans les DFC mixtes suivants:
   - 1\. mixte n° 39 Bietschhorn,
   - 2\. mixte n° 49 Ayer,
@@ -867,7 +867,7 @@ arrête:[^ingress-1]
   - 3\. mixte n° 40 Blatten,
   - 4\. mixte n° 41 Ferden,
   - 5\. mixte n° 68 Massongex;
-- g) dans les DFC mixtes suivantes, le chamois est protégé et la chasse n'est pas autorisée pendant les 3 premières semaines de la chasse basse (chasse au brocard) :
+- g) dans les DFC mixtes suivantes, le chamois est protégé et la chasse n'est pas autorisée pendant les 3 premières semaines de la chasse basse (chasse au brocard):
   - 1\. mixte n° 25 Täschberg;
 - h) la chasse du brocard, du sanglier et des petits prédateurs est autorisée pendant les 3 premières semaines de la chasse basse (chasse au brocard) dans les DFC mixtes suivants:
   - 1\. mixte n° 62 Grand Garde,
@@ -878,7 +878,7 @@ arrête:[^ingress-1]
   - 3\. mixte n° 60 Ardon;
 - j) le lièvre est la seule espèce chassable pendant la chasse basse (permis B) dans le DFC mixte suivant:
   - 1\. mixte n° 58 Mont d’Orge;
-- k) le tétra-lyre est protégé dans les DFC mixtes suivants:
+- k) le tétras-lyre est protégé dans les DFC mixtes suivants:
   - 1\. mixte n° 50 Mont Lachaux,
   - 2\. mixte n° 69 Derrière Pertuis;
 - l) tout le gibier à plume est protégé dans les DFC mixtes suivants:
@@ -932,7 +932,7 @@ arrête:[^ingress-1]
   - 1\. DFC-KBG n° 109 Zinal/Garde de Bordon;
   - 2\. DFC-KBG n° 113 Grimentz & Tsirouc.
 
-## 5 Annexe 5 aux articles 32 et 33 de l’arrêté sur l'exercice de la chasse en Valais 2025-2026
+## 5 Annexe 5 aux articles 32 et 33 de l’arrêté sur l'exercice de la chasse en Valais 2026-2027
 
 #### Art. A5-1
 
@@ -945,26 +945,26 @@ arrête:[^ingress-1]
   - 1\.1 Betten – Domo – Ried (2'649'159/1'136'466 à 2'648'317/1'137'547,
   - 1\.2 Betten West – Hegi – Domo (2'648'386/1'136'422 à 2'648'317/1'137'547),
   - 1\.3 Betten – Martisberg (2'649'159/1'136'466 à 2'650'466/1'137'146),
-  - 2 Binn: Route forestière Imfeld – Grossi Twära,
-  - 3\. Binn: Route forestière Binn – Aebnimatt,
+  - 2 Binn: route forestière Imfeld – Grossi Twära,
+  - 3\. Binn: route forestière Binn – Aebnimatt,
   - 4\. Blatten (Lötschen): Ausfahrt Weissenried (2'628'281/1'140'907) – Staffel Tellialp,
-  - 5\. Ernen: Route communale Mühlebach – Chäserstatt (2'655'640/1'140'340 à 2'656'496/1'139'885),
-  - 6\. Ernen: Route forestière Ernen – Frid (2'654'515/1'138'900 à 2'655'100/1'138'200),
-  - 7\. Ernen: Route forestière Ernen – Rappental (2'654'515/1'138'900 à 2'656'2950/1'138'490),
-  - 8\. Ernen: Route forestière Cholegga – Ried (2'653'985/1'137'465 à 2'655'347/1'137'582),
-  - 9\. Ernen: Route agricole Wasen – Binnachra (2'653'215/1'137'395 à 2'652'590/1'136'900),
-  - 10\. Ernen: Route communale Rufibord – Bättelbach (2'656'870/1'141'505 à 2'657'620/1'142'547),
-  - 11\. Ernen: Route agricole Lätzes Üsserbi – Biine (2'654'814/1'136'739 à 2'655'202/1'136'568),
-  - 12\. Ernen: Route agricole Lätzes Üsserbi – Bodme (2'654'814/1'136'739 à 2'654'555/1'136'525),
+  - 5\. Ernen: route communale Mühlebach – Chäserstatt (2'655'640/1'140'340 à 2'656'496/1'139'885),
+  - 6\. Ernen: route forestière Ernen – Frid (2'654'515/1'138'900 à 2'655'100/1'138'200),
+  - 7\. Ernen: route forestière Ernen – Rappental (2'654'515/1'138'900 à 2'656'2950/1'138'490),
+  - 8\. Ernen: route forestière Cholegga – Ried (2'653'985/1'137'465 à 2'655'347/1'137'582),
+  - 9\. Ernen: route agricole Wasen – Binnachra (2'653'215/1'137'395 à 2'652'590/1'136'900),
+  - 10\. Ernen: route communale Rufibord – Bättelbach (2'656'870/1'141'505 à 2'657'620/1'142'547),
+  - 11\. Ernen: route agricole Lätzes Üsserbi – Biine (2'654'814/1'136'739 à 2'655'202/1'136'568),
+  - 12\. Ernen: route agricole Lätzes Üsserbi – Bodme (2'654'814/1'136'739 à 2'654'555/1'136'525),
   - 13\. Grächen: route forestière Rinderwald,
-  - 14\. Grengiols: Route forestière Hofstatt – Hittentwärra (2'651'950/1'136'020 à 2'652'374/1'134'515),
-  - 15\. Grengiols: Route rurale, Hofstatt – Hockmatta (2651950/1136020 à 2'653'510/1'136'720),
-  - 16\. Grengiols: Route forestière/rurale Heiligkreuz – Aschpi (2'656'540/1'132'450 à 2'655'725/1'132'710),
+  - 14\. Grengiols: route forestière Hofstatt – Hittentwärra (2'651'950/1'136'020 à 2'652'374/1'134'515),
+  - 15\. Grengiols: route rurale, Hofstatt – Hockmatta (2651950/1136020 à 2'653'510/1'136'720),
+  - 16\. Grengiols: route forestière/rurale Heiligkreuz – Aschpi (2'656'540/1'132'450 à 2'655'725/1'132'710),
   - 17\. Loèche-les-Bains: pour les routes faisant l’objet d’une restriction de circuler, une autorisation doit être demandée auprès de la police municipale de Loèche-les-Bains,
-  - 18\. Mörel-Filet: Route forestière Tunetsch,
+  - 18\. Mörel-Filet: route forestière Tunetsch,
   - 19\. Oberems: route forestière direction Raftalp et Griebelalp avec une autorisation communale,
   - 20\. Täsch: la route sur la Täschalp,
-  - 21\. Termen: route forestière de la route nationale N9 jusqu’à Z’Gartu (P. 1400) avec autorisation communale.
+  - 21\. Termen: route forestière de la route nationale N9 jusqu’à Z’Gartu (pt 1400) avec autorisation communale.
 
 #### Art. A5-2
 
@@ -982,14 +982,15 @@ arrête:[^ingress-1]
 <tr><td>Anniviers, Chandolin</td><td>route de Gozan, depuis le départ du télésiège Chandolin/Le Tsapé jusqu’à l’intersection de la route de Tignousa</td></tr>
 <tr><td>Anniviers, Chandolin</td><td>route de Ponchet, depuis la place du poste d’observation de la faune (en aval du pt 2057) jusqu’au lieu-dit "Ponchet"</td></tr>
 <tr><td>Anniviers, Grimentz</td><td>route d’Avoin/Les Tzougdires, depuis avoin (pt 1948) jusqu’au Tsougdires (pt 2098)</td></tr>
-<tr><td>Anniviers, St-Jean</td><td>route de Tracuit d’en Bas/Orzival, depuis la limite de la commune d’Anniviers (2'608'354/1'119'179, pt. 2052) jusqu’à Orzival (pt 2097)</td></tr>
+<tr><td>Anniviers, St-Jean</td><td>route de Tracuit d’en Bas/Orzival, depuis la limite de la commune d’Anniviers (2'608'354/1'119'179, pt 2052) jusqu’à Orzival (pt 2097)</td></tr>
 <tr><td>Anniviers, St Luc</td><td>route forestière de Gillou, depuis "le Prilett" jusqu’à l’alpage de Gillou</td></tr>
 <tr><td>Bellwald</td><td>route forestière Richinen (2'655'565/1'142'568 à 2'656'089/1'143'685)</td></tr>
 <tr><td>Bettmeralp</td><td>Goppisberg (2647085/1136266) – Guferstrasse (2'648'001/1'137'317)</td></tr>
-<tr><td>Binn</td><td>Toutes les routes autres que celles mentionnées à l'art. A5-1 de la présente annexe, les routes d'alpage, rurales et forestières interdites à la circulation.</td></tr>
+<tr><td>Binn</td><td>toutes les routes autres que celles mentionnées à l'art. A5-1 de la présente annexe, les routes d'alpage, rurales et forestières interdites à la circulation</td></tr>
 <tr><td>Blatten, Lötschen</td><td>route forestière Steinschlag</td></tr>
 <tr><td>Blatten, Lötschen</td><td>route forestière Firt</td></tr>
 <tr><td>Blatten, Lötschen</td><td>toutes les routes d’alpage, agricoles et forestières avec un panneau d’interdiction générale de circuler</td></tr>
+<tr><td>Crans-Montana</td><td>une autorisation doit être demandée auprès de la police municipale de Crans-Montana pour toutes les routes faisant l’objet d’une restriction de circuler</td></tr>
 <tr><td>Evionnaz</td><td>route communale d’Orto (entre 2'564'948/1'113'328 et 2'564'465/1'112'897)</td></tr>
 <tr><td>Fully</td><td>toutes les routes communales, de campagne et forestières pourvues d’une interdiction générale de circuler</td></tr>
 <tr><td>Goms</td><td>toutes les routes communales, rurales et forestières interdites à la circulation</td></tr>
@@ -1005,7 +1006,6 @@ arrête:[^ingress-1]
 <tr><td>Hérémence</td><td>route forestière de Riod (2'595'779/1'112'959)</td></tr>
 <tr><td>Hérémence</td><td>route forestière des Grands-Plans (2'598'119/1'112'609)</td></tr>
 <tr><td>Isérables</td><td>sur les routes forestières dès la barrière</td></tr>
-<tr><td>Mollens</td><td>une autorisation doit être demandée auprès de la police municipale de Crans-Montana pour toutes les routes faisant l’objet d’une restriction de circuler</td></tr>
 <tr><td>Naters</td><td>route forestière Tätschen – Vogelbrunnji</td></tr>
 <tr><td>Naters</td><td>route forestière Hegdorn – Aegerten</td></tr>
 <tr><td>Naters</td><td>route communale et forestière Kieswerk –Driesten</td></tr>
@@ -1047,4 +1047,4 @@ arrête:[^ingress-1]
 <tr><td>Zermatt</td><td>toutes les routes à partir des signaux d’interdiction Spiss</td></tr>
 </table>
 
-RCV RO/AGS 2025-067
+RCV RO/AGS 2026-075
