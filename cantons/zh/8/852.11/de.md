@@ -4,11 +4,10 @@ number: "852.11"
 title: Kinder- und Jugendhilfeverordnung (KJHV)
 short: KJHV
 language: de
-version: "2020-08-01"
-nachtrag: "110"
-valid_until: 2026-07-01
+version: "2026-07-01"
+nachtrag: "133"
 adopted: 2011-12-07
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-852_11-2011_12_07-2012_01_01-110.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-852_11-2011_12_07-2012_01_01-133.html"
 text: pdf
 ---
 
@@ -29,7 +28,7 @@ Der Regierungsrat beschliesst:
 
 § 1.[^hAAllgemeines-1] Diese Verordnung regelt den Vollzug des Kinder- und Jugendhilfegesetzes vom 14. März 2011 (KJHG)[^hAAllgemeines-2] mit Ausnahme der §§ 18–18 f (familienergänzende Betreuung), der §§ 21–27 (finanzielle Leistungen) und der §§ 29–34 (sonderpädagogische Massnahmen).
 
-[^hAAllgemeines-1]: Fassung gemäss RRB vom 27. Mai 2020 (OS 75, 381; ABl 2020-06-05). In Kraft seit 1. August 2020. 1.10. 20 - 110 5
+[^hAAllgemeines-1]: Fassung gemäss RRB vom 27. Mai 2020 (OS 75, 381; ABl 2020-06-05). In Kraft seit 1. August 2020.
 [^hAAllgemeines-2]: LS 852.1.
 
 #### § 2
@@ -38,7 +37,7 @@ Der Regierungsrat beschliesst:
 
 Das Amt für Jugend und Berufsberatung (Amt) vollzieht die Verordnung, soweit nicht Gemeinden oder Dritte zuständig sind.
 
-[^2-1]: Fassung gemäss RRB vom 27. Mai 2020 (OS 75, 381; ABl 2020-06-05). In Kraft seit 1. August 2020. 1.10. 20 - 110 5
+[^2-1]: Fassung gemäss RRB vom 27. Mai 2020 (OS 75, 381; ABl 2020-06-05). In Kraft seit 1. August 2020.
 
 ### B. Organisation und Leistungen
 
@@ -74,7 +73,7 @@ Das Amt für Jugend und Berufsberatung (Amt) vollzieht die Verordnung, soweit ni
 
 **1**
 
-1.10. 20 - 110
+- 1\. 7. 26 - 133
 
 <sup>2</sup> Eine Vertretung des Amtes nimmt mit beratender Stimme an den Sitzungen teil.
 
@@ -135,11 +134,11 @@ Zu den Kosten der kantonalen Jugendhilfestellen gemäss § 35 in Verbindung mit 
 
 <sup>2</sup> Die Gemeinde leistet Akontozahlungen im Umfang von je 50% des Beitrags gemäss Abs. 1 bis 31. Januar und bis 31. Juli.
 
-<sup>3</sup> Die Abrechnung des Rechnungsjahres erfolgt bis 30. Juni des Folgejahres. Für die Berechnung der Gemeindebeiträge ist der Einwohnerbestand massgebend, den das statistische Amt per 31. Dezember des Vorjahres erhoben hat.
+<sup>3</sup> Die Abrechnung des Rechnungsjahres erfolgt bis 30. Juni des Folgejahres. Für die Berechnung der Gemeindebeiträge ist der Einwohnerbestand massgebend, den das Amt für Statistik und Daten per 31. Dezember des Vorjahres erhoben hat.[^7-1]
 
 **Ausgabenkompetenz**
 
-§ 8.[^7-1] <sup>1</sup> Das Amt entscheidet im Rahmen der Ausgabenkompetenzen des Regierungsrates endgültig über die Abgeltung a. der von Dritten gemäss § 11 KJHG erbrachten Leistungen,
+§ 8.[^7-2] <sup>1</sup> Das Amt entscheidet im Rahmen der Ausgabenkompetenzen des Regierungsrates endgültig über die Abgeltung a. der von Dritten gemäss § 11 KJHG erbrachten Leistungen,
 
 - b. der von den Abklärungsstellen gemäss § 34 KJHG erbrachten Leistungen,
 
@@ -149,14 +148,15 @@ Zu den Kosten der kantonalen Jugendhilfestellen gemäss § 35 in Verbindung mit 
 
 <sup>3</sup> Es kann Pauschalen ausrichten.
 
-[^7-1]: Fassung gemäss RRB vom 14. März 2018 (OS 73, 171; ABl 2018-03-23). In Kraft seit 1. Juni 2018.
-[^7-2]: Fassung gemäss RRB vom 27. Mai 2020 (OS 75, 381; ABl 2020-06-05). In Kraft seit 1. August 2020. 1.10. 20 - 110 5
+[^7-1]: Fassung gemäss RRB vom 25. März 2026 (OS 81, 310; ABl 2026-04-17). In Kraft seit 1. Juli 2026. 1. 7. 26 - 133 5
+[^7-2]: Fassung gemäss RRB vom 14. März 2018 (OS 73, 171; ABl 2018-03-23). In Kraft seit 1. Juni 2018.
+[^7-3]: Fassung gemäss RRB vom 27. Mai 2020 (OS 75, 381; ABl 2020-06-05). In Kraft seit 1. August 2020.
 
 #### § 9
 
 **Kostenanteile**
 
-<sup>1</sup> Das Amt berechnet die Kostenanteile gemäss § 39 KJHG und richtet diese aus.[^7-2]
+<sup>1</sup> Das Amt berechnet die Kostenanteile gemäss § 39 KJHG und richtet diese aus.[^7-3]
 
 <sup>2</sup> Das Amt teilt den Gemeinden den voraussichtlichen Kostenanteil für das Folgejahr bis 30. Juni mit.
 
@@ -180,7 +180,7 @@ Das Amt entscheidet im Rahmen seiner Ausgabenkompetenzen über die Ausrichtung v
 
 **3**
 
-1.10. 20 - 110
+- 1\. 7. 26 - 133
 
 ### D. Gebühren
 
@@ -212,7 +212,7 @@ Das Amt entscheidet im Rahmen seiner Ausgabenkompetenzen über die Ausrichtung v
 
 - i. die Erteilung und Erneuerung von Bewilligungen gemäss § 32 KJHG Fr. 300.
 
-[^hDGebühren-1]: Fassung gemäss RRB vom 27. Mai 2020 (OS 75, 381; ABl 2020-06-05). In Kraft seit 1. August 2020. 1.10. 20 - 110 5
+[^hDGebühren-1]: Fassung gemäss RRB vom 27. Mai 2020 (OS 75, 381; ABl 2020-06-05). In Kraft seit 1. August 2020.
 
 #### § 13
 
@@ -238,4 +238,4 @@ bis Fr. 30 400 80% ab Fr. 30 500–47 500 60% ab Fr. 47 600–61 000 40%
 
 <sup>4</sup> Auf die Erhebung von Gebühren kann verzichtet werden, wenn jemand aus wichtigen Gründen verhindert ist und die Beratungsstelle umgehend darüber in Kenntnis setzt.
 
-[^13-1]: Fassung gemäss RRB vom 27. Mai 2020 (OS 75, 381; ABl 2020-06-05). In Kraft seit 1. August 2020. 1.10. 20 - 110 5
+[^13-1]: Fassung gemäss RRB vom 27. Mai 2020 (OS 75, 381; ABl 2020-06-05). In Kraft seit 1. August 2020.
