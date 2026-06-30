@@ -4,11 +4,10 @@ number: "172.110.3"
 title: Organisationsverordnung der Finanzdirektion (OV FD)
 short: OV FD
 language: de
-version: "2026-06-01"
-nachtrag: "132"
-valid_until: 2026-07-01
+version: "2026-07-01"
+nachtrag: "133"
 adopted: 2015-12-08
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-172_110_3-2015_12_08-2016_04_01-132.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-172_110_3-2015_12_08-2016_04_01-133.html"
 text: pdf
 ---
 
@@ -62,7 +61,7 @@ B. Direktionsvorsteherin oder Direktionsvorsteher
 
 **1**
 
-- 1\. 4. 26 - 132
+- 1\. 7. 26 - 133
 
 - d. weist den Verwaltungseinheiten Aufgaben und Kompetenzen zu,
 
@@ -125,7 +124,7 @@ Die Verwaltungseinheiten a. erfüllen die Aufgaben, die ihnen durch das übergeo
 
 § 8.[^7-1] <sup>1</sup> Das Generalsekretariat erfüllt die Aufgaben einer Verwaltungseinheit gemäss § 7.
 
-<sup>2</sup> Es ist zudem allgemeine Stabsstelle und Dienstleistungszentrum der Direktion und a. unterstützt die Direktionsvorsteherin oder den Direktionsvorsteher bei ihren oder seinen Aufgaben,
+<sup>2</sup> Es ist zudem allgemeine Stabsstelle und Dienstleistungszentrum der Direktion und[^7-2] a. unterstützt die Direktionsvorsteherin oder den Direktionsvorsteher bei ihren oder seinen Aufgaben,
 
 - b. führt eine Geschäftskontrolle über die Direktionsgeschäfte,
 
@@ -133,21 +132,35 @@ Die Verwaltungseinheiten a. erfüllen die Aufgaben, die ihnen durch das übergeo
 
 - d. ist Ansprechstelle in der Direktion für Rechtsfragen (ausserhalb der Zuständigkeitsbereiche der anderen Verwaltungseinheiten), Direktionscontrolling (ohne Personalbelange) und Direktionslogistik sowie für grundsätzliche Fragen aus dem Zuständigkeitsbereich der Direktion,
 
-- e. vertritt die Direktion in den Koordinationsorganen der Direktionen gemäss §§ 68 ff. VOG RR sowie in Organen juristischer Personen, Kommissionen und Arbeitsgruppen, soweit die Vertretung nicht von der Direktionsvorsteherin oder vom Direktionsvorsteher wahrgenommen wird oder einer anderen Verwaltungseinheit übertragen wird,
+- e. ist Ansprechstelle in der kantonalen Verwaltung für das interne Kontrollsystem (IKS),
 
-- f. ist Ansprechstelle in der Direktion für Information und Kommunikation und gewährleistet die Information und Kommunikation innerhalb und ausserhalb der Direktion,
+- f. unterstützt die Verwaltungseinheiten bei Informationssicherheitsfragen, insbesondere in Projekten sowie bei Massnahmen und Vorfällen,
 
-- g. erfüllt Aufgaben der Direktion, die keiner anderen Verwaltungseinheit zugewiesen sind.
+- g. steuert das Risikomanagement der Direktion und entwickelt es weiter,
 
-<sup>3</sup> Der Aufgabenbereich Personal ist als Ausnahme gemäss § 62 Abs. 2 VOG RR[^7-2] dem Personalamt statt dem Generalsekretariat zugewiesen.
+- h. vertritt die Direktion in den Koordinationsorganen der Direktionen gemäss §§ 68 ff. VOG RR sowie in Organen juristischer Personen, Kommissionen und Arbeitsgruppen, soweit die Vertretung nicht von der Direktionsvorsteherin oder vom Direktionsvorsteher wahrgenommen wird oder einer anderen Verwaltungseinheit übertragen wird,
 
-<sup>4</sup> Die Direktionsassistentin oder der Direktionsassistent und die oder der Compliancebeauftragte sind dem Generalsekretariat organisatorisch angegliedert.
+- i. ist Ansprechstelle in der Direktion für Information und Kommunikation und gewährleistet die Information und Kommunikation innerhalb und ausserhalb der Direktion,
+
+- j. erfüllt Aufgaben der Direktion, die keiner anderen Verwaltungseinheit zugewiesen sind.
+
+<sup>3</sup> Der Aufgabenbereich Personal ist als Ausnahme gemäss § 62 Abs. 2 VOG RR[^7-3] dem Personalamt statt dem Generalsekretariat zugewiesen.
 
 **3**
 
-- 1\. 4. 26 - 132 § 9. Die Leiterin oder der Leiter der Verwaltungseinheit trägt die Verantwortung für die Führung, Steuerung und Aufgabenerfüllung in ihrer oder seiner Verwaltungseinheit. Sie oder er erfüllt insbesondere die folgenden Aufgaben:
+- 1\. 7. 26 - 133
+
+<sup>4</sup> Die Direktionsassistentin oder der Direktionsassistent und die oder der Compliancebeauftragte sind dem Generalsekretariat organisatorisch angegliedert.
+
+[^7-1]: Fassung gemäss Vfg. vom 26. November 2021 (OS 77, 59; ABl 2021-12-03). In Kraft seit 1. März 2022.
+[^7-2]: Fassung gemäss Vfg. vom 14. April 2026 (OS 81, 259; ABl 2026-04-24). In Kraft seit 1. Juli 2026. 1. 7. 26 - 133 13
+[^7-3]: LS 172.11.
+
+#### § 9
 
 **Leitung a. Verwaltungseinheiten im Allgemeinen**
+
+Die Leiterin oder der Leiter der Verwaltungseinheit trägt die Verantwortung für die Führung, Steuerung und Aufgabenerfüllung in ihrer oder seiner Verwaltungseinheit. Sie oder er erfüllt insbesondere die folgenden Aufgaben:
 
 - a. Umsetzung der Legislaturziele des Regierungsrates und der Direktion in der Verwaltungseinheit,
 
@@ -167,7 +180,7 @@ Die Verwaltungseinheiten a. erfüllen die Aufgaben, die ihnen durch das übergeo
 
 **b. Generalsekretariat im Besonderen**
 
-§ 10.[^7-1] <sup>1</sup> Die Generalsekretärin oder der Generalsekretär erfüllt mit Bezug auf das Generalsekretariat die Aufgaben der Leiterin oder des Leiters einer Verwaltungseinheit gemäss § 9.
+§ 10.[^9-1] <sup>1</sup> Die Generalsekretärin oder der Generalsekretär erfüllt mit Bezug auf das Generalsekretariat die Aufgaben der Leiterin oder des Leiters einer Verwaltungseinheit gemäss § 9.
 
 <sup>2</sup> Darüber hinaus erfüllt sie oder er insbesondere die folgenden Aufgaben:
 
@@ -183,8 +196,7 @@ Die Verwaltungseinheiten a. erfüllen die Aufgaben, die ihnen durch das übergeo
 
 <sup>3</sup> Die Generalsekretärin oder der Generalsekretär vertritt die Direktionsvorsteherin oder den Direktionsvorsteher innerhalb der Direktion und ist insoweit weisungsberechtigt gegenüber den anderen Verwaltungseinheiten und gegenüber den Mitarbeitenden, die dem Generalsekretariat organisatorisch angegliedert sind. Auf besondere Ermächtigung hin oder bei Dringlichkeit vertritt sie oder er die Direktionsvorsteherin oder den Direktionsvorsteher auch ausserhalb der Direktion und beim Beschluss über Ausgaben.
 
-[^7-1]: Fassung gemäss Vfg. vom 26. November 2021 (OS 77, 59; ABl 2021-12-03). In Kraft seit 1. März 2022.
-[^7-2]: LS 172.11.
+[^9-1]: Fassung gemäss Vfg. vom 26. November 2021 (OS 77, 59; ABl 2021-12-03). In Kraft seit 1. März 2022.
 
 #### § 11
 
@@ -214,6 +226,10 @@ Die Verwaltungseinheiten a. erfüllen die Aufgaben, die ihnen durch das übergeo
 
 <sup>5</sup> Die Leiterin oder der Leiter macht das Organisationsreglement und seine Änderungen den Mitarbeitenden der Verwaltungseinheit in geeigneter Form bekannt.
 
+**5**
+
+- 1\. 7. 26 - 133
+
 [^11-1]: Eingefügt durch Vfg. vom 26. November 2021 (OS 77, 59; ABl 2021-12-03). In Kraft seit 1. März 2022.
 [^11-2]: LS 631.51.
 
@@ -224,10 +240,6 @@ Die Verwaltungseinheiten a. erfüllen die Aufgaben, die ihnen durch das übergeo
 **Entscheide a. als erste Instanz**
 
 <sup>1</sup> Die Direktionsvorsteherin oder der Direktionsvorsteher entscheidet erstinstanzlich namens der Direktion.
-
-**5**
-
-- 1\. 4. 26 - 132
 
 <sup>2</sup> Sie oder er kann Verwaltungseinheiten und Mitarbeitende ermächtigen, in bestimmten Aufgabenbereichen namens der Direktion zu entscheiden.
 
@@ -314,17 +326,21 @@ Die Verwaltungseinheiten a. erfüllen die Aufgaben, die ihnen durch das übergeo
 
 - g. Strom-, Wasser- und Heizmaterialrechnungen,
 
+**7**
+
+- 1\. 7. 26 - 133
+
 - h. Zahlungen aufgrund von Urteilen verwaltungsunabhängiger Gerichtsbehörden,
 
 - i. Kapitalrückzahlungen und Zinszahlungen,
 
 - j. interne Verrechnungen.
 
-**7**
-
-- 1\. 4. 26 - 132 § 16. <sup>1</sup> Entscheide und Ausgabenbewilligungen werden von derjenigen Person unterzeichnet, die für den Entscheid oder die Ausgabenbewilligung zuständig ist.
+#### § 16
 
 **Unterschrift**
+
+<sup>1</sup> Entscheide und Ausgabenbewilligungen werden von derjenigen Person unterzeichnet, die für den Entscheid oder die Ausgabenbewilligung zuständig ist.
 
 <sup>2</sup> Im Übrigen ist die sachverantwortliche Person zur Unterzeichnung von Schriftstücken berechtigt, soweit diese Verordnung und das anwendbare Organisationsreglement nichts anderes vorsehen.
 
@@ -346,7 +362,7 @@ Die Verwaltungseinheiten a. erfüllen die Aufgaben, die ihnen durch das übergeo
 
 <sup>2</sup> Im Streitfall entscheidet sie namens der Direktion über deren Auslegung.
 
-[^17-1]: Eingefügt durch Vfg. vom 3. März 2026 (OS 81, 127; ABl 2026-03-13). In Kraft seit 1. Juni 2026. 1. 4. 26 - 132 13
+[^17-1]: Eingefügt durch Vfg. vom 3. März 2026 (OS 81, 127; ABl 2026-03-13). In Kraft seit 1. Juni 2026.
 
 ### 3. Teil: Zusammenarbeit
 
@@ -376,15 +392,15 @@ Die Verwaltungseinheiten a. erfüllen die Aufgaben, die ihnen durch das übergeo
 
 <sup>1</sup> Zur Wahrnehmung der Führungs- und Aufsichtsfunktion führt die Direktionsvorsteherin oder der Direktionsvorsteher regelmässig Rapporte mit den Leiterinnen und Leitern der einzelnen Verwaltungseinheiten und der oder dem Compliancebeauftragten durch. An den Rapporten nehmen auch die Generalsekretärin oder der Generalsekretär und bei Bedarf weitere Personen teil.[^18-1]
 
-<sup>2</sup> In den Rapporten werden insbesondere die folgenden Inhalte thematisiert:
+<sup>2</sup> In den Rapporten werden insbesondere die folgenden Inhalte thematisiert:[^19-1] a. Führungs-, Planungs- und Steuerungsaufgaben sowie Auftragserteilung der Direktionsvorsteherin oder des Direktionsvorstehers,
 
-- a. Führungs-, Planungs- und Steuerungsaufgaben sowie Auftragserteilung der Direktionsvorsteherin oder des Direktionsvorstehers,
+- b. Projektkoordination und einheitliches Vorgehen bei Querschnittaufgaben in den Bereichen Personal, Finanzen, Ressourcenmanagement, Controlling, IKS, Informationssicherheit, Risikomanagement, Informationsmanagement und Kommunikation,
 
-- b. Projektkoordination und einheitliches Vorgehen bei Querschnittaufgaben in den Bereichen Personal, Finanzen, Ressourcenmanagement, Controlling, Informationsmanagement und Kommunikation,
-
-- c. Berichterstattung über die Verwaltungseinheit anhand von Führungskennzahlen des Controllings (Budget, Rechnung, Jahresbericht, Zwischenberichte, Personal- und IT-Controlling usw.),
+- c. Berichterstattung über die Verwaltungseinheit anhand von Führungskennzahlen des Controllings (Budget, Rechnung, Jahresbericht, Zwischenberichte, Personal- und IT-Controlling usw.) sowie über Risiken und Massnahmen der Direktion,
 
 - d. Orientierung über wichtige Projekte, Entwicklungen, besondere Vorfälle und Personalia aus der Verwaltungseinheit und ihrem Umfeld.
+
+[^19-1]: Fassung gemäss Vfg. vom 14. April 2026 (OS 81, 259; ABl 2026-04-24). In Kraft seit 1. Juli 2026. 1. 7. 26 - 133 13
 
 #### § 20
 
@@ -402,21 +418,24 @@ Für den persönlichen und vertraulichen Austausch führt die Direktionsvorstehe
 
 <sup>2</sup> Bei besonderer Dringlichkeit kann die Übermittlung stattdessen direkt erfolgen.[^21-1]
 
-**Interne Stellungnahmen**
+**9**
 
-§ 22. <sup>1</sup> Anträge an den Regierungsrat sowie Anträge an die Direktionsvorsteherin oder den Direktionsvorsteher werden vorab den Verwaltungseinheiten, die in ihren Zuständigkeitsbereichen gemäss dem Anhang zu dieser Verordnung besonders betroffen sind, zur Stellungnahme unterbreitet.
+- 1\. 7. 26 - 133 § 22. <sup>1</sup> Anträge an den Regierungsrat sowie Anträge an die Direktionsvorsteherin oder den Direktionsvorsteher werden vorab den Verwaltungseinheiten, die in ihren Zuständigkeitsbereichen gemäss dem Anhang zu dieser Verordnung besonders betroffen sind, zur Stellungnahme unterbreitet.
+
+**Interne Stellungnahmen**
 
 <sup>2</sup> Die Stellungnahmen werden dem Antrag beigelegt.
 
-**9**
+**Koordination bei Querschnittaufgaben**
 
-- 1\. 4. 26 - 132 § 23. Die Verantwortlichen der Verwaltungseinheiten für die Querschnittaufgaben Finanzen und Controlling, Personal, Informatik und Kommunikation sorgen für die erforderliche Koordination unter den Verwaltungseinheiten und für die erforderliche Weiterleitung von Informationen in ihrer jeweiligen Verwaltungseinheit.
+§ 23.[^21-2] <sup>1</sup> Die Verantwortlichen der Verwaltungseinheiten für die Querschnittaufgaben Finanzen und Controlling, Personal, Informatik, IKS, Informationssicherheit, Risikomanagement und Kommunikation sorgen für die erforderliche Koordination unter den Verwaltungseinheiten und für die erforderliche Weiterleitung von Informationen in ihrer jeweiligen Verwaltungseinheit.
+
+<sup>2</sup> Die Verantwortlichen im Generalsekretariat für diese Querschnittaufgaben können den Verwaltungseinheiten und deren Mitarbeitenden zum Zweck der Koordination und des Informationsflusses mit Bezug auf diese Querschnittaufgaben Weisungen erteilen.
 
 [^21-1]: Fassung gemäss Vfg. vom 26. November 2021 (OS 77, 59; ABl 2021-12-03). In Kraft seit 1. März 2022.
+[^21-2]: Fassung gemäss Vfg. vom 14. April 2026 (OS 81, 259; ABl 2026-04-24). In Kraft seit 1. Juli 2026. 1. 7. 26 - 133 13
 
 #### § 24
-
-**Koordination bei Querschnittaufgaben**
 
 **Information über Planungen und Projekte**
 
@@ -442,11 +461,13 @@ Für den persönlichen und vertraulichen Austausch führt die Direktionsvorstehe
 
 <sup>4</sup> Über Fälle von möglicherweise strafbarem oder anderweitigem grobem Fehlverhalten informieren die Vorgesetzten oder aus zwingenden Gründen die Mitarbeitenden selber unverzüglich die Direktionsvorsteherin oder den Direktionsvorsteher.
 
-#### § 26
-
 **Gegenseitigkeitsprinzip**
 
-Führungskräfte und Mitarbeitende kommunizieren aktiv und holen sich die für ihre Aufgabenerfüllung notwendigen Informationen.
+§ 26.[^25-1] <sup>1</sup> Die Mitarbeitenden kommunizieren aktiv und holen sich die für ihre Aufgabenerfüllung notwendigen Informationen.
+
+<sup>2</sup> Sie legen anderen Mitarbeitenden auf Verlangen alle Informationen offen, die diese zur Erfüllung ihrer Aufgaben benötigen. Im Streitfall entscheidet die oder der nächsthöhere gemeinsame Vorgesetzte. Vorbehalten bleiben Geheimhaltungspflichten des übergeordneten Rechts.
+
+[^25-1]: Fassung gemäss Vfg. vom 14. April 2026 (OS 81, 259; ABl 2026-04-24). In Kraft seit 1. Juli 2026. 1. 7. 26 - 133 13
 
 #### § 27
 
@@ -470,11 +491,15 @@ Wichtige Entscheidungen, insbesondere solche mit wesentlichen rechtlichen oder f
 
 <sup>1</sup> Die Verwaltungseinheiten äussern sich zu Geschäften und Vorkommnissen aus ihrem Zuständigkeitsbereich gemäss dem Anhang zu dieser Verordnung, soweit diese Verordnung nichts anderes vorsieht.
 
-<sup>2</sup> Die Generalsekretärin oder der Generalsekretär bezeichnet eine Kommunikationsbeauftragte oder einen Kommunikationsbeauftragten. Diese oder dieser kann zur Sicherstellung einer kohärenten Kommunikation Weisungen erteilen.[^29-1]
+<sup>2</sup> Die Generalsekretärin oder der Generalsekretär bezeichnet eine Kommunikationsbeauftragte oder einen Kommunikationsbeauftragten.[^29-1]
 
 **Geschäfte von besonderer Tragweite**
 
 § 30. <sup>1</sup> Zu Geschäften von besonderer Tragweite äussert sich ausschliesslich die Direktionsvorsteherin oder der Direktionsvorsteher oder die oder der Kommunikationsbeauftragte.
+
+**11**
+
+- 1\. 7. 26 - 133
 
 <sup>2</sup> Als Geschäfte von besonderer Tragweite gelten insbesondere:
 
@@ -488,7 +513,7 @@ Wichtige Entscheidungen, insbesondere solche mit wesentlichen rechtlichen oder f
 
 - f. Krisensituationen.
 
-[^29-1]: Fassung gemäss Vfg. vom 26. November 2021 (OS 77, 59; ABl 2021-12-03). In Kraft seit 1. März 2022.
+[^29-1]: Fassung gemäss Vfg. vom 14. April 2026 (OS 81, 259; ABl 2026-04-24). In Kraft seit 1. Juli 2026. 1. 7. 26 - 133 13
 [^29-2]: Eingefügt durch Vfg. vom 18. August 2017 (OS 72, 448; ABl 2017-08-25). In Kraft seit 1. Januar 2018.
 
 #### § 31
@@ -496,10 +521,6 @@ Wichtige Entscheidungen, insbesondere solche mit wesentlichen rechtlichen oder f
 **Medienanfragen und Öffentlichkeitsarbeiten**
 
 <sup>1</sup> Die Verwaltungseinheiten informieren die Kommunikationsbeauftragte oder den Kommunikationsbeauftragten unverzüglich über eingegangene Medienanfragen und anstehende Öffentlichkeitsarbeiten.
-
-**11**
-
-- 1\. 4. 26 - 132
 
 <sup>2</sup> Die oder der Kommunikationsbeauftragte übernimmt die Beantwortung der Medienanfragen und die Öffentlichkeitsarbeiten in der Regel selber. Bei Geschäften ohne besondere Tragweite kann sie oder er dies im Einzelfall oder allgemein für bestimmte Fälle der zuständigen Verwaltungseinheit überlassen.
 
@@ -611,4 +632,4 @@ Rekurse und Aufsichtsbeschwerden (oder andere Verwaltungseinheit gemäss besonde
 
 **15**
 
-- 1\. 4. 26 - 132
+- 1\. 7. 26 - 133
