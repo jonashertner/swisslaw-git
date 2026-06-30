@@ -4,11 +4,11 @@ title: "Ordonnance de l'Institut suisse des produits thérapeutiques du 22 juin 
 short: OASMéd
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/558"
 language: fr
-version: 2024-07-01
+version: 2026-07-01
 adopted: 2006-06-22
 in_force: 2006-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/558/20240701/fr/xml/fedlex-data-admin-ch-eli-cc-2006-558-20240701-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/558/20240701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/558/20260701/fr/xml/fedlex-data-admin-ch-eli-cc-2006-558-20260701-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/558/20260701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2006/558/20240701/fr"
 
 (OASMéd)[^t-1]
 
-du 22 juin 2006 (État le 1<sup>er</sup> juillet 2024)
+du 22 juin 2006 (État le 1<sup>er</sup> juillet 2026)
 
 [^t-1]: Nouvelle teneur selon le ch. I de l’O du Conseil de l’Institut du 7 sept. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 3657](https://fedlex.data.admin.ch/eli/oc/2018/590)).
 
@@ -27,8 +27,8 @@ vu les art. 9*a*, 14, al. 1, let. a à a<sup>quater</sup>, d à g, et 2, 15, al.
 
 arrête:
 
-[^ingress-1]: [RS 812.21](https://fedlex.data.admin.ch/eli/cc/2001/422)
-[^ingress-2]: [RS 946.51](https://fedlex.data.admin.ch/eli/cc/1996/1725_1725_1725)
+[^ingress-1]: [RS 812.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9354)
+[^ingress-2]: [RS 946.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11467)
 [^ingress-3]: Nouvelle teneur selon le ch. I de l’O du Conseil de l’Institut du 7 sept. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 3657](https://fedlex.data.admin.ch/eli/oc/2018/590)).
 
 ## Chapitre 1 Dispositions générales
@@ -75,7 +75,7 @@ Au sens de la présente ordonnance, on entend par:
 
 Les dispositions de l’ordonnance du 9 novembre 2001 sur les exigences relatives aux médicaments (OEMéd)[^3-1] sont applicables, pour autant que la présente ordonnance n’en dispose autrement.
 
-[^3-1]: [RS 812.212.22](https://fedlex.data.admin.ch/eli/cc/2001/517)
+[^3-1]: [RS 812.212.22](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9366)
 
 ## Chapitre 2 Reconnaissance du statut de médicament important contre des maladies rares
 
@@ -267,7 +267,7 @@ Ne peuvent pas faire l’objet d’une autorisation simplifiée:
 
 [^12-1]: Nouvelle teneur selon le ch. I de l’O du Conseil de l’Institut du 7 sept. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 3657](https://fedlex.data.admin.ch/eli/oc/2018/590)).
 [^12-2]: Nouvelle teneur selon le ch. I 2 de l’O du Conseil de l’Institut du 7 nov. 2018 (Convention Médicrime), en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 5071](https://fedlex.data.admin.ch/eli/oc/2018/787)).
-[^12-3]: [RS 812.212.22](https://fedlex.data.admin.ch/eli/cc/2001/517)
+[^12-3]: [RS 812.212.22](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9366)
 
 #### Art. 13
 
@@ -277,7 +277,7 @@ Ne peuvent pas faire l’objet d’une autorisation simplifiée:
 
 <sup>2</sup> Pour autant que la littérature scientifique publiée contienne suffisamment d’éléments de preuve, ceux-ci peuvent être remis en lieu et place de la documentation sur les essais pharmacologiques et toxicologiques.
 
-[^13-1]: [RS 812.212.22](https://fedlex.data.admin.ch/eli/cc/2001/517)
+[^13-1]: [RS 812.212.22](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9366)
 [^13-2]: Nouvelle teneur selon le ch. I de l’O du Conseil de l’Institut du 7 sept. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 3657](https://fedlex.data.admin.ch/eli/oc/2018/590)).
 
 #### Art. 14
@@ -307,7 +307,7 @@ Dans la mesure où la composition du médicament, son innocuité, son effet et s
 Lorsqu’un médicament contient exclusivement des principes actifs qui entrent sous la même forme dans la composition d’autres médicaments déjà autorisés par Swissmedic, mais dont on prévoit pour la première fois l’autorisation dans l’association revendiquée, il n’y a pas lieu de présenter des résultats d’essais précliniques et cliniques portant sur les différents principes actifs. Seuls sont requis des résultats d’essais précliniques et cliniques portant sur cette association de principes actifs en vertu de l’art. 6 OEMéd[^14a-2].
 
 [^14a-1]: Introduit par le ch. I de l’O du Conseil de l’Institut du 7 sept. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 3657](https://fedlex.data.admin.ch/eli/oc/2018/590)).
-[^14a-2]: [RS 812.212.22](https://fedlex.data.admin.ch/eli/cc/2001/517)
+[^14a-2]: [RS 812.212.22](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9366)
 
 ### Section 2 Médicaments au sens de l’art. 14, al. 1, let. d et e, LPTh
 
@@ -375,8 +375,8 @@ L’information professionnelle et la notice d’emballage doivent comprendre un
 - a. que la sécurité et l’efficacité du médicament n’ont été que sommairement contrôlées par Swissmedic;
 - b. sur quelle préparation étrangère se fonde l’autorisation en Suisse, en particulier sa dénomination et l’État dans lequel elle a été autorisée.
 
-[^17b-1]: [RS 812.212.22](https://fedlex.data.admin.ch/eli/cc/2001/517)
-[^17b-2]: [RS 812.212.21](https://fedlex.data.admin.ch/eli/cc/2018/588)
+[^17b-1]: [RS 812.212.22](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9366)
+[^17b-2]: [RS 812.212.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9362)
 
 ### Section 2*b* Médicaments utilisés de longue date dans les pays de l’UE et de l’AELE (art. 14, al. 1, let. a<sup>ter</sup>,LPTh)
 
@@ -392,7 +392,7 @@ L’information professionnelle et la notice d’emballage doivent comprendre un
 
 <sup>3</sup> La notice d’emballage doit comprendre un avertissement qui précise de manière bien lisible que l’autorisation du médicament se fonde exclusivement sur l’utilisation de longue date dans un pays donné et que la sécurité et l’efficacité de la préparation n’ont pas été contrôlées par Swissmedic.
 
-[^17c-1]: [RS 812.212.22](https://fedlex.data.admin.ch/eli/cc/2001/517)
+[^17c-1]: [RS 812.212.22](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9366)
 
 ### Section 2*c* Médicaments autorisés par un canton (art. 14, al. 1, let. a<sup>quater</sup>, LPTh)
 
@@ -408,7 +408,7 @@ L’information professionnelle et la notice d’emballage doivent comprendre un
 
 <sup>3</sup> La notice d’emballage doit comprendre un avertissement qui précise de manière bien lisible que l’autorisation du médicament se fonde exclusivement sur la longue expérience acquise dans un canton particulier et que la sécurité et l’efficacité de la préparation n’ont pas été contrôlées par Swissmedic.
 
-[^17d-1]: [RS 812.212.22](https://fedlex.data.admin.ch/eli/cc/2001/517)
+[^17d-1]: [RS 812.212.22](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9366)
 
 ### Section 3 Autorisation à durée limitée (art. 9*a* LPTh)
 
@@ -429,7 +429,7 @@ Tout médicament peut faire l’objet d’une autorisation à durée limitée au
 - e. la collecte de toutes les données ainsi que la préparation et l’évaluation des données requises en vertu de la let. d dans le cadre de la procédure ordinaire d’autorisation de mise sur le marché prévue à l’art. 11 LPTh durent si longtemps que des dommages irréversibles apparaissent ou s’aggravent, ou que ces opérations seraient associées à une grande souffrance pour le patient.
 
 [^18-1]: Nouvelle teneur selon le ch. I de l’O du Conseil de l’Institut du 7 sept. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 3657](https://fedlex.data.admin.ch/eli/oc/2018/590)).
-[^18-2]: [RS 812.212.22](https://fedlex.data.admin.ch/eli/cc/2001/517)
+[^18-2]: [RS 812.212.22](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9366)
 
 #### Art. 19
 
@@ -446,7 +446,7 @@ La demande d’autorisation contient notamment:
 
 <sup>2</sup> …[^19-2]
 
-[^19-1]: [RS 812.212.22](https://fedlex.data.admin.ch/eli/cc/2001/517)
+[^19-1]: [RS 812.212.22](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9366)
 [^19-2]: Abrogé par le ch. I de l’O du Conseil de l’Institut du 7 sept. 2018, avec effet au 1<sup>er</sup> janv. 2019 ([RO 2018 3657](https://fedlex.data.admin.ch/eli/oc/2018/590)).
 
 #### Art. 20
@@ -510,9 +510,9 @@ Le registre contient les données suivantes:
 <sup>3</sup> Les médicaments vétérinaires autorisés pour une durée limitée en application de la présente section ne peuvent pas faire l’objet d’une reconversion telle que prévue par l’art. 6 de l’ordonnance du 18 août 2004 sur les médicaments vétérinaires (OMédV)[^23-4].[^23-5]
 
 [^23-1]: Nouvelle teneur selon le ch. I de l’O du Conseil de l’Institut du 7 sept. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 3657](https://fedlex.data.admin.ch/eli/oc/2018/590)).
-[^23-2]: [RS 812.212.22](https://fedlex.data.admin.ch/eli/cc/2001/517)
+[^23-2]: [RS 812.212.22](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9366)
 [^23-3]: Nouvelle teneur selon le ch. I de l’O du Conseil de l’Institut du 7 sept. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 3657](https://fedlex.data.admin.ch/eli/oc/2018/590)).
-[^23-4]: [RS 812.212.27](https://fedlex.data.admin.ch/eli/cc/2004/592)
+[^23-4]: [RS 812.212.27](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9369)
 [^23-5]: Nouvelle teneur selon le ch. I de l’O du Conseil de l’Institut du 7 sept. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 3657](https://fedlex.data.admin.ch/eli/oc/2018/590)).
 
 ### Section 4 Médicaments importants contre des maladies rares (médicaments orphelins, MUMS)
@@ -536,7 +536,7 @@ Le registre contient les données suivantes:
 Avant de déposer sa demande d’autorisation, le requérant peut demander à Swissmedic une évaluation quant aux analyses et aux tests à réaliser au sens des art. 3 à 6 ou, pour les médicaments vétérinaires, au sens des art. 7 à 11 OEMéd[^25-2] pour démontrer la qualité, la sécurité et l’efficacité d’un médicament.
 
 [^25-1]: Nouvelle teneur selon le ch. I de l’O du Conseil de l’Institut du 7 sept. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 3657](https://fedlex.data.admin.ch/eli/oc/2018/590)).
-[^25-2]: [RS 812.212.22](https://fedlex.data.admin.ch/eli/cc/2001/517)
+[^25-2]: [RS 812.212.22](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9366)
 
 #### Art. 26
 
@@ -546,7 +546,7 @@ Avant de déposer sa demande d’autorisation, le requérant peut demander à Sw
 
 <sup>2</sup> Si le médicament a été autorisé dans un pays ayant institué un contrôle des médicaments équivalent, le requérant peut déposer auprès de Swissmedic la documentation sur la qualité, la toxicologie et la clinique qui a permis l’autorisation dans le pays tiers, pour autant que les documents soient rédigés dans une des langues officielles suisses ou en anglais.
 
-[^26-1]: [RS 812.212.22](https://fedlex.data.admin.ch/eli/cc/2001/517)
+[^26-1]: [RS 812.212.22](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9366)
 
 #### Art. 27
 
@@ -557,8 +557,8 @@ Avant de déposer sa demande d’autorisation, le requérant peut demander à Sw
 <sup>2</sup> Les médicaments vétérinaires autorisés dans le cadre de la présente section ne peuvent faire l’objet d’une reconversion telle que prévue à l’art. 6 OMédV[^27-3].
 
 [^27-1]: Nouvelle teneur selon le ch. I de l’O du Conseil de l’Institut du 7 sept. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 3657](https://fedlex.data.admin.ch/eli/oc/2018/590)).
-[^27-2]: [RS 812.212.22](https://fedlex.data.admin.ch/eli/cc/2001/517)
-[^27-3]: [RS 812.212.27](https://fedlex.data.admin.ch/eli/cc/2004/592)
+[^27-2]: [RS 812.212.22](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9366)
+[^27-3]: [RS 812.212.27](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9369)
 
 ### Section 4*a* Produits radiopharmaceutiques et antidotes dont l’usage médical est bien établi (art. 14, al. 1, LPTh)
 
@@ -629,7 +629,7 @@ En outre, il faut:
 [^29-2]: Nouvelle teneur selon le ch. I de l’O du Conseil de l’Institut du 7 sept. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 3657](https://fedlex.data.admin.ch/eli/oc/2018/590)).
 [^29-3]: Nouvelle teneur selon le ch. I de l’O du Conseil de l’Institut du 25 oct. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 667](https://fedlex.data.admin.ch/eli/oc/2023/667)).
 [^29-4]: Nouvelle teneur selon le ch. I de l’O du Conseil de l’Institut du 25 oct. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 667](https://fedlex.data.admin.ch/eli/oc/2023/667)).
-[^29-5]: [RS 812.212.22](https://fedlex.data.admin.ch/eli/cc/2001/517)
+[^29-5]: [RS 812.212.22](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9366)
 [^29-6]: Introduite par le ch. I de l’O du Conseil de l’Institut du 25 oct. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 667](https://fedlex.data.admin.ch/eli/oc/2023/667)).
 [^29-7]: Nouvelle teneur selon le ch. I de l’O du Conseil de l’Institut du 7 sept. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 3657](https://fedlex.data.admin.ch/eli/oc/2018/590)).
 
@@ -671,7 +671,7 @@ Swissmedic peut décider l’autorisation sur simple déclaration:
 <sup>2</sup> Le requérant doit cependant pouvoir présenter à tout moment une documentation sur la qualité telle que définie à l’art. 3 ou 7 OEMéd[^32-2] si Swissmedic l’exige.
 
 [^32-1]: Nouvelle teneur selon le ch. I de l’O du Conseil de l’Institut du 7 sept. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 3657](https://fedlex.data.admin.ch/eli/oc/2018/590)).
-[^32-2]: [RS 812.212.22](https://fedlex.data.admin.ch/eli/cc/2001/517)
+[^32-2]: [RS 812.212.22](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9366)
 
 #### Art. 33
 
@@ -679,7 +679,7 @@ Swissmedic peut décider l’autorisation sur simple déclaration:
 
 Le dépôt et l’examen de la demande (déclaration) sont régis par l’art. 3 OMéd[^33-1].
 
-[^33-1]: [RS 812.212.21](https://fedlex.data.admin.ch/eli/cc/2018/588)
+[^33-1]: [RS 812.212.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9362)
 
 ### Section 2 Médicaments en co-marketing
 
@@ -700,7 +700,7 @@ Font partie intégrante de la déclaration remise à Swissmedic:
 - c. une déclaration écrite du titulaire de l’autorisation de mise sur le marché de la préparation de base habilitant le requérant à se référer à l’intégralité de la documentation scientifique de ladite préparation;
 - d. une déclaration écrite du fabricant certifiant que le médicament en co‑marketing est identique à la préparation de base en ce qui concerne le procédé de fabrication ainsi que la composition qualitative et quantitative.
 
-[^35-1]: [RS 812.212.22](https://fedlex.data.admin.ch/eli/cc/2001/517)
+[^35-1]: [RS 812.212.22](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9366)
 
 #### Art. 36
 
@@ -740,7 +740,7 @@ Tout médicament vétérinaire non soumis à ordonnance et destiné aux animaux 
 <sup>2</sup> Un médicament non soumis à ordonnance, qui est destiné aux animaux en vertu de l’al. 1, let. a, mais dont les principes actifs ne sont pas mentionnés dans la liste de l’annexe 2, peut quand même être autorisé sur simple déclaration sur demande, pour autant que l’état actuel de la science permette de conclure que son risque potentiel est faible.
 
 [^39-1]: Nouvelle teneur selon le ch. I de l’O du Conseil de l’Institut du 7 sept. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 3657](https://fedlex.data.admin.ch/eli/oc/2018/590)).
-[^39-2]: [RS 812.212.27](https://fedlex.data.admin.ch/eli/cc/2004/592)
+[^39-2]: [RS 812.212.27](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9369)
 
 #### Art. 40
 
@@ -769,7 +769,7 @@ Font partie intégrante de la déclaration remise à Swissmedic:
 
 Les médicaments qui, en application de la présente section, ont été autorisés sur simple déclaration ne peuvent pas faire l’objet de la reconversion prévue à l’art. 6 OMédV[^42-1].
 
-[^42-1]: [RS 812.212.27](https://fedlex.data.admin.ch/eli/cc/2004/592)
+[^42-1]: [RS 812.212.27](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9369)
 
 ## Chapitre 5*a* Autorisation de procédés de fabrication de médicaments qui ne peuvent être standardisés
 
@@ -859,5 +859,5 @@ Annexe 3[^t-4]
 
 [^annex3-lvlu1-1]
 
-[^t-4]: Introduite par le ch. II al. 2 de l’O du Conseil de l’Institut du 7 sept. 2018 ([RO 2018 3657](https://fedlex.data.admin.ch/eli/oc/2018/590)). Nouvelle teneur selon le ch. I de l’O du Conseil du l’Institut du 8 mai 2020 ([RO 2020 1847](https://fedlex.data.admin.ch/eli/oc/2020/375)). Mise à jour par le ch. I de l’O du Conseil de l’Institut du 26 avr. 2024, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 210](https://fedlex.data.admin.ch/eli/oc/2024/210)).
-[^annex3-lvlu1-1]: Le contenu de cette annexe est publié dans le RO et le RS uniquement sous forme de renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2024/210](https://fedlex.data.admin.ch/eli/oc/2024/210) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi
+[^t-4]: Introduite par le ch. II al. 2 de l’O du Conseil de l’Institut du 7 sept. 2018 ([RO 2018 3657](https://fedlex.data.admin.ch/eli/oc/2018/590)). Nouvelle teneur selon le ch. I de l’O du Conseil du l’Institut du 8 mai 2020 ([RO 2020 1847](https://fedlex.data.admin.ch/eli/oc/2020/375)). Mise à jour par le ch. I des O du Conseil de l’Institut du 26 avr. 2024 ([RO 2024 210](https://fedlex.data.admin.ch/eli/oc/2024/210)) et du 17 avr. 2026, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2026 180](https://fedlex.data.admin.ch/eli/oc/2026/180)).
+[^annex3-lvlu1-1]: Le contenu de cette annexe est publié dans le RO et le RS uniquement sous forme de renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2026/180](https://fedlex.data.admin.ch/eli/oc/2026/180) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.

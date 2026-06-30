@@ -4,11 +4,11 @@ title: Verordnung des Schweizerischen Heilmittelinstituts vom 22. Juni 2006 übe
 short: VAZV
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/558"
 language: de
-version: 2024-07-01
+version: 2026-07-01
 adopted: 2006-06-22
 in_force: 2006-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/558/20240701/de/xml/fedlex-data-admin-ch-eli-cc-2006-558-20240701-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/558/20240701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/558/20260701/de/xml/fedlex-data-admin-ch-eli-cc-2006-558-20260701-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/558/20260701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2006/558/20240701/de"
 
 (VAZV)
 
-vom 22. Juni 2006 (Stand am 1. Juli 2024)
+vom 22. Juni 2006 (Stand am 1. Juli 2026)
 
 Der Institutsrat des Schweizerischen Heilmittelinstituts (Institutsrat),
 
@@ -25,8 +25,8 @@ gestützt auf die Artikel 9*a*, 14 Absatz 1 Buchstaben a−a<sup>quater</sup>, d
 
 verordnet:
 
-[^ingress-1]: [SR 812.21](https://fedlex.data.admin.ch/eli/cc/2001/422)
-[^ingress-2]: [SR 946.51](https://fedlex.data.admin.ch/eli/cc/1996/1725_1725_1725)
+[^ingress-1]: [SR 812.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9354)
+[^ingress-2]: [SR 946.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11467)
 [^ingress-3]: Fassung gemäss Ziff. I der V des Institutsrats vom 7. Sept. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 3657](https://fedlex.data.admin.ch/eli/oc/2018/590)).
 
 ## 1. Kapitel: Allgemeine Bestimmungen
@@ -72,7 +72,7 @@ Im Sinne dieser Verordnung gelten als:
 
 Die Vorschriften der Arzneimittel-Zulassungsverordnung vom 9. November 2001[^3-1] (AMZV) finden Anwendung, soweit diese Verordnung keine Abweichungen enthält.
 
-[^3-1]: [SR 812.212.22](https://fedlex.data.admin.ch/eli/cc/2001/517)
+[^3-1]: [SR 812.212.22](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9366)
 
 ## 2. Kapitel: Anerkennung des Status als wichtiges Arzneimittel für seltene Krankheiten
 
@@ -263,7 +263,7 @@ Nicht vereinfacht zugelassen werden können:
 
 [^12-1]: Fassung gemäss Ziff. I der V des Institutsrats vom 7. Sept. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 3657](https://fedlex.data.admin.ch/eli/oc/2018/590)).
 [^12-2]: Fassung gemäss Ziff. I 2 der V des Institutsrats vom 7. Nov. 2018 (Medicrime-Konvention), in Kraft seit 1. Jan. 2019 ([AS 2018 5071](https://fedlex.data.admin.ch/eli/oc/2018/787)).
-[^12-3]: [SR 812.212.22](https://fedlex.data.admin.ch/eli/cc/2001/517)
+[^12-3]: [SR 812.212.22](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9366)
 
 #### Art. 13
 
@@ -273,7 +273,7 @@ Nicht vereinfacht zugelassen werden können:
 
 <sup>2</sup> Wenn in der veröffentlichten Literatur ausreichend Belege vorhanden sind, so können diese anstelle der Dokumentation über die pharmakologischen und toxikologischen Prüfungen eingereicht werden.
 
-[^13-1]: [SR 812.212.22](https://fedlex.data.admin.ch/eli/cc/2001/517)
+[^13-1]: [SR 812.212.22](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9366)
 [^13-2]: Fassung gemäss Ziff. I der V des Institutsrats vom 7. Sept. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 3657](https://fedlex.data.admin.ch/eli/oc/2018/590)).
 
 #### Art. 14
@@ -302,7 +302,7 @@ Sofern dies auf Grund der Zusammensetzung des Arzneimittels, dessen Unbedenklich
 Enthält ein Arzneimittel ausschliesslich Wirkstoffe, die in dieser Form Bestandteil anderer, von der Swissmedic bereits zugelassener Arzneimittel sind, aber erstmals in der beantragten Kombination zugelassen werden sollen, so sind keine Ergebnisse präklinischer und klinischer Prüfungen zu den Einzelwirkstoffen, sondern lediglich zur Wirkstoffkombination nach Massgabe von Artikel 6 AMZV[^14a-2] vorzulegen.
 
 [^14a-1]: Eingefügt durch Ziff. I der V des Institutsrats vom 7. Sept. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 3657](https://fedlex.data.admin.ch/eli/oc/2018/590)).
-[^14a-2]: [SR 812.212.22](https://fedlex.data.admin.ch/eli/cc/2001/517)
+[^14a-2]: [SR 812.212.22](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9366)
 
 ### 2. Abschnitt: Arzneimittel nach Artikel 14 Absatz 1 Buchstaben d und e HMG
 
@@ -369,8 +369,8 @@ Fachinformation und Packungsbeilage müssen einen gut lesbaren Hinweis enthalten
 - a. dass die Swissmedic Sicherheit und Wirksamkeit des Arzneimittels nur summarisch geprüft hat;
 - b. auf welches ausländische Arzneimittel sich die Zulassung in der Schweiz stützt, insbesondere dessen Bezeichnung und den Zulassungsstaat.
 
-[^17b-1]: [SR 812.212.22](https://fedlex.data.admin.ch/eli/cc/2001/517)
-[^17b-2]: [SR 812.212.21](https://fedlex.data.admin.ch/eli/cc/2018/588)
+[^17b-1]: [SR 812.212.22](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9366)
+[^17b-2]: [SR 812.212.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9362)
 
 ### 2*b*. Abschnitt: Arzneimittel mit langjähriger Verwendung in der EU und der EFTA (Art. 14 Abs. 1 Bst. a<sup>ter</sup> HMG)
 
@@ -386,7 +386,7 @@ Fachinformation und Packungsbeilage müssen einen gut lesbaren Hinweis enthalten
 
 <sup>3</sup> Die Packungsbeilage muss einen gut lesbaren Hinweis enthalten, wonach das Arzneimittel ausschliesslich aufgrund seiner langjährigen Verwendung in einem bestimmten Land zugelassen wurde und dessen Sicherheit und Wirksamkeit von der Swissmedic nicht geprüft wurden.
 
-[^17c-1]: [SR 812.212.22](https://fedlex.data.admin.ch/eli/cc/2001/517)
+[^17c-1]: [SR 812.212.22](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9366)
 
 ### 2*c*. Abschnitt: Arzneimittel mit kantonaler Zulassung (Art. 14 Abs. 1 Bst. a<sup>quater</sup> HMG)
 
@@ -402,7 +402,7 @@ Fachinformation und Packungsbeilage müssen einen gut lesbaren Hinweis enthalten
 
 <sup>3</sup> Die Packungsbeilage muss einen gut lesbaren Hinweis enthalten, wonach das Arzneimittel ausschliesslich aufgrund seiner langjährigen Erfahrung in einem bestimmten Kanton zugelassen wurde und dessen Sicherheit und Wirksamkeit von der Swissmedic nicht geprüft wurden.
 
-[^17d-1]: [SR 812.212.22](https://fedlex.data.admin.ch/eli/cc/2001/517)
+[^17d-1]: [SR 812.212.22](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9366)
 
 ### 3. Abschnitt: Befristete Zulassung (Art. 9*a* HMG)
 
@@ -423,7 +423,7 @@ Befristet zugelassen werden kann ein Arzneimittel, wenn:
 - e. das Sammeln aller erforderlichen Daten sowie die Verarbeitung und Evaluation der Daten nach Buchstabe d im Rahmen des ordentlichen Zulassungsverfahrens nach Artikel 11 HMG so lange dauern würde, dass dadurch irreversible Schädigungen auftreten oder sich verstärken würden oder dies für die Patientin oder den Patienten mit schwerem Leiden verbunden wäre.
 
 [^18-1]: Fassung gemäss Ziff. I der V des Institutsrats vom 7. Sept. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 3657](https://fedlex.data.admin.ch/eli/oc/2018/590)).
-[^18-2]: [SR 812.212.22](https://fedlex.data.admin.ch/eli/cc/2001/517)
+[^18-2]: [SR 812.212.22](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9366)
 
 #### Art. 19
 
@@ -440,7 +440,7 @@ Das Zulassungsgesuch muss insbesondere enthalten:
 
 <sup>2</sup> …[^19-2]
 
-[^19-1]: [SR 812.212.22](https://fedlex.data.admin.ch/eli/cc/2001/517)
+[^19-1]: [SR 812.212.22](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9366)
 [^19-2]: Aufgehoben durch Ziff. I der V des Institutsrats vom 7. Sept. 2018, mit Wirkung seit 1. Jan. 2019 ([AS 2018 3657](https://fedlex.data.admin.ch/eli/oc/2018/590)).
 
 #### Art. 20
@@ -504,8 +504,8 @@ Das Verzeichnis enthält folgende Daten:
 <sup>3</sup> Tierarzneimittel, die nach diesem Abschnitt befristet zugelassen wurden, sind von der Möglichkeit der Umwidmung nach Artikel 6 der Tierarzneimittelverordnung vom 18. August 2004[^23-3] (TAMV) ausgenommen.
 
 [^23-1]: Fassung gemäss Ziff. I der V des Institutsrats vom 7. Sept. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 3657](https://fedlex.data.admin.ch/eli/oc/2018/590)).
-[^23-2]: [SR 812.212.22](https://fedlex.data.admin.ch/eli/cc/2001/517)
-[^23-3]: [SR 812.212.27](https://fedlex.data.admin.ch/eli/cc/2004/592)
+[^23-2]: [SR 812.212.22](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9366)
+[^23-3]: [SR 812.212.27](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9369)
 
 ### 4. Abschnitt: Wichtige Arzneimittel für seltene Krankheiten (Orphan Drugs, MUMS)
 
@@ -528,7 +528,7 @@ Das Verzeichnis enthält folgende Daten:
 Die Gesuchstellerin kann vor der Einreichung eines Zulassungsgesuchs von der Swissmedic die Prüfungen und Versuche zum Nachweis von Qualität, Sicherheit und Wirksamkeit des Arzneimittels beurteilen lassen, die gemäss den Artikeln 3–6 oder bei Tierarzneimitteln nach den Artikeln 7−11 AMZV[^25-2] durchzuführen sind.
 
 [^25-1]: Fassung gemäss Ziff. I der V des Institutsrats vom 7. Sept. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 3657](https://fedlex.data.admin.ch/eli/oc/2018/590)).
-[^25-2]: [SR 812.212.22](https://fedlex.data.admin.ch/eli/cc/2001/517)
+[^25-2]: [SR 812.212.22](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9366)
 
 #### Art. 26
 
@@ -538,7 +538,7 @@ Die Gesuchstellerin kann vor der Einreichung eines Zulassungsgesuchs von der Swi
 
 <sup>2</sup> Ist das Arzneimittel von einem anderen Land mit vergleichbarer Arzneimittelkontrolle zugelassen, kann die Gesuchstellerin bei der Swissmedic die Dokumentation zur Qualität, zur Toxikologie und zur Klinik einreichen, welche die Grundlage zur Bewilligung im Drittland bildete, wenn diese Unterlagen in einer Landessprache oder in Englisch verfasst sind.
 
-[^26-1]: [SR 812.212.22](https://fedlex.data.admin.ch/eli/cc/2001/517)
+[^26-1]: [SR 812.212.22](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9366)
 
 #### Art. 27
 
@@ -549,8 +549,8 @@ Die Gesuchstellerin kann vor der Einreichung eines Zulassungsgesuchs von der Swi
 <sup>2</sup> Tierarzneimittel, die nach diesem Abschnitt vereinfacht zugelassen wurden, sind von der Möglichkeit der Umwidmung nach Artikel 6 TAMV[^27-3] ausgenommen.
 
 [^27-1]: Fassung gemäss Ziff. I der V des Institutsrats vom 7. Sept. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 3657](https://fedlex.data.admin.ch/eli/oc/2018/590)).
-[^27-2]: [SR 812.212.22](https://fedlex.data.admin.ch/eli/cc/2001/517)
-[^27-3]: [SR 812.212.27](https://fedlex.data.admin.ch/eli/cc/2004/592)
+[^27-2]: [SR 812.212.22](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9366)
+[^27-3]: [SR 812.212.27](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9369)
 
 ### 4*a*. Abschnitt: Radiopharmazeutika und Antidota mit allgemeiner medizinischer Verwendung (Art. 14 Abs. 1 HMG)
 
@@ -622,7 +622,7 @@ Zudem müssen:
 [^29-2]: Fassung gemäss Ziff. I der V des Institutsrats vom 7. Sept. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 3657](https://fedlex.data.admin.ch/eli/oc/2018/590)).
 [^29-3]: Fassung gemäss Ziff. I der V des Institutsrats vom 25. Okt. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 667](https://fedlex.data.admin.ch/eli/oc/2023/667)).
 [^29-4]: Fassung gemäss Ziff. I der V des Institutsrats vom 25. Okt. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 667](https://fedlex.data.admin.ch/eli/oc/2023/667)).
-[^29-5]: [SR 812.212.22](https://fedlex.data.admin.ch/eli/cc/2001/517)
+[^29-5]: [SR 812.212.22](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9366)
 [^29-6]: Eingefügt durch Ziff. I der V des Institutsrats vom 25. Okt. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 667](https://fedlex.data.admin.ch/eli/oc/2023/667)).
 [^29-7]: Fassung gemäss Ziff. I der V des Institutsrats vom 7. Sept. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 3657](https://fedlex.data.admin.ch/eli/oc/2018/590)).
 
@@ -664,7 +664,7 @@ Die Swissmedic kann die Zulassung auf blosse Meldung hin verfügen, sofern:
 <sup>2</sup> Die Gesuchstellerin muss der Swissmedic auf einfache Aufforderung hin jederzeit eine Dokumentation zur Qualität nach Artikel 3 beziehungsweise 7 AMZV[^32-2] vorlegen können.
 
 [^32-1]: Fassung gemäss Ziff. I der V des Institutsrats vom 7. Sept. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 3657](https://fedlex.data.admin.ch/eli/oc/2018/590)).
-[^32-2]: [SR 812.212.22](https://fedlex.data.admin.ch/eli/cc/2001/517)
+[^32-2]: [SR 812.212.22](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9366)
 
 #### Art. 33
 
@@ -672,7 +672,7 @@ Die Swissmedic kann die Zulassung auf blosse Meldung hin verfügen, sofern:
 
 Die Einreichung und Prüfung des Gesuchs (Meldung) richten sich nach Artikel 3 VAM[^33-1].
 
-[^33-1]: [SR 812.212.21](https://fedlex.data.admin.ch/eli/cc/2018/588)
+[^33-1]: [SR 812.212.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9362)
 
 ### 2. Abschnitt: Co-Marketing-Arzneimittel
 
@@ -693,7 +693,7 @@ Die Meldung an die Swissmedic muss enthalten:
 - c. eine schriftliche Erklärung der Zulassungsinhaberin des Basispräparates, mit der die Gesuchstellerin ermächtigt wird, sich vollumfänglich auf die wissenschaftliche Dokumentation zu diesem Präparat zu beziehen;
 - d. eine schriftliche Erklärung der Herstellerin, mit der diese bestätigt, dass das Co-Marketing-Arzneimittel in Bezug auf das Herstellungsverfahren sowie auf die qualitative und quantitative Zusammensetzung mit dem Basispräparat identisch ist.
 
-[^35-1]: [SR 812.212.22](https://fedlex.data.admin.ch/eli/cc/2001/517)
+[^35-1]: [SR 812.212.22](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9366)
 
 #### Art. 36
 
@@ -733,7 +733,7 @@ Ein nicht verschreibungspflichtiges Tierarzneimittel für Heimtiere nach Artikel
 <sup>2</sup> Ein nicht verschreibungspflichtiges Arzneimittel, das zwar für Tiere nach Absatz 1 Buchstabe a bestimmt ist, dessen Wirkstoffe jedoch nicht in der Liste gemäss Anhang 2 aufgeführt sind, kann auf entsprechendes Gesuch hin trotzdem auf blosse Meldung hin zugelassen werden, sofern deren Gefährdungspotenzial nach aktuellem Stand der Wissenschaft als gering zu beurteilen ist.
 
 [^39-1]: Fassung gemäss Ziff. I der V des Institutsrats vom 7. Sept. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 3657](https://fedlex.data.admin.ch/eli/oc/2018/590)).
-[^39-2]: [SR 812.212.27](https://fedlex.data.admin.ch/eli/cc/2004/592)
+[^39-2]: [SR 812.212.27](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9369)
 
 #### Art. 40
 
@@ -762,7 +762,7 @@ Die Meldung an die Swissmedic muss enthalten:
 
 Tierarzneimittel, die nach diesem Abschnitt auf blosse Meldung hin zugelassen wurden, sind von der Möglichkeit der Umwidmung nach Artikel 6 TAMV[^42-1] ausgenommen.
 
-[^42-1]: [SR 812.212.27](https://fedlex.data.admin.ch/eli/cc/2004/592)
+[^42-1]: [SR 812.212.27](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9369)
 
 ## 5*a*. Kapitel: Zulassung von Verfahren zur Herstellung nichtstandardisierbarer Arzneimittel
 
@@ -852,5 +852,5 @@ Anhang 3[^t-3]
 
 [^annex3-lvlu1-1]
 
-[^t-3]: Eingefügt durch Ziff. II Abs. 2 der V des Institutsrats vom 7. Sept. 2018 ([AS 2018 3657](https://fedlex.data.admin.ch/eli/oc/2018/590)). Fassung gemäss Ziff. I der V des Institutsrats vom 8. Mai 2020 ([AS 2020 1847](https://fedlex.data.admin.ch/eli/oc/2020/375)). Bereinigt gemäss Ziff. I der V des Institutsrats vom 26. April 2024, in Kraft seit 1. Juli 2024 ([AS 2024 210](https://fedlex.data.admin.ch/eli/oc/2024/210)).
-[^annex3-lvlu1-1]: Der Inhalt dieser Anhänge wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter [https://fedlex.data.admin.ch/eli/oc/2024/210](https://fedlex.data.admin.ch/eli/oc/2024/210) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
+[^t-3]: Eingefügt durch Ziff. II Abs. 2 der V des Institutsrats vom 7. Sept. 2018 ([AS 2018 3657](https://fedlex.data.admin.ch/eli/oc/2018/590)). Fassung gemäss Ziff. I der V des Institutsrats vom 8. Mai 2020 ([AS 2020 1847](https://fedlex.data.admin.ch/eli/oc/2020/375)). Bereinigt gemäss Ziff. I der V des Institutsrats vom 26. April 2024 ([AS 2024 210](https://fedlex.data.admin.ch/eli/oc/2024/210)) und vom 17. April 2026, in Kraft seit 1. Juli 2026 (AS **202****6** 180).
+[^annex3-lvlu1-1]: Der Inhalt dieses Anhangs wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter [https://fedlex.data.admin.ch/eli/oc/2026/180](https://fedlex.data.admin.ch/eli/oc/2026/180) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
