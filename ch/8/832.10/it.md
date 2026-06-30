@@ -4,11 +4,11 @@ title: "Legge federale del 18 marzo 1994 sull'assicurazione malattie (LAMal)"
 short: LAMal
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328"
 language: it
-version: 2026-01-01
+version: 2026-07-01
 adopted: 1994-03-18
 in_force: 1996-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328/20260101/it/xml/fedlex-data-admin-ch-eli-cc-1995-1328_1328_1328-20260101-it-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/1328_1328_1328/20260101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328/20260701/it/xml/fedlex-data-admin-ch-eli-cc-1995-1328_1328_1328-20260701-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/1328_1328_1328/20260701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/1328_1328_1328/20260101/it"
 
 (LAMal)
 
-del 18 marzo 1994 (Stato 1° gennaio 2026)
+del 18 marzo 1994 (Stato 1° luglio 2026)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -885,13 +885,15 @@ Sono considerati motivi di ordine medico secondo i capoversi 2 e 3 i casi d’ur
 
 <sup>3</sup> Il fornitore di prestazioni deve consegnare al debitore della remunerazione una fattura dettagliata e comprensibile. Deve pure trasmettergli tutte le indicazioni necessarie per poter verificare il calcolo della remunerazione e l’economicità della prestazione. Nel sistema del terzo pagante il fornitore di prestazioni trasmette all’assicurato, senza che questi debba farne richiesta, una copia della fattura inviata all’assicuratore.[^42-5] Il fornitore di prestazioni e l’assicuratore possono convenire che tale trasmissione incomba all’assicuratore. La trasmissione può avvenire anche per via elettronica. In caso di cura ospedaliera, l’ospedale attesta separatamente la quotaparte del Cantone e quella dell’assicuratore. Il Consiglio federale disciplina i particolari.[^42-6] [^42-7]
 
-<sup>3bis</sup> I fornitori di prestazioni devono indicare nella fattura di cui al capoverso 3 le diagnosi e le procedure in forma codificata, conformemente alle classificazioni previste nella pertinente edizione svizzera pubblicata dal Dipartimento competente. Il Consiglio federale emana disposizioni d’esecuzione sulla rilevazione, il trattamento e la trasmissione dei dati, nel rispetto del principio di proporzionalità.[^42-8]
+<sup>3bis</sup> I fornitori di prestazioni devono indicare nella fattura di cui al capoverso 3 le diagnosi e le procedure in forma codificata, conformemente alle classificazioni previste nella pertinente edizione svizzera pubblicata dal Dipartimento competente. Il Consiglio federale emana disposizioni d’esecuzione sulla rilevazione, il tratta¬mento e la trasmissione dei dati, nel rispetto del principio di proporzionalità.[^42-8]
 
-<sup>4</sup> L’assicuratore può esigere ragguagli supplementari di natura medica.[^42-9]
+<sup>3ter</sup> I fornitori di prestazioni trasmettono le fatture al debitore della rimunerazione per via elettronica. Su richiesta dell’assicurato, trasmettono a quest’ultimo gratuitamente la fattura in forma cartacea. Per la trasmissione elettronica delle fatture, i fornitori di prestazioni e gli assicuratori o le loro federazioni convengono uno standard uniforme valido in tutta la Svizzera. In caso di mancato accordo tra le parti, lo standard è stabilito dal Consiglio federale.[^42-9]
+
+<sup>4</sup> L’assicuratore può esigere ragguagli supplementari di natura medica.[^42-10]
 
 <sup>5</sup> Il fornitore di prestazioni è legittimato, se le circostanze lo esigono, oppure obbligato in ogni caso, su richiesta dell’assicurato, a fornire le indicazioni di natura medica soltanto al medico di fiducia secondo l’articolo 57.
 
-<sup>6</sup> In deroga all’articolo 29 capoverso 2 LPGA, per rivendicare il diritto alle prestazioni non è necessario alcun formulario.[^42-10]
+<sup>6</sup> In deroga all’articolo 29 capoverso 2 LPGA, per rivendicare il diritto alle prestazioni non è necessario alcun formulario.[^42-11]
 
 [^42-1]: Introdotta dalla cifra I della LF dell’8 ott. 2004 (Strategia globale e compensazione dei rischi), in vigore dal 1<sup>°</sup> gen. 2005 ([RU 2005 1071](https://fedlex.data.admin.ch/eli/oc/2005/139); [FF 2004 3803](https://fedlex.data.admin.ch/eli/fga/2004/706)).
 [^42-2]: [RS 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
@@ -901,8 +903,9 @@ Sono considerati motivi di ordine medico secondo i capoversi 2 e 3 i casi d’ur
 [^42-6]: Quarto a settimo per. introdotti dalla cifra I della LF del 18 giu. 2021 (Misure di contenimento dei costi – Pacchetto 1*a*), in vigore dal 1° gen. 2022 ([RU 2021 837](https://fedlex.data.admin.ch/eli/oc/2021/837); [FF 2019 4981](https://fedlex.data.admin.ch/eli/fga/2019/2216)).
 [^42-7]: Nuovo testo giusta la cifra I della LF del 21 dic. 2007 (Finanziamento ospedaliero), in vigore dal 1° gen. 2009 ([RU 2008 2049](https://fedlex.data.admin.ch/eli/oc/2008/291); [FF 2004 4903](https://fedlex.data.admin.ch/eli/fga/2004/1024)).
 [^42-8]: Introdotto dalla cifra I della LF del 23 dic. 2011, in vigore dal 1° gen. 2013 ([RU 2012 4085](https://fedlex.data.admin.ch/eli/oc/2012/472); [FF 2011 6559](https://fedlex.data.admin.ch/eli/fga/2011/1215)[6567](https://fedlex.data.admin.ch/eli/fga/2011/1217)).
-[^42-9]: Introdotto dalla cifra I della LF del 23 dic. 2011, in vigore dal 1° gen. 2013 ([RU 2012 4085](https://fedlex.data.admin.ch/eli/oc/2012/472); [FF 2011 6559](https://fedlex.data.admin.ch/eli/fga/2011/1215)[6567](https://fedlex.data.admin.ch/eli/fga/2011/1217)).
-[^42-10]: Nuovo testo giusta l’all. n. 11 della LF del 6 ott. 2000 sulla parte generale del diritto delle assicurazioni sociali, in vigore dal 1° gen. 2003 ([RU 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); FF **1991** II 178 766, **1994** V 897, **1999** 3896).
+[^42-9]: Introdotto dalla cifra I della LF del 21 mar. 2025 (Misure di contenimen-to dei costi – Pacchetto 2), in vigore dal 1° lug. 2026 ([RU 2026 294](https://fedlex.data.admin.ch/eli/oc/2026/294); [FF 2022 2427](https://fedlex.data.admin.ch/eli/fga/2022/2427)). Vedi anche le disp. trans. di detta mod. alla fine del presente testo.
+[^42-10]: Nuovo testo giusta la cifra I della LF del 23 dic. 2011, in vigore dal 1° gen. 2013 ([RU 2012 4085](https://fedlex.data.admin.ch/eli/oc/2012/472); [FF 2011 6559](https://fedlex.data.admin.ch/eli/fga/2011/1215)[6567](https://fedlex.data.admin.ch/eli/fga/2011/1217)).
+[^42-11]: Introdotto dall’all. n. 11 della LF del 6 ott. 2000 sulla parte generale del diritto delle assicurazioni sociali, in vigore dal 1° gen. 2003 ([RU 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); FF **1991** II 178 766, **1994** V 897, **1999** 3896).
 
 #### Art. 42a
 
@@ -1395,6 +1398,16 @@ I fornitori di prestazioni e gli assicuratori prevedono nelle convenzioni tariff
 [^56-1]: Introdotto dall’all. n. 4 della LF del 18 mar. 2016, in vigore dal 1° gen. 2020 ([RU 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2019 1393](https://fedlex.data.admin.ch/eli/oc/2019/272); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
 [^56-2]: Nuovo testo giusta la cifra I della LF del 29 set. 2023 (Misure di contenimento dei costi – Definizione di obiettivi in materia di costi e di qualità), in vigore dal 1° gen. 2026 ([RU 2025 769](https://fedlex.data.admin.ch/eli/oc/2025/769); [FF 2021 2819](https://fedlex.data.admin.ch/eli/fga/2021/2819)).
 [^56-3]: Introdotto dalla cifra I della LF del 23 dic. 2011, in vigore dal 1° gen. 2013 ([RU 2012 4087](https://fedlex.data.admin.ch/eli/oc/2012/473); [FF 2011 2301](https://fedlex.data.admin.ch/eli/fga/2011/341)[2311](https://fedlex.data.admin.ch/eli/fga/2011/343)). Vedi anche la disp. trans. di detta mod. alla fine del presente testo.
+
+#### Art. 56a
+
+**Informazione mirata degli assicurati**[^56a-1]
+
+<sup>1</sup> L’assicuratore può informare l’assicurato in modo mirato in merito a prestazioni più economiche, a forme particolari di copertura assicurativa idonee e a misure di prevenzione.
+
+<sup>2</sup> In occasione del primo contatto con l’assicurato, l’assicuratore gli comunica lo scopo delle informazioni mirate di cui al capoverso 1, indicandogli che la loro ricezione da parte sua è facoltativa e che può opporvisi in ogni momento.
+
+[^56a-1]: Introdotto dalla cifra I della LF del 21 mar. 2025 (Misure di contenimen-to dei costi – Pacchetto 2), in vigore dal 1° lug. 2026 ([RU 2026 294](https://fedlex.data.admin.ch/eli/oc/2026/294); [FF 2022 2427](https://fedlex.data.admin.ch/eli/fga/2022/2427)).
 
 #### Art. 57
 
@@ -2218,9 +2231,10 @@ Gli organi incaricati di eseguire, controllare o sorvegliare la presente legge o
 - f. sorvegliare l’esecuzione della presente legge;
 - g. allestire statistiche;
 - h.[^84-5] assegnare o verificare il numero AVS;
-- i.[^84-6] calcolare la compensazione dei rischi.
+- i.[^84-6] calcolare la compensazione dei rischi;
+- j.[^84-7] informare l’assicurato in modo mirato in merito a prestazioni più economiche, a forme particolari di copertura assicurativa idonee e a misure di prevenzione.
 
-<sup>2</sup> Per adempiere tali compiti, possono inoltre trattare o far trattare dati personali che permettono segnatamente di valutare la salute, la gravità dell’infermità fisica o psichica, i bisogni e la situazione economica dell’assicurato.[^84-7]
+<sup>2</sup> Per adempiere tali compiti, possono inoltre trattare o far trattare dati personali che permettono segnatamente di valutare la salute, la gravità dell’infermità fisica o psichica, i bisogni e la situazione economica dell’assicurato.[^84-8]
 
 [^84-1]: Nuovo testo giusta la cifra I della LF del 23 giu. 2000, in vigore dal 1° gen. 2001 ([RU 2000 2755](https://fedlex.data.admin.ch/eli/oc/2000/463); [FF 2000 205](https://fedlex.data.admin.ch/eli/fga/2000/99)).
 [^84-2]: [RS 832.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10161)
@@ -2228,13 +2242,16 @@ Gli organi incaricati di eseguire, controllare o sorvegliare la presente legge o
 [^84-4]: Ora: art. 65 e 65*a*
 [^84-5]: Introdotta dall’all. n. 11 della LF del 23 giu. 2006 (Nuovo numero d’assicurato dell’AVS), in vigore dal 1° dic. 2007 ([RU 2007 5259](https://fedlex.data.admin.ch/eli/oc/2007/747); [FF 2006 471](https://fedlex.data.admin.ch/eli/fga/2006/52)).
 [^84-6]: Introdotta dalla cifra I della LF del 21 dic. 2007 (Compensazione dei rischi), in vigore dal 1° gen. 2012 ([RU 2009 4755](https://fedlex.data.admin.ch/eli/oc/2009/559); [FF 2004 4903](https://fedlex.data.admin.ch/eli/fga/2004/1024)).
-[^84-7]: Introdotto dall’all. 1 cifra II n. 82 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^84-7]: Introdotta dalla cifra I della LF del 21 mar. 2025 (Misure di contenimen-to dei costi – Pac-chetto 2), in vigore dal 1° lug. 2026 ([RU 2026 294](https://fedlex.data.admin.ch/eli/oc/2026/294); [FF 2022 2427](https://fedlex.data.admin.ch/eli/fga/2022/2427)).
+[^84-8]: Introdotto dall’all. 1 cifra II n. 82 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 84a
 
 **Comunicazione di dati**[^84a-1]
 
-1 Purché nessun interesse privato preponderante vi si opponga, gli organi incaricati di applicare la presente legge o la LVAMal[^84a-2] o di controllarne o sorvegliarne l’esecuzione possono comunicare i dati, in deroga all’articolo 33 LPGA[^84a-3]:[^84a-4]
+<sup>1</sup>
+
+Purché nessun interesse privato preponderante vi si opponga, gli organi incaricati di applicare la presente legge o la LVAMal[^84a-2] o di controllarne o sorvegliarne l’esecuzione possono comunicare i dati, in deroga all’articolo 33 LPGA[^84a-3]:[^84a-4]
 
 - a.[^84a-5] ad altri organi incaricati di applicare la presente legge o la LVAMal, nonché di controllarne o sorvegliarne l’esecuzione, qualora ne necessitino per adempiere gli obblighi conferiti loro dalla presente legge o dalla LVAMal;
 - b. agli organi di altre assicurazioni sociali, qualora, in deroga all’articolo 32 capoverso 2 LPGA, l’obbligo di comunicazione sia sancito da una legge federale;
@@ -2819,6 +2836,18 @@ Il Consiglio federale valuta le ripercussioni della modifica del 16 dicembre 202
 [^u24-1]: [RU 2025 769](https://fedlex.data.admin.ch/eli/oc/2025/769); [FF 2021 2819](https://fedlex.data.admin.ch/eli/fga/2021/2819)
 
 Gli obiettivi in materia di costi e di qualità sono stabiliti per la prima volta per l’anno civile che inizia due anni dopo l’entrata in vigore della modifica del 29 settembre 2023.
+
+## Disposizioni transitorie della modifica del 21 marzo 2025
+
+[^u25-1]
+
+[^u25-1]: [RU 2026 294](https://fedlex.data.admin.ch/eli/oc/2026/294); [FF 2022 2427](https://fedlex.data.admin.ch/eli/fga/2022/2427)
+
+<sup>1</sup> …[^u25-2]
+
+<sup>2</sup> Se entro due anni dall’entrata in vigore della presente modifica le parti non riescono a trovare un accordo sullo standard per la trasmissione elettronica delle fatture secondo l’articolo 42 capoverso 3<sup>ter</sup>, tale standard è stabilito dal Consiglio federale.
+
+[^u25-2]: Non ancora in vigore.
 
 Allegato
 

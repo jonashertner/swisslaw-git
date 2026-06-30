@@ -4,11 +4,11 @@ title: "Loi fédérale du 18 mars 1994 sur l'assurance-maladie (LAMal)"
 short: LAMal
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328"
 language: fr
-version: 2026-01-01
+version: 2026-07-01
 adopted: 1994-03-18
 in_force: 1996-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328/20260101/fr/xml/fedlex-data-admin-ch-eli-cc-1995-1328_1328_1328-20260101-fr-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/1328_1328_1328/20260101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328/20260701/fr/xml/fedlex-data-admin-ch-eli-cc-1995-1328_1328_1328-20260701-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/1328_1328_1328/20260701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/1328_1328_1328/20260101/fr"
 
 (LAMal)
 
-du 18 mars 1994 (État le 1<sup>er</sup> janvier 2026)
+du 18 mars 1994 (État le 1<sup>er</sup> juillet 2026)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -889,11 +889,13 @@ Sont réputés raisons médicales au sens des al. 2 et 3 le cas d’urgence et l
 
 <sup>3bis</sup> Les fournisseurs de prestations doivent faire figurer dans la facture au sens de l’al. 3 les diagnostics et les procédures sous forme codée, conformément aux classifications contenues dans l’édition suisse correspondante publiée par le département compétent. Le Conseil fédéral édicte des dispositions détaillées sur la collecte, le traitement et la transmission des données, dans le respect du principe de la proportionnalité.[^42-8]
 
-<sup>4</sup> L’assureur peut exiger des renseignements supplémentaires d’ordre médical.[^42-9]
+<sup>3ter</sup> Le fournisseur de prestations remet sa facture au débiteur de la rémunération sous forme électronique. À la demande de l’assuré, il la lui remet gratuitement sur papier. Les fournisseurs de prestations et les assureurs ou leurs fédérations respectives conviennent d’un standard unique dans toute la Suisse pour la transmission électronique des factures. S’ils ne parviennent pas à s’entendre, le Conseil fédéral définit le standard.[^42-9]
+
+<sup>4</sup> L’assureur peut exiger des renseignements supplémentaires d’ordre médical.[^42-10]
 
 <sup>5</sup> Le fournisseur de prestations est fondé lorsque les circonstances l’exigent, ou astreint dans tous les cas, si l’assuré le demande, à ne fournir les indications d’ordre médical qu’au médecin-conseil de l’assureur, conformément à l’art. 57.
 
-<sup>6</sup> En dérogation à l’art. 29, al. 2, LPGA, aucune formule n’est nécessaire pour faire valoir le droit aux prestations.[^42-10]
+<sup>6</sup> En dérogation à l’art. 29, al. 2, LPGA, aucune formule n’est nécessaire pour faire valoir le droit aux prestations.[^42-11]
 
 [^42-1]: Introduit par le ch. I de la LF du 8 oct. 2004 (Stratégie globale, compensation des risques), en vigueur depuis le 1<sup>er</sup> janv. 2005 ([RO 2005 1071](https://fedlex.data.admin.ch/eli/oc/2005/139); [FF 2004 4019](https://fedlex.data.admin.ch/eli/fga/2004/706)).
 [^42-2]: [RS 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
@@ -903,8 +905,9 @@ Sont réputés raisons médicales au sens des al. 2 et 3 le cas d’urgence et l
 [^42-6]: 6<sup>e</sup> et 7<sup>e</sup> phrases introduites par le ch. I de la LF du 18 juin 2021 (Mesures visant à freiner la hausse des coûts, volet 1*a*), en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 837](https://fedlex.data.admin.ch/eli/oc/2021/837); [FF 2019 5765](https://fedlex.data.admin.ch/eli/fga/2019/2216)).
 [^42-7]: Nouvelle teneur selon le ch. I de la LF du 21 déc. 2007 (Financement hospitalier), en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 2049](https://fedlex.data.admin.ch/eli/oc/2008/291); [FF 2004 5207](https://fedlex.data.admin.ch/eli/fga/2004/1024)).
 [^42-8]: Introduit par le ch. I de la LF du 23 déc. 2011, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 4085](https://fedlex.data.admin.ch/eli/oc/2012/472); [FF 2011 6793](https://fedlex.data.admin.ch/eli/fga/2011/1215)[6801](https://fedlex.data.admin.ch/eli/fga/2011/1217)).
-[^42-9]: Nouvelle teneur selon le ch. I de la LF du 23 déc. 2011, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 4085](https://fedlex.data.admin.ch/eli/oc/2012/472); [FF 2011 6793](https://fedlex.data.admin.ch/eli/fga/2011/1215)[6801](https://fedlex.data.admin.ch/eli/fga/2011/1217)).
-[^42-10]: Introduit par l’annexe ch. 11 de la LF du 6 oct. 2000 sur la LPGA, en vigueur depuis le 1<sup>er</sup> janv. 2003 ([RO 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [FF 1991 II 181](https://fedlex.data.admin.ch/eli/fga/1991/2__181_)888, [1994 V 897](https://fedlex.data.admin.ch/eli/fga/1994/5__897_), **1999** 4168).
+[^42-9]: Introduit par le ch. I de la LF du 21 mars 2025 (Mesures visant à freiner la hausse des coûts, 2<sup>e</sup> volet), en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2026 294](https://fedlex.data.admin.ch/eli/oc/2026/294); [FF 2022 2427](https://fedlex.data.admin.ch/eli/fga/2022/2427)). Voir aussi les disp. trans. de cette mod. à la fin du texte.
+[^42-10]: Nouvelle teneur selon le ch. I de la LF du 23 déc. 2011, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 4085](https://fedlex.data.admin.ch/eli/oc/2012/472); [FF 2011 6793](https://fedlex.data.admin.ch/eli/fga/2011/1215)[6801](https://fedlex.data.admin.ch/eli/fga/2011/1217)).
+[^42-11]: Introduit par l’annexe ch. 11 de la LF du 6 oct. 2000 sur la LPGA, en vigueur depuis le 1<sup>er</sup> janv. 2003 ([RO 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [FF 1991 II 181](https://fedlex.data.admin.ch/eli/fga/1991/2__181_)888, [1994 V 897](https://fedlex.data.admin.ch/eli/fga/1994/5__897_), **1999** 4168).
 
 #### Art. 42a
 
@@ -1398,6 +1401,16 @@ Les fournisseurs de prestations et les assureurs prévoient dans les conventions
 [^56-1]: Introduit par l’annexe ch. 4 de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2019 1393](https://fedlex.data.admin.ch/eli/oc/2019/272); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
 [^56-2]: Nouvelle teneur selon le ch. I de la LF du 29 sept. 2023 (Mesures visant à freiner la hausse des coûts – objectifs en matière de coûts et de qualité), en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 769](https://fedlex.data.admin.ch/eli/oc/2025/769); [FF 2021 2819](https://fedlex.data.admin.ch/eli/fga/2021/2819)).
 [^56-3]: Introduit par le ch. I de la LF du 23 déc. 2011, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 4087](https://fedlex.data.admin.ch/eli/oc/2012/473); [FF 2011 2359](https://fedlex.data.admin.ch/eli/fga/2011/341)). Voir aussi la disp. trans. de cette mod. à la fin du texte.
+
+#### Art. 56a
+
+**Informations ciblées aux assurés**[^56a-1]
+
+<sup>1</sup> Les assureurs peuvent informer de manière ciblée les assurés sur des prestations plus avantageuses ainsi que sur le choix de formes particulières d’assurance appropriées et sur des mesures de prévention.
+
+<sup>2</sup> Les assureurs informent les assurés, lors de la première prise de contact, sur le but des informations ciblées visées à l’al. 1 ainsi que sur le caractère facultatif de leur réception et sur la possibilité de s’y opposer en tout temps.
+
+[^56a-1]: Introduit par le ch. I de la LF du 21 mars 2025 (Mesures visant à freiner la hausse des coûts, 2<sup>e</sup> volet), en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2026 294](https://fedlex.data.admin.ch/eli/oc/2026/294); [FF 2022 2427](https://fedlex.data.admin.ch/eli/fga/2022/2427)).
 
 #### Art. 57
 
@@ -2220,9 +2233,10 @@ Les organes chargés d’appliquer la présente loi ou la LSAMal[^84-2] ou d’e
 - f. surveiller l’exécution de la présente loi;
 - g. établir des statistiques;
 - h.[^84-5] attribuer ou vérifier le numéro AVS;
-- i.[^84-6] calculer la compensation des risques.
+- i.[^84-6] calculer la compensation des risques;
+- j.[^84-7] informer de manière ciblée les assurés sur des prestations plus avantageuses ainsi que sur le choix de formes particulières d’assurance appropriées et sur des mesures de prévention.
 
-<sup>2</sup> Pour accomplir ces tâches, ils sont en outre habilités à traiter ou à faire traiter des données personnelles, notamment des données permettant d’évaluer la santé, la gravité de l’affection physique ou psychique, les besoins et la situation économique de la personne assurée.[^84-7]
+<sup>2</sup> Pour accomplir ces tâches, ils sont en outre habilités à traiter ou à faire traiter des données personnelles, notamment des données permettant d’évaluer la santé, la gravité de l’affection physique ou psychique, les besoins et la situation économique de la personne assurée.[^84-8]
 
 [^84-1]: Nouvelle teneur selon le ch. I de la LF du 23 juin 2000, en vigueur depuis le 1<sup>er</sup> janv. 2001 ([RO 2000 2755](https://fedlex.data.admin.ch/eli/oc/2000/463); [FF 2000 219](https://fedlex.data.admin.ch/eli/fga/2000/99)).
 [^84-2]: [RS 832.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10161)
@@ -2230,7 +2244,8 @@ Les organes chargés d’appliquer la présente loi ou la LSAMal[^84-2] ou d’e
 [^84-4]: Actuellement: art. 65 et 65*a*.
 [^84-5]: Introduite par le l’annexe ch. 11 de la LF du 23 juin 2006 (Nouveau numéro d’assuré AVS), en vigueur depuis le 1<sup>er</sup> déc. 2007 ([RO 2007 5259](https://fedlex.data.admin.ch/eli/oc/2007/747); [FF 2006 515](https://fedlex.data.admin.ch/eli/fga/2006/52)).
 [^84-6]: Introduite par le ch. I de la LF du 21 déc. 2007 (Compensation des risques), en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2009 4755](https://fedlex.data.admin.ch/eli/oc/2009/559); [FF 2004 5207](https://fedlex.data.admin.ch/eli/fga/2004/1024)).
-[^84-7]: Introduit par l’annexe 1 ch. II 82 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^84-7]: Introduite par le ch. I de la LF du 21 mars 2025 (Mesures visant à freiner la hausse des coûts, 2<sup>e</sup> volet), en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2026 294](https://fedlex.data.admin.ch/eli/oc/2026/294); [FF 2022 2427](https://fedlex.data.admin.ch/eli/fga/2022/2427)).
+[^84-8]: Introduit par l’annexe 1 ch. II 82 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 84a
 
@@ -2826,6 +2841,18 @@ Le Conseil fédéral évalue les effets de la modification du 16 décembre 2022 
 [^u24-1]: [RO 2025 769](https://fedlex.data.admin.ch/eli/oc/2025/769); [FF 2021 2819](https://fedlex.data.admin.ch/eli/fga/2021/2819)
 
 Les objectifs en matière de coûts et de qualité sont fixés pour la première fois pour l’année civile qui commence deux ans après l’entrée en vigueur de la modification du 29 septembre 2023.
+
+## Dispositions transitoires de la modification du 21 mars 2025
+
+[^u25-1]
+
+[^u25-1]: [RO 2026 294](https://fedlex.data.admin.ch/eli/oc/2026/294); [FF 2022 2427](https://fedlex.data.admin.ch/eli/fga/2022/2427)
+
+<sup>1</sup> …[^u25-2]
+
+<sup>2</sup> Si, dans les deux ans à compter de l’entrée en vigueur de la modification du 21 mars 2025, les parties ne parviennent pas à s’entendre sur le standard pour la transmission électronique des factures visée à l’art. 42, al. 3<sup>ter</sup>, le Conseil fédéral fixe ledit standard.
+
+[^u25-2]: Pas encore en vigueur.
 
 Annexe
 

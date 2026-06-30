@@ -4,11 +4,11 @@ title: Bundesgesetz vom 18. März 1994 über die Krankenversicherung (KVG)
 short: KVG
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328"
 language: de
-version: 2026-01-01
+version: 2026-07-01
 adopted: 1994-03-18
 in_force: 1996-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328/20260101/de/xml/fedlex-data-admin-ch-eli-cc-1995-1328_1328_1328-20260101-de-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/1328_1328_1328/20260101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328/20260701/de/xml/fedlex-data-admin-ch-eli-cc-1995-1328_1328_1328-20260701-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/1328_1328_1328/20260701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/1328_1328_1328/20260101/de"
 
 (KVG)
 
-vom 18. März 1994 (Stand am 1. Januar 2026)
+vom 18. März 1994 (Stand am 1. Juli 2026)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -887,11 +887,13 @@ Medizinische Gründe nach den Absätzen 2 und 3 liegen bei einem Notfall vor ode
 
 <sup>3bis</sup> Die Leistungserbringer haben auf der Rechnung nach Absatz 3 die Diagnosen und Prozeduren nach den Klassifikationen in den jeweiligen vom zuständigen Departement herausgegebenen schweizerischen Fassungen codiert aufzuführen. Der Bundesrat erlässt ausführende Bestimmungen zur Erhebung, Bearbeitung und Weitergabe der Daten unter Wahrung des Verhältnismässigkeitsprinzips.[^42-8]
 
-<sup>4</sup> Der Versicherer kann zusätzliche Auskünfte medizinischer Natur verlangen.[^42-9]
+<sup>3ter</sup> Der Leistungserbringer hat die Rechnungen dem Schuldner in elektronischer Form zu übermitteln. Auf Verlangen der versicherten Person übermittelt er sie ihr kostenlos in Papierform. Die Leistungserbringer und die Versicherer oder deren Verbände vereinbaren einen gesamtschweizerisch einheitlichen Standard für die elektronische Übermittlung der Rechnungen. Wenn sich die Parteien nicht einigen können, legt der Bundesrat den Standard fest.[^42-9]
+
+<sup>4</sup> Der Versicherer kann zusätzliche Auskünfte medizinischer Natur verlangen.[^42-10]
 
 <sup>5</sup> Der Leistungserbringer ist in begründeten Fällen berechtigt und auf Verlangen der versicherten Person in jedem Fall verpflichtet, medizinische Angaben nur dem Vertrauensarzt oder der Vertrauensärztin des Versicherers nach Artikel 57 bekannt zu geben.
 
-<sup>6</sup> In Abweichung von Artikel 29 Absatz 2 ATSG ist für die Anmeldung von Leistungsansprüchen kein Formular nötig.[^42-10]
+<sup>6</sup> In Abweichung von Artikel 29 Absatz 2 ATSG ist für die Anmeldung von Leistungsansprüchen kein Formular nötig.[^42-11]
 
 [^42-1]: Eingefügt durch Ziff. I des BG vom 8. Okt. 2004 (Gesamtstrategie und Risikoausgleich), in Kraft seit 1. Jan. 2005 ([AS 2005 1071](https://fedlex.data.admin.ch/eli/oc/2005/139); [BBl 2004 4259](https://fedlex.data.admin.ch/eli/fga/2004/706)).
 [^42-2]: [SR 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
@@ -901,8 +903,9 @@ Medizinische Gründe nach den Absätzen 2 und 3 liegen bei einem Notfall vor ode
 [^42-6]: Sechster und siebter Satz eingefügt durch Ziff. I des BG vom 18. Juni 2021 (Massnahmen zur Kostendämpfung – Paket 1*a*), in Kraft seit 1. Jan. 2022 ([AS 2021 837](https://fedlex.data.admin.ch/eli/oc/2021/837); [BBl 2019 6071](https://fedlex.data.admin.ch/eli/fga/2019/2216)).
 [^42-7]: Fassung gemäss Ziff. I des BG vom 21. Dez. 2007 (Spitalfinanzierung), in Kraft seit 1. Jan. 2009 ([AS 2008 2049](https://fedlex.data.admin.ch/eli/oc/2008/291); [BBl 2004 5551](https://fedlex.data.admin.ch/eli/fga/2004/1024)).
 [^42-8]: Eingefügt durch Ziff. I des BG vom 23. Dez. 2011, in Kraft seit 1. Jan. 2013 ([AS 2012 4085](https://fedlex.data.admin.ch/eli/oc/2012/472); [BBl 2011 7385](https://fedlex.data.admin.ch/eli/fga/2011/1215), [7393](https://fedlex.data.admin.ch/eli/fga/2011/1217)).
-[^42-9]: Fassung gemäss Ziff. I des BG vom 23. Dez. 2011, in Kraft seit 1. Jan. 2013 ([AS 2012 4085](https://fedlex.data.admin.ch/eli/oc/2012/472); [BBl 2011 7385](https://fedlex.data.admin.ch/eli/fga/2011/1215), [7393](https://fedlex.data.admin.ch/eli/fga/2011/1217)).
-[^42-10]: Eingefügt durch Anhang Ziff. 11 des BG vom 6. Okt. 2000 über den Allgemeinen Teil des Sozialversicherungsrechts, in Kraft seit 1. Jan. 2003 ([AS 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [BBl 1991 II 185](https://fedlex.data.admin.ch/eli/fga/1991/2_185__), 910; [1994 V 921](https://fedlex.data.admin.ch/eli/fga/1994/5_921__); **1999** 4523).
+[^42-9]: Eingefügt durch Ziff. I des BG vom 21. März 2025 (Massnahmen zur Kostendämpfung – Paket 2), in Kraft seit 1. Juli 2026 ([AS 2026 294](https://fedlex.data.admin.ch/eli/oc/2026/294); [BBl 2022 2427](https://fedlex.data.admin.ch/eli/fga/2022/2427)). Siehe auch die UeB dieser Änd. am Schluss des Textes.
+[^42-10]: Fassung gemäss Ziff. I des BG vom 23. Dez. 2011, in Kraft seit 1. Jan. 2013 ([AS 2012 4085](https://fedlex.data.admin.ch/eli/oc/2012/472); [BBl 2011 7385](https://fedlex.data.admin.ch/eli/fga/2011/1215), [7393](https://fedlex.data.admin.ch/eli/fga/2011/1217)).
+[^42-11]: Eingefügt durch Anhang Ziff. 11 des BG vom 6. Okt. 2000 über den Allgemeinen Teil des Sozialversicherungsrechts, in Kraft seit 1. Jan. 2003 ([AS 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [BBl 1991 II 185](https://fedlex.data.admin.ch/eli/fga/1991/2_185__), 910; [1994 V 921](https://fedlex.data.admin.ch/eli/fga/1994/5_921__); **1999** 4523).
 
 #### Art. 42a
 
@@ -1395,6 +1398,16 @@ Leistungserbringer und Versicherer sehen in den Tarifverträgen Massnahmen zur S
 [^56-1]: Eingefügt durch Anhang Ziff. 4 des BG vom 18. März 2016, in Kraft seit 1. Jan. 2020 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280); [2019 1393](https://fedlex.data.admin.ch/eli/oc/2019/272); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
 [^56-2]: Fassung gemäss Ziff. I des BG vom 29. Sept. 2023 (Massnahmen zur Kostendämpfung – Vorgabe von Kosten- und Qualitätszielen), in Kraft seit 1. Jan. 2026 ([AS 2025 769](https://fedlex.data.admin.ch/eli/oc/2025/769); [BBl 2021 2819](https://fedlex.data.admin.ch/eli/fga/2021/2819)).
 [^56-3]: Eingefügt durch Ziff. I des BG vom 23. Dez. 2011, in Kraft seit 1. Jan. 2013 ([AS 2012 4087](https://fedlex.data.admin.ch/eli/oc/2012/473); [BBl 2011 2519](https://fedlex.data.admin.ch/eli/fga/2011/341), [2529](https://fedlex.data.admin.ch/eli/fga/2011/343)). Siehe auch die UeB dieser Änd. am Schluss dieses Textes.
+
+#### Art. 56a
+
+**Gezielte Informationen der Versicherten**[^56a-1]
+
+<sup>1</sup> Die Versicherer können die Versicherten gezielt über kostengünstigere Leistungen, die Wahl von geeigneten besonderen Versicherungsformen und präventive Massnahmen informieren.
+
+<sup>2</sup> Die Versicherer informieren die Versicherten bei der ersten Kontaktaufnahme über den Zweck der gezielten Information nach Absatz 1 und weisen die Versicherten darauf hin, dass der Erhalt der Informationen freiwillig ist und die Möglichkeit des jederzeitigen Widerspruchs besteht.
+
+[^56a-1]: Eingefügt durch Ziff. I des BG vom 21. März 2025 (Massnahmen zur Kostendämpfung – Paket 2), in Kraft seit 1. Juli 2026 ([AS 2026 294](https://fedlex.data.admin.ch/eli/oc/2026/294); [BBl 2022 2427](https://fedlex.data.admin.ch/eli/fga/2022/2427)).
 
 #### Art. 57
 
@@ -2216,9 +2229,10 @@ Die mit der Durchführung oder mit der Kontrolle oder Beaufsichtigung der Durchf
 - f. die Aufsicht über die Durchführung dieses Gesetzes auszuüben;
 - g. Statistiken zu führen;
 - h.[^84-5] die AHV-Nummer zuzuweisen oder zu verifizieren;
-- i.[^84-6] den Risikoausgleich zu berechnen.
+- i.[^84-6] den Risikoausgleich zu berechnen;
+- j.[^84-7] die Versicherten gezielt über kostengünstigere Leistungen, die Wahl von geeigneten besonderen Versicherungsformen und präventive Massnahmen zu informieren.
 
-<sup>2</sup> Zur Erfüllung dieser Aufgaben sind sie darüber hinaus befugt, Personendaten, die namentlich die Beurteilung der Gesundheit, der Schwere des physischen oder psychischen Leidens, der Bedürfnisse und der wirtschaftlichen Situation der versicherten Person erlauben, zu bearbeiten oder bearbeiten zu lassen.[^84-7]
+<sup>2</sup> Zur Erfüllung dieser Aufgaben sind sie darüber hinaus befugt, Personendaten, die namentlich die Beurteilung der Gesundheit, der Schwere des physischen oder psychischen Leidens, der Bedürfnisse und der wirtschaftlichen Situation der versicherten Person erlauben, zu bearbeiten oder bearbeiten zu lassen.[^84-8]
 
 [^84-1]: Fassung gemäss Ziff. I des BG vom 23. Juni 2000, in Kraft seit 1. Jan. 2001 ([AS 2000 2755](https://fedlex.data.admin.ch/eli/oc/2000/463); [BBl 2000 255](https://fedlex.data.admin.ch/eli/fga/2000/99)).
 [^84-2]: [SR 832.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10161)
@@ -2226,7 +2240,8 @@ Die mit der Durchführung oder mit der Kontrolle oder Beaufsichtigung der Durchf
 [^84-4]: Heute: nach Art. 65 und 65*a*.
 [^84-5]: Eingefügt durch Anhang Ziff. 11 des BG vom 23 Juni 2006 (Neue AHV-Versichertennummer), in Kraft seit 1. Dez. 2007 ([AS 2007 5259](https://fedlex.data.admin.ch/eli/oc/2007/747); [BBl 2006 501](https://fedlex.data.admin.ch/eli/fga/2006/52)).
 [^84-6]: Eingefügt durch Ziff. I des BG vom 21. Dez. 2007 (Risikoausgleich), in Kraft seit 1. Jan. 2012 ([AS 2009 4755](https://fedlex.data.admin.ch/eli/oc/2009/559), 4757; [BBl 2004 5551](https://fedlex.data.admin.ch/eli/fga/2004/1024)).
-[^84-7]: Eingefügt durch Anhang 1 Ziff. II 82 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^84-7]: Eingefügt durch Ziff. I des BG vom 21. März 2025 (Massnahmen zur Kostendämpfung – Paket 2), in Kraft seit 1. Juli 2026 ([AS 2026 294](https://fedlex.data.admin.ch/eli/oc/2026/294); [BBl 2022 2427](https://fedlex.data.admin.ch/eli/fga/2022/2427)).
+[^84-8]: Eingefügt durch Anhang 1 Ziff. II 82 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 84a
 
@@ -2818,6 +2833,21 @@ Der Bundesrat evaluiert die Auswirkungen der Änderung vom 16. Dezember 2022 auf
 [^u24-1]: [AS 2025 769](https://fedlex.data.admin.ch/eli/oc/2025/769); [BBl 2021 2819](https://fedlex.data.admin.ch/eli/fga/2021/2819)
 
 Kosten- und Qualitätsziele werden erstmals für das Kalenderjahr festgelegt, das nach Ablauf von zwei Jahren nach Inkrafttreten der Änderung vom 29. September 2023 beginnt.
+
+## Übergangsbestimmungen zur Änderung vom 21. März 2025
+
+[^u25-1]
+
+[^u25-1]: [AS 2026 294](https://fedlex.data.admin.ch/eli/oc/2026/294); [BBl 2022 2427](https://fedlex.data.admin.ch/eli/fga/2022/2427)
+
+<sup>1</sup> …[^u25-2]
+
+<sup>2</sup> Können sich die Parteien nicht innerhalb von zwei Jahren nach dem Inkrafttreten der Änderung vom 21. März 2025 auf einen Standard für die elektronische Übermittlung der Rechnungen nach Artikel 42 Absatz 3<sup>ter</sup> einigen, so legt der Bundesrat den Standard fest.
+
+<sup>3–</sup><sup>8</sup> …[^u25-3]
+
+[^u25-2]: Noch nicht in Kraft.
+[^u25-3]: Noch nicht in Kraft.
 
 Anhang
 
