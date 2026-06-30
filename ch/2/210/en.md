@@ -4,11 +4,11 @@ title: Swiss Civil Code of 10 December 1907
 short: CC
 eli: "https://fedlex.data.admin.ch/eli/cc/24/233_245_233"
 language: en
-version: 2026-01-01
+version: 2026-07-01
 adopted: 1907-12-10
 in_force: 1912-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/24/233_245_233/20260101/en/xml/fedlex-data-admin-ch-eli-cc-24-233_245_233-20260101-en-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/24/233_245_233/20260101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/24/233_245_233/20260701/en/xml/fedlex-data-admin-ch-eli-cc-24-233_245_233-20260701-en-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/24/233_245_233/20260701/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/24/233_245_233/20260101/en"
 
 English is not an official language of the Swiss Confederation. This translation is provided for information purposes only and has no legal force.
 
-of 10 December 1907 (Status as of 1 January 2026)
+of 10 December 1907 (Last amended on 1 July 2026)
 
 The Federal Assembly of the Swiss Confederation,
 
@@ -1506,7 +1506,7 @@ At the request of the supervisory authority and having heard the board of truste
 
 Having heard the board of trustees, the supervisory authority may make minor amendments to the foundation charter provided these are objectively justified and do not impair the rights of any third party.
 
-[^86b-1]: Inserted by No I of the FA of 8 Oct. 2004 (Law of Foundations) ([AS 2005 4545](https://fedlex.data.admin.ch/eli/oc/2005/591); [BBl 2003 8153](https://fedlex.data.admin.ch/eli/fga/2003/1402)[8191](https://fedlex.data.admin.ch/eli/fga/2003/1404)). Amended by No I of the FA of 17 Dec. 2021 (Strengthening Switzerland as a Foundation Location), in force since 1 Jan. 2024 ([AS 2022 452](https://fedlex.data.admin.ch/eli/oc/2022/452); [BBl 2021 485](https://fedlex.data.admin.ch/eli/fga/2021/485), [1169](https://fedlex.data.admin.ch/eli/fga/2021/1169)).
+[^86b-1]: Inserted by No I of the FA of 8 Oct. 2004 (Law of Foundations) ([AS 2005 4545](https://fedlex.data.admin.ch/eli/oc/2005/591); BBl 2003 8153 8191). Amended by No I of the FA of 17 Dec. 2021 (Strengthening Switzerland as a Foundation Location), in force since 1 Jan. 2024 ([AS 2022 452](https://fedlex.data.admin.ch/eli/oc/2022/452); [BBl 2021 485](https://fedlex.data.admin.ch/eli/fga/2021/485), [1169](https://fedlex.data.admin.ch/eli/fga/2021/1169)).
 
 ### V. Form of the amendments
 
@@ -1858,7 +1858,7 @@ The civil register office verifies that:
 
 The wedding ceremony may take place within three months following notification of completion of the preparatory procedure.
 
-[^100-1]: Amended by No I of the FA of 28 Sept. 2018, in force since 1 Jan. 2020 ([AS 2019 3813](https://fedlex.data.admin.ch/eli/oc/2019/695); [BBl 2017 6769](https://fedlex.data.admin.ch/eli/fga/2017/1991)).
+[^100-1]: Amended by No I of the FA of 28 Sept. 2018, in force since 1 Jan. 2020 (AS 2019 3813; [BBl 2017 6769](https://fedlex.data.admin.ch/eli/fga/2017/1991)).
 
 ### C. Wedding ceremony
 
@@ -4246,7 +4246,7 @@ Parents and children owe each other such support, consideration and respect as t
 
 [^book2-part2-tit8-chap2-1]
 
-[^book2-part2-tit8-chap2-1]: Inserted by No I 1 of the FA of 25 June 1976, in force since 1 Jan. 1978 ([AS 1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237); [BBl 1974 II 1](https://fedlex.data.admin.ch/eli/fga/1974/2_1_1_1)).
+[^book2-part2-tit8-chap2-1]: Inserted by No I 1 of the FA of 25 June 1976, in force since 1 Jan. 1978 (AS 1977 237; [BBl 1974 II 1](https://fedlex.data.admin.ch/eli/fga/1974/2_1_1_1)).
 
 ### A. General
 
@@ -4322,7 +4322,7 @@ Parents and children owe each other such support, consideration and respect as t
 
 <sup>1</sup> The child is entitled to sue the father or the mother or both for maintenance in future and for one year prior to the bringing of such action.
 
-<sup>2<sup>–</sup><sup>3</sup></sup> ...[^279-2]
+<sup>2–3</sup> ...[^279-2]
 
 [^279-1]: Amended by No I 1 of the FA of 25 June 1976, in force since 1 Jan. 1978 ([AS 1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237); [BBl 1974 II 1](https://fedlex.data.admin.ch/eli/fga/1974/2_1_1_1)).
 [^279-2]: Repealed by Annex No 2 of the Civil Jurisdiction Act of 24 March 2000, with effect from 1 Jan. 2001 ([AS 2000 2355](https://fedlex.data.admin.ch/eli/oc/2000/374); BBl **1999** 2829).
@@ -4701,17 +4701,23 @@ Each spouse must give the other reasonable support in exercising parental respon
 
 [^book2-part2-tit8-chap3-lvlAsepties-1]: Amended by No I of the FA of 17 June 2016 (Adoption), in force since 1 Jan. 2018 ([AS 2017 3699](https://fedlex.data.admin.ch/eli/oc/2017/425); [BBl 2015 877](https://fedlex.data.admin.ch/eli/fga/2015/94)).
 
+#### Art. 300
+
+[^300-1]
+
+<sup>1</sup> If a child is placed in foster care with third parties, unless the relevant orders provide otherwise, these third parties exercise parental responsibility over the child in loco parentis to the extent required for the proper fulfilment of their duties.
+
+<sup>2</sup> Foster parents must be consulted before any important decisions are taken regarding the child.
+
+[^300-1]: Amended by No I 1 of the FA of 25 June 1976, in force since 1 Jan. 1978 ([AS 1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237); [BBl 1974 II 1](https://fedlex.data.admin.ch/eli/fga/1974/2_1_1_1)).
+
 ### B. Scope
 
 ### I. In general
 
-#### Art. 300
+#### Art. 301
 
 [^301-1]
-
-<sup>1</sup> If a child is placed in foster care with third parties, unless the relevant orders provide otherwise, these third parties exercise parental responsibility over the child in loco parentis to the extent required for the proper fulfilment of their duties.
-
-<sup>2</sup> Foster parents must be consulted before any important decisions are taken regarding the child. **Art. 301**[^301-2]
 
 <sup>1</sup> The parents raise and care for a child with his or her best interests in mind and take all necessary decisions unless the child has capacity to act.
 
@@ -4720,7 +4726,7 @@ Each spouse must give the other reasonable support in exercising parental respon
 The parent who is taking care of the child may decide alone if:
 
 - 1\. the matter is routine or urgent;
-- 2\. the other parent cannot be consulted without incurring unreasonable trouble or expense.[^301-3]
+- 2\. the other parent cannot be consulted without incurring unreasonable trouble or expense.[^301-2]
 
 <sup>2</sup> The child owes his or her parents obedience; according to how mature the child is, the parents shall allow the child the freedom to shape his or her own life and, wherever feasible, take due account of the child’s opinion in important matters.
 
@@ -4729,8 +4735,7 @@ The parent who is taking care of the child may decide alone if:
 <sup>4</sup> The parents give the child his or her first name.
 
 [^301-1]: Amended by No I 1 of the FA of 25 June 1976, in force since 1 Jan. 1978 ([AS 1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237); [BBl 1974 II 1](https://fedlex.data.admin.ch/eli/fga/1974/2_1_1_1)).
-[^301-2]: Amended by No I 1 of the FA of 25 June 1976, in force since 1 Jan. 1978 ([AS 1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237); [BBl 1974 II 1](https://fedlex.data.admin.ch/eli/fga/1974/2_1_1_1)).
-[^301-3]: Inserted by No I of the FA of 21 June 2013 (Parental Responsibility), in force since 1 July 2014 ([AS 2014 357](https://fedlex.data.admin.ch/eli/oc/2014/53); [BBl 2011 9077](https://fedlex.data.admin.ch/eli/fga/2011/1580)).
+[^301-2]: Inserted by No I of the FA of 21 June 2013 (Parental Responsibility), in force since 1 July 2014 ([AS 2014 357](https://fedlex.data.admin.ch/eli/oc/2014/53); [BBl 2011 9077](https://fedlex.data.admin.ch/eli/fga/2011/1580)).
 
 ### II. Deciding on the place of residence
 
@@ -4765,13 +4770,17 @@ If parents exercise joint parental responsibility and if one parent wishes to ch
 
 [^302-1]
 
-<sup>1</sup> The parents must raise the child according to their circumstances and encourage and safeguard the child's physical, mental and moral development.
+<sup>1</sup> The parents must raise the child according to their circumstances and encourage and safeguard the child’s physical, mental and moral development. In particular, they must raise the child without the use of violence, namely without corporal punishment or other forms of degrading treatment.[^302-2]
 
 <sup>2</sup> The parents must arrange for the child, especially if he or she has physical or learning disabilities, to receive an appropriate general and vocational education that corresponds as closely as possible to the child’s abilities and inclinations.
 
 <sup>3</sup> To that end, the parents must co-operate as appropriate with school authorities and, where required, with public and charitable youth support agencies.
 
+<sup>4</sup> The cantons shall ensure that, in the event of difficulties in raising a child, the parents and the child may seek assistance from counselling agencies, whether jointly or individually.[^302-3]
+
 [^302-1]: Amended by No I 1 of the FA of 25 June 1976, in force since 1 Jan. 1978 ([AS 1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237); [BBl 1974 II 1](https://fedlex.data.admin.ch/eli/fga/1974/2_1_1_1)).
+[^302-2]: Second sentence inserted by No I of the FA of 26 Sept. 2025 (Non-Violent Upbringing), in force since 1 July 2026 ([AS 2026 94](https://fedlex.data.admin.ch/eli/oc/2026/94); [BBl 2024 2516](https://fedlex.data.admin.ch/eli/fga/2024/2516)).
+[^302-3]: Inserted by No I of the FA of 26 Sept. 2025 (Non-Violent Upbringing), in force since 1 July 2026 ([AS 2026 94](https://fedlex.data.admin.ch/eli/oc/2026/94); [BBl 2024 2516](https://fedlex.data.admin.ch/eli/fga/2024/2516)).
 
 ### IV. Religious upbringing
 
@@ -12087,9 +12096,15 @@ Transfer among persons who are absent is completed on delivery of the object to 
 
 <sup>1</sup> A possessor has the right to use force in self-defence against any unlawful interference.
 
-<sup>2</sup> If he or she has been dispossessed of an object by force or by clandestine means, he or she has the right to recover it immediately by expelling the trespasser from the property or, in the case of a chattel, by taking it from a person caught in the act and pursued immediately.
+<sup>2</sup> If he or she has been dispossessed of immovable property by force or by clandestine means, he or she has the right to recover it by expelling the trespasser from the property within a reasonable time after becoming aware of the dispossession.[^926-1]
 
-<sup>3</sup> In doing so, he or she must abstain from all force not justified by the circumstances.
+<sup>3</sup> If he or she is dispossessed of a chattel by force or by clandestine means, he or she has the right to recover it immediately by taking it from a person caught in the act and pursued immediately.[^926-2]
+
+<sup>4</sup> The relevant authorities shall provide him or her with assistance appropriate to the circumstances in good time. He or she may resort to self-help only if official assistance is not available in good time, and must abstain from any force not justified by the circumstances.[^926-3]
+
+[^926-1]: Amended by No I of the FA of 20 June 2025 (Protection of Possession in the Event of Unlawful Interference with Immovable Property), in force since 1 July 2026 ([AS 2026 16](https://fedlex.data.admin.ch/eli/oc/2026/16); [BBl 2024 116](https://fedlex.data.admin.ch/eli/fga/2024/116)).
+[^926-2]: Amended by No I of the FA of 20 June 2025 (Protection of Possession in the Event of Unlawful Interference with Immovable Property), in force since 1 July 2026 ([AS 2026 16](https://fedlex.data.admin.ch/eli/oc/2026/16); [BBl 2024 116](https://fedlex.data.admin.ch/eli/fga/2024/116)).
+[^926-3]: Inserted by No I of the FA of 20 June 2025 (Protection of Possession in the Event of Unlawful Interference with Immovable Property), in force since 1 July 2026 ([AS 2026 16](https://fedlex.data.admin.ch/eli/oc/2026/16); [BBl 2024 116](https://fedlex.data.admin.ch/eli/fga/2024/116)).
 
 ### 2. Action for restitution
 
@@ -13732,7 +13747,7 @@ For liens existing when this Code comes into force, the termination of the secur
 
 ### 8. ...
 
-#### Art. 31and 32
+#### Art. 31 and 32
 
 [^u1-3132-1]
 

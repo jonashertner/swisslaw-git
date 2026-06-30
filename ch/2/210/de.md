@@ -4,18 +4,18 @@ title: Schweizerisches Zivilgesetzbuch vom 10. Dezember 1907
 short: ZGB
 eli: "https://fedlex.data.admin.ch/eli/cc/24/233_245_233"
 language: de
-version: 2026-01-01
+version: 2026-07-01
 adopted: 1907-12-10
 in_force: 1912-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/24/233_245_233/20260101/de/xml/fedlex-data-admin-ch-eli-cc-24-233_245_233-20260101-de-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/24/233_245_233/20260101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/24/233_245_233/20260701/de/xml/fedlex-data-admin-ch-eli-cc-24-233_245_233-20260701-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/24/233_245_233/20260701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Schweizerisches Zivilgesetzbuch
 
-vom 10. Dezember 1907 (Stand am 1. Januar 2026)
+vom 10. Dezember 1907 (Stand am 1. Juli 2026)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -4766,13 +4766,17 @@ Der Elternteil, der das Kind betreut, kann allein entscheiden, wenn:
 
 [^302-1]
 
-<sup>1</sup> Die Eltern haben das Kind ihren Verhältnissen entsprechend zu erziehen und seine körperliche, geistige und sittliche Entfaltung zu fördern und zu schützen.
+<sup>1</sup> Die Eltern haben das Kind ihren Verhältnissen entsprechend zu erziehen und seine körperliche, geistige und sittliche Entfaltung zu fördern und zu schützen. Insbesondere haben sie das Kind ohne Anwendung von Gewalt zu erziehen, namentlich ohne körperliche Bestrafungen und andere Formen erniedrigender Behandlung.[^302-2]
 
 <sup>2</sup> Sie haben dem Kind, insbesondere auch dem körperlich oder geistig gebrechlichen, eine angemessene, seinen Fähigkeiten und Neigungen soweit möglich entsprechende allgemeine und berufliche Ausbildung zu verschaffen.
 
 <sup>3</sup> Zu diesem Zweck sollen sie in geeigneter Weise mit der Schule und, wo es die Umstände erfordern, mit der öffentlichen und gemeinnützigen Jugendhilfe zusammenarbeiten.
 
+<sup>4</sup> Die Kantone sorgen dafür, dass sich die Eltern und das Kind bei Schwierigkeiten in der Erziehung gemeinsam oder einzeln an Beratungsstellen wenden können. [^302-3]
+
 [^302-1]: Fassung gemäss Ziff. I 1 des BG vom 25. Juni 1976, in Kraft seit 1. Jan. 1978 ([AS 1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237); [BBl 1974 II 1](https://fedlex.data.admin.ch/eli/fga/1974/2_1_1_1)).
+[^302-2]: Zweiter Satz eingefügt durch Ziff. I des BG vom 26. Sept. 2025 (Gewaltfreie Erziehung), in Kraft seit 1. Juli 2026 ([AS 2026 94](https://fedlex.data.admin.ch/eli/oc/2026/94); [BBl 2024 2516](https://fedlex.data.admin.ch/eli/fga/2024/2516)).
+[^302-3]: Eingefügt durch Ziff. I des BG vom 26. Sept. 2025 (Gewaltfreie Erziehung), in Kraft seit 1. Juli 2026 ([AS 2026 94](https://fedlex.data.admin.ch/eli/oc/2026/94); [BBl 2024 2516](https://fedlex.data.admin.ch/eli/fga/2024/2516)).
 
 ### IV. Religiöse Erziehung
 
@@ -12087,9 +12091,15 @@ Geschieht die Übergabe unter Abwesenden, so ist sie mit der Übergabe der Sache
 
 <sup>1</sup> Jeder Besitzer darf sich verbotener Eigenmacht mit Gewalt erwehren.
 
-<sup>2</sup> Er darf sich, wenn ihm die Sache durch Gewalt oder heimlich entzogen wird, sofort des Grundstückes durch Vertreibung des Täters wieder bemächtigen und die bewegliche Sache dem auf frischer Tat betroffenen und unmittelbar verfolgten Täter wieder abnehmen.
+<sup>2</sup> Wird ihm ein Grundstück durch Gewalt oder heimlich entzogen, so darf er sich seiner innert angemessener Frist nach Kenntnisnahme davon durch Vertreibung des Täters wieder bemächtigen.[^926-1]
 
-<sup>3</sup> Er hat sich dabei jeder nach den Umständen nicht gerechtfertigten Gewalt zu enthalten.
+<sup>3</sup> Wird ihm eine bewegliche Sache durch Gewalt oder heimlich entzogen, so darf er sie dem auf frischer Tat ertappten und unmittelbar verfolgten Täter wieder abnehmen.[^926-2]
+
+<sup>4</sup> Die zuständigen Behörden gewähren ihm rechtzeitig die nach den Umständen erforderliche Hilfe. Er darf Selbsthilfe nur anwenden, sofern amtliche Hilfe nicht rechtzeitig verfügbar ist, und hat sich jeder nach den Umständen nicht gerechtfertigten Gewalt zu enthalten.[^926-3]
+
+[^926-1]: Fassung gemäss Ziff. I des BG vom 20. Juni 2025 (Besitzesschutz bei verbotener Eigenmacht an Grundstücken), in Kraft seit 1. Juli 2026 ([AS 2026 16](https://fedlex.data.admin.ch/eli/oc/2026/16); [BBl 2024 116](https://fedlex.data.admin.ch/eli/fga/2024/116)).
+[^926-2]: Fassung gemäss Ziff. I des BG vom 20. Juni 2025 (Besitzesschutz bei verbotener Eigenmacht an Grundstücken), in Kraft seit 1. Juli 2026 ([AS 2026 16](https://fedlex.data.admin.ch/eli/oc/2026/16); [BBl 2024 116](https://fedlex.data.admin.ch/eli/fga/2024/116)).
+[^926-3]: Eingefügt durch Ziff. I des BG vom 20. Juni 2025 (Besitzesschutz bei verbotener Eigenmacht an Grundstücken), in Kraft seit 1. Juli 2026 ([AS 2026 16](https://fedlex.data.admin.ch/eli/oc/2026/16); [BBl 2024 116](https://fedlex.data.admin.ch/eli/fga/2024/116)).
 
 ### 2. Klage aus Besitzesentziehung
 

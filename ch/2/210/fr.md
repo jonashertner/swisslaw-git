@@ -4,18 +4,18 @@ title: Code civil suisse du 10 décembre 1907
 short: CC
 eli: "https://fedlex.data.admin.ch/eli/cc/24/233_245_233"
 language: fr
-version: 2026-01-01
+version: 2026-07-01
 adopted: 1907-12-10
 in_force: 1912-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/24/233_245_233/20260101/fr/xml/fedlex-data-admin-ch-eli-cc-24-233_245_233-20260101-fr-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/24/233_245_233/20260101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/24/233_245_233/20260701/fr/xml/fedlex-data-admin-ch-eli-cc-24-233_245_233-20260701-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/24/233_245_233/20260701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Code civil suisse
 
-du 10 décembre 1907 (État le 1<sup>er</sup> janvier 2026)
+du 10 décembre 1907 (État le 1<sup>er</sup> juillet 2026)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -4728,13 +4728,17 @@ Un parent exerçant conjointement l’autorité parentale ne peut modifier le li
 
 [^302-1]
 
-<sup>1</sup> Les père et mère sont tenus d’élever l’enfant selon leurs facultés et leurs moyens et ils ont le devoir de favoriser et de protéger son développement corporel, intellectuel et moral.
+<sup>1</sup> Les parents sont tenus d’élever l’enfant selon leurs facultés et leurs moyens et ont le devoir de favoriser et de protéger son développement corporel, intellectuel et moral. En particulier, ils sont tenus de l’élever sans recourir à la violence, notamment sans châtiments corporels ni autres traitements dégradants.[^302-2]
 
 <sup>2</sup> Ils doivent donner à l’enfant, en particulier à celui qui est atteint de déficiences physiques ou mentales, une formation générale et professionnelle appropriée, correspondant autant que possible à ses goûts et à ses aptitudes.
 
 <sup>3</sup> À cet effet, ils doivent collaborer de façon appropriée avec l’école et, lorsque les circonstances l’exigent, avec les institutions publiques et d’utilité publique de protection de la jeunesse.
 
+<sup>4</sup> Les cantons veillent à ce que les parents et l’enfant puissent s’adresser, ensemble ou séparément, à des offices de consultation en cas de difficultés dans l’éducation.[^302-3]
+
 [^302-1]: Nouvelle teneur selon le ch. I 1 de la LF du 25 juin 1976, en vigueur depuis le 1<sup>er</sup> janv. 1978 ([RO 1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237); [FF 1974 II 1](https://fedlex.data.admin.ch/eli/fga/1974/2_1_1_1)).
+[^302-2]: Nouvelle teneur selon le ch. I de la LF du 26 sept. 2025 (Éducation sans violence), en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2026 94](https://fedlex.data.admin.ch/eli/oc/2026/94); [FF 2024 2516](https://fedlex.data.admin.ch/eli/fga/2024/2516)).
+[^302-3]: Introduit par le ch. I de la LF du 26 sept. 2025 (Éducation sans violence), en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2026 94](https://fedlex.data.admin.ch/eli/oc/2026/94); [FF 2024 2516](https://fedlex.data.admin.ch/eli/fga/2024/2516)).
 
 ### IV. Éducation religieuse
 
@@ -12051,9 +12055,15 @@ La tradition est parfaite entre absents par la remise de la chose à l’acquér
 
 <sup>1</sup> Le possesseur a le droit de repousser par la force tout acte d’usurpation ou de trouble.
 
-<sup>2</sup> Il peut, lorsque la chose lui a été enlevée par violence ou clandestinement, la reprendre aussitôt, en expulsant l’usurpateur s’il s’agit d’un immeuble et, s’il s’agit d’une chose mobilière, en l’arrachant au spoliateur surpris en flagrant délit ou arrêté dans sa fuite.
+<sup>2</sup> Lorsqu’un immeuble lui a été enlevé par violence ou clandestinement, il peut le reprendre dans un délai raisonnable après en avoir eu connaissance, en expulsant l’usurpateur.[^926-1]
 
-<sup>3</sup> Il doit s’abstenir de toutes voies de fait non justifiées par les circonstances.
+<sup>3</sup> Lorsqu’une chose mobilière lui a été enlevée par violence ou clandestinement, il peut la reprendre en l’arrachant au spoliateur surpris en flagrant délit ou arrêté dans sa fuite.[^926-2]
+
+<sup>4</sup> Les autorités compétentes lui assurent en temps utile l’aide requise par les circonstances. Le possesseur ne peut recourir à la force que si l’intervention de l’autorité ne pouvait être obtenue en temps utile et il doit s’abstenir de toutes voies de fait non justifiées par les circonstances.[^926-3]
+
+[^926-1]: Nouvelle teneur selon le ch. I de la LF du 20 juin 2025 (Protection contre les atteintes à la possession d’un immeuble), en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2026 16](https://fedlex.data.admin.ch/eli/oc/2026/16); [FF 2024 116](https://fedlex.data.admin.ch/eli/fga/2024/116)).
+[^926-2]: Nouvelle teneur selon le ch. I de la LF du 20 juin 2025 (Protection contre les atteintes à la possession d’un immeuble), en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2026 16](https://fedlex.data.admin.ch/eli/oc/2026/16); [FF 2024 116](https://fedlex.data.admin.ch/eli/fga/2024/116)).
+[^926-3]: Introduit par le ch. I de la LF du 20 juin 2025 (Protection contre les atteintes à la possession d’un immeuble), en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2026 16](https://fedlex.data.admin.ch/eli/oc/2026/16); [FF 2024 116](https://fedlex.data.admin.ch/eli/fga/2024/116)).
 
 ### 2. Réintégrande
 

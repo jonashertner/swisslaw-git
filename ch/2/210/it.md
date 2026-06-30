@@ -4,18 +4,18 @@ title: Codice civile svizzero del 10 dicembre 1907
 short: CC
 eli: "https://fedlex.data.admin.ch/eli/cc/24/233_245_233"
 language: it
-version: 2026-01-01
+version: 2026-07-01
 adopted: 1907-12-10
 in_force: 1912-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/24/233_245_233/20260101/it/xml/fedlex-data-admin-ch-eli-cc-24-233_245_233-20260101-it-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/24/233_245_233/20260101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/24/233_245_233/20260701/it/xml/fedlex-data-admin-ch-eli-cc-24-233_245_233-20260701-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/24/233_245_233/20260701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Codice civile svizzero
 
-del 10 dicembre 1907 (Stato 1° gennaio 2026)
+del 10 dicembre 1907 (Stato 1° luglio 2026)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -4727,13 +4727,17 @@ Se i genitori esercitano l’autorità parentale congiuntamente, un genitore pu�
 
 [^302-1]
 
-<sup>1</sup> I genitori devono educare il figlio secondo la loro condizione, promuovendone e proteggendone lo sviluppo fisico, intellettuale e morale.
+<sup>1</sup> I genitori devono educare il figlio secondo la loro condizione, promuovendone e proteggendone lo sviluppo fisico, intellettuale e morale. In particolare, devono educarlo senza ricorrere alla violenza, segnatamente senza punizioni corporali né altri trattamenti degradanti.[^302-2]
 
 <sup>2</sup> Essi devono procurare al figlio, particolarmente se infermo di corpo o di mente, un’appropriata istruzione generale e professionale, conforme quanto possibile alle sue attitudini e inclinazioni.
 
 <sup>3</sup> A tal fine, essi devono cooperare appropriatamente con la scuola e, ove le circostanze lo richiedano, con le istituzioni pubbliche e d’utilità pubblica per l’aiuto alla gioventù.
 
+<sup>4</sup> I Cantoni provvedono affinché, in caso di difficoltà educative, i genitori e il figlio possano rivolgersi, insieme o separatamente, a consultori.[^302-3]
+
 [^302-1]: Nuovo testo giusta la cifra I n. 1 della LF del 25 giu. 1976, in vigore dal 1° gen. 1978 ([RU 1977 237](https://fedlex.data.admin.ch/eli/oc/1977/237_237_237); [FF 1974 II 1](https://fedlex.data.admin.ch/eli/fga/1974/2_1_1_1)).
+[^302-2]: Per. introdotto dalla cifra I della LF del 26 set. 2026 (Educazione non violenta), in vigore dal 1° lug. 2026 ([RU 2026 94](https://fedlex.data.admin.ch/eli/oc/2026/94); [FF 2024 2516](https://fedlex.data.admin.ch/eli/fga/2024/2516)).
+[^302-3]: Introdotto dalla cifra I della LF del 26 set. 2026 (Educazione non violenta), in vigore dal 1° lug. 2026 ([RU 2026 94](https://fedlex.data.admin.ch/eli/oc/2026/94); [FF 2024 2516](https://fedlex.data.admin.ch/eli/fga/2024/2516)).
 
 ### IV. Educazione religiosa
 
@@ -11398,7 +11402,7 @@ L’iscrizione dell’ipoteca del venditore, dei coeredi o dei membri di un’in
 <sup>6</sup> Se è accertato con sentenza che il fondo appartiene al patrimonio amministrativo, l’iscrizione provvisoria dell’ipoteca è cancellata. Questa è sostituita dalla fideiussione legale, purché siano adempiute le condizioni di cui al capoverso 4. Il termine è considerato osservato con l’iscrizione provvisoria dell’ipoteca.
 
 [^839-1]: Nuovo testo giusta la cifra I n. 1 della LF dell’11 dic. 2009 (Cartella ipotecaria registrale e diritti reali), in vigore dal 1° gen. 2012 ([RU 2011 4637](https://fedlex.data.admin.ch/eli/oc/2011/666); [FF 2007 4845](https://fedlex.data.admin.ch/eli/fga/2007/756)).
-[^839-2]: Nuovo testo giusta la cifra II della LF del 20 dic. 2024 (Difetti di costruzione), in vigore dal 1° gen. 2026 (RU **20****25** 270; FF **20****22** 2743).
+[^839-2]: Nuovo testo giusta la cifra II della LF del 20 dic. 2024 (Difetti di costruzione), in vigore dal 1° gen. 2026 ([RU 2025 270](https://fedlex.data.admin.ch/eli/oc/2025/270); [FF 2022 2743](https://fedlex.data.admin.ch/eli/fga/2022/2743)).
 
 ### b. Grado
 
@@ -12051,9 +12055,15 @@ Se la consegna ha luogo fra assenti, essa è compiuta con la consegna della cosa
 
 <sup>1</sup> Ogni possessore ha il diritto di difendersi con la forza contro l’altrui illecita violenza.
 
-<sup>2</sup> Se la cosa gli è tolta violentemente o clandestinamente egli può riprenderne immediatamente il possesso espellendone l’usurpatore se si tratta di un immobile o, se si tratta di una cosa mobile, togliendola all’usurpatore colto sul fatto od immediatamente inseguito.
+<sup>2</sup> Se un fondo gli è tolto violentemente o clandestinamente, egli può riprenderne il possesso espellendone l’usurpatore entro un congruo termine dal momento in cui ne è venuto a conoscenza.[^926-1]
 
-<sup>3</sup> Egli deve astenersi da ogni via di fatto non giustificata dalle circostanze.
+<sup>3</sup> Se una cosa mobile gli è tolta violentemente o clandestinamente, egli può toglierla all’usurpatore colto sul fatto e immediatamente inseguito.[^926-2]
+
+<sup>4</sup> Le autorità competenti gli garantiscono tempestivamente l’intervento richiesto dalle circostanze. Può farsi ragione da sé soltanto se l’intervento delle autorità non può essere ottenuto tempestivamente e deve astenersi da ogni via di fatto non giustificata dalle circostanze.[^926-3]
+
+[^926-1]: Nuovo testo giusta la cifra I della LF del 20 giu. 2025 (Protezione del possesso di fondi contro l’altrui illecita violenza), in vigore dal 1° lug. 2026 ([RU 2026 16](https://fedlex.data.admin.ch/eli/oc/2026/16); [FF 2024 116](https://fedlex.data.admin.ch/eli/fga/2024/116)).
+[^926-2]: Nuovo testo giusta la cifra I della LF del 20 giu. 2025 (Protezione del possesso di fondi contro l’altrui illecita violenza), in vigore dal 1° lug. 2026 ([RU 2026 16](https://fedlex.data.admin.ch/eli/oc/2026/16); [FF 2024 116](https://fedlex.data.admin.ch/eli/fga/2024/116)).
+[^926-3]: Introdotto dalla cifra I della LF del 20 giu. 2025 (Protezione del possesso di fondi contro l’altrui illecita violenza), in vigore dal 1° lug. 2026 ([RU 2026 16](https://fedlex.data.admin.ch/eli/oc/2026/16); [FF 2024 116](https://fedlex.data.admin.ch/eli/fga/2024/116)).
 
 ### 2. Azione di reintegra
 
