@@ -4,13 +4,12 @@ number: "425.130"
 title: "Ordinaziun davart la scola media commerziala *"
 short: OSMC
 language: rm
-version: 2023-08-01
-corrected: 2023-07-04
-version_adopted: 2023-07-04
+version: 2026-07-01
+version_adopted: 2026-06-23
 adopted: 2011-11-08
 in_force: 2011-08-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/425.130"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3326/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3896/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3326/pdf_file"
 
 (OSMC)
 
-dals 08-11-2011 (versiun dals 01-08-2023)
+dals 08-11-2011 (versiun dals 01-07-2026)
 
 sa basond sin l'art. 45 al. 1 da la constituziun chantunala[^ingress-1] e sin l'art. 19 da la lescha davart las scolas medias en il chantun Grischun[^ingress-2],
 
@@ -62,10 +61,12 @@ relaschada da la regenza ils 8 da november 2011
 
 <sup>1</sup> Ils roms da promoziun èn:
 
-- 1\. ils roms dal sectur da basa: emprima lingua naziunala (Deutsch, rumantsch / Deutsch, italiano); segunda lingua naziunala (tedesco, franzos, talian); terza lingua (englais); matematica;
+- 1\. ils roms dal sectur da basa: emprima lingua naziunala (Deutsch, rumantsch / Deutsch, italiano); segunda lingua naziunala (tedesco, franzos, talian); englais; matematica;
 - 2\. ils roms dal sectur central: finanzas e contabilitad; economia e dretg;
 - 3\. ils roms dal sectur cumplementar: istorgia e politica; tecnica ed ambient;
-- 4\. ils roms d'instrucziun supplementars d'enconuschientschas da la professiun, che cumpiglian ils dus roms pratica professiunala (champs da cumpetenza d'agir B fin D) e mund da lavur digital (champ da cumpetenza d'agir E), sco er sport.
+- 4\. ils roms d'instrucziun supplementars d'enconuschientschas da la professiun, che cumpiglian ils dus roms pratica professiunala (champs da cumpetenza d'agir B fin D) e cumpetenzas digitalas (champ da cumpetenza d'agir E), sco er sport.
+
+<sup>2</sup> Las notas cuntanschidas en ils roms da promoziun vegnan resguardadas en quels semesters che tals vegnan instruids.
 
 #### Art. 5
 
@@ -82,9 +83,11 @@ relaschada da la regenza ils 8 da november 2011
   - b) la differenza da las notas da promoziun insuffizientas tar la nota 4 na surpassa tut en tut betg la valur da 2,0; e
   - c) betg dapli che trais notas da promoziun èn sut 4,0.
 
-<sup>2</sup> Tgi che n'ademplescha betg questas premissas, vegn promovì provisoricamain. Suenter ina promoziun provisorica ston las cundiziuns da promoziun vegnir ademplidas en il proxim attestat. Uschiglio ston vegnir repetids ils ultims dus semesters.
+<sup>2</sup> Tgi che n'ademplescha betg questas premissas, vegn promovì ina giada provisoricamain. Tgi che n'ademplescha – suenter ina promoziun provisorica fin al cumenzament dals examens finals da la maturitad professiunala – in'ulteriura giada betg las cundiziuns da promoziun, sto repeter ils ultims dus semesters; tgi che n'ademplescha ina terza giada betg las cundiziuns da promoziun, vegn exclus da la scola media commerziala.
 
-<sup>3</sup> Fin a la terminaziun da la scolaziun èsi pussaivel da repeter maximalmain ina giada in onn d'instrucziun.
+<sup>3</sup> …
+
+<sup>4</sup> L'ultim semester avant ils examens finals da la maturitad professiunala na datti nagina decisiun da promoziun.
 
 ## 3. Examen da maturitad professiunala
 
@@ -94,29 +97,35 @@ relaschada da la regenza ils 8 da november 2011
 
 <sup>1</sup> Ils examens finals da la maturitad professiunala en scrit ed a bucca han lieu avant las vacanzas da stad a la fin dal 3. onn da scolaziun. L'examen final a scrit en il rom matematica vegn absolvì in onn avant.
 
-<sup>2</sup> Il termin dals examens finals da la maturitad professiunala fixescha l'Uffizi per la furmaziun media-superiura, quai resguardond las prescripziuns da la Confederaziun.
+<sup>2</sup> Il termin dals examens finals a bucca da la maturitad professiunala fixescha l'Uffizi da scolas medias e furmaziun terziara, quai resguardond las prescripziuns da la Confederaziun.
 
 #### Art. 7
 
 **Admissiun**
 
-<sup>1</sup> Sch'i n'è betg avant maun ina permissiun excepziunala da l'Uffizi per la furmaziun media-superiura che concerna la frequentaziun da la scola, pretenda l'admissiun la frequentaziun d'ina scola media commerziala en il chantun Grischun durant almain ils 2 ultims onns avant la terminaziun da la part scolastica da la furmaziun ed almain ina promoziun provisorica en l'ultim semester avant ils examens finals da la maturitad professiunala.
+<sup>1</sup> Sch'i n'è betg avant maun ina permissiun excepziunala da l'Uffizi da scolas medias e furmaziun terziara che concerna la frequentaziun da la scola, dovri per l'admissiun la frequentaziun d'ina scola media commerziala en il chantun Grischun durant almain ils 2 ultims onns avant la terminaziun da la part scolastica da la furmaziun ed almain ina promoziun provisorica il penultim semester avant ils examens finals da la maturitad professiunala.
+
+<sup>2</sup> Tgi che na dumogna betg l'examen da maturitad professiunala, dastga repeter ina giada l'examen da maturitad professiunala, independentamain dal fatg, sche l'instrucziun da preparaziun vegn frequentada danovamain.
 
 #### Art. 8
 
 **Integraziun da las scolas autas spezialisadas**
 
-<sup>1</sup> Las scolas autas spezialisadas ston sa participar adequatamain a la realisaziun dals examens finals da la maturitad professiunala.
+<sup>1</sup> Las scolas autas spezialisadas ston vegnir integradas adequatamain en la preparaziun e realisaziun dals examens finals da la maturitad professiunala.
 
 #### Art. 9
 
 **Roms d'examen**
 
-<sup>1</sup> Examinadas en scrit vegnan l'emprima lingua naziunala, la segunda lingua naziunala, la terza lingua (englais), matematica, finanzas e contabilitad sco er economia e dretg. La durada dals examens sa drizza tenor las disposiziuns dal dretg federal.
+<sup>1</sup> Examinads en scrit vegnan l'emprima lingua naziunala, la segunda lingua naziunala, englais, matematica, finanzas e contabilitad sco er economia e dretg. La durada dals examens sa drizza tenor las disposiziuns dal dretg federal.
 
-<sup>2</sup> Ils examens a bucca duran 15 minutas. Examinadas vegnan l'emprima lingua naziunala, la segunda lingua naziunala sco er la terza lingua (englais).
+<sup>2</sup> Examinads a bucca vegnan l'emprima lingua naziunala, la segunda lingua naziunala sco er englais. Ils examens a bucca duran 15 minutas.
 
 <sup>3</sup> …
+
+<sup>4</sup> La preparaziun e validaziun dals examens finals en scrit, ch'èn unifitgads per mintga direcziun, sco er la determinaziun dals meds auxiliars admess sa drizzan tenor las disposiziuns da l'Ordinaziun chantunala davart la maturitad professiunala[^9-1].
+
+[^9-1]: DG [430.400](https://www.gr-lex.gr.ch/data/430.400/rm)
 
 #### Art. 10
 
@@ -127,17 +136,19 @@ relaschada da la regenza ils 8 da november 2011
 - 1\. …
 - 2\. …
 
-<sup>1<sup>bis</sup></sup> La direcziun da la scola relascha in reglament davart il lavurar en moda interdisciplinara. Quel cuntegna ils concepts per realisar ils moduls davart il lavurar en moda interdisciplinara en tut ils roms sco er davart la lavur da project interdisciplinara che vegn terminada cun ina preschentaziun durant il praticum da manaschi lung dad 1 onn.
+<sup>1<sup>bis</sup></sup> La direcziun da la scola relascha in reglament davart il lavurar en moda interdisciplinara, che cuntegna las disposiziuns per lavurs interdisciplinaras en ils roms da tut ils secturs d'instrucziun e per la lavur da project interdisciplinara. En spezial regla quest reglament la durada da preschentaziuns a bucca, inclusiv discussiuns fundadas, sco er la valitaziun.
 
-<sup>2</sup> Diploms da linguas estras ch'èn renconuschids da l'uffizi federal cumpetent pon esser ina part da la nota da la maturitad professiunala en ils roms correspundents. La direcziun da scola relascha in reglament respectiv.
+<sup>2</sup> Diploms da linguas estras pon esser in element da la nota da la maturitad professiunala en ils roms correspundents tenor las disposiziuns da l'Ordinaziun chantunala davart la maturitad professiunala[^10-1]. La direcziun da la scola regla ils detagls.
 
-<sup>3</sup> La nota totala da la maturitad professiunala è la media da tut las notas che quintan, arrundada sin ina cifra suenter il comma.
+<sup>3</sup> …
+
+[^10-1]: DG [430.400](https://www.gr-lex.gr.ch/data/430.400/rm)
 
 #### Art. 11
 
 **Certificat da notas provisoric**
 
-<sup>1</sup> Il certificat da notas provisoric vegn emess tras la scola media commerziala immediatamain suenter avair absolvì ils examens finals da la maturitad professiunala e cuntegna las notas da la maturitad professiunala, danor la nota definitiva per la lavur interdisciplinara. Ils diploms da linguas estras acquistads vegnan menziunads.
+<sup>1</sup> Il certificat da notas provisoric vegn emess tras la scola media commerziala immediatamain suenter avair absolvì ils examens finals da la maturitad professiunala e cuntegna las notas da la maturitad professiunala. Ils diploms da linguas estras acquistads vegnan menziunads.
 
 ## 4. Furmaziun pratica professiunala e procedura da qualificaziun
 
@@ -145,11 +156,11 @@ relaschada da la regenza ils 8 da november 2011
 
 **Praticum lung**
 
-<sup>1</sup> L'Uffizi per la furmaziun media-superiura relascha – suenter avair consultà las organisaziuns cumpetentas dal mund da lavur, l'Uffizi per la furmaziun professiunala sco er las direcziuns da scola – directivas concernent la concepziun dal praticum da manaschi lung dad 1 onn.
+<sup>1</sup> L'Uffizi da scolas medias e furmaziun terziara relascha – suenter avair consultà las organisaziuns cumpetentas dal mund da lavur, l'Uffizi per la furmaziun professiunala sco er las direcziuns da scola – directivas concernent la concepziun dal praticum da manaschi lung dad 1 onn.
 
 <sup>2</sup> Las emprendistas ed ils emprendists tschertgan sezs lur plazza da praticum. La scola sustegna las emprendistas ed ils emprendists a tschertgar ina plazza da praticum.
 
-<sup>3</sup> Durant il praticum lung vegnan las emprendistas ed ils emprendists accumpagnads d'ina persuna d'instrucziun da la scola, ch'è er responsabla per valitar la preschentaziun da la lavur da project interdisciplinara durant il praticum lung.
+<sup>3</sup> Durant il praticum lung vegnan las emprendistas ed ils emprendists accumpagnads d'ina persuna d'instrucziun da la scola.
 
 <sup>4</sup> Durant il praticum lung vegnan las emprendistas ed ils emprendists preparads da la scola per il sectur da qualificaziun enconuschientschas da la professiun e savida generala da la procedura da qualificaziun.
 
@@ -190,7 +201,7 @@ relaschada da la regenza ils 8 da november 2011
 
 <sup>1</sup> Directamain suenter la terminaziun dals examens finals da la maturitad professiunala sa raduna la cumissiun scolastica d'examen tenor l'artitgel 30 alinea 1 da l'Ordinaziun davart il gimnasi[^15a-1] sin invitaziun da la direcziun dals examens da la scola media commerziala. Ella validescha las notas dals examens finals sco er las notas da la maturitad professiunala.
 
-<sup>1<sup>bis</sup></sup> Cura che la nota per la lavur da project interdisciplinara è avant maun, constatescha la direcziun dals examens da la scola media commerziala, sche las premissas per reussir l'examen da la maturitad professiunala èn ademplidas e communitgescha quai en scrit a las scolaras pertutgadas ed als scolars pertutgads.
+<sup>1<sup>bis</sup></sup> La direcziun dals examens da la scola media commerziala constatescha, sche las premissas per reussir l'examen da la maturitad professiunala èn ademplidas e communitgescha quai en scrit a las scolaras pertutgadas ed als scolars pertutgads.
 
 <sup>2</sup> Suenter la terminaziun da la procedura da qualificaziun per l'attestat federal da qualificaziun eruescha la direcziun dals examens ils resultats da l'examen per las proceduras da qualificaziun e constatescha, sche la procedura da qualificaziun vala sco reussida u sco betg reussida.
 
@@ -205,6 +216,8 @@ relaschada da la regenza ils 8 da november 2011
 <sup>1</sup> Per repeter ils examens valan las disposiziuns dal dretg federal.
 
 <sup>2</sup> …
+
+<sup>3</sup> Sco preparaziun per la repetiziun dals examens finals da la maturitad professiunala èsi pussaivel da repeter ina giada l'ultim onn d'instrucziun da la furmaziun scolastica en quels roms, en ils quals la nota finala era stada insuffizienta tar l'emprima emprova. Las cundiziuns da promoziun èn suspendidas durant la repetiziun da l'onn d'instrucziun.
 
 #### Art. 17
 

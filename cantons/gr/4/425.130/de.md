@@ -4,13 +4,12 @@ number: "425.130"
 title: Verordnung über die Handelsmittelschule
 short: HMSV
 language: de
-version: 2023-08-01
-corrected: 2023-07-04
-version_adopted: 2023-07-04
+version: 2026-07-01
+version_adopted: 2026-06-23
 adopted: 2011-11-08
 in_force: 2011-08-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/425.130"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/3326/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3896/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.gr-lex.gr.ch/api/de/versions/3326/pdf_file"
 
 (HMSV)
 
-Vom 08.11.2011 (Stand 01.08.2023)
+Vom 08.11.2011 (Stand 01.07.2026)
 
 Gestützt auf Art. 45 Abs. 1 der Kantonsverfassung[^ingress-1] und Art. 19 des Gesetzes über die Mittelschulen im Kanton Graubünden[^ingress-2]
 
@@ -62,10 +61,12 @@ von der Regierung erlassen am 8. November 2011
 
 <sup>1</sup> Die Promotionsfächer sind:
 
-- 1\. die Fächer des Grundlagenbereichs: erste Landessprache (Deutsch, rumantsch/Deutsch, italiano); zweite Landessprache (tedesco, Französisch, Italienisch); dritte Sprache (Englisch); Mathematik;
+- 1\. die Fächer des Grundlagenbereichs: erste Landessprache (Deutsch, rumantsch/Deutsch, italiano); zweite Landessprache (tedesco, Französisch, Italienisch); Englisch; Mathematik;
 - 2\. die Fächer des Schwerpunktbereichs: Finanz- und Rechnungswesen; Wirtschaft und Recht;
 - 3\. die Fächer des Ergänzungsbereichs: Geschichte und Politik; Technik und Umwelt;
-- 4\. die zusätzlichen Unterrichtsfächer in den Berufskenntnissen, bestehend aus den beiden Fächern Berufliche Praxis (Handlungskompetenzbereiche B bis D) und Digitale Arbeitswelt (Handlungskompetenzbereich E), sowie Sport.
+- 4\. die zusätzlichen Unterrichtsfächer in den Berufskenntnissen, bestehend aus den beiden Fächern Berufliche Praxis (Handlungskompetenzbereiche B bis D) und Digitale Kompetenzen (Handlungskompetenzbereich E), sowie Sport.
+
+<sup>2</sup> Die in den Promotionsfächern erzielten Noten werden in denjenigen Semestern berücksichtigt, in denen diese unterrichtet werden.
 
 #### Art. 5
 
@@ -82,9 +83,11 @@ von der Regierung erlassen am 8. November 2011
   - b) die Differenz der ungenügenden Promotionsnoten zur Note 4,0 gesamthaft den Wert 2,0 nicht übersteigt; und
   - c) nicht mehr als drei Promotionsnoten unter 4,0 vorliegen.
 
-<sup>2</sup> Wer diese Voraussetzungen nicht erfüllt, wird provisorisch promoviert. Nach einer provisorischen Promotion müssen im nächsten Zeugnis die Promotionsbedingungen erfüllt werden. Andernfalls müssen die letzten zwei Semester wiederholt werden.
+<sup>2</sup> Wer diese Voraussetzungen nicht erfüllt, wird einmal provisorisch promoviert. Wer nach einer provisorischen Promotion bis zum Beginn der Abschlussprüfungen der Berufsmaturität die Promotionsbedingungen ein weiteres Mal nicht erfüllt, hat die letzten beiden Semester zu wiederholen; ein drittes Nichterfüllen der Promotionsbedingungen führt zum Ausschluss aus der Handelsmittelschule.
 
-<sup>3</sup> Bis zum Abschluss der Ausbildung ist die Wiederholung eines Unterrichtsjahres höchstens einmal möglich.
+<sup>3</sup> …
+
+<sup>4</sup> Im letzten Semester vor den Abschlussprüfungen der Berufsmaturität erfolgt kein Promotionsentscheid.
 
 ## 3. Berufsmaturitätsprüfung
 
@@ -94,29 +97,35 @@ von der Regierung erlassen am 8. November 2011
 
 <sup>1</sup> Die schriftlichen und mündlichen Abschlussprüfungen der Berufsmaturität finden vor den Sommerferien am Ende des dritten Ausbildungsjahres statt. Die schriftliche Abschlussprüfung im Fach Mathematik wird ein Jahr früher absolviert.
 
-<sup>2</sup> Den Zeitpunkt der Abschlussprüfungen der Berufsmaturität bestimmt das Amt für Höhere Bildung unter Berücksichtigung der Vorgaben des Bundes.
+<sup>2</sup> Den Zeitpunkt der mündlichen Abschlussprüfungen der Berufsmaturität bestimmt das Amt für Mittelschulen und Tertiärbildung unter Berücksichtigung der Vorgaben des Bundes.
 
 #### Art. 7
 
 **Zulassung**
 
-<sup>1</sup> Sofern betreffend Schulbesuch keine Ausnahmebewilligung des Amts für Höhere Bildung vorliegt, erfordert die Zulassung den Besuch einer Handelsmittelschule im Kanton Graubünden während mindestens der letzten zwei Jahre vor dem Abschluss des schulischen Ausbildungsteils und mindestens eine provisorische Promotion im letzten Semester vor den Abschlussprüfungen der Berufsmaturität.
+<sup>1</sup> Sofern betreffend Schulbesuch keine Ausnahmebewilligung des Amts für Mittelschulen und Tertiärbildung vorliegt, erfordert die Zulassung den Besuch einer Handelsmittelschule im Kanton Graubünden während mindestens der letzten zwei Jahre vor dem Abschluss des schulischen Ausbildungsteils und mindestens eine provisorische Promotion im zweitletzten Semester vor den Abschlussprüfungen der Berufsmaturität.
+
+<sup>2</sup> Wer die Berufsmaturitätsprüfung nicht besteht, ist einmal zur Wiederholung der Berufsmaturitätsprüfung zugelassen, unabhängig davon, ob der Unterricht zur Vorbereitung erneut besucht wird.
 
 #### Art. 8
 
 **Einbezug der Fachhochschulen**
 
-<sup>1</sup> Die Fachhochschulen sind an der Durchführung der Abschlussprüfungen der Berufsmaturität angemessen zu beteiligen.
+<sup>1</sup> Die Fachhochschulen sind an der Vorbereitung und Durchführung der Abschlussprüfungen der Berufsmaturität angemessen zu beteiligen.
 
 #### Art. 9
 
 **Prüfungsfächer**
 
-<sup>1</sup> Schriftlich geprüft werden die erste Landessprache, die zweite Landessprache, die dritte Sprache (Englisch), Mathematik, Finanz- und Rechnungswesen sowie Wirtschaft und Recht. Die Prüfungsdauer richtet sich nach den bundesrechtlichen Bestimmungen.
+<sup>1</sup> Schriftlich geprüft werden die erste Landessprache, die zweite Landessprache, Englisch, Mathematik, Finanz- und Rechnungswesen sowie Wirtschaft und Recht. Die Prüfungsdauer richtet sich nach den bundesrechtlichen Bestimmungen.
 
-<sup>2</sup> Die mündlichen Prüfungen dauern 15 Minuten. Geprüft werden die erste Landessprache, die zweite Landessprache sowie die dritte Sprache (Englisch).
+<sup>2</sup> Mündlich geprüft werden die erste Landessprache, die zweite Landessprache sowie Englisch. Die mündlichen Prüfungen dauern 15 Minuten.
 
 <sup>3</sup> …
+
+<sup>4</sup> Die Vorbereitung und Validierung der für jede Ausrichtung einheitlichen schriftlichen Abschlussprüfungen sowie die Festlegung der zugelassenen Hilfsmittel richten sich nach der kantonalen Berufsmaturitätsverordnung[^9-1].
+
+[^9-1]: BR [430.400](https://www.gr-lex.gr.ch/data/430.400/de)
 
 #### Art. 10
 
@@ -127,17 +136,19 @@ von der Regierung erlassen am 8. November 2011
 - 1\. …
 - 2\. …
 
-<sup>1<sup>bis</sup></sup> Die Schulleitung erlässt ein Reglement zum interdisziplinären Arbeiten. Dieses enthält die Konzepte zur Umsetzung der Module zum interdisziplinären Arbeiten in allen Fächern sowie zur interdisziplinären Projektarbeit, welche während des einjährigen betrieblichen Langzeitpraktikums mit einer Präsentation abgeschlossen wird.
+<sup>1<sup>bis</sup></sup> Die Schulleitung erlässt ein Reglement zum interdisziplinären Arbeiten, das die Bestimmungen für das interdisziplinäre Arbeiten in den Fächern aller Unterrichtsbereiche und für die interdisziplinäre Projektarbeit enthält. Insbesondere regelt es die Dauer mündlicher Präsentationen einschliesslich vertiefender Diskussionen sowie die Bewertung.
 
-<sup>2</sup> Vom zuständigen Bundesamt anerkannte Fremdsprachendiplome können in den entsprechenden Fächern Bestandteil der Note der Berufsmaturität sein. Die Schulleitung erlässt hierzu ein Reglement.
+<sup>2</sup> Fremdsprachendiplome können in den entsprechenden Fächern gemäss den Bestimmungen der kantonalen Berufsmaturitätsverordnung[^10-1] Bestandteil der Note der Berufsmaturität sein. Die Schulleitung regelt die Einzelheiten.
 
-<sup>3</sup> Die Gesamtnote der Berufsmaturität ist das auf eine Dezimalstelle gerundete Mittel sämtlicher zählender Noten.
+<sup>3</sup> …
+
+[^10-1]: BR [430.400](https://www.gr-lex.gr.ch/data/430.400/de)
 
 #### Art. 11
 
 **Provisorischer Notenausweis**
 
-<sup>1</sup> Der provisorische Notenausweis wird durch die Handelsmittelschule unmittelbar nach dem Absolvieren der Abschlussprüfungen der Berufsmaturität ausgestellt und enthält die Noten der Berufsmaturität, ausgenommen die definitive Note für das interdisziplinäre Arbeiten. Die erworbenen Fremdsprachendiplome werden aufgeführt.
+<sup>1</sup> Der provisorische Notenausweis wird durch die Handelsmittelschule unmittelbar nach dem Absolvieren der Abschlussprüfungen der Berufsmaturität ausgestellt und enthält die Noten der Berufsmaturität. Die erworbenen Fremdsprachendiplome werden aufgeführt.
 
 ## 4. Bildung in beruflicher Praxis und Qualifikationsverfahren
 
@@ -145,11 +156,11 @@ von der Regierung erlassen am 8. November 2011
 
 **Langzeitpraktikum**
 
-<sup>1</sup> Das Amt für Höhere Bildung erlässt nach Rücksprache mit den zuständigen Organisationen der Arbeitswelt, dem Amt für Berufsbildung sowie den Schulleitungen Weisungen betreffend Ausgestaltung des einjährigen betrieblichen Langzeitpraktikums.
+<sup>1</sup> Das Amt für Mittelschulen und Tertiärbildung erlässt nach Rücksprache mit den zuständigen Organisationen der Arbeitswelt, dem Amt für Berufsbildung sowie den Schulleitungen Weisungen betreffend Ausgestaltung des einjährigen betrieblichen Langzeitpraktikums.
 
 <sup>2</sup> Die Lernenden suchen ihren Praktikumsplatz selbst. Die Schule unterstützt die Lernenden bei der Suche nach einer Praktikumsstelle.
 
-<sup>3</sup> Die Lernenden werden während des Langzeitpraktikums von einer Lehrperson der Schule betreut, welche auch für die Bewertung der Präsentation der interdisziplinären Projektarbeit während des Langzeitpraktikums zuständig ist.
+<sup>3</sup> Die Lernenden werden während des Langzeitpraktikums von einer Lehrperson der Schule betreut.
 
 <sup>4</sup> Die Lernenden werden von der Schule während des Langzeitpraktikums auf den Qualifikationsbereich Berufskenntnisse und Allgemeinbildung des Qualifikationsverfahrens vorbereitet.
 
@@ -190,7 +201,7 @@ von der Regierung erlassen am 8. November 2011
 
 <sup>1</sup> Unmittelbar nach Abschluss der Abschlussprüfungen der Berufsmaturität tritt auf Einladung der Prüfungsleitung der Handelsmittelschule die schulische Prüfungskommission gemäss Artikel 30 Absatz 1 der Verordnung über das Gymnasium[^15a-1] zusammen. Sie validiert die Noten der Abschlussprüfungen sowie die Noten der Berufsmaturität.
 
-<sup>1<sup>bis</sup></sup> Die Prüfungsleitung der Handelsmittelschule stellt nach Vorliegen der Note für die interdisziplinäre Projektarbeit fest, ob die Voraussetzungen für das Bestehen der Berufsmaturitätsprüfung erfüllt sind und teilt dies den betroffenen Schülerinnen und Schülern schriftlich mit.
+<sup>1<sup>bis</sup></sup> Die Prüfungsleitung der Handelsmittelschule stellt fest, ob die Voraussetzungen für das Bestehen der Berufsmaturitätsprüfung erfüllt sind, und teilt dies den betroffenen Schülerinnen und Schülern schriftlich mit.
 
 <sup>2</sup> Nach Abschluss des Qualifikationsverfahrens für das eidgenössische Fähigkeitszeugnis ermittelt die Prüfungsleitung für die Qualifikationsverfahren die Prüfungsergebnisse und stellt fest, ob das Qualifikationsverfahren als bestanden oder nicht bestanden gilt.
 
@@ -205,6 +216,8 @@ von der Regierung erlassen am 8. November 2011
 <sup>1</sup> Für die Wiederholung der Prüfungen gelten die bundesrechtlichen Bestimmungen.
 
 <sup>2</sup> …
+
+<sup>3</sup> Zur Vorbereitung auf die Wiederholung der Abschlussprüfungen der Berufsmaturität kann der Unterricht des letzten schulischen Ausbildungsjahres in denjenigen Fächern, in welchen beim ersten Versuch eine ungenügende Abschlussnote erreicht wurde, einmal wiederholt werden. Die Promotionsbedingungen sind während der Wiederholung des Unterrichtsjahres ausgesetzt.
 
 #### Art. 17
 
