@@ -4,11 +4,11 @@ title: Medical Devices Ordinance of 1 July 2020 (MedDO)
 short: MedDO
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/552"
 language: en
-version: 2023-11-01
+version: 2026-07-01
 adopted: 2020-07-01
 in_force: 2021-05-26
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/552/20231101/en/xml/fedlex-data-admin-ch-eli-cc-2020-552-20231101-en-xml-25.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/552/20231101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/552/20260701/en/xml/fedlex-data-admin-ch-eli-cc-2020-552-20260701-en-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/552/20260701/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (MedDO)
 
-of 1 July 2020 (Status as of 1 November 2023)
+of 1 July 2020 (Last amended on 1 July 2026)
 
 The Swiss Federal Council,
 
@@ -154,8 +154,8 @@ In this Ordinance:
 
 <sup>2</sup> The definitions set out in Article 2 numbers 3–26, 31, 37, 38, 40–44, 46, 48, 51–53, 57–69 and 71 EU-MDR, taking account of the amendments to the definitions in Article 2 numbers 18–21 EU-MDR, adopted by the European Commission by means of delegated acts[^4-4].
 
-[^4-1]: Amended by No I of the O of 29 Sept. 2023, in force since 1 Nov. 2023 ([AS 2023 576](https://fedlex.data.admin.ch/eli/oc/2023/576)).
-[^4-2]: Regulation (EU) 2017/745 of the European Parliament and of the Council of 5 April 2017 on medical devices, amending Directive 2001/83/EC, Regulation (EC) No 178/2002 and Regulation (EC) No 1223/2009 and repealing Council Directives 90/385/EEC and 93/42/EEC, OJ L117 of 5.5. 2017, p. 1; last amended by Regulation (EU) 2023/607, OJ L 80 of 20.3.2023, p. 24.
+[^4-1]: Amended by the Annex to the O of 20 Nov. 2024 (Device Registration Obligation), in force since 1 July 2026 ([AS 2024 742](https://fedlex.data.admin.ch/eli/oc/2024/742)).
+[^4-2]: Regulation (EU) 2017/745 of the European Parliament and of the Council of 5 April 2017 on medical devices, amending Directive 2001/83/EC, Regulation (EC) No 178/2002 and Regulation (EC) No 1223/2009 and repealing Council Directives 90/385/EEC and 93/42/EEC, OJ L117 of 5.5. 2017, p. 1; last amended by Regulation (EU) 2024/1860, OJ L 2024/1860 of 9.7.2024.
 [^4-3]: Inserted by Annex 5 No 1 of the O of 4 May 2022 on In Vitro Diagnostic Medical Devices, in force since 26 May 2022 ([AS 2022 291](https://fedlex.data.admin.ch/eli/oc/2022/291)).
 [^4-4]: See Annex 4.
 
@@ -378,7 +378,7 @@ The product information may be provided in fewer than the three official languag
 
 <sup>4</sup> The obligations and modalities associated with device identification and registration are governed by Articles 27 and 29 and Annex VI to EU-MDR, taking account of the amendments to this Annex adopted by the European Commission by means of delegated acts[^17-6].
 
-<sup>5</sup> ...[^17-7]
+<sup>5</sup> Information on the UDI must be registered with Swissmedic in accordance with the EU-IVDR provisions mentioned in paragraph 4.[^17-7]
 
 [^17-1]: See the footnote to Art. 4 para. 1 let. f.
 [^17-2]: Stands for «Unique Device Identification»
@@ -386,7 +386,7 @@ The product information may be provided in fewer than the three official languag
 [^17-4]: Amended by No I of the O of 19 May 2021, in force since 26 May 2021 ([AS 2021 281](https://fedlex.data.admin.ch/eli/oc/2021/281)).
 [^17-5]: Amended by No I of the O of 19 May 2021, in force since 26 May 2021 ([AS 2021 281](https://fedlex.data.admin.ch/eli/oc/2021/281)).
 [^17-6]: See Annex 4.
-[^17-7]: Enters into force at a later date (Art. 110 para. 2).
+[^17-7]: Amended by the Annex to the O of 20 Nov. 2024 (Device Registration Obligation), in force since 1 July 2026 ([AS 2024 742](https://fedlex.data.admin.ch/eli/oc/2024/742)).
 
 ### Section 3 Reporting Obligations and Information
 
@@ -989,18 +989,20 @@ The further obligations of distributors prior to and after making a device avail
 
 #### Art. 55
 
-<sup>1</sup> Manufacturers or their authorised representatives and importers must register the information required by part A Section 1 of Annex VI to EU-MDR[^55-1] with Swissmedic within three months of placing a device on the market for the first time.
+<sup>1</sup> Manufacturers or their authorised representatives and importers must register the information required by Part A, Section 1 of Annex VI to EU-IVDR[^55-1] with Swissmedic before placing a device on the market for the first time.[^55-2]
 
 <sup>2</sup> The economic operator in question must report any changes to the information to Swissmedic within one week.
 
 <sup>3</sup> Further obligations and registration modalities are governed by Articles 30 paragraph 3 and 31 EU-MDR.
 
-<sup>4</sup> Swissmedic shall verify the information provided by the economic operators and assign them a Swiss single registration number (CHRN).[^55-2]
+<sup>4</sup> Swissmedic shall verify the information provided by the economic operators and assign them a Swiss single registration number (CHRN).[^55-3]
 
-<sup>5</sup> Any natural or legal person placing systems and procedure packs on the market for the first time under Article 11 must register their name and the address at which they can be contacted with Swissmedic within three months of placing the system or procedure pack on the market. Where an authorised representative is required under Article 51 paragraph 5, the name and address of the authorised representative must also be registered with Swissmedic.
+<sup>5</sup> Any person placing systems and procedure packs on the market for the first time in accordance with Article 11 shall, prior to placing the system or procedure pack on the market, register their name and contact address with Swissmedic. If an authorised representative is required in accordance with Article 51 paragraph 5, this person’s name and address must also be registered with Swissmedic.[^55-4]
 
 [^55-1]: See the footnote to Art. 4 para. 1 let. f.
-[^55-2]: Amended by Annex 5 No 1 of the O of 4 May 2022 on In Vitro Diagnostic Medical Devices, in force since 26 May 2022 ([AS 2022 291](https://fedlex.data.admin.ch/eli/oc/2022/291)).
+[^55-2]: Amended by the Annex to the O of 20 Nov. 2024 (Device Registration Obligation), in force since 1 July 2026 ([AS 2024 742](https://fedlex.data.admin.ch/eli/oc/2024/742)).
+[^55-3]: Amended by Annex 5 No 1 of the O of 4 May 2022 on In Vitro Diagnostic Medical Devices, in force since 26 May 2022 ([AS 2022 291](https://fedlex.data.admin.ch/eli/oc/2022/291)).
+[^55-4]: Amended by the Annex to the O of 20 Nov. 2024 (Device Registration Obligation), in force since 1 July 2026 ([AS 2024 742](https://fedlex.data.admin.ch/eli/oc/2024/742)).
 
 ## Chapter 7 Device Surveillance
 
@@ -1802,21 +1804,26 @@ Products that fall into the groups of products in Annex 1 and for which the manu
 
 #### Art. 108
 
-**Notification of devices, systems and procedure packs**[^108-1]
+**Notification and registration of devices, systems and procedure packs[^108-2]**[^108-1]
 
 <sup>1</sup>
 
 Until Article 17 paragraph 5 enters into force, the following notification obligations shall continue to apply to natural or legal persons domiciled in Switzerland:
 
-- a. for manufacturers and natural or legal persons who assemble systems or procedure packs under Article 22 paragraphs 1 and 3 EU-MDR[^108-2]: the notification obligations set out in Article 6 paragraphs 1 and 4 of the Medical Devices Ordinance of 17 October 2001[^108-3]:
+- a. for manufacturers and natural or legal persons who assemble systems or procedure packs under Article 22 paragraphs 1 and 3 EU-MDR[^108-3]: the notification obligations set out in Article 6 paragraphs 1 and 4 of the Medical Devices Ordinance of 17 October 2001[^108-4]:
 - b. for natural or legal persons who place medical devices on the market under Article 2 paragraph 1 of the Medical Devices Ordinance of 17 October 2001: the notification obligations set out in Article 6 paragraphs 3 and 4 of the Medical Devices Ordinance of 17 October 2001.
 
-<sup>2</sup> ...[^108-4]
+<sup>2</sup> For devices, systems and procedure packs placed on the market on or after 1 July 2026, registration with Swissmedic in accordance with Article 17 paragraph 5 must be completed by 31 December 2026.[^108-5]
+
+<sup>3</sup> For devices under Article 22*a* of the Medical Devices Ordinance of 17 October 2001[^108-6] that were placed on the market on or after 26 November 2017, and for devices, systems and procedure packs placed on the market on or after 26 May 2021, registration with Swissmedic in accordance with Article 17 paragraph 5 must be completed without delay if the manufacturer, the authorised representative or the person who assembles the system or procedure pack in accordance with Article 22 paragraphs 1 and 3 EU-MDR is required to report a serious incident under Article 66 paragraph 1 letter a, a field safety corrective action under Article 66 paragraph 1 letter b or a trend under Article 66 paragraph 2 in relation to the device, system or procedure pack.[^108-7]
 
 [^108-1]: Amended by No I of the O of 19 May 2021, in force since 26 May 2021 ([AS 2021 281](https://fedlex.data.admin.ch/eli/oc/2021/281)).
-[^108-2]: See the footnote to Art. 4 para. 1 let. f.
-[^108-3]: See the footnote to Art. 99 no 1.
-[^108-4]: Comes into force at a later date (Art. 110 para. 2).
+[^108-2]: Amended by the Annex to the O of 20 Nov. 2024 (Device Registration Obligation), in force since 1 July 2026 ([AS 2024 742](https://fedlex.data.admin.ch/eli/oc/2024/742)).
+[^108-3]: See the footnote to Art. 4 para. 1 let. f.
+[^108-4]: See the footnote to Art. 99 no 1.
+[^108-5]: Amended by the Annex to the O of 20 Nov. 2024 (Device Registration Obligation), in force since 1 July 2026 ([AS 2024 742](https://fedlex.data.admin.ch/eli/oc/2024/742)).
+[^108-6]: [AS 2017 5935](https://fedlex.data.admin.ch/eli/oc/2017/650)
+[^108-7]: Inserted by the Annex to the O of 20 Nov. 2024 (Device Registration Obligation), in force since 1 July 2026 ([AS 2024 742](https://fedlex.data.admin.ch/eli/oc/2024/742)).
 
 #### Art. 109
 
@@ -1830,9 +1837,9 @@ Until Article 17 paragraph 5 enters into force, the following notification oblig
 
 <sup>1</sup> Subject to the exceptions in paragraph 2, this Ordinance comes into force on 26 May 2021.
 
-<sup>2</sup> Articles 17 paragraph 5 and 108 paragraph 2 come into force at a later date.[^110-1]
+<sup>2</sup> …[^110-1]
 
-[^110-1]: Amended by No I of the O of 19 May 2021, in force since 26 May 2021 ([AS 2021 281](https://fedlex.data.admin.ch/eli/oc/2021/281)).
+[^110-1]: Repealed by the Annex to the O of 20 Nov. 2024 (Device Registration Obligation), with effect from 1 July 2026 ([AS 2024 742](https://fedlex.data.admin.ch/eli/oc/2024/742)).
 
 Annex 1
 
@@ -1873,7 +1880,7 @@ The terms listed below and used in EU MDR[^annex2-lvlu1-1] and this Ordinance ar
 <tr><td>Authority</td><td>Competent authority under Swiss law</td></tr>
 <tr><td>Withdrawal</td><td>Revocation</td></tr>
 <tr><td>Transplants</td><td>Organs</td></tr>
-<tr><td>a. Deutsche Ausdrücke</td><td></td></tr>
+<tr><td>b. German terms</td><td></td></tr>
 <tr><td>Union</td><td>Schweiz</td></tr>
 <tr><td>Mitgliedstaat</td><td>Schweiz</td></tr>
 <tr><td>Drittstaat / Drittland</td><td>anderer Staat</td></tr>
@@ -1889,7 +1896,7 @@ The terms listed below and used in EU MDR[^annex2-lvlu1-1] and this Ordinance ar
 <tr><td>Aussetzung</td><td>Suspendierung</td></tr>
 <tr><td>Zurückziehung</td><td>Widerruf</td></tr>
 <tr><td>Transplantate</td><td>Organe</td></tr>
-<tr><td>b. French terms</td><td></td></tr>
+<tr><td>c. French terms</td><td></td></tr>
 <tr><td>Union</td><td>Suisse</td></tr>
 <tr><td>État membre</td><td>Suisse</td></tr>
 <tr><td>État tiers / pays tiers</td><td>autre État</td></tr>
@@ -1907,7 +1914,7 @@ The terms listed below and used in EU MDR[^annex2-lvlu1-1] and this Ordinance ar
 <tr><td>autorités</td><td>autorités compétentes en vertu du droit suisse</td></tr>
 <tr><td>retrait des certificats</td><td>révocation des certificats</td></tr>
 <tr><td>retrait de la désignation</td><td>révocation de la désignation</td></tr>
-<tr><td>c. Italian terms</td><td></td></tr>
+<tr><td>d. Italian terms</td><td></td></tr>
 <tr><td>Unione</td><td>Svizzera</td></tr>
 <tr><td>Stato Membro</td><td>Svizzera</td></tr>
 <tr><td>paese terzo</td><td>altro Stato</td></tr>
@@ -2031,11 +2038,11 @@ Annex 5
 
 The conformity marking is as follows:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/552/20231101/en/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/552/20260701/en/xml/image/image1.png)
 
 Where a designated body has to be involved, its identification number is to be placed beside its conformity marking.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/552/20231101/en/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/552/20260701/en/xml/image/image2.png)
 
 Annex 5a[^t-4]
 

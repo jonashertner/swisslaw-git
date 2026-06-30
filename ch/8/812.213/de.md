@@ -4,11 +4,11 @@ title: Medizinprodukteverordnung vom 1. Juli 2020 (MepV)
 short: MepV
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/552"
 language: de
-version: 2023-11-01
+version: 2026-07-01
 adopted: 2020-07-01
 in_force: 2021-05-26
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/552/20231101/de/xml/fedlex-data-admin-ch-eli-cc-2020-552-20231101-de-xml-26.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/552/20231101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/552/20260701/de/xml/fedlex-data-admin-ch-eli-cc-2020-552-20260701-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/552/20260701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/552/20231101/de"
 
 (MepV)
 
-vom 1. Juli 2020 (Stand am 1. November 2023)
+vom 1. Juli 2020 (Stand am 1. Juli 2026)
 
 Der Schweizerische Bundesrat
 
@@ -152,8 +152,8 @@ In dieser Verordnung bedeuten:
 
 <sup>2</sup> Es gelten zudem die Begriffe nach Artikel 2 Ziffern 3–26, 31, 37, 38, 40–44, 46, 48, 51–53, 57–69 und 71 EU-MDR, unter Berücksichtigung der Änderungen der Begriffsbestimmungen nach Artikel 2 Ziffern 18–21 EU-MDR, die von der Europäischen Kommission mittels delegierter Rechtsakte[^4-4] vorgenommen werden.
 
-[^4-1]: Fassung gemäss Ziff. I der V vom 29. Sept. 2023, in Kraft seit 1. Nov. 2023 ([AS 2023 576](https://fedlex.data.admin.ch/eli/oc/2023/576)).
-[^4-2]: Verordnung (EU) 2017/745 des Europäischen Parlaments und des Rates vom 5. April 2017 über Medizinprodukte, zur Änderung der Richtlinie 2001/83/EG, der Verordnung (EG) Nr. 178/2002 und der Verordnung (EG) Nr. 1223/2009 und zur Aufhebung der Richtlinien 90/385/EWG und 93/42/EWG des Rates, ABl. L 117 vom 5.5.2017, S. 1; zuletzt geändert durch Verordnung (EU) 2023/607, ABl. L 80 vom 20.3.2023, S. 24.
+[^4-1]: Fassung gemäss Anhang der V vom 20. Nov. 2024 (Produkteregistrierungspflicht), in Kraft seit 1. Juli 2026 ([AS 2024 742](https://fedlex.data.admin.ch/eli/oc/2024/742)).
+[^4-2]: Verordnung (EU) 2017/745 des Europäischen Parlaments und des Rates vom 5. April 2017 über Medizinprodukte, zur Änderung der Richtlinie 2001/83/EG, der Verordnung (EG) Nr. 178/2002 und der Verordnung (EG) Nr. 1223/2009 und zur Aufhebung der Richtlinien 90/385/EWG und 93/42/EWG des Rates, ABl. L 117 vom 5.5.2017, S. 1; zuletzt geändert durch Verordnung (EU) 2024/1860, ABl. L, 2024/1860, 9.7.2024.
 [^4-3]: Eingefügt durch Anhang 5 Ziff. 1 der V vom 4. Mai 2022 über In-vitro-Diagnostika, in Kraft seit 26. Mai 2022 ([AS 2022 291](https://fedlex.data.admin.ch/eli/oc/2022/291)).
 [^4-4]: Siehe Anhang 4.
 
@@ -376,7 +376,7 @@ Die Produktinformation kann sich auf weniger als drei Amtssprachen oder auf Engl
 
 <sup>4</sup> Die mit der Produktidentifikation und der Produkteregistrierung verbundenen Pflichten und Modalitäten richten sich nach den Artikeln 27, 29 und Anhang VI EU-MDR, unter Berücksichtigung der Änderungen dieses Anhangs, die von der Europäischen Kommission mittels delegierter Rechtsakte[^17-6] vorgenommen werden.
 
-<sup>5</sup> …[^17-7]
+<sup>5</sup> Die Informationen zum UDI sind bei der Swissmedic nach Massgabe der in Absatz 4 erwähnten Bestimmungen der EU-MDR zu registrieren.[^17-7]
 
 [^17-1]: Siehe Fussnote zu Art. 4 Abs. 1 Bst. f.
 [^17-2]: Steht für «Unique Device Identification».
@@ -384,7 +384,7 @@ Die Produktinformation kann sich auf weniger als drei Amtssprachen oder auf Engl
 [^17-4]: Fassung gemäss Ziff. I der V vom 19. Mai 2021, in Kraft seit 26. Mai 2021 ([AS 2021 281](https://fedlex.data.admin.ch/eli/oc/2021/281)).
 [^17-5]: Fassung gemäss Ziff. I der V vom 19. Mai 2021, in Kraft seit 26. Mai 2021 ([AS 2021 281](https://fedlex.data.admin.ch/eli/oc/2021/281)).
 [^17-6]: Siehe Anhang 4.
-[^17-7]: Tritt zu einem späteren Zeitpunkt in Kraft (Art. 110 Abs. 2).
+[^17-7]: Fassung gemäss Anhang der V vom 20. Nov. 2024 (Produkteregistrierungspflicht), in Kraft seit 1. Juli 2026 ([AS 2024 742](https://fedlex.data.admin.ch/eli/oc/2024/742)).
 
 ### 3. Abschnitt: Meldepflichten und Informationen
 
@@ -987,18 +987,20 @@ Die weiteren Pflichten des Händlers vor und nach der Bereitstellung eines Produ
 
 #### Art. 55
 
-<sup>1</sup> Die Hersteller oder ihre Bevollmächtigten und die Importeure registrieren innerhalb von drei Monaten, nachdem sie zum ersten Mal ein Produkt in Verkehr gebracht haben, die erforderlichen Angaben gemäss Anhang VI Teil A Abschnitt 1 EU-MDR[^55-1] bei der Swissmedic.
+<sup>1</sup> Die Hersteller oder ihre Bevollmächtigten und die Importeure registrieren, bevor sie zum ersten Mal ein Produkt in Verkehr bringen, die erforderlichen Angaben gemäss Anhang VI Teil A Abschnitt 1 EU-MDR[^55-1] bei der Swissmedic.[^55-2]
 
 <sup>2</sup> Änderungen der Angaben sind der Swissmedic vom betreffenden Wirtschaftsakteur innerhalb einer Woche zu melden.
 
 <sup>3</sup> Weitere Pflichten und Modalitäten zur Registrierung richten sich nach den Artikeln 30 Absatz 3 und 31 EU-MDR.
 
-<sup>4</sup> Die Swissmedic überprüft die von den Wirtschaftsakteuren gemeldeten Angaben und teilt ihnen eine einmalige schweizerische Registrierungsnummer (CHRN) zu.[^55-2]
+<sup>4</sup> Die Swissmedic überprüft die von den Wirtschaftsakteuren gemeldeten Angaben und teilt ihnen eine einmalige schweizerische Registrierungsnummer (CHRN) zu.[^55-3]
 
-<sup>5</sup> Wer Systeme und Behandlungseinheiten nach Artikel 11 zum ersten Mal in Verkehr bringt, registriert innerhalb von drei Monaten nach dem Inverkehrbringen des Systems oder der Behandlungseinheit seinen Namen und die Adresse, unter der er zu erreichen ist, bei der Swissmedic. Wird nach Artikel 51 Absatz 5 ein Bevollmächtigter verlangt, so müssen dessen Name und Adresse ebenfalls bei der Swissmedic registriert werden.
+<sup>5</sup> Wer Systeme und Behandlungseinheiten nach Artikel 11 zum ersten Mal in Verkehr bringt, registriert vor dem Inverkehrbringen des Systems oder der Behandlungseinheit seinen Namen und die Adresse, unter der er zu erreichen ist, bei der Swissmedic. Wird nach Artikel 51 Absatz 5 ein Bevollmächtigter verlangt, so müssen dessen Name und Adresse ebenfalls bei der Swissmedic registriert werden.[^55-4]
 
 [^55-1]: Siehe Fussnote zu Art. 4 Abs. 1 Bst. f.
-[^55-2]: Fassung gemäss Anhang 5 Ziff. 1 der V vom 4. Mai 2022 über In-vitro-Diagnostika, in Kraft seit 26. Mai 2022 ([AS 2022 291](https://fedlex.data.admin.ch/eli/oc/2022/291)).
+[^55-2]: Fassung gemäss Anhang der V vom 20. Nov. 2024 (Produkteregistrierungspflicht), in Kraft seit 1. Juli 2026 ([AS 2024 742](https://fedlex.data.admin.ch/eli/oc/2024/742)).
+[^55-3]: Fassung gemäss Anhang 5 Ziff. 1 der V vom 4. Mai 2022 über In-vitro-Diagnostika, in Kraft seit 26. Mai 2022 ([AS 2022 291](https://fedlex.data.admin.ch/eli/oc/2022/291)).
+[^55-4]: Fassung gemäss Anhang der V vom 20. Nov. 2024 (Produkteregistrierungspflicht), in Kraft seit 1. Juli 2026 ([AS 2024 742](https://fedlex.data.admin.ch/eli/oc/2024/742)).
 
 ## 7. Kapitel: Produktebeobachtung
 
@@ -1800,21 +1802,26 @@ Produkte, die unter die Produktgruppen nach Anhang 1 fallen und für die der Her
 
 #### Art. 108
 
-**Meldung von Produkten, Systemen und Behandlungseinheiten**[^108-1]
+**Meldung und Registrierung von Produkten, Systemen und Behandlungseinheiten[^108-2]**[^108-1]
 
 <sup>1</sup>
 
 Bis zum Inkrafttreten von Artikel 17 Absatz 5 bleiben folgende Meldepflichten für Personen mit Sitz in der Schweiz anwendbar:
 
-- a. für Hersteller sowie für Personen, die gemäss Artikel 22 Absätze 1 und 3 EU-MDR[^108-2] Systeme oder Behandlungseinheiten zusammenstellen: die Meldepflichten nach Artikel 6 Absätze 1 und 4 der Medizinprodukteverordnung vom 17. Oktober 2001[^108-3];
+- a. für Hersteller sowie für Personen, die gemäss Artikel 22 Absätze 1 und 3 EU-MDR[^108-3] Systeme oder Behandlungseinheiten zusammenstellen: die Meldepflichten nach Artikel 6 Absätze 1 und 4 der Medizinprodukteverordnung vom 17. Oktober 2001[^108-4];
 - b. für Personen, die Medizinprodukte nach Artikel 2 Absatz 1 der Medizinprodukteverordnung vom 17. Oktober 2001 in Verkehr bringen: die Meldepflichten nach Artikel 6 Absätze 3 und 4 der Medizinprodukteverordnung vom 17. Oktober 2001.
 
-<sup>2</sup> …[^108-4]
+<sup>2</sup> Die Registrierung bei der Swissmedic gemäss Artikel 17 Absatz 5 ist für Produkte, Systeme und Behandlungseinheiten, die seit dem 1. Juli 2026 in Verkehr gebracht werden, bis am 31. Dezember 2026 vorzunehmen.[^108-5]
+
+<sup>3</sup> Die Registrierung bei der Swissmedic gemäss Artikel 17 Absatz 5 ist für Produkte, die nach Artikel 22*a* der Medizinprodukteverordnung vom 17. Oktober 2001[^108-6] seit dem 26. November 2017 in Verkehr gebracht wurden, sowie für Produkte, Systeme und Behandlungseinheiten, die seit dem 26. Mai 2021 in Verkehr gebracht werden, umgehend vorzunehmen, wenn der Hersteller, der Bevollmächtigte oder die Person, die das System oder die Behandlungseinheit gemäss Artikel 22 Absätze 1 und 3 EU-MDR zusammenstellt, für das Produkt, das System oder die Behandlungseinheit ein schwerwiegendes Vorkommnis nach Artikel 66 Absatz 1 Buchstabe a, eine Sicherheitskorrekturmassnahme im Feld nach Artikel 66 Absatz 1 Buchstabe b oder einen Trend nach Artikel 66 Absatz 2 melden muss.[^108-7]
 
 [^108-1]: Fassung gemäss Ziff. I der V vom 19. Mai 2021, in Kraft seit 26. Mai 2021 ([AS 2021 281](https://fedlex.data.admin.ch/eli/oc/2021/281)).
-[^108-2]: Siehe Fussnote zu Art. 4 Abs. 1 Bst. f.
-[^108-3]: Siehe Fussnote zu Art. 99 Ziff. 1.
-[^108-4]: Tritt zu einem späteren Zeitpunkt in Kraft (Art. 110 Abs. 2).
+[^108-2]: Fassung gemäss Anhang der V vom 20. Nov. 2024 (Produkteregistrierungspflicht), in Kraft seit 1. Juli 2026 ([AS 2024 742](https://fedlex.data.admin.ch/eli/oc/2024/742)).
+[^108-3]: Siehe Fussnote zu Art. 4 Abs. 1 Bst. f.
+[^108-4]: Siehe Fussnote zu Art. 99 Ziff. 1.
+[^108-5]: Fassung gemäss Anhang der V vom 20. Nov. 2024 (Produkteregistrierungspflicht), in Kraft seit 1. Juli 2026 ([AS 2024 742](https://fedlex.data.admin.ch/eli/oc/2024/742)).
+[^108-6]: [AS 2017 5935](https://fedlex.data.admin.ch/eli/oc/2017/650)
+[^108-7]: Eingefügt durch Anhang der V vom 20. Nov. 2024 (Produkteregistrierungspflicht), in Kraft seit 1. Juli 2026 ([AS 2024 742](https://fedlex.data.admin.ch/eli/oc/2024/742)).
 
 #### Art. 109
 
@@ -1828,9 +1835,9 @@ Bis zum Inkrafttreten von Artikel 17 Absatz 5 bleiben folgende Meldepflichten f�
 
 <sup>1</sup> Diese Verordnung tritt unter Vorbehalt von Absatz 2 am 26. Mai 2021 in Kraft.
 
-<sup>2</sup> Die Artikel 17 Absatz 5 und 108 Absatz 2 treten zu einem späteren Zeitpunkt in Kraft.[^110-1]
+<sup>2</sup> …[^110-1]
 
-[^110-1]: Fassung gemäss Ziff. I der V vom 19. Mai 2021, in Kraft seit 26. Mai 2021 ([AS 2021 281](https://fedlex.data.admin.ch/eli/oc/2021/281)).
+[^110-1]: Aufgehoben durch Anhang der V vom 20. Nov. 2024 (Produkteregistrierungspflicht), mit Wirkung seit 1. Juli 2026 ([AS 2024 742](https://fedlex.data.admin.ch/eli/oc/2024/742)).
 
 Anhang 1
 
@@ -2015,11 +2022,11 @@ Anhang 5
 
 Für die Angabe des Konformitätskennzeichens gilt folgende Darstellung:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/552/20231101/de/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/552/20260701/de/xml/image/image1.png)
 
 Sofern eine bezeichnete Stelle beigezogen werden muss, ist neben ihrem Konformitätskennzeichen auch ihre Kennnummer anzugeben.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/552/20231101/de/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/552/20260701/de/xml/image/image2.png)
 
 Anhang 5a[^t-4]
 

@@ -4,11 +4,11 @@ title: "Ordonnance du 1<sup>er</sup> juillet 2020 sur les dispositifs médicaux 
 short: ODim
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/552"
 language: fr
-version: 2023-11-01
+version: 2026-07-01
 adopted: 2020-07-01
 in_force: 2021-05-26
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/552/20231101/fr/xml/fedlex-data-admin-ch-eli-cc-2020-552-20231101-fr-xml-26.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/552/20231101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/552/20260701/fr/xml/fedlex-data-admin-ch-eli-cc-2020-552-20260701-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/552/20260701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/552/20231101/fr"
 
 (ODim)
 
-du 1<sup>er</sup> juillet 2020 (État le 1<sup>er</sup> novembre 2023)
+du 1<sup>er</sup> juillet 2020 (État le 1<sup>er</sup> juillet 2026)
 
 Le Conseil fédéral suisse,
 
@@ -84,7 +84,8 @@ La présente ordonnance ne s’applique pas:
 - h. aux combinaisons qui, lors de leur mise sur le marché ou de leur mise en service, incorporent comme partie intégrante, en plus du dispositif, des tissus ou cellules d’origine humaine non viables ou leurs dérivés dont l’action est essentielle;
 - i. aux dispositifs médicaux qui sont destinés exclusivement à une utilisation sur des animaux ou à un diagnostic vétérinaire;
 - j.[^2-1] aux combinaisons qui, lors de leur mise sur le marché ou de leur mise en service, incorporent comme partie intégrante, en plus du dispositif, des transplants standardisés.
-- [tab] <sup>2</sup> Dans les cas visés à l’al. 1, let. f à h et j, les exigences générales en matière de sécurité et de performances fixées à l’art. 6 doivent être satisfaites pour la partie de la combinaison qui est considérée comme un dispositif.[^2-2]
+
+<sup>2</sup> Dans les cas visés à l’al. 1, let. f à h et j, les exigences générales en matière de sécurité et de performances fixées à l’art. 6 doivent être satisfaites pour la partie de la combinaison qui est considérée comme un dispositif.[^2-2]
 
 [^2-1]: Introduite par l’annexe 5 ch. 1 de l’O du 4 mai 2022 sur les dispositifs médicaux de diagnostic in vitro, en vigueur depuis le 26 mai 2022 ([RO 2022 291](https://fedlex.data.admin.ch/eli/oc/2022/291)).
 [^2-2]: Nouvelle teneur selon l’annexe 5 ch. 1 de l’O du 4 mai 2022 sur les dispositifs médicaux de diagnostic in vitro, en vigueur depuis le 26 mai 2022 ([RO 2022 291](https://fedlex.data.admin.ch/eli/oc/2022/291)).
@@ -133,11 +134,11 @@ Par *accessoire d’un dispositif médical*, on entend tout article qui, sans ê
 On entend par:[^4-1]
 
 - a. *mise à disposition sur le marché**:* tout transfert ou cession, à titre onéreux ou gratuit, d’un dispositif, autre qu’un dispositif faisant l’objet d’un essai clinique, destiné à être distribué, consommé ou utilisé sur le marché suisse dans le cadre d’une activité commerciale;
-- b. *mise* *sur le marché**:* la première mise à disposition sur le marché suisse d’un dispositif, autre qu’un dispositif faisant l’objet d’un essai clinique;
+- b. *mise sur le marché**:* la première mise à disposition sur le marché suisse d’un dispositif, autre qu’un dispositif faisant l’objet d’un essai clinique;
 - c. *mise en service**:* le stade auquel un dispositif prêt à être utilisé, autre qu’un dispositif faisant l’objet d’un essai clinique, est mis à la disposition des utilisateurs finaux pour être utilisé pour la première fois sur le marché suisse conformément à sa destination;
 - d. *maintenance**:* des mesures telles que l’entretien, les mises à jour logicielles, les inspections, les réparations, la préparation à la première utilisation et les retraitements en vue de réutiliser, de maintenir ou de rétablir le bon fonctionnement d’un dispositif;
 - e. *retraitement:* le procédé dont fait l’objet un dispositif usagé pour en permettre une réutilisation sûre, y compris le nettoyage, la désinfection, la stérilisation et les procédures connexes comme l’emballage, le transport et le stockage, ainsi que l’essai du dispositif usagé et le rétablissement de ses caractéristiques techniques et fonctionnelles en matière de sécurité;
-- f.[^4-2] *fabricant*: toute personne physique ou morale qui fabrique ou remet à neuf un dispositif ou fait concevoir, fabriquer ou remettre à neuf un dispositif et qui commercialise ce dispositif sous son nom ou sous sa marque, sous réserve des précisions et exceptions énoncées à l’art. 16, par. 1 et 2, du règlement (UE) 2017/745 sur les dispositifs médicaux (RDM-UE)[^4-3];
+- f.[^4-2] *fabricant:* toute personne physique ou morale qui fabrique ou remet à neuf un dispositif ou fait concevoir, fabriquer ou remettre à neuf un dispositif et qui commercialise ce dispositif sous son nom ou sous sa marque, sous réserve des précisions et exceptions énoncées à l’art. 16, par. 1 et 2, du règlement (UE) 2017/745 sur les dispositifs médicaux (RDM-UE)[^4-3];
 - g. *mandataire:* toute personne physique ou morale établie en Suisse recevant le mandat écrit d’un fabricant sis à l’étranger pour agir pour le compte du fabricant aux fins de l’accomplissement de tâches déterminées liées aux obligations incombant à ce dernier en vertu de la présente ordonnance;
 - h. *importateur**:* toute personne physique ou morale établie en Suisse qui met sur le marché suisse un dispositif provenant de l’étranger;
 - i. *distributeur**:* toute personne physique ou morale faisant partie de la chaîne d’approvisionnement, autre que le fabricant ou l’importateur, qui met un dispositif à disposition sur le marché suisse, jusqu’au stade de sa mise en service;
@@ -150,8 +151,8 @@ On entend par:[^4-1]
 <sup>2</sup> Au surplus, les définitions de l’art. 2, ch. 3 à 26, 31, 37, 38, 40 à 44, 46, 48, 51 à 53, 57 à 69 et 71, RDM-UE sont applicables, compte tenu des amendements apportés aux définitions de l’art. 2, ch. 18 à 21, RDM-UE par la Commission européenne au moyen de ses actes délégués[^4-5].
 
 [^4-1]: Nouvelle teneur selon l’annexe 5 ch. 1 de l’O du 4 mai 2022 sur les dispositifs médicaux de diagnostic in vitro, en vigueur depuis le 26 mai 2022 ([RO 2022 291](https://fedlex.data.admin.ch/eli/oc/2022/291)).
-[^4-2]: Nouvelle teneur selon le ch. I de l’O du 29 sept. 2023, en vigueur depuis le 1<sup>er</sup> nov. 2023 ([RO 2023 576](https://fedlex.data.admin.ch/eli/oc/2023/576)).
-[^4-3]: Règlement (UE) 2017/745 du Parlement européen et du Conseil du 5 avril 2017 relatif aux dispositifs médicaux, modifiant la directive 2001/83/CE, le règlement (CE) n<sup>o</sup> 178/2002 et le règlement (CE) n<sup>o</sup> 1223/2009 et abrogeant les directives du Conseil 90/385/CEE et 93/42/CEE, JO L 117 du 5.5.2017, p. 1; modifié en dernier lieu par le règlement (UE) 2023/607, JO L 80 du 20.3.2023, p. 24.
+[^4-2]: Nouvelle teneur selon l’annexe de l’O du 20 nov. 2024 (Obligation d’enregistrement des dispositifs), en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2024 742](https://fedlex.data.admin.ch/eli/oc/2024/742)).
+[^4-3]: Règlement (UE) 2017/745 du Parlement européen et du Conseil du 5 avril 2017 relatif aux dispositifs médicaux, modifiant la directive 2001/83/CE, le règlement (CE) n<sup>o</sup> 178/2002 et le règlement (CE) n<sup>o</sup> 1223/2009 et abrogeant les directives du Conseil 90/385/CEE et 93/42/CEE, JO L 117 du 5.5.2017, p. 1; modifié en dernier lieu par le règlement (UE) 2024/1860, JO L, 2024/1860, 9.7.2024.
 [^4-4]: Introduite par l’annexe 5 ch. 1 de l’O du 4 mai 2022 sur les dispositifs médicaux de diagnostic in vitro, en vigueur depuis le 26 mai 2022 ([RO 2022 291](https://fedlex.data.admin.ch/eli/oc/2022/291)).
 [^4-5]: Voir l’annexe 4.
 
@@ -210,7 +211,8 @@ Un dispositif est réputé être proposé au moyen de services de la société d
 - a. il est fourni à distance, à savoir sans présence physique des parties contractantes;
 - b. il est fourni par voie électronique;
 - c. il est fourni sur demande individuelle du destinataire ou de son représentant.
-- [tab] <sup>5</sup> …[^7-4]
+
+<sup>5</sup> …[^7-4]
 
 [^7-1]: Nouvelle teneur selon l’annexe 5 ch. 1 de l’O du 4 mai 2022 sur les dispositifs médicaux de diagnostic in vitro, en vigueur depuis le 26 mai 2022 ([RO 2022 291](https://fedlex.data.admin.ch/eli/oc/2022/291)).
 [^7-2]: Introduit par l’annexe 5 ch. 1 de l’O du 4 mai 2022 sur les dispositifs médicaux de diagnostic in vitro, en vigueur depuis le 26 mai 2022 ([RO 2022 291](https://fedlex.data.admin.ch/eli/oc/2022/291)).
@@ -371,7 +373,7 @@ L’information relative au dispositif peut être rédigée dans moins de trois 
 
 <sup>4</sup> Les obligations et modalités découlant de l’identification et de l’enregistrement des dispositifs sont régies par les art. 27 et 29 et par l’annexe VI RDM-UE, compte tenu des amendements apportés à ladite annexe par la Commission européenne au moyen de ses actes délégués[^17-6].
 
-<sup>5</sup> …[^17-7]
+<sup>5</sup> Les informations concernant l’IUD doivent être enregistrées auprès de Swissmedic conformément aux dispositions du RDM-UE mentionnées à l’al. 4.[^17-7]
 
 [^17-1]: Cf. note de bas de page relative à l’art. 4, al. 1, let. f.
 [^17-2]: En anglais *Unique Device Identification (UDI)*
@@ -379,7 +381,7 @@ L’information relative au dispositif peut être rédigée dans moins de trois 
 [^17-4]: Nouvelle teneur selon le ch. I de l’O du 19 mai 2021, en vigueur depuis le 26 mai 2021 ([RO 2021 281](https://fedlex.data.admin.ch/eli/oc/2021/281)).
 [^17-5]: Nouvelle teneur selon le ch. I de l’O du 19 mai 2021, en vigueur depuis le 26 mai 2021 ([RO 2021 281](https://fedlex.data.admin.ch/eli/oc/2021/281)).
 [^17-6]: Voir l’annexe 4.
-[^17-7]: Entre en vigueur ultérieurement (art. 110, al. 2).
+[^17-7]: Nouvelle teneur selon l’annexe de l’O du 20 nov. 2024 (Obligation d’enregistrement des dispositifs), en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2024 742](https://fedlex.data.admin.ch/eli/oc/2024/742)).
 
 ### Section 3 Obligations de déclaration et informations
 
@@ -980,7 +982,7 @@ Les autres obligations auxquelles est soumis le distributeur avant et après la 
 
 #### Art. 55
 
-<sup>1</sup> Les fabricants ou leurs mandataires et les importateurs enregistrent auprès de Swissmedic, dans les trois mois à compter de la première fois qu’ils ont mis un dispositif sur le marché, les données requises par l’annexe VI, partie A, section 1, RDM-UE[^55-1].[^55-2]
+<sup>1</sup> Avant de mettre un dispositif sur le marché pour la première fois, les fabricants ou leurs mandataires et les importateurs enregistrent auprès de Swissmedic les données requises en vertu de l’annexe VI, partie A, section 1, RDM-UE[^55-1].[^55-2]
 
 <sup>2</sup> En cas de modification des données, l’opérateur économique concerné doit en faire part à Swissmedic dans un délai d’une semaine.
 
@@ -988,11 +990,12 @@ Les autres obligations auxquelles est soumis le distributeur avant et après la 
 
 <sup>4</sup> Swissmedic vérifie les données communiquées par les opérateurs économiques et leur attribue un numéro d’enregistrement unique suisse (CHRN).[^55-3]
 
-<sup>5</sup> Toute personne qui met pour la première fois sur le marché des systèmes et des nécessaires au sens de l’art. 11 enregistre auprès de Swissmedic son nom et l’adresse à laquelle on peut la joindre, dans les trois mois suivant la mise sur le marché du système ou du nécessaire. Si un mandataire est requis conformément à l’art. 51, al. 5, son nom et son adresse doivent également être enregistrés auprès de Swissmedic.
+<sup>5</sup> Toute personne qui met pour la première fois sur le marché des systèmes et des nécessaires au sens de l’art. 11 enregistre au préalable auprès de Swissmedic son nom et l’adresse à laquelle on peut la joindre. Si un mandataire est requis conformément à l’art. 51, al. 5, son nom et son adresse doivent également être enregistrés auprès de Swissmedic.[^55-4]
 
 [^55-1]: Cf. note de bas de page relative à l’art. 4, al. 1, let. f.
-[^55-2]: Nouvelle teneur selon l’annexe 5 ch. 1 de l’O du 4 mai 2022 sur les dispositifs médicaux de diagnostic in vitro, en vigueur depuis le 26 mai 2022 ([RO 2022 291](https://fedlex.data.admin.ch/eli/oc/2022/291)).
+[^55-2]: Nouvelle teneur selon l’annexe de l’O du 20 nov. 2024 (Obligation d’enregistrement des dispositifs), en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2024 742](https://fedlex.data.admin.ch/eli/oc/2024/742)).
 [^55-3]: Nouvelle teneur selon l’annexe 5 ch. 1 de l’O du 4 mai 2022 sur les dispositifs médicaux de diagnostic in vitro, en vigueur depuis le 26 mai 2022 ([RO 2022 291](https://fedlex.data.admin.ch/eli/oc/2022/291)).
+[^55-4]: Nouvelle teneur selon l’annexe de l’O du 20 nov. 2024 (Obligation d’enregistrement des dispositifs), en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2024 742](https://fedlex.data.admin.ch/eli/oc/2024/742)).
 
 ## Chapitre 7 Observation des dispositifs
 
@@ -1798,21 +1801,26 @@ Les produits qui font partie des groupes de produits visés à l’annexe 1 pour
 
 #### Art. 108
 
-**Déclaration de dispositifs, de systèmes et de nécessaires**[^108-1]
+**Déclaration et enregistrement de dispositifs, de systèmes et de nécessaires[^108-2]**[^108-1]
 
 <sup>1</sup>
 
 Jusqu’à l’entrée en vigueur de l’art. 17, al. 5, les obligations de déclaration suivantes restent applicables pour les personnes ayant leur siège en Suisse:
 
-- a. les obligations de déclaration visées à l’art. 6, al. 1 et 4, de l’ordonnance du 17 octobre 2001 sur les dispositifs médicaux[^108-2], pour les fabricants et les personnes qui assemblent des systèmes ou des nécessaires au sens de l’art. 22, par. 1 et 3, RDM-UE[^108-3];
+- a. les obligations de déclaration visées à l’art. 6, al. 1 et 4, de l’ordonnance du 17 octobre 2001 sur les dispositifs médicaux[^108-3], pour les fabricants et les personnes qui assemblent des systèmes ou des nécessaires au sens de l’art. 22, par. 1 et 3, RDM-UE[^108-4];
 - b. les obligations de déclaration visées à l’art. 6, al. 3 et 4, de l’ordonnance du 17 octobre 2001 sur les dispositifs médicaux, pour les personnes qui mettent sur le marché des dispositifs médicaux au sens de l’art. 2, al. 1, de ladite ordonnance.
 
-<sup>2</sup> …[^108-4]
+<sup>2</sup> Pour les dispositifs, systèmes et nécessaires mis sur le marché à partir du 1<sup>er</sup> juillet 2026, l’enregistrement auprès de Swissmedic régi par l’art. 17, al. 5, doit être réalisé jusqu’au 31 décembre 2026.[^108-5]
+
+<sup>3</sup> L’enregistrement auprès de Swissmedic régi par l’art. 17, al. 5, doit être réalisé immédiatement pour les dispositifs mis sur le marché à partir du 26 novembre 2017 en vertu de l’art. 22*a* de l’ordonnance du 17 octobre 2001 sur les dispositifs médicaux[^108-6] et pour les dispositifs, les systèmes et les nécessaires mis sur le marché à partir du 26 mai 2021 si le fabricant, le mandataire ou la personne qui assemble le système ou le nécessaire au sens de l’art. 22, par. 1 à 3, du RDM-UE est tenu, pour le dispositif, le système ou le nécessaire, de déclarer un incident grave au sens de l’art. 66, al. 1, let. a, une mesure corrective de sécurité au sens de l’art. 66, al. 1, let. b, ou une tendance au sens de l’art. 66, al. 2.[^108-7]
 
 [^108-1]: Nouvelle teneur selon le ch. I de l’O du 19 mai 2021, en vigueur depuis le 26 mai 2021 ([RO 2021 281](https://fedlex.data.admin.ch/eli/oc/2021/281)).
-[^108-2]: Cf. note de bas de page relative à l’art. 99, ch. 1.
-[^108-3]: Cf. note de bas de page relative à l’art. 4, al. 1, let. f
-[^108-4]: Entre en vigueur ultérieurement (art. 110, al. 2).
+[^108-2]: Nouvelle teneur selon l’annexe de l’O du 20 nov. 2024 (Obligation d’enregistrement des dispositifs), en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2024 742](https://fedlex.data.admin.ch/eli/oc/2024/742)).
+[^108-3]: Cf. note de bas de page relative à l’art. 99, ch. 1.
+[^108-4]: Cf. note de bas de page relative à l’art. 4, al. 1, let. f
+[^108-5]: Nouvelle teneur selon l’annexe de l’O du 20 nov. 2024 (Obligation d’enregistrement des dispositifs), en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2024 742](https://fedlex.data.admin.ch/eli/oc/2024/742)).
+[^108-6]: [RO 2017 5935](https://fedlex.data.admin.ch/eli/oc/2017/650)
+[^108-7]: Introduit par l’annexe de l’O du 20 nov. 2024 (Obligation d’enregistrement des dispositifs), en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2024 742](https://fedlex.data.admin.ch/eli/oc/2024/742)).
 
 #### Art. 109
 
@@ -1826,9 +1834,9 @@ Jusqu’à l’entrée en vigueur de l’art. 17, al. 5, les obligations de déc
 
 <sup>1</sup> La présente ordonnance entre en vigueur le 26 mai 2021, sous réserve de l’al. 2.
 
-<sup>2</sup> Les art. 17, al. 5, et 108, al. 2, entreront en vigueur ultérieurement.[^110-1]
+<sup>2</sup> …[^110-1]
 
-[^110-1]: Nouvelle teneur selon le ch. I de l’O du 19 mai 2021, en vigueur depuis le 26 mai 2021 ([RO 2021 281](https://fedlex.data.admin.ch/eli/oc/2021/281)).
+[^110-1]: Abrogé par l’annexe de l’O du 20 nov. 2024 (Obligation d’enregistrement des dispositifs), avec effet au 1<sup>er</sup> juil. 2026 ([RO 2024 742](https://fedlex.data.admin.ch/eli/oc/2024/742)).
 
 Annexe 1
 
@@ -1930,52 +1938,53 @@ Dans la présente ordonnance, lorsqu’il est fait référence à des dispositio
 - 1\.2 Règlement (UE) n<sup>o</sup> 207/2012 de la Commission du 9 mars 2012 relatif aux instructions d’emploi électroniques des dispositifs médicaux (JO L 72 du 10.3.2012, p. 28)
 - 1\.3 Règlement (UE) n<sup>o</sup> 722/2012 de la Commission du 8 août 2012 relatif aux prescriptions particulières en ce qui concerne les exigences prévues aux directives 90/385/CEE et 93/42/CEE du Conseil pour les dispositifs médicaux implantables actifs et les dispositifs médicaux fabriqués à partir de tissus d’origine animale (JO L 212 du 9.8.2012, p. 3)
 
-**2** **Droit suisse**
+[^annex3-lvlu1-lvl1-1]: Cf. note de bas de page relative à l’art. 4, al. 1, let. f.
 
-Dans la présente ordonnance, lorsqu’il est fait référence à des dispositions du RDM-UE[^annex3-lvlu1-lvl1-2] renvoyant elles-mêmes à l’un des actes suivants de l’UE, le droit suisse ci-après est applicable en lieu et place dudit acte de l’UE:
+### 2 Droit suisse
+
+Dans la présente ordonnance, lorsqu’il est fait référence à des dispositions du RDM-UE[^annex3-lvlu1-lvl2-1] renvoyant elles-mêmes à l’un des actes suivants de l’UE, le droit suisse ci-après est applicable en lieu et place dudit acte de l’UE:
 
 <table>
 <tr><th>Droit européen</th><th>Droit suisse</th></tr>
-<tr><td>1. Directive 2001/83/CE du Parlement européen et du Conseil, du 6 novembre 2001 instituant un code communautaire relatif aux médicaments à usage humain, JO L 311 du 28.11.2001, p. 67</td><td>[tab] Loi du 15 décembre 2000 sur les produits thérapeutiques[^annex3-lvlu1-lvl1-3]</td></tr>
+<tr><td>1. Directive 2001/83/CE du Parlement européen et du Conseil, du 6 novembre 2001 instituant un code communautaire relatif aux médicaments à usage humain, JO L 311 du 28.11.2001, p. 67</td><td>[tab] Loi du 15 décembre 2000 sur les produits thérapeutiques[^annex3-lvlu1-lvl2-2]</td></tr>
 <tr><td>2. Règlement (CE) n<sup>o</sup> 726/2004 du Parlement européen et du Conseil du 31 mars 2004 établissant des procédures communautaires pour l’autorisation et la surveillance en ce qui concerne les médicaments à usage humain et à usage vétérinaire, et instituant une Agence européenne des médicaments, JO L 136 du 30.4.2004, p. 1</td><td>[tab] Loi du 15 décembre 2000 sur les produits thérapeutiques</td></tr>
 <tr><td>3. Règlement (CE) n<sup>o</sup> 1394/2007 du Parlement européen et du Conseil du 13 novembre 2007 concernant les médicaments de thérapie innovante et modifiant la directive 2001/83/CE ainsi que le règlement (CE) n<sup>o</sup> 726/2004, JO L 324 du 10.12.2007, p. 121</td><td>[tab] Loi du 15 décembre 2000 sur les produits thérapeutiques</td></tr>
 <tr><td>4. Règlement (UE) 2017/746 du Parlement européen et du Conseil du 5 avril 2017 relatif aux dispositifs médicaux de diagnostic *in vitro* et abrogeant la directive 98/79/CE et la décision 2010/227/UE de la Commission, JO L 117 du 5.5.2017, p. 176</td><td>[tab] Loi du 15 décembre 2000 sur les produits thérapeutiques</td></tr>
-<tr><td>5. Directive 85/374/CEE du Conseil du 25 juillet 1985 relative au rapprochement des dispositions législatives, réglementaires et administratives des États membres en matière de responsabilité du fait des produits défectueux, JO L 210 du 7.8.1985, p. 29</td><td>[tab] Loi fédérale du 18 juin 1993 sur la responsabilité du fait des produits[^annex3-lvlu1-lvl1-4]</td></tr>
-<tr><td>6. Directive 2014/30/UE du Parlement européen et du Conseil du 26 février 2014 relative à l’harmonisation des législations des États membres concernant la compatibilité électromagnétique, JO L 96 du 29.3.2014, p. 79</td><td>[tab] Ordonnance du 25 novembre 2015 sur la compatibilité électromagnétique[^annex3-lvlu1-lvl1-5]</td></tr>
-<tr><td>7. Directive 2006/42/CE du Parlement européen et du Conseil du 17 mai 2006 relative aux machines et modifiant la directive 95/16/CE, JO L 157 du 9.6.2006, p. 24</td><td>[tab] Ordonnance du 2 avril 2008 sur la sécurité des machines[^annex3-lvlu1-lvl1-6]</td></tr>
-<tr><td>8. Règlement (CE) n<sup>o</sup> 1223/2009 du Parlement européen et du Conseil du 30 novembre 2009 relatif aux produits cosmétiques, JO L 324 du 22.12.2009, p. 59</td><td>[tab] Ordonnance du DFI du 16 décembre 2016 sur les cosmétiques[^annex3-lvlu1-lvl1-7]</td></tr>
-<tr><td>9. Directive 2004/23/CE du Parlement européen et du Conseil du 31 mars 2004 relative à l’établissement de normes de qualité et de sécurité pour le don, l’obtention, le contrôle, la transformation, la conservation, le stockage et la distribution des tissus et cellules humains, JO L 102 du 7.4.2004, p. 48</td><td>[tab] Loi du 15 décembre 2000 sur les produits thérapeutiques et loi du 8 octobre 2004 sur la transplantation[^annex3-lvlu1-lvl1-8]</td></tr>
+<tr><td>5. Directive 85/374/CEE du Conseil du 25 juillet 1985 relative au rapprochement des dispositions législatives, réglementaires et administratives des États membres en matière de responsabilité du fait des produits défectueux, JO L 210 du 7.8.1985, p. 29</td><td>[tab] Loi fédérale du 18 juin 1993 sur la responsabilité du fait des produits[^annex3-lvlu1-lvl2-3]</td></tr>
+<tr><td>6. Directive 2014/30/UE du Parlement européen et du Conseil du 26 février 2014 relative à l’harmonisation des législations des États membres concernant la compatibilité électromagnétique, JO L 96 du 29.3.2014, p. 79</td><td>[tab] Ordonnance du 25 novembre 2015 sur la compatibilité électromagnétique[^annex3-lvlu1-lvl2-4]</td></tr>
+<tr><td>7. Directive 2006/42/CE du Parlement européen et du Conseil du 17 mai 2006 relative aux machines et modifiant la directive 95/16/CE, JO L 157 du 9.6.2006, p. 24</td><td>[tab] Ordonnance du 2 avril 2008 sur la sécurité des machines[^annex3-lvlu1-lvl2-5]</td></tr>
+<tr><td>8. Règlement (CE) n<sup>o</sup> 1223/2009 du Parlement européen et du Conseil du 30 novembre 2009 relatif aux produits cosmétiques, JO L 324 du 22.12.2009, p. 59</td><td>[tab] Ordonnance du DFI du 16 décembre 2016 sur les cosmétiques[^annex3-lvlu1-lvl2-6]</td></tr>
+<tr><td>9. Directive 2004/23/CE du Parlement européen et du Conseil du 31 mars 2004 relative à l’établissement de normes de qualité et de sécurité pour le don, l’obtention, le contrôle, la transformation, la conservation, le stockage et la distribution des tissus et cellules humains, JO L 102 du 7.4.2004, p. 48</td><td>[tab] Loi du 15 décembre 2000 sur les produits thérapeutiques et loi du 8 octobre 2004 sur la transplantation[^annex3-lvlu1-lvl2-7]</td></tr>
 <tr><td>10. Directive 2002/98/CE du Parlement européen et du Conseil du 27 janvier 2003 établissant des normes de qualité et de sécurité pour la collecte, le contrôle, la transformation, la conservation et la distribution du sang humain, et des composants sanguins, et modifiant la directive 2001/83/CE, JO L 33 du 8.2.2003, p. 30</td><td>[tab] Loi du 15 décembre 2000 sur les produits thérapeutiques et loi du 8 octobre 2004 sur la transplantation</td></tr>
-<tr><td>11. Règlement (CE) n<sup>o</sup> 178/2002 du Parlement européen et du Conseil du 28 janvier 2002 établissant les principes généraux et les prescriptions générales de la législation alimentaire et fixant des procédures relatives à la sécurité des denrées alimentaires, JO L 31 du 1.2.2002, p. 1</td><td>[tab] Loi du 20 juin 2014 sur les denrées alimentaires[^annex3-lvlu1-lvl1-9]</td></tr>
-<tr><td>12. Règlement (UE) n<sup>o</sup> 1025/2012 du Parlement européen et du Conseil du 25 octobre 2012 relatif à la normalisation européenne, modifiant les directives 89/686/CEE et 93/15/CEE du Conseil ainsi que les directives 94/9/CE, 94/25/CE, 95/16/CE, 97/23/CE, 98/34/CE, 2004/22/CE, 2007/23/CE, 2009/23/CE et 2009/105/CE du Parlement européen et du Conseil et abrogeant la décision 87/95/CEE du Conseil et la décision n<sup>o</sup> 1673/2006/CE du Parlement européen et du Conseil, JO L 316 du 14.11.2012, p. 12</td><td>[tab] Loi du 15 décembre 2000 sur les produits thérapeutiques et loi fédérale du 6 octobre 1995 sur les entraves techniques au commerce[^annex3-lvlu1-lvl1-10]</td></tr>
-<tr><td>13. Règlement (CE) n<sup>o</sup> 45/2001 du Parlement européen et du Conseil du 18 décembre 2000 relatif à la protection des personnes physiques à l’égard du traitement des données à caractère personnel par les institutions et organes communautaires et à la libre circulation de ces données, JO L 8 du 12.1.2001, p. 1</td><td>[tab] Loi fédérale du 25 septembre 2020 sur la protection des données[^annex3-lvlu1-lvl1-11]</td></tr>
-<tr><td>14. Règlement (CE) n<sup>o</sup> 765/2008 du Parlement européen et du Conseil du 9 juillet 2008 fixant les prescriptions relatives à l’accréditation et à la surveillance du marché pour la commercialisation des produits et abrogeant le règlement (CEE) n° 339/93 du Conseil, JO L 218 du 13.8.2008, p. 30</td><td>[tab] Loi fédérale du 6 octobre 1995 sur les entraves techniques au commerce et loi fédérale du 12 juin 2009 sur la sécurité des produits[^annex3-lvlu1-lvl1-12]</td></tr>
-<tr><td>15. Règlement (CE) n<sup>o</sup> 1907/2006 du Parlement européen et du Conseil du 18 décembre 2006 concernant l’enregistrement, l’évaluation et l’autorisation des substances chimiques, ainsi que les restrictions applicables à ces substances (REACH), instituant une agence européenne des produits chimiques, modifiant la directive 1999/45/CE et abrogeant le règlement (CEE) n° 793/93 du Conseil et le règlement (CE) n<sup>o</sup> 1488/94 de la Commission ainsi que la directive 76/769/CEE du Conseil et les directives 91/155/CEE, 93/67/CEE, 93/105/CE et 2000/21/CE de la Commission, JO L 396 du 30.12.2006, p. 1</td><td>[tab] Loi du 15 décembre 2000 sur les produits chimiques[^annex3-lvlu1-lvl1-13]</td></tr>
-<tr><td>16. Règlement (UE) n<sup>o</sup> 528/2012 du Parlement européen et du Conseil du 22 mai 2012 concernant la mise à disposition sur le marché et l’utilisation des produits biocides, JO L 167 du 27.6.2012, p. 1</td><td>[tab] Ordonnance du 18 mai 2005 sur les produits biocides[^annex3-lvlu1-lvl1-14]</td></tr>
-<tr><td>17. Directive 80/181/CEE du Conseil, du 20 décembre 1979, concernant le rapprochement des législations des États membres relatives aux unités de mesure et abrogeant la directive 71/354/CEE, JO L 39 du 15.2.1980, p. 40</td><td>[tab] Loi fédérale du 17 juin 2011 sur la métrologie[^annex3-lvlu1-lvl1-15]</td></tr>
-<tr><td>18. Directive 2013/59/Euratom du Conseil du 5 décembre 2013 fixant les normes de base relatives à la protection sanitaire contre les dangers résultant de l’exposition aux rayonnements ionisants et abrogeant les directives 89/618/Euratom, 90/641/Euratom, 96/29/Euratom, 97/43/Euratom et 2003/122/Euratom, JO L 13 du 17.1.2014, p. 1</td><td>[tab] Loi du 22 mars 1991 sur la radioprotection[^annex3-lvlu1-lvl1-16]</td></tr>
-<tr><td>19. Directive 2004/10/CE du Parlement européen et du Conseil du 11 février 2004 concernant le rapprochement des dispositions législatives, réglementaires et administratives relatives à l’application des principes de bonnes pratiques de laboratoire et au contrôle de leur application pour les essais sur les substances chimiques, JO L 50 du 20.2.2004, p. 44</td><td>[tab] Ordonnance du 18 mai 2005 sur les bonnes pratiques de laboratoire[^annex3-lvlu1-lvl1-17]</td></tr>
+<tr><td>11. Règlement (CE) n<sup>o</sup> 178/2002 du Parlement européen et du Conseil du 28 janvier 2002 établissant les principes généraux et les prescriptions générales de la législation alimentaire et fixant des procédures relatives à la sécurité des denrées alimentaires, JO L 31 du 1.2.2002, p. 1</td><td>[tab] Loi du 20 juin 2014 sur les denrées alimentaires[^annex3-lvlu1-lvl2-8]</td></tr>
+<tr><td>12. Règlement (UE) n<sup>o</sup> 1025/2012 du Parlement européen et du Conseil du 25 octobre 2012 relatif à la normalisation européenne, modifiant les directives 89/686/CEE et 93/15/CEE du Conseil ainsi que les directives 94/9/CE, 94/25/CE, 95/16/CE, 97/23/CE, 98/34/CE, 2004/22/CE, 2007/23/CE, 2009/23/CE et 2009/105/CE du Parlement européen et du Conseil et abrogeant la décision 87/95/CEE du Conseil et la décision n<sup>o</sup> 1673/2006/CE du Parlement européen et du Conseil, JO L 316 du 14.11.2012, p. 12</td><td>[tab] Loi du 15 décembre 2000 sur les produits thérapeutiques et loi fédérale du 6 octobre 1995 sur les entraves techniques au commerce[^annex3-lvlu1-lvl2-9]</td></tr>
+<tr><td>13. Règlement (CE) n<sup>o</sup> 45/2001 du Parlement européen et du Conseil du 18 décembre 2000 relatif à la protection des personnes physiques à l’égard du traitement des données à caractère personnel par les institutions et organes communautaires et à la libre circulation de ces données, JO L 8 du 12.1.2001, p. 1</td><td>[tab] Loi fédérale du 25 septembre 2020 sur la protection des données[^annex3-lvlu1-lvl2-10]</td></tr>
+<tr><td>14. Règlement (CE) n<sup>o</sup> 765/2008 du Parlement européen et du Conseil du 9 juillet 2008 fixant les prescriptions relatives à l’accréditation et à la surveillance du marché pour la commercialisation des produits et abrogeant le règlement (CEE) n° 339/93 du Conseil, JO L 218 du 13.8.2008, p. 30</td><td>[tab] Loi fédérale du 6 octobre 1995 sur les entraves techniques au commerce et loi fédérale du 12 juin 2009 sur la sécurité des produits[^annex3-lvlu1-lvl2-11]</td></tr>
+<tr><td>15. Règlement (CE) n<sup>o</sup> 1907/2006 du Parlement européen et du Conseil du 18 décembre 2006 concernant l’enregistrement, l’évaluation et l’autorisation des substances chimiques, ainsi que les restrictions applicables à ces substances (REACH), instituant une agence européenne des produits chimiques, modifiant la directive 1999/45/CE et abrogeant le règlement (CEE) n° 793/93 du Conseil et le règlement (CE) n<sup>o</sup> 1488/94 de la Commission ainsi que la directive 76/769/CEE du Conseil et les directives 91/155/CEE, 93/67/CEE, 93/105/CE et 2000/21/CE de la Commission, JO L 396 du 30.12.2006, p. 1</td><td>[tab] Loi du 15 décembre 2000 sur les produits chimiques[^annex3-lvlu1-lvl2-12]</td></tr>
+<tr><td>16. Règlement (UE) n<sup>o</sup> 528/2012 du Parlement européen et du Conseil du 22 mai 2012 concernant la mise à disposition sur le marché et l’utilisation des produits biocides, JO L 167 du 27.6.2012, p. 1</td><td>[tab] Ordonnance du 18 mai 2005 sur les produits biocides[^annex3-lvlu1-lvl2-13]</td></tr>
+<tr><td>17. Directive 80/181/CEE du Conseil, du 20 décembre 1979, concernant le rapprochement des législations des États membres relatives aux unités de mesure et abrogeant la directive 71/354/CEE, JO L 39 du 15.2.1980, p. 40</td><td>[tab] Loi fédérale du 17 juin 2011 sur la métrologie[^annex3-lvlu1-lvl2-14]</td></tr>
+<tr><td>18. Directive 2013/59/Euratom du Conseil du 5 décembre 2013 fixant les normes de base relatives à la protection sanitaire contre les dangers résultant de l’exposition aux rayonnements ionisants et abrogeant les directives 89/618/Euratom, 90/641/Euratom, 96/29/Euratom, 97/43/Euratom et 2003/122/Euratom, JO L 13 du 17.1.2014, p. 1</td><td>[tab] Loi du 22 mars 1991 sur la radioprotection[^annex3-lvlu1-lvl2-15]</td></tr>
+<tr><td>19. Directive 2004/10/CE du Parlement européen et du Conseil du 11 février 2004 concernant le rapprochement des dispositions législatives, réglementaires et administratives relatives à l’application des principes de bonnes pratiques de laboratoire et au contrôle de leur application pour les essais sur les substances chimiques, JO L 50 du 20.2.2004, p. 44</td><td>[tab] Ordonnance du 18 mai 2005 sur les bonnes pratiques de laboratoire[^annex3-lvlu1-lvl2-16]</td></tr>
 <tr><td>20. Directive 90/385/CEE du Conseil, du 20 juin 1990, concernant le rapprochement des législations des États membres relatives aux dispositifs médicaux implantables actifs, JO L 189 du 20.7.1990, p. 17</td><td>[tab] Ordonnance du 17 octobre 2001 sur les dispositifs médicaux</td></tr>
 <tr><td>21. Directive 93/42/CEE du Conseil, du 14 juin 1993, relative aux dispositifs médicaux, JO L 169 du 12.7.1993, p. 1</td><td>[tab] Ordonnance du 17 octobre 2001 sur les dispositifs médicaux</td></tr>
 </table>
 
-[^annex3-lvlu1-lvl1-1]: Cf. note de bas de page relative à l’art. 4, al. 1, let. f.
-[^annex3-lvlu1-lvl1-2]: Cf. note de bas de page relative à l’art. 4, al. 1, let. f.
-[^annex3-lvlu1-lvl1-3]: [RS 812.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9354)
-[^annex3-lvlu1-lvl1-4]: [RS 221.112.944](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5851)
-[^annex3-lvlu1-lvl1-5]: [RS 734.5](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8590)
-[^annex3-lvlu1-lvl1-6]: [RS 819.14](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9850)
-[^annex3-lvlu1-lvl1-7]: [RS 817.023.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9692)
-[^annex3-lvlu1-lvl1-8]: [RS 810.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9239)
-[^annex3-lvlu1-lvl1-9]: [RS 817.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9645)
-[^annex3-lvlu1-lvl1-10]: [RS 946.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11467)
-[^annex3-lvlu1-lvl1-11]: [RS 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
-[^annex3-lvlu1-lvl1-12]: [RS 930.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11020)
-[^annex3-lvlu1-lvl1-13]: [RS 813.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9395)
-[^annex3-lvlu1-lvl1-14]: [RS 813.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9400)
-[^annex3-lvlu1-lvl1-15]: [RS 941.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11170)
-[^annex3-lvlu1-lvl1-16]: [RS 814.50](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9533)
-[^annex3-lvlu1-lvl1-17]: [RS 813.112.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9397)
+[^annex3-lvlu1-lvl2-1]: Cf. note de bas de page relative à l’art. 4, al. 1, let. f.
+[^annex3-lvlu1-lvl2-2]: [RS 812.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9354)
+[^annex3-lvlu1-lvl2-3]: [RS 221.112.944](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5851)
+[^annex3-lvlu1-lvl2-4]: [RS 734.5](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8590)
+[^annex3-lvlu1-lvl2-5]: [RS 819.14](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9850)
+[^annex3-lvlu1-lvl2-6]: [RS 817.023.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9692)
+[^annex3-lvlu1-lvl2-7]: [RS 810.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9239)
+[^annex3-lvlu1-lvl2-8]: [RS 817.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9645)
+[^annex3-lvlu1-lvl2-9]: [RS 946.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11467)
+[^annex3-lvlu1-lvl2-10]: [RS 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
+[^annex3-lvlu1-lvl2-11]: [RS 930.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11020)
+[^annex3-lvlu1-lvl2-12]: [RS 813.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9395)
+[^annex3-lvlu1-lvl2-13]: [RS 813.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9400)
+[^annex3-lvlu1-lvl2-14]: [RS 941.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11170)
+[^annex3-lvlu1-lvl2-15]: [RS 814.50](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9533)
+[^annex3-lvlu1-lvl2-16]: [RS 813.112.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9397)
 
 Annexe 4[^t-3]
 
@@ -2013,11 +2022,11 @@ Annexe 5
 
 La représentation graphique du marquage de conformité est la suivante:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/552/20231101/fr/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/552/20260701/fr/xml/image/image1.png)
 
 En cas de recours à un organisme désigné, le numéro d’identification de l’organisme est ajouté à côté du marquage de conformité.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/552/20231101/fr/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/552/20260701/fr/xml/image/image2.png)
 
 Annexe 5a[^t-4]
 
