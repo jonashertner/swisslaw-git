@@ -4,13 +4,12 @@ number: II A/6/2
 title: Personalverordnung
 short: PV
 language: de
-version: 2025-01-01
-valid_until: 2026-06-30
-version_adopted: 2024-08-13
+version: 2026-07-01
+version_adopted: 2026-07-02
 adopted: 2017-07-06
 in_force: 2017-08-01
 url: "https://gesetze.gl.ch/app/de/texts_of_law/II-A.6.2"
-pdf: "https://gesetze.gl.ch/api/de/versions/2660/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2661/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://gesetze.gl.ch/api/de/versions/2660/pdf_file"
 
 (PV)
 
-Vom 06.07.2017 (Stand 01.01.2025)
+Vom 06.07.2017 (Stand 01.07.2026)
 
 Der Regierungsrat,
 
@@ -1112,15 +1111,15 @@ erlässt:
 
 #### Art. 88
 
-**Nacht-, Sonntags- und Schichtdienst**
+**Abend-, Nacht-, Samstags-, Sonntags- und Schichtdienst**
 
-<sup>1</sup> Die angestellte Person, die mit einer gewissen Regelmässigkeit über eine längere Zeitspanne ausserhalb des Arbeitszeitrahmens (Art. 59) angeordneten Nacht- oder Sonntagsdienst (inkl. Feiertage) leistet oder ihre Arbeit im Schichtdienst erbringt, hat Anspruch auf eine Zulage pro Arbeitsstunde.
+<sup>1</sup> Die angestellte Person, die ausserhalb des Arbeitszeitrahmens (Art. 59) angeordnete Abend- und Nachtarbeit oder Samstags- und Sonntagsarbeit (inkl. Feiertage) leistet oder ihre Arbeit im Schichtdienst erbringt, hat Anspruch auf eine Zulage pro Arbeitsstunde.
 
 <sup>2</sup> Die Höhe der Zulage richtet sich nach dem Anhang.
 
 <sup>3</sup> Anstelle der Zulage pro Arbeitsstunde können Pauschalen gemäss Anhang ausgerichtet werden.
 
-<sup>4</sup> Vorgesetzte Personen haben keinen Anspruch auf zusätzliche Vergütung. Ausnahmen regelt der Anhang.
+<sup>4</sup> …
 
 #### Art. 89
 
@@ -1130,7 +1129,7 @@ erlässt:
 
 <sup>2</sup> Die Höhe der Entschädigung richtet sich nach dem Anhang.
 
-<sup>3</sup> Vorgesetzte Personen haben keinen Anspruch auf zusätzliche Vergütung. Ausnahmen regelt der Anhang.
+<sup>3</sup> …
 
 #### Art. 90
 
@@ -1592,20 +1591,23 @@ erlässt:
 
 <sup>1</sup> Pauschale Pikett- und Inkonvenienzentschädigung gemäss den Artikeln 88 und 89:
 
-- a. Sozialdienst: 160 Fr./Woche;
-- b. Staatsanwaltschaft: 250 Fr./Monat;
-- c. Umwelt und Energie: 200 Fr./Monat;
-- d. Wildhüter: 200 Fr./Monat für Pikettentschädigung, 200 Fr./Monat für Nacht- und Sonntagsarbeit;
-- d1. Fischereiaufseher: 120 Fr./Monat für Nacht- und Sonntagsarbeit;
-- e. Winterpikett Strassenunterhalt: 21 Fr./Tag;
-- f. Bereitschaftsdienst Lawinenzentrale (für die Monate November bis April): 200 Fr./Monat;
-- g. Gefängnisaufsicht: 21 Fr./Tag;
-- h. unvorhersehbare Arbeitseinsätze (Naturereignisse, Unfälle) ausserhalb der üblichen Arbeitszeit Strassenunterhalt: 21 Fr./Einsatz.
+- a. Sozialdienst: — 40 Fr./Tag;
+- b. Staatsanwaltschaft: — 50 Fr./Tag;
+- c. Umwelt und Energie: — 40 Fr./Tag;
+- d. Wildhüter: — 200 Fr./Monat für Pikettentschädigung, 200 Fr./Monat für Nacht- und Sonntagsarbeit;
+- d1. Fischereiaufseher: — 120 Fr./Monat für Nacht- und Sonntagsarbeit;
+- e. Winterpikett Strassenunterhalt: — 30 Fr./Tag;
+- f. Bereitschaftsdienst Lawinenzentrale (für die Monate November bis April): — 200 Fr./Monat;
+- g. Gefängnisaufsicht: — 30 Fr./Tag;
+- h. unvorhersehbare Arbeitseinsätze (Naturereignisse, Unfälle) ausserhalb der üblichen Arbeitszeit Strassenunterhalt: — 30 Fr./Tag;
+- i. Informatik: — 40 Fr./Tag.
+
+<sup>1a</sup> An Wochenenden und Feiertagen erhöhen sich die Tagespauschalen gemäss Absatz 1 um 10 Franken pro Tag.
 
 <sup>2</sup> Lohnzuschläge gemäss Artikel 88:
 
-- a. angeordnete Abend- und Nachtarbeit (zwischen 20 und 6 Uhr): 7 Fr./Stunde;
-- b. angeordnete Arbeit an Samstagen, Sonn- und Feiertagen: 7 Fr./Stunde.
+- a. angeordnete Abend- und Nachtarbeit (zwischen 20 und 6 Uhr): 8.50 Fr./Stunde;
+- b. angeordnete Arbeit an Samstagen, Sonn- und Feiertagen: 8.50 Fr./Stunde.
 
 ## A2. Anhang: Personelle Ereignisse mit dienstlichem Charakter
 
@@ -1615,12 +1617,12 @@ erlässt:
 
 <sup>1</sup> Maximalbeträge für personelle Ereignisse mit dienstlichem Charakter gemäss Artikel 114a:
 
-- a. Personalanlässe (Ausflüge, Weihnachtsessen und Ähnliches): 150 Fr. pro angestellte Person und Jahr;
+- a. Personalanlässe und weitere Massnahmen zugunsten des Personals: 150 Fr. pro angestellte Person und Jahr;
 - b. Eintrittsgeschenk: 50 Fr.;
 - c. Dienstjubiläum ab dem vollendeten 10. Dienstjahr alle 5 Jahre: Mittagessen, Apéro oder dergleichen mit der vorgesetzten Stelle: 150 Fr. insgesamt;
 - d. Dienstjubiläumgsgeschenk ab dem vollendeten 20. Dienstjahr alle 5 Jahre: Kosten für Apéro und Geschenk, organisiert durch die Hauptabteilung Personal und Organisation;
 - e. Pensionierungsgeschenk: 300 Fr.;
-- f. längere Krankheit oder Unfall: 50 Fr. für Karte und Geschenk;
+- f. längere Krankheit oder Unfall: 80 Fr. für Karte und Geschenk;
 - g. Todesfall einer angestellten Person: Kosten für Kondolenzschreiben, Todesanzeige, Spende und Kranz (in Rücksprache mit der Staatskanzlei).
 
 SBE 2017 12
