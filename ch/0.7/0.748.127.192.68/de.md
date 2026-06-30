@@ -3,11 +3,11 @@ sr: "0.748.127.192.68"
 title: Abkommen vom 21. Juni 1999 zwischen der Schweizerischen Eidgenossenschaft und der Europäischen Gemeinschaft über den Luftverkehr (mit Anhang und Schlussakte)
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/258"
 language: de
-version: 2026-02-01
+version: 2026-07-01
 adopted: 1999-06-21
 in_force: 2002-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/258/20260201/de/xml/fedlex-data-admin-ch-eli-cc-2002-258-20260201-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/258/20260201/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/258/20260701/de/xml/fedlex-data-admin-ch-eli-cc-2002-258-20260701-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/258/20260701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -26,7 +26,7 @@ Schweizerische Ratifikationsurkunde hinterlegt am 16. Oktober 2000
 
 In Kraft getreten am 1. Juni 2002
 
-(Stand am 1. Februar 2026)
+(Stand am 1. Juli 2026)
 
 [^t-1]: Art. 1 Abs. 1 Bst. e des BB vom 8. Okt. 1999 ([AS 2002 1527](https://fedlex.data.admin.ch/eli/oc/2002/242))
 
@@ -372,7 +372,7 @@ Für die Zwecke dieses Abkommens gilt Folgendes:
 
 ## 1. Liberalisierung des Luftverkehrs und sonstige Regeln für die Zivilluftfahrt
 
-[^t-2]: Fassung gemäss Beschluss Nr. 3/2025 des Luftverkehrsausschusses Schweiz/EU vom 26. Nov. 2025, in Kraft getreten für die Schweiz am 1. Febr. 2026 ([AS 2026 43](https://fedlex.data.admin.ch/eli/oc/2026/43)).
+[^t-2]: Fassung gemäss Beschluss Nr. 1/2026 des Luftverkehrsausschusses EU/Schweiz vom 15. Juni 2026, in Kraft getreten für die Schweiz am 1. Juli 2026 ([AS 2026 353](https://fedlex.data.admin.ch/eli/oc/2026/353)).
 
 **Verordnung (EG) Nr. 1008/2008** des Europäischen Parlaments und des Rates vom 24. September 2008 über gemeinsame Vorschriften für die Durchführung von Luftverkehrsdiensten in der Gemeinschaft (Neufassung), (ABl. L 293 vom 31.10.2008, S. 3), geändert durch:
 
@@ -443,9 +443,13 @@ Im Zusammenhang mit den in Artikel 4 Absätze 4 und 5, Artikel 9 Absätze 2 und 
 - 1\. Die Europäische Kommission übermittelt alle im Zusammenhang mit Artikel 4 Absätze 4 und 5, Artikel 9 Absätze 2 und 6 und Artikel 22 Absatz 2 relevanten Dokumente unverzüglich der schweizerischen Wettbewerbsbehörde.
 - 2\. Die Laufzeit der in Artikel 4 Absätze 4 und 5, Artikel 9 Absätze 2 und 6 und Artikel 22 Absatz 2 der Verordnung (EG) Nr. 139/2004 genannten Fristen beginnt für die Schweizerische Eidgenossenschaft mit dem Eingang der jeweiligen Dokumente bei der schweizerischen Wettbewerbsbehörde.
 
-**Durchführungsverordnung (EU) 2023/914 der Kommission** vom 20. April 2023 zur Durchführung der Verordnung (EG) Nr. 139/2004 des Rates über die Kontrolle von Unternehmenszusammenschlüssen und zur Aufhebung der Verordnung (EG) Nr. 802/2004 der Kommission (ABl. L 119 vom 5.5.2023, S. 22).
+**Durchführungsverordnung (EU) 2023/914 der Kommission** vom 20. April 2023 zur Durchführung der Verordnung (EG) Nr. 139/2004 des Rates über die Kontrolle von Unternehmenszusammenschlüssen und zur Aufhebung der Verordnung (EG) Nr. 802/2004 der Kommission (ABl. L 119 vom 5.5.2023, S. 22), geändert durch:
 
-**Richtlinie 2006/111/EG der Kommission** vom 16. November 2006 über die Transparenz der finanziellen Beziehungen zwischen den Mitgliedstaaten und den öffentlichen Unternehmen sowie über die finanzielle Transparenz innerhalb bestimmter Unternehmen (kodifizierte Fassung) (Text von Bedeutung für den EWR) (ABl. L 318 vom 17.11.2006, S. 17).
+- – Durchführungsverordnung (EU) 2024/2776 der Kommission (ABl. L 2024/2776 vom 8.11.2024).
+
+**Richtlinie 2006/111/EG der Kommission** vom 16. November 2006 über die Transparenz der finanziellen Beziehungen zwischen den Mitgliedstaaten und den öffentlichen Unternehmen sowie über die finanzielle Transparenz innerhalb bestimmter Unternehmen (kodifizierte Fassung) (Text von Bedeutung für den EWR) (ABl. L 318 vom 17.11.2006, S. 17), geändert durch:
+
+- – Richtlinie (EU) 2025/1442 der Kommission (ABl. L 2025/1442 vom 21.7.2025).
 
 **Verordnung (EG) Nr. 487/2009 des Rates** vom 25. Mai 2009 zur Anwendung von Artikel 81 Absatz 3 des Vertrags auf bestimmte Gruppen von Vereinbarungen und aufeinander abgestimmten Verhaltensweisen im Luftverkehr (kodifizierte Fassung) (Text von Bedeutung für den EWR) (ABl. L 148 vom 11.6.2009, S. 1).
 
@@ -488,15 +492,15 @@ Der Wortlaut der Verordnung ist für die Zwecke dieses Abkommens mit folgenden A
 
   - [tab] S (0,2/100) + S [1 – (a+b) 0,2/100] c/C
   - [tab] Dabei ist:
-  - [tab] S = der Teil des Haushalts der Agentur, der nicht durch die in Absatz 1 Buchstaben c und d genannten Gebühren und Entgelte abgedeckt ist
-  - [tab] a = Zahl der assoziierten Staaten
-  - [tab] b = Zahl der EU-Mitgliedstaaten
-  - [tab] c = Beitrag der Schweiz zum ICAO-Haushalt
-  - [tab] C = Gesamtbeitrag der EU-Mitgliedstaaten und der assoziierten Staaten zum ICAO-Haushalt.»
+  - S = der Teil des Haushalts der Agentur, der nicht durch die in Absatz 1 Buchstaben c und d genannten Gebühren und Entgelte abgedeckt ist
+  - a = Zahl der assoziierten Staaten
+  - b = Zahl der EU-Mitgliedstaaten
+  - c = Beitrag der Schweiz zum ICAO-Haushalt
+  - C = Gesamtbeitrag der EU-Mitgliedstaaten und der assoziierten Staaten zum ICAO-Haushalt.»
 
 - f) In Artikel 122 wird folgender Absatz angefügt:
 - «(6) Die Bestimmungen für die Finanzkontrolle in der Schweiz durch die Union im Hinblick auf die Teilnehmer an den Aktivitäten der Agentur sind in Anhang B zu diesem Anhang niedergelegt.»
-- g) Anhang I der Verordnung wird auf folgende Luftfahrzeuge als Produkte im Sinne von Artikel 3 Absatz 1 Buchstabe a der Verordnung (EU) Nr. 748/2012 der Kommission vom 3. August 2012[^annexu1-lvl3-1] zur Festlegung der Durchführungsbestimmungen für die Erteilung von Lufttüchtigkeits- und Umweltzeugnissen für Luftfahrzeuge und zugehörige Produkte, Bau- und Ausrüstungsteile sowie für die Zulassung von Entwicklungs- und Herstellungsbetrieben ausgedehnt:
+- g) Anhang I der Verordnung wird auf folgende Luftfahrzeuge als Produkte im Sinne von Artikel 3 Absatz 1 Buchstabe a der Verordnung (EU) Nr. 748/2012 der Kommission vom 3. August 2012[^annexu1-lvl3-1] zur Festlegung der Durchführungsbestimmungen für die Erteilung von Lufttüchtigkeits- und Umweltzeugnissen oder die Abgabe von Compliance-Erklärungen für Luftfahrzeuge und zugehörige Produkte, Bau- und Ausrüstungsteile sowie für die Anforderungen an die Befähigung von Entwicklungs- und Herstellungsbetrieben ausgedehnt:
 - Luftfahrzeug – [HB-JES] – Muster Gulfstream G-V
 - Luftfahrzeug – [HB-ZDF] – Muster MD900.
 - h) In Artikel 132 Absatz 1 ist die Bezugnahme auf die Verordnung (EU) 2016/679 hinsichtlich der Schweiz als Bezugnahme auf die einschlägigen nationalen Rechtsvorschriften zu verstehen.
@@ -509,7 +513,8 @@ Der Wortlaut der Verordnung ist für die Zwecke dieses Abkommens mit folgenden A
 **Durchführungsverordnung (EU) 2023/203 der Kommission** vom 27. Oktober 2022 zur Festlegung von Vorschriften für die Anwendung der Verordnung (EU) 2018/1139 des Europäischen Parlaments und des Rates hinsichtlich der Anforderungen an das Management von Informationssicherheitsrisiken mit potenziellen Auswirkungen auf die Flugsicherheit für Organisationen, die unter die Verordnungen (EU) Nr. 1321/2014, (EU) Nr. 965/2012, (EU) Nr. 1178/2011, (EU) 2015/340 der Kommission, die Durchführungsverordnungen (EU) 2017/373 und (EU) 2021/664 der Kommission fallen, sowie für zuständige Behörden, die unter die Verordnungen (EU) Nr. 748/2012, (EU) Nr. 1321/2014, (EU) Nr. 965/2012, (EU) Nr. 1178/2011, (EU) 2015/340 und (EU) Nr. 139/2014 der Kommission und die Durchführungsverordnungen (EU) 2017/373 und (EU) 2021/664 der Kommission fallen, sowie zur Änderung der Verordnungen (EU) Nr. 1178/2011, (EU) Nr. 748/2012, (EU) Nr. 965/2012, (EU) Nr. 139/2014, (EU) Nr. 1321/2014, (EU) 2015/340 der Kommission und der Durchführungsverordnungen (EU) 2017/373 und (EU) 2021/664 der Kommission (ABl. L 31 vom 2.2.2023, S. 1), geändert durch:
 
 - – Durchführungsverordnung (EU) Nr. 2023/1769 der Kommission (ABl. L 228 vom 15.9.2023, S. 19),
-- – Durchführungsverordnung (EU) 2024/1109 der Kommission (ABl. L 2024/1109 vom 23.5.2024).
+- – Durchführungsverordnung (EU) 2024/1109 der Kommission (ABl. L 2024/1109 vom 23.5.2024),
+- – Durchführungsverordnung (EU) 2025/2293 der Kommission (ABl. L 2025/2293 vom 11.11.2025).
 
 **Durchführungsverordnung (EU) 2023/2117 der Kommission** vom 12. Oktober 2023 zur Festlegung der für die Funktionsweise und die Verwaltung des Informationsspeichers nach der Verordnung (EU) 2018/1139 des Europäischen Parlaments und des Rates erforderlichen Vorschriften und detaillierten Anforderungen, ABl. L, 2023/2117, 13.10.2023, geändert durch:
 
@@ -534,7 +539,7 @@ Bezugnahmen auf die Verordnung (EU) 2016/679[^annexu1-lvl3-2] in der Durchführu
 - – Verordnung (EU) 2016/539 der Kommission (ABl. L 91 vom 7.4.2016, S. 1),
 - – Verordnung (EU) 2018/1065 der Kommission (ABl. L 192 vom 30.7.2018, S. 21),
 - – Verordnung (EU) 2018/1119 der Kommission (ABl. L 204 vom 13.8.2018, S. 13),
-- – Verordnung (EU) 2018/1974 der Kommission (ABl. L 326 vom 20.12.2018, S. 1),
+- – Durchführungsverordnung (EU) 2018/1974 der Kommission (ABl. L 326 vom 20.12.2018, S. 1),
 - – Verordnung (EU) 2019/27 der Kommission (ABl. L 8 vom 10.1.2019, S. 1),
 - – Durchführungsverordnung (EU) 2019/430 der Kommission (ABl. L 75 vom 19.3.2019, S. 66),
 - – Durchführungsverordnung (EU) 2019/1747 der Kommission (ABl. L 268 vom 22.10.2019, S. 23),
@@ -548,7 +553,10 @@ Bezugnahmen auf die Verordnung (EU) 2016/679[^annexu1-lvl3-2] in der Durchführu
 - – Durchführungsverordnung (EU) 2024/1111 der Kommission (ABl. L 2024/1111, 23.5.2024),
 - – Durchführungsverordnung (EU) 2024/2076 der Kommission (ABl. L 2024/2076, 25.7.2024),
 - – Durchführungsverordnung (EU) 2024/2857 der Kommission (ABl. L 2024/2857, 12.11.2024),
-- – Durchführungsverordnung (EU) 2025/134 der Kommission (ABl. L 2025/134 vom 29.1.2025).
+- – Durchführungsverordnung (EU) 2025/134 der Kommission (ABl. L 2025/134 vom 29.1.2025),
+- – Durchführungsverordnung (EU) 2025/1345 der Kommission (ABl. L 2025/1345 vom 15.7.2025),
+- – Durchführungsverordnung (EU) 2025/2293 der Kommission (ABl. L 2025/2293 vom 11.11.2025),
+- – Durchführungsverordnung (EU) 2025/2253 der Kommission (ABl. L 2025/2253 vom 12.11.2025).
 
 Bezugnahmen auf die Verordnung (EU) 2016/679[^annexu1-lvl3-3] in den Verordnungen (EU) 2024/1111 und (EU) 2024/2076 sind hinsichtlich der Schweiz als Bezugnahmen auf ihre einschlägigen nationalen Rechtsvorschriften zu verstehen.
 
@@ -580,7 +588,7 @@ Gemäss Artikel 139 der Verordnung (EU) 2018/1139 wird die Verordnung (EWG) Nr. 
 
 **Verordnung (EG) Nr. 474/2006 der Kommission** vom 22. März 2006 zur Erstellung der in Kapitel II der Verordnung (EG) Nr. 2111/2005 des Europäischen Parlaments und des Rates genannten gemeinschaftlichen Liste der Luftfahrtunternehmen, gegen die in der Gemeinschaft eine Betriebsuntersagung ergangen ist (ABl. L 84 vom 23.3.2006, S. 14), zuletzt geändert durch:
 
-- – Durchführungsverordnung (EU) 2025/1144 der Kommission (ABl. L 2025/1144 vom 4.6.2025).
+- – Durchführungsverordnung (EU) 2025/2476 der Kommission (ABl. L 2025/2476 vom 9.12.2025).
 
 **Verordnung (EU) Nr. 1332/2011 der Kommission** vom 16. Dezember 2011 zur Festlegung gemeinsamer Anforderungen für die Nutzung des Luftraums und gemeinsamer Betriebsverfahren für bordseitige Kollisionswarnsysteme (Text von Bedeutung für den EWR) (ABl. L 336 vom 20.12.2011, S. 20), geändert durch:
 
@@ -608,7 +616,11 @@ Gemäss Artikel 139 der Verordnung (EU) 2018/1139 wird die Verordnung (EWG) Nr. 
 - – Durchführungsverordnung (EU) 2023/203 der Kommission (ABl. L 31 vom 2.2.2023, S. 1),
 - – Delegierte Verordnung (EU) 2023/1028 der Kommission (ABl. L 139 vom 26.5.2023, S. 10),
 - – Delegierte Verordnung (EU) 2024/1108 der Kommission (ABl. L 2024/1108, 23.5.2024),
-- – Durchführungsverordnung (EU) 2024/1110 der Kommission (ABl. L 2024/1110 vom 23.5.2024).
+- – Durchführungsverordnung (EU) 2024/1110 der Kommission (ABl. L 2024/1110 vom 23.5.2024),
+- – Durchführungsverordnung (EU) 2025/1065 der Kommission (ABl. L 2025/1065 vom 12.8.2025),
+- – Durchführungsverordnung (EU) 2025/2293 der Kommission (ABl. L 2025/2293 vom 11.11.2025),
+- – Delegierte Verordnung (EU) 2026/56 der Kommission (ABl. L 2026/56 vom 19.1.2026),
+- – Durchführungsverordnung (EU) 2026/100 der Kommission (ABl. L 2026/100 vom 19.1.2026).
 
 **Verordnung (EU) Nr. 965/2012 der Kommission** vom 5. Oktober 2012 zur Festlegung technischer Vorschriften und von Verwaltungsverfahren in Bezug auf den Flugbetrieb gemäss der Verordnung (EG) Nr. 216/2008 des Europäischen Parlaments und des Rates (ABl. L 296 vom 25.10.2012, S. 1), geändert durch:
 
@@ -652,7 +664,8 @@ Gemäss Artikel 139 der Verordnung (EU) 2018/1139 wird die Verordnung (EWG) Nr. 
 - – Durchführungsverordnung (EU) 2024/1111 der Kommission (ABl. L 2024/1111, 23.5.2024),
 - – Durchführungsverordnung (EU) 2024/2076 der Kommission (ABl. L 2024/2076, 25.7.2024),
 - – Durchführungsverordnung (EU) 2025/133 der Kommission (ABl. L 2025/133 vom 29.1.2025).
-- – Durchführungsverordnung (EU) 2025/24 der Kommission (ABl. L, 2025/24, 7.3.2025).
+- – Durchführungsverordnung (EU) 2025/24 der Kommission (ABl. L, 2025/24, 7.3.2025),
+- – Durchführungsverordnung (EU) 2025/2293 der Kommission (ABl. L 2025/2293 vom 11.11.2025).
 
 Bezugnahmen auf die Verordnung (EU) 2016/679[^annexu1-lvl3-4] in den Verordnungen (EU) 2024/1111 und (EU) 2024/2076 sind hinsichtlich der Schweiz als Bezugnahmen auf ihre einschlägigen nationalen Rechtsvorschriften zu verstehen.
 
@@ -677,11 +690,12 @@ Bezugnahmen auf die Verordnung (EU) 2016/679[^annexu1-lvl3-4] in den Verordnunge
 - – Durchführungsverordnung (EU) 2023/203 der Kommission (ABl. L 31 vom 2.2.2023, S. 1),
 - – Delegierte Verordnung (EU) 2023/369 der Kommission (ABl. L 51 vom 20.2.2023, S. 23),
 - – Durchführungsverordnung (EU) Nr. 2024/894 der Kommission (ABl. L 2024/894 vom 20.3.2024),
-- – Delegierte Verordnung (EU) 2024/405 der Kommission (ABl. L 2024/405, 11.4.2024),
-- – Delegierte Verordnung (EU) 2024/1400 der Kommission (ABl. L 2024/1400, 24.5.2024),
-- – Delegierte Verordnung (EU) 2025/21 der Kommission (ABl. L, 2025/21, 7.3.2025).
+- – Delegierte Verordnung (EU) 2024/405 der Kommission (ABl. L 2024/405 vom 11.4.2024),
+- – Delegierte Verordnung (EU) 2024/1400 der Kommission (ABl. L 2024/1400 vom 24.5.2024),
+- – Delegierte Verordnung (EU) 2025/21 der Kommission (ABl. L 2025/21 vom 7.3.2025),
+- – Durchführungsverordnung (EU) 2025/2293 der Kommission (ABl. L 2025/2293 vom 11.11.2025).
 
-**Durchführungsverordnung (EU) 2019/2153 der Kommission** vom 16. Dezember 2019 über die von der Agentur der Europäischen Union für Flugsicherheit erhobenen Gebühren und Entgelte und zur Aufhebung der Verordnung (EU) Nr. 319/2014 (ABl. L 327 vom 17.12.2019, S. 36).
+**Durchführungsverordnung (EU) 2025/2347 der Kommission vom 21. November 2025** über die von der Agentur der Europäischen Union für Flugsicherheit erhobenen Gebühren und Entgelte und zur Aufhebung der Durchführungsverordnung (EU) 2019/2153 (ABl. L 2025/2347 vom 24.11.2025).
 
 **Verordnung (EU) Nr. 376/2014** des Europäischen Parlaments und des Rates vom 3. April 2014 über die Meldung, Analyse und Weiterverfolgung von Ereignissen in der Zivilluftfahrt, zur Änderung der Verordnung (EU) Nr. 996/2010 des Europäischen Parlaments und des Rates und zur Aufhebung der Richtlinie 2003/42/EG des Europäischen Parlaments und des Rates und der Verordnungen (EG) Nr. 1321/2007 und (EG) Nr. 1330/2007 der Kommission (Text von Bedeutung für den EWR) (ABl. L 122 vom 24.4.2014, S. 18), geändert durch:
 
@@ -713,13 +727,18 @@ Bezugnahmen auf die Verordnung (EU) 2016/679[^annexu1-lvl3-4] in den Verordnunge
 - – Durchführungsverordnung (EU) 2023/203 der Kommission (ABl. L 31 vom 2.2.2023, S. 1),
 - – Durchführungsverordnung (EU) 2023/989 der Kommission (ABl. L 135 vom 23.5.2023, S. 53),
 - – Durchführungsverordnung (EU) 2023/1152 der Kommission (ABl. L 152 vom 13.6.2023, S. 5),
-- – Durchführungsverordnung (EU) 2025/111 der Kommission (ABl. L 2025/111 vom 24.1.2025).
+- – Durchführungsverordnung (EU) 2025/111 der Kommission (ABl. L 2025/111 vom 24.1.2025),
+- – Durchführungsverordnung (EU) 2025/2070 der Kommission (ABl. L 2025/2070 vom 14.10.2025),
+- – Durchführungsverordnung (EU) 2025/2293 der Kommission (ABl. L 2025/2293 vom 11.11.2025),
+- – Durchführungsverordnung (EU) 2026/100 der Kommission (ABl. L 2026/100 vom 19.1.2026).
 
 **Verordnung (EU) 2015/340 der Kommission** vom 20. Februar 2015 zur Festlegung technischer Vorschriften und von Verwaltungsverfahren in Bezug auf Lizenzen und Bescheinigungen von Fluglotsen gemäss der Verordnung (EG) Nr. 216/2008 des Europäischen Parlaments und des Rates, zur Änderung der Durchführungsverordnung (EU) Nr. 923/2012 der Kommission und zur Aufhebung der Verordnung (EU) Nr. 805/2011 der Kommission (Text von Bedeutung für den EWR) (ABl. L 63 vom 6.3.2015, S. 1), geändert durch:
 
 - – Durchführungsverordnung (EU) 2023/203 der Kommission (ABl. L 31 vom 2.2.2023, S. 1),
 - – Durchführungsverordnung (EU) 2023/893 der Kommission (ABl. L 118 vom 4.5.2023, S. 1),
-- – Durchführungsverordnung (EU) Nr. 2023/2163 der Kommission (ABl. L 2023/2163, 18.10.2023).
+- – Durchführungsverordnung (EU) 2023/2163 der Kommission (ABl. L 2023/2163, 18.10.2023),
+- – Durchführungsverordnung (EU) 2025/2143 der Kommission (ABl. L 2025/2143 vom 24.10.2025),
+- – Durchführungsverordnung (EU) 2025/2293 der Kommission (ABl. L vom 11.11.2025).
 
 **Verordnung (EU) 2015/640 der Kommission** vom 23. April 2015 über zusätzliche Anforderungen an die Lufttüchtigkeit für bestimmte Betriebsarten und zur Änderung der Verordnung (EU) Nr. 965/2012 (ABl. L 106 vom 24.4.2015, S. 18), geändert durch:
 
@@ -752,7 +771,7 @@ Bezugnahmen auf die Verordnung (EU) 2016/679[^annexu1-lvl3-4] in den Verordnunge
 - – Delegierte Verordnung (EU) 2020/1058 der Kommission vom 27. April 2020 (ABl. L 232 vom 20.7.2020, S. 1),
 - – Delegierte Verordnung (EU) 2022/851 der Kommission vom 22. März 2022 (ABl. L 150 vom 1.6.2022, S. 21),
 - – Delegierte Verordnung (EU) 2024/1108 der Kommission (ABl. L 2024/1108, 23.5.2024),
-- Delegierte Verordnung (EU) 2025/1130 der Kommission (ABl. L, 2025/1130, 4.6.2025).
+- – Delegierte Verordnung (EU) 2025/1130 der Kommission (ABl. L, 2025/1130, 4.6.2025).
 
 Soweit es die in Artikel 2 Absatz 1 der Verordnung (EU) 2019/945 genannten Erzeugnisse betrifft, wendet die Schweiz die in dieser Verordnung genannten Rechtsakte, wie sie in diesem Anhang aufgeführt sind, an, wobei davon ausgegangen wird, dass der zweite Spiegelstrich dieses Anhangs auch für folgende Rechtsakte gilt:
 
@@ -831,7 +850,8 @@ Bezugnahmen auf die Verordnung (EU) 2016/679[^annexu1-lvl3-17] in Punkt UAS.SPEC
 **Verordnung (EG) Nr. 300/2008** des Europäischen Parlaments und des Rates vom 11. März 2008 über gemeinsame Vorschriften für die Sicherheit in der Zivilluftfahrt und zur Aufhebung der Verordnung (EG) Nr. 2320/2002 (ABl. L 97 vom 9.4.2008, S. 72), geändert durch:
 
 - – Verordnung (EU) Nr. 18/2010 der Kommission (ABl. L 7 vom 12.1.2010, S. 3),
-- – Verordnung (EU) 2024/1689 (ABl. L 2024/1689, 12.7.2024).
+- – Verordnung (EU) 2024/1689 (ABl. L 2024/1689, 12.7.2024),
+- – Verordnung (EU) 2026/247 der Kommission (ABl. L 2026/247 vom 3.2.2026).
 
 **Verordnung (EG) Nr. 272/2009 der Kommission** vom 2. April 2009 zur Ergänzung der im Anhang der Verordnung (EG) Nr. 300/2008 des Europäischen Parlaments und des Rates festgelegten gemeinsamen Grundstandards für die Sicherheit der Zivilluftfahrt (ABl. L 91 vom 3.4.2009, S. 7), geändert durch:
 
@@ -875,7 +895,8 @@ Bezugnahmen auf die Verordnung (EU) 2016/679[^annexu1-lvl3-17] in Punkt UAS.SPEC
 - – Durchführungsverordnung (EU) 2023/566 der Kommission (ABl. L 74 vom 13.3.2023, S. 47),
 - – Durchführungsverordnung (EU) 2024/1255 der Kommission (ABl. L 2024/1255, 6.5.2024),
 - – Durchführungsverordnung (EU) 2024/2108 der Kommission (ABl. L 2024/2108, 31.7.2024),
-- – Durchführungsverordnung (EU) 2025/920 der Kommission (ABl. L 2025/920 vom 20.5.2025).
+- – Durchführungsverordnung (EU) 2025/920 der Kommission (ABl. L 2025/920 vom 20.5.2025),
+- – Durchführungsverordnung (EU) 2026/449 der Kommission (ABl. L 2026/449 vom 2.3.2026).
 
 **Durchführungsbeschluss C(2015) 8005 der Kommission** vom 16. November 2015 zur Festlegung von detaillierten Massnahmen für die Durchführung der gemeinsamen Grundstandards für die Luftsicherheit mit Informationen nach Artikel 18 Buchstabe a der Verordnung (EG) Nr. 300/2008 (nicht im Amtsblatt veröffentlicht), geändert durch:
 
@@ -891,7 +912,8 @@ Bezugnahmen auf die Verordnung (EU) 2016/679[^annexu1-lvl3-17] in Punkt UAS.SPEC
 - – Durchführungsbeschluss C(2022) 4638 der Kommission,
 - – Durchführungsbeschluss C(2023) 1569 der Kommission,
 - – Durchführungsbeschluss C(2024) 2826 der Kommission,
-- – Durchführungsbeschluss C(2025) 3014 der Kommission.
+- – Durchführungsbeschluss C(2025) 3014 der Kommission,
+- – Durchführungsbeschluss C(2026) 1232 der Kommission.
 
 **Beschluss (EU) 2021/2147 der Kommission** vom 3. Dezember 2021 über die Zulassung von Ausrüstungen für die Sicherheit in der Zivilluftfahrt mit «EU-Stempel»-Kennzeichnung (ABl. L 433 vom 6.12.2021, S. 25).
 
@@ -914,7 +936,8 @@ Die Verordnung (EG) Nr. 549/2004 wurde nach Artikel 56 der Verordnung (EU) 2024/
 
 Die Kommission verfügt gegenüber der Schweiz über die Zuständigkeiten, die ihr gemäss Artikel 15 übertragen sind.
 
-- [tab] Die Verordnung (EG) Nr. 550/2004 wurde nach Artikel 56 der Verordnung (EU) 2024/2803 sowie vorbehaltlich der Bestimmungen von deren Artikel 58 aufgehoben:
+Die Verordnung (EG) Nr. 550/2004 wurde nach Artikel 56 der Verordnung (EU) 2024/2803 sowie vorbehaltlich der Bestimmungen von deren Artikel 58 aufgehoben:
+
 - – Im Einklang mit Artikel 58 Absatz 1 der Verordnung (EU) 2024/2803 gilt Artikel 12 Absatz 3 der Verordnung (EG) Nr. 550/2004 bis zum 2. Dezember 2026.
 - – Im Einklang mit Artikel 58 Absatz 3 der Verordnung (EU) 2024/2803 gelten Artikel 15 der Verordnung (EG) Nr. 550/2004 sowie die auf dessen Grundlage erlassenen Durchführungsrechtsakte weiterhin für die Zwecke der Umsetzung des Leistungssystems und der Gebührenregelung im dritten und vierten Bezugszeitraum.
 
@@ -947,7 +970,8 @@ Die Bezugnahme auf die Verordnung (EU) 2021/1119[^annexu1-lvl5-1] in Artikel 22 
 - – Durchführungsverordnung (EU) 2023/1771 der Kommission (ABl. L 228 vom 15.9.2023, S. 49),
 - – Durchführungsverordnung (EU) 2024/403 der Kommission (ABl. L 2024/403, 11.4.2024),
 - – Durchführungsverordnung (EU) 2024/1111 der Kommission (ABl. L 2024/1111, 23.5.2024),
-- – Durchführungsverordnung (EU) 2025/343 der Kommission (ABl. L 2025/343 vom 18.2.2025).
+- – Durchführungsverordnung (EU) 2025/343 der Kommission (ABl. L 2025/343 vom 18.2.2025),
+- – Durchführungsverordnung (EU) 2025/2293 der Kommission (ABl. L 2025/2293 vom 11.11.2025).
 
 Die Bezugnahme auf die Verordnung (EU) 2016/679[^annexu1-lvl5-2] in der Durchführungsverordnung (EU) 2024/1111 der Kommission ist hinsichtlich der Schweiz als Bezugnahme auf ihre einschlägigen nationalen Rechtsvorschriften zu verstehen.
 
@@ -1015,7 +1039,8 @@ Für die Zwecke dieses Abkommens gilt der Anhang der Verordnung mit folgenden An
 **Durchführungsverordnung (EU) 2019/317 der Kommission**vom 11. Februar 2019 zur Festlegung eines Leistungssystems und einer Gebührenregelung für den einheitlichen europäischen Luftraum und zur Aufhebung der Durchführungsverordnungen (EU) Nr. 390/2013 und (EU) Nr. 391/2013 (Text von Bedeutung für den EWR) (ABl. L 56 vom 25.2.2019, S. 1), geändert durch:
 
 - – Durchführungsverordnung (EU) 2021/1880 der Kommission (ABl. L 380 vom 27.10.2021, S. 1),
-- – Durchführungsverordnung (EU) 2024/3128 der Kommission (ABl. L 2024/3128 vom 17.12.2024).
+- – Durchführungsverordnung (EU) 2024/3128 der Kommission (ABl. L 2024/3128 vom 17.12.2024),
+- – Durchführungsverordnung (EU) 2025/2045 der Kommission (ABl. L 2025/2045 vom 13.10.2025).
 
 **Durchführungsbeschluss (EU) 2019/709 der Kommission** vom 6. Mai 2019 über die Benennung des Netzmanagers für die Netzfunktionen des Flugverkehrsmanagements (ATM) im einheitlichen europäischen Luftraum (Bekannt gegeben unter Aktenzeichen C(2019) 3228) (ABl. L 120 vom 8.5.2019, S. 27).
 
@@ -1059,7 +1084,7 @@ Ungeachtet der Tatsache, dass die Richtlinie (EU) 2018/2001[^annexu1-lvl6-3] nic
 
 Die Bezugnahme auf die Richtlinie 2003/87/EG in der Verordnung (EU) 2024/3170 ist in Bezug auf die Schweiz als Bezugnahme auf das Abkommen zwischen der Europäischen Union und der Schweizerischen Eidgenossenschaft zur Verknüpfung ihrer jeweiligen Systeme für den Handel mit Treibhausgasemissionszertifikaten zu verstehen[^annexu1-lvl6-4].
 
-[^annexu1-lvl6-1]: Richtlinie (EU) 2018/2001 des Europäischen Parlaments und des Rates vom 11. Dezember 2018 zur Förderung der Nutzung von Energie aus erneuerbaren Quellen (Neufassung) (ABl. L 28 vom 21.12.2018, S. 82) in der durch die Richtlinie (EU) 2023/2413 (ABl. L, 2023/2413, 31.10.2023) und Delegierte Richtlinie (EU) 2024/1405 (ABl. L, 2024/1405, 17.5.2024) geänderten Fassung.
+[^annexu1-lvl6-1]: Richtlinie (EU) 2018/2001 des Europäischen Parlaments und des Rates vom 11. Dezember 2018 zur Förderung der Nutzung von Energie aus erneuerbaren Quellen (Neufassung) (ABl. L 328 vom 21.12.2018, S. 82) in der durch die Richtlinie (EU) 2023/2413 (ABl. L, 2023/2413, 31.10.2023) und Delegierte Richtlinie (EU) 2024/1405 (ABl. L, 2024/1405, 17.5.2024) geänderten Fassung.
 [^annexu1-lvl6-2]: Abkommen vom 23.11.2017 zwischen der Europäischen Union und der Schweizerischen Eidgenossenschaft zur Verknüpfung ihrer jeweiligen Systeme für den Handel mit Treibhausgasemissionen.
 [^annexu1-lvl6-3]: Richtlinie (EU) 2018/2001 des Europäischen Parlaments und des Rates vom 11. Dezember 2018 zur Förderung der Nutzung von Energie aus erneuerbaren Quellen (Neufassung) (ABl. L 28 vom 21.12.2018, S. 82) in der durch die Richtlinie (EU) 2023/2413 (ABl. L, 2023/2413, 31.10.2023) und Delegierte Richtlinie (EU) 2024/1405 (ABl. L, 2024/1405, 17.5.2024) geänderten Fassung.
 [^annexu1-lvl6-4]: Abkommen vom 23.11.2017 zwischen der Europäischen Union und der Schweizerischen Eidgenossenschaft zur Verknüpfung ihrer jeweiligen Systeme für den Handel mit Treibhausgasemissionen.
@@ -1088,9 +1113,7 @@ Die Bezugnahme auf die Richtlinie 2003/87/EG in der Verordnung (EU) 2024/3170 is
 
 (Artikel 14 Absatz 1 Buchstabe b und Artikel 14 Absatz 2).
 
-## 9.
-
-Anhänge:
+## 9. Anhänge
 
 - A: Protokoll über die Vorrechte und Befreiungen der Europäischen Union
 - B: Bestimmungen für die Finanzkontrolle durch die Europäische Union in Bezug auf die schweizerischen Teilnehmer an Aktivitäten der Europäischen Agentur für Flugsicherheit (EASA)
@@ -1215,7 +1238,7 @@ Namen, Dienstrang und -stellung sowie Anschrift der Beamten und sonstigen Bedien
 
 ### Kapitel VI Vorrechte und Befreiungen der Vertretungen dritter Länder, die bei der Europäischen Union beglaubigt sind
 
-#### Art. 16
+****Artikel 16****
 
 Der Mitgliedstaat, in dessen Hoheitsgebiet sich der Sitz der Union befindet, gewährt den bei der Union beglaubigten Vertretungen dritter Länder die üblichen diplomatischen Vorrechte und Befreiungen.
 
