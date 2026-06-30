@@ -4,11 +4,11 @@ title: "Ordinanza del 26 giugno 2019 sugli impianti di trasporto in condotta di 
 short: OITC
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/413"
 language: it
-version: 2025-07-01
+version: 2026-07-01
 adopted: 2019-06-26
 in_force: 2019-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/413/20250701/it/xml/fedlex-data-admin-ch-eli-cc-2019-413-20250701-it-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/413/20250701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/413/20260701/it/xml/fedlex-data-admin-ch-eli-cc-2019-413-20260701-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/413/20260701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2019/413/20250701/it"
 
 (Ordinanza sugli impianti di trasporto in condotta, OITC)
 
-del 26 giugno 2019 (Stato 1° luglio 2025)
+del 26 giugno 2019 (Stato 1° luglio 2026)
 
 Il Consiglio federale svizzero,
 
@@ -25,7 +25,7 @@ visti gli articoli 1 capoversi 1, 2 lettera a, 4, 45 numero 3 e 52 capoverso 2 n
 
 ordina:
 
-[^ingress-1]: [RS 746.1](https://fedlex.data.admin.ch/eli/cc/1964/99_95_95)
+[^ingress-1]: [RS 746.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8897)
 
 ## Sezione 1: Disposizioni generali
 
@@ -156,7 +156,7 @@ Il rapporto tecnico comprende in particolare:
 - j. le misure in caso di pericoli per l’impianto secondo l’articolo 10 lettera g.
 
 [^9-1]: Nuovo testo giusta la cifra I dell’O del 21 mag. 2025, in vigore dal 1° lug. 2025 ([RU 2025 385](https://fedlex.data.admin.ch/eli/oc/2025/385)).
-[^9-2]: [RS 746.12](https://fedlex.data.admin.ch/eli/cc/2021/348)
+[^9-2]: [RS 746.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8899)
 
 #### Art. 10
 
@@ -178,7 +178,7 @@ Il rapporto di impatto sull’ambiente e relativo al coordinamento con la pianif
 - f. un rapporto relativo al coordinamento con la pianificazione del territorio, in particolare con i piani direttori e di utilizzazione dei Cantoni;
 - g. un rapporto su possibili pericoli naturali gravitazionali per l’impianto, quali scoscendimenti, frane, valanghe, inondazioni, caduta di massi e di blocchi di roccia e innalzamento delle acque sotterranee.
 
-[^10-1]: [RS 814.012](https://fedlex.data.admin.ch/eli/cc/1991/748_748_748)
+[^10-1]: [RS 814.012](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9439)
 
 #### Art. 11
 
@@ -191,7 +191,11 @@ I piani del progetto comprendono:
 - c. i piani della linea di condotta in scala 1:1000 o 1:500;
 - d. i piani degli oggetti;
 - e. le planimetrie, i piani degli edifici e di sistemazione dei dintorni degli impianti accessori;
-- f. uno schema dell’impianto meccanico.
+- f. uno schema dell’impianto meccanico;
+- g.[^11-1] per i progetti fuori delle zone edificabili: i piani dai quali risulti la delimitazione di eventuali edifici nuovi o demoliti ai sensi dell’articolo 25*a* capoverso 1 dell’ordinanza del 28 giugno 2000[^11-2] sulla pianificazione del territorio e di eventuali superfici impermeabilizzate nuove o demolite ai sensi dell’articolo 25*a* capoverso 2 dell’ordinanza sulla pianificazione del territorio.
+
+[^11-1]: Introdotta dall’appendice n. 11 dell’O del 15 ott. 2025, in vigore dal 1° lug. 2026 ([RU 2025 659](https://fedlex.data.admin.ch/eli/oc/2025/659)).
+[^11-2]: [RS 700.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8353)
 
 #### Art. 12
 
@@ -215,7 +219,7 @@ I piani comprendono in particolare:
 - n. gli elementi essenziali della protezione catodica;
 - o. l’ubicazione dei segnali di demarcazione.
 
-[^12-1]: [RS 746.12](https://fedlex.data.admin.ch/eli/cc/2021/348)
+[^12-1]: [RS 746.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8899)
 
 #### Art. 13
 
@@ -262,13 +266,21 @@ Se per completare la documentazione da allegare alla domanda, elaborare le varia
 
 #### Art. 17a
 
-**Notifiche al servizio cantonale di vigilanza sulle misurazioni**[^17a-1]
+**Obblighi di notifica**[^17a-1]
 
-<sup>1</sup> L’UFE informa il servizio cantonale di vigilanza sulle misurazioni in merito all’apertura di una procedura d’approvazione dei piani.
+<sup>1</sup> L’UFE informa l’Ufficio federale di topografia (swisstopo) in merito alla conclusione di una procedura di approvazione dei piani trasmettendo la decisione di approvazione dei piani e i piani richiesti da swisstopo.
 
-<sup>2</sup> L’impresa è tenuta a informare tale servizio entro un termine di 20 giorni in merito alle modifiche di suoi impianti che rendono necessaria una tenuta a giorno della misurazione ufficiale.
+<sup>2</sup>
 
-[^17a-1]: Introdotto dall’all. n. 14 dell’O del 23 ago. 2023, in vigore dal 1° gen. 2024 ([RU 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)).
+Nel caso di costruzioni e impianti che rendono necessaria una tenuta a giorno della misurazione ufficiale o della misurazione nazionale, l’impresa è tenuta a comunicare a swisstopo entro 20 giorni, allegando i piani richiesti da swisstopo:
+
+- a. l’inizio dei lavori; e
+- b. il completamento dei lavori.
+
+<sup>3</sup> Se il progetto è situato in tutto o in parte fuori delle zone edificabili, l’impresa trasmette sotto forma di geodati i piani di cui all’articolo 11 lettera g approvati con decisione passata in giudicato all’autorità cantonale competente di cui all’articolo 25 capoverso 2 della legge del 22 giugno 1979[^17a-2] sulla pianificazione del territorio contestualmente alla comunicazione a swisstopo del completamento dei lavori.
+
+[^17a-1]: Introdotto dall’all. n. 14 dell’O del 23 ago. 2023 ([RU 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)). Nuovo testo giusta l’appendice n. 11 dell’O del 15 ott. 2025, in vigore dal 1° lug. 2026 ([RU 2025 659](https://fedlex.data.admin.ch/eli/oc/2025/659)).
+[^17a-2]: [RS 700](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8351)
 
 ## Sezione 3: Esame tecnico degli impianti di trasporto in condotta
 
@@ -289,7 +301,7 @@ Prima di eseguire i lavori, l’impresa sottopone per esame all’IFO la seguent
 
 <sup>3</sup> L’IFO esamina la documentazione per verificarne la conformità alle regole della tecnica secondo l’articolo 3 OSITC[^18-1], ai piani approvati e all’autorizzazione d’esercizio e comunica all’impresa l’esito del suo esame.
 
-[^18-1]: [RS 746.12](https://fedlex.data.admin.ch/eli/cc/2021/348)
+[^18-1]: [RS 746.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8899)
 
 ## Sezione 4: Costruzione
 
@@ -430,7 +442,7 @@ Comprende in particolare le seguenti indicazioni sull’impianto di trasporto in
 [^26-2]: Nuovo testo giusta l’all. 2 n. 3 dell’O del 4 giu. 2021 sulla sicurezza degli impianti di trasporto in condotta, in vigore dal 1° lug. 2021 ([RU 2021 348](https://fedlex.data.admin.ch/eli/oc/2021/348)).
 [^26-3]: Abrogata dall’all. 2 n. 3 dell’O del 4 giu. 2021 sulla sicurezza degli impianti di trasporto in condotta, con effetto dal 1° lug. 2021 ([RU 2021 348](https://fedlex.data.admin.ch/eli/oc/2021/348)).
 [^26-4]: Introdotta dalla cifra I dell’O del 21 mag. 2025, in vigore dal 1° lug. 2025 ([RU 2025 385](https://fedlex.data.admin.ch/eli/oc/2025/385)).
-[^26-5]: [RS 746.12](https://fedlex.data.admin.ch/eli/cc/2021/348)
+[^26-5]: [RS 746.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8899)
 
 #### Art. 27
 

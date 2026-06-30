@@ -4,11 +4,11 @@ title: "Ordonnance du 26 juin 2019 sur les installations de transport par condui
 short: OITC
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/413"
 language: fr
-version: 2025-07-01
+version: 2026-07-01
 adopted: 2019-06-26
 in_force: 2019-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/413/20250701/fr/xml/fedlex-data-admin-ch-eli-cc-2019-413-20250701-fr-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/413/20250701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/413/20260701/fr/xml/fedlex-data-admin-ch-eli-cc-2019-413-20260701-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/413/20260701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2019/413/20250701/fr"
 
 (Ordonnance sur les installations de transport par conduites, OITC)
 
-du 26 juin 2019 (État le 1<sup>er</sup> juillet 2025)
+du 26 juin 2019 (État le 1<sup>er</sup> juillet 2026)
 
 Le Conseil fédéral suisse,
 
@@ -25,7 +25,7 @@ vu les art. 1, al. 1, 2, let. a, et 4, 45, ch. 3, et 52, al. 2, ch. 1 et 3, de l
 
 arrête:
 
-[^ingress-1]: [RS 746.1](https://fedlex.data.admin.ch/eli/cc/1964/99_95_95)
+[^ingress-1]: [RS 746.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8897)
 
 ## Section 1 Dispositions générales
 
@@ -55,6 +55,8 @@ La présente ordonnance s’applique intégralement:
 #### Art. 3
 
 **Conduites visées à l’art. 1, al. 2, let. a, LITC**[^3-1]
+
+<sup>1</sup>
 
 Les conduites visées à l’art. 1, al. 2, let. a, LITC sont:
 
@@ -154,7 +156,7 @@ Le rapport technique comprend notamment:
 - j. les mesures à prendre au vu des risques encourus par l’installation au sens de l’art. 10, let. g.
 
 [^9-1]: Nouvelle teneur selon le ch. I de l’O du 21 mai 2025, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 385](https://fedlex.data.admin.ch/eli/oc/2025/385)).
-[^9-2]: [RS 746.12](https://fedlex.data.admin.ch/eli/cc/2021/348)
+[^9-2]: [RS 746.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8899)
 
 #### Art. 10
 
@@ -176,7 +178,7 @@ Le rapport relatif à l’impact du projet sur l’environnement et à sa confor
 - f. un rapport sur la conformité du projet avec les exigences de l’aménagement du territoire, en particulier avec les plans directeurs et les plans d’affectation des zones des cantons;
 - g. un rapport sur les risques encourus par l’installation en raison de dangers naturels gravitationnels tels que les glissements de terrain, les éboulements, les avalanches, les inondations, les effondrements de terrain et la montée des eaux souterraines.
 
-[^10-1]: [RS 814.012](https://fedlex.data.admin.ch/eli/cc/1991/748_748_748)
+[^10-1]: [RS 814.012](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9439)
 
 #### Art. 11
 
@@ -189,7 +191,11 @@ Les plans du projet comprennent:
 - c. les plans du tracé de l’installation de transport par conduites à l’échelle 1:1000 ou 1:500;
 - d. les plans d’objets;
 - e. les plans de situation, les plans des bâtiments et les plans de l’aménagement des alentours pour les installations annexes;
-- f. un schéma de la partie mécanique de l’installation.
+- f. un schéma de la partie mécanique de l’installation;
+- g.[^11-1] pour les projets situés hors de la zone à bâtir: des plans indiquant la délimitation des bâtiments nouveaux ou supprimés conformément à l’art. 25*a*, al. 1, de l’ordonnance du 28 juin 2000 sur l’aménagement du territoire (OAT)[^11-2], ainsi que des surfaces imperméabilisées nouvelles ou supprimées conformément à l’art. 25*a*, al. 2, OAT.
+
+[^11-1]: Introduite par l’annexe ch. 11 de l’O du 15 oct. 2025, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2025 659](https://fedlex.data.admin.ch/eli/oc/2025/659)).
+[^11-2]: [RS 700.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8353)
 
 #### Art. 12
 
@@ -213,7 +219,7 @@ Les plans comprennent notamment:
 - n. les éléments essentiels de la protection cathodique;
 - o. les emplacements des balises.
 
-[^12-1]: [RS 746.12](https://fedlex.data.admin.ch/eli/cc/2021/348)
+[^12-1]: [RS 746.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8899)
 
 #### Art. 13
 
@@ -260,13 +266,21 @@ Si l’entreprise a besoin de plus de trois mois pour compléter son dossier, pr
 
 #### Art. 17a
 
-**Annonces au service cantonal du cadastre**[^17a-1]
+**Devoirs d’annonce**[^17a-1]
 
-<sup>1</sup> L’OFEN informe le service cantonal du cadastre de l’ouverture d’une procédure d’approbation des plans.
+<sup>1</sup> L’OFEN informe l’Office fédéral de topographie (swisstopo) de la clôture d’une procédure d’approbation des plans en lui transmettant la décision d’approbation des plans et les plans dont swisstopo a besoin.
 
-<sup>2</sup> L’entreprise doit informer ce service dans un délai de 20 jours de toute modification de leurs installations rendant nécessaire une mise à jour de la mensuration officielle.
+<sup>2</sup>
 
-[^17a-1]: Introduit par l’annexe ch. 14 de l’O du 23 août 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)).
+Pour les constructions et les installations qui nécessitent une mise à jour de la mensuration officielle ou de la mensuration nationale, l’entreprise informe swisstopo dans un délai de 20 jours, en lui remettant les plans dont il a besoin:
+
+- a. du début des travaux, et
+- b. de l’achèvement des travaux.
+
+<sup>3</sup> Si un projet se situe en tout ou en partie hors de la zone à bâtir, l’entreprise transmet en même temps que l’information à swisstopo de l’achèvement des travaux, les plans en vigueur visés à l’art. 11, let. g, sous forme de géodonnées, à l’autorité cantonale compétente visée à l’art. 25, al. 2, de la loi du 22 juin 1979 sur l’aménagement du territoire[^17a-2].
+
+[^17a-1]: Introduit par l’annexe ch. 14 de l’O du 23 août 2023 ([RO 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)). Nouvelle teneur selon l’annexe ch. 11 de l’O du 15 oct. 2025, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2025 659](https://fedlex.data.admin.ch/eli/oc/2025/659)).
+[^17a-2]: [RS 700](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8351)
 
 ## Section 3 Examen technique d’une installation de transport par conduites
 
@@ -287,7 +301,7 @@ Avant la réalisation des travaux, l’entreprise transmet pour contrôle à l�
 
 <sup>3</sup> Elle contrôle la conformité des documents aux règles de la technique selon l’art. 3 OSITC[^18-1], aux plans approuvés et à l’autorisation d’exploiter, et informe l’entreprise des résultats de son examen.
 
-[^18-1]: [RS 746.12](https://fedlex.data.admin.ch/eli/cc/2021/348)
+[^18-1]: [RS 746.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8899)
 
 ## Section 4 Construction
 
@@ -428,7 +442,7 @@ Il comprend notamment les informations suivantes sur l’installation de transpo
 [^26-2]: Nouvelle teneur selon l’annexe 2 ch. 3 de l’O du 4 juin 2021 concernant les prescriptions de sécurité pour les installations de transport par conduites, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 348](https://fedlex.data.admin.ch/eli/oc/2021/348)).
 [^26-3]: Abrogée par l’annexe 2 ch. 3 de l’O du 4 juin 2021 concernant les prescriptions de sécurité pour les installations de transport par conduites, avec effet au 1<sup>er</sup> juil. 2021 ([RO 2021 348](https://fedlex.data.admin.ch/eli/oc/2021/348)).
 [^26-4]: Introduite par le ch. I de l’O du 21 mai 2025, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 385](https://fedlex.data.admin.ch/eli/oc/2025/385)).
-[^26-5]: [RS 746.12](https://fedlex.data.admin.ch/eli/cc/2021/348)
+[^26-5]: [RS 746.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8899)
 
 #### Art. 27
 

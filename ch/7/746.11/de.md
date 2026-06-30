@@ -4,11 +4,11 @@ title: "Verordnung vom 26. Juni 2019 über Rohrleitungsanlagen zur Beförderung 
 short: RLV
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/413"
 language: de
-version: 2025-07-01
+version: 2026-07-01
 adopted: 2019-06-26
 in_force: 2019-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/413/20250701/de/xml/fedlex-data-admin-ch-eli-cc-2019-413-20250701-de-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/413/20250701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/413/20260701/de/xml/fedlex-data-admin-ch-eli-cc-2019-413-20260701-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/413/20260701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2019/413/20250701/de"
 
 (Rohrleitungsverordnung, RLV)
 
-vom 26. Juni 2019 (Stand am 1. Juli 2025)
+vom 26. Juni 2019 (Stand am 1. Juli 2026)
 
 Der Schweizerische Bundesrat,
 
@@ -25,7 +25,7 @@ gestützt auf die Artikel 1 Absätze 1, 2 Buchstabe a und 4, 45 Ziffer 3 und 52 
 
 verordnet:
 
-[^ingress-1]: [SR 746.1](https://fedlex.data.admin.ch/eli/cc/1964/99_95_95)
+[^ingress-1]: [SR 746.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8897)
 
 ## 1. Abschnitt: Allgemeine Bestimmungen
 
@@ -156,7 +156,7 @@ Der technische Bericht umfasst insbesondere:
 - j. die Massnahmen aufgrund von Gefährdungen der Anlage nach Artikel 10 Buchstabe g.
 
 [^9-1]: Fassung gemäss Ziff. I der V vom 21. Mai 2025, in Kraft seit 1. Juli 2025 ([AS 2025 385](https://fedlex.data.admin.ch/eli/oc/2025/385)).
-[^9-2]: [SR 746.12](https://fedlex.data.admin.ch/eli/cc/2021/348)
+[^9-2]: [SR 746.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8899)
 
 #### Art. 10
 
@@ -178,7 +178,7 @@ Der Bericht über die Auswirkungen auf die Umwelt und über die Abstimmung mit d
 - f. einen Bericht über die Abstimmung mit der Raumplanung, insbesondere mit der Richt- und Nutzungsplanung der Kantone;
 - g. einen Bericht über mögliche Gefährdungen der Anlage durch gravitative Naturgefahren wie Rutschung, Sturz, Lawine, Hochwasser, Einsturz sowie Hebung durch Grundwasser.
 
-[^10-1]: [SR 814.012](https://fedlex.data.admin.ch/eli/cc/1991/748_748_748)
+[^10-1]: [SR 814.012](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9439)
 
 #### Art. 11
 
@@ -191,7 +191,11 @@ Die Projektpläne umfassen:
 - c. die Streckenpläne der Rohrleitung im Massstab 1:1000 oder 1:500;
 - d. die Objektpläne;
 - e. die Situations-, die Gebäude und die Umgebungsgestaltungspläne für Nebenanlagen;
-- f. ein mechanisches Anlageschema.
+- f. ein mechanisches Anlageschema;
+- g.[^11-1] bei Vorhaben ausserhalb der Bauzonen: Pläne, aus denen die Abgrenzung allfälliger neuer oder beseitigter Gebäude gemäss Artikel 25*a* Absatz 1 der Raumplanungsverordnung vom 28. Juni 2000[^11-2] und allfälliger neuer oder beseitigter Versiegelungen gemäss Artikel 25*a* Absatz 2 der Raumplanungsverordnung ersichtlich ist.
+
+[^11-1]: Eingefügt durch Anhang Ziff. 11 der V vom 15. Okt. 2025, in Kraft seit 1. Juli 2026 ([AS 2025 659](https://fedlex.data.admin.ch/eli/oc/2025/659)).
+[^11-2]: [SR 700.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8353)
 
 #### Art. 12
 
@@ -215,7 +219,7 @@ Die Pläne beinhalten insbesondere:
 - n. die wesentlichen Elemente des kathodischen Schutzes;
 - o. die Standorte der Markierungssignale.
 
-[^12-1]: [SR 746.12](https://fedlex.data.admin.ch/eli/cc/2021/348)
+[^12-1]: [SR 746.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8899)
 
 #### Art. 13
 
@@ -262,13 +266,21 @@ Benötigt die Unternehmung für die Ergänzung der Gesuchsunterlagen, die Erarbe
 
 #### Art. 17a
 
-**Meldungen an die kantonale Vermessungsaufsicht**[^17a-1]
+**Meldepflichten**[^17a-1]
 
-<sup>1</sup> Das BFE informiert die kantonale Vermessungsaufsicht über die Eröffnung eines Plangenehmigungsverfahrens.
+<sup>1</sup> Das BFE informiert das Bundesamt für Landestopografie (swisstopo) über den Abschluss eines Plangenehmigungsverfahrens durch Zustellung der Plangenehmigungsverfügung und der vom swisstopo benötigten Pläne.
 
-<sup>2</sup> Die Unternehmung muss diese Stelle innert 20 Tagen über Änderungen ihrer Anlagen informieren, die eine Nachführung der amtlichen Vermessung notwendig machen.
+<sup>2</sup>
 
-[^17a-1]: Eingefügt durch Anhang Ziff. 14 der V vom 23. Aug. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)).
+Bei Bauten und Anlagen, die eine Nachführung der amtlichen Vermessung oder der Landesvermessung notwendig machen, informiert die Unternehmung das swisstopo unter Beilage der vom swisstopo benötigten Pläne jeweils innert 20 Tagen über:
+
+- a. den Baubeginn; und
+- b. die Bauvollendung.
+
+<sup>3</sup> Liegt ein Vorhaben ganz oder teilweise ausserhalb der Bauzonen, lässt die Unternehmung gleichzeitig zur Information des swisstopo über die Bauvollendung die rechtskräftigen Pläne nach Artikel 11 Buchstabe g in Form von Geodaten der kantonalen Behörde zukommen, die nach Artikel 25 Absatz 2 des Raumplanungsgesetzes vom 22. Juni 1979[^17a-2] zuständig ist.
+
+[^17a-1]: Eingefügt durch Anhang Ziff. 14 der V vom 23. Aug. 2023 ([AS 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)). Fassung gemäss Anhang Ziff. 11 der V vom 15. Okt. 2025, in Kraft seit 1. Juli 2026 ([AS 2025 659](https://fedlex.data.admin.ch/eli/oc/2025/659)).
+[^17a-2]: [SR 700](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8351)
 
 ## 3. Abschnitt: Rohrleitungstechnische Prüfung
 
@@ -289,7 +301,7 @@ Die Unternehmung reicht dem ERI die folgenden rohrleitungstechnischen Unterlagen
 
 <sup>3</sup> Es prüft die Unterlagen auf ihre Übereinstimmung mit den Regeln der Technik nach Artikel 3 RLSV[^18-1], der Plangenehmigung und der Betriebsbewilligung und teilt der Unternehmung das Ergebnis seiner Prüfung mit.
 
-[^18-1]: [SR 746.12](https://fedlex.data.admin.ch/eli/cc/2021/348)
+[^18-1]: [SR 746.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8899)
 
 ## 4. Abschnitt: Bau
 
@@ -430,7 +442,7 @@ Es umfasst insbesondere die folgenden Angaben über die Rohrleitungsanlage:
 [^26-2]: Fassung gemäss Anhang 2 Ziff. 3 der Rohrleitungssicherheitsverordnung vom 4. Juni 2021, in Kraft seit 1. Juli 2021 ([AS 2021 348](https://fedlex.data.admin.ch/eli/oc/2021/348)).
 [^26-3]: Aufgehoben durch Anhang 2 Ziff. 3 der Rohrleitungssicherheitsverordnung vom 4. Juni 2021, mit Wirkung seit 1. Juli 2021 ([AS 2021 348](https://fedlex.data.admin.ch/eli/oc/2021/348)).
 [^26-4]: Eingefügt durch Ziff. I der V vom 21. Mai 2025, in Kraft seit 1. Juli 2025 ([AS 2025 385](https://fedlex.data.admin.ch/eli/oc/2025/385)).
-[^26-5]: [SR 746.12](https://fedlex.data.admin.ch/eli/cc/2021/348)
+[^26-5]: [SR 746.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8899)
 
 #### Art. 27
 
