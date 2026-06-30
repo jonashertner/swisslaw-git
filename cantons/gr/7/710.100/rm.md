@@ -4,13 +4,12 @@ number: "710.100"
 title: Lescha da finanzas dal chantun Grischun
 short: "lescha da finanzas, LFC"
 language: rm
-version: 2025-01-01
-valid_until: 2026-06-30
-version_adopted: 2022-06-14
+version: 2026-07-01
+version_adopted: 2024-12-03
 adopted: 2011-10-19
 in_force: 2012-12-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/710.100"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3413/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3645/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3413/pdf_file"
 
 (lescha da finanzas, LFC)
 
-dals 19-10-2011 (versiun dals 01-01-2025)
+dals 19-10-2011 (versiun dals 01-07-2026)
 
 Il cussegl grond dal chantun Grischun[^ingress-1],
 
@@ -290,6 +289,10 @@ concluda:
 <sup>2</sup> Tut ils dabuns e tut las obligaziuns ston vegnir registrads currentamain tenor il princip dal duair.
 
 <sup>3</sup> …
+
+<sup>4</sup> Ils credits da taglia che vegnan scuntrads tenor l'artitgel 4a da la Lescha per promover il svilup economic en il chantun Grischun[^25-1] cun ils debits da taglia da las interpresas respectivas, ston vegnir cudeschads netto.
+
+[^25-1]: DG [932.100](https://www.gr-lex.gr.ch/data/932.100/rm)
 
 #### Art. 26
 

@@ -4,13 +4,12 @@ number: "710.100"
 title: Gesetz über den Finanzhaushalt des Kantons Graubünden
 short: "Finanzhaushaltsgesetz, FHG"
 language: de
-version: 2025-01-01
-valid_until: 2026-06-30
-version_adopted: 2022-06-14
+version: 2026-07-01
+version_adopted: 2024-12-03
 adopted: 2011-10-19
 in_force: 2012-12-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/710.100"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/3413/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3645/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.gr-lex.gr.ch/api/de/versions/3413/pdf_file"
 
 (Finanzhaushaltsgesetz, FHG)
 
-Vom 19.10.2011 (Stand 01.01.2025)
+Vom 19.10.2011 (Stand 01.07.2026)
 
 Der Grosse Rat des Kantons Graubünden[^ingress-1],
 
@@ -292,6 +291,10 @@ beschliesst:
 <sup>2</sup> Sämtliche Guthaben und Verpflichtungen sind laufend nach dem Sollprinzip zu erfassen.
 
 <sup>3</sup> …
+
+<sup>4</sup> Steuergutschriften, die gemäss Artikel 4a des Gesetzes über die Förderung der wirtschaftlichen Entwicklung in Graubünden[^25-1] mit Steuerschulden der betreffenden Unternehmen verrechnet werden, sind netto zu verbuchen.
+
+[^25-1]: BR [932.100](https://www.gr-lex.gr.ch/data/932.100/de)
 
 #### Art. 26
 

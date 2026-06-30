@@ -4,13 +4,12 @@ number: "710.100"
 title: Legge sulla gestione finanziaria del Cantone dei Grigioni
 short: LGF
 language: it
-version: 2025-01-01
-valid_until: 2026-06-30
-version_adopted: 2022-06-14
+version: 2026-07-01
+version_adopted: 2024-12-03
 adopted: 2011-10-19
 in_force: 2012-12-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/710.100"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/3413/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3645/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
@@ -19,7 +18,7 @@ pdf: "https://www.gr-lex.gr.ch/api/it/versions/3413/pdf_file"
 
 (LGF)
 
-del 19.10.2011 (stato 01.01.2025)
+del 19.10.2011 (stato 01.07.2026)
 
 Il Gran Consiglio del Cantone dei Grigioni[^ingress-1],
 
@@ -290,6 +289,10 @@ decide:
 <sup>2</sup> Tutti gli averi e gli impegni vanno registrati correntemente secondo il principio della scadenza.
 
 <sup>3</sup> …
+
+<sup>4</sup> I crediti d'imposta che conformemente all'articolo 4a della legge sulla promozione dello sviluppo economico nei Grigioni[^25-1] vengono compensati con debiti fiscali delle imprese in questione devono essere registrati al netto.
+
+[^25-1]: CSC [932.100](https://www.gr-lex.gr.ch/data/932.100/it)
 
 #### Art. 26
 
