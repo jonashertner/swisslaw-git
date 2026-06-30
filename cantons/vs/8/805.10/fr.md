@@ -4,34 +4,33 @@ number: "805.10"
 title: Ordonnance sur la planification et le financement des soins de longue durée
 short: OSLD
 language: fr
-version: 2022-01-01
-valid_until: 2026-06-30
-version_adopted: 2021-11-24
+version: 2026-07-01
+version_adopted: 2026-07-08
 adopted: 2014-10-15
 in_force: 2015-01-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/805.10"
-pdf: "https://lex.vs.ch/api/fr/versions/2982/pdf_file"
+pdf: "https://lex.vs.ch/api/fr/versions/3638/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
 
 # Ordonnance sur la planification et le financement des soins de longue durée
 
-du 15.10.2014 (état 01.01.2022)
+(OSLD)
 
-Le Conseil d'Etat du canton du Valais,
+du 15.10.2014 (état 01.07.2026)
+
+Le Conseil d'Etat du canton du Valais
 
 vu la loi fédérale sur l'assurance-maladie du 18 mars 1994 (LAMal);
 
-vu la loi fédérale sur le nouveau régime de financement des soins du 13 juin 2008 introduisant en particulier l'article 25a LAMal et ses dispositions d'application;
+vu la loi sur la santé du 12 mars 2020 (LS);
 
-vu les dispositions de la loi sur la santé du 14 février 2008 (LS);
-
-vu les dispositions de la loi sur les soins de longue durée du 14 septembre 2011;
+vu la loi sur les soins de longue durée du 14 septembre 2011 (LSLD);
 
 vu la loi sur les établissements et institutions sanitaires du 13 mars 2014 (LEIS);
 
-sur la proposition du Département de la santé, des affaires sociales et de la culture,
+sur la proposition du département en charge de la santé,
 
 ordonne:
 
@@ -561,6 +560,20 @@ L'assuré dispose d'une année depuis l'entrée en force de la nouvelle taxation
 
 <sup>6</sup> Les statuts des organisations faîtières définissent en particulier les obligations de leurs membres et leur représentation auprès des autorités communales et des différents partenaires (Hôpital du Valais, autres organisations faîtières, associations régionales de communes, associations professionnelles, assureurs, syndicats, représentation des patients, etc.).
 
+## 7a Limitation de l'admission des infirmières et infirmiers et des organisations de soins et d'aide à domicile
+
+#### Art. 46a
+
+**Principe et exceptions**
+
+<sup>1</sup> En application de l'article 55b LAMal, le Conseil d'État peut introduire, par voie de décision, une limitation des admissions à facturer à la charge de l'assurance obligatoire des soins (AOS) pour les infirmières et infirmiers indépendants et les organisations de soins et d'aide à domicile (art. 35 al. 2 let. d<sup>bis</sup> LAMal). Le cas échéant, aucune nouvelle admission n'est délivrée par le département.
+
+<sup>2</sup> Les données de la Statistique de l’assurance maladie obligatoire de l’Office fédéral de la santé publique font foi pour l’analyse de l’évolution des coûts annuels par assuré.
+
+<sup>3</sup> En fonction des besoins en soins de la population, en particulier dans le cadre d’appartements protégés intégrés à des EMS ou dans une région à couverture insuffisante, ou pour des projets ou missions spécifiques d’intérêt public, le département peut exceptionnellement déroger à la limitation.
+
+<sup>4</sup> Le département procède à une évaluation périodique de l’évolution du coût des soins et de la limitation.
+
 ## 8 Dispositions diverses et finales
 
 #### Art. 47
@@ -579,14 +592,16 @@ L'assuré dispose d'une année depuis l'entrée en force de la nouvelle taxation
 
 #### Art. 49
 
-**Abrogation**
-
-<sup>1</sup> Toutes les dispositions contraires à la présente ordonnance sont abrogées en particulier l'ordonnance concernant le financement des soins de longue durée du 1<sup>er</sup> septembre 2010.
+**…**
 
 #### Art. 50
 
-**Entrée en vigueur**
+**…**
 
-<sup>1</sup> La présente ordonnance sera publiée au Bulletin officiel et entrera en vigueur à la même date que la loi sur les soins de longue durée du 14 septembre 2011.
+## T1 Disposition transitoire de la modification du 8 juillet 2026
+
+#### Art. T1-1
+
+<sup>1</sup> Les demandes complètes déposées auprès du service en charge de la santé publique avant l'entrée en vigueur de la modification du 8 juillet 2026 ne sont pas soumises à la limitation de l'article 46a.
 
 RCV BO/Abl. 43/2014

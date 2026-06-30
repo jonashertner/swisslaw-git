@@ -1,37 +1,36 @@
 ---
 canton: VS
 number: "805.10"
-title: Verordnung über die Planung und die Finanzierung der Langzeitpflege
+title: "Verordnung über die Planung und die Finanzierung der Langzeitpflege *"
 short: VPFL
 language: de
-version: 2022-01-01
-valid_until: 2026-06-30
-version_adopted: 2021-11-24
+version: 2026-07-01
+version_adopted: 2026-07-08
 adopted: 2014-10-15
 in_force: 2015-01-01
 url: "https://lex.vs.ch/app/de/texts_of_law/805.10"
-pdf: "https://lex.vs.ch/api/de/versions/2982/pdf_file"
+pdf: "https://lex.vs.ch/api/de/versions/3638/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die Planung und die Finanzierung der Langzeitpflege
 
-vom 15.10.2014 (Stand 01.01.2022)
+(VPFL)
 
-Der Staatsrat des Kantons Wallis,
+vom 15.10.2014 (Stand 01.07.2026)
+
+Der Staatsrat des Kantons Wallis
 
 eingesehen das Bundesgesetz über die Krankenversicherung vom 18. März 1994 (KVG);
 
-eingesehen das Bundesgesetz über die Neuordnung der Pflegefinanzierung vom 13. Juni 2008, insbesondere der neu eingeführte Artikel 25a KVG mit den entsprechenden Ausführungsbestimmungen;
+eingesehen das Gesundheitsgesetz vom 12. März 2020 (GG);
 
-eingesehen die Bestimmungen des Gesundheitsgesetzes vom 14. Februar 2008 (GG);
+eingesehen das Gesetz über die Langzeitpflege vom 14. September 2011 (GLP);
 
-eingesehen die Bestimmungen des Gesetzes über die Langzeitpflege vom 14. September 2011;
+eingesehen das Gesetz über die Krankenanstalten und -institutionen vom 13. März 2014 (GKAI);
 
-eingesehen die Bestimmungen des Gesetzes über die Krankenanstalten und -institutionen vom 13. März 2014 (GKAI);
-
-auf Antrag des Departements für Gesundheit, Soziales und Kultur,
+auf Antrag des für die Gesundheit zuständigen Departements,
 
 verordnet:
 
@@ -561,6 +560,20 @@ Die versicherte Person hat ein Jahr nach dem Inkrafttreten der neuen Besteuerung
 
 <sup>6</sup> Die Statuten der Dachorganisationen beinhalten insbesondere die Pflichten der Mitglieder sowie ihre Vertretung bei den Gemeindebehörden und den verschiedenen Ansprechpartnern (Spital Wallis, weitere Dachorganisationen, regionale Gemeindeverbände, Berufsverbände, Versicherer, Gewerkschaften, Patientenvertreter usw.).
 
+## 7a Beschränkung der Zulassung von Pflegefachpersonen und Organisationen für Pflege und Hilfe zu Hause
+
+#### Art. 46a
+
+**Grundsatz und Ausnahmen**
+
+<sup>1</sup> Gemäss Artikel 55b KVG kann der Staatsrat per Entscheid eine Begrenzung der zulässigen Abrechnungen zu Lasten der obligatorischen Krankenpflegeversicherung (OKP) für selbstständige Pflegefachpersonen und Organisationen für Pflege und Hilfe zu Hause einführen (Art. 35 Abs. 2 Bst. d<sup>bis</sup> KVG). In diesem Fall werden vom Departement keine neuen Zulassungen mehr erteilt.
+
+<sup>2</sup> Für die Analyse der Entwicklung der jährlichen Kosten pro Versicherten sind die Daten der Statistik der obligatorischen Krankenversicherung des Bundesamtes für Gesundheit massgebend.
+
+<sup>3</sup> Je nach Pflegebedarf der Bevölkerung, insbesondere im Rahmen von betreuten Wohnungen, die in APH oder in einer Region mit unzureichender Versorgung integriert sind, oder für spezifische Projekte oder Aufgaben von öffentlichem Interesse, kann das Departement ausnahmsweise von dieser Beschränkung abweichen.
+
+<sup>4</sup> Das Departement führt eine regelmässige Überprüfung der Entwicklung der Pflegekosten und der Begrenzung durch.
+
 ## 8 Verschiedenes und Schlussbestimmungen
 
 #### Art. 47
@@ -579,14 +592,16 @@ Die versicherte Person hat ein Jahr nach dem Inkrafttreten der neuen Besteuerung
 
 #### Art. 49
 
-**Aufhebung**
-
-<sup>1</sup> Alle Bestimmungen, die der vorliegenden Verordnung zuwiderlaufen, werden aufgehoben, insbesondere die Verordnung über die Finanzierung der Langzeitpflege vom 1. September 2010.
+**…**
 
 #### Art. 50
 
-**Inkrafttreten**
+**…**
 
-<sup>1</sup> Die vorliegende Verordnung wird im Amtsblatt veröffentlicht und tritt gleichzeitig mit dem Gesetz über die Langzeitpflege vom 14. September 2011 in Kraft.
+## T1 Übergangsbestimmung zur Änderung vom 8. Juli 2026
+
+#### Art. T1-1
+
+<sup>1</sup> Vollständige Gesuche, die vor Inkrafttreten der Änderung vom 8. Juli 2026 bei der für das Gesundheistwesen zuständigen Dienststelle eingereicht wurden, unterliegen nicht der Beschränkung gemäss Artikel 46a.
 
 CSW BO/Abl. 43/2014
