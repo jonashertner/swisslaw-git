@@ -1,55 +1,44 @@
 ---
 canton: UR
 number: "40.1115"
-title: REGLEMENT zum Planungs- und Baugesetz
+title: Reglement zum Planungs- und Baugesetz
 short: RPBG
 language: de
-version: 2018-01-01
-corrected: 2025-08-21
-version_adopted: 2017-11-07
+version: 2026-07-01
+version_adopted: 2026-06-30
 adopted: 2011-12-06
 in_force: 2012-01-01
 url: "https://rechtsbuch.ur.ch/app/de/texts_of_law/40.1115"
-pdf: "https://rechtsbuch.ur.ch/api/de/versions/272/pdf_file"
-text: pdf
+pdf: "https://rechtsbuch.ur.ch/api/de/versions/1149/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons UR. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons UR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# REGLEMENT zum Planungs- und Baugesetz
+# Reglement zum Planungs- und Baugesetz
 
-REGLEMENT zum Planungs- und Baugesetz (RPBG)
+(RPBG)
 
-(vom 6. Dezember 2011[^t-1]; Stand am 1. Januar 2018)
+Vom 06.12.2011 (Stand 01.07.2026)
 
-Der Regierungsrat des Kantons Uri, beschliesst:
+Der Regierungsrat des Kantons Uri,
 
-gestützt auf Artikel 124 des Planungs- und Baugesetzes vom 13. Juni 2010 (PBG)[^t-2],
+gestützt auf Artikel 124 des Planungs- und Baugesetzes vom 13. Juni 2010 (PBG, RB [40.1111](https://rechtsbuch.ur.ch/data/40.1111/de)),
 
-**GEGENSTAND**
+beschliesst:
 
-[^t-1]: AB vom 16. Dezember 2011
-[^t-2]: RB 40.1111
-
-### 1. Kapitel:
+## 1 Gegenstand
 
 #### Artikel 1
 
-Dieses Reglement vollzieht das PBG, soweit nicht besondere Reglemente diese Aufgabe übernehmen.
+<sup>1</sup> Dieses Reglement vollzieht das Raumplanungsrecht des Bundes und das PBG (RB [40.1111](https://rechtsbuch.ur.ch/data/40.1111/de)), soweit nicht die besondere Gesetzgebung diese Aufgabe übernimmt.
 
-**NUTZUNGSPLANUNG**
-
-[^1-1]: Eingefügt gemäss RRB vom 7. November 2017; in Kraft gesetzt auf den 1. Januar 2018 (AB vom 17. November 2017).
-
-### 1a. Kapitel:
-
-[^1-1]
+## 1a Nutzungsplanung
 
 #### Artikel 1a
 
 **Rechtswirkung digitaler Daten**
 
-Den bei der Genehmigung der Nutzungspläne und Sondernutzungspläne vorliegenden digitalen Daten kommt Rechtswirkung zu.
+<sup>1</sup> Den bei der Genehmigung der Nutzungspläne und Sondernutzungspläne vorliegenden digitalen Daten kommt Rechtswirkung zu.
 
 #### Artikel 1b
 
@@ -59,7 +48,7 @@ Den bei der Genehmigung der Nutzungspläne und Sondernutzungspläne vorliegenden
 
 <sup>2</sup> Die Bekanntgabe der öffentlichen Auflage erfolgt im Amtsblatt.
 
-### 2. Kapitel: BAUBEGRIFFE UND MESSWEISEN
+## 2 Baubegriffe und Messweisen
 
 #### Artikel 2
 
@@ -71,7 +60,7 @@ Den bei der Genehmigung der Nutzungspläne und Sondernutzungspläne vorliegenden
 
 <sup>3</sup> Die Begriffe, Messweisen und die damit verbundenen Masse, wie sie sich aus der IVHB und dem vorliegenden Reglement ergeben, sind im Anhang zu diesem Reglement enthalten. Der Anhang ist Bestandteil des Reglements.
 
-### 3. Kapitel: GEWÄSSERRAUMZONE
+## 3 Gewässerraumzone
 
 #### Artikel 3
 
@@ -87,59 +76,45 @@ Den bei der Genehmigung der Nutzungspläne und Sondernutzungspläne vorliegenden
 
 <sup>1</sup> Die Nutzung des Gewässerraums richtet sich nach dem Bundesrecht.
 
-<sup>2</sup> Werden dabei die Abstandsvorschriften nach Artikel 91 oder 94 PBG unterschritten, bleibt die Ausnahmebewilligung der zuständigen Direktion[^4-1] vorbehalten.
+<sup>2</sup> Werden dabei die Abstandsvorschriften nach Artikel 91 oder 94 PBG unterschritten, bleibt die Ausnahmebewilligung der zuständigen Direktion[^Artikel4-1] vorbehalten.
 
 <sup>3</sup> Handelt es sich um eine Gewässerraumzone, die die Bauzone überlagert, ist der Gewässerraum für die Ausnützung der Bauparzelle anrechenbar.
 
-[^4-1]: Baudirektion für Ausnahmen gegenüber Fliessgewässern, Justizdirektion für solche gegenüber dem Seeufer; siehe Organisationsreglement (ORR; RB 2.3322).
+[^Artikel4-1]: Baudirektion für Ausnahmen gegenüber Fliessgewässern, Justizdirektion für solche gegenüber dem Seeufer; siehe Organisationsreglement (RB [2.3322](https://rechtsbuch.ur.ch/data/2.3322/de)).
 
 #### Artikel 5
 
 **Fehlender Gewässerraum**
 
-Bis der Gewässerraum ausgeschieden ist, gelten die Übergangsbestimmungen zur Änderung der Gewässerschutzverordnung vom 4. Mai 2011[^5-1].
+<sup>1</sup> Bis der Gewässerraum ausgeschieden ist, gelten die Übergangsbestimmungen zur Änderung der Gewässerschutzverordnung vom 4. Mai 2011 (SR [814.201](https://db.clex.ch/link/Bund/814.201/de)).
 
-[^5-1]: SR 814.201
+## 4 Grenz- und Gebäudeabstände
 
-### 4. Kapitel: GRENZ- UND GEBÄUDEABSTÄNDE
-
-### 1. Abschnitt: Grenzabstand
+### 4.1 Grenzabstand
 
 #### Artikel 6
 
-**Grundabstand**
-
-- a) Grundsatz
+**Grundabstand: Grundsatz**
 
 <sup>1</sup> Der Grundabstand ist der Grenzabstand, der mindestens einzuhalten ist.
 
 <sup>2</sup> Soweit die Bauordnung der Gemeinde nichts anderes bestimmt, beträgt er:
 
-**4 m 4 m**
+- a) in der Kernzone: — 4 m
+- b) Weilerzone: — 4 m
+- c) in Wohnzonen mit einem oder zwei Vollgeschossen: — 5 m
+- d) in Wohnzonen mit drei oder mehr Vollgeschossen: — 6 m
+- e) in Wohn- und Gewerbezonen: — 5 m
+- f) in Gewerbe- und Industriezonen: — 5 m
+  - 1\. Grenzt die Gewerbe- oder die Industriezone an die Kernzone oder an eine Wohnzone, beträgt der Grundabstand: — 6 m
+- g) in den übrigen Zonen: — 5 m
+- h) für geringfügige Anlagen (als geringfügige Anlagen gelten solche, die weder öffentliche noch private Interessen merklich berühren): — 1 m[^Artikel6-1]
 
-- a) in der Kernzone
+[^Artikel6-1]: Artikel 95 Absatz 3 PBG.
 
-- b) Weilerzone
+#### Artikel 7
 
-- c) in Wohnzonen mit einem oder zwei Vollgeschossen 5 m
-
-**6 m 5 m 5 m**
-
-- d) in Wohnzonen mit drei oder mehr Vollgeschossen
-
-- e) in Wohn- und Gewerbezonen
-
-- f) in Gewerbe- und Industriezonen Grenzt die Gewerbe- oder die Industriezone an die Kernzone oder an eine Wohnzone, beträgt der Grundabstand 6 m.
-
-**5 m 1 m6**
-
-- g) in den übrigen Zonen
-
-- h) für geringfügige Anlagen Als geringfügige Anlagen gelten solche, die weder öffentliche noch private Interessen merklich berühren.
-
-#### Artikel 7 b
-
-**) Mehrlängenzuschlag**
+**Grundabstand: Mehrlängenzuschlag**
 
 <sup>1</sup> Überschreitet die Gebäudelänge 20 m, erhöht sich der Grenzabstand für jeden zusätzlichen Meter um 30 cm, höchstens aber um insgesamt 3 m.
 
@@ -147,9 +122,9 @@ Bis der Gewässerraum ausgeschieden ist, gelten die Übergangsbestimmungen zur �
 
 <sup>3</sup> Die Bauordnung der Gemeinde kann den Mehrlängenzuschlag verkürzen oder aufheben.
 
-#### Artikel 8 c
+#### Artikel 8
 
-**) Mehrhöhenzuschlag**
+**Grundabstand: Mehrhöhenzuschlag**
 
 <sup>1</sup> Überschreitet die geplante Baute oder Anlage die Gesamthöhe, die nach der Bauordnung der Gemeinde zulässig ist, hat die Baubehörde mit der Ausnahmebewilligung einen verhältnismässigen Mehrhöhenzuschlag zum Grenzabstand zu verfügen.
 
@@ -157,51 +132,50 @@ Bis der Gewässerraum ausgeschieden ist, gelten die Übergangsbestimmungen zur �
 
 #### Artikel 9
 
-**Verminderter Grenzabstand**
+**Verminderter Grenzabstand: bei An-, Klein- und Kleinstbauten**
 
-- a) bei An-, Klein- und Kleinstbauten Soweit die Bauordnung der Gemeinde nichts anderes bestimmt, beträgt der Grenzabstand:
+<sup>1</sup> Soweit die Bauordnung der Gemeinde nichts anderes bestimmt, beträgt der Grenzabstand:
 
-- a) für An- und Kleinbauten 3,5 m
+- a) für An- und Kleinbauten: — 3.5 m
+- b) für Kleinstbauten: — 1 m
 
-- b) für Kleinstbauten 1 m
+#### Artikel 10
 
-#### Artikel 10 b
+**Verminderter Grenzabstand: bei unterirdischen Bauten**
 
-**) bei unterirdischen Bauten**
+<sup>1</sup> Soweit die Bauordnung der Gemeinde nichts anderes bestimmt, beträgt der Grenzabstand für unterirdische Bauten 1 m.
 
-Soweit die Bauordnung der Gemeinde nichts anderes bestimmt, beträgt der Grenzabstand für unterirdische Bauten 1 m.
+#### Artikel 11
 
-#### Artikel 11 c
+**Verminderter Grenzabstand: bei Unterniveaubauten**
 
-**) bei Unterniveaubauten**
+<sup>1</sup> Soweit die Bauordnung der Gemeinde nichts anderes bestimmt, beträgt der Grenzabstand für Unterniveaubauten 3.5 m.
 
-Soweit die Bauordnung der Gemeinde nichts anderes bestimmt, beträgt der Grenzabstand für Unterniveaubauten 3,5 m.
+#### Artikel 12
 
-#### Artikel 12 d
-
-**) bei vorspringenden Gebäudeteilen**
+**Verminderter Grenzabstand: bei vorspringenden Gebäudeteilen**
 
 <sup>1</sup> Vorspringende Gebäudeteile dürfen in den Grenzabstand hineinragen.
 
 <sup>2</sup> Wenn überwiegende öffentliche oder private Interessen das gebieten, kann die Baubehörde bei vorspringenden Gebäudeteilen einen angemessenen Grenzabstand verfügen.
 
-#### Artikel 13 e
+#### Artikel 13
 
-**) durch private Vereinbarung**
+**Verminderter Grenzabstand: durch private Vereinbarung**
 
-Der Grenzabstand kann auf schriftlichen Antrag der betroffenen Grundeigentümerinnen und Grundeigentümer und mit Zustimmung der Baubehörde herabgesetzt oder aufgehoben werden, sofern dadurch keine überwiegenden öffentlichen oder privaten Interessen beeinträchtigt werden.
+<sup>1</sup> Der Grenzabstand kann auf schriftlichen Antrag der betroffenen Grundeigentümerinnen und Grundeigentümer und mit Zustimmung der Baubehörde herabgesetzt oder aufgehoben werden, sofern dadurch keine überwiegenden öffentlichen oder privaten Interessen beeinträchtigt werden.
 
-### 2. Abschnitt: Gebäudeabstand
+### 4.2 Gebäudeabstand
 
 #### Artikel 14
 
 **Grundsatz**
 
-<sup>1</sup> Der Gebäudeabstand entspricht der Summe der beiden Grenzabstände[^14-1].
+<sup>1</sup> Der Gebäudeabstand entspricht der Summe der beiden Grenzabstände[^Artikel14-1].
 
 <sup>2</sup> Der Abstand zwischen zwei Bauten auf dem gleichen Grundstück wird so gemessen, wie wenn eine Grenze dazwischen läge.
 
-[^14-1]: Artikel 95 Absatz 2 PBG
+[^Artikel14-1]: Artikel 95 Absatz 2 PBG.
 
 #### Artikel 15
 
@@ -213,59 +187,91 @@ Der Grenzabstand kann auf schriftlichen Antrag der betroffenen Grundeigentümeri
 
 #### Artikel 16
 
-Verminderter Gebäudeabstand durch private Vereinbarung Der Gebäudeabstand kann auf schriftlichen Antrag der betroffenen Grundeigentümerinnen und Grundeigentümer und mit Zustimmung der Baubehörde herabgesetzt oder aufgehoben werden, sofern dadurch keine überwiegenden öffentlichen oder privaten Interessen beeinträchtigt werden.
+**Verminderter Gebäudeabstand durch private Vereinbarung**
+
+<sup>1</sup> Der Gebäudeabstand kann auf schriftlichen Antrag der betroffenen Grundeigentümerinnen und Grundeigentümer und mit Zustimmung der Baubehörde herabgesetzt oder aufgehoben werden, sofern dadurch keine überwiegenden öffentlichen oder privaten Interessen beeinträchtigt werden.
 
 #### Artikel 17
 
 **Brandschutznormen**
 
-Die verbindlich erklärten Brandschutznormen und Brandschutzrichtlinien sind in jedem Fall einzuhalten.
+<sup>1</sup> Die verbindlich erklärten Brandschutznormen und Brandschutzrichtlinien sind in jedem Fall einzuhalten.
 
-### 3. Abschnitt: Gemeinsame Bestimmungen
+### 4.3 Gemeinsame Bestimmungen
 
 #### Artikel 18
 
 **Hinweis auf das kantonale Recht**
 
-<sup>1</sup> Die Abstandsvorschriften gegenüber Fliessgewässern, öffentlichen Verkehrsflächen, gegenüber dem Wald und dem See richten sich nach Artikel 91ff. PBG, sofern nicht der Gebäudeabstand einen höheren Abstand ergibt. Vorbehalten bleiben die Bestimmungen über den Gewässerraum.
+<sup>1</sup> Die Abstandsvorschriften gegenüber Fliessgewässern, öffentlichen Verkehrsflächen, gegenüber dem Wald und dem See richten sich nach Artikel 91 ff. PBG, sofern nicht der Gebäudeabstand einen höheren Abstand ergibt. Vorbehalten bleiben die Bestimmungen über den Gewässerraum.
 
-<sup>2</sup> Der privatrechtliche Grenzabstand von einem Meter nach Artikel 73 des Einführungsgesetzes zum ZGB[^18-1] bleibt in jedem Fall vorbehalten.
-
-[^18-1]: EG/ZBG; RB 9.2111
+<sup>2</sup> Der privatrechtliche Grenzabstand von einem Meter nach Artikel 73 des Einführungsgesetzes zum ZGB (EG/ZBG, RB [9.2111](https://rechtsbuch.ur.ch/data/9.2111/de)) bleibt in jedem Fall vorbehalten.
 
 #### Artikel 19
 
 **Aussendämmungen**
 
-Bestehende Bauten dürfen mit einer nachträglichen Aussenisolation den Grenz- und Gebäudeabstand um jenes Mass unterschreiten, das für eine ausreichende Wärmedämmung notwendig ist.
+<sup>1</sup> Bestehende Bauten dürfen mit einer nachträglichen Aussenisolation den Grenz- und Gebäudeabstand um jenes Mass unterschreiten, das für eine ausreichende Wärmedämmung notwendig ist.
 
-### 5. Kapitel: KANTONSBEITRÄGE
+## 4a Baupolizei ausserhalb der Bauzonen
+
+#### Artikel 19a
+
+**Benützungsverbot**
+
+<sup>1</sup> Unbewilligte Nutzungen ausserhalb der Bauzonen hat die Baubehörde sofort zu untersagen.
+
+<sup>2</sup> Die angeordneten Nutzungsverbote und die zu ihrer Durchsetzung angeordneten Massnahmen sind in der Regel innert 30 Tagen nach Eröffnung der Verfügung durchzusetzen, wenn nicht glaubhaft gemacht wird, dass die Nutzung rechtmässig ist.
+
+#### Artikel 19b
+
+**Wiederherstellung des rechtmässigen Zustands**
+
+<sup>1</sup> Die Baubehörde hat den Rückbau zur Wiederherstellung des rechtmässigen Zustands ohne Verzug anzuordnen und zu vollziehen.
+
+<sup>2</sup> Sie ordnet den Rückbau im Rahmen eines einzigen Verfahrens, in der Regel des nachträglichen Baubewilligungsverfahrens, an.
+
+<sup>3</sup> Der Entscheid ist so auszugestalten, dass nach Rechtskraft des Entscheids und ungenutztem Ablauf der angesetzten Frist die Ersatzvornahme zur Wiederherstellung des rechtmässigen Zustands durchgeführt werden kann.
+
+#### Artikel 19c
+
+**Verzicht**
+
+<sup>1</sup> Der ausnahmsweise Verzicht auf die Wiederherstellung des rechtmässigen Zustandes erfordert die Zustimmung der Justizdirektion.
+
+#### Artikel 19d
+
+**Ersatzvornahme**
+
+<sup>1</sup> Die Justizdirektion kann der Baubehörde eine Frist zur Anordnung eines Benützungsverbots (Art. 19a) oder des Rückbaus (Art. 19b) ansetzen. Kommt die Baubehörde dieser Verpflichtung nicht nach, trifft die Justizdirektion an ihrer Stelle und auf ihre Kosten die erforderlichen Massnahmen.
+
+## 5 Kantonsbeiträge
 
 #### Artikel 20
 
 **Grundsatz**
 
-An die fachgerechte Erarbeitung und die Änderung von Nutzungsplanungen leistet der Kanton den Gemeinden 70 Prozent der Planungskosten, die aufgrund des kantonalen Richtplanes erforderlich werden[^20-1].
+<sup>1</sup> An die fachgerechte Erarbeitung und die Änderung von Nutzungsplanungen leistet der Kanton den Gemeinden 70 Prozent der Planungskosten, die aufgrund des kantonalen Richtplanes erforderlich werden[^Artikel20-1].
 
-[^20-1]: Artikel 7 Absatz 1 PBG
+[^Artikel20-1]: Artikel 7 Absatz 1 PBG.
 
 #### Artikel 21
 
-**Anrechenbare Planungskosten**
+**Anrechenbare Planungskosten: Nettokosten**
 
-- a) Nettokosten Beiträge werden nur an die Nettokosten gewährt, die der Gemeinde verbleiben.
+<sup>1</sup> Beiträge werden nur an die Nettokosten gewährt, die der Gemeinde verbleiben.
 
-#### Artikel 22 b
+#### Artikel 22
 
-**) Qualifikation**
+**Anrechenbare Planungskosten: Qualifikation**
 
 <sup>1</sup> Beiträge werden nur an Lohn- und Honorarkosten für Arbeiten gewährt, die von qualifizierten Fachpersonen ausgeführt oder begleitet werden.
 
 <sup>2</sup> Als qualifiziert gelten Personen, die über einen anerkannten Fachausweis oder entsprechende Berufserfahrung auf dem Gebiet der Raumplanung verfügen.
 
-#### Artikel 23 c
+#### Artikel 23
 
-**) Lohn-, Honorarkosten**
+**Anrechenbare Planungskosten: Lohn-, Honorarkosten**
 
 <sup>1</sup> Als Lohn- oder Honorarkosten werden höchstens die Mittelwerte der Stundenansätze des Zeittarifs nach der Ordnung der Koordinationskonferenz der Bau- und Liegenschaftsorgane der öffentlichen Bauherren (KBOB) anerkannt.
 
@@ -273,206 +279,405 @@ An die fachgerechte Erarbeitung und die Änderung von Nutzungsplanungen leistet 
 
 #### Artikel 24
 
-Verfahren a) Gesuch
+**Verfahren: Gesuch**
 
 <sup>1</sup> Bevor die Planungsarbeiten aufgenommen werden, ist bei der Justizdirektion ein Beitragsgesuch einzureichen.
 
 <sup>2</sup> Das Gesuch enthält:
 
-- a) das Arbeitsprogramm;
+- a) das Arbeitsprogramm
+- b) den Ablauf des Projekts und dessen Kontrolle
+- c) einen Kostenvoranschlag
+- d) einen Kostenteiler mit Angaben über Beiträge Dritter
+- e) eine Begründung über das Ausmass der Planungskosten, die aufgrund des kantonalen Richtplans erforderlich werden
 
-- b) den Ablauf des Projekts und dessen Kontrolle;
+#### Artikel 25
 
-- c) einen Kostenvoranschlag;
+**Verfahren: Beitragsverfügung**
 
-- d) einen Kostenteiler mit Angaben über Beiträge Dritter;
+<sup>1</sup> Gestützt auf das Gesuch und im Rahmen der bewilligten Kredite entscheidet die zuständige Instanz über den Kantonsbeitrag, und zwar:
 
-- e) eine Begründung über das Ausmass der Planungskosten, die aufgrund des kantonalen Richtplans erforderlich werden.
+- a) das Amt für Raumentwicklung über Beiträge bis 50'000 Franken
+- b) die Justizdirektion über Beiträge bis 100'000 Franken
+- c) der Regierungsrat über Beiträge über 100'000 Franken
 
-#### Artikel 25 b
+#### Artikel 26
 
-**) Beitragsverfügung**
-
-Gestützt auf das Gesuch und im Rahmen der bewilligten Kredite entscheidet die zuständige Instanz über den Kantonsbeitrag, und zwar:
-
-- a) das Amt für Raumentwicklung über Beiträge bis 50 000 Franken;
-
-- b) die Justizdirektion über Beiträge bis 100 000 Franken;
-
-- c) der Regierungsrat über Beiträge über 100 000 Franken.
-
-#### Artikel 26 c
-
-**) Auszahlung**
+**Verfahren: Auszahlung**
 
 <sup>1</sup> Der Beitrag wird entsprechend dem Planungsfortschritt und im Rahmen der bewilligten Kredite ausbezahlt.
 
-<sup>2</sup> Beiträge bis 50 000 Franken können sofort und gesamthaft ausbezahlt werden, sofern die erforderlichen Kredite bewilligt sind.
+<sup>2</sup> Beiträge bis 50'000 Franken können sofort und gesamthaft ausbezahlt werden, sofern die erforderlichen Kredite bewilligt sind.
 
-### 6. Kapitel: SCHLUSSBESTIMMUNGEN
+## 5a Abbruchprämie
 
-[^h6KapitelSCHLUSSB-1]: Die Änderungen wurden in den entsprechenden Erlass eingefügt.
+#### Artikel 26a
+
+**Anwendungsbereich**
+
+<sup>1</sup> Eigentümerinnen und Eigentümer erhalten eine Abbruchprämie nach Artikel 5a des Raumplanungsgesetzes (SR [700](https://db.clex.ch/link/Bund/700/de)) für den freiwilligen Abbruch von Bauten ausserhalb der Bauzonen.
+
+<sup>2</sup> Die Abbruchprämie wird nicht ausgerichtet, wenn gestützt auf kantonales Recht oder Bundesrecht eine gesetzliche Pflicht zur Tragung der Beseitigungskosten besteht.
+
+#### Artikel 26b
+
+**Ausnahmen**
+
+<sup>1</sup> Die Eigentümerinnen und Eigentümer oder sonstige Berechtigte haben die Kosten für den Rückbau folgender Bauten und Anlagen sowie der anschliessenden Rekultivierung selbst zu tragen:
+
+- a) nicht bewilligte Bauten und Anlagen, die gestützt auf eine Anordnung zur Wiederherstellung des rechtmässigen Zustands abzubrechen sind
+- b) befristet bewilligte Bauten und Anlagen
+- c) Bauten und Anlagen in bedingt oder befristet ein- oder umgezonten Gebieten
+- d) Kleinstbauten und baubewilligungsfreie Bauten und Anlagen
+- e) unterirdische Bauten, die vollständig überdeckt sind
+- f) Bauten und Anlagen zur Ausbeutung von Nutzungsrechten
+- g) Infrastruktur- und Energieanlagen im öffentlichen Interesse
+- h) im kantonalen Schutzinventar aufgenommene Objekte
+- i) Bauten und Anlagen, die Gegenstand eines Enteignungsverfahrens sind
+- j) Abbruchbauten und -anlagen bei landwirtschaftlichen und touristischen Ersatzneubauten, wenn für die ersetzte Baute bereits eine rechtskräftige Rückbauverfügung besteht
+
+<sup>2</sup> In den Fällen von Absatz 1 kann bei Vorliegen wichtiger Gründe und überwiegenden öffentlichen Interessen am Abbruch ausnahmsweise eine Abbruchprämie ausgerichtet werden.
+
+#### Artikel 26c
+
+**Höhe der Abbruchprämie**
+
+<sup>1</sup> Die Abbruchprämie entspricht der Höhe der pauschalisierten Abbruchkosten unter Ausschluss allfälliger Aufwendungen für die Entsorgung von Spezialabfällen oder Altlasten.
+
+<sup>2</sup> Die Justizdirektion legt die Pauschalansätze und die Berechnungsmethode in einer Weisung fest.
+
+<sup>3</sup> Sie berücksichtigt als Faktoren für die Festlegung der Pauschalansätze:
+
+- a) für den Rückbau von Gebäuden den umbauten Raum (m³)
+- b) für den Rückbau von Anlagen die betroffene Fläche (m²)
+- c) die Verkehrserschliessung und Zugänglichkeit
+- d) die Bauweise der zurückzubauenden Bauten und Anlagen
+- e) die bauliche Komplexität des Rückbaus
+- f) und die erforderlichen Rekultivierungsmassnahmen
+
+#### Artikel 26d
+
+**Besondere Bauten und Anlagen**
+
+<sup>1</sup> Wo es die besondere Art oder Lage einer Baute oder Anlage gebietet, wird die Abbruchprämie im Einzelfall auf Grundlage einer von der gesuchstellenden Person einzureichenden Offerte festgelegt.
+
+<sup>2</sup> Die Justizdirektion kann in einer Weisung entsprechende Arten von Bauten und Anlagen vorsehen, insbesondere Industrie- und Gewerbebauten.
+
+#### Artikel 26e
+
+**Andere Abgeltungen und Entschädigungen**
+
+<sup>1</sup> Hat die gesuchstellende Person einen anderen Anspruch auf Abgeltung oder Entschädigung für den Abbruch, ist dieser bei der Festlegung der Abbruchprämie anzurechnen.
+
+#### Artikel 26f
+
+**Gesuch**
+
+<sup>1</sup> Die Abbruchprämie wird auf Gesuch hin ausgerichtet.
+
+<sup>2</sup> Das Gesuch ist mit den erforderlichen Angaben und Unterlagen dem Amt für Raumentwicklung in der Regel gleichzeitig mit dem Baugesuch, spätestens aber vor Beginn der Abbrucharbeiten einzureichen.
+
+<sup>3</sup> Auf Gesuche, die nach Beginn der Abbrucharbeiten eingereicht werden, wird nicht eingetreten.
+
+#### Artikel 26g
+
+**Entscheid**
+
+<sup>1</sup> Das Amt für Raumentwicklung befindet über das Gesuch und legt die Höhe der Abbruchprämie fest. Es kann Auflagen und Bedingungen verfügen.
+
+#### Artikel 26h
+
+**Beginn der Abbrucharbeiten**
+
+<sup>1</sup> Mit dem Abbruch darf erst begonnen werden, wenn der Entscheid über die Abbruchprämie in Rechtskraft erwachsen ist.
+
+<sup>2</sup> Das Amt für Raumentwicklung kann in begründeten Fällen einen vorzeitigen Beginn auf eigenes Risiko bewilligen.
+
+#### Artikel 26i
+
+**Auszahlung**
+
+<sup>1</sup> Die Auszahlung erfolgt nach Abschluss der Abbrucharbeiten auf Antrag der gesuchstellenden Person. Sie hat nachzuweisen, dass der Abbruch und die Rekultivierung vollständig und unter Einhaltung der Bedingungen und Auflagen erfolgt sind.
+
+#### Artikel 26j
+
+**Finanzierung**
+
+<sup>1</sup> Die Abbruchprämie wird aus dem Mehrwertabgabefonds finanziert.
+
+## 6 Schlussbestimmungen
 
 #### Artikel 27
 
-Änderung bisherigen Rechts …[^h6KapitelSCHLUSSB-1]
+**Änderung bisherigen Rechts[^Artikel27-1]**
+
+[^Artikel27-1]: Die Änderungen wurden in den entsprechenden Erlass eingefügt.
 
 #### Artikel 28
 
-Inkrafttreten Dieses Reglement tritt zusammen mit dem Planungs- und Baugesetz vom 13. Juni 2010 in Kraft.
+**Inkrafttreten**
 
-Im Namen des Regierungsrats
+<sup>1</sup> Dieses Reglement tritt zusammen mit dem Planungs- und Baugesetz vom 13. Juni 2010 in Kraft.
 
-Der Landammann: Markus Züst Der Kanzleidirektor: Roman Balli
+## A1 Anhang 1: Begriffe, Messweisen und zulässige Masse
 
-**Anhang:**
+### A1.1 Terrain
 
-- Begriffe, Messweisen und zulässige Masse
+#### Artikel A1-1
 
-### Anhang Begriffe, Messweisen und zulässige Masse
+**Massgebendes Terrain**
 
-### 1. Terrain
+<sup>1</sup> Als massgebendes Terrain gilt der natürlich gewachsene Geländeverlauf. Kann dieser infolge früherer Abgrabungen und Aufschüttungen nicht mehr festgestellt werden, ist vom natürlichen Geländeverlauf der Umgebung auszugehen. Aus planerischen oder erschliessungs-technischen Gründen kann das massgebende Terrain in einem Planungs- oder im Baubewilligungsverfahren abweichend festgelegt werden.
 
-### 1.1 Massgebendes Terrain
+<sup>2</sup> Bei besonderen Geländeverhältnissen, namentlich in topographisch ungünstigen Gebieten oder in Gebieten mit hohem Grundwasserspiegel, kann die Baubehörde das massgebende Terrain entsprechend den konkreten Verhältnissen abweichend von Ziffer 1.1 hievor verfügen.
 
-Als massgebendes Terrain gilt der natürlich gewachsene Geländeverlauf. Kann dieser infolge früherer Abgrabungen und Aufschüttungen nicht mehr festgestellt werden, ist vom natürlichen Geländeverlauf der Umgebung auszugehen. Aus planerischen oder erschliessungs-technischen Gründen kann das massgebende Terrain in einem Planungs- oder im Baubewilligungsverfahren abweichend festgelegt werden.
+### A1.2 Gebäude
 
-Bei besonderen Geländeverhältnissen, namentlich in topographisch ungünstigen Gebieten oder in Gebieten mit hohem Grundwasserspiegel, kann die Baubehörde das massgebende Terrain entsprechend den konkreten Verhältnissen abweichend von Ziffer 1.1 hievor verfügen.
+#### Artikel A1-2
 
-- 2\. Gebäude
+**Gebäude**
 
-### 2.1 Gebäude
+<sup>1</sup> Gebäude sind ortsfeste Bauten, die zum Schutz von Menschen, Tieren oder Sachen eine feste Überdachung und in der Regel weitere Abschlüsse aufweisen.
 
-Gebäude sind ortsfeste Bauten, die zum Schutz von Menschen, Tieren oder Sachen eine feste Überdachung und in der Regel weitere Abschlüsse aufweisen.
+#### Artikel A1-3
 
-### 2.2 Kleinbauten
+**Kleinbauten**
 
-Kleinbauten sind freistehende Gebäude, die in ihren Dimensionen die zulässigen Masse nicht überschreiten und die nur Nebennutzflächen enthalten. Soweit die Bauordnung der Gemeinde nichts anderes bestimmt, dürfen Kleinbauten höchstens eine Grundfläche von 45 m<sup>2</sup>, eine Fassadenhöhe von höchstens 3 m und eine Gesamthöhe von höchstens 5 m aufweisen.
+<sup>1</sup> Kleinbauten sind freistehende Gebäude, die in ihren Dimensionen die zulässigen Masse nicht überschreiten und die nur Nebennutzflächen enthalten.
 
-### 2.2.1 Kleinstbauten
+<sup>2</sup> Soweit die Bauordnung der Gemeinde nichts anderes bestimmt, dürfen Kleinbauten höchstens eine Grundfläche von 45 m², eine Fassadenhöhe von höchstens 3 m und eine Gesamthöhe von höchstens 5 m aufweisen.
 
-Soweit die Bauordnung der Gemeinde nichts anderes bestimmt, sind Kleinstbauten Kleinbauten, deren Grundfläche höchstens 10 m<sup>2</sup> beträgt und im Übrigen die Ausmasse einer Kleinbaute einhalten.
+#### Artikel A1-4
 
-### 2.3 Anbauten
+**Kleinstbauten**
 
-Anbauten sind mit einem anderen Gebäude zusammengebaut, überschreiten in ihren Dimensionen die zulässigen Masse nicht und enthalten nur Nebennutzflächen.
+<sup>1</sup> Soweit die Bauordnung der Gemeinde nichts anderes bestimmt, sind Kleinstbauten Kleinbauten, deren Grundfläche höchstens 10 m² beträgt und im Übrigen die Ausmasse einer Kleinbaute einhalten.
 
-Soweit die Bauordnung der Gemeinde nichts anderes bestimmt, dürfen Anbauten höchstens eine Grundfläche von 45 m<sup>2</sup>, eine Fassadenhöhe von höchstens 3 m und eine Gesamthöhe von höchstens 5 m aufweisen. Sie dürfen in ihrer Grundfläche nicht grösser sein als das Hauptgebäude.
+#### Artikel A1-5
 
-### 2.4 Unterirdische Bauten
+**Anbauten**
 
-Unterirdische Bauten sind Gebäude, die mit Ausnahme der Erschliessung sowie der Geländer und Brüstungen, vollständig unter dem massgebenden respektive unter dem tiefer gelegten Terrain liegen.
+<sup>1</sup> Anbauten sind mit einem anderen Gebäude zusammengebaut, überschreiten in ihren Dimensionen die zulässigen Masse nicht und enthalten nur Nebennutzflächen.
 
-### 2.5 Unterniveaubauten
+<sup>2</sup> Soweit die Bauordnung der Gemeinde nichts anderes bestimmt, dürfen Anbauten höchstens eine Grundfläche von 45 m², eine Fassadenhöhe von höchstens 3 m und eine Gesamthöhe von höchstens 5 m aufweisen. Sie dürfen in ihrer Grundfläche nicht grösser sein als das Hauptgebäude.
 
-Unterniveaubauten sind Gebäude, die höchstens bis zum zulässigen Mass über das massgebende, respektive über das tiefer gelegte Terrain hinausragen.
+<sup>3</sup> Skizze:
 
-Soweit die Bauordnung der Gemeinde nichts anderes bestimmt, dürfen Unterniveaubauten im Durchschnitt höchstens 1 m und absolut höchstens 1,5 m über das massgebende respektive über das tiefer gelegte Terrain hinausragen.
+#### Artikel A1-6
 
-- 3\. Gebäudeteile
+**Unterirdische Bauten**
 
-### 3.1 Fassadenflucht
+<sup>1</sup> Unterirdische Bauten sind Gebäude, die mit Ausnahme der Erschliessung sowie der Geländer und Brüstungen, vollständig unter dem massgebenden respektive unter dem tiefer gelegten Terrain liegen.
 
-Die Fassadenflucht ist die Mantelfläche, gebildet aus den lotrechten Geraden durch die äussersten Punkte des Baukörpers über dem massgebenden Terrain: Vorspringende und rückspringende Gebäudeteile werden nicht berücksichtigt.
+#### Artikel A1-7
 
-### 3.2 Fassadenlinie
+**Unterniveaubauten**
 
-Die Fassadenlinie ist die Schnittlinie von Fassadenflucht und massgebendem Terrain.
+<sup>1</sup> Unterniveaubauten sind Gebäude, die höchstens bis zum zulässigen Mass über das massgebende, respektive über das tiefer gelegte Terrain hinausragen.
 
-### 3.3 Projizierte Fassadenlinie
+<sup>2</sup> Soweit die Bauordnung der Gemeinde nichts anderes bestimmt, dürfen Unterniveaubauten im Durchschnitt höchstens 1 m und absolut höchstens 1.5 m über das massgebende respektive über das tiefer gelegte Terrain hinausragen.
 
-Die projizierte Fassadenlinie ist die Projektion der Fassadenlinie auf die Ebene der amtlichen Vermessung.
+<sup>3</sup> Skizze:
 
-### 3.4 Vorspringende Gebäudeteile
+### A1.3 Gebäudeteile
 
-Vorspringende Gebäudeteile ragen höchstens bis zum zulässigen Mass (für die Tiefe) über die Fassadenflucht hinaus und dürfen – mit Ausnahme der Dachvorsprünge – das zulässige Mass (für die Breite), beziehungsweise den zulässigen Anteil bezüglich des zugehörigen Fassadenkapitels, nicht überschreiten.
+#### Artikel A1-8
 
-Soweit die Bauordnung der Gemeinde nichts anderes bestimmt, gelten als vorspringende Gebäudeteile:
+**Fassadenflucht**
 
-- a) Gebäudeteile, wenn sie höchsten 1 m tief und 2 m breit sind;
+<sup>1</sup> Die Fassadenflucht ist die Mantelfläche, gebildet aus den lotrechten Geraden durch die äussersten Punkte des Baukörpers über dem massgebenden Terrain: Vorspringende und rückspringende Gebäudeteile werden nicht berücksichtigt.
 
-- b) Dachvorsprünge (einschliesslich der Dachrinne), wenn sie höchstens um 1,5 m über die Fassadenflucht hinausragen.
+#### Artikel A1-9
 
-### 3.5 Rückspringende Gebäudeteile
+**Fassadenlinie**
 
-Rückspringende Gebäudeteile sind gegenüber der Hauptfassade zurückversetzt.
+<sup>1</sup> Die Fassadenlinie ist die Schnittlinie von Fassadenflucht und massgebendem Terrain.
 
-Soweit die Bauordnung der Gemeinde nichts anderes bestimmt, gelten Gebäudeteile als unbedeutend rückspringende Gebäudeteile, wenn sie höchstens 1 m tief und 2 m breit sind.
+#### Artikel A1-10
 
-- 4\. Längenbegriffe, Längenmasse
+**Projizierte Fassadenlinie**
 
-### 4.1 Gebäudelänge
+<sup>1</sup> Die projizierte Fassadenlinie ist die Projektion der Fassadenlinie auf die Ebene der amtlichen Vermessung.
 
-Die Gebäudelänge ist die längere Seite des flächenkleinsten Rechtecks, welches die projizierte Fassadenlinie umfasst.
+<sup>2</sup> Skizze:
 
-### 4.2 Gebäudebreite
+<sup>3</sup> Skizze ebenes Gelände:
 
-Die Gebäudebreite ist die kürzere Seite des flächenkleinsten Rechtecks, welches die projizierte Fassadenlinie umfasst.
+<sup>4</sup> Skizze geneigtes Gelände:
 
-- 5\. Höhenbegriffe, Höhenmasse
+#### Artikel A1-11
 
-### 5.1 Gesamthöhe
+**Vorspringende Gebäudeteile**
 
-Die Gesamthöhe ist der grösste Höhenunterschied zwischen dem höchsten Punkt der Dachkonstruktion und den lotrecht darunter liegenden Punkten auf dem massgebenden Terrain. Soweit die Bauordnung der Gemeinde nichts anderes bestimmt,dürfen technisch bedingte Dachaufbauten, wie Kamine, Lüftungsanlagen usw., die zulässige Gesamthöhe um höchstens 2 m überragen. Vorbehalten bleiben Mehrhöhen, die durch das Bundesrecht, namentlich durch die Luftreinhalteverordnung (LRV; SR 814.318.142.1), vorgeschrieben sind.
+<sup>1</sup> Vorspringende Gebäudeteile ragen höchstens bis zum zulässigen Mass (für die Tiefe) über die Fassadenflucht hinaus und dürfen – mit Ausnahme der Dachvorsprünge – das zulässige Mass (für die Breite), beziehungsweise den zulässigen Anteil bezüglich des zugehörigen Fassadenkapitels, nicht überschreiten.
 
-### 5.2 Fassadenhöhe
+<sup>2</sup> Soweit die Bauordnung der Gemeinde nichts anderes bestimmt, gelten als vorspringende Gebäudeteile:
 
-Die Fassadenhöhe ist der grösste Höhenunterschied zwischen der Schnittlinie der Fassadenflucht mit der Oberkante der Dachkonstruktion und der dazugehörigen Fassadenlinie. Soweit die Bauordnung der Gemeinde nichts anderes bestimmt, dürfen technisch bedingte Dachaufbauten, wie Kamine, Lüftungsanlagen usw., die zulässige Fassadenhöhe um höchstens 2 m überragen. Vorbehalten bleiben Mehrhöhen, die durch das Bundesrecht, namentlich durch die Luftreinhalteverordnung (LRV; SR 814.318.142.1), vorgeschrieben sind.
+- a) Gebäudeteile, wenn sie höchstens 1 m tief und 2 m breit sind
+- b) Dachvorsprünge (einschliesslich der Dachrinne), wenn sie höchstens um 1.5 m über die Fassadenflucht hinausragen
 
-### 5.3 Kniestockhöhe
+<sup>3</sup> Skizze 1:
 
-Die Kniestockhöhe ist der Höhenunterschied zwischen der Oberkante des Dachgeschossbodens im Rohbau und der Schnittlinie der Fassadenflucht mit der Oberkante der Dachkonstruktion.
+<sup>4</sup> Skizze 2:
 
-Soweit die Bauordnung der Gemeinde nichts anderes bestimmt, beträgt die Kniestockhöhe höchstens 0,8 m.Für asymmetrische Giebeldächer und für Pultdächer gilt Ziffer 6.3 hienach.
+#### Artikel A1-12
 
-### 5.4 Lichte Höhe
+**Rückspringende Gebäudeteile**
 
-Die lichte Höhe ist der Höhenunterschied zwischen der Oberkante des fertigen Bodens und der Unterkante der fertigen Decke bzw. Balkenlage, wenn die Nutzbarkeit eines Geschosses durch die Balkenlage bestimmt wird.
+<sup>1</sup> Rückspringende Gebäudeteile sind gegenüber der Hauptfassade zurückversetzt.
 
-Soweit die Bauordnung der Gemeinde nichts anderes bestimmt, beträgt die lichte Höhe für Räume mit Wohnnutzung mindestens 2,30 m. In Räumen mit Dachschräge muss sie auf mindestens der Hälfte der Wohnfläche eingehalten sein.
+<sup>2</sup> Soweit die Bauordnung der Gemeinde nichts anderes bestimmt, gelten Gebäudeteile als unbedeutend rückspringende Gebäudeteile, wenn sie höchstens 1 m tief und 2 m breit sind.
 
-### 5.5 Geschosshöhe
+<sup>3</sup> Skizze:
 
-Die Geschosshöhe ist die Höhe von Oberkante bis Oberkante fertigem Boden.
+### A1.4 Längenbegriffe, Längenmasse
 
-- 6\. Geschosse
+#### Artikel A1-13
 
-### 6.1 Vollgeschosse
+**Gebäudelänge**
 
-Vollgeschosse sind alle Geschosse von Gebäuden ausser Unter-, Dach- und Attikageschosse.
+<sup>1</sup> Die Gebäudelänge ist die längere Seite des flächenkleinsten Rechtecks, welches die projizierte Fassadenlinie umfasst.
 
-Bei zusammengebauten Gebäuden und bei Gebäuden, die in der Höhe oder in der Situation gestaffelt sind, wird die Vollgeschosszahl für jeden Gebäudeteil bzw. für jedes Gebäude separat ermittelt.
+#### Artikel A1-14
 
-### 6.2 Untergeschosse
+**Gebäudebreite**
 
-Untergeschosse sind Geschosse, bei denen die Oberkante des fertigen Bodens, gemessen in der Fassadenflucht, im Mittel höchstens bis zum zulässigen Mass über die Fassadenlinie hinausragt. Soweit die Bauordnung der Gemeinde nichts anderes bestimmt, dürfen Untergeschosse im Durchschnitt höchstens 1 m und absolut höchstens 1,5 m über das massgebende respektive über das tiefer gelegte Terrain hinausragen.
+<sup>1</sup> Die Gebäudebreite ist die kürzere Seite des flächenkleinsten Rechtecks, welches die projizierte Fassadenlinie umfasst.
 
-### 6.3 Dachgeschosse
+<sup>2</sup> Skizze:
 
-Dachgeschosse sind Geschosse, deren Kniestockhöhen das zulässige Mass nicht überschreiten. Soweit die Bauordnung der Gemeinde nichts anderes bestimmt, richtet sich die zulässige Kniestockhöhe nach Ziffer 5.3 hievor. Bei asymmetrischen Giebeldächern oder bei Pultdächern, die nach Gemeinderecht zulässig sind, beträgt die kleine Kniestockhöhe 0,8 m und die grosse 2,30 m.
+### A1.5 Höhenbegriffe, Höhenmasse
 
-### 6.4 Attikageschosse
+#### Artikel A1-15
 
-Attikageschosse sind auf Flachdächern aufgesetzte, zusätzliche Geschosse. Das Attikageschoss muss bei mindestens einer ganzen Fassade gegenüber dem darunter liegenden Geschoss um ein festgelegtes Mass zurückversetzt sein. Soweit die Bauordnung der Gemeinde nichts anderes bestimmt, muss das Attikageschoss bei mindestens einer ganzen Fassade gegenüber dem darunter liegenden Geschoss um 3 m zurückversetzt sein.
+**Gesamthöhe**
 
-- 7\. Abstände und Abstandsbereiche
+<sup>1</sup> Die Gesamthöhe ist der grösste Höhenunterschied zwischen dem höchsten Punkt der Dachkonstruktion und den lotrecht darunter liegenden Punkten auf dem massgebenden Terrain.
 
-### 7.1 Grenzabstand
+<sup>2</sup> Soweit die Bauordnung der Gemeinde nichts anderes bestimmt,dürfen technisch bedingte Dachaufbauten, wie Kamine, Lüftungsanlagen usw., die zulässige Gesamthöhe um höchstens 2 m überragen. Vorbehalten bleiben Mehrhöhen, die durch das Bundesrecht, namentlich durch die Luftreinhalteverordnung (LRV, SR [814.318.142.1](https://db.clex.ch/link/Bund/814.318.142.1/de)), vorgeschrieben sind.
 
-Der Grenzabstand ist die Entfernung zwischen der projizierten Fassadenlinie und der Parzellengrenze.
+<sup>3</sup> Skizze 1:
 
-### 7.2 Gebäudeabstand
+<sup>4</sup> Skizze 2:
 
-Der Gebäudeabstand ist die Entfernung zwischen den projizierten Fassadenlinien zweier Gebäude.
+#### Artikel A1-16
 
-### 7.3 Baulinien
+**Fassadenhöhe**
 
-Baulinien begrenzen die Bebauung und dienen insbesondere der Sicherung bestehender und geplanter Anlagen und Flächen sowie der baulichen Gestaltung.
+<sup>1</sup> Die Fassadenhöhe ist der grösste Höhenunterschied zwischen der Schnittlinie der Fassadenflucht mit der Oberkante der Dachkonstruktion und der dazugehörigen Fassadenlinie.
 
-### 7.4 Baubereich
+<sup>2</sup> Soweit die Bauordnung der Gemeinde nichts anderes bestimmt, dürfen technisch bedingte Dachaufbauten, wie Kamine, Lüftungsanlagen usw., die zulässige Fassadenhöhe um höchstens 2 m überragen. Vorbehalten bleiben Mehrhöhen, die durch das Bundesrecht, namentlich durch die Luftreinhalteverordnung (LRV; SR [814.318.142.1](https://db.clex.ch/link/Bund/814.318.142.1/de)), vorgeschrieben sind.
 
-Der Baubereich umfasst den bebaubaren Bereich, der abweichend von Abstandsvorschriften und Baulinien in einem Nutzungsplanverfahren festgelegt wird. IVHB – Anhang 1: Begriffe und Messweisen Seite 5
+<sup>3</sup> Skizze 1:
 
-## Weitere Fussnoten
+<sup>4</sup> Skizze 2:
 
-- [6] Artikel 95 Absatz 3 PBG
+#### Artikel A1-17
+
+**Kniestockhöhe**
+
+<sup>1</sup> Die Kniestockhöhe ist der Höhenunterschied zwischen der Oberkante des Dachgeschossbodens im Rohbau und der Schnittlinie der Fassadenflucht mit der Oberkante der Dachkonstruktion.
+
+<sup>2</sup> Soweit die Bauordnung der Gemeinde nichts anderes bestimmt, beträgt die Kniestockhöhe höchstens 0.8 m.Für asymmetrische Giebeldächer und für Pultdächer gilt Ziffer 6.3 hienach.
+
+<sup>3</sup> Skizze:
+
+#### Artikel A1-18
+
+**Lichte Höhe**
+
+<sup>1</sup> Die lichte Höhe ist der Höhenunterschied zwischen der Oberkante des fertigen Bodens und der Unterkante der fertigen Decke bzw. Balkenlage, wenn die Nutzbarkeit eines Geschosses durch die Balkenlage bestimmt wird.
+
+<sup>2</sup> Soweit die Bauordnung der Gemeinde nichts anderes bestimmt, beträgt die lichte Höhe für Räume mit Wohnnutzung mindestens 2.3 m. In Räumen mit Dachschräge muss sie auf mindestens der Hälfte der Wohnfläche eingehalten sein.
+
+<sup>3</sup> Skizze:
+
+#### Artikel A1-19
+
+**Geschosshöhe**
+
+<sup>1</sup> Die Geschosshöhe ist die Höhe von Oberkante bis Oberkante fertigem Boden.
+
+### A1.6 Geschosse
+
+#### Artikel A1-20
+
+**Vollgeschosse**
+
+<sup>1</sup> Vollgeschosse sind alle Geschosse von Gebäuden ausser Unter-, Dach- und Attikageschosse.
+
+<sup>2</sup> Bei zusammengebauten Gebäuden und bei Gebäuden, die in der Höhe oder in der Situation gestaffelt sind, wird die Vollgeschosszahl für jeden Gebäudeteil bzw. für jedes Gebäude separat ermittelt.
+
+<sup>3</sup> Skizze:
+
+#### Artikel A1-21
+
+**Untergeschosse**
+
+<sup>1</sup> Untergeschosse sind Geschosse, bei denen die Oberkante des fertigen Bodens, gemessen in der Fassadenflucht, im Mittel höchstens bis zum zulässigen Mass über die Fassadenlinie hinausragt.
+
+<sup>2</sup> Soweit die Bauordnung der Gemeinde nichts anderes bestimmt, dürfen Untergeschosse im Durchschnitt höchstens 1 m und absolut höchstens 1.5 m über das massgebende respektive über das tiefer gelegte Terrain hinausragen.
+
+<sup>3</sup> Skizze 1:
+
+<sup>4</sup> Skizze 2:
+
+<sup>5</sup> Skizze 3:
+
+#### Artikel A1-22
+
+**Dachgeschosse**
+
+<sup>1</sup> Dachgeschosse sind Geschosse, deren Kniestockhöhen das zulässige Mass nicht überschreiten.
+
+<sup>2</sup> Soweit die Bauordnung der Gemeinde nichts anderes bestimmt, richtet sich die zulässige Kniestockhöhe nach Ziffer 5.3 hievor. Bei asymmetrischen Giebeldächern oder bei Pultdächern, die nach Gemeinderecht zulässig sind, beträgt die kleine Kniestockhöhe 0.8 m und die grosse 2.3 m.
+
+<sup>3</sup> Skizze 1:
+
+<sup>4</sup> Skizze 2:
+
+<sup>5</sup> Skizze 3:
+
+#### Artikel A1-23
+
+**Attikageschosse**
+
+<sup>1</sup> Attikageschosse sind auf Flachdächern aufgesetzte, zusätzliche Geschosse. Das Attikageschoss muss bei mindestens einer ganzen Fassade gegenüber dem darunter liegenden Geschoss um ein festgelegtes Mass zurückversetzt sein.
+
+<sup>2</sup> Soweit die Bauordnung der Gemeinde nichts anderes bestimmt, muss das Attikageschoss bei mindestens einer ganzen Fassade gegenüber dem darunter liegenden Geschoss um 3 m zurückversetzt sein.
+
+<sup>3</sup> Skizze 1:
+
+<sup>4</sup> Skizze 2:
+
+### A1.7 Abstände und Abstandsbereiche
+
+#### Artikel A1-24
+
+**Grenzabstand**
+
+<sup>1</sup> Der Grenzabstand ist die Entfernung zwischen der projizierten Fassadenlinie und der Parzellengrenze.
+
+#### Artikel A1-25
+
+**Gebäudeabstand**
+
+<sup>1</sup> Der Gebäudeabstand ist die Entfernung zwischen den projizierten Fassadenlinien zweier Gebäude.
+
+#### Artikel A1-26
+
+**Baulinien**
+
+<sup>1</sup> Baulinien begrenzen die Bebauung und dienen insbesondere der Sicherung bestehender und geplanter Anlagen und Flächen sowie der baulichen Gestaltung.
+
+<sup>2</sup> Skizze:
+
+#### Artikel A1-27
+
+**Baubereich**
+
+<sup>1</sup> Der Baubereich umfasst den bebaubaren Bereich, der abweichend von Abstandsvorschriften und Baulinien in einem Nutzungsplanverfahren festgelegt wird. IVHB – Anhang 1: Begriffe und Messweisen Seite 5.
+
+<sup>2</sup> Skizze:
+
+AB 16.12.2011
