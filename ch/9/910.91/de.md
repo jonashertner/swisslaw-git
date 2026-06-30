@@ -4,11 +4,11 @@ title: "Verordnung vom 7. Dezember 1998 über landwirtschaftliche Begriffe und d
 short: LBV
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/13"
 language: de
-version: 2024-01-01
+version: 2026-07-01
 adopted: 1998-12-07
 in_force: 1999-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/13/20240101/de/xml/fedlex-data-admin-ch-eli-cc-1999-13-20240101-de-xml-8.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/13/20240101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/13/20260701/de/xml/fedlex-data-admin-ch-eli-cc-1999-13-20260701-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/13/20260701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1999/13/20240101/de"
 
 (Landwirtschaftliche Begriffsverordnung, LBV)
 
-vom 7. Dezember 1998 (Stand am 1. Januar 2024)
+vom 7. Dezember 1998 (Stand am 1. Juli 2026)
 
 Der Schweizerische Bundesrat,
 
@@ -25,7 +25,7 @@ gestützt auf Artikel 177 Absatz 1 des Landwirtschaftgesetzes vom 29. April 1998
 
 verordnet:
 
-[^ingress-1]: [SR 910.1](https://fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033)
+[^ingress-1]: [SR 910.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10401)
 [^ingress-2]: Fassung gemäss Ziff. I der V vom 26. Nov. 2003, in Kraft seit 1. Jan. 2004 ([AS 2003 4873](https://fedlex.data.admin.ch/eli/oc/2003/718)).
 
 ## 1. Kapitel: Geltungsbereich und Gegenstand
@@ -142,13 +142,13 @@ Die Anforderung von Absatz 1 Buchstabe c ist insbesondere nicht erfüllt, wenn:
 - b.[^6-9] der Bewirtschafter oder die Bewirtschafterin eines anderen Betriebes oder deren Gesellschafter, Genossenschafter, Aktionär oder Vertreter zu 25 oder mehr Prozent am Eigen- oder Gesamtkapital des Betriebes beteiligt ist; oder
 - c. die auf dem Betrieb anfallenden Arbeiten ohne anerkannte Gemeinschaftsform nach den Artikeln 10 oder 12 mehrheitlich von anderen Betrieben ausgeführt werden.[^6-10]
 
-[^6-1]: Fassung gemäss Ziff. I der V vom 26. Nov. 2003, in Kraft seit 1. Jan. 2004 ([AS 2003 4873](https://fedlex.data.admin.ch/eli/oc/2003/718)). Siehe jedoch die Ausnahmeregelung in Art. 5 Abs. 2 der Bio-Verordnung vom 22. Sept. 1997 ([SR 910.18](https://fedlex.data.admin.ch/eli/cc/1997/2498_2498_2498)).
+[^6-1]: Fassung gemäss Ziff. I der V vom 26. Nov. 2003, in Kraft seit 1. Jan. 2004 ([AS 2003 4873](https://fedlex.data.admin.ch/eli/oc/2003/718)). Siehe jedoch die Ausnahmeregelung in Art. 5 Abs. 2 der Bio-Verordnung vom 22. Sept. 1997 ([SR 910.18](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10418)).
 [^6-2]: Fassung gemäss Ziff. I der V vom 25. Mai 2011, in Kraft seit 1. Juli 2011 ([AS 2011 2381](https://fedlex.data.admin.ch/eli/oc/2011/341)).
 [^6-3]: Fassung gemäss Ziff. I der V vom 23. Okt. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 3901](https://fedlex.data.admin.ch/eli/oc/2013/715)).
-[^6-4]: [SR 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
+[^6-4]: [SR 910.13](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10406)
 [^6-5]: Fassung gemäss Ziff. I der V vom 23. Okt. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 3901](https://fedlex.data.admin.ch/eli/oc/2013/715)).
-[^6-6]: [SR 916.344](https://fedlex.data.admin.ch/eli/cc/2013/727)
-[^6-7]: [SR 910.18](https://fedlex.data.admin.ch/eli/cc/1997/2498_2498_2498)
+[^6-6]: [SR 916.344](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10718)
+[^6-7]: [SR 910.18](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10418)
 [^6-8]: Eingefügt durch Ziff. I der V vom 9. Juni 2006, in Kraft seit 1. Jan. 2007 ([AS 2006 2493](https://fedlex.data.admin.ch/eli/oc/2006/384)).
 [^6-9]: Fassung gemäss Ziff. I der V vom 23. Okt. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 3901](https://fedlex.data.admin.ch/eli/oc/2013/715)).
 [^6-10]: Eingefügt durch Ziff. I der V vom 26. Nov. 2003, in Kraft seit 1. Jan. 2004 ([AS 2003 4873](https://fedlex.data.admin.ch/eli/oc/2003/718)).
@@ -313,7 +313,7 @@ Nicht zur LN gehören:
 - b. Dauergrünflächen (Art. 19), die von Sömmerungs- oder Gemeinschaftsweidebetrieben bewirtschaftet werden.
 
 [^14-1]: Fassung gemäss Ziff. I der V vom 28. Okt. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 4525](https://fedlex.data.admin.ch/eli/oc/2015/755)).
-[^14-2]: [SR 921.0](https://fedlex.data.admin.ch/eli/cc/1992/2521_2521_2521)
+[^14-2]: [SR 921.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10958)
 
 #### Art. 15
 
@@ -363,24 +363,26 @@ Flächen nach Absatz 1 Buchstaben d und e zählen zur landwirtschaftlichen Nutzf
 
 Flächen mit Solaranlagen zählen zur landwirtschaftlichen Nutzfläche, wenn:
 
-- a. die Solaranlagen eine der Voraussetzungen nach Artikel 32*c* Absatz 1 Buchstabe a oder c der Raumplanungsverordnung vom 28. Juni 2000[^16-9] (RPV) erfüllen; und
+- a.[^16-9] die Solaranlagen eine der Voraussetzungen nach Artikel 24<sup>ter</sup> Absatz 2 des Raumplanungsgesetz vom 22. Juni 1979[^16-10] oder Artikel 32*c* Absatz 1 der Raumplanungsverordnung vom 28. Juni 2000[^16-11] erfüllen; und
 - b.
 
   der Bewirtschafter oder die Bewirtschafterin nachweist, dass:
 
   - 1\. es sich um eigene oder mit schriftlichem Vertrag gepachtete Flächen nach Artikel 14 Absatz 1 Buchstabe a, d oder e handelt, und
-  - 2\. für die Solaranlagen rechtskräftige Baubewilligungen vorliegen.[^16-10]
+  - 2\. für die Solaranlagen rechtskräftige Baubewilligungen vorliegen.[^16-12]
 
 [^16-1]: Fassung gemäss Ziff. I der V vom 1. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 699](https://fedlex.data.admin.ch/eli/oc/2023/699)).
 [^16-2]: Fassung gemäss Ziff. I der V vom 23. Okt. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 3901](https://fedlex.data.admin.ch/eli/oc/2013/715)).
 [^16-3]: Fassung gemäss Ziff. I der V vom 23. Okt. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 3901](https://fedlex.data.admin.ch/eli/oc/2013/715)).
 [^16-4]: Fassung gemäss Ziff. I der V vom 23. Okt. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 3901](https://fedlex.data.admin.ch/eli/oc/2013/715)).
-[^16-5]: [SR 221.213.2](https://fedlex.data.admin.ch/eli/cc/1986/926_926_926)
+[^16-5]: [SR 221.213.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5866)
 [^16-6]: Fassung gemäss Ziff. I der V vom 27. Okt. 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 5869](https://fedlex.data.admin.ch/eli/oc/2010/838)).
 [^16-7]: Das Merkblatt ist abrufbar unter: [www.blw.admin.ch/de/direktzahlungen-uebersicht](http://www.blw.admin.ch/de/direktzahlungen-uebersicht).
 [^16-8]: Eingefügt durch Ziff. I der V vom 2. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 753](https://fedlex.data.admin.ch/eli/oc/2022/753)).
-[^16-9]: [SR 700.1](https://fedlex.data.admin.ch/eli/cc/2000/310)
-[^16-10]: Eingefügt durch Ziff. I der V vom 1. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 699](https://fedlex.data.admin.ch/eli/oc/2023/699)).
+[^16-9]: Fassung gemäss Anhang Ziff. 13 der V vom 15. Okt. 2025, in Kraft seit 1. Juli 2026 ([AS 2025 659](https://fedlex.data.admin.ch/eli/oc/2025/659)).
+[^16-10]: [SR 700](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8351)
+[^16-11]: [SR 700.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8353)
+[^16-12]: Eingefügt durch Ziff. I der V vom 1. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 699](https://fedlex.data.admin.ch/eli/oc/2023/699)).
 
 #### Art. 17
 
@@ -401,7 +403,7 @@ Im Ausland gelegene Flächen gelten als landwirtschaftliche Nutzfläche eines Be
 <sup>4</sup> Die Kantone führen ein Verzeichnis der angestammten und der übrigen Flächen im Ausland, die von einem Betrieb in der Schweiz bewirtschaftet werden.[^17-3]
 
 [^17-1]: Fassung gemäss Anhang 4 Ziff. 50 der Zollverordnung vom 1. Nov. 2006, in Kraft seit 1. Mai 2007 ([AS 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
-[^17-2]: [SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
+[^17-2]: [SR 631.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7812)
 [^17-3]: Fassung gemäss Ziff. I der V vom 1. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 699](https://fedlex.data.admin.ch/eli/oc/2023/699)).
 
 #### Art. 18
@@ -438,7 +440,7 @@ Eine nach dem 1. Juni angelegte Kultur gilt nur dann als Hauptkultur, wenn sie:
 - c. ordentlich geerntet werden kann.[^18a-4]
 
 [^18a-1]: Eingefügt durch Anhang Ziff. 3 der V vom 13. April 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264)).
-[^18a-2]: [SR 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
+[^18a-2]: [SR 910.13](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10406)
 [^18a-3]: Fassung gemäss Ziff. I der V vom 1. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 699](https://fedlex.data.admin.ch/eli/oc/2023/699)).
 [^18a-4]: Eingefügt durch Ziff. I der V vom 1. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 699](https://fedlex.data.admin.ch/eli/oc/2023/699)).
 
@@ -472,7 +474,7 @@ Flächen, die nicht jährlich gemäht werden, sonst aber die Voraussetzungen fü
 <sup>7</sup> Als Dauergrünfläche gilt auch eine gepflegte Selve von Edelkastanien mit einer geschlossenen Grasnarbe und mit höchstens 50 Bäumen je Hektare.[^19-4]
 
 [^19-1]: Fassung gemäss Ziff. I der V vom 9. Juni 2006, in Kraft seit 1. Jan. 2007 ([AS 2006 2493](https://fedlex.data.admin.ch/eli/oc/2006/384)).
-[^19-2]: [SR 921.01](https://fedlex.data.admin.ch/eli/cc/1992/2538_2538_2538)
+[^19-2]: [SR 921.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10959)
 [^19-3]: Fassung gemäss Ziff. I der V vom 26. Nov. 2003, in Kraft seit 1. Jan. 2004 ([AS 2003 4873](https://fedlex.data.admin.ch/eli/oc/2003/718)).
 [^19-4]: Eingefügt durch Ziff. I der V vom 16. Sept. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 3315](https://fedlex.data.admin.ch/eli/oc/2016/562)).
 
@@ -550,7 +552,7 @@ Als Sömmerungsfläche gelten:
 
 <sup>2</sup> Die Flächen im Sömmerungsgebiet nach Artikel 1 Absatz 2 der Landwirtschaftlichen Zonen-Verordnung vom 7. Dezember 1998[^24-1] gelten als Sömmerungsflächen, auch wenn sie anders genutzt werden.
 
-[^24-1]: [SR 912.1](https://fedlex.data.admin.ch/eli/cc/1999/46)
+[^24-1]: [SR 912.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10437)
 
 #### Art. 25
 
@@ -606,7 +608,7 @@ Als Grundfutter gelten:
 
 Als Kraftfutter gelten alle Futtermittel nach Artikel 3 Absatz l der Futtermittel-Verordnung vom 26. Oktober 2011[^29-1], die nicht unter Artikel 28 fallen.
 
-[^29-1]: [SR 916.307](https://fedlex.data.admin.ch/eli/cc/2011/772)
+[^29-1]: [SR 916.307](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10674)
 
 ## 3. Kapitel: Anerkennung der Betriebs- und Gemeinschaftsformen, Flächenüberprüfung
 
@@ -626,7 +628,7 @@ Als Kraftfutter gelten alle Futtermittel nach Artikel 3 Absatz l der Futtermitte
 
 [^29a-1]: Eingefügt durch Ziff. I der V vom 26. Nov. 2003, in Kraft seit 1. Jan. 2004 ([AS 2003 4873](https://fedlex.data.admin.ch/eli/oc/2003/718)).
 [^29a-2]: Fassung gemäss Ziff. I der V vom 23. Okt. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 3901](https://fedlex.data.admin.ch/eli/oc/2013/715)).
-[^29a-3]: [SR 211.412.11](https://fedlex.data.admin.ch/eli/cc/1993/1410_1410_1410)
+[^29a-3]: [SR 211.412.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5757)
 [^29a-4]: Eingefügt durch Ziff. I der V vom 9. Juni 2006, in Kraft seit 1. Jan. 2007 ([AS 2006 2493](https://fedlex.data.admin.ch/eli/oc/2006/384)).
 
 #### Art. 29b
@@ -650,7 +652,7 @@ Betriebe, die aus der Aufteilung eines bestehenden Betriebes hervorgehen, könne
   - 2\. jeder Bewirtschafter alleine Eigentümer seines Pächtervermögens ist und den Betrieb als Selbstbewirtschafter führt.
 
 [^29b-1]: Eingefügt durch Ziff. I der V vom 26. Nov. 2003, in Kraft seit 1. Jan. 2004 ([AS 2003 4873](https://fedlex.data.admin.ch/eli/oc/2003/718)).
-[^29b-2]: [SR 211.412.11](https://fedlex.data.admin.ch/eli/cc/1993/1410_1410_1410)
+[^29b-2]: [SR 211.412.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5757)
 
 #### Art. 30
 
@@ -766,7 +768,7 @@ Anhang[^t-1]
 <tr><td>2.1.1 über 900 Tage alt</td><td colspan="2">0,70</td></tr>
 <tr><td>2.1.2 über 180 Tage bis 900 Tage alt</td><td colspan="2">0,50</td></tr>
 <tr><td>2.1.3 bis 180 Tage alt</td><td colspan="2">0,30</td></tr>
-<tr><td>**2.2** **Widerristhöhe bis 148 cm**</td><td colspan="2">[tab]</td></tr>
+<tr><td>**2.2** **Widerristhöhe bis 148 cm**</td><td colspan="2"></td></tr>
 <tr><td>2.2.1 über 900 Tage alt</td><td colspan="2">0,35</td></tr>
 <tr><td>2.2.2 über 180 Tage bis 900 Tage alt</td><td colspan="2">0,25</td></tr>
 <tr><td>2.2.3 bis 180 Tage alt</td><td colspan="2">0,15</td></tr>

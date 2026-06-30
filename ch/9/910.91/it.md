@@ -4,11 +4,11 @@ title: "Ordinanza del 7 dicembre 1998 sulla terminologia agricola e sul riconosc
 short: OTerm
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/13"
 language: it
-version: 2024-01-01
+version: 2026-07-01
 adopted: 1998-12-07
 in_force: 1999-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/13/20240101/it/xml/fedlex-data-admin-ch-eli-cc-1999-13-20240101-it-xml-8.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/13/20240101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/13/20260701/it/xml/fedlex-data-admin-ch-eli-cc-1999-13-20260701-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/13/20260701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1999/13/20240101/it"
 
 (Ordinanza sulla terminologia agricola, OTerm)
 
-del 7 dicembre 1998 (Stato 1° gennaio 2024)
+del 7 dicembre 1998 (Stato 1° luglio 2026)
 
 Il Consiglio federale svizzero,
 
@@ -25,7 +25,7 @@ visto l’articolo 177 capoverso 1 della legge del 29 aprile 1998[^ingress-1] su
 
 ordina:
 
-[^ingress-1]: [RS 910.1](https://fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033)
+[^ingress-1]: [RS 910.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10401)
 [^ingress-2]: Nuovo testo giusta la cifra I dell’O del 26 nov. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4873](https://fedlex.data.admin.ch/eli/oc/2003/718)).
 
 ## Capitolo 1: Campo d’applicazione e oggetto
@@ -147,8 +147,8 @@ Il requisito di cui al capoverso 1 lettera c non è adempiuto in particolare se:
 [^6-3]: Nuovo testo giusta la cifra I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3901](https://fedlex.data.admin.ch/eli/oc/2013/715)).
 [^6-4]: RS **910.93**
 [^6-5]: Nuovo testo giusta la cifra I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3901](https://fedlex.data.admin.ch/eli/oc/2013/715)).
-[^6-6]: [RS 916.344](https://fedlex.data.admin.ch/eli/cc/2013/727)
-[^6-7]: [RS 910.18](https://fedlex.data.admin.ch/eli/cc/1997/2498_2498_2498)
+[^6-6]: [RS 916.344](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10718)
+[^6-7]: [RS 910.18](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10418)
 [^6-8]: Introdotto dalla cifra I dell’O del 9 giu. 2006, in vigore dal 1° gen. 2007 ([RU 2006 2493](https://fedlex.data.admin.ch/eli/oc/2006/384)).
 [^6-9]: Nuovo testo giusta la cifra I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3901](https://fedlex.data.admin.ch/eli/oc/2013/715)).
 [^6-10]: Nuovo testo giusta la cifra I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3901](https://fedlex.data.admin.ch/eli/oc/2013/715)).
@@ -314,7 +314,7 @@ Non rientrano nella SAU:
 - b. le superfici permanentemente inerbite (art. 19) che sono gestite da aziende d’estivazione o da aziende con pascoli comunitari.
 
 [^14-1]: Nuovo testo giusta la cifra I dell’O del 28 ott. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4525](https://fedlex.data.admin.ch/eli/oc/2015/755)).
-[^14-2]: [RS 921.0](https://fedlex.data.admin.ch/eli/cc/1992/2521_2521_2521)
+[^14-2]: [RS 921.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10958)
 
 #### Art. 15
 
@@ -364,24 +364,26 @@ Le superfici ai sensi del capoverso 1 lettere d ed e sono considerate superficie
 
 Le superfici con impianti solari sono considerate superficie agricola utile se:
 
-- a. gli impianti solari adempiono una delle condizioni di cui all’articolo 32*c* capoverso 1 lettera a o c dell’ordinanza del 28 giugno 2000[^16-9] sulla pianificazione del territorio (OPT); e
+- a.[^16-9] gli impianti solari adempiono una delle condizioni di cui all’articolo 24<sup>ter</sup> capoverso 2 della legge del 22 giugno 1979[^16-10] sulla pianificazione del territorio o all’articolo 32*c* capoverso 1 dell’ordinanza del 28 giugno 2000[^16-11] sulla pianificazione del territorio; e
 - b.
 
   il gestore dimostra che:
 
   - 1\. si tratta di superfici di proprietà o per le quali è stato concluso un contratto scritto di affitto conformemente all’articolo 14 capoverso 1 lettera a, d oppure e, e
-  - 2\. per gli impianti solari di cui all’articolo 32*c* capoverso 1 lettera a o c OPT esistono autorizzazioni edilizie passate in giudicato.[^16-10]
+  - 2\. per gli impianti solari di cui all’articolo 32*c* capoverso 1 lettera a o c OPT esistono autorizzazioni edilizie passate in giudicato.[^16-12]
 
 [^16-1]: Nuovo testo giusta la cifra I dell’O del 1° nov. 2023, in vigore dal 1° gen. 2024 ([RU 2024 699](https://fedlex.data.admin.ch/eli/oc/2024/699)).
 [^16-2]: Nuovo testo giusta la cifra I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3901](https://fedlex.data.admin.ch/eli/oc/2013/715)).
 [^16-3]: Nuovo testo giusta la cifra I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3901](https://fedlex.data.admin.ch/eli/oc/2013/715)).
 [^16-4]: Nuovo testo giusta la cifra I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3901](https://fedlex.data.admin.ch/eli/oc/2013/715)).
-[^16-5]: [RS 221.213.2](https://fedlex.data.admin.ch/eli/cc/1986/926_926_926)
+[^16-5]: [RS 221.213.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5866)
 [^16-6]: Nuovo testo giusta la cifra I dell’O del 27 ott. 2010, in vigore dal 1° gen. 2011 ([RU 2010 5869](https://fedlex.data.admin.ch/eli/oc/2010/838)).
 [^16-7]: Il promemoria può essere consultato su: www.blw.admin.ch/it/pagamenti-diretti-sintesi
 [^16-8]: Introdotto dalla cifra I dell’O del 2 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 753](https://fedlex.data.admin.ch/eli/oc/2022/753)).
-[^16-9]: [RS 700.1](https://fedlex.data.admin.ch/eli/cc/2000/310)
-[^16-10]: Introdotto dalla cifra I dell’O del 1° nov. 2023, in vigore dal 1° gen. 2024 ([RU 2024 699](https://fedlex.data.admin.ch/eli/oc/2024/699)).
+[^16-9]: Nuovo testo giusta l’appendice n. 13 dell’O del 15 ott. 2025, in vigore dal 1° lug. 2026 ([RU 2025 659](https://fedlex.data.admin.ch/eli/oc/2025/659)).
+[^16-10]: [RS 700](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8351)
+[^16-11]: [RS 700.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8353)
+[^16-12]: Introdotto dalla cifra I dell’O del 1° nov. 2023, in vigore dal 1° gen. 2024 ([RU 2024 699](https://fedlex.data.admin.ch/eli/oc/2024/699)).
 
 #### Art. 17
 
@@ -402,7 +404,7 @@ Le superfici ubicate all’estero sono considerate superficie agricola utile di 
 <sup>4</sup> I Cantoni tengono un registro delle superfici all’estero coltivate per tradizione famigliare e delle altre superfici all’estero gestite da un’azienda agricola svizzera.[^17-3]
 
 [^17-1]: Nuovo testo giusta l’all. 4 n. 50 dell’O del 1° nov. 2006 sulle dogane, in vigore dal 1° mag. 2007 ([RU 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
-[^17-2]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
+[^17-2]: [RS 631.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7812)
 [^17-3]: Nuovo testo giusta la cifra I dell’O del 1° nov. 2023, in vigore dal 1° gen. 2024 ([RU 2024 699](https://fedlex.data.admin.ch/eli/oc/2024/699)).
 
 #### Art. 18
@@ -440,7 +442,7 @@ Una coltura piantata dopo il 1° giugno è considerata una coltura principale so
 - c. può essere raccolta regolarmente.[^18a-4]
 
 [^18a-1]: Introdotto dall’all. n. 3 dell’O del 13 apr. 2022, in vigore dal 1° gen. 2023 ([RU 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264)).
-[^18a-2]: [RS 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
+[^18a-2]: [RS 910.13](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10406)
 [^18a-3]: Nuovo testo giusta la cifra I dell’O del 1° nov. 2023, in vigore dal 1° gen. 2024 ([RU 2024 699](https://fedlex.data.admin.ch/eli/oc/2024/699)).
 [^18a-4]: Introdotto dalla cifra I dell’O del 1° nov. 2023, in vigore dal 1° gen. 2024 ([RU 2024 699](https://fedlex.data.admin.ch/eli/oc/2024/699)).
 
@@ -474,7 +476,7 @@ Le superfici che non vengono falciate ogni anno, ma che soddisfano le condizioni
 <sup>7</sup> Per superficie permanentemente inerbita s’intende anche una selva curata di castagni con una cotica erbosa fitta e con al massimo 50 alberi per ettaro.[^19-4]
 
 [^19-1]: Nuovo testo giusta la cifra I dell’O del 9 giu. 2006, in vigore dal 1° gen. 2007 ([RU 2006 2493](https://fedlex.data.admin.ch/eli/oc/2006/384)).
-[^19-2]: [RS 921.01](https://fedlex.data.admin.ch/eli/cc/1992/2538_2538_2538)
+[^19-2]: [RS 921.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10959)
 [^19-3]: Nuovo testo giusta la cifra I dell’O del 26 nov. 2023, in vigore dal 1° gen. 2004 ([RU 2003 4873](https://fedlex.data.admin.ch/eli/oc/2003/718)).
 [^19-4]: Introdotto dalla cifra I dell’O del 16 set. 2016, in vigore dal 1° gen. 2017 ([RU 2016 3315](https://fedlex.data.admin.ch/eli/oc/2016/562)).
 
@@ -552,7 +554,7 @@ Per superficie d’estivazione si intendono:
 
 <sup>2</sup> Le superfici nella regione d’estivazione di cui all’articolo 1 capoverso 2 dell’ordinanza del 7 dicembre 1998[^24-1] sulle zone agricole sono considerate superfici d’estivazione anche se vengono sfruttate per altri scopi.
 
-[^24-1]: [RS 912.1](https://fedlex.data.admin.ch/eli/cc/1999/46)
+[^24-1]: [RS 912.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10437)
 
 #### Art. 25
 
@@ -608,7 +610,7 @@ Per foraggio di base s’intendono:
 
 Per foraggio concentrato s’intendono tutti i foraggi di cui all’articolo 3 capoverso 1 dell’ordinanza del 26 ottobre 2011[^29-1] sugli alimenti per animali non contemplati dall’articolo 28.
 
-[^29-1]: [RS 916.307](https://fedlex.data.admin.ch/eli/cc/2011/772)
+[^29-1]: [RS 916.307](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10674)
 
 ## Capitolo 3: Riconoscimento delle forme di azienda e di comunità aziendali, verifica delle superfici
 
@@ -628,7 +630,7 @@ Per foraggio concentrato s’intendono tutti i foraggi di cui all’articolo 3 c
 
 [^29a-1]: Introdotto dalla cifra I dell’O del 26 nov. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4873](https://fedlex.data.admin.ch/eli/oc/2003/718)).
 [^29a-2]: Nuovo testo giusta la cifra I dell’O del 28 ott. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4525](https://fedlex.data.admin.ch/eli/oc/2015/755)).
-[^29a-3]: [RS 211.412.11](https://fedlex.data.admin.ch/eli/cc/1993/1410_1410_1410)
+[^29a-3]: [RS 211.412.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5757)
 [^29a-4]: Introdotto dalla cifra I dell’O del 9 giu. 2006, in vigore dal 1° gen. 2007 ([RU 2006 2493](https://fedlex.data.admin.ch/eli/oc/2006/384)).
 
 #### Art. 29b
@@ -652,7 +654,7 @@ Le aziende che derivano dalla divisione di un’azienda esistente possono essere
   - 2\. ogni gestore è proprietario unico della sua sostanza di affittuario e gestisce l’azienda come gestore indipendente.
 
 [^29b-1]: Introdotto dalla cifra I dell’O del 26 nov. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4873](https://fedlex.data.admin.ch/eli/oc/2003/718)).
-[^29b-2]: [RS 211.412.11](https://fedlex.data.admin.ch/eli/cc/1993/1410_1410_1410)
+[^29b-2]: [RS 211.412.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5757)
 
 #### Art. 30
 
@@ -764,11 +766,11 @@ Allegato[^t-1]
 <tr><td>1.23 oltre 160 fino a 365 giorni di età</td><td colspan="2">[tab] 0,33</td></tr>
 <tr><td>1.24 fino a 160 giorni di età</td><td colspan="2">[tab] 0,13</td></tr>
 <tr><td>2. Animali della specie equina</td><td colspan="2"></td></tr>
-<tr><td>**2.1** **Altezza al garrese 148 cm e oltre**</td><td colspan="2">[tab]</td></tr>
+<tr><td>**2.1** **Altezza al garrese 148 cm e oltre**</td><td colspan="2"></td></tr>
 <tr><td>2.1.1 oltre 900 giorni di età</td><td colspan="2">[tab] 0,70</td></tr>
 <tr><td>2.1.2 oltre 180 fino a 900 giorni di età</td><td colspan="2">0,50</td></tr>
 <tr><td>2.1.3 fino a 180 giorni di età</td><td colspan="2">0,30</td></tr>
-<tr><td>**2.2** **Altezza al garrese fino a 148 cm**</td><td colspan="2">[tab]</td></tr>
+<tr><td>**2.2** **Altezza al garrese fino a 148 cm**</td><td colspan="2"></td></tr>
 <tr><td>2.2.1 oltre 900 giorni di età</td><td colspan="2">[tab] 0,35</td></tr>
 <tr><td>2.2.2 oltre 180 fino a 900 giorni di età</td><td colspan="2">0,25</td></tr>
 <tr><td>2.2.3 fino a 180 giorni di età</td><td colspan="2">0,15</td></tr>

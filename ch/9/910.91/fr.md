@@ -4,11 +4,11 @@ title: "Ordonnance du 7 décembre 1998 sur la terminologie agricole et la reconn
 short: OTerm
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/13"
 language: fr
-version: 2024-01-01
+version: 2026-07-01
 adopted: 1998-12-07
 in_force: 1999-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/13/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-1999-13-20240101-fr-xml-8.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/13/20240101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/13/20260701/fr/xml/fedlex-data-admin-ch-eli-cc-1999-13-20260701-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/13/20260701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1999/13/20240101/fr"
 
 (Ordonnance sur la terminologie agricole, OTerm)
 
-du 7 décembre 1998 (État le 1<sup>er</sup> janvier 2024)
+du 7 décembre 1998 (État le 1<sup>er</sup> juillet 2026)
 
 Le Conseil fédéral suisse,
 
@@ -25,7 +25,7 @@ vu l’art. 177, al. 1, de la loi du 29 avril 1998 sur l’agriculture (LAgr)[^i
 
 arrête:
 
-[^ingress-1]: [RS 910.1](https://fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033)
+[^ingress-1]: [RS 910.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10401)
 [^ingress-2]: Nouvelle teneur selon le ch. I de l’O du 26 nov. 2003, en vigueur depuis le 1<sup>er</sup> janv. 2004 ([RO 2003 4873](https://fedlex.data.admin.ch/eli/oc/2003/718)).
 
 ## Chapitre 1 Champ d’application et objet
@@ -143,13 +143,13 @@ La condition stipulée à l’al. 1, let. c, n’est notamment pas remplie lorsq
 - c. les travaux à effectuer dans l’exploitation sont exécutés en majeure partie par d’autres exploitations sans qu’une communauté au sens des art. 10 ou 12 soit reconnue.[^6-11]
 
 [^6-1]: Nouvelle teneur selon le ch. I de l’O du 26 nov. 2003, en vigueur depuis le 1<sup>er</sup> janv. 2004 ([RO 2003 4873](https://fedlex.data.admin.ch/eli/oc/2003/718)).
-[^6-2]: Voir toutefois l’art. 5 al. 2 de l’O du 22 sept. 1997 sur l’agriculture biologique, dans la teneur du 10 nov. 2004 ([RS 910.18](https://fedlex.data.admin.ch/eli/cc/1997/2498_2498_2498)).
+[^6-2]: Voir toutefois l’art. 5 al. 2 de l’O du 22 sept. 1997 sur l’agriculture biologique, dans la teneur du 10 nov. 2004 ([RS 910.18](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10418)).
 [^6-3]: Nouvelle teneur selon le ch. I de l’O du 25 mai 2011, en vigueur depuis le 1<sup>er</sup> juil. 2011 ([RO 2011 2381](https://fedlex.data.admin.ch/eli/oc/2011/341)).
 [^6-4]: Nouvelle teneur selon le ch. I de l’O du 23 oct. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 3901](https://fedlex.data.admin.ch/eli/oc/2013/715)).
-[^6-5]: [RS 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
+[^6-5]: [RS 910.13](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10406)
 [^6-6]: Nouvelle teneur selon le ch. I de l’O du 23 oct. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 3901](https://fedlex.data.admin.ch/eli/oc/2013/715)).
-[^6-7]: [RS 916.344](https://fedlex.data.admin.ch/eli/cc/2013/727)
-[^6-8]: [RS 910.18](https://fedlex.data.admin.ch/eli/cc/1997/2498_2498_2498)
+[^6-7]: [RS 916.344](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10718)
+[^6-8]: [RS 910.18](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10418)
 [^6-9]: Introduite par le ch. I de l’O du 9 juin 2006, en vigueur depuis le 1<sup>er</sup> janv 2007 ([RO 2006 2493](https://fedlex.data.admin.ch/eli/oc/2006/384)).
 [^6-10]: Nouvelle teneur selon le ch. I de l’O du 23 oct. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 3901](https://fedlex.data.admin.ch/eli/oc/2013/715)).
 [^6-11]: Introduit par le ch. I de l’O du 26 nov. 2003, en vigueur depuis le 1<sup>er</sup> janv. 2004 ([RO 2003 4873](https://fedlex.data.admin.ch/eli/oc/2003/718)).
@@ -314,7 +314,7 @@ Ne font pas partie de la surface agricole utile:
 - b. les surfaces herbagères permanentes (art. 19) qui sont exploitées par une exploitation d’estivage ou d’exploitations de pâturages communautaires.
 
 [^14-1]: Nouvelle teneur selon le ch. I de l’O du 28 oct. 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 4525](https://fedlex.data.admin.ch/eli/oc/2015/755)).
-[^14-2]: [RS 921.0](https://fedlex.data.admin.ch/eli/cc/1992/2521_2521_2521)
+[^14-2]: [RS 921.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10958)
 
 #### Art. 15
 
@@ -364,24 +364,26 @@ Les surfaces au sens de l’al. 1, let. d et e, sont considérées comme surface
 
 Les surfaces comportant des installations solaires sont considérées comme surfaces agricoles utiles si les conditions suivantes sont réunies:
 
-- a. les installations solaires remplissent l’une des conditions de l’art. 32*c*, al. 1, let. a ou c, de l’ordonnance du 28 juin 2000 sur l’aménagement du territoire (OAT)[^16-9];
+- a.[^16-9] les installations solaires remplissent l’une des conditions fixées à l’art. 24<sup>ter</sup>, al. 2, de la loi du 22 juin 1979 sur l’aménagement du territoire[^16-10] ou à l’art. 32*c*, al. 1, de l’ordonnance du 28 juin 2000 sur l’aménagement du territoire[^16-11];
 - b.
 
   l’exploitant prouve:
 
   - 1\. qu’il s’agit de surfaces au sens de l’art. 14, al. 1, let. a, d ou e, dont il est propriétaire ou pour lesquelles il a conclu un bail à ferme par écrit, et
-  - 2\. que des permis de construire exécutoires ont été délivrés pour les installations solaires.[^16-10]
+  - 2\. que des permis de construire exécutoires ont été délivrés pour les installations solaires.[^16-12]
 
 [^16-1]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 699](https://fedlex.data.admin.ch/eli/oc/2023/699)).
 [^16-2]: Nouvelle teneur selon le ch. I de l’O du 23 oct. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 3901](https://fedlex.data.admin.ch/eli/oc/2013/715)).
 [^16-3]: Nouvelle teneur selon le ch. I de l’O du 23 oct. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 3901](https://fedlex.data.admin.ch/eli/oc/2013/715)).
 [^16-4]: Nouvelle teneur selon le ch. I de l’O du 23 oct. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 3901](https://fedlex.data.admin.ch/eli/oc/2013/715)).
-[^16-5]: [RS 221.213.2](https://fedlex.data.admin.ch/eli/cc/1986/926_926_926)
+[^16-5]: [RS 221.213.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5866)
 [^16-6]: Nouvelle teneur selon le ch. I de l’O du 27 oct. 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 5869](https://fedlex.data.admin.ch/eli/oc/2010/838)).
 [^16-7]: La feuille d’information peut être consultée à l’adresse suivante: [www.blw.admin.ch/fr/paiements-directs-apercu](https://www.blw.admin.ch/fr/paiements-directs-apercu)
 [^16-8]: Introduit par le ch. I de l’O du 2 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 753](https://fedlex.data.admin.ch/eli/oc/2022/753)).
-[^16-9]: [RS 700.1](https://fedlex.data.admin.ch/eli/cc/2000/310)
-[^16-10]: Introduit par le ch. I de l’O du 1<sup>er</sup> nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 699](https://fedlex.data.admin.ch/eli/oc/2023/699)).
+[^16-9]: Nouvelle teneur selon l’annexe ch. 13 de l’O du 15 oct. 2025, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2025 659](https://fedlex.data.admin.ch/eli/oc/2025/659)).
+[^16-10]: [RS 700](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8351)
+[^16-11]: [RS 700.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8353)
+[^16-12]: Introduit par le ch. I de l’O du 1<sup>er</sup> nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 699](https://fedlex.data.admin.ch/eli/oc/2023/699)).
 
 #### Art. 17
 
@@ -402,7 +404,7 @@ Les surfaces exploitées à l’étranger sont comptées dans la surface agricol
 <sup>4</sup> Les cantons tiennent un registre des surfaces exploitées par tradition à l’étranger et des autres surfaces situées à l’étranger qui sont gérées par une exploitation en Suisse.[^17-3]
 
 [^17-1]: Nouvelle teneur selon l’annexe 4 ch. 50 de l’O du 1<sup>er</sup> nov. 2006 sur les douanes, en vigueur depuis le 1<sup>er</sup> mai 2007 ([RO 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
-[^17-2]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
+[^17-2]: [RS 631.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7812)
 [^17-3]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 699](https://fedlex.data.admin.ch/eli/oc/2023/699)).
 
 #### Art. 18
@@ -440,7 +442,7 @@ Une culture plantée après le 1<sup>er</sup> juin ne peut être considérée co
 - c. elle peut être récoltée de manière usuelle.[^18a-4]
 
 [^18a-1]: Introduit par l’annexe ch. 3 de l’O du 13 avr. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264)).
-[^18a-2]: [RS 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
+[^18a-2]: [RS 910.13](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10406)
 [^18a-3]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 699](https://fedlex.data.admin.ch/eli/oc/2023/699)).
 [^18a-4]: Introduit par le ch. I de l’O du 1<sup>er</sup> nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 699](https://fedlex.data.admin.ch/eli/oc/2023/699)).
 
@@ -474,7 +476,7 @@ Les surfaces qui ne sont pas fauchées chaque année, mais qui remplissent les c
 <sup>7</sup> Par surfaces herbagères permanentes, on entend aussi une châtaigneraie entretenue dont la couverture herbeuse est intégrale et qui compte au maximum 50 arbres par hectare.[^19-4]
 
 [^19-1]: Nouvelle teneur selon le ch. I de l’O du 9 juin 2006, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 2493](https://fedlex.data.admin.ch/eli/oc/2006/384)).
-[^19-2]: [RS 921.01](https://fedlex.data.admin.ch/eli/cc/1992/2538_2538_2538)
+[^19-2]: [RS 921.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10959)
 [^19-3]: Nouvelle teneur selon le ch. I de l’O du 26 nov. 2003, en vigueur depuis le 1<sup>er</sup> janv. 2004 ([RO 2003 4873](https://fedlex.data.admin.ch/eli/oc/2003/718)).
 [^19-4]: Introduit par le ch. I de l’O du 16 sept. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 3315](https://fedlex.data.admin.ch/eli/oc/2016/562)).
 
@@ -552,7 +554,7 @@ Par surfaces d’estivage, on entend:
 
 <sup>2</sup> Les surfaces situées dans la région d’estivage définie à l’art. 1, al. 2, de l’ordonnance du 7 décembre 1998 sur les zones agricoles[^24-1] sont également considérées comme surfaces d’estivage même si elles sont utilisées à d’autres fins.
 
-[^24-1]: [RS 912.1](https://fedlex.data.admin.ch/eli/cc/1999/46)
+[^24-1]: [RS 912.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10437)
 
 #### Art. 25
 
@@ -608,7 +610,7 @@ Sont considérés comme du fourrage de base:
 
 Sont considérés comme des aliments concentrés tous les aliments pour animaux visés à l’art. 3, al. 1, de l’ordonnance du 26 octobre 2011 sur les aliments pour animaux[^29-1] qui ne sont pas couverts par l’art. 28.
 
-[^29-1]: [RS 916.307](https://fedlex.data.admin.ch/eli/cc/2011/772)
+[^29-1]: [RS 916.307](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10674)
 
 ## Chapitre 3 Reconnaissance des formes d’exploitations et de communautés, vérification des surfaces
 
@@ -628,7 +630,7 @@ Sont considérés comme des aliments concentrés tous les aliments pour animaux 
 
 [^29a-1]: Introduit par le ch. I de l’O du 26 nov. 2003, en vigueur depuis le 1<sup>er</sup> janv. 2004 ([RO 2003 4873](https://fedlex.data.admin.ch/eli/oc/2003/718)).
 [^29a-2]: Nouvelle teneur selon le ch. I de l’O du 28 oct. 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 4525](https://fedlex.data.admin.ch/eli/oc/2015/755)).
-[^29a-3]: [RS 211.412.11](https://fedlex.data.admin.ch/eli/cc/1993/1410_1410_1410)
+[^29a-3]: [RS 211.412.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5757)
 [^29a-4]: Introduit par le ch. I de l’O du 9 juin 2006, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 2493](https://fedlex.data.admin.ch/eli/oc/2006/384)).
 
 #### Art. 29b
@@ -646,7 +648,7 @@ Les exploitations issues du partage d’une entreprise existante peuvent être r
   - 2\. chaque exploitant est le seul propriétaire de son capital fermier et gère l’exploitation à titre personnel.
 
 [^29b-1]: Introduit par le ch. I de l’O du 26 nov. 2003, en vigueur depuis le 1<sup>er</sup> janv. 2004 ([RO 2003 4873](https://fedlex.data.admin.ch/eli/oc/2003/718)).
-[^29b-2]: [RS 211.412.11](https://fedlex.data.admin.ch/eli/cc/1993/1410_1410_1410)
+[^29b-2]: [RS 211.412.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5757)
 
 #### Art. 30
 
