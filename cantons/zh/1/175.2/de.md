@@ -4,11 +4,10 @@ number: "175.2"
 title: Verwaltungsrechtspflegegesetz (VRG)
 short: VRG
 language: de
-version: "2025-07-01"
-nachtrag: "129"
-valid_until: 2026-07-01
+version: "2026-07-01"
+nachtrag: "133"
 adopted: 1959-05-24
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-175_2-1959_05_24-1960_05_01-129.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-175_2-1959_05_24-1960_05_01-133.html"
 text: pdf
 ---
 
@@ -62,7 +61,7 @@ Besondere gesetzliche Bestimmungen, welche die Zuständigkeit anders ordnen, ble
 
 **1**
 
-- 1\. 7. 25 - 129
+- 1\. 7. 26 - 133
 
 <sup>2</sup> Eingaben an eine unzuständige Verwaltungsbehörde sind von Amtes wegen und in der Regel unter Benachrichtigung des Absenders an die zuständige Verwaltungsbehörde weiterzuleiten. Für die Einhaltung der Fristen ist der Zeitpunkt der Einreichung bei der unzuständigen Behörde massgebend.
 
@@ -128,7 +127,7 @@ Die Verwaltungsbehörde trifft die nötigen vorsorglichen Massnahmen. Bei Kolleg
 
 **3**
 
-- 1\. 7. 25 - 129 § 10.<sup>50</sup> <sup>1</sup> Schriftliche Anordnungen sind zu begründen und mit einer Rechtsmittelbelehrung zu versehen, die das zulässige ordentliche Rechtsmittel, die Rechtsmittelinstanz und die Rechtsmittelfrist bezeichnet.
+- 1\. 7. 26 - 133 § 10.<sup>50</sup> <sup>1</sup> Schriftliche Anordnungen sind zu begründen und mit einer Rechtsmittelbelehrung zu versehen, die das zulässige ordentliche Rechtsmittel, die Rechtsmittelinstanz und die Rechtsmittelfrist bezeichnet.
 
 **Erledigung a. Im Allgemeinen**
 
@@ -207,7 +206,7 @@ Die Verwaltungsbehörde trifft die nötigen vorsorglichen Massnahmen. Bei Kolleg
 
 **5**
 
-- 1\. 7. 25 - 129
+- 1\. 7. 26 - 133
 
 <sup>2</sup> Eine versäumte Frist kann wiederhergestellt werden, wenn dem Säumigen keine grobe Nachlässigkeit zur Last fällt und er innert zehn Tagen nach Wegfall des Grundes, der die Einhaltung der Frist verhindert hat, ein Gesuch um Wiederherstellung einreicht. Wird die Wiederherstellung gewährt, so beträgt die Frist zur Nachholung der versäumten Rechtshandlung zehn Tage.<sup>34</sup>
 
@@ -273,7 +272,7 @@ a.<sup>34</sup> wenn er in der Schweiz keinen Wohnsitz hat,
 
 **7**
 
-- 1\. 7. 25 - 129
+- 1\. 7. 26 - 133
 
 - d. Erlasse, ausgenommen die Kantonsverfassung und kantonale Gesetze.
 
@@ -315,7 +314,7 @@ a.<sup>34</sup> wenn er in der Schweiz keinen Wohnsitz hat,
 
 - 5\. eines Privaten, der öffentliche Aufgaben wahrnimmt, d.<sup>57</sup> das Statthalteramt bei Anordnungen der politischen Gemeinden im Bereich der Ortspolizei und des Feuerwehrwesens,
 
-- e. der Kantonsrat hinsichtlich des Ergebnisses einer Kantonsratswahl; er entscheidet auf Antrag des Regierungsrates,
+- e. . . .<sup>77</sup>
 
 - f. die Geschäftsleitung des Kantonsrates bei Anordnungen seiner Kommissionen,
 
@@ -363,7 +362,7 @@ a.<sup>34</sup> wenn er in der Schweiz keinen Wohnsitz hat,
 
 **9**
 
-- 1\. 7. 25 - 129
+- 1\. 7. 26 - 133
 
 - c. bei der Erfüllung von gesetzlichen Aufgaben in ihren schutzwürdigen Interessen anderweitig verletzt sind, insbesondere bei einem wesentlichen Eingriff in ihr Finanz- oder Verwaltungsvermögen.
 
@@ -457,7 +456,7 @@ Die Rekursinstanz kann zugunsten des Rekurrenten über die Rekursbegehren hinaus
 
 **11**
 
-- 1\. 7. 25 - 129 § 27 a.<sup>50</sup> <sup>1</sup> Hält die Rekursinstanz eine Kündigung, eine Einstellung im Amt oder eine vorzeitige Entlassung für nicht gerechtfertigt, stellt sie dies fest und bestimmt von Amtes wegen die Entschädigung, die das Gemeinwesen zu entrichten hat.
+- 1\. 7. 26 - 133 § 27 a.<sup>50</sup> <sup>1</sup> Hält die Rekursinstanz eine Kündigung, eine Einstellung im Amt oder eine vorzeitige Entlassung für nicht gerechtfertigt, stellt sie dies fest und bestimmt von Amtes wegen die Entschädigung, die das Gemeinwesen zu entrichten hat.
 
 **b. Personalrechtliche Angelegenheiten**
 
@@ -531,7 +530,7 @@ Die Rekursinstanz kann zugunsten des Rekurrenten über die Rekursbegehren hinaus
 
 **13**
 
-- 1\. 7. 25 - 129
+- 1\. 7. 26 - 133
 
 ### Dritter Abschnitt: Die Verwaltungsgerichtsbarkeit
 
@@ -631,7 +630,7 @@ Die Rekursinstanz kann zugunsten des Rekurrenten über die Rekursbegehren hinaus
 
 **15**
 
-- 1\. 7. 25 - 129
+- 1\. 7. 26 - 133
 
 <sup>2</sup> In Fällen von grundsätzlicher Bedeutung kann die Entscheidung einer Kammer übertragen werden.
 
@@ -721,11 +720,11 @@ Die Rekursinstanz kann zugunsten des Rekurrenten über die Rekursbegehren hinaus
 
 - 5\. bei der Festlegung der Zivilstands-, der Betreibungs- sowie der Kindes- und Erwachsenenschutzkreise.
 
-- e. gegen Anordnungen des Verkehrsrates über die Ausgestaltung der Grundversorgung und die Festlegung der übrigen Verkehrsangebote,
+- e. …<sup>77</sup>
 
 **17**
 
-- 1\. 7. 25 - 129
+- 1\. 7. 26 - 133
 
 - f. im Gesundheitsbereich gegen
 
@@ -827,7 +826,7 @@ Sind Beweise erhoben worden, so erhalten die am Beschwerdeverfahren Beteiligten 
 
 **19**
 
-- 1\. 7. 25 - 129 § 62. <sup>1</sup> Die Verhandlungen vor Verwaltungsgericht sind öffentlich. Die Beratungen des Gerichtes finden unter Ausschluss der Parteien und der Öffentlichkeit statt.
+- 1\. 7. 26 - 133 § 62. <sup>1</sup> Die Verhandlungen vor Verwaltungsgericht sind öffentlich. Die Beratungen des Gerichtes finden unter Ausschluss der Parteien und der Öffentlichkeit statt.
 
 **g. Öffentlichkeit**
 
@@ -922,7 +921,7 @@ Das Verwaltungsgericht ist in Steuersachen letzte Rekurs- und Beschwerdeinstanz 
 
 **21**
 
-- 1\. 7. 25 - 129 § 83. <sup>1</sup> Die Klageschrift ist dem Verwaltungsgericht in zweifacher Ausfertigung einzureichen. Sie muss einen Antrag und eine Begründung enthalten.
+- 1\. 7. 26 - 133 § 83. <sup>1</sup> Die Klageschrift ist dem Verwaltungsgericht in zweifacher Ausfertigung einzureichen. Sie muss einen Antrag und eine Begründung enthalten.
 
 **Verfahren a. Klageschrift**
 
@@ -1002,7 +1001,7 @@ Das Verwaltungsgericht beurteilt die ihm vorgelegten Anträge in tatsächlicher 
 
 **23**
 
-- 1\. 7. 25 - 129
+- 1\. 7. 26 - 133
 
 <sup>3</sup> Übernimmt die Ombudsperson Aufgaben gemäss Art. 81 Abs. 4 KV[^hFünfterAbschnittD-1] in einer Gemeinde, nimmt sie ihre Tätigkeit spätestens ein Jahr nach Inkrafttreten der entsprechenden Bestimmung der Gemeindeordnung auf.<sup>43</sup>
 
@@ -1093,7 +1092,7 @@ Die Ombudsperson<sup>35</sup> ist nicht befugt, Anordnungen zu treffen. Aufgrund
 
 **25**
 
-- 1\. 7. 25 - 129 § 94 b.<sup>49,</sup> <sup>68</sup> Gegen Anordnungen der Ombudsperson in eigenen personalrechtlichen oder administrativen Belangen kann bei der Verwaltungsdelegation<sup>69</sup> der Geschäftsleitung des Kantonsrates Rekurs erhoben werden.
+- 1\. 7. 26 - 133 § 94 b.<sup>49,</sup> <sup>68</sup> Gegen Anordnungen der Ombudsperson in eigenen personalrechtlichen oder administrativen Belangen kann bei der Verwaltungsdelegation<sup>69</sup> der Geschäftsleitung des Kantonsrates Rekurs erhoben werden.
 
 **Personalrechtliche und administrative Belange**
 
@@ -1183,7 +1182,7 @@ G vom 30. August 2004 (OS 59, 409)
 
 **27**
 
-- 1\. 7. 25 - 129
+- 1\. 7. 26 - 133
 
 ### Übergangsbestimmung zur Änderung vom 12. Dezember 2022
 
@@ -1233,7 +1232,7 @@ Tritt die Änderung während der laufenden Amtsdauer der Ombudsperson in Kraft, 
 
 **29**
 
-- 1\. 7. 25 - 129
+- 1\. 7. 26 - 133
 
 <sup>51</sup> Aufgehoben durch G über die Anpassung des kantonalen Verwaltungsverfahrensrechts vom 22. März 2010 (OS 65, 390; ABl 2009, 801). In Kraft seit 1. Juli 2010.
 
@@ -1287,9 +1286,11 @@ Tritt die Änderung während der laufenden Amtsdauer der Ombudsperson in Kraft, 
 
 <sup>76</sup> Fassung gemäss Gesetz über die Anpassung der Wählbarkeitsvoraussetzungen für die obersten kantonalen Gerichte vom 25. September 2023 (OS 79, 217). In Kraft seit 1. Juli 2025.
 
+<sup>77</sup> Aufgehoben durch G vom 24. November 2025 (OS 81, 261; ABl 2025-07-18). In Kraft seit 1. Juli 2026.
+
 **31**
 
-- 1\. 7. 25 - 129
+- 1\. 7. 26 - 133
 
 ## Weitere Fussnoten
 
