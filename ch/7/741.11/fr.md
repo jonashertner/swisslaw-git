@@ -4,11 +4,11 @@ title: Ordonnance du 13 novembre 1962 sur les règles de la circulation routièr
 short: OCR
 eli: "https://fedlex.data.admin.ch/eli/cc/1962/1364_1409_1420"
 language: fr
-version: 2026-04-01
+version: 2026-07-01
 adopted: 1962-11-13
 in_force: 1963-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1962/1364_1409_1420/20260401/fr/xml/fedlex-data-admin-ch-eli-cc-1962-1364_1409_1420-20260401-fr-xml-13.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1962/1364_1409_1420/20260401/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1962/1364_1409_1420/20260701/fr/xml/fedlex-data-admin-ch-eli-cc-1962-1364_1409_1420-20260701-fr-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1962/1364_1409_1420/20260701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1962/1364_1409_1420/20260401/fr"
 
 (OCR)[^t-1]
 
-du 13 novembre 1962 (État le 1<sup>er</sup> avril 2026)
+du 13 novembre 1962 (État le 1<sup>er</sup> juillet 2026)
 
 [^t-1]: Nouvelle teneur selon le ch. I de l’O du 10 mars 1975, en vigueur depuis le 1<sup>er</sup> janv. 1976 ([RO 1975 541](https://fedlex.data.admin.ch/eli/oc/1975/541_541_541)).
 
@@ -386,9 +386,13 @@ La vitesse est limitée, sur les autoroutes et semi-autoroutes, à 100 km/h:
 
 #### Art. 7
 
-[^7-1]
+**Circulation à droite**[^7-1]
 
-[^7-1]: Abrogé par le ch. I de l’O du 20 mai 2020, avec effet au 1<sup>er</sup> janv. 2021 ([RO 2020 2139](https://fedlex.data.admin.ch/eli/oc/2020/423)).
+### (art. 34, al. 1, LCR)
+
+Les conducteurs doivent contourner par la droite les îlots, les surfaces interdites au trafic et les obstacles situés au milieu de la chaussée; les conducteurs qui obliquent à gauche peuvent toutefois contourner par la gauche les îlots situés au milieu d’intersections.
+
+[^7-1]: Nouvelle teneur selon le ch. I de l’O du 19 déc. 2025, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2026 23](https://fedlex.data.admin.ch/eli/oc/2026/23)).
 
 #### Art. 8
 
@@ -981,11 +985,11 @@ Les conducteurs, les passagers et les auxiliaires ne causeront aucun bruit pouva
 
 <sup>1</sup> Sur les autoroutes et semi-autoroutes, il n’est permis d’obliquer qu’aux endroits signalés à cet effet. Il est interdit de faire demi-tour et marche arrière.
 
-<sup>2</sup> La berme centrale des autoroutes ne doit pas être franchie, même aux emplacements aménagés comme passages.
+<sup>2</sup> La berme centrale des autoroutes ne doit pas être franchie, même aux emplacements aménagés comme passages. Font exception les cas dans lesquels des voies de circulation formées par des marques jaune-orange ou par des points lumineux de feux encastrés allumés traversent le passage.[^36-1]
 
-<sup>3</sup> Le conducteur n’utilisera la bande d’arrêt d’urgence et les places d’arrêt prévues pour les véhicules en panne et signalées comme telles qu’en cas de nécessité absolue; dans les autres cas, il s’arrêtera uniquement sur les emplacements de parcage indiqués par des signaux. Les occupants du véhicule ne s’engageront pas sur la chaussée.[^36-1]
+<sup>3</sup> Le conducteur n’utilisera la bande d’arrêt d’urgence et les places d’arrêt prévues pour les véhicules en panne et signalées comme telles qu’en cas de nécessité absolue; dans les autres cas, il s’arrêtera uniquement sur les emplacements de parcage indiqués par des signaux. Les occupants du véhicule ne s’engageront pas sur la chaussée.[^36-2]
 
-<sup>4</sup> Les usagers des autoroutes et semi-autoroutes ont la priorité sur les véhicules venant d’une voie d’accès. L’art. 8, al. 5, s’applique en cas de ralentissements.[^36-2]
+<sup>4</sup> Les usagers des autoroutes et semi-autoroutes ont la priorité sur les véhicules venant d’une voie d’accès. L’art. 8, al. 5, s’applique en cas de ralentissements.[^36-3]
 
 <sup>5</sup>
 
@@ -994,17 +998,18 @@ Il est interdit de dépasser des véhicules par la droite en déboîtant puis en
 - a. en cas de circulation à la file sur la voie de gauche ou du milieu;
 - b. sur les tronçons servant à la présélection, pour autant que des lieux de destination différents soient indiqués pour chacune des voies;
 - c. si la voie de circulation à gauche est délimitée par une ligne de sécurité (6.01) ou par une ligne double (6.04) avec ligne de sécurité à gauche, jusqu’à la fin dudit marquage, en particulier sur les voies d’accélération des entrées;
-- d. sur les voies de décélération des sorties.[^36-3]
+- d. sur les voies de décélération des sorties.[^36-4]
 
-<sup>6</sup> Sur les autoroutes ayant au moins trois voies dans le même sens, la voie extérieure de gauche ne peut être utilisée que par les véhicules avec lesquels il est permis de rouler à plus de 100 km/h.[^36-4]
+<sup>6</sup> Sur les autoroutes ayant au moins trois voies dans le même sens, la voie extérieure de gauche ne peut être utilisée que par les véhicules avec lesquels il est permis de rouler à plus de 100 km/h.[^36-5]
 
-<sup>7</sup> Si, sur des autoroutes ou semi-autoroutes ayant au moins deux voies par sens de circulation, les véhicules circulent au pas ou sont à l’arrêt, ces véhicules doivent laisser un couloir libre pour le passage des véhicules du service du feu, du service de santé, de la police ou de la douane et des véhicules auxiliaires entre la voie la plus à gauche et la voie située juste à sa droite.[^36-5]
+<sup>7</sup> Si, sur des autoroutes ou semi-autoroutes ayant au moins deux voies par sens de circulation, les véhicules circulent au pas ou sont à l’arrêt, ces véhicules doivent laisser un couloir libre pour le passage des véhicules du service du feu, du service de santé, de la police ou de la douane et des véhicules auxiliaires entre la voie la plus à gauche et la voie située juste à sa droite.[^36-6]
 
-[^36-1]: Nouvelle teneur selon le ch. I de l’O du 14 nov. 1979, en vigueur depuis le 1<sup>er</sup> janv. 1980 ([RO 1979 1583](https://fedlex.data.admin.ch/eli/oc/1979/1583_1583_1583)).
-[^36-2]: Nouvelle teneur selon le ch. I de l’O du 20 mai 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 2139](https://fedlex.data.admin.ch/eli/oc/2020/423)).
+[^36-1]: Nouvelle teneur selon le ch. I de l’O du 19 déc. 2025, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2026 23](https://fedlex.data.admin.ch/eli/oc/2026/23)).
+[^36-2]: Nouvelle teneur selon le ch. I de l’O du 14 nov. 1979, en vigueur depuis le 1<sup>er</sup> janv. 1980 ([RO 1979 1583](https://fedlex.data.admin.ch/eli/oc/1979/1583_1583_1583)).
 [^36-3]: Nouvelle teneur selon le ch. I de l’O du 20 mai 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 2139](https://fedlex.data.admin.ch/eli/oc/2020/423)).
-[^36-4]: Introduit par le ch. I de l’O du 22 déc. 1976 ([RO 1976 2810](https://fedlex.data.admin.ch/eli/oc/1976/2810_2810_2810)Nouvelle teneur selon le ch. I de l’O du 24 juin 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 2451](https://fedlex.data.admin.ch/eli/oc/2015/460)).
-[^36-5]: Introduit par le ch. I de l’O du 20 mai 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 2139](https://fedlex.data.admin.ch/eli/oc/2020/423)). Erratum du 9 fév. 2021 ([RO 2021 76](https://fedlex.data.admin.ch/eli/oc/2021/76)).
+[^36-4]: Nouvelle teneur selon le ch. I de l’O du 20 mai 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 2139](https://fedlex.data.admin.ch/eli/oc/2020/423)).
+[^36-5]: Introduit par le ch. I de l’O du 22 déc. 1976 ([RO 1976 2810](https://fedlex.data.admin.ch/eli/oc/1976/2810_2810_2810)Nouvelle teneur selon le ch. I de l’O du 24 juin 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 2451](https://fedlex.data.admin.ch/eli/oc/2015/460)).
+[^36-6]: Introduit par le ch. I de l’O du 20 mai 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 2139](https://fedlex.data.admin.ch/eli/oc/2020/423)). Erratum du 9 fév. 2021 ([RO 2021 76](https://fedlex.data.admin.ch/eli/oc/2021/76)).
 
 #### Art. 37
 
@@ -1014,9 +1019,11 @@ Il est interdit de dépasser des véhicules par la droite en déboîtant puis en
 
 <sup>1</sup> Les chaussées à sens unique sont assimilées à la moitié droite d’une chaussée ouverte à la circulation dans les deux sens.
 
-<sup>2</sup> Il est permis de passer à droite ou à gauche des îlots et des obstacles ainsi que des tramways ou chemins de fer routiers en marche.
+<sup>2</sup> Il est permis de contourner par la droite ou par la gauche les îlots et les obstacles ainsi que les tramways ou chemins de fer routiers en marche.[^37-1]
 
 <sup>3</sup> Sur une chaussée à sens unique, le conducteur ne fera pas marche arrière sauf en parquant son véhicule, en y attelant une remorque, etc.
+
+[^37-1]: Nouvelle teneur selon le ch. I de l’O du 19 déc. 2025, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2026 23](https://fedlex.data.admin.ch/eli/oc/2026/23)).
 
 #### Art. 38
 
@@ -1676,7 +1683,7 @@ Un cycliste âgé de plus de seize ans peut transporter:
 [^65-5]: Introduit par le ch. I de l’O du 5 avr. 2017, en vigueur depuis le 7 mai 2017 ([RO 2017 2649](https://fedlex.data.admin.ch/eli/oc/2017/262)).
 [^65-6]: [RS 741.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8648)
 [^65-7]: Introduit par le ch. I de l’O du 17 déc. 2021, en vigueur depuis le 1<sup>er</sup> avr. 2022 ([RO 2022 13](https://fedlex.data.admin.ch/eli/oc/2022/13)).
-[^65-8]: Introduit par le ch. I de l’O du 17 déc. 2021, en vigueur du 1<sup>er</sup> avr. 2022 au 31 déc. 2030 ([RO 2022 13](https://fedlex.data.admin.ch/eli/oc/2022/13)).
+[^65-8]: Introduit par le ch. I de l’O du 17 déc. 2021, en vigueur depuis le 1<sup>er</sup> avr. 2022 ([RO 2022 13](https://fedlex.data.admin.ch/eli/oc/2022/13); [2026 226](https://fedlex.data.admin.ch/eli/oc/2026/226)ch. II).
 
 #### Art. 65a
 
@@ -1779,7 +1786,7 @@ Le poids reposant sur les essieux moteurs ne doit pas être inférieur (poids mi
 [^67-10]: Introduit par le ch. I de l’O du 30 juin 2004, en vigueur depuis le 1<sup>er</sup> janv. 2005 ([RO 2004 3519](https://fedlex.data.admin.ch/eli/oc/2004/471)).
 [^67-11]: [RS 741.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8648)
 [^67-12]: Introduit par le ch. I de l’O du 5 avr. 2017 ([RO 2017 2649](https://fedlex.data.admin.ch/eli/oc/2017/262)). Nouvelle teneur selon le ch. I de l’O du 17 déc. 2021, en vigueur depuis le 1<sup>er</sup> avr. 2022 ([RO 2022 13](https://fedlex.data.admin.ch/eli/oc/2022/13)).
-[^67-13]: Introduit par le ch. I de l’O du 17 déc. 2021, en vigueur du 1<sup>er</sup> avr. 2022 au 31 déc. 2030 ([RO 2022 13](https://fedlex.data.admin.ch/eli/oc/2022/13)).
+[^67-13]: Introduit par le ch. I de l’O du 17 déc. 2021, en vigueur depuis le 1<sup>er</sup> avr. 2022 ([RO 2022 13](https://fedlex.data.admin.ch/eli/oc/2022/13); [2026 226](https://fedlex.data.admin.ch/eli/oc/2026/226)ch. II).
 [^67-14]: Nouvelle teneur selon le ch. I de l’O du 16 nov. 2016, en vigueur depuis le 15 janv. 2017 ([RO 2016 5129](https://fedlex.data.admin.ch/eli/oc/2016/817)).
 [^67-15]: [RS 741.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8648)
 [^67-16]: Introduit par le ch. I de l’O du 21 nov. 2018, en vigueur depuis le 1<sup>er</sup> fév. 2019 ([RO 2019 243](https://fedlex.data.admin.ch/eli/oc/2019/42)).
@@ -2044,11 +2051,12 @@ Seules des autorisations uniques sont admises pour les dépassements de la large
 - c.[^78-6] pour l’utilisation de véhicules à chenilles sur des domaines skiables; lorsqu’un tel domaine touche plusieurs cantons, des autorisations durables pour véhicules à chenilles peuvent être délivrées moyennant l’accord des cantons concernés;
 - d. pour le transport de marchandises indivisibles à l’intérieur du territoire cantonal;
 - e.[^78-7] pour le transport de wagons de chemin de fer chargés, au moyen de trucs routiers, à l’intérieur du territoire cantonal et, moyennant l’accord des cantons concernés, également sur des parcours situés à l’extérieur de celui-ci;
-- f.[^78-8] pour le transport de marchandises indivisibles et l’utilisation de véhicules spéciaux dans les limites définies à l’art. 79, al. 2, let. a.[^78-9]
+- f.[^78-8] pour le transport de marchandises indivisibles et l’utilisation de véhicules spéciaux dans les limites définies à l’art. 79, al. 2, let. a;
+- g.[^78-9] pour le transport de marchandises indivisibles exclusivement sur les routes nationales ainsi que pour les courses de véhicules spéciaux exclusivement sur les routes nationales.[^78-10]
 
-<sup>2bis</sup> S’agissant des véhicules spéciaux dont les dimensions et les poids n’excèdent pas les limites énoncées à l’art. 79, al. 2, let. a, l’autorisation durable peut être inscrite dans le permis de circulation en tant que décision de l’autorité, à condition que soient respectées les dispositions de l’art. 65*a* régissant le mouvement giratoire.[^78-10]
+<sup>2bis</sup> S’agissant des véhicules spéciaux dont les dimensions et les poids n’excèdent pas les limites énoncées à l’art. 79, al. 2, let. a, l’autorisation durable peut être inscrite dans le permis de circulation en tant que décision de l’autorité, à condition que soient respectées les dispositions de l’art. 65*a* régissant le mouvement giratoire.[^78-11]
 
-<sup>3</sup> …[^78-11]
+<sup>3</sup> …[^78-12]
 
 <sup>4</sup> L’autorisation peut être retirée en tout temps, notamment si des abus ont été commis, si le véhicule a causé des difficultés dans la circulation ou si les courses autorisées ne sont plus nécessaires.
 
@@ -2061,9 +2069,10 @@ Seules des autorisations uniques sont admises pour les dépassements de la large
 [^78-6]: Nouvelle teneur selon le ch. I de l’O du 30 juin 2004, en vigueur depuis le 1<sup>er</sup> janv. 2005 ([RO 2004 3519](https://fedlex.data.admin.ch/eli/oc/2004/471)).
 [^78-7]: Nouvelle teneur selon le ch. I de l’O du 30 juin 2004, en vigueur depuis le 1<sup>er</sup> janv. 2005 ([RO 2004 3519](https://fedlex.data.admin.ch/eli/oc/2004/471)).
 [^78-8]: Introduite par le ch. I de l’O du 30 juin 2004, en vigueur depuis le 1<sup>er</sup> janv. 2005 ([RO 2004 3519](https://fedlex.data.admin.ch/eli/oc/2004/471)).
-[^78-9]: Nouvelle teneur selon le ch. I de l’O du 15 nov. 2000, en vigueur depuis le 1<sup>er</sup> janv. 2001 ([RO 2000 2883](https://fedlex.data.admin.ch/eli/oc/2000/500)).
-[^78-10]: Introduit par le ch. I de l’O du 15 nov. 2000 ([RO 2000 2883](https://fedlex.data.admin.ch/eli/oc/2000/500)). Nouvelle teneur selon le ch. I de l’O du 30 juin 2004, en vigueur depuis le 1<sup>er</sup> janv. 2005 ([RO 2004 3519](https://fedlex.data.admin.ch/eli/oc/2004/471)).
-[^78-11]: Abrogé par le ch. I de l’O du 22 déc. 2023, avec effet au 1<sup>er</sup> avr. 2024 ([RO 2024 28](https://fedlex.data.admin.ch/eli/oc/2024/28)).
+[^78-9]: Introduite par le ch. I de l’O du 6 mai 2026, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2026 226](https://fedlex.data.admin.ch/eli/oc/2026/226)).
+[^78-10]: Nouvelle teneur selon le ch. I de l’O du 15 nov. 2000, en vigueur depuis le 1<sup>er</sup> janv. 2001 ([RO 2000 2883](https://fedlex.data.admin.ch/eli/oc/2000/500)).
+[^78-11]: Introduit par le ch. I de l’O du 15 nov. 2000 ([RO 2000 2883](https://fedlex.data.admin.ch/eli/oc/2000/500)). Nouvelle teneur selon le ch. I de l’O du 30 juin 2004, en vigueur depuis le 1<sup>er</sup> janv. 2005 ([RO 2004 3519](https://fedlex.data.admin.ch/eli/oc/2004/471)).
+[^78-12]: Abrogé par le ch. I de l’O du 22 déc. 2023, avec effet au 1<sup>er</sup> avr. 2024 ([RO 2024 28](https://fedlex.data.admin.ch/eli/oc/2024/28)).
 
 #### Art. 79
 
@@ -2078,20 +2087,21 @@ Lorsque les dimensions et le poids dépassent le maximum légal, les autorisatio
 - a.[^79-3] les véhicules et les ensembles de véhicules n’excéderont pas 30 m de longueur, 3 m de largeur, 4 m de hauteur, ainsi que 44 t de poids effectif; pour chaque essieu, la charge par essieu ne doit pas excéder 12 t;
 - b. ne seront empruntés que les routes de grand transit au sens des annexes 1 et 2, let. A et B, de l’ordonnance du 18 décembre 1991 concernant les routes de grand transit, ainsi que le réseau routier des localités touchées par lesdites routes[^79-4].[^79-5]
 
-<sup>3</sup> S’agissant des autorisations uniques, le poids effectif selon l’al. 2, let. a, peut atteindre 50 t au maximum lorsque le parcours de transit emprunte, hors du canton, exclusivement des autoroutes.[^79-6]
+<sup>3</sup> …[^79-6]
 
 <sup>4</sup> Si les conditions fixées à l’al. 2 ne sont pas remplies, chaque canton concerné par la course délivre l’autorisation pour le trajet sur son territoire ou donne son approbation aux autorisations de l’OFROU.[^79-7]
 
-<sup>5</sup> Lorsque les dimensions et le poids fixés à l’al. 2, let. a, sont dépassés, l’autorisation de circuler sur les routes nationales ne peut être délivrée qu’avec l’approbation de l’OFROU.[^79-8]
+<sup>5</sup> Lorsque les dimensions et le poids fixés à l’al. 2, let. a, sont dépassés, l’autorisation de circuler sur les parties intégrantes des routes nationales énumérées à l’art. 2 de l’ordonnance du 7 novembre 2007 sur les routes nationales[^79-8] ne peut être délivrée qu’avec l’approbation de l’OFROU. Aucune approbation n’est requise pour circuler sur les tronçons et ouvrages que l’OFROU a déclarés ouverts à la circulation générale. Ce dernier tient une liste des tronçons et ouvrages ouverts à la circulation générale et informe les cantons de toute modification apportée à cette liste.[^79-9]
 
 [^79-1]: Nouvelle teneur selon l’annexe 4 ch. II 5 de l’O du 7 nov. 2007 sur les routes nationales, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5957](https://fedlex.data.admin.ch/eli/oc/2007/796)).
 [^79-2]: Nouvelle teneur selon l’annexe 4 ch. II 5 de l’O du 7 nov. 2007 sur les routes nationales, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5957](https://fedlex.data.admin.ch/eli/oc/2007/796)).
 [^79-3]: Nouvelle teneur selon le ch. I de l’O du 30 juin 2004, en vigueur depuis le 1<sup>er</sup> janv. 2005 ([RO 2004 3519](https://fedlex.data.admin.ch/eli/oc/2004/471)).
 [^79-4]: [RS 741.272](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8643)
 [^79-5]: Nouvelle teneur selon le ch. I de l’O du 7 mars 1994, en vigueur depuis le 1<sup>er</sup> avr. 1994 ([RO 1994 816](https://fedlex.data.admin.ch/eli/oc/1994/816_816_816)).
-[^79-6]: Nouvelle teneur selon le ch. I de l’O du 30 juin 2004, en vigueur depuis le 1<sup>er</sup> janv. 2005 ([RO 2004 3519](https://fedlex.data.admin.ch/eli/oc/2004/471)).
+[^79-6]: Abrogé par le ch. I de l’O du 6 mai 2026, avec effet au 1<sup>er</sup> juil. 2026 ([RO 2026 226](https://fedlex.data.admin.ch/eli/oc/2026/226)).
 [^79-7]: Introduit par le ch. I de l’O du 1<sup>er</sup> juil. 1992 ([RO 1993 1142](https://fedlex.data.admin.ch/eli/oc/1993/1142_1142_1142)). Nouvelle teneur selon l’annexe 4 ch. II 5 de l’O du 7 nov. 2007 sur les routes nationales, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5957](https://fedlex.data.admin.ch/eli/oc/2007/796)).
-[^79-8]: Introduit par l’annexe 4 ch. II 5 de l’O du 7 nov. 2007 sur les routes nationales, avec effet au 1<sup>er</sup> janv. 2008 ([RO 2007 5957](https://fedlex.data.admin.ch/eli/oc/2007/796)).
+[^79-8]: [RS 725.111](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8454)
+[^79-9]: Introduit par l’annexe 4 ch. II 5 de l’O du 7 nov. 2007 sur les routes nationales ([RO 2007 5957](https://fedlex.data.admin.ch/eli/oc/2007/796)). Nouvelle teneur selon le ch. I de l’O du 6 mai 2026, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2026 226](https://fedlex.data.admin.ch/eli/oc/2026/226)).
 
 #### Art. 80
 
@@ -2326,68 +2336,80 @@ Ne tombent pas sous l’interdiction de circuler le dimanche et de nuit:
 - a. les véhicules automobiles affectés au transport de personnes;
 - b. les véhicules agricoles et forestiers;
 - c. les véhicules qui tirent une semi-remorque dont la carrosserie sert d’habitation;
-- d. les courses effectuées par les véhicules du service du feu, de la protection civile, du service de santé, de la police et de l’armée, et celles visant à porter secours en cas de catastrophe;
+- d.[^91a-2] les courses effectuées par les véhicules du service du feu, de la protection civile, du service de santé, de la police, des autorités douanières et de l’armée, et celles visant à porter secours en cas de catastrophe;
 - e. les tracteurs industriels, les chariots à moteur et les chariots de travail, ainsi que leurs remorques, lorsque ces véhicules sont utilisés exclusivement pour des courses agricoles et forestières durant les heures d’interdiction de circuler (art. 86 à 90);
-- f. [^91a-2] les courses que La Poste Suisse SA et les sociétés du groupe Poste visées à l’art. 1, let. e, de l’ordonnance du 29 août 2012 sur la poste (OPO)[^91a-3] effectuent en vue d’exécuter l’obligation de La Poste Suisse SA de fournir les services postaux relevant du service universel (art. 13 de la loi du 17 déc. 2010 sur la poste[^91a-4]);
-- g.[^91a-5] le transport des denrées alimentaires (art. 4 de la loi du 20 juin 2014 sur les denrées alimentaires, LDAl[^91a-6]) non surgelées, ni chauffées à ultra-haute température, ni stérilisées, et dont la période de consommation est limitée à 30 jours au maximum;
-- h. le transport des animaux d’abattage et des chevaux de sport;
-- i. le transport des fleurs coupées;
+- f. [^91a-3] les courses que La Poste Suisse SA et les sociétés du groupe Poste visées à l’art. 1, let. e, de l’ordonnance du 29 août 2012 sur la poste (OPO)[^91a-4] effectuent en vue d’exécuter l’obligation de La Poste Suisse SA de fournir les services postaux relevant du service universel (art. 13 de la loi du 17 déc. 2010 sur la poste[^91a-5]);
+- g.[^91a-6] le transport des denrées alimentaires (art. 4 de la loi du 20 juin 2014 sur les denrées alimentaires, LDAl[^91a-7]) non surgelées, ni chauffées à ultra-haute température, ni stérilisées, et dont la période de consommation est limitée à 30 jours au maximum;
+- h.[^91a-8] le transport d’animaux vivants;
+- i.[^91a-9] le transport de marchandises facilement périssables devant être consommées, transformées ou stockées dans un délai d’un jour;
 - j. le transport des quotidiens comprenant une partie rédactionnelle et les courses occasionnées par des reportages télévisés d’actualité;
-- k.[^91a-7] les courses avec des véhicules à chenilles destinées à préparer des pistes;
-- l.[^91a-8] les véhicules dont la carrosserie sert de local spécialement aménagé pour les dons de sang;
-- m.[^91a-9] les voitures automobiles lourdes dont le poids total n’excède pas 4250 kg, si elles disposent d’une propulsion non polluante (art. 9*a,* al. 2, OETV[^91a-10]) et que le dépassement de poids par rapport à la limite de 3500 kg est imputable au seul surplus de poids induit par le système de propulsion non polluante;
-- n.[^91a-11] les véhicules articulés pour lesquels le poids de l’ensemble admis (art. 7, al. 6, OETV) n’excède pas 5750 kg, s’ils disposent d’une propulsion non polluante (art. 9*a,* al. 2, OETV) et que le dépassement de poids par rapport à la limite de 5000 kg est imputable au seul surplus de poids induit par le système de propulsion non polluante.
+- k.[^91a-10] les courses avec des véhicules à chenilles destinées à préparer des pistes;
+- k<sup>bis</sup>.[^91a-11] les courses avec des véhicules à chenilles dont le poids total n’excède pas 3500 kg destinées à l’approvisionnement de lieux à l’écart des routes praticables;
+- l.[^91a-12] les véhicules dont la carrosserie sert de local spécialement aménagé pour les dons de sang;
+- m.[^91a-13] les voitures automobiles lourdes dont le poids total n’excède pas 4250 kg, si elles disposent d’une propulsion non polluante (art. 9*a,* al. 2, OETV[^91a-14]) et que le dépassement de poids par rapport à la limite de 3500 kg est imputable au seul surplus de poids induit par le système de propulsion non polluante;
+- n.[^91a-15] les véhicules articulés pour lesquels le poids de l’ensemble admis (art. 7, al. 6, OETV) n’excède pas 5750 kg, s’ils disposent d’une propulsion non polluante (art. 9*a,* al. 2, OETV) et que le dépassement de poids par rapport à la limite de 5000 kg est imputable au seul surplus de poids induit par le système de propulsion non polluante;
+- o.[^91a-16] les courses occasionnées par la construction et l’entretien des routes, des voies ferrées, des installations de télécommunication et des infrastructures d’approvisionnement en énergie ou en eau, ainsi que par l’entretien de l’espace public.
 
 <sup>2</sup> Ne tombent pas non plus sous l’interdiction de circuler le dimanche et de nuit les courses effectuées pour porter assistance en cas d’accident, de panne de véhicule ou d’incident d’exploitation, notamment dans les entreprises de transports publics et dans le trafic aérien, et les courses d’intervention du service hivernal.
 
-<sup>2bis</sup> Les véhicules vétérans reconnus comme tels d’après l’inscription dans le permis de circulation ne tombent pas sous l’interdiction de circuler le dimanche.[^91a-12]
+<sup>2bis</sup> Les véhicules vétérans reconnus comme tels d’après l’inscription dans le permis de circulation ne tombent pas sous l’interdiction de circuler le dimanche.[^91a-17]
 
 <sup>3</sup> Pour les courses visées à l’al. 1, let. f à j, le quart du volume de chargement du véhicule peut être occupé par d’autres marchandises. Une course à vide de 30 minutes au maximum peut précéder ou suivre le transport. Pour les courses à vide plus longues, une autorisation conforme à l’art. 92, al. 1, est requise.
 
 <sup>4</sup> Lors des courses effectuées pendant l’interdiction de circuler le dimanche et de nuit, tout ce qui pourrait troubler la tranquillité doit être évité.
 
 [^91a-1]: Introduit par le ch. I de l’O du 1<sup>er</sup> oct. 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 4569](https://fedlex.data.admin.ch/eli/oc/2010/654)).
-[^91a-2]: Nouvelle teneur selon l’annexe 2 ch. II 4 de l’O du 29 août 2012 sur la poste, en vigueur depuis le 1<sup>er</sup> oct. 2012 ([RO 2012 5009](https://fedlex.data.admin.ch/eli/oc/2012/586)).
-[^91a-3]: [RS 783.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9152)
-[^91a-4]: [RS 783.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9151)
-[^91a-5]: Nouvelle teneur selon le ch. I de l’O du 21 nov. 2018, en vigueur depuis le 1<sup>er</sup> fév. 2019 ([RO 2019 243](https://fedlex.data.admin.ch/eli/oc/2019/42)).
-[^91a-6]: [RS 817.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9645)
-[^91a-7]: Introduite par le ch. I de l’O du 21 nov. 2018, en vigueur depuis le 1<sup>er</sup> fév. 2019 ([RO 2019 243](https://fedlex.data.admin.ch/eli/oc/2019/42)).
-[^91a-8]: Introduit par le ch. I de l’O du 20 mai 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 2139](https://fedlex.data.admin.ch/eli/oc/2020/423)).
-[^91a-9]: Introduite par le ch. I de l’O du 17 déc. 2021, en vigueur depuis le 1<sup>er</sup> avr. 2022 ([RO 2022 13](https://fedlex.data.admin.ch/eli/oc/2022/13)).
-[^91a-10]: [RS 741.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8648)
-[^91a-11]: Introduite par le ch. I de l’O du 17 déc. 2021, en vigueur depuis le 1<sup>er</sup> avr. 2022 ([RO 2022 13](https://fedlex.data.admin.ch/eli/oc/2022/13)).
+[^91a-2]: Nouvelle teneur selon le ch. I de l’O du 6 mai 2026, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2026 226](https://fedlex.data.admin.ch/eli/oc/2026/226)).
+[^91a-3]: Nouvelle teneur selon l’annexe 2 ch. II 4 de l’O du 29 août 2012 sur la poste, en vigueur depuis le 1<sup>er</sup> oct. 2012 ([RO 2012 5009](https://fedlex.data.admin.ch/eli/oc/2012/586)).
+[^91a-4]: [RS 783.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9152)
+[^91a-5]: [RS 783.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9151)
+[^91a-6]: Nouvelle teneur selon le ch. I de l’O du 21 nov. 2018, en vigueur depuis le 1<sup>er</sup> fév. 2019 ([RO 2019 243](https://fedlex.data.admin.ch/eli/oc/2019/42)).
+[^91a-7]: [RS 817.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9645)
+[^91a-8]: Nouvelle teneur selon le ch. I de l’O du 6 mai 2026, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2026 226](https://fedlex.data.admin.ch/eli/oc/2026/226)).
+[^91a-9]: Nouvelle teneur selon le ch. I de l’O du 6 mai 2026, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2026 226](https://fedlex.data.admin.ch/eli/oc/2026/226)).
+[^91a-10]: Introduite par le ch. I de l’O du 21 nov. 2018, en vigueur depuis le 1<sup>er</sup> fév. 2019 ([RO 2019 243](https://fedlex.data.admin.ch/eli/oc/2019/42)).
+[^91a-11]: Introduite par le ch. I de l’O du 6 mai 2026, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2026 226](https://fedlex.data.admin.ch/eli/oc/2026/226)).
 [^91a-12]: Introduit par le ch. I de l’O du 20 mai 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 2139](https://fedlex.data.admin.ch/eli/oc/2020/423)).
+[^91a-13]: Introduite par le ch. I de l’O du 17 déc. 2021, en vigueur depuis le 1<sup>er</sup> avr. 2022 ([RO 2022 13](https://fedlex.data.admin.ch/eli/oc/2022/13)).
+[^91a-14]: [RS 741.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8648)
+[^91a-15]: Introduite par le ch. I de l’O du 17 déc. 2021, en vigueur depuis le 1<sup>er</sup> avr. 2022 ([RO 2022 13](https://fedlex.data.admin.ch/eli/oc/2022/13)).
+[^91a-16]: Introduite par le ch. I de l’O du 6 mai 2026, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2026 226](https://fedlex.data.admin.ch/eli/oc/2026/226)).
+[^91a-17]: Introduit par le ch. I de l’O du 20 mai 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 2139](https://fedlex.data.admin.ch/eli/oc/2020/423)).
 
 #### Art. 92
 
 **Transports soumis à autorisation**[^92-1]
 
-<sup>1</sup> Des autorisations de circuler le dimanche et de nuit seront accordées pour les courses urgentes et qui ne peuvent être évitées par des mesures d’organisation ou par le recours à un autre moyen de transport. Elles seront établies pour le transport sur le parcours le plus direct et pour une course à vide si celle-ci est nécessaire et inévitable.
+<sup>1</sup> Des autorisations de circuler le dimanche et de nuit sont accordées pour les courses urgentes et qui ne peuvent être évitées par des mesures d’organisation ou par le recours à un autre moyen de transport. Elles sont établies pour le transport sur le parcours le plus direct.[^92-2]
+
+<sup>1bis</sup> La course peut être précédée ou suivie d’une course à vide de 30 minutes maximum. Les courses à vide plus longues nécessitent une autorisation. Celle-ci est accordée si les conditions énoncées à l’al. 1 sont remplies.[^92-3]
 
 <sup>2</sup>
 
 Des autorisations sont octroyées pour les courses suivantes:
 
-- a.[^92-2] transport des envois postaux par les sous-traitants visés à l’art. 1, let. b, OPO[^92-3] dans le cadre de l’obligation de La Poste Suisse SA de fournir les services postaux relevant du service universel;
-- a<sup>bis</sup>.[^92-4] transport des envois postaux par les prestataires visés aux art. 3, al. 1, et 8, al. 1, OPO ou par les sous-traitants visés à l’art. 1, let. b, OPO pour autant que le transport corresponde à une offre de services postaux relevant du service universel (art. 13 de la loi du 17 déc. 2010 sur la poste[^92-5]);
+- a.[^92-4] transport des envois postaux par les sous-traitants visés à l’art. 1, let. b, OPO[^92-5] dans le cadre de l’obligation de La Poste Suisse SA de fournir les services postaux relevant du service universel;
+- a<sup>bis</sup>.[^92-6] transport des envois postaux par les prestataires visés aux art. 3, al. 1, et 8, al. 1, OPO ou par les sous-traitants visés à l’art. 1, let. b, OPO pour autant que le transport corresponde à une offre de services postaux relevant du service universel (art. 13 de la loi du 17 déc. 2010 sur la poste[^92-7]);
 - b. transport du matériel de cirque, de forains, de marchands ambulants, d’orchestre, de théâtre et similaire;
-- c. courses occasionnées par la construction et l’entretien des routes et des voies ferrées ainsi que des conduites industrielles telles que canalisations d’eau, lignes électriques ou lignes de télécommunication;
+- c.[^92-8] …
 - d. déplacements de véhicules spéciaux et de transports spéciaux qui entravent la circulation;
 - e. courses en rapport avec des manifestations, notamment pour le transport de produits alimentaires et de boissons.
 
 <sup>3</sup> Pour les autres courses que celles visées à l’al. 2, le canton ne peut octroyer des autorisations qu’avec l’assentiment de l’OFROU. En cas d’urgence, il peut autoriser de son propre chef une course indispensable; il en informera l’OFROU.
 
-<sup>4</sup> Le canton de stationnement ou le canton où commence la course soumise à autorisation délivre l’autorisation, qui est valable pour toute la Suisse. Le canton de stationnement n’est toutefois pas compétent lorsque son territoire ne sera pas emprunté. Pour les véhicules de la Confédération et pour les courses visées à l’al. 2, let. a<sup>bis</sup>, c’est l’OFROU qui octroie l’autorisation.[^92-6]
+<sup>4</sup> Le canton de stationnement ou le canton où commence la course soumise à autorisation délivre l’autorisation, qui est valable pour toute la Suisse. Le canton de stationnement n’est toutefois pas compétent lorsque son territoire ne sera pas emprunté. Pour les véhicules de la Confédération et pour les courses visées à l’al. 2, let. a<sup>bis</sup>, c’est l’OFROU qui octroie l’autorisation.[^92-9]
 
 <sup>5</sup> Pour chaque transport, le quart du volume de chargement du véhicule peut être occupé par d’autres marchandises.
 
 [^92-1]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> oct. 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 4569](https://fedlex.data.admin.ch/eli/oc/2010/654)).
-[^92-2]: Nouvelle teneur selon l’annexe 2 ch. II 4 de l’O du 29 août 2012 sur la poste, en vigueur depuis le 1<sup>er</sup> oct. 2012 ([RO 2012 5009](https://fedlex.data.admin.ch/eli/oc/2012/586)).
-[^92-3]: [RS 783.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9152)
-[^92-4]: Introduite par l’annexe 2 ch. II 4 de l’O du 29 août 2012 sur la poste, en vigueur depuis le 1<sup>er</sup> oct. 2012 ([RO 2012 5009](https://fedlex.data.admin.ch/eli/oc/2012/586)).
-[^92-5]: [RS 783.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9151)
-[^92-6]: Nouvelle teneur selon l’annexe 2 ch. II 4 de l’O du 29 août 2012 sur la poste, en vigueur depuis le 1<sup>er</sup> oct. 2012 ([RO 2012 5009](https://fedlex.data.admin.ch/eli/oc/2012/586)).
+[^92-2]: Nouvelle teneur selon le ch. I de l’O du 6 mai 2026, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2026 226](https://fedlex.data.admin.ch/eli/oc/2026/226)).
+[^92-3]: Introduit par le ch. I de l’O du 6 mai 2026, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2026 226](https://fedlex.data.admin.ch/eli/oc/2026/226)).
+[^92-4]: Nouvelle teneur selon l’annexe 2 ch. II 4 de l’O du 29 août 2012 sur la poste, en vigueur depuis le 1<sup>er</sup> oct. 2012 ([RO 2012 5009](https://fedlex.data.admin.ch/eli/oc/2012/586)).
+[^92-5]: [RS 783.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9152)
+[^92-6]: Introduite par l’annexe 2 ch. II 4 de l’O du 29 août 2012 sur la poste, en vigueur depuis le 1<sup>er</sup> oct. 2012 ([RO 2012 5009](https://fedlex.data.admin.ch/eli/oc/2012/586)).
+[^92-7]: [RS 783.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9151)
+[^92-8]: Abrogée par le ch. I de l’O du 6 mai 2026, avec effet au 1<sup>er</sup> juil. 2026 ([RO 2026 226](https://fedlex.data.admin.ch/eli/oc/2026/226)).
+[^92-9]: Nouvelle teneur selon l’annexe 2 ch. II 4 de l’O du 29 août 2012 sur la poste, en vigueur depuis le 1<sup>er</sup> oct. 2012 ([RO 2012 5009](https://fedlex.data.admin.ch/eli/oc/2012/586)).
 
 #### Art. 93
 
@@ -2416,23 +2438,9 @@ L’autorisation indique:
 
 #### Art. 94
 
-**Manifestations interdites; exceptions**
+[^94-1]
 
-<sup>1</sup> Tombent sous le coup de l’interdiction des courses de vitesse en circuit qui ont un caractère public et sont effectuées avec des véhicules automobiles, toutes les courses empruntant de manière répétée et ininterrompue un parcours délimité, si des spectateurs y sont admis.
-
-<sup>2</sup> Sont également interdites les manifestations dont le règlement prévoit que les participants s’efforceront d’éliminer leurs concurrents en endommageant leur véhicule (courses dites de stock-car, etc.) de même que les rallyes-ballons où le classement se fait sur la base du temps le plus court.
-
-<sup>3</sup>
-
-Sont admises toutefois, avec l’autorisation des cantons:
-
-- a. les courses de motocycles sur gazon;
-- b. les courses mettant en jeu l’habileté des concurrents à circuler sur un terrain difficile;
-- c. les courses de véhicules spéciaux dont la cylindrée n’excède pas 250 cm<sup>3</sup>, telles que les courses dites de karts;
-- d. les slaloms pour automobiles;
-- e. …[^94-1]
-
-[^94-1]: Nouvelle teneur selon le ch. I de l’O du 18 déc. 2015, en vigueur depuis le 1<sup>er</sup> avr. 2016 ([RO 2016 403](https://fedlex.data.admin.ch/eli/oc/2016/61)). La let. e a effet jusqu’au 31 mars 2026 ([RO 2020 2139](https://fedlex.data.admin.ch/eli/oc/2020/423)).
+[^94-1]: Abrogé par le ch. I de l’O du 6 mai 2026, avec effet au 1<sup>er</sup> juil. 2026 ([RO 2026 226](https://fedlex.data.admin.ch/eli/oc/2026/226)).
 
 #### Art. 95
 
@@ -2446,11 +2454,11 @@ Sont admises toutefois, avec l’autorisation des cantons:
 
 <sup>4</sup> Si le règlement de la course prévoit une vitesse moyenne, l’organisateur de la manifestation effectuera des contrôles secrets et les dépassements de la vitesse seront pris en considération lors du classement.
 
-<sup>5</sup> …[^95-1]
+<sup>5</sup> L’OFROU peut édicter des instructions relatives à l’exécution de la présente ordonnance.[^95-1]
 
 \* En ce qui concerne l’attestation d’assurance, voir les art. 30 et 31 de l’O du 20 nov. 1959 sur l’assurance des véhicules[^95-2].
 
-[^95-1]: Introduit par le ch. I de l’O du 18 déc. 2015, en vigueur du 1<sup>er</sup> avr. 2016 au 31 mars 2026 ([RO 2016 403](https://fedlex.data.admin.ch/eli/oc/2016/61); [2020 2139](https://fedlex.data.admin.ch/eli/oc/2020/423)).
+[^95-1]: Introduit par le ch. I de l’O du 18 déc. 2015 ([RO 2016 403](https://fedlex.data.admin.ch/eli/oc/2016/61)). Nouvelle teneur selon le ch. I de l’O du 6 mai 2026, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2026 226](https://fedlex.data.admin.ch/eli/oc/2026/226)).
 [^95-2]: [RS 741.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8645)
 
 ### Chapitre 3 Disposition pénale

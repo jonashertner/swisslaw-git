@@ -4,11 +4,11 @@ title: Verkehrsregelnverordnung vom 13. November 1962 (VRV)
 short: VRV
 eli: "https://fedlex.data.admin.ch/eli/cc/1962/1364_1409_1420"
 language: de
-version: 2026-04-01
+version: 2026-07-01
 adopted: 1962-11-13
 in_force: 1963-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1962/1364_1409_1420/20260401/de/xml/fedlex-data-admin-ch-eli-cc-1962-1364_1409_1420-20260401-de-xml-13.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1962/1364_1409_1420/20260401/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1962/1364_1409_1420/20260701/de/xml/fedlex-data-admin-ch-eli-cc-1962-1364_1409_1420-20260701-de-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1962/1364_1409_1420/20260701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1962/1364_1409_1420/20260401/de"
 
 (VRV)[^t-1]
 
-vom 13. November 1962 (Stand am 1. April 2026)
+vom 13. November 1962 (Stand am 1. Juli 2026)
 
 [^t-1]: Fassung gemäss Ziff. I der V vom 25. Jan. 1989, in Kraft seit 1. Mai 1989 ([AS 1989 410](https://fedlex.data.admin.ch/eli/oc/1989/410_410_410)).
 
@@ -395,9 +395,13 @@ Auf Autobahnen und Autostrassen beträgt die Höchstgeschwindigkeit 100 km/h fü
 
 #### Art. 7
 
-[^7-1]
+**Rechtsfahren**[^7-1]
 
-[^7-1]: Aufgehoben durch Ziff. I der V vom 20. Mai 2020, mit Wirkung seit 1. Jan. 2021 ([AS 2020 2139](https://fedlex.data.admin.ch/eli/oc/2020/423)).
+### (Art. 34 Abs. 1 SVG)
+
+An Verkehrsinseln, Sperrflächen und Hindernissen in der Mitte der Fahrbahn ist rechts vorbeizufahren. Linksabbieger dürfen jedoch an Verkehrsinseln in der Mitte von Verzweigungen links vorbeifahren.
+
+[^7-1]: Fassung gemäss Ziff. I der V vom 19. Dez. 2025, in Kraft seit 1. Juli 2026 ([AS 2026 23](https://fedlex.data.admin.ch/eli/oc/2026/23)).
 
 #### Art. 8
 
@@ -985,11 +989,11 @@ Fahrzeugführer, Mitfahrende und Hilfspersonen dürfen keinen vermeidbaren Lärm
 
 <sup>1</sup> Auf Autobahnen und Autostrassen ist das Abbiegen nur an den dafür gekennzeichneten Stellen gestattet. Wenden und Rückwärtsfahren sind untersagt.
 
-<sup>2</sup> Mittelstreifen von Autobahnen dürfen auch auf den vorhandenen Durchfahrten nicht überquert werden.
+<sup>2</sup> Mittelstreifen von Autobahnen dürfen auch auf den vorhandenen Durchfahrten nicht überquert werden. Ausgenommen sind Fälle, in denen mit gelb-orangen Markierungen oder mit Lichtpunkten von eingeschalteten Unterflurleuchten gebildete Fahrstreifen über die Durchfahrt führen.[^36-1]
 
-<sup>3</sup> Der Fahrzeugführer darf Pannenstreifen und signalisierte Abstellplätze für Pannenfahrzeuge nur für Nothalte benützen; sonst darf er nur auf signalisierten Parkplätzen halten. Die Fahrzeuginsassen dürfen die Fahrbahn nicht betreten.[^36-1]
+<sup>3</sup> Der Fahrzeugführer darf Pannenstreifen und signalisierte Abstellplätze für Pannenfahrzeuge nur für Nothalte benützen; sonst darf er nur auf signalisierten Parkplätzen halten. Die Fahrzeuginsassen dürfen die Fahrbahn nicht betreten.[^36-2]
 
-<sup>4</sup> Benützer der Autobahnen und Autostrassen haben den Vortritt vor Fahrzeugen auf den Zufahrtsstrecken. Bei stockendem Verkehr ist Artikel 8 Absatz 5 anwendbar.[^36-2]
+<sup>4</sup> Benützer der Autobahnen und Autostrassen haben den Vortritt vor Fahrzeugen auf den Zufahrtsstrecken. Bei stockendem Verkehr ist Artikel 8 Absatz 5 anwendbar.[^36-3]
 
 <sup>5</sup>
 
@@ -998,17 +1002,18 @@ Das Rechtsüberholen durch Ausschwenken und Wiedereinbiegen ist untersagt. Der F
 - a. bei Kolonnenverkehr auf dem linken oder mittleren Fahrstreifen;
 - b. auf Einspurstrecken, sofern für die einzelnen Fahrstreifen unterschiedliche Fahrziele signalisiert sind;
 - c. sofern der links liegende Fahrstreifen mit einer Sicherheitslinie (6.01) oder bei Doppellinien-Markierung (6.04) mit einer linksseitig angebrachten Sicherheitslinie abgegrenzt ist, bis zum Ende der entsprechenden Markierung, insbesondere auf dem Beschleunigungsstreifen von Einfahrten;
-- d. auf dem Verzögerungsstreifen von Ausfahrten.[^36-3]
+- d. auf dem Verzögerungsstreifen von Ausfahrten.[^36-4]
 
-<sup>6</sup> Auf Autobahnen mit mindestens drei Fahrstreifen in der gleichen Richtung darf der äusserste Streifen links nur von Motorfahrzeugen benützt werden, die eine Geschwindigkeit von mehr als 100 km/h erreichen dürfen.[^36-4]
+<sup>6</sup> Auf Autobahnen mit mindestens drei Fahrstreifen in der gleichen Richtung darf der äusserste Streifen links nur von Motorfahrzeugen benützt werden, die eine Geschwindigkeit von mehr als 100 km/h erreichen dürfen.[^36-5]
 
-<sup>7</sup> Fahren auf Autobahnen und Autostrassen mit mindestens zwei Fahrstreifen in eine Richtung die Fahrzeuge mit Schrittgeschwindigkeit oder befinden sie sich im Stillstand, so müssen diese Fahrzeuge für die Durchfahrt von Polizei-, Sanitäts-, Feuerwehr-, Zoll- und Hilfsfahrzeugen zwischen dem äussersten linken und dem unmittelbar rechts danebenliegenden Fahrstreifen eine freie Gasse bilden.[^36-5]
+<sup>7</sup> Fahren auf Autobahnen und Autostrassen mit mindestens zwei Fahrstreifen in eine Richtung die Fahrzeuge mit Schrittgeschwindigkeit oder befinden sie sich im Stillstand, so müssen diese Fahrzeuge für die Durchfahrt von Polizei-, Sanitäts-, Feuerwehr-, Zoll- und Hilfsfahrzeugen zwischen dem äussersten linken und dem unmittelbar rechts danebenliegenden Fahrstreifen eine freie Gasse bilden.[^36-6]
 
-[^36-1]: Fassung gemäss Ziff. I der V vom 14. Nov. 1979, in Kraft seit 1. Jan. 1980 ([AS 1979 1583](https://fedlex.data.admin.ch/eli/oc/1979/1583_1583_1583)).
-[^36-2]: Fassung gemäss Ziff. I der V vom 20. Mai 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 2139](https://fedlex.data.admin.ch/eli/oc/2020/423)).
+[^36-1]: Fassung gemäss Ziff. I der V vom 19. Dez. 2025, in Kraft seit 1. Juli 2026 ([AS 2026 23](https://fedlex.data.admin.ch/eli/oc/2026/23)).
+[^36-2]: Fassung gemäss Ziff. I der V vom 14. Nov. 1979, in Kraft seit 1. Jan. 1980 ([AS 1979 1583](https://fedlex.data.admin.ch/eli/oc/1979/1583_1583_1583)).
 [^36-3]: Fassung gemäss Ziff. I der V vom 20. Mai 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 2139](https://fedlex.data.admin.ch/eli/oc/2020/423)).
-[^36-4]: Eingefügt durch Ziff. I der V vom 22. Dez. 1976 ([AS 1976 2810](https://fedlex.data.admin.ch/eli/oc/1976/2810_2810_2810)). Fassung gemäss Ziff. I der V vom 24. Juni 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 2451](https://fedlex.data.admin.ch/eli/oc/2015/460)).
-[^36-5]: Eingefügt durch Ziff. I der V vom 20. Mai 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 2139](https://fedlex.data.admin.ch/eli/oc/2020/423)). Die Berichtigung vom 9. Febr. 2021 betrifft nur den französischen Text ([AS 2021 76](https://fedlex.data.admin.ch/eli/oc/2021/76)).
+[^36-4]: Fassung gemäss Ziff. I der V vom 20. Mai 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 2139](https://fedlex.data.admin.ch/eli/oc/2020/423)).
+[^36-5]: Eingefügt durch Ziff. I der V vom 22. Dez. 1976 ([AS 1976 2810](https://fedlex.data.admin.ch/eli/oc/1976/2810_2810_2810)). Fassung gemäss Ziff. I der V vom 24. Juni 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 2451](https://fedlex.data.admin.ch/eli/oc/2015/460)).
+[^36-6]: Eingefügt durch Ziff. I der V vom 20. Mai 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 2139](https://fedlex.data.admin.ch/eli/oc/2020/423)). Die Berichtigung vom 9. Febr. 2021 betrifft nur den französischen Text ([AS 2021 76](https://fedlex.data.admin.ch/eli/oc/2021/76)).
 
 #### Art. 37
 
@@ -1682,7 +1687,7 @@ Fahrradfahrer über 16 Jahre dürfen mitführen:
 [^65-5]: Eingefügt durch Ziff. I der V vom 5. April 2017, in Kraft seit 7. Mai 2017 ([AS 2017 2649](https://fedlex.data.admin.ch/eli/oc/2017/262)).
 [^65-6]: [SR 741.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8648)
 [^65-7]: Eingefügt durch Ziff. I der V vom 17. Dez. 2021, in Kraft seit 1. April 2022 ([AS 2022 13](https://fedlex.data.admin.ch/eli/oc/2022/13)).
-[^65-8]: Eingefügt durch Ziff. I der V vom 17. Dez. 2021, in Kraft vom 1. April 2022 bis zum 31. Dez. 2030 ([AS 2022 13](https://fedlex.data.admin.ch/eli/oc/2022/13)).
+[^65-8]: Eingefügt durch Ziff. I der V vom 17. Dez. 2021, in Kraft seit 1. April 2022 ([AS 2022 13](https://fedlex.data.admin.ch/eli/oc/2022/13); [2026 226](https://fedlex.data.admin.ch/eli/oc/2026/226)Ziff. II).
 
 #### Art. 65a
 
@@ -1728,7 +1733,7 @@ Das Betriebsgewicht von Fahrzeugen und Fahrzeugkombinationen darf höchstens bet
 - g.[^67-8] 24,00 t bei Anhängern mit drei Achsen, ausgenommen Sattelanhänger, Zentralachsanhänger und Starrdeichselanhänger;
 - h.[^67-9] 18,00 t bei Anhängern mit zwei Achsen, ausgenommen Sattelanhänger, Zentralachsanhänger und Starrdeichselanhänger.
 
-<sup>1bis</sup> Als unbegleiteter kombinierter Verkehr gilt die Beförderung von Ladebehältern (Container, Wechselaufbau) oder die Überführung eines Sattelanhängers von oder zu einer beliebigen schweizerischen Umladestation der Bahn bzw. von oder zu einem schweizerischen Hafen, ohne dass das Ladegut beim Übergang vom einen zum anderen Verkehrsträger das Transportgefäss wechselt. Das Eidgenössische Departement für Umwelt, Verkehr, Energie und Kommunikation (UVEK) kann festlegen, welche in Grenznähe liegenden ausländischen Umladestationen den schweizerischen gleichgestellt sind. Der Fahrzeugführer muss im unbegleiteten kombinierten Verkehr ein geeignetes Nachweisdokument (z. B. Frachtbrief der Bahn) mitführen.[^67-10]
+<sup>1bis</sup> Als unbegleiteter kombinierter Verkehr gilt die Beförderung von Ladebehältern (Container, Wechselaufbau) oder die Überführung eines Sattelanhängers von oder zu einer beliebigen schweizerischen Umladestation der Bahn bzw. von oder zu einem schweizerischen Hafen, ohne dass das Ladegut beim Übergang vom einen zum anderen Verkehrsträger das Transportgefäss wechselt. Das Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation (UVEK) kann festlegen, welche in Grenznähe liegenden ausländischen Umladestationen den schweizerischen gleichgestellt sind. Der Fahrzeugführer muss im unbegleiteten kombinierten Verkehr ein geeignetes Nachweisdokument (z. B. Frachtbrief der Bahn) mitführen.[^67-10]
 
 <sup>1<sup>ter</sup></sup> Das Betriebsgewicht von Fahrzeugen nach Absatz 1 Buchstaben b–d und e mit alternativem Antrieb (Art. 9*a* Abs. 1 VTS[^67-11]) darf um das für die alternative Antriebstechnik erforderliche Mehrgewicht, höchstens jedoch 1 t und bei Fahrzeugen mit emissionsfreiem Antrieb (Art. 9*a* Abs. 2 VTS) höchstens 2 t, höher sein.[^67-12]
 
@@ -1785,7 +1790,7 @@ Das Gewicht auf den Antriebsachsen muss mindestens betragen (minimales Adhäsion
 [^67-10]: Eingefügt durch Ziff. I der V vom 30. Juni 2004, in Kraft seit 1. Jan. 2005 ([AS 2004 3519](https://fedlex.data.admin.ch/eli/oc/2004/471)).
 [^67-11]: [SR 741.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8648)
 [^67-12]: Eingefügt durch Ziff. I der V vom 5. April 2017 ([AS 2017 2649](https://fedlex.data.admin.ch/eli/oc/2017/262)). Fassung gemäss Ziff. I der V vom 17. Dez. 2021, in Kraft seit 1. April 2022 ([AS 2022 13](https://fedlex.data.admin.ch/eli/oc/2022/13)).
-[^67-13]: Eingefügt durch Ziff. I der V vom 17. Dez. 2021, in Kraft vom 1. April 2022 bis zum 31. Dez. 2030 ([AS 2022 13](https://fedlex.data.admin.ch/eli/oc/2022/13)).
+[^67-13]: Eingefügt durch Ziff. I der V vom 17. Dez. 2021, in Kraft seit 1. April 2022 ([AS 2022 13](https://fedlex.data.admin.ch/eli/oc/2022/13); [2026 226](https://fedlex.data.admin.ch/eli/oc/2026/226)Ziff. II).
 [^67-14]: Fassung gemäss Ziff. I der V vom 16. Nov. 2016, in Kraft seit 15. Jan. 2017 ([AS 2016 5129](https://fedlex.data.admin.ch/eli/oc/2016/817)).
 [^67-15]: [SR 741.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8648)
 [^67-16]: Eingefügt durch Ziff. I der V vom 21. Nov. 2018, in Kraft seit 1. Febr. 2019 ([AS 2019 243](https://fedlex.data.admin.ch/eli/oc/2019/42)).
@@ -2047,11 +2052,12 @@ Für Fahrten, bei denen Höchstbreite, Höchsthöhe oder Höchstgewicht übersch
 - c.[^78-8] die Verwendung von Raupenfahrzeugen in Wintersportgebieten; Dauerbewilligungen für Raupenfahrzeuge können mit Zustimmung der betroffenen Kantone auch für Wintersportgebiete, die Teile mehrerer Kantone umfassen, erteilt werden;
 - d.[^78-9] den Transport unteilbarer Güter innerhalb des Kantonsgebietes;
 - e.[^78-10] die Beförderung von beladenen Eisenbahnwagen mit Rollschemeln innerhalb des Kantonsgebietes und mit Zustimmung der betroffenen Kantone auch für ausserkantonale Strecken;
-- f.[^78-11] den Transport unteilbarer Güter und die Verwendung von Ausnahmefahrzeugen im Rahmen der Limiten von Artikel 79 Absatz 2 Buchstabe a.[^78-12]
+- f.[^78-11] den Transport unteilbarer Güter und die Verwendung von Ausnahmefahrzeugen im Rahmen der Limiten von Artikel 79 Absatz 2 Buchstabe a;
+- g.[^78-12] den Transport unteilbarer Güter ausschliesslich auf Nationalstrassen und die Fahrten von Ausnahmefahrzeugen ausschliesslich auf Nationalstrassen.[^78-13]
 
-<sup>2bis</sup> Bei Ausnahmefahrzeugen, deren Abmessungen und Gewichte die Limiten nach Artikel 79 Absatz 2 Buchstabe a nicht überschreiten, kann die Dauerbewilligung im Fahrzeugausweis als Verfügung der Behörde eingetragen werden, sofern die Kreisfahrbedingungen nach Artikel 65*a* eingehalten sind.[^78-13]
+<sup>2bis</sup> Bei Ausnahmefahrzeugen, deren Abmessungen und Gewichte die Limiten nach Artikel 79 Absatz 2 Buchstabe a nicht überschreiten, kann die Dauerbewilligung im Fahrzeugausweis als Verfügung der Behörde eingetragen werden, sofern die Kreisfahrbedingungen nach Artikel 65*a* eingehalten sind.[^78-14]
 
-<sup>3</sup> …[^78-14]
+<sup>3</sup> …[^78-15]
 
 <sup>4</sup> Die Bewilligung kann jederzeit entzogen werden, namentlich wenn sie missbraucht wurde, die Fahrzeuge im Verkehr Schwierigkeiten verursachen oder die bewilligten Fahrten nicht mehr nötig sind.
 
@@ -2067,9 +2073,10 @@ Für Fahrten, bei denen Höchstbreite, Höchsthöhe oder Höchstgewicht übersch
 [^78-9]: Fassung gemäss Ziff. I der V vom 15. Nov. 2000, in Kraft seit 1. Jan. 2001 ([AS 2000 2883](https://fedlex.data.admin.ch/eli/oc/2000/500)).
 [^78-10]: Fassung gemäss Ziff. I der V vom 30. Juni 2004, in Kraft seit 1. Jan. 2005 ([AS 2004 3519](https://fedlex.data.admin.ch/eli/oc/2004/471)).
 [^78-11]: Eingefügt durch Ziff. I der V vom 30. Juni 2004, in Kraft seit 1. Jan. 2005 ([AS 2004 3519](https://fedlex.data.admin.ch/eli/oc/2004/471)).
-[^78-12]: Fassung gemäss Ziff. I der V vom 15. Nov. 2000, in Kraft seit 1. Jan. 2001 ([AS 2000 2883](https://fedlex.data.admin.ch/eli/oc/2000/500)).
-[^78-13]: Eingefügt durch Ziff. I der V vom 15. Nov. 2000 ([AS 2000 2883](https://fedlex.data.admin.ch/eli/oc/2000/500)). Fassung gemäss Ziff. I der V vom 30. Juni 2004, in Kraft seit 1. Jan. 2005 ([AS 2004 3519](https://fedlex.data.admin.ch/eli/oc/2004/471)).
-[^78-14]: Aufgehoben durch Ziff. I der V vom 22. Dez. 2023, mit Wirkung seit 1. April 2024 ([AS 2024 28](https://fedlex.data.admin.ch/eli/oc/2024/28)).
+[^78-12]: Eingefügt durch Ziff. I der V vom 6. Mai 2026, in Kraft seit 1. Juli 2026 ([AS 2026 226](https://fedlex.data.admin.ch/eli/oc/2026/226)).
+[^78-13]: Fassung gemäss Ziff. I der V vom 15. Nov. 2000, in Kraft seit 1. Jan. 2001 ([AS 2000 2883](https://fedlex.data.admin.ch/eli/oc/2000/500)).
+[^78-14]: Eingefügt durch Ziff. I der V vom 15. Nov. 2000 ([AS 2000 2883](https://fedlex.data.admin.ch/eli/oc/2000/500)). Fassung gemäss Ziff. I der V vom 30. Juni 2004, in Kraft seit 1. Jan. 2005 ([AS 2004 3519](https://fedlex.data.admin.ch/eli/oc/2004/471)).
+[^78-15]: Aufgehoben durch Ziff. I der V vom 22. Dez. 2023, mit Wirkung seit 1. April 2024 ([AS 2024 28](https://fedlex.data.admin.ch/eli/oc/2024/28)).
 
 #### Art. 79
 
@@ -2084,20 +2091,21 @@ Werden die gesetzlichen Masse und Gewichte überschritten, so können die Bewill
 - a.[^79-3] Fahrzeuge und Fahrzeugkombinationen dürfen höchstens 30 m lang, 3 m breit und 4 m hoch sein sowie höchstens 44 t Betriebsgewicht aufweisen; die Achsbelastung darf je Achse 12 t nicht übersteigen;
 - b. es dürfen nur Durchgangsstrassen nach den Anhängen 1 und 2 Buchstaben A und B der Durchgangsstrassenverordnung vom 18. Dezember 1991[^79-4] und von solchen Strassen berührte Ortschaften benützt werden.[^79-5]
 
-<sup>3</sup> Bei Einzelbewilligungen kann das Betriebsgewicht nach Absatz 2 Buchstabe a bis 50 t betragen, wenn der Transit durch die von der ausserkantonalen Fahrstrecke berührten Kantone ausschliesslich auf der Autobahn erfolgt.[^79-6]
+<sup>3</sup> …[^79-6]
 
 <sup>4</sup> Sind die Voraussetzungen nach Absatz 2 nicht erfüllt, so erteilt jeder von der Fahrt betroffene Kanton eine Bewilligung für sein Kantonsgebiet oder gibt für Bewilligungen des ASTRA seine Zustimmung.[^79-7]
 
-<sup>5</sup> Werden die Masse und Gewichte nach Absatz 2 Buchstabe a überschritten, so darf die Bewilligung für das Befahren von Nationalstrassen nur mit Zustimmung des ASTRA erteilt werden.[^79-8]
+<sup>5</sup> Werden die Masse und Gewichte nach Absatz 2 Buchstabe a überschritten, so darf die Bewilligung für das Befahren von Bestandteilen der Nationalstrassen nach Artikel 2 der Nationalstrassenverordnung vom 7. November 2007[^79-8] nur mit Zustimmung des ASTRA erteilt werden. Für das Befahren von Strecken und Bauwerken, die das ASTRA generell freigegeben hat, ist keine Zustimmung erforderlich. Das ASTRA führt eine Liste der generell freigegebenen Strecken und Bauwerke und informiert die Kantone über Änderungen dieser Liste.[^79-9]
 
 [^79-1]: Fassung gemäss Anhang 4 Ziff. II 5 der Nationalstrassenverordnung vom 7. Nov. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 5957](https://fedlex.data.admin.ch/eli/oc/2007/796)).
 [^79-2]: Fassung gemäss Anhang 4 Ziff. II 5 der Nationalstrassenverordnung vom 7. Nov. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 5957](https://fedlex.data.admin.ch/eli/oc/2007/796)).
 [^79-3]: Fassung gemäss Ziff. I der V vom 30. Juni 2004, in Kraft seit 1. Jan. 2005 ([AS 2004 3519](https://fedlex.data.admin.ch/eli/oc/2004/471)).
 [^79-4]: [SR 741.272](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8643)
 [^79-5]: Fassung gemäss Ziff. I der V vom 7. März 1994, in Kraft seit 1. April 1994 ([AS 1994 816](https://fedlex.data.admin.ch/eli/oc/1994/816_816_816)).
-[^79-6]: Fassung gemäss Ziff. I der V vom 30. Juni 2004, in Kraft seit 1. Jan. 2005 ([AS 2004 3519](https://fedlex.data.admin.ch/eli/oc/2004/471)).
+[^79-6]: Aufgehoben durch Ziff. I der V vom 6. Mai 2026, mit Wirkung seit 1. Juli 2026 ([AS 2026 226](https://fedlex.data.admin.ch/eli/oc/2026/226)).
 [^79-7]: Eingefügt durch Ziff. I der V vom 1. Juli 1992 ([AS 1993 1142](https://fedlex.data.admin.ch/eli/oc/1993/1142_1142_1142)). Fassung gemäss Anhang 4 Ziff. II 5 der Nationalstrassenverordnung vom 7. Nov. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 5957](https://fedlex.data.admin.ch/eli/oc/2007/796)).
-[^79-8]: Eingefügt durch Anhang 4 Ziff. II 5 der Nationalstrassenverordnung vom 7. Nov. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 5957](https://fedlex.data.admin.ch/eli/oc/2007/796)).
+[^79-8]: [SR 725.111](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8454)
+[^79-9]: Eingefügt durch Anhang 4 Ziff. II 5 der Nationalstrassenverordnung vom 7. Nov. 2007 ([AS 2007 5957](https://fedlex.data.admin.ch/eli/oc/2007/796)). Fassung gemäss Ziff. I der V vom 6. Mai 2026, in Kraft seit 1. Juli 2026 ([AS 2026 226](https://fedlex.data.admin.ch/eli/oc/2026/226)).
 
 #### Art. 80
 
@@ -2330,68 +2338,80 @@ Vom Sonntags- und Nachtfahrverbot sind ausgenommen:
 - a. Fahrzeuge zum Personentransport;
 - b. land- und forstwirtschaftliche Fahrzeuge;
 - c. Fahrzeuge, die einen Sattelanhänger mit einem zum Wohnen dienenden Aufbau mitführen;
-- d. Fahrten der Feuerwehr, des Zivilschutzes, der Sanität, der Polizei und des Militärs sowie Fahrten zur Hilfeleistung bei Katastrophen;
+- d.[^91a-2] Fahrten der Feuerwehr, des Zivilschutzes, der Sanität, der Polizei, der Zollbehörden und des Militärs sowie Fahrten zur Hilfeleistung bei Katastrophen;
 - e. gewerbliche Traktoren, Motorkarren und Arbeitskarren sowie ihre Anhänger, sofern die Fahrzeuge während den Verbotszeiten ausschliesslich für land- und forstwirtschaftliche Fahrten verwendet werden (Art. 86–90);
-- f.[^91a-2] Fahrten der Schweizerischen Post AG und der Postkonzerngesellschaften nach Artikel 1 Buchstabe e der Postverordnung vom 29. August 2012[^91a-3] (VPG) im Rahmen der Verpflichtung der Schweizerischen Post AG zur Grundversorgung mit Postdiensten (Art. 13 des Postgesetzes vom 17. Dezember 2010[^91a-4]);
-- g.[^91a-5] Transporte von Lebensmitteln (Art. 4 des Lebensmittelgesetzes vom 20. Juni 2014[^91a-6], LMG), die nicht tiefgefroren, ultrahocherhitzt oder sterilisiert sind und deren Verbrauchsfrist höchstens 30 Tage beträgt;
-- h. Transporte von Schlachttieren und Sportpferden;
-- i. Transporte von Schnittblumen;
+- f.[^91a-3] Fahrten der Schweizerischen Post AG und der Postkonzerngesellschaften nach Artikel 1 Buchstabe e der Postverordnung vom 29. August 2012[^91a-4] (VPG) im Rahmen der Verpflichtung der Schweizerischen Post AG zur Grundversorgung mit Postdiensten (Art. 13 des Postgesetzes vom 17. Dezember 2010[^91a-5]);
+- g.[^91a-6] Transporte von Lebensmitteln (Art. 4 des Lebensmittelgesetzes vom 20. Juni 2014[^91a-7], LMG), die nicht tiefgefroren, ultrahocherhitzt oder sterilisiert sind und deren Verbrauchsfrist höchstens 30 Tage beträgt;
+- h.[^91a-8] Transporte von lebenden Tieren;
+- i.[^91a-9] Transporte von leicht verderblichen Gütern, die innert Tagesfrist verbraucht, weiterverarbeitet oder eingelagert werden müssen;
 - j. Transporte von Tageszeitungen mit redaktionellem Inhalt sowie Fahrten für aktuelle Fernsehreportagen;
-- k.[^91a-7] Fahrten mit Raupenfahrzeugen zur Pistenbereitung;
-- l.[^91a-8] Fahrzeuge mit aufgebautem Nutzraum, der speziell zum Blutspenden eingerichtet ist;
-- m.[^91a-9] schwere Motorwagen mit einem Gesamtgewicht von höchstens 4250 kg, sofern sie über einen emissionsfreien Antrieb (Art. 9*a* Abs. 2 VTS[^91a-10]) verfügen und das 3500 kg überschreitende Gewicht einzig durch das Mehrgewicht der emissionsfreien Antriebstechnik verursacht wird;
-- n.[^91a-11] Sattelmotorfahrzeuge mit einem zulässigen Gesamtzugsgewicht (Art. 7 Abs. 6 VTS) von höchstens 5750 kg, sofern sie über einen emissionsfreien Antrieb (Art. 9*a* Abs. 2 VTS) verfügen und das 5000 kg überschreitende Gewicht einzig durch das Mehrgewicht der emissionsfreien Antriebstechnik verursacht wird.
+- k.[^91a-10] Fahrten mit Raupenfahrzeugen zur Pistenbereitung;
+- k<sup>bis</sup>.[^91a-11] Fahrten mit Raupenfahrzeugen mit einem Gesamtgewicht bis 3,5 t zur Versorgung von Örtlichkeiten abseits befahrbarer Strassen;
+- l.[^91a-12] Fahrzeuge mit aufgebautem Nutzraum, der speziell zum Blutspenden eingerichtet ist;
+- m.[^91a-13] schwere Motorwagen mit einem Gesamtgewicht von höchstens 4250 kg, sofern sie über einen emissionsfreien Antrieb (Art. 9*a* Abs. 2 VTS[^91a-14]) verfügen und das 3500 kg überschreitende Gewicht einzig durch das Mehrgewicht der emissionsfreien Antriebstechnik verursacht wird;
+- n.[^91a-15] Sattelmotorfahrzeuge mit einem zulässigen Gesamtzugsgewicht (Art. 7 Abs. 6 VTS) von höchstens 5750 kg, sofern sie über einen emissionsfreien Antrieb (Art. 9*a* Abs. 2 VTS) verfügen und das 5000 kg überschreitende Gewicht einzig durch das Mehrgewicht der emissionsfreien Antriebstechnik verursacht wird;
+- o.[^91a-16] Fahrten für Bau und Unterhalt von Strassen, Gleisanlagen, Fernmeldeanlagen, Infrastrukturen der Energie- und Wasserversorgung sowie für die Pflege des öffentlichen Raums.
 
 <sup>2</sup> Vom Sonntags- und Nachtfahrverbot ausgenommen sind ferner Fahrten zur Hilfeleistung bei Unfällen, Fahrzeugpannen und Betriebsstörungen, namentlich in öffentlichen Transportunternehmungen und im Flugverkehr, sowie Fahrten bei Winterdiensteinsätzen.
 
-<sup>2bis</sup> Vom Sonntagsfahrverbot ausgenommen sind Veteranenfahrzeuge, die gemäss Eintrag im Fahrzeugausweis als solche anerkannt sind.[^91a-12]
+<sup>2bis</sup> Vom Sonntagsfahrverbot ausgenommen sind Veteranenfahrzeuge, die gemäss Eintrag im Fahrzeugausweis als solche anerkannt sind.[^91a-17]
 
 <sup>3</sup> Bei den Fahrten nach Absatz 1 Buchstaben f–j kann ein Viertel des Ladevolumens des Fahrzeugs mit anderen Gütern aufgefüllt werden. Dem Transport darf eine Leerfahrt von höchstens 30 Minuten vorangehen oder nachfolgen. Für längere Leerfahrten ist eine Bewilligung nach Artikel 92 Absatz 1 erforderlich.
 
 <sup>4</sup> Bei Fahrten während des Sonntags- oder Nachtfahrverbots ist jede vermeidbare Ruhestörung zu unterlassen.
 
 [^91a-1]: Eingefügt durch Ziff. I der V vom 1. Okt. 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 4569](https://fedlex.data.admin.ch/eli/oc/2010/654)).
-[^91a-2]: Fassung gemäss Anhang 2 Ziff. II 4 der Postverordnung vom 29. Aug. 2012, in Kraft seit 1. Okt. 2012 ([AS 2012 5009](https://fedlex.data.admin.ch/eli/oc/2012/586)).
-[^91a-3]: [SR 783.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9152)
-[^91a-4]: [SR 783.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9151)
-[^91a-5]: Fassung gemäss Ziff. I der V vom 21. Nov. 2018, in Kraft seit 1. Febr. 2019 ([AS 2019 243](https://fedlex.data.admin.ch/eli/oc/2019/42)).
-[^91a-6]: [SR 817.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9645)
-[^91a-7]: Eingefügt durch Ziff. I der V vom 21. Nov. 2018, in Kraft seit 1. Febr. 2019 ([AS 2019 243](https://fedlex.data.admin.ch/eli/oc/2019/42)).
-[^91a-8]: Eingefügt durch Ziff. I der V vom 20. Mai 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 2139](https://fedlex.data.admin.ch/eli/oc/2020/423)).
-[^91a-9]: Eingefügt durch Ziff. I der V vom 17. Dez. 2021, in Kraft seit 1. April 2022 ([AS 2022 13](https://fedlex.data.admin.ch/eli/oc/2022/13)).
-[^91a-10]: [SR 741.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8648)
-[^91a-11]: Eingefügt durch Ziff. I der V vom 17. Dez. 2021, in Kraft seit 1. April 2022 ([AS 2022 13](https://fedlex.data.admin.ch/eli/oc/2022/13)).
+[^91a-2]: Fassung gemäss Ziff. I der V vom 6. Mai 2026, in Kraft seit 1. Juli 2026 ([AS 2026 226](https://fedlex.data.admin.ch/eli/oc/2026/226)).
+[^91a-3]: Fassung gemäss Anhang 2 Ziff. II 4 der Postverordnung vom 29. Aug. 2012, in Kraft seit 1. Okt. 2012 ([AS 2012 5009](https://fedlex.data.admin.ch/eli/oc/2012/586)).
+[^91a-4]: [SR 783.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9152)
+[^91a-5]: [SR 783.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9151)
+[^91a-6]: Fassung gemäss Ziff. I der V vom 21. Nov. 2018, in Kraft seit 1. Febr. 2019 ([AS 2019 243](https://fedlex.data.admin.ch/eli/oc/2019/42)).
+[^91a-7]: [SR 817.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9645)
+[^91a-8]: Fassung gemäss Ziff. I der V vom 6. Mai 2026, in Kraft seit 1. Juli 2026 ([AS 2026 226](https://fedlex.data.admin.ch/eli/oc/2026/226)).
+[^91a-9]: Fassung gemäss Ziff. I der V vom 6. Mai 2026, in Kraft seit 1. Juli 2026 ([AS 2026 226](https://fedlex.data.admin.ch/eli/oc/2026/226)).
+[^91a-10]: Eingefügt durch Ziff. I der V vom 21. Nov. 2018, in Kraft seit 1. Febr. 2019 ([AS 2019 243](https://fedlex.data.admin.ch/eli/oc/2019/42)).
+[^91a-11]: Eingefügt durch Ziff. I der V vom 6. Mai 2026, in Kraft seit 1. Juli 2026 ([AS 2026 226](https://fedlex.data.admin.ch/eli/oc/2026/226)).
 [^91a-12]: Eingefügt durch Ziff. I der V vom 20. Mai 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 2139](https://fedlex.data.admin.ch/eli/oc/2020/423)).
+[^91a-13]: Eingefügt durch Ziff. I der V vom 17. Dez. 2021, in Kraft seit 1. April 2022 ([AS 2022 13](https://fedlex.data.admin.ch/eli/oc/2022/13)).
+[^91a-14]: [SR 741.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8648)
+[^91a-15]: Eingefügt durch Ziff. I der V vom 17. Dez. 2021, in Kraft seit 1. April 2022 ([AS 2022 13](https://fedlex.data.admin.ch/eli/oc/2022/13)).
+[^91a-16]: Eingefügt durch Ziff. I der V vom 6. Mai 2026, in Kraft seit 1. Juli 2026 ([AS 2026 226](https://fedlex.data.admin.ch/eli/oc/2026/226)).
+[^91a-17]: Eingefügt durch Ziff. I der V vom 20. Mai 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 2139](https://fedlex.data.admin.ch/eli/oc/2020/423)).
 
 #### Art. 92
 
 **Transporte mit Bewilligungen**[^92-1]
 
-<sup>1</sup> Sonntags- und Nachtfahrbewilligungen werden erteilt, wenn eine Fahrt am Sonntag oder zur Nachtzeit dringend ist und weder durch organisatorische Massnahmen noch durch die Wahl eines anderen Verkehrsmittels vermieden werden kann. Sie werden erteilt für den Transport auf kürzester Strecke und nötigenfalls für eine unumgängliche Leerfahrt.
+<sup>1</sup> Sonntags- und Nachtfahrbewilligungen werden erteilt, wenn eine Fahrt am Sonntag oder zur Nachtzeit dringend ist und weder durch organisatorische Massnahmen noch durch die Wahl eines anderen Verkehrsmittels vermieden werden kann. Sie werden erteilt für den Transport auf kürzester Strecke.[^92-2]
+
+<sup>1bis</sup> Der Fahrt darf eine Leerfahrt von höchstens 30 Minuten vorangehen oder nachfolgen. Längere Leerfahrten bedürfen einer Bewilligung. Diese wird erteilt, wenn die Bedingungen nach Absatz 1 erfüllt sind.[^92-3]
 
 <sup>2</sup>
 
 Bewilligungen werden für folgende Fahrten erteilt:
 
-- a.[^92-2] Transport von Postsendungen durch Subunternehmerinnen nach Artikel 1 Buchstabe b VPG[^92-3] im Rahmen der Verpflichtung der Schweizerischen Post AG zur Grundversorgung mit Postdiensten;
-- a<sup>bis</sup>.[^92-4] Transport von Postsendungen durch Anbieterinnen nach Artikel 3 Absatz 1 und 8 Absatz 1 VPG oder durch deren Subunternehmerinnen nach Artikel 1 Buchstabe b VPG, sofern der Transport einem Angebot der Grundversorgung mit Postdiensten entspricht (Art. 13 des Postgesetzes vom 17. Dez. 2010[^92-5]);
+- a.[^92-4] Transport von Postsendungen durch Subunternehmerinnen nach Artikel 1 Buchstabe b VPG[^92-5] im Rahmen der Verpflichtung der Schweizerischen Post AG zur Grundversorgung mit Postdiensten;
+- a<sup>bis</sup>.[^92-6] Transport von Postsendungen durch Anbieterinnen nach Artikel 3 Absatz 1 und 8 Absatz 1 VPG oder durch deren Subunternehmerinnen nach Artikel 1 Buchstabe b VPG, sofern der Transport einem Angebot der Grundversorgung mit Postdiensten entspricht (Art. 13 des Postgesetzes vom 17. Dez. 2010[^92-7]);
 - b. Transport von Zirkus‑, Schausteller‑, Marktfahrer‑, Orchester‑, Theatermaterial und dergleichen;
-- c. Fahrten beim Bau und Unterhalt von Strassen und Gleisanlagen sowie von Werkleitungen wie Strom‑, Wasser‑, Telekomleitungen;
+- c.[^92-8] …
 - d. Verschiebung von verkehrsstörenden Ausnahmefahrzeugen und für verkehrsstörende Ausnahmetransporte;
 - e. Fahrten bei Veranstaltungen, namentlich zum Transport von Lebensmitteln und Getränken.
 
 <sup>3</sup> Bewilligungen für andere Fahrten als nach Absatz 2 darf der Kanton nur mit Zustimmung des ASTRA erteilen. In einem dringenden Fall kann der Kanton eine unerlässliche Fahrt von sich aus gestatten unter Mitteilung an das ASTRA.
 
-<sup>4</sup> Der Standortkanton oder der Kanton, in dem die bewilligungspflichtige Fahrt beginnt, erteilt die Bewilligung mit Gültigkeit für die ganze Schweiz. Die Zuständigkeit des Standortkantons entfällt, wenn sein Gebiet nicht berührt wird. Für Fahrzeuge des Bundes und für Fahrten nach Absatz 2 Buchstabe a<sup>bis</sup> ist das ASTRA zuständig.[^92-6]
+<sup>4</sup> Der Standortkanton oder der Kanton, in dem die bewilligungspflichtige Fahrt beginnt, erteilt die Bewilligung mit Gültigkeit für die ganze Schweiz. Die Zuständigkeit des Standortkantons entfällt, wenn sein Gebiet nicht berührt wird. Für Fahrzeuge des Bundes und für Fahrten nach Absatz 2 Buchstabe a<sup>bis</sup> ist das ASTRA zuständig.[^92-9]
 
 <sup>5</sup> Bei jedem Transport kann ein Viertel des Ladevolumens des Fahrzeugs mit andern Gütern aufgefüllt werden.
 
 [^92-1]: Fassung gemäss Ziff. I der V vom 1. Okt. 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 4569](https://fedlex.data.admin.ch/eli/oc/2010/654)).
-[^92-2]: Fassung gemäss Anhang 2 Ziff. II 4 der Postverordnung vom 29. Aug. 2012, in Kraft seit 1. Okt. 2012 ([AS 2012 5009](https://fedlex.data.admin.ch/eli/oc/2012/586)).
-[^92-3]: [SR 783.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9152)
-[^92-4]: Eingefügt durch Anhang 2 Ziff. II 4 der Postverordnung vom 29. Aug. 2012, in Kraft seit 1. Okt. 2012 ([AS 2012 5009](https://fedlex.data.admin.ch/eli/oc/2012/586)).
-[^92-5]: [SR 783.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9151)
-[^92-6]: Fassung gemäss Anhang 2 Ziff. II 4 der Postverordnung vom 29. Aug. 2012, in Kraft seit 1. Okt. 2012 ([AS 2012 5009](https://fedlex.data.admin.ch/eli/oc/2012/586)).
+[^92-2]: Fassung gemäss Ziff. I der V vom 6. Mai 2026, in Kraft seit 1. Juli 2026 ([AS 2026 226](https://fedlex.data.admin.ch/eli/oc/2026/226)).
+[^92-3]: Eingefügt durch Ziff. I der V vom 6. Mai 2026, in Kraft seit 1. Juli 2026 ([AS 2026 226](https://fedlex.data.admin.ch/eli/oc/2026/226)).
+[^92-4]: Fassung gemäss Anhang 2 Ziff. II 4 der Postverordnung vom 29. Aug. 2012, in Kraft seit 1. Okt. 2012 ([AS 2012 5009](https://fedlex.data.admin.ch/eli/oc/2012/586)).
+[^92-5]: [SR 783.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9152)
+[^92-6]: Eingefügt durch Anhang 2 Ziff. II 4 der Postverordnung vom 29. Aug. 2012, in Kraft seit 1. Okt. 2012 ([AS 2012 5009](https://fedlex.data.admin.ch/eli/oc/2012/586)).
+[^92-7]: [SR 783.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9151)
+[^92-8]: Aufgehoben durch Ziff. I der V vom 6. Mai 2026, mit Wirkung seit 1. Juli 2026 ([AS 2026 226](https://fedlex.data.admin.ch/eli/oc/2026/226)).
+[^92-9]: Fassung gemäss Anhang 2 Ziff. II 4 der Postverordnung vom 29. Aug. 2012, in Kraft seit 1. Okt. 2012 ([AS 2012 5009](https://fedlex.data.admin.ch/eli/oc/2012/586)).
 
 #### Art. 93
 
@@ -2420,23 +2440,9 @@ In der Bewilligung sind anzugeben:
 
 #### Art. 94
 
-**Verbotene Veranstaltungen; Ausnahmen**
+[^94-1]
 
-<sup>1</sup> Unter das Verbot der öffentlichen Rundstreckenrennen mit Motorfahrzeugen fallen alle Rennen, bei denen die gleiche Strecke ununterbrochen mehrmals zu befahren ist, wenn Zuschauer zugelassen sind.
-
-<sup>2</sup> Untersagt sind ferner Veranstaltungen, bei denen die Teilnehmer einander gemäss Reglement durch gegenseitige Beschädigung zum Ausscheiden zwingen dürfen (sogenannte Stock-Car-Veranstaltungen u. dgl.) sowie Ballonverfolgungsfahrten auf Zeit.
-
-<sup>3</sup>
-
-Gestattet sind jedoch mit Bewilligung der kantonalen Behörde:
-
-- a. Rasenrennen mit Motorrädern;
-- b. Geschicklichkeitswettfahrten im Gelände;
-- c. Rennen mit besonderen Fahrzeugen von höchstens 250 cm<sup>3</sup> Zylinderinhalt wie sogenannte Karts;
-- d. Autoslaloms;
-- e. … [^94-1]
-
-[^94-1]: Fassung gemäss Ziff. I der V vom 18. Dez. 2015, in Kraft seit 1. April 2016 ([AS 2016 403](https://fedlex.data.admin.ch/eli/oc/2016/61)). Bst. e gilt nur bis zum 31. März 2026 ([AS 2020 2139](https://fedlex.data.admin.ch/eli/oc/2020/423)).
+[^94-1]: Aufgehoben durch Ziff. I der V vom 6. Mai 2026, mit Wirkung seit 1. Juli 2026 ([AS 2026 226](https://fedlex.data.admin.ch/eli/oc/2026/226)).
 
 #### Art. 95
 
@@ -2450,11 +2456,11 @@ Gestattet sind jedoch mit Bewilligung der kantonalen Behörde:
 
 <sup>4</sup> Sind Durchschnittsgeschwindigkeiten vorgesehen, so hat der Veranstalter geheime Kontrollen vorzunehmen und Überschreitungen bei der Bewertung angemessen zu berücksichtigen.
 
-<sup>5</sup> … [^95-1]
+<sup>5</sup> Das ASTRA kann Weisungen zum Vollzug erlassen.[^95-1]
 
 \* Für den Versicherungsnachweis vgl. die Art. 30 und 31 der Verkehrsversicherungsverordnung vom 20. Nov. 1959 (SR **741.31**).
 
-[^95-1]: Eingefügt durch Ziff. I der V vom 18. Dez. 2015, in Kraft vom 1. April 2016 bis zum 31. März 2026 ([AS 2016 403](https://fedlex.data.admin.ch/eli/oc/2016/61), [2020 2139](https://fedlex.data.admin.ch/eli/oc/2020/423)).
+[^95-1]: Eingefügt durch Ziff. I der V vom 18. Dez. 2015 ([AS 2016 403](https://fedlex.data.admin.ch/eli/oc/2016/61)). Fassung gemäss Ziff. I der V vom 6. Mai 2026, in Kraft seit 1. Juli 2026 ([AS 2026 226](https://fedlex.data.admin.ch/eli/oc/2026/226)).
 
 ### 3. Abschnitt: Strafbestimmung
 
@@ -2593,6 +2599,6 @@ Anhang I[^t-2]
 
 [^t-2]: Aufgehoben durch Ziff. I der V vom 7. März 1994, mit Wirkung seit 1. April 1994 ([AS 1994 816](https://fedlex.data.admin.ch/eli/oc/1994/816_816_816)).
 
-Anhang II[^t-3]
++Anhang II[^t-3]
 
 [^t-3]: Aufgehoben durch Art. 72 Ziff. 2 der Tierschutzverordnung vom 27. Mai 1981, mit Wirkung seit 1. Juli 1981 ([AS 1981 572](https://fedlex.data.admin.ch/eli/oc/1981/572_572_572)).
