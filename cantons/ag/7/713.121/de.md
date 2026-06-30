@@ -4,13 +4,12 @@ number: "713.121"
 title: Bauverordnung
 short: BauV
 language: de
-version: 2026-01-01
-valid_until: 2026-06-30
-version_adopted: 2025-11-19
+version: 2026-07-01
+version_adopted: 2026-06-10
 adopted: 2011-05-25
 in_force: 2011-09-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/713.121"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3903/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3985/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3903/pdf_file"
 
 (BauV)
 
-Vom 25.05.2011 (Stand 01.01.2026)
+Vom 25.05.2011 (Stand 01.07.2026)
 
 Der Regierungsrat des Kantons Aargau,
 
@@ -909,6 +908,65 @@ AZ = ∑aGF / aGSF
 - d) die Beendigung der Bauten und Anlagen vor ihrer Benutzung. Die Bauherrschaft und die für das Projekt verantwortliche Person bestätigen schriftlich, dass gemäss bewilligtem Energienachweis gebaut wurde. Bei Minergiezertifizierung ist das definitive Zertifikat in der Regel ebenfalls zu diesem Zeitpunkt vorzulegen.
 
 <sup>2</sup> Der Gemeinderat prüft die Bauten und Anlagen auf Übereinstimmung mit der Baubewilligung. Über vorgenommene Kontrollen ist ein Protokoll zu erstellen. Den Behörden und ihren Kontrollorganen ist jederzeit Zutritt zur Baustelle gestattet.
+
+## 11<sup>bis</sup>. Abbruchprämie
+
+#### § 58a
+
+**Tragung der Rückbaukosten und Finanzierung**
+
+<sup>1</sup> Die Eigentümerinnen und Eigentümer oder sonstige Berechtigte haben die Kosten für den Rückbau folgender Bauten und Anlagen sowie der anschliessenden Rekultivierung selber zu tragen:
+
+- a) Infrastrukturanlagen im öffentlichen Interesse,
+- b) nicht bewilligte Bauten und Anlagen mit Wiederherstellungsanordnung gemäss § 159 BauG,
+- c) befristet bewilligte Bauten und Anlagen,
+- d) mit auflösender Bedingung bewilligte Bauten und Anlagen, wenn es sich nicht um zonenkonforme landwirtschaftliche Bauten oder Anlagen handelt,
+- e) Bauten und Anlagen, die gemäss einem Fachinventar des Kantons oder des Bundes erhaltenswürdig sind,
+- f) Bauten und Anlagen zur Ausbeutung von Nutzungsrechten,
+- g) nicht fertiggestellte Bauten und Anlagen bei bedingten Ein- und Umzonungen,
+- h) unterirdische Bauten und Anlagen, die vollständig überdeckt sind.
+
+<sup>2</sup> Die zuständige Behörde kann in besonders begründeten Einzelfällen eine Abbruchprämie gemäss Art. 5a RPG ausrichten, wenn die öffentlichen Interessen an der Auszahlung überwiegen.
+
+<sup>3</sup> Anspruch auf eine Abbruchprämie besteht nur, wenn vor der rechtskräftigen Festlegung ihrer Höhe noch nicht mit dem Rückbau begonnen worden ist.
+
+<sup>4</sup> Finanzhilfen und Beiträge für den Rückbau aus anderen Quellen werden angerechnet.
+
+<sup>5</sup> Die Spezialfinanzierung Mehrwertabgabe darf aufgrund der Abbruchprämien mit höchstens Fr. 1,5 Mio. pro Kalenderjahr belastet werden. Zudem muss die Spezialfinanzierung Mehrwertabgabe über mindestens Fr. 3 Mio. verfügen, ansonsten dieser keine Gelder für Abbruchprämien entnommen werden dürfen.
+
+<sup>6</sup> § 58a gilt gestützt auf § 91 Abs. 2<sup>bis</sup> lit. b der Kantonsverfassung für die Dauer von längstens zwei Jahren ab Inkrafttreten.
+
+#### § 58b
+
+**Gesuch**
+
+<sup>1</sup> Das Gesuch um Ausrichtung einer Abbruchprämie ist zusammen mit dem Gesuch für den Rückbau beim Gemeinderat einzureichen.
+
+<sup>2</sup> Dem Gesuch um Ausrichtung einer Abbruchprämie sind insbesondere beizulegen:
+
+- a) Situationsplan mit der zu entsiegelnden Fläche und ihrer derzeitigen Materialisierung,
+- b) Unterlagen mit Angabe der Grundflächen, Kubaturen und Bauweisen der Bauten und Anlagen, die zurückgebaut werden sollen,
+- c) aktuelle Fotodokumentation dieser Bauten und Anlagen,
+- d) Angaben zu Finanzhilfen und Beiträgen aus anderen Quellen, die der Abbruchprämie angerechnet werden.
+
+<sup>3</sup> Die Abteilung für Baubewilligungen entscheidet über das Gesuch um Ausrichtung einer Abbruchprämie. Der Gemeinderat eröffnet den Entscheid über die Abbruchprämie gleichzeitig mit dem Bauentscheid.
+
+<sup>4</sup> Die Höhe der Abbruchprämie berechnet sich aufgrund von Pauschalansätzen gemäss dem «Berechnungsblatt Abbruchprämie» der Abteilung für Baubewilligungen vom 18. Mai 2026.[^58b-1]
+
+<sup>5</sup> Die Pauschalansätze werden periodisch überprüft und gegebenenfalls angepasst. Hierfür können Unterlagen einverlangt werden, aus denen die effektiven Kosten des Rückbaus ersichtlich sind.
+
+[^58b-1]: Das Berechnungsblatt ist abgelegt unter [www.ag.ch/afb](https://www.ag.ch/afb) &gt; Mehr zum Thema &gt; Baubewilligungen &gt; [Formulare, Merkblätter und Musterbriefe](https://www.ag.ch/de/themen/planen-bauen/baubewilligungen/formulare-merkblaetter-und-musterbriefe)
+
+#### § 58c
+
+**Auszahlung**
+
+<sup>1</sup> Die Abteilung für Baubewilligungen veranlasst die Auszahlung, wenn
+
+- a) die Gemeinde die korrekte Ausführung des Rückbaus gemäss Bauentscheid bestätigt hat,
+- b) die Abfälle des Rückbaus korrekt entsorgt sind; die Gemeinde verlangt dafür von der Bauherrschaft einen Entsorgungsnachweis,
+- c) gemäss § 58b Abs. 5 einverlangte Unterlagen eingereicht sind,
+- d) allfällige für das betreffende Grundstück geltende Rückbauverfügungen vollzogen sind.
 
 ## 12. Zuständiges Departement und Rechtsschutz
 
