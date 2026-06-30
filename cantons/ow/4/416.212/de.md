@@ -3,24 +3,23 @@ canton: OW
 number: "416.212"
 title: Ausführungsbestimmungen über die Berufsmaturitätsschule
 language: de
-version: 2024-01-01
-valid_until: 2026-06-30
-version_adopted: 2023-12-05
+version: 2026-07-01
+version_adopted: 2026-04-21
 adopted: 2021-07-01
 in_force: 2021-08-01
 url: "http://gdb.ow.ch/app/de/texts_of_law/416.212"
-pdf: "http://gdb.ow.ch/api/de/versions/1840/pdf_file"
+pdf: "http://gdb.ow.ch/api/de/versions/2021/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons OW. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Ausführungsbestimmungen über die Berufsmaturitätsschule
 
-vom 01.07.2021 (Stand 01.01.2024)
+vom 01.07.2021 (Stand 01.07.2026)
 
 Der Regierungsrat des Kantons Obwalden,
 
-in Ausführung von Artikel 25 des Bundesgesetzes über die Berufsbildung vom 13. Dezember 2002[^ingress-1] und der Verordnung über die eidgenössische Berufsmaturität (Berufsmaturitätsverordnung, BMV) vom 24. Juni 2009[^ingress-2],
+in Ausführung von Artikel 25 des Bundesgesetzes über die Berufsbildung vom 13. Dezember 2002[^ingress-1] und der Verordnung über die eidgenössische Berufsmaturität (Berufsmaturitätsverordnung, BMV) vom 13. Juni 2025[^ingress-2],
 
 gestützt auf Artikel 104 des Bildungsgesetzes vom 16. März 2006[^ingress-3],
 
@@ -85,7 +84,7 @@ beschliesst:
 
 #### Art. 6
 
-**Amt für Berufsbildung (Art. 8 Abs. 2, Art. 15 Abs. 2, Art. 26. Abs. 7 BMV)**
+**Amt für Berufsbildung (Art. 8 Abs. 2, Art. 15 Abs. 2, Art. 25 Abs. 6 BMV)**
 
 <sup>1</sup> Das Amt für Berufsbildung:
 
@@ -98,7 +97,7 @@ beschliesst:
 
 #### Art. 7
 
-**Fachlehrpersonen (Art. 31 BMV)**
+**Fachlehrpersonen (Art. 29 BMV)**
 
 <sup>1</sup> Die Fachlehrpersonen verfügen über die in der eidgenössischen Berufsmaturitätsverordnung[^7-1] festgelegten beruflichen Qualifikationen. Sie sind anstellungsmässig den Lehrpersonen an der Kantonsschule gleichgestellt.
 
@@ -112,7 +111,7 @@ beschliesst:
 
 #### Art. 8
 
-**Expertinnen und Experten (Art. 21 BMV)**
+**Expertinnen und Experten (Art. 20 BMV)**
 
 <sup>1</sup> Die Expertinnen und Experten sind vom Amt für Berufsbildung ernannte externe Fachleute.
 
@@ -185,7 +184,7 @@ beschliesst:
 
 #### Art. 15
 
-**Promotion und Semesterzeugnis (Art. 16 und 17 BMV)**
+**Promotion und Semesterzeugnis (Art. 16 BMV)**
 
 <sup>1</sup> Promotion und Semesterzeugnis richten sich nach der eidgenössischen Berufsmaturitätsverordnung.[^15-1]
 
@@ -214,7 +213,7 @@ beschliesst:
 
 #### Art. 18
 
-**Prüfungsorganisation (Art. 20 BMV)**
+**Prüfungsorganisation (Art. 19 und 20 BMV)**
 
 <sup>1</sup> Die Prüfungsorganisation obliegt dem Rektorat.
 
@@ -222,13 +221,13 @@ beschliesst:
 
 #### Art. 19
 
-**Wiederholung der Berufsmaturitätsprüfung (Art. 26, Art. 27 BMV)**
+**Wiederholung der Berufsmaturitätsprüfung (Art. 25 BMV)**
 
 <sup>1</sup> Die Wiederholung findet in der Regel frühestens nach einem Jahr statt. Über Ausnahmen entscheidet das Amt für Berufsbildung.
 
 #### Art. 20
 
-**Berufsmaturitätszeugnis (Art. 28 BMV)**
+**Berufsmaturitätszeugnis (Art. 27 BMV)**
 
 <sup>1</sup> Wer die vorgeschriebene Ausbildung der Berufsmaturitätsschule am Berufs- und Weiterbildungszentrum besucht und die Berufsmaturitätsprüfung erfolgreich bestanden hat, erhält das eidgenössische Berufsmaturitätszeugnis.
 
@@ -256,6 +255,8 @@ Ursprüngliches Inkrafttreten: 1. August 2021
 
 Geändert durch:
 
-\- Nachtrag vom 5. Dezember 2023, in Kraft seit 1. Januar 2024 (OGS 2023, 39)
+\- Nachtrag vom 5. Dezember 2023, in Kraft seit 1. Januar 2024 (OGS 2023, 39),
+
+\- Nachtrag vom 21. April 2026, in Knraft seit 1. Juli 2026 (OGS 2026, 010)
 
 OGS 2021, 25
