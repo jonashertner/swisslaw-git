@@ -4,11 +4,11 @@ title: "Ordonnance du 21 décembre 2006 sur les installations à câbles transpo
 short: OICa
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/14"
 language: fr
-version: 2025-06-01
+version: 2026-07-01
 adopted: 2006-12-21
 in_force: 2007-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/14/20250601/fr/xml/fedlex-data-admin-ch-eli-cc-2007-14-20250601-fr-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/14/20250601/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/14/20260701/fr/xml/fedlex-data-admin-ch-eli-cc-2007-14-20260701-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/14/20260701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/14/20250601/fr"
 
 (Ordonnance sur les installations à câbles, OICa)
 
-du 21 décembre 2006 (État le 1<sup>er</sup> juin 2025)
+du 21 décembre 2006 (État le 1<sup>er</sup> juillet 2026)
 
 Le Conseil fédéral suisse,
 
@@ -25,9 +25,9 @@ vu les art. 3, al. 4, 4, al. 1, 8, al. 5, 9, al. 5, 11, al. 3, 26 et 27 de la lo
 
 arrête:
 
-[^ingress-1]: [RS 743.01](https://fedlex.data.admin.ch/eli/cc/2006/853)
-[^ingress-2]: [RS 745.1](https://fedlex.data.admin.ch/eli/cc/2009/680)
-[^ingress-3]: [RS 946.51](https://fedlex.data.admin.ch/eli/cc/1996/1725_1725_1725)
+[^ingress-1]: [RS 743.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8834)
+[^ingress-2]: [RS 745.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8886)
+[^ingress-3]: [RS 946.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11467)
 [^ingress-4]: Nouvelle teneur selon le ch. I de l’O du 2 sept. 2015, en vigueur depuis le 1<sup>er</sup> oct. 2015 ([RO 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)).
 
 ## Chapitre 1 Dispositions générales
@@ -179,7 +179,7 @@ L’autorisation ne peut pas être octroyée:
 <sup>3</sup> En règle générale, l’autorisation est octroyée en même temps que l’autorisation de construire. Elle est octroyée au plus tard avec l’autorisation d’exploiter.
 
 [^4a-1]: Introduit par le ch. I de l’O du 2 sept. 2015, en vigueur depuis le 1<sup>er</sup> oct. 2015 ([RO 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)).
-[^4a-2]: [RS 745.11](https://fedlex.data.admin.ch/eli/cc/2009/739)
+[^4a-2]: [RS 745.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8887)
 
 ### Section 3 Exigences essentielles, prescriptions complémentaires, dérogations aux normes techniques
 
@@ -261,7 +261,7 @@ Quiconque veut mettre en service une installation à câbles ou mettre à dispos
 
 <sup>2</sup> Les prestations d’exploitation et de trafic peuvent être publiées, de même que l’effectif du personnel des entreprises de transport à câbles.
 
-[^10-1]: [RS 431.011](https://fedlex.data.admin.ch/eli/cc/1993/2093_2093_2093)
+[^10-1]: [RS 431.011](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6947)
 [^10-2]: Nouvelle teneur selon l’annexe 3 ch. 12 de l’O du 30 avr. 2025 sur la statistique fédérale, en vigueur depuis le 1<sup>er</sup> juin 2025 ([RO 2025 318](https://fedlex.data.admin.ch/eli/oc/2025/318)).
 
 ## Chapitre 2 Construction et modification d’installations à câbles soumises à concession fédérale
@@ -292,16 +292,20 @@ En même temps que la demande d’approbation des plans, il y a lieu de soumettr
 
 <sup>3</sup> L’OFT peut renoncer à certains documents si ceux-ci ne sont pas indispensables en raison du type de l’installation ou des circonstances du cas particulier.
 
+<sup>3bis</sup> Pour les projets situés hors de la zone à bâtir, la demande doit notamment comprendre des plans qui indiquent la délimitation des bâtiments nouveaux ou supprimés conformément à l’art. 25*a*, al. 1, de l’ordonnance du 28 juin 2000 sur l’aménagement du territoire (OAT)[^11-6], ainsi que des surfaces imperméabilisées nouvelles ou supprimées conformément à l’art. 25*a*, al. 2, OAT.[^11-7]
+
 <sup>4</sup> Lorsqu’il s’agit de procédures simplifiées, l’OFT fixe au cas par cas les documents à présenter.
 
-<sup>5</sup> Si les documents sont incomplets ou lacunaires, l’OFT accorde au requérant la possibilité de les compléter.[^11-6]
+<sup>5</sup> Si les documents sont incomplets ou lacunaires, l’OFT accorde au requérant la possibilité de les compléter.[^11-8]
 
 [^11-1]: Nouvelle teneur selon le ch. I de l’O du 11 oct. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 5831](https://fedlex.data.admin.ch/eli/oc/2017/632)).
 [^11-2]: Nouvelle teneur selon le ch. I de l’O du 2 sept. 2015, en vigueur depuis le 1<sup>er</sup> oct. 2015 ([RO 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)).
 [^11-3]: Nouvelle teneur selon le ch. I de l’O du 2 sept. 2015, en vigueur depuis le 1<sup>er</sup> oct. 2015 ([RO 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)).
-[^11-4]: [RS 814.011](https://fedlex.data.admin.ch/eli/cc/1988/1931_1931_1931)
-[^11-5]: [RS 814.01](https://fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122)
-[^11-6]: Nouvelle teneur selon le ch. I de l’O du 2 sept. 2015, en vigueur depuis le 1<sup>er</sup> oct. 2015 ([RO 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)).
+[^11-4]: [RS 814.011](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9438)
+[^11-5]: [RS 814.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9437)
+[^11-6]: [RS 700.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8353)
+[^11-7]: Introduit par l’annexe ch. 10 de l’O du 15 oct. 2025, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2025 659](https://fedlex.data.admin.ch/eli/oc/2025/659)).
+[^11-8]: Nouvelle teneur selon le ch. I de l’O du 2 sept. 2015, en vigueur depuis le 1<sup>er</sup> oct. 2015 ([RO 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)).
 
 #### Art. 12
 
@@ -333,7 +337,7 @@ Les prescriptions suivantes s’appliquent au piquetage:
 <sup>2</sup> En dehors des zones d’habitation, l’OFT peut exiger que la hauteur des pylônes soit signalée.
 
 [^13-1]: Nouvelle teneur selon le ch. I de l’O du 2 sept. 2015, en vigueur depuis le 1<sup>er</sup> oct. 2015 ([RO 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)).
-[^13-2]: [RS 451](https://fedlex.data.admin.ch/eli/cc/1966/1637_1694_1679)
+[^13-2]: [RS 451](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7166)
 
 #### Art. 14
 
@@ -894,7 +898,7 @@ Les chefs techniques des installations à câbles au bénéfice d’une concessi
 <sup>2</sup> Le Secrétariat d’État à la formation, à la recherche et à l’innovation peut reconnaître l’équivalence de certificats de formation acquis à l’étranger[^46a-2].
 
 [^46a-1]: Introduit par le ch. I de l’O du 2 sept. 2015 ([RO 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)). Nouvelle teneur selon le ch. I de l’O du 11 oct. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 5831](https://fedlex.data.admin.ch/eli/oc/2017/632)).
-[^46a-2]: Les prestataires de services qui peuvent se réclamer de l’Accord du 21 juin 1999 entre la Confédération suisse, d’une part, et la Communauté européenne et ses Etats membres, d’autre part, sur la libre circulation des personnes ([RS 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)) ou de la Convention du 4 janvier 1960 instituant l’Association Européenne de Libre-Echange (AELE; [RS 0.632.31](https://fedlex.data.admin.ch/eli/cc/1960/590_635_621)) doivent se déclarer auprès de l’autorité compétente conformément à la procédure prévue par la loi fédérale du 14 décembre 2012 portant sur l’obligation des prestataires de services de déclarer leurs qualifications professionnelles dans le cadre des professions réglementées et sur la vérification de ces qualifications ([RS 935.01](https://fedlex.data.admin.ch/eli/cc/2013/509)).
+[^46a-2]: Les prestataires de services qui peuvent se réclamer de l’Accord du 21 juin 1999 entre la Confédération suisse, d’une part, et la Communauté européenne et ses Etats membres, d’autre part, sur la libre circulation des personnes ([RS 0.142.112.681](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/211)) ou de la Convention du 4 janvier 1960 instituant l’Association Européenne de Libre-Echange (AELE; [RS 0.632.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2314)) doivent se déclarer auprès de l’autorité compétente conformément à la procédure prévue par la loi fédérale du 14 décembre 2012 portant sur l’obligation des prestataires de services de déclarer leurs qualifications professionnelles dans le cadre des professions réglementées et sur la vérification de ces qualifications ([RS 935.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11082)).
 
 #### Art. 46b
 
@@ -992,7 +996,7 @@ L’incapacité d’assurer le service due à des stupéfiants est considérée 
 
 <sup>6</sup> L’entreprise de transport à câbles peut édicter des règles plus strictes quant à la consommation d’alcool, qui relèvent du droit du travail.
 
-[^47d-1]: [RS 742.101](https://fedlex.data.admin.ch/eli/cc/1958/335_341_347)
+[^47d-1]: [RS 742.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8719)
 [^47d-2]: Nouvelle teneur selon le ch. I de l’O du 11 oct. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 5831](https://fedlex.data.admin.ch/eli/oc/2017/632)).
 
 #### Art. 47e
@@ -1012,8 +1016,8 @@ Les collaborateurs de ces services doivent remplir les conditions suivantes:
 
 <sup>3</sup> Les collaborateurs de ces services doivent pouvoir attester des compétences qui leur sont attribuées.
 
-[^47e-1]: [RS 742.101](https://fedlex.data.admin.ch/eli/cc/1958/335_341_347)
-[^47e-2]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^47e-1]: [RS 742.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8719)
+[^47e-2]: [RS 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 #### Art. 47f
 
@@ -1021,7 +1025,7 @@ Les collaborateurs de ces services doivent remplir les conditions suivantes:
 
 Pour le contrôle de la capacité d’assurer le service, sont applicables par analogie, en sus des art. 47*b* à 47*e*, les art. 17 à 25 de l’ordonnance du 4 novembre 2009 sur les activités déterminantes pour la sécurité dans le domaine ferroviaire[^47f-1].
 
-[^47f-1]: [RS 742.141.2](https://fedlex.data.admin.ch/eli/cc/2009/734)
+[^47f-1]: [RS 742.141.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8752)
 
 ### Section 4 Exploitation et maintenance
 
@@ -1055,8 +1059,8 @@ Le transport des marchandises dangereuses est régi par les dispositions:
 - b. de l’ordonnance du 31 octobre 2012 sur le transport de marchandises dangereuses par chemin de fer et par installation à câbles[^49-3].
 
 [^49-1]: Nouvelle teneur selon l’annexe 3 ch. II 2 de l’O du 31 oct. 2012 sur le transport de marchandises dangereuses par chemin de fer et par installation à câbles, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6541](https://fedlex.data.admin.ch/eli/oc/2012/785)).
-[^49-2]: [RS 930.111.4](https://fedlex.data.admin.ch/eli/cc/2012/797)
-[^49-3]: [RS 742.412](https://fedlex.data.admin.ch/eli/cc/2012/785)
+[^49-2]: [RS 930.111.4](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11022)
+[^49-3]: [RS 742.412](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8825)
 
 #### Art. 50
 
@@ -1176,18 +1180,26 @@ L’entreprise de transport à câbles annonce immédiatement à l’autorité d
 [^56-1]: Nouvelle teneur selon le ch. I de l’O du 11 oct. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 5831](https://fedlex.data.admin.ch/eli/oc/2017/632)).
 [^56-2]: Nouvelle teneur selon le ch. I de l’O du 11 oct. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 5831](https://fedlex.data.admin.ch/eli/oc/2017/632)).
 [^56-3]: Nouvelle teneur selon le ch. I de l’O du 11 oct. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 5831](https://fedlex.data.admin.ch/eli/oc/2017/632)).
-[^56-4]: [RS 742.161](https://fedlex.data.admin.ch/eli/cc/2015/26)
+[^56-4]: [RS 742.161](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8778)
 [^56-5]: Introduit par le ch. I de l’O du 2 sept. 2015, en vigueur depuis le 1<sup>er</sup> oct. 2015 ([RO 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)).
 
 #### Art. 56a
 
-**Annonces au service cantonal du cadastre**[^56a-1]
+**Devoirs d’annonce**[^56a-1]
 
-<sup>1</sup> L’OFT informe le service cantonal du cadastre de l’ouverture d’une procédure d’approbation des plans.
+<sup>1</sup> L’OFT informe l’Office fédéral de topographie (swisstopo) de la clôture d’une procédure d’approbation des plans en lui transmettant la décision d’approbation des plans et les plans dont swisstopo a besoin.
 
-<sup>2</sup> L’entreprise de transport à câbles doit informer ce service dans un délai de 20 jours de toute modification de ses constructions et installations rendant nécessaire une mise à jour de la mensuration officielle.
+<sup>2</sup>
 
-[^56a-1]: Introduit par l’annexe ch. 13 de l’O du 23 août 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)).
+Pour les constructions et les installations qui nécessitent une mise à jour de la mensuration officielle ou de la mensuration nationale, l’entreprise de transport à câbles informe swisstopo dans un délai de 20 jours, en lui remettant les plans dont il a besoin:
+
+- a. du début des travaux, et
+- b. de l’achèvement des travaux.
+
+<sup>3</sup> Si un projet se situe en tout ou en partie hors de la zone à bâtir, l’entreprise de transport à câbles transmet en même temps que l’information à swisstopo de l’achèvement des travaux, les plans en vigueur visés à l’art. 11, al 3<sup>bis</sup>, sous forme de géodonnées, à l’autorité cantonale compétente visée à l’art. 25, al. 2, de la loi du 22 juin 1979 sur l’aménagement du territoire[^56a-2].
+
+[^56a-1]: Introduit par l’annexe ch. 13 de l’O du 23 août 2023 ([RO 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)). Nouvelle teneur selon l’annexe ch. 10 de l’O du 15 oct. 2025, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2025 659](https://fedlex.data.admin.ch/eli/oc/2025/659)).
+[^56a-2]: [RS 700](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8351)
 
 #### Art. 57
 
@@ -1243,7 +1255,7 @@ Pour les entreprises de transport à câbles qui obtiennent des indemnités au s
 - b.[^58-4] selon les dispositions édictées par le Conseil fédéral en vertu de l’art. 35, al. 3, LTV et par l’OFT en vertu de l’art. 35, al. 4, LTV.
 
 [^58-1]: Nouvelle teneur selon le ch. I de l’O du 2 sept. 2015, en vigueur depuis le 1<sup>er</sup> oct. 2015 ([RO 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)).
-[^58-2]: [RS 742.101](https://fedlex.data.admin.ch/eli/cc/1958/335_341_347)
+[^58-2]: [RS 742.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8719)
 [^58-3]: Nouvelle teneur selon l’annexe 4 ch. II 4 de l’O du 16 oct. 2024 sur l’indemnisation et la présentation des comptes du transport régional de voyageurs, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 609](https://fedlex.data.admin.ch/eli/oc/2024/609)).
 [^58-4]: Nouvelle teneur selon l’annexe 4 ch. II 4 de l’O du 16 oct. 2024 sur l’indemnisation et la présentation des comptes du transport régional de voyageurs, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 609](https://fedlex.data.admin.ch/eli/oc/2024/609)).
 
@@ -1307,7 +1319,7 @@ L’autorité de surveillance contrôle le respect des exigences de sécurité e
 <sup>7</sup> L’obligation de collaborer et d’informer à laquelle doivent satisfaire les fabricants, les importateurs et les autres personnes concernées est réglée à l’art. 11 LSPro.
 
 [^61-1]: Nouvelle teneur selon le ch. I de l’O du 11 oct. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 5831](https://fedlex.data.admin.ch/eli/oc/2017/632)).
-[^61-2]: [RS 930.11](https://fedlex.data.admin.ch/eli/cc/2010/347)
+[^61-2]: [RS 930.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11020)
 
 ### Section 2 Émoluments
 
@@ -1315,7 +1327,7 @@ L’autorité de surveillance contrôle le respect des exigences de sécurité e
 
 Les émoluments sont régis par l’ordonnance du 25 novembre 1998 sur les émoluments de l’OFT[^62-1], ainsi que par les dispositions cantonales correspondantes.
 
-[^62-1]: [RS 742.102](https://fedlex.data.admin.ch/eli/cc/1999/116)
+[^62-1]: [RS 742.102](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8725)
 
 ## Chapitre 5 Organismes d’évaluation de la conformité, procédure d’évaluation et experts
 
@@ -1334,7 +1346,7 @@ Pour le domaine considéré, les organismes d’évaluation de la conformité so
 
 <sup>2</sup> Quiconque se réfère aux documents d’un autre organisme que ceux mentionnés à l’al. 1 doit démontrer de manière crédible que les procédures appliquées et la qualification de l’organisme répondent aux exigences suisses (art. 18, al. 2, de la LF du 6 oct. 1995 sur les entraves techniques au commerce).[^63-2]
 
-[^63-1]: [RS 946.512](https://fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904)
+[^63-1]: [RS 946.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11469)
 [^63-2]: Nouvelle teneur selon le ch. I de l’O du 2 sept. 2015, en vigueur depuis le 1<sup>er</sup> oct. 2015 ([RO 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)).
 
 #### Art. 64
@@ -1500,10 +1512,10 @@ S’agissant des contrôles périodiques, les dispositions qui figurent aux ch. 
 <sup>2</sup> Les dispositions cantonales s’appliquent aux installations au bénéfice d’une autorisation cantonale.
 
 [^73-1]: Nouvelle teneur selon le ch. I de l’O du 11 oct. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 5831](https://fedlex.data.admin.ch/eli/oc/2017/632)).
-[^73-2]: [RS 743.121.1](https://fedlex.data.admin.ch/eli/cc/1987/902_902_902)
-[^73-3]: [RS 743.121.2](https://fedlex.data.admin.ch/eli/cc/1988/1634_1634_1634)
-[^73-4]: [RS 743.121.3](https://fedlex.data.admin.ch/eli/cc/1991/82_82_82).
-[^73-5]: [RS 743.121.6](https://fedlex.data.admin.ch/eli/cc/1996/2611_2611_2611)
+[^73-2]: [RS 743.121.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8841)
+[^73-3]: [RS 743.121.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8842)
+[^73-4]: [RS 743.121.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8843).
+[^73-5]: [RS 743.121.6](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8844)
 
 #### Art. 74
 

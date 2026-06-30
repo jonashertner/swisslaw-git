@@ -4,11 +4,11 @@ title: "Verordnung vom 21. Dezember 2006 über Seilbahnen zur Personenbeförderu
 short: SebV
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/14"
 language: de
-version: 2025-06-01
+version: 2026-07-01
 adopted: 2006-12-21
 in_force: 2007-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/14/20250601/de/xml/fedlex-data-admin-ch-eli-cc-2007-14-20250601-de-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/14/20250601/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/14/20260701/de/xml/fedlex-data-admin-ch-eli-cc-2007-14-20260701-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/14/20260701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/14/20250601/de"
 
 (Seilbahnverordnung, SebV)
 
-vom 21. Dezember 2006 (Stand am 1. Juni 2025)
+vom 21. Dezember 2006 (Stand am 1. Juli 2026)
 
 Der Schweizerische Bundesrat,
 
@@ -25,9 +25,9 @@ gestützt auf die Artikel 3 Absatz 4, 4 Absatz 1, 8 Absatz 5, 9 Absatz 5, 11 Abs
 
 verordnet:
 
-[^ingress-1]: [SR 743.01](https://fedlex.data.admin.ch/eli/cc/2006/853)
-[^ingress-2]: [SR 745.1](https://fedlex.data.admin.ch/eli/cc/2009/680)
-[^ingress-3]: [SR 946.51](https://fedlex.data.admin.ch/eli/cc/1996/1725_1725_1725)
+[^ingress-1]: [SR 743.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8834)
+[^ingress-2]: [SR 745.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8886)
+[^ingress-3]: [SR 946.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11467)
 [^ingress-4]: Fassung gemäss Ziff. I der V vom 2. Sept. 2015, in Kraft seit 1. Okt. 2015 ([AS 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)).
 
 ## 1. Kapitel: Allgemeine Bestimmungen
@@ -179,7 +179,7 @@ Die Bewilligung darf nicht erteilt werden, wenn:
 <sup>3</sup> Die Bewilligung wird in der Regel mit der Baubewilligung erteilt. Sie ist spätestens mit der Betriebsbewilligung zu erteilen.
 
 [^4a-1]: Eingefügt durch Ziff. I der V vom 2. Sept. 2015, in Kraft seit 1. Okt. 2015 ([AS 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)).
-[^4a-2]: [SR 745.11](https://fedlex.data.admin.ch/eli/cc/2009/739)
+[^4a-2]: [SR 745.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8887)
 
 ### 3. Abschnitt: Grundlegende Anforderungen, Ergänzende Vorschriften, Abweichungen von technischen Normen
 
@@ -261,7 +261,7 @@ Wer Seilbahnen in Betrieb nehmen oder Teilsysteme oder Sicherheitsbauteile auf d
 
 <sup>2</sup> Die Betriebs- und Verkehrsleistungen sowie der Personalbestand der Seilbahnunternehmen dürfen publiziert werden.
 
-[^10-1]: [SR 431.011](https://fedlex.data.admin.ch/eli/cc/1993/2093_2093_2093)
+[^10-1]: [SR 431.011](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6947)
 [^10-2]: Fassung gemäss Anhang 3 Ziff. 12 der Bundesstatistikverordnung vom 30. April 2025, in Kraft seit 1. Juni 2025 ([AS 2025 318](https://fedlex.data.admin.ch/eli/oc/2025/318)).
 
 ## 2. Kapitel: Bau und Änderung von Seilbahnen mit Bundeskonzession
@@ -292,14 +292,18 @@ Mit dem Plangenehmigungsgesuch sind dem Bundesamt für Verkehr (BAV) einzureiche
 
 <sup>3</sup> Das BAV kann auf einzelne Unterlagen verzichten, wenn diese aufgrund der Bahnart oder der Umstände des Einzelfalls nicht erforderlich sind.
 
+<sup>3bis</sup> Bei Vorhaben ausserhalb der Bauzonen muss das Gesuch insbesondere Pläne enthalten, aus denen die Abgrenzung allfälliger neuer oder beseitigter Gebäude gemäss Artikel 25*a* Absatz 1 der Raumplanungsverordnung vom 28. Juni 2000[^11-5] und allfälliger neuer oder beseitigter Versiegelungen gemäss Artikel 25*a* Absatz 2 der Raumplanungsverordnung ersichtlich ist.[^11-6]
+
 <sup>4</sup> Bei vereinfachten Verfahren legt das BAV im Einzelfall den Umfang der einzureichenden Unterlagen fest.
 
 <sup>5</sup> Sind die Unterlagen unvollständig oder mangelhaft, so räumt das BAV dem Gesuchsteller oder der Gesuchstellerin die Möglichkeit zur Ergänzung der Unterlagen ein.
 
 [^11-1]: Fassung gemäss Ziff. I der V vom 11. Okt. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 5831](https://fedlex.data.admin.ch/eli/oc/2017/632)).
-[^11-2]: [SR 814.011](https://fedlex.data.admin.ch/eli/cc/1988/1931_1931_1931)
-[^11-3]: [SR 814.01](https://fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122)
+[^11-2]: [SR 814.011](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9438)
+[^11-3]: [SR 814.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9437)
 [^11-4]: Fassung gemäss Ziff. I der V vom 2. Sept. 2015, in Kraft seit 1. Okt. 2015 ([AS 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)).
+[^11-5]: [SR 700.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8353)
+[^11-6]: Eingefügt durch Anhang Ziff. 10 der V vom 15. Okt. 2025, in Kraft seit 1. Juli 2026 ([AS 2025 659](https://fedlex.data.admin.ch/eli/oc/2025/659)).
 
 #### Art. 12
 
@@ -329,7 +333,7 @@ Für die Aussteckung gelten folgende Vorschriften:
 <sup>2</sup> Das BAV kann verlangen, die Höhe der Stützen ausserhalb des Siedlungsgebiets kenntlich zu machen.
 
 [^13-1]: Fassung gemäss Ziff. I der V vom 2. Sept. 2015, in Kraft seit 1. Okt. 2015 ([AS 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)).
-[^13-2]: [SR 451](https://fedlex.data.admin.ch/eli/cc/1966/1637_1694_1679)
+[^13-2]: [SR 451](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7166)
 
 #### Art. 14
 
@@ -888,7 +892,7 @@ Technische Leiter und Leiterinnen von eidgenössisch konzessionierten Anlagen m�
 <sup>2</sup> Das Staatssekretariat für Bildung, Forschung und Innovation kann im Ausland erworbene Ausbildungsnachweise als gleichwertig anerkennen[^46a-2].
 
 [^46a-1]: Eingefügt durch Ziff. I der V vom 2. Sept. 2015 ([AS 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)). Fassung gemäss Ziff. I der V vom 11. Okt. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 5831](https://fedlex.data.admin.ch/eli/oc/2017/632)).
-[^46a-2]: Dienstleistungserbringer und Dienstleistungserbringerinnen, die sich auf das Abk. vom 21. Juni 1999 zwischen der Schweizerischen Eidgenossenschaft einerseits und der Europäischen Gemeinschaft und ihren Mitgliedstaaten andererseits über die Freizügigkeit ([SR 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)) oder auf das Übereink. vom 4. Jan. 1960 zur Errichtung der Europäischen Freihandelsassoziation (EFTA; [SR 0.632.31](https://fedlex.data.admin.ch/eli/cc/1960/590_635_621)) berufen können, müssen sich bei der zuständigen Behörde gemäss dem Verfahren melden, das im BG vom 14. Dez. 2012 über die Meldepflicht und die Nachprüfung der Berufsqualifikationen von Dienstleistungserbringerinnen und -erbringern in reglementierten Berufen ([SR 935.01](https://fedlex.data.admin.ch/eli/cc/2013/509)) festgelegt ist.
+[^46a-2]: Dienstleistungserbringer und Dienstleistungserbringerinnen, die sich auf das Abk. vom 21. Juni 1999 zwischen der Schweizerischen Eidgenossenschaft einerseits und der Europäischen Gemeinschaft und ihren Mitgliedstaaten andererseits über die Freizügigkeit ([SR 0.142.112.681](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/211)) oder auf das Übereink. vom 4. Jan. 1960 zur Errichtung der Europäischen Freihandelsassoziation (EFTA; [SR 0.632.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2314)) berufen können, müssen sich bei der zuständigen Behörde gemäss dem Verfahren melden, das im BG vom 14. Dez. 2012 über die Meldepflicht und die Nachprüfung der Berufsqualifikationen von Dienstleistungserbringerinnen und -erbringern in reglementierten Berufen ([SR 935.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11082)) festgelegt ist.
 
 #### Art. 46b
 
@@ -986,7 +990,7 @@ Dienstunfähigkeit wegen Betäubungsmitteleinwirkung gilt als erwiesen, wenn die
 
 <sup>6</sup> Das Seilbahnunternehmen kann den Alkoholkonsum arbeitsrechtlich strenger regeln.
 
-[^47d-1]: [SR 742.101](https://fedlex.data.admin.ch/eli/cc/1958/335_341_347)
+[^47d-1]: [SR 742.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8719)
 [^47d-2]: Fassung gemäss Ziff. I der V vom 11. Okt. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 5831](https://fedlex.data.admin.ch/eli/oc/2017/632)).
 
 #### Art. 47e
@@ -1006,8 +1010,8 @@ Für Mitarbeiter und Mitarbeiterinnen dieser Stellen gilt:
 
 <sup>3</sup> Die Mitarbeiter und Mitarbeiterinnen dieser Stellen müssen sich über die ihnen übertragenen Kompetenzen ausweisen können.
 
-[^47e-1]: [SR 742.101](https://fedlex.data.admin.ch/eli/cc/1958/335_341_347)
-[^47e-2]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^47e-1]: [SR 742.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8719)
+[^47e-2]: [SR 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 #### Art. 47f
 
@@ -1015,7 +1019,7 @@ Für Mitarbeiter und Mitarbeiterinnen dieser Stellen gilt:
 
 Für die Kontrolle der Dienstfähigkeit gelten über die Bestimmungen nach den Artikeln 47*b*–47*e* hinaus die Artikel 17–25 der Verordnung vom 4. November 2009[^47f-1] über die sicherheitsrelevanten Tätigkeiten im Eisenbahnbereich sinngemäss.
 
-[^47f-1]: [SR 742.141.2](https://fedlex.data.admin.ch/eli/cc/2009/734)
+[^47f-1]: [SR 742.141.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8752)
 
 ### 4. Abschnitt: Betrieb und Instandhaltung
 
@@ -1047,8 +1051,8 @@ Für die Beförderung gefährlicher Güter gelten die Bestimmungen:
 - b. der Verordnung vom 31. Oktober 2012[^49-3] über die Beförderung gefährlicher Güter mit Eisenbahnen und Seilbahnen.
 
 [^49-1]: Fassung gemäss Anhang 3 Ziff. II 2 der V vom 31. Okt. 2012 über die Beförderung gefährlicher Güter mit Eisenbahnen und Seilbahnen, in Kraft seit 1. Jan. 2013 ([AS 2012 6541](https://fedlex.data.admin.ch/eli/oc/2012/785)).
-[^49-2]: [SR 930.111.4](https://fedlex.data.admin.ch/eli/cc/2012/797)
-[^49-3]: [SR 742.412](https://fedlex.data.admin.ch/eli/cc/2012/785)
+[^49-2]: [SR 930.111.4](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11022)
+[^49-3]: [SR 742.412](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8825)
 
 #### Art. 50
 
@@ -1168,18 +1172,26 @@ Es hat der Aufsichtsbehörde unverzüglich zu melden:
 [^56-1]: Fassung gemäss Ziff. I der V vom 11. Okt. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 5831](https://fedlex.data.admin.ch/eli/oc/2017/632)).
 [^56-2]: Fassung gemäss Ziff. I der V vom 2. Sept. 2015, in Kraft seit 1. Okt. 2015 ([AS 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)).
 [^56-3]: Fassung gemäss Ziff. I der V vom 2. Sept. 2015, in Kraft seit 1. Okt. 2015 ([AS 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)).
-[^56-4]: [SR 742.161](https://fedlex.data.admin.ch/eli/cc/2015/26)
+[^56-4]: [SR 742.161](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8778)
 [^56-5]: Eingefügt durch Ziff. I der V vom 2. Sept. 2015, in Kraft seit 1. Okt. 2015 ([AS 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)).
 
 #### Art. 56a
 
-**Meldungen an die kantonale Vermessungsaufsicht**[^56a-1]
+**Meldepflichten**[^56a-1]
 
-<sup>1</sup> Das BAV informiert die kantonale Vermessungsaufsicht über die Eröffnung eines Plangenehmigungsverfahrens.
+<sup>1</sup> Das BAV informiert das Bundesamt für Landestopografie (swisstopo) über den Abschluss eines Plangenehmigungsverfahrens durch Zustellung der Plangenehmigungsverfügung und der vom swisstopo benötigten Pläne.
 
-<sup>2</sup> Das Seilbahnunternehmen hat diese Stelle innert 20 Tagen über Änderungen seiner Bauten und Anlagen zu informieren, die eine Nachführung der amtlichen Vermessung notwendig machen.
+<sup>2</sup>
 
-[^56a-1]: Eingefügt durch Anhang Ziff. 13 der V vom 23. Aug. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)).
+Bei Bauten und Anlagen, die eine Nachführung der amtlichen Vermessung oder der Landesvermessung notwendig machen, informiert das Seilbahnunternehmen das swisstopo unter Beilage der vom swisstopo benötigten Pläne jeweils innert 20 über:
+
+- a. den Baubeginn; und
+- b. die Bauvollendung.
+
+<sup>3</sup> Liegt ein Vorhaben ganz oder teilweise ausserhalb der Bauzonen, lässt das Seilbahnunternehmen gleichzeitig zur Information des swisstopo über die Bauvollendung die rechtskräftigen Pläne nach Artikel 11 Absatz 3<sup>bis</sup> in Form von Geodaten der kantonalen Behörde zukommen, die nach Artikel 25 Absatz 2 des Raumplanungsgesetzes vom 22. Juni 1979[^56a-2] zuständig ist.
+
+[^56a-1]: Eingefügt durch Anhang Ziff. 13 der V vom 23. Aug. 2023 ([AS 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)). Fassung gemäss Anhang Ziff. 10 der V vom 15. Okt. 2025, in Kraft seit 1. Juli 2026 ([AS 2025 659](https://fedlex.data.admin.ch/eli/oc/2025/659)).
+[^56a-2]: [SR 700](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8351)
 
 #### Art. 57
 
@@ -1235,7 +1247,7 @@ Seilbahnunternehmen, die Abgeltungen nach Artikel 49 EBG[^58-2] erhalten oder Be
 - b.[^58-4] nach den Bestimmungen, die der Bundesrat gemäss Artikel 35 Absatz 3 PBG und das BAV gemäss Artikel 35 Absatz 4 PBG erlässt.
 
 [^58-1]: Fassung gemäss Ziff. I der V vom 2. Sept. 2015, in Kraft seit 1. Okt. 2015 ([AS 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)).
-[^58-2]: [SR 742.101](https://fedlex.data.admin.ch/eli/cc/1958/335_341_347)
+[^58-2]: [SR 742.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8719)
 [^58-3]: Fassung gemäss Anhang 4 Ziff. II 4 der V vom 16. Okt. 2024 über die Abgeltung und die Rechnungslegung im regionalen Personenverkehr, in Kraft seit 1. Jan. 2025 ([AS 2024 609](https://fedlex.data.admin.ch/eli/oc/2024/609)).
 [^58-4]: Fassung gemäss Anhang 4 Ziff. II 4 der V vom 16. Okt. 2024 über die Abgeltung und die Rechnungslegung im regionalen Personenverkehr, in Kraft seit 1. Jan. 2025 ([AS 2024 609](https://fedlex.data.admin.ch/eli/oc/2024/609)).
 
@@ -1299,7 +1311,7 @@ Die Aufsichtsbehörde überwacht die Einhaltung der Sicherheits- und der Umwelta
 <sup>7</sup> Die Mitwirkungs- und Auskunftspflichten der Hersteller, der Importeure und weiterer betroffener Personen richten sich nach Artikel 11 PrSG.
 
 [^61-1]: Fassung gemäss Ziff. I der V vom 11. Okt. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 5831](https://fedlex.data.admin.ch/eli/oc/2017/632)).
-[^61-2]: [SR 930.11](https://fedlex.data.admin.ch/eli/cc/2010/347)
+[^61-2]: [SR 930.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11020)
 
 ### 2. Abschnitt: Gebühren
 
@@ -1307,7 +1319,7 @@ Die Aufsichtsbehörde überwacht die Einhaltung der Sicherheits- und der Umwelta
 
 Die Gebühren richten sich nach der Gebührenverordnung BAV vom 25. November 1998[^62-1] beziehungsweise den entsprechenden kantonalen Bestimmungen.
 
-[^62-1]: [SR 742.102](https://fedlex.data.admin.ch/eli/cc/1999/116)
+[^62-1]: [SR 742.102](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8725)
 
 ## 5. Kapitel: Konformitätsbewertungsstellen, Konformitätsbewertungsverfahren und Sachverständige
 
@@ -1326,7 +1338,7 @@ Konformitätsbewertungsstellen müssen für den betreffenden Fachbereich:
 
 <sup>2</sup> Wer sich auf die Unterlagen einer anderen als der in Absatz 1 erwähnten Stellen beruft, muss glaubhaft darlegen, dass die angewandten Verfahren und die Qualifikation dieser Stelle den schweizerischen Anforderungen genügen (Art. 18 Abs. 2 des BG vom 6. Okt. 1995 über die technischen Handelshemmnisse).
 
-[^63-1]: [SR 946.512](https://fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904)
+[^63-1]: [SR 946.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11469)
 
 #### Art. 64
 
@@ -1491,10 +1503,10 @@ Für Anlagen und Anlagenteile, die vor dem 1. Januar 2007 errichtet wurden, blei
 <sup>2</sup> Für kantonal bewilligte Anlagen gelten die kantonalen Vorgaben.
 
 [^73-1]: Fassung gemäss Ziff. I der V vom 11. Okt. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 5831](https://fedlex.data.admin.ch/eli/oc/2017/632)).
-[^73-2]: [SR 743.121.1](https://fedlex.data.admin.ch/eli/cc/1987/902_902_902)
-[^73-3]: [SR 743.121.2](https://fedlex.data.admin.ch/eli/cc/1988/1634_1634_1634)
-[^73-4]: [SR 743.121.3](https://fedlex.data.admin.ch/eli/cc/1991/82_82_82)
-[^73-5]: [SR 743.121.6](https://fedlex.data.admin.ch/eli/cc/1996/2611_2611_2611)
+[^73-2]: [SR 743.121.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8841)
+[^73-3]: [SR 743.121.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8842)
+[^73-4]: [SR 743.121.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8843)
+[^73-5]: [SR 743.121.6](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8844)
 
 #### Art. 74
 

@@ -4,11 +4,11 @@ title: Ordinanza del 21 dicembre 2006 sugli impianti a fune adibiti al trasporto
 short: OIFT
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/14"
 language: it
-version: 2025-06-01
+version: 2026-07-01
 adopted: 2006-12-21
 in_force: 2007-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/14/20250601/it/xml/fedlex-data-admin-ch-eli-cc-2007-14-20250601-it-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/14/20250601/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/14/20260701/it/xml/fedlex-data-admin-ch-eli-cc-2007-14-20260701-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/14/20260701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/14/20250601/it"
 
 (Ordinanza sugli impianti a fune; OIFT)
 
-del 21 dicembre 2006 (Stato 1° giugno 2025)
+del 21 dicembre 2006 (Stato 1° luglio 2026)
 
 Il Consiglio federale svizzero,
 
@@ -25,9 +25,9 @@ visti gli articoli 3 capoverso 4, 4 capoverso 1, 8 capoverso 5, 9 capoverso 5, 1
 
 ordina:
 
-[^ingress-1]: [RS 743.01](https://fedlex.data.admin.ch/eli/cc/2006/853)
-[^ingress-2]: [RS 745.1](https://fedlex.data.admin.ch/eli/cc/2009/680)
-[^ingress-3]: [RS 946.51](https://fedlex.data.admin.ch/eli/cc/1996/1725_1725_1725)
+[^ingress-1]: [RS 743.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8834)
+[^ingress-2]: [RS 745.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8886)
+[^ingress-3]: [RS 946.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11467)
 [^ingress-4]: Nuovo testo giusta la cifra I dell’O del 2 set. 2015, in vigore dal 1° ott. 2015 ([RU 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)).
 
 ## Capitolo 1: Disposizioni generali
@@ -178,7 +178,7 @@ L’autorizzazione non può essere rilasciata se:
 <sup>3</sup> Di regola l’autorizzazione viene rilasciata insieme all’autorizzazione di costruzione. Deve essere rilasciata al più tardi insieme all’autorizzazione di esercizio.
 
 [^4a-1]: Introdotto dalla cifra I dell’O del 2 set. 2015, in vigore dal 1° ott. 2015 ([RU 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)).
-[^4a-2]: [RS 745.11](https://fedlex.data.admin.ch/eli/cc/2009/739)
+[^4a-2]: [RS 745.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8887)
 
 ### Sezione 3: Requisiti essenziali, disposizioni complementari, deroghe alle norme tecniche
 
@@ -260,7 +260,7 @@ Chi intende mettere in esercizio impianti a fune o mettere a disposizione sul me
 
 <sup>2</sup> Le prestazioni d’esercizio, le prestazioni di trasporto e l’effettivo del personale delle imprese di trasporto a fune possono essere resi pubblici.
 
-[^10-1]: [RS 431.011](https://fedlex.data.admin.ch/eli/cc/1993/2093_2093_2093)
+[^10-1]: [RS 431.011](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6947)
 [^10-2]: Nuovo testo giusta l’all. 3 n. 12 dell’O del 30 apr. 2025 sulla statistica federale, in vigore dal 1° giu. 2025 ([RU 2025 318](https://fedlex.data.admin.ch/eli/oc/2025/318)).
 
 ## Capitolo 2: Costruzione e modifica di impianti a fune soggetti a concessione federale
@@ -295,6 +295,8 @@ Assieme alla domanda di approvazione dei piani, occorre presentare all’Ufficio
 
 <sup>3</sup> L’UFT può rinunciare a determinati documenti se essi non si rivelano necessari in considerazione del genere di impianto o delle caratteristiche del singolo caso.
 
+<sup>3bis</sup> Nel caso di progetti fuori delle zone edificabili, la domanda deve contenere in particolare i piani dai quali risulti la delimitazione di eventuali edifici nuovi o demoliti ai sensi dell’articolo 25*a* capoverso 1 dell’ordinanza del 28 giugno 2000[^11-7] sulla pianificazione del territorio e di eventuali superfici impermeabilizzate nuove o demolite ai sensi dell’articolo 25*a* capoverso 2 dell’ordinanza sulla pianificazione del territorio.[^11-8]
+
 <sup>4</sup> In caso di procedura semplificata l’UFT stabilisce di volta in volta l’ampiezza della documentazione da presentare.
 
 <sup>5</sup> Se i documenti sono incompleti o imprecisi, l’UFT accorda al richiedente la possibilità di completarli o riformularli in modo più accurato.
@@ -302,9 +304,11 @@ Assieme alla domanda di approvazione dei piani, occorre presentare all’Ufficio
 [^11-1]: Nuovo testo giusta la cifra I dell’O dell’11 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5831](https://fedlex.data.admin.ch/eli/oc/2017/632)).
 [^11-2]: Nuovo testo giusta la cifra I dell’O del 2 set. 2015, in vigore dal 1° ott. 2015 ([RU 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)).
 [^11-3]: Nuovo testo giusta la cifra I dell’O del 2 set. 2015, in vigore dal 1° ott. 2015 ([RU 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)).
-[^11-4]: [RS 814.011](https://fedlex.data.admin.ch/eli/cc/1988/1931_1931_1931)
-[^11-5]: [RS 814.01](https://fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122)
+[^11-4]: [RS 814.011](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9438)
+[^11-5]: [RS 814.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9437)
 [^11-6]: Nuovo testo giusta la cifra I dell’O del 2 set. 2015, in vigore dal 1° ott. 2015 ([RU 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)).
+[^11-7]: [RS 700.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8353)
+[^11-8]: Introdotto dall’appendice n. 10 dell’O del 15 ott. 2025, in vigore dal 1° lug. 2026 ([RU 2025 659](https://fedlex.data.admin.ch/eli/oc/2025/659)).
 
 #### Art. 12
 
@@ -334,7 +338,7 @@ Per il picchettamento si applicano le seguenti disposizioni:
 <sup>2</sup> L’UFT può esigere che l’altezza dei sostegni sia segnalata anche al di fuori delle zone residenziali.
 
 [^13-1]: Nuovo testo giusta la cifra I dell’O del 2 set. 2015, in vigore dal 1° ott. 2015 ([RU 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)).
-[^13-2]: [RS 451](https://fedlex.data.admin.ch/eli/cc/1966/1637_1694_1679)
+[^13-2]: [RS 451](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7166)
 
 #### Art. 14
 
@@ -896,7 +900,7 @@ I capitecnici di impianti soggetti a concessione federale devono:
 <sup>2</sup> La Segreteria di Stato per la formazione, la ricerca e l’innovazione può riconoscere attestati equivalenti conseguiti all’estero[^46a-2].
 
 [^46a-1]: Introdotto dalla cifra I dell’O del 2 set. 2015 ([RU 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)). Nuovo testo giusta la cifra I dell’O dell’11 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5831](https://fedlex.data.admin.ch/eli/oc/2017/632)).
-[^46a-2]: I fornitori di servizi che possono avvalersi dell’Accordo del 21 giugno 1999 tra la Confederazione Svizzera, da una parte, e la Comunità europea ed i suoi Stati membri, dall’altra, sulla libera circolazione delle persone ([RS 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)) oppure della Convenzione del 4 gennaio 1960 istitutiva dell’Associazione europea di libero scambio (AELS; [RS 0.632.31](https://fedlex.data.admin.ch/eli/cc/1960/590_635_621)) devono dichiararsi all’autorità competente in conformità con la procedura stabilita nella legge federale del 14 dicembre 2012 sull’obbligo di dichiarazione e sulla verifica delle qualifiche professionali dei prestatori di servizi in professioni regolamentate ([RS 935.01](https://fedlex.data.admin.ch/eli/cc/2013/509)).
+[^46a-2]: I fornitori di servizi che possono avvalersi dell’Accordo del 21 giugno 1999 tra la Confederazione Svizzera, da una parte, e la Comunità europea ed i suoi Stati membri, dall’altra, sulla libera circolazione delle persone ([RS 0.142.112.681](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/211)) oppure della Convenzione del 4 gennaio 1960 istitutiva dell’Associazione europea di libero scambio (AELS; [RS 0.632.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2314)) devono dichiararsi all’autorità competente in conformità con la procedura stabilita nella legge federale del 14 dicembre 2012 sull’obbligo di dichiarazione e sulla verifica delle qualifiche professionali dei prestatori di servizi in professioni regolamentate ([RS 935.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11082)).
 
 #### Art. 46b
 
@@ -994,7 +998,7 @@ Una persona è considerata incapace di prestare servizio per influsso di stupefa
 
 <sup>6</sup> L’impresa di trasporto a fune può prevedere disposizioni di diritto del lavoro più rigide per il consumo di alcol.
 
-[^47d-1]: [RS 742.101](https://fedlex.data.admin.ch/eli/cc/1958/335_341_347)
+[^47d-1]: [RS 742.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8719)
 [^47d-2]: Nuovo testo giusta la cifra I dell’O dell’11 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5831](https://fedlex.data.admin.ch/eli/oc/2017/632)).
 
 #### Art. 47e
@@ -1014,8 +1018,8 @@ I collaboratori di questi servizi devono soddisfare i seguenti requisiti:
 
 <sup>3</sup> I collaboratori di questi servizi devono poter attestare con un documento le competenze loro attribuite.
 
-[^47e-1]: [RS 742.101](https://fedlex.data.admin.ch/eli/cc/1958/335_341_347)
-[^47e-2]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^47e-1]: [RS 742.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8719)
+[^47e-2]: [RS 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 #### Art. 47f
 
@@ -1023,7 +1027,7 @@ I collaboratori di questi servizi devono soddisfare i seguenti requisiti:
 
 Oltre che dalle disposizioni di cui agli articoli 47*b*–47*e*, il controllo della capacità di prestare servizio è disciplinato per analogia dagli articoli 17–25 dell’ordinanza del 4 novembre 2009[^47f-1] sulle attività rilevanti per la sicurezza nel settore ferroviario.
 
-[^47f-1]: [RS 742.141.2](https://fedlex.data.admin.ch/eli/cc/2009/734)
+[^47f-1]: [RS 742.141.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8752)
 
 ### Sezione 4: Esercizio e manutenzione
 
@@ -1055,8 +1059,8 @@ Per il trasporto di merci pericolose si applicano le disposizioni:
 - b. dell’ordinanza del 31 ottobre 2012[^49-3] concernente il trasporto di merci pericolose per ferrovia e tramite impianti di trasporto a fune.
 
 [^49-1]: Nuovo testo giusta l’all. 3 cifra II n. 2 dell’O del 31 ott. 2012 concernente il trasporto di merci pericolose per ferrovia e tramite impianti di trasporto a fune, in vigore dal 1° gen. 2013 ([RU 2012 6541](https://fedlex.data.admin.ch/eli/oc/2012/785)).
-[^49-2]: [RS 930.111.4](https://fedlex.data.admin.ch/eli/cc/2012/797)
-[^49-3]: [RS 742.412](https://fedlex.data.admin.ch/eli/cc/2012/785)
+[^49-2]: [RS 930.111.4](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11022)
+[^49-3]: [RS 742.412](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8825)
 
 #### Art. 50
 
@@ -1176,18 +1180,26 @@ Notifica immediatamente all’autorità di vigilanza:
 [^56-1]: Nuovo testo giusta la cifra I dell’O dell’11 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5831](https://fedlex.data.admin.ch/eli/oc/2017/632)).
 [^56-2]: Nuovo testo giusta la cifra I dell’O del 2 set. 2015, in vigore dal 1° ott. 2015 ([RU 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)).
 [^56-3]: Nuovo testo giusta la cifra I dell’O del 2 set. 2015, in vigore dal 1° ott. 2015 ([RU 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)).
-[^56-4]: [RS 742.161](https://fedlex.data.admin.ch/eli/cc/2015/26)
+[^56-4]: [RS 742.161](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8778)
 [^56-5]: Introdotto dalla cifra I dell’O del 2 set. 2015, in vigore dal 1° ott. 2015 ([RU 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)).
 
 #### Art. 56a
 
-**Notifiche al servizio cantonale di vigilanza sulle misurazioni**[^56a-1]
+**Obblighi di notifica**[^56a-1]
 
-<sup>1</sup> L’UFT informa il servizio cantonale di vigilanza sulle misurazioni in merito all’apertura di una procedura d’approvazione dei piani.
+<sup>1</sup> L’UFT informa l’Ufficio federale di topografia (swisstopo) in merito alla conclusione di una procedura di approvazione dei piani trasmettendo la decisione di approvazione dei piani e i piani richiesti da swisstopo.
 
-<sup>2</sup> L’impresa di trasporto a fune è tenuta a informare tale servizio entro un termine di 20 giorni in merito alle modifiche di sue costruzioni e suoi impianti che rendono necessaria una tenuta a giorno della misurazione ufficiale.
+<sup>2</sup>
 
-[^56a-1]: Introdotto dall’all. n. 13 dell’O del 23 ago. 2023, in vigore dal 1° gen. 2024 ([RU 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)).
+Nel caso di costruzioni e impianti che rendono necessaria una tenuta a giorno della misurazione ufficiale o della misurazione nazionale, l’impresa di trasporto a fune è tenuta a comunicare a swisstopo entro 20 giorni, allegando i piani richiesti da swisstopo:
+
+- a. l’inizio dei lavori; e
+- b. il completamento dei lavori.
+
+<sup>3</sup> Se il progetto è situato in tutto o in parte fuori delle zone edificabili, l’impresa di trasporto a fune trasmette sotto forma di geodati i piani di cui all’articolo 11 capoverso 3<sup>bis</sup> approvati con decisione passata in giudicato all’autorità cantonale competente di cui all’articolo 25 capoverso 2 della legge del 22 giugno 1979[^56a-2] sulla pianificazione del territorio contestualmente alla comunicazione a swisstopo del completamento dei lavori.
+
+[^56a-1]: Introdotto dall’all. n. 13 dell’O del 23 ago. 2023 ([RU 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)). Nuovo testo giusta l’appendice n. 10 dell’O del 15 ott. 2025, in vigore dal 1° lug. 2026 ([RU 2025 659](https://fedlex.data.admin.ch/eli/oc/2025/659)).
+[^56a-2]: [RS 700](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8351)
 
 #### Art. 57
 
@@ -1243,8 +1255,8 @@ Le imprese di trasporto a fune che ricevono indennità conformemente all’artic
 - b.[^58-4] conformemente alle disposizioni emanate dal Consiglio federale secondo l’articolo 35 capoverso 3 LTV e dall’UFT secondo l’articolo 35 capoverso 4 LTV.
 
 [^58-1]: Nuovo testo giusta la cifra I dell’O del 2 set. 2015, in vigore dal 1° ott. 2015 ([RU 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)).
-[^58-2]: [RS 742.101](https://fedlex.data.admin.ch/eli/cc/1958/335_341_347)
-[^58-3]: Nuovo testo giusta dall’all.4 n. II 1 dell’O del 16 ott. 2024 sulle indennità e la presentazione dei conti nel traffico regionale viaggiatori, con effetto dal 1° gen. 2025 ([RU 2024 609](https://fedlex.data.admin.ch/eli/oc/2024/609)).
+[^58-2]: [RS 742.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8719)
+[^58-3]: Nuovo testo giusta dall’all. 4 n. II 1 dell’O del 16 ott. 2024 sulle indennità e la presentazione dei conti nel traffico regionale viaggiatori, con effetto dal 1° gen. 2025 ([RU 2024 609](https://fedlex.data.admin.ch/eli/oc/2024/609)).
 [^58-4]: Nuovo testo giusta dall’all.4 n. II 1 dell’O del 16 ott. 2024 sulle indennità e la presentazione dei conti nel traffico regionale viaggiatori, con effetto dal 1° gen. 2025 ([RU 2024 609](https://fedlex.data.admin.ch/eli/oc/2024/609)).
 
 #### Art. 59
@@ -1307,7 +1319,7 @@ L’autorità di vigilanza sorveglia il rispetto delle esigenze in materia di si
 <sup>7</sup> L’obbligo di collaborazione e di informazione dei fabbricanti, degli importatori e di eventuali altre persone interessate è retto dall’articolo 11 LSPro.
 
 [^61-1]: Nuovo testo giusta la cifra I dell’O dell’11 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5831](https://fedlex.data.admin.ch/eli/oc/2017/632)).
-[^61-2]: [RS 930.11](https://fedlex.data.admin.ch/eli/cc/2010/347)
+[^61-2]: [RS 930.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11020)
 
 ### Sezione 2: Emolumenti
 
@@ -1315,7 +1327,7 @@ L’autorità di vigilanza sorveglia il rispetto delle esigenze in materia di si
 
 Gli emolumenti sono disciplinati dall’ordinanza del 25 novembre 1998[^62-1] sugli emolumenti relativi ai compiti dell’Ufficio federale dei trasporti e dalle disposizioni cantonali in merito.
 
-[^62-1]: [RS 742.102](https://fedlex.data.admin.ch/eli/cc/1999/116)
+[^62-1]: [RS 742.102](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8725)
 
 ## Capitolo 5: Organismi di valutazione della conformità, procedura di valutazione della conformità e periti
 
@@ -1334,7 +1346,7 @@ Per i relativi settori di specializzazione gli organismi di valutazione della co
 
 <sup>2</sup> Chi si fonda sui documenti forniti da un organismo che non figura tra quelli di cui al capoverso 1, deve dimostrare in modo credibile che le procedure applicate da questo organismo e le sue qualifiche rispettano le esigenze svizzere (art. 18 cpv. 2 della LF del 6 ott. 1995 sugli ostacoli tecnici al commercio).
 
-[^63-1]: [RS 946.512](https://fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904)
+[^63-1]: [RS 946.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11469)
 
 #### Art. 64
 
@@ -1499,10 +1511,10 @@ Per gli impianti e le parti di impianti realizzati prima del 1° gennaio 2007 ri
 <sup>2</sup> Per gli impianti titolari di un’autorizzazione cantonale rimangono applicabili le direttive cantonali.
 
 [^73-1]: Nuovo testo giusta la cifra I dell’O dell’11 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5831](https://fedlex.data.admin.ch/eli/oc/2017/632)).
-[^73-2]: [RS 743.121.1](https://fedlex.data.admin.ch/eli/cc/1987/902_902_902)
-[^73-3]: [RS 743.121.2](https://fedlex.data.admin.ch/eli/cc/1988/1634_1634_1634)
-[^73-4]: [RS 743.121.3](https://fedlex.data.admin.ch/eli/cc/1991/82_82_82)
-[^73-5]: [RS 743.121.6](https://fedlex.data.admin.ch/eli/cc/1996/2611_2611_2611)
+[^73-2]: [RS 743.121.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8841)
+[^73-3]: [RS 743.121.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8842)
+[^73-4]: [RS 743.121.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8843)
+[^73-5]: [RS 743.121.6](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8844)
 
 #### Art. 74
 
