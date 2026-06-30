@@ -4,13 +4,12 @@ number: "711.1"
 title: Gesetz zur Erhaltung und Förderung der Gesundheit
 short: "Gesundheitsgesetz, GesG"
 language: de
-version: 2025-03-01
-valid_until: 2026-06-30
-version_adopted: 2024-11-27
+version: 2026-07-01
+version_adopted: 2026-03-25
 adopted: 2007-05-30
 in_force: 2009-03-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/711.1"
-pdf: "https://gesetze.nw.ch/api/de/versions/1348/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/1516/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,11 +18,11 @@ pdf: "https://gesetze.nw.ch/api/de/versions/1348/pdf_file"
 
 (Gesundheitsgesetz, GesG)
 
-vom 30.05.2007 (Stand 01.03.2025)
+vom 30.05.2007 (Stand 01.07.2026)
 
 Der Landrat von Nidwalden,
 
-gestützt auf Art. 28 und 60 der Kantonsverfassung, in Ausführung des Bundesgesetzes vom 23. Juni 2006 über die universitären Medizinalberufe (Medizinalberufegesetz, MedBG)[^ingress-1], des Bundesgesetzes vom 18. März 2011 über die Psychologieberufe (Psychologieberufegesetz, PsyG)[^ingress-2], des Bundesgesetzes vom 30. September 2016 über die Gesundheitsberufe (Gesundheitsberufegesetz, GesBG)[^ingress-3], des Bundesgesetzes vom 18. März 1994 über die Krankenversicherung (KVG)[^ingress-4], des Bundesgesetzes vom 30. September 2011 über die Forschung am Menschen (Humanforschungsgesetz, HFG)[^ingress-5], des Bundesgesetzes vom 8. Oktober 2004 über die Transplantation von Organen, Geweben und Zellen (Transplantationsgesetz)[^ingress-6], des Bundesgesetzes vom 19. Juni 2015 über das elektronische Patientendossier (EPDG)[^ingress-7], des Bundesgesetzes vom 18. März 2016 über die Registrierung von Krebserkrankungen (Krebsregistrierungsgesetz, KRG)[^ingress-8], des Bundesgesetzes vom 28. September 2012 über die Bekämpfung übertragbarer Krankheiten des Menschen (Epidemiengesetz, EpG)[^ingress-9] und des Bundesgesetzes vom 15. Dezember 2000 über Arzneimittel und Medizinprodukte (Heilmittelgesetz, HMG)[^ingress-10],
+gestützt auf Art. 28 und Art. 60 Abs. 1 der Kantonsverfassung, in Ausführung des Bundesgesetzes vom 23. Juni 2006 über die universitären Medizinalberufe (Medizinalberufegesetz, MedBG)[^ingress-1], des Bundesgesetzes vom 18. März 2011 über die Psychologieberufe (Psychologieberufegesetz, PsyG)[^ingress-2], des Bundesgesetzes vom 30. September 2016 über die Gesundheitsberufe (Gesundheitsberufegesetz, GesBG)[^ingress-3], des Bundesgesetzes vom 18. März 1994 über die Krankenversicherung (KVG)[^ingress-4], des Bundesgesetzes vom 30. September 2011 über die Forschung am Menschen (Humanforschungsgesetz, HFG)[^ingress-5], des Bundesgesetzes vom 8. Oktober 2004 über die Transplantation von Organen, Geweben und Zellen (Transplantationsgesetz)[^ingress-6], des Bundesgesetzes vom 19. Juni 2015 über das elektronische Patientendossier (EPDG)[^ingress-7], des Bundesgesetzes vom 18. März 2016 über die Registrierung von Krebserkrankungen (Krebsregistrierungsgesetz, KRG)[^ingress-8], des Bundesgesetzes vom 28. September 2012 über die Bekämpfung übertragbarer Krankheiten des Menschen (Epidemiengesetz, EpG)[^ingress-9] und des Bundesgesetzes vom 15. Dezember 2000 über Arzneimittel und Medizinprodukte (Heilmittelgesetz, HMG)[^ingress-10],
 
 beschliesst:
 
@@ -212,9 +211,11 @@ beschliesst:
 
 #### Art. 12c
 
-**Kantonale Massnahmen 1. Sicherstellung der medizinischen Grundversorgung**
+**Kantonale Massnahmen 1. Sicherstellung der ambulanten Grundversorgung**
 
 <sup>1</sup> Der Kanton kann den Aufbau und Betrieb ambulanter medizinischer Einrichtungen mit Beiträgen oder anderen geeigneten Massnahmen unterstützen, wenn die ambulante medizinische Grundversorgung der Bevölkerung nicht hinreichend gewährleistet ist.
+
+<sup>1a</sup> Er kann Projekte und Massnahmen zur Sicherstellung der ambulanten Grundversorgung der Bevölkerung mit Beiträgen oder anderen geeigneten Mitteln unterstützen.
 
 <sup>2</sup> Der Regierungsrat entscheidet im Rahmen der bewilligten Kredite über die Unterstützung; er kann mit Dritten Leistungsvereinbarungen abschliessen.
 
@@ -311,23 +312,27 @@ beschliesst:
 
 <sup>1</sup> Fachlich ausgebildete Personen bedürfen keiner Berufsausübungsbewilligung, wenn:
 
-- 1\. sie unselbständig tätig sind;
-- 2\. die Anforderungen an eine Berufsausübungsbewilligung noch nicht erfüllen; und
-- 3\. unter der Verantwortung und Aufsicht einer Gesundheitsfachperson mit der entsprechenden Bewilligung stehen.
+- 1\. sie fachlich nicht eigenverantwortlich tätig sind und unter der Aufsicht einer Gesundheitsfachperson mit der entsprechenden Bewilligung stehen; und
+- 2\. die Anforderungen an eine Berufsausübungsbewilligung noch nicht erfüllen.
+- 3\. …
 
 <sup>2</sup> Die Gesundheitsfachperson hat dem Amt den Einsatz der Fachassistenz binnen 20 Tagen nach Beginn des Arbeitsverhältnisses zu melden.
 
+<sup>3</sup> Für die Beschäftigung von Fachassistentinnen und Fachassistenten durch Ärztinnen und Ärzte gelten die Richtlinien des Schweizerischen Instituts für ärztliche Weiterbildung und Fortbildung (SIWF)[^19-1].
+
+[^19-1]: https://www.siwf.ch/
+
 #### Art. 20
 
-**2. bei Zulassung in anderem Kanton**
+**2. bei Bewilligungen in anderen Kantonen**
 
-<sup>1</sup> Gesundheitsfachpersonen, die zur Berufsausübung in anderen Kantonen zugelassen sind, benötigen keine Bewilligung:
+<sup>1</sup> Gesundheitsfachpersonen, die über eine Berufsausübungsbewilligung eines anderen Kantons verfügen, benötigen für eine bewilligungspflichtige Tätigkeit im Kanton keine Bewilligung:
 
 - 1\. wenn sie von der behandelnden Fachperson im Kanton Nidwalden in Einzelfällen zugezogen werden;
 - 2\. für die berufliche Besuchstätigkeit von ihrem Wohnort aus;
 - 3\. wenn sie privatwirtschaftlich in eigener fachlicher Verantwortung eine der folgenden Tätigkeiten ausüben:
   - a) einen universitären Medizinalberuf im Rahmen von Art. 35 Abs. 2 MedBG[^20-1];
-  - b) den Beruf der Psychotherapeutin oder des Psychotherapeuten im Rahmen von Art. 23 Abs. 1 PsyG[^20-2]; oder
+  - b) den Beruf der Psychotherapeutin oder des Psychotherapeuten im Rahmen von Art. 23 Abs. 2 PsyG[^20-2]; oder
   - c) einen Gesundheitsfachberuf im Rahmen von Art. 15 Abs. 2 GesBG[^20-3].
 
 [^20-1]: SR 811.11
@@ -344,7 +349,7 @@ beschliesst:
 - 2\. die Psychotherapeutinnen und Psychotherapeuten gemäss PsyG[^21-2];
 - 3\. die Gesundheitsfachberufe gemäss GesBG[^21-3];
 - 4\. weitere Leistungserbringer gemäss KVG[^21-4];
-- 5\. die vom Regierungsrat durch Verordnung bezeichneten Berufe mit besonderem Gefährdungspotential.
+- 5\. die Berufe gemäss der interkantonalen Vereinbarung über die Anerkennung von Ausbildungsabschlüssen[^21-5] (Art. 12ter i.V.m. Art. A1-1), die im Nationalen Register der nicht-universitären Gesundheitsberufe (NAREG) aufgeführt sind.
 
 <sup>2</sup> Der Regierungsrat regelt durch Verordnung die fachlichen Voraussetzungen für die Erteilung der Berufsausübungsbewilligung und die Berufsausübung.
 
@@ -352,6 +357,7 @@ beschliesst:
 [^21-2]: SR 935.81
 [^21-3]: SR 811.21
 [^21-4]: SR 832.10
+[^21-5]: NG 311.5
 
 #### Art. 22
 
@@ -367,7 +373,7 @@ beschliesst:
 
 **Meldepflichtige Tätigkeiten**
 
-<sup>1</sup> Der Regierungsrat kann nicht bewilligungspflichtige Tätigkeiten beziehungsweise Berufe:
+<sup>1</sup> Der Regierungsrat kann in einer Verordnung nicht bewilligungspflichtige Tätigkeiten beziehungsweise Berufe:
 
 - 1\. einer Meldepflicht unterstellen;
 - 2\. verbieten, wenn diese eine Gefährdung von Leib und Leben zur Folge haben.
@@ -414,28 +420,34 @@ beschliesst:
 
 #### Art. 27
 
-**Erlöschen der Bewilligung, Unterbrechung**
+**Erlöschen der Bewilligung, Meldepflicht bei Unterbrechung**
 
 <sup>1</sup> Die Bewilligung erlischt:
 
-- 1\. mit dem Tod;
-- 2\. mit der Vollendung des 70. Altersjahres; die Bewilligung kann auf Gesuch hin um jeweils zwei Jahre verlängert werden, sofern die Voraussetzungen für deren Erteilung gegeben sind;
-- 3\. bei schriftlicher Verzichtserklärung gegenüber der Bewilligungsinstanz;
-- 4\. aufgrund eines rechtskräftig verfügten Entzugs.
+- 1\. wenn die Berufstätigkeit innert einer Frist von zwölf Monaten seit der Erteilung der Bewilligung nicht aufgenommen wird;
+- 2\. mit dem Ablauf einer Befristung;
+- 3\. mit der Aufgabe der Berufstätigkeit während zweier Jahre;
+- 4\. durch schriftliche Verzichtserklärung gegenüber der Bewilligungsinstanz;
+- 5\. aufgrund eines Berufsverbots;
+- 6\. aufgrund eines dauerhaften und vollständigen Entzugs;
+- 7\. mit der Vollendung des 70. Altersjahres; die Bewilligung kann auf Gesuch hin um jeweils zwei Jahre verlängert werden, sofern die Voraussetzungen für deren Erteilung gegeben sind;
+- 8\. mit dem Tod der Gesundheitsfachperson.
 
-<sup>2</sup> Gesundheitsfachpersonen haben der Bewilligungsinstanz das vorübergehende Einstellen sowie die Wiederaufnahme der Tätigkeit mitzuteilen.
+<sup>2</sup> Gesundheitsfachpersonen haben das vorübergehende Einstellen der Berufstätigkeit und deren Wiederaufnahme der Bewilligungsinstanz jeweils innert einer Frist von 30 Tagen zu melden.
 
 #### Art. 28
 
 **Veröffentlichung**
 
-<sup>1</sup> Erteilung und Entzug der Bewilligung werden durch die Bewilligungsinstanz im Amtsblatt veröffentlicht.
+<sup>1</sup> Die Erteilung und der Entzug von Bewilligungen ist in den nationalen Registern der Gesundheitsberufe zu veröffentlichen.
 
 #### Art. 29
 
 **Aufsicht**
 
-<sup>1</sup> Die Bewilligungsinstanz hat die Aufsicht über die bewilligungspflichtigen Tätigkeiten. Sie führt die nötigen Kontrollen durch und trifft die notwendigen Massnahmen. Dazu ist ihr der Zugang zu den Räumlichkeiten, Einrichtungen und Aufzeichnungen zu gewähren.
+<sup>1</sup> Die Bewilligungsinstanz übt die Aufsicht über die bewilligungs- und die meldepflichtigen Tätigkeiten aus.
+
+<sup>2</sup> Sie führt die erforderlichen Kontrollen durch und trifft die notwendigen Massnahmen. Hierzu ist ihr bei Bedarf Zugang zu den Räumlichkeiten, Einrichtungen und Aufzeichnungen zu gewähren.
 
 ### 3.2 Rechte und Pflichten bei der Berufsausübung
 
@@ -459,9 +471,9 @@ beschliesst:
 
 **Meldepflicht, Melderecht**
 
-<sup>1</sup> Gesundheitsfachpersonen haben aussergewöhnliche Todesfälle unverzüglich der Kantonspolizei zu melden.
+<sup>1</sup> Gesundheitsfachpersonen haben aussergewöhnliche Todesfälle im Rahmen ihrer beruflichen Tätigkeit unverzüglich der Kantonspolizei zu melden.
 
-<sup>2</sup> Sie sind berechtigt, Wahrnehmungen, die auf eine mögliche Straftat gegen Leib und Leben, die Freiheit, die sexuelle Integrität oder die öffentliche Gesundheit schliessen lassen, der Kantonspolizei zu melden.
+<sup>2</sup> Sie sind berechtigt, Wahrnehmungen im Rahmen ihrer beruflichen Tätigkeit, die auf ein Verbrechen gegen Leib und Leben, die sexuelle Integrität oder die öffentliche Gesundheit schliessen lassen, der Kantonspolizei zu melden.
 
 #### Art. 33
 
@@ -680,6 +692,22 @@ beschliesst:
 <sup>1</sup> Unheilbar kranke und sterbende Menschen haben Anspruch auf eine angemessene Behandlung und Betreuung mittels medizinischer, pflegerischer und begleitender Palliativmassnahmen, wenn eine kurative Behandlung als aussichtslos erscheint.
 
 <sup>2</sup> Es sind eine würdevolle Sterbebegleitung und ein würdevolles Abschiednehmen von der verstorbenen Person zu ermöglichen.
+
+#### Art. 43b
+
+**Assistierter Suizid 1. Rechte und Pflichten der Bewohnenden**
+
+<sup>1</sup> Volljährige und urteilsfähige Bewohnende in Institutionen gemäss Art. 38 Abs. 1 Ziff. 2 haben das Recht, von ihrer persönlichen Freiheit Gebrauch zu machen und ihr Leben zu beenden. Sie haben die Institution über diesen Willen zu informieren.
+
+<sup>2</sup> Bewohnende, die in einer Institution durch assistierten Suizid sterben wollen, haben dies diskret vorzunehmen und dabei die persönliche Wertehaltung von Mitbewohnenden und Mitarbeitenden zu wahren.
+
+#### Art. 43c
+
+**2. Pflichten der Institutionen**
+
+<sup>1</sup> Die Institutionen haben die Entscheidung ihrer Bewohnenden zu respektieren, die durch assistierten Suizid mit einer einrichtungsexternen Hilfe sterben wollen.
+
+<sup>2</sup> Die Institution und deren Personal sind nicht verpflichtet, sich an einem assistierten Suizid zu beteiligen. Sie können sterbewillige Personen diskret und würdevoll begleiten.
 
 #### Art. 44
 
@@ -1314,6 +1342,14 @@ beschliesst:
 <sup>3</sup> Der Anspruch auf Investitionsdarlehen erlischt, wenn nicht binnen fünf Jahren nach Inkrafttreten der Änderung vom 22. Oktober 2014 eine rechtskräftige Baubewilligung für die Ersatzbaute vorliegt. Bei Erlöschen des Anspruchs sind bereits geleistete Investitionsdarlehen zurückzuzahlen.
 
 [^93d-1]: NG 761.1, A 1997, 165, 626
+
+#### Art. 93e
+
+**Übergangsbestimmung zur Änderung vom 25. März 2026**
+
+<sup>1</sup> Vor dem Inkrafttreten der Änderung des Gesundheitsgesetzes[^93e-1] vom 25. März 2026 erteilte Berufsausübungsbewilligungen für komplementärmedizinische Tätigkeiten in den Bereichen Ayurveda-Medizin, Homöopathie, Traditionelle chinesische Medizin (TCM) und traditionelle europäische Naturheilkunde erlöschen sieben Jahre nach dem Inkrafttreten dieser Änderung, sofern nicht ein eidgenössisches Diplom als Naturheilpraktikerin oder Naturheilpraktiker in einer der obgenannten Fachrichtung vorgewiesen werden kann.
+
+[^93e-1]: NG 711.1
 
 #### Art. 94
 
