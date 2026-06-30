@@ -4,11 +4,11 @@ title: "Verordnung vom 3. Juni 2016 über die Kontrolle zivil und militärisch v
 short: GKV
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/352"
 language: de
-version: 2025-11-15
+version: 2026-07-01
 adopted: 2016-06-03
 in_force: 2016-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/352/20251115/de/xml/fedlex-data-admin-ch-eli-cc-2016-352-20251115-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/352/20251115/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/352/20260701/de/xml/fedlex-data-admin-ch-eli-cc-2016-352-20260701-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/352/20260701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/352/20251115/de"
 
 (Güterkontrollverordnung, GKV)
 
-vom 3. Juni 2016 (Stand am 15. November 2025)
+vom 3. Juni 2016 (Stand am 1. Juli 2026)
 
 Der Schweizerische Bundesrat,
 
@@ -506,11 +506,13 @@ Vereinigtes Königreich
 
 Zypern
 
-Anhang 7
+Anhang 7[^t-3]
 
-(Art. 12 Abs. 1)
+(Art. 12 Abs. 1, 13 und 24 Abs. 4 Bst. a)
 
-## Liste der Staaten nach Artikel 12 Absatz 1
+## Liste der Staaten, für die ordentliche Generalausfuhrbewilligungen erteilt werden können
+
+[^t-3]: Fassung gemäss Ziff. I der V vom 27. Mai 2026, in Kraft seit 1. Juli 2026 ([AS 2026 311](https://fedlex.data.admin.ch/eli/oc/2026/311)).
 
 Argentinien
 
@@ -524,6 +526,8 @@ Dänemark
 
 Deutschland
 
+Estland
+
 Finnland
 
 Frankreich
@@ -532,13 +536,23 @@ Griechenland
 
 Irland
 
+Island
+
 Italien
 
 Japan
 
 Kanada
 
+Kroatien
+
+Lettland
+
+Litauen
+
 Luxemburg
+
+Malta
 
 Neuseeland
 
@@ -552,13 +566,19 @@ Polen
 
 Portugal
 
+Rumänien
+
 Schweden
+
+Slowakei
+
+Slowenien
 
 Spanien
 
 Südkorea
 
-Tschechische Republik
+Tschechien
 
 Türkei
 
@@ -566,9 +586,11 @@ Ukraine
 
 Ungarn
 
+Vereinigte Staaten
+
 Vereinigtes Königreich
 
-Vereinigte Staaten von Amerika
+Zypern
 
 Anhang 8
 

@@ -4,11 +4,11 @@ title: "Ordinanza del 3 giugno 2016 sul controllo dei beni utilizzabili a fini c
 short: OBDI
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/352"
 language: it
-version: 2025-11-15
+version: 2026-07-01
 adopted: 2016-06-03
 in_force: 2016-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/352/20251115/it/xml/fedlex-data-admin-ch-eli-cc-2016-352-20251115-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/352/20251115/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/352/20260701/it/xml/fedlex-data-admin-ch-eli-cc-2016-352-20260701-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/352/20260701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/352/20251115/it"
 
 (Ordinanza sul controllo dei beni a duplice impiego, OBDI)
 
-del 3 giugno 2016 (Stato 15 novembre 2025)
+del 3 giugno 2016 (Stato 1° luglio 2026)
 
 Il Consiglio federale svizzero,
 
@@ -506,11 +506,13 @@ Svezia
 
 Ungheria
 
-Allegato 7
+Allegato 7[^t-3]
 
-(art. 12 cpv. 1)
+(art. 12 cpv. 1, art. 13 e art. 24 cpv. 4 lett. a)
 
-## Elenco degli Stati di cui all’articolo 12 capoverso 1
+## Elenco degli Stati per i quali può essere rilasciata un’autorizzazione generale ordinaria d’esportazione
+
+[^t-3]: Nuovo testo giusta la cifra I dell’O del 27 mag. 2026, in vigore dal 1° lug. 2026 ([RU 2026 311](https://fedlex.data.admin.ch/eli/oc/2026/311)).
 
 Argentina
 
@@ -524,9 +526,17 @@ Bulgaria
 
 Canada
 
-Corea (Sud)
+Cechia
+
+Cipro
+
+Corea del Sud
+
+Croazia
 
 Danimarca
+
+Estonia
 
 Finlandia
 
@@ -540,9 +550,17 @@ Grecia
 
 Irlanda
 
+Islanda
+
 Italia
 
+Lettonia
+
+Lituania
+
 Lussemburgo
+
+Malta
 
 Norvegia
 
@@ -556,11 +574,15 @@ Portogallo
 
 Regno Unito
 
-Repubblica ceca
+Romania
+
+Slovacchia
+
+Slovenia
 
 Spagna
 
-Stati Uniti d’America
+Stati Uniti
 
 Svezia
 

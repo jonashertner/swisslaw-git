@@ -4,11 +4,11 @@ title: "Ordonnance du 3 juin 2016 sur le contrôle des biens utilisables à des 
 short: OCB
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/352"
 language: fr
-version: 2025-11-15
+version: 2026-07-01
 adopted: 2016-06-03
 in_force: 2016-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/352/20251115/fr/xml/fedlex-data-admin-ch-eli-cc-2016-352-20251115-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/352/20251115/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/352/20260701/fr/xml/fedlex-data-admin-ch-eli-cc-2016-352-20260701-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/352/20260701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/352/20251115/fr"
 
 (Ordonnance sur le contrôle des biens, OCB)
 
-du 3 juin 2016 (État le 15 novembre 2025)
+du 3 juin 2016 (État le 1<sup>er</sup> juillet 2026)
 
 Le Conseil fédéral suisse,
 
@@ -506,11 +506,13 @@ République tchèque
 
 Cité du Vatican
 
-Annexe 7
+Annexe 7[^t-3]
 
-(art. 12, al. 1)
+(art. 12, al. 1, 13 et 24, al. 4, let. a)
 
-## Liste des États visés à l’art. 12, al. 1
+## Liste des États pour lesquels une licence générale ordinaire d’exportation peut être délivrée
+
+[^t-3]: Nouvelle teneur selon le ch. I de l’O du 27 mai 2026, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2026 311](https://fedlex.data.admin.ch/eli/oc/2026/311)).
 
 Allemagne
 
@@ -526,11 +528,17 @@ Bulgarie
 
 Canada
 
-République de Corée
+Chypre
+
+Corée du Sud
+
+Croatie
 
 Danemark
 
 Espagne
+
+Estonie
 
 États-Unis
 
@@ -544,11 +552,19 @@ Hongrie
 
 Irlande
 
+Islande
+
 Italie
 
 Japon
 
+Lettonie
+
+Lituanie
+
 Luxembourg
+
+Malte
 
 Norvège
 
@@ -560,11 +576,17 @@ Pologne
 
 Portugal
 
+Roumanie
+
 Royaume-Uni
+
+Slovaquie
+
+Slovénie
 
 Suède
 
-République tchèque
+Tchéquie
 
 Turquie
 

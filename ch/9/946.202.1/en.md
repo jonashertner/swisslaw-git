@@ -4,11 +4,11 @@ title: "Ordinance of 3 June 2016 on the Export, Import and Transit of Dual Use G
 short: GCO
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/352"
 language: en
-version: 2025-11-15
+version: 2026-07-01
 adopted: 2016-06-03
 in_force: 2016-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/352/20251115/en/xml/fedlex-data-admin-ch-eli-cc-2016-352-20251115-en-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/352/20251115/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/352/20260701/en/xml/fedlex-data-admin-ch-eli-cc-2016-352-20260701-en-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/352/20260701/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Goods Control Ordinance, GCO)
 
-of 3 June 2016 (Status as of 15 November 2025)
+of 3 June 2016 (Last amended on 1 July 2026)
 
 The Swiss Federal Council,
 
@@ -508,11 +508,13 @@ Vatican City
 
 United Kingdom
 
-Annex 7
+Annex 7[^t-3]
 
-(Art. 12 para. 1)
+(Art. 12 para. 1, 13 and 24 para. 4 let. a)
 
-## List of States in accordance with Article 12 paragraph 1
+## List of states for which ordinary general export licences may be issued
+
+[^t-3]: Amended by No I of the O of 27 May 2026, in force since 1 July 2026 ([AS 2026 311](https://fedlex.data.admin.ch/eli/oc/2026/311)).
 
 Argentina
 
@@ -526,9 +528,15 @@ Bulgaria
 
 Canada
 
+Croatia
+
+Cyprus
+
 Czech Republic
 
 Denmark
+
+Estonia
 
 Finland
 
@@ -540,17 +548,25 @@ Greece
 
 Hungary
 
+Iceland
+
 Ireland
 
 Italy
 
 Japan
 
+Latvia
+
+Lithuania
+
 Luxembourg
 
-New Zealand
+Malta
 
 Netherlands
+
+New Zealand
 
 Norway
 
@@ -558,11 +574,17 @@ Poland
 
 Portugal
 
-Sweden
+Romania
+
+Slovakia
+
+Slovenia
 
 Spain
 
 South Korea
+
+Sweden
 
 Turkey
 
@@ -570,7 +592,7 @@ Ukraine
 
 United Kingdom
 
-United States of America
+United States
 
 Annex 8
 
@@ -582,4 +604,4 @@ The legislation below is amended as follows:
 
 ...[^annex8-lvlu1-1]
 
-[^annex8-lvlu1-1]: The amendments may be consulted under [AS 2016 2195](https://fedlex.data.admin.ch/eli/oc/2016/352)..
+[^annex8-lvlu1-1]: The amendments may be consulted under [AS 2016 2195](https://fedlex.data.admin.ch/eli/oc/2016/352).
