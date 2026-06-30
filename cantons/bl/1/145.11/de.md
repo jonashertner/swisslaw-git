@@ -4,13 +4,12 @@ number: "145.11"
 title: Dienstordnung der Sicherheitsdirektion
 short: Do SID
 language: de
-version: 2026-01-01
-valid_until: 2026-06-30
-version_adopted: 2025-12-16
+version: 2026-07-01
+version_adopted: 2026-04-28
 adopted: 2024-12-17
 in_force: 2025-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/145.11"
-pdf: "https://bl.clex.ch/api/de/versions/4386/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/4460/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://bl.clex.ch/api/de/versions/4386/pdf_file"
 
 (Do SID)
 
-Vom 17.12.2024 (Stand 01.01.2026)
+Vom 17.12.2024 (Stand 01.07.2026)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -207,7 +206,8 @@ beschliesst:
 - c. Kriminalpolizei;
 - d. Verkehrspolizei;
 - e. Planung und Einsatz;
-- f. Kommandobereiche.
+- f. Betriebsmanagement;
+- g. Polizeitechnik.
 
 #### § 17
 
