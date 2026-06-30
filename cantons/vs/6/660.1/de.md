@@ -4,13 +4,12 @@ number: "660.1"
 title: "Ausführungsgesetz zum Bundesgesetz über die Wehrpflichtersatzabgabe *"
 short: AGWPEG
 language: de
-version: 2024-01-01
-valid_until: 2026-06-30
-version_adopted: 2022-03-11
+version: 2026-07-01
+version_adopted: 2025-11-13
 adopted: 1998-02-11
 in_force: 1999-01-01
 url: "https://lex.vs.ch/app/de/texts_of_law/660.1"
-pdf: "https://lex.vs.ch/api/de/versions/3159/pdf_file"
+pdf: "https://lex.vs.ch/api/de/versions/3629/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,11 +18,13 @@ pdf: "https://lex.vs.ch/api/de/versions/3159/pdf_file"
 
 (AGWPEG)
 
-vom 11.02.1998 (Stand 01.01.2024)
+vom 11.02.1998 (Stand 01.07.2026)
 
 Der Grosse Rat des Kantons Wallis
 
-eingesehen Artikel 22 Absatz 4 des Bundesgesetzes über die Wehrpflichtersatzabgabe vom 12. Juni 1959 (WPEG);
+eingesehen die Artikel 11, 22, 24, 30 und 37 des Bundesgesetzes über die Wehrpflichtersatzabgabe vom 12. Juni 1959 (WPEG);
+
+eingesehen die eidgenössische Verordnung über die Wehrpflichtersatzabgabe vom 30. August 1995 (WPEV);
 
 eingesehen die Artikel 31 Absatz 3 Buchstabe a und 42 Absatz 2 der Kantonsverfassung;
 
@@ -41,7 +42,7 @@ verordnet:
 
 <sup>1</sup> …
 
-<sup>2</sup> Das vorliegende Ausführungsgesetz regelt die Organisation und die Amtsführung der mit der Erhebung der Wehrpflichtersatzabgabe (nachfolgend: Ersatzabgabe) betrauten kantonalen Behörden.
+<sup>2</sup> Dieses Gesetz regelt die Organisation der kantonalen Behörden und legt die Modalitäten für die Anwendung der Bundesgesetzgebung über die Wehrpflichtersatzabgabe (nachstehend: Ersatzabgabe) fest.
 
 #### Art. 2
 
@@ -71,7 +72,7 @@ verordnet:
 
 #### Art. 4
 
-**Kantonale Rekurskommission**
+**Rekursinstanz**
 
 <sup>1</sup> Die steuerrechtliche Abteilung des Kantonsgerichts ist im Bereich der Ersatzabgabe als kantonale Rekursbehörde tätig.
 
@@ -98,7 +99,7 @@ verordnet:
 
 **Gebühren**
 
-<sup>1</sup> Für die Betreibung wird eine Gebühr erhoben gemäss Beschluss des Staatrates betreffend den Gebührentarif der kantonalen Steuerverwaltung.
+<sup>1</sup> Für jedes eingereichte Betreibungsbegehren wird von der Sektion eine Gebühr von 40 Franken erhoben.
 
 #### Art. 6
 
@@ -118,15 +119,19 @@ verordnet:
 - b) wenn es sich um eine amtliche Einschätzung handelt;
 - c) wenn die Ersatzabgabe schon bezahlt wurde.
 
+<sup>2</sup> Die Sektion entscheidet über ein Erlassgesuch. Gegen diesen Entscheid kann innerhalb von 30 Tagen nach seiner Eröffnung bei der steuerrechtlichen Abteilung des Kantonsgerichts Beschwerde erhoben werden.
+
+<sup>3</sup> Der Entscheid der steuerrechtlichen Abteilung des Kantonsgerichts ist endgültig.
+
 #### Art. 7
 
 **Rechtsmittel**
 
 <sup>1</sup> Die Veranlagungsentscheide und die Entscheide über die Ersatzabgabebefreiung können innert 30 Tagen nach der Eröffnung durch schriftliche Einsprache bei der Sektion angefochten werden.
 
-<sup>2</sup> Die Einspracheentscheide und die Entscheide über den Erlass der Ersatzabgabe können innert 30 Tagen nach der Eröffnung durch Beschwerde bei der steuerrechtlichen Abteilung des Kantonsgerichts angefochten werden.
+<sup>2</sup> Einspracheentscheide zur Ersatzabgabe können innert 30 Tagen nach ihrer Eröffnung durch Beschwerde an die steuerrechtliche Abteilung des Kantonsgerichts angefochten werden.
 
-<sup>3</sup> Die Entscheide der steuerrechtlichen Abteilung des Kantonsgerichts können innert 30 Tagen nach der Eröffnung beim Bundesgericht angefochten werden.
+<sup>3</sup> Die Entscheide der steuerrechtlichen Abteilung des Kantonsgerichts können innerhalb von 30 Tagen nach ihrer Eröffnung beim Bundesgericht angefochten werden, mit Ausnahme der Erlassentscheide gemäss Artikel 6a Absatz 3.
 
 <sup>4</sup> Die Revision eines rechtskräftigen Entscheides wird durch das Bundesrecht geregelt.
 
@@ -136,11 +141,11 @@ verordnet:
 
 **Strafbehörden**
 
-<sup>1</sup> Die Sektion ist zuständig für das Ausfällen einer Busse als Folge einer Gesetzeswiderhandlung, wenn die Voraussetzungen der Verhängung einer Freiheitsstrafe nicht erfüllt sind (Art. 44 Abs. 2 WPEG).
+<sup>1</sup> Für die Verhängung von Bussen bei Gesetzesverstössen ist die Sektion gemäss den Artikeln 41 und 43 WPEG zuständig.
 
-<sup>2</sup> Die Staatsanwaltschaft beurteilt mittels Strafbefehl alle Widerhandlungen, welche eine Freiheitsstrafe von maximal 6 Monaten nach sich ziehen können.
+<sup>2</sup> Sie ist verpflichtet, der Staatsanwaltschaft festgestellte Widerhandlungen gemäss den Artikeln 40 und 44 WPEG zu melden. Diese werden gemäss der Strafprozessordnung untersucht und verfolgt.
 
-<sup>3</sup> Der zuständige Bezirksrichter beurteilt Widerhandlungen im Falle einer Einsprache gegen den administrativen Strafentscheid oder den Strafbefehl.
+<sup>3</sup> Bei Einsprachen gegen die Verwaltungsstrafverfügung ist der Bezirksrichter am Gerichtsstand zuständig.
 
 <sup>4</sup> …
 
@@ -169,5 +174,11 @@ verordnet:
 #### Art. T1-1
 
 <sup>1</sup> Für Verfahren, die bei Inkrafttreten dieses Gesetzes rechtshängig sind, gilt das bisherige Recht.
+
+## T2 Übergangsbestimmung der Änderung vom 13. November 2025
+
+#### Art. T2-1
+
+<sup>1</sup> Die beim Inkrafttreten dieser Gesetzesänderung hängigen Verfahren werden nach bisherigem Recht weitergeführt.
 
 CSW RO/AGS 1998 f 174 | d 187

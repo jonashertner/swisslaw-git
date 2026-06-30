@@ -4,13 +4,12 @@ number: "660.1"
 title: "Loi d'application de la loi fédérale sur la taxe d'exemption de l'obligation de servir"
 short: LALTEO
 language: fr
-version: 2024-01-01
-valid_until: 2026-06-30
-version_adopted: 2022-03-11
+version: 2026-07-01
+version_adopted: 2025-11-13
 adopted: 1998-02-11
 in_force: 1999-01-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/660.1"
-pdf: "https://lex.vs.ch/api/fr/versions/3159/pdf_file"
+pdf: "https://lex.vs.ch/api/fr/versions/3629/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
@@ -19,11 +18,13 @@ pdf: "https://lex.vs.ch/api/fr/versions/3159/pdf_file"
 
 (LALTEO)
 
-du 11.02.1998 (état 01.01.2024)
+du 11.02.1998 (état 01.07.2026)
 
 Le Grand Conseil du canton du Valais
 
-vu l'article 22 alinéa 4 de la loi fédérale sur la taxe d'exemption de l'obligation de servir du 12 juin 1959 (LTEO);
+vu les articles 11, 22, 24, 30 et 37 de la loi fédérale sur la taxe d'exemption de l'obligation de servir du 12 juin 1959 (LTEO);
+
+vu l'ordonnance fédérale sur la taxe d'exemption de l'obligation de servir du 30 août 1995 (OTEO);
 
 vu les articles 31 alinéa 3 lettre a et 42 alinéa 2 de la Constitution cantonale;
 
@@ -41,7 +42,7 @@ ordonne:
 
 <sup>1</sup> …
 
-<sup>2</sup> La présente loi d'application règle l'organisation et la gestion des autorités cantonales chargées de percevoir la taxe d'exemption de l'obligation de servir (ci-après: la taxe d'exemption).
+<sup>2</sup> La présente loi organise les autorités cantonales et définit les modalités d'application de la législation fédérale sur la taxe d’exemption de l’obligation de servir (ci-après: taxe d’exemption).
 
 #### Art. 2
 
@@ -71,7 +72,7 @@ ordonne:
 
 #### Art. 4
 
-**Commission cantonale de recours**
+**Autorité de recours\***
 
 <sup>1</sup> La Cour de droit fiscal du Tribunal cantonal fonctionne comme autorité cantonale de recours en matière de taxe d'exemption.
 
@@ -98,7 +99,7 @@ ordonne:
 
 **Emoluments**
 
-<sup>1</sup> Pour la mise en poursuite, il est perçu un émolument selon l’arrêté du Conseil d’Etat fixant les émoluments du Service cantonal des contributions.
+<sup>1</sup> Un émolument de 40 francs est perçu par la section pour chaque réquisition de poursuite introduite.
 
 #### Art. 6
 
@@ -118,15 +119,19 @@ ordonne:
 - b) s’il s’agit d’une taxation d’office;
 - c) si la taxe d’exemption est déjà payée.
 
+<sup>2</sup> La section rend une décision sur une demande de remise. Cette décision peut faire l'objet d'un recours auprès de la Cour de droit fiscal du Tribunal cantonal dans les 30 jours suivant sa notification.
+
+<sup>3</sup> La décision de la Cour de droit fiscal du Tribunal cantonal est définitive.
+
 #### Art. 7
 
 **Voies de droit**
 
 <sup>1</sup> Les décisions de taxation et les décisions sur l'exonération de la taxe d'exemption peuvent faire l'objet d'une réclamation écrite à la section dans les 30 jours suivant leur notification.
 
-<sup>2</sup> Les décisions sur réclamation et les décisions sur remise de la taxe d'exemption peuvent être attaquées par voie de recours à la Cour de droit fiscal du Tribunal cantonal dans les 30 jours suivant leur notification.
+<sup>2</sup> Les décisions sur réclamation de la taxe d'exemption peuvent être attaquées par voie de recours à la Cour de droit fiscal du Tribunal cantonal dans les 30 jours suivant leur notification.
 
-<sup>3</sup> Les décisions de la Cour de droit fiscal du Tribunal cantonal peuvent faire l'objet d'un recours devant le Tribunal fédéral dans les 30 jours suivant leur notification.
+<sup>3</sup> Les décisions de la Cour de droit fiscal du Tribunal cantonal peuvent faire l'objet d'un recours devant le Tribunal fédéral dans les 30 jours suivant leur notification, à l'exception des décisions sur remise prévues à l'article 6a alinéa 3.
 
 <sup>4</sup> La révision d'une décision entrée en force est réglée par le droit fédéral.
 
@@ -136,11 +141,11 @@ ordonne:
 
 **Autorités pénales**
 
-<sup>1</sup> La section est compétente pour prononcer les amendes résultant d'une violation de la loi lorsque les conditions requises pour prononcer une peine privative de liberté ne sont pas remplies (art. 44 al. 2 LTEO).
+<sup>1</sup> La section est compétente pour prononcer les amendes en cas de violation de la loi, conformément aux articles 41 et 43 LTEO.
 
-<sup>2</sup> Le ministère public est compétent pour sanctionner, par une ordonnance pénale, toute infraction passible d'une peine privative de liberté de 6 mois au plus.
+<sup>2</sup> La section est tenue de signaler au Ministère public les infractions constatées aux articles 40 et 44 LTEO. Celles-ci sont instruites et poursuivies conformément au Code de procédure pénale.
 
-<sup>3</sup> Le juge de district du for connaît des infractions en cas d'opposition au prononcé pénal administratif ou à l'ordonnance pénale.
+<sup>3</sup> Le juge de district du for connaît des infractions en cas d'opposition au prononcé pénal administratif.
 
 <sup>4</sup> …
 
@@ -169,5 +174,11 @@ ordonne:
 #### Art. T1-1
 
 <sup>1</sup> Les procédures pendantes au moment de l'entrée en vigueur du présent acte législatif se poursuivent selon l'ancien droit.
+
+## T2 Disposition transitoire de la modification du 13 novembre 2025
+
+#### Art. T2-1
+
+<sup>1</sup> Les procédures pendantes au moment de l'entrée en vigueur de la présente modification législative se poursuivent selon l'ancien droit.
 
 RCV RO/AGS 1998 f 174 | d 187
