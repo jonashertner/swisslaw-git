@@ -4,11 +4,11 @@ title: Verordnung vom 6. Oktober 1997 über die Adressierungselemente im Fernmel
 short: AEFV
 eli: "https://fedlex.data.admin.ch/eli/cc/1997/2879_2879_2879"
 language: de
-version: 2023-09-01
+version: 2026-07-01
 adopted: 1997-10-06
 in_force: 1998-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1997/2879_2879_2879/20230901/de/xml/fedlex-data-admin-ch-eli-cc-1997-2879_2879_2879-20230901-de-xml-8.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1997/2879_2879_2879/20230901/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1997/2879_2879_2879/20260701/de/xml/fedlex-data-admin-ch-eli-cc-1997-2879_2879_2879-20260701-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1997/2879_2879_2879/20260701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1997/2879_2879_2879/20230901/de"
 
 (AEFV)
 
-vom 6. Oktober 1997 (Stand am 1. September 2023)
+vom 6. Oktober 1997 (Stand am 1. Juli 2026)
 
 Der Schweizerische Bundesrat,
 
@@ -25,7 +25,7 @@ gestützt auf die Artikel 12*b*, 28 Absätze 2, 3, 4 und 6, 28*a* Absatz 4, 59 A
 
 verordnet:
 
-[^ingress-1]: [SR 784.10](https://fedlex.data.admin.ch/eli/cc/1997/2187_2187_2187)
+[^ingress-1]: [SR 784.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9171)
 [^ingress-2]: Fassung gemäss Ziff. I der V vom 18. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6243](https://fedlex.data.admin.ch/eli/oc/2020/1025)).
 
 ## 1. Kapitel: Allgemeine Bestimmungen
@@ -118,7 +118,7 @@ Stellt eine Gesuchstellerin oder ein Gesuchsteller, bei der oder dem die Zuteilu
 - b. die Vorauszahlung der einmaligen Verwaltungsgebühr für die Zuteilung des Adressierungselements sowie der geschuldeten Verwaltungsgebühren für die Verwaltung bis Ende des laufenden Jahres.[^4-9]
 
 [^4-1]: Eingefügt durch Ziff. I der V vom 5. Nov. 2014, in Kraft seit 1. Jan. 2015 ([AS 2014 4173](https://fedlex.data.admin.ch/eli/oc/2014/700)).
-[^4-2]: [SR 431.03](https://fedlex.data.admin.ch/eli/cc/2010/705)
+[^4-2]: [SR 431.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6953)
 [^4-3]: Eingefügt durch Ziff. I der V vom 5. Nov. 2014, in Kraft seit 1. Jan. 2015 ([AS 2014 4173](https://fedlex.data.admin.ch/eli/oc/2014/700)).
 [^4-4]: Fassung gemäss Ziff. I der V vom 5. Nov. 2014, in Kraft seit 1. Jan. 2015 ([AS 2014 4173](https://fedlex.data.admin.ch/eli/oc/2014/700)).
 [^4-5]: Fassung gemäss Ziff. I der V vom 5. Nov. 2014, in Kraft seit 1. Jan. 2015 ([AS 2014 4173](https://fedlex.data.admin.ch/eli/oc/2014/700)).
@@ -314,7 +314,7 @@ Die gesamte oder teilweise Übertragung der durch eine Bewilligung oder einen Ve
 
 <sup>2</sup> Die Beauftragten stellen dem BAKOM die zur Erstellung einer amtlichen Statistik erforderlichen Angaben unentgeltlich zur Verfügung. Im Übrigen gelten die Artikel 97–103 der Verordnung vom 9. März 2007[^13g-1] über Fernmeldedienste sinngemäss.[^13g-2]
 
-[^13g-1]: [SR 784.101.1](https://fedlex.data.admin.ch/eli/cc/2007/166)
+[^13g-1]: [SR 784.101.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9173)
 [^13g-2]: Fassung gemäss Ziff. I der V vom 9. März 2007, in Kraft seit 1. April 2007 ([AS 2007 1039](https://fedlex.data.admin.ch/eli/oc/2007/174)).
 
 #### Art. 13h
@@ -386,7 +386,7 @@ Die Beauftragte oder im Konkursfall die Konkursmasse muss mit der neuen Beauftra
 
 <sup>2</sup> Im Übrigen richten sich die Informationsbearbeitung durch die Beauftragten und ihre Beaufsichtigung nach den für die Bundesorgane geltenden Bestimmungen des Datenschutzgesetzes vom 25. September 2020[^13l-1].[^13l-2]
 
-[^13l-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^13l-1]: [SR 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 [^13l-2]: Fassung gemäss Anhang 2 Ziff. II 88 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 13m
@@ -712,7 +712,7 @@ Hat das Staatssekretariat für Wirtschaft (SECO) den begründeten Verdacht, dass
 <sup>2</sup> Teilt die Anbieterin dem SECO die Angaben umgehend mit, so sperrt sie die Nummer nicht.
 
 [^23c-1]: Eingefügt durch Ziff. I der V vom 18. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6243](https://fedlex.data.admin.ch/eli/oc/2020/1025)).
-[^23c-2]: [SR 241](https://fedlex.data.admin.ch/eli/cc/1988/223_223_223)
+[^23c-2]: [SR 241](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6122)
 
 #### Art. 24
 
@@ -787,7 +787,7 @@ Das BAKOM kann die Zuteilung von Nummernblöcken widerrufen, wenn über einen Ze
 <sup>2</sup> Die Inhaberin oder der Inhaber der Nummer darf für die letzten sechs Ziffern nur die bei deren Zuteilung gemeldete alphanumerische Bezeichnung nutzen. Für die Bekanntgabe der Nummer kann sie oder er diese Bezeichnung am Ende mit weiteren alphanumerischen Zeichen ergänzen. Die Fernmeldedienstanbieterinnen sind verpflichtet, die ergänzten Zeichen beim Verbindungsaufbau zu ignorieren.
 
 [^24d-1]: Eingefügt durch Ziff. I der V vom 19. Jan. 2005, in Kraft seit 1. Febr. 2005 ([AS 2005 691](https://fedlex.data.admin.ch/eli/oc/2005/76)).
-[^24d-2]: Diese Empfehlung kann bei der Internationalen Fernmeldeunion, Place des Nations, 1211 Genève, bezogen werden; siehe auch: siehe auch: www.itu.int/rec/T-REC-E/en
+[^24d-2]: Diese Empfehlung kann bei der Internationalen Fernmeldeunion, Place des Nations, 1211 Genève, bezogen werden; siehe auch: siehe auch: [www.itu.int/rec/T-REC-E/en](http://www.itu.int/rec/T-REC-E/en)
 
 #### Art. 24e
 
@@ -875,23 +875,43 @@ Die Kurznummern bestehen grundsätzlich aus drei Ziffern, von denen die erste ei
 
 #### Art. 28
 
-**Notrufdienste**[^28-1]
+**Notdienste**[^28-1]
 
 <sup>1</sup>
 
-Für die folgenden Notrufdienste stehen Kurznummern zur Verfügung:
+Für jeden der folgenden Notdienste steht eine Kurznummer zur Verfügung:
 
-- a europäische Notrufnummer;
+- a europäischer Notruf;
 - b. Polizeinotruf;
 - c. Feuerwehrnotruf;
-- d. Sanitätsnotruf;
-- e. telefonische Hilfe für Erwachsene;
-- f. telefonische Hilfe für Kinder und Jugendliche;
-- g. Vergiftungsnotruf.
+- d. Sanitätsnotruf.
 
-<sup>2</sup> Die Notrufdienste sind von Organisationen zu betreiben, die von den zuständigen Behörden anerkannt sind.
+<sup>2</sup> Die Kurznummern werden Organisationen zugeteilt, die von den zuständigen Behörden anerkannt sind.
 
-[^28-1]: Fassung gemäss Ziff. I der V vom 18. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6243](https://fedlex.data.admin.ch/eli/oc/2020/1025)).
+<sup>3</sup> Ist ein international anerkannter oder länderspezifische Identifikator (URN) vorhanden, so ordnet das BAKOM diesen in Absprache mit den Organisationen nach Absatz 2 dem Dienst zu.
+
+<sup>4</sup> Es publiziert die Liste der zugeordneten Identifikatoren.
+
+[^28-1]: Fassung gemäss Anhang Ziff. 2 der V vom 6. Mai 2026, in Kraft seit 1. Juli 2026 ([AS 2026 243](https://fedlex.data.admin.ch/eli/oc/2026/243)).
+
+#### Art. 28a
+
+**Hilfs- und Beratungsdienste**[^28a-1]
+
+<sup>1</sup>
+
+Für jeden der folgenden Hilfs- und Beratungsdienste steht eine Kurznummer zur Verfügung:
+
+- a. Hilfe für Erwachsene;
+- b. Hilfe für Kinder und Jugendliche;
+- c. Opferhilfe;
+- d. Hilfe bei Vergiftungen.
+
+<sup>2</sup> Die Kurznummern werden Organisationen zugeteilt, die von den zuständigen Behörden anerkannt sind.
+
+<sup>3</sup> Artikel 28 Absatz 3 und 4 gilt sinngemäss.
+
+[^28a-1]: Eingefügt durch Anhang Ziff. 2 der V vom 6. Mai 2026, in Kraft seit 1. Juli 2026 ([AS 2026 243](https://fedlex.data.admin.ch/eli/oc/2026/243)).
 
 #### Art. 29
 
@@ -956,12 +976,12 @@ Das BAKOM kann der Gesuchstellerin eine Kurznummer zuteilen, wenn diese Dienstle
 
 <sup>3</sup> Kurznummern für europäisch harmonisierte Dienste können in Bezug auf die Anzahl Ziffern vom Format nach Artikel 26 abweichen.
 
-<sup>3bis</sup> Verbindungen zu Kurznummern für europäisch harmonisierte Dienste von sozialem Wert müssen für die Anrufenden kostenlos sein.[^31b-2]
+<sup>3bis</sup> …[^31b-2]
 
 <sup>4</sup> Das BAKOM kann für Kurznummern für europäisch harmonisierte Dienste Nutzungsbedingungen erlassen.
 
 [^31b-1]: Eingefügt durch Ziff. I der V vom 19. Jan. 2005, in Kraft seit 1. Febr. 2005 ([AS 2005 691](https://fedlex.data.admin.ch/eli/oc/2005/76)).
-[^31b-2]: Eingefügt durch Ziff. I der V vom 4. Nov. 2009, in Kraft seit 1. Jan. 2010 ([AS 2009 5845](https://fedlex.data.admin.ch/eli/oc/2009/710)).
+[^31b-2]: Eingefügt durch Ziff. I der V vom 4. Nov. 2009 ([AS 2009 5845](https://fedlex.data.admin.ch/eli/oc/2009/710)). Aufgehoben durch Anhang Ziff. 2 der V vom 6. Mai 2026, mit Wirkung seit 1. Juli 2026 ([AS 2026 243](https://fedlex.data.admin.ch/eli/oc/2026/243)).
 
 #### Art. 32
 
@@ -970,7 +990,7 @@ Das BAKOM kann der Gesuchstellerin eine Kurznummer zuteilen, wenn diese Dienstle
 Der Zugang zum Verzeichnis und zum Vermittlungsdienst für Sehbehinderte und Personen mit eingeschränkter Mobilität im Sinne von Artikel 15 Absatz 1 Buchstabe f der Verordnung vom 9. März 2007[^32-2] über Fernmeldedienste muss über Kurznummern sichergestellt sein.
 
 [^32-1]: Fassung gemäss Ziff. I der V vom 18. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6243](https://fedlex.data.admin.ch/eli/oc/2020/1025)).
-[^32-2]: [SR 784.101.1](https://fedlex.data.admin.ch/eli/cc/2007/166)
+[^32-2]: [SR 784.101.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9173)
 
 #### Art. 33
 
@@ -1088,7 +1108,7 @@ Wenn sie ein First level DSA betreiben möchte, ist sie verpflichtet:
 
 [^40-1]: Diese Empfehlung kann bei der Internationalen Fernmeldeunion, Place des Nations, 1211 Genève 20, bezogen werden; siehe auch: www.itu.int/rec/T-REC-E/en
 [^40-2]: Diese Norm kann beim Zentralsekretariat der internationalen Normierungsorganisation, 1, rue de Varembé, 1211 Genève 20, bezogen werden.
-[^40-3]: Der Text dieser Norm kann gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
+[^40-3]: Der Text dieser Norm kann gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; [www.snv.ch](http://www.snv.ch).
 
 #### Art. 41
 
@@ -1193,7 +1213,7 @@ Auf Gesuch teilt das BAKOM einer Anbieterin von Fernmeldediensten einen Mobile N
 <sup>3</sup> Es bearbeitet die Gesuche um Zuteilung eines MNC in der Reihenfolge ihres Eingangs und solange für die Schweiz zugeteilte MNC vorhanden sind.[^47-7]
 
 [^47-1]: Fassung gemäss Ziff. I der V vom 14. Dez. 1998, in Kraft seit 1. Febr. 1999 ([AS 1999 378](https://fedlex.data.admin.ch/eli/oc/1999/40)).
-[^47-2]: Diese Empfehlung kann im Internet bei der Internationalen Fernmeldeunion gratis abgerufen werden unter www.itu.int oder bei der Internationalen Fernmeldeunion, Place des Nations, 1211 Genève 20 gratis bezogen werden.
+[^47-2]: Diese Empfehlung kann im Internet bei der Internationalen Fernmeldeunion gratis abgerufen werden unter [www.itu.int](http://www.itu.int) oder bei der Internationalen Fernmeldeunion, Place des Nations, 1211 Genève 20 gratis bezogen werden.
 [^47-3]: Fassung gemäss Ziff. I der V vom 5. Nov. 2014, in Kraft seit 1. Jan. 2015 ([AS 2014 4173](https://fedlex.data.admin.ch/eli/oc/2014/700)).
 [^47-4]: Eingefügt durch Ziff. I der V vom 5. Nov. 2014, in Kraft seit 1. Jan. 2015 ([AS 2014 4173](https://fedlex.data.admin.ch/eli/oc/2014/700)).
 [^47-5]: Fassung gemäss Ziff. I der V vom 5. Dez. 2003, in Kraft seit 1. Jan. 2004 ([AS 2003 4775](https://fedlex.data.admin.ch/eli/oc/2003/697)).
@@ -1224,7 +1244,7 @@ Auf Gesuch teilt das BAKOM einer Anbieterin von Fernmeldediensten einen Mobile N
 Auf Gesuch teilt das BAKOM ein Rufzeichen nach Anhang 42 des Radioreglements vom 17. November 1995[^47c-2] für die Übertragung von Daten auf den Frequenzen des Jedermannsfunks zu, wie es das Datenfunk-Protokoll (*Packet Radio*) verlangt.
 
 [^47c-1]: Eingefügt durch Ziff. 1 der V vom 31. Okt. 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 6581](https://fedlex.data.admin.ch/eli/oc/2012/792)).
-[^47c-2]: [SR 0.784.403.1](https://fedlex.data.admin.ch/eli/cc/2005/778)
+[^47c-2]: [SR 0.784.403.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3376)
 
 #### Art. 47d
 
@@ -1233,7 +1253,7 @@ Auf Gesuch teilt das BAKOM ein Rufzeichen nach Anhang 42 des Radioreglements vom
 Auf Gesuch teilt das BAKOM ein Rufzeichen und Kennungen für die Benutzung von Funkanlagen nach Artikel 36 Absätze 1 und 2 der Verordnung vom 18. November 2020[^47d-2] über die Nutzung des Funkfrequenzspektrums (VNF) auf Hochsee- und Rheinschiffen zu.
 
 [^47d-1]: Eingefügt durch Ziff. I der V vom 18. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6243](https://fedlex.data.admin.ch/eli/oc/2020/1025)).
-[^47d-2]: [SR 784.102.1](https://fedlex.data.admin.ch/eli/cc/2020/1024)
+[^47d-2]: [SR 784.102.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9187)
 
 #### Art. 47e
 
@@ -1242,7 +1262,7 @@ Auf Gesuch teilt das BAKOM ein Rufzeichen und Kennungen für die Benutzung von F
 Auf Gesuch teilt das BAKOM ein Rufzeichen für die Benutzung von Funkanlagen nach Artikel 36 Absatz 3 VNF[^47e-2] zur Teilnahme am Flugfunk zu.
 
 [^47e-1]: Eingefügt durch Ziff. I der V vom 18. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6243](https://fedlex.data.admin.ch/eli/oc/2020/1025)).
-[^47e-2]: [SR 784.102.1](https://fedlex.data.admin.ch/eli/cc/2020/1024)
+[^47e-2]: [SR 784.102.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9187)
 
 #### Art. 47f
 
@@ -1262,8 +1282,8 @@ Natürliche Personen, die beim BAKOM ein Amateurfunkrufzeichen beantragen, müss
 <sup>3</sup> Das BAKOM kann Amateurfunkvereinen auf Gesuch hin für höchstens ein Jahr ein Spezialrufzeichen erteilen.
 
 [^47f-1]: Eingefügt durch Ziff. I der V vom 18. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6243](https://fedlex.data.admin.ch/eli/oc/2020/1025)).
-[^47f-2]: [SR 0.784.403.1](https://fedlex.data.admin.ch/eli/cc/2005/778)
-[^47f-3]: [SR 784.102.1](https://fedlex.data.admin.ch/eli/cc/2020/1024)
+[^47f-2]: [SR 0.784.403.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3376)
+[^47f-3]: [SR 784.102.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9187)
 
 #### Art. 48
 
@@ -1312,7 +1332,7 @@ Jedes zugeteilte Adressierungselement kann vom BAKOM unter Zustimmung der bisher
 
 [^52-1]: Aufgehoben durch Ziff. I der V vom 9. März 2007, mit Wirkung seit 1. April 2007 ([AS 2007 1039](https://fedlex.data.admin.ch/eli/oc/2007/174)).
 
-### 2. Abschnitt: Übergangsbestimmungen
+### 2. Abschnitt: …
 
 #### Art. 53
 
@@ -1322,14 +1342,9 @@ Jedes zugeteilte Adressierungselement kann vom BAKOM unter Zustimmung der bisher
 
 #### Art. 54
 
-**Kurznummern**[^54-1]
+[^54-1]
 
-<sup>1</sup> Die Nummern 1600, 161, 162 und 164 können so lange in Betrieb bleiben, bis die Inhaberinnen auf den Betrieb verzichten, längstens jedoch bis zum 31. Dezember 2022. Sie dürfen nur entsprechend der Zuteilungsverfügung verwendet werden. Wird innerhalb eines Kalenderjahres die Zahl von 500 000 Anrufen nicht erreicht, so kann die betreffende Nummer widerrufen werden. Die Nummern dürfen weder übernommen noch auf andere Inhaberinnen übertragen werden.
-
-<sup>2</sup> Pannendienste, die Inhaberinnen der Nummer 140 sind, müssen den Betrieb dieser Nummer bis zum 31. Dezember 2025 einstellen. Sie informieren die Anrufenden über die beabsichtigte Ausserbetriebnahme, dürfen ihnen aber keine Ersatznummer bekanntgeben.[^54-2]
-
-[^54-1]: Fassung gemäss Ziff. I der V vom 7. Okt. 2015, in Kraft seit 1. Dez. 2015 ([AS 2015 4051](https://fedlex.data.admin.ch/eli/oc/2015/676)).
-[^54-2]: Eingefügt durch Ziff. I der V vom 18. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6243](https://fedlex.data.admin.ch/eli/oc/2020/1025)).
+[^54-1]: Aufgehoben durch Anhang Ziff. 2 der V vom 6. Mai 2026, mit Wirkung seit 1. Juli 2026 ([AS 2026 243](https://fedlex.data.admin.ch/eli/oc/2026/243)).
 
 #### Art. 54a
 
@@ -1367,7 +1382,7 @@ Anhang[^t-1]
 
 ## Begriffe und Abkürzungen
 
-[^t-1]: Fassung gemäss Ziff. II der V vom 19. Febr. 2003 ([AS 2003 397](https://fedlex.data.admin.ch/eli/oc/2003/93)). Bereinigt durch Ziff. II der V vom 5. Dez. 2003 ([AS 2003 4775](https://fedlex.data.admin.ch/eli/oc/2003/697)), vom 19. Jan. 2005 ([AS 2005 691](https://fedlex.data.admin.ch/eli/oc/2005/76)) vom 4. Nov. 2009 ([AS 2009 5845](https://fedlex.data.admin.ch/eli/oc/2009/710)) vom 5. Nov. 2014 ([AS 2014 4173](https://fedlex.data.admin.ch/eli/oc/2014/700)) und Ziff. II der V vom 18. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6243](https://fedlex.data.admin.ch/eli/oc/2020/1025)).
+[^t-1]: Fassung gemäss Ziff. II der V vom 19. Febr. 2003 ([AS 2003 397](https://fedlex.data.admin.ch/eli/oc/2003/93)). Bereinigt durch Ziff. II der V vom 5. Dez. 2003 ([AS 2003 4775](https://fedlex.data.admin.ch/eli/oc/2003/697)), vom 19. Jan. 2005 ([AS 2005 691](https://fedlex.data.admin.ch/eli/oc/2005/76)) vom 4. Nov. 2009 ([AS 2009 5845](https://fedlex.data.admin.ch/eli/oc/2009/710)) vom 5. Nov. 2014 ([AS 2014 4173](https://fedlex.data.admin.ch/eli/oc/2014/700)), Ziff. II der V vom 18. Nov. 2020 ([AS 2020 6243](https://fedlex.data.admin.ch/eli/oc/2020/1025)) und Anhang Ziff. 2 der V vom 6. Mai 2026, in Kraft seit 1. Juli 2026 ([AS 2026 243](https://fedlex.data.admin.ch/eli/oc/2026/243)).
 
 ADMD (Administration Management Domain). ADMD-Namen: Namen der Anbieterinnen von X.400<sup>a</sup> /ISO 10021<sup>b</sup>-Mitteilungsdiensten.
 
@@ -1395,6 +1410,8 @@ Herstellercode (code de prestataire, …): Code, der von den Kontrollverfahren d
 ICD (International Code Designator): Bezeichnung des Formats einer NSAP-Adresse für multinationale OSI-Netzwerke.
 
 IEC (International Electrotechnical Commission): Name der internationalen elektrotechnischen Kommission.
+
+IETF (International Engineering Task Force): Standardisierungsorganisation, die Internetstandards entwickelt und fördert.
 
 IIN (Issuer Identifier Number): Identifikationsnummer für Aussteller von internationalen Fernmelde-Kreditkarten gemäss ITU-T-Empfehlung E.118<sup>a</sup> und ISO-Norm 7812–2<sup>b</sup>.
 
@@ -1428,9 +1445,13 @@ PRMD (Private Management Domain). PRMD-Namen: Namen der Betreiber von privaten X
 
 RDN (Relative Distinguished Name). RDN-Namen: Namen der Verzeichniseinträge, deren Eindeutigkeit sich auf einen bestimmten Eintrag bezieht und die Bestandteil eines Verzeichnisnamens (Directory name) bilden.
 
+RFC (Requests for Comments): Reihe technischer und organisatorischer Dokumente zum Internet, die vom RFC-Editor herausgegeben werden.
+
 SMS (Short Message Service): Dienst, der den Nutzerinnen und Nutzern erlaubt, im Allgemeinen mittels eines Mobilfunk-Endgeräts Kurztexte auszutauschen.
 
 T-MNC (Tetra Mobile Network Code): Identifikationscode für ein PMR/PAMR-Funknetz nach der ETS-Norm 300 392-1 des ETSI.
+
+URN (Uniform Resource Name): Einheitlicher Ressourcenname für Notruf- und andere bekannte Dienste gemäss RFC 5031 der IETF.
 
 Zwischennetz (réseau intermédiaire, …): Netz für die Entkopplung von Signalisierungsnetzen SS7 (Signalling System Number 7) nach den ITU-T-Empfehlungen der Reihe Q.700<sup>a</sup>.
 

@@ -4,11 +4,11 @@ title: "Ordonnance du 6 octobre 1997 sur les ressources d'adressage dans le doma
 short: ORAT
 eli: "https://fedlex.data.admin.ch/eli/cc/1997/2879_2879_2879"
 language: fr
-version: 2023-09-01
+version: 2026-07-01
 adopted: 1997-10-06
 in_force: 1998-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1997/2879_2879_2879/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-1997-2879_2879_2879-20230901-fr-xml-8.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1997/2879_2879_2879/20230901/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1997/2879_2879_2879/20260701/fr/xml/fedlex-data-admin-ch-eli-cc-1997-2879_2879_2879-20260701-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1997/2879_2879_2879/20260701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1997/2879_2879_2879/20230901/fr"
 
 (ORAT)
 
-du 6 octobre 1997 (État le 1<sup>er</sup> septembre 2023)
+du 6 octobre 1997 (État le 1<sup>er</sup> juillet 2026)
 
 Le Conseil fédéral suisse,
 
@@ -25,7 +25,7 @@ vu les art. 12*b*, 28, al. 2, 3, 4 et 6, 28*a*, al. 4, 59, al. 3, 62 et 64, al. 
 
 arrête:
 
-[^ingress-1]: [RS 784.10](https://fedlex.data.admin.ch/eli/cc/1997/2187_2187_2187)
+[^ingress-1]: [RS 784.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9171)
 [^ingress-2]: Nouvelle teneur selon le ch. I de l’O du 18 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 6243](https://fedlex.data.admin.ch/eli/oc/2020/1025)).
 
 ## Chapitre 1 Dispositions générales
@@ -118,7 +118,7 @@ Si un requérant présente une nouvelle demande d’attribution d’une ressourc
 - b. le paiement à l’avance de l’émolument unique d’attribution de la ressource d’adressage et des émoluments dus pour la gestion jusqu’à la fin de l’année en cours.[^4-9]
 
 [^4-1]: Introduit par le ch. I de l’O du 5 nov. 2014, en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 4173](https://fedlex.data.admin.ch/eli/oc/2014/700)).
-[^4-2]: [RS 431.03](https://fedlex.data.admin.ch/eli/cc/2010/705)
+[^4-2]: [RS 431.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6953)
 [^4-3]: Introduit par le ch. I de l’O du 5 nov. 2014, en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 4173](https://fedlex.data.admin.ch/eli/oc/2014/700)).
 [^4-4]: Nouvelle teneur selon le ch. I de l’O du 5 nov. 2014, en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 4173](https://fedlex.data.admin.ch/eli/oc/2014/700)).
 [^4-5]: Nouvelle teneur selon le ch. I de l’O du 5 nov. 2014, en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 4173](https://fedlex.data.admin.ch/eli/oc/2014/700)).
@@ -315,7 +315,7 @@ Le transfert de tout ou partie des tâches essentielles prévues par une autoris
 
 <sup>2</sup> Les délégataires sont tenus de transmettre gratuitement à l’OFCOM les renseignements nécessaires à l’établissement d’une statistique officielle. Pour le surplus, les art. 97 à 103 de l’ordonnance du 9 mars 2007 sur les services de télécommunication[^13g-1] sont applicables par analogie.[^13g-2]
 
-[^13g-1]: [RS 784.101.1](https://fedlex.data.admin.ch/eli/cc/2007/166)
+[^13g-1]: [RS 784.101.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9173)
 [^13g-2]: Nouvelle teneur selon le ch. I de l’O du 9 mars 2007, en vigueur depuis le 1<sup>er</sup> avr. 2007 ([RO 2007 1039](https://fedlex.data.admin.ch/eli/oc/2007/174)).
 
 #### Art. 13h
@@ -387,7 +387,7 @@ Le délégataire ou, en cas de faillite, la masse sont tenus de collaborer et de
 
 <sup>2</sup> Pour le surplus, le traitement des informations par les délégataires et la surveillance exercée sur eux sont régis par les dispositions de la loi fédérale du 25 septembre 2020 sur la protection des données[^13l-1] applicables aux organes fédéraux.[^13l-2]
 
-[^13l-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^13l-1]: [RS 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 [^13l-2]: Nouvelle teneur selon l’annexe 2 ch. II 88 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 13m
@@ -710,7 +710,7 @@ Si le Secrétariat d’État à l’économie (SECO) a des raisons de soupçonne
 <sup>2</sup> Si le fournisseur communique immédiatement les indications au SECO, il ne bloque pas le numéro.
 
 [^23c-1]: Introduit par le ch. I de l’O du 18 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 6243](https://fedlex.data.admin.ch/eli/oc/2020/1025)).
-[^23c-2]: [RS 241](https://fedlex.data.admin.ch/eli/cc/1988/223_223_223)
+[^23c-2]: [RS 241](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6122)
 
 #### Art. 24
 
@@ -873,23 +873,43 @@ Les numéros courts sont en principe constitués de trois chiffres, dont le prem
 
 #### Art. 28
 
-**Services d’appel d’urgence**[^28-1]
+**Service d’urgence**[^28-1]
 
 <sup>1</sup>
 
-Des numéros courts sont disponibles pour les services d’appel d’urgence suivants:
+Un numéro court est disponible pour chacun des services d’urgence suivants:
 
-- a. numéro d’urgence européen;
+- a. appel d’urgence européen;
 - b. police, appel d’urgence;
 - c. feu, appel d’urgence;
-- d. sanitaire, appel d’urgence;
-- e. secours téléphonique pour les adultes;
-- f. secours téléphonique pour les enfants et les jeunes;
-- g. intoxication, appel d’urgence.
+- d. sanitaire, appel d’urgence.
 
-<sup>2</sup> Les services d’appel d’urgence doivent être exploités par des organisations reconnues par les autorités compétentes.
+<sup>2</sup> Les numéros courts sont attribués à des organisations reconnues par les autorités compétentes.
 
-[^28-1]: Nouvelle teneur selon le ch. I de l’O du 18 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 6243](https://fedlex.data.admin.ch/eli/oc/2020/1025)).
+<sup>3</sup> Si un identificateur reconnu au niveau international ou spécifique au pays (URN) est disponible, l’OFCOM l’attribue au service en accord avec les organisations visées à l’al. 2.
+
+<sup>4</sup> Il publie la liste des identificateurs attribués.
+
+[^28-1]: Nouvelle teneur selon l’annexe ch. 2 de l’O du 6 mai 2026, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2026 243](https://fedlex.data.admin.ch/eli/oc/2026/243)).
+
+#### Art. 28a
+
+**Services d’aide et de conseil**[^28a-1]
+
+<sup>1</sup>
+
+Un numéro court est disponible pour chacun des services d’aide et de conseil suivants:
+
+- a. aide aux adultes;
+- b. aide aux enfants et aux jeunes;
+- c. aide aux victimes;
+- d. aide en cas d’intoxication.
+
+<sup>2</sup> Les numéros courts sont attribués à des organisations reconnues par les autorités compétentes.
+
+<sup>3</sup> L’art. 28, al. 3 et 4, s’applique par analogie.
+
+[^28a-1]: Introduit par l’annexe ch. 2 de l’O du 6 mai 2026, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2026 243](https://fedlex.data.admin.ch/eli/oc/2026/243)).
 
 #### Art. 29
 
@@ -953,12 +973,12 @@ L’OFCOM peut attribuer un numéro court à quiconque entend fournir des servic
 
 <sup>3</sup> Les numéros courts pour les services harmonisés au niveau européen peuvent revêtir un format autre que celui énoncé à l’art. 26 en ce qui concerne le nombre de chiffres.
 
-<sup>3bis</sup> Les communications à destination des numéros courts pour des services à valeur sociale harmonisés au niveau européen doivent être gratuites pour l’appelant. [^31b-2]
+<sup>3bis</sup> … [^31b-2]
 
 <sup>4</sup> L’OFCOM peut édicter des conditions d’utilisation pour les numéros courts utilisés pour fournir des services harmonisés au niveau européen.
 
 [^31b-1]: Introduit par le ch. I de l’O du 19 janv. 2005, en vigueur depuis le 1<sup>er</sup> fév. 2005 ([RO 2005 691](https://fedlex.data.admin.ch/eli/oc/2005/76)).
-[^31b-2]: Introduit par le ch. I de l’O du 4 nov. 2009, en vigueur depuis le 1<sup>er</sup> janv. 2010 ([RO 2009 5845](https://fedlex.data.admin.ch/eli/oc/2009/710)).
+[^31b-2]: Introduit par le ch. I de l’O du 4 nov. 2009 ([RO 2009 5845](https://fedlex.data.admin.ch/eli/oc/2009/710)). Abrogé par l’annexe ch. 2 de l’O du 6 mai 2026, avec effet au 1<sup>er</sup> juil. 2026 ([RO 2026 243](https://fedlex.data.admin.ch/eli/oc/2026/243)).
 
 #### Art. 32
 
@@ -967,7 +987,7 @@ L’OFCOM peut attribuer un numéro court à quiconque entend fournir des servic
 L’accès à l’annuaire et au service de commutation pour malvoyants et personnes à mobilité réduite au sens de l’art. 15, al. 1, let. f, de l’ordonnance du 9 mars 2007 sur les services de télécommunication[^32-2] doit être assuré par le biais de numéros courts.
 
 [^32-1]: Nouvelle teneur selon le ch. I de l’O du 18 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 6243](https://fedlex.data.admin.ch/eli/oc/2020/1025)).
-[^32-2]: [RS 784.101.1](https://fedlex.data.admin.ch/eli/cc/2007/166)
+[^32-2]: [RS 784.101.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9173)
 
 #### Art. 33
 
@@ -1083,7 +1103,7 @@ S’il entend exploiter un first level DSA, il est tenu de:
 
 [^40-1]: Cette recommandation peut être obtenue auprès de l’Union internationale des télécommunications, Place des Nations, 1211 Genève 20.
 [^40-2]: Cette norme peut être obtenue auprès du Secrétariat central de l’Organisation internationale de normalisation, 1, rue de Varembé, 1211 Genève 20.
-[^40-3]: Cette norme peut être obtenue contre paiement auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour; www.snv.ch.
+[^40-3]: Cette norme peut être obtenue contre paiement auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour; [www.snv.ch](http://www.snv.ch) .
 
 #### Art. 41
 
@@ -1188,7 +1208,7 @@ Sur demande, l’OFCOM attribue à un fournisseur de services de télécommunica
 <sup>3</sup> Il traite les demandes d’attribution d’un MNC dans l’ordre d’arrivée des requêtes, jusqu’à épuisement des MNC attribués à la Suisse.[^47-7]
 
 [^47-1]: Nouvelle teneur selon le ch. I de l’O du 14 déc. 1998, en vigueur depuis le 1<sup>er</sup> fév. 1999 ([RO 1999 378](https://fedlex.data.admin.ch/eli/oc/1999/40)).
-[^47-2]: Cette recommandation peut être téléchargée gratuitement sur le site Internet de l’Union internationale des télécommunications à l’adresse www.itu.int ou être obtenue gratuitement auprès de l’Union internationale des télécommunications, Place des Nations, 1211 Genève 20.
+[^47-2]: Cette recommandation peut être téléchargée gratuitement sur le site Internet de l’Union internationale des télécommunications à l’adresse [www.itu.int](http://www.itu.int) ou être obtenue gratuitement auprès de l’Union internationale des télécommunications, Place des Nations, 1211 Genève 20.
 [^47-3]: Nouvelle teneur selon le ch. I de l’O du 5 nov. 2014, en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 4173](https://fedlex.data.admin.ch/eli/oc/2014/700)).
 [^47-4]: Introduit par le ch. I de l’O du 5 nov. 2014, en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 4173](https://fedlex.data.admin.ch/eli/oc/2014/700)).
 [^47-5]: Nouvelle teneur selon le ch. I de l’O du 5 déc. 2003, en vigueur depuis le 1<sup>er</sup> janv. 2004 ([RO 2003 4775](https://fedlex.data.admin.ch/eli/oc/2003/697)).
@@ -1219,7 +1239,7 @@ Sur demande, l’OFCOM attribue à un fournisseur de services de télécommunica
 Sur demande, l’OFCOM attribue un indicatif d’appel selon l’appendice 42 du règlement des radiocommunications du 17 novembre 1995[^47c-2] pour la transmission de données sur les fréquences des radiocommunications à usage général, comme l’exige le protocole de transmission de données par paquets (*packet radio*).
 
 [^47c-1]: Introduit par le ch. I de l’O du 31 oct. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6581](https://fedlex.data.admin.ch/eli/oc/2012/792)).
-[^47c-2]: [RS 0.784.403.1](https://fedlex.data.admin.ch/eli/cc/2005/778)
+[^47c-2]: [RS 0.784.403.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3376)
 
 #### Art. 47d
 
@@ -1228,7 +1248,7 @@ Sur demande, l’OFCOM attribue un indicatif d’appel selon l’appendice 42 du
 Sur demande, l’OFCOM attribue un indicatif d’appel et des identifications pour l’utilisation d’installations de radiocommunication au sens de l’art. 36, al. 1 et 2, de l’ordonnance du 18 novembre 2020 sur l’utilisation du spectre des fréquences de radiocommunication (OUS)[^47d-2] pour la navigation en mer et sur le Rhin.
 
 [^47d-1]: Introduit par le ch. I de l’O du 18 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 6243](https://fedlex.data.admin.ch/eli/oc/2020/1025)).
-[^47d-2]: [RS 784.102.1](https://fedlex.data.admin.ch/eli/cc/2020/1024)
+[^47d-2]: [RS 784.102.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9187)
 
 #### Art. 47e
 
@@ -1237,7 +1257,7 @@ Sur demande, l’OFCOM attribue un indicatif d’appel et des identifications po
 Sur demande, l’OFCOM attribue un indicatif d’appel pour l’utilisation d’installations de radiocommunication au sens de l’art. 36, al. 3, OUS[^47e-2] en vue de participer aux radiocommunications aéronautiques.
 
 [^47e-1]: Introduit par le ch. I de l’O du 18 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 6243](https://fedlex.data.admin.ch/eli/oc/2020/1025)).
-[^47e-2]: [RS 784.102.1](https://fedlex.data.admin.ch/eli/cc/2020/1024)
+[^47e-2]: [RS 784.102.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9187)
 
 #### Art. 47f
 
@@ -1257,8 +1277,8 @@ Les personnes physiques qui demandent à l’OFCOM un indicatif d’appel pour l
 <sup>3</sup> Sur demande, l’OFCOM peut attribuer un indicatif d’appel spécial à des associations de radioamateurs pour une année au plus.
 
 [^47f-1]: Introduit par le ch. I de l’O du 18 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 6243](https://fedlex.data.admin.ch/eli/oc/2020/1025)).
-[^47f-2]: [RS 0.784.403.1](https://fedlex.data.admin.ch/eli/cc/2005/778)
-[^47f-3]: [RS 784.102.1](https://fedlex.data.admin.ch/eli/cc/2020/1024)
+[^47f-2]: [RS 0.784.403.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3376)
+[^47f-3]: [RS 784.102.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9187)
 
 #### Art. 48
 
@@ -1307,7 +1327,7 @@ Toute ressource d’adressage attribuée peut être immédiatement réattribuée
 
 [^52-1]: Abrogé par le ch. I de l’O du 9 mars 2007, avec effet au 1<sup>er</sup> avr. 2007 ([RO 2007 1039](https://fedlex.data.admin.ch/eli/oc/2007/174)).
 
-### Section 2 Dispositions transitoires
+### Section 2 …
 
 #### Art. 53
 
@@ -1317,14 +1337,9 @@ Toute ressource d’adressage attribuée peut être immédiatement réattribuée
 
 #### Art. 54
 
-**Numéros courts**[^54-1]
+[^54-1]
 
-<sup>1</sup> Les numéros 1600, 161, 162 et 164 peuvent rester en service jusqu’à ce que les titulaires renoncent à les exploiter, mais au plus tard jusqu’au 31 décembre 2022. Ils doivent être utilisés conformément à la décision d’attribution. Si le nombre de 500 000 appels n’est pas atteint durant une année civile, le numéro concerné peut être révoqué. Les numéros ne peuvent être ni repris ni transférés à d’autres titulaires.
-
-<sup>2</sup> Les fournisseurs de services de dépannage qui sont titulaires du numéro 140 doivent cesser l’exploitation de ce numéro d’ici au 31 décembre 2025. Ils informent les personnes appelant ce numéro de sa prochaine mise hors service, mais n’ont pas le droit de leur indiquer un numéro de remplacement.[^54-2]
-
-[^54-1]: Nouvelle teneur selon le ch. I de l’O du 7 oct. 2015, en vigueur depuis le 1<sup>er</sup> déc. 2015 ([RO 2015 4051](https://fedlex.data.admin.ch/eli/oc/2015/676)).
-[^54-2]: Introduit par le ch. I de l’O du 18 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 6243](https://fedlex.data.admin.ch/eli/oc/2020/1025)).
+[^54-1]: Abrogé par l’annexe ch. 2 de l’O du 6 mai 2026, avec effet au 1<sup>er</sup> juil. 2026 ([RO 2026 243](https://fedlex.data.admin.ch/eli/oc/2026/243)).
 
 #### Art. 54a
 
@@ -1362,7 +1377,7 @@ Annexe[^t-1]
 
 ## Termes et abréviations
 
-[^t-1]: Nouvelle teneur selon le ch. II de l’O du 19 fév. 2003 ([RO 2003 397](https://fedlex.data.admin.ch/eli/oc/2003/93)). Mise à jour par le ch. II des O du 5 déc. 2003 ([RO 2003 4775](https://fedlex.data.admin.ch/eli/oc/2003/697)), du 19 janv. 2005 ([RO 2005 691](https://fedlex.data.admin.ch/eli/oc/2005/76)), du 4 nov. 2009 ([RO 2009 5845](https://fedlex.data.admin.ch/eli/oc/2009/710)), du 5 nov. 2014 ([RO 2014 4173](https://fedlex.data.admin.ch/eli/oc/2014/700)) et du 18 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 6243](https://fedlex.data.admin.ch/eli/oc/2020/1025)).
+[^t-1]: Nouvelle teneur selon le ch. II de l’O du 19 fév. 2003 ([RO 2003 397](https://fedlex.data.admin.ch/eli/oc/2003/93)). Mise à jour par le ch. II des O du 5 déc. 2003 ([RO 2003 4775](https://fedlex.data.admin.ch/eli/oc/2003/697)), du 19 janv. 2005 ([RO 2005 691](https://fedlex.data.admin.ch/eli/oc/2005/76)), du 4 nov. 2009 ([RO 2009 5845](https://fedlex.data.admin.ch/eli/oc/2009/710)), du 5 nov. 2014 ([RO 2014 4173](https://fedlex.data.admin.ch/eli/oc/2014/700)) du 18 nov. 2020 ([RO 2020 6243](https://fedlex.data.admin.ch/eli/oc/2020/1025)) et l’annexe ch. 2 de l’O du 6 mai 2026, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2026 243](https://fedlex.data.admin.ch/eli/oc/2026/243)).
 
 ADMD (Administration Management Domain). Noms d’ADMD: noms des fournisseurs de services de messagerie X.400<sup>a</sup>/ISO 10021<sup>b</sup>.
 
@@ -1393,7 +1408,9 @@ ICD (International Code Designator): désignation du format d’une adresse NSAP
 
 identificateur d’objet (Objektbezeichner, object identifier): valeur numérique permettant d’identifier avec précision un élément d’information utilisé lors d’un processus de communication.
 
-IEC (International Électrotechnical Commission): Commission électrotechnique internationale.
+IEC (International Electrotechnical Commission): Commission électrotechnique internationale.
+
+IETF (International Engineering Task Force): organisme de normalisation qui développe et promeut des normes Internet.
 
 IIN (Issuer Identifier Number): numéro identificateur d’entités émettrices de cartes internationales de facturation des télécommunications correspondant à la recommandation E.118 de l’UIT-T<sup>a</sup> et à la norme 7812-2 de l’ISO<sup>b</sup>.
 
@@ -1423,11 +1440,15 @@ RDN (Relative Distinguished Name). Noms de RDN: noms des inscriptions dans l’a
 
 Réseau intermédiaire (Zwischennetz, rete intermedia): réseau utilisé pour le découplage des réseaux de signalisation SS7 (Signalling System Number 7) selon les recommandations de la série Q.700 de l’UIT-T<sup>a</sup>.
 
+RFC (Requests for Comments): série de documents techniques et organisationnels concernant Internet publiée par RFC-Editor.
+
 SMS (Short Message Service): service permettant aux usagers d’échanger des messages contenant des textes courts, généralement à partir d’une installation terminale de téléphonie mobile.
 
 T-MNC (Tetra Mobile Network Code): code identifiant un réseau de radiocommunication PMR/PAMR selon la norme ETS 300 392-1 de l’ETSI.
 
 UIT-T: secteur de la normalisation de l’Union internationale des télécommunications.
+
+URN (Uniform Resource Name): identificateur uniforme de ressource pour les services d’urgence et les autres services connus, selon la RFC 5031 de l’IETF.
 
 - <sup>a</sup> Cette recommandation peut être obtenue auprès de l’Union internationale des télécommunications, Place des Nations, 1211 Genève 20
 - <sup>b</sup> Cette norme peut être obtenue auprès du Secrétariat central de l’Organisation internationale de normalisation, 1, rue de Varembé, 1211 Genève 20

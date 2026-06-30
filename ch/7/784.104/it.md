@@ -4,11 +4,11 @@ title: "Ordinanza del 6 ottobre 1997 concernente gli elementi d'indirizzo nel se
 short: ORAT
 eli: "https://fedlex.data.admin.ch/eli/cc/1997/2879_2879_2879"
 language: it
-version: 2023-09-01
+version: 2026-07-01
 adopted: 1997-10-06
 in_force: 1998-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1997/2879_2879_2879/20230901/it/xml/fedlex-data-admin-ch-eli-cc-1997-2879_2879_2879-20230901-it-xml-8.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1997/2879_2879_2879/20230901/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1997/2879_2879_2879/20260701/it/xml/fedlex-data-admin-ch-eli-cc-1997-2879_2879_2879-20260701-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1997/2879_2879_2879/20260701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1997/2879_2879_2879/20230901/it"
 
 (ORAT)
 
-del 6 ottobre 1997 (Stato 1° settembre 2023)
+del 6 ottobre 1997 (Stato 1° luglio 2026)
 
 Il Consiglio federale svizzero,
 
@@ -25,8 +25,8 @@ visti gli articoli 12*b*, 28 capoversi 2, 3, 4 e 6, 28*a* capoverso 4, 59 capove
 
 ordina:
 
-[^ingress-1]: [RS 784.10](https://fedlex.data.admin.ch/eli/cc/1997/2187_2187_2187)
-[^ingress-2]: Nuovo testo giusta il n. I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6243](https://fedlex.data.admin.ch/eli/oc/2020/1025)).
+[^ingress-1]: [RS 784.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9171)
+[^ingress-2]: Nuovo testo giusta la cifra I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6243](https://fedlex.data.admin.ch/eli/oc/2020/1025)).
 
 ## Capitolo 1: Disposizioni generali
 
@@ -34,7 +34,7 @@ ordina:
 
 [^chap1-sec1-1]
 
-[^chap1-sec1-1]: Nuovo testo giusta il n. I dell’O del 5 nov. 2014, in vigore dal 1° gen. 2015 ([RU 2014 4173](https://fedlex.data.admin.ch/eli/oc/2014/700)).
+[^chap1-sec1-1]: Nuovo testo giusta la cifra I dell’O del 5 nov. 2014, in vigore dal 1° gen. 2015 ([RU 2014 4173](https://fedlex.data.admin.ch/eli/oc/2014/700)).
 
 #### Art. 1
 
@@ -60,12 +60,12 @@ ordina:
 
 <sup>6</sup> I titolari di serie di numeri devono informare in modo adeguato di importanti modifiche dei piani di numerazione i clienti ai quali hanno attribuito uno o più numeri. Essi iniziano a rilasciare queste informazioni almeno sei mesi prima.[^2-6]
 
-[^2-1]: Nuova espressione giusta il n. I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6243](https://fedlex.data.admin.ch/eli/oc/2020/1025)). Di detta mod. è tenuto conto in tutto il presente testo.
-[^2-2]: Nuovo testo giusta il n. I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6243](https://fedlex.data.admin.ch/eli/oc/2020/1025)).
-[^2-3]: Nuovo testo giusta il n. I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6243](https://fedlex.data.admin.ch/eli/oc/2020/1025)).
-[^2-4]: Nuova espr. giusta il n. I dell’O del 4 nov. 2009, in vigore dal 1° gen. 2010 ([RU 2009 5845](https://fedlex.data.admin.ch/eli/oc/2009/710)). Di detta mod. è tenuto conto in tutto il presente testo.
-[^2-5]: Introdotto dal n. I dell’O del 5 apr. 2000, in vigore dal 1° mag. 2000 ([RU 2000 1093](https://fedlex.data.admin.ch/eli/oc/2000/171)).
-[^2-6]: Introdotto dal n. I dell’O del 5 apr. 2000, in vigore dal 1° mag. 2000 ([RU 2000 1093](https://fedlex.data.admin.ch/eli/oc/2000/171)).
+[^2-1]: Nuova espressione giusta la cifra I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6243](https://fedlex.data.admin.ch/eli/oc/2020/1025)). Di detta mod. è tenuto conto in tutto il presente testo.
+[^2-2]: Nuovo testo giusta la cifra I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6243](https://fedlex.data.admin.ch/eli/oc/2020/1025)).
+[^2-3]: Nuovo testo giusta la cifra I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6243](https://fedlex.data.admin.ch/eli/oc/2020/1025)).
+[^2-4]: Nuova espr. giusta la cifra I dell’O del 4 nov. 2009, in vigore dal 1° gen. 2010 ([RU 2009 5845](https://fedlex.data.admin.ch/eli/oc/2009/710)). Di detta mod. è tenuto conto in tutto il presente testo.
+[^2-5]: Introdotto dalla cifra I dell’O del 5 apr. 2000, in vigore dal 1° mag. 2000 ([RU 2000 1093](https://fedlex.data.admin.ch/eli/oc/2000/171)).
+[^2-6]: Introdotto dalla cifra I dell’O del 5 apr. 2000, in vigore dal 1° mag. 2000 ([RU 2000 1093](https://fedlex.data.admin.ch/eli/oc/2000/171)).
 
 #### Art. 3
 
@@ -117,21 +117,21 @@ Se un richiedente, al quale è stato revocato un elemento d’indirizzo per manc
 - a. il pagamento delle tasse arretrate;
 - b. il pagamento anticipato della tassa amministrativa unica per l’attribuzione dell’elemento d’indirizzo nonché delle tasse amministrative per la gestione sino alla fine dell’anno in corso.[^4-9]
 
-[^4-1]: Introdotto dal n. I dell’O del 5 nov. 2014, in vigore dal 1° gen. 2015 ([RU 2014 4173](https://fedlex.data.admin.ch/eli/oc/2014/700)).
-[^4-2]: [RS 431.03](https://fedlex.data.admin.ch/eli/cc/2010/705)
-[^4-3]: Introdotto dal n. I dell’O del 5 nov. 2014, in vigore dal 1° gen. 2015 ([RU 2014 4173](https://fedlex.data.admin.ch/eli/oc/2014/700)).
-[^4-4]: Nuovo testo giusta il n. I dell’O del 5 nov. 2014, in vigore dal 1° gen. 2015 ([RU 2014 4173](https://fedlex.data.admin.ch/eli/oc/2014/700)).
-[^4-5]: Nuovo testo giusta il n. I dell’O del 5 nov. 2014, in vigore dal 1° gen. 2015 ([RU 2014 4173](https://fedlex.data.admin.ch/eli/oc/2014/700)).
-[^4-6]: Introdotta dal n. I dell’O del 19 feb. 2003 ([RU 2003 397](https://fedlex.data.admin.ch/eli/oc/2003/93)). Nuovo testo giusta il n. I dell’O del 5 nov. 2014, in vigore dal 1° gen. 2015 ([RU 2014 4173](https://fedlex.data.admin.ch/eli/oc/2014/700)).
-[^4-7]: Introdotta dal n. I dell’O del 5 nov. 2014, in vigore dal 1° gen. 2015 ([RU 2014 4173](https://fedlex.data.admin.ch/eli/oc/2014/700)).
-[^4-8]: Nuovo testo giusta il n. I dell’O del 19 gen. 2005, in vigore dal 1° feb. 2005 ([RU 2005 691](https://fedlex.data.admin.ch/eli/oc/2005/76)).
-[^4-9]: Introdotto dal n. I dell’O del 19 gen. 2005 ([RU 2005 691](https://fedlex.data.admin.ch/eli/oc/2005/76)). Nuovo testo giusta il n. I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6243](https://fedlex.data.admin.ch/eli/oc/2020/1025)).
+[^4-1]: Introdotto dalla cifra I dell’O del 5 nov. 2014, in vigore dal 1° gen. 2015 ([RU 2014 4173](https://fedlex.data.admin.ch/eli/oc/2014/700)).
+[^4-2]: [RS 431.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6953)
+[^4-3]: Introdotto dalla cifra I dell’O del 5 nov. 2014, in vigore dal 1° gen. 2015 ([RU 2014 4173](https://fedlex.data.admin.ch/eli/oc/2014/700)).
+[^4-4]: Nuovo testo giusta la cifra I dell’O del 5 nov. 2014, in vigore dal 1° gen. 2015 ([RU 2014 4173](https://fedlex.data.admin.ch/eli/oc/2014/700)).
+[^4-5]: Nuovo testo giusta la cifra I dell’O del 5 nov. 2014, in vigore dal 1° gen. 2015 ([RU 2014 4173](https://fedlex.data.admin.ch/eli/oc/2014/700)).
+[^4-6]: Introdotta dalla cifra I dell’O del 19 feb. 2003 ([RU 2003 397](https://fedlex.data.admin.ch/eli/oc/2003/93)). Nuovo testo giusta la cifra I dell’O del 5 nov. 2014, in vigore dal 1° gen. 2015 ([RU 2014 4173](https://fedlex.data.admin.ch/eli/oc/2014/700)).
+[^4-7]: Introdotta dalla cifra I dell’O del 5 nov. 2014, in vigore dal 1° gen. 2015 ([RU 2014 4173](https://fedlex.data.admin.ch/eli/oc/2014/700)).
+[^4-8]: Nuovo testo giusta la cifra I dell’O del 19 gen. 2005, in vigore dal 1° feb. 2005 ([RU 2005 691](https://fedlex.data.admin.ch/eli/oc/2005/76)).
+[^4-9]: Introdotto dalla cifra I dell’O del 19 gen. 2005 ([RU 2005 691](https://fedlex.data.admin.ch/eli/oc/2005/76)). Nuovo testo giusta la cifra I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6243](https://fedlex.data.admin.ch/eli/oc/2020/1025)).
 
 #### Art. 4a
 
 [^4a-1]
 
-[^4a-1]: Introdotto dal n. I dell’O del 9 mar. 2007 ([RU 2007 1039](https://fedlex.data.admin.ch/eli/oc/2007/174)). Abrogato dal n. I dell’O del 5 nov. 2014, con effetto dal 1° gen. 2015 ([RU 2014 4173](https://fedlex.data.admin.ch/eli/oc/2014/700)).
+[^4a-1]: Introdotto dalla cifra I dell’O del 9 mar. 2007 ([RU 2007 1039](https://fedlex.data.admin.ch/eli/oc/2007/174)). Abrogato dalla cifra I dell’O del 5 nov. 2014, con effetto dal 1° gen. 2015 ([RU 2014 4173](https://fedlex.data.admin.ch/eli/oc/2014/700)).
 
 #### Art. 5
 
@@ -161,7 +161,7 @@ Se un elemento d’indirizzo può essere seguito da elementi subordinati quali a
 
 <sup>2</sup> Se la neocreata impresa diventa titolare di un numero di elementi d’indirizzo superiore al limite stabilito per ogni titolare, l’UFCOM stabilisce il termine entro cui l’impresa deve rinunciare agli elementi d’indirizzo in eccesso.
 
-[^7a-1]: Introdotto dal n. I dell’O del 9 mar. 2007, in vigore dal 1° apr. 2007 ([RU 2007 1039](https://fedlex.data.admin.ch/eli/oc/2007/174)).
+[^7a-1]: Introdotto dalla cifra I dell’O del 9 mar. 2007, in vigore dal 1° apr. 2007 ([RU 2007 1039](https://fedlex.data.admin.ch/eli/oc/2007/174)).
 
 #### Art. 8
 
@@ -179,8 +179,8 @@ Se un elemento d’indirizzo può essere seguito da elementi subordinati quali a
 
 <sup>2</sup> ...[^9-2]
 
-[^9-1]: Nuovo testo giusta il n. I dell’O del 19 gen. 2005, in vigore dal 1° feb. 2005 ([RU 2005 691](https://fedlex.data.admin.ch/eli/oc/2005/76)).
-[^9-2]: Introdotto dal n. I dell’O del 5 apr. 2000 ([RU 2000 1093](https://fedlex.data.admin.ch/eli/oc/2000/171)). Abrogato dal n. I dell’O del 18 nov. 2020, con effetto dal 1° gen. 2021 ([RU 2020 6243](https://fedlex.data.admin.ch/eli/oc/2020/1025)).
+[^9-1]: Nuovo testo giusta la cifra I dell’O del 19 gen. 2005, in vigore dal 1° feb. 2005 ([RU 2005 691](https://fedlex.data.admin.ch/eli/oc/2005/76)).
+[^9-2]: Introdotto dalla cifra I dell’O del 5 apr. 2000 ([RU 2000 1093](https://fedlex.data.admin.ch/eli/oc/2000/171)). Abrogato dalla cifra I dell’O del 18 nov. 2020, con effetto dal 1° gen. 2021 ([RU 2020 6243](https://fedlex.data.admin.ch/eli/oc/2020/1025)).
 
 #### Art. 10
 
@@ -210,13 +210,13 @@ L’UFCOM può revocare l’attribuzione di elementi d’indirizzo se:
 
 <sup>3</sup> Un elemento d’indirizzo è considerato revocato se il titolare decede o è radiato dal registro di commercio a seguito di un fallimento o di una liquidazione.[^11-7]
 
-[^11-1]: Nuovo testo giusta il n. I dell’O del 19 dic. 2001, in vigore dal 1° apr. 2002 ([RU 2002 273](https://fedlex.data.admin.ch/eli/oc/2002/59)).
-[^11-2]: Introdotta dal n. I dell’O del 5 nov. 2014, in vigore dal 1° gen. 2015 ([RU 2014 4173](https://fedlex.data.admin.ch/eli/oc/2014/700)).
-[^11-3]: Introdotta dal n. I dell’O del 5 nov. 2014, in vigore dal 1° gen. 2015 ([RU 2014 4173](https://fedlex.data.admin.ch/eli/oc/2014/700)).
-[^11-4]: Introdotta dal n. I dell’O del 5 nov. 2014, in vigore dal 1° gen. 2015 ([RU 2014 4173](https://fedlex.data.admin.ch/eli/oc/2014/700)). Correzione del 13 gen. 2015 ([RU 2015 183](https://fedlex.data.admin.ch/eli/oc/2015/22)).
-[^11-5]: Nuovo testo giusta il n. I dell’O del 19 gen. 2005, in vigore dal 1° feb. 2005 ([RU 2005 691](https://fedlex.data.admin.ch/eli/oc/2005/76)).
-[^11-6]: Introdotta dal n. I dell’O del 5 nov. 2014, in vigore dal 1° gen. 2015 ([RU 2014 4173](https://fedlex.data.admin.ch/eli/oc/2014/700)). Correzione del 13 gen. 2015 ([RU 2015 183](https://fedlex.data.admin.ch/eli/oc/2015/22)).
-[^11-7]: Introdotto dal n. I dell’O del 9 mar. 2007, in vigore dal 1° apr. 2007 ([RU 2007 1039](https://fedlex.data.admin.ch/eli/oc/2007/174)).
+[^11-1]: Nuovo testo giusta la cifra I dell’O del 19 dic. 2001, in vigore dal 1° apr. 2002 ([RU 2002 273](https://fedlex.data.admin.ch/eli/oc/2002/59)).
+[^11-2]: Introdotta dalla cifra I dell’O del 5 nov. 2014, in vigore dal 1° gen. 2015 ([RU 2014 4173](https://fedlex.data.admin.ch/eli/oc/2014/700)).
+[^11-3]: Introdotta dalla cifra I dell’O del 5 nov. 2014, in vigore dal 1° gen. 2015 ([RU 2014 4173](https://fedlex.data.admin.ch/eli/oc/2014/700)).
+[^11-4]: Introdotta dalla cifra I dell’O del 5 nov. 2014, in vigore dal 1° gen. 2015 ([RU 2014 4173](https://fedlex.data.admin.ch/eli/oc/2014/700)). Correzione del 13 gen. 2015 ([RU 2015 183](https://fedlex.data.admin.ch/eli/oc/2015/22)).
+[^11-5]: Nuovo testo giusta la cifra I dell’O del 19 gen. 2005, in vigore dal 1° feb. 2005 ([RU 2005 691](https://fedlex.data.admin.ch/eli/oc/2005/76)).
+[^11-6]: Introdotta dalla cifra I dell’O del 5 nov. 2014, in vigore dal 1° gen. 2015 ([RU 2014 4173](https://fedlex.data.admin.ch/eli/oc/2014/700)). Correzione del 13 gen. 2015 ([RU 2015 183](https://fedlex.data.admin.ch/eli/oc/2015/22)).
+[^11-7]: Introdotto dalla cifra I dell’O del 9 mar. 2007, in vigore dal 1° apr. 2007 ([RU 2007 1039](https://fedlex.data.admin.ch/eli/oc/2007/174)).
 
 #### Art. 12
 
@@ -228,14 +228,14 @@ L’UFCOM può revocare l’attribuzione di elementi d’indirizzo se:
 
 <sup>2</sup> La revoca degli elementi d’indirizzo comporta automaticamente la revoca degli elementi d’indirizzo subordinati.
 
-[^12-1]: Nuovo testo giusta il n. I dell’O del 9 mar. 2007, in vigore dal 1° apr. 2007 ([RU 2007 1039](https://fedlex.data.admin.ch/eli/oc/2007/174)).
-[^12-2]: Introdotto dal n. I dell’O del 9 mar. 2007, in vigore dal 1° apr. 2007 ([RU 2007 1039](https://fedlex.data.admin.ch/eli/oc/2007/174)).
+[^12-1]: Nuovo testo giusta la cifra I dell’O del 9 mar. 2007, in vigore dal 1° apr. 2007 ([RU 2007 1039](https://fedlex.data.admin.ch/eli/oc/2007/174)).
+[^12-2]: Introdotto dalla cifra I dell’O del 9 mar. 2007, in vigore dal 1° apr. 2007 ([RU 2007 1039](https://fedlex.data.admin.ch/eli/oc/2007/174)).
 
 ## Capitolo 1*a*: Delega della gestione e dell’attribuzione di elementi d’indirizzo a terzi
 
 [^chap1a-1]
 
-[^chap1a-1]: Nuovo testo giusta il n. I dell’O del 19 dic. 2001, in vigore dal 1° apr. 2002 ([RU 2002 273](https://fedlex.data.admin.ch/eli/oc/2002/59)).
+[^chap1a-1]: Nuovo testo giusta la cifra I dell’O del 19 dic. 2001, in vigore dal 1° apr. 2002 ([RU 2002 273](https://fedlex.data.admin.ch/eli/oc/2002/59)).
 
 ### Sezione 1: Regole generali
 
@@ -257,7 +257,7 @@ Se la gestione degli elementi d’indirizzo è delegata a terzi (delegati) nell�
 
 <sup>3</sup> Le decisioni devono rispettare il segreto d’affari dei candidati.
 
-[^13-1]: Nuovo testo giusta il n. I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6243](https://fedlex.data.admin.ch/eli/oc/2020/1025)).
+[^13-1]: Nuovo testo giusta la cifra I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6243](https://fedlex.data.admin.ch/eli/oc/2020/1025)).
 
 #### Art. 13a
 
@@ -287,7 +287,7 @@ Il trasferimento di tutti o parte dei compiti essenziali previsti da un’autori
 
 <sup>2</sup> Il delegato riceve un indennizzo adeguato se la modifica dell’autorizzazione o del contratto gli causa un danno finanziario in relazione ai compiti di gestione e attribuzione di elementi d’indirizzo a lui delegati. Questo indennizzo non comprende la compensazione del mancato guadagno.[^13d-1]
 
-[^13d-1]: Nuovo testo giusta il n. I dell’O del 9 mar. 2007, in vigore dal 1° apr. 2007 ([RU 2007 1039](https://fedlex.data.admin.ch/eli/oc/2007/174)).
+[^13d-1]: Nuovo testo giusta la cifra I dell’O del 9 mar. 2007, in vigore dal 1° apr. 2007 ([RU 2007 1039](https://fedlex.data.admin.ch/eli/oc/2007/174)).
 
 #### Art. 13e
 
@@ -315,8 +315,8 @@ Il trasferimento di tutti o parte dei compiti essenziali previsti da un’autori
 
 <sup>2</sup> I delegati sono tenuti a trasmettere gratuitamente all’UFCOM le informazioni necessarie per allestire una statistica ufficiale. Per il rimanente sono applicabili per analogia gli articoli 97–103 dell’ordinanza del 9 marzo 2007[^13g-1] sui servizi di telecomunicazione.[^13g-2]
 
-[^13g-1]: [RS 784.101.1](https://fedlex.data.admin.ch/eli/cc/2007/166)
-[^13g-2]: Nuovo testo giusta il n. I dell’O del 9 mar. 2007, in vigore dal 1° apr. 2007 ([RU 2007 1039](https://fedlex.data.admin.ch/eli/oc/2007/174)).
+[^13g-1]: [RS 784.101.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9173)
+[^13g-2]: Nuovo testo giusta la cifra I dell’O del 9 mar. 2007, in vigore dal 1° apr. 2007 ([RU 2007 1039](https://fedlex.data.admin.ch/eli/oc/2007/174)).
 
 #### Art. 13h
 
@@ -324,7 +324,7 @@ Il trasferimento di tutti o parte dei compiti essenziali previsti da un’autori
 
 Fatto salvo l’articolo 40 capoversi 3 e 4 LTC, i delegati fissano liberamente il prezzo dei loro servizi di gestione e di attribuzione di elementi d’indirizzo purché esista una concorrenza efficace sul mercato interessato.
 
-[^13h-1]: Nuovo testo giusta il n. I dell’O del 9 mar. 2007, in vigore dal 1° apr. 2007 ([RU 2007 1039](https://fedlex.data.admin.ch/eli/oc/2007/174)).
+[^13h-1]: Nuovo testo giusta la cifra I dell’O del 9 mar. 2007, in vigore dal 1° apr. 2007 ([RU 2007 1039](https://fedlex.data.admin.ch/eli/oc/2007/174)).
 
 #### Art. 13i
 
@@ -353,7 +353,7 @@ Se un delegato non rispetta più i suoi obblighi, l’UFCOM può:
 
 <sup>2</sup> L’UFCOM può emanare d’ufficio misure cautelari.
 
-[^13j-1]: Nuovo testo giusta il n. I dell’O del 9 mar. 2007, in vigore dal 1° apr. 2007 ([RU 2007 1039](https://fedlex.data.admin.ch/eli/oc/2007/174)).
+[^13j-1]: Nuovo testo giusta la cifra I dell’O del 9 mar. 2007, in vigore dal 1° apr. 2007 ([RU 2007 1039](https://fedlex.data.admin.ch/eli/oc/2007/174)).
 
 #### Art. 13k
 
@@ -376,8 +376,8 @@ Il delegato, o in caso di fallimento la massa fallimentare, è tenuto a collabor
 
 <sup>6</sup> Il delegato, o in caso di fallimento la massa fallimentare, fa in modo che i titolari a cui ha attribuito elementi d’indirizzo siano messi al corrente della cessazione della sua attività e della procedura da seguire per salvaguardare le loro pretese.
 
-[^13k-1]: Nuovo testo giusta il n. I dell’O del 9 mar. 2007, in vigore dal 1° apr. 2007 ([RU 2007 1039](https://fedlex.data.admin.ch/eli/oc/2007/174)).
-[^13k-2]: Nuovo testo giusta il n. I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6243](https://fedlex.data.admin.ch/eli/oc/2020/1025)).
+[^13k-1]: Nuovo testo giusta la cifra I dell’O del 9 mar. 2007, in vigore dal 1° apr. 2007 ([RU 2007 1039](https://fedlex.data.admin.ch/eli/oc/2007/174)).
+[^13k-2]: Nuovo testo giusta la cifra I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6243](https://fedlex.data.admin.ch/eli/oc/2020/1025)).
 
 #### Art. 13l
 
@@ -387,8 +387,8 @@ Il delegato, o in caso di fallimento la massa fallimentare, è tenuto a collabor
 
 <sup>2</sup> Per il rimanente il trattamento delle informazioni da parte dei delegati e la vigilanza esercitata su di essi sono disciplinati dalle disposizioni applicabili agli organi federali della legge federale del 25 settembre 2020[^13l-1] sulla protezione dei dati.[^13l-2]
 
-[^13l-1]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
-[^13l-2]: Nuovo testo giusta l’all. 2 n. II 88 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^13l-1]: [RS 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
+[^13l-2]: Nuovo testo giusta l’all. 2 cifra II n. 88 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 13m
 
@@ -404,43 +404,43 @@ Il delegato, o in caso di fallimento la massa fallimentare, è tenuto a collabor
 
 [^1414c-1]
 
-[^1414c-1]: Abrogati dal n. I dell’O del 5 nov. 2014, con effetto dal 1° gen. 2015 ([RU 2014 4173](https://fedlex.data.admin.ch/eli/oc/2014/700)).
+[^1414c-1]: Abrogati dalla cifra I dell’O del 5 nov. 2014, con effetto dal 1° gen. 2015 ([RU 2014 4173](https://fedlex.data.admin.ch/eli/oc/2014/700)).
 
 #### Art. 14c<sup>bis</sup>
 
 [^14cbis-1]
 
-[^14cbis-1]: Introdotto dal n. I dell’O del 9 mar. 2007 ([RU 2007 1039](https://fedlex.data.admin.ch/eli/oc/2007/174)). Abrogato dal n. I dell’O del 5 nov. 2014, con effetto dal 1° gen. 2015 ([RU 2014 4173](https://fedlex.data.admin.ch/eli/oc/2014/700)).
+[^14cbis-1]: Introdotto dalla cifra I dell’O del 9 mar. 2007 ([RU 2007 1039](https://fedlex.data.admin.ch/eli/oc/2007/174)). Abrogato dalla cifra I dell’O del 5 nov. 2014, con effetto dal 1° gen. 2015 ([RU 2014 4173](https://fedlex.data.admin.ch/eli/oc/2014/700)).
 
 #### Art. 14c<sup>ter</sup>
 
 [^14cter-1]
 
-[^14cter-1]: Introdotto dal n. I dell’O del 4 nov. 2009 ([RU 2009 5845](https://fedlex.data.admin.ch/eli/oc/2009/710)). Abrogato dal n. I dell’O del 5 nov. 2014, con effetto dal 1° gen. 2015 ([RU 2014 4173](https://fedlex.data.admin.ch/eli/oc/2014/700)).
+[^14cter-1]: Introdotto dalla cifra I dell’O del 4 nov. 2009 ([RU 2009 5845](https://fedlex.data.admin.ch/eli/oc/2009/710)). Abrogato dalla cifra I dell’O del 5 nov. 2014, con effetto dal 1° gen. 2015 ([RU 2014 4173](https://fedlex.data.admin.ch/eli/oc/2014/700)).
 
 #### Art. 14c<sup>quater</sup>
 
 [^14cquater-1]
 
-[^14cquater-1]: Introdotto dal n. I dell’O del 9 mar. 2007 ([RU 2007 1039](https://fedlex.data.admin.ch/eli/oc/2007/174)). Abrogato dal n. I dell’O del 5 nov. 2014, con effetto dal 1° gen. 2015 ([RU 2014 4173](https://fedlex.data.admin.ch/eli/oc/2014/700)).
+[^14cquater-1]: Introdotto dalla cifra I dell’O del 9 mar. 2007 ([RU 2007 1039](https://fedlex.data.admin.ch/eli/oc/2007/174)). Abrogato dalla cifra I dell’O del 5 nov. 2014, con effetto dal 1° gen. 2015 ([RU 2014 4173](https://fedlex.data.admin.ch/eli/oc/2014/700)).
 
 #### Art. 14d a 14f
 
 [^14d14f-1]
 
-[^14d14f-1]: Abrogati dal n. I dell’O del 5 nov. 2014, con effetto dal 1° gen. 2015 ([RU 2014 4173](https://fedlex.data.admin.ch/eli/oc/2014/700)).
+[^14d14f-1]: Abrogati dalla cifra I dell’O del 5 nov. 2014, con effetto dal 1° gen. 2015 ([RU 2014 4173](https://fedlex.data.admin.ch/eli/oc/2014/700)).
 
 #### Art. 14f <sup>bis</sup>
 
 [^14fbis-1]
 
-[^14fbis-1]: Introdotto dall’all. n. I dell’O del 4 nov. 2009 ([RU 2009 5845](https://fedlex.data.admin.ch/eli/oc/2009/710)). Abrogato dal n. I dell’O del 5 nov. 2014, con effetto dal 1° gen. 2015 ([RU 2014 4173](https://fedlex.data.admin.ch/eli/oc/2014/700)).
+[^14fbis-1]: Introdotto dall’all. cifra I dell’O del 4 nov. 2009 ([RU 2009 5845](https://fedlex.data.admin.ch/eli/oc/2009/710)). Abrogato dalla cifra I dell’O del 5 nov. 2014, con effetto dal 1° gen. 2015 ([RU 2014 4173](https://fedlex.data.admin.ch/eli/oc/2014/700)).
 
 #### Art. 14g a 14i
 
 [^14g14i-1]
 
-[^14g14i-1]: Abrogati dal n. I dell’O del 5 nov. 2014, con effetto dal 1° gen. 2015 ([RU 2014 4173](https://fedlex.data.admin.ch/eli/oc/2014/700)).
+[^14g14i-1]: Abrogati dalla cifra I dell’O del 5 nov. 2014, con effetto dal 1° gen. 2015 ([RU 2014 4173](https://fedlex.data.admin.ch/eli/oc/2014/700)).
 
 #### Art. 15
 
@@ -450,7 +450,7 @@ Abrogato
 
 [^chap1a-sec3-1]
 
-[^chap1a-sec3-1]: Introdotta dal n. I dell’O del 19 gen. 2005, in vigore dal 1° ott. 2005 ([RU 2005 691](https://fedlex.data.admin.ch/eli/oc/2005/76)).
+[^chap1a-sec3-1]: Introdotta dalla cifra I dell’O del 19 gen. 2005, in vigore dal 1° ott. 2005 ([RU 2005 691](https://fedlex.data.admin.ch/eli/oc/2005/76)).
 
 #### Art. 15a
 
@@ -468,7 +468,7 @@ Abrogato
 
 <sup>2</sup> Se corrispondono ai numeri brevi ai sensi dell’articolo 31*b*, possono riprenderne il formato ed essere composti da più di cinque cifre.[^15b-1]
 
-[^15b-1]: Introdotto dall’all. n. I dell’O del 4 nov. 2009, in vigore dal 1° gen. 2010 ([RU 2009 5845](https://fedlex.data.admin.ch/eli/oc/2009/710)).
+[^15b-1]: Introdotto dall’all. cifra I dell’O del 4 nov. 2009, in vigore dal 1° gen. 2010 ([RU 2009 5845](https://fedlex.data.admin.ch/eli/oc/2009/710)).
 
 #### Art. 15c
 
@@ -497,8 +497,8 @@ I titolari di un’autorizzazione per la gestione e l’attribuzione di numeri b
 <sup>3</sup> ...[^15d-3]
 
 [^15d-1]: Entrato in vigore il 1° ott. 2005.
-[^15d-2]: Nuovo testo giusta il n. I dell’O del 9 mar. 2007, in vigore dal 1° apr. 2007 ([RU 2007 1039](https://fedlex.data.admin.ch/eli/oc/2007/174)).
-[^15d-3]: Abrogato dal n. I dell’O del 9 mar. 2007, con effetto dal 1° apr. 2007 ([RU 2007 1039](https://fedlex.data.admin.ch/eli/oc/2007/174)).
+[^15d-2]: Nuovo testo giusta la cifra I dell’O del 9 mar. 2007, in vigore dal 1° apr. 2007 ([RU 2007 1039](https://fedlex.data.admin.ch/eli/oc/2007/174)).
+[^15d-3]: Abrogato dalla cifra I dell’O del 9 mar. 2007, con effetto dal 1° apr. 2007 ([RU 2007 1039](https://fedlex.data.admin.ch/eli/oc/2007/174)).
 
 #### Art. 15e
 
@@ -559,9 +559,9 @@ L’UFCOM può attribuire indicativi ai fornitori di servizi di telecomunicazion
 
 <sup>2</sup> Gli indicativi sono attribuiti unicamente se non esistono altre soluzioni per perseguire gli obiettivi di cui al capoverso 1 o se queste soluzioni comportano conseguenze inaccettabili per il fornitore di servizi di telecomunicazione o per i suoi clienti[^17-3].
 
-[^17-1]: Nuovo testo giusta il n. I dell’O del 9 mar. 2007, in vigore dal 1° apr. 2007 ([RU 2007 1039](https://fedlex.data.admin.ch/eli/oc/2007/174)).
-[^17-2]: Introdotta dal n. I dell’O del 5 apr. 2000, in vigore dal 1° mag. 2000 ([RU 2000 1093](https://fedlex.data.admin.ch/eli/oc/2000/171)).
-[^17-3]: Nuova espr. giusta il n. I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6243](https://fedlex.data.admin.ch/eli/oc/2020/1025)). Di detta mod. é tenuto conto in tutto il presente testo.
+[^17-1]: Nuovo testo giusta la cifra I dell’O del 9 mar. 2007, in vigore dal 1° apr. 2007 ([RU 2007 1039](https://fedlex.data.admin.ch/eli/oc/2007/174)).
+[^17-2]: Introdotta dalla cifra I dell’O del 5 apr. 2000, in vigore dal 1° mag. 2000 ([RU 2000 1093](https://fedlex.data.admin.ch/eli/oc/2000/171)).
+[^17-3]: Nuova espr. giusta la cifra I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6243](https://fedlex.data.admin.ch/eli/oc/2020/1025)). Di detta mod. é tenuto conto in tutto il presente testo.
 
 #### Art. 18
 
@@ -573,16 +573,16 @@ L’UFCOM può attribuire indicativi ai fornitori di servizi di telecomunicazion
 
 <sup>3</sup> L’UFCOM emana le relative prescrizioni tecniche e amministrative.[^18-3]
 
-[^18-1]: Nuovo testo giusta il n. I dell’O del 31 ott. 2001, in vigore dal 15 nov. 2001 ([RU 2001 2726](https://fedlex.data.admin.ch/eli/oc/2001/408)).
-[^18-2]: Abrogato dal n. I dell’O del 18 nov. 2020, con effetto dal 1° gen. 2021 ([RU 2020 6243](https://fedlex.data.admin.ch/eli/oc/2020/1025)).
-[^18-3]: Introdotto dal n. I dell’O del 9 mar. 2007, in vigore dal 1° apr. 2007 ([RU 2007 1039](https://fedlex.data.admin.ch/eli/oc/2007/174)).
+[^18-1]: Nuovo testo giusta la cifra I dell’O del 31 ott. 2001, in vigore dal 15 nov. 2001 ([RU 2001 2726](https://fedlex.data.admin.ch/eli/oc/2001/408)).
+[^18-2]: Abrogato dalla cifra I dell’O del 18 nov. 2020, con effetto dal 1° gen. 2021 ([RU 2020 6243](https://fedlex.data.admin.ch/eli/oc/2020/1025)).
+[^18-3]: Introdotto dalla cifra I dell’O del 9 mar. 2007, in vigore dal 1° apr. 2007 ([RU 2007 1039](https://fedlex.data.admin.ch/eli/oc/2007/174)).
 
 ### Sezione 2: Numeri attribuiti sotto forma di blocchi di numeri
 
 [^chap2-sec2-1][^chap2-sec2-2]
 
-[^chap2-sec2-1]: Nuova espr. giusta il n. I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6243](https://fedlex.data.admin.ch/eli/oc/2020/1025)). Di detta mod. é tenuto conto in tutto il presente testo.
-[^chap2-sec2-2]: Nuovo testo giusta il n. I dell’O del 19 ott. 2005, in vigore dal 1° feb. 2005 ([RU 2005 691](https://fedlex.data.admin.ch/eli/oc/2005/76)).
+[^chap2-sec2-1]: Nuova espr. giusta la cifra I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6243](https://fedlex.data.admin.ch/eli/oc/2020/1025)). Di detta mod. é tenuto conto in tutto il presente testo.
+[^chap2-sec2-2]: Nuovo testo giusta la cifra I dell’O del 19 ott. 2005, in vigore dal 1° feb. 2005 ([RU 2005 691](https://fedlex.data.admin.ch/eli/oc/2005/76)).
 
 #### Art. 19
 
@@ -592,7 +592,7 @@ L’UFCOM può attribuire indicativi ai fornitori di servizi di telecomunicazion
 
 <sup>2</sup> ...[^19-1]
 
-[^19-1]: Abrogato dal n. I dell’O del 22 giu. 2005, con effetto dal 1° ago. 2005 (RU **2005** 3383).
+[^19-1]: Abrogato dalla cifra I dell’O del 22 giu. 2005, con effetto dal 1° ago. 2005 (RU **2005** 3383).
 
 #### Art. 20
 
@@ -638,7 +638,7 @@ Il titolare di serie di numeri deve fornire all’UFCOM, per la fine di ogni ann
 
 <sup>2</sup> Queste informazioni devono essere rilevate il 20 novembre di ogni anno o l’ultimo giorno lavorativo che precede questa data.
 
-[^22-1]: Introdotto dal n. I dell’O del 5 apr. 2000, in vigore dal 1° mag. 2000 ([RU 2000 1093](https://fedlex.data.admin.ch/eli/oc/2000/171)).
+[^22-1]: Introdotto dalla cifra I dell’O del 5 apr. 2000, in vigore dal 1° mag. 2000 ([RU 2000 1093](https://fedlex.data.admin.ch/eli/oc/2000/171)).
 
 #### Art. 23
 
@@ -656,9 +656,9 @@ Deve controllare che coloro ai quali vengono attribuiti:
 
 <sup>3</sup> ...[^23-3]
 
-[^23-1]: Nuovo testo giusta il n. I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6243](https://fedlex.data.admin.ch/eli/oc/2020/1025)).
-[^23-2]: Nuovo testo giusta il n. I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6243](https://fedlex.data.admin.ch/eli/oc/2020/1025)).
-[^23-3]: Introdotto dal n. I dell’O del 19 feb. 2003 ([RU 2003 397](https://fedlex.data.admin.ch/eli/oc/2003/93)). Abrogato dal n. I dell’O del 18 nov. 2020, con effetto dal 1° gen. 2021 ([RU 2020 6243](https://fedlex.data.admin.ch/eli/oc/2020/1025)).
+[^23-1]: Nuovo testo giusta la cifra I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6243](https://fedlex.data.admin.ch/eli/oc/2020/1025)).
+[^23-2]: Nuovo testo giusta la cifra I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6243](https://fedlex.data.admin.ch/eli/oc/2020/1025)).
+[^23-3]: Introdotto dalla cifra I dell’O del 19 feb. 2003 ([RU 2003 397](https://fedlex.data.admin.ch/eli/oc/2003/93)). Abrogato dalla cifra I dell’O del 18 nov. 2020, con effetto dal 1° gen. 2021 ([RU 2020 6243](https://fedlex.data.admin.ch/eli/oc/2020/1025)).
 
 #### Art. 23a
 
@@ -675,8 +675,8 @@ Un fornitore può rinunciare a una serie di numeri da cui sono stati trasferiti 
 
 <sup>3</sup> ...[^23a-2]
 
-[^23a-1]: Introdotto dal n. I dell’O del 5 nov. 2014, in vigore dal 1° gen. 2015 ([RU 2014 4173](https://fedlex.data.admin.ch/eli/oc/2014/700)).
-[^23a-2]: Abrogato dal n. I dell’O del 18 nov. 2020, con effetto dal 1° gen. 2021 ([RU 2020 6243](https://fedlex.data.admin.ch/eli/oc/2020/1025)).
+[^23a-1]: Introdotto dalla cifra I dell’O del 5 nov. 2014, in vigore dal 1° gen. 2015 ([RU 2014 4173](https://fedlex.data.admin.ch/eli/oc/2014/700)).
+[^23a-2]: Abrogato dalla cifra I dell’O del 18 nov. 2020, con effetto dal 1° gen. 2021 ([RU 2020 6243](https://fedlex.data.admin.ch/eli/oc/2020/1025)).
 
 #### Art. 23b
 
@@ -686,7 +686,7 @@ Un fornitore può rinunciare a una serie di numeri da cui sono stati trasferiti 
 
 <sup>2</sup> Se durante 24 mesi non vengono stabilite comunicazioni da e verso uno di questi numeri, il titolare deve mettere tale numero fuori servizio e, al più tardi dodici mesi dopo, metterlo a disposizione per l’attribuzione a un nuovo cliente.
 
-[^23b-1]: Introdotto dal n. I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6243](https://fedlex.data.admin.ch/eli/oc/2020/1025)).
+[^23b-1]: Introdotto dalla cifra I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6243](https://fedlex.data.admin.ch/eli/oc/2020/1025)).
 
 #### Art. 23c
 
@@ -709,8 +709,8 @@ Se la Segreteria di Stato dell’economia (SECO) ha il sospetto fondato che, con
 
 <sup>2</sup> Se il fornitore comunica immediatamente i dati alla SECO, non blocca il numero.
 
-[^23c-1]: Introdotto dal n. I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6243](https://fedlex.data.admin.ch/eli/oc/2020/1025)).
-[^23c-2]: [RS 241](https://fedlex.data.admin.ch/eli/cc/1988/223_223_223)
+[^23c-1]: Introdotto dalla cifra I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6243](https://fedlex.data.admin.ch/eli/oc/2020/1025)).
+[^23c-2]: [RS 241](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6122)
 
 #### Art. 24
 
@@ -722,7 +722,7 @@ L’UFCOM può revocare l’attribuzione di una serie di numeri se, per un perio
 
 [^chap2-sec2a-1]
 
-[^chap2-sec2a-1]: Introdotto dal n. I dell’O del 19 gen. 2005, in vigore dal 1° feb. 2005 ([RU 2005 691](https://fedlex.data.admin.ch/eli/oc/2005/76)).
+[^chap2-sec2a-1]: Introdotto dalla cifra I dell’O del 19 gen. 2005, in vigore dal 1° feb. 2005 ([RU 2005 691](https://fedlex.data.admin.ch/eli/oc/2005/76)).
 
 #### Art. 24a
 
@@ -732,15 +732,15 @@ L’UFCOM può revocare l’attribuzione di una serie di numeri se, per un perio
 
 <sup>2</sup> ...[^24a-3]
 
-[^24a-1]: Introdotto dal n. I dell’O del 5 apr. 2000, in vigore dal 1° mag. 2000 ([RU 2000 1093](https://fedlex.data.admin.ch/eli/oc/2000/171)).
-[^24a-2]: Abrogato dal n. I dell’O del 19 gen. 2005, con effetto dal 1° feb. 2005 ([RU 2005 691](https://fedlex.data.admin.ch/eli/oc/2005/76)).
-[^24a-3]: Abrogato dal n. I dell’O del 18 nov. 2020, con effetto dal 1° gen. 2021 ([RU 2020 6243](https://fedlex.data.admin.ch/eli/oc/2020/1025)).
+[^24a-1]: Introdotto dalla cifra I dell’O del 5 apr. 2000, in vigore dal 1° mag. 2000 ([RU 2000 1093](https://fedlex.data.admin.ch/eli/oc/2000/171)).
+[^24a-2]: Abrogato dalla cifra I dell’O del 19 gen. 2005, con effetto dal 1° feb. 2005 ([RU 2005 691](https://fedlex.data.admin.ch/eli/oc/2005/76)).
+[^24a-3]: Abrogato dalla cifra I dell’O del 18 nov. 2020, con effetto dal 1° gen. 2021 ([RU 2020 6243](https://fedlex.data.admin.ch/eli/oc/2020/1025)).
 
 ### Sezione 2*b*: Numeri attribuiti individualmente
 
 [^chap2-sec2b-1]
 
-[^chap2-sec2b-1]: Introdotto dal n. I dell’O del 19 gen. 2005, in vigore dal 1° feb. 2005 ([RU 2005 691](https://fedlex.data.admin.ch/eli/oc/2005/76)).
+[^chap2-sec2b-1]: Introdotto dalla cifra I dell’O del 19 gen. 2005, in vigore dal 1° feb. 2005 ([RU 2005 691](https://fedlex.data.admin.ch/eli/oc/2005/76)).
 
 #### Art. 24b
 
@@ -754,10 +754,10 @@ L’UFCOM può revocare l’attribuzione di una serie di numeri se, per un perio
 
 <sup>4</sup> L’UFCOM emana le prescrizioni tecniche e amministrative necessarie.[^24b-4]
 
-[^24b-1]: Introdotto dal n. I dell’O del 5 apr. 2000 ([RU 2000 1093](https://fedlex.data.admin.ch/eli/oc/2000/171)). Nuovo testo giusta il n. I dell’O del 19 gen. 2005, in vigore dal 1° feb. 2005 ([RU 2005 691](https://fedlex.data.admin.ch/eli/oc/2005/76)).
-[^24b-2]: Abrogato dal n. I dell’O del 9 mar. 2007, con effetto dal 1° apr. 2007 ([RU 2007 1039](https://fedlex.data.admin.ch/eli/oc/2007/174)).
-[^24b-3]: Nuovo testo giusta il n. I dell’O del 9 mar. 2007, in vigore dal 1° apr. 2007 ([RU 2007 1039](https://fedlex.data.admin.ch/eli/oc/2007/174)).
-[^24b-4]: Introdotto dal n. I dell’O del 9 mar. 2007, in vigore dal 1° apr. 2007 ([RU 2007 1039](https://fedlex.data.admin.ch/eli/oc/2007/174)).
+[^24b-1]: Introdotto dalla cifra I dell’O del 5 apr. 2000 ([RU 2000 1093](https://fedlex.data.admin.ch/eli/oc/2000/171)). Nuovo testo giusta la cifra I dell’O del 19 gen. 2005, in vigore dal 1° feb. 2005 ([RU 2005 691](https://fedlex.data.admin.ch/eli/oc/2005/76)).
+[^24b-2]: Abrogato dalla cifra I dell’O del 9 mar. 2007, con effetto dal 1° apr. 2007 ([RU 2007 1039](https://fedlex.data.admin.ch/eli/oc/2007/174)).
+[^24b-3]: Nuovo testo giusta la cifra I dell’O del 9 mar. 2007, in vigore dal 1° apr. 2007 ([RU 2007 1039](https://fedlex.data.admin.ch/eli/oc/2007/174)).
+[^24b-4]: Introdotto dalla cifra I dell’O del 9 mar. 2007, in vigore dal 1° apr. 2007 ([RU 2007 1039](https://fedlex.data.admin.ch/eli/oc/2007/174)).
 
 #### Art. 24c
 
@@ -771,10 +771,10 @@ L’UFCOM può revocare l’attribuzione di una serie di numeri se, per un perio
 
 <sup>3</sup> Il titolare di un numero attribuito individualmente deve, su domanda, indicare all’UFCOM quali prestazioni forniva in un determinato momento.[^24c-4]
 
-[^24c-1]: Introdotto dal n. I dell’O del 31 ott. 2001 ([RU 2001 2726](https://fedlex.data.admin.ch/eli/oc/2001/408)). Nuovo testo giusta il n. I dell’O del 19 gen. 2005, in vigore dal 1° feb. 2005 ([RU 2005 691](https://fedlex.data.admin.ch/eli/oc/2005/76)).
-[^24c-2]: Abrogato dal n. I dell’O del 5 nov. 2014, con effetto dal 1° gen. 2015 ([RU 2014 4173](https://fedlex.data.admin.ch/eli/oc/2014/700)).
-[^24c-3]: Introdotto dall’all. n. I dell’O del 4 nov. 2009, in vigore dal 1° gen. 2010 ([RU 2009 5845](https://fedlex.data.admin.ch/eli/oc/2009/710)).
-[^24c-4]: Introdotto dal n. I dell’O del 9 mar. 2007, in vigore dal 1° apr. 2007 ([RU 2007 1039](https://fedlex.data.admin.ch/eli/oc/2007/174)).
+[^24c-1]: Introdotto dalla cifra I dell’O del 31 ott. 2001 ([RU 2001 2726](https://fedlex.data.admin.ch/eli/oc/2001/408)). Nuovo testo giusta la cifra I dell’O del 19 gen. 2005, in vigore dal 1° feb. 2005 ([RU 2005 691](https://fedlex.data.admin.ch/eli/oc/2005/76)).
+[^24c-2]: Abrogato dalla cifra I dell’O del 5 nov. 2014, con effetto dal 1° gen. 2015 ([RU 2014 4173](https://fedlex.data.admin.ch/eli/oc/2014/700)).
+[^24c-3]: Introdotto dall’all. cifra I dell’O del 4 nov. 2009, in vigore dal 1° gen. 2010 ([RU 2009 5845](https://fedlex.data.admin.ch/eli/oc/2009/710)).
+[^24c-4]: Introdotto dalla cifra I dell’O del 9 mar. 2007, in vigore dal 1° apr. 2007 ([RU 2007 1039](https://fedlex.data.admin.ch/eli/oc/2007/174)).
 
 #### Art. 24d
 
@@ -784,7 +784,7 @@ L’UFCOM può revocare l’attribuzione di una serie di numeri se, per un perio
 
 <sup>2</sup> Per le ultime sei cifre, il titolare del numero può utilizzare unicamente l’indicazione alfanumerica annunciata al momento dell’attribuzione. Per la pubblicazione del numero, il titolare può completare questa indicazione aggiungendo alla fine altri segni alfanumerici. Per lo stabilimento della comunicazione, i fornitori di servizi di telecomunicazione sono tenuti ad ignorare i segni aggiunti.
 
-[^24d-1]: Introdotto dal n. I dell’O del 19 gen. 2005, in vigore dal 1° feb. 2005 ([RU 2005 691](https://fedlex.data.admin.ch/eli/oc/2005/76)).
+[^24d-1]: Introdotto dalla cifra I dell’O del 19 gen. 2005, in vigore dal 1° feb. 2005 ([RU 2005 691](https://fedlex.data.admin.ch/eli/oc/2005/76)).
 [^24d-2]: Raccomandazione dell’UIT-T, può essere ottenuta presso l’Unione internazionale delle telecomunicazioni, Place des Nations, 1211 Ginevra, o consultata all’indirizzo Internet www.itu.int
 
 #### Art. 24e
@@ -799,10 +799,10 @@ L’UFCOM può revocare l’attribuzione di una serie di numeri se, per un perio
 
 <sup>3</sup> L’UFCOM determina le altre condizioni d’utilizzazione dei numeri attribuiti individualmente ed emana le prescrizioni tecniche e amministrative necessarie.
 
-[^24e-1]: Introdotto dal n. I dell’O del 19 gen. 2005, in vigore dal 1° feb. 2005 ([RU 2005 691](https://fedlex.data.admin.ch/eli/oc/2005/76)).
-[^24e-2]: Nuovo testo giusta il n. I dell’O del 7 ott. 2015, in vigore dal 1° dic. 2015 ([RU 2015 4051](https://fedlex.data.admin.ch/eli/oc/2015/676)).
-[^24e-3]: Abrogato dal n. I dell’O del 18 nov. 2020, con effetto dal 1° gen. 2021 ([RU 2020 6243](https://fedlex.data.admin.ch/eli/oc/2020/1025)).
-[^24e-4]: Introdotto dal n. I dell’O del 5 nov. 2014 ([RU 2014 4173](https://fedlex.data.admin.ch/eli/oc/2014/700)). Abrogato dal n. I dell’O del 18 nov. 2020, con effetto dal 1° gen. 2021 ([RU 2020 6243](https://fedlex.data.admin.ch/eli/oc/2020/1025)).
+[^24e-1]: Introdotto dalla cifra I dell’O del 19 gen. 2005, in vigore dal 1° feb. 2005 ([RU 2005 691](https://fedlex.data.admin.ch/eli/oc/2005/76)).
+[^24e-2]: Nuovo testo giusta la cifra I dell’O del 7 ott. 2015, in vigore dal 1° dic. 2015 ([RU 2015 4051](https://fedlex.data.admin.ch/eli/oc/2015/676)).
+[^24e-3]: Abrogato dalla cifra I dell’O del 18 nov. 2020, con effetto dal 1° gen. 2021 ([RU 2020 6243](https://fedlex.data.admin.ch/eli/oc/2020/1025)).
+[^24e-4]: Introdotto dalla cifra I dell’O del 5 nov. 2014 ([RU 2014 4173](https://fedlex.data.admin.ch/eli/oc/2014/700)). Abrogato dalla cifra I dell’O del 18 nov. 2020, con effetto dal 1° gen. 2021 ([RU 2020 6243](https://fedlex.data.admin.ch/eli/oc/2020/1025)).
 
 #### Art. 24f
 
@@ -812,13 +812,13 @@ L’UFCOM può revocare l’attribuzione di una serie di numeri se, per un perio
 
 <sup>2</sup> Il fornitore di servizi di telecomunicazione presso il quale è messo fuori servizio un numero attribuito individualmente deve annunciare all’UFCOM la data della messa fuori servizio. Se il numero non è rimesso in servizio entro 30 giorni dalla sua messa fuori servizio, questo fatto viene considerato come una rinuncia all’attribuzione e il numero può essere riattribuito dall’UFCOM. Questa disposizione non si applica alla messa fuori servizio di cui all’articolo 11 capoverso 2.
 
-[^24f-1]: Introdotto dal n. I dell’O del 19 gen. 2005 ([RU 2005 691](https://fedlex.data.admin.ch/eli/oc/2005/76)). Nuovo testo giusta il n. I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6243](https://fedlex.data.admin.ch/eli/oc/2020/1025)).
+[^24f-1]: Introdotto dalla cifra I dell’O del 19 gen. 2005 ([RU 2005 691](https://fedlex.data.admin.ch/eli/oc/2005/76)). Nuovo testo giusta la cifra I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6243](https://fedlex.data.admin.ch/eli/oc/2020/1025)).
 
 #### Art. 24g
 
 [^24g-1]
 
-[^24g-1]: Introdotto dal n. I dell’O del 19 gen. 2005 ([RU 2005 691](https://fedlex.data.admin.ch/eli/oc/2005/76)). Abrogato dal n. I dell’O del 5 nov. 2014, con effetto dal 1° gen. 2015 ([RU 2014 4173](https://fedlex.data.admin.ch/eli/oc/2014/700)).
+[^24g-1]: Introdotto dalla cifra I dell’O del 19 gen. 2005 ([RU 2005 691](https://fedlex.data.admin.ch/eli/oc/2005/76)). Abrogato dalla cifra I dell’O del 5 nov. 2014, con effetto dal 1° gen. 2015 ([RU 2014 4173](https://fedlex.data.admin.ch/eli/oc/2014/700)).
 
 #### Art. 24h
 
@@ -828,7 +828,7 @@ L’UFCOM può revocare l’attribuzione di una serie di numeri se, per un perio
 
 <sup>2</sup> I fornitori di servizi di telecomunicazione possono parimenti bloccare l’accesso ai numeri internazionali composti automaticamente per il tramite di PC-dialer o web-dialer. Essi devono verificare almeno ogni 30 giorni se il bloccaggio è ancora giustificato.
 
-[^24h-1]: Introdotto dal n. I dell’O del 19 gen. 2005, in vigore dal 1° feb. 2005 ([RU 2005 691](https://fedlex.data.admin.ch/eli/oc/2005/76)).
+[^24h-1]: Introdotto dalla cifra I dell’O del 19 gen. 2005, in vigore dal 1° feb. 2005 ([RU 2005 691](https://fedlex.data.admin.ch/eli/oc/2005/76)).
 
 #### Art. 24i
 
@@ -836,7 +836,7 @@ L’UFCOM può revocare l’attribuzione di una serie di numeri se, per un perio
 
 I numeri attribuiti individualmente possono essere riattribuiti immediatamente ad altri titolari con l’accordo dei titolari attuali.
 
-[^24i-1]: Introdotto dal n. I dell’O del 19 gen. 2005, in vigore dal 1° feb. 2005 ([RU 2005 691](https://fedlex.data.admin.ch/eli/oc/2005/76)).
+[^24i-1]: Introdotto dalla cifra I dell’O del 19 gen. 2005, in vigore dal 1° feb. 2005 ([RU 2005 691](https://fedlex.data.admin.ch/eli/oc/2005/76)).
 
 ### Sezione 3: Numeri brevi
 
@@ -852,8 +852,8 @@ I numeri attribuiti individualmente possono essere riattribuiti immediatamente a
 
 <sup>4</sup> L’UFCOM può prevedere un termine per la messa in servizio dei numeri brevi attribuiti. Il termine è fissato nella decisione d’attribuzione.[^25-2]
 
-[^25-1]: Nuovo testo giusta il n. I dell’O del 4 nov. 2009, in vigore dal 1° gen. 2010 ([RU 2009 5845](https://fedlex.data.admin.ch/eli/oc/2009/710)).
-[^25-2]: Introdotto dal n. I dell’O del 19 feb. 2003, in vigore dal 1° mar. 2003 ([RU 2003 397](https://fedlex.data.admin.ch/eli/oc/2003/93)).
+[^25-1]: Nuovo testo giusta la cifra I dell’O del 4 nov. 2009, in vigore dal 1° gen. 2010 ([RU 2009 5845](https://fedlex.data.admin.ch/eli/oc/2009/710)).
+[^25-2]: Introdotto dalla cifra I dell’O del 19 feb. 2003, in vigore dal 1° mar. 2003 ([RU 2003 397](https://fedlex.data.admin.ch/eli/oc/2003/93)).
 
 #### Art. 26
 
@@ -869,7 +869,7 @@ I numeri brevi constano di norma di tre cifre, di cui la prima è la cifra 1 (fo
 
 <sup>2</sup> Gli altri fornitori di servizi di telecomunicazione devono mettere i numeri brevi a disposizione dei loro clienti al più tardi entro la data di messa in servizio comunicata.
 
-[^27-1]: Nuovo testo giusta il n. I dell’O del 19 feb. 2003, in vigore dal 1° mar. 2003 ([RU 2003 397](https://fedlex.data.admin.ch/eli/oc/2003/93)).
+[^27-1]: Nuovo testo giusta la cifra I dell’O del 19 feb. 2003, in vigore dal 1° mar. 2003 ([RU 2003 397](https://fedlex.data.admin.ch/eli/oc/2003/93)).
 
 #### Art. 28
 
@@ -877,19 +877,43 @@ I numeri brevi constano di norma di tre cifre, di cui la prima è la cifra 1 (fo
 
 <sup>1</sup>
 
-Diversi numeri brevi sono a disposizione dei seguenti servizi d’emergenza:
+Per ciascuno dei servizi d’emergenza seguenti è disponibile un numero breve:
 
-- a numero d’emergenza europeo;
-- b polizia, chiamata d’emergenza;
+- a. numero d’emergenza europeo;
+- b. polizia, chiamata d’emergenza;
 - c. pompieri, chiamata d’emergenza;
-- d. servizio sanitario, chiamata d’emergenza;
-- e. assistenza telefonica per adulti;
-- f. assistenza telefonica per bambini e giovani.
-- g. avvelenamento, chiamata d’emergenza.
+- d. servizio sanitario, chiamata d’emergenza.[^28-2]
 
-<sup>2</sup> I servizi d’emergenza devono essere gestiti da organizzazioni riconosciute dalle autorità competenti.
+<sup>2</sup> I numeri brevi sono attribuiti alle organizzazioni riconosciute dalle autorità competenti.[^28-3]
 
-[^28-1]: Nuovo testo giusta il n. I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6243](https://fedlex.data.admin.ch/eli/oc/2020/1025)).
+<sup>3</sup> Qualora sia disponibile un identificatore (URN) riconosciuto a livello internazionale o di Paese, l’UFCOM lo attribuisce al servizio d’intesa con le organizzazioni di cui al capoverso 2.[^28-4]
+
+<sup>4</sup> Pubblica una lista degli identificatori attribuiti.[^28-5]
+
+[^28-1]: Nuovo testo giusta la cifra I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6243](https://fedlex.data.admin.ch/eli/oc/2020/1025)).
+[^28-2]: Nuovo testo giusta l’all. n. 2 dell’O del 6 mag. 2026, in vigore dal 1° lug. 2026 ([RU 2026 243](https://fedlex.data.admin.ch/eli/oc/2026/243)).
+[^28-3]: Nuovo testo giusta l’all. n. 2 dell’O del 6 mag. 2026, in vigore dal 1° lug. 2026 ([RU 2026 243](https://fedlex.data.admin.ch/eli/oc/2026/243)).
+[^28-4]: Introdotto dall’all. n. 2 dell’O del 6 mag. 2026, in vigore dal 1° lug. 2026 ([RU 2026 243](https://fedlex.data.admin.ch/eli/oc/2026/243)).
+[^28-5]: Introdotto dall’all. n. 2 dell’O del 6 mag. 2026, in vigore dal 1° lug. 2026 ([RU 2026 243](https://fedlex.data.admin.ch/eli/oc/2026/243)).
+
+#### Art. 28a
+
+**Servizi di assistenza e consulenza**[^28a-1]
+
+<sup>1</sup>
+
+Per ciascuno dei servizi di assistenza e consulenza seguenti è disponibile un numero breve:
+
+- a. assistenza per adulti;
+- b. assistenza per bambini e giovani;
+- c. assistenza alle vittime;
+- d. assistenza in caso di avvelenamento.
+
+<sup>2</sup> I numeri brevi sono attribuiti alle organizzazioni riconosciute dalle autorità competenti.
+
+<sup>3</sup> L’articolo 28 capoversi 3 e 4 si applica per analogia.
+
+[^28a-1]: Introdotto dall’all. n. 2 dell’O del 6 mag. 2026, in vigore dal 1° lug. 2026 ([RU 2026 243](https://fedlex.data.admin.ch/eli/oc/2026/243)).
 
 #### Art. 29
 
@@ -897,7 +921,7 @@ Diversi numeri brevi sono a disposizione dei seguenti servizi d’emergenza:
 
 L’UFCOM può attribuire un numero breve a chiunque intende fornire servizi di pubblica utilità nell’ambito delle attività di soccorso aereo che richiedono l’intervento immediato di specialisti sul posto.
 
-[^29-1]: Nuovo testo giusta il n. I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6243](https://fedlex.data.admin.ch/eli/oc/2020/1025)).
+[^29-1]: Nuovo testo giusta la cifra I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6243](https://fedlex.data.admin.ch/eli/oc/2020/1025)).
 
 #### Art. 30
 
@@ -911,15 +935,15 @@ L’UFCOM può attribuire un numero breve a chiunque intende fornire servizi di 
 
 <sup>4</sup> *...*[^30-3]
 
-[^30-1]: Nuovo testo giusta il n. I dell’O del 4 nov. 2009, in vigore dal 1° gen. 2010 ([RU 2009 5845](https://fedlex.data.admin.ch/eli/oc/2009/710)).
-[^30-2]: Nuovo testo giusta il n. I dell’O del 5 nov. 2014, in vigore dal 1° gen. 2015 ([RU 2014 4173](https://fedlex.data.admin.ch/eli/oc/2014/700)).
-[^30-3]: Abrogato dal n. I dell’O del 5 nov. 2014, con effetto dal 1° gen. 2015 ([RU 2014 4173](https://fedlex.data.admin.ch/eli/oc/2014/700)).
+[^30-1]: Nuovo testo giusta la cifra I dell’O del 4 nov. 2009, in vigore dal 1° gen. 2010 ([RU 2009 5845](https://fedlex.data.admin.ch/eli/oc/2009/710)).
+[^30-2]: Nuovo testo giusta la cifra I dell’O del 5 nov. 2014, in vigore dal 1° gen. 2015 ([RU 2014 4173](https://fedlex.data.admin.ch/eli/oc/2014/700)).
+[^30-3]: Abrogato dalla cifra I dell’O del 5 nov. 2014, con effetto dal 1° gen. 2015 ([RU 2014 4173](https://fedlex.data.admin.ch/eli/oc/2014/700)).
 
 #### Art. 31
 
 [^31-1]
 
-[^31-1]: Abrogato dal n. I dell’O del 5 dic. 2003, con effetto dal 1° gen. 2004 ([RU 2003 4775](https://fedlex.data.admin.ch/eli/oc/2003/697)).
+[^31-1]: Abrogato dalla cifra I dell’O del 5 dic. 2003, con effetto dal 1° gen. 2004 ([RU 2003 4775](https://fedlex.data.admin.ch/eli/oc/2003/697)).
 
 #### Art. 31a
 
@@ -937,11 +961,11 @@ L’UFCOM può attribuire un numero breve a chiunque intende fornire servizi di 
 
 <sup>4</sup> L’UFCOM emana le necessarie prescrizioni tecniche e amministrative.
 
-[^31a-1]: Introdotto dal n. I dell’O del 31 ott. 2001, in vigore dal 15 nov. 2001 ([RU 2001 2726](https://fedlex.data.admin.ch/eli/oc/2001/408)).
-[^31a-2]: Introdotto dal n. I dell’O del 9 mar. 2007, in vigore dal 1° apr. 2007 ([RU 2007 1039](https://fedlex.data.admin.ch/eli/oc/2007/174)).
-[^31a-3]: Nuovo testo giusta il n. I dell’O del 4 nov. 2009, in vigore dal 1° gen. 2010 ([RU 2009 5845](https://fedlex.data.admin.ch/eli/oc/2009/710)).
-[^31a-4]: Nuovo testo giusta il n. I dell’O del 19 feb. 2003, in vigore dal 1° mar. 2003 ([RU 2003 397](https://fedlex.data.admin.ch/eli/oc/2003/93)).
-[^31a-5]: Introdotto dal n. I dell’O del 9 mar. 2007 ([RU 2007 1039](https://fedlex.data.admin.ch/eli/oc/2007/174)). Abrogato dal n. I dell’O del 5 nov. 2014, con effetto dal 1° gen. 2015 ([RU 2014 4173](https://fedlex.data.admin.ch/eli/oc/2014/700)).
+[^31a-1]: Introdotto dalla cifra I dell’O del 31 ott. 2001, in vigore dal 15 nov. 2001 ([RU 2001 2726](https://fedlex.data.admin.ch/eli/oc/2001/408)).
+[^31a-2]: Introdotto dalla cifra I dell’O del 9 mar. 2007, in vigore dal 1° apr. 2007 ([RU 2007 1039](https://fedlex.data.admin.ch/eli/oc/2007/174)).
+[^31a-3]: Nuovo testo giusta la cifra I dell’O del 4 nov. 2009, in vigore dal 1° gen. 2010 ([RU 2009 5845](https://fedlex.data.admin.ch/eli/oc/2009/710)).
+[^31a-4]: Nuovo testo giusta la cifra I dell’O del 19 feb. 2003, in vigore dal 1° mar. 2003 ([RU 2003 397](https://fedlex.data.admin.ch/eli/oc/2003/93)).
+[^31a-5]: Introdotto dalla cifra I dell’O del 9 mar. 2007 ([RU 2007 1039](https://fedlex.data.admin.ch/eli/oc/2007/174)). Abrogato dalla cifra I dell’O del 5 nov. 2014, con effetto dal 1° gen. 2015 ([RU 2014 4173](https://fedlex.data.admin.ch/eli/oc/2014/700)).
 
 #### Art. 31b
 
@@ -953,12 +977,12 @@ L’UFCOM può attribuire un numero breve a chiunque intende fornire servizi di 
 
 <sup>3</sup> Per quanto concerne il numero di cifre, i numeri brevi per i servizi armonizzati a livello europeo possono derogare dal formato previsto dall’articolo 26.
 
-<sup>3bis</sup> Le comunicazioni verso i numeri brevi dei servizi a valenza sociale armonizzati a livello europeo devono essere gratuite per il chiamante.[^31b-2]
+<sup>3bis</sup> ...[^31b-2]
 
 <sup>4</sup> L’UFCOM può emanare condizioni d’utilizzazione per i numeri brevi utilizzati per fornire servizi armonizzati a livello europeo.
 
-[^31b-1]: Introdotto dal n. I dell’O del 19 gen. 2005, in vigore dal 1° feb. 2005 ([RU 2005 691](https://fedlex.data.admin.ch/eli/oc/2005/76)).
-[^31b-2]: Introdotto dal n. I dell’O del 4 nov. 2009, in vigore dal 1° gen. 2010 ([RU 2009 5845](https://fedlex.data.admin.ch/eli/oc/2009/710)).
+[^31b-1]: Introdotto dalla cifra I dell’O del 19 gen. 2005, in vigore dal 1° feb. 2005 ([RU 2005 691](https://fedlex.data.admin.ch/eli/oc/2005/76)).
+[^31b-2]: Introdotto dalla cifra I dell’O del 4 nov. 2009 ([RU 2009 5845](https://fedlex.data.admin.ch/eli/oc/2009/710)). Abrogato dall’all. n. 2 dell’O del 6 mag. 2026, con effetto dal 1° lug. 2026 ([RU 2026 243](https://fedlex.data.admin.ch/eli/oc/2026/243)).
 
 #### Art. 32
 
@@ -966,8 +990,8 @@ L’UFCOM può attribuire un numero breve a chiunque intende fornire servizi di 
 
 L’accesso all’elenco e al servizio di commutazione per ipovedenti e persone con difficoltà motorie ai sensi dell’articolo 15 capoverso 1 lettera f dell’ordinanza del 9 marzo 2007[^32-2] sui servizi di telecomunicazione deve essere garantito tramite numeri brevi.
 
-[^32-1]: Nuovo testo giusta il n. I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6243](https://fedlex.data.admin.ch/eli/oc/2020/1025)).
-[^32-2]: [RS 784.101.1](https://fedlex.data.admin.ch/eli/cc/2007/166)
+[^32-1]: Nuovo testo giusta la cifra I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6243](https://fedlex.data.admin.ch/eli/oc/2020/1025)).
+[^32-2]: [RS 784.101.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9173)
 
 #### Art. 33
 
@@ -975,7 +999,7 @@ L’accesso all’elenco e al servizio di commutazione per ipovedenti e persone 
 
 Su domanda, l’UFCOM può attribuire a un fornitore di servizi di telecomunicazione numeri brevi per la libera scelta dei fornitori per i collegamenti nazionali e internazionali.
 
-[^33-1]: Nuovo testo giusta il n. I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6243](https://fedlex.data.admin.ch/eli/oc/2020/1025)).
+[^33-1]: Nuovo testo giusta la cifra I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6243](https://fedlex.data.admin.ch/eli/oc/2020/1025)).
 
 #### Art. 34
 
@@ -985,7 +1009,7 @@ Su domanda, l’UFCOM può attribuire a un fornitore di servizi di telecomunicaz
 
 <sup>2</sup> L’UFCOM può esigere dal fornitore di servizi di telecomunicazione, grazie al cui supporto il titolare di un numero breve offre il proprio servizio, di certificare la quantità annua di chiamate ricevute.
 
-[^34-1]: Nuovo testo giusta il n. I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6243](https://fedlex.data.admin.ch/eli/oc/2020/1025)).
+[^34-1]: Nuovo testo giusta la cifra I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6243](https://fedlex.data.admin.ch/eli/oc/2020/1025)).
 
 ## Capitolo 3: Elementi d’indirizzo del piano di numerazione X.121 (DNIC)
 
@@ -1014,7 +1038,7 @@ La richiesta deve contenere le seguenti indicazioni:
 
 <sup>5</sup> L’UFCOM esamina le domande di attribuzione di un decimo di DNIC nell’ordine cronologico di inoltro all’Ufficio e fintanto che vi sono DNIC attribuiti alla Svizzera.[^35-1]
 
-[^35-1]: Nuovo testo giusta il n. I dell’O del 5 apr. 2000, in vigore dal 1° mag. 2000 ([RU 2000 1093](https://fedlex.data.admin.ch/eli/oc/2000/171)).
+[^35-1]: Nuovo testo giusta la cifra I dell’O del 5 apr. 2000, in vigore dal 1° mag. 2000 ([RU 2000 1093](https://fedlex.data.admin.ch/eli/oc/2000/171)).
 
 #### Art. 36
 
@@ -1026,7 +1050,7 @@ Ogni DNIC o decimo di DNIC attribuito può essere riattribuito immediatamente da
 
 [^chap4-1]
 
-[^chap4-1]: Nuovo testo giusta il n. I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6243](https://fedlex.data.admin.ch/eli/oc/2020/1025)).
+[^chap4-1]: Nuovo testo giusta la cifra I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6243](https://fedlex.data.admin.ch/eli/oc/2020/1025)).
 
 #### Art. 37
 
@@ -1048,7 +1072,7 @@ Ogni DNIC o decimo di DNIC attribuito può essere riattribuito immediatamente da
 
 <sup>2</sup> Non verifica se il richiedente ha il diritto di utilizzare il nome richiesto.
 
-[^38-1]: Nuovo testo giusta il n. I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6243](https://fedlex.data.admin.ch/eli/oc/2020/1025)).
+[^38-1]: Nuovo testo giusta la cifra I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6243](https://fedlex.data.admin.ch/eli/oc/2020/1025)).
 
 #### Art. 39
 
@@ -1069,7 +1093,7 @@ Se intende esercitare un first level DSA, è tenuto a:
 - c. esercitare il sistema 24 ore su 24;
 - d. fare in modo che si possa accedere in ogni momento in modo online ai dati relativi agli indirizzi aggiornati dei gestori di second level DSA.
 
-[^39-1]: Nuovo testo giusta il n. I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6243](https://fedlex.data.admin.ch/eli/oc/2020/1025)).
+[^39-1]: Nuovo testo giusta la cifra I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6243](https://fedlex.data.admin.ch/eli/oc/2020/1025)).
 
 #### Art. 40
 
@@ -1097,7 +1121,7 @@ Se intende esercitare un first level DSA, è tenuto a:
 
 [^41-1]: Raccomandazione dell’UIT-T, può essere ottenuta presso l’Unione internazionale delle telecomunicazioni, Place des Nations, 1211 Ginevra, o consultata all’indirizzo Internet www.itu.int
 [^41-2]: Questa norma può essere ottenuta presso il Segretariato dell’Organizzazione internazionale di normazione, 1, rue de Varembé, 1211 Ginevra 20.
-[^41-3]: Nuovo testo giusta il n. I dell’O del 14 dic. 1998, in vigore dal 1° feb. 1999 ([RU 1999 378](https://fedlex.data.admin.ch/eli/oc/1999/40)).
+[^41-3]: Nuovo testo giusta la cifra I dell’O del 14 dic. 1998, in vigore dal 1° feb. 1999 ([RU 1999 378](https://fedlex.data.admin.ch/eli/oc/1999/40)).
 
 #### Art. 42
 
@@ -1108,7 +1132,7 @@ Se intende esercitare un first level DSA, è tenuto a:
 <sup>2</sup> Se la domanda adempie le condizioni richieste, l’UFCOM la trasmette all’organismo internazionale competente per l’attribuzione.
 
 [^42-1]: Questa norma può essere ottenuta presso il Segretariato dell’Organizzazione internazionale di normazione, 1, rue de Varembé, 1211 Ginevra 20.
-[^42-2]: Nuovo testo giusta il n. I dell’O del 14 dic. 1998, in vigore dal 1° feb. 1999 ([RU 1999 378](https://fedlex.data.admin.ch/eli/oc/1999/40)).
+[^42-2]: Nuovo testo giusta la cifra I dell’O del 14 dic. 1998, in vigore dal 1° feb. 1999 ([RU 1999 378](https://fedlex.data.admin.ch/eli/oc/1999/40)).
 
 #### Art. 43
 
@@ -1125,11 +1149,11 @@ L’UFCOM attribuisce al richiedente un object identifier, che dipende dai nodi 
 
 <sup>3</sup> L’attribuzione degli object identifier si basa sulla raccomandazione UIT-T X.680[^43-3] e sulla norma ISO/CEI 8824[^43-4] nonché sulle prescrizioni dell’UFCOM.[^43-5]
 
-[^43-1]: Nuovo testo giusta il n. I dell’O del 31 ott. 2001, in vigore dal 15 nov. 2001 ([RU 2001 2726](https://fedlex.data.admin.ch/eli/oc/2001/408)).
-[^43-2]: Nuovo testo giusta il n. I dell’O del 31 ott. 2001, in vigore dal 15 nov. 2001 ([RU 2001 2726](https://fedlex.data.admin.ch/eli/oc/2001/408)).
+[^43-1]: Nuovo testo giusta la cifra I dell’O del 31 ott. 2001, in vigore dal 15 nov. 2001 ([RU 2001 2726](https://fedlex.data.admin.ch/eli/oc/2001/408)).
+[^43-2]: Nuovo testo giusta la cifra I dell’O del 31 ott. 2001, in vigore dal 15 nov. 2001 ([RU 2001 2726](https://fedlex.data.admin.ch/eli/oc/2001/408)).
 [^43-3]: Raccomandazione dell’UIT-T, può essere ottenuta presso l’Unione internazionale delle telecomunicazioni, Place des Nations, 1211 Ginevra, o consultata all’indirizzo Internet www.itu.int
 [^43-4]: Questa norma è ottenibile presso il Segretariato dell’Organizzazione internazionale di normalizzazione, 1, Rue de Varembé, 1211 Ginevra 20.
-[^43-5]: Nuovo testo giusta il n. I dell’O del 19 gen. 2005, in vigore dal 1° feb. 2005 ([RU 2005 691](https://fedlex.data.admin.ch/eli/oc/2005/76)).
+[^43-5]: Nuovo testo giusta la cifra I dell’O del 19 gen. 2005, in vigore dal 1° feb. 2005 ([RU 2005 691](https://fedlex.data.admin.ch/eli/oc/2005/76)).
 
 #### Art. 44
 
@@ -1140,7 +1164,7 @@ L’UFCOM attribuisce al richiedente un object identifier, che dipende dai nodi 
 <sup>2</sup> Se la domanda adempie le condizioni richieste, l’UFCOM la trasmette all’organismo internazionale competente per l’attribuzione.
 
 [^44-1]: Raccomandazione dell’UIT-T, può essere ottenuta presso l’Unione internazionale delle telecomunicazioni, Place des Nations, 1211 Ginevra, o consultata all’indirizzo Internet www.itu.int
-[^44-2]: Nuovo testo giusta il n. I dell’O del 14 dic. 1998, in vigore dal 1° feb. 1999 ([RU 1999 378](https://fedlex.data.admin.ch/eli/oc/1999/40)).
+[^44-2]: Nuovo testo giusta la cifra I dell’O del 14 dic. 1998, in vigore dal 1° feb. 1999 ([RU 1999 378](https://fedlex.data.admin.ch/eli/oc/1999/40)).
 
 #### Art. 45
 
@@ -1154,8 +1178,8 @@ L’UFCOM attribuisce al richiedente un object identifier, che dipende dai nodi 
 
 <sup>3</sup> L’attribuzione avviene conformemente alla raccomandazione Q.708[^45-3] dell’UIT-T.
 
-[^45-1]: Nuovo testo giusta il n. I dell’O del 14 dic. 1998, in vigore dal 1° feb. 1999 ([RU 1999 378](https://fedlex.data.admin.ch/eli/oc/1999/40)).
-[^45-2]: Introdotto dal n. I dell’O del 19 gen. 2005, in vigore dal 1° feb. 2005 ([RU 2005 691](https://fedlex.data.admin.ch/eli/oc/2005/76)).
+[^45-1]: Nuovo testo giusta la cifra I dell’O del 14 dic. 1998, in vigore dal 1° feb. 1999 ([RU 1999 378](https://fedlex.data.admin.ch/eli/oc/1999/40)).
+[^45-2]: Introdotto dalla cifra I dell’O del 19 gen. 2005, in vigore dal 1° feb. 2005 ([RU 2005 691](https://fedlex.data.admin.ch/eli/oc/2005/76)).
 [^45-3]: Raccomandazione dell’UIT-T, può essere ottenuta presso l’Unione internazionale delle telecomunicazioni, Place des Nations, 1211 Ginevra, o consultata all’indirizzo Internet www.itu.int
 
 #### Art. 46
@@ -1187,19 +1211,19 @@ Su richiesta, l’UFCOM attribuisce a un fornitore di servizi di telecomunicazio
 
 <sup>3</sup> Esso esamina le domande d’attribuzione di un MNC in base alla successione in cui sono state ricevute e fintanto che vi sono MNC attribuiti alla Svizzera.[^47-7]
 
-[^47-1]: Nuovo testo giusta il n. I dell’O del 14 dic. 1998, in vigore dal 1° feb. 1999 ([RU 1999 378](https://fedlex.data.admin.ch/eli/oc/1999/40)).
+[^47-1]: Nuovo testo giusta la cifra I dell’O del 14 dic. 1998, in vigore dal 1° feb. 1999 ([RU 1999 378](https://fedlex.data.admin.ch/eli/oc/1999/40)).
 [^47-2]: Raccomandazione dell’UIT-T, può essere ottenuta presso l’Unione internazionale delle telecomunicazioni, Place des Nations, 1211 Ginevra, o consultata all’indirizzo Internet www.itu.int
-[^47-3]: Nuovo testo giusta il n. I dell’O del 5 nov. 2014, in vigore dal 1° gen. 2015 ([RU 2014 4173](https://fedlex.data.admin.ch/eli/oc/2014/700)).
-[^47-4]: Introdotto dal n. I dell’O del 5 nov. 2014, in vigore dal 1° gen. 2015 ([RU 2014 4173](https://fedlex.data.admin.ch/eli/oc/2014/700)).
-[^47-5]: Nuovo testo giusta il n. I dell’O del 5 dic. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4775](https://fedlex.data.admin.ch/eli/oc/2003/697)).
-[^47-6]: Introdotto dal n. I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6243](https://fedlex.data.admin.ch/eli/oc/2020/1025)).
-[^47-7]: Introdotto dal n. I dell’O del 5 dic. 2003, con effetto dal 1° gen. 2004 ([RU 2003 4775](https://fedlex.data.admin.ch/eli/oc/2003/697)).
+[^47-3]: Nuovo testo giusta la cifra I dell’O del 5 nov. 2014, in vigore dal 1° gen. 2015 ([RU 2014 4173](https://fedlex.data.admin.ch/eli/oc/2014/700)).
+[^47-4]: Introdotto dalla cifra I dell’O del 5 nov. 2014, in vigore dal 1° gen. 2015 ([RU 2014 4173](https://fedlex.data.admin.ch/eli/oc/2014/700)).
+[^47-5]: Nuovo testo giusta la cifra I dell’O del 5 dic. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4775](https://fedlex.data.admin.ch/eli/oc/2003/697)).
+[^47-6]: Introdotto dalla cifra I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6243](https://fedlex.data.admin.ch/eli/oc/2020/1025)).
+[^47-7]: Introdotto dalla cifra I dell’O del 5 dic. 2003, con effetto dal 1° gen. 2004 ([RU 2003 4775](https://fedlex.data.admin.ch/eli/oc/2003/697)).
 
 #### Art. 47a
 
 [^47a-1]
 
-[^47a-1]: Introdotto dal n. I dell’O del 14 dic. 1998 ([RU 1999 378](https://fedlex.data.admin.ch/eli/oc/1999/40)). Abrogato dal n. I dell’O del 18 nov. 2020, con effetto dal 1° gen. 2021 ([RU 2020 6243](https://fedlex.data.admin.ch/eli/oc/2020/1025)).
+[^47a-1]: Introdotto dalla cifra I dell’O del 14 dic. 1998 ([RU 1999 378](https://fedlex.data.admin.ch/eli/oc/1999/40)). Abrogato dalla cifra I dell’O del 18 nov. 2020, con effetto dal 1° gen. 2021 ([RU 2020 6243](https://fedlex.data.admin.ch/eli/oc/2020/1025)).
 
 #### Art. 47b
 
@@ -1209,7 +1233,7 @@ Su richiesta, l’UFCOM attribuisce a un fornitore di servizi di telecomunicazio
 
 <sup>2</sup> L’UFCOM esamina le domande d’attribuzione di un T-MNC in base all’ordine cronologico in cui sono pervenute e fintanto che vi sono T-MNC attribuiti alla Svizzera.
 
-[^47b-1]: Introdotto dal n. I dell’O del 31 ott. 2001, in vigore dal 15 nov. 2001 ([RU 2001 2726](https://fedlex.data.admin.ch/eli/oc/2001/408)).
+[^47b-1]: Introdotto dalla cifra I dell’O del 31 ott. 2001, in vigore dal 15 nov. 2001 ([RU 2001 2726](https://fedlex.data.admin.ch/eli/oc/2001/408)).
 [^47b-2]: Questa norma è ottenibile presso l’Istituto europeo delle norme di telecomunicazione, 650 route des Lucioles, 06921 Sophia Antipolis, Francia.
 
 #### Art. 47c
@@ -1218,8 +1242,8 @@ Su richiesta, l’UFCOM attribuisce a un fornitore di servizi di telecomunicazio
 
 Su richiesta, l’UFCOM attribuisce un indicativo di chiamata secondo l’appendice 42 del Regolamento delle radiocomunicazioni del 17 novembre 1995[^47c-2] per la trasmissione dati sulle frequenze di radiocomunicazione ad uso generale conformemente al protocollo di trasmissione dati a pacchetto (packet radio).
 
-[^47c-1]: Introdotto dal n. I dell’O del 31 ott. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6581](https://fedlex.data.admin.ch/eli/oc/2012/792)).
-[^47c-2]: [RS 0.784.403.1](https://fedlex.data.admin.ch/eli/cc/2005/778)
+[^47c-1]: Introdotto dalla cifra I dell’O del 31 ott. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6581](https://fedlex.data.admin.ch/eli/oc/2012/792)).
+[^47c-2]: [RS 0.784.403.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3376)
 
 #### Art. 47d
 
@@ -1227,8 +1251,8 @@ Su richiesta, l’UFCOM attribuisce un indicativo di chiamata secondo l’append
 
 Su domanda, l’UFCOM attribuisce un indicativo di chiamata e identificativi per l’utilizzazione di impianti di radiocomunicazione secondo l’articolo 36 capoversi 1 e 2 dell’ordinanza del 18 novembre 2020[^47d-2] sull’utilizzazione dello spettro delle radiofrequenze (OUS) a bordo di imbarcazioni d’alto mare e renane.
 
-[^47d-1]: Introdotto dal n. I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6243](https://fedlex.data.admin.ch/eli/oc/2020/1025)).
-[^47d-2]: [RS 784.102.1](https://fedlex.data.admin.ch/eli/cc/2020/1024)
+[^47d-1]: Introdotto dalla cifra I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6243](https://fedlex.data.admin.ch/eli/oc/2020/1025)).
+[^47d-2]: [RS 784.102.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9187)
 
 #### Art. 47e
 
@@ -1236,8 +1260,8 @@ Su domanda, l’UFCOM attribuisce un indicativo di chiamata e identificativi per
 
 Su domanda, l’UFCOM attribuisce un indicativo di chiamata per l’utilizzazione di impianti di radiocomunicazione secondo l’articolo 36 capoverso 3 OUS[^47e-2] per le radiocomunicazioni aeronautiche.
 
-[^47e-1]: Introdotto dal n. I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6243](https://fedlex.data.admin.ch/eli/oc/2020/1025)).
-[^47e-2]: [RS 784.102.1](https://fedlex.data.admin.ch/eli/cc/2020/1024)
+[^47e-1]: Introdotto dalla cifra I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6243](https://fedlex.data.admin.ch/eli/oc/2020/1025)).
+[^47e-2]: [RS 784.102.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9187)
 
 #### Art. 47f
 
@@ -1256,9 +1280,9 @@ Le persone fisiche che richiedono all’UFCOM un indicativo di chiamata per la r
 
 <sup>3</sup> Su domanda, l’UFCOM può attribuire ad associazioni di radioamatori un indicativo di chiamata speciale per al massimo un anno.
 
-[^47f-1]: Introdotto dal n. I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6243](https://fedlex.data.admin.ch/eli/oc/2020/1025)).
-[^47f-2]: [RS 0.784.403.1](https://fedlex.data.admin.ch/eli/cc/2005/778)
-[^47f-3]: [RS 784.102.1](https://fedlex.data.admin.ch/eli/cc/2020/1024)
+[^47f-1]: Introdotto dalla cifra I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6243](https://fedlex.data.admin.ch/eli/oc/2020/1025)).
+[^47f-2]: [RS 0.784.403.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3376)
+[^47f-3]: [RS 784.102.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9187)
 
 #### Art. 48
 
@@ -1276,7 +1300,7 @@ Su richiesta, l’UFCOM attribuisce un codice del fabbricante conformemente alla
 
 <sup>2</sup> Se la domanda adempie le condizioni richieste, l’UFCOM la trasmette all’organismo internazionale competente per l’attribuzione.
 
-[^49-1]: Nuovo testo giusta il n. I dell’O del 5 apr. 2000, in vigore dal 1° mag. 2000 ([RU 2000 1093](https://fedlex.data.admin.ch/eli/oc/2000/171)).
+[^49-1]: Nuovo testo giusta la cifra I dell’O del 5 apr. 2000, in vigore dal 1° mag. 2000 ([RU 2000 1093](https://fedlex.data.admin.ch/eli/oc/2000/171)).
 [^49-2]: Raccomandazione dell’UIT-T, può essere ottenuta presso l’Unione internazionale delle telecomunicazioni, Place des Nations, 1211 Ginevra, o consultata all’indirizzo Internet www.itu.int
 
 #### Art. 50
@@ -1305,50 +1329,45 @@ Ogni elemento d’indirizzo attribuito può essere riattribuito immediatamente d
 
 <sup>3</sup> ...[^52-1]
 
-[^52-1]: Abrogato dal n. I dell’O del 9 mar. 2007, con effetto dal 1° apr. 2007 ([RU 2007 1039](https://fedlex.data.admin.ch/eli/oc/2007/174)).
+[^52-1]: Abrogato dalla cifra I dell’O del 9 mar. 2007, con effetto dal 1° apr. 2007 ([RU 2007 1039](https://fedlex.data.admin.ch/eli/oc/2007/174)).
 
-### Sezione 2: Disposizioni transitorie
+### Sezione 2: …
 
 #### Art. 53
 
 [^53-1]
 
-[^53-1]: Abrogato dal n. I dell’O del 18 nov. 2020, con effetto dal 1° gen. 2021 ([RU 2020 6243](https://fedlex.data.admin.ch/eli/oc/2020/1025)).
+[^53-1]: Abrogato dalla cifra I dell’O del 18 nov. 2020, con effetto dal 1° gen. 2021 ([RU 2020 6243](https://fedlex.data.admin.ch/eli/oc/2020/1025)).
 
 #### Art. 54
 
-**Numeri brevi**[^54-1]
+[^54-1]
 
-<sup>1</sup> I numeri 1600, 161, 162 e 164 possono rimanere in funzione fintanto che i titolari non rinunciano all’esercizio, ma al massimo fino al 31 dicembre 2022. Possono essere utilizzati solo conformemente alla decisione di attribuzione. Se in un anno civile non è raggiunto il numero di 500 000 chiamate, il numero in questione può essere revocato. Non è consentito rilevare i numeri né assegnarli ad altri titolari.
-
-<sup>2</sup> I fornitori di servizi di soccorso stradale titolari del numero 140 devono cessare l’utilizzazione di questo numero entro il 31 dicembre 2025. Informano le persone che chiamano della sua imminente messa fuori servizio, ma non hanno il diritto di indicare loro un numero di sostituzione.[^54-2]
-
-[^54-1]: Nuovo testo giusta il n. I dell’O del 7 ott. 2015, in vigore dal 1° dic. 2015 ([RU 2015 4051](https://fedlex.data.admin.ch/eli/oc/2015/676)).
-[^54-2]: Introdotto dal n. I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6243](https://fedlex.data.admin.ch/eli/oc/2020/1025)).
+[^54-1]: Abrogato dall’all. n. 2 dell’O del 6 mag. 2026, con effetto dal 1° lug. 2026 ([RU 2026 243](https://fedlex.data.admin.ch/eli/oc/2026/243)).
 
 #### Art. 54a
 
 [^54a-1]
 
-[^54a-1]: Introdotto dal n. I dell’O del 5 apr. 2000 ([RU 2000 1093](https://fedlex.data.admin.ch/eli/oc/2000/171)). Abrogato dal n. I dell’O del 9 mar. 2007, con effetto dal 1° apr. 2007 ([RU 2007 1039](https://fedlex.data.admin.ch/eli/oc/2007/174)).
+[^54a-1]: Introdotto dalla cifra I dell’O del 5 apr. 2000 ([RU 2000 1093](https://fedlex.data.admin.ch/eli/oc/2000/171)). Abrogato dalla cifra I dell’O del 9 mar. 2007, con effetto dal 1° apr. 2007 ([RU 2007 1039](https://fedlex.data.admin.ch/eli/oc/2007/174)).
 
 #### Art. 55 e 56
 
 [^5556-1]
 
-[^5556-1]: Abrogati dal n. I dell’O del 9 mar. 2007, con effetto dal 1° apr. 2007 ([RU 2007 1039](https://fedlex.data.admin.ch/eli/oc/2007/174)).
+[^5556-1]: Abrogati dalla cifra I dell’O del 9 mar. 2007, con effetto dal 1° apr. 2007 ([RU 2007 1039](https://fedlex.data.admin.ch/eli/oc/2007/174)).
 
 #### Art. 56a
 
 [^56a-1]
 
-[^56a-1]: Introdotto dal n. I dell’O del 19 dic. 2001 ([RU 2002 273](https://fedlex.data.admin.ch/eli/oc/2002/59)). Abrogato dal n. I dell’O del 9 mar. 2007, con effetto dal 1° apr. 2007 ([RU 2007 1039](https://fedlex.data.admin.ch/eli/oc/2007/174)).
+[^56a-1]: Introdotto dalla cifra I dell’O del 19 dic. 2001 ([RU 2002 273](https://fedlex.data.admin.ch/eli/oc/2002/59)). Abrogato dalla cifra I dell’O del 9 mar. 2007, con effetto dal 1° apr. 2007 ([RU 2007 1039](https://fedlex.data.admin.ch/eli/oc/2007/174)).
 
-#### Art. 56b e 56c
+#### Art. 56be 56c
 
 [^56b56c-1]
 
-[^56b56c-1]: Introdotti dal n. I dell’O del 19 gen. 2005 ([RU 2005 691](https://fedlex.data.admin.ch/eli/oc/2005/76)). Abrogati dal n. I dell’O del 9 mar. 2007, con effetto dal 1° apr. 2007 ([RU 2007 1039](https://fedlex.data.admin.ch/eli/oc/2007/174)).
+[^56b56c-1]: Introdotti dalla cifra I dell’O del 19 gen. 2005 ([RU 2005 691](https://fedlex.data.admin.ch/eli/oc/2005/76)). Abrogati dalla cifra I dell’O del 9 mar. 2007, con effetto dal 1° apr. 2007 ([RU 2007 1039](https://fedlex.data.admin.ch/eli/oc/2007/174)).
 
 ### Sezione 3: Entrata in vigore
 
@@ -1362,7 +1381,7 @@ Allegato[^t-1]
 
 ## Termini e abbreviazioni
 
-[^t-1]: Nuovo testo giusta il n. II delle O del 19 feb. 2003 ([RU 2003 397](https://fedlex.data.admin.ch/eli/oc/2003/93)). Aggiornato dal n. II delle O del 5 dic. 2003 ([RU 2003 4775](https://fedlex.data.admin.ch/eli/oc/2003/697)), del 19 gen. 2005 ([RU 2005 691](https://fedlex.data.admin.ch/eli/oc/2005/76)) e del 4 nov. 2009 ([RU 2009 5845](https://fedlex.data.admin.ch/eli/oc/2009/710)), del 5 nov. 2014 ([RU 2014 4173](https://fedlex.data.admin.ch/eli/oc/2014/700)) e del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6243](https://fedlex.data.admin.ch/eli/oc/2020/1025)).
+[^t-1]: Nuovo testo giusta la cifra II delle O del 19 feb. 2003 ([RU 2003 397](https://fedlex.data.admin.ch/eli/oc/2003/93)). Aggiornato dalla cifra II delle O del 5 dic. 2003 ([RU 2003 4775](https://fedlex.data.admin.ch/eli/oc/2003/697)), del 19 gen. 2005 ([RU 2005 691](https://fedlex.data.admin.ch/eli/oc/2005/76)) e del 4 nov. 2009 ([RU 2009 5845](https://fedlex.data.admin.ch/eli/oc/2009/710)), del 5 nov. 2014 ([RU 2014 4173](https://fedlex.data.admin.ch/eli/oc/2014/700)), del 18 nov. 2020 ([RU 2020 6243](https://fedlex.data.admin.ch/eli/oc/2020/1025)) e dal’all. n. 2 dell’O del 6 mag. 2026, in vigore dal 1° lug. 2026 ([RU 2026 243](https://fedlex.data.admin.ch/eli/oc/2026/243)).
 
 ADMD (Administration Management Domain). Nomi ADMD: nomi di fornitori di servizi di messaggeria X.400<sup>a</sup>/ISO 10021<sup>b</sup>;
 
@@ -1390,6 +1409,8 @@ GSM-R (Global System for Mobile Communication Railway): sistema di radiocomunica
 ICD (International Code Designator): il formato dell’indirizzo NSAP per reti OSI internazionali;
 
 IEC (International Electrotechnical Commission): Commissione Elettrotecnica Internazionale (CEI);
+
+IETF (International Engineering Task Force): organizzazione di standardizzazione che sviluppa e promuove norme tecniche per Internet;
 
 IIN (Issuer Identifier Number): il numero di identificazione dell’emittente di carte di credito internazionali per le telecomunicazioni conformemente alla raccomandazione UIT-T E.118<sup>a</sup> e alla norma ISO 7812-2<sup>b</sup>;
 
@@ -1423,11 +1444,15 @@ RDN (Relative Distinguished Name). Nomi RDN: i nomi delle iscrizioni negli elenc
 
 rete intermedia (réseau intermédiaire, Zwischennetz): rete utilizzata per disaccoppiare reti di segnalazione SS7 (Signalling System Number 7) conformemente alle raccomandazioni della serie UIT-T Q.700<sup>a</sup>;
 
+RFC (Requests for Comments): serie di documenti tecnici e organizzativi relativi a Internet, pubblicati dall’editor RFC;
+
 SMS (Short Message Service): servizio che permette agli utenti di scambiare messaggi che contengono testi brevi, in genere mediante un impianto terminale di telefonia mobile.
 
 T-MNC (Tetra Mobile Network Code): codice d’identificazione di una rete di radiocomunicazione PMR/PAMR conformemente alla norma ETS 300 392-1 dell’ETSI;
 
-UIT-T: settore della standardizzazione dell’Unione internazionale delle telecomunicazioni.
+UIT-T: settore della standardizzazione dell’Unione internazionale delle telecomunicazioni;
+
+URN (Uniform Resource Name): nome di risorsa univoco per servizi d’emergenza e altri servizi noti secondo l’RFC 5031 dell’IETF.
 
 - <sup>a</sup> Questa raccomandazione può essere ottenuta presso l’Unione internazionale delle telecomunicazioni, Place des Nations, 1211 Ginevra 20.
 - <sup>b</sup> Questa norma può essere ottenuta presso il Segretariato dell’Organizzazione internazionale di normalizzazione, rue de Varembé 1, 1211 Ginevra 20.
