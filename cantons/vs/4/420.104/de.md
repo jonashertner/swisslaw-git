@@ -1,35 +1,34 @@
 ---
 canton: VS
 number: "420.104"
-title: "Reglement über die Ausübung von Bildungstätigkeiten der Tertiärstufe durch private, vom Staat Wallis nicht subventionierte Leistungserbringer *"
-short: RABTP
+title: Reglement über die Tätigkeit privater Anbieter von Bildungsgängen zur Erlangung von Abschlüssen auf Hochschulstufe auf dem Kantonsgebiet
+short: RTPHS
 language: de
-version: 2023-01-01
-valid_until: 2026-06-30
-version_adopted: 2023-02-01
+version: 2026-07-01
+version_adopted: 2026-06-24
 adopted: 2026-06-24
 in_force: 2026-07-01
 url: "https://lex.vs.ch/app/de/texts_of_law/420.104"
-pdf: "https://lex.vs.ch/api/de/versions/3164/pdf_file"
+pdf: "https://lex.vs.ch/api/de/versions/3632/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Reglement über die Ausübung von Bildungstätigkeiten der Tertiärstufe durch private, vom Staat Wallis nicht subventionierte Leistungserbringer
+# Reglement über die Tätigkeit privater Anbieter von Bildungsgängen zur Erlangung von Abschlüssen auf Hochschulstufe auf dem Kantonsgebiet
 
-(RABTP)
+(RTPHS)
 
-vom 31.03.2021 (Stand 01.01.2023)
+vom 24.06.2026 (Stand 01.07.2026)
 
 Der Staatsrat des Kantons Wallis
 
-eingesehen die Artikel 29 und 63 des Bundesgesetzes über die Förderung der Hochschulen und die Koordination im schweizerischen Hochschulbereich vom 30. September 2011 (Hochschulförderungs- und Koordinationsgesetz, HFKG);
+eingesehen Artikel 57 Absatz 1 der Kantonsverfassung;
+
+eingesehen den Artikel 62 des Bundesgesetzes über die Förderung der Hochschulen und die Koordination im schweizerischen Hochschulbereich vom 30. September 2011 (HFKG);
+
+eingesehen die Artikel 9 Absatz 1 Buchstabe g und 16 des Gesetzes über die Förderung von Hochschulen und Forschung vom 15. Mai 2024 (FHFG);
 
 eingesehen die Verordnung des Hochschulrates über die Koordination der Lehre an den Schweizer Hochschulen vom 29. November 2019;
-
-eingesehen die Artikel 67 fortfolgende des Bundesgesetzes über Schuldbetreibung und Konkurs vom 11. April 1889 (SchKG);
-
-eingesehen den Artikel 106 des Schweizerischen Strafgesetzbuches vom 21. Dezember 1937 (StGB);
 
 eingesehen die Artikel 12, 17 und 357 der Schweizerischen Strafprozessordnung vom 5. Oktober 2007 (StPO);
 
@@ -37,144 +36,161 @@ eingesehen die Artikel 12, 20, 69 und 74 des Einführungsgesetzes zum Strafgeset
 
 eingesehen die Artikel 11 und 38 des Einführungsgesetzes zur Schweizerischen Strafprozessordnung vom 11. Februar 2009 (EGStPO);
 
-eingesehen den Artikel 24 der Verordnung über Zulassung, Aufenthalt und Erwerbstätigkeit vom 24. Oktober 2007 (VZAE);
+eingesehen Artikel 24 der Verordnung über Zulassung, Aufenthalt und Erwerbstätigkeit vom 24. Oktober 2007 (VZAE);
 
-eingesehen die Artikel 17 und 18 des Gesetzes über das öffentliche Unterrichtswesen vom 4. Juli 1962 (GUW);
+eingesehen die Artikel 17, 18 und 26a des Gesetzes über das öffentliche Unterrichtswesen vom 4. Juli 1962 (GUW);
 
-eingesehen den Artikel 27 des Gesetzes über Bildung und Forschung von universitären Hochschulen und Forschungsinstituten vom 2. Februar 2001;
-
-eingesehen den Artikel 22 Absatz 3 des Gesetzes über die Information der Öffentlichkeit, den Datenschutz und die Archivierung vom 9. Oktober 2008 (GIDA);
+eingesehen Artikel 22 Absatz 3 des Gesetzes über die Information der Öffentlichkeit, den Datenschutz und die Archivierung vom 9. Oktober 2008 (GIDA),
 
 auf Antrag des für die Bildung zuständigen Departements,
 
 verordnet: [^ingress-1]
 
-[^ingress-1]: Im vorliegenden Reglement gilt jede Bezeichnung der Person, des Status, oder der Funktion in gleicher Weise für Frau und Mann.
+[^ingress-1]: Im vorliegenden Reglement gilt jede Bezeichnung der Person, des Status oder der Funktion in gleicher Weise für Mann oder Frau.
 
 ## 1 Allgemeine Bestimmungen
 
 #### Art. 1
 
-**Anwendungsbereich**
+**Geltungsbereich**
 
-<sup>1</sup> Das Reglement ist auf private Leistungserbringer anwendbar, welche die folgenden, kumulativen Voraussetzungen erfüllen:
+<sup>1</sup> Das Reglement ist auf private Anbieter anwendbar, welche die folgenden, kumulativen Voraussetzungen erfüllen:
 
 - a) sie werden nicht durch den Staat Wallis subventioniert;
-- b) sie verfügen über keine institutionelle Akkreditierung gemäss dem Bundesgesetz über die Förderung der Hochschulen und die Koordination im schweizerischen Hochschulbereich (HFKG), und
-- c) sie üben Bildungstätigkeiten auf dem Gebiet des Kantons Wallis aus oder beabsichtigen solche auszuüben, welche zur Erlangung von Diplomen der Hochschulstufe führen.
+- b) sie verfügen nicht über eine institutionelle Akkreditierung gemäss dem Bundesgesetz über die Förderung der Hochschulen und die Koordination im schweizerischen Hochschulbereich (HFKG), und
+- c) sie üben auf dem Kantonsgebiet des Wallis Bildungstätigkeiten aus, die zu Abschlüssen auf Hochschulstufe führen oder beabsichtigen, dies zu tun.
 
-<sup>2</sup> Die privaten Leistungserbringer im Sinne von Absatz 1 (nachfolgend: die privaten Leistungserbringer), welche gemäss HFKG ein Gesuch um Akkreditierung hinterlegt haben, bleiben für die vor dem Erhalt der Akkreditierung begonnenen Ausbildungen dem vorliegenden Reglement unterstellt.
+<sup>2</sup> Die privaten Anbieter im Sinne von Absatz 1 (nachfolgend: die privaten Anbieter), welche gemäss HFKG ein Gesuch um Akkreditierung hinterlegt haben, bleiben für die vor dem Erhalt der Akkreditierung begonnenen Ausbildungen dem vorliegenden Reglement unterstellt.
 
-<sup>3</sup> Die Ausbildungen, welche zu einem Diplomabschluss der höheren Berufsbildung (Tertiär B) führen, werden durch die bereichspezifischen Bestimmungen geregelt.
+<sup>3</sup> Die Ausbildungen, welche zu einem Abschluss der höheren Berufsbildung führen, werden durch die einschlägigen Bestimmungen geregelt.
 
 #### Art. 2
 
-**Zielsetzung und Gegenstand**
+**Zuständigkeiten**
 
-<sup>1</sup> Damit der private Leistungserbringer Bildungstätigkeiten im Sinne von Artikel 1 Absatz 1 Buchstabe c des vorliegenden Reglements ausüben kann, muss er die folgenden, kumulativen Voraussetzungen erfüllen:
+<sup>1</sup> Die Ausübung von Bildungstätigkeiten der Tertiärstufe durch private Anbieter im Sinne von Artikel 1 Absatz 1 Buchstabe c des vorliegenden Reglements unterliegt einer Betriebsbewilligung (nachfolgend: Bewilligung) durch Entscheid des Vorstehers des für die Bildung zuständigen Departements (nachfolgend: das Departement).
 
-- a) über eine eigene, im Handelsregister des Kantons Wallis aufgenommene, juristische Person verfügen, deren Bezeichnung die geltenden kantonalen und eidgenössischen gesetzlichen Grundlagen einhält;
-- b) ein laufendes oder validiertes Verfahren für eine internationale Anerkennung der Kategorie Hochschule durch eine anerkannte Stelle ausweisen, welche Mitglied eines die Transparenz, die Unabhängigkeit und die Integrität gewährleistenden Verbandes ist;
-- c) den zuständigen kantonalen Stellen jede angebotene Ausbildung, die Programme und Studienpläne, die verliehenen Titel sowie die Zulassungsbedingungen melden. Jede Änderung der verliehenen Titel muss mindestens 6 Monate vor Beginn der Ausbildung bekannt gegeben werden;
-- d) der verantwortlichen Dienststelle im Sinne von Artikel 3 Absatz 1 des vorliegenden Reglements eine umfassende Dokumentation über die Ausbildungsprogramme, insbesondere über deren Zielsetzungen sowie über die Reglemente und Studienpläne zur Verfügung stellen und die geltenden gesetzlichen Bestimmungen zum Schutz von Bezeichnungen und Titel einhalten;
-- e) über geeignete Räumlichkeiten verfügen, die den auf dem Kantonsgebiet geltenden Standards entsprechen, darunter mindestens ein Standort (Campus), an dem Bildungsdienstleistungen gemäss den erstellten und bekannt gegebenen Programmen und Studienplänen angeboten werden;
-- f) über eine im Kanton Wallis arbeitende Direktion und Lehrerschaft verfügen, die jeweils über eine angemessene Qualifikation verfügt, die mindestens derjenigen der verliehenen Titel entspricht, und deren berufliche Qualifikation bescheinigt werden muss. Vorbehalten bleiben die geltenden gesetzlichen Bestimmungen über Aufenthalts- und Arbeitsbewilligungen;
-- g) die Sittlichkeit der Direktion durch einen Strafregisterauszug, einen Betreibungsregisterauszug und einen Verlustschein oder, falls der Gesuchsteller sich im Ausland befindet, durch eine Bescheinigung der zuständigen Behörden in dessen Wohnsitzland ausweisen;
-- h) einen Betreibungsregisterauszug der Gesellschaft und der Aktionäre unterbreiten, damit überprüft wird, dass sowohl die Gesellschaft als auch deren Aktionäre nicht Gegenstand eines Verfahrens gemäss dem Bundesgesetz über Schuldbetreibung und Konkurs (SchKG) bilden, welches das Stadium der Beseitigung des Rechtsvorschlags erreicht hat;
-- i) in jeder Veröffentlichung (insbesondere Webseite, Informationsbroschüre, Einschreibeformular) ausdrücklich erwähnen, dass die verliehenen Diplome keine Schweizerischen akademischen Titel sind und keinen automatischen Zugang zur Schweizerischen Hochschullandschaft gewähren, und
-- j) die für jedes Diplom verwendete Vorlage bereitstellen.
+<sup>2</sup> Das Departement delegiert die Aufsicht über die privaten Anbieter an die für das Hochschulwesen zuständige Dienststelle (nachfolgend: die Dienststelle).
 
-<sup>2</sup> Der private Leistungserbringer muss ein umfassendes und detailliertes Geschäftsmodell (Businessplan) liefern und eine genügende Finanzkraft ausweisen, damit die Neuabsolventen die angebotenen Ausbildungen beenden können.
+<sup>3</sup> Die Dienststelle oder gegebenenfalls die beauftragten Experten können jederzeit Kontrollen, insbesondere durch Besuche vor Ort vornehmen und die Erstellung von Unterlagen verlangen.
 
-<sup>3</sup> Der private Leistungserbringer muss der verantwortlichen Dienststelle im Sinne von Artikel 3 Absatz 1 des Reglements sämtliche Dokumente übermitteln, aus denen hervorgeht, dass er die in den Absätzen 1 und 2 des vorliegenden Artikels genannten Bedingungen erfüllt.
-
-## 2 Behörde
+<sup>4</sup> Die Dienststelle kann die Durchführung der Aufsichtsaufgaben an Dritte übertragen. Sie kann die Zusammenarbeit von anderen staatlichen Dienststellen in Anspruch nehmen und Experten beauftragen. Die Entlöhnung der Experten erfolgt gemäss den Bestimmungen des Beschlusses über die Kommissionsentschädigungen welcher analog angewendet wird.
 
 #### Art. 3
 
-**Zuständigkeiten**
+**Bedingungen für die Bewilligung**
 
-<sup>1</sup> Das für die Bildung zuständige Departement (nachfolgend: das Departement) überträgt die Aufsicht der privaten Leistungserbringer an die mit dem Hochschulwesen beauftragte Dienststelle (nachfolgend: die verantwortliche Dienststelle).
+<sup>1</sup> Um eine kantonale Bewilligung zu erhalten, muss der private Anbieter die folgenden kumulativen Bedingungen erfüllen:
 
-<sup>2</sup> Die verantwortliche Dienststelle kann die Durchführung der Aufsichtsaufgaben an Dritte übertragen. Sie kann die Zusammenarbeit von anderen staatlichen Dienststellen in Anspruch nehmen und Experten beauftragen. Die Entlöhnung allfälliger Experten erfolgt gemäss den Bestimmungen des Beschlusses über die Kommissionsentschädigungen, welcher analog angewendet wird.
+- a) über eine eigene Rechtspersönlichkeit, die im Handelsregister des Kantons Wallis eingetragen ist, verfügen;
+- b) einen laufenden oder abgeschlossenen Prozess der internationalen Anerkennung als Hochschule durch eine anerkannte Agentur nachweisen, die Mitglied eines Verbandes ist, der Transparenz, Unabhängigkeit und Integrität garantiert;
+- c) den zuständigen kantonalen Stellen für jede angebotene Ausbildung die Programme und Studienpläne, die verliehenen Titel sowie die Zulassungsbedingungen melden. Jede Änderung der verliehenen Titel muss mindestens 6 Monate vor Beginn der Ausbildung bekannt gegeben werden;
+- d) der Dienststelle eine umfassende Dokumentation über die Ausbildungsprogramme, insbesondere über deren Zielsetzungen sowie über die Reglemente und die Studienpläne zur Verfügung stellen und die geltenden gesetzlichen Bestimmungen zum Schutz von Bezeichnungen und Titel einhalten;
+- e) über geeignete Räumlichkeiten verfügen, die den auf dem Kantonsgebiet geltenden Standards entsprechen und durch die zuständigen Behörden bewilligt sind, darunter mindestens ein Standort (Campus), an dem Bildungsdienstleistungen gemäss den erstellten und bekannt gegebenen Programmen und Studienplänen angeboten werden;
+- f) über eine im Kanton Wallis arbeitende Direktion und Lehrerschaft verfügen, die jeweils über eine angemessene Qualifikation verfügt, die mindestens derjenigen der verliehenen Titel entspricht, und deren berufliche Qualifikation bescheinigt werden muss. Vorbehalten bleiben die geltenden gesetzlichen Bestimmungen über Aufenthalts- und Arbeitsbewilligungen;
+- g) die Sittlichkeit der Direktion durch einen Strafregisterauszug, einen Betreibungsregisterauszug und einen Verlustschein oder, falls der Gesuchsteller sich im Ausland befindet, durch eine Bescheinigung der zuständigen Behörden in dessen Wohnsitzland nachweisen;
+- h) einen Betreibungsregisterauszug der Gesellschaft unterbreiten, damit überprüft werden kann, dass die Gesellschaft nicht Gegenstand eines Verfahrens gemäss dem Bundesgesetz über Schuldbetreibung und Konkurs (SchKG) ist, welches das Stadium der Beseitigung des Rechtsvorschlags erreicht hat;
+- i) in jeder Veröffentlichung (insbesondere Webseite, Informationsbroschüre, Einschreibeformular) ausdrücklich erwähnen, dass die verliehenen Diplome keine schweizerischen akademischen Titel sind und keinen automatischen Zugang zur schweizerischen Hochschullandschaft gewähren, und
+- j) die für jedes Diplom verwendete Vorlage einreichen.
 
-<sup>3</sup> Die verantwortliche Dienststelle oder die beauftragten Experten können jederzeit Kontrollen, insbesondere durch Besuche vor Ort vornehmen und die Übermittlung von Dokumenten verlangen.
+<sup>2</sup> Der private Anbieter hat einen vollständigen und detaillierten Geschäftsplan (Businessplan) vorzulegen und eine genügende Finanzkraft nachzuweisen, um zu gewährleisten, dass die Studierenden, die die von ihm angebotenen Ausbildungen beginnen, diese auch beenden können.
+
+<sup>3</sup> Die Gültigkeitsdauer der Bewilligung entspricht höchstens der Gültigkeitsdauer, die im internationalen Anerkennungsentscheid der Kategorie Hochschule gemäss Absatz 1 Buchstabe b des vorliegenden Artikels angegeben ist.
+
+<sup>4</sup> Die Bewilligung stellt weder eine Anerkennung der Unterrichtsqualität noch eine Anerkennung der ausgestellten Titel dar.
 
 #### Art. 4
 
-**Aufsicht**
+**Informationspflicht**
 
-<sup>1</sup> Das Departement ist über seine verantwortliche Dienststelle mit dem Vollzug des vorliegenden Reglements beauftragt. Die verantwortliche Dienststelle legt die Verfahren fest und informiert die privaten Leistungserbringer darüber.
+<sup>1</sup> Der private Anbieter muss der Dienststelle unverzüglich sämtliche Dokumente übermitteln, aus denen hervorgeht, dass er die in Artikel 3 Absätze 1 und 2 genannten Bedingungen erfüllt.
 
-<sup>2</sup> Sie sorgt insbesondere für die Einhaltung der Bestimmungen betreffend den Schutz der Bezeichnungen und Diplome. Dabei nimmt sie insbesondere die folgenden Aufgaben wahr:
+<sup>2</sup> Bei Änderungen muss der private Anbieter unverzüglich die Angaben und Unterlagen nachreichen, die für die Prüfung oder erneute Prüfung des Gesuchs erforderlich sind.
 
-- a) sie überwacht die ordnungsgemässe Verwendung der geschützten Bezeichnungen durch die auf dem Kantonsgebiet angesiedelten, privaten Leistungserbringer der Tertiärstufe;
-- b) sie überprüft die konforme Verwendung der Diplombezeichnungen und die Übereinstimmung der Information an die Öffentlichkeit über die verliehenen Diplome und die Anerkennungen;
-- c) sie überprüft den Vollzug von Artikel 2 Absatz 1 Buchstabe b des vorliegenden Reglements, das Qualitätssicherungssystem und die Umsetzung der Programme und Studienpläne, die eingerichtet wurden;
-- d) sie verlangt von den privaten Leistungserbringern, dass sie unklare, unrichtige oder irreführende Informationen, die an Dritte erteilt wurden, unverzüglich korrigieren.
+## 2 Aufsicht
 
 #### Art. 5
 
-**Zusammenarbeit**
+**Behörde**
 
-<sup>1</sup> Die verantwortliche Dienststelle gewährleistet die Koordination zwischen den verschiedenen, staatlichen Dienststellen, welche durch die privaten Leistungserbringer betroffen sind.
+<sup>1</sup> Die Dienststelle ist mit dem Vollzug des vorliegenden Reglements beauftragt. Die Dienststelle legt die Verfahren fest und informiert die privaten Anbieter darüber.
 
-## 3 Schutz der Bezeichnungen und der Titel
+<sup>2</sup> Die Dienststelle sorgt insbesondere für die Einhaltung der Bestimmungen betreffend den Schutz der Bezeichnungen und Titel. Dabei nimmt sie insbesondere die folgenden Aufgaben wahr:
+
+- a) sie überwacht die ordnungsgemässe Verwendung der geschützten Bezeichnungen durch die auf dem Kantonsgebiet angesiedelten, privaten Anbieter der Tertiärstufe;
+- b) sie überprüft die konforme Verwendung der Titelbezeichnungen und die Konformität der Informationen, die der Öffentlichkeit über die verliehenen Titel übermittelt werden;
+- c) sie überprüft den Vollzug von Artikel 3 Absatz 1 Buchstabe b des vorliegenden Reglements, das Qualitätssicherungssystem und die Umsetzung der Programme und Studienpläne, die eingerichtet wurden;
+- d) sie verlangt von den privaten Anbietern, dass sie unklare, unrichtige oder irreführende Informationen, die an Dritte erteilt wurden, unverzüglich berichtigen.
 
 #### Art. 6
 
-**Bezeichnungen**
+**Erteilung der Bewilligung**
 
-<sup>1</sup> Die durch die privaten Leistungserbringer der Tertiärstufe getätigte Werbung muss die geltenden gesetzlichen Grundlagen über die Bezeichnungen und das Verbot der Irreführung, die Verpflichtung zur Wahrheit und den Schutz der öffentlichen Interessen einhalten.
+<sup>1</sup> Der Bewilligungsentscheid wird gestützt auf die Analyse des vollständigen Dossiers erteilt, das mindestens 3 Monate vor der Aufnahme der Tätigkeit des privaten Anbieters eingereicht wurde und kumulativ die Bedingungen von Artikel 3 Absatz 1 und 2 des vorliegenden Reglements erfüllt.
 
-<sup>2</sup> Die Verwendung der in Artikel 62 Absatz 1 des HFKG erwähnten Bezeichnungen in deren zusammengesetzten und abgeleiteten Formen, in einer Landessprache oder in einer anderen Sprache, ist untersagt.
+<sup>2</sup> Die Bewilligung wird insbesondere in folgenden Fällen gegenstandslos:
+
+- a) Einstellung der Tätigkeit auf Mitteilung des privaten Anbieters hin;
+- b) Einstellung der Tätigkeit nach 12 Monaten Inaktivität;
+- c) Entzug der Bewilligung gemäss Artikel 10 des vorliegenden Reglementes.
+
+## 3 Schutz der Bezeichnungen und der Titel
 
 #### Art. 7
 
-**Titel**
+**Bezeichnungen**
 
-<sup>1</sup> Die in Artikel 5 Absatz 1 Buchstaben a sowie in den Artikeln 11 bis 13 der Verordnung des Hochschulrates über die Koordination der Lehre an den Schweizer Hochschulen erwähnten Titel oder jede abgeleitete Form, die zu Verwechslungen führen könnte, dürfen nicht an Absolventen der durch private Leistungserbringer geführten Institutionen verliehen werden.
+<sup>1</sup> Die durch die privaten Anbieter getätigte Werbung muss die geltenden gesetzlichen Grundlagen über Bezeichnungen und das Verbot der Irreführung, die Wahrheitspflicht und den Schutz öffentlicher Interessen einhalten.
 
-## 4 Strafbestimmungen
+<sup>2</sup> Die Verwendung der in Artikel 62 Absatz 1 HFKG genannten Bezeichnungen in deren zusammengesetzten oder abgeleiteten Formen, in einer Landessprache oder in einer anderen Sprache, ist untersagt, insbesondere:
+
+- a) im Namens des privaten Anbieters;
+- b) im Handelsregister aufgeführten Ziel des privaten Anbieters;
+- c) in den offiziellen Unterlagen und Akten;
+- d) in der Kommunikation an Dritte (so wie die Veröffentlichungen, die Webseite, die Informationsbroschüren, die Einschreibeformulare, Zitate von Dritten);
+- e) in den Attesten oder Studiendiplomen und den Zusätze zu den verliehenen Diplomen.
 
 #### Art. 8
 
-**Strafverfolgungsbehörde**
+**Titel**
 
-<sup>1</sup> Die strafrechtliche Verfolgung von Zuwiderhandlungen nach dem Gesetz über Bildung und Forschung von universitären Hochschulen und Forschungsinstituten wird der verantwortlichen Dienststelle übertragen.
+<sup>1</sup> Die in Artikel 5 Absatz 1 Buchstabe a sowie in den Artikeln 11 bis 13 der Verordnung des Hochschulrates über die Koordination der Lehre an den Schweizer Hochschulen genannten Titel oder eine davon abgeleitete irreführende Form dürfen den Absolventen von Ausbildungen privater Anbieter nicht verliehen werden.
 
-<sup>2</sup> Gemäss Artikel 38 Absatz 2 Buchstabe b des Einführungsgesetzes zur Schweizerischen Strafprozessordnung (EGStPO) wird das Verfahren durch das Gesetz über das Verwaltungsverfahren und die Verwaltungsrechtspflege (VVRG) geregelt.
+## 4 Strafbestimmungen
 
 #### Art. 9
 
 **Sanktionen**
 
-<sup>1</sup> Falls der private Leistungserbringer eine unklare, unkorrekte oder irreführende Information an Dritte liefert oder wesentliche Informationen vorenthält, verordnet die verantwortliche Dienststelle eine unverzügliche, regelkonforme Anpassung, verbunden mit einer Sanktion.
+<sup>1</sup> Liefert der private Anbieter Dritten unklare, unrichtige oder irreführende Informationen oder enthält er ihnen wesentliche Informationen vor, so ordnet die Dienststelle die unverzügliche Wiederherstellung des rechtmässigen Zustands an, verbunden mit einer Sanktion.
 
-<sup>2</sup> Die verantwortliche Dienststelle spricht die Sanktion in Form einer Busse im Sinne von Artikel 63 HFKG in Bezug auf den Bezeichnungsschutz (Art. 6) beziehungsweise Artikel 27 Absatz 3 Buchstabe a des Gesetzes über Bildung und Forschung von universitären Hochschulen und Forschungsinstituten in Bezug auf den Titelschutz (Art. 7) aus. Vor jeder Sanktion wird der betroffene private Leistungserbringer angehört.
+<sup>2</sup> Die Dienststelle spricht die Sanktion in Form einer Busse im Sinne der Artikel 18 und 20 FHFG aus.
 
-<sup>3</sup> Das Departement kann die Einstellung der Bildungstätigkeiten anordnen (Schliessung der Institution des betreffenden privaten Leistungserbringers), wenn eine der folgenden Bedingungen erfüllt ist:
+<sup>3</sup> Das Departement kann die Einstellung der Bildungstätigkeiten anordnen (Schliessung der Institution des betreffenden privaten Anbieters), wenn eine der folgenden Bedingungen erfüllt ist:
 
-- a) der erteilte Unterricht entspricht nach einer Expertise nicht mehr der Zielsetzung, dem Programm oder der geforderten Stufe und die Verantwortlichen haben trotz einer Mahnung und einer Aufforderung zur regelkonformen Anpassung der verantwortlichen Dienststelle die Situation nicht innert Jahresfrist behoben;
-- b) nach einer Aufforderung zur regelkonformen Anpassung veröffentlicht der private Leistungserbringer erneut eine missbräuchliche und irreführende Information, oder
-- c) für alle anderen, schwerwiegenden Verstösse.
-
-<sup>4</sup> Die Nichteinhaltung des Artikels 6 des vorliegenden Reglements wird mit einer Busse von bis zu 200'000 Franken geahndet, wenn der private Leistungserbringer vorsätzlich gehandelt hat oder mit einer Busse von bis zu 100'000 Franken geahndet, wenn er fahrlässig gehandelt hat.
-
-<sup>5</sup> Die Nichteinhaltung des Artikels 7 des vorliegenden Reglements wird mit einer Busse von bis zu 10'000 Franken geahndet.
+- a) der erteilte Unterricht entspricht nach einer Expertise nicht mehr der Zielsetzung, dem Programm oder der geforderten Stufe und die Verantwortlichen haben trotz einer Verwarnung und einer Aufforderung der Dienststelle zur Wiederherstellung des rechtmässigen Zustands die Situation nicht innert Jahresfrist behoben;
+- b) nach der Aufforderung zur Wiederherstellung des rechtmässigen Zustands und der Verhängung einer Sanktion veröffentlicht der private Anbieter erneut eine missbräuchliche und irreführende Information, oder
+- c) bei allen anderen schwerwiegenden Widerhandlungen.
 
 #### Art. 10
 
-**Beschwerde**
+**Entzug der Bewilligung**
 
-<sup>1</sup> Gegen die Bussen (Zuwiderhandlungen) im Sinne von Artikel 9 Absatz 4 des vorliegenden Reglements und gemäss Artikel 11 Absatz 3 des EGStPO kann Beschwerde beim Kantonsgericht eingereicht werden.
+<sup>1</sup> Die Bewilligung kann jederzeit durch das Departement entzogen werden, wenn die Bedingungen für ihre Erteilung nicht mehr erfüllt sind.
 
-<sup>2</sup> Gegen den Schliessungsentscheid kann innert einer Frist von 30 Tagen Beschwerde beim Staatsrat eingereicht werden. Das VVRG ist anwendbar.
+<sup>2</sup> Auf Antrag der Dienststelle kann das Departement entscheiden, die Bewilligung zu entziehen, wenn der Inhaber der Bewilligung:
 
-## 5 Übergangsbestimmungen
+- a) sich nicht an die im vorliegenden Reglement festgelegten Bedingungen hält;
+- b) nach Aufforderung der Dienststelle dieser die Änderungen im Sinne von Artikel 4 Absatz 2 des vorliegenden Reglements nicht mitteilt.
+
+<sup>3</sup> In dringenden Fällen oder wenn die Umstände es rechtfertigen, kann die Bewilligung durch vorsorgliche Massnahmen gemäss Artikel 28a des Gesetzes über das Verwaltungsverfahren und die Verwaltungsrechtspflege (VVRG) entzogen werden. Die vorsorglichen Massnahmen der Artikel 261 bis 269 der Zivilprozessordnung (ZPO) sowie das summarische Verfahren der Artikel 248 und folgende der ZPO gelten analog.
 
 #### Art. 11
 
-<sup>1</sup> Die privaten Leistungserbringer, welche zum Zeitpunkt des Inkrafttretens des vorliegenden Reglements bereits auf dem Gebiet des Kantons Wallis angesiedelt sind, verfügen über eine Frist von 2 Jahren ab dem Datum des Inkrafttretens zur Erfüllung der in Artikel 2 Absatz 1 Buchstabe b erwähnten Voraussetzung.
+**Beschwerde**
 
-CSW RO/AGS 2021-038
+<sup>1</sup> Gegen die Bussen (Zuwiderhandlungen) im Sinne von Artikel 9 Absatz 2 des vorliegenden Reglements kann gemäss Artikel 11 Absatz 3 des Einführungsgesetzes zur Schweizerischen Strafprozessordnung (EGStPO) Beschwerde beim Kantonsgericht eingereicht werden.
+
+<sup>2</sup> Gegen jeden anderen Entscheid im Zusammenhang mit dem vorliegenden Reglement kann innerhalb von 30 Tagen eine Beschwerde beim Staatsrat eingereicht werden. Das VVRG ist anwendbar.
+
+CSW RO/AGS 2026-080
