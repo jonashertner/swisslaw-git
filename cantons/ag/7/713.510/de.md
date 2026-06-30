@@ -3,24 +3,23 @@ canton: AG
 number: "713.510"
 title: Dekret über die Beiträge an die Raumplanung
 language: de
-version: 2017-12-31
-valid_until: 2026-06-30
-version_adopted: 2016-03-01
+version: 2026-07-01
+version_adopted: 2026-03-24
 adopted: 1994-11-15
 in_force: 1994-12-27
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/713.510"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3794/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3975/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Dekret über die Beiträge an die Raumplanung
 
-Vom 15.11.1994 (Stand 31.12.2017)
+Vom 15.11.1994 (Stand 01.07.2026)
 
 Der Grosse Rat des Kantons Aargau,
 
-gestützt auf die §§ 12, 13 Abs. 3, 40 Abs. 6 und 54a Abs. 4 des Gesetzes über Raumentwicklung und Bauwesen (Baugesetz, BauG) vom 19. Januar 1993[^ingress-1],
+gestützt auf die §§ 12, 40 Abs. 6 und 54a Abs. 4 des Gesetzes über Raumentwicklung und Bauwesen (Baugesetz, BauG) vom 19. Januar 1993[^ingress-1],
 
 beschliesst:
 
@@ -40,12 +39,12 @@ beschliesst:
 
 <sup>2</sup> Arbeiten im Interesse des Kantons, namentlich die Erarbeitung regionaler Grundlagen und Konzepte für kantonale Richt- und Nutzungsplanungen oder die Mitwirkung bei der Umsetzung von kantonalen Interessen, werden vom Kanton im Auftragsverhältnis (Leistungsaufträge) direkt finanziert.
 
-<sup>3</sup> Zur Deckung der Kosten stehen jährlich als Grundkostenbeitrag Fr. 300'000.– und für direkte Leistungsaufträge mindestens Fr. 100'000.– zur Verfügung.
+<sup>3</sup> Zur Deckung der Kosten stehen jährlich als Grundkostenbeitrag Fr. 600'000.– und für direkte Leistungsaufträge mindestens Fr. 100'000.– zur Verfügung.
 
-<sup>4</sup> Der Grundkostenbeitrag je Verband errechnet sich nach der Zahl seiner Mitgliedsgemeinden und seiner aargauischen Wohnbevölkerung wie folgt:
+<sup>4</sup> Der Grundkostenbeitrag je Verband errechnet sich nach der Anzahl regionaler Planungsverbände und nach der aargauischen Wohnbevölkerung wie folgt:
 
-- a) Fr. 150'000.– verhältnismässig aufgeteilt nach der Anzahl Mitgliedsgemeinden aller Verbände;
-- b) Fr. 150'000.– verhältnismässig aufgeteilt nach der aargauischen Wohnbevölkerung aller Verbände (Stand 31. Dezember des Vorjahres).
+- a) Fr. 200'000.– zu gleichen Teilen als pauschaler Sockelbeitrag, aufgeteilt nach der Anzahl der regionalen Planungsverbände,
+- b) Fr. 400'000.–, verhältnismässig aufgeteilt nach der aargauischen Wohnbevölkerung, zuzüglich der von Doppelmitgliedsgemeinden (Stand 31. Dezember des Vorjahres).
 
 <sup>5</sup> Der kantonale Grundkostenbeitrag je regionalem Planungsverband darf nicht höher sein als die durch den Verband selbst aufgebrachten Mittel. Andernfalls wird der kantonale Beitrag zu Gunsten der übrigen Verbände entsprechend reduziert.
 
@@ -90,6 +89,12 @@ beschliesst:
 
 [^4-1]: AGS Bd. 6 S. 69
 [^4-2]: AGS Bd. 7 S. 304; Bd. 14 S. 702; 2005 S. 768; 2008 S. 470 (SAR [873.711](https://gesetzessammlungen.ag.ch/data/873.711/de))
+
+#### § 5
+
+**Übergangsrecht zur Änderung vom 24. März 2026**
+
+<sup>1</sup> Die Berechnung der Beiträge an die regionalen Planungsverbände für das Jahr 2026 erfolgt nach neuem Recht.
 
 Aarau, den 15. November 1994
 
