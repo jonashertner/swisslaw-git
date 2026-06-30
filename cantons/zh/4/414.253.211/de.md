@@ -3,11 +3,10 @@ canton: ZH
 number: "414.253.211"
 title: "Studienordnung für die Bachelorstudiengänge Ergotherapie, Gesundheitsförderung und Prävention, Hebamme, Pflege sowie Physiotherapie an der Zürcher Hochschule für Angewandte Wissenschaften"
 language: de
-version: "2023-04-01"
-nachtrag: "120"
-valid_until: 2026-07-01
+version: "2026-07-01"
+nachtrag: "133"
 adopted: 2019-10-24
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-414_253_211-2019_10_24-2020_04_01-120.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-414_253_211-2019_10_24-2020_04_01-133.html"
 text: pdf
 ---
 
@@ -61,7 +60,7 @@ Einzelheiten zu den Studiengängen, insbesondere zur Eignungsabklärung, zur Bel
 
 **1**
 
-- 1\. 4. 23 - 120
+- 1\. 7. 26 - 133
 
 ### B. Zulassung zum Studium
 
@@ -83,15 +82,16 @@ Einzelheiten zu den Studiengängen, insbesondere zur Eignungsabklärung, zur Bel
 
 <sup>2</sup> Der Anhang regelt die Einzelheiten zum Zusatzmodul A.
 
-#### § 7
+**Persönliche Eignung / Selektionsverfahren**
 
-**Eignungsabklärung**
+§ 7.[^6-1] <sup>1</sup> Bei Bewerberinnen und Bewerbern wird vor dem Eintritt in das erste Semester die persönliche Eignung für das Berufsfeld abgeklärt, sofern sie nicht unter Art. 12 a Abs. 2 der Verordnung des Hochschulrates über die Zulassung zu den Fachhochschulen und den Fachhochschulinstituten (Zulassungsverordnung FH)[^6-2] fallen.
 
-<sup>1</sup> Alle Bewerberinnen und Bewerber müssen eine Eignungsabklärung durchlaufen.
+<sup>2</sup> Bei Studiengängen mit einer Zulassungsbeschränkung setzt bei einer Anmeldezahl, welche die verfügbaren Studienplätze überschreitet, die Zulassung zum Studium ein erfolgreiches Selektionsverfahren für die Studienplatzverteilung voraus.
 
-<sup>2</sup> Die Zulassung zum Studium setzt eine erfolgreiche Eignungsabklärung voraus.
+<sup>3</sup> Das Selektionsverfahren für die Studienplatzverteilung kann aus verschiedenen Prüfungsteilen bestehen. Die Einzelheiten des Verfahrens werden im Anhang geregelt.
 
-<sup>3</sup> Die Eignungsabklärung kann aus verschiedenen Prüfungsteilen bestehen. Die Einzelheiten der Eignungsabklärung werden im Anhang geregelt.
+[^6-1]: Fassung gemäss B vom 26. März 2026 (OS 81, 280; ABl 2022-08-19). In Kraft seit 1. Juli 2026. 1. 7. 26 - 133 5
+[^6-2]: SR 414.205.7.
 
 #### § 8
 
@@ -155,23 +155,23 @@ Ist das Studium nicht in Assessmentstufe und Hauptstudium gegliedert, ist es bes
 
 <sup>3</sup> Kommt keine Einigung zustande, steht der Stichentscheid der prüfenden Lehrperson zu.
 
-#### § 15
+**3**
+
+- 1\. 7. 26 - 133 § 15. <sup>1</sup> Mit der Bachelorarbeit kann frühestens im zweiten Studienjahr des Vollzeitstudiums begonnen werden.
 
 **Bachelorarbeit**
-
-<sup>1</sup> Mit der Bachelorarbeit kann frühestens im zweiten Studienjahr des Vollzeitstudiums begonnen werden.
 
 <sup>2</sup> Die Studienleitung legt für Teilzeitstudierende aufgrund ihres bisherigen Studienverlaufs fest, zu welchem Zeitpunkt sie mit der Bachelorarbeit beginnen können.
 
 <sup>3</sup> Einzelheiten zur Bachelorarbeit und deren Abgabe werden in der Modulbeschreibung geregelt.
 
-**3**
-
-- 1\. 4. 23 - 120 § 16. Wer ein Modul nicht besteht, muss alle Leistungsnachweise des Moduls wiederholen.
-
-#### § 17
+#### § 16
 
 **Wiederholung**
+
+Wer ein Modul nicht besteht, muss alle Leistungsnachweise des Moduls wiederholen.
+
+#### § 17
 
 **Praxismodule a. Allgemein**
 
@@ -195,7 +195,7 @@ Die Wiederholung eines Praxismoduls ist ausgeschlossen, wenn schwerwiegende Grü
 
 Das Bachelordiplom wird erteilt, wenn a. die Assessmentstufe und das Hauptstudium bzw. das Studium bestanden und b. 180 ECTS-Credits erreicht sind.
 
-[^19-1]: Fassung gemäss B vom 2. Juni 2022 (OS 77, 492; ABl 2022-08-19). In Kraft seit 1. April 2023. 1. 4. 23 - 120 5
+[^19-1]: Fassung gemäss B vom 2. Juni 2022 (OS 77, 492; ABl 2022-08-19). In Kraft seit 1. April 2023.
 
 #### § 20
 
@@ -227,7 +227,7 @@ Das Bachelordiplom wird erteilt, wenn a. die Assessmentstufe und das Hauptstudiu
 
 - e. Bachelor of Science ZHAW in Physiotherapie.
 
-[^20-1]: Fassung gemäss B vom 2. Juni 2022 (OS 77, 492; ABl 2022-08-19). In Kraft seit 1. April 2023. 1. 4. 23 - 120 5
+[^20-1]: Fassung gemäss B vom 2. Juni 2022 (OS 77, 492; ABl 2022-08-19). In Kraft seit 1. April 2023.
 [^20-2]: Fassung gemäss B vom 2. Juni 2022 (OS 77, 492; ABl 2022-08-19). In Kraft seit 1. Januar 2023.
 
 ### F. Schluss- und Übergangsbestimmungen
