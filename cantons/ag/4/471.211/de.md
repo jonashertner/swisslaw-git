@@ -4,13 +4,12 @@ number: "471.211"
 title: Verordnung über Ausbildungsbeiträge
 short: "Stipendienverordnung, StipV"
 language: de
-version: 2024-07-01
-valid_until: 2026-06-30
-version_adopted: 2024-04-24
+version: 2026-07-01
+version_adopted: 2026-04-01
 adopted: 2007-05-02
 in_force: 2007-08-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/471.211"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3743/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3976/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3743/pdf_file"
 
 (Stipendienverordnung, StipV)
 
-Vom 02.05.2007 (Stand 01.07.2024)
+Vom 02.05.2007 (Stand 01.07.2026)
 
 Der Regierungsrat des Kanton Aargau,
 
@@ -233,7 +232,7 @@ beschliesst:
 - b<sup>bis</sup>) Prämienverbilligung Krankenkasse,
 - c) im Total der Einkünfte enthaltene Unterhaltskosten selbstbewohnter Liegenschaften,
 - d) maximal Fr. 30'000.– der Einkünfte des Stiefelternteils,
-- e) Fr. 4'500.– pro Elternteil und Fr. 2'250.– pro Kind,
+- e) Fr. 6'000.– pro Elternteil und Fr. 3'000.– pro Kind,
 - f) Beiträge im Haupterwerb Selbstständiger an die Säule 3a gemäss Steuerveranlagung, wenn beim Geschäftseinkommen keine Beiträge an die 2. Säule berücksichtigt sind,
 - g) Eigenmietwert,
 - h) im Total der Einkünfte enthaltene Unterhaltsbeiträge und Renten für die gesuchstellende Person und ihre Geschwister, wenn sie im Elternbudget nicht berücksichtigt sind.
@@ -296,7 +295,7 @@ beschliesst:
 
 - a) ein allfälliger Elternbeitrag gemäss § 24 Abs. 2,
 - b) tatsächlich erzielte und zumutbarerweise erzielbare Einkünfte der gesuchstellenden Person und ihrer Partnerin oder ihres Partners,
-- b<sup>bis</sup>) im Vollzeitstudium an Hochschulen bei der gesuchstellenden Person pauschal Fr. 3'000.– zuzüglich des Fr. 9'000.– übersteigenden Anteils eigener Einkünfte,
+- b<sup>bis</sup>) im Vollzeitstudium an Hochschulen und an höheren Fachschulen bei der gesuchstellenden Person pauschal Fr. 3'000.– zuzüglich des Fr. 14'000.– übersteigenden Anteils eigener Einkünfte,
 - c) weitere Einkünfte wie Erwerbsersatz, Unterhaltsbeiträge, Renten und Ergänzungsleistungen, wenn ein eigener Haushalt anerkannt wird,
 - c<sup>bis</sup>) Prämienverbilligung Krankenkasse, wenn der gesuchstellenden Person ein eigener Anspruch zugestanden und ein eigener Haushalt anerkannt wird,
 - d) Leistungen und Zuwendungen Dritter, namentlich von Privatpersonen, Gemeinden und Stiftungen.
