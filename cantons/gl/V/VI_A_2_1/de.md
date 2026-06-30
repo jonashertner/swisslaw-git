@@ -4,13 +4,12 @@ number: VI A/2/1
 title: Gesetz über den Finanzausgleich zwischen dem Kanton und den Gemeinden
 short: "Finanzausgleichsgesetz, FAG"
 language: de
-version: 2024-01-01
-valid_until: 2026-06-30
+version: 2026-07-01
 version_adopted: 2023-05-07
 adopted: 2010-05-02
 in_force: 2011-01-01
 url: "https://gesetze.gl.ch/app/de/texts_of_law/VI-A.2.1"
-pdf: "https://gesetze.gl.ch/api/de/versions/2434/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2435/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://gesetze.gl.ch/api/de/versions/2434/pdf_file"
 
 (Finanzausgleichsgesetz, FAG)
 
-Vom 02.05.2010 (Stand 01.01.2024)
+Vom 02.05.2010 (Stand 01.07.2026)
 
 Die Landsgemeinde,
 
@@ -158,6 +157,14 @@ erlässt:
 <sup>2</sup> Die entsprechenden Gutschriften respektive Belastungen erfolgen zusammen mit der Schlusszahlung der Steuerguthaben der Gemeinden.
 
 <sup>3</sup> Die Ausgleichsbeiträge werden den Gemeinden ohne Zweckbindung ausgerichtet.
+
+## 4a. Berichterstattung
+
+#### Art. 12a
+
+**Wirksamkeitsbericht**
+
+<sup>1</sup> Der Regierungsrat erstattet dem Landrat alle vier Jahre Bericht über die Wirksamkeit dieses Gesetzes und beantragt nötigenfalls Massnahmen.
 
 ## 5. Übergangs- und Schlussbestimmungen
 
