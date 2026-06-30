@@ -4,13 +4,12 @@ number: "932.100"
 title: Lescha per promover il svilup economic en il chantun Grischun
 short: "lescha davart il svilup economic, LSE"
 language: rm
-version: 2021-01-01
-corrected: 2020-12-21
-version_adopted: 2020-06-17
+version: 2026-07-01
+version_adopted: 2024-12-03
 adopted: 2015-08-27
 in_force: 2016-01-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/932.100"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3111/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3646/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3111/pdf_file"
 
 (lescha davart il svilup economic, LSE)
 
-dals 27-08-2015 (versiun dals 01-01-2021)
+dals 27-08-2015 (versiun dals 01-07-2026)
 
 Il cussegl grond dal chantun Grischun[^ingress-1],
 
@@ -57,7 +56,7 @@ concluda:
 
 **Instruments da promoziun**
 
-<sup>1</sup> Per promover il svilup economic po il chantun conceder contribuziuns ed emprests, surpigliar commembranzas e participaziuns, realisar atgnas activitads, surpigliar garanzias sco er acquistar e metter a disposiziun bains immobigliars.
+<sup>1</sup> Per promover il svilup economic po il chantun conceder contribuziuns ed emprests, dar credits da taglia, surpigliar commembranzas e participaziuns, realisar atgnas activitads, surpigliar garanzias sco er acquistar e metter a disposiziun bains immobigliars.
 
 #### Art. 4
 
@@ -73,6 +72,24 @@ concluda:
 <sup>3</sup> Contribuziuns ed emprests vegnan pajads sco finanziaziun unica da cumplettaziun, cun excepziun da tals tenor ils artitgels 13, 14, 15, 17, 24 e 25.
 
 <sup>4</sup> Emprests vegnan concedids per ina durada da maximalmain 15 onns.
+
+#### Art. 4a
+
+**Credits da taglia**
+
+<sup>1</sup> Il chantun po conceder ina giada u repetidamain credits da taglia ad interpresas, quai per mesiras che prestan ina contribuziun impurtanta:
+
+- a) per augmentar la creaziun da valurs en il chantun;
+- b) per rinforzar la perscrutaziun, il svilup e l'innovaziun; ubain
+- c) per meglierar la persistenza ecologica.
+
+<sup>2</sup> Ils credits da taglia importan maximalmain 25 pertschient dals custs u dals effects imputabels che han in connex cun las mesiras tenor l'alinea 1.
+
+<sup>3</sup> Ils credits da taglia ch'èn vegnids concedids ad ina interpresa, vegnan scuntrads cun ils debits da taglia da quella. La Regenza regla il pajament da credits da taglia.
+
+<sup>4</sup> Las vischnancas che han la cumpetenza fiscala ston vegnir tadladas ordavant. Ellas sa participeschan als credits da taglia confurm a las facilitaziuns fiscalas tenor l'artitgel 5 da la Lescha da taglia per il chantun Grischun[^4a-1] en la dimensiun dals debits da taglia scuntrads a favur da las interpresas respectivas sin lur territori. Eventuals pajaments da credits da taglia surpiglia exclusivamain il chantun.
+
+[^4a-1]: DG [720.000](https://www.gr-lex.gr.ch/data/720.000/rm)
 
 #### Art. 5
 
@@ -160,7 +177,7 @@ concluda:
 - a) gidan cun lur activitad a rinforzar l'economia regiunala; u
 - b) han il potenzial da colliar en ina rait lur activitads cun interpresas.
 
-## 3. Svilup da l'economia locala
+## 3. Svilup regiunal e svilup da l'economia locala
 
 #### Art. 16
 
@@ -175,6 +192,14 @@ concluda:
 **Instituziuns purtadras regiunalas**
 
 <sup>1</sup> Il chantun po promover instituziuns purtadras regiunalas tar la realisaziun da mesiras per sustegnair l'economia.
+
+<sup>2</sup> Il chantun paja a mintga instituziun purtadra regiunala ina contribuziun annuala da basa d'almain 20 000 francs per il manaschi da basa dal svilup regiunal.
+
+<sup>3</sup> Il chantun po conceder contribuziuns fin a 50 pertschient dals custs da persunal d'ina instituziun purtadra regiunala a favur dal svilup regiunal, sch'igl è avant maun ina strategia regiunala per il svilup da l'economia locala.
+
+<sup>4</sup> Il chantun po promover – cun contribuziuns da maximalmain 50 pertschient dals custs – l'elavuraziun da studis e da concepts per realisar projects ch'èn cuntegnids en la strategia regiunala per il svilup da l'economia locala.
+
+<sup>5</sup> Il chantun prenda enconuschientscha da las strategias regiunalas per il svilup da l'economia locala, che ston vegnir deliberadas da las instituziuns purtadras regiunalas.
 
 #### Art. 18
 
@@ -290,7 +315,7 @@ concluda:
 
 <sup>1</sup> L'execuziun da questa lescha è chaussa da la regenza.
 
-<sup>2</sup> La regenza è cumpetenta definitivamain per garantir la disponibladad da bains immobigliars a favur dal svilup economic tenor l'artitgel 8.
+<sup>2</sup> La Regenza è cumpetenta definitivamain per conceder credits da taglia tenor l'artitgel 4a sco er per garantir la disponibladad da bains immobigliars a favur dal svilup economic tenor l'artitgel 8.
 
 <sup>3</sup> Sche plirs departaments èn participads a proceduras en il senn da l'artitgel 10 alinea 3, ordinescha la regenza la coordinaziun da las proceduras.
 
@@ -299,5 +324,13 @@ concluda:
 **Meds legals**
 
 <sup>1</sup> Cunter las decisiuns dal departament davart prestaziuns da promoziun, per las qualas i n'exista nagin dretg legal, poi vegnir fatg recurs tar la regenza. Quella decida definitivamain.
+
+## 7. Disposiziun finala
+
+#### Art. 34
+
+**Disposiziun transitorica**
+
+<sup>1</sup> Fin la fin da l'onn 2023 po il chantun er conceder prestaziuns da promoziun en ils cas correspundents, sche la strategia regiunala per il svilup da l'economia locala n'è betg approvada.
 
 2015-056

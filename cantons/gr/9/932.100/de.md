@@ -4,13 +4,12 @@ number: "932.100"
 title: Gesetz über die Förderung der wirtschaftlichen Entwicklung in Graubünden
 short: "GWE, Wirtschaftsentwicklungsgesetz"
 language: de
-version: 2021-01-01
-corrected: 2020-12-21
-version_adopted: 2020-06-17
+version: 2026-07-01
+version_adopted: 2024-12-03
 adopted: 2015-08-27
 in_force: 2016-01-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/932.100"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/3111/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3646/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.gr-lex.gr.ch/api/de/versions/3111/pdf_file"
 
 (GWE, Wirtschaftsentwicklungsgesetz)
 
-Vom 27.08.2015 (Stand 01.01.2021)
+Vom 27.08.2015 (Stand 01.07.2026)
 
 Der Grosse Rat des Kantons Graubünden[^ingress-1],
 
@@ -57,7 +56,7 @@ beschliesst:
 
 **Förderinstrumente**
 
-<sup>1</sup> Zur Förderung können Beiträge und Darlehen gewährt, Mitgliedschaften und Beteiligungen eingegangen, eigene Aktivitäten durchgeführt, Bürgschaften eingegangen sowie Grundstücke erworben und verfügbar gemacht werden.
+<sup>1</sup> Zur Förderung können Beiträge und Darlehen gewährt, Steuergutschriften geleistet, Mitgliedschaften und Beteiligungen eingegangen, eigene Aktivitäten durchgeführt, Bürgschaften eingegangen sowie Grundstücke erworben und verfügbar gemacht werden.
 
 #### Art. 4
 
@@ -73,6 +72,24 @@ beschliesst:
 <sup>3</sup> Beiträge und Darlehen werden als einmalige Ergänzungsfinanzierung geleistet, mit Ausnahme solcher gemäss den Artikeln 13, 14, 15, 17, 24 und 25.
 
 <sup>4</sup> Darlehen werden für eine Dauer von maximal 15 Jahren gewährt.
+
+#### Art. 4a
+
+**Steuergutschriften**
+
+<sup>1</sup> Der Kanton kann Unternehmen einmalige oder wiederkehrende Steuergutschriften gewähren für Massnahmen, die einen bedeutenden Beitrag leisten:
+
+- a) zur Erhöhung der Wertschöpfung im Kanton;
+- b) zur Stärkung der Forschung, der Entwicklung und der Innovation; oder
+- c) zur Verbesserung der ökologischen Nachhaltigkeit.
+
+<sup>2</sup> Die Steuergutschriften betragen höchstens 25 Prozent der anrechenbaren Aufwendungen oder Effekte, die im Zusammenhang mit den Massnahmen gemäss Absatz 1 stehen.
+
+<sup>3</sup> Die an ein Unternehmen gewährten Steuergutschriften werden mit dessen Steuerschulden verrechnet. Die Auszahlung von Steuergutschriften regelt die Regierung.
+
+<sup>4</sup> Die steuerlich berechtigten Gemeinden sind vorgängig anzuhören. Sie beteiligen sich an den Steuergutschriften entsprechend den Steuererleichterungen gemäss Artikel 5 des Steuergesetzes für den Kanton Graubünden[^4a-1] im Umfang der verrechneten Steuerschulden der betreffenden Unternehmen auf ihrem Gebiet. Allfällige Auszahlungen von Steuergutschriften trägt ausschliesslich der Kanton.
+
+[^4a-1]: BR [720.000](https://www.gr-lex.gr.ch/data/720.000/de)
 
 #### Art. 5
 
@@ -160,7 +177,7 @@ beschliesst:
 - a) mit ihrer Tätigkeit einen Beitrag zur Stärkung der regionalen Wirtschaft leisten; oder
 - b) über Potenzial zur Vernetzung ihrer Aktivitäten mit Unternehmen verfügen.
 
-## 3. Standortentwicklung
+## 3. Regional- und Standortentwicklung
 
 #### Art. 16
 
@@ -175,6 +192,14 @@ beschliesst:
 **Regionale Trägerschaften**
 
 <sup>1</sup> Der Kanton kann regionale Trägerschaften bei der Umsetzung von Massnahmen zur Unterstützung der Wirtschaft fördern.
+
+<sup>2</sup> Der Kanton leistet an jede regionale Trägerschaft für den Grundbetrieb der Regionalentwicklung einen jährlichen Sockelbeitrag von mindestens 20 000 Franken.
+
+<sup>3</sup> Der Kanton kann an den Personalaufwand einer regionalen Trägerschaft für die Regionalentwicklung Beiträge bis zu 50 Prozent gewähren, wenn eine genehmigte regionale Standortentwicklungsstrategie vorliegt.
+
+<sup>4</sup> Der Kanton kann die Erarbeitung von Studien und Konzepten zur Umsetzung von Vorhaben, die in der regionalen Standortentwicklungsstrategie enthalten sind, mit Beiträgen bis höchstens 50 Prozent des Aufwands fördern.
+
+<sup>5</sup> Der Kanton nimmt die von den regionalen Trägerschaften zu erlassenden regionalen Standortentwicklungsstrategien zur Kenntnis.
 
 #### Art. 18
 
@@ -290,7 +315,7 @@ beschliesst:
 
 <sup>1</sup> Der Vollzug dieses Gesetzes obliegt der Regierung.
 
-<sup>2</sup> Die Regierung ist abschliessend für die Sicherstellung der Verfügbarkeit von Grundstücken zur wirtschaftlichen Entwicklung gemäss Artikel 8 zuständig.
+<sup>2</sup> Die Regierung ist abschliessend für die Gewährung von Steuergutschriften gemäss Artikel 4a sowie für die Sicherstellung der Verfügbarkeit von Grundstücken zur wirtschaftlichen Entwicklung gemäss Artikel 8 zuständig.
 
 <sup>3</sup> Sind an Verfahren im Sinne von Artikel 10 Absatz 3 mehrere Departemente beteiligt, ordnet die Regierung die Verfahrenskoordination an.
 
@@ -299,5 +324,13 @@ beschliesst:
 **Rechtsmittel**
 
 <sup>1</sup> Entscheide des Departements über Förderleistungen, auf welche kein Rechtsanspruch besteht, unterliegen der Beschwerde an die Regierung. Diese entscheidet endgültig.
+
+## 7. Schlussbestimmung
+
+#### Art. 34
+
+**Übergangsbestimmung**
+
+<sup>1</sup> Bis Ende des Jahres 2023 kann der Kanton in den entsprechenden Fällen Förderleistungen auch gewähren, wenn die regionale Standortentwicklungsstrategie nicht genehmigt ist.
 
 2015-056

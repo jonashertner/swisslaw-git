@@ -4,13 +4,12 @@ number: "932.100"
 title: Legge sulla promozione dello sviluppo economico nei Grigioni
 short: LSE; Legge sullo sviluppo economico
 language: it
-version: 2021-01-01
-corrected: 2020-12-21
-version_adopted: 2020-06-17
+version: 2026-07-01
+version_adopted: 2024-12-03
 adopted: 2015-08-27
 in_force: 2016-01-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/932.100"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/3111/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3646/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
@@ -19,7 +18,7 @@ pdf: "https://www.gr-lex.gr.ch/api/it/versions/3111/pdf_file"
 
 (LSE; Legge sullo sviluppo economico)
 
-del 27.08.2015 (stato 01.01.2021)
+del 27.08.2015 (stato 01.07.2026)
 
 Il Gran Consiglio del Cantone dei Grigioni[^ingress-1],
 
@@ -57,7 +56,7 @@ decide:
 
 **Strumenti di promozione**
 
-<sup>1</sup> Per la promozione è possibile concedere contributi e prestiti, procedere ad affiliazioni e a partecipazioni, svolgere attività proprie, contrarre fideiussioni nonché acquistare e mettere a disposizione fondi.
+<sup>1</sup> Per la promozione è possibile concedere contributi e prestiti, concedere crediti d'imposta, procedere ad affiliazioni e a partecipazioni, svolgere attività proprie, contrarre fideiussioni nonché acquistare e mettere a disposizione fondi.
 
 #### Art. 4
 
@@ -73,6 +72,24 @@ decide:
 <sup>3</sup> I contributi e i prestiti vengono versati quale finanziamento complementare una tantum, ad eccezione di quelli versati conformemente agli articoli 13, 14, 15, 17, 24 e 25.
 
 <sup>4</sup> I prestiti vengono concessi per una durata massima di 15 anni.
+
+#### Art. 4a
+
+**Crediti d'imposta**
+
+<sup>1</sup> Il Cantone può concedere alle imprese crediti d'imposta una tantum o ricorrenti per misure che forniscono un contributo importante:
+
+- a) all'aumento del valore aggiunto nel Cantone;
+- b) al rafforzamento della ricerca, dello sviluppo e dell'innovazione; oppure
+- c) al miglioramento della sostenibilità ecologica.
+
+<sup>2</sup> I crediti d'imposta ammontano al massimo al 25 per cento delle spese o degli effetti computabili associati alle misure di cui al capoverso 1.
+
+<sup>3</sup> I crediti d'imposta concessi a un'impresa vengono compensati con i relativi debiti fiscali. Il Governo disciplina il versamento di crediti d'imposta.
+
+<sup>4</sup> Devono essere previamente sentiti i comuni aventi fiscalmente diritto. Essi partecipano ai crediti d'imposta in misura dei debiti fiscali compensati delle imprese interessate presenti sul loro territorio analogamente a quanto vale per le agevolazioni fiscali conformemente all'articolo 5 della legge sulle imposte per il Cantone dei Grigioni[^4a-1]. Eventuali versamenti di crediti d'imposta sono a carico esclusivamente del Cantone.
+
+[^4a-1]: CSC [720.000](https://www.gr-lex.gr.ch/data/720.000/it)
 
 #### Art. 5
 
@@ -160,7 +177,7 @@ decide:
 - a) con la loro attività forniscono un contributo al rafforzamento dell'economia regionale; o se
 - b) esiste un potenziale per creare una rete di attività insieme alle aziende.
 
-## 3. Sviluppo della piazza economica
+## 3. Sviluppo regionale e della piazza economica
 
 #### Art. 16
 
@@ -175,6 +192,14 @@ decide:
 **Enti responsabili regionali**
 
 <sup>1</sup> Il Cantone può sostenere enti responsabili regionali nell'attuazione di misure volte al sostegno dell'economia.
+
+<sup>2</sup> Il Cantone concede a ogni ente regionale un contributo base annuale pari almeno a 20 000 franchi per l'attività di base dello sviluppo regionale.
+
+<sup>3</sup> Per lo sviluppo regionale, il Cantone può concedere dei contributi fino al 50 per cento alle spese per il personale di un ente responsabile regionale, se è data una strategia regionale di sviluppo della piazza economica approvata.
+
+<sup>4</sup> Il Cantone può sostenere l'elaborazione di studi e strategie per l'attuazione di progetti contenuti nella strategia regionale di sviluppo della piazza economica con contributi pari al massimo al 50 per cento delle spese.
+
+<sup>5</sup> Il Cantone prende atto delle strategie regionali di sviluppo della piazza economica che gli enti responsabili regionali devono emanare.
 
 #### Art. 18
 
@@ -290,7 +315,7 @@ decide:
 
 <sup>1</sup> L'esecuzione della presente legge compete al Governo.
 
-<sup>2</sup> Il Governo è competente in via definitiva per la garanzia della disponibilità di fondi per lo sviluppo economico conformemente all'articolo 8.
+<sup>2</sup> Il Governo è competente in via definitiva per la concessione di crediti d'imposta conformemente all'articolo 4a nonché per la garanzia della disponibilità di fondi per lo sviluppo economico conformemente all'articolo 8.
 
 <sup>3</sup> Se nella procedura ai sensi dell'articolo 10 capoverso 3 sono coinvolti più dipartimenti, il Governo dispone il coordinamento delle procedure.
 
@@ -299,5 +324,13 @@ decide:
 **Rimedi giuridici**
 
 <sup>1</sup> Le decisioni del dipartimento in merito a prestazioni promozionali per le quali non vi è un diritto sono impugnabili con ricorso al Governo. Quest'ultimo decide in via definitiva.
+
+## 7. Disposizione finale
+
+#### Art. 34
+
+**Disposizione transitoria**
+
+<sup>1</sup> Fino alla fine del 2023, nei casi corrispondenti il Cantone può concedere prestazioni promozionali anche se la strategia regionale di sviluppo della piazza economica non è approvata.
 
 2015-056
