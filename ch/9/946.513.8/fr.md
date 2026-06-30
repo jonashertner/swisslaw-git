@@ -4,11 +4,11 @@ title: "Ordonnance du 19 mai 2010 réglant la mise sur le marché de produits fa
 short: OPPEtr
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/350"
 language: fr
-version: 2025-12-01
+version: 2026-07-01
 adopted: 2010-05-19
 in_force: 2010-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/350/20251201/fr/xml/fedlex-data-admin-ch-eli-cc-2010-350-20251201-fr-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/350/20251201/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/350/20260701/fr/xml/fedlex-data-admin-ch-eli-cc-2010-350-20260701-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/350/20260701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2010/350/20251201/fr"
 
 (Ordonnance sur la mise sur le marché de produits fabriqués selon des prescriptions étrangères, OPPEtr)
 
-du 19 mai 2010 (État le 1<sup>er</sup> décembre 2025)
+du 19 mai 2010 (État le 1<sup>er</sup> juillet 2026)
 
 Le Conseil fédéral suisse,
 
@@ -95,7 +95,7 @@ Font exception au principe fixé à l’art. 16*a*, al. 1, LETC:
   - 4\. les ouvrages soumis à la loi du 20 juin 1933 sur le contrôle des métaux précieux[^2-25] qui ne sont pas conformes aux prescriptions concernant les titres et à celles concernant la désignation, le marquage et la composition matérielle énumérées aux art. 1 à 3 et 5 à 21 de ladite loi,
   - 5\.[^2-26]
 
-    les appareils suivants qui ne respectent pas les prescriptions techniques prévues aux art. 3 à 8 et aux annexes 1.3, 1.15, 1.16, 1.18, 1.21, 2.14, 2.15 et 3.2 de l’ordonnance du 1<sup>er</sup> novembre 2017 sur les exigences relatives à l’efficacité énergétique[^2-27]:[^2-28]
+    les appareils suivants qui ne respectent pas les prescriptions techniques prévues aux art. 3 à 8 et aux annexes 1.3, 1.15, 1.16, 1.18, 1.21, 2.14 et 2.15 de l’ordonnance du 1<sup>er</sup> novembre 2017 sur les exigences relatives à l’efficacité énergétique[^2-27]: [^2-28]
 
     - – [^2-29] …
     - – les sèche-linge domestiques à tambour alimentés par le secteur
@@ -106,17 +106,17 @@ Font exception au principe fixé à l’art. 16*a*, al. 1, LETC:
     - – [^2-30] …
     - – les plaques de cuisson professionnelles, les fours professionnels à gratin ou de maintien au chaud ouverts diffusant une chaleur supérieure intense (salamandres) et les friteuses professionnelles alimentés par le secteur
     - – les lave-vaisselle professionnels alimentés par le secteur
-    - – les machines à café domestiques alimentées par le secteur,
+    - –[^2-31] … ,
 
-  - 6\.[^2-31] les bois et les produits en bois soumis à l’ordonnance du 4 juin 2010 sur la déclaration concernant le bois et les produits en bois[^2-32] qui ne satisfont pas aux prescriptions relatives à la déclaration énoncées aux art. 2 à 4 de ladite ordonnance,
-  - 7\.[^2-33] …
-  - 8\.[^2-34] Les fourrures et les produits de la pelleterie soumis aux dispositions de l’ordonnance du 7 décembre 2012 sur la déclaration des fourrures et des produits de la pelleterie[^2-35] qui ne respectent pas les art. 2*a* à 7 de ladite ordonnance,
-  - 9\.[^2-36] les compteurs d’électricité autres que les compteurs d’énergie active, pour lesquels le Département fédéral de justice et police a édicté des prescriptions selon l’art. 33 de l’ordonnance du 15 février 2006 sur les instruments de mesure[^2-37], notamment les compteurs pour la mesure de l’énergie réactive, la mesure de la puissance ou l’établissement de la courbe de charge,
-  - 10\.[^2-38] les granulés et les briquettes de bois à l’état naturel dans la mesure où ils ne remplissent pas les exigences au sens de l’annexe 5, ch. 32 OPair,
-  - 11\.[^2-39] les cosmétiques qui ne remplissent pas les exigences définies à l’art. 6, al. 1, de l’ordonnance du DFI du 16 décembre 2016 sur les cosmétiques[^2-40],
-  - 12\.[^2-41] les produits du tabac et les produits de substitution dont l’emballage de vente au détail n’indique pas, comme le prévoit l’art. 16, al. 1, let. a et b, de la loi fédérale du 21 mars 1969 sur l’imposition du tabac[^2-42], en relation avec l’art. 31 de l’ordonnance du 14 octobre 2009 sur l’imposition du tabac[^2-43], le prix de vente au détail en francs suisses, ni la raison sociale ou le numéro de revers du fabricant en Suisse ou de l’importateur,
-  - 13\.[^2-44] les produits nicotiniques à usage oral sans tabac au sens de l’art. 3, let. d, de la loi du 1<sup>er</sup> octobre 2021 sur les produits du tabac (LPTab)[^2-45] et les cigarettes électroniques au sens de l’art. 3, let. f, LPTab ne contenant pas de nicotine, dont l’emballage ne comporte pas la mise en garde prévue à l’art. 14, al. 1, let. b ou e, LPTab,
-  - 14\.[^2-46] les produits similaires au sens de l’art. 2 de l’ordonnance du 28 août 2024 sur les produits du tabac (OPTab)[^2-47] dont l’emballage ne comporte pas les mises en garde découlant de la classification prévue à l’art. 3 OPTab ni celles prévues à l’art. 13 OPTab.
+  - 6\.[^2-32] les bois et les produits en bois soumis à l’ordonnance du 4 juin 2010 sur la déclaration concernant le bois et les produits en bois[^2-33] qui ne satisfont pas aux prescriptions relatives à la déclaration énoncées aux art. 2 à 4 de ladite ordonnance,
+  - 7\.[^2-34] …
+  - 8\.[^2-35] Les fourrures et les produits de la pelleterie soumis aux dispositions de l’ordonnance du 7 décembre 2012 sur la déclaration des fourrures et des produits de la pelleterie[^2-36] qui ne respectent pas les art. 2*a* à 7 de ladite ordonnance,
+  - 9\.[^2-37] les compteurs d’électricité autres que les compteurs d’énergie active, pour lesquels le Département fédéral de justice et police a édicté des prescriptions selon l’art. 33 de l’ordonnance du 15 février 2006 sur les instruments de mesure[^2-38], notamment les compteurs pour la mesure de l’énergie réactive, la mesure de la puissance ou l’établissement de la courbe de charge,
+  - 10\.[^2-39] les granulés et les briquettes de bois à l’état naturel dans la mesure où ils ne remplissent pas les exigences au sens de l’annexe 5, ch. 32 OPair,
+  - 11\.[^2-40] les cosmétiques qui ne remplissent pas les exigences définies à l’art. 6, al. 1, de l’ordonnance du DFI du 16 décembre 2016 sur les cosmétiques[^2-41],
+  - 12\.[^2-42] les produits du tabac et les produits de substitution dont l’emballage de vente au détail n’indique pas, comme le prévoit l’art. 16, al. 1, let. a et b, de la loi fédérale du 21 mars 1969 sur l’imposition du tabac[^2-43], en relation avec l’art. 31 de l’ordonnance du 14 octobre 2009 sur l’imposition du tabac[^2-44], le prix de vente au détail en francs suisses, ni la raison sociale ou le numéro de revers du fabricant en Suisse ou de l’importateur,
+  - 13\.[^2-45] les produits nicotiniques à usage oral sans tabac au sens de l’art. 3, let. d, de la loi du 1<sup>er</sup> octobre 2021 sur les produits du tabac (LPTab)[^2-46] et les cigarettes électroniques au sens de l’art. 3, let. f, LPTab ne contenant pas de nicotine, dont l’emballage ne comporte pas la mise en garde prévue à l’art. 14, al. 1, let. b ou e, LPTab,
+  - 14\.[^2-47] les produits similaires au sens de l’art. 2 de l’ordonnance du 28 août 2024 sur les produits du tabac (OPTab)[^2-48] dont l’emballage ne comporte pas les mises en garde découlant de la classification prévue à l’art. 3 OPTab ni celles prévues à l’art. 13 OPTab.
 
 [^2-1]: [RS 814.81](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9592)
 [^2-2]: Abrogé par le ch. II 2 de l’O du 17 avr. 2019, avec effet au 1<sup>er</sup> juin 2019 ([RO 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)).
@@ -145,26 +145,27 @@ Font exception au principe fixé à l’art. 16*a*, al. 1, LETC:
 [^2-25]: [RS 941.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11222)
 [^2-26]: Nouvelle teneur selon le ch. III de l’O du 24 mai 2023, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 280](https://fedlex.data.admin.ch/eli/oc/2023/280)).
 [^2-27]: [RS 730.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8505)
-[^2-28]: Nouvelle teneur selon le ch. IV de l’O du 21 mai 2025, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 382](https://fedlex.data.admin.ch/eli/oc/2025/382)).
+[^2-28]: Nouvelle teneur selon le ch. III de l’O du 27 mai 2026, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2026 300](https://fedlex.data.admin.ch/eli/oc/2026/300)).
 [^2-29]: Abrogé par le ch. I de l’O du 29 mars 2023, avec effet au 1<sup>er</sup> mars 2024 ([RO 2023 179](https://fedlex.data.admin.ch/eli/oc/2023/179)).
 [^2-30]: Abrogé par le ch. IV de l’O du 21 mai 2025, avec effet au 1<sup>er</sup> juil. 2025 ([RO 2025 382](https://fedlex.data.admin.ch/eli/oc/2025/382)).
-[^2-31]: Introduit par l’art. 10 de l’O du 4 juin 2010 sur la déclaration concernant le bois et les produits en bois, en vigueur depuis le 1<sup>er</sup> oct. 2010 ([RO 2010 2873](https://fedlex.data.admin.ch/eli/oc/2010/379)).
-[^2-32]: [RS 944.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11326)
-[^2-33]: Introduit par le ch. I 4 de l’O du 29 juin 2011 sur des adaptations d’O dans le domaine de l’environnement ([RO 2011 3379](https://fedlex.data.admin.ch/eli/oc/2011/454)). Abrogé par le ch. III de l’O du 11 avr. 2018, avec effet au 1<sup>er</sup> janv. 2023 ([RO 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)).
-[^2-34]: Introduit par l’art. 13 de l’O du 7 déc. 2012 sur la déclaration des fourrures ([RO 2013 579](https://fedlex.data.admin.ch/eli/oc/2013/114)). Nouvelle teneur selon le ch. II de l’O du 19 fév. 2020, en vigueur depuis le 1<sup>er</sup> avr. 2020 ([RO 2020 611](https://fedlex.data.admin.ch/eli/oc/2020/113)).
-[^2-35]: [RS 944.022](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11328)
-[^2-36]: Introduit par le ch. I de l’O du 26 août 2015, en vigueur depuis le 1<sup>er</sup> oct. 2015 ([RO 2015 3121](https://fedlex.data.admin.ch/eli/oc/2015/582)).
-[^2-37]: [RS 941.210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11180)
-[^2-38]: Introduit par le ch. III de l’O du 14 oct. 2015, en vigueur depuis le 16 nov. 2015 ([RO 2015 4171](https://fedlex.data.admin.ch/eli/oc/2015/699)).
-[^2-39]: Introduit par le ch. II de l’O du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2024 9](https://fedlex.data.admin.ch/eli/oc/2024/9), [509](https://fedlex.data.admin.ch/eli/oc/2024/509)). Erratum du 19 sept. 2024 ([RO 2024 509](https://fedlex.data.admin.ch/eli/oc/2024/509)).
-[^2-40]: [RS 817.023.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9692)
-[^2-41]: Introduit par l’annexe 4 ch. II 8 de l’O du 28 août 2024 sur les produits du tabac, en vigueur depuis le 1<sup>er</sup> oct. 2024 ([RO 2024 491](https://fedlex.data.admin.ch/eli/oc/2024/491), [509](https://fedlex.data.admin.ch/eli/oc/2024/509)).
-[^2-42]: [RS 641.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8114)
-[^2-43]: [RS 641.311](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8116)
-[^2-44]: Introduit par l’annexe 4 ch. II 8 de l’O du 28 août 2024 sur les produits du tabac, en vigueur depuis le 1<sup>er</sup> oct. 2024 ([RO 2024 491](https://fedlex.data.admin.ch/eli/oc/2024/491), [509](https://fedlex.data.admin.ch/eli/oc/2024/509)).
-[^2-45]: [RS 818.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9831)
-[^2-46]: Introduit par l’annexe 4 ch. II 8 de l’O du 28 août 2024 sur les produits du tabac, en vigueur depuis le 1<sup>er</sup> oct. 2024 ([RO 2024 491](https://fedlex.data.admin.ch/eli/oc/2024/491), [509](https://fedlex.data.admin.ch/eli/oc/2024/509)).
-[^2-47]: [RS 818.321](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40239)
+[^2-31]: Abrogé par le ch. III de l’O du 27 mai 2026, avec effet au 1<sup>er</sup> juil. 2026 ([RO 2026 300](https://fedlex.data.admin.ch/eli/oc/2026/300)).
+[^2-32]: Introduit par l’art. 10 de l’O du 4 juin 2010 sur la déclaration concernant le bois et les produits en bois, en vigueur depuis le 1<sup>er</sup> oct. 2010 ([RO 2010 2873](https://fedlex.data.admin.ch/eli/oc/2010/379)).
+[^2-33]: [RS 944.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11326)
+[^2-34]: Introduit par le ch. I 4 de l’O du 29 juin 2011 sur des adaptations d’O dans le domaine de l’environnement ([RO 2011 3379](https://fedlex.data.admin.ch/eli/oc/2011/454)). Abrogé par le ch. III de l’O du 11 avr. 2018, avec effet au 1<sup>er</sup> janv. 2023 ([RO 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)).
+[^2-35]: Introduit par l’art. 13 de l’O du 7 déc. 2012 sur la déclaration des fourrures ([RO 2013 579](https://fedlex.data.admin.ch/eli/oc/2013/114)). Nouvelle teneur selon le ch. II de l’O du 19 fév. 2020, en vigueur depuis le 1<sup>er</sup> avr. 2020 ([RO 2020 611](https://fedlex.data.admin.ch/eli/oc/2020/113)).
+[^2-36]: [RS 944.022](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11328)
+[^2-37]: Introduit par le ch. I de l’O du 26 août 2015, en vigueur depuis le 1<sup>er</sup> oct. 2015 ([RO 2015 3121](https://fedlex.data.admin.ch/eli/oc/2015/582)).
+[^2-38]: [RS 941.210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11180)
+[^2-39]: Introduit par le ch. III de l’O du 14 oct. 2015, en vigueur depuis le 16 nov. 2015 ([RO 2015 4171](https://fedlex.data.admin.ch/eli/oc/2015/699)).
+[^2-40]: Introduit par le ch. II de l’O du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2024 9](https://fedlex.data.admin.ch/eli/oc/2024/9), [509](https://fedlex.data.admin.ch/eli/oc/2024/509)). Erratum du 19 sept. 2024 ([RO 2024 509](https://fedlex.data.admin.ch/eli/oc/2024/509)).
+[^2-41]: [RS 817.023.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9692)
+[^2-42]: Introduit par l’annexe 4 ch. II 8 de l’O du 28 août 2024 sur les produits du tabac, en vigueur depuis le 1<sup>er</sup> oct. 2024 ([RO 2024 491](https://fedlex.data.admin.ch/eli/oc/2024/491), [509](https://fedlex.data.admin.ch/eli/oc/2024/509)).
+[^2-43]: [RS 641.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8114)
+[^2-44]: [RS 641.311](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8116)
+[^2-45]: Introduit par l’annexe 4 ch. II 8 de l’O du 28 août 2024 sur les produits du tabac, en vigueur depuis le 1<sup>er</sup> oct. 2024 ([RO 2024 491](https://fedlex.data.admin.ch/eli/oc/2024/491), [509](https://fedlex.data.admin.ch/eli/oc/2024/509)).
+[^2-46]: [RS 818.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9831)
+[^2-47]: Introduit par l’annexe 4 ch. II 8 de l’O du 28 août 2024 sur les produits du tabac, en vigueur depuis le 1<sup>er</sup> oct. 2024 ([RO 2024 491](https://fedlex.data.admin.ch/eli/oc/2024/491), [509](https://fedlex.data.admin.ch/eli/oc/2024/509)).
+[^2-48]: [RS 818.321](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40239)
 
 #### Art. 3
 
