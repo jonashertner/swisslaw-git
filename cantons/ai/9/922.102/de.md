@@ -4,13 +4,12 @@ number: "922.102"
 title: Standeskommissionsbeschluss über die Jagd
 short: StKB Jagd
 language: de
-version: 2025-09-01
-valid_until: 2026-06-30
-version_adopted: 2025-08-26
+version: 2026-07-01
+version_adopted: 2026-06-16
 adopted: 2021-07-06
 in_force: 2021-07-15
 url: "https://ai.clex.ch/app/de/texts_of_law/922.102"
-pdf: "https://ai.clex.ch/api/de/versions/2385/pdf_file"
+pdf: "https://ai.clex.ch/api/de/versions/2447/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AI. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://ai.clex.ch/api/de/versions/2385/pdf_file"
 
 (StKB Jagd)
 
-vom 06.07.2021 (Stand 01.09.2025)
+vom 06.07.2021 (Stand 01.07.2026)
 
 Die Standeskommission des Kantons Appenzell I.Rh.,
 
@@ -41,7 +40,7 @@ beschliesst:
 
 <sup>1</sup> Jagdbar sind: Hirschstiere, Hirschkühe und Hirschkälber.
 
-<sup>2</sup> Das säugende Muttertier ist geschützt, sofern nicht unmittelbar nach dem Abschuss des Kalbs das dazugehörige Muttertier erlegt wird. Das Jungtier ist vor dem Muttertier zu erlegen. Bei Kahlwildrudeln müssen die Jungtiere zuerst erlegt werden.
+<sup>2</sup> Das säugende Muttertier ist geschützt, sofern nicht unmittelbar nach dem Abschuss des Kalbs das dazugehörige Muttertier erlegt wird. Das Jungtier ist vor dem Muttertier zu erlegen.
 
 <sup>3</sup> Der Vorsteher des Bau- und Umweltdepartements kann eine Sonderjagd anordnen.
 
@@ -97,7 +96,7 @@ beschliesst:
 
 <sup>2</sup> Als beidseitige Kronenhirsche gelten Hirsche, deren Stangen drei oder mehr Enden über der Mittelsprosse aufweisen. Als einseitige Kronenhirsche gelten Hirsche, welche an einer Stange drei oder mehr Enden über der Mittelsprosse aufweisen. Als Enden der Krone gelten Erhebungen von 5cm und mehr über der Stangenoberfläche. Gemessen wird die kürzeste Distanz von der Stangenoberfläche beim Ansatz bis zur Spitze. Die Länge der Stange wird an der Aussenseite, von der Rose bis zum längsten Ende gemessen.
 
-<sup>3</sup> Das Amt für Umwelt sorgt im Bedarfsfall durch eigene Abschüsse im eidgenössischen Jagdbanngebiet dafür, dass die geplanten Abschusszahlen von weiblichen Hirschtieren und Kälbern (Kahlwild) erreicht werden.
+<sup>3</sup> Das Amt für Jagd und Fischerei sorgt im Bedarfsfall durch eigene Abschüsse im eidgenössischen Jagdbanngebiet dafür, dass die geplanten Abschusszahlen von weiblichen Hirschtieren und Kälbern (Kahlwild) erreicht werden.
 
 #### Art. 10
 
@@ -107,7 +106,7 @@ beschliesst:
 
 <sup>2</sup> Tiere, die gemäss Jagdverordnung irrtümlich oder im Rahmen einer hegerischen Massnahme erlegt werden, müssen der Wildhut gemeldet und vorgewiesen werden. Es dürfen keine Veränderungen an den Tierkörpern vorgenommen werden.
 
-<sup>3</sup> Mit Ausnahme von fünf Jährlingen ist die Gamsjagd nördlich des Wissbachs bis zur Kantonsstrasse von Jakobsbad bis Weissbad verboten.
+<sup>3</sup> Nördlich des Wissbachs bis zur Kantonsstrasse von Jakobsbad bis Weissbad dürfen maximal drei Gamsböcke, drei Gamsgeissen und drei Gamsjährlinge erlegt werden.
 
 <sup>4</sup> Bei der Tierabnahme hat die Jägerin oder der Jäger beim Gamswild das Haupt abzutrennen und dieses, mit dem eigenen Namen beschriftet, zwecks Altersbestimmung vorübergehend bei der Kontrollstelle abzugeben. Sobald ein Lauscher abgetrennt ist, kann die Erlegerin oder der Erleger darüber verfügen.
 
@@ -117,7 +116,7 @@ beschliesst:
 
 <sup>7</sup> Sämtliche Nachsuchen sind vor dem Beginn der Wildhut zu melden.
 
-<sup>8</sup> Das gesamte Rot- und Schwarzwild und die Gamsgeissen unterliegen der Vorweispflicht und sind in den Kühlraum der Jagdverwaltung an der Mettlenstrasse 23 in Appenzell zu hängen. Das Tier ist dort gemäss der aufgelegten Deklarationskarte zu deklarieren. Nach erfolgter Tierabnahme wird das Tier für die Freigabe schriftlich bezeichnet.
+<sup>8</sup> Das gesamte Rot- und Schwarzwild und die Gamsgeissen unterliegen der Vorweispflicht und sind in den Kühlraum an der Mettlenstrasse 21 in Appenzell zu hängen. Das Tier ist dort gemäss der aufgelegten Deklarationskarte zu deklarieren. Nach erfolgter Tierabnahme wird das Tier für die Freigabe schriftlich bezeichnet. Die Trichinenbeprobung beim Schwarzwild erfolgt durch die Wildhut und geht zu Lasten des Kantons.
 
 <sup>9</sup> Während der dritten Hochwildjagdwoche darf die Hochwildjagd nur ausserhalb des Rotwildlebensraums gemäss grünem Bereich der Karte im Anhang ausgeübt werden. Es dürfen Gamswild, Rehwild, Schwarzwild, Murmeltiere, Füchse, Dachse, Waschbären und Marderhunde erlegt werden.
 
@@ -155,6 +154,10 @@ beschliesst:
 
 <sup>3</sup> Der Abschuss von Rehböcken und nicht säugenden Rehgeissen mit der Kugel zulasten des Niederwildkontingents ist nur während der Hochwildjagd zulässig.
 
+<sup>4</sup> Das Schwarzwild unterliegt der Vorweispflicht und ist in den Kühlraum an der Mettlenstrasse 21 in Appenzell zu hängen. Die Trichinenbeprobung erfolgt durch die Wildhut und geht zu Lasten des Kantons.
+
+<sup>5</sup> Schwarzwild, das im Rahmen der Niederwildjagd bejagt wird, ist mit Flintenlaufgeschossen zu erlegen. Gestreifte Frischlinge dürfen auch mit Schrot erlegt werden.
+
 ## III Besondere Jagdarten
 
 ### 1. Bau- und Vogeljagd
@@ -167,9 +170,9 @@ beschliesst:
 
 #### Art. 16
 
-**Bau- und Vogelkontingente**
+**Bau- und Vogeljagdkontingente**
 
-<sup>1</sup> Die Bau- und Vogelkontingente ergeben sich aus Anhang 3 dieses Standeskommissionsbeschlusses.
+<sup>1</sup> Die Bau- und Vogeljagdkontingente ergeben sich aus Anhang 3 dieses Standeskommissionsbeschlusses.
 
 #### Art. 17
 
@@ -273,7 +276,7 @@ beschliesst:
 
 **Allgemeine Kontrollvorschriften**
 
-<sup>1</sup> Sämtliches erlegtes Wild ist in der Abschussliste einzutragen, welche bis spätestens 10 Tage nach Beendigung der jeweiligen Jagd der Jagdverwaltung abgegeben werden muss.
+<sup>1</sup> Sämtliches erlegtes Wild ist unverzüglich nach dem Erlegen bzw. sobald das Tier aufgefunden wird, in die Abschussliste einzutragen. Die Abschussliste ist der Jagdverwaltung innert 10 Tagen nach Beendigung der jeweiligen Jagd abzugeben.
 
 #### Art. 29
 
@@ -297,7 +300,7 @@ beschliesst:
 
 <sup>1</sup> Hochsitze sind einfach zu halten und dürfen nur das für die Jagd Notwendige umfassen.
 
-<sup>2</sup> Bevor ein Hochsitz erstellt werden darf, muss die schriftliche Einwilligung der Grundeigentümerschaft vorliegen und dem Amt für Umwelt gemeldet werden.
+<sup>2</sup> Bevor ein Hochsitz erstellt werden darf, muss die schriftliche Einwilligung der Grundeigentümerschaft vorliegen und dem Amt für Jagd und Fischerei gemeldet werden.
 
 <sup>3</sup> Fotofallen dürfen nur mit Zustimmung der Grundeigentümerschaft installiert werden. Jede Fotofalle muss gut sichtbar mit dem vollständigen Namen und der Telefonnummer des Erstellers beschriftet sein.
 
