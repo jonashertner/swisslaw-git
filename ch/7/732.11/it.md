@@ -4,11 +4,11 @@ title: "Ordinanza del 10 dicembre 2004 sull'energia nucleare (OENu)"
 short: OENu
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/68"
 language: it
-version: 2025-07-01
+version: 2026-07-01
 adopted: 2004-12-10
 in_force: 2005-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/68/20250701/it/xml/fedlex-data-admin-ch-eli-cc-2005-68-20250701-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/68/20250701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/68/20260701/it/xml/fedlex-data-admin-ch-eli-cc-2005-68-20260701-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/68/20260701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2005/68/20250701/it"
 
 (OENu)
 
-del 10 dicembre 2004 (Stato 1° luglio 2025)
+del 10 dicembre 2004 (Stato 1° luglio 2026)
 
 Il Consiglio federale svizzero,
 
@@ -25,7 +25,7 @@ visto l’articolo 101 capoverso 1 della legge federale del 21 marzo 2003[^ingre
 
 ordina:
 
-[^ingress-1]: [RS 732.1](https://fedlex.data.admin.ch/eli/cc/2004/723)
+[^ingress-1]: [RS 732.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8531)
 
 ## Capitolo 1: Disposizioni generali
 
@@ -82,7 +82,7 @@ Non sono considerati impianti nucleari gli impianti in cui vengono ottenuti, pro
 
 <sup>2</sup> L’Ufficio federale dell’energia (Ufficio federale) accerta se i materiali grezzi adempiono i requisiti di cui al capoverso 1 lettera b.
 
-[^2-1]: [RS 814.501](https://fedlex.data.admin.ch/eli/cc/2017/502)
+[^2-1]: [RS 814.501](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9534)
 [^2-2]: Introdotto dalla cifra I dell’O del 7 dic. 2018, in vigore dal 1° feb. 2019 ([RU 2019 183](https://fedlex.data.admin.ch/eli/oc/2019/27)).
 
 #### Art. 3
@@ -150,7 +150,7 @@ Nella progettazione di un impianto nucleare ai sensi dell’articolo 7 lettera c
 
 <sup>6</sup> Il Dipartimento federale dell’ambiente, dei trasporti, dell’energia e delle comunicazioni (Dipartimento) fissa in un’ordinanza le ipotesi specifiche di pericolo e i criteri di valutazione.
 
-[^8-1]: [RS 814.501](https://fedlex.data.admin.ch/eli/cc/2017/502)
+[^8-1]: [RS 814.501](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9534)
 [^8-2]: Nuovo testo giusta la cifra I dell’O del 7 dic. 2018, in vigore dal 1° feb. 2019 ([RU 2019 183](https://fedlex.data.admin.ch/eli/oc/2019/27)).
 [^8-3]: Introdotto dalla cifra I dell’O del 7 dic. 2018, in vigore dal 1° feb. 2019 ([RU 2019 183](https://fedlex.data.admin.ch/eli/oc/2019/27)).
 [^8-4]: Nuovo testo giusta la cifra I dell’O del 7 dic. 2018, in vigore dal 1° feb. 2019 ([RU 2019 183](https://fedlex.data.admin.ch/eli/oc/2019/27)).
@@ -311,9 +311,9 @@ Su richiesta, il titolare di una licenza per l’intermediazione di materiali nu
 
 [^15-1]: Nuovo testo giusta l’art. 21 cpv. 2 dell’O del 25 mar. 2015 sulla responsabilità civile in materia nucleare, in vigore dal 1° gen. 2022 ([RU 2021 860](https://fedlex.data.admin.ch/eli/oc/2021/860)).
 [^15-2]: Introdotta dall’art. 21 cpv. 2 dell’O del 25 mar. 2015 sulla responsabilità civile in materia nucleare, in vigore dal 1° gen. 2022 ([RU 2021 860](https://fedlex.data.admin.ch/eli/oc/2021/860)).
-[^15-3]: [RS 732.44](https://fedlex.data.admin.ch/eli/cc/2022/43)
+[^15-3]: [RS 732.44](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8560)
 [^15-4]: Introdotta dall’art. 21 cpv. 2 dell’O del 25 mar. 2015 sulla responsabilità civile in materia nucleare, in vigore dal 1° gen. 2022 ([RU 2021 860](https://fedlex.data.admin.ch/eli/oc/2021/860)).
-[^15-5]: [RS 732.441](https://fedlex.data.admin.ch/eli/cc/2021/860)
+[^15-5]: [RS 732.441](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8561)
 
 #### Art. 16
 
@@ -395,7 +395,7 @@ Egli deve notificare senza indugio all’IFSN i seguenti eventi e riscontri atti
 
 <sup>2</sup> L’IFSN è incaricato di disciplinare mediante direttive la metodica e le condizioni marginali per l’analisi degli incidenti richiesta dal capoverso 1.[^22-3]
 
-[^22-1]: [<sup>RS</sup> <sup>814.501</sup>](https://fedlex.data.admin.ch/eli/cc/2017/502)
+[^22-1]: [<sup>RS</sup> <sup>814.501</sup>](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9534)
 [^22-2]: Nuovo testo giusta l’all. 11 n. 4 dell’O del 26 apr. 2017 sulla radioprotezione, in vigore dal 1° gen. 2018 ([RU 2017 4261](https://fedlex.data.admin.ch/eli/oc/2017/502)).
 [^22-3]: Nuovo testo giusta l’all. n. 12 dell’O del 12 nov. 2008 sull’Ispettorato federale della sicurezza nucleare, in vigore dal 1° gen. 2009 ([RU 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
 
@@ -446,10 +446,14 @@ Deve a tal fine fornire la seguente documentazione:
 - f. il piano di disattivazione o il progetto per la fase di osservazione e il piano per la chiusura dell’impianto;
 - g. il rapporto sulla conformità del progetto con l’autorizzazione di massima.
 
-<sup>3</sup> L’IFSN è incaricato di disciplinare mediante direttive il genere, il contenuto, la forma e il numero di esemplari della necessaria documentazione.[^24-2]
+<sup>2bis</sup> Nel caso di progetti fuori delle zone edificabili, la domanda deve contenere in particolare i piani dai quali risulti la delimitazione di eventuali edifici nuovi o demoliti ai sensi dell’articolo 25*a* capoverso 1 dell’ordinanza del 28 giugno 2000[^24-2] sulla pianificazione del territorio e di eventuali superfici impermeabilizzate nuove o demolite ai sensi dell’articolo 25*a* capoverso 2 dell’ordinanza sulla pianificazione del territorio.[^24-3]
+
+<sup>3</sup> L’IFSN è incaricato di disciplinare mediante direttive il genere, il contenuto, la forma e il numero di esemplari della necessaria documentazione.[^24-4]
 
 [^24-1]: Abrogata dalla cifra I dell’O del 1° nov. 2017, con effetto dal 1° gen. 2018 ([RU 2017 7107](https://fedlex.data.admin.ch/eli/oc/2017/768)).
-[^24-2]: Nuovo testo giusta l’all. n. 12 dell’O del 12 nov. 2008 sull’Ispettorato federale della sicurezza nucleare, in vigore dal 1° gen. 2009 ([RU 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
+[^24-2]: [RS 700.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8353)
+[^24-3]: Introdotto dall’appendice n. 6 dell’O del 15 ott. 2025, in vigore dal 1° lug. 2026 ([RU 2025 659](https://fedlex.data.admin.ch/eli/oc/2025/659)).
+[^24-4]: Nuovo testo giusta l’all. n. 12 dell’O del 12 nov. 2008 sull’Ispettorato federale della sicurezza nucleare, in vigore dal 1° gen. 2009 ([RU 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
 
 #### Art. 25
 
@@ -500,6 +504,24 @@ Per quanto concerne gli edifici e le parti dell’impianto che necessitano del n
 
 [^27-1]: Nuovo testo giusta l’all. n. 12 dell’O del 12 nov. 2008 sull’Ispettorato federale della sicurezza nucleare, in vigore dal 1° gen. 2009 ([RU 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
 [^27-2]: Nuovo testo giusta l’all. n. 12 dell’O del 12 nov. 2008 sull’Ispettorato federale della sicurezza nucleare, in vigore dal 1° gen. 2009 ([RU 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
+
+#### Art. 27a
+
+**Obblighi di notifica**[^27a-1]
+
+<sup>1</sup> L’UFE informa l’Ufficio federale di topografia (swisstopo) in merito alla conclusione di una procedura di autorizzazione edilizia trasmettendo l’autorizzazione edilizia e i piani richiesti da swisstopo.
+
+<sup>2</sup>
+
+Nel caso di costruzioni e impianti che rendono necessaria una tenuta a giorno della misurazione ufficiale o della misurazione nazionale, il titolare dell’autorizzazione è tenuto a comunicare a swisstopo entro 20 giorni, allegando i piani richiesti da swisstopo:
+
+- a. l’inizio dei lavori; e
+- b. il completamento dei lavori.
+
+<sup>3</sup> Se il progetto è situato in tutto o in parte fuori delle zone edificabili, il titolare dell’autorizzazione trasmette sotto forma di geodati i piani di cui all’articolo 24 capoverso 2<sup>bis</sup> approvati con decisione passata in giudicato all’autorità cantonale competente di cui all’articolo 25 capoverso 2 della legge del 22 giugno 1979[^27a-2] sulla pianificazione del territorio contestualmente alla comunicazione a swisstopo del completamento dei lavori.
+
+[^27a-1]: Introdotto dall’appendice n. 6 dell’O del 15 ott. 2025, in vigore dal 1° lug. 2026 ([RU 2025 659](https://fedlex.data.admin.ch/eli/oc/2025/659)).
+[^27a-2]: [RS 700](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8351)
 
 ### Sezione 3: Licenza d’esercizio
 
@@ -611,7 +633,7 @@ Il titolare della licenza è tenuto ad allestire programmi sistematici per la ma
 <sup>2</sup> I costi del controllo sono assunti dal servizio promotore di cui all’articolo 15 capoverso 4 lettera a OCSP.
 
 [^32a-1]: Originario art. 33*a*. Introdotto dall’all. 8 cifra II n. 7 dell’O dell’8 nov. 2023 sui controlli di sicurezza relativi alle persone, in vigore dal 1° gen. 2024 ([RU 2023 736](https://fedlex.data.admin.ch/eli/oc/2023/736)).
-[^32a-2]: [RS 128.31](https://fedlex.data.admin.ch/eli/cc/2023/736)
+[^32a-2]: [RS 128.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40162)
 
 #### Art. 33
 
@@ -1003,7 +1025,7 @@ Non rientrano nell’obbligo di smaltimento di cui all’articolo 31 LENu:
 - b. le scorie radioattive che sono destinate allo stoccaggio per il decadimento radioattivo conformemente all’articolo 117 ORaP.
 
 [^51abis-1]: Originario art. 51*a*. Introdotto dalla cifra I dell’O del 7 dic. 2018, in vigore dal 1° feb. 2019 ([RU 2019 183](https://fedlex.data.admin.ch/eli/oc/2019/27)).
-[^51abis-2]: [RS 814.501](https://fedlex.data.admin.ch/eli/cc/2017/502)
+[^51abis-2]: [RS 814.501](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9534)
 
 #### Art. 52
 
@@ -1076,6 +1098,19 @@ La domanda dev’essere corredata della documentazione necessaria alla valutazio
 [^54-1]: Nuovo testo giusta l’all. n. 12 dell’O del 12 nov. 2008 sull’Ispettorato federale della sicurezza nucleare, in vigore dal 1° gen. 2009 ([RU 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
 [^54-2]: Nuovo testo giusta l’all. n. 12 dell’O del 12 nov. 2008 sull’Ispettorato federale della sicurezza nucleare, in vigore dal 1° gen. 2009 ([RU 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
 
+#### Art. 54a
+
+**Eccezioni all’obbligo di condizionamento**[^54a-1]
+
+Non devono essere condizionate le scorie radioattive per le quali è prevedibile che:
+
+- a. possano essere immesse nell’ambiente conformemente agli articoli 111–116 ORaP[^54a-2];
+- b. possano essere destinate allo stoccaggio per il decadimento radioattivo conformemente all’articolo 117 ORaP; o
+- c. soddisfino i presupposti per un’esenzione conformemente all’articolo 106 ORaP.
+
+[^54a-1]: Introdotto dalla cifra I dell’O del 27 mag. 2026, in vigore dal 1° lug. 2026 ([RU 2026 302](https://fedlex.data.admin.ch/eli/oc/2026/302)).
+[^54a-2]: [RS 814.501](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9534)
+
 ### Sezione 3: Manipolazione di scorie radioattive
 
 #### Art. 55
@@ -1089,13 +1124,25 @@ L’Ufficio federale è competente per il rilascio:
 - a. di licenze per la manipolazione di scorie radioattive;
 - b. del consenso alla convenzione per la ripresa di scorie radioattive conformemente all’articolo 34 capoverso 3 lettera d e capoverso 4 LENu.
 
-<sup>2</sup> La competenza speciale di cui all’articolo 11 capoverso 2 lettera f ORaP[^55-1] è fatta salva.[^55-2]
+<sup>2</sup> …[^55-1]
 
-<sup>3</sup> Il Dipartimento è competente della conclusione dell’accordo internazionale di cui all’articolo 34 capoverso 3 lettera a LENu in caso di esportazione di scorie a bassa e media attività a scopo di condizionamento.[^55-3]
+<sup>3</sup> Il Dipartimento è competente della conclusione dell’accordo internazionale di cui all’articolo 34 capoverso 3 lettera a LENu in caso di esportazione di scorie a bassa e media attività a scopo di condizionamento.[^55-2]
 
-[^55-1]: [RS 814.501](https://fedlex.data.admin.ch/eli/cc/2017/502)
-[^55-2]: Introdotto dalla cifra I dell’O del 7 dic. 2018, in vigore dal 1° feb. 2019 ([RU 2019 183](https://fedlex.data.admin.ch/eli/oc/2019/27)).
-[^55-3]: Introdotto dalla cifra I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 765](https://fedlex.data.admin.ch/eli/oc/2023/765)).
+[^55-1]: Introdotto dalla cifra I dell’O del 7 dic. 2018 ([RU 2019 183](https://fedlex.data.admin.ch/eli/oc/2019/27)). Abrogato dalla cifra I dell’O del 27 mag. 2026, con effetto dal 1° lug. 2026 ([RU 2026 302](https://fedlex.data.admin.ch/eli/oc/2026/302)).
+[^55-2]: Introdotto dalla cifra I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 765](https://fedlex.data.admin.ch/eli/oc/2023/765)).
+
+#### Art. 55a
+
+**Eccezioni all’obbligo di licenza**[^55a-1]
+
+La manipolazione di scorie radioattive immesse nell’ambiente è esentata dall’obbligo di licenza secondo l’articolo 34 capoverso 1 LENu, nel caso di scorie per le quali è prevedibile o è già accertato che:
+
+- a. possano essere immesse nell’ambiente conformemente agli articoli 111–116 ORaP[^55a-2];
+- b. possano essere destinate allo stoccaggio per il decadimento radioattivo conformemente all’articolo 117 ORaP; o
+- c. soddisfino i presupposti per un’esenzione conformemente all’articolo 106 ORaP.
+
+[^55a-1]: Introdotto dalla cifra I dell’O del 27 mag. 2026, in vigore dal 1° lug. 2026 ([RU 2026 302](https://fedlex.data.admin.ch/eli/oc/2026/302)).
+[^55a-2]: [RS 814.501](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9534)
 
 #### Art. 56
 
@@ -1453,7 +1500,7 @@ Nella presente ordinanza, s’intende per:
 - k. *tecnologia*: le conoscenze specifiche, in generale non accessibili al pubblico o che non servono alla ricerca scientifica fondamentale, sotto forma di dati tecnici o di assistenza tecnica, necessarie allo sviluppo, alla fabbricazione o all’utilizzazione;
 - l. *Stato partner*: Stato che partecipa a misure di controllo internazionali non vincolanti dal profilo del diritto internazionale e sostenute dalla Svizzera.
 
-[^annex1-lvlu1-1]: [RS 814.501](https://fedlex.data.admin.ch/eli/cc/2017/502)
+[^annex1-lvlu1-1]: [RS 814.501](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9534)
 
 Allegato 2[^t-2]
 
@@ -1467,7 +1514,7 @@ Allegato 2[^t-2]
 
 La disposizione delle zone o aree e delle barriere rilevanti per la sicurezza esterna deve avvenire in maniera scaglionata secondo il seguente schema:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/68/20250701/it/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/68/20260701/it/xml/image/image1.png)
 
 Le diverse barriere di sicurezza esterna assolvono le seguenti funzioni:
 

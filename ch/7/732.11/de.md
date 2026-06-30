@@ -4,11 +4,11 @@ title: Kernenergieverordnung vom 10. Dezember 2004 (KEV)
 short: KEV
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/68"
 language: de
-version: 2025-07-01
+version: 2026-07-01
 adopted: 2004-12-10
 in_force: 2005-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/68/20250701/de/xml/fedlex-data-admin-ch-eli-cc-2005-68-20250701-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/68/20250701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/68/20260701/de/xml/fedlex-data-admin-ch-eli-cc-2005-68-20260701-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/68/20260701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2005/68/20250701/de"
 
 (KEV)
 
-vom 10. Dezember 2004 (Stand am 1. Juli 2025)
+vom 10. Dezember 2004 (Stand am 1. Juli 2026)
 
 Der Schweizerische Bundesrat,
 
@@ -25,7 +25,7 @@ gestützt auf Artikel 101 Absatz 1 des Kernenergiegesetzes vom 21. März 2003[^i
 
 verordnet:
 
-[^ingress-1]: [SR 732.1](https://fedlex.data.admin.ch/eli/cc/2004/723)
+[^ingress-1]: [SR 732.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8531)
 
 ## 1. Kapitel: Allgemeine Bestimmungen
 
@@ -82,7 +82,7 @@ Nicht als Kernanlagen gelten Anlagen, in denen folgende Kernmaterialien gewonnen
 
 <sup>2</sup> Das Bundesamt für Energie (Bundesamt) stellt fest, ob Ausgangsmaterialien die Anforderungen nach Absatz 1 Buchstabe b erfüllen.
 
-[^2-1]: [SR 814.501](https://fedlex.data.admin.ch/eli/cc/2017/502)
+[^2-1]: [SR 814.501](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9534)
 [^2-2]: Eingefügt durch Ziff. I der V vom 7. Dez. 2018, in Kraft seit 1. Febr. 2019 ([AS 2019 183](https://fedlex.data.admin.ch/eli/oc/2019/27)).
 
 #### Art. 3
@@ -150,7 +150,7 @@ Für die Auslegung einer Kernanlage nach Artikel 7 Buchstabe c ist bei den durch
 
 <sup>6</sup> Das Eidgenössische Departement für Umwelt, Verkehr, Energie und Kommunikation (Departement) legt die spezifischen Gefährdungsannahmen und die Bewertungskriterien in einer Verordnung fest.
 
-[^8-1]: [SR 814.501](https://fedlex.data.admin.ch/eli/cc/2017/502)
+[^8-1]: [SR 814.501](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9534)
 [^8-2]: Fassung gemäss Ziff. I der V vom 7. Dez. 2018, in Kraft seit 1. Febr. 2019 ([AS 2019 183](https://fedlex.data.admin.ch/eli/oc/2019/27)).
 [^8-3]: Eingefügt durch Ziff. I der V vom 7. Dez. 2018, in Kraft seit 1. Febr. 2019 ([AS 2019 183](https://fedlex.data.admin.ch/eli/oc/2019/27)).
 [^8-4]: Fassung gemäss Ziff. I der V vom 7. Dez. 2018, in Kraft seit 1. Febr. 2019 ([AS 2019 183](https://fedlex.data.admin.ch/eli/oc/2019/27)).
@@ -311,9 +311,9 @@ Auf Verlangen hat der Inhaber einer Bewilligung für die Vermittlung von Kernmat
 
 [^15-1]: Fassung gemäss Art. 21 Abs. 2 der Kernenergiehaftpflichtverordnung vom 25. März 2015, in Kraft seit 1. Jan. 2022 ([AS 2021 860](https://fedlex.data.admin.ch/eli/oc/2021/860)).
 [^15-2]: Eingefügt durch Art. 21 Abs. 2 der Kernenergiehaftpflichtverordnung vom 25. März 2015, in Kraft seit 1. Jan. 2022 ([AS 2021 860](https://fedlex.data.admin.ch/eli/oc/2021/860)).
-[^15-3]: [SR 732.44](https://fedlex.data.admin.ch/eli/cc/2022/43)
+[^15-3]: [SR 732.44](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8560)
 [^15-4]: Eingefügt durch Art. 21 Abs. 2 der Kernenergiehaftpflichtverordnung vom 25. März 2015, in Kraft seit 1. Jan. 2022 ([AS 2021 860](https://fedlex.data.admin.ch/eli/oc/2021/860)).
-[^15-5]: [SR 732.441](https://fedlex.data.admin.ch/eli/cc/2021/860)
+[^15-5]: [SR 732.441](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8561)
 
 #### Art. 16
 
@@ -395,7 +395,7 @@ Er hat dem ENSI die folgenden Ereignisse und Befunde aus dem Sicherungsbereich u
 
 <sup>2</sup> Das ENSI wird beauftragt, die Methodik und die Randbedingungen für die nach Absatz 1 erforderliche Störfallanalyse in Richtlinien zu regeln.[^22-3]
 
-[^22-1]: [SR 814.501](https://fedlex.data.admin.ch/eli/cc/2017/502)
+[^22-1]: [SR 814.501](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9534)
 [^22-2]: Fassung gemäss Anhang 11 Ziff. 4 der Strahlenschutzverordnung vom 26. April 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 4261](https://fedlex.data.admin.ch/eli/oc/2017/502)).
 [^22-3]: Fassung gemäss Anhang Ziff. 12 der V vom 12. Nov. 2008 über das Eidgenössische Nuklearsicherheitsinspektorat, in Kraft seit 1. Jan. 2009 ([AS 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
 
@@ -446,10 +446,14 @@ Dazu hat er folgende Unterlagen einzureichen:
 - f. den Plan für die Stilllegung oder das Projekt für die Beobachtungsphase und den Plan für den Verschluss;
 - g. den Bericht zur Übereinstimmung des Projektes mit der Rahmenbewilligung.
 
-<sup>3</sup> Das ENSI wird beauftragt, Art, Inhalt, Darstellung und Anzahl der Gesuchsunterlagen in Richtlinien zu regeln.[^24-2]
+<sup>2bis</sup> Bei Vorhaben ausserhalb der Bauzonen hat das Gesuch insbesondere Pläne zu enthalten, aus denen die Abgrenzung allfälliger neuer oder beseitigter Gebäude gemäss Artikel 25*a* Absatz 1 der Raumplanungsverordnung vom 28. Juni 2000[^24-2] und allfälliger neuer oder beseitigter Versiegelungen gemäss Artikel 25*a* Absatz 2 der Raumplanungsverordnung ersichtlich ist.[^24-3]
+
+<sup>3</sup> Das ENSI wird beauftragt, Art, Inhalt, Darstellung und Anzahl der Gesuchsunterlagen in Richtlinien zu regeln.[^24-4]
 
 [^24-1]: Aufgehoben durch Ziff. I der V vom 1. Nov. 2017, mit Wirkung seit 1. Jan. 2018 ([AS 2017 7107](https://fedlex.data.admin.ch/eli/oc/2017/768)).
-[^24-2]: Fassung gemäss Anhang Ziff. 12 der V vom 12. Nov. 2008 über das Eidgenössische Nuklearsicherheitsinspektorat, in Kraft seit 1. Jan. 2009 ([AS 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
+[^24-2]: [SR 700.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8353)
+[^24-3]: Eingefügt durch Anhang Ziff. 6 der V vom 15. Okt. 2025, in Kraft seit 1. Juli 2026 ([AS 2025 659](https://fedlex.data.admin.ch/eli/oc/2025/659)).
+[^24-4]: Fassung gemäss Anhang Ziff. 12 der V vom 12. Nov. 2008 über das Eidgenössische Nuklearsicherheitsinspektorat, in Kraft seit 1. Jan. 2009 ([AS 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
 
 #### Art. 25
 
@@ -500,6 +504,24 @@ Bei den in der Baubewilligung festgelegten freigabepflichtigen Bauten und Anlage
 
 [^27-1]: Fassung gemäss Anhang Ziff. 12 der V vom 12. Nov. 2008 über das Eidgenössische Nuklearsicherheitsinspektorat, in Kraft seit 1. Jan. 2009 ([AS 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
 [^27-2]: Fassung gemäss Anhang Ziff. 12 der V vom 12. Nov. 2008 über das Eidgenössische Nuklearsicherheitsinspektorat, in Kraft seit 1. Jan. 2009 ([AS 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
+
+#### Art. 27a
+
+**Meldepflichten**[^27a-1]
+
+<sup>1</sup> Das BFE informiert das Bundesamt für Landestopografie (swisstopo) über den Abschluss eines Baubewilligungsverfahrens durch Zustellung der Baubewilligung und der vom swisstopo benötigten Pläne.
+
+<sup>2</sup>
+
+Bei Bauten und Anlagen, die eine Nachführung der amtlichen Vermessung oder der Landesvermessung notwendig machen, informiert der Bewilligungsinhaber das swisstopo unter Beilage der vom swisstopo benötigten Pläne jeweils innert 20 Tagen über:
+
+- a. den Baubeginn; und
+- b. die Bauvollendung.
+
+<sup>3</sup> Liegt ein Vorhaben ganz oder teilweise ausserhalb der Bauzonen, lässt der Bewilligungsinhaber gleichzeitig zur Information des swisstopo über die Bauvollendung die rechtskräftigen Pläne nach Artikel 24 Absatz 2<sup>bis</sup> in Form von Geodaten der kantonalen Behörde zukommen, die nach Artikel 25 Absatz 2 des Raumplanungsgesetzes vom 22. Juni 1979[^27a-2] zuständig ist.
+
+[^27a-1]: Eingefügt durch Anhang Ziff. 6 der V vom 15. Okt. 2025, in Kraft seit 1. Juli 2026 ([AS 2025 659](https://fedlex.data.admin.ch/eli/oc/2025/659)).
+[^27a-2]: [SR 700](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8351)
 
 ### 3. Abschnitt: Betriebsbewilligung
 
@@ -611,7 +633,7 @@ Der Bewilligungsinhaber hat systematische Programme für die Instandhaltung der 
 <sup>2</sup> Die Kosten für die Prüfung trägt die einleitende Stelle nach Artikel 15 Absatz 4 Buchstabe a VPSP.
 
 [^32a-1]: Ursprünglich: Art. 33*a*. Eingefügt durch Anhang 8 Ziff. II 7 der V vom 8. Nov. 2023 über die Personensicherheitsprüfungen, in Kraft seit 1. Jan. 2024 ([AS 2023 736](https://fedlex.data.admin.ch/eli/oc/2023/736)).
-[^32a-2]: [SR 128.31](https://fedlex.data.admin.ch/eli/cc/2023/736)
+[^32a-2]: [SR 128.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40162)
 
 #### Art. 33
 
@@ -1003,7 +1025,7 @@ Nicht unter die Entsorgungspflicht nach Artikel 31 KEG fallen:
 - b. radioaktive Abfälle, die einer Abklinglagerung nach Artikel 117 StSV zugeführt werden.
 
 [^51abis-1]: Ursprünglich: Art. 51*a*. Eingefügt durch Ziff. I der V vom 7. Dez. 2018, in Kraft seit 1. Febr. 2019 ([AS 2019 183](https://fedlex.data.admin.ch/eli/oc/2019/27)).
-[^51abis-2]: [SR 814.501](https://fedlex.data.admin.ch/eli/cc/2017/502)
+[^51abis-2]: [SR 814.501](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9534)
 
 #### Art. 52
 
@@ -1076,6 +1098,19 @@ Dem Gesuch sind alle zur Beurteilung erforderlichen Unterlagen beizulegen, die i
 [^54-1]: Fassung gemäss Anhang Ziff. 12 der V vom 12. Nov. 2008 über das Eidgenössische Nuklearsicherheitsinspektorat, in Kraft seit 1. Jan. 2009 ([AS 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
 [^54-2]: Fassung gemäss Anhang Ziff. 12 der V vom 12. Nov. 2008 über das Eidgenössische Nuklearsicherheitsinspektorat, in Kraft seit 1. Jan. 2009 ([AS 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
 
+#### Art. 54a
+
+**Ausnahmen von der Konditionierungspflicht**[^54a-1]
+
+Nicht konditioniert werden müssen radioaktive Abfälle, bei denen absehbar ist, dass sie:
+
+- a. nach den Artikeln 111–116 StSV[^54a-2] an die Umwelt abgegeben werden können;
+- b. einer Abklinglagerung nach Artikel 117 StSV zugeführt werden können; oder
+- c. die Voraussetzungen für eine Befreiung nach Artikel 106 StSV erfüllen.
+
+[^54a-1]: Eingefügt durch Ziff. I der V vom 27. Mai 2026, in Kraft seit 1. Juli 2026 ([AS 2026 302](https://fedlex.data.admin.ch/eli/oc/2026/302)).
+[^54a-2]: [SR 814.501](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9534)
+
 ### 3. Abschnitt: Umgang mit radioaktiven Abfällen
 
 #### Art. 55
@@ -1089,13 +1124,25 @@ Das Bundesamt ist zuständig für die Erteilung:
 - a. von Bewilligungen für den Umgang mit radioaktiven Abfällen;
 - b. der Zustimmung zur Vereinbarung über die Rücknahme von radioaktiven Abfällen nach Artikel 34 Absatz 3 Buchstabe d und Absatz 4 KEG.
 
-<sup>2</sup> Die besondere Zuständigkeit von Artikel 11 Absatz 2 Buchstabe f StSV[^55-1] bleibt vorbehalten.[^55-2]
+<sup>2</sup> …[^55-1]
 
-<sup>3</sup> Das Departement ist zuständig für den Abschluss der völkerrechtlichen Vereinbarung nach Artikel 34 Absatz 3 Buchstabe a KEG bei der Ausfuhr von schwach- und mittelaktiven Abfällen zur Konditionierung.[^55-3]
+<sup>3</sup> Das Departement ist zuständig für den Abschluss der völkerrechtlichen Vereinbarung nach Artikel 34 Absatz 3 Buchstabe a KEG bei der Ausfuhr von schwach- und mittelaktiven Abfällen zur Konditionierung.[^55-2]
 
-[^55-1]: [SR 814.501](https://fedlex.data.admin.ch/eli/cc/2017/502)
-[^55-2]: Eingefügt durch Ziff. I der V vom 7. Dez. 2018, in Kraft seit 1. Febr. 2019 ([AS 2019 183](https://fedlex.data.admin.ch/eli/oc/2019/27)).
-[^55-3]: Eingefügt durch Ziff. I der V vom 29. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 765](https://fedlex.data.admin.ch/eli/oc/2023/765)).
+[^55-1]: Eingefügt durch Ziff. I der V vom 7. Dez. 2018 ([AS 2019 183](https://fedlex.data.admin.ch/eli/oc/2019/27)). Aufgehoben durch Ziff. I der V vom 27. Mai 2026, mit Wirkung seit 1. Juli 2026 ([AS 2026 302](https://fedlex.data.admin.ch/eli/oc/2026/302)).
+[^55-2]: Eingefügt durch Ziff. I der V vom 29. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 765](https://fedlex.data.admin.ch/eli/oc/2023/765)).
+
+#### Art. 55a
+
+**Ausnahmen von der Bewilligungspflicht**[^55a-1]
+
+Von der Bewilligungspflicht nach Artikel 34 Absatz 1 KEG ausgenommen ist der Umgang mit radioaktiven Abfällen, bei denen absehbar ist oder bereits feststeht, dass sie:
+
+- a. nach den Artikeln 111–116 StSV[^55a-2] an die Umwelt abgegeben werden können;
+- b. der Abklinglagerung nach Artikel 117 StSV zugeführt werden können; oder
+- c. die Voraussetzungen für eine Befreiung nach Artikel 106 StSV erfüllen.
+
+[^55a-1]: Eingefügt durch Ziff. I der V vom 27. Mai 2026, in Kraft seit 1. Juli 2026 ([AS 2026 302](https://fedlex.data.admin.ch/eli/oc/2026/302)).
+[^55a-2]: [SR 814.501](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9534)
 
 #### Art. 56
 
@@ -1453,7 +1500,7 @@ In dieser Verordnung bedeuten:
 - k. *Technologie:* spezifisches, allgemein nicht zugängliches oder nicht der wissenschaftlichen Grundlagenforschung dienendes Wissen in Form von technischen Daten oder technischer Unterstützung, das für die Entwicklung, Herstellung oder Verwendung erforderlich ist;
 - l. *Partnerstaat:* Staat, der sich an völkerrechtlich nicht verbindlichen internationalen Kontrollmassnahmen beteiligt, die von der Schweiz unterstützt werden.
 
-[^annex1-lvlu1-1]: [SR 814.501](https://fedlex.data.admin.ch/eli/cc/2017/502)
+[^annex1-lvlu1-1]: [SR 814.501](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9534)
 
 Anhang 2[^t-2]
 
@@ -1467,7 +1514,7 @@ Anhang 2[^t-2]
 
 Die Anordnung der für die Sicherung relevanten Zonen bzw. Areale und Sicherungsschranken hat abgestuft gemäss folgendem Schema zu erfolgen:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/68/20250701/de/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/68/20260701/de/xml/image/image1.png)
 
 Die verschiedenen Sicherungsschranken haben folgende Funktionen:
 

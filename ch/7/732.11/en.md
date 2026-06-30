@@ -4,11 +4,11 @@ title: Nuclear Energy Ordinance of 10 December 2004 (NEO)
 short: NEO
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/68"
 language: en
-version: 2025-07-01
+version: 2026-07-01
 adopted: 2004-12-10
 in_force: 2005-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/68/20250701/en/xml/fedlex-data-admin-ch-eli-cc-2005-68-20250701-en-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/68/20250701/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/68/20260701/en/xml/fedlex-data-admin-ch-eli-cc-2005-68-20260701-en-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/68/20260701/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (NEO)
 
-of 10 December 2004 (Status as of 1 July 2025)
+of 10 December 2004 (Last amended on 1 July 2026)
 
 The Federal Council,
 
@@ -27,7 +27,7 @@ on the basis of Article 101, paragraph 1 of the Nuclear Energy Act of 21 March 2
 
 ordains:
 
-[^ingress-1]: [SR 732.1](https://fedlex.data.admin.ch/eli/cc/2004/723)
+[^ingress-1]: [SR 732.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8531)
 
 ## Chapter 1 General Provisions
 
@@ -84,7 +84,7 @@ Installations in which the following nuclear materials are obtained, produced, u
 
 <sup>2</sup> The Federal Office of Energy (the Federal Office) shall determine whether source materials meet the requirements within the meaning of paragraph 1 letter b.
 
-[^2-1]: [SR 814.501](https://fedlex.data.admin.ch/eli/cc/2017/502)
+[^2-1]: [SR 814.501](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9534)
 [^2-2]: Inserted by No I of the O of 7 Dec. 2018, in force since 1 Feb. 2019 ([AS 2019 183](https://fedlex.data.admin.ch/eli/oc/2019/27)).
 
 #### Art. 3
@@ -152,7 +152,7 @@ For the design of a nuclear installation in accordance with Article 7 letter c, 
 
 <sup>6</sup> The Federal Department of the Environment, Transport, Energy and Communications (the Department) shall define the hazard assumptions and associated evaluation criteria in an ordinance.
 
-[^8-1]: [SR 814.501](https://fedlex.data.admin.ch/eli/cc/2017/502)
+[^8-1]: [SR 814.501](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9534)
 [^8-2]: Amended by No I of the O of 7 Dec. 2018, in force since 1 Feb. 2019 ([AS 2019 183](https://fedlex.data.admin.ch/eli/oc/2019/27)).
 [^8-3]: Inserted by No I of the O of 7 Dec. 2018, in force since 1 Feb. 2019 ([AS 2019 183](https://fedlex.data.admin.ch/eli/oc/2019/27)).
 [^8-4]: Amended by No I of the O of 7 Dec. 2018, in force since 1 Feb. 2019 ([AS 2019 183](https://fedlex.data.admin.ch/eli/oc/2019/27)).
@@ -283,7 +283,7 @@ The documents must provide all the necessary information for assessing the appli
 - f. the conditions of purchase or sale;
 - g. transport, in particular evidence of compliance with the requirements on the carriage of dangerous goods;
 - h.[^15-2] the owners of a nuclear installation that are liable in accordance with Article 2 letter b of the Nuclear Energy Public Liability Act of 13 June 2008[^15-3];
-- i.[^15-4] proof of cover in accordance with den Articles 1 letter c und 2 paragraph 3 of the Nuclear Energy Public Liability Ordinance of 25 March 2015[^15-5].
+- i.[^15-4] proof of cover in accordance with Articles 1 letter c and 2 paragraph 3 of the Nuclear Energy Public Liability Ordinance of 25 March 2015[^15-5].
 
 <sup>3</sup>
 
@@ -313,9 +313,9 @@ On request, the holder of a licence for the mediation of nuclear materials must 
 
 [^15-1]: Amended by Art. 21 para. 2 of the Nuclear Energy Public Liability Ordinance of 25 March 2015, in force since 1 Jan. 2022 ([AS 2021 860](https://fedlex.data.admin.ch/eli/oc/2021/860)).
 [^15-2]: Inserted by Art. 21 para. 2 of the Nuclear Energy Public Liability Ordinance of 25 March 2015, in force since 1 Jan. 2022 ([AS 2021 860](https://fedlex.data.admin.ch/eli/oc/2021/860)).
-[^15-3]: [SR 732.44](https://fedlex.data.admin.ch/eli/cc/2022/43)
+[^15-3]: [SR 732.44](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8560)
 [^15-4]: Inserted by Art. 21 para. 2 of the Nuclear Energy Public Liability Ordinance of 25 March 2015, in force since 1 Jan. 2022 ([AS 2021 860](https://fedlex.data.admin.ch/eli/oc/2021/860)).
-[^15-5]: [SR 732.441](https://fedlex.data.admin.ch/eli/cc/2021/860)
+[^15-5]: [SR 732.441](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8561)
 
 #### Art. 16
 
@@ -397,7 +397,7 @@ The licence holder must report the following events and findings relating to sec
 
 <sup>2</sup> ENSI shall specify the methodology and boundary conditions for the accident analysis called for in paragraph 1 in guidelines.[^22-3]
 
-[^22-1]: [SR 814.501](https://fedlex.data.admin.ch/eli/cc/2017/502)
+[^22-1]: [SR 814.501](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9534)
 [^22-2]: Amended by Annex 11 No 4 of the Radiological Protection Ordinance of 26 April 2017, in force since 1 Jan. 2018 ([AS 2017 4261](https://fedlex.data.admin.ch/eli/oc/2017/502)).
 [^22-3]: Amended by Annex No 12 of the O of 12 Nov. 2008 on the Swiss Federal Nuclear Safety Inspectorate, in force since 1 Jan. 2009 ([AS 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
 
@@ -448,10 +448,14 @@ They must submit the following documentation:
 - f. decommissioning plan or project for the monitoring period and plan for closure of the installation;
 - g. report on compliance of the project with the general licence requirements.
 
-<sup>3</sup> ENSI shall regulate the type, content, presentation and number of required application documents in guidelines.[^24-2]
+<sup>2bis</sup> For activities outside construction zones, the application must in particular include plans clearly showing the boundaries of any new or removed buildings in accordance with Article 25*a* paragraph 1 of the Spatial Planning Ordinance of 28 June 2000[^24-2] and any new or removed areas of soil sealing in accordance with Article 25*a* paragraph 2 of the Spatial Planning Ordinance.[^24-3]
+
+<sup>3</sup> ENSI shall regulate the type, content, presentation and number of required application documents in guidelines.[^24-4]
 
 [^24-1]: Repealed by No I of the O of 1. Nov. 2017, with effect from 1 Jan. 2018 ([AS 2017 7107](https://fedlex.data.admin.ch/eli/oc/2017/768)).
-[^24-2]: Amended by Annex No 12 of the O of 12 Nov. 2008 on the Swiss Federal Nuclear Safety Inspectorate, in force since 1 Jan. 2009 ([AS 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
+[^24-2]: [SR 700.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8353)
+[^24-3]: Inserted by Annex No 6 of the O of 15 Oct. 2025, in force since 1 July 2026 ([AS 2025 659](https://fedlex.data.admin.ch/eli/oc/2025/659)).
+[^24-4]: Amended by Annex No 12 of the O of 12 Nov. 2008 on the Swiss Federal Nuclear Safety Inspectorate, in force since 1 Jan. 2009 ([AS 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
 
 #### Art. 25
 
@@ -502,6 +506,24 @@ For buildings and system components that require a permit in accordance with the
 
 [^27-1]: Amended by Annex No 12 of the O of 12 Nov. 2008 on the Swiss Federal Nuclear Safety Inspectorate, in force since 1 Jan. 2009 ([AS 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
 [^27-2]: Amended by Annex No 12 of the O of 12 Nov. 2008 on the Swiss Federal Nuclear Safety Inspectorate, in force since 1 Jan. 2009 ([AS 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
+
+#### Art. 27a
+
+**Reporting obligations**[^27a-1]
+
+<sup>1</sup> The SFOE shall inform the Federal Office of Topography (swisstopo) that a construction licence procedure has been completed by forwarding the construction licence and the required plans.
+
+<sup>2</sup>
+
+In the case of buildings and installations that require an update to the official cadastral survey or national survey, the licence holder shall provide swisstopo with the following information within 20 days and enclose the required plans:
+
+- a. the start of construction; and
+- b. the completion of construction.
+
+<sup>3</sup> Where activities are situated wholly or partly outside construction zones, the licence holder shall, at the same time as informing swisstopo that construction has been completed, submit the legally binding plans referred to in Article 24 paragraph 2<sup>bis</sup> to the cantonal authority responsible in accordance with Article 25 paragraph 2 of the Spatial Planning Act of 22 June 1979[^27a-2]. The plans shall be submitted in the form of geodata.
+
+[^27a-1]: Inserted by Annex No 6 of the O of 15 Oct. 2025, in force since 1 July 2026 ([AS 2025 659](https://fedlex.data.admin.ch/eli/oc/2025/659)).
+[^27a-2]: [SR 700](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8351)
 
 ### Section 3 Operating Licence
 
@@ -613,7 +635,7 @@ The licence holder must define systematic programmes for the maintenance of safe
 <sup>2</sup> The costs of the assessments are borne by the instigating body in accordance with Article 15 paragraph 4 letter a PSSO.
 
 [^32a-1]: Originally Art. 33*a*. Inserted by Annex 8 No II 7 of the O of 8 Nov. 2023 on Personnel Security Screening, in force since 1 Jan. 2024 ([AS 2023 736](https://fedlex.data.admin.ch/eli/oc/2023/736)).
-[^32a-2]: [SR 128.31](https://fedlex.data.admin.ch/eli/cc/2023/736)
+[^32a-2]: [SR 128.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40162)
 
 #### Art. 33
 
@@ -1005,7 +1027,7 @@ The following are not subject to the obligation to manage and dispose of nuclear
 - b. radioactive waste that may be placed in decay storage in accordance with Article 117 RPO.
 
 [^51abis-1]: Originally Art. 51*a*. Inserted by No I of the O of 7 Dec. 2018, in force since 1 Feb. 2019 ([AS 2019 183](https://fedlex.data.admin.ch/eli/oc/2019/27)).
-[^51abis-2]: [SR 814.501](https://fedlex.data.admin.ch/eli/cc/2017/502)
+[^51abis-2]: [SR 814.501](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9534)
 
 #### Art. 52
 
@@ -1078,6 +1100,19 @@ Applications must be accompanied by all documents that are necessary for assessm
 [^54-1]: Amended by Annex No 12 of the O of 12 Nov. 2008 on the Swiss Federal Nuclear Safety Inspectorate, in force since 1 Jan. 2009 ([AS 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
 [^54-2]: Amended by Annex No 12 of the O of 12 Nov. 2008 on the Swiss Federal Nuclear Safety Inspectorate, in force since 1 Jan. 2009 ([AS 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
 
+#### Art. 54a
+
+**Exemptions from the conditioning obligation**[^54a-1]
+
+Radioactive waste need not be conditioned if it is conceivable that:
+
+- a. it may be discharged into the environment as set out in Articles 111–116 RPO[^54a-2];
+- b. it may be placed in decay storage as set out in Article 117 RPO; or
+- c. it meets the requirements for clearance set out in Article 106 RPO.
+
+[^54a-1]: Inserted by No I of the O of 27 May 2026, in force since 1 July 2026 ([AS 2026 302](https://fedlex.data.admin.ch/eli/oc/2026/302)).
+[^54a-2]: [SR 814.501](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9534)
+
 ### Section 3 Handling Radioactive Waste
 
 #### Art. 55
@@ -1091,13 +1126,25 @@ The Federal Office is the competent authority for:
 - a. issuing licences for handling radioactive waste;
 - b. approving the agreement concerning the return of radioactive waste in accordance with Article 34 paragraph 3 letter d and paragraph 4 of the Nuclear Energy Act.
 
-<sup>2</sup> The special competence under Article 11 paragraph 2 letter f RPO[^55-1] is reserved.[^55-2]
+<sup>2</sup> …[^55-1]
 
-<sup>3</sup> The Department is responsible for concluding the agreement under international law in accordance with Article 34 paragraph 3 letter a NEA in the case of the export of low and intermediate-level waste for conditioning purposes.[^55-3]
+<sup>3</sup> The Department is responsible for concluding the agreement under international law in accordance with Article 34 paragraph 3 letter a NEA in the case of the export of low and intermediate-level waste for conditioning purposes.[^55-2]
 
-[^55-1]: [SR 814.501](https://fedlex.data.admin.ch/eli/cc/2017/502)
-[^55-2]: Inserted by No I of the O of 7 Dec. 2018, in force since 1 Feb. 2019 ([AS 2019 183](https://fedlex.data.admin.ch/eli/oc/2019/27)).
-[^55-3]: Inserted by No I of the O of 29 Nov. 2023, in force since 1 Jan. 2024 ([AS 2023 765](https://fedlex.data.admin.ch/eli/oc/2023/765)).
+[^55-1]: Inserted by No I of the O of 7 Dec. 2018 ([AS 2019 183](https://fedlex.data.admin.ch/eli/oc/2019/27)). Repealed by No I of the O of 27 May 2026, with effect from 1 July 2026 ([AS 2026 302](https://fedlex.data.admin.ch/eli/oc/2026/302)).
+[^55-2]: Inserted by No I of the O of 29 Nov. 2023, in force since 1 Jan. 2024 ([AS 2023 765](https://fedlex.data.admin.ch/eli/oc/2023/765)).
+
+#### Art. 55a
+
+**Exemptions from the licensing obligation**[^55a-1]
+
+The handling of radioactive waste shall be exempt from the licensing obligation under Article 34 paragraph 1 NEA if it is conceivable or has already been established that:
+
+- a. it may be discharged into the environment as set out in Articles 111–116 RPO[^55a-2];
+- b. it may be placed in decay storage as set out in Article 117 RPO; or
+- c. it meets the requirements for clearance set out in Article 106 RPO.
+
+[^55a-1]: Inserted by No I of the O of 27 May 2026, in force since 1 July 2026 ([AS 2026 302](https://fedlex.data.admin.ch/eli/oc/2026/302)).
+[^55a-2]: [SR 814.501](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9534)
 
 #### Art. 56
 
@@ -1455,7 +1502,7 @@ In this Ordinance:
 - k. *Technology* means specific knowledge that is not generally accessible or does not serve the purpose of basic research in the form of technical data or technical support that is required for development, manufacture or utilisation.
 - l. *Partner State* means a state that participates in international control measures that are non-binding under international law but which are supported by Switzerland.
 
-[^annex1-lvlu1-1]: [SR 814.501](https://fedlex.data.admin.ch/eli/cc/2017/502)
+[^annex1-lvlu1-1]: [SR 814.501](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9534)
 
 Annex 2[^t-2]
 
@@ -1469,7 +1516,7 @@ Annex 2[^t-2]
 
 The arrangement of security zones, areas and barriers must be based on the following model:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/68/20250701/en/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/68/20260701/en/xml/image/image1.png)
 
 The various security barriers perform the following functions:
 

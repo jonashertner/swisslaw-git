@@ -4,11 +4,11 @@ title: "Ordonnance du 10 décembre 2004 sur l'énergie nucléaire (OENu)"
 short: OENu
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/68"
 language: fr
-version: 2025-07-01
+version: 2026-07-01
 adopted: 2004-12-10
 in_force: 2005-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/68/20250701/fr/xml/fedlex-data-admin-ch-eli-cc-2005-68-20250701-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/68/20250701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/68/20260701/fr/xml/fedlex-data-admin-ch-eli-cc-2005-68-20260701-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/68/20260701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2005/68/20250701/fr"
 
 (OENu)
 
-du 10 décembre 2004 (État le 1<sup>er</sup> juillet 2025)
+du 10 décembre 2004 (État le 1<sup>er</sup> juillet 2026)
 
 Le Conseil fédéral suisse,
 
@@ -25,7 +25,7 @@ vu l’art. 101, al. 1, de la loi du 21 mars 2003 sur l’énergie nucléaire (L
 
 arrête:
 
-[^ingress-1]: [RS 732.1](https://fedlex.data.admin.ch/eli/cc/2004/723)
+[^ingress-1]: [RS 732.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8531)
 
 ## Chapitre 1 Dispositions générales
 
@@ -82,7 +82,7 @@ Ne sont pas réputées installations nucléaires les installations dans lesquell
 
 <sup>2</sup> L’Office fédéral de l’énergie (office) détermine les matières brutes qui remplissent les conditions énoncées à l’al. 1, let. b.
 
-[^2-1]: [RS 814.501](https://fedlex.data.admin.ch/eli/cc/2017/502)
+[^2-1]: [RS 814.501](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9534)
 [^2-2]: Introduit par le ch. I de l’O du 7 déc. 2018, en vigueur depuis le 1<sup>er</sup> fév. 2019 ([RO 2019 183](https://fedlex.data.admin.ch/eli/oc/2019/27)).
 
 #### Art. 3
@@ -150,7 +150,7 @@ En concevant une installation nucléaire conformément à l’art. 7, let. c, on
 
 <sup>6</sup> Le Département fédéral de l’environnement, des transports, de l’énergie et de la communication (département) fixe dans une ordonnance les hypothèses spécifiques de risque et les critères d’évaluation.
 
-[^8-1]: [RS 814.501](https://fedlex.data.admin.ch/eli/cc/2017/502)
+[^8-1]: [RS 814.501](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9534)
 [^8-2]: Nouvelle teneur selon le ch. I de l’O du 7 déc. 2018, en vigueur depuis le 1<sup>er</sup> fév. 2019 ([RO 2019 183](https://fedlex.data.admin.ch/eli/oc/2019/27)).
 [^8-3]: Introduit par le ch. I de l’O du 7 déc. 2018, en vigueur depuis le 1<sup>er</sup> fév. 2019 ([RO 2019 183](https://fedlex.data.admin.ch/eli/oc/2019/27)).
 [^8-4]: Nouvelle teneur selon le ch. I de l’O du 7 déc. 2018, en vigueur depuis le 1<sup>er</sup> fév. 2019 ([RO 2019 183](https://fedlex.data.admin.ch/eli/oc/2019/27)).
@@ -311,9 +311,9 @@ La demande d’autorisation de faire le courtage de matières nucléaires d’ex
 
 [^15-1]: Nouvelle teneur selon l’art. 21, al. 2, de l’O du 25 mars 2015 sur la responsabilité civile en matière nucléaire, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 860](https://fedlex.data.admin.ch/eli/oc/2021/860)).
 [^15-2]: Introduite par l’art. 21, al. 2, de l’O du 25 mars 2015 sur la responsabilité civile en matière nucléaire, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 860](https://fedlex.data.admin.ch/eli/oc/2021/860)).
-[^15-3]: [RS 732.44](https://fedlex.data.admin.ch/eli/cc/2022/43)
+[^15-3]: [RS 732.44](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8560)
 [^15-4]: Introduite par l’art. 21, al. 2, de l’O du 25 mars 2015 sur la responsabilité civile en matière nucléaire, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 860](https://fedlex.data.admin.ch/eli/oc/2021/860)).
-[^15-5]: [RS 732.441](https://fedlex.data.admin.ch/eli/cc/2021/860)
+[^15-5]: [RS 732.441](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8561)
 
 #### Art. 16
 
@@ -395,7 +395,7 @@ Il doit annoncer sans retard à l’IFSN les événements et les constats suivan
 
 <sup>2</sup> L’IFSN est chargée de régler dans des directives la méthode et les standards de l’analyse de défaillances requise par l’al. 1.[^22-3]
 
-[^22-1]: [RS 814.501](https://fedlex.data.admin.ch/eli/cc/2017/502)
+[^22-1]: [RS 814.501](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9534)
 [^22-2]: Nouvelle teneur selon l’annexe 11 ch. 4 de l’O du 26 avr. 2017 sur la radioprotection, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 4261](https://fedlex.data.admin.ch/eli/oc/2017/502)).
 [^22-3]: Nouvelle teneur selon l’annexe ch. 12 de l’O du 12 nov. 2008 sur l’IFSN, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
 
@@ -446,10 +446,14 @@ Quiconque requiert une autorisation de construire doit démontrer:
 - f. le plan de désaffectation ou le projet de phase d’observation et le plan de fermeture;
 - g. le rapport sur la conformité du projet avec l’autorisation générale.
 
-<sup>3</sup> L’IFSN est chargée de régler dans des directives le genre, le contenu, la présentation et le nombre des pièces à fournir.[^24-2]
+<sup>2bis</sup> Pour les projets situés hors de la zone à bâtir, la demande doit notamment comprendre des plans indiquant la délimitation des bâtiments nouveaux ou supprimés conformément à l’art. 25*a*, al. 1, de l’ordonnance du 28 juin 2000 sur l’aménagement du territoire (OAT)[^24-2], ainsi que des surfaces imperméabilisées nouvelles ou supprimées conformément à l’art 25*a,* al. 2, OAT.[^24-3]
+
+<sup>3</sup> L’IFSN est chargée de régler dans des directives le genre, le contenu, la présentation et le nombre des pièces à fournir.[^24-4]
 
 [^24-1]: Abrogée par le ch. I de l’O du 1<sup>er</sup> nov. 2017, avec effet au 1<sup>er</sup> janv. 2018 ([RO 2017 7107](https://fedlex.data.admin.ch/eli/oc/2017/768)).
-[^24-2]: Nouvelle teneur selon l’annexe ch. 12 de l’O du 12 nov. 2008 sur l’IFSN, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
+[^24-2]: [RS 700.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8353)
+[^24-3]: Introduit par l’annexe ch. 6 de l’O du 15 oct. 2025, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2025 659](https://fedlex.data.admin.ch/eli/oc/2025/659)).
+[^24-4]: Nouvelle teneur selon l’annexe ch. 12 de l’O du 12 nov. 2008 sur l’IFSN, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
 
 #### Art. 25
 
@@ -500,6 +504,24 @@ S’agissant des structures et des éléments de l’installation que l’autori
 
 [^27-1]: Nouvelle teneur selon l’annexe ch. 12 de l’O du 12 nov. 2008 sur l’IFSN, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
 [^27-2]: Nouvelle teneur selon l’annexe ch. 12 de l’O du 12 nov. 2008 sur l’IFSN, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
+
+#### Art. 27a
+
+**Devoirs d’annonce**[^27a-1]
+
+<sup>1</sup> L’OFEN informe l’Office fédéral de topographie (swisstopo) de la clôture d’une procédure d’autorisation de construire en lui transmettant l’autorisation de construire et les plans dont swisstopo a besoin.
+
+<sup>2</sup>
+
+Pour les constructions et les installations qui nécessitent une mise à jour de la mensuration officielle ou de la mensuration nationale, le requérant informe swisstopo dans un délai de 20 jours, en lui remettant les plans dont il a besoin:
+
+- a. du début des travaux, et
+- b. de l’achèvement des travaux.
+
+<sup>3</sup> Si un projet se situe en tout ou en partie hors de la zone à bâtir, le requérant transmet en même temps que l’information à swisstopo de l’achèvement des travaux, les plans en vigueur visés à l’art 24, al. 2<sup>bis</sup>, sous forme de géodonnées, à l’autorité cantonale compétente visée à l’art. 25, al. 2, de la loi du 22 juin 1979 sur l’aménagement du territoire[^27a-2].
+
+[^27a-1]: Introduit par l’annexe ch. 6 de l’O du 15 oct. 2025, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2025 659](https://fedlex.data.admin.ch/eli/oc/2025/659)).
+[^27a-2]: [RS 700](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8351)
 
 ### Section 3 Autorisation d’exploiter
 
@@ -611,7 +633,7 @@ Le détenteur de l’autorisation doit élaborer des programmes systématiques d
 <sup>2</sup> Les coûts du contrôle sont à la charge du service qui demande le contrôle visé à l’art. 15, al. 4, let. a, OCSP.
 
 [^32a-1]: Anciennement art.33*a*. Introduit par l’annexe 8 ch. II 7 de l’O du 8 nov. 2023 sur les contrôles de sécurité relatifs aux personnes, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 736](https://fedlex.data.admin.ch/eli/oc/2023/736)).
-[^32a-2]: [RS 128.31](https://fedlex.data.admin.ch/eli/cc/2023/736)
+[^32a-2]: [RS 128.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40162)
 
 #### Art. 33
 
@@ -1003,7 +1025,7 @@ L’obligation d’évacuation prévue à l’art. 31 LENu ne s’applique pas:
 - b. aux déchets radioactifs destinés au stockage pour décroissance conformément à l’art. 117 ORaP.
 
 [^51abis-1]: Anciennement art. 51*a*. Introduit par le ch. I de l’O du 7 déc. 2018, en vigueur depuis le 1<sup>er</sup> fév. 2019 ([RO 2019 183](https://fedlex.data.admin.ch/eli/oc/2019/27)).
-[^51abis-2]: [RS 814.501](https://fedlex.data.admin.ch/eli/cc/2017/502)
+[^51abis-2]: [RS 814.501](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9534)
 
 #### Art. 52
 
@@ -1076,6 +1098,19 @@ Les responsables de l’évacuation des déchets doivent fournir dans leur progr
 [^54-1]: Nouvelle teneur selon l’annexe ch. 12 de l’O du 12 nov. 2008 sur l’IFSN, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
 [^54-2]: Nouvelle teneur selon l’annexe ch. 12 de l’O du 12 nov. 2008 sur l’IFSN, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
 
+#### Art. 54a
+
+**Exceptions à l’obligation de conditionnement**[^54a-1]
+
+L’obligation de conditionnement ne s’applique pas aux déchets radioactifs qui, selon toute vraisemblance:
+
+- a. peuvent être rejetés dans l’environnement conformément aux art. 111 à 116 ORaP[^54a-2];
+- b. sont destinés au stockage pour décroissance visé à l’art. 117 ORaP, ou
+- c. remplissent les conditions de libération visées à l’art. 106 ORaP.
+
+[^54a-1]: Introduit par le ch. I de l’O du 27 mai 2026, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2026 302](https://fedlex.data.admin.ch/eli/oc/2026/302)).
+[^54a-2]: [RS 814.501](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9534)
+
 ### Section 3 Manipulation des déchets radioactifs
 
 #### Art. 55
@@ -1089,13 +1124,25 @@ L’office est compétent pour octroyer:
 - a. les autorisations d’opérer la manutention des déchets radioactifs;
 - b. l’approbation de la convention réglant la reprise de déchets radioactifs, visée à l’art. 34, al. 3, let. d et al. 4, LENu.
 
-<sup>2</sup> La compétence particulière visée à l’art. 11, al. 2, let. f, ORaP[^55-1] est réservée.[^55-2]
+<sup>2</sup> …[^55-1]
 
-<sup>3</sup> Le département est compétent pour conclure la convention internationale visée à l’art. 34, al. 3, let. a, LENu en vue de l’exportation de déchets de faible ou de moyenne activité à des fins de conditionnement.[^55-3]
+<sup>3</sup> Le département est compétent pour conclure la convention internationale visée à l’art. 34, al. 3, let. a, LENu en vue de l’exportation de déchets de faible ou de moyenne activité à des fins de conditionnement.[^55-2]
 
-[^55-1]: [RS 814.501](https://fedlex.data.admin.ch/eli/cc/2017/502)
-[^55-2]: Introduit par le ch. I de l’O du 7 déc. 2018, en vigueur depuis le 1<sup>er</sup> fév. 2019 ([RO 2019 183](https://fedlex.data.admin.ch/eli/oc/2019/27)).
-[^55-3]: Introduit par le ch. I de l’O du 29 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 765](https://fedlex.data.admin.ch/eli/oc/2023/765)).
+[^55-1]: Introduit par le ch. I de l’O du 7 déc. 2018 ([RO 2019 183](https://fedlex.data.admin.ch/eli/oc/2019/27)). Abrogé par le ch. I de l’O du 27 mai 2026, avec effet au 1<sup>er</sup> juil. 2026 ([RO 2026 302](https://fedlex.data.admin.ch/eli/oc/2026/302)).
+[^55-2]: Introduit par le ch. I de l’O du 29 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 765](https://fedlex.data.admin.ch/eli/oc/2023/765)).
+
+#### Art. 55a
+
+**Exceptions au régime de l’autorisation**[^55a-1]
+
+Le régime de l’autorisation selon l’art. 34, al. 1, LENu ne s’applique pas à la manipulation des déchets radioactifs lorsqu’il est prévisible ou déjà établi:
+
+- a. qu’ils peuvent être rejetés dans l’environnement conformément aux art. 111 à 116 ORaP[^55a-2];
+- b. qu’ils peuvent être mis en stockage pour décroissance visé à l’art. 117 ORaP, ou
+- c. qu’ils remplissent les conditions de libération visées à l’art. 106 ORaP.
+
+[^55a-1]: Introduit par le ch. I de l’O du 27 mai 2026, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2026 302](https://fedlex.data.admin.ch/eli/oc/2026/302)).
+[^55a-2]: [RS 814.501](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9534)
 
 #### Art. 56
 
@@ -1453,7 +1500,7 @@ Dans la présente ordonnance, on entend par:
 - k. *Technologie:* connaissances spécifiques, généralement non accessibles au public ou ne servant pas à la recherche scientifique fondamentale, sous la forme de données techniques ou d’une assistance technique, qui sont nécessaires au développement, à la production ou à l’utilisation;
 - l. *État partenaire:* État qui participe à des mesures internationales de contrôle non obligatoires en droit international soutenues par la Suisse.
 
-[^annex1-lvlu1-1]: [RS 814.501](https://fedlex.data.admin.ch/eli/cc/2017/502)
+[^annex1-lvlu1-1]: [RS 814.501](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9534)
 
 Annexe 2[^t-2]
 
@@ -1467,7 +1514,7 @@ Annexe 2[^t-2]
 
 Il convient d’aménager des zones et des aires de sûreté ainsi que des barrières de sûreté, échelonnées selon le schéma ci-dessous:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/68/20250701/fr/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/68/20260701/fr/xml/image/image1.png)
 
 Les différentes barrières de sûreté ont les fonctions suivantes:
 
@@ -1573,7 +1620,7 @@ Quiconque requiert une autorisation ou un permis d’exécution pour une install
 
 Le ch. 2 indique les principaux documents.
 
-### Légende du tableau au ch. 1
+Légende du tableau au ch. 1:
 
 - G Installation complète
 - R Technique des réacteurs
