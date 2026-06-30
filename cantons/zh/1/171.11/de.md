@@ -4,11 +4,10 @@ number: "171.11"
 title: Kantonsratsreglement (KRR)
 short: KRR
 language: de
-version: "2022-07-01"
-nachtrag: "117"
-valid_until: 2026-07-01
+version: "2026-07-01"
+nachtrag: "133"
 adopted: 2019-03-25
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-171_11-2019_03_25-2020_05_01-117.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-171_11-2019_03_25-2020_05_01-133.html"
 text: pdf
 ---
 
@@ -37,9 +36,11 @@ beschliesst:
 
 <sup>2</sup> Das älteste und das jüngste anwesende Kantonsratsmitglied eröffnen die konstituierende Sitzung. Sie halten ihre Ansprachen in alphabetischer Reihenfolge.
 
-<sup>3</sup> Das Kantonsratsmitglied, das bei der Eröffnung als erstes spricht, leitet die Erwahrung des Wahlergebnisses.
+<sup>3</sup> Das Kantonsratsmitglied, das bei der Eröffnung als erstes spricht, ist für die Feststellung der Konstituierung zuständig.[^1-1]
 
 <sup>4</sup> Das Kantonsratsmitglied, das bei der Eröffnung als zweites spricht, leitet die Wahl der Kantonsratspräsidentin oder des Kantonsratspräsidenten. Zu diesem Zweck bezeichnet es vorläufig zwei Mitglieder des Ratsbüros und vier Stimmenzählerinnen oder Stimmenzähler.
+
+[^1-1]: Fassung gemäss KRB vom 24. November 2025 (OS 81, 263; ABl 2025-07-18). In Kraft seit 1. Juli 2026.
 
 #### § 2
 
@@ -47,9 +48,7 @@ beschliesst:
 
 Die konstituierende Sitzung hat folgenden Ablauf:
 
-- a. Rede des ältesten und des jüngsten anwesenden Kantonsratsmitglieds,
-
-- b. Erwahrung des Wahlergebnisses,
+- a. Rede des ältesten und des jüngsten anwesenden Kantonsratsmitglieds, b.[^2-1] Feststellung der Konstituierung des Kantonsrates,
 
 - c. Leistung des Amtsgelübdes der Mitglieder des Kantonsrates und des Regierungsrates,
 
@@ -63,19 +62,19 @@ Die konstituierende Sitzung hat folgenden Ablauf:
 
 - h. Wahl der weiteren Mitglieder der Geschäftsleitung gemäss § 20 Abs. 2 KRG,
 
-- i. Wahl der Stimmenzählerinnen und Stimmenzähler,
-
-- j. Feststellung der Konstituierung des Kantonsrates.
+- i. Wahl der Stimmenzählerinnen und Stimmenzähler.
 
 **1**
 
-- 1\. 7. 22 - 117 § 3. <sup>1</sup> Der Kantonsrat tagt ordentlich am Montagvormittag. Die Sitzung beginnt in der Regel um 8.15 Uhr.
+- 1\. 7. 26 - 133 § 3. <sup>1</sup> Der Kantonsrat tagt ordentlich am Montagvormittag. Die Sitzung beginnt in der Regel um 8.15 Uhr.
 
 **Sitzungszeiten**
 
 <sup>2</sup> Zum Abbau der Geschäftslast kann die Geschäftsleitung zusätzliche Sitzungen am Montagnachmittag ansetzen. Diese beginnen um 14.30 Uhr.
 
 <sup>3</sup> Die Sitzungen dauern drei bis vier Stunden.
+
+[^2-1]: Fassung gemäss KRB vom 24. November 2025 (OS 81, 263; ABl 2025-07-18). In Kraft seit 1. Juli 2026.
 
 #### § 4
 
@@ -165,7 +164,7 @@ Die Geschäftsleitung nimmt die Aufgaben gemäss Kantonsratsgesetz wahr und a. p
 
 **3**
 
-- 1\. 7. 22 - 117
+- 1\. 7. 26 - 133
 
 - c. entscheidet über die Sistierungsgesuche der Kommissionen zu den ihnen zugeteilten Geschäften,
 
@@ -173,7 +172,9 @@ Die Geschäftsleitung nimmt die Aufgaben gemäss Kantonsratsgesetz wahr und a. p
 
 - e. entscheidet über Zuständigkeitskonflikte zwischen den Organen des Kantonsrates,
 
-- f. bestimmt die Delegationen und Vertretungen in internationalen und interkantonalen Vereinigungen, g prüft den Bericht und Antrag des Regierungsrates über die gegen die Kantonsratswahlen erhobenen Rekurse und stellt dem Kantonsrat Antrag.
+- f. bestimmt die Delegationen und Vertretungen in internationalen und interkantonalen Vereinigungen, g.[^11-1] prüft anhand des Berichts des Regierungsrates über die Wahlen, ob die Wahl der Mehrheit der Mitglieder rechtskräftig ist, und beantragt dem Kantonsrat, sofern diese Voraussetzung erfüllt ist, die Feststellung seiner Konstituierung.
+
+[^11-1]: Fassung gemäss KRB vom 24. November 2025 (OS 81, 263; ABl 2025-07-18). In Kraft seit 1. Juli 2026.
 
 #### § 12
 
@@ -279,7 +280,7 @@ Will eine Kommission die Beratung eines ihr zugewiesenen Beratungsgegenstands f�
 
 **5**
 
-- 1\. 7. 22 - 117
+- 1\. 7. 26 - 133
 
 <sup>2</sup> Die Präsidentin oder der Präsident oder die von der Kommission beauftragten Mitglieder sind für die Information der Medien zuständig. Die anderen Mitglieder greifen der Information nicht vor.
 
@@ -375,7 +376,7 @@ Jede Aufsichtskommission zählt elf Mitglieder, einschliesslich der Kommissionsp
 
 **7**
 
-- 1\. 7. 22 - 117 § 35. <sup>1</sup> Die Finanzkommission übt die parlamentarische Kontrolle über die Finanzen des Kantons aus.
+- 1\. 7. 26 - 133 § 35. <sup>1</sup> Die Finanzkommission übt die parlamentarische Kontrolle über die Finanzen des Kantons aus.
 
 **Finanzkommission a. Aufgaben**
 
@@ -457,7 +458,7 @@ Will der Regierungsrat einen Indikator eines Leistungsgruppenbudgets neu schaffe
 
 **9**
 
-- 1\. 7. 22 - 117
+- 1\. 7. 26 - 133
 
 <sup>2</sup> Sie stellt dem Kantonsrat Antrag auf Genehmigung a. der Rechenschaftsberichte der obersten Gerichte,
 
@@ -547,7 +548,7 @@ Die Redaktionskommission prüft nach dem Abschluss der ersten Lesung im Kantonsr
 
 **11**
 
-- 1\. 7. 22 - 117 § 48. <sup>1</sup> Die Kantonsratspräsidentin oder der Kantonsratspräsident ruft die Sitzungsteilnehmenden zur Ordnung auf, wenn diese
+- 1\. 7. 26 - 133 § 48. <sup>1</sup> Die Kantonsratspräsidentin oder der Kantonsratspräsident ruft die Sitzungsteilnehmenden zur Ordnung auf, wenn diese
 
 **Disziplinarische Massnahmen**
 
@@ -645,7 +646,7 @@ Der Schriftverkehr zwischen dem Kantonsrat, seinen Organen und den kantonalen Be
 
 **13**
 
-- 1\. 7. 22 - 117
+- 1\. 7. 26 - 133
 
 <sup>2</sup> Der Kantonsrat kann auf Antrag der Geschäftsleitung Angestellten des Kantons oder Drittpersonen das Recht erteilen, im Kantonsrat zu sprechen, wenn der Beratungsgegenstand besondere Kenntnisse erfordert.
 
@@ -739,7 +740,7 @@ stellenden und der mitberichtenden Kommission,
 
 **15**
 
-- 1\. 7. 22 - 117
+- 1\. 7. 26 - 133
 
 <sup>2</sup> In der Kurzdebatte können sich alle Kantonsratsmitglieder zu Wort melden. Die Redezeit beträgt zwei Minuten.
 
@@ -853,7 +854,7 @@ Vorstösse und parlamentarische Initiativen werden während der Kantonsratssitzu
 
 **17**
 
-- 1\. 7. 22 - 117 § 73. <sup>1</sup> Ist die elektronische Stimmabgabe nicht möglich, erfolgt die Stimmabgabe, indem sich die Kantonsratsmitglieder auf Frage der Kantonsratspräsidentin oder des Kantonsratspräsidenten von ihren Sitzen erheben. Die Stimmen werden ausgezählt.
+- 1\. 7. 26 - 133 § 73. <sup>1</sup> Ist die elektronische Stimmabgabe nicht möglich, erfolgt die Stimmabgabe, indem sich die Kantonsratsmitglieder auf Frage der Kantonsratspräsidentin oder des Kantonsratspräsidenten von ihren Sitzen erheben. Die Stimmen werden ausgezählt.
 
 **Stimmabgabe ohne elektronische Abstimmungsanlage**
 
@@ -935,7 +936,7 @@ Vorstösse und parlamentarische Initiativen werden während der Kantonsratssitzu
 
 **19**
 
-- 1\. 7. 22 - 117
+- 1\. 7. 26 - 133
 
 ### 4. Teil: Schlussbestimmungen
 
