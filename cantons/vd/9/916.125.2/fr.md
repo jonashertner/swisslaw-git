@@ -4,7 +4,7 @@ number: "916.125.2"
 title: RÈGLEMENT du 27.05.2009 sur les vins vaudois (RVV)
 short: RVV
 language: fr
-version: 2024-09-01
+version: 2026-07-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/916.125.2?id=b58c3698-5558-41cf-beba-72e8ff39a804"
 ---
 
@@ -312,9 +312,11 @@ Chasselas 15,7 (64° Oe) Autres blancs 17,0 (70° Oe) Pinot noir 18,2 (75° Oe) 
 
 <sup>3</sup> Le coupage des vins rouges d'appellation d'origine contrôlée ne peut être effectué qu'avec d'autres vins rouges suisses de classe équivalente.
 
+<sup>3bis</sup> Le coupage des vins est interdit pour les vins de l'AOC Lavaux.
+
 <sup>4</sup> L'utilisation de morceaux ou de copeaux de chêne à des fins d'aromatisation ainsi que l'édulcoration sont interdites pour les vins d'appellation d'origine contrôlée.
 
-[^chapterChapitreVI-1]: Modif. 2 du 29.06.2011: Modification Al. 2; entrée en vigueur au 01.07.2011; Introduction Al. 4; entrée en vigueur au 01.07.2011 · Modif. 5 du 26.08.2015: Modification Al. 4; entrée en vigueur au 01.09.2015 · Modif. 11 du 01.07.2026: Introduction Al. 3bis; entrée en vigueur au 01.07.2026; Introduction Art. 58e; entrée en vigueur au 01.07.2026; Introduction Art. 58f; entrée en vigueur au 01.07.2026; Introduction Art. 58g; entrée en vigueur au 01.07.2026; Introduction Art. 58h; entrée en vigueur au 01.07.2026; Introduction Art. 58i; entrée en vigueur au 01.07.2026; Introduction Art. 58j; entrée en vigueur au 01.07.2026
+[^chapterChapitreVI-1]: Modif. 2 du 29.06.2011: Modification Al. 2; entrée en vigueur au 01.07.2011; Introduction Al. 4; entrée en vigueur au 01.07.2011 · Modif. 5 du 26.08.2015: Modification Al. 4; entrée en vigueur au 01.09.2015 · Modif. 11 du 01.07.2026: Introduction Al. 3bis; entrée en vigueur au 01.07.2026
 
 #### Art. 21a
 
@@ -912,6 +914,65 @@ Chasselas 15,7 (64° Oe) Autres blancs 17,0 (70° Oe) Pinot noir 18,2 (75° Oe) 
 <sup>1</sup> L'article 57 de la loi sur l'organisation du Conseil d'État s'applique par analogie.
 
 [^58c-1]: Modif. 10 du 28.08.2024: Introduction Art. 58d; entrée en vigueur au 01.09.2024
+[^58d-1]: Modif. 11 du 01.07.2026: Introduction ; entrée en vigueur au 01.07.2026
+
+## Titre Vb Soutien aux vignobles en forte pente ou en terrasses (art. 41 LV)
+
+[^58d-1]
+
+#### Art. 58e
+
+**Principe [^titleTitreVb-1]**
+
+<sup>1</sup> Le service en charge de l'agriculture peut allouer des aides financières pour le vignoble en forte pente ou en terrasses au sens des articles 9 et 9a de la loi.
+
+<sup>2</sup> Les aides financières sont destinées à soutenir l'entretien des parcelles plantées en vigne, les infrastructures et les frais de production.
+
+<sup>3</sup> La loi sur les subventions (LSubv) s'applique pour le surplus.
+
+[^titleTitreVb-1]: Modif. 11 du 01.07.2026: Introduction tArt; entrée en vigueur au 01.07.2026; Introduction Al. 1-3; entrée en vigueur au 01.07.2026; Introduction Art. 58e; entrée en vigueur au 01.07.2026
+
+#### Art. 58f
+
+**Vignoble soutenu [^58e-1]**
+
+<sup>1</sup> Seules les parcelles plantées en vignes sises sur le territoire cantonal peuvent bénéficier du soutien.
+
+<sup>2</sup> Pour être soutenues, les vignes en terrasses doivent en outre remplir les critères de l'Ordonnance sur les paiements directs versés dans l'agriculture.
+
+[^58e-1]: Modif. 11 du 01.07.2026: Introduction tArt; entrée en vigueur au 01.07.2026; Introduction Al. 1-2; entrée en vigueur au 01.07.2026; Introduction Art. 58f; entrée en vigueur au 01.07.2026
+
+#### Art. 58g
+
+**Bénéficiaires [^58f-1]**
+
+<sup>1</sup> Les bénéficiaires sont les exploitants qui bénéficient de paiements directs pour surfaces viticoles en pente au sens de l'Ordonnance sur les paiements directs versés dans l'agriculture (OPD) et dont le domicile et le centre d'exploitation sont situés dans le Canton de Vaud.
+
+[^58f-1]: Modif. 11 du 01.07.2026: Introduction Art. 58g; entrée en vigueur au 01.07.2026
+
+#### Art. 58h
+
+**Montant [^58g-1]**
+
+<sup>1</sup> Le montant de l'aide s'élève au maximum à 30% des contributions fédérales prévues par l'OPD et versées pour les surfaces viticoles en pente.
+
+[^58g-1]: Modif. 11 du 01.07.2026: Introduction Art. 58h; entrée en vigueur au 01.07.2026
+
+#### Art. 58i
+
+**Modalités de versement [^58h-1]**
+
+<sup>1</sup> Le versement des aides a lieu sous la forme d'un paiement unique à la fin de l'année en cours.
+
+[^58h-1]: Modif. 11 du 01.07.2026: Introduction tArt; entrée en vigueur au 01.07.2026; Introduction Al. 1; entrée en vigueur au 01.07.2026; Introduction Art. 58i; entrée en vigueur au 01.07.2026
+
+#### Art. 58j
+
+**Demande d'octroi [^58i-1]**
+
+<sup>1</sup> La demande d'octroi de l'aide est régie par les articles 37 et 38 du règlement d'application de la loi sur l'agriculture vaudoise.
+
+[^58i-1]: Modif. 11 du 01.07.2026: Introduction tArt; entrée en vigueur au 01.07.2026; Introduction Al. 1; entrée en vigueur au 01.07.2026; Introduction Art. 58j; entrée en vigueur au 01.07.2026
 
 ## Titre VI DISPOSITIONS PÉNALES, TRANSITOIRES, ABROGATOIRES ET FINALES
 
@@ -963,6 +1024,6 @@ Annexes [^62-1]
 
 1
 
-[Liste des cépages\_2018](https://prestations.vd.ch/pub/blv-publication/api/actes/b58c3698-5558-41cf-beba-72e8ff39a804/annexes/1?dmev=01.09.2024)
+[Liste des cépages\_2018](https://prestations.vd.ch/pub/blv-publication/api/actes/b58c3698-5558-41cf-beba-72e8ff39a804/annexes/1?dmev=01.07.2026)
 
 [^62-1]: Modif. 3 du 20.03.2013: Modification Ann; entrée en vigueur au 01.08.2012 · Modif. 4 du 28.06.2013: Modification Ann; entrée en vigueur au 01.07.2013 · Modif. 7 du 13.07.2018: Modification Ann; entrée en vigueur au 13.07.2018
