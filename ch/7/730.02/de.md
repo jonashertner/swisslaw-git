@@ -4,11 +4,11 @@ title: "Verordnung vom 1. November 2017 über die Anforderungen an die Energieef
 short: EnEV
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/765"
 language: de
-version: 2026-01-01
+version: 2026-07-01
 adopted: 2017-11-01
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/765/20260101/de/xml/fedlex-data-admin-ch-eli-cc-2017-765-20260101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/765/20260101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/765/20260701/de/xml/fedlex-data-admin-ch-eli-cc-2017-765-20260701-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/765/20260701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,11 +17,11 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/765/20260101/de"
 
 (Energieeffizienzverordnung, EnEV)
 
-vom 1. November 2017 (Stand am 1. Januar 2026)
+vom 1. November 2017 (Stand am 1. Juli 2026)
 
 Der Schweizerische Bundesrat,
 
-gestützt auf das Energiegesetz vom 30. September 2016[^ingress-1] (EnG), auf Artikel 38 des Chemikaliengesetzes vom 15. Dezember 2000[^ingress-2] und auf die Artikel 39 Absatz 1 und 40 des Umweltschutzgesetzes vom 7. Oktober 1983[^ingress-3], in Ausführung des Bundesgesetzes vom 6. Oktober 1995[^ingress-4] über die technischen Handelshemmnisse,[^ingress-5]
+gestützt auf das Energiegesetz vom 30. September 2016[^ingress-1] (EnG), auf Artikel 38 des Chemikaliengesetzes vom 15. Dezember 2000[^ingress-2] und auf die Artikel 35*i*, 39 Absatz 1 und 40 des Umweltschutzgesetzes vom 7. Oktober 1983[^ingress-3], in Ausführung des Bundesgesetzes vom 6. Oktober 1995[^ingress-4] über die technischen Handelshemmnisse,[^ingress-5]
 
 verordnet:
 
@@ -29,7 +29,7 @@ verordnet:
 [^ingress-2]: [SR 813.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9395)
 [^ingress-3]: [SR 814.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9437)
 [^ingress-4]: [SR 946.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11467)
-[^ingress-5]: Fassung gemäss Ziff. I der V vom 4. Juni 2021, in Kraft seit 1. Juli 2021 ([AS 2021 329](https://fedlex.data.admin.ch/eli/oc/2021/329)).
+[^ingress-5]: Fassung gemäss Ziff. I der V vom 27. Mai 2026, in Kraft seit 1. Juli 2026 ([AS 2026 300](https://fedlex.data.admin.ch/eli/oc/2026/300)).
 
 ## 1. Kapitel: Allgemeine Bestimmungen
 
@@ -37,9 +37,11 @@ verordnet:
 
 **Zweck und Geltungsbereich**
 
-<sup>1</sup> Mit dieser Verordnung soll der Energieverbrauch serienmässig hergestellter Anlagen, Fahrzeuge und Geräte reduziert und deren Energieeffizienz gesteigert werden.
+<sup>1</sup> Mit dieser Verordnung soll der Energieverbrauch serienmässig hergestellter Anlagen, Fahrzeuge und Geräte reduziert und deren Energie- und Ressourceneffizienz gesteigert werden.[^1-1]
 
 <sup>2</sup> Sie gilt für serienmässig hergestellte Anlagen, Fahrzeuge und Geräte sowie deren serienmässig hergestellte Bestandteile, die in erheblichem Ausmass Energie verbrauchen und in der Schweiz in Verkehr gebracht oder abgegeben werden.
+
+[^1-1]: Fassung gemäss Ziff. I der V vom 27. Mai 2026, in Kraft seit 1. Juli 2026 ([AS 2026 300](https://fedlex.data.admin.ch/eli/oc/2026/300)).
 
 #### Art. 2
 
@@ -60,40 +62,42 @@ In dieser Verordnung bedeuten:
 
 #### Art. 3
 
-**Allgemeine Voraussetzungen**
+**Allgemeine Voraussetzungen**[^3-1]
 
-Die in den Anhängen 1.1–3.2 aufgeführten, serienmässig hergestellten Anlagen und Geräte sowie deren serienmässig hergestellte Bestandteile (Anlagen und Geräte) dürfen nur in Verkehr gebracht und abgegeben werden, wenn sie:
+Die in den Anhängen 1.1–2.15 aufgeführten, serienmässig hergestellten Anlagen und Geräte sowie deren serienmässig hergestellte Bestandteile (Anlagen und Geräte) dürfen nur in Verkehr gebracht und abgegeben werden, wenn sie:
 
-- a. die Mindestanforderungen an den spezifischen Energieverbrauch, an die Energieeffizienz und an die energieverbrauchsrelevanten Eigenschaften erfüllen;
-- b. das energietechnische Prüfverfahren (Konformitätsbewertungsverfahren) durchlaufen haben; und
-- c. mit den Angaben zum spezifischen Energieverbrauch, zur Energieeffizienz und zu den energieverbrauchsrelevanten Eigenschaften gekennzeichnet sind.
+- a. die Mindestanforderungen an den spezifischen Energieverbrauch, an die Energie- und Ressourceneffizienz und an die energieverbrauchsrelevanten Eigenschaften erfüllen;
+- b. das Konformitätsbewertungsverfahren durchlaufen haben; und
+- c. mit den Angaben zum spezifischen Energieverbrauch, zur Energie- und Ressourceneffizienz sowie zu den energieverbrauchsrelevanten Eigenschaften gekennzeichnet sind.
+
+[^3-1]: Fassung gemäss Ziff. I der V vom 27. Mai 2026, in Kraft seit 1. Juli 2026 ([AS 2026 300](https://fedlex.data.admin.ch/eli/oc/2026/300)).
 
 #### Art. 4
 
 **Mindestanforderungen**
 
-<sup>1</sup> Die Mindestanforderungen an den spezifischen Energieverbrauch, an die Energieeffizienz und an die energieverbrauchsrelevanten Eigenschaften von Anlagen und Geräten sind in den Anhängen 1.1–2.14 festgelegt.[^4-1]
+<sup>1</sup> Die Mindestanforderungen an den spezifischen Energieverbrauch, an die Energie- und Ressourceneffizienz sowie an die energieverbrauchsrelevanten Eigenschaften von Anlagen und Geräten sind in den Anhängen 1.1–2.15 festgelegt.[^4-1]
 
 <sup>2</sup> Die Mindestanforderungen gelten auch für Anlagen und Geräte, die für den gewerblichen Eigengebrauch beschafft werden.
 
-[^4-1]: Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 776](https://fedlex.data.admin.ch/eli/oc/2022/776)).
+[^4-1]: Fassung gemäss Ziff. I der V vom 27. Mai 2026, in Kraft seit 1. Juli 2026 ([AS 2026 300](https://fedlex.data.admin.ch/eli/oc/2026/300)).
 
 #### Art. 5
 
 **Konformitätsbewertungsverfahren**
 
-<sup>1</sup> Der spezifische Energieverbrauch, die Energieeffizienz sowie die energieverbrauchsrelevanten Eigenschaften von Anlagen und Geräten werden durch ein Konformitätsbewertungsverfahren ermittelt; die Einzelheiten sind in den Anhängen 1.1–3.2 geregelt.[^5-1]
+<sup>1</sup> Der spezifische Energieverbrauch, die Energie- und Ressourceneffizienz sowie die energieverbrauchsrelevanten Eigenschaften von Anlagen und Geräten werden durch ein Konformitätsbewertungsverfahren ermittelt; die Einzelheiten sind in den Anhängen 1.1–2.15 geregelt.[^5-1]
 
 <sup>2</sup> Das Konformitätsbewertungsverfahren ist nach einem der in Artikel 8 Ziffer 2 der Richtlinie 2009/125/EG[^5-2] vorgesehenen Verfahren durchzuführen.
 
-[^5-1]: Fassung gemäss Ziff. I der V vom 22. April 2020, in Kraft seit 15. Mai 2020 ([AS 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)).
+[^5-1]: Fassung gemäss Ziff. I der V vom 27. Mai 2026, in Kraft seit 1. Juli 2026 ([AS 2026 300](https://fedlex.data.admin.ch/eli/oc/2026/300)).
 [^5-2]: Richtlinie 2009/125/EG des Europäischen Parlaments und des Rates vom 21. Okt. 2009 zur Schaffung eines Rahmens für die Festlegung von Anforderungen an die umweltgerechte Gestaltung energieverbrauchsrelevanter Produkte, ABl. L 285 vom 31.10.2009, S. 10; geändert durch Richtlinie 2012/27/EU, ABl. L 315 vom 14.11.2012, S. 1.
 
 #### Art. 6
 
 **Kennzeichnung**
 
-<sup>1</sup> Wer die in den Anhängen 1.1–1.22[^6-1], 3.1[^6-2] und 3.2 aufgeführten Anlagen und Geräte in Verkehr bringt oder abgibt, muss sie mit der Energieetikette kennzeichnen.[^6-3]
+<sup>1</sup> Wer die in den Anhängen 1.1–1.23 aufgeführten Anlagen und Geräte in Verkehr bringt oder abgibt, muss sie mit der Energieetikette kennzeichnen.[^6-1]
 
 <sup>2</sup> Die Energieetikette muss in einheitlicher und vergleichbarer Form Auskunft geben über den Verbrauch an Energie und an anderen Ressourcen sowie über den Nutzen bei den massgebenden Betriebsarten; die Einzelheiten sind in den Anhängen nach Absatz 1 geregelt.
 
@@ -106,15 +110,13 @@ Wer Anlagen und Geräte nach Absatz 1 in Verkehr bringt oder abgibt, muss dafür
 
 <sup>4</sup> In den Verkaufsunterlagen nach Absatz 3 Buchstabe b kann alternativ die Energieeffizienzklasse in Weiss auf einem Pfeil dargestellt werden, der die gleiche Form und Farbe hat wie die entsprechende Energieeffizienzklasse auf der Energieetikette; es ist die gleiche Schriftgrösse wie für die Preisangabe zu verwenden.
 
-[^6-1]: Anhang 1.21 tritt am 1. März 2021 in Kraft, Anhang 1.22 tritt am 1. September 2021 in Kraft (AS **2020** 1439 1442).
-[^6-2]: Anhang 3.1 wird am 1. September 2021 aufgehoben.
-[^6-3]: Fassung gemäss Ziff. I der V vom 22. April 2020, in Kraft seit 15. Mai 2020 ([AS 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)).
+[^6-1]: Fassung gemäss Ziff. I der V vom 27. Mai 2026, in Kraft seit 1. Juli 2026 ([AS 2026 300](https://fedlex.data.admin.ch/eli/oc/2026/300)).
 
 #### Art. 7
 
 **Konformitätserklärung**
 
-<sup>1</sup> Wer Anlagen und Geräte in Verkehr bringt oder abgibt, muss mit einer Konformitätserklärung bestätigen können, dass diese den in den Anhängen 1.1–3.2 festgelegten Anforderungen entsprechen.
+<sup>1</sup> Wer Anlagen und Geräte in Verkehr bringt oder abgibt, muss mit einer Konformitätserklärung bestätigen können, dass diese den in den Anhängen 1.1–2.15 festgelegten Anforderungen entsprechen.[^7-1]
 
 <sup>2</sup>
 
@@ -130,11 +132,13 @@ Die Konformitätserklärung muss in einer schweizerischen Amtssprache oder in En
 
 <sup>4</sup> Die Konformitätserklärung muss während zehn Jahren seit der Herstellung der Anlage oder des Gerätes vorgelegt werden können. Die Frist beginnt mit der Herstellung des letzten Exemplars einer Serie zu laufen.
 
+[^7-1]: Fassung gemäss Ziff. I der V vom 27. Mai 2026, in Kraft seit 1. Juli 2026 ([AS 2026 300](https://fedlex.data.admin.ch/eli/oc/2026/300)).
+
 #### Art. 8
 
 **Technische Unterlagen**
 
-<sup>1</sup> Wer Anlagen und Geräte in Verkehr bringt oder abgibt, muss mittels technischer Unterlagen belegen können, dass die in den Anhängen 1.1–3.2 festgelegten Anforderungen erfüllt sind.
+<sup>1</sup> Wer Anlagen und Geräte in Verkehr bringt oder abgibt, muss mittels technischer Unterlagen belegen können, dass die in den Anhängen 1.1–2.15 festgelegten Anforderungen erfüllt sind.[^8-1]
 
 <sup>2</sup>
 
@@ -151,6 +155,8 @@ Die technischen Unterlagen müssen in einer schweizerischen Amtssprache oder in 
 <sup>3</sup> Die technischen Unterlagen können in einer anderen Sprache abgefasst sein, sofern die zu ihrer Beurteilung erforderlichen Auskünfte in einer schweizerischen Amtssprache oder in Englisch erteilt werden.
 
 <sup>4</sup> Die technischen Unterlagen müssen während zehn Jahren seit der Herstellung der Anlage oder des Gerätes vorgelegt werden können. Die Frist beginnt mit der Herstellung des letzten Exemplars einer Serie zu laufen.
+
+[^8-1]: Fassung gemäss Ziff. I der V vom 27. Mai 2026, in Kraft seit 1. Juli 2026 ([AS 2026 300](https://fedlex.data.admin.ch/eli/oc/2026/300)).
 
 #### Art. 9
 
@@ -249,21 +255,28 @@ Es kann im Rahmen der Kontrolltätigkeit insbesondere:
 
 - a. von den Herstellern, Importeuren und Händlern den Zugang zu den Unterlagen und Informationen verlangen, die für die Kontrolle erforderlich sind;
 - b. die Grundstücke, Gebäude, Betriebe, Räume, Anlagen und sonstige Infrastrukturen während der üblichen Arbeitszeit betreten;
-- c.[^14-2] für Anlagen und Geräte eine energietechnische Überprüfung (Konformitätsüberprüfung) anordnen; die Hersteller, Importeure und Händler haben dem BFE die dazu erforderlichen Anlagen und Geräte unentgeltlich zur Verfügung zu stellen.
+- c.[^14-2] für Anlagen und Geräte eine Konformitätsüberprüfung anordnen; die Hersteller, Importeure und Händler haben dem BFE die dazu erforderlichen Anlagen und Geräte unentgeltlich zur Verfügung zu stellen.
+
+<sup>2bis</sup> Es kann vom Bundesamt für Zoll und Grenzsicherheit verlangen, ihm Auskünfte über den Import von Anlagen und Geräten während eines bestimmten Zeitraums zu erteilen.[^14-3]
 
 <sup>3</sup>
 
-Ergibt die Kontrolle, dass Vorschriften dieser Verordnung verletzt sind, so verfügt das BFE die geeigneten Massnahmen. Es kann insbesondere:
+Ergibt die Kontrolle, dass Vorschriften dieser Verordnung verletzt sind, so ordnet das BFE die geeigneten Massnahmen an. Es kann insbesondere:[^14-4]
 
 - a. das Inverkehrbringen und das Abgeben einer Anlage, eines Fahrzeugs oder eines Gerätes oder eines Bestandteils davon verbieten;
 - b. die Behebung der Verletzung, den Rückruf, die Beschlagnahme und die Einziehung einer Anlage, eines Fahrzeugs oder eines Gerätes oder eines Bestandteils davon verfügen;
 - c. die von ihm getroffenen Massnahmen veröffentlichen.
 
-<sup>4</sup> Ergibt die Kontrolle, dass die Anlagen oder Geräte den Anforderungen dieser Verordnung nicht entsprechen, so trägt die Person, die diese in Verkehr gebracht oder abgegeben hat, die im Rahmen der Kontrolle entstandenen Kosten.[^14-3]
+<sup>4</sup> Ergibt die Kontrolle, dass die Anlagen oder Geräte den Anforderungen dieser Verordnung nicht entsprechen, so trägt die Person, die diese in Verkehr gebracht oder abgegeben hat, die im Rahmen der Kontrolle entstandenen Kosten.[^14-5]
+
+<sup>5</sup> Soweit Vorschriften dieser Verordnung die Ressourceneffizienz betreffen, ist das Bundesamt für Umwelt für die Kontrolle und Anordnung von Massnahmen zuständig.[^14-6]
 
 [^14-1]: Fassung gemäss Ziff. I der V vom 22. April 2020, in Kraft seit 15. Mai 2020 ([AS 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)).
-[^14-2]: Eingefügt durch Ziff. I der V vom 4. Juni 2021, in Kraft seit 1. Juli 2021 ([AS 2021 329](https://fedlex.data.admin.ch/eli/oc/2021/329)).
-[^14-3]: Eingefügt durch Ziff. I der V vom 4. Juni 2021, in Kraft seit 1. Juli 2021 ([AS 2021 329](https://fedlex.data.admin.ch/eli/oc/2021/329)).
+[^14-2]: Eingefügt durch Ziff. I der V vom 4. Juni 2021 ([AS 2021 329](https://fedlex.data.admin.ch/eli/oc/2021/329)). Fassung gemäss Ziff. I der V vom 27. Mai 2026, in Kraft seit 1. Juli 2026 ([AS 2026 300](https://fedlex.data.admin.ch/eli/oc/2026/300)).
+[^14-3]: Eingefügt durch Ziff. I der V vom 27. Mai 2026, in Kraft seit 1. Juli 2026 ([AS 2026 300](https://fedlex.data.admin.ch/eli/oc/2026/300)).
+[^14-4]: Fassung gemäss Ziff. I der V vom 27. Mai 2026, in Kraft seit 1. Juli 2026 ([AS 2026 300](https://fedlex.data.admin.ch/eli/oc/2026/300)).
+[^14-5]: Eingefügt durch Ziff. I der V vom 4. Juni 2021, in Kraft seit 1. Juli 2021 ([AS 2021 329](https://fedlex.data.admin.ch/eli/oc/2021/329)).
+[^14-6]: Eingefügt durch Ziff. I der V vom 27. Mai 2026, in Kraft seit 1. Juli 2026 ([AS 2026 300](https://fedlex.data.admin.ch/eli/oc/2026/300)).
 
 #### Art. 15
 
@@ -381,9 +394,9 @@ Anhang 1.3[^t-3]
 
 (Art. 4 Abs. 1, 5 Abs. 1, 6 Abs. 1, 7 Abs. 1 und 8 Abs. 1)
 
-## [Anforderungen an die Energieeffizienz und an das Inverkehrbringen und Abgeben netzbetriebener Haushaltswäschetrockner](https://www.fedlex.admin.ch/eli/cc/2017/765/de)
+## Anforderungen an die Energieeffizienz und an das Inverkehrbringen und Abgeben netzbetriebener Haushaltswäschetrockner
 
-[^t-3]: Fassung gemäss Ziff. II Abs. 2 der V vom 21. Mai 2025, in Kraft seit 1. Juli 2025 ([AS 2025 382](https://fedlex.data.admin.ch/eli/oc/2025/382)).
+[^t-3]: Fassung gemäss Ziff. II Abs. 2 der V vom 21. Mai 2025 ([AS 2025 382](https://fedlex.data.admin.ch/eli/oc/2025/382)). Bereinigt gemäss Ziff. II Abs. 1 der V vom 27. Mai 2026, in Kraft seit 1. Juli 2026 ([AS 2026 300](https://fedlex.data.admin.ch/eli/oc/2026/300)).
 
 ### 1 Geltungsbereich
 
@@ -391,29 +404,29 @@ Anhang 1.3[^t-3]
 - 1\.2 Ausgenommen sind die Geräte nach Artikel 1 Absatz 2 der Verordnung (EU) 2023/2533.
 - 1\.3 Es gelten die Begriffsbestimmungen nach Artikel 2 und Anhang I der Verordnung (EU) 2023/2533.
 
-[^annex13-lvlu1-lvl1-1]: Verordnung (EU) 2023/2533 der Kommission vom 17. November 2023 zur Durchführung der Richtlinie 2009/125/EG des Europäischen Parlaments und des Rates im Hinblick auf die Festlegung von Ökodesign-Anforderungen an Haushaltswäschetrockner, zur Änderung der Verordnung (EU) 2023/826 der Kommission und zur Aufhebung der Verordnung (EU) Nr. 932/2012 der Kommission, Fassung gemäss ABl. L, 2023/2533, 22.11.2023.
+[^annex13-lvlu1-lvl1-1]: Verordnung (EU) 2023/2533 der Kommission vom 17. November 2023 zur Durchführung der Richtlinie 2009/125/EG des Europäischen Parlaments und des Rates im Hinblick auf die Festlegung von Ökodesign-Anforderungen an Haushaltswäschetrockner, zur Änderung der Verordnung (EU) 2023/826 der Kommission und zur Aufhebung der Verordnung (EU) Nr. 932/2012 der Kommission, ABl. L, 2023/2533, 22.11.2023; geändert durch Verordnung (EU) 2025/2262, ABl. L, 2025/2262, 20.11.2025.
 
 ### 2 Anforderungen an das Inverkehrbringen und Abgeben
 
-- 2\.1 Haushaltswäschetrockner nach Ziffer 1 dürfen in Verkehr gebracht und abgegeben werden, wenn ihr EEI nach Anhang III Abschnitt 1 der Verordnung (EU) 2023/2533 nicht über 60 liegt und wenn sie die Anforderungen nach den Artikeln 6 und 7 und Anhang II der Verordnung (EU) 2023/2533 erfüllen.
-- 2\.2 Ausgenommen sind für einen Gebrauch in Gemeinschaftsräumen von Mehrfamilienhäusern ausgelegte Haushaltswäschetrockner nach Ziffer 1 mit einer Trocknungsleistung über 4 kg pro Stunde (Standard-Baumwollprogrammdauer bei vollständiger Befüllung). Diese dürfen in Verkehr gebracht und abgegeben werden, wenn sie die Anforderungen nach den Artikeln 3, 6 und 7 und Anhang II der Verordnung (EU) 2023/2533 erfüllen.
+- 2\.1 Haushaltswäschetrockner nach Ziffer 1 dürfen in Verkehr gebracht und abgegeben werden, wenn ihr EEI nach Anhang III Abschnitt 1 der Verordnung (EU) 2023/2533 nicht über 60 liegt und wenn sie die Anforderungen nach Artikel 7 und Anhang II der Verordnung (EU) 2023/2533 erfüllen.
+- 2\.2 Ausgenommen sind für einen Gebrauch in Gemeinschaftsräumen von Mehrfamilienhäusern ausgelegte Haushaltswäschetrockner nach Ziffer 1 mit einer Trocknungsleistung über 4 kg pro Stunde (Eco-Programm bei vollständiger Befüllung). Diese dürfen in Verkehr gebracht und abgegeben werden, wenn sie die Anforderungen nach den Artikeln 3 und 7 und Anhang II der Verordnung (EU) 2023/2533 erfüllen.
 
 ### 3 Konformitätsbewertungsverfahren
 
-- 3\.1 Im Rahmen der Konformitätsbewertung werden die Eigenschaften der Haushaltswäschetrockner nach Ziffer 1 anhand der Vorgaben und Methoden nach den Anhängen II, III und VI der Verordnung (EU) 2023/2533 und den Anhängen II, IV und X der Delegierten Verordnung (EU) 2023/2534[^annex13-lvlu1-lvl3-1] gemessen und berechnet; die technischen Unterlagen müssen die Ergebnisse der Messungen und Berechnungen enthalten.
-- 3\.2 Im Rahmen der Konformitätsüberprüfung testet die Kontrollstelle einen Haushaltswäschetrockner anhand der Vorgaben und Methoden nach Ziffer 3.1; die Messwerte müssen die Anforderungen nach Anhang IV Nummer 3 der Verordnung (EU) 2023/2533 sowie nach den Anhängen VI und IX Nummer 4 der Delegierten Verordnung (EU) 2023/2534 erfüllen.
+- 3\.1 Im Rahmen der Konformitätsbewertung werden die energieverbrauchsrelevanten Eigenschaften der Haushaltswäschetrockner nach Ziffer 1 anhand der Vorgaben und Methoden nach den Anhängen II, III und VI der Verordnung (EU) 2023/2533 und den Anhängen II, IV und X der Delegierten Verordnung (EU) 2023/2534[^annex13-lvlu1-lvl3-1] gemessen und berechnet; die technischen Unterlagen müssen die Ergebnisse der Messungen und Berechnungen enthalten.
+- 3\.2 Im Rahmen der Konformitätsüberprüfung testet die Kontrollstelle einen Haushaltswäschetrockner anhand der Vorgaben und Methoden nach Ziffer 3.1; die Messwerte müssen die Anforderungen nach Anhang IV Nummer 3 der Verordnung (EU) 2023/2533 sowie nach Anhang IX Nummer 4 der Delegierten Verordnung (EU) 2023/2534 erfüllen.
 
-[^annex13-lvlu1-lvl3-1]: Delegierte Verordnung (EU) 2023/2534 der Kommission vom 13. Juli 2023 zur Ergänzung der Verordnung (EU) 2017/1369 des Europäischen Parlaments und des Rates in Bezug auf die Energieverbrauchskennzeichnung von Haushaltswäschetrocknern und zur Aufhebung der Delegierten Verordnung (EU) Nr. 392/2012 der Kommission, Fassung gemäss ABl. L, 2023/2534, 22.11.2023.
+[^annex13-lvlu1-lvl3-1]: Delegierte Verordnung (EU) 2023/2534 der Kommission vom 13. Juli 2023 zur Ergänzung der Verordnung (EU) 2017/1369 des Europäischen Parlaments und des Rates in Bezug auf die Energieverbrauchskennzeichnung von Haushaltswäschetrocknern und zur Aufhebung der Delegierten Verordnung (EU) Nr. 392/2012 der Kommission, ABl. L, 2023/2534, 22.11.2023; geändert durch Delegierte Verordnung (EU) 2025/1353, ABl. L, 2025/1353, 20.11.2025.
 
 ### 4 Angabe des Energieverbrauchs und Kennzeichnung
 
-- 4\.1 Die Angabe der energieverbrauchsrelevanten Eigenschaften und die Kennzeichnung sind mit Ausnahme der EU-Hoheitszeichen und des QR-Codes nach den Anhängen I–IV, VI und X der Delegierten Verordnung (EU) 2023/2534 vorzunehmen, ausgenommen die Vorschriften zur Eingabe des Produktdatenblatts und der technischen Dokumentation in die Produktdatenbank der EU. Soweit EU-Hoheitszeichen und QR-Codes in Übereinstimmung mit den Vorschriften der EU bereits angebracht sind, können sie belassen werden.
+- 4\.1 Die Angabe der energieverbrauchsrelevanten Eigenschaften und die Kennzeichnung sind mit Ausnahme der EU-Hoheitszeichen und des QR-Codes nach den Anhängen I–IV, VI, VIa und X der Delegierten Verordnung (EU) 2023/2534 vorzunehmen, ausgenommen die Vorschriften zur Eingabe des Produktdatenblatts und der technischen Dokumentation in die Produktdatenbank der EU. Soweit EU-Hoheitszeichen und QR-Codes in Übereinstimmung mit den Vorschriften der EU bereits angebracht sind, können sie belassen werden.
 - 4\.2 Die Vorgaben für die bereitzustellenden Informationen bei visuell wahrnehmbarer Werbung, bei technischem Werbematerial und beim Fernabsatz richten sich nach Anhang VII der Delegierten Verordnung (EU) 2023/2534.
 - 4\.3 Die für den Internetverkauf massgebenden Vorgaben richten sich nach Anhang VIII der Delegierten Verordnung (EU) 2023/2534.
 
 ### 5 Übergangsbestimmungen
 
-- Haushaltswäschetrockner, welche die ab 1. Juli 2025 geltenden Anforderungen nicht erfüllen, dürfen ab diesem Datum nicht mehr in Verkehr gebracht werden. Sie dürfen längstens bis zum 30. Juni 2026 abgegeben werden.
+- Haushaltswäschetrockner, welche die ab 1. Januar 2027 geltenden Anforderungen nicht erfüllen, dürfen ab diesem Datum nicht mehr in Verkehr gebracht werden. Sie dürfen längstens bis zum 31. Dezember 2027 abgegeben werden.
 
 Anhang 1.4[^t-4]
 
@@ -485,20 +498,13 @@ Anhang 1.6[^t-6]
 
 [^annex16-lvlu1-lvl3-1]: Siehe Fussnote zu Ziff. 1.2.
 
-### 4 Angabe des Energieverbrauchs und Kennzeichnung
-
-- 4\.1 Die Angabe der energieverbrauchsrelevanten Eigenschaften und die Kennzeichnung sind mit Ausnahme der EU-Hoheitszeichen nach den Anhängen I–VI der Delegierten Verordnung (EU) Nr. 65/2014[^annex16-lvlu1-lvl4-1] vorzunehmen. Soweit EU-Hoheitszeichen in Übereinstimmung mit den Vorschriften der EU bereits angebracht sind, können sie belassen werden.
-- 4\.2 Die für den Internetverkauf massgebenden Vorgaben richten sich nach Anhang VII der Delegierten Verordnung (EU) Nr. 65/2014.
-
-[^annex16-lvlu1-lvl4-1]: Delegierte Verordnung (EU) Nr. 65/2014 der Kommission vom 1. Oktober 2013 zur Ergänzung der Richtlinie 2010/30/EU des Europäischen Parlaments und des Rates im Hinblick auf die Energieverbrauchskennzeichnung von Haushaltsbacköfen und –dunstabzugshauben, Fassung gemäss ABl. L 29 vom 31.1.2014, S. 1.
-
 Anhang 1.7[^t-7]
 
 (Art. 4 Abs. 1, 5 Abs. 1, 6 Abs. 1, 7 Abs. 1 und 8 Abs. 1)
 
 ## Anforderungen an die Energieeffizienz und an das Inverkehrbringen und Abgeben netzbetriebener Haushaltsdunstabzugshauben
 
-[^t-7]: Bereinigt gemäss Ziff. II Abs. 1 der V vom 22. April 2020, in Kraft seit 15. Mai 2020 ([AS 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)).
+[^t-7]: Bereinigt gemäss Ziff. II Abs. 1 der V vom 22. April 2020 ([AS 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)) und vom 27. Mai 2026, in Kraft seit 1. Juli 2026 ([AS 2026 300](https://fedlex.data.admin.ch/eli/oc/2026/300)).
 
 ### 1 Geltungsbereich
 
@@ -514,18 +520,16 @@ Anhang 1.7[^t-7]
 
 ### 3 Konformitätsbewertungsverfahren
 
-- 3\.1 Im Rahmen der Konformitätsbewertung werden die energieverbrauchsrelevanten Eigenschaften der Haushaltsdunstabzugshauben nach Ziffer 1 anhand der Vorgaben und Methoden nach den Anhängen I Ziffern 1.3 und 2.3 und II Ziffer 3 der Verordnung (EU) Nr. 66/2014[^annex17-lvlu1-lvl3-1] gemessen und berechnet; die technischen Unterlagen müssen die Ergebnisse der Messungen und Berechnungen enthalten.
-- 3\.2 Im Rahmen der Konformitätsüberprüfung testet die Kontrollstelle eine Haushaltsdunstabzugshaube anhand der Vorgaben und Methoden nach Ziffer 3.1; die Messwerte müssen die Anforderungen nach Anhang III Ziffer 2 der Verordnung (EU) Nr. 66/2014 erfüllen.
+- 3\.1 Im Rahmen der Konformitätsbewertung werden die energieverbrauchsrelevanten Eigenschaften der Haushaltsdunstabzugshauben nach Ziffer 1 anhand der Vorgaben und Methoden nach den Anhängen I Ziffern 1.3 und 2.3 und II Ziffer 3 der Verordnung (EU) Nr. 66/2014 sowie Anhang II Ziffer 2 der Delegierten Verordnung (EU) Nr. 65/2014[^annex17-lvlu1-lvl3-1] gemessen und berechnet; die technischen Unterlagen müssen die Ergebnisse der Messungen und Berechnungen enthalten.
+- 3\.2 Im Rahmen der Konformitätsüberprüfung testet die Kontrollstelle eine Haushaltsdunstabzugshaube anhand der Vorgaben und Methoden nach Ziffer 3.1; die Messwerte müssen die Anforderungen nach Anhang III Ziffer 2 der Verordnung (EU) Nr. 66/2014 und Anhang VIII Ziffer 2 der Delegierten Verordnung (EU) Nr. 65/2014 erfüllen.
 
-[^annex17-lvlu1-lvl3-1]: Siehe Fussnote zu Ziff. 1.2.
+[^annex17-lvlu1-lvl3-1]: Delegierte Verordnung (EU) Nr. 65/2014 der Kommission vom 1. Oktober 2013 zur Ergänzung der Richtlinie 2010/30/EU des Europäischen Parlaments und des Rates im Hinblick auf die Energieverbrauchskennzeichnung von Haushaltsbacköfen und -dunstabzugshauben, ABl. L 29 vom 31.1.2014, S. 1; zuletzt geändert durch Delegierte Verordnung (EU) 2017/254, ABl. L 38 vom 15. Februar 2017, S. 1.
 
 ### 4 Angabe des Energieverbrauchs und Kennzeichnung
 
-- 4\.1 Die Angabe der energieverbrauchsrelevanten Eigenschaften und die Kennzeichnung sind mit Ausnahme der EU-Hoheitszeichen nach den Anhängen I–VI der Delegierten Verordnung (EU) Nr. 65/2014[^annex17-lvlu1-lvl4-1] vorzunehmen. Soweit EU-Hoheitszeichen in Übereinstimmung mit den Vorschriften der EU bereits angebracht sind, können sie belassen werden.
+- 4\.1 Die Angabe der energieverbrauchsrelevanten Eigenschaften und die Kennzeichnung sind mit Ausnahme der EU-Hoheitszeichen nach den Anhängen I–VI der Delegierten Verordnung (EU) Nr. 65/2014 vorzunehmen. Soweit EU-Hoheitszeichen in Übereinstimmung mit den Vorschriften der EU bereits angebracht sind, können sie belassen werden.
 - 4\.2 Bezüglich des Zeitplans für die Inkraftsetzung der neuen Etiketten und ihrer Gestaltung gelten die Vorschriften nach Artikel 3 Ziffer 3 der Delegierten Verordnung (EU) Nr. 65/2014.
 - 4\.3 Die für den Internetverkauf massgebenden Vorgaben richten sich nach Anhang VII der Delegierten Verordnung (EU) Nr. 65/2014.
-
-[^annex17-lvlu1-lvl4-1]: Delegierte Verordnung (EU) Nr. 65/2014 der Kommission vom 1. Oktober 2013 zur Ergänzung der Richtlinie 2010/30/EU des Europäischen Parlaments und des Rates im Hinblick auf die Energieverbrauchskennzeichnung von Haushaltsbacköfen und -dunstabzugshauben, Fassung gemäss ABl. L 29 vom 31.1.2014, S. 1.
 
 ### 5 Übergangsbestimmungen
 
@@ -1039,7 +1043,7 @@ Anhang 1.23[^t-21]
 
 ## Anforderungen an die Energieeffizienz und an das Inverkehrbringen und Abgeben von Smartphones, Mobiltelefonen, schnurlosen Telefonen und Slate-Tablets
 
-[^t-21]: Eingefügt durch Ziff. II Abs. 3 der V vom 21. Mai 2025, in Kraft seit 1. Juli 2025 ([AS 2025 382](https://fedlex.data.admin.ch/eli/oc/2025/382)).
+[^t-21]: Eingefügt durch Ziff. II Abs. 3 der V vom 21. Mai 2025 ([AS 2025 382](https://fedlex.data.admin.ch/eli/oc/2025/382)). Bereinigt gemäss Ziff. II Abs. 1 der V vom 27. Mai 2026, in Kraft seit 1. Juli 2026 ([AS 2026 300](https://fedlex.data.admin.ch/eli/oc/2026/300)).
 
 ### 1 Geltungsbereich
 
@@ -1047,7 +1051,7 @@ Anhang 1.23[^t-21]
 - 1\.2 Ausgenommen sind Smartphones, Mobiltelefone, die keine Smartphones sind, schnurlose Telefone und Slate-Tablets nach Artikel 1 Absatz 2 der Verordnung (EU) 2023/1670.
 - 1\.3 Es gelten die Begriffsbestimmungen nach Artikel 2 und Anhang I der Verordnung (EU) 2023/1670.
 
-[^annex123-lvlu1-lvl1-1]: Verordnung (EU) 2023/1670 der Kommission vom 16. Juni 2023 zur Festlegung von Ökodesign-Anforderungen an Smartphones, Mobiltelefone, die keine Smartphones sind, schnurlose Telefone und Slate-Tablets gemäss der Richtlinie 2009/125/EG des Europäischen Parlaments und des Rates und zur Änderung der Verordnung (EU) 2023/826 der Kommission, Fassung gemäss ABl. L 214 vom 31.8.2023, S. 47.
+[^annex123-lvlu1-lvl1-1]: Verordnung (EU) 2023/1670 der Kommission vom 16. Juni 2023 zur Festlegung von Ökodesign-Anforderungen an Smartphones, Mobiltelefone, die keine Smartphones sind, schnurlose Telefone und Slate-Tablets gemäss der Richtlinie 2009/125/EG des Europäischen Parlaments und des Rates und zur Änderung der Verordnung (EU) 2023/826 der Kommission, ABl. L 214 vom 31.8.2023, S. 47; geändert durch Verordnung (EU) 2025/2006, ABl. L, 2025/2006, 23.12.2025.
 
 ### 2 Anforderungen an das Inverkehrbringen und Abgeben
 
@@ -1076,14 +1080,14 @@ Anhang 2.1[^t-22]
 
 ## Anforderungen an die Energieeffizienz und an das Inverkehrbringen und Abgeben netzbetriebener elektrischer und elektronischer Haushalts- und Bürogeräte im Aus-Zustand, im Bereitschaftszustand und im vernetzten Bereitschaftsbetrieb
 
-[^t-22]: Fassung gemäss Ziff. II Abs. 2 der V vom 21. Mai 2025, in Kraft seit 1. Juli 2025 ([AS 2025 382](https://fedlex.data.admin.ch/eli/oc/2025/382)).
+[^t-22]: Fassung gemäss Ziff. II Abs. 2 der V vom 21. Mai 2025 ([AS 2025 382](https://fedlex.data.admin.ch/eli/oc/2025/382)). Bereinigt gemäss Ziff. II Abs. 1 der V vom 27. Mai 2026, in Kraft seit 1. Juli 2026 ([AS 2026 300](https://fedlex.data.admin.ch/eli/oc/2026/300)).
 
 ### 1 Geltungsbereich
 
 - 1\.1 Dieser Anhang gilt für netzbetriebene elektrische und elektronische Haushalts- und Bürogeräte im Aus-Zustand, im Bereitschaftszustand und im vernetzten Bereitschaftsbetrieb nach Artikel 1 und Anhang II der Verordnung (EU) 2023/826[^annex21-lvlu1-lvl1-1].
 - 1\.2 Es gelten die Begriffsbestimmungen nach Artikel 2 und Anhang I der Verordnung (EU) 2023/826.
 
-[^annex21-lvlu1-lvl1-1]: Verordnung (EU) 2023/826 der Kommission vom 17. April 2023 zur Festlegung von Ökodesign-Anforderungen an den Energieverbrauch elektrischer und elektronischer Haushalts- und Bürogeräte im Aus-Zustand, im Bereitschaftszustand und im vernetzten Bereitschaftsbetrieb gemäss der Richtlinie 2009/125/EG des Europäischen Parlaments und des Rates und zur Aufhebung der Verordnungen (EG) Nr. 1275/2008 und (EG) Nr. 107/2009 der Kommission, ABl. L 103 vom 18.4.2023, S. 29; zuletzt geändert durch Verordnung (EU) 2023/2533, ABl. L, 2023/2533, 22.11.2023.
+[^annex21-lvlu1-lvl1-1]: Verordnung (EU) 2023/826 der Kommission vom 17. April 2023 zur Festlegung von Ökodesign-Anforderungen an den Energieverbrauch elektrischer und elektronischer Haushalts- und Bürogeräte im Aus-Zustand, im Bereitschaftszustand und im vernetzten Bereitschaftsbetrieb gemäss der Richtlinie 2009/125/EG des Europäischen Parlaments und des Rates und zur Aufhebung der Verordnungen (EG) Nr. 1275/2008 und (EG) Nr. 107/2009 der Kommission, ABl. L 103 vom 18.4.2023, S. 29; zuletzt geändert durch Verordnung (EU) 2025/2262, ABl. L, 2025/2262, 20.11.2025.
 
 ### 2 Anforderungen an das Inverkehrbringen und Abgeben
 
@@ -1580,66 +1584,7 @@ Anhang 3.1[^t-35]
 
 Anhang 3.2[^t-36]
 
-(Art. 5 Abs. 1, 6 Abs. 1, 7 Abs. 1 und 8 Abs. 1)
-
-## Angabe des Energieverbrauchs und weiterer Eigenschaften netzbetriebener Haushaltskaffeemaschinen
-
-[^t-36]: Bereinigt gemäss Ziff. II Abs. 1 der V vom 22. April 2020 ([AS 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)) und vom 23. Nov. 2022 ([AS 2022 776](https://fedlex.data.admin.ch/eli/oc/2022/776)) und Ziff. I der V vom vom 24. Mai 2023, in Kraft seit 1. Juli 2023 ([AS 2023 280](https://fedlex.data.admin.ch/eli/oc/2023/280)).
-
-### 1 Geltungsbereich
-
-- 1\.1 Dieser Anhang gilt für netzbetriebene Haushaltskaffeemaschinen, namentlich für Espressomaschinen mit oder ohne Pumpe, Espressomaschinen für Kapseln und Portionen und Espressovollautomaten.
-- 1\.2 Ausgenommen sind Haushaltskaffeemaschinen, die auch mit anderen Energiequellen betrieben werden können, und drucklos arbeitende Filterkaffeemaschinen.
-
-### 2 Konformitätsbewertungsverfahren
-
-- 2\.1 Im Rahmen der Konformitätsbewertung werden die energieverbrauchsrelevanten Eigenschaften der Haushaltskaffeemaschinen nach Ziffer 1 gemäss der europäischen Norm EN 60661[^annex32-lvlu1-lvl2-1] gemessen und berechnet. Der jährliche Energieverbrauch errechnet sich über die Multiplikation des gemäss Norm ermittelten Energieverbrauchs mit 365; die technischen Unterlagen müssen die Ergebnisse der Messungen und Berechnungen enthalten.
-- 2\.2 Im Rahmen der Konformitätsüberprüfung testet die Kontrollstelle eine Haushaltskaffeemaschine anhand der Vorgaben und Methoden nach Ziffer 2.1; die Messwerte dürfen die deklarierten Werte nicht um mehr als 5 Prozent überschreiten.
-
-[^annex32-lvlu1-lvl2-1]: Die Norm kann kostenlos eingesehen und gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; [www.snv.ch](http://www.snv.ch/).
-
-### 3 Angabe des Energieverbrauchs und Kennzeichnung
-
-- 3\.1 Die Energieetikette muss mindestens 60 mm breit und 120 mm hoch sein. Wird die Energieetikette in einem grösseren Format gedruckt, so müssen die Proportionen der Spezifikationen gewahrt bleiben. Die grafischen Elemente werden proportional skaliert. Der Hintergrund ist weiss.
-
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/765/20260101/de/xml/image/image1.png)
-
-- A) Begrenzungslinie: 3 pt – abgerundete Ecken 2 mm – X-00-00-00
-- B) CH-Logo:Breite 8 mm, Höhe 8 mm – abgerundete Ecken 2 mm – 00‑X-X-00
-- C) Energie-Logo:Frutiger LT Std Black Condensed – 19/22 pt und Frutiger LT Std Black Condensed – 10/12 pt – 00-00-00-00 – Fläche: Breite 47 mm, Höhe 8 mm – X-00-00-00
-- D) Name und Marke des Herstellers I + II: Frutiger LT Std Bold Condensed – 7,5/8,5 pt – 00-00-00-X und Frutiger LT Std Light Condensed, 7,5/8,5 pt – Versalbuchstaben – 00-00-00-X
-- E) Trennlinie unter dem Etikettenkopf: 1,5 pt – Breite 56 mm – X-00-00-00
-- F)
-
-  Skala der Energieeffizienzklassen Pfeil: Breite kürzester Pfeil 26 mm, Differenz zum folgenden Pfeil jeweils 2 mm, Pfeil: Höhe 4 mm – Zwischenraum: 0,75 mm – Farben:
-
-  - [tab] Höchste Effizienzklasse X-00-X-00
-  - [tab] Zweite Effizienzklasse 70-00-X-00
-  - [tab] Dritte Effizienzklasse 30-00-X-00
-  - [tab] Vierte Effizienzklasse 00-00-X-00
-  - [tab] Fünfte Effizienzklasse 00-30-X-00
-  - [tab] Sechste Effizienzklasse 00-70-X-00
-  - [tab] Letzte Effizienzklasse 00-X-X-00
-  - [tab] Frutiger LT Std Black Condensed – 11 pt – Versalbuchstaben – 00‑00‑00-00 – «+»-Symbol hochgestellt – Grösse 70 %, Position 33,3 %
-
-- G) Energieeffizienzklasse: Pfeil: Breite 15 mm, Höhe 8 mm, 00-00-00-X – Frutiger LT Std Black Condensed – 15 pt – Versalbuchstaben – 00‑00‑00-00 – «+»-Symbol hochgestellt – Grösse 70 %, Position 33,3 %
-- H) Jährlicher Energieverbrauch: 1,5 pt – X-00-00-00 – abgerundete Ecken: 2 mm – Frutiger LT Std Black Condensed – 15/12 pt – 00-00-00-X und Frutiger LT Std Black Condensed – 11/12 pt – 00-00-00-X
-- I) Norm Frutiger LT Std light — 6/7 pt — 00-00-00-X
-
-- 3\.2 Die Einteilung der Effizienzklasse erfolgt nach folgendem Raster entsprechend der europäischen Norm EN 60661.
-  - [tab] A+++: &lt; 37 %
-  - [tab] A++: 37 % ≤ x &lt; 46 %
-  - [tab] A+: 46 % ≤ x &lt; 58 %
-  - [tab] A: 58 % ≤ x &lt; 72 %
-  - [tab] B: 72 % ≤ x &lt; 90 %
-  - [tab] C: 90 % ≤ x &lt; 112 %
-  - [tab] D: 112 % ≤ x
-
-- 3\.3 Beim Internetverkauf ist der Anzeigemechanismus der Energieetikette in der Nähe des Produktpreises darzustellen. Die Grösse ist so zu wählen, dass die Energieetikette gut sichtbar und leserlich ist; die Proportionen müssen der in Ziffer 3.1 festgelegten Grösse entsprechen.
-- 3\.4 Die Energieetikette kann beim Internetverkauf mit Hilfe einer geschachtelten Anzeige dargestellt werden, wobei das für den Zugang zur Energieetikette verwendete Bild den Vorgaben in Ziffer 3.5 entsprechen muss. Mit dem ersten Mausklick respektive beim Rollover über das Bild muss die ganze Energieetikette erscheinen.
-- 3\.5 Das für den Zugang zur Energieetikette genutzte Bild muss bei der geschachtelten Anzeige beim Internetverkauf ein Pfeil in der Farbe der Energieeffizienzklasse des Produkts auf der Energieetikette sein. Der Pfeil muss die Energieeffizienzklasse des Produkts in Weiss in einer Schriftgrösse, die der des Preises entspricht, enthalten und einem der folgenden zwei Formate entsprechen:
-
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/765/20260101/de/xml/image/image2.png)
+[^t-36]: Aufgehoben durch Ziff. II Abs. 2 der V vom 27. Mai 2026, mit Wirkung seit 1. Juli 2026 ([AS 2026 300](https://fedlex.data.admin.ch/eli/oc/2026/300)).
 
 Anhang 4.1[^t-37]
 
@@ -1744,11 +1689,11 @@ Für das Jahr 2020 gelten als aktuelle Fahrzeugtypen im Sinne von Ziffer 3.3 typ
 
 ### 10 Beispiel der Darstellung der Energieetikette
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/765/20260101/de/xml/image/image3.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/765/20260701/de/xml/image/image1.png)
 
 ### 11 Beispiel der Darstellung der Skala der Energieeffizienz-Kategorien
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/765/20260101/de/xml/image/image4.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/765/20260701/de/xml/image/image2.png)
 
 Anhang 4.2[^t-38]
 
