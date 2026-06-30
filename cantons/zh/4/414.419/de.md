@@ -3,315 +3,617 @@ canton: ZH
 number: "414.419"
 title: Rahmenordnung zu den Weiterbildungsangeboten an der Pädagogischen Hochschule Zürich
 language: de
-version: "2019-09-01"
-nachtrag: "106"
-valid_until: 2026-07-01
+nachtrag: "133"
 adopted: 2026-03-17
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-414_419-2010_07_12-2010_07_01-106.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-414_419-2026_03_17-2026_07_01-133.html"
 text: pdf
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZH. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Weisung zu Weiterbildungsveranstaltungen der Pädagogischen Hochschule Zürich
+# Rahmenordnung zu den Weiterbildungsangeboten an der Pädagogischen Hochschule Zürich
 
-(vom 12. Juli 2010)[^t-1]
+(vom 17. März 2026)[^t-1]
 
-Die Hochschulleitung,
+Der Fachhochschulrat
 
-gestützt auf § 24 Abs. 2 des Fachhochschulgesetzes vom 2. April 2007[^t-2],
+gestützt auf § 10 Abs. 4 lit. d des Fachhochschulgesetzes vom 2. April 2007 (FaHG)[^t-2],
 
 beschliesst:
 
-[^t-1]: OS 65, 602; Begründung siehe ABl 2010, 1746.
+[^t-1]: OS 81, 282; Begründung siehe ABl 2026-03-27.
 [^t-2]: LS 414.10.
 
-### A. Allgemeine Bestimmungen
+### 1. Abschnitt: Allgemeine Bestimmungen
 
-**Geltungsbereich**
+#### § 1
 
-§ 1.[^hAAllgemeineBestim-1] <sup>1</sup> Die vorliegende Weisung regelt folgende Weiterbildungsveranstaltungen der Pädagogischen Hochschule Zürich (PHZH):[^hAAllgemeineBestim-2] a. Diplomlehrgänge / Diploma of Advanced Studies (DAS),
+**Gegenstand und Geltungsbereich**
 
-- b. Zertifikatslehrgänge / Certificate of Advanced Studies (CAS),
+<sup>1</sup> Diese Rahmenordnung regelt die Grundlagen für die folgenden Weiterbildungsangebote an der Pädagogischen Hochschule Zürich (PHZH) und am Institut Unterstrass:
 
-- c. Einzelmodule und Modulgruppen (Module),
+- a. Weiterbildungs-Masterstudiengänge / Master of Advanced Studies, nachfolgend MAS genannt,
 
-- d. Kurse.
+- b. Diplomlehrgänge / Diploma of Advanced Studies, nachfolgend DAS genannt,
 
-<sup>2</sup> Auf weitere Weiterbildungsveranstaltungen ist sie analog anwendbar.
+- c. Zertifikatslehrgänge / Certificate of Advanced Studies, nachfolgend CAS genannt,
 
-<sup>3</sup> Vom Geltungsbereich ausgenommen sind Weiterbildungsveranstaltungen, die die PHZH gemeinsam mit Partnern oder im Auftrag Dritter anbietet und die sich nach vereinbarten und publizierten Zulassungs-, Abschluss- und Gebührenregelungen richten. Die entsprechende Vereinbarung kann die vorliegende Weisung als anwendbar erklären.
+- d. Einzelmodule und Modulgruppen in der Weiterbildung, für die ECTS-Punkte (CP) vergeben werden, nachfolgend Module genannt,
 
-<sup>4</sup> Für das Diplomstudium zum Master of Advanced Studies (MAS) besteht ein Diplomreglement.
+- e. Weiterbildungskurse und weitere kleinformatige Weiterbildungen, für die in der Regel keine ECTS-Punkte (CP) vergeben werden, nachfolgend Kurse genannt.
 
-**Ausführungsbestimmungen**
+<sup>2</sup> Sie ist auf weitere Weiterbildungsangebote der PHZH analog anwendbar.
 
-§ 2.[^hAAllgemeineBestim-2] Das Prorektorat Weiterbildung und Dienstleistungen erlässt eine Richtlinie zu dieser Weisung.
+<sup>3</sup> Soweit nicht anders vereinbart, sind Weiterbildungsangebote vom Geltungsbereich ausgenommen, welche die PHZH gemeinsam mit Partnerinnen oder Partnern oder im Auftrag Dritter anbietet und die sich nach vereinbarten und publizierten Zulassungs-, Abschluss- und Gebührenregelungen richten. Die entsprechende Vereinbarung kann die vorliegende Rahmenordnung als anwendbar erklären.
 
-**Teilnahme- und Annullationsgebühren**
-
-§ 3.[^hAAllgemeineBestim-3] <sup>1</sup> Die Gebühren für Weiterbildungsveranstaltungen und deren Annullation richten sich nach der Weisung zu den Gebühren der Pädagogischen Hochschule Zürich[^hAAllgemeineBestim-4].
-
-<sup>2</sup> Die Berechnung der Gebühr für einen DAS-Lehrgang entspricht jener für einen CAS-Lehrgang.[^hAAllgemeineBestim-5]
-
-§ 4.[^hAAllgemeineBestim-6]
+<sup>4</sup> Ergänzend zur vorliegenden Rahmenordnung werden die besonderen Bestimmungen in angebotsspezifischen Erlassen oder Angebotsbeschreibungen geregelt.
 
 **1**
 
-- 1\. 10. 19 - 106 § 5.[^hAAllgemeineBestim-2] Erfindungen, Designs und urheberrechtlich geschützte Werke, die im Verlauf einer Weiterbildungsveranstaltung von einer Teilnehmerin oder einem Teilnehmer geschaffen werden, können von der PHZH gestützt auf eine entsprechende Vereinbarung mit der Schöpferin oder dem Schöpfer verwendet werden. Die Weisung zum Umgang mit geistigem Eigentum an der PHZH gilt analog.
+- 1\. 7. 26 - 133 § 2. <sup>1</sup> Für jedes Weiterbildungsangebot gemäss § 1 Abs. 1 gibt es eine zuständige Angebotsleitung.
 
-[^hAAllgemeineBestim-1]: Fassung gemäss B vom 17. September 2014 (OS 69, 510; ABl 2014-09-26). In Kraft seit 1. Januar 2015.
-[^hAAllgemeineBestim-2]: Fassung gemäss B vom 29. Mai 2019 (OS 74, 467; ABl 2019-06-14). In Kraft seit 1. September 2019.
-[^hAAllgemeineBestim-3]: Fassung gemäss B vom 17. September 2014 (OS 69, 510; ABl 2014-09-26). In Kraft seit 1. Oktober 2015 (OS 70, 273).
-[^hAAllgemeineBestim-4]: LS 414.410.5.
-[^hAAllgemeineBestim-5]: Eingefügt durch B vom 29. Mai 2019 (OS 74, 467; ABl 2019-06-14). In Kraft seit 1. September 2019.
-[^hAAllgemeineBestim-6]: Aufgehoben durch B vom 17. September 2014 (OS 69, 510; ABl 2014-09-26). In Kraft seit 1. Oktober 2015 (OS 70, 273).
+**Angebotsleitung**
+
+<sup>2</sup> Soweit in dieser Rahmenordnung nichts Abweichendes bestimmt ist, obliegt der zuständigen Abteilungsleitung die Verantwortung für die Konzeption sowie die Durchführung des entsprechenden Weiterbildungsangebots.
+
+#### § 3
+
+**Zuständigkeiten**
+
+<sup>1</sup> Der Fachhochschulrat bewilligt neue MAS auf Antrag der Hochschulleitung.
+
+<sup>2</sup> Die Hochschulleitung erlässt die Studienordnungen für MAS.
+
+<sup>3</sup> Die Hochschulleitung legt das Angebot an DAS fest.
+
+<sup>4</sup> Die Prorektorin oder der Prorektor Weiterbildung und Dienstleistungen legt das Angebot an CAS fest.
+
+<sup>5</sup> Die Prorektorin oder der Prorektor Weiterbildung und Dienstleistungen kann für DAS und CAS Lehrgangsordnungen erlassen.
+
+<sup>6</sup> Die zuständige Zentrumsleitung entscheidet über das Angebot an Modulen gemäss § 1 Abs. 1 lit. d und Kursen gemäss § 1 Abs. 1 lit. e.
+
+### 2. Abschnitt: Weiterbildungsangebote
+
+### A. Allgemeines
+
+#### § 4
+
+**Form, Inhalt und Aufbau**
+
+<sup>1</sup> Weiterbildung kann in unterschiedlichen organisatorischen Formaten stattfinden und fachwissenschaftliche, berufliche, allgemeinbildende sowie persönlichkeitsbildende Bildungsinhalte umfassen.
+
+<sup>2</sup> Die Weiterbildungsangebote können öffentlich oder für einen eingeschränkten Personenkreis angeboten werden.
+
+<sup>3</sup> Aufbau und Struktur von MAS, DAS, CAS, Modulen und Kursen werden in den jeweiligen Angebotsbeschreibungen geregelt.
+
+<sup>4</sup> MAS, DAS und CAS sind modular aufgebaut.
+
+<sup>5</sup> Ein Modul ist eine Lehr- und Lerneinheit mit einem bestimmten thematischen oder inhaltlichen Schwerpunkt. Module können als Teil eines MAS, DAS oder CAS oder eigenständig als Einzelmodule ausgeschrieben werden.
+
+<sup>6</sup> Mehrere Kurse können zu einem Modul mit Vergabe von ECTS-Punkten (CP) zusammengefasst werden, sofern ein entsprechender Leistungsnachweis vorgesehen und erfolgreich erbracht wird.
+
+#### § 5
+
+**ECTS-Punkte (CP)**
+
+<sup>1</sup> Die Weiterbildungsangebote gemäss § 1 Abs. 1 lit. a–d orientieren sich an den Rahmenbedingungen des European Credit Transfer and Accumulation System (ECTS). Für diese Weiterbildungsangebote werden ECTS-Punkte (CP) vergeben.
+
+<sup>2</sup> Ein ECTS-Punkt (CP) entspricht 25 bis 30 Stunden Arbeitsleistung einer oder eines durchschnittlich begabten Studierenden.
+
+<sup>3</sup> Eine Vergabe von ECTS-Punkten (CP) erfolgt nach der Erfüllung der in den angebotsspezifischen Erlassen oder der jeweiligen Angebotsbeschreibung festgelegten Anforderungen bzw. nach Bestehen des entsprechenden Leistungsnachweises.
 
 #### § 6
 
-**Urheberrecht**
+**Umfang von MAS, DAS, CAS und Modulen**
 
-**Vertraulichkeit**
+<sup>1</sup> Ein MAS umfasst mindestens 60 ECTS-Punkte (CP).
 
-Die PHZH verpflichtet sich zu einem vertraulichen Umgang mit vertraulichen Informationen, die sie von Teilnehmerinnen und Teilnehmern einer Weiterbildungsveranstaltung erhält.
+<sup>2</sup> Ein DAS umfasst mindestens 30 ECTS-Punkte (CP).
 
-### B. Zulassung
+<sup>3</sup> Ein CAS umfasst mindestens 10 ECTS-Punkte (CP).
 
-**Zulassung zu CAS und DAS**
+<sup>4</sup> Module umfassen 1, 1,5, 2, 3, 6 oder 12 ECTS-Punkte (CP).
 
-§ 7.[^hBZulassung-1] <sup>1</sup> Voraussetzung für die ordentliche Zulassung zu einem CAS und DAS sind ein von der EDK anerkanntes Lehrdiplom oder ein Hochschulabschluss sowie eine mindestens dreijährige Berufserfahrung im Umfang von mindestens 50 Stellenprozenten. Bei ausgewählten Angeboten kann in der Ausschreibung die Aufnahme auf eine bestimmte Zielgruppe, wie z.B. Schulleitungspersonen oder Hochschuldozierende, beschränkt werden.
+#### § 7
 
-<sup>2</sup> Personen, die nicht über einen Hochschulabschluss oder ein von der EDK anerkanntes Lehrdiplom verfügen oder nicht der in der Ausschreibung bestimmten Zielgruppe angehören, können «sur dossier» zugelassen werden, sofern sich die Befähigung zur Teilnahme aus einem anderen Nachweis ergibt. Das Prorektorat Weiterbildung und Dienstleistungen kann bei einzelnen CAS oder DAS eine anteilmässige Beschränkung der «sur dossier»-Aufnahmen vornehmen. Ansonsten gelten die gleichen Voraussetzungen wie für die ordentliche Zulassung. Zudem können für die Zulassung ausreichende Deutschkenntnisse verlangt werden.
+**Gültigkeit von ECTS-Punkten (CP)**
 
-<sup>3</sup> Vorbehalten bleibt die Nichtaufnahme wegen beschränkter Platzzahl (vgl. § 11).
+Die an der PHZH in einem Weiterbildungsangebot erworbenen ECTS-Punkte (CP) sind bis sieben Jahre nach Erwerb für Weiterbildungsangebote unter der Federführung der PHZH anrechenbar. Für einzelne Angebote kann von der zuständigen Angebotsleitung eine längere Frist der Anrechnung gewährt werden.
 
-<sup>4</sup> Der Entscheid über die Zulassung liegt bei der Abteilungsleitung. Sie kann den Entscheid delegieren.
-
-[^hBZulassung-1]: Fassung gemäss B vom 29. Mai 2019 (OS 74, 467; ABl 2019-06-14). In Kraft seit 1. September 2019.
-[^hBZulassung-2]: Fassung gemäss B vom 25. März 2015 (OS 70, 177; ABl 2015-04-10). In Kraft seit 1. Juli 2015.
+[^7-1]: LS 414.410.5. 1. 7. 26 - 133 15
 
 #### § 8
 
-**Zulassung zu Modulen, Kursen und weiteren Veranstaltungen**
+**Gebühren**
 
-<sup>1</sup> Die Teilnahme an Modulen, Kursen und Weiterbildungsveranstaltungen gemäss § 1 Abs. 2 steht grundsätzlich allen interessierten Personen ab dem 17. Altersjahr offen. Bei ausgewählten Angeboten kann die Aufnahme in der Ausschreibung auf eine bestimmte Zielgruppe, wie zum Beispiel Schulleitungspersonen oder Hochschuldozierende, beschränkt werden. Zudem können für die Zulassung ausreichende Deutschkenntnisse verlangt werden.[^hBZulassung-2]
+<sup>1</sup> Die Gebühren für Weiterbildungsangebote und deren Annullation richten sich nach der Weisung zu den Gebühren der Pädagogischen Hochschule Zürich[^7-1].
 
-<sup>2</sup> Vorbehalten bleibt die Nichtaufnahme wegen beschränkter Platzzahl (vgl. § 11).
+<sup>2</sup> Die Berechnung der Gebühren für einen DAS entspricht jener für einen CAS.
 
-**Verweigerung der Zulassung aus wichtigen Gründen**
+### B. Zulassung
 
-§ 9.[^8-1] Auf Antrag der Abteilungsleitung kann die Prorektorin oder der Prorektor Weiterbildung und Dienstleistungen die Zulassung verweigern, wenn wichtige Gründe in der Person der oder des Interessierten vorliegen, namentlich wenn diese krass oder wiederholt die Interessen der PHZH verletzt hat (z.B. Missachtung von für die PHZH geltenden Vorschriften, Störung oder anderweitige Beeinträchtigung von Veranstaltungen oder des Betriebs, Belästigung oder Bedrohung von Angehörigen oder Gästen der PHZH, Nichtbezahlung von Rechnungen der PHZH trotz Mahnung).
+#### § 9
 
-[^8-1]: Fassung gemäss B vom 29. Mai 2019 (OS 74, 467; ABl 2019-06-14). In Kraft seit 1. September 2019.
+**Zulassung zu MAS, DAS oder CAS**
 
-### C. Aufnahmeverfahren
+Die ordentliche Zulassung zu einem MAS, DAS oder CAS erfordert:
+
+- a. einen Hochschulabschluss einer staatlich anerkannten universitären Hochschule, Fachhochschule oder pädagogischen Hochschule oder einen gleichwertigen Abschluss und
+
+- b. Praxiserfahrung.
 
 #### § 10
 
-**Anmeldung**
+**Zulassung zu MAS, DAS oder CAS, die zu einem EDKanerkannten Abschluss führen**
 
-<sup>1</sup> Die Anmeldung zu einer Weiterbildungsveranstaltung erfolgt mittels Anmeldeformular oder online beim zuständigen Sekretariat innert der Anmeldefrist und unter Beilage der erforderlichen Unterlagen.
-
-<sup>2</sup> Sowohl schriftliche Anmeldungen wie Online-Anmeldungen sind verbindlich.
-
-**Aufnahme**
-
-§ 11.[^10-1] <sup>1</sup> Haben sich für eine Weiterbildungsveranstaltung mehr Personen angemeldet, als Plätze zur Verfügung stehen, trifft die Abteilungsleitung nach der Reihenfolge des Eingangs der Anmeldungen oder aufgrund von in der Ausschreibung festgelegten Kriterien die Auswahl der Teilnehmerinnen und Teilnehmer. In der Regel besteht die Möglichkeit, sich in eine Warteliste eintragen zu lassen.
-
-<sup>2</sup> Die Abteilungsleitung kann den Entscheid gemäss Abs. 1 delegieren.
-
-<sup>3</sup> Die Abteilungsleitung kann für die einzelnen Angebote das Niveau der Deutschkenntnisse und die Zertifikate festlegen, mit denen der Nachweis erbracht werden kann. Für Teilnehmerinnen und Teilnehmer ohne deutschsprachigen Vorbildungsausweis auf Sekundarstufe II kann sie zusätzlich eine interne Deutschprüfung anordnen.
-
-<sup>4</sup> Mit der schriftlichen oder elektronischen Bestätigung der Anmeldung ist die Aufnahme definitiv. Vorbehalten bleiben Absagen wegen Nichterreichung der Mindestzahl von Teilnehmerinnen und Teilnehmern (vgl. § 12).[^10-2]
-
-<sup>5</sup> Die Aufnahme berechtigt zur Teilnahme an der Weiterbildungsveranstaltung. Es erfolgt keine Immatrikulation.
+<sup>1</sup> Für MAS, DAS oder CAS, die zu einem von der Konferenz der kantonalen Erziehungsdirektorinnen und -direktoren (EDK) anerkannten Abschluss führen, gelten die von der EDK definierten Zulassungsvoraussetzungen.
 
 **3**
 
-**Beschreibungen der Weiterbildungsveranstaltungen**
+- 1\. 7. 26 - 133
 
-- 1\. 10. 19 - 106 § 12.[^10-1] Die Abteilungsleitung kann eine Weiterbildungsveranstaltung absagen, wenn die Mindestzahl von Teilnehmerinnen und Teilnehmern bis zum Anmeldeschluss nicht erreicht wird. Sie kann den Entscheid delegieren.
+<sup>2</sup> Die Zulassungsvoraussetzungen werden in den jeweiligen angebotsspezifischen Erlassen oder den Angebotsbeschreibungen festgehalten.
 
-**Entscheid über die Durchführung**
+#### § 11
 
-**Anerkennung von Leistungen**
+**Weitere Bestimmungen zu den Zulassungsvoraussetzungen**
 
-§ 13.[^10-1] <sup>1</sup> Als Teil eines CAS- oder DAS-Lehrgangs sowie für eine Modulgruppe können auf Gesuch hin absolvierte Weiterbildungen oder anderweitig erworbene Kompetenzen ganz oder teilweise anerkannt werden.
+<sup>1</sup> Die jeweiligen angebotsspezifischen Erlasse oder die Angebotsbeschreibungen können abweichende oder ergänzende Zulassungsvoraussetzungen definieren.
 
-<sup>2</sup> . . .[^10-3]
+<sup>2</sup> Über die ordentliche Zulassung entscheidet die zuständige Angebotsleitung.
 
-<sup>3</sup> Für Einzelmodule, Kurse, die Diplom- oder Zertifikatsarbeit und an Weiterbildungsveranstaltungen gemäss § 1 Abs. 2 werden keine früher erbrachten Leistungen anerkannt.
+<sup>3</sup> Die Zulassungsentscheidung bei Aufnahmen «sur dossier» richtet sich nach § 12.
 
-<sup>4</sup> Der Entscheid über die Anerkennung liegt bei der Abteilungsleitung. Sie kann den Entscheid delegieren.
+<sup>4</sup> Es besteht kein Anspruch auf Zulassung.
 
-<sup>5</sup> Die Richtlinie regelt den Umfang der möglichen Anerkennungen, die weiteren Anerkennungsbedingungen und das Verfahren.
+#### § 12
 
-[^10-1]: Fassung gemäss B vom 29. Mai 2019 (OS 74, 467; ABl 2019-06-14). In Kraft seit 1. September 2019.
-[^10-2]: Fassung gemäss B vom 19. Dezember 2012 (OS 68, 114; ABl 2013-01-18). In Kraft seit 1. April 2013.
-[^10-3]: Aufgehoben durch B vom 29. Mai 2019 (OS 74, 467; ABl 2019-06-14). In Kraft seit 1. September 2019. 1. 10. 19 - 106 9
+**Aufnahme «sur dossier»**
+
+<sup>1</sup> Personen, welche die Voraussetzungen für eine ordentliche Zulassung nicht erfüllen, können auf Basis einer individuellen Prüfung «sur dossier» zugelassen werden, wenn sie über äquivalente Kompetenzen und Praxiserfahrung im jeweiligen Fachgebiet verfügen.
+
+<sup>2</sup> Interessierte reichen die erforderlichen Unterlagen (Motivationsschreiben, Lebenslauf, Diplom- und Zeugniskopien, Arbeitsbestätigungen und -zeugnisse) elektronisch der zuständigen Geschäftsstelle ein.
+
+<sup>3</sup> Die zuständige Angebotsleitung prüft anhand der eingereichten Unterlagen die Äquivalenz der Kompetenzen sowie der Praxiserfahrung in Bezug auf die für eine Aufnahme geforderten formalen Qualifikationen sowie die spezifischen Kompetenzprofile des entsprechenden MAS, DAS oder CAS.
+
+<sup>4</sup> Die zuständige Abteilungsleitung kann die Bewerberin oder den Bewerber zu einem persönlichen Gespräch einladen.
+
+<sup>5</sup> Über die Zulassung entscheidet die zuständige Abteilungsleitung auf Antrag der zuständigen Angebotsleitung.
+
+[^12-1]: LS 414.101.
+
+#### § 13
+
+**Immatrikulation**
+
+Die Teilnehmenden von MAS werden für das MAS-Diplomstudium immatrikuliert und gelten als Studierende in der Weiterbildung gemäss Verordnung zum Fachhochschulgesetz vom 8. April 2009 (VFaHG)[^12-1].
 
 #### § 14
 
-**Auflösung des Weiterbildungsverhältnisses**
+**Zulassung zu Modulen und Kursen**
 
-<sup>1</sup> Auf Antrag der Abteilungsleitung kann die Prorektorin oder der Prorektor Weiterbildung und Dienstleistungen das Weiterbildungsverhältnis mit einer dreissigtägigen Frist auf das Ende eines Semesters auflösen, wenn wichtige Gründe in der Person der Teilnehmerin oder des Teilnehmers analog § 9 vorliegen.[^10-1]
+<sup>1</sup> Die Teilnahme an Modulen, die als Einzelmodule ausserhalb eines MAS, DAS oder CAS angeboten werden, und die Teilnahme an Kursen steht grundsätzlich allen interessierten Personen ab dem 17. Altersjahr offen.
 
-<sup>2</sup> Ist die Weiterführung des Weiterbildungsverhältnisses für die PHZH nicht zumutbar, kann es fristlos aufgelöst werden.
+<sup>2</sup> Die Zulassungsvoraussetzungen oder allfällige Zulassungsbeschränkungen werden in der jeweiligen Angebotsbeschreibung geregelt.
 
-### D. Leistungsnachweise
+<sup>3</sup> Über die Aufnahme entscheidet die zuständige Angebotsleitung.
 
-**Umfang der Weiterbildungsveranstaltungen**
+<sup>4</sup> Es besteht kein Anspruch auf Zulassung.
 
-§ 15.[^hDLeistungsnachweis-1] Weiterbildungsveranstaltungen sind inhaltlich und zeitlich abgeschlossene Lehr- und Lerneinheiten. Der Umfang von DAS, CAS und Modulen wird in Arbeitsleistung und ECTS-Punkten bemessen. Dabei gilt:
+#### § 15
 
-- a. ein DAS umfasst mindestens 900 Stunden Arbeitsleistung,
+**Zulassung weiterführende und aufbauende Weiterbildungsangebote**
 
-- b. ein CAS umfasst mindestens 300 Stunden Arbeitsleistung,
+<sup>1</sup> Die Teilnahme an einem Kurs oder einem Einzelmodul sowie die Zulassung zu einem CAS oder DAS als eigenständiger Lehrgang begründet keinen Anspruch auf Zulassung zu einem weiterführenden oder aufbauenden Weiterbildungsangebot, in dem das betreffende Modul, der CAS oder der DAS Bestandteil ist.
 
-- c. ein Modul verlangt pro erwerbbarem ECTS-Punkt eine Arbeitsleistung von 30 Stunden.
+<sup>2</sup> Die Anrechnung von absolvierten Modulen, CAS oder DAS auf weiterführende und aufbauende Weiterbildungsangebote ist möglich, sofern die jeweiligen Zulassungsvoraussetzungen erfüllt sind und die Bestimmungen des betreffenden Weiterbildungsangebots dies vorsehen.
 
-§ 16.[^hDLeistungsnachweis-1] Die Inhalte der Weiterbildungsveranstaltungen werden von der Abteilungsleitung festgelegt. Sie kann diese Aufgabe delegieren. § 17.[^hDLeistungsnachweis-1] <sup>1</sup> Ein Leistungsnachweis ist ein Nachweis über das Erreichen von gesetzten Lernzielen in einem DAS, CAS oder einem Modul. Er orientiert sich an wissenschaftlichen Standards.
+#### § 16
 
-**Formen der Leistungsnachweise**
+**Sprachkenntnisse**
 
-<sup>2</sup> Leistungsnachweise werden in der Regel als Einzel- oder Gruppenarbeiten erbracht, namentlich als a. schriftliche, mündliche oder computerbasierte Prüfungen,
+<sup>1</sup> Für die Zulassung können ausreichende Deutschkenntnisse vorausgesetzt werden.
 
-- b. schriftliche Arbeiten, Übungen, Fallstudien, Rezensionen oder Berichte,
+<sup>2</sup> Die zuständige Angebotsleitung legt fest, welcher Grad an Deutschkenntnissen erforderlich ist und in welcher Form sowie durch welche Nachweise diese Kenntnisse zu belegen sind.
 
-- c. Projektarbeiten,
+### C. Organisation und Verfahren
 
-- d. Referate,
+#### § 17
 
-- e. Diplom- oder Zertifikatsarbeit.
+**Informationspflicht und Erreichbarkeit**
 
-[^hDLeistungsnachweis-1]: Fassung gemäss B vom 29. Mai 2019 (OS 74, 467; ABl 2019-06-14). In Kraft seit 1. September 2019.
+<sup>1</sup> Die Teilnehmenden sind verpflichtet:
+
+- a. sich regelmässig über die von der PHZH zur Verfügung gestellten Informationskanäle über sämtliche für Weiterbildungsangebote relevanten Belange, insbesondere über geltende Erlasse und Fristen, zu informieren,
+
+- b. auf der in ihrem Benutzungskonto hinterlegten elektronischen Zustelladresse (E-Mail-Account) und an ihrer Wohnadresse erreichbar zu sein,
+
+- c. die Posteingänge gemäss lit. b regelmässig, mindestens wöchentlich, zu sichten.
+
+<sup>2</sup> Elektronisch bereitgestellte Verfügungen und Entscheide gelten am siebten Tag, nachdem sie per E-Mail von der PHZH verschickt worden sind, als verbindlich zugestellt und empfangen, wobei der Eingangstag nicht mitgezählt wird.
 
 #### § 18
 
-**Bewertung und Bestehen**
+**Änderung persönlicher Daten**
 
-<sup>1</sup> Ein Leistungsnachweis wird mit dem Prädikat «bestanden» oder «nicht bestanden» bewertet.
+<sup>1</sup> Die Teilnehmenden sind verpflichtet, Änderungen ihrer elektronischen Zustelladresse oder ihrer Wohnadresse unverzüglich im persönlichen Benutzungskonto selbstständig vorzunehmen oder der zuständigen Geschäftsstelle zu melden.
 
-<sup>2</sup> Die Abteilungsleitung legt die Anforderungen für das Bestehen eines Leistungsnachweises fest und publiziert sie in geeigneter Form, wobei sie diese Aufgabe delegieren kann.[^18-1]
-
-<sup>3</sup> Nicht bestandene Leistungsnachweise können einmal wiederholt oder überarbeitet werden. Die Wiederholung oder Überarbeitung hat innert Frist zu erfolgen. Diese wird durch die den Leistungsnachweis beurteilende Person festgelegt. Leistungsnachweise, die bei der Wiederholung oder nach der Überarbeitung den Anforderungen nicht genügen, werden mit «definitiv nicht bestanden» beurteilt.[^18-1]
-
-<sup>4</sup> Nicht erbrachte oder verspätet abgegebene Leistungsnachweise gelten als nicht bestanden. Sie sind innert einer Nachfrist einzureichen. Diese wird durch die den Leistungsnachweis beurteilende Person festgelegt. Die nachgereichten Leistungsnachweise werden mit «bestanden» oder «definitiv nicht bestanden» bewertet. Eine Wiederholungs- oder Überarbeitungsmöglichkeit besteht nicht. Vorbehalten bleiben unverschuldete und rechtzeitig bekannt gemachte Verhinderungsgründe (vgl. § 20).
-
-<sup>5</sup> Die Gebühren für Wiederholungen richten sich nach der Weisung zu den Gebühren der Pädagogischen Hochschule Zürich[^18-2].[^18-3]
-
-**Definitiv nicht bestandene Leistungsnachweise**
-
-§ 19.[^18-1] <sup>1</sup> Wer in einem CAS oder DAS einen Leistungsnachweis für die vorgegebenen Module definitiv nicht besteht, erhält kein Zertifikat oder Diplom, sondern lediglich eine Bestätigung der tatsächlich erbrachten Leistungen.
-
-<sup>2</sup> Ein individuell wählbares Modul eines CAS oder DAS oder ein Modul, das ausserhalb eines CAS oder DAS besucht wird, kann bei definitivem Nichtbestehen ganz wiederholt oder durch ein anderes Modul substituiert werden.
+<sup>2</sup> Elektronische Zustellungen sowie Postzustellungen an die bei der PHZH hinterlegten Zustelladressen gelten als rechtmässig erfolgt, wenn Änderungen von den Teilnehmenden nicht fristgerecht vorgenommen wurden.
 
 **5**
 
-- 1\. 10. 19 - 106 § 20. <sup>1</sup> Tritt vor oder während der Erbringung eines Leistungsnachweises ein unverschuldeter Verhinderungsgrund ein, ist unmittelbar nach dessen Kenntnis ein schriftliches Verschiebungs- oder Fristerstreckungsgesuch bei der den Leistungsnachweis beurteilenden Person einzureichen. Verhinderungsgründe sind zu belegen, insbesondere ist bei Krankheit oder Unfall ein ärztliches Zeugnis einzureichen.
+- 1\. 7. 26 - 133
 
-**Verhinderungsgrund**
+<sup>3</sup> Änderungen von persönlichen Daten, insbesondere Namen, Zivilstand, Geschlecht, Heimatort, sind umgehend unter Vorlage der entsprechenden amtlichen Dokumente persönlich bei der zuständigen Geschäftsstelle zu melden.
 
-<sup>2</sup> Das Geltendmachen von Verhinderungsgründen, die sich auf bereits erbrachte und bewertete Leistungsnachweise beziehen, ist ausgeschlossen.
+#### § 19
 
-**Abschlussarbeiten**
+**Mitteilung der Bewertungen**
 
-§ 21.[^18-1] <sup>1</sup> Für die Erstellung einer Zertifikats- oder Diplomarbeit sind die allgemeinen Vorgaben des Leitfadens für schriftliche Arbeiten sowie die spezifischen Vorgaben der Abteilungsleitung zu beachten.
+Die Bewertungen von Leistungsnachweisen und Abschlussarbeiten werden den Teilnehmenden in elektronischer Form mitgeteilt.
 
-<sup>2</sup> Die Lehrgangsleitung beauftragt eine Gutachterin oder einen Gutachter aus dem Kreis der Dozierenden oder wissenschaftlichen Mitarbeitenden oder eine externe Fachperson mit der Betreuung und Beurteilung der Abschlussarbeit. Die Lehrgangsleitung kann auch selbst die Gutachtertätigkeit übernehmen. Die Gutachterin oder der Gutachter muss über vertiefte Fachkenntnisse im entsprechenden Themenbereich verfügen. Die Teilnehmerin oder der Teilnehmer erhält eine schriftliche Rückmeldung.
+#### § 20
 
-<sup>3</sup> Die Abschlussarbeit wird beurteilt mit «bestanden» oder einmalig mit einer festgesetzten Frist mit Auflagen «zur Überarbeitung zurückgewiesen». Genügt die Abschlussarbeit nach der Überarbeitung den Anforderungen nicht, wird sie mit «definitiv nicht bestanden» beurteilt. Die Teilnehmerin oder der Teilnehmer erhält kein Diplom oder Zertifikat.
+**Akteneinsicht**
 
-<sup>4</sup> Die Abschlussarbeit muss innert der von der Lehrgangsleitung festgelegten Frist, spätestens aber innert 6 Monaten nach dem letzten Präsenztag eines CAS oder DAS (= letztes vorgegebenes Modul) eingereicht werden. Wird diese Frist nicht eingehalten, legt die Lehrgangsleitung einmal eine Nachfrist fest. Die verspätet abgegebene Abschlussarbeit kann nicht überarbeitet werden. Sie wird mit «bestanden» oder «definitiv nicht bestanden» bewertet. Die Arbeit ist in physischer und identischer elektronischer Fassung einzureichen.
+<sup>1</sup> Die Teilnehmenden eines Weiterbildungsangebots haben das Recht auf eine Einsichtnahme in die von ihnen erbrachten Leistungsnachweise.
 
-<sup>5</sup> Im Übrigen gilt § 18.
+<sup>2</sup> Die Einsichtnahme kann in den angebotsspezifischen Erlassen oder weiteren Ausführungen zu dieser Rahmenordnung genauer geregelt werden.
 
-**Präsenzpflicht**
+<sup>3</sup> Diese können in begründeten Fällen Einschränkungen im Interesse der PHZH vorsehen.
 
-§ 22.[^18-1] <sup>1</sup> Die Teilnehmerinnen und Teilnehmer eines DAS, CAS oder einer Modulgruppe sind grundsätzlich verpflichtet, vollständig am Präsenzunterricht teilzunehmen (face-to-face und online). Begründete Absenzen sind dem zuständigen Sekretariat umgehend nach Bekanntwerden mitzuteilen. Längere Abwesenheiten sind nachzuweisen.
+#### § 21
 
-<sup>2</sup> Verpasste Inhalte sind selbstständig nachzuholen. Die Lehrgangs- oder Modulleitung kann Ersatzleistungen im zeitlichen Umfang der verpassten Sequenzen verlangen. Überschreiten die Absenzen 20% des Präsenzunterrichts oder mehr als einen Tag in einem Modul, entscheidet die Lehrgangs- oder Modulleitung, ob der DAS, CAS oder die Modulgruppe dennoch als besucht gilt.
+**Anmeldung**
 
-<sup>3</sup> Der Präsenzunterricht eines Einzelmoduls sowie eines Kurses muss vollständig besucht werden, damit sie als absolviert gelten.
+<sup>1</sup> Die Anmeldung zu einem Weiterbildungsangebot erfolgt in der Regel online bei der zuständigen Geschäftsstelle innert der Anmeldefrist und unter Beilage der erforderlichen Unterlagen. Details werden in der Angebotsbeschreibung statuiert.
 
-<sup>4</sup> Die Abs. 1 und 2 gelten auch für Weiterbildungsveranstaltungen gemäss § 1 Abs. 2, sofern die Ausschreibung keine andere Präsenzpflicht vorsieht.[^18-4]
+<sup>2</sup> Eingereichte Anmeldungen sind verbindlich.
 
-**Urheberrechtserklärung**
+<sup>3</sup> Mit der schriftlichen oder elektronischen Bestätigung der Anmeldung durch die PHZH ist die Aufnahme definitiv. Vorbehalten bleiben Absagen aus wichtigen Gründen, insbesondere wegen Nichterreichung der Mindestzahl von Teilnehmenden gemäss § 23 Abs. 2, höherer Gewalt oder unvorhersehbaren organisatorischen Gründen.
 
-§ 23.[^18-1] Die Diplom- oder Zertifikatsarbeit sowie ein anderer schriftlicher Leistungsnachweis, der einen Lehrgang abschliesst, muss am Ende eine unterzeichnete Urheberrechtserklärung der Autorin oder des Autors enthalten. Der Wortlaut dieser Erklärung wird durch die Abteilungsleitung festgelegt.
+<sup>4</sup> Die Aufnahme berechtigt zur Teilnahme am entsprechenden Weiterbildungsangebot.
 
-[^18-1]: Fassung gemäss B vom 29. Mai 2019 (OS 74, 467; ABl 2019-06-14). In Kraft seit 1. September 2019.
-[^18-2]: LS 414.410.5.
-[^18-3]: Fassung gemäss B vom 17. September 2014 (OS 69, 510; ABl 2014-09-26). In Kraft seit 1. Oktober 2015 (OS 70, 273).
-[^18-4]: Eingefügt durch B vom 17. September 2014 (OS 69, 510; ABl 2014-09-26). In Kraft seit 1. Januar 2015.
+#### § 22
+
+**Abmeldung**
+
+Die Abmeldung richtet sich nach der Weisung zu den Gebühren und der Richtlinie für die begründete Abmeldung von einem CAS-/DAS-/MAS-Studiengang oder einer Modulgruppe. Ergänzende Regelungen zur Abmeldung werden in der jeweiligen Angebotsbeschreibung präzisiert.
+
+#### § 23
+
+**Durchführung eines Weiterbildungsangebots**
+
+<sup>1</sup> Haben sich für ein Weiterbildungsangebot mehr Personen angemeldet, als Plätze zur Verfügung stehen, trifft die zuständige Angebotsleitung nach der Reihenfolge des Eingangs der Anmeldungen oder aufgrund von in der Ausschreibung festgelegten Kriterien die Auswahl der Teilnehmenden. Die zuständige Angebotsleitung kann den Eintrag in eine Warteliste vorsehen.
+
+<sup>2</sup> Die zuständige Zentrumsleitung kann die Durchführung eines Weiterbildungsangebots absagen, wenn die Mindestzahl von Teilnehmenden bis zum Anmeldeschluss nicht erreicht wird.
 
 #### § 24
 
-**Unlauteres Verhalten**
+**Unterrichtssprache**
 
-<sup>1</sup> Bei unlauterem Verhalten, insbesondere wenn jemand unerlaubte Hilfsmittel verwendet, sich des Plagiats schuldig macht oder die Zulassung gestützt auf unrichtige oder unvollständige Angaben erschlichen hat, erklärt die Abteilungsleitung die Aufnahme als widerrufen, den Leistungsnachweis als nicht bestanden oder den ausgestellten Ausweis als ungültig. Ausgestellte Urkunden werden eingezogen.[^18-1]
+<sup>1</sup> Die Weiterbildungsangebote werden in der Regel in deutscher Sprache durchgeführt.
 
-<sup>2</sup> Die Auflösung des Weiterbildungsverhältnisses (vgl. § 14) und die Einleitung eines Strafverfahrens bleiben vorbehalten.
+<sup>2</sup> Sie können in einer anderen Sprache durchgeführt werden. Erfolgt die Durchführung in einer anderen Sprache, werden die Unterrichtssprache, allfällige sprachliche Voraussetzungen und Anforderungen für die Zulassung in der jeweiligen Angebotsbeschreibung statuiert.
 
-[^24-1]: Fassung gemäss B vom 29. Mai 2019 (OS 74, 467; ABl 2019-06-14). In Kraft seit 1. September 2019.
+<sup>3</sup> Leistungsnachweise müssen grundsätzlich in der Sprache erbracht werden, in der die betreffenden Module durchgeführt werden. Ausnahmen werden in den jeweiligen Angebotsbeschreibungen festgehalten.
 
-### E. ECTS-Punkte und Urkunden
+#### § 25
 
-[^24-1]
+**Anrechnung von Vorkenntnissen**
 
-**Vergabe von ECTS-Punkten**
+<sup>1</sup> Teilnehmende eines MAS, DAS oder CAS, die ausreichende Kompetenzen nachweisen, können bei der jeweils zuständigen Angebotsleitung Antrag auf Dispensierung oder Teildispensierung von einem Modul und auf Anrechnung der entsprechenden Leistungen oder Teilleistungen davon stellen.
 
-§ 25.[^hEECTSPunkteundU-1] <sup>1</sup> Der erfolgreiche Abschluss eines DAS oder CAS führt zu einem Diplom oder Zertifikat mit der entsprechenden Anzahl ECTS-Punkte. Es wird ausgestellt, wenn die Teilnehmerin oder der Teilnehmer alle notwendigen Leistungsnachweise bestanden und die Präsenzpflichten erfüllt hat. Sind diese Voraussetzungen nicht erfüllt, wird eine schriftliche Bestätigung für die tatsächlich erbrachten Leistungen und die damit erworbenen ECTS-Punkte abgegeben.
+<sup>2</sup> Die Anrechnung von absolvierten Modulen, CAS oder DAS auf weiterführende und aufbauende Weiterbildungsangebote ist möglich, sofern die jeweiligen Zulassungsvoraussetzungen erfüllt sind und die Bestimmungen des betreffenden Weiterbildungsangebots dies vorsehen.
 
-<sup>2</sup> Der erfolgreiche Abschluss eines Moduls wird mit der entsprechenden Anzahl ECTS-Punkte bestätigt.
+<sup>3</sup> Noten werden ausschliesslich bei Anrechnung von Vorkenntnissen aus Weiterbildungsangeboten unter Federführung der PHZH übernommen.
 
-<sup>3</sup> Der vollständige Besuch eines Kurses oder einer Weiterbildungsveranstaltung gemäss § 1 Abs. 2 wird bestätigt. Es werden keine ECTS-Punkte vergeben.
+<sup>4</sup> An die Abschlussarbeit werden keine Vorkenntnisse bzw. Vorleistungen angerechnet. Die Arbeit muss zwingend im entsprechenden MAS, DAS oder CAS verfasst werden.
+
+<sup>5</sup> An Module gemäss § 1 Abs. 1 lit. d, die als Einzelmodule absolviert werden, sowie an Kurse gemäss § 1 Abs. 1 lit. e werden keine früher erbrachten Leistungen angerechnet.
+
+<sup>6</sup> Die Richtlinie zur Anrechnung vorgängig erbrachter Leistungen an Weiterbildungsveranstaltungen regelt das Verfahren, die Bedingungen sowie den Umfang der möglichen Anerkennungen.
+
+#### § 26
+
+**Präsenzpflicht**
+
+Für Weiterbildungsangebote kann eine Präsenzpflicht vorgesehen werden. Ob und in welchem Umfang eine solche besteht, wird in den angebotsspezifischen Erlassen oder den Angebotsbeschreibungen geregelt.
 
 **7**
 
-- 1\. 10. 19 - 106 § 26.[^hEECTSPunkteundU-1] <sup>1</sup> Das Diplom oder Zertifikat enthält folgende Angaben:
+- 1\. 7. 26 - 133 § 27. <sup>1</sup> Bei Vorliegen einer fachärztlich oder fachpsychologisch bescheinigten Beeinträchtigung können auf Antrag einer Teilnehmerin bzw. eines Teilnehmers nachteilsausgleichende Massnahmen gewährt werden.
 
-**Abschlussurkunde und Bestätigungen**
+**Nachteilsausgleich**
 
-- a. «Pädagogische Hochschule Zürich» und die Bezeichnung der zuständigen Abteilung oder des zuständigen Zentrums,
+<sup>2</sup> Die Anträge sind grundsätzlich bei der Anmeldung, spätestens aber acht Wochen vor Beginn des Weiterbildungsangebots oder eines Leistungsnachweises bei der zuständigen Abteilungsleitung einzureichen. Zu einem späteren Zeitpunkt bekannt gewordene Beeinträchtigungen sind umgehend zu melden und werden im Rahmen der organisatorischen Möglichkeiten berücksichtigt.
 
-- b. die Personalien der Teilnehmerin oder des Teilnehmers (Name, Vorname, Wohnort),
+<sup>3</sup> Die zuständige Abteilungsleitung prüft die Anträge und verfügt darüber. Sie kann in Zweifelsfällen interne oder externe Fachpersonen zur Beratung beiziehen.
 
-- c. den DAS oder CAS und die Module, für die es ausgestellt ist, den Titel des abschliessenden Leistungsnachweises,
+<sup>4</sup> Die Verfügung über den Nachteilsausgleich hält dessen Form fest sowie für welches Weiterbildungsangebot und für welche Leistungsnachweise der Nachteilsausgleich gilt.
 
-- d. die Anzahl erworbener ECTS-Punkte,
+<sup>5</sup> Rückwirkende nachteilsausgleichende Massnahmen sind ausgeschlossen.
 
-- e. die Unterschrift der Lehrgangsleitung,
+#### § 28
 
-- f. den Ort und das Datum der Erstellung der Urkunde.
+**Rechte an Immaterialgütern**
 
-<sup>2</sup> Die Bestätigung enthält folgende Angaben:
+<sup>1</sup> Die Rechte an Immaterialgütern, die von einer Teilnehmerin oder einem Teilnehmer im Rahmen eines MAS an der PHZH geschaffen werden, gehören gemäss FaHG der PHZH. Davon abweichende Vereinbarungen bleiben vorbehalten.
 
-- a. «Pädagogische Hochschule Zürich» und die Bezeichnung der zuständigen Abteilung,
+<sup>2</sup> Erfindungen, Designs und urheberrechtlich geschützte Werke, die im Rahmen eines Weiterbildungsangebots gemäss § 1 Abs. 1 lit. b–e von einer Teilnehmerin oder einem Teilnehmer geschaffen werden, können von der PHZH gestützt auf eine entsprechende Vereinbarung mit der Schöpferin oder dem Schöpfer verwendet werden.
 
-- b. die Personalien der Teilnehmerin oder des Teilnehmers (Name, Vorname, Wohnort),
+<sup>3</sup> Die Weisung zum Umgang mit geistigem Eigentum an der Pädagogischen Hochschule Zürich[^28-1] gilt analog.
 
-- c. die Weiterbildungsleistung, für die sie ausgestellt ist, allenfalls den Titel eines Leistungsnachweises,
+[^28-1]: LS 414.410.2.
 
-- d. die Anzahl allenfalls erworbener Kreditpunkte,
+#### § 29
 
-- e. die Unterschrift der für die Weiterbildungsveranstaltung verantwortlichen Person,
+**Disziplinarordnung**
 
-- f. den Ort und das Datum der Erstellung der Urkunde.
+<sup>1</sup> Für ein MAS-Diplomstudium immatrikulierte Studierende unterstehen der Disziplinarordnung gemäss VFaHG. Für Teilnehmende an Weiterbildungsangeboten gemäss § 1 Abs. 1 lit. b–e gelten diese Bestimmungen sinngemäss.
 
-<sup>3</sup> Duplikate der Abschlussurkunden und Bestätigungen von an der PHZH absolvierten Weiterbildungsveranstaltungen können von der Teilnehmerin oder dem Teilnehmer verlangt werden, solange die entsprechenden Informationen bei der PHZH archiviert sind. Für die Erstellung von Duplikaten wird eine in der Weisung zu den Gebühren der Pädagogischen Hochschule Zürich[^hEECTSPunkteundU-2] festgelegte Gebühr erhoben.
+<sup>2</sup> Bei Vorliegen von schwerwiegenden oder wiederholten Verstössen gegen die Disziplinarordnung oder Verstössen gemäss § 17 kann die Rektorin oder der Rektor eine Teilnehmerin oder einen Teilnehmer von der Teilnahme ausschliessen.
 
-[^hEECTSPunkteundU-1]: Fassung gemäss B vom 29. Mai 2019 (OS 74, 467; ABl 2019-06-14). In Kraft seit 1. September 2019.
-[^hEECTSPunkteundU-2]: LS 414.410.5.
+### 3. Abschnitt: Weiterbildungsleistungen
 
-### F. Schlussbestimmungen
+### A. Allgemeine Regelungen
 
-**Inkrafttreten**
+#### § 30
 
-§ 27.[^hFSchlussbestimmung-1] § 28. Diese Weisung tritt auf den 1. Juli 2010 in Kraft und wird in der kantonalen Gesetzessammlung sowie im Internet der PHZH publiziert. Sie ersetzt die Weisung zu Zertifikatslehrgängen und Weiterbildungsmodulen der Pädagogischen Hochschule Zürich vom 18. Mai 2009.
+**Formen der Leistungsnachweise**
 
-[^hFSchlussbestimmung-1]: Aufgehoben durch B vom 19. Dezember 2012 (OS 68, 114; ABl 2013-01-18). In Kraft seit 1. April 2013.
+<sup>1</sup> Ein Leistungsnachweis ist ein Nachweis über das Erreichen von Kompetenzen und gesetzten Lernzielen in einem MAS, DAS, CAS oder einem Modul. Er orientiert sich an wissenschaftlichen Standards.
 
-## Weitere Fussnoten
+<sup>2</sup> Formen von Leistungsnachweisen können insbesondere sein:
 
-- [8] Eingefügt durch B vom 25. März 2015 (OS 70, 177; ABl 2015-04-10). In Kraft seit 1. Juli 2015.
+- a. schriftliche, mündliche oder computerbasierte Prüfungen,
+
+- b. schriftliche Arbeiten,
+
+- c. Übungen, Fallstudien, Rezensionen und Berichte, Lernprotokolle, Reflexionen,
+
+- d. Projektarbeiten, praktische Arbeiten,
+
+- e. Referate, Präsentationen.
+
+<sup>3</sup> Die Leistungsnachweise werden in der Regel in Form einer Einzel-, Partner- oder Gruppenarbeit erbracht. Die Modalitäten werden in angebotsspezifischen Erlassen bzw. der Angebotsbeschreibung geregelt.
+
+<sup>4</sup> Leistungsnachweise müssen grundsätzlich in der Sprache erbracht werden, in der die betreffenden Module durchgeführt werden. Ausnahmen werde in den jeweiligen Angebotsbeschreibungen festgehalten.
+
+#### § 31
+
+**Selbstständigkeitserklärung**
+
+<sup>1</sup> Mit der Abgabe eines Leistungsnachweises oder der Abschlussarbeit bestätigt die Teilnehmerin oder der Teilnehmer, diesen Leistungsnachweis oder diese Abschlussarbeit selbst verfasst zu haben, keine unerlaubten Hilfsmittel verwendet, die erlaubten Hilfsmittel nur in erlaubter Weise verwendet sowie die verwendeten Hilfsmittel gemäss Vorgaben angegeben zu haben.
+
+<sup>2</sup> Es kann eine schriftliche Selbstständigkeitserklärung oder eine entsprechende elektronische Bestätigung verlangt werden.
+
+#### § 32
+
+**Unlauteres Verhalten**
+
+<sup>1</sup> Der Einsatz von unerlaubten Hilfsmitteln sowie der Einsatz von erlaubten Hilfsmitteln in unerlaubter Weise in Leistungsnachweisen und Abschlussarbeiten gelten als unredliches Verhalten und stellen Disziplinarverstösse im Sinne der VFaHG dar.
+
+<sup>2</sup> Die zuständige Angebotsleitung legt die erlaubten Hilfsmittel und deren Verwendung vorgängig fest und gibt sie frühzeitig bekannt.
+
+<sup>3</sup> Disziplinarverfahren richten sich gemäss § 29 nach dem VFaHG.
+
+<sup>4</sup> Wird unlauteres Verhalten nachträglich aufgedeckt, kann die Rektorin oder der Rektor einen bereits verliehenen Titel oder Abschluss entziehen. Bereits ausgestellte Urkunden und Bestätigungen werden eingezogen oder als ungültig erklärt.
+
+**9**
+
+- 1\. 7. 26 - 133
+
+### B. Leistungsnachweise
+
+#### § 33
+
+**Bestehen und Bewertung von Leistungsnachweisen**
+
+<sup>1</sup> Die zuständige Angebotsleitung legt in Absprache mit der Zentrumsleitung die Anforderungen für das Bestehen eines Leistungsnachweises und die Vergabe der ECTS-Punkte (CP) fest. Die Anforderungen werden den Teilnehmenden vorgängig bekannt gegeben.
+
+<sup>2</sup> Leistungsnachweise werden durch die zuständigen Dozierenden oder speziell damit beauftragte Personen bewertet.
+
+<sup>3</sup> Leistungsnachweise werden mit dem Prädikat «bestanden» oder «nicht bestanden» oder «erfüllt» oder «nicht erfüllt» bewertet.
+
+<sup>4</sup> Wird ein Leistungsnachweis mit Noten bewertet, erfolgt die Benotung mit ganzen oder halben Noten auf einer Skala von 6 bis 1, wobei 6 die höchste und 1 die geringste Leistung bezeichnet.
+
+<sup>5</sup> Ein Leistungsnachweis gilt als bestanden, wenn er mit «bestanden» oder «erfüllt» oder mit einer Note von 4 oder höher bewertet wurde.
+
+#### § 34
+
+**Wiederholung von Leistungsnachweisen**
+
+<sup>1</sup> Ein nicht bestandener Leistungsnachweis kann einmal wiederholt werden.
+
+<sup>2</sup> Die zuständige Angebotsleitung entscheidet, ob die Wiederholung in Form einer Überarbeitung des Leistungsnachweises erfolgen kann oder ob der gesamte Leistungsnachweis wiederholt werden muss.
+
+<sup>3</sup> Die Wiederholung hat innert Frist zu erfolgen. Die Frist wird durch die den Leistungsnachweis beurteilende Person festgelegt. Leistungsnachweise, die bei der Wiederholung den Anforderungen nicht genügen, werden mit «definitiv nicht bestanden» bewertet.
+
+<sup>4</sup> Bestandene Leistungsnachweise können nicht wiederholt werden.
+
+<sup>5</sup> Bestätigt die für die Bewertung verantwortliche Person, dass ein Leistungsnachweis definitiv nicht bestanden ist, meldet sie dies der zuständigen Angebotsleitung. Die Angebotsleitung informiert die Teilnehmerin oder den Teilnehmer in elektronischer Form.
+
+<sup>6</sup> Die Gebühren für Wiederholungen richten sich nach der Weisung zu den Gebühren der Pädagogischen Hochschule Zürich.
+
+#### § 35
+
+**Versäumte Leistungsnachweise**
+
+<sup>1</sup> Wer einen Leistungsnachweis begründet versäumt, muss diesen nachholen.
+
+<sup>2</sup> Als begründet gelten insbesondere Verhinderungen infolge von höherer Gewalt, Krankheit, Militärdienst, Unfall, Todesfall, Betreuungsnotfall in der Familie oder zwingenden beruflichen Verpflichtungen.
+
+<sup>3</sup> Verhinderungsgründe sind unmittelbar nach deren Kenntnis der den Leistungsnachweis abnehmenden Person mitzuteilen und schriftlich zu belegen. Bei Krankheit oder Unfall ist ein ärztliches Zeugnis einzureichen.
+
+<sup>4</sup> Die zuständige Angebotsleitung entscheidet über die Anerkennung des Verhinderungsgrunds.
+
+<sup>5</sup> Die nachträgliche Geltendmachung von bekannten oder erkennbaren Verhinderungsgründen bei bereits erbrachten Leistungsnachweisen ist ausgeschlossen.
+
+<sup>6</sup> Ein Leistungsnachweis gilt als nicht bestanden, wenn er unbegründet nicht erbracht, verspätet eingereicht oder abgebrochen wurde.
+
+#### § 36
+
+**Definitiv nicht bestandene Leistungsnachweise**
+
+<sup>1</sup> Wer in einem MAS, DAS oder CAS einen Leistungsnachweis für die vorgegebenen Module definitiv nicht besteht, erhält kein Diplom oder Zertifikat, sondern lediglich eine Bestätigung der tatsächlich erbrachten Leistungen.
+
+<sup>2</sup> Ein individuell wählbares Modul eines MAS, DAS oder CAS kann bei definitivem Nichtbestehen ganz wiederholt oder durch ein anderes Modul substituiert werden.
+
+<sup>3</sup> Bei begründeten Zweifeln kann die zuständige Angebotsleitung Massnahmen zur Überprüfung der Selbstständigkeit anordnen.
+
+### C. Abschlussarbeiten in MAS, DAS oder CAS
+
+#### § 37
+
+**Abschlussarbeit**
+
+<sup>1</sup> Für den Abschluss eines MAS, DAS oder CAS muss jeweils eine Abschlussarbeit erstellt werden:
+
+- a. eine Masterarbeit für MAS,
+
+- b. eine Diplomarbeit für DAS,
+
+- c. eine Zertifikatsarbeit für CAS.
+
+<sup>2</sup> Die Abschlussarbeit ist eine eigenständige Arbeit.
+
+#### § 38
+
+**Weitere Teilleistungen**
+
+<sup>1</sup> Neben der Abschlussarbeit können weitere Leistungsnachweise vorgeschrieben werden, wie namentlich eine mündliche Prüfung, eine mündliche Präsentation oder eine Verteidigung der Abschlussarbeit.
+
+<sup>2</sup> Die zuständige Angebotsleitung legt fest, ob weitere Leistungsnachweise erbracht werden müssen, und regelt Inhalt, Umfang, Anforderungen, Bestehensvoraussetzungen sowie die Bewertung dieser Teilleistungen.
+
+<sup>3</sup> Es kann der Besuch von Pflichtveranstaltungen zur Vorbereitung auf die Abschlussarbeit vorgeschrieben werden.
+
+<sup>4</sup> Die Details werden in den angebotsspezifischen Erlassen oder in der Angebotsbeschreibung geregelt.
+
+**11**
+
+- 1\. 7. 26 - 133 § 39. <sup>1</sup> Die Abschlussarbeit ist in elektronischer Form einzureichen. In begründeten Fällen kann die zuständige Angebotsleitung eine andere Form der Einreichung zulassen.
+
+**Abschlussarbeit**
+
+<sup>2</sup> Die Abschlussarbeit muss innert der von der zuständigen Angebotsleitung festgelegten Frist eingereicht werden. Wird diese Frist nicht eingehalten, gilt die Abschlussarbeit als nicht eingereicht und damit als nicht bestanden. Die Angebotsleitung kann einmalig eine Nachfrist festlegen.
+
+<sup>3</sup> Wird die Abschlussarbeit innerhalb der Nachfrist nicht eingereicht, gilt sie als definitiv nicht bestanden.
+
+#### § 40
+
+**Betreuung und Bewertung**
+
+<sup>1</sup> Die zuständige Angebotsleitung beauftragt eine Gutachterin oder einen Gutachter mit vertieften Fachkenntnissen im entsprechenden Themenbereich aus dem Kreis der Dozierenden oder wissenschaftlichen Mitarbeitenden mit der Betreuung und Beurteilung der Abschlussarbeit. Die zuständige Angebotsleitung kann auch selbst die Gutachtertätigkeit übernehmen.
+
+<sup>2</sup> Die Abschlussarbeit wird bewertet mit «bestanden» oder «nicht bestanden».
+
+<sup>3</sup> Die Teilnehmerin oder der Teilnehmer erhält eine auf die Bewertungskriterien bezogene Rückmeldung.
+
+<sup>4</sup> Eine als «nicht bestanden» bewertete Arbeit kann einmalig innert einer festgesetzten Frist überarbeitet werden.
+
+<sup>5</sup> Genügt die Abschlussarbeit nach der Überarbeitung weiterhin den Anforderungen nicht, gilt sie als definitiv nicht bestanden.
+
+#### § 41
+
+**Bestehensvoraussetzungen**
+
+<sup>1</sup> Die Abschlussarbeit und allfällige weitere Leistungsnachweise werden gesondert bewertet, sofern in den angebotsspezifischen Erlassen oder in der Angebotsbeschreibung nichts anderes vorgesehen ist.
+
+<sup>2</sup> Die Abschlussarbeit gilt als bestanden, wenn die Abschlussarbeit und sämtliche vorgesehenen weiteren Leistungsnachweise bestanden sind.
+
+<sup>3</sup> Wird die Abschlussarbeit definitiv nicht bestanden, wird kein Diplom oder Zertifikat erteilt.
+
+### 4. Abschnitt: Abschluss der Weiterbildungsangebote
+
+und Abschlussunterlagen
+
+**Abschluss von MAS, DAS und CAS**
+
+§ 42. <sup>1</sup> Das Abschlussdiplom oder -zertifikat für einen MAS, DAS oder CAS wird ausgestellt, wenn alle Leistungsnachweise und die Abschlussarbeit bestanden sind.
+
+<sup>2</sup> Die PHZH vergibt folgende Abschlusstitel:
+
+- a. Master of Advanced Studies MAS PHZH in [Fachbereich],
+
+- b. Diploma of Advanced Studies DAS PHZH in [Fachbereich],
+
+- c. Certificate of Advanced Studies CAS PHZH in [Fachbereich].
+
+<sup>3</sup> Entsprechen mehrere Weiterbildungsangebote inhaltlich und umfangmässig einem MAS, DAS oder CAS, wird ein Diplom oder Zertifikat nur dann ausgestellt, wenn die Bestehensvoraussetzungen für den betreffenden MAS, DAS oder CAS erfüllt sind.
+
+#### § 43
+
+**Diplome und Zertifikate**
+
+<sup>1</sup> Das Diplom für MAS oder DAS oder das Zertifikat für CAS enthält den Abschlusstitel, die Anzahl erworbener ECTS-Punkte (CP) und gibt an, für welchen MAS, DAS oder CAS es ausgestellt wird.
+
+<sup>2</sup> Das Diplom für MAS wird von der Rektorin oder dem Rektor und der Prorektorin oder dem Prorektor Weiterbildung und Dienstleistungen unterzeichnet. Es enthält keine Bewertungen.
+
+<sup>3</sup> Das Diplom für DAS und das Zertifikat für CAS wird von der zuständigen Abteilungsleitung und der zuständigen Angebotsleitung unterzeichnet. Es enthält keine Bewertungen.
+
+<sup>4</sup> Sind die Voraussetzungen für die Ausstellung eines Diploms oder eines Zertifikats nicht erfüllt, wird eine schriftliche Bestätigung über die tatsächlich erbrachten Leistungen und die damit verbundenen Arbeitsstunden erstellt. Die Bestätigung wird von der zuständigen Abteilungsleitung und der zuständigen Angebotsleitung unterzeichnet.
+
+#### § 44
+
+**Weitere Abschlussdokumente für MAS, DAS und CAS**
+
+<sup>1</sup> Nach erfolgreichem Abschluss eines MAS erhalten die Absolventinnen und Absolventen zusätzlich zur Diplomurkunde einen Diplomzusatz (Diploma Supplement).
+
+<sup>2</sup> Das Diploma Supplement enthält eine standardisierte Beschreibung von Art, Stufe, Kontext und Status des abgeschlossenen MAS.
+
+<sup>3</sup> Für DAS und CAS kann zusätzlich zur Diplomurkunde oder Zertifikatsurkunde ein Diplomzusatz (Diploma Supplement) ausgestellt werden.
+
+<sup>4</sup> Zusätzlich kann für MAS, DAS oder CAS ein Transcript of Records ausgestellt werden. Dieses umfasst alle besuchten Module mit Modultitel und den erworbenen ECTS-Punkten (CP).
+
+**13**
+
+- 1\. 7. 26 - 133 § 45. <sup>1</sup> Für den erfolgreichen Abschluss eines Moduls mit Vergabe von ECTS-Punkten (CP) stellt die PHZH eine Modulbestätigung mit Angabe des Modultitels und der erworbenen ECTS-Punkte (CP) aus.
+
+**Abschluss von Modulen und Kursen**
+
+<sup>2</sup> Für den vollständigen Besuch eines Kurses ohne Vergabe von ECTS-Punkten (CP) wird eine Teilnahmebestätigung ausgestellt.
+
+#### § 46
+
+**Microcredentials**
+
+<sup>1</sup> Microcredentials sind qualifizierte Nachweise über Lernergebnisse, die im Rahmen strukturierter Lehr- und Lerneinheiten erworben worden sind.
+
+<sup>2</sup> Die PHZH kann für solche Lernergebnisse Microcredentials im Umfang von 1 bis 9 ECTS-Punkten (CP) vergeben.
+
+<sup>3</sup> Microcredentials werden in Form von Microcredentials-Bescheinigungen ausgestellt. Der Umfang der Microcredentials wird in ECTS-Punkten (CP) angegeben und dokumentiert.
+
+#### § 47
+
+**Ersatzdokumente**
+
+<sup>1</sup> Die Absolventinnen und Absolventen können bei der PHZH Ersatzdokumente der ausgestellten Abschlussurkunden und der weiteren Abschlussdokumente anfordern, solange die entsprechenden Informationen bei der PHZH archiviert sind.
+
+<sup>2</sup> Für die Erstellung eines Ersatzdokuments wird eine in der Weisung zu den Gebühren der Pädagogischen Hochschule Zürich festgelegte Gebühr erhoben.
+
+### 5. Abschnitt: Rechtsschutz und Schlussbestimmungen
+
+[^h5AbschnittRechts-1]: LS 175.2.
+
+#### § 48
+
+**Rechtsschutz**
+
+<sup>1</sup> Die Anfechtbarkeit von Verfügungen der PHZH richtet sich nach dem FaHG und dem Verwaltungsrechtspflegegesetz vom 24. Mai 1959[^h5AbschnittRechts-1].
+
+<sup>2</sup> Leistungsbewertungen werden auf Rechtsverletzungen und Verletzungen von Verfahrensvorschriften überprüft. Die Rüge der Unangemessenheit ist ausgeschlossen.
+
+#### § 49
+
+**Schlussbestimmungen**
+
+<sup>1</sup> Diese Rahmenordnung tritt am 1. Juli 2026 in Kraft und wird in der kantonalen Gesetzessammlung und im Intranet publiziert. Sie ersetzt die Weisung zu Weiterbildungsveranstaltungen der Pädagogischen Hochschule Zürich vom 12. Juli 2010.
+
+<sup>2</sup> Die Rahmenstudienordnung für Weiterbildungs-Masterstudiengänge vom 19. April 2016 wird mit Inkrafttreten dieser Rahmenordnung mit Wirkung für die PHZH aufgehoben.
+
+#### § 50
+
+**Übergangsbestimmungen**
+
+Ab Inkraftsetzung am 1. Juli 2026 gelten die Bestimmungen dieser Rahmenordnung für alle Weiterbildungsangebote, unabhängig davon, ob deren Ausschreibung vor diesem Datum veröffentlicht wurde oder ihre Durchführung vor diesem Stichtag begonnen hat.
