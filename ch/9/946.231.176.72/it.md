@@ -3,18 +3,18 @@ sr: "946.231.176.72"
 title: Ordinanza del 4 marzo 2022 che istituisce provvedimenti in relazione alla situazione in Ucraina
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/151"
 language: it
-version: 2026-06-16
+version: 2026-07-01
 adopted: 2022-03-04
 in_force: 2022-03-04
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/151/20260616/it/xml/fedlex-data-admin-ch-eli-cc-2022-151-20260616-it-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/151/20260616/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/151/20260701/it/xml/fedlex-data-admin-ch-eli-cc-2022-151-20260701-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/151/20260701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza che istituisce provvedimenti in relazione alla situazione in Ucraina
 
-del 4 marzo 2022 (Stato 16 giugno 2026)
+del 4 marzo 2022 (Stato 1° luglio 2026)
 
 Il Consiglio federale svizzero,
 
@@ -4540,11 +4540,11 @@ Allegato 33[^t-40]
 
 Allegato 34[^t-41]
 
-(art. 2*a* cpv. 4<sup>bis</sup>, 6 cpv. 1<sup>ter</sup>, 9*a* cpv. 3<sup>bis</sup> e 9*b* cpv. 2<sup>ter</sup>)
+(art. 2*a* cpv. 6<sup>bis</sup>, 6 cpv. 1<sup>ter</sup>, 9*a* cpv. 3<sup>bis</sup> e 9*b* cpv. 2<sup>ter</sup>)
 
 ## Lista dei Paesi verso i quali è consentita la fornitura di beni da incorporare in altri beni
 
-[^t-41]: Introdotto dalla cifra II cpv. 4 dell’O del 14 mag. 2025, in vigore dal 15 mag. 2025 ([RU 2025 310](https://fedlex.data.admin.ch/eli/oc/2025/310)).
+[^t-41]: Introdotto dalla cifra II cpv. 4 dell’O del 14 mag. 2025 ([RU 2025 310](https://fedlex.data.admin.ch/eli/oc/2025/310)). Nuovo testo giusta la cifra I dell’O del 27 mag. 2026, in vigore dal 1° lug. 2026 ([RU 2026 312](https://fedlex.data.admin.ch/eli/oc/2026/312)).
 
 Argentina
 
@@ -4554,11 +4554,19 @@ Austria
 
 Belgio
 
+Bulgaria
+
 Canada
 
-Repubblica Ceca
+Cechia
+
+Cipro
+
+Croazia
 
 Danimarca
+
+Estonia
 
 Finlandia
 
@@ -4570,11 +4578,19 @@ Giappone
 
 Grecia
 
-Irlanda EIRE
+Irlanda
+
+Islanda
 
 Italia
 
+Lettonia
+
+Lituania
+
 Lussemburgo
+
+Malta
 
 Norvegia
 
@@ -4586,11 +4602,17 @@ Polonia
 
 Portogallo
 
-Regno Unito di Gran Bretagna e Irlanda
+Regno Unito
+
+Romania
+
+Slovacchia
+
+Slovenia
 
 Spagna
 
-Stati Uniti d’America
+Stati Uniti
 
 Svezia
 

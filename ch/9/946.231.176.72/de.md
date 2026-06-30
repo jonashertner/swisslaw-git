@@ -3,18 +3,18 @@ sr: "946.231.176.72"
 title: Verordnung vom 4. März 2022 über Massnahmen im Zusammenhang mit der Situation in der Ukraine
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/151"
 language: de
-version: 2026-06-16
+version: 2026-07-01
 adopted: 2022-03-04
 in_force: 2022-03-04
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/151/20260616/de/xml/fedlex-data-admin-ch-eli-cc-2022-151-20260616-de-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/151/20260616/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/151/20260701/de/xml/fedlex-data-admin-ch-eli-cc-2022-151-20260701-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/151/20260701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über Massnahmen im Zusammenhang mit der Situation in der Ukraine
 
-vom 4. März 2022 (Stand am 16. Juni 2026)
+vom 4. März 2022 (Stand am 1. Juli 2026)
 
 Der Schweizerische Bundesrat,
 
@@ -4545,11 +4545,11 @@ Anhang 33[^t-40]
 
 Anhang 34[^t-41]
 
-(Art. 2*a* Abs. 4<sup>bis</sup>, 6 Abs. 1<sup>ter</sup>, 9*a* Abs. 3<sup>bis</sup> und 9*b* Abs. 2<sup>ter</sup>)
+(Art. 2*a* Abs. 6<sup>bis</sup>, 6 Abs. 1<sup>ter</sup>, 9*a* Abs. 3<sup>bis</sup> und 9*b* Abs. 2<sup>ter</sup>)
 
-## Liste der Länder, nach denen Güter zum Einbau geliefert werden dürfen
+## Liste der Staaten, nach denen Güter zum Einbau geliefert werden dürfen
 
-[^t-41]: Eingefügt durch Ziff. II Abs. 4 der V vom 14. Mai 2025, in Kraft seit 15. Mai 2025 ([AS 2025 310](https://fedlex.data.admin.ch/eli/oc/2025/310)).
+[^t-41]: Eingefügt durch Ziff. II Abs. 4 der V vom 14. Mai 2025 ([AS 2025 310](https://fedlex.data.admin.ch/eli/oc/2025/310)). Fassung gemäss Ziff. I der V vom 27. Mai 2026, in Kraft seit 1. Juli 2026 ([AS 2026 312](https://fedlex.data.admin.ch/eli/oc/2026/312)).
 
 Argentinien
 
@@ -4557,9 +4557,13 @@ Australien
 
 Belgien
 
+Bulgarien
+
 Dänemark
 
 Deutschland
+
+Estland
 
 Finnland
 
@@ -4569,13 +4573,23 @@ Griechenland
 
 Irland
 
+Island
+
 Italien
 
 Japan
 
 Kanada
 
+Kroatien
+
+Lettland
+
+Litauen
+
 Luxemburg
+
+Malta
 
 Neuseeland
 
@@ -4589,7 +4603,13 @@ Polen
 
 Portugal
 
+Rumänien
+
 Schweden
+
+Slowakei
+
+Slowenien
 
 Spanien
 
@@ -4597,9 +4617,11 @@ Tschechien
 
 Ungarn
 
-USA
+Vereinigte Staaten
 
 Vereinigtes Königreich
+
+Zypern
 
 Anhang 35[^t-42]
 

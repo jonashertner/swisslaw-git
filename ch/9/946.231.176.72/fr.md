@@ -3,18 +3,18 @@ sr: "946.231.176.72"
 title: Ordonnance du 4 mars 2022 instituant des mesures en lien avec la situation en Ukraine
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/151"
 language: fr
-version: 2026-06-16
+version: 2026-07-01
 adopted: 2022-03-04
 in_force: 2022-03-04
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/151/20260616/fr/xml/fedlex-data-admin-ch-eli-cc-2022-151-20260616-fr-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/151/20260616/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/151/20260701/fr/xml/fedlex-data-admin-ch-eli-cc-2022-151-20260701-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/151/20260701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance instituant des mesures en lien avec la situation en Ukraine
 
-du 4 mars 2022 (État le 16 juin 2026)
+du 4 mars 2022 (État le 1<sup>er</sup> juillet 2026)
 
 Le Conseil fédéral suisse,
 
@@ -4543,11 +4543,11 @@ Annexe 33[^t-40]
 
 Annexe 34[^t-41]
 
-(art. 2*a*, al. 4<sup>bis</sup>, 6, al. 1<sup>ter</sup>, 9*a*, al. 3<sup>bis</sup>, et 9*b*, al. 2<sup>ter</sup>)
+(art. 2*a*, al. 6<sup>bis</sup>, 6, al. 1<sup>ter</sup>, 9*a*, al. 3<sup>bis</sup>, et 9*b*, al. 2<sup>ter</sup>)
 
-## Liste des pays vers lesquels les biens destinés à être incorporés peuvent être livrés
+## Liste des États vers lesquels les biens destinés à être incorporés peuvent être livrés
 
-[^t-41]: Introduite par le ch. II al. 4 de l’O du 14 mai 2025, en vigueur depuis le 15 mai 2025 ([RO 2025 310](https://fedlex.data.admin.ch/eli/oc/2025/310)).
+[^t-41]: Introduite par le ch. II al. 4 de l’O du 14 mai 2025 ([RO 2025 310](https://fedlex.data.admin.ch/eli/oc/2025/310)). Nouvelle teneur selon le ch. I de l’O du 27 mai 2026, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2026 312](https://fedlex.data.admin.ch/eli/oc/2026/312)).
 
 Allemagne
 
@@ -4559,11 +4559,19 @@ Autriche
 
 Belgique
 
+Bulgarie
+
 Canada
+
+Chypre
+
+Croatie
 
 Danemark
 
 Espagne
+
+Estonie
 
 États-Unis
 
@@ -4577,11 +4585,19 @@ Hongrie
 
 Irlande
 
+Islande
+
 Italie
 
 Japon
 
+Lettonie
+
+Lituanie
+
 Luxembourg
+
+Malte
 
 Norvège
 
@@ -4593,11 +4609,17 @@ Pologne
 
 Portugal
 
-République tchèque
+Roumanie
 
 Royaume-Uni
 
+Slovaquie
+
+Slovénie
+
 Suède
+
+Tchéquie
 
 Annexe 35[^t-42]
 
