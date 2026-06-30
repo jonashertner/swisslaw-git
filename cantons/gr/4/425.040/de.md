@@ -3,20 +3,19 @@ canton: GR
 number: "425.040"
 title: Verordnung über die Aufsichtskommission im Mittelschulwesen
 language: de
-version: 2005-03-01
-corrected: 2019-05-22
-version_adopted: 2005-03-01
+version: 2026-07-01
+version_adopted: 2026-06-23
 adopted: 2005-03-01
 in_force: 2005-03-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/425.040"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/2051/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3650/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die Aufsichtskommission im Mittelschulwesen
 
-Vom 01.03.2005 (Stand 01.03.2005)
+Vom 01.03.2005 (Stand 01.07.2026)
 
 Gestützt auf Art. 2 Abs. 1 Ziff. 1 und Art. 19 des Gesetzes über die Mittelschulen im Kanton Graubünden[^ingress-1]
 
@@ -28,11 +27,11 @@ von der Regierung erlassen am 1. März 2005
 
 **Zusammensetzung**
 
-<sup>1</sup> Die Aufsichtskommission besteht aus neun von der Regierung gewählten Mitgliedern. Der Leiter oder die Leiterin des für das Mittelschulwesen zuständigen Amtes hat das Präsidium inne. Bei der Zusammensetzung der Kommission sind die drei Sprachgebiete des Kantons angemessen zu berücksichtigen.
+<sup>1</sup> Die Aufsichtskommission besteht aus mindestens fünf von der Regierung gewählten Mitgliedern. Der Leiter oder die Leiterin des für das Mittelschulwesen zuständigen Amtes hat das Präsidium inne. Bei der Zusammensetzung der Kommission sind die drei Sprachgebiete des Kantons angemessen zu berücksichtigen.
 
 <sup>2</sup> Die Kommission kann zur Beratung von Sachgeschäften Rektoren oder Rektorinnen der Mittelschulen oder andere Fachpersonen beiziehen.
 
-<sup>3</sup> Im Übrigen gelangen die Bestimmungen der Verordnung für die nebenamtlichen Mitarbeiter des Kantons Graubünden zur Anwendung.
+<sup>3</sup> Im Übrigen gelangen die Bestimmungen der Verordnung für die nebenamtlichen Mitarbeitenden des Kantons Graubünden zur Anwendung.
 
 #### Art. 2
 
@@ -41,6 +40,8 @@ von der Regierung erlassen am 1. März 2005
 <sup>1</sup> Die Kommission überwacht die Aufnahme- und Abschlussprüfungen an den Mittelschulen. Sie führt Unterrichtsbesuche durch und berät das Amt im Bereich des Mittelschulwesens.
 
 <sup>2</sup> Über die Prüfungsüberwachung und die Unterrichtsbesuche erstatten die Kommissionsmitglieder dem Amt Bericht.
+
+<sup>3</sup> Die Kommission unterstützt das Amt bei der Begleitung der Qualitätsentwicklung und -sicherung an den Mittelschulen und bei der periodischen Überprüfung der Zielerreichung der Leistungsaufträge an die privaten Mittelschulen.
 
 #### Art. 3
 

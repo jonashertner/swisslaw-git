@@ -1,22 +1,21 @@
 ---
 canton: GR
 number: "425.040"
-title: Ordinanza sulla Commissione di vigilanza per le scuole medie
+title: Ordinanza sulla Commissione di vigilanza per le scuole medie superiori
 language: it
-version: 2005-03-01
-corrected: 2019-05-22
-version_adopted: 2005-03-01
+version: 2026-07-01
+version_adopted: 2026-06-23
 adopted: 2005-03-01
 in_force: 2005-03-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/425.040"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/2051/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3650/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
 
-# Ordinanza sulla Commissione di vigilanza per le scuole medie
+# Ordinanza sulla Commissione di vigilanza per le scuole medie superiori
 
-del 01.03.2005 (stato 01.03.2005)
+del 01.03.2005 (stato 01.07.2026)
 
 emanata dal Governo il 1° marzo 2005
 
@@ -28,19 +27,21 @@ visti l'art. 2 cpv. 1 n. 1 e l'art. 19 della legge concernente le scuole medie d
 
 **Composizione**
 
-<sup>1</sup> La Commissione di vigilanza è composta da nove membri eletti dal Governo. Detiene la presidenza il capo dell'ufficio competente per le scuole medie. Nella composizione della Commissione si deve tenere adeguatamente conto delle tre aree linguistiche del Cantone.
+<sup>1</sup> La Commissione di vigilanza è composta da almeno cinque membri nominati dal Governo. Detiene la presidenza il capo dell'ufficio competente per le scuole medie superiori. Nella composizione della Commissione si deve tenere adeguatamente conto delle tre aree linguistiche del Cantone.
 
-<sup>2</sup> Per dibattere affari la Commissione può far capo a direttori delle scuole medie o ad altri specialisti.
+<sup>2</sup> Per dibattere affari la Commissione può far capo a direttori delle scuole medie superiori o ad altri specialisti.
 
-<sup>3</sup> Per il resto trovano applicazione le disposizioni dell'ordinanza per i dipendenti in servizio parziale del Cantone dei Grigioni.
+<sup>3</sup> Per il resto trovano applicazione le disposizioni dell'ordinanza per i collaboratori a titolo accessorio del Cantone dei Grigioni.
 
 #### Art. 2
 
 **Compiti**
 
-<sup>1</sup> La Commissione vigila sugli esami di ammissione e sugli esami finali alle scuole medie. Effettua visite durante le lezioni e consiglia l'ufficio nel settore delle scuole medie.
+<sup>1</sup> La Commissione vigila sugli esami di ammissione e sugli esami finali alle scuole medie superiori. Effettua visite durante le lezioni e consiglia l'ufficio nel settore delle scuole medie superiori.
 
 <sup>2</sup> I membri della Commissione rendono conto all'ufficio riguardo alla vigilanza sugli esami e alle visite durante le lezioni.
+
+<sup>3</sup> La Commissione sostiene l'Ufficio nell'accompagnamento dello sviluppo e della garanzia della qualità nelle scuole medie superiori nonché nella verifica periodica del raggiungimento degli obiettivi dei mandati di prestazioni conferiti alle scuole medie superiori private.
 
 #### Art. 3
 

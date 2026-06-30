@@ -3,20 +3,19 @@ canton: GR
 number: "425.040"
 title: Ordinaziun davart la cumissiun da surveglianza dals fatgs da scola media
 language: rm
-version: 2005-03-01
-corrected: 2019-05-22
-version_adopted: 2005-03-01
+version: 2026-07-01
+version_adopted: 2026-06-23
 adopted: 2005-03-01
 in_force: 2005-03-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/425.040"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/2051/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3650/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Ordinaziun davart la cumissiun da surveglianza dals fatgs da scola media
 
-dals 01-03-2005 (versiun dals 01-03-2005)
+dals 01-03-2005 (versiun dals 01-07-2026)
 
 sa basond sin l'art. 2 al. 1 cifra 1 e sin l'art. 19 da la lescha davart las scolas medias en il chantun Grischun[^ingress-1]
 
@@ -28,7 +27,7 @@ relaschada da la regenza il 1. da mars 2005
 
 **Cumposiziun**
 
-<sup>1</sup> La cumissiun da surveglianza consista da nov commembras e commembers elegids da la regenza. La manadra u il manader da l'uffizi ch'è cumpetent per ils fatgs da scola media occupa il presidi. Tar la cumposiziun da la cumissiun ston vegnir resguardads adequatamain ils trais territoris linguistics.
+<sup>1</sup> La cumissiun da surveglianza consista d'almain tschintg commembras e commembers elegids da la Regenza. La manadra u il manader da l'uffizi ch'è cumpetent per ils fatgs da scola media occupa il presidi. Tar la cumposiziun da la cumissiun ston vegnir resguardads adequatamain ils trais territoris linguistics dal chantun.
 
 <sup>2</sup> Per tractar fatschentas po la cumissiun consultar las recturas u ils recturs da las scolas medias u autras spezialistas u auters spezialists.
 
@@ -41,6 +40,8 @@ relaschada da la regenza il 1. da mars 2005
 <sup>1</sup> La cumissiun surveglia ils examens d'admissiun ed ils examens finals da las scolas medias. Ella visita l'instrucziun e cusseglia l'uffizi en il sectur dals fatgs da scola media.
 
 <sup>2</sup> Davart la surveglianza dals examens e davart las visitas da l'instrucziun rapporteschan las commembras ed ils commembers a l'uffizi.
+
+<sup>3</sup> La cumissiun sustegna l'uffizi en connex cun l'accumpagnament dal svilup e da la garanzia da la qualitad a las scolas medias ed en connex cun la controlla periodica da l'adempliment da las finamiras da las incaricas da prestaziun a las scolas medias privatas.
 
 #### Art. 3
 
