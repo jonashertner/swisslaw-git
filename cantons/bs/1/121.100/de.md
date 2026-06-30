@@ -4,13 +4,12 @@ number: "121.100"
 title: Bürgerrechtsgesetz
 short: BüRG
 language: de
-version: 2018-01-01
-valid_until: 2026-06-30
-version_adopted: 2017-10-19
+version: 2026-07-01
+version_adopted: 2025-12-10
 adopted: 2017-10-19
 in_force: 2018-01-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/121.100"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/4323/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6866/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ Bürgerrechtsgesetz | Bürgerecht
 
 (BüRG)
 
-Vom 19. Oktober 2017 (Stand 1. Januar 2018)
+Vom 19. Oktober 2017 (Stand 1. Juli 2026)
 
 Der Grosse Rat des Kantons Basel-Stadt,
 
@@ -264,11 +263,30 @@ beschliesst:
 
 #### § 24
 
-**Gebühren**
+**Grundsatz**
 
-<sup>1</sup> Die Aufnahme in das Bürgerrecht erfolgt gegen Vorauszahlung der kantonalen und kommunalen Gebühren.
+<sup>1</sup> Der Kanton und die Bürgergemeinden können für Verfahren nach diesem Gesetz höchstens kostendeckende Gebühren erheben.
 
-<sup>2</sup> Ausländerinnen und Ausländer, die in der Schweiz geboren sind, sowie Schweizer Bürgerinnen und Bürger werden bis zur Vollendung des 19. Lebensjahres bei der erstmaligen Gesuchseinreichung von den Gebühren nach Abs. 1 befreit. Der Kanton trägt die Kosten.
+<sup>2</sup> …
+
+#### § 24a
+
+**Kantonale Einbürgerungsverfahren**
+
+<sup>1</sup> Kantonale Einbürgerungsverfahren sind gebührenfrei.
+
+#### § 24b
+
+**Kommunale Einbürgerungsverfahren**
+
+<sup>1</sup> Für kommunale Einbürgerungsverfahren können Gebühren erhoben werden. Diese können im Voraus bezogen werden.
+
+<sup>2</sup> Von der Gebührenpflicht befreit sind Gesuchstellende, die zum Zeitpunkt der Gesuchseinreichung:
+
+- a) das 25. Lebensjahr noch nicht vollendet haben;
+- b) Leistungen der Sozialhilfe, Ergänzungsleistungen oder Prämienverbilligungen beziehen.
+
+<sup>3</sup> Die Kosten der Einbürgerungsverfahren gemäss Abs. 2 trägt der Kanton.
 
 ## 7. Rechtsmittel
 
@@ -297,9 +315,5 @@ beschliesst:
 <sup>1</sup> Erwerb und Verlust des Bürgerrechts richten sich nach dem Recht, das bei Eintritt des massgebenden Tatbestandes in Kraft steht.
 
 <sup>2</sup> Vor dem Inkrafttreten dieses Gesetzes eingereichte Gesuche werden bis zum Entscheid über das Gesuch nach den Bestimmungen des bisherigen Rechts behandelt.
-
-*Schlussbestimmung*
-
-Dieses Gesetz ist zu publizieren. Es unterliegt dem Referendum und tritt am 1. Januar 2018 in Kraft. Auf den gleichen Zeitpunkt wird das Bürgerrechtsgesetz (BüRG) vom 29. April 1992 aufgehoben.
 
 KB 11.11.2017
