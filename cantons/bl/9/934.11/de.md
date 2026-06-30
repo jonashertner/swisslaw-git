@@ -1,40 +1,40 @@
 ---
 canton: BL
 number: "934.11"
-title: "Verordnung über die Organisation des Kranken-, Rettungs- und Leichentransports"
+title: Verordnung über die Organisation des Kranken- und Rettungstransports
 language: de
-version: 2018-03-06
-valid_until: 2026-06-30
-version_adopted: 2018-03-06
+version: 2026-07-01
+version_adopted: 2026-02-03
 adopted: 2000-02-08
 in_force: 2000-03-01
 url: "https://bl.clex.ch/app/de/texts_of_law/934.11"
-pdf: "https://bl.clex.ch/api/de/versions/2144/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/4478/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Verordnung über die Organisation des Kranken-, Rettungs- und Leichentransports
+# Verordnung über die Organisation des Kranken- und Rettungstransports
 
-Vom 08.02.2000 (Stand 06.03.2018)
+Vom 08.02.2000 (Stand 01.07.2026)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
-gestützt auf § 74 Absatz 2 der Verfassung des Kantons Basel-Landschaft vom 17. Mai 1984[^ingress-1],
+gestützt auf § 74 Abs. 2 der Verfassung des Kantons Basel-Landschaft vom 17. Mai 1984[^ingress-1] und das Gesundheitsgesetz (GesG) vom 21. Februar 2008[^ingress-2],
 
 beschliesst:
 
-[^ingress-1]: GS 29.276; SGS [100](https://bl.clex.ch/data/100/de/art74)
+[^ingress-1]: [SGS 100](https://bl.clex.ch/data/100/de/art74)
+[^ingress-2]: [SGS 901](https://bl.clex.ch/data/901/de)
 
 #### § 1
 
 **Geltungsbereich**
 
-<sup>1</sup> Diese Verordnung regelt den vom Kanton gemäss § 44 des Gesundheitsgesetzes vom 10. Dezember 1973[^1-1] zu organisierenden Transport von Kranken und Verunfallten, tödlich Verunfallten sowie den von der Polizei Basel-Landschaft veranlassten Transport von anderen Leichen.
+<sup>1</sup> Diese Verordnung regelt den vom Kanton gemäss § 72 des Gesundheitsgesetzes[^1-1] zu organisierenden Transport von Kranken und Verunfallten.
 
 <sup>2</sup> Bei Katastrophen gelten andere oder zusätzliche Bestimmungen.
 
-[^1-1]: GS 25.379, SGS 901
+[^1-1]: [SGS 901](https://bl.clex.ch/data/901/de/art72)
 
 #### § 2
 
@@ -48,15 +48,15 @@ beschliesst:
 
 <sup>2</sup> Rettungstransporte sind medizinisch- und/oder unfallbedingte Notfall-Patiententransporte mit erweiterten Erstehilfemassnahmen, gegebenenfalls mit medizinischen Massnahmen zur Aufrechterhaltung oder Wiederherstellung der Vitalfunktionen, ausgeführt gemäss § 9.
 
-<sup>3</sup> Leichentransporte sind die von der Polizei Basel-Landschaft veranlassten Transporte von Verstorbenen.
+<sup>3</sup> …
 
 #### § 3
 
 **Aufsicht / Rettungskommission**
 
-<sup>1</sup> Die mit dieser Verordnung geregelten Transportdienste stehen unter der fachlichen Aufsicht der Volkswirtschafts- und Sanitätsdirektion (kurz: Direktion).
+<sup>1</sup> Die mit dieser Verordnung geregelten Transportdienste stehen unter der fachlichen Aufsicht der Volkswirtschafts- und Gesundheitsdirektion (kurz: «Direktion»).
 
-<sup>2</sup> Der Direktion steht beratend die Rettungskommission zur Seite. Diese besteht aus mindestens 7 Mitgliedern, welche der Regierungsrat auf Antrag der Direktion aus dem Kreis der Rettungsdienste, der Sanitätsnotrufzentrale beider Basel, der Notärzte, der Polizei, der Feuerwehr sowie der zuständigen Behörden für Gesundheit und Bevölkerungsschutz wählt. Die Kantonsärztin oder der Kantonsarzt präsidiert die Kommission von Amtes wegen.
+<sup>2</sup> Der Direktion steht beratend die Rettungskommission zur Seite. Diese besteht aus mindestens 7 Mitgliedern, welche der Regierungsrat auf Antrag der Direktion aus dem Kreis der Rettungsdienste, der Sanitätsnotrufzentrale beider Basel, der Notärzte, der Polizei, der Feuerwehr sowie der zuständigen Behörden für Gesundheit und Bevölkerungsschutz wählt. Die Kantonsärztin oder der Kantonsarzt präsidiert die Kommission von Amts wegen.
 
 #### § 4
 
@@ -64,7 +64,7 @@ beschliesst:
 
 <sup>1</sup> Die Rettungs- und Krankentransportdienste haben mindestens die Anforderungen gemäss den von der Direktion bezeichneten Richtlinien des Interverbandes für Rettungswesen (IVR) bezüglich Verfügbarkeit der Dienste, Ausrüstung und Ausbildung des Personals von Kranken- und Rettungstransporten zu erfüllen.
 
-<sup>2</sup> Die Leichentransportdienste haben stets mit zwei Personen auszurücken, die bei der allfälligen Bergung der Leiche die Hilfe der Polizei Basel-Landschaft nicht beanspruchen müssen.
+<sup>2</sup> …
 
 <sup>3</sup> Weitere Anforderungen und Auflagen werden vertraglich geregelt.
 
@@ -78,9 +78,7 @@ beschliesst:
 - b. der Krankentransportdienst Kantonsspital Bruderholz,
 - c. der Krankentransportdienst Kantonsspital Laufen.
 
-<sup>2</sup> Die Volkswirtschafts- und Sanitätsdirektion ist dafür besorgt, dass durch Verträge mit privaten und mit ausserkantonalen, öffentlichen Transportdiensten für die entsprechenden, im Anhang I und II festgelegten Einsatzgebiete die Transporte gemäss dieser Verordnung durchgeführt werden können. Das Gesetz vom 3. Juni 1999[^5-1] über öffentliche Beschaffungen gilt im Bereich der privaten Anbieter.
-
-[^5-1]: GS 33.1062, SGS [420](https://bl.clex.ch/data/420/de)
+<sup>2</sup> Die Direktion ist dafür besorgt, dass durch Verträge mit privaten und mit ausserkantonalen, öffentlichen Transportdiensten für die entsprechenden, im Anhang 1 festgelegten Einsatzgebiete die Transporte gemäss dieser Verordnung durchgeführt werden können.
 
 #### § 6
 
@@ -94,7 +92,7 @@ beschliesst:
 
 **Rettungstransporte**
 
-<sup>1</sup> Das Gebiet des Kantons Basel-Landschaft wird für die terrestrischen Rettungstransporte in die Einsatzgebiete gemäss Anhang I aufgeteilt. Die für diese Einsatzgebiete gemäss vertraglicher Absprache zuständigen privaten Transportdienste sind von der Direktion in den Anhang I zu integrieren.
+<sup>1</sup> Das Gebiet des Kantons Basel-Landschaft wird für die terrestrischen Rettungstransporte in die Einsatzgebiete gemäss Anhang 1 aufgeteilt. Die für diese Einsatzgebiete gemäss vertraglicher Absprache zuständigen privaten Transportdienste sind von der Direktion in den Anhang 1 zu integrieren.
 
 #### § 8
 
@@ -116,19 +114,17 @@ beschliesst:
 
 #### § 10
 
-**Leichentransporte**
-
-<sup>1</sup> Das Gebiet des Kantons Basel-Landschaft wird für die durch die Polizei Basel-Landschaft veranlassten Leichentransporte in die Einsatzgebiete gemäss Anhang II aufgeteilt. Die für diese Einsatzgebiete gemäss vertraglicher Absprache zuständigen privaten Transportdienste sind von der Direktion in den Anhang II zu integrieren.
+**…**
 
 #### § 11
 
-**Notrufzentrale Telefon 144 / Telefonzentrale Leichentransport**
+**Notrufzentrale Telefon 144**
 
 <sup>1</sup> Die Sanität Kantonspital Liestal betreibt in Zusammenarbeit mit der Polizei Basel-Landschaft eine Notrufzentrale 144. Sie nimmt Notrufe über das Telefon-Festnetz aus den Bezirken Liestal, Sissach und Waldenburg entgegen sowie alle Notrufe auf dieser Nummer, die über Mobiltelefone getätigt werden.
 
 <sup>2</sup> Die Notrufzentrale arbeitet nach den von der Direktion bezeichneten Richtlinien des IVR. Sie leisten insbesondere Gewähr dafür, dass der zuständige und geeignete Rettungsdienst bei Notfällen unverzüglich aufgeboten wird und dass die Anrufe in geeigneter Weise registriert und aufgezeichnet werden.
 
-<sup>3</sup> Die Leichentransporte sind über die im Anhang II zugeordnete Telefonzentrale anzufordern.
+<sup>3</sup> …
 
 #### § 12
 
