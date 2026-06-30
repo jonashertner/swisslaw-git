@@ -4,11 +4,11 @@ title: "Ordinanza dell'Istituto svizzero per gli agenti terapeutici del 9 novemb
 short: OOMed
 eli: "https://fedlex.data.admin.ch/eli/cc/2001/517"
 language: it
-version: 2026-02-01
+version: 2026-07-01
 adopted: 2001-11-09
 in_force: 2002-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/517/20260201/it/xml/fedlex-data-admin-ch-eli-cc-2001-517-20260201-it-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2001/517/20260201/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/517/20260701/it/xml/fedlex-data-admin-ch-eli-cc-2001-517-20260701-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2001/517/20260701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2001/517/20260201/it"
 
 (Ordinanza per l’omologazione di medicamenti, OOMed)
 
-del 9 novembre 2001 (Stato 1° febbraio 2026)
+del 9 novembre 2001 (Stato 1° luglio 2026)
 
 Il Consiglio dell’Istituto svizzero per gli agenti terapeutici (Consiglio dell’Istituto),
 
@@ -416,7 +416,7 @@ Swissmedic libera una partita se essa soddisfa le specifiche di qualità omologa
 
 <sup>2</sup> Deve notificare a Swissmedic anche il ritiro di una partita liberata da un’autorità estera.
 
-<sup>3</sup> ...[^22-1]
+<sup>3</sup> …[^22-1]
 
 [^22-1]: Abrogato dalla cifra I dell’O del Consiglio dell’Istituto del 7 set. 2018, con effetto dal 1° gen. 2019 ([RU 2018 3621](https://fedlex.data.admin.ch/eli/oc/2018/589)).
 
@@ -770,8 +770,8 @@ Allegato 3a[^t-6]
 
 [^annex3a-lvlu1-1]
 
-[^t-6]: Introdotto dalla cifra II cpv. 4 dell’O del Consiglio dell’Istituto del 7 set. 2018 ([RU 2018 3621](https://fedlex.data.admin.ch/eli/oc/2018/589)). Nuovo testo giusta la cifra I dell’O del Consiglio dell’Istituto dell’8 mag. 2020 ([RU 2020 1843](https://fedlex.data.admin.ch/eli/oc/2020/374)). Aggiornato dalla cifra I dell’O del Consiglio dell’Istituto del 26 apr. 2024, in vigore dal 1° lug. 2024 ([RU 2024 209](https://fedlex.data.admin.ch/eli/oc/2024/209)).
-[^annex3a-lvlu1-1]: Il contenuto del presente all. è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2024/209](https://fedlex.data.admin.ch/eli/oc/2024/209) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
+[^t-6]: Introdotto dalla cifra II cpv. 4 dell’O del Consiglio dell’Istituto del 7 set. 2018 ([RU 2018 3621](https://fedlex.data.admin.ch/eli/oc/2018/589)). Nuovo testo giusta la cifra I dell’O del Consiglio dell’Istituto dell’8 mag. 2020 ([RU 2020 1843](https://fedlex.data.admin.ch/eli/oc/2020/374)). Aggiornato dalle cifre I delle O del Consiglio dell’Istituto del 26 apr. 2024 ([RU 2024 209](https://fedlex.data.admin.ch/eli/oc/2024/209)) e del 17 apr. 2026, in vigore dal 1° lug. 2026 ([RU 2026 179](https://fedlex.data.admin.ch/eli/oc/2026/179)).
+[^annex3a-lvlu1-1]: Il contenuto del presente all. è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2026/179](https://fedlex.data.admin.ch/eli/oc/2026/179) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
 
 Allegato 4[^t-7]
 
@@ -1018,7 +1018,7 @@ Allegato 5.4[^t-11]
 
 Contenuto del testo fisso:
 
-### Informazione destinata ai pazienti
+Informazione destinata ai pazienti
 
 Medicamento tradizionale cinese *[o tibetano oppure ayurvedico]* da usare secondo i principi terapeutici della medicina cinese *[o tibetana oppure ayurvedica]*. L’uso e la sicurezza si basano esclusivamente sull’esperienza tradizionale e non sono esaminati da un’autorità. Il medicamento deve quindi essere utilizzato solo su prescrizione o raccomandazione di uno specialista qualificato appositamente nella medicina cinese *[o tibetana oppure ayurvedica]*.
 
@@ -1194,8 +1194,8 @@ Allegato 7a[^t-14]
 
 [^annex7a-lvlu1-1]
 
-[^t-14]: Introdotto dalla cifra II cpv. 2 dell’O del Consiglio dell’Istituto del 12 gen. 2022 ([RU 2022 17](https://fedlex.data.admin.ch/eli/oc/2022/17)). Aggiornato dalla cifra I dell’O del Consiglio dell’Istituto del 26 apr. 2024, in vigore dal 1° lug. 2024 ([RU 2024 209](https://fedlex.data.admin.ch/eli/oc/2024/209)).
-[^annex7a-lvlu1-1]: Il contenuto del presente all. è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2024/209](https://fedlex.data.admin.ch/eli/oc/2024/209) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
+[^t-14]: Introdotto dalla cifra II cpv. 2 dell’O del Consiglio dell’Istituto del 12 gen. 2022 ([RU 2022 17](https://fedlex.data.admin.ch/eli/oc/2022/17)). Aggiornato dalla cifra I dell’O del Consiglio dell’Istituto del 26 apr. 2024 ([RU 2024 209](https://fedlex.data.admin.ch/eli/oc/2024/209)) e del 17 apr. 2026, in vigore dal 1° lug. 2026 ([RU 2026 179](https://fedlex.data.admin.ch/eli/oc/2026/179)).
+[^annex7a-lvlu1-1]: Il contenuto del presente all. è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2026/179](https://fedlex.data.admin.ch/eli/oc/2026/179) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
 
 Allegati 8 e 9[^t-15]
 

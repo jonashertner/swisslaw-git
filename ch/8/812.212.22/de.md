@@ -4,11 +4,11 @@ title: "Verordnung des Schweizerischen Heilmittelinstituts vom 9. November 2001 
 short: AMZV
 eli: "https://fedlex.data.admin.ch/eli/cc/2001/517"
 language: de
-version: 2026-02-01
+version: 2026-07-01
 adopted: 2001-11-09
 in_force: 2002-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/517/20260201/de/xml/fedlex-data-admin-ch-eli-cc-2001-517-20260201-de-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2001/517/20260201/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/517/20260701/de/xml/fedlex-data-admin-ch-eli-cc-2001-517-20260701-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2001/517/20260701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2001/517/20260201/de"
 
 (Arzneimittel-Zulassungsverordnung, AMZV)
 
-vom 9. November 2001 (Stand am 1. Februar 2026)
+vom 9. November 2001 (Stand am 1. Juli 2026)
 
 Der Institutsrat des Schweizerischen Heilmittelinstituts (Institutsrat),
 
@@ -769,8 +769,8 @@ Anhang 3a[^t-6]
 
 [^annex3a-lvlu1-1]
 
-[^t-6]: Eingefügt durch Ziff. II Abs. 4 der V des Institutsrats vom 7. Sept. 2018 ([AS 2018 3621](https://fedlex.data.admin.ch/eli/oc/2018/589)). Fassung gemäss Ziff. I der V des Institutsrats vom 8. Mai 2020 ([AS 2020 1843](https://fedlex.data.admin.ch/eli/oc/2020/374)). Bereinigt gemäss Ziff. I der V des Institutsrats vom 26. April 2024, in Kraft seit 1. Juli 2024 ([AS 2024 209](https://fedlex.data.admin.ch/eli/oc/2024/209)).
-[^annex3a-lvlu1-1]: Der Inhalt dieser Anhänge wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter: [https://fedlex.data.admin.ch/eli/oc/2024/209](https://fedlex.data.admin.ch/eli/oc/2024/209) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
+[^t-6]: Eingefügt durch Ziff. II Abs. 4 der V des Institutsrats vom 7. Sept. 2018 ([AS 2018 3621](https://fedlex.data.admin.ch/eli/oc/2018/589)). Fassung gemäss Ziff. I der V des Institutsrats vom 8. Mai 2020 ([AS 2020 1843](https://fedlex.data.admin.ch/eli/oc/2020/374)). Bereinigt gemäss Ziff. I der V des Institutsrats vom 26. April 2024 ([AS 2024 209](https://fedlex.data.admin.ch/eli/oc/2024/209)) und vom 17. April 2026, in Kraft seit 1. Juli 2026 ([AS 2026 179](https://fedlex.data.admin.ch/eli/oc/2026/179)).
+[^annex3a-lvlu1-1]: Der Inhalt dieses Anhangs wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter [https://fedlex.data.admin.ch/eli/oc/2026/179](https://fedlex.data.admin.ch/eli/oc/2026/179) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
 
 Anhang 4[^t-7]
 
@@ -1211,8 +1211,8 @@ Anhang 7a[^t-14]
 
 [^annex7a-lvlu1-1]
 
-[^t-14]: Eingefügt durch Ziff. II Abs. 2 der V des Institutsrats vom 12. Jan. 2022 ([AS 2022 17](https://fedlex.data.admin.ch/eli/oc/2022/17)). Bereinigt gemäss Ziff. I der V des Institutsrats vom 26. April 2024, in Kraft seit 1. Juli 2024 ([AS 2024 209](https://fedlex.data.admin.ch/eli/oc/2024/209)).
-[^annex7a-lvlu1-1]: Der Inhalt dieser Anhänge wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter: [https://fedlex.data.admin.ch/eli/oc/2024/209](https://fedlex.data.admin.ch/eli/oc/2024/209) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
+[^t-14]: Eingefügt durch Ziff. II Abs. 2 der V des Institutsrats vom 12. Jan. 2022 ([AS 2022 17](https://fedlex.data.admin.ch/eli/oc/2022/17)). Bereinigt gemäss Ziff. I der V des Institutsrats vom 26. April 2024 ([AS 2024 209](https://fedlex.data.admin.ch/eli/oc/2024/209)) und vom 17. April 2026, in Kraft seit 1. Juli 2026 ([AS 2026 179](https://fedlex.data.admin.ch/eli/oc/2026/179)).
+[^annex7a-lvlu1-1]: Der Inhalt dieses Anhangs wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter [https://fedlex.data.admin.ch/eli/oc/2026/179](https://fedlex.data.admin.ch/eli/oc/2026/179) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
 
 Anhang 8 und 9[^t-15]
 

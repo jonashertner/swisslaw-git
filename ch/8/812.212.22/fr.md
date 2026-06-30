@@ -4,11 +4,11 @@ title: "Ordonnance de l'Institut suisse des produits thérapeutiques du 9 novemb
 short: OEMéd
 eli: "https://fedlex.data.admin.ch/eli/cc/2001/517"
 language: fr
-version: 2026-02-01
+version: 2026-07-01
 adopted: 2001-11-09
 in_force: 2002-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/517/20260201/fr/xml/fedlex-data-admin-ch-eli-cc-2001-517-20260201-fr-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2001/517/20260201/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/517/20260701/fr/xml/fedlex-data-admin-ch-eli-cc-2001-517-20260701-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2001/517/20260701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2001/517/20260201/fr"
 
 (Ordonnance sur les exigences relatives aux médicaments, OEMéd)
 
-du 9 novembre 2001 (État le 1<sup>er</sup> février 2026)
+du 9 novembre 2001 (État le 1<sup>er</sup> juillet 2026)
 
 Le Conseil de l’Institut suisse des produits thérapeutiques (Conseil de l’institut),
 
@@ -690,8 +690,8 @@ Annexe 1b[^t-3]
   - k. la date de péremption en clair, les instructions de stockage et, si nécessaire, le délai d’utilisation après la première ouverture du récipient;
   - l. le numéro d’autorisation.
 
-- 1\.2. Pour les monopréparations, le nom du médicament correspond à sa désignation pharmaceutique (ch. 1.1, let. a) et au nom usuel du principe actif dans le secteur concerné (p. ex. nom en *pinyin* pour les produits de médecine chinoise).
-- 1\.3. Pour les associations fixes de médicaments, on utilise le nom usuel employé dans les publications spécialisées; pour les préparations autorisées sur déclaration, on emploie exclusivement le nom usuel indiqué dans les ouvrages standard figurant dans la liste publiée par Swissmedic (p. ex. «Chai Ling Tang», ch. 1.1, let. a); la dénomination ne fera l’objet d’aucun ajout ni d’aucune modification.
+- 1\.2 Pour les monopréparations, le nom du médicament correspond à sa désignation pharmaceutique (ch. 1.1, let. a) et au nom usuel du principe actif dans le secteur concerné (p. ex. nom en *pinyin* pour les produits de médecine chinoise).
+- 1\.3 Pour les associations fixes de médicaments, on utilise le nom usuel employé dans les publications spécialisées; pour les préparations autorisées sur déclaration, on emploie exclusivement le nom usuel indiqué dans les ouvrages standard figurant dans la liste publiée par Swissmedic (p. ex. «Chai Ling Tang», ch. 1.1, let. a); la dénomination ne fera l’objet d’aucun ajout ni d’aucune modification.
 - 1\.4
 
   Déclaration complète signifie que:
@@ -769,8 +769,8 @@ Annexe 3a[^t-6]
 
 [^annex3a-lvlu1-1]
 
-[^t-6]: Introduite par le ch. II al. 4 de l’O du Conseil de l’Institut du 7 sept. 2018 ([RO 2018 3621](https://fedlex.data.admin.ch/eli/oc/2018/589)). Nouvelle teneur selon le ch. I de l’O du Conseil de l’Institut du 8 mai 2020 ([RO 2020 1843](https://fedlex.data.admin.ch/eli/oc/2020/374)). Mise à jour par le ch. I de l’O du Conseil de l’Institut du 26 avr. 2024, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 209](https://fedlex.data.admin.ch/eli/oc/2024/209)).
-[^annex3a-lvlu1-1]: Le contenu de cette annexe est publié dans le RO et le RS uniquement sous forme de renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2024/209](https://fedlex.data.admin.ch/eli/oc/2024/209) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi
+[^t-6]: Introduite par le ch. II al. 4 de l’O du Conseil de l’Institut du 7 sept. 2018 ([RO 2018 3621](https://fedlex.data.admin.ch/eli/oc/2018/589)). Nouvelle teneur selon le ch. I de l’O du Conseil de l’Institut du 8 mai 2020 ([RO 2020 1843](https://fedlex.data.admin.ch/eli/oc/2020/374)). Mise à jour par le ch. I des O du Conseil de l’Institut du 26 avr. 2024 ([RO 2024 209](https://fedlex.data.admin.ch/eli/oc/2024/209)) et du 17 avr. 2026, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2026 179](https://fedlex.data.admin.ch/eli/oc/2026/179)).
+[^annex3a-lvlu1-1]: Le contenu de cette annexe est publié dans le RO et le RS uniquement sous forme de renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2026/179](https://fedlex.data.admin.ch/eli/oc/2026/179) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
 
 Annexe 4[^t-7]
 
@@ -1214,8 +1214,8 @@ Annexe 7a[^t-14]
 
 [^annex7a-lvlu1-1]
 
-[^t-14]: Introduite par le ch. II al. 2 de l’O du Conseil de l’Institut du 12 janv. 2022 ([RO 2022 17](https://fedlex.data.admin.ch/eli/oc/2022/17)). Mise à jour par le ch. I de l’O du Conseil de l’Institut du 26 avr. 2024, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 209](https://fedlex.data.admin.ch/eli/oc/2024/209)).
-[^annex7a-lvlu1-1]: Le contenu de cette annexe est publié dans le RO et le RS uniquement sous forme de renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2024/209](https://fedlex.data.admin.ch/eli/oc/2024/209) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi
+[^t-14]: Introduite par le ch. II al. 2 de l’O du Conseil de l’Institut du 12 janv. 2022 ([RO 2022 17](https://fedlex.data.admin.ch/eli/oc/2022/17)). Mise à jour par le ch. I des O du Conseil de l’Institut du 26 avr. 2024 ([RO 2024 209](https://fedlex.data.admin.ch/eli/oc/2024/209)) et du 17 avr. 2026, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2026 179](https://fedlex.data.admin.ch/eli/oc/2026/179)).
+[^annex7a-lvlu1-1]: Le contenu de cette annexe est publié dans le RO et le RS uniquement sous forme de renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2026/179](https://fedlex.data.admin.ch/eli/oc/2026/179) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
 
 Annexes 8 et 9[^t-15]
 
