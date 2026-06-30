@@ -3,18 +3,18 @@ sr: "747.301"
 title: Ordinanza del 20 novembre 1956 sulla navigazione marittima
 eli: "https://fedlex.data.admin.ch/eli/cc/1956/1369_1458_1473"
 language: it
-version: 2025-01-01
+version: 2026-07-01
 adopted: 1956-11-20
 in_force: 1957-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1956/1369_1458_1473/20250101/it/xml/fedlex-data-admin-ch-eli-cc-1956-1369_1458_1473-20250101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1956/1369_1458_1473/20250101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1956/1369_1458_1473/20260701/it/xml/fedlex-data-admin-ch-eli-cc-1956-1369_1458_1473-20260701-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1956/1369_1458_1473/20260701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza sulla navigazione marittima
 
-del 20 novembre 1956 (Stato 1° gennaio 2025)[^t-1]
+del 20 novembre 1956 (Stato 1° luglio 2026)[^t-1]
 
 [^t-1]: Nuovo testo del tit. giusta la cifra I dell’O del 29 giu. 1977, in vigore dal 1° ago. 1977 ([RU 1977 1338](https://fedlex.data.admin.ch/eli/oc/1977/1338_1338_1338)).
 
@@ -24,8 +24,8 @@ visti gli articoli 5, 11, 12, 20, 21, 23, 24, 26, 30, 33, 47, 50, 62, 63, 84, 12
 
 decreta:
 
-[^ingress-1]: [RS 747.30](https://fedlex.data.admin.ch/eli/cc/1956/1305_1395_1407)
-[^ingress-2]: [RS 747.11](https://fedlex.data.admin.ch/eli/cc/40/62_63_63)
+[^ingress-1]: [RS 747.30](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9017)
+[^ingress-2]: [RS 747.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8907)
 [^ingress-3]: Nuovo testo giusta la cifra I dell’O del 5 mag. 1993, in vigore dal 1° giu. 1993 ([RU 1993 1710](https://fedlex.data.admin.ch/eli/oc/1993/1710_1710_1710)).
 
 ## Capo primo: Organizzazione
@@ -44,11 +44,13 @@ Il Dipartimento federale degli affari esteri[^1-1] provvede all’organizzazione
 
 #### Art. 2
 
-<sup>1</sup> La gestione dell’Ufficio svizzero del registro del naviglio è affidata all’ufficiale del registro fondiario del Cantone di Basilea Città.
+[^2-1]
 
-<sup>2</sup> L’Ufficio svizzero del registro del naviglio è sottoposto alla vigilanza del Dipartimento federale di giustizia e polizia, il quale, d’intesa con il Dipartimento federale delle finanze[^2-1], determina l’indennità spettante all’ufficiale del registro fondiario del Cantone di Basilea Città.
+<sup>1</sup> La gestione dell’Ufficio svizzero del registro del naviglio è affidata all’Ufficio del registro fondiario e delle misure catastali del Cantone di Basilea Città.
 
-[^2-1]: Nuova denominazione giusta l’art. 1 del DCF del 23 apr. 1980 concernente l’adattamento delle disposizioni di diritto federale alle nuove denominazioni dei dipartimenti e uffici (non pubblicato).
+<sup>2</sup> L’Ufficio svizzero del registro del naviglio è sottoposto alla vigilanza del Dipartimento federale di giustizia e polizia, il quale, d’intesa con il Dipartimento federale delle finanze, determina l’indennità spettante all’Ufficio del registro fondiario e delle misure catastali del Cantone di Basilea Città.
+
+[^2-1]: Nuovo testo giusta la cifra I dell’O del 27 mag. 2026, in vigore dal 1° lug. 2026 ([RU 2026 307](https://fedlex.data.admin.ch/eli/oc/2026/307)).
 
 ### 3. Consolati svizzeri
 
@@ -94,10 +96,21 @@ Il Dipartimento federale di giustizia e polizia emana le istruzioni necessarie a
 
 <sup>1</sup> Le navi di imprese secondo l’articolo 19 della legge sulla navigazione marittima sono iscritte nel registro del naviglio svizzero se le condizioni stabilite dalla legge sulla navigazione marittima e dalla presente ordinanza sono adempiute.
 
-<sup>2</sup> Salvo disposizioni contrarie della legge sulla navigazione marittima o della presente ordinanza, si applicano le disposizioni del Codice delle obbligazioni[^5-2] in materia di rappresentanza di imprese secondo l’articolo 19 della legge sulla navigazione marittima.
+<sup>1bis</sup>
+
+Il registro è composto dai seguenti due sottoregistri:
+
+- a. l’inventario del naviglio svizzero;
+- b. il registro relativo ai diritti reali sulle navi svizzere.[^5-2]
+
+<sup>1ter</sup> Le navi possono essere iscritte in uno dei due sottoregistri, se sono adempiute le relative condizioni.[^5-3]
+
+<sup>2</sup> Salvo disposizioni contrarie della legge sulla navigazione marittima o della presente ordinanza, si applicano le disposizioni del Codice delle obbligazioni[^5-4] in materia di rappresentanza di imprese secondo l’articolo 19 della legge sulla navigazione marittima.
 
 [^5-1]: Nuovo testo giusta la cifra I dell’O del 9 ott. 2024, in vigore dal 1° gen. 2025 ([RU 2024 574](https://fedlex.data.admin.ch/eli/oc/2024/574)).
-[^5-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^5-2]: Introdotto dalla cifra I dell’O del 27 mag. 2026, in vigore dal 1° lug. 2026 ([RU 2026 307](https://fedlex.data.admin.ch/eli/oc/2026/307)).
+[^5-3]: Introdotto dalla cifra I dell’O del 27 mag. 2026, in vigore dal 1° lug. 2026 ([RU 2026 307](https://fedlex.data.admin.ch/eli/oc/2026/307)).
+[^5-4]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 ### 2. ...
 
@@ -197,8 +210,8 @@ Sono considerati fondi propri giusta l’articolo 24 capoverso 1 della legge sul
 <sup>4</sup> Il Dipartimento federale degli affari esteri può escludere dal controllo di determinate o di tutte le imprese di proprietari svizzeri di navi le imprese di revisione che contravvengano alle disposizioni della presente ordinanza.
 
 [^5f-1]: Nuovo testo giusta la cifra II 6 dell’all. all’O del 22 ago. 2007 sui revisori, in vigore dal 1° set. 2006 ([RU 2007 3989](https://fedlex.data.admin.ch/eli/oc/2007/534)).
-[^5f-2]: [RS 221.302](https://fedlex.data.admin.ch/eli/cc/2007/533)
-[^5f-3]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^5f-2]: [RS 221.302](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5919)
+[^5f-3]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 ### 7*a* *.* Riserva di ulteriori modificazioni
 
@@ -208,7 +221,62 @@ Sono considerati fondi propri giusta l’articolo 24 capoverso 1 della legge sul
 
 #### Art. 5g
 
-Se il proprietario di una nave non adempie più le condizioni di iscrizione nel registro del naviglio svizzero a causa della modificazione delle disposizioni della presente ordinanza, si applicano le disposizioni degli articoli 27-29 della legge.
+[^5g-1]
+
+Se il proprietario di una nave non adempie più le condizioni di iscrizione nel registro del naviglio svizzero a causa della modificazione delle disposizioni della presente ordinanza, si applicano le disposizioni degli articoli 27–29 della legge sulla navigazione marittima. Queste disposizioni si applicano per analogia agli armatori iscritti nell’inventario del naviglio svizzero.
+
+[^5g-1]: Nuovo testo giusta la cifra I dell’O del 27 mag. 2026, in vigore dal 1° lug. 2026 ([RU 2026 307](https://fedlex.data.admin.ch/eli/oc/2026/307)).
+
+### 7*b*. Inventario del naviglio svizzero
+
+[^chapII-lvlI-lvl7b-1]
+
+[^chapII-lvlI-lvl7b-1]: Introdotto dalla cifra I dell’O del 27 mag. 2026, in vigore dal 1° lug. 2026 ([RU 2026 307](https://fedlex.data.admin.ch/eli/oc/2026/307)).
+
+### a. Iscrizione e cancellazione
+
+#### Art. 5h
+
+<sup>1</sup> Nell’inventario del naviglio svizzero possono essere iscritte le navi di armatori ai sensi dell’articolo 45 della legge sulla navigazione marittima che adempiono le condizioni di cui agli articoli 19 e 46 della stessa legge.
+
+<sup>2</sup> L’iscrizione di una nave nell’inventario del naviglio svizzero concerne unicamente la sua nazionalità e non produce alcun effetto quanto alla proprietà e ad altri diritti reali sulla nave.
+
+<sup>3</sup> La cancellazione dall’inventario avviene su richiesta dell’armatore o d’ufficio, se le condizioni di iscrizione non sono più adempiute.
+
+<sup>4</sup> La legislazione federale sul registro del naviglio e l’articolo 15 della presente ordinanza non si applicano alla tenuta dell’inventario del naviglio svizzero.
+
+### b. Gestione, forma e contenuto
+
+#### Art. 5i
+
+<sup>1</sup> L’inventario del naviglio svizzero è tenuto dall’Ufficio svizzero della navigazione marittima.
+
+<sup>2</sup> È tenuto in forma elettronica.
+
+<sup>3</sup>
+
+Contiene le seguenti informazioni:
+
+- a. il nome, la ditta e la sede del proprietario e dell’armatore;
+- b. il nome approvato della nave, le sue misure d’individuazione, il tonnellaggio o la stazza;
+- c. il tipo della nave, la sua destinazione principale, il materiale di costruzione e i mezzi di propulsione;
+- d. il costruttore della nave come pure la data e il luogo di costruzione;
+- e. eventualmente, la bandiera, il proprietario e l’armatore precedenti;
+- f. il numero d’ordine specifico per ogni nave.
+
+<sup>4</sup> L’inventario è pubblico.
+
+### 7*c*. Registro relativo ai diritti reali sulle navi svizzere
+
+[^chapII-lvlI-lvl7c-1]
+
+[^chapII-lvlI-lvl7c-1]: Introdotto dalla cifra I dell’O del 27 mag. 2026, in vigore dal 1° lug. 2026 ([RU 2026 307](https://fedlex.data.admin.ch/eli/oc/2026/307)).
+
+#### Art. 5j
+
+<sup>1</sup> Nel registro relativo ai diritti reali sulle navi svizzere possono essere iscritte le navi di proprietari che adempiono le condizioni di cui all’articolo 19 della legge sulla navigazione marittima nonché le altre condizioni previste per i proprietari nella citata legge e nella presente ordinanza.
+
+<sup>2</sup> Il registro contiene le informazioni di cui all’articolo 5*i* capoverso 3
 
 ### 8. Armatore non proprietario
 
@@ -234,28 +302,27 @@ Qualora l’armatore non sia proprietario della nave, l’Ufficio svizzero della
 
 [^7-1]
 
-<sup>1</sup>
-
-La richiesta di iscrizione di una nave nel registro del naviglio svizzero deve indicare:
-
-- a. il nome, la ditta e la sede del proprietario;
-- b. il nome approvato della nave, le sue misure d’individuazione, il tonnellaggio o la stazza;
-- c. il tipo della nave la sua destinazione principale, il materiale di costruzione ed i mezzi di propulsione;
-- d. il costruttore della nave come pure la data e il luogo di costruzione;
-- e. eventualmente, la bandiera e il proprietario precedenti.
+<sup>1</sup> La richiesta di iscrizione di una nave nel registro del naviglio svizzero deve indicare le informazioni di cui all’articolo 5*i* capoverso 3 lettere a–e.
 
 <sup>2</sup>
 
-Il proprietario della nave deve allegare alla richiesta:
+Alla richiesta di iscrizione nel registro relativo ai diritti reali sulle navi svizzere, il proprietario della nave deve allegare:
 
 - a. le dichiarazioni di conformità, di ammissione alla navigazione e di approvazione del nome rilasciate per la nave da iscrivere dall’Ufficio svizzero della navigazione marittima, come pure i documenti comprovanti la proprietà;
 - b. la prova che la nave, qualora sia già stata iscritta nel registro di un altro Stato, è stata cancellata dal registro precedente, o che la cancellazione avverrà al momento dell’iscrizione nel registro del naviglio svizzero;
 - c. una dichiarazione scritta secondo cui egli non ha richiesto né intende richiedere l’iscrizione della nave nel registro di un altro Stato;
-- d. la prova che la nave non è gravata da alcun diritto di pegno convenzionale oppure, se esistono tali diritti, che il creditore pignoratizio acconsente all’iscrizione del suo credito nel registro svizzero, in valuta svizzera, e all’assoggettamento dello stresso credito al diritto svizzero nonché, nel caso in cui il creditore sia straniero, che il suo diritto di pegno è ammissibile giusta l’articolo 5*d* capoverso 4.
+- d. la prova che la nave non è gravata da alcun diritto di pegno convenzionale oppure, se esistono tali diritti, che il creditore pignoratizio acconsente all’iscrizione del suo credito nel registro del naviglio svizzero, in valuta svizzera, e all’assoggettamento dello stesso credito al diritto svizzero.
 
-<sup>3</sup> Ogni modificazione dei dati summenzionati deve essere comunicata senza indugio dal proprietario della nave all’Ufficio svizzero del naviglio, che a sua volta ne informa l’Ufficio della navigazione marittima.
+<sup>2bis</sup>
 
-[^7-1]: Nuovo testo giusta la cifra I dell’O del 5 mag. 1993, in vigore dal 1° giu. 1993 ([RU 1993 1710](https://fedlex.data.admin.ch/eli/oc/1993/1710_1710_1710)).
+Alla richiesta di iscrizione nell’inventario del naviglio svizzero, l’armatore deve allegare:
+
+- a. le dichiarazioni di conformità, di ammissione alla navigazione e di approvazione del nome rilasciate per la nave da iscrivere dall’Ufficio svizzero della navigazione marittima, come pure i documenti comprovanti lo svolgimento dei compiti che incombono all’armatore;
+- b. la prova che la nave, qualora sia già stata iscritta nel registro di un altro Stato, può battere bandiera svizzera, o che la cancellazione dal registro dell’altro Stato avverrà al momento dell’iscrizione nell’inventario del naviglio svizzero.
+
+<sup>3</sup> Ogni modificazione dei dati summenzionati deve essere comunicata senza indugio dal proprietario della nave o dall’armatore all’Ufficio svizzero del registro del naviglio e all’Ufficio svizzero della navigazione marittima.
+
+[^7-1]: Nuovo testo giusta la cifra I dell’O del 27 mag. 2026, in vigore dal 1° lug. 2026 ([RU 2026 307](https://fedlex.data.admin.ch/eli/oc/2026/307)).
 
 ### II. Classificazione delle navi
 
@@ -303,25 +370,25 @@ Alle navi svizzere, al loro armamento e alla loro sicurezza, alla salvaguardia d
 
 <sup>2</sup> Le disposizioni delle convenzioni internazionali, indicate al capoverso 1, si applicano parimente alle navi svizzere con stanza lorda inferiore a cinquecento tonnellate; l’Ufficio svizzero della navigazione marittima può tuttavia accordare, in casi particolari, deroghe a tali navi, sempreché siano garantite la sicurezza necessaria e la salvaguardia della vita umana in mare.
 
-<sup>3</sup> e <sup>4</sup> ...[^9-19]
+<sup>3 e <sup>4</sup></sup> ...[^9-19]
 
 [^9-1]: Nuovo testo giusta la cifra I del DCF del 4 nov. 1966, in vigore dal 1° gen. 1967 ([RU 1966 1513](https://fedlex.data.admin.ch/eli/oc/1966/1475_1525_1513)).
 [^9-2]: Nuovo testo giusta la cifra I dell’O del 9 ott. 2024, in vigore dal 1° gen. 2025 ([RU 2024 574](https://fedlex.data.admin.ch/eli/oc/2024/574)).
-[^9-3]: [RS 0.747.305.411](https://fedlex.data.admin.ch/eli/cc/1968/728_753_747)
-[^9-4]: [RS 0.747.363.33](https://fedlex.data.admin.ch/eli/cc/1982/128_128_128)
-[^9-5]: [RS 0.747.363.331](https://fedlex.data.admin.ch/eli/cc/1982/1321_1321_1321)
-[^9-6]: [RS 0.747.363.321](https://fedlex.data.admin.ch/eli/cc/1977/1084_1084_1084)
+[^9-3]: [RS 0.747.305.411](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3072)
+[^9-4]: [RS 0.747.363.33](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3098)
+[^9-5]: [RS 0.747.363.331](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3099)
+[^9-6]: [RS 0.747.363.321](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3097)
 [^9-7]: Abrogata dalla cifra I dell’O del 9 ott. 2024, con effetto dal 1° gen. 2025 ([RU 2024 574](https://fedlex.data.admin.ch/eli/oc/2024/574)).
 [^9-8]: Nuovo testo giusta la cifra I dell’O del 9 ott. 2024, in vigore dal 1° gen. 2025 ([RU 2024 574](https://fedlex.data.admin.ch/eli/oc/2024/574)).
-[^9-9]: [RS 0.814.288.2](https://fedlex.data.admin.ch/eli/cc/1988/1652_1652_1652)
+[^9-9]: [RS 0.814.288.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3522)
 [^9-10]: [RU 2013 5525](https://fedlex.data.admin.ch/eli/oc/2013/887)
-[^9-11]: [RS 0.747.341.2](https://fedlex.data.admin.ch/eli/cc/1988/1639_1639_1639)
+[^9-11]: [RS 0.747.341.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3084)
 [^9-12]: Introdotta dalla cifra I dell’O del 9 dic. 1996, in vigore dal 1° feb. 1997 ([RU 1997 151](https://fedlex.data.admin.ch/eli/oc/1997/151_151_151)).
 [^9-13]: FF **1995** IV 259
 [^9-14]: Introdotta dalla cifra I dell’O del 20 feb. 2013, in vigore dal 20 ago. 2013 ([RU 2013 813](https://fedlex.data.admin.ch/eli/oc/2013/167)).
-[^9-15]: [RS 0.822.81](https://fedlex.data.admin.ch/eli/cc/2013/530)
+[^9-15]: [RS 0.822.81](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3669)
 [^9-16]: Introdotta dalla cifra I dell’O del 9 ott. 2024, in vigore dal 1° gen. 2025 ([RU 2024 574](https://fedlex.data.admin.ch/eli/oc/2024/574)).
-[^9-17]: [RS 0.747.305.412](https://fedlex.data.admin.ch/eli/cc/1982/1326_1326_1326)
+[^9-17]: [RS 0.747.305.412](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3073)
 [^9-18]: Nuovo testo giusta la cifra I dell’O del 22 dic. 1988, in vigore dal 1° feb. 1989 ([RU 1989 220](https://fedlex.data.admin.ch/eli/oc/1989/220_220_220)).
 [^9-19]: Abrogati dalla cifra I dell’O del 9 ott. 2024, con effetto dal 1° gen. 2025 ([RU 2024 574](https://fedlex.data.admin.ch/eli/oc/2024/574)).
 
@@ -367,7 +434,7 @@ Alle navi svizzere, al loro armamento e alla loro sicurezza, alla salvaguardia d
 
 <sup>2</sup> Resta salvo lo smaltimento di rifiuti derivanti dalla conduzione di navi conformemente al Protocollo del 17 febbraio 1978[^11a-1] relativo alla Convenzione internazionale del 1973 per la prevenzione dell’inquinamento da parte delle navi.
 
-[^11a-1]: [RS 0.814.288.2](https://fedlex.data.admin.ch/eli/cc/1988/1652_1652_1652)
+[^11a-1]: [RS 0.814.288.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3522)
 
 ### 3*b*. Incenerimento dei rifiuti
 
@@ -381,7 +448,7 @@ Alle navi svizzere, al loro armamento e alla loro sicurezza, alla salvaguardia d
 
 <sup>2</sup> Resta salvo l’incenerimento di rifiuti derivanti dalla conduzione di navi conformemente al Protocollo del 17 febbraio 1978[^11b-1] relativo alla Convenzione internazionale del 1973 per la prevenzione dell’inquinamento da parte delle navi.
 
-[^11b-1]: [RS 0.814.288.2](https://fedlex.data.admin.ch/eli/cc/1988/1652_1652_1652)
+[^11b-1]: [RS 0.814.288.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3522)
 
 ### 3*c* *.* Sistemi antivegetativi
 
@@ -393,7 +460,7 @@ Alle navi svizzere, al loro armamento e alla loro sicurezza, alla salvaguardia d
 
 Sulle navi svizzere sono vietati l’applicazione, la riapplicazione, l’installazione e l’uso dei sistemi antivegetativi elencati nell’allegato 1 alla Convenzione internazionale del 5 ottobre 2001[^11c-1] sul controllo dei sistemi antivegetativi nocivi sulle navi.
 
-[^11c-1]: [RS 0.814.295](https://fedlex.data.admin.ch/eli/cc/2013/889)
+[^11c-1]: [RS 0.814.295](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3532)
 
 ### IV. Composizione dell’equipaggio
 
@@ -431,11 +498,17 @@ Trattandosi di navi costruite e approntate prima del 1953, ma che siano già sta
 
 [^14-1]: All. II alla presente O.
 
-## Capo III. Menzione e annotazione della locazione di nave e di noleggio
+## Capo III. Locazione di navi, contratti di noleggio e polizze di carico
 
 [^chapIII-1]
 
-[^chapIII-1]: Nuovo testo del tit. giusta la cifra I del DCF del 4 nov. 1966, in vigore dal 1° gen. 1967 ([RU 1966 1513](https://fedlex.data.admin.ch/eli/oc/1966/1475_1525_1513)).
+[^chapIII-1]: Nuovo testo giusta la cifra I dell’O del 27 mag. 2026, in vigore dal 1° lug. 2026 ([RU 2026 307](https://fedlex.data.admin.ch/eli/oc/2026/307)).
+
+### 1. Menzione e annotazione della locazione di nave e del contratto di noleggio
+
+[^chapIII-lvl1-1]
+
+[^chapIII-lvl1-1]: Introdotto dalla cifra I dell’O del 27 mag. 2026, in vigore dal 1° lug. 2026 ([RU 2026 307](https://fedlex.data.admin.ch/eli/oc/2026/307)).
 
 #### Art. 15
 
@@ -447,8 +520,20 @@ Trattandosi di navi costruite e approntate prima del 1953, ma che siano già sta
 
 <sup>4</sup> Le disposizioni degli articoli 81 e 82 dell’ordinanza del 23 settembre 2011[^15-1] sul registro fondiario si applicano per analogia all’annotazione di un contratto di locazione giusta l’articolo 92 capoverso 5 della legge sulla navigazione marittima e di un contratto di noleggio secondo l’articolo 94 capoverso 3 della legge sulla navigazione marittima.[^15-2]
 
-[^15-1]: [RS 211.432.1](https://fedlex.data.admin.ch/eli/cc/2011/667)
+[^15-1]: [RS 211.432.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5787)
 [^15-2]: Introdotto dalla cifra I del DCF del 4 nov. 1966 ([RU 1966 1513](https://fedlex.data.admin.ch/eli/oc/1966/1475_1525_1513)). Nuovo testo giusta la cifra I dell’O del 9 ott. 2024, in vigore dal 1° gen. 2025 ([RU 2024 574](https://fedlex.data.admin.ch/eli/oc/2024/574)).
+
+### 2. Emissione di polizze di carico come diritti valori registrati
+
+[^chapIII-lvl2-1]
+
+[^chapIII-lvl2-1]: Introdotto dalla cifra I dell’O del 27 mag. 2026, in vigore dal 1° lug. 2026 ([RU 2026 307](https://fedlex.data.admin.ch/eli/oc/2026/307)).
+
+#### Art. 15a
+
+Possono essere emesse polizze di carico sotto forma di diritti valori registrati (art. 1153*a* del Diritto delle obbligazioni[^15a-1]).
+
+[^15a-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 ## Capo IV. Disciplina del lavoro marittimo
 
@@ -621,9 +706,9 @@ La durata della navigazione a bordo di una nave marittima, necessaria per il con
 <sup>4</sup> Durante la navigazione marittima, i radiotelegrafisti prestano quotidianamente un servizio di otto ore, conformemente alle disposizioni del Regolamento delle radiocomunicazioni del 17 novembre 1995[^26-2] allegato alla Costituzione del 22 dicembre 1992[^26-3] dell’Unione internazionale delle telecomunicazioni e alla Convenzione del 22 dicembre 1992[^26-4] dell’Unione internazionale delle telecomunicazioni. L’Ufficio svizzero della navigazione marittima, dopo aver sentito le cerchie interessate, può liberarli dal servizio di turno se la nave è equipaggiata con apparecchi radiotelegrafici automatici supplementari. Il capitano può adibirli a lavori di scritturazione o ad altre mansioni amministrative una volta terminati gli eventuali lavori di manutenzione o di riparazione degli impianti elettronici.[^26-5]
 
 [^26-1]: Nuovo testo giusta la cifra I dell’O del 22 dic. 1988, in vigore dal 1° feb. 1989 ([RU 1989 220](https://fedlex.data.admin.ch/eli/oc/1989/220_220_220)).
-[^26-2]: [RS 0.784.403.1](https://fedlex.data.admin.ch/eli/cc/2005/778)
-[^26-3]: [RS 0.784.01](https://fedlex.data.admin.ch/eli/cc/1996/1255_1255_1255)
-[^26-4]: [RS 0.784.02](https://fedlex.data.admin.ch/eli/cc/1996/1284_1284_1284)
+[^26-2]: [RS 0.784.403.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3376)
+[^26-3]: [RS 0.784.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3346)
+[^26-4]: [RS 0.784.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3351)
 [^26-5]: Nuovo testo giusta la cifra I dell’O del 9 ott. 2024, in vigore dal 1° gen. 2025 ([RU 2024 574](https://fedlex.data.admin.ch/eli/oc/2024/574)).
 
 ### b. In porto e alla rada
@@ -749,7 +834,7 @@ Al fini della tutela della salute e del benessere dell’equipaggio e avuto rigu
 <sup>3</sup> In caso di violazione delle disposizioni della Convenzione sul lavoro marittimo del 23 febbraio 2006[^37-2] sulle condizioni di lavoro nel trasporto marittimo, il componente dell’equipaggio è abilitato a presentare reclamo direttamente al funzionario competente del porto in cui la nave ha fatto scalo. In casi simili le organizzazioni dei lavoratori e dei datori di lavoro interessate possono richiedere l’assistenza giudiziaria di cui all’articolo 59 capoverso 3 della legge federale del 23 settembre 1953 sulla navigazione marittima sotto bandiera svizzera.[^37-3]
 
 [^37-1]: Nuovo testo giusta la cifra I dell’O del 20 feb. 2013, in vigore dal 20 ago. 2013 ([RU 2013 813](https://fedlex.data.admin.ch/eli/oc/2013/167)).
-[^37-2]: [RS 0.822.81](https://fedlex.data.admin.ch/eli/cc/2013/530)
+[^37-2]: [RS 0.822.81](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3669)
 [^37-3]: Introdotto dalla cifra I dell’O del 20 feb. 2013, in vigore dal 20 ago. 2013 ([RU 2013 813](https://fedlex.data.admin.ch/eli/oc/2013/167)).
 
 ### VII. Diritto alle vacanze dei componenti dell’equipaggio
@@ -763,7 +848,7 @@ Al fini della tutela della salute e del benessere dell’equipaggio e avuto rigu
 Il diritto minimo a vacanze pagate è determinato giusta l’articolo 329*a* del Codice delle obbligazioni[^38-2].
 
 [^38-1]: Nuovo testo giusta la cifra I dell’O del 22 dic. 1988, in vigore dal 1° feb. 1989 ([RU 1989 220](https://fedlex.data.admin.ch/eli/oc/1989/220_220_220)).
-[^38-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^38-2]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 ### 2. Attuazione
 
@@ -802,7 +887,7 @@ Il diritto minimo a vacanze pagate è determinato giusta l’articolo 329*a* del
 <sup>2</sup> Ogni armatore di una nave svizzera deve trasmettere una copia del contratto d’assicurazione all’Ufficio svizzero della navigazione marittima. Le società d’assicurazione sono tenute a informare l’Ufficio svizzero della navigazione marittima, mediante lettera raccomandata, della dichiarazione di recesso del contratto o della scadenza del medesimo.
 
 [^41-1]: Nuovo testo giusta la cifra I dell’O del 9 ott. 2024, in vigore dal 1° gen. 2025 ([RU 2024 574](https://fedlex.data.admin.ch/eli/oc/2024/574)).
-[^41-2]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^41-2]: [RS 832.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133)
 
 ### 2. Prestazioni minime; contratto-tipo
 
@@ -816,7 +901,7 @@ Il diritto minimo a vacanze pagate è determinato giusta l’articolo 329*a* del
 
 [^42-1]: Nuovo testo giusta la cifra I dell’O del 9 ott. 2024, in vigore dal 1° gen. 2025 ([RU 2024 574](https://fedlex.data.admin.ch/eli/oc/2024/574)).
 [^42-2]: All. III alla presente O.
-[^42-3]: [RS 0.822.81](https://fedlex.data.admin.ch/eli/cc/2013/530)
+[^42-3]: [RS 0.822.81](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3669)
 
 ### 3. Infortuni professionali
 
@@ -829,6 +914,18 @@ Sono considerati infortuni professionali tutti gli infortuni che colpiscono l’
 [^chapIV-lvlVIII-lvl4-1]
 
 [^chapIV-lvlVIII-lvl4-1]: Abrogato dalla cifra I dell’O del 22 dic. 1989, con effetto dal 1° feb. 1989 ([RU 1989 220](https://fedlex.data.admin.ch/eli/oc/1989/220_220_220)).
+
+### IX. Eccezione mediante accordo delle parti
+
+[^chapIV-lvlIX-1]
+
+[^chapIV-lvlIX-1]: Introdotto dalla cifra I dell’O del 27 mag. 2026, in vigore dal 1° lug. 2026 ([RU 2026 307](https://fedlex.data.admin.ch/eli/oc/2026/307)).
+
+#### Art. 43a
+
+Sono possibili disposizioni derogatorie agli articoli 23–31 e 38–40 nel quadro di un contratto collettivo di lavoro con un’organizzazione svizzera di lavoratori, a condizione che siano compatibili con le disposizioni della Convenzione del 23 febbraio 2006[^43a-1] sul lavoro marittimo e della legge sulla navigazione marittima.
+
+[^43a-1]: [RS 0.822.81](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3669)
 
 ## Capo V Limitazione della responsabilità
 
@@ -916,7 +1013,7 @@ In applicazione dell’articolo 105 capoverso 3 della legge sulla navigazione ma
 <sup>3</sup> Le comunicazioni e le ingiunzioni dirette dal commissario ai creditori sono effettuate mediante lettera raccomandata. Qualora il domicilio di un creditore sia ignoto o non possa aver luogo una notificazione a mezzo posta, si provvede a una notificazione pubblica nel *Foglio ufficiale svizzero di commercio,* nonchè, al caso, in organi di pubblicazione stranieri. Qualora un creditore risieda all’estero a un indirizzo sconosciuto, il commissario comunica la notificazione pubblicata alla rappresentanza diplomatica o consolare dello Stato interessato.
 
 [^47-1]: Nuovo testo giusta la cifra I dell’O del 22 dic. 1988, in vigore dal 1° feb. 1989 ([RU 1989 220](https://fedlex.data.admin.ch/eli/oc/1989/220_220_220)).
-[^47-2]: [RS 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^47-2]: [RS 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
 
 ### 4. Comunicazioni ai creditori
 
@@ -1244,7 +1341,7 @@ In caso di avaria comune sono applicabili le regole di York e di Anversa nel ten
 
 <sup>2</sup> Il termine «armatore», usato per il procedimento di limitazione della responsabilità mediante la costituzione di fondi di limitazione, è applicabile per analogia a qualsiasi persona che, conformemente agli articoli 49 e 126 capoverso 2 della legge sulla navigazione marittima e alle convenzioni internazionali ivi menzionate, può invocare la limitazione della responsabilità.[^70-2]
 
-[^70-1]: [RS 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^70-1]: [RS 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
 [^70-2]: Nuovo testo giusta la cifra I dell’O del 3 set. 1997, in vigore dal 1° nov. 1997 ([RU 1997 2186](https://fedlex.data.admin.ch/eli/oc/1997/2186_2186_2186)).
 
 ### II. Autorità giudiziarie competenti
@@ -1255,7 +1352,7 @@ In caso di avaria comune sono applicabili le regole di York e di Anversa nel ten
 
 <sup>2</sup> Le violazioni, nel corso di una procedura esecutiva, degli articoli 46 e 51 devono essere fatte valere mediante reclamo ai sensi dell’articolo 17 e seguenti della legge federale dell’11 aprile 1889[^71-1] sulla esecuzione e sul fallimento.
 
-[^71-1]: [RS 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^71-1]: [RS 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
 
 ### III. Arbitrato
 
@@ -1285,7 +1382,7 @@ Allegato I
 
 [^annexI-lvlu1-1]
 
-[^annexI-lvlu1-1]: [RS 0.747.363.321](https://fedlex.data.admin.ch/eli/cc/1977/1084_1084_1084)
+[^annexI-lvlu1-1]: [RS 0.747.363.321](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3097)
 
 Allegato II[^t-2]
 
@@ -1316,7 +1413,7 @@ Approvato dal Consiglio federale il 23 novembre 1965
 
 <sup>2</sup> Appartengono all’equipaggio il capitano e gli altri marittimi che hanno un’occupazione a bordo e che come tali sono iscritti nel ruolo.
 
-[^annexIII-lvlu1-lvlA-lvlI-1-1]: [RS 747.30](https://fedlex.data.admin.ch/eli/cc/1956/1305_1395_1407)
+[^annexIII-lvlu1-lvlA-lvlI-1-1]: [RS 747.30](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9017)
 
 ### II. Estensione dell’assicurazione
 
@@ -1383,11 +1480,11 @@ In deroga:
 - c. agli articoli 84 a 87 della LAMI[^annexIII-lvlu1-lvlB-lvlI-6-4], la rendita della vedova o del vedovo ammonta al 40 per cento, la rendita d’orfano semplice al 20 per cento, la rendita d’orfano doppio al 35 per cento e le rendite degli ascendenti e dei fratelli e sorelle insieme al 25 per cento del salario preso in considerazione conformemente alla lettera d. Le rendite ai superstiti non possono, in totale, superare il 90 per cento di tale salario;
 - d. agli articoli 74 capoverso 2, e 78 della LAMI[^annexIII-lvlu1-lvlB-lvlI-6-5], si considera salario solo la mercede di base, cui vanno aggiunti gli importi da dichiarare all’assicurazione vecchiaia e superstiti (detta qui di seguito «AVS») per il mantenimento e l’alloggio, fino a concorrenza dell’importo massimo del guadagno annuale valido per l’assicurazione contro gli infortuni obbligatoria.
 
-[^annexIII-lvlu1-lvlB-lvlI-6-1]: [CS **8** 273; CS **2** 193 in fine cifra II art. 6 n. 2 disp. fin. e trans. tit. X; [RU 1959 876](https://fedlex.data.admin.ch/eli/oc/1959/858_888_876); [1964 981](https://fedlex.data.admin.ch/eli/oc/1964/965_961_981); [1968 65](https://fedlex.data.admin.ch/eli/oc/1968/64_66_65); [1977 2249](https://fedlex.data.admin.ch/eli/oc/1977/2249_2249_2249)cifra I n. 611; [1982 196](https://fedlex.data.admin.ch/eli/oc/1982/196_196_196), [2184](https://fedlex.data.admin.ch/eli/oc/1982/2184_2184_2184)art. 114; [1990 1091](https://fedlex.data.admin.ch/eli/oc/1990/1091_1091_1091); [1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362)cifra II n. 412; [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)all. n. 37; [1995 511](https://fedlex.data.admin.ch/eli/oc/1995/511_511_511); [1998 3125](https://fedlex.data.admin.ch/eli/oc/1998/3125_3125_3125)all. n. 4. [RU 1995 1328](https://fedlex.data.admin.ch/eli/oc/1995/1328_1328_1328)all. n. 1]. Vedi ora la LF del 20 mar. 1981 sull’assicurazione contro gli infortuni ([RS 832.20](https://fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676)).
-[^annexIII-lvlu1-lvlB-lvlI-6-2]: Ora: agli art. 16 e 17 della LF del 20 mar. 1981 sull’assicurazione contro gli infortuni ([RS 832.20](https://fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676)).
-[^annexIII-lvlu1-lvlB-lvlI-6-3]: Ora: all’art. 20 della LF del 20 mar. 1981 sull’assicurazione contro gli infortuni ([RS 832.20](https://fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676)).
-[^annexIII-lvlu1-lvlB-lvlI-6-4]: Ora: agli art. 28 a 33 della LF del 20 mar. 1981 sull’assicurazione contro gli infortuni ([RS 832.20](https://fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676)).
-[^annexIII-lvlu1-lvlB-lvlI-6-5]: Ora: agli art. 15 e 17 della LF del 20 mar. 1981 sull’assicurazione contro gli infortuni ([RS 832.20](https://fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676)).
+[^annexIII-lvlu1-lvlB-lvlI-6-1]: [CS **8** 273; CS **2** 193 in fine cifra II art. 6 n. 2 disp. fin. e trans. tit. X; [RU 1959 876](https://fedlex.data.admin.ch/eli/oc/1959/858_888_876); [1964 981](https://fedlex.data.admin.ch/eli/oc/1964/965_961_981); [1968 65](https://fedlex.data.admin.ch/eli/oc/1968/64_66_65); [1977 2249](https://fedlex.data.admin.ch/eli/oc/1977/2249_2249_2249)cifra I n. 611; [1982 196](https://fedlex.data.admin.ch/eli/oc/1982/196_196_196), [2184](https://fedlex.data.admin.ch/eli/oc/1982/2184_2184_2184)art. 114; [1990 1091](https://fedlex.data.admin.ch/eli/oc/1990/1091_1091_1091); [1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362)cifra II n. 412; [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)all. n. 37; [1995 511](https://fedlex.data.admin.ch/eli/oc/1995/511_511_511); [1998 3125](https://fedlex.data.admin.ch/eli/oc/1998/3125_3125_3125)all. n. 4. [RU 1995 1328](https://fedlex.data.admin.ch/eli/oc/1995/1328_1328_1328)all. n. 1]. Vedi ora la LF del 20 mar. 1981 sull’assicurazione contro gli infortuni ([RS 832.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10190)).
+[^annexIII-lvlu1-lvlB-lvlI-6-2]: Ora: agli art. 16 e 17 della LF del 20 mar. 1981 sull’assicurazione contro gli infortuni ([RS 832.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10190)).
+[^annexIII-lvlu1-lvlB-lvlI-6-3]: Ora: all’art. 20 della LF del 20 mar. 1981 sull’assicurazione contro gli infortuni ([RS 832.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10190)).
+[^annexIII-lvlu1-lvlB-lvlI-6-4]: Ora: agli art. 28 a 33 della LF del 20 mar. 1981 sull’assicurazione contro gli infortuni ([RS 832.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10190)).
+[^annexIII-lvlu1-lvlB-lvlI-6-5]: Ora: agli art. 15 e 17 della LF del 20 mar. 1981 sull’assicurazione contro gli infortuni ([RS 832.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10190)).
 
 ### II. Assicurazione contro le malattie
 
@@ -1449,7 +1546,7 @@ L’assicurato è tenuto a fornire alla compagnia, entro 14 giorni, a pena di de
 
 Qualora la compagnia receda dal contratto, fondandosi sull’articolo 42 della legge federale del 2 aprile 1908[^annexIII-lvlu1-lvlD-13-1] sul contratto d’assicurazione, la sua garanzia cessa 14 giorni dopo la notifica alla contraente. Se la nave si trova ancora in mare, il contratto resta in ogni modo in vigore sino alla fine del viaggio iniziato, cioè sino all’arrivo nel porto di destinazione o in un porto di rifugio, nel qual caso il porto di rifugio è considerato come porto di destinazione.
 
-[^annexIII-lvlu1-lvlD-13-1]: [RS 221.229.1](https://fedlex.data.admin.ch/eli/cc/24/719_735_717)
+[^annexIII-lvlu1-lvlD-13-1]: [RS 221.229.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5912)
 
 #### Art. 14
 
@@ -1463,7 +1560,7 @@ Per ogni controversia relativa al presente contratto, sono competenti esclusivam
 
 Valgono inoltre le disposizioni della legge federale del 2 aprile 1908[^annexIII-lvlu1-lvlD-16-1] sul contratto d’assicurazione.
 
-[^annexIII-lvlu1-lvlD-16-1]: [RS 221.229.1](https://fedlex.data.admin.ch/eli/cc/24/719_735_717)
+[^annexIII-lvlu1-lvlD-16-1]: [RS 221.229.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5912)
 
 Allegato IV[^t-4]
 

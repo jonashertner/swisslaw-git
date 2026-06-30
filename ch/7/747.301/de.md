@@ -3,18 +3,18 @@ sr: "747.301"
 title: Seeschifffahrtsverordnung vom 20. November 1956
 eli: "https://fedlex.data.admin.ch/eli/cc/1956/1369_1458_1473"
 language: de
-version: 2025-01-01
+version: 2026-07-01
 adopted: 1956-11-20
 in_force: 1957-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1956/1369_1458_1473/20250101/de/xml/fedlex-data-admin-ch-eli-cc-1956-1369_1458_1473-20250101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1956/1369_1458_1473/20250101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1956/1369_1458_1473/20260701/de/xml/fedlex-data-admin-ch-eli-cc-1956-1369_1458_1473-20260701-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1956/1369_1458_1473/20260701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Seeschifffahrtsverordnung
 
-vom 20. November 1956 (Stand am 1. Januar 2025)[^t-1]
+vom 20. November 1956 (Stand am 1. Juli 2026)[^t-1]
 
 [^t-1]: AS **1956** 1369 Fassung gemäss Ziff. I der V vom 29. Juni 1977, in Kraft seit 1. Aug. 1977 (AS **1977** 1338).
 
@@ -24,8 +24,8 @@ gestützt auf die Artikel 5, 11, 12, 20, 21, 23, 24, 26, 30, 33, 47, 50, 62, 63,
 
 beschliesst:
 
-[^ingress-1]: [SR 747.30](https://fedlex.data.admin.ch/eli/cc/1956/1305_1395_1407)
-[^ingress-2]: [SR 747.11](https://fedlex.data.admin.ch/eli/cc/40/62_63_63)
+[^ingress-1]: [SR 747.30](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9017)
+[^ingress-2]: [SR 747.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8907)
 [^ingress-3]: Fassung gemäss Ziff. I der V vom 5. Mai 1993, in Kraft seit 1. Juni 1993 ([AS 1993 1710](https://fedlex.data.admin.ch/eli/oc/1993/1710_1710_1710)).
 
 ## Erster Abschnitt: Organisatorische Bestimmungen
@@ -44,11 +44,13 @@ Das Eidgenössische Departement für auswärtige Angelegenheiten[^1-1] ordnet di
 
 #### Art. 2
 
-<sup>1</sup> Die Geschäftsführung des Schweizerischen Seeschiffsregisteramtes wird dem Grundbuchverwalter des Kantons Basel-Stadt übertragen.
+[^2-1]
 
-<sup>2</sup> Das Schweizerische Seeschiffsregisteramt steht unter der Aufsicht des Eidgenössischen Justiz- und Polizeidepartements, das im Einvernehmen mit dem Eidgenössischen Finanzdepartement[^2-1] die Entschädigung des Grundbuchverwalters des Kantons Basel-Stadt bestimmt.
+<sup>1</sup> Die Geschäftsführung des Schweizerischen Seeschiffsregisteramtes wird dem Grundbuch- und Vermessungsamt des Kantons Basel-Stadt übertragen.
 
-[^2-1]: Bezeichnung gemäss Art. 1 des nicht veröffentlichten BRB vom 23. April 1980 über die Anpassung von bundesrechtlichen Erlassen an die neuen Bezeichnungen der Departemente und Ämter. Diese Änderung ist im ganzen Erlass berücksichtigt.
+<sup>2</sup> Das Schweizerische Seeschiffsregisteramt steht unter der Aufsicht des Eidgenössischen Justiz- und Polizeidepartements, das im Einvernehmen mit dem Eidgenössischen Finanzdepartement die Entschädigung des Grundbuch- und Vermessungsamts des Kantons Basel-Stadt bestimmt.
+
+[^2-1]: Fassung gemäss Ziff. I der V vom 27. Mai 2026, in Kraft seit 1. Juli 2026 ([AS 2026 307](https://fedlex.data.admin.ch/eli/oc/2026/307)).
 
 ### 3. Schweizerische Konsulate
 
@@ -94,10 +96,21 @@ Für die Durchführung der zivilrechtlichen Aufgaben des Kapitäns nach Artikel 
 
 <sup>1</sup> Seeschiffe von Unternehmen nach Artikel 19 des Seeschifffahrtsgesetzes werden im Register der schweizerischen Seeschiffe eingetragen, wenn die Voraussetzungen nach dem Seeschifffahrtsgesetz und dieser Verordnung erfüllt sind.
 
-<sup>2</sup> Soweit das Seeschifffahrtsgesetz oder diese Verordnung nichts anderes bestimmt, gelten die Bestimmungen des Obligationenrechts[^5-2] über die Vertretung der Unternehmen nach Artikel 19 des Seeschifffahrtsgesetzes.
+<sup>1bis</sup>
+
+Das Register besteht aus folgenden zwei Unterregistern:
+
+- a. dem Verzeichnis der schweizerischen Seeschiffe;
+- b. dem Register über die dinglichen Rechte an schweizerischen Seeschiffen.[^5-2]
+
+<sup>1ter</sup> Die Seeschiffe können in einem der beiden Unterregister eingetragen werden, wenn sie die jeweiligen Voraussetzungen erfüllen.[^5-3]
+
+<sup>2</sup> Soweit das Seeschifffahrtsgesetz oder diese Verordnung nichts anderes bestimmt, gelten die Bestimmungen des Obligationenrechts[^5-4] über die Vertretung der Unternehmen nach Artikel 19 des Seeschifffahrtsgesetzes.
 
 [^5-1]: Fassung gemäss Ziff. I der V vom 9. Okt. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 574](https://fedlex.data.admin.ch/eli/oc/2024/574)).
-[^5-2]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^5-2]: Eingefügt durch Ziff. I der V vom 27. Mai 2026, in Kraft seit 1. Juli 2026 ([AS 2026 307](https://fedlex.data.admin.ch/eli/oc/2026/307)).
+[^5-3]: Eingefügt durch Ziff. I der V vom 27. Mai 2026, in Kraft seit 1. Juli 2026 ([AS 2026 307](https://fedlex.data.admin.ch/eli/oc/2026/307)).
+[^5-4]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 ### 2. …
 
@@ -197,10 +210,10 @@ Als eigene Mittel im Sinne von Artikel 24 Absatz 1 des Seeschifffahrtsgesetzes g
 <sup>4</sup> Das Eidgenössische Departement für auswärtige Angelegenheiten kann Revisionsunternehmen, die den Bestimmungen dieser Verordnung zuwiderhandeln, als Revisionsstellen für bestimmte oder alle Unternehmen schweizerischer Schiffseigentümer ausschliessen.
 
 [^5f-1]: Fassung gemäss Anhang Ziff. II 6 der Revisionsaufsichtsverordnung vom 22. Aug. 2007, in Kraft seit 1. Sept. 2007 ([AS 2007 3989](https://fedlex.data.admin.ch/eli/oc/2007/534)).
-[^5f-2]: [SR 221.302](https://fedlex.data.admin.ch/eli/cc/2007/533)
-[^5f-3]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^5f-2]: [SR 221.302](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5919)
+[^5f-3]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
-### 7a. Vorbehalt künftiger Änderungen
+### 7*a*. Vorbehalt künftiger Änderungen
 
 [^chapII-lvlI-lvl7a-1]
 
@@ -208,7 +221,62 @@ Als eigene Mittel im Sinne von Artikel 24 Absatz 1 des Seeschifffahrtsgesetzes g
 
 #### Art. 5g
 
-Erfüllt ein Schiffseigentümer im Falle einer künftigen Änderung die Bestimmungen dieser Verordnung über die Voraussetzungen für die Registrierung schweizerischer Seeschiffe nicht mehr, so finden die Bestimmungen der Artikel 27–29 des Seeschifffahrtsgesetzes Anwendung.
+[^5g-1]
+
+Erfüllt ein Schiffseigentümer im Falle einer künftigen Änderung die Bestimmungen dieser Verordnung über die Voraussetzungen für die Registrierung schweizerischer Seeschiffe nicht mehr, so finden die Bestimmungen der Artikel 27–29 des Seeschifffahrtsgesetzes Anwendung. Für Reeder im Verzeichnis der schweizerischen Seeschiffe gelten diese Bestimmungen sinngemäss.
+
+[^5g-1]: Fassung gemäss Ziff. I der V vom 27. Mai 2026, in Kraft seit 1. Juli 2026 ([AS 2026 307](https://fedlex.data.admin.ch/eli/oc/2026/307)).
+
+### 7*b*. Verzeichnis der schweizerischen Seeschiffe
+
+[^chapII-lvlI-lvl7b-1]
+
+[^chapII-lvlI-lvl7b-1]: Eingefügt durch Ziff. I der V vom 27. Mai 2026, in Kraft seit 1. Juli 2026 ([AS 2026 307](https://fedlex.data.admin.ch/eli/oc/2026/307)).
+
+### a. Eintragung und Streichung
+
+#### Art. 5h
+
+<sup>1</sup> Im Verzeichnis der schweizerischen Seeschiffe können Schiffe von Reedern im Sinne von Artikel 45 des Seeschifffahrtsgesetzes eingetragen werden, die die Voraussetzungen nach den Artikeln 19 und 46 des Seeschifffahrtsgesetzes erfüllen.
+
+<sup>2</sup> Die Eintragung eines Seeschiffes im Verzeichnis der schweizerischen Seeschiffe berührt nur seine Staatsangehörigkeit und ist ohne Einfluss auf das Eigentum und andere dingliche Rechte am Seeschiff.
+
+<sup>3</sup> Die Streichung aus dem Verzeichnis erfolgt auf Antrag des Reeders oder von Amtes wegen, wenn die Voraussetzungen für die Eintragung nicht mehr erfüllt sind.
+
+<sup>4</sup> Die Gesetzgebung des Bundes über das Schiffsregister und Artikel 15 dieser Verordnung sind auf die Einrichtung und Führung des Verzeichnisses der schweizerischen Seeschiffe nicht anwendbar.
+
+### b. Führung, Form und Inhalt
+
+#### Art. 5i
+
+<sup>1</sup> Das Verzeichnis der schweizerischen Seeschiffe wird vom Schweizerischen Seeschifffahrtsamt geführt.
+
+<sup>2</sup> Es wird in elektronischer Form geführt.
+
+<sup>3</sup>
+
+Es enthält folgende Informationen:
+
+- a. Name, Firma und Sitz des Eigentümers und des Reeders;
+- b. den genehmigten Namen des Seeschiffes, seine Merkmale und seine Tonnage oder Raumzahl;
+- c. die Gattung, Zweckbestimmung, den Baustoff und die Antriebsmittel des Seeschiffes;
+- d. den Erbauer des Seeschiffes sowie die Zeit und den Ort des Baus;
+- e. gegebenenfalls die frühere Flagge, den früheren Eigentümer und den früheren Reeder des Seeschiffes;
+- f. die schiffsspezifische Ordnungsnummer.
+
+<sup>4</sup> Das Verzeichnis ist öffentlich.
+
+### 7*c*. Register über die dinglichen Rechte an schweizerischen Seeschiffen
+
+[^chapII-lvlI-lvl7c-1]
+
+[^chapII-lvlI-lvl7c-1]: Eingefügt durch Ziff. I der V vom 27. Mai 2026, in Kraft seit 1. Juli 2026 ([AS 2026 307](https://fedlex.data.admin.ch/eli/oc/2026/307)).
+
+#### Art. 5j
+
+<sup>1</sup> Im Register über die dinglichen Rechte an schweizerischen Seeschiffen können Seeschiffe von Eigentümern eingetragen werden, die die Voraussetzungen nach Artikel 19 des Seeschifffahrtsgesetzes und die weiteren Voraussetzungen für Eigentümer gemäss dem Seeschifffahrtsgesetz und dieser Verordnung erfüllen.
+
+<sup>2</sup> Das Register enthält die Informationen nach Artikel 5*i* Absatz 3.
 
 ### 8. Reeder-Nichteigentümer
 
@@ -232,26 +300,29 @@ Ist ein Reeder nicht zugleich Eigentümer eines Seeschiffes, so überwacht das S
 
 #### Art. 7
 
-<sup>1</sup>
+[^7-1]
 
-Der Antrag auf Eintragung eines Seeschiffes im Register der schweizerischen Seeschiffe muss enthalten:
-
-- a. Name, Firma und Sitz des Eigentümers;
-- b. den genehmigten Namen des Seeschiffes, seine Merkmale und seine Tonnage oder Raumzahl;
-- c. die Gattung, Zweckbestimmung, den Baustoff und die Antriebsmittel des Seeschiffes;
-- d. den Erbauer des Seeschiffes sowie die Zeit und den Ort des Baus;
-- e. gegebenenfalls die frühere Flagge und den früheren Eigentümer des Seeschiffes.
+<sup>1</sup> Der Antrag auf Eintragung eines Seeschiffes im Register der schweizerischen Seeschiffe muss die Informationen nach Artikel 5*i* Absatz 3 Buchstaben a–e enthalten.
 
 <sup>2</sup>
 
-Der Schiffseigentümer hat dem Antrag beizulegen:
+Der Schiffseigentümer muss dem Antrag auf Eintragung in das Register über die dinglichen Rechte an schweizerischen Seeschiffen beilegen:
 
 - a. die Übereinstimmungsbescheinigung, die Bescheinigung über die Zulassung zur Seeschifffahrt und die Genehmigung des Namens, ausgestellt für das einzutragende Seeschiff vom Schweizerischen Seeschifffahrtsamt, sowie den Eigentumsnachweis;
-- b. den Nachweis, dass das Seeschiff, falls es bereits im Register eines andern Staates eingetragen war, daselbst gestrichen ist oder dass die Streichung im Zeitpunkt der Eintragung in das Register der schweizerischen Seeschiffe erfolgen wird;
-- c. eine schriftliche Erklärung, dass er die Eintragung des Seeschiffes im Register eines andern Staates weder beantragt hat noch beantragen wird;
-- d. den Nachweis, dass auf dem Seeschiff keine vertraglichen Pfandrechte lasten oder, falls solche vorhanden sind, dass der Pfandgläubiger der Eintragung des Pfandrechts in schweizerischer Währung in das Register der schweizerischen Seeschiffe und der Unterstellung des Anspruches unter schweizerisches Recht zustimmt, und, falls der Pfandgläubiger Ausländer ist, dass dessen Pfandrecht nach Artikel 5*d* Absatz 4 zulässig ist.
+- b. den Nachweis, dass das Seeschiff, falls es bereits im Register eines anderen Staates eingetragen war, daselbst gestrichen ist oder dass die Streichung im Zeitpunkt der Eintragung in das Register der schweizerischen Seeschiffe erfolgen wird;
+- c. eine schriftliche Erklärung, dass er die Eintragung des Seeschiffes im Register eines anderen Staates weder beantragt hat noch beantragen wird;
+- d. den Nachweis, dass auf dem Seeschiff keine vertraglichen Pfandrechte lasten oder, falls solche vorhanden sind, dass der Pfandgläubiger der Eintragung des Pfandrechts in schweizerischer Währung in das Register der schweizerischen Seeschiffe und der Unterstellung des Anspruches unter schweizerisches Recht zustimmt.
 
-<sup>3</sup> Jede Änderung der angegebenen Tatsachen ist vom Schiffseigentümer unverzüglich dem Schweizerischen Seeschiffsregisteramt zu melden, das sie an das Schweizerische Seeschifffahrtsamt weiterleitet.
+<sup>2bis</sup>
+
+Der Reeder muss dem Antrag auf Eintragung in das Verzeichnis der schweizerischen Seeschiffe beilegen:
+
+- a. die Übereinstimmungsbescheinigung, die Bescheinigung über die Zulassung zur Seeschifffahrt und die Genehmigung des Namens, ausgestellt für das einzutragende Seeschiff vom Schweizerischen Seeschifffahrtsamt, sowie den Nachweis der Bereederung;
+- b. den Nachweis, dass das Seeschiff, falls es bereits im Register eines anderen Staates eingetragen ist, die Schweizer Flagge führen darf, oder dass die Streichung aus dem Register dieses anderen Staates im Zeitpunkt der Eintragung in das Verzeichnis der schweizerischen Seeschiffe erfolgen wird.
+
+<sup>3</sup> Jede Änderung der angegebenen Tatsachen ist vom Schiffseigentümer oder vom Reeder unverzüglich dem Schweizerischen Seeschiffsregisteramt und dem Schweizerischen Seeschifffahrtsamt zu melden.
+
+[^7-1]: Fassung gemäss Ziff. I der V vom 27. Mai 2026, in Kraft seit 1. Juli 2026 ([AS 2026 307](https://fedlex.data.admin.ch/eli/oc/2026/307)).
 
 ### II. Klassifikation der Seeschiffe
 
@@ -299,25 +370,25 @@ Für die schweizerischen Seeschiffe, ihre Ausrüstung und Sicherheit, den Schutz
 
 <sup>2</sup> Die Bestimmungen der in Absatz 1 erwähnten internationalen Übereinkommen finden auch Anwendung auf schweizerische Seeschiffe, die weniger als 500 Bruttoregistertonnen aufweisen; jedoch kann das Schweizerische Seeschifffahrtsamt für solche Schiffe im Einzelfalle Erleichterungen zulassen, sofern die erforderliche Sicherheit und der angestrebte Schutz gewährleistet sind.
 
-<sup>3</sup> und <sup>4</sup> …[^9-19]
+<sup>3 und <sup>4</sup></sup> …[^9-19]
 
 [^9-1]: Fassung gemäss Ziff. I des BRB vom 4. Nov. 1966, in Kraft seit 1. Jan. 1967 ([AS 1966 1475](https://fedlex.data.admin.ch/eli/oc/1966/1475_1525_1513)).
 [^9-2]: Fassung gemäss Ziff. I der V vom 9. Okt. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 574](https://fedlex.data.admin.ch/eli/oc/2024/574)).
-[^9-3]: [SR 0.747.305.411](https://fedlex.data.admin.ch/eli/cc/1968/728_753_747)
-[^9-4]: [SR 0.747.363.33](https://fedlex.data.admin.ch/eli/cc/1982/128_128_128)
-[^9-5]: [SR 0.747.363.331](https://fedlex.data.admin.ch/eli/cc/1982/1321_1321_1321)
-[^9-6]: [SR 0.747.363.321](https://fedlex.data.admin.ch/eli/cc/1977/1084_1084_1084)
+[^9-3]: [SR 0.747.305.411](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3072)
+[^9-4]: [SR 0.747.363.33](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3098)
+[^9-5]: [SR 0.747.363.331](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3099)
+[^9-6]: [SR 0.747.363.321](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3097)
 [^9-7]: Aufgehoben durch Ziff. I der V vom 9. Okt. 2024, mit Wirkung seit 1. Jan. 2025 ([AS 2024 574](https://fedlex.data.admin.ch/eli/oc/2024/574)).
 [^9-8]: Fassung gemäss Ziff. I der V vom 9. Okt. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 574](https://fedlex.data.admin.ch/eli/oc/2024/574)).
-[^9-9]: [SR 0.814.288.2](https://fedlex.data.admin.ch/eli/cc/1988/1652_1652_1652)
+[^9-9]: [SR 0.814.288.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3522)
 [^9-10]: [AS 2013 5525](https://fedlex.data.admin.ch/eli/oc/2013/887)
-[^9-11]: [SR 0.747.341.2](https://fedlex.data.admin.ch/eli/cc/1988/1639_1639_1639)
+[^9-11]: [SR 0.747.341.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3084)
 [^9-12]: Eingefügt durch Ziff. I der V vom 9. Dez. 1996, in Kraft seit 1. Febr. 1997 ([AS 1997 151](https://fedlex.data.admin.ch/eli/oc/1997/151_151_151)).
 [^9-13]: BBl **1995** IV 271
 [^9-14]: Eingefügt durch Ziff. I der V vom 20. Febr. 2013, in Kraft seit 20. Aug. 2013 ([AS 2013 813](https://fedlex.data.admin.ch/eli/oc/2013/167)).
-[^9-15]: [SR 0.822.81](https://fedlex.data.admin.ch/eli/cc/2013/530)
+[^9-15]: [SR 0.822.81](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3669)
 [^9-16]: Eingefügt durch Ziff. I der V vom 9. Okt. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 574](https://fedlex.data.admin.ch/eli/oc/2024/574)).
-[^9-17]: [SR 0.747.305.412](https://fedlex.data.admin.ch/eli/cc/1982/1326_1326_1326)
+[^9-17]: [SR 0.747.305.412](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3073)
 [^9-18]: Fassung gemäss Ziff. I der V vom 22. Dez. 1988, in Kraft seit 1. Febr. 1989 ([AS 1989 220](https://fedlex.data.admin.ch/eli/oc/1989/220_220_220)).
 [^9-19]: Aufgehoben durch Ziff. I der V vom 9. Okt. 2024, mit Wirkung seit 1. Jan. 2025 ([AS 2024 574](https://fedlex.data.admin.ch/eli/oc/2024/574)).
 
@@ -363,7 +434,7 @@ Für die schweizerischen Seeschiffe, ihre Ausrüstung und Sicherheit, den Schutz
 
 <sup>2</sup> Vorbehalten bleibt die Entsorgung von Abfall aus dem Betrieb von Schiffen in Übereinstimmung mit dem Protokoll vom 17. Februar 1978[^11a-1] zu dem Internationalen Übereinkommen von 1973 zur Verhütung der Meeresverschmutzung durch Schiffe.
 
-[^11a-1]: [SR 0.814.288.2](https://fedlex.data.admin.ch/eli/cc/1988/1652_1652_1652)
+[^11a-1]: [SR 0.814.288.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3522)
 
 ### 3*b*. Abfallverbrennung
 
@@ -377,7 +448,7 @@ Für die schweizerischen Seeschiffe, ihre Ausrüstung und Sicherheit, den Schutz
 
 <sup>2</sup> Vorbehalten bleibt die Verbrennung von Abfall aus dem Betrieb von Schiffen in Übereinstimmung mit dem Protokoll vom 17. Februar 1978[^11b-1] zu dem Internationalen Übereinkommen von 1973 zur Verhütung der Meeresverschmutzung durch Schiffe.
 
-[^11b-1]: [SR 0.814.288.2](https://fedlex.data.admin.ch/eli/cc/1988/1652_1652_1652)
+[^11b-1]: [SR 0.814.288.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3522)
 
 ### 3*c* *.* Bewuchsschutzsysteme
 
@@ -389,7 +460,7 @@ Für die schweizerischen Seeschiffe, ihre Ausrüstung und Sicherheit, den Schutz
 
 Auf schweizerischen Seeschiffen dürfen keine in Anlage 1 des Internationalen Übereinkommens vom 5. Oktober 2001[^11c-1] über die Beschränkung des Einsatzes schädlicher Bewuchsschutzsysteme auf Schiffen aufgelisteten Bewuchsschutzsysteme aufgebracht, wiederaufgebracht, angebracht oder verwendet werden.
 
-[^11c-1]: [SR 0.814.295](https://fedlex.data.admin.ch/eli/cc/2013/889)
+[^11c-1]: [SR 0.814.295](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3532)
 
 ### IV. Bestand der Schiffsbesatzung
 
@@ -427,11 +498,17 @@ Das Schweizerische Seeschifffahrtsamt kann bei bereits eingetragenen und bei vor
 
 [^14-1]: Anhang II der vorliegenden V.
 
-## Dritter Abschnitt: Anmerkung und Vormerkung der Schiffsmiete und Charterverträge
+## Dritter Abschnitt: Schiffsmiete, Charterverträge und Konnossemente
 
 [^chapIII-1]
 
-[^chapIII-1]: Fassung des Tit. gemäss Ziff. I des BRB vom 4. Nov. 1966, in Kraft seit 1. Jan. 1967 ([AS 1966 1475](https://fedlex.data.admin.ch/eli/oc/1966/1475_1525_1513)).
+[^chapIII-1]: Fassung gemäss Ziff. I der V vom 27. Mai 2026, in Kraft seit 1. Juli 2026 ([AS 2026 307](https://fedlex.data.admin.ch/eli/oc/2026/307)).
+
+### 1. Anmerkung und Vormerkung der Schiffsmiete und Charterverträge
+
+[^chapIII-lvl1-1]
+
+[^chapIII-lvl1-1]: Eingefügt durch Ziff. I der V vom 27. Mai 2026, in Kraft seit 1. Juli 2026 ([AS 2026 307](https://fedlex.data.admin.ch/eli/oc/2026/307)).
 
 #### Art. 15
 
@@ -443,8 +520,20 @@ Das Schweizerische Seeschifffahrtsamt kann bei bereits eingetragenen und bei vor
 
 <sup>4</sup> Für die Vormerkung der Schiffsmiete gemäss Artikel 92 Absatz 5 des Seeschifffahrtsgesetzes und eines Chartervertrages gemäss Artikel 94 Absatz 3 des Seeschifffahrtsgesetzes finden die Bestimmungen der Artikel 81 und 82 der Grundbuchverordnung vom 23. September 2011[^15-1] entsprechende Anwendung.[^15-2]
 
-[^15-1]: [SR 211.432.1](https://fedlex.data.admin.ch/eli/cc/2011/667)
+[^15-1]: [SR 211.432.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5787)
 [^15-2]: Eingefügt durch Ziff. I des BRB vom 4. Nov. 1966 ([AS 1966 1475](https://fedlex.data.admin.ch/eli/oc/1966/1475_1525_1513)). Fassung gemäss Ziff. I der V vom 9. Okt. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 574](https://fedlex.data.admin.ch/eli/oc/2024/574)).
+
+### 2. Ausstellung von Konnossementen als Registerwertrechte
+
+[^chapIII-lvl2-1]
+
+[^chapIII-lvl2-1]: Eingefügt durch Ziff. I der V vom 27. Mai 2026, in Kraft seit 1. Juli 2026 ([AS 2026 307](https://fedlex.data.admin.ch/eli/oc/2026/307)).
+
+#### Art. 15a
+
+Konnossemente können in der Form von Registerwertrechten (Art. 1153*a* des Obligationenrechts[^15a-1]) ausgestellt werden.
+
+[^15a-1]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 ## Vierter Abschnitt: Das Arbeitsrecht zur See
 
@@ -617,9 +706,9 @@ Die Fahrzeit an Bord eines Seeschiffes, die für den Erwerb eines Fähigkeitszeu
 <sup>4</sup> Die Funker leisten auf See täglich acht Stunden Wachdienst nach den Bestimmungen des Radioreglements vom 17. November 1995[^26-2], das die Konstitution der Internationalen Fernmeldeunion vom 22. Dezember 1992[^26-3] und die Konvention der Internationalen Fernmeldeunion vom 22. Dezember 1992[^26-4] ergänzt. Ist das Schiff mit zusätzlichen automatischen Funkanlagen ausgerüstet, so kann das Schweizerische Seeschifffahrtsamt nach Anhören der beteiligten Kreise den Funker vom Wachdienst befreien. Nach Beendigung der allfälligen Instandstellungsarbeiten an den elektronischen Anlagen dürfen die Funker vom Kapitän zu Schreibarbeiten oder andern administrativen Arbeiten herangezogen werden.[^26-5]
 
 [^26-1]: Fassung gemäss Ziff. I der V vom 22. Dez. 1988, in Kraft seit 1. Febr. 1989 ([AS 1989 220](https://fedlex.data.admin.ch/eli/oc/1989/220_220_220)).
-[^26-2]: [SR 0.784.403.1](https://fedlex.data.admin.ch/eli/cc/2005/778)
-[^26-3]: [SR 0.784.01](https://fedlex.data.admin.ch/eli/cc/1996/1255_1255_1255)
-[^26-4]: [SR 0.784.02](https://fedlex.data.admin.ch/eli/cc/1996/1284_1284_1284)
+[^26-2]: [SR 0.784.403.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3376)
+[^26-3]: [SR 0.784.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3346)
+[^26-4]: [SR 0.784.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3351)
 [^26-5]: Fassung gemäss Ziff. I der V vom 9. Okt. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 574](https://fedlex.data.admin.ch/eli/oc/2024/574)).
 
 ### b. im Hafen und auf der Reede
@@ -745,8 +834,8 @@ Der Reeder und der Kapitän sind dafür verantwortlich, dass jedes schweizerisch
 <sup>3</sup> Der Seemann kann bei einer Verletzung der Bestimmungen des Seearbeitsübereinkommen vom 23. Februar 2006[^37-2] über die Arbeitsbedingungen auf Hochseeschiffen direkt eine Beschwerde beim ermächtigten Bediensteten der Hafenbehörde in dem Hafen einreichen, den das Schiff angelaufen hat. In diesem können die betroffenen Arbeitnehmer- und Arbeitgeberorganisationen die Rechtshilfe nach Artikel 59 Absatz 3 des Seeschifffahrtsgesetzes vom 23. September 1953[^37-3] verlangen.[^37-4]
 
 [^37-1]: Fassung gemäss Ziff. I der V vom 20. Febr. 2013, in Kraft seit 20. Aug. 2013 ([AS 2013 813](https://fedlex.data.admin.ch/eli/oc/2013/167)).
-[^37-2]: [SR 0.822.81](https://fedlex.data.admin.ch/eli/cc/2013/530)
-[^37-3]: [SR 747.30](https://fedlex.data.admin.ch/eli/cc/1956/1305_1395_1407)
+[^37-2]: [SR 0.822.81](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3669)
+[^37-3]: [SR 747.30](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9017)
 [^37-4]: Eingefügt durch Ziff. I der V vom 20. Febr. 2013, in Kraft seit 20. Aug. 2013 ([AS 2013 813](https://fedlex.data.admin.ch/eli/oc/2013/167)).
 
 ### VII. Ferienanspruch der Seeleute
@@ -760,7 +849,7 @@ Der Reeder und der Kapitän sind dafür verantwortlich, dass jedes schweizerisch
 Der Mindestanspruch auf bezahlte Ferien bestimmt sich nach Artikel 329*a* des Obligationenrechts[^38-2].
 
 [^38-1]: Fassung gemäss Ziff. I der V vom 22. Dez. 1988, in Kraft seit 1. Febr. 1989 ([AS 1989 220](https://fedlex.data.admin.ch/eli/oc/1989/220_220_220)).
-[^38-2]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^38-2]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 ### 2. Durchführung des Ferienanspruches
 
@@ -799,7 +888,7 @@ Der Mindestanspruch auf bezahlte Ferien bestimmt sich nach Artikel 329*a* des Ob
 <sup>2</sup> Jeder Reeder eines schweizerischen Seeschiffes hat dem Schweizerischen Seeschifffahrtsamt ein Doppel des Versicherungsvertrages einzusenden. Die Versicherungsgesellschaften sind verpflichtet, dem Schweizerischen Seeschifffahrtsamt von einer Auflösung oder einer Beendigung des Vertrages durch eingeschriebenen Brief Kenntnis zu geben.
 
 [^41-1]: Fassung gemäss Ziff. I der V vom 9. Okt. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 574](https://fedlex.data.admin.ch/eli/oc/2024/574)).
-[^41-2]: [SR 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^41-2]: [SR 832.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133)
 
 ### 2. Mindestleistungen; Mustervertrag
 
@@ -813,7 +902,7 @@ Der Mindestanspruch auf bezahlte Ferien bestimmt sich nach Artikel 329*a* des Ob
 
 [^42-1]: Fassung gemäss Ziff. I der V vom 9. Okt. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 574](https://fedlex.data.admin.ch/eli/oc/2024/574)).
 [^42-2]: Anhang III der vorliegenden V.
-[^42-3]: [SR 0.822.81](https://fedlex.data.admin.ch/eli/cc/2013/530)
+[^42-3]: [SR 0.822.81](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3669)
 
 ### 3. Berufsunfälle
 
@@ -826,6 +915,18 @@ Als Berufsunfälle gelten alle Unfälle, die sich bei Ausübung einer dienstlich
 [^chapIV-lvlVIII-lvl4-1]
 
 [^chapIV-lvlVIII-lvl4-1]: Aufgehoben durch Ziff. I der V vom 22. Dez. 1988, mit Wirkung seit 1. Febr. 1989 ([AS 1989 220](https://fedlex.data.admin.ch/eli/oc/1989/220_220_220)).
+
+### IX. Abweichung durch Vertragsabrede
+
+[^chapIV-lvlIX-1]
+
+[^chapIV-lvlIX-1]: Eingefügt durch Ziff. I der V vom 27. Mai 2026, in Kraft seit 1. Juli 2026 ([AS 2026 307](https://fedlex.data.admin.ch/eli/oc/2026/307)).
+
+#### Art. 43a
+
+Von den Artikeln 23–31 und 38–40 abweichende Regelungen sind im Rahmen eines Gesamtarbeitsvertrags mit einer schweizerischen Arbeitnehmerorganisation möglich, soweit sie mit den Bestimmungen des Seearbeitsübereinkommens vom 23. Februar 2006[^43a-1] und des Seeschifffahrtsgesetzes vereinbar sind.
+
+[^43a-1]: [SR 0.822.81](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3669)
 
 ## Fünfter Abschnitt[^chapV-1]: Haftungsbeträge
 
@@ -909,7 +1010,7 @@ Die Haftung des Seefrachtführers wird nach Artikel 105 Absatz 3 des Seeschifffa
 <sup>3</sup> Die Mitteilungen und Aufforderungen des Sachwalters an die Gläubiger erfolgen mittels eingeschriebenem Brief. Ist der Wohnort eines Gläubigers unbekannt oder eine Zustellung durch die Post nicht möglich, so erfolgt eine öffentliche Bekanntmachung im Schweizerischen Handelsamtsblatt sowie gegebenenfalls in ausländischen Publikationsorganen. Wohnt ein Gläubiger im Ausland an unbekannter Adresse, so hat der Sachwalter der diplomatischen oder konsularischen Vertretung des betreffenden Landes von der öffentlichen Bekanntmachung Kenntnis zu geben.
 
 [^47-1]: Fassung gemäss Ziff. I der V vom 22. Dez. 1988, in Kraft seit 1. Febr. 1989 ([AS 1989 220](https://fedlex.data.admin.ch/eli/oc/1989/220_220_220)).
-[^47-2]: [SR 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^47-2]: [SR 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
 
 ### 4. Mitteilung an die Gläubiger
 
@@ -1238,7 +1339,7 @@ Für die Havarie-Grosse gelten die Bestimmungen der York-Antwerpener Regeln in d
 
 <sup>2</sup> Der für das Verfahren auf Haftungsbeschränkung durch Errichtung von Haftungsfonds verwendete Ausdruck Reeder gilt sinngemäss auch für alle weiteren Personen, die sich nach den Artikeln 49 und 126 Absatz 2 des Seeschifffahrtsgesetzes und den darin bezeichneten internationalen Übereinkommen auf die Haftungsbeschränkung berufen.[^70-2]
 
-[^70-1]: [SR 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^70-1]: [SR 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
 [^70-2]: Fassung gemäss Ziff. I der V vom 3. Sept. 1997, in Kraft seit 1. Nov. 1997 ([AS 1997 2186](https://fedlex.data.admin.ch/eli/oc/1997/2186_2186_2186)).
 
 ### II. Richterliche Behörden
@@ -1249,7 +1350,7 @@ Für die Havarie-Grosse gelten die Bestimmungen der York-Antwerpener Regeln in d
 
 <sup>2</sup> Eine Verletzung der Bestimmungen der Artikel 46 und 51 in einem Betreibungsverfahren ist durch Beschwerde gemäss den Artikeln 17 ff. des Schuldbetreibungs- und Konkursgesetzes[^71-1] zu rügen.
 
-[^71-1]: [SR 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^71-1]: [SR 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
 
 ### III. Schiedsgerichtliche Erledigung
 
@@ -1277,7 +1378,7 @@ Anhang I
 
 [^annexI-lvlu1-1]
 
-[^annexI-lvlu1-1]: [SR 0.747.363.321](https://fedlex.data.admin.ch/eli/cc/1977/1084_1084_1084)
+[^annexI-lvlu1-1]: [SR 0.747.363.321](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3097)
 
 Anhang II[^t-2]
 
@@ -1371,11 +1472,11 @@ In Abänderung:
 - c. der Artikel 84–87 KUVG[^annexIII-lvlu1-lvlB-lvlI-6-4] betragen die Witwen- bzw. Witwerrente 40 Prozent, die Halbwaisenrente 20 Prozent, die Vollwaisenrente 35 Prozent und die Aszendenten- und Geschwisterrenten zusammen 25 Prozent des anrechenbaren Lohnbetrages laut Buchstabe d. Alle Hinterlassenenrenten zusammen dürfen 90 Prozent dieses Lohnbetrages nicht übersteigen;
 - d. der Artikel 74 Absatz 2 und 78 KUVG[^annexIII-lvlu1-lvlB-lvlI-6-5] gilt als anrechenbarer Lohnbetrag ausschliesslich die Grundheuer, zuzüglich der der Alters- und Hinterlassenenversicherung (AHV) zu deklarierenden Beträge für Verpflegung und Unterkunft, höchstens aber der für die obligatorische Unfallversicherung geltende Maximalbetrag des Jahresverdienstes.
 
-[^annexIII-lvlu1-lvlB-lvlI-6-1]: [BS **8** 281; [AS 1959 858](https://fedlex.data.admin.ch/eli/oc/1959/858_888_876), [1964 965](https://fedlex.data.admin.ch/eli/oc/1964/965_961_981), [1968 64](https://fedlex.data.admin.ch/eli/oc/1968/64_66_65), [1971 1465](https://fedlex.data.admin.ch/eli/oc/1971/1465_1461_1461)II Art. 6 Ziff. 2, [1977 2249](https://fedlex.data.admin.ch/eli/oc/1977/2249_2249_2249)Ziff. I 611, [1978 1836](https://fedlex.data.admin.ch/eli/oc/1978/1836_1836_1836)Anhang Ziff. 4, [1982 196](https://fedlex.data.admin.ch/eli/oc/1982/196_196_196)[1676](https://fedlex.data.admin.ch/eli/oc/1982/1676_1676_1676)Anhang Ziff. 1 [2184](https://fedlex.data.admin.ch/eli/oc/1982/2184_2184_2184)Art. 114, [1990 1091](https://fedlex.data.admin.ch/eli/oc/1990/1091_1091_1091), [1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362)Ziff. II 412, [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)Anhang Ziff. 37 [2350](https://fedlex.data.admin.ch/eli/oc/1992/2350_2350_2350), [1995 511](https://fedlex.data.admin.ch/eli/oc/1995/511_511_511). [AS 1995 1328](https://fedlex.data.admin.ch/eli/oc/1995/1328_1328_1328)Anhang Ziff. 1]. Siehe heute das BG vom 18. März 1994 über die Krankenversicherung ([SR 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)). Für die Unfallversicherung siehe das Unfallversicherungsgesetz (UVG) ([SR 832.20](https://fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676)).
-[^annexIII-lvlu1-lvlB-lvlI-6-2]: Heute: der Art. 16 und 17 UVG ([SR 832.20](https://fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676)).
-[^annexIII-lvlu1-lvlB-lvlI-6-3]: Heute: von Art. 20 UVG ([SR 832.20](https://fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676)).
-[^annexIII-lvlu1-lvlB-lvlI-6-4]: Heute: der Art. 28–33 UVG ([SR 832.20](https://fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676)).
-[^annexIII-lvlu1-lvlB-lvlI-6-5]: Heute: der Art. 15 und 17 UVG ([SR 832.20](https://fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676)).
+[^annexIII-lvlu1-lvlB-lvlI-6-1]: [BS **8** 281; [AS 1959 858](https://fedlex.data.admin.ch/eli/oc/1959/858_888_876); [1964 965](https://fedlex.data.admin.ch/eli/oc/1964/965_961_981); [1968 64](https://fedlex.data.admin.ch/eli/oc/1968/64_66_65); [1971 1465](https://fedlex.data.admin.ch/eli/oc/1971/1465_1461_1461)II Art. 6 Ziff. 2; [1977 2249](https://fedlex.data.admin.ch/eli/oc/1977/2249_2249_2249)Ziff. I 611; [1978 1836](https://fedlex.data.admin.ch/eli/oc/1978/1836_1836_1836)Anhang Ziff. 4; [1982 196](https://fedlex.data.admin.ch/eli/oc/1982/196_196_196),[1676](https://fedlex.data.admin.ch/eli/oc/1982/1676_1676_1676)Anhang Ziff. 1, [2184](https://fedlex.data.admin.ch/eli/oc/1982/2184_2184_2184)Art. 114; [1990 1091](https://fedlex.data.admin.ch/eli/oc/1990/1091_1091_1091); [1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362)Ziff. II, 412; [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)Anhang Ziff. 37, [2350](https://fedlex.data.admin.ch/eli/oc/1992/2350_2350_2350); [1995 511](https://fedlex.data.admin.ch/eli/oc/1995/511_511_511). [AS 1995 1328](https://fedlex.data.admin.ch/eli/oc/1995/1328_1328_1328)Anhang Ziff. 1]. Siehe heute das BG vom 18. März 1994 über die Krankenversicherung ([SR 832.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133)). Für die Unfallversicherung siehe das Unfallversicherungsgesetz (UVG) ([SR 832.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10190)).
+[^annexIII-lvlu1-lvlB-lvlI-6-2]: Heute: der Art. 16 und 17 UVG ([SR 832.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10190)).
+[^annexIII-lvlu1-lvlB-lvlI-6-3]: Heute: von Art. 20 UVG ([SR 832.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10190)).
+[^annexIII-lvlu1-lvlB-lvlI-6-4]: Heute: der Art. 28–33 UVG ([SR 832.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10190)).
+[^annexIII-lvlu1-lvlB-lvlI-6-5]: Heute: der Art. 15 und 17 UVG ([SR 832.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10190)).
 
 ### II. Krankenversicherung
 
@@ -1437,7 +1538,7 @@ Der Versicherte ist bei Verlust jeden Anspruchs im Unterlassungs- und Weigerungs
 
 Falls die Gesellschaft auf Grund von Artikel 42 des Versicherungsvertragsgesetzes vom 2. April 1908[^annexIII-lvlu1-lvlD-13-1] vom Vertrag zurücktritt, erlischt ihre Haftung 14 Tage nach geschehener Rücktrittserklärung. Befindet sich das Schiff auf See, so behält jedoch die Versicherung auf alle Fälle ihre Gültigkeit bis zur Beendigung der angetretenen Reise bzw. bis zum Einlaufen in den Bestimmungshafen oder in einen Nothafen, wobei der Nothafen als Bestimmungshafen gilt.
 
-[^annexIII-lvlu1-lvlD-13-1]: [SR 221.229.1](https://fedlex.data.admin.ch/eli/cc/24/719_735_717)
+[^annexIII-lvlu1-lvlD-13-1]: [SR 221.229.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5912)
 
 #### Art. 14
 
@@ -1451,7 +1552,7 @@ Für allfällige Streitigkeiten aus dem vorliegenden Vertrag sind ausschliesslic
 
 Im Übrigen gelten die Bestimmungen des Versicherungsvertragsgesetzes vom 2. April 1908[^annexIII-lvlu1-lvlD-16-1].
 
-[^annexIII-lvlu1-lvlD-16-1]: [SR 221.229.1](https://fedlex.data.admin.ch/eli/cc/24/719_735_717)
+[^annexIII-lvlu1-lvlD-16-1]: [SR 221.229.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5912)
 
 Anhang IV[^t-4]
 
@@ -1632,6 +1733,6 @@ Zinsen sind zu vergüten auf Aufwendungen, Opfer und Vergütungen der Havarie-gr
 
 **Regel XXII Behandlung von Bareinschüssen**
 
-Wenn infolge der Verpflichtung der Ladung zur Zahlung von Havrie-grosse-, Bergungs- oder Spezialkosten Bareinschüsse eingezogen worden sind, sollen solche Einschüsse unverzüglich auf ein besonderes Konto eingezahlt werden, das in dem gemeinsamen Namen eines Vertreters des Reeders und eines Vertreters der Einzahler bei einer von beiden Vertretern anerkannten Bank eröffnet worden ist. Die deponierte Summe soll zusammen mit den aufgelaufenen Zinsen, falls entstanden, als Sicherheit für die von der Ladung an die dazu berechtigten Parteien zu zahlenden Havarie-grosse-, Bergungs- und Spezialkosten dienen, für welche die Einschüsse eingezogen wurden. Teilzahlungen oder Rückzahlungen auf geleistete Einschüsse können gemacht werden, wenn sie von dem Dispacheur schriftlich bescheinigt sind. Solche Einschüsse und Zahlungen oder Rückzahlungen sollen jedoch für die endgültige Verantwortlichkeit der Parteien ohne Präjudiz sein.
+Wenn infolge der Verpflichtung der Ladung zur Zahlung von Havrie-grosse-, Bergungs- oder Spezialkosten Bareinschüsse eingezogen worden sind, sollen solche Einschüsse unverzüglich auf ein besonderes Konto eingezahlt werden, das in dem gemeinsamen Namen eines Vertreters des Reeders und eines Vertreters der Einzahler bei einer von beiden Vertretern anerkannten Bank eröffnet worden ist. Die deponierte Summe soll zusammen mit den aufgelaufenen Zinsen, falls entstanden, als Sicherheit für die von der Ladung an die dazu berechtigten Parteien zu zahlenden Havarie-grosse‑, Bergungs- und Spezialkosten dienen, für welche die Einschüsse eingezogen wurden. Teilzahlungen oder Rückzahlungen auf geleistete Einschüsse können gemacht werden, wenn sie von dem Dispacheur schriftlich bescheinigt sind. Solche Einschüsse und Zahlungen oder Rückzahlungen sollen jedoch für die endgültige Verantwortlichkeit der Parteien ohne Präjudiz sein.
 
 [^annexIV-lvlu1-1]: Geändert vom Comité Maritime International (Konferenz von Paris 1990).

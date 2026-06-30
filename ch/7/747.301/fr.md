@@ -3,18 +3,18 @@ sr: "747.301"
 title: Ordonnance du 20 novembre 1956 sur la navigation maritime
 eli: "https://fedlex.data.admin.ch/eli/cc/1956/1369_1458_1473"
 language: fr
-version: 2025-01-01
+version: 2026-07-01
 adopted: 1956-11-20
 in_force: 1957-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1956/1369_1458_1473/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-1956-1369_1458_1473-20250101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1956/1369_1458_1473/20250101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1956/1369_1458_1473/20260701/fr/xml/fedlex-data-admin-ch-eli-cc-1956-1369_1458_1473-20260701-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1956/1369_1458_1473/20260701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance sur la navigation maritime
 
-du 20 novembre 1956 (État le 1<sup>er</sup> janvier 2025)[^t-1]
+du 20 novembre 1956 (État le 1<sup>er</sup> juillet 2026)[^t-1]
 
 [^t-1]: Nouvelle teneur du titre selon le ch. I de l’O du 29 juin 1977, en vigueur depuis le 1<sup>er</sup> août 1977 ([RO 1977 1338](https://fedlex.data.admin.ch/eli/oc/1977/1338_1338_1338)).
 
@@ -24,8 +24,8 @@ vu les art. 5, 11, 12, 20, 21, 23, 24, 26, 30, 33, 47, 50, 62, 63, 84, 122 et 12
 
 arrête:
 
-[^ingress-1]: [RS 747.30](https://fedlex.data.admin.ch/eli/cc/1956/1305_1395_1407)
-[^ingress-2]: [RS 747.11](https://fedlex.data.admin.ch/eli/cc/40/62_63_63)
+[^ingress-1]: [RS 747.30](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9017)
+[^ingress-2]: [RS 747.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8907)
 [^ingress-3]: Nouvelle teneur selon le ch. I de l’O du 5 mai 1993, en vigueur depuis le 1<sup>er</sup> juin 1993 ([RO 1993 1710](https://fedlex.data.admin.ch/eli/oc/1993/1710_1710_1710)).
 
 ## Chapitre premier: Organisation
@@ -44,11 +44,13 @@ Le Département fédéral des affaires étrangères[^1-1] règle l’organisatio
 
 #### Art. 2
 
-<sup>1</sup> La gestion de l’Office du registre des navires suisses est confiée au conservateur du registre foncier du canton de Bâle-Ville.
+[^2-1]
 
-<sup>2</sup> L’Office du registre des navires suisses est soumis à la surveillance du Département fédéral de justice et police; celui-ci fixe d’entente avec le Département fédéral des finances[^2-1] la rétribution allouée au conservateur du registre foncier du canton de Bâle-Ville.
+<sup>1</sup> La gestion de l’Office du registre des navires suisses est confiée à l’office du registre foncier et de la mensuration officielle du canton de Bâle-Ville.
 
-[^2-1]: Nouvelle dénomination selon l’art. 1<sup>er</sup> de l’ACF du 23 avril 1980 concernant l’adaptation des dispositions du droit fédéral aux nouvelles dénominations des départements et des offices (non publié). Il a été tenu compte de cette mod. dans tout le présent texte.
+<sup>2</sup> L’Office du registre des navires suisses est soumis à la surveillance du Département fédéral de justice et police; celui-ci fixe d’entente avec le Département fédéral des finances la rétribution allouée à l’office du registre foncier et de la mensuration officielle du canton de Bâle-Ville.
+
+[^2-1]: Nouvelle teneur selon le ch. I de l’O du 27 mai 2026, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2026 307](https://fedlex.data.admin.ch/eli/oc/2026/307)).
 
 ### 3. Consulats de Suisse
 
@@ -94,10 +96,21 @@ Le Département fédéral de justice et police édicte les instructions nécessa
 
 <sup>1</sup> Les navires des entreprises telles que définies à l’art. 19 de la loi ne sont enregistrés dans le registre des navires suisses que si toutes les conditions prévues par la loi et par la présente ordonnance sont remplies.
 
-<sup>2</sup> Sauf dispositions contraires de la loi ou de la présente ordonnance, les dispositions du code des obligations[^5-2] relatives à la représentation des entreprises telles que définies à l’art. 19 de la loi s’appliquent.
+<sup>1bis</sup>
+
+Le registre se compose des deux sous-registres suivants:
+
+- a. le répertoire des navires suisses;
+- b. le registre des droits réels sur les navires suisses.[^5-2]
+
+<sup>1ter</sup> Les navires peuvent être enregistrés dans l’un ou l’autre sous-registre pour autant que les conditions applicables soient remplies.[^5-3]
+
+<sup>2</sup> Sauf dispositions contraires de la loi ou de la présente ordonnance, les dispositions du code des obligations[^5-4] relatives à la représentation des entreprises telles que définies à l’art. 19 de la loi s’appliquent.
 
 [^5-1]: Nouvelle teneur selon le ch. I de l’O du 9 oct. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 574](https://fedlex.data.admin.ch/eli/oc/2024/574)).
-[^5-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^5-2]: Introduit par le ch. I de l’O du 27 mai 2026, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2026 307](https://fedlex.data.admin.ch/eli/oc/2026/307)).
+[^5-3]: Introduit par le ch. I de l’O du 27 mai 2026, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2026 307](https://fedlex.data.admin.ch/eli/oc/2026/307)).
+[^5-4]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 ### 2. …
 
@@ -194,8 +207,8 @@ Sont considérés comme fonds propres au sens de l’art. 24, al. 1, de la loi:
 <sup>4</sup> Le Département fédéral des affaires étrangères peut exclure du contrôle de certaines ou de toutes les entreprises de navigation suisses une entreprise de révision qui contrevient aux prescriptions de la présente ordonnance.
 
 [^5f-1]: Nouvelle teneur selon l’annexe ch. II 6 de l’O du 22 août 2007 sur la surveillance de la révision, en vigueur depuis le 1<sup>er</sup> sept. 2007 ([RO 2007 3989](https://fedlex.data.admin.ch/eli/oc/2007/534)).
-[^5f-2]: [RS 221.302](https://fedlex.data.admin.ch/eli/cc/2007/533)
-[^5f-3]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^5f-2]: [RS 221.302](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5919)
+[^5f-3]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 ### 7*a*. Réserve relative à des modifications ultérieures
 
@@ -205,7 +218,62 @@ Sont considérés comme fonds propres au sens de l’art. 24, al. 1, de la loi:
 
 #### Art. 5g
 
-Si le propriétaire d’un navire ne remplit plus les conditions d’enregistrement des navires suisses suite à une modification des dispositions de la présente ordonnance, les dispositions des art. 27 à 29 de la loi s’appliquent.
+[^5g-1]
+
+Si le propriétaire d’un navire ne remplit plus les conditions d’enregistrement des navires suisses suite à une modification des dispositions de la présente ordonnance, les dispositions des art. 27 à 29 de la loi s’appliquent. Ces dispositions s’appliquent par analogie aux armateurs dont les navires sont enregistrés dans le répertoire des navires suisses.
+
+[^5g-1]: Nouvelle teneur selon le ch. I de l’O du 27 mai 2026, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2026 307](https://fedlex.data.admin.ch/eli/oc/2026/307)).
+
+### 7*b*. Répertoire des navires suisses
+
+[^chapII-lvlI-lvl7b-1]
+
+[^chapII-lvlI-lvl7b-1]: Introduit par le ch. I de l’O du 27 mai 2026, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2026 307](https://fedlex.data.admin.ch/eli/oc/2026/307)).
+
+### a. Enregistrement et radiation
+
+#### Art. 5h
+
+<sup>1</sup> Les navires d’armateurs au sens de l’art. 45 de la loi qui remplissent les conditions fixées aux art. 19 et 46 de la loi peuvent être enregistrés dans le répertoire des navires suisses.
+
+<sup>2</sup> L’enregistrement d’un navire dans le répertoire des navires suisses ne touche que sa nationalité et n’exerce aucun effet sur la propriété et les autres droits réels sur le navire.
+
+<sup>3</sup> La radiation du répertoire se fait sur demande de l’armateur ou d’office si les conditions d’enregistrement ne sont plus remplies.
+
+<sup>4</sup> La législation fédérale sur le registre des bateaux et l’art. 15 de la présente ordonnance ne s’appliquent pas à l’établissement et à la tenue du répertoire des navires suisses.
+
+### b. Gestion, forme et contenu
+
+#### Art. 5i
+
+<sup>1</sup> Le répertoire des navires suisses est tenu par l’Office suisse de la navigation maritime.
+
+<sup>2</sup> Il est tenu sous forme électronique.
+
+<sup>3</sup>
+
+Il contient les informations suivantes:
+
+- a. les nom, raison sociale et siège du propriétaire et de l’armateur;
+- b. le nom approuvé du navire, ses mesures d’identification et son tonnage ou sa jauge;
+- c. le type de bâtiment, sa destination principale, le matériau de construction et le moyen de propulsion;
+- d. le constructeur du navire ainsi que la date et le lieu de construction;
+- e. le cas échéant, les pavillon, propriétaire et armateur précédents du navire;
+- f. le numéro d’ordre du navire.
+
+<sup>4</sup> Le répertoire est public.
+
+### 7*c*. Registre des droits réels sur les navires suisses
+
+[^chapII-lvlI-lvl7c-1]
+
+[^chapII-lvlI-lvl7c-1]: Introduit par le ch. I de l’O du 27 mai 2026, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2026 307](https://fedlex.data.admin.ch/eli/oc/2026/307)).
+
+#### Art. 5j
+
+<sup>1</sup> Les navires de propriétaires qui remplissent les conditions fixées à l’art. 19 de la loi ainsi que les autres conditions applicables aux propriétaires conformément à la loi et à la présente ordonnance peuvent être enregistrés dans le registre des droits réels sur les navires suisses.
+
+<sup>2</sup> Le registre contient les informations visées à l’art. 5*i*, al. 3.
 
 ### 8. Armateur non propriétaire
 
@@ -229,26 +297,29 @@ Si l’armateur n’est pas propriétaire d’un navire, l’Office suisse de la
 
 #### Art. 7
 
-<sup>1</sup>
+[^7-1]
 
-La requête d’enregistrement d’un navire dans le registre des navires suisses doit indiquer:
-
-- a. Les nom, raison sociale et siège du propriétaire;
-- b. Le nom approuvé du navire, ses mesures d’identification et son tonnage ou sa jauge;
-- c. Le type de bâtiment, sa destination principale, le matériau de construction et le moyen de propulsion;
-- d. Le constructeur du navire ainsi que la date et le lieu de construction;
-- e. Le cas échéant, les pavillon et propriétaire précédents du navire.
+<sup>1</sup> La requête d’enregistrement d’un navire dans le registre des navires suisses doit indiquer les informations visées à l’art. 5*i*, al. 3, let. a à e.
 
 <sup>2</sup>
 
-À l’appui de sa requête, le propriétaire doit:
+À l’appui de sa requête d’enregistrement d’un navire dans le registre des droits réels sur les navires suisses, le propriétaire doit:
 
-- a. Produire la déclaration d’état conforme, l’admission à la navigation et l’approbation du nom, délivrées pour le navire à enregistrer par l’Office suisse de la navigation maritime, ainsi que le titre de propriété;
-- b. Établir que le navire, s’il avait été enregistré précédemment dans un autre État, a été radié du registre de cet État ou que la radiation interviendra au moment de l’enregistrement en Suisse;
-- c. Déclarer par écrit qu’il n’a pas requis et ne se propose pas de requérir l’enregistrement du navire dans le registre d’un autre État;
-- d. Établir que le navire n’est grevé d’aucun droit de gage conventionnel ou, s’il en est grevé, que le créancier gagiste consent à ce que sa créance soit inscrite dans le registre des navires suisses, en francs suisses, et soumise au droit suisse et, s’il est étranger, prouver que la constitution de son droit de gage est admise conformément à l’art. 5d, al. 4.
+- a. produire la déclaration d’état conforme, l’admission à la navigation et l’approbation du nom, délivrées pour le navire à enregistrer par l’Office suisse de la navigation maritime, ainsi que le titre de propriété;
+- b. établir que le navire, s’il avait été enregistré précédemment dans un autre État, a été radié du registre de cet État ou que la radiation interviendra au moment de l’enregistrement en Suisse;
+- c. déclarer par écrit qu’il n’a pas requis et ne se propose pas de requérir l’enregistrement du navire dans le registre d’un autre État;
+- d. établir que le navire n’est grevé d’aucun droit de gage conventionnel ou, s’il en est grevé, que le créancier gagiste consent à ce que sa créance soit inscrite dans le registre des navires suisses, en francs suisses, et soumise au droit suisse.
 
-<sup>3</sup> Le propriétaire est tenu de porter, sans délai, toute modification des faits énumérés ci-dessus à la connaissance de l’Office du registre des navires suisses, lequel en informera l’Office suisse de la navigation maritime.
+<sup>2bis</sup>
+
+À l’appui de sa requête d’enregistrement d’un navire dans le répertoire des navires suisses, l’armateur doit:
+
+- a. produire la déclaration d’état conforme, l’admission à la navigation et l’approbation du nom, délivrées pour le navire à enregistrer par l’Office suisse de la navigation maritime, ainsi que la preuve de l’exécution des tâches incombant à l’armateur;
+- b. établir que le navire, s’il avait été enregistré précédemment dans un autre État, est autorisé à battre pavillon suisse ou qu’il sera radié du registre de cet autre État au moment de l’enregistrement dans le répertoire des navires suisses.
+
+<sup>3</sup> Le propriétaire ou l’armateur est tenu de porter, sans délai, toute modification des faits énumérés ci-dessus à la connaissance de l’Office du registre des navires suisses et de l’Office suisse de la navigation maritime.
+
+[^7-1]: Nouvelle teneur selon le ch. I de l’O du 27 mai 2026, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2026 307](https://fedlex.data.admin.ch/eli/oc/2026/307)).
 
 ### II. Classification des navires
 
@@ -296,25 +367,25 @@ Les conventions internationales ci-après s’appliquent dans leur teneur la plu
 
 <sup>2</sup> Les dispositions des conventions internationales mentionnées à l’al. 1 s’appliquent également aux navires suisses jaugeant moins de 500 t brutes; toutefois, l’Office suisse de la navigation maritime peut, dans des cas particuliers, accorder à ces navires des dérogations en tant que la sécurité nécessaire et la sauvegarde de la vie humaine en mer sont assurées.
 
-<sup>3</sup> et <sup>4</sup> …[^9-19]
+<sup>3 et <sup>4</sup></sup> …[^9-19]
 
 [^9-1]: Nouvelle teneur selon le ch. I de l’ACF du 4 nov. 1966, en vigueur depuis le 1<sup>er</sup> janv. 1966 ([RO 1966 1525](https://fedlex.data.admin.ch/eli/oc/1966/1475_1525_1513)).
 [^9-2]: Nouvelle teneur selon le ch. I de l’O du 9 oct. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 574](https://fedlex.data.admin.ch/eli/oc/2024/574)).
-[^9-3]: [RS 0.747.305.411](https://fedlex.data.admin.ch/eli/cc/1968/728_753_747)
-[^9-4]: [RS 0.747.363.33](https://fedlex.data.admin.ch/eli/cc/1982/128_128_128)
-[^9-5]: [RS 0.747.363.331](https://fedlex.data.admin.ch/eli/cc/1982/1321_1321_1321)
-[^9-6]: [RS 0.747.363.321](https://fedlex.data.admin.ch/eli/cc/1977/1084_1084_1084)
+[^9-3]: [RS 0.747.305.411](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3072)
+[^9-4]: [RS 0.747.363.33](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3098)
+[^9-5]: [RS 0.747.363.331](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3099)
+[^9-6]: [RS 0.747.363.321](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3097)
 [^9-7]: Abrogée par le ch. I de l’O du 9 oct. 2024, avec effet au 1<sup>er</sup> janv. 2025 ([RO 2024 574](https://fedlex.data.admin.ch/eli/oc/2024/574)).
 [^9-8]: Nouvelle teneur selon le ch. I de l’O du 9 oct. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 574](https://fedlex.data.admin.ch/eli/oc/2024/574)).
-[^9-9]: [RS 0.814.288.2](https://fedlex.data.admin.ch/eli/cc/1988/1652_1652_1652)
+[^9-9]: [RS 0.814.288.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3522)
 [^9-10]: [RO 2013 5525](https://fedlex.data.admin.ch/eli/oc/2013/887)
-[^9-11]: [RS 0.747.341.2](https://fedlex.data.admin.ch/eli/cc/1988/1639_1639_1639)
+[^9-11]: [RS 0.747.341.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3084)
 [^9-12]: Introduite par le ch. I de l’O du 9 déc. 1996, en vigueur depuis le 1<sup>er</sup> fév. 1997 ([RO 1997 151](https://fedlex.data.admin.ch/eli/oc/1997/151_151_151)).
 [^9-13]: FF **1995** IV 270
 [^9-14]: Introduite par le ch. I de l’O du 20 fév. 2013, en vigueur depuis le 20 août 2013 ([RO 2013 813](https://fedlex.data.admin.ch/eli/oc/2013/167)).
-[^9-15]: [RS 0.822.81](https://fedlex.data.admin.ch/eli/cc/2013/530)
+[^9-15]: [RS 0.822.81](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3669)
 [^9-16]: Introduite par le ch. I de l’O du 9 oct. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 574](https://fedlex.data.admin.ch/eli/oc/2024/574)).
-[^9-17]: [RS 0.747.305.412](https://fedlex.data.admin.ch/eli/cc/1982/1326_1326_1326)
+[^9-17]: [RS 0.747.305.412](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3073)
 [^9-18]: Nouvelle teneur selon le ch. I de l’O du 22 déc. 1988, en vigueur depuis le 1<sup>er</sup> fév. 1989 ([RO 1989 220](https://fedlex.data.admin.ch/eli/oc/1989/220_220_220)).
 [^9-19]: Abrogés par le ch. I de l’O du 9 oct. 2024, avec effet au 1<sup>er</sup> janv. 2025 ([RO 2024 574](https://fedlex.data.admin.ch/eli/oc/2024/574)).
 
@@ -360,7 +431,7 @@ Les conventions internationales ci-après s’appliquent dans leur teneur la plu
 
 <sup>2</sup> Est réservée l’élimination de déchets liée à l’exploitation des navires conformément au Protocole du 17 février 1978 relatif à la Convention internationale de 1973 pour la prévention de la pollution par les navires[^11a-1].
 
-[^11a-1]: [RS 0.814.288.2](https://fedlex.data.admin.ch/eli/cc/1988/1652_1652_1652)
+[^11a-1]: [RS 0.814.288.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3522)
 
 ### 3*b*. Incinération des déchets
 
@@ -374,7 +445,7 @@ Les conventions internationales ci-après s’appliquent dans leur teneur la plu
 
 <sup>2</sup> Est réservée l’incinération de déchets liée à l’exploitation des navires conformément au Protocole du 17 février 1978 relatif à la Convention internationale de 1973 pour la prévention de la pollution par les navires[^11b-1].
 
-[^11b-1]: [RS 0.814.288.2](https://fedlex.data.admin.ch/eli/cc/1988/1652_1652_1652)
+[^11b-1]: [RS 0.814.288.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3522)
 
 ### 3*c* *.* Systèmes antisalissure
 
@@ -386,7 +457,7 @@ Les conventions internationales ci-après s’appliquent dans leur teneur la plu
 
 Il est interdit d’appliquer, de réappliquer ou d’utiliser sur les navires suisses les systèmes antisalissure mentionnés à l’annexe 1 de la Convention internationale du 5 octobre 2001 sur le contrôle des systèmes antisalissure nuisibles sur les navires[^11c-1].
 
-[^11c-1]: [RS 0.814.295](https://fedlex.data.admin.ch/eli/cc/2013/889)
+[^11c-1]: [RS 0.814.295](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3532)
 
 ### IV. Composition de l’équipage
 
@@ -424,11 +495,17 @@ S’agissant des navires construits et achevés avant l’année 1953, mais déj
 
 [^14-1]: Annexe II de la présente ordonnance.
 
-## Chapitre III. De la mention et de l’annotation de la location du navire et de l’affrètement
+## Chapitre III. Location du navire, affrètement et connaissements
 
 [^chapIII-1]
 
-[^chapIII-1]: Nouvelle teneur selon le ch. I de l’ACF du 4 nov. 1966, en vigueur depuis le 1<sup>er</sup> janv. 1967 ([RO 1966 1525](https://fedlex.data.admin.ch/eli/oc/1966/1475_1525_1513)).
+[^chapIII-1]: Nouvelle teneur selon le ch. I de l’O du 27 mai 2026, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2026 307](https://fedlex.data.admin.ch/eli/oc/2026/307)).
+
+### 1. Mention et annotation de la location du navire et de l’affrètement
+
+[^chapIII-lvl1-1]
+
+[^chapIII-lvl1-1]: Introduit par le ch. I de l’O du 27 mai 2026, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2026 307](https://fedlex.data.admin.ch/eli/oc/2026/307)).
 
 #### Art. 15
 
@@ -440,8 +517,20 @@ S’agissant des navires construits et achevés avant l’année 1953, mais déj
 
 <sup>4</sup> Les art. 81 et 82 de l’ordonnance du 23 septembre 2011 sur le registre foncier[^15-1] s’appliquent par analogie à l’annotation d’un contrat de location conformément à l’art. 92, al. 5, et d’un affrètement conformément à l’art. 94, al. 3, de la loi.[^15-2]
 
-[^15-1]: [RS 211.432.1](https://fedlex.data.admin.ch/eli/cc/2011/667)
+[^15-1]: [RS 211.432.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5787)
 [^15-2]: Introduit par le ch. I de l’ACF du 4 nov. 1966 ([RO 1966 1525](https://fedlex.data.admin.ch/eli/oc/1966/1475_1525_1513)). Nouvelle teneur selon le ch. I de l’O du 9 oct. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 574](https://fedlex.data.admin.ch/eli/oc/2024/574)).
+
+### 2. Établissement de connaissements comme droits-valeurs inscrits
+
+[^chapIII-lvl2-1]
+
+[^chapIII-lvl2-1]: Introduit par le ch. I de l’O du 27 mai 2026, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2026 307](https://fedlex.data.admin.ch/eli/oc/2026/307)).
+
+#### Art. 15a
+
+Les connaissements peuvent être établis sous la forme de droits-valeurs inscrits (art. 1153*a* du code des obligations[^15a-1]).
+
+[^15a-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 ## Chapitre IV. Réglementation du travail en mer
 
@@ -614,9 +703,9 @@ La navigation à bord d’un navire de mer exigée pour l’obtention d’un cer
 <sup>4</sup> Les radiotélégraphistes font en mer des services quotidiens de huit heures conformément au Règlement des radiocommunications du 17 novembre 1995[^26-2] annexé à la Constitution du 22 décembre 1992 de l’Union internationale des télécommunications[^26-3] et à la Convention du 22 décembre 1992 de l’Union internationale des télécommunications[^26-4]. L’Office suisse de la navigation maritime peut, après avoir entendu les milieux intéressés, les libérer du service de quart lorsque le navire est équipé d’appareils télégraphiques automatiques supplémentaires. Une fois terminés les travaux éventuels d’entretien ou de réparation des appareils électroniques, ils peuvent être affectés par le capitaine à des travaux d’écriture ou à d’autres travaux administratifs.[^26-5]
 
 [^26-1]: Nouvelle teneur selon le ch. I de l’O du 22 déc. 1988, en vigueur depuis le 1<sup>er</sup> fév. 1989 ([RO 1989 220](https://fedlex.data.admin.ch/eli/oc/1989/220_220_220)).
-[^26-2]: [RS 0.784.403.1](https://fedlex.data.admin.ch/eli/cc/2005/778)
-[^26-3]: [RS 0.784.01](https://fedlex.data.admin.ch/eli/cc/1996/1255_1255_1255)
-[^26-4]: [RS 0.784.02](https://fedlex.data.admin.ch/eli/cc/1996/1284_1284_1284)
+[^26-2]: [RS 0.784.403.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3376)
+[^26-3]: [RS 0.784.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3346)
+[^26-4]: [RS 0.784.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3351)
 [^26-5]: Nouvelle teneur selon le ch. I de l’O du 9 oct. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 574](https://fedlex.data.admin.ch/eli/oc/2024/574)).
 
 ### b. Au port et en rade
@@ -742,8 +831,8 @@ L’armateur et le capitaine sont tenus, pour la sauvegarde et la santé et du b
 <sup>3</sup> En cas de violation des dispositions de la Convention du travail maritime du 23 février 2006 sur les conditions d’emploi dans la navigation en haute mer[^37-2], le marin peut déposer plainte directement auprès du fonctionnaire compétent de l’autorité du port où le navire a fait escale. En pareil cas, les organisations d’employés et d’employeurs concernées peuvent solliciter l’entraide judiciaire visée à l’art. 59, al. 3, de la loi fédérale du 23 septembre 1953 sur la navigation maritime sous pavillon suisse[^37-3].[^37-4]
 
 [^37-1]: Nouvelle teneur selon le ch. I de l’O du 20 fév. 2013, en vigueur depuis le 20 août 2013 ([RO 2013 813](https://fedlex.data.admin.ch/eli/oc/2013/167)).
-[^37-2]: [RS 0.822.81](https://fedlex.data.admin.ch/eli/cc/2013/530)
-[^37-3]: [RS 747.30](https://fedlex.data.admin.ch/eli/cc/1956/1305_1395_1407)
+[^37-2]: [RS 0.822.81](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3669)
+[^37-3]: [RS 747.30](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9017)
 [^37-4]: Introduit par le ch. I de l’O du 20 fév. 2013, en vigueur depuis le 20 août 2013 ([RO 2013 813](https://fedlex.data.admin.ch/eli/oc/2013/167)).
 
 ### VII. Droit des marins aux vacances
@@ -757,7 +846,7 @@ L’armateur et le capitaine sont tenus, pour la sauvegarde et la santé et du b
 Le droit minimum à des vacances payées se détermine d’après l’art. 329*a* du code des obligations[^38-2].
 
 [^38-1]: Nouvelle teneur selon le ch. I de l’O du 22 déc. 1988, en vigueur depuis le 1<sup>er</sup> fév. 1989 ([RO 1989 220](https://fedlex.data.admin.ch/eli/oc/1989/220_220_220)).
-[^38-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^38-2]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 ### 2. Exécution
 
@@ -796,7 +885,7 @@ Le droit minimum à des vacances payées se détermine d’après l’art. 329*a
 <sup>2</sup> Tout armateur d’un navire suisse doit adresser une copie du contrat d’assurance à l’Office suisse de la navigation maritime. Les compagnies d’assurance sont tenues d’informer l’Office suisse de la navigation maritime, par lettre recommandée, de la dénonciation ou de l’expiration du contrat.
 
 [^41-1]: Nouvelle teneur selon le ch. I de l’O du 9 oct. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 574](https://fedlex.data.admin.ch/eli/oc/2024/574)).
-[^41-2]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^41-2]: [RS 832.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133)
 
 ### 2. Prestations minimums; contrat type
 
@@ -810,7 +899,7 @@ Le droit minimum à des vacances payées se détermine d’après l’art. 329*a
 
 [^42-1]: Nouvelle teneur selon le ch. I de l’O du 9 oct. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 574](https://fedlex.data.admin.ch/eli/oc/2024/574)).
 [^42-2]: Annexe III de la présente ordonnance.
-[^42-3]: [RS 0.822.81](https://fedlex.data.admin.ch/eli/cc/2013/530)
+[^42-3]: [RS 0.822.81](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3669)
 
 ### 3. Accidents professionnels
 
@@ -823,6 +912,18 @@ Sont réputés accidents professionnels tous les accidents subis par l’assuré
 [^chapIV-lvlVIII-lvl4-1]
 
 [^chapIV-lvlVIII-lvl4-1]: Abrogé par le ch. I de l’O du 22 déc. 1988, avec effet au 1<sup>er</sup> fév. 1989 ([RO 1989 220](https://fedlex.data.admin.ch/eli/oc/1989/220_220_220)).
+
+### IX. Dérogation par convention
+
+[^chapIV-lvlIX-1]
+
+[^chapIV-lvlIX-1]: Introduit par le ch. I de l’O du 27 mai 2026, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2026 307](https://fedlex.data.admin.ch/eli/oc/2026/307)).
+
+#### Art. 43a
+
+Des règles dérogeant aux art. 23 à 31 et 38 à 40 peuvent être définies dans le cadre d’une convention collective de travail conclue avec une organisation suisse d’employés, pour autant qu’elles soient compatibles avec les dispositions de la convention du travail maritime du 23 février 2006[^43a-1] et avec la loi.
+
+[^43a-1]: [RS 0.822.81](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3669)
 
 ## Chapitre V. Montants de responsabilité
 
@@ -910,7 +1011,7 @@ En vertu de l’art. 105, al. 3, de la loi, la responsabilité du transporteur e
 <sup>3</sup> Les communications et sommations adressées par le commissaire aux créanciers se font par lettre recommandée. Si le domicile d’un créancier n’est pas connu ou s’il ne peut être atteint par la poste, une notification est faite par la *Feuille officielle suisse du commerce* ainsi que, le cas échéant, par des organes de publication étrangers. Si un créancier réside à l’étranger à une adresse inconnue, le commissaire porte la notification publiée à la connaissance de la représentation diplomatique ou consulaire du pays intéressé.
 
 [^47-1]: Nouvelle teneur selon le ch. I de l’O du 22 déc. 1988, en vigueur depuis le 1<sup>er</sup> fév. 1989 ([RO 1989 220](https://fedlex.data.admin.ch/eli/oc/1989/220_220_220)).
-[^47-2]: [RS 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^47-2]: [RS 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
 
 ### 4. Communications aux créanciers
 
@@ -1244,7 +1345,7 @@ Les règles de York et d’Anvers, dans la teneur de l’annexe IV[^63-1] à la 
 
 <sup>2</sup> L’expression d’armateur employée pour la procédure relative à la limite de la responsabilité moyennant constitution de fonds de limitation est applicable par analogie à toute personne qui, conformément aux art. 49 et 126, al. 2, de la loi et aux conventions internationales auxquelles il y est fait référence, pourra invoquer la limitation de la responsabilité.[^70-2]
 
-[^70-1]: [RS 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^70-1]: [RS 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
 [^70-2]: Nouvelle teneur selon le ch. I de l’O du 3 sept. 1997, en vigueur depuis le 1<sup>er</sup> nov. 1997 ([RO 1997 2186](https://fedlex.data.admin.ch/eli/oc/1997/2186_2186_2186)).
 
 ### II. Autorités judiciaires
@@ -1255,7 +1356,7 @@ Les règles de York et d’Anvers, dans la teneur de l’annexe IV[^63-1] à la 
 
 <sup>2</sup> Il peut être porté plainte, en conformité des art. 17 et suivants de la loi fédérale du 11 avril 1889[^71-1] sur la poursuite pour dettes et la faillite, contre toute violation, au cours d’une procédure de poursuite, des dispositions des art. 46 et 51.
 
-[^71-1]: [RS 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^71-1]: [RS 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
 
 ### III. Arbitrage
 
@@ -1285,7 +1386,7 @@ Annexe I
 
 [^annexI-lvlu1-1]
 
-[^annexI-lvlu1-1]: [RS 0.747.363.321](https://fedlex.data.admin.ch/eli/cc/1977/1084_1084_1084)
+[^annexI-lvlu1-1]: [RS 0.747.363.321](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3097)
 
 Annexe II[^t-2]
 
@@ -1314,7 +1415,7 @@ Approuvé par le Conseil fédéral le 23 novembre 1965
 
 <sup>2</sup> Appartiennent à l’équipage le capitaine et les autres marins qui ont un emploi à bord et sont inscrits sur le rôle d’équipage.
 
-[^annexIII-lvlu1-lvlA-lvlI-1-1]: [RS 747.30](https://fedlex.data.admin.ch/eli/cc/1956/1305_1395_1407)
+[^annexIII-lvlu1-lvlA-lvlI-1-1]: [RS 747.30](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9017)
 
 ### II. Étendue de l’assurance
 
@@ -1381,11 +1482,11 @@ En dérogation:
 - c. Aux art. 84 et 87 de la loi susmentionnée[^annexIII-lvlu1-lvlB-lvlI-6-4], la rente de veuve ou de veuf s’élève à 40 %, la rente d’orphelin simple à 20 %, la rente d’orphelin double à 35 % et les rentes d’ascendants et de frères et soeurs ensemble à 25 % du salaire pris en considération conformément à la lettre d. Les rentes de survivants ne peuvent, au total, excéder 90 % dudit salaire;
 - d. Aux art. 74, al. 2, et 78 de la loi susmentionnée[^annexIII-lvlu1-lvlB-lvlI-6-5] est réputé salaire pris en considération uniquement le salaire de base avec adjonction des montants à déclarer à l’assurance-vieillesse et survivants pour l’entretien et le logement, jusqu’à concurrence du montant maximal du gain annuel valable pour l’assurance-accidents obligatoire.
 
-[^annexIII-lvlu1-lvlB-lvlI-6-1]: [RS **8** 283; [RO 1959 888](https://fedlex.data.admin.ch/eli/oc/1959/858_888_876), [1964 961](https://fedlex.data.admin.ch/eli/oc/1964/965_961_981), [1968 66](https://fedlex.data.admin.ch/eli/oc/1968/64_66_65), [1971 1461](https://fedlex.data.admin.ch/eli/oc/1971/1465_1461_1461)ch. II art. 6 ch. 2 disp. fin. et trans. tit. X, **1977** 2249 ch. I 611, **1978** 1836 annexe ch. 4, **1982** 196 1676 annexe ch. 1 2184 art. 114, **1990** 1091, **1991** 362 ch. II 412, **1992** 288 annexe ch. 37, **1995** 511. [RO 1995 1328](https://fedlex.data.admin.ch/eli/oc/1995/1328_1328_1328)annexe ch. 1]. Voir actuellement la LF du 20 mars 1981 sur l’assurance-accidents ([RS 832.20](https://fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676)).
-[^annexIII-lvlu1-lvlB-lvlI-6-2]: Actuellement «Aux art. 16 et 17 de la LF du 20 mars 1981 sur l’assurance-accidents» ([RS 832.20](https://fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676)).
-[^annexIII-lvlu1-lvlB-lvlI-6-3]: Actuellement «À l’art. 20 de la LF du 20 mars 1981 sur l’assurance-accidents» ([RS 832.20](https://fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676)).
-[^annexIII-lvlu1-lvlB-lvlI-6-4]: Actuellement «Aux art. 28 à 33 de la LF du 20 mars 1981 sur l’assurance-accidents» ([RS 832.20](https://fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676)).
-[^annexIII-lvlu1-lvlB-lvlI-6-5]: Actuellement «Aux art. 15 et 17 de la LF du 20 mars 1981 sur l’assurance-accidents» ([RS 832.20](https://fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676)).
+[^annexIII-lvlu1-lvlB-lvlI-6-1]: [[RS 8](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9225)283; [RO 1959 888](https://fedlex.data.admin.ch/eli/oc/1959/858_888_876), [1964 961](https://fedlex.data.admin.ch/eli/oc/1964/965_961_981), [1968 66](https://fedlex.data.admin.ch/eli/oc/1968/64_66_65), [1971 1461](https://fedlex.data.admin.ch/eli/oc/1971/1465_1461_1461)ch. II art. 6 ch. 2 disp. fin. et trans. tit. X, **1977** 2249 ch. I 611, **1978** 1836 annexe ch. 4, **1982** 196 1676 annexe ch. 1 2184 art. 114, **1990** 1091, **1991** 362 ch. II 412, **1992** 288 annexe ch. 37, **1995** 511. [RO 1995 1328](https://fedlex.data.admin.ch/eli/oc/1995/1328_1328_1328)annexe ch. 1]. Voir actuellement la LF du 20 mars 1981 sur l’assurance-accidents ([RS 832.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10190)).
+[^annexIII-lvlu1-lvlB-lvlI-6-2]: Actuellement «Aux art. 16 et 17 de la LF du 20 mars 1981 sur l’assurance-accidents» ([RS 832.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10190)).
+[^annexIII-lvlu1-lvlB-lvlI-6-3]: Actuellement «À l’art. 20 de la LF du 20 mars 1981 sur l’assurance-accidents» ([RS 832.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10190)).
+[^annexIII-lvlu1-lvlB-lvlI-6-4]: Actuellement «Aux art. 28 à 33 de la LF du 20 mars 1981 sur l’assurance-accidents» ([RS 832.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10190)).
+[^annexIII-lvlu1-lvlB-lvlI-6-5]: Actuellement «Aux art. 15 et 17 de la LF du 20 mars 1981 sur l’assurance-accidents» ([RS 832.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10190)).
 
 ### II. Assurance-maladie
 
@@ -1447,7 +1548,7 @@ L’assuré est tenu, sous peine de déchéance en cas d’omission ou de refus,
 
 *Si la compagnie* résilie le contrat en se fondant sur l’art. 42 de la loi fédérale du 2 avril 1908 sur le contrat d’assurance[^annexIII-lvlu1-lvlD-13-1], sa responsabilité cesse 14 jours après qu’elle a notifié la résiliation au preneur d’assurance. Si le navire se trouve encore en mer, le contrat reste en tout cas valable jusqu’à la fin du voyage commencé, c’est-à-dire jusqu’à l’entrée dans le port de destination ou dans un port de secours, auquel cas le port de secours est considéré comme port de destination.
 
-[^annexIII-lvlu1-lvlD-13-1]: [RS 221.229.1](https://fedlex.data.admin.ch/eli/cc/24/719_735_717)
+[^annexIII-lvlu1-lvlD-13-1]: [RS 221.229.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5912)
 
 #### Art. 14
 
@@ -1461,7 +1562,7 @@ En cas de litige découlant du présent contrat, seuls les tribunaux suisses son
 
 Au surplus, le présent contrat est régi par la loi fédérale du 2 avril 1908 sur le contrat d’assurance[^annexIII-lvlu1-lvlD-16-1].
 
-[^annexIII-lvlu1-lvlD-16-1]: [RS 221.229.1](https://fedlex.data.admin.ch/eli/cc/24/719_735_717)
+[^annexIII-lvlu1-lvlD-16-1]: [RS 221.229.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5912)
 
 Annexe IV[^t-4]
 
