@@ -4,11 +4,11 @@ title: Strassenverkehrsgesetz vom 19. Dezember 1958 (SVG)
 short: SVG
 eli: "https://fedlex.data.admin.ch/eli/cc/1959/679_705_685"
 language: de
-version: 2025-04-01
+version: 2026-07-01
 adopted: 1958-12-19
 in_force: 1959-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/679_705_685/20250401/de/xml/fedlex-data-admin-ch-eli-cc-1959-679_705_685-20250401-de-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1959/679_705_685/20250401/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/679_705_685/20260701/de/xml/fedlex-data-admin-ch-eli-cc-1959-679_705_685-20260701-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1959/679_705_685/20260701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1959/679_705_685/20250401/de"
 
 (SVG)[^t-1]
 
-vom 19. Dezember 1958 (Stand am 1. April 2025)
+vom 19. Dezember 1958 (Stand am 1. Juli 2026)
 
 [^t-1]: Tit. gemäss Ziff. I des BG vom 6. Okt. 1989, in Kraft seit 1. Febr. 1991 ([AS 1991 71](https://fedlex.data.admin.ch/eli/oc/1991/71_71_71); [BBl 1986 III 209](https://fedlex.data.admin.ch/eli/fga/1986/3_209_197_185)).
 
@@ -27,7 +27,7 @@ gestützt auf die Artikel 82 Absätze 1 und 2, 110 Absatz 1 Buchstabe a, 122 Abs
 
 beschliesst:
 
-[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: Fassung gemäss Ziff. I des BG vom 15. Juni 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744); [BBl 2010 8447](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
 [^ingress-3]: [BBl 1955 II 1](https://fedlex.data.admin.ch/eli/fga/1955/2_1_1_)
 
@@ -45,7 +45,7 @@ beschliesst:
 
 [^1-1]: Fassung gemäss Ziff. I des BG vom 1. Okt. 2010, in Kraft seit 1. Jan. 2012 ([AS 2011 4925](https://fedlex.data.admin.ch/eli/oc/2011/710); [BBl 2010 4137](https://fedlex.data.admin.ch/eli/fga/2010/680)[4149](https://fedlex.data.admin.ch/eli/fga/2010/682)).
 [^1-2]: Fassung gemäss Ziff. I des BG vom 15. Juni 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744); [BBl 2010 8447](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
-[^1-3]: [SR 930.11](https://fedlex.data.admin.ch/eli/cc/2010/347)
+[^1-3]: [SR 930.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11020)
 [^1-4]: Eingefügt durch Art. 20 Abs. 2 Ziff. 2 des BG vom 12. Juni 2009 über die Produktesicherheit ([AS 2010 2573](https://fedlex.data.admin.ch/eli/oc/2010/347); [BBl 2008 7407](https://fedlex.data.admin.ch/eli/fga/2008/1234)). Fassung gemäss Ziff. I des BG vom 15. Juni 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744); [BBl 2010 8447](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
 
 ### Befugnisse des Bundes
@@ -200,7 +200,7 @@ Der Bundesrat ist ermächtigt, nach Anhören der Kantone:
 
 <sup>3</sup> Er kann nach Anhören der Kantone Ausnahmen vorsehen für Motorfahrzeuge und Anhänger im Linienverkehr und für solche Fahrzeuge, die wegen ihres besonderen Zweckes unvermeidbar höhere Masse oder Gewichte erfordern. Er umschreibt die Voraussetzungen, unter denen im Einzelfall unumgängliche Fahrten anderer Fahrzeuge mit höheren Massen oder Gewichten durchgeführt werden können.[^9-5]
 
-<sup>3bis</sup> Auf Gesuch des Fahrzeughalters kann das zugelassene Gesamtgewicht eines Motorfahrzeuges oder eines Anhängers verändert werden, jedoch höchstens einmal jährlich oder anlässlich eines Halterwechsels. Die Gewichtsgarantien des Fahrzeugherstellers dürfen nicht überschritten werden.[^9-6]
+<sup>3bis</sup> Auf Gesuch des Fahrzeughalters kann das zugelassene Gesamtgewicht eines Motorfahrzeuges oder eines Anhängers verändert werden.[^9-6] Die Gewichtsgarantien des Fahrzeugherstellers dürfen nicht überschritten werden.[^9-7]
 
 <sup>4</sup> Signalisierte Beschränkungen der Breite, der Höhe, des Gewichtes und der Achslast der Fahrzeuge bleiben in jedem Fall vorbehalten.
 
@@ -209,7 +209,8 @@ Der Bundesrat ist ermächtigt, nach Anhören der Kantone:
 [^9-3]: Eingefügt durch Ziff. I des BG vom 15. Juni 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744); [BBl 2010 8447](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
 [^9-4]: Eingefügt durch Ziff. I des BG vom 17. März 2023, in Kraft seit 1. Okt. 2023 ([AS 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [BBl 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
 [^9-5]: Fassung des zweiten Satzes gemäss Ziff. I des BG vom 15. Juni 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744); [BBl 2010 8447](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
-[^9-6]: Eingefügt durch Ziff. I des BG vom 14. Dez. 2001, in Kraft seit 1. April 2003 ([AS 2002 2767](https://fedlex.data.admin.ch/eli/oc/2002/408); BBl **1999** 4462).
+[^9-6]: Fassung gemäss Ziff. I des BG vom 17. März 2023, in Kraft seit 1. Juli 2026 ([AS 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [2026 225](https://fedlex.data.admin.ch/eli/oc/2026/225); [BBl 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
+[^9-7]: Eingefügt durch Ziff. I des BG vom 14. Dez. 2001, in Kraft seit 1. April 2003 ([AS 2002 2767](https://fedlex.data.admin.ch/eli/oc/2002/408); BBl **1999** 4462).
 
 ### Ausweise
 
@@ -241,8 +242,8 @@ Der Fahrzeugausweis kann verweigert werden, wenn der Halter die Verkehrssteuern 
 
 <sup>3</sup> Wird der Standort eines Fahrzeuges in einen andern Kanton verlegt oder geht es auf einen andern Halter über, so ist ein neuer Fahrzeugausweis einzuholen.
 
-[^11-1]: [SR 641.51](https://fedlex.data.admin.ch/eli/cc/1996/3045_3045_3045)
-[^11-2]: [SR 641.81](https://fedlex.data.admin.ch/eli/cc/2000/24)
+[^11-1]: [SR 641.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8133)
+[^11-2]: [SR 641.81](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8159)
 [^11-3]: Fassung gemäss Ziff. II des BG vom 5. Okt. 2007 über Massnahmen zur Verbesserung der Verfahren im Bereich der leistungsabhängigen Schwerverkehrsabgabe, in Kraft seit 1. April 2008 ([AS 2008 765](https://fedlex.data.admin.ch/eli/oc/2008/189); [BBl 2006 9539](https://fedlex.data.admin.ch/eli/fga/2006/1242)).
 
 ### Typengenehmigung
@@ -336,9 +337,9 @@ Der Nachweis nach Absatz 1 Buchstabe b ist zu erbringen:
 
 ### Aus- und Weiterbildung der Motorfahrzeugführer
 
-[^titII-chap1-lvlu10-1]
+[^tit2-chap1-lvlu10-1]
 
-[^titII-chap1-lvlu10-1]: Fassung gemäss Ziff. I des BG vom 15. Juni 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744); [BBl 2010 8447](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
+[^tit2-chap1-lvlu10-1]: Fassung gemäss Ziff. I des BG vom 15. Juni 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744); [BBl 2010 8447](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
 
 #### Art. 15
 
@@ -450,7 +451,7 @@ Bestehen Zweifel an der Fahreignung einer Person, so wird diese einer Fahreignun
 <sup>5</sup> Bestehen Zweifel an der Fahrkompetenz einer Person, so kann diese einer Kontrollfahrt, einer Theorieprüfung, einer praktischen Führerprüfung oder einer andern geeigneten Massnahme wie einer Aus- oder Weiterbildung oder einer Nachschulung unterzogen werden.
 
 [^15d-1]: Eingefügt durch Ziff. I des BG vom 15. Juni 2012, in Kraft seit 1. Jan. 2013, Abs. 1 Bst. a in Kraft seit 1. Juli 2014 ([AS 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744), [2013 4669](https://fedlex.data.admin.ch/eli/oc/2013/821); [BBl 2010 8447](https://fedlex.data.admin.ch/eli/fga/2010/1610), [2012 5959](https://fedlex.data.admin.ch/eli/fga/2012/938)).
-[^15d-2]: [SR 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
+[^15d-2]: [SR 831.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10046)
 [^15d-3]: Fassung gemäss Ziff. I des BG vom 29. Sept. 2017, in Kraft seit 1. Jan. 2019 ([AS 2018 2807](https://fedlex.data.admin.ch/eli/oc/2018/425); [BBl 2017 3649](https://fedlex.data.admin.ch/eli/fga/2017/870)[3833](https://fedlex.data.admin.ch/eli/fga/2017/926)).
 
 ### Sperrfrist nach Fahren ohne Ausweis
@@ -489,12 +490,12 @@ Der Fahrzeugausweis wird entzogen, wenn:
 - a. die gegebenenfalls nach dem Schwerverkehrsabgabegesetz vom 19. Dezember 1997[^16-6] für das Fahrzeug geschuldete Abgabe oder die geschuldeten Sicherheitsleistungen nicht bezahlt und der Halter erfolglos gemahnt worden ist; oder
 - b. das Fahrzeug nicht mit dem vorgeschriebenen Erfassungsgerät zur Abgabeerhebung ausgerüstet ist.[^16-7]
 
-[^16-1]: [SR 314.1](https://fedlex.data.admin.ch/eli/cc/2017/725)
+[^16-1]: [SR 314.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6238)
 [^16-2]: Fassung gemäss Ziff. I des BG vom 17. März 2023, in Kraft seit 1. Okt. 2023 ([AS 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [BBl 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
 [^16-3]: Fassung des zweiten Satzes gemäss Anhang Ziff. 4 des BG vom 18. März 2016, in Kraft seit 1. Aug. 2016 ([AS 2016 2429](https://fedlex.data.admin.ch/eli/oc/2016/391); [BBl 2015 2883](https://fedlex.data.admin.ch/eli/fga/2015/604)).
 [^16-4]: Fassung gemäss Ziff. I des BG vom 14. Dez. 2001, in Kraft seit 1. Jan. 2005 ([AS 2002 2767](https://fedlex.data.admin.ch/eli/oc/2002/408), [2004 2849](https://fedlex.data.admin.ch/eli/oc/2004/350); BBl **1999** 4462).
 [^16-5]: Fassung gemäss Ziff. I des BG vom 14. Dez. 2001, in Kraft seit 1. April 2003 ([AS 2002 2767](https://fedlex.data.admin.ch/eli/oc/2002/408); BBl **1999** 4462).
-[^16-6]: [SR 641.81](https://fedlex.data.admin.ch/eli/cc/2000/24)
+[^16-6]: [SR 641.81](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8159)
 [^16-7]: Eingefügt durch Ziff. II des BG vom 5. Okt. 2007 über Massnahmen zur Verbesserung der Verfahren im Bereich der leistungsabhängigen Schwerverkehrsabgabe, in Kraft seit 1. April 2008 ([AS 2008 765](https://fedlex.data.admin.ch/eli/oc/2008/189); [BBl 2006 9539](https://fedlex.data.admin.ch/eli/fga/2006/1242)).
 
 ### Verwarnung oder Führerausweisentzug nach einer leichten Widerhandlung
@@ -799,9 +800,9 @@ Der Bundesrat stellt nach Anhören der Kantone Vorschriften auf über:
 
 ## II*a*. Titel: Fahrzeuge mit einem Automatisierungssystem
 
-[^titIIa-1]
+[^tit2a-1]
 
-[^titIIa-1]: Eingefügt durch Ziff. I des BG vom 17. März 2023, in Kraft seit 1. März 2025 ([AS 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [2025 49](https://fedlex.data.admin.ch/eli/oc/2025/49); [BBl 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
+[^tit2a-1]: Eingefügt durch Ziff. I des BG vom 17. März 2023, in Kraft seit 1. März 2025 ([AS 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [2025 49](https://fedlex.data.admin.ch/eli/oc/2025/49); [BBl 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
 
 ### Begriff
 
@@ -987,8 +988,8 @@ Der Bundesrat kann folgenden Personengruppen das Fahren unter Alkoholeinfluss ve
 <sup>3</sup> Der Führer hat dafür zu sorgen, dass er weder durch die Ladung noch auf andere Weise behindert wird. Mitfahrende dürfen ihn nicht behindern oder stören.
 
 [^31-1]: Fassung gemäss Ziff. I des BG vom 14. Dez. 2001, in Kraft seit 1. Jan. 2005 ([AS 2002 2767](https://fedlex.data.admin.ch/eli/oc/2002/408), [2004 2849](https://fedlex.data.admin.ch/eli/oc/2004/350); BBl **1999** 4462).
-[^31-2]: [SR 745.1](https://fedlex.data.admin.ch/eli/cc/2009/680)
-[^31-3]: [SR 744.10](https://fedlex.data.admin.ch/eli/cc/2009/681)
+[^31-2]: [SR 745.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8886)
+[^31-3]: [SR 744.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8860)
 [^31-4]: Eingefügt durch Ziff. I des BG vom 15. Juni 2012, in Kraft seit 1. Jan. 2014 ([AS 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744), [2013 4669](https://fedlex.data.admin.ch/eli/oc/2013/821); [BBl 2010 8447](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
 [^31-5]: Eingefügt durch Ziff. I des BG vom 15. Juni 2012, in Kraft seit 1. Jan. 2014 ([AS 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744), [2013 4669](https://fedlex.data.admin.ch/eli/oc/2013/821); [BBl 2010 8447](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
 
@@ -1239,9 +1240,9 @@ Die Verkehrsregeln dieses Gesetzes gelten auch für Eisenbahnfahrzeuge auf Stras
 
 #### Art. 52
 
-<sup>1</sup> Öffentliche Rundstreckenrennen mit Motorfahrzeugen sind verboten. Der Bundesrat kann einzelne Ausnahmen gestatten oder das Verbot auf andere Arten von Motorfahrzeugrennen ausdehnen; er berücksichtigt bei seinem Entscheid vor allem die Erfordernisse der Verkehrssicherheit und der Verkehrserziehung.
+<sup>1</sup> Öffentliche Rundstreckenrennen mit Motorfahrzeugen und andere motor- und radsportliche Veranstaltungen auf öffentlichen Strassen bedürfen der Bewilligung der Kantone, deren Gebiet befahren wird. Davon ausgenommen sind Ausflugsfahrten.[^52-1]
 
-<sup>2</sup> Andere motor- und radsportliche Veranstaltungen auf öffentlichen Strassen, ausgenommen Ausflugsfahrten, bedürfen der Bewilligung der Kantone, deren Gebiet befahren wird.
+<sup>2</sup> Die Erfordernisse der Verkehrssicherheit, der Verkehrserziehung und des Umweltschutzes sind zu berücksichtigen.[^52-2]
 
 <sup>3</sup>
 
@@ -1253,6 +1254,9 @@ Die Bewilligung darf nur erteilt werden, wenn:
 - d. die vorgeschriebene Haftpflichtversicherung abgeschlossen ist.
 
 <sup>4</sup> Die kantonale Behörde kann Ausnahmen von den Verkehrsvorschriften gestatten, wenn genügende Sicherheitsmassnahmen getroffen sind.
+
+[^52-1]: Fassung gemäss Ziff. I des BG vom 17. März 2023, in Kraft seit 1. Juli 2026 ([AS 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [2026 225](https://fedlex.data.admin.ch/eli/oc/2026/225); [BBl 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
+[^52-2]: Fassung gemäss Ziff. I des BG vom 17. März 2023, in Kraft seit 1. Juli 2026 ([AS 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [2026 225](https://fedlex.data.admin.ch/eli/oc/2026/225); [BBl 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
 
 ### Versuchsfahrten
 
@@ -1271,7 +1275,7 @@ Für Versuchsfahrten, auf denen die Verkehrsregeln oder die Vorschriften über d
 Zur Durchsetzung der Vorschriften des Strassenverkehrsrechts und zur Erreichung der Ziele des Verkehrsverlagerungsgesetzes vom 8. Oktober 1999[^53a-2] nehmen die Kantone der erhöhten Gefährdung angepasste Schwerverkehrskontrollen auf der Strasse vor.
 
 [^53a-1]: Eingefügt durch Art. 6 Ziff. 2 des Verkehrsverlagerungsgesetzes vom 8. Okt. 1999 ([AS 2000 2864](https://fedlex.data.admin.ch/eli/oc/2000/495); [BBl 1999 6128](https://fedlex.data.admin.ch/eli/fga/1999/1_6128_5440_5092)). Fassung gemäss Ziff. II 18 des BG vom 6. Okt. 2006 zur Neugestaltung des Finanzausgleichs und der Aufgabenteilung zwischen Bund und Kantonen (NFA), in Kraft seit 1. Jan. 2008 ([AS 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [BBl 2005 6029](https://fedlex.data.admin.ch/eli/fga/2005/976)).
-[^53a-2]: [SR 740.1](https://fedlex.data.admin.ch/eli/cc/2009/727)
+[^53a-2]: [SR 740.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8603)
 
 ### Besondere Befugnisse der Polizei
 
@@ -1420,10 +1424,10 @@ Der Bundesrat kann vorschreiben, dass:
 
 ## III*a*. Titel: Verkehrsmanagement
 
-[^titIIIa-1][^titIIIa-2]
+[^tit3a-1][^tit3a-2]
 
-[^titIIIa-1]: Eingefügt durch Ziff. I des BG vom 14. Dez. 2001, in Kraft seit 1. Jan. 2003 ([AS 2002 2767](https://fedlex.data.admin.ch/eli/oc/2002/408); BBl **1999** 4462).
-[^titIIIa-2]: Fassung gemäss Ziff. I des BG vom 15. Juni 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744); [BBl 2010 8447](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
+[^tit3a-1]: Eingefügt durch Ziff. I des BG vom 14. Dez. 2001, in Kraft seit 1. Jan. 2003 ([AS 2002 2767](https://fedlex.data.admin.ch/eli/oc/2002/408); BBl **1999** 4462).
+[^tit3a-2]: Fassung gemäss Ziff. I des BG vom 15. Juni 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744); [BBl 2010 8447](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
 
 ### Verkehrsmanagement durch den Bund
 
@@ -1454,7 +1458,7 @@ Er kann:
 <sup>8</sup> Gegen Entgelt kann der Bund die Bereitstellung und die Verbreitung der Verkehrsinformationen für die Kantone übernehmen.
 
 [^57c-1]: Fassung gemäss Ziff. II 18 des BG vom 6. Okt. 2006 zur Neugestaltung des Finanzausgleichs und der Aufgabenteilung zwischen Bund und Kantonen (NFA), in Kraft seit 1. Jan. 2008 ([AS 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [BBl 2005 6029](https://fedlex.data.admin.ch/eli/fga/2005/976)).
-[^57c-2]: [SR 740.1](https://fedlex.data.admin.ch/eli/cc/2009/727)
+[^57c-2]: [SR 740.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8603)
 
 ### Verkehrsmanagement durch die Kantone
 
@@ -1506,10 +1510,10 @@ Nach dem Obligationenrecht[^59-2] bestimmen sich:[^59-3]
 - b.[^59-4] die Haftung des Halters für Schaden an den mit seinem Fahrzeug beförderten Sachen, ausgenommen an Gegenständen, die der Geschädigte mit sich führte, namentlich Reisegepäck und dergleichen; vorbehalten ist das Personenbeförderungsgesetz vom 20. März 2009[^59-5].
 
 [^59-1]: Aufgehoben durch Ziff. I des BG vom 20. März 1975, mit Wirkung seit 1. Jan. 1976 ([AS 1975 1257](https://fedlex.data.admin.ch/eli/oc/1975/1257_1257_1257)[1857](https://fedlex.data.admin.ch/eli/oc/1975/1857_1857_1857)Ziff. III; [BBl 1973 II 1173](https://fedlex.data.admin.ch/eli/fga/1973/2_1173_1141_1053)).
-[^59-2]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^59-2]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 [^59-3]: Fassung gemäss Ziff. I des BG vom 17. März 2023, in Kraft seit 1. Okt. 2023 ([AS 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [BBl 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
 [^59-4]: Fassung gemäss Ziff. I des BG vom 17. März 2023, in Kraft seit 1. Okt. 2023 ([AS 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [BBl 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
-[^59-5]: [SR 745.1](https://fedlex.data.admin.ch/eli/cc/2009/680)
+[^59-5]: [SR 745.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8886)
 
 ### Mehrere Schädiger
 
@@ -1546,7 +1550,7 @@ Nach dem Obligationenrecht[^59-2] bestimmen sich:[^59-3]
 
 <sup>3</sup> Leistungen an den Geschädigten aus einer privaten Versicherung, deren Prämien ganz oder teilweise vom Halter bezahlt wurden, sind im Verhältnis seines Prämienbeitrages auf seine Ersatzpflicht anzurechnen, wenn der Versicherungsvertrag nichts anderes vorsieht.
 
-[^62-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^62-1]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 ### 2. Abschnitt: Versicherung
 
@@ -1591,7 +1595,7 @@ Der Bundesrat bestimmt die Beträge, die als Ersatzansprüche der Geschädigten 
 
 <sup>3</sup> Der Versicherer hat ein Rückgriffsrecht gegen den Versicherungsnehmer oder den Versicherten, soweit er nach dem Versicherungsvertrag oder dem Versicherungsvertragsgesetz zur Ablehnung oder Kürzung seiner Leistung befugt wäre.[^65-3]
 
-[^65-1]: [SR 221.229.1](https://fedlex.data.admin.ch/eli/cc/24/719_735_717)
+[^65-1]: [SR 221.229.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5912)
 [^65-2]: Fassung gemäss Ziff. I des BG vom 17. März 2023, in Kraft seit 1. Okt. 2023 ([AS 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [BBl 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
 [^65-3]: Fassung gemäss Ziff. I des BG vom 17. März 2023, in Kraft seit 1. Okt. 2023 ([AS 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [BBl 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
 
@@ -1665,7 +1669,7 @@ Die Versicherung des Zugfahrzeuges erstreckt sich auch auf die Haftpflicht für 
 <sup>4</sup> Nach diesem Gesetz richten sich die Haftung des Halters des Zugfahrzeuges für körperliche Schäden der Mitfahrer auf Anhängern sowie die Haftung für Schäden zwischen dem Zugfahrzeug und dem geschleppten Motorfahrzeug. Für Sachschäden am Anhänger haftet der Halter des Zugfahrzeuges nach dem Obligationenrecht[^69-2].
 
 [^69-1]: Fassung gemäss Ziff. I des BG vom 6. Okt. 1989, in Kraft seit 1. Febr. 1991 ([AS 1991 71](https://fedlex.data.admin.ch/eli/oc/1991/71_71_71); [BBl 1986 III 209](https://fedlex.data.admin.ch/eli/fga/1986/3_209_197_185)).
-[^69-2]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^69-2]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 ### Fahrräder
 
@@ -1676,7 +1680,7 @@ Die Versicherung des Zugfahrzeuges erstreckt sich auch auf die Haftpflicht für 
 Radfahrer haften nach Obligationenrecht[^70-2].
 
 [^70-1]: Fassung gemäss Ziff. I des BG vom 1. Okt. 2010, in Kraft seit 1. Jan. 2012 ([AS 2011 4925](https://fedlex.data.admin.ch/eli/oc/2011/710); [BBl 2010 4137](https://fedlex.data.admin.ch/eli/fga/2010/680)[4149](https://fedlex.data.admin.ch/eli/fga/2010/682)).
-[^70-2]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^70-2]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 ### Unternehmen des Motorfahrzeuggewerbes
 
@@ -1813,7 +1817,7 @@ Der Bundesrat kann im Falle von Absatz 3 Buchstabe a:
 <sup>8</sup> Mit der Zahlung der Ersatzleistung an die geschädigte Person tritt der Nationale Garantiefonds für die von ihm gedeckten gleichartigen Schadensposten in die Rechte der geschädigten Person ein. Für Leistungen nach Absatz 4 nimmt der Nationale Garantiefonds nur dann Rückgriff, wenn der Halter oder Lenker des Fahrzeugs den Schaden grobfahrlässig oder absichtlich verursacht hat. Ist der Nationale Garantiefonds nach Absatz 4 leistungspflichtig, so hat die geschädigte Person keine Ansprüche gegenüber dem Halter oder Lenker des Fahrzeugs, mit dem der Schaden verursacht wurde.
 
 [^76-1]: Fassung gemäss Anhang Ziff. 2 des BG vom 18. März 2022, in Kraft seit 1. Jan. 2024 ([AS 2023 355](https://fedlex.data.admin.ch/eli/oc/2023/355); [BBl 2020 8967](https://fedlex.data.admin.ch/eli/fga/2020/2421)).
-[^76-2]: [SR 961.01](https://fedlex.data.admin.ch/eli/cc/2005/734)
+[^76-2]: [SR 961.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11633)
 
 ### Finanzierung, Durchführung
 
@@ -1837,7 +1841,7 @@ Der Bundesrat kann im Falle von Absatz 3 Buchstabe a:
 [^76a-2]: Fassung gemäss Ziff. I des BG vom 4. Okt. 2002, in Kraft seit 1. Febr. 2003 ([AS 2003 222](https://fedlex.data.admin.ch/eli/oc/2003/30); [BBl 2002 4397](https://fedlex.data.admin.ch/eli/fga/2002/692)).
 [^76a-3]: Fassung gemäss Anhang Ziff. 10 des Finanzmarktaufsichtsgesetzes vom 22. Juni 2007, in Kraft seit 1. Jan. 2009 ([AS 2008 5207](https://fedlex.data.admin.ch/eli/oc/2008/736); [BBl 2006 2829](https://fedlex.data.admin.ch/eli/fga/2006/303)).
 [^76a-4]: Fassung gemäss Ziff. I des BG vom 23. Juni 1995, in Kraft seit 1. Jan. 1996 ([AS 1995 5462](https://fedlex.data.admin.ch/eli/oc/1995/5462_5462_5462); [BBl 1995 I 49](https://fedlex.data.admin.ch/eli/fga/1995/1_49_49_29)).
-[^76a-5]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^76a-5]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 [^76a-6]: Eingefügt durch Anhang Ziff. 2 des BG vom 18. März 2022, in Kraft seit 1. Jan. 2024 ([AS 2023 355](https://fedlex.data.admin.ch/eli/oc/2023/355); [BBl 2020 8967](https://fedlex.data.admin.ch/eli/fga/2020/2421)).
 
 ### Gemeinsame Bestimmungen für das Nationale Versicherungsbüro und den Nationalen Garantiefonds
@@ -2000,7 +2004,7 @@ Keine Ansprüche gegen die Entschädigungsstelle bestehen, wenn die geschädigte
 Geschädigten, die nach dem Unfallversicherungsgesetz vom 20. März 1981[^80-2] versichert sind, bleiben die Ansprüche aus diesem Gesetz gewahrt.
 
 [^80-1]: Fassung gemäss Anhang Ziff. 4 des BG vom 6. Okt. 2000 über den Allgemeinen Teil des Sozialversicherungsrechts, in Kraft seit 1. Jan. 2003 ([AS 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [BBl 1991 II 185](https://fedlex.data.admin.ch/eli/fga/1991/2_185__)910, [1994 V 921](https://fedlex.data.admin.ch/eli/fga/1994/5_921__), **1999** 4523).
-[^80-2]: [SR 832.20](https://fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676)
+[^80-2]: [SR 832.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10190)
 
 ### Militärversicherung
 
@@ -2011,7 +2015,7 @@ Geschädigten, die nach dem Unfallversicherungsgesetz vom 20. März 1981[^80-2] 
 Wird ein Versicherter der Militärversicherung durch ein Militärfahrzeug verletzt oder getötet, so hat der Bund den Schaden ausschliesslich nach dem Bundesgesetz vom 19. Juni 1992[^81-2] über die Militärversicherung zu decken.
 
 [^81-1]: Fassung gemäss Anhang Ziff. 4 des BG vom 19. Juni 1992 über die Militärversicherung, in Kraft seit 1. Jan. 1994 ([AS 1993 3043](https://fedlex.data.admin.ch/eli/oc/1993/3043_3043_3043); [BBl 1990 III 201](https://fedlex.data.admin.ch/eli/fga/1990/3_201_189_185)).
-[^81-2]: [SR 833.1](https://fedlex.data.admin.ch/eli/cc/1993/3043_3043_3043)
+[^81-2]: [SR 833.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10252)
 
 ### 5. Abschnitt: Gemeinsame Bestimmungen
 
@@ -2036,7 +2040,7 @@ Die durch dieses Gesetz vorgeschriebenen Versicherungen sind bei einer zum Gesch
 <sup>2</sup> Der Rückgriff unter den Haftpflichtigen aus einem Unfall mit Motorfahrzeugen, Fahrrädern oder fahrzeugähnlichen Geräten und die übrigen in diesem Gesetz vorgesehenen Rückgriffsrechte verjähren in drei Jahren vom Tag hinweg, an dem die zugrunde liegende Leistung vollständig erbracht und der Pflichtige bekannt wurde.
 
 [^83-1]: Fassung gemäss Anhang Ziff. 12 des BG vom 15. Juni 2018 (Revision des Verjährungsrechts), in Kraft seit 1. Jan. 2020 ([AS 2018 5343](https://fedlex.data.admin.ch/eli/oc/2018/807); [BBl 2014 235](https://fedlex.data.admin.ch/eli/fga/2014/65)).
-[^83-2]: [<sup>SR</sup> <sup>220</sup>](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^83-2]: [<sup>SR</sup> <sup>220</sup>](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 84
 
@@ -2085,9 +2089,9 @@ Wird einem Geschädigten durch Versicherungsleistungen der Schaden nicht voll ge
 
 ## IV*a*. Titel: Informationssysteme
 
-[^titIVa-1]
+[^tit4a-1]
 
-[^titIVa-1]: Eingefügt durch Ziff. I des BG vom 15. Juni 2012, Abschn. 2 in Kraft seit 1. Jan. 2013, Abschn. 3 in Kraft seit 1. Jan. 2014 und Abschn. 1 in Kraft seit 1. Jan. 2019 ([AS 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744), [2013 4669](https://fedlex.data.admin.ch/eli/oc/2013/821), [2018 4985](https://fedlex.data.admin.ch/eli/oc/2018/781); [BBl 2010 8447](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
+[^tit4a-1]: Eingefügt durch Ziff. I des BG vom 15. Juni 2012, Abschn. 2 in Kraft seit 1. Jan. 2013, Abschn. 3 in Kraft seit 1. Jan. 2014 und Abschn. 1 in Kraft seit 1. Jan. 2019 ([AS 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744), [2013 4669](https://fedlex.data.admin.ch/eli/oc/2013/821), [2018 4985](https://fedlex.data.admin.ch/eli/oc/2018/781); [BBl 2010 8447](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
 
 ### 1. Abschnitt: Informationssystem Verkehrszulassung
 
@@ -2133,10 +2137,10 @@ Das IVZ dient der Erfüllung folgender Aufgaben:
 - m.[^89b-4] Vollzug der Verminderung der CO<sub>2</sub>-Emissionen von Fahrzeugen nach dem CO<sub>2</sub>-Gesetz vom 23. Dezember 2011[^89b-5].
 
 [^89b-1]: Fassung gemäss Ziff. I des BG vom 17. März 2023, in Kraft seit 1. Okt. 2023 ([AS 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [BBl 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
-[^89b-2]: [SR 641.51](https://fedlex.data.admin.ch/eli/cc/1996/3045_3045_3045)
+[^89b-2]: [SR 641.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8133)
 [^89b-3]: Fassung gemäss Ziff. I des BG vom 17. März 2023, in Kraft seit 1. Okt. 2023 ([AS 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [BBl 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
 [^89b-4]: Fassung gemäss Ziff. I des BG vom 17. März 2023, in Kraft seit 1. Okt. 2023 ([AS 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [BBl 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
-[^89b-5]: [SR 641.71](https://fedlex.data.admin.ch/eli/cc/2012/855)
+[^89b-5]: [SR 641.71](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8148)
 
 ### Inhalt
 
@@ -2185,13 +2189,13 @@ Folgende Behörden und Stellen bearbeiten die Daten des IVZ:[^89d-1]
 
 [^89d-1]: Fassung gemäss Ziff. I des BG vom 17. März 2023, in Kraft seit 1. Okt. 2023 ([AS 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [BBl 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
 [^89d-2]: Eingefügt durch Ziff. I des BG vom 17. März 2023 ([AS 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [BBl 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)). Fassung gemäss Anhang 2 Ziff. 1 des BG vom 17. März 2023, in Kraft seit 1. Mai 2024 ([AS 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [2024 131](https://fedlex.data.admin.ch/eli/oc/2024/131); [BBl 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026); [2022 2323](https://fedlex.data.admin.ch/eli/fga/2022/2323)).
-[^89d-3]: [SR 641.51](https://fedlex.data.admin.ch/eli/cc/1996/3045_3045_3045)
+[^89d-3]: [SR 641.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8133)
 [^89d-4]: Eingefügt durch Ziff. I des BG vom 17. März 2023 ([AS 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [BBl 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)). Fassung gemäss Anhang 2 Ziff. 1 des BG vom 17. März 2023, in Kraft seit 1. Mai 2024 ([AS 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [2024 131](https://fedlex.data.admin.ch/eli/oc/2024/131); [BBl 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026); [2022 2323](https://fedlex.data.admin.ch/eli/fga/2022/2323)).
-[^89d-5]: [SR 641.81](https://fedlex.data.admin.ch/eli/cc/2000/24)
+[^89d-5]: [SR 641.81](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8159)
 [^89d-6]: Eingefügt durch Ziff. I des BG vom 17. März 2023, in Kraft seit 1. Okt. 2023 ([AS 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [BBl 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
-[^89d-7]: [SR 741.71](https://fedlex.data.admin.ch/eli/cc/2011/577)
+[^89d-7]: [SR 741.71](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8697)
 [^89d-8]: Eingefügt durch Ziff. I des BG vom 17. März 2023, in Kraft seit 1. Okt. 2023 ([AS 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [BBl 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
-[^89d-9]: [SR 641.71](https://fedlex.data.admin.ch/eli/cc/2012/855)
+[^89d-9]: [SR 641.71](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8148)
 
 ### Zugriff im Abrufverfahren
 
@@ -2216,7 +2220,7 @@ Folgende Behörden und Stellen können durch ein Abrufverfahren Einsicht in die 
 [^89e-3]: Ursprünglich: Bst. a.
 [^89e-4]: Fassung gemäss Ziff. I des BG vom 17. März 2023, in Kraft seit 1. Okt. 2023 ([AS 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [BBl 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
 [^89e-5]: Fassung gemäss Ziff. I des BG vom 17. März 2023, in Kraft seit 1. Okt. 2023 ([AS 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [BBl 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
-[^89e-6]: [SR 641.71](https://fedlex.data.admin.ch/eli/cc/2012/855)
+[^89e-6]: [SR 641.71](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8148)
 
 ### Einsichtsrecht
 
@@ -2390,7 +2394,7 @@ Das Informationssystem dient der Erfüllung folgender Aufgaben:
   - 2\. der Auswertung und Analyse von Strassenverkehrskontrollen,
   - 3\. dem Erarbeiten von Grundlagen der Verkehrssicherheitspolitik.
 
-[^89p-1]: [SR 0.740.72](https://fedlex.data.admin.ch/eli/cc/2002/257)
+[^89p-1]: [SR 0.740.72](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2808)
 
 ### Inhalt
 
@@ -2476,11 +2480,11 @@ Eine besonders krasse Missachtung der zulässigen Höchstgeschwindigkeit liegt v
 <sup>5</sup> Artikel 237 Ziffer 2 des Strafgesetzbuches[^90-6] findet in diesen Fällen keine Anwendung.
 
 [^90-1]: Fassung gemäss Ziff. I des BG vom 15. Juni 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744); [BBl 2010 8447](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
-[^90-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^90-2]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 [^90-3]: Eingefügt durch Ziff. I des BG vom 17. März 2023, in Kraft seit 1. Okt. 2023 ([AS 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [BBl 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
 [^90-4]: Eingefügt durch Ziff. I des BG vom 17. März 2023, in Kraft seit 1. Okt. 2023 ([AS 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [BBl 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
 [^90-5]: Fassung gemäss Ziff. I des BG vom 17. März 2023, in Kraft seit 1. Okt. 2023 ([AS 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [BBl 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
-[^90-6]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^90-6]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 ### Einziehung und Verwertung von Motorfahrzeugen
 
@@ -2586,7 +2590,7 @@ Mit Freiheitsstrafe bis zu drei Jahren oder Geldstrafe wird bestraft, wer:
 <sup>5</sup> Artikel 141 des Strafgesetzbuches[^94-2] findet in diesen Fällen keine Anwendung.
 
 [^94-1]: Fassung gemäss Ziff. I des BG vom 15. Juni 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744); [BBl 2010 8447](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
-[^94-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^94-2]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 ### Fahren ohne Berechtigung
 
@@ -2667,7 +2671,7 @@ Mit Freiheitsstrafe bis zu drei Jahren oder Geldstrafe wird bestraft, wer:
 
 [^97-1]: Fassung gemäss Ziff. I des BG vom 1. Okt. 2010, in Kraft seit 1. Jan. 2012 ([AS 2011 4925](https://fedlex.data.admin.ch/eli/oc/2011/710); [BBl 2010 4137](https://fedlex.data.admin.ch/eli/fga/2010/680)[4149](https://fedlex.data.admin.ch/eli/fga/2010/682)).
 [^97-2]: Berichtigung der RedK der BVers vom 10. Dez. 2013, veröffentlicht am 27. Dez. 2013 ([AS 2013 5577](https://fedlex.data.admin.ch/eli/oc/2013/891)).
-[^97-3]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^97-3]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 ### Signale und Markierungen
 
@@ -2710,7 +2714,7 @@ Mit Busse wird bestraft, wer:
 <sup>4</sup> In schweren Fällen ist die Strafe Geldstrafe.[^98a-3]
 
 [^98a-1]: Eingefügt durch Ziff. I des BG vom 15. Juni 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744); [BBl 2010 8447](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
-[^98a-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^98a-2]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 [^98a-3]: Fassung gemäss Ziff. I des BG vom 17. März 2023, in Kraft seit 1. Okt. 2023 ([AS 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [BBl 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
 
 ### Weitere Widerhandlungen
@@ -2782,7 +2786,7 @@ Der Fahrschüler ist verantwortlich, soweit er eine Widerhandlung nach dem Stand
 <sup>2</sup> Die besonderen Bestimmungen des Strafgesetzbuches bleiben vorbehalten, ebenso die Gesetzgebung über die Bahnpolizei.
 
 [^102-1]: Fassung gemäss Ziff. I des BG vom 20. März 1975, in Kraft seit 1. Aug. 1975 ([AS 1975 1257](https://fedlex.data.admin.ch/eli/oc/1975/1257_1257_1257)[1268](https://fedlex.data.admin.ch/eli/oc/1975/1268_1268_1268)Art. 1; [BBl 1973 II 1173](https://fedlex.data.admin.ch/eli/fga/1973/2_1173_1141_1053)).
-[^102-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^102-2]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 ### Ergänzende Strafbestimmungen, Strafverfolgung, Strafkontrolle
 
@@ -2908,14 +2912,14 @@ Er kann Änderungen der folgenden Übereinkommen genehmigen:
 <sup>4</sup> Er kann die Zuständigkeit zur Änderung von Verträgen nach den Absätzen 1 und 2 an das ASTRA delegieren. Er berücksichtigt dabei die Tragweite der Änderungen.
 
 [^106a-1]: Eingefügt durch Ziff. I des BG vom 15. Juni 2012 ([AS 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744); [BBl 2010 8447](https://fedlex.data.admin.ch/eli/fga/2010/1610)). Fassung gemäss Ziff. I des BG vom 17. März 2023, in Kraft seit 1. April 2025 ([AS 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [2024 548](https://fedlex.data.admin.ch/eli/oc/2024/548); [BBl 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
-[^106a-2]: [SR 0.741.10](https://fedlex.data.admin.ch/eli/cc/1993/402_402_402)
-[^106a-3]: [SR 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478)
-[^106a-4]: [SR 0.741.20](https://fedlex.data.admin.ch/eli/cc/1993/498_498_498)
-[^106a-5]: [SR 0.741.201](https://fedlex.data.admin.ch/eli/cc/1993/604_604_604)
-[^106a-6]: [SR 0.741.411](https://fedlex.data.admin.ch/eli/cc/1973/1468_1468_1468)
-[^106a-7]: [SR 0.741.621](https://fedlex.data.admin.ch/eli/cc/1972/1073_1085_1249)
-[^106a-8]: [SR 0.822.725.22](https://fedlex.data.admin.ch/eli/cc/2003/268)
-[^106a-9]: [SR 0.740.72](https://fedlex.data.admin.ch/eli/cc/2002/257)
+[^106a-2]: [SR 0.741.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2822)
+[^106a-3]: [SR 0.741.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2823)
+[^106a-4]: [SR 0.741.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2826)
+[^106a-5]: [SR 0.741.201](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2827)
+[^106a-6]: [SR 0.741.411](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2837)
+[^106a-7]: [SR 0.741.621](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2933)
+[^106a-8]: [SR 0.822.725.22](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3646)
+[^106a-9]: [SR 0.740.72](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2808)
 
 ### Schlussbestimmungen
 
@@ -2943,10 +2947,10 @@ Art. 10 Abs. 3, 104–107: 1. Oktober 1959[^108-2] Art. 58–75, 77–89, 96, 97
 
 [^108-1]: Eingefügt durch Ziff. I des BG vom 20. Juni 1980 ([AS 1980 1509](https://fedlex.data.admin.ch/eli/oc/1980/1509_1509_1509); [BBl 1980 I 477](https://fedlex.data.admin.ch/eli/fga/1980/1_477_477_469)). Fassung gemäss Ziff. I des BG vom 29. Sept. 2017, in Kraft seit 1. Jan. 2019 ([AS 2018 2807](https://fedlex.data.admin.ch/eli/oc/2018/425); [BBl 2017 3649](https://fedlex.data.admin.ch/eli/fga/2017/870)[3833](https://fedlex.data.admin.ch/eli/fga/2017/926)).
 [^108-2]: Ziff. 4 des BRB vom 25. Aug. 1959 (AS **1959** 715).
-[^108-3]: Art. 61 Abs. 1 der V vom 20. Nov. 1959 ([SR 741.31](https://fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317)). Siehe jedoch die Art. 71 Abs. 1 und 73 Abs. 1 dieser Verordnung.
+[^108-3]: Art. 61 Abs. 1 der V vom 20. Nov. 1959 ([SR 741.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8645)). Siehe jedoch die Art. 71 Abs. 1 und 73 Abs. 1 dieser Verordnung.
 [^108-4]: Art. 29 Abs. 1 Bst. a und Art. 30 des BRB vom 21. Okt. 1960 ([AS 1960 1157](https://fedlex.data.admin.ch/eli/oc/1960/1157_1209_1205)).
 [^108-5]: Art. 4 Abs. 1 des BRB vom 8. Nov. 1960 ([AS 1960 1308](https://fedlex.data.admin.ch/eli/oc/1960/1308_1365_1365)).
-[^108-6]: Art. 99 Abs. 2 der V vom 13. Nov. 1962 ([SR 741.11](https://fedlex.data.admin.ch/eli/cc/1962/1364_1409_1420)).
+[^108-6]: Art. 99 Abs. 2 der V vom 13. Nov. 1962 ([SR 741.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8624)).
 [^108-7]: Art. 14 Abs. 1 des BRB vom 22. Nov. 1966 ([AS 1966 1493](https://fedlex.data.admin.ch/eli/oc/1966/1493_1543_1531)).
 
 ## Schlussbestimmungen der Änderung vom 23. Juni 1995

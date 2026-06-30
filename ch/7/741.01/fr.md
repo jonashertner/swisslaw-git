@@ -4,11 +4,11 @@ title: Loi fédérale du 19 décembre 1958 sur la circulation routière (LCR)
 short: LCR
 eli: "https://fedlex.data.admin.ch/eli/cc/1959/679_705_685"
 language: fr
-version: 2025-04-01
+version: 2026-07-01
 adopted: 1958-12-19
 in_force: 1959-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/679_705_685/20250401/fr/xml/fedlex-data-admin-ch-eli-cc-1959-679_705_685-20250401-fr-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1959/679_705_685/20250401/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/679_705_685/20260701/fr/xml/fedlex-data-admin-ch-eli-cc-1959-679_705_685-20260701-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1959/679_705_685/20260701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1959/679_705_685/20250401/fr"
 
 (LCR)
 
-du 19 décembre 1958 (État le 1<sup>er</sup> avril 2025)
+du 19 décembre 1958 (État le 1<sup>er</sup> juillet 2026)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -25,7 +25,7 @@ vu les art. 82, al. 1 et 2, 110, al. 1, let. a, 122, al. 1, et 123, al. 1, de la
 
 arrête:
 
-[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: Nouvelle teneur selon le ch. I de la LF du 15 juin 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744); [FF 2010 7703](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
 [^ingress-3]: [FF 1955 II 1](https://fedlex.data.admin.ch/eli/fga/1955/2_1_1_)
 
@@ -43,7 +43,7 @@ arrête:
 
 [^1-1]: Nouvelle teneur selon le ch. I de la LF du 1<sup>er</sup> oct. 2010, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 4925](https://fedlex.data.admin.ch/eli/oc/2011/710); [FF 2010 3767](https://fedlex.data.admin.ch/eli/fga/2010/680)[3779](https://fedlex.data.admin.ch/eli/fga/2010/682)).
 [^1-2]: Nouvelle teneur selon le ch. I de la LF du 15 juin 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744); [FF 2010 7703](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
-[^1-3]: [RS 930.11](https://fedlex.data.admin.ch/eli/cc/2010/347)
+[^1-3]: [RS 930.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11020)
 [^1-4]: Introduit par l’art. 20 al. 2 ch. 2 de la LF du 12 juin 2009 sur la sécurité des produits ([RO 2010 2573](https://fedlex.data.admin.ch/eli/oc/2010/347); [FF 2008 6771](https://fedlex.data.admin.ch/eli/fga/2008/1234)). Nouvelle teneur selon le ch. I de la LF du 15 juin 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744); [FF 2010 7703](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
 
 ### Compétence de la Confédération
@@ -201,7 +201,7 @@ Le Conseil fédéral peut, après avoir consulté les cantons:
 
 <sup>3</sup> Après avoir consulté les cantons, le Conseil fédéral peut prévoir des dérogations pour les véhicules automobiles et les remorques affectés au trafic de ligne et pour ceux qui, en raison de l’usage spécial auquel ils sont destinés, doivent nécessairement avoir des dimensions ou des poids supérieurs. Pour d’autres véhicules de dimensions ou de poids supérieurs, il prescrit les conditions auxquelles peuvent être effectuées, dans certains cas, les courses nécessitées par les circonstances.[^9-5]
 
-<sup>3bis</sup> À la demande du détenteur, le poids total d’un véhicule automobile ou d’une remorque peut être modifié une fois par an ou lorsque le véhicule change de détenteur. Les garanties du constructeur relatives au poids ne peuvent être dépassées.[^9-6]
+<sup>3bis</sup> Le poids total autorisé d’un véhicule automobile ou d’une remorque peut être modifié à la demande du détenteur.[^9-6] Les garanties du constructeur relatives au poids ne peuvent être dépassées.[^9-7]
 
 <sup>4</sup> Toute limitation indiquée par un signal des dimensions, du poids et de la charge par essieu des véhicules est réservée.
 
@@ -210,7 +210,8 @@ Le Conseil fédéral peut, après avoir consulté les cantons:
 [^9-3]: Introduit par le ch. I de la LF du 15 juin 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744); [FF 2010 7703](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
 [^9-4]: Introduit par le ch. I de la LF du 17 mars 2023, en vigueur depuis le 1<sup>er</sup> oct. 2023 ([RO 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [FF 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
 [^9-5]: Nouvelle teneur de la phrase selon le ch. I de la LF du 15 juin 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744); [FF 2010 7703](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
-[^9-6]: Introduit par le ch. I de la LF du 14 déc. 2001, en vigueur depuis le 1<sup>er</sup> avr. 2003 ([RO 2002 2767](https://fedlex.data.admin.ch/eli/oc/2002/408); FF **1999** 4106).
+[^9-6]: Nouvelle teneur selon le ch. I de la LF du 17 mars 2023, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [2026 225](https://fedlex.data.admin.ch/eli/oc/2026/225); [FF 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
+[^9-7]: Introduit par le ch. I de la LF du 14 déc. 2001, en vigueur depuis le 1<sup>er</sup> avr. 2003 ([RO 2002 2767](https://fedlex.data.admin.ch/eli/oc/2002/408); FF **1999** 4106).
 
 ### Permis
 
@@ -243,8 +244,8 @@ Le permis de circulation peut être refusé si le détenteur n’acquitte pas le
 <sup>3</sup> Un nouveau permis de circulation doit être demandé lorsque le véhicule change de lieu de stationnement d’un canton dans un autre ou qu’il passe à un autre détenteur.
 
 [^11-1]: Nouvelle teneur selon le ch. I de la LF du 17 mars 2023, en vigueur depuis le 1<sup>er</sup> oct. 2023 ([RO 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [FF 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
-[^11-2]: [RS 641.51](https://fedlex.data.admin.ch/eli/cc/1996/3045_3045_3045)
-[^11-3]: [RS 641.81](https://fedlex.data.admin.ch/eli/cc/2000/24)
+[^11-2]: [RS 641.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8133)
+[^11-3]: [RS 641.81](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8159)
 [^11-4]: Nouvelle teneur selon le ch. II de la LF du 5 oct. 2007 sur des mesures visant à améliorer les procédures liées à une redevance sur le trafic des poids lourds liée aux prestations, en vigueur depuis le 1<sup>er</sup> avr. 2008 ([RO 2008 765](https://fedlex.data.admin.ch/eli/oc/2008/189); [FF 2006 9029](https://fedlex.data.admin.ch/eli/fga/2006/1242)).
 
 ### Réception par type
@@ -338,9 +339,9 @@ L’attestation requise en vertu de l’al. 1, let. b, est apportée:
 
 ### Formation et formation complémentaire des conducteurs de véhicules automobiles
 
-[^titII-chap1-lvlu10-1]
+[^tit2-chap1-lvlu10-1]
 
-[^titII-chap1-lvlu10-1]: Nouvelle teneur selon le ch. I de la LF du 15 juin 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744); [FF 2010 7703](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
+[^tit2-chap1-lvlu10-1]: Nouvelle teneur selon le ch. I de la LF du 15 juin 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744); [FF 2010 7703](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
 
 #### Art. 15
 
@@ -452,7 +453,7 @@ Si l’aptitude à la conduite soulève des doutes, la personne concernée fera 
 <sup>5</sup> Si les qualifications nécessaires à la conduite soulèvent des doutes, la personne concernée peut être soumise à une course de contrôle, à un examen théorique, à un examen pratique de conduite ou à toute autre mesure adéquate telle que la fréquentation de cours de formation, de formation complémentaire ou d’éducation routière.
 
 [^15d-1]: Introduit par le ch. I de la LF du 15 juin 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013, sauf l’al. 1 let. a, en vigueur depuis le 1<sup>er</sup> juil. 2014 ([RO 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744), [2013 4669](https://fedlex.data.admin.ch/eli/oc/2013/821); [FF 2010 7703](https://fedlex.data.admin.ch/eli/fga/2010/1610); [2012 5501](https://fedlex.data.admin.ch/eli/fga/2012/938)).
-[^15d-2]: [RS 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
+[^15d-2]: [RS 831.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10046)
 [^15d-3]: Nouvelle teneur selon le ch. I de la LF du 29 sept. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 2807](https://fedlex.data.admin.ch/eli/oc/2018/425); [FF 2017 3449](https://fedlex.data.admin.ch/eli/fga/2017/870)[3617](https://fedlex.data.admin.ch/eli/fga/2017/926)).
 
 ### Délai d’attente pour cause de conduite sans permis
@@ -491,12 +492,12 @@ Le permis de circulation est retiré dans les cas suivants:
 - a. lorsque, le cas échéant, la redevance ou les sûretés dues pour le véhicule au sens de la loi du 19 décembre 1997 relative à une redevance sur le trafic des poids lourds[^16-6] n’ont pas été payées et que le détenteur a été mis en demeure sans effet;
 - b. lorsque le véhicule n’est pas équipé de l’instrument de mesure prescrit qui permet la perception de la redevance.[^16-7]
 
-[^16-1]: [RS 314.1](https://fedlex.data.admin.ch/eli/cc/2017/725)
+[^16-1]: [RS 314.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6238)
 [^16-2]: Nouvelle teneur selon le ch. I de la LF du 17 mars 2023, en vigueur depuis le 1<sup>er</sup> oct. 2023 ([RO 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [FF 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
 [^16-3]: Nouvelle teneur de la phrase selon l’annexe ch. 4 de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> août 2016 ([RO 2016 2429](https://fedlex.data.admin.ch/eli/oc/2016/391); [FF 2015 2657](https://fedlex.data.admin.ch/eli/fga/2015/604)).
 [^16-4]: Nouvelle teneur selon le ch. I de la LF du 14 déc. 2001, en vigueur depuis le 1<sup>er</sup> janv. 2005 ([RO 2002 2767](https://fedlex.data.admin.ch/eli/oc/2002/408), [2004 2849](https://fedlex.data.admin.ch/eli/oc/2004/350); FF **1999** 4106).
 [^16-5]: Nouvelle teneur selon le ch. I de la LF du 14 déc. 2001, en vigueur depuis le 1<sup>er</sup> avr. 2003 ([RO 2002 2767](https://fedlex.data.admin.ch/eli/oc/2002/408); FF **1999** 4106).
-[^16-6]: [RS 641.81](https://fedlex.data.admin.ch/eli/cc/2000/24)
+[^16-6]: [RS 641.81](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8159)
 [^16-7]: Introduit par le ch. II de la LF du 5 oct. 2007 sur des mesures visant à améliorer les procédures liées à une redevance sur le trafic des poids lourds liée aux prestations, en vigueur depuis le 1<sup>er</sup> avr. 2008 ([RO 2008 765](https://fedlex.data.admin.ch/eli/oc/2008/189); [FF 2006 9029](https://fedlex.data.admin.ch/eli/fga/2006/1242)).
 
 ### Retrait du permis de conduire ou avertissement après une infraction légère
@@ -806,9 +807,9 @@ Après avoir consulté les cantons, le Conseil fédéral édicte des prescriptio
 
 ## Titre 2*a* Véhicules équipés d’un système d’automatisation
 
-[^titIIa-1]
+[^tit2a-1]
 
-[^titIIa-1]: Introduit par le ch. I de la LF du 17 mars 2023, en vigueur depuis le 1<sup>er</sup> mars 2025 ([RO 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [2025 49](https://fedlex.data.admin.ch/eli/oc/2025/49); [FF 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
+[^tit2a-1]: Introduit par le ch. I de la LF du 17 mars 2023, en vigueur depuis le 1<sup>er</sup> mars 2025 ([RO 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [2025 49](https://fedlex.data.admin.ch/eli/oc/2025/49); [FF 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
 
 ### Définition
 
@@ -997,8 +998,8 @@ Le Conseil fédéral peut interdire la conduite sous l’influence de l’alcool
 <sup>3</sup> Le conducteur doit veiller à n’être gêné ni par le chargement ni d’une autre manière.[^31-6] Les passagers sont tenus de ne pas le gêner ni le déranger.
 
 [^31-1]: Nouvelle teneur selon le ch. I de la LF du 14 déc. 2001, en vigueur depuis le 1<sup>er</sup> janv. 2005 ([RO 2002 2767](https://fedlex.data.admin.ch/eli/oc/2002/408), [2004 2849](https://fedlex.data.admin.ch/eli/oc/2004/350); FF **1999** 4106).
-[^31-2]: [RS 745.1](https://fedlex.data.admin.ch/eli/cc/2009/680)
-[^31-3]: [RS 744.10](https://fedlex.data.admin.ch/eli/cc/2009/681)
+[^31-2]: [RS 745.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8886)
+[^31-3]: [RS 744.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8860)
 [^31-4]: Introduit par le ch. I de la LF du 15 juin 2012, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744), [2013 4669](https://fedlex.data.admin.ch/eli/oc/2013/821); [FF 2010 7703](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
 [^31-5]: Introduit par le ch. I de la LF du 15 juin 2012, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744), [2013 4669](https://fedlex.data.admin.ch/eli/oc/2013/821); [FF 2010 7703](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
 [^31-6]: Nouvelle teneur selon le ch. I de la LF du 6 oct. 1989, en vigueur depuis le 1<sup>er</sup> fév. 1991 ([RO 1991 71](https://fedlex.data.admin.ch/eli/oc/1991/71_71_71); [FF 1986 III 197](https://fedlex.data.admin.ch/eli/fga/1986/3_209_197_185)).
@@ -1254,9 +1255,9 @@ Les règles de la circulation prévues par la présente loi s’appliquent égal
 
 #### Art. 52
 
-<sup>1</sup> Il est interdit d’effectuer avec des véhicules automobiles des courses en circuit ayant un caractère public. Le Conseil fédéral peut autoriser certaines exceptions ou frapper d’interdiction des compétitions automobiles d’un autre genre; en prenant sa décision, il tiendra compte principalement des exigences de la sécurité et de l’éducation routières.
+<sup>1</sup> Les courses automobiles en circuit ayant un caractère public et les autres manifestations sportives automobiles et de cycles sur la voie publique nécessitent l’autorisation des cantons dont elles empruntent le territoire. La présente disposition ne s’applique pas aux manifestations ayant le caractère d’excursions.[^52-1]
 
-<sup>2</sup> Pour les autres manifestations sportives automobiles et de cycles sur la voie publique, l’autorisation des cantons dont elles empruntent le territoire est nécessaire, sauf si elles ont le caractère d’excursions.
+<sup>2</sup> Les exigences de la sécurité et de l’éducation routières ainsi que de la protection de l’environnement seront prises en compte.[^52-2]
 
 <sup>3</sup>
 
@@ -1268,6 +1269,9 @@ L’autorisation n’est accordée que si:
 - d. l’assurance-responsabilité civile prescrite a été conclue.
 
 <sup>4</sup> Lorsque des mesures de sécurité suffisantes sont prises, l’autorité cantonale peut permettre des dérogations aux règles de la circulation.
+
+[^52-1]: Nouvelle teneur selon le ch. I de la LF du 17 mars 2023, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [2026 225](https://fedlex.data.admin.ch/eli/oc/2026/225); [FF 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
+[^52-2]: Nouvelle teneur selon le ch. I de la LF du 17 mars 2023, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [2026 225](https://fedlex.data.admin.ch/eli/oc/2026/225); [FF 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
 
 ### Courses d’essai
 
@@ -1286,7 +1290,7 @@ Pour les courses d’essai dans lesquelles les règles de la circulation ou les 
 Les cantons procèdent aux contrôles des véhicules motorisés lourds sur la route en fonction du danger accru, afin, d’une part, de satisfaire à la législation en matière de circulation routière et, d’autre part, de remplir les objectifs définis par la loi du 8 octobre 1999 sur le transfert du trafic[^53a-2].
 
 [^53a-1]: Introduit par l’art. 6 ch. 2 de la LF du 8 oct. 1999 sur le transfert du trafic ([RO 2000 2864](https://fedlex.data.admin.ch/eli/oc/2000/495); [FF 1999 5440](https://fedlex.data.admin.ch/eli/fga/1999/1_6128_5440_5092)). Nouvelle teneur selon le ch. II 18 de la LF du 6 oct. 2006 (Réforme de la péréquation financière), en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5641](https://fedlex.data.admin.ch/eli/fga/2005/976)).
-[^53a-2]: [[RO 2000 2864](https://fedlex.data.admin.ch/eli/oc/2000/495). [RO 2009 5949](https://fedlex.data.admin.ch/eli/oc/2009/727)art. 10]. Voir actuellement la LF du 19 déc. 2008 sur le transfert du transport de marchandises ([RS 740.1](https://fedlex.data.admin.ch/eli/cc/2009/727)).
+[^53a-2]: [[RO 2000 2864](https://fedlex.data.admin.ch/eli/oc/2000/495). [RO 2009 5949](https://fedlex.data.admin.ch/eli/oc/2009/727)art. 10]. Voir actuellement la LF du 19 déc. 2008 sur le transfert du transport de marchandises ([RS 740.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8603)).
 
 ### Attributions spéciales de la police
 
@@ -1433,10 +1437,10 @@ Le Conseil fédéral peut prescrire:
 
 ## Titre 3*a* Gestion du trafic
 
-[^titIIIa-1][^titIIIa-2]
+[^tit3a-1][^tit3a-2]
 
-[^titIIIa-1]: Introduit par le ch. I de la LF du 14 déc. 2001, en vigueur depuis le 1<sup>er</sup> janv. 2003 ([RO 2002 2767](https://fedlex.data.admin.ch/eli/oc/2002/408); FF **1999** 4106).
-[^titIIIa-2]: Nouvelle teneur selon le ch. I de la LF du 15 juin 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744); [FF 2010 7703](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
+[^tit3a-1]: Introduit par le ch. I de la LF du 14 déc. 2001, en vigueur depuis le 1<sup>er</sup> janv. 2003 ([RO 2002 2767](https://fedlex.data.admin.ch/eli/oc/2002/408); FF **1999** 4106).
+[^tit3a-2]: Nouvelle teneur selon le ch. I de la LF du 15 juin 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744); [FF 2010 7703](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
 
 ### Gestion du trafic par la Confédération
 
@@ -1467,7 +1471,7 @@ La Confédération peut:
 <sup>8</sup> La Confédération peut, contre rémunération, assumer pour le compte des cantons la préparation et la diffusion des informations routières.
 
 [^57c-1]: Nouvelle teneur selon le ch. II 18 de la LF du 6 oct. 2006 (Réforme de la péréquation financière, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5641](https://fedlex.data.admin.ch/eli/fga/2005/976)).
-[^57c-2]: [[RO 2000 2864](https://fedlex.data.admin.ch/eli/oc/2000/495). [RO 2009 5949](https://fedlex.data.admin.ch/eli/oc/2009/727)art. 10]. Voir actuellement la LF du 19 déc. 2008 sur le transfert du transport de marchandises ([RS 740.1](https://fedlex.data.admin.ch/eli/cc/2009/727)).
+[^57c-2]: [[RO 2000 2864](https://fedlex.data.admin.ch/eli/oc/2000/495). [RO 2009 5949](https://fedlex.data.admin.ch/eli/oc/2009/727)art. 10]. Voir actuellement la LF du 19 déc. 2008 sur le transfert du transport de marchandises ([RS 740.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8603)).
 
 ### Gestion du trafic par les cantons
 
@@ -1519,10 +1523,10 @@ Sont déterminées d’après le code des obligations[^59-2]:[^59-3]
 - b.[^59-4] la responsabilité du détenteur pour les dommages causés aux objets transportés avec son véhicule, à l’exception de ceux que le lésé emportait avec lui, notamment les bagages, etc.; la loi du 20 mars 2009 sur le transport de voyageurs[^59-5] est réservée.
 
 [^59-1]: Abrogé par le ch. I de la LF du 20 mars 1975 ([RO 1975 1257](https://fedlex.data.admin.ch/eli/oc/1975/1257_1257_1257)1875 ch. III; [FF 1973 II 1141](https://fedlex.data.admin.ch/eli/fga/1973/2_1173_1141_1053)).
-[^59-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^59-2]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 [^59-3]: Nouvelle teneur selon le ch. I de la LF du 17 mars 2023, en vigueur depuis le 1<sup>er</sup> oct. 2023 ([RO 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [FF 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
 [^59-4]: Nouvelle teneur selon le ch. I de la LF du 17 mars 2023, en vigueur depuis le 1<sup>er</sup> oct. 2023 ([RO 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [FF 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
-[^59-5]: [RS 745.1](https://fedlex.data.admin.ch/eli/cc/2009/680)
+[^59-5]: [RS 745.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8886)
 
 ### Dommage causé par plusieurs auteurs
 
@@ -1559,7 +1563,7 @@ Sont déterminées d’après le code des obligations[^59-2]:[^59-3]
 
 <sup>3</sup> Les prestations faites au lésé, provenant d’une assurance privée dont le détenteur a payé tout ou partie des primes, sont déduites de l’indemnité due par ce dernier proportionnellement à sa contribution, à moins que le contrat d’assurance n’en dispose autrement.
 
-[^62-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^62-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 ### Chapitre 2 Assurance
 
@@ -1604,7 +1608,7 @@ Le Conseil fédéral fixera les montants jusqu’à concurrence desquels l’ass
 
 <sup>3</sup> L’assureur a un droit de recours contre le preneur d’assurance ou l’assuré pour autant qu’il soit habilité, en vertu du contrat d’assurance ou de la loi sur le contrat d’assurance, à refuser le versement de prestations ou à en réduire le montant.[^65-2]
 
-[^65-1]: [RS 221.229.1](https://fedlex.data.admin.ch/eli/cc/24/719_735_717)
+[^65-1]: [RS 221.229.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5912)
 [^65-2]: Nouvelle teneur selon le ch. I de la LF du 17 mars 2023, en vigueur depuis le 1<sup>er</sup> oct. 2023 ([RO 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [FF 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
 
 ### Pluralité de lésés
@@ -1677,7 +1681,7 @@ L’assurance du véhicule tracteur couvre également la responsabilité civile 
 <sup>4</sup> La responsabilité civile du détenteur du véhicule tracteur pour les dommages corporels subis par les passagers de remorques ainsi que la responsabilité pour les dommages que se causent l’un à l’autre le véhicule tracteur et le véhicule automobile remorqué sont régis par la présente loi. Le détenteur du véhicule tracteur répond des dommages matériels causés à la remorque conformément aux dispositions du code des obligations[^69-2].
 
 [^69-1]: Nouvelle teneur selon le ch. I de la LF du 6 oct. 1989, en vigueur depuis le 1<sup>er</sup> fév. 1991 ([RO 1991 71](https://fedlex.data.admin.ch/eli/oc/1991/71_71_71); [FF 1986 III 197](https://fedlex.data.admin.ch/eli/fga/1986/3_209_197_185)).
-[^69-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^69-2]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 ### Cycles
 
@@ -1688,7 +1692,7 @@ L’assurance du véhicule tracteur couvre également la responsabilité civile 
 La responsabilité civile des cyclistes est régie par le code des obligations[^70-2].
 
 [^70-1]: Nouvelle teneur selon le ch. I de la LF du 1<sup>er</sup> oct. 2010, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 4925](https://fedlex.data.admin.ch/eli/oc/2011/710); [FF 2010 3767](https://fedlex.data.admin.ch/eli/fga/2010/680)[3779](https://fedlex.data.admin.ch/eli/fga/2010/682)).
-[^70-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^70-2]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 ### Entreprises de la branche automobile
 
@@ -1825,7 +1829,7 @@ Dans les cas prévus à l’al. 3, let. a, le Conseil fédéral peut:
 <sup>8</sup> En versant une indemnité au lésé, le Fonds national de garantie se subroge à ce dernier dans ses droits pour des dommages semblables à ceux qu’il couvre. Il peut exercer une action récursoire pour les prestations visées à l’al. 4 uniquement si le détenteur ou le conducteur du véhicule a causé le dommage par négligence grave ou intentionnellement. Lorsque le Fonds national de garantie est tenu de fournir des prestations en vertu de l’al. 4, le lésé n’a pas de prétention envers le détenteur ou le conducteur du véhicule ayant causé les dommages.
 
 [^76-1]: Nouvelle teneur selon l’annexe ch. 2 de la LF du 18 mars 2022, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 355](https://fedlex.data.admin.ch/eli/oc/2023/355); [FF 2020 8637](https://fedlex.data.admin.ch/eli/fga/2020/2421)).
-[^76-2]: [RS 961.01](https://fedlex.data.admin.ch/eli/cc/2005/734)
+[^76-2]: [RS 961.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11633)
 
 ### Financement et exécution
 
@@ -1849,7 +1853,7 @@ Dans les cas prévus à l’al. 3, let. a, le Conseil fédéral peut:
 [^76a-2]: Nouvelle teneur selon le ch. I de la LF du 4 oct. 2002, en vigueur depuis le 1<sup>er</sup> fév. 2003 ([RO 2003 222](https://fedlex.data.admin.ch/eli/oc/2003/30); [FF 2002 4093](https://fedlex.data.admin.ch/eli/fga/2002/692)).
 [^76a-3]: Nouvelle teneur selon l’annexe ch. 10 de la LF du 22 juin 2007 sur la surveillance des marchés financiers, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5207](https://fedlex.data.admin.ch/eli/oc/2008/736); [FF 2006 2741](https://fedlex.data.admin.ch/eli/fga/2006/303)).
 [^76a-4]: Nouvelle teneur selon le ch. I de la LF du 23 juin 1995, en vigueur depuis le 1<sup>er</sup> janv. 1996 ([RO 1995 5462](https://fedlex.data.admin.ch/eli/oc/1995/5462_5462_5462); [FF 1995 I 49](https://fedlex.data.admin.ch/eli/fga/1995/1_49_49_29)).
-[^76a-5]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^76a-5]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 [^76a-6]: Introduit par l’annexe ch. 2 de la LF du 18 mars 2022, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 355](https://fedlex.data.admin.ch/eli/oc/2023/355); [FF 2020 8637](https://fedlex.data.admin.ch/eli/fga/2020/2421)).
 
 ### Dispositions communes au Bureau national d’assurance et au Fonds national de garantie
@@ -2012,7 +2016,7 @@ Aucune prétention ne subsiste à l’égard de l’organisme d’indemnisation:
 Les victimes d’un dommage qui sont assurées en vertu de la loi fédérale du 20 mars 1981 sur l’assurance-accidents[^80-2] peuvent faire valoir les prétentions découlant de cette loi.
 
 [^80-1]: Nouvelle teneur selon l’annexe ch. 4 de la LF du 6 oct. 2000 sur la partie générale du droit des assurances sociales, en vigueur depuis le 1<sup>er</sup> janv. 2003 ([RO 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); [FF 1991 II 181](https://fedlex.data.admin.ch/eli/fga/1991/2__181_)888, [1994 V 897](https://fedlex.data.admin.ch/eli/fga/1994/5__897_), **1999** 4168).
-[^80-2]: [RS 832.20](https://fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676)
+[^80-2]: [RS 832.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10190)
 
 ### Assurance militaire
 
@@ -2023,7 +2027,7 @@ Les victimes d’un dommage qui sont assurées en vertu de la loi fédérale du 
 Lorsqu’une personne couverte par l’assurance militaire est tuée ou blessée par un véhicule militaire, la Confédération supporte les dommages exclusivement selon la loi fédérale du 19 juin 1992 sur l’assurance militaire[^81-2].
 
 [^81-1]: Nouvelle teneur selon l’annexe ch. 4 de la LF du 19 juin 1992 sur l’assurance militaire, en vigueur depuis le 1<sup>er</sup> janv. 1994 ([RO 1993 3043](https://fedlex.data.admin.ch/eli/oc/1993/3043_3043_3043); [FF 1990 III 189](https://fedlex.data.admin.ch/eli/fga/1990/3_201_189_185)).
-[^81-2]: [RS 833.1](https://fedlex.data.admin.ch/eli/cc/1993/3043_3043_3043)
+[^81-2]: [RS 833.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10252)
 
 ### Chapitre 5 Dispositions communes
 
@@ -2098,9 +2102,9 @@ Lorsqu’un lésé n’est pas couvert complètement par des prestations d’ass
 
 ## Titre 4*a* Systèmes d’information
 
-[^titIVa-1]
+[^tit4a-1]
 
-[^titIVa-1]: Introduit par le ch. I de la LF du 15 juin 2012, le chap. 2 en vigueur depuis le 1<sup>er</sup> janv. 2013, le chap. 3 depuis le 1<sup>er</sup> janv. 2014 et le chap. 1 depuis le 1<sup>er</sup> janv. 2019 ([RO 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744), [2013 4669](https://fedlex.data.admin.ch/eli/oc/2013/821), [2016 2307](https://fedlex.data.admin.ch/eli/oc/2016/376), [2018 4985](https://fedlex.data.admin.ch/eli/oc/2018/781); [FF 2010 7703](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
+[^tit4a-1]: Introduit par le ch. I de la LF du 15 juin 2012, le chap. 2 en vigueur depuis le 1<sup>er</sup> janv. 2013, le chap. 3 depuis le 1<sup>er</sup> janv. 2014 et le chap. 1 depuis le 1<sup>er</sup> janv. 2019 ([RO 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744), [2013 4669](https://fedlex.data.admin.ch/eli/oc/2013/821), [2016 2307](https://fedlex.data.admin.ch/eli/oc/2016/376), [2018 4985](https://fedlex.data.admin.ch/eli/oc/2018/781); [FF 2010 7703](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
 
 ### Chapitre 1 Système d’information relatif à l’admission à la circulation
 
@@ -2147,10 +2151,10 @@ Le SIAC contribue à l’exécution des tâches suivantes:[^89b-1]
 
 [^89b-1]: Nouvelle teneur selon le ch. I de la LF du 17 mars 2023, en vigueur depuis le 1<sup>er</sup> oct. 2023 ([RO 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [FF 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
 [^89b-2]: Nouvelle teneur selon le ch. I de la LF du 17 mars 2023, en vigueur depuis le 1<sup>er</sup> oct. 2023 ([RO 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [FF 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
-[^89b-3]: [RS 641.51](https://fedlex.data.admin.ch/eli/cc/1996/3045_3045_3045)
+[^89b-3]: [RS 641.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8133)
 [^89b-4]: Nouvelle teneur selon le ch. I de la LF du 17 mars 2023, en vigueur depuis le 1<sup>er</sup> oct. 2023 ([RO 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [FF 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
 [^89b-5]: Nouvelle teneur selon le ch. I de la LF du 17 mars 2023, en vigueur depuis le 1<sup>er</sup> oct. 2023 ([RO 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [FF 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
-[^89b-6]: [RS 641.71](https://fedlex.data.admin.ch/eli/cc/2012/855)
+[^89b-6]: [RS 641.71](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8148)
 
 ### Contenu
 
@@ -2199,13 +2203,13 @@ Les autorités et services ci-après traitent les données du SIAC:[^89d-1]
 
 [^89d-1]: Nouvelle teneur selon l’annexe 2 ch. 1 de la LF du 17 mars 2023, en vigueur depuis le 1<sup>er</sup> mai 2024 ([RO 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [2024 131](https://fedlex.data.admin.ch/eli/oc/2024/131); [FF 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026); [2022 2323](https://fedlex.data.admin.ch/eli/fga/2022/2323)).
 [^89d-2]: Introduite par le ch. I de la LF du 17 mars 2023 ([RO 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [FF 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)). Nouvelle teneur selon l’annexe 2 ch. 1 de la LF du 17 mars 2023, en vigueur depuis le 1<sup>er</sup> mai 2024 ([RO 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [2024 131](https://fedlex.data.admin.ch/eli/oc/2024/131); [FF 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026); [2022 2323](https://fedlex.data.admin.ch/eli/fga/2022/2323)).
-[^89d-3]: [RS 641.51](https://fedlex.data.admin.ch/eli/cc/1996/3045_3045_3045)
+[^89d-3]: [RS 641.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8133)
 [^89d-4]: Introduite par le ch. I de la LF du 17 mars 2023 ([RO 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [FF 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)). Nouvelle teneur selon l’annexe 2 ch. 1 de la LF du 17 mars 2023, en vigueur depuis le 1<sup>er</sup> mai 2024 ([RO 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [2024 131](https://fedlex.data.admin.ch/eli/oc/2024/131); [FF 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026); [2022 2323](https://fedlex.data.admin.ch/eli/fga/2022/2323)).
-[^89d-5]: [RS 641.81](https://fedlex.data.admin.ch/eli/cc/2000/24)
+[^89d-5]: [RS 641.81](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8159)
 [^89d-6]: Introduite par le ch. I de la LF du 17 mars 2023, en vigueur depuis le 1<sup>er</sup> oct. 2023 ([RO 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [FF 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
-[^89d-7]: [RS 741.71](https://fedlex.data.admin.ch/eli/cc/2011/577)
+[^89d-7]: [RS 741.71](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8697)
 [^89d-8]: Introduite par le ch. I de la LF du 17 mars 2023, en vigueur depuis le 1<sup>er</sup> oct. 2023 ([RO 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [FF 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
-[^89d-9]: [RS 641.71](https://fedlex.data.admin.ch/eli/cc/2012/855)
+[^89d-9]: [RS 641.71](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8148)
 
 ### Accès en ligne aux données
 
@@ -2230,7 +2234,7 @@ Les autorités et services ci-après peuvent accéder en ligne aux données suiv
 [^89e-3]: Anciennement let. a.
 [^89e-4]: Nouvelle teneur selon le ch. I de la LF du 17 mars 2023, en vigueur depuis le 1<sup>er</sup> oct. 2023 ([RO 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [FF 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
 [^89e-5]: Nouvelle teneur selon le ch. I de la LF du 17 mars 2023, en vigueur depuis le 1<sup>er</sup> oct. 2023 ([RO 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [FF 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
-[^89e-6]: [RS 641.71](https://fedlex.data.admin.ch/eli/cc/2012/855)
+[^89e-6]: [RS 641.71](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8148)
 
 ### Droit de consulter
 
@@ -2404,7 +2408,7 @@ Le système sert à l’accomplissement des tâches suivantes:
   - 2\. exploitation et analyse des données relatives aux contrôles de la circulation routière,
   - 3\. élaboration d’éléments de décision pour la politique en matière de sécurité routière.
 
-[^89p-1]: [RS 0.740.72](https://fedlex.data.admin.ch/eli/cc/2002/257)
+[^89p-1]: [RS 0.740.72](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2808)
 
 ### Contenu
 
@@ -2490,11 +2494,11 @@ L’excès de vitesse est particulièrement important lorsque la vitesse maximal
 <sup>5</sup> Dans les cas précités, l’art. 237, ch. 2, du code pénal[^90-6] n’est pas applicable.
 
 [^90-1]: Nouvelle teneur selon le ch. I de la LF du 15 juin 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744); [FF 2010 7703](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
-[^90-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^90-2]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 [^90-3]: Introduit par le ch. I de la LF du 17 mars 2023, en vigueur depuis le 1<sup>er</sup> oct. 2023 ([RO 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [FF 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
 [^90-4]: Introduit par le ch. I de la LF du 17 mars 2023, en vigueur depuis le 1<sup>er</sup> oct. 2023 ([RO 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [FF 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
 [^90-5]: Nouvelle teneur selon le ch. I de la LF du 17 mars 2023, en vigueur depuis le 1<sup>er</sup> oct. 2023 ([RO 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [FF 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
-[^90-6]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^90-6]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 ### Confiscation et réalisation de véhicules automobiles
 
@@ -2600,7 +2604,7 @@ Est puni d’une peine privative de liberté de trois ans au plus ou d’une pei
 <sup>5</sup> Dans les cas précités, l’art. 141 du code pénal[^94-2] n’est pas applicable.
 
 [^94-1]: Nouvelle teneur selon le ch. I de la LF du 15 juin 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744); [FF 2010 7703](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
-[^94-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^94-2]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 ### Conduite sans autorisation
 
@@ -2680,7 +2684,7 @@ Est puni d’une peine privative de liberté de trois ans au plus ou d’une pei
 <sup>2</sup> Les dispositions spéciales du code pénal[^97-2] ne sont pas applicables.
 
 [^97-1]: Nouvelle teneur selon le ch. I de la LF du 1<sup>er</sup> oct. 2010, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 4925](https://fedlex.data.admin.ch/eli/oc/2011/710); [FF 2010 3767](https://fedlex.data.admin.ch/eli/fga/2010/680)[3779](https://fedlex.data.admin.ch/eli/fga/2010/682)).
-[^97-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^97-2]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 ### Signaux et marques
 
@@ -2723,7 +2727,7 @@ Est puni de l’amende quiconque:
 <sup>4</sup> Dans les cas graves, la sanction est une peine pécuniaire.[^98a-3]
 
 [^98a-1]: Introduit par le ch. I de la LF du 15 juin 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744); [FF 2010 7703](https://fedlex.data.admin.ch/eli/fga/2010/1610)).
-[^98a-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^98a-2]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 [^98a-3]: Nouvelle teneur selon le ch. I de la LF du 17 mars 2023, en vigueur depuis le 1<sup>er</sup> oct. 2023 ([RO 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [FF 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
 
 ### Autres infractions
@@ -2793,7 +2797,7 @@ Lorsque, pour l’acte commis, la loi ne prévoit que l’amende, le juge pourra
 <sup>2</sup> Sont réservées les dispositions spéciales du code pénal suisse ainsi que la législation sur la police des chemins de fer.
 
 [^102-1]: Nouvelle teneur selon le ch. I de la LF du 20 mars 1975, en vigueur depuis le 1<sup>er</sup> août 1975 ([RO 1975 1257](https://fedlex.data.admin.ch/eli/oc/1975/1257_1257_1257)[1268](https://fedlex.data.admin.ch/eli/oc/1975/1268_1268_1268)art. 1; [FF 1973 II 1141](https://fedlex.data.admin.ch/eli/fga/1973/2_1173_1141_1053)).
-[^102-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^102-2]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 ### Dispositions pénales complémentaire, poursuite pénale, contrôle pénal
 
@@ -2919,14 +2923,14 @@ Il peut autoriser des amendements aux textes suivants:
 <sup>4</sup> Il peut déléguer à l’OFROU la compétence d’amender les traités visés aux al. 1 et 2. Il tient compte à cet égard de la portée des amendements.
 
 [^106a-1]: Introduit par le ch. I de la LF du 15 juin 2012 ([RO 2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744); [FF 2010 7703](https://fedlex.data.admin.ch/eli/fga/2010/1610)). Nouvelle teneur selon le ch. I de la LF du 17 mars 2023, en vigueur depuis le 1<sup>er</sup> avr. 2025 ([RO 2023 453](https://fedlex.data.admin.ch/eli/oc/2023/453); [2024 548](https://fedlex.data.admin.ch/eli/oc/2024/548); [FF 2021 3026](https://fedlex.data.admin.ch/eli/fga/2021/3026)).
-[^106a-2]: [RS 0.741.10](https://fedlex.data.admin.ch/eli/cc/1993/402_402_402)
-[^106a-3]: [RS 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478)
-[^106a-4]: [RS 0.741.20](https://fedlex.data.admin.ch/eli/cc/1993/498_498_498)
-[^106a-5]: [RS 0.741.201](https://fedlex.data.admin.ch/eli/cc/1993/604_604_604)
-[^106a-6]: [RS 0.741.411](https://fedlex.data.admin.ch/eli/cc/1973/1468_1468_1468)
-[^106a-7]: [RS 0.741.621](https://fedlex.data.admin.ch/eli/cc/1972/1073_1085_1249)
-[^106a-8]: [RS 0.822.725.22](https://fedlex.data.admin.ch/eli/cc/2003/268)
-[^106a-9]: [RS 0.740.72](https://fedlex.data.admin.ch/eli/cc/2002/257)
+[^106a-2]: [RS 0.741.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2822)
+[^106a-3]: [RS 0.741.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2823)
+[^106a-4]: [RS 0.741.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2826)
+[^106a-5]: [RS 0.741.201](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2827)
+[^106a-6]: [RS 0.741.411](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2837)
+[^106a-7]: [RS 0.741.621](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2933)
+[^106a-8]: [RS 0.822.725.22](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3646)
+[^106a-9]: [RS 0.740.72](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2808)
 
 ### Dispositions finales
 
@@ -2938,7 +2942,7 @@ Il peut autoriser des amendements aux textes suivants:
 
 <sup>3</sup> Sont abrogées toutes les dispositions contraires à la présente loi, notamment la loi fédérale du 15 mars 1932[^107-1] sur la circulation des véhicules automobiles et des cycles.
 
-[^107-1]: [RS **7** 593 611; [RO 1948 519](https://fedlex.data.admin.ch/eli/oc/1948/531_519_478), **1949** II 1595 art. 4, [1960 1209](https://fedlex.data.admin.ch/eli/oc/1960/1157_1209_1205)art. 28 al. 1 ch. 1 [1365](https://fedlex.data.admin.ch/eli/oc/1960/1308_1365_1365)art. 4 al. 6, [1962 1409](https://fedlex.data.admin.ch/eli/oc/1962/1364_1409_1420)art. 99 al. 3]
+[^107-1]: [[RS 7](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8349)593 611; [RO 1948 519](https://fedlex.data.admin.ch/eli/oc/1948/531_519_478), **1949** II 1595 art. 4, [1960 1209](https://fedlex.data.admin.ch/eli/oc/1960/1157_1209_1205)art. 28 al. 1 ch. 1 [1365](https://fedlex.data.admin.ch/eli/oc/1960/1308_1365_1365)art. 4 al. 6, [1962 1409](https://fedlex.data.admin.ch/eli/oc/1962/1364_1409_1420)art. 99 al. 3]
 
 ### Disposition transitoire relative à la modification du 29 septembre 2017
 
@@ -2964,11 +2968,11 @@ Tous les autres articles: 1<sup>er</sup> janvier 1963[^108-7]
 
 [^108-1]: Introduit par le ch. I de la LF du 20 juin 1980 ([RO 1980 1509](https://fedlex.data.admin.ch/eli/oc/1980/1509_1509_1509); FF **1980** I 1477). Nouvelle teneur selon le ch. I de la LF du 29 sept. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 2807](https://fedlex.data.admin.ch/eli/oc/2018/425); [FF 2017 3449](https://fedlex.data.admin.ch/eli/fga/2017/870)[3617](https://fedlex.data.admin.ch/eli/fga/2017/926)).
 [^108-2]: Ch. 4 de l’ACF du 25 août 1959 (RO **1959** 746)
-[^108-3]: Art. 61 al. 1 de l’O du 20 nov. 1959 ([RS 741.31](https://fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317)). Voir toutefois les art. 71 al. 1 et 73 al. 1 de cette O.
+[^108-3]: Art. 61 al. 1 de l’O du 20 nov. 1959 ([RS 741.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8645)). Voir toutefois les art. 71 al. 1 et 73 al. 1 de cette O.
 [^108-4]: Art. 29 al. 1 let. a et art. 30 de l’ACF du 21 oct. 1960 ([RO 1960 1209](https://fedlex.data.admin.ch/eli/oc/1960/1157_1209_1205))
 [^108-5]: Art. 4 al. 1 de l’ACF du 8 nov. 1960 ([RO 1960 1365](https://fedlex.data.admin.ch/eli/oc/1960/1308_1365_1365))
 [^108-6]: Art. 14 al. 1 de l’ACF du 22 nov. 1966 ([RO 1966 1543](https://fedlex.data.admin.ch/eli/oc/1966/1493_1543_1531))
-[^108-7]: Art. 99 al. 2 de l’O du 13 nov. 1962 ([RS 741.11](https://fedlex.data.admin.ch/eli/cc/1962/1364_1409_1420))
+[^108-7]: Art. 99 al. 2 de l’O du 13 nov. 1962 ([RS 741.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8624))
 
 ## Disposition finale de la modification du 23 juin 1995
 
