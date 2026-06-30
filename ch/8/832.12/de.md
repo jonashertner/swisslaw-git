@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 26. September 2014 betreffend die Aufsicht über die so
 short: KVAG
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/839"
 language: de
-version: 2024-09-01
+version: 2026-07-01
 adopted: 2014-09-26
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/839/20240901/de/xml/fedlex-data-admin-ch-eli-cc-2015-839-20240901-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/839/20240901/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/839/20260701/de/xml/fedlex-data-admin-ch-eli-cc-2015-839-20260701-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/839/20260701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/839/20240901/de"
 
 (Krankenversicherungsaufsichtsgesetz, KVAG)
 
-vom 26. September 2014 (Stand am 1. September 2024)
+vom 26. September 2014 (Stand am 1. Juli 2026)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -25,7 +25,7 @@ gestützt auf Artikel 117 Absatz 1 der Bundesverfassung[^ingress-1], nach Einsic
 
 beschliesst:
 
-[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: [BBl 2012 1941](https://fedlex.data.admin.ch/eli/fga/2012/352)
 
 ## 1. Kapitel: Allgemeine Bestimmungen
@@ -45,8 +45,8 @@ Dieses Gesetz regelt die Aufsicht des Bundes im Bereich der sozialen Krankenvers
 
 <sup>2</sup> Es bezweckt namentlich die Interessen der Versicherten nach dem KVG zu schützen, indem insbesondere die Transparenz in der sozialen Krankenversicherung und die Solvenz der Krankenkassen gewährleistet werden.
 
-[^1-1]: [SR 961.01](https://fedlex.data.admin.ch/eli/cc/2005/734)
-[^1-2]: [SR 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^1-1]: [SR 961.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11633)
+[^1-2]: [SR 832.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133)
 
 #### Art. 2
 
@@ -58,9 +58,9 @@ Dieses Gesetz regelt die Aufsicht des Bundes im Bereich der sozialen Krankenvers
 
 <sup>3</sup> Die Krankenkassen können zudem die Unfallversicherung mit der Einschränkung nach Artikel 70 Absatz 2 des Bundesgesetzes vom 20. März 1981[^2-3] über die Unfallversicherung betreiben.
 
-[^2-1]: [SR 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
-[^2-2]: [SR 221.229.1](https://fedlex.data.admin.ch/eli/cc/24/719_735_717)
-[^2-3]: [SR 832.20](https://fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676)
+[^2-1]: [SR 832.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133)
+[^2-2]: [SR 221.229.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5912)
+[^2-3]: [SR 832.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10190)
 
 #### Art. 3
 
@@ -68,7 +68,7 @@ Dieses Gesetz regelt die Aufsicht des Bundes im Bereich der sozialen Krankenvers
 
 Die privaten Versicherungsunternehmen, die dem VAG[^3-1] unterstehen, können die soziale Krankenversicherung durchführen, soweit sie im Besitz einer Bewilligung im Sinne von Artikel 4–11 sind.
 
-[^3-1]: [SR 961.01](https://fedlex.data.admin.ch/eli/cc/2005/734)
+[^3-1]: [SR 961.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11633)
 
 ## 2. Kapitel: Bewilligung zur Durchführung der sozialen Krankenversicherung
 
@@ -98,7 +98,7 @@ Die Versicherer müssen:
 - j. in der Lage sein, alle anderen Anforderungen dieses Gesetzes und des KVG zu erfüllen.
 
 [^5-1]: Fassung gemäss Anhang Ziff. 2 des BB vom 16. Dez. 2022 über die Genehmigung und die Umsetzung des Abkommens zur Koordinierung der sozialen Sicherheit zwischen der Schweiz und dem Vereinigten Königreich, in Kraft seit 1. März 2024 ([AS 2024 74](https://fedlex.data.admin.ch/eli/oc/2024/74); [BBl 2022 1180](https://fedlex.data.admin.ch/eli/fga/2022/1180)).
-[^5-2]: [SR 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^5-2]: [SR 832.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133)
 
 #### Art. 6
 
@@ -115,7 +115,7 @@ Nicht übertragen werden dürfen:
 
 <sup>3</sup> Die Versicherer müssen sicherstellen, dass die Aufsicht über übertragene Aufgaben uneingeschränkt wahrgenommen werden kann.
 
-[^6-1]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^6-1]: [SR 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 
 #### Art. 7
 
@@ -146,7 +146,7 @@ Dem Gesuch ist der Geschäftsplan beizulegen. Dieser muss folgende Angaben und U
 
 <sup>3</sup> Die Aufsichtsbehörde kann weitere Angaben und Unterlagen verlangen, sofern diese für die Beurteilung des Gesuchs erforderlich sind.
 
-[^7-1]: [SR 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^7-1]: [SR 832.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133)
 
 #### Art. 8
 
@@ -166,7 +166,7 @@ Dem Gesuch ist der Geschäftsplan beizulegen. Dieser muss folgende Angaben und U
 
 <sup>3</sup> Beabsichtigt ein Versicherer seinen Versichertenbestand gestützt auf eine vertragliche Vereinbarung ganz oder teilweise auf einen anderen Versicherer zu übertragen, so bedarf dies der Bewilligung durch die Aufsichtsbehörde. Die Aufsichtsbehörde bewilligt die Übertragung, wenn die Interessen der Versicherten insgesamt gewahrt werden.
 
-[^9-1]: [SR 221.301](https://fedlex.data.admin.ch/eli/cc/2004/320)
+[^9-1]: [SR 221.301](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5917)
 
 #### Art. 10
 
@@ -186,8 +186,8 @@ Dem Gesuch ist der Geschäftsplan beizulegen. Dieser muss folgende Angaben und U
 
 Die Bestimmungen des Kartellgesetzes vom 6. Oktober 1995[^11-1] betreffend die Beurteilung von Unternehmenszusammenschlüssen sowie des Fusionsgesetzes vom 3. Oktober 2003[^11-2] bleiben vorbehalten.
 
-[^11-1]: [SR 251](https://fedlex.data.admin.ch/eli/cc/1996/546_546_546)
-[^11-2]: [SR 221.301](https://fedlex.data.admin.ch/eli/cc/2004/320)
+[^11-1]: [SR 251](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6127)
+[^11-2]: [SR 221.301](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5917)
 
 ## 3. Kapitel: Ausübung der Versicherungstätigkeit
 
@@ -246,11 +246,12 @@ Die Aufsichtsbehörde verweigert die Genehmigung des Prämientarifs, wenn dieser
 
 <sup>5</sup> Bei Nichtgenehmigung des Prämientarifs verfügt die Aufsichtsbehörde die zu ergreifenden Massnahmen.
 
-<sup>6</sup> Vor der Genehmigung des Prämientarifs können die Kantone zu den für ihren Kanton geschätzten Kosten gegenüber den Versicherern und der Aufsichtsbehörde Stellung nehmen; das Genehmigungsverfahren darf dadurch nicht verzögert werden. Die Kantone können bei den Versicherern und der Aufsichtsbehörde die dazu benötigten Informationen einholen. Diese Informationen dürfen weder veröffentlicht noch weitergeleitet werden.
+<sup>6</sup> Vor der Genehmigung des Prämientarifs können die Kantone zu den für ihren Kanton geschätzten Kosten und zu den für ihren Kanton vorgesehenen Prämientarifen gegenüber den Versicherern und der Aufsichtsbehörde Stellung nehmen; das Genehmigungsverfahren darf dadurch nicht verzögert werden.[^16-2] Die Kantone können bei den Versicherern und der Aufsichtsbehörde die dazu benötigten Informationen einholen. Diese Informationen dürfen weder veröffentlicht noch weitergeleitet werden.
 
 <sup>7</sup> Werden die Prämientarife für weniger als ein Jahr genehmigt, so verlangt die Aufsichtsbehörde, dass der Versicherer mit den Tarifen auch die Dauer der Genehmigung bekannt gibt.
 
-[^16-1]: [SR 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^16-1]: [SR 832.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133)
+[^16-2]: Fassung gemäss Ziff. I des BG vom 21. März 2025 (Teilnahme der Kantone am Prämiengenehmigungsverfahren, Ausgleich von zu hohen Prämieneinnahmen), in Kraft seit 1. Juli 2026 ([AS 2026 295](https://fedlex.data.admin.ch/eli/oc/2026/295); [BBl 2024 1592](https://fedlex.data.admin.ch/eli/fga/2024/1592)).
 
 #### Art. 17
 
@@ -266,9 +267,17 @@ Die Aufsichtsbehörde verweigert die Genehmigung des Prämientarifs, wenn dieser
 
 #### Art. 18
 
-**Modalitäten der Rückerstattung**
+**Modalitäten der Rückerstattung von zu hohen Prämieneinnahmen**[^18-1]
 
-Die Rückerstattung erfolgt in der Form einer Rückvergütung des Versicherers an diejenigen Personen, welche am 31. Dezember des Jahres, dessen Prämien rückerstattet werden, versichert waren. Die Rückvergütung muss im Kalenderjahr erfolgen, in dem der Antrag gestellt wurde.
+<sup>1</sup> Die Rückerstattung von zu hohen Prämieneinnahmen erfolgt in der Form einer Rückvergütung des Versicherers an diejenigen Personen, die am 31. Dezember des Jahres, dessen Prämien rückerstattet werden, versichert waren.
+
+<sup>2</sup> Ist die Prämie vollständig durch die Prämienverbilligung nach Artikel 65 KVG[^18-2] oder den Betrag für die obligatorische Krankenpflegeversicherung nach Artikel 10 Absatz 3 Buchstabe d des Bundesgesetzes vom 6. Oktober 2006[^18-3] über Ergänzungsleistungen zur Alters-, Hinterlassenen- und Invalidenversicherung gedeckt, so werden die zu hohen Prämieneinnahmen dem Kanton rückerstattet, in dem die versicherte Person am 1. Januar des betreffenden Jahres ihren Wohnsitz hat.
+
+<sup>3</sup> Die Rückerstattung muss im Kalenderjahr erfolgen, in dem der Antrag nach Artikel 17 Absatz 1 gestellt wurde.
+
+[^18-1]: Fassung gemäss Ziff. I des BG vom 21. März 2025 (Teilnahme der Kantone am Prämiengenehmigungsverfahren, Ausgleich von zu hohen Prämieneinnahmen), in Kraft seit 1. Juli 2026 ([AS 2026 295](https://fedlex.data.admin.ch/eli/oc/2026/295); [BBl 2024 1592](https://fedlex.data.admin.ch/eli/fga/2024/1592)).
+[^18-2]: [SR 832.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133)
+[^18-3]: [SR 831.30](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10077)
 
 #### Art. 19
 
@@ -378,7 +387,7 @@ Als Entschädigungen gelten insbesondere:
 
 <sup>4</sup> Der Bundesrat legt die Rechnungslegungsvorschriften fest. Er stellt Anforderungen an die Berichterstattung nach den Absätzen 1–3 zuhanden der Aufsichtsbehörde und kann besondere Anforderungen an den Geschäftsbericht stellen. Er kann diese Kompetenzen der Aufsichtsbehörde übertragen.
 
-[^24-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^24-1]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 25
 
@@ -395,8 +404,8 @@ Die Versicherer bezeichnen eine zugelassene externe Revisionsstelle, die:
 
 <sup>3</sup> Als leitende Revisorin oder leitender Revisor tätig sein dürfen natürliche Personen, die als Revisionsexpertinnen und Revisionsexperten nach dem Revisionsaufsichtsgesetz zugelassen sind.
 
-[^25-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
-[^25-2]: [SR 221.302](https://fedlex.data.admin.ch/eli/cc/2007/533)
+[^25-1]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
+[^25-2]: [SR 221.302](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5919)
 
 #### Art. 26
 
@@ -413,8 +422,8 @@ Die externe Revisionsstelle prüft:
 
 <sup>3</sup> Die externe Revisionsstelle hält ihre Prüfungsergebnisse und Feststellungen in einem Bericht nach Artikel 728*b* OR[^26-2] fest. Sie stellt diesen Bericht der Aufsichtsbehörde jeweils bis zum 30. April des Folgejahres zu.
 
-[^26-1]: [SR 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
-[^26-2]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^26-1]: [SR 832.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133)
+[^26-2]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 27
 
@@ -458,7 +467,7 @@ Die Rückversicherer müssen:
 - d. jederzeit in der Lage sein, ihren finanziellen Verpflichtungen nachzukommen und insbesondere als Krankenkasse über ausreichende Reserven verfügen oder als privater Rückversicherer die finanziellen Anforderungen nach dem VAG erfüllen;
 - e. über eine zugelassene externe Revisionsstelle verfügen.
 
-[^29-1]: [SR 961.01](https://fedlex.data.admin.ch/eli/cc/2005/734)
+[^29-1]: [SR 961.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11633)
 
 #### Art. 30
 
@@ -485,7 +494,7 @@ Der Geschäftsplan eines privaten Rückversicherers muss zudem folgende Angaben 
 
 <sup>4</sup> Die Aufsichtsbehörde kann weitere Angaben und Unterlagen verlangen, sofern diese für die Beurteilung des Gesuchs erforderlich sind.
 
-[^30-1]: [SR 961.01](https://fedlex.data.admin.ch/eli/cc/2005/734)
+[^30-1]: [SR 961.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11633)
 
 #### Art. 31
 
@@ -533,8 +542,8 @@ Die Aufsichtsbehörde überwacht die Durchführung der sozialen Krankenversicher
 
 <sup>5</sup> Die Durchführung der Versicherungen nach Artikel 2 Absatz 2 wird von der FINMA nach dem VAG[^34-2] beaufsichtigt. Die Aufsichtsbehörde und die FINMA koordinieren ihre Aufsichtstätigkeiten. Sie informieren sich gegenseitig, sobald sie von Vorkommnissen Kenntnis haben, die für die andere Aufsichtsbehörde von Bedeutung sind.
 
-[^34-1]: [SR 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
-[^34-2]: [SR 961.01](https://fedlex.data.admin.ch/eli/cc/2005/734)
+[^34-1]: [SR 832.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133)
+[^34-2]: [SR 961.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11633)
 
 #### Art. 35
 
@@ -557,7 +566,7 @@ Die Aufsichtsbehörde überwacht die Durchführung der sozialen Krankenversicher
 
 <sup>2</sup> Die Verwaltungs- und Rechtspflegebehörden des Bundes und der Kantone sind unter Vorbehalt spezialgesetzlicher Bestimmungen verpflichtet, an Abklärungen der Aufsichtsbehörde mitzuwirken und ihr die dafür notwendigen Daten auf schriftliche und begründete Anfrage bekannt zu geben. Für die Amtshilfe dürfen der Aufsichtsbehörde keine Kosten belastet werden.
 
-[^36-1]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^36-1]: [SR 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 
 #### Art. 37
 
@@ -565,7 +574,7 @@ Die Aufsichtsbehörde überwacht die Durchführung der sozialen Krankenversicher
 
 Die Aufsichtsbehörde kann die Öffentlichkeit in Abweichung von Artikel 33 ATSG[^37-1] über ihre Massnahmen und über strafrechtliche Sanktionen informieren.
 
-[^37-1]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^37-1]: [SR 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 
 ### 2. Abschnitt: Aufsichtsmassnahmen
 
@@ -594,8 +603,8 @@ Die Aufsichtsbehörde kann insbesondere:
 
 <sup>3</sup> Ist die finanzielle Situation eines Versicherers gefährdet und ergreifen die statutarischen Organe keine ausreichenden Massnahmen, so kann die Aufsichtsbehörde die Massnahmen nach Absatz 2 Buchstaben g und h ergreifen, damit die gesetzlichen Vorgaben in den kommenden zwei Jahren erfüllt bleiben.
 
-[^38-1]: [SR 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
-[^38-2]: [SR 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^38-1]: [SR 832.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133)
+[^38-2]: [SR 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
 
 #### Art. 38a
 
@@ -702,7 +711,7 @@ Die gemeinsame Einrichtung reicht der Aufsichtsbehörde bis zum 30. Juni des Fol
 
 Die gemeinsame Einrichtung führt einen Insolvenzfonds, dessen Zweck die Übernahme der Kosten für die gesetzlichen Leistungen anstelle von insolventen Versicherern nach Artikel 18 Absatz 2 KVG[^47-1] ist.
 
-[^47-1]: [SR 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^47-1]: [SR 832.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133)
 
 #### Art. 48
 
@@ -747,7 +756,7 @@ Die gemeinsame Einrichtung übernimmt zulasten des Insolvenzfonds den Betrag, de
 <sup>3</sup> Sie meldet die Höhe der vom Insolvenzfonds übernommenen Leistungen bei der Liquidations- oder Konkursverwaltung fortlaufend an. Die gemeldeten Leistungen werden als Liquidations- oder Konkursforderungen behandelt.
 
 [^51-1]: Fassung gemäss Art. 60, in Kraft seit 1. Jan. 2017.
-[^51-2]: [SR 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^51-2]: [SR 832.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133)
 
 ### 3. Abschnitt: Rückgriff
 
@@ -814,8 +823,8 @@ Mit Busse bis zu 100 000 Franken wird bestraft, wer vorsätzlich:
 
 <sup>5</sup> Haben die Aufsichtsbehörde oder beauftragte Personen Auskünfte unter Mitwirkung einer Person erlangt, so dürfen diese in einem Strafverfahren gegen dieselbe Person nur verwendet werden, wenn die Person zustimmt oder die Auskünfte auch ohne ihre Mitwirkung hätten erlangt werden können.
 
-[^54-1]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
-[^54-2]: [SR 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^54-1]: [SR 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
+[^54-2]: [SR 832.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133)
 [^54-3]: Eingefügt durch Ziff. I 1 des BG vom 16. Dez. 2022 über die Regulierung der Versicherungsvermittlertätigkeit, in Kraft seit 1. Sept. 2024 ([AS 2024 424](https://fedlex.data.admin.ch/eli/oc/2024/424); [BBl 2021 1478](https://fedlex.data.admin.ch/eli/fga/2021/1478)).
 [^54-4]: Fassung gemäss Ziff. I 1 des BG vom 16. Dez. 2022 über die Regulierung der Versicherungsvermittlertätigkeit, in Kraft seit 1. Sept. 2024 ([AS 2024 424](https://fedlex.data.admin.ch/eli/oc/2024/424); [BBl 2021 1478](https://fedlex.data.admin.ch/eli/fga/2021/1478)).
 
@@ -828,7 +837,7 @@ Von der Ermittlung der strafbaren Personen kann Umgang genommen und an ihrer Ste
 - a. die Ermittlung der Personen, die nach Artikel 6 des Bundesgesetzes vom 22. März 1974[^55-1] über das Verwaltungsstrafrecht strafbar sind, Untersuchungsmassnahmen bedingt, die im Hinblick auf die verwirkte Strafe unverhältnismässig wären; und
 - b. eine Busse von höchstens 20 000 Franken in Betracht fällt.
 
-[^55-1]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^55-1]: [SR 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 ## 9. Kapitel: Zuständige Aufsichtsbehörde
 

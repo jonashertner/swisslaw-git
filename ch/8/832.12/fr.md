@@ -4,20 +4,20 @@ title: "Loi fédérale du 26 septembre 2014 sur la surveillance de l'assurance-m
 short: LSAMal
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/839"
 language: fr
-version: 2024-09-01
+version: 2026-07-01
 adopted: 2014-09-26
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/839/20240901/fr/xml/fedlex-data-admin-ch-eli-cc-2015-839-20240901-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/839/20240901/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/839/20260701/fr/xml/fedlex-data-admin-ch-eli-cc-2015-839-20260701-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/839/20260701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
-# Loi fédérale sur la surveillance de l’assurance-maladie sociale<sup>∗</sup>
+# Loi fédérale sur la surveillance de l’assurance-maladie sociale\*
 
 (Loi sur la surveillance de l’assurance-maladie, LSAMal)[^t-1]
 
-du 26 septembre 2014 (État le 1<sup>er</sup> septembre 2024)
+du 26 septembre 2014 (État le 1<sup>er</sup> juillet 2026)
 
 [^t-1]: \* Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
 
@@ -27,7 +27,7 @@ vu l’art. 117, al. 1, de la Constitution[^ingress-1], vu le message du Conseil
 
 arrête:
 
-[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: [FF 2012 1725](https://fedlex.data.admin.ch/eli/fga/2012/352)
 
 ## Chapitre 1 Dispositions générales
@@ -47,8 +47,8 @@ La présente loi règle la surveillance de la Confédération dans le domaine de
 
 <sup>2</sup> Elle a notamment pour but la protection des intérêts des assurés conformément à la LAMal, en particulier par la garantie de la transparence de l’assurance-maladie sociale et de la solvabilité des caisses-maladie.
 
-[^1-1]: [RS 961.01](https://fedlex.data.admin.ch/eli/cc/2005/734)
-[^1-2]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^1-1]: [RS 961.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11633)
+[^1-2]: [RS 832.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133)
 
 #### Art. 2
 
@@ -60,9 +60,9 @@ La présente loi règle la surveillance de la Confédération dans le domaine de
 
 <sup>3</sup> Les caisses-maladie peuvent au surplus pratiquer l’assurance-accidents dans les limites prévues par l’art. 70, al. 2, de la loi fédérale du 20 mars 1981 sur l’assurance-accidents[^2-3].
 
-[^2-1]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
-[^2-2]: [RS 221.229.1](https://fedlex.data.admin.ch/eli/cc/24/719_735_717)
-[^2-3]: [RS 832.20](https://fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676)
+[^2-1]: [RS 832.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133)
+[^2-2]: [RS 221.229.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5912)
+[^2-3]: [RS 832.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10190)
 
 #### Art. 3
 
@@ -70,7 +70,7 @@ La présente loi règle la surveillance de la Confédération dans le domaine de
 
 Les entreprises d’assurance privées soumises à la LSA[^3-1] peuvent pratiquer l’assurance-maladie sociale dans la mesure où elles sont au bénéfice d’une autorisation au sens des art. 4 à 11.
 
-[^3-1]: [RS 961.01](https://fedlex.data.admin.ch/eli/cc/2005/734)
+[^3-1]: [RS 961.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11633)
 
 ## Chapitre 2 Autorisation de pratiquer l’assurance-maladie sociale
 
@@ -100,7 +100,7 @@ Les assureurs doivent remplir les conditions suivantes:
 - j. être en mesure de satisfaire aux autres exigences fixées par la présente loi et la LAMal.
 
 [^5-1]: Nouvelle teneur selon l’annexe ch. 2 de l’AF du 16 déc. 2022 portant approbation et mise en œuvre de la conv. sur la coordination de la sécurité sociale entre la Suisse et le Royaume‑Uni, en vigueur depuis le 1<sup>er</sup> mars 2024 ([RO 2024 74](https://fedlex.data.admin.ch/eli/oc/2024/74); [FF 2022 1180](https://fedlex.data.admin.ch/eli/fga/2022/1180)).
-[^5-2]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^5-2]: [RS 832.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133)
 
 #### Art. 6
 
@@ -117,7 +117,7 @@ Il ne peut pas déléguer:
 
 <sup>3</sup> L’assureur doit garantir que la surveillance sur les tâches qu’il délègue puisse être exercée sans restriction.
 
-[^6-1]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^6-1]: [RS 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 
 #### Art. 7
 
@@ -148,7 +148,7 @@ Elle doit être accompagnée d’un plan d’exploitation. Celui-ci doit conteni
 
 <sup>3</sup> L’autorité de surveillance peut requérir les autres informations et documents qui lui sont nécessaires pour statuer sur la demande.
 
-[^7-1]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^7-1]: [RS 832.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133)
 
 #### Art. 8
 
@@ -168,7 +168,7 @@ Elle doit être accompagnée d’un plan d’exploitation. Celui-ci doit conteni
 
 <sup>3</sup> L’assureur qui entend transférer tout ou partie de son effectif d’assurés à un autre assureur en vertu d’une convention doit obtenir l’autorisation de l’autorité de surveillance. Celle-ci autorise le transfert s’il permet dans l’ensemble de sauvegarder les intérêts des assurés.
 
-[^9-1]: [RS 221.301](https://fedlex.data.admin.ch/eli/cc/2004/320)
+[^9-1]: [RS 221.301](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5917)
 
 #### Art. 10
 
@@ -188,8 +188,8 @@ Elle doit être accompagnée d’un plan d’exploitation. Celui-ci doit conteni
 
 Les dispositions de la loi du 6 octobre 1995 sur les cartels[^11-1] concernant l’appréciation des concentrations d’entreprises et les dispositions de la loi du 3 octobre 2003 sur la fusion[^11-2] sont réservées.
 
-[^11-1]: [RS 251](https://fedlex.data.admin.ch/eli/cc/1996/546_546_546)
-[^11-2]: [RS 221.301](https://fedlex.data.admin.ch/eli/cc/2004/320)
+[^11-1]: [RS 251](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6127)
+[^11-2]: [RS 221.301](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5917)
 
 ## Chapitre 3 Exercice de l’activité d’assurance
 
@@ -248,11 +248,12 @@ L’autorité de surveillance n’approuve pas les tarifs lorsque les primes:
 
 <sup>5</sup> Si elle n’approuve pas les tarifs, l’autorité de surveillance ordonne les mesures à prendre.
 
-<sup>6</sup> Avant l’approbation des tarifs, les cantons peuvent donner leur avis aux assureurs et à l’autorité de surveillance sur l’évaluation des coûts pour leur territoire, pour autant que ces échanges ne prolongent pas la procédure d’approbation. Les cantons peuvent obtenir les informations nécessaires auprès des assureurs et de l’autorité de surveillance. Ces informations ne peuvent être rendues publiques ni transmises à des tiers.
+<sup>6</sup> Avant l’approbation des tarifs, les cantons peuvent donner leur avis aux assureurs et à l’autorité de surveillance sur l’évaluation des coûts et les tarifs prévus pour leur territoire, pour autant que ces échanges ne prolongent pas la procédure d’approbation.[^16-2] Les cantons peuvent obtenir les informations nécessaires auprès des assureurs et de l’autorité de surveillance. Ces informations ne peuvent être rendues publiques ni transmises à des tiers.
 
 <sup>7</sup> Si les tarifs sont approuvés pour une durée de moins d’une année, l’autorité de surveillance exige que l’assureur rende publique avec la publication des tarifs la durée de l’approbation des tarifs.
 
-[^16-1]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^16-1]: [RS 832.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133)
+[^16-2]: Nouvelle teneur selon le ch. I de la LF du 21 mars 2025 (Participation des cantons à la procédure d’approbation des primes, compensation des primes encaissées en trop), en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2026 295](https://fedlex.data.admin.ch/eli/oc/2026/295); [FF 2024 1592](https://fedlex.data.admin.ch/eli/fga/2024/1592)).
 
 #### Art. 17
 
@@ -268,9 +269,17 @@ L’autorité de surveillance n’approuve pas les tarifs lorsque les primes:
 
 #### Art. 18
 
-**Modalités du remboursement**
+**Modalités du remboursement des primes encaissées en trop**[^18-1]
 
-Le remboursement prend la forme d’une ristourne accordée par l’assureur aux personnes assurées auprès de lui au 31 décembre de l’année pour laquelle les primes sont remboursées. Il est effectué durant l’année civile au cours de laquelle la demande a été déposée.
+<sup>1</sup> Le remboursement des primes encaissées en trop prend la forme d’une ristourne accordée par l’assureur aux personnes assurées auprès de lui au 31 décembre de l’année pour laquelle les primes sont remboursées.
+
+<sup>2</sup> Si la prime est entièrement couverte par la réduction des primes visée à l’art. 65 LAMal[^18-2] ou par le montant pour l’assurance obligatoire des soins visé à l’art. 10, al. 3, let. d, de la loi du 6 octobre 2006 sur les prestations complémentaires[^18-3], les primes encaissées en trop sont remboursées au canton dans lequel la personne était domiciliée au 1<sup>er</sup> janvier de l’année concernée.
+
+<sup>3</sup> Le remboursement est effectué durant l’année civile au cours de laquelle la demande visée à l’art. 17, al. 1, a été déposée.
+
+[^18-1]: Nouvelle teneur selon le ch. I de la LF du 21 mars 2025 (Participation des cantons à la procédure d’approbation des primes, compensation des primes encaissées en trop), en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2026 295](https://fedlex.data.admin.ch/eli/oc/2026/295); [FF 2024 1592](https://fedlex.data.admin.ch/eli/fga/2024/1592)).
+[^18-2]: [RS 832.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133)
+[^18-3]: [RS 831.30](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10077)
 
 #### Art. 19
 
@@ -380,7 +389,7 @@ Les indemnités comprennent notamment:
 
 <sup>4</sup> Le Conseil fédéral fixe les dispositions relatives à l’établissement des comptes. Il fixe les exigences auxquelles les rapports remis à l’autorité de surveillance conformément aux al. 1 à 3 doivent satisfaire; il peut fixer des exigences particulières pour le rapport de gestion. Il peut déléguer ces compétences à l’autorité de surveillance.
 
-[^24-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^24-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 25
 
@@ -397,8 +406,8 @@ Les assureurs mandatent un organe de révision externe agréé; celui-ci est cha
 
 <sup>3</sup> Seule une personne physique agréée en qualité d’expert-réviseur au sens de la loi sur la surveillance de la révision peut exercer la tâche du réviseur qui dirige la révision.
 
-[^25-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
-[^25-2]: [RS 221.302](https://fedlex.data.admin.ch/eli/cc/2007/533)
+[^25-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
+[^25-2]: [RS 221.302](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5919)
 
 #### Art. 26
 
@@ -415,8 +424,8 @@ L’organe de révision externe examine:
 
 <sup>3</sup> L’organe de révision externe consigne les résultats de ses vérifications et ses constatations dans un rapport au sens de l’art. 728*b* CO[^26-2]. Il remet ce rapport à l’autorité de surveillance au plus tard le 30 avril suivant.
 
-[^26-1]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
-[^26-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^26-1]: [RS 832.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133)
+[^26-2]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 27
 
@@ -460,7 +469,7 @@ Les réassureurs doivent remplir les conditions suivantes:
 - d. être en mesure de s’acquitter de leurs obligations financières en tout temps, en particulier avoir constitué les réserves nécessaires pour les caisses-maladie, ou satisfaire aux exigences financières fixées par la LSA pour les réassureurs privés;
 - e. disposer d’un organe de révision externe agréé.
 
-[^29-1]: [RS 961.01](https://fedlex.data.admin.ch/eli/cc/2005/734)
+[^29-1]: [RS 961.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11633)
 
 #### Art. 30
 
@@ -487,7 +496,7 @@ Le plan d’exploitation du réassureur privé doit contenir au surplus les indi
 
 <sup>4</sup> L’autorité de surveillance peut requérir les autres informations et documents qui lui sont nécessaires pour statuer sur la demande.
 
-[^30-1]: [RS 961.01](https://fedlex.data.admin.ch/eli/cc/2005/734)
+[^30-1]: [RS 961.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11633)
 
 #### Art. 31
 
@@ -535,8 +544,8 @@ L’autorité de surveillance contrôle la pratique de l’assurance-maladie soc
 
 <sup>5</sup> La FINMA surveille la pratique des assurances visées à l’art. 2, al. 2, conformément à la LSA[^34-2]. L’autorité de surveillance et la FINMA coordonnent leurs activités de surveillance. Elles s’informent dès qu’elles ont connaissance de faits importants pour l’autre autorité de surveillance.
 
-[^34-1]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
-[^34-2]: [RS 961.01](https://fedlex.data.admin.ch/eli/cc/2005/734)
+[^34-1]: [RS 832.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133)
+[^34-2]: [RS 961.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11633)
 
 #### Art. 35
 
@@ -559,7 +568,7 @@ L’autorité de surveillance contrôle la pratique de l’assurance-maladie soc
 
 <sup>2</sup> Les autorités administratives et judiciaires de la Confédération et des cantons sont tenues, sous réserve de dispositions légales spécifiques, de coopérer aux vérifications de l’autorité de surveillance et, sur demande écrite et motivée, de mettre à sa disposition les documents nécessaires. L’assistance administrative doit lui être accordée sans frais.
 
-[^36-1]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^36-1]: [RS 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 
 #### Art. 37
 
@@ -567,7 +576,7 @@ L’autorité de surveillance contrôle la pratique de l’assurance-maladie soc
 
 En dérogation à l’art. 33 LPGA[^37-1], l’autorité de surveillance peut informer le public sur les mesures qu’elle a prises et les sanctions pénales qu’elle a prononcées.
 
-[^37-1]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^37-1]: [RS 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 
 ### Section 2 Mesures de surveillance
 
@@ -596,8 +605,8 @@ L’autorité de surveillance peut notamment:
 
 <sup>3</sup> Si la situation d’un assureur est compromise et que les organes statutaires n’ont pas pris de mesures suffisantes, l’autorité de surveillance peut prendre les mesures prévues à l’al. 2, let. g et h, pour assurer le respect des prescriptions légales pendant les deux années suivantes.
 
-[^38-1]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
-[^38-2]: [RS 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^38-1]: [RS 832.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133)
+[^38-2]: [RS 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
 
 #### Art. 38a
 
@@ -704,7 +713,7 @@ L’institution commune remet à l’autorité de surveillance un rapport annuel
 
 L’institution commune gère un fonds d’insolvabilité destiné à prendre en charge les coûts afférents aux prestations légales en lieu et place des assureurs insolvables, conformément à l’art. 18, al. 2, LAMal[^47-1].
 
-[^47-1]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^47-1]: [RS 832.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133)
 
 #### Art. 48
 
@@ -749,7 +758,7 @@ L’institution commune prend en charge, au débit du fonds d’insolvabilité, 
 <sup>3</sup> Elle communique au fur et à mesure à l’administration de la liquidation ou de la faillite le montant des prestations prises en charge par le fonds d’insolvabilité. Les prestations annoncées sont traitées comme des créances de la liquidation ou de la faillite.
 
 [^51-1]: Nouvelle teneur selon l’art. 60, en vigueur depuis le 1<sup>er</sup> janv. 2017.
-[^51-2]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^51-2]: [RS 832.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133)
 
 ### Section 3 Recours
 
@@ -816,8 +825,8 @@ Est puni d’une amende de 100 000 francs au plus quiconque, intentionnellement:
 
 <sup>5</sup> Les renseignements que l’autorité de surveillance ou la personne mandatée a obtenus grâce à la collaboration d’une personne ne peuvent être utilisés contre celle-ci dans une procédure pénale que si la personne concernée donne son consentement ou que ces renseignements auraient pu être obtenus sans sa collaboration.
 
-[^54-1]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
-[^54-2]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^54-1]: [RS 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
+[^54-2]: [RS 832.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133)
 [^54-3]: Introduite par le ch. I 1 de la LF du 16 déc. 2022 sur la réglementation de l’activité des intermédiaires d’assurance, en vigueur depuis le 1<sup>er</sup> sept. 2024 ([RO 2024 424](https://fedlex.data.admin.ch/eli/oc/2024/424); [FF 2021 1478](https://fedlex.data.admin.ch/eli/fga/2021/1478)).
 [^54-4]: Nouvelle teneur selon le ch. I 1 de la LF du 16 déc. 2022 sur la réglementation de l’activité des intermédiaires d’assurance, en vigueur depuis le 1<sup>er</sup> sept. 2024 ([RO 2024 424](https://fedlex.data.admin.ch/eli/oc/2024/424); [FF 2021 1478](https://fedlex.data.admin.ch/eli/fga/2021/1478)).
 
@@ -830,7 +839,7 @@ L’autorité compétente peut renoncer à poursuivre les personnes punissables 
 - a. l’enquête à l’égard des personnes punissables selon l’art. 6 de la loi fédérale du 22 mars 1974 sur le droit pénal administratif[^55-1] requerrait des mesures d’instruction disproportionnées par rapport à la peine encourue;
 - b. l’amende entrant en ligne de compte ne dépasse pas 20 000 francs.
 
-[^55-1]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^55-1]: [RS 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 ## Chapitre 9 Autorité de surveillance compétente
 
@@ -879,7 +888,7 @@ Ils doivent mettre en œuvre les dispositions suivantes dans les cinq ans qui su
 Quel que soit l’ordre dans lequel la modification du 21 mars 2014[^60-1] de la LAMal[^60-2] et la présente loi entrent en vigueur, à l’entrée en vigueur de la seconde de ces lois ou à leur entrée en vigueur simultanée, l’art. 51, al. 1, let. c, a la teneur suivante: …[^60-3]
 
 [^60-1]: [RO 2014 3345](https://fedlex.data.admin.ch/eli/oc/2014/580)
-[^60-2]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^60-2]: [RS 832.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133)
 [^60-3]: L’art. 55 al. 1 let. c a été inséré ci-devant.
 
 #### Art. 61

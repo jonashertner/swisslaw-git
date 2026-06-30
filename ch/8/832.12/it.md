@@ -4,11 +4,11 @@ title: "Legge federale del 26 settembre 2014 concernente la vigilanza sull'assic
 short: LVAMal
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/839"
 language: it
-version: 2024-09-01
+version: 2026-07-01
 adopted: 2014-09-26
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/839/20240901/it/xml/fedlex-data-admin-ch-eli-cc-2015-839-20240901-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/839/20240901/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/839/20260701/it/xml/fedlex-data-admin-ch-eli-cc-2015-839-20260701-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/839/20260701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/839/20240901/it"
 
 (Legge sulla vigilanza sull’assicurazione malattie, LVAMal)
 
-del 26 settembre 2014 (Stato 1° settembre 2024)
+del 26 settembre 2014 (Stato 1° luglio 2026)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -25,7 +25,7 @@ visto l’articolo 117 capoverso 1 della Costituzione federale[^ingress-1]; vist
 
 decreta:
 
-[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: [FF 2012 1623](https://fedlex.data.admin.ch/eli/fga/2012/352)
 
 ## Capitolo 1: Disposizioni generali
@@ -45,8 +45,8 @@ La presente legge disciplina la vigilanza esercitata dalla Confederazione nell�
 
 <sup>2</sup> La presente legge si prefigge segnatamente di tutelare gli interessi degli assicurati conformemente alla LAMal, in particolare garantendo la trasparenza nell’assicurazione sociale malattie e la solvibilità delle casse malati.
 
-[^1-1]: [RS 961.01](https://fedlex.data.admin.ch/eli/cc/2005/734)
-[^1-2]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^1-1]: [RS 961.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11633)
+[^1-2]: [RS 832.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133)
 
 #### Art. 2
 
@@ -58,9 +58,9 @@ La presente legge disciplina la vigilanza esercitata dalla Confederazione nell�
 
 <sup>3</sup> Le casse malati possono inoltre esercitare l’assicurazione contro gli infortuni nei limiti previsti dall’articolo 70 capoverso 2 della legge federale del 20 marzo 1981[^2-3] sull’assicurazione contro gli infortuni.
 
-[^2-1]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
-[^2-2]: [RS 221.229.1](https://fedlex.data.admin.ch/eli/cc/24/719_735_717)
-[^2-3]: [RS 832.20](https://fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676)
+[^2-1]: [RS 832.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133)
+[^2-2]: [RS 221.229.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5912)
+[^2-3]: [RS 832.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10190)
 
 #### Art. 3
 
@@ -68,7 +68,7 @@ La presente legge disciplina la vigilanza esercitata dalla Confederazione nell�
 
 Le imprese di assicurazione private sottoposte alla LSA[^3-1] possono esercitare l’assicurazione sociale malattie se dispongono dell’autorizzazione di cui agli articoli 4–11.
 
-[^3-1]: [RS 961.01](https://fedlex.data.admin.ch/eli/cc/2005/734)
+[^3-1]: [RS 961.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11633)
 
 ## Capitolo 2: Autorizzazione all’esercizio dell’assicurazione sociale malattie
 
@@ -98,7 +98,7 @@ Gli assicuratori devono:
 - j. essere in grado di adempiere tutti gli altri requisiti della presente legge e della LAMal.
 
 [^5-1]: Nuovo testo giusta l’all. n. 2 del DF del 16 dic. 2022 che approva e traspone nel diritto svizzero la Convenzione sul coordinamento della sicurezza sociale tra la Svizzera e il Regno Unito, in vigore dal 1° mar. 2024 ([RU 2024 74](https://fedlex.data.admin.ch/eli/oc/2024/74); [FF 2022 1180](https://fedlex.data.admin.ch/eli/fga/2022/1180)).
-[^5-2]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^5-2]: [RS 832.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133)
 
 #### Art. 6
 
@@ -115,7 +115,7 @@ Non possono essere delegati:
 
 <sup>3</sup> Gli assicuratori devono garantire che la vigilanza sui compiti delegati possa essere esercitata senza restrizioni.
 
-[^6-1]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^6-1]: [RS 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 
 #### Art. 7
 
@@ -146,7 +146,7 @@ La domanda deve essere corredata del piano d’esercizio. Quest’ultimo deve co
 
 <sup>3</sup> L’autorità di vigilanza può chiedere ulteriori indicazioni e documenti, se necessari per decidere in merito alla domanda d’autorizzazione.
 
-[^7-1]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^7-1]: [RS 832.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133)
 
 #### Art. 8
 
@@ -166,7 +166,7 @@ La domanda deve essere corredata del piano d’esercizio. Quest’ultimo deve co
 
 <sup>3</sup> Se è basato su un accordo contrattuale, il trasferimento totale o parziale dell’effettivo degli assicurati a un altro assicuratore richiede l’autorizzazione dell’autorità di vigilanza. Quest’ultima autorizza il trasferimento se gli interessi degli assicurati sono tutelati nel loro insieme.
 
-[^9-1]: [RS 221.301](https://fedlex.data.admin.ch/eli/cc/2004/320)
+[^9-1]: [RS 221.301](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5917)
 
 #### Art. 10
 
@@ -186,8 +186,8 @@ La domanda deve essere corredata del piano d’esercizio. Quest’ultimo deve co
 
 Sono fatte salve le disposizioni della legge del 6 ottobre 1995[^11-1] sui cartelli concernenti la valutazione delle concentrazioni di imprese e le disposizioni della legge del 3 ottobre 2003[^11-2] sulla fusione.
 
-[^11-1]: [RS 251](https://fedlex.data.admin.ch/eli/cc/1996/546_546_546)
-[^11-2]: [RS 221.301](https://fedlex.data.admin.ch/eli/cc/2004/320)
+[^11-1]: [RS 251](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6127)
+[^11-2]: [RS 221.301](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5917)
 
 ## Capitolo 3: Esercizio dell’attività assicurativa
 
@@ -246,11 +246,12 @@ L’autorità di vigilanza nega l’approvazione delle tariffe se i premi:
 
 <sup>5</sup> Se non approva le tariffe dei premi, l’autorità di vigilanza ordina i provvedimenti da prendere.
 
-<sup>6</sup> Prima dell’approvazione delle tariffe dei premi, i Cantoni possono esporre agli assicuratori e all’autorità di vigilanza il loro parere in merito ai costi stimati per il loro territorio; la procedura di approvazione non deve esserne ritardata. I Cantoni possono esigere dagli assicuratori e dall’autorità di vigilanza le informazioni necessarie a tal fine. Tali informazioni non possono essere rese pubbliche né comunicate a terzi.
+<sup>6</sup> Prima dell’approvazione delle tariffe dei premi, i Cantoni possono esporre agli assicuratori e all’autorità di vigilanza il loro parere in merito ai costi stimati e alle tariffe previste per il loro territorio; la procedura di approvazione non deve esserne ritardata.[^16-2] I Cantoni possono esigere dagli assicuratori e dall’autorità di vigilanza le informazioni necessarie a tal fine. Tali informazioni non possono essere rese pubbliche né comunicate a terzi.
 
 <sup>7</sup> Se le tariffe dei premi sono approvate per un periodo inferiore a un anno, l’autorità di vigilanza esige dall’assicuratore che renda pubblica, unitamente alle tariffe, la durata di validità dell’approvazione.
 
-[^16-1]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^16-1]: [RS 832.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133)
+[^16-2]: Nuovo testo giusta la cifra I della LF del 21 mar. 2025 (Partecipazione dei Cantoni alla procedura di approvazione dei premi, compensazione dei premi incassati in eccesso), in vigore dal 1° lug. 2026 ([RU 2026 295](https://fedlex.data.admin.ch/eli/oc/2026/295); [FF 2024 1592](https://fedlex.data.admin.ch/eli/fga/2024/1592)).
 
 #### Art. 17
 
@@ -266,9 +267,17 @@ L’autorità di vigilanza nega l’approvazione delle tariffe se i premi:
 
 #### Art. 18
 
-**Modalità della restituzione**
+**Modalità della restituzione dei premi incassati in eccesso**[^18-1]
 
-La restituzione avviene sotto forma di rimborso concesso dall’assicuratore alle persone assicurate presso di lui il 31 dicembre dell’anno per il quale i premi sono rimborsati. Il rimborso deve avvenire nell’anno civile in cui è stata presentata la domanda.
+<sup>1</sup> La restituzione dei premi incassati in eccesso avviene sotto forma di rimborso concesso dall’assicuratore alle persone assicurate presso di lui il 31 dicembre dell’anno per il quale i premi sono restituiti.
+
+<sup>2</sup> Se il premio è interamente coperto dalla riduzione dei premi di cui all’articolo 65 LAMal[^18-2] o dall’importo per l’assicurazione obbligatoria delle cure medico-sanitarie di cui all’articolo 10 capoverso 3 lettera d della legge federale del 6 ottobre 2006[^18-3] sulle prestazioni complementari all’assicurazione per la vecchiaia, i superstiti e l’invalidità, i premi incassati in eccesso sono restituiti al Cantone in cui la persona era domiciliata il 1° gennaio dell’anno in questione.
+
+<sup>3</sup> La restituzione avviene nell’anno civile in cui è stata presentata la domanda di cui all’articolo 17 capoverso 1.
+
+[^18-1]: Nuovo testo giusta la cifra I della LF del 21 mar. 2025 (Partecipazione dei Cantoni alla procedura di approvazione dei premi, compensazione dei premi incassati in eccesso), in vigore dal 1° lug. 2026 ([RU 2026 295](https://fedlex.data.admin.ch/eli/oc/2026/295); [FF 2024 1592](https://fedlex.data.admin.ch/eli/fga/2024/1592)).
+[^18-2]: [RS 832.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133)
+[^18-3]: [RS 831.30](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10077)
 
 #### Art. 19
 
@@ -280,13 +289,13 @@ La restituzione avviene sotto forma di rimborso concesso dall’assicuratore all
 
 <sup>3</sup> ...[^19-1]
 
-[^19-1]: Abrogato dal n. I 1 della LF del 16 dic. 2022 che disciplina l’attività degli intermediari assicurativi, con effetto dal 1° set. 2024 ([RU 2024 424](https://fedlex.data.admin.ch/eli/oc/2024/424); [FF 2021 1478](https://fedlex.data.admin.ch/eli/fga/2021/1478)).
+[^19-1]: Abrogato dalla cifra I n. 1 della LF del 16 dic. 2022 che disciplina l’attività degli intermediari assicurativi, con effetto dal 1° set. 2024 ([RU 2024 424](https://fedlex.data.admin.ch/eli/oc/2024/424); [FF 2021 1478](https://fedlex.data.admin.ch/eli/fga/2021/1478)).
 
 ### Sezione 1*a*: Disciplinamento dell’attività degli intermediari assicurativi
 
 [^chap3-sec1a-1]
 
-[^chap3-sec1a-1]: Introdotta dal n. I 1 della LF del 16 dic. 2022che disciplina l’attività degli intermediari assicurativi , in vigore dal 1° set. 2024 ([RU 2024 424](https://fedlex.data.admin.ch/eli/oc/2024/424); [FF 2021 1478](https://fedlex.data.admin.ch/eli/fga/2021/1478)).
+[^chap3-sec1a-1]: Introdotta dalla cifra I n. 1 della LF del 16 dic. 2022che disciplina l’attività degli intermediari assicurativi, in vigore dal 1° set. 2024 ([RU 2024 424](https://fedlex.data.admin.ch/eli/oc/2024/424); [FF 2021 1478](https://fedlex.data.admin.ch/eli/fga/2021/1478)).
 
 #### Art. 19a
 
@@ -378,7 +387,7 @@ Sono considerate retribuzioni in particolare:
 
 <sup>4</sup> Il Consiglio federale stabilisce le prescrizioni in materia di presentazione dei conti. Definisce i requisiti che le relazioni da presentare all’autorità di vigilanza conformemente ai capoversi 1–3 devono soddisfare e può prevedere requisiti particolari per la relazione sulla gestione. Può delegare tali competenze all’autorità di vigilanza.
 
-[^24-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^24-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 25
 
@@ -395,8 +404,8 @@ Gli assicuratori designano un ufficio di revisione esterno abilitato che:
 
 <sup>3</sup> Possono esercitare la funzione di capo revisore le persone fisiche abilitate quali periti revisori secondo la legge sui revisori.
 
-[^25-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
-[^25-2]: [RS 221.302](https://fedlex.data.admin.ch/eli/cc/2007/533)
+[^25-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
+[^25-2]: [RS 221.302](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5919)
 
 #### Art. 26
 
@@ -413,8 +422,8 @@ L’ufficio di revisione esterno:
 
 <sup>3</sup> L’ufficio di revisione esterno espone i risultati della sua verifica e le sue constatazioni in una relazione ai sensi dell’articolo 728*b* CO[^26-2]. Presenta detta relazione all’autorità di vigilanza entro il 30 aprile dell’anno seguente.
 
-[^26-1]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
-[^26-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^26-1]: [RS 832.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133)
+[^26-2]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 27
 
@@ -458,7 +467,7 @@ I riassicuratori devono:
 - d. essere sempre in grado di soddisfare gli obblighi finanziari e in particolare, in qualità di cassa malati, disporre di sufficienti riserve o, in qualità di riassicuratore privato, di adempiere le esigenze finanziarie secondo la LSA;
 - e. disporre di un ufficio di revisione esterno abilitato.
 
-[^29-1]: [RS 961.01](https://fedlex.data.admin.ch/eli/cc/2005/734)
+[^29-1]: [RS 961.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11633)
 
 #### Art. 30
 
@@ -485,7 +494,7 @@ Il piano d’esercizio di un riassicuratore privato deve inoltre contenere le in
 
 <sup>4</sup> L’autorità di vigilanza può chiedere ulteriori indicazioni e documenti se necessari per decidere in merito alla domanda d’autorizzazione.
 
-[^30-1]: [RS 961.01](https://fedlex.data.admin.ch/eli/cc/2005/734)
+[^30-1]: [RS 961.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11633)
 
 #### Art. 31
 
@@ -533,8 +542,8 @@ L’autorità di vigilanza sorveglia l’esercizio dell’assicurazione sociale 
 
 <sup>5</sup> L’esercizio delle assicurazioni di cui all’articolo 2 capoverso 2 soggiace alla vigilanza della FINMA conformemente alla LSA[^34-2]. L’autorità di vigilanza e la FINMA coordinano le loro attività di vigilanza. Esse si informano reciprocamente non appena abbiano notizia di eventi importanti per l’altra autorità di vigilanza.
 
-[^34-1]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
-[^34-2]: [RS 961.01](https://fedlex.data.admin.ch/eli/cc/2005/734)
+[^34-1]: [RS 832.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133)
+[^34-2]: [RS 961.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11633)
 
 #### Art. 35
 
@@ -546,8 +555,8 @@ L’autorità di vigilanza sorveglia l’esercizio dell’assicurazione sociale 
 
 <sup>3</sup> Gli assicuratori devono inoltre notificare senza indugio all’autorità di vigilanza gli eventi di grande importanza ai fini della vigilanza.
 
-[^35-1]: Nuovo testo giusta il n. I 2 della LF del 19 mar. 2021 sulla trasmissione di dati degli assicuratori nell’assicurazione obbligatoria delle cure medico-sanitarie, in vigore dal 1° gen. 2023 ([RU 2022 731](https://fedlex.data.admin.ch/eli/oc/2022/731); [FF 2019 4495](https://fedlex.data.admin.ch/eli/fga/2019/1903), [4883](https://fedlex.data.admin.ch/eli/fga/2019/2138)).
-[^35-2]: Nuovo testo giusta il n. I 2 della LF del 19 mar. 2021 sulla trasmissione di dati degli assicuratori nell’assicurazione obbligatoria delle cure medico-sanitarie, in vigore dal 1° gen. 2023 ([RU 2022 731](https://fedlex.data.admin.ch/eli/oc/2022/731); [FF 2019 4495](https://fedlex.data.admin.ch/eli/fga/2019/1903), [4883](https://fedlex.data.admin.ch/eli/fga/2019/2138)).
+[^35-1]: Nuovo testo giusta la cifra I n. 2 della LF del 19 mar. 2021 sulla trasmissione di dati degli assicuratori nell’assicurazione obbligatoria delle cure medico-sanitarie, in vigore dal 1° gen. 2023 ([RU 2022 731](https://fedlex.data.admin.ch/eli/oc/2022/731); [FF 2019 4495](https://fedlex.data.admin.ch/eli/fga/2019/1903), [4883](https://fedlex.data.admin.ch/eli/fga/2019/2138)).
+[^35-2]: Nuovo testo giusta la cifra I n. 2 della LF del 19 mar. 2021 sulla trasmissione di dati degli assicuratori nell’assicurazione obbligatoria delle cure medico-sanitarie, in vigore dal 1° gen. 2023 ([RU 2022 731](https://fedlex.data.admin.ch/eli/oc/2022/731); [FF 2019 4495](https://fedlex.data.admin.ch/eli/fga/2019/1903), [4883](https://fedlex.data.admin.ch/eli/fga/2019/2138)).
 
 #### Art. 36
 
@@ -557,7 +566,7 @@ L’autorità di vigilanza sorveglia l’esercizio dell’assicurazione sociale 
 
 <sup>2</sup> Fatte salve le disposizioni di leggi speciali, le autorità amministrative e giudiziarie della Confederazione e dei Cantoni hanno l’obbligo di collaborare agli accertamenti dell’autorità di vigilanza e, su richiesta scritta e motivata, di comunicarle i dati necessari. All’autorità di vigilanza non possono essere addebitati costi per l’assistenza amministrativa.
 
-[^36-1]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^36-1]: [RS 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 
 #### Art. 37
 
@@ -565,7 +574,7 @@ L’autorità di vigilanza sorveglia l’esercizio dell’assicurazione sociale 
 
 In deroga all’articolo 33 LPGA[^37-1], l’autorità di vigilanza può rendere pubblici i provvedimenti da essa adottati e le sanzioni penali.
 
-[^37-1]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^37-1]: [RS 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 
 ### Sezione 2: Provvedimenti di vigilanza
 
@@ -594,8 +603,8 @@ Essa può in particolare:
 
 <sup>3</sup> Se la situazione finanziaria di un assicuratore è a rischio e gli organi statutari non prendono provvedimenti adeguati, l’autorità di vigilanza può prendere i provvedimenti di cui al capoverso 2 lettere g e h, in modo da garantire il rispetto delle disposizioni legali per i due anni successivi.
 
-[^38-1]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
-[^38-2]: [RS 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^38-1]: [RS 832.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133)
+[^38-2]: [RS 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
 
 #### Art. 38a
 
@@ -606,7 +615,7 @@ Se un assicuratore non rispetta un disciplinamento a cui è stato conferito cara
 - a. vietargli di rimunerare gli intermediari assicurativi ai quali non è legato da un contratto di lavoro;
 - b. ordinare una limitazione delle spese per l’acquisizione di nuovi assicurati.
 
-[^38a-1]: Introdotto dal n. I 1 della LF del 16 dic. 2022 che disciplina l’attività degli intermediari assicurativi, in vigore dal 1° set. 2024 ([RU 2024 424](https://fedlex.data.admin.ch/eli/oc/2024/424); [FF 2021 1478](https://fedlex.data.admin.ch/eli/fga/2021/1478)).
+[^38a-1]: Introdotto dalla cifra I n. 1 della LF del 16 dic. 2022 che disciplina l’attività degli intermediari assicurativi, in vigore dal 1° set. 2024 ([RU 2024 424](https://fedlex.data.admin.ch/eli/oc/2024/424); [FF 2021 1478](https://fedlex.data.admin.ch/eli/fga/2021/1478)).
 
 #### Art. 39
 
@@ -702,7 +711,7 @@ L’istituzione comune trasmette all’autorità di vigilanza, entro il 30 giugn
 
 L’istituzione comune gestisce un fondo per i casi d’insolvenza che ha per scopo di assumere i costi delle prestazioni legali in vece degli assicuratori insolvibili secondo l’articolo 18 capoverso 2 LAMal[^47-1].
 
-[^47-1]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^47-1]: [RS 832.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133)
 
 #### Art. 48
 
@@ -747,7 +756,7 @@ L’istituzione comune assume, attingendo dal fondo per i casi d’insolvenza, l
 <sup>3</sup> Comunica costantemente all’amministrazione della liquidazione o del fallimento l’ammontare delle prestazioni assunte dal fondo per i casi d’insolvenza. Le prestazioni comunicate sono trattate come crediti della liquidazione e del fallimento.
 
 [^51-1]: Nuovo testo giusta l’art. 60, in vigore dal 1° gen. 2017.
-[^51-2]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^51-2]: [RS 832.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133)
 
 ### Sezione 3: Regresso
 
@@ -814,10 +823,10 @@ L’istituzione comune assume, attingendo dal fondo per i casi d’insolvenza, l
 
 <sup>5</sup> Le informazioni che l’autorità di vigilanza o la persona incaricata ha ottenuto grazie alla collaborazione di una persona possono essere utilizzate contro tale persona nell’ambito di un procedimento penale soltanto con il suo consenso o se sarebbe stato possibile ottenere tali informazioni anche senza la sua collaborazione.
 
-[^54-1]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
-[^54-2]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
-[^54-3]: Introdotta dal n. I 1 della LF del 16 dic. 2022 che disciplina l’attività degli intermediari assicurativi, in vigore dal 1° set. 2024 ([RU 2024 424](https://fedlex.data.admin.ch/eli/oc/2024/424); [FF 2021 1478](https://fedlex.data.admin.ch/eli/fga/2021/1478)).
-[^54-4]: Nuovo testo giusta il n. I 1 della LF del 16 dic. 2022 che disciplina l’attività degli intermediari assicurativi, in vigore dal 1° set. 2024 ([RU 2024 424](https://fedlex.data.admin.ch/eli/oc/2024/424); [FF 2021 1478](https://fedlex.data.admin.ch/eli/fga/2021/1478)).
+[^54-1]: [RS 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
+[^54-2]: [RS 832.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133)
+[^54-3]: Introdotta dalla cifra I n. 1 della LF del 16 dic. 2022 che disciplina l’attività degli intermediari assicurativi, in vigore dal 1° set. 2024 ([RU 2024 424](https://fedlex.data.admin.ch/eli/oc/2024/424); [FF 2021 1478](https://fedlex.data.admin.ch/eli/fga/2021/1478)).
+[^54-4]: Nuovo testo giusta la cifra I n. 1 della LF del 16 dic. 2022 che disciplina l’attività degli intermediari assicurativi, in vigore dal 1° set. 2024 ([RU 2024 424](https://fedlex.data.admin.ch/eli/oc/2024/424); [FF 2021 1478](https://fedlex.data.admin.ch/eli/fga/2021/1478)).
 
 #### Art. 55
 
@@ -828,7 +837,7 @@ Si può prescindere dalla determinazione delle persone punibili e condannare in 
 - a. la determinazione delle persone punibili ai sensi dell’articolo 6 della legge federale del 22 marzo 1974[^55-1] sul diritto penale amministrativo esige provvedimenti d’inchiesta sproporzionati all’entità della pena; e
 - b. la multa massima applicabile non supera i 20 000 franchi.
 
-[^55-1]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^55-1]: [RS 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 ## Capitolo 9: Autorità di vigilanza competente
 
@@ -879,7 +888,7 @@ Indipendentemente dal fatto che entri prima in vigore la modifica del 21 marzo 2
 ...[^60-3]
 
 [^60-1]: [RU 2014 3345](https://fedlex.data.admin.ch/eli/oc/2014/580)
-[^60-2]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^60-2]: [RS 832.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133)
 [^60-3]: Art. 51 cpv. 1 lett. c introdotto qui avanti.
 
 #### Art. 61
