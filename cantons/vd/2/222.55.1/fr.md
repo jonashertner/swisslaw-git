@@ -4,7 +4,7 @@ number: "222.55.1"
 title: "ARRÊTÉ du 03.04.2000 établissant un contrat-type de travail pour l'agriculture (ACTT-agr)"
 short: ACTT-agr
 language: fr
-version: 2026-05-01
+version: 2026-07-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/222.55.1?id=884bff88-a76d-4888-85fe-a3200e84ad8b"
 ---
 
@@ -236,8 +236,8 @@ arrête
 
 - a. Travailleur non qualifié, exécutant des travaux liés au soin des cultures et aux récoltes, jusqu'à trois mois d'activité par année civile en Suisse: salaire minimum mentionné à l'article 18 alinéa 1. Ce montant est indexé selon les principes définis à l'article 18 alinéa 2bis. En cas de prolongation de l'activité au-delà de trois mois, le salaire est réévalué avec effet rétroactif conformément à la let. b du présent alinéa.
 - b. Travailleur non qualifié avec plus de trois mois d'activité par année civile en Suisse: salaire minimum mentionné à l'article 18 alinéa 1. Ce montant est indexé selon les principes définis à l'article 18 alinéa 2.
-- c. Travailleur qualifié avec AFP: salaire minimum mentionné à l'article 18 alinéa 1, augmenté de CHF 122.-. Ce montant est indexé selon les principes définis à l'article 18 alinéa 2.
-- d. Travailleur qualifié avec CFC: salaire minimum mentionné à l'article 18 alinéa 1, augmenté de CHF 532.-. Ce montant est indexé selon les principes définis à l'article 18 alinéa 2.
+- c. Travailleur qualifié avec AFP: salaire minimum mentionné à l'article 18 alinéa 1, augmenté de CHF 125.-. Ce montant est indexé selon les principes définis à l'article 18 alinéa 2.
+- d. Travailleur qualifié avec CFC: salaire minimum mentionné à l'article 18 alinéa 1, augmenté de CHF 545.-. Ce montant est indexé selon les principes définis à l'article 18 alinéa 2.
 - e. Professionnel expérimenté, chef apte à diriger une équipe: salaire minimum mentionné à l'article 18 alinéa 1, augmenté de CHF 996.-. Ce montant est indexé selon les principes définis à l'article 18 alinéa 2.
 
 <sup>2</sup> Dès 24 mois d'expérience professionnelle dans l'entreprise, le salaire augmente de la manière suivante :
