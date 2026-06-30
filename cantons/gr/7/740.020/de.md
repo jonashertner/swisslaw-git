@@ -4,13 +4,12 @@ number: "740.020"
 title: Regierungsrätliche Jagdverordnung
 short: RJV
 language: de
-version: 2025-05-01
-valid_until: 2026-06-30
-version_adopted: 2025-04-08
+version: 2026-07-01
+version_adopted: 2026-06-30
 adopted: 2007-03-27
 in_force: 2007-06-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/740.020"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/3545/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3648/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.gr-lex.gr.ch/api/de/versions/3545/pdf_file"
 
 (RJV)
 
-Vom 27.03.2007 (Stand 01.05.2025)
+Vom 27.03.2007 (Stand 01.07.2026)
 
 Gestützt auf Art. 38 des kantonalen Jagdgesetzes vom 4. Juni 1989[^ingress-1]
 
@@ -41,7 +40,7 @@ von der Regierung erlassen am 27. März 2007
 
 <sup>1</sup> Das Jagdpatentbüchlein ist persönlich und nicht übertragbar. Es enthält die Personalien, ein Passfoto sowie den Ausweis über die Waffenkontrolle und die Eignungsprüfung.
 
-<sup>2</sup> Die Jagdpatentbüchlein werden in der Regel alle zehn Jahre überprüft und gegebenenfalls erneuert. Das Amt für Jagd und Fischerei ordnet die Überprüfung an und koordiniert diese mit der periodischen Waffenkontrolle.
+<sup>2</sup> Die Jagdpatentbüchlein werden in der Regel alle zehn Jahre überprüft und gegebenenfalls erneuert. Das Amt für Jagd und Fischerei ordnet die Überprüfung an.
 
 #### Art. 3
 
@@ -61,16 +60,24 @@ von der Regierung erlassen am 27. März 2007
 
 **Unterlagen**
 
-<sup>1</sup> Beim Lösen des Patentes sind den Ausgabestellen ein gültiger Personalausweis, das Jagdpatentbüchlein und der Ausweis über die gesetzliche Haftpflichtversicherung vorzuweisen. Überdies ist das Formular mit der persönlich unterzeichneten Bestätigung einzureichen, dass keine Verweigerungsgründe gemäss Artikel 7 des kantonalen Jagdgesetzes vorliegen.
+<sup>1</sup> Beim Bezug des Patentes hat die Jägerin oder der Jäger der Ausgabestelle Folgendes vorzuweisen:
 
 - a) …
 - b) …
+- c) das Jagdpatentbüchlein;
+- d) den Ausweis über die gesetzliche Haftpflichtversicherung;
+- e) den Nachweis, dass die Jagdwaffe persönlich eingeschossen und die Schiesspflicht erfüllt ist (Treffsicherheitsnachweis).
 
 <sup>1<sup>bis</sup></sup> …
 
-<sup>2</sup> Jägerinnen und Jäger mit Wohnsitz in einer Bündner Gemeinde haben auf dem Formular überdies schriftlich zu bestätigen, dass sie seit drei aufeinanderfolgenden Monaten ihren Wohnsitz im Kanton Graubünden haben.
+<sup>1<sup>ter</sup></sup> Die Jägerin oder der Jäger bestätigt schriftlich, dass keine Verweigerungsgründe gemäss Artikel 7 des kantonalen Jagdgesetzes[^4-1] vorliegen.
 
-<sup>3</sup> Die Gesuchstellerin oder der Gesuchsteller hat mit dem entsprechenden Formular zu belegen, dass die Jagdwaffe persönlich eingeschossen und die Schiesspflicht erfüllt worden ist.
+<sup>2</sup> Jägerinnen und Jäger, die zum Bezug eines Patentes nach Artikel 21a Absatz 1 Ziffer 1 oder Ziffer 2 des kantonalen Jagdgesetzes berechtigt sind, haben zusätzlich ihren gegenwärtigen oder früheren steuerrechtlichen Wohnsitz im Kanton Graubünden zu bestätigen.
+
+<sup>3</sup> Wird das Patent elektronisch gelöst, sind die Unterlagen und Bestätigungen gemäss den Bestimmungen der Verordnung über den elektronischen Rechtsverkehr[^4-2] in elektronischer Form einzureichen.
+
+[^4-1]: BR [740.000](https://www.gr-lex.gr.ch/data/740.000/de)
+[^4-2]: BR [370.130](https://www.gr-lex.gr.ch/data/370.130/de)
 
 #### Art. 5
 
@@ -82,11 +89,7 @@ von der Regierung erlassen am 27. März 2007
 
 #### Art. 6
 
-**Ausweise**
-
-<sup>1</sup> Die Jägerin oder der Jäger hat bei der Jagdausübung das Patentbüchlein, das Jagdpatent und die Abschussliste mitzuführen und auf Verlangen den Jagdaufsichtsorganen vorzuweisen.
-
-<sup>2</sup> …
+**…**
 
 #### Art. 6a
 
@@ -124,35 +127,15 @@ von der Regierung erlassen am 27. März 2007
 
 #### Art. 10
 
-**Verwenden von Motorfahrzeugen 1. Grundsatz**
-
-<sup>1</sup> Das Verwenden von Motorfahrzeugen zu Jagdzwecken ist während der Hoch- und Niederjagd untersagt, wenn die Jagdwaffe mitgeführt wird.
+**…**
 
 #### Art. 11
 
-**2. Ausnahmen a) Fahrt ins Jagdgebiet**
-
-<sup>1</sup> Motorfahrzeuge dürfen für die Fahrt ins Jagdgebiet wie folgt verwendet werden:
-
-- a) bis innerhalb von Siedlungen, die mit blauweissen oder schwarzweissen Ortschaftstafeln gekennzeichnet sind;
-- b) bis zu Hospizen an Passstrassen;
-- c) bis zu den an Bundes- oder Kantonsstrassen gelegenen Talstationen von Berg-, Kabinen-, Gondel- oder Sesselbahnen;
-- d) bis zu den Bahnhöfen oder öffentlichen Haltestellen der SBB, RhB und MGB;
-- e) bis zu den Endstationen von öffentlichen Strassentransportunternehmen (Postautokurse, Buslinien usw.), die ganzjährig fahrplanmässig verkehren.
-
-<sup>2</sup> Die Regelungen gemäss Absatz 1 dieser Bestimmung gelten auch für die Benützung von Motorfahrzeugen auf ausserkantonalem Gebiet, wenn das Parkieren zur Jagdausübung im Kanton Graubünden erfolgt.
-
-<sup>3</sup> Die Regierung kann in den Jagdbetriebsvorschriften ausserordentliche Parkplätze bezeichnen und abweichende Regelungen über das Verwenden von Motorfahrzeugen erlassen.
+**…**
 
 #### Art. 12
 
-**b) Jagdbeginn, Jagdende, Transport von Schalenwild**
-
-<sup>1</sup> Am Tag vor Jagdbeginn, am Tag vor Wiederaufnahme der Jagd nach einem Unterbruch und am Eidgenössischen Bettag dürfen Jägerinnen und Jäger in Jagdausrüstung ab 12.00 Uhr Motorfahrzeuge für die Fahrt ins Jagdgebiet verwenden oder mit der Jagdwaffe den Weg zu ihren Unterkünften antreten. Fahrzeuge müssen noch am gleichen Abend auf einem erlaubten Parkplatz abgestellt werden.
-
-<sup>2</sup> Vor einem jagdfreien Tag und am Ende der Hoch- und Niederjagd dürfen Motorfahrzeuge nach Ende der Schusszeit für die Heimfahrt verwendet werden.
-
-<sup>3</sup> Für den Transport von erlegtem Schalenwild dürfen Motorfahrzeuge benützt werden. Dabei dürfen die Mitglieder der Jagdgruppe mitfahren.
+**…**
 
 #### Art. 12a
 
@@ -160,51 +143,29 @@ von der Regierung erlassen am 27. März 2007
 
 #### Art. 13
 
-**c) Ausnahmen für Jägerinnen und Jäger mit einer schweren Gehbehinderung**
-
-<sup>1</sup> Jägerinnen und Jägern mit einer schweren direkten Gehbehinderung können weitergehende Ausnahmen für die Benützung von Motorfahrzeugen bewilligt werden. Entsprechende Gesuche sind mit einem Arztzeugnis dem Amt für Jagd und Fischerei jeweils bis am 15. Juli des betreffenden Jahres einzureichen.
-
-<sup>2</sup> Das Amt entscheidet vor Jagdbeginn über die Gesuche. Um einen geordneten Jagdbetrieb zu gewährleisten, können die Bewilligungen mit Auflagen und Bedingungen erteilt werden.
+**…**
 
 #### Art. 14
 
-**Benützung öffentlicher Verkehrsmittel**
-
-<sup>1</sup> Für die Fahrt ins Jagdgebiet dürfen fahrplanmässig verkehrende Eisenbahnen, öffentliche Strassentransportunternehmen (Postautokurse, Buslinien usw.) sowie die Seilbahnen nach Feldis/Veulden, Landarenca und Braggio benutzt werden.
+**…**
 
 ## 4. Hilfsmittel
 
 #### Art. 15
 
-**Ski, Schneereifen und Schneeschuhe**
-
-<sup>1</sup> Das Verwenden von Skiern oder skiähnlichen Geräten zur Ausübung der Jagd ist mit Ausnahme der Passjagd verboten.
-
-<sup>2</sup> Schneereifen und Schneeschuhe dürfen auf allen Jagden benutzt werden.
+**…**
 
 #### Art. 16
 
-**Helikopter und weitere Fluggeräte**
-
-<sup>1</sup> Die Benützung von Helikoptern oder anderen Fluggeräten (Deltasegler, Hängegleiter und dergleichen) zu Jagdzwecken ist verboten.
-
-<sup>2</sup> In Ausnahmefällen dürfen Helikopter mit vorgängiger Zustimmung der Wildhut für den Abtransport von Schalenwild verwendet werden.
+**…**
 
 #### Art. 17
 
-**Campieren und Biwakieren**
-
-<sup>1</sup> Für die Ausübung der Jagd ist das Aufschlagen von Zelten und Blachen sowie die Benützung von Wohnwagen, Wohnmobilen oder anderen Motorfahrzeugen zur Übernachtung nur auf gekennzeichneten Campingplätzen gestattet.
-
-<sup>2</sup> Bauliche Massnahmen zum Einrichten von Schlafplätzen sowie das Anlegen von Depots, Vorräten und dergleichen sind verboten.
+**…**
 
 #### Art. 18
 
-**Weitere verbotene Hilfsmittel**
-
-<sup>1</sup> Bewegungsmelder, Infrarotsensoren, Lichtschranken, Fotofallen und Überwachungskameras sowie die im Bundesrecht entsprechend bezeichneten Hilfsmittel sind für die Jagdausübung verboten.
-
-<sup>2</sup> Die Regierung regelt in den Jagdbetriebsvorschriften das Verwenden von Funkgeräten und Mobiltelefonen.
+**…**
 
 #### Art. 19
 
@@ -218,20 +179,11 @@ von der Regierung erlassen am 27. März 2007
 
 #### Art. 20
 
-**Schusszeiten**
-
-<sup>1</sup> Die Regierung regelt die Schusszeiten im Rahmen der Jagdbetriebsvorschriften.
+**…**
 
 #### Art. 20a
 
-**Schussdistanzen, Bleischrot**
-
-<sup>1</sup> Die Schussdistanzen betragen unter optimalen Bedingungen:
-
-- a) Kugelschuss höchstens 200 m;
-- b) Schrotschuss höchstens 40 m.
-
-<sup>2</sup> Die Jagd auf Wasserflugwild darf nur mit einem geprüften Jagdhund und nur mit bleifreiem Schrot ausgeübt werden.
+**…**
 
 #### Art. 21
 
@@ -269,7 +221,7 @@ von der Regierung erlassen am 27. März 2007
 
 **Schutz des Wildes vor Störungen**
 
-<sup>1</sup> Das Verwenden von Suchlampen, Halogenlampen, Scheinwerfern und ähnlichen künstlichen Lichtquellen zum Aufsuchen und Beobachten von Wild ist während des ganzen Jahres verboten.
+<sup>1</sup> Das Verwenden von Suchlampen, Halogenlampen, Scheinwerfern und ähnlichen künstlichen Lichtquellen zum Aufsuchen und Beobachten von Wild sowie zum Suchen von Abwurfstangen ist ganzjährig verboten.
 
 #### Art. 26
 
@@ -299,9 +251,9 @@ von der Regierung erlassen am 27. März 2007
 
 **Selbsthilfemassnahmen**
 
-<sup>1</sup> Grundeigentümer und Pächter dürfen nach vorgängiger Orientierung der Wildhut Füchse, Dachse, Marder und verwilderte Hauskatzen einfangen oder erlegen, wenn diese zu Wohn- oder Wirtschaftsgebäuden vordringen oder in diese eindringen.
+<sup>1</sup> Grundeigentümerinnen und Grundeigentümer sowie Pächterinnen und Pächter dürfen nach vorgängiger Orientierung der Wildhut Füchse, Dachse und Marder einfangen oder erlegen, wenn diese zu Wohn- oder Wirtschaftsgebäuden vordringen oder in diese eindringen.
 
-<sup>2</sup> Ringeltauben, Türkentauben, Amseln, Wacholderdrosseln, Eichelhäher, Elstern, Raben- und Nebelkrähen, Kolkraben, Stare sowie Haus- und Feldsperlinge dürfen nur eingefangen oder erlegt werden, wenn dies zum Schutz von Hausgärten oder landwirtschaftlichen Kulturen notwendig ist.
+<sup>2</sup> Ringeltauben, Türkentauben, Amseln, Eichelhäher, Elstern, Raben- und Nebelkrähen, Kolkraben sowie Stare dürfen nur eingefangen oder erlegt werden, wenn dies zum Schutz von Hausgärten oder landwirtschaftlichen Kulturen notwendig ist.
 
 <sup>3</sup> Eingefangene oder erlegte Tiere sind umgehend dem zuständigen Wildhüter zu melden.
 
@@ -336,6 +288,12 @@ von der Regierung erlassen am 27. März 2007
 <sup>1</sup> Hunde, die sich unbeaufsichtigt in den Wildeinständen herumtreiben und Wildspuren aufnehmen, Wild verfolgen, Wild hetzen oder reissen, gelten als wildernde Hunde.
 
 <sup>2</sup> Hunde dürfen nur von Wildhütern erlegt werden, wenn sie Wild gerissen oder wiederholt gewildert haben.
+
+#### Art. 32a
+
+**Abwurfstangen und Trophäen von aufgefundenem Fallwild**
+
+<sup>1</sup> Unrechtmässig angeeignete Abwurfstangen oder Trophäen von aufgefundenem Fallwild werden durch die Jagdaufsichtsorgane eingezogen und verfallen dem Kanton.
 
 #### Art. 33
 

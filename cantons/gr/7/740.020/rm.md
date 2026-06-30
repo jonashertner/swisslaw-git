@@ -4,13 +4,12 @@ number: "740.020"
 title: Ordinaziun da la regenza davart la chatscha
 short: ORCh
 language: rm
-version: 2025-05-01
-valid_until: 2026-06-30
-version_adopted: 2025-04-08
+version: 2026-07-01
+version_adopted: 2026-06-30
 adopted: 2007-03-27
 in_force: 2007-06-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/740.020"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3545/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3648/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3545/pdf_file"
 
 (ORCh)
 
-dals 27-03-2007 (versiun dals 01-05-2025)
+dals 27-03-2007 (versiun dals 01-07-2026)
 
 sa basond sin l'art. 38 da la lescha chantunala da chatscha dals 4 da zercladur 1989[^ingress-1]
 
@@ -41,7 +40,7 @@ relaschada da la regenza ils 27 da mars 2007
 
 <sup>1</sup> Il cudeschet per las patentas da chatscha è persunal e n'è betg transferibel. El cuntegna las persunalias, ina fotografia da passaport sco er il certificat davart la controlla da las armas e davart l'examen da qualificaziun.
 
-<sup>2</sup> Ils cudeschets per las patentas da chatscha vegnan controllads per regla mintga 10 onns ed eventualmain renovads. L'uffizi da chatscha e pestga ordinescha la controlla e la coordinescha cun la controlla periodica da las armas.
+<sup>2</sup> Ils cudeschets per las patentas da chatscha vegnan per regla controllads mintga 10 onns ed eventualmain renovads. L'Uffizi da chatscha e pestga ordinescha la controlla.
 
 #### Art. 3
 
@@ -61,16 +60,24 @@ relaschada da la regenza ils 27 da mars 2007
 
 **Documents**
 
-<sup>1</sup> Per retrair la patenta ston vegnir preschentads als posts d'emissiun ina carta d'identitad valaivla, il cudeschet per la patenta da chatscha ed il mussament davart l'assicuranza legala da responsabladad. Plinavant sto vegnir inoltrà il formular cun la conferma suttascritta persunalmain ch'i n'existan nagins motivs da refusa tenor l'artitgel 7 da la lescha chantunala da chatscha.
+<sup>1</sup> Per retrair la patenta sto la chatschadra u il chatschader preschentar al post d'emissiun il suandant:
 
 - a) …
 - b) …
+- c) il cudeschet per las patentas da chatscha;
+- d) il mussament davart l'assicuranza da responsabladad prescritta tras lescha;
+- e) la cumprova che l'arma da chatscha è vegnida regulada persunalmain e che l'obligaziun da tir è ademplida (cumprova da la segirezza da culp).
 
 <sup>1<sup>bis</sup></sup> …
 
-<sup>2</sup> Chatschadras e chatschaders cun domicil en ina vischnanca grischuna ston plinavant confermar en scrit sin il formular ch'ellas ed els han lur domicil en il chantun Grischun dapi 3 mais successivs.
+<sup>1<sup>ter</sup></sup> La chatschadra u il chatschader conferma en scrit, ch'i n'existan nagins motivs da refusaziun tenor l'artitgel 7 da la Lescha chantunala da chatscha[^4-1].
 
-<sup>3</sup> La petenta u il petent sto cumprovar cun il formular correspundent che l'arma da chatscha è vegnida regulada persunalmain e che l'obligaziun da tir è vegnida ademplida.
+<sup>2</sup> Las chatschadras ed ils chatschaders ch'èn autorisads da retrair ina patenta tenor l'artitgel 21a alinea 1 cifra 1 u cifra 2 da la Lescha chantunala da chatscha, ston supplementarmain confermar lur domicil fiscal actual u anteriur en il chantun Grischun.
+
+<sup>3</sup> Sche la patenta vegn acquistada sin via electronica, ston ils documents e las confermas vegnir inoltrads en furma electronica tenor las disposiziuns da l'Ordinaziun davart la correspundenza giuridica electronica[^4-2].
+
+[^4-1]: DG [740.000](https://www.gr-lex.gr.ch/data/740.000/rm)
+[^4-2]: DG [370.130](https://www.gr-lex.gr.ch/data/370.130/rm)
 
 #### Art. 5
 
@@ -82,11 +89,7 @@ relaschada da la regenza ils 27 da mars 2007
 
 #### Art. 6
 
-**Permiss da manischar e documents da vehichels**
-
-<sup>1</sup> Cun exequir la chatscha sto la chatschadra u il chatschader prender cun sai il cudeschet per las patentas, la patenta da chatscha e la glista da prelevaziun e, sch'ils organs da surveglianza da chatscha pretendan quai, sto ella u el preschentar quests documents.
-
-<sup>2</sup> …
+**…**
 
 #### Art. 6a
 
@@ -124,35 +127,15 @@ relaschada da la regenza ils 27 da mars 2007
 
 #### Art. 10
 
-**Diever da vehichels a motor 1. princip**
-
-<sup>1</sup> Il diever da vehichels a motor per intents da chatscha è scumandà durant la chatscha auta e durant la chatscha bassa, sch'i vegn prendì cun sai l'arma da chatscha.
+**…**
 
 #### Art. 11
 
-**2. excepziuns a) viadi en il territori da chatscha**
-
-<sup>1</sup> Vehichels a motor dastgan vegnir duvrads per il viadi en il territori da chatscha sco suonda:
-
-- a) fin entaifer abitadis ch'èn segnads cun tavlas blau-alvas u nair-alvas;
-- b) fin als ospizis da vias da pass;
-- c) fin a las staziuns da partenza da telefericas, da telecabinas u da sutgeras ch'èn situadas per lung da vias naziunalas u chantunalas;
-- d) fin a las staziuns u fin a las fermadas publicas da las VFF, da la VR e da la VMG;
-- e) fin a las staziuns finalas d'interpresas publicas da transport (autos da posta, bus e.u.v.) che circuleschan durant l'entir onn tenor in urari.
-
-<sup>2</sup> Las regulaziuns tenor l'alinea 1 da questas disposiziuns valan er per il diever da vehichels a motor sin territori extrachantunal, sch'i vegn parcà cun l'intent d'ir a chatscha en il chantun Grischun.
-
-<sup>3</sup> En las prescripziuns da chatscha po la regenza inditgar plazzas da parcar extraordinarias e relaschar regulaziuns divergentas davart il diever da vehichels a motor.
+**…**
 
 #### Art. 12
 
-**b) cumenzament e fin da la chatscha, transport da selvaschina d'ungla**
-
-<sup>1</sup> Il di avant che la chatscha cumenza, il di avant che reprender la chatscha suenter ina interrupziun ed il di da la rogaziun federala dastgan chatschadras e chatschaders en armaziun da chatscha far diever davent da las 12.00 da vehichels a motor per il viadi en il territori da chatscha u il return cun l'arma da chatscha en lur sustas. Ils vehichels ston vegnir depositads anc la medema saira sin in parcadi permess.
-
-<sup>2</sup> Avant in di senza chatscha ed a la fin da la chatscha auta e da la chatscha bassa dastgan vegnir duvrads vehichels a motor per turnar a chasa suenter che las uras da sajettar èn terminadas.
-
-<sup>3</sup> Per il transport da selvaschina d'ungla sajettada dastgan vegnir duvrads vehichels a motor. En quest cas dastgan las commembras ed ils commembers da la gruppa da chatscha er seser en il med da transport motorisà.
+**…**
 
 #### Art. 12a
 
@@ -160,51 +143,29 @@ relaschada da la regenza ils 27 da mars 2007
 
 #### Art. 13
 
-**c) excepziuns per chatschadras e per chatschaders cun in grev impediment d'ir a pe**
-
-<sup>1</sup> A chatschadras ed a chatschaders cun in grev impediment direct d'ir a pe pon vegnir permessas ulteriuras excepziuns areguard il diever da vehichels a motor. Dumondas correspundentas ston vegnir inoltradas cun in attestat da la media u dal medi a l'uffizi da chatscha e pestga mintgamai fin ils 15 da fanadur da l'onn respectiv.
-
-<sup>2</sup> L'uffizi decida davart las dumondas avant il cumenzament da la chatscha. Per garantir in exercizi da la chatscha regular, pon las permissiuns vegnir concedidas cun pretensiuns e cun cundiziuns.
+**…**
 
 #### Art. 14
 
-**Utilisaziun da meds da transport publics**
-
-<sup>1</sup> Per il viadi en il territori da chatscha dastgan vegnir utilisadas viafiers che circuleschan tenor in urari, interpresas publicas da transport sin via (autos da posta, lingias da bus e.u.v.) sco er las pendicularas a Veulden, a Landarenca ed a Braggio.
+**…**
 
 ## 4. Meds auxiliars
 
 #### Art. 15
 
-**Skis, gianellas e chalzers da naiv**
-
-<sup>1</sup> L'utilisaziun da skis u d'urdains sumegliants a skis per exequir la chatscha è scumandada cun excepziun da la chatscha da guetta.
-
-<sup>2</sup> Gianellas e chalzers da naiv dastgan vegnir duvrads sin tut las chatschas.
+**…**
 
 #### Art. 16
 
-**Helicopters ed ulteriurs urdains da sgular**
-
-<sup>1</sup> Il diever da helicopters u d'ulteriurs urdains da sgular (sguladers da delta, planegiaders ed urdains da sgular sumegliants) per intents da chatscha è scumandà.
-
-<sup>2</sup> En cas excepziunals dastgan vegnir duvrads helicopters, sch'ils organs da surveglianza da chatscha dattan ordavant lur consentiment per transportar davent selvaschina d'ungla.
+**…**
 
 #### Art. 17
 
-**Campar e bivacar**
-
-<sup>1</sup> Per exequir la chatscha èsi permess da postar tendas e ponns sco er da duvrar rulottas, campers u auters vehichels a motor per pernottar mo sin campadis signalisads.
-
-<sup>2</sup> Igl è scumandà da prender mesiras architectonicas per endrizzar plazzas da durmir sco er per far deposits u per magasinar provisiuns e chaussas sumegliantas.
+**…**
 
 #### Art. 18
 
-**Ulteriurs meds d'agid scumandads**
-
-<sup>1</sup> Sensurs da moviment, sensurs a radis infracotschens, barrieras fotoelectricas, traplas fotograficas e cameras d'observaziun sco er ils meds d'agid ch'èn inditgads correspundentamain en il dretg federal èn scumandads per exequir la chatscha.
-
-<sup>2</sup> En las prescripziuns da chatscha regla la regenza il diever da funcs e da telefons mobils.
+**…**
 
 #### Art. 19
 
@@ -218,20 +179,11 @@ relaschada da la regenza ils 27 da mars 2007
 
 #### Art. 20
 
-**Uras da sajettar**
-
-<sup>1</sup> La regenza regla las uras da sajettar en il rom da las prescripziuns da chatscha.
+**…**
 
 #### Art. 20a
 
-**Distanzas da tir, ballins a plum**
-
-<sup>1</sup> Las distanzas da tir importan a cundiziuns optimalas:
-
-- a) tir da balla maximalmain 200 m;
-- b) tir da ballins a plum maximalmain 40 m.
-
-<sup>2</sup> La chatscha sin utschleglia da chatscha da l'aua dastga vegnir exequida mo cun in chaun da chatscha che ha fatg l'examen e mo, sch'ins dovra ballins senza plum.
+**…**
 
 #### Art. 21
 
@@ -269,7 +221,7 @@ relaschada da la regenza ils 27 da mars 2007
 
 **Protecziun da la selvaschina cunter disturbis**
 
-<sup>1</sup> Il diever da glischs da tschertga, da glischs d'alogen, da reflecturs e da sumegliantas funtaunas da glisch artifiziala per tschertgar e per observar selvaschina è scumandà durant l'entir onn.
+<sup>1</sup> Il diever da glischs da tschertga, da glischs d'alogen, da reflecturs e da sumegliantas funtaunas da glisch artifiziala per tschertgar e per observar selvaschina sco er per tschertgar cornas bittadas giu è scumandà durant l'entir onn.
 
 #### Art. 26
 
@@ -299,9 +251,9 @@ relaschada da la regenza ils 27 da mars 2007
 
 **Mesiras d'agid a sasez**
 
-<sup>1</sup> Proprietarias e proprietaris da bains immobigliars sco er fittadinas e fittadins dastgan tschiffar u sajettar vulps, tais, fiergnas e giats daventads selvadis, sche quels avanzan u penetreschan en edifizis d'abitar u d'economia.
+<sup>1</sup> Proprietarias e proprietaris da bains immobigliars sco er fittadinas e fittadins dastgan tschiffar u sajettar vulps, tais e fiergnas, sche quels s'avischinan u entran en edifizis d'abitar u d'economia.
 
-<sup>2</sup> Tiduns, columbas tircas, merlotschas, turschs giagls, sgragias, giazlas, corvs nairs e grischs, corvs gronds, sturnels sco er paslers da chasa e da prada dastgan mo vegnir tschiffads u sajettads, sche quai è necessari per proteger ierts da chasa e culturas agriculas.
+<sup>2</sup> Tiduns, columbas tircas, merlotschas, sgragias, giazlas, corvs nairs e grischs, corvs gronds sco er sturnels dastgan mo vegnir tschiffads u sajettads, sche quai è necessari per proteger ierts da chasa e culturas agriculas.
 
 <sup>3</sup> Animals tschiffads u sajettads ston vegnir annunziads immediatamain a la guardiaselvaschina cumpetenta u al guardiaselvaschina cumpetent.
 
@@ -336,6 +288,12 @@ relaschada da la regenza ils 27 da mars 2007
 <sup>1</sup> Chauns che giran senza vegnir survegliads en ils territoris nua che la selvaschina passenta l'enviern e che van suenter ils fastizs da selvaschina, che persequiteschan selvaschina, che chatschan u stgarpan selvaschina valan sco chauns fraudulants.
 
 <sup>2</sup> Chauns dastgan vegnir sajettads mo da guardiaselvaschinas, sch'els han stgarpà selvaschina u sch'els han fraudulà repetidamain.
+
+#### Art. 32a
+
+**Cornas bittadas giu e trofeas da selvaschina disgraziada chattada**
+
+<sup>1</sup> Cornas bittadas giu u trofeas da selvaschina disgraziada chattada, ch'èn vegnidas appropriadas illegalmain, vegnan confiscadas tras ils organs da surveglianza da chatscha e van al chantun.
 
 #### Art. 33
 
