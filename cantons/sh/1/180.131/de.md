@@ -4,13 +4,12 @@ number: "180.131"
 title: Verordnung über die Ausrichtung einer Übergangsrente bei vorzeitigem Rücktritt aus dem Staatsdienst
 short: "Übergangsrentenverordnung, ÜRV"
 language: de
-version: 2026-01-01
-valid_until: 2026-06-30
-version_adopted: 2025-12-02
+version: 2026-07-01
+version_adopted: 2026-06-30
 adopted: 2015-02-17
 in_force: 2015-04-01
 url: "https://rechtsbuch.sh.ch/app/de/texts_of_law/180.131"
-pdf: "https://rechtsbuch.sh.ch/api/de/versions/2039/pdf_file"
+pdf: "https://rechtsbuch.sh.ch/api/de/versions/2120/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://rechtsbuch.sh.ch/api/de/versions/2039/pdf_file"
 
 (Übergangsrentenverordnung, ÜRV)
 
-Vom 17.02.2015 (Stand 01.01.2026)
+Vom 17.02.2015 (Stand 01.07.2026)
 
 Der Regierungsrat des Kantons Schaffhausen,
 
@@ -67,6 +66,8 @@ beschliesst:
 <sup>5</sup> Personen, die eine Übergangsrente beziehen und als Nichterwerbstätige der AHV-Beitragspflicht unterstehen, erhalten einen Zuschlag in der Höhe von 20% der ausbezahlten Übergangsrente. Jede Erwerbstätigkeit muss dem Arbeitgeber gemeldet werden. Zu Unrecht bezogene Leistungen müssen zurückbezahlt werden.
 
 <sup>6</sup> Bei Pensionierung auf einem Teilpensum oder für Teilzeitbeschäftigte wird der entsprechende Bruchteil erbracht. Bei der Totalpensionierung wird auf den Durchschnitt der Pensen in den letzten fünf Jahren abgestellt. Dabei bleiben Pensumsreduktionen nach zurückgelegtem 60. Altersjahr unberücksichtigt. Während eines bezahlten oder unbezahlten Urlaubes zählt der Beschäftigungsgrad unmittelbar vor Antritt des Urlaubes.
+
+<sup>7</sup> Die Ausrichtung der 13. Übergangsrente erfolgt entsprechend den Bestimmungen zu Art. 34ter AHVG.
 
 #### § 4
 
