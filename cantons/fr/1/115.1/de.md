@@ -4,13 +4,12 @@ number: "115.1"
 title: Gesetz über die Ausübung der politischen Rechte
 short: PRG
 language: de
-version: 2024-01-01
-valid_until: 2026-06-30
-version_adopted: 2023-10-10
+version: 2026-07-01
+version_adopted: 2025-03-27
 adopted: 2001-04-06
 in_force: 2001-08-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/115.1"
-pdf: "https://bdlf.fr.ch/api/de/versions/8106/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/8369/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ Politische Rechte – G
 
 (PRG)
 
-vom 06.04.2001 (Fassung in Kraft getreten am 01.01.2024)
+vom 06.04.2001 (Fassung in Kraft getreten am 01.07.2026)
 
 Der Grosse Rat des Kantons Freiburg
 
@@ -96,7 +95,7 @@ beschliesst:
 
 <sup>1</sup> Die Gemeinde, in der eine Person ihre Ausweispapiere mit der Absicht dauernden Verbleibens hinterlegt hat, stellt den politischen Wohnsitz dar.
 
-<sup>2</sup> Personen, die den politischen Wohnsitz nach Ablauf der Frist für den Erhalt des Stimm- oder Wahlmaterials wechseln, müssen in den im Ausführungsreglement aufgeführten Fällen eine amtliche Bestätigung vorlegen, die bescheinigt, dass sie nicht mehr im Stimmregister ihrer früheren Wohnsitzgemeinde eingetragen sind. Sie können der Gemeindebehörde auch das bereits erhaltene Material zurückgeben.
+<sup>2</sup> Personen, die den politischen Wohnsitz nach Ablauf der Frist für den Erhalt des Stimmmaterials wechseln, müssen in den im Ausführungsreglement aufgeführten Fällen eine amtliche Bestätigung vorlegen, die bescheinigt, dass sie nicht mehr im Stimmregister ihrer früheren Wohnsitzgemeinde eingetragen sind. Sie können der Gemeindebehörde auch das bereits erhaltene Material zurückgeben.
 
 <sup>3</sup> Wer den politischen Wohnsitz wechselt und nicht im Stimmregister der neuen Wohnsitzgemeinde eingetragen ist, übt das Stimmrecht in der früheren Wohnsitzgemeinde aus.
 
@@ -144,7 +143,7 @@ beschliesst:
 
 **Bestellung**
 
-<sup>1</sup> Spätestens beim Versand des Stimm- oder Wahlmaterials bestellt der Gemeinderat ein Wahlbüro, das sich aus Personen zusammensetzt, die in der Gemeinde stimmberechtigt sind. Er kann Ersatzmitglieder bezeichnen.
+<sup>1</sup> Spätestens beim Versand des Stimmmaterials bestellt der Gemeinderat ein Wahlbüro, das sich aus Personen zusammensetzt, die in der Gemeinde stimmberechtigt sind. Er kann Ersatzmitglieder bezeichnen.
 
 <sup>2</sup> Der Gemeinderat trägt den in der Gemeinde vertretenen Parteien und Wählergruppen angemessen Rechnung. Diese können innerhalb der im Ausführungsreglement zu diesem Gesetz festgesetzten Fristen Vorschläge unterbreiten.
 
@@ -224,12 +223,12 @@ beschliesst:
 
 #### Art. 12
 
-**Stimm- und Wahlmaterial**
+**Stimmmaterial**
 
 <sup>1</sup> Vor jedem eidgenössischen, kantonalen oder kommunalen Urnengang erhält jede stimmberechtigte Person von der Gemeindeschreiberei:
 
 - a) den Stimmrechtsausweis mit einem Code oder einer anderen elektronischen Lösung, die das Stimmrecht bescheinigt, und den im Ausführungsreglement aufgeführten Angaben;
-- b) das im Ausführungsreglement vorgesehene Stimm- und Informationsmaterial.
+- b) das in diesem Gesetz und seinem Ausführungsreglement vorgesehene Stimm- und Informationsmaterial.
 
 <sup>2</sup> Die Stimmberechtigten müssen das Stimmmaterial innerhalb der folgenden Fristen erhalten:
 
@@ -330,7 +329,11 @@ beschliesst:
 
 <sup>2</sup> Die stimmende Person wird registriert, und auf dem Stimmmaterial wird der Gemeindestempel angebracht. Anschliessend übergibt sie ihren Stimmrechtsausweis einer Stimmenzählerin oder einem Stimmenzähler; diese oder dieser nennt ihren Namen.
 
-<sup>3</sup> Die stimmberechtigte Person legt das Stimmcouvert, das den Stimmzettel oder die Wahlliste enthält, selbst in die Urne.
+<sup>3</sup> Die stimmberechtigte Person legt das Stimmcouvert selbst in die Urne; dieses enthält:
+
+- a) für die Abstimmungen den Stimmzettel;
+- b) für die Wahlen nach dem Proporzsystem eine amtliche Wahlliste (Art. 58 Abs. 1);
+- c) für die Wahlen nach dem Majorzsystem den amtlichen Wahlzettel (Art. 37a).
 
 #### Art. 18
 
@@ -338,11 +341,11 @@ beschliesst:
 
 <sup>1</sup> Jede stimmberechtigte Person kann ihr Stimmrecht brieflich oder durch Abgabe bei der Gemeinde vorzeitig ausüben, sobald sie das Stimmmaterial erhalten hat.
 
-<sup>2</sup> Sie muss auf dem Stimmrechtsausweis unterschreiben, andernfalls ist die Stimme ungültig.
+<sup>2</sup> Sie muss auf dem Stimmrechtsausweis unterschreiben, andernfalls wird die Stimme nicht berücksichtigt.
 
-<sup>2<sup>bis</sup></sup> Schreibunfähige können ihren Stimmzettel oder ihre Wahlliste von einer handlungsfähigen Person ihrer Wahl ausfüllen und den Stimmrechtsausweis unterschreiben lassen. Diese setzt gut leserlich ihren Namen, Vornamen und ihre vollständige Adresse zu ihrer Unterschrift.
+<sup>2<sup>bis</sup></sup> Schreibunfähige können ihren Stimmzettel, ihre amtliche Wahlliste oder ihren amtlichen Wahlzettel von einer handlungsfähigen Person ihrer Wahl ausfüllen und den Stimmrechtsausweis unterschreiben lassen. Diese setzt gut leserlich ihren Namen, Vornamen und ihre vollständige Adresse zu ihrer Unterschrift.
 
-<sup>3</sup> Das verschlossene Antwortcouvert mit dem Stimmrechtsausweis und dem Stimmcouvert, das lediglich den Stimmzettel oder die Wahlliste enthält, muss:
+<sup>3</sup> Das verschlossene Antwortcouvert mit dem Stimmrechtsausweis und dem Stimmcouvert, das lediglich den Stimmzettel, die amtliche Wahlliste oder den amtlichen Wahlzettel enthält, muss:
 
 - a) entweder rechtzeitig der Post übergeben werden, so dass es vor der Schliessung des Urnengangs beim Wahlbüro eintrifft; die Portokosten gehen grundsätzlich zu Lasten der stimmberechtigten Person; nicht oder ungenügend frankierte Couverts werden zurückgewiesen;
 - b) oder bis spätestens vor der Öffnung des Stimmlokals am Sonntag bei der Gemeindeschreiberei oder an einem vom Gemeinderat bezeichneten Ort abgegeben werden.
@@ -407,13 +410,13 @@ beschliesst:
 
 **Auszählung – Grundsatz**
 
-<sup>1</sup> Nach der Schliessung des Urnengangs öffnet das Wahlbüro unverzüglich die Urnen und beginnt mit der Auszählung der Stimmzettel oder Wahllisten.
+<sup>1</sup> Nach der Schliessung des Urnengangs öffnet das Wahlbüro unverzüglich die Urnen und beginnt mit der Auszählung der Stimmzettel, der amtlichen Wahllisten oder der amtlichen Wahlzettel.
 
-<sup>2</sup> Mit der Auszählung der abgegebenen oder brieflich eingegangenen Stimmzettel oder Wahllisten kann jedoch am Morgen des Abstimmungssonntags begonnen werden.
+<sup>2</sup> Mit der Auszählung der abgegebenen oder brieflich eingegangenen Stimmzettel, amtlichen Wahllisten oder amtlichen Wahlzettel kann jedoch am Morgen des Abstimmungssonntags begonnen werden.
 
-<sup>3</sup> Das Wahlbüro entscheidet über die Gültigkeit der Stimmzettel oder Wahllisten.
+<sup>3</sup> Das Wahlbüro entscheidet über die Gültigkeit der Stimmzettel, der amtlichen Wahllisten oder der amtlichen Wahlzettel.
 
-<sup>4</sup> Die Zahl der Stimmenden entspricht der Zahl der eingegangenen Stimmzettel oder Wahllisten.
+<sup>4</sup> Die Zahl der Stimmenden entspricht der Zahl der eingegangenen Stimmzettel, amtlichen Wahllisten oder amtlichen Wahlzettel.
 
 #### Art. 22a
 
@@ -428,21 +431,31 @@ beschliesst:
 
 #### Art. 22b
 
-**Auszählung – Verwendung optischer Lesegeräte a) Bewilligung**
+**Auszählung – Verwendung technischer Mittel a) Bewilligung**
 
-<sup>1</sup> Die Gemeinden können mit Bewilligung der Staatskanzlei bei Abstimmungen der Gemeinde, des Kantons oder des Bundes für die Auszählung der Stimmzettel optische Lesegeräte einsetzen.
+<sup>1</sup> Die Gemeinden können mit Bewilligung der Staatskanzlei bei Abstimmungen der Gemeinde, des Kantons oder des Bundes für die Auszählung der Stimmzettel und der amtlichen Wahlzettel technische Mittel einsetzen.
 
 #### Art. 22c
 
-**Auszählung – Verwendung optischer Lesegeräte b) Stimmzettel**
+**Auszählung – Verwendung technischer Mittel b) Stimmzettel**
 
-<sup>1</sup> Die mit optischen Lesegeräten kompatiblen Stimmzettel werden von den betroffenen Gemeinden hergestellt und zwar so, dass bei der Stimmabgabe keine Verwechslungen entstehen.
+<sup>1</sup> Die mit technischen Mitteln kompatiblen Stimmzettel werden von den betroffenen Gemeinden hergestellt, und zwar so, dass bei der Stimmabgabe keine Verwechslungen entstehen.
 
 <sup>2</sup> Alle kommunalen, kantonalen und eidgenössischen Abstimmungsvorlagen werden so weit möglich auf demselben Stimmzettel aufgeführt.
 
 <sup>3</sup> Die Probeabzüge werden der Staatskanzlei zur Genehmigung unterbreitet. Dasselbe gilt für die endgültigen Stimmzettel, von denen einige Exemplare der Staatskanzlei vorgelegt werden müssen, bevor sie an die Stimmberechtigten verschickt werden.
 
 <sup>4</sup> Die Herstellungs- und Druckkosten für diese Stimmzettel gehen zu Lasten der Gemeinden. Die Kosten für einen eventuellen Neudruck trägt das Gemeinwesen, das dafür verantwortlich ist.
+
+#### Art. 22d
+
+**Auszählung – Verwendung technischer Mittel c) Amtliche Wahlzettel**
+
+<sup>1</sup> Die amtlichen Wahlzettel werden vom zuständigen Organ nach Artikel 58 Abs. 1a erstellt.
+
+<sup>2</sup> Sie werden gemäss Artikel 37b und dem Ausführungsreglement erstellt, das ihre Kompatibilität mit den verwendeten technischen Mitteln gewährleistet.
+
+<sup>3</sup> Die Herstellungs- und Druckkosten der amtlichen Wahlzettel richten sich nach Artikel 38.
 
 #### Art. 23
 
@@ -483,6 +496,22 @@ beschliesst:
 - i) falls sie gedruckt sind, die Namen und Vornamen von Kandidatinnen und Kandidaten verschiedener eingereichter Listen enthalten oder nicht in der genauen Reihenfolge der Namen und Vornamen eine der offiziellen Listen wiedergeben;
 - j) ein Zeichen enthalten, das bestimmt oder geeignet ist, die stimmende Person zu identifizieren;
 - k) in mehreren Exemplaren im selben Couvert abgegeben werden, aber nicht gleichlautend sind.
+
+#### Art. 24a
+
+**Leere oder ungültige amtliche Wahlzettel**
+
+<sup>1</sup> Bei Wahlen nach dem Majorzsystem werden als leere amtliche Wahlzettel jene Wahlzettel erklärt, die keine Stimmen enthalten, d. h., wenn sie:
+
+- a) kein angekreuztes Kästchen enthalten, wenn es sich um amtliche Wahlzettel zum Ankreuzen handelt;
+- b) keinen Namen enthalten, wenn es sich um amtliche Wahlzettel zum Ausfüllen handelt.
+- c) kein angekreuztes Kästchen und keinen Namen enthalten, wenn es sich um amtliche Wahlzettel zum Ankreuzen und Ausfüllen handelt.
+
+<sup>2</sup> Amtliche Wahlzettel sind ungültig, wenn sie:
+
+- a) sinngemäss eine der Ungültigkeitsbedingungen gemäss Artikel 24 Abs. 2 Bst. a, b, c, d, e, g, h, i, j und k erfüllen;
+- b) mehr angekreuzte Kästchen enthalten als Sitze zu besetzen sind, wenn es sich um amtliche Wahlzettel zum Ankreuzen handelt;
+- c) eine grössere Zahl angekreuzter Kästchen und hinzugefügter Namen enthalten als die Zahl der freien Sitze, wenn es sich um amtliche Wahlzettel zum Ankreuzen und Ausfüllen handelt.
 
 #### Art. 25
 
@@ -633,7 +662,20 @@ beschliesst:
 
 ## 3 Wahlen
 
-### 3.1 Wahllisten
+### 3.1 Wahllisten und amtliche Wahlzettel
+
+#### Art. 35a
+
+**Wahllisten**
+
+<sup>1</sup> Die Wahllisten werden von den Parteien, den Wählergruppen oder den Kandidatinnen und Kandidaten erstellt.
+
+<sup>2</sup> Sie werden nach Bereinigung, Ersatz und Berichtigung nach Artikel 56 und 57 gemäss Artikel 58 endgültig.
+
+<sup>3</sup> Die endgültigen Wahllisten dienen:
+
+- a) zur Stimmabgabe durch die Stimmberechtigten bei Wahlen nach dem Proporzsystem gemäss Artikel 68; sie werden dann als amtliche Wahllisten zugelassen;
+- b) zur Ausarbeitung der amtlichen Wahlzettel bei Wahlen nach dem Majorzsystem gemäss Artikel 37a, 37b, 37c und 37d.
 
 #### Art. 36
 
@@ -669,32 +711,70 @@ beschliesst:
 
 <sup>4</sup> Bei kantonalen und Gemeindewahlen kann gegen den Entscheid gemäss den Artikeln 150 ff. Beschwerde geführt werden.
 
+#### Art. 37a
+
+**Amtlicher Wahlzettel – Grundsätze**
+
+<sup>1</sup> Wer bei Wahlen nach dem Majorzsystem von seinem Stimmrecht Gebrauch macht, wählt mit einem amtlichen Wahlzettel.
+
+<sup>2</sup> Der amtliche Wahlzettel hat die Form eines amtlichen Wahlzettels zum Ankreuzen bei Wahlen, die gemäss den ordentlichen Bestimmungen stattfinden, und die Form eines amtlichen Wahlzettels zum Ankreuzen, eines amtlichen Wahlzettels zum Ausfüllen oder eines amtlichen Wahlzettels zum Ankreuzen und Ausfüllen bei offenen Wahlen oder bei Wahlen, die gemäss den Bestimmungen über die offene Wahl ablaufen.
+
+#### Art. 37b
+
+**Amtlicher Wahlzettel – Amtlicher Wahlzettel zum Ankreuzen**
+
+<sup>1</sup> Der amtliche Wahlzettel zum Ankreuzen enthält jede Liste in der Reihenfolge der Nummer, mit der sie gemäss Artikel 58 versehen wurde. Jede Liste enthält die Kandidatinnen und Kandidaten in der Reihenfolge, in der sie auf ihrer Liste stehen.
+
+<sup>2</sup> Der amtliche Wahlzettel zum Ankreuzen kann bei den Listen derjenigen Parteien oder Wählergruppen, die ein Bündnis eingegangen sind, einen Hinweis auf den Bündnisnamen enthalten.
+
+<sup>3</sup> Das Ausführungsreglement kann Präzisierungen über die Gestaltung des amtlichen Wahlzettels zum Ankreuzen enthalten. Die Kompatibilität mit den technischen Mitteln muss gewährleistet sein.
+
+#### Art. 37c
+
+**Amtlicher Wahlzettel – Amtlicher Wahlzettel zum Ausfüllen**
+
+<sup>1</sup> Der amtliche Wahlzettel zum Ausfüllen ist leer und enthält so viele auszufüllende Linien, wie Sitze zu besetzen sind.
+
+<sup>2</sup> Das Ausführungsreglement kann Präzisierungen über die Gestaltung des amtlichen Wahlzettels zum Ausfüllen enthalten.
+
+#### Art. 37d
+
+**Amtlicher Wahlzettel – Amtlicher Wahlzettel zum Ankreuzen und Ausfüllen**
+
+<sup>1</sup> Der amtliche Wahlzettel zum Ankreuzen und Ausfüllen enthält so viele kandidierende Personen zum Ankreuzen und auszufüllende Linien, wie Sitze zu besetzen sind.
+
+<sup>2</sup> Das Ausführungsreglement kann Präzisierungen über die Gestaltung des amtlichen Wahlzettels zum Ankreuzen und Ausfüllen enthalten.
+
 #### Art. 38
 
-**Druck der Wahllisten**
+**Druck der amtlichen Wahllisten und der amtlichen Wahlzettel**
 
-<sup>1</sup> Bei den kantonalen Wahlen organisiert der Staat den Druck der Wahllisten und übernimmt die Druckkosten.
+<sup>1</sup> Bei den kantonalen Wahlen organisiert und finanziert der Staat den Druck der amtlichen Wahllisten und der amtlichen Wahlzettel.
 
 <sup>2</sup> …
 
-<sup>3</sup> Bei den Gemeindewahlen entscheidet der Gemeinderat, ob die Gemeinde:
+<sup>3</sup> Bei den Gemeindewahlen nach dem Proporzsystem entscheidet der Gemeinderat, ob die Gemeinde:
 
-- a) für den Druck der Wahllisten sorgt;
+- a) für den Druck der amtlichen Wahllisten sorgt;
 - b) die Druckkosten vollständig oder teilweise übernimmt.
+
+<sup>4</sup> Bei den Gemeindewahlen nach dem Majorzsystem organisieren und finanzieren die Gemeinden den Druck der amtlichen Wahlzettel.
 
 #### Art. 39
 
-**Inhalt der Wahllisten**
+**Inhalt der amtlichen Wahllisten und der amtlichen Wahlzettel**
 
-<sup>1</sup> Die den Stimmberechtigten ausgehändigten leeren und gedruckten Listen müssen die im Ausführungsreglement aufgeführten Angaben enthalten.
+<sup>1</sup> Die den Stimmberechtigten ausgehändigten leeren amtlichen Listen, gedruckten Listen und amtlichen Wahlzettel müssen die im Ausführungsreglement aufgeführten Angaben enthalten.
 
 #### Art. 40
 
-**Verteilung der Wahllisten**
+**Verteilung der amtlichen Wahllisten und der amtlichen Wahlzettel**
 
-<sup>1</sup> Bei kantonalen Wahlen verteilen die Gemeinden die eingereichten Wahllisten und tragen die dadurch entstehenden Kosten.
+<sup>1</sup> Bei kantonalen Wahlen verteilen die Gemeinden die eingereichten amtlichen Wahllisten und tragen die dadurch entstehenden Kosten.
 
-<sup>2</sup> Bei Gemeindewahlen können die politischen Parteien oder Wählergruppen ihre Wahllisten durch die Gemeinde auf deren Kosten verteilen lassen.
+<sup>2</sup> Bei Gemeindewahlen nach dem Proporzsystem können die politischen Parteien oder Wählergruppen ihre amtlichen Wahllisten durch die Gemeinde auf deren Kosten verteilen lassen.
+
+<sup>2a</sup> Die Gemeinden verteilen die amtlichen Wahlzettel und tragen die dadurch entstandenen Kosten.
 
 <sup>3</sup> Für die Verteilung auf Kosten der Gemeinde müssen die von den Parteien oder Wählergruppen gedruckten Wahllisten spätestens am Montag der vierten Woche vor dem für die Wahl festgesetzten Sonntag und bei einem zweiten Wahlgang spätestens am Dienstag der zweiten Woche vor dem für die Wahl festgesetzten Sonntag um 12 Uhr eingereicht werden.
 
@@ -890,7 +970,7 @@ beschliesst:
 
 **Mehrfachkandidatur**
 
-<sup>1</sup> Bei Wahlen nach dem Proporzsystem wird der auf mehreren Listen aufgeführte Name einer Person unverzüglich auf sämtlichen Listen gestrichen.
+<sup>1</sup> Wird der Name einer Person auf mehreren Listen aufgeführt, so wird der Name dieser Person unverzüglich auf sämtlichen Listen gestrichen.
 
 <sup>2</sup> Werden die Listen für die Grossratswahlen im gleichen Kreis eingereicht, so wird der Name von der Oberamtfrau oder vom Oberamtmann gestrichen; werden sie in verschiedenen Kreisen eingereicht, so wird der Name von der Staatskanzlei gestrichen.
 
@@ -932,11 +1012,13 @@ beschliesst:
 
 #### Art. 58
 
-**Endgültige Wahllisten, Ordnungsnummer**
+**Endgültige Wahllisten, Ordnungsnummer und amtlicher Wahlzettel**
 
-<sup>1</sup> Nachdem die Streichungen, Ergänzungen und Bereinigungen vorgenommen wurden, erstellt das zuständige Organ die endgültigen Kandidatenlisten und versieht sie mit einer Nummer. Diese Listen sind die amtlichen Listen.
+<sup>1</sup> Nachdem die Streichungen, Ergänzungen und Bereinigungen vorgenommen wurden, erstellt das zuständige Organ nach Artikel 57 Abs. 1 die endgültigen Wahllisten und versieht sie mit einer Nummer. Diese Listen sind die amtlichen Listen, wenn sie zur Stimmabgabe dienen.
 
-<sup>2</sup> Die Veröffentlichung von nichtamtlichen Listen ist verboten.
+<sup>1a</sup> Bei einer Wahl nach dem Majorzsystem erstellt das zuständige Organ den amtlichen Wahlzettel anhand der endgültigen Wahllisten.
+
+<sup>2</sup> Die Veröffentlichung von Wahllisten oder von Wahlzetteln, die keine amtlichen Wahllisten und amtlichen Wahlzettel sind, ist verboten.
 
 #### Art. 58a
 
@@ -1306,7 +1388,7 @@ beschliesst:
 
 **Gewählte**
 
-<sup>1</sup> Die Personen, die ihre Wahl angenommen haben, werden für gewählt erklärt.
+<sup>1</sup> Die Personen, die ihre Wahl angenommen haben, werden für gewählt erklärt; wenn jedoch ihre Zahl grösser ist als die Zahl der freien Sitze, gilt die Regel des relativen Mehrs.
 
 <sup>2</sup> Die nicht gewählten Personen werden in der Reihenfolge ihrer Stimmenzahl in das Protokoll eingetragen.
 
@@ -1362,13 +1444,13 @@ beschliesst:
 
 **Stimmabgabe**
 
-<sup>1</sup> Wer von seinem Stimmrecht Gebrauch macht, kann entweder mit einer leeren oder einer gedruckten Liste wählen.
+<sup>1</sup> Die Person, die von ihrem Stimmrecht Gebrauch macht, vergibt ihre Stimmen den Kandidatinnen und Kandidaten, indem sie auf dem amtlichen Wahlzettel zum Ankreuzen handschriftlich das Kästchen neben deren Namen ankreuzt.
 
-<sup>2</sup> Wer eine leere Liste verwendet, muss diese handschriftlich ganz oder teilweise ausfüllen.
+<sup>2</sup> …
 
-<sup>3</sup> Wer eine gedruckte Liste verwendet, kann darauf eigenhändig Namen streichen oder Namen anderer Personen eintragen.
+<sup>3</sup> …
 
-<sup>4</sup> Es ist verboten, den Namen einer Person mehr als einmal auf einer Liste aufzuführen. Die Wiederholung des Namens gilt als nicht geschrieben.
+<sup>4</sup> …
 
 #### Art. 87
 
@@ -1376,7 +1458,7 @@ beschliesst:
 
 <sup>1</sup> Wer von seinem Stimmrecht Gebrauch macht, verfügt über so viele Stimmen, als im betreffenden Wahlkreis Personen zu wählen sind.
 
-<sup>2</sup> Die Namen der überzähligen Personen werden vom Schluss der Liste ausgehend und gegebenenfalls von links nach rechts gestrichen.
+<sup>2</sup> …
 
 #### Art. 88
 
@@ -1392,7 +1474,7 @@ beschliesst:
 
 **Ermittlung der im ersten Wahlgang gewählten Personen**
 
-<sup>1</sup> Im ersten Wahlgang ist gewählt, wer das absolute Mehr der gültigen Listen erreicht hat, wobei die Enthaltungen und die leeren Listen nicht gezählt werden.
+<sup>1</sup> Im ersten Wahlgang ist gewählt, wer das absolute Mehr der gültigen amtlichen Wahlzettel zum Ankreuzen erreicht hat, wobei die Enthaltungen und die leeren amtlichen Wahlzettel zum Ankreuzen nicht gezählt werden.
 
 <sup>2</sup> Haben im ersten Wahlgang mehr Kandidatinnen und Kandidaten das absolute Mehr erreicht, als Sitze zu besetzen sind, so sind nach Massgabe der zu besetzenden Sitze die Personen mit den meisten Stimmen gewählt.
 
@@ -1404,27 +1486,37 @@ beschliesst:
 
 <sup>1</sup> Verbleiben nach dem ersten Wahlgang noch freie Sitze, so wird ein zweiter Wahlgang durchgeführt, der grundsätzlich 21 Tage nach dem ersten stattfindet.
 
-<sup>2</sup> Am zweiten Wahlgang können die im ersten Wahlgang nicht gewählten Personen teilnehmen, wobei ihre Zahl die doppelte Zahl der noch zu besetzenden Sitze nicht überschreiten darf. Übersteigt sie diese Zahl, so werden die Personen mit den wenigsten Stimmen gestrichen.
+<sup>2</sup> Am zweiten Wahlgang können die im ersten Wahlgang nicht gewählten Personen teilnehmen, wobei ihre Zahl die doppelte Zahl der noch zu besetzenden Sitze nicht überschreiten darf. Übersteigt sie diese Zahl, so werden die Personen mit den wenigsten Stimmen gestrichen. Der Rückzug der Kandidatur einer Person, die für den zweiten Wahlgang zugelassen ist, hat keine Auswirkung auf den Platz der ihr nachfolgenden Personen.
 
 <sup>3</sup> Haben mehrere Personen, die für die Teilnahme am zweiten Wahlgang in Frage kommen, dieselbe Stimmenzahl erreicht, so werden jedoch alle zugelassen, selbst wenn die doppelte Zahl der noch zu besetzenden Sitze dadurch überschritten wird.
 
-<sup>4</sup> Am zweiten Wahlgang können nur die Personen teilnehmen, deren Stimmenzahl im ersten Wahlgang mehr als 5 % der Zahl der gültigen Wahllisten betragen hat.
+<sup>4</sup> Am zweiten Wahlgang können nur die Personen teilnehmen, deren Stimmenzahl im ersten Wahlgang mehr als 5 % der Zahl der gültigen amtlichen Wahlzettel zum Ankreuzen betragen hat.
+
+<sup>5</sup> Die Kandidatur einer Person, die am ersten Wahlgang nicht teilgenommen hatte, ist nur zulässig, um eine Kandidatin oder einen Kandidaten zu ersetzen, die oder der nicht mehr wählbar ist und die Stimmenzahl nach Artikel 90 Abs. 4 erreicht hat.
 
 #### Art. 91
 
 **Zweiter Wahlgang – Einreichung der Wahllisten**
 
-<sup>1</sup> Die zum zweiten Wahlgang zugelassenen Personen können ihre Kandidatur zurückziehen. Sie müssen dies bis spätestens am Mittwoch der dritten Woche vor der Wahl um 12 Uhr mitteilen:
+<sup>1</sup> Für die Teilnahme am zweiten Wahlgang muss eine neue Liste eingereicht werden. Nur die politischen Parteien und Wählergruppen, die am ersten Wahlgang teilgenommen haben, können eine solche Wahlliste einreichen.
 
-- a) der Staatskanzlei bei den Ständerats- und Staatsratswahlen;
-- b) dem Oberamt bei der Wahl der Oberamtfrau oder des Oberamtmanns;
-- c) der Gemeindeschreiberei bei den Gemeinderatswahlen.
+- a) …
+- b) …
+- c) …
 
-<sup>2</sup> Die Unterzeichnerinnen und Unterzeichner der Liste, auf der die verzichtende Person figurierte, können bis spätestens am Freitag der dritten Woche vor dem Wahltag um 12 Uhr einen Ersatz vorschlagen. Die Unterzeichnerinnen und Unterzeichner der für den ersten Wahlgang eingereichten Liste, deren Unterschrift nicht mehr eingeholt werden kann, können ersetzt werden.
+<sup>1a</sup> Eine Liste für den zweiten Wahlgang kann auch einreichen, wer die Bedingungen von Artikel 90 Abs. 2‒4 erfüllt.
 
-<sup>2<sup>bis</sup></sup> Für die Personen, die im ersten Wahlgang nicht gewählt wurden und die Stimmenzahl nach Artikel 90 Abs. 4 nicht erreicht haben, können keine Ersatzvorschläge gemacht werden.
+<sup>2</sup> Die Bestimmungen über die Einreichung der Wahllisten für den ersten Wahlgang gelten auch für die Einreichung der Wahllisten für den zweiten Wahlgang. Davon ausgenommen ist Artikel 85, wenn alle Kandidatinnen und Kandidaten auf der Wahlliste am ersten Wahlgang teilgenommen haben. Die Listen müssen bis spätestens am Mittwoch der dritten Woche vor dem Wahltag um 12 Uhr eingereicht werden.
 
-<sup>3</sup> Die Mitteilungen zur Bereinigung der Ersatzkandidaturen müssen bis spätestens am Freitag der dritten Woche vor dem Wahltag um 18 Uhr erfolgen. Andernfalls wird die als Ersatz vorgeschlagene Person gestrichen.
+<sup>2<sup>bis</sup></sup> …
+
+<sup>3</sup> Die Mitteilungen zur Bereinigung der Kandidaturen müssen bis spätestens am Mittwoch der dritten Woche vor dem Wahltag um 18 Uhr erfolgen.
+
+#### Art. 91a
+
+**Zweiter Wahlgang – Amtlicher Wahlzettel**
+
+<sup>1</sup> Wer von seinem Stimmrecht Gebrauch macht, tut dies auch im zweiten Wahlgang mit einem amtlichen Wahlzettel.
 
 #### Art. 92
 
@@ -1470,7 +1562,7 @@ beschliesst:
 
 <sup>2</sup> Ist die Zahl der Kandidatinnen und Kandidaten aller eingereichten Listen gleich gross oder kleiner als die Zahl der zu besetzenden Sitze, so wird eine Wahl gemäss den Bestimmungen über die offene Wahl durchgeführt.
 
-<sup>3</sup> Die eingereichten Listen bleiben gültig. Sie werden gemäss den ordentlichen Bestimmungen gedruckt und verteilt.
+<sup>3</sup> Die eingereichten Listen bleiben gültig.
 
 #### Art. 96
 
@@ -1498,11 +1590,27 @@ beschliesst:
 
 <sup>1</sup> Wurde keine Liste eingereicht, so können die Stimmberechtigten für jede wählbare Person stimmen.
 
+#### Art. 98a
+
+**Stimmabgabe**
+
+<sup>1</sup> Das Stimmrecht wird durch die Verwendung der amtlichen Wahlzettel wahrgenommen; die wie folgt zur Verfügung gestellt werden:
+
+- a) bei offenen Wahlen ohne Kandidatinnen oder Kandidaten in Form eines einzigen amtlichen Wahlzettels zum Ausfüllen, der die Anzahl Linien enthält, die der Anzahl der zu besetzenden Sitze entspricht;
+- b) bei offenen Wahlen mit so vielen Kandidatinnen und Kandidaten wie Sitze zu besetzen sind mit einem amtlichen Wahlzettel zum Ankreuzen und einem amtlichen Wahlzettel zum Ausfüllen;
+- c) bei offenen Wahlen mit weniger Kandidatinnen und Kandidaten als Sitze zu besetzen sind mit einem amtlichen Wahlzettel zum Ankreuzen und Ausfüllen.
+
+<sup>2</sup> Die Person, die von ihrem Stimmrecht Gebrauch macht, vergibt ihre Stimmen, indem sie den amtlichen Wahlzettel handschriftlich ganz oder teilweise ausfüllt.
+
+<sup>3</sup> Es ist verboten, den Namen einer Person mehr als einmal auf demselben amtlichen Wahlzettel aufzuführen; dies gilt sowohl beim Ausfüllen als auch beim Ankreuzen. Die Wiederholung des Namens gilt als nicht geschrieben.
+
+<sup>4</sup> Im Falle von überzähligen Kandidatinnen und Kandidaten werden die Namen bei den amtlichen Wahlzetteln zum Ausfüllen vom Schluss ausgehend gestrichen. Bei amtlichen Wahlzetteln zum Ankreuzen ist Artikel 25 Abs. 1 Bst. a anwendbar. Bei amtlichen Wahlzetteln zum Ankreuzen und Ausfüllen ist Artikel 24 Abs. 2 Bst. c anwendbar.
+
 #### Art. 99
 
 **Erster Wahlgang**
 
-<sup>1</sup> Im ersten Wahlgang werden alle wählbaren Personen für gewählt erklärt, die das absolute Mehr der gültigen Listen erreicht haben, wobei die Enthaltungen und die leeren Listen nicht gezählt werden.
+<sup>1</sup> Im ersten Wahlgang werden die wählbaren Personen als gewählt erklärt, die das absolute Mehr der gültigen amtlichen Wahlzettel erreicht haben, wobei die Enthaltungen und die leeren amtlichen Wahlzettel nicht gezählt werden.
 
 <sup>2</sup> Die Personen, die das absolute Mehr erreicht haben, werden unverzüglich informiert:
 
@@ -1511,7 +1619,7 @@ beschliesst:
 
 <sup>3</sup> Die Personen, die das absolute Mehr erreicht haben, müssen bis spätestens an dem auf den Urnengang folgenden Mittwoch um 12 Uhr erklären, ob sie die Wahl annehmen. Bleibt die Erklärung aus, so gilt die Wahl als abgelehnt.
 
-<sup>4</sup> Das Wahlbüro streicht die Namen der Personen, die die Wahl ablehnen, und der nicht wählbaren Personen.
+<sup>4</sup> Das Wahlbüro streicht die Namen der Personen, welche die Wahl ablehnen, und der nicht wählbaren Personen von den amtlichen Wahlzetteln.
 
 <sup>5</sup> Wenn mehr Personen das absolute Mehr erreicht haben und die Wahl annehmen, als Personen zu wählen sind, so werden nach Massgabe der zu besetzenden Sitze diejenigen Personen mit den wenigsten Stimmen nicht berücksichtigt. Bei Stimmengleichheit entscheidet das Los, das von folgenden Personen gezogen wird:
 
@@ -2126,7 +2234,9 @@ beschliesst:
 
 <sup>3</sup> Der Gemeinderat veröffentlicht das Abstimmungsergebnis im Amtsblatt.
 
-### 4a Berechnung der Fristen
+### 4a
+
+## 4b Berechnung der Fristen
 
 #### Art. 144a
 

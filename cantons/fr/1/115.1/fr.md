@@ -4,13 +4,12 @@ number: "115.1"
 title: "Loi sur l'exercice des droits politiques"
 short: LEDP
 language: fr
-version: 2024-01-01
-valid_until: 2026-06-30
-version_adopted: 2023-10-10
+version: 2026-07-01
+version_adopted: 2025-03-27
 adopted: 2001-04-06
 in_force: 2001-08-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/115.1"
-pdf: "https://bdlf.fr.ch/api/fr/versions/8106/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/8369/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +20,7 @@ Droits politiques – L
 
 (LEDP)
 
-du 06.04.2001 (version entrée en vigueur le 01.01.2024)
+du 06.04.2001 (version entrée en vigueur le 01.07.2026)
 
 Le Grand Conseil du canton de Fribourg
 
@@ -96,7 +95,7 @@ Décrète:
 
 <sup>1</sup> La commune où la personne a déposé ses papiers de légitimation avec l'intention de s'y établir constitue le domicile politique.
 
-<sup>2</sup> La personne qui change de domicile politique après l'échéance du délai de réception du matériel de vote ou du matériel électoral doit produire une déclaration officielle attestant qu'elle n'est plus inscrite au registre électoral de la commune de son précédent domicile politique. Elle peut également remettre à l'autorité communale le matériel déjà reçu.
+<sup>2</sup> La personne qui change de domicile politique après l'échéance du délai de réception du matériel de vote doit produire une déclaration officielle attestant qu'elle n'est plus inscrite au registre électoral de la commune de son précédent domicile politique. Elle peut également remettre à l'autorité communale le matériel déjà reçu.
 
 <sup>3</sup> Si la personne qui change de domicile politique n'est pas inscrite au registre électoral de son nouveau domicile, elle exerce son droit de vote à son ancien domicile politique.
 
@@ -144,7 +143,7 @@ Décrète:
 
 **Nomination**
 
-<sup>1</sup> Au plus tard lors de l'envoi du matériel de vote ou du matériel électoral, le conseil communal nomme un bureau électoral composé de personnes exerçant leurs droits politiques dans la commune. Il peut désigner des suppléants ou suppléantes.
+<sup>1</sup> Au plus tard lors de l'envoi du matériel de vote, le conseil communal nomme un bureau électoral composé de personnes exerçant leurs droits politiques dans la commune. Il peut désigner des suppléants ou suppléantes.
 
 <sup>2</sup> Le conseil communal tient compte équitablement des partis ou groupes politiques représentés dans la commune. Ceux-ci peuvent faire des propositions dans les délais fixés par le règlement d'exécution de la présente loi.
 
@@ -224,12 +223,12 @@ Décrète:
 
 #### Art. 12
 
-**Matériel de vote et matériel électoral**
+**Matériel de vote**
 
 <sup>1</sup> Avant tout scrutin fédéral, cantonal ou communal, chaque personne habile à voter reçoit, par l'intermédiaire du secrétariat communal:
 
 - a) le certificat de capacité civique, comprenant un code ou une autre solution électronique attestant de la capacité civique, ainsi que les mentions prévues dans le règlement d'exécution;
-- b) le matériel de vote et d'information prévu dans le règlement d'exécution.
+- b) le matériel de vote et le matériel d'information prévus par la présente loi et son règlement d'exécution.
 
 <sup>2</sup> Les délais pour la réception du matériel de vote sont les suivants:
 
@@ -330,7 +329,11 @@ Décrète:
 
 <sup>2</sup> Après avoir été enregistrée et sitôt le sceau communal apposé sur son matériel de vote, elle remet son certificat de capacité civique à un scrutateur ou une scrutatrice qui proclame son nom.
 
-<sup>3</sup> La personne exerçant son droit de vote dépose elle-même dans l'urne l'enveloppe de vote contenant le bulletin de vote ou la liste électorale.
+<sup>3</sup> La personne exerçant son droit de vote dépose elle-même dans l'urne l'enveloppe de vote contenant:
+
+- a) pour les votations, le bulletin de vote;
+- b) pour les élections selon le système proportionnel, une liste électorale officielle (art. 58 al. 1);
+- c) pour les élections selon le système majoritaire, le bulletin électoral officiel (art. 37a).
 
 #### Art. 18
 
@@ -338,11 +341,11 @@ Décrète:
 
 <sup>1</sup> Dès réception du matériel de vote, toute personne peut exercer son droit de vote de manière anticipée, par correspondance ou par dépôt.
 
-<sup>2</sup> Elle doit apposer sa signature sur le certificat de capacité civique, sous peine de nullité de son vote.
+<sup>2</sup> Elle doit apposer sa signature sur le certificat de capacité civique, sous peine de non-prise en compte de son vote.
 
-<sup>2<sup>bis</sup></sup> La personne incapable d'écrire peut faire compléter son bulletin de vote ou sa liste électorale, puis faire signer le certificat de capacité civique par une personne de son choix capable d'exercer les droits civils. Cette dernière adjoint, de manière lisible, son nom, son prénom et son adresse complète à sa signature.
+<sup>2<sup>bis</sup></sup> La personne incapable d'écrire peut faire compléter son bulletin de vote, sa liste électorale officielle ou son bulletin électoral officiel, puis faire signer le certificat de capacité civique par une personne de son choix capable d'exercer les droits civils. Cette dernière adjoint, de manière lisible, son nom, son prénom et son adresse complète à sa signature.
 
-<sup>3</sup> L'enveloppe-réponse fermée, contenant le certificat de capacité civique et l'enveloppe de vote dans laquelle se trouve uniquement le bulletin de vote ou la liste électorale, doit être:
+<sup>3</sup> L'enveloppe-réponse fermée, contenant le certificat de capacité civique et l'enveloppe de vote dans laquelle se trouve uniquement le bulletin de vote, la liste électorale officielle ou le bulletin électoral officiel, doit être:
 
 - a) soit postée de manière à parvenir au bureau électoral avant la clôture du scrutin. Les frais de port sont en principe à la charge de la personne votant. Les enveloppes non ou insuffisamment affranchies sont refusées;
 - b) soit déposée auprès du secrétariat communal ou à l'endroit fixé par le conseil communal, au plus tard le dimanche avant l'ouverture du local de vote.
@@ -407,13 +410,13 @@ Décrète:
 
 **Dépouillement – Principe**
 
-<sup>1</sup> Dès la clôture du scrutin, le bureau électoral procède à l'ouverture des urnes et entreprend le dépouillement des bulletins de vote ou des listes électorales.
+<sup>1</sup> Dès la clôture du scrutin, le bureau électoral procède à l'ouverture des urnes et entreprend le dépouillement des bulletins de vote, des listes électorales officielles ou des bulletins électoraux officiels.
 
-<sup>2</sup> Le dépouillement des bulletins de vote ou des listes électorales rentrés par correspondance et par dépôt peut cependant être entrepris le matin du dimanche du scrutin.
+<sup>2</sup> Le dépouillement des bulletins de vote, des listes électorales officielles ou des bulletins électoraux officiels rentrés par correspondance et par dépôt peut cependant être entrepris le matin du dimanche du scrutin.
 
-<sup>3</sup> Le bureau électoral se détermine sur la validité des bulletins de vote ou des listes électorales.
+<sup>3</sup> Le bureau électoral se détermine sur la validité des bulletins de vote, des listes électorales officielles ou des bulletins électoraux officiels.
 
-<sup>4</sup> Le nombre de personnes qui votent est déterminé par le nombre de bulletins de vote ou de listes électorales déposés.
+<sup>4</sup> Le nombre de personnes qui votent est déterminé par le nombre de bulletins de vote, de listes électorales officielles ou de bulletins électoraux officiels déposés.
 
 #### Art. 22a
 
@@ -428,15 +431,15 @@ Décrète:
 
 #### Art. 22b
 
-**Dépouillement – Utilisation de lecteurs optiques a) Autorisation**
+**Dépouillement – Utilisation de moyens techniques a) Autorisation**
 
-<sup>1</sup> Les communes peuvent, avec l'accord de la Chancellerie d'Etat, utiliser des lecteurs optiques pour procéder au dépouillement des bulletins de vote communaux, cantonaux et fédéraux.
+<sup>1</sup> Les communes peuvent, avec l'accord de la Chancellerie d'Etat, utiliser des moyens techniques pour procéder au dépouillement des bulletins de vote communaux, cantonaux et fédéraux ainsi que des bulletins électoraux officiels.
 
 #### Art. 22c
 
-**Dépouillement – Utilisation de lecteurs optiques b) Bulletins de vote**
+**Dépouillement – Utilisation de moyens techniques b) Bulletins de vote**
 
-<sup>1</sup> Les bulletins de vote compatibles avec les lecteurs optiques sont établis par les communes concernées, de manière que l'exercice du droit de vote puisse se faire sans confusion.
+<sup>1</sup> Les bulletins de vote compatibles avec les moyens techniques sont établis par les communes concernées, de manière que l'exercice du droit de vote puisse se faire sans confusion.
 
 <sup>2</sup> Tous les objets présentés en votations communales, cantonales et fédérales sont, dans la mesure du possible, rassemblés sur un même bulletin de vote.
 
@@ -444,9 +447,19 @@ Décrète:
 
 <sup>4</sup> Les frais d'établissement et d'impression de ces bulletins de vote sont à la charge des communes concernées. Les frais d'une éventuelle réimpression incombent à la collectivité qui en est responsable.
 
+#### Art. 22d
+
+**Dépouillement – Utilisation de moyens techniques c) Bulletins électoraux officiels**
+
+<sup>1</sup> Les bulletins électoraux officiels sont établis par l'organe compétent au sens de l'article 58 al. 1a.
+
+<sup>2</sup> Ils sont établis conformément à l'article 37b et à la règlementation d'exécution qui garantit leur compatibilité avec les moyens techniques utilisés.
+
+<sup>3</sup> Les frais d'établissement et d'impression des bulletins électoraux officiels sont régis par l'article 38.
+
 #### Art. 23
 
-**Bulletins blancs et nuls**
+**Bulletins de vote blancs et nuls**
 
 <sup>1</sup> Sont déclarés blancs les bulletins qui ne portent aucune réponse à la question soumise au vote. Si un bulletin comprend plus d'une question, les questions restées sans réponse sont déclarées votes blancs.
 
@@ -483,6 +496,22 @@ Décrète:
 - i) qui, imprimées, portent des noms et prénoms de candidats ou candidates inscrits sur des listes déposées différentes ou ne reproduisent pas, en suivant l'ordre des noms et prénoms, l'une ou l'autre des listes officielles;
 - j) qui portent un signe destiné ou propre à identifier la personne qui vote;
 - k) qui, insérées en plusieurs exemplaires dans une même enveloppe, ne sont pas identiques.
+
+#### Art. 24a
+
+**Bulletins électoraux officiels en blanc ou nuls**
+
+<sup>1</sup> En cas d'élection selon le mode de scrutin majoritaire, sont déclarés bulletins électoraux officiels en blanc, les bulletins qui ne comportent aucun suffrage, c'est-à-dire:
+
+- a) qui ne comportent aucune case cochée s'agissant des bulletins électoraux officiels à cocher;
+- b) qui ne comportent aucun nom s'agissant des bulletins électoraux officiels à remplir;
+- c) qui ne comportent aucune case cochée et aucun nom s'agissant des bulletins électoraux officiels à cocher et à remplir.
+
+<sup>2</sup> Sont déclarés nuls les bulletins électoraux officiels:
+
+- a) qui remplissent par analogie l'une des conditions de nullité au sens de l'article 24 al. 2 let. a, b, c, d, e, g, h, i, j et k;
+- b) qui comportent plus de cases cochées qu'il y a de sièges à pourvoir s'agissant des bulletins électoraux officiels à cocher;
+- c) qui comportent un total des cases cochées et des noms ajoutés supérieur au nombre de sièges à pourvoir s'agissant des bulletins électoraux officiels à cocher et à remplir.
 
 #### Art. 25
 
@@ -633,7 +662,20 @@ Décrète:
 
 ## 3 Elections
 
-### 3.1 Listes électorales
+### 3.1 Listes électorales et bulletins électoraux officiels
+
+#### Art. 35a
+
+**Listes électorales**
+
+<sup>1</sup> Les listes électorales sont établies par les partis, les groupes d'électeurs et électrices ou les personnes candidates.
+
+<sup>2</sup> Elles deviennent définitives suite aux opérations de toilettage, remplacement et rectification selon les articles 56 et 57, conformément à l'article 58.
+
+<sup>3</sup> Les listes électorales définitives servent:
+
+- a) à l'exercice du droit de vote des électeurs et électrices lors des élections selon le mode de scrutin proportionnel conformément à l'article 68; elles sont alors qualifiées de listes électorales officielles;
+- b) à l'élaboration du bulletin électoral officiel lors des élections selon le mode de scrutin majoritaire conformément aux articles 37a, 37b, 37c et 37d.
 
 #### Art. 36
 
@@ -669,32 +711,70 @@ Décrète:
 
 <sup>4</sup> Dans le cas des élections cantonales ou communales, la décision est susceptible de recours conformément aux articles 150 et suivants.
 
+#### Art. 37a
+
+**Bulletin électoral officiel – Principes**
+
+<sup>1</sup> En cas d'élection selon le mode de scrutin majoritaire, la personne exerçant son droit de vote le fait en se servant d'un bulletin électoral officiel.
+
+<sup>2</sup> Le bulletin électoral officiel se présente sous la forme d'un bulletin électoral officiel à cocher lorsque l'élection a lieu selon les règles ordinaires et sous la forme d'un bulletin électoral à cocher, d'un bulletin électoral à remplir ou d'un bulletin électoral à cocher et à remplir lorsque l'élection est une élection ouverte ou une élection se déroulant selon les règles de l'élection ouverte.
+
+#### Art. 37b
+
+**Bulletin électoral officiel – Bulletin électoral officiel à cocher**
+
+<sup>1</sup> Le bulletin électoral officiel à cocher présente chaque liste dans l'ordre du numéro qui lui est attribué en application de l'article 58. Au sein de chaque liste, il présente les personnes candidates dans l'ordre qu'elles occupent sur leur liste.
+
+<sup>2</sup> Le bulletin électoral officiel à cocher peut comporter, pour les listes des partis ou groupes d'électeurs et électrices qui ont conclu une alliance, une indication du nom de l'alliance.
+
+<sup>3</sup> Le règlement d'exécution peut contenir des précisions sur la présentation du bulletin électoral officiel à cocher. La compatibilité avec les moyens techniques doit être garantie.
+
+#### Art. 37c
+
+**Bulletin électoral officiel – Bulletin électoral officiel à remplir**
+
+<sup>1</sup> Le bulletin électoral officiel à remplir est blanc et comporte autant de lignes à remplir qu'il y a de sièges à pourvoir.
+
+<sup>2</sup> Le règlement d'exécution peut contenir des précisions sur la présentation du bulletin électoral officiel à remplir.
+
+#### Art. 37d
+
+**Bulletin électoral officiel – Bulletin électoral officiel à cocher et à remplir**
+
+<sup>1</sup> Le bulletin électoral officiel à cocher et à remplir comporte autant de personnes candidates à cocher et de lignes à remplir qu'il y a de sièges à pourvoir.
+
+<sup>2</sup> Le règlement d'exécution peut contenir des précisions sur la présentation du bulletin électoral officiel à cocher et à remplir.
+
 #### Art. 38
 
-**Prise en charge de l'impression des listes électorales**
+**Prise en charge de l'impression des listes électorales officielles et des bulletins électoraux officiels**
 
-<sup>1</sup> Lors des élections cantonales, l'Etat organise l'impression des listes électorales et en assume les frais.
+<sup>1</sup> Lors des élections cantonales, l'Etat organise et finance l'impression des listes électorales officielles et des bulletins électoraux officiels.
 
 <sup>2</sup> …
 
-<sup>3</sup> Lors des élections communales, le conseil communal décide:
+<sup>3</sup> Lors des élections communales selon le mode de scrutin proportionnel, le conseil communal décide:
 
-- a) de l'organisation ou non par la commune de l'impression des listes électorales;
+- a) de l'organisation ou non par la commune de l'impression des listes électorales officielles;
 - b) du financement, en tout ou partie, des frais d'impression.
+
+<sup>4</sup> Lors des élections communales selon le mode de scrutin majoritaire, les communes organisent et financent l'impression des bulletins électoraux officiels.
 
 #### Art. 39
 
-**Contenu des listes électorales**
+**Contenu des listes électorales officielles et des bulletins électoraux officiels**
 
-<sup>1</sup> Les listes électorales en blanc ainsi que les listes imprimées remises aux électeurs et électrices doivent porter les mentions prévues dans le règlement d'exécution.
+<sup>1</sup> Les listes électorales en blanc, les listes imprimées ainsi que les bulletins électoraux officiels remis aux électeurs et électrices doivent porter les mentions prévues dans le règlement d'exécution.
 
 #### Art. 40
 
-**Distribution des listes électorales**
+**Distribution des listes électorales officielles et des bulletins électoraux officiels**
 
-<sup>1</sup> Lors des élections cantonales, les listes électorales déposées sont distribuées par la commune, à ses frais.
+<sup>1</sup> Lors des élections cantonales, les listes électorales officielles déposées sont distribuées par la commune, à ses frais.
 
-<sup>2</sup> Lors des élections communales, les partis politiques ou groupes d'électeurs et électrices peuvent faire distribuer leurs listes électorales par la commune, aux frais de celle-ci.
+<sup>2</sup> Lors des élections communales selon le mode de scrutin proportionnel, les partis politiques ou groupes d'électeurs et électrices peuvent faire distribuer leurs listes électorales officielles par la commune, aux frais de celle-ci.
+
+<sup>2a</sup> Les bulletins électoraux officiels sont distribués par la commune, à ses frais.
 
 <sup>3</sup> En vue de leur distribution aux frais de la commune, les listes électorales imprimées par les partis ou groupes d'électeurs et électrices doivent être remises au plus tard le lundi de la quatrième semaine précédant le dimanche fixé pour l'élection et, en cas de second tour, au plus tard le mardi de la deuxième semaine précédant le dimanche fixé pour l'élection, jusqu'à 12 heures.
 
@@ -890,7 +970,7 @@ Décrète:
 
 **Candidatures multipliées**
 
-<sup>1</sup> Pour les élections se déroulant selon le mode de scrutin proportionnel, si une personne est portée candidate sur plus d'une liste, son nom est immédiatement éliminé de toutes les listes.
+<sup>1</sup> Si une personne est portée candidate sur plus d'une liste, son nom est immédiatement éliminé de toutes les listes.
 
 <sup>2</sup> Pour l'élection au Grand Conseil, si les listes sont déposées dans le même cercle, le nom est éliminé par le préfet ou la préfète; si elles le sont dans des cercles différents, le nom est éliminé par la Chancellerie d'Etat.
 
@@ -932,11 +1012,13 @@ Décrète:
 
 #### Art. 58
 
-**Listes électorales définitives et numéro d'ordre**
+**Listes électorales définitives, numéro d'ordre et bulletin électoral officiel**
 
-<sup>1</sup> Lorsque les opérations d'élimination, de remplacement et de rectification sont terminées, l'organe compétent établit les listes électorales définitives et leur attribue un numéro. Ces listes constituent les listes officielles.
+<sup>1</sup> Lorsque les opérations d'élimination, de remplacement et de rectification sont terminées, l'organe compétent selon l'article 57 al. 1 établit les listes électorales définitives et leur attribue un numéro. Ces listes constituent les listes officielles lorsqu'elles servent à l'exercice du droit de vote.
 
-<sup>2</sup> La publication de listes autres que les listes officielles est interdite.
+<sup>1a</sup> En cas d'élection selon le mode de scrutin majoritaire, l'organe compétent établit le bulletin électoral officiel au moyen des listes électorales définitives.
+
+<sup>2</sup> La publication de listes électorales ou de bulletins électoraux autres que les listes électorales officielles et les bulletins électoraux officiels est interdite.
 
 #### Art. 58a
 
@@ -1306,7 +1388,7 @@ Décrète:
 
 **Personnes élues**
 
-<sup>1</sup> Les personnes qui ont accepté leur élection sont proclamées élues.
+<sup>1</sup> Les personnes qui ont accepté leur élection sont proclamées élues; toutefois, lorsque leur nombre est supérieur au nombre de sièges à pourvoir, c'est la règle de la majorité relative qui s'applique.
 
 <sup>2</sup> Les personnes non élues sont inscrites au procès-verbal dans l'ordre du nombre de suffrages obtenus.
 
@@ -1362,13 +1444,13 @@ Décrète:
 
 **Vote**
 
-<sup>1</sup> La personne exerçant son droit de vote peut le faire en se servant soit d'une liste en blanc, soit d'une liste imprimée.
+<sup>1</sup> La personne exerçant son droit de vote attribue ses suffrages aux personnes candidates en cochant de sa main la case figurant à côté de leur nom sur le bulletin électoral officiel à cocher.
 
-<sup>2</sup> Si elle utilise une liste en blanc, elle doit la remplir de sa main, entièrement ou partiellement.
+<sup>2</sup> …
 
-<sup>3</sup> Si elle utilise une liste imprimée, elle peut la modifier de sa main en biffant le nom de certaines personnes ou en y inscrivant celui d'autres personnes.
+<sup>3</sup> …
 
-<sup>4</sup> Il est interdit de porter le nom d'une même personne plus d'une fois sur la même liste. La répétition du nom est censée non écrite.
+<sup>4</sup> …
 
 #### Art. 87
 
@@ -1376,7 +1458,7 @@ Décrète:
 
 <sup>1</sup> La personne exerçant son droit de vote dispose d'autant de suffrages qu'il y a de personnes à élire dans le cercle électoral en cause.
 
-<sup>2</sup> Le nom des personnes en surnombre est supprimé à commencer par le bas de la liste et, le cas échéant, de gauche à droite.
+<sup>2</sup> …
 
 #### Art. 88
 
@@ -1392,7 +1474,7 @@ Décrète:
 
 **Désignation des personnes élues au premier tour de scrutin**
 
-<sup>1</sup> Au premier tour de scrutin, sont élues les personnes qui ont obtenu la majorité absolue des listes valables, les abstentions et les listes en blanc n'étant pas comptées.
+<sup>1</sup> Au premier tour de scrutin, sont élues les personnes qui ont obtenu la majorité absolue des bulletins électoraux officiels à cocher valables, les abstentions et les bulletins électoraux officiels à cocher en blanc n'étant pas comptés.
 
 <sup>2</sup> Si le premier tour de scrutin donne la majorité absolue à plus de personnes qu'il n'y a de sièges à pourvoir, celles qui ont obtenu le plus de suffrages sont élues, à concurrence du nombre de sièges disponibles.
 
@@ -1404,27 +1486,37 @@ Décrète:
 
 <sup>1</sup> Si, après le premier tour de scrutin, il reste des sièges à pourvoir, il est procédé à un second tour de scrutin qui a lieu, en principe, vingt et un jours après le premier.
 
-<sup>2</sup> Peuvent participer au second tour de scrutin les personnes non élues au premier tour, à concurrence du double des sièges qui restent à pourvoir. Si les candidatures dépassent ce nombre, celles qui ont obtenu le moins de suffrages sont éliminées.
+<sup>2</sup> Peuvent participer au second tour de scrutin les personnes non élues au premier tour, à concurrence du double des sièges qui restent à pourvoir. Si les candidatures dépassent ce nombre, celles qui ont obtenu le moins de suffrages sont éliminées. Le retrait d'une personne qualifiée pour le second tour n'a pas d'effet sur le rang des personnes qui la suivent.
 
 <sup>3</sup> Toutefois, les personnes à égalité de suffrages pour prendre rang au second tour de scrutin sont toutes admises, même si le nombre du double des sièges qui restent à pourvoir est ainsi dépassé.
 
-<sup>4</sup> En outre, seules peuvent participer au second tour de scrutin les personnes qui ont obtenu au premier tour un nombre de suffrages supérieur à 5 % du nombre de listes électorales valables.
+<sup>4</sup> En outre, seules peuvent participer au second tour de scrutin les personnes qui ont obtenu au premier tour un nombre de suffrages supérieur à 5 % du nombre de bulletins électoraux officiels à cocher valables.
+
+<sup>5</sup> La candidature d'une personne qui n'a pas participé au premier tour n'est admise que pour remplacer un candidat ou une candidate devenu‑e inéligible entretemps et qui avait obtenu le nombre de suffrages prévu à l'article 90 al. 4.
 
 #### Art. 91
 
-**Second tour de scrutin – Retraits de candidatures et remplacement**
+**Second tour de scrutin – Dépôt des listes électorales**
 
-<sup>1</sup> Les personnes prenant rang pour le second tour de scrutin peuvent se retirer. Elles doivent en informer, au plus tard le mercredi de la troisième semaine précédant le jour de l'élection, jusqu'à 12 heures:
+<sup>1</sup> La participation au second tour implique le dépôt d'une nouvelle liste. Seuls peuvent déposer une telle liste les partis politiques et les groupements d'électeurs ou d'électrices qui ont participé au premier tour.
 
-- a) la Chancellerie d'Etat, dans le cas des élections au Conseil des Etats et au Conseil d'Etat;
-- b) la préfecture, dans le cas de l'élection à la fonction de préfet ou préfète;
-- c) le secrétariat communal, dans le cas de l'élection au conseil communal.
+- a) …
+- b) …
+- c) …
 
-<sup>2</sup> Les signataires de la liste sur laquelle ces personnes figuraient peuvent, au plus tard le vendredi de la troisième semaine précédant le jour de l'élection, jusqu'à 12 heures, présenter des candidatures de remplacement. Les personnes qui ont signé la liste déposée pour le premier tour mais dont la signature ne peut plus être obtenue peuvent être remplacées.
+<sup>1a</sup> Peut également déposer une liste pour le second tour la personne qui remplit les conditions de l'article 90 al. 2 à 4.
 
-<sup>2<sup>bis</sup></sup> Il ne peut être présenté de candidature de remplacement pour les personnes non élues qui n'ont pas obtenu le nombre de suffrages prévu à l'article 90 al. 4.
+<sup>2</sup> Les dispositions relatives au dépôt des listes pour le premier tour sont applicables pour le dépôt des listes au second tour, à l'exception de l'article 85 si tous les candidats et candidates qu'elles présentent ont participé au premier tour. Les listes doivent être déposées au plus tard le mercredi de la troisième semaine précédant le jour de l'élection, jusqu'à 12 heures.
 
-<sup>3</sup> Les opérations de mise au point des candidatures de remplacement doivent être communiquées au plus tard le vendredi de la troisième semaine précédant le jour de l'élection, jusqu'à 18 heures. A défaut, la candidature de la personne proposée en remplacement est éliminée.
+<sup>2<sup>bis</sup></sup> …
+
+<sup>3</sup> Les opérations de mise au point des candidatures doivent être communiquées au plus tard le mercredi de la troisième semaine précédant le jour de l'élection, jusqu'à 18 heures.
+
+#### Art. 91a
+
+**Second tour de scrutin – Bulletin électoral officiel**
+
+<sup>1</sup> La personne exerçant son droit de vote le fait également au moyen d'un bulletin électoral officiel au second tour de scrutin.
 
 #### Art. 92
 
@@ -1470,7 +1562,7 @@ Décrète:
 
 <sup>2</sup> Si le nombre des personnes candidates de toutes les listes déposées est égal ou inférieur à celui des sièges à pourvoir, il est procédé à une élection qui a lieu selon les règles de l'élection ouverte.
 
-<sup>3</sup> Les listes déposées restent valables. Elles sont imprimées et distribuées selon les règles ordinaires.
+<sup>3</sup> Les listes déposées restent valables.
 
 #### Art. 96
 
@@ -1498,11 +1590,27 @@ Décrète:
 
 <sup>1</sup> Si aucune liste électorale n'a été déposée, le corps électoral peut voter pour toute personne éligible.
 
+#### Art. 98a
+
+**Vote**
+
+<sup>1</sup> Le droit de vote s'exerce en utilisant les bulletins électoraux officiels, lesquels sont mis à disposition comme suit:
+
+- a) pour les élections ouvertes sans candidats ou candidates, sous la forme d'un seul bulletin électoral officiel à remplir comportant le nombre de lignes correspondant au nombre de sièges à pourvoir;
+- b) pour les élections ouvertes comportant autant de candidats que de sièges à pourvoir, au moyen d'un bulletin électoral officiel à cocher et d'un bulletin électoral officiel à remplir;
+- c) pour les élections ouvertes comportant moins de candidats que de sièges à pourvoir, au moyen d'un bulletin électoral officiel à cocher et à remplir.
+
+<sup>2</sup> La personne exerçant son droit de vote attribue ses suffrages en remplissant le bulletin électoral officiel de sa main, entièrement ou partiellement.
+
+<sup>3</sup> Il est interdit de porter le nom d'une même personne plus d'une fois sur le même bulletin électoral officiel, que ce soit en le remplissant ou en le cochant. La répétition du nom est censée non écrite.
+
+<sup>4</sup> En cas de personnes candidates en surnombre, les noms sont supprimés à commencer par le bas pour les bulletins électoraux officiels à remplir. Pour les bulletins électoraux officiels à cocher, l'article 25 al. 1 let. a est applicable. Pour les bulletins électoraux officiels à cocher et à remplir, l'article 24 al. 2 let. c est applicable.
+
 #### Art. 99
 
 **Premier tour de scrutin**
 
-<sup>1</sup> Au premier tour de scrutin, sont proclamées élues les personnes éligibles qui ont obtenu la majorité absolue des listes valables, les abstentions et les listes en blanc n'étant pas comptées.
+<sup>1</sup> Au premier tour de scrutin, sont proclamées élues les personnes éligibles qui ont obtenu la majorité absolue des bulletins électoraux officiels valables, les abstentions et les bulletins électoraux officiels en blanc n'étant pas comptés.
 
 <sup>2</sup> Les personnes qui ont atteint la majorité absolue en sont immédiatement informées par:
 
@@ -1511,7 +1619,7 @@ Décrète:
 
 <sup>3</sup> Les personnes ayant obtenu la majorité absolue doivent indiquer, jusqu'au mercredi suivant le jour du scrutin, à 12 heures au plus tard, si elles acceptent leur élection. Tout défaut de réponse est considéré comme un refus de l'élection.
 
-<sup>4</sup> Le bureau électoral raye des listes le nom des personnes qui refusent l'élection ainsi que celui des personnes inéligibles.
+<sup>4</sup> Le bureau électoral raye des bulletins électoraux officiels le nom des personnes qui refusent l'élection ainsi que celui des personnes inéligibles.
 
 <sup>5</sup> S'il y a plus de personnes ayant obtenu la majorité absolue et acceptant leur élection qu'il n'y a de personnes à élire, celles qui ont obtenu le moins de suffrages ne sont pas prises en considération, jusqu'à concurrence du nombre de sièges à pourvoir. En cas d'égalité de suffrages, il est procédé à un tirage au sort:
 
@@ -2126,7 +2234,9 @@ Décrète:
 
 <sup>3</sup> Le conseil communal publie le résultat de la votation dans la Feuille officielle.
 
-### 4a Calcul des délais
+### 4a
+
+## 4b Calcul des délais
 
 #### Art. 144a
 
