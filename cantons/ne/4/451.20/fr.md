@@ -1,0 +1,232 @@
+---
+canton: NE
+number: "451.20"
+title: Loi sur la formation musicale (LFMC)
+short: LFMC
+language: fr
+version: 2026-07-01
+adopted: 2025-09-30
+url: "https://rsn.ne.ch/DATA/program/books/rsne/htm/451.20.htm"
+---
+
+> Reproduction non officielle du recueil systématique du canton NE. Seule la publication officielle du canton fait foi.
+
+# Loi sur la formation musicale (LFMC)
+30 septembre 2025[^t-1]
+
+État au 1<sup>er</sup> juillet 2026
+
+Le Grand Conseil de la République et Canton de Neuchâtel,
+
+vu l’article 5, alinéa 1, lettres *c* et *n*, de la Constitution de la République et Canton de Neuchâtel (Cst. NE), du 24 septembre 2000[^t-2] ;
+
+vu le décret approuvant l’initiative législative populaire « Pour le maintien d’une formation musicale professionnelle dans le Canton de Neuchâtel », du 18 février 2020 ;
+
+vu le rapport du Conseil d'État, du 11 septembre 2024,
+
+décrète :
+
+[^t-1]: (\*) FO 2025 No 40
+[^t-2]: RSN 101
+
+## CHAPITRE 1 Dispositions générales
+
+#### Article premier
+
+**But**
+
+<sup>1</sup> La présente loi régit :
+
+- *a)* le Conservatoire de musique neuchâtelois (ci-après : CMNE) ;
+- *b)* les relations avec la haute école qui offrira, sur sol cantonal, une formation musicale accréditée permettant la délivrance de titres de Bachelor et Master of Arts (ci-après : la haute école).
+
+<sup>2</sup> Elle organise l’offre cantonale de formation et de pratique de la musique, ainsi que l’intégration et la collaboration de ces deux écoles au sein des milieux musicaux cantonaux.
+
+#### Art. 2
+
+**Objectifs généraux des écoles**
+
+Le CMNE et la haute école (ci-après : les écoles) ont pour objectifs généraux de :
+
+- *a)* permettre à leurs élèves de pratiquer la musique, de s’y former et de se perfectionner ;
+- *b)* développer la culture et la vie musicale dans le canton, voire au-delà, et proposer à leurs élèves d’intégrer des projets allant dans ce sens.
+
+#### Art. 3
+
+**Principes de gouvernance**
+
+<sup>1</sup> Le Conseil d’État exerce la surveillance de l’activité du CMNE, respectivement il veille au respect des engagements et de la convention passée s’agissant de la haute école. Il s’assure, dans la mesure de ses compétences, du respect des normes régissant l’activité étatique, ainsi que, au besoin, de la qualité et de l’adéquation de l’enseignement.
+
+<sup>2</sup> Il désigne le département chargé d’appliquer la présente loi (ci-après : le département).
+
+#### Art. 4
+
+**Collaborations**
+
+Dans la mesure du possible, les écoles collaborent entre elles ainsi qu’avec d’autres partenaires culturels, en particulier du canton, tels que sociétés locales, institutions musicales et théâtres, écoles et autres institutions de formation.
+
+#### Art. 5
+
+**Commission inter-écoles**
+
+<sup>1</sup> Une commission inter-écoles rassemble deux représentant-e-s du CMNE et, dans la mesure de son acceptation, un-e ou deux représentant-e-s de la haute école.
+
+<sup>2</sup> La direction des écoles désigne les représentant-e-s.
+
+<sup>3</sup> La commission vise, par le dialogue, à enrichir la coopération des deux écoles entre elles, ainsi qu’à favoriser leur apport commun à la vie culturelle du canton. Elle vise à favoriser, entre autres :
+
+- *a)* la continuité de la formation entre la filière préprofessionnelle du Conservatoire et un enseignement professionnel ;
+- *b)* la mise en place d’échanges et d’activités communes entre élèves ou professeur-e-s des deux écoles ;
+- *c)* le partage d’informations et l’élaboration en commun de projets en lien avec les acteurs musicaux ou culturels dans le canton, voire au-delà ;
+- *d)* la communication autour des actions des deux écoles.
+
+#### Art. 6
+
+**Financement**
+
+<sup>1</sup> L’État assume les charges d’investissement et de fonctionnement du Conservatoire.
+
+<sup>2</sup> La haute école peut être mise au bénéfice de subventions, conformément aux dispositions du chapitre 3 ci-après.
+
+## CHAPITRE 2 Du Conservatoire de musique neuchâtelois
+
+### Section 1 : Structure et activités
+
+#### Art. 7
+
+**Structure**
+
+Le Conservatoire de musique neuchâtelois est un établissement cantonal non doté de la personnalité juridique et relevant de l’administration cantonale.
+
+#### Art. 8
+
+**Missions, organisation et enseignements**
+
+<sup>1</sup> Le CMNE a pour but l’enseignement amateur et préprofessionnel de la musique, ainsi que le développement de la culture musicale en général sur tout le territoire cantonal.
+
+<sup>2</sup> Le Conseil d’État réglemente l’organisation et la gestion du CMNE. Le département détermine les types d’enseignement, les éventuelles filières, le règlement des études et des examens, ainsi que les titres délivrés.
+
+#### Art. 9
+
+**Commission consultative**
+
+<sup>1</sup> Une commission consultative assiste les organes de l’État dans ce qui se rapporte au CMNE. Ses sept membres, dont la personne qui préside, sont désignés en début de législature par le Conseil d’État.
+
+<sup>2</sup> Un-e délégué-e des enseignant-e-s et un-e délégué-e des élèves participent, avec voix consultative.
+
+<sup>3</sup> La commission est saisie à l’occasion de réglementations concernant les questions essentielles en matière d’enseignement ou de nomination de professeur-e-s ; elle est informée de la marche de l’établissement et peut être sollicitée pour se prononcer sur d’autres aspects.
+
+### Section 2 : Direction, corps professoral et personnel administratif
+
+#### Art. 10
+
+**Direction**
+
+<sup>1</sup> La direction du CMNE est assumée par une directrice ou un directeur, qui porte la responsabilité pédagogique, artistique, administrative et financière de l’école.
+
+<sup>2</sup> La directrice ou le directeur est épaulé-e par des adjoint-e-s et assisté-e d’une administratrice ou d’un administrateur, chargé-e en particulier des finances.
+
+<sup>3</sup> D’autres responsables peuvent être désigné-e-s au sein du corps professoral, pour une période déterminée, par la directrice ou le directeur.
+
+#### Art. 11
+
+**Personnel de direction et d’enseignement**
+
+<sup>1</sup> La directrice ou le directeur, ses adjoint-e-s et les professeur-e-s sont nommé-e-s par le Conseil d’État, sous réserve de délégation de cette tâche au département.
+
+<sup>2</sup> Les professeur-e-s interviennent en fonction des enseignements qui peuvent leur être attribués par la direction.
+
+<sup>3</sup> Les chargé-e-s de cours et remplaçant-e-s sont désigné-e-s par la directrice ou le directeur.
+
+[^11-1]: RSN 152.510
+
+#### Art. 12
+
+**Statut de la fonction publique**
+
+<sup>1</sup> La loi sur le statut de la fonction publique (LSt), du 28 juin 1995[^11-1], est applicable à la direction, au corps professoral et au personnel administratif du CMNE, dans la mesure où la présente loi n’en dispose pas autrement.
+
+<sup>2</sup> Pour combler le besoin avéré d’un enseignement spécifique et à temps très partiel qui ne pourrait sinon être assuré de manière adéquate, un-e professeur-e domicilié-e à l’étranger peut être employé-e durablement par contrat de droit privé.
+
+<sup>3</sup> Le Conseil d’État adopte en tant que besoin la réglementation particulière applicable au personnel administratif et au corps professoral de l’institution.
+
+### Section 3 : Dispositions financières
+
+#### Art. 13
+
+**Tarifs**
+
+<sup>1</sup> Le Conseil d’État fixe les écolages et émoluments pouvant être perçus par le CMNE ; il peut tenir compte de l’âge, de la capacité contributive et du domicile des bénéficiaires, élèves ou personnes dont ils dépendent, ainsi que de la nature et de la durée du cours.
+
+<sup>2</sup> L’écolage de base ne peut dépasser 5'000 francs par semestre par participant-e à un cours.
+
+<sup>3</sup> Il peut être réduit de moitié ou doublé en fonction de l’âge ou de la capacité contributive.
+
+<sup>4</sup> Les émoluments administratifs particuliers, perçus notamment à l’inscription, lors de changement de cours ou à l’occasion d’examens, s’élèvent au plus à 300 francs.
+
+<sup>5</sup> Pour les bénéficiaires domiciliés hors canton, les coûts effectifs peuvent en tous les cas être facturés, sans égard aux limites précitées.
+
+<sup>6</sup> Le montant plafond total de l’écolage et des émoluments évolue avec l’IPC, en fonction de l’indice déterminant lors de l’adoption de la présente loi, selon les modalités fixées par le Conseil d’État.
+
+#### Art. 14
+
+**Collaboration intercantonale**
+
+Le Conseil d’État est habilité, pour ce qui relève du CMNE et de ses activités, à négocier et conclure des accords avec d’autres cantons ou les institutions qui en dépendent, en matière de collaboration, d’échanges et de frais d’études.
+
+## CHAPITRE 3 De la haute école
+
+#### Art. 15
+
+**Formation musicale professionnelle**
+
+<sup>1</sup> L’État assure sur son territoire une formation musicale professionnelle accréditée permettant la délivrance de titres de Bachelor et Master of Arts.
+
+<sup>2</sup> À cette fin, le Conseil d’État peut conclure des partenariats avec des tiers, en particulier des hautes écoles.
+
+<sup>3</sup> Il peut octroyer des subventions, y compris en dérogation aux articles 24, 24a et 25 de la loi sur les subventions (LSub), du 1<sup>er</sup> février 1999[^15-1].
+
+[^15-1]: RSN 601.8
+
+#### Art. 16
+
+**Publicité des activités**
+
+<sup>1</sup> Le Conseil d’État invite régulièrement la haute école à faire rapport sur ses activités.
+
+<sup>2</sup> Il assure la publicité de ce rapport. Il veille à souligner les activités en lien avec le canton, sa culture, son attractivité et la formation de ses citoyen-ne-s.
+
+#### Art. 17
+
+**Clause de sauvegarde**
+
+L’offre d’une formation professionnelle au sens des dispositions qui précèdent peut être suspendue, si :
+
+- *a)* la haute école n’assure pas de collaboration suffisante avec le CMNE, ou ;
+- *b)* la haute école n’assure pas d’intégration adéquate dans le paysage musical neuchâtelois, par le biais de collaborations avec les actrices et acteurs du canton ou par l’enseignement à des élèves domicilié-e-s dans le canton, ou ;
+- *c)* les moyens alloués à la haute école excèdent les 40% de ceux alloués au CMNE.
+
+## CHAPITRE 4 Dispositions finales
+
+[^hCHAPITRE4Dispositions-1]: FO 1998 N° 26
+[^hCHAPITRE4Dispositions-2]: FO 2006 N° 50
+
+#### Art. 18
+
+**Abrogation**
+
+La loi sur la Haute école neuchâteloise (HEN), du 24 mars 1998[^hCHAPITRE4Dispositions-1], et la loi sur le Conservatoire de musique neuchâtelois (LCMN), du 27 juin 2006[^hCHAPITRE4Dispositions-2], sont abrogées.
+
+#### Art. 19
+
+**Entrée en vigueur**
+
+<sup>1</sup> La présente loi est soumise au référendum facultatif.
+
+<sup>2</sup> Le Conseil d’État pourvoit, s’il y a lieu, à sa promulgation et à son exécution.
+
+<sup>3</sup> Il fixe la date de son entrée en vigueur.
+
+Loi promulguée par le Conseil d’État le 22 avril 2026.
+
+L’entrée en vigueur est fixée avec effet au 1<sup>er</sup> juillet 2026.
