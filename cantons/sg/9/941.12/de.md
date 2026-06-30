@@ -3,13 +3,12 @@ canton: SG
 number: "941.12"
 title: Gerichtskostenverordnung
 language: de
-version: 2012-03-01
-corrected: 2019-11-04
-version_adopted: 2010-12-09
+version: 2026-07-01
+version_adopted: 2025-12-05
 adopted: 2010-12-09
 in_force: 2012-03-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/941.12"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/1569/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3863/pdf_file"
 text: pdf
 ---
 
@@ -17,22 +16,22 @@ text: pdf
 
 # Gerichtskostenverordnung
 
-vom 9.Dezember 2010 (Stand 1.März 2012)
+vom 9. Dezember 2010 (Stand 1. Juli 2026)
 
 Kantonsgericht und Verwaltungsgericht des Kantons St.Gallen
 
 erlassen
 
-in Ausführung von Art.98 Abs.1 Bst.b und d des Gerichtsgesetzes vom 2.April 1987[^t-1]
+in Ausführung von Art. 98 Abs. 1 Bst. b und d des Gerichtsgesetzes vom 2. April 1987[^t-1]
 
 als Verordnung:[^t-2]
 
 I. Allgemeine Bestimmungen
 
 [^t-1]: sGS 941.1.
-[^t-2]: Im Amtsblatt veröffentlicht am 27.Dezember 2010, ABl 2010, 4042 ff.; in Vollzug ab 1.Januar 2011. Geändert durch Nachtrag vom 29.Dezember 2011, nGS 47–29.
+[^t-2]: Abgekürzt GKV. Im Amtsblatt veröffentlicht am 27. Dezember 2010, ABl 2010, 4042 ff.; in Vollzug ab 1. Januar 2011. Geändert durch Nachtrag vom 29. Dezember 2011, nGS 47–29; II. Nachtrag vom 5. Dezember 2025, nGS 2026-001.
 
-#### Art.1
+#### Art. 1
 
 **Geltungsbereich**
 
@@ -44,9 +43,9 @@ I. Allgemeine Bestimmungen
 
 <sup>2</sup> Er regelt die Entschädigung an Verfahrensbeteiligte, die nicht Partei sind, und die Kanzleigebühren.
 
-[^1-1]: Art.94 ff. VRP, sGS 951.1.
-[^1-2]: Art.95 Abs.2 der Schweizerischen Zivilprozessordnung (SR 272; abgekürzt ZPO).
-[^1-3]: Art.422 der Schweizerischen Strafprozessordnung (SR 312.0; abgekürzt StPO).
+[^1-1]: Art. 94 ff. VRP, sGS 951.1.
+[^1-2]: Art. 95 Abs. 2 der Schweizerischen Zivilprozessordnung (SR 272; abgekürzt ZPO).
+[^1-3]: Art. 422 der Schweizerischen Strafprozessordnung (SR 312.0; abgekürzt StPO).
 
 #### Art. 2
 
@@ -60,8 +59,8 @@ I. Allgemeine Bestimmungen
 
 nGS 46–42
 
-[^2-1]: Art.96 Abs.1 VRP, sGS 951.1.
-[^2-2]: Art.98 ZPO, SR 272; Art.383 StPO, SR 312.0.
+[^2-1]: Art. 96 Abs. 1 VRP, sGS 951.1.
+[^2-2]: Art. 98 ZPO, SR 272; Art. 383 StPO, SR 312.0.
 
 #### Art. 3
 
@@ -69,9 +68,9 @@ nGS 46–42
 
 <sup>1</sup> Ergreift die beschuldigte Person im Strafverfahren ein Rechtsmittel[^3-1], erhebt die Rechtsmittelinstanz eine Einschreibgebühr.
 
-<sup>2</sup> Die Einschreibgebühr beträgt Fr.500.–.
+<sup>2</sup> Die Einschreibgebühr beträgt Fr. 500.–.
 
-[^3-1]: Art.379 ff. StPO, SR 312.0.
+[^3-1]: Art. 379 ff. StPO, SR 312.0.
 
 ### II. Entscheidgebühren
 
@@ -95,7 +94,7 @@ nGS 46–42
 
 - e) die Art der Prozessführung der Beteiligten.
 
-#### Art.5
+#### Art. 5
 
 **Unterschreitung des Ansatzes**
 
@@ -103,7 +102,7 @@ nGS 46–42
 
 <sup>2</sup> Ist der Aufwand vernachlässigbar gering, kann von einer Gebühr Umgang genommen werden.
 
-#### Art.6
+#### Art. 6
 
 **Erhöhung des Ansatzes**
 
@@ -121,7 +120,7 @@ nGS 46–42
 
 Ziff.
 
-1 Verwaltungsrekurskommission und Versicherungsgericht 11 Einzelrichterin oder Einzelrichter; Präsidentin oder Präsident 111 Zwischenentscheid, verfahrensleitende Verfügung, Abschreibungsverfügung und Ähnliches … 200.– bis 2 000.–
+1 VerwaltungsrekurskommissionundVersicherungsgericht 11 Einzelrichterin oder Einzelrichter; Präsidentin oder Präsident 111 Zwischenentscheid, verfahrensleitende Verfügung, Abschreibungsverfügung und Ähnliches … 200.– bis 2 000.–
 
 112 Endentscheid … 400.– bis 4 000.–
 
@@ -145,7 +144,7 @@ Ziff.
 
 322 Endentscheid … 500.– bis 6 000.– 3. Behörden der Zivilgerichtsbarkeit
 
-#### Art.8 a
+#### Art. 8 a
 
 **) Schlichtungsbehörden**
 
@@ -161,15 +160,15 @@ Ziff.
 
 3 Einigung[^8a-5], Säumnis der klagenden Partei[^8a-6] und Rückzug des Schlichtungsgesuchs[^8a-7] … 100.– bis 600.–
 
-<sup>2</sup> Die Gebühr kann für besonders aufwendige Verfahren bis zum doppelten Ansatz erhöht werden. Art.6 dieses Erlasses wird nicht angewendet.
+<sup>2</sup> Die Gebühr kann für besonders aufwendige Verfahren bis zum doppelten Ansatz erhöht werden. Art. 6 dieses Erlasses wird nicht angewendet.
 
-[^8a-1]: Art.113 Abs.2 Bst.d, Art.115 ZPO, SR 272.
-[^8a-2]: Art.209 ZPO, SR 272.
-[^8a-3]: Art.210 ZPO, SR 272.
-[^8a-4]: Art.212 ZPO, SR 272.
-[^8a-5]: Art.208 Abs.1 Bst.b ZPO, SR 272.
-[^8a-6]: Art.206 ZPO, SR 272.
-[^8a-7]: Art.207 Abs.1 Bst.a ZPO, SR 272.
+[^8a-1]: Art. 113 Abs. 2 Bst. d, Art. 115 ZPO, SR 272.
+[^8a-2]: Art. 209 ZPO, SR 272.
+[^8a-3]: Art. 210 ZPO, SR 272.
+[^8a-4]: Art. 212 ZPO, SR 272.
+[^8a-5]: Art. 208 Abs. 1 Bst. b ZPO, SR 272.
+[^8a-6]: Art. 206 ZPO, SR 272.
+[^8a-7]: Art. 207 Abs. 1 Bst. a ZPO, SR 272.
 
 #### Art. 9 b
 
@@ -205,18 +204,18 @@ Ziff.
 
 <sup>5</sup> Bei Entscheiden über Revisionsgesuche, Entscheiden des Einzelrichters für Schiedsgerichtssachen sowie des Kantonsgerichtes betreffend Hinterlegung des Schiedsspruchs und Bescheinigung dessen Vollstreckbarkeit gilt der Tarif für prozessleitende Verfügungen.
 
-[^9b-1]: Art.50 ZPO, SR 272.
-[^9b-2]: Art.126 ZPO, SR 272.
-[^9b-3]: Art.75 ZPO, SR 272.
-[^9b-4]: Art.82 ZPO, SR 272.
-[^9b-5]: Art.99 f. ZPO, SR 272.
-[^9b-6]: Art.123 ZPO, SR 272.
-[^9b-7]: Art.127 ZPO, SR 272.
-[^9b-8]: Art.149 ZPO, SR 272.
-[^9b-9]: Art.167 ZPO, SR 272.
-[^9b-10]: Art.241 f. ZPO, SR 272.
+[^9b-1]: Art. 50 ZPO, SR 272.
+[^9b-2]: Art. 126 ZPO, SR 272.
+[^9b-3]: Art. 75 ZPO, SR 272.
+[^9b-4]: Art. 82 ZPO, SR 272.
+[^9b-5]: Art. 99 f. ZPO, SR 272.
+[^9b-6]: Art. 123 ZPO, SR 272.
+[^9b-7]: Art. 127 ZPO, SR 272.
+[^9b-8]: Art. 149 ZPO, SR 272.
+[^9b-9]: Art. 167 ZPO, SR 272.
+[^9b-10]: Art. 241 f. ZPO, SR 272.
 
-#### Art.10
+#### Art. 10
 
 <sup>26</sup> Entscheidgebühren
 
@@ -232,7 +231,7 @@ Ziff.
 
 12 Kollegialgericht 121 Endentscheide und Zwischenentscheide … 500.– bis 6 000.–
 
-122 Prozessleitende Verfügungen (Kollegialgericht) . . . 300.– bis 3 000.–
+122 Prozessleitende Verfügungen (Kollegialgericht) . . 300.– bis 3 000.–
 
 123 Prozessleitende Verfügungen und vorsorgliche Massnahmen (verfahrensleitende Richterin oder verfahrensleitender Richter) … 200.– bis 2 000.–
 
@@ -250,38 +249,36 @@ Ziff.
 
 3 Handelsgericht 31 Präsidentin oder Präsident; prozessleitende Richterin oder prozessleitender Richter 311 Prozessleitende Verfügungen und vorsorgliche Massnahmen … 300.– bis 3 000.–
 
-312 Entscheide nach Art.11 Abs.2 EG-ZPO … 300.– bis 3 000.–
+312 Entscheide nach Art. 11 Abs. 2 EG-ZPO … 300.– bis 3 000.–
 
 32 Gericht 321 Endentscheide und Zwischenentscheide … 1 000.– bis 15 000.–
 
 322 Prozessleitende Verfügungen … 400.– bis 4 000.–
 
-[^10-1]: Art.237 ZPO, SR 272.
-[^10-2]: Art.248 ff. ZPO, SR 272.
+[^10-1]: Art. 237 ZPO, SR 272.
+[^10-2]: Art. 248 ff. ZPO, SR 272.
 
-#### Art.11
+#### Art. 11
 
 **Streitwert**
 
 <sup>1</sup> Die Entscheidgebühren für Zwischen- und Endentscheide werden abhängig vom Streitwert wie folgt erhöht:
 
-- a) bei einem Streitwert über Fr.50 000.– bis Fr.100 000.– … auf höchstens 200 Prozent
+- a) bei einem Streitwert über Fr. 50 000.– bis Fr. 100 000.– … auf höchstens 200 Prozent
 
-- b) bei einem Streitwert über Fr.100 000.– bis Fr.250 000.– … auf höchstens 300 Prozent
+- b) bei einem Streitwert über Fr. 100 000.– bis Fr. 250 000.– … auf höchstens 300 Prozent
 
-**je weitere 100 Prozent**
+- c) bei einem Streitwert von je weiteren Fr. 250 000.– … je weitere 100 Prozent
 
-- c) bei einem Streitwert von je weiteren Fr.250 000.– …
+<sup>2</sup> Eine weitere Erhöhung nach Art. 6 kann nur noch erfolgen, wenn die Umtriebe oder die Schwierigkeiten des Falls aussergewöhnlich sind.
 
-<sup>2</sup> Eine weitere Erhöhung nach Art.6 kann nur noch erfolgen, wenn die Umtriebe oder die Schwierigkeiten des Falls aussergewöhnlich sind.
-
-#### Art.12
+#### Art. 12
 
 <sup>29</sup> Begründung
 
 <sup>1</sup> Soweit eine Eröffnung ohne Begründung erfolgt, enthält der Entscheid je einen Gebührenansatz für die begründete und nicht begründete Ausfertigung. Der Ansatz für den nicht begründeten Entscheid ist ein Drittel tiefer.
 
-#### Art.13
+#### Art. 13
 
 **Abschreibung**
 
@@ -289,7 +286,7 @@ Ziff.
 
 - 4\. Behörden der Strafgerichtsbarkeit
 
-#### Art.14
+#### Art. 14
 
 **Grundsätze**
 
@@ -305,9 +302,9 @@ Ziff.
 
 - c) Sistierung.[^14-3]
 
-[^14-1]: Art.94 StPO, SR 312.0.
-[^14-2]: Art.125 Abs.2 und Art.383 Abs.1 StPO, SR 312.0.
-[^14-3]: Art.329 Abs.2 und Art.367 Abs.3 StPO, SR 312.0.
+[^14-1]: Art. 94 StPO, SR 312.0.
+[^14-2]: Art. 125 Abs. 2 und Art. 383 Abs. 1 StPO, SR 312.0.
+[^14-3]: Art. 329 Abs. 2 und Art. 367 Abs. 3 StPO, SR 312.0.
 
 #### Art. 15
 
@@ -341,13 +338,13 @@ Ziff.
 
 33 Urteil … 500.– bis 15 000.–
 
-#### Art.16
+#### Art. 16
 
 **Zivilklage**
 
 <sup>1</sup> Die Gebühr wird bei der Beurteilung einer Zivilklage im Strafurteil auf höchstens den doppelten Ansatz erhöht.
 
-#### Art.17
+#### Art. 17
 
 <sup>33</sup> Begründung
 
@@ -357,7 +354,7 @@ Ziff.
 
 ### III. Staatsanwaltschaft
 
-#### Art.18
+#### Art. 18
 
 **Grundsätze**
 
@@ -369,7 +366,7 @@ Ziff.
 
 - c) mündliche Vertretung der Anklage.
 
-<sup>2</sup> Art.4 bis 6 und 16 dieses Erlasses werden sachgemäss angewendet.
+<sup>2</sup> Art. 4 bis 6 und 16 dieses Erlasses werden sachgemäss angewendet.
 
 #### Art. 19
 
@@ -383,27 +380,31 @@ Ziff.
 
 Ziff.
 
-1 Verfügung, Entscheid oder Antrag, wenn keine andere Gebühr festgesetzt ist … 50.– bis 1000.–
+**50.– bis 1 000.–**
 
-2 Ausstandsentscheid … 300.– bis 3000.–
+1 Verfügung, Entscheid oder Antrag, wenn keine andere Gebühr festgesetzt ist …
 
-3 Nichtanhandnahmeverfügung … 100.– bis 1000.–
+2 Ausstandsentscheid … 300.– bis 3 000.–
 
-4 Sistierungsverfügung … 100.– bis 1000.–
+3 Nichtanhandnahmeverfügung … 100.– bis 1 000.–
 
-5 Einstellungsverfügung … 100.– bis 3000.–
+4 Sistierungsverfügung … 100.– bis 1 000.–
 
-6 Strafbefehl … 100.– bis 3000.–
+5 Einstellungsverfügung … 100.– bis 3 000.–
 
-7 Anklage … 300.– bis 3000.–
+6 Strafbefehl … 100.– bis 3 000.–
 
-8 Schlussbericht … 300.– bis 3000.–
+7 Anklage … 300.– bis 3 000.–
 
-9 Vertretung der Anklage vor Gericht … 300.– bis 6000.–
+8 Schlussbericht … 300.– bis 3 000.– Ziff.
 
-10 Schriftlicher Antrag im Gerichtsverfahren … 300.– bis 1000.–
+**Fr.**
 
-11 Antrag im Rechtsmittelverfahren … 300.– bis 1000.–
+9 Vertretung der Anklage vor Gericht … 300.– bis 6 000.–
+
+10 Schriftlicher Antrag im Gerichtsverfahren … 300.– bis 1 000.–
+
+11 Antrag im Rechtsmittelverfahren … 300.– bis 1 000.–
 
 #### Art. 20 b
 
@@ -415,23 +416,27 @@ Ziff.
 
 Ziff.
 
-1 Verfügung, Entscheid oder Antrag, wenn keine andere Gebühr festgesetzt ist … 50.– bis 1000.–
+1 Verfügung, Entscheid oder Antrag, wenn keine andere Gebühr festgesetzt ist …
 
-2 Ausstandsentscheid … 100.– bis 3000.–
+**50.– bis 1 000.–**
 
-3 Nichtanhandnahmeverfügung … 50.– bis 1000.–
+2 Ausstandsentscheid … 100.– bis 3 000.–
 
-4 Sistierungsverfügung … 50.– bis 1000.–
+**50.– bis 1 000.– 50.– bis 1 000.– 50.– bis 3 000.– 50.– bis 3 000.–**
 
-5 Einstellungsverfügung … 50.– bis 3000.–
+3 Nichtanhandnahmeverfügung …
 
-6 Strafbefehl … 50.– bis 3000.–
+4 Sistierungsverfügung …
 
-7 Anklage oder Schlussbericht … 100.– bis 3000.–
+5 Einstellungsverfügung …
 
-8 Schlussbericht … 100.– bis 3000.–
+6 Strafbefehl …
 
-9 Vertretung der Anklage vor Gericht … 100.– bis 6000.–
+7 Anklage oder Schlussbericht … 100.– bis 3 000.–
+
+8 Schlussbericht … 100.– bis 3 000.–
+
+9 Vertretung der Anklage vor Gericht … 100.– bis 6 000.–
 
 10 Schriftlicher Antrag im Gerichtsverfahren … 100.– bis 500.–
 
@@ -449,11 +454,11 @@ Ziff.
 
 **Amtliche Verteidigung und Vertretung des Kindes**
 
-<sup>1</sup> Die Kosten für die amtliche Verteidigung[^22-1], die unentgeltliche Verbeiständung[^22-2] und die Vertretung des Kindes[^22-3] richten sich nach dem Anwaltsgesetz vom 11.November 1993[^22-4] und der Honorarordnung für Rechtsanwälte und Rechtsagenten vom 22.April 1994[^22-5].
+<sup>1</sup> Die Kosten für die amtliche Verteidigung[^22-1], die unentgeltliche Verbeiständung[^22-2] und die Vertretung des Kindes[^22-3] richten sich nach dem Anwaltsgesetz vom 11. November 1993[^22-4] und der Honorarordnung für Rechtsanwälte und Rechtsagenten vom 22. April 1994[^22-5].
 
-[^22-1]: Art.132 ff. StPO, SR 312.0.
-[^22-2]: Art.136 ff. StPO, SR 312.0.
-[^22-3]: Art.95 Abs.2 Bst. e ZPO, SR 272.0.
+[^22-1]: Art. 132 ff. StPO, SR 312.0.
+[^22-2]: Art. 136 ff. StPO, SR 312.0.
+[^22-3]: Art. 95 Abs. 2 Bst. e ZPO, SR 272.0.
 [^22-4]: sGS 963.70.
 [^22-5]: sGS 963.75.
 
@@ -473,7 +478,7 @@ Ziff.
 
 - b) bei einem Zeitaufwand über vier Stunden … 320.–
 
-<sup>3</sup> Für die Entschädigung von ausgewiesenen Spesen wird die Spesenverordnung vom 6.Dezember 2004[^23-1] sachgemäss angewendet.
+<sup>3</sup> Für die Entschädigung von ausgewiesenen Spesen wird die Spesenverordnung vom 6. Dezember 2004[^23-1] sachgemäss angewendet.
 
 [^23-1]: sGS 143.6.
 
@@ -481,7 +486,7 @@ Ziff.
 
 **) Sachverständige sowie Übersetzerinnen und Übersetzer**
 
-<sup>1</sup> Für die Entschädigung von ärztlichen Sachverständigen wird die Verordnung über die Entschädigung der Ärzte für amtliche Verrichtungen vom 10.Januar 1989[^24b-1] sachgemäss angewendet.
+<sup>1</sup> Für die Entschädigung von ärztlichen Sachverständigen wird die Verordnung über die Entschädigung der Ärzte für amtliche Verrichtungen vom 10. Januar 1989[^24b-1] sachgemäss angewendet.
 
 <sup>2</sup> Andere Sachverständige sowie Übersetzerinnen und Übersetzer werden nach branchenüblichen Ansätzen entschädigt, soweit kein amtlicher Tarif besteht.
 
@@ -491,7 +496,7 @@ Ziff.
 
 **) andere Drittpersonen**
 
-<sup>1</sup> Anderen Drittpersonen, die auf Anordnung der Gerichte oder der Staatsanwaltschaft am Verfahren mitwirken, erhalten die gleiche Entschädigung wie Zeugen und Auskunftspersonen nach Art.23 dieses Erlasses.
+<sup>1</sup> Anderen Drittpersonen, die auf Anordnung der Gerichte oder der Staatsanwaltschaft am Verfahren mitwirken, erhalten die gleiche Entschädigung wie Zeugen und Auskunftspersonen nach Art. 23 dieses Erlasses.
 
 #### Art. 26
 
@@ -501,13 +506,13 @@ Ziff.
 
 ### V. Kanzleigebühren
 
-#### Art.27
+#### Art. 27
 
 **Grundsatz**
 
 <sup>1</sup> Kanzleigebühren werden erhoben, wenn die entsprechenden Leistungen nicht Bestandteil des ordentlichen Geschäftsgangs eines Verfahrens sind.
 
-#### Art.28
+#### Art. 28
 
 **Ansätze**
 
@@ -521,9 +526,9 @@ Ziff.
 
 1 Ausfertigung, Abschrift oder Auszug von Schriftstücken, je Seite …
 
-**1.– –.50 30.–**
-
 2 Kopien 21 bis fünf Fotokopien, je Fotokopie …
+
+**1.– –.50 30.–**
 
 22 für jede weitere Fotokopie …
 
@@ -533,19 +538,25 @@ Ziff.
 
 24 Bereitstellung der Daten …
 
-höchstens 2000.–
+höchstens 2 000.–
 
 **20.–**
 
 3 Bescheinigung der Vollstreckbarkeit und andere Bescheinigungen …
 
-4 Geldverkehr und Depots für Drittpersonen 41 Grundgebühr … 10.– bis 200.– 42 für jede Auszahlung …
+**10.– bis 200.–**
+
+4 Geldverkehr und Depots für Drittpersonen 41 Grundgebühr …
 
 **6.–**
 
-5 Einsichtgabe in Akten oder Auskunft über deren Inhalt an Gesuchstellerin oder Gesuchsteller ohne Parteistellung … 50.– bis 500.–
+42 für jede Auszahlung …
 
-6 Mahnung … 10.– bis 50.–
+5 Einsichtgabe in Akten oder Auskunft über deren Inhalt an Gesuchstellerin oder Gesuchsteller ohne Parteistellung …
+
+**50.– bis 500.– 10.– bis 50.–**
+
+6 Mahnung …
 
 7 Genehmigung der Formulare im Mietrecht[^28-1]
 
@@ -555,9 +566,9 @@ höchstens 2000.–
 
 72 Verweigerung oder Genehmigung nach Berichtigung 100.– bis 300.–
 
-[^28-1]: Art.5 der Verordnung über die Schlichtungsbehörden, sGS 941.112.
+[^28-1]: Art. 5 der Verordnung über die Schlichtungsbehörden, sGS 941.112.
 
-#### Art.29
+#### Art. 29
 
 **Verzugszins**
 
@@ -567,31 +578,43 @@ höchstens 2000.–
 
 <sup>3</sup> Vorbehalten bleiben abweichende bundesrechtliche Vorschriften.[^29-1]
 
-[^29-1]: Art.112 ZPO, SR 272.
+[^29-1]: Art. 112 ZPO, SR 272.
 
 ### VI. Prüfungs- und Bewilligungsgebühren für Rechtsanwältinnen und Rechtsanwälte, Rechtsagentinnen und Rechtsagenten sowie Notarinnen
 
 und Notare
 
-#### Art.30
+#### Art. 30
 
-**Prüfungsgebühr**
+<sup>43</sup> Prüfungsgebühr
 
-**Fr.**
+**Fr. 2 200.– 1 800.– 800.–**
 
 <sup>1</sup> Die Prüfungsgebühren betragen:
 
-- a) für Rechtsanwältinnen und Rechtsanwälte … 2200.–
+- a) für die Anwaltsprüfung …
 
-- b) für Rechtsagentinnen und Rechtsagenten … 1800.–
+- b) für die Rechtsagentenprüfung …
 
-- c) für Notarinnen und Notare (Beurkundungsrecht) … 800.–
+- c) für die Prüfung über das Beurkundungsrecht …
 
-<sup>2</sup> Für eine Ergänzungsprüfung wird die Hälfte des Ansatzes nach Abs.1 dieser Bestimmung erhoben.
+- d) für die Eignungsprüfung und das Gespräch zur Prüfung der beruflichen Fähigkeiten (Prüfungsgespräch) für Anwältinnen und Anwälte aus Mitgliedstaaten der Europäischen Union oder der Europäischen Freihandelsassoziation … 500.– bis 1 100.–
 
-<sup>3</sup> Die Gebühr ist mit der Anmeldung zur Prüfung zu entrichten. Bei Rückzug der Anmeldung vor der schriftlichen Prüfung werden 80 Prozent, bei Rückzug vor der mündlichen Prüfung 50 Prozent der Gebühr zurückerstattet.
+<sup>2</sup> Für eine Wiederholung des schriftlichen Teils der Anwalts- oder Rechtsagentenprüfung wird die Hälfte des Ansatzes nach Abs. 1 Bst. a und b dieser Bestimmung erhoben.
 
-#### Art.31
+<sup>3</sup> Die Gebühr ist mit der Anmeldung zur Prüfung zu entrichten.
+
+<sup>4</sup> Bei Rückzug der Anmeldung bis zehn Tage vor dem mündlichen Teil oder der Nachprüfung des schriftlichen Teils der Anwalts- oder Rechtsagentenprüfung werden 80 Prozent, bei späterem Rückzug 50 Prozent der Prüfungsgebühr zurückerstattet.
+
+<sup>5</sup> Bei Nichtzulassung zum schriftlichen Teil der Anwalts- oder Rechtsagentenprüfung werden 50 Prozent der Prüfungsgebühr zurückerstattet.
+
+<sup>6</sup> Bei Rückzug der Anmeldung bis zehn Tage vor der Prüfung über das Beurkundungsrecht oder der Eignungsprüfung und des Prüfungsgesprächs für Anwältinnen und Anwälte aus Mitgliedstaaten der Europäischen Union oder der Europäischen Freihandelsassoziation werden 80 Prozent, bei späterem Rückzug 50 Prozent der Prüfungsgebühr zurückerstattet.
+
+<sup>7</sup> Die Gebühr für die schriftlich begründete Verfügung der Prüfungskommission nach Art. 19<sup>bis</sup> Abs. 2 des Prüfungs- und Bewilligungsreglements für Rechtsanwältinnen und Rechtsanwälte sowie Rechtsagentinnen und Rechtsagenten vom 22. April 1994[^30-1] beträgt Fr. 300.– bis 3 000.–.
+
+[^30-1]: sGS 963.73.
+
+#### Art. 31
 
 **Bewilligungsgebühren**
 
@@ -611,7 +634,7 @@ und Notare
 
 [^hVIISchlussbestimmu-1]: Änderungen bisherigen Rechts werden nicht aufgeführt.
 
-#### Art.32
+#### Art. 32
 
 [^hVIISchlussbestimmu-1]
 
@@ -619,29 +642,30 @@ und Notare
 
 **Aufhebung bisherigen Rechts**
 
-<sup>1</sup> Der Gerichtskostentarif vom 19.Mai 2009[^33-1] wird aufgehoben.
+<sup>1</sup> Der Gerichtskostentarif vom 19. Mai 2009[^33-1] wird aufgehoben.
 
 [^33-1]: nGS 44–92 (sGS 941.12).
 
-#### Art.34
+#### Art. 34
 
 **Übergangsbestimmung**
 
-<sup>1</sup> Dieser Erlass wird ab 1.Januar 2011 auf alle Verfahren angewendet.
+<sup>1</sup> Dieser Erlass wird ab 1. Januar 2011 auf alle Verfahren angewendet.
 
-<sup>2</sup> Vorbehalten bleiben Verfahren, für die bei Vollzugsbeginn dieses Erlasses übergangsrechtlich das Zivilprozessgesetz vom 20.Dezember 1990[^34-1] oder das Strafprozessgesetz vom 1.Juli 1999[^34-2] angewendet wird. Auf diese Verfahren wird das bisherige Recht angewendet.
+<sup>2</sup> Vorbehalten bleiben Verfahren, für die bei Vollzugsbeginn dieses Erlasses übergangsrechtlich das Zivilprozessgesetz vom 20. Dezember 1990[^34-1] oder das Strafprozessgesetz vom 1. Juli 1999[^34-2] angewendet wird. Auf diese Verfahren wird das bisherige Recht angewendet.
 
 [^34-1]: nGS 42–80 (sGS 961.2).
 [^34-2]: nGS 42–31 (sGS 962.1).
 
-#### Art.35
+#### Art. 35
 
 **Vollzugsbeginn**
 
-<sup>1</sup> Dieser Erlass wird ab 1.Januar 2011 angewendet.
+<sup>1</sup> Dieser Erlass wird ab 1. Januar 2011 angewendet.
 
 ## Weitere Fussnoten
 
 - [26] Fassung gemäss Nachtrag.
 - [29] Fassung gemäss Nachtrag.
 - [33] Fassung gemäss Nachtrag.
+- [43] Fassung gemäss II. Nachtrag.
