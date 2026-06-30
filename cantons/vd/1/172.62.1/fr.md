@@ -4,7 +4,7 @@ number: "172.62.1"
 title: RÈGLEMENT du 21.01.2009 relatif à l’informatique cantonale (RIC)
 short: RIC
 language: fr
-version: 2010-06-01
+version: 2026-07-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/172.62.1?id=ae59adff-f4e5-4e55-8f9f-4251a850adbd"
 ---
 
@@ -38,11 +38,11 @@ arrête
 
 **Champs d'application [^1-1]**
 
-<sup>1</sup> Le présent règlement s'applique à l'Administration, à l'exception de l'informatique des hautes écoles, de l'informatique pédagogique du Département de la formation, de la jeunesse et de la culture (DFJC) et de l'informatique des Hospices.
+<sup>1</sup> Le présent règlement s'applique à l'Administration, à l'exception de l'informatique des hautes écoles, de l'informatique pédagogique et de l'informatique des Hospices.
 
-<sup>2</sup> Les relations entre l'Ordre judiciaire vaudois et la Direction des systèmes d'information sont réglées par une convention spéciale.
+<sup>2</sup> Les relations entre l'Ordre judiciaire vaudois et la Direction générale du numérique et des systèmes d'information (ci-après DGNSI) sont réglées par une convention spéciale.
 
-[^1-1]: Modif. 2 du 17.06.2026: Modification Al. 1-2; entrée en vigueur au 01.07.2026; Introduction Art. 3, Al. 3, Tiret 6; entrée en vigueur au 01.07.2026
+[^1-1]: Modif. 2 du 17.06.2026: Modification Al. 1-2; entrée en vigueur au 01.07.2026
 
 #### Art. 3
 
@@ -54,10 +54,11 @@ arrête
 
 <sup>3</sup> Par socle des systèmes d'information, on entend l'ensemble des éléments communs aux systèmes d'information métiers ou supportant ces derniers. Il s'agit notamment de l'ensemble :
 
-- - des infrastructures techniques ;
-- - des plateformes logicielles communes ;
-- - des référentiels et des données de base partagés ;
-- - des standards en matière de technologies de l'information et de la communication ;
+- - des infrastructures techniques.
+- - des plateformes logicielles communes.
+- - de l'environnement de travail numérique.
+- - des référentiels et des données de base partagés.
+- - des standards en matière de technologies de l'information et de la communication.
 - - des applications transversales.
 
 <sup>4</sup> Par niveaux de service relatifs aux prestations opérationnelles, il faut comprendre les objectifs de qualité et de performance garantis aux bénéficiaires.
@@ -76,37 +77,37 @@ arrête
 
 - - définit, au début de chaque législature, les orientations stratégiques en matière d'évolution des systèmes d'information ;
 - - approuve le plan directeur cantonal des systèmes d'information qui découle des orientations ;
-- - définit les niveaux de service relatifs aux prestations opérationnelles qui doivent être délivrées par la Direction des systèmes d'information (ci-après : DSI) aux utilisateurs, dans le cadre des moyens alloués ;
+- - définit les niveaux de service relatifs aux prestations opérationnelles qui doivent être délivrées par la DGNSI aux utilisateurs, dans le cadre des moyens alloués.
 - - adopte la politique de sécurité des systèmes d'information ;
 - - adopte les directives informatiques ;
 - - fixe les critères d'opportunité utilisés lors de la priorisation des projets informatiques ;
 - - fixe l'enveloppe globale et approuve le portefeuille des projets informatiques la composant, dans le cadre de la procédure budgétaire.
 
-[^chapterChapitreII-1]: Modif. 1 du 26.05.2010: Modification Al. 2; entrée en vigueur au 01.06.2010 · Modif. 2 du 17.06.2026: Introduction Art. 3, Al. 3, Tiret 6; entrée en vigueur au 01.07.2026; Modification Al. 2, Tiret 3; entrée en vigueur au 01.07.2026
+[^chapterChapitreII-1]: Modif. 1 du 26.05.2010: Modification Al. 2; entrée en vigueur au 01.06.2010 · Modif. 2 du 17.06.2026: Modification Al. 2, Tiret 3; entrée en vigueur au 01.07.2026
 
 #### Art. 5
 
-**La Direction des systèmes d'information [^4-1]**
+**La Direction générale du numérique et des systèmes d'information [^4-1]**
 
 *a) organisation*
 
-<sup>1</sup> La DSI regroupe l'ensemble des ressources humaines du domaine des technologies de l'information et de la communication, tel que défini dans le référentiel des métiers de l'Administration.
+<sup>1</sup> La DGNSI regroupe l'ensemble des ressources humaines du domaine des technologies de l'information et de la communication, tel que défini dans le référentiel des métiers de l'Administration.
 
-[^4-1]: Modif. 2 du 17.06.2026: Introduction Art. 3, Al. 3, Tiret 6; entrée en vigueur au 01.07.2026; Modification tArt; entrée en vigueur au 01.07.2026; Modification Al. 1; entrée en vigueur au 01.07.2026
+[^4-1]: Modif. 2 du 17.06.2026: Modification tArt; entrée en vigueur au 01.07.2026; Modification Al. 1; entrée en vigueur au 01.07.2026
 
 #### Art. 6
 
 **b) missions générales [^5-1]**
 
-<sup>1</sup> La Direction des systèmes d'information assure la disponibilité des moyens informatiques et de télécommunications nécessaires quotidiennement au bon fonctionnement de l'Administration et met en œuvre, avec les services bénéficiaires, des solutions contribuant à rendre les processus de l'Administration plus simples et plus efficients, pour elle-même et pour les usagers.
+<sup>1</sup> La DGNSI assure la disponibilité des moyens informatiques et de télécommunications nécessaires quotidiennement au bon fonctionnement de l'Administration et met en œuvre, avec les services bénéficiaires, des solutions contribuant à rendre les processus de l'Administration plus simples et plus efficients, pour elle-même et pour les usagers.
 
-[^5-1]: Modif. 2 du 17.06.2026: Introduction Art. 3, Al. 3, Tiret 6; entrée en vigueur au 01.07.2026; Modification Al. 1; entrée en vigueur au 01.07.2026
+[^5-1]: Modif. 2 du 17.06.2026: Modification Al. 1; entrée en vigueur au 01.07.2026
 
 #### Art. 7
 
 **c) missions spécifiques [^6-1]**
 
-<sup>1</sup> La DSI est en charge :
+<sup>1</sup> La DGNSI est en charge:
 
 - - de proposer au Conseil d'Etat des orientations stratégiques en matière de systèmes d'information ;
 - - de proposer au Conseil d'Etat et de mettre en œuvre un plan directeur cantonal des systèmes d'information ainsi qu'une politique générale de sécurité des systèmes d'information ;
@@ -119,28 +120,28 @@ arrête
 - - de l'exploitation et de la maintenance des systèmes informatiques dans le respect des niveaux de services ;
 - - de la gestion actualisée du patrimoine informatique ;
 - - du support aux utilisateurs selon les niveaux de services en vigueur ;
-- - de la mise en œuvre de la sécurité des systèmes d'information dans le cadre de la politique générale de sécurité des systèmes d'information, sous la conduite d'un responsable de la sécurité des systèmes d'information;
+- - de la mise en œuvre de la sécurité des systèmes d'information dans le cadre de la politique générale de sécurité des systèmes d'information et selon les instructions de l'entité responsable du traitement des données, sous la conduite d'un responsable de la sécurité des systèmes d'information.
 - - de gérer les relations avec les fournisseurs de biens et services en matière de technologies de l'information et de la communication.
 
-[^6-1]: Modif. 1 du 26.05.2010: Modification Al. 1; entrée en vigueur au 01.06.2010 · Modif. 2 du 17.06.2026: Introduction Art. 3, Al. 3, Tiret 6; entrée en vigueur au 01.07.2026; Modification Al. 1; entrée en vigueur au 01.07.2026; Modification Al. 1, Tiret 12; entrée en vigueur au 01.07.2026
+[^6-1]: Modif. 1 du 26.05.2010: Modification Al. 1; entrée en vigueur au 01.06.2010 · Modif. 2 du 17.06.2026: Modification Al. 1; entrée en vigueur au 01.07.2026; Modification Al. 1, Tiret 12; entrée en vigueur au 01.07.2026
 
 #### Art. 8
 
 **d) mandats externes [^7-1]**
 
-<sup>1</sup> La DSI peut fournir des prestations à des bénéficiaires externes dans le domaine public et parapublic, ainsi qu'aux services qui font partie de l'Administration mais qui sont exclus du champ d'application de ce règlement. Ces prestations font l'objet de conventions précisant notamment les modalités de facturation.
+<sup>1</sup> La DGNSI peut fournir des prestations à des bénéficiaires externes dans le domaine public et parapublic, ainsi qu'aux services qui font partie de l'Administration mais qui sont exclus du champ d'application de ce règlement. Ces prestations font l'objet de conventions précisant notamment les modalités de facturation..
 
 <sup>2</sup> Elle peut à l'inverse sous-traiter certaines prestations en matière de technologies de l'information et de la communication, tout en en assumant la responsabilité vis-à-vis des services bénéficiaires.
 
-[^7-1]: Modif. 2 du 17.06.2026: Introduction Art. 3, Al. 3, Tiret 6; entrée en vigueur au 01.07.2026; Modification Al. 1; entrée en vigueur au 01.07.2026
+[^7-1]: Modif. 2 du 17.06.2026: Modification Al. 1; entrée en vigueur au 01.07.2026
 
 #### Art. 9
 
 **e) communes [^8-1]**
 
-<sup>1</sup> La DSI contribue aux efforts d'harmonisation des systèmes d'information de l'Etat et des communes, en vue d'améliorer leur collaboration et les échanges mutuels d'informations, et, en fin de compte, les prestations rendues à la population.
+<sup>1</sup> La DGNSI contribue aux efforts d'harmonisation des systèmes d'information de l'Etat et des communes, en vue d'améliorer leur collaboration et les échanges mutuels d'informations, et, en fin de compte, les prestations rendues à la population.
 
-[^8-1]: Modif. 2 du 17.06.2026: Introduction Art. 3, Al. 3, Tiret 6; entrée en vigueur au 01.07.2026; Modification Al. 1; entrée en vigueur au 01.07.2026
+[^8-1]: Modif. 2 du 17.06.2026: Modification Al. 1; entrée en vigueur au 01.07.2026
 
 #### Art. 10
 
@@ -152,20 +153,20 @@ arrête
 
 - - de l'utilisation efficiente des outils et de l'environnement informatiques mis à leur disposition, notamment grâce à l'appui d'un ou plusieurs répondants bureautiques désignés au sein des services ou des départements ;
 - - de la maîtrise fonctionnelle des applications spécifiques à leur domaine métier, notamment grâce à l'appui de répondants applicatifs désignés au sein des services ;
-- - de documenter et d'analyser leur stratégie, leurs processus, leur organisation et leurs besoins fonctionnels afin de permettre l'élaboration de leur schéma directeur sectoriel du système d'information en partenariat avec la DSI ;
+- - de documenter et d'analyser leur stratégie, leurs processus, leur organisation et leurs besoins fonctionnels afin de permettre l'élaboration de leur schéma directeur sectoriel du système d'information en partenariat avec la DGNSI.
 - - de la priorisation des besoins et des projets informatiques inscrits dans le schéma directeur métier ;
 - - dans le cadre de projets informatiques, de l'expression et de la justification de leurs besoins, du test utilisateur ou d'acceptation des solutions proposées, de l'anticipation et de la mise en oeuvre des changements organisationnels convenus ;
 - - dans le cadre de leurs projets induisant des charges informatiques supplémentaires, de la recherche de toute compensation possible liée aux gains métier obtenus par l'informatisation.
 
-[^9-1]: Modif. 1 du 26.05.2010: Modification Al. 1; entrée en vigueur au 01.06.2010 · Modif. 2 du 17.06.2026: Introduction Art. 3, Al. 3, Tiret 6; entrée en vigueur au 01.07.2026; Modification Al. 2, Tiret 3; entrée en vigueur au 01.07.2026
+[^9-1]: Modif. 1 du 26.05.2010: Modification Al. 1; entrée en vigueur au 01.06.2010 · Modif. 2 du 17.06.2026: Modification Al. 2, Tiret 3; entrée en vigueur au 01.07.2026
 
 #### Art. 11
 
 **Comité informatique de service(s) [^10-1]**
 
-<sup>1</sup> Un comité informatique est constitué pour assurer la gouvernance du système d'information métier, soit la planification et le suivi des prestations et projets. Selon les cas, le comité concerne un service en particulier ou un ensemble de services ayant un système d'information commun. Le comité, présidé par un chef de service bénéficiaire, est composé notamment des responsables de processus métiers et d'un représentant de la DSI.
+<sup>1</sup> Un comité informatique est constitué pour assurer la gouvernance du système d'information métier, soit la planification et le suivi des prestations et projets. Selon les cas, le comité concerne un service en particulier ou un ensemble de services ayant un système d'information commun. Le comité, présidé par un chef de service bénéficiaire, est composé notamment des responsables de processus métiers et d'un représentant de la DGNSI.
 
-[^10-1]: Modif. 2 du 17.06.2026: Introduction Art. 3, Al. 3, Tiret 6; entrée en vigueur au 01.07.2026; Modification Al. 1; entrée en vigueur au 01.07.2026
+[^10-1]: Modif. 2 du 17.06.2026: Modification Al. 1; entrée en vigueur au 01.07.2026
 
 #### Art. 11a
 
@@ -205,9 +206,9 @@ arrête
 
 <sup>1</sup> A travers la politique générale de sécurité des SI, le Conseil d'Etat définit les objectifs généraux et les principes de mise en œuvre de la protection des informations, en particulier des données personnelles, afin de garantir en tout temps leur disponibilité, leur intégrité et leur confidentialité.
 
-<sup>2</sup> A cette fin, la DSI réalise périodiquement des analyses globales ou sectorielles de risques et propose au Conseil d'Etat des mesures correctives ou préventives, en tenant compte notamment des résultats des audits de sécurité.
+<sup>2</sup> A cette fin, la DGNSI réalise périodiquement des analyses globales ou sectorielles de risques et propose au Conseil d'Etat des mesures correctives ou préventives, en tenant compte notamment des résultats des audits de sécurité.
 
-[^14-1]: Modif. 1 du 26.05.2010: Modification Art. 15; entrée en vigueur au 01.06.2010 · Modif. 2 du 17.06.2026: Introduction Art. 3, Al. 3, Tiret 6; entrée en vigueur au 01.07.2026; Modification Al. 2; entrée en vigueur au 01.07.2026
+[^14-1]: Modif. 1 du 26.05.2010: Modification Art. 15; entrée en vigueur au 01.06.2010 · Modif. 2 du 17.06.2026: Modification Al. 2; entrée en vigueur au 01.07.2026
 
 #### Art. 16
 
@@ -215,17 +216,17 @@ arrête
 
 *a) gestion générale*
 
-<sup>1</sup> La DSI est en charge du portefeuille des projets informatiques. A ce titre, elle gère la part informatique des crédits d'investissement, le budget de fonctionnement ainsi que le plan de charge de l'ensemble des projets du domaine des technologies de l'information et de la communication.
+<sup>1</sup> La DGNSI est en charge du portefeuille des projets informatiques. A ce titre, elle gère la part informatique des crédits d'investissement, le budget de fonctionnement ainsi que le plan de charge de l'ensemble des projets du domaine des technologies de l'information et de la communication.
 
-[^15-1]: Modif. 2 du 17.06.2026: Introduction Art. 3, Al. 3, Tiret 6; entrée en vigueur au 01.07.2026; Modification Al. 1; entrée en vigueur au 01.07.2026
+[^15-1]: Modif. 2 du 17.06.2026: Modification Al. 1; entrée en vigueur au 01.07.2026
 
 #### Art. 17
 
 **b) crédits d'investissement informatique [^16-1]**
 
-<sup>1</sup> Les décrets d'investissement comportant des parts informatiques sont portés en principe par le chef du département bénéficiaire du projet lors de l'examen par les instances décisionnelles (exécutif et législatif). A ce titre, il en assume la responsabilité avec l'appui du chef du département en charge de la DSI, jusqu'au bouclement du crédit.
+<sup>1</sup> Les décrets d'investissement comportant des parts informatiques sont portés en principe par le chef du département bénéficiaire du projet lors de l'examen par les instances décisionnelles (exécutif et législatif). A ce titre, il en assume la responsabilité avec l'appui du chef du département en charge de la DGNSI, jusqu'au bouclement du crédit.
 
-[^16-1]: Modif. 2 du 17.06.2026: Introduction Art. 3, Al. 3, Tiret 6; entrée en vigueur au 01.07.2026; Modification Al. 1; entrée en vigueur au 01.07.2026
+[^16-1]: Modif. 2 du 17.06.2026: Modification Al. 1; entrée en vigueur au 01.07.2026
 
 #### Art. 18
 
@@ -233,21 +234,21 @@ arrête
 
 <sup>1</sup> Les demandes de nouveaux projets informatiques ou les projets et prestations informatiques existants nécessitant de nouvelles ressources financières et humaines, sont traités en règle générale dans le cadre de la procédure budgétaire (budget de fonctionnement, budget et plan d'investissement).
 
-<sup>2</sup> A cette fin, les services qualifient leurs demandes selon les critères d'opportunité fixés par le Conseil d'Etat. La DSI contrôle la qualification technique des demandes de projets, en examine l'opportunité de redimensionnement, en évalue la faisabilité technique, le degré de maturité et le degré d'intégration dans le plan directeur cantonal.
+<sup>2</sup> A cette fin, les services qualifient leurs demandes selon les critères d'opportunité fixés par le Conseil d'Etat. La DGNSI contrôle la qualification technique des demandes de projets, en examine l'opportunité de redimensionnement, en évalue la faisabilité technique, le degré de maturité et le degré d'intégration dans le plan directeur cantonal.
 
-<sup>3</sup> Compte tenu des projets en cours et des ressources à disposition, la DSI établit une proposition de classement des demandes des services qu'elle soumet au Collège des secrétaires généraux élargi à l'Ordre judiciaire et au Secrétariat général du Grand Conseil.
+<sup>3</sup> Compte tenu des projets en cours et des ressources à disposition, la DGNSI établit une proposition de classement des demandes des services qu'elle soumet au Collège des secrétaires généraux élargi à l'Ordre judiciaire et au Secrétariat général du Grand Conseil.
 
 <sup>4</sup> Le Collège procède aux arbitrages nécessaires et émet un préavis sur le classement en vue d'une décision du Conseil d'Etat.
 
-[^17-1]: Modif. 1 du 26.05.2010: Modification Al. 3; entrée en vigueur au 01.06.2010 · Modif. 2 du 17.06.2026: Introduction Art. 3, Al. 3, Tiret 6; entrée en vigueur au 01.07.2026; Modification Al. 2-3; entrée en vigueur au 01.07.2026
+[^17-1]: Modif. 1 du 26.05.2010: Modification Al. 3; entrée en vigueur au 01.06.2010 · Modif. 2 du 17.06.2026: Modification Al. 2-3; entrée en vigueur au 01.07.2026
 
 #### Art. 19
 
 **d) processus projet informatique [^18-1]**
 
-<sup>1</sup> La DSI définit le processus de conduite et de déroulement des projets informatiques et en assure l'amélioration continue.
+<sup>1</sup> La DGNSI définit le processus de conduite et de déroulement des projets informatiques et en assure l'amélioration continue.
 
-[^18-1]: Modif. 2 du 17.06.2026: Introduction Art. 3, Al. 3, Tiret 6; entrée en vigueur au 01.07.2026; Modification Al. 1; entrée en vigueur au 01.07.2026
+[^18-1]: Modif. 2 du 17.06.2026: Modification Al. 1; entrée en vigueur au 01.07.2026
 
 ## Chapitre IV Exploitation des systèmes informatiques et support aux utilisateurs
 
@@ -255,35 +256,35 @@ arrête
 
 **Patrimoine informatique [^chapterChapitreIV-1]**
 
-<sup>1</sup> Dans le but d'assurer la maîtrise du patrimoine informatique, la DSI tient à jour notamment :
+<sup>1</sup> Dans le but d'assurer la maîtrise du patrimoine informatique, la DGNSI tient à jour notamment:
 
 - - la cartographie des applications informatiques (fonctionnalités et données associées) ;
 - - chaque fois que possible et en collaboration avec les services, la cartographie des processus supportés par des applications informatiques ;
-- - l'inventaire des infrastructures matérielles et logicielles du domaine des technologies de l'information et de la communication, dont la mise en œuvre incombe à la DSI ;
+- - l'inventaire des infrastructures matérielles et logicielles du domaine des technologies de l'information et de la communication, dont la mise en œuvre incombe à la DGNSI.
 - - l'état des droits d'accès aux applications ;
 - - l'état du réseau cantonal vaudois.
 
-<sup>2</sup> La DSI dresse périodiquement un état des lieux de ce patrimoine, identifie les risques d'obsolescence et propose des mesures préventives et correctives adaptées aux moyens qui lui sont alloués.
+<sup>2</sup> La DGNSI dresse périodiquement un état des lieux de ce patrimoine, identifie les risques d'obsolescence et propose des mesures préventives et correctives adaptées aux moyens qui lui sont alloués.
 
-<sup>3</sup> La DSI assure le maintien du bon fonctionnement des systèmes informatiques, y compris les évolutions mineures, dans le cadre des moyens disponibles.
+<sup>3</sup> La DGNSI assure le maintien du bon fonctionnement des systèmes informatiques, y compris les évolutions mineures, dans le cadre des moyens disponibles.
 
-[^chapterChapitreIV-1]: Modif. 2 du 17.06.2026: Introduction Art. 3, Al. 3, Tiret 6; entrée en vigueur au 01.07.2026; Modification Al. 1; entrée en vigueur au 01.07.2026; Modification Al. 1, Tiret 3; entrée en vigueur au 01.07.2026; Modification Al. 2-3; entrée en vigueur au 01.07.2026
+[^chapterChapitreIV-1]: Modif. 2 du 17.06.2026: Modification Al. 1; entrée en vigueur au 01.07.2026; Modification Al. 1, Tiret 3; entrée en vigueur au 01.07.2026; Modification Al. 2-3; entrée en vigueur au 01.07.2026
 
 #### Art. 21
 
-**Acquisition de biens et services informatiques [^20-1]**
+**Acquisition et location de biens et services informatiques [^20-1]**
 
-<sup>1</sup> La DSI assure l'ensemble des relations avec les fournisseurs de biens et de prestations en matière de technologies de l'information et de la communication. Elle gère l'ensemble des contrats correspondants.
+<sup>1</sup> La DGNSI assure l'ensemble des relations avec les fournisseurs de biens et de prestations en matière de technologies de l'information et de la communication. Elle gère l'ensemble des contrats correspondants.
 
-<sup>2</sup> La DSI élabore et tient à jour le catalogue des produits (matériels et logiciels) autorisés pour les achats dans le domaine des technologies de l'information et de la communication.
+<sup>2</sup> La DGNSI élabore et tient à jour le catalogue des produits (matériels et logiciels) autorisés pour les achats dans le domaine des technologies de l'information et de la communication.
 
-<sup>3</sup> La DSI tient compte des exigences sociales et environnementales liées au développement durable dans l'établissement des critères de choix des produits.
+<sup>3</sup> La DGNSI tient compte des exigences sociales et environnementales liées au développement durable dans l'établissement des critères de choix des produits.
 
-<sup>4</sup> La DSI planifie les renouvellements standards des équipements informatiques dans les limites des budgets de fonctionnement accordés.
+<sup>4</sup> La DGNSI planifie les renouvellements standards des équipements informatiques dans les limites des budgets de fonctionnement accordés.
 
-<sup>5</sup> La DSI traite, dans les limites de l'enveloppe budgétaire disponible, les demandes d'acquisition des équipements informatiques et en définit les spécifications.
+<sup>5</sup> La DGNSI traite, dans les limites de l'enveloppe budgétaire disponible, les demandes d'acquisition des équipements informatiques et en définit les spécifications.
 
-[^20-1]: Modif. 2 du 17.06.2026: Introduction Art. 3, Al. 3, Tiret 6; entrée en vigueur au 01.07.2026; Modification tArt; entrée en vigueur au 01.07.2026; Modification Al. 1-5; entrée en vigueur au 01.07.2026
+[^20-1]: Modif. 2 du 17.06.2026: Modification tArt; entrée en vigueur au 01.07.2026; Modification Al. 1-5; entrée en vigueur au 01.07.2026
 
 ## Chapitre V Disposition finale
 
