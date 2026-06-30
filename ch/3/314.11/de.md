@@ -4,11 +4,11 @@ title: Ordnungsbussenverordnung vom 16. Januar 2019 (OBV)
 short: OBV
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/93"
 language: de
-version: 2025-02-10
+version: 2026-07-01
 adopted: 2019-01-16
 in_force: 2020-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/93/20250210/de/xml/fedlex-data-admin-ch-eli-cc-2019-93-20250210-de-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/93/20250210/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/93/20260701/de/xml/fedlex-data-admin-ch-eli-cc-2019-93-20260701-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/93/20260701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2019/93/20250210/de"
 
 (OBV)
 
-vom 16. Januar 2019 (Stand am 10. Februar 2025)
+vom 16. Januar 2019 (Stand am 1. Juli 2026)
 
 Der Schweizerische Bundesrat,
 
@@ -84,7 +84,7 @@ Anhang 1[^t-1]
 
 ## Bussenliste 1
 
-[^t-1]: Bereinigt gemäss Ziff. I der V vom 20. Mai 2020 ([AS 2020 2125](https://fedlex.data.admin.ch/eli/oc/2020/419)), vom 17. Dez. 2021 ([AS 2022 11](https://fedlex.data.admin.ch/eli/oc/2022/11)) und vom 16. Okt. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 606](https://fedlex.data.admin.ch/eli/oc/2024/606)).
+[^t-1]: Bereinigt gemäss Ziff. I der V vom 20. Mai 2020 ([AS 2020 2125](https://fedlex.data.admin.ch/eli/oc/2020/419)), vom 17. Dez. 2021 ([AS 2022 11](https://fedlex.data.admin.ch/eli/oc/2022/11)), vom 16. Okt. 2024 ([AS 2024 606](https://fedlex.data.admin.ch/eli/oc/2024/606)) und Ziff. II der V vom 19. Dez. 2025, in Kraft seit 1. Juli 2026 ([AS 2026 22](https://fedlex.data.admin.ch/eli/oc/2026/22)).
 
 ### Übertretungen nach dem Strassenverkehrsgesetz vom 19. Dezember 1958 (SVG)
 
@@ -366,8 +366,10 @@ Anhang 1[^t-1]
 <tr><td>313. 1. Nichttragen des Schutzhelmes durch die Führerin oder den Führer von Motorrädern, Leicht-, Klein- und dreirädrigen Motorfahrzeugen (Art. 3*b* VRV)</td><td colspan="3">60</td></tr>
 <tr><td>2. Mitführen eines Kindes unter 12 Jahren ohne Helm auf Motorrädern, Leicht-, Klein- und dreirädrigen Motorfahrzeugen (Art. 3*b* Abs. 1 VRV)</td><td colspan="3">60</td></tr>
 <tr><td>314. 1. Nichtbenützen des äussersten Fahrstreifens rechts auf Strassen mit mehreren Fahrstreifen, sofern nicht überholt, eingespurt, in parallelen Kolonnen oder innerorts gefahren wird (Art. 8 Abs. 1 VRV)</td><td colspan="3">60</td></tr>
-<tr><td>2. Rechtsüberholen durch Ausschwenken und Wiedereinbiegen auf Strassen mit mehreren Fahrstreifen innerorts (Art. 8 Abs. 3 VRV)</td><td colspan="3">140</td></tr>
+<tr><td>2. Rechtsüberholen durch Ausschwenken und Wiedereinbiegen auf Haupt- und Nebenstrassen mit mehreren Fahrstreifen (Art. 8 Abs. 3 VRV)</td><td colspan="3">140</td></tr>
 <tr><td>3. Rechtsüberholen durch Ausschwenken und Wiedereinbiegen auf Autobahnen und Autostrassen mit mehreren Fahrstreifen (Art. 36 Abs. 5 VRV)</td><td colspan="3">250</td></tr>
+<tr><td>4. Unzulässiges Rechtsvorbeifahren auf Haupt- und Nebenstrassen mit mehreren Fahrstreifen (Art. 8 Abs. 3 VRV)</td><td colspan="3">100</td></tr>
+<tr><td>5. Unzulässiges Rechtsvorbeifahren auf Autobahnen und Autostrassen mit mehreren Fahrstreifen (Art. 36 Abs. 5 VRV)</td><td colspan="3">200</td></tr>
 <tr><td>315. Wechseln auf andern Fahrstreifen zum Überholen auf Einspurstrecke (Art. 13 Abs. 3 VRV)</td><td colspan="3">100</td></tr>
 <tr><td>316. Halten oder Parkieren auf der linken Strassenseite, obwohl rechts kein Strassenbahngeleise verläuft, kein Parkverbot oder Halteverbot signalisiert und die Strasse breit ist (Art. 18 Abs. 1 und 19 Abs. 2 Bst. a VRV)</td><td colspan="3">60</td></tr>
 <tr><td>317. Verlassen des Fahrzeuges, ohne den Zündungsschlüssel wegzunehmen (Art. 22 Abs. 1 VRV)</td><td colspan="3">60</td></tr>
@@ -426,6 +428,7 @@ Anhang 1[^t-1]
 <tr><td>340. Stehenbleiben mit einem Motorfahrzeug auf Autobahnen und Autostrassen, wenn das Motorfahrzeug auf dem Pannenstreifen oder auf einem Abstellplatz für Pannenfahrzeuge wegen Mangel an Treibstoff oder elektrischer Energie zum Stillstand gekommen ist (Art. 29 SVG)</td><td colspan="3">120</td></tr>
 <tr><td>341. Überfahren oder Überqueren einer Sicherheitslinie innerorts (Art. 34 Abs. 2 SVG und Art. 73 Abs. 6 Bst. a SSV)</td><td colspan="3">140</td></tr>
 <tr><td>342. Überfahren oder Überqueren einer Sperrfläche innerorts (Art. 27 Abs. 1 SVG und Art. 78 SSV)</td><td colspan="3">140</td></tr>
+<tr><td>343. Linkseitiges Umfahren einer Verkehrsinsel, einer Sperrfläche oder eines Hindernisses in der Mitte der Fahrbahn (Art. 7 VRV)</td><td colspan="3">100</td></tr>
 <tr><td>4. Motorfahrzeugführerinnen und ‑führer, Bau- und Ausrüstungsvorschriften</td><td colspan="3"></td></tr>
 <tr><td>400. Nichtmitführen</td><td colspan="3"></td></tr>
 <tr><td>1. des Pannendreiecks (Art. 90 Abs. 2 VTS[^annex1-lvlu1-lvlu1-10])</td><td colspan="3">40</td></tr>
@@ -495,7 +498,7 @@ Anhang 1[^t-1]
 <tr><td>1. «Allgemeines Fahrverbot in beiden Richtungen» (2.01; Art. 27 Abs. 1 SVG und Art. 18 Abs. 1 SSV)</td><td colspan="3">30</td></tr>
 <tr><td>2. «Einfahrt verboten» (2.02; Art. 27 Abs. 1 SVG und Art. 18 Abs. 3 SSV)</td><td colspan="3">30</td></tr>
 <tr><td>3. «Verbot für Fahrräder und Motorfahrräder» (2.05; Art. 27 Abs. 1 SVG und Art. 19 Abs. 1 Bst. c SSV)</td><td colspan="3">30</td></tr>
-<tr><td>4. «Verbot für Motorfahrräder» (2.06; Art. 27 Abs. 1 SVG und Art. 19 Abs. 1 Bst. c SSV)</td><td colspan="3">30</td></tr>
+<tr><td>4. «Verbot für Motorfahrräder» (2.06; Art. 27 Abs. 1 SVG, Art. 19 Abs. 1 Bst. c sowie Art. 64*a* Abs. 2 und 4 SSV)</td><td colspan="3">30</td></tr>
 <tr><td>5. «Fahrtrichtung rechts» (2.32; Art. 27 Abs. 1 SVG und Art. 24 Abs. 1 Bst. a SSV)</td><td colspan="3">30</td></tr>
 <tr><td>6. «Fahrtrichtung links» (2.33; Art. 27 Abs. 1 SVG und Art. 24 Abs. 1 Bst. a SSV)</td><td colspan="3">30</td></tr>
 <tr><td>7. «Hindernis rechts umfahren» (2.34; Art. 27 Abs. 1 SVG und Art. 24 Abs. 1 Bst. b SSV)</td><td colspan="3">30</td></tr>
@@ -534,6 +537,7 @@ Anhang 1[^t-1]
 <tr><td>623. Nichtgewähren des Vortritts bei Fussgängerstreifen (Art. 33 SVG, Art. 6 Abs. 1 und 2 VRV)</td><td colspan="3">40</td></tr>
 <tr><td>624. Verwenden eines Telefons ohne Freisprecheinrichtung während der Fahrt (Art. 3 Abs. 1 VRV)</td><td colspan="3">40</td></tr>
 <tr><td>625. Überschreiten der allgemeinen oder signalisierten Höchstgeschwindigkeit durch Personen auf Motorfahrrädern nach Abzug der vom ASTRA festgelegten Geräte- und Messunsicherheit (Art. 27 Abs. 1 SVG, Art. 4*a* Abs. 1 und 42 Abs. 4 VRV, Art. 22 Abs. 1, 22*a*, 22*b* Abs. 2 und 22*c* Abs. 1 SSV)</td><td colspan="3">30</td></tr>
+<tr><td>626. Linkseitiges Umfahren einer Verkehrsinsel, einer Sperrfläche oder eines Hindernisses in der Mitte der Fahrbahn (Art. 7 VRV)</td><td colspan="3">30</td></tr>
 <tr><td>7. Radfahrerinnen und Radfahrer sowie Führerinnen und Führer von Motorfahrrädern und Elektro-Rikschas, Bau- und Ausrüstungsvorschriften und administrative Bestimmungen</td><td colspan="3"></td></tr>
 <tr><td>700. 1. …</td><td colspan="3"></td></tr>
 <tr><td>2. Benützen eines Motorfahrrades oder einer Elektro-Rikscha ohne Kontrollschild oder ohne gültige Vignette bei bestehender Versicherung (Art. 90 und 94 Abs. 6 VZV; Art. 176 Abs. 4 VTS)</td><td colspan="3">60</td></tr>

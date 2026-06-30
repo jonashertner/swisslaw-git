@@ -4,11 +4,11 @@ title: Ordinanza del 16 gennaio 2019 concernente le multe disciplinari (OMD)
 short: OMD
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/93"
 language: it
-version: 2025-02-10
+version: 2026-07-01
 adopted: 2019-01-16
 in_force: 2020-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/93/20250210/it/xml/fedlex-data-admin-ch-eli-cc-2019-93-20250210-it-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/93/20250210/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/93/20260701/it/xml/fedlex-data-admin-ch-eli-cc-2019-93-20260701-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/93/20260701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2019/93/20250210/it"
 
 (OMD)
 
-del 16 gennaio 2019 (Stato 10 febbraio 2025)
+del 16 gennaio 2019 (Stato 1° luglio 2026)
 
 Il Consiglio federale svizzero,
 
@@ -84,7 +84,7 @@ Allegato 1[^t-1]
 
 ## Elenco delle multe 1
 
-[^t-1]: Aggiornato dalla cifra I delle O del 20 mag. 2020 ([RU 2020 2125](https://fedlex.data.admin.ch/eli/oc/2020/419)), del 17 dic. 2021 ([RU 2022 11](https://fedlex.data.admin.ch/eli/oc/2022/11)) e del 16 ott. 2024, in vigore dal 1° gen. 2025 ([RU 2024 606](https://fedlex.data.admin.ch/eli/oc/2024/606)).
+[^t-1]: Aggiornato dalle cifre I delle O del 20 mag. 2020 ([RU 2020 2125](https://fedlex.data.admin.ch/eli/oc/2020/419)), del 17 dic. 2021 ([RU 2022 11](https://fedlex.data.admin.ch/eli/oc/2022/11)), del 16 ott. 2024 ([RU 2024 606](https://fedlex.data.admin.ch/eli/oc/2024/606)) e dalla cifra II dell’O del 19 dic. 2025, in vigore dal 1° lug. 2026 ([RU 2026 22](https://fedlex.data.admin.ch/eli/oc/2026/22)).
 
 ### Contravvenzioni secondo la legge federale del 19 dicembre 1958 sulla circolazione stradale (LCStr)
 
@@ -193,10 +193,10 @@ Allegato 1[^t-1]
 <tr><td>222. 1. Parcheggio su una corsia ciclabile (art. 19 cpv. 2 lett. d ONC) fino a 60 minuti</td><td colspan="2">120</td></tr>
 <tr><td>2. Fermata su una corsia ciclabile ostacolando la circolazione dei ciclisti (art. 40 cpv. 3 ONC)</td><td colspan="2">80</td></tr>
 <tr><td>223. Parcheggio sulla carreggiata attigua a una corsia ciclabile (art. 19 cpv. 2 lett. d ONC) fino a 60 minuti</td><td colspan="2">120</td></tr>
-<tr><td>224. 1. Parcheggio sulle rotaie di una tranvia o di una ferrovia su strada (art. 19 cpv. 2 lett. a e 25 cpv. 5 ONC) fino a 60 minuti</td><td colspan="2">120</td></tr>
-<tr><td>2. Fermata sulle rotaie di una tranvia o di una ferrovia su strada (art. 25 cpv. 5 ONC)</td><td colspan="2">80</td></tr>
-<tr><td>225. 1. Parcheggio a meno di 1,5 m dalla rotaia più vicina di una tranvia o di una ferrovia su strada (art. 19 cpv. 2 lett. a e 25 cpv. 5 ONC) fino a 60 minuti</td><td colspan="2">120</td></tr>
-<tr><td>2. Fermata a meno di 1,5 m dalla rotaia più vicina di una tranvia o di una ferrovia su strada (art. 25 cpv. 5 ONC)</td><td colspan="2">80</td></tr>
+<tr><td>224. 1. Parcheggio sulle rotaie del tram (art. 19 cpv. 2 lett. a e 25 cpv. 5 ONC) fino a 60 minuti</td><td colspan="2">120</td></tr>
+<tr><td>2. Fermata sulle rotaie del tram (art. 25 cpv. 5 ONC)</td><td colspan="2">80</td></tr>
+<tr><td>225. 1. Parcheggio a meno di 1,5 m dalla rotaia più vicina del tram (art. 19 cpv. 2 lett. a e 25 cpv. 5 ONC) fino a 60 minuti</td><td colspan="2">120</td></tr>
+<tr><td>2. Fermata a meno di 1,5 m dalla rotaia più vicina del tram (art. 25 cpv. 5 ONC)</td><td colspan="2">80</td></tr>
 <tr><td>226. 1. Parcheggio su una corsia d’emergenza di un’autostrada (art. 36 cpv. 3 ONC) fino a 60 minuti</td><td colspan="2">120</td></tr>
 <tr><td>2. Fermata su una corsia d’emergenza di un’autostrada, salvo in casi di necessità (art. 36 cpv. 3 ONC)</td><td colspan="2">80</td></tr>
 <tr><td>227. 1. Parcheggio su una corsia d’emergenza di una semiautostrada (art. 36 cpv. 3 ONC) fino a 60 minuti</td><td colspan="2">120</td></tr>
@@ -349,7 +349,7 @@ Allegato 1[^t-1]
 <tr><td>23. «Ciclopista e strada pedonale» (2.63, 2.63.1; art. 27 cpv. 1 e 43 cpv. 2 LCStr)</td><td colspan="2">100</td></tr>
 <tr><td>24. «Divieto di circolazione per i rimorchi eccettuati i semirimorchi e i rimorchi ad asse centrale» (2.09.1; art. 27 cpv. 1 LCStr e art. 19 cpv. 1 lett. f<sup>bis</sup> OSStr)</td><td colspan="2">100</td></tr>
 <tr><td>25. Inosservanza del segnale «Divieto di sorpasso per gli autocarri» sulle autostrade (2.45; art. 27 cpv. 1 LCStr e art. 26 cpv. 2 OSStr)</td><td colspan="2">100</td></tr>
-<tr><td>305. Circolare sul tracciato di una tranvia (art. 27 cpv. 1 e 43 cpv. 1 LCStr)</td><td colspan="2">60</td></tr>
+<tr><td>305. Circolare sul tracciato del tram (art. 27 cpv. 1 e 43 cpv. 1 LCStr)</td><td colspan="2">60</td></tr>
 <tr><td>306. 1. Inosservanza dell’ordine di preselezione non rispettando la freccia di direzione demarcata sulla carreggiata (art. 27 cpv. 1 LCStr e art. 74 cpv. 2 OSStr)</td><td colspan="2">100</td></tr>
 <tr><td>2. Inosservanza dell’ordine di preselezione non rispettando la freccia con i contorni dei segnali luminosi (art. 27 cpv. 1 LCStr e art. 68 cpv. 1<sup>bis</sup> OSStr)</td><td colspan="2">100</td></tr>
 <tr><td>3. Non seguire la corsia nella direzione indicata dalla freccia (incluso eventuale oltrepassare una linea di sicurezza che delimita le corsie nella medesima direzione [6.01]; art. 27 cpv. 1 LCStr, art. 73 cpv. 6 lett. a e art. 74 cpv. 1 e 2 OSStr)</td><td colspan="2">100</td></tr>
@@ -366,10 +366,12 @@ Allegato 1[^t-1]
 <tr><td>313. 1. Omissione di portare il casco di protezione quale conducente di motoveicoli, di quadricicli leggeri a motore, di quadricicli a motore e di tricicli a motore (art. 3*b* ONC)</td><td colspan="2">60</td></tr>
 <tr><td>2. Trasporto di fanciulli di età inferiore ai 12 anni senza casco di protezione su motoveicoli, quadricicli leggeri a motore, quadricicli a motore e tricicli a motore (art. 3*b* cpv. 1 ONC)</td><td colspan="2">60</td></tr>
 <tr><td>314. 1. Non utilizzare la corsia più a destra di una strada a più corsie, tranne in caso di sorpasso, preselezione, circolazione in colonne parallele o all’interno di località (art. 8 cpv. 1 ONC)</td><td colspan="2">60</td></tr>
-<tr><td>2. Superare veicoli sulla destra, su una strada a più corsie, nelle località (art. 8 cpv. 3 ONC)</td><td colspan="2">140</td></tr>
+<tr><td>2. Sorpassare a destra con manovre di uscita e di rientro su strade principali e secondarie a più corsie (art. 8 cpv. 3 ONC)</td><td colspan="2">140</td></tr>
 <tr><td>3. Sorpassare a destra con manovre di uscita e di rientro su autostrade e semiautostrade a più corsie (art. 36 cpv. 5 ONC)</td><td colspan="2">250</td></tr>
+<tr><td>4. Superamento sulla destra non ammesso su strade principali e secondarie a più corsie (art. 8 cpv. 3 ONC)</td><td colspan="2">100</td></tr>
+<tr><td>5. Superamento sulla destra non ammesso su autostrade e semiautostrade a più corsie (art. 36 cpv. 5 ONC)</td><td colspan="2">200</td></tr>
 <tr><td>315. Cambiare corsia, per sorpassare, su un tratto di strada che serve alla preselezione (art. 13 cpv. 3 ONC)</td><td colspan="2">100</td></tr>
-<tr><td>316. Fermata o parcheggio sul margine sinistro della carreggiata sebbene a destra non vi siano rotaie di una tranvia o di una ferrovia su strada, non sia segnalato un divieto di parcheggio o di fermata e la strada sia larga (art. 18 cpv. 1 e 19 cpv. 2 lett. a ONC)</td><td colspan="2">60</td></tr>
+<tr><td>316. Fermata o parcheggio sul margine sinistro della carreggiata sebbene a destra non vi siano rotaie del tram, non sia segnalato un divieto di parcheggio o di fermata e la strada sia larga (art. 18 cpv. 1 e 19 cpv. 2 lett. a ONC)</td><td colspan="2">60</td></tr>
 <tr><td>317. Lasciare il veicolo senza togliere le chiavi di contatto (art. 22 cpv. 1 ONC)</td><td colspan="2">60</td></tr>
 <tr><td>318. 1. Non collocare il segnale di veicolo fermo (art. 23 cpv. 2 ONC)</td><td colspan="2">60</td></tr>
 <tr><td>2. Collocare il segnale di veicolo fermo non conformemente alle prescrizioni (art. 23 cpv. 2 ONC)</td><td colspan="2">40</td></tr>
@@ -426,6 +428,7 @@ Allegato 1[^t-1]
 <tr><td>340. Arrestarsi con un veicolo a motore su un’autostrada o semiautostrada, se il veicolo a motore si è fermato sulla corsia di emergenza o su un posto di fermata per veicoli di panna a causa della mancanza di carburante o di energia elettrica (art. 29 LCStr)</td><td colspan="2">120</td></tr>
 <tr><td>341. Oltrepassare o passare sopra una linea di sicurezza nelle località (art. 34 cpv. 2 LCStr e art. 73 cpv. 6 lett. a OSStr)</td><td colspan="2">140</td></tr>
 <tr><td>342. Oltrepassare o passare sopra una superficie vietata al traffico nelle località (art. 27 cpv. 1 LCStr e art. 78 OSStr)</td><td colspan="2">140</td></tr>
+<tr><td>343. Circolare a sinistra di un’isola spartitraffico, una superficie vietata al traffico o un ostacolo al centro della carreggiata (art. 7 ONC)</td><td colspan="2">100</td></tr>
 <tr><td>4. Conducenti di veicoli a motore: prescrizioni sulla costruzione e l’equipaggiamento</td><td colspan="2"></td></tr>
 <tr><td>400. Mancanza a bordo</td><td colspan="2"></td></tr>
 <tr><td>1. del triangolo di sicurezza (art. 90 cpv. 2 OETV[^annex1-lvlu1-lvlu1-10])</td><td colspan="2">40</td></tr>
@@ -495,7 +498,7 @@ Allegato 1[^t-1]
 <tr><td>1. «Divieto generale di circolazione nelle due direzioni» (2.01; art. 27 cpv. 1 LCStr e art. 18 cpv. 1 OSStr)</td><td colspan="2">30</td></tr>
 <tr><td>2. «Divieto di accesso» (2.02; art. 27 cpv. 1 LCStr e art. 18 cpv. 3 OSStr)</td><td colspan="2">30</td></tr>
 <tr><td>3. «Divieto di circolazione per i velocipedi e i ciclomotori» (2.05; art. 27 cpv. 1 LCStr e art. 19 cpv. 1 lett. c OSStr)</td><td colspan="2">30</td></tr>
-<tr><td>4. «Divieto di circolazione per i ciclomotori» (2.06; art. 27 cpv. 1 LCStr e art. 19 cpv. 1 lett. c OSStr)</td><td colspan="2">30</td></tr>
+<tr><td>4. «Divieto di circolazione per i ciclomotori» (2.06; art. 27 cpv. 1 LCStr, art. 19 cpv. 1 lett. c e art. 64*a* cpv. 2 e 4 OSStr)</td><td colspan="2">30</td></tr>
 <tr><td>5. «Direzione a destra» (2.32; art. 27 cpv. 1 LCStr e art. 24 cpv. 1 lett. a OSStr)</td><td colspan="2">30</td></tr>
 <tr><td>6. «Direzione a sinistra» (2.33; art. 27 cpv. 1 LCStr e art. 24 cpv. 1 lett. a OSStr)</td><td colspan="2">30</td></tr>
 <tr><td>7. «Ostacolo da scansare a destra» (2.34; art. 27 cpv. 1 LCStr e art. 24 cpv. 1 lett. b OSStr)</td><td colspan="2">30</td></tr>
@@ -534,6 +537,7 @@ Allegato 1[^t-1]
 <tr><td>623. Inosservanza dell’obbligo di dare la precedenza sui passaggi pedonali (art. 33 LCStr, art. 6 cpv. 1 e 2 ONC)</td><td colspan="2">40</td></tr>
 <tr><td>624. Impiego, durante la guida, di un telefono senza dispositivo «mani libere» (art. 3 cpv. 1 ONC)</td><td colspan="2">40</td></tr>
 <tr><td>625. Superamento della velocità massima consentita o segnalata da parte di persone su ciclomotori, dopo la detrazione del margine di incertezza dovuto alla misura e agli apparecchi definito dall’USTRA (art. 27 cpv. 1 LCStr, art. 4*a* cpv. 1 e 42 cpv. 4 ONC, art. 22 cpv. 1, 22*a*, 22*b* cpv. 2 e 22*c* cpv. 1 OSStr)</td><td colspan="2">30</td></tr>
+<tr><td>626. Circolare a sinistra di un’isola spartitraffico, una superficie vietata al traffico o un ostacolo al centro della carreggiata (art. 7 ONC)</td><td colspan="2">30</td></tr>
 <tr><td>7. Ciclisti, ciclomotoristi e conducenti di risciò elettrici; prescrizioni concernenti la costruzione e l’equipaggiamento e disposizioni amministrative</td><td colspan="2"></td></tr>
 <tr><td>700. 1. ...</td><td colspan="2"></td></tr>
 <tr><td>2. Uso di un ciclomotore o di un risciò elettrico senza targa o senza contrassegno valido benché sia stata stipulata l’assicurazione (art. 90 e 94 cpv. 6 OAC; art. 176 cpv. 4 OETV)</td><td colspan="2">60</td></tr>

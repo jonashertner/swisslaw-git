@@ -4,11 +4,11 @@ title: "Ordonnance du 16 janvier 2019 sur les amendes d'ordre (OAO)"
 short: OAO
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/93"
 language: fr
-version: 2025-02-10
+version: 2026-07-01
 adopted: 2019-01-16
 in_force: 2020-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/93/20250210/fr/xml/fedlex-data-admin-ch-eli-cc-2019-93-20250210-fr-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/93/20250210/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/93/20260701/fr/xml/fedlex-data-admin-ch-eli-cc-2019-93-20260701-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/93/20260701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2019/93/20250210/fr"
 
 (OAO)
 
-du 16 janvier 2019 (État le 10 février 2025)
+du 16 janvier 2019 (État le 1<sup>er</sup> juillet 2026)
 
 Le Conseil fédéral suisse,
 
@@ -84,9 +84,9 @@ Annexe 1[^t-1]
 
 ## Liste des amendes 1
 
-[^t-1]: Mise à jour par le ch. I des O du 20 mai 2020 ([RO 2020 2125](https://fedlex.data.admin.ch/eli/oc/2020/419)), du 17 déc. 2021 ([RO 2022 11](https://fedlex.data.admin.ch/eli/oc/2022/11)) et du 16 oct. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 606](https://fedlex.data.admin.ch/eli/oc/2024/606)).
+[^t-1]: Mise à jour par le ch. I des O du 20 mai 2020 ([RO 2020 2125](https://fedlex.data.admin.ch/eli/oc/2020/419)), du 17 déc. 2021 ([RO 2022 11](https://fedlex.data.admin.ch/eli/oc/2022/11)), du 16 oct. 2024 ([RO 2024 606](https://fedlex.data.admin.ch/eli/oc/2024/606)) et le ch. II de l’O du 19 déc. 2025, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2026 22](https://fedlex.data.admin.ch/eli/oc/2026/22)).
 
-### Contraventions à la loi du 19 décembre 1958 sur la circulation routière (LCR)
+### Contraventions à la loi fédérale du 19 décembre 1958 sur la circulation routière (LCR)
 
 [^annex1-lvlu1-lvlu1-1]
 
@@ -366,8 +366,10 @@ Annexe 1[^t-1]
 <tr><td>313. 1. Conducteurs de motocycles, de quadricycles légers à moteur, de quadricycles à moteur ou de tricycles à moteur ne portant pas le casque (art. 3*b* OCR)</td><td colspan="2">60</td></tr>
 <tr><td>2. Transporter un enfant de moins de douze ans sans casque sur un motocycle, un quadricycle léger à moteur, un quadricycle à moteur ou un tricycle à moteur (art. 3*b*, al. 1, OCR)</td><td colspan="2">60</td></tr>
 <tr><td>314. 1. Ne pas utiliser la voie extérieure de droite d’une route à plusieurs voies, à moins de dépasser, de se mettre en ordre de présélection, de circuler en files parallèles ou à l’intérieur de localités (art. 8, al. 1, OCR)</td><td colspan="2">60</td></tr>
-<tr><td>2. Contourner des véhicules par la droite pour les dépasser, sur une route à plusieurs voies, dans une localité (art. 8, al. 3, OCR)</td><td colspan="2">140</td></tr>
+<tr><td>2. Dépasser par la droite en déboîtant puis en se rabattant sur des routes principales ou secondaires à plusieurs voies (art. 8, al. 3, OCR)</td><td colspan="2">140</td></tr>
 <tr><td>3. Dépasser par la droite en déboîtant puis en se rabattant sur des autoroutes et des semi-autoroutes à plusieurs voies (art. 36, al. 5, OCR)</td><td colspan="2">250</td></tr>
+<tr><td>4. Devancer par la droite sur des routes principales ou secondaires à plusieurs voies sans y être autorisé (art. 8, al. 3, OCR)</td><td colspan="2">100</td></tr>
+<tr><td>5. Devancer par la droite sur des autoroutes et des semi-autoroutes à plusieurs voies sans y être autorisé (art. 36, al. 5, OCR)</td><td colspan="2">200</td></tr>
 <tr><td>315. Changer de voie sur un tronçon servant à la présélection, pour effectuer un dépassement (art. 13, al. 3, OCR)</td><td colspan="2">100</td></tr>
 <tr><td>316. S’arrêter ou stationner sur le côté gauche de la chaussée, bien qu’il n’y ait à droite ni voie de tram ou de chemin de fer routier ni interdiction de parquer ou de s’arrêter et que la route soit large (art. 18, al. 1, et art. 19, al. 2, let. a, OCR)</td><td colspan="2">60</td></tr>
 <tr><td>317. Quitter le véhicule sans enlever la clé de contact (art. 22, al. 1, OCR)</td><td colspan="2">60</td></tr>
@@ -426,6 +428,7 @@ Annexe 1[^t-1]
 <tr><td>340. Stationner avec un véhicule automobile sur une autoroute ou une semi-autoroute si le véhicule en question est arrêté sur la bande d’arrêt d’urgence ou sur une place d’arrêt pour véhicules en panne par manque de carburant ou d’électricité (art. 29 LCR)</td><td colspan="2">120</td></tr>
 <tr><td>341. Franchir une ligne de sécurité ou empiéter sur elle à l’intérieur des localités (art. 34, al. 2, LCR et art. 73, al. 6, let. a, OSR)</td><td colspan="2">140</td></tr>
 <tr><td>342. Franchir une surface interdite au trafic ou empiéter sur elle à l’intérieur des localités (art. 27, al. 1, LCR et art. 78 OSR)</td><td colspan="2">140</td></tr>
+<tr><td>343. Contourner par la gauche un îlot, une surface interdite au trafic ou un obstacle au milieu de la chaussée (art. 7 OCR)</td><td colspan="2">100</td></tr>
 <tr><td>4. Conducteurs de véhicules automobiles; prescriptions sur la construction et l’équipement</td><td colspan="2"></td></tr>
 <tr><td>400. Ne pas être muni</td><td colspan="2"></td></tr>
 <tr><td>1. du triangle de panne (art. 90, al. 2, OETV[^annex1-lvlu1-lvlu1-10])</td><td colspan="2">40</td></tr>
@@ -495,7 +498,7 @@ Annexe 1[^t-1]
 <tr><td>1. «Interdiction générale de circuler dans les deux sens» (2.01; art. 27, al. 1, LCR et art. 18, al. 1, OSR)</td><td colspan="2">30</td></tr>
 <tr><td>2. «Accès interdit» (2.02; art. 27, al. 1, LCR et art. 18, al. 3, OSR)</td><td colspan="2">30</td></tr>
 <tr><td>3. «Circulation interdite aux cycles et aux cyclomoteurs» (2.05; art. 27, al. 1, LCR et art. 19, al. 1, let. c, OSR)</td><td colspan="2">30</td></tr>
-<tr><td>4. «Circulation interdite aux cyclomoteurs» (2.06; art. 27, al. 1, LCR et art. 19, al. 1, let. c, OSR)</td><td colspan="2">30</td></tr>
+<tr><td>4. «Circulation interdite aux cyclomoteurs» (2.06; art. 27, al. 1, LCR et art. 19, al. 1, let. c, et 64*a*, al. 2 et 4, OSR)</td><td colspan="2">30</td></tr>
 <tr><td>5. «Sens obligatoire à droite» (2.32; art. 27, al. 1, LCR et art. 24, al. 1, let. a, OSR)</td><td colspan="2">30</td></tr>
 <tr><td>6. «Sens obligatoire à gauche» (2.33; art. 27, al. 1, LCR et art. 24, al. 1, let. a, OSR)</td><td colspan="2">30</td></tr>
 <tr><td>7. «Obstacle à contourner par la droite» (2.34; art. 27, al. 1, LCR et art. 24, al. 1, let. b, OSR)</td><td colspan="2">30</td></tr>
@@ -534,6 +537,7 @@ Annexe 1[^t-1]
 <tr><td>623. Ne pas accorder la priorité à un passage pour piétons (art. 33 LCR, art. 6, al. 1 et 2, OCR)</td><td colspan="2">40</td></tr>
 <tr><td>624. Utiliser un téléphone sans dispositif «mains libres» pendant la course (art. 3, al. 1, OCR)</td><td colspan="2">40</td></tr>
 <tr><td>625. Dépasser la vitesse maximale autorisée ou la vitesse maximale signalée sur un cyclomoteur après déduction de la marge d’erreur inhérente aux appareils et aux mesures fixée par l’OFROU (art. 27, al. 1, LCR, art. 4*a,* al. 1, et 42, al. 4, OCR, art. 22, al. 1, 22*a*, 22*b,* al. 2, et 22*c,* al. 1, OSR)</td><td colspan="2">30</td></tr>
+<tr><td>626. Contourner par la gauche un îlot, une surface interdite au trafic ou un obstacle au milieu de la chaussée (art. 7 OCR)</td><td colspan="2">30</td></tr>
 <tr><td>7. Cyclistes, cyclomotoristes et conducteurs de vélos-taxis électriques; prescriptions sur la construction et l’équipement et dispositions administratives</td><td colspan="2"></td></tr>
 <tr><td>700. 1. …</td><td colspan="2"></td></tr>
 <tr><td>2. Utiliser un cyclomoteur ou un vélo-taxi électrique dépourvu de la plaque de contrôle ou d’une vignette valable, lorsqu’une assurance a été conclue (art. 90 et 94, al. 6, OAC; art. 176, al. 4, OETV)</td><td colspan="2">60</td></tr>
