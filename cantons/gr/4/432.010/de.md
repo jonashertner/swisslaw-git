@@ -4,13 +4,12 @@ number: "432.010"
 title: Verordnung zum Gesetz über Ausbildungsstätten im Gesundheits- und Sozialwesen
 short: VOzAGSG
 language: de
-version: 2020-09-01
-corrected: 2025-02-21
-version_adopted: 2020-08-18
+version: 2026-07-01
+version_adopted: 2026-05-05
 adopted: 2004-12-14
 in_force: 2004-12-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/432.010"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/3071/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3822/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.gr-lex.gr.ch/api/de/versions/3071/pdf_file"
 
 (VOzAGSG)
 
-Vom 14.12.2004 (Stand 01.09.2020)
+Vom 14.12.2004 (Stand 01.07.2026)
 
 Gestützt auf Art. 19 des Gesetzes über Ausbildungsstätten im Gesundheits- und Sozialwesen[^ingress-1]
 
@@ -192,7 +191,7 @@ von der Regierung erlassen am 14. Dezember 2004
 
 **Beitragsbemessung**
 
-<sup>1</sup> Die Bemessung des Kantonsbeitrags erfolgt durch das Amt bis Mitte April des Folgejahres.
+<sup>1</sup> Die Bemessung des Kantonsbeitrags erfolgt durch das Amt für Mittelschulen und Tertiärbildung (Amt) bis Mitte April des Folgejahres.
 
 <sup>2</sup> Der Kantonsbeitrag deckt das anrechenbare Betriebsdefizit zu hundert Prozent.
 
@@ -230,6 +229,16 @@ von der Regierung erlassen am 14. Dezember 2004
 
 <sup>2</sup> Sie werden dem Grossen Rat in der Junisession des Folgejahres zur Kenntnis gebracht.
 
+### 2.4.a Weitere Beiträge
+
+#### Art. 20a
+
+**Verfahren und Abgeltung**
+
+<sup>1</sup> Das BGS unterbreitet dem Amt Vorschläge für Massnahmen zur Förderung der Ausbildung von humanmedizinischem Personal. Es erstattet dem Amt über deren Umsetzung jährlich Bericht.
+
+<sup>2</sup> Die vom Kanton gewährten Beiträge an das BGS für Massnahmen zur Förderung der Ausbildung sind in dessen Globalbeitrag enthalten.
+
 ### 2.5. Raumbeschaffung
 
 #### Art. 21
@@ -250,6 +259,79 @@ von der Regierung erlassen am 14. Dezember 2004
 
 <sup>2</sup> Ausbildungsstätten, die vor In-Kraft-Treten dieser Verordnung Kantonsbeiträge erhielten, haben bis Ende des Jahres 2006 eine Leistungsvereinbarung abzuschliessen.
 
+## 3a. Beiträge an Auszubildende der Höheren Fachschule (HF) und an Studierende der Fachhochschule (FH)
+
+#### Art. 22a
+
+**Beitragsberechtigung**
+
+<sup>1</sup> Beitragsberechtigt ist, wer:
+
+- a) in einem Bildungsgang Pflege HF oder in einem Bachelorstudiengang Pflege FH eingeschrieben ist; und
+- b) zu Beginn des Ausbildungs- oder Studienjahres den zivilrechtlichen Wohnsitz im Kanton hat oder als Staatsangehörige oder Staatsangehöriger eines EU/EFTA-Mitgliedstaates über einen Anknüpfungspunkt im Kanton verfügt (Grenzgängerin oder Grenzgänger).
+
+<sup>2</sup> Nicht beitragsberechtigt ist, wer bereits den Bildungsgang Pflege HF, den Bachelorstudiengang Pflege FH oder eine als gleichwertig anerkannte ausländische Ausbildung abgeschlossen hat.
+
+#### Art. 22b
+
+**Beitragszusammensetzung und Beitragshöhe**
+
+<sup>1</sup> Der zu entrichtende Beitrag setzt sich zusammen aus dem Unterstützungsbeitrag gemäss Absatz 2 und gegebenenfalls aus der Pauschale für die elterliche Unterhaltspflicht gemäss Absatz 3.
+
+<sup>2</sup> Die Höhe des Unterstützungsbeitrags ist in Anhang 1 festgelegt.
+
+<sup>3</sup> Für jedes Kind, für dessen Unterhalt die Person in Ausbildung oder im Studium betreuungs- oder unterstützungspflichtig ist, wird eine jährliche Pauschale von 2760 Franken ausgerichtet.
+
+#### Art. 22c
+
+**Dauer der Beitragsberechtigung**
+
+<sup>1</sup> Die Dauer der Beitragsberechtigung richtet sich nach der regulären Dauer des gewählten Ausbildungsganges oder Studiums gemäss Bundesrecht.
+
+<sup>2</sup> Bei Ausbildungs- oder Studienabbruch, bei Unterbruch und Wegzug oder Wegfall des Anknüpfungspunkts nach Artikel 22a Absatz 1 Litera b erlischt die Beitragsberechtigung ab Beginn des Folgemonats.
+
+#### Art. 22d
+
+**Beitragsgesuch und Modalitäten**
+
+<sup>1</sup> Das Beitragsgesuch ist mit den erforderlichen Angaben und Unterlagen nach Beginn der Ausbildung oder des Studiums beim Amt einzureichen. Der Eingabeschluss ist der 15. Februar für den Beginn im Frühjahrssemester und der 15. Oktober für den Beginn im Herbstsemester.
+
+<sup>2</sup> Der Beitrag wird jeweils pro Ausbildungs- beziehungsweise Studienjahr zugesprochen. Nach Ablauf des Ausbildungs- beziehungsweise Studienjahres muss ein neues Gesuch eingereicht werden.
+
+<sup>3</sup> Bei verspäteter Gesuchseinreichung wird der Beitrag erst ab dem auf die Gesuchseinreichung folgenden Monat bis zum Ende des Ausbildungs- beziehungsweise Studienjahres ausgerichtet.
+
+<sup>4</sup> Eine rückwirkende Ausrichtung von Beiträgen ist ausgeschlossen.
+
+#### Art. 22e
+
+**Meldung von Änderungen**
+
+<sup>1</sup> Eine beitragsempfangende Person hat einen Wegzug, den Verlust der Bewilligung zur Ausübung der Erwerbstätigkeit als Grenzgängerin oder als Grenzgänger sowie den Ausbildungs- oder Studienabbruch innert 14 Tagen dem Amt zu melden.
+
+<sup>2</sup> Jede weitere Änderung der Verhältnisse, die für die Beitragsausrichtung von Bedeutung ist, ist dem Amt innert 30 Tagen zu melden.
+
+#### Art. 22f
+
+**Auszahlungsmodalitäten**
+
+<sup>1</sup> Der Beitrag nach Artikel 22b wird halbjährlich und nur in der Schweiz ausbezahlt.
+
+#### Art. 22g
+
+**Rückerstattung und Rückforderung von Beiträgen**
+
+<sup>1</sup> Der Beitrag nach Artikel 22b ist ganz oder teilweise zurückzuerstatten:
+
+- a) wenn die Mitwirkungspflichten in grober Weise oder wiederholt verletzt werden;
+- b) wenn dieser durch unwahre Angaben oder Verheimlichung erheblicher Tatsachen erwirkt wurde;
+- c) bei einem Ausschluss von der Ausbildung oder dem Studium aus disziplinarischen Gründen;
+- d) bei Abbruch der Ausbildung oder des Studiums.
+
+<sup>2</sup> Auf eine Rückforderung kann ganz oder teilweise verzichtet werden:
+
+- a) bei Abbruch der Ausbildung oder des Studiums aus gesundheitlichen Gründen;
+- b) bei definitivem Nichtbestehen der Ausbildung oder des Studiums.
+
 ## 4. Schlussbestimmungen
 
 #### Art. 23
@@ -258,10 +340,50 @@ von der Regierung erlassen am 14. Dezember 2004
 
 [^23-1]: Änderungen bisherigen Rechts werden nicht aufgeführt.
 
+#### Art. 23a
+
+**Erstmalige Gesuchseinreichung und Auszahlung**
+
+<sup>1</sup> Das Beitragsgesuch gemäss Artikel 22d ist für das Ausbildungs- beziehungsweise Studienjahr 2024/2025 mit Beginn im Herbstsemester 2024 bis zum 31. März 2025 beim Amt einzureichen.
+
+<sup>2</sup> Die Gesamtauszahlung für das Ausbildungs- beziehungsweise Studienjahr 2024/2025 erfolgt bis zum Ende des Schuljahres 2024/2025.
+
 #### Art. 24
 
 **In-Kraft-Treten**
 
 <sup>1</sup> Diese Verordnung tritt rückwirkend am 1. Dezember 2004 in Kraft.
+
+## A1 Anhang 1: Höhe des Unterstützungsbeitrags (Art. 22b)
+
+### A1.1. Allgemeines
+
+#### Art. A1-1
+
+**Grundsatz**
+
+<sup>1</sup> Die in diesem Anhang fixierten Unterstützungsbeiträge richten sich nach der Branchenempfehlung «Mindestlöhne für Studierende HF Pflege in Graubünden» mit Stand vom 1. Januar 2024.
+
+<sup>2</sup> Die Teuerung gilt bis zu einem Indexstand von 108.5 Punkten als ausgeglichen (Indexbasis Dezember 2005 = 100 Punkte). Die Unterstützungsbeiträge werden gemäss den Beschlüssen der Regierung des Kantons Graubünden für das kantonale Personal angepasst.
+
+#### Art. A1-2
+
+**Berechnung Unterstützungsbeitrag**
+
+<sup>1</sup> Als Unterstützungsbeitrag wird die Differenz zwischen den in Absatz 2 genannten Beträgen und dem Bruttojahreslohn der gesuchstellenden Person definiert.
+
+<sup>2</sup> Befindet sich die Person im Studium Pflege FH, so wird der Unterstützungsbeitrag auf einen Drittel gekürzt:
+
+<table>
+<tr><th>Alter</th><th>pro Ausbildungsjahr</th></tr>
+<tr><td>23 Jahre</td><td>Fr. 34'250.00</td></tr>
+<tr><td>24 Jahre</td><td>Fr. 35'740.00</td></tr>
+<tr><td>25 Jahre</td><td>Fr. 37'230.00</td></tr>
+<tr><td>26 Jahre</td><td>Fr. 38'720.00</td></tr>
+<tr><td>27 Jahre</td><td>Fr. 40'210.00</td></tr>
+<tr><td>28 Jahre</td><td>Fr. 41'700.00</td></tr>
+<tr><td>29 Jahre</td><td>Fr. 43'180.00</td></tr>
+<tr><td>30 Jahre und älter</td><td>Fr. 44'670.00</td></tr>
+</table>
 
 -
