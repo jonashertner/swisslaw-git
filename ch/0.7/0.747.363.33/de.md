@@ -3,24 +3,24 @@ sr: "0.747.363.33"
 title: Internationales Übereinkommen vom 1. November 1974 zum Schutz des menschlichen Lebens auf See
 eli: "https://fedlex.data.admin.ch/eli/cc/1982/128_128_128"
 language: de
-version: 2026-04-14
+version: 2026-07-01
 adopted: 1974-11-01
 in_force: 1982-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/128_128_128/20260414/de/xml/fedlex-data-admin-ch-eli-cc-1982-128_128_128-20260414-de-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1982/128_128_128/20260414/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/128_128_128/20260701/de/xml/fedlex-data-admin-ch-eli-cc-1982-128_128_128-20260701-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1982/128_128_128/20260701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Internationales Übereinkommen von 1974 zum Schutz des menschlichen Lebens auf See
 
-AS **1982** 128
+AS **1982** 128; BBl **1980** II 709
 
 Übersetzung
 
 Abgeschlossen in London am 1. November 1974 Von der Bundesversammlung genehmigt am 9. Juni 1981[^t-1] Schweizerische Ratifikationsurkunde hinterlegt am 1. Oktober 1981 In Kraft getreten für die Schweiz am 1. Januar 1982
 
-(Stand am 14. April 2026)
+(Stand am 1. Juli 2026)
 
 [^t-1]: [AS 1982 127](https://fedlex.data.admin.ch/eli/oc/1982/127_127_127)
 
@@ -42,7 +42,7 @@ a) Die Vertragsregierungen verpflichten sich, diesem Übereinkommen und seinem A
 
 b) Die Vertragsregierungen verpflichten sich, alle Gesetze, Verordnungen, Ausführungsbestimmungen und sonstigen Vorschriften zu erlassen und alle sonstigen Massnahmen zu treffen, die erforderlich sind, um diesem Übereinkommen volle Wirksamkeit zu verleihen und dadurch zu gewährleisten, dass sich ein Schiff im Hinblick auf den Schutz des menschlichen Lebens für seinen Verwendungszweck eignet.
 
-[^I-1]: Dieser Anhang und seine Änderungen sind in der AS nicht veröffentlicht ([AS 1984 256](https://fedlex.data.admin.ch/eli/oc/1984/256_256_256); [1985 1606](https://fedlex.data.admin.ch/eli/oc/1985/1606_1606_1606); [1987 1050](https://fedlex.data.admin.ch/eli/oc/1987/1050_1050_1050); [1990 595](https://fedlex.data.admin.ch/eli/oc/1990/595_595_595), [596](https://fedlex.data.admin.ch/eli/oc/1990/596_596_596); [1993 2513](https://fedlex.data.admin.ch/eli/oc/1993/2513_2513_2513); [1997 463](https://fedlex.data.admin.ch/eli/oc/1997/463_463_463); [2024 618](https://fedlex.data.admin.ch/eli/oc/2024/618); [2025 286](https://fedlex.data.admin.ch/eli/oc/2025/286), [847](https://fedlex.data.admin.ch/eli/oc/2025/847)). Die englischen Texte können auf der Internetseite der Internationalen Seeschifffahrts-Organisation (IMO): [www.imo.org/en/KnowledgeCentre/IndexofIMOResolutions/Pages/Default.aspx](https://www.imo.org/en/KnowledgeCentre/IndexofIMOResolutions/Pages/Default.aspx) eingesehen werden. Die französischen Texte sowie eine konsolidierte englische Version können beim Schweizerischen Seeschifffahrtsamt, Elisabethenstrasse 33, 4010 Basel, eingesehen werden.
+[^I-1]: Dieser Anhang und seine Änderungen sind in der AS nicht veröffentlicht ([AS 1984 256](https://fedlex.data.admin.ch/eli/oc/1984/256_256_256); [1985 1606](https://fedlex.data.admin.ch/eli/oc/1985/1606_1606_1606); [1987 1050](https://fedlex.data.admin.ch/eli/oc/1987/1050_1050_1050); [1990 595](https://fedlex.data.admin.ch/eli/oc/1990/595_595_595), [596](https://fedlex.data.admin.ch/eli/oc/1990/596_596_596); [1993 2513](https://fedlex.data.admin.ch/eli/oc/1993/2513_2513_2513); [1997 463](https://fedlex.data.admin.ch/eli/oc/1997/463_463_463); [2024 618](https://fedlex.data.admin.ch/eli/oc/2024/618); [2025 286](https://fedlex.data.admin.ch/eli/oc/2025/286), [847](https://fedlex.data.admin.ch/eli/oc/2025/847); [2026 397](https://fedlex.data.admin.ch/eli/oc/2026/397)). Die englischen Texte können auf der Internetseite der Internationalen Seeschifffahrts-Organisation (IMO): [www.imo.org/en/KnowledgeCentre/IndexofIMOResolutions/Pages/Default.aspx](https://www.imo.org/en/KnowledgeCentre/IndexofIMOResolutions/Pages/Default.aspx) eingesehen werden. Die französischen Texte sowie eine konsolidierte englische Version können beim Schweizerischen Seeschifffahrtsamt, Elisabethenstrasse 33, 4010 Basel, eingesehen werden.
 
 #### Art. II
 

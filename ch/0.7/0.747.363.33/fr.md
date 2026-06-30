@@ -3,11 +3,11 @@ sr: "0.747.363.33"
 title: "Convention internationale du 1<sup>er</sup> novembre 1974 pour la sauvegarde de la vie humaine en mer"
 eli: "https://fedlex.data.admin.ch/eli/cc/1982/128_128_128"
 language: fr
-version: 2026-04-14
+version: 2026-07-01
 adopted: 1974-11-01
 in_force: 1982-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/128_128_128/20260414/fr/xml/fedlex-data-admin-ch-eli-cc-1982-128_128_128-20260414-fr-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1982/128_128_128/20260414/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/128_128_128/20260701/fr/xml/fedlex-data-admin-ch-eli-cc-1982-128_128_128-20260701-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1982/128_128_128/20260701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -20,7 +20,7 @@ Texte original
 
 Conclue à Londres le 1<sup>er</sup> novembre 1974 Approuvée par l’Assemblée fédérale le 9 juin 1981[^t-1] Instrument de ratification déposé par la Suisse le 1<sup>er</sup> octobre 1981 Entrée en vigueur pour la Suisse le 1<sup>er</sup> janvier 1982
 
-(État le 14 avril 2026)
+(État le 1<sup>er</sup> juillet 2026)
 
 [^t-1]: [RO 1982 127](https://fedlex.data.admin.ch/eli/oc/1982/127_127_127)
 
@@ -42,7 +42,7 @@ a) Les Gouvernements contractants s’engagent à donner effet aux dispositions 
 
 b) Les Gouvernements contractants s’engagent à promulguer toutes lois, tous décrets, ordres et règlements et à prendre toutes autres mesures nécessaires pour donner à la Convention son plein et entier effet, afin de garantir que, du point de vue de la sauvegarde de la vie humaine, un navire est apte au service auquel il est destiné.
 
-[^I-1]: Cette annexe et ses amendements ne sont pas publiés au RO ([RO 1984 256](https://fedlex.data.admin.ch/eli/oc/1984/256_256_256); [1985 1606](https://fedlex.data.admin.ch/eli/oc/1985/1606_1606_1606); [1987 1050](https://fedlex.data.admin.ch/eli/oc/1987/1050_1050_1050); [1990 595](https://fedlex.data.admin.ch/eli/oc/1990/595_595_595), [596](https://fedlex.data.admin.ch/eli/oc/1990/596_596_596); [1993 2513](https://fedlex.data.admin.ch/eli/oc/1993/2513_2513_2513); [1997 463](https://fedlex.data.admin.ch/eli/oc/1997/463_463_463); [2024 618](https://fedlex.data.admin.ch/eli/oc/2024/618); [2025 286](https://fedlex.data.admin.ch/eli/oc/2025/286), [847](https://fedlex.data.admin.ch/eli/oc/2025/847)). Il peut être consulté en anglais à l’adresse du site Internet de l’Organisation maritime internationale (OMI): [www.imo.org/en/KnowledgeCentre/IndexofIMOResolutions/Pages/Default.aspx](https://www.imo.org/en/KnowledgeCentre/IndexofIMOResolutions/Pages/Default.aspx). Le texte français ainsi qu’une version consolidée en anglais peut être consulté auprès de l’Office suisse de la navigation maritime, Elisabethenstrasse 33, 4010 Bâle.
+[^I-1]: Cette annexe et ses amendements ne sont pas publiés au RO ([RO 1984 256](https://fedlex.data.admin.ch/eli/oc/1984/256_256_256); [1985 1606](https://fedlex.data.admin.ch/eli/oc/1985/1606_1606_1606); [1987 1050](https://fedlex.data.admin.ch/eli/oc/1987/1050_1050_1050); [1990 595](https://fedlex.data.admin.ch/eli/oc/1990/595_595_595), [596](https://fedlex.data.admin.ch/eli/oc/1990/596_596_596); [1993 2513](https://fedlex.data.admin.ch/eli/oc/1993/2513_2513_2513); [1997 463](https://fedlex.data.admin.ch/eli/oc/1997/463_463_463); [2024 618](https://fedlex.data.admin.ch/eli/oc/2024/618); [2025 286](https://fedlex.data.admin.ch/eli/oc/2025/286), [847](https://fedlex.data.admin.ch/eli/oc/2025/847); [2026 397](https://fedlex.data.admin.ch/eli/oc/2026/397)). Il peut être consulté en anglais à l’adresse du site Internet de l’Organisation maritime internationale (OMI): [www.imo.org/en/KnowledgeCentre/IndexofIMOResolutions/Pages/Default.aspx](https://www.imo.org/en/KnowledgeCentre/IndexofIMOResolutions/Pages/Default.aspx). Le texte français ainsi qu’une version consolidée en anglais peut être consulté auprès de l’Office suisse de la navigation maritime, Elisabethenstrasse 33, 4010 Bâle.
 
 #### Art. II
 
