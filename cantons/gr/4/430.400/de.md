@@ -2,253 +2,291 @@
 canton: GR
 number: "430.400"
 title: Kantonale Berufsmaturitätsverordnung
-short: kBMV
+short: KBMV
 language: de
-version: 2024-08-01
-valid_until: 2026-06-30
-version_adopted: 2024-04-29
+version: 2026-07-01
+version_adopted: 2026-06-23
 adopted: 2026-06-23
 in_force: 2026-07-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/430.400"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/3432/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3640/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Kantonale Berufsmaturitätsverordnung
 
-(kBMV)
+(KBMV)
 
-Vom 17.02.2015 (Stand 01.08.2024)
+Vom 23.06.2026 (Stand 01.07.2026)
 
-Gestützt auf Art. 45 der Kantonsverfassung[^ingress-1]
+Gestützt auf Art. 45 Abs. 1 der Kantonsverfassung
 
-von der Regierung erlassen am 17. Februar 2015
-
-[^ingress-1]: BR [110.100](https://www.gr-lex.gr.ch/data/110.100/de)
+von der Regierung erlassen am 23. Juni 2026
 
 ## 1. Allgemeine Bestimmungen
 
 #### Art. 1
 
-**Geltungsbereich**
+**Gegenstand**
 
-<sup>1</sup> Diese Verordnung regelt den Vollzug der Verordnung über die eidgenössische Berufsmaturität an den Berufsfachschulen im Kanton Graubünden.
+<sup>1</sup> Diese Verordnung regelt den Vollzug der Verordnung über die eidgenössische Berufsmaturität an den Berufsmaturitätsschulen im Kanton Graubünden.
 
 #### Art. 2
 
 **Zuständigkeiten**
 
-<sup>1</sup> Die Regierung legt in den Rahmenkontrakten fest, welche Berufsfachschulen Berufsmaturitätslehrgänge führen können.
+<sup>1</sup> Die Regierung legt in den Rahmenkontrakten fest, welche Berufsmaturitätsschulen Bildungsgänge der Berufsmaturität führen können.
 
-<sup>2</sup> Das Departement legt die Ausrichtungen der Berufsmaturitätslehrgänge an den einzelnen Schulen fest. Es bestimmt, ob Lehrgänge lehrbegleitend sind und ob sie, nach der beruflichen Grundbildung, in Teilzeit oder Vollzeit angeboten werden können.
+<sup>2</sup> Das Departement legt die Ausrichtungen und die Form der Bildungsgänge an den einzelnen Schulen fest.
 
-<sup>3</sup> Das Amt übt die Aufsicht aus.
+<sup>3</sup> Das zuständige Amt übt die Aufsicht aus.
 
-## 2. Zulassungsvoraussetzung und Aufnahmeverfahren in einen lehrbegleitenden Berufsmaturitätslehrgang
+## 2. Bildungsgang der Berufsmaturität während der beruflichen Grundbildung
 
 #### Art. 3
 
-**Zulassungsvoraussetzung**
+**Zulassungsvoraussetzungen**
 
-<sup>1</sup> Voraussetzung für die Zulassung zum Aufnahmeverfahren in lehrbegleitende Berufsmaturitätslehrgänge ist ein gültiger Lehrvertrag für eine berufliche Grundbildung mit eidgenössischem Fähigkeitszeugnis.
+<sup>1</sup> Für die Zulassung zu einem Bildungsgang während der beruflichen Grundbildung sind die folgenden Voraussetzungen zu erfüllen:
 
-#### Art. 4
-
-**Aufnahmeprüfung**
-
-<sup>1</sup> Grundsätzlich ist für die Aufnahme in einen lehrbegleitenden Berufsmaturitätslehrgang das Bestehen einer schriftlichen Aufnahmeprüfung erforderlich. Zur Aufnahmeprüfung antreten können Schülerinnen und Schüler der dritten Klasse der Oberstufe sowie Kandidatinnen und Kandidaten, welche die Schulpflicht erfüllt haben.
+- a) der Besitz eines gültigen Lehr- oder Ausbildungsvertrages für eine berufliche Grundbildung mit eidgenössischem Fähigkeitszeugnis; und
+- b) das Bestehen einer schriftlichen Aufnahmeprüfung.
 
 <sup>2</sup> Keine Aufnahmeprüfung abzulegen hat, wer:
 
 - a) für die vierte Gymnasialklasse promoviert ist;
-- b) im Jahr des Eintritts oder im vorangehenden Kalenderjahr die Aufnahmeprüfung in eine Fach-, Informatik-, Handels- oder Wirtschaftsmittelschule bestanden und die dritte Klasse der Sekundarstufe I absolviert hat;
+- b) im Jahr des Eintritts oder in den zwei vorangehenden Kalenderjahren die Aufnahmeprüfung in eine Fach-, Informatik-, Handels- oder Wirtschaftsmittelschule bestanden und die Schulpflicht erfüllt hat;
 - c) von der Berufsmaturitätsschule aufgrund gleichwertiger Voraussetzungen aufgenommen wird.
 
-<sup>3</sup> Die prüfungsfreie Aufnahme erfolgt provisorisch für ein Semester.
+#### Art. 4
+
+**Zulassung zur Aufnahmeprüfung**
+
+<sup>1</sup> Zur Aufnahmeprüfung zugelassen sind Schülerinnen und Schüler der dritten Klasse der Sekundarstufe I sowie Personen, welche die Schulpflicht erfüllt haben oder bis zum Ende des laufenden Schuljahrs erfüllen werden.
 
 #### Art. 5
 
-**Aufnahme in einen laufenden Lehrgang**
+**Organisation und Koordination**
 
-<sup>1</sup> Für die Aufnahme in einen laufenden Berufsmaturitätslehrgang ist eine dem Ausbildungsstand im entsprechenden Semester gleichwertige Vorbildung erforderlich.
+<sup>1</sup> Die Berufsmaturitätsschulen organisieren das Aufnahmeverfahren.
 
-<sup>2</sup> Sofern der Nachweis nicht mit Lernleistungen in einem Berufsmaturitätslehrgang gleicher Ausrichtung erbracht wird, kann die Berufsmaturitätsschule eine Eignungsprüfung durchführen, deren Form und Inhalt sich nach den Besonderheiten des Einzelfalles richten.
+<sup>2</sup> Sie legen pro Ausrichtung ein einheitliches Aufnahmeverfahren fest und koordinieren die Anmelde- und Prüfungstermine.
 
 #### Art. 6
 
-**Termine**
+**Prüfungstermine**
 
-<sup>1</sup> Die Berufsmaturitätsschulen koordinieren die Anmelde- und Aufnahmeprüfungstermine.
+<sup>1</sup> Die ordentlichen Aufnahmeprüfungen finden vor Mitte April statt.
 
-<sup>2</sup> Die Termine der Aufnahmeprüfungen sind mindestens sechs Monate vor deren Durchführung zu publizieren. Sie finden vor Mitte April statt.
+<sup>2</sup> Die Prüfungstermine sind mindestens sechs Monate vor deren Durchführung in geeigneter Form zu veröffentlichen.
+
+<sup>3</sup> In begründeten Fällen findet eine Nachprüfung statt.
 
 #### Art. 7
 
 **Anmeldung**
 
-<sup>1</sup> Kandidatinnen und Kandidaten bezeichnen bei der Prüfungsanmeldung eine der Kantonssprachen als ihre Erstsprache.
+<sup>1</sup> Mit der Anmeldung zur Aufnahmeprüfung bezeichnen die Kandidatinnen und Kandidaten eine der kantonalen Amtssprachen als ihre Erstsprache.
 
-<sup>2</sup> Die Berufsmaturitätsschulen können eine Prüfungsgebühr erheben.
+<sup>2</sup> Bei nicht fristgerechter Anmeldung ist eine Teilnahme an der Aufnahmeprüfung ausgeschlossen.
 
 #### Art. 8
 
-**Erstellung, Form und Inhalte**
+**Prüfungsgebühr**
 
-<sup>1</sup> Die Berufsmaturitätsschulen legen pro Ausrichtung ein einheitliches Aufnahmeverfahren fest und koordinieren die Erstellung der entsprechenden Aufnahmeprüfung.
-
-<sup>2</sup> Die Aufnahmeprüfung wird schriftlich durchgeführt und umfasst, basierend auf dem Lehrplan der dritten Klasse der Sekundarschule am Ende des fünften Semesters, die Fächer Erstsprache, Englisch und Mathematik.
-
-<sup>3</sup> Je nach Voraussetzung kann pro Ausrichtung zusätzlich ein spezifisches Fach geprüft werden.
+<sup>1</sup> Die Berufsmaturitätsschulen können mit der Anmeldung eine Prüfungsgebühr erheben.
 
 #### Art. 9
 
-**Prüfungsleistungen und Gewichtung der Fächer**
+**Erstellung der Aufnahmeprüfung**
 
-<sup>1</sup> Die Prüfungsleistungen an den Aufnahmeprüfungen werden mit ganzen oder halben Noten bewertet.
+<sup>1</sup> Die Berufsmaturitätsschulen erstellen die Aufnahmeprüfung.
 
-<sup>2</sup> Die Noten aus den Prüfungsleistungen werden wie folgt gewichtet: Erstsprache (einfach), Englisch (einfach), Mathematik (doppelt), spezifisches Prüfungsfach (einfach).
-
-<sup>3</sup> Die Aufnahmeprüfung ist bestanden, wenn der Durchschnitt aller Noten aus den Prüfungsfächern mindestens 4,0 beträgt und nicht mehr als eine Note ungenügend ist.
-
-<sup>4</sup> Bleibt jemand unentschuldigt der Prüfung fern, gilt diese als nicht bestanden.
+<sup>2</sup> Sie legen pro Ausrichtung einheitliche Prüfungsanforderungen fest.
 
 #### Art. 10
 
-**Zusätzlicher Prüfungstermin**
+**Form und Inhalt der Aufnahmeprüfung**
 
-<sup>1</sup> In begründeten Fällen führt die Berufsmaturitätsschule eine zusätzliche Prüfung durch.
+<sup>1</sup> Die Aufnahmeprüfung wird schriftlich durchgeführt.
+
+<sup>2</sup> Sie basiert auf dem Lehrplan der dritten Klasse der Sekundarstufe I am Ende des ersten Semesters und umfasst die Fächer Erstsprache, Englisch und Mathematik.
+
+<sup>3</sup> Je nach Ausrichtung kann zusätzlich ein spezifisches Fach geprüft werden.
 
 #### Art. 11
 
-**Unredlichkeit an der Prüfung**
+**Bewertung und Gewichtung der Leistungen**
 
-<sup>1</sup> Wer unerlaubte Hilfsmittel in Anspruch nimmt oder sich einer anderen Unredlichkeit schuldig macht, hat die Aufnahmeprüfung nicht bestanden.
+<sup>1</sup> Die Leistungen in den Prüfungsfächern werden mit ganzen oder halben Noten bewertet.
+
+<sup>2</sup> Die Prüfungsfächer werden wie folgt gewichtet:
+
+- a) Erstsprache: einfach;
+- b) Englisch: einfach;
+- c) Mathematik: doppelt;
+- d) spezifisches Prüfungsfach: einfach.
 
 #### Art. 12
 
-**Eröffnung des Prüfungsresultats**
+**Bestehensvoraussetzung**
 
-<sup>1</sup> Die Berufsmaturitätsschule informiert die Kandidatinnen und Kandidaten spätestens drei Wochen nach der Prüfung schriftlich und im Falle der nicht bestandenen Prüfung mit einer Rechtsmittelbelehrung über das Ergebnis.
-
-<sup>2</sup> Eine bestandene Aufnahmeprüfung berechtigt während des laufenden sowie während der zwei folgenden Kalenderjahre zur Aufnahme der Berufsmaturitätsausbildung.
-
-## 3. Zulassungsvoraussetzung und Aufnahmeverfahren in einen Berufsmaturitätslehrgang nach der beruflichen Grundbildung
+<sup>1</sup> Die Aufnahmeprüfung ist bestanden, wenn der Durchschnitt der gewichteten Noten in den Prüfungsfächern mindestens 4,0 beträgt und höchstens eine Note unter 4,0 liegt.
 
 #### Art. 13
 
-**Zulassungsvoraussetzung**
+**Unentschuldigtes Fernbleiben**
 
-<sup>1</sup> Zum Aufnahmeverfahren für Berufsmaturitätslehrgänge nach beruflicher Grundbildung zugelassen werden Inhaberinnen und Inhaber eines eidgenössischen Fähigkeitszeugnisses oder eines vom Bund als gleichwertig anerkannten Berufsabschlusses.
+<sup>1</sup> Bleibt jemand unentschuldigt der Aufnahmeprüfung fern, gilt diese als nicht bestanden.
 
 #### Art. 14
 
-**Eignungsprüfung**
+**Unredlichkeit an der Aufnahmeprüfung**
 
-<sup>1</sup> Personen mit einem eidgenössischen Fähigkeitszeugnis sind vor der Aufnahme hinsichtlich ihrer Eignung zu prüfen. Abhängig von den Anforderungen des Lehrgangs können neben der Abschlussnote hierfür weitere Elemente wie Aufnahmegespräch, Eignungstest oder die Prüfung eines spezifischen Faches beigezogen werden.
-
-<sup>2</sup> Die Berufsmaturitätsschulen legen pro Ausrichtung einheitliche Anforderungen für die Eignungsprüfung fest.
-
-<sup>3</sup> Die Eignungsprüfungen finden in der Regel bis spätestens drei Monate vor dem Beginn der Lehrgänge statt.
+<sup>1</sup> Wer unerlaubte Hilfsmittel verwendet oder sich einer anderen Unredlichkeit schuldig macht, hat die Aufnahmeprüfung nicht bestanden.
 
 #### Art. 15
 
-**Aufnahmeentscheid**
+**Prüfungsentscheid**
 
-<sup>1</sup> Die Berufsmaturitätsschule informiert die Kandidatinnen und Kandidaten spätestens drei Wochen nach der Eignungsprüfung schriftlich und im Falle eines abschlägigen Bescheids mit einer Rechtsmittelbelehrung über das Ergebnis.
+<sup>1</sup> Die Berufsmaturitätsschule teilt den Kandidatinnen und Kandidaten spätestens drei Wochen nach der Aufnahmeprüfung den Prüfungsentscheid mit.
 
-<sup>2</sup> Ein positiver Aufnahmeentscheid berechtigt während des laufenden sowie während der zwei folgenden Kalenderjahre zur Aufnahme der Berufsmaturitätsausbildung.
-
-<sup>3</sup> Die Aufnahme erfolgt provisorisch. Werden die schulinternen Promotionsbedingungen am Ende des ersten Semesters nicht erfüllt, hat dies den Austritt zur Folge.
-
-## 4. Berufsmaturitätsunterricht
+<sup>2</sup> Ein positiver Prüfungsentscheid berechtigt während des laufenden sowie während der zwei folgenden Kalenderjahre zur Aufnahme der Berufsmaturitätsausbildung.
 
 #### Art. 16
 
-**Schulsprache**
+**Aufnahme in einen laufenden Bildungsgang**
 
-<sup>1</sup> Die Schulsprache ist eine der Kantonssprachen, in der Regel Deutsch.
+<sup>1</sup> Für die Aufnahme in einen laufenden Bildungsgang ist eine Vorbildung erforderlich, die dem Ausbildungsstand im entsprechenden Semester gleichwertig ist.
 
-## 5. Berufsmaturitätsprüfung
+<sup>2</sup> Sofern der Nachweis nicht mit Lernleistungen in einem Bildungsgang gleicher Ausrichtung erbracht wird, kann die Berufsmaturitätsschule eine Eignungsprüfung durchführen.
+
+<sup>3</sup> Die Form und der Inhalt einer Eignungsprüfung richten sich nach den Besonderheiten des Einzelfalles.
+
+## 3. Bildungsgang der Berufsmaturität nach Abschluss der beruflichen Grundbildung
 
 #### Art. 17
 
-**Organisation, Durchführung, Administration**
+**Zulassungsvoraussetzungen**
 
-<sup>1</sup> Die Organisation, Durchführung und Administration der Berufsmaturitätsprüfung obliegen der prüfenden Berufsmaturitätsschule.
+<sup>1</sup> Für die Zulassung zu einem Bildungsgang nach Abschluss der beruflichen Grundbildung sind die folgenden Voraussetzungen zu erfüllen:
+
+- a) der Besitz eines eidgenössischen Fähigkeitszeugnisses oder eines gleichwertigen Abschlusses; und
+- b) das Bestehen einer Eignungsprüfung.
 
 #### Art. 18
 
-**Erstellung und Inhalte**
+**Eignungsprüfung**
 
-<sup>1</sup> Die Berufsmaturitätsschulen:
+<sup>1</sup> Die Berufsmaturitätsschulen erstellen die Eignungsprüfung.
 
-- a) legen pro Ausrichtung und Lehrgang einheitliche Prüfungsfächer und ein einheitliches Prüfungsverfahren fest und erlassen dazu Wegleitungen;
-- b) setzen zur Erstellung und Validierung der Prüfungen Fachgruppen ein;
-- c) legen unter Berücksichtigung des Rahmenlehrplans die Hilfsmittel fest und orientieren die Kandidatinnen und Kanditaten darüber im Voraus.
+<sup>2</sup> Sie legen pro Ausrichtung einheitliche Anforderungen an die Eignungsprüfung fest. Je nach Bildungsgang können neben der Abschlussnote weitere Elemente eingesetzt werden, insbesondere ein Aufnahmegespräch, ein Eignungstest oder die Prüfung eines spezifischen Faches.
+
+<sup>3</sup> Die Eignungsprüfungen finden in der Regel spätestens drei Monate vor dem Beginn des Bildungsgangs statt.
+
+<sup>4</sup> Die Berufsmaturitätsschulen können eine Prüfungsgebühr erheben.
 
 #### Art. 19
 
-**Zutritt zu den Prüfungen**
+**Aufnahmeentscheid**
 
-<sup>1</sup> Die Berufsmaturitätsprüfungen sind nicht öffentlich. Zutritt haben nur die zuständigen Aufsichts- und Prüfungsbehörden.
+<sup>1</sup> Die Berufsmaturitätsschule teilt den Kandidatinnen und Kandidaten spätestens drei Wochen nach der Eignungsprüfung den Aufnahmeentscheid mit.
+
+<sup>2</sup> Ein positiver Aufnahmeentscheid berechtigt während des laufenden sowie während der zwei folgenden Kalenderjahre zur Aufnahme des Bildungsgangs.
+
+## 4. Berufsmaturitätsunterricht
 
 #### Art. 20
 
-**Teilprüfungen**
+**Schulsprache**
 
-<sup>1</sup> Die Berufsmaturitätsschule legt die Prüfungsfächer und den Zeitpunkt von Teilprüfungen im Sinne der Verordnung über die eidgenössische Berufsmaturität fest.
+<sup>1</sup> Die Schulsprache ist eine der kantonalen Amtssprachen, in der Regel Deutsch.
+
+## 5. Berufsmaturitätsprüfung
 
 #### Art. 21
 
-**Einsatz von Fachpersonen**
+**Organisation, Administration und Durchführung**
 
-<sup>1</sup> Die Prüfungen erfolgen gemeinsam durch Lehrpersonen der Berufsmaturitätsschule (Examinatorinnen und Examinatoren) und externe Fachpersonen (Expertinnen und Experten).
+<sup>1</sup> Die Organisation, Administration und Durchführung der Berufsmaturitätsprüfung obliegen den Berufsmaturitätsschulen.
 
-<sup>2</sup> Die Wahl der Fachpersonen erfolgt auf Antrag der prüfenden Berufsmaturitätsschule durch das Amt.
+<sup>2</sup> Die Berufsmaturitätsschulen führen die Berufsmaturitätsprüfung nach einheitlichen Prüfungsbestimmungen durch.
 
 #### Art. 22
 
-**Unredlichkeit an der Prüfung**
+**Festlegung und Mitteilung der Prüfungstermine**
 
-<sup>1</sup> Die Benützung unerlaubter Hilfsmittel sowie jede andere Unredlichkeit haben das Nichtbestehen der Berufsmaturitätsprüfung zur Folge.
+<sup>1</sup> Das zuständige Amt legt unter Berücksichtigung der Vorgaben des Bundes und unter Einbezug der Berufsmaturitätsschulen sowie des für die Mittelschulen zuständigen Amts die Termine der Abschlussprüfungen fest.
+
+<sup>2</sup> Die Berufsmaturitätsschulen informieren die Kandidatinnen und Kandidaten frühzeitig über die Prüfungstermine und stellen das Prüfungsaufgebot zu.
 
 #### Art. 23
 
-**Eröffnung des Prüfungsresultats**
+**Erstellung der Berufsmaturitätsprüfungen**
 
-<sup>1</sup> Die Ergebnisse der Berufsmaturitätsprüfungen werden den Kandidatinnen und Kandidaten innert drei Tagen nach dem Entscheid der prüfenden Berufsmaturitätsschule mitgeteilt. Die Mitteilung erfolgt schriftlich und bei nicht bestandener Prüfung mit einer Rechtsmittelbelehrung.
+<sup>1</sup> Die Berufsmaturitätsschulen erstellen pro Ausrichtung einheitliche Berufsmaturitätsprüfungen und stellen deren Validierung sicher.
+
+<sup>2</sup> Die Mittelschulen, die entsprechende Ausrichtungen anbieten, sind bei der Erstellung der Prüfungen in geeigneter Weise einzubeziehen.
 
 #### Art. 24
 
-**Ersatzprüfung**
+**Form der Berufsmaturitätsprüfungen**
 
-<sup>1</sup> Bei Nichtbestehen der erweiterten Allgemeinbildung in einem lehrbegleitenden Lehrgang, in dem diese mit Berufskunde integrativ vermittelt wird, nimmt die Berufsmaturitätsschule eine Ersatzprüfung vor. Damit wird festgestellt, ob die Ergebnisse der Berufsmaturitätsprüfung den Anforderungen für den Erwerb des eidgenössischen Fähigkeitszeugnisses genügen.
+<sup>1</sup> Die Berufsmaturitätsprüfungen werden schriftlich und mündlich durchgeführt.
+
+<sup>2</sup> Die mündlichen Prüfungen dauern jeweils 15 Minuten.
 
 #### Art. 25
 
-**Wiederholungsprüfung**
+**Öffentlichkeit und Zutritt**
 
-<sup>1</sup> Wer weder die Bedingungen für den Erwerb des eidgenössischen Fähigkeitszeugnisses noch die Bedingungen für den Berufsmaturitätsabschluss erfüllt, kann das Qualifikationsverfahren und den Berufsmaturitätsabschluss oder nur das Qualifikationsverfahren wiederholen.
+<sup>1</sup> Die Berufsmaturitätsprüfungen sind nicht öffentlich.
 
-<sup>2</sup> Eine Prüfungswiederholung findet frühestens am nächsten ordentlichen Prüfungstermin statt.
-
-## 6. Rechtsweg
+<sup>2</sup> Das zuständige Amt regelt den Zutritt zu den Prüfungen.
 
 #### Art. 26
 
-**Rechtsweg**
+**Einsatz von Fachexpertinnen und Fachexperten**
 
-<sup>1</sup> Entscheide betreffend Nichtbestehen der Aufnahme- beziehungsweise Eignungsprüfung können innert zehn Tagen mit Verwaltungsbeschwerde beim Departement angefochten werden.
+<sup>1</sup> Die Bewertung der Prüfungen erfolgt gemeinsam durch Lehrpersonen der jeweiligen Berufsmaturitätsschule und durch externe Fachexpertinnen und Fachexperten.
 
-## 7. Schlussbestimmungen
+<sup>2</sup> Die Wahl der externen Fachexpertinnen und Fachexperten erfolgt auf Antrag der jeweiligen Berufsmaturitätsschule durch das zuständige Amt.
 
 #### Art. 27
 
-**Übergangsbestimmung**
+**Fremdsprachendiplome**
 
-<sup>1</sup> Kandidatinnen und Kandidaten, welche die Aufnahmeprüfung 2014 bestanden haben, werden zum Berufsmaturitätslehrgang des Kalenderjahrs 2015 zugelassen.
+<sup>1</sup> Die Berücksichtigung und Umrechnung von Fremdsprachendiplomen sowie Prüfungsnoten richten sich nach den Empfehlungen der Schweizerischen Berufsbildungsämter-Konferenz (SBBK).
 
-<sup>2</sup> Für Kandidatinnen und Kandidaten, die ihre Berufsmaturitätsausbildung vor dem 1. Januar 2015 begonnen haben, gilt das bisherige Recht.
+#### Art. 28
 
-2015-011
+**Hilfsmittel und Unredlichkeit**
+
+<sup>1</sup> Das zuständige Amt legt unter Einbezug des für die Mittelschulen zuständigen Amts die erlaubten Hilfsmittel fest. Dabei richtet es sich nach der Orientierungshilfe der SBBK.
+
+<sup>2</sup> Die Berufsmaturitätsschulen informieren die Kandidatinnen und Kandidaten im Voraus über die erlaubten Hilfsmittel.
+
+<sup>3</sup> Wer unerlaubte Hilfsmittel verwendet oder sich einer anderen Unredlichkeit schuldig macht, hat die Berufsmaturitätsprüfung nicht bestanden.
+
+#### Art. 29
+
+**Mitteilung des Prüfungsentscheids**
+
+<sup>1</sup> Die Berufsmaturitätsschule teilt den Kandidatinnen und Kandidaten den Prüfungsentscheid innert drei Tagen nach dessen Vorliegen mit.
+
+#### Art. 30
+
+**Zeitpunkt der Prüfungswiederholung**
+
+<sup>1</sup> Eine Prüfung kann frühestens am nächsten ordentlichen Prüfungstermin wiederholt werden.
+
+## 6. Rechtsschutz
+
+#### Art. 31
+
+**Rechtsmittel**
+
+<sup>1</sup> Entscheide betreffend Nichtbestehen der Aufnahme- beziehungsweise Eignungsprüfung sowie der Berufsmaturitätsprüfung können innert zehn Tagen mit Verwaltungsbeschwerde beim Departement angefochten werden.
+
+2026-013

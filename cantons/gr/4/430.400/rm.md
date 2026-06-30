@@ -2,253 +2,291 @@
 canton: GR
 number: "430.400"
 title: Ordinaziun chantunala davart la maturitad professiunala
-short: OcMPr
+short: OCMPr
 language: rm
-version: 2024-08-01
-valid_until: 2026-06-30
-version_adopted: 2024-04-29
+version: 2026-07-01
+version_adopted: 2026-06-23
 adopted: 2026-06-23
 in_force: 2026-07-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/430.400"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3432/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3640/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Ordinaziun chantunala davart la maturitad professiunala
 
-(OcMPr)
+(OCMPr)
 
-dals 17-02-2015 (versiun dals 01-08-2024)
+dals 23-06-2026 (versiun dals 01-07-2026)
 
-sa basond sin l'art. 45 da la constituziun chantunala[^ingress-1]
+Sa basond sin l'art. 45 al. 1 da la Constituziun chantunala
 
-relaschada da la regenza ils 17 da favrer 2015
-
-[^ingress-1]: DG [110.100](https://www.gr-lex.gr.ch/data/110.100/rm)
+relaschada da la Regenza ils 23 da zercladur 2026
 
 ## 1. Disposiziuns generalas
 
 #### Art. 1
 
-**Champ d'applicaziun**
+**Object**
 
-<sup>1</sup> Questa ordinaziun regla l'execuziun da l'ordinaziun davart la maturitad professiunala federala a las scolas professiunalas spezialisadas dal chantun Grischun.
+<sup>1</sup> Questa ordinaziun regla l'execuziun da l'Ordinaziun davart la maturitad professiunala federala en las scolas da maturitad professiunala dal chantun Grischun.
 
 #### Art. 2
 
 **Cumpetenzas**
 
-<sup>1</sup> La regenza fixescha en contracts generals tge scolas professiunalas spezialisadas che pon offrir scolaziuns da maturitad professiunala.
+<sup>1</sup> La Regenza fixescha en contracts generals, tge scolas da maturitad professiunala che pon offrir scolaziuns da maturitad professiunala.
 
-<sup>2</sup> Il departament fixescha la direcziun da las scolaziuns da maturitad professiunala da las singulas scolas. El determinescha, sche las scolaziuns vegnan fatgas en moda cumplementara a l'emprendissadi e sch'ellas pon vegnir offridas – suenter la furmaziun fundamentala professiunala – sco scolaziun a temp parzial u sco scolaziun a temp cumplain.
+<sup>2</sup> Il departament fixescha la direcziun e la furma da las scolaziuns da las singulas scolas.
 
-<sup>3</sup> L'uffizi ha la surveglianza.
+<sup>3</sup> L'uffizi cumpetent exequescha la surveglianza.
 
-## 2. Premissa d'admissiun e procedura d'admissiun per ina scolaziun da maturitad professiunala cumplementara a l'emprendissadi
+## 2. Scolaziun da maturitad professiunala durant la furmaziun professiunala da basa
 
 #### Art. 3
 
-**Premissa d'admissiun**
+**Premissas d'admissiun**
 
-<sup>1</sup> La premissa per vegnir admess a la procedura d'admissiun per ina scolaziun da maturitad professiunala cumplementara a l'emprendissadi è in contract d'emprendissadi valaivel per ina furmaziun fundamentala professiunala cun attestat federal da qualificaziun.
+<sup>1</sup> Per l'admissiun ad ina scolaziun durant la furmaziun professiunala da basa ston vegnir ademplidas las suandantas premissas:
+
+- a) avair in contract d'emprendissadi u da scolaziun valaivel per ina furmaziun professiunala da basa cun attestat federal da qualificaziun; e
+- b) reussir in examen d'admissiun en scrit.
+
+<sup>2</sup> Nagin examen d'admissiun na sto far, tgi che:
+
+- a) è promovì per la 4. classa gimnasiala;
+- b) ha fatg cun success l'onn da l'entrada u ils dus onns chalendars precedents l'examen d'admissiun per ina scola media spezialisada, per ina scola media d'informatica, per ina scola media commerziala ubain per ina scola media d'economia ed ha ademplì l'obligaziun d'ir a scola;
+- c) vegn acceptà da la scola da maturitad professiunala pervia da premissas equivalentas.
 
 #### Art. 4
 
-**Examen d'admissiun**
+**Admissiun a l'examen d'admissiun**
 
-<sup>1</sup> Per vegnir admess ad ina scolaziun da maturitad professiunala cumplementara a l'emprendissadi sto da princip vegnir fatg cun success in examen d'admissiun en scrit. A l'examen d'admissiun pon sa participar scolaras e scolars da la 3. classa dal stgalim superiur, sco er candidatas e candidats che han ademplì l'obligaziun d'ir a scola.
-
-<sup>2</sup> Nagin examen d'admissiun na sto far tgi che:
-
-- a) è vegnì promovì per la 4. classa gimnasiala;
-- b) ha fatg cun success l'onn da l'entrada u l'onn chalendar precedent l'examen d'admissiun ad ina scola media spezialisada, ad ina scola media d'informatica, ad ina scola media commerziala ubain ad ina scola media d'economia ed ha absolvì la 3. classa dal stgalim secundar I;
-- c) vegn acceptà da la scola da maturitad professiunala pervia da premissas equivalentas.
-
-<sup>3</sup> L'admissiun senza examen vegn concedida provisoricamain per 1 semester.
+<sup>1</sup> Admess a l'examen d'admissiun èn scolaras e scolars da la terza classa dal stgalim secundar I sco er persunas che han ademplì l'obligaziun d'ir a scola u che vegnan ad ademplir tala fin la fin da l'onn da scola current.
 
 #### Art. 5
 
-**Admissiun ad ina scolaziun currenta**
+**Organisaziun e coordinaziun**
 
-<sup>1</sup> Per vegnir admess ad ina scolaziun da maturitad professiunala currenta èsi necessari d'avair ina furmaziun preliminara che correspunda al stadi da scolaziun dal semester respectiv.
+<sup>1</sup> Las scolas da maturitad professiunala organiseschan la procedura d'admissiun.
 
-<sup>2</sup> Sche la cumprova na vegn betg fatga cun las prestaziuns d'emprender ch'èn vegnidas cuntanschidas en ina scolaziun da maturitad professiunala da la medema direcziun, po la scola da maturitad professiunala far in examen da qualificaziun, dal qual la furma ed il cuntegn sa drizzan tenor las particularitads dal cas singul.
+<sup>2</sup> Per mintga direcziun fixeschan ellas ina procedura d'admissiun unitara e coordineschan ils termins d'annunzia e d'examen.
 
 #### Art. 6
 
-**Termins**
+**Termins d'examen**
 
-<sup>1</sup> Las scolas da maturitad professiunala coordineschan ils termins da l'annunzia e da l'examen d'admissiun.
+<sup>1</sup> Ils examens d'admissiun regulars han lieu avant mez avrigl.
 
-<sup>2</sup> Ils termins dals examens d'admissiun ston vegnir publitgads almain 6 mais avant ch'els han lieu. Els han lieu avant mez avrigl.
+<sup>2</sup> Ils termins d'examen ston vegnir publitgads en furma adattada almain 6 mais avant lur realisaziun.
+
+<sup>3</sup> En cas motivads ha lieu in examen supplementar.
 
 #### Art. 7
 
 **Annunzia**
 
-<sup>1</sup> En l'annunzia a l'examen inditgeschan las candidatas ed ils candidats ina da las linguas chantunalas sco lur emprima lingua.
+<sup>1</sup> Cun l'annunzia a l'examen d'admissiun inditgeschan las candidatas ed ils candidats ina da las linguas uffizialas chantunalas sco lur emprima lingua.
 
-<sup>2</sup> Las scolas da maturitad professiunala pon incassar ina taxa d'examen.
+<sup>2</sup> Sche l'annunzia na vegn betg inoltrada a temp, n'èsi betg pussaivel da participar a l'examen d'admissiun.
 
 #### Art. 8
 
-**Elavuraziun, furma e cuntegns**
+**Taxa d'examen**
 
-<sup>1</sup> Las scolas da maturitad professiunala fixeschan ina procedura d'admissiun unitara per direcziun e coordineschan l'elavuraziun da l'examen d'admissiun correspundent.
-
-<sup>2</sup> L'examen d'admissiun vegn fatg en scrit e cumpiglia, sa basond sin il plan d'instrucziun da la 3. classa da la scola secundara a la fin dal 5. semester, ils roms emprima lingua, englais e matematica.
-
-<sup>3</sup> Tut tenor las premissas po in rom specific vegnir examinà supplementarmain per direcziun.
+<sup>1</sup> Las scolas da maturitad professiunala pon incassar ina taxa d'examen a chaschun da l'annunzia.
 
 #### Art. 9
 
-**Prestaziuns d'examen e valitaziun dals roms**
+**Elavuraziun da l'examen d'admissiun**
 
-<sup>1</sup> Als examens d'admissiun vegnan las prestaziuns d'examen valitadas cun notas entiras u cun mesas notas.
+<sup>1</sup> Las scolas da maturitad professiunala elavuran l'examen d'admissiun.
 
-<sup>2</sup> Las notas da las prestaziuns d'examen vegnan quintadas sco suonda: emprima lingua (1 giada), englais (1 giada), matematica (2 giadas), rom d'examen specific opziunal (1 giada).
-
-<sup>3</sup> L'examen d'admissiun è reussì, sche la media da tut las notas dals roms d'examen importa almain 4,0 e sche betg dapli che 1 nota è insuffizienta.
-
-<sup>4</sup> Sch'intgin na cumpara nunperstgisadamain betg a l'examen, vala l'examen sco betg reussì.
+<sup>2</sup> Per mintga direcziun fixeschan ellas pretensiuns d'examen unitaras.
 
 #### Art. 10
 
-**Termin d'examen supplementar**
+**Furma e cuntegn da l'examen d'admissiun**
 
-<sup>1</sup> En cas motivads fa la scola da maturitad professiunala in examen supplementar.
+<sup>1</sup> L'examen d'admissiun vegn manà tras en scrit.
+
+<sup>2</sup> El sa basa sin il plan d'instrucziun da la terza classa dal stgalim secundar I a la fin da l'emprim semester e cumpiglia ils roms emprima lingua, englais e matematica.
+
+<sup>3</sup> Tut tenor la direcziun èsi pussaivel d'examinar supplementarmain in rom specific.
 
 #### Art. 11
 
-**Malonestadad a l'examen**
+**Notas e valitaziun da las prestaziuns**
 
-<sup>1</sup> Tgi che dovra meds d'agid betg permess u tgi che sa fa culpabel d'ina autra malonestadad è crudà tras l'examen d'admissiun.
+<sup>1</sup> Per las prestaziuns en ils roms d'examen vegnan dadas entiras u mesas notas.
+
+<sup>2</sup> Ils roms d'examen vegnan valitads sco suonda:
+
+- a) emprima lingua: ina giada;
+- b) englais: ina giada;
+- c) matematica: duas giadas;
+- d) rom d'examen specific: ina giada.
 
 #### Art. 12
 
-**Communicaziun dal resultat da l'examen**
+**Premissas per reussir l'examen**
 
-<sup>1</sup> La scola da maturitad professiunala infurmescha las candidatas ed ils candidats il pli tard 3 emnas suenter l'examen davart il resultat, e quai en scrit ed en cas che l'examen n'è betg reussì cun ina indicaziun dals meds legals.
-
-<sup>2</sup> Sche l'examen è vegnì fatg cun success, dat quai il dretg a la candidata u al candidat da cumenzar cun la scolaziun da maturitad professiunala durant l'onn current sco er durant ils proxims dus onns chalendars.
-
-## 3. Premissa d'admissiun e procedura d'admissiun per ina scolaziun da maturitad professiunala che suonda la furmaziun fundamentala professiunala
+<sup>1</sup> L'examen d'admissiun è reussì, sche la media da las notas valitadas dals roms d'examen importa almain 4,0 e maximalmain ina nota è sut 4,0.
 
 #### Art. 13
 
-**Premissa d'admissiun**
+**Absenza nunperstgisada**
 
-<sup>1</sup> A la procedura d'admissiun a scolaziuns da maturitad professiunala che suondan la furmaziun fundamentala professiunala vegnan admess las titularas ed ils titulars d'in attestat federal da qualificaziun u d'in diplom professiunal che vegn renconuschì da la confederaziun sco equivalent.
+<sup>1</sup> Sch'insatgi na cumpara senza sa perstgisar betg a l'examen, vala tal sco betg reussì.
 
 #### Art. 14
 
-**Examen d'adattaziun**
+**Malonestadad a l'examen d'admissiun**
 
-<sup>1</sup> Persunas che han in attestat federal da qualificaziun ston vegnir examinadas areguard lur adattaziun, avant ch'ellas vegnan admessas. En dependenza da las pretensiuns da la scolaziun pon – ultra da la nota da diplom – vegnir resguardads ulteriurs elements sco in discurs d'admissiun, in test d'adattaziun u l'examinaziun d'in rom specific.
-
-<sup>2</sup> Las scolas da maturitad professiunala fixeschan per direcziun pretensiuns unitaras per l'examen d'adattaziun.
-
-<sup>3</sup> Ils examens d'adattaziun han lieu per regla il pli tard 3 mais avant che las scolaziuns cumenzan.
+<sup>1</sup> Tgi che dovra meds d'agid betg permess u tgi che sa fa culpabel d'ina autra malonestadad, n'ha betg reussì l'examen d'admissiun.
 
 #### Art. 15
 
-**Decisiun d'admissiun**
+**Decisiun d'examen**
 
-<sup>1</sup> La scola da maturitad professiunala infurmescha las candidatas ed ils candidats il pli tard 3 emnas suenter l'examen d'adattaziun davart il resultat, e quai en scrit ed en cas d'ina decisiun negativa cun ina indicaziun dals meds legals.
+<sup>1</sup> La scola da maturitad professiunala communitgescha a las candidatas ed als candidats la decisiun d'examen il pli tard 3 emnas suenter l'examen d'admissiun.
 
-<sup>2</sup> Sche la decisiun d'admissiun è positiva, dat quai il dretg a la candidata u al candidat da cumenzar cun la scolaziun da maturitad professiunala durant l'onn current sco er durant ils proxims dus onns chalendars.
-
-<sup>3</sup> L'admissiun è provisorica. Sche las cundiziuns da promoziun internas da la scola na vegnan betg ademplidas suenter l'emprim semester, sto la candidata u il candidat bandunar la scola.
-
-## 4. Instrucziun per la maturitad professiunala
+<sup>2</sup> Ina decisiun d'examen positiva permetta da cumenzar la scolaziun da maturitad professiunala durant l'onn current sco er durant ils dus onns chalendars suandants.
 
 #### Art. 16
 
-**Lingua da scola**
+**Admissiun ad ina scolaziun currenta**
 
-<sup>1</sup> La lingua da scola è ina da las linguas chantunalas, per regla tudestg.
+<sup>1</sup> Per vegnir admess ad ina scolaziun currenta èsi necessari d'avair ina furmaziun preliminara che correspunda al stadi da scolaziun dal semester respectiv.
 
-## 5. Examen da maturitad professiunala
+<sup>2</sup> Sche la cumprova na vegn betg furnida cun prestaziuns d'emprender en ina scolaziun da medema direcziun, po la scola da maturitad professiunala manar tras in examen da qualificaziun.
+
+<sup>3</sup> La furma ed il cuntegn d'in examen da qualificaziun sa drizzan tenor las particularitads dal cas singul.
+
+## 3. Scolaziun da maturitad professiunala suenter la terminaziun da la furmaziun professiunala da basa
 
 #### Art. 17
 
-**Organisaziun, realisaziun, administraziun**
+**Premissas d'admissiun**
 
-<sup>1</sup> L'organisaziun, la realisaziun e l'administraziun da l'examen da maturitad professiunala èn chaussa da la scola da maturitad professiunala che fa l'examen.
+<sup>1</sup> Per l'admissiun ad ina scolaziun suenter la terminaziun da la furmaziun professiunala da basa ston vegnir ademplidas las suandantas premissas:
+
+- a) avair in attestat federal da qualificaziun u in diplom equivalent; e
+- b) reussir in examen da qualificaziun.
 
 #### Art. 18
 
-**Elavuraziun e cuntegns**
+**Examen da qualificaziun**
 
-<sup>1</sup> Las scolas da maturitad professiunala:
+<sup>1</sup> Las scolas da maturitad professiunala elavuran l'examen da qualificaziun.
 
-- a) fixeschan ils roms d'examen unitars ed ina procedura d'examinaziun unitara per direcziun e per scolaziun e relaschan ils manuals correspundents;
-- b) nomineschan gruppas d'expertas e d'experts per elavurar e per validar ils examens;
-- c) fixeschan ils meds d'agid cun resguardar il plan d'instrucziun general ed orienteschan ordavant las candidatas ed ils candidats en chaussa.
+<sup>2</sup> Per mintga direcziun fixeschan ellas pretensiuns unitaras per l'examen da qualificaziun. Tut tenor la scolaziun èsi pussaivel d'integrar, ultra da la nota finala, ulteriurs elements, en spezial in discurs d'admissiun, in test da qualificaziun u l'examinaziun d'in rom specific.
+
+<sup>3</sup> Ils examens da qualificaziun han per regla lieu il pli tard 3 mais avant che la scolaziun cumenza.
+
+<sup>4</sup> Las scolas da maturitad professiunala pon incassar ina taxa d'examen.
 
 #### Art. 19
 
-**Access als examens**
+**Decisiun d'admissiun**
 
-<sup>1</sup> Ils examens da maturitad professiunala n'èn betg publics. Access han mo las autoritads da surveglianza e da controlla cumpetentas.
+<sup>1</sup> La scola da maturitad professiunala communitgescha a las candidatas ed als candidats la decisiun d'admissiun il pli tard 3 emnas suenter l'examen da qualificaziun.
+
+<sup>2</sup> Ina decisiun d'admissiun positiva permetta da cumenzar la scolaziun da maturitad professiunala durant l'onn current sco er durant ils dus onns chalendars suandants.
+
+## 4. Instrucziun per la maturitad professiunala
 
 #### Art. 20
 
-**Examens parzials**
+**Lingua da scola**
 
-<sup>1</sup> La scola da maturitad professiunala fixescha ils roms d'examen ed il termin dals examens parzials en il senn da l'ordinaziun davart la maturitad professiunala federala.
+<sup>1</sup> La lingua da scola è ina da las linguas uffizialas chantunalas, per regla tudestg.
+
+## 5. Examen da maturitad professiunala
 
 #### Art. 21
 
-**Engaschament da persunas spezialisadas**
+**Organisaziun, administraziun e realisaziun**
 
-<sup>1</sup> Ils examens vegnan fatgs cuminaivlamain da persunas d'instrucziun da la scola da maturitad professiunala (examinaturas ed examinaturs) e da persunas spezialisadas externas (expertas ed experts).
+<sup>1</sup> L'organisaziun, administraziun e realisaziun da l'examen da maturitad professiunala è chaussa da las scolas da maturitad professiunala.
 
-<sup>2</sup> Las persunas spezialisadas vegnan elegidas da l'uffizi sin proposta da la scola da maturitad professiunala che fa l'examen.
+<sup>2</sup> Las scolas da maturitad professiunala realiseschan l'examen da maturitad professiunala tenor disposiziuns d'examen unitaras.
 
 #### Art. 22
 
-**Malonestadad a l'examen**
+**Fixaziun e communicaziun dals termins d'examen**
 
-<sup>1</sup> L'utilisaziun da meds d'agid scumandads sco er mintga autra malonestadad han per consequenza che l'examen da maturitad professiunala vegn taxà sco betg reussì.
+<sup>1</sup> L'uffizi cumpetent fixescha ils termins dals examens finals cun resguardar las prescripziuns da la Confederaziun e cun integrar las scolas da maturitad professiunala e l'uffizi ch'è cumpetent per las scolas medias.
+
+<sup>2</sup> Las scolas da maturitad professiunala infurmeschan las candidatas ed ils candidats a temp davart ils termins d'examen e consegnan la clamada als examens.
 
 #### Art. 23
 
-**Communicaziun dal resultat da l'examen**
+**Elavuraziun dals examens da maturitad professiunala**
 
-<sup>1</sup> Ils resultats dals examens da maturitad professiunala vegnan communitgads a las candidatas ed als candidats entaifer 3 dis suenter la decisiun da la scola da maturitad professiunala che fa l'examen. La communicaziun vegn fatga en scrit e cun ina indicaziun dals meds legals, en cas che l'examen n'è betg reussì.
+<sup>1</sup> Per mintga direcziun elavuran las scolas da maturitad professiunala examens da maturitad professiunala unitars e procuran per lur validaziun.
+
+<sup>2</sup> Las scolas medias che porschan las direcziuns respectivas, ston vegnir integradas en moda adattada en l'elavuraziun dals examens.
 
 #### Art. 24
 
-**Examen cumpensatoric**
+**Furma dals examens da maturitad professiunala**
 
-<sup>1</sup> En cas d'ina nunreussida da la furmaziun generala extendida en ina scolaziun cumplementara a l'emprendissadi, en la quala tala vegn intermediada en moda integrativa cun las enconuschientschas da la professiun, fa la scola da maturitad professiunala in examen cumpensatoric. Uschia vegni eruì, sch'ils resultats da l'examen da maturitad professiunala satisfan a las pretensiuns per obtegnair l'attestat federal da qualificaziun.
+<sup>1</sup> Ils examens da maturitad professiunala vegnan manads tras en scrit ed a bucca.
+
+<sup>2</sup> Ils examens a bucca duran mintgamai 15 minutas.
 
 #### Art. 25
 
-**Examen da repetiziun**
+**Publicitad ed access**
 
-<sup>1</sup> Tgi che n'ademplescha ni las premissas per acquistar l'attestat federal da qualificaziun ni las premissas per il diplom da maturitad professiunala, po repeter la procedura da qualificaziun e far anc ina giada il diplom da maturitad professiunala u repeter mo la procedura da qualificaziun.
+<sup>1</sup> Ils examens da maturitad professiunala n'èn betg publics.
 
-<sup>2</sup> L'examen po vegnir repetì il pli baud il proxim termin d'examen ordinari.
-
-## 6. Via giudiziala
+<sup>2</sup> L'uffizi cumpetent regla l'access als examens.
 
 #### Art. 26
 
-**Via giudiziala**
+**Engaschament d'expertas ed experts spezialisads**
 
-<sup>1</sup> Cunter decisiuns concernent la nunreussida da l'examen d'admissiun respectivamain da l'examen da qualificaziun poi vegnir fatg recurs administrativ entaifer 10 dis tar il departament.
+<sup>1</sup> Las notas dals examens vegnan dadas cuminaivlamain da persunas d'instrucziun da la scola da maturitad professiunala respectiva e dad expertas ed experts spezialisads externs.
 
-## 7. Disposiziuns finalas
+<sup>2</sup> Las expertas ed ils experts spezialisads externs vegnan elegids tras l'uffizi cumpetent, sin proposta da la scola da maturitad professiunala respectiva.
 
 #### Art. 27
 
-**Disposiziun transitorica**
+**Diploms da linguas estras**
 
-<sup>1</sup> Las candidatas ed ils candidats che han fatg cun success l'examen d'admissiun 2014 vegnan admess a la scolaziun da maturitad professiunala da l'onn chalendar 2015.
+<sup>1</sup> La consideraziun e la conversiun da diploms da linguas estras sco er da notas d'examen sa drizzan tenor las recumandaziuns da la Conferenza svizra dals uffizis da la furmaziun professiunala (CSFP).
 
-<sup>2</sup> Per candidatas e candidats che han cumenzà cun lur scolaziun da maturitad professiunala avant il 1. da schaner 2015 vala il dretg vertent.
+#### Art. 28
 
-2015-011
+**Meds d'agid e malonestadad**
+
+<sup>1</sup> Ensemen cun l'uffizi ch'è cumpetent per las scolas medias fixescha l'uffizi cumpetent ils meds d'agid ch'èn permess. En quest connex sa drizza el tenor l'agid d'orientaziun da la CSFP.
+
+<sup>2</sup> Las scolas da maturitad professiunala infurmeschan las candidatas ed ils candidats ordavant davart ils meds d'agid permess.
+
+<sup>3</sup> Tgi che dovra meds d'agid betg permess u tgi che sa fa culpabel d'ina autra malonestadad, n'ha betg reussì l'examen da maturitad professiunala.
+
+#### Art. 29
+
+**Communicaziun da la decisiun d'examen**
+
+<sup>1</sup> La scola da maturitad professiunala communitgescha a las candidatas ed als candidats la decisiun d'examen entaifer 3 dis suenter che la decisiun è avant maun.
+
+#### Art. 30
+
+**Termin per repeter l'examen**
+
+<sup>1</sup> In examen po vegnir repetì il pli baud il proxim termin d'examen ordinari.
+
+## 6. Protecziun giuridica
+
+#### Art. 31
+
+**Meds legals**
+
+<sup>1</sup> Cunter decisiuns concernent la nunreussida da l'examen d'admissiun respectivamain da l'examen da qualificaziun sco er da l'examen da maturitad professiunala poi vegnir fatg recurs administrativ entaifer 10 dis tar il departament.
+
+2026-013

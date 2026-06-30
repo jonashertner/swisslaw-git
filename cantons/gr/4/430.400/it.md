@@ -4,13 +4,12 @@ number: "430.400"
 title: Ordinanza cantonale sulla maturità professionale
 short: OCMPr
 language: it
-version: 2024-08-01
-valid_until: 2026-06-30
-version_adopted: 2024-04-29
+version: 2026-07-01
+version_adopted: 2026-06-23
 adopted: 2026-06-23
 in_force: 2026-07-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/430.400"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/3432/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3640/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
@@ -19,236 +18,275 @@ pdf: "https://www.gr-lex.gr.ch/api/it/versions/3432/pdf_file"
 
 (OCMPr)
 
-del 17.02.2015 (stato 01.08.2024)
+del 23.06.2026 (stato 01.07.2026)
 
-emanata dal Governo il 17 febbraio 2015
+emanata dal Governo il 23 giugno 2026
 
-visto l'art. 45 della Costituzione cantonale[^ingress-1]
-
-[^ingress-1]: CSC [110.100](https://www.gr-lex.gr.ch/data/110.100/it)
+visto l'art. 45 cpv. 1 della Costituzione cantonale
 
 ## 1. Disposizioni generali
 
 #### Art. 1
 
-**Campo d'applicazione**
+**Oggetto**
 
-<sup>1</sup> La presente ordinanza disciplina l'attuazione dell'ordinanza sulla maturità professionale federale presso le scuole professionali del Cantone dei Grigioni.
+<sup>1</sup> La presente ordinanza disciplina l'attuazione dell'ordinanza sulla maturità professionale federale presso le scuole di maturità professionale del Cantone dei Grigioni.
 
 #### Art. 2
 
 **Competenze**
 
-<sup>1</sup> Il Governo stabilisce nei contratti quadro quali scuole professionali possono proporre corsi di maturità professionale.
+<sup>1</sup> Il Governo stabilisce nei contratti quadro quali scuole di maturità professionale possono proporre cicli di formazione di maturità professionale.
 
-<sup>2</sup> Il Dipartimento stabilisce gli orientamenti dei corsi di maturità professionale presso le singole scuole. Esso stabilisce se i corsi siano paralleli all'apprendistato e se, dopo la formazione professionale di base, possano essere offerti quali corsi a tempo parziale o a tempo pieno.
+<sup>2</sup> Il Dipartimento stabilisce gli indirizzi e la forma dei cicli di formazione presso le singole scuole.
 
-<sup>3</sup> L'Ufficio esercita la vigilanza.
+<sup>3</sup> L'ufficio competente esercita la vigilanza.
 
-## 2. Condizione e procedura di ammissione a un corso di maturità professionale parallelo all'apprendistato
+## 2. Ciclo di formazione di maturità professionale durante la formazione professionale di base
 
 #### Art. 3
 
-**Condizione di ammissione**
+**Condizioni di ammissione**
 
-<sup>1</sup> La condizione per essere ammessi alla procedura di ammissione a un corso di maturità professionale parallelo all'apprendistato è costituita da un contratto di tirocinio valido per una formazione professionale di base con attestato federale di capacità.
+<sup>1</sup> Per l'ammissione a un ciclo di formazione durante la formazione professionale di base devono essere soddisfatte le seguenti condizioni:
 
-#### Art. 4
-
-**Esame di ammissione**
-
-<sup>1</sup> Di principio, per essere ammessi a un corso di maturità professionale parallelo all'apprendistato è richiesto il superamento di un esame di ammissione scritto. All'esame di ammissione possono presentarsi allievi della terza classe del grado superiore nonché candidati che hanno concluso la scuola dell'obbligo.
+- a) il possesso di un contratto di tirocinio o di formazione valido per una formazione professionale di base con attestato federale di capacità; e
+- b) il superamento di un esame di ammissione scritto.
 
 <sup>2</sup> Non deve sostenere un esame di ammissione chi:
 
 - a) è stato promosso alla quarta classe del liceo;
-- b) nell'anno di entrata o nell'anno civile precedente ha superato l'esame di ammissione a una scuola specializzata, a una scuola media di commercio, a una scuola media di informatica o a una scuola media professionale commerciale e ha concluso la terza classe del grado secondario I;
-- c) viene ammesso dalla scuola di maturità professionale sulla base di presupposti equivalenti.
+- b) nell'anno di entrata o nei due anni civili precedenti ha superato l'esame di ammissione a una scuola specializzata, a una scuola media di informatica, a una scuola media di commercio o a una scuola media professionale commerciale e ha adempito l'obbligo scolastico;
+- c) viene ammesso dalla scuola di maturità professionale sulla base di condizioni equivalenti.
 
-<sup>3</sup> L'ammissione senza esame è provvisoria e vale per un semestre.
+#### Art. 4
+
+**Ammissione all'esame di ammissione**
+
+<sup>1</sup> Sono ammessi all'esame di ammissione gli allievi della terza classe del grado secondario I nonché le persone che hanno adempito l'obbligo scolastico o lo adempiranno entro la fine dell'anno scolastico in corso.
 
 #### Art. 5
 
-**Ammissione a un corso già iniziato**
+**Organizzazione e coordinamento**
 
-<sup>1</sup> Per essere ammessi a un corso di maturità professionale già iniziato è necessaria una formazione preliminare equivalente al livello di formazione nel semestre corrispondente.
+<sup>1</sup> Le scuole di maturità professionale organizzano la procedura di ammissione.
 
-<sup>2</sup> Se la prova non viene fornita tramite conoscenze acquisite in un corso di maturità professionale dello stesso orientamento, la scuola di maturità professionale può svolgere un test d'idoneità, la cui forma e contenuto si conformano alla specificità del singolo caso.
+<sup>2</sup> Esse stabiliscono una procedura di ammissione uniforme per ciascun indirizzo e coordinano le date di iscrizione e degli esami.
 
 #### Art. 6
 
-**Date**
+**Date degli esami**
 
-<sup>1</sup> Le scuole di maturità professionale coordinano le date di iscrizione e degli esami di ammissione.
+<sup>1</sup> Gli esami di ammissione ordinari si tengono prima di metà aprile.
 
-<sup>2</sup> Le date degli esami di ammissione vanno pubblicate con almeno sei mesi di anticipo. Gli esami si tengono prima di metà aprile.
+<sup>2</sup> Le date degli esami devono essere pubblicate in forma adeguata almeno sei mesi prima dello svolgimento degli esami.
+
+<sup>3</sup> In casi motivati ha luogo una sessione suppletiva d'esami.
 
 #### Art. 7
 
 **Iscrizione**
 
-<sup>1</sup> Quando si iscrivono agli esami, i candidati indicano una delle lingue cantonali quale loro prima lingua.
+<sup>1</sup> Con l'iscrizione all'esame di ammissione i candidati indicano una delle lingue ufficiali cantonali quale loro prima lingua.
 
-<sup>2</sup> Le scuole di maturità professionale possono riscuotere una tassa d'esame.
+<sup>2</sup> In caso di mancato rispetto del termine di iscrizione, una partecipazione all'esame di ammissione è esclusa.
 
 #### Art. 8
 
-**Stesura, forma e contenuti**
+**Tassa d'esame**
 
-<sup>1</sup> Le scuole di maturità professionale stabiliscono una procedura di ammissione uniforme per ciascun orientamento e coordinano la stesura del corrispondente esame di ammissione.
-
-<sup>2</sup> L'esame di ammissione viene svolto per iscritto e comprende, sulla base del programma d'insegnamento della terza classe della scuola secondaria alla fine del quinto semestre, le materie prima lingua, inglese e matematica.
-
-<sup>3</sup> A seconda dei presupposti, per ciascun orientamento può essere inoltre esaminata una materia specifica supplementare.
+<sup>1</sup> Con l'iscrizione, le scuole di maturità professionale possono riscuotere una tassa d'esame.
 
 #### Art. 9
 
-**Prestazioni d'esame e ponderazione delle materie**
+**Redazione dell'esame di ammissione**
 
-<sup>1</sup> Le prestazioni agli esami di ammissione vengono valutate con voti interi o mezzi voti.
+<sup>1</sup> Le scuole di maturità professionale redigono l'esame di ammissione.
 
-<sup>2</sup> I voti scaturiti dalle prestazioni d'esame vengono ponderati come segue: prima lingua (semplice), inglese (semplice), matematica (doppio), materia d'esame specifica (semplice).
-
-<sup>3</sup> L'esame di ammissione è superato se la media di tutti i voti delle materie d'esame è almeno del 4,0 e non più di un voto è insufficiente.
-
-<sup>4</sup> In caso di assenza ingiustificata dall'esame, quest'ultimo è considerato non superato.
+<sup>2</sup> Esse stabiliscono requisiti d'esame uniformi per ciascun indirizzo.
 
 #### Art. 10
 
-**Sessione d'esame aggiuntiva**
+**Forma e contenuto dell'esame di ammissione**
 
-<sup>1</sup> In casi motivati, la scuola di maturità professionale svolge una sessione d'esame aggiuntiva.
+<sup>1</sup> L'esame di ammissione viene svolto per iscritto.
+
+<sup>2</sup> Esso si basa sul piano di studio della terza classe del grado secondario I alla fine del primo semestre e comprende le materie prima lingua, inglese e matematica.
+
+<sup>3</sup> A seconda dell'indirizzo, può essere inoltre esaminata una materia specifica supplementare.
 
 #### Art. 11
 
-**Azione disonesta all'esame**
+**Valutazione e ponderazione delle prestazioni**
 
-<sup>1</sup> Chi utilizza strumenti ausiliari non ammessi o si rende colpevole di un'altra azione disonesta non supera l'esame di ammissione.
+<sup>1</sup> Le prestazioni nelle materie d'esame vengono valutate con note intere o mezze note.
+
+<sup>2</sup> Le materie d'esame vengono ponderate come segue:
+
+- a) prima lingua: semplice;
+- b) inglese: semplice;
+- c) matematica: doppia;
+- d) materia d'esame specifica: semplice.
 
 #### Art. 12
 
-**Comunicazione del risultato dell'esame**
+**Condizioni per il superamento**
 
-<sup>1</sup> La scuola di maturità professionale informa per iscritto i candidati al più tardi tre settimane dopo l'esame in merito all'esito dello stesso, aggiungendo un'indicazione dei rimedi giuridici in caso di insuccesso.
-
-<sup>2</sup> Un esame di ammissione superato dà diritto di accedere a una formazione di maturità professionale nell'anno in corso e nei due anni civili seguenti.
-
-## 3. Condizione e procedura di ammissione a un corso di maturità professionale successivo alla formazione professionale di base
+<sup>1</sup> L'esame di ammissione è superato se la media delle note ponderate nelle materie d'esame è almeno del 4,0 e se al massimo una nota è inferiore al 4,0.
 
 #### Art. 13
 
-**Condizione di ammissione**
+**Assenza ingiustificata**
 
-<sup>1</sup> Sono ammessi a corsi di maturità professionale successivi alla formazione professionale di base i titolari di un attestato federale di capacità o di un attestato professionale riconosciuto come equivalente dalla Confederazione.
+<sup>1</sup> In caso di assenza ingiustificata dall'esame di ammissione, quest'ultimo è considerato non superato.
 
 #### Art. 14
 
-**Esame d'idoneità**
+**Comportamento sleale durante l'esame di ammissione**
 
-<sup>1</sup> Le persone in possesso di un attestato federale di capacità vanno sottoposte a un esame d'idoneità prima dell'ammissione. A seconda dei requisiti posti dal corso, oltre al voto finale è possibile ricorrere a questo scopo ad altri elementi quali un colloquio d'ammissione, un test d'idoneità o l'esame in una materia specifica.
-
-<sup>2</sup> Le scuole di maturità professionale fissano per ciascun orientamento requisiti uniformi per l'esame d'idoneità.
-
-<sup>3</sup> Gli esami d'idoneità si tengono di norma entro il termine di tre mesi prima dell'inizio dei corsi.
+<sup>1</sup> Chi utilizza strumenti ausiliari non ammessi o si rende colpevole di un altro comportamento sleale non supera l'esame di ammissione.
 
 #### Art. 15
 
-**Decisione di ammissione**
+**Decisione d'esame**
 
-<sup>1</sup> La scuola di maturità professionale informa per iscritto i candidati al più tardi tre settimane dopo l'esame d'idoneità in merito all'esito dello stesso, aggiungendo un'indicazione dei rimedi giuridici in caso di decisione negativa.
+<sup>1</sup> La scuola di maturità professionale comunica la decisione d'esame ai candidati al più tardi tre settimane dopo l'esame di ammissione.
 
-<sup>2</sup> Una decisione di ammissione positiva dà diritto di accedere a una formazione di maturità professionale nell'anno in corso e nei due anni civili seguenti.
-
-<sup>3</sup> L'ammissione è provvisoria. Se al termine del primo semestre le condizioni di promozione interne alla scuola non sono soddisfatte, ciò comporta l'esclusione.
-
-## 4. Insegnamento per l'ottenimento della maturità professionale
+<sup>2</sup> Una decisione d'esame positiva dà diritto di accedere a una formazione di maturità professionale nell'anno in corso e nei due anni civili seguenti.
 
 #### Art. 16
 
-**Lingua scolastica**
+**Ammissione a un ciclo di formazione già iniziato**
 
-<sup>1</sup> La lingua scolastica è una delle lingue cantonali, di norma il tedesco.
+<sup>1</sup> Per essere ammessi a un ciclo di formazione già iniziato è necessaria una formazione preliminare equivalente al livello di formazione nel semestre corrispondente.
 
-## 5. Esame di maturità professionale
+<sup>2</sup> Se la prova non viene fornita tramite conoscenze acquisite in un ciclo di formazione dello stesso indirizzo, la scuola di maturità professionale può svolgere un esame di idoneità.
+
+<sup>3</sup> La forma e il contenuto di un esame di idoneità si conformano alle particolarità del singolo caso.
+
+## 3. Ciclo di formazione di maturità professionale dopo la conclusione della formazione professionale di base
 
 #### Art. 17
 
-**Organizzazione, svolgimento, amministrazione**
+**Condizioni di ammissione**
 
-<sup>1</sup> L'organizzazione, lo svolgimento e l'amministrazione dell'esame di maturità professionale competono alla scuola di maturità professionale esaminatrice.
+<sup>1</sup> Per l'ammissione a un ciclo di formazione dopo la conclusione della formazione professionale di base devono essere soddisfatte le seguenti condizioni:
+
+- a) il possesso di un attestato federale di capacità o di un titolo equivalente; e
+- b) il superamento di un esame di idoneità.
 
 #### Art. 18
 
-**Stesura e contenuti**
+**Esame di idoneità**
 
-<sup>1</sup> Le scuole di maturità professionale:
+<sup>1</sup> Le scuole di maturità professionale redigono l'esame di idoneità.
 
-- a) stabiliscono materie d'esame uniformi e una procedura d'esame uniforme per ciascun orientamento e corso ed emanano corrispondenti istruzioni;
-- b) istituiscono gruppi di esperti per la stesura e la validazione degli esami;
-- c) stabiliscono gli strumenti ausiliari in considerazione del programma quadro d'insegnamento e informano preventivamente i candidati in merito.
+<sup>2</sup> Esse stabiliscono per ciascun indirizzo requisiti uniformi per l'esame di idoneità. A seconda del ciclo di formazione, oltre alla nota finale si può ricorrere ad altri elementi, in particolare a un colloquio di ammissione, a un test di idoneità o all'esame in una materia specifica.
+
+<sup>3</sup> Gli esami di idoneità si tengono di norma al più tardi tre mesi prima dell'inizio del ciclo di formazione.
+
+<sup>4</sup> Le scuole di maturità professionale possono riscuotere una tassa d'esame.
 
 #### Art. 19
 
-**Accesso agli esami**
+**Decisione di ammissione**
 
-<sup>1</sup> Gli esami di maturità professionale non sono pubblici. Vi possono accedere soltanto le competenti autorità di sorveglianza e d'esame.
+<sup>1</sup> La scuola di maturità professionale comunica la decisione di ammissione ai candidati al più tardi tre settimane dopo l'esame di idoneità.
+
+<sup>2</sup> Una decisione di ammissione positiva dà diritto di accedere al ciclo formazione di maturità professionale nell'anno in corso e nei due anni civili seguenti.
+
+## 4. Insegnamento per l'ottenimento della maturità professionale
 
 #### Art. 20
 
-**Esami parziali**
+**Lingua scolastica**
 
-<sup>1</sup> La scuola di maturità professionale stabilisce le materie d'esame e il periodo di svolgimento degli esami parziali ai sensi dell'ordinanza sulla maturità professionale federale.
+<sup>1</sup> La lingua scolastica è una delle lingue ufficiali cantonali, di norma il tedesco.
+
+## 5. Esame di maturità professionale
 
 #### Art. 21
 
-**Ricorso a specialisti**
+**Organizzazione, amministrazione e svolgimento**
 
-<sup>1</sup> Gli esami vengono svolti insieme da insegnanti della scuola di maturità professionale (esaminatori) e specialisti esterni (esperti).
+<sup>1</sup> L'organizzazione, l'amministrazione e lo svolgimento dell'esame di maturità professionale competono alle scuole di maturità professionale.
 
-<sup>2</sup> Gli specialisti vengono scelti dall'Ufficio su richiesta della scuola di maturità professionale esaminatrice.
+<sup>2</sup> Le scuole di maturità professionale svolgono l'esame di maturità professionale secondo disposizioni d'esame uniformi.
 
 #### Art. 22
 
-**Azione disonesta all'esame**
+**Determinazione e comunicazione delle date degli esami**
 
-<sup>1</sup> L'utilizzo di strumenti ausiliari non ammessi, come pure ogni altra azione disonesta comportano l'insuccesso all'esame di maturità professionale.
+<sup>1</sup> L'ufficio competente fissa le date degli esami finali tenendo conto delle direttive della Confederazione e con il coinvolgimento delle scuole di maturità professionale nonché dell'ufficio competente per le scuole medie superiori.
+
+<sup>2</sup> Le scuole di maturità professionale informano tempestivamente i candidati in merito alle date degli esami e inviano la convocazione agli esami.
 
 #### Art. 23
 
-**Comunicazione del risultato dell'esame**
+**Redazione degli esami di maturità professionale**
 
-<sup>1</sup> I risultati degli esami di maturità professionale sono comunicati ai candidati entro tre giorni dalla decisione della scuola di maturità professionale esaminatrice. La comunicazione avviene in forma scritta, con l'aggiunta di un'indicazione dei rimedi giuridici in caso di insuccesso.
+<sup>1</sup> Le scuole di maturità professionale redigono per ciascun indirizzo esami di maturità professionale uniformi e ne garantiscono la validazione.
+
+<sup>2</sup> Le scuole medie superiori che propongono indirizzi corrispondenti devono essere adeguatamente coinvolte nella redazione degli esami.
 
 #### Art. 24
 
-**Esame sostitutivo**
+**Forma degli esami di maturità professionale**
 
-<sup>1</sup> In caso di insuccesso alla prova di formazione generale approfondita svolta nel quadro di un corso parallelo all'apprendistato in cui questa viene trattata in via integrativa insieme alle conoscenze professionali, la scuola di maturità professionale procede a un esame sostitutivo. In questo modo si accerta se i risultati dell'esame di maturità professionale soddisfino i requisiti per l'ottenimento dell'attestato federale di capacità.
+<sup>1</sup> Gli esami di maturità professionale si tengono oralmente e per iscritto.
+
+<sup>2</sup> Gli esami orali durano 15 minuti ciascuno.
 
 #### Art. 25
 
-**Ripetizione**
+**Carattere pubblico e accesso**
 
-<sup>1</sup> Chi non soddisfa né le condizioni per l'ottenimento dell'attestato federale di capacità, né le condizioni per il diploma di maturità professionale, può ripetere la procedura di qualificazione e il diploma di maturità professionale oppure solo la procedura di qualificazione.
+<sup>1</sup> Gli esami di maturità professionale non sono pubblici.
 
-<sup>2</sup> Un esame può essere ripetuto al più presto in occasione della prossima sessione d'esami ordinaria.
-
-## 6. Vie legali
+<sup>2</sup> L'ufficio competente disciplina l'accesso agli esami.
 
 #### Art. 26
 
-**Vie legali**
+**Ricorso a esperti**
 
-<sup>1</sup> Le decisioni concernenti l'insuccesso all'esame di ammissione o d'idoneità possono essere impugnate entro dieci giorni con ricorso amministrativo al Dipartimento.
+<sup>1</sup> Gli esami vengono valutati insieme da insegnanti della rispettiva scuola di maturità professionale e da esperti esterni.
 
-## 7. Disposizioni finali
+<sup>2</sup> Gli esperti esterni vengono nominati dall'ufficio competente su richiesta della rispettiva scuola di maturità professionale.
 
 #### Art. 27
 
-**Disposizione transitoria**
+**Diplomi di lingue straniere**
 
-<sup>1</sup> I candidati che hanno superato l'esame di ammissione 2014 sono ammessi al corso di maturità professionale dell'anno civile 2015.
+<sup>1</sup> La considerazione e la conversione di diplomi di lingue straniere nonché di note d'esame si conformano alle raccomandazioni della Conferenza svizzera degli uffici della formazione professionale (CSFP).
 
-<sup>2</sup> Per i candidati che hanno iniziato la loro formazione di maturità professionale prima del 1° gennaio 2015 vale il diritto previgente.
+#### Art. 28
 
-2015-011
+**Mezzi ausiliari e comportamenti sleali**
+
+<sup>1</sup> L'ufficio competente stabilisce i mezzi ausiliari ammessi coinvolgendo l'ufficio competente per le scuole medie superiori. A questo proposito si basa sulla guida della CSFP.
+
+<sup>2</sup> Le scuole di maturità professionale informano in anticipo i candidati in merito ai mezzi ausiliari ammessi.
+
+<sup>3</sup> Chi utilizza strumenti ausiliari non ammessi o si rende colpevole di un altro comportamento sleale non supera l'esame di maturità professionale.
+
+#### Art. 29
+
+**Comunicazione della decisione d’esame**
+
+<sup>1</sup> Una volta presa la decisione d'esame, la scuola di maturità professionale la comunica ai candidati entro tre giorni.
+
+#### Art. 30
+
+**Momento della ripetizione dell'esame**
+
+<sup>1</sup> Un esame può essere ripetuto al più presto in occasione della prossima data di esame ordinaria.
+
+## 6. Protezione giuridica
+
+#### Art. 31
+
+**Rimedi giuridici**
+
+<sup>1</sup> Le decisioni concernenti il mancato superamento dell'esame di ammissione o di idoneità nonché dell'esame di maturità professionale possono essere impugnate entro dieci giorni con ricorso amministrativo al Dipartimento.
+
+2026-013
