@@ -4,11 +4,11 @@ title: "Verordnung vom 19. Juni 1995 über die Arbeits- und Ruhezeit der berufsm
 short: ARV 1
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/4031_4031_4031"
 language: de
-version: 2025-05-01
+version: 2026-07-01
 adopted: 1995-06-19
 in_force: 1995-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4031_4031_4031/20250501/de/xml/fedlex-data-admin-ch-eli-cc-1995-4031_4031_4031-20250501-de-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/4031_4031_4031/20250501/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4031_4031_4031/20260701/de/xml/fedlex-data-admin-ch-eli-cc-1995-4031_4031_4031-20260701-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/4031_4031_4031/20260701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/4031_4031_4031/20250501/de"
 
 (Chauffeurverordnung, ARV 1)
 
-vom 19. Juni 1995 (Stand am 1. Mai 2025)
+vom 19. Juni 1995 (Stand am 1. Juli 2026)
 
 Der Schweizerische Bundesrat,
 
@@ -25,7 +25,7 @@ gestützt auf die Artikel 56 und 103 des Strassenverkehrsgesetzes vom 19. Dezemb
 
 verordnet:
 
-[^ingress-1]: [SR 741.01](https://fedlex.data.admin.ch/eli/cc/1959/679_705_685)
+[^ingress-1]: [SR 741.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8613)
 
 ## 1. Abschnitt: Gegenstand und Begriffe
 
@@ -37,7 +37,7 @@ verordnet:
 
 <sup>2</sup> Vorbehalten bleiben die Bestimmungen des Arbeitsgesetzes vom 13. März 1964[^1-1], insbesondere die Bestimmungen über die Kompensation der Nachtarbeit.[^1-2]
 
-[^1-1]: [SR 822.11](https://fedlex.data.admin.ch/eli/cc/1966/57_57_57)
+[^1-1]: [SR 822.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9884)
 [^1-2]: Eingefügt durch Ziff. I der V vom 30. Juni 2010, in Kraft seit 1. Jan. 2012 ([AS 2010 3239](https://fedlex.data.admin.ch/eli/oc/2010/435), [5087](https://fedlex.data.admin.ch/eli/oc/2010/734)).
 
 #### Art. 2
@@ -92,16 +92,18 @@ In dieser Verordnung werden folgende Begriffe verwendet:
 Die Verordnung gilt für die Führer und Führerinnen von Motorwagen und Fahrzeugkombinationen:
 
 - a. zum Sachentransport, deren Gesamtgewicht nach Fahrzeugausweis 3,5 t übersteigt;
+- a<sup>bis</sup>.[^3-1] zum Sachentransport im grenzüberschreitenden Verkehr, sofern das Gesamtgewicht nach Fahrzeugausweis mehr als 2,5 t beträgt, aber 3,5 t nicht übersteigt;
 - b. zum Personentransport, die ausser dem Führersitz für eine Platzzahl von mehr als acht Personen zugelassen sind.
 
 <sup>2</sup> Lenkt ein Führer oder eine Führerin im Ausland ein Fahrzeug, das in der Schweiz immatrikuliert ist, so gilt diese Verordnung, sofern die von der Schweiz ratifizierten internationalen Übereinkommen nicht strengere Vorschriften vorsehen.
 
-<sup>3</sup> Die Führer und Führerinnen, die im Ausland immatrikulierte Fahrzeuge in der Schweiz lenken, müssen nur die Vorschriften der Artikel 5, 7, 8 Absätze 1, 2, 4 und 5 sowie Artikel 9–12, 14–14*c* und 18 Absatz 1 einhalten.[^3-1]
+<sup>3</sup> Die Führer und Führerinnen, die im Ausland immatrikulierte Fahrzeuge in der Schweiz lenken, müssen nur die Vorschriften der Artikel 5, 7, 8 Absätze 1, 2, 4 und 5 sowie Artikel 9–12, 14–14*c* und 18 Absatz 1 einhalten.[^3-2]
 
-<sup>4</sup> Für Arbeitgeber, Unternehmen und Werkstätten gilt diese Verordnung nur, soweit einzelne Bestimmungen dies ausdrücklich vorsehen.[^3-2]
+<sup>4</sup> Für Arbeitgeber, Unternehmen und Werkstätten gilt diese Verordnung nur, soweit einzelne Bestimmungen dies ausdrücklich vorsehen.[^3-3]
 
-[^3-1]: Fassung gemäss Ziff. I der V vom 29. Juni 2011, in Kraft seit 1. Okt. 2011 ([AS 2011 3905](https://fedlex.data.admin.ch/eli/oc/2011/554)).
-[^3-2]: Fassung gemäss Ziff. I der V vom 29. März 2006, in Kraft seit 1. Nov. 2006 ([AS 2006 1689](https://fedlex.data.admin.ch/eli/oc/2006/265)).
+[^3-1]: Eingefügt durch Ziff. I der V vom 28. Aug. 2024, in Kraft seit 1. Juli 2026 ([AS 2024 482](https://fedlex.data.admin.ch/eli/oc/2024/482)).
+[^3-2]: Fassung gemäss Ziff. I der V vom 29. Juni 2011, in Kraft seit 1. Okt. 2011 ([AS 2011 3905](https://fedlex.data.admin.ch/eli/oc/2011/554)).
+[^3-3]: Fassung gemäss Ziff. I der V vom 29. März 2006, in Kraft seit 1. Nov. 2006 ([AS 2006 1689](https://fedlex.data.admin.ch/eli/oc/2006/265)).
 
 #### Art. 4
 
@@ -120,54 +122,56 @@ Die Verordnung gilt nicht für die Führer und Führerinnen von Fahrzeugen:
 - g. mit denen zum Zweck der technischen Entwicklung oder bei Reparatur- oder Wartungsarbeiten Probefahrten oder Überführungsfahrten ausgeführt werden oder die neu oder umgebaut noch nicht in Verkehr stehen;
 - h.[^4-1] mit einem Gesamtgewicht bis 7,5 t und Fahrzeugkombinationen mit einem Gesamtzugsgewicht bis 7,5 t, die für nicht gewerbliche Sachentransporte eingesetzt werden;
 - i. die als historisch gelten (Veteranenfahrzeuge) und die nicht für gewerbliche Sachen- oder Personentransporte eingesetzt werden;
-- j.[^4-2]
+- j.[^4-2] mit einem Gesamtgewicht von mehr als 2,5 t, aber nicht mehr als 3,5 t und für Fahrzeugkombinationen mit einem Gesamtzugsgewicht von mehr als 2,5 t, aber nicht mehr als 3,5 t, wenn das Führen des Fahrzeugs oder der Fahrzeugkombination im Durchschnitt einer Woche höchstens die Hälfte der Arbeitszeit in Anspruch nimmt und der Transport nicht auf fremde Rechnung durchgeführt wird;
+- k.[^4-3]
 
   mit einem Gesamtgewicht bis 7,5 t und Fahrzeugkombinationen mit einem Gesamtzugsgewicht bis 7,5 t, die zur Auslieferung von handwerklich hergestellten Gütern oder zum Transport von Material oder Ausrüstung benutzt werden, die der Führer oder die Führerin zur Berufsausübung verwendet, sofern:
 
   - 1\. diese Fahrzeuge oder Fahrzeugkombinationen innerhalb eines Umkreises von 100 km um den Standort des Unternehmens eingesetzt werden,
   - 2\. das Führen des Fahrzeugs im Durchschnitt einer Woche höchstens die Hälfte der Arbeitszeit in Anspruch nimmt, und
-  - 3\. der Transport nicht auf fremde Rechnung durchgeführt wird.[^4-3]
+  - 3\. der Transport nicht auf fremde Rechnung durchgeführt wird.[^4-4]
 
 <sup>2</sup>
 
 Im Binnenverkehr gilt diese Verordnung ferner nicht für Führer und Führerinnen, die ausschliesslich Fahrten mit folgenden Fahrzeugen oder Fahrzeugkombinationen ausführen:
 
-- a.[^4-4] Motorwagen zum Personentransport mit nicht mehr als 16 Sitzplätzen ausser dem Führersitz;
+- a.[^4-5] Motorwagen zum Personentransport mit nicht mehr als 16 Sitzplätzen ausser dem Führersitz;
 - b. Fahrzeugkombinationen zum Sachentransport, sofern das Gesamtgewicht des Zugfahrzeugs 3,5 t und bei Sattelschleppern zudem das zulässige Gesamtgewicht des Zuges gemäss Fahrzeugausweis des Sattelschleppers 5 t nicht übersteigt;
-- c.[^4-5] Verwaltungsfahrzeuge des Bundes (Art. 2 Abs. 1 der V vom 23. Febr. 2005[^4-6] über die Fahrzeuge des Bundes und ihre Führer und Führerinnen);
-- d.[^4-7] speziell ausgerüstete Fahrzeuge für mobile Projekte, die hauptsächlich im Stand zu Lehrzwecken dienen;
-- e.[^4-8] Fahrschulfahrzeuge, sofern diese nicht für gewerbliche Personen- oder Sachentransporte eingesetzt werden;
-- f.[^4-9] Fahrzeuge, die im Rahmen der von Fahrlehrern und Fahrlehrerinnen oder von Weiterbildungsstätten durchgeführten praktischen Fahrausbildung oder Weiterbildung eingesetzt werden, sofern auf diesen Fahrten keine gewerblichen Personen- oder Sachentransporte durchgeführt werden;
-- g.[^4-10] Fahrzeuge, die von Kanalisations-, Hochwasserschutz-, Strassenunterhaltsdiensten und Sammeldiensten für Siedlungsabfälle, von Wasser-, Gas- und Elektrizitätsversorgungsdiensten, von Telegramm- und Telefonanbietern, Radio- und Fernsehsendern sowie zur Erfassung von Radio- und Fernsehsendern oder -geräten eingesetzt werden;
-- h.[^4-11] Fahrzeuge, die Ausrüstungen des Zirkus- oder Schaustellergewerbes transportieren;
-- i.[^4-12] Fahrzeuge, die bloss im werkinternen Verkehr eingesetzt werden und öffentliche Strassen nur mit behördlicher Bewilligung benützen dürfen (Art. 33 der Verkehrsversicherungsverordnung vom 20. Nov. 1959[^4-13] und Art. 72 Abs. 1 Bst. e der Verkehrszulassungsverordnung vom 27. Okt. 1976[^4-14]) oder die ausschliesslich auf Strassen in Güterverteilzentren wie Häfen, Umschlaganlagen des kombinierten Verkehrs und Eisenbahnterminals benutzt werden;
-- j.[^4-15] mit führerlosen Fahrzeugen, sofern diese mit anderen Mitteln als den konventionellen Bedienelementen geführt werden.
+- c.[^4-6] Verwaltungsfahrzeuge des Bundes (Art. 2 Abs. 1 der V vom 23. Febr. 2005[^4-7] über die Fahrzeuge des Bundes und ihre Führer und Führerinnen);
+- d.[^4-8] speziell ausgerüstete Fahrzeuge für mobile Projekte, die hauptsächlich im Stand zu Lehrzwecken dienen;
+- e.[^4-9] Fahrschulfahrzeuge, sofern diese nicht für gewerbliche Personen- oder Sachentransporte eingesetzt werden;
+- f.[^4-10] Fahrzeuge, die im Rahmen der von Fahrlehrern und Fahrlehrerinnen oder von Weiterbildungsstätten durchgeführten praktischen Fahrausbildung oder Weiterbildung eingesetzt werden, sofern auf diesen Fahrten keine gewerblichen Personen- oder Sachentransporte durchgeführt werden;
+- g.[^4-11] Fahrzeuge, die von Kanalisations-, Hochwasserschutz-, Strassenunterhaltsdiensten und Sammeldiensten für Siedlungsabfälle, von Wasser-, Gas- und Elektrizitätsversorgungsdiensten, von Telegramm- und Telefonanbietern, Radio- und Fernsehsendern sowie zur Erfassung von Radio- und Fernsehsendern oder -geräten eingesetzt werden;
+- h.[^4-12] Fahrzeuge, die Ausrüstungen des Zirkus- oder Schaustellergewerbes transportieren;
+- i.[^4-13] Fahrzeuge, die bloss im werkinternen Verkehr eingesetzt werden und öffentliche Strassen nur mit behördlicher Bewilligung benützen dürfen (Art. 33 der Verkehrsversicherungsverordnung vom 20. Nov. 1959[^4-14] und Art. 72 Abs. 1 Bst. e der Verkehrszulassungsverordnung vom 27. Okt. 1976[^4-15]) oder die ausschliesslich auf Strassen in Güterverteilzentren wie Häfen, Umschlaganlagen des kombinierten Verkehrs und Eisenbahnterminals benutzt werden;
+- j.[^4-16] mit führerlosen Fahrzeugen, sofern diese mit anderen Mitteln als den konventionellen Bedienelementen geführt werden.
 
-<sup>2bis</sup> Führer und Führerinnen, die Fahrzeuge nach Absatz 2 Buchstabe a für berufsmässige Personentransporte einsetzen, unterstehen im Binnenverkehr der Verordnung vom 6. Mai 1981[^4-16] über die Arbeits- und Ruhezeit der berufsmässigen Führer von leichten Personentransportfahrzeugen und schweren Personenwagen.[^4-17]
+<sup>2bis</sup> Führer und Führerinnen, die Fahrzeuge nach Absatz 2 Buchstabe a für berufsmässige Personentransporte einsetzen, unterstehen im Binnenverkehr der Verordnung vom 6. Mai 1981[^4-17] über die Arbeits- und Ruhezeit der berufsmässigen Führer von leichten Personentransportfahrzeugen und schweren Personenwagen.[^4-18]
 
-<sup>3</sup> Im Binnenverkehr gilt die Verordnung nicht für Führer und Führerinnen, die dem Arbeitszeitgesetz vom 8. Oktober 1971[^4-18] unterstehen und nur Transporte ausführen, die von diesem Gesetz erfasst werden. Werden zusätzlich andere Transporte ausgeführt, müssen sie für ihre gesamte berufliche Tätigkeit die Arbeits‑, Lenk- und Ruhezeitvorschriften der Artikel 5–12 beachten und die Kontrollmittel nach den Artikeln 14–16 führen.
+<sup>3</sup> Im Binnenverkehr gilt die Verordnung nicht für Führer und Führerinnen, die dem Arbeitszeitgesetz vom 8. Oktober 1971[^4-19] unterstehen und nur Transporte ausführen, die von diesem Gesetz erfasst werden. Werden zusätzlich andere Transporte ausgeführt, müssen sie für ihre gesamte berufliche Tätigkeit die Arbeits‑, Lenk- und Ruhezeitvorschriften der Artikel 5–12 beachten und die Kontrollmittel nach den Artikeln 14–16 führen.
 
-<sup>4</sup> …[^4-19]
+<sup>4</sup> …[^4-20]
 
 [^4-1]: Fassung gemäss Ziff. I der V vom 17. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 792](https://fedlex.data.admin.ch/eli/oc/2021/792)).
-[^4-2]: Eingefügt durch Ziff. I der V vom 17. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 792](https://fedlex.data.admin.ch/eli/oc/2021/792)).
-[^4-3]: Fassung gemäss Ziff. I der V vom 30. Juni 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 3239](https://fedlex.data.admin.ch/eli/oc/2010/435)).
-[^4-4]: Fassung gemäss Ziff. I der V vom 3. Juli 2002, in Kraft seit 1. April 2003 ([AS 2002 3324](https://fedlex.data.admin.ch/eli/oc/2002/492)).
-[^4-5]: Fassung gemäss Anhang Ziff. II 7 der V vom 23. Febr. 2005 über die Fahrzeuge des Bundes und ihre Führer und Führerinnen, in Kraft seit 1. März 2005 ([AS 2005 1167](https://fedlex.data.admin.ch/eli/oc/2005/163)).
-[^4-6]: [SR 514.31](https://fedlex.data.admin.ch/eli/cc/2005/163)
-[^4-7]: Fassung gemäss Ziff. I der V vom 30. Juni 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 3239](https://fedlex.data.admin.ch/eli/oc/2010/435)).
+[^4-2]: Eingefügt durch Ziff. I der V vom 17. Nov. 2021 ([AS 2021 792](https://fedlex.data.admin.ch/eli/oc/2021/792)). Fassung gemäss Ziff. I der V vom 28. Aug. 2024, in Kraft seit 1. Juli 2026 ([AS 2024 482](https://fedlex.data.admin.ch/eli/oc/2024/482)).
+[^4-3]: Eingefügt durch Ziff. I der V vom 28. Aug. 2024, in Kraft seit 1. Juli 2026 ([AS 2024 482](https://fedlex.data.admin.ch/eli/oc/2024/482)).
+[^4-4]: Fassung gemäss Ziff. I der V vom 30. Juni 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 3239](https://fedlex.data.admin.ch/eli/oc/2010/435)).
+[^4-5]: Fassung gemäss Ziff. I der V vom 3. Juli 2002, in Kraft seit 1. April 2003 ([AS 2002 3324](https://fedlex.data.admin.ch/eli/oc/2002/492)).
+[^4-6]: Fassung gemäss Anhang Ziff. II 7 der V vom 23. Febr. 2005 über die Fahrzeuge des Bundes und ihre Führer und Führerinnen, in Kraft seit 1. März 2005 ([AS 2005 1167](https://fedlex.data.admin.ch/eli/oc/2005/163)).
+[^4-7]: [SR 514.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7511)
 [^4-8]: Fassung gemäss Ziff. I der V vom 30. Juni 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 3239](https://fedlex.data.admin.ch/eli/oc/2010/435)).
-[^4-9]: Eingefügt durch Ziff. I der V vom 30. Juni 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 3239](https://fedlex.data.admin.ch/eli/oc/2010/435)).
+[^4-9]: Fassung gemäss Ziff. I der V vom 30. Juni 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 3239](https://fedlex.data.admin.ch/eli/oc/2010/435)).
 [^4-10]: Eingefügt durch Ziff. I der V vom 30. Juni 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 3239](https://fedlex.data.admin.ch/eli/oc/2010/435)).
 [^4-11]: Eingefügt durch Ziff. I der V vom 30. Juni 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 3239](https://fedlex.data.admin.ch/eli/oc/2010/435)).
 [^4-12]: Eingefügt durch Ziff. I der V vom 30. Juni 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 3239](https://fedlex.data.admin.ch/eli/oc/2010/435)).
-[^4-13]: [SR 741.31](https://fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317)
-[^4-14]: [SR 741.51](https://fedlex.data.admin.ch/eli/cc/1976/2423_2423_2423)
-[^4-15]: Eingefügt durch Anhang Ziff. 4 der V vom 13. Dez. 2024 über das automatisierte Fahren, in Kraft seit 1. März 2025 ([AS 2025 50](https://fedlex.data.admin.ch/eli/oc/2025/50)).
-[^4-16]: [SR 822.222](https://fedlex.data.admin.ch/eli/cc/1981/480_480_480)
-[^4-17]: Eingefügt durch Ziff. I der V vom 3. Juli 2002, in Kraft seit 1. April 2003 ([AS 2002 3324](https://fedlex.data.admin.ch/eli/oc/2002/492)).
-[^4-18]: [SR 822.21](https://fedlex.data.admin.ch/eli/cc/1972/604_612_536)
-[^4-19]: Eingefügt durch Anhang 1 Ziff. 4 der V vom 2. Sept. 1998 ([AS 1998 2352](https://fedlex.data.admin.ch/eli/oc/1998/2352_2352_2352)). Aufgehoben durch Ziff. I der V vom 30. Juni 2010, mit Wirkung seit 1. Jan. 2011 ([AS 2010 3239](https://fedlex.data.admin.ch/eli/oc/2010/435)).
+[^4-13]: Eingefügt durch Ziff. I der V vom 30. Juni 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 3239](https://fedlex.data.admin.ch/eli/oc/2010/435)).
+[^4-14]: [SR 741.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8645)
+[^4-15]: [SR 741.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8668)
+[^4-16]: Eingefügt durch Anhang Ziff. 4 der V vom 13. Dez. 2024 über das automatisierte Fahren, in Kraft seit 1. März 2025 ([AS 2025 50](https://fedlex.data.admin.ch/eli/oc/2025/50)).
+[^4-17]: [SR 822.222](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9912)
+[^4-18]: Eingefügt durch Ziff. I der V vom 3. Juli 2002, in Kraft seit 1. April 2003 ([AS 2002 3324](https://fedlex.data.admin.ch/eli/oc/2002/492)).
+[^4-19]: [SR 822.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9907)
+[^4-20]: Eingefügt durch Anhang 1 Ziff. 4 der V vom 2. Sept. 1998 ([AS 1998 2352](https://fedlex.data.admin.ch/eli/oc/1998/2352_2352_2352)). Aufgehoben durch Ziff. I der V vom 30. Juni 2010, mit Wirkung seit 1. Jan. 2011 ([AS 2010 3239](https://fedlex.data.admin.ch/eli/oc/2010/435)).
 
 ## 3. Abschnitt: Lenkzeiten, Arbeitszeiten, Pausen, Ruhezeiten
 
@@ -312,7 +316,7 @@ Abweichend von Artikel 9 Absatz 1 darf der Führer oder die Führerin die tägli
 - b. zweimalig bei einer einzelnen Rundfahrt von einer Dauer von mindestens acht aufeinanderfolgenden 24‑Stunden-Zeiträumen.
 
 [^11a-1]: Eingefügt durch Ziff. I der V vom 30. Juni 2010 ([AS 2010 3239](https://fedlex.data.admin.ch/eli/oc/2010/435)). Fassung gemäss Ziff. I der V vom 7. März 2025, in Kraft seit 1. Mai 2025 ([AS 2025 182](https://fedlex.data.admin.ch/eli/oc/2025/182)).
-[^11a-2]: [SR 745.11](https://fedlex.data.admin.ch/eli/cc/2009/739)
+[^11a-2]: [SR 745.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8887)
 
 #### Art. 11b
 
@@ -443,9 +447,9 @@ Fahrtschreiberkarten werden vor Ablauf ihrer Gültigkeitsdauer entzogen oder fü
 <sup>7</sup> Der Diebstahl einer Fahrerkarte ist den zuständigen Behörden des Staates, in dem sich der Diebstahl ereignet hat, zu melden.
 
 [^13b-1]: Eingefügt durch Ziff. I der V vom 29. März 2006, in Kraft seit 1. Nov. 2006 ([AS 2006 1689](https://fedlex.data.admin.ch/eli/oc/2006/265)).
-[^13b-2]: [SR 741.51](https://fedlex.data.admin.ch/eli/cc/1976/2423_2423_2423)
+[^13b-2]: [SR 741.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8668)
 [^13b-3]: Fassung gemäss Ziff. I der V vom 28. März 2007, in Kraft seit 1. Juli 2007 ([AS 2007 2191](https://fedlex.data.admin.ch/eli/oc/2007/305)).
-[^13b-4]: [SR 741.58](https://fedlex.data.admin.ch/eli/cc/2018/783)
+[^13b-4]: [SR 741.58](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8684)
 [^13b-5]: Fassung gemäss Anhang 4 Ziff. II 10 der V vom 30. Nov. 2018 über das Informationssystem Verkehrszulassung, in Kraft seit 1. Jan. 2019 ([AS 2018 4997](https://fedlex.data.admin.ch/eli/oc/2018/783)).
 [^13b-6]: Fassung gemäss Ziff. I der V vom 29. Juni 2011, in Kraft seit 1. Okt. 2011 ([AS 2011 3905](https://fedlex.data.admin.ch/eli/oc/2011/554)).
 [^13b-7]: Fassung gemäss Ziff. I der V vom 29. Juni 2011, in Kraft seit 1. Okt. 2011 ([AS 2011 3905](https://fedlex.data.admin.ch/eli/oc/2011/554)).
@@ -465,11 +469,11 @@ Fahrtschreiberkarten werden vor Ablauf ihrer Gültigkeitsdauer entzogen oder fü
 <sup>5</sup> Werkstattkarten müssen dem BAZG bei Änderungen nach Artikel 13*a* Absatz 3, Beschädigung oder Fehlfunktion zurückgegeben werden. Wird eine ersetzte Werkstattkarte wieder aufgefunden, so muss sie innerhalb von 14 Tagen der Behörde abgegeben werden. Die auf der Karte gespeicherten Daten sind vorgängig zu sichern.
 
 [^13c-1]: Eingefügt durch Ziff. I der V vom 29. März 2006, in Kraft seit 1. Nov. 2006 ([AS 2006 1689](https://fedlex.data.admin.ch/eli/oc/2006/265)).
-[^13c-2]: [SR 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
+[^13c-2]: [SR 741.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8648)
 [^13c-3]: Verordnung (EU) Nr. 165/2014 des Europäischen Parlaments und des Rates vom 4. Februar 2014 über Fahrtenschreiber im Strassenverkehr, zur Aufhebung der Verordnung (EWG) Nr. 3821/85 des Rates über das Kontrollgerät im Strassenverkehr und zur Änderung der Verordnung (EG) Nr. 561/2006 des Europäischen Parlaments und des Rates zur Harmonisierung bestimmter Sozialvorschriften im Strassenverkehr, Fassung gemäss ABl. L 60 vom 28.2.2014, S. 1.
 [^13c-4]: Fassung gemäss Anhang 4 Ziff. II 10 der V vom 30. Nov. 2018 über das Informationssystem Verkehrszulassung, in Kraft seit 1. Jan. 2019 ([AS 2018 4997](https://fedlex.data.admin.ch/eli/oc/2018/783)).
-[^13c-5]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) auf den 1. Jan. 2022 angepasst ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Diese Anpassung wurde im ganzen Text vorgenommen.
-[^13c-6]: [SR 741.58](https://fedlex.data.admin.ch/eli/cc/2018/783)
+[^13c-5]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)) auf den 1. Jan. 2022 angepasst ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Diese Anpassung wurde im ganzen Text vorgenommen.
+[^13c-6]: [SR 741.58](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8684)
 [^13c-7]: Fassung gemäss Anhang 4 Ziff. II 10 der V vom 30. Nov. 2018 über das Informationssystem Verkehrszulassung, in Kraft seit 1. Jan. 2019 ([AS 2018 4997](https://fedlex.data.admin.ch/eli/oc/2018/783)).
 
 #### Art. 13d
@@ -485,7 +489,7 @@ Fahrtschreiberkarten werden vor Ablauf ihrer Gültigkeitsdauer entzogen oder fü
 <sup>4</sup> Die Unternehmenskarte wird auf den Namen des Unternehmens ausgestellt. Einem Unternehmen können mehrere Unternehmenskarten erteilt werden.
 
 [^13d-1]: Eingefügt durch Ziff. I der V vom 29. März 2006, in Kraft seit 1. Nov. 2006 ([AS 2006 1689](https://fedlex.data.admin.ch/eli/oc/2006/265)).
-[^13d-2]: [SR 741.58](https://fedlex.data.admin.ch/eli/cc/2018/783)
+[^13d-2]: [SR 741.58](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8684)
 [^13d-3]: Fassung gemäss Anhang 4 Ziff. II 10 der V vom 30. Nov. 2018 über das Informationssystem Verkehrszulassung, in Kraft seit 1. Jan. 2019 ([AS 2018 4997](https://fedlex.data.admin.ch/eli/oc/2018/783)).
 
 #### Art. 13e
@@ -501,7 +505,7 @@ Fahrtschreiberkarten werden vor Ablauf ihrer Gültigkeitsdauer entzogen oder fü
 <sup>4</sup> Die Kontrollkarte ist unpersönlich und übertragbar. Einer Behörde können mehrere Kontrollkarten erteilt werden.
 
 [^13e-1]: Eingefügt durch Ziff. I der V vom 29. März 2006, in Kraft seit 1. Nov. 2006 ([AS 2006 1689](https://fedlex.data.admin.ch/eli/oc/2006/265)).
-[^13e-2]: [SR 741.58](https://fedlex.data.admin.ch/eli/cc/2018/783)
+[^13e-2]: [SR 741.58](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8684)
 [^13e-3]: Fassung gemäss Anhang 4 Ziff. II 10 der V vom 30. Nov. 2018 über das Informationssystem Verkehrszulassung, in Kraft seit 1. Jan. 2019 ([AS 2018 4997](https://fedlex.data.admin.ch/eli/oc/2018/783)).
 [^13e-4]: Fassung gemäss Ziff. I der V vom 21. Nov. 2018, in Kraft seit 1. Febr. 2019 ([AS 2019 335](https://fedlex.data.admin.ch/eli/oc/2019/52)).
 
@@ -741,7 +745,7 @@ Hat der Arbeitnehmer oder die Arbeitnehmerin zwei aufeinanderfolgende reduzierte
 [^17-2]: Eingefügt durch Ziff. I der V vom 17. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 792](https://fedlex.data.admin.ch/eli/oc/2021/792)).
 [^17-3]: Eingefügt durch Ziff. I der V vom 17. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 792](https://fedlex.data.admin.ch/eli/oc/2021/792)).
 [^17-4]: Eingefügt durch Ziff. I der V vom 21. Nov. 2018, in Kraft seit 1. Febr. 2019 ([AS 2019 335](https://fedlex.data.admin.ch/eli/oc/2019/52)).
-[^17-5]: [SR 745.11](https://fedlex.data.admin.ch/eli/cc/2009/739)
+[^17-5]: [SR 745.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8887)
 [^17-6]: Eingefügt durch Ziff. I der V vom 7. März 2025, in Kraft seit 1. Mai 2025 ([AS 2025 182](https://fedlex.data.admin.ch/eli/oc/2025/182)).
 
 #### Art. 18
@@ -775,9 +779,9 @@ Arbeitgeber sowie selbständigerwerbende Führer und Führerinnen müssen am Ges
 [^18-5]: Eingefügt durch Ziff. I der V vom 29. März 2006, in Kraft seit 1. Nov. 2006 ([AS 2006 1689](https://fedlex.data.admin.ch/eli/oc/2006/265)).
 [^18-6]: Fassung gemäss Ziff. I der V vom 29. März 2006, in Kraft seit 1. Nov. 2006 ([AS 2006 1689](https://fedlex.data.admin.ch/eli/oc/2006/265)).
 [^18-7]: Fassung gemäss Ziff. I der V vom 29. März 2006, in Kraft seit 1. Nov. 2006 ([AS 2006 1689](https://fedlex.data.admin.ch/eli/oc/2006/265)).
-[^18-8]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
-[^18-9]: [SR 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^18-10]: [SR 431.01](https://fedlex.data.admin.ch/eli/cc/1993/2080_2080_2080)
+[^18-8]: [SR 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
+[^18-9]: [SR 235.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5994)
+[^18-10]: [SR 431.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6946)
 [^18-11]: Eingefügt durch Ziff. I der V vom 29. März 2006 ([AS 2006 1689](https://fedlex.data.admin.ch/eli/oc/2006/265)). Fassung gemäss Anhang 2 Ziff. II 111 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 ## 5. Abschnitt: Sonderbestimmungen
@@ -801,7 +805,7 @@ Bei Lernfahrten müssen die Ausbilder und Ausbilderinnen:
 <sup>4</sup> Lernfahrten von Lernenden gelten auch für Ausbilder und Ausbilderinnen als Lenkzeit.
 
 [^19-1]: Fassung gemäss Ziff. I der V vom 11. Febr. 2015, in Kraft seit 1. Mai 2015 ([AS 2015 1089](https://fedlex.data.admin.ch/eli/oc/2015/217)).
-[^19-2]: [SR 741.51](https://fedlex.data.admin.ch/eli/cc/1976/2423_2423_2423)
+[^19-2]: [SR 741.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8668)
 
 #### Art. 20
 
@@ -895,7 +899,7 @@ Mit Busse wird bestraft, wer die Kontrollbestimmungen (Art. 13–18) verletzt, i
 
 [^23-1]: Fassung gemäss Ziff. I der V vom 29. März 2006, in Kraft seit 1. Nov. 2006 ([AS 2006 1689](https://fedlex.data.admin.ch/eli/oc/2006/265)).
 [^23-2]: Fassung gemäss Ziff. I der V vom 29. Juni 2011, in Kraft seit 1. Okt. 2011 ([AS 2011 3905](https://fedlex.data.admin.ch/eli/oc/2011/554)).
-[^23-3]: [SR 741.013](https://fedlex.data.admin.ch/eli/cc/2007/296)
+[^23-3]: [SR 741.013](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8616)
 [^23-4]: Fassung gemäss Ziff. I der V vom 28. März 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 2191](https://fedlex.data.admin.ch/eli/oc/2007/305)).
 [^23-5]: Aufgehoben durch Ziff. I der V vom 28. März 2007, mit Wirkung seit 1. Jan. 2008 ([AS 2007 2191](https://fedlex.data.admin.ch/eli/oc/2007/305)).
 
