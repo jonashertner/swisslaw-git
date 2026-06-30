@@ -4,11 +4,11 @@ title: Ordinanza del 28 giugno 2000 sulla pianificazione del territorio (OPT)
 short: OPT
 eli: "https://fedlex.data.admin.ch/eli/cc/2000/310"
 language: it
-version: 2026-05-20
+version: 2026-07-01
 adopted: 2000-06-28
 in_force: 2000-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/310/20260520/it/xml/fedlex-data-admin-ch-eli-cc-2000-310-20260520-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2000/310/20260520/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/310/20260701/it/xml/fedlex-data-admin-ch-eli-cc-2000-310-20260701-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2000/310/20260701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2000/310/20260520/it"
 
 (OPT)
 
-del 28 giugno 2000 (Stato 20 maggio 2026)
+del 28 giugno 2000 (Stato 1° luglio 2026)
 
 Il Consiglio federale svizzero,
 
@@ -388,6 +388,104 @@ La Confederazione redige periodicamente un compendio all’attenzione dei Canton
 
 <sup>2</sup> Se un piano direttore dev’essere adattato, l’ARE coordina le procedure tra Confederazione e Cantone.
 
+## Capitolo 3*a*: Obiettivi di stabilizzazione fuori delle zone edificabili
+
+[^chap3a-1]
+
+[^chap3a-1]: Introdotto dalla cifra I dell’O del 15 ott. 2025, in vigore dal 1° lug. 2026 ([RU 2025 659](https://fedlex.data.admin.ch/eli/oc/2025/659)).
+
+#### Art. 25a
+
+**Precisazione degli obiettivi di stabilizzazione**
+
+### (art. 1 cpv. 2 lett. b<sup>ter</sup> e b<sup>quater</sup> e 8*d* cpv. 2 LPT)
+
+<sup>1</sup> L’obiettivo di stabilizzazione di cui all’articolo 1 capoverso 2 lettera b<sup>ter</sup> LPT si applica agli edifici ai sensi dell’articolo 2 lettera b dell’ordinanza del 9 giugno 2017[^25a-1] sul Registro federale degli edifici e delle abitazioni. Non si applica agli edifici con una superficie inferiore a 6 m<sup>2</sup>.
+
+<sup>2</sup> L’obiettivo di stabilizzazione di cui all’articolo 1 capoverso 2 lettera b<sup>quater</sup> si applica alle impermeabilizzazioni del suolo fuori delle zone edificabili, ad eccezione di quelle nella regione d’estivazione secondo la raccolta di geodati di base di cui all’articolo 5 dell’ordinanza del 7 dicembre 1998[^25a-2] sulle zone agricole.
+
+<sup>3</sup> Un suolo è considerato impermeabilizzato se si tratta della superficie occupata da un edificio oppure della superficie del suolo con un rivestimento impermeabile come calcestruzzo o asfalto.
+
+[^25a-1]: [RS 431.841](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7029)
+[^25a-2]: [RS 912.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10437)
+
+#### Art. 25b
+
+**Raggiungimento degli obiettivi di stabilizzazione**
+
+### (art. 1, 8*d* e 24*f* LPT)
+
+<sup>1</sup> Gli obiettivi di stabilizzazione sono raggiunti se, nel Cantone interessato, il numero degli edifici da tenere in considerazione e le impermeabilizzazioni da tenere in considerazione non superano di oltre il 2 per cento il rispettivo valore di riferimento.
+
+<sup>2</sup> I valori di riferimento sono determinati nell’allegato 1.
+
+<sup>3</sup> I valori di riferimento vengono ricalcolati utilizzando i perimetri delle zone edificabili della Statistica delle zone edificabili 2032. Se sono superiori ai valori di riferimento di cui all’allegato 1, vi vengono aggiunti.
+
+#### Art. 25c
+
+**Bilancio dei cambiamenti**
+
+### (art. 1 cpv. 2 lett. b<sup>quater</sup> e 8*d* LPT)
+
+<sup>1</sup> I Cantoni gestiscono un bilancio degli edifici e delle impermeabilizzazioni da tenere in considerazione, che sono stati aggiunti o rimossi dopo la data di riferimento.
+
+<sup>2</sup> Le impermeabilizzazioni fuori delle zone edificabili, ad eccezione di quelle nella regione d’estivazione secondo la raccolta di geodati di base di cui all’articolo 5 dell’ordinanza del 7 dicembre 1998[^25c-1] sulle zone agricole, realizzate dopo la data di riferimento e che, al momento della loro realizzazione, non dovevano essere tenute in considerazione in applicazione dell’articolo 1 capoverso 2 lettera b<sup>quater</sup> o dell’articolo 8*d* capoverso 2 LPT, devono essere iscritte nel bilancio come nuove impermeabilizzazioni qualora vengano meno i motivi della mancata considerazione.
+
+<sup>3</sup> Le superfici impermeabilizzate fuori delle zone edificabili, ad eccezione di quelle nella regione d’estivazione secondo la raccolta di geodati di base di cui all’articolo 5 dell’ordinanza sulle zone agricole esistenti prima della data di riferimento, possono, in caso di ripristino, essere iscritte nel bilancio anche se alla data di riferimento erano destinate a un’utilizzazione che, in virtù dell’articolo 1 capoverso 2 lettera b<sup>quater</sup> o dell’articolo 8*d* capoverso 2 LPT, non deve essere tenuta in considerazione.
+
+[^25c-1]: [RS 912.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10437)
+
+#### Art. 25d
+
+**Verifica periodica del raggiungimento degli obiettivi di stabilizzazione**
+
+### (art. 8*d* cpv. 3 e 4 LPT)
+
+<sup>1</sup> La verifica periodica del raggiungimento degli obiettivi di stabilizzazione ha luogo almeno ogni quattro anni nell’ambito dell’informazione di cui all’articolo 9 capoverso 1.
+
+<sup>2</sup> Se il mantenimento degli obiettivi di stabilizzazione appare a rischio, il piano direttore deve essere nuovamente adeguato ai requisiti dell’articolo 8*d* LPT entro cinque anni.
+
+<sup>3</sup> Trascorso inutilizzato il termine di cui al capoverso 2, l’obbligo di compensazione ai sensi dell’articolo 25*e* capoverso 1 si applica fino a quando la Confederazione non ha approvato un adeguamento del piano direttore conforme ai requisiti legali.
+
+#### Art. 25e
+
+**Obbligo di compensazione in caso di compromissione o mancato raggiungimento degli obiettivi di stabilizzazione**
+
+### (art. 8*d* cpv. 4 e 38*b* cpv. 3 LPT)
+
+<sup>1</sup> Nei Cantoni che non adeguano il loro piano direttore entro il termine previsto in base all’articolo 38*b* capoverso 1 LPT o all’articolo 25*d* capoverso 2 della presente ordinanza, ogni nuovo edificio autorizzato fuori delle zone edificabili è compensato mediante la demolizione di un edificio esistente situato fuori delle zone edificabili fino a quando la Confederazione non ha approvato il piano direttore modificato.
+
+<sup>2</sup> Nei Cantoni in cui l’obiettivo di stabilizzazione di cui all’articolo 1 capoverso 2 lettera b<sup>ter</sup> LPT non è più raggiunto, ogni nuovo edificio autorizzato fuori delle zone edificabili è compensato mediante la demolizione di un edificio esistente situato fuori delle zone edificabili.
+
+<sup>3</sup> Nei Cantoni in cui l’obiettivo di stabilizzazione di cui all’articolo 1 capoverso 2 lettera b<sup>quater</sup> LPT non è più raggiunto, ogni nuova superficie impermeabilizzata computabile situata fuori delle zone edificabili e della regione d’estivazione deve essere compensata mediante ricoltivazione di una superficie di pari estensione fuori delle zone edificabili e della regione d’estivazione.
+
+<sup>4</sup> I Cantoni che non hanno adeguato il loro piano direttore entro il termine previsto o che non raggiungono più gli obiettivi di stabilizzazione sono elencati nell’allegato 2.
+
+<sup>5</sup> L’esecuzione dei lavori può iniziare solamente dopo che la demolizione compensativa e la relativa rinaturazione sono state realizzate o sono garantite.
+
+#### Art. 25f
+
+**Sfruttamento dei margini di manovra**
+
+<sup>1</sup> Il diritto cantonale può definire come sfruttare i margini di manovra di cui all’articolo 25*b* capoverso 1 e le demolizioni compensative di cui agli articoli 25*e*, 33*a* e 43 a favore di determinati scopi, in particolare a favore di progetti edilizi di enti pubblici e dell’agricoltura.
+
+<sup>2</sup> Qualora una demolizione debba servire alla compensazione solo in un momento successivo, le relative condizioni devono essere stabilite già al momento della decisione di demolizione.
+
+#### Art. 25g
+
+**Edifici e impermeabilizzazioni autorizzati dalla Confederazione**
+
+<sup>1</sup> Se, tramite un’approvazione dei piani della Confederazione, edifici vengono realizzati o demoliti oppure superfici vengono impermeabilizzate o de-impermeabilizzate fuori delle zone edificabili, i piani recanti la nuova situazione conforme al diritto devono essere notificati all’autorità cantonale competente.
+
+<sup>2</sup>
+
+Nei bilanci cantonali ai sensi dell’articolo 25*c*, gli edifici e le superfici impermeabilizzate realizzati dopo la data di riferimento sulla base di un’approvazione dei piani della Confederazione possono non essere presi in considerazione finché sono utilizzati conformemente alla loro destinazione, sempreché:
+
+- a. non sottostiano alla sovranità pianificatoria dei Cantoni; oppure
+- b. possano non essere presi in considerazione in applicazione dell’articolo 1 capoverso 2 lettera b<sup>quater</sup> o dell’articolo 8*d* capoverso 2 LPG.
+
+<sup>3</sup> Se la destinazione d’uso di tali edifici o superfici impermeabilizzate decade, l’autorità competente ordina un eventuale obbligo di demolizione.
+
 ## Capitolo 4: Superfici per l’avvicendamento delle colture
 
 #### Art. 26
@@ -706,15 +804,33 @@ Gli impianti per la trasformazione di elettricità generata da energie rinnovabi
 
 [^32h-1]: Introdotto dalla cifra I dell’O del 15 ott. 2025, in vigore dal 1° gen. 2026 ([RU 2025 659](https://fedlex.data.admin.ch/eli/oc/2025/659)).
 
-### Sezione 4: Piccoli insediamenti fuori delle zone edificabili
+### Sezione 4: Zone speciali non edificabili
 
 [^chap5-sec4-1]
 
-[^chap5-sec4-1]: Nuovo testo giusta la cifra I dell’O del 2 apr. 2014, in vigore dal 1° mag. 2014 ([RU 2014 909](https://fedlex.data.admin.ch/eli/oc/2014/199)).
+[^chap5-sec4-1]: Nuovo testo giusta la cifra I dell’O del 15 ott. 2025, in vigore dal 1° lug. 2026 ([RU 2025 659](https://fedlex.data.admin.ch/eli/oc/2025/659)).
 
 #### Art. 33
 
+**Piccoli insediamenti fuori delle zone edificabili[^33-1]**
+
 Zone speciali giusta l’articolo 18 LPT, quali per esempio zone di casali o degne di essere conservate, possono essere designate per la conservazione di piccoli insediamenti fuori delle zone edificabili, ove il piano direttore cantonale (art. 8 LPT) lo preveda nella rappresentazione grafica o nel testo.
+
+[^33-1]: Introdotto dalla cifra I dell’O del 15 ott. 2025, in vigore dal 1° lug. 2026 ([RU 2025 659](https://fedlex.data.admin.ch/eli/oc/2025/659)).
+
+#### Art. 33a
+
+**Zone non edificabili con utilizzazioni soggette a compensazione**[^33a-1]
+
+### (art. 18<sup>bis</sup> LPT)
+
+<sup>1</sup> Il miglioramento della situazione generale si valuta attraverso un’ampia ponderazione degli interessi considerando gli obiettivi e i principi di pianificazione del territorio e con particolare attenzione alla struttura degli insediamenti, al paesaggio, alla cultura della costruzione, alle superfici coltive e alla biodiversità.
+
+<sup>2</sup> Le superfici coltive utilizzate devono essere compensate integralmente e in modo equivalente. Il nuovo volume di edifici fuori terra deve essere compensato integralmente, salvo che vi siano ragioni oggettive che lo impediscano.
+
+<sup>3</sup> Le utilizzazioni soggette a compensazione possono essere realizzate e gestite soltanto se le necessarie compensazioni e valorizzazioni sono state effettuate o sono garantite e fintantoché sussistono.
+
+[^33a-1]: Introdotto dalla cifra I dell’O del 15 ott. 2025, in vigore dal 1° lug. 2026 ([RU 2025 659](https://fedlex.data.admin.ch/eli/oc/2025/659)).
 
 ### Sezione 5: Conformità alla zona agricola
 
@@ -995,7 +1111,7 @@ Il quesito se l’identità dell’edificio o dell’impianto rimanga sostanzial
 [^42-4]: Nuovo testo giusta la cifra I dell’O del 15 ott. 2025, in vigore dal 1° gen. 2026 ([RU 2025 659](https://fedlex.data.admin.ch/eli/oc/2025/659)).
 [^42-5]: Nuovo testo giusta la cifra I dell’O del 10 ott. 2012, in vigore dal 1° nov. 2012 ([RU 2012 5537](https://fedlex.data.admin.ch/eli/oc/2012/641)).
 [^42-6]: Nuovo testo giusta la cifra I dell’O del 15 ott. 2025, in vigore dal 1° gen. 2026 ([RU 2025 659](https://fedlex.data.admin.ch/eli/oc/2025/659)).
-[^42-7]: Introdotto dalla cifra I dell’O del 3 giu. 2022 ([RU 2022 357](https://fedlex.data.admin.ch/eli/oc/2022/357)). Nuovo testo giusta la cifra I dell’O del 15 ott. 2025, in vigore dal 1° gen. 2026 ([RU 2025 659](https://fedlex.data.admin.ch/eli/oc/2025/659)). La correzione del 20 mag. 2026 concerne soltanto il testo francese ([RU 2026 227](https://fedlex.data.admin.ch/eli/oc/2026/227)).
+[^42-7]: Introdotto dalla cifra I dell’O del 3 giu. 2022 ([RU 2022 357](https://fedlex.data.admin.ch/eli/oc/2022/357)). Nuovo testo giusta la cifra I dell’O del 15 ott. 2025, in vigore dal 1° gen. 2026 ([RU 2025 659](https://fedlex.data.admin.ch/eli/oc/2025/659)).
 
 #### Art. 42a
 
@@ -1073,8 +1189,29 @@ Cambiamenti di destinazione e ampliamenti di edifici e impianti usati a scopo co
 
 <sup>3</sup> Se la superficie utilizzata in modo non conforme alla destinazione della zona deve essere ampliata fuori del volume esistente dell’edificio per più di 100 m<sup>2</sup>, tale ampliamento può essere autorizzato soltanto se necessario al proseguimento dell’azienda.
 
+<sup>4</sup> Nel caso di strutture ricettive e della ristorazione erette in conformità al diritto anteriore la ricostruzione si basa ugualmente sui capoversi 1–3; per gli altri edifici e impianti utilizzati a scopi commerciali eretti in conformità al diritto anteriore la ricostruzione si basa sull’articolo 42.[^43-3]
+
+<sup>5</sup> Una volta smantellati, gli edifici e gli impianti legalmente destinati a un uso commerciale non vincolato all’ubicazione possono dare diritto a ulteriori ampliamenti di strutture ricettive e della ristorazione anche se ubicati in un luogo diverso all’interno dello stesso comparto territoriale.[^43-4]
+
+<sup>6</sup>
+
+L’ulteriore ampliamento di una struttura ricettiva non può comportare il superamento della quota di 120 posti letto. Per gli esercizi di sola ristorazione, il numero di posti a sedere non può superare la quota di 100. Per le strutture miste, i valori massimi possono essere utilizzati proporzionalmente. Gli ulteriori ampliamenti possono creare al massimo una superficie degli edifici e altra superficie impermeabilizzata pari a quella altrove eliminata. Sono determinanti in particolare:
+
+- a. la necessità operativa;
+- b. l’entità delle valorizzazioni previste; e
+- c. i miglioramenti conseguibili mediante ulteriori misure di compensazione.[^43-5]
+
+<sup>7</sup> Le compensazioni e le valorizzazioni necessarie devono essere effettuate o garantite prima dell’inizio dei lavori.[^43-6]
+
+<sup>8</sup> Le strutture ricettive e della ristorazione autorizzate ai sensi dei capoversi 4–6 devono essere disponibili per lo scopo autorizzato oppure, se viene meno il fabbisogno o l’interesse, devono essere smantellate.[^43-7]
+
 [^43-1]: Nuovo testo giusta la cifra I dell’O del 10 ott. 2012, in vigore dal 1° nov. 2012 ([RU 2012 5537](https://fedlex.data.admin.ch/eli/oc/2012/641)).
 [^43-2]: Abrogate dalla cifra I dell’O del 10 ott. 2012, con effetto dal 1° nov. 2012 ([RU 2012 5537](https://fedlex.data.admin.ch/eli/oc/2012/641)).
+[^43-3]: Introdotto dalla cifra I dell’O del 15 ott. 2025, in vigore dal 1° lug. 2026 ([RU 2025 659](https://fedlex.data.admin.ch/eli/oc/2025/659)).
+[^43-4]: Introdotto dalla cifra I dell’O del 15 ott. 2025, in vigore dal 1° lug. 2026 ([RU 2025 659](https://fedlex.data.admin.ch/eli/oc/2025/659)).
+[^43-5]: Introdotto dalla cifra I dell’O del 15 ott. 2025, in vigore dal 1° lug. 2026 ([RU 2025 659](https://fedlex.data.admin.ch/eli/oc/2025/659)).
+[^43-6]: Introdotto dalla cifra I dell’O del 15 ott. 2025, in vigore dal 1° lug. 2026 ([RU 2025 659](https://fedlex.data.admin.ch/eli/oc/2025/659)).
+[^43-7]: Introdotto dalla cifra I dell’O del 15 ott. 2025, in vigore dal 1° lug. 2026 ([RU 2025 659](https://fedlex.data.admin.ch/eli/oc/2025/659)).
 
 #### Art. 43a
 
@@ -1094,6 +1231,61 @@ Le autorizzazioni secondo la presente sezione possono essere rilasciate solo se:
 
 [^43a-1]: Introdotto dalla cifra I dell’O del 10 ott. 2012, in vigore dal 1° nov. 2012 ([RU 2012 5537](https://fedlex.data.admin.ch/eli/oc/2012/641)).
 [^43a-2]: Introdottto dalla cifra I dell’O del 15 ott. 2025, in vigore dal 1° gen. 2026 ([RU 2025 659](https://fedlex.data.admin.ch/eli/oc/2025/659)).
+
+### Sezione 6*a*: Polizia edilizia fuori delle zone edificabili
+
+[^chap5-sec6a-1]
+
+[^chap5-sec6a-1]: Introdotta dalla cifra I dell’O del 15 ott. 2025, in vigore dal 1° lug. 2026 ([RU 2025 659](https://fedlex.data.admin.ch/eli/oc/2025/659)).
+
+#### Art. 43b
+
+**Requisiti in materia di diritto cantonale**
+
+<sup>1</sup>
+
+La formulazione del diritto cantonale relativo all’applicazione dell’articolo 25 capoverso 3 LPT deve consentire perlomeno che:
+
+- a. i divieti di utilizzazione ordinati e le misure ordinate per la loro attuazione siano eseguiti di regola entro 30 giorni dalla notifica della decisione, a meno che si renda verosimile che l’utilizzazione è legale;
+- b. le decisioni di smantellamento per ripristinare lo stato legale siano adottate nell’ambito di un’unica procedura, affinché, dopo il passaggio in giudicato della decisione e una volta scaduto inutilizzato il termine stabilito, sia possibile ripristinare lo stato legale tramite esecuzione sostitutiva.
+
+<sup>2</sup> Nell’ambito delle procedure di autorizzazione edilizia, la legalità degli edifici e degli impianti esistenti deve essere verificata almeno sommariamente. L’autorizzazione edilizia va eventualmente collegata a decisioni di cui al capoverso 1 lettera b; deve essere garantito che le eventuali misure di ripristino dello stato legale siano attuate entro una data prestabilita.
+
+<sup>3</sup> I Cantoni conferiscono all’autorità di cui all’articolo 25 capoversi 2 e 3 LPT le competenze decisionali e le risorse necessarie per poter adempiere i compiti di cui all’articolo 25 capoverso 3 LPT.
+
+#### Art. 43c
+
+**Termine sussidiario e onere della motivazione**
+
+<sup>1</sup> Gli obblighi derivanti dalle decisioni di polizia edilizia devono essere adempiuti entro 180 giorni dopo il passaggio in giudicato, fatto salvo un eventuale termine diverso stabilito nella decisione o nel diritto cantonale. Per quanto possibile, nelle decisioni sono fissati termini significativamente più brevi.
+
+<sup>2</sup> Chi sostiene che edifici o impianti formalmente illegali possono essere autorizzati a posteriori o che il ripristino dello stato legale è eccezionalmente sproporzionato, ha l’obbligo di motivarlo. Lo stesso vale per chi sostiene che, in via eccezionale, deve essere fissato un termine più lungo per un divieto di utilizzazione ai sensi dell’articolo 43*b* capoverso 1 lettera a.
+
+### Sezione 6*b*: Contributo per i costi di demolizione (art. 5*a* LPT)
+
+[^chap5-sec6b-1]
+
+[^chap5-sec6b-1]: Introdotta dalla cifra I dell’O del 15 ott. 2025, in vigore dal 1° lug. 2026 ([RU 2025 659](https://fedlex.data.admin.ch/eli/oc/2025/659)).
+
+#### Art. 43d
+
+**Contributo federale al contributo per i costi di demolizione**
+
+<sup>1</sup> L’Assemblea federale stabilisce le risorse finanziarie destinate ai contributi federali ai contributi per i costi di demolizione attraverso un limite di spesa pluriennale.
+
+<sup>2</sup> Nel quadro dei crediti stanziati, la Confederazione concede contributi per i costi di demolizione pari al 20–30 per cento.
+
+<sup>3</sup> Se il plusvalore creato nel Cantone negli ultimi cinque anni ai sensi dell’articolo 5 capoverso 1<sup>bis</sup> LPT è pari ad almeno 75 volte la somma dei contributi per i costi di demolizione di cui all’articolo 5*a* LPT versati nell’anno in questione, il contributo della Confederazione è pari al 20 per cento di tali costi di demolizione; se il plusvalore creato è pari al massimo a 25 volte la somma dei contributi per i costi di demolizione versati, la quota ammonta al 30 per cento. Per i valori intermedi la percentuale aumenta in modo inversamente proporzionale al rapporto tra il plusvalore creato e i contributi per i costi di demolizione versati.
+
+<sup>4</sup> La Confederazione non versa contributi per demolizioni necessarie a soddisfare un obbligo di compensazione previsto dalla legge. Sono fatti salvi i casi di nuove costruzioni sostitutive per i quali il diritto federale prevede eccezionalmente il diritto a un contributo per i costi di demolizione.
+
+<sup>5</sup> I Cantoni presentano alla Confederazione entro il 31 marzo dell’anno successivo un rapporto sui contributi per i costi di demolizione versati l’anno precedente per le demolizioni effettuate. Sulla base di tale rapporto, l’ARE fissa i contributi ai Cantoni per l’anno corrispondente. Se il totale dei contributi supera le risorse stanziate nel credito a preventivo approvato, i contributi ai Cantoni sono ridotti proporzionalmente.
+
+#### Art. 43e
+
+**Contributo per i costi di demolizione di costruzioni federali**
+
+I Cantoni non sono debitori nei confronti della Confederazione di alcun contributo per i costi di demolizione.
 
 ### Sezione 7: Menzione nel registro fondiario
 
@@ -1226,11 +1418,12 @@ Durante il periodo transitorio di cui all’articolo 38*a* capoverso 2 LPT posso
 
 <sup>4</sup> La competenza per la soppressione e la proroga delle zone di pianificazione già stabilite secondo il capoverso 3 continua a spettare al governo cantonale anche dopo l’approvazione dell’adattamento del piano direttore.
 
-<sup>5</sup> Alla scadenza del termine fissato, i Cantoni designati secondo l’articolo 38*a* capoverso 5 secondo periodo LPT figureranno in un allegato alla presente ordinanza.
+<sup>5</sup> Alla scadenza del termine, i Cantoni designati secondo l’articolo 38*a* capoverso 5 secondo periodo LPT figurano nell’allegato 3.[^52a-2]
 
 <sup>6</sup> Finché il piano direttore, inclusi gli oggetti designati secondo l’articolo 32*b* lettera f, non è stato approvato dalla Confederazione, ma al massimo per cinque anni dall’entrata in vigore della presente modifica, il governo cantonale può stabilire provvisoriamente con decisione semplice l’elenco dei monumenti culturali di importanza cantonale.
 
 [^52a-1]: Introdotto dalla cifra I dell’O del 2 apr. 2014, in vigore dal 1° mag. 2014 ([RU 2014 909](https://fedlex.data.admin.ch/eli/oc/2014/199)).
+[^52a-2]: Nuovo testo giusta la cifra I dell’O del 15 ott. 2025, in vigore dal 1° lug. 2026 ([RU 2025 659](https://fedlex.data.admin.ch/eli/oc/2025/659)).
 
 #### Art. 53
 
@@ -1238,13 +1431,75 @@ Durante il periodo transitorio di cui all’articolo 38*a* capoverso 2 LPT posso
 
 La presente ordinanza entra in vigore il 1° settembre 2000.
 
-Allegato[^t-1]
+Allegato 1[^t-1]
+
+(art. 25*b* cpv. 2)
+
+## Valori di riferimento per gli obiettivi di stabilizzazione
+
+[^t-1]: Introdotto dalla cifra II cpv. 1 dell’O del 15 ott. 2025, in vigore dal 1° lug. 2026 ([RU 2025 659](https://fedlex.data.admin.ch/eli/oc/2025/659)).
+
+<table>
+<tr><th>Cantone</th><th>Valore di riferimento edificio (in numero di edifici)</th><th>Valore di riferimento impermeabilizzazione (in ettari)</th></tr>
+<tr><td>Zurigo</td><td>40 807</td><td>2594</td></tr>
+<tr><td>Berna</td><td>129 342</td><td>5304</td></tr>
+<tr><td>Lucerna</td><td>40 645</td><td>1733</td></tr>
+<tr><td>Uri</td><td>9939</td><td>250</td></tr>
+<tr><td>Svitto</td><td>17 884</td><td>699</td></tr>
+<tr><td>Obvaldo</td><td>8940</td><td>265</td></tr>
+<tr><td>Nidvaldo</td><td>4777</td><td>211</td></tr>
+<tr><td>Glarona</td><td>7283</td><td>186</td></tr>
+<tr><td>Zugo</td><td>6436</td><td>323</td></tr>
+<tr><td>Friburgo</td><td>32 856</td><td>1924</td></tr>
+<tr><td>Soletta</td><td>11 307</td><td>840</td></tr>
+<tr><td>Basilea Città</td><td>539</td><td>109</td></tr>
+<tr><td>Basilea Campagna</td><td>9558</td><td>494</td></tr>
+<tr><td>Sciaffusa</td><td>3687</td><td>224</td></tr>
+<tr><td>Appenzello Esterno</td><td>10 931</td><td>247</td></tr>
+<tr><td>Appenzello Interno</td><td>4843</td><td>132</td></tr>
+<tr><td>San Gallo</td><td>53 443</td><td>1784</td></tr>
+<tr><td>Grigioni</td><td>50 427</td><td>1507</td></tr>
+<tr><td>Argovia</td><td>30 233</td><td>1676</td></tr>
+<tr><td>Turgovia</td><td>16 193</td><td>927</td></tr>
+<tr><td>Ticino</td><td>55 369</td><td>1690</td></tr>
+<tr><td>Vaud</td><td>36 654</td><td>3188</td></tr>
+<tr><td>Vallese</td><td>48 881</td><td>2111</td></tr>
+<tr><td>Neuchâtel</td><td>11 676</td><td>621</td></tr>
+<tr><td>Ginevra</td><td>8717</td><td>586</td></tr>
+<tr><td>Giura</td><td>8787</td><td>663</td></tr>
+</table>
+
+Allegato 2[^t-2]
+
+(art. 25*e* cpv. 4)
+
+## Cantoni che non hanno adeguato il loro piano direttore entro il termine previsto o che non raggiungono più gli obiettivi di stabilizzazione
+
+[^t-2]: Introdotto dalla cifra II cpv. 1 dell’O del 15 ott. 2025, in vigore dal 1° lug. 2026 ([RU 2025 659](https://fedlex.data.admin.ch/eli/oc/2025/659)).
+
+Nei seguenti Cantoni, ogni nuovo edificio autorizzato fuori delle zone edificabili deve essere compensato ai sensi dell’articolo 38*b* capoverso 3 LPT e dell’articolo 25*e* capoverso 1 della presente ordinanza:
+
+(privo di contenuto)
+
+Nei seguenti Cantoni, ogni nuovo edificio autorizzato fuori delle zone edificabili deve essere compensato ai sensi degli articoli 25*d* capoverso 3 e 25*e* capoverso 1:
+
+(privo di contenuto)
+
+Nei seguenti Cantoni, ogni nuovo edificio autorizzato fuori delle zone edificabili deve essere compensato ai sensi dell’articolo 25*e* capoverso 2:
+
+(privo di contenuto)
+
+Nei seguenti Cantoni, ogni nuova superficie impermeabilizzata computabile situata fuori delle zone edificabili e della regione d’estivazione deve essere compensata ai sensi dell’articolo 25*e* capoverso 3:
+
+(privo di contenuto)
+
+Allegato 3[^t-3]
 
 (art. 52*a* cpv. 5)
 
 ## Delimitazione di nuove zone edificabili inammissibile a causa della mancanza di una regolamentazione conforme al diritto federale in merito alla compensazione di vantaggi derivanti da pianificazioni
 
-[^t-1]: Introdotto dalla cifra I dell’O del 10 apr. 2019 ([RU 2019 1309](https://fedlex.data.admin.ch/eli/oc/2019/252)). Aggiornato dalla cifra I delle O del 13 nov. 2019 ([RU 2019 3565](https://fedlex.data.admin.ch/eli/oc/2019/654)), del 29 gen. 2020 ([RU 2020 405](https://fedlex.data.admin.ch/eli/oc/2020/67)), del 29 apr. 2020 ([RU 2020 1651](https://fedlex.data.admin.ch/eli/oc/2020/333)) e dell’11 dic. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6119](https://fedlex.data.admin.ch/eli/oc/2020/1010)).
+[^t-3]: Originario all. Introdotto dalla cifra I dell’O del 10 apr. 2019 ([RU 2019 1309](https://fedlex.data.admin.ch/eli/oc/2019/252)). Aggiornato dal n. I delle O del 13 nov. 2019 ([RU 2019 3565](https://fedlex.data.admin.ch/eli/oc/2019/654)), del 29 gen. 2020 ([RU 2020 405](https://fedlex.data.admin.ch/eli/oc/2020/67)), del 29 apr. 2020 ([RU 2020 1651](https://fedlex.data.admin.ch/eli/oc/2020/333)) e dell’11 dic. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6119](https://fedlex.data.admin.ch/eli/oc/2020/1010)).
 
 In virtù dell’articolo 38*a* capoverso 5 LPT e dell’articolo 52*a* capoverso 5 della presente ordinanza, nei seguenti Cantoni la delimitazione di nuove zone edificabili non è ammessa:
 

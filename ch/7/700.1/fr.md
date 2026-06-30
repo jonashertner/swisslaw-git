@@ -4,11 +4,11 @@ title: "Ordonnance du 28 juin 2000 sur l'aménagement du territoire (OAT)"
 short: OAT
 eli: "https://fedlex.data.admin.ch/eli/cc/2000/310"
 language: fr
-version: 2026-05-20
+version: 2026-07-01
 adopted: 2000-06-28
 in_force: 2000-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/310/20260520/fr/xml/fedlex-data-admin-ch-eli-cc-2000-310-20260520-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2000/310/20260520/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/310/20260701/fr/xml/fedlex-data-admin-ch-eli-cc-2000-310-20260701-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2000/310/20260701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2000/310/20260520/fr"
 
 (OAT)
 
-du 28 juin 2000 (État le 20 mai 2026)
+du 28 juin 2000 (État le 1<sup>er</sup> juillet 2026)
 
 Le Conseil fédéral suisse,
 
@@ -388,6 +388,104 @@ La Confédération établit périodiquement à l’intention des cantons une vue
 
 <sup>2</sup> Si un plan directeur doit être adapté, l’ARE coordonne les procédures entre la Confédération et le canton.
 
+## Chapitre 3*a* Objectifs de stabilisation hors de la zone à bâtir
+
+[^chap3a-1]
+
+[^chap3a-1]: Introduit par le ch. I de l’O du 15 oct. 2025, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2025 659](https://fedlex.data.admin.ch/eli/oc/2025/659)).
+
+#### Art. 25a
+
+**Précision des objectifs de stabilisation**
+
+### (art. 1, al. 2, let. b<sup>ter</sup> et b<sup>quater</sup>, et 8*d,* al. 2 LAT)
+
+<sup>1</sup> L’objectif de stabilisation prévu à l’art. 1, al. 2, let. b<sup>ter</sup>, LAT vaut pour les bâtiments au sens de l’art. 2, let. b, de l’ordonnance du 9 juin 2017 sur le Registre fédéral des bâtiments et des logements[^25a-1]. Il ne s’applique pas aux bâtiments d’une surface inférieure à 6 m<sup>2</sup>.
+
+<sup>2</sup> L’objectif de stabilisation prévu à l’art. 1, al. 2, let. b<sup>quater</sup>, LAT vaut pour les imperméabilisations du sol hors de la zone à bâtir, à l’exception de celles situées dans la région d’estivage selon le jeu de géodonnées de base visé à l’art. 5 de l’ordonnance du 7 décembre 1998 sur les zones agricoles[^25a-2].
+
+<sup>3</sup> Un sol est considéré comme imperméabilisé lorsqu’il s’agit d’une surface de bâtiment ou d’une surface au sol pourvue d’un revêtement imperméable tel que le béton ou l’asphalte.
+
+[^25a-1]: [RS 431.841](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7029)
+[^25a-2]: [RS 912.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10437)
+
+#### Art. 25b
+
+**Réalisation des objectifs de stabilisation**
+
+### (art. 1, 8*d* et 24*f* LAT)
+
+<sup>1</sup> Les objectifs de stabilisation sont atteints lorsque le nombre de bâtiments à prendre en compte, respectivement la surface imperméabilisée à prendre en compte dans le canton en question, ne dépasse pas de plus de 2 % la valeur de référence correspondante.
+
+<sup>2</sup> Les valeurs de référence sont fixées dans l’annexe 1.
+
+<sup>3</sup> Elles seront recalculées à l’aide des périmètres de la zone à bâtir de la statistique de la zone à bâtir 2032. Si elles sont supérieures aux valeurs de référence selon l’annexe 1, elles y seront ajoutées.
+
+#### Art. 25c
+
+**Bilan des modifications**
+
+### (art. 1, al. 2, let. b<sup>quater</sup>, et 8*d* LAT)
+
+<sup>1</sup> Les cantons dressent un bilan des bâtiments et des surfaces imperméabilisées à prendre en compte qui ont été ajoutés ou supprimés depuis la date de référence.
+
+<sup>2</sup> Les imperméabilisations situées hors de la zone à bâtir, à l’exception de celles situées dans la région d’estivage selon le jeu de géodonnées de base visé à l’art. 5 de l’ordonnance du 7 décembre 1998 sur les zones agricoles[^25c-1], qui ont été réalisées après la date de référence et qui n’ont pas dû être prises en compte lors de leur réalisation en application de l’art. 1, al. 2, let. b<sup>quater</sup> ou de l’art. 8*d*, al. 2, LAT, doivent être inscrites dans le bilan en tant que nouvelles imperméabilisations si les raisons pour lesquelles elles n’ont pas été prises en compte ont disparu.
+
+<sup>3</sup> Les surfaces imperméabilisées situées hors de la zone à bâtir, à l’exception de celles situées dans la région d’estivage selon le jeu de géodonnées de base visé à l’art. 5 de l’ordonnance sur les zones agricoles, qui existaient déjà à la date de référence, peuvent être créditées dans le bilan en cas de déconstruction, même si elles servaient, à la date de référence, à une utilisation qui ne doit pas être prise en compte selon l’art. 1, al. 2, let. b<sup>quater</sup>, ou l’art. 8*d*, al 2, LAT.
+
+[^25c-1]: [RS 912.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10437)
+
+#### Art. 25d
+
+**Examen périodique de la réalisation des objectifs de stabilisation**
+
+### (art. 8*d*, al. 3 et 4, LAT)
+
+<sup>1</sup> L’examen périodique de la réalisation des objectifs de stabilisation a lieu au moins tous les quatre ans dans le cadre du rapport visé à l’art. 9, al. 1.
+
+<sup>2</sup> Si le respect des objectifs de stabilisation semble compromis, le plan directeur doit à nouveau être adapté aux exigences de l’art. 8*d* LAT dans un délai de cinq ans.
+
+<sup>3</sup> Une fois le délai prévu à l’al. 2 écoulé sans avoir été utilisé, l’obligation de compensation au sens de l’art. 25*e*, al. 1, s’applique, jusqu’à ce que la Confédération ait approuvé une adaptation du plan directeur répondant aux exigences légales.
+
+#### Art. 25e
+
+**Obligation de compensation si les objectifs de stabilisation sont compromis ou ne sont pas atteints**
+
+### (art. 8*d*, al. 4, et 38*b*, al. 3, LAT)
+
+<sup>1</sup> Dans les cantons qui n’adaptent pas leur plan directeur dans le délai prévu à l’art. 38*b*, al. 1, LAT ou à l’art. 25*d*, al. 2, de la présente ordonnance, tout nouveau bâtiment autorisé hors de la zone à bâtir doit être compensé par la démolition d’un bâtiment existant hors de la zone à bâtir jusqu’à l’approbation par la Confédération de la modification correspondante du plan directeur.
+
+<sup>2</sup> Dans les cantons dans lesquels l’objectif de stabilisation au sens de l’art. 1, al. 2, let. b<sup>ter</sup>, LAT n’est plus respecté, tout nouveau bâtiment autorisé hors de la zone à bâtir doit être compensé par la démolition d’un bâtiment existant hors de la zone à bâtir.
+
+<sup>3</sup> Dans les cantons dans lesquels l’objectif de stabilisation au sens de l’art. 1, al. 2, let. b<sup>quater</sup>, LAT n’est plus respecté, toute nouvelle surface imperméabilisée devant être prise en compte hors de la zone à bâtir et de la région d’estivage doit être compensée par la remise en culture d’une surface de même taille hors de la zone à bâtir et de la région d’estivage.
+
+<sup>4</sup> Les cantons qui n’ont pas adapté leur plan directeur dans les délais ou qui ne respectent plus les objectifs de stabilisation seront mentionnés dans l’annexe 2.
+
+<sup>5</sup> La construction ne peut commencer que lorsque la démolition compensatoire et la remise en culture correspondantes ont été réalisées ou sont garanties.
+
+#### Art. 25f
+
+**Utilisation des marges disponibles**
+
+<sup>1</sup> Le droit cantonal peut régler le mode d’utilisation des marges prévues à l’art. 25*b,* al. 1, et des démolitions compensatoires prévues aux articles 25*e*, 33*a* et 43, en faveur de certaines affectations spécifiques, en particulier en faveur de projets de construction des pouvoirs publics et de l’agriculture.
+
+<sup>2</sup> Si une démolition ne doit servir à une compensation qu’ultérieurement, les conditions correspondantes doivent être fixées dès la décision de démolition.
+
+#### Art. 25g
+
+**Bâtiments et imperméabilisations autorisés par la Confédération**
+
+<sup>1</sup> Lorsque, sur la base d’un plan approuvé par la Confédération, des bâtiments sont construits ou démolis ou des surfaces sont imperméabilisées ou désimperméabilisées hors de la zone à bâtir, les plans qui reflètent la nouvelle situation juridique sont annoncés à l’autorité cantonale compétente.
+
+<sup>2</sup>
+
+Dans les bilans cantonaux visés à l’art. 25*c*, les bâtiments et les surfaces imperméabilisées qui ont été réalisés depuis la date de référence sur la base d’un plan approuvé par la Confédération peuvent être ignorés tant qu’ils sont utilisés conformément à leur affectation, pour autant:
+
+- a. qu’ils ne relèvent pas de la compétence de planification des cantons, ou
+- b. qu’ils peuvent ne pas être pris en compte en application de l’art. 1, al. 2, let. b<sup>quater</sup>, ou de l’art. 8*d,* al. 2, LAT.
+
+<sup>3</sup> Lorsque la destination de tels bâtiments ou surfaces imperméabilisées est caduque, l’autorité compétente impose une éventuelle obligation de suppression.
+
 ## Chapitre 4 Surfaces d’assolement
 
 #### Art. 26
@@ -506,11 +604,9 @@ Des surfaces d’assolement ne peuvent être classées en zone à bâtir que:
 
 <sup>1</sup> Les infrastructures doivent être regroupées ou réunies dans la mesure du possible et de manière appropriée et installées sur des sites aussi peu sensibles que possible. Les terres cultivables doivent être préservées.
 
+<sup>2</sup> Si le sol doit être utilisé pour des infrastructures, il faut examiner avec quelles autres utilisations cette occupation pourrait être liée.
+
 [^32bis-1]: Introduit par le ch. I de l’O du 15 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 659](https://fedlex.data.admin.ch/eli/oc/2025/659)).
-
-#### <sup>2</sup>
-
-**Si le sol doit être utilisé pour des infrastructures, il faut examiner avec quelles autres utilisations cette occupation pourrait être liée.**
 
 #### Art. 32a
 
@@ -518,16 +614,16 @@ Des surfaces d’assolement ne peuvent être classées en zone à bâtir que:
 
 ### (art. 18*a* LAT)
 
-[^32abis-1]
+[^32a-1]
 
 <sup>1</sup>
 
-Les installations solaires placées sur un toit sont considérées suffisamment adaptées (art. 18*a*, al. 1, LAT) si les conditions suivantes sont réunies:[^32abis-2]
+Les installations solaires placées sur un toit sont considérées suffisamment adaptées (art. 18*a*, al. 1, LAT) si les conditions suivantes sont réunies:[^32a-2]
 
 - a. elles ne dépassent pas les pans du toit perpendiculairement de plus de 20 cm;
-- b.[^32abis-3] elles ne dépassent pas du toit, vu du dessus;
+- b.[^32a-3] elles ne dépassent pas du toit, vu du dessus;
 - c. elles sont peu réfléchissantes selon l’état des connaissances techniques;
-- d.[^32abis-4] elles forment un ensemble groupé; des exceptions pour raisons techniques ou une disposition décalée en raison de la surface disponible sont admissibles.
+- d.[^32a-4] elles forment un ensemble groupé; des exceptions pour raisons techniques ou une disposition décalée en raison de la surface disponible sont admissibles.
 
 <sup>1bis</sup>
 
@@ -535,21 +631,21 @@ Sur un toit plat, elles sont aussi considérées suffisamment adaptées si, au l
 
 - a. elles ne dépassent pas de l’arête supérieure du toit de plus de 1 m;
 - b. elles sont placées suffisamment loin du bord du toit pour ne pas être visibles d’en bas avec un angle de vue de 45 degrés;
-- c. elles sont peu réfléchissantes selon l’état actuel des connaissances techniques.[^32abis-5]
+- c. elles sont peu réfléchissantes selon l’état actuel des connaissances techniques.[^32a-5]
 
 <sup>2</sup> Les dispositions concrètes fondées sur le droit cantonal traitant de l’intégration desdites installations s’appliquent lorsqu’elles visent de manière proportionnée la défense d’intérêts de protection justifiés et ne limitent pas l’exploitation de l’énergie solaire plus strictement que l’al. 1.
 
 <sup>3</sup> Les projets dispensés d’autorisation doivent être annoncés avant le début des travaux à l’autorité délivrant les autorisations de construire ou à une autre autorité déclarée compétente pour recevoir les annonces par la législation cantonale. La législation cantonale fixe le délai dans lequel l’annonce doit être faite et précise quels plans et autres documents doivent y être joints.
 
-[^32abis-1]: Nouvelle teneur selon le ch. I de l’O du 15 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 659](https://fedlex.data.admin.ch/eli/oc/2025/659)).
-[^32abis-2]: Nouvelle teneur selon le ch. I de l’O du 3 juin 2022, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 357](https://fedlex.data.admin.ch/eli/oc/2022/357)).
-[^32abis-3]: Nouvelle teneur selon le ch. I de l’O du 3 juin 2022, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 357](https://fedlex.data.admin.ch/eli/oc/2022/357)).
-[^32abis-4]: Nouvelle teneur selon le ch. I de l’O du 3 juin 2022, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 357](https://fedlex.data.admin.ch/eli/oc/2022/357)).
-[^32abis-5]: Introduit par le ch. I de l’O du 3 juin 2022, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 357](https://fedlex.data.admin.ch/eli/oc/2022/357)).
+[^32a-1]: Nouvelle teneur selon le ch. I de l’O du 15 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 659](https://fedlex.data.admin.ch/eli/oc/2025/659)).
+[^32a-2]: Nouvelle teneur selon le ch. I de l’O du 3 juin 2022, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 357](https://fedlex.data.admin.ch/eli/oc/2022/357)).
+[^32a-3]: Nouvelle teneur selon le ch. I de l’O du 3 juin 2022, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 357](https://fedlex.data.admin.ch/eli/oc/2022/357)).
+[^32a-4]: Nouvelle teneur selon le ch. I de l’O du 3 juin 2022, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 357](https://fedlex.data.admin.ch/eli/oc/2022/357)).
+[^32a-5]: Introduit par le ch. I de l’O du 3 juin 2022, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 357](https://fedlex.data.admin.ch/eli/oc/2022/357)).
 
 #### Art. 32a<sup>bis</sup>
 
-**Installations solaires en façades dispensées d’autorisation**[^32b-1]
+**Installations solaires en façades dispensées d’autorisation**[^32abis-1]
 
 ### (art. 18*a* LAT)
 
@@ -578,7 +674,7 @@ Sauf disposition contraire du droit cantonal, elles doivent en sus remplir les c
 
 <sup>4</sup> La procédure d’annonce se déroule conformément à l’art. 32*a*, al. 3.
 
-[^32b-1]: Introduit par le ch. I de l’O du 15 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 659](https://fedlex.data.admin.ch/eli/oc/2025/659)).
+[^32abis-1]: Introduit par le ch. I de l’O du 15 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 659](https://fedlex.data.admin.ch/eli/oc/2025/659)).
 
 #### Art. 32b
 
@@ -586,42 +682,42 @@ Sauf disposition contraire du droit cantonal, elles doivent en sus remplir les c
 
 Sont considérés comme des biens culturels d’importance cantonale ou nationale (art. 18*a*, al. 3, LAT):
 
-- a.[^32c-1] les biens culturels au sens de l’art. 1, let. a et b, de l’ordonnance du 29 octobre 2014 sur la protection des biens culturels en cas de conflit armé, de catastrophe ou de situation d’urgence[^32c-2];
-- b. les périmètres, ensembles et éléments individuels figurant à l’Inventaire fédéral des sites construits d’importance nationale à protéger en Suisse et assortis d’un objectif de sauvegarde A[^32c-3];
-- c. les biens culturels d’importance nationale ou régionale répertoriés dans un autre inventaire adopté par la Confédération sur la base de la loi fédérale du 1<sup>er</sup> juillet 1966 sur la protection de la nature et du paysage (LPN)[^32c-4];
+- a.[^32b-1] les biens culturels au sens de l’art. 1, let. a et b, de l’ordonnance du 29 octobre 2014 sur la protection des biens culturels en cas de conflit armé, de catastrophe ou de situation d’urgence[^32b-2];
+- b. les périmètres, ensembles et éléments individuels figurant à l’Inventaire fédéral des sites construits d’importance nationale à protéger en Suisse et assortis d’un objectif de sauvegarde A[^32b-3];
+- c. les biens culturels d’importance nationale ou régionale répertoriés dans un autre inventaire adopté par la Confédération sur la base de la loi fédérale du 1<sup>er</sup> juillet 1966 sur la protection de la nature et du paysage (LPN)[^32b-4];
 - d. les biens culturels d’importance nationale ou régionale auxquels des contributions fédérales au sens de l’art. 13 LPN ont été accordées;
 - e. les constructions et installations entrant dans le champ d’application de l’art. 24*d*, al. 2, LAT ou de l’art. 39, al. 2, de la présente ordonnance en raison de la protection dont elles bénéficient;
 - f. les objets qui, dans le plan directeur approuvé par la Confédération, sont désignés comme étant des biens culturels d’importance cantonale au sens de l’art. 18*a*, al. 3, LAT.
 
-[^32c-1]: Nouvelle teneur selon l’annexe ch. II 3 de l’O du 29 oct. 2014 sur la protection des biens culturels en cas de conflit armé, de catastrophe ou de situation d’urgence, en vigueur depuis le 1<sup>er</sup> janvier 2015 ([RO 2014 3555](https://fedlex.data.admin.ch/eli/oc/2014/616)).
-[^32c-2]: [RS 520.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7609)
-[^32c-3]: La carte des objets peut être consultée gratuitement sur le site de l’organe de coordination de la géoinformation au niveau fédéral à l’adresse suivante: map.geo.admin.ch &gt; Géocatalogue &gt; Population et économie &gt; Société, culture &gt; Inventaire fédéral ISOS.
-[^32c-4]: [RS 451](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7166)
+[^32b-1]: Nouvelle teneur selon l’annexe ch. II 3 de l’O du 29 oct. 2014 sur la protection des biens culturels en cas de conflit armé, de catastrophe ou de situation d’urgence, en vigueur depuis le 1<sup>er</sup> janvier 2015 ([RO 2014 3555](https://fedlex.data.admin.ch/eli/oc/2014/616)).
+[^32b-2]: [RS 520.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7609)
+[^32b-3]: La carte des objets peut être consultée gratuitement sur le site de l’organe de coordination de la géoinformation au niveau fédéral à l’adresse suivante: map.geo.admin.ch &gt; Géocatalogue &gt; Population et économie &gt; Société, culture &gt; Inventaire fédéral ISOS.
+[^32b-4]: [RS 451](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7166)
 
 #### Art. 32c
 
-**Installations solaires liées à des constructions ou des installations hors de la zone à bâtir**[^32d-1]
+**Installations solaires liées à des constructions ou des installations hors de la zone à bâtir**[^32c-1]
 
 ### (art. 24 LAT)
 
-[^32d-2]
+[^32c-2]
 
-<sup>1</sup> Les installations solaires liées à des constructions ou des installations situées hors de la zone à bâtir et raccordées au réseau électrique peuvent notamment être autorisées comme étant imposées par leur destination lorsqu’elles forment une unité visuelle avec des constructions ou des installations qui existent légalement et dont l’existence à long terme est vraisemblable.[^32d-3]
+<sup>1</sup> Les installations solaires liées à des constructions ou des installations situées hors de la zone à bâtir et raccordées au réseau électrique peuvent notamment être autorisées comme étant imposées par leur destination lorsqu’elles forment une unité visuelle avec des constructions ou des installations qui existent légalement et dont l’existence à long terme est vraisemblable.[^32c-3]
 
-<sup>2</sup> Si l’installation solaire requiert une planification, le projet doit se fonder sur une base correspondante.[^32d-4]
+<sup>2</sup> Si l’installation solaire requiert une planification, le projet doit se fonder sur une base correspondante.[^32c-4]
 
 <sup>3</sup> Une pesée des intérêts complète est effectuée dans tous les cas.
 
 <sup>4</sup> Les installations et les parties d’installation qui ne satisfont plus aux conditions d’autorisation sont démontées.
 
-[^32d-1]: Introduit par le ch. I de l’O du 3 juin 2022, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 357](https://fedlex.data.admin.ch/eli/oc/2022/357)).
-[^32d-2]: Nouvelle teneur selon le ch. I de l’O du 15 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 659](https://fedlex.data.admin.ch/eli/oc/2025/659)).
-[^32d-3]: Nouvelle teneur selon le ch. I de l’O du 15 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 659](https://fedlex.data.admin.ch/eli/oc/2025/659)).
-[^32d-4]: Nouvelle teneur selon le ch. I de l’O du 15 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 659](https://fedlex.data.admin.ch/eli/oc/2025/659)).
+[^32c-1]: Introduit par le ch. I de l’O du 3 juin 2022, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 357](https://fedlex.data.admin.ch/eli/oc/2022/357)).
+[^32c-2]: Nouvelle teneur selon le ch. I de l’O du 15 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 659](https://fedlex.data.admin.ch/eli/oc/2025/659)).
+[^32c-3]: Nouvelle teneur selon le ch. I de l’O du 15 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 659](https://fedlex.data.admin.ch/eli/oc/2025/659)).
+[^32c-4]: Nouvelle teneur selon le ch. I de l’O du 15 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 659](https://fedlex.data.admin.ch/eli/oc/2025/659)).
 
 #### Art. 32d
 
-**Installations solaires indépendantes hors de la zone à bâtir qui ne revêtent pas un intérêt national**[^32e-1]
+**Installations solaires indépendantes hors de la zone à bâtir qui ne revêtent pas un intérêt national**[^32d-1]
 
 ### (art. 24<sup>ter</sup> LAT)
 
@@ -633,11 +729,11 @@ Sont considérés comme des biens culturels d’importance cantonale ou national
 
 <sup>4</sup> Le droit cantonal règle les compétences et la procédure pour l’exécution par substitution pour ce qui concerne l’obligation de démantèlement au sens de l’art. 24<sup>ter</sup>, al. 3, LAT.
 
-[^32e-1]: Introduit par le ch. I de l’O du 15 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 659](https://fedlex.data.admin.ch/eli/oc/2025/659)).
+[^32d-1]: Introduit par le ch. I de l’O du 15 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 659](https://fedlex.data.admin.ch/eli/oc/2025/659)).
 
 #### Art. 32e
 
-**Installations destinées à l’utilisation de l’énergie issue de la biomasse**[^32f-1]
+**Installations destinées à l’utilisation de l’énergie issue de la biomasse**[^32e-1]
 
 ### (art. 24<sup>quater</sup> LAT)
 
@@ -660,11 +756,11 @@ Le stockage temporaire de matières premières ou de produits finis hors de la z
 
 <sup>4</sup> Une pesée des intérêts complète est effectuée dans tous les cas.
 
-[^32f-1]: Introduit par le ch. I de l’O du 15 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 659](https://fedlex.data.admin.ch/eli/oc/2025/659)).
+[^32e-1]: Introduit par le ch. I de l’O du 15 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 659](https://fedlex.data.admin.ch/eli/oc/2025/659)).
 
 #### Art. 32f
 
-**Installations destinées à transformer de l’énergie renouvelable en hydrogène, en méthane ou en d’autres hydrocarbures synthétiques**[^32g-1]
+**Installations destinées à transformer de l’énergie renouvelable en hydrogène, en méthane ou en d’autres hydrocarbures synthétiques**[^32f-1]
 
 ### (art. 24<sup>quater</sup> LAT)
 
@@ -680,11 +776,11 @@ Les installations de transformation d’énergies renouvelables à base d’hydr
 
 <sup>3</sup> Une pesée des intérêts complète est effectuée dans tous les cas.
 
-[^32g-1]: Introduit par le ch. I de l’O du 15 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 659](https://fedlex.data.admin.ch/eli/oc/2025/659)).
+[^32f-1]: Introduit par le ch. I de l’O du 15 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 659](https://fedlex.data.admin.ch/eli/oc/2025/659)).
 
 #### Art. 32g
 
-**Conduites de réseaux thermiques**[^32h-1]
+**Conduites de réseaux thermiques**[^32g-1]
 
 ### (art. 24<sup>quinquies</sup> LAT)
 
@@ -692,11 +788,11 @@ Les installations de transformation d’énergies renouvelables à base d’hydr
 
 <sup>2</sup> Une pesée des intérêts complète est effectuée dans tous les cas.
 
-[^32h-1]: Introduit par le ch. I de l’O du 15 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 659](https://fedlex.data.admin.ch/eli/oc/2025/659)).
+[^32g-1]: Introduit par le ch. I de l’O du 15 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 659](https://fedlex.data.admin.ch/eli/oc/2025/659)).
 
 #### Art. 32h
 
-**Installations de télécommunication mobile**[^32h-2]
+**Installations de télécommunication mobile**[^32h-1]
 
 ### (art. 24<sup>bis</sup>, al. 1, 2<sup>e</sup> phrase, LAT)
 
@@ -704,17 +800,35 @@ Les installations de transformation d’énergies renouvelables à base d’hydr
 
 <sup>2</sup> Une pesée des intérêts complète est effectuée dans tous les cas.
 
-[^32h-2]: Introduit par le ch. I de l’O du 15 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 659](https://fedlex.data.admin.ch/eli/oc/2025/659)).
+[^32h-1]: Introduit par le ch. I de l’O du 15 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 659](https://fedlex.data.admin.ch/eli/oc/2025/659)).
 
-### Section 4 Petites entités urbanisées hors de la zone à bâtir
+### Section 4 Zones spéciales non constructibles
 
 [^chap5-sec4-1]
 
-[^chap5-sec4-1]: Nouvelle teneur selon le ch. I de l’O du 2 avr. 2014, en vigueur depuis le 1<sup>er</sup> mai 2014 ([RO 2014 909](https://fedlex.data.admin.ch/eli/oc/2014/199)).
+[^chap5-sec4-1]: Nouvelle teneur selon le ch. I de l’O du 15 oct. 2025, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2025 659](https://fedlex.data.admin.ch/eli/oc/2025/659)).
 
 #### Art. 33
 
+**Petites entités urbanisées hors de la zone à bâtir[^33-1]**
+
 Pour assurer le maintien de petites entités urbanisées sises hors de la zone à bâtir, des zones spéciales au sens de l’art. 18 LAT, telles que les zones de hameaux ou les zones de maintien de l’habitat rural, peuvent être délimitées si la carte ou le texte du plan directeur cantonal (art. 8 LAT) le prévoit.
+
+[^33-1]: Introduit par le ch. I de l’O du 15 oct. 2025, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2025 659](https://fedlex.data.admin.ch/eli/oc/2025/659)).
+
+#### Art. 33a
+
+**Zones non constructibles incluant des utilisations soumises à compensation**[^33a-1]
+
+### (art. 18<sup>bis</sup> LAT)
+
+<sup>1</sup> L’amélioration de la situation générale s’évalue à l’aide d’une pesée des intérêts complète au regard des buts et des principes de l’aménagement du territoire et en tenant compte en particulier de la structure du milieu bâti, de la culture du bâti, du paysage, des terres cultivables et de la biodiversité.
+
+<sup>2</sup> Les terres cultivables utilisées doivent être compensées intégralement et de manière équivalente. Les nouveaux volumes bâtis hors sol doivent être compensés intégralement, à moins que des motifs objectifs ne s’y opposent.
+
+<sup>3</sup> Les utilisations soumises à compensation ne peuvent être réalisées et exercées que si les compensations et les améliorations nécessaires ont été effectuées ou garanties et aussi longtemps qu’elles existent.
+
+[^33a-1]: Introduit par le ch. I de l’O du 15 oct. 2025, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2025 659](https://fedlex.data.admin.ch/eli/oc/2025/659)).
 
 ### Section 5 Conformité à l’affectation de la zone agricole
 
@@ -1073,8 +1187,29 @@ Les changements d’affectation et les agrandissements de constructions et insta
 
 <sup>3</sup> Si l’agrandissement de la surface utilisée pour un usage non conforme à l’affectation de la zone en dehors du volume bâti existant excède 100 m<sup>2</sup>, il ne pourra être autorisé que s’il est indispensable au maintien de l’entreprise.
 
+<sup>4</sup> La reconstruction pour les établissements de restauration et d’hébergement créés selon l’ancien droit est régie par les al. 1 à 3, et, pour les autres constructions et installations à usage commercial érigées selon l’ancien droit, par l’art. 42.[^43-3]
+
+<sup>5</sup> Les constructions et les installations qui sont supprimées ailleurs dans le même compartiment de terrain et qui étaient légalement destinées à un usage commercial qui n’était pas imposé par sa destination peuvent donner droit à des agrandissements supplémentaires d’établissements de restauration et d’hébergement.[^43-4]
+
+<sup>6</sup>
+
+L’agrandissement supplémentaire d’un établissement d’hébergement ne doit pas entraîner un nombre de lits supérieur à 120. Dans les établissements exclusivement dédiés à la restauration, le nombre de places assises ne doit pas dépasser 100. Dans les établissements mixtes, les valeurs maximales peuvent être utilisées proportionnellement. Avec les agrandissements supplémentaires, il est possible de créer au maximum autant de surface de bâtiment et d’autre surface imperméabilisée qu’il en est supprimé ailleurs. Sont notamment déterminants:
+
+- a. la nécessité pour l’exploitation;
+- b. l’ampleur des améliorations prévues, et
+- c. les améliorations qui peuvent être obtenues par des mesures compensatoires.[^43-5]
+
+<sup>7</sup> Les compensations et les améliorations nécessaires doivent être effectuées ou garanties avant le début des travaux.[^43-6]
+
+<sup>8</sup> Les établissements de restauration et d’hébergement autorisés en vertu des al. 4 à 6 doivent continuer d’être destinés à l’usage autorisé ou, dès que le besoin ou l’intérêt disparaît, être démolis.[^43-7]
+
 [^43-1]: Nouvelle teneur selon le ch. I de l’O du 10 oct. 2012, en vigueur depuis le 1<sup>er</sup> nov. 2012 ([RO 2012 5537](https://fedlex.data.admin.ch/eli/oc/2012/641)).
 [^43-2]: Abrogées par le ch. I de l’O du 10 oct. 2012, avec effet au 1<sup>er</sup> nov. 2012 ([RO 2012 5537](https://fedlex.data.admin.ch/eli/oc/2012/641)).
+[^43-3]: Introduit par le ch. I de l’O du 15 oct. 2025, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2025 659](https://fedlex.data.admin.ch/eli/oc/2025/659)).
+[^43-4]: Introduit par le ch. I de l’O du 15 oct. 2025, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2025 659](https://fedlex.data.admin.ch/eli/oc/2025/659)).
+[^43-5]: Introduit par le ch. I de l’O du 15 oct. 2025, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2025 659](https://fedlex.data.admin.ch/eli/oc/2025/659)).
+[^43-6]: Introduit par le ch. I de l’O du 15 oct. 2025, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2025 659](https://fedlex.data.admin.ch/eli/oc/2025/659)).
+[^43-7]: Introduit par le ch. I de l’O du 15 oct. 2025, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2025 659](https://fedlex.data.admin.ch/eli/oc/2025/659)).
 
 #### Art. 43a
 
@@ -1094,6 +1229,61 @@ Des autorisations ne peuvent être délivrées sur la base de la présente secti
 
 [^43a-1]: Introduit par le ch. I de l’O du 10 oct. 2012, en vigueur depuis le 1<sup>er</sup> nov. 2012 ([RO 2012 5537](https://fedlex.data.admin.ch/eli/oc/2012/641)).
 [^43a-2]: Introduit par le ch. I de l’O du 15 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 659](https://fedlex.data.admin.ch/eli/oc/2025/659)).
+
+### Section 6*a* Police des constructions hors de la zone à bâtir
+
+[^chap5-sec6a-1]
+
+[^chap5-sec6a-1]: Introduite par le ch. I de l’O du 15 oct. 2025, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2025 659](https://fedlex.data.admin.ch/eli/oc/2025/659)).
+
+#### Art. 43b
+
+**Exigences en matière de droit cantonal**
+
+<sup>1</sup>
+
+Le droit cantonal relatif à l’application de l’art. 25, al. 3, LAT doit au moins être conçu de manière que:
+
+- a. les interdictions d’utilisation ordonnées et les mesures ordonnées pour les faire respecter sont à mettre en œuvre en règle générale dans les 30 jours suivant la notification de la décision, s’il n’est pas rendu vraisemblable que l’utilisation est licite;
+- b. les décisions de rétablissement de l’état conforme au droit sont prises dans le cadre d’une seule procédure, de telle sorte qu’après l’entrée en force de la décision et l’expiration du délai imparti, le rétablissement de l’état conforme au droit puisse être effectué par substitution.
+
+<sup>2</sup> Dans les procédures d’autorisation de construire, la légalité des constructions et des installations existantes doit être examinée au moins sommairement. L’autorisation de construire doit, le cas échéant, être assortie de décisions au sens de l’al. 1, let. b; il doit y être garanti que les éventuelles mesures de rétablissement de l’état conforme au droit soient exécutées à une date déterminée.
+
+<sup>3</sup> Les cantons dotent l’autorité visée à l’art. 25, al. 2 et 3, LAT des compétences décisionnelles et des ressources nécessaires à l’accomplissement des tâches prévues par l’art. 25, al. 3, LAT.
+
+#### Art. 43c
+
+**Délai subsidiaire et obligation de motiver**
+
+<sup>1</sup> Les obligations découlant des décisions de la police des constructions doivent être remplies dans un délai de 180 jours suivant leur entrée en force lorsque ni la décision ni le droit cantonal ne fixe un autre délai. Les délais fixés dans les décisions doivent si possible être nettement plus courts.
+
+<sup>2</sup> Quiconque fait valoir que des constructions ou des installations formellement illégales peuvent être autorisées a posteriori ou que le rétablissement de l’état conforme au droit est exceptionnellement disproportionné a l’obligation de le justifier. Il en va de même pour celui qui fait valoir qu’un délai plus long doit exceptionnellement être fixé pour une interdiction d’utilisation au sens de l’art. 43*b*, al. 1, let. a.
+
+### Section 6*b* Prime de démolition (art. 5*a* LAT)
+
+[^chap5-sec6b-1]
+
+[^chap5-sec6b-1]: Introduite par le ch. I de l’O du 15 oct. 2025, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2025 659](https://fedlex.data.admin.ch/eli/oc/2025/659)).
+
+#### Art. 43d
+
+**Contribution fédérale à la prime de démolition**
+
+<sup>1</sup> L’Assemblée fédérale détermine les moyens financiers destinés aux contributions fédérales à la prime de démolition sous la forme d’un plafond des dépenses pluriannuel.
+
+<sup>2</sup> Dans le cadre des crédits alloués, la Confédération accorde des contributions de 20 à 30 % pour la prime de démolition.
+
+<sup>3</sup> Si les plus-values réalisées dans le canton au cours des cinq dernières années, conformément à l’art. 5, al. 1<sup>bis</sup>, LAT, sont au moins 75 fois supérieures à la somme des primes de démolition versées par le canton en vertu de l’art 5*a* LAT pour l’année considérée, la contribution de la Confédération s’élève à 20 % de ces primes de démolition. Si les plus-values réalisées sont au plus 25 fois supérieures aux primes de démolition, cette part s’élève à 30 %. Pour les valeurs intermédiaires, la part augmente de manière inversement proportionnelle au rapport entre la plus-value réalisée et les primes de démolition versées.
+
+<sup>4</sup> La Confédération ne verse aucune contribution aux primes de démolition nécessaires en raison d’une compensation exigée par la loi. Sont réservés les cas de constructions de remplacement pour lesquels le droit fédéral accorde exceptionnellement le droit à une prime de démolition.
+
+<sup>5</sup> Les cantons rendent compte à la Confédération, au plus tard le 31 mars de l’année suivante, des primes de démolition versées l’année précédente pour les démolitions effectuées. Sur cette base, l’ARE fixe les contributions versées aux cantons pour l’année correspondante. Si le total des contributions dépasse les fonds inscrits au crédit budgétaire autorisé, les contributions versées aux cantons sont réduites proportionnellement.
+
+#### Art. 43e
+
+**Prime de démolition pour les bâtiments fédéraux**
+
+Les cantons ne doivent aucune prime de démolition à la Confédération.
 
 ### Section 7 Mention au registre foncier
 
@@ -1226,11 +1416,12 @@ Durant la période transitoire prévue à l’art. 38*a*, al. 2, LAT, un classem
 
 <sup>4</sup> Le gouvernement cantonal conserve la compétence d’abroger et de prolonger la validité des zones réservées déterminées selon l’al. 3, y compris après l’approbation de l’adaptation du plan directeur.
 
-<sup>5</sup> La désignation des cantons prévue à l’art. 38*a*, al. 5, 2<sup>e</sup> phrase, LAT se fait à l’échéance du délai sous forme d’annexe à la présente ordonnance.
+<sup>5</sup> La désignation des cantons prévue à l’art. 38*a*, al. 5, 2<sup>e</sup> phrase, LAT est effectuée à l’échéance du délai fixé à l’annexe 3.[^52a-2]
 
 <sup>6</sup> Tant que le plan directeur incluant les objets désignés conformément à l’art. 32*b*, let. f, n’a pas été approuvé par la Confédération, le gouvernement cantonal peut fixer provisoirement par décision simple la liste des biens culturels d’importance cantonale, avec un effet de cinq ans au plus à compter de l’entrée en vigueur de la présente modification.
 
 [^52a-1]: Introduit par le ch. I de l’O du 2 avr. 2014, en vigueur depuis le 1<sup>er</sup> mai 2014 ([RO 2014 909](https://fedlex.data.admin.ch/eli/oc/2014/199)).
+[^52a-2]: Nouvelle teneur selon le ch. I de l’O du 15 oct. 2025, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2025 659](https://fedlex.data.admin.ch/eli/oc/2025/659)).
 
 #### Art. 53
 
@@ -1238,13 +1429,75 @@ Durant la période transitoire prévue à l’art. 38*a*, al. 2, LAT, un classem
 
 La présente ordonnance entre en vigueur le 1<sup>er</sup> septembre 2000.
 
-Annexe[^t-1]
+Annexe 1[^t-1]
+
+(art. 25*b*, al. 2)
+
+## Valeurs de référence pour les objectifs de stabilisation
+
+[^t-1]: Introduite par le ch. II al. 1 de l’O du 15 oct. 2025, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2025 659](https://fedlex.data.admin.ch/eli/oc/2025/659)).
+
+<table>
+<tr><th>Canton</th><th>Valeur de référence bâtiments (en nombre de bâtiments)</th><th>Valeur de référence imperméabilisation (en hectares)</th></tr>
+<tr><td>Zurich</td><td>40 807</td><td>2594</td></tr>
+<tr><td>Berne</td><td>129 342</td><td>5304</td></tr>
+<tr><td>Lucerne</td><td>40 645</td><td>1733</td></tr>
+<tr><td>Uri</td><td>9939</td><td>250</td></tr>
+<tr><td>Schwyz</td><td>17 884</td><td>699</td></tr>
+<tr><td>Obwald</td><td>8940</td><td>265</td></tr>
+<tr><td>Nidwald</td><td>4777</td><td>211</td></tr>
+<tr><td>Glaris</td><td>7283</td><td>186</td></tr>
+<tr><td>Zoug</td><td>6436</td><td>323</td></tr>
+<tr><td>Fribourg</td><td>32 856</td><td>1924</td></tr>
+<tr><td>Soleure</td><td>11 307</td><td>840</td></tr>
+<tr><td>Bâle-Ville</td><td>539</td><td>109</td></tr>
+<tr><td>Bâle-Campagne</td><td>9558</td><td>494</td></tr>
+<tr><td>Schaffhouse</td><td>3687</td><td>224</td></tr>
+<tr><td>Appenzell Rh.-Ext.</td><td>10 931</td><td>247</td></tr>
+<tr><td>Appenzell Rh.-Int.</td><td>4843</td><td>132</td></tr>
+<tr><td>Saint-Gall</td><td>53 443</td><td>1784</td></tr>
+<tr><td>Grisons</td><td>50 427</td><td>1507</td></tr>
+<tr><td>Argovie</td><td>30 233</td><td>1676</td></tr>
+<tr><td>Thurgovie</td><td>16 193</td><td>927</td></tr>
+<tr><td>Tessin</td><td>55 369</td><td>1690</td></tr>
+<tr><td>Vaud</td><td>36 654</td><td>3188</td></tr>
+<tr><td>Valais</td><td>48 881</td><td>2111</td></tr>
+<tr><td>Neuchâtel</td><td>11 676</td><td>621</td></tr>
+<tr><td>Genève</td><td>8717</td><td>586</td></tr>
+<tr><td>Jura</td><td>8787</td><td>663</td></tr>
+</table>
+
+Annexe 2[^t-2]
+
+(art. 25*e,* al. 4)
+
+## Cantons qui n’ont pas adapté leur plan directeur dans les délais impartis ou qui ne respectent plus les objectifs de stabilisation
+
+[^t-2]: Introduite par le ch. II al. 1 de l’O du 15 oct. 2025, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2025 659](https://fedlex.data.admin.ch/eli/oc/2025/659)).
+
+Dans les cantons suivants, tout nouveau bâtiment autorisé hors de la zone à bâtir doit être compensé, en vertu de l’art. 38*b*, al. 3, LAT et de l’art. 25*e,* al. 1, de la présente ordonnance:
+
+(*pas d’entrée*)
+
+Dans les cantons suivants, tout nouveau bâtiment autorisé hors de la zone à bâtir doit être compensé, en vertu des art. 25*d*, al. 3, et 25*e,* al. 1:
+
+(*pas d’entrée*)
+
+Dans les cantons suivants, tout nouveau bâtiment autorisé hors de la zone à bâtir doit être compensé, en vertu de l’art. 25*e*, al. 2:
+
+(*pas d’entrée*)
+
+Dans les cantons suivants, toute nouvelle surface imperméabilisée devant être prise en compte hors de la zone à bâtir et de la région d’estivage doit être compensée, en vertu de l’art. 25*e*, al. 3:
+
+*(pas d’entrée)*
+
+Annexe 3[^t-3]
 
 (art. 52*a*, al. 5)
 
 ## Interdiction de créer de nouvelles zones à bâtir en l’absence de réglementation conforme au droit fédéral relative à la compensation des avantages résultant d’un classement en zone à bâtir
 
-[^t-1]: Introduite par le ch. I de l’O du 10 avr. 2019 ([RO 2019 1309](https://fedlex.data.admin.ch/eli/oc/2019/252)). Mise à jour par le ch. I des O du 13 nov. 2019 ([RO 2019 3565](https://fedlex.data.admin.ch/eli/oc/2019/654)), du 29 janv. 2020 ([RO 2020 405](https://fedlex.data.admin.ch/eli/oc/2020/67)), du 29 avr. 2020 ([RO 2020 1651](https://fedlex.data.admin.ch/eli/oc/2020/333)) et 11 déc. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 6119](https://fedlex.data.admin.ch/eli/oc/2020/1010)).
+[^t-3]: Anciennement annexe. Introduite par le ch. I de l’O du 10 avr. 2019 ([RO 2019 1309](https://fedlex.data.admin.ch/eli/oc/2019/252)). Mise à jour par le ch. I des O du 13 nov. 2019 ([RO 2019 3565](https://fedlex.data.admin.ch/eli/oc/2019/654)), du 29 janv. 2020 ([RO 2020 405](https://fedlex.data.admin.ch/eli/oc/2020/67)), du 29 avr. 2020 ([RO 2020 1651](https://fedlex.data.admin.ch/eli/oc/2020/333)) et 11 déc. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 6119](https://fedlex.data.admin.ch/eli/oc/2020/1010)).
 
 Vu l’art. 38*a*, al. 5, LAT et l’art. 52*a*, al. 5, de la présente ordonnance, aucune nouvelle zone à bâtir ne peut être créée dans les cantons suivants:
 

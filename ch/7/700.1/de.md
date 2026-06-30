@@ -4,11 +4,11 @@ title: Raumplanungsverordnung vom 28. Juni 2000 (RPV)
 short: RPV
 eli: "https://fedlex.data.admin.ch/eli/cc/2000/310"
 language: de
-version: 2026-05-20
+version: 2026-07-01
 adopted: 2000-06-28
 in_force: 2000-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/310/20260520/de/xml/fedlex-data-admin-ch-eli-cc-2000-310-20260520-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2000/310/20260520/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/310/20260701/de/xml/fedlex-data-admin-ch-eli-cc-2000-310-20260701-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2000/310/20260701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2000/310/20260520/de"
 
 (RPV)
 
-vom 28. Juni 2000 (Stand am 20. Mai 2026)
+vom 28. Juni 2000 (Stand am 1. Juli 2026)
 
 Der Schweizerische Bundesrat,
 
@@ -388,6 +388,104 @@ Der Bund erstellt zuhanden der Kantone periodisch eine Übersicht über die Konz
 
 <sup>2</sup> Muss ein Richtplan angepasst werden, so koordiniert das ARE die Verfahren zwischen Bund und Kanton.
 
+## 3*a*. Kapitel: Stabilisierungsziele ausserhalb der Bauzonen
+
+[^chap3a-1]
+
+[^chap3a-1]: Eingefügt durch Ziff. I der V vom 15. Okt. 2025, in Kraft seit 1. Juli 2026 ([AS 2025 659](https://fedlex.data.admin.ch/eli/oc/2025/659)).
+
+#### Art. 25a
+
+**Präzisierung der Stabilisierungsziele**
+
+### (Art. 1 Abs. 2 Bst. b<sup>ter</sup> und b<sup>quater</sup> sowie 8*d* Abs. 2 RPG)
+
+<sup>1</sup> Das Stabilisierungsziel nach Artikel 1 Absatz 2 Buchstabe b<sup>ter</sup> RPG gilt für Gebäude im Sinn von Artikel 2 Buchstabe b der Verordnung vom 9. Juni 2017[^25a-1] über das eidgenössische Gebäude- und Wohnungsregister. Es gilt nicht für Gebäude mit einer Gebäudefläche von weniger als 6 m<sup>2</sup>.
+
+<sup>2</sup> Das Stabilisierungsziel nach Artikel 1 Absatz 2 Buchstabe b<sup>quater</sup> RPG gilt für Bodenversiegelungen ausserhalb der Bauzonen, ausgenommen solche im Sömmerungsgebiet gemäss dem Geobasisdatensatz nach Artikel 5 der Landwirtschaftlichen Zonen-Verordnung vom 7. Dezember 1998[^25a-2].
+
+<sup>3</sup> Ein Boden gilt als versiegelt, wenn es sich um eine Gebäudegrundfläche oder um eine mit einem wasserundurchlässigen Belag wie Beton oder Asphalt versehene Bodenfläche handelt.
+
+[^25a-1]: [SR 431.841](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7029)
+[^25a-2]: [SR 912.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10437)
+
+#### Art. 25b
+
+**Erreichung der Stabilisierungsziele**
+
+### (Art. 1, 8*d* und 24*f* RPG)
+
+<sup>1</sup> Die Stabilisierungsziele sind erreicht, wenn die Anzahl der zu berücksichtigenden Gebäude beziehungsweise die zu berücksichtigende versiegelte Fläche im betreffenden Kanton nicht mehr als 2 Prozent über dem jeweiligen Referenzwert liegt.
+
+<sup>2</sup> Die Referenzwerte sind in Anhang 1 festgelegt.
+
+<sup>3</sup> Die Referenzwerte werden unter Verwendung der Bauzonenperimeter der Bauzonenstatistik 2032 neu berechnet. Soweit sie höher liegen als die Referenzwerte nach Anhang 1, werden sie nachgetragen.
+
+#### Art. 25c
+
+**Veränderungsbilanz**
+
+### (Art. 1 Abs. 2 Bst b<sup>quater</sup> und 8*d* RPG)
+
+<sup>1</sup> Die Kantone führen eine Bilanz der zu berücksichtigenden Gebäude und Versiegelungen, die nach dem Referenzzeitpunkt hinzugekommen oder weggefallen sind.
+
+<sup>2</sup> Versiegelungen ausserhalb der Bauzonen, ausgenommen solche im Sömmerungsgebiet gemäss dem Geobasisdatensatz nach Artikel 5 der Landwirtschaftlichen Zonen-Verordnung vom 7. Dezember 1998[^25c-1], die nach dem Referenzzeitpunkt vorgenommen worden sind und die bei ihrer Erstellung in Anwendung von Artikel 1 Absatz 2 Buchstabe b<sup>quater</sup> oder Artikel 8*d* Absatz 2 RPG nicht berücksichtigt werden mussten, müssen in der Bilanz als neue Versiegelungen aufgenommen werden, wenn die Gründe für die Nichtberücksichtigung dahinfallen.
+
+<sup>3</sup> Versiegelte Flächen ausserhalb der Bauzonen, ausgenommen solche im Sömmerungsgebiet gemäss dem Geobasisdatensatz nach Artikel 5 der Landwirtschaftlichen Zonen-Verordnung, die vor dem Referenzzeitpunkt bestanden, können im Fall des Rückbaus in der Bilanz auch dann gutgeschrieben werden, wenn sie zum Referenzzeitpunkt einer Nutzung dienten, die nach Artikel 1 Absatz 2 Buchstabe b<sup>quater</sup> oder Artikel 8*d* Absatz 2 RPG nicht berücksichtigt werden muss.
+
+[^25c-1]: [SR 912.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10437)
+
+#### Art. 25d
+
+**Periodische Überprüfung der Erreichung der Stabilisierungsziele**
+
+### (Art. 8*d* Abs. 3 und 4 RPG)
+
+<sup>1</sup> Die periodische Überprüfung der Erreichung der Stabilisierungsziele erfolgt mindestens alle vier Jahre im Rahmen der Berichterstattung nach Artikel 9 Absatz 1.
+
+<sup>2</sup> Erscheint die Einhaltung der Stabilisierungsziele gefährdet, ist der Richtplan innert fünf Jahren erneut an die Anforderungen von Artikel 8*d* RPG anzupassen.
+
+<sup>3</sup> Nach ungenutztem Ablauf der Frist nach Absatz 2 gilt die Kompensationspflicht nach Artikel 25*e* Absatz 1, bis der Bund eine den gesetzlichen Anforderungen genügende Richtplananpassung genehmigt hat.
+
+#### Art. 25e
+
+**Kompensationspflicht bei Gefährdung oder Verfehlung der Stabilisierungsziele**
+
+### (Art. 8*d* Abs. 4 und 38*b* Abs. 3 RPG)
+
+<sup>1</sup> In Kantonen, die ihren Richtplan nicht innert Frist nach Artikel 38*b* Absatz 1 RPG oder nach Artikel 25*d* Absatz 2 dieser Verordnung anpassen, muss bis zur Genehmigung der entsprechenden Richtplananpassung durch den Bund jedes neu zugelassene Gebäude ausserhalb der Bauzonen durch den Abbruch eines bestehenden Gebäudes ausserhalb der Bauzonen kompensiert werden.
+
+<sup>2</sup> In Kantonen, in denen das Stabilisierungsziel nach Artikel 1 Absatz 2 Buchstabe b<sup>ter</sup> RPG nicht mehr eingehalten ist, muss jedes neu zugelassene Gebäude ausserhalb der Bauzonen durch den Abbruch eines bestehenden Gebäudes ausserhalb der Bauzonen kompensiert werden.
+
+<sup>3</sup> In Kantonen, in denen das Stabilisierungsziel nach Artikel 1 Absatz 2 Buchstabe b<sup>quater</sup> RPG nicht mehr eingehalten ist, muss jede neue anrechenbare versiegelte Fläche ausserhalb von Bauzonen und Sömmerungsgebiet durch die Rekultivierung einer gleich grossen Fläche ausserhalb von Bauzonen und Sömmerungsgebiet kompensiert werden.
+
+<sup>4</sup> Die Kantone, welche ihren Richtplan nicht rechtzeitig angepasst haben oder die Stabilisierungsziele nicht mehr einhalten, werden in Anhang 2 aufgeführt.
+
+<sup>5</sup> Mit der Bauausführung darf erst begonnen werden, wenn der kompensatorische Abbruch und die entsprechende Rekultivierung erfolgt oder sichergestellt sind.
+
+#### Art. 25f
+
+**Nutzung von Spielräumen**
+
+<sup>1</sup> Das kantonale Recht kann regeln, wie die Spielräume nach Artikel 25*b* Absatz 1 und die kompensatorischen Abbrüche nach den Artikeln 25*e*, 33*a* und 43 zugunsten bestimmter Verwendungszwecke, insbesondere zugunsten von Bauvorhaben der öffentlichen Hand und der Landwirtschaft, genutzt werden.
+
+<sup>2</sup> Soll ein Abbruch erst später einer Kompensation dienen, sind die entsprechenden Voraussetzungen bereits beim Entscheid über den Abbruch festzulegen.
+
+#### Art. 25g
+
+**Durch den Bund bewilligte Gebäude und Versiegelungen**
+
+<sup>1</sup> Werden gestützt auf eine Plangenehmigung des Bundes ausserhalb der Bauzonen Gebäude erstellt oder beseitigt oder Flächen versiegelt oder entsiegelt, so werden die Pläne mit der rechtmässigen neuen Situation der zuständigen kantonalen Behörde gemeldet.
+
+<sup>2</sup>
+
+In den kantonalen Bilanzen nach Artikel 25*c* können Gebäude und versiegelte Flächen, die seit dem Referenzzeitpunkt gestützt auf eine Plangenehmigung des Bundes entstanden sind, so lange nicht beachtet werden, als sie bestimmungsgemäss genutzt werden, sofern sie:
+
+- a. der Planungshoheit der Kantone entzogen sind; oder
+- b. in Anwendung von Artikel 1 Absatz 2 Buchstabe b<sup>quater</sup> oder Artikel 8*d* Absatz 2 RPG unberücksichtigt bleiben können.
+
+<sup>3</sup> Fällt die Zweckbestimmung von solchen Gebäuden oder versiegelten Flächen dahin, setzt die zuständige Behörde eine allfällige Beseitigungspflicht durch.
+
 ## 4. Kapitel: Fruchtfolgeflächen
 
 #### Art. 26
@@ -705,15 +803,33 @@ Anlagen zur Umwandlung von erneuerbarer Energie in Wasserstoff, Methan oder ande
 
 [^32h-1]: Eingefügt durch Ziff. I der V vom 15. Okt. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 659](https://fedlex.data.admin.ch/eli/oc/2025/659)).
 
-### 4. Abschnitt: Kleinsiedlungen ausserhalb der Bauzone
+### 4. Abschnitt: Spezielle Nichtbauzonen
 
 [^chap5-sec4-1]
 
-[^chap5-sec4-1]: Fassung gemäss Ziff. I der V vom 2. April 2014, in Kraft seit 1. Mai 2014 ([AS 2014 909](https://fedlex.data.admin.ch/eli/oc/2014/199)).
+[^chap5-sec4-1]: Fassung gemäss Ziff. I der V vom 15. Okt. 2025, in Kraft seit 1. Juli 2026 ([AS 2025 659](https://fedlex.data.admin.ch/eli/oc/2025/659)).
 
 #### Art. 33
 
+**Kleinsiedlungen ausserhalb der Bauzonen[^33-1]**
+
 Zur Erhaltung bestehender Kleinsiedlungen ausserhalb der Bauzonen können besondere Zonen nach Artikel 18 RPG, beispielsweise Weiler- oder Erhaltungszonen, bezeichnet werden, wenn der kantonale Richtplan (Art. 8 RPG) dies in der Karte oder im Text vorsieht.
+
+[^33-1]: Eingefügt durch Ziff. I der V vom 15. Okt. 2025, in Kraft seit 1. Juli 2026 ([AS 2025 659](https://fedlex.data.admin.ch/eli/oc/2025/659)).
+
+#### Art. 33a
+
+**Nichtbauzonen mit zu kompensierenden Nutzungen**[^33a-1]
+
+### (Art. 18<sup>bis</sup> RPG)
+
+<sup>1</sup> Die Verbesserung der Gesamtsituation beurteilt sich anhand einer umfassenden Interessenabwägung im Hinblick auf die Ziele und Grundsätze der Raumplanung und unter besonderer Berücksichtigung von Siedlungsstruktur, Landschaft, Baukultur, Kulturland und Biodiversität.
+
+<sup>2</sup> Beanspruchtes Kulturland muss vollständig und gleichwertig kompensiert werden. Neues oberirdisches Gebäudevolumen ist vollständig zu kompensieren, es sei denn, objektive Gründe stehen dem entgegen.
+
+<sup>3</sup> Zu kompensierende Nutzungen dürfen nur realisiert und ausgeübt werden, wenn die notwendigen Kompensationen und Aufwertungen erfolgt oder sichergestellt sind und solange sie Bestand haben.
+
+[^33a-1]: Eingefügt durch Ziff. I der V vom 15. Okt. 2025, in Kraft seit 1. Juli 2026 ([AS 2025 659](https://fedlex.data.admin.ch/eli/oc/2025/659)).
 
 ### 5. Abschnitt: Zonenkonformität in der Landwirtschaftszone
 
@@ -994,7 +1110,7 @@ Ob die Identität der Baute oder Anlage im Wesentlichen gewahrt bleibt, ist unte
 [^42-4]: Fassung gemäss Ziff. I der V vom 15. Okt. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 659](https://fedlex.data.admin.ch/eli/oc/2025/659)).
 [^42-5]: Fassung gemäss Ziff. I der V vom 10. Okt. 2012, in Kraft seit 1. Nov. 2012 ([AS 2012 5537](https://fedlex.data.admin.ch/eli/oc/2012/641)).
 [^42-6]: Fassung gemäss Ziff. I der V vom 15. Okt. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 659](https://fedlex.data.admin.ch/eli/oc/2025/659)).
-[^42-7]: Eingefügt durch Ziff. I der V vom 3. Juni 2022 ([AS 2022 357](https://fedlex.data.admin.ch/eli/oc/2022/357)). Fassung gemäss Ziff. I der V vom 15. Okt. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 659](https://fedlex.data.admin.ch/eli/oc/2025/659)). Die Berichtigung vom 20. Mai 2026 betrifft nur den französischen Text ([AS 2026 227](https://fedlex.data.admin.ch/eli/oc/2026/227)).
+[^42-7]: Eingefügt durch Ziff. I der V vom 3. Juni 2022 ([AS 2022 357](https://fedlex.data.admin.ch/eli/oc/2022/357)). Fassung gemäss Ziff. I der V vom 15. Okt. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 659](https://fedlex.data.admin.ch/eli/oc/2025/659)).
 
 #### Art. 42a
 
@@ -1072,8 +1188,29 @@ Zweckänderungen und Erweiterungen von zonenwidrig gewordenen gewerblichen Baute
 
 <sup>3</sup> Soll die zonenwidrig genutzte Fläche ausserhalb des bestehenden Gebäudevolumens um mehr als 100 m<sup>2</sup> erweitert werden, so darf dies nur dann bewilligt werden, wenn die Erweiterung für die Fortführung des Betriebs erforderlich ist.
 
+<sup>4</sup> Der Wiederaufbau bei altrechtlichen Gast- und Beherbergungsbetrieben richtet sich ebenfalls nach den Absätzen 1–3, bei anderen altrechtlichen gewerblichen Bauten und Anlagen nach Artikel 42.[^43-3]
+
+<sup>5</sup> Bauten und Anlagen, die andernorts in der gleichen Geländekammer beseitigt werden und rechtmässig einer nicht standortgebundenen Gewerbenutzung dienten, können zu zusätzlichen Erweiterungen von Gast- und Beherbergungsbetrieben berechtigen.[^43-4]
+
+<sup>6</sup>
+
+Die zusätzliche Erweiterung eines Beherbergungsbetriebs darf nicht zu einer Bettenzahl von mehr als 120 führen. Bei reinen Restaurationsbetrieben darf die Sitzplatzzahl nicht auf über 100 zunehmen. Bei gemischten Betrieben können die Maximalwerte anteilsmässig beansprucht werden. Mit den zusätzlichen Erweiterungen dürfen maximal so viel Gebäudefläche und so viel andere versiegelte Fläche geschaffen werden, wie jeweils anderweitig beseitigt wird. Massgebend sind insbesondere:
+
+- a. die betriebliche Notwendigkeit;
+- b. das Ausmass der vorgesehenen Aufwertungen; und
+- c. die Verbesserungen, die durch zusätzliche kompensatorische Massnahmen erreicht werden können.[^43-5]
+
+<sup>7</sup> Die notwendigen Kompensationen und Aufwertungen müssen vor Baubeginn erfolgt oder sichergestellt sein.[^43-6]
+
+<sup>8</sup> Nach Absatz 4–6 bewilligte Gast- und Beherbergungsbetriebe müssen dem bewilligten Zweck zur Verfügung stehen oder, bei Wegfall des Bedarfs oder Interesses, zurückgebaut werden.[^43-7]
+
 [^43-1]: Fassung gemäss Ziff. I der V vom 10. Okt. 2012, in Kraft seit 1. Nov. 2012 ([AS 2012 5537](https://fedlex.data.admin.ch/eli/oc/2012/641)).
 [^43-2]: Aufgehoben durch Ziff. I der V vom 10. Okt. 2012, mit Wirkung seit 1. Nov. 2012 ([AS 2012 5537](https://fedlex.data.admin.ch/eli/oc/2012/641)).
+[^43-3]: Eingefügt durch Ziff. I der V vom 15. Okt. 2025, in Kraft seit 1. Juli 2026 ([AS 2025 659](https://fedlex.data.admin.ch/eli/oc/2025/659)).
+[^43-4]: Eingefügt durch Ziff. I der V vom 15. Okt. 2025, in Kraft seit 1. Juli 2026 ([AS 2025 659](https://fedlex.data.admin.ch/eli/oc/2025/659)).
+[^43-5]: Eingefügt durch Ziff. I der V vom 15. Okt. 2025, in Kraft seit 1. Juli 2026 ([AS 2025 659](https://fedlex.data.admin.ch/eli/oc/2025/659)).
+[^43-6]: Eingefügt durch Ziff. I der V vom 15. Okt. 2025, in Kraft seit 1. Juli 2026 ([AS 2025 659](https://fedlex.data.admin.ch/eli/oc/2025/659)).
+[^43-7]: Eingefügt durch Ziff. I der V vom 15. Okt. 2025, in Kraft seit 1. Juli 2026 ([AS 2025 659](https://fedlex.data.admin.ch/eli/oc/2025/659)).
 
 #### Art. 43a
 
@@ -1093,6 +1230,61 @@ Bewilligungen nach diesem Abschnitt dürfen nur erteilt werden, wenn:
 
 [^43a-1]: Eingefügt durch Ziff. I der V vom 10. Okt. 2012, in Kraft seit 1. Nov. 2012 ([AS 2012 5537](https://fedlex.data.admin.ch/eli/oc/2012/641)).
 [^43a-2]: Eingefügt durch Ziff. I der V vom 15. Okt. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 659](https://fedlex.data.admin.ch/eli/oc/2025/659)).
+
+### 6*a*. Abschnitt: Baupolizei ausserhalb der Bauzonen
+
+[^chap5-sec6a-1]
+
+[^chap5-sec6a-1]: Eingefügt durch Ziff. I der V vom 15. Okt. 2025, in Kraft seit 1. Juli 2026 ([AS 2025 659](https://fedlex.data.admin.ch/eli/oc/2025/659)).
+
+#### Art. 43b
+
+**Anforderungen an das kantonale Recht**
+
+<sup>1</sup>
+
+Das kantonale Recht zur Anwendung von Artikel 25 Absatz 3 RPG ist mindestens so auszugestalten, dass:
+
+- a. angeordnete Nutzungsverbote und die zu ihrer Durchsetzung angeordneten Massnahmen in der Regel innert 30 Tagen nach Eröffnung der Verfügung durchgesetzt sind, wenn nicht glaubhaft gemacht wird, dass die Nutzung rechtmässig ist;
+- b. über Rückbauten zur Wiederherstellung des rechtmässigen Zustands in einem einzigen Verfahren so entschieden wird, dass nach Rechtskraft des Entscheids und ungenutztem Ablauf der angesetzten Frist die Wiederherstellung ersatzvornahmeweise durchgeführt werden kann.
+
+<sup>2</sup> In Baubewilligungsverfahren müssen die vorhandenen Bauten und Anlagen mindestens summarisch auf ihre Rechtmässigkeit geprüft werden. Die Baubewilligung muss gegebenenfalls mit Verfügungen nach Absatz 1 Buchstabe b verbunden werden; dabei muss sichergestellt werden, dass allfällige Massnahmen zur Wiederherstellung des rechtmässigen Zustands zu einem festgelegten Zeitpunkt ausgeführt sind.
+
+<sup>3</sup> Die Kantone statten die Behörde nach Artikel 25 Absätze 2 und 3 RPG mit den nötigen Entscheidungskompetenzen und Ressourcen aus, um die Aufgaben nach Artikel 25 Absatz 3 RPG erfüllen zu können.
+
+#### Art. 43c
+
+**Subsidiäre Frist und Begründungslast**
+
+<sup>1</sup> Verpflichtungen aus baupolizeilichen Verfügungen sind innert 180 Tagen ab Rechtskraft zu erfüllen, wenn weder die Verfügung noch das kantonale Recht eine andere Frist setzt. Die Fristen in den Verfügungen sind nach Möglichkeit deutlich kürzer anzusetzen.
+
+<sup>2</sup> Wer geltend macht, dass formell rechtswidrige Bauten oder Anlagen nachträglich bewilligungsfähig sind oder dass die Wiederherstellung des rechtmässigen Zustands ausnahmsweise unverhältnismässig ist, hat die Obliegenheit, dies zu begründen. Gleiches gilt, wenn geltend gemacht wird, dass für ein Nutzungsverbot nach Artikel 43*b* Absatz 1 Buchstabe a ausnahmsweise eine längere Frist anzusetzen ist.
+
+### 6*b*. Abschnitt: Abbruchprämie (Art. 5*a* RPG)
+
+[^chap5-sec6b-1]
+
+[^chap5-sec6b-1]: Eingefügt durch Ziff. I der V vom 15. Okt. 2025, in Kraft seit 1. Juli 2026 ([AS 2025 659](https://fedlex.data.admin.ch/eli/oc/2025/659)).
+
+#### Art. 43d
+
+**Bundesbeitrag an die Abbruchprämie**
+
+<sup>1</sup> Die Bundesversammlung bestimmt die finanziellen Mittel für die Bundesbeiträge an die Abbruchprämie mit einem mehrjährigen Zahlungsrahmen.
+
+<sup>2</sup> Im Rahmen der bewilligten Kredite gewährt der Bund Beiträge von 20–30 Prozent an die Abbruchprämie.
+
+<sup>3</sup> Wenn die in den letzten 5 Jahren im Kanton geschaffenen Mehrwerte nach Artikel 5 Absatz 1<sup>bis</sup> RPG mindestens 75 Mal so hoch sind wie die Summe der im betreffenden Jahr bezahlten Abbruchprämien nach Artikel 5*a* RPG, so beträgt der Beitrag des Bundes 20 Prozent dieser Abbruchprämien; sind die geschaffenen Mehrwerte höchstens 25 Mal so hoch wie die bezahlten Abbruchprämien, so beträgt dieser Anteil 30 Prozent. Für Werte dazwischen steigt der Anteil umgekehrt proportional zum Verhältnis zwischen dem geschaffenen Mehrwert und den bezahlten Abbruchprämien an.
+
+<sup>4</sup> An Prämien für Abbrüche, die für eine gesetzlich geforderte Kompensation nötig sind, leistet der Bund keine Beiträge. Vorbehalten bleiben Fälle von Ersatzneubauten, bei denen das Bundesrecht ausnahmsweise Anspruch auf eine Abbruchprämie gibt.
+
+<sup>5</sup> Die Kantone erstatten dem Bund bis zum 31. März des Folgejahrs Bericht über die im Vorjahr für erfolgte Abbrüche geleisteten Abbruchprämien. Das ARE legt gestützt darauf die Beiträge an die Kantone für das entsprechende Jahr fest. Übersteigen die gesamten Beiträge die im bewilligten Voranschlagskredit eingestellten Mittel, werden die Beiträge an die Kantone proportional gekürzt.
+
+#### Art. 43e
+
+**Abbruchprämie bei Bundesbauten**
+
+Kantone schulden dem Bund keine Abbruchprämie.
 
 ### 7. Abschnitt: Anmerkung im Grundbuch
 
@@ -1225,11 +1417,12 @@ Während der Übergangsfrist nach Artikel 38*a* Absatz 2 RPG dürfen Einzonungen
 
 <sup>4</sup> Die Kompetenz zur Aufhebung und zur Verlängerung der Dauer der nach Absatz 3 bestimmten Planungszonen verbleibt auch nach der Genehmigung der Richtplananpassung bei der Kantonsregierung.
 
-<sup>5</sup> Die Bezeichnung der Kantone nach Artikel 38*a* Absatz 5 zweiter Satz RPG erfolgt auf Ablauf der Frist hin in einem Anhang zu dieser Verordnung.
+<sup>5</sup> Die Bezeichnung der Kantone nach Artikel 38*a* Absatz 5 zweiter Satz RPG erfolgt auf Ablauf der Frist hin in Anhang 3.[^52a-2]
 
 <sup>6</sup> Solange der Richtplan mit den nach Artikel 32*b* Buchstabe f bezeichneten Objekten nicht durch den Bund genehmigt ist, längstens aber mit Wirkung von fünf Jahren ab Inkrafttreten dieser Änderung, kann die Kantonsregierung die Liste der Kulturdenkmäler von kantonaler Bedeutung durch einfachen Beschluss provisorisch festlegen.
 
 [^52a-1]: Eingefügt durch Ziff. I der V vom 2. April 2014, in Kraft seit 1. Mai 2014 ([AS 2014 909](https://fedlex.data.admin.ch/eli/oc/2014/199)).
+[^52a-2]: Fassung gemäss Ziff. I der V vom 15. Okt. 2025, in Kraft seit 1. Juli 2026 ([AS 2025 659](https://fedlex.data.admin.ch/eli/oc/2025/659)).
 
 #### Art. 53
 
@@ -1237,13 +1430,75 @@ Während der Übergangsfrist nach Artikel 38*a* Absatz 2 RPG dürfen Einzonungen
 
 Diese Verordnung tritt am 1. September 2000 in Kraft.
 
-Anhang[^t-1]
+Anhang 1[^t-1]
+
+(Art. 25*b* Abs. 2)
+
+## Referenzwerte für die Stabilisierungsziele
+
+[^t-1]: Eingefügt durch Ziff. II Abs. 1 der V vom 15. Okt. 2025, in Kraft seit 1. Juli 2026 ([AS 2025 659](https://fedlex.data.admin.ch/eli/oc/2025/659)).
+
+<table>
+<tr><th>Kanton</th><th>Referenzwert Gebäude (in Anzahl Gebäuden)</th><th>Referenzwert Versiegelung (in Hektaren)</th></tr>
+<tr><td>Zürich</td><td>40 807</td><td>2594</td></tr>
+<tr><td>Bern</td><td>129 342</td><td>5304</td></tr>
+<tr><td>Luzern</td><td>40 645</td><td>1733</td></tr>
+<tr><td>Uri</td><td>9939</td><td>250</td></tr>
+<tr><td>Schwyz</td><td>17 884</td><td>699</td></tr>
+<tr><td>Obwalden</td><td>8940</td><td>265</td></tr>
+<tr><td>Nidwalden</td><td>4777</td><td>211</td></tr>
+<tr><td>Glarus</td><td>7283</td><td>186</td></tr>
+<tr><td>Zug</td><td>6436</td><td>323</td></tr>
+<tr><td>Freiburg</td><td>32 856</td><td>1924</td></tr>
+<tr><td>Solothurn</td><td>11 307</td><td>840</td></tr>
+<tr><td>Basel-Stadt</td><td>539</td><td>109</td></tr>
+<tr><td>Basel-Landschaft</td><td>9558</td><td>494</td></tr>
+<tr><td>Schaffhausen</td><td>3687</td><td>224</td></tr>
+<tr><td>Appenzell Ausserrhoden</td><td>10 931</td><td>247</td></tr>
+<tr><td>Appenzell Innerrhoden</td><td>4843</td><td>132</td></tr>
+<tr><td>St. Gallen</td><td>53 443</td><td>1784</td></tr>
+<tr><td>Graubünden</td><td>50 427</td><td>1507</td></tr>
+<tr><td>Aargau</td><td>30 233</td><td>1676</td></tr>
+<tr><td>Thurgau</td><td>16 193</td><td>927</td></tr>
+<tr><td>Tessin</td><td>55 369</td><td>1690</td></tr>
+<tr><td>Waadt</td><td>36 654</td><td>3188</td></tr>
+<tr><td>Wallis</td><td>48 881</td><td>2111</td></tr>
+<tr><td>Neuenburg</td><td>11 676</td><td>621</td></tr>
+<tr><td>Genf</td><td>8717</td><td>586</td></tr>
+<tr><td>Jura</td><td>8787</td><td>663</td></tr>
+</table>
+
+Anhang 2[^t-2]
+
+(Art. 25*e* Abs. 4)
+
+## Kantone, welche den Richtplan nicht rechtzeitig angepasst haben oder die Stabilisierungsziele nicht mehr einhalten
+
+[^t-2]: Eingefügt durch Ziff. II Abs. 1 der V vom 15. Okt. 2025, in Kraft seit 1. Juli 2026 ([AS 2025 659](https://fedlex.data.admin.ch/eli/oc/2025/659)).
+
+In folgenden Kantonen muss jedes neu zugelassene Gebäude ausserhalb der Bauzonen gestützt auf Artikel 38*b* Absatz 3 RPG und Artikel 25*e* Absatz 1 dieser Verordnung kompensiert werden:
+
+(*kein Eintrag*)
+
+In folgenden Kantonen muss jedes neu zugelassene Gebäude ausserhalb der Bauzonen gestützt auf die Artikel 25*d* Absatz 3 und 25*e* Absatz 1 kompensiert werden:
+
+(*kein Eintrag*)
+
+In folgenden Kantonen muss jedes neu zugelassene Gebäude ausserhalb der Bauzonen gestützt auf Artikel 25*e* Absatz 2 kompensiert werden:
+
+(*kein Eintrag*)
+
+In folgenden Kantonen muss jede neue anrechenbare versiegelte Fläche ausserhalb von Bauzonen und Sömmerungsgebiet gestützt auf Artikel 25*e* Absatz 3 kompensiert werden:
+
+(*kein Eintrag*)
+
+Anhang 3[^t-3]
 
 (Art. 52*a* Abs. 5)
 
 ## Unzulässige Ausscheidung neuer Bauzonen wegen fehlender bundesrechtskonformer Regelung zum Ausgleich von Planungsvorteilen
 
-[^t-1]: Eingefügt durch Ziff. I der V vom 10. April 2019 ([AS 2019 1309](https://fedlex.data.admin.ch/eli/oc/2019/252)). Bereinigt gemäss Ziff. I der V vom 13. Nov. 2019 ([AS 2019 3565](https://fedlex.data.admin.ch/eli/oc/2019/654)), vom 29. Jan. 2020 ([AS 2020 405](https://fedlex.data.admin.ch/eli/oc/2020/67)), vom 29. April 2020 ([AS 2020 1651](https://fedlex.data.admin.ch/eli/oc/2020/333)) und vom 11. Dez. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6119](https://fedlex.data.admin.ch/eli/oc/2020/1010)).
+[^t-3]: Ursprünglich: Anhang. Eingefügt durch Ziff. I der V vom 10. April 2019 ([AS 2019 1309](https://fedlex.data.admin.ch/eli/oc/2019/252)). Bereinigt gemäss Ziff. I der V vom 13. Nov. 2019 ([AS 2019 3565](https://fedlex.data.admin.ch/eli/oc/2019/654)), vom 29. Jan. 2020 ([AS 2020 405](https://fedlex.data.admin.ch/eli/oc/2020/67)), vom 29. April 2020 ([AS 2020 1651](https://fedlex.data.admin.ch/eli/oc/2020/333)) und vom 11. Dez. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6119](https://fedlex.data.admin.ch/eli/oc/2020/1010)).
 
 In folgenden Kantonen ist die Ausscheidung neuer Bauzonen gestützt auf Artikel 38*a* Absatz 5 RPG und Artikel 52*a* Absatz 5 dieser Verordnung unzulässig:
 
