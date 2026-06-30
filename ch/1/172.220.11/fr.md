@@ -3,11 +3,11 @@ sr: "172.220.11"
 title: Ordonnance-cadre du 20 décembre 2000 relative à la loi sur le personnel de la Confédération (Ordonnance-cadre LPers)
 eli: "https://fedlex.data.admin.ch/eli/cc/2001/124"
 language: fr
-version: 2022-01-01
+version: 2026-07-01
 adopted: 2000-12-20
 in_force: 2001-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/124/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2001-124-20220101-fr-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2001/124/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/124/20260701/fr/xml/fedlex-data-admin-ch-eli-cc-2001-124-20260701-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2001/124/20260701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2001/124/20220101/fr"
 
 (Ordonnance-cadre LPers)
 
-du 20 décembre 2000 (État le 1<sup>er</sup> janvier 2022)
+du 20 décembre 2000 (État le 1<sup>er</sup> juillet 2026)
 
 Le Conseil fédéral suisse,
 
@@ -24,7 +24,7 @@ vu les art. 32*e*, al. 3, et 37 de la loi du 24 mars 2000 sur le personnel de la
 
 arrête:
 
-[^ingress-1]: [RS 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
+[^ingress-1]: [RS 172.220.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5345)
 [^ingress-2]: Nouvelle teneur selon l’annexe ch. 3 de l’O du 2 mai 2007 sur l’organe paritaire de la caisse de prévoyance de la Confédération, en vigueur depuis le 1<sup>er</sup> mai 2007 ([RO 2007 2235](https://fedlex.data.admin.ch/eli/oc/2007/312)).
 
 #### Art. 1
@@ -181,7 +181,7 @@ Les CFF peuvent notamment soumettre le personnel suivant au code des obligations
 
 <sup>4</sup> ...[^5-8]
 
-[^5-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^5-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 [^5-2]: Nouvelle teneur selon le ch. I de l’O du 3 déc. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 842](https://fedlex.data.admin.ch/eli/oc/2021/842)).
 [^5-3]: Abrogé par le ch. I de l’O du 1<sup>er</sup> mai 2013, avec effet au 1<sup>er</sup> juil. 2013 ([RO 2013 1511](https://fedlex.data.admin.ch/eli/oc/2013/353)).
 [^5-4]: Nouvelle teneur selon l’annexe ch. 1 de l’O du 24 oct. 2012 relative à la loi sur l’organisation de la Poste, en vigueur depuis le 1<sup>er</sup> déc. 2012 ([RO 2012 6089](https://fedlex.data.admin.ch/eli/oc/2012/721)).
@@ -211,7 +211,8 @@ L’art. 9 LPers sur les contrats de durée déterminée ne vaut pas pour[^6-2]:
 - d.[^6-7] les militaires contractuels; le contrat de durée déterminée peut être prolongé pour une durée maximale de cinq ans;
 - e.[^6-8] les militaires contractuels dans la fonction de sportif d’élite; le contrat de durée déterminée peut être prolongé pour une durée maximale de dix ans;
 - f.[^6-9] le personnel affecté à la promotion de la paix, au renforcement des droits de l’homme, à l’aide humanitaire et à la formation de troupes étrangères à l’étranger; le contrat de durée déterminée peut être prolongé pour une durée maximale de dix ans;
-- g.[^6-10] le reste du personnel des départements et de la Chancellerie fédérale affecté à l’étranger; le contrat de durée déterminée peut être prolongé pour une durée maximale de cinq ans.
+- g.[^6-10] le reste du personnel des départements et de la Chancellerie fédérale affecté à l’étranger; le contrat de durée déterminée peut être prolongé pour une durée maximale de cinq ans;
+- h.[^6-11] les employés du Secrétariat d’État aux migrations qui occupent un poste dont le financement est de durée limitée; le contrat de durée déterminée peut être prolongé pour une durée maximale de six ans.
 
 <sup>2</sup> Les employeurs établissent une liste des contrats de travail relevant de l’al. 1. Ils rendent compte de ces contrats conformément à l’art. 4.
 
@@ -225,6 +226,7 @@ L’art. 9 LPers sur les contrats de durée déterminée ne vaut pas pour[^6-2]:
 [^6-8]: Introduite par le ch. I de l’O du 1<sup>er</sup> mai 2013, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1511](https://fedlex.data.admin.ch/eli/oc/2013/353)).
 [^6-9]: Introduite par le ch. I de l’O du 1<sup>er</sup> mai 2013, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1511](https://fedlex.data.admin.ch/eli/oc/2013/353)).
 [^6-10]: Introduite par le ch. I de l’O du 1<sup>er</sup> mai 2013 ([RO 2013 1511](https://fedlex.data.admin.ch/eli/oc/2013/353)). Nouvelle teneur selon le ch. I de l’O du 24 oct. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 4007](https://fedlex.data.admin.ch/eli/oc/2018/646)).
+[^6-11]: Introduite par l’annexe ch. II 1 de l’O du 27 mai 2026, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2026 309](https://fedlex.data.admin.ch/eli/oc/2026/309)).
 
 #### Art. 7
 
@@ -250,7 +252,7 @@ Les employeurs peuvent réduire ce montant:
 La durée de vacances minimale est régie par les art. 329 ss du code des obligations[^8-2].
 
 [^8-1]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> mai 2013, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1511](https://fedlex.data.admin.ch/eli/oc/2013/353)).
-[^8-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^8-2]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 9
 
@@ -273,7 +275,7 @@ La durée de vacances minimale est régie par les art. 329 ss du code des obliga
 
 [^9-1]: Nouvelle teneur selon le ch. I 1 de l’O du 10 juin 2005 portant introduction de l’allocation de maternité dans la législation sur le personnel de la Confédération, en vigueur depuis le 1<sup>er</sup> juil. 2005 ([RO 2005 2479](https://fedlex.data.admin.ch/eli/oc/2005/423)).
 [^9-2]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> mai 2013, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1511](https://fedlex.data.admin.ch/eli/oc/2013/353)).
-[^9-3]: [RS 834.1](https://fedlex.data.admin.ch/eli/cc/1952/1021_1046_1050)
+[^9-3]: [RS 834.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10262)
 [^9-4]: Introduit par le ch. I de l’O du 1<sup>er</sup> mai 2013, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1511](https://fedlex.data.admin.ch/eli/oc/2013/353)).
 [^9-5]: Introduit par le ch. I de l’O du 1<sup>er</sup> mai 2013, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1511](https://fedlex.data.admin.ch/eli/oc/2013/353)).
 
@@ -298,7 +300,7 @@ L’allocation familiale et les allocations complémentaires correspondent ensem
 <sup>4</sup> Le droit aux allocations complémentaires s’éteint en même temps que le droit à l’allocation familiale.
 
 [^10-1]: Nouvelle teneur selon l’annexe ch. 1 de l’O du 31 oct. 2007 sur les allocations familiales, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 145](https://fedlex.data.admin.ch/eli/oc/2008/52)).
-[^10-2]: [RS 836.2](https://fedlex.data.admin.ch/eli/cc/2008/51)
+[^10-2]: [RS 836.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10277)
 [^10-3]: Nouvelle teneur selon le ch. I de l’O du 18 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5393](https://fedlex.data.admin.ch/eli/oc/2020/935)).
 
 #### Art. 11

@@ -3,11 +3,11 @@ sr: "172.220.11"
 title: Rahmenverordnung vom 20. Dezember 2000 zum Bundespersonalgesetz (Rahmenverordnung BPG)
 eli: "https://fedlex.data.admin.ch/eli/cc/2001/124"
 language: de
-version: 2022-01-01
+version: 2026-07-01
 adopted: 2000-12-20
 in_force: 2001-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/124/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2001-124-20220101-de-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2001/124/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/124/20260701/de/xml/fedlex-data-admin-ch-eli-cc-2001-124-20260701-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2001/124/20260701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2001/124/20220101/de"
 
 (Rahmenverordnung BPG)
 
-vom 20. Dezember 2000 (Stand am 1. Januar 2022)
+vom 20. Dezember 2000 (Stand am 1. Juli 2026)
 
 Der Schweizerische Bundesrat,
 
@@ -24,7 +24,7 @@ gestützt auf die Artikel 32*e* Absatz 3 und 37 des Bundespersonalgesetzes vom 2
 
 verordnet:
 
-[^ingress-1]: [SR 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
+[^ingress-1]: [SR 172.220.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5345)
 [^ingress-2]: Fassung gemäss Anhang Ziff. 3 der V vom 2. Mai 2007 über das paritätische Organ des Vorsorgewerks Bund, in Kraft seit 1. Mai 2007 ([AS 2007 2235](https://fedlex.data.admin.ch/eli/oc/2007/312)).
 
 #### Art. 1
@@ -181,7 +181,7 @@ Die SBB können insbesondere das folgende Personal dem Obligationenrecht unterst
 
 <sup>4</sup> …[^5-8]
 
-[^5-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^5-1]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 [^5-2]: Fassung gemäss Ziff. I der V vom 3. Dez. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 842](https://fedlex.data.admin.ch/eli/oc/2021/842)).
 [^5-3]: Aufgehoben durch Ziff. I der V vom 1. Mai 2013, mit Wirkung seit 1. Juli 2013 ([AS 2013 1511](https://fedlex.data.admin.ch/eli/oc/2013/353)).
 [^5-4]: Fassung gemäss Anhang Ziff. 1 der Postorganisationsverordnung vom 24. Okt. 2012, in Kraft seit 1. Dez. 2012 ([AS 2012 6089](https://fedlex.data.admin.ch/eli/oc/2012/721)).
@@ -211,7 +211,8 @@ Artikel 9 BPG über die Befristung der Arbeitsverhältnisse gilt nicht für:[^6-
 - d.[^6-7] die Zeitmilitärs; das befristete Arbeitsverhältnis kann bis zu einer Maximaldauer von fünf Jahren verlängert werden;
 - e.[^6-8] die Zeitmilitärs in der Funktion Spitzensportler oder Spitzensportlerin; das befristete Arbeitsverhältnis kann bis zu einer Maximaldauer von zehn Jahren verlängert werden;
 - f.[^6-9] das Personal, das für die Friedensförderung, die Stärkung der Menschenrechte, die humanitäre Hilfe und die Ausbildung von ausländischen Truppen im Ausland eingesetzt wird; das befristete Arbeitsverhältnis kann bis zu einer Maximaldauer von zehn Jahren verlängert werden;
-- g.[^6-10] das übrige im Ausland eingesetzte Personal der Departemente und der Bundeskanzlei; das befristete Arbeitsverhältnis kann bis zu einer Maximaldauer von fünf Jahren verlängert werden.
+- g.[^6-10] das übrige im Ausland eingesetzte Personal der Departemente und der Bundeskanzlei; das befristete Arbeitsverhältnis kann bis zu einer Maximaldauer von fünf Jahren verlängert werden;
+- h.[^6-11] die Angestellten des Staatssekretariats für Migration, deren Stellen mit zeitlich befristeten Mitteln finanziert werden; das befristete Arbeitsverhältnis kann bis zu einer Maximaldauer von sechs Jahren verlängert werden.
 
 <sup>2</sup> Die Arbeitgeber führen über die Arbeitsverhältnisse nach Absatz 1 eine Liste. Sie erstatten über die Arbeitsverhältnisse nach Absatz 1 Bericht nach Artikel 4.
 
@@ -225,6 +226,7 @@ Artikel 9 BPG über die Befristung der Arbeitsverhältnisse gilt nicht für:[^6-
 [^6-8]: Eingefügt durch Ziff. I der V vom 1. Mai 2013, in Kraft seit 1. Juli 2013 ([AS 2013 1511](https://fedlex.data.admin.ch/eli/oc/2013/353)).
 [^6-9]: Eingefügt durch Ziff. I der V vom 1. Mai 2013, in Kraft seit 1. Juli 2013 ([AS 2013 1511](https://fedlex.data.admin.ch/eli/oc/2013/353)).
 [^6-10]: Eingefügt durch Ziff. I der V vom 1. Mai 2013 ([AS 2013 1511](https://fedlex.data.admin.ch/eli/oc/2013/353)). Fassung gemäss Ziff. I der V vom 24. Okt. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 4007](https://fedlex.data.admin.ch/eli/oc/2018/646)).
+[^6-11]: Eingefügt durch Anhang Ziff. II 1 der V vom 27. Mai 2026, in Kraft seit 1. Juli 2026 ([AS 2026 309](https://fedlex.data.admin.ch/eli/oc/2026/309)).
 
 #### Art. 7
 
@@ -250,7 +252,7 @@ Die Arbeitgeber können diesen Betrag wie folgt kürzen:
 Der Mindestanspruch auf Ferien richtet sich nach den Artikeln 329 ff. des Obligationenrechts[^8-2].
 
 [^8-1]: Fassung gemäss Ziff. I der V vom 1. Mai 2013, in Kraft seit 1. Juli 2013 ([AS 2013 1511](https://fedlex.data.admin.ch/eli/oc/2013/353)).
-[^8-2]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^8-2]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 9
 
@@ -276,7 +278,7 @@ Bei der Geburt eines Kindes erhält die Arbeitnehmerin einen bezahlten oder teil
 [^9-1]: Fassung gemäss Ziff. I 1 der V vom 10. Juni 2005 über die Einführung der Mutterschaftsentschädigung im Bundespersonalrecht, in Kraft seit 1. Juli 2005 ([AS 2005 2479](https://fedlex.data.admin.ch/eli/oc/2005/423)).
 [^9-2]: Fassung gemäss Ziff. I der V vom 1. Mai 2013, in Kraft seit 1. Juli 2013 ([AS 2013 1511](https://fedlex.data.admin.ch/eli/oc/2013/353)).
 [^9-3]: Fassung gemäss Ziff. I der V vom 1. Mai 2013, in Kraft seit 1. Juli 2013 ([AS 2013 1511](https://fedlex.data.admin.ch/eli/oc/2013/353)).
-[^9-4]: [SR 834.1](https://fedlex.data.admin.ch/eli/cc/1952/1021_1046_1050)
+[^9-4]: [SR 834.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10262)
 [^9-5]: Eingefügt durch Ziff. I der V vom 1. Mai 2013, in Kraft seit 1. Juli 2013 ([AS 2013 1511](https://fedlex.data.admin.ch/eli/oc/2013/353)).
 [^9-6]: Eingefügt durch Ziff. I der V vom 1. Mai 2013, in Kraft seit 1. Juli 2013 ([AS 2013 1511](https://fedlex.data.admin.ch/eli/oc/2013/353)).
 
@@ -299,7 +301,7 @@ Die Familienzulage und die ergänzenden Leistungen betragen zusammen pro Jahr mi
 <sup>4</sup> Der Anspruch auf ergänzende Leistungen erlischt mit dem Anspruch auf die Familienzulage.
 
 [^10-1]: Fassung gemäss Anhang Ziff. 1 der Familienzulagenverordnung vom 31. Okt. 2007, in Kraft seit 1. Jan. 2009 ([AS 2008 145](https://fedlex.data.admin.ch/eli/oc/2008/52)).
-[^10-2]: [SR 836.2](https://fedlex.data.admin.ch/eli/cc/2008/51)
+[^10-2]: [SR 836.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10277)
 [^10-3]: Fassung gemäss Ziff. I der V vom 18. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5393](https://fedlex.data.admin.ch/eli/oc/2020/935)).
 
 #### Art. 11

@@ -3,11 +3,11 @@ sr: "172.220.11"
 title: Ordinanza quadro del 20 dicembre 2000 relativa alla legge sul personale federale (Ordinanza quadro LPers)
 eli: "https://fedlex.data.admin.ch/eli/cc/2001/124"
 language: it
-version: 2022-01-01
+version: 2026-07-01
 adopted: 2000-12-20
 in_force: 2001-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/124/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2001-124-20220101-it-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2001/124/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/124/20260701/it/xml/fedlex-data-admin-ch-eli-cc-2001-124-20260701-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2001/124/20260701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2001/124/20220101/it"
 
 (Ordinanza quadro LPers)
 
-del 20 dicembre 2000 (Stato 1° gennaio 2022)
+del 20 dicembre 2000 (Stato 1° luglio 2026)
 
 Il Consiglio federale svizzero,
 
@@ -24,7 +24,7 @@ visti gli articoli 32*e* capoverso 3 e 37 della legge del 24 marzo 2000[^ingress
 
 ordina:
 
-[^ingress-1]: [RS 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
+[^ingress-1]: [RS 172.220.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5345)
 [^ingress-2]: Nuovo testo giusta l’all. n. 3 dell’O del 2 mag. 2007 concernente l’organo paritetico della cassa di previdenza della Confederazione, in vigore dal 1° mag. 2007 ([RU 2007 2235](https://fedlex.data.admin.ch/eli/oc/2007/312)).
 
 #### Art. 1
@@ -37,7 +37,7 @@ ordina:
 
 <sup>2</sup> Il campo di applicazione dell’ordinanza quadro LPers per quanto concerne il personale e l’estensione temporale si conforma alle disposizioni del Consiglio federale riguardanti l’entrata in vigore della LPers.[^1-2]
 
-[^1-1]: Nuovo testo giusta il n. I dell’O del 1° mag. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1511](https://fedlex.data.admin.ch/eli/oc/2013/353)).
+[^1-1]: Nuovo testo giusta la cifra I dell’O del 1° mag. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1511](https://fedlex.data.admin.ch/eli/oc/2013/353)).
 [^1-2]: Data dell’entrata in vigore per le FFS: 1° gen. 2001 (art. 1 cpv. 1 dell’O del 20 dic. 2000 – [RU 2001 917](https://fedlex.data.admin.ch/eli/oc/2001/125)), l’Amministrazione federale, le unità amministrative decentralizzate, le commissioni federali di ricorso e d’arbitraggio, il Tribunale federale, i Servizi del Parlamento e la Posta: 1° gen. 2002 (art. 1 cpv. 1 dell’O del 3 lug. 2001 – [RU 2001 2197](https://fedlex.data.admin.ch/eli/oc/2001/318)e del 21 nov. 2001 – [RU 2001 3292](https://fedlex.data.admin.ch/eli/oc/2001/489)).
 
 #### Art. 2
@@ -62,13 +62,13 @@ ordina:
 
 <sup>7</sup> ...[^2-7]
 
-[^2-1]: Nuovo testo giusta il n. II dell’O del 27 gen. 2016, in vigore dal 1° mar. 2016 ([RU 2016 575](https://fedlex.data.admin.ch/eli/oc/2016/108)).
-[^2-2]: Nuovo testo giusta il n. I dell’O del 19 ago. 2009, in vigore dal 1° gen. 2010 ([RU 2009 4289](https://fedlex.data.admin.ch/eli/oc/2009/526)).
-[^2-3]: Abrogato dal n. I dell’O del 1° mag. 2013, con effetto dal 1° lug. 2013 ([RU 2013 1511](https://fedlex.data.admin.ch/eli/oc/2013/353)).
+[^2-1]: Nuovo testo giusta la cifra II dell’O del 27 gen. 2016, in vigore dal 1° mar. 2016 ([RU 2016 575](https://fedlex.data.admin.ch/eli/oc/2016/108)).
+[^2-2]: Nuovo testo giusta la cifra I dell’O del 19 ago. 2009, in vigore dal 1° gen. 2010 ([RU 2009 4289](https://fedlex.data.admin.ch/eli/oc/2009/526)).
+[^2-3]: Abrogato dalla cifra I dell’O del 1° mag. 2013, con effetto dal 1° lug. 2013 ([RU 2013 1511](https://fedlex.data.admin.ch/eli/oc/2013/353)).
 [^2-4]: Introdotto dall’all. n. 2 all’O del 14 set. 2005 sull’IUFFP ([RU 2005 4607](https://fedlex.data.admin.ch/eli/oc/2005/600)). Nuovo testo giusta l’all n. 3 dell’O del 2 mag. 2007 concernente l’organo paritetico della cassa di previdenza della Confederazione, in vigore dal 1° mag. 2007 ([RU 2007 2235](https://fedlex.data.admin.ch/eli/oc/2007/312)).
 [^2-5]: Introdotto dall’all. n. 3 dell’O del 2 mag. 2007 concernente l’organo paritetico della cassa di previdenza della Confederazione, in vigore dal 1° mag. 2007 ([RU 2007 2235](https://fedlex.data.admin.ch/eli/oc/2007/312)).
 [^2-6]: Introdotto dall’all. n. 3 dell’O del 2 mag. 2007 concernente l’organo paritetico della cassa di previdenza della Confederazione, in vigore dal 1° mag. 2007 ([RU 2007 2235](https://fedlex.data.admin.ch/eli/oc/2007/312)).
-[^2-7]: Introdotto dall’all. n. 3 dell’O del 2 mag. 2007 concernente l’organo paritetico della cassa di previdenza della Confederazione ([RU 2007 2235](https://fedlex.data.admin.ch/eli/oc/2007/312)). Abrogato dall n. II dell’O del 27 gen. 2016, con effetto dal 1° mar. 2016 ([RU 2016 575](https://fedlex.data.admin.ch/eli/oc/2016/108)).
+[^2-7]: Introdotto dall’all. n. 3 dell’O del 2 mag. 2007 concernente l’organo paritetico della cassa di previdenza della Confederazione ([RU 2007 2235](https://fedlex.data.admin.ch/eli/oc/2007/312)). Abrogato dall cifra II dell’O del 27 gen. 2016, con effetto dal 1° mar. 2016 ([RU 2016 575](https://fedlex.data.admin.ch/eli/oc/2016/108)).
 
 #### Art. 2a
 
@@ -86,8 +86,8 @@ ordina:
 
 <sup>5</sup> Le indennità erogate ai membri dell’organo paritetico sono stabilite dalla Commissione della Cassa.
 
-[^2a-1]: Introdotto dal n. I dell’O del 19 ago. 2009, in vigore dal 1° gen. 2010 ([RU 2009 4289](https://fedlex.data.admin.ch/eli/oc/2009/526)).
-[^2a-2]: Nuovo testo giusta il n. I dell’O del 1° mag. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1511](https://fedlex.data.admin.ch/eli/oc/2013/353)).
+[^2a-1]: Introdotto dalla cifra I dell’O del 19 ago. 2009, in vigore dal 1° gen. 2010 ([RU 2009 4289](https://fedlex.data.admin.ch/eli/oc/2009/526)).
+[^2a-2]: Nuovo testo giusta la cifra I dell’O del 1° mag. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1511](https://fedlex.data.admin.ch/eli/oc/2013/353)).
 
 #### Art. 2b
 
@@ -103,7 +103,7 @@ ordina:
 
 <sup>4</sup> Le indennità erogate ai membri dell’organo paritetico sono stabilite dalla Commissione della Cassa di PUBLICA.
 
-[^2b-1]: Introdotto dal n. I dell’O del 30 set. 2009, in vigore dal 1° gen. 2010 ([RU 2009 5099](https://fedlex.data.admin.ch/eli/oc/2009/595)).
+[^2b-1]: Introdotto dalla cifra I dell’O del 30 set. 2009, in vigore dal 1° gen. 2010 ([RU 2009 5099](https://fedlex.data.admin.ch/eli/oc/2009/595)).
 
 #### Art. 3
 
@@ -153,8 +153,8 @@ Fanno rapporto:
 
 [^4-1]: Nuovo testo giusta l’all. n. 1 dell’O del 24 ott. 2012 sull’organizzazione della Posta Svizzera, in vigore dal 1° dic. 2012 ([RU 2012 6089](https://fedlex.data.admin.ch/eli/oc/2012/721)).
 [^4-2]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 16 cpv. 3 dell’O del 17 nov. 2004 sulle pubblicazioni ufficiali ([RU 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)), con effetto dal 1° gen. 2013.
-[^4-3]: Abrogata dal n. I dell’O del 1° mag. 2013, con effetto dal 1° lug. 2013 ([RU 2013 1511](https://fedlex.data.admin.ch/eli/oc/2013/353)).
-[^4-4]: Nuovo testo giusta il n. I dell’O del 1° mag. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1511](https://fedlex.data.admin.ch/eli/oc/2013/353)).
+[^4-3]: Abrogata dalla cifra I dell’O del 1° mag. 2013, con effetto dal 1° lug. 2013 ([RU 2013 1511](https://fedlex.data.admin.ch/eli/oc/2013/353)).
+[^4-4]: Nuovo testo giusta la cifra I dell’O del 1° mag. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1511](https://fedlex.data.admin.ch/eli/oc/2013/353)).
 
 #### Art. 5
 
@@ -181,13 +181,13 @@ Le FFS possono sottoporre in particolare il personale seguente al CO:[^5-5]
 
 <sup>4</sup> ...[^5-8]
 
-[^5-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
-[^5-2]: Nuovo testo giusta il n. I dell’O del 3 dic. 2021, in vigore dal 1° gen. 2022 ([RU 2021 842](https://fedlex.data.admin.ch/eli/oc/2021/842)).
-[^5-3]: Abrogato dal n. I dell’O del 1° mag. 2013, con effetto dal 1° lug. 2013 ([RU 2013 1511](https://fedlex.data.admin.ch/eli/oc/2013/353)).
+[^5-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
+[^5-2]: Nuovo testo giusta la cifra I dell’O del 3 dic. 2021, in vigore dal 1° gen. 2022 ([RU 2021 842](https://fedlex.data.admin.ch/eli/oc/2021/842)).
+[^5-3]: Abrogato dalla cifra I dell’O del 1° mag. 2013, con effetto dal 1° lug. 2013 ([RU 2013 1511](https://fedlex.data.admin.ch/eli/oc/2013/353)).
 [^5-4]: Nuovo testo giusta l’all. n. 1 dell’O del 24 ott. 2012 sull’organizzazione della Posta Svizzera, in vigore dal 1° dic. 2012 ([RU 2012 6089](https://fedlex.data.admin.ch/eli/oc/2012/721)).
 [^5-5]: Nuovo testo giusta l’all. n. 1 dell’O del 24 ott. 2012 sull’organizzazione della Posta Svizzera, in vigore dal 1° dic. 2012 ([RU 2012 6089](https://fedlex.data.admin.ch/eli/oc/2012/721)).
-[^5-6]: Introdotto dal n. I dell’O del 18 dic. 2002 ([RU 2003 240](https://fedlex.data.admin.ch/eli/oc/2003/37)). Nuovo testo giusta il n. I dell’O del 12 mag. 2010, in vigore dal 1° lug. 2010 ([RU 2010 2209](https://fedlex.data.admin.ch/eli/oc/2010/312)).
-[^5-7]: Introdotto dal n. I dell’O del 12 mag. 2010, in vigore dal 1° lug. 2010 ([RU 2010 2209](https://fedlex.data.admin.ch/eli/oc/2010/312)).
+[^5-6]: Introdotto dalla cifra I dell’O del 18 dic. 2002 ([RU 2003 240](https://fedlex.data.admin.ch/eli/oc/2003/37)). Nuovo testo giusta la cifra I dell’O del 12 mag. 2010, in vigore dal 1° lug. 2010 ([RU 2010 2209](https://fedlex.data.admin.ch/eli/oc/2010/312)).
+[^5-7]: Introdotto dalla cifra I dell’O del 12 mag. 2010, in vigore dal 1° lug. 2010 ([RU 2010 2209](https://fedlex.data.admin.ch/eli/oc/2010/312)).
 [^5-8]: Abrogato dall’art 5 cpv. 2 dell’O del 18 giu. 2021 sulla SUFFP, con effetto dal 1° gen. 2022 ([RU 2021 405](https://fedlex.data.admin.ch/eli/oc/2021/405)).
 
 #### Art. 6
@@ -211,20 +211,22 @@ L’articolo 9 LPers sui rapporti di lavoro di durata determinata non si applica
 - d.[^6-7] ai militari a contratto temporaneo; il rapporto di lavoro di durata determinata può essere prorogato fino ad un massimo di cinque anni;
 - e.[^6-8] ai militari a contratto temporaneo nella funzione di sportivi di punta; il rapporto di lavoro di durata determinata può essere prorogato fino ad un massimo di dieci anni;
 - f.[^6-9] al personale impiegato per la promozione civile della pace, il rafforzamento dei diritti dell’uomo, l’aiuto umanitario e l’istruzione di truppe straniere all’estero; il rapporto di lavoro di durata determinata può essere prorogato fino ad un massimo di dieci anni;
-- g.[^6-10] al rimanente personale dei dipartimenti e della Cancelleria federale impiegato all’estero; il rapporto di lavoro di durata determinata può essere prorogato fino a un massimo di cinque anni.
+- g.[^6-10] al rimanente personale dei dipartimenti e della Cancelleria federale impiegato all’estero; il rapporto di lavoro di durata determinata può essere prorogato fino a un massimo di cinque anni;
+- h.[^6-11] agli impiegati della Segreteria di Stato della migrazione che occupano posti il cui finanziamento è limitato nel tempo; il rapporto di lavoro di durata determinata può essere prorogato fino a un massimo di sei anni.
 
 <sup>2</sup> I datori di lavoro tengono un elenco dei rapporti di lavoro secondo il capoverso 1. Essi rendono conto di detti rapporti di lavoro secondo l’articolo 4.
 
-[^6-1]: Nuovo testo giusta il n. I dell’O del 1° mag. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1511](https://fedlex.data.admin.ch/eli/oc/2013/353)).
-[^6-2]: Nuovo testo giusta il n. I dell’O del 1° mag. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1511](https://fedlex.data.admin.ch/eli/oc/2013/353)).
+[^6-1]: Nuovo testo giusta la cifra I dell’O del 1° mag. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1511](https://fedlex.data.admin.ch/eli/oc/2013/353)).
+[^6-2]: Nuovo testo giusta la cifra I dell’O del 1° mag. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1511](https://fedlex.data.admin.ch/eli/oc/2013/353)).
 [^6-3]: Introdotta dall’art. 15 cpv. 2 dell’O del 6 set. 2017 concernente l’Accademia militare presso il Politecnico federale di Zurigo e la formazione degli ufficiali di professione, in vigore dal 1° ott. 2017 ([RU 2017 4877](https://fedlex.data.admin.ch/eli/oc/2017/532)).
-[^6-4]: Introdotta dal n. I dell’O del 1° mag. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1511](https://fedlex.data.admin.ch/eli/oc/2013/353)).
-[^6-5]: Introdotta dal n. I dell’O del 18 giu. 2010, in vigore dal 1° ago. 2010 ([RU 2010 2819](https://fedlex.data.admin.ch/eli/oc/2010/367)).
-[^6-6]: Introdotta dal n. I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5393](https://fedlex.data.admin.ch/eli/oc/2020/935)).
-[^6-7]: Introdotta dal n. I dell’O del 1° mag. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1511](https://fedlex.data.admin.ch/eli/oc/2013/353)).
-[^6-8]: Introdotta dal n. I dell’O del 1° mag. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1511](https://fedlex.data.admin.ch/eli/oc/2013/353)).
-[^6-9]: Introdotta dal n. I dell’O del 1° mag. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1511](https://fedlex.data.admin.ch/eli/oc/2013/353)).
-[^6-10]: Introdotta dal n. I dell’O del 1° mag. 2013 ([RU 2013 1511](https://fedlex.data.admin.ch/eli/oc/2013/353)). Nuovo testo giusta il n. I dell’O del 24 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4007](https://fedlex.data.admin.ch/eli/oc/2018/646)).
+[^6-4]: Introdotta dalla cifra I dell’O del 1° mag. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1511](https://fedlex.data.admin.ch/eli/oc/2013/353)).
+[^6-5]: Introdotta dalla cifra I dell’O del 18 giu. 2010, in vigore dal 1° ago. 2010 ([RU 2010 2819](https://fedlex.data.admin.ch/eli/oc/2010/367)).
+[^6-6]: Introdotta dalla cifra I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5393](https://fedlex.data.admin.ch/eli/oc/2020/935)).
+[^6-7]: Introdotta dalla cifra I dell’O del 1° mag. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1511](https://fedlex.data.admin.ch/eli/oc/2013/353)).
+[^6-8]: Introdotta dalla cifra I dell’O del 1° mag. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1511](https://fedlex.data.admin.ch/eli/oc/2013/353)).
+[^6-9]: Introdotta dalla cifra I dell’O del 1° mag. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1511](https://fedlex.data.admin.ch/eli/oc/2013/353)).
+[^6-10]: Introdotta dalla cifra I dell’O del 1° mag. 2013 ([RU 2013 1511](https://fedlex.data.admin.ch/eli/oc/2013/353)). Nuovo testo giusta la cifra I dell’O del 24 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4007](https://fedlex.data.admin.ch/eli/oc/2018/646)).
+[^6-11]: Introdotta dall’all. cifra II n. 1 dell’O del 27 mag. 2026, in vigore dal 1° lug. 2026 ([RU 2026 309](https://fedlex.data.admin.ch/eli/oc/2026/309)).
 
 #### Art. 7
 
@@ -249,8 +251,8 @@ I datori di lavoro possono ridurre questo ammontare come segue:
 
 La durata minima delle vacanze è disciplinata dagli articoli 329 e seguenti del CO[^8-2].
 
-[^8-1]: Nuovo testo giusta il n. I dell’O del 1° mag. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1511](https://fedlex.data.admin.ch/eli/oc/2013/353)).
-[^8-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^8-1]: Nuovo testo giusta la cifra I dell’O del 1° mag. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1511](https://fedlex.data.admin.ch/eli/oc/2013/353)).
+[^8-2]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 9
 
@@ -271,11 +273,11 @@ Alla nascita del figlio, l’impiegata beneficia di un congedo pagato o parzialm
 
 <sup>4</sup> In caso di interruzione del lavoro dovuta ad accoglimento di bambini in tenera età per curarli ed educarli in vista di un’adozione futura è accordato un congedo pagato di almeno cinque giorni lavorativi.[^9-5]
 
-[^9-1]: Nuovo testo giusta il n. I 1 dell’O del 10 giu. 2005 concernente l’introduzione dell’indennità di maternità nella legislazione sul personale federale, in vigore dal 1° lug. 2005 ([RU 2005 2479](https://fedlex.data.admin.ch/eli/oc/2005/423)).
-[^9-2]: Nuovo testo giusta il n. I dell’O del 1° mag. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1511](https://fedlex.data.admin.ch/eli/oc/2013/353)).
-[^9-3]: [RS 834.1](https://fedlex.data.admin.ch/eli/cc/1952/1021_1046_1050)
-[^9-4]: Introdotto dal n. I dell’O del 1° mag. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1511](https://fedlex.data.admin.ch/eli/oc/2013/353)).
-[^9-5]: Introdotto dal n. I dell’O del 1° mag. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1511](https://fedlex.data.admin.ch/eli/oc/2013/353)).
+[^9-1]: Nuovo testo giusta la cifra I n. 1 dell’O del 10 giu. 2005 concernente l’introduzione dell’indennità di maternità nella legislazione sul personale federale, in vigore dal 1° lug. 2005 ([RU 2005 2479](https://fedlex.data.admin.ch/eli/oc/2005/423)).
+[^9-2]: Nuovo testo giusta la cifra I dell’O del 1° mag. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1511](https://fedlex.data.admin.ch/eli/oc/2013/353)).
+[^9-3]: [RS 834.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10262)
+[^9-4]: Introdotto dalla cifra I dell’O del 1° mag. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1511](https://fedlex.data.admin.ch/eli/oc/2013/353)).
+[^9-5]: Introdotto dalla cifra I dell’O del 1° mag. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1511](https://fedlex.data.admin.ch/eli/oc/2013/353)).
 
 #### Art. 10
 
@@ -296,8 +298,8 @@ L’importo annuo dell’assegno familiare, sommato alle prestazioni integrative
 <sup>4</sup> Il diritto alle prestazioni integrative cessa con l’estinzione del diritto all’assegno familiare.
 
 [^10-1]: Nuovo testo giusta l’all. n. 1 dell’O del 31 ott. 2007 sugli assegni familiari, in vigore dal 1° gen. 2009, in vigore dal 1° gen. 2009 ([RU 2008 145](https://fedlex.data.admin.ch/eli/oc/2008/52)).
-[^10-2]: [RS 836.2](https://fedlex.data.admin.ch/eli/cc/2008/51)
-[^10-3]: Nuovo testo giusta il n. I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5393](https://fedlex.data.admin.ch/eli/oc/2020/935)).
+[^10-2]: [RS 836.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10277)
+[^10-3]: Nuovo testo giusta la cifra I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5393](https://fedlex.data.admin.ch/eli/oc/2020/935)).
 
 #### Art. 11
 
