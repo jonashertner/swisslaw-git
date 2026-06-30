@@ -3,20 +3,19 @@ canton: SO
 number: "435.141"
 title: Verordnung über den Natur- und Heimatschutz
 language: de
-version: 2023-01-01
-valid_until: 2026-06-30
-version_adopted: 2022-09-13
+version: 2026-07-01
+version_adopted: 2026-04-28
 adopted: 1980-11-14
 in_force: 1981-01-29
 url: "https://bgs.so.ch/app/de/texts_of_law/435.141"
-pdf: "https://bgs.so.ch/api/de/versions/5281/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5649/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über den Natur- und Heimatschutz
 
-Vom 14.11.1980 (Stand 01.01.2023)
+Vom 14.11.1980 (Stand 01.07.2026)
 
 Der Regierungsrat des Kantons Solothurn
 
@@ -280,6 +279,16 @@ beschliesst:
 <sup>1</sup> Materialien, welche durch ihre Farbe, Struktur oder Beschaffenheit störend wirken, sind nicht zu verwenden.
 
 <sup>2</sup> Die Farbe ist auf die Umgebung abzustimmen und hat sich harmonisch in die Landschaft einzufügen. In der Regel sind für Fassaden erd- oder holzfarbene Töne, für Bedachungen je nach Situation ziegelfarbene oder rotbraune Töne zu wählen.
+
+<sup>3</sup> Vorbehalten bleibt § 26<sup>bis</sup>.
+
+#### § 26bis
+
+**d) Solaranlagen**
+
+<sup>1</sup> Solaranlagen an und auf Gebäuden müssen genügend angepasst im Sinne der Bundesgesetzgebung über die Raumplanung[^26bis-1] sein.
+
+[^26bis-1]: SR [700](https://db.clex.ch/link/Bund/700/de) und SR [700.1](https://db.clex.ch/link/Bund/700.1/de).
 
 #### § 27
 
