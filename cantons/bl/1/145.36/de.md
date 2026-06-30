@@ -3,20 +3,19 @@ canton: BL
 number: "145.36"
 title: Verordnung über die Gebühren und besonderen Abgaben der Motorfahrzeugkontrolle
 language: de
-version: 2020-08-01
-valid_until: 2026-06-30
-version_adopted: 2020-06-16
+version: 2026-07-01
+version_adopted: 2026-03-17
 adopted: 2004-12-07
 in_force: 2005-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/145.36"
-pdf: "https://bl.clex.ch/api/de/versions/2681/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/4479/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die Gebühren und besonderen Abgaben der Motorfahrzeugkontrolle
 
-Vom 07.12.2004 (Stand 01.08.2020)
+Vom 07.12.2004 (Stand 01.07.2026)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -46,12 +45,12 @@ beschliesst:
 
 <sup>1</sup> Die Gebühren betragen für:
 
-- a. Fahrzeugausweise aller Kategorien — CHF 45.–;
-- b. Fahrzeugausweise für Ersatzfahrzeuge — CHF 45.–;
+- a. Fahrzeugausweise aller Kategorien — CHF 52.–;
+- b. Fahrzeugausweise für Ersatzfahrzeuge — CHF 52.–;
 - c. Fahrzeugausweise für Motorfahrräder (einschliesslich Kontrollschild) — CHF 35.–;
 - d. Tagesausweise (ohne Versicherungsprämie) — CHF 55.–;
-- e. Duplikate eines Fahrzeugausweises — CHF 30.–;
-- f. Duplikate eines Fahrzeugausweises für Motorfahrräder — CHF 30.–.
+- e. Duplikate eines Fahrzeugausweises — CHF 52.–;
+- f. Duplikate eines Fahrzeugausweises für Motorfahrräder — CHF 35.–.
 
 #### § 3
 
@@ -60,7 +59,7 @@ beschliesst:
 <sup>1</sup> Die Gebühren und die besondere Abgabe für die Übertragung von Kontrollschildern betragen für:
 
 - a. die leihweise Abgabe einzelner Kontrollschilder für Motorfahrzeuge, Motorräder, Kleinmotorräder, landwirtschaftliche Fahrzeuge und Anhänger — CHF 30.–;
-- b. die leihweise Abgabe eines Kontrollschilderpaars für Motorfahrzeuge — CHF 35.–;
+- b. die leihweise Abgabe eines Kontrollschilderpaars für Motorfahrzeuge — CHF 40.–;
 - c. den Verkauf einzelner befristeter Kontrollschilder für Motorfahrzeuge, Motorräder, Kleinmotorräder, landwirtschaftliche Fahrzeuge und Anhänger — CHF 35.–;
 - d. den Verkauf eines befristeten Kontrollschilderpaars — CHF 55.–;
 - e. die Wiedereinlösung deponierter Kontrollschilder (pro Schild) — CHF 20.–;
@@ -86,20 +85,29 @@ beschliesst:
   - 2\. BL 10 - 99 — CHF 3'000.–;
   - 3\. BL 100 - 999 — CHF 2'000.–;
   - 4\. BL 1'000 - 9'999 — CHF 1'000.–;
-  - 5\. BL 10'000 - 99'999 — CHF 240.–;
-  - 6\. Zuteilung von 6-stelligen Wunschkontrollschildern — CHF 200.–.
+  - 5\. BL 10'000 - 99'999 — CHF 252.–;
+  - 6\. Zuteilung von 6-stelligen Wunschkontrollschildern — CHF 212.–.
 - b. Motorräder:
   - 1\. BL 1 - 9 — CHF 2'000.–;
   - 2\. BL 10 - 99 — CHF 1'500.–;
   - 3\. BL 100 - 999 — CHF 500.–;
-  - 4\. BL 1'000 - 9'999 — CHF 200.–;
-  - 5\. Zuteilung eines 5-stelligen Wunschkontrollschilds: — CHF 200.–.
+  - 4\. BL 1'000 - 9'999 — CHF 207.–;
+  - 5\. Zuteilung eines 5-stelligen Wunschkontrollschilds — CHF 207.–.
 
 <sup>2</sup> In den Ansätzen gemäss Abs. 1 sind die Gebühren für den Fahrzeugausweis und die Kontrollschilder eingeschlossen.
 
 <sup>3</sup> Die Ansätze gemäss Abs. 1 verstehen sich vorbehältlich einer Versteigerung der Kontrollschilder.
 
+<sup>4</sup> Bei Abbruch eines Wunschkontrollschilderkaufs gemäss § 14 SVG BL[^4-2] fallen folgende aufwandunabhängigen besonderen Abgaben an:
+
+- a. Rücktritt (Verkauf ohne Versteigerung) — CHF 250.–;
+- b. Nichtbezahlung nach Ersteigerung
+  - 1\. Ersteigerungsbetrag bis CHF 999.– — CHF 250.–;
+  - 2\. Ersteigerungsbetrag von CHF 1'000.– bis CHF 9'999.– — CHF 350.–;
+  - 3\. Ersteigerungsbetrag ab 10'000 CHF — CHF 500.–.
+
 [^4-1]: [SGS 481](https://bl.clex.ch/data/481/de/art14)
+[^4-2]: [SGS 481](https://bl.clex.ch/data/481/de/art14)
 
 #### § 5
 
@@ -118,9 +126,9 @@ beschliesst:
 
 <sup>1</sup> Weitere Gebühren betragen für:
 
-- a. generelle Ersatzfahrzeugbewilligungen — CHF 40.–;
-- b. Nachträge und Ergänzungen im Fahrzeugausweis — CHF 30.–;
-- c. Versicherungswechsel — CHF 30.–;
+- a. generelle Ersatzfahrzeugbewilligungen — CHF 150.–;
+- b. Nachträge und Ergänzungen im Fahrzeugausweis — CHF 35.–;
+- c. Versicherungswechsel — CHF 35.–;
 - d. …
 - e. …
 - f. Jahresvignetten für Motorfahrräder (ohne Versicherungsprämie) — CHF 25.–;
@@ -138,13 +146,13 @@ beschliesst:
 
 <sup>1</sup> Die Gebühren betragen für:
 
-- a. Lernfahrausweise aller Kategorien — CHF 25.–;
-- b. Duplikate eines Lernfahrausweises — CHF 25.–;
-- c. Nachträge und Ergänzungen in Lernfahrausweisen — CHF 25.–.
+- a. Lernfahrausweise aller Kategorien — CHF 30.–;
+- b. Duplikate eines Lernfahrausweises — CHF 30.–;
+- c. Nachträge und Ergänzungen in Lernfahrausweisen — CHF 30.–.
 
 <sup>2</sup> Die Gebühren betragen für:
 
-- a. die Gesuchsbehandlung um Erteilung eines Lernfahr- und Führerausweises aller Kategorien — CHF 25.–;
+- a. die Gesuchsbehandlung um Erteilung eines Lernfahr- und Führerausweises aller Kategorien — CHF 35.–;
 - a.<sup>bis</sup> …
 - b. …
 - c. die Gesuchsbehandlung um Erteilung einer Ausbildungsbewilligung für LKW-Lehrlinge — CHF 35.–.
@@ -155,10 +163,10 @@ beschliesst:
 
 <sup>1</sup> Die Gebühren betragen für:
 
-- a. die Ausstellung eines Führerausweises im Kreditkartenformat sowie Nachträge und / oder Ergänzungen eines Führerausweises im Kreditkartenformat (FAK) — CHF 35.–;
+- a. die Ausstellung eines Führerausweises im Kreditkartenformat sowie Nachträge und/oder Ergänzungen eines Führerausweises im Kreditkartenformat (FAK) — CHF 42.–;
 - b. …
 - c. …
-- d. internationale Führerausweise — CHF 35.–.
+- d. internationale Führerausweise — CHF 45.–.
 
 <sup>2</sup> …
 
@@ -185,12 +193,12 @@ beschliesst:
 - d. die Parkierungsbewilligung für Gehbehinderte und Behindertentransporte — CHF 0.– (kostenlos);
 - e. die Aufforderung zur Änderung der Adressen in Ausweisen — CHF 30.–;
 - f. die polizeiliche Zustellung von Verfügungen — CHF 370.–;
-- g. Fotokopien (bis 3 Stück) — CHF 3.–;
-- h. die schriftliche Abgabe von 1 bis 5 Adressen — CHF 5.–;
-- i. die schriftliche Abgabe von 6 und mehr Adressen (pro Adresse) — CHF 0.50;
-- k. Telefon- und Faxspesen — CHF 6.–;
+- g. …
+- h. die schriftliche Halterauskunft (pro Auskunft) — CHF 15.–;
+- i. …
+- k. …
 - l. die Einleitung des Betreibungsverfahrens wegen Nichtbezahlung von Verkehrsabgaben und/oder Gebühren der MFK — CHF 55.–;
-- m. den Versand einer Mahnung — CHF 20.–;
+- m. den Versand einer Mahnung — CHF 25.–;
 - n. die Auslandsüberweisung — CHF 15.–;
 - o. …
 - p. …
@@ -215,20 +223,20 @@ beschliesst:
 
 <sup>1</sup> Verfügungen über den Entzug der Kontrollschilder und des Fahrzeugausweises aufgrund:
 
-- a. Nichterfüllung der gesetzlichen Voraussetzungen (Verfahren gemäss Art. 16 Abs. 1 und 4 SVG[^10-1]) — CHF 140.–;
-- b. Annullation ohne Ausserverkehrsetzung (Verfahren gemäss Art. 74 Abs. 5 VZV[^10-2]) — CHF 140.–;
-- c. Verlust von Kontrollschildern (Verfahren gemäss Art. 87 Abs. 2 VZV[^10-3]) — CHF 140.–;
-- d. Aufforderung zur Fahrzeugvorführung (Verfahren gemäss Art. 106 VZV[^10-4]) — CHF 140.–;
-- e. Versicherungskündigung (Verfahren gemäss Art. 7 VVV[^10-5]) — CHF 140.–;
-- f. Nichterfüllung der Bedingungen betreffend Tagesausweise (Verfahren gemäss Art. 20 Abs. 6 VVV[^10-6]) — CHF 140.–.
+- a. Nichterfüllung der gesetzlichen Voraussetzungen (Verfahren gemäss Art. 16 Abs. 1 und 4 SVG[^10-1]) — CHF 145.–;
+- b. Annullation ohne Ausserverkehrsetzung (Verfahren gemäss Art. 74 Abs. 5 VZV[^10-2]) — CHF 145.–;
+- c. Verlust von Kontrollschildern (Verfahren gemäss Art. 87 Abs. 2 VZV[^10-3]) — CHF 145.–;
+- d. Aufforderung zur Fahrzeugvorführung (Verfahren gemäss Art. 106 VZV[^10-4]) — CHF 145.–;
+- e. Versicherungskündigung (Verfahren gemäss Art. 7 VVV[^10-5]) — CHF 145.–;
+- f. Nichterfüllung der Bedingungen betreffend Tagesausweise (Verfahren gemäss Art. 20 Abs. 6 VVV[^10-6]) — CHF 145.–.
 
 <sup>2</sup> Weitere Verfügungen:
 
-- a. Verfügungen über den Entzug von Kollektiv-Fahrzeugausweisen (Art. 23a Abs. 1 und 2 VVV[^10-7]) — CHF 140.–;
-- b. Verfügungen über die Verweigerung des Umschriebs eines ungültigen ausländischen Führerausweises in einen schweizerischen (Art. 45 VZV[^10-8]) — CHF 140.–;
-- c. berufliche Weiterbildung der Fahrlehrer (Verfügungen gemäss Art. 27 FV[^10-9]) — CHF 140.–;
+- a. Verfügungen über den Entzug von Kollektiv-Fahrzeugausweisen (Art. 23a Abs. 1 und 2 VVV[^10-7]) — CHF 145.–;
+- b. Verfügungen über die Verweigerung des Umschriebs eines ungültigen ausländischen Führerausweises in einen schweizerischen (Art. 45 VZV[^10-8]) — CHF 145.–;
+- c. berufliche Weiterbildung der Fahrlehrer (Verfügungen gemäss Art. 27 FV[^10-9]) — CHF 145.–;
 - d. Verfügungen auf Verlangen (Feststellungsverfügungen) — CHF 200–400.–;
-- e. Ausnahmebewilligung für Weiterbildungskurse (Verfügung gemäss Art. 150 Abs. 6 VZV[^10-10]) — CHF 140.–.
+- e. Ausnahmebewilligung für Weiterbildungskurse (Verfügung gemäss Art. 150 Abs. 6 VZV[^10-10]) — CHF 145.–.
 
 <sup>3</sup> Wird an Stelle einer Verfügung gemäss den Absätzen 1 und 2 eine Verwarnung ausgesprochen, beträgt die Gebühr CHF 40.
 
