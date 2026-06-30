@@ -4,11 +4,11 @@ title: Ordinanza del 4 maggio 2022 relativa ai dispositivi medico-diagnostici in
 short: ODIV
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/291"
 language: it
-version: 2025-01-01
+version: 2026-07-01
 adopted: 2022-05-04
 in_force: 2022-05-26
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/291/20250101/it/xml/fedlex-data-admin-ch-eli-cc-2022-291-20250101-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/291/20250101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/291/20260701/it/xml/fedlex-data-admin-ch-eli-cc-2022-291-20260701-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/291/20260701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2022/291/20250101/it"
 
 (ODIV)
 
-del 4 maggio 2022 (Stato 1° gennaio 2025)
+del 4 maggio 2022 (Stato 1° luglio 2026)
 
 Il Consiglio federale svizzero
 
@@ -25,12 +25,12 @@ vista la legge del 15 dicembre 2000[^ingress-1] sugli agenti terapeutici (LATer)
 
 ordina:
 
-[^ingress-1]: [RS 812.21](https://fedlex.data.admin.ch/eli/cc/2001/422)
-[^ingress-2]: [RS 734.0](https://fedlex.data.admin.ch/eli/cc/19/259_252_257)
-[^ingress-3]: [RS 941.20](https://fedlex.data.admin.ch/eli/cc/2012/734)
-[^ingress-4]: [RS 930.11](https://fedlex.data.admin.ch/eli/cc/2010/347)
-[^ingress-5]: [RS 814.50](https://fedlex.data.admin.ch/eli/cc/1994/1933_1933_1933)
-[^ingress-6]: [RS 946.51](https://fedlex.data.admin.ch/eli/cc/1996/1725_1725_1725)
+[^ingress-1]: [RS 812.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9354)
+[^ingress-2]: [RS 734.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8570)
+[^ingress-3]: [RS 941.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11170)
+[^ingress-4]: [RS 930.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11020)
+[^ingress-5]: [RS 814.50](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9533)
+[^ingress-6]: [RS 946.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11467)
 
 ## Capitolo 1: Disposizioni generali
 
@@ -44,7 +44,7 @@ ordina:
 
 <sup>2</sup> Per i dispositivi che, al momento dell’immissione in commercio o della messa in servizio, incorporano come parte integrante un dispositivo medico di cui all’articolo 3 capoversi 1 e 2 dell’ordinanza del 1° luglio 2020[^1-1] relativa ai dispositivi medici (ODmed), la presente ordinanza si applica unicamente alla parte che costituisce il dispositivo medico-diagnostico in vitro.
 
-[^1-1]: [RS 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
+[^1-1]: [RS 812.213](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9371)
 
 #### Art. 2
 
@@ -89,7 +89,7 @@ Un *accessorio di un dispositivo medico-diagnostico in vitro* è un articolo che
 - a. per permettere in particolare che questi ultimi siano impiegati conformemente alla loro destinazione d’uso; oppure
 - b. per assistere specificamente e direttamente la funzionalità sul piano medico dei dispositivi medico-diagnostici in vitro in relazione alla loro destinazione d’uso.
 
-[^3-1]: [RS 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
+[^3-1]: [RS 812.213](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9371)
 
 #### Art. 4
 
@@ -147,7 +147,7 @@ Nella presente ordinanza si intende per:
 <sup>5</sup> Le specifiche comuni di cui al capoverso 3 devono essere adempiute a meno che il fabbricante non possa adeguatamente dimostrare che le soluzioni da lui adottate garantiscono il livello di sicurezza e prestazione in modo equivalente.
 
 [^6-1]: Cfr. nota a piè di pagina relativa all’art. 4 cpv. 1 lett. e.
-[^6-2]: [RS 812.211](https://fedlex.data.admin.ch/eli/cc/2001/442)
+[^6-2]: [RS 812.211](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9355)
 
 #### Art. 7
 
@@ -175,7 +175,7 @@ Un dispositivo si considera offerto mediante i servizi della società dell’inf
 
 I dispositivi che sono anche macchine ai sensi dell’articolo 1 dell’ordinanza del 2 aprile 2008[^8-1] sulle macchine devono essere conformi ai pertinenti requisiti essenziali di sicurezza e di tutela della salute dell’ordinanza sulle macchine, purché tali requisiti siano più specifici di quelli di cui all’allegato I capo II UE-IVDR[^8-2].
 
-[^8-1]: [RS 819.14](https://fedlex.data.admin.ch/eli/cc/2008/263)
+[^8-1]: [RS 819.14](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9850)
 [^8-2]: Cfr. nota a piè di pagina relativa all’art. 4 cpv. 1 lett. e.
 
 #### Art. 9
@@ -233,7 +233,7 @@ Non è permesso apporre un marchio di conformità su:
 <sup>3</sup> I dispositivi la cui conformità deve essere valutata da un organismo di valutazione della conformità, designato conformemente alla presente ordinanza o riconosciuto nell’ambito di un accordo internazionale (organismo designato), devono recare, oltre al marchio di conformità, il numero d’identificazione di tale organismo.
 
 [^12-1]: Cfr. nota a piè di pagina relativa all’art. 4 cpv. 1 lett. e.
-[^12-2]: [RS 810.306](https://fedlex.data.admin.ch/eli/cc/2020/553)
+[^12-2]: [RS 810.306](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9251)
 
 #### Art. 13
 
@@ -304,12 +304,12 @@ L’informazione sul dispositivo può limitarsi a meno di tre lingue ufficiali o
 
 <sup>4</sup> Gli obblighi e le modalità connessi all’identificazione e alla registrazione dei dispositivi sono retti dagli articoli 24, 26 e dall’allegato VI UE-IVDR, tenendo conto delle modifiche a tale allegato che la Commissione europea apporta mediante atti delegati[^16-3].
 
-<sup>5</sup> ...[^16-4]
+<sup>5</sup> Le informazioni sull’UDI devono essere registrate presso Swissmedic secondo le disposizioni dell’UE-IVDR di cui al capoverso 4.[^16-4]
 
 [^16-1]: Acronimo di «Unique Device Identification».
 [^16-2]: Cfr. nota a piè di pagina relativa all’art. 4 cpv. 1 lett. e.
 [^16-3]: Cfr. allegato 3.
-[^16-4]: Entra in vigore in un secondo tempo (art. 91 cpv. 2).
+[^16-4]: Nuovo testo giusta la cifra I dell’O del 20 nov. 2024 (Obbligo di registrazione dei dispositivi), in vigore dal 1° lug. 2026 ([RU 2024 742](https://fedlex.data.admin.ch/eli/oc/2024/742)).
 
 ## Capitolo 3: Valutazione, certificato e dichiarazione di conformità
 
@@ -779,7 +779,7 @@ Gli altri obblighi del distributore prima e dopo la messa a disposizione sul mer
 
 #### Art. 48
 
-<sup>1</sup> Entro tre mesi dalla prima volta che hanno immesso in commercio un dispositivo, i fabbricanti o i loro mandatari e gli importatori registrano presso Swissmedic le necessarie indicazioni di cui all’allegato VI parte A punto 1 UE-IVDR[^48-1].
+<sup>1</sup> Prima di immettere in commercio un dispositivo per la prima volta, i fabbricanti o i loro mandatari e gli importatori registrano presso Swissmedic le necessarie indicazioni di cui all’allegato VI parte A punto 1 UE-IVDR[^48-1].[^48-2]
 
 <sup>2</sup> Le modifiche delle indicazioni devono essere notificate a Swissmedic dall’operatore economico interessato entro una settimana.
 
@@ -788,6 +788,7 @@ Gli altri obblighi del distributore prima e dopo la messa a disposizione sul mer
 <sup>4</sup> Swissmedic verifica le indicazioni notificate dagli operatori economici e attribuisce loro un numero di registrazione unico svizzero (CHRN).
 
 [^48-1]: Cfr. nota a piè di pagina relativa all’art. 4 cpv. 1 lett. e.
+[^48-2]: Nuovo testo giusta la cifra I dell’O del 20 nov. 2024 (Obbligo di registrazione dei dispositivi), in vigore dal 1° lug. 2026 ([RU 2024 742](https://fedlex.data.admin.ch/eli/oc/2024/742)).
 
 ## Capitolo 6: Sorveglianza sui dispositivi
 
@@ -968,7 +969,7 @@ Il fabbricante di un dispositivo messo a disposizione sul mercato in Svizzera de
 
 <sup>3</sup> La dispensazione al pubblico di dispositivi destinati a individuare malattie umane trasmissibili è vietata. Swissmedic può concedere deroghe nell’interesse della salute pubblica.
 
-[^61-1]: [RS 810.12](https://fedlex.data.admin.ch/eli/cc/2022/537)
+[^61-1]: [RS 810.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9232)
 [^61-2]: Nuovo testo giusta l’all. n. 2 dell’O del 29 set. 2023, in vigore dal 1° nov. 2023 ([RU 2023 576](https://fedlex.data.admin.ch/eli/oc/2023/576)).
 
 #### Art. 62
@@ -1004,7 +1005,7 @@ La manutenzione deve essere eseguita conformemente ai principi di un sistema di 
 
 <sup>4</sup> Swissmedic può elaborare e pubblicare direttive sulle misure di manutenzione. Tali disposizioni valgono come stato della scienza e della tecnica.
 
-[^64-1]: [RS 941.210](https://fedlex.data.admin.ch/eli/cc/2006/245)
+[^64-1]: [RS 941.210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11180)
 
 #### Art. 65
 
@@ -1107,7 +1108,7 @@ Allo scopo di verificare la conformità dei dispositivi, le autorità competenti
 
 Al trattamento dei dati da parte di Swissmedic e dei terzi da esso incaricati sono applicabili per analogia le disposizioni del capitolo 10 dell’ODmed[^72-1], fatta eccezione per l’articolo 90 ODmed.
 
-[^72-1]: [RS 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
+[^72-1]: [RS 812.213](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9371)
 
 #### Art. 73
 
@@ -1290,7 +1291,7 @@ I requisiti secondo l’articolo 9 concernenti i dispositivi fabbricati e utiliz
 
 Le deroghe concesse da Swissmedic secondo gli articoli 9 capoverso 4 e 17 capoverso 3 ODmed[^84-1] nella versione del 1° agosto 2020[^84-2] continuano a rimanere valide.
 
-[^84-1]: [RS 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
+[^84-1]: [RS 812.213](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9371)
 [^84-2]: [RU 2001 3487](https://fedlex.data.admin.ch/eli/oc/2001/520); [2020 2975](https://fedlex.data.admin.ch/eli/oc/2020/551)
 
 #### Art. 85
@@ -1325,7 +1326,7 @@ Se il fabbricante ha sede in uno Stato UE o SEE o ha designato un mandatario con
 
 Gli operatori economici che hanno immesso in commercio prima del 26 maggio 2022 dispositivi secondo l’articolo 22*a* ODmed[^88-1] nella versione del 26 novembre 2017[^88-2] devono eseguire le registrazioni di cui all’articolo 48 capoverso 1 entro il 26 novembre 2022.
 
-[^88-1]: [RS 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
+[^88-1]: [RS 812.213](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9371)
 [^88-2]: [RU 2017 5935](https://fedlex.data.admin.ch/eli/oc/2017/650)
 
 #### Art. 89
@@ -1346,7 +1347,7 @@ Gli operatori economici che hanno immesso in commercio prima del 26 maggio 2022 
 
 <sup>4</sup> Se la domanda di designazione di organismo di valutazione della conformità secondo la sezione 4*a* dell’ODmed nella versione del 26 novembre 2017[^89-9] è stata presentata prima del 26 maggio 2022, la designazione è rilasciata secondo il nuovo diritto.
 
-[^89-1]: [RS 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
+[^89-1]: [RS 812.213](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9371)
 [^89-2]: [RU 2001 3487](https://fedlex.data.admin.ch/eli/oc/2001/520); [2010 1215](https://fedlex.data.admin.ch/eli/oc/2010/170); [2015 999](https://fedlex.data.admin.ch/eli/oc/2015/189); [2017 5935](https://fedlex.data.admin.ch/eli/oc/2017/650)
 [^89-3]: Cfr. nota a piè di pagina relativa all’art. 4 cpv. 1 lett. e.
 [^89-4]: Nuovo testo giusta la cifra I dell’O del 20 nov. 2024 (Adeguamento delle disposizioni transitorie e apposizione di informazioni sul mandatario), in vigore dal 1° gen. 2025 ([RU 2024 741](https://fedlex.data.admin.ch/eli/oc/2024/741)).
@@ -1358,11 +1359,13 @@ Gli operatori economici che hanno immesso in commercio prima del 26 maggio 2022 
 
 #### Art. 90
 
-**Notifica di dispositivi**
+**Notifica e registrazione di dispositivi[^90-1]**
 
-<sup>1</sup> Fino all’entrata in vigore dell’articolo 16 capoverso 5, ai fabbricanti con sede in Svizzera resta applicabile l’obbligo di notifica secondo l’articolo 6 capoversi 2 e 4 ODmed[^90-1] nella versione del 26 novembre 2017[^90-2].
+<sup>1</sup> Fino all’entrata in vigore dell’articolo 16 capoverso 5, ai fabbricanti con sede in Svizzera resta applicabile l’obbligo di notifica secondo l’articolo 6 capoversi 2 e 4 ODmed[^90-2] nella versione del 26 novembre 2017[^90-3].
 
-<sup>2</sup> ...[^90-3]
+<sup>2</sup> La registrazione presso Swissmedic ai sensi dell’articolo 16 capoverso 5 per i dispositivi immessi in commercio dal 1° luglio 2026 deve essere effettuata entro il 31 dicembre 2026.[^90-4]
+
+<sup>2bis</sup> La registrazione presso Swissmedic ai sensi dell’articolo 16 capoverso 5 per i dispositivi immessi in commercio dal 26 novembre 2017 secondo l’articolo 22*a* dell’ordinanza del 17 ottobre 2001[^90-5] relativa ai dispositivi medici nonché per i dispositivi immessi in commercio dal 26 maggio 2022 deve essere effettuata immediatamente se per gli stessi il fabbricante o il mandatario deve notificare un incidente grave secondo l’articolo 59 capoverso 1 lettera a, un’azione correttiva di sicurezza secondo l’articolo 59 capoverso 1 lettera b o presentare un rapporto sulle tendenze secondo l’articolo 59 capoverso 2.[^90-6]
 
 <sup>3</sup>
 
@@ -1372,9 +1375,12 @@ Per i dispositivi fabbricati e utilizzati in istituzioni sanitarie l’obbligo d
 - b. per i dispositivi delle classi B e C: dal 1° gennaio 2025;
 - c. per i dispositivi della classe A: dal 1° luglio 2025.
 
-[^90-1]: [RS 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
-[^90-2]: [RU 2001 3487](https://fedlex.data.admin.ch/eli/oc/2001/520); [2017 5935](https://fedlex.data.admin.ch/eli/oc/2017/650)
-[^90-3]: Entra in vigore in un secondo tempo (art. 91 cpv. 2).
+[^90-1]: Nuovo testo giusta la cifra I dell’O del 20 nov. 2024 (Obbligo di registrazione dei dispositivi), in vigore dal 1° lug. 2026 ([RU 2024 742](https://fedlex.data.admin.ch/eli/oc/2024/742)).
+[^90-2]: [RS 812.213](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9371)
+[^90-3]: [RU 2001 3487](https://fedlex.data.admin.ch/eli/oc/2001/520); [2017 5935](https://fedlex.data.admin.ch/eli/oc/2017/650)
+[^90-4]: Nuovo testo giusta la cifra I dell’O del 20 nov. 2024 (Obbligo di registrazione dei dispositivi), in vigore dal 1° lug. 2026 ([RU 2024 742](https://fedlex.data.admin.ch/eli/oc/2024/742)).
+[^90-5]: [RU 2017 5935](https://fedlex.data.admin.ch/eli/oc/2017/650)
+[^90-6]: Introdotto dalla cifra I dell’O del 20 nov. 2024 (Obbligo di registrazione dei dispositivi), in vigore dal 1° lug. 2026 ([RU 2024 742](https://fedlex.data.admin.ch/eli/oc/2024/742)).
 
 #### Art. 91
 
@@ -1382,7 +1388,9 @@ Per i dispositivi fabbricati e utilizzati in istituzioni sanitarie l’obbligo d
 
 <sup>1</sup> Fatto salvo il capoverso 2, la presente ordinanza entra in vigore il 26 maggio 2022.
 
-<sup>2</sup> Gli articoli 16 capoverso 5 e 90 capoverso 2 entrano in vigore in un secondo tempo.
+<sup>2</sup> ... [^91-1]
+
+[^91-1]: Abrogato dalla cifra I dell’O del 20 nov. 2024 (Obbligo di registrazione dei dispositivi), con effetto dal 1° lug. 2026 ([RU 2024 742](https://fedlex.data.admin.ch/eli/oc/2024/742)).
 
 Allegato 1
 
@@ -1489,17 +1497,17 @@ Se nella presente ordinanza si rimanda a disposizioni dell’UE-IVDR che, a loro
 <tr><td>15. Regolamento (UE) 2017/745 del Parlamento europeo e del Consiglio, del 5 aprile 2017, relativo ai dispositivi medici, che modifica la direttiva 2001/83/CE, il regolamento (CE) n. 178/2002 e il regolamento (CE) n. 1223/2009 e che abroga le direttive 90/385/CEE e 93/42/CEE del Consiglio; GU L 117 del 5.5.2017, pag. 1.</td><td>Ordinanza del 1° luglio 2020[^annex2-lvlu1-lvl2-11] relativa ai dispositivi medici</td></tr>
 </table>
 
-[^annex2-lvlu1-lvl2-1]: [RS 221.112.944](https://fedlex.data.admin.ch/eli/cc/1993/3122_3122_3122)
-[^annex2-lvlu1-lvl2-2]: [RS 734.5](https://fedlex.data.admin.ch/eli/cc/2016/18)
-[^annex2-lvlu1-lvl2-3]: [RS 819.14](https://fedlex.data.admin.ch/eli/cc/2008/263)
-[^annex2-lvlu1-lvl2-4]: [RS 946.51](https://fedlex.data.admin.ch/eli/cc/1996/1725_1725_1725)
-[^annex2-lvlu1-lvl2-5]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
-[^annex2-lvlu1-lvl2-6]: [RS 930.11](https://fedlex.data.admin.ch/eli/cc/2010/347)
-[^annex2-lvlu1-lvl2-7]: [RS 813.1](https://fedlex.data.admin.ch/eli/cc/2004/724)
-[^annex2-lvlu1-lvl2-8]: [RS 941.20](https://fedlex.data.admin.ch/eli/cc/2012/734)
-[^annex2-lvlu1-lvl2-9]: [RS 814.50](https://fedlex.data.admin.ch/eli/cc/1994/1933_1933_1933)
+[^annex2-lvlu1-lvl2-1]: [RS 221.112.944](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5851)
+[^annex2-lvlu1-lvl2-2]: [RS 734.5](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8590)
+[^annex2-lvlu1-lvl2-3]: [RS 819.14](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9850)
+[^annex2-lvlu1-lvl2-4]: [RS 946.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11467)
+[^annex2-lvlu1-lvl2-5]: [RS 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
+[^annex2-lvlu1-lvl2-6]: [RS 930.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11020)
+[^annex2-lvlu1-lvl2-7]: [RS 813.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9395)
+[^annex2-lvlu1-lvl2-8]: [RS 941.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11170)
+[^annex2-lvlu1-lvl2-9]: [RS 814.50](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9533)
 [^annex2-lvlu1-lvl2-10]: [RU 2001 3487](https://fedlex.data.admin.ch/eli/oc/2001/520);[2004 4037](https://fedlex.data.admin.ch/eli/oc/2004/591); [2008 4377](https://fedlex.data.admin.ch/eli/oc/2008/614); [2010 1215](https://fedlex.data.admin.ch/eli/oc/2010/170), [2749](https://fedlex.data.admin.ch/eli/oc/2010/358); [2015 999](https://fedlex.data.admin.ch/eli/oc/2015/189); [2017 5935](https://fedlex.data.admin.ch/eli/oc/2017/650); [2019 999](https://fedlex.data.admin.ch/eli/oc/2019/183); [2020 2975](https://fedlex.data.admin.ch/eli/oc/2020/551)
-[^annex2-lvlu1-lvl2-11]: [RS 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
+[^annex2-lvlu1-lvl2-11]: [RS 812.213](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9371)
 
 Allegato 3
 
@@ -1529,11 +1537,11 @@ Allegato 4
 
 Il marchio di conformità è indicato nel modo seguente:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/291/20250101/it/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/291/20260701/it/xml/image/image1.png)
 
 Se occorre fare ricorso a un organismo designato, oltre al marchio di conformità va indicato anche il numero d’identificazione di tale organismo.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/291/20250101/it/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/291/20260701/it/xml/image/image2.png)
 
 Allegato 5
 

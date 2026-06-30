@@ -4,11 +4,11 @@ title: Ordonnance du 4 mai 2022 sur les dispositifs médicaux de diagnostic in v
 short: ODiv
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/291"
 language: fr
-version: 2025-01-01
+version: 2026-07-01
 adopted: 2022-05-04
 in_force: 2022-05-26
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/291/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-2022-291-20250101-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/291/20250101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/291/20260701/fr/xml/fedlex-data-admin-ch-eli-cc-2022-291-20260701-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/291/20260701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2022/291/20250101/fr"
 
 (ODiv)
 
-du 4 mai 2022 (État le 1<sup>er</sup> janvier 2025)
+du 4 mai 2022 (État le 1<sup>er</sup> juillet 2026)
 
 Le Conseil fédéral suisse,
 
@@ -25,12 +25,12 @@ vu la loi du 15 décembre 2000 sur les produits thérapeutiques (LPTh)[^ingress-
 
 arrête:
 
-[^ingress-1]: [RS 812.21](https://fedlex.data.admin.ch/eli/cc/2001/422)
-[^ingress-2]: [RS 734.0](https://fedlex.data.admin.ch/eli/cc/19/259_252_257)
-[^ingress-3]: [RS 941.20](https://fedlex.data.admin.ch/eli/cc/2012/734)
-[^ingress-4]: [RS 930.11](https://fedlex.data.admin.ch/eli/cc/2010/347)
-[^ingress-5]: [RS 814.50](https://fedlex.data.admin.ch/eli/cc/1994/1933_1933_1933)
-[^ingress-6]: [RS 946.51](https://fedlex.data.admin.ch/eli/cc/1996/1725_1725_1725)
+[^ingress-1]: [RS 812.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9354)
+[^ingress-2]: [RS 734.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8570)
+[^ingress-3]: [RS 941.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11170)
+[^ingress-4]: [RS 930.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11020)
+[^ingress-5]: [RS 814.50](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9533)
+[^ingress-6]: [RS 946.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11467)
 
 ## Chapitre 1 Dispositions générales
 
@@ -44,7 +44,7 @@ arrête:
 
 <sup>2</sup> Pour les dispositifs qui, lors de leur mise sur le marché ou de leur mise en service, incorporent comme partie intégrante un dispositif médical au sens de l’art. 3, al. 1 et 2, de l’ordonnance du 1<sup>er</sup> juillet 2020 sur les dispositifs médicaux (ODim)[^1-1], la présente ordonnance ne s’applique qu’à la partie constituant le dispositif médical de diagnostic in vitro.
 
-[^1-1]: [RS 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
+[^1-1]: [RS 812.213](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9371)
 
 #### Art. 2
 
@@ -89,7 +89,7 @@ Par *accessoire de dispositif médical de diagnostic in vitro*, on entend tout a
 - a. pour permettre spécifiquement une utilisation des dispositifs médicaux de diagnostic in vitro conforme à l’usage auquel ils sont destinés (destination), ou
 - b. pour contribuer spécifiquement et directement au fonctionnement médical des dispositifs médicaux de diagnostic in vitro selon leur destination.
 
-[^3-1]: [RS 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
+[^3-1]: [RS 812.213](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9371)
 
 #### Art. 4
 
@@ -147,7 +147,7 @@ On entend par:
 <sup>5</sup> Les fabricants se conforment aux spécifications communes visées à l’al. 3, à moins qu’ils puissent dûment justifier avoir adopté des solutions qui garantissent un niveau de sécurité et de performances au moins équivalent.
 
 [^6-1]: Cf. note de bas de page relative à l’art. 4, al. 1, let. e.
-[^6-2]: [RS 812.211](https://fedlex.data.admin.ch/eli/cc/2001/442)
+[^6-2]: [RS 812.211](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9355)
 
 #### Art. 7
 
@@ -175,7 +175,7 @@ Un dispositif est réputé être proposé au moyen de services de la société d
 
 Les dispositifs qui constituent aussi des machines au sens de l’art. 1 de l’ordonnance du 2 avril 2008 sur les machines[^8-1] doivent satisfaire aux exigences essentielles de santé et de sécurité énoncées dans ladite ordonnance si ces exigences sont plus spécifiques que celles énoncées dans l’annexe I, chapitre II, RDIV-UE[^8-2].
 
-[^8-1]: [RS 819.14](https://fedlex.data.admin.ch/eli/cc/2008/263)
+[^8-1]: [RS 819.14](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9850)
 [^8-2]: Cf. note de bas de page relative à l’art. 4, al. 1, let. e.
 
 #### Art. 9
@@ -233,7 +233,7 @@ Il est interdit d’apposer un marquage de conformité sur les dispositifs suiva
 <sup>3</sup> Les dispositifs dont la conformité doit être évaluée par un organisme d’évaluation de la conformité désigné conformément à la présente ordonnance ou reconnu en vertu d’une convention de droit international (organisme désigné) doivent porter, outre le marquage de conformité, le numéro d’identification dudit organisme.
 
 [^12-1]: Cf. note de bas de page relative à l’art. 4, al. 1, let. e.
-[^12-2]: [RS 810.306](https://fedlex.data.admin.ch/eli/cc/2020/553)
+[^12-2]: [RS 810.306](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9251)
 
 #### Art. 13
 
@@ -304,12 +304,12 @@ L’information relative au dispositif peut être rédigée dans moins de trois 
 
 <sup>4</sup> Les obligations et modalités découlant de l’identification et de l’enregistrement des dispositifs sont régies par les art. 24 et 26 et par l’annexe VI RDIV-UE, compte tenu des amendements apportés à ladite annexe par la Commission européenne au moyen de ses actes délégués[^16-3].
 
-<sup>5</sup> …[^16-4]
+<sup>5</sup> Les informations concernant l’IUD doivent être enregistrées auprès de Swissmedic conformément aux dispositions du RDIV-UE mentionnées à l’al. 4.[^16-4]
 
 [^16-1]: <sup>22</sup> En anglais *Unique Device Identification* *(UDI).*
 [^16-2]: Cf. note de bas de page relative à l’art. 4, al. 1, let. e.
 [^16-3]: Voir l’annexe 3.
-[^16-4]: Entre en vigueur ultérieurement (art. 91, al 2).
+[^16-4]: Nouvelle teneur selon le ch. I de l’O du 20 nov. 2024 (Obligation d’enregistrement des dispositifs), en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2024 742](https://fedlex.data.admin.ch/eli/oc/2024/742)).
 
 ## Chapitre 3 Évaluation de la conformité, certificat et déclaration
 
@@ -779,7 +779,7 @@ Les autres obligations auxquelles est soumis le distributeur avant et après la 
 
 #### Art. 48
 
-<sup>1</sup> Les fabricants ou leurs mandataires et les importateurs enregistrent auprès de Swissmedic, dans les trois mois à compter de la première fois qu’ils ont mis un dispositif sur le marché, les données requises par l’annexe VI, partie A, section 1, RDIV-UE[^48-1].
+<sup>1</sup> Avant de mettre un dispositif sur le marché pour la première fois, les fabricants ou leurs mandataires et les importateurs enregistrent auprès de Swissmedic les données requises par l’annexe VI, partie A, section 1, RDIV-UE[^48-1].[^48-2]
 
 <sup>2</sup> En cas de modification des données, l’opérateur économique concerné doit en faire part à Swissmedic dans un délai d’une semaine.
 
@@ -788,6 +788,7 @@ Les autres obligations auxquelles est soumis le distributeur avant et après la 
 <sup>4</sup> Swissmedic vérifie les données communiquées par les opérateurs économiques et leur attribue un numéro d’enregistrement unique suisse (CHRN).
 
 [^48-1]: Cf. note de bas de page relative à l’art. 4, al. 1, let. e.
+[^48-2]: Nouvelle teneur selon le ch. I de l’O du 20 nov. 2024 (Obligation d’enregistrement des dispositifs), en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2024 742](https://fedlex.data.admin.ch/eli/oc/2024/742)).
 
 ## Chapitre 6 Observation des dispositifs
 
@@ -968,7 +969,7 @@ Le fabricant d’un dispositif mis à disposition sur le marché en Suisse est t
 
 <sup>3</sup> La remise au public de dispositifs destinés à détecter des maladies humaines transmissibles est interdite. Swissmedic peut accorder des dérogations dans l’intérêt de la santé publique.
 
-[^61-1]: [RS 810.12](https://fedlex.data.admin.ch/eli/cc/2022/537)
+[^61-1]: [RS 810.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9232)
 [^61-2]: Nouvelle teneur selon l’annexe ch. 2 de l’O du 29 sept. 2023, en vigueur depuis le 1<sup>er</sup> nov. 2023 ([RO 2023 576](https://fedlex.data.admin.ch/eli/oc/2023/576)).
 
 #### Art. 62
@@ -1004,7 +1005,7 @@ La maintenance doit obéir aux principes d’un système de gestion de la qualit
 
 <sup>4</sup> Swissmedic peut formuler et publier des directives concernant la maintenance. Ces directives sont réputées refléter l’état de la science et de la technique.
 
-[^64-1]: [RS 941.210](https://fedlex.data.admin.ch/eli/cc/2006/245)
+[^64-1]: [RS 941.210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11180)
 
 #### Art. 65
 
@@ -1107,7 +1108,7 @@ Afin de vérifier la conformité des dispositifs, les autorités chargées de la
 
 Les dispositions du chapitre 10 ODim[^72-1], à l’exception de l’art. 90, s’appliquent par analogie au traitement des données par Swissmedic et les tiers qu’il mandate.
 
-[^72-1]: [RS 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
+[^72-1]: [RS 812.213](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9371)
 
 #### Art. 73
 
@@ -1290,7 +1291,7 @@ Les exigences de l’art. 9 pour les dispositifs fabriqués et utilisés dans de
 
 Les dérogations accordées par Swissmedic en vertu des art. 9, al. 4, et 17, al. 3, ODim[^84-1] dans sa version du 1<sup>er</sup> août 2020[^84-2] restent valables.
 
-[^84-1]: [RS 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
+[^84-1]: [RS 812.213](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9371)
 [^84-2]: [RO 2001 3487](https://fedlex.data.admin.ch/eli/oc/2001/520); [2020 2975](https://fedlex.data.admin.ch/eli/oc/2020/551)
 
 #### Art. 85
@@ -1325,7 +1326,7 @@ Si le fabricant a son siège dans un État de l’UE ou de l’EEE ou s’il a m
 
 Les opérateurs économiques qui ont mis sur le marché des dispositifs avant le 26 mai 2022 conformément à l’art. 22*a* ODim[^88-1] dans sa version du 26 novembre 2017[^88-2] sont tenus de procéder aux enregistrements prévus à l’art. 48, al. 1, jusqu’au 26 novembre 2022.
 
-[^88-1]: [RS 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
+[^88-1]: [RS 812.213](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9371)
 [^88-2]: [RO 2017 5935](https://fedlex.data.admin.ch/eli/oc/2017/650)
 
 #### Art. 89
@@ -1346,7 +1347,7 @@ Les opérateurs économiques qui ont mis sur le marché des dispositifs avant le
 
 <sup>4</sup> Les demandes de désignation comme organisme d’évaluation de la conformité déposées avant le 26 mai 2022 en vertu de la section 4*a* ODim dans sa version du 26 novembre 2017[^89-9] sont traitées conformément au nouveau droit.
 
-[^89-1]: [RS 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
+[^89-1]: [RS 812.213](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9371)
 [^89-2]: [RO 2001 3487](https://fedlex.data.admin.ch/eli/oc/2001/520); [2010 1215](https://fedlex.data.admin.ch/eli/oc/2010/170); [2015 999](https://fedlex.data.admin.ch/eli/oc/2015/189); [2017 5935](https://fedlex.data.admin.ch/eli/oc/2017/650)
 [^89-3]: Cf. note de bas de page relative à l’art. 4, al. 1, let. e.
 [^89-4]: Nouvelle teneur selon le ch. I de l’O du 20 nov. 2024 (Adaptation de la réglementation transitoire et apposition des données sur le mandataire), en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 741](https://fedlex.data.admin.ch/eli/oc/2024/741)).
@@ -1358,11 +1359,13 @@ Les opérateurs économiques qui ont mis sur le marché des dispositifs avant le
 
 #### Art. 90
 
-**Déclaration de dispositifs**
+**Déclaration et enregistrement de dispositifs[^90-1]**
 
-<sup>1</sup> Les obligations de déclaration pour les fabricants sis en Suisse visées à l’art. 6, al. 2 et 4, ODim[^90-1] dans sa version du 26 novembre 2017[^90-2] restent applicables jusqu’à l’entrée en vigueur de l’art. 16, al. 5.
+<sup>1</sup> Les obligations de déclaration pour les fabricants sis en Suisse visées à l’art. 6, al. 2 et 4, ODim[^90-2] dans sa version du 26 novembre 2017[^90-3] restent applicables jusqu’à l’entrée en vigueur de l’art. 16, al. 5.
 
-<sup>2</sup> …[^90-3]
+<sup>2</sup> L’enregistrement auprès de Swissmedic régi par l’art. 16, al. 5, doit être réalisé jusqu’au 31 décembre 2026 pour les dispositifs mis sur le marché à partir du 1<sup>er</sup> juillet 2026.[^90-4]
+
+<sup>2bis</sup> L’enregistrement auprès de Swissmedic régi par l’art. 16, al. 5, doit être réalisé immédiatement pour les dispositifs mis sur le marché à partir du 26 novembre 2017 en vertu de l’art. 22*a* de l’ordonnance du 17 octobre 2001 sur les dispositifs médicaux[^90-5] et pour ceux mis sur le marché à partir du 26 mai 2022 si le fabricant ou le mandataire est tenu, pour le dispositif, de déclarer un incident grave au sens de l’art. 59, al. 1, let. a, une mesure corrective de sécurité au sens de l’art. 59, al. 1, let. b, ou une tendance au sens de l’art. 59, al. 2.[^90-6]
 
 <sup>3</sup>
 
@@ -1372,9 +1375,12 @@ Les obligations de déclaration visées à l’art. 10 pour les dispositifs fabr
 - b. pour les dispositifs des classes B et C, à partir du 1<sup>er</sup> janvier 2025;
 - c. pour les dispositifs de classe A, à partir du 1<sup>er</sup> juillet 2025.
 
-[^90-1]: [RS 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
-[^90-2]: [RO 2001 3487](https://fedlex.data.admin.ch/eli/oc/2001/520); [2017 5935](https://fedlex.data.admin.ch/eli/oc/2017/650)
-[^90-3]: Entre en vigueur ultérieurement (art. 91, al 2).
+[^90-1]: Nouvelle teneur selon le ch. I de l’O du 20 nov. 2024 (Obligation d’enregistrement des dispositifs), en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2024 742](https://fedlex.data.admin.ch/eli/oc/2024/742)).
+[^90-2]: [RS 812.213](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9371)
+[^90-3]: [RO 2001 3487](https://fedlex.data.admin.ch/eli/oc/2001/520); [2017 5935](https://fedlex.data.admin.ch/eli/oc/2017/650)
+[^90-4]: Nouvelle teneur selon le ch. I de l’O du 20 nov. 2024 (Obligation d’enregistrement des dispositifs), en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2024 742](https://fedlex.data.admin.ch/eli/oc/2024/742)).
+[^90-5]: [RO 2017 5935](https://fedlex.data.admin.ch/eli/oc/2017/650)
+[^90-6]: Introduit par le ch. I de l’O du 20 nov. 2024 (Obligation d’enregistrement des dispositifs), en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2024 742](https://fedlex.data.admin.ch/eli/oc/2024/742)).
 
 #### Art. 91
 
@@ -1382,7 +1388,9 @@ Les obligations de déclaration visées à l’art. 10 pour les dispositifs fabr
 
 <sup>1</sup> La présente ordonnance entre en vigueur le 26 mai 2022, sous réserve de l’al. 2.
 
-<sup>2</sup> Les art. 16, al. 5, et 90, al. 2, entreront en vigueur ultérieurement.
+<sup>2</sup> …[^91-1]
+
+[^91-1]: Abrogé par le ch. I de l’O du 20 nov. 2024 (Obligation d’enregistrement des dispositifs), avec effet au 1<sup>er</sup> juil. 2026 ([RO 2024 742](https://fedlex.data.admin.ch/eli/oc/2024/742)).
 
 Annexe 1
 
@@ -1484,22 +1492,22 @@ Dans la présente ordonnance, lorsqu’il est fait référence à des dispositio
 <tr><td>10. Directive 80/181/CEE du Conseil, du 20 décembre 1979, concernant le rapprochement des législations des États membres relatives aux unités de mesure et abrogeant la directive 71/354/CEE, JO L 39 du 15.2.1980, p. 40</td><td>Loi fédérale du 17 juin 2011 sur la métrologie[^annex2-lvlu1-lvl2-8]</td></tr>
 <tr><td>11. Directive 2013/59/Euratom du Conseil du 5 décembre 2013 fixant les normes de base relatives à la protection sanitaire contre les dangers résultant de l’exposition aux rayonnements ionisants et abrogeant les directives 89/618/Euratom, 90/641/Euratom, 96/29/Euratom, 97/43/Euratom et 2003/122/Euratom, JO L 13 du 17.1.2014, p. 1</td><td>Loi du 22 mars 1991 sur la radioprotection[^annex2-lvlu1-lvl2-9]</td></tr>
 <tr><td>12. Directive 90/385/CEE du Conseil, du 20 juin 1990, concernant le rapprochement des législations des États membres relatives aux dispositifs médicaux implantables actifs, JO L 189 du 20.7.1990, p. 17.</td><td>Ordonnance du 17 octobre 2001 sur les dispositifs médicaux[^annex2-lvlu1-lvl2-10]</td></tr>
-<tr><td>13. Directive 93/42/CEE du Conseil, du 14 juin 1993, relative aux dispositifs médicaux, JO L 169 du 12.7.1993, p. 1.</td><td>Ordonnance du 17 octobre 2001 sur les dispositifs médicaux [tab]</td></tr>
-<tr><td>14. Directive 98/79/CE du Parlement européen et du Conseil du 27 octobre 1998 relative aux dispositifs médicaux de diagnostic in vitro, JO L 331 du 7.12.1998, p. 1.</td><td>Ordonnance du 17 octobre 2001 sur les dispositifs médicaux [tab]</td></tr>
+<tr><td>13. Directive 93/42/CEE du Conseil, du 14 juin 1993, relative aux dispositifs médicaux, JO L 169 du 12.7.1993, p. 1.</td><td>Ordonnance du 17 octobre 2001 sur les dispositifs médicaux</td></tr>
+<tr><td>14. Directive 98/79/CE du Parlement européen et du Conseil du 27 octobre 1998 relative aux dispositifs médicaux de diagnostic in vitro, JO L 331 du 7.12.1998, p. 1.</td><td>Ordonnance du 17 octobre 2001 sur les dispositifs médicaux</td></tr>
 <tr><td>15. Règlement (UE) 2017/745 du Parlement européen et du Conseil du 5 avril 2017 relatif aux dispositifs médicaux, modifiant la directive 2001/83/CE, le règlement (CE) n<sup>o</sup> 178/2002 et le règlement (CE) n<sup>o</sup> 1223/2009 et abrogeant les directives du Conseil 90/385/CEE et 93/42/CEE, JO L 117 du 5.5.2017, p. 1.</td><td>Ordonnance du 1<sup>er</sup> juillet 2020 sur les dispositifs médicaux[^annex2-lvlu1-lvl2-11]</td></tr>
 </table>
 
-[^annex2-lvlu1-lvl2-1]: [RS 221.112.944](https://fedlex.data.admin.ch/eli/cc/1993/3122_3122_3122)
-[^annex2-lvlu1-lvl2-2]: [RS 734.5](https://fedlex.data.admin.ch/eli/cc/2016/18)
-[^annex2-lvlu1-lvl2-3]: [RS 819.14](https://fedlex.data.admin.ch/eli/cc/2008/263)
-[^annex2-lvlu1-lvl2-4]: [RS 946.51](https://fedlex.data.admin.ch/eli/cc/1996/1725_1725_1725)
-[^annex2-lvlu1-lvl2-5]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
-[^annex2-lvlu1-lvl2-6]: [RS 930.11](https://fedlex.data.admin.ch/eli/cc/2010/347)
-[^annex2-lvlu1-lvl2-7]: [RS 813.1](https://fedlex.data.admin.ch/eli/cc/2004/724)
-[^annex2-lvlu1-lvl2-8]: [RS 941.20](https://fedlex.data.admin.ch/eli/cc/2012/734)
-[^annex2-lvlu1-lvl2-9]: [RS 814.50](https://fedlex.data.admin.ch/eli/cc/1994/1933_1933_1933)
+[^annex2-lvlu1-lvl2-1]: [RS 221.112.944](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5851)
+[^annex2-lvlu1-lvl2-2]: [RS 734.5](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8590)
+[^annex2-lvlu1-lvl2-3]: [RS 819.14](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9850)
+[^annex2-lvlu1-lvl2-4]: [RS 946.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11467)
+[^annex2-lvlu1-lvl2-5]: [RS 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
+[^annex2-lvlu1-lvl2-6]: [RS 930.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11020)
+[^annex2-lvlu1-lvl2-7]: [RS 813.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9395)
+[^annex2-lvlu1-lvl2-8]: [RS 941.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11170)
+[^annex2-lvlu1-lvl2-9]: [RS 814.50](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9533)
 [^annex2-lvlu1-lvl2-10]: [RO 2001 3487](https://fedlex.data.admin.ch/eli/oc/2001/520);[2004 4037](https://fedlex.data.admin.ch/eli/oc/2004/591); [2008 4377](https://fedlex.data.admin.ch/eli/oc/2008/614); [2010 1215](https://fedlex.data.admin.ch/eli/oc/2010/170), [2749](https://fedlex.data.admin.ch/eli/oc/2010/358); [2015 999](https://fedlex.data.admin.ch/eli/oc/2015/189); [2017 5935](https://fedlex.data.admin.ch/eli/oc/2017/650); [2019 999](https://fedlex.data.admin.ch/eli/oc/2019/183); [2020 2975](https://fedlex.data.admin.ch/eli/oc/2020/551)
-[^annex2-lvlu1-lvl2-11]: [RS 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
+[^annex2-lvlu1-lvl2-11]: [RS 812.213](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9371)
 
 Annexe 3
 
@@ -1529,11 +1537,11 @@ Annexe 4
 
 La représentation graphique du marquage de conformité est la suivante:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/291/20250101/fr/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/291/20260701/fr/xml/image/image1.png)
 
 En cas de recours à un organisme désigné, le numéro d’identification de l’organisme est ajouté à côté du marquage de conformité.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/291/20250101/fr/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/291/20260701/fr/xml/image/image2.png)
 
 Annexe 5
 

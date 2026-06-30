@@ -4,11 +4,11 @@ title: Verordnung vom 4. Mai 2022 über In-vitro-Diagnostika (IvDV)
 short: IvDV
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/291"
 language: de
-version: 2025-01-01
+version: 2026-07-01
 adopted: 2022-05-04
 in_force: 2022-05-26
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/291/20250101/de/xml/fedlex-data-admin-ch-eli-cc-2022-291-20250101-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/291/20250101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/291/20260701/de/xml/fedlex-data-admin-ch-eli-cc-2022-291-20260701-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/291/20260701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2022/291/20250101/de"
 
 (IvDV)
 
-vom 4. Mai 2022 (Stand am 1. Januar 2025)
+vom 4. Mai 2022 (Stand am 1. Juli 2026)
 
 Der Schweizerische Bundesrat,
 
@@ -25,12 +25,12 @@ gestützt auf das Heilmittelgesetz vom 15. Dezember 2000[^ingress-1] (HMG), Arti
 
 verordnet:
 
-[^ingress-1]: [SR 812.21](https://fedlex.data.admin.ch/eli/cc/2001/422)
-[^ingress-2]: [SR 734.0](https://fedlex.data.admin.ch/eli/cc/19/259_252_257)
-[^ingress-3]: [SR 941.20](https://fedlex.data.admin.ch/eli/cc/2012/734)
-[^ingress-4]: [SR 930.11](https://fedlex.data.admin.ch/eli/cc/2010/347)
-[^ingress-5]: [SR 814.50](https://fedlex.data.admin.ch/eli/cc/1994/1933_1933_1933)
-[^ingress-6]: [SR 946.51](https://fedlex.data.admin.ch/eli/cc/1996/1725_1725_1725)
+[^ingress-1]: [SR 812.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9354)
+[^ingress-2]: [SR 734.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8570)
+[^ingress-3]: [SR 941.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11170)
+[^ingress-4]: [SR 930.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11020)
+[^ingress-5]: [SR 814.50](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9533)
+[^ingress-6]: [SR 946.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11467)
 
 ## 1. Kapitel: Allgemeine Bestimmungen
 
@@ -44,7 +44,7 @@ verordnet:
 
 <sup>2</sup> Für Produkte, die beim Inverkehrbringen oder bei der Inbetriebnahme als integralen Bestandteil ein Medizinprodukt nach Artikel 3 Absätze 1 und 2 der Medizinprodukteverordnung vom 1. Juli 2020[^1-1] (MepV) enthalten, gilt diese Verordnung lediglich für den In-vitro-Diagnostikum-Teil.
 
-[^1-1]: [SR 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
+[^1-1]: [SR 812.213](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9371)
 
 #### Art. 2
 
@@ -89,7 +89,7 @@ Als *In-vitro-Diagnostikum* gilt ein Medizinprodukt nach Artikel 3 Absätze 1 un
 - a. der speziell dessen oder deren Verwendung gemäss seiner oder ihrer Zweckbestimmung ermöglicht; oder
 - b. mit dem die medizinische Funktion des In-vitro-Diagnostikums oder der In-vitro-Diagnostika im Hinblick auf dessen oder deren Zweckbestimmung gezielt und unmittelbar unterstützt werden soll.
 
-[^3-1]: [SR 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
+[^3-1]: [SR 812.213](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9371)
 
 #### Art. 4
 
@@ -147,7 +147,7 @@ In dieser Verordnung bedeuten:
 <sup>5</sup> Gemeinsame Spezifikationen nach Absatz 3 sind einzuhalten, sofern der Hersteller nicht angemessen nachweisen kann, dass mit den von ihm gewählten Lösungen das Sicherheits- und Leistungsniveau gleichwertig gewährleistet ist.
 
 [^6-1]: Siehe Fussnote zu Art. 4 Abs. 1 Bst. e.
-[^6-2]: [SR 812.211](https://fedlex.data.admin.ch/eli/cc/2001/442)
+[^6-2]: [SR 812.211](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9355)
 
 #### Art. 7
 
@@ -175,7 +175,7 @@ Ein Produkt gilt als über eine Dienstleistung der Informationsgesellschaft ange
 
 Produkte, die auch Maschinen im Sinne von Artikel 1 der Maschinenverordnung vom 2. April 2008[^8-1] sind, müssen den einschlägigen grundlegenden Sicherheits- und Gesundheitsschutzanforderungen der Maschinenverordnung entsprechen, sofern diese Anforderungen spezifischer sind als diejenigen nach Anhang I Kapitel II EU-IVDR[^8-2].
 
-[^8-1]: [SR 819.14](https://fedlex.data.admin.ch/eli/cc/2008/263)
+[^8-1]: [SR 819.14](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9850)
 [^8-2]: Siehe Fussnote zu Art. 4 Abs. 1 Bst. e.
 
 #### Art. 9
@@ -233,7 +233,7 @@ Kein Konformitätskennzeichen darf angebracht werden auf:
 <sup>3</sup> Bei Produkten, deren Konformität von einer Konformitätsbewertungsstelle zu beurteilen ist, die nach dieser Verordnung bezeichnet ist oder die im Rahmen eines internationalen Abkommens anerkannt ist (bezeichnete Stelle), muss dem Konformitätskennzeichen die Kennnummer dieser Stelle hinzugefügt werden.
 
 [^12-1]: Siehe Fussnote zu Art. 4 Abs. 1 Bst. e.
-[^12-2]: [SR 810.306](https://fedlex.data.admin.ch/eli/cc/2020/553)
+[^12-2]: [SR 810.306](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9251)
 
 #### Art. 13
 
@@ -304,12 +304,12 @@ Die Produktinformation kann sich auf weniger als drei Amtssprachen oder auf Engl
 
 <sup>4</sup> Die mit der Produktidentifikation und der Produkteregistrierung verbundenen Pflichten und Modalitäten richten sich nach den Artikeln 24, 26 und Anhang VI EU-IVDR, unter Berücksichtigung der Änderungen dieses Anhangs, die von der Europäischen Kommission mittels delegierter Rechtsakte[^16-3] vorgenommen werden.
 
-<sup>5</sup> …[^16-4]
+<sup>5</sup> Die Informationen zum UDI sind bei der Swissmedic nach Massgabe der in Absatz 4 erwähnten Bestimmungen der EU-IVDR zu registrieren.[^16-4]
 
 [^16-1]: Steht für «Unique Device Identification».
 [^16-2]: Siehe Fussnote zu Art. 4 Abs. 1 Bst. e.
 [^16-3]: Siehe Anhang 3.
-[^16-4]: Tritt zu einem späteren Zeitpunkt in Kraft (siehe Art. 91 Abs. 2).
+[^16-4]: Fassung gemäss Ziff. I der V vom 20. Nov. 2024 (Produkteregistrierungspflicht), in Kraft seit 1. Juli 2026 ([AS 2024 742](https://fedlex.data.admin.ch/eli/oc/2024/742)).
 
 ## 3. Kapitel: Konformitätsbewertung, -bescheinigung und -erklärung
 
@@ -779,7 +779,7 @@ Die weiteren Pflichten des Händlers vor und nach der Bereitstellung eines Produ
 
 #### Art. 48
 
-<sup>1</sup> Die Hersteller oder ihre Bevollmächtigten und die Importeure registrieren innerhalb von drei Monaten, nachdem sie zum ersten Mal ein Produkt in Verkehr gebracht haben, die erforderlichen Angaben gemäss Anhang VI Teil A Abschnitt 1 EU-IVDR[^48-1] bei der Swissmedic.
+<sup>1</sup> Die Hersteller oder ihre Bevollmächtigten und die Importeure registrieren, bevor sie zum ersten Mal ein Produkt in Verkehr bringen, die erforderlichen Angaben gemäss Anhang VI Teil A Abschnitt 1 EU-IVDR[^48-1] bei der Swissmedic.[^48-2]
 
 <sup>2</sup> Änderungen der Angaben sind der Swissmedic vom betreffenden Wirtschaftsakteur innerhalb einer Woche zu melden.
 
@@ -788,6 +788,7 @@ Die weiteren Pflichten des Händlers vor und nach der Bereitstellung eines Produ
 <sup>4</sup> Die Swissmedic überprüft die von den Wirtschaftsakteuren gemeldeten Angaben und teilt ihnen eine einmalige schweizerische Registrierungsnummer (CHRN) zu.
 
 [^48-1]: Siehe Fussnote zu Art. 4 Abs. 1 Bst. e.
+[^48-2]: Fassung gemäss Ziff. I der V vom 20. Nov. 2024 (Produkteregistrierungspflicht), in Kraft seit 1. Juli 2026 ([AS 2024 742](https://fedlex.data.admin.ch/eli/oc/2024/742)).
 
 ## 6. Kapitel: Produktebeobachtung
 
@@ -968,7 +969,7 @@ Der Hersteller eines in der Schweiz auf dem Markt bereitgestellten Produkts muss
 
 <sup>3</sup> Die Abgabe von Produkten zur Erkennung von übertragbaren Krankheiten des Menschen an das Publikum ist verboten. Die Swissmedic kann im Interesse der öffentlichen Gesundheit Ausnahmen bewilligen.
 
-[^61-1]: [SR 810.12](https://fedlex.data.admin.ch/eli/cc/2022/537)
+[^61-1]: [SR 810.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9232)
 [^61-2]: Fassung gemäss Anhang Ziff. 2 der V vom 29. Sept. 2023, in Kraft seit 1. Nov. 2023 ([AS 2023 576](https://fedlex.data.admin.ch/eli/oc/2023/576)).
 
 #### Art. 62
@@ -1004,7 +1005,7 @@ Die Instandhaltung hat nach den Grundsätzen eines Qualitätsmanagementsystems z
 
 <sup>4</sup> Die Swissmedic kann Vorgaben zu Instandhaltungsmassnahmen machen und veröffentlichen. Diese Vorgaben gelten als Stand von Wissenschaft und Technik.
 
-[^64-1]: [SR 941.210](https://fedlex.data.admin.ch/eli/cc/2006/245)
+[^64-1]: [SR 941.210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11180)
 
 #### Art. 65
 
@@ -1107,7 +1108,7 @@ Die für die Überwachung zuständigen Behörden nach Artikel 69 können zur Üb
 
 Für die Datenbearbeitung durch die Swissmedic und die von ihr beauftragten Dritten sind, mit Ausnahme von Artikel 90 MepV[^72-1], die Bestimmungen des 10. Kapitels der MepV sinngemäss anwendbar.
 
-[^72-1]: [SR 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
+[^72-1]: [SR 812.213](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9371)
 
 #### Art. 73
 
@@ -1290,7 +1291,7 @@ Die Anforderungen gemäss Artikel 9 für Produkte, die in Gesundheitseinrichtung
 
 Von der Swissmedic erteilte Ausnahmen nach den Artikeln 9 Absatz 4 und 17 Absatz 3 MepV[^84-1] in der Fassung vom 1. August 2020[^84-2] bleiben weiterhin gültig.
 
-[^84-1]: [SR 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
+[^84-1]: [SR 812.213](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9371)
 [^84-2]: [AS 2001 3487](https://fedlex.data.admin.ch/eli/oc/2001/520); [2020 2975](https://fedlex.data.admin.ch/eli/oc/2020/551)
 
 #### Art. 85
@@ -1325,7 +1326,7 @@ Hat der Hersteller seinen Sitz in einem EU- oder EWR-Staat oder hat er eine Pers
 
 Wirtschaftsakteure, die Produkte vor dem 26. Mai 2022 gemäss Artikel 22*a* MepV[^88-1] in der Fassung vom 26. November 2017[^88-2] in Verkehr gebracht haben, müssen die Registrierungen nach Artikel 48 Absatz 1 bis zum 26. November 2022 vornehmen.
 
-[^88-1]: [SR 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
+[^88-1]: [SR 812.213](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9371)
 [^88-2]: [AS 2017 5935](https://fedlex.data.admin.ch/eli/oc/2017/650)
 
 #### Art. 89
@@ -1346,7 +1347,7 @@ Wirtschaftsakteure, die Produkte vor dem 26. Mai 2022 gemäss Artikel 22*a* MepV
 
 <sup>4</sup> Wurde ein Gesuch um Bezeichnung als Konformitätsbewertungsstelle nach dem 4*a*. Abschnitt der MepV in der Fassung vom 26. November 2017[^89-9] vor dem 26. Mai 2022 eingereicht, so wird es gemäss neuem Recht behandelt.
 
-[^89-1]: [SR 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
+[^89-1]: [SR 812.213](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9371)
 [^89-2]: [AS 2001 3487](https://fedlex.data.admin.ch/eli/oc/2001/520); [2010 1215](https://fedlex.data.admin.ch/eli/oc/2010/170); [2015 999](https://fedlex.data.admin.ch/eli/oc/2015/189); [2017 5935](https://fedlex.data.admin.ch/eli/oc/2017/650)
 [^89-3]: Siehe Fussnote zu Art. 4 Abs. 1 Bst. e.
 [^89-4]: Fassung gemäss Ziff. I der V vom 20. Nov. 2024 (Anpassung der Übergangsregelungen und Anbringung der Angaben zum Bevollmächtigten), in Kraft seit 1. Jan. 2025 ([AS 2024 741](https://fedlex.data.admin.ch/eli/oc/2024/741)).
@@ -1358,11 +1359,13 @@ Wirtschaftsakteure, die Produkte vor dem 26. Mai 2022 gemäss Artikel 22*a* MepV
 
 #### Art. 90
 
-**Meldungen von Produkten**
+**Meldung und Registrierung von Produkten[^90-1]**
 
-<sup>1</sup> Bis zum Inkrafttreten von Artikel 16 Absatz 5 bleibt die Meldepflicht für Hersteller mit Sitz in der Schweiz nach Artikel 6 Absätze 2 und 4 MepV[^90-1] in der Fassung vom 26. November 2017[^90-2] anwendbar.
+<sup>1</sup> Bis zum Inkrafttreten von Artikel 16 Absatz 5 bleibt die Meldepflicht für Hersteller mit Sitz in der Schweiz nach Artikel 6 Absätze 2 und 4 MepV[^90-2] in der Fassung vom 26. November 2017[^90-3] anwendbar.
 
-<sup>2</sup> …[^90-3]
+<sup>2</sup> Die Registrierung bei der Swissmedic gemäss Artikel 16 Absatz 5 ist für Produkte, die seit dem 1. Juli 2026 in Verkehr gebracht werden, bis am 31. Dezember 2026 vorzunehmen.[^90-4]
+
+<sup>2bis</sup> Die Registrierung bei der Swissmedic gemäss Artikel 16 Absatz 5 ist für Produkte, die nach Artikel 22*a* der Medizinprodukteverordnung vom 17. Oktober 2001[^90-5] seit dem 26. November 2017 in Verkehr gebracht wurden, sowie für Produkte, die seit dem 26. Mai 2022 in Verkehr gebracht werden, umgehend vorzunehmen, wenn der Hersteller oder der Bevollmächtigte für das Produkt ein schwerwiegendes Vorkommnis nach Artikel 59 Absatz 1 Buchstabe a, eine Sicherheitskorrekturmassnahme im Feld nach Artikel 59 Absatz 1 Buchstabe b oder einen Trend nach Artikel 59 Absatz 2 melden muss.[^90-6]
 
 <sup>3</sup>
 
@@ -1372,9 +1375,12 @@ Die Meldepflicht nach Artikel 10 für in Gesundheitseinrichtungen hergestellte u
 - b. für Produkte der Klassen B und C: ab dem 1. Januar 2025;
 - c. für Produkte der Klasse A: ab dem 1. Juli 2025.
 
-[^90-1]: [SR 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
-[^90-2]: [AS 2001 3487](https://fedlex.data.admin.ch/eli/oc/2001/520); [2017 5935](https://fedlex.data.admin.ch/eli/oc/2017/650)
-[^90-3]: Tritt zu einem späteren Zeitpunkt in Kraft (siehe Art. 91 Abs. 2).
+[^90-1]: Fassung gemäss Ziff. I der V vom 20. Nov. 2024 (Produkteregistrierungspflicht), in Kraft seit 1. Juli 2026 ([AS 2024 742](https://fedlex.data.admin.ch/eli/oc/2024/742)).
+[^90-2]: [SR 812.213](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9371)
+[^90-3]: [AS 2001 3487](https://fedlex.data.admin.ch/eli/oc/2001/520); [2017 5935](https://fedlex.data.admin.ch/eli/oc/2017/650)
+[^90-4]: Fassung gemäss Ziff. I der V vom 20. Nov. 2024 (Produkteregistrierungspflicht), in Kraft seit 1. Juli 2026 ([AS 2024 742](https://fedlex.data.admin.ch/eli/oc/2024/742)).
+[^90-5]: [AS 2017 5935](https://fedlex.data.admin.ch/eli/oc/2017/650)
+[^90-6]: Eingefügt durch Ziff. I der V vom 20. Nov. 2024 (Produkteregistrierungspflicht), in Kraft seit 1. Juli 2026 ([AS 2024 742](https://fedlex.data.admin.ch/eli/oc/2024/742)).
 
 #### Art. 91
 
@@ -1382,7 +1388,9 @@ Die Meldepflicht nach Artikel 10 für in Gesundheitseinrichtungen hergestellte u
 
 <sup>1</sup> Diese Verordnung tritt unter Vorbehalt von Absatz 2 am 26. Mai 2022 in Kraft.
 
-<sup>2</sup> Die Artikel 16 Absatz 5 und 90 Absatz 2 treten zu einem späteren Zeitpunkt in Kraft.
+<sup>2</sup> …[^91-1]
+
+[^91-1]: Aufgehoben durch Ziff. I der V vom 20. Nov. 2024 (Produkteregistrierungspflicht), mit Wirkung seit 1. Juli 2026 ([AS 2024 742](https://fedlex.data.admin.ch/eli/oc/2024/742)).
 
 Anhang 1
 
@@ -1489,17 +1497,17 @@ Wird in dieser Verordnung auf Bestimmungen der EU-IVDR verwiesen, die ihrerseits
 <tr><td>15. Verordnung (EU) 2017/745 des Europäischen Parlaments und des Rates vom 5. April 2017 über Medizinprodukte, zur Änderung der Richtlinie 2001/83/EG, der Verordnung (EG) Nr. 178/2002 und der Verordnung (EG) Nr. 1223/2009 und zur Aufhebung der Richtlinien 90/385/EWG und 93/42/EWG des Rates, ABl. L 117 vom 5.5.2017, S. 1.</td><td>Medizinprodukteverordnung vom 1. Juli 2020[^annex2-lvlu1-lvl2-11]</td></tr>
 </table>
 
-[^annex2-lvlu1-lvl2-1]: [SR 221.112.944](https://fedlex.data.admin.ch/eli/cc/1993/3122_3122_3122)
-[^annex2-lvlu1-lvl2-2]: [SR 734.5](https://fedlex.data.admin.ch/eli/cc/2016/18)
-[^annex2-lvlu1-lvl2-3]: [SR 819.14](https://fedlex.data.admin.ch/eli/cc/2008/263)
-[^annex2-lvlu1-lvl2-4]: [SR 946.51](https://fedlex.data.admin.ch/eli/cc/1996/1725_1725_1725)
-[^annex2-lvlu1-lvl2-5]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
-[^annex2-lvlu1-lvl2-6]: [SR 930.11](https://fedlex.data.admin.ch/eli/cc/2010/347)
-[^annex2-lvlu1-lvl2-7]: [SR 813.1](https://fedlex.data.admin.ch/eli/cc/2004/724)
-[^annex2-lvlu1-lvl2-8]: [SR 941.20](https://fedlex.data.admin.ch/eli/cc/2012/734)
-[^annex2-lvlu1-lvl2-9]: [SR 814.50](https://fedlex.data.admin.ch/eli/cc/1994/1933_1933_1933)
+[^annex2-lvlu1-lvl2-1]: [SR 221.112.944](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5851)
+[^annex2-lvlu1-lvl2-2]: [SR 734.5](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8590)
+[^annex2-lvlu1-lvl2-3]: [SR 819.14](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9850)
+[^annex2-lvlu1-lvl2-4]: [SR 946.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11467)
+[^annex2-lvlu1-lvl2-5]: [SR 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
+[^annex2-lvlu1-lvl2-6]: [SR 930.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11020)
+[^annex2-lvlu1-lvl2-7]: [SR 813.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9395)
+[^annex2-lvlu1-lvl2-8]: [SR 941.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11170)
+[^annex2-lvlu1-lvl2-9]: [SR 814.50](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9533)
 [^annex2-lvlu1-lvl2-10]: [AS 2001 3487](https://fedlex.data.admin.ch/eli/oc/2001/520);[2004 4037](https://fedlex.data.admin.ch/eli/oc/2004/591); [2008 4377](https://fedlex.data.admin.ch/eli/oc/2008/614); [2010 1215](https://fedlex.data.admin.ch/eli/oc/2010/170), [2749](https://fedlex.data.admin.ch/eli/oc/2010/358); [2015 999](https://fedlex.data.admin.ch/eli/oc/2015/189); [2017 5935](https://fedlex.data.admin.ch/eli/oc/2017/650); [2019 999](https://fedlex.data.admin.ch/eli/oc/2019/183); [2020 2975](https://fedlex.data.admin.ch/eli/oc/2020/551)
-[^annex2-lvlu1-lvl2-11]: [SR 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
+[^annex2-lvlu1-lvl2-11]: [SR 812.213](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9371)
 
 Anhang 3
 
@@ -1529,11 +1537,11 @@ Anhang 4
 
 Für die Angabe des Konformitätskennzeichens gilt folgende Darstellung:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/291/20250101/de/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/291/20260701/de/xml/image/image1.png)
 
 Sofern eine bezeichnete Stelle beigezogen werden muss, ist neben ihrem Konformitätskennzeichen auch ihre Kennnummer anzugeben.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/291/20250101/de/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/291/20260701/de/xml/image/image2.png)
 
 Anhang 5
 

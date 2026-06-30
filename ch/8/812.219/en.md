@@ -4,11 +4,11 @@ title: Ordinance of 26 May 2022 on In Vitro Diagnostic Medical Devices (IvDO)
 short: IvDO
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/291"
 language: en
-version: 2025-01-01
+version: 2026-07-01
 adopted: 2022-05-04
 in_force: 2022-05-26
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/291/20250101/en/xml/fedlex-data-admin-ch-eli-cc-2022-291-20250101-en-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/291/20250101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/291/20260701/en/xml/fedlex-data-admin-ch-eli-cc-2022-291-20260701-en-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/291/20260701/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (IvDO)
 
-of 4 May 2022 (Status as of 1 January 2025)
+of 4 May 2022 (Last amended on 1 July 2026)
 
 The Swiss Federal Council,
 
@@ -27,12 +27,12 @@ based on the Therapeutic Products Act of 15 December 2000[^ingress-1] (TPA), Art
 
 ordains:
 
-[^ingress-1]: [SR 812.21](https://fedlex.data.admin.ch/eli/cc/2001/422)
-[^ingress-2]: [SR 734.0](https://fedlex.data.admin.ch/eli/cc/19/259_252_257)
-[^ingress-3]: [SR 941.20](https://fedlex.data.admin.ch/eli/cc/2012/734)
-[^ingress-4]: [SR 930.11](https://fedlex.data.admin.ch/eli/cc/2010/347)
-[^ingress-5]: [SR 814.50](https://fedlex.data.admin.ch/eli/cc/1994/1933_1933_1933)
-[^ingress-6]: [SR 946.51](https://fedlex.data.admin.ch/eli/cc/1996/1725_1725_1725)
+[^ingress-1]: [SR 812.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9354)
+[^ingress-2]: [SR 734.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8570)
+[^ingress-3]: [SR 941.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11170)
+[^ingress-4]: [SR 930.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11020)
+[^ingress-5]: [SR 814.50](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9533)
+[^ingress-6]: [SR 946.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11467)
 
 ## Chapter 1 General provisions
 
@@ -46,7 +46,7 @@ ordains:
 
 <sup>2</sup> For devices which, when placed on the market or put into service, incorporate as an integral part a medical device in accordance with Article 3 paragraphs 1 and 2 of the Medical Devices Ordinance of 1 July 2020[^1-1] (MedDO), this Ordinance applies only to the in vitro diagnostic medical device part.
 
-[^1-1]: [SR 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
+[^1-1]: [SR 812.213](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9371)
 
 #### Art. 2
 
@@ -94,7 +94,7 @@ specifically enable the in vitro diagnostic medical device(s) to be used in acco
 
 specifically and directly assist the medical functionality of the in vitro diagnostic medical device or in vitro diagnostic medical devices in terms of its/their intended purpose(s).
 
-[^3-1]: [SR 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
+[^3-1]: [SR 812.213](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9371)
 
 #### Art. 4
 
@@ -152,7 +152,7 @@ In this Ordinance:
 <sup>5</sup> Compliance with the common specifications in paragraph 3 is required unless the manufacturer can duly justify that the adopted solutions ensure an equivalent level of safety and performance.
 
 [^6-1]: See the footnote to Art. 4 para. 1 let. e.
-[^6-2]: [SR 812.211](https://fedlex.data.admin.ch/eli/cc/2001/442)
+[^6-2]: [SR 812.211](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9355)
 
 #### Art. 7
 
@@ -180,7 +180,7 @@ A device is deemed to be supplied via an information society service if that ser
 
 Devices that are also machines within the meaning of Article 1 of the Machine Ordinance of 2 April 2008[^8-1] must satisfy the relevant general safety and health protection requirements of the Machine Ordinance where these requirements are more specific than those of Chapter II of Annex I to EU-IVDR[^8-2].
 
-[^8-1]: [SR 819.14](https://fedlex.data.admin.ch/eli/cc/2008/263)
+[^8-1]: [SR 819.14](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9850)
 [^8-2]: See the footnote to Art. 4 para. 1 let. e.
 
 #### Art. 9
@@ -238,7 +238,7 @@ The following must not bear a conformity marking:
 <sup>3</sup> Where the conformity of a device has to be assessed by a conformity assessment body that is designated in accordance with this Ordinance or recognised in connection with an international agreement (designated body), the identification number of this body must be affixed to the conformity marking.
 
 [^12-1]: See the footnote to Art. 4 para. 1 let. e.
-[^12-2]: [SR 810.306](https://fedlex.data.admin.ch/eli/cc/2020/553)
+[^12-2]: [SR 810.306](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9251)
 
 #### Art. 13
 
@@ -309,12 +309,12 @@ The product information may be provided in fewer than the three official languag
 
 <sup>4</sup> The obligations and modalities associated with device identification and registration are governed by Articles 24 and 26 and Annex VI to EU--IVDR, taking account of the amendments to this Annex adopted by the European Commission by means of delegated acts[^16-3].
 
-<sup>5</sup> …[^16-4]
+<sup>5</sup> Information on the UDI must be registered with Swissmedic in accordance with the EU-IVDR provisions mentioned in paragraph 4.[^16-4]
 
 [^16-1]: Stands for «unique device identifier».
 [^16-2]: See the footnote to Art. 4 para. 1 let. e.
 [^16-3]: See Annex 3.
-[^16-4]: Enters into force at a later date (see Art. 91 para. 2).
+[^16-4]: Amended by No I of the O of 20 Nov. 2024 (Device Registration Obligation), in force since 1 July 2026 ([AS 2024 742](https://fedlex.data.admin.ch/eli/oc/2024/742)).
 
 ## Chapter 3 Conformity Assessment, Certificate and Declaration
 
@@ -784,7 +784,7 @@ The further obligations of distributors prior to and after making a device avail
 
 #### Art. 48
 
-<sup>1</sup> Manufacturers or their authorised representatives and importers must register the information required by Part A, Section 1, of Annex VI to EU-IVDR[^48-1] with Swissmedic within three months of placing a device on the market for the first time.
+<sup>1</sup> Manufacturers or their authorised representatives and importers must register the information required by Part A, Section 1 of Annex VI to EU-IVDR[^48-1] with Swissmedic before placing a device on the market for the first time.[^48-2]
 
 <sup>2</sup> The economic operator in question must report any changes to the information provided to Swissmedic within one week.
 
@@ -793,6 +793,7 @@ The further obligations of distributors prior to and after making a device avail
 <sup>4</sup> Swissmedic shall verify the information provided by the economic operators and assign them a Swiss single registration number (CHRN).
 
 [^48-1]: See the footnote to Art. 4 para. 1 let. e.
+[^48-2]: Amended by No I of the O of 20 Nov. 2024 (Device Registration Obligation), in force since 1 July 2026 ([AS 2024 742](https://fedlex.data.admin.ch/eli/oc/2024/742)).
 
 ## Chapter 6 Device Surveillance
 
@@ -973,7 +974,7 @@ Manufacturers of devices made available on the market in Switzerland must report
 
 <sup>3</sup> Dispensing devices for the diagnosis of human communicable diseases to the general public is prohibited. Swissmedic may approve exceptions in the interests of public health.
 
-[^61-1]: [SR 810.12](https://fedlex.data.admin.ch/eli/cc/2022/537)
+[^61-1]: [SR 810.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9232)
 [^61-2]: Amended by Annex No 2 of the O of 29 Sept. 2023, in force since 1 Nov. 2023 ([AS 2023 576](https://fedlex.data.admin.ch/eli/oc/2023/576)).
 
 #### Art. 62
@@ -1009,7 +1010,7 @@ Maintenance must be carried out in accordance with the principles of a quality m
 
 <sup>4</sup> Swissmedic may issue and publish requirements for maintenance measures. These requirements shall be deemed to constitute the current scientific and technological standards.
 
-[^64-1]: [SR 941.210](https://fedlex.data.admin.ch/eli/cc/2006/245)
+[^64-1]: [SR 941.210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11180)
 
 #### Art. 65
 
@@ -1110,7 +1111,7 @@ For the purposes of verifying conformity, the authorities responsible for monito
 
 The provisions of Chapter 10 of MedDO, with the exception of Article 90 MedDO[^72-1], apply mutatis mutandis to data process by Swissmedic and third parties contracted by Swissmedic.
 
-[^72-1]: [SR 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
+[^72-1]: [SR 812.213](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9371)
 
 #### Art. 73
 
@@ -1293,7 +1294,7 @@ The requirements set out in Article 9 for devices manufactured and used in healt
 
 Exemptions issued by Swissmedic under Article 9 paragraph 4 and Article 17 paragraph 3 MedDO[^84-1] in the version dated 1 August 2020[^84-2] shall retain their validity.
 
-[^84-1]: [SR 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
+[^84-1]: [SR 812.213](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9371)
 [^84-2]: [AS 2001 3487](https://fedlex.data.admin.ch/eli/oc/2001/520); [2020 2975](https://fedlex.data.admin.ch/eli/oc/2020/551)
 
 #### Art. 85
@@ -1328,7 +1329,7 @@ If the manufacturer is domiciled in an EU or EEA state or has designated an auth
 
 Economic operators that have placed devices on the market prior to 26 May 2022 in accordance with Article 22*a* MedDO[^88-1] in the version dated 26 November 2017[^88-2] must register the information required under Article 48 paragraph 1 by 26 November 2022.
 
-[^88-1]: [SR 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
+[^88-1]: [SR 812.213](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9371)
 [^88-2]: [AS 2017 5935](https://fedlex.data.admin.ch/eli/oc/2017/650)
 
 #### Art. 89
@@ -1349,7 +1350,7 @@ Economic operators that have placed devices on the market prior to 26 May 2022 i
 
 <sup>4</sup> If an application for designation as a conformity assessment body according to Section 4*a* of MedDO in the version dated 26 November 2017[^89-9] was submitted before 26 May 2022, the designation is issued according to the new legislation.
 
-[^89-1]: [SR 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
+[^89-1]: [SR 812.213](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9371)
 [^89-2]: [AS 2001 3487](https://fedlex.data.admin.ch/eli/oc/2001/520); [2010 1215](https://fedlex.data.admin.ch/eli/oc/2010/170); [2015 999](https://fedlex.data.admin.ch/eli/oc/2015/189); [2017 5935](https://fedlex.data.admin.ch/eli/oc/2017/650)
 [^89-3]: See footnote to Art. 4 para. 1 let. e.
 [^89-4]: Amended by No I of the O of 20 Nov. 2024 (Amendment to the Transitional Regulations and Provision of Details on the Authorised Representative), in force since 1 Jan. 2025 ([AS 2024 741](https://fedlex.data.admin.ch/eli/oc/2024/741)).
@@ -1361,11 +1362,13 @@ Economic operators that have placed devices on the market prior to 26 May 2022 i
 
 #### Art. 90
 
-**Notification of devices**
+**Notification and registration of devices[^90-1]**
 
-<sup>1</sup> Until Article 16 paragraph 5 enters into force, the notification obligation for manufacturers domiciled in Switzerland according to Article 6 paragraphs 2 and 4 MedDO[^90-1] in the version dated 26 November 2017[^90-2] continue to apply.
+<sup>1</sup> Until Article 16 paragraph 5 enters into force, the notification obligation for manufacturers domiciled in Switzerland according to Article 6 paragraphs 2 and 4 MedDO[^90-2] in the version dated 26 November 2017[^90-3] continue to apply.
 
-<sup>2</sup> ...[^90-3]
+<sup>2</sup> For devices placed on the market on or after 1 July 2026, registration with Swissmedic in accordance with Article 16 paragraph 5 must be completed by 31 December 2026.[^90-4]
+
+<sup>2bis</sup> For devices under Article 22*a* of the Medical Devices Ordinance of 17 October 2001[^90-5] that were placed on the market on or after 26 November 2017, and for devices placed on the market on or after 26 May 2022, registration with Swissmedic in accordance with Article 16 paragraph 5 must be completed without delay if the manufacturer or the authorised representative is required to report a serious incident under Article 59 paragraph 1 letter a, a field safety corrective action under Article 59 paragraph 1 letter b or a trend under Article 59 paragraph 2.[^90-6]
 
 <sup>3</sup>
 
@@ -1375,9 +1378,12 @@ The notification obligation according to Article 10 for devices manufactured and
 - b. for class B and C devices: from 1 January 2025;
 - c. for class A devices: from 1 July 2025.
 
-[^90-1]: [SR 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
-[^90-2]: [AS 2001 3487](https://fedlex.data.admin.ch/eli/oc/2001/520); [2017 5935](https://fedlex.data.admin.ch/eli/oc/2017/650)
-[^90-3]: Enters into force at a later date (see Art. 91 para. 2).
+[^90-1]: Amended by No I of the O of 20 Nov. 2024 (Device Registration Obligation), in force since 1 July 2026 ([AS 2024 742](https://fedlex.data.admin.ch/eli/oc/2024/742)).
+[^90-2]: [SR 812.213](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9371)
+[^90-3]: [AS 2001 3487](https://fedlex.data.admin.ch/eli/oc/2001/520); [2017 5935](https://fedlex.data.admin.ch/eli/oc/2017/650)
+[^90-4]: Amended by No I of the O of 20 Nov. 2024 (Device Registration Obligation), in force since 1 July 2026 ([AS 2024 742](https://fedlex.data.admin.ch/eli/oc/2024/742)).
+[^90-5]: [AS 2017 5935](https://fedlex.data.admin.ch/eli/oc/2017/650)
+[^90-6]: Inserted by No I of the O of 20 Nov. 2024 (Device Registration Obligation), in force since 1 July 2026 ([AS 2024 742](https://fedlex.data.admin.ch/eli/oc/2024/742)).
 
 #### Art. 91
 
@@ -1385,7 +1391,9 @@ The notification obligation according to Article 10 for devices manufactured and
 
 <sup>1</sup> Subject to the exceptions in paragraph 2, this Ordinance enters into force on 26 May 2022.
 
-<sup>2</sup> Article 16 paragraph 5 and Article 90 paragraph 2 enters into force at a later date.
+<sup>2</sup> …[^91-1]
+
+[^91-1]: Repealed by No I of the O of 20 Nov. 2024 (Device Registration Obligation), with effect from 1 July 2026 ([AS 2024 742](https://fedlex.data.admin.ch/eli/oc/2024/742)).
 
 Annex 1
 
@@ -1499,22 +1507,22 @@ Where this Ordinance makes reference to provisions of EU-IVDR that in turn make 
 <tr><td>10. Council Directive 80/181/EEC of 20 December 1979 on the approximation of the laws of the Member States relating to units of measurement and on the repeal of Directive 71/354/EEC, OJ L 39 of 15.2.1980, p. 40</td><td>[tab] Metrology Act of 17 June 2011[^annex2-lvlu1-lvl2-8]</td></tr>
 <tr><td>11. Council Directive 2013/59/Euratom of 5 December 2013 laying down basic safety standards for protection against the dangers arising from exposure to ionising radiation, and repealing Directives 89/618/Euratom, 90/641/Euratom, 96/29/Euratom, 97/43/Euratom and 2003/122/Euratom, OJ L 13 of 17.1.2014, p. 1</td><td>[tab] Radiological Protection Act of 22 March 1991[^annex2-lvlu1-lvl2-9]</td></tr>
 <tr><td>12. Council Directive 90/385/EEC of 20 June 1990 on the approximation of the laws of the Member States relating to active implantable medical devices, OJ L 189 of 20.7.1990, p. 17</td><td>[tab] Medical Devices Ordinance of 17 October 2001[^annex2-lvlu1-lvl2-10]</td></tr>
-<tr><td>13. Council Directive 93/42/EEC of 14 June 1993 concerning medical devices, OJ L 169 of 12.7.1993, p. 1</td><td>[tab] Medical Devices Ordinance of 17 October 2001 [tab]</td></tr>
-<tr><td>14. Directive 98/79/EC of the European Parliament and of the Council of 27 October 1998 on in vitro diagnostic medical devices, OJ L 331 of 7.12.1998, p. 1.</td><td>[tab] Medical Devices Ordinance of 17 October 2001 [tab]</td></tr>
+<tr><td>13. Council Directive 93/42/EEC of 14 June 1993 concerning medical devices, OJ L 169 of 12.7.1993, p. 1</td><td>[tab] Medical Devices Ordinance of 17 October 2001</td></tr>
+<tr><td>14. Directive 98/79/EC of the European Parliament and of the Council of 27 October 1998 on in vitro diagnostic medical devices, OJ L 331 of 7.12.1998, p. 1.</td><td>[tab] Medical Devices Ordinance of 17 October 2001</td></tr>
 <tr><td>15. Regulation (EU) 2017/745 of the European Parliament and of the Council of 5 April 2017 on medical devices, amending Directive 2001/83/EC, Regulation (EC) No 178/2002 and Regulation (EC) No 1223/2009 and repealing Council Directives 90/385/EEC and 93/42/EEC, OJ L117 of 5.5. 2017, p. 1.</td><td>[tab] Medical Devices Ordinance of 1 July 2020[^annex2-lvlu1-lvl2-11]</td></tr>
 </table>
 
-[^annex2-lvlu1-lvl2-1]: SR **221****,112,****944**
-[^annex2-lvlu1-lvl2-2]: [SR 734.5](https://fedlex.data.admin.ch/eli/cc/2016/18)
-[^annex2-lvlu1-lvl2-3]: [SR 819.14](https://fedlex.data.admin.ch/eli/cc/2008/263)
-[^annex2-lvlu1-lvl2-4]: [SR 946.51](https://fedlex.data.admin.ch/eli/cc/1996/1725_1725_1725)
-[^annex2-lvlu1-lvl2-5]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
-[^annex2-lvlu1-lvl2-6]: [SR 930.11](https://fedlex.data.admin.ch/eli/cc/2010/347)
-[^annex2-lvlu1-lvl2-7]: [SR 813.1](https://fedlex.data.admin.ch/eli/cc/2004/724)
-[^annex2-lvlu1-lvl2-8]: [SR 941.20](https://fedlex.data.admin.ch/eli/cc/2012/734)
-[^annex2-lvlu1-lvl2-9]: [SR 814.50](https://fedlex.data.admin.ch/eli/cc/1994/1933_1933_1933)
+[^annex2-lvlu1-lvl2-1]: [SR 221](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5819)**,112,****944**
+[^annex2-lvlu1-lvl2-2]: [SR 734.5](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8590)
+[^annex2-lvlu1-lvl2-3]: [SR 819.14](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9850)
+[^annex2-lvlu1-lvl2-4]: [SR 946.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11467)
+[^annex2-lvlu1-lvl2-5]: [SR 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
+[^annex2-lvlu1-lvl2-6]: [SR 930.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11020)
+[^annex2-lvlu1-lvl2-7]: [SR 813.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9395)
+[^annex2-lvlu1-lvl2-8]: [SR 941.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11170)
+[^annex2-lvlu1-lvl2-9]: [SR 814.50](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9533)
 [^annex2-lvlu1-lvl2-10]: [AS 2001 3487](https://fedlex.data.admin.ch/eli/oc/2001/520);[2004 4037](https://fedlex.data.admin.ch/eli/oc/2004/591); [2008 4377](https://fedlex.data.admin.ch/eli/oc/2008/614); [2010 1215](https://fedlex.data.admin.ch/eli/oc/2010/170), [2749](https://fedlex.data.admin.ch/eli/oc/2010/358); [2015 999](https://fedlex.data.admin.ch/eli/oc/2015/189); [2017 5935](https://fedlex.data.admin.ch/eli/oc/2017/650); [2019 999](https://fedlex.data.admin.ch/eli/oc/2019/183), [2020 2975](https://fedlex.data.admin.ch/eli/oc/2020/551)
-[^annex2-lvlu1-lvl2-11]: [SR 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
+[^annex2-lvlu1-lvl2-11]: [SR 812.213](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9371)
 
 Annex 3
 
@@ -1540,13 +1548,15 @@ Annex 4
 
 (Art. 12 para. 1)
 
+## Conformity marking
+
 The conformity marking is as follows:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/291/20250101/en/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/291/20260701/en/xml/image/image1.png)
 
 Where a designated body has to be involved, its identification number is to be placed beside its conformity marking:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/291/20250101/en/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/291/20260701/en/xml/image/image2.png)
 
 Annex 5
 
