@@ -4,13 +4,12 @@ number: II A/2/3
 title: Landratsverordnung
 short: LRV
 language: de
-version: 2024-01-01
-valid_until: 2026-06-30
+version: 2026-07-01
 version_adopted: 2023-11-22
 adopted: 1994-04-13
 in_force: 1994-06-29
 url: "https://gesetze.gl.ch/app/de/texts_of_law/II-A.2.3"
-pdf: "https://gesetze.gl.ch/api/de/versions/2456/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2458/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://gesetze.gl.ch/api/de/versions/2456/pdf_file"
 
 (LRV)
 
-Vom 13.04.1994 (Stand 01.01.2024)
+Vom 13.04.1994 (Stand 01.07.2026)
 
 Der Landrat des Kantons Glarus,
 
@@ -340,11 +339,11 @@ beschliesst:
 - b. den Präsidenten der Fraktionen;
 - c. den Präsidenten der ständigen Kommissionen.
 
-<sup>2</sup> Bei gleichzeitigem Einsitz im Büro oder im Verhinderungsfall können sich die Fraktionspräsidenten durch ein Mitglied ihrer Fraktion, die Präsidenten der ständigen Kommissionen durch ihren Vizepräsidenten vertreten lassen.
+<sup>2</sup> Bei gleichzeitigem Einsitz im Büro oder im Verhinderungsfall können sich die Fraktionspräsidenten durch ein Mitglied ihrer Fraktion vertreten lassen.
 
-<sup>3</sup> Das erweiterte Büro
+<sup>3</sup> Das erweiterte Büro:
 
-- a. wählt zu Beginn einer Amtsdauer die Mitglieder der ständigen Kommissionen sowie je ein Ersatzmitglied je Fraktion;
+- a. wählt zu Beginn einer Amtsdauer und bei ausserordentlichen Gesamterneuerungswahlen nach Artikel 29a die Mitglieder der ständigen Kommissionen sowie je ein Ersatzmitglied je Fraktion;
 - b. nimmt bei Rücktritten während der Amtsdauer Ersatzwahlen von Mitgliedern und Ersatzmitgliedern der ständigen Kommissionen vor;
 - c. bereitet nach Bedarf weitere Wahlen vor;
 - d. trifft sich auf Einladung des Büros mindestens einmal jährlich mit den Regierungsmitgliedern, namentlich zur Besprechung der Zusammenarbeit sowie wichtiger Geschäfte und Vorhaben.
@@ -373,7 +372,7 @@ beschliesst:
 
 **Mitgliedschaft, Wahl**
 
-<sup>1</sup> Der Landrat wählt in Beachtung von Artikel 28 zu Beginn einer Amtsdauer aus dem Kreis seiner Mitglieder je die Präsidenten der ständigen Kommissionen.
+<sup>1</sup> Der Landrat wählt zu Beginn einer Amtsdauer aus dem Kreis seiner Mitglieder je die Präsidenten der ständigen Kommissionen. Vorbehalten bleibt eine ausserordentliche Gesamterneuerungswahl nach Artikel 29a.
 
 <sup>2</sup> Die Wahl erfolgt offen; der Landrat kann auch geheime Wahl beschliessen.
 
@@ -395,7 +394,7 @@ beschliesst:
 
 **Amtsdauer und Amtszeitbeschränkung**
 
-<sup>1</sup> Die Amtsdauer in den ständigen Kommissionen beträgt vier Jahre.
+<sup>1</sup> Die Amtsdauer in den ständigen Kommissionen beträgt vier Jahre. Vorbehalten bleibt eine ausserordentliche Gesamterneuerungswahl nach Artikel 29a.
 
 <sup>2</sup> Einer ständigen Kommission gemäss Artikel 37 kann ein Mitglied höchstens während zwölf Jahren angehören, wovon höchstens vier Jahre als Präsident. Erfolgt der Amtsantritt während einer laufenden Legislatur, so ist eine einmalige Wiederwahl zum Präsidenten zulässig. Für die Amtszeitbeschränkung fällt die Ersatzmitgliedschaft ausser Betracht.
 
@@ -410,6 +409,16 @@ beschliesst:
 <sup>1</sup> Bei der Bestellung der ständigen Kommissionen haben der Landrat und das erweiterte Büro auf die zahlenmässige Stärke der Fraktionen zu achten. Jede Fraktion hat Anspruch auf Vertretung in jeder ständigen Kommission.
 
 <sup>2</sup> Für besondere Kommissionen legt das Büro zu Beginn einer Amtsperiode den Verteilschlüssel für die Zuteilung der Kommissionssitze an die Fraktionen fest. Dieser richtet sich nach der zahlenmässigen Stärke einer Fraktion. Das Büro bestimmt die Grösse und Zusammensetzung der Kommissionen. Dabei können auch fraktionslose Ratsmitglieder berücksichtigt werden.
+
+#### Art. 29a
+
+**Ausserordentliche Gesamterneuerungswahl**
+
+<sup>1</sup> Eine ausserordentliche Gesamterneuerungswahl der ständigen Kommissionen findet statt, wenn deren Zusammensetzung erheblich von den Grundsätzen gemäss Artikel 29 Absatz 1 abweicht.
+
+<sup>2</sup> Das erweiterte Büro kann dem Landrat im Rahmen einer ausserordentlichen Gesamterneuerungswahl eine Neuwahl der Präsidenten der ständigen Kommissionen beantragen.
+
+<sup>3</sup> Findet eine ausserordentliche Gesamterneuerungswahl statt, legt das Büro den Verteilschlüssel gemäss Artikel 29 Absatz 2 neu fest.
 
 #### Art. 30
 
