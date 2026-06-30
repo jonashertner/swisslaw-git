@@ -4,11 +4,11 @@ title: Ordinanza del 7 novembre 2007 sulle strade nazionali (OSN)
 short: OSN
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/796"
 language: it
-version: 2024-04-01
+version: 2026-07-01
 adopted: 2007-11-07
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/796/20240401/it/xml/fedlex-data-admin-ch-eli-cc-2007-796-20240401-it-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/796/20240401/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/796/20260701/it/xml/fedlex-data-admin-ch-eli-cc-2007-796-20260701-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/796/20260701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/796/20240401/it"
 
 (OSN)
 
-del 7 novembre 2007 (Stato 1° aprile 2024)
+del 7 novembre 2007 (Stato 1° luglio 2026)
 
 Il Consiglio federale svizzero,
 
@@ -25,9 +25,9 @@ visti gli articoli 7 capoverso 2, 7*a* capoverso 3, 21 capoverso 3, 41 capoverso
 
 ordina:
 
-[^ingress-1]: [RS 725.11](https://fedlex.data.admin.ch/eli/cc/1960/525_569_555)
-[^ingress-2]: [RS 741.01](https://fedlex.data.admin.ch/eli/cc/1959/679_705_685)
-[^ingress-3]: Nuovo testo giusta il n. I dell’O del 22 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6791](https://fedlex.data.admin.ch/eli/oc/2017/759)).
+[^ingress-1]: [RS 725.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8453)
+[^ingress-2]: [RS 741.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8613)
+[^ingress-3]: Nuovo testo giusta la cifra I dell’O del 22 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6791](https://fedlex.data.admin.ch/eli/oc/2017/759)).
 
 ## Capitolo 1: Disposizioni generali
 
@@ -59,9 +59,9 @@ Parti costitutive delle strade nazionali sono, secondo la forma della sistemazio
 - n. corsie e aree di parcheggio situate nelle immediate vicinanze delle strade nazionali, comprese le vie d’accesso e di uscita;
 - o.[^2-3] gli impianti doganali, ad eccezione delle infrastrutture che servono allo sdoganamento.
 
-[^2-1]: Nuovo testo giusta il n. I dell’O del 17 ago. 2022, in vigore dal 1° ott. 2022 ([RU 2022 479](https://fedlex.data.admin.ch/eli/oc/2022/479)).
-[^2-2]: Nuovo testo giusta il n. I dell’O del 22 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6791](https://fedlex.data.admin.ch/eli/oc/2017/759)).
-[^2-3]: Introdotto dal il n. I dell’O del 17 set. 2010, in vigore dal 1° gen. 2011 ([RU 2010 4281](https://fedlex.data.admin.ch/eli/oc/2010/618)).
+[^2-1]: Nuovo testo giusta la cifra I dell’O del 17 ago. 2022, in vigore dal 1° ott. 2022 ([RU 2022 479](https://fedlex.data.admin.ch/eli/oc/2022/479)).
+[^2-2]: Nuovo testo giusta la cifra I dell’O del 22 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6791](https://fedlex.data.admin.ch/eli/oc/2017/759)).
+[^2-3]: Introdotto dal la cifra I dell’O del 17 set. 2010, in vigore dal 1° gen. 2011 ([RU 2010 4281](https://fedlex.data.admin.ch/eli/oc/2010/618)).
 
 #### Art. 3
 
@@ -80,7 +80,7 @@ Il rapporto di cui all’articolo 11*a* capoverso 2 LSN comprende in particolare
 - c. dati sull’evoluzione del traffico e dei problemi di capacità della rete delle strade nazionali nonché sullo stato di attuazione delle misure di potenziamento già decise e dei maggiori progetti sulla rete delle strade nazionali;
 - d. un elenco delle misure di potenziamento e dei maggiori progetti sulla rete delle strade nazionali con l’indicazione di costi e benefici.
 
-[^3a-1]: Introdotto dal n. I dell’O del 22 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6791](https://fedlex.data.admin.ch/eli/oc/2017/759)).
+[^3a-1]: Introdotto dalla cifra I dell’O del 22 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6791](https://fedlex.data.admin.ch/eli/oc/2017/759)).
 
 #### Art. 4
 
@@ -92,7 +92,7 @@ Il Dipartimento federale dell’ambiente, dei trasporti, dell’energia e delle 
 
 [^5-1]
 
-[^5-1]: Abrogato dal n. I 4 dell’O del 19 ago. 2020 che adegua ordinanze a seguito della modifica della legge federale sull’espropriazione, con effetto dal 1° gen. 2021 ([RU 2020 3995](https://fedlex.data.admin.ch/eli/oc/2020/744)).
+[^5-1]: Abrogato dalla cifra I n. 4 dell’O del 19 ago. 2020 che adegua ordinanze a seguito della modifica della legge federale sull’espropriazione, con effetto dal 1° gen. 2021 ([RU 2020 3995](https://fedlex.data.admin.ch/eli/oc/2020/744)).
 
 #### Art. 6
 
@@ -108,8 +108,8 @@ Il Dipartimento federale dell’ambiente, dei trasporti, dell’energia e delle 
 
 <sup>5</sup> I contratti tra il Cantone e il gestore degli impianti accessori devono essere sottoposti all’Ufficio federale delle strade (USTRA) per approvazione.
 
-[^6-1]: Nuovo testo giusta il n. I dell’O del 20 mag. 2020, in vigore dal 1° gen. 2021 ([RU 2020 2137](https://fedlex.data.admin.ch/eli/oc/2020/422)).
-[^6-2]: Nuovo testo giusta il n. I dell’O del 20 mag. 2020, in vigore dal 1° gen. 2021 ([RU 2020 2137](https://fedlex.data.admin.ch/eli/oc/2020/422)).
+[^6-1]: Nuovo testo giusta la cifra I dell’O del 20 mag. 2020, in vigore dal 1° gen. 2021 ([RU 2020 2137](https://fedlex.data.admin.ch/eli/oc/2020/422)).
+[^6-2]: Nuovo testo giusta la cifra I dell’O del 20 mag. 2020, in vigore dal 1° gen. 2021 ([RU 2020 2137](https://fedlex.data.admin.ch/eli/oc/2020/422)).
 
 #### Art. 7
 
@@ -134,7 +134,7 @@ Chi intende gestire sulle aree di sosta impianti di distribuzione di vettori ene
 
 <sup>7</sup> L’USTRA crea i presupposti tecnici necessari alla costruzione e all’esercizio di impianti di distribuzione di vettori energetici alternativi.
 
-[^7-1]: Nuovo testo giusta il n. I dell’O del 22 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6791](https://fedlex.data.admin.ch/eli/oc/2017/759)).
+[^7-1]: Nuovo testo giusta la cifra I dell’O del 22 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6791](https://fedlex.data.admin.ch/eli/oc/2017/759)).
 
 #### Art. 7a
 
@@ -152,8 +152,8 @@ Chi intende gestire sulle aree di sosta impianti di distribuzione di vettori ene
 
 <sup>6</sup> Dopo aver consultato i servizi cantonali, l’USTRA coordina i lavori nell’area permanentemente o temporaneamente necessaria per la costruzione di strade nazionali.
 
-[^7a-1]: Introdotto dal n. I dell’O del 22 ago. 2012, in vigore dal 1° ott. 2012 ([RU 2012 4603](https://fedlex.data.admin.ch/eli/oc/2012/557)).
-[^7a-2]: [RS 451](https://fedlex.data.admin.ch/eli/cc/1966/1637_1694_1679)
+[^7a-1]: Introdotto dalla cifra I dell’O del 22 ago. 2012, in vigore dal 1° ott. 2012 ([RU 2012 4603](https://fedlex.data.admin.ch/eli/oc/2012/557)).
+[^7a-2]: [RS 451](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7166)
 
 #### Art. 7b
 
@@ -163,7 +163,7 @@ Chi intende gestire sulle aree di sosta impianti di distribuzione di vettori ene
 
 <sup>2</sup> Se al momento dell’integrazione di strade esistenti nella rete delle strade nazionali sono ancora in corso operazioni di acquisto fondiario, la proprietà è trasmessa alla Confederazione soltanto dopo il regolamento delle procedure.
 
-[^7b-1]: Introdotto dal n. I dell’O del 19 giu. 2015, in vigore dal 1° gen. 2016 ([RU 2015 2263](https://fedlex.data.admin.ch/eli/oc/2015/423)).
+[^7b-1]: Introdotto dalla cifra I dell’O del 19 giu. 2015, in vigore dal 1° gen. 2016 ([RU 2015 2263](https://fedlex.data.admin.ch/eli/oc/2015/423)).
 
 ## Capitolo 2: Costruzione, sistemazione e utilizzazione delle strade nazionali
 
@@ -233,7 +233,7 @@ I documenti del progetto generale devono comprendere:
 
 <sup>4</sup> Se, durante l’elaborazione del progetto esecutivo, si constata che i costi dello stesso superano quelli del progetto generale di oltre il 10 per cento senza tenere conto del rincaro, l’aumento dei costi deve essere sottoposto per decisione al Consiglio federale. Per i progetti i cui costi sono inferiori a 100 milioni di franchi, gli aumenti di costi superiori a 10 milioni di franchi (senza rincaro) necessitano dell’approvazione del Consiglio federale.
 
-[^11-1]: Nuovo testo giusta il n. I dell’O del 19 giu. 2015, in vigore dal 1° gen. 2016 ([RU 2015 2263](https://fedlex.data.admin.ch/eli/oc/2015/423)).
+[^11-1]: Nuovo testo giusta la cifra I dell’O del 19 giu. 2015, in vigore dal 1° gen. 2016 ([RU 2015 2263](https://fedlex.data.admin.ch/eli/oc/2015/423)).
 
 #### Art. 12
 
@@ -241,7 +241,7 @@ I documenti del progetto generale devono comprendere:
 
 <sup>1</sup>
 
-Il progetto esecutivo deve essere presentato per approvazione al DATEC, corredato dei seguenti documenti:
+Il progetto esecutivo deve essere presentato per approvazione al DATEC, corredato in particolare dei seguenti dati e documenti:[^12-1]
 
 - a. il piano d’insieme;
 - b. i piani di situazione con indicazione degli allineamenti in scala 1:1000;
@@ -250,21 +250,25 @@ Il progetto esecutivo deve essere presentato per approvazione al DATEC, corredat
 - e. i profili trasversali in scala 1:100;
 - f. le dimensioni principali delle opere di costruzione;
 - g. il rapporto tecnico comprese le misure complementari;
-- g<sup>bis</sup>.[^12-1] breve rapporto sul traffico lento, se del caso;
+- g<sup>bis</sup>.[^12-2] breve rapporto sul traffico lento, se del caso;
 - h. il piano di drenaggio;
 - i. il rapporto sull’impatto ambientale, 3<sup>a</sup> tappa;
 - j. la stima dei costi;
 - k. il piano di espropriazione;
 - l. la tabella dei fondi;
 - m. i documenti relativi ad altre autorizzazioni di competenza della Confederazione;
-- n.[^12-2] eventuale piano di protezione e scavo per il luogo di ritrovamento di reperti archeologici e paleontologici.
+- n.[^12-3] eventuale piano di protezione e scavo per il luogo di ritrovamento di reperti archeologici e paleontologici;
+- o.[^12-4] per i progetti fuori delle zone edificabili: i piani dai quali risulti la delimitazione di eventuali edifici nuovi o demoliti ai sensi dell’articolo 25a capoverso 1 dell’ordinanza del 28 giugno 2000[^12-5] sulla pianificazione del territorio e di eventuali superfici impermeabilizzate nuove o demolite ai sensi dell’articolo 25a capoverso 2 dell’ordinanza sulla pianificazione del territorio.
 
 <sup>2</sup> Il DATEC esamina entro dieci giorni se l’incartamento è completo e lo trasmette al Cantone per parere e pubblicazione.
 
 <sup>3</sup> Il DATEC approva il progetto esecutivo entro sei mesi dalla conclusione della procedura d’istruzione. Esso informa le parti della conclusione della procedura d’istruzione.
 
-[^12-1]: Introdotta dal n. I dell’O del 19 giu. 2015, in vigore dal 1° gen. 2016 ([RU 2015 2263](https://fedlex.data.admin.ch/eli/oc/2015/423)).
-[^12-2]: Introdotta dal n. I dell’O del 22 ago. 2012, in vigore dal 1° ott. 2012 ([RU 2012 4603](https://fedlex.data.admin.ch/eli/oc/2012/557)).
+[^12-1]: Nuovo testo giusta l’appendice n. 5 dell’O del 15 ott. 2025, in vigore dal 1° lug. 2026 ([RU 2025 659](https://fedlex.data.admin.ch/eli/oc/2025/659)).
+[^12-2]: Introdotta dalla cifra I dell’O del 19 giu. 2015, in vigore dal 1° gen. 2016 ([RU 2015 2263](https://fedlex.data.admin.ch/eli/oc/2015/423)).
+[^12-3]: Introdotta dalla cifra I dell’O del 22 ago. 2012, in vigore dal 1° ott. 2012 ([RU 2012 4603](https://fedlex.data.admin.ch/eli/oc/2012/557)).
+[^12-4]: Introdotto dall’appendice n. 5 dell’O del 15 ott. 2025, in vigore dal 1° lug. 2026 ([RU 2025 659](https://fedlex.data.admin.ch/eli/oc/2025/659)).
+[^12-5]: [RS 700.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8353)
 
 #### Art. 13
 
@@ -287,8 +291,8 @@ Il progetto esecutivo deve essere presentato per approvazione al DATEC, corredat
 
 <sup>4</sup> Per i nuovi tratti integrati nella rete delle strade nazionali secondo l’articolo 8*a* capoverso 1 LSN gli allineamenti e le linee di arretramento stabiliti secondo il diritto cantonale si applicano fino alla determinazione legale degli allineamenti delle strade nazionali.[^13-2]
 
-[^13-1]: Nuovo testo giusta il n. I dell’O del 22 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6791](https://fedlex.data.admin.ch/eli/oc/2017/759)).
-[^13-2]: Introdotto dal n. I dell’O del 22 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6791](https://fedlex.data.admin.ch/eli/oc/2017/759)).
+[^13-1]: Nuovo testo giusta la cifra I dell’O del 22 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6791](https://fedlex.data.admin.ch/eli/oc/2017/759)).
+[^13-2]: Introdotto dalla cifra I dell’O del 22 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6791](https://fedlex.data.admin.ch/eli/oc/2017/759)).
 
 #### Art. 13a
 
@@ -296,8 +300,8 @@ Il progetto esecutivo deve essere presentato per approvazione al DATEC, corredat
 
 La pubblicazione degli allineamenti nel Catasto delle restrizioni di diritto pubblico della proprietà, secondo l’articolo 16 della legge del 5 ottobre 2007[^13a-2] sulla geoinformazione, deve considerarsi una pubblicazione ai sensi dell’articolo 29 LSN.
 
-[^13a-1]: Introdotto dal n. I dell’O del 19 giu. 2015, in vigore dal 1° gen. 2016 ([RU 2015 2263](https://fedlex.data.admin.ch/eli/oc/2015/423)).
-[^13a-2]: [RS 510.62](https://fedlex.data.admin.ch/eli/cc/2008/388)
+[^13a-1]: Introdotto dalla cifra I dell’O del 19 giu. 2015, in vigore dal 1° gen. 2016 ([RU 2015 2263](https://fedlex.data.admin.ch/eli/oc/2015/423)).
+[^13a-2]: [RS 510.62](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7338)
 
 #### Art. 14
 
@@ -325,7 +329,7 @@ Se il progetto iniziale subisce considerevoli modifiche nel corso della procedur
 
 <sup>3</sup> Il DATEC può vincolare l’autorizzazione del progetto esecutivo alla condizione che, entro tre anni dalla messa in esercizio dell’opera, sia accertato che le misure di protezione dell’ambiente sono state applicate in modo adeguato ed è stato raggiunto l’effetto auspicato.
 
-[^16-1]: [RS 814.011](https://fedlex.data.admin.ch/eli/cc/1988/1931_1931_1931)
+[^16-1]: [RS 814.011](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9438)
 
 #### Art. 17
 
@@ -345,17 +349,25 @@ Se il progetto iniziale subisce considerevoli modifiche nel corso della procedur
 
 L’esame dei progetti dettagliati può essere affidato a un ingegnere verificatore. Questo esame non costituisce una consegna dell’opera e non esime l’ingegnere incaricato del progetto dalle sue responsabilità.[^18-1]
 
-[^18-1]: Nuovo testo del per. giusta il n. I dell’O del 17 set. 2010, in vigore dal 1° gen. 2011 ([RU 2010 4281](https://fedlex.data.admin.ch/eli/oc/2010/618)).
+[^18-1]: Nuovo testo del per. giusta la cifra I dell’O del 17 set. 2010, in vigore dal 1° gen. 2011 ([RU 2010 4281](https://fedlex.data.admin.ch/eli/oc/2010/618)).
 
 #### Art. 19
 
-**Annuncio al servizio cantonale di vigilanza sulle misurazioni**[^19-1]
+**Obblighi di notifica**[^19-1]
 
-<sup>1</sup> L’USTRA informa il servizio cantonale di vigilanza sulle misurazioni in merito alla presentazione di un progetto esecutivo.
+<sup>1</sup> L’USTRA informa l’Ufficio federale di topografia (swisstopo) in merito alla conclusione di una procedura di approvazione dei piani trasmettendo la decisione di approvazione dei piani e i piani richiesti da swisstopo.
 
-<sup>2</sup> Informa tale servizio entro un termine di 20 giorni circa i cambiamenti del progetto esecutivo che rendono necessario un aggiornamento della misurazione ufficiale.
+<sup>2</sup>
 
-[^19-1]: Nuovo testo giusta l’all. n. 10 dell’O del 23 ago. 2023, in vigore dal 1° gen. 2024 ([RU 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)).
+Nel caso di costruzioni e impianti che rendono necessaria una tenuta a giorno della misurazione ufficiale o della misurazione nazionale, l’USTRA è tenuto a comunicare a swisstopo entro 20 giorni, allegando i piani richiesti da swisstopo:
+
+- a. l’inizio dei lavori; e
+- b. il completamento dei lavori.
+
+<sup>3</sup> Se il progetto è situato in tutto o in parte fuori delle zone edificabili, l’USTRA trasmette sotto forma di geodati i piani di cui all’articolo 12 capoverso 1 lettera o approvati con decisione passata in giudicato all’autorità cantonale competente di cui all’articolo 25 capoverso 2 della legge del 22 giugno 1979[^19-2] sulla pianificazione del territorio contestualmente alla comunicazione a swisstopo del completamento dei lavori.
+
+[^19-1]: Nuovo testo giusta l’appendice n. 5 dell’O del 15 ott. 2025, in vigore dal 1° lug. 2026 ([RU 2025 659](https://fedlex.data.admin.ch/eli/oc/2025/659)).
+[^19-2]: [RS 700](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8351)
 
 ### Sezione 2: Acquisto del terreno
 
@@ -383,7 +395,7 @@ I progetti preliminari di rilottizzazione devono essere presentati all’USTRA. 
 
 Per la stima del valore venale del terreno che deve essere ceduto per la costruzione stradale nella procedura di rilottizzazione o per la stima degli inconvenienti non rimunerabili in virtù della nuova ripartizione, i Cantoni possono prescrivere, nelle loro disposizioni d’esecuzione, l’applicazione della LEspr[^23-1].
 
-[^23-1]: [RS 711](https://fedlex.data.admin.ch/eli/cc/47/689_701_723)
+[^23-1]: [RS 711](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8369)
 
 #### Art. 24
 
@@ -392,7 +404,7 @@ Per la stima del valore venale del terreno che deve essere ceduto per la costruz
 Per le eccezioni al divieto di cambiare la destinazione dei fondi e di frazionamento nonché all’obbligo di restituire i contributi si applicano gli articoli 66 lettera e, 67 capoverso 4, 68 lettera k e 69 capoverso 5 dell’ordinanza del 2 novembre 2022[^24-2] sui miglioramenti strutturali.
 
 [^24-1]: Nuovo testo giusta l’all. 9 n. 2 dell’O del 2 nov. 2022 sui miglioramenti strutturali nell’agricoltura, in vigore dal 1° gen. 2023 ([RU 2022 754](https://fedlex.data.admin.ch/eli/oc/2022/754)).
-[^24-2]: RS **9****13.1**
+[^24-2]: [RS 913.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10440)
 
 #### Art. 25
 
@@ -404,13 +416,13 @@ Laddove la procedura di rilottizzazione non basta manifestamente a soddisfare le
 
 **Deposito suppletivo dei piani[^26-1]**
 
-<sup>1</sup> e <sup>2</sup> ... [^26-2]
+<sup>1 e <sup>2</sup></sup> ... [^26-2]
 
 <sup>3</sup> Se, dopo il deposito dei piani, occorre disporre in permanenza o temporaneamente di altri fondi o di parti di essi per la costruzione stradale, per installazioni, discariche o lavori d’adattamento, si procede a un deposito suppletivo dei piani solamente se l’ampliamento pregiudica i diritti di terzi e se non è possibile trovare un accordo con gli aventi diritto.i diritti di terzi e se non è possibile trovare un accordo con gli aventi diritto.[^26-3]
 
-[^26-1]: Nuovo testo giusta il n. I 4 dell’O del 19 ago. 2020 che adegua ordinanze a seguito della modifica della legge federale sull’espropriazione, in vigore dal 1° gen. 2021 ([RU 2020 3995](https://fedlex.data.admin.ch/eli/oc/2020/744)).
-[^26-2]: Abrogati dal n. I 4 dell’O del 19 ago. 2020 che adegua ordinanze a seguito della modifica della legge federale sull’espropriazione, con effetto dal 1° gen. 2021 ([RU 2020 3995](https://fedlex.data.admin.ch/eli/oc/2020/744)).
-[^26-3]: Nuovo testo giusta il n. I 4 dell’O del 19 ago. 2020 che adegua ordinanze a seguito della modifica della legge federale sull’espropriazione, in vigore dal 1° gen. 2021 ([RU 2020 3995](https://fedlex.data.admin.ch/eli/oc/2020/744)).
+[^26-1]: Nuovo testo giusta la cifra I n. 4 dell’O del 19 ago. 2020 che adegua ordinanze a seguito della modifica della legge federale sull’espropriazione, in vigore dal 1° gen. 2021 ([RU 2020 3995](https://fedlex.data.admin.ch/eli/oc/2020/744)).
+[^26-2]: Abrogati dalla cifra I n. 4 dell’O del 19 ago. 2020 che adegua ordinanze a seguito della modifica della legge federale sull’espropriazione, con effetto dal 1° gen. 2021 ([RU 2020 3995](https://fedlex.data.admin.ch/eli/oc/2020/744)).
+[^26-3]: Nuovo testo giusta la cifra I n. 4 dell’O del 19 ago. 2020 che adegua ordinanze a seguito della modifica della legge federale sull’espropriazione, in vigore dal 1° gen. 2021 ([RU 2020 3995](https://fedlex.data.admin.ch/eli/oc/2020/744)).
 
 #### Art. 27
 
@@ -420,7 +432,7 @@ Laddove la procedura di rilottizzazione non basta manifestamente a soddisfare le
 
 <sup>2</sup> Le tasse per le operazioni del registro fondiario nell’ambito di espropriazioni necessarie alla costruzione di strade nazionali sono riscosse in conformità delle disposizioni di diritto federale concernenti le tasse e le indennità nella procedura d’espropriazione.
 
-[^27-1]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^27-1]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 
 ### Sezione 3: Sistemazione e utilizzazione
 
@@ -449,9 +461,9 @@ Sono esenti da indennità:
 
 <sup>4</sup> L’USTRA può adottare le misure necessarie al ripristino dello stato originario a spese del trasgressore, indipendentemente dall’avvio o dall’esito di un procedimento penale.[^29-3]
 
-[^29-1]: Nuovo testo giusta il n. I dell’O del 17 ago. 2022, in vigore dal 1° ott. 2022 ([RU 2022 479](https://fedlex.data.admin.ch/eli/oc/2022/479)).
-[^29-2]: Introdotto dal n. I dell’O del 17 ago. 2022, in vigore dal 1° ott. 2022 ([RU 2022 479](https://fedlex.data.admin.ch/eli/oc/2022/479)).
-[^29-3]: Introdotto dal n. I dell’O del 19 giu. 2015, in vigore dal 1° gen. 2016 ([RU 2015 2263](https://fedlex.data.admin.ch/eli/oc/2015/423)).
+[^29-1]: Nuovo testo giusta la cifra I dell’O del 17 ago. 2022, in vigore dal 1° ott. 2022 ([RU 2022 479](https://fedlex.data.admin.ch/eli/oc/2022/479)).
+[^29-2]: Introdotto dalla cifra I dell’O del 17 ago. 2022, in vigore dal 1° ott. 2022 ([RU 2022 479](https://fedlex.data.admin.ch/eli/oc/2022/479)).
+[^29-3]: Introdotto dalla cifra I dell’O del 19 giu. 2015, in vigore dal 1° gen. 2016 ([RU 2015 2263](https://fedlex.data.admin.ch/eli/oc/2015/423)).
 
 #### Art. 30
 
@@ -549,11 +561,11 @@ Possono essere deliberate su invito e, se possibile, sulla base di tre offerte a
 
 <sup>5</sup> D’intesa con il Dipartimento federale dell’economia, della formazione e della ricerca[^38-3] e il Dipartimento federale delle finanze, il DATEC adegua i valori soglia alle disposizioni dell’Accordo del 15 aprile 1994[^38-4] sugli appalti pubblici (Accordo GATT).[^38-5]
 
-[^38-1]: Nuovo testo giusta il n. I dellO del 17 set. 2010, in vigore dal 1° gen. 2011 ([RU 2010 4281](https://fedlex.data.admin.ch/eli/oc/2010/618)).
-[^38-2]: Nuovo testo giusta il n. I dell’O del 17 set. 2010, in vigore dal 1° gen. 2011 ([RU 2010 4281](https://fedlex.data.admin.ch/eli/oc/2010/618)).
+[^38-1]: Nuovo testo giusta la cifra I dellO del 17 set. 2010, in vigore dal 1° gen. 2011 ([RU 2010 4281](https://fedlex.data.admin.ch/eli/oc/2010/618)).
+[^38-2]: Nuovo testo giusta la cifra I dell’O del 17 set. 2010, in vigore dal 1° gen. 2011 ([RU 2010 4281](https://fedlex.data.admin.ch/eli/oc/2010/618)).
 [^38-3]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 16 cpv. 3 dell’O del 17 nov. 2004 sulle pubblicazioni ufficiali (RS **2004** 4937), con effetto dal 1° gen. 2013.
-[^38-4]: [RS 0.632.231.422](https://fedlex.data.admin.ch/eli/cc/1996/609_609_609)
-[^38-5]: Introdotto dal n. I dell’O del 17 set. 2010, in vigore dal 1° gen. 2011 ([RU 2010 4281](https://fedlex.data.admin.ch/eli/oc/2010/618)).
+[^38-4]: [RS 0.632.231.422](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2256)
+[^38-5]: Introdotto dalla cifra I dell’O del 17 set. 2010, in vigore dal 1° gen. 2011 ([RU 2010 4281](https://fedlex.data.admin.ch/eli/oc/2010/618)).
 
 #### Art. 39
 
@@ -578,9 +590,9 @@ Prima dell’aggiudicazione i Cantoni devono sottoporre all’approvazione dell�
 
 <sup>4</sup> Il DATEC adegua i valori del capoverso 1 alle disposizioni dell’Accordo GATT[^40-2].[^40-3]
 
-[^40-1]: Nuovo testo giusta il n. I dell’O del 17 set. 2010, in vigore dal 1° gen. 2011 ([RU 2010 4281](https://fedlex.data.admin.ch/eli/oc/2010/618)).
-[^40-2]: [RS 0.632.231.422](https://fedlex.data.admin.ch/eli/cc/1996/609_609_609)
-[^40-3]: Introdotto dal n. I dell’O del 17 set. 2010, in vigore dal 1° gen. 2011 ([RU 2010 4281](https://fedlex.data.admin.ch/eli/oc/2010/618)).
+[^40-1]: Nuovo testo giusta la cifra I dell’O del 17 set. 2010, in vigore dal 1° gen. 2011 ([RU 2010 4281](https://fedlex.data.admin.ch/eli/oc/2010/618)).
+[^40-2]: [RS 0.632.231.422](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2256)
+[^40-3]: Introdotto dalla cifra I dell’O del 17 set. 2010, in vigore dal 1° gen. 2011 ([RU 2010 4281](https://fedlex.data.admin.ch/eli/oc/2010/618)).
 
 ### Sezione 4: Esecuzione
 
@@ -616,7 +628,7 @@ I Cantoni devono presentare all’USTRA un conto finale per ogni opera costruita
 
 Al momento della consegna devono essere disponibili i documenti necessari all’esercizio, alla sorveglianza e alla manutenzione di tutte le opere e le installazioni tecniche.[^44-1] Essi vanno consegnati all’USTRA.
 
-[^44-1]: Nuovo testo giusta il n. I dell’O del 17 set. 2010, in vigore dal 1° gen. 2011 ([RU 2010 4281](https://fedlex.data.admin.ch/eli/oc/2010/618)).
+[^44-1]: Nuovo testo giusta la cifra I dell’O del 17 set. 2010, in vigore dal 1° gen. 2011 ([RU 2010 4281](https://fedlex.data.admin.ch/eli/oc/2010/618)).
 
 ### Sezione 5: Trasmissione della proprietà
 
@@ -628,7 +640,7 @@ Al momento della consegna devono essere disponibili i documenti necessari all’
 
 <sup>3</sup> Con la conclusione del progetto, gli impegni vincolati alla costruzione sono trasmessi alla Confederazione per successione universale. Il progetto è considerato concluso non appena terminata la consegna dell’opera senza che siano state riscontrate importanti manchevolezze.[^45-1] La Confederazione è legittimata a far valere pretese da contratti d’opera e mandati conferiti a imprese, ingegneri e architetti.
 
-[^45-1]: Nuovo testo del per. giusta il n. I dell’O del 17 set. 2010, in vigore dal 1° gen. 2011 ([RU 2010 4281](https://fedlex.data.admin.ch/eli/oc/2010/618)).
+[^45-1]: Nuovo testo del per. giusta la cifra I dell’O del 17 set. 2010, in vigore dal 1° gen. 2011 ([RU 2010 4281](https://fedlex.data.admin.ch/eli/oc/2010/618)).
 
 ## Capitolo 4: Manutenzione delle strade nazionali
 
@@ -702,8 +714,8 @@ Il DATEC emana istruzioni sulla sicurezza nelle gallerie. A tal fine si attiene 
 
 <sup>4</sup> I Cantoni eseguono le misure previste nei piani di gestione del traffico approvati dall’USTRA.
 
-[^52-1]: Nuovo testo giusta il n. I dell’O del 19 giu. 2015, in vigore dal 1° gen. 2016 ([RU 2015 2263](https://fedlex.data.admin.ch/eli/oc/2015/423)).
-[^52-2]: Nuovo testo giusta il n. I dell’O del 19 giu. 2015, in vigore dal 1° gen. 2016 ([RU 2015 2263](https://fedlex.data.admin.ch/eli/oc/2015/423)).
+[^52-1]: Nuovo testo giusta la cifra I dell’O del 19 giu. 2015, in vigore dal 1° gen. 2016 ([RU 2015 2263](https://fedlex.data.admin.ch/eli/oc/2015/423)).
+[^52-2]: Nuovo testo giusta la cifra I dell’O del 19 giu. 2015, in vigore dal 1° gen. 2016 ([RU 2015 2263](https://fedlex.data.admin.ch/eli/oc/2015/423)).
 
 #### Art. 53
 
@@ -727,7 +739,7 @@ Per quanto attiene ai fondi delle strade nazionali, sono in particolare di sua c
 - b. costituzione, modifica e soppressione di diritti di superficie e altri diritti reali limitati;
 - c. locazione e affitto.[^54-1]
 
-[^54-1]: Introdotto dal n. I dell’O del 17 set. 2010, in vigore dal 1° gen. 2011 ([RU 2010 4281](https://fedlex.data.admin.ch/eli/oc/2010/618)).
+[^54-1]: Introdotto dalla cifra I dell’O del 17 set. 2010, in vigore dal 1° gen. 2011 ([RU 2010 4281](https://fedlex.data.admin.ch/eli/oc/2010/618)).
 
 #### Art. 54a
 
@@ -737,7 +749,7 @@ Per quanto attiene ai fondi delle strade nazionali, sono in particolare di sua c
 
 <sup>2</sup> Su richiesta, può consentire alle unità territoriali di accedere al materiale fotografico anche mediante una procedura di richiamo, se ciò risulta necessario per l’adempimento dei loro compiti.
 
-[^54a-1]: Introdotto dal n. I dell’O del 19 giu. 2015, in vigore dal 1° gen. 2016 ([RU 2015 2263](https://fedlex.data.admin.ch/eli/oc/2015/423)).
+[^54a-1]: Introdotto dalla cifra I dell’O del 19 giu. 2015, in vigore dal 1° gen. 2016 ([RU 2015 2263](https://fedlex.data.admin.ch/eli/oc/2015/423)).
 
 #### Art. 55
 
@@ -773,7 +785,7 @@ Allegato 1[^t-1]
 
 ## Tratti realizzati dai Cantoni nel quadro del completamento della rete delle strade nazionali approvata (stato: 31 dicembre 2023)
 
-[^t-1]: Nuovo testo giusta il n. I dell’O del 21 feb. 2024, in vigore dal 1° apr. 2024 ([RU 2024 100](https://fedlex.data.admin.ch/eli/oc/2024/100)).
+[^t-1]: Nuovo testo giusta la cifra I dell’O del 21 feb. 2024, in vigore dal 1° apr. 2024 ([RU 2024 100](https://fedlex.data.admin.ch/eli/oc/2024/100)).
 
 Legenda:
 
@@ -852,7 +864,7 @@ Allegato 2[^t-2]
 
 ## Unità territoriali
 
-[^t-2]: Nuovo testo giusta il n. I dell’O del 30 ott. 2019, in vigore dal 1° gen. 2020 ([RU 2019 3459](https://fedlex.data.admin.ch/eli/oc/2019/632)).
+[^t-2]: Nuovo testo giusta la cifra I dell’O del 30 ott. 2019, in vigore dal 1° gen. 2020 ([RU 2019 3459](https://fedlex.data.admin.ch/eli/oc/2019/632)).
 
 <table>
 <tr><th>UT</th><th>Cantone</th><th>Limiti (raccordi)</th></tr>
@@ -875,7 +887,7 @@ Allegato 3[^t-3]
 
 ## Strade per le quali i Cantoni devono allestire piani di gestione del traffico
 
-[^t-3]: Nuovo testo giusta il n. I dell’O del 30 ott. 2019, in vigore dal 1° gen. 2020 ([RU 2019 3459](https://fedlex.data.admin.ch/eli/oc/2019/632)).
+[^t-3]: Nuovo testo giusta la cifra I dell’O del 30 ott. 2019, in vigore dal 1° gen. 2020 ([RU 2019 3459](https://fedlex.data.admin.ch/eli/oc/2019/632)).
 
 <table>
 <tr><th>N.</th><th>Cantone</th><th>Strada</th><th>da</th><th></th><th>via</th><th>a</th><th></th></tr>
@@ -1019,6 +1031,6 @@ Le seguenti ordinanze sono modificate come segue:
 
 ...[^annex4-lvlu1-3]
 
-[^annex4-lvlu1-1]: [[RU 1996 250](https://fedlex.data.admin.ch/eli/oc/1996/250_250_250); [1997 557](https://fedlex.data.admin.ch/eli/oc/1997/557_557_557); [2000 345](https://fedlex.data.admin.ch/eli/oc/2000/68), [703](https://fedlex.data.admin.ch/eli/oc/2000/121)n. II 3; [2002 1177](https://fedlex.data.admin.ch/eli/oc/2002/193); [2004 5051](https://fedlex.data.admin.ch/eli/oc/2004/777)]
+[^annex4-lvlu1-1]: [[RU 1996 250](https://fedlex.data.admin.ch/eli/oc/1996/250_250_250); [1997 557](https://fedlex.data.admin.ch/eli/oc/1997/557_557_557); [2000 345](https://fedlex.data.admin.ch/eli/oc/2000/68), [703](https://fedlex.data.admin.ch/eli/oc/2000/121)cifra II n. 3; [2002 1177](https://fedlex.data.admin.ch/eli/oc/2002/193); [2004 5051](https://fedlex.data.admin.ch/eli/oc/2004/777)]
 [^annex4-lvlu1-2]: [[RU 1961 796](https://fedlex.data.admin.ch/eli/oc/1961/766_781_796), [2000 762](https://fedlex.data.admin.ch/eli/oc/2000/127)]
 [^annex4-lvlu1-3]: Le mod. possono essere consultate alla [RU 2007 5957](https://fedlex.data.admin.ch/eli/oc/2007/796).

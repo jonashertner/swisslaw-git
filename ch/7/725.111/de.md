@@ -4,11 +4,11 @@ title: Nationalstrassenverordnung vom 7. November 2007 (NSV)
 short: NSV
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/796"
 language: de
-version: 2024-04-01
+version: 2026-07-01
 adopted: 2007-11-07
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/796/20240401/de/xml/fedlex-data-admin-ch-eli-cc-2007-796-20240401-de-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/796/20240401/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/796/20260701/de/xml/fedlex-data-admin-ch-eli-cc-2007-796-20260701-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/796/20260701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/796/20240401/de"
 
 (NSV)
 
-vom 7. November 2007 (Stand am 1. April 2024)
+vom 7. November 2007 (Stand am 1. Juli 2026)
 
 Der Schweizerische Bundesrat,
 
@@ -25,8 +25,8 @@ gestützt auf die Artikel 7 Absatz 2, 7*a* Absatz 3, 21 Absatz 3, 41 Absatz 2, 4
 
 verordnet:
 
-[^ingress-1]: [SR 725.11](https://fedlex.data.admin.ch/eli/cc/1960/525_569_555)
-[^ingress-2]: [SR 741.01](https://fedlex.data.admin.ch/eli/cc/1959/679_705_685)
+[^ingress-1]: [SR 725.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8453)
+[^ingress-2]: [SR 741.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8613)
 [^ingress-3]: Fassung gemäss Ziff. I der V vom 22. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6791](https://fedlex.data.admin.ch/eli/oc/2017/759)).
 
 ## 1. Kapitel: Allgemeine Bestimmungen
@@ -153,7 +153,7 @@ Wer auf Rastplätzen Anlagen zur Abgabe von alternativen Antriebsmitteln, wie Sc
 <sup>6</sup> Das ASTRA koordiniert nach Anhörung der kantonalen Stellen die Arbeiten auf dem Gebiet, das für den Nationalstrassenbau dauernd oder vorübergehend benötigt wird*.*
 
 [^7a-1]: Eingefügt durch Ziff. I der V vom 22. Aug. 2012, in Kraft seit 1. Okt. 2012 ([AS 2012 4603](https://fedlex.data.admin.ch/eli/oc/2012/557)).
-[^7a-2]: [SR 451](https://fedlex.data.admin.ch/eli/cc/1966/1637_1694_1679)
+[^7a-2]: [SR 451](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7166)
 
 #### Art. 7b
 
@@ -241,7 +241,7 @@ Die Projektunterlagen des generellen Projekts müssen enthalten:
 
 <sup>1</sup>
 
-Das Ausführungsprojekt ist dem UVEK unter Beilage folgender Unterlagen zur Genehmigung einzureichen:
+Das Ausführungsprojekt ist dem UVEK unter Beilage insbesondere folgender Angaben und Unterlagen zur Genehmigung einzureichen:[^12-1]
 
 - a. Übersichtsplan;
 - b. Situationspläne mit Angabe der Baulinien im Massstab 1:1000;
@@ -250,21 +250,25 @@ Das Ausführungsprojekt ist dem UVEK unter Beilage folgender Unterlagen zur Gene
 - e. Querprofile im Massstab 1:100;
 - f. Hauptabmessungen der Kunstbauten;
 - g. technischer Bericht einschliesslich flankierender Massnahmen;
-- g<sup>bis</sup>.[^12-1] kurzer Bericht zum Langsamverkehr, soweit dieser betroffen ist;
+- g<sup>bis</sup>.[^12-2] kurzer Bericht zum Langsamverkehr, soweit dieser betroffen ist;
 - h. Entwässerungskonzept;
 - i. Umweltverträglichkeitsbericht 3. Stufe;
 - j. Angaben über die Kosten;
 - k. Enteignungsplan;
 - l. Grunderwerbstabelle;
 - m. Unterlagen für weitere Bewilligungen, für die der Bund zuständig ist;
-- n.[^12-2] allfälliges Schutz- und Grabungskonzept für archäologische und paläontologische Fundstellen.
+- n.[^12-3] allfälliges Schutz- und Grabungskonzept für archäologische und paläontologische Fundstellen;
+- o.[^12-4] bei Vorhaben ausserhalb der Bauzonen: Pläne, aus denen die Abgrenzung allfälliger neuer oder beseitigter Gebäude gemäss Artikel 25*a* Absatz 1 der Raumplanungsverordnung vom 28. Juni 2000[^12-5] und allfälliger neuer oder beseitigter Versiegelungen gemäss Artikel 25*a* Absatz 2 der Raumplanungsverordnung ersichtlich ist.
 
 <sup>2</sup> Das UVEK prüft die Unterlagen innert zehn Tagen auf Vollständigkeit und übermittelt sie anschliessend dem Kanton zur Stellungnahme und zur öffentlichen Auflage.
 
 <sup>3</sup> Das UVEK genehmigt das Ausführungsprojekt innert sechs Monaten nach Abschluss des Instruktionsverfahrens. Es teilt den Parteien den Abschluss des Instruktionsverfahrens mit.
 
-[^12-1]: Eingefügt durch Ziff. I der V vom 19. Juni 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 2263](https://fedlex.data.admin.ch/eli/oc/2015/423)).
-[^12-2]: Eingefügt durch Ziff. I der V vom 22. Aug. 2012, in Kraft seit 1. Okt. 2012 ([AS 2012 4603](https://fedlex.data.admin.ch/eli/oc/2012/557)).
+[^12-1]: Fassung gemäss Anhang Ziff. 5 der V vom 15. Okt. 2025, in Kraft seit 1. Juli 2026 ([AS 2025 659](https://fedlex.data.admin.ch/eli/oc/2025/659)).
+[^12-2]: Eingefügt durch Ziff. I der V vom 19. Juni 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 2263](https://fedlex.data.admin.ch/eli/oc/2015/423)).
+[^12-3]: Eingefügt durch Ziff. I der V vom 22. Aug. 2012, in Kraft seit 1. Okt. 2012 ([AS 2012 4603](https://fedlex.data.admin.ch/eli/oc/2012/557)).
+[^12-4]: Eingefügt durch Anhang Ziff. 5 der V vom 15. Okt. 2025, in Kraft seit 1. Juli 2026 ([AS 2025 659](https://fedlex.data.admin.ch/eli/oc/2025/659)).
+[^12-5]: [SR 700.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8353)
 
 #### Art. 13
 
@@ -297,7 +301,7 @@ Das Ausführungsprojekt ist dem UVEK unter Beilage folgender Unterlagen zur Gene
 Die Aufnahme der Baulinien in das Kataster der öffentlich-rechtlichen Eigentumsbeschränkungen gemäss Artikel 16 des Geoinformationsgesetzes vom 5. Oktober 2007[^13a-2] gilt als Veröffentlichung im Sinne von Artikel 29 NSG.
 
 [^13a-1]: Eingefügt durch Ziff. I der V vom 19. Juni 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 2263](https://fedlex.data.admin.ch/eli/oc/2015/423)).
-[^13a-2]: [SR 510.62](https://fedlex.data.admin.ch/eli/cc/2008/388)
+[^13a-2]: [SR 510.62](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7338)
 
 #### Art. 14
 
@@ -325,7 +329,7 @@ Ergeben sich während des Plangenehmigungsverfahrens wesentliche Änderungen geg
 
 <sup>3</sup> Das UVEK kann die Genehmigung des Ausführungsprojekts mit der Auflage verbinden, dass spätestens drei Jahre nach Inbetriebnahme festgestellt wird, ob die verfügten Massnahmen zum Schutz der Umwelt sachgerecht umgesetzt und die beabsichtigten Wirkungen erzielt worden sind.
 
-[^16-1]: [SR 814.011](https://fedlex.data.admin.ch/eli/cc/1988/1931_1931_1931)
+[^16-1]: [SR 814.011](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9438)
 
 #### Art. 17
 
@@ -347,13 +351,21 @@ Zur Begutachtung von Detailprojekten können Prüfingenieure und Prüfingenieuri
 
 #### Art. 19
 
-**Meldung an die Aufsicht über die amtliche Vermessung**[^19-1]
+**Meldepflichten**[^19-1]
 
-<sup>1</sup> Das ASTRA informiert die kantonale Vermessungsaufsicht über die Einreichung eines Ausführungsprojekts.
+<sup>1</sup> Das ASTRA informiert das Bundesamt für Landestopografie (swisstopo) über den Abschluss eines Plangenehmigungsverfahrens durch Zustellung der Plangenehmigungsverfügung und der vom swisstopo benötigten Pläne.
 
-<sup>2</sup> Es informiert diese Stelle innert 20 Tagen über Änderungen des Ausführungsprojekts, die eine Nachführung der amtlichen Vermessung notwendig machen.
+<sup>2</sup>
 
-[^19-1]: Fassung gemäss Anhang Ziff. 10 der V vom 23. Aug. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)).
+Bei Bauten und Anlagen, die eine Nachführung der amtlichen Vermessung oder der Landesvermessung notwendig machen, informiert das ASTRA das swisstopo unter Beilage der vom swisstopo benötigten Pläne jeweils innert 20 Tagen über:
+
+- a. den Baubeginn; und
+- b. die Bauvollendung.
+
+<sup>3</sup> Liegt ein Vorhaben ganz oder teilweise ausserhalb der Bauzonen, lässt das ASTRA gleichzeitig zur Information des swisstopo über die Bauvollendung die rechtskräftigen Pläne nach Artikel 12 Absatz 1 Buchstabe o in Form von Geodaten der kantonalen Behörde zukommen, die nach Artikel 25 Absatz 2 des Raumplanungsgesetzes vom 22. Juni 1979[^19-2] zuständig ist.
+
+[^19-1]: Fassung gemäss Anhang Ziff. 5 der V vom 15. Okt. 2025, in Kraft seit 1. Juli 2026 ([AS 2025 659](https://fedlex.data.admin.ch/eli/oc/2025/659)).
+[^19-2]: [SR 700](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8351)
 
 ### 2. Abschnitt: Landerwerb
 
@@ -381,7 +393,7 @@ Die Vorprojekte für Landumlegungen sind dem ASTRA einzureichen. Dieses stellt f
 
 Die Kantone können in ihren Ausführungsbestimmungen für die Schätzung des Verkehrswertes von Land, das im Landumlegungsverfahren dem Strassenbau abzutreten ist, oder die Schätzung von Inkonvenienzen, die sich nicht bei der Neuzuteilung abgelten lassen, die Anwendung des EntG[^23-1] vorschreiben.
 
-[^23-1]: [SR 711](https://fedlex.data.admin.ch/eli/cc/47/689_701_723)
+[^23-1]: [SR 711](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8369)
 
 #### Art. 24
 
@@ -390,7 +402,7 @@ Die Kantone können in ihren Ausführungsbestimmungen für die Schätzung des Ve
 Für Ausnahmen vom Zweckentfremdungs- und Zerstückelungsverbot und von der Rückerstattungspflicht gelten die Artikel 66 Buchstabe e, 67 Absatz 4, 68 Buchstabe k und 69 Absatz 5 der Strukturverbesserungsverordnung vom 2. November 2022[^24-2].
 
 [^24-1]: Fassung gemäss Anhang 9 Ziff. 2 der Strukturverbesserungsverordnung vom 2. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 754](https://fedlex.data.admin.ch/eli/oc/2022/754)).
-[^24-2]: [SR 913.1](https://fedlex.data.admin.ch/eli/cc/2022/754)
+[^24-2]: [SR 913.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10440)
 
 #### Art. 25
 
@@ -402,7 +414,7 @@ Vermag das Landumlegungsverfahren berechtigten Ersatzansprüchen eines Grundeige
 
 **Ergänzende Planauflage[^26-1]**
 
-<sup>1</sup> und <sup>2</sup> …[^26-2]
+<sup>1 und <sup>2</sup></sup> …[^26-2]
 
 <sup>3</sup> Müssen nach der Planauflage für den Strassenbau, für Installationen, Deponien oder Anpassungsarbeiten dauernd oder vorübergehend weitere Grundstücke oder Grundstückteile beansprucht werden, so wird eine ergänzende Planauflage nur durchgeführt, wenn die Ausdehnung Rechte Dritter beansprucht und eine gütliche Einigung mit den Berechtigten nicht zustande kommt.[^26-3]
 
@@ -418,7 +430,7 @@ Vermag das Landumlegungsverfahren berechtigten Ersatzansprüchen eines Grundeige
 
 <sup>2</sup> Die Gebühren für die grundbuchliche Behandlung von Enteignungen, die im Zusammenhang mit dem Nationalstrassenbau notwendig sind, werden nach den bundesrechtlichen Bestimmungen über die Gebühren und Entschädigungen im Enteignungsverfahren erhoben.
 
-[^27-1]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^27-1]: [SR 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 
 ### 3. Abschnitt: Ausbau und Nutzung
 
@@ -550,7 +562,7 @@ Folgende Aufträge können auf Einladung vergeben werden, wobei wenn möglich mi
 [^38-1]: Fassung gemäss Ziff. I der V vom 17. Sept. 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 4281](https://fedlex.data.admin.ch/eli/oc/2010/618)).
 [^38-2]: Fassung gemäss Ziff. I der V vom 17. Sept. 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 4281](https://fedlex.data.admin.ch/eli/oc/2010/618)).
 [^38-3]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 16 Abs. 3 der Publikationsverordnung vom 17. Nov. 2004 ([AS 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)) auf den 1. Jan. 2013 angepasst.
-[^38-4]: [SR 0.632.231.422](https://fedlex.data.admin.ch/eli/cc/1996/609_609_609)
+[^38-4]: [SR 0.632.231.422](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2256)
 [^38-5]: Eingefügt durch Ziff. I der V vom 17. Sept. 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 4281](https://fedlex.data.admin.ch/eli/oc/2010/618)).
 
 #### Art. 39
@@ -577,7 +589,7 @@ Die Kantone haben folgende Aufträge vor dem Zuschlag dem ASTRA zur Genehmigung 
 <sup>4</sup> Das UVEK passt die Werte in Absatz 1 den Vorgaben des GATT-Übereinkommens[^40-2] an.[^40-3]
 
 [^40-1]: Fassung gemäss Ziff. I der V vom 17. Sept. 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 4281](https://fedlex.data.admin.ch/eli/oc/2010/618)).
-[^40-2]: [SR 0.632.231.422](https://fedlex.data.admin.ch/eli/cc/1996/609_609_609)
+[^40-2]: [SR 0.632.231.422](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2256)
 [^40-3]: Eingefügt durch Ziff. I der V vom 17. Sept. 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 4281](https://fedlex.data.admin.ch/eli/oc/2010/618)).
 
 ### 4. Abschnitt: Ausführung

@@ -4,11 +4,11 @@ title: Ordonnance du 7 novembre 2007 sur les routes nationales (ORN)
 short: ORN
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/796"
 language: fr
-version: 2024-04-01
+version: 2026-07-01
 adopted: 2007-11-07
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/796/20240401/fr/xml/fedlex-data-admin-ch-eli-cc-2007-796-20240401-fr-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/796/20240401/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/796/20260701/fr/xml/fedlex-data-admin-ch-eli-cc-2007-796-20260701-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/796/20260701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/796/20240401/fr"
 
 (ORN)
 
-du 7 novembre 2007 (État le 1<sup>er</sup> avril 2024)
+du 7 novembre 2007 (État le 1<sup>er</sup> juillet 2026)
 
 Le Conseil fédéral suisse,
 
@@ -25,8 +25,8 @@ vu les art. 7, al. 2, 7*a*, al. 3, 21, al. 3, 41, al. 2, 49*a*, al. 3, 60 et 62*
 
 arrête:
 
-[^ingress-1]: [RS 725.11](https://fedlex.data.admin.ch/eli/cc/1960/525_569_555)
-[^ingress-2]: [RS 741.01](https://fedlex.data.admin.ch/eli/cc/1959/679_705_685)
+[^ingress-1]: [RS 725.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8453)
+[^ingress-2]: [RS 741.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8613)
 [^ingress-3]: Nouvelle teneur selon le ch. I de l’O du 22 nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6791](https://fedlex.data.admin.ch/eli/oc/2017/759)).
 
 ## Chapitre 1 Dispositions générales
@@ -153,7 +153,7 @@ Quiconque souhaite exploiter, sur les aires de repos, des installations de remis
 <sup>6</sup> Après avoir entendu les services cantonaux, l’OFROU coordonne les travaux sur le territoire investi temporairement ou définitivement pour la construction de routes nationales.
 
 [^7a-1]: Introduit par le ch. I de l’O du 22 août 2012, en vigueur depuis le 1<sup>er</sup> oct. 2012 ([RO 2012 4603](https://fedlex.data.admin.ch/eli/oc/2012/557)).
-[^7a-2]: [RS 451](https://fedlex.data.admin.ch/eli/cc/1966/1637_1694_1679)
+[^7a-2]: [RS 451](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7166)
 
 #### Art. 7b
 
@@ -241,7 +241,7 @@ Les documents du projet général doivent comprendre les éléments suivants:
 
 <sup>1</sup>
 
-Les documents suivants doivent être joints au projet définitif adressé pour approbation au DETEC:
+Les données et les documents suivants doivent en particulier être joints au projet définitif adressé pour approbation au DETEC:[^12-1]
 
 - a. plan d’ensemble;
 - b. plans de situation avec indication des alignements à l’échelle 1:1000;
@@ -250,21 +250,25 @@ Les documents suivants doivent être joints au projet définitif adressé pour a
 - e. profils en travers à l’échelle 1:100;
 - f. dimensions principales des ouvrages d’art;
 - g. rapport technique, y compris les mesures d’accompagnement;
-- g<sup>bis</sup>.[^12-1] rapport succinct relatif à la mobilité douce, pour autant que celle-ci soit concernée;
+- g<sup>bis</sup>.[^12-2] rapport succinct relatif à la mobilité douce, pour autant que celle-ci soit concernée;
 - h. concept d’évacuation des eaux;
 - i. rapport relatif à l’étude de l’impact sur l’environnement, 3<sup>e</sup> étape;
 - j. indication des coûts;
 - k. plan d’expropriation;
 - l. tableau des droits expropriés;
 - m. documents relatifs à d’autres autorisations relevant de la compétence de la Confédération;
-- n.[^12-2] éventuel plan de protection et de fouille relatif aux sites de vestiges archéologiques et paléontologiques.
+- n.[^12-3] éventuel plan de protection et de fouille relatif aux sites de vestiges archéologiques et paléontologiques;
+- o.[^12-4] pour les projets situés hors de la zone à bâtir: des plans indiquant la délimitation des bâtiments nouveaux ou supprimés conformément à l’art. 25*a*, al. 1, de l’ordonnance du 28 juin 2000 sur l’aménagement du territoire (OAT)[^12-5], ainsi que des surfaces imperméabilisées nouvelles ou supprimées conformément à l’art. 25*a*, al. 2, OAT.
 
 <sup>2</sup> Le DETEC vérifie dans un délai de dix jours si le dossier est complet, puis le transmet au canton pour avis et mise à l’enquête publique.
 
 <sup>3</sup> Le DETEC approuve le projet définitif dans les six mois qui suivent la clôture de la procédure d’instruction. Il informe les parties de la clôture de cette procédure d’instruction.
 
-[^12-1]: Introduite par le ch. I de l’O du 19 juin 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 2263](https://fedlex.data.admin.ch/eli/oc/2015/423)).
-[^12-2]: Introduite par le ch. I de l’O du 22 août 2012, en vigueur depuis le 1<sup>er</sup> oct. 2012 ([RO 2012 4603](https://fedlex.data.admin.ch/eli/oc/2012/557)).
+[^12-1]: Nouvelle teneur selon l’annexe ch. 5 de l’O du 15 oct. 2025, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2025 659](https://fedlex.data.admin.ch/eli/oc/2025/659)).
+[^12-2]: Introduite par le ch. I de l’O du 19 juin 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 2263](https://fedlex.data.admin.ch/eli/oc/2015/423)).
+[^12-3]: Introduite par le ch. I de l’O du 22 août 2012, en vigueur depuis le 1<sup>er</sup> oct. 2012 ([RO 2012 4603](https://fedlex.data.admin.ch/eli/oc/2012/557)).
+[^12-4]: Introduite par l’annexe ch. 5 de l’O du 15 oct. 2025, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2025 659](https://fedlex.data.admin.ch/eli/oc/2025/659)).
+[^12-5]: [RS 700.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8353)
 
 #### Art. 13
 
@@ -297,7 +301,7 @@ Les documents suivants doivent être joints au projet définitif adressé pour a
 L’inscription des alignements dans le cadastre des restrictions de droit public à la propriété foncière en vertu de l’art. 16 de la loi fédérale du 5 octobre 2007 sur la géoinformation[^13a-2] constitue une publication au sens de l’art. 29 LRN.
 
 [^13a-1]: Introduit par le ch. I de l’O du 19 juin 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 2263](https://fedlex.data.admin.ch/eli/oc/2015/423)).
-[^13a-2]: [RS 510.62](https://fedlex.data.admin.ch/eli/cc/2008/388)
+[^13a-2]: [RS 510.62](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7338)
 
 #### Art. 14
 
@@ -325,7 +329,7 @@ Si le projet initial subit des changements importants pendant la procédure d’
 
 <sup>3</sup> Le DETEC peut lier l’approbation du projet définitif à l’exigence d’examiner, trois ans au plus tard après la mise en service, si les mesures prises pour protéger l’environnement ont été correctement réalisées et si les effets visés ont été atteints.
 
-[^16-1]: [RS 814.011](https://fedlex.data.admin.ch/eli/cc/1988/1931_1931_1931)
+[^16-1]: [RS 814.011](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9438)
 
 #### Art. 17
 
@@ -347,13 +351,21 @@ L’examen des projets de détail peut être confié à des ingénieurs de contr
 
 #### Art. 19
 
-**Annonces au service cantonal du cadastre**[^19-1]
+**Devoirs d’annonce**[^19-1]
 
-<sup>1</sup> L’OFROU informe le service cantonal du cadastre du dépôt d’un projet définitif.
+<sup>1</sup> L’OFROU informe l’Office fédéral de topographie (swisstopo) de la clôture d’une procédure d’approbation des plans en lui transmettant la décision d’approbation des plans et les plans dont swisstopo a besoin.
 
-<sup>2</sup> Il informe ce service dans un délai de 20 jours de toute modification du projet définitif rendant nécessaire une mise à jour de la mensuration officielle.
+<sup>2</sup>
 
-[^19-1]: Nouvelle teneur selon l’annexe ch. 10 de l’O du 23 août 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)).
+Pour les constructions et les installations qui nécessitent une mise à jour de la mensuration officielle ou de la mensuration nationale, l’OFROU informe swisstopo dans un délai de 20 jours, en lui remettant les plans dont il a besoin:
+
+- a. du début des travaux, et
+- b. de l’achèvement des travaux.
+
+<sup>3</sup> Si un projet se situe en tout ou en partie hors de la zone à bâtir, l’OFROU transmet en même temps que l’information à swisstopo de l’achèvement des travaux, les plans en vigueur visés à l’art. 12, al. 1, let. o, sous forme de géodonnées, à l’autorité cantonale compétente visée à l’art. 25, al. 2, de la loi du 22 juin 1979 sur l’aménagement du territoire[^19-2].
+
+[^19-1]: Nouvelle teneur selon l’annexe ch. 5 de l’O du 15 oct. 2025, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2025 659](https://fedlex.data.admin.ch/eli/oc/2025/659)).
+[^19-2]: [RS 700](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8351)
 
 ### Section 2 Acquisition de terrain
 
@@ -381,7 +393,7 @@ Il convient de soumettre à l’OFROU les avant-projets de remembrement. Celui-c
 
 Dans leurs dispositions d’exécution, les cantons peuvent prescrire l’application de la LEx[^23-1] pour estimer la valeur vénale du terrain à céder par remembrement ainsi que pour estimer les inconvénients qui ne peuvent être compensés par l’attribution de nouveaux terrains.
 
-[^23-1]: [RS 711](https://fedlex.data.admin.ch/eli/cc/47/689_701_723)
+[^23-1]: [RS 711](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8369)
 
 #### Art. 24
 
@@ -390,7 +402,7 @@ Dans leurs dispositions d’exécution, les cantons peuvent prescrire l’applic
 Les art. 66, let. e, 67, al. 4, 68, let. k, et 69, al. 5, de l’ordonnance du 2 novembre 2022 sur les améliorations structurelles[^24-2] s’appliquent aux exceptions à l’interdiction de désaffecter et de morceler ainsi qu’à l’obligation de rembourser.
 
 [^24-1]: Nouvelle teneur selon l’annexe 9 ch. 2 de l’O du 2 nov. 2022 sur les améliorations structurelles, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 754](https://fedlex.data.admin.ch/eli/oc/2022/754)).
-[^24-2]: [RS 913.1](https://fedlex.data.admin.ch/eli/cc/2022/754)
+[^24-2]: [RS 913.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10440)
 
 #### Art. 25
 
@@ -402,7 +414,7 @@ Si la procédure de remembrement ne permet manifestement pas de contenter le pro
 
 **Mise à l’enquête publique complémentaire[^26-1]**
 
-<sup>1</sup> et <sup>2</sup> …[^26-2]
+<sup>1 et <sup>2</sup></sup> …[^26-2]
 
 <sup>3</sup> Si, après dépôt des plans, il est nécessaire de disposer, à titre définitif ou temporaire, de terrains ou de parties de terrains supplémentaires pour la construction de routes, pour des installations, des décharges de matériaux ou des travaux d’adaptation, il ne doit être procédé à un dépôt des plans complémentaire que si l’extension touche les droits de tiers et si les intéressés ne peuvent pas s’entendre à l’amiable.[^26-3]
 
@@ -418,7 +430,7 @@ Si la procédure de remembrement ne permet manifestement pas de contenter le pro
 
 <sup>2</sup> Les dispositions du droit fédéral sur les émoluments et les indemnités dans la procédure d’expropriation s’appliquent aux émoluments perçus pour les opérations du registre foncier découlant des expropriations imposées par la construction des routes nationales.
 
-[^27-1]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^27-1]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 
 ### Section 3 Aménagement et utilisation
 
@@ -549,7 +561,7 @@ L’adjudication sur invitation est autorisée, à condition que le nombre des o
 
 [^38-1]: Nouvelle teneur selon le ch. I de l’O du 17 sept. 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 4281](https://fedlex.data.admin.ch/eli/oc/2010/618)).
 [^38-2]: Nouvelle teneur selon le ch. I de l’O du 17 sept. 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 4281](https://fedlex.data.admin.ch/eli/oc/2010/618)).
-[^38-3]: [RS 0.632.231.422](https://fedlex.data.admin.ch/eli/cc/1996/609_609_609)
+[^38-3]: [RS 0.632.231.422](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2256)
 [^38-4]: La désignation de l’unité administrative a été adaptée au 1<sup>er</sup> janv. 2013 en application de l’art. 16 al. 3 de l’O du 17 nov. 2004 sur les publications officielles ([RO 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)).
 [^38-5]: Introduit par le ch. I de l’O du 17 sept. 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 4281](https://fedlex.data.admin.ch/eli/oc/2010/618)).
 
@@ -577,7 +589,7 @@ Avant l’adjudication, les cantons sont tenus de présenter à l’OFROU, pour 
 <sup>4</sup> Le DETEC adapte les valeurs visées à l’al. 1 aux dispositions de l’Accord GATT[^40-2].[^40-3]
 
 [^40-1]: Nouvelle teneur selon le ch. I de l’O du 17 sept. 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 4281](https://fedlex.data.admin.ch/eli/oc/2010/618)).
-[^40-2]: [RS 0.632.231.422](https://fedlex.data.admin.ch/eli/cc/1996/609_609_609)
+[^40-2]: [RS 0.632.231.422](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2256)
 [^40-3]: Introduit par le ch. I de l’O du 17 sept. 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 4281](https://fedlex.data.admin.ch/eli/oc/2010/618)).
 
 ### Section 4 Réalisation
