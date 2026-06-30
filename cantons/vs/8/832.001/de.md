@@ -4,13 +4,12 @@ number: "832.001"
 title: Ausführungsverordnung über die Beschränkung der Zulassung von Ärzten zur Abrechnung zu Lasten der obligatorischen Krankenpflegeversicherung
 short: AZBAV
 language: de
-version: 2025-05-01
-valid_until: 2026-06-30
-version_adopted: 2025-04-23
+version: 2026-07-01
+version_adopted: 2026-07-08
 adopted: 2025-04-23
 in_force: 2025-05-01
 url: "https://lex.vs.ch/app/de/texts_of_law/832.001"
-pdf: "https://lex.vs.ch/api/de/versions/3485/pdf_file"
+pdf: "https://lex.vs.ch/api/de/versions/3637/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://lex.vs.ch/api/de/versions/3485/pdf_file"
 
 (AZBAV)
 
-vom 23.04.2025 (Stand 01.05.2025)
+vom 23.04.2025 (Stand 01.07.2026)
 
 Der Staatsrat des Kantons Wallis
 
@@ -79,6 +78,7 @@ verordnet:
 <tr><th>Medizinisches Fachgebiet</th><th>Höchstzahlen in Vollzeitäquivalenten</th></tr>
 <tr><td>Kardiologie</td><td>15.5</td></tr>
 <tr><td>Radiologie</td><td>40.2</td></tr>
+<tr><td>Ophtalmologie</td><td>37</td></tr>
 </table>
 
 <sup>2</sup> Die Zulassung zur Abrechnung zu Lasten der OKP wird abgelehnt, sobald die Höchstzahl erreicht ist.
