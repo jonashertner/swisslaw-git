@@ -3,13 +3,12 @@ canton: BS
 number: BaB 152.100
 title: Geschäftsordnung des Bürgergemeinderates der Stadt Basel
 language: de
-version: 2026-01-01
-valid_until: 2026-06-30
-version_adopted: 2025-12-09
+version: 2026-07-01
+version_adopted: 2026-03-17
 adopted: 1986-09-09
 in_force: 1986-11-12
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/BaB%20152.100"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6788/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6813/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +17,7 @@ pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6788/pdf_file"
 
 Basel: Bürgergemeinde
 
-Vom 9. September 1986 (Stand 1. Januar 2026)
+Vom 9. September 1986 (Stand 1. Juli 2026)
 
 Der Bürgergemeinderat der Stadt Basel
 
@@ -70,6 +69,8 @@ erlässt in Ausführung von § 11 der Gemeindeordnung der Bürgergemeinde der St
 
 <sup>1</sup> Über die Verhandlungen wird ein Protokoll geführt, das der Öffentlichkeit zugänglich ist.
 
+<sup>2</sup> Die Protokollführung obliegt der Kanzlei des Bürgergemeinderats.
+
 #### § 5
 
 **Publikationen**
@@ -88,9 +89,9 @@ erlässt in Ausführung von § 11 der Gemeindeordnung der Bürgergemeinde der St
 
 #### § 7
 
-**Entschädigung**
+**Sitzungsgeld**
 
-<sup>1</sup> Die Mitglieder des Bürgergemeinderates erhalten für jede Sitzung im Plenum und für jede Kommissionssitzung ein angemessenes Sitzungsgeld, abgestuft nach ihren jeweiligen Funktionen als Präsidentin oder Präsident, Protokollführerin oder Protokollführer und Mitglied.
+<sup>1</sup> Die Mitglieder des Bürgergemeinderates erhalten für jede Sitzung im Plenum und für jede Kommissionssitzung ein angemessenes Sitzungsgeld, abgestuft nach ihren jeweiligen Funktionen als Präsident/Präsidentin und Mitglied.
 
 <sup>1<sup>bis</sup></sup> Die Mitglieder des Bürgergemeinderates können für weitere Tätigkeiten nach Zeitaufwand entschädigt werden.
 
@@ -240,9 +241,9 @@ erlässt in Ausführung von § 11 der Gemeindeordnung der Bürgergemeinde der St
 
 #### § 24
 
-**Wahl der Präsidentin oder des Präsidenten, der Statthalterin oder des Statthalters und der Protokollführerin oder des Protokollführers**
+**Wahl der Präsidentin oder des Präsidenten und der Statthalterin oder des Statthalters**
 
-<sup>1</sup> Der Bürgergemeinderat wählt in der konstituierenden Sitzung der Legislaturperiode und in der letzten Sitzung des zweiten sowie des vierten Amtsjahres seine Präsidentin oder seinen Präsidenten, seine Statthalterin oder seinen Statthalter und seine Protokollführerin oder seinen Protokollführer auf eine Amtsdauer von zwei Jahren.
+<sup>1</sup> Der Bürgergemeinderat wählt in der konstituierenden Sitzung der Legislaturperiode und in der letzten Sitzung des zweiten sowie des vierten Amtsjahres seine Präsidentin oder seinen Präsidenten und seine Statthalterin oder seinen Statthalter auf eine Amtsdauer von zwei Jahren.
 
 <sup>2</sup> Nach Ablauf einer vollen Amtsdauer sind Präsident/Präsidentin und Statthalter/Statthalterin für die nächste Amtsdauer in das gleiche Amt nicht mehr wählbar.
 
