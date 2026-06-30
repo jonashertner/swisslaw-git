@@ -4,13 +4,12 @@ number: "736"
 title: Planungs- und Bauverordnung
 short: PBV
 language: de
-version: 2026-05-01
-valid_until: 2026-06-30
-version_adopted: 2026-03-31
+version: 2026-07-01
+version_adopted: 2026-06-09
 adopted: 2013-10-29
 in_force: 2014-01-01
 url: "https://srl.lu.ch/app/de/texts_of_law/736"
-pdf: "https://srl.lu.ch/api/de/versions/4732/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4801/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://srl.lu.ch/api/de/versions/4732/pdf_file"
 
 (PBV)
 
-vom 29.10.2013 (Stand 01.05.2026)
+vom 29.10.2013 (Stand 01.07.2026)
 
 Der Regierungsrat des Kantons Luzern,
 
@@ -890,7 +889,8 @@ Grünflächenziffer (GZ) = anrechenbare Grünfläche (AGrf) / anrechenbare Grund
 - i. detaillierte Berechnungen zum Nachweis der Einhaltung der vorgeschriebenen Bauziffern,
 - j. Nachweis der Bodenverwertung gemäss eidgenössischer Abfallverordnung[^55-2],
 - k. Angaben über die Art, die Qualität und die Menge der anfallenden Abfälle und über die vorgesehene Verwertung und Entsorgung nach den Vorgaben der Dienststelle Umwelt und Energie,
-- l. die zur Beurteilung der Abstimmung von Siedlung und Verkehr gemäss den Vorgaben des Bau-, Umwelt- und Wirtschaftsdepartementes notwendigen Unterlagen (Verkehrsgutachten, Mobilitätskonzept usw.).
+- l. die zur Beurteilung der Abstimmung von Siedlung und Verkehr gemäss den Vorgaben des Bau-, Umwelt- und Wirtschaftsdepartementes notwendigen Unterlagen (Verkehrsgutachten, Mobilitätskonzept usw.),
+- m. für die Führung der Veränderungsbilanz nach Artikel 25c der Raumplanungsverordnung[^55-3] ein Plan und die Flächenbilanz der zonenkonformen und zonenfremden Bodenbefestigung und -versiegelungen ausserhalb der Bauzonen.
 
 <sup>3</sup> Die Gemeinde kann weitere für die Prüfung und Beurteilung des Bauvorhabens notwendige Unterlagen (Fotografien, Grundbuchauszüge, Modelle usw.) einverlangen.
 
@@ -900,6 +900,7 @@ Grünflächenziffer (GZ) = anrechenbare Grünfläche (AGrf) / anrechenbare Grund
 
 [^55-1]: SRL Nr. [773](https://srl.lu.ch/data/773/de)
 [^55-2]: SR [814.600](https://db.clex.ch/link/Bund/814.600/de)
+[^55-3]: SR [700.1](https://db.clex.ch/link/Bund/700.1/de)
 
 #### § 56
 
