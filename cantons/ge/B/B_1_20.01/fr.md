@@ -1,0 +1,140 @@
+---
+canton: GE
+number: B 1 20.01
+title: "Règlement concernant la retraite des membres du Conseil d'Etat, de la chancelière ou du chancelier d'Etat et des magistrates et magistrats de la Cour des comptes (RTRCECC)"
+short: RTRCECC
+language: fr
+version: 2026-07-01
+adopted: 2026-06-24
+url: "https://silgeneve.ch/legis/program/books/rsg/htm/rsg_b1_20p01.htm"
+---
+
+> Reproduction non officielle du recueil systématique du canton GE. Seule la publication officielle du canton fait foi.
+
+# Règlement concernant la retraite des membres du Conseil d'Etat, de la chancelière ou du chancelier d'Etat et des magistrates et magistrats de la Cour des comptes (RTRCECC)
+**Refonte**
+
+du 24 juin 2026
+
+(Entrée en vigueur : 1<sup>er</sup> juillet 2026)
+
+Le CONSEIL D’ÉTAT de la République et canton de Genève,
+
+vu la loi concernant le traitement et la retraite des membres du Conseil d'Etat et de la chancelière ou du chancelier d'Etat, du 13 octobre 2022;
+
+vu la loi instituant la Caisse de prévoyance de l’Etat de Genève, du 14 septembre 2012;
+
+vu la loi concernant le traitement et la retraite des magistrates et magistrats de la Cour des comptes, du 3 mars 2023,
+
+arrête :
+
+## Chapitre I Généralités
+
+#### Art. 1
+
+**Objet**
+
+<sup>1</sup> Le présent règlement fixe les dispositions d'exécution des articles 16 à 19 de la loi concernant le traitement et la retraite des membres du Conseil d'Etat et de la chancelière ou du chancelier d'Etat, du 13 octobre 2022, ainsi que des articles 14 à 16 de la loi concernant le traitement et la retraite des magistrates et magistrats de la Cour des comptes, du 3 mars 2023, s'agissant des personnes assurées déjà en fonction à la date d'entrée en vigueur respective desdites lois.
+
+<sup>2</sup> Le présent règlement fixe également les dispositions d’exécution de l’article 49A de la loi instituant la Caisse de prévoyance de l’Etat de Genève, du 14 septembre 2012, s’agissant de la commission de gestion du plan spécial.
+
+## Chapitre II Caisse de prévoyance des conseillers d'Etat et du chancelier d'Etat
+
+#### Art. 2
+
+**Prestations**
+
+La Caisse de prévoyance des conseillers d'Etat et du chancelier d'Etat (ci‑après : la caisse de prévoyance) s’engage à appliquer les dispositions impératives de la loi fédérale sur la prévoyance professionnelle vieillesse, survivants et invalidité, du 25 juin 1982 (ci-après : la loi fédérale).
+
+#### Art. 3
+
+**Capital – Cotisations**
+
+L’Etat de Genève garantissant le paiement des prestations de la caisse de prévoyance prévues aux articles 16 à 19 de la loi concernant le traitement et la retraite des membres du Conseil d'Etat et de la chancelière ou du chancelier d'Etat, du 13 octobre 2022, et aux articles 14 à 16 de la loi concernant le traitement et la retraite des magistrates et magistrats de la Cour des comptes, du 3 mars 2023, aucune fortune n’est constituée. La retenue effectuée sur le traitement des membres du Conseil d’Etat et de la chancelière ou du chancelier d’Etat, à titre de contribution à la constitution des pensions, entre dans les recettes de l’Etat de Genève.
+
+#### Art. 4
+
+**Liquidation partielle**
+
+<sup>1</sup> Compte tenu de son organisation particulière, la caisse de prévoyance ne peut afficher ni excédent, ni déficit de couverture. Elle ne peut donc ni disposer de fonds libres, ni se trouver en situation de découvert.
+
+<sup>2</sup> Aucune procédure de liquidation partielle n’est déclenchée, même lorsque les conditions habituelles prévues par la loi fédérale sont réalisées, soit en cas de :
+
+- a) réduction sensible de l’effectif de la caisse de prévoyance;
+- b) restructuration de la caisse de prévoyance;
+- c) résiliation de conventions d’affiliation.
+
+<sup>3</sup> Lors de la réalisation de l’une de ces conditions, les assurées et assurés sortants ne peuvent prétendre à aucune répartition de fortune libre, ni subir une éventuelle retenue proportionnelle du découvert sur leur prestation de sortie.
+
+#### Art. 5
+
+**Comité de la caisse de prévoyance**
+
+<sup>1</sup> Le comité de la caisse de prévoyance (ci-après : comité) est valablement constitué d'une représentante ou d’un représentant du Conseil d'Etat, désigné par le Conseil d'Etat, et d’une représentante ou d'un représentant des magistrates et magistrats de la Cour des comptes, désigné par les magistrates et magistrats de la Cour des comptes. Chacune et chacun préside alternativement le comité pour une année civile.
+
+<sup>2</sup> Toute personne physique majeure et titulaire des droits civils peut être désignée en qualité de membre du comité.
+
+<sup>3</sup> Le comité exerce les compétences qui lui sont confiées par l'article 51a de la loi fédérale.
+
+<sup>4</sup> Le comité est convoqué dans un délai minimum de 15 jours sauf cas d'urgence.
+
+#### Art. 6
+
+**Comptes**
+
+La caisse de prévoyance tient à jour les comptes de vieillesse conformément aux dispositions de la loi fédérale.
+
+## Chapitre III Commission de gestion du plan spécial
+
+#### Art. 7
+
+**Composition et durée du mandat**
+
+<sup>1</sup> La commission de gestion du plan spécial instituée conformément à l’article 40A de la loi instituant la Caisse de prévoyance de l’Etat de Genève, du 14 septembre 2012, est composée de 2 membres.
+
+<sup>2</sup> Assurées et assurés actifs et employeur ont chacun le droit de désigner une représentante ou un représentant à la commission de gestion du plan spécial.
+
+<sup>3</sup> La Caisse de prévoyance de l’Etat de Genève fixe la durée du mandat des membres de la commission de gestion du plan spécial et les modalités de remplacement en cas de démission.
+
+#### Art. 8
+
+**Représentation des assurées et assurés actifs**
+
+<sup>1</sup> Les assurées et assurés actifs élisent une représentante ou un représentant. La Caisse de prévoyance de l’Etat de Genève fixe les modalités de l’élection et en assure l’organisation.
+
+<sup>2</sup> Toute personne physique majeure et titulaire des droits civils peut être élue en qualité de représentante ou représentant des assurées et assurés actifs.
+
+<sup>3</sup> Lorsque le mandat de membre de la commission de gestion du plan spécial, représentant les assurées et assurés est assumé par une personne assurée à la Caisse de prévoyance de l’Etat de Genève, en sa qualité de membre du Conseil d’Etat, de chancelière ou de chancelier d’Etat, de magistrate ou de magistrat de la Cour des comptes ou de membre du personnel de l’Etat, ledit mandat prend fin avec les rapports de fonction ou de service. La Caisse de prévoyance de l’Etat de Genève organise une élection complémentaire, à laquelle le membre sortant peut se représenter.
+
+#### Art. 9
+
+**Représentation de l’employeur**
+
+Le Conseil d'Etat désigne la représentante ou le représentant de l’employeur.
+
+#### Art. 10
+
+**Incompatibilité**
+
+La fonction de membre de la commission de gestion du plan spécial est incompatible avec la fonction de membre du comité de la Caisse de prévoyance de l’Etat de Genève représentant les assurées et assurés actifs, de membre de l’assemblée des délégués de la Caisse de prévoyance de l’Etat de Genève et de membre de l’administration de la Caisse de prévoyance de l’Etat de Genève.
+
+## Chapitre IV Dispositions finales et transitoires
+
+#### Art. 11
+
+**Clause abrogatoire**
+
+Le règlement concernant la retraite des membres du Conseil d'Etat, de la chancelière ou du chancelier d'Etat et des magistrates et magistrats de la Cour des comptes, du 10 février 1988, est abrogé.
+
+#### Art. 12
+
+**Entrée en vigueur**
+
+Le présent règlement entre en vigueur le 1<sup>er</sup> juillet 2026.
+
+## Historique
+
+| RSG Intitulé | Date d'adoption | Entrée en vigueur |
+|---|---|---|
+| B 1 20.01 R concernant la retraite des membres du Conseil d'Etat, de la chancelière ou du chancelier d'Etat et des magistrates et magistrats de la Cour des comptes | 24.06.2026 | 01.07.2026 |
+| Modification : néant |  |  |
