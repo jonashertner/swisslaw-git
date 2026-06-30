@@ -4,7 +4,7 @@ number: "414.11"
 title: "LOI du 06.07.2004 sur l'Université de Lausanne (LUL)"
 short: LUL
 language: fr
-version: 2020-01-01
+version: 2026-07-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/414.11?id=d058f36a-66d6-487b-820d-529dbdad74d8"
 ---
 
@@ -93,7 +93,7 @@ décrète
 
 <sup>4</sup> L'Université collabore également avec les milieux économiques et des personnes privées. Les modalités sont définies dans le règlement d'application de la présente loi (ci-après : le RLUL)[^7-1].
 
-[^6-1]: Modif. 2 du 30.11.2010: Modification Al. 3-4; entrée en vigueur au 01.02.2011 · Modif. 3 du 17.03.2026: Modification Al. 3; entrée en vigueur pas fixée; Introduction Al. 3bis,3ter; entrée en vigueur pas fixée; Introduction Art. 74a; entrée en vigueur au 01.07.2026
+[^6-1]: Modif. 2 du 30.11.2010: Modification Al. 3-4; entrée en vigueur au 01.02.2011 · Modif. 3 du 17.03.2026: Modification Al. 3; entrée en vigueur pas fixée; Introduction Al. 3bis,3ter; entrée en vigueur pas fixée
 [^7-1]: Règlement du 18.12.2013 d'application de la loi du 06.07.2004 sur l'Université ([BLV 414.11.1](https://prestations.vd.ch/pub/blv-publication/actes/consolide/414.11.1?id=18a7e6d2-a1b5-46b7-aa99-c9468d30f4c6))
 
 #### Art. 8
@@ -797,15 +797,29 @@ décrète
 
 <sup>1</sup> L'Université est ouverte à toute personne remplissant les conditions d'immatriculation et d'inscription.
 
-<sup>1bis</sup> Sont réservées les limitations d'admission aux études de médecine de niveaux Bachelor et Master prévues pour les candidats étrangers, conformément aux dispositions intercantonales. Le Conseil d'Etat en fixe les modalités dans un règlement.
+<sup>1bis</sup> ...
 
 <sup>2</sup> En cas de nécessité, lorsque la capacité d'accueil de l'Université est manifestement insuffisante, le Conseil d'Etat peut limiter par un arrêté, valable pour une seule année académique, l'accès aux études dans une faculté de l'Université. Dans ce cas, le Conseil d'Etat et l'Université veillent à atténuer dans toute la mesure du possible les conséquences de cette limitation, notamment dans le cadre de la coordination entre les Hautes Ecoles universitaires suisses.
 
-[^73-1]: Modif. 3 du 17.03.2026: Introduction Art. 7, Al. 3bis,3ter; entrée en vigueur pas fixée; Abrogation Al. 1bis; entrée en vigueur au 01.07.2026; Introduction Art. 74a; entrée en vigueur au 01.07.2026
+[^73-1]: Modif. 3 du 17.03.2026: Abrogation Al. 1bis; entrée en vigueur au 01.07.2026 · Modif. 3 du 17.03.2026: Introduction Art. 7, Al. 3bis,3ter; entrée en vigueur pas fixée
+
+#### Art. 74a
+
+**Conditions particulières pour les études de médecine [^74-1]**
+
+<sup>1</sup> L'admission des candidats étrangers aux études de médecine de niveaux Bachelor et Master est limitée conformément aux dispositions intercantonales. Le Conseil d'Etat en fixe les modalités dans un règlement.
+
+<sup>2</sup> La Direction peut limiter l'accès en deuxième année du cursus du Bachelor en médecine par un concours en fonction de la capacité d'accueil en deuxième année.
+
+<sup>3</sup> La Direction fixe chaque année la capacité d'accueil en médecine et en informe le département au plus tard avant le début de l'année académique.
+
+<sup>4</sup> Les conditions du concours sont définies dans le règlement du Bachelor en médecine.
+
+[^74-1]: Modif. 3 du 17.03.2026: Introduction Art. 74a; entrée en vigueur au 01.07.2026 · Modif. 3 du 17.03.2026: Introduction Art. 7, Al. 3bis,3ter; entrée en vigueur pas fixée
 
 #### Art. 75
 
-**Immatriculation et exmatriculation [^74-1]**
+**Immatriculation et exmatriculation [^74a-1]**
 
 <sup>1</sup> Les conditions d'immatriculation, d'exmatriculation, d'inscription et d'exclusion des étudiants et auditeurs sont fixées par le RLUL[^75-1].
 
@@ -813,7 +827,7 @@ décrète
 
 <sup>3</sup> ...
 
-[^74-1]: Modif. 2 du 30.11.2010: Abrogation Al. 2-3; entrée en vigueur au 01.02.2011
+[^74a-1]: Modif. 2 du 30.11.2010: Abrogation Al. 2-3; entrée en vigueur au 01.02.2011
 [^75-1]: Règlement du 18.12.2013 d'application de la loi du 06.07.2004 sur l'Université ([BLV 414.11.1](https://prestations.vd.ch/pub/blv-publication/actes/consolide/414.11.1?id=18a7e6d2-a1b5-46b7-aa99-c9468d30f4c6))
 
 #### Art. 75a
