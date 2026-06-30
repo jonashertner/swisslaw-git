@@ -4,11 +4,11 @@ title: "Verordnung vom 1. November 2017 über die Förderung der Produktion von 
 short: EnFV
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/766"
 language: de
-version: 2026-06-02
+version: 2026-07-01
 adopted: 2017-11-01
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20260602/de/xml/fedlex-data-admin-ch-eli-cc-2017-766-20260602-de-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/766/20260602/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20260701/de/xml/fedlex-data-admin-ch-eli-cc-2017-766-20260701-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/766/20260701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/766/20260602/de"
 
 (Energieförderungsverordnung, EnFV)
 
-vom 1. November 2017 (Stand am 2. Juni 2026)
+vom 1. November 2017 (Stand am 1. Juli 2026)
 
 Der Schweizerische Bundesrat,
 
@@ -253,7 +253,7 @@ Am Einspeisevergütungssystem können nur grosse Photovoltaikanlagen teilnehmen.
 
 <sup>4</sup> Die Einspeiseprämie reduziert sich bei Betreibern, die nach den Artikeln 10–13 des Mehrwertsteuergesetzes vom 12. Juni 2009[^16-1] (MWSTG) steuerpflichtig sind, um den Faktor, der gestützt auf den jeweils gültigen Normalsatzes nach Artikel 25 Absatz 1 MWSTG, gerundet auf vier Nachkommastellen, wie folgt berechnet wird:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20260602/de/xml/image/image1.png).[^16-2]
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20260701/de/xml/image/image1.png).[^16-2]
 
 [^16-1]: [SR 641.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8079)
 [^16-2]: Eingefügt durch Ziff. I der V vom 27. Febr. 2019 ([AS 2019 923](https://fedlex.data.admin.ch/eli/oc/2019/165)). Fassung gemäss Ziff. I der V vom 29. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 764](https://fedlex.data.admin.ch/eli/oc/2023/764)).
@@ -417,28 +417,26 @@ Bezieht eine Anlage mehr Elektrizität aus dem Netz, als sie einspeist, so stell
 
 **Bewirtschaftungsentgelt**[^26-1]
 
-<sup>1</sup> Produzenten in der Direktvermarktung erhalten von der Vollzugsstelle pro kWh eingespeiste Elektrizität vierteljährlich ein Bewirtschaftungsentgelt, das sich aus einem fixen Anteil für die Vermarktungskosten und einem variablen Anteil für die Ausgleichsenergiekosten zusammensetzt.
+<sup>1</sup> Produzenten in der Direktvermarktung erhalten von der Vollzugsstelle pro kWh eingespeiste Elektrizität vierteljährlich ein Bewirtschaftungsentgelt, das sich aus einem fixen Anteil für die Vermarktungskosten und einem technologiespezifischen variablen Anteil für die Ausgleichsenergiekosten zusammensetzt.
 
 <sup>2</sup> Die Höhe des fixen Anteils für die Vermarktungskosten beträgt für alle Technologien 0,11 Rp./kWh.
 
-<sup>3</sup>
-
-Der variable Anteil für die Ausgleichsenergiekosten berechnet sich als Produkt aus:
-
-- a. dem Verhältnis des Durchschnitts der Ausgleichsenergiepreise für einen Monat zum Durchschnitt der Ausgleichsenergiepreise der Jahre 2013–2015; und
-- b. dem Basisbetrag nach Absatz 4.
+<sup>3</sup> Die Höhe des technologiespezifischen variablen Anteils entspricht den durchschnittlichen Ausgleichsenergiekosten der Elektrizität, die im entsprechenden Quartal aus allen lastganggemessenen Anlagen der jeweiligen Technologie eingespeist wird.
 
 <sup>4</sup>
 
-Der Basisbetrag entspricht:
+Die durchschnittlichen Ausgleichsenergiekosten ergeben sich aus hypothetischen Ausgleichsenergiekosten multipliziert mit dem folgenden Faktor:
 
-- a. bei Photovoltaik- und Windenergieanlagen: 0,31 Rp./kWh;
-- b. bei Wasserkraftanlagen: 0,12 Rp./kWh;
-- c. bei KVA: 0,04 Rp./kWh;
-- d. bei den übrigen Biomasseanlagen: 0,12 Rp./kWh.[^26-2]
+- a. bei Photovoltaikanlagen: 0,4;
+- b. bei den übrigen Technologien: 0,8.
 
-[^26-1]: Fassung gemäss Ziff. I der V vom 24. Mai 2023, in Kraft seit 1. April 2023 ([AS 2023 275](https://fedlex.data.admin.ch/eli/oc/2023/275)).
-[^26-2]: Fassung gemäss Ziff. I der V vom 20. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 708](https://fedlex.data.admin.ch/eli/oc/2024/708)).
+<sup>5</sup> Die hypothetischen Ausgleichsenergiekosten werden auf der Grundlage einer vereinfachten Prognose ermittelt.
+
+<sup>6</sup> Die vereinfachte Prognose basiert auf der Elektrizität, die am Vortag aus allen lastganggemessenen Anlagen der jeweiligen Technologie eingespeist wurde.
+
+<sup>7</sup> Resultiert ein negativer Wert, so beträgt das Bewirtschaftungsentgelt für die Ausgleichsenergiekosten 0 Rp./kWh.
+
+[^26-1]: Fassung gemäss Ziff. I der V vom 27. Mai 2026, in Kraft seit 1. Juli 2026 ([AS 2026 281](https://fedlex.data.admin.ch/eli/oc/2026/281)).
 
 #### Art. 27
 
@@ -3241,6 +3239,14 @@ Bestehende Anlagen, die komplett ersetzt wurden oder werden und die vor dem 1. J
 
 [^108c-1]: Eingefügt durch Ziff. I der V vom 26. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 830](https://fedlex.data.admin.ch/eli/oc/2025/830)).
 
+#### Art. 108d
+
+**Übergangsbestimmung zur Änderung vom 27. Mai 2026**[^108d-1]
+
+Für Anlagen in der Direktvermarktung, die bis zum 31. Dezember 2025 in Betrieb genommen wurden, wird für die Zeit vom 1. Januar 2026 bis zum 30. Juni 2026 gestützt auf die Regelung nach Artikel 26 ein Bewirtschaftungsentgelt für die durchschnittlichen Ausgleichsenergiekosten berechnet und im dritten Quartal 2026 ausbezahlt.
+
+[^108d-1]: Eingefügt durch Ziff. I der V vom 27. Mai 2026, in Kraft seit 1. Juli 2026 ([AS 2026 281](https://fedlex.data.admin.ch/eli/oc/2026/281)).
+
 #### Art. 109
 
 **Inkrafttreten**
@@ -3298,7 +3304,7 @@ Anhang 1.1[^t-1]
 - 2\.4.1 Beträgt der Anteil des nach dem Stand der Technik realisierten Wasserbaus, einschliesslich der Druckleitungen, weniger als 20 Prozent der gesamten Investitionskosten des Projekts, so entfällt der Anspruch auf den Wasserbau-Bonus. Beträgt er mehr als 50 Prozent, so besteht Anspruch auf den vollen Bonus. Zwischen 20 Prozent und 50 Prozent wird er gemäss der unten stehenden Grafik linear interpoliert. Massnahmen nach Artikel 83*a* GSchG[^annex11-lvlu1-lvl2-1] oder nach Artikel 10 BGF[^annex11-lvlu1-lvl2-2] sind für den Bonus nicht anrechenbar.
 - 2\.4.2 Dotierkraftwerke haben keinen Anspruch auf den Wasserbau-Bonus. Nebennutzungsanlagen mit einer Leistung von mehr als 100 kW haben nur bis zur äquivalenten Leistung von 100 kW Anspruch auf den Wasserbau-Bonus.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20260602/de/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20260701/de/xml/image/image2.png)
 
 - 2\.4.3 Der Satz für den Wasserbau-Bonus beträgt ab 1. Januar 2013 je Leistungsklasse:
 
@@ -3644,7 +3650,7 @@ Anhang 1.4[^t-4]
 
 - 3\.1 Geothermieanlagen müssen spätestens ab Beginn des dritten vollen Kalenderjahres nach der Inbetriebnahme einen minimalen Gesamtnutzungsgrad respektive Elektrizitätsnutzungsgrad gemäss folgendem Diagramm aufweisen:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20260602/de/xml/image/image3.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20260701/de/xml/image/image3.png)
 
 - 3\.2 Die für die Bestimmung des Gesamtnutzungsgrads relevante Beurteilungsperiode ist das ganze Kalenderjahr; der Gesamtnutzungsgrad bezieht sich auf die jährliche Energie am Bohrlochkopf mit:
 - Nutzungsgrad Wärme = genutzte Wärme dividiert durch Energie am Bohrlochkopf
@@ -3768,7 +3774,7 @@ Anhang 1.5[^t-5]
 - 2\.2.2 Die Beurteilungsperiode für die energetischen Mindestanforderungen ist das ganze Kalenderjahr.
 - 2\.2.3 Dampfprozesse, insbesondere Organic-Rankine-Cycle, Dampfturbinen und Dampfmotoren müssen einen minimalen Gesamtenergienutzungsgrad gemäss folgendem Diagramm erreichen:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20260602/de/xml/image/image4.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20260701/de/xml/image/image4.png)
 
 - Für die Berechnung des Gesamtnutzungsgrades wird der untere Heizwert H<sub>u</sub> des eingesetzten Brennstoffs verwendet.
 - Berechnung:
@@ -3781,7 +3787,7 @@ Anhang 1.5[^t-5]
   - a. elektrischer Wirkungsgrad:
   - Das WKK-Modul muss einen minimalen elektrischen Wirkungsgrad gemäss folgendem Diagramm erreichen:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20260602/de/xml/image/image5.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20260701/de/xml/image/image5.png)
 
 -
 
@@ -4965,7 +4971,7 @@ Anhang 6.1[^t-15]
 
 ## Gleitende Marktprämie für Wasserkraftanlagen
 
-[^t-15]: Eingefügt durch Ziff. II Abs. 3 der V vom 20. Nov. 2024 ([AS 2024 708](https://fedlex.data.admin.ch/eli/oc/2024/708)). Bereinigt gemäss Ziff. II der V vom 26. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 830](https://fedlex.data.admin.ch/eli/oc/2025/830)).
+[^t-15]: Eingefügt durch Ziff. II Abs. 3 der V vom 20. Nov. 2024 ([AS 2024 708](https://fedlex.data.admin.ch/eli/oc/2024/708)). Bereinigt gemäss Ziff. II der V vom 26. Nov. 2025 ([AS 2025 830](https://fedlex.data.admin.ch/eli/oc/2025/830)) und Ziff. I der V vom 27. Mai 2026, in Kraft seit 1. Juli 2026 ([AS 2026 301](https://fedlex.data.admin.ch/eli/oc/2026/301)).
 
 ### 1 Anlagendefinition
 
@@ -5054,7 +5060,7 @@ Anhang 6.1[^t-15]
 
   Die Jahreskosten setzen sich zusammen aus:
 
-  - a. den Kapitalkosten, die sich aufgrund der Investitionen ergeben und die für die Anlagenteile mit der standardisierten Nutzungsdauer gemäss Anhang 2.2 Ziffer 4 und einem durchschnittlichen Kapitalkostensatz gemäss Anhang 3 annuitätisch berechnet werden;
+  - a. den Kapitalkosten, die sich aufgrund der nach Artikel 61 Absätze 1–3 und Artikel 62 Absatz 1 Buchstaben b und c zu bestimmenden anrechenbaren Investitionskosten ergeben und die für die Anlagenteile mit der standardisierten Nutzungsdauer gemäss Anhang 2.2 Ziffer 4 und einem durchschnittlichen Kapitalkostensatz gemäss Anhang 3 annuitätisch berechnet werden;
   - b.
 
     den Betriebskosten, die wie folgt berücksichtigt werden:
@@ -5075,7 +5081,9 @@ Anhang 6.1[^t-15]
     den geschuldeten Abgaben und Leistungen an das Gemeinwesen in folgendem Umfang:
 
     - 1\. für erhebliche Erneuerungen von steuerbaren Anlagen mit einer Leistung von mehr als 3 MW: die Abgaben und Leistungen an das Gemeinwesen vor der Erneuerung im Verhältnis des Mehrerlöses zum Gesamterlös nach der Erneuerung; der Mehrerlös entspricht der Differenz zwischen dem Erlös, der mit der erneuerten Anlage erzielt werden kann, und dem Erlös, der mit der Anlage vor der Erneuerung hätte erzielt werden können,
-    - 2\. für erhebliche Erneuerungen von allen nicht steuerbaren Anlagen und von Anlagen mit einer Leistung von 3 MW oder weniger: die Abgaben und Leistungen an das Gemeinwesen vor der Erneuerung im Verhältnis der Mehrproduktion zur Nettoproduktion nach der Erneuerung;
+    - 2\. für erhebliche Erneuerungen von allen nicht steuerbaren Anlagen und von Anlagen mit einer Leistung von 3 MW oder weniger: die Abgaben und Leistungen an das Gemeinwesen vor der Erneuerung im Verhältnis der Mehrproduktion zur Nettoproduktion nach der Erneuerung,
+    - 3\. für Neuanlagen: die gemäss Konzession geschuldeten Abgaben und Leistungen,
+    - 4\. für erhebliche Erweiterungen: die durch die Erweiterung bedingten zusätzlichen Abgaben und Leistungen;
 
   - e. die kalkulatorischen Gewinnsteuern;
   - f. den Kosten für die Elektrizität für Zubringer- und Umwälzpumpen.

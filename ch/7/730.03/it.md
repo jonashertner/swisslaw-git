@@ -4,11 +4,11 @@ title: "Ordinanza del 1° novembre 2017 sulla promozione della produzione di ele
 short: OPEn
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/766"
 language: it
-version: 2026-06-02
+version: 2026-07-01
 adopted: 2017-11-01
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20260602/it/xml/fedlex-data-admin-ch-eli-cc-2017-766-20260602-it-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/766/20260602/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20260701/it/xml/fedlex-data-admin-ch-eli-cc-2017-766-20260701-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/766/20260701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/766/20260602/it"
 
 (Ordinanza sulla promozione dell’energia, OPEn)
 
-del 1° novembre 2017 (Stato 2 giugno 2026)
+del 1° novembre 2017 (Stato 1° luglio 2026)
 
 Il Consiglio federale svizzero,
 
@@ -253,7 +253,7 @@ Al sistema di rimunerazione per l’immissione di elettricità possono partecipa
 
 <sup>4</sup> Per i gestori di impianti assoggettati all’imposta secondo gli articoli 10–13 della legge del 12 giugno 2009[^16-1] sull’IVA (LIVA), il premio per l’immissione in rete si riduce del fattore calcolato come segue, in base all’aliquota normale vigente secondo l’articolo 25 capoverso 1 LIVA e arrotondato alla quarta cifra decimale:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20260602/it/xml/image/image1.png).[^16-2]
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20260701/it/xml/image/image1.png).[^16-2]
 
 [^16-1]: [RS 641.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8079)
 [^16-2]: Introdotto dalla cifra I dell’O del 27 feb. 2019 ([RU 2019 923](https://fedlex.data.admin.ch/eli/oc/2019/165)). Nuovo testo giusta la cifra I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 764](https://fedlex.data.admin.ch/eli/oc/2023/764)).
@@ -417,28 +417,26 @@ Se un impianto preleva dalla rete più elettricità di quanta ne immetta, l’or
 
 **Indennità di gestione**[^26-1]
 
-<sup>1</sup> I produttori nella commercializzazione diretta ricevono trimestralmente dall’organo d’esecuzione per ogni kWh di elettricità immessa in rete un’indennità di gestione, composta da una quota fissa per i costi di commercializzazione e da una quota variabile per i costi dell’energia di compensazione.
+<sup>1</sup> I produttori nella commercializzazione diretta ricevono trimestralmente dall’organo d’esecuzione per ogni kWh di elettricità immessa in rete un’indennità di gestione, composta da una quota fissa per i costi di commercializzazione e da una quota variabile, specifica per tecnologia, per i costi dell’energia di compensazione.
 
 <sup>2</sup> La quota fissa per i costi di commercializzazione ammonta a 0,11 ct./kWh per tutte le tecnologie.
 
-<sup>3</sup>
-
-La quota variabile per i costi dell’energia di compensazione corrisponde al prodotto dei seguenti valori:
-
-- a. il rapporto tra la media dei prezzi dell’energia di compensazione di un mese e la media dei prezzi dell’energia di compensazione degli anni 2013-2015; e
-- b. l’importo di base di cui al capoverso 4.
+<sup>3</sup> L’ammontare della quota variabile specifica per tecnologia corrisponde alla media dei costi dell’energia di compensazione per l’elettricità immessa in rete nel trimestre corrispondente da tutti gli impianti della rispettiva tecnologia sottoposti a una misurazione del profilo di carico.
 
 <sup>4</sup>
 
-L’importo di base ammonta a:
+La media dei costi dell’energia di compensazione è calcolata moltiplicando i costi dell’energia di compensazione ipotetici per il seguente fattore:
 
-- a. per gli impianti fotovoltaici ed eolici: 0,31 ct./kWh;
-- b. per gli impianti idroelettrici: 0,12 ct./kWh;
-- c. per gli IIR: 0,04 ct./kWh;
-- d. per i restanti impianti a biomassa: 0,12 ct./kWh.[^26-2]
+- a. per gli impianti fotovoltaici: 0,4;
+- b. per le altre tecnologie: 0,8.
 
-[^26-1]: Nuovo testo giusta la cifra I dell’O del 24 mag. 2023, in vigore dal 1° apr. 2023 ([RU 2023 275](https://fedlex.data.admin.ch/eli/oc/2023/275)).
-[^26-2]: Nuovo testo giusta la cifra I dell’O del 20 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 708](https://fedlex.data.admin.ch/eli/oc/2024/708)).
+<sup>5</sup> I costi dell’energia di compensazione ipotetici sono calcolati sulla base di una previsione semplificata.
+
+<sup>6</sup> La previsione semplificata si basa sull’elettricità immessa in rete il giorno precedente da tutti gli impianti della rispettiva tecnologia sottoposti a una misurazione del profilo di carico.
+
+<sup>7</sup> Se si ottiene un valore negativo, l’indennità di gestione per i costi dell’energia di compensazione ammonta a 0 ct./kWh.
+
+[^26-1]: Nuovo testo giusta la cifra I dell’O del 27 mag. 2026, in vigore dal 1° lug. 2026 ([RU 2026 281](https://fedlex.data.admin.ch/eli/oc/2026/281)).
 
 #### Art. 27
 
@@ -3242,6 +3240,14 @@ Gli impianti esistenti che sono stati o saranno sostituiti completamente e che p
 
 [^108c-1]: Introdotto dalla cifra I dell’O del 26 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 830](https://fedlex.data.admin.ch/eli/oc/2025/830)).
 
+#### Art. 108d
+
+**Disposizione transitoria della modifica del 27 maggio 2026**[^108d-1]
+
+Per gli impianti nella commercializzazione diretta che sono stati messi in esercizio entro il 31 dicembre 2025, l’indennità di gestione per la media dei costi dell’energia di compensazione è calcolata sulla base della regolamentazione di cui all’articolo 26 e versata nel terzo trimestre del 2026 per il periodo compreso tra il 1° gennaio 2026 e il 30 giugno 2026.
+
+[^108d-1]: Introdotto dalla cifra I dell’O del 27 mag. 2026, in vigore dal 1° lug. 2026 ([RU 2026 281](https://fedlex.data.admin.ch/eli/oc/2026/281)).
+
 #### Art. 109
 
 **Entrata in vigore**
@@ -3299,7 +3305,7 @@ Allegato 1.1[^t-1]
 - 2\.4.1 Se la quota destinata alla realizzazione delle opere idrauliche secondo lo stato della tecnica, condotte forzate incluse, è inferiore al 20 per cento dei costi di investimento complessivi del progetto, il diritto al bonus per le opere idrauliche decade. Se tale quota è superiore al 50 per cento, si ha diritto al bonus completo. Per i valori compresi fra il 20 e il 50 per cento viene effettuata un’interpolazione lineare secondo il seguente grafico. Le misure di cui all’articolo 83*a* LPAC[^annex11-lvlu1-lvl2-1] o all’articolo 10 LFSP[^annex11-lvlu1-lvl2-2] non sono computabili ai fini del bonus.
 - 2\.4.2 Le centrali con utilizzo di acqua di dotazione non hanno diritto al bonus per le opere idrauliche. Gli impianti accessori con una potenza superiore a 100 kW hanno diritto al bonus per le opere idrauliche solo fino alla potenza equivalente di 100 kW.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20260602/it/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20260701/it/xml/image/image2.png)
 
 - 2\.4.3 Il tasso per il bonus per le opere idrauliche secondo le classi di potenza ammonta dopo il 1° gennaio 2013 a:
 
@@ -3647,7 +3653,7 @@ Allegato 1.4[^t-4]
 
 - 3\.1 Gli impianti geotermici devono presentare, al più tardi dall’inizio del terzo anno civile completo dopo la messa in esercizio, un coefficiente di sfruttamento globale minimo secondo il diagramma seguente:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20260602/it/xml/image/image3.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20260701/it/xml/image/image3.png)
 
 - 3\.2 Il periodo di valutazione rilevante per la determinazione del coefficiente di sfruttamento globale è un anno civile completo; il coefficiente di sfruttamento globale si riferisce all’energia annua misurata alla testa del pozzo con:
 - coefficiente di sfruttamento del calore = calore sfruttato diviso per energia misurata alla testa del pozzo
@@ -3771,7 +3777,7 @@ Allegato 1.5[^t-5]
 - 2\.2.2 Il periodo di valutazione per i requisiti energetici minimi è l’anno civile completo.
 - 2\.2.3 I cicli del vapore, in particolare il ciclo Rankine organico, le turbine a vapore e i motori a vapore, devono raggiungere un coefficiente di sfruttamento energetico globale minimo secondo il diagramma seguente:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20260602/it/xml/image/image4.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20260701/it/xml/image/image4.png)
 
 - Per il calcolo del coefficiente di sfruttamento globale si utilizza il potere calorifico inferiore H<sub>u</sub> del combustibile impiegato.
 - Calcolo del coefficiente di sfruttamento elettrico = la produzione di energia elettrica divisa per la quantità di energia immessa nell’impianto a combustione.
@@ -3783,7 +3789,7 @@ Allegato 1.5[^t-5]
   - a. rendimento elettrico:
   - il modulo di cogenerazione deve raggiungere un rendimento elettrico minimo conformemente al seguente diagramma:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20260602/it/xml/image/image5.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20260701/it/xml/image/image5.png)
 
 -
 
@@ -4969,7 +4975,7 @@ Allegato 6.1[^t-15]
 
 ## Premio di mercato fluttuante per gli impianti idroelettrici
 
-[^t-15]: Introdotto dalla cifra III cpv. 3 dell’O del 20 nov. 2024 ([RU 2024 708](https://fedlex.data.admin.ch/eli/oc/2024/708)). Aggiornato dalla cifra II dell’O del 26 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 830](https://fedlex.data.admin.ch/eli/oc/2025/830)).
+[^t-15]: Introdotto dalla cifra III cpv. 3 dell’O del 20 nov. 2024 ([RU 2024 708](https://fedlex.data.admin.ch/eli/oc/2024/708)). Aggiornato dalla cifra II dell’O del 26 nov. 2025 ([RU 2025 830](https://fedlex.data.admin.ch/eli/oc/2025/830)) e dalla cifra I dell’O del 27 mag. 2026, in vigore dal 1° lug. 2026 ([RU 2026 301](https://fedlex.data.admin.ch/eli/oc/2026/301)).
 
 ### 1 Definizione degli impianti
 
@@ -5058,7 +5064,7 @@ Allegato 6.1[^t-15]
 
   I costi annui si compongono:
 
-  - a. dei costi del capitale risultanti dagli investimenti e che sono calcolati per annualità per le parti dell’impianto con il periodo di utilizzazione standardizzato secondo l’allegato 2.2 numero 4 e un costo medio del capitale secondo l’allegato 3;
+  - a. dei costi del capitale risultanti dai costi d’investimento computabili da determinare secondo gli articoli 61 capoversi 1–3 e 62 capoverso 1 lettere b e c, e che sono calcolati per annualità per le parti dell’impianto con il periodo di utilizzazione standardizzato secondo l’allegato 2.2 numero 4 e un costo medio del capitale secondo l’allegato 3;
   - b.
 
     dei costi d’esercizio, considerati come segue:
@@ -5079,7 +5085,9 @@ Allegato 6.1[^t-15]
     dei tributi e delle prestazioni pagati all’ente pubblico, nella misura seguente:
 
     - 1\. per i rinnovamenti considerevoli di impianti controllabili con una potenza superiore a 3 MW: i tributi e le prestazioni pagati all’ente pubblico prima del rinnovamento, nel rapporto tra il ricavo supplementare e il ricavo complessivo dopo il rinnovamento; il ricavo supplementare corrisponde alla differenza tra il ricavo ottenibile con l’impianto rinnovato e il ricavo che si sarebbe potuto ottenere con l’impianto prima del rinnovamento,
-    - 2\. per i rinnovamenti considerevoli di tutti gli impianti non controllabili e degli impianti con una potenza pari o inferiore a 3 MW: i tributi e le prestazioni pagati all’ente pubblico prima del rinnovamento, nel rapporto tra la produzione supplementare e la produzione netta dopo il rinnovamento;
+    - 2\. per i rinnovamenti considerevoli di tutti gli impianti non controllabili e degli impianti con una potenza pari o inferiore a 3 MW: i tributi e le prestazioni pagati all’ente pubblico prima del rinnovamento, nel rapporto tra la produzione supplementare e la produzione netta dopo il rinnovamento,
+    - 3\. per i nuovi impianti: i tributi e le prestazioni pagati secondo la concessione,
+    - 4\. per gli ampliamenti considerevoli: i tributi e le prestazioni supplementari dovuti all’ampliamento;
 
   - e. delle imposte calcolatorie sull’utile;
   - f. dei costi dell’elettricità utilizzata per le pompe di alimentazione e di pompaggio-turbinaggio.
