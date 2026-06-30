@@ -4,11 +4,11 @@ title: Bundespersonalverordnung vom 3. Juli 2001 (BPV)
 short: BPV
 eli: "https://fedlex.data.admin.ch/eli/cc/2001/319"
 language: de
-version: 2026-01-01
+version: 2026-07-01
 adopted: 2001-07-03
 in_force: 2002-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/319/20260101/de/xml/fedlex-data-admin-ch-eli-cc-2001-319-20260101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2001/319/20260101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/319/20260701/de/xml/fedlex-data-admin-ch-eli-cc-2001-319-20260701-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2001/319/20260701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2001/319/20260101/de"
 
 (BPV)
 
-vom 3. Juli 2001 (Stand am 1. Januar 2026)
+vom 3. Juli 2001 (Stand am 1. Juli 2026)
 
 Der Schweizerische Bundesrat,
 
@@ -583,7 +583,7 @@ Von der Pflicht zur öffentlichen Ausschreibung sind ausgenommen:
 - d.[^22-4] Stellen, die im Rahmen der beruflichen Wiedereingliederung von erkrankten und verunfallten Mitarbeitenden und der Integration von Menschen mit Behinderungen besetzt werden;
 - e.[^22-5] Stellen, die von Angestellten besetzt werden, die von Umstrukturierungen oder Reorganisationen betroffen sind.
 
-<sup>3</sup> Offene Stellen, die nicht von der Pflicht zur öffentlichen Ausschreibung ausgenommen sind, werden spätestens eine Woche vor der Publikation im elektronischen Stellenanzeiger des Bundes den Regionalen Arbeitsvermittlungszentren gemeldet.[^22-6]
+<sup>3</sup> …[^22-6]
 
 <sup>4</sup> Offene Stellen in Berufsarten mit einer über dem Durchschnitt liegenden Arbeitslosigkeit im Sinne von Artikel 53*a* der Arbeitsvermittlungsverordnung vom 16. Januar 1991[^22-7] sind der öffentlichen Arbeitsvermittlung zu melden.[^22-8]
 
@@ -592,7 +592,7 @@ Von der Pflicht zur öffentlichen Ausschreibung sind ausgenommen:
 [^22-3]: Eingefügt durch Ziff. I der V vom 28. Nov. 2014, in Kraft seit 1. Jan. 2015 ([AS 2014 4567](https://fedlex.data.admin.ch/eli/oc/2014/765)).
 [^22-4]: Eingefügt durch Ziff. I der V vom 1. Mai 2013, in Kraft seit 1. Juli 2013 ([AS 2013 1515](https://fedlex.data.admin.ch/eli/oc/2013/354)).
 [^22-5]: Eingefügt durch Ziff. I der V vom 12. Juni 2015, in Kraft seit 1. Aug. 2015 ([AS 2015 2243](https://fedlex.data.admin.ch/eli/oc/2015/417)).
-[^22-6]: Fassung gemäss Ziff. I der V vom 12. Juni 2015, in Kraft seit 1. Aug. 2015 ([AS 2015 2243](https://fedlex.data.admin.ch/eli/oc/2015/417)).
+[^22-6]: Aufgehoben durch Ziff. I der V vom 27. Mai 2026, mit Wirkung seit 1. Juli 2026 ([AS 2026 309](https://fedlex.data.admin.ch/eli/oc/2026/309)).
 [^22-7]: [SR 823.111](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9940)
 [^22-8]: Eingefügt durch Ziff. I der V vom 8. Dez. 2017, in Kraft seit 1. Juli 2018 ([AS 2018 747](https://fedlex.data.admin.ch/eli/oc/2018/96)).
 
@@ -691,13 +691,20 @@ Absolventen und Absolventinnen von Hochschulen können mit einem befristeten Ver
 - a. Studierende ohne Abschluss: sechs Monate;
 - b. Absolventen und Absolventinnen mit einem Bachelor- oder Masterabschluss: zwölf Monate.
 
-<sup>2</sup> Absolventen und Absolventinnen mit einem Bachelor- oder Masterabschluss müssen ihr Praktikum spätestens zwölf Monate nach Abschluss beginnen.
+<sup>2</sup> Absolventen und Absolventinnen mit einem Bachelor- oder Masterabschluss müssen ihr Praktikum spätestens 18 Monate nach dem Abschluss beginnen.[^25a-2]
+
+<sup>2bis</sup> In begründeten Fällen kann die Frist von 18 Monaten auf Gesuch hin und im Einvernehmen mit dem EFD um höchstens sechs Monate verlängert werden.[^25a-3]
+
+<sup>2ter</sup> Bei Militär- und Zivildienst sowie bei Mutterschaftsurlaub verlängert sie sich um höchstens sechs Monate.[^25a-4]
 
 <sup>3</sup> Der Lohn für Hochschulpraktikanten und -praktikantinnen wird durch das EFD festgelegt. Er ist von einer Lohnentwicklung (Art. 39) ausgenommen. Monatlich wird ein Zwölftel des Jahreslohns ausbezahlt.
 
 <sup>4</sup> Die Hochschulpraktikanten und -praktikantinnen erhalten weder einen Ortszuschlag (Art. 43) noch einen Teuerungsausgleich (Art. 44).
 
 [^25a-1]: Eingefügt durch Ziff. I der V vom 2. Dez. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4507](https://fedlex.data.admin.ch/eli/oc/2016/734)).
+[^25a-2]: Fassung gemäss Ziff. I der V vom 27. Mai 2026, in Kraft seit 1. Juli 2026 ([AS 2026 309](https://fedlex.data.admin.ch/eli/oc/2026/309)).
+[^25a-3]: Eingefügt durch Ziff. I der V vom 27. Mai 2026, in Kraft seit 1. Juli 2026 ([AS 2026 309](https://fedlex.data.admin.ch/eli/oc/2026/309)).
+[^25a-4]: Eingefügt durch Ziff. I der V vom 27. Mai 2026, in Kraft seit 1. Juli 2026 ([AS 2026 309](https://fedlex.data.admin.ch/eli/oc/2026/309)).
 
 #### Art. 25b
 
@@ -705,7 +712,13 @@ Absolventen und Absolventinnen von Hochschulen können mit einem befristeten Ver
 
 ### (Art. 4 Abs. 2 Bst. j BPG)
 
-<sup>1</sup> Wer ein Hochschulpraktikum für wissenschaftliche Bibliothekare und Bibliothekarinnen absolviert, wird für die Dauer von höchstens 24 Monaten angestellt. Er oder sie muss das Praktikum spätestens zwölf Monate nach dem Masterabschluss beginnen.
+<sup>1</sup> Wer ein Hochschulpraktikum für wissenschaftliche Bibliothekare und Bibliothekarinnen absolviert, wird für die Dauer von höchstens 24 Monaten angestellt.[^25b-2]
+
+<sup>1bis</sup> Absolventen und Absolventinnen mit Masterabschluss müssen das Praktikum spätestens 18 Monate nach dem Abschluss beginnen.[^25b-3]
+
+<sup>1ter</sup> In begründeten Fällen kann die Frist von 18 Monaten auf Gesuch hin und im Einvernehmen mit dem EFD um höchstens sechs Monate verlängert werden.[^25b-4]
+
+<sup>1quater</sup> Bei Militär- und Zivildienst sowie bei Mutterschaftsurlaub verlängert sie sich um höchstens sechs Monate.[^25b-5]
 
 <sup>2</sup> Wer ein Hochschulpraktikum für angehende Rechtanwälte und Rechtsanwältinnen oder angehende Notare und Notarinnen absolviert, wird für die Dauer von höchstens 24 Monaten angestellt. Er oder sie muss das Praktikum spätestens 24 Monate nach dem Masterabschluss beginnen.
 
@@ -716,6 +729,10 @@ Absolventen und Absolventinnen von Hochschulen können mit einem befristeten Ver
 <sup>5</sup> Für den Lohn und die Zulagen zum Lohn gilt Artikel 25*a* Absätze 3 und 4.
 
 [^25b-1]: Eingefügt durch Ziff. I der V vom 2. Dez. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4507](https://fedlex.data.admin.ch/eli/oc/2016/734)).
+[^25b-2]: Fassung gemäss Ziff. I der V vom 27. Mai 2026, in Kraft seit 1. Juli 2026 ([AS 2026 309](https://fedlex.data.admin.ch/eli/oc/2026/309)).
+[^25b-3]: Eingefügt durch Ziff. I der V vom 27. Mai 2026, in Kraft seit 1. Juli 2026 ([AS 2026 309](https://fedlex.data.admin.ch/eli/oc/2026/309)).
+[^25b-4]: Eingefügt durch Ziff. I der V vom 27. Mai 2026, in Kraft seit 1. Juli 2026 ([AS 2026 309](https://fedlex.data.admin.ch/eli/oc/2026/309)).
+[^25b-5]: Eingefügt durch Ziff. I der V vom 27. Mai 2026, in Kraft seit 1. Juli 2026 ([AS 2026 309](https://fedlex.data.admin.ch/eli/oc/2026/309)).
 
 #### Art. 26
 
@@ -1009,7 +1026,9 @@ Der Lohn wird im Rahmen folgender Lohnklassen festgesetzt:
 
 <sup>1</sup> Bei der Anstellung setzt die zuständige Stelle nach Artikel 2 einen Lohn im Rahmen der Klassen nach Artikel 36 fest. Sie berücksichtigt dabei angemessen die Ausbildung und die Berufs- und Lebenserfahrung der anzustellenden Person sowie die Lage auf dem Arbeitsmarkt.
 
-<sup>2</sup> Das EFD gibt jährlich Richtwerte für die Lohnfestsetzung heraus.
+<sup>2</sup> Das EFD stellt die Richtwerte zur Lohnfestsetzung insbesondere in Bezug auf das Bildungsniveau und die funktionsrelevante Erfahrung zur Verfügung.[^37-1]
+
+[^37-1]: Fassung gemäss Ziff. I der V vom 27. Mai 2026, in Kraft seit 1. Juli 2026 ([AS 2026 309](https://fedlex.data.admin.ch/eli/oc/2026/309)).
 
 #### Art. 38
 
@@ -1541,7 +1560,13 @@ Bei Krankheit oder Unfall während Dienstreisen im Ausland übernimmt der Arbeit
 
 <sup>4</sup> Bei freiwilliger Dienstleistung kann der Lohn während höchstens 10 Arbeitstagen pro Jahr ausgerichtet werden.
 
+<sup>4bis</sup> Angestellten der Militärverwaltung, die gemäss Artikel 1*a* Absatz 1 Buchstabe b des Erwerbsersatzgesetzes vom 25. September 1952[^59-1] keinen Anspruch auf eine Erwerbsausfallentschädigung haben, kann der Lohn ab dem 11. Arbeitstag für die maximale Dauer der Dienstleistung gemäss Artikel 55 Absatz 4 der Verordnung vom 22. November 2017[^59-2] über die Militärdienstpflicht ausgerichtet werden.[^59-3]
+
 <sup>5</sup> Die Sozialzulagen werden ungekürzt ausgerichtet.
+
+[^59-1]: [SR 834.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10262)
+[^59-2]: [SR 512.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7406)
+[^59-3]: Eingefügt durch Ziff. I der V vom 27. Mai 2026, in Kraft seit 1. Juli 2026 ([AS 2026 309](https://fedlex.data.admin.ch/eli/oc/2026/309)).
 
 #### Art. 60
 
@@ -1591,24 +1616,28 @@ Bei Krankheit oder Unfall während Dienstreisen im Ausland übernimmt der Arbeit
 
 #### Art. 60b
 
-**Vaterschaftsurlaub und Urlaub der eingetragenen Partnerin oder des eingetragenen Partners**[^60b-1]
+**Vaterschaftsurlaub und Urlaub des anderen Ehegatten**[^60b-1]
 
 ### (Art. 17*a* BPG)
 
+[^60b-2]
+
 <sup>1</sup> Bei der Geburt eines oder mehrerer eigenen Kinder besteht für den rechtlichen Vater ein Anspruch auf einen bezahlten Urlaub von zwanzig Arbeitstagen. Der Urlaub ist in den ersten sechs Monaten nach der Geburt zu beziehen. Er kann tageweise oder kumuliert bezogen werden.
 
-<sup>2</sup> In eingetragenen Partnerschaften besteht bei der Geburt eines oder mehrerer Kinder der Partnerin oder des Partners für die andere Partnerin oder den anderen Partner der Anspruch auf einen bezahlten Urlaub von zwanzig Tagen gleichermassen.
+<sup>2</sup> In gleichgeschlechtlichen Ehen und in eingetragenen Partnerschaften besteht bei der Geburt eines oder mehrerer Kinder der Ehegattin oder des Ehegatten für die andere Ehegattin oder den anderen Ehegatten der Anspruch auf einen bezahlten Urlaub von zwanzig Tagen gleichermassen.[^60b-3]
 
-<sup>3</sup> Stirbt die Mutter am Tag der Niederkunft oder während der 97 Tage danach, so hat der rechtliche Vater oder der rechtliche andere Elternteil Anspruch auf 4 Monate zusätzlichen Urlaub. Dieser Urlaub muss einen Tag nach dem Tod der Mutter angetreten und am Stück bezogen werden. Es wird der volle Lohn mit Sozialzulagen ausgerichtet.[^60b-2]
+<sup>3</sup> Stirbt die Mutter am Tag der Niederkunft oder während der 97 Tage danach, so hat der rechtliche Vater oder der rechtliche andere Elternteil Anspruch auf 4 Monate zusätzlichen Urlaub. Dieser Urlaub muss einen Tag nach dem Tod der Mutter angetreten und am Stück bezogen werden. Es wird der volle Lohn mit Sozialzulagen ausgerichtet.[^60b-4]
 
-<sup>4</sup> Stirbt die Mutter am Tag der Niederkunft oder während der 97 Tage danach und muss ein Neugeborenes unmittelbar nach der Geburt ununterbrochen während mindestens zwei Wochen im Spital verweilen, so gilt Artikel 60 Absätze 1 und 3 sinngemäss.[^60b-3]
+<sup>4</sup> Stirbt die Mutter am Tag der Niederkunft oder während der 97 Tage danach und muss ein Neugeborenes unmittelbar nach der Geburt ununterbrochen während mindestens zwei Wochen im Spital verweilen, so gilt Artikel 60 Absätze 1 und 3 sinngemäss.[^60b-5]
 
-<sup>5</sup> Die Rahmenfrist von sechs Monaten nach Absatz 1 wird während des Bezugs eines Urlaubs nach Absatz 3 oder 4 unterbrochen.[^60b-4]
+<sup>5</sup> Die Rahmenfrist von sechs Monaten nach Absatz 1 wird während des Bezugs eines Urlaubs nach Absatz 3 oder 4 unterbrochen.[^60b-6]
 
 [^60b-1]: Eingefügt durch Ziff. I der V vom 12. Mai 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 285](https://fedlex.data.admin.ch/eli/oc/2021/285)).
-[^60b-2]: Eingefügt durch Ziff. II der V vom 22. Nov. 2023 (Taggelder für den hinterlassenen Elternteil), in Kraft seit 1. Jan. 2024 ([AS 2023 756](https://fedlex.data.admin.ch/eli/oc/2023/756)).
-[^60b-3]: Eingefügt durch Ziff. II der V vom 22. Nov. 2023 (Taggelder für den hinterlassenen Elternteil), in Kraft seit 1. Jan. 2024 ([AS 2023 756](https://fedlex.data.admin.ch/eli/oc/2023/756)).
+[^60b-2]: Fassung gemäss Ziff. I der V vom 27. Mai 2026, in Kraft seit 1. Juli 2026 ([AS 2026 309](https://fedlex.data.admin.ch/eli/oc/2026/309)).
+[^60b-3]: Fassung gemäss Ziff. I der V vom 27. Mai 2026, in Kraft seit 1. Juli 2026 ([AS 2026 309](https://fedlex.data.admin.ch/eli/oc/2026/309)).
 [^60b-4]: Eingefügt durch Ziff. II der V vom 22. Nov. 2023 (Taggelder für den hinterlassenen Elternteil), in Kraft seit 1. Jan. 2024 ([AS 2023 756](https://fedlex.data.admin.ch/eli/oc/2023/756)).
+[^60b-5]: Eingefügt durch Ziff. II der V vom 22. Nov. 2023 (Taggelder für den hinterlassenen Elternteil), in Kraft seit 1. Jan. 2024 ([AS 2023 756](https://fedlex.data.admin.ch/eli/oc/2023/756)).
+[^60b-6]: Eingefügt durch Ziff. II der V vom 22. Nov. 2023 (Taggelder für den hinterlassenen Elternteil), in Kraft seit 1. Jan. 2024 ([AS 2023 756](https://fedlex.data.admin.ch/eli/oc/2023/756)).
 
 #### Art. 60c
 
@@ -1880,10 +1909,10 @@ Ferien werden im Verhältnis zur Dauer der Abwesenheit gekürzt, wenn die angest
 
 <sup>2</sup> Die zuständige Stelle berücksichtigt bei ihrem Entscheid in angemessener Weise den Grund sowie die Arbeitssituation. Sie kann in begründeten Fällen auch die Leistungen und das Verhalten berücksichtigen.
 
-<sup>3</sup> Urlaube dürfen von der zuständigen Stelle nicht für mehr als 3 Jahre gewährt werden. Ausnahmen nach Artikel 88 Absatz 1 Buchstabe a bleiben vorbehalten.[^68-2]
+<sup>3</sup> Urlaube dürfen von der zuständigen Stelle nicht für mehr als 4 Jahre gewährt werden. Ausnahmen nach Artikel 88 Absatz 1 Buchstabe a bleiben vorbehalten.[^68-2]
 
 [^68-1]: Fassung gemäss Ziff. I der V vom 22. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6737](https://fedlex.data.admin.ch/eli/oc/2017/753)).
-[^68-2]: Eingefügt durch Ziff. I der V vom 15. Juni 2007 ([AS 2007 2871](https://fedlex.data.admin.ch/eli/oc/2007/379)). Fassung gemäss Ziff. I der V vom 24. Nov. 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 5793](https://fedlex.data.admin.ch/eli/oc/2010/821)).
+[^68-2]: Eingefügt durch Ziff. I der V vom 15. Juni 2007 ([AS 2007 2871](https://fedlex.data.admin.ch/eli/oc/2007/379)). Fassung gemäss Ziff. I der V vom 27. Mai 2026, in Kraft seit 1. Juli 2026 ([AS 2026 309](https://fedlex.data.admin.ch/eli/oc/2026/309)).
 
 ### 6. Abschnitt: Weitere Leistungen des Arbeitgebers
 
@@ -2168,7 +2197,7 @@ Entschädigungen nach Artikel 19 Absatz 4 BPG können bei Auflösung des Arbeits
 Keine Entschädigung wird an Personen ausgerichtet:
 
 - a. die bei einem Arbeitgeber nach Artikel 3 BPG weiterbeschäftigt werden;
-- b.[^78-8] deren Arbeitsverhältnis nach Ablauf der Fristen gemäss Artikel 31*a* wegen mangelnder Eignung oder Tauglichkeit aufgelöst wird;
+- b.[^78-8] deren Arbeitsverhältnis nach Ablauf der Fristen gemäss Artikel 31*b* wegen mangelnder Eignung oder Tauglichkeit aufgelöst wird;
 - c. deren Arbeitsverhältnis nach Artikel 31 aufgelöst wird;
 - d.[^78-9] deren Arbeitsverhältnis aus betrieblichen oder personalpolitischen Gründen einvernehmlich aufgelöst wurde und denen der Arbeitgeber Leistungen nach Artikel 106 erbringt;
 - e.[^78-10] die Leistungen bei vorzeitiger Pensionierung nach Artikel 105*b* beziehen.
@@ -2188,7 +2217,7 @@ Keine Entschädigung wird an Personen ausgerichtet:
 [^78-5]: Fassung gemäss Ziff. I der V vom 1. Mai 2013, in Kraft seit 1. Juli 2013 ([AS 2013 1515](https://fedlex.data.admin.ch/eli/oc/2013/354)).
 [^78-6]: Aufgehoben durch Ziff. I der V vom 12. Okt. 2016, mit Wirkung seit 1. Dez. 2016 ([AS 2016 3637](https://fedlex.data.admin.ch/eli/oc/2016/611)).
 [^78-7]: Eingefügt durch Ziff. I der V vom 27. Nov. 2009, in Kraft seit 1. Jan. 2010 ([AS 2009 6417](https://fedlex.data.admin.ch/eli/oc/2009/785)).
-[^78-8]: Fassung gemäss Ziff. I der V vom 2. Dez. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4507](https://fedlex.data.admin.ch/eli/oc/2016/734)).
+[^78-8]: Fassung gemäss Ziff. I der V vom 27. Mai 2026, in Kraft seit 1. Juli 2026 ([AS 2026 309](https://fedlex.data.admin.ch/eli/oc/2026/309)).
 [^78-9]: Eingefügt durch Ziff. I der V vom 2. Dez. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4507](https://fedlex.data.admin.ch/eli/oc/2016/734)).
 [^78-10]: Eingefügt durch Ziff. I der V vom 22. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6737](https://fedlex.data.admin.ch/eli/oc/2017/753)).
 [^78-11]: Aufgehoben durch Ziff. I der V vom 3. Sept. 2025, mit Wirkung seit 1. Jan. 2026 ([AS 2025 569](https://fedlex.data.admin.ch/eli/oc/2025/569)).
@@ -2670,12 +2699,11 @@ Angestellten, die an einem Beschaffungs- oder Entscheidprozess beteiligt sind, i
 
 <sup>3</sup> Die Angestellten dürfen sich als Partei, Zeuginnen oder Zeugen, Auskunftspersonen oder gerichtliche Sachverständige über Wahrnehmungen, die sie aufgrund ihrer Aufgaben oder in Ausübung ihrer Funktion gemacht haben und die sich auf ihre dienstlichen Aufgaben beziehen, nur äussern, wenn die zuständige Stelle nach Artikel 2 sie schriftlich dazu ermächtigt hat. Keine Ermächtigung ist erforderlich, wenn die Aussagen Tatsachen betreffen, die eine Anzeige- oder Meldepflicht der Angestellten nach Artikel 302 der Strafprozessordnung[^94-1] oder nach Artikel 22*a* Absätze 1 und 2 BPG begründen.[^94-2]
 
-<sup>4</sup> Vorbehalten bleibt Artikel 156 des Parlamentsgesetzes vom 13. Dezember 2002[^94-3].[^94-4]
+<sup>4</sup> Erfolgt die Offenbarung von Geheimnissen ausserhalb einer Stellung als Partei, Zeugin oder Zeuge, Auskunftsperson oder gerichtliche Sachverständige und gestützt auf eine bundesgesetzliche Pflicht oder eine Berechtigung zur Offenbarung, so ist keine Ermächtigung der zuständigen Stelle nach Artikel 2 erforderlich.[^94-3]
 
 [^94-1]: [SR 312.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6214)
 [^94-2]: Fassung gemäss Ziff. I der V vom 2. Dez. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4507](https://fedlex.data.admin.ch/eli/oc/2016/734)).
-[^94-3]: [SR 171.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4991)
-[^94-4]: Fassung gemäss Ziff. I der V vom 12. Juni 2015, in Kraft seit 1. Aug. 2015 ([AS 2015 2243](https://fedlex.data.admin.ch/eli/oc/2015/417)).
+[^94-3]: Fassung gemäss Ziff. I der V vom 27. Mai 2026, in Kraft seit 1. Juli 2026 ([AS 2026 309](https://fedlex.data.admin.ch/eli/oc/2026/309)).
 
 #### Art. 94a
 
@@ -3005,6 +3033,10 @@ Stellen in der Bundesverwaltung sind zumutbar, wenn:
 <sup>1</sup> Die Verwaltungseinheiten schliessen mit den Angestellten, die von einer Umstrukturierung oder Reorganisation betroffen sind, Vereinbarungen ab.
 
 <sup>2</sup> Die Vereinbarungen enthalten die gemeinsam zu ergreifenden Massnahmen, deren Dauer, die Leistungen des Arbeitgebers sowie die Folgen einer Verletzung der Mitwirkungspflichten nach Artikel 104 Absatz 3.
+
+<sup>3</sup> Auf den Abschluss einer Vereinbarung kann verzichtet werden, wenn die angestellte Person im Rahmen der Umstrukturierung oder Reorganisation eine Stelle mit der gleichen Funktion oder eine zumutbare Stelle in einer Verwaltungseinheit nach Artikel 1 Absatz 1 Buchstabe a erhalten wird.[^104c-1]
+
+[^104c-1]: Eingefügt durch Ziff. I der V vom 27. Mai 2026, in Kraft seit 1. Juli 2026 ([AS 2026 309](https://fedlex.data.admin.ch/eli/oc/2026/309)).
 
 #### Art. 104d
 
@@ -3564,15 +3596,83 @@ Der Lohn von Angestellten, deren Funktion aus Gründen, die nicht bei ihnen lieg
 
 **Übergangsbestimmungen zur Änderung vom 3. September 2025**[^116m-1]
 
-<sup>1</sup> Bei Angestellten, die nach dem bisherigen Lohnsystem angestellt wurden, entspricht der Lohn per 1. Januar 2027 dem bisherigen Lohn zuzüglich des Ortszuschlags, der am 31. Dezember 2026 galt.
+<sup>1</sup> Bei Angestellten, die nach dem bisherigen Lohnsystem angestellt wurden, entspricht der Lohn per 1. Januar 2027 mindestens dem bisherigen Lohn zuzüglich des Ortszuschlags, der am 31. Dezember 2026 galt.[^116m-2]
 
-<sup>2</sup> Liegt der Lohn von Angestellten am 31. Dezember 2026 zuzüglich des geltenden Ortszuschlags unterhalb des Anfangslohnes der Lohnklasse für das entsprechende Erfahrungsjahr, so wird der Lohn per 1. Januar 2027 bis zu diesem Anfangslohn angehoben.
+<sup>1bis</sup> Bei den Angestellten, die nach dem bisherigen Lohnsystem angestellt wurden, die am 1. Januar 2027 im Ausland eingesetzt sind und auf die die Verordnung des EDA vom 20. September 2002[^116m-3] zur Bundespersonalverordnung anwendbar ist, entspricht der Lohn per 1. Januar 2027 dem bisherigen Lohn zuzüglich des Ortszuschlags in der Höhe der bisherigen Ortszuschlagsstufe 13.[^116m-4]
 
-<sup>3</sup> Die im Jahr 2026 beschlossene Lohnentwicklung nach Artikel 39 Absatz 5 wird per 1. Januar 2027 auf der Grundlage des Lohnes nach Absatz 1 wirksam.
+<sup>1ter</sup> Bei den Berufsoffizierinnen und -offizieren, einschliesslich höherer Stabsoffizierinnen und -offizieren, den Berufsunteroffizierinnen und -offizieren sowie den Angehörigen des militärischen Flugdienstes, die nach dem bisherigen Lohnsystem angestellt wurden und denen gestützt auf Artikel 18 Absatz 1 der Verordnung des VBS vom 26. November 2024[^116m-5] über das militärische Personal ein Arbeitsort zugewiesen wurde oder wird, entspricht der Lohn per 1. Januar 2027 dem bisherigen Lohn zuzüglich des Ortszuschlags in der Höhe der bisherigen Ortszuschlagsstufe 13.[^116m-6]
+
+<sup>1quater</sup> Bei Aspirantinnen und Aspiranten in der Ausbildung zum Fachspezialisten oder zur Fachspezialistin Zoll und Grenzsicherheit, die sich im Zeitpunkt des Inkrafttretens des neuen Lohnsystems bereits in Ausbildung befinden, wird der Lohn per 1. Januar 2027 zum Anfangslohn der Lohnklasse 12 für das entsprechende Erfahrungsjahr angehoben. Nach erfolgreichem Abschluss der Ausbildung wird der Lohn zum Anfangslohn der Lohnklasse 17 für das entsprechende Erfahrungsjahr angehoben.[^116m-7]
+
+<sup>2</sup> Eine allfällige Lohnentwicklung nach Artikel 39 Absatz 5 wird per 1. Januar 2027 auf der Grundlage des Lohnes nach den Absätzen 1*–*1<sup>ter</sup> wirksam.[^116m-8]
+
+<sup>2bis</sup> Liegt der Lohn nach den Absätzen 1*–*1<sup>ter</sup> zuzüglich der Lohnentwicklung nach Absatz 2 unterhalb des Anfangslohnes der Lohnklasse für das entsprechende Erfahrungsjahr, so wird der Lohn per 1. Januar 2027 bis zu diesem Anfangslohn angehoben. Vorbehalten bleiben die Absätze 3*–*3<sup>ter</sup>, 3<sup>quinquies</sup> und 3<sup>septies</sup>.[^116m-9]
+
+<sup>3</sup>
+
+Bei Angestellten, die nach dem bisherigen Lohnsystem angestellt wurden, werden die Erfahrungsjahre bis zum 31. Dezember 2026 für die Bestimmung der Lohnposition wie folgt angerechnet:
+
+- a. Lohnklassen 1–5: Differenz zwischen dem Lebensalter und dem vollendeten 20. Altersjahr zu 100 Prozent;
+- b. Lohnklassen 6–17: Differenz zwischen dem Lebensalter und dem vollendeten 20. Altersjahr zu 75 Prozent;
+- c. Lohnklassen 18–23: Differenz zwischen dem Lebensalter und dem vollendeten 24. Altersjahr zu 75 Prozent;
+- d. Lohnklassen 24–27: Differenz zwischen dem Lebensalter und dem vollendeten 26. Altersjahr zu 75 Prozent;
+- e. Lohnklassen 28–38: Differenz zwischen dem Lebensalter und dem vollendeten 26. Altersjahr zu 50 Prozent.[^116m-10]
+
+<sup>3bis</sup>
+
+Der angestellten Person wird anstelle der Erfahrungsjahre nach Absatz 3 die für die aktuelle Funktion relevante Berufs- und Lebenserfahrung als Erfahrungsjahre angerechnet, sofern:
+
+- a. der Lohn per 1. Januar 2027 zu einer Lohnerhöhung führt;
+- b. die nach Absatz 3 errechneten Erfahrungsjahre mehr als zehn Jahre betragen; und
+- c. die Abweichung gegenüber den aufgrund des Lebenslaufs anrechenbaren Erfahrungsjahren mehr als 25 Prozent beträgt.[^116m-11]
+
+<sup>3ter</sup>
+
+Der angestellten Person wird anstelle der Erfahrungsjahre nach Absatz 3 die für die aktuelle Funktion relevante Berufs- und Lebenserfahrung als Erfahrungsjahre angerechnet, sofern:
+
+- a. der Lohn per 1. Januar 2027 zu einer Lohnerhöhung führt;
+- b. die nach Absatz 3 errechneten Erfahrungsjahre höchstens zehn Jahre betragen; und
+- c. die Abweichung gegenüber den aufgrund des Lebenslaufs anrechenbaren Erfahrungsjahren mehr als 50 Prozent beträgt.[^116m-12]
+
+<sup>3quater</sup> Die Abweichung nach den Absätzen 3<sup>bis</sup> Buchstabe c und 3<sup>ter</sup> Buchstabe c wird berechnet, indem die Differenz zwischen den nach Absatz 3 errechneten Erfahrungsjahren und den aufgrund des Lebenslaufs anrechenbaren Erfahrungsjahren durch die nach Absatz 3 errechneten Erfahrungsjahre dividiert und mit 100 multipliziert wird.[^116m-13]
+
+<sup>3quinquies</sup> Unterschreiten die nach Absatz 3 ermittelten Erfahrungsjahre am 1. Januar 2027 die funktionsbezogenen Mindestanforderungen, so erfolgt die Einreihung vorübergehend in eine um zwei Lohnklassen tiefere Lohnklasse. Die Tiefereinreihung entfällt, sobald die Anforderungen erfüllt sind, spätestens jedoch nach fünf Jahren. Der Lohn wird in der ursprünglichen Lohnklasse auf der Grundlage von null Erfahrungsjahren festgesetzt. Vorbehalten bleibt Absatz 3<sup>septies</sup>.[^116m-14]
+
+<sup>3sexies</sup>
+
+Als funktionsbezogene Mindestanforderung gelten:
+
+- a. in den Lohnklassen 18–23 ein Bachelorabschluss oder ein eidgenössisches Fähigkeitszeugnis mit dreijähriger Berufserfahrung;
+- b. in den Lohnklassen 24 und höher ein Masterabschluss, ein Bachelorabschluss mit zweijähriger Berufserfahrung oder ein eidgenössisches Fähigkeitszeugnis mit fünfjähriger Berufserfahrung.[^116m-15]
+
+<sup>3septies</sup> Unterschreitet bei Funktionen der Informations- und Kommunikationstechnologien gemäss der Sparte Digitale Dienste / Informatik des vom EFD nach Artikel 52 Absatz 4 erstellten Referenzfunktionenkatalogs, die in den Lohnklassen 16–23 eingestuft sind, am 1. Januar 2027 die funktionsrelevante Erfahrung fünf Jahre, so erfolgt die Einreihung vorübergehend in der Lohnklasse 15. Die Tiefereinreihung entfällt, sobald die Anforderungen erfüllt sind, spätestens jedoch nach fünf Jahren. Die Verhältnisse auf dem Arbeitsmarkt sind zu berücksichtigen. Der Lohn wird in der ursprünglichen Lohnklasse bei null Erfahrungsjahren festgesetzt.[^116m-16]
 
 <sup>4</sup> Die Höhe der Funktionszulagen und der Arbeitsmarktzulagen, die vor dem 1. Januar 2027 gewährt wurden, richtet sich nach dem bisherigen Recht.
 
 [^116m-1]: Eingefügt durch Ziff. I der V vom 3. Sept. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 569](https://fedlex.data.admin.ch/eli/oc/2025/569)).
+[^116m-2]: Fassung gemäss Ziff. I der V vom 27. Mai 2026, in Kraft seit 1. Juli 2026 ([AS 2026 309](https://fedlex.data.admin.ch/eli/oc/2026/309)).
+[^116m-3]: [SR 172.220.111.343.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5365)
+[^116m-4]: Eingefügt durch Ziff. I der V vom 27. Mai 2026, in Kraft seit 1. Juli 2026 ([AS 2026 309](https://fedlex.data.admin.ch/eli/oc/2026/309)).
+[^116m-5]: [SR 172.220.111.310.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5352)
+[^116m-6]: Eingefügt durch Ziff. I der V vom 27. Mai 2026, in Kraft seit 1. Juli 2026 ([AS 2026 309](https://fedlex.data.admin.ch/eli/oc/2026/309)).
+[^116m-7]: Eingefügt durch Ziff. I der V vom 27. Mai 2026, in Kraft seit 1. Juli 2026 ([AS 2026 309](https://fedlex.data.admin.ch/eli/oc/2026/309)).
+[^116m-8]: Fassung gemäss Ziff. I der V vom 27. Mai 2026, in Kraft seit 1. Juli 2026 ([AS 2026 309](https://fedlex.data.admin.ch/eli/oc/2026/309)).
+[^116m-9]: Eingefügt durch Ziff. I der V vom 27. Mai 2026, in Kraft seit 1. Juli 2026 ([AS 2026 309](https://fedlex.data.admin.ch/eli/oc/2026/309)).
+[^116m-10]: Fassung gemäss Ziff. I der V vom 27. Mai 2026, in Kraft seit 1. Juli 2026 ([AS 2026 309](https://fedlex.data.admin.ch/eli/oc/2026/309)).
+[^116m-11]: Eingefügt durch Ziff. I der V vom 27. Mai 2026, in Kraft seit 1. Juli 2026 ([AS 2026 309](https://fedlex.data.admin.ch/eli/oc/2026/309)).
+[^116m-12]: Eingefügt durch Ziff. I der V vom 27. Mai 2026, in Kraft seit 1. Juli 2026 ([AS 2026 309](https://fedlex.data.admin.ch/eli/oc/2026/309)).
+[^116m-13]: Eingefügt durch Ziff. I der V vom 27. Mai 2026, in Kraft seit 1. Juli 2026 ([AS 2026 309](https://fedlex.data.admin.ch/eli/oc/2026/309)).
+[^116m-14]: Eingefügt durch Ziff. I der V vom 27. Mai 2026, in Kraft seit 1. Juli 2026 ([AS 2026 309](https://fedlex.data.admin.ch/eli/oc/2026/309)).
+[^116m-15]: Eingefügt durch Ziff. I der V vom 27. Mai 2026, in Kraft seit 1. Juli 2026 ([AS 2026 309](https://fedlex.data.admin.ch/eli/oc/2026/309)).
+[^116m-16]: Eingefügt durch Ziff. I der V vom 27. Mai 2026, in Kraft seit 1. Juli 2026 ([AS 2026 309](https://fedlex.data.admin.ch/eli/oc/2026/309)).
+
+#### Art. 116n
+
+**Übergangsbestimmungen zur Änderung vom 27. Mai 2026**[^116n-1]
+
+Die Angestellten, die im Jahr 2027 oder 2028 das 60. Altersjahr vollendet haben werden, haben bis zum 31. Dezember 2028 Anspruch auf 6 Wochen und 4 Tage Ferien pro Kalenderjahr.
+
+[^116n-1]: Eingefügt durch Ziff. I der V vom 27. Mai 2026, in Kraft seit 1. Juli 2026 ([AS 2026 309](https://fedlex.data.admin.ch/eli/oc/2026/309)).
 
 #### Art. 117
 

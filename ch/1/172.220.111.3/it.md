@@ -4,11 +4,11 @@ title: Ordinanza del 3 luglio 2001 sul personale federale (OPers)
 short: OPers
 eli: "https://fedlex.data.admin.ch/eli/cc/2001/319"
 language: it
-version: 2026-01-01
+version: 2026-07-01
 adopted: 2001-07-03
 in_force: 2002-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/319/20260101/it/xml/fedlex-data-admin-ch-eli-cc-2001-319-20260101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2001/319/20260101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/319/20260701/it/xml/fedlex-data-admin-ch-eli-cc-2001-319-20260701-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2001/319/20260701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2001/319/20260101/it"
 
 (OPers)
 
-del 3 luglio 2001 (Stato 1° gennaio 2026)
+del 3 luglio 2001 (Stato 1° luglio 2026)
 
 Il Consiglio federale svizzero,
 
@@ -580,7 +580,7 @@ Sono esclusi dall’obbligo della messa a pubblico concorso i posti:
 - d.[^22-4] che saranno occupati nel quadro di reintegrazioni professionali da collaboratori ammalati o infortunati e nel quadro dell’integrazione di disabili;
 - e.[^22-5] che saranno occupati da impiegati interessati da ristrutturazioni o riorganizzazioni.
 
-<sup>3</sup> I posti vacanti che non sono esclusi dall’obbligo della messa a pubblico concorso sono comunicati agli uffici regionali di collocamento almeno una settimana prima della pubblicazione nel relativo bollettino elettronico della Confederazione.[^22-6]
+<sup>3</sup> …[^22-6]
 
 <sup>4</sup> I posti vacanti nei generi di professioni con un tasso di disoccupazione superiore alla media conformemente all’articolo 53*a* dell’ordinanza del 16 gennaio 1991[^22-7] sul collocamento devono essere annunciati al servizio pubblico di collocamento.[^22-8]
 
@@ -589,7 +589,7 @@ Sono esclusi dall’obbligo della messa a pubblico concorso i posti:
 [^22-3]: Introdotta dalla cifra I dell’O del 28 nov. 2014, in vigore dal 1° gen. 2015 ([RU 2014 4567](https://fedlex.data.admin.ch/eli/oc/2014/765)).
 [^22-4]: Introdotta dalla cifra I dell’O del 1° mag. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1515](https://fedlex.data.admin.ch/eli/oc/2013/354)).
 [^22-5]: Introdotta dalla cifra I dell’O del 12 giu. 2015, in vigore dal 1° ago. 2015 ([RU 2015 2243](https://fedlex.data.admin.ch/eli/oc/2015/417)).
-[^22-6]: Nuovo testo giusta la cifra I dell’O del 12 giu. 2015, in vigore dal 1° ago. 2015 ([RU 2015 2243](https://fedlex.data.admin.ch/eli/oc/2015/417)).
+[^22-6]: Abrogato dalla cifra I dell’O del 27 mag. 2026, con effetto dal 1° lug. 2026 ([RU 2026 309](https://fedlex.data.admin.ch/eli/oc/2026/309)).
 [^22-7]: [RS 823.111](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9940)
 [^22-8]: Introdotto dalla cifra I dell’O dell’8 dic. 2017, in vigore dal 1° lug. 2018 ([RU 2018 747](https://fedlex.data.admin.ch/eli/oc/2018/96)).
 
@@ -688,13 +688,20 @@ I i diplomandi e i diplomati delle scuole universitarie possono essere assunti c
 - a. studenti senza diploma: sei mesi;
 - b. diplomati titolari di un bachelor o di un master: 12 mesi.
 
-<sup>2</sup> I diplomati titolari di un bachelor o di un master devono iniziare il praticantato entro 12 mesi dal conseguimento del diploma.
+<sup>2</sup> I diplomati titolari di un bachelor o di un master devono iniziare il praticantato entro 18 mesi dal conseguimento del diploma.[^25a-2]
+
+<sup>2bis</sup> In casi debitamente motivati, su domanda e d’intesa con il DFF il termine di 18 mesi può essere prorogato al massimo di sei mesi.[^25a-3]
+
+<sup>2ter</sup> In caso di servizio militare e civile nonché di congedo di maternità, il termine è prorogato al massimo di sei mesi.[^25a-4]
 
 <sup>3</sup> Lo stipendio dei praticanti universitari è stabilito dal DFF. Non è prevista l’evoluzione dello stipendio (art. 39). Mensilmente è versato 1/12 dello stipendio annuo.
 
 <sup>4</sup> I praticanti universitari non ricevono né l’indennità di residenza (art. 43) né la compensazione del rincaro (art. 44).
 
 [^25a-1]: Introdotto dalla cifra I dell’O del 2 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4507](https://fedlex.data.admin.ch/eli/oc/2016/734)).
+[^25a-2]: Nuovo testo giusta la cifra I dell’O del 27 mag. 2026, in vigore dal 1° lug. 2026 ([RU 2026 309](https://fedlex.data.admin.ch/eli/oc/2026/309)).
+[^25a-3]: Introdotta dalla cifra I dell’O del 27 mag. 2026, in vigore dal 1° lug. 2026 ([RU 2026 309](https://fedlex.data.admin.ch/eli/oc/2026/309)).
+[^25a-4]: Introdotta dalla cifra I dell’O del 27 mag. 2026, in vigore dal 1° lug. 2026 ([RU 2026 309](https://fedlex.data.admin.ch/eli/oc/2026/309)).
 
 #### Art. 25b
 
@@ -702,7 +709,13 @@ I i diplomandi e i diplomati delle scuole universitarie possono essere assunti c
 
 ### (art. 4 cpv. 2 lett. j LPers)
 
-<sup>1</sup> La persona che svolge un praticantato universitario come bibliotecario scientifico è impiegata per una durata massima di 24 mesi. Il praticantato deve iniziare entro 12 mesi dal conseguimento del master.
+<sup>1</sup> La persona che svolge un praticantato universitario come bibliotecario scientifico è impiegata per una durata massima di 24 mesi.[^25b-2]
+
+<sup>1bis</sup> I diplomati titolari di un master devono iniziare il praticantato entro 18 mesi dal conseguimento del diploma.[^25b-3]
+
+<sup>1ter</sup> In casi debitamente motivati, su domanda e d’intesa con il DFF il termine di 18 mesi può essere prorogato al massimo di sei mesi.[^25b-4]
+
+<sup>1quater</sup> In caso di servizio militare e civile nonché di congedo di maternità, il termine è prorogato al massimo di sei mesi.[^25b-5]
 
 <sup>2</sup> La persona che svolge un praticantato come aspirante avvocato o notaio è impiegata per una durata massima di 24 mesi. Il praticantato deve iniziare entro 24 mesi dal conseguimento del master.
 
@@ -713,6 +726,10 @@ I i diplomandi e i diplomati delle scuole universitarie possono essere assunti c
 <sup>5</sup> Lo stipendio e le indennità sono disciplinati nell’articolo 25*a* capoversi 3 e 4.
 
 [^25b-1]: Introdotto dalla cifra I dell’O del 2 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4507](https://fedlex.data.admin.ch/eli/oc/2016/734)).
+[^25b-2]: Nuovo testo giusta la cifra I dell’O del 27 mag. 2026, in vigore dal 1° lug. 2026 ([RU 2026 309](https://fedlex.data.admin.ch/eli/oc/2026/309)).
+[^25b-3]: Introdotto dalla cifra I dell’O del 27 mag. 2026, in vigore dal 1° lug. 2026 ([RU 2026 309](https://fedlex.data.admin.ch/eli/oc/2026/309)).
+[^25b-4]: Introdotto dalla cifra I dell’O del 27 mag. 2026, in vigore dal 1° lug. 2026 ([RU 2026 309](https://fedlex.data.admin.ch/eli/oc/2026/309)).
+[^25b-5]: Introdotto dalla cifra I dell’O del 27 mag. 2026, in vigore dal 1° lug. 2026 ([RU 2026 309](https://fedlex.data.admin.ch/eli/oc/2026/309)).
 
 #### Art. 26
 
@@ -1006,7 +1023,9 @@ Lo stipendio è fissato nel quadro delle seguenti classi:
 
 <sup>1</sup> Al momento dell’assunzione l’autorità competente ai sensi dell’articolo 2 fissa uno stipendio nell’ambito delle classi secondo l’articolo 36. Tiene conto in giusta misura della formazione e dell’esperienza professionale e di vita della persona da assumere nonché della situazione sul mercato del lavoro.
 
-<sup>2</sup> Il DFF pubblica ogni anno valori indicativi di riferimento per fissare lo stipendio.
+<sup>2</sup> Il DFF fornisce i valori indicativi per la fissazione dello stipendio, in particolare in relazione al livello di formazione e all’esperienza professionale rilevante per la funzione.[^37-1]
+
+[^37-1]: Nuovo testo giusta la cifra I dell’O del 27 mag. 2026, in vigore dal 1° lug. 2026 ([RU 2026 309](https://fedlex.data.admin.ch/eli/oc/2026/309)).
 
 #### Art. 38
 
@@ -1536,9 +1555,14 @@ In caso di malattia o infortunio durante i viaggi di servizio all’estero, il d
 
 <sup>4</sup> In caso di servizio volontario lo stipendio può essere versato al massimo durante dieci giorni lavorativi all’anno.
 
+<sup>4bis</sup> Agli impiegati dell’amministrazione militare che secondo l’articolo 1*a* capoverso 1 lettera b della legge del 25 settembre 1952[^59-2] sulle indennità di perdita di guadagno non hanno diritto a un’indennità, lo stipendio può essere versato a partire dall’11° giorno di lavoro per la durata massima del servizio di cui all’articolo 55 capoverso 4 dell’ordinanza del 22 novembre 2017[^59-3] concernente l’obbligo di prestare servizio militare.[^59-4]
+
 <sup>5</sup> Gli assegni sociali sono versati integralmente.
 
 [^59-1]: Nuovo testo giusta la cifra I dell’O del 12 giu. 2015, in vigore dal 1° ago. 2015 ([RU 2015 2243](https://fedlex.data.admin.ch/eli/oc/2015/417)).
+[^59-2]: [RS 834.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10262)
+[^59-3]: [RS 512.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7406)
+[^59-4]: Introdotto dalla cifra I dell’O del 27 mag. 2026, in vigore dal 1° lug. 2026 ([RU 2026 309](https://fedlex.data.admin.ch/eli/oc/2026/309)).
 
 #### Art. 60
 
@@ -1588,24 +1612,28 @@ In caso di malattia o infortunio durante i viaggi di servizio all’estero, il d
 
 #### Art. 60b
 
-**Congedo di paternità e congedo del partner registrato**[^60b-1]
+**Congedo di paternità e congedo dell’altro coniuge**[^60b-1]
 
 ### (art. 17*a* LPers)
 
+[^60b-2]
+
 <sup>1</sup> Alla nascita di uno o più figli propri il padre legale ha diritto a un congedo pagato di venti giorni lavorativi. Il congedo deve essere fruito nei primi sei mesi dopo la nascita. Può essere fruito in giorni o in blocco.
 
-<sup>2</sup> Nelle unioni domestiche registrate, alla nascita di uno o più figli del partner l’altro partner ha ugualmente diritto a un congedo pagato di venti giorni.
+<sup>2</sup> Nei matrimoni fra persone dello stesso sesso e nelle unioni domestiche registrate, alla nascita di uno o più figli di un coniuge, anche l’altro coniuge ha diritto a un congedo pagato di venti giorni.[^60b-3]
 
-<sup>3</sup> Se la madre muore il giorno del parto o nei 97 giorni successivi, il padre legale o l’altro genitore legale ha diritto a quattro mesi di congedo supplementari. Il congedo deve essere preso in una sola volta a decorrere dal giorno successivo al decesso della madre. Sono versati l’intero stipendio e gli assegni sociali.[^60b-2]
+<sup>3</sup> Se la madre muore il giorno del parto o nei 97 giorni successivi, il padre legale o l’altro genitore legale ha diritto a quattro mesi di congedo supplementari. Il congedo deve essere preso in una sola volta a decorrere dal giorno successivo al decesso della madre. Sono versati l’intero stipendio e gli assegni sociali.[^60b-4]
 
-<sup>4</sup> Se la madre muore il giorno del parto o nei 97 giorni successivi e il neonato deve rimanere in ospedale per un periodo ininterrotto di almeno due settimane immediatamente dopo la nascita, si applica per analogia l’articolo 60 capoversi 1 e 3.[^60b-3]
+<sup>4</sup> Se la madre muore il giorno del parto o nei 97 giorni successivi e il neonato deve rimanere in ospedale per un periodo ininterrotto di almeno due settimane immediatamente dopo la nascita, si applica per analogia l’articolo 60 capoversi 1 e 3.[^60b-5]
 
-<sup>5</sup> Il termine quadro di sei mesi di cui al capoverso 1 è interrotto durante la fruizione del congedo di cui ai capoversi 3 o 4.[^60b-4]
+<sup>5</sup> Il termine quadro di sei mesi di cui al capoverso 1 è interrotto durante la fruizione del congedo di cui ai capoversi 3 o 4.[^60b-6]
 
 [^60b-1]: Introdotto dalla cifra I dell’O del 12 mag. 2021, in vigore dal 1° gen. 2022 ([RU 2021 285](https://fedlex.data.admin.ch/eli/oc/2021/285)).
-[^60b-2]: Introdotto dalla cifra I I dell’O del 22 nov. 2023 (Indennità giornaliere per il genitore superstite), in vigore dal 1° gen. 2024 ([RU 2023 756](https://fedlex.data.admin.ch/eli/oc/2023/756)).
-[^60b-3]: Introdotto dalla cifra I I dell’O del 22 nov. 2023 (Indennità giornaliere per il genitore superstite), in vigore dal 1° gen. 2024 ([RU 2023 756](https://fedlex.data.admin.ch/eli/oc/2023/756)).
+[^60b-2]: Nuovo testo giusta la cifra I dell’O del 27 mag. 2026, in vigore dal 1° lug. 2026 ([RU 2026 309](https://fedlex.data.admin.ch/eli/oc/2026/309)).
+[^60b-3]: Nuovo testo giusta la cifra I dell’O del 27 mag. 2026, in vigore dal 1° lug. 2026 ([RU 2026 309](https://fedlex.data.admin.ch/eli/oc/2026/309)).
 [^60b-4]: Introdotto dalla cifra I I dell’O del 22 nov. 2023 (Indennità giornaliere per il genitore superstite), in vigore dal 1° gen. 2024 ([RU 2023 756](https://fedlex.data.admin.ch/eli/oc/2023/756)).
+[^60b-5]: Introdotto dalla cifra I I dell’O del 22 nov. 2023 (Indennità giornaliere per il genitore superstite), in vigore dal 1° gen. 2024 ([RU 2023 756](https://fedlex.data.admin.ch/eli/oc/2023/756)).
+[^60b-6]: Introdotto dalla cifra I I dell’O del 22 nov. 2023 (Indennità giornaliere per il genitore superstite), in vigore dal 1° gen. 2024 ([RU 2023 756](https://fedlex.data.admin.ch/eli/oc/2023/756)).
 
 #### Art. 60c
 
@@ -1877,10 +1905,10 @@ Le vacanze sono ridotte in proporzione alla durata delle assenze se nel corso di
 
 <sup>2</sup> Prima di decidere, l’autorità competente tiene conto in modo adeguato del motivo e della situazione lavorativa. In casi debitamente motivati può considerare anche le prestazioni e il comportamento.
 
-<sup>3</sup> I congedi accordati dall’autorità competente non possono superare i tre anni. Sono fatte salve le eccezioni secondo l’articolo 88 capoverso 1 lettera a.[^68-2]
+<sup>3</sup> I congedi accordati dall’autorità competente non possono superare i quattro anni. Sono fatte salve le eccezioni secondo l’articolo 88 capoverso 1 lettera a.[^68-2]
 
 [^68-1]: Nuovo testo giusta la cifra I dell’O del 22 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6737](https://fedlex.data.admin.ch/eli/oc/2017/753)).
-[^68-2]: Introdotto dalla cifra I dell’O del 15 giu. 2007 ([RU 2007 2871](https://fedlex.data.admin.ch/eli/oc/2007/379)). Nuovo testo giusta la cifra I dell’O del 24 nov. 2010, in vigore dal 1° gen. 2011 ([RU 2010 5793](https://fedlex.data.admin.ch/eli/oc/2010/821)).
+[^68-2]: Introdotto dalla cifra I dell’O del 15 giu. 2007 ([RU 2007 2871](https://fedlex.data.admin.ch/eli/oc/2007/379)). Nuovo testo giusta la cifra I dell’O del 27 mag. 2026, in vigore dal 1° lug. 2026 ([RU 2026 309](https://fedlex.data.admin.ch/eli/oc/2026/309)).
 
 ### Sezione 6: Altre prestazioni del datore di lavoro
 
@@ -2165,7 +2193,7 @@ In caso di risoluzione del rapporto di lavoro le indennità ai sensi dell’arti
 Non è versata alcuna indennità a persone:
 
 - a. che vengono occupate presso un datore di lavoro giusta l’articolo 3 LPers;
-- b.[^78-8] il cui rapporto di lavoro è risolto allo scadere dei termini di cui all’articolo 31*a* per incapacità o inattitudine;
+- b.[^78-8] il cui rapporto di lavoro è risolto allo scadere dei termini di cui all’articolo 31*b* per incapacità o inattitudine;
 - c. il cui rapporto di lavoro è risolto ai sensi dell’articolo 31;
 - d.[^78-9] il cui rapporto di lavoro è stato risolto di comune intesa per motivi di politica aziendale o del personale e alle quali il datore di lavoro fornisce prestazioni secondo l’articolo 106;
 - e.[^78-10] che ricevono prestazioni in caso di pensionamento anticipato di cui all’articolo 105*b*.
@@ -2185,7 +2213,7 @@ Non è versata alcuna indennità a persone:
 [^78-5]: Nuovo testo giusta la cifra I dell’O del 1° mag. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1515](https://fedlex.data.admin.ch/eli/oc/2013/354)).
 [^78-6]: Abrogata dalla cifra I dell’O del 12 ott. 2016, con effetto dal 1° dic. 2016 ([RU 2016 3637](https://fedlex.data.admin.ch/eli/oc/2016/611)).
 [^78-7]: Introdotto dalla cifra I dell’O del 27 nov. 2009, in vigore dal 1° gen. 2010 ([RU 2009 6417](https://fedlex.data.admin.ch/eli/oc/2009/785)).
-[^78-8]: Nuovo testo giusta la cifra I dell’O del 2 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4507](https://fedlex.data.admin.ch/eli/oc/2016/734)).
+[^78-8]: Nuovo testo giusta la cifra I dell’O del 27 mag. 2026, in vigore dal 1° lug. 2026 ([RU 2026 309](https://fedlex.data.admin.ch/eli/oc/2026/309)).
 [^78-9]: Introdotta dalla cifra I dell’O del 2 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4507](https://fedlex.data.admin.ch/eli/oc/2016/734)).
 [^78-10]: Introdotta dalla cifra I dell’O del 22 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6737](https://fedlex.data.admin.ch/eli/oc/2017/753)).
 [^78-11]: Abrogato dalla cifra I dell’O del 3 set. 2025, con effetto dal 1° gen. 2026 ([RU 2025 569](https://fedlex.data.admin.ch/eli/oc/2025/569)).
@@ -2666,12 +2694,11 @@ Agli impiegati che partecipano a un processo di acquisto o decisionale è vietat
 
 <sup>3</sup> Gli impiegati possono deporre in giudizio come parti, testimoni, persone informate sui fatti o periti giudiziari intorno a constatazioni attinenti ai loro compiti fatte in virtù di questi ultimi o nell’esercizio delle loro funzioni solo con l’autorizzazione scritta dell’autorità competente secondo l’articolo 2. L’autorizzazione non è necessaria se le deposizioni concernono fatti che giustificano un obbligo di denuncia o di segnalazione degli impiegati secondo l’articolo 302 del Codice di procedura penale[^94-1] o l’articolo 22*a* capoversi 1 e 2 LPers.[^94-2]
 
-<sup>4</sup> È fatto salvo l’articolo 156 della legge del 13 dicembre 2002[^94-3] sul Parlamento.[^94-4]
+<sup>4</sup> Se la rivelazione di segreti non avviene in qualità di parte, testimone, persona informata sui fatti o perito giudiziario e si fonda su un obbligo o un diritto previsto dalla legislazione federale, non è richiesta l’autorizzazione dell’autorità competente secondo l’articolo 2.[^94-3]
 
 [^94-1]: [RS 312.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6214)
 [^94-2]: Nuovo testo giusta la cifra I dell’O del 2 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4507](https://fedlex.data.admin.ch/eli/oc/2016/734)).
-[^94-3]: [RS 171.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4991)
-[^94-4]: Nuovo testo giusta la cifra I dell’O del 12 giu. 2015, in vigore dal 1° ago. 2015 ([RU 2015 2243](https://fedlex.data.admin.ch/eli/oc/2015/417)).
+[^94-3]: Nuovo testo giusta la cifra I dell’O del 27 mag. 2026, in vigore dal 1° lug. 2026 ([RU 2026 309](https://fedlex.data.admin.ch/eli/oc/2026/309)).
 
 #### Art. 94a
 
@@ -3001,6 +3028,10 @@ Un posto all’interno dell’Amministrazione federale è ritenuto ragionevolmen
 <sup>1</sup> Le unità amministrative concludono un accordo con gli impiegati interessati da una ristrutturazione o riorganizzazione.
 
 <sup>2</sup> L’accordo contiene le misure da adottare congiuntamente, la loro durata, le prestazioni del datore di lavoro, nonché le conseguenze di una violazione dell’obbligo di collaborazione secondo l’articolo 104 capoverso 3.
+
+<sup>3</sup> È possibile rinunciare alla conclusione di un accordo se, nell’ambito della ristrutturazione o della riorganizzazione, l’impiegato ottiene un posto con la stessa funzione o un posto ragionevolmente esigibile in un’unità amministrativa secondo l’articolo 1 capoverso 1 lettera a.[^104c-1]
+
+[^104c-1]: Introdotto dalla cifra I dell’O del 27 mag. 2026, in vigore dal 1° lug. 2026 ([RU 2026 309](https://fedlex.data.admin.ch/eli/oc/2026/309)).
 
 #### Art. 104d
 
@@ -3560,15 +3591,83 @@ Lo stipendio di impiegati che all’entrata in vigore della modifica del 12 magg
 
 **Disposizioni transitorie della modifica del 3 settembre 2025**[^116m-1]
 
-<sup>1</sup> Per gli impiegati assunti con il sistema salariale precedente, lo stipendio al 1° gennaio 2027 corrisponde allo stipendio precedente sommato all’indennità di residenza applicabile il 31 dicembre 2026.
+<sup>1</sup> Per gli impiegati assunti secondo il sistema salariale precedente, lo stipendio al 1° gennaio 2027 corrisponde almeno allo stipendio precedente sommato all’indennità di residenza applicabile il 31 dicembre 2026.[^116m-2]
 
-<sup>2</sup> Se lo stipendio al 31 dicembre 2026 sommato all’indennità di residenza applicabile è inferiore allo stipendio iniziale previsto nella classe di stipendio per il corrispondente anno di esperienza, lo stipendio al 1° gennaio 2027 è aumentato fino a raggiungere tale stipendio iniziale.
+<sup>1bis</sup> Per gli impiegati assunti secondo il sistema salariale precedente che il 1° gennaio 2027 sono impiegati all’estero e ai quali è applicabile l’ordinanza del DFAE del 20 settembre 2002[^116m-3] concernente l’ordinanza sul personale federale, lo stipendio al 1° gennaio 2027 corrisponde allo stipendio precedente sommato all’indennità di residenza pari alla precedente indennità di residenza per la zona 13.[^116m-4]
 
-<sup>3</sup> L’evoluzione dello stipendio decisa nel 2026 secondo l’articolo 39 capoverso 5 ha effetto dal 1° gennaio 2027 sulla base dello stipendio di cui al capoverso 1.
+<sup>1ter</sup> Per gli ufficiali di professione, compresi gli alti ufficiali superiori, i sottufficiali di professione nonché i membri del servizio di volo militare assunti secondo il sistema salariale precedente e ai quali è stato assegnato un luogo di lavoro in virtù dell’articolo 18 dell’ordinanza del DDPS del 26 novembre 2024[^116m-5] concernente il personale militare, lo stipendio al 1° gennaio 2027 corrisponde allo stipendio precedente sommato all’indennità di residenza pari alla precedente indennità di residenza per la zona 13.[^116m-6]
+
+<sup>1quater</sup> Per gli aspiranti al titolo di specialista dogana e sicurezza dei confini che al momento dell’entrata in vigore del nuovo sistema salariale sono già in formazione, lo stipendio al 1° gennaio 2027 è aumentato fino a raggiungere lo stipendio iniziale della classe di stipendio 12 per il corrispondente anno di esperienza. Dopo che la formazione è stata conclusa con successo, lo stipendio è aumentato fino a raggiungere lo stipendio iniziale della classe di stipendio 17 per il corrispondente anno di esperienza.[^116m-7]
+
+<sup>2</sup> Un’eventuale evoluzione dello stipendio secondo l’articolo 39 capoverso 5 ha effetto dal 1° gennaio 2027 sulla base dello stipendio di cui ai capoversi 1*–*1<sup>ter</sup>.[^116m-8]
+
+<sup>2bis</sup> Se lo stipendio di cui ai capoversi 1*–*1<sup>ter</sup> sommato all’evoluzione dello stipendio di cui al capoverso 2 è inferiore allo stipendio iniziale previsto nella classe di stipendio per il corrispondente anno di esperienza, lo stipendio al 1° gennaio 2027 è aumentato fino a raggiungere tale stipendio iniziale. Sono fatti salvi i capoversi 3*–*3<sup>ter</sup>, 3<sup>quinquies</sup> e 3<sup>septies</sup>.[^116m-9]
+
+<sup>3</sup>
+
+Per gli impiegati assunti secondo il sistema salariale precedente, gli anni di esperienza prestati fino al 31 dicembre 2026 sono conteggiati come segue per la determinazione dello stipendio:
+
+- a. classi di stipendio 1–5: gli anni corrispondenti alla differenza tra l’età e il compimento del 20° anno sono conteggiati al 100 per cento;
+- b. classi di stipendio 6–17: gli anni corrispondenti alla differenza tra l’età e il compimento del 20° anno sono conteggiati al 75 per cento;
+- c. classi di stipendio 18–23: gli anni corrispondenti alla differenza tra l’età e il compimento del 24° anno sono conteggiati al 75 per cento;
+- d. classi di stipendio 24–27: gli anni corrispondenti alla differenza tra l’età e il compimento del 26° anno sono conteggiati al 75 per cento;
+- e. classi di stipendio 28–38: gli anni corrispondenti alla differenza tra l’età e il compimento del 26° anno sono conteggiati al 50 per cento.[^116m-10]
+
+<sup>3bis</sup>
+
+In luogo degli anni di esperienza di cui al capoverso 3, all’impiegato sono conteggiati quali anni di esperienza gli anni di esperienza professionale e di vita rilevanti per l’attuale funzione, se:
+
+- a. lo stipendio al 1° gennaio 2027 porta a un aumento dello stipendio;
+- b. gli anni di esperienza calcolati secondo il capoverso 3 sono superiori a dieci anni; e
+- c. lo scostamento rispetto agli anni di esperienza computabili in base al curriculum vitae è superiore al 25 per cento.[^116m-11]
+
+<sup>3ter</sup>
+
+In luogo degli anni di esperienza di cui al capoverso 3, all’impiegato sono conteggiati quali anni di esperienza gli anni di esperienza professionale e di vita rilevanti per l’attuale funzione, se:
+
+- a. lo stipendio al 1° gennaio 2027 porta a un aumento dello stipendio;
+- b. gli anni di esperienza calcolati secondo il capoverso 3 non superano i dieci anni; e
+- c. lo scostamento rispetto agli anni di esperienza computabili in base al curriculum vitae è superiore al 50 per cento.[^116m-12]
+
+<sup>3quater</sup> Lo scostamento di cui al capoverso 3<sup>bis</sup> lettera c e al capoverso 3<sup>ter</sup> lettera c è calcolato dividendo la differenza tra gli anni di esperienza calcolati secondo il capoverso 3 e gli anni di esperienza computabili in base al curriculum vitae per gli anni di esperienza calcolati secondo il capoverso 3 e moltiplicando il risultato per 100.[^116m-13]
+
+<sup>3quinquies</sup> Se al 1° gennaio 2027 gli anni di esperienza calcolati secondo il capoverso 3 sono inferiori ai requisiti minimi relativi alla funzione, l’impiegato è temporaneamente assegnato a una classe di stipendio inferiore di due classi rispetto alla classe di stipendio inizialmente prevista. L’assegnazione alla classe inferiore decade non appena i requisiti sono soddisfatti, ma al più tardi dopo cinque anni. Lo stipendio è fissato nella classe di stipendio inizialmente prevista sulla base di un numero di anni di esperienza pari a zero. È fatto salvo il capoverso 3<sup>septies</sup>.[^116m-14]
+
+<sup>3sexies</sup>
+
+Sono considerati requisiti minimi relativi alla funzione:
+
+- a. per le classi di stipendio 18–23: un bachelor o un attestato federale di capacità e tre anni di esperienza professionale;
+- b. per la classe di stipendio 24 e le classi superiori: un master, un bachelor e due anni di esperienza professionale oppure un attestato federale di capacità e cinque anni di esperienza professionale.[^116m-15]
+
+<sup>3septies</sup> Se al 1° gennaio 2027 gli anni di esperienza rilevanti per le funzioni del comparto servizi digitali / informatica previste nel catalogo delle funzioni di riferimento redatto dal DFF in virtù dell’articolo 52 capoverso 4 e inquadrate nelle classi di stipendio 16–23 sono inferiori a cinque, l’impiegato è temporaneamente assegnato alla classe di stipendio 15. L’assegnazione alla classe inferiore decade non appena i requisiti sono soddisfatti, ma al più tardi dopo cinque anni. Occorre tenere conto della situazione sul mercato del lavoro. Lo stipendio è fissato nella classe di stipendio inizialmente prevista sulla base di un numero di anni di esperienza pari a zero.[^116m-16]
 
 <sup>4</sup> L’importo delle indennità di funzione e delle indennità in funzione del mercato del lavoro concesse prima del 1° gennaio 2027 è calcolato secondo il diritto vigente.
 
 [^116m-1]: Introdotto dalla cifra I dell’O del 3 set. 2025, in vigore dal 1° gen. 2026 ([RU 2025 569](https://fedlex.data.admin.ch/eli/oc/2025/569)).
+[^116m-2]: Nuovo testo giusta la cifra I dell’O del 27 mag. 2026, in vigore dal 1° lug. 2026 ([RU 2026 309](https://fedlex.data.admin.ch/eli/oc/2026/309)).
+[^116m-3]: [RS 172.220.111.343.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5365)
+[^116m-4]: Introdotto dalla cifra I dell’O del 27 mag. 2026, in vigore dal 1° lug. 2026 ([RU 2026 309](https://fedlex.data.admin.ch/eli/oc/2026/309)).
+[^116m-5]: [RS 172.220.111.310.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5352)
+[^116m-6]: Introdotto dalla cifra I dell’O del 27 mag. 2026, in vigore dal 1° lug. 2026 ([RU 2026 309](https://fedlex.data.admin.ch/eli/oc/2026/309)).
+[^116m-7]: Introdotto dalla cifra I dell’O del 27 mag. 2026, in vigore dal 1° lug. 2026 ([RU 2026 309](https://fedlex.data.admin.ch/eli/oc/2026/309)).
+[^116m-8]: Nuovo testo giusta la cifra I dell’O del 27 mag. 2026, in vigore dal 1° lug. 2026 ([RU 2026 309](https://fedlex.data.admin.ch/eli/oc/2026/309)).
+[^116m-9]: Introdotto dalla cifra I dell’O del 27 mag. 2026, in vigore dal 1° lug. 2026 ([RU 2026 309](https://fedlex.data.admin.ch/eli/oc/2026/309)).
+[^116m-10]: Nuovo testo giusta la cifra I dell’O del 27 mag. 2026, in vigore dal 1° lug. 2026 ([RU 2026 309](https://fedlex.data.admin.ch/eli/oc/2026/309)).
+[^116m-11]: Introdotto dalla cifra I dell’O del 27 mag. 2026, in vigore dal 1° lug. 2026 ([RU 2026 309](https://fedlex.data.admin.ch/eli/oc/2026/309)).
+[^116m-12]: Introdotto dalla cifra I dell’O del 27 mag. 2026, in vigore dal 1° lug. 2026 ([RU 2026 309](https://fedlex.data.admin.ch/eli/oc/2026/309)).
+[^116m-13]: Introdotto dalla cifra I dell’O del 27 mag. 2026, in vigore dal 1° lug. 2026 ([RU 2026 309](https://fedlex.data.admin.ch/eli/oc/2026/309)).
+[^116m-14]: Introdotto dalla cifra I dell’O del 27 mag. 2026, in vigore dal 1° lug. 2026 ([RU 2026 309](https://fedlex.data.admin.ch/eli/oc/2026/309)).
+[^116m-15]: Introdotto dalla cifra I dell’O del 27 mag. 2026, in vigore dal 1° lug. 2026 ([RU 2026 309](https://fedlex.data.admin.ch/eli/oc/2026/309)).
+[^116m-16]: Introdotto dalla cifra I dell’O del 27 mag. 2026, in vigore dal 1° lug. 2026 ([RU 2026 309](https://fedlex.data.admin.ch/eli/oc/2026/309)).
+
+#### Art. 116n
+
+**Disposizioni transitorie della modifica del 27 maggio 2026**[^116n-1]
+
+Gli impiegati che compiono il 60° anno d’età nel 2027 o nel 2028 hanno diritto fino al 31 dicembre 2028 a sei settimane e quattro giorni di vacanza per anno civile.
+
+[^116n-1]: Introdotto dalla cifra I dell’O del 27 mag. 2026, in vigore dal 1° lug. 2026 ([RU 2026 309](https://fedlex.data.admin.ch/eli/oc/2026/309)).
 
 #### Art. 117
 

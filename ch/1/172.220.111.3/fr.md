@@ -4,11 +4,11 @@ title: Ordonnance du 3 juillet 2001 sur le personnel de la Confédération (OPer
 short: OPers
 eli: "https://fedlex.data.admin.ch/eli/cc/2001/319"
 language: fr
-version: 2026-01-01
+version: 2026-07-01
 adopted: 2001-07-03
 in_force: 2002-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/319/20260101/fr/xml/fedlex-data-admin-ch-eli-cc-2001-319-20260101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2001/319/20260101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/319/20260701/fr/xml/fedlex-data-admin-ch-eli-cc-2001-319-20260701-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2001/319/20260701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2001/319/20260101/fr"
 
 (OPers)
 
-du 3 juillet 2001 (État le 1<sup>er</sup> janvier 2026)
+du 3 juillet 2001 (État le 1<sup>er</sup> juillet 2026)
 
 Le Conseil fédéral suisse,
 
@@ -580,7 +580,7 @@ Ne sont pas tenus de faire l’objet d’une mise au concours publique les poste
 - d.[^22-4] dans le cadre de la réintégration professionnelle de collaborateurs malades ou accidentés ou de l’intégration de personnes handicapées;
 - e.[^22-5] qui seront occupés par des employés touchés par une restructuration ou une réorganisation.
 
-<sup>3</sup> Les postes à pourvoir qui ne sont pas exclus de l’obligation d’une mise au concours publique sont annoncés aux offices régionaux de placement au plus tard une semaine avant leur publication dans le bulletin électronique des postes vacants de la Confédération.[^22-6]
+<sup>3</sup> …[^22-6]
 
 <sup>4</sup> Les postes à pourvoir dans les genres de profession enregistrant un taux de chômage supérieur à la moyenne, au sens de l’art. 53*a* de l’ordonnance du 16 janvier 1991 sur le service de l’emploi[^22-7], doivent être annoncés au service public de l’emploi.[^22-8]
 
@@ -589,7 +589,7 @@ Ne sont pas tenus de faire l’objet d’une mise au concours publique les poste
 [^22-3]: Introduite par le ch. I de l’O du 28 nov. 2014, en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 4567](https://fedlex.data.admin.ch/eli/oc/2014/765)).
 [^22-4]: Introduite par le ch. I de l’O du 1<sup>er</sup> mai 2013, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1515](https://fedlex.data.admin.ch/eli/oc/2013/354)).
 [^22-5]: Introduite par le ch. I de l’O du 12 juin 2015, en vigueur depuis le 1<sup>er</sup> août 2015 ([RO 2015 2243](https://fedlex.data.admin.ch/eli/oc/2015/417)).
-[^22-6]: Nouvelle teneur selon le ch. I de l’O du 12 juin 2015, en vigueur depuis le 1<sup>er</sup> août 2015 ([RO 2015 2243](https://fedlex.data.admin.ch/eli/oc/2015/417)).
+[^22-6]: Abrogé par le ch. I de l’O du 27 mai 2026, avec effet au 1<sup>er</sup> juil. 2026 ([RO 2026 309](https://fedlex.data.admin.ch/eli/oc/2026/309)).
 [^22-7]: [RS 823.111](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9940)
 [^22-8]: Introduite par le ch. I de l’O du 8 déc. 2017, en vigueur depuis le 1<sup>er</sup> juil. 2018 ([RO 2018 747](https://fedlex.data.admin.ch/eli/oc/2018/96)).
 
@@ -688,13 +688,20 @@ Les diplômés d’une haute école peuvent être engagés par contrat de durée
 - a. six mois pour les étudiants sans diplôme;
 - b. douze mois pour les titulaires d’un bachelor ou d’un master.
 
-<sup>2</sup> Les diplômés d’une haute école titulaires d’un bachelor ou d’un master doivent commencer leur stage au plus tard douze mois après la fin de leurs études.
+<sup>2</sup> Les diplômés d’une haute école titulaires d’un bachelor ou d’un master doivent commencer leur stage au plus tard 18 mois après la fin de leurs études.[^25a-2]
+
+<sup>2bis</sup> Si la situation le justifie, le délai de 18 mois peut être prolongé de six mois au plus, sur demande et en accord avec le DFF.[^25a-3]
+
+<sup>2ter</sup> Il est prolongé de six mois au plus en cas de service militaire ou civil ou en cas de congé maternité.[^25a-4]
 
 <sup>3</sup> Le salaire des stagiaires des hautes écoles est fixé par le DFF. Il ne fait pas l’objet d’une évolution au sens de l’art. 39. Il donne lieu à un versement mensuel égal à <sup>1</sup>/<sub>12</sub> du salaire annuel.
 
 <sup>4</sup> Les stagiaires des hautes écoles ne perçoivent aucune indemnité de résidence (art. 43) et ne bénéficient pas de la compensation du renchérissement (art. 44).
 
 [^25a-1]: Introduit par le ch. I de l’O du 2 déc. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4507](https://fedlex.data.admin.ch/eli/oc/2016/734)).
+[^25a-2]: Nouvelle teneur selon le ch. I de l’O du 27 mai 2026, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2026 309](https://fedlex.data.admin.ch/eli/oc/2026/309)).
+[^25a-3]: Introduit par le ch. I de l’O du 27 mai 2026, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2026 309](https://fedlex.data.admin.ch/eli/oc/2026/309)).
+[^25a-4]: Introduit par le ch. I de l’O du 27 mai 2026, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2026 309](https://fedlex.data.admin.ch/eli/oc/2026/309)).
 
 #### Art. 25b
 
@@ -702,7 +709,13 @@ Les diplômés d’une haute école peuvent être engagés par contrat de durée
 
 ### (art. 4, al. 2, let. j, LPers)
 
-<sup>1</sup> Les diplômés effectuant un stage de bibliothécaire scientifique sont engagés pour une durée maximale de 24 mois. Ils doivent commencer leur stage au plus tard douze mois après l’obtention du master.
+<sup>1</sup> Les diplômés effectuant un stage de bibliothécaire scientifique sont engagés pour une durée maximale de 24 mois.[^25b-2]
+
+<sup>1bis</sup> Les diplômés d’une haute école titulaires d’un master doivent commencer leur stage au plus tard 18 mois après la fin de leurs études.[^25b-3]
+
+<sup>1ter</sup> Si la situation le justifie, le délai de 18 mois peut être prolongé de six mois au plus, sur demande et en accord avec le DFF.[^25b-4]
+
+<sup>1quater</sup> Il est prolongé de six mois au plus en cas de service militaire ou civil ou en cas de congé maternité.[^25b-5]
 
 <sup>2</sup> Les diplômés effectuant un stage d’avocat ou de notaire sont engagés pour une durée maximale de 24 mois. Ils doivent commencer leur stage au plus tard 24 mois après l’obtention du master.
 
@@ -713,6 +726,10 @@ Les diplômés d’une haute école peuvent être engagés par contrat de durée
 <sup>5</sup> Le salaire et les suppléments sur le salaire sont régis par l’art. 25*a*, al. 3 et 4.
 
 [^25b-1]: Introduit par le ch. I de l’O du 2 déc. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4507](https://fedlex.data.admin.ch/eli/oc/2016/734)).
+[^25b-2]: Nouvelle teneur selon le ch. I de l’O du 27 mai 2026, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2026 309](https://fedlex.data.admin.ch/eli/oc/2026/309)).
+[^25b-3]: Introduit par le ch. I de l’O du 27 mai 2026, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2026 309](https://fedlex.data.admin.ch/eli/oc/2026/309)).
+[^25b-4]: Introduit par le ch. I de l’O du 27 mai 2026, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2026 309](https://fedlex.data.admin.ch/eli/oc/2026/309)).
+[^25b-5]: Introduit par le ch. I de l’O du 27 mai 2026, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2026 309](https://fedlex.data.admin.ch/eli/oc/2026/309)).
 
 #### Art. 26
 
@@ -1006,7 +1023,9 @@ Le salaire est fixé d’après les classes de salaire suivantes:
 
 <sup>1</sup> Lors de l’engagement, l’autorité compétente en vertu de l’art. 2 détermine le salaire de la personne engagée dans le cadre des classes de salaire définies à l’art. 36. Elle tient compte dans une juste mesure de sa formation et de son expérience professionnelle et extra-professionnelle, ainsi que du marché de l’emploi.
 
-<sup>2</sup> Le DFF publie chaque année des valeurs indicatives servant à fixer le salaire.
+<sup>2</sup> Le DFF met à disposition les valeurs indicatives servant à fixer le salaire, notamment celles qui concernent le niveau de formation et l’expérience en rapport avec la fonction.[^37-1]
+
+[^37-1]: Nouvelle teneur selon le ch. I de l’O du 27 mai 2026, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2026 309](https://fedlex.data.admin.ch/eli/oc/2026/309)).
 
 #### Art. 38
 
@@ -1055,7 +1074,7 @@ L’évolution du salaire de l’employé suit une courbe d’évolution salaria
 - c. de 11 à 15 années d’expérience: de 1,75 % du montant minimal de la classe de salaire par année d’expérience;
 - d. de 16 à 20 années d’expérience: de 1,25 % du montant minimal de la classe de salaire par année d’expérience.
 
-<sup>2</sup> Les supérieurs hiérarchiques reçoivent chaque année une proposition d’évolution du salaire de leurs collaborateurs. Cette proposition est calculée en fonction de la courbe d’évolution salariale correspondant au nombre d’années d’expérience et du rapport entre le salaire actuel et la courbe d’évolution salariale. Le DFF règle les modalités du calcul.
+<sup>2</sup> Les supérieurs hiérarchiques reçoivent chaque année une proposition d’évolution du salaire de leurs collaborateurs. Cette proposition est calculée en fonction de la courbe d’évolution salariale correspondant au nombre d’années d’expérience et au rapport entre le salaire actuel et la courbe d’évolution salariale. Le DFF règle les modalités du calcul.
 
 <sup>3</sup> Si l’employé satisfait aux exigences visées à l’art. 16, al. 1, le supérieur hiérarchique propose une évolution du salaire conforme à la proposition visée à l’al. 2.
 
@@ -1541,9 +1560,14 @@ L’employeur prend en charge les frais non couverts par les assurances privées
 
 <sup>4</sup> En cas de service volontaire, l’employé a droit à 10 salaires journaliers par an au maximum.
 
+<sup>4bis</sup> À partir du 11<sup>e</sup> jour ouvré, le salaire peut être versé pour la durée maximale du service prévue à l’art. 55, al. 4, de l’ordonnance du 22 novembre 2017 sur les obligations militaires[^59-2] aux employés de l’administration militaire qui n’ont pas droit à une allocation pour perte de gain en vertu de l’art. 1*a*, al. 1, let. b, de la loi fédérale du 25 septembre 1952 sur les allocations pour perte de gain[^59-3].[^59-4]
+
 <sup>5</sup> Les allocations sociales sont versées intégralement.
 
 [^59-1]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> mai 2013, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1515](https://fedlex.data.admin.ch/eli/oc/2013/354)).
+[^59-2]: [RS 512.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7406)
+[^59-3]: [RS 834.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10262)
+[^59-4]: Introduit par le ch. I de l’O du 27 mai 2026, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2026 309](https://fedlex.data.admin.ch/eli/oc/2026/309)).
 
 #### Art. 60
 
@@ -1593,24 +1617,28 @@ L’employeur prend en charge les frais non couverts par les assurances privées
 
 #### Art. 60b
 
-**Congé paternité et congé du partenaire enregistré**[^60b-1]
+**Congé paternité et congé de l’autre conjoint**[^60b-1]
 
 ### (art. 17*a* LPers)
 
+[^60b-2]
+
 <sup>1</sup> À la naissance d’un ou de plusieurs enfants, le père reconnu sur le plan juridique a droit à un congé payé de 20 jours ouvrés. Le congé doit être pris dans les six mois qui suivent la naissance. Il peut être pris sous forme de jours séparés ou de manière cumulée.
 
-<sup>2</sup> À la naissance d’un ou de plusieurs enfants de son partenaire enregistré, l’autre partenaire a également droit à un congé payé de 20 jours ouvrés.
+<sup>2</sup> À la naissance d’un ou de plusieurs enfants de son conjoint ou de son partenaire enregistré, l’autre membre d’un couple marié de même sexe ou l’autre partenaire a également droit à un congé payé de 20 jours ouvrés.[^60b-3]
 
-<sup>3</sup> Si la mère décède le jour de l’accouchement ou dans les 97 jours qui suivent, le père ou le deuxième parent reconnu sur le plan juridique a droit à quatre mois supplémentaires de congé. Ce congé commence le jour qui suit le décès de la mère et doit être pris en une fois. Le salaire intégral et les allocations sociales lui sont versés.[^60b-2]
+<sup>3</sup> Si la mère décède le jour de l’accouchement ou dans les 97 jours qui suivent, le père ou le deuxième parent reconnu sur le plan juridique a droit à quatre mois supplémentaires de congé. Ce congé commence le jour qui suit le décès de la mère et doit être pris en une fois. Le salaire intégral et les allocations sociales lui sont versés.[^60b-4]
 
-<sup>4</sup> Si la mère décède le jour de l’accouchement ou dans les 97 jours qui suivent et que le nouveau‑né doit être hospitalisé de façon ininterrompue durant au moins deux semaines immédiatement après sa naissance, l’art. 60, al. 1 et 3, s’applique par analogie.[^60b-3]
+<sup>4</sup> Si la mère décède le jour de l’accouchement ou dans les 97 jours qui suivent et que le nouveau‑né doit être hospitalisé de façon ininterrompue durant au moins deux semaines immédiatement après sa naissance, l’art. 60, al. 1 et 3, s’applique par analogie.[^60b-5]
 
-<sup>5</sup> Le délai-cadre de six mois prévu à l’al. 1 est interrompu pendant la période où le droit au congé visé à l’al. 3 ou 4 est exercé.[^60b-4]
+<sup>5</sup> Le délai-cadre de six mois prévu à l’al. 1 est interrompu pendant la période où le droit au congé visé à l’al. 3 ou 4 est exercé.[^60b-6]
 
 [^60b-1]: Introduit par le ch. I de l’O du 12 mai 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 285](https://fedlex.data.admin.ch/eli/oc/2021/285)).
-[^60b-2]: Introduit par le ch. II de l’O du 22 nov. 2023 (Indemnités journalières pour le parent survivant), en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 756](https://fedlex.data.admin.ch/eli/oc/2023/756)).
-[^60b-3]: Introduit par le ch. II de l’O du 22 nov. 2023 (Indemnités journalières pour le parent survivant), en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 756](https://fedlex.data.admin.ch/eli/oc/2023/756)).
+[^60b-2]: Nouvelle teneur selon le ch. I de l’O du 27 mai 2026, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2026 309](https://fedlex.data.admin.ch/eli/oc/2026/309)).
+[^60b-3]: Nouvelle teneur selon le ch. I de l’O du 27 mai 2026, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2026 309](https://fedlex.data.admin.ch/eli/oc/2026/309)).
 [^60b-4]: Introduit par le ch. II de l’O du 22 nov. 2023 (Indemnités journalières pour le parent survivant), en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 756](https://fedlex.data.admin.ch/eli/oc/2023/756)).
+[^60b-5]: Introduit par le ch. II de l’O du 22 nov. 2023 (Indemnités journalières pour le parent survivant), en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 756](https://fedlex.data.admin.ch/eli/oc/2023/756)).
+[^60b-6]: Introduit par le ch. II de l’O du 22 nov. 2023 (Indemnités journalières pour le parent survivant), en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 756](https://fedlex.data.admin.ch/eli/oc/2023/756)).
 
 #### Art. 60c
 
@@ -1882,10 +1910,10 @@ Les vacances sont réduites en proportion de la durée de l’absence si, au cou
 
 <sup>2</sup> L’autorité compétente examine la demande en tenant compte des raisons invoquées par l’intéressé et de sa situation professionnelle. Si la situation le justifie, elle peut également prendre en compte ses prestations et son comportement.
 
-<sup>3</sup> Les congés accordés par l’autorité compétente ne peuvent dépasser trois ans. Les exceptions relevant de l’art. 88, al. 1, let. a, sont réservées.[^68-2]
+<sup>3</sup> Les congés accordés par l’autorité compétente ne peuvent dépasser quatre ans. Les exceptions relevant de l’art. 88, al. 1, let. a, sont réservées.[^68-2]
 
 [^68-1]: Nouvelle teneur selon le ch. I de l’O du 22 nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6737](https://fedlex.data.admin.ch/eli/oc/2017/753)).
-[^68-2]: Introduit par le ch. I de l’O du 15 juin 2007 ([RO 2007 2871](https://fedlex.data.admin.ch/eli/oc/2007/379)). Nouvelle teneur selon le ch. I de l’O du 24 nov. 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 5793](https://fedlex.data.admin.ch/eli/oc/2010/821)).
+[^68-2]: Introduit par le ch. I de l’O du 15 juin 2007 ([RO 2007 2871](https://fedlex.data.admin.ch/eli/oc/2007/379)). Nouvelle teneur selon le ch. I de l’O du 27 mai 2026, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2026 309](https://fedlex.data.admin.ch/eli/oc/2026/309)).
 
 ### Section 6 Autres prestations de l’employeur
 
@@ -2170,7 +2198,7 @@ Les indemnités visées à l’art. 19, al. 4, LPers peuvent être versées lors
 Aucune indemnité n’est versée aux personnes:
 
 - a. qui trouvent un emploi auprès d’un des employeurs définis à l’art. 3 LPers;
-- b.[^78-10] dont le contrat de travail est résilié au terme des délais fixés à l’art. 31*a*, al. 1, pour cause d’aptitude ou de capacité insuffisante;
+- b.[^78-10] dont le contrat de travail est résilié au terme des délais fixés à l’art. 31*b* pour cause d’aptitude ou de capacité insuffisante;
 - c. dont le contrat de travail est résilié en application de l’art. 31;
 - d.[^78-11] dont le contrat de travail est résilié d’un commun accord pour des raisons d’exploitation ou de politique du personnel et à qui l’employeur verse des prestations au sens de l’art. 106;[^78-12]
 - e.[^78-13] qui perçoivent des prestations en cas de retraite anticipée selon l’art. 105*b*.
@@ -2192,7 +2220,7 @@ Aucune indemnité n’est versée aux personnes:
 [^78-7]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> mai 2013, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1515](https://fedlex.data.admin.ch/eli/oc/2013/354)).
 [^78-8]: Abrogée par le ch. I de l’O du 12 oct. 2016, avec effet au 1<sup>er</sup> déc. 2016 ([RO 2016 3637](https://fedlex.data.admin.ch/eli/oc/2016/611)).
 [^78-9]: Introduit par le ch. I de l’O du 27 nov. 2009, en vigueur depuis le 1<sup>er</sup> janv. 2010 ([RO 2009 6417](https://fedlex.data.admin.ch/eli/oc/2009/785)).
-[^78-10]: Nouvelle teneur selon le ch. I de l’O du 2 déc. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4507](https://fedlex.data.admin.ch/eli/oc/2016/734)).
+[^78-10]: Nouvelle teneur selon le ch. I de l’O du 27 mai 2026, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2026 309](https://fedlex.data.admin.ch/eli/oc/2026/309)).
 [^78-11]: Introduite par le ch. I de l’O du 2 déc. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4507](https://fedlex.data.admin.ch/eli/oc/2016/734)).
 [^78-12]: Nouvelle teneur selon le ch. I de l’O du 27 nov. 2009, en vigueur depuis le 1<sup>er</sup> janv. 2010 ([RO 2009 6417](https://fedlex.data.admin.ch/eli/oc/2009/785)).
 [^78-13]: Introduite par le ch. I de l’O du 22 nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6737](https://fedlex.data.admin.ch/eli/oc/2017/753)).
@@ -2674,12 +2702,11 @@ Les employés participant à un processus d’achat ou de décision ont égaleme
 
 <sup>3</sup> L’employé ne peut déposer en justice ni comme partie, ni comme témoin, ni comme personne appelée à donner des renseignements ou expert, sur des constatations en rapport avec ses tâches, faites en raison de ces dernières ou dans l’exercice de ses fonctions, qu’avec l’autorisation écrite de l’autorité compétente en vertu de l’art. 2. Aucune autorisation n’est nécessaire si les dépositions concernent des faits qui justifient une obligation de dénoncer ou de signaler de la part de l’employé en vertu de l’art. 302 du code de procédure pénale[^94-1] ou de l’art. 22*a*, al. 1 et 2, LPers.[^94-2]
 
-<sup>4</sup> L’art. 156 de la loi du 13 décembre 2002 sur le Parlement[^94-3] est réservé.[^94-4]
+<sup>4</sup> Aucune autorisation de l’autorité compétente en vertu de l’art. 2 n’est nécessaire si la révélation de secrets a lieu dans le cadre d’une fonction autre que celle de partie, de témoin, de personne appelée à donner des renseignements ou d’expert et qu’elle repose sur une obligation ou une habilitation légale.[^94-3]
 
 [^94-1]: [RS 312.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6214)
 [^94-2]: Nouvelle teneur selon le ch. I de l’O du 2 déc. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4507](https://fedlex.data.admin.ch/eli/oc/2016/734)).
-[^94-3]: [RS 171.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4991)
-[^94-4]: Nouvelle teneur selon le ch. I de l’O du 12 juin 2015, en vigueur depuis le 1<sup>er</sup> août 2015 ([RO 2015 2243](https://fedlex.data.admin.ch/eli/oc/2015/417)).
+[^94-3]: Nouvelle teneur selon le ch. I de l’O du 27 mai 2026, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2026 309](https://fedlex.data.admin.ch/eli/oc/2026/309)).
 
 #### Art. 94a
 
@@ -3009,6 +3036,10 @@ Un travail au sein de l’administration fédérale peut raisonnablement être e
 <sup>1</sup> L’unité administrative conclut des accords avec les employés touchés par une restructuration ou une réorganisation.
 
 <sup>2</sup> Les accords contiennent les mesures à prendre conjointement avec les employés, leur durée, les prestations de l’employeur ainsi que les conséquences d’une violation des obligations de collaborer au sens de l’art. 104, al. 3.
+
+<sup>3</sup> Il n’est pas nécessaire de conclure un accord lorsqu’un employé touché par une restructuration ou une réorganisation obtient un travail dans la même fonction qu’auparavant ou un travail réputé raisonnablement exigible dans une unité administrative au sens de l’art. 1, al. 1, let. a.[^104c-1]
+
+[^104c-1]: Introduit par le ch. I de l’O du 27 mai 2026, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2026 309](https://fedlex.data.admin.ch/eli/oc/2026/309)).
 
 #### Art. 104d
 
@@ -3569,15 +3600,83 @@ Si la fonction des employés âgés de 55 ans révolus ou plus lors de l’entr�
 
 **Dispositions transitoires relatives à la modification du 3 septembre 2025**[^116m-1]
 
-<sup>1</sup> Le 1<sup>er</sup> janvier 2027, le salaire des employés engagés sous l’ancien système correspond à leur ancien salaire, augmenté de l’indemnité de résidence en vigueur au 31 décembre 2026.
+<sup>1</sup> Le 1<sup>er</sup> janvier 2027, le salaire des employés qui ont été engagés sous l’ancien système salarial correspond au moins à leur ancien salaire, augmenté de l’indemnité de résidence en vigueur au 31 décembre 2026.[^116m-2]
 
-<sup>2</sup> Si, au 31 décembre 2026, le salaire des employés augmenté de l’indemnité de résidence en vigueur est inférieur au salaire de départ de la classe de salaire pour l’année d’expérience correspondante, le salaire est augmenté au 1<sup>er</sup> janvier 2027 jusqu’à concurrence de ce salaire de départ.
+<sup>1bis</sup> Le 1<sup>er</sup> janvier 2027, le salaire des employés qui ont été engagés sous l’ancien système salarial, qui sont affectés à cette date à l’étranger et qui entrent dans le champ d’application de l’ordonnance du DFAE du 20 septembre 2002 concernant l’ordonnance sur le personnel de la Confédération[^116m-3] correspond à leur ancien salaire, augmenté de l’indemnité de résidence prévue pour l’ancienne zone de résidence 13.[^116m-4]
 
-<sup>3</sup> L’évolution du salaire déterminée en 2026 sur la base de l’art. 39, al. 5, prend effet le 1<sup>er</sup> janvier 2027 sur la base du salaire visé à l’al. 1.
+<sup>1ter</sup> Le 1<sup>er</sup> janvier 2027, le salaire des officiers de carrière, officiers généraux compris, des sous-officiers de carrière et des membres du service de vol militaire qui ont été engagés sous l’ancien système salarial et auxquels un lieu de travail a été ou est assigné conformément à l’art. 18, al. 1, de l’ordonnance du DDPS du 26 novembre 2024 sur le personnel militaire[^116m-5] correspond à leur ancien salaire, augmenté de l’indemnité de résidence prévue pour l’ancienne zone de résidence 13.[^116m-6]
+
+<sup>1quater</sup> Le 1<sup>er</sup> janvier 2027, le salaire des aspirants qui ont déjà commencé la formation de spécialiste en douane et sécurité des frontières au moment de l’entrée en vigueur du nouveau système salarial est augmenté jusqu’à concurrence du salaire de départ de la classe de salaire 12 pour l’année d’expérience correspondante. Une fois la formation réussie, il est augmenté jusqu’à concurrence du salaire de départ de la classe de salaire 17 pour l’année d’expérience correspondante.[^116m-7]
+
+<sup>2</sup> Toute évolution du salaire au sens de l’art. 39, al. 5, prend effet le 1<sup>er</sup> janvier 2027 sur la base du salaire visé aux al. 1 à 1<sup>ter</sup>.[^116m-8]
+
+<sup>2bis</sup> Le 1<sup>er</sup> janvier 2027, le salaire visé aux al. 1 à 1<sup>ter</sup> est augmenté jusqu’à concurrence du salaire de départ de la classe de salaire pour l’année d’expérience correspondante s’il est inférieur à ce salaire de départ majoré de l’évolution visée à l’al. 2. Les al. 3 à 3<sup>ter</sup>, 3<sup>quinquies</sup> et 3<sup>septies</sup> sont réservés.[^116m-9]
+
+<sup>3</sup>
+
+Les années d’expérience que les employés engagés sous l’ancien système salarial ont accumulées jusqu’au 31 décembre 2026 sont prises en compte comme suit pour la définition de la position du salaire dans la classe de salaire:
+
+- a. à hauteur de 100 % de la différence entre l’âge actuel de l’employé et ses 20 ans pour les classes de salaire 1 à 5;
+- b. à hauteur de 75 % de la différence entre l’âge actuel de l’employé et ses 20 ans pour les classes de salaire 6 à 17;
+- c. à hauteur de 75 % de la différence entre l’âge actuel de l’employé et ses 24 ans pour les classes de salaire 18 à 23;
+- d. à hauteur de 75 % de la différence entre l’âge actuel de l’employé et ses 26 ans pour les classes de salaire 24 à 27;
+- e. à hauteur de 50 % de la différence entre l’âge actuel de l’employé et ses 26 ans pour les classes de salaire 28 à 38.[^116m-10]
+
+<sup>3bis</sup>
+
+Les années d’expérience professionnelle et extra-professionnelle de l’employé qui ont un rapport réel avec la fonction actuelle sont prises en compte en tant qu’années d’expérience en lieu et place des années d’expérience visées à l’al. 3, aux conditions suivantes:
+
+- a. le 1<sup>er</sup> janvier 2027, le salaire donne lieu à une augmentation;
+- b. les années d’expérience calculées sur la base de l’al. 3 sont supérieures à dix ans, et
+- c. l’écart par rapport aux années d’expérience prises en compte sur la base du curriculum vitae est supérieur à 25 %.[^116m-11]
+
+<sup>3ter</sup>
+
+Les années d’expérience professionnelle et extra-professionnelle de l’employé qui ont un rapport réel avec la fonction actuelle sont prises en compte en tant qu’années d’expérience en lieu et place des années d’expérience visées à l’al. 3, aux conditions suivantes:
+
+- a. le 1<sup>er</sup> janvier 2027, le salaire donne lieu à une augmentation;
+- b. les années d’expérience calculées sur la base de l’al. 3 ne dépassent pas dix ans, et
+- c. l’écart par rapport aux années d’expérience prises en compte sur la base du curriculum vitae est supérieur à 50 %.[^116m-12]
+
+<sup>3<sup>quater</sup></sup> L’écart visé aux al. 3<sup>bis</sup>, let. c, et 3<sup>ter</sup>, let. c, s’obtient en divisant la différence entre les années d’expérience calculées sur la base de l’al. 3 et celles prises en compte sur la base du curriculum vitae par les années d’expérience calculées sur la base de l’al. 3, puis en multipliant le résultat par 100.[^116m-13]
+
+<sup>3quinquies</sup> Si, le 1<sup>er</sup> janvier 2027, les années d’expérience déterminées sur la base de l’al. 3 sont inférieures aux exigences minimales liées à la fonction, l’employé est temporairement rangé dans une classe de salaire inférieure de deux classes à la classe de salaire initiale. Son affectation à une classe de salaire inférieure est supprimée dès que les exigences sont satisfaites, mais au plus tard après cinq ans. Le salaire est fixé dans la classe de salaire initiale sur la base d’un nombre d’années d’expérience nul. L’al. 3<sup>septies</sup> est réservé.[^116m-14]
+
+<sup>3sexies</sup>
+
+Par exigences minimales liées à la fonction, on entend:
+
+- a. pour les classes de salaire 18 à 23: un bachelor ou un certificat fédéral de capacité et une expérience professionnelle de trois ans;
+- b. pour les classes de salaire 24 et plus: un master, un bachelor et une expérience professionnelle de deux ans ou un certificat fédéral de capacité et une expérience professionnelle de cinq ans.[^116m-15]
+
+<sup>3septies</sup> L’employé est temporairement rangé dans la classe de salaire 15 si, le 1<sup>er</sup> janvier 2027, il justifie d’une expérience inférieure à cinq ans pour les fonctions du secteur des services numériques et de l’informatique qui figurent dans le catalogue des fonctions de référence établi par le DFF en vertu de l’art. 52, al. 4, et qui sont rangées dans les classes de salaire 16 à 23. Son affectation à cette classe de salaire inférieure est supprimée dès que les exigences sont satisfaites, mais au plus tard après cinq ans. Les conditions en vigueur sur le marché de l’emploi sont prises en compte. Le salaire est fixé dans la classe de salaire initiale sur la base d’un nombre d’années d’expérience nul.[^116m-16]
 
 <sup>4</sup> Le montant des primes de fonction et des allocations liées au marché de l’emploi octroyées avant le 1<sup>er</sup> janvier 2027 est régi par l’ancien droit.
 
 [^116m-1]: Introduit par le ch. I de l’O du 3 sept. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 569](https://fedlex.data.admin.ch/eli/oc/2025/569)).
+[^116m-2]: Nouvelle teneur selon le ch. I de l’O du 27 mai 2026, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2026 309](https://fedlex.data.admin.ch/eli/oc/2026/309)).
+[^116m-3]: [RS 172.220.111.343.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5365)
+[^116m-4]: Introduit par le ch. I de l’O du 27 mai 2026, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2026 309](https://fedlex.data.admin.ch/eli/oc/2026/309)).
+[^116m-5]: [RS 172.220.111.310.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5352)
+[^116m-6]: Introduit par le ch. I de l’O du 27 mai 2026, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2026 309](https://fedlex.data.admin.ch/eli/oc/2026/309)).
+[^116m-7]: Introduit par le ch. I de l’O du 27 mai 2026, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2026 309](https://fedlex.data.admin.ch/eli/oc/2026/309)).
+[^116m-8]: Nouvelle teneur selon le ch. I de l’O du 27 mai 2026, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2026 309](https://fedlex.data.admin.ch/eli/oc/2026/309)).
+[^116m-9]: Introduit par le ch. I de l’O du 27 mai 2026, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2026 309](https://fedlex.data.admin.ch/eli/oc/2026/309)).
+[^116m-10]: Nouvelle teneur selon le ch. I de l’O du 27 mai 2026, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2026 309](https://fedlex.data.admin.ch/eli/oc/2026/309)).
+[^116m-11]: Introduit par le ch. I de l’O du 27 mai 2026, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2026 309](https://fedlex.data.admin.ch/eli/oc/2026/309)).
+[^116m-12]: Introduit par le ch. I de l’O du 27 mai 2026, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2026 309](https://fedlex.data.admin.ch/eli/oc/2026/309)).
+[^116m-13]: Introduit par le ch. I de l’O du 27 mai 2026, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2026 309](https://fedlex.data.admin.ch/eli/oc/2026/309)).
+[^116m-14]: Introduit par le ch. I de l’O du 27 mai 2026, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2026 309](https://fedlex.data.admin.ch/eli/oc/2026/309)).
+[^116m-15]: Introduit par le ch. I de l’O du 27 mai 2026, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2026 309](https://fedlex.data.admin.ch/eli/oc/2026/309)).
+[^116m-16]: Introduit par le ch. I de l’O du 27 mai 2026, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2026 309](https://fedlex.data.admin.ch/eli/oc/2026/309)).
+
+#### Art. 116n
+
+**Disposition transitoire relative à la modification du 27 mai 2026**[^116n-1]
+
+Les employés qui atteignent l’âge de 60 ans en 2027 ou 2028 ont droit à 6 semaines et 4 jours de vacances par année civile jusqu’au 31 décembre 2028.
+
+[^116n-1]: Introduit par le ch. I de l’O du 27 mai 2026, en vigueur depuis le 1<sup>er</sup> juil. 2026 ([RO 2026 309](https://fedlex.data.admin.ch/eli/oc/2026/309)).
 
 #### Art. 117
 
