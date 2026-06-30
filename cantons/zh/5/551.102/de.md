@@ -4,34 +4,34 @@ number: "551.102"
 title: Verordnung über die Entschädigung für gemeindepolizeiliche Aufgaben (VEGPA)
 short: VEGPA
 language: de
-version: "2018-01-01"
-nachtrag: "99"
-valid_until: 2026-07-01
+version: "2026-07-01"
+nachtrag: "133"
 adopted: 2005-07-06
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-551_102-2005_07_06-2006_01_01-099.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-551_102-2005_07_06-2006_01_01-133.html"
 text: pdf
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZH. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Verordnung über die Entschädigung für gemeindepolizeiliche Aufgaben
+# Verordnung über die Entschädigung für gemeindepolizeiliche Aufgaben (VEGPA)
 
-(vom 6. Juli 2005)[^t-1]
+(vom 6. Juli 2005)[^t-2][^t-1]
 
 Der Regierungsrat,
 
-gestützt auf § 35 Abs. 1 lit. b des Polizeiorganisationsgesetzes (POG) vom 29. November 2004[^t-2],
+gestützt auf § 35 Abs. 1 lit. b des Polizeiorganisationsgesetzes (POG) vom 29. November 2004[^t-3],
 
 beschliesst:
 
-[^t-1]: OS 60, 481.
-[^t-2]: LS 551.1.
+[^t-1]: Fassung gemäss RRB vom 25. März 2026 (OS 81, 307; ABl 2026-04-17). In Kraft seit 1. Juli 2026.
+[^t-2]: OS 60, 481.
+[^t-3]: LS 551.1.
 
 #### § 1
 
 **Grundsatz**
 
-<sup>1</sup> Nimmt die Kantonspolizei polizeiliche Aufgaben wahr, die gemäss POG[^t-2] von den Gemeinden zu erfüllen sind, so leistet ihr die Gemeinde eine pauschale Entschädigung gemäss dieser Verordnung.
+<sup>1</sup> Nimmt die Kantonspolizei polizeiliche Aufgaben wahr, die gemäss POG[^t-3] von den Gemeinden zu erfüllen sind, so leistet ihr die Gemeinde eine pauschale Entschädigung gemäss dieser Verordnung.
 
 <sup>2</sup> Beansprucht eine Gemeinden weiter gehende Leistungen der Kantonspolizei, werden ihr diese gesondert und nach Aufwand in Rechnung gestellt.
 
@@ -45,15 +45,15 @@ beschliesst:
 
 **Fr. 10 Fr. 14 Fr. 18 Fr. 22**
 
-<sup>2</sup> Massgebend sind die vom Statistischen Amt festgestellten Einwohnerzahlen am 31. Dezember des Vorjahres.
-
-#### § 3
+<sup>2</sup> Massgebend sind die vom Amt für Statistik und Daten festgestellten Einwohnerzahlen am 31. Dezember des Vorjahres.[^2-1]
 
 **Abzug a. Gemeindepolizei**
 
-<sup>1</sup> Lässt eine Gemeinde die gemeindepolizeilichen Aufgaben teils durch ihre Gemeindepolizei, teils durch die Kantonspolizei erfüllen, so werden bei der Entschädigungsberechnung gemäss § 2 pro 100 Stellenprozente einer ausgebildeten Polizistin oder eines ausgebildeten Polizisten 3000 Einwohnerinnen oder Einwohner abgezogen. Teilzeitpensen werden anteilmässig angerechnet.
+§ 3. <sup>1</sup> Lässt eine Gemeinde die gemeindepolizeilichen Aufgaben teils durch ihre Gemeindepolizei, teils durch die Kantonspolizei erfüllen, so werden bei der Entschädigungsberechnung gemäss § 2 pro 100 Stellenprozente einer ausgebildeten Polizistin oder eines ausgebildeten Polizisten 3000 Einwohnerinnen oder Einwohner abgezogen. Teilzeitpensen werden anteilmässig angerechnet.
 
 <sup>2</sup> Für die restliche Einwohnerzahl bestimmt sich der Pauschalansatz gemäss § 2 Abs. 1 nach der tatsächlichen Einwohnerzahl der Gemeinde.
+
+[^2-1]: Fassung gemäss RRB vom 25. März 2026 (OS 81, 307; ABl 2026-04-17). In Kraft seit 1. Juli 2026.
 
 #### § 4
 
@@ -63,7 +63,7 @@ beschliesst:
 
 **1**
 
-- 1\. 1. 18 - 99
+- 1\. 7. 26 - 133
 
 <sup>2</sup> Die auf eine Gemeinde entfallenden Stellenprozente werden gemäss § 3 berücksichtigt.
 
